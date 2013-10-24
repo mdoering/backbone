@@ -1,5 +1,4 @@
-Sphaeromphale clandestina (Ach.) Trevis. SPECIES
-=======
+# Sphaeromphale clandestina (Ach.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

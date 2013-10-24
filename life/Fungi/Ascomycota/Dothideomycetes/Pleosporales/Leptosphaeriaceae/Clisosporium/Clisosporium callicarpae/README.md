@@ -1,5 +1,4 @@
-Clisosporium callicarpae (Cooke) Kuntze SPECIES
-=======
+# Clisosporium callicarpae (Cooke) Kuntze SPECIES
 
 #### Status
 ACCEPTED

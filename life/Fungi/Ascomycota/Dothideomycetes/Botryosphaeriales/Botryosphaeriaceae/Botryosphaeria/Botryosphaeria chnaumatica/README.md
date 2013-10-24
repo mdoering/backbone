@@ -1,5 +1,4 @@
-Botryosphaeria chnaumatica (Wallr.) Sacc. SPECIES
-=======
+# Botryosphaeria chnaumatica (Wallr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

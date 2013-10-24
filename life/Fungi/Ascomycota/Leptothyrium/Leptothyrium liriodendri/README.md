@@ -1,5 +1,4 @@
-Leptothyrium liriodendri Cooke SPECIES
-=======
+# Leptothyrium liriodendri Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria alboaspera var. alboaspera VARIETY
-=======
+# Pertusaria alboaspera A.W. Archer & Elix SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 49: 143 (1993)
 
 #### Original name
-Pertusaria alboaspera var. alboaspera
+Pertusaria alboaspera A.W. Archer & Elix
 
 ### Remarks
 null

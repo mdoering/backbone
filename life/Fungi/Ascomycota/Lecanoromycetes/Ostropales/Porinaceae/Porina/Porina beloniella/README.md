@@ -1,5 +1,4 @@
-Porina beloniella (Nyl.) Zahlbr. SPECIES
-=======
+# Porina beloniella (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

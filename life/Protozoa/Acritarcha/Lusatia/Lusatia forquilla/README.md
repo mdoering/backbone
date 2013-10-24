@@ -1,5 +1,4 @@
-Lusatia forquilla (Cramer & Díez, 1972) Sarjeant & Vavrdová, 1997 SPECIES
-=======
+# Lusatia forquilla (Cramer & Díez, 1972) Sarjeant & Vavrdová, 1997 SPECIES
 
 #### Status
 ACCEPTED

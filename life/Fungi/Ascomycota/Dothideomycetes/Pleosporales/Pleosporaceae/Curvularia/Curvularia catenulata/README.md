@@ -1,5 +1,4 @@
-Curvularia catenulata S.M. Reddy & Bilgrami, 1968 SPECIES
-=======
+# Curvularia catenulata S.M. Reddy & Bilgrami, 1968 SPECIES
 
 #### Status
 ACCEPTED

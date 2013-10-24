@@ -1,5 +1,4 @@
-Scolicotrichum cladosporioideum Maire SPECIES
-=======
+# Scolicotrichum cladosporioideum Maire SPECIES
 
 #### Status
 ACCEPTED

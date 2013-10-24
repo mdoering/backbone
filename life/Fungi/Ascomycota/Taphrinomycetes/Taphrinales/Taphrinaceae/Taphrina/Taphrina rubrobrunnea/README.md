@@ -1,5 +1,4 @@
-Taphrina rubrobrunnea (Peck) Sacc. SPECIES
-=======
+# Taphrina rubrobrunnea (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

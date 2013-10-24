@@ -1,5 +1,4 @@
-Stigmatopsis baccarinii Traverso SPECIES
-=======
+# Stigmatopsis baccarinii Traverso SPECIES
 
 #### Status
 ACCEPTED

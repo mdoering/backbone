@@ -1,5 +1,4 @@
-Patella contradicta Seaver SPECIES
-=======
+# Patella contradicta Seaver SPECIES
 
 #### Status
 ACCEPTED

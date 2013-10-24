@@ -1,5 +1,4 @@
-Grandinia livescens P. Karst. SPECIES
-=======
+# Grandinia livescens P. Karst. SPECIES
 
 #### Status
 ACCEPTED

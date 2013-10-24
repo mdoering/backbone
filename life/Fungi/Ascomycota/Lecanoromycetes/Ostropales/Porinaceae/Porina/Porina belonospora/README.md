@@ -1,5 +1,4 @@
-Porina belonospora (Nyl.) Müll. Arg. SPECIES
-=======
+# Porina belonospora (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

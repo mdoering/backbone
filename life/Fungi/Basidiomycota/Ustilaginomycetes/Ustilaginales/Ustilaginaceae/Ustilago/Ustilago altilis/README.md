@@ -1,5 +1,4 @@
-Ustilago altilis Syd. SPECIES
-=======
+# Ustilago altilis Syd. SPECIES
 
 #### Status
 ACCEPTED

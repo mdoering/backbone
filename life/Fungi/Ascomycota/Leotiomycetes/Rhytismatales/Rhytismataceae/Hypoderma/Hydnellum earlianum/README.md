@@ -1,5 +1,4 @@
-Hydnellum earlianum Banker, 1906 SPECIES
-=======
+# Hydnellum earlianum Banker, 1906 SPECIES
 
 #### Status
 DOUBTFUL

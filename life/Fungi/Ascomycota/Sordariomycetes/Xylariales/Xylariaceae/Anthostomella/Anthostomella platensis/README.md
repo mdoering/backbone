@@ -1,5 +1,4 @@
-Anthostomella platensis Speg. SPECIES
-=======
+# Anthostomella platensis Speg. SPECIES
 
 #### Status
 ACCEPTED

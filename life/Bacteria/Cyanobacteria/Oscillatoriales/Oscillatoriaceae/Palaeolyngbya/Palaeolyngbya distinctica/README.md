@@ -1,5 +1,4 @@
-Palaeolyngbya distinctica J. Mandal & P. K. Maithy SPECIES
-=======
+# Palaeolyngbya distinctica J. Mandal & P. K. Maithy SPECIES
 
 #### Status
 ACCEPTED

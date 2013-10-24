@@ -1,5 +1,4 @@
-Nectria indigeus SPECIES
-=======
+# Nectria indigeus SPECIES
 
 #### Status
 ACCEPTED

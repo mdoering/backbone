@@ -1,5 +1,4 @@
-Amanita duplex Corner & Bas SPECIES
-=======
+# Amanita duplex Corner & Bas SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bulimina schwageriana Brady SPECIES
-=======
+# Bulimina schwageriana Brady SPECIES
 
 #### Status
 ACCEPTED

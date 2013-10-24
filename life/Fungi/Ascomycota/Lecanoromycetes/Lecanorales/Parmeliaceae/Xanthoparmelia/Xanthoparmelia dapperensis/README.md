@@ -1,5 +1,4 @@
-Xanthoparmelia dapperensis Elix SPECIES
-=======
+# Xanthoparmelia dapperensis Elix SPECIES
 
 #### Status
 ACCEPTED

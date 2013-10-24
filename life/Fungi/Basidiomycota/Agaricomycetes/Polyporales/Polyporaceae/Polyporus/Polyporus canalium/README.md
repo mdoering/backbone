@@ -1,5 +1,4 @@
-Polyporus canalium (Lour.) Fr. SPECIES
-=======
+# Polyporus canalium (Lour.) Fr. SPECIES
 
 #### Status
 ACCEPTED

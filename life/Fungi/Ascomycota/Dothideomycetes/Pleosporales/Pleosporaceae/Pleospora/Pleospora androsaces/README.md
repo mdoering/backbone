@@ -1,5 +1,4 @@
-Pleospora androsaces Fuckel, 1875 SPECIES
-=======
+# Pleospora androsaces Fuckel, 1875 SPECIES
 
 #### Status
 ACCEPTED

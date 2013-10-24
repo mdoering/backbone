@@ -1,5 +1,4 @@
-Harpophora W. Gams GENUS
-=======
+# Harpophora W. Gams GENUS
 
 #### Status
 ACCEPTED

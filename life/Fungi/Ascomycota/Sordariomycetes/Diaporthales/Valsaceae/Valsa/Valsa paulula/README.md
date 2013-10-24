@@ -1,5 +1,4 @@
-Valsa paulula Cooke & Ellis SPECIES
-=======
+# Valsa paulula Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

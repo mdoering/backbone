@@ -1,5 +1,4 @@
-Fusarium discolor Appel & Wollenw. SPECIES
-=======
+# Fusarium discolor Appel & Wollenw. SPECIES
 
 #### Status
 ACCEPTED

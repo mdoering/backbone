@@ -1,5 +1,4 @@
-Endocarpon pertusum Wahlenb. SPECIES
-=======
+# Endocarpon pertusum Wahlenb. SPECIES
 
 #### Status
 ACCEPTED

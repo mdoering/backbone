@@ -1,5 +1,4 @@
-Buellia nivalis (Bagl. & Carestia) Hertel SPECIES
-=======
+# Buellia nivalis (Bagl. & Carestia) Hertel SPECIES
 
 #### Status
 ACCEPTED

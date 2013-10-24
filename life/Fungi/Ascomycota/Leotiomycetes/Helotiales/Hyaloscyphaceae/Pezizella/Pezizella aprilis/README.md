@@ -1,5 +1,4 @@
-Pezizella aprilis Velen. SPECIES
-=======
+# Pezizella aprilis Velen. SPECIES
 
 #### Status
 ACCEPTED

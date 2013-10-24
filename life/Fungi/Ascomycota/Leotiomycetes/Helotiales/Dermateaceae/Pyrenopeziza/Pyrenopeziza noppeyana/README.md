@@ -1,5 +1,4 @@
-Pyrenopeziza noppeyana (Feltgen) Höhn. SPECIES
-=======
+# Pyrenopeziza noppeyana (Feltgen) Höhn. SPECIES
 
 #### Status
 ACCEPTED

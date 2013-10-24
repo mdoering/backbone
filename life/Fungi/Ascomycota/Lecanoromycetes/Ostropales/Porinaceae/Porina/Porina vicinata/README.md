@@ -1,5 +1,4 @@
-Porina vicinata Zahlbr. SPECIES
-=======
+# Porina vicinata Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Blepharisma fusiforme Vuxanovici, 1963 SPECIES
-=======
+# Blepharisma fusiforme Vuxanovici, 1963 SPECIES
 
 #### Status
 ACCEPTED

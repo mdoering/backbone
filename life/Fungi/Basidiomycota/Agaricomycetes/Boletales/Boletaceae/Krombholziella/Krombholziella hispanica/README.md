@@ -1,5 +1,4 @@
-Krombholziella hispanica (G. Moreno) Bon & Contu SPECIES
-=======
+# Krombholziella hispanica (G. Moreno) Bon & Contu SPECIES
 
 #### Status
 ACCEPTED

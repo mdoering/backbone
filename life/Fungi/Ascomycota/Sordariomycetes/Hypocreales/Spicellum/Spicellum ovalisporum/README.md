@@ -1,5 +1,4 @@
-Spicellum ovalisporum Seifert & Rehner SPECIES
-=======
+# Spicellum ovalisporum Seifert & Rehner SPECIES
 
 #### Status
 ACCEPTED

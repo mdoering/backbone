@@ -1,5 +1,4 @@
-Gibbera selaginellae M.L. Farr & Horner SPECIES
-=======
+# Gibbera selaginellae M.L. Farr & Horner SPECIES
 
 #### Status
 ACCEPTED

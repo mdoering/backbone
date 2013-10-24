@@ -1,5 +1,4 @@
-Phomopsioides mastoidea (M.E.A. Costa & Sousa da Câmara) Dias & Sousa da Câmara SPECIES
-=======
+# Phomopsioides mastoidea (M.E.A. Costa & Sousa da Câmara) Dias & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

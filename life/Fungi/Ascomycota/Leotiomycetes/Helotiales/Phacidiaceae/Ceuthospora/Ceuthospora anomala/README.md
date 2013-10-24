@@ -1,5 +1,4 @@
-Ceuthospora anomala Nag Raj SPECIES
-=======
+# Ceuthospora anomala Nag Raj SPECIES
 
 #### Status
 ACCEPTED

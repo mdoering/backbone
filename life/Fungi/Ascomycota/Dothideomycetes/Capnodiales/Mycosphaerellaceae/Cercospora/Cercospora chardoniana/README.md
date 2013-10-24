@@ -1,5 +1,4 @@
-Cercospora chardoniana Chupp SPECIES
-=======
+# Cercospora chardoniana Chupp SPECIES
 
 #### Status
 ACCEPTED

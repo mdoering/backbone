@@ -1,5 +1,4 @@
-Tetramelas terricola (A. Nordin) Kalb SPECIES
-=======
+# Tetramelas terricola (A. Nordin) Kalb SPECIES
 
 #### Status
 ACCEPTED

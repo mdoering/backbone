@@ -1,5 +1,4 @@
-Phaeaster pascheri Scherffel SPECIES
-=======
+# Phaeaster pascheri Scherffel SPECIES
 
 #### Status
 ACCEPTED

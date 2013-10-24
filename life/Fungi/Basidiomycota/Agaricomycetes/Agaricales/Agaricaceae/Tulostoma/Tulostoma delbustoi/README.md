@@ -1,5 +1,4 @@
-Tulostoma delbustoi J.E. Wright SPECIES
-=======
+# Tulostoma delbustoi J.E. Wright SPECIES
 
 #### Status
 ACCEPTED

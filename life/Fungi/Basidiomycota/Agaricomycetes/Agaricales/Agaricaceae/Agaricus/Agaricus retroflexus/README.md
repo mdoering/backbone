@@ -1,5 +1,4 @@
-Agaricus retroflexus Berk. & Broome SPECIES
-=======
+# Agaricus retroflexus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

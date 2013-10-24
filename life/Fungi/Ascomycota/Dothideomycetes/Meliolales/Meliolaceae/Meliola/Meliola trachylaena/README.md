@@ -1,5 +1,4 @@
-Meliola trachylaena (Syd.) Cif. SPECIES
-=======
+# Meliola trachylaena (Syd.) Cif. SPECIES
 
 #### Status
 ACCEPTED

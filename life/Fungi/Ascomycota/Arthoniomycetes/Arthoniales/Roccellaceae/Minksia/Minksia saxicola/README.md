@@ -1,5 +1,4 @@
-Minksia saxicola J. Hedrick SPECIES
-=======
+# Minksia saxicola J. Hedrick SPECIES
 
 #### Status
 ACCEPTED

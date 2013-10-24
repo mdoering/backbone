@@ -1,5 +1,4 @@
-Bovistella australiana Lloyd SPECIES
-=======
+# Bovistella australiana Lloyd SPECIES
 
 #### Status
 ACCEPTED

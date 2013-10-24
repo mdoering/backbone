@@ -1,5 +1,4 @@
-Usnea humboldtii Motyka ex Räsänen SPECIES
-=======
+# Usnea humboldtii Motyka ex Räsänen SPECIES
 
 #### Status
 ACCEPTED

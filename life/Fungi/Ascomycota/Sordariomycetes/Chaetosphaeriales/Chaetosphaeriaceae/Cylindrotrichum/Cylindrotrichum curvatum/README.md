@@ -1,5 +1,4 @@
-Cylindrotrichum curvatum Morgan-Jones SPECIES
-=======
+# Cylindrotrichum curvatum Morgan-Jones SPECIES
 
 #### Status
 ACCEPTED

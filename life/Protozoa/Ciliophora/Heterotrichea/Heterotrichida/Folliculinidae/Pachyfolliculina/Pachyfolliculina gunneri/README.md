@@ -1,5 +1,4 @@
-Pachyfolliculina gunneri (Dons, 1927) Hadzi, 1951 SPECIES
-=======
+# Pachyfolliculina gunneri (Dons, 1927) Hadzi, 1951 SPECIES
 
 #### Status
 ACCEPTED

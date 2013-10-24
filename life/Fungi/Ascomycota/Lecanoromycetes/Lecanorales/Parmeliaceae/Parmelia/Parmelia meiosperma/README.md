@@ -1,5 +1,4 @@
-Parmelia meiosperma var. meiosperma VARIETY
-=======
+# Parmelia meiosperma (Hue) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Ann. Mo. bot. Gdn 46(1-2): 139 (1959)
 
 #### Original name
-Parmelia meiosperma var. meiosperma
+Parmelia internexa f. meiosperma Hue
 
 ### Remarks
 null

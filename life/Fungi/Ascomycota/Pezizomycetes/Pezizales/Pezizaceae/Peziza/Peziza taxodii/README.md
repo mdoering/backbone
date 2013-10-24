@@ -1,5 +1,4 @@
-Peziza taxodii Berk. & M.A. Curtis SPECIES
-=======
+# Peziza taxodii Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

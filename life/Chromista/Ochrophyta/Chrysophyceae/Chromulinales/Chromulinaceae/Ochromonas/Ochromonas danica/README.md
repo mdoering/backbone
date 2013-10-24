@@ -1,5 +1,4 @@
-Ochromonas danica Pringsheim SPECIES
-=======
+# Ochromonas danica Pringsheim SPECIES
 
 #### Status
 ACCEPTED

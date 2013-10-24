@@ -1,5 +1,4 @@
-Mycosphaerella melastomatacearum Bat., Cavalc. & Heringer SPECIES
-=======
+# Mycosphaerella melastomatacearum Bat., Cavalc. & Heringer SPECIES
 
 #### Status
 ACCEPTED

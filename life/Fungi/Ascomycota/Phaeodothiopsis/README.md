@@ -1,5 +1,4 @@
-Phaeodothiopsis Theiss. & Syd. GENUS
-=======
+# Phaeodothiopsis Theiss. & Syd. GENUS
 
 #### Status
 ACCEPTED

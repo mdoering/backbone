@@ -1,5 +1,4 @@
-Ascochyta galii-aristati Gonz. Frag. SPECIES
-=======
+# Ascochyta galii-aristati Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

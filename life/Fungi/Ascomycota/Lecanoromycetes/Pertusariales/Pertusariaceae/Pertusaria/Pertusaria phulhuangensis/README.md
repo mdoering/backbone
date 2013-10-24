@@ -1,5 +1,4 @@
-Pertusaria phulhuangensis Jariangpr. SPECIES
-=======
+# Pertusaria phulhuangensis Jariangpr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora heteromorpha var. vaginans Zahlbr. VARIETY
-=======
+# Lecanora heteromorpha (Ach.) J. Steiner SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora heteromorpha var. vaginans Zahlbr.
+Lecanora rubina var. heteromorpha Ach.
 
 ### Remarks
 null

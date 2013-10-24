@@ -1,5 +1,4 @@
-Mycena arenaria A.H. Sm. SPECIES
-=======
+# Mycena arenaria A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

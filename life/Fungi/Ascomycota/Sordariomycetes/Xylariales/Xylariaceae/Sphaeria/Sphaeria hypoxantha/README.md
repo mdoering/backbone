@@ -1,5 +1,4 @@
-Sphaeria hypoxantha Lév. SPECIES
-=======
+# Sphaeria hypoxantha Lév. SPECIES
 
 #### Status
 ACCEPTED

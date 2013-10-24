@@ -1,5 +1,4 @@
-Verrucaria crustulosa Nyl. SPECIES
-=======
+# Verrucaria crustulosa Nyl. SPECIES
 
 #### Status
 ACCEPTED

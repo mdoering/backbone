@@ -1,5 +1,4 @@
-Irene ekebergiae var. ekebergiae VARIETY
-=======
+# Irene ekebergiae Doidge SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Bothalia 4: 193 (1941)
 
 #### Original name
-Irene ekebergiae var. ekebergiae
+Irene ekebergiae Doidge
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Humaria gei (Pat. & Doass.) Sacc. SPECIES
-=======
+# Humaria gei (Pat. & Doass.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

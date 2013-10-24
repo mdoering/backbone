@@ -1,5 +1,4 @@
-Pholiota brunneoatra Rick SPECIES
-=======
+# Pholiota brunneoatra Rick SPECIES
 
 #### Status
 ACCEPTED

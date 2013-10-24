@@ -1,5 +1,4 @@
-Russula vanillina Kucera SPECIES
-=======
+# Russula vanillina Kucera SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptogium reticulatum Mont. SPECIES
-=======
+# Leptogium reticulatum Mont. SPECIES
 
 #### Status
 ACCEPTED

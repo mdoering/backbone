@@ -1,5 +1,4 @@
-Exosporium laricinum Massee SPECIES
-=======
+# Exosporium laricinum Massee SPECIES
 
 #### Status
 ACCEPTED

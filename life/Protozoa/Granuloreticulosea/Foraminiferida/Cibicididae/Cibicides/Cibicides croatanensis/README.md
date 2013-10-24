@@ -1,5 +1,4 @@
-Cibicides croatanensis SPECIES
-=======
+# Cibicides croatanensis SPECIES
 
 #### Status
 ACCEPTED

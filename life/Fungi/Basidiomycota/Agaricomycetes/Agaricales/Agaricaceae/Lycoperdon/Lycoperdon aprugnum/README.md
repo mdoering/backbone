@@ -1,5 +1,4 @@
-Lycoperdon aprugnum Timm SPECIES
-=======
+# Lycoperdon aprugnum Timm SPECIES
 
 #### Status
 ACCEPTED

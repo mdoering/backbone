@@ -1,5 +1,4 @@
-Cortinarius birchfieldii Rob. Henry SPECIES
-=======
+# Cortinarius birchfieldii Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

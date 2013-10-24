@@ -1,8 +1,7 @@
-Clitopilus arwidssonii Pilát SPECIES
-=======
+# Clitopilus arvidssonii Pilát SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Clitopilus arwidssonii Pilát
+Clitopilus arvidssonii Pilát
 
 ### Remarks
 null

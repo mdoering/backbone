@@ -1,5 +1,4 @@
-Sticta fuliginosa f. fuliginosa FORM
-=======
+# Sticta fuliginosa (Dicks.) Ach. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Method. Lich. 280 (1803)
 
 #### Original name
-Sticta fuliginosa f. fuliginosa
+Lichen fuliginosus With.
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Polynema ornatum (De Not.) Lév. SPECIES
-=======
+# Polynema ornata (De Not.) Lév., 1846 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls Sci. Nat. , Bot. , sér. 3 5: 274 (1846)
 
 #### Original name
 Excipula ornata De Not.

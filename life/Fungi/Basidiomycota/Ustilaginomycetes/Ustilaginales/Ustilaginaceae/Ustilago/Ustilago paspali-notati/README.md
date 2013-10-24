@@ -1,5 +1,4 @@
-Ustilago paspali-notati Henn. SPECIES
-=======
+# Ustilago paspali-notati Henn. SPECIES
 
 #### Status
 ACCEPTED

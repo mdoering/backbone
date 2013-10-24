@@ -1,5 +1,4 @@
-Debaryomyces mrakii Bouth. SPECIES
-=======
+# Debaryomyces mrakii Bouth. SPECIES
 
 #### Status
 ACCEPTED

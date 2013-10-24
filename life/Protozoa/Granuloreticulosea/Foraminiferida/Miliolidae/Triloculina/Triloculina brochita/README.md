@@ -1,5 +1,4 @@
-Triloculina brochita SPECIES
-=======
+# Triloculina brochita SPECIES
 
 #### Status
 ACCEPTED

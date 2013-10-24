@@ -1,5 +1,4 @@
-Erysiphe pseudosepulta U. Braun SPECIES
-=======
+# Erysiphe pseudosepulta U. Braun SPECIES
 
 #### Status
 ACCEPTED

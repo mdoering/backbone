@@ -1,5 +1,4 @@
-Hypoflavia crustosa Aptroot SPECIES
-=======
+# Hypoflavia crustosa Aptroot SPECIES
 
 #### Status
 ACCEPTED

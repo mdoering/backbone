@@ -1,5 +1,4 @@
-Graphis kirtoniana Müll. Arg. SPECIES
-=======
+# Graphis kirtoniana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

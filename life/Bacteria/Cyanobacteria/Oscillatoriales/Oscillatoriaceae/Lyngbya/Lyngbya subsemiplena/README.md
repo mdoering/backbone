@@ -1,5 +1,4 @@
-Lyngbya subsemiplena K. Starmach SPECIES
-=======
+# Lyngbya subsemiplena K. Starmach SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coscinodiscus oppositus Karsten, 1905 SPECIES
-=======
+# Coscinodiscus oppositus Karsten, 1905 SPECIES
 
 #### Status
 ACCEPTED

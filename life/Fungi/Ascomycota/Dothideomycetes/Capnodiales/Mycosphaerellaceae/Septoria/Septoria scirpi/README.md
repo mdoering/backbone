@@ -1,5 +1,4 @@
-Septoria scirpi Sacc. SPECIES
-=======
+# Septoria scirpi Sacc. SPECIES
 
 #### Status
 ACCEPTED

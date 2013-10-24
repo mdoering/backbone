@@ -1,5 +1,4 @@
-Agaricus pleoceps Pers. SPECIES
-=======
+# Agaricus pleoceps Pers. SPECIES
 
 #### Status
 ACCEPTED

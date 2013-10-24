@@ -1,5 +1,4 @@
-Stichosiphonaceae FAMILY
-=======
+# Stichosiphonaceae FAMILY
 
 #### Status
 ACCEPTED

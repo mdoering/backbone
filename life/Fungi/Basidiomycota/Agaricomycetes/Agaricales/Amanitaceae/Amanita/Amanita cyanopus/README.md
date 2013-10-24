@@ -1,5 +1,4 @@
-Amanita cyanopus C.M. Simmons, T.W. Henkel & Bas SPECIES
-=======
+# Amanita cyanopus C.M. Simmons, T.W. Henkel & Bas SPECIES
 
 #### Status
 ACCEPTED

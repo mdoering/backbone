@@ -1,5 +1,4 @@
-Hymenogaster rufus Vittad. SPECIES
-=======
+# Hymenogaster rufus Vittad. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Holophrya atra Svec, 1897 SPECIES
-=======
+# Holophrya atra Svec, 1897 SPECIES
 
 #### Status
 ACCEPTED

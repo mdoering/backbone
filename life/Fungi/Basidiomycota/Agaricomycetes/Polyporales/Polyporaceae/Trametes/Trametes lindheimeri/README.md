@@ -1,5 +1,4 @@
-Trametes lindheimeri Berk. & M.A. Curtis SPECIES
-=======
+# Trametes lindheimeri Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

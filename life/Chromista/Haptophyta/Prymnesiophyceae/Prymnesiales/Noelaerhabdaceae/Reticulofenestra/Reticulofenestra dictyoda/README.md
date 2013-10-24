@@ -1,5 +1,4 @@
-Reticulofenestra dictyoda (Deflandre in Deflandre & Fert, 1954) Stradner in Stradner & Edwards, 1968 SPECIES
-=======
+# Reticulofenestra dictyoda (Deflandre in Deflandre & Fert, 1954) Stradner in Stradner & Edwards, 1968 SPECIES
 
 #### Status
 ACCEPTED

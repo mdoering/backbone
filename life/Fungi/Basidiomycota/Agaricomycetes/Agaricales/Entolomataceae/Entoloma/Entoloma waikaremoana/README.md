@@ -1,5 +1,4 @@
-Entoloma waikaremoana E. Horak, 2008 SPECIES
-=======
+# Entoloma waikaremoana E. Horak, 2008 SPECIES
 
 #### Status
 ACCEPTED

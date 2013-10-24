@@ -1,5 +1,4 @@
-Clypeosphaeria contempta (Durieu & Mont.) Sacc. SPECIES
-=======
+# Clypeosphaeria contempta (Durieu & Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Humaria deligata (Peck) Sacc. SPECIES
-=======
+# Humaria deligata (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

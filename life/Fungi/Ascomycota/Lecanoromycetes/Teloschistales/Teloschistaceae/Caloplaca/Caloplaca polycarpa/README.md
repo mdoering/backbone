@@ -1,17 +1,16 @@
-Caloplaca tenuatula f. tenuatula FORM
-=======
+# Caloplaca polycarpa (A. Massal.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Öst. bot. Z. 68: 317 (1919)
 
 #### Original name
-Lecanora tenuatula Nyl.
+Callopisma aurantiacum var. polycarpum A. Massal.
 
 ### Remarks
 null

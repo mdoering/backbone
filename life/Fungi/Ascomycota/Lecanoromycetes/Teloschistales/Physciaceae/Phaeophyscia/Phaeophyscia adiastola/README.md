@@ -1,17 +1,16 @@
-Physcia adiastola Essl. SPECIES
-=======
+# Phaeophyscia adiastola (Essl.) Essl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 7(2): 293 (1978)
 
 #### Original name
-null
+Physcia adiastola Essl.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Astrostylus Haeckel, 1887 GENUS
-=======
+# Astrostylus Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

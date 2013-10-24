@@ -1,5 +1,4 @@
-Collema botrytis Hoffm. SPECIES
-=======
+# Collema botrytis Hoffm. SPECIES
 
 #### Status
 ACCEPTED

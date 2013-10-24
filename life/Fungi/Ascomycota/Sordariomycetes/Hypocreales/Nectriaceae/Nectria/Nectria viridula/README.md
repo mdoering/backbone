@@ -1,5 +1,4 @@
-Nectria viridula Pat. SPECIES
-=======
+# Nectria viridula Pat. SPECIES
 
 #### Status
 ACCEPTED

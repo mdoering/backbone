@@ -1,5 +1,4 @@
-Olla transiens (Höhn.) Baral SPECIES
-=======
+# Olla transiens (Höhn.) Baral SPECIES
 
 #### Status
 ACCEPTED

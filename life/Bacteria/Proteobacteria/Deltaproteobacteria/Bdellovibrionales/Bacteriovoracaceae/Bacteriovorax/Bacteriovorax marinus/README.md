@@ -1,5 +1,4 @@
-Bacteriovorax marinus Baer et al., 2004 SPECIES
-=======
+# Bacteriovorax marinus Baer et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

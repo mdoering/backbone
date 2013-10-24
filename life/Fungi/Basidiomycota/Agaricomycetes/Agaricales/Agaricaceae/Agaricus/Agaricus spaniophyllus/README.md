@@ -1,5 +1,4 @@
-Agaricus spaniophyllus Berk. SPECIES
-=======
+# Agaricus spaniophyllus Berk. SPECIES
 
 #### Status
 ACCEPTED

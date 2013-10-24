@@ -1,17 +1,16 @@
-Myiocopron pandani Höhn., 1920 SPECIES
-=======
+# Muyocopron pandani Höhn., 1920 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 17(2-6): 115 (1919)
 
 #### Original name
-Myiocopron pandani Höhn., 1920
+Muyocopron pandani Höhn., 1920
 
 ### Remarks
 null

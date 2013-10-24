@@ -1,5 +1,4 @@
-Stylatractylis Haeckel, 1887 GENUS
-=======
+# Stylatractylis Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

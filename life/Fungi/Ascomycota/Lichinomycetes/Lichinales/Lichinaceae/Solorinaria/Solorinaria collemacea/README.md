@@ -1,5 +1,4 @@
-Solorinaria collemacea (Wedd.) Gyeln. SPECIES
-=======
+# Solorinaria collemacea (Wedd.) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

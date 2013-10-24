@@ -1,5 +1,4 @@
-Cladosporium vincae Fairm. SPECIES
-=======
+# Cladosporium vincae Fairm. SPECIES
 
 #### Status
 ACCEPTED

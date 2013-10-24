@@ -1,5 +1,4 @@
-Sporormia brassicae Grove, 1886 SPECIES
-=======
+# Sporormia brassicae Grove, 1886 SPECIES
 
 #### Status
 ACCEPTED

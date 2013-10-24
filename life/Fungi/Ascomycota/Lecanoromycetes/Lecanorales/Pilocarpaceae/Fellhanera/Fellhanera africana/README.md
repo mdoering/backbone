@@ -1,5 +1,4 @@
-Fellhanera africana (Vezda) Lücking SPECIES
-=======
+# Fellhanera africana (Vezda) Lücking SPECIES
 
 #### Status
 ACCEPTED

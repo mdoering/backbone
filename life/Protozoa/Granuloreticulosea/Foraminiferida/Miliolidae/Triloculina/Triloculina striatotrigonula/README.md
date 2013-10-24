@@ -1,5 +1,4 @@
-Triloculina striatotrigonula Parr, 1941 SPECIES
-=======
+# Triloculina striatotrigonula Parr, 1941 SPECIES
 
 #### Status
 ACCEPTED

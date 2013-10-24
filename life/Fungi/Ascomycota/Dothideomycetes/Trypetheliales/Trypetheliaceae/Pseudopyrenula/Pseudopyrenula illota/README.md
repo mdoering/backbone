@@ -1,5 +1,4 @@
-Pseudopyrenula illota (Nyl.) Vain. SPECIES
-=======
+# Pseudopyrenula illota (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

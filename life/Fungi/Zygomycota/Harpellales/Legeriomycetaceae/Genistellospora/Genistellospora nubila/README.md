@@ -1,5 +1,4 @@
-Genistellospora nubila Lichtw., 1998 SPECIES
-=======
+# Genistellospora nubila Lichtw., 1998 SPECIES
 
 #### Status
 ACCEPTED

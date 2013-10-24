@@ -1,5 +1,4 @@
-Baryeidamia GENUS
-=======
+# Baryeidamia GENUS
 
 #### Status
 ACCEPTED

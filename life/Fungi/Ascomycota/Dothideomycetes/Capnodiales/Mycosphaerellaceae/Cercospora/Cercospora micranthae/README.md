@@ -1,5 +1,4 @@
-Cercospora micranthae A.S. Mull. & Chupp SPECIES
-=======
+# Cercospora micranthae A.S. Mull. & Chupp SPECIES
 
 #### Status
 ACCEPTED

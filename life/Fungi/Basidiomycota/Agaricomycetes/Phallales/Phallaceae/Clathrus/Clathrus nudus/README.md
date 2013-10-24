@@ -1,5 +1,4 @@
-Clathrus nudus Bolton SPECIES
-=======
+# Clathrus nudus Bolton SPECIES
 
 #### Status
 ACCEPTED

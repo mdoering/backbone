@@ -1,5 +1,4 @@
-Physalospora polaris Rostr. SPECIES
-=======
+# Physalospora polaris Rostr. SPECIES
 
 #### Status
 ACCEPTED

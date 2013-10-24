@@ -1,5 +1,4 @@
-Diplodiella banksiae Tassi SPECIES
-=======
+# Diplodiella banksiae Tassi SPECIES
 
 #### Status
 ACCEPTED

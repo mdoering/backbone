@@ -1,14 +1,13 @@
-Poria subcrassa Rodway & Cleland, 1930 SPECIES
-=======
+# Antrodiella subcrassa (Rodway & Cleland) P.K. Buchanan & Ryvarden, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Pap. Proc. R. Soc. Tasm. 10 (1930)
+Aust. Syst. Bot. 6(3): 229 (1993)
 
 #### Original name
 Poria subcrassa Rodway & Cleland, 1930

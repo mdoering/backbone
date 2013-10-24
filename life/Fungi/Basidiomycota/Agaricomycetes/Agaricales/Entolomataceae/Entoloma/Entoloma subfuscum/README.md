@@ -1,5 +1,4 @@
-Entoloma subfuscum Hesler SPECIES
-=======
+# Entoloma subfuscum Hesler SPECIES
 
 #### Status
 ACCEPTED

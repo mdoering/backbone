@@ -1,5 +1,4 @@
-Mycena kauffmaniana A.H. Sm. SPECIES
-=======
+# Mycena kauffmaniana A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

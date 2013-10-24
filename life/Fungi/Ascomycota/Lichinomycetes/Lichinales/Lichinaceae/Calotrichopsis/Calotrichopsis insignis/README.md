@@ -1,5 +1,4 @@
-Calotrichopsis insignis Vain. SPECIES
-=======
+# Calotrichopsis insignis Vain. SPECIES
 
 #### Status
 ACCEPTED

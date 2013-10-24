@@ -1,5 +1,4 @@
-Ostropella (Sacc.) Höhn. GENUS
-=======
+# Ostropella (Sacc.) Höhn. GENUS
 
 #### Status
 ACCEPTED

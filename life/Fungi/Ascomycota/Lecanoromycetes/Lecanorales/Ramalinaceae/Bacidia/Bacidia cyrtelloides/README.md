@@ -1,5 +1,4 @@
-Bacidia cyrtelloides (Nyl.) Zahlbr. SPECIES
-=======
+# Bacidia cyrtelloides (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

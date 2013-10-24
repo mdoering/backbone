@@ -1,5 +1,4 @@
-Ascochyta cycadina Scalia SPECIES
-=======
+# Ascochyta cycadina Scalia SPECIES
 
 #### Status
 ACCEPTED

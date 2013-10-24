@@ -1,5 +1,4 @@
-Tapesia moravica Petr. SPECIES
-=======
+# Tapesia moravica Petr. SPECIES
 
 #### Status
 ACCEPTED

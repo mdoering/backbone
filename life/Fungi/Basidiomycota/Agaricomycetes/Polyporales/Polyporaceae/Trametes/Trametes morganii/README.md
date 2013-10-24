@@ -1,5 +1,4 @@
-Trametes morganii Lloyd, 1919 SPECIES
-=======
+# Trametes morganii Lloyd, 1919 SPECIES
 
 #### Status
 ACCEPTED

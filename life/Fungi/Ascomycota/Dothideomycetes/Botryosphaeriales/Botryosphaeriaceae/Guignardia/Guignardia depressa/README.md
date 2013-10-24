@@ -1,5 +1,4 @@
-Guignardia depressa (Peck) Dearn. & House SPECIES
-=======
+# Guignardia depressa (Peck) Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

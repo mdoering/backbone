@@ -1,5 +1,4 @@
-Thrombium bacillare Wallr. SPECIES
-=======
+# Thrombium bacillare Wallr. SPECIES
 
 #### Status
 ACCEPTED

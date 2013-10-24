@@ -1,5 +1,4 @@
-Triloculina spinata Cushman, 1932 SPECIES
-=======
+# Triloculina spinata Cushman, 1932 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tremella diaporthicola Ginns & M.N.L. Lefebvre SPECIES
-=======
+# Tremella diaporthicola Ginns & M.N.L. Lefebvre SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tulostoma poltaviense Sosin SPECIES
-=======
+# Tulostoma poltaviense Sosin SPECIES
 
 #### Status
 ACCEPTED

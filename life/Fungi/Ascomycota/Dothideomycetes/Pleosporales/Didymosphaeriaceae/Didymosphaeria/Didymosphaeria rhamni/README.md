@@ -1,5 +1,4 @@
-Didymosphaeria rhamni Fabre SPECIES
-=======
+# Didymosphaeria rhamni Fabre SPECIES
 
 #### Status
 ACCEPTED

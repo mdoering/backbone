@@ -1,5 +1,4 @@
-Meliola garciniae var. garciniae VARIETY
-=======
+# Meliola garciniae H.S. Yates SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Philipp. J. Sci. , C, Bot. 13: 369 (1918)
 
 #### Original name
-Meliola garciniae var. garciniae
+Meliola garciniae H.S. Yates
 
 ### Remarks
 null

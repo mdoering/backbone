@@ -1,5 +1,4 @@
-Pseudocercosporella solanacea B.K. Gupta & Kamal SPECIES
-=======
+# Pseudocercosporella solanacea B.K. Gupta & Kamal SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hysterium rugulosum Schwein. SPECIES
-=======
+# Hysterium rugulosum Schwein. SPECIES
 
 #### Status
 ACCEPTED

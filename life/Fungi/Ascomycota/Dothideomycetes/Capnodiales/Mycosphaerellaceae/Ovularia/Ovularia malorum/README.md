@@ -1,5 +1,4 @@
-Ovularia malorum Cooke, 1886 SPECIES
-=======
+# Ovularia malorum Cooke, 1886 SPECIES
 
 #### Status
 ACCEPTED

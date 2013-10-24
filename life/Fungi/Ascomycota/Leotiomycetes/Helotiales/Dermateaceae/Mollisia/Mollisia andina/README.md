@@ -1,5 +1,4 @@
-Mollisia andina Dennis SPECIES
-=======
+# Mollisia andina Dennis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyxidium tardigradum Van der Land, 1964 SPECIES
-=======
+# Pyxidium tardigradum Van der Land, 1964 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria allanii Zahlbr. SPECIES
-=======
+# Pertusaria allanii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Duplisphaera Moczydlowska, 1998 GENUS
-=======
+# Duplisphaera Moczydlowska, 1998 GENUS
 
 #### Status
 ACCEPTED

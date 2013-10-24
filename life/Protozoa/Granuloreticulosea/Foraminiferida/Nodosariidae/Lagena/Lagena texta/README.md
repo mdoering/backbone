@@ -1,5 +1,4 @@
-Lagena texta SPECIES
-=======
+# Lagena texta SPECIES
 
 #### Status
 ACCEPTED

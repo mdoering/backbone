@@ -1,5 +1,4 @@
-Helotium calycinum P. Karst. SPECIES
-=======
+# Helotium calycinum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

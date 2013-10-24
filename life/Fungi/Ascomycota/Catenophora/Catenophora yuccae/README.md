@@ -1,5 +1,4 @@
-Catenophora yuccae Nag Raj, 1977 SPECIES
-=======
+# Catenophora yuccae Nag Raj, 1977 SPECIES
 
 #### Status
 ACCEPTED

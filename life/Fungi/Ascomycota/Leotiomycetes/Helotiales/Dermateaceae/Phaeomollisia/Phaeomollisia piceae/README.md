@@ -1,5 +1,4 @@
-Phaeomollisia piceae T.N. Sieber & Grünig SPECIES
-=======
+# Phaeomollisia piceae T.N. Sieber & Grünig SPECIES
 
 #### Status
 ACCEPTED

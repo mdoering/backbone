@@ -1,5 +1,4 @@
-Mycena nubila Maas Geest. & E. Horak SPECIES
-=======
+# Mycena nubila Maas Geest. & E. Horak SPECIES
 
 #### Status
 ACCEPTED

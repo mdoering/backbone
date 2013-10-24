@@ -1,5 +1,4 @@
-Meliola oleacearum Hosag. SPECIES
-=======
+# Meliola oleacearum Hosag. SPECIES
 
 #### Status
 ACCEPTED

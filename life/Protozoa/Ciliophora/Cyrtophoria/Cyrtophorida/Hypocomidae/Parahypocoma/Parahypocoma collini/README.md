@@ -1,5 +1,4 @@
-Parahypocoma collini Chatton & Lwoff, 1939 SPECIES
-=======
+# Parahypocoma collini Chatton & Lwoff, 1939 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta apocyni-androsaemifolii Bubák & Dearn. SPECIES
-=======
+# Phyllosticta apocyni-androsaemifolii Bubák & Dearn. SPECIES
 
 #### Status
 ACCEPTED

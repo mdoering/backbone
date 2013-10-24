@@ -1,5 +1,4 @@
-Lasiosordaria botryosa (Penz. & Sacc.) Chenant. SPECIES
-=======
+# Lasiosordaria botryosa (Penz. & Sacc.) Chenant. SPECIES
 
 #### Status
 ACCEPTED

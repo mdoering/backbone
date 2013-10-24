@@ -1,5 +1,4 @@
-Belonidium phlegmaceum (Ellis) Sacc. SPECIES
-=======
+# Belonidium phlegmaceum (Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

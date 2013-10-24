@@ -1,5 +1,4 @@
-Rugulopteryx suhrii (Kützing) De Clerck & Coppejans, 2006 SPECIES
-=======
+# Rugulopteryx suhrii (Kützing) De Clerck & Coppejans, 2006 SPECIES
 
 #### Status
 ACCEPTED

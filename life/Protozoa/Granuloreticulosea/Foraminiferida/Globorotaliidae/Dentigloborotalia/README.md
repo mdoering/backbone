@@ -1,5 +1,4 @@
-Dentigloborotalia Brummer, 1988 GENUS
-=======
+# Dentigloborotalia Brummer, 1988 GENUS
 
 #### Status
 ACCEPTED

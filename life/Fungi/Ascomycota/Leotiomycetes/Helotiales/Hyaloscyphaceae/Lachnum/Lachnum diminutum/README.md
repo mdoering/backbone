@@ -1,17 +1,16 @@
-Lachnella conformis Cooke, 1891 SPECIES
-=======
+# Lachnum diminutum (Roberge ex Desm.) Rehm SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 19(no. 92): 107 (1891)
+null
 
 #### Original name
-Lachnella conformis Cooke, 1891
+null
 
 ### Remarks
 null

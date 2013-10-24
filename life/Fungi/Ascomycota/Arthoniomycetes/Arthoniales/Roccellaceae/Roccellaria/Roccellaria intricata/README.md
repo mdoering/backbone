@@ -1,5 +1,4 @@
-Roccellaria intricata (Mont.) Darb. SPECIES
-=======
+# Roccellaria intricata (Mont.) Darb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leiosphaeridia culta (Andreeva, 1966) Paskeviciene, 1980 SPECIES
-=======
+# Leiosphaeridia culta (Andreeva, 1966) Paskeviciene, 1980 SPECIES
 
 #### Status
 ACCEPTED

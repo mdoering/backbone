@@ -1,5 +1,4 @@
-Asteromella exigua (Naumov) Vanev & Aa SPECIES
-=======
+# Asteromella exigua (Naumov) Vanev & Aa SPECIES
 
 #### Status
 ACCEPTED

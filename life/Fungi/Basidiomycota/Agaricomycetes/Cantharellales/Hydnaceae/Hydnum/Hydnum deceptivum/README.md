@@ -1,5 +1,4 @@
-Hydnum deceptivum Lloyd SPECIES
-=======
+# Hydnum deceptivum Lloyd SPECIES
 
 #### Status
 ACCEPTED

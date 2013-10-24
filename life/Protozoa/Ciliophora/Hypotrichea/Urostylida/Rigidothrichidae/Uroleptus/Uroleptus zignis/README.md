@@ -1,5 +1,4 @@
-Uroleptus zignis Entz, 1884 SPECIES
-=======
+# Uroleptus zignis Entz, 1884 SPECIES
 
 #### Status
 ACCEPTED

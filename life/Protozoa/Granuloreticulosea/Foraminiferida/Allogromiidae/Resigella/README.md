@@ -1,5 +1,4 @@
-Resigella Loeblich & Tappan, 1984 GENUS
-=======
+# Resigella Loeblich & Tappan, 1984 GENUS
 
 #### Status
 ACCEPTED

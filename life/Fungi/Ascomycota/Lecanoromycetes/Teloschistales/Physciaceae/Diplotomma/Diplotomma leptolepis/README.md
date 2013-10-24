@@ -1,5 +1,4 @@
-Diplotomma leptolepis (Anzi) SPECIES
-=======
+# Diplotomma leptolepis (Anzi) SPECIES
 
 #### Status
 ACCEPTED

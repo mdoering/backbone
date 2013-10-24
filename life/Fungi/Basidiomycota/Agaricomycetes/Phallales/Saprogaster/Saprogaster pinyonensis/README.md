@@ -1,5 +1,4 @@
-Saprogaster pinyonensis Fogel & States, 2001 SPECIES
-=======
+# Saprogaster pinyonensis Fogel & States, 2001 SPECIES
 
 #### Status
 ACCEPTED

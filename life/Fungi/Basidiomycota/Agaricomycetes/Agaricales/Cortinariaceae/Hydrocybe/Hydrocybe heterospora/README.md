@@ -1,5 +1,4 @@
-Hydrocybe heterospora (Bres.) M.M. Moser SPECIES
-=======
+# Hydrocybe heterospora (Bres.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Talaromyces malagensis (Thüm.) Stalpers & Samson SPECIES
-=======
+# Talaromyces malagensis (Thüm.) Stalpers & Samson SPECIES
 
 #### Status
 ACCEPTED

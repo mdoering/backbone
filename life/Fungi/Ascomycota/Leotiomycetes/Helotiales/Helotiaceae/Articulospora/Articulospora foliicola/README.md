@@ -1,5 +1,4 @@
-Articulospora foliicola Matsush. SPECIES
-=======
+# Articulospora foliicola Matsush. SPECIES
 
 #### Status
 ACCEPTED

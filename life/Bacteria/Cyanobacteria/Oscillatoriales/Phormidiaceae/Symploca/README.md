@@ -1,14 +1,13 @@
-Neoadelia Bompard, 1867 GENUS
-=======
+# Symploca Kuetzing Ex Gomont, 1892 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 6: 129.
+Ann. Sci. Nat. Bot. , ser. 7, 16: 104.
 
 #### Original name
 null

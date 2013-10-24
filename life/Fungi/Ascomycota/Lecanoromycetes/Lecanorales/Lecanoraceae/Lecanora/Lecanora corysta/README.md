@@ -1,5 +1,4 @@
-Lecanora corysta C. Knight SPECIES
-=======
+# Lecanora corysta C. Knight SPECIES
 
 #### Status
 ACCEPTED

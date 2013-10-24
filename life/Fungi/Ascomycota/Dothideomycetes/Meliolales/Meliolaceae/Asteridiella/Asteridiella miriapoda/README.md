@@ -1,5 +1,4 @@
-Asteridiella miriapoda (Cif.) Hansf. SPECIES
-=======
+# Asteridiella miriapoda (Cif.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

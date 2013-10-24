@@ -1,5 +1,4 @@
-Dendrophoma populina Schulzer & Sacc. SPECIES
-=======
+# Dendrophoma populina Schulzer & Sacc. SPECIES
 
 #### Status
 ACCEPTED

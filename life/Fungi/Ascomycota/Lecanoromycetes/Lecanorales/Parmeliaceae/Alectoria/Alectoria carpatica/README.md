@@ -1,5 +1,4 @@
-Alectoria carpatica Motyka SPECIES
-=======
+# Alectoria carpatica Motyka SPECIES
 
 #### Status
 ACCEPTED

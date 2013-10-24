@@ -1,5 +1,4 @@
-Uredo tournefortiae H.S. Jacks. & Holw. SPECIES
-=======
+# Uredo tournefortiae H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

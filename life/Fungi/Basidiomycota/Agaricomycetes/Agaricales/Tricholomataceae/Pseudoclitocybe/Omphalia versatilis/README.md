@@ -1,5 +1,4 @@
-Omphalia versatilis Berk. & Mont. SPECIES
-=======
+# Omphalia versatilis Berk. & Mont. SPECIES
 
 #### Status
 ACCEPTED

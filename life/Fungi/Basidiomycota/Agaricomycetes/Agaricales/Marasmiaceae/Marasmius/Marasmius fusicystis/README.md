@@ -1,5 +1,4 @@
-Marasmius fusicystis Singer SPECIES
-=======
+# Marasmius fusicystis Singer SPECIES
 
 #### Status
 ACCEPTED

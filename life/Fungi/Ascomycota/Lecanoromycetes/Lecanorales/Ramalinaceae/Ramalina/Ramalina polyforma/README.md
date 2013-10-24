@@ -1,5 +1,4 @@
-Ramalina polyforma Aptroot SPECIES
-=======
+# Ramalina polyforma Aptroot SPECIES
 
 #### Status
 ACCEPTED

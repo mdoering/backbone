@@ -1,5 +1,4 @@
-Mycosphaerella lycopodii-annotini Petr. SPECIES
-=======
+# Mycosphaerella lycopodii-annotini Petr. SPECIES
 
 #### Status
 ACCEPTED

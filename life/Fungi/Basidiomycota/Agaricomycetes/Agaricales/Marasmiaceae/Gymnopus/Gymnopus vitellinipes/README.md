@@ -1,5 +1,4 @@
-Gymnopus vitellinipes A.W. Wilson, Desjardin & E. Horak SPECIES
-=======
+# Gymnopus vitellinipes A.W. Wilson, Desjardin & E. Horak SPECIES
 
 #### Status
 ACCEPTED

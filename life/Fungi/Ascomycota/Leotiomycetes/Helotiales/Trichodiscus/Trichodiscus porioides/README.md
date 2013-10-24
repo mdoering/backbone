@@ -1,5 +1,4 @@
-Trichodiscus porioides (Penz. & Sacc.) Kirschst. SPECIES
-=======
+# Trichodiscus porioides (Penz. & Sacc.) Kirschst. SPECIES
 
 #### Status
 ACCEPTED

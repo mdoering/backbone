@@ -1,5 +1,4 @@
-Leiopoda sphagni Velen. SPECIES
-=======
+# Leiopoda sphagni Velen. SPECIES
 
 #### Status
 ACCEPTED

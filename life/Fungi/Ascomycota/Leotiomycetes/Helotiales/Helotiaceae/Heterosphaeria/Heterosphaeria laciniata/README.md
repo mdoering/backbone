@@ -1,5 +1,4 @@
-Heterosphaeria laciniata Fr. SPECIES
-=======
+# Heterosphaeria laciniata Fr. SPECIES
 
 #### Status
 ACCEPTED

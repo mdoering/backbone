@@ -1,5 +1,4 @@
-Rhizoctonia neottiae (H. Wolff) Burgeff SPECIES
-=======
+# Rhizoctonia neottiae (H. Wolff) Burgeff SPECIES
 
 #### Status
 ACCEPTED

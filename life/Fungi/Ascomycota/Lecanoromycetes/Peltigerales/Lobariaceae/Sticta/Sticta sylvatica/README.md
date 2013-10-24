@@ -1,17 +1,16 @@
-Sticta sylvatica var. fuliginosa (Hoffm.) Hepp VARIETY
-=======
+# Sticta sylvatica (Huds.) Ach. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Method. Lich. 231 (1803)
 
 #### Original name
-null
+Lichen sylvaticus Huds.
 
 ### Remarks
 null

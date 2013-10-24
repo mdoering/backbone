@@ -1,5 +1,4 @@
-Usnea eumitrioides Motyka SPECIES
-=======
+# Usnea eumitrioides Motyka SPECIES
 
 #### Status
 ACCEPTED

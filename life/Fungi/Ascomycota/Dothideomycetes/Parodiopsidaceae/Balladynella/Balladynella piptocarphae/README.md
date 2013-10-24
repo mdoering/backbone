@@ -1,5 +1,4 @@
-Balladynella piptocarphae (Hansf.) Hansf. SPECIES
-=======
+# Balladynella piptocarphae (Hansf.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

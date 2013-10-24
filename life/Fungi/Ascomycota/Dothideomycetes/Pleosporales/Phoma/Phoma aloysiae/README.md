@@ -1,5 +1,4 @@
-Phoma aloysiae Pass. SPECIES
-=======
+# Phoma aloysiae Pass. SPECIES
 
 #### Status
 ACCEPTED

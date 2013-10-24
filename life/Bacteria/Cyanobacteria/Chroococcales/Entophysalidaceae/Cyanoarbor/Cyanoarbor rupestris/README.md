@@ -1,5 +1,4 @@
-Cyanoarbor rupestris C.Z. Wang SPECIES
-=======
+# Cyanoarbor rupestris C.Z. Wang SPECIES
 
 #### Status
 ACCEPTED

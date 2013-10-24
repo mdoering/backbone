@@ -1,5 +1,4 @@
-Platystomum triglitzianum Kirschst. SPECIES
-=======
+# Platystomum triglitzianum Kirschst. SPECIES
 
 #### Status
 ACCEPTED

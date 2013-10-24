@@ -1,5 +1,4 @@
-Cephalosporium granulomatis Weidman & Kligman SPECIES
-=======
+# Cephalosporium granulomatis Weidman & Kligman SPECIES
 
 #### Status
 ACCEPTED

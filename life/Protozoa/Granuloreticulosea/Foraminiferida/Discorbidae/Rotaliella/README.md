@@ -1,5 +1,4 @@
-Rotaliella Grell, 1954 GENUS
-=======
+# Rotaliella Grell, 1954 GENUS
 
 #### Status
 ACCEPTED

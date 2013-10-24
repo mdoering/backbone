@@ -1,5 +1,4 @@
-Diderma pallidum Berk. & M.A. Curtis SPECIES
-=======
+# Diderma pallidum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

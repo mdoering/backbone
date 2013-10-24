@@ -1,5 +1,4 @@
-Psammina plakina Haeckel, 1889 SPECIES
-=======
+# Psammina plakina Haeckel, 1889 SPECIES
 
 #### Status
 ACCEPTED

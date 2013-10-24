@@ -1,5 +1,4 @@
-Cryptomyces theae Sawada SPECIES
-=======
+# Cryptomyces theae Sawada SPECIES
 
 #### Status
 ACCEPTED

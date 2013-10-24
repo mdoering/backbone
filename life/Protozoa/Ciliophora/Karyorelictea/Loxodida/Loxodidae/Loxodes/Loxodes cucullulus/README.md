@@ -1,5 +1,4 @@
-Loxodes cucullulus Dujardin, 1841 SPECIES
-=======
+# Loxodes cucullulus Dujardin, 1841 SPECIES
 
 #### Status
 ACCEPTED

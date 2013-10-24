@@ -1,5 +1,4 @@
-Sarcinella quadrata (Cooke) S. Hughes SPECIES
-=======
+# Sarcinella quadrata (Cooke) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

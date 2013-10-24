@@ -1,5 +1,4 @@
-Azpeitia gombosii D. M. Harwood & T. Maruyama SPECIES
-=======
+# Azpeitia gombosii D. M. Harwood & T. Maruyama SPECIES
 
 #### Status
 ACCEPTED

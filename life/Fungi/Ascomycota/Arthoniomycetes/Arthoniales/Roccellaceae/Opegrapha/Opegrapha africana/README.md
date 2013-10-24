@@ -1,5 +1,4 @@
-Opegrapha africana Vain. SPECIES
-=======
+# Opegrapha africana Vain. SPECIES
 
 #### Status
 ACCEPTED

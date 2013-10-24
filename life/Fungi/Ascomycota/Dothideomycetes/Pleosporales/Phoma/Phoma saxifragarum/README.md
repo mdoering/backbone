@@ -1,5 +1,4 @@
-Phoma saxifragarum Westend., 1877 SPECIES
-=======
+# Phoma saxifragarum Westend., 1877 SPECIES
 
 #### Status
 ACCEPTED

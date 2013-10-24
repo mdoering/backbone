@@ -1,5 +1,4 @@
-Botrytis tricephala (W. Phillips) Sacc. SPECIES
-=======
+# Botrytis tricephala (W. Phillips) Sacc. SPECIES
 
 #### Status
 ACCEPTED

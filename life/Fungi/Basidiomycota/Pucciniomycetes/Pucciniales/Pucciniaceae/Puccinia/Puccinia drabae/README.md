@@ -1,17 +1,16 @@
-Puccinia drabae var. articae Henn. VARIETY
-=======
+# Puccinia drabae F. Rudolphi, 1829 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Linnaea 4: 115 (1829)
 
 #### Original name
-Puccinia drabae var. articae Henn.
+Puccinia drabae F. Rudolphi, 1829
 
 ### Remarks
 null

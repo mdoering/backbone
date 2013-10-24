@@ -1,5 +1,4 @@
-Phaeoramularia gayophyti (Ellis & Everh.) Deighton SPECIES
-=======
+# Phaeoramularia gayophyti (Ellis & Everh.) Deighton SPECIES
 
 #### Status
 ACCEPTED

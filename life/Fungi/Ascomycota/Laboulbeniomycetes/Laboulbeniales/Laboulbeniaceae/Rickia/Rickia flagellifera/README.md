@@ -1,5 +1,4 @@
-Rickia flagellifera Thaxt. SPECIES
-=======
+# Rickia flagellifera Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza obscura Cooke SPECIES
-=======
+# Peziza obscura Cooke SPECIES
 
 #### Status
 ACCEPTED

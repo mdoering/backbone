@@ -1,5 +1,4 @@
-Pleurodiscus ampereae Petr. SPECIES
-=======
+# Pleurodiscus ampereae Petr. SPECIES
 
 #### Status
 ACCEPTED

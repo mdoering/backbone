@@ -1,5 +1,4 @@
-Pyrenula areolata Ach. SPECIES
-=======
+# Pyrenula areolata Ach. SPECIES
 
 #### Status
 ACCEPTED

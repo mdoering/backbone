@@ -1,5 +1,4 @@
-Agaricus glareosa Berk. & Broome SPECIES
-=======
+# Agaricus glareosa Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenophora hispida var. hispida VARIETY
-=======
+# Pyrenophora hispida (Niessl) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pyrenophora hispida var. hispida
+Pleospora hispida Niessl
 
 ### Remarks
 null

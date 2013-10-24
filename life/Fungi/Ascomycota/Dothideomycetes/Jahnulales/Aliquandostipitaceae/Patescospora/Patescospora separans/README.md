@@ -1,14 +1,13 @@
-Aliquandostipite separans (Abdel-Wahab & El-Shar.) J. Campb., Raja, A. Ferrer, Sivichai & Shearer, 2007 SPECIES
-=======
+# Patescospora separans Abdel-Wahab & El-Shar., 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Campbell, Ferrer, Raja, Sivichai & Shearer, Can. J. Bot. 85(9): 881 (2007)
+in Pang, Abdel-Wahab, Sivichai, El-Sharouny & Jones, Mycol. Res. 106(9): 1033 (2002)
 
 #### Original name
 Patescospora separans Abdel-Wahab & El-Shar., 2002

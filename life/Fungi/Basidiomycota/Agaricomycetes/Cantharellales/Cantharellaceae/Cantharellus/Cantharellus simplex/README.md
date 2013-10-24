@@ -1,5 +1,4 @@
-Cantharellus simplex Velen. SPECIES
-=======
+# Cantharellus simplex Velen. SPECIES
 
 #### Status
 ACCEPTED

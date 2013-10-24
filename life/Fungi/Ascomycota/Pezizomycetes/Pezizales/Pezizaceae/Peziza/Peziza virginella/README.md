@@ -1,5 +1,4 @@
-Peziza virginella Cooke SPECIES
-=======
+# Peziza virginella Cooke SPECIES
 
 #### Status
 ACCEPTED

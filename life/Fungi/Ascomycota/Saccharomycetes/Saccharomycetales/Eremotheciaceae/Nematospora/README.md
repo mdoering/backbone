@@ -1,5 +1,4 @@
-Nematospora Peglion, 1897 GENUS
-=======
+# Nematospora Peglion, 1897 GENUS
 
 #### Status
 ACCEPTED

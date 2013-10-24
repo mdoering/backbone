@@ -1,5 +1,4 @@
-Elphidiella hannai SPECIES
-=======
+# Elphidiella hannai SPECIES
 
 #### Status
 ACCEPTED

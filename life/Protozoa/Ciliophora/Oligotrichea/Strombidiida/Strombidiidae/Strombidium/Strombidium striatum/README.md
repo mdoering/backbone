@@ -1,5 +1,4 @@
-Strombidium striatum sensu Busch, 1930 SPECIES
-=======
+# Strombidium striatum sensu Busch, 1930 SPECIES
 
 #### Status
 ACCEPTED

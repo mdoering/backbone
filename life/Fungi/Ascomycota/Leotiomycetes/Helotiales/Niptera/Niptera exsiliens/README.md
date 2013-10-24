@@ -1,14 +1,13 @@
-Mollisia exsiliens (Speg.) Svrcek, 1986 SPECIES
-=======
+# Niptera exsiliens Speg., 1879 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ceská Mykol. 40(4): 217 (1986)
+Michelia 1(no. 5): 472 (1879)
 
 #### Original name
 Niptera exsiliens Speg., 1879

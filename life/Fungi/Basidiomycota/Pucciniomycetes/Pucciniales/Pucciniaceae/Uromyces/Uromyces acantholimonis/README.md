@@ -1,17 +1,16 @@
-Uromyces acantholimonis var. acantholimonis VARIETY
-=======
+# Uromyces acantholimonis Syd. & P. Syd., 1906 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Annls mycol. 4(1): 28 (1906)
 
 #### Original name
-Uromyces acantholimonis var. acantholimonis
+Uromyces acantholimonis Syd. & P. Syd., 1906
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Phomopsis filiformis N.C. Mandal & M.K. Dasgupta SPECIES
-=======
+# Phomopsis filiformis N.C. Mandal & M.K. Dasgupta SPECIES
 
 #### Status
 ACCEPTED

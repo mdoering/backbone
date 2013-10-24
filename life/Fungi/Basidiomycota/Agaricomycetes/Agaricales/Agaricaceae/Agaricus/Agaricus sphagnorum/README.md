@@ -1,5 +1,4 @@
-Agaricus sphagnorum Pers. SPECIES
-=======
+# Agaricus sphagnorum Pers. SPECIES
 
 #### Status
 ACCEPTED

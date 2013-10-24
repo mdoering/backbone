@@ -1,5 +1,4 @@
-Cortinarius bidiscendus Rob. Henry SPECIES
-=======
+# Cortinarius bidiscendus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

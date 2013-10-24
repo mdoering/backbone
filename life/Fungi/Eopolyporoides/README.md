@@ -1,5 +1,4 @@
-Eopolyporoides Rigby GENUS
-=======
+# Eopolyporoides Rigby GENUS
 
 #### Status
 ACCEPTED

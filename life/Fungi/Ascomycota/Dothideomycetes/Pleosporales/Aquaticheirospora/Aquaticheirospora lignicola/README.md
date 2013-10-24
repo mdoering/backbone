@@ -1,5 +1,4 @@
-Aquaticheirospora lignicola Kodsueb & W.H. Ho, 2007 SPECIES
-=======
+# Aquaticheirospora lignicola Kodsueb & W.H. Ho, 2007 SPECIES
 
 #### Status
 ACCEPTED

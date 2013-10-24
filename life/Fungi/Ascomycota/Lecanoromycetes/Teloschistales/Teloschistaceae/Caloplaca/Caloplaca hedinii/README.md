@@ -1,5 +1,4 @@
-Caloplaca hedinii H. Magn. SPECIES
-=======
+# Caloplaca hedinii H. Magn. SPECIES
 
 #### Status
 ACCEPTED

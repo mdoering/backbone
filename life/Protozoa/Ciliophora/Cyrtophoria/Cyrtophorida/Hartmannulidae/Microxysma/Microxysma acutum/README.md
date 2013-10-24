@@ -1,5 +1,4 @@
-Microxysma acutum Deroux, 1976 SPECIES
-=======
+# Microxysma acutum Deroux, 1976 SPECIES
 
 #### Status
 ACCEPTED

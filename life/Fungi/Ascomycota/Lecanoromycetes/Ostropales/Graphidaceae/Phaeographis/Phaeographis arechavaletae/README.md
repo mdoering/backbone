@@ -1,5 +1,4 @@
-Phaeographis arechavaletae SPECIES
-=======
+# Phaeographis arechavaletae SPECIES
 
 #### Status
 ACCEPTED

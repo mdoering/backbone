@@ -1,5 +1,4 @@
-Schizothrix muelleri (Nägeli) Gomont SPECIES
-=======
+# Schizothrix muelleri (Nägeli) Gomont SPECIES
 
 #### Status
 ACCEPTED

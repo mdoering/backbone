@@ -1,5 +1,4 @@
-Agaricus couleuvre Secr. SPECIES
-=======
+# Agaricus couleuvre Secr. SPECIES
 
 #### Status
 ACCEPTED

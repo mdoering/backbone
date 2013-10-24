@@ -1,5 +1,4 @@
-Parapterulicium Corner GENUS
-=======
+# Parapterulicium Corner GENUS
 
 #### Status
 ACCEPTED

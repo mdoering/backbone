@@ -1,5 +1,4 @@
-Rhysotheca borreriae (Lagerh.) G.W. Wilson SPECIES
-=======
+# Rhysotheca borreriae (Lagerh.) G.W. Wilson SPECIES
 
 #### Status
 ACCEPTED

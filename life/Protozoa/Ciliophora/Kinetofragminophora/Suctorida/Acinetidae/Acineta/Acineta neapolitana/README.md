@@ -1,5 +1,4 @@
-Acineta neapolitana SPECIES
-=======
+# Acineta neapolitana SPECIES
 
 #### Status
 ACCEPTED

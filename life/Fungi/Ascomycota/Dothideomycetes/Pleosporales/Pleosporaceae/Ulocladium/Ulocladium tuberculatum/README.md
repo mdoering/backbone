@@ -1,5 +1,4 @@
-Ulocladium tuberculatum E.G. Simmons, 1967 SPECIES
-=======
+# Ulocladium tuberculatum E.G. Simmons, 1967 SPECIES
 
 #### Status
 ACCEPTED

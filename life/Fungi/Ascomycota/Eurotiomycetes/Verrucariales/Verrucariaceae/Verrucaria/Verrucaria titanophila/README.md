@@ -1,5 +1,4 @@
-Verrucaria titanophila Rabenh. SPECIES
-=======
+# Verrucaria titanophila Rabenh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Isaria glauca var. glauca VARIETY
-=======
+# Isaria glauca Ditmar SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Isaria glauca var. glauca
+Isaria glauca Ditmar
 
 ### Remarks
 null

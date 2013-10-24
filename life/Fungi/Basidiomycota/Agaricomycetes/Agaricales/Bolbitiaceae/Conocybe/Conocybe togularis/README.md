@@ -1,17 +1,16 @@
-Agaricus togularis var. dunensis J. Kickx f. VARIETY
-=======
+# Conocybe togularis (Bull.) Kühner, 1935 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fl. Crypt. Flandres 2: 164 (1867)
+Encyclop. Mycol. 7: 161 (1935)
 
 #### Original name
-Agaricus togularis var. dunensis J. Kickx f.
+Agaricus togularis Bull., 1793
 
 ### Remarks
 null

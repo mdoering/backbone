@@ -1,5 +1,4 @@
-Platygramme impudica (A. W. Archer) A. W. Archer SPECIES
-=======
+# Platygramme impudica (A. W. Archer) A. W. Archer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Muellerella vesicularia (Linds.) D. Hawksw. SPECIES
-=======
+# Muellerella vesicularia (Linds.) D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

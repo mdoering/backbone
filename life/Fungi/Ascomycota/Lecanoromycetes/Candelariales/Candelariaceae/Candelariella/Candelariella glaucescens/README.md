@@ -1,5 +1,4 @@
-Candelariella glaucescens (Bagl. & Carestia) Lettau SPECIES
-=======
+# Candelariella glaucescens (Bagl. & Carestia) Lettau SPECIES
 
 #### Status
 ACCEPTED

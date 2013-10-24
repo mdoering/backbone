@@ -1,5 +1,4 @@
-Urceolaria laxula (H. Magn.) Motyka SPECIES
-=======
+# Urceolaria laxula (H. Magn.) Motyka SPECIES
 
 #### Status
 ACCEPTED

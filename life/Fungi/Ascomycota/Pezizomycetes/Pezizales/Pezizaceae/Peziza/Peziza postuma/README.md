@@ -1,5 +1,4 @@
-Peziza postuma Berk. & W. {?} SPECIES
-=======
+# Peziza postuma Berk. & W. {?} SPECIES
 
 #### Status
 ACCEPTED

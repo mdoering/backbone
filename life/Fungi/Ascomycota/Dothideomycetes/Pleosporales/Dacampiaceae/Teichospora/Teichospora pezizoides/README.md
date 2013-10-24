@@ -1,5 +1,4 @@
-Teichospora pezizoides Sacc. & Speg. SPECIES
-=======
+# Teichospora pezizoides Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

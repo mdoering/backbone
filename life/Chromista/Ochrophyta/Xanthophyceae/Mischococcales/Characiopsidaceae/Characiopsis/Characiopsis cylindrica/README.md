@@ -1,5 +1,4 @@
-Characiopsis cylindrica (Lamb.) Lemmermann SPECIES
-=======
+# Characiopsis cylindrica (Lamb.) Lemmermann SPECIES
 
 #### Status
 ACCEPTED

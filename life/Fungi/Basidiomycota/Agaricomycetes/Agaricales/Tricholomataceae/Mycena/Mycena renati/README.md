@@ -1,8 +1,7 @@
-Mycena flavipes Quél. SPECIES
-=======
+# Mycena renati Quél. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Belgian Species List

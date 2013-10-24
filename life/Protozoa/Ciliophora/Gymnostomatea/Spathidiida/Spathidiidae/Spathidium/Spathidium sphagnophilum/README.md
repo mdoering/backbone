@@ -1,5 +1,4 @@
-Spathidium sphagnophilum SPECIES
-=======
+# Spathidium sphagnophilum SPECIES
 
 #### Status
 ACCEPTED

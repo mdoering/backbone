@@ -1,5 +1,4 @@
-Parasterina venezuelana (Syd.) Toro SPECIES
-=======
+# Parasterina venezuelana (Syd.) Toro SPECIES
 
 #### Status
 ACCEPTED

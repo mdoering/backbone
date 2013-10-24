@@ -1,5 +1,4 @@
-Calathella mangrovei E.B.G. Jones & Agerer, 1992 SPECIES
-=======
+# Calathella mangrovei E.B.G. Jones & Agerer, 1992 SPECIES
 
 #### Status
 ACCEPTED

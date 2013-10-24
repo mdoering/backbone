@@ -1,5 +1,4 @@
-Cyclagelosphaera deflandrei (Manivit, 1966) SPECIES
-=======
+# Cyclagelosphaera deflandrei (Manivit, 1966) SPECIES
 
 #### Status
 ACCEPTED

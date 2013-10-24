@@ -1,5 +1,4 @@
-Cylindrium clandestinum var. clandestinum (Corda) Sacc. VARIETY
-=======
+# Cylindrium clandestinum (Corda) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 4: 37 (1886)
 
 #### Original name
-Cylindrium clandestinum var. clandestinum (Corda) Sacc.
+Fusidium clandestinum Corda
 
 ### Remarks
 null

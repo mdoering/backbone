@@ -1,17 +1,16 @@
-Rinia Penz. & Sacc. GENUS
-=======
+# Erikssonia Penzig & Saccardo, 1898 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Malpighia 15: 224 (1901)
+Malpighia 11: 526 (1898)
 
 #### Original name
-Rinia Penz. & Sacc.
+Erikssonia Penzig & Saccardo, 1898
 
 ### Remarks
 null

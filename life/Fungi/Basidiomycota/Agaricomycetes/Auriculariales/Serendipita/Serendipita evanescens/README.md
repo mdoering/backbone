@@ -1,14 +1,13 @@
-Sebacina evanescens Hauerslev, 1976 SPECIES
-=======
+# Serendipita evanescens (Hauerslev) P. Roberts, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Friesia 11: 102 (1976)
+Mycol. Res. 97(4): 476 (1993)
 
 #### Original name
 Sebacina evanescens Hauerslev, 1976

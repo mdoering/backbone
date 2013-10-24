@@ -1,5 +1,4 @@
-Tapesia byssiseda (Fr.) Sacc. SPECIES
-=======
+# Tapesia byssiseda (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

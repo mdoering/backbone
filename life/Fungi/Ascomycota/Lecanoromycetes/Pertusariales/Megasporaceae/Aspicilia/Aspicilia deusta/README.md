@@ -1,5 +1,4 @@
-Aspicilia deusta Hellb. SPECIES
-=======
+# Aspicilia deusta Hellb. SPECIES
 
 #### Status
 ACCEPTED

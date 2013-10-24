@@ -1,5 +1,4 @@
-Sphaeria culcitella Berk. & Ravenel SPECIES
-=======
+# Sphaeria culcitella Berk. & Ravenel SPECIES
 
 #### Status
 ACCEPTED

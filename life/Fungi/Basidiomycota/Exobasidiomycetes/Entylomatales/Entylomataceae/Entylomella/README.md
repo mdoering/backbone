@@ -1,5 +1,4 @@
-Entylomella Höhn. GENUS
-=======
+# Entylomella Höhn. GENUS
 
 #### Status
 ACCEPTED

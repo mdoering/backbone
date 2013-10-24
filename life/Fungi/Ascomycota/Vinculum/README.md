@@ -1,5 +1,4 @@
-Vinculum GENUS
-=======
+# Vinculum GENUS
 
 #### Status
 ACCEPTED

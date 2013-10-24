@@ -1,5 +1,4 @@
-Chytriomyces lucidus Karling, 1949 SPECIES
-=======
+# Chytriomyces lucidus Karling, 1949 SPECIES
 
 #### Status
 ACCEPTED

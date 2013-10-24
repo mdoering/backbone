@@ -1,5 +1,4 @@
-Methylococcus chroococcus Romanovskaya et al., 1981 SPECIES
-=======
+# Methylococcus chroococcus Romanovskaya et al., 1981 SPECIES
 
 #### Status
 ACCEPTED

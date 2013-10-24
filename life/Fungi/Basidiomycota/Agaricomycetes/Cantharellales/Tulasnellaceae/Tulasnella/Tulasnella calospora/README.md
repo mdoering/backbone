@@ -1,17 +1,16 @@
-Rhizoctonia repens N. Bernard, 1904 SPECIES
-=======
+# Tulasnella calospora (Boud.) Juel, 1897 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Rev. gén. Bot. 9: 31 (1904)
+Bihangtill K. Svenska Vetensk. -Akad. Handl. , Afd. 3 23(no. 10): 23 (1897)
 
 #### Original name
-Rhizoctonia repens N. Bernard, 1904
+Prototremella calospora Boud., 1896
 
 ### Remarks
 null

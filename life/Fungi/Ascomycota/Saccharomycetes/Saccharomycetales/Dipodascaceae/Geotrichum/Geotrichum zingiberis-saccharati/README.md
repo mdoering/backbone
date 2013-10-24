@@ -1,5 +1,4 @@
-Geotrichum zingiberis-saccharati Overeem SPECIES
-=======
+# Geotrichum zingiberis-saccharati Overeem SPECIES
 
 #### Status
 ACCEPTED

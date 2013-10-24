@@ -1,5 +1,4 @@
-Coniothyrium chionanthi Fairm. SPECIES
-=======
+# Coniothyrium chionanthi Fairm. SPECIES
 
 #### Status
 ACCEPTED

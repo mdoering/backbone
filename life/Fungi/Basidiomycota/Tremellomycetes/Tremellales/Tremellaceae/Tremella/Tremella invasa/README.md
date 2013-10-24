@@ -1,5 +1,4 @@
-Tremella invasa (Hauerslev) Hauerslev, 1996 SPECIES
-=======
+# Tremella invasa (Hauerslev) Hauerslev, 1996 SPECIES
 
 #### Status
 ACCEPTED

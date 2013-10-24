@@ -1,8 +1,7 @@
-Dasyscypha conicola Rehm SPECIES
-=======
+# Dasyscyphus conicola Rehm SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Dasyscypha conicola Rehm
+Dasyscyphus conicola Rehm
 
 ### Remarks
 null

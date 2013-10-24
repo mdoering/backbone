@@ -1,5 +1,4 @@
-Gyrostromella Seeler, 1940 GENUS
-=======
+# Gyrostromella Seeler, 1940 GENUS
 
 #### Status
 ACCEPTED

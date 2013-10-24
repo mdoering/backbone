@@ -1,5 +1,4 @@
-Cyphella calostoma Pilát SPECIES
-=======
+# Cyphella calostoma Pilát SPECIES
 
 #### Status
 ACCEPTED

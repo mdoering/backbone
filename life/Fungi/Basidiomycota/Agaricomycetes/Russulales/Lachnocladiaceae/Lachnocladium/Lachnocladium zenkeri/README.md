@@ -1,5 +1,4 @@
-Lachnocladium zenkeri Henn. SPECIES
-=======
+# Lachnocladium zenkeri Henn. SPECIES
 
 #### Status
 ACCEPTED

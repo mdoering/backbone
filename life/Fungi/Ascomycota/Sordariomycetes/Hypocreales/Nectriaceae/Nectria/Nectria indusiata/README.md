@@ -1,5 +1,4 @@
-Nectria indusiata Seaver SPECIES
-=======
+# Nectria indusiata Seaver SPECIES
 
 #### Status
 ACCEPTED

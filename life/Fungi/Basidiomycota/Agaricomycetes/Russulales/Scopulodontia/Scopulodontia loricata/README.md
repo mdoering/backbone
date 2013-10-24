@@ -1,5 +1,4 @@
-Scopulodontia loricata Hjortstam & P. Roberts, 1998 SPECIES
-=======
+# Scopulodontia loricata Hjortstam & P. Roberts, 1998 SPECIES
 
 #### Status
 ACCEPTED

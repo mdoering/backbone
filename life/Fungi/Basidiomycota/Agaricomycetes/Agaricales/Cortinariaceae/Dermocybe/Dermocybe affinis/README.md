@@ -1,5 +1,4 @@
-Dermocybe affinis Velen. SPECIES
-=======
+# Dermocybe affinis Velen. SPECIES
 
 #### Status
 ACCEPTED

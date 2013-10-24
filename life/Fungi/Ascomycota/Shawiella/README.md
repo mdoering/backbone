@@ -1,5 +1,4 @@
-Shawiella Hansf. GENUS
-=======
+# Shawiella Hansf. GENUS
 
 #### Status
 ACCEPTED

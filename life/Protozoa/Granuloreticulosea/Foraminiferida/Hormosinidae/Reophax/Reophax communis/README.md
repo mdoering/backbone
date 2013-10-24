@@ -1,5 +1,4 @@
-Reophax communis Lacroix, 1930 SPECIES
-=======
+# Reophax communis Lacroix, 1930 SPECIES
 
 #### Status
 ACCEPTED

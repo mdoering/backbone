@@ -1,5 +1,4 @@
-Rhizopogon baxteri A.H. Sm. SPECIES
-=======
+# Rhizopogon baxteri A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

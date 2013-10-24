@@ -1,17 +1,16 @@
-Lycoperdastrum cyanosporum (Tul. & C. Tul.) O. Kuntze, 1891 SPECIES
-=======
+# Elaphomyces cyanosporus Tul. & C. Tul., 1851 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fungi hypog. 113 (1851)
 
 #### Original name
-null
+Elaphomyces cyanosporus Tul. & C. Tul., 1851
 
 ### Remarks
 null

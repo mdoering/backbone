@@ -1,5 +1,4 @@
-Polyblastia lavata Zschacke SPECIES
-=======
+# Polyblastia lavata Zschacke SPECIES
 
 #### Status
 ACCEPTED

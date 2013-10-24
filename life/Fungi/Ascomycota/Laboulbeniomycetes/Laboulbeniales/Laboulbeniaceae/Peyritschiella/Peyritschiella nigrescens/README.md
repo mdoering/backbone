@@ -1,5 +1,4 @@
-Peyritschiella nigrescens Thaxt. SPECIES
-=======
+# Peyritschiella nigrescens Thaxt. SPECIES
 
 #### Status
 ACCEPTED

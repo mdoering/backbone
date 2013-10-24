@@ -1,14 +1,13 @@
-Boerlagella laxa Penz. & Sacc., 1897 SPECIES
-=======
+# Boerlagiomyces laxus (Penz. & Sacc.) Butzin, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Malpighia 11: 405 (1897)
+Willdenowia, Beih. 8(1): 39 (1977)
 
 #### Original name
 Boerlagella laxa Penz. & Sacc., 1897

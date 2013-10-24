@@ -1,5 +1,4 @@
-Issatchenkia hanoiensis Thanh, Hai & Lachance, 2003 SPECIES
-=======
+# Issatchenkia hanoiensis Thanh, Hai & Lachance, 2003 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhytidocaulon GENUS
-=======
+# Rhytidocaulon GENUS
 
 #### Status
 ACCEPTED

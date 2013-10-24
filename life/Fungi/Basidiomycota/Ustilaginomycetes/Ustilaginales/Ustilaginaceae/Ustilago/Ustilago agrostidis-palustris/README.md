@@ -1,8 +1,7 @@
-Ustilago agrostis-palustris Davis ex Cif. SPECIES
-=======
+# Ustilago agrostidis-palustris Davis ex Cif. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ustilago agrostis-palustris Davis ex Cif.
+Ustilago agrostidis-palustris Davis ex Cif.
 
 ### Remarks
 null

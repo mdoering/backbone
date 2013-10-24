@@ -1,5 +1,4 @@
-Cladonia hungarica (Arnold) Vain. SPECIES
-=======
+# Cladonia hungarica (Arnold) Vain. SPECIES
 
 #### Status
 ACCEPTED

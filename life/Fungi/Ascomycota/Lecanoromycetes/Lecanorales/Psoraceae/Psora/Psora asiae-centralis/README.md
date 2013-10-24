@@ -1,14 +1,13 @@
-Psora asiaecentralis (H. Magn.) N.S. Golubk. SPECIES
-=======
+# Psora asiae-centralis (H. Magn.) N.S. Golubk. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bot. Zh. SSSR 56(6): 781 (1971)
 
 #### Original name
 Lecidea asiae-centralis H. Magn.

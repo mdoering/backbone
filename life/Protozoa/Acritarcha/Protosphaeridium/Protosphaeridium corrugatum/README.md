@@ -1,5 +1,4 @@
-Protosphaeridium corrugatum Andreeva, 1973 SPECIES
-=======
+# Protosphaeridium corrugatum Andreeva, 1973 SPECIES
 
 #### Status
 ACCEPTED

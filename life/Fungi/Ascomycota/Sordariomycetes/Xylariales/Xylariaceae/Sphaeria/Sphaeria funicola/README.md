@@ -1,17 +1,16 @@
-Zignoella funicola (Ellis) Sacc. SPECIES
-=======
+# Sphaeria funicola Ellis, 1881 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Torrey bot. Club 8: 90 (1881)
 
 #### Original name
-null
+Sphaeria funicola Ellis, 1881
 
 ### Remarks
 null

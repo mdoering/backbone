@@ -1,5 +1,4 @@
-Neoclitocybe alnetorum (J. Favre) Singer SPECIES
-=======
+# Neoclitocybe alnetorum (J. Favre) Singer SPECIES
 
 #### Status
 ACCEPTED

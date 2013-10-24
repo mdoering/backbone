@@ -1,5 +1,4 @@
-Scutellinia legaliae Lohmeyer & Häffner, 1983 SPECIES
-=======
+# Scutellinia legaliae Lohmeyer & Häffner, 1983 SPECIES
 
 #### Status
 ACCEPTED

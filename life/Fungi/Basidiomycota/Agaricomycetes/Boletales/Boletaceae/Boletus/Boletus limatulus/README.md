@@ -1,5 +1,4 @@
-Boletus limatulus Frost SPECIES
-=======
+# Boletus limatulus Frost SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Strombilidium pelagicum Faure-Fremiet, 1924 SPECIES
-=======
+# Strombilidium pelagicum Faure-Fremiet, 1924 SPECIES
 
 #### Status
 ACCEPTED

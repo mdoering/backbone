@@ -1,5 +1,4 @@
-Usnea sulphurea f. sulphurea FORM
-=======
+# Usnea sulphurea Th. Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Usnea sulphurea f. sulphurea
+Lichen sulphureus J. König
 
 ### Remarks
 null

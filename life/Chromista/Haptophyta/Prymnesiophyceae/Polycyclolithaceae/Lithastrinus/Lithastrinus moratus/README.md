@@ -1,5 +1,4 @@
-Lithastrinus moratus Stover, 1966 SPECIES
-=======
+# Lithastrinus moratus Stover, 1966 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenochaeta argentinensis Speg. SPECIES
-=======
+# Pyrenochaeta argentinensis Speg. SPECIES
 
 #### Status
 ACCEPTED

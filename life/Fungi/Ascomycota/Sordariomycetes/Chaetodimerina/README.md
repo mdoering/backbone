@@ -1,5 +1,4 @@
-Chaetodimerina GENUS
-=======
+# Chaetodimerina GENUS
 
 #### Status
 ACCEPTED

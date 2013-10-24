@@ -1,5 +1,4 @@
-Trachelomonas tubantia Middelhoek SPECIES
-=======
+# Trachelomonas tubantia Middelhoek SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochyta sclareae Sarwar SPECIES
-=======
+# Ascochyta sclareae Sarwar SPECIES
 
 #### Status
 ACCEPTED

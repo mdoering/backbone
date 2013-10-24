@@ -1,5 +1,4 @@
-Sphaeria junipericola Schwein. SPECIES
-=======
+# Sphaeria junipericola Schwein. SPECIES
 
 #### Status
 ACCEPTED

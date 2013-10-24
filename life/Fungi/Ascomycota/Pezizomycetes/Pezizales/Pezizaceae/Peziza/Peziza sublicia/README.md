@@ -1,5 +1,4 @@
-Peziza sublicia Holmsk. SPECIES
-=======
+# Peziza sublicia Holmsk. SPECIES
 
 #### Status
 ACCEPTED

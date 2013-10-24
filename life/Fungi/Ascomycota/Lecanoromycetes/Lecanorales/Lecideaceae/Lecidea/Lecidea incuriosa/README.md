@@ -1,5 +1,4 @@
-Lecidea incuriosa Nyl. SPECIES
-=======
+# Lecidea incuriosa Nyl. SPECIES
 
 #### Status
 ACCEPTED

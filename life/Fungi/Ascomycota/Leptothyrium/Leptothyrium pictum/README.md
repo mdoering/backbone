@@ -1,5 +1,4 @@
-Leptothyrium pictum Berk. & Broome SPECIES
-=======
+# Leptothyrium pictum Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

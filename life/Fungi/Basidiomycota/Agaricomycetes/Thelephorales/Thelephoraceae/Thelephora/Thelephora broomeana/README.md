@@ -1,8 +1,7 @@
-Thelephora broomeiana Berk. SPECIES
-=======
+# Thelephora broomeana Berk. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Thelephora broomeiana Berk.
+Thelephora broomeana Berk.
 
 ### Remarks
 null

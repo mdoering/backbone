@@ -1,5 +1,4 @@
-Ramularia sphaeroides Ellis & Everh. SPECIES
-=======
+# Ramularia sphaeroides Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

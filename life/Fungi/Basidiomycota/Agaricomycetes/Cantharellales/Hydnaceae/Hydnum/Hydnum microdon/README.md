@@ -1,5 +1,4 @@
-Hydnum microdon Pers. SPECIES
-=======
+# Hydnum microdon Pers. SPECIES
 
 #### Status
 ACCEPTED

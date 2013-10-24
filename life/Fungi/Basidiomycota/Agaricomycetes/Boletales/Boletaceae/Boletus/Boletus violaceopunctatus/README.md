@@ -1,5 +1,4 @@
-Boletus violaceopunctatus (J. Blum & Azéma) J. Blum SPECIES
-=======
+# Boletus violaceopunctatus (J. Blum & Azéma) J. Blum SPECIES
 
 #### Status
 ACCEPTED

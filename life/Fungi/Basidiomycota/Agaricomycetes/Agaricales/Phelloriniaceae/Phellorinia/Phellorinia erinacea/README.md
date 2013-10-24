@@ -1,5 +1,4 @@
-Phellorinia erinacea (Speg.) Speg. SPECIES
-=======
+# Phellorinia erinacea (Speg.) Speg. SPECIES
 
 #### Status
 ACCEPTED

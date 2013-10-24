@@ -1,5 +1,4 @@
-Trichosporon guehoae Middelhoven, Scorzetti & Fell SPECIES
-=======
+# Trichosporon guehoae Middelhoven, Scorzetti & Fell SPECIES
 
 #### Status
 ACCEPTED

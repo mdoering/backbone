@@ -1,5 +1,4 @@
-Ramularia glycyrrhizae Vasyag. SPECIES
-=======
+# Ramularia glycyrrhizae Vasyag. SPECIES
 
 #### Status
 ACCEPTED

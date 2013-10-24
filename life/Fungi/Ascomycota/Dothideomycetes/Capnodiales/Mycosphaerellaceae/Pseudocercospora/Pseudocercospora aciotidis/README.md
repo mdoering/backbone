@@ -1,5 +1,4 @@
-Pseudocercospora aciotidis (Chupp) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora aciotidis (Chupp) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

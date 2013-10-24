@@ -1,5 +1,4 @@
-Sphaerella ricinicola Speg. SPECIES
-=======
+# Sphaerella ricinicola Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Conocybe subpallida var. subpallida VARIETY
-=======
+# Conocybe subpallida Enderle SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Z. Mykol. 57(1): 92 (1991)
 
 #### Original name
-Conocybe subpallida var. subpallida
+Conocybe subpallida Enderle
 
 ### Remarks
 null

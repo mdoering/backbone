@@ -1,5 +1,4 @@
-Lachnellula calva Rick SPECIES
-=======
+# Lachnellula calva Rick SPECIES
 
 #### Status
 ACCEPTED

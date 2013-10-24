@@ -1,5 +1,4 @@
-Caryospora minima Jeffers SPECIES
-=======
+# Caryospora minima Jeffers SPECIES
 
 #### Status
 ACCEPTED

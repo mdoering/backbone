@@ -1,5 +1,4 @@
-Agaricus detrusus Fr. SPECIES
-=======
+# Agaricus detrusus Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthrobotryum camptosporum Sacc. & Therry SPECIES
-=======
+# Arthrobotryum camptosporum Sacc. & Therry SPECIES
 
 #### Status
 ACCEPTED

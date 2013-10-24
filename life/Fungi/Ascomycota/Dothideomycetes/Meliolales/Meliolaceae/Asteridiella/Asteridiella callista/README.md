@@ -1,5 +1,4 @@
-Asteridiella callista (Rehm) Hansf. SPECIES
-=======
+# Asteridiella callista (Rehm) Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amanita altifissura Dav. T. Jenkins SPECIES
-=======
+# Amanita altifissura Dav. T. Jenkins SPECIES
 
 #### Status
 ACCEPTED

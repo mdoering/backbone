@@ -1,5 +1,4 @@
-Selenosporella conglutinata R.F. Castañeda SPECIES
-=======
+# Selenosporella conglutinata R.F. Castañeda SPECIES
 
 #### Status
 ACCEPTED

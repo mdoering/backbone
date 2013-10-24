@@ -1,5 +1,4 @@
-Acurtis Fr. GENUS
-=======
+# Acurtis Fr. GENUS
 
 #### Status
 ACCEPTED

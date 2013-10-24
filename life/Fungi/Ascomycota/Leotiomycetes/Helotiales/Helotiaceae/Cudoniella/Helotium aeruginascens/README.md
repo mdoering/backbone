@@ -1,5 +1,4 @@
-Helotium aeruginascens (Nyl.) SPECIES
-=======
+# Helotium aeruginascens (Nyl.) SPECIES
 
 #### Status
 ACCEPTED

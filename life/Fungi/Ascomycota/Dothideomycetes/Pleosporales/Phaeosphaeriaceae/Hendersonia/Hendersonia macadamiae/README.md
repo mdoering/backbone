@@ -1,5 +1,4 @@
-Hendersonia macadamiae Dias & Sousa da Câmara SPECIES
-=======
+# Hendersonia macadamiae Dias & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

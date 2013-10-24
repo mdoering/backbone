@@ -1,5 +1,4 @@
-Oospora chrysosperma (Corda) Sacc. & Voglino SPECIES
-=======
+# Oospora chrysosperma (Corda) Sacc. & Voglino SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stilbella mesenterica Henn. SPECIES
-=======
+# Stilbella mesenterica Henn. SPECIES
 
 #### Status
 ACCEPTED

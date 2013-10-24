@@ -1,17 +1,16 @@
-Leucogyroporus Snell GENUS
-=======
+# Tylopilus P. Karsten, 1881 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Mycologia 34: 408 (1942)
+null
 
 #### Original name
-Leucogyroporus Snell
+null
 
 ### Remarks
 null

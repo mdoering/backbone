@@ -1,5 +1,4 @@
-Allarthonia subinvisibilis (Vain.) Zahlbr. SPECIES
-=======
+# Allarthonia subinvisibilis (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

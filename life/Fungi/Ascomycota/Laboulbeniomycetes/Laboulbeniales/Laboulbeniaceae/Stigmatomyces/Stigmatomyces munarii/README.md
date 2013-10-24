@@ -1,5 +1,4 @@
-Stigmatomyces munarii W. Rossi & A. Weir SPECIES
-=======
+# Stigmatomyces munarii W. Rossi & A. Weir SPECIES
 
 #### Status
 ACCEPTED

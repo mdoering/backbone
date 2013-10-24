@@ -1,5 +1,4 @@
-Pistillaria misella (Berk. & M.A. Curtis) Corner SPECIES
-=======
+# Pistillaria misella (Berk. & M.A. Curtis) Corner SPECIES
 
 #### Status
 ACCEPTED

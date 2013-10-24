@@ -1,17 +1,16 @@
-Clonostachys zelandiaenovae Schroers SPECIES
-=======
+# Clonostachys zelandiae-novae Schroers SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Stud. Mycol. 46: 97 (2001)
 
 #### Original name
-Clonostachys zelandiaenovae Schroers
+Clonostachys zelandiae-novae Schroers
 
 ### Remarks
 null

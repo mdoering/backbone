@@ -1,5 +1,4 @@
-Puccinia asystasiae E. Castell. SPECIES
-=======
+# Puccinia asystasiae E. Castell. SPECIES
 
 #### Status
 ACCEPTED

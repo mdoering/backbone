@@ -1,5 +1,4 @@
-Rhizocarpon leucopsephum (Nyl.) Zahlbr. SPECIES
-=======
+# Rhizocarpon leucopsephum (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

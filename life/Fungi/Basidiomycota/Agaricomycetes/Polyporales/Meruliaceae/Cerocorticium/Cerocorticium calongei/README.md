@@ -1,14 +1,13 @@
-Uncobasidium calongei (Tellería) Hjortstam & Tellería, 1990 SPECIES
-=======
+# Cerocorticium calongei Tellería, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Tellería, Biblthca Mycol. 135: 118 (1990)
+An. Jard. bot. Madr. 42(1): 59 (1985)
 
 #### Original name
 Cerocorticium calongei Tellería, 1985

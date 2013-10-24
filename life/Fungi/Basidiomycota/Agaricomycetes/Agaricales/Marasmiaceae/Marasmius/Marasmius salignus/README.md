@@ -1,5 +1,4 @@
-Marasmius salignus Peck SPECIES
-=======
+# Marasmius salignus Peck SPECIES
 
 #### Status
 ACCEPTED

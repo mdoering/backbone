@@ -1,5 +1,4 @@
-Polyblastia melaspeirea (Nyl.) Zahlbr. SPECIES
-=======
+# Polyblastia melaspeirea (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

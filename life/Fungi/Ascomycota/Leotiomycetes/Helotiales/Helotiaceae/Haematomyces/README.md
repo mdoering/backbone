@@ -1,5 +1,4 @@
-Haematomyces Berk. & Broome GENUS
-=======
+# Haematomyces Berk. & Broome GENUS
 
 #### Status
 ACCEPTED

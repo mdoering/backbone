@@ -1,5 +1,4 @@
-Gibbera winteri Rehm SPECIES
-=======
+# Gibbera winteri Rehm SPECIES
 
 #### Status
 ACCEPTED

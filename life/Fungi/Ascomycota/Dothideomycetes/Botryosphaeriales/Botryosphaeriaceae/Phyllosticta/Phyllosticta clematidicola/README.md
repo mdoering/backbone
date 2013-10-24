@@ -1,5 +1,4 @@
-Phyllosticta clematidicola Brunaud SPECIES
-=======
+# Phyllosticta clematidicola Brunaud SPECIES
 
 #### Status
 ACCEPTED

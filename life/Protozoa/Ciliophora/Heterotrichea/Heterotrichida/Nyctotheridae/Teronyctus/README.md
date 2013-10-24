@@ -1,5 +1,4 @@
-Teronyctus GENUS
-=======
+# Teronyctus GENUS
 
 #### Status
 ACCEPTED

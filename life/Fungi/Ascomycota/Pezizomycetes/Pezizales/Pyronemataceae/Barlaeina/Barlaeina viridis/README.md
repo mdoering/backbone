@@ -1,5 +1,4 @@
-Barlaeina viridis (Quél.) Sacc. & Traverso SPECIES
-=======
+# Barlaeina viridis (Quél.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

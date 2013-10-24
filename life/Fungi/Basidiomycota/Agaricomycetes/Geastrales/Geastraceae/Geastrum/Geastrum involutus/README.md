@@ -1,8 +1,7 @@
-Geaster involutus Massee SPECIES
-=======
+# Geastrum involutus Massee SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Geaster involutus Massee
+Geastrum involutus Massee
 
 ### Remarks
 null

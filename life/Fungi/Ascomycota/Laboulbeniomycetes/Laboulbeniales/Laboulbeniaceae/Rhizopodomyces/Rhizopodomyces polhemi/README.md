@@ -1,17 +1,16 @@
-Rhizopodomyces polhemusii R.K. Benj. SPECIES
-=======
+# Rhizopodomyces polhemi R.K. Benj. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Aliso 9(3): 396 (1979)
 
 #### Original name
-Rhizopodomyces polhemusii R.K. Benj.
+Rhizopodomyces polhemi R.K. Benj.
 
 ### Remarks
 null

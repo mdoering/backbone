@@ -1,5 +1,4 @@
-Mycosphaerella tahitensis (Sacc.) Lindau SPECIES
-=======
+# Mycosphaerella tahitensis (Sacc.) Lindau SPECIES
 
 #### Status
 ACCEPTED

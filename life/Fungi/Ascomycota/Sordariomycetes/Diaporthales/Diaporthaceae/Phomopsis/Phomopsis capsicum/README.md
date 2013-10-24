@@ -1,5 +1,4 @@
-Phomopsis capsicum (Magnaghi) Novoss. SPECIES
-=======
+# Phomopsis capsicum (Magnaghi) Novoss. SPECIES
 
 #### Status
 ACCEPTED

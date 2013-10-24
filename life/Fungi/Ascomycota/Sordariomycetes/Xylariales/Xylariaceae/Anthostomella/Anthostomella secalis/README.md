@@ -1,5 +1,4 @@
-Anthostomella secalis P. Karst. SPECIES
-=======
+# Anthostomella secalis P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Triramulispora gracilis Matsush., 1975 SPECIES
-=======
+# Triramulispora gracilis Matsush., 1975 SPECIES
 
 #### Status
 ACCEPTED

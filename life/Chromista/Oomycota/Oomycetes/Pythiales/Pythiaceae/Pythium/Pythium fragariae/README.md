@@ -1,5 +1,4 @@
-Pythium fragariae M. Takah. & Kawase SPECIES
-=======
+# Pythium fragariae M. Takah. & Kawase SPECIES
 
 #### Status
 ACCEPTED

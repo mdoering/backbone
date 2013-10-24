@@ -1,5 +1,4 @@
-Melampsora larici-populina Kleb. SPECIES
-=======
+# Melampsora larici-populina Kleb. SPECIES
 
 #### Status
 ACCEPTED

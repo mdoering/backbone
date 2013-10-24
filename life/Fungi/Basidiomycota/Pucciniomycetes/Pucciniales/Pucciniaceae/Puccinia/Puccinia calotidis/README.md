@@ -1,5 +1,4 @@
-Puccinia calotidis McAlpine SPECIES
-=======
+# Puccinia calotidis McAlpine SPECIES
 
 #### Status
 ACCEPTED

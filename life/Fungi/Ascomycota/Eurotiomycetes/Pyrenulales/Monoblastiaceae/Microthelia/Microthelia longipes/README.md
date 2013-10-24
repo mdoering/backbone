@@ -1,5 +1,4 @@
-Microthelia longipes (Trab.) Kuntze SPECIES
-=======
+# Microthelia longipes (Trab.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

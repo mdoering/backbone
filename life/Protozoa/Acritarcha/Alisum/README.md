@@ -1,5 +1,4 @@
-Alisum Górka GENUS
-=======
+# Alisum Górka GENUS
 
 #### Status
 ACCEPTED

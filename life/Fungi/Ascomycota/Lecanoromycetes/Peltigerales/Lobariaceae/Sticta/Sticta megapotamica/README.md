@@ -1,5 +1,4 @@
-Sticta megapotamica Malme SPECIES
-=======
+# Sticta megapotamica Malme SPECIES
 
 #### Status
 ACCEPTED

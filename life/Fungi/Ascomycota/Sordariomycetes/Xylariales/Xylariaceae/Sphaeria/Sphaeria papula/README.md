@@ -1,5 +1,4 @@
-Sphaeria papula Kunze SPECIES
-=======
+# Sphaeria papula Kunze SPECIES
 
 #### Status
 ACCEPTED

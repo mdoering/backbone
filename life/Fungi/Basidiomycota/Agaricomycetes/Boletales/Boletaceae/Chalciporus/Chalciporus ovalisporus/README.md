@@ -1,5 +1,4 @@
-Chalciporus ovalisporus (Cleland) Grgur. SPECIES
-=======
+# Chalciporus ovalisporus (Cleland) Grgur. SPECIES
 
 #### Status
 ACCEPTED

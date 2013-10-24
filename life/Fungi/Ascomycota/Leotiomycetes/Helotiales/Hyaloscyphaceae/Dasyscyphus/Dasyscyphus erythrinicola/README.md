@@ -1,5 +1,4 @@
-Dasyscyphus erythrinicola V.G. Rao & Subhedar SPECIES
-=======
+# Dasyscyphus erythrinicola V.G. Rao & Subhedar SPECIES
 
 #### Status
 ACCEPTED

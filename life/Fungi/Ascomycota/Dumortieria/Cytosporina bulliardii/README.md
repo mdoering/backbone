@@ -1,5 +1,4 @@
-Cytosporina bulliardii Höhn. SPECIES
-=======
+# Cytosporina bulliardii Höhn. SPECIES
 
 #### Status
 ACCEPTED

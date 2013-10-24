@@ -1,5 +1,4 @@
-Pleospora potentillae (Rostr.) E. Müll. SPECIES
-=======
+# Pleospora potentillae (Rostr.) E. Müll. SPECIES
 
 #### Status
 ACCEPTED

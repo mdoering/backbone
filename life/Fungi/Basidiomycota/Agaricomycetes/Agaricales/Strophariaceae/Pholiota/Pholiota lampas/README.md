@@ -1,5 +1,4 @@
-Pholiota lampas Kalchbr. SPECIES
-=======
+# Pholiota lampas Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

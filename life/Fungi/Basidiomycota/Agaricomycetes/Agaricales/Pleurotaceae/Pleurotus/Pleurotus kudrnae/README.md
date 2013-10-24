@@ -1,5 +1,4 @@
-Pleurotus kudrnae Velen. SPECIES
-=======
+# Pleurotus kudrnae Velen. SPECIES
 
 #### Status
 ACCEPTED

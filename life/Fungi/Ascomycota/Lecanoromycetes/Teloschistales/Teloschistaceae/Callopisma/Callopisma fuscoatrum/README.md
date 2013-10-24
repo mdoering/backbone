@@ -1,5 +1,4 @@
-Callopisma fuscoatrum (Bayrh.) Walt. Watson SPECIES
-=======
+# Callopisma fuscoatrum (Bayrh.) Walt. Watson SPECIES
 
 #### Status
 ACCEPTED

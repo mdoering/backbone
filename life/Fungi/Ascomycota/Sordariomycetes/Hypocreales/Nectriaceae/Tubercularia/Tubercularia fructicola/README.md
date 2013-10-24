@@ -1,5 +1,4 @@
-Tubercularia fructicola Sacc. & P. Syd. SPECIES
-=======
+# Tubercularia fructicola Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

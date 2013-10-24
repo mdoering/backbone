@@ -1,5 +1,4 @@
-Leptosphaeria eutypoides Peck SPECIES
-=======
+# Leptosphaeria eutypoides Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Euproctis karghalica Npv SPECIES
-=======
+# Euproctis karghalica Npv SPECIES
 
 #### Status
 ACCEPTED

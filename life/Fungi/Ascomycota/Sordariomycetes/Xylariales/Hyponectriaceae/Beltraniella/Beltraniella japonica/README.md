@@ -1,5 +1,4 @@
-Beltraniella japonica Matsush. SPECIES
-=======
+# Beltraniella japonica Matsush. SPECIES
 
 #### Status
 ACCEPTED

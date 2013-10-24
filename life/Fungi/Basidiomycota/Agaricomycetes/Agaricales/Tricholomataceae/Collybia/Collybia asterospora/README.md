@@ -1,5 +1,4 @@
-Collybia asterospora Torrend SPECIES
-=======
+# Collybia asterospora Torrend SPECIES
 
 #### Status
 ACCEPTED

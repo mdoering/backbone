@@ -1,17 +1,16 @@
-Lachnea hemisphaerica f. hemisphaerica FORM
-=======
+# Humaria hemisphaerica (F.H. Wigg.) Fuckel, 1870 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Champignons de France, Discom. 73 (1880)
+Jb. nassau. Ver. Naturk. 23-24: 322 (1870)
 
 #### Original name
-Lachnea hemisphaerica f. hemisphaerica
+Peziza hemisphaerica F.H. Wigg., 1780
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Phyllosticta ostryae Woron. SPECIES
-=======
+# Phyllosticta ostryae Woron. SPECIES
 
 #### Status
 ACCEPTED

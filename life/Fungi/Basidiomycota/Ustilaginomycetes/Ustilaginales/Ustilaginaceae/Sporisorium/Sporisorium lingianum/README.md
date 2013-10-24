@@ -1,14 +1,13 @@
-Sorosporium anthephorae L. Ling, 1953 SPECIES
-=======
+# Sporisorium lingianum Vánky, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lloydia 16(3): 184 (1953)
+Mycotaxon 81: 391 (2002)
 
 #### Original name
 Sorosporium anthephorae L. Ling, 1953

@@ -1,5 +1,4 @@
-Agaricus lepiota Alb. & Schwein. SPECIES
-=======
+# Agaricus lepiota Alb. & Schwein. SPECIES
 
 #### Status
 ACCEPTED

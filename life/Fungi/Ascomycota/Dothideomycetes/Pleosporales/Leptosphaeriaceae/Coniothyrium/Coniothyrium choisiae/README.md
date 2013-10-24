@@ -1,5 +1,4 @@
-Coniothyrium choisiae Siemaszko SPECIES
-=======
+# Coniothyrium choisiae Siemaszko SPECIES
 
 #### Status
 ACCEPTED

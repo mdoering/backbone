@@ -1,5 +1,4 @@
-Lepiotophyllum heterosporum Locq. SPECIES
-=======
+# Lepiotophyllum heterosporum Locq. SPECIES
 
 #### Status
 ACCEPTED

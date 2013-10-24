@@ -1,5 +1,4 @@
-Hyphoderma fibrillosum Wallr. SPECIES
-=======
+# Hyphoderma fibrillosum Wallr. SPECIES
 
 #### Status
 ACCEPTED

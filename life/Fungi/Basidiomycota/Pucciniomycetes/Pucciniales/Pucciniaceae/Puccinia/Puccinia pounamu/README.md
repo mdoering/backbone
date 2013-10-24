@@ -1,5 +1,4 @@
-Puccinia pounamu G. Cunn., 1923 SPECIES
-=======
+# Puccinia pounamu G. Cunn., 1923 SPECIES
 
 #### Status
 ACCEPTED

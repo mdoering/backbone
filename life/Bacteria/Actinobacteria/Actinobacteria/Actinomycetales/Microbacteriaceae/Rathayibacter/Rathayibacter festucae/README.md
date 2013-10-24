@@ -1,5 +1,4 @@
-Rathayibacter festucae Dorofeeva et al., 2002 SPECIES
-=======
+# Rathayibacter festucae Dorofeeva et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

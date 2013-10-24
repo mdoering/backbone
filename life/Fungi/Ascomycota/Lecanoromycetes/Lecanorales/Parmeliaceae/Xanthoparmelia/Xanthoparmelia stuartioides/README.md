@@ -1,5 +1,4 @@
-Xanthoparmelia stuartioides Elix SPECIES
-=======
+# Xanthoparmelia stuartioides Elix SPECIES
 
 #### Status
 ACCEPTED

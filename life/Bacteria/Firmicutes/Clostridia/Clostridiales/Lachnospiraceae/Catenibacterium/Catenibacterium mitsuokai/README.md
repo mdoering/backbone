@@ -1,5 +1,4 @@
-Catenibacterium mitsuokai Kageyama & Benno, 2000 SPECIES
-=======
+# Catenibacterium mitsuokai Kageyama & Benno, 2000 SPECIES
 
 #### Status
 ACCEPTED

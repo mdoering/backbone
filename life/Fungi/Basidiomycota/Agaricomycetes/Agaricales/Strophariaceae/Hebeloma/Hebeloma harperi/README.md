@@ -1,5 +1,4 @@
-Hebeloma harperi Murrill SPECIES
-=======
+# Hebeloma harperi Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Pleospora vulgaris var. monosticha Sacc. VARIETY
-=======
+# Lewia scrophulariae (Desm.) M.E. Barr & E.G. Simmons, 1986 SPECIES
 
 #### Status
-DOUBTFUL
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Simmons, Mycotaxon 25(1): 294 (1986)
 
 #### Original name
-null
+Sphaeria scrophulariae Desm., 1836
 
 ### Remarks
 null

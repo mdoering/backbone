@@ -1,5 +1,4 @@
-Sphaeria herniariae Kirchn. SPECIES
-=======
+# Sphaeria herniariae Kirchn. SPECIES
 
 #### Status
 ACCEPTED

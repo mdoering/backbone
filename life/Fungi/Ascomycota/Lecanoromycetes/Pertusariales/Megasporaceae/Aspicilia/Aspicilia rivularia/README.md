@@ -1,5 +1,4 @@
-Aspicilia rivularia (Nyl.) Boistel SPECIES
-=======
+# Aspicilia rivularia (Nyl.) Boistel SPECIES
 
 #### Status
 ACCEPTED

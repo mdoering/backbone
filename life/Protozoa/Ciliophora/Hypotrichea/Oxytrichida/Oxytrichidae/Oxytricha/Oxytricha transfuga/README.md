@@ -1,5 +1,4 @@
-Oxytricha transfuga Müller, 1776 SPECIES
-=======
+# Oxytricha transfuga Müller, 1776 SPECIES
 
 #### Status
 ACCEPTED

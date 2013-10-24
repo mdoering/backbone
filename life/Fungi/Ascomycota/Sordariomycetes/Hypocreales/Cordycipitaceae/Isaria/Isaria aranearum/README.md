@@ -1,5 +1,4 @@
-Isaria aranearum Schwein. SPECIES
-=======
+# Isaria aranearum Schwein. SPECIES
 
 #### Status
 ACCEPTED

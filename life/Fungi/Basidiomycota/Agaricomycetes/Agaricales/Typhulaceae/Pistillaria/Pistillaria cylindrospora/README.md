@@ -1,5 +1,4 @@
-Pistillaria cylindrospora (G.F. Atk.) Corner SPECIES
-=======
+# Pistillaria cylindrospora (G.F. Atk.) Corner SPECIES
 
 #### Status
 ACCEPTED

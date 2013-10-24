@@ -1,5 +1,4 @@
-Russula ochraceorivulosa Buyck SPECIES
-=======
+# Russula ochraceorivulosa Buyck SPECIES
 
 #### Status
 ACCEPTED

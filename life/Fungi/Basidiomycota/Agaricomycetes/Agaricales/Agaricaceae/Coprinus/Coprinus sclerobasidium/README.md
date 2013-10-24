@@ -1,5 +1,4 @@
-Coprinus sclerobasidium Singer SPECIES
-=======
+# Coprinus sclerobasidium Singer SPECIES
 
 #### Status
 ACCEPTED

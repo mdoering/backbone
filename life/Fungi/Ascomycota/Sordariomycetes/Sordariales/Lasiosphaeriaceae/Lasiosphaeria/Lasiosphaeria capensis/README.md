@@ -1,5 +1,4 @@
-Lasiosphaeria capensis Kalchbr. & Cooke SPECIES
-=======
+# Lasiosphaeria capensis Kalchbr. & Cooke SPECIES
 
 #### Status
 ACCEPTED

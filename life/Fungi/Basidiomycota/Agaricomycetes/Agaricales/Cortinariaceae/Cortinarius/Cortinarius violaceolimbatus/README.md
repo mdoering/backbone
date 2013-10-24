@@ -1,5 +1,4 @@
-Cortinarius violaceolimbatus M.M. Moser SPECIES
-=======
+# Cortinarius violaceolimbatus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

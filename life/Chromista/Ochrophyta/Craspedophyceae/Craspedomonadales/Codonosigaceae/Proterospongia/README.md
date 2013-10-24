@@ -1,5 +1,4 @@
-Proterospongia Kent, 1882 GENUS
-=======
+# Proterospongia Kent, 1882 GENUS
 
 #### Status
 ACCEPTED

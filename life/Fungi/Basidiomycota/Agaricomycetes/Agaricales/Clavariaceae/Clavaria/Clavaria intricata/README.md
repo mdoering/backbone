@@ -1,5 +1,4 @@
-Clavaria intricata Ces. SPECIES
-=======
+# Clavaria intricata Ces. SPECIES
 
 #### Status
 ACCEPTED

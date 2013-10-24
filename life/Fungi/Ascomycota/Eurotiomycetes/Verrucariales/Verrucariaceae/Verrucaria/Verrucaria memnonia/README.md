@@ -1,5 +1,4 @@
-Verrucaria memnonia (Flot.) Arnold SPECIES
-=======
+# Verrucaria memnonia (Flot.) Arnold SPECIES
 
 #### Status
 ACCEPTED

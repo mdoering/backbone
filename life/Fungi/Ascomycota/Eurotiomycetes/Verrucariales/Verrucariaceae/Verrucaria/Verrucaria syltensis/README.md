@@ -1,5 +1,4 @@
-Verrucaria syltensis Servít SPECIES
-=======
+# Verrucaria syltensis Servít SPECIES
 
 #### Status
 ACCEPTED

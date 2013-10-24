@@ -1,14 +1,13 @@
-Dicaeoma kochiae (Massee) Kuntze, 1898 SPECIES
-=======
+# Puccinia kochiae Massee, 1893 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 469 (1898)
+Grevillea 22(no. 101): 17 (1893)
 
 #### Original name
 Puccinia kochiae Massee, 1893

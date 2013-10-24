@@ -1,5 +1,4 @@
-Tintinnopsis panamensis Kofoid & Campbell, 1929 SPECIES
-=======
+# Tintinnopsis panamensis Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

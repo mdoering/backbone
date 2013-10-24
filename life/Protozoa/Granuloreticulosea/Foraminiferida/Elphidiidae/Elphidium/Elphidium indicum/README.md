@@ -1,5 +1,4 @@
-Elphidium indicum Cushman, 1936 SPECIES
-=======
+# Elphidium indicum Cushman, 1936 SPECIES
 
 #### Status
 ACCEPTED

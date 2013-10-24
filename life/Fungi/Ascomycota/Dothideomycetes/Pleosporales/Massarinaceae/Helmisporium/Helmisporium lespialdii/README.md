@@ -1,5 +1,4 @@
-Helmisporium lespialdii Brond. SPECIES
-=======
+# Helmisporium lespialdii Brond. SPECIES
 
 #### Status
 ACCEPTED

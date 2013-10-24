@@ -1,5 +1,4 @@
-Lachnea diplotricha Rehm SPECIES
-=======
+# Lachnea diplotricha Rehm SPECIES
 
 #### Status
 ACCEPTED

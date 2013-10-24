@@ -1,5 +1,4 @@
-Sclerotium radicatum Tode SPECIES
-=======
+# Sclerotium radicatum Tode SPECIES
 
 #### Status
 ACCEPTED

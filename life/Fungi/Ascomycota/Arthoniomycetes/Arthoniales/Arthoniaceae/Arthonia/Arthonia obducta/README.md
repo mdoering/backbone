@@ -1,5 +1,4 @@
-Arthonia obducta J. Lahm SPECIES
-=======
+# Arthonia obducta J. Lahm SPECIES
 
 #### Status
 ACCEPTED

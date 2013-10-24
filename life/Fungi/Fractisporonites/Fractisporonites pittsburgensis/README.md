@@ -1,5 +1,4 @@
-Fractisporonites pittsburgensis Traverse & Ash SPECIES
-=======
+# Fractisporonites pittsburgensis Traverse & Ash SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lethariella mieheana Obermayer SPECIES
-=======
+# Lethariella mieheana Obermayer SPECIES
 
 #### Status
 ACCEPTED

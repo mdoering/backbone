@@ -1,5 +1,4 @@
-Septoria gnaphalii-indici Sawada SPECIES
-=======
+# Septoria gnaphalii-indici Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Quinqueloculina elegans SPECIES
-=======
+# Quinqueloculina elegans SPECIES
 
 #### Status
 ACCEPTED

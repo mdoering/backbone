@@ -1,5 +1,4 @@
-Coniothyrium coprophilum Speg. SPECIES
-=======
+# Coniothyrium coprophilum Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clathrus ramosus SPECIES
-=======
+# Clathrus ramosus SPECIES
 
 #### Status
 ACCEPTED

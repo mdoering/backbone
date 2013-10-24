@@ -1,5 +1,4 @@
-Hygrophorus obscuratus (P. Karst.) Rea SPECIES
-=======
+# Hygrophorus obscuratus (P. Karst.) Rea SPECIES
 
 #### Status
 ACCEPTED

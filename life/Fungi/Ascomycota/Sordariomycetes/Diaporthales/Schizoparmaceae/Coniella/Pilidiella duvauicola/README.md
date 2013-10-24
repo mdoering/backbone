@@ -1,5 +1,4 @@
-Pilidiella duvauicola (Speg.) Petr. & Syd. SPECIES
-=======
+# Pilidiella duvauicola (Speg.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

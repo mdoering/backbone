@@ -1,5 +1,4 @@
-Caloplaca squamescens (Zahlbr.) Servít SPECIES
-=======
+# Caloplaca squamescens (Zahlbr.) Servít SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella baldensis (C. Massal.) Tomilin SPECIES
-=======
+# Mycosphaerella baldensis (C. Massal.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella galatellae Lobik SPECIES
-=======
+# Mycosphaerella galatellae Lobik SPECIES
 
 #### Status
 ACCEPTED

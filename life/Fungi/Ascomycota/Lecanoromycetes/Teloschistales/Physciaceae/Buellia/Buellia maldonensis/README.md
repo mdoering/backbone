@@ -1,5 +1,4 @@
-Buellia maldonensis H. Magn. SPECIES
-=======
+# Buellia maldonensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

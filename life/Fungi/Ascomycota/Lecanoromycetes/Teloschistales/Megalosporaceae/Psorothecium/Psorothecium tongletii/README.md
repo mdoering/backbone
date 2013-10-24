@@ -1,8 +1,7 @@
-Psorothecium tongleti B. de Lesd. SPECIES
-=======
+# Psorothecium tongletii B. de Lesd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Psorothecium tongleti B. de Lesd.
+Psorothecium tongletii B. de Lesd.
 
 ### Remarks
 null

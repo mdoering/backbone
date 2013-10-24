@@ -1,5 +1,4 @@
-Camarosporium spartii Trail, 1888 SPECIES
-=======
+# Camarosporium spartii Trail, 1888 SPECIES
 
 #### Status
 ACCEPTED

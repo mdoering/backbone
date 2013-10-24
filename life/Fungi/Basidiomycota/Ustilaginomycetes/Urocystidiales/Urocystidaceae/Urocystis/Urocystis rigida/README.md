@@ -1,5 +1,4 @@
-Urocystis rigida (Liro) Zundel SPECIES
-=======
+# Urocystis rigida (Liro) Zundel SPECIES
 
 #### Status
 ACCEPTED

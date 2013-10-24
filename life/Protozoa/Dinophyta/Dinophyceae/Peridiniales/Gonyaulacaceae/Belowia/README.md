@@ -1,5 +1,4 @@
-Belowia J.B. Riding & R. Helby, 2001 GENUS
-=======
+# Belowia J.B. Riding & R. Helby, 2001 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microsphaera caryae U. Braun SPECIES
-=======
+# Microsphaera caryae U. Braun SPECIES
 
 #### Status
 ACCEPTED

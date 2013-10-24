@@ -1,5 +1,4 @@
-Meliola gliricidiae var. gliricidiae Syd. & P. Syd. VARIETY
-=======
+# Meliola gliricidiae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Annls mycol. 12(6): 550 (1914)
 
 #### Original name
-Meliola gliricidiae var. gliricidiae Syd. & P. Syd.
+Meliola gliricidiae Syd. & P. Syd.
 
 ### Remarks
 null

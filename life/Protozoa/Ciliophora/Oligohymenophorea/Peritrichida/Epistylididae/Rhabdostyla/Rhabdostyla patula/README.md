@@ -1,5 +1,4 @@
-Rhabdostyla patula (Perty, 1852) ? SPECIES
-=======
+# Rhabdostyla patula (Perty, 1852) ? SPECIES
 
 #### Status
 ACCEPTED

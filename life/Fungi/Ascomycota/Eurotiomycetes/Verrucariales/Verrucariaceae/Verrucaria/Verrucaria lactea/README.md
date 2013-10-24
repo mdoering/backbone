@@ -1,5 +1,4 @@
-Verrucaria lactea (Körb.) Leight. SPECIES
-=======
+# Verrucaria lactea (Körb.) Leight. SPECIES
 
 #### Status
 ACCEPTED

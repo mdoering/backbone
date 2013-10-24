@@ -1,5 +1,4 @@
-Toninia syncomista f. syncomista FORM
-=======
+# Bilimbia lobulata (Sommerf.) Hafellner & Coppins SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+in Veldkamp, Lichenologist 36(3 & 4): 195 (2004)
 
 #### Original name
-Toninia syncomista f. syncomista
+Lecidea lobulata (Flörke) Hue
 
 ### Remarks
 null

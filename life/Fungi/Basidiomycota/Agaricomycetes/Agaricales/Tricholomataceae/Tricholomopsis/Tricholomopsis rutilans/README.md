@@ -1,17 +1,16 @@
-Agaricus rutilans var. rutilans VARIETY
-=======
+# Tricholomopsis rutilans (Schaeff.) Singer, 1939 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Schweiz. Z. Pilzk. 17: 56 (1939)
 
 #### Original name
-null
+Agaricus rutilans Schaeff., 1774
 
 ### Remarks
 null

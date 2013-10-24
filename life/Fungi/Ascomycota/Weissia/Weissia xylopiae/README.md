@@ -1,5 +1,4 @@
-Weissia xylopiae Bat. & M.P. Herrera, 1964 SPECIES
-=======
+# Weissia xylopiae Bat. & M.P. Herrera, 1964 SPECIES
 
 #### Status
 ACCEPTED

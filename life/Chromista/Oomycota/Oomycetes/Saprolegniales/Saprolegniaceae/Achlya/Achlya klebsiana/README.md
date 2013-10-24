@@ -1,17 +1,16 @@
-Achlya klebsiana var. indica Chaudhuri & Kochhar VARIETY
-=======
+# Achlya klebsiana Pieters, 1915 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bot. Gaz. 60(6): 486 (1915)
 
 #### Original name
-Achlya klebsiana var. indica Chaudhuri & Kochhar
+Achlya klebsiana Pieters, 1915
 
 ### Remarks
 null

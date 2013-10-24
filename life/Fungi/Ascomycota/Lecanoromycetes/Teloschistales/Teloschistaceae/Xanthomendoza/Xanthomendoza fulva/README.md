@@ -1,8 +1,7 @@
-Xanthoria candelaria f. fulva (Hoffm.) Zahlbr. FORM
-=======
+# Xanthomendoza fulva (Hoffm.) Søchting, Kärnefelt & S. Y. Kondr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

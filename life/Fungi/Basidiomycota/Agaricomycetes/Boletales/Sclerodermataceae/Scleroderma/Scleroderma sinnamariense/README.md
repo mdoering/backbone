@@ -1,5 +1,4 @@
-Scleroderma sinnamariense Mont., 1840 SPECIES
-=======
+# Scleroderma sinnamariense Mont., 1840 SPECIES
 
 #### Status
 ACCEPTED

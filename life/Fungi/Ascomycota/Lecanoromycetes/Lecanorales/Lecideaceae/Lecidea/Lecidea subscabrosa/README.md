@@ -1,5 +1,4 @@
-Lecidea subscabrosa Nyl. SPECIES
-=======
+# Lecidea subscabrosa Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Botryobasidium farinosus anon. SPECIES
-=======
+# Botryobasidium farinosus anon. SPECIES
 
 #### Status
 ACCEPTED

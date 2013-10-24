@@ -1,5 +1,4 @@
-Discosphaerina vincetoxici (Fautrey) Petr. SPECIES
-=======
+# Discosphaerina vincetoxici (Fautrey) Petr. SPECIES
 
 #### Status
 ACCEPTED

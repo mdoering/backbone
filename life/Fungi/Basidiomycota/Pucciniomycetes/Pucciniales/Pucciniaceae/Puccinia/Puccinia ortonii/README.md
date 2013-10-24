@@ -1,5 +1,4 @@
-Puccinia ortonii H.S. Jacks. SPECIES
-=======
+# Puccinia ortonii H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

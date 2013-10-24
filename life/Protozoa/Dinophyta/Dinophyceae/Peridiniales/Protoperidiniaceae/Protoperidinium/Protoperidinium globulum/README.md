@@ -1,5 +1,4 @@
-Protoperidinium globulum (Stein) Balech SPECIES
-=======
+# Protoperidinium globulum (Stein) Balech SPECIES
 
 #### Status
 ACCEPTED

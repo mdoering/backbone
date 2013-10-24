@@ -1,5 +1,4 @@
-Cephalosporium rubrobrunneum Nann. SPECIES
-=======
+# Cephalosporium rubrobrunneum Nann. SPECIES
 
 #### Status
 ACCEPTED

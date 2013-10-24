@@ -1,5 +1,4 @@
-Trogia macra Corner SPECIES
-=======
+# Trogia macra Corner SPECIES
 
 #### Status
 ACCEPTED

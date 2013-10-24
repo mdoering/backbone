@@ -1,14 +1,13 @@
-Sericeomyces menieri (Sacc.) Contu, 1991 SPECIES
-=======
+# Leucoagaricus menieri (Sacc.) Singer, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Cryptog. Mycol. 12(1): 4 (1991)
+Mycopath. Mycol. appl. 34(2): 131 (1968)
 
 #### Original name
 Lepiota menieri Sacc., 1891

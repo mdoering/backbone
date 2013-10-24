@@ -1,5 +1,4 @@
-Trematosphaeria belladonnae Naumov SPECIES
-=======
+# Trematosphaeria belladonnae Naumov SPECIES
 
 #### Status
 ACCEPTED

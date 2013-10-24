@@ -1,5 +1,4 @@
-Methanothermobacter marburgensis Wasserfallen et al., 2000 SPECIES
-=======
+# Methanothermobacter marburgensis Wasserfallen et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

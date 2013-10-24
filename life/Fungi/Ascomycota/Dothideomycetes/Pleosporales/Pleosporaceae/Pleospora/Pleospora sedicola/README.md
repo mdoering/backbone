@@ -1,5 +1,4 @@
-Pleospora sedicola E.G. Simmons, 2001 SPECIES
-=======
+# Pleospora sedicola E.G. Simmons, 2001 SPECIES
 
 #### Status
 ACCEPTED

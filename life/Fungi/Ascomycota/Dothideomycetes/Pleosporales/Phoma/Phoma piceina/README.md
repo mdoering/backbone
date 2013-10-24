@@ -1,5 +1,4 @@
-Phoma piceina Peck SPECIES
-=======
+# Phoma piceina Peck SPECIES
 
 #### Status
 ACCEPTED

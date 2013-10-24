@@ -1,5 +1,4 @@
-Pfenderella Redmond, 1964 GENUS
-=======
+# Pfenderella Redmond, 1964 GENUS
 
 #### Status
 ACCEPTED

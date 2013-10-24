@@ -1,5 +1,4 @@
-Eopyrenula avellanae Coppins SPECIES
-=======
+# Eopyrenula avellanae Coppins SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amblyospora excrucii SPECIES
-=======
+# Amblyospora excrucii SPECIES
 
 #### Status
 ACCEPTED

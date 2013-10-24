@@ -1,5 +1,4 @@
-Smittium incrassatum Kobayasi, 1971 SPECIES
-=======
+# Smittium incrassatum Kobayasi, 1971 SPECIES
 
 #### Status
 ACCEPTED

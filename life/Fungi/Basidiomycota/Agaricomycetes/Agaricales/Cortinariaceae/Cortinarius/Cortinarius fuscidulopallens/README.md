@@ -1,5 +1,4 @@
-Cortinarius fuscidulopallens Rob. Henry SPECIES
-=======
+# Cortinarius fuscidulopallens Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

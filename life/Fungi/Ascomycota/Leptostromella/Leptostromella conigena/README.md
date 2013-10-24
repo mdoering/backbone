@@ -1,5 +1,4 @@
-Leptostromella conigena Dearn. SPECIES
-=======
+# Leptostromella conigena Dearn. SPECIES
 
 #### Status
 ACCEPTED

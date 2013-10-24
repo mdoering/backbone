@@ -1,5 +1,4 @@
-Galactinia bonaerensis (Speg.) Gamundí SPECIES
-=======
+# Galactinia bonaerensis (Speg.) Gamundí SPECIES
 
 #### Status
 ACCEPTED

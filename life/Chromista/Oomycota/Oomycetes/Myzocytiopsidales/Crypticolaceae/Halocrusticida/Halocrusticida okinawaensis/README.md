@@ -1,14 +1,13 @@
-Atkinsiella okinawaensis K. Nakam. & Hatai, 1995 SPECIES
-=======
+# Halocrusticida okinawaensis (K. Nakam. & Hatai) K. Nakam. & Hatai, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycoscience 36(1): 89 (1995)
+Mycoscience 36(4): 437 (1995)
 
 #### Original name
 Atkinsiella okinawaensis K. Nakam. & Hatai, 1995

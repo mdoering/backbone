@@ -1,8 +1,7 @@
-Catillaria massalongii Körb. SPECIES
-=======
+# Catillaria massalongoi Körb. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Catillaria massalongii Körb.
+Catillaria massalongoi Körb.
 
 ### Remarks
 null

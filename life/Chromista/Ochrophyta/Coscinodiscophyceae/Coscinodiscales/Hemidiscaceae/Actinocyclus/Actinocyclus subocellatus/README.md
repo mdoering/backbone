@@ -1,5 +1,4 @@
-Actinocyclus subocellatus (Grunow) Rattray, 1890 SPECIES
-=======
+# Actinocyclus subocellatus (Grunow) Rattray, 1890 SPECIES
 
 #### Status
 ACCEPTED

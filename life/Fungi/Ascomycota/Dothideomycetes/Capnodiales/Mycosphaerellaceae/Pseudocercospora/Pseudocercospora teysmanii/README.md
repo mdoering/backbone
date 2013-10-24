@@ -1,5 +1,4 @@
-Pseudocercospora teysmanii (G.C.S. Barua & K.C. Barua) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora teysmanii (G.C.S. Barua & K.C. Barua) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizophydium proliferum J.S. Knox & R.A. Paterson SPECIES
-=======
+# Rhizophydium proliferum J.S. Knox & R.A. Paterson SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fonticula Worley, Raper & M. Hohl GENUS
-=======
+# Fonticula Worley, Raper & M. Hohl GENUS
 
 #### Status
 ACCEPTED

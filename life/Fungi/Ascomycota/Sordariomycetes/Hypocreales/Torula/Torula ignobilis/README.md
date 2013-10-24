@@ -1,5 +1,4 @@
-Torula ignobilis P. Karst. & Har. SPECIES
-=======
+# Torula ignobilis P. Karst. & Har. SPECIES
 
 #### Status
 ACCEPTED

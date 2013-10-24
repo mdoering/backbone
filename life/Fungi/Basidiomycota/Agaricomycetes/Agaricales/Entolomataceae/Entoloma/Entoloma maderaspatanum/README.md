@@ -1,5 +1,4 @@
-Entoloma maderaspatanum (Pegler) E. Horak SPECIES
-=======
+# Entoloma maderaspatanum (Pegler) E. Horak SPECIES
 
 #### Status
 ACCEPTED

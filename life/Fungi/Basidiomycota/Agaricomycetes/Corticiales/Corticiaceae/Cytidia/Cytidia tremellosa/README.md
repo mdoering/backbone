@@ -1,5 +1,4 @@
-Cytidia tremellosa Lloyd SPECIES
-=======
+# Cytidia tremellosa Lloyd SPECIES
 
 #### Status
 ACCEPTED

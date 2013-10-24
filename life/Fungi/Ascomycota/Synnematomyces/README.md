@@ -1,5 +1,4 @@
-Synnematomyces Kobayasi GENUS
-=======
+# Synnematomyces Kobayasi GENUS
 
 #### Status
 ACCEPTED

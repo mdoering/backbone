@@ -1,5 +1,4 @@
-Amanita roseolamellata A.E. Wood SPECIES
-=======
+# Amanita roseolamellata A.E. Wood SPECIES
 
 #### Status
 ACCEPTED

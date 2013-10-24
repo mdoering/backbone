@@ -1,5 +1,4 @@
-Acinetides triangularis Penard SPECIES
-=======
+# Acinetides triangularis Penard SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Sphaerella nubilosa Cooke, 1891 SPECIES
-=======
+# Mycosphaerella nubilosa (Cooke) Hansf., 1956 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 19(no. 91): 61 (1891)
+null
 
 #### Original name
-Sphaerella nubilosa Cooke, 1891
+null
 
 ### Remarks
 null

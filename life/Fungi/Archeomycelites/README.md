@@ -1,5 +1,4 @@
-Archeomycelites Bystrov GENUS
-=======
+# Archeomycelites Bystrov GENUS
 
 #### Status
 ACCEPTED

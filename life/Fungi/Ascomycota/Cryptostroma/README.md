@@ -1,5 +1,4 @@
-Cryptostroma P.H. Greg. & S. Waller GENUS
-=======
+# Cryptostroma P.H. Greg. & S. Waller GENUS
 
 #### Status
 ACCEPTED

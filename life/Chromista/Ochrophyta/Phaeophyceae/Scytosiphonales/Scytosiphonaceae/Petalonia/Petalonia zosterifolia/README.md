@@ -1,8 +1,7 @@
-Phyllitis zosterifolia Reinke SPECIES
-=======
+# Petalonia zosterifolia (Reinke) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

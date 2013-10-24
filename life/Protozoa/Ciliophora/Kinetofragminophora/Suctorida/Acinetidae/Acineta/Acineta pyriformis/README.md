@@ -1,5 +1,4 @@
-Acineta pyriformis Stokes, 1891 SPECIES
-=======
+# Acineta pyriformis Stokes, 1891 SPECIES
 
 #### Status
 ACCEPTED

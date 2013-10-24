@@ -1,5 +1,4 @@
-Chaenothecopsis tsugae Rikkinen SPECIES
-=======
+# Chaenothecopsis tsugae Rikkinen SPECIES
 
 #### Status
 ACCEPTED

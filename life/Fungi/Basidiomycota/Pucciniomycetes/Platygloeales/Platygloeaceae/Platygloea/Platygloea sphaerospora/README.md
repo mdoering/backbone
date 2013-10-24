@@ -1,5 +1,4 @@
-Platygloea sphaerospora G.W. Martin SPECIES
-=======
+# Platygloea sphaerospora G.W. Martin SPECIES
 
 #### Status
 ACCEPTED

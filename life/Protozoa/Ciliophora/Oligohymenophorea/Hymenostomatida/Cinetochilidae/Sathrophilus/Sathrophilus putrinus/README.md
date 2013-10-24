@@ -1,5 +1,4 @@
-Sathrophilus putrinus SPECIES
-=======
+# Sathrophilus putrinus SPECIES
 
 #### Status
 ACCEPTED

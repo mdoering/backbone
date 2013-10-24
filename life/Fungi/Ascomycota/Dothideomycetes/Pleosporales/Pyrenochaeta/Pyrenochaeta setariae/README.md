@@ -1,5 +1,4 @@
-Pyrenochaeta setariae H.C. Greene SPECIES
-=======
+# Pyrenochaeta setariae H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

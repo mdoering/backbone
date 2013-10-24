@@ -1,5 +1,4 @@
-Planotetraspora mira Runmao et al., 1993 SPECIES
-=======
+# Planotetraspora mira Runmao et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

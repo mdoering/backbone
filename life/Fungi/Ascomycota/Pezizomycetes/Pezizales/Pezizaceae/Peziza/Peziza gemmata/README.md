@@ -1,5 +1,4 @@
-Peziza gemmata Schumach. SPECIES
-=======
+# Peziza gemmata Schumach. SPECIES
 
 #### Status
 ACCEPTED

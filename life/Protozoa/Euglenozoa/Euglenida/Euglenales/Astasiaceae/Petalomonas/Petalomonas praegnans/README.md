@@ -1,5 +1,4 @@
-Petalomonas praegnans Skuja SPECIES
-=======
+# Petalomonas praegnans Skuja SPECIES
 
 #### Status
 ACCEPTED

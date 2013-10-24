@@ -1,5 +1,4 @@
-Scopulariopsis olivacea var. olivacea VARIETY
-=======
+# Scopulariopsis olivacea Svilv. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Zentbl. Bakt. ParasitKde, Abt. II 103: 174 (1941)
 
 #### Original name
-Scopulariopsis olivacea var. olivacea
+Scopulariopsis olivacea Svilv.
 
 ### Remarks
 null

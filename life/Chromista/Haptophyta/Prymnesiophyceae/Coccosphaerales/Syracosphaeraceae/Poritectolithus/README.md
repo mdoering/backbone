@@ -1,5 +1,4 @@
-Poritectolithus A.Kleijne, 1991 GENUS
-=======
+# Poritectolithus A.Kleijne, 1991 GENUS
 
 #### Status
 ACCEPTED

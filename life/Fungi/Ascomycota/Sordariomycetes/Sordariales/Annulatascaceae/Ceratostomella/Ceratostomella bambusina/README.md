@@ -1,5 +1,4 @@
-Ceratostomella bambusina Höhn. SPECIES
-=======
+# Ceratostomella bambusina Höhn. SPECIES
 
 #### Status
 ACCEPTED

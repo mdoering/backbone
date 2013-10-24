@@ -1,5 +1,4 @@
-Calicium lentigerellum Tuck. SPECIES
-=======
+# Calicium lentigerellum Tuck. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina liparidis Racib. SPECIES
-=======
+# Asterina liparidis Racib. SPECIES
 
 #### Status
 ACCEPTED

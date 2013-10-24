@@ -1,5 +1,4 @@
-Laurera subphaeomelodes Upreti & Ajay Singh SPECIES
-=======
+# Laurera subphaeomelodes Upreti & Ajay Singh SPECIES
 
 #### Status
 ACCEPTED

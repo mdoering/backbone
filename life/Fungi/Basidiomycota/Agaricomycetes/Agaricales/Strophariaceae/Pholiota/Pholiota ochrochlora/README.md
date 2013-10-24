@@ -1,14 +1,13 @@
-Agaricus ochrochlorus Fr., 1861 SPECIES
-=======
+# Pholiota ochrochlora (Fr.) P.D. Orton, 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Öfvers. K. VetenskAkad. Forh. 18: 24 (1861)
+Trans. Br. mycol. Soc. 43(2): 341 (1960)
 
 #### Original name
 Agaricus ochrochlorus Fr., 1861

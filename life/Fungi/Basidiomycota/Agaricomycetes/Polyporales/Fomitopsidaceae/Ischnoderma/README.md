@@ -1,5 +1,4 @@
-Ischnoderma P. Karsten, 1879 GENUS
-=======
+# Ischnoderma P. Karsten, 1879 GENUS
 
 #### Status
 ACCEPTED

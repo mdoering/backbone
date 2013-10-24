@@ -1,5 +1,4 @@
-Strasseria rusci Sousa da Câmara & Luz SPECIES
-=======
+# Strasseria rusci Sousa da Câmara & Luz SPECIES
 
 #### Status
 ACCEPTED

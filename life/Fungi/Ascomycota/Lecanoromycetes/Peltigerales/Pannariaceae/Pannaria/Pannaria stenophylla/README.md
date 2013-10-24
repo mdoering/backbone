@@ -1,5 +1,4 @@
-Pannaria stenophylla Hue SPECIES
-=======
+# Pannaria stenophylla Hue SPECIES
 
 #### Status
 ACCEPTED

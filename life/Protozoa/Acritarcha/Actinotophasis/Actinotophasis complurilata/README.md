@@ -1,5 +1,4 @@
-Actinotophasis complurilata Loeblich & Wicander, 1976 SPECIES
-=======
+# Actinotophasis complurilata Loeblich & Wicander, 1976 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tomentella asterostromelloides Rick SPECIES
-=======
+# Tomentella asterostromelloides Rick SPECIES
 
 #### Status
 ACCEPTED

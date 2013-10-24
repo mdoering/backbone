@@ -1,5 +1,4 @@
-Collema almbornii Degel. SPECIES
-=======
+# Collema almbornii Degel. SPECIES
 
 #### Status
 ACCEPTED

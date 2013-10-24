@@ -1,5 +1,4 @@
-Phyllachora qualeae (Viégas) Bat. & Peres, 1967 SPECIES
-=======
+# Phyllachora qualeae (Viégas) Bat. & Peres, 1967 SPECIES
 
 #### Status
 DOUBTFUL

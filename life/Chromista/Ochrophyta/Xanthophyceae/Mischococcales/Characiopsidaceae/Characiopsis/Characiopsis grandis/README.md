@@ -1,5 +1,4 @@
-Characiopsis grandis Pascher SPECIES
-=======
+# Characiopsis grandis Pascher SPECIES
 
 #### Status
 ACCEPTED

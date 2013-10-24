@@ -1,5 +1,4 @@
-Leucoagaricus deceptivus (Grilli) Consiglio & Contu SPECIES
-=======
+# Leucoagaricus deceptivus (Grilli) Consiglio & Contu SPECIES
 
 #### Status
 ACCEPTED

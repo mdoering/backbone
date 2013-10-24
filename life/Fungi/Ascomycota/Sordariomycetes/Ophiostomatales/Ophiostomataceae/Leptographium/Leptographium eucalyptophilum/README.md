@@ -1,5 +1,4 @@
-Leptographium eucalyptophilum K. Jacobs, M.J. Wingf. & Jol. Roux SPECIES
-=======
+# Leptographium eucalyptophilum K. Jacobs, M.J. Wingf. & Jol. Roux SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trypanosoma caulopsettae Laird, 1951 SPECIES
-=======
+# Trypanosoma caulopsettae Laird, 1951 SPECIES
 
 #### Status
 ACCEPTED

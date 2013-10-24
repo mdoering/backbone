@@ -1,5 +1,4 @@
-Graphis subvestita Vain. SPECIES
-=======
+# Graphis subvestita Vain. SPECIES
 
 #### Status
 ACCEPTED

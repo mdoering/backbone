@@ -1,5 +1,4 @@
-Inocybe analogica (Britzelm.) Sacc. SPECIES
-=======
+# Inocybe analogica (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

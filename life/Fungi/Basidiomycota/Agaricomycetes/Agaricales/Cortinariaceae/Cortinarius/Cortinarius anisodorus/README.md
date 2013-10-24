@@ -1,17 +1,16 @@
-Thaxterogaster anisodorum E. Horak SPECIES
-=======
+# Cortinarius anisodorus (E. Horak) Peintner & M.M. Moser, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 81: 178 (2002)
 
 #### Original name
-Thaxterogaster anisodorum E. Horak
+Thaxterogaster anisodorus E. Horak, 1973
 
 ### Remarks
 null

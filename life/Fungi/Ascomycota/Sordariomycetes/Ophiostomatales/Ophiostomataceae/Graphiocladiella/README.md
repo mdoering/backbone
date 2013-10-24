@@ -1,5 +1,4 @@
-Graphiocladiella H.P. Upadhyay GENUS
-=======
+# Graphiocladiella H.P. Upadhyay GENUS
 
 #### Status
 ACCEPTED

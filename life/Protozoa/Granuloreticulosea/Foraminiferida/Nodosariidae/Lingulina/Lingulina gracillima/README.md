@@ -1,5 +1,4 @@
-Lingulina gracillima Costa, 1861 SPECIES
-=======
+# Lingulina gracillima Costa, 1861 SPECIES
 
 #### Status
 ACCEPTED

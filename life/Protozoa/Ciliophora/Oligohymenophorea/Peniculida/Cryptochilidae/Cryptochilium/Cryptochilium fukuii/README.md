@@ -1,5 +1,4 @@
-Cryptochilium fukuii SPECIES
-=======
+# Cryptochilium fukuii SPECIES
 
 #### Status
 ACCEPTED

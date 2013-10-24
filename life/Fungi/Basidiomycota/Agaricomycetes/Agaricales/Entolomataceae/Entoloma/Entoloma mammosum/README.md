@@ -1,17 +1,16 @@
-Agaricus mammosus var. mammosus VARIETY
-=======
+# Entoloma mammosum (L.) Hesler, 1967 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nova Hedwigia, Beih. 23: 185 (1967)
 
 #### Original name
-null
+Agaricus mammosus L., 1753
 
 ### Remarks
 null

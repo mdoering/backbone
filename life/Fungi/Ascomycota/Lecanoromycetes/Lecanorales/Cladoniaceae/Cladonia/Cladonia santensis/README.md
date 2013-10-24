@@ -1,5 +1,4 @@
-Cladonia santensis Tuck. SPECIES
-=======
+# Cladonia santensis Tuck. SPECIES
 
 #### Status
 ACCEPTED

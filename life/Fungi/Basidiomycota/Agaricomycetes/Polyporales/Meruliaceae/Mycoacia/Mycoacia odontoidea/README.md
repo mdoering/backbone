@@ -1,5 +1,4 @@
-Mycoacia odontoidea (Sheng H. Wu) Spirin & Zmitr. SPECIES
-=======
+# Mycoacia odontoidea (Sheng H. Wu) Spirin & Zmitr. SPECIES
 
 #### Status
 ACCEPTED

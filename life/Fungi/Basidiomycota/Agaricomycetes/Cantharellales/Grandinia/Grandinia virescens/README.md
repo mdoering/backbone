@@ -1,5 +1,4 @@
-Grandinia virescens Peck SPECIES
-=======
+# Grandinia virescens Peck SPECIES
 
 #### Status
 ACCEPTED

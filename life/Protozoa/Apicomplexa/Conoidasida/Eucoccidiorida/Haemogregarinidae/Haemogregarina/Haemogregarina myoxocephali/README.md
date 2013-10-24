@@ -1,5 +1,4 @@
-Haemogregarina myoxocephali Fantham, Porter & Richardson, 1942 SPECIES
-=======
+# Haemogregarina myoxocephali Fantham, Porter & Richardson, 1942 SPECIES
 
 #### Status
 ACCEPTED

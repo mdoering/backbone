@@ -1,5 +1,4 @@
-Phlebia argentinensis W.B. Cooke, 1956 SPECIES
-=======
+# Phlebia argentinensis W.B. Cooke, 1956 SPECIES
 
 #### Status
 ACCEPTED

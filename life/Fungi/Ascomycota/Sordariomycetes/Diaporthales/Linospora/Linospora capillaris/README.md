@@ -1,5 +1,4 @@
-Linospora capillaris Teng SPECIES
-=======
+# Linospora capillaris Teng SPECIES
 
 #### Status
 ACCEPTED

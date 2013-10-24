@@ -1,5 +1,4 @@
-Leptotrochila trifolii-arvensis (Nannf.) Schüepp SPECIES
-=======
+# Leptotrochila trifolii-arvensis (Nannf.) Schüepp SPECIES
 
 #### Status
 ACCEPTED

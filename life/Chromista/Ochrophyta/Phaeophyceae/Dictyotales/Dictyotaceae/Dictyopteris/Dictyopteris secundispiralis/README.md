@@ -1,5 +1,4 @@
-Dictyopteris secundispiralis J.A.Phillips, 2000 SPECIES
-=======
+# Dictyopteris secundispiralis J.A.Phillips, 2000 SPECIES
 
 #### Status
 ACCEPTED

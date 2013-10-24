@@ -1,5 +1,4 @@
-Cenangium viticola (Schwein.) Fuckel SPECIES
-=======
+# Cenangium viticola (Schwein.) Fuckel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nidularia corrugata (Wallr.) Tul. & C. Tul. SPECIES
-=======
+# Nidularia corrugata (Wallr.) Tul. & C. Tul. SPECIES
 
 #### Status
 ACCEPTED

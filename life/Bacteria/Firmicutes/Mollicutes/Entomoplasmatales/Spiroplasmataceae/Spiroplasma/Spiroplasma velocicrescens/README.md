@@ -1,5 +1,4 @@
-Spiroplasma velocicrescens Konai et al., 1995 SPECIES
-=======
+# Spiroplasma velocicrescens Konai et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

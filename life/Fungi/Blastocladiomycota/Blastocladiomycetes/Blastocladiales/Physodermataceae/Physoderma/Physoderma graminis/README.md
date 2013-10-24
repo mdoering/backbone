@@ -1,14 +1,13 @@
-Cladochytrium graminis Büsgen, 1887 SPECIES
-=======
+# Physoderma graminis (Büsgen) De Wild., 1896 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Soc. R. Bot. Belg. 35: 59 (1896)
 
 #### Original name
 Cladochytrium graminis Büsgen, 1887

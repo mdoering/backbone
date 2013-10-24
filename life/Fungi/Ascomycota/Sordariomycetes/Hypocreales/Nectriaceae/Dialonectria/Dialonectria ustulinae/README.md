@@ -1,5 +1,4 @@
-Dialonectria ustulinae (Teng) Lar.N. Vassiljeva SPECIES
-=======
+# Dialonectria ustulinae (Teng) Lar.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lysurus tenuis F.M. Bailey SPECIES
-=======
+# Lysurus tenuis F.M. Bailey SPECIES
 
 #### Status
 ACCEPTED

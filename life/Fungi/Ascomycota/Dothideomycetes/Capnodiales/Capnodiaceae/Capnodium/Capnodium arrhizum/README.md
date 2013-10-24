@@ -1,5 +1,4 @@
-Capnodium arrhizum Pat. & Gaillard SPECIES
-=======
+# Capnodium arrhizum Pat. & Gaillard SPECIES
 
 #### Status
 ACCEPTED

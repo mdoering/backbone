@@ -1,5 +1,4 @@
-Physcia convexella Moberg SPECIES
-=======
+# Physcia convexella Moberg SPECIES
 
 #### Status
 ACCEPTED

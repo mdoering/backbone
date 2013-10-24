@@ -1,5 +1,4 @@
-Discophrya stammeri Matthes, 1954 SPECIES
-=======
+# Discophrya stammeri Matthes, 1954 SPECIES
 
 #### Status
 ACCEPTED

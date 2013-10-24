@@ -1,5 +1,4 @@
-Blastenia punicae (Vain.) Zahlbr. SPECIES
-=======
+# Blastenia punicae (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

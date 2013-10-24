@@ -1,5 +1,4 @@
-Drepanomonas borzai Lepsi, 1948 SPECIES
-=======
+# Drepanomonas borzai Lepsi, 1948 SPECIES
 
 #### Status
 ACCEPTED

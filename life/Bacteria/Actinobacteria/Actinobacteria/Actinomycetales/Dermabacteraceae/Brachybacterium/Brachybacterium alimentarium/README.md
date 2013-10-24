@@ -1,5 +1,4 @@
-Brachybacterium alimentarium Schubert et al., 1996 SPECIES
-=======
+# Brachybacterium alimentarium Schubert et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

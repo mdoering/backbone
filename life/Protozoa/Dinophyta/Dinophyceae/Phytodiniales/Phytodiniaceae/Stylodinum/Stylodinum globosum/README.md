@@ -1,5 +1,4 @@
-Stylodinum globosum Klebs, 1912 SPECIES
-=======
+# Stylodinum globosum Klebs, 1912 SPECIES
 
 #### Status
 ACCEPTED

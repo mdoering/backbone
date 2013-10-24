@@ -1,5 +1,4 @@
-Segestria indutula (Nyl.) Hellb. SPECIES
-=======
+# Segestria indutula (Nyl.) Hellb. SPECIES
 
 #### Status
 ACCEPTED

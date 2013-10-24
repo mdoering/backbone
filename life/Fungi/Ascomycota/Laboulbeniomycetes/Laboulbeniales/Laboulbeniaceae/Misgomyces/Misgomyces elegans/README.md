@@ -1,5 +1,4 @@
-Misgomyces elegans (Speg.) Thaxt. SPECIES
-=======
+# Misgomyces elegans (Speg.) Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calycina castanea (Ellis & Sacc.) Kuntze SPECIES
-=======
+# Calycina castanea (Ellis & Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

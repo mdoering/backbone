@@ -1,17 +1,16 @@
-Melampsoropsis elaeocarpii Vatt. & D.K. Agarwal SPECIES
-=======
+# Melampsoropsis elaeocarpi Vatt. & D.K. Agarwal SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Phytopath. 55(3): 331 (2002)
 
 #### Original name
-Melampsoropsis elaeocarpii Vatt. & D.K. Agarwal
+Melampsoropsis elaeocarpi Vatt. & D.K. Agarwal
 
 ### Remarks
 null

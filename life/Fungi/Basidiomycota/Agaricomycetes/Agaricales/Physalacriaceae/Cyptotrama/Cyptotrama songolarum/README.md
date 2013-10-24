@@ -1,5 +1,4 @@
-Cyptotrama songolarum Courtec., 1995 SPECIES
-=======
+# Cyptotrama songolarum Courtec., 1995 SPECIES
 
 #### Status
 ACCEPTED

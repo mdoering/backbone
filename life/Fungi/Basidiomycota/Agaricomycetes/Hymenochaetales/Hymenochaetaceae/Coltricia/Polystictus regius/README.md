@@ -1,5 +1,4 @@
-Polystictus regius (Miq.) Cooke SPECIES
-=======
+# Polystictus regius (Miq.) Cooke SPECIES
 
 #### Status
 ACCEPTED

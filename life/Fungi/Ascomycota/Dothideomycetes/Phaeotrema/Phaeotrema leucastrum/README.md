@@ -1,5 +1,4 @@
-Phaeotrema leucastrum (Tuck.) Zahlbr. SPECIES
-=======
+# Phaeotrema leucastrum (Tuck.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

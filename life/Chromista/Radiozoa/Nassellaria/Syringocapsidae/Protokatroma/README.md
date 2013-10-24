@@ -1,5 +1,4 @@
-Protokatroma Whalen & Carter, 1998 GENUS
-=======
+# Protokatroma Whalen & Carter, 1998 GENUS
 
 #### Status
 ACCEPTED

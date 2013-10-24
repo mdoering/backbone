@@ -1,14 +1,13 @@
-Saccoblastia sebacea subsp. subardosiaca Bourdot & Galzin SUBSPECIES
-=======
+# Helicogloea subardosiaca (Bourdot & Galzin) Donk, 1966 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hyménomyc. de France (Sceaux) 5 (1927)
+Persoonia 4(2): 213 (1966)
 
 #### Original name
 Saccoblastia sebacea subsp. subardosiaca Bourdot & Galzin

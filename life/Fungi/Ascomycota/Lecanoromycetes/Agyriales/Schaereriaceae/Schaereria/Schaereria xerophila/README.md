@@ -1,5 +1,4 @@
-Schaereria xerophila Rambold & H. Mayrhofer SPECIES
-=======
+# Schaereria xerophila Rambold & H. Mayrhofer SPECIES
 
 #### Status
 ACCEPTED

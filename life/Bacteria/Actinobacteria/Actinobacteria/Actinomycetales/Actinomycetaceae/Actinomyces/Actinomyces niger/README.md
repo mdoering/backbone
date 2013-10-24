@@ -1,5 +1,4 @@
-Actinomyces niger Krassiln. SPECIES
-=======
+# Actinomyces niger Krassiln. SPECIES
 
 #### Status
 ACCEPTED

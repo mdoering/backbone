@@ -1,5 +1,4 @@
-Omphalodiscus bakeri C.W. Dodge SPECIES
-=======
+# Omphalodiscus bakeri C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pachyphlodes ligericus Zobel SPECIES
-=======
+# Pachyphlodes ligericus Zobel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerographium capillare (Ellis & Harkn.) Sacc. SPECIES
-=======
+# Sphaerographium capillare (Ellis & Harkn.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

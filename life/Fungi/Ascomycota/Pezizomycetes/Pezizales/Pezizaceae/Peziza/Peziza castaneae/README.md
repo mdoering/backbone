@@ -1,5 +1,4 @@
-Peziza castaneae Pers. SPECIES
-=======
+# Peziza castaneae Pers. SPECIES
 
 #### Status
 ACCEPTED

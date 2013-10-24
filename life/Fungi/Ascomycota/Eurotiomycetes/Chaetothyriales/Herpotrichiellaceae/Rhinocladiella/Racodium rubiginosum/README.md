@@ -1,5 +1,4 @@
-Racodium rubiginosum Pers. SPECIES
-=======
+# Racodium rubiginosum Pers. SPECIES
 
 #### Status
 ACCEPTED

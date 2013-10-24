@@ -1,5 +1,4 @@
-Macrophoma miersi Speg. SPECIES
-=======
+# Macrophoma miersi Speg. SPECIES
 
 #### Status
 ACCEPTED

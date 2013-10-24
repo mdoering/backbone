@@ -1,5 +1,4 @@
-Asterina asterophora Ellis & G. Martin SPECIES
-=======
+# Asterina asterophora Ellis & G. Martin SPECIES
 
 #### Status
 ACCEPTED

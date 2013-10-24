@@ -1,5 +1,4 @@
-Macrosporium valerianellae Roum. SPECIES
-=======
+# Macrosporium valerianellae Roum. SPECIES
 
 #### Status
 ACCEPTED

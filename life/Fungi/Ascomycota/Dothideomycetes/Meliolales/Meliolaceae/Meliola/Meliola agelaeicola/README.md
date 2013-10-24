@@ -1,5 +1,4 @@
-Meliola agelaeicola Hansf. SPECIES
-=======
+# Meliola agelaeicola Hansf. SPECIES
 
 #### Status
 ACCEPTED

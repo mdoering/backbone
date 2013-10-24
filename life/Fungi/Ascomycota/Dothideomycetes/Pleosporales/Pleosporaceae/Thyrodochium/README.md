@@ -1,5 +1,4 @@
-Thyrodochium GENUS
-=======
+# Thyrodochium GENUS
 
 #### Status
 ACCEPTED

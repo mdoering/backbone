@@ -1,5 +1,4 @@
-Siphula sulcata Kremp. SPECIES
-=======
+# Siphula sulcata Kremp. SPECIES
 
 #### Status
 ACCEPTED

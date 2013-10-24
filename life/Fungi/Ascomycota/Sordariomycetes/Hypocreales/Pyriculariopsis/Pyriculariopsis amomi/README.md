@@ -1,5 +1,4 @@
-Pyriculariopsis amomi (Z.D. Jiang & P.K. Chi) X.H. Lai & H.L. Gao SPECIES
-=======
+# Pyriculariopsis amomi (Z.D. Jiang & P.K. Chi) X.H. Lai & H.L. Gao SPECIES
 
 #### Status
 ACCEPTED

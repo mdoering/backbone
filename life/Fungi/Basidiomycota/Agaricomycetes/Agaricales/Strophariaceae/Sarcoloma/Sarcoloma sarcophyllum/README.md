@@ -1,5 +1,4 @@
-Sarcoloma sarcophyllum (Peck) Locq. SPECIES
-=======
+# Sarcoloma sarcophyllum (Peck) Locq. SPECIES
 
 #### Status
 ACCEPTED

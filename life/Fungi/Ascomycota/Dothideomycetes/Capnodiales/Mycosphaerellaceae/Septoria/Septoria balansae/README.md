@@ -1,5 +1,4 @@
-Septoria balansae Speg. SPECIES
-=======
+# Septoria balansae Speg. SPECIES
 
 #### Status
 ACCEPTED

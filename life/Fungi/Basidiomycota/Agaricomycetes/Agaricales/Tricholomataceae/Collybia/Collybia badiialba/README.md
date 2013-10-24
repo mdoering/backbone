@@ -1,5 +1,4 @@
-Collybia badiialba (Murrill) Murrill SPECIES
-=======
+# Collybia badiialba (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

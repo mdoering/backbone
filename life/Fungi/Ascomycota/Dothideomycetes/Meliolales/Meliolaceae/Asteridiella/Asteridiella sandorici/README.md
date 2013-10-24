@@ -1,5 +1,4 @@
-Asteridiella sandorici (Rehm) Hansf. SPECIES
-=======
+# Asteridiella sandorici (Rehm) Hansf. SPECIES
 
 #### Status
 ACCEPTED

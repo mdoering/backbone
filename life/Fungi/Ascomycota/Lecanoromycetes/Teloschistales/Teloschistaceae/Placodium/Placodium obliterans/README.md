@@ -1,5 +1,4 @@
-Placodium obliterans var. obliterans VARIETY
-=======
+# Placodium obliterans SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Placodium obliterans var. obliterans
+null
 
 ### Remarks
 null

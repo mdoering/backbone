@@ -1,5 +1,4 @@
-Holosticha rhomboedrica (Vuxanovici, 1963) Buitkamp, 1977 SPECIES
-=======
+# Holosticha rhomboedrica (Vuxanovici, 1963) Buitkamp, 1977 SPECIES
 
 #### Status
 ACCEPTED

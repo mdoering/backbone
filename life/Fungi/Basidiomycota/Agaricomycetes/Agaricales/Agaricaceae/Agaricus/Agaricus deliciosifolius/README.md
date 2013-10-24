@@ -1,5 +1,4 @@
-Agaricus deliciosifolius Secr. SPECIES
-=======
+# Agaricus deliciosifolius Secr. SPECIES
 
 #### Status
 ACCEPTED

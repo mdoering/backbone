@@ -1,5 +1,4 @@
-Euphoriomyces magnicellulatus Santam. SPECIES
-=======
+# Euphoriomyces magnicellulatus Santam. SPECIES
 
 #### Status
 ACCEPTED

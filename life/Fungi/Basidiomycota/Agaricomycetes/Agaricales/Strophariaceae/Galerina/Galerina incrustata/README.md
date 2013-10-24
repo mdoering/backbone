@@ -1,5 +1,4 @@
-Galerina incrustata B.J. Rees SPECIES
-=======
+# Galerina incrustata B.J. Rees SPECIES
 
 #### Status
 ACCEPTED

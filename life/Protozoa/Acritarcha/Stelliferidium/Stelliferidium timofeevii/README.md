@@ -1,5 +1,4 @@
-Stelliferidium timofeevii (Deunff, 1961) Fensome et al., 1990 SPECIES
-=======
+# Stelliferidium timofeevii (Deunff, 1961) Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

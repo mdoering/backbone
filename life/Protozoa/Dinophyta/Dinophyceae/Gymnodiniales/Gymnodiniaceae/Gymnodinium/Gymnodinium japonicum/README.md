@@ -1,5 +1,4 @@
-Gymnodinium japonicum Hada, 1974 SPECIES
-=======
+# Gymnodinium japonicum Hada, 1974 SPECIES
 
 #### Status
 ACCEPTED

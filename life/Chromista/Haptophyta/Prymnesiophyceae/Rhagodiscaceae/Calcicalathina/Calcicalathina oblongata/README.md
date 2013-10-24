@@ -1,5 +1,4 @@
-Calcicalathina oblongata (Worsley, 1971) Thierstein, 1971 SPECIES
-=======
+# Calcicalathina oblongata (Worsley, 1971) Thierstein, 1971 SPECIES
 
 #### Status
 ACCEPTED

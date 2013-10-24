@@ -1,17 +1,16 @@
-Botryosporium Schwein. GENUS
-=======
+# Dictyosporium Corda GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Am. phil. Soc. 4: 306 (1832)
+Bau Pflanzenstamm (1836)
 
 #### Original name
-Botryosporium Schwein.
+Dictyosporium Corda
 
 ### Remarks
 null

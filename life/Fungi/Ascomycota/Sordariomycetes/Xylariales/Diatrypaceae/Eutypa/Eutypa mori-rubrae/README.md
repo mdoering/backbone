@@ -1,5 +1,4 @@
-Eutypa mori-rubrae (Schwein.) Cooke SPECIES
-=======
+# Eutypa mori-rubrae (Schwein.) Cooke SPECIES
 
 #### Status
 ACCEPTED

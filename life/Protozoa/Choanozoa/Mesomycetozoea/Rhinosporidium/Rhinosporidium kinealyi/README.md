@@ -1,5 +1,4 @@
-Rhinosporidium kinealyi Minchin & Fantham SPECIES
-=======
+# Rhinosporidium kinealyi Minchin & Fantham SPECIES
 
 #### Status
 ACCEPTED

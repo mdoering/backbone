@@ -1,5 +1,4 @@
-Leiophloea stigmatella (Sm.) Gray SPECIES
-=======
+# Leiophloea stigmatella (Sm.) Gray SPECIES
 
 #### Status
 ACCEPTED

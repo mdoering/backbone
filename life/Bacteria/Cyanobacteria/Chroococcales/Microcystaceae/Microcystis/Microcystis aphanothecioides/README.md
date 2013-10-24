@@ -1,5 +1,4 @@
-Microcystis aphanothecioides f. minor Hortobágyi FORM
-=======
+# Microcystis aphanothecioides SPECIES
 
 #### Status
 ACCEPTED

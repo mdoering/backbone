@@ -1,5 +1,4 @@
-Labiostoma Klasz, Le Calvez & Rérat, 1964 GENUS
-=======
+# Labiostoma Klasz, Le Calvez & Rérat, 1964 GENUS
 
 #### Status
 ACCEPTED

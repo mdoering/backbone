@@ -1,5 +1,4 @@
-Geitlerinema unigranulatum (R. N. Singh) J. Komárek & M. T. P. Azevedo SPECIES
-=======
+# Geitlerinema unigranulatum (R. N. Singh) J. Komárek & M. T. P. Azevedo SPECIES
 
 #### Status
 ACCEPTED

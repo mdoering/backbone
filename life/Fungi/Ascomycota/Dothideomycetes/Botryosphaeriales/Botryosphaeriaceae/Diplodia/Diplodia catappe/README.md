@@ -1,5 +1,4 @@
-Diplodia catappe Cooke SPECIES
-=======
+# Diplodia catappe Cooke SPECIES
 
 #### Status
 ACCEPTED

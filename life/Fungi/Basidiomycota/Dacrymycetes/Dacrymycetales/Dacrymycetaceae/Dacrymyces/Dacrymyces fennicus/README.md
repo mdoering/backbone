@@ -1,5 +1,4 @@
-Dacrymyces fennicus Lowy SPECIES
-=======
+# Dacrymyces fennicus Lowy SPECIES
 
 #### Status
 ACCEPTED

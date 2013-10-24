@@ -1,5 +1,4 @@
-Lituola scorpiurus var. ammophila Goes, 1882 VARIETY
-=======
+# Lituola scorpiurus (Montfort) SPECIES
 
 #### Status
 ACCEPTED

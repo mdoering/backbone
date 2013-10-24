@@ -1,5 +1,4 @@
-Delosina complanata Earland, 1934 SPECIES
-=======
+# Delosina complanata Earland, 1934 SPECIES
 
 #### Status
 ACCEPTED

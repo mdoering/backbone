@@ -1,5 +1,4 @@
-Tricholomopsis vaccinum (Pers.) SPECIES
-=======
+# Tricholomopsis vaccinum (Pers.) SPECIES
 
 #### Status
 ACCEPTED

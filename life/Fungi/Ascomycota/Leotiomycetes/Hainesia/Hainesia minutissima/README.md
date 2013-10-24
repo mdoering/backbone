@@ -1,5 +1,4 @@
-Hainesia minutissima Bubák & Vleugel SPECIES
-=======
+# Hainesia minutissima Bubák & Vleugel SPECIES
 
 #### Status
 ACCEPTED

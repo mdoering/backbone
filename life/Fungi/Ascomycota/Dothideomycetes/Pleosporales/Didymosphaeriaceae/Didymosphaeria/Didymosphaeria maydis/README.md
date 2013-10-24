@@ -1,5 +1,4 @@
-Didymosphaeria maydis Saccas SPECIES
-=======
+# Didymosphaeria maydis Saccas SPECIES
 
 #### Status
 ACCEPTED

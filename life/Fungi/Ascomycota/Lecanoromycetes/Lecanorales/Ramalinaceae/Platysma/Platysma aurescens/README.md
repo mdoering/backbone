@@ -1,5 +1,4 @@
-Platysma aurescens (Tuck.) Nyl. SPECIES
-=======
+# Platysma aurescens (Tuck.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

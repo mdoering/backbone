@@ -1,5 +1,4 @@
-Synhymenia elongata (Kahl) Jankowski, 1992 SPECIES
-=======
+# Synhymenia elongata (Kahl) Jankowski, 1992 SPECIES
 
 #### Status
 ACCEPTED

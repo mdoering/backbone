@@ -1,5 +1,4 @@
-Uredo eugeniarum Henn. SPECIES
-=======
+# Uredo eugeniarum Henn. SPECIES
 
 #### Status
 ACCEPTED

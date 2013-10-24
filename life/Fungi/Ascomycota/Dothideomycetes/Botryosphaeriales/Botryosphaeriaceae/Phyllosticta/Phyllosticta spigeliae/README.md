@@ -1,5 +1,4 @@
-Phyllosticta spigeliae Cavalc. SPECIES
-=======
+# Phyllosticta spigeliae Cavalc. SPECIES
 
 #### Status
 ACCEPTED

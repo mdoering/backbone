@@ -1,5 +1,4 @@
-Dendrophoma guettardae Pat. SPECIES
-=======
+# Dendrophoma guettardae Pat. SPECIES
 
 #### Status
 ACCEPTED

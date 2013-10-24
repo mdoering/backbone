@@ -1,11 +1,10 @@
-Alteromonas luteo-violaceus Gauthier, 1976 SPECIES
-=======
+# Pseudoalteromonas luteoviolacea (Gauthier, 1982) Gauthier et al., 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

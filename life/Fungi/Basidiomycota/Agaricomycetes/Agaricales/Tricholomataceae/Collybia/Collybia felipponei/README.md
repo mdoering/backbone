@@ -1,5 +1,4 @@
-Collybia felipponei Speg. SPECIES
-=======
+# Collybia felipponei Speg. SPECIES
 
 #### Status
 ACCEPTED

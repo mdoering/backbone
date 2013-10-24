@@ -1,5 +1,4 @@
-Polystictus kickxianus (Lév.) Cooke SPECIES
-=======
+# Polystictus kickxianus (Lév.) Cooke SPECIES
 
 #### Status
 ACCEPTED

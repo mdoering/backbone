@@ -1,14 +1,13 @@
-Schmitzomia arundinacea (Pers.) Sacc. SPECIES
-=======
+# Stictis arundinacea Pers. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Syll. fung. (Abellini) 8: 691 (1889)
+Mycol. eur. (Erlanga) 1: 336 (1822)
 
 #### Original name
 Stictis arundinacea Pers.

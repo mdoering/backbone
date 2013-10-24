@@ -1,5 +1,4 @@
-Sphaerosoma tasmanica Rodway SPECIES
-=======
+# Sphaerosoma tasmanica Rodway SPECIES
 
 #### Status
 ACCEPTED

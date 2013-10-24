@@ -1,5 +1,4 @@
-Marasmius subimpudicus Henn. SPECIES
-=======
+# Marasmius subimpudicus Henn. SPECIES
 
 #### Status
 ACCEPTED

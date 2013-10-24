@@ -1,5 +1,4 @@
-Lepiota fulvolutea Rick SPECIES
-=======
+# Lepiota fulvolutea Rick SPECIES
 
 #### Status
 ACCEPTED

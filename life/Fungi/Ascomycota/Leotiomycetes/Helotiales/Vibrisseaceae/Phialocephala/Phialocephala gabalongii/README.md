@@ -1,5 +1,4 @@
-Phialocephala gabalongii Sivasith. SPECIES
-=======
+# Phialocephala gabalongii Sivasith. SPECIES
 
 #### Status
 ACCEPTED

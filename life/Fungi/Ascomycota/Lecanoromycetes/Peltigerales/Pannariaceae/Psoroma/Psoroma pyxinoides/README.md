@@ -1,5 +1,4 @@
-Psoroma pyxinoides Nyl. SPECIES
-=======
+# Psoroma pyxinoides Nyl. SPECIES
 
 #### Status
 ACCEPTED

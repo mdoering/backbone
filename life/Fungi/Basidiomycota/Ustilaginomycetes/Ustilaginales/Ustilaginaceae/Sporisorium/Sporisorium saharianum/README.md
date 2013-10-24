@@ -1,5 +1,4 @@
-Sporisorium saharianum (Trotter) Karatygin SPECIES
-=======
+# Sporisorium saharianum (Trotter) Karatygin SPECIES
 
 #### Status
 ACCEPTED

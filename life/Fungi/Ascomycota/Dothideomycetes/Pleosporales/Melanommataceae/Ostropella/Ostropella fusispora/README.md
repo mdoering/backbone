@@ -1,5 +1,4 @@
-Ostropella fusispora (Seaver) E. Müll. SPECIES
-=======
+# Ostropella fusispora (Seaver) E. Müll. SPECIES
 
 #### Status
 ACCEPTED

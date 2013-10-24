@@ -1,5 +1,4 @@
-Lecidea aleutica Degel. SPECIES
-=======
+# Lecidea aleutica Degel. SPECIES
 
 #### Status
 ACCEPTED

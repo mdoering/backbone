@@ -1,5 +1,4 @@
-Psathyrella tsugae A.H. Sm. SPECIES
-=======
+# Psathyrella tsugae A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

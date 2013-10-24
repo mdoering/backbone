@@ -1,5 +1,4 @@
-Septoria aureocorona B. Sutton & Pascoe SPECIES
-=======
+# Septoria aureocorona B. Sutton & Pascoe SPECIES
 
 #### Status
 ACCEPTED

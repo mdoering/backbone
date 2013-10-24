@@ -1,17 +1,16 @@
-Omphalaria A. Massalongo, 1855 GENUS
-=======
+# Anema Nylander ex Forssell, 1885 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mém. Soc. natn. Sci. nat. math. Cherbourg 3: 164 (1855)
+Beitr. Gloeolich. 40, 91 (1885)
 
 #### Original name
-Omphalaria A. Massalongo, 1855
+Anema Nylander ex Forssell, 1885
 
 ### Remarks
 null

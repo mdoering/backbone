@@ -1,5 +1,4 @@
-Spicellum roseum Nicot & Roquebert, 1976 SPECIES
-=======
+# Spicellum roseum Nicot & Roquebert, 1976 SPECIES
 
 #### Status
 ACCEPTED

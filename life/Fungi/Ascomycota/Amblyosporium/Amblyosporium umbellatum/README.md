@@ -1,5 +1,4 @@
-Amblyosporium umbellatum Harz SPECIES
-=======
+# Amblyosporium umbellatum Harz SPECIES
 
 #### Status
 ACCEPTED

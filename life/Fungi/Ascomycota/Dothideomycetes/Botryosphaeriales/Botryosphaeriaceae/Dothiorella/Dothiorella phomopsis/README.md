@@ -1,5 +1,4 @@
-Dothiorella phomopsis Fairm. SPECIES
-=======
+# Dothiorella phomopsis Fairm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Enterobryus rectus Duboscq, L. Léger & Tuzet ex Manier SPECIES
-=======
+# Enterobryus rectus Duboscq, L. Léger & Tuzet ex Manier SPECIES
 
 #### Status
 ACCEPTED

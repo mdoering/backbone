@@ -1,5 +1,4 @@
-Ochrolechia pseudopallescens Brodo SPECIES
-=======
+# Ochrolechia pseudopallescens Brodo SPECIES
 
 #### Status
 ACCEPTED

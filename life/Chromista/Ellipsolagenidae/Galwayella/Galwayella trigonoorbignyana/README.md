@@ -1,5 +1,4 @@
-Galwayella trigonoorbignyana (Balkwill & Millett, 1884) SPECIES
-=======
+# Galwayella trigonoorbignyana (Balkwill & Millett, 1884) SPECIES
 
 #### Status
 ACCEPTED

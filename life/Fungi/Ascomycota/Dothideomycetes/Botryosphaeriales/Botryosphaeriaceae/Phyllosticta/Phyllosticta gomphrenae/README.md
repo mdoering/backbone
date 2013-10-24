@@ -1,5 +1,4 @@
-Phyllosticta gomphrenae Sacc. & Speg. SPECIES
-=======
+# Phyllosticta gomphrenae Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

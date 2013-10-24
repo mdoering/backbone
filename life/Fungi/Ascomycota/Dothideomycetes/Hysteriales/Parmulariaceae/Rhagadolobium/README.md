@@ -1,17 +1,16 @@
-Myiocoprella Sacc. GENUS
-=======
+# Rhagadolobium Henn. & Lindau GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nuovo Giorn. Bot. Ital. , N. S. 23: 199 (1916)
+Bot. Jb. 23: 287 (1896)
 
 #### Original name
-Myiocoprella Sacc.
+Rhagadolobium Henn. & Lindau
 
 ### Remarks
 null

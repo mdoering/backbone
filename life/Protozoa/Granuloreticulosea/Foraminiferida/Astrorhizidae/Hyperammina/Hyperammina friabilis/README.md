@@ -1,5 +1,4 @@
-Hyperammina friabilis SPECIES
-=======
+# Hyperammina friabilis SPECIES
 
 #### Status
 ACCEPTED

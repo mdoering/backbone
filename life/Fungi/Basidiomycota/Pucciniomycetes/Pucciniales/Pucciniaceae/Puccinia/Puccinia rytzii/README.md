@@ -1,5 +1,4 @@
-Puccinia rytzii Gäum. & Jaap SPECIES
-=======
+# Puccinia rytzii Gäum. & Jaap SPECIES
 
 #### Status
 ACCEPTED

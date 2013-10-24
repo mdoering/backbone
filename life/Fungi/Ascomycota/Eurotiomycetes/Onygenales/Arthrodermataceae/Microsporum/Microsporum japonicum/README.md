@@ -1,5 +1,4 @@
-Microsporum japonicum Dohi & Kambay. SPECIES
-=======
+# Microsporum japonicum Dohi & Kambay. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septomyxa carpini Peck SPECIES
-=======
+# Septomyxa carpini Peck SPECIES
 
 #### Status
 ACCEPTED

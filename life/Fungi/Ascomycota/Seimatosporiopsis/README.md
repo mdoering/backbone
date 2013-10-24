@@ -1,5 +1,4 @@
-Seimatosporiopsis B. Sutton, Ghaffer & Abbas GENUS
-=======
+# Seimatosporiopsis B. Sutton, Ghaffer & Abbas GENUS
 
 #### Status
 ACCEPTED

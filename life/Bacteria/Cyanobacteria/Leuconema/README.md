@@ -1,5 +1,4 @@
-Leuconema Kaas GENUS
-=======
+# Leuconema Kaas GENUS
 
 #### Status
 ACCEPTED

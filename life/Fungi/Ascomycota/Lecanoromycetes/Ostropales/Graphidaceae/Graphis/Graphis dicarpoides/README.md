@@ -1,5 +1,4 @@
-Graphis dicarpoides M. Nakan. & H. Harada SPECIES
-=======
+# Graphis dicarpoides M. Nakan. & H. Harada SPECIES
 
 #### Status
 ACCEPTED

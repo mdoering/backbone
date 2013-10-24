@@ -1,5 +1,4 @@
-Hydrocybe privignoides (Rob. Henry) M.M. Moser SPECIES
-=======
+# Hydrocybe privignoides (Rob. Henry) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

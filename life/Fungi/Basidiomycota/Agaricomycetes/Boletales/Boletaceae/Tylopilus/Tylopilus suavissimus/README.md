@@ -1,5 +1,4 @@
-Tylopilus suavissimus Heinem. & Gooss.-Font. SPECIES
-=======
+# Tylopilus suavissimus Heinem. & Gooss.-Font. SPECIES
 
 #### Status
 ACCEPTED

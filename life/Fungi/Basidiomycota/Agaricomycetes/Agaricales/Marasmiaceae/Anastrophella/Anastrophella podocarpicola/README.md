@@ -1,5 +1,4 @@
-Anastrophella podocarpicola Issh. Tanaka, 2001 SPECIES
-=======
+# Anastrophella podocarpicola Issh. Tanaka, 2001 SPECIES
 
 #### Status
 ACCEPTED

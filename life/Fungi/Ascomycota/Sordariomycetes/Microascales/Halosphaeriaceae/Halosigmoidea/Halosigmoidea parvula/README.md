@@ -1,5 +1,4 @@
-Halosigmoidea parvula Zuccaro, J.I. Mitch. & Nakagiri, 2009 SPECIES
-=======
+# Halosigmoidea parvula Zuccaro, J.I. Mitch. & Nakagiri, 2009 SPECIES
 
 #### Status
 ACCEPTED

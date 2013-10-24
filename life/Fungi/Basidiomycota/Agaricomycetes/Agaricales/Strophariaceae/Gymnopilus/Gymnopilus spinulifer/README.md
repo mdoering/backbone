@@ -1,5 +1,4 @@
-Gymnopilus spinulifer Murrill SPECIES
-=======
+# Gymnopilus spinulifer Murrill SPECIES
 
 #### Status
 ACCEPTED

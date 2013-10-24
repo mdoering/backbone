@@ -1,5 +1,4 @@
-Anthracothecium roseum (Vain.) Zahlbr. SPECIES
-=======
+# Anthracothecium roseum (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

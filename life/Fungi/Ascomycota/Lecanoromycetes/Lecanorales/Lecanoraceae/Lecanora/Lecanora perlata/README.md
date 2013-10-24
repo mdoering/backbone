@@ -1,5 +1,4 @@
-Lecanora perlata Motyka SPECIES
-=======
+# Lecanora perlata Motyka SPECIES
 
 #### Status
 ACCEPTED

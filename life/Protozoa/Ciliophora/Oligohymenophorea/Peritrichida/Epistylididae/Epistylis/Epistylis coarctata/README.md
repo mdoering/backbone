@@ -1,5 +1,4 @@
-Epistylis coarctata Dumas SPECIES
-=======
+# Epistylis coarctata Dumas SPECIES
 
 #### Status
 ACCEPTED

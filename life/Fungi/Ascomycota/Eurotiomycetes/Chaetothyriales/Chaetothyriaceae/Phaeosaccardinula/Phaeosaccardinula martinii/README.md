@@ -1,17 +1,16 @@
-Phaeosaccardinula martini (Ellis & Sacc.) Höhn. SPECIES
-=======
+# Phaeosaccardinula martinii (Ellis & Sacc.) Höhn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 124: 58 (1915)
 
 #### Original name
-Marssonia martinii Sacc. & Ellis
+Saccardia martinii Ellis & Sacc.
 
 ### Remarks
 null

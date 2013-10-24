@@ -1,5 +1,4 @@
-Monochaetia comptosperma (Peck) Sacc. & D. Sacc. SPECIES
-=======
+# Monochaetia comptosperma (Peck) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

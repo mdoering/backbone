@@ -1,5 +1,4 @@
-Phacus bonaerensis V. Conforti SPECIES
-=======
+# Phacus bonaerensis V. Conforti SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Galera zeylanica Petch SPECIES
-=======
+# Galera zeylanica Petch SPECIES
 
 #### Status
 ACCEPTED

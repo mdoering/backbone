@@ -1,5 +1,4 @@
-Uncinula simulans E.S. Salmon SPECIES
-=======
+# Uncinula simulans E.S. Salmon SPECIES
 
 #### Status
 ACCEPTED

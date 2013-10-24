@@ -1,5 +1,4 @@
-Hypoxylon cirrhata Sowerby SPECIES
-=======
+# Hypoxylon cirrhata Sowerby SPECIES
 
 #### Status
 ACCEPTED

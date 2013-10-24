@@ -1,5 +1,4 @@
-Gloiothele granulosa Hjortstam & Spooner, 1990 SPECIES
-=======
+# Gloiothele granulosa Hjortstam & Spooner, 1990 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Geaster pseudomammosus Henn. SPECIES
-=======
+# Geastrum pseudomammosus Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Geaster pseudomammosus Henn.
+Geastrum pseudomammosus Henn.
 
 ### Remarks
 null

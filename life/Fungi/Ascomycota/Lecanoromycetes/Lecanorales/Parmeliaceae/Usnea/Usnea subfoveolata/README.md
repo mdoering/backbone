@@ -1,5 +1,4 @@
-Usnea subfoveolata C.W. Dodge SPECIES
-=======
+# Usnea subfoveolata C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

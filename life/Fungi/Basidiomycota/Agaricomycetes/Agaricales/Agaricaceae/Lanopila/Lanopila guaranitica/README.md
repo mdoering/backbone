@@ -1,5 +1,4 @@
-Lanopila guaranitica Speg. SPECIES
-=======
+# Lanopila guaranitica Speg. SPECIES
 
 #### Status
 ACCEPTED

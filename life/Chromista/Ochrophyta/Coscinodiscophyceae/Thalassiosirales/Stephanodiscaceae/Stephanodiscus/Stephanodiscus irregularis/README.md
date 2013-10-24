@@ -1,5 +1,4 @@
-Stephanodiscus irregularis Druart, Reymond Pelletier & Gasse SPECIES
-=======
+# Stephanodiscus irregularis Druart, Reymond Pelletier & Gasse SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stachybotrys renispora P.C. Misra SPECIES
-=======
+# Stachybotrys renispora P.C. Misra SPECIES
 
 #### Status
 ACCEPTED

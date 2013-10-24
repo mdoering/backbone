@@ -1,5 +1,4 @@
-Exomassarinula calospora Teng SPECIES
-=======
+# Exomassarinula calospora Teng SPECIES
 
 #### Status
 ACCEPTED

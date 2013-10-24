@@ -1,5 +1,4 @@
-Ramalina carpatica var. carpatica VARIETY
-=======
+# Ramalina carpatica Körb. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ramalina carpatica var. carpatica
+Ramalina carpatica Körb.
 
 ### Remarks
 null

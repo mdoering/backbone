@@ -1,5 +1,4 @@
-Diplonaevia sphaerelloides (Ellis) Sacc. SPECIES
-=======
+# Diplonaevia sphaerelloides (Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

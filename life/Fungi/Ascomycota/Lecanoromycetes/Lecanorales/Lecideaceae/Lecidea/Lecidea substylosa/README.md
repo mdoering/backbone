@@ -1,5 +1,4 @@
-Lecidea substylosa Zahlbr. SPECIES
-=======
+# Lecidea substylosa Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

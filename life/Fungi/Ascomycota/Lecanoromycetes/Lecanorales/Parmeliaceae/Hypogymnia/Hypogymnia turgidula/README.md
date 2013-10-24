@@ -1,14 +1,13 @@
-Parmelia turgidula Bitter SPECIES
-=======
+# Hypogymnia turgidula (Bitter) Elix SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 40: 246 (1901)
+Lichens of New Zealand (Wellington) 70 (1972)
 
 #### Original name
 Parmelia turgidula Bitter

@@ -1,5 +1,4 @@
-Thioalkalivibrio denitrificans Sorokin et al., 2001 SPECIES
-=======
+# Thioalkalivibrio denitrificans Sorokin et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

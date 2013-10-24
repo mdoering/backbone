@@ -1,5 +1,4 @@
-Lyromma Bat. & H. Maia GENUS
-=======
+# Lyromma Bat. & H. Maia GENUS
 
 #### Status
 ACCEPTED

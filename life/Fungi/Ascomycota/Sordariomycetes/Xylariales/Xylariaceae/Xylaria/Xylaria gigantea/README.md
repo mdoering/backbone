@@ -1,5 +1,4 @@
-Xylaria gigantea (Zipp. & Lév.) Fr. SPECIES
-=======
+# Xylaria gigantea (Zipp. & Lév.) Fr. SPECIES
 
 #### Status
 ACCEPTED

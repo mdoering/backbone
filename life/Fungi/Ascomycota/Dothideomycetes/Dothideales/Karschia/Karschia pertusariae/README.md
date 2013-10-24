@@ -1,5 +1,4 @@
-Karschia pertusariae Vouaux SPECIES
-=======
+# Karschia pertusariae Vouaux SPECIES
 
 #### Status
 ACCEPTED

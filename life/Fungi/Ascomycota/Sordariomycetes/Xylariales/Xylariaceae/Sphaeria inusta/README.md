@@ -1,5 +1,4 @@
-Sphaeria inusta Cooke SPECIES
-=======
+# Sphaeria inusta Cooke SPECIES
 
 #### Status
 ACCEPTED

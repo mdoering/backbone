@@ -1,5 +1,4 @@
-Iridinea iridina Velen. SPECIES
-=======
+# Iridinea iridina Velen. SPECIES
 
 #### Status
 ACCEPTED

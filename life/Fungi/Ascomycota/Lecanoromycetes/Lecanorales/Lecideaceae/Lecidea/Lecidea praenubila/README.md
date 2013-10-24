@@ -1,5 +1,4 @@
-Lecidea praenubila Nyl. SPECIES
-=======
+# Lecidea praenubila Nyl. SPECIES
 
 #### Status
 ACCEPTED

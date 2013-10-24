@@ -1,5 +1,4 @@
-Dioicomyces guatemalensis Thaxt. SPECIES
-=======
+# Dioicomyces guatemalensis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

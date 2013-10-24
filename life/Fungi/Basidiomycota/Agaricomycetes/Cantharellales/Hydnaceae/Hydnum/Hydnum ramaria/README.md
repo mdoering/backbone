@@ -1,5 +1,4 @@
-Hydnum ramaria Fr. SPECIES
-=======
+# Hydnum ramaria Fr. SPECIES
 
 #### Status
 ACCEPTED

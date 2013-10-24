@@ -1,5 +1,4 @@
-Eurotium dombeyanum Kuntze SPECIES
-=======
+# Eurotium dombeyanum Kuntze SPECIES
 
 #### Status
 ACCEPTED

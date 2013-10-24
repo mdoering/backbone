@@ -1,5 +1,4 @@
-Chaetosphaeria pusilla Penz. & Sacc. SPECIES
-=======
+# Chaetosphaeria pusilla Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

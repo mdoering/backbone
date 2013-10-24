@@ -1,5 +1,4 @@
-Tristylospyrula Haeckel, 1887 GENUS
-=======
+# Tristylospyrula Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dendroecia evansii (Syd. & P. Syd.) Syd. {?} SPECIES
-=======
+# Dendroecia evansii (Syd. & P. Syd.) Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

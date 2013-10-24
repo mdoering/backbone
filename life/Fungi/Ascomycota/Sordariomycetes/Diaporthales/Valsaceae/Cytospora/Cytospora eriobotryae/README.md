@@ -1,5 +1,4 @@
-Cytospora eriobotryae Curzi & Barbaini, 1927 SPECIES
-=======
+# Cytospora eriobotryae Curzi & Barbaini, 1927 SPECIES
 
 #### Status
 ACCEPTED

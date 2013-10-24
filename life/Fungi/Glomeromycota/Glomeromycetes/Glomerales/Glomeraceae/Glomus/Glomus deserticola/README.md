@@ -1,5 +1,4 @@
-Glomus deserticola Trappe, Bloss & J.A. Menge, 1984 SPECIES
-=======
+# Glomus deserticola Trappe, Bloss & J.A. Menge, 1984 SPECIES
 
 #### Status
 ACCEPTED

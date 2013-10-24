@@ -1,5 +1,4 @@
-Puccinia costi (Henn.) Syd. {?} SPECIES
-=======
+# Puccinia costi (Henn.) Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

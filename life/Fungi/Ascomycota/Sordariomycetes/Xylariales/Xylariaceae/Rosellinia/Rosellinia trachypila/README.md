@@ -1,5 +1,4 @@
-Rosellinia trachypila Hazsl. SPECIES
-=======
+# Rosellinia trachypila Hazsl. SPECIES
 
 #### Status
 ACCEPTED

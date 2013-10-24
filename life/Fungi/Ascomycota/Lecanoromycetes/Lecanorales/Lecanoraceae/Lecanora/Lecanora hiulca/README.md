@@ -1,5 +1,4 @@
-Lecanora hiulca (Nyl.) Hue SPECIES
-=======
+# Lecanora hiulca (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

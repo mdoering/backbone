@@ -1,5 +1,4 @@
-Scolecactis myriadea (Fée) Clem. SPECIES
-=======
+# Scolecactis myriadea (Fée) Clem. SPECIES
 
 #### Status
 ACCEPTED

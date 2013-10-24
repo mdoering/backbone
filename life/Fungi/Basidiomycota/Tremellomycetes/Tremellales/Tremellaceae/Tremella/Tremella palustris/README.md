@@ -1,5 +1,4 @@
-Tremella palustris Weber SPECIES
-=======
+# Tremella palustris Weber SPECIES
 
 #### Status
 ACCEPTED

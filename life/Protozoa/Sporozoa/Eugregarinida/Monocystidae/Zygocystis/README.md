@@ -1,5 +1,4 @@
-Zygocystis Stein, 1848 GENUS
-=======
+# Zygocystis Stein, 1848 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hexalithus gardetae Bukry, 1969 SPECIES
-=======
+# Hexalithus gardetae Bukry, 1969 SPECIES
 
 #### Status
 ACCEPTED

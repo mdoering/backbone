@@ -1,5 +1,4 @@
-Psathyra commiscibilis (Berk.) Sacc. SPECIES
-=======
+# Psathyra commiscibilis (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

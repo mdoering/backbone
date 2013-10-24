@@ -1,5 +1,4 @@
-Leptosphaeria montana Traverso SPECIES
-=======
+# Leptosphaeria montana Traverso SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria scrobicularis Garov. SPECIES
-=======
+# Verrucaria scrobicularis Garov. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phakopsora compositarum T. Miyake SPECIES
-=======
+# Phakopsora compositarum T. Miyake SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Speetonia S. Duxbury, 1977 GENUS
-=======
+# Lagenorhytis S. Duxbury, 1979 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Palaeontographica Abt. B Palaeophytol. 160 (1-3): 48.
+null
 
 #### Original name
 null

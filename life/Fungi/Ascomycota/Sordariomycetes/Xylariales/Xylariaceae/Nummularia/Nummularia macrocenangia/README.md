@@ -1,5 +1,4 @@
-Nummularia macrocenangia (Ces.) Cooke SPECIES
-=======
+# Nummularia macrocenangia (Ces.) Cooke SPECIES
 
 #### Status
 ACCEPTED

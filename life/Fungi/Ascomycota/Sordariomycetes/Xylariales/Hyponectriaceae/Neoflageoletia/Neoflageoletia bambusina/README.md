@@ -1,14 +1,13 @@
-Flageoletia bambusina Syd., 1932 SPECIES
-=======
+# Neoflageoletia bambusina (Syd.) J. Reid & C. Booth, 1966 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 30: 96 (1932)
+Can. J. Bot. 44: 450 (1966)
 
 #### Original name
 Flageoletia bambusina Syd., 1932

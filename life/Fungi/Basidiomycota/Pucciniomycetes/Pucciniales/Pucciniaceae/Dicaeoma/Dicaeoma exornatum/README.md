@@ -1,5 +1,4 @@
-Dicaeoma exornatum (Arthur) Arthur & H.S. Jacks. SPECIES
-=======
+# Dicaeoma exornatum (Arthur) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

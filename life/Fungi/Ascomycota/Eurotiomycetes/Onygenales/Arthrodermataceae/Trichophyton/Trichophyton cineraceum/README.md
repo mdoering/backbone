@@ -1,5 +1,4 @@
-Trichophyton cineraceum Da Veiga SPECIES
-=======
+# Trichophyton cineraceum Da Veiga SPECIES
 
 #### Status
 ACCEPTED

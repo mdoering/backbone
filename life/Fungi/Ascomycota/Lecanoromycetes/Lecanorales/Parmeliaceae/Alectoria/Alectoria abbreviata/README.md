@@ -1,5 +1,4 @@
-Alectoria abbreviata (Müll. Arg.) R. Howe SPECIES
-=======
+# Alectoria abbreviata (Müll. Arg.) R. Howe SPECIES
 
 #### Status
 ACCEPTED

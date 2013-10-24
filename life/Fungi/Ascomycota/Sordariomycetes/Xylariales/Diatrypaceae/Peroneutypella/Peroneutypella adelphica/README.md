@@ -1,5 +1,4 @@
-Peroneutypella adelphica Rehm SPECIES
-=======
+# Peroneutypella adelphica Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Helmisporium persistens Cooke & Ellis SPECIES
-=======
+# Helminthosporium persistens Cooke & Ellis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Cooke & Ellis, Grevillea 6(no. 39): 88 (1878)
 
 #### Original name
-Helmisporium persistens Cooke & Ellis
+Helminthosporium persistens Cooke & Ellis
 
 ### Remarks
 null

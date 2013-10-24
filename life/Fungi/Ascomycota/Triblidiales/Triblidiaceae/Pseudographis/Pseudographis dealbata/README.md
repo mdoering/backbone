@@ -1,5 +1,4 @@
-Pseudographis dealbata (W.R. Gerard) Sacc. SPECIES
-=======
+# Pseudographis dealbata (W.R. Gerard) Sacc. SPECIES
 
 #### Status
 ACCEPTED

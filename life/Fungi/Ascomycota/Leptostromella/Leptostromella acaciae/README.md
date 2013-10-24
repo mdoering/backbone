@@ -1,5 +1,4 @@
-Leptostromella acaciae Syd. & P. Syd. SPECIES
-=======
+# Leptostromella acaciae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

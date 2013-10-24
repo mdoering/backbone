@@ -1,5 +1,4 @@
-Podospora eminens (Cain) Cain SPECIES
-=======
+# Podospora eminens (Cain) Cain SPECIES
 
 #### Status
 ACCEPTED

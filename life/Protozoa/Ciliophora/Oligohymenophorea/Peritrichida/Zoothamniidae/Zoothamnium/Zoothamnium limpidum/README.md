@@ -1,5 +1,4 @@
-Zoothamnium limpidum Maskell, 1887 SPECIES
-=======
+# Zoothamnium limpidum Maskell, 1887 SPECIES
 
 #### Status
 ACCEPTED

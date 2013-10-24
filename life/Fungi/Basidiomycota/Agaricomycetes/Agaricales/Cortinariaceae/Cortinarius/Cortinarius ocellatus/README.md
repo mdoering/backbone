@@ -1,5 +1,4 @@
-Cortinarius ocellatus M.M. Moser & E. Horak SPECIES
-=======
+# Cortinarius ocellatus M.M. Moser & E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Streptomyces caelestis de Boer et al., 1955 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces caelestis de Boer et al., 1955 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

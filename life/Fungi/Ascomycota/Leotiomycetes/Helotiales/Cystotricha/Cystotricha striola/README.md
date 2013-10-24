@@ -1,5 +1,4 @@
-Cystotricha striola Berk. & Broome, 1850 SPECIES
-=======
+# Cystotricha striola Berk. & Broome, 1850 SPECIES
 
 #### Status
 ACCEPTED

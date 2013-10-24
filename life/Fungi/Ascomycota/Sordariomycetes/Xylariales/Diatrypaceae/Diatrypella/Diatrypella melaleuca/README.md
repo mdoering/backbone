@@ -1,5 +1,4 @@
-Diatrypella melaleuca (Kunze) Nitschke SPECIES
-=======
+# Diatrypella melaleuca (Kunze) Nitschke SPECIES
 
 #### Status
 ACCEPTED

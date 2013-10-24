@@ -1,5 +1,4 @@
-Leptosphaerulina lignicola Panwar & S.J. Kaur SPECIES
-=======
+# Leptosphaerulina lignicola Panwar & S.J. Kaur SPECIES
 
 #### Status
 ACCEPTED

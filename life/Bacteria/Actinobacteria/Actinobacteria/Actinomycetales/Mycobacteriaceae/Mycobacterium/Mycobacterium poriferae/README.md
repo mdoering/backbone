@@ -1,5 +1,4 @@
-Mycobacterium poriferae Padgitt & Moshier, 1987 SPECIES
-=======
+# Mycobacterium poriferae Padgitt & Moshier, 1987 SPECIES
 
 #### Status
 ACCEPTED

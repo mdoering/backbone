@@ -1,5 +1,4 @@
-Filterable GENUS
-=======
+# Filterable GENUS
 
 #### Status
 ACCEPTED

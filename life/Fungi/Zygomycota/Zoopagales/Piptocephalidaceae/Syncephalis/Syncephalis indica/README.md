@@ -1,5 +1,4 @@
-Syncephalis indica S.N. Singh & A.K. Sarbhoy SPECIES
-=======
+# Syncephalis indica S.N. Singh & A.K. Sarbhoy SPECIES
 
 #### Status
 ACCEPTED

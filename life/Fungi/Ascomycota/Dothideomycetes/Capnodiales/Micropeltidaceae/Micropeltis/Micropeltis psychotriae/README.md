@@ -1,5 +1,4 @@
-Micropeltis psychotriae Bat. SPECIES
-=======
+# Micropeltis psychotriae Bat. SPECIES
 
 #### Status
 ACCEPTED

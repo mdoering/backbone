@@ -1,5 +1,4 @@
-Didymella scotica Dennis, 1971 SPECIES
-=======
+# Didymella scotica Dennis, 1971 SPECIES
 
 #### Status
 ACCEPTED

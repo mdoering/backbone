@@ -1,5 +1,4 @@
-Asterina triumfettae W. Yamam. SPECIES
-=======
+# Asterina triumfettae W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

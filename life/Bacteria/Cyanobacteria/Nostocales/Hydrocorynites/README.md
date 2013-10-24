@@ -1,5 +1,4 @@
-Hydrocorynites V.P. Maslov, 1960 GENUS
-=======
+# Hydrocorynites V.P. Maslov, 1960 GENUS
 
 #### Status
 ACCEPTED

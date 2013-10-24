@@ -1,5 +1,4 @@
-Peziza marasmioides Speg. SPECIES
-=======
+# Peziza marasmioides Speg. SPECIES
 
 #### Status
 ACCEPTED

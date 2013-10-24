@@ -1,5 +1,4 @@
-Rosenscheldiella oleariae H.J. Swart SPECIES
-=======
+# Rosenscheldiella oleariae H.J. Swart SPECIES
 
 #### Status
 ACCEPTED

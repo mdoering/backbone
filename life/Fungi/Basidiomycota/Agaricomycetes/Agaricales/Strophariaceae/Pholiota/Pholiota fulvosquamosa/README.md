@@ -1,5 +1,4 @@
-Pholiota fulvosquamosa Peck SPECIES
-=======
+# Pholiota fulvosquamosa Peck SPECIES
 
 #### Status
 ACCEPTED

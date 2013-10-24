@@ -1,17 +1,16 @@
-Peziza turfosa Pers., 1822 SPECIES
-=======
+# Lamprospora polytrichi (Schumach.) Le Gal, 1940 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. eur. (Erlanga) 1: 246 (1822)
+Bull. trimest. Soc. mycol. Fr. 56: 39 (1940)
 
 #### Original name
-Peziza turfosa Pers., 1822
+Peziza polytrichi Schumach., 1803
 
 ### Remarks
 null

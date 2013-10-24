@@ -1,5 +1,4 @@
-Tylopilus gracilis (Peck) Henn. SPECIES
-=======
+# Tylopilus gracilis (Peck) Henn. SPECIES
 
 #### Status
 ACCEPTED

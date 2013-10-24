@@ -1,5 +1,4 @@
-Lichenostigma epirupestre Pérez-Ortega & Calat. SPECIES
-=======
+# Lichenostigma epirupestre Pérez-Ortega & Calat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Torula hariotiana Gonz. Frag. SPECIES
-=======
+# Torula hariotiana Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

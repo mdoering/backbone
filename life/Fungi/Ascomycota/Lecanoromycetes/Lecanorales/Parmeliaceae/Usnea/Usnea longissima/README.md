@@ -1,17 +1,16 @@
-Usnea longissima f. longissima FORM
-=======
+# Usnea longissima Ach. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lich. univ. 626 (1810)
+null
 
 #### Original name
-Usnea longissima f. longissima
+null
 
 ### Remarks
 null

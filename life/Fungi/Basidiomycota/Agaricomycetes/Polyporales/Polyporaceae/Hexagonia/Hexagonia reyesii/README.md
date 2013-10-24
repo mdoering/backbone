@@ -1,5 +1,4 @@
-Hexagonia reyesii Pat. SPECIES
-=======
+# Hexagonia reyesii Pat. SPECIES
 
 #### Status
 ACCEPTED

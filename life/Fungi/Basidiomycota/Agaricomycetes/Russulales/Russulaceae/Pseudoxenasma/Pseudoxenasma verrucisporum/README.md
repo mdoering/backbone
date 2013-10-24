@@ -1,5 +1,4 @@
-Pseudoxenasma verrucisporum K.H. Larss. & Hjortstam, 1976 SPECIES
-=======
+# Pseudoxenasma verrucisporum K.H. Larss. & Hjortstam, 1976 SPECIES
 
 #### Status
 ACCEPTED

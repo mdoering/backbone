@@ -1,5 +1,4 @@
-Hormiscium album Bonord. SPECIES
-=======
+# Hormiscium album Bonord. SPECIES
 
 #### Status
 ACCEPTED

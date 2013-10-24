@@ -1,5 +1,4 @@
-Gonyaulax digitalis (Pouchet, 1883) Kofoid, 1911 SPECIES
-=======
+# Gonyaulax digitalis (Pouchet, 1883) Kofoid, 1911 SPECIES
 
 #### Status
 ACCEPTED

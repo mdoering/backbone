@@ -1,5 +1,4 @@
-Phaeographina subcalyptica Redinger SPECIES
-=======
+# Phaeographina subcalyptica Redinger SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vibrio rotiferianus Gomez-Gil et al., 2003 SPECIES
-=======
+# Vibrio rotiferianus Gomez-Gil et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

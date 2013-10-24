@@ -1,5 +1,4 @@
-Pleomassaria swidae Kaz. Tanaka, Y. Harada & M.E. Barr SPECIES
-=======
+# Pleomassaria swidae Kaz. Tanaka, Y. Harada & M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

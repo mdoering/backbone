@@ -1,14 +1,13 @@
-Corynespora quercicola Borowska, 1975 SPECIES
-=======
+# Corynesporopsis quercicola (Borowska) P.M. Kirk, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Acta Mycologica, Warszawa 11(1): 60 (1975)
+Trans. Br. mycol. Soc. 77(2): 284 (1981)
 
 #### Original name
 Corynespora quercicola Borowska, 1975

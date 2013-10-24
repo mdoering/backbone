@@ -1,5 +1,4 @@
-Dictyostelium minutum Raper, 1941 SPECIES
-=======
+# Dictyostelium minutum Raper, 1941 SPECIES
 
 #### Status
 ACCEPTED

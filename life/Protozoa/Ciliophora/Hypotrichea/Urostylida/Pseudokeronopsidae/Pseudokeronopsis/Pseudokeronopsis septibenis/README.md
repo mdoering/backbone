@@ -1,5 +1,4 @@
-Pseudokeronopsis septibenis Wanick & Silva-Neto, 2004 SPECIES
-=======
+# Pseudokeronopsis septibenis Wanick & Silva-Neto, 2004 SPECIES
 
 #### Status
 ACCEPTED

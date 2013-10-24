@@ -1,5 +1,4 @@
-Venturia asterinoides Ellis & G.W. Martin SPECIES
-=======
+# Venturia asterinoides Ellis & G.W. Martin SPECIES
 
 #### Status
 ACCEPTED

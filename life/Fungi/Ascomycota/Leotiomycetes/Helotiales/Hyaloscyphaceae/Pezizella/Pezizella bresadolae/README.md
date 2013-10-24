@@ -1,5 +1,4 @@
-Pezizella bresadolae Rehm SPECIES
-=======
+# Pezizella bresadolae Rehm SPECIES
 
 #### Status
 ACCEPTED

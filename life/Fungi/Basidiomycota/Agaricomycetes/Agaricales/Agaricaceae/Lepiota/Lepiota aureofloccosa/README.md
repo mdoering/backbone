@@ -1,5 +1,4 @@
-Lepiota aureofloccosa Henn. SPECIES
-=======
+# Lepiota aureofloccosa Henn. SPECIES
 
 #### Status
 ACCEPTED

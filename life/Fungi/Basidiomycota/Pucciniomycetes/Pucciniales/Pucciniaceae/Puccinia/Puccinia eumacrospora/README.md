@@ -1,5 +1,4 @@
-Puccinia eumacrospora Cummins SPECIES
-=======
+# Puccinia eumacrospora Cummins SPECIES
 
 #### Status
 ACCEPTED

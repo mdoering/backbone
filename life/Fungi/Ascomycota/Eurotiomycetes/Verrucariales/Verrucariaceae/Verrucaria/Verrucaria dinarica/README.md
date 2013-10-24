@@ -1,5 +1,4 @@
-Verrucaria dinarica Zahlbr. SPECIES
-=======
+# Verrucaria dinarica Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

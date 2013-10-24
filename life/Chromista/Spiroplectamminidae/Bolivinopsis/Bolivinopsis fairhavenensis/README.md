@@ -1,5 +1,4 @@
-Bolivinopsis fairhavenensis SPECIES
-=======
+# Bolivinopsis fairhavenensis SPECIES
 
 #### Status
 ACCEPTED

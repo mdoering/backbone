@@ -1,5 +1,4 @@
-Lycoperdodes degenerans (Fr.) Kuntze SPECIES
-=======
+# Lycoperdodes degenerans (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus amanita Schumach. SPECIES
-=======
+# Agaricus amanita Schumach. SPECIES
 
 #### Status
 ACCEPTED

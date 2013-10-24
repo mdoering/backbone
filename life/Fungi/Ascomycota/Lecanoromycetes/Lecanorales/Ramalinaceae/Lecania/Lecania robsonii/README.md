@@ -1,17 +1,16 @@
-Lecania robsoni C.W. Dodge SPECIES
-=======
+# Lecania robsonii C.W. Dodge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Beih. Nova Hedwigia 38: 37 (1971)
 
 #### Original name
-Lecania robsoni C.W. Dodge
+Lecania robsonii C.W. Dodge
 
 ### Remarks
 null

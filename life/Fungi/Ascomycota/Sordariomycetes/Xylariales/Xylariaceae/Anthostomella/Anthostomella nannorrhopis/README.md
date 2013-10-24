@@ -1,14 +1,13 @@
-Anthostoma nannorrhopis S. Ahmad, 1971 SPECIES
-=======
+# Anthostomella nannorrhopis (S. Ahmad) K.D. Hyde, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Biologia, Lahore 17(2): 81 (1971)
+Nova Hedwigia 62(3-4): 317 (1996)
 
 #### Original name
 Anthostoma nannorrhopis S. Ahmad, 1971

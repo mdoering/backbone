@@ -1,5 +1,4 @@
-Pyrenomyxa invocans Morgan, 1895 SPECIES
-=======
+# Pyrenomyxa invocans Morgan, 1895 SPECIES
 
 #### Status
 ACCEPTED

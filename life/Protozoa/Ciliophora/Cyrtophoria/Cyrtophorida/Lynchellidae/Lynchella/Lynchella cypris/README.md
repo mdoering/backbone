@@ -1,5 +1,4 @@
-Lynchella cypris Jankowski, 1968 SPECIES
-=======
+# Lynchella cypris Jankowski, 1968 SPECIES
 
 #### Status
 ACCEPTED

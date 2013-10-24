@@ -1,5 +1,4 @@
-Rickenella alexandri (Singer) Raithelh. SPECIES
-=======
+# Rickenella alexandri (Singer) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

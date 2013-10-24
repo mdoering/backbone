@@ -1,5 +1,4 @@
-Oospora sulphurea (Preuss) Sacc. & Voglino SPECIES
-=======
+# Oospora sulphurea (Preuss) Sacc. & Voglino SPECIES
 
 #### Status
 ACCEPTED

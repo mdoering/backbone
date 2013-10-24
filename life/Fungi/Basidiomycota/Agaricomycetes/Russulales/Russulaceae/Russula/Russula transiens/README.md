@@ -1,5 +1,4 @@
-Russula transiens (Singer) Romagn. SPECIES
-=======
+# Russula transiens (Singer) Romagn. SPECIES
 
 #### Status
 ACCEPTED

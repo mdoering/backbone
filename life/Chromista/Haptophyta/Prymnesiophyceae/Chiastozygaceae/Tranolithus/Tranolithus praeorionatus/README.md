@@ -1,5 +1,4 @@
-Tranolithus praeorionatus SPECIES
-=======
+# Tranolithus praeorionatus SPECIES
 
 #### Status
 ACCEPTED

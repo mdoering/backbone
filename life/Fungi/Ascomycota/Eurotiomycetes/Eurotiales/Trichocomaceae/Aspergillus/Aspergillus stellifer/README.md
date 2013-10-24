@@ -1,5 +1,4 @@
-Aspergillus stellifer Samson & W. Gams SPECIES
-=======
+# Aspergillus stellifer Samson & W. Gams SPECIES
 
 #### Status
 ACCEPTED

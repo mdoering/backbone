@@ -1,5 +1,4 @@
-Phyllosticta rosae-setigerae J.M. Hook SPECIES
-=======
+# Phyllosticta rosae-setigerae J.M. Hook SPECIES
 
 #### Status
 ACCEPTED

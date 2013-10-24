@@ -1,5 +1,4 @@
-Phlegmacium cupreum Velen. SPECIES
-=======
+# Phlegmacium cupreum Velen. SPECIES
 
 #### Status
 ACCEPTED

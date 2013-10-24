@@ -1,5 +1,4 @@
-Meliola securidacae var. securidacae VARIETY
-=======
+# Meliola securidacae (Hansf.) Cif. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Mycopath. Mycol. appl. 7: 88 (1954)
 
 #### Original name
-Meliola securidacae var. securidacae
+Irenina securidacae Hansf.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Asterina disseminata Syd. SPECIES
-=======
+# Asterina disseminata Syd. SPECIES
 
 #### Status
 ACCEPTED

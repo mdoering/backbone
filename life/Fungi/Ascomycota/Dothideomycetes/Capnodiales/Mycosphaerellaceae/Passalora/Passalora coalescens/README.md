@@ -1,5 +1,4 @@
-Passalora coalescens (Davis) U. Braun & Crous SPECIES
-=======
+# Passalora coalescens (Davis) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tulasnella zooctonia Drechsler SPECIES
-=======
+# Tulasnella zooctonia Drechsler SPECIES
 
 #### Status
 ACCEPTED

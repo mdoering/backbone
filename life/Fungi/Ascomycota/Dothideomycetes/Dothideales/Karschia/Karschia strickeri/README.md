@@ -1,5 +1,4 @@
-Karschia strickeri Körb. SPECIES
-=======
+# Karschia strickeri Körb. SPECIES
 
 #### Status
 ACCEPTED

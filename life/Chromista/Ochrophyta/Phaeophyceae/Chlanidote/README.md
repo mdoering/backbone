@@ -1,5 +1,4 @@
-Chlanidote J.Agardh, 1894 GENUS
-=======
+# Chlanidote J.Agardh, 1894 GENUS
 
 #### Status
 ACCEPTED

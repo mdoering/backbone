@@ -1,5 +1,4 @@
-Lamproderma verrucosum G.W. Martin, K.S. Thind & Sohi, 1957 SPECIES
-=======
+# Lamproderma verrucosum G.W. Martin, K.S. Thind & Sohi, 1957 SPECIES
 
 #### Status
 ACCEPTED

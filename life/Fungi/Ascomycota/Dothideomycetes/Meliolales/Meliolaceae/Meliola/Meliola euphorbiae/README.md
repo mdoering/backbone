@@ -1,5 +1,4 @@
-Meliola euphorbiae F. Stevens & Tehon SPECIES
-=======
+# Meliola euphorbiae F. Stevens & Tehon SPECIES
 
 #### Status
 ACCEPTED

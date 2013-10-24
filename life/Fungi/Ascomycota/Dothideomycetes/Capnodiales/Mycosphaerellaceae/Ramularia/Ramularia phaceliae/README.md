@@ -1,5 +1,4 @@
-Ramularia phaceliae Bonar SPECIES
-=======
+# Ramularia phaceliae Bonar SPECIES
 
 #### Status
 ACCEPTED

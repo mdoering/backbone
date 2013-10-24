@@ -1,5 +1,4 @@
-Cucurbitaria friesii Kuntze, 1898 SPECIES
-=======
+# Cucurbitaria friesii Kuntze, 1898 SPECIES
 
 #### Status
 ACCEPTED

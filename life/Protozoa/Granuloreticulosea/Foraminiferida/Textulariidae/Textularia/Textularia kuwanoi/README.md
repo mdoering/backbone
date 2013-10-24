@@ -1,5 +1,4 @@
-Textularia kuwanoi Oki, 1989 SPECIES
-=======
+# Textularia kuwanoi Oki, 1989 SPECIES
 
 #### Status
 ACCEPTED

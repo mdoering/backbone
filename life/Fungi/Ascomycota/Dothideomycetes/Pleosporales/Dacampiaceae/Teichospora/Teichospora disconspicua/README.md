@@ -1,5 +1,4 @@
-Teichospora disconspicua Rehm SPECIES
-=======
+# Teichospora disconspicua Rehm SPECIES
 
 #### Status
 ACCEPTED

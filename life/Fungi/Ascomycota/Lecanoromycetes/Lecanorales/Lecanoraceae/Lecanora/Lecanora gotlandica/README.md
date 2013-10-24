@@ -1,5 +1,4 @@
-Lecanora gotlandica Motyka SPECIES
-=======
+# Lecanora gotlandica Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Omphalia kermesina Berk. & M.A. Curtis SPECIES
-=======
+# Omphalia kermesina Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

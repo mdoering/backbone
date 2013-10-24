@@ -1,17 +1,16 @@
-Lecanora szatalai Motyka SPECIES
-=======
+# Lecanora szatalae Motyka SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Porosty (Lichenes). <b>3</b> (Lublin), Rodzina <i>Lecanoraceae</i>. <i>Lecanora</i> 159 (1996)
 
 #### Original name
-Lecanora szatalai Motyka
+Lecanora szatalae Motyka
 
 ### Remarks
 null

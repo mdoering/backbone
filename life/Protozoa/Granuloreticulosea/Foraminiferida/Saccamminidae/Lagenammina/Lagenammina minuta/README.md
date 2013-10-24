@@ -1,8 +1,7 @@
-Proteonella minuta Saidova, 1975 SPECIES
-=======
+# Lagenammina minuta (Saidova, 1975) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

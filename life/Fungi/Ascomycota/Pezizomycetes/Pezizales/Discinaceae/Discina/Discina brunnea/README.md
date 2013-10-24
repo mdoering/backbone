@@ -1,5 +1,4 @@
-Discina brunnea (Underw.) Raitv. SPECIES
-=======
+# Discina brunnea (Underw.) Raitv. SPECIES
 
 #### Status
 ACCEPTED

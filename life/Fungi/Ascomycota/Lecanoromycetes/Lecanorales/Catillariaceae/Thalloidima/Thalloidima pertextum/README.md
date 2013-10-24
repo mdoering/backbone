@@ -1,5 +1,4 @@
-Thalloidima pertextum SPECIES
-=======
+# Thalloidima pertextum SPECIES
 
 #### Status
 ACCEPTED

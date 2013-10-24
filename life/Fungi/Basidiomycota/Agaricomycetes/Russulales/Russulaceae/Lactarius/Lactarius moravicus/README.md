@@ -1,5 +1,4 @@
-Lactarius moravicus Z. Schaef. SPECIES
-=======
+# Lactarius moravicus Z. Schaef. SPECIES
 
 #### Status
 ACCEPTED

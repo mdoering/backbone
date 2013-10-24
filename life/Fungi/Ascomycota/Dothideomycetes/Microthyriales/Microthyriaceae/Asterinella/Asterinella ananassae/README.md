@@ -1,5 +1,4 @@
-Asterinella ananassae Sawada SPECIES
-=======
+# Asterinella ananassae Sawada SPECIES
 
 #### Status
 ACCEPTED

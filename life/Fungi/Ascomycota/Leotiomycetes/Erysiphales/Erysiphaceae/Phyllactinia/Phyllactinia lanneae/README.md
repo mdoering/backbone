@@ -1,5 +1,4 @@
-Phyllactinia lanneae P.B. Chavan & U.V. Kulk. SPECIES
-=======
+# Phyllactinia lanneae P.B. Chavan & U.V. Kulk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amanita polcovius E.H.L. Krause SPECIES
-=======
+# Amanita polcovius E.H.L. Krause SPECIES
 
 #### Status
 ACCEPTED

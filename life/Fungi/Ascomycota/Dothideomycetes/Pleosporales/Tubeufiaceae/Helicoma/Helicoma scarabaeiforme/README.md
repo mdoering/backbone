@@ -1,5 +1,4 @@
-Helicoma scarabaeiforme G.Z. Zhao, Xing Z. Liu & W.P. Wu SPECIES
-=======
+# Helicoma scarabaeiforme G.Z. Zhao, Xing Z. Liu & W.P. Wu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laboulbenia gigantea Istv. SPECIES
-=======
+# Laboulbenia gigantea Istv. SPECIES
 
 #### Status
 ACCEPTED

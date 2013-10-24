@@ -1,5 +1,4 @@
-Gamonaemella GENUS
-=======
+# Gamonaemella GENUS
 
 #### Status
 ACCEPTED

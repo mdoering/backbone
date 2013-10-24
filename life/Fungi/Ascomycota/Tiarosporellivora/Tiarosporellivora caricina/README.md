@@ -1,5 +1,4 @@
-Tiarosporellivora caricina Punith., 1981 SPECIES
-=======
+# Tiarosporellivora caricina Punith., 1981 SPECIES
 
 #### Status
 ACCEPTED

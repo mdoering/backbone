@@ -1,5 +1,4 @@
-Penicillium rubescens Bainier SPECIES
-=======
+# Penicillium rubescens Bainier SPECIES
 
 #### Status
 ACCEPTED

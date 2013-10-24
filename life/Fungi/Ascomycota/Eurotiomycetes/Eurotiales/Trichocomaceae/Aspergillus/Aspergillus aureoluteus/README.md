@@ -1,5 +1,4 @@
-Aspergillus aureoluteus Samson & W. Gams SPECIES
-=======
+# Aspergillus aureoluteus Samson & W. Gams SPECIES
 
 #### Status
 ACCEPTED

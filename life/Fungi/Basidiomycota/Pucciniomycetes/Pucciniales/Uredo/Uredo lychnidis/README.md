@@ -1,5 +1,4 @@
-Uredo lychnidis J. Schröt. SPECIES
-=======
+# Uredo lychnidis J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

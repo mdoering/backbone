@@ -1,8 +1,7 @@
-Gloeocapsa alpina f. lignicola (Rabenhorst) Hollerbach FORM
-=======
+# Gloeocapsa lignicola Rabenhorst SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

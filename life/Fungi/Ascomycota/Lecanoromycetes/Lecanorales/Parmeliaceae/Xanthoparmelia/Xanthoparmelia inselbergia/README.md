@@ -1,14 +1,13 @@
-Paraparmelia inselbergia Elix SPECIES
-=======
+# Xanthoparmelia inselbergia (Elix) Elix SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 59: 412 (1996)
+Mycotaxon 87: 399 (2003)
 
 #### Original name
 Paraparmelia inselbergia Elix

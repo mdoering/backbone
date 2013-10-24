@@ -1,5 +1,4 @@
-Boletus farinaceus Britzelm. SPECIES
-=======
+# Boletus farinaceus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta chenopodiicola Tehon & E.Y. Daniels SPECIES
-=======
+# Phyllosticta chenopodiicola Tehon & E.Y. Daniels SPECIES
 
 #### Status
 ACCEPTED

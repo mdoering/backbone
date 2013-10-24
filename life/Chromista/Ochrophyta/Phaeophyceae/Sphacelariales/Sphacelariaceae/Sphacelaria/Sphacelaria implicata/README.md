@@ -1,5 +1,4 @@
-Sphacelaria implicata Sauvageau SPECIES
-=======
+# Sphacelaria implicata Sauvageau SPECIES
 
 #### Status
 ACCEPTED

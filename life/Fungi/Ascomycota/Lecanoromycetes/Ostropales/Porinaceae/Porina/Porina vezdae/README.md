@@ -1,5 +1,4 @@
-Porina vezdae Lücking SPECIES
-=======
+# Porina vezdae Lücking SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lembosia curassavicae Bat. & Peres SPECIES
-=======
+# Lembosia curassavicae Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

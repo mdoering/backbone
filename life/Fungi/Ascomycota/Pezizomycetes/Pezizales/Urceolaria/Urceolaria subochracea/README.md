@@ -1,5 +1,4 @@
-Urceolaria subochracea (Müll. Arg.) Motyka SPECIES
-=======
+# Urceolaria subochracea (Müll. Arg.) Motyka SPECIES
 
 #### Status
 ACCEPTED

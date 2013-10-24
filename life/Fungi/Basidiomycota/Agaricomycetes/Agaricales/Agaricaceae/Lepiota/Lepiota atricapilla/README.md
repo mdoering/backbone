@@ -1,5 +1,4 @@
-Lepiota atricapilla Cooke & Massee SPECIES
-=======
+# Lepiota atricapilla Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

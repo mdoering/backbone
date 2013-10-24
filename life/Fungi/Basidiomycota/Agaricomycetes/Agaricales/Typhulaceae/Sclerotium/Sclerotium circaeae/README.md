@@ -1,5 +1,4 @@
-Sclerotium circaeae Schumach. SPECIES
-=======
+# Sclerotium circaeae Schumach. SPECIES
 
 #### Status
 ACCEPTED

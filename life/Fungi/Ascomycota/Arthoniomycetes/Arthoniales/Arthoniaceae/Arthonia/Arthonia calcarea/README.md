@@ -1,5 +1,4 @@
-Opegrapha chevallieri var. chevallieri VARIETY
-=======
+# Arthonia calcarea (Turner ex Sm.) Ertz & Diederich SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+in Ertz, Miadlikowska, Lutzoni, Dessein, Raspé, Vigneron, Hofstetter & Deiderich, Mycol. Res. 113(1): 146 (2009)
 
 #### Original name
-Opegrapha chevallieri var. chevallieri
+Opegrapha calcarea Turner ex Sm.
 
 ### Remarks
 null

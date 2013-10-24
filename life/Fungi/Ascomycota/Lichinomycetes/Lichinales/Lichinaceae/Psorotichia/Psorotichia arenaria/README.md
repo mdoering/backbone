@@ -1,5 +1,4 @@
-Psorotichia arenaria (Arnold) Arnold SPECIES
-=======
+# Psorotichia arenaria (Arnold) Arnold SPECIES
 
 #### Status
 ACCEPTED

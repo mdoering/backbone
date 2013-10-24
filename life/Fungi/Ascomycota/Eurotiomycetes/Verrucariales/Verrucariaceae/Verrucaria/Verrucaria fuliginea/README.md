@@ -1,5 +1,4 @@
-Verrucaria fuliginea Vain. SPECIES
-=======
+# Verrucaria fuliginea Vain. SPECIES
 
 #### Status
 ACCEPTED

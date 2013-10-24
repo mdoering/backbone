@@ -1,5 +1,4 @@
-Lecanora hosseana (Gyeln.) I.M. Lamb SPECIES
-=======
+# Lecanora hosseana (Gyeln.) I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arachnochloris biconicum Pascher SPECIES
-=======
+# Arachnochloris biconicum Pascher SPECIES
 
 #### Status
 ACCEPTED

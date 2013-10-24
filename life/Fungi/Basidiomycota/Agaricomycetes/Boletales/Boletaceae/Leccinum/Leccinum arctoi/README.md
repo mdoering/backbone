@@ -1,5 +1,4 @@
-Leccinum arctoi Vassilkov SPECIES
-=======
+# Leccinum arctoi Vassilkov SPECIES
 
 #### Status
 ACCEPTED

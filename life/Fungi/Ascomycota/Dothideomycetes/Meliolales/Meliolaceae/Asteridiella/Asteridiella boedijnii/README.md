@@ -1,5 +1,4 @@
-Asteridiella boedijnii (Cif.) Hansf. SPECIES
-=======
+# Asteridiella boedijnii (Cif.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

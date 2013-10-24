@@ -1,5 +1,4 @@
-Sphaerospora diaboli Velen. SPECIES
-=======
+# Sphaerospora diaboli Velen. SPECIES
 
 #### Status
 ACCEPTED

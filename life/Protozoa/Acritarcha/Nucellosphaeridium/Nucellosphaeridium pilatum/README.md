@@ -1,5 +1,4 @@
-Nucellosphaeridium pilatum Luo Qiling, 1985 SPECIES
-=======
+# Nucellosphaeridium pilatum Luo Qiling, 1985 SPECIES
 
 #### Status
 ACCEPTED

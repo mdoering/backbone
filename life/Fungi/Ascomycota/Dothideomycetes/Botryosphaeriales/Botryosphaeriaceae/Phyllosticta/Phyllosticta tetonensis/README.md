@@ -1,5 +1,4 @@
-Phyllosticta tetonensis Solheim SPECIES
-=======
+# Phyllosticta tetonensis Solheim SPECIES
 
 #### Status
 ACCEPTED

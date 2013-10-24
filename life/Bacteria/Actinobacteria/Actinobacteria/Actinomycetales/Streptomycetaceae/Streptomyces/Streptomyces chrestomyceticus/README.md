@@ -1,5 +1,4 @@
-Streptomyces chrestomyceticus Canevazzi and Scotti, 1959 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces chrestomyceticus Canevazzi and Scotti, 1959 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

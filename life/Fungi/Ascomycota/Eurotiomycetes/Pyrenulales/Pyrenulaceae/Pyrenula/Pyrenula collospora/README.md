@@ -1,5 +1,4 @@
-Pyrenula collospora Vain. SPECIES
-=======
+# Pyrenula collospora Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Filaspora scandicis (Desm. & Roberge) Kuntze SPECIES
-=======
+# Filaspora scandicis (Desm. & Roberge) Kuntze SPECIES
 
 #### Status
 ACCEPTED

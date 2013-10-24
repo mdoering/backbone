@@ -1,5 +1,4 @@
-Parmelia felipponei Lindau SPECIES
-=======
+# Parmelia felipponei Lindau SPECIES
 
 #### Status
 ACCEPTED

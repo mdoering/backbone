@@ -1,5 +1,4 @@
-Phacodinium muscorum Prowazek, 1900 SPECIES
-=======
+# Phacodinium muscorum Prowazek, 1900 SPECIES
 
 #### Status
 ACCEPTED

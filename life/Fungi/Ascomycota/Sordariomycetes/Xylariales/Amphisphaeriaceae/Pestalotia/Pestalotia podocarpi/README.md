@@ -1,5 +1,4 @@
-Pestalotia podocarpi Dennis SPECIES
-=======
+# Pestalotia podocarpi Dennis SPECIES
 
 #### Status
 ACCEPTED

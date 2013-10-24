@@ -1,17 +1,16 @@
-Chaetoporus mello-fulvus Romell SPECIES
-=======
+# Chaetoporus melleofulvus Romell SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bihangtill K. Svenska Vetensk. -Akad. Handl. , Afd. 3 26(no. 16): 16 (1901)
 
 #### Original name
-Chaetoporus mello-fulvus Romell
+Chaetoporus melleofulvus Romell
 
 ### Remarks
 null

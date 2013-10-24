@@ -1,5 +1,4 @@
-Metopus Claparède & Lachmann, 1858 GENUS
-=======
+# Metopus Claparède & Lachmann, 1858 GENUS
 
 #### Status
 ACCEPTED

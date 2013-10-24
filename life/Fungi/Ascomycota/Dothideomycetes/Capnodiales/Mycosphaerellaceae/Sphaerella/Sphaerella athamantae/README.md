@@ -1,5 +1,4 @@
-Sphaerella athamantae Parisi SPECIES
-=======
+# Sphaerella athamantae Parisi SPECIES
 
 #### Status
 ACCEPTED

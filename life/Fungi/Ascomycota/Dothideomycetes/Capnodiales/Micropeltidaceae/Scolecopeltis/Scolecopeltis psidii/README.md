@@ -1,5 +1,4 @@
-Scolecopeltis psidii Bat. SPECIES
-=======
+# Scolecopeltis psidii Bat. SPECIES
 
 #### Status
 ACCEPTED

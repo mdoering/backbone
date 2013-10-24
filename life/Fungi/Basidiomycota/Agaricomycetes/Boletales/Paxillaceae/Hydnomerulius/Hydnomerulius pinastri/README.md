@@ -1,17 +1,16 @@
-Serpula atrovirens (Burt) W.B. Cooke, 1957 SPECIES
-=======
+# Hydnomerulius pinastri (Fr.) Jarosch & Besl, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 49(2): 216 (1957)
+Pl. Biol. 3(3): 448 (2001)
 
 #### Original name
-null
+Hydnum pinastri Fr., 1814
 
 ### Remarks
 null

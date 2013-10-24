@@ -1,5 +1,4 @@
-Panus crassiusculus Berk. & Broome SPECIES
-=======
+# Panus crassiusculus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

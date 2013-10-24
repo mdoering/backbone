@@ -1,5 +1,4 @@
-Septothyrella nipponica I. Hino & Katum. SPECIES
-=======
+# Septothyrella nipponica I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

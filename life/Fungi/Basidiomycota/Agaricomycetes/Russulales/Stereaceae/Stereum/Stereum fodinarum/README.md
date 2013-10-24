@@ -1,5 +1,4 @@
-Stereum fodinarum Mont. SPECIES
-=======
+# Stereum fodinarum Mont. SPECIES
 
 #### Status
 ACCEPTED

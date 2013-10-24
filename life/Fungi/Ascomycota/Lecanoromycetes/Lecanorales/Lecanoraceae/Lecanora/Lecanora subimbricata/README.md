@@ -1,5 +1,4 @@
-Lecanora subimbricata SPECIES
-=======
+# Lecanora subimbricata SPECIES
 
 #### Status
 ACCEPTED

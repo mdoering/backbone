@@ -1,5 +1,4 @@
-Discina australica Cooke SPECIES
-=======
+# Discina australica Cooke SPECIES
 
 #### Status
 ACCEPTED

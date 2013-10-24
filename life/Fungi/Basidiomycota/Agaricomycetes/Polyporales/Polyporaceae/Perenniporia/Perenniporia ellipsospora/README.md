@@ -1,5 +1,4 @@
-Perenniporia ellipsospora Ryvarden & Gilb. SPECIES
-=======
+# Perenniporia ellipsospora Ryvarden & Gilb. SPECIES
 
 #### Status
 ACCEPTED

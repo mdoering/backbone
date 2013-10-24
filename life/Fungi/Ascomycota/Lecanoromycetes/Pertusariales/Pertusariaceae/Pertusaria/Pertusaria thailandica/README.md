@@ -1,5 +1,4 @@
-Pertusaria thailandica Jariangpr. SPECIES
-=======
+# Pertusaria thailandica Jariangpr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ceratonema arundinis Wallr. SPECIES
-=======
+# Ceratonema arundinis Wallr. SPECIES
 
 #### Status
 ACCEPTED

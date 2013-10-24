@@ -1,5 +1,4 @@
-Tomasellia exumana Riddle SPECIES
-=======
+# Tomasellia exumana Riddle SPECIES
 
 #### Status
 ACCEPTED

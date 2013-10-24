@@ -1,5 +1,4 @@
-Collema sublimosum J. Steiner SPECIES
-=======
+# Collema sublimosum J. Steiner SPECIES
 
 #### Status
 ACCEPTED

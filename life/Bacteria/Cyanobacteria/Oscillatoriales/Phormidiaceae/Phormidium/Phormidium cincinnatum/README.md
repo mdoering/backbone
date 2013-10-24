@@ -1,5 +1,4 @@
-Phormidium cincinnatum Itzigsohn SPECIES
-=======
+# Phormidium cincinnatum Itzigsohn SPECIES
 
 #### Status
 ACCEPTED

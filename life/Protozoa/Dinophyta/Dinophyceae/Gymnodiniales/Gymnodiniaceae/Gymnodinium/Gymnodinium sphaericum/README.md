@@ -1,8 +1,7 @@
-Gymnodinium gracile var. sphaerica Calkins VARIETY
-=======
+# Gymnodinium sphaericum (Calkins) Kofoid & Swezy, 1921 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

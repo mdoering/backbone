@@ -1,5 +1,4 @@
-Thelotrema subcaesium Nyl. SPECIES
-=======
+# Thelotrema subcaesium Nyl. SPECIES
 
 #### Status
 ACCEPTED

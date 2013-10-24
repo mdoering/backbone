@@ -1,5 +1,4 @@
-Valsa aucupariae Kirschst. SPECIES
-=======
+# Valsa aucupariae Kirschst. SPECIES
 
 #### Status
 ACCEPTED

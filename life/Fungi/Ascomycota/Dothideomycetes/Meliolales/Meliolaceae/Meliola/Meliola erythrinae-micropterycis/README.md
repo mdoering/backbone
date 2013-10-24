@@ -1,5 +1,4 @@
-Meliola erythrinae-micropterycis Hansf. SPECIES
-=======
+# Meliola erythrinae-micropterycis Hansf. SPECIES
 
 #### Status
 ACCEPTED

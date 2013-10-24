@@ -1,5 +1,4 @@
-Uncinula yaanensis J.F. Tao & T.J. Li SPECIES
-=======
+# Uncinula yaanensis J.F. Tao & T.J. Li SPECIES
 
 #### Status
 ACCEPTED

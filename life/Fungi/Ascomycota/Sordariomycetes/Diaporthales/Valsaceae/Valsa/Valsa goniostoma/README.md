@@ -1,5 +1,4 @@
-Valsa goniostoma Berk. & M.A. Curtis SPECIES
-=======
+# Valsa goniostoma Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

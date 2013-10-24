@@ -1,5 +1,4 @@
-Haemophilus parasuis Biberstein and White, 1969 (Approved Lists, 1980) SPECIES
-=======
+# Haemophilus parasuis Biberstein and White, 1969 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

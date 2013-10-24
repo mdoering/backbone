@@ -1,5 +1,4 @@
-Puccinia eragrostidis-chalcanthae Doidge SPECIES
-=======
+# Puccinia eragrostidis-chalcanthae Doidge SPECIES
 
 #### Status
 ACCEPTED

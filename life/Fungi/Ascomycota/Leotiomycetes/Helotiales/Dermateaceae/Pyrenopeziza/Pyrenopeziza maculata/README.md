@@ -1,5 +1,4 @@
-Pyrenopeziza maculata Graddon, 1986 SPECIES
-=======
+# Pyrenopeziza maculata Graddon, 1986 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tichothecium fuscoatrae J. Steiner SPECIES
-=======
+# Tichothecium fuscoatrae J. Steiner SPECIES
 
 #### Status
 ACCEPTED

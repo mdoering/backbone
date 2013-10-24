@@ -1,5 +1,4 @@
-Mycena adhaerens Velen. SPECIES
-=======
+# Mycena adhaerens Velen. SPECIES
 
 #### Status
 ACCEPTED

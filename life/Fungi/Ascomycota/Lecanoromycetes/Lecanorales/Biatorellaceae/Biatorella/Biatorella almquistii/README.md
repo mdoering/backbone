@@ -1,5 +1,4 @@
-Biatorella almquistii H. Magn. SPECIES
-=======
+# Biatorella almquistii H. Magn. SPECIES
 
 #### Status
 ACCEPTED

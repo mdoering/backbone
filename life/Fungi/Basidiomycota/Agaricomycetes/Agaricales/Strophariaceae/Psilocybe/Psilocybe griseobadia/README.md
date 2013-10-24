@@ -1,5 +1,4 @@
-Psilocybe griseobadia (Pat.) Zhu L. Yang SPECIES
-=======
+# Psilocybe griseobadia (Pat.) Zhu L. Yang SPECIES
 
 #### Status
 ACCEPTED

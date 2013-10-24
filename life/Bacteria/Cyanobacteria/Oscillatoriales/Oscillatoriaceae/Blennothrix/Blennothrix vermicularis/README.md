@@ -1,5 +1,4 @@
-Blennothrix vermicularis Kützing ex Anagnostidis & Komárek SPECIES
-=======
+# Blennothrix vermicularis Kützing ex Anagnostidis & Komárek SPECIES
 
 #### Status
 ACCEPTED

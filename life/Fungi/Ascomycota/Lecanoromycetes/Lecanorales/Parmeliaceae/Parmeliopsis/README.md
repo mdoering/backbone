@@ -1,5 +1,4 @@
-Parmeliopsis (Nyl. ex Stizenb.) Nyl. GENUS
-=======
+# Parmeliopsis (Nyl. ex Stizenb.) Nyl. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Elachista falcata Y. Lee SPECIES
-=======
+# Elachista falcata Y. Lee SPECIES
 
 #### Status
 ACCEPTED

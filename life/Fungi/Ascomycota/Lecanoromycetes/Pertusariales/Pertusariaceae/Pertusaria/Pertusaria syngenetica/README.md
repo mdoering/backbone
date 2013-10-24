@@ -1,5 +1,4 @@
-Pertusaria syngenetica Müll. Arg. SPECIES
-=======
+# Pertusaria syngenetica Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

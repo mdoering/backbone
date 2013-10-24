@@ -1,5 +1,4 @@
-Mycena lageniformis Grgur. & A.A. Holland SPECIES
-=======
+# Mycena lageniformis Grgur. & A.A. Holland SPECIES
 
 #### Status
 ACCEPTED

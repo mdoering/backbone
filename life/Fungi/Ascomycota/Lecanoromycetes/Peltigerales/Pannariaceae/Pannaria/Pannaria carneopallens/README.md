@@ -1,5 +1,4 @@
-Pannaria carneopallens Vain. SPECIES
-=======
+# Pannaria carneopallens Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllachora melanoplaca f. melanoplaca FORM
-=======
+# Phyllachora melanoplaca SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 2: 607 (1883)
+null
 
 #### Original name
-Phyllachora melanoplaca f. melanoplaca
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Entoloma albidoquadratum Manim. & Noordel. SPECIES
-=======
+# Entoloma albidoquadratum Manim. & Noordel. SPECIES
 
 #### Status
 ACCEPTED

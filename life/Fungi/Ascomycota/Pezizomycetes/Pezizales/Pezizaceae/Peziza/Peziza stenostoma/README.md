@@ -1,5 +1,4 @@
-Peziza stenostoma Mart. SPECIES
-=======
+# Peziza stenostoma Mart. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Lycoperdon truncicolum Velen. SPECIES
-=======
+# Lycoperdon truncicola Velen. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ceské Houby 4-5: 830 (1922)
 
 #### Original name
-Lycoperdon truncicolum Velen.
+Lycoperdon truncicola Velen.
 
 ### Remarks
 null

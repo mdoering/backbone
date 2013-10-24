@@ -1,5 +1,4 @@
-Atractobolus splendens (J. Schröt.) Kuntze SPECIES
-=======
+# Atractobolus splendens (J. Schröt.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

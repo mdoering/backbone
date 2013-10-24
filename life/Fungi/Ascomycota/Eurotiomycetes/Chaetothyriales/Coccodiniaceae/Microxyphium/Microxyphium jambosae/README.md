@@ -1,5 +1,4 @@
-Microxyphium jambosae Bat. SPECIES
-=======
+# Microxyphium jambosae Bat. SPECIES
 
 #### Status
 ACCEPTED

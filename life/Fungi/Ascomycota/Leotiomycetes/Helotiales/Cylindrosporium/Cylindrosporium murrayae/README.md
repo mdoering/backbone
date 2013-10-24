@@ -1,5 +1,4 @@
-Cylindrosporium murrayae Thirum. SPECIES
-=======
+# Cylindrosporium murrayae Thirum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhodophyllus elongatus Romagn. SPECIES
-=======
+# Rhodophyllus elongatus Romagn. SPECIES
 
 #### Status
 ACCEPTED

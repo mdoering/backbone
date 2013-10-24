@@ -1,5 +1,4 @@
-Pyricularia commelinicola M.J. Park & H.D. Shin SPECIES
-=======
+# Pyricularia commelinicola M.J. Park & H.D. Shin SPECIES
 
 #### Status
 ACCEPTED

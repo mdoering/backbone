@@ -1,5 +1,4 @@
-Collema vesicatum Taylor SPECIES
-=======
+# Collema vesicatum Taylor SPECIES
 
 #### Status
 ACCEPTED

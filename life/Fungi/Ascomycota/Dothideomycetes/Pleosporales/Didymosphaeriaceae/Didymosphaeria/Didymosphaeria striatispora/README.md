@@ -1,5 +1,4 @@
-Didymosphaeria striatispora Nograsek SPECIES
-=======
+# Didymosphaeria striatispora Nograsek SPECIES
 
 #### Status
 ACCEPTED

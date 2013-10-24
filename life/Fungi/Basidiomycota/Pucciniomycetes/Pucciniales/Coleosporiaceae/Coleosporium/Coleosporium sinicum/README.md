@@ -1,5 +1,4 @@
-Coleosporium sinicum Mu Wang & J.Y. Zhuang SPECIES
-=======
+# Coleosporium sinicum Mu Wang & J.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

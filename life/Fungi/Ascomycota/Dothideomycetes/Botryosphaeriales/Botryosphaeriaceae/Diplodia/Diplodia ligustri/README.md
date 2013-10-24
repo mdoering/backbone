@@ -1,17 +1,16 @@
-Diplodia ligustri f. ovalifolii Brunaud FORM
-=======
+# Diplodia ligustri Westend., 1864 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Soc. R. Bot. Belg. 2: 244 (1864)
 
 #### Original name
-Diplodia ligustri f. ovalifolii Brunaud
+Diplodia ligustri Westend., 1864
 
 ### Remarks
 null

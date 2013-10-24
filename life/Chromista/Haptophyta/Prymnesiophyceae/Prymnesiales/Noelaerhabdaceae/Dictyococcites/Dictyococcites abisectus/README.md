@@ -1,5 +1,4 @@
-Dictyococcites abisectus SPECIES
-=======
+# Dictyococcites abisectus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora browalliae Chupp & Barrus SPECIES
-=======
+# Cercospora browalliae Chupp & Barrus SPECIES
 
 #### Status
 ACCEPTED

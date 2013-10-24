@@ -1,5 +1,4 @@
-Rhodophyllus tristissimus var. tristissimus VARIETY
-=======
+# Rhodophyllus tristissimus Romagn. & Gilles SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Beih. Nova Hedwigia 59: 394 (1979)
 
 #### Original name
-Rhodophyllus tristissimus var. tristissimus
+Rhodophyllus tristissimus Romagn. & Gilles
 
 ### Remarks
 null

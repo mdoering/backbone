@@ -1,5 +1,4 @@
-Desulfatirhabdium Balk et al., 2008 GENUS
-=======
+# Desulfatirhabdium Balk et al., 2008 GENUS
 
 #### Status
 ACCEPTED

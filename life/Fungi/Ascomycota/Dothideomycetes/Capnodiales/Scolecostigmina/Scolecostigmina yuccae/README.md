@@ -1,5 +1,4 @@
-Scolecostigmina yuccae (Cooke) Crous, U. Braun & Alfenas SPECIES
-=======
+# Scolecostigmina yuccae (Cooke) Crous, U. Braun & Alfenas SPECIES
 
 #### Status
 ACCEPTED

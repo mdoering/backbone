@@ -1,5 +1,4 @@
-Stragularia Strömfelt, 1886 GENUS
-=======
+# Stragularia Strömfelt, 1886 GENUS
 
 #### Status
 ACCEPTED

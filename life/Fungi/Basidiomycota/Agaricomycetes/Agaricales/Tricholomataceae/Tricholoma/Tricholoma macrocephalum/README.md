@@ -1,5 +1,4 @@
-Tricholoma macrocephalum (Schulzer) SPECIES
-=======
+# Tricholoma macrocephalum (Schulzer) SPECIES
 
 #### Status
 ACCEPTED

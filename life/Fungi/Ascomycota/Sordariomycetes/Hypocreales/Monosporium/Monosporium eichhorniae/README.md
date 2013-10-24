@@ -1,5 +1,4 @@
-Monosporium eichhorniae Sawada SPECIES
-=======
+# Monosporium eichhorniae Sawada SPECIES
 
 #### Status
 ACCEPTED

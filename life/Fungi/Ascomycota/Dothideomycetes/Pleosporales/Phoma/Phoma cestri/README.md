@@ -1,5 +1,4 @@
-Phoma cestri Traverso & Spessa SPECIES
-=======
+# Phoma cestri Traverso & Spessa SPECIES
 
 #### Status
 ACCEPTED

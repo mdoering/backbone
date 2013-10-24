@@ -1,5 +1,4 @@
-Bilamellophrya Foissner, Agatha & Berger, 2002 GENUS
-=======
+# Bilamellophrya Foissner, Agatha & Berger, 2002 GENUS
 
 #### Status
 ACCEPTED

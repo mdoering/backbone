@@ -1,5 +1,4 @@
-Cochlonema symplocum Drechsler, 1939 SPECIES
-=======
+# Cochlonema symplocum Drechsler, 1939 SPECIES
 
 #### Status
 ACCEPTED

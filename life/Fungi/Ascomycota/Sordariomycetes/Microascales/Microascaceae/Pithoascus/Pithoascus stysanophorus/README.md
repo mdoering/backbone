@@ -1,5 +1,4 @@
-Pithoascus stysanophorus (Mattir.) Valmaseda, A.T. Martínez & Barrasa SPECIES
-=======
+# Pithoascus stysanophorus (Mattir.) Valmaseda, A.T. Martínez & Barrasa SPECIES
 
 #### Status
 ACCEPTED

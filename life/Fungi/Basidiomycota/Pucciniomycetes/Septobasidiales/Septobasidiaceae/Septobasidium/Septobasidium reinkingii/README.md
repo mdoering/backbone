@@ -1,17 +1,16 @@
-Septobasidium reikingii Couch ex L.D. Gómez & Henk SPECIES
-=======
+# Septobasidium reinkingii Pat. ex Couch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+The Genus Septobasidium (Chapel Hill) 119 (1938)
 
 #### Original name
-Septobasidium reikingii Couch ex L.D. Gómez & Henk
+Septobasidium reinkingii Pat. ex Couch
 
 ### Remarks
 null

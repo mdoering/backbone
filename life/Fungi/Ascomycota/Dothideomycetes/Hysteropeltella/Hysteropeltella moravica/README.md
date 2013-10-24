@@ -1,5 +1,4 @@
-Hysteropeltella moravica Petr., 1923 SPECIES
-=======
+# Hysteropeltella moravica Petr., 1923 SPECIES
 
 #### Status
 ACCEPTED

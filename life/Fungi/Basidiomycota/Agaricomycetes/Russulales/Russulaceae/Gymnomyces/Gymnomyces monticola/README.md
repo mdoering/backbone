@@ -1,17 +1,16 @@
-Martellia monticola (Harkn.) Singer & A.H. Sm., 1961 SPECIES
-=======
+# Gymnomyces monticola (Harkn.) Trappe, T. Lebel & Castellano, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mem. Torrey bot. Club 21(3): 40 (1961)
+Mycotaxon 81: 200 (2002)
 
 #### Original name
-Hydnangium monticola (Harkn.) Zeller & C.W. Dodge, 1935
+Octaviania monticola Harkn., 1899
 
 ### Remarks
 null

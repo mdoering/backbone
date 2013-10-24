@@ -1,5 +1,4 @@
-Lasiosphaeria actinodes (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Lasiosphaeria actinodes (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

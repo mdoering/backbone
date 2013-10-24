@@ -1,5 +1,4 @@
-Titaeospora pterolobii T.S. Ramakr. & Sundaram SPECIES
-=======
+# Titaeospora pterolobii T.S. Ramakr. & Sundaram SPECIES
 
 #### Status
 ACCEPTED

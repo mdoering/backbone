@@ -1,5 +1,4 @@
-Chrysanthemum stunt SPECIES
-=======
+# Chrysanthemum stunt SPECIES
 
 #### Status
 ACCEPTED

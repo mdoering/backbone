@@ -1,5 +1,4 @@
-Fonsecaia Pinto, 1918 GENUS
-=======
+# Fonsecaia Pinto, 1918 GENUS
 
 #### Status
 ACCEPTED

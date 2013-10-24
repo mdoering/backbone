@@ -1,5 +1,4 @@
-Septoria subalpina Petr. SPECIES
-=======
+# Septoria subalpina Petr. SPECIES
 
 #### Status
 ACCEPTED

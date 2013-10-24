@@ -1,5 +1,4 @@
-Mycena ovispera Rick SPECIES
-=======
+# Mycena ovispera Rick SPECIES
 
 #### Status
 ACCEPTED

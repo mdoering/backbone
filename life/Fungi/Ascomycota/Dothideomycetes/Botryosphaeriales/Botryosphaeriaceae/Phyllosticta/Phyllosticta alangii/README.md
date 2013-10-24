@@ -1,5 +1,4 @@
-Phyllosticta alangii Hasija SPECIES
-=======
+# Phyllosticta alangii Hasija SPECIES
 
 #### Status
 ACCEPTED

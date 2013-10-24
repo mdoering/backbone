@@ -1,5 +1,4 @@
-Wettsteinina polygonorum Stepanova SPECIES
-=======
+# Wettsteinina polygonorum Stepanova SPECIES
 
 #### Status
 ACCEPTED

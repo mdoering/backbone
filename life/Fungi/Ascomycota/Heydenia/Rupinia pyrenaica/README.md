@@ -1,5 +1,4 @@
-Rupinia pyrenaica Speg. & Roum. SPECIES
-=======
+# Rupinia pyrenaica Speg. & Roum. SPECIES
 
 #### Status
 ACCEPTED

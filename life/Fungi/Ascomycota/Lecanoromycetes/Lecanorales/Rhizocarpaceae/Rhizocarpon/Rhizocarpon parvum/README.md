@@ -1,5 +1,4 @@
-Rhizocarpon parvum f. parvum FORM
-=======
+# Rhizocarpon parvum Runemark SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Rhizocarpon parvum f. parvum
+Rhizocarpon parvum Runemark
 
 ### Remarks
 null

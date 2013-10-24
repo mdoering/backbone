@@ -1,5 +1,4 @@
-Cliostomum vitellinum Gowan SPECIES
-=======
+# Cliostomum vitellinum Gowan SPECIES
 
 #### Status
 ACCEPTED

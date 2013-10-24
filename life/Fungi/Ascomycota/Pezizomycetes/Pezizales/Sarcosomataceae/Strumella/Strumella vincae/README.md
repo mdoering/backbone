@@ -1,5 +1,4 @@
-Strumella vincae Cooke & Harkn. SPECIES
-=======
+# Strumella vincae Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Podosphaera savulescui (Sandu) U. Braun & S. Takam. SPECIES
-=======
+# Podosphaera savulescui (Sandu) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

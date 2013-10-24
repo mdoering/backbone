@@ -1,5 +1,4 @@
-Jahniella Petr. GENUS
-=======
+# Jahniella Petr. GENUS
 
 #### Status
 ACCEPTED

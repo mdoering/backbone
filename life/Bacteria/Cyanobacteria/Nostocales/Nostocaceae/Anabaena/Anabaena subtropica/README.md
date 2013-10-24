@@ -1,5 +1,4 @@
-Anabaena subtropica N. L. Gardner SPECIES
-=======
+# Anabaena subtropica N. L. Gardner SPECIES
 
 #### Status
 ACCEPTED

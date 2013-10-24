@@ -1,5 +1,4 @@
-Basidiodendron fulvum (Massee) Ginns SPECIES
-=======
+# Basidiodendron fulvum (Massee) Ginns SPECIES
 
 #### Status
 ACCEPTED

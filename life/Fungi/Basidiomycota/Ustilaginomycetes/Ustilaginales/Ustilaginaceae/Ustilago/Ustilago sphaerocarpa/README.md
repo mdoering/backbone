@@ -1,5 +1,4 @@
-Ustilago sphaerocarpa Syd. & P. Syd. SPECIES
-=======
+# Ustilago sphaerocarpa Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

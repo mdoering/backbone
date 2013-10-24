@@ -1,5 +1,4 @@
-Pestalotia siliquastri var. siliquastri VARIETY
-=======
+# Pestalotia siliquastri Thüm. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pestalotia siliquastri var. siliquastri
+Pestalotia siliquastri Thüm.
 
 ### Remarks
 null

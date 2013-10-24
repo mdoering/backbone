@@ -1,5 +1,4 @@
-Phragmidium handelii Petr. SPECIES
-=======
+# Phragmidium handelii Petr. SPECIES
 
 #### Status
 ACCEPTED

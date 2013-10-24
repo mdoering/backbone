@@ -1,5 +1,4 @@
-Asterodothis Theiss. GENUS
-=======
+# Asterodothis Theiss. GENUS
 
 #### Status
 ACCEPTED

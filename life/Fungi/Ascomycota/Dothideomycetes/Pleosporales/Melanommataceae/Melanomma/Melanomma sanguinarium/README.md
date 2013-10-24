@@ -1,5 +1,4 @@
-Melanomma sanguinarium (P. Karst.) Sacc., 1883 SPECIES
-=======
+# Melanomma sanguinarium (P. Karst.) Sacc., 1883 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthrinium urticae M.B. Ellis, 1965 SPECIES
-=======
+# Arthrinium urticae M.B. Ellis, 1965 SPECIES
 
 #### Status
 ACCEPTED

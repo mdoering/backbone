@@ -1,5 +1,4 @@
-Stagonospora pellucida Bubák & Dearn. SPECIES
-=======
+# Stagonospora pellucida Bubák & Dearn. SPECIES
 
 #### Status
 ACCEPTED

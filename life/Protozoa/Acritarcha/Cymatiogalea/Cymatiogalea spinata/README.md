@@ -1,5 +1,4 @@
-Cymatiogalea spinata Yin Leiming, 1995 SPECIES
-=======
+# Cymatiogalea spinata Yin Leiming, 1995 SPECIES
 
 #### Status
 ACCEPTED

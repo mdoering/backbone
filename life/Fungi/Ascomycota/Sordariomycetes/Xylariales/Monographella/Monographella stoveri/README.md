@@ -1,14 +1,13 @@
-Micronectriella stoveri C. Booth, 1964 SPECIES
-=======
+# Monographella stoveri (C. Booth) Samuels & I.C. Hallett, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 94: 3 (1964)
+Trans. Br. mycol. Soc. 81(3): 473 (1983)
 
 #### Original name
 Micronectriella stoveri C. Booth, 1964

@@ -1,14 +1,13 @@
-Coprinus disseminatus var. disseminatus VARIETY
-=======
+# Coprinellus disseminatus (Pers.) J.E. Lange, 1938 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nat. Arr. Brit. Pl. (London) 1: 634 (1821)
+Dansk bot. Ark. 9(no. 6): 93 (1938)
 
 #### Original name
 Agaricus disseminatus Schumach., 1803

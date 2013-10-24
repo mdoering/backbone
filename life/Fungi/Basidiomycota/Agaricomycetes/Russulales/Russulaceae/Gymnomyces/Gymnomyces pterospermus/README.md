@@ -1,5 +1,4 @@
-Gymnomyces pterospermus T. Lebel, 2003 SPECIES
-=======
+# Gymnomyces pterospermus T. Lebel, 2003 SPECIES
 
 #### Status
 ACCEPTED

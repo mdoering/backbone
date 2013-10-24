@@ -1,5 +1,4 @@
-Nectria jucunda Mont. SPECIES
-=======
+# Nectria jucunda Mont. SPECIES
 
 #### Status
 ACCEPTED

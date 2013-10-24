@@ -1,5 +1,4 @@
-Phyllobathelium albolinitum (Nyl.) H. Mayrhofer SPECIES
-=======
+# Phyllobathelium albolinitum (Nyl.) H. Mayrhofer SPECIES
 
 #### Status
 ACCEPTED

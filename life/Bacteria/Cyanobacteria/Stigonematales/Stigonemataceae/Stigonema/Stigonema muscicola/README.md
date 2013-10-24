@@ -1,5 +1,4 @@
-Stigonema muscicola (Thuret) Borzi SPECIES
-=======
+# Stigonema muscicola (Thuret) Borzi SPECIES
 
 #### Status
 ACCEPTED

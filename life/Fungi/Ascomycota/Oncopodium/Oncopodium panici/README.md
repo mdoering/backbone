@@ -1,5 +1,4 @@
-Oncopodium panici H.J. Huds. SPECIES
-=======
+# Oncopodium panici H.J. Huds. SPECIES
 
 #### Status
 ACCEPTED

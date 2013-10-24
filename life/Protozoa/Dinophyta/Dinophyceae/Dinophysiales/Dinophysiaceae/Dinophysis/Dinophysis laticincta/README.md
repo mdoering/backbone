@@ -1,5 +1,4 @@
-Dinophysis laticincta Balech, 1979 SPECIES
-=======
+# Dinophysis laticincta Balech, 1979 SPECIES
 
 #### Status
 ACCEPTED

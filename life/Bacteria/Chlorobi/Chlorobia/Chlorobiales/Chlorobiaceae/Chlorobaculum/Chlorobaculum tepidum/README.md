@@ -1,8 +1,7 @@
-Chlorobium tepidum Wahlund et al., 1996 SPECIES
-=======
+# Chlorobaculum tepidum (Wahlund et al., 1996) Imhoff, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Usnea tatrana Räsänen SPECIES
-=======
+# Usnea tatrana Räsänen SPECIES
 
 #### Status
 ACCEPTED

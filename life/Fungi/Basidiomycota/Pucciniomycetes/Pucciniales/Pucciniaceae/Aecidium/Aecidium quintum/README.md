@@ -1,5 +1,4 @@
-Aecidium quintum Syd. & P. Syd. SPECIES
-=======
+# Aecidium quintum Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

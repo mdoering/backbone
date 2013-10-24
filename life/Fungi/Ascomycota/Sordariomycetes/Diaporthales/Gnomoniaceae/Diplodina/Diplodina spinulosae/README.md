@@ -1,5 +1,4 @@
-Diplodina spinulosae Henn. SPECIES
-=======
+# Diplodina spinulosae Henn. SPECIES
 
 #### Status
 ACCEPTED

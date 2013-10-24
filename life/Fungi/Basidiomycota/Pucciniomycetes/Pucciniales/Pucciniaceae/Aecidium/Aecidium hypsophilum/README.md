@@ -1,5 +1,4 @@
-Aecidium hypsophilum Speg. SPECIES
-=======
+# Aecidium hypsophilum Speg. SPECIES
 
 #### Status
 ACCEPTED

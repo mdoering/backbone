@@ -1,5 +1,4 @@
-Cladonia rotundata Ahti SPECIES
-=======
+# Cladonia rotundata Ahti SPECIES
 
 #### Status
 ACCEPTED

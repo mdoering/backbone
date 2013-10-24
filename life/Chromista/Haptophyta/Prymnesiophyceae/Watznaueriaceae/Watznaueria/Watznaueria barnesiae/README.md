@@ -1,5 +1,4 @@
-Watznaueria barnesiae SPECIES
-=======
+# Watznaueria barnesiae SPECIES
 
 #### Status
 ACCEPTED

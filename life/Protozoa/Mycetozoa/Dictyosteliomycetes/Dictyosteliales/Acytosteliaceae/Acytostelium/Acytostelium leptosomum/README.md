@@ -1,5 +1,4 @@
-Acytostelium leptosomum Raper, 1956 SPECIES
-=======
+# Acytostelium leptosomum Raper, 1956 SPECIES
 
 #### Status
 ACCEPTED

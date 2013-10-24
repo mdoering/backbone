@@ -1,5 +1,4 @@
-Humarina indica K.S. Thind, E.K. Cash & Pr. Singh SPECIES
-=======
+# Humarina indica K.S. Thind, E.K. Cash & Pr. Singh SPECIES
 
 #### Status
 ACCEPTED

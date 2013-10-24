@@ -1,5 +1,4 @@
-Cercosporella tubercularioides Speg. SPECIES
-=======
+# Cercosporella tubercularioides Speg. SPECIES
 
 #### Status
 ACCEPTED

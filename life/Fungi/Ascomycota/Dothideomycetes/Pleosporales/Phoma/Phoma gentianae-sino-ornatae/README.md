@@ -1,5 +1,4 @@
-Phoma gentianae-sino-ornatae Punith. & R. Harling, 1993 SPECIES
-=======
+# Phoma gentianae-sino-ornatae Punith. & R. Harling, 1993 SPECIES
 
 #### Status
 ACCEPTED

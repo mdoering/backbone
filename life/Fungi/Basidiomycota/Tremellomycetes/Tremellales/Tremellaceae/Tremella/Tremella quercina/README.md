@@ -1,5 +1,4 @@
-Tremella quercina Pollini SPECIES
-=======
+# Tremella quercina Pollini SPECIES
 
 #### Status
 ACCEPTED

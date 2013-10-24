@@ -1,5 +1,4 @@
-Ophioparma pseudohandelii (Asahina) Printzen & Rambold SPECIES
-=======
+# Ophioparma pseudohandelii (Asahina) Printzen & Rambold SPECIES
 
 #### Status
 ACCEPTED

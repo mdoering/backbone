@@ -1,5 +1,4 @@
-Lopadium heterosporum (A. Massal.) Zahlbr. SPECIES
-=======
+# Lopadium heterosporum (A. Massal.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

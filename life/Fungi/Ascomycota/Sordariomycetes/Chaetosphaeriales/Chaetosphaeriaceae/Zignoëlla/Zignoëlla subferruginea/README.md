@@ -1,5 +1,4 @@
-Zignoëlla subferruginea (Fuckel) Sacc. SPECIES
-=======
+# Zignoëlla subferruginea (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeographina rugulosa (Vain.) Zahlbr. SPECIES
-=======
+# Phaeographina rugulosa (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

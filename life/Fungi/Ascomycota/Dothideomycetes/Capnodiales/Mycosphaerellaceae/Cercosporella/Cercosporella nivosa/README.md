@@ -1,5 +1,4 @@
-Cercosporella nivosa Ellis & Everh. SPECIES
-=======
+# Cercosporella nivosa Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

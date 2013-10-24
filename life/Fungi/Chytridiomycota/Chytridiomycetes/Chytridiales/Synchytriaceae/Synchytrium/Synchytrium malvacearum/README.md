@@ -1,5 +1,4 @@
-Synchytrium malvacearum Bharadwaj & R.S. Dwivedi SPECIES
-=======
+# Synchytrium malvacearum Bharadwaj & R.S. Dwivedi SPECIES
 
 #### Status
 ACCEPTED

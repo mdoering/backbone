@@ -1,14 +1,13 @@
-Melanconiella corni (Wehm.) Petr., 1952 SPECIES
-=======
+# Melanconis corni Wehm., 1940 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 6(1-4): 15 (1952)
+Mycologia 32: 324 (1940)
 
 #### Original name
 Melanconis corni Wehm., 1940

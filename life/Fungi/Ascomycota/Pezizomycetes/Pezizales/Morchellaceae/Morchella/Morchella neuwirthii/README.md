@@ -1,5 +1,4 @@
-Morchella neuwirthii Velen. SPECIES
-=======
+# Morchella neuwirthii Velen. SPECIES
 
 #### Status
 ACCEPTED

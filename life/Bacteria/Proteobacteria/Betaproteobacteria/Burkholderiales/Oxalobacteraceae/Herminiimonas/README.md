@@ -1,5 +1,4 @@
-Herminiimonas Fernandes et al., 2005 GENUS
-=======
+# Herminiimonas Fernandes et al., 2005 GENUS
 
 #### Status
 ACCEPTED

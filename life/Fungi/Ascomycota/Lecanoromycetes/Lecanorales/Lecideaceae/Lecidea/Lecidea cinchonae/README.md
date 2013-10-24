@@ -1,5 +1,4 @@
-Lecidea cinchonae SPECIES
-=======
+# Lecidea cinchonae SPECIES
 
 #### Status
 ACCEPTED

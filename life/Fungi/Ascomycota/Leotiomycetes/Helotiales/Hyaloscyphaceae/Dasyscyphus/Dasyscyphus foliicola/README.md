@@ -1,14 +1,13 @@
-Dasyscypha foliicola (Keissl.) Dennis SPECIES
-=======
+# Dasyscyphus foliicola (Keissl.) Dennis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Öst. bot. Z. 73: 123 (1963)
 
 #### Original name
 Lachnum foliicola Keissl.

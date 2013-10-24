@@ -1,5 +1,4 @@
-Spumella elongata (Stokes) J.H.Belcher & Swale SPECIES
-=======
+# Spumella elongata (Stokes) J.H.Belcher & Swale SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mucor dimiaei Schulzer SPECIES
-=======
+# Mucor dimiaei Schulzer SPECIES
 
 #### Status
 ACCEPTED

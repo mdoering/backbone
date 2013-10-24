@@ -1,5 +1,4 @@
-Amygdalaria haidensis Brodo & Hertel SPECIES
-=======
+# Amygdalaria haidensis Brodo & Hertel SPECIES
 
 #### Status
 ACCEPTED

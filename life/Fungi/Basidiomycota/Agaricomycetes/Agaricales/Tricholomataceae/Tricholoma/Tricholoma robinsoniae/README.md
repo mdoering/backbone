@@ -1,5 +1,4 @@
-Tricholoma robinsoniae (Murrill) Sacc. & Trotter SPECIES
-=======
+# Tricholoma robinsoniae (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

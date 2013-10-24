@@ -1,5 +1,4 @@
-Puccinia turgenica Schmied. SPECIES
-=======
+# Puccinia turgenica Schmied. SPECIES
 
 #### Status
 ACCEPTED

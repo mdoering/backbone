@@ -1,5 +1,4 @@
-Paracollinia Yankovskij, 1980 GENUS
-=======
+# Paracollinia Yankovskij, 1980 GENUS
 
 #### Status
 ACCEPTED

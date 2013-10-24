@@ -1,5 +1,4 @@
-Inocybe vatricosoides Peck SPECIES
-=======
+# Inocybe vatricosoides Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trametes cookei Sacc. SPECIES
-=======
+# Trametes cookei Sacc. SPECIES
 
 #### Status
 ACCEPTED

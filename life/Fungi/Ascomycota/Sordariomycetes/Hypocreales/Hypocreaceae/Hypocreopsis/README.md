@@ -1,17 +1,16 @@
-Dozya P. Karsten, 1873 GENUS
-=======
+# Hypocreopsis P. Karsten, 1873 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bidr. Känn. Finl. Nat. Folk 23: 28, 221 (1873)
+Bidr. Känn. Finl. Nat. Folk 23: 251 (1873)
 
 #### Original name
-Dozya P. Karsten, 1873
+Hypocreopsis P. Karsten, 1873
 
 ### Remarks
 null

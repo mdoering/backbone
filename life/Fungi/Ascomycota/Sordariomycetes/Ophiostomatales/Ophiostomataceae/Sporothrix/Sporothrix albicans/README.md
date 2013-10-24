@@ -1,5 +1,4 @@
-Sporothrix albicans S.B. Saksena, 1965 SPECIES
-=======
+# Sporothrix albicans S.B. Saksena, 1965 SPECIES
 
 #### Status
 ACCEPTED

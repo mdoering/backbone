@@ -1,5 +1,4 @@
-Physcia pterygioides Vain. SPECIES
-=======
+# Physcia pterygioides Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Omphalaria borzii (Beltr.) Forssell SPECIES
-=======
+# Omphalaria borzii (Beltr.) Forssell SPECIES
 
 #### Status
 ACCEPTED

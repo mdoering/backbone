@@ -1,5 +1,4 @@
-Pucciniosira brickelliae Dietel & Holw., 1897 SPECIES
-=======
+# Pucciniosira brickelliae Dietel & Holw., 1897 SPECIES
 
 #### Status
 ACCEPTED

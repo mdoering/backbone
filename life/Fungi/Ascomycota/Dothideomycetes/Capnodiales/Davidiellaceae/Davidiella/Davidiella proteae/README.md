@@ -1,5 +1,4 @@
-Davidiella proteae Crous, M.J. Wingf. & Marinc., 2008 SPECIES
-=======
+# Davidiella proteae Crous, M.J. Wingf. & Marinc., 2008 SPECIES
 
 #### Status
 ACCEPTED

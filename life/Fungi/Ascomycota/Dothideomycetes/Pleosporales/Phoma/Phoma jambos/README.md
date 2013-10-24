@@ -1,5 +1,4 @@
-Phoma jambos Tassi SPECIES
-=======
+# Phoma jambos Tassi SPECIES
 
 #### Status
 ACCEPTED

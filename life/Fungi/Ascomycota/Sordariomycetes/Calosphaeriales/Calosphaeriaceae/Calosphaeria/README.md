@@ -1,5 +1,4 @@
-Calosphaeria Tulasne & C. Tulasne, 1863 GENUS
-=======
+# Calosphaeria Tulasne & C. Tulasne, 1863 GENUS
 
 #### Status
 ACCEPTED

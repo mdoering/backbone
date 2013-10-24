@@ -1,5 +1,4 @@
-Elliobiocystis tuberosus Coutière, 1911 SPECIES
-=======
+# Elliobiocystis tuberosus Coutière, 1911 SPECIES
 
 #### Status
 ACCEPTED

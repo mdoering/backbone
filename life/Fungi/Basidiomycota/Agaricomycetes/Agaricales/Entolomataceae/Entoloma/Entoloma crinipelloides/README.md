@@ -1,5 +1,4 @@
-Entoloma crinipelloides (Singer) Singer SPECIES
-=======
+# Entoloma crinipelloides (Singer) Singer SPECIES
 
 #### Status
 ACCEPTED

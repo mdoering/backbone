@@ -1,5 +1,4 @@
-Umbilicaria hawaiiensis H. Magn. SPECIES
-=======
+# Umbilicaria hawaiiensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Phoma lycopersici (Plowr.) Jacz., 1898 SPECIES
-=======
+# Didymella lycopersici Kleb., 1921 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Z. PflKrankh. 31: 9 (1921)
 
 #### Original name
-Sphaeronaema lycopersici Plowr., 1881
+Didymella lycopersici Kleb., 1921
 
 ### Remarks
 null

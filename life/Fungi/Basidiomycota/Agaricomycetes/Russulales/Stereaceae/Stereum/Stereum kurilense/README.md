@@ -1,5 +1,4 @@
-Stereum kurilense Yasuda SPECIES
-=======
+# Stereum kurilense Yasuda SPECIES
 
 #### Status
 ACCEPTED

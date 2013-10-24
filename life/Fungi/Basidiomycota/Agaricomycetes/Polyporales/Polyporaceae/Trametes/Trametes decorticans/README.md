@@ -1,5 +1,4 @@
-Trametes decorticans Corner SPECIES
-=======
+# Trametes decorticans Corner SPECIES
 
 #### Status
 ACCEPTED

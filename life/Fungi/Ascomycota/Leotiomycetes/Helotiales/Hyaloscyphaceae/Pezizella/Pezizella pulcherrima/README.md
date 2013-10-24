@@ -1,5 +1,4 @@
-Pezizella pulcherrima Spooner & Dennis, 1986 SPECIES
-=======
+# Pezizella pulcherrima Spooner & Dennis, 1986 SPECIES
 
 #### Status
 ACCEPTED

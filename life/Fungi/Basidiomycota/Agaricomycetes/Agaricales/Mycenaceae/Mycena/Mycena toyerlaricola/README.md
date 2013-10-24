@@ -1,5 +1,4 @@
-Mycena toyerlaricola Grgur. SPECIES
-=======
+# Mycena toyerlaricola Grgur. SPECIES
 
 #### Status
 ACCEPTED

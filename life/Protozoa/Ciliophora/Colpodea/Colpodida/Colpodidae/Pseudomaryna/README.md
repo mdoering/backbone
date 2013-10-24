@@ -1,5 +1,4 @@
-Pseudomaryna Foissner, 2003 GENUS
-=======
+# Pseudomaryna Foissner, 2003 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius tephromelanus Singer SPECIES
-=======
+# Marasmius tephromelanus Singer SPECIES
 
 #### Status
 ACCEPTED

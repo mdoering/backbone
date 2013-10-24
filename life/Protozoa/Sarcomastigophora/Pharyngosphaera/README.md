@@ -1,5 +1,4 @@
-Pharyngosphaera Haeckel, 1887 GENUS
-=======
+# Pharyngosphaera Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

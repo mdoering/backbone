@@ -1,5 +1,4 @@
-Chrysomyxa expansa Dietel, 1900 SPECIES
-=======
+# Chrysomyxa expansa Dietel, 1900 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bolbitius marginatipes Zeller SPECIES
-=======
+# Bolbitius marginatipes Zeller SPECIES
 
 #### Status
 ACCEPTED

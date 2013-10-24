@@ -1,5 +1,4 @@
-Sarcinella prestoniae (Henn.) SPECIES
-=======
+# Sarcinella prestoniae (Henn.) SPECIES
 
 #### Status
 ACCEPTED

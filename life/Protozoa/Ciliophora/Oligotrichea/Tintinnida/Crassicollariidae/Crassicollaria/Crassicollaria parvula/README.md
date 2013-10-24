@@ -1,5 +1,4 @@
-Crassicollaria parvula Remane, 1962 SPECIES
-=======
+# Crassicollaria parvula Remane, 1962 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Triloculinella pilasensis (McCulloch, 1977) SPECIES
-=======
+# Triloculinella pilasensis (McCulloch, 1977) SPECIES
 
 #### Status
 ACCEPTED

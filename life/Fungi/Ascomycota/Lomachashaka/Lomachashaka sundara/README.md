@@ -1,5 +1,4 @@
-Lomachashaka sundara Nag Raj, 1995 SPECIES
-=======
+# Lomachashaka sundara Nag Raj, 1995 SPECIES
 
 #### Status
 ACCEPTED

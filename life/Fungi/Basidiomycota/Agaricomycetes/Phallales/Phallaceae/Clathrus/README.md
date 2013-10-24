@@ -1,17 +1,16 @@
-Linderiella G. Cunningham, 1942 GENUS
-=======
+# Clathrus P. Micheli ex Linnaeus, 1753 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-N. Z. Jl Sci. Technol. , ser. B 23B: 171 (1942)
+Sp. pl. 2: 1179 (1753)
 
 #### Original name
-Linderiella G. Cunningham, 1942
+Clathrus P. Micheli ex Linnaeus, 1753
 
 ### Remarks
 null

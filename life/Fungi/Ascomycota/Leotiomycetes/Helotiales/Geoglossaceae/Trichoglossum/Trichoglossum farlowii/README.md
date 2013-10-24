@@ -1,5 +1,4 @@
-Trichoglossum farlowii var. farlowii VARIETY
-=======
+# Trichoglossum farlowii (Cooke) E.J. Durand SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Trichoglossum farlowii var. farlowii
+Geoglossum farlowii Cooke
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Wallemiaceae R.T. Moore FAMILY
-=======
+# Wallemiaceae R.T. Moore FAMILY
 
 #### Status
 ACCEPTED

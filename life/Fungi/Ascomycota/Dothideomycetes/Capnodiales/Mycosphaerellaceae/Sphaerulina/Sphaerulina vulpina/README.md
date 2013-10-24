@@ -1,5 +1,4 @@
-Sphaerulina vulpina F. Lamb. & Fautrey SPECIES
-=======
+# Sphaerulina vulpina F. Lamb. & Fautrey SPECIES
 
 #### Status
 ACCEPTED

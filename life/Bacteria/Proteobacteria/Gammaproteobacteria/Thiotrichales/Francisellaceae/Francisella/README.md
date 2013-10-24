@@ -1,5 +1,4 @@
-Francisella GENUS
-=======
+# Francisella GENUS
 
 #### Status
 ACCEPTED

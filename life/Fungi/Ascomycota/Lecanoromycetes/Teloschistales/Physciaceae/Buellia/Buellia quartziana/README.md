@@ -1,5 +1,4 @@
-Buellia quartziana S.R. Singh & D.D. Awasthi SPECIES
-=======
+# Buellia quartziana S.R. Singh & D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

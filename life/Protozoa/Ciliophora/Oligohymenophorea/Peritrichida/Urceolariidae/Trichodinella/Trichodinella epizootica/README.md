@@ -1,8 +1,7 @@
-Trichodina carassi Dogiel, 1940 SPECIES
-=======
+# Trichodinella epizootica (Raabe, 1950) Srámek-Husek, 1953 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

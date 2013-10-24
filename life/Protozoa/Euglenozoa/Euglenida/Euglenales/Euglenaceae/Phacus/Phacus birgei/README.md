@@ -1,5 +1,4 @@
-Phacus birgei Prescott SPECIES
-=======
+# Phacus birgei Prescott SPECIES
 
 #### Status
 ACCEPTED

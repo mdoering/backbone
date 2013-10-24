@@ -1,5 +1,4 @@
-Oxydothis luteaspora K.D. Hyde SPECIES
-=======
+# Oxydothis luteaspora K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

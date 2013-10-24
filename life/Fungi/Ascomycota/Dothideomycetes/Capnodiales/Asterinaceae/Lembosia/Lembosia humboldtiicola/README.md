@@ -1,5 +1,4 @@
-Lembosia humboldtiicola Hosag., Sabeena & Jac. Thomas, 2008 SPECIES
-=======
+# Lembosia humboldtiicola Hosag., Sabeena & Jac. Thomas, 2008 SPECIES
 
 #### Status
 ACCEPTED

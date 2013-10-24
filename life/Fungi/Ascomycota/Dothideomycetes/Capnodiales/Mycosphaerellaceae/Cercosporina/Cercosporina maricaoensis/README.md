@@ -1,5 +1,4 @@
-Cercosporina maricaoensis (E. Young) Sacc. SPECIES
-=======
+# Cercosporina maricaoensis (E. Young) Sacc. SPECIES
 
 #### Status
 ACCEPTED

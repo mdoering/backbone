@@ -1,5 +1,4 @@
-Dicaeoma potentillae (Schwein.) Kuntze SPECIES
-=======
+# Dicaeoma potentillae (Schwein.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

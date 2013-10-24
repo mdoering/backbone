@@ -1,5 +1,4 @@
-Panus arenicola Berk. SPECIES
-=======
+# Panus arenicola Berk. SPECIES
 
 #### Status
 ACCEPTED

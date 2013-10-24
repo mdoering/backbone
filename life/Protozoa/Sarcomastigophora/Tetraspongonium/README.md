@@ -1,5 +1,4 @@
-Tetraspongonium Haeckel, 1881 GENUS
-=======
+# Tetraspongonium Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

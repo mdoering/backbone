@@ -1,5 +1,4 @@
-Meliola litseae var. litseae VARIETY
-=======
+# Meliola litseae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 15(3/4): 187 (1917)
 
 #### Original name
-Meliola litseae var. litseae
+Meliola litseae Syd. & P. Syd.
 
 ### Remarks
 null

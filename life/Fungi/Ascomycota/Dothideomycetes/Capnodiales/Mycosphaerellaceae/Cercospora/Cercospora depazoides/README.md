@@ -1,5 +1,4 @@
-Cercospora depazoides (Desm.) Sacc. SPECIES
-=======
+# Cercospora depazoides (Desm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

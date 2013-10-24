@@ -1,5 +1,4 @@
-Asterodinium gracile Sournia SPECIES
-=======
+# Asterodinium gracile Sournia SPECIES
 
 #### Status
 ACCEPTED

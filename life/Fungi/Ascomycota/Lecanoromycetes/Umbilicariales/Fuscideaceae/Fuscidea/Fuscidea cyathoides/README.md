@@ -1,17 +1,16 @@
-Lecidea cyathoides var. cyathoides VARIETY
-=======
+# Fuscidea cyathoides (Ach.) V. Wirth & Vezda SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Method. Lich. 51 (1803)
+null
 
 #### Original name
-Lecidea cyathoides var. cyathoides
+null
 
 ### Remarks
 null

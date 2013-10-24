@@ -1,5 +1,4 @@
-Melasmia ribicola Cooke & Massee SPECIES
-=======
+# Melasmia ribicola Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

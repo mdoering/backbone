@@ -1,5 +1,4 @@
-Lecideopsis caeruleoatra Höhn. SPECIES
-=======
+# Lecideopsis caeruleoatra Höhn. SPECIES
 
 #### Status
 ACCEPTED

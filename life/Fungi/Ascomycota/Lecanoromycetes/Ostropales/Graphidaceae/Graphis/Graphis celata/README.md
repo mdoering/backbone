@@ -1,14 +1,13 @@
-Graphis coenensis A.W. Archer SPECIES
-=======
+# Graphis celata (A.W. Archer) A.W. Archer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Australasian Lichenology 60: 13 (2007)
+Telopea 11(1): 72 (2005)
 
 #### Original name
 Graphina celata A.W. Archer

@@ -1,5 +1,4 @@
-Baltisphaeridium verrucatesspinosa Tynni, 1975 SPECIES
-=======
+# Baltisphaeridium verrucatesspinosa Tynni, 1975 SPECIES
 
 #### Status
 ACCEPTED

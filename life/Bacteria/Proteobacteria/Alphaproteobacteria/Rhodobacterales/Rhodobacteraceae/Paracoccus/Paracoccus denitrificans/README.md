@@ -1,5 +1,4 @@
-Paracoccus denitrificans (Beijerinck and Minkman, 1910) Davis, 1969 (Approved Lists, 1980) SPECIES
-=======
+# Paracoccus denitrificans (Beijerinck and Minkman, 1910) Davis, 1969 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

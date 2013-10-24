@@ -1,5 +1,4 @@
-Puccinia caleae Arthur SPECIES
-=======
+# Puccinia caleae Arthur SPECIES
 
 #### Status
 ACCEPTED

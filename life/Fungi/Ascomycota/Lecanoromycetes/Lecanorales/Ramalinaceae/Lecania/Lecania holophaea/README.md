@@ -1,5 +1,4 @@
-Lecania holophaea SPECIES
-=======
+# Lecania holophaea SPECIES
 
 #### Status
 ACCEPTED

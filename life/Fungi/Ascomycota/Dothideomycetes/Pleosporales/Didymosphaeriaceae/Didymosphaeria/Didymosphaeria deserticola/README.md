@@ -1,5 +1,4 @@
-Didymosphaeria deserticola Frolov SPECIES
-=======
+# Didymosphaeria deserticola Frolov SPECIES
 
 #### Status
 ACCEPTED

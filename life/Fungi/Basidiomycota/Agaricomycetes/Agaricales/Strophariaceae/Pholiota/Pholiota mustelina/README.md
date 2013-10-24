@@ -1,5 +1,4 @@
-Pholiota mustelina (Fr.) Quél. SPECIES
-=======
+# Pholiota mustelina (Fr.) Quél. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporormia indica P.N. Mathur & Thirum. SPECIES
-=======
+# Sporormia indica P.N. Mathur & Thirum. SPECIES
 
 #### Status
 ACCEPTED

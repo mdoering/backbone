@@ -1,5 +1,4 @@
-Cryptodiscus pruinosus Rabenh. SPECIES
-=======
+# Cryptodiscus pruinosus Rabenh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Passalora platyspora (Ellis & Holw.) U. Braun SPECIES
-=======
+# Passalora platyspora (Ellis & Holw.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeosporium hians Penz. & Sacc. SPECIES
-=======
+# Gloeosporium hians Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clintoniella rhytidospora (Ces.) Sacc. & P. Syd. SPECIES
-=======
+# Clintoniella rhytidospora (Ces.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

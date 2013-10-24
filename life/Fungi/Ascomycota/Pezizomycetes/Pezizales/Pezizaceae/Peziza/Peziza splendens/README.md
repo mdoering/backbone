@@ -1,5 +1,4 @@
-Peziza splendens var. splendens VARIETY
-=======
+# Peziza splendens Quél. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Peziza splendens var. splendens
+Peziza splendens Quél.
 
 ### Remarks
 null

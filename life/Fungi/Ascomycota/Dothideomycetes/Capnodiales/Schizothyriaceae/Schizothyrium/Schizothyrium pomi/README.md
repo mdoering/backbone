@@ -1,17 +1,16 @@
-Gyrothyrium westerdijkiae Arx, 1950 SPECIES
-=======
+# Schizothyrium pomi (Mont. & Fr.) Arx, 1959 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Proc. K. Ned. Akad. Wet. , Ser. C, Biol. Med. Sci. 62: 336 (1959)
 
 #### Original name
-null
+Labrella pomi Mont., 1834
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Coleosporium lonicerae Y.Z. Wang & S.X. Wei SPECIES
-=======
+# Coleosporium lonicerae Y.Z. Wang & S.X. Wei SPECIES
 
 #### Status
 ACCEPTED

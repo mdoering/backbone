@@ -1,5 +1,4 @@
-Acidithiobacillales ORDER
-=======
+# Acidithiobacillales ORDER
 
 #### Status
 ACCEPTED

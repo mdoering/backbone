@@ -1,14 +1,13 @@
-Imbricaria acetabulum f. acetabulum FORM
-=======
+# Pleurosticta acetabulum (Neck.) Elix & Lumbsch SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Lumbsch, Kothe & Elix, Mycotaxon 33: 453 (1988)
 
 #### Original name
 Lichen acetabulum Neck.

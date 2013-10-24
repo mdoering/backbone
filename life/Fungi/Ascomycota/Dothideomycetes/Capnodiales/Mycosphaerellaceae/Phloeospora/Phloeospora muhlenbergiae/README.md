@@ -1,17 +1,16 @@
-Phloeospora muehlenbergiae R. Sprague & Solheim SPECIES
-=======
+# Phloeospora muhlenbergiae R. Sprague & Solheim SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 41(6): 628 (1950)
 
 #### Original name
-Phloeospora muehlenbergiae R. Sprague & Solheim
+Phloeospora muhlenbergiae R. Sprague & Solheim
 
 ### Remarks
 null

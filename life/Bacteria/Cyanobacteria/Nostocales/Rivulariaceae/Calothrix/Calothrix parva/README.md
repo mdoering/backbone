@@ -1,5 +1,4 @@
-Calothrix parva Ercegovic SPECIES
-=======
+# Calothrix parva Ercegovic SPECIES
 
 #### Status
 ACCEPTED

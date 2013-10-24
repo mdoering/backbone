@@ -1,5 +1,4 @@
-Usnea impressula H. Magn. SPECIES
-=======
+# Usnea impressula H. Magn. SPECIES
 
 #### Status
 ACCEPTED

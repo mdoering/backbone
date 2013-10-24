@@ -1,5 +1,4 @@
-Ocellularia subcrassula (Vain.) Zahlbr. SPECIES
-=======
+# Ocellularia subcrassula (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

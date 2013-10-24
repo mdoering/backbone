@@ -1,5 +1,4 @@
-Buellia almorensis S.R. Singh & D.D. Awasthi SPECIES
-=======
+# Buellia almorensis S.R. Singh & D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Cylindrocladium camelliae Venkataram. & C.S.V. Ram, 1961 SPECIES
-=======
+# Cylindrocladiella camelliae (Venkataram. & C.S.V. Ram) Boesew., 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Curr. Sci. 30: 186 (1961)
+Can. J. Bot. 60(11): 2289 (1982)
 
 #### Original name
 Cylindrocladium camelliae Venkataram. & C.S.V. Ram, 1961

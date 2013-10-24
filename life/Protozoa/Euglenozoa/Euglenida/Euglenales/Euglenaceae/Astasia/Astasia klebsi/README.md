@@ -1,5 +1,4 @@
-Astasia klebsi SPECIES
-=======
+# Astasia klebsi SPECIES
 
 #### Status
 ACCEPTED

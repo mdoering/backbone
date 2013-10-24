@@ -1,5 +1,4 @@
-Cercospora chusqueae Chupp SPECIES
-=======
+# Cercospora chusqueae Chupp SPECIES
 
 #### Status
 ACCEPTED

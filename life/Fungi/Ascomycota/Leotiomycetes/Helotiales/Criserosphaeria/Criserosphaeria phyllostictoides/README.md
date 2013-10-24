@@ -1,5 +1,4 @@
-Criserosphaeria phyllostictoides Speg., 1912 SPECIES
-=======
+# Criserosphaeria phyllostictoides Speg., 1912 SPECIES
 
 #### Status
 ACCEPTED

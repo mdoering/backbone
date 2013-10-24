@@ -1,5 +1,4 @@
-Lactarius obnubiloides Thiers SPECIES
-=======
+# Lactarius obnubiloides Thiers SPECIES
 
 #### Status
 ACCEPTED

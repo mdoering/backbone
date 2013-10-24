@@ -1,5 +1,4 @@
-Sphaeronaema circinans Peyl SPECIES
-=======
+# Sphaeronaema circinans Peyl SPECIES
 
 #### Status
 ACCEPTED

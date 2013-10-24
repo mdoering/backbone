@@ -1,5 +1,4 @@
-Cordyceps racemosa Berk. SPECIES
-=======
+# Cordyceps racemosa Berk. SPECIES
 
 #### Status
 ACCEPTED

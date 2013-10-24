@@ -1,5 +1,4 @@
-Polyporus violaceus (Wakef.) SPECIES
-=======
+# Polyporus violaceus (Wakef.) SPECIES
 
 #### Status
 ACCEPTED

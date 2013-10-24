@@ -1,5 +1,4 @@
-Cercospora piperina J.M. Yen SPECIES
-=======
+# Cercospora piperina J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

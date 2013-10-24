@@ -1,5 +1,4 @@
-Cosmospora sansevieriae (Bat., J.L. Bezerra & C.R. Almeida) Rossman & Samuels SPECIES
-=======
+# Cosmospora sansevieriae (Bat., J.L. Bezerra & C.R. Almeida) Rossman & Samuels SPECIES
 
 #### Status
 ACCEPTED

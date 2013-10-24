@@ -1,5 +1,4 @@
-Peziza truncatula Rebent. SPECIES
-=======
+# Peziza truncatula Rebent. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniothyrium fuligineum (P. Karst.) Sacc. SPECIES
-=======
+# Coniothyrium fuligineum (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

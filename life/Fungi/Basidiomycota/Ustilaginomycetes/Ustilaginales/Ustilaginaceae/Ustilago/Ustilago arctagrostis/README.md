@@ -1,5 +1,4 @@
-Ustilago arctagrostis Roiv. SPECIES
-=======
+# Ustilago arctagrostis Roiv. SPECIES
 
 #### Status
 ACCEPTED

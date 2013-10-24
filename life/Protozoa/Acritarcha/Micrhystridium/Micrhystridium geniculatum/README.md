@@ -1,5 +1,4 @@
-Micrhystridium geniculatum Rossignol, 1962 SPECIES
-=======
+# Micrhystridium geniculatum Rossignol, 1962 SPECIES
 
 #### Status
 ACCEPTED

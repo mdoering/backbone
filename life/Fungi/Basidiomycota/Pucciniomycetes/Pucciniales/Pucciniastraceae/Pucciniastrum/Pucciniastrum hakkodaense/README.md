@@ -1,5 +1,4 @@
-Pucciniastrum hakkodaense Y.M. Liang & Kakish. SPECIES
-=======
+# Pucciniastrum hakkodaense Y.M. Liang & Kakish. SPECIES
 
 #### Status
 ACCEPTED

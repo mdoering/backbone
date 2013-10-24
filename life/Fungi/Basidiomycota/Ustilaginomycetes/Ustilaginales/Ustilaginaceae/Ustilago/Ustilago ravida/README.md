@@ -1,5 +1,4 @@
-Ustilago ravida Liro SPECIES
-=======
+# Ustilago ravida Liro SPECIES
 
 #### Status
 ACCEPTED

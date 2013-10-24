@@ -1,5 +1,4 @@
-Coprinus pseudocortinatus Locq. SPECIES
-=======
+# Coprinus pseudocortinatus Locq. SPECIES
 
 #### Status
 ACCEPTED

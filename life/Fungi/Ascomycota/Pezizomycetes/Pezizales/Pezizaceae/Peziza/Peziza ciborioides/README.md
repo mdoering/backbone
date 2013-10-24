@@ -1,5 +1,4 @@
-Peziza ciborioides Rehm SPECIES
-=======
+# Peziza ciborioides Rehm SPECIES
 
 #### Status
 ACCEPTED

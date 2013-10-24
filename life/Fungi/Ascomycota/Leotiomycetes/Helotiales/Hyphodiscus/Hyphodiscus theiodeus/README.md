@@ -1,17 +1,16 @@
-Peziza theioidea Cooke & Ellis SPECIES
-=======
+# Hyphodiscus theiodeus (Cooke & Ellis) W.Y. Zhuang, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 31(2): 414 (1988)
 
 #### Original name
-Peziza theioidea Cooke & Ellis
+Peziza theiodea Cooke & Ellis
 
 ### Remarks
 null

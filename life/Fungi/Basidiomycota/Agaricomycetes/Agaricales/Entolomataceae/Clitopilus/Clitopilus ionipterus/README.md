@@ -1,5 +1,4 @@
-Clitopilus ionipterus Ces. SPECIES
-=======
+# Clitopilus ionipterus Ces. SPECIES
 
 #### Status
 ACCEPTED

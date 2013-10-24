@@ -1,5 +1,4 @@
-Cantharellus ignicolor R.H. Petersen, 1975 SPECIES
-=======
+# Cantharellus ignicolor R.H. Petersen, 1975 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Epalxis mirabilis Roux, 1899 SPECIES
-=======
+# Epalxella mirabilis (Roux, 1899) Corliss, 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

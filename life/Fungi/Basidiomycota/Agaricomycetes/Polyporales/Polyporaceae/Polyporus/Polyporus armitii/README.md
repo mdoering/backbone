@@ -1,5 +1,4 @@
-Polyporus armitii Kalchbr. SPECIES
-=======
+# Polyporus armitii Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

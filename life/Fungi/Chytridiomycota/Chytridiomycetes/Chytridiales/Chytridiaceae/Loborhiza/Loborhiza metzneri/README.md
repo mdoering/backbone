@@ -1,5 +1,4 @@
-Loborhiza metzneri A.M. Hanson, 1944 SPECIES
-=======
+# Loborhiza metzneri A.M. Hanson, 1944 SPECIES
 
 #### Status
 ACCEPTED

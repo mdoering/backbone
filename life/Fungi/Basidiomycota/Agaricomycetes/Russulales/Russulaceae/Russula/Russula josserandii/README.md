@@ -1,5 +1,4 @@
-Russula josserandii Bertault SPECIES
-=======
+# Russula josserandii Bertault SPECIES
 
 #### Status
 ACCEPTED

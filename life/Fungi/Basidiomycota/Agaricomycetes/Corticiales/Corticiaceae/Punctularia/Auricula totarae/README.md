@@ -1,5 +1,4 @@
-Auricula totarae Lloyd SPECIES
-=======
+# Auricula totarae Lloyd SPECIES
 
 #### Status
 ACCEPTED

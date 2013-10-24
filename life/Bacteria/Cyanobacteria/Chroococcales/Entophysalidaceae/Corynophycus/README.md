@@ -1,5 +1,4 @@
-Corynophycus M.S. Yakschin, 1990 GENUS
-=======
+# Corynophycus M.S. Yakschin, 1990 GENUS
 
 #### Status
 ACCEPTED

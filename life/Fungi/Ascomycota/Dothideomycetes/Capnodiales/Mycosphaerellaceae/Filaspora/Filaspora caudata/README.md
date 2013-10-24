@@ -1,5 +1,4 @@
-Filaspora caudata (P. Karst.) Kuntze SPECIES
-=======
+# Filaspora caudata (P. Karst.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

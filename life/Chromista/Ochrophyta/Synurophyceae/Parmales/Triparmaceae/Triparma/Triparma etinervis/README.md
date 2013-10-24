@@ -1,14 +1,13 @@
-Triparma etinervis subsp. etinervis SUBSPECIES
-=======
+# Triparma etinervis B.C.Booth, 1987 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+World Register of Marine Species
 
 #### Published in
-null
+Booth, B. C. & Marchant, H. J. (1987). Parmales, a new order of marine chrysophytes, with descriptions of three new genera and seven new species. Journal of Phycology 23: 245-260.
 
 #### Original name
 null

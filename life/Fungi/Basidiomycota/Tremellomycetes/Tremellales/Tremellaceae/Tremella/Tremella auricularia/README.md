@@ -1,5 +1,4 @@
-Tremella auricularia Möller SPECIES
-=======
+# Tremella auricularia Möller SPECIES
 
 #### Status
 ACCEPTED

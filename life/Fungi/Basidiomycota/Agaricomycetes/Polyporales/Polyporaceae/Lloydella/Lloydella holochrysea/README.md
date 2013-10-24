@@ -1,5 +1,4 @@
-Lloydella holochrysea Rick SPECIES
-=======
+# Lloydella holochrysea Rick SPECIES
 
 #### Status
 ACCEPTED

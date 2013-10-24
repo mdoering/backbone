@@ -1,5 +1,4 @@
-Lepiota citricolor Berk. SPECIES
-=======
+# Lepiota citricolor Berk. SPECIES
 
 #### Status
 ACCEPTED

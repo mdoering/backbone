@@ -1,14 +1,13 @@
-Amphiloma gossypinum (Sw.) Nyl. SPECIES
-=======
+# Crocynia gossypina (Sw.) A. Massal. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Atti Inst. Veneto Sci. lett. , ed Arti, Sér. 3 5: 252 (1860)
 
 #### Original name
 Lichen gossypinus Sw.

@@ -1,5 +1,4 @@
-Lecanora dispersula Nyl. SPECIES
-=======
+# Lecanora dispersula Nyl. SPECIES
 
 #### Status
 ACCEPTED

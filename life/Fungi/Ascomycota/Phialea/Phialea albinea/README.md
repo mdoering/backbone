@@ -1,5 +1,4 @@
-Phialea albinea P. Karst. SPECIES
-=======
+# Phialea albinea P. Karst. SPECIES
 
 #### Status
 ACCEPTED

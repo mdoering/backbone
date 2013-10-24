@@ -1,5 +1,4 @@
-Hymenogaster gilkeyae Zeller & C.W. Dodge SPECIES
-=======
+# Hymenogaster gilkeyae Zeller & C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

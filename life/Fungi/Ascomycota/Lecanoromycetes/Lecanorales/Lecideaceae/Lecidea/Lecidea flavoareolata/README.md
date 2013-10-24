@@ -1,5 +1,4 @@
-Lecidea flavoareolata Nyl. SPECIES
-=======
+# Lecidea flavoareolata Nyl. SPECIES
 
 #### Status
 ACCEPTED

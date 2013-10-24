@@ -1,5 +1,4 @@
-Peniophora boidinii D.A. Reid, 1965 SPECIES
-=======
+# Peniophora boidinii D.A. Reid, 1965 SPECIES
 
 #### Status
 ACCEPTED

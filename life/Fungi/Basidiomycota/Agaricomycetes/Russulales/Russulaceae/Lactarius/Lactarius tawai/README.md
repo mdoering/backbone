@@ -1,5 +1,4 @@
-Lactarius tawai McNabb, 1971 SPECIES
-=======
+# Lactarius tawai McNabb, 1971 SPECIES
 
 #### Status
 ACCEPTED

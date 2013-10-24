@@ -1,5 +1,4 @@
-Ascospora solidaginis (Fr.) Chevall. ex Fr. SPECIES
-=======
+# Ascospora solidaginis (Fr.) Chevall. ex Fr. SPECIES
 
 #### Status
 ACCEPTED

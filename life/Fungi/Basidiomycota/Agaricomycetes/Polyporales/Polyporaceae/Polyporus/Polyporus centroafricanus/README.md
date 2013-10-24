@@ -1,5 +1,4 @@
-Polyporus centroafricanus Núñez & Ryvarden, 1995 SPECIES
-=======
+# Polyporus centroafricanus Núñez & Ryvarden, 1995 SPECIES
 
 #### Status
 ACCEPTED

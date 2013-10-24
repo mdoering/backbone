@@ -1,5 +1,4 @@
-Cercospora coleosanthi Ellis & Everh. SPECIES
-=======
+# Cercospora coleosanthi Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

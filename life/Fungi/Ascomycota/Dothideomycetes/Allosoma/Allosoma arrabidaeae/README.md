@@ -1,5 +1,4 @@
-Allosoma arrabidaeae Bat. & J.L. Bezerra SPECIES
-=======
+# Allosoma arrabidaeae Bat. & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

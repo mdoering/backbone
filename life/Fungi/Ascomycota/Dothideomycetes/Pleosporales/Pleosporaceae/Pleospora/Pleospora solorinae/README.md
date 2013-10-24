@@ -1,5 +1,4 @@
-Pleospora solorinae (Mont.) Sacc. SPECIES
-=======
+# Pleospora solorinae (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

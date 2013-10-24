@@ -1,5 +1,4 @@
-Phyllosticta abortiva Ellis & Kellerm. SPECIES
-=======
+# Phyllosticta abortiva Ellis & Kellerm. SPECIES
 
 #### Status
 ACCEPTED

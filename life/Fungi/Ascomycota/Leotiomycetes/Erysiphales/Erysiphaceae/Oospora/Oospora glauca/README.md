@@ -1,5 +1,4 @@
-Oospora glauca (Preuss) Sacc. SPECIES
-=======
+# Oospora glauca (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

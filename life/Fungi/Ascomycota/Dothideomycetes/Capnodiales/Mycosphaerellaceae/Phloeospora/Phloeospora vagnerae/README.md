@@ -1,5 +1,4 @@
-Phloeospora vagnerae Petr. SPECIES
-=======
+# Phloeospora vagnerae Petr. SPECIES
 
 #### Status
 ACCEPTED

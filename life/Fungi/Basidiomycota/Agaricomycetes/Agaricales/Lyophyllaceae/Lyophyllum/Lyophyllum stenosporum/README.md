@@ -1,5 +1,4 @@
-Lyophyllum stenosporum Clémençon & A.H. Sm. SPECIES
-=======
+# Lyophyllum stenosporum Clémençon & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

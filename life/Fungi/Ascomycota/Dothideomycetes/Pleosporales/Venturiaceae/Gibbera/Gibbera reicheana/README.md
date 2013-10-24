@@ -1,5 +1,4 @@
-Gibbera reicheana (Henn.) E. Müll. & Sanwal SPECIES
-=======
+# Gibbera reicheana (Henn.) E. Müll. & Sanwal SPECIES
 
 #### Status
 ACCEPTED

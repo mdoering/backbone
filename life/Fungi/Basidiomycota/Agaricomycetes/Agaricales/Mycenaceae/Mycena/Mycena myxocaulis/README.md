@@ -1,5 +1,4 @@
-Mycena myxocaulis Pegler SPECIES
-=======
+# Mycena myxocaulis Pegler SPECIES
 
 #### Status
 ACCEPTED

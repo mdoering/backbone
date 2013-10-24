@@ -1,17 +1,16 @@
-Meliola zizyphi Hansf. & Thirum. SPECIES
-=======
+# Meliola ziziphi Hansf. & Thirum. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Farlowia 3(3): 299 (1948)
 
 #### Original name
-Meliola zizyphi Hansf. & Thirum.
+Meliola ziziphi Hansf. & Thirum.
 
 ### Remarks
 null

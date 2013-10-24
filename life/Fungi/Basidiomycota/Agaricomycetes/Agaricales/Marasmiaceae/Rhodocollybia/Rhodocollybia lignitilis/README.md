@@ -1,5 +1,4 @@
-Rhodocollybia lignitilis J.L. Mata & Halling SPECIES
-=======
+# Rhodocollybia lignitilis J.L. Mata & Halling SPECIES
 
 #### Status
 ACCEPTED

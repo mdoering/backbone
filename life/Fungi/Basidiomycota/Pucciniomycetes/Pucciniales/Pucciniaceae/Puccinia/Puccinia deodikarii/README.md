@@ -1,5 +1,4 @@
-Puccinia deodikarii Nair {?} SPECIES
-=======
+# Puccinia deodikarii Nair {?} SPECIES
 
 #### Status
 ACCEPTED

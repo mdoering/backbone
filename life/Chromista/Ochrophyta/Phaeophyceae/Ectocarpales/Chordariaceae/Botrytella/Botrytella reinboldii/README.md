@@ -1,8 +1,7 @@
-Polytretus reinboldii (Reinke) Sauvageau SPECIES
-=======
+# Botrytella reinboldii (Reinke) Kornmann & Sahling SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Phoma lirella var. lirella VARIETY
-=======
+# Phoma lirella Desm. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Annls Sci. Nat. , Bot. , sér. 3 11(2): 281 (1849)
 
 #### Original name
-Phoma lirella var. lirella
+Phoma lirella Desm.
 
 ### Remarks
 null

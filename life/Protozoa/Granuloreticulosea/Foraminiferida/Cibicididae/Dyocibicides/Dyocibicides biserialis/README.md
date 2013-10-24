@@ -1,5 +1,4 @@
-Dyocibicides biserialis Cushman & Valentine, 1930 SPECIES
-=======
+# Dyocibicides biserialis Cushman & Valentine, 1930 SPECIES
 
 #### Status
 ACCEPTED

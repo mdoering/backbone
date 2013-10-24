@@ -1,5 +1,4 @@
-Aecidium intermixtum Peck SPECIES
-=======
+# Aecidium intermixtum Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascorhizoctonia intermedia Egger, Chin S. Yang & Korf, 1985 SPECIES
-=======
+# Ascorhizoctonia intermedia Egger, Chin S. Yang & Korf, 1985 SPECIES
 
 #### Status
 ACCEPTED

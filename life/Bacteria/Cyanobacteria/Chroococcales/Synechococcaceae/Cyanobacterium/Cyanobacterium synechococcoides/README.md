@@ -1,5 +1,4 @@
-Cyanobacterium synechococcoides J. Komárek SPECIES
-=======
+# Cyanobacterium synechococcoides J. Komárek SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corynoides byssoides (Sowerby) Gray SPECIES
-=======
+# Corynoides byssoides (Sowerby) Gray SPECIES
 
 #### Status
 ACCEPTED

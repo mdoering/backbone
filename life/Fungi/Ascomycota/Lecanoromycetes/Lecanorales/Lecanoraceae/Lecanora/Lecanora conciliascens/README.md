@@ -1,5 +1,4 @@
-Lecanora conciliascens Nyl. SPECIES
-=======
+# Lecanora conciliascens Nyl. SPECIES
 
 #### Status
 ACCEPTED

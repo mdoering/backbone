@@ -1,5 +1,4 @@
-Phyllosticta salicina Kabát & Bubák SPECIES
-=======
+# Phyllosticta salicina Kabát & Bubák SPECIES
 
 #### Status
 ACCEPTED

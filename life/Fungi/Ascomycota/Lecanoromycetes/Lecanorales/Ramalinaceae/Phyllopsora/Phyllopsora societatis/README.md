@@ -1,5 +1,4 @@
-Phyllopsora societatis (Vain.) Zahlbr. SPECIES
-=======
+# Phyllopsora societatis (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

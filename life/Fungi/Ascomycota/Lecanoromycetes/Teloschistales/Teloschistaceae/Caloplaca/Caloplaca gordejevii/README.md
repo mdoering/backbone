@@ -1,14 +1,13 @@
-Caloplaca gordejevi (Tomin) Oxner ex Khodos. SPECIES
-=======
+# Caloplaca gordejevii (Tomin) Oxner SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Tab. Opred. Rodov Vidov Semeistva Kaloplakovykh (Caloplacaceae Zahlbr. ) Flory Lishainikov SSSR (Kiev) 46 (1990)
 
 #### Original name
 Placodium gordejevii Tomin

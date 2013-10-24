@@ -1,5 +1,4 @@
-Puccinia tokubuchii S. Ito SPECIES
-=======
+# Puccinia tokubuchii S. Ito SPECIES
 
 #### Status
 ACCEPTED

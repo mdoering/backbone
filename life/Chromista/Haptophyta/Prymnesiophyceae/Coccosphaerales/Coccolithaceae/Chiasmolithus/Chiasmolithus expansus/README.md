@@ -1,5 +1,4 @@
-Chiasmolithus expansus (Bramlette & Sullivan, 1961) Gartner, 1970 SPECIES
-=======
+# Chiasmolithus expansus (Bramlette & Sullivan, 1961) Gartner, 1970 SPECIES
 
 #### Status
 ACCEPTED

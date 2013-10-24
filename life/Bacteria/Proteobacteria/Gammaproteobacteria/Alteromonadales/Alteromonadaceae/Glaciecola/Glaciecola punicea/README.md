@@ -1,5 +1,4 @@
-Glaciecola punicea Bowman et al., 1998 SPECIES
-=======
+# Glaciecola punicea Bowman et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

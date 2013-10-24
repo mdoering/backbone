@@ -1,5 +1,4 @@
-Daldinia steglichii M. Stadler, M. Baumgartner & Wollw., 2001 SPECIES
-=======
+# Daldinia steglichii M. Stadler, M. Baumgartner & Wollw., 2001 SPECIES
 
 #### Status
 ACCEPTED

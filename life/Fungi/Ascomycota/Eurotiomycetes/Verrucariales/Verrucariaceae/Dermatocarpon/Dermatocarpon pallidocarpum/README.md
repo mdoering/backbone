@@ -1,5 +1,4 @@
-Dermatocarpon pallidocarpum (Servít) Servít SPECIES
-=======
+# Dermatocarpon pallidocarpum (Servít) Servít SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniothyrium halimodendri Murashk. SPECIES
-=======
+# Coniothyrium halimodendri Murashk. SPECIES
 
 #### Status
 ACCEPTED

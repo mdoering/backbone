@@ -1,5 +1,4 @@
-Dactuliophora tarrii C.L. Leakey, 1964 SPECIES
-=======
+# Dactuliophora tarrii C.L. Leakey, 1964 SPECIES
 
 #### Status
 ACCEPTED

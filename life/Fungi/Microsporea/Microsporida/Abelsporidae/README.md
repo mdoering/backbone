@@ -1,5 +1,4 @@
-Abelsporidae Azevedo, 1987 FAMILY
-=======
+# Abelsporidae Azevedo, 1987 FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladonia granulans f. granulans FORM
-=======
+# Cladonia granulans Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cladonia granulans f. granulans
+Cladonia granulans Vain.
 
 ### Remarks
 null

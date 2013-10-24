@@ -1,5 +1,4 @@
-Clypeopatella ludwigii H. Ruppr. SPECIES
-=======
+# Clypeopatella ludwigii H. Ruppr. SPECIES
 
 #### Status
 ACCEPTED

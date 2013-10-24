@@ -1,5 +1,4 @@
-Iridia lucida Le Calvez, 1936 SPECIES
-=======
+# Iridia lucida Le Calvez, 1936 SPECIES
 
 #### Status
 ACCEPTED

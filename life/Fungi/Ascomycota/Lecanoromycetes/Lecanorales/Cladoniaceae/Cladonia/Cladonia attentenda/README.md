@@ -1,5 +1,4 @@
-Cladonia attentenda Vain. SPECIES
-=======
+# Cladonia attentenda Vain. SPECIES
 
 #### Status
 ACCEPTED

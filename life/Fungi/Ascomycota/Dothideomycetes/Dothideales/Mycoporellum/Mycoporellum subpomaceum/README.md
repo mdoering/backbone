@@ -1,5 +1,4 @@
-Mycoporellum subpomaceum Zahlbr. SPECIES
-=======
+# Mycoporellum subpomaceum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

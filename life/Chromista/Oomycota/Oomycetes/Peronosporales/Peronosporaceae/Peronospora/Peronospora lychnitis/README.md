@@ -1,5 +1,4 @@
-Peronospora lychnitis Gäum. SPECIES
-=======
+# Peronospora lychnitis Gäum. SPECIES
 
 #### Status
 ACCEPTED

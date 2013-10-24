@@ -1,5 +1,4 @@
-Steinhausia ovicola (Léger & Hollande, 1917) SPECIES
-=======
+# Steinhausia ovicola (Léger & Hollande, 1917) SPECIES
 
 #### Status
 ACCEPTED

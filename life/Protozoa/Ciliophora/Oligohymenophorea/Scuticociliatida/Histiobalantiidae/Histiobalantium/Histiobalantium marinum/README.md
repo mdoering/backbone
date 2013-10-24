@@ -1,5 +1,4 @@
-Histiobalantium marinum subsp. marinum Kahl, 1933 SUBSPECIES
-=======
+# Histiobalantium marinum Kahl SPECIES
 
 #### Status
 ACCEPTED

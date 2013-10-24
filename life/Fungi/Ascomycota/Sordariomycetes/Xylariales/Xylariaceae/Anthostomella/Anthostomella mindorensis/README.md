@@ -1,5 +1,4 @@
-Anthostomella mindorensis Rehm SPECIES
-=======
+# Anthostomella mindorensis Rehm SPECIES
 
 #### Status
 ACCEPTED

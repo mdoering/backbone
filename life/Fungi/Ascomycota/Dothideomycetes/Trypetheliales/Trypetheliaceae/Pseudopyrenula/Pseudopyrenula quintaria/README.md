@@ -1,5 +1,4 @@
-Pseudopyrenula quintaria SPECIES
-=======
+# Pseudopyrenula quintaria SPECIES
 
 #### Status
 ACCEPTED

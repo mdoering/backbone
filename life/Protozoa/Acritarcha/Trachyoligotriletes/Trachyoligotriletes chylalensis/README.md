@@ -1,5 +1,4 @@
-Trachyoligotriletes chylalensis Timofeev, 1960 SPECIES
-=======
+# Trachyoligotriletes chylalensis Timofeev, 1960 SPECIES
 
 #### Status
 ACCEPTED

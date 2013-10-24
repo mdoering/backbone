@@ -1,5 +1,4 @@
-Verrucaria subtropica Zahlbr. SPECIES
-=======
+# Verrucaria subtropica Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pholiota livistonae S. Ito & S. Imai SPECIES
-=======
+# Pholiota livistonae S. Ito & S. Imai SPECIES
 
 #### Status
 ACCEPTED

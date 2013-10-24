@@ -1,5 +1,4 @@
-Lecidea strasseri Zahlbr. SPECIES
-=======
+# Lecidea strasseri Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

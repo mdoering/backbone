@@ -1,5 +1,4 @@
-Monomita Grassi, 1881 GENUS
-=======
+# Monomita Grassi, 1881 GENUS
 
 #### Status
 ACCEPTED

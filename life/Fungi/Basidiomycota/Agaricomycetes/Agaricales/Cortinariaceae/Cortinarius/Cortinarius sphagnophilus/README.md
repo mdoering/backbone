@@ -1,5 +1,4 @@
-Cortinarius sphagnophilus Peck SPECIES
-=======
+# Cortinarius sphagnophilus Peck SPECIES
 
 #### Status
 ACCEPTED

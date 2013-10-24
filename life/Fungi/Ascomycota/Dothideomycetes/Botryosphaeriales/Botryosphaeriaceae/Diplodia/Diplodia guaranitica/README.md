@@ -1,5 +1,4 @@
-Diplodia guaranitica Speg. SPECIES
-=======
+# Diplodia guaranitica Speg. SPECIES
 
 #### Status
 ACCEPTED

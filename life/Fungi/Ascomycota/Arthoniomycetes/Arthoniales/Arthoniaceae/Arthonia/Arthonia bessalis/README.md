@@ -1,5 +1,4 @@
-Arthonia bessalis Nyl. SPECIES
-=======
+# Arthonia bessalis Nyl. SPECIES
 
 #### Status
 ACCEPTED

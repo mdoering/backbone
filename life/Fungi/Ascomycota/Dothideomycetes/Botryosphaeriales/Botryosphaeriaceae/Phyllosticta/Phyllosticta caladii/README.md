@@ -1,5 +1,4 @@
-Phyllosticta caladii Bat. SPECIES
-=======
+# Phyllosticta caladii Bat. SPECIES
 
 #### Status
 ACCEPTED

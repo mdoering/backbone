@@ -1,5 +1,4 @@
-Spathidium ampulliforme subsp. ampulliforme SUBSPECIES
-=======
+# Spathidium ampulliforme Kaltenbach, 1960 SPECIES
 
 #### Status
 ACCEPTED

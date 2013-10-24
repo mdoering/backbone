@@ -1,17 +1,16 @@
-Chloroscypha jacksoni Seaver SPECIES
-=======
+# Chloroscypha jacksonii Seaver SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 23: 249 (1931)
 
 #### Original name
-Chloroscypha jacksoni Seaver
+Chloroscypha jacksonii Seaver
 
 ### Remarks
 null

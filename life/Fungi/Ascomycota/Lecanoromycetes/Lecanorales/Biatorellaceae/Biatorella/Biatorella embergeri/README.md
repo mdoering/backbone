@@ -1,5 +1,4 @@
-Biatorella embergeri Werner & M. Choisy SPECIES
-=======
+# Biatorella embergeri Werner & M. Choisy SPECIES
 
 #### Status
 ACCEPTED

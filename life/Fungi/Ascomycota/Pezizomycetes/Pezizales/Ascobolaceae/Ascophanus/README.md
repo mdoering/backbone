@@ -1,5 +1,4 @@
-Ascophanus Boud. GENUS
-=======
+# Ascophanus Boud. GENUS
 
 #### Status
 ACCEPTED

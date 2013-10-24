@@ -1,5 +1,4 @@
-Helminthosporium crassum Rabenh. SPECIES
-=======
+# Helminthosporium crassum Rabenh. SPECIES
 
 #### Status
 ACCEPTED

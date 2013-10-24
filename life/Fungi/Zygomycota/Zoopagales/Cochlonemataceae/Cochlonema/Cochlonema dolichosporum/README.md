@@ -1,5 +1,4 @@
-Cochlonema dolichosporum Drechsler, 1935 SPECIES
-=======
+# Cochlonema dolichosporum Drechsler, 1935 SPECIES
 
 #### Status
 ACCEPTED

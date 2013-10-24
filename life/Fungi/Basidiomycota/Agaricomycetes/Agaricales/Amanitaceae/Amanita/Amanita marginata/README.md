@@ -1,5 +1,4 @@
-Amanita marginata D.T. Jenkins SPECIES
-=======
+# Amanita marginata D.T. Jenkins SPECIES
 
 #### Status
 ACCEPTED

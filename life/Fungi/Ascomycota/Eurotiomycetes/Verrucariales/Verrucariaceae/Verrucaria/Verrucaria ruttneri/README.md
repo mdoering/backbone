@@ -1,5 +1,4 @@
-Verrucaria ruttneri Zahlbr. SPECIES
-=======
+# Verrucaria ruttneri Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

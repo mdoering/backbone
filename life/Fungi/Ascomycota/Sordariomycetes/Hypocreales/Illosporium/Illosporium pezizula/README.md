@@ -1,5 +1,4 @@
-Illosporium pezizula Sacc. & Ellis SPECIES
-=======
+# Illosporium pezizula Sacc. & Ellis SPECIES
 
 #### Status
 ACCEPTED

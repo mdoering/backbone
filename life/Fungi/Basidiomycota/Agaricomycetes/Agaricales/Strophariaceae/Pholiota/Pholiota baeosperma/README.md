@@ -1,5 +1,4 @@
-Pholiota baeosperma Singer SPECIES
-=======
+# Pholiota baeosperma Singer SPECIES
 
 #### Status
 ACCEPTED

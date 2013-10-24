@@ -1,5 +1,4 @@
-Pyxine cylindrica Kashiw. SPECIES
-=======
+# Pyxine cylindrica Kashiw. SPECIES
 
 #### Status
 ACCEPTED

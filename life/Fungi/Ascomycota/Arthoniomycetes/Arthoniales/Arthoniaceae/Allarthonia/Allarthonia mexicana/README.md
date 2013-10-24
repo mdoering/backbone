@@ -1,5 +1,4 @@
-Allarthonia mexicana SPECIES
-=======
+# Allarthonia mexicana SPECIES
 
 #### Status
 ACCEPTED

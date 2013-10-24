@@ -1,5 +1,4 @@
-Agaricus lividorubescens Batsch SPECIES
-=======
+# Agaricus lividorubescens Batsch SPECIES
 
 #### Status
 ACCEPTED

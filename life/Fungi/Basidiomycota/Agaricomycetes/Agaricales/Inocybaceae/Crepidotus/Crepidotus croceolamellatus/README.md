@@ -1,5 +1,4 @@
-Crepidotus croceolamellatus (Letell.) Gillet SPECIES
-=======
+# Crepidotus croceolamellatus (Letell.) Gillet SPECIES
 
 #### Status
 ACCEPTED

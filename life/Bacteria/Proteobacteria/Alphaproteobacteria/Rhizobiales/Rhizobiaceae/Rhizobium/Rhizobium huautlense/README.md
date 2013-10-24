@@ -1,5 +1,4 @@
-Rhizobium huautlense Wang et al., 1998 SPECIES
-=======
+# Rhizobium huautlense Wang et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

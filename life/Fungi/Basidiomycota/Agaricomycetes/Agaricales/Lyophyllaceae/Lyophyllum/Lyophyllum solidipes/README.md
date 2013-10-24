@@ -1,5 +1,4 @@
-Lyophyllum solidipes Clémençon & A.H. Sm. SPECIES
-=======
+# Lyophyllum solidipes Clémençon & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

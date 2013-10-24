@@ -1,5 +1,4 @@
-Monoicomyces labiatus T. Majewski SPECIES
-=======
+# Monoicomyces labiatus T. Majewski SPECIES
 
 #### Status
 ACCEPTED

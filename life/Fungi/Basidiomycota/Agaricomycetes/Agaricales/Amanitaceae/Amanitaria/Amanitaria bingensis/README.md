@@ -1,5 +1,4 @@
-Amanitaria bingensis (Beeli) E.-J. Gilbert SPECIES
-=======
+# Amanitaria bingensis (Beeli) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

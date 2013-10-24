@@ -1,5 +1,4 @@
-Tuber malacodermum E. Fisch. SPECIES
-=======
+# Tuber malacodermum E. Fisch. SPECIES
 
 #### Status
 ACCEPTED

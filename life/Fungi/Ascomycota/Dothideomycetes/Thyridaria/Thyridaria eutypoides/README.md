@@ -1,5 +1,4 @@
-Thyridaria eutypoides Ellis & Everh. SPECIES
-=======
+# Thyridaria eutypoides Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

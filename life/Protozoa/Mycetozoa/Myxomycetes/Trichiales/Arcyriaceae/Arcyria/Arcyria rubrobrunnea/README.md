@@ -1,5 +1,4 @@
-Arcyria rubrobrunnea Nann.-Bremek. & Schinner, 1986 SPECIES
-=======
+# Arcyria rubrobrunnea Nann.-Bremek. & Schinner, 1986 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea leptoplaca Müll. Arg. SPECIES
-=======
+# Lecidea leptoplaca Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

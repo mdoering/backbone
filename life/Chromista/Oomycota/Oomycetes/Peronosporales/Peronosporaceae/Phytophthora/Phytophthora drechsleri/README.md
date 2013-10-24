@@ -1,17 +1,16 @@
-Phytophthora drechsleri f. sp FORM
-=======
+# Phytophthora drechsleri Tucker, 1931 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bulletin of the Missouri agricultural Experimental Station 153: 158 (1931)
 
 #### Original name
-Phytophthora drechsleri f. sp
+Phytophthora drechsleri Tucker, 1931
 
 ### Remarks
 null

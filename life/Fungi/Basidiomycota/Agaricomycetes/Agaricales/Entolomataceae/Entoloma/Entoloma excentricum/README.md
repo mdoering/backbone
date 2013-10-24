@@ -1,5 +1,4 @@
-Entoloma excentricum var. excentricum VARIETY
-=======
+# Entoloma excentricum Bres. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fung. trident. 1(1): 11 (1881)
+null
 
 #### Original name
-Entoloma excentricum var. excentricum
+null
 
 ### Remarks
 null

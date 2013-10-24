@@ -1,14 +1,13 @@
-Buellia leptoclinis (Flot.) Körb. SPECIES
-=======
+# Buellia leptocline (Flot.) A. Massal. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Geneac. Lich. 20 (1854)
 
 #### Original name
 Lecidea leptocline Flot.

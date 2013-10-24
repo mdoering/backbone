@@ -1,5 +1,4 @@
-Lophidium ritro Pass. SPECIES
-=======
+# Lophidium ritro Pass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectria bambusae (Pat.) Rifai SPECIES
-=======
+# Nectria bambusae (Pat.) Rifai SPECIES
 
 #### Status
 ACCEPTED

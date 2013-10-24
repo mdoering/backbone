@@ -1,5 +1,4 @@
-Guignardia graminis (Lind) M.E. Barr SPECIES
-=======
+# Guignardia graminis (Lind) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

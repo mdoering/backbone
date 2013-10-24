@@ -1,5 +1,4 @@
-Scolecostigmina fici-elasticae (J.N. Kapoor) U. Braun SPECIES
-=======
+# Scolecostigmina fici-elasticae (J.N. Kapoor) U. Braun SPECIES
 
 #### Status
 ACCEPTED

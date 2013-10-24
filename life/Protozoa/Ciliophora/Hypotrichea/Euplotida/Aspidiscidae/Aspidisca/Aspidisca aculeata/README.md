@@ -1,5 +1,4 @@
-Aspidisca aculeata Ehrenberg, 1838 SPECIES
-=======
+# Aspidisca aculeata Ehrenberg, 1838 SPECIES
 
 #### Status
 ACCEPTED

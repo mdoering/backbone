@@ -1,5 +1,4 @@
-Phyllosticta fritillariae Bonar & W.B. Cooke SPECIES
-=======
+# Phyllosticta fritillariae Bonar & W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

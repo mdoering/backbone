@@ -1,5 +1,4 @@
-Nectria polyporina Petch, 1941 SPECIES
-=======
+# Nectria polyporina Petch, 1941 SPECIES
 
 #### Status
 ACCEPTED

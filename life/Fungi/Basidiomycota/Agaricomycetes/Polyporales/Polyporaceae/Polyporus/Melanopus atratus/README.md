@@ -1,5 +1,4 @@
-Melanopus atratus (Fr.) Pat. SPECIES
-=======
+# Melanopus atratus (Fr.) Pat. SPECIES
 
 #### Status
 ACCEPTED

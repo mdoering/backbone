@@ -1,5 +1,4 @@
-Xylaria citrispora Bertault SPECIES
-=======
+# Xylaria citrispora Bertault SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophomerum Ouell. & Magasi GENUS
-=======
+# Lophomerum Ouell. & Magasi GENUS
 
 #### Status
 ACCEPTED

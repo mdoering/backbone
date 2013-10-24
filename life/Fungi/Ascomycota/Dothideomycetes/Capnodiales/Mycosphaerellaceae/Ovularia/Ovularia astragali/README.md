@@ -1,5 +1,4 @@
-Ovularia astragali Golovin SPECIES
-=======
+# Ovularia astragali Golovin SPECIES
 
 #### Status
 ACCEPTED

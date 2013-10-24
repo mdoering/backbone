@@ -1,5 +1,4 @@
-Hysterangium fusisporum Massee & Rodway SPECIES
-=======
+# Hysterangium fusisporum Massee & Rodway SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrophoma paeoniae Scalia, 1901 SPECIES
-=======
+# Macrophoma paeoniae Scalia, 1901 SPECIES
 
 #### Status
 ACCEPTED

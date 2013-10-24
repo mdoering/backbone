@@ -1,5 +1,4 @@
-Echidnodella angustiformis (Tracy & Earle) F. Stevens SPECIES
-=======
+# Echidnodella angustiformis (Tracy & Earle) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

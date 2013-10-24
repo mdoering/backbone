@@ -1,5 +1,4 @@
-Picardella I.I. Tav. GENUS
-=======
+# Picardella I.I. Tav. GENUS
 
 #### Status
 ACCEPTED

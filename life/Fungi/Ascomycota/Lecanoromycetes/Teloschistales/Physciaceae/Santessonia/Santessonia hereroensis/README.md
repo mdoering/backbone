@@ -1,5 +1,4 @@
-Santessonia hereroensis (Vain.) Follmann SPECIES
-=======
+# Santessonia hereroensis (Vain.) Follmann SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scopulariopsis venerei Greco SPECIES
-=======
+# Scopulariopsis venerei Greco SPECIES
 
 #### Status
 ACCEPTED

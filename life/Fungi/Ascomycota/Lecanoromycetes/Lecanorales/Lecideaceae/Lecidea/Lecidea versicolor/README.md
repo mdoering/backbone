@@ -1,5 +1,4 @@
-Lecidea versicolor var. vigilans (Taylor) Nyl. VARIETY
-=======
+# Lecidea versicolor (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Acta Soc. Sci. fenn. 7: 461 (1863)
 
 #### Original name
-null
+Psora versicolor Müll. Arg.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Marssonia stenospora (Ellis & Kellerm.) Sacc. SPECIES
-=======
+# Marssonia stenospora (Ellis & Kellerm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coccolithus fenestratus (G. Deflandre & C. Fert) S.W. Wise SPECIES
-=======
+# Coccolithus fenestratus (G. Deflandre & C. Fert) S.W. Wise SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psilotricha bicaudata subsp. bicaudata SUBSPECIES
-=======
+# Psilotricha bicaudata SPECIES
 
 #### Status
 ACCEPTED

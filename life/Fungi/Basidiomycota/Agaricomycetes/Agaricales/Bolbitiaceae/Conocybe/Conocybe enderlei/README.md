@@ -1,5 +1,4 @@
-Conocybe enderlei Hauskn. SPECIES
-=======
+# Conocybe enderlei Hauskn. SPECIES
 
 #### Status
 ACCEPTED

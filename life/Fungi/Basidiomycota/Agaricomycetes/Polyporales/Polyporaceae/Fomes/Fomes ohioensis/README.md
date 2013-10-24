@@ -1,5 +1,4 @@
-Fomes ohioensis Berk. SPECIES
-=======
+# Fomes ohioensis Berk. SPECIES
 
 #### Status
 ACCEPTED

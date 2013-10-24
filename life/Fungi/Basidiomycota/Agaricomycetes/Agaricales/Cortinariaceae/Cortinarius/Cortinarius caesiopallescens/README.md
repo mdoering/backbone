@@ -1,5 +1,4 @@
-Cortinarius caesiopallescens Bidaud, Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius caesiopallescens Bidaud, Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

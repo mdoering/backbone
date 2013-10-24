@@ -1,5 +1,4 @@
-Uredo proximella Arthur SPECIES
-=======
+# Uredo proximella Arthur SPECIES
 
 #### Status
 ACCEPTED

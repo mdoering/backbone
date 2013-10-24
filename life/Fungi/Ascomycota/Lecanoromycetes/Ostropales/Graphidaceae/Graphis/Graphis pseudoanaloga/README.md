@@ -1,5 +1,4 @@
-Graphis pseudoanaloga Vain. SPECIES
-=======
+# Graphis pseudoanaloga Vain. SPECIES
 
 #### Status
 ACCEPTED

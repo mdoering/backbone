@@ -1,5 +1,4 @@
-Caeoma helianthi Schwein. SPECIES
-=======
+# Caeoma helianthi Schwein. SPECIES
 
 #### Status
 ACCEPTED

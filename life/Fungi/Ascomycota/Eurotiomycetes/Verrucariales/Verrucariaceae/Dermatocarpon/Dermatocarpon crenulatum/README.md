@@ -1,5 +1,4 @@
-Dermatocarpon crenulatum SPECIES
-=======
+# Dermatocarpon crenulatum SPECIES
 
 #### Status
 ACCEPTED

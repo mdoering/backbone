@@ -1,5 +1,4 @@
-Sclerotium quercinum Pers. SPECIES
-=======
+# Sclerotium quercinum Pers. SPECIES
 
 #### Status
 ACCEPTED

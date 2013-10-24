@@ -1,5 +1,4 @@
-Globoconidium cerradense G.F. Sepúlveda, Pereira-Carv. & Dianese SPECIES
-=======
+# Globoconidium cerradense G.F. Sepúlveda, Pereira-Carv. & Dianese SPECIES
 
 #### Status
 ACCEPTED

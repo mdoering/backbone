@@ -1,5 +1,4 @@
-Phlyctema canthiicola Seshadri SPECIES
-=======
+# Phlyctema canthiicola Seshadri SPECIES
 
 #### Status
 ACCEPTED

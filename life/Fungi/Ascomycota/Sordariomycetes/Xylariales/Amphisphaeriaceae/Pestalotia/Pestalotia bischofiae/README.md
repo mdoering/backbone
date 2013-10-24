@@ -1,5 +1,4 @@
-Pestalotia bischofiae Sawada SPECIES
-=======
+# Pestalotia bischofiae Sawada SPECIES
 
 #### Status
 ACCEPTED

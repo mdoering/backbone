@@ -1,5 +1,4 @@
-Coniochaeta ovata Matsush., 1971 SPECIES
-=======
+# Coniochaeta ovata Matsush., 1971 SPECIES
 
 #### Status
 ACCEPTED

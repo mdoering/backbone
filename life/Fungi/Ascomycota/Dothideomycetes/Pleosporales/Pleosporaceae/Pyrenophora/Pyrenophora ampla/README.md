@@ -1,5 +1,4 @@
-Pyrenophora ampla Syd. SPECIES
-=======
+# Pyrenophora ampla Syd. SPECIES
 
 #### Status
 ACCEPTED

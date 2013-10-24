@@ -1,5 +1,4 @@
-Coniosporium nitidum P. Karst. SPECIES
-=======
+# Coniosporium nitidum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

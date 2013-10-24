@@ -1,14 +1,13 @@
-Oscillaria caviae Simons, 1920, according to Simons, 1922 SPECIES
-=======
+# Oscillatoria Vaucher Ex Gomont, 1893 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ann. Sci. Nat. Bot. , ser. 7, 16: 198.
 
 #### Original name
 null

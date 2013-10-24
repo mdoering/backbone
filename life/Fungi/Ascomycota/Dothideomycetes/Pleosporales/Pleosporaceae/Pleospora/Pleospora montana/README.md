@@ -1,5 +1,4 @@
-Pleospora montana Wehm. SPECIES
-=======
+# Pleospora montana Wehm. SPECIES
 
 #### Status
 ACCEPTED

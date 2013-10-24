@@ -1,8 +1,7 @@
-Microcystis minutissima W. West SPECIES
-=======
+# Aphanothece minutissima (W. West) J. Komárková-Legnerová & G. Cronberg SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Sporonema asteris N.P. Golovina SPECIES
-=======
+# Sporonema asteris N.P. Golovina SPECIES
 
 #### Status
 ACCEPTED

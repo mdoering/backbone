@@ -1,5 +1,4 @@
-Pyxine copelandii Vain. SPECIES
-=======
+# Pyxine copelandii Vain. SPECIES
 
 #### Status
 ACCEPTED

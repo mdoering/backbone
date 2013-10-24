@@ -1,5 +1,4 @@
-Cercosporidium kirchneri (Hegyi) Deighton SPECIES
-=======
+# Cercosporidium kirchneri (Hegyi) Deighton SPECIES
 
 #### Status
 ACCEPTED

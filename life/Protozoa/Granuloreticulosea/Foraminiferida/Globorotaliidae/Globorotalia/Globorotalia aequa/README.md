@@ -1,5 +1,4 @@
-Globorotalia aequa SPECIES
-=======
+# Globorotalia aequa SPECIES
 
 #### Status
 ACCEPTED

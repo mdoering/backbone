@@ -1,5 +1,4 @@
-Leptosphaeria lithophilae Gucevic SPECIES
-=======
+# Leptosphaeria lithophilae Gucevic SPECIES
 
 #### Status
 ACCEPTED

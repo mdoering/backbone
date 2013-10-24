@@ -1,5 +1,4 @@
-Leccinum insigne A.H. Sm., Thiers & Watling SPECIES
-=======
+# Leccinum insigne A.H. Sm., Thiers & Watling SPECIES
 
 #### Status
 ACCEPTED

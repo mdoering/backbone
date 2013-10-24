@@ -1,5 +1,4 @@
-Sulfobacillus thermosulfidooxidans Golovacheva & Karavaiko, 1991 SPECIES
-=======
+# Sulfobacillus thermosulfidooxidans Golovacheva & Karavaiko, 1991 SPECIES
 
 #### Status
 ACCEPTED

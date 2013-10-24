@@ -1,5 +1,4 @@
-Balaniger balticus Thomsen & Oates, 1978 SPECIES
-=======
+# Balaniger balticus Thomsen & Oates, 1978 SPECIES
 
 #### Status
 ACCEPTED

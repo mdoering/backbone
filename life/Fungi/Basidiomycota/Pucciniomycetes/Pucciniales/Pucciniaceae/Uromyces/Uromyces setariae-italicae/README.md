@@ -1,17 +1,16 @@
-Nigredo leptoderma (Syd. & P. Syd.) Arthur, 1912 SPECIES
-=======
+# Uromyces setariae-italicae Yoshino, 1906 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-N. Amer. Fl. (New York) 7(4): 224 (1912)
+Bot. Mag. , Tokyo 20: 247 (1906)
 
 #### Original name
-Uromyces leptodermus Syd. & P. Syd., 1906
+Uromyces setariae-italicae Yoshino, 1906
 
 ### Remarks
 null

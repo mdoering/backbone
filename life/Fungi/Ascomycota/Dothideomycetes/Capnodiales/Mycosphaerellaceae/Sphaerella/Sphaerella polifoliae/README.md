@@ -1,5 +1,4 @@
-Sphaerella polifoliae Ellis & Everh. SPECIES
-=======
+# Sphaerella polifoliae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

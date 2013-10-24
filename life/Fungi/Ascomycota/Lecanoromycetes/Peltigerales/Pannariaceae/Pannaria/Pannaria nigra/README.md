@@ -1,5 +1,4 @@
-Pannaria nigra var. nigra VARIETY
-=======
+# Pannaria nigra SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lichen niger Huds.
+null
 
 ### Remarks
 null

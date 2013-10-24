@@ -1,5 +1,4 @@
-Leptoniella subplacida Murrill SPECIES
-=======
+# Leptoniella subplacida Murrill SPECIES
 
 #### Status
 ACCEPTED

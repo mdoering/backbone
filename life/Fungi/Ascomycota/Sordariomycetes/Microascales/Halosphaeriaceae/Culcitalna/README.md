@@ -1,5 +1,4 @@
-Culcitalna Meyers & R.T. Moore GENUS
-=======
+# Culcitalna Meyers & R.T. Moore GENUS
 
 #### Status
 ACCEPTED

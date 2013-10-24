@@ -1,5 +1,4 @@
-Phyllosticta alni-glutinosae P. Syd. SPECIES
-=======
+# Phyllosticta alni-glutinosae P. Syd. SPECIES
 
 #### Status
 ACCEPTED

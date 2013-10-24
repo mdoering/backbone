@@ -1,5 +1,4 @@
-Uredo contraria Arthur SPECIES
-=======
+# Uredo contraria Arthur SPECIES
 
 #### Status
 ACCEPTED

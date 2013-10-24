@@ -1,5 +1,4 @@
-Excipula eryngii Corda SPECIES
-=======
+# Excipula eryngii Corda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Exosporiella P. Karst. GENUS
-=======
+# Exosporiella P. Karst. GENUS
 
 #### Status
 ACCEPTED

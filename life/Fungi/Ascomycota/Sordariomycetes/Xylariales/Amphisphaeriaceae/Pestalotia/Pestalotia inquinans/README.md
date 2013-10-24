@@ -1,5 +1,4 @@
-Pestalotia inquinans Cooke & Harkn. SPECIES
-=======
+# Pestalotia inquinans Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

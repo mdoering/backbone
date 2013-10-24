@@ -1,5 +1,4 @@
-Mollisia leucosphaeria Rehm, 1891 SPECIES
-=======
+# Mollisia leucosphaeria Rehm, 1891 SPECIES
 
 #### Status
 ACCEPTED

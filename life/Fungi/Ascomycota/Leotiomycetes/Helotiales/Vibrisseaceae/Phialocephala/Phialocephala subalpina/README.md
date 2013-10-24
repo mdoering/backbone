@@ -1,5 +1,4 @@
-Phialocephala subalpina Grünig & T.N. Sieber SPECIES
-=======
+# Phialocephala subalpina Grünig & T.N. Sieber SPECIES
 
 #### Status
 ACCEPTED

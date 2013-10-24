@@ -1,5 +1,4 @@
-Dendrodochium pulchrum Marchal & É.J. Marchal SPECIES
-=======
+# Dendrodochium pulchrum Marchal & É.J. Marchal SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhodospirillum photometricum Molisch, 1907 (Approved Lists, 1980) SPECIES
-=======
+# Rhodospirillum photometricum Molisch, 1907 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Colletotrichum boehmeriae Sawada SPECIES
-=======
+# Colletotrichum boehmeriae Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Patellaria subluteola (Nyl.) SPECIES
-=======
+# Patellaria subluteola (Nyl.) SPECIES
 
 #### Status
 ACCEPTED

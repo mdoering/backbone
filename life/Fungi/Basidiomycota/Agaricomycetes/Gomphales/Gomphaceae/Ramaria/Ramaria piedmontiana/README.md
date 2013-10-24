@@ -1,5 +1,4 @@
-Ramaria piedmontiana R.H. Petersen, 1982 SPECIES
-=======
+# Ramaria piedmontiana R.H. Petersen, 1982 SPECIES
 
 #### Status
 ACCEPTED

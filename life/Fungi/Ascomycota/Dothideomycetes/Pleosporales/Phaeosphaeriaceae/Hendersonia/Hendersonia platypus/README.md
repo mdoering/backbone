@@ -1,5 +1,4 @@
-Hendersonia platypus Ellis & Everh. SPECIES
-=======
+# Hendersonia platypus Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

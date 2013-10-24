@@ -1,5 +1,4 @@
-Leptothyrium sumacis Madej SPECIES
-=======
+# Leptothyrium sumacis Madej SPECIES
 
 #### Status
 ACCEPTED

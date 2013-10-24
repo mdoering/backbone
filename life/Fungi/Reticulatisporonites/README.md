@@ -1,5 +1,4 @@
-Reticulatisporonites Elsik GENUS
-=======
+# Reticulatisporonites Elsik GENUS
 
 #### Status
 ACCEPTED

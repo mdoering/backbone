@@ -1,5 +1,4 @@
-Phyllosticta corynocarpi J.V. Almeida & Sousa da Câmara SPECIES
-=======
+# Phyllosticta corynocarpi J.V. Almeida & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

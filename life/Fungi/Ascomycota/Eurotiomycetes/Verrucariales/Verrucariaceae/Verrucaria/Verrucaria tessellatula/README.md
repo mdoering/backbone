@@ -1,5 +1,4 @@
-Verrucaria tessellatula f. tessellatula Nyl. FORM
-=======
+# Verrucaria tessellatula Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 in Crombie, J. Bot. , London 13: 335 (1875)
 
 #### Original name
-Verrucaria tessellatula f. tessellatula Nyl.
+Verrucaria tessellatula Nyl.
 
 ### Remarks
 null

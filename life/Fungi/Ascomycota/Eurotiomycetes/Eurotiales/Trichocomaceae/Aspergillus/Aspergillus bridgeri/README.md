@@ -1,5 +1,4 @@
-Aspergillus bridgeri M. Chr., 1982 SPECIES
-=======
+# Aspergillus bridgeri M. Chr., 1982 SPECIES
 
 #### Status
 ACCEPTED

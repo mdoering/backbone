@@ -1,5 +1,4 @@
-Hymenophallus hadriani Nees SPECIES
-=======
+# Hymenophallus hadriani Nees SPECIES
 
 #### Status
 ACCEPTED

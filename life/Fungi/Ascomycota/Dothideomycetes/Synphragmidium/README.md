@@ -1,5 +1,4 @@
-Synphragmidium GENUS
-=======
+# Synphragmidium GENUS
 
 #### Status
 ACCEPTED

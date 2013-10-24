@@ -1,5 +1,4 @@
-Septoria salicella Berk. & Broome SPECIES
-=======
+# Septoria salicella Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

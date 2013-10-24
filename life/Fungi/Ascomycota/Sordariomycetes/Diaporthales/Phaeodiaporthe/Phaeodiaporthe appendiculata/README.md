@@ -1,5 +1,4 @@
-Phaeodiaporthe appendiculata (G.H. Otth) Lar.N. Vassiljeva SPECIES
-=======
+# Phaeodiaporthe appendiculata (G.H. Otth) Lar.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

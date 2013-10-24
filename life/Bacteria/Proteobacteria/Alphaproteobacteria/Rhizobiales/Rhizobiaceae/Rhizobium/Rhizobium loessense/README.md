@@ -1,5 +1,4 @@
-Rhizobium loessense Wei et al., 2003 SPECIES
-=======
+# Rhizobium loessense Wei et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sclerodiscus Pat. GENUS
-=======
+# Sclerodiscus Pat. GENUS
 
 #### Status
 ACCEPTED

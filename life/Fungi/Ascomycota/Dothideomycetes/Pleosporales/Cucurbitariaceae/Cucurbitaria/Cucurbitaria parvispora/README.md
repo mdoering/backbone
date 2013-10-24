@@ -1,5 +1,4 @@
-Cucurbitaria parvispora (G. Winter) Kuntze SPECIES
-=======
+# Cucurbitaria parvispora (G. Winter) Kuntze SPECIES
 
 #### Status
 ACCEPTED

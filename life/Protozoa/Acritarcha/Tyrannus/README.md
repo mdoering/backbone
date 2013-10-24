@@ -1,5 +1,4 @@
-Tyrannus Wood & Tekbali, 1987 GENUS
-=======
+# Tyrannus Wood & Tekbali, 1987 GENUS
 
 #### Status
 ACCEPTED

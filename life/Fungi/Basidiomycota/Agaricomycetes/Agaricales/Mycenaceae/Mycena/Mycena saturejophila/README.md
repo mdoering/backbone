@@ -1,5 +1,4 @@
-Mycena saturejophila Vila & F. Caballero SPECIES
-=======
+# Mycena saturejophila Vila & F. Caballero SPECIES
 
 #### Status
 ACCEPTED

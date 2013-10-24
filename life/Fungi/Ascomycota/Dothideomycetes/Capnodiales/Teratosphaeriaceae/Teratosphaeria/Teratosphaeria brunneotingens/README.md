@@ -1,5 +1,4 @@
-Teratosphaeria brunneotingens (Crous & Summerell) Crous & Summerell, 2009 SPECIES
-=======
+# Teratosphaeria brunneotingens (Crous & Summerell) Crous & Summerell, 2009 SPECIES
 
 #### Status
 ACCEPTED

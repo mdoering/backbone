@@ -1,5 +1,4 @@
-Lecanora variegatula H. Magn. SPECIES
-=======
+# Lecanora variegatula H. Magn. SPECIES
 
 #### Status
 ACCEPTED

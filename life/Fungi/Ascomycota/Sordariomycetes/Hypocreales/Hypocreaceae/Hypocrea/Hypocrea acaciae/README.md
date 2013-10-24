@@ -1,5 +1,4 @@
-Hypocrea acaciae Tilak & Gaikwad SPECIES
-=======
+# Hypocrea acaciae Tilak & Gaikwad SPECIES
 
 #### Status
 ACCEPTED

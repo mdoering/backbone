@@ -1,17 +1,16 @@
-Diatrypella nigroannulata var. nigroannulata VARIETY
-=======
+# Diatrypella favacea (Fr.) Ces. & De Not., 1863 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Pyrenomycetes Germanici 81 (1867)
+De Not Sferiacei Italici 29 (1863)
 
 #### Original name
-Diatrypella nigroannulata var. nigroannulata
+Sphaeria favacea Fr., 1823
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Diplodina humuli Brunaud SPECIES
-=======
+# Diplodina humuli Brunaud SPECIES
 
 #### Status
 ACCEPTED

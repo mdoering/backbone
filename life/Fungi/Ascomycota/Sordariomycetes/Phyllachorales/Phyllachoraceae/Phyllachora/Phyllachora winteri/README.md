@@ -1,17 +1,16 @@
-Phyllachora xanthoxyli G. Winter SPECIES
-=======
+# Phyllachora winteri Sacc. & P. Syd., 1899 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Saccardo, Syll. fung. (Abellini) 14(2): 673 (1899)
 
 #### Original name
-Phyllachora xanthoxyli G. Winter
+Phyllachora zanthoxyli (Lév.) Cooke, 1885
 
 ### Remarks
 null

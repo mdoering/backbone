@@ -1,5 +1,4 @@
-Cercospora lhuillieri Montegut SPECIES
-=======
+# Cercospora lhuillieri Montegut SPECIES
 
 #### Status
 ACCEPTED

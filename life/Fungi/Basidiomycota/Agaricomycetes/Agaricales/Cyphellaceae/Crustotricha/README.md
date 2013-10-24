@@ -1,5 +1,4 @@
-Crustotricha Pilát, 1925 GENUS
-=======
+# Crustotricha Pilát, 1925 GENUS
 
 #### Status
 ACCEPTED

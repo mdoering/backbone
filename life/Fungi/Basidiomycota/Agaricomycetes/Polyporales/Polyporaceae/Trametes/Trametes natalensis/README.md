@@ -1,5 +1,4 @@
-Trametes natalensis Fr. SPECIES
-=======
+# Trametes natalensis Fr. SPECIES
 
 #### Status
 ACCEPTED

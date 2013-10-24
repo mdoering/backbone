@@ -1,5 +1,4 @@
-Russula claroviridis E.H.L. Krause SPECIES
-=======
+# Russula claroviridis E.H.L. Krause SPECIES
 
 #### Status
 ACCEPTED

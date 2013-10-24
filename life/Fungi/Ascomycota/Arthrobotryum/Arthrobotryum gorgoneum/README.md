@@ -1,5 +1,4 @@
-Arthrobotryum gorgoneum Cif. SPECIES
-=======
+# Arthrobotryum gorgoneum Cif. SPECIES
 
 #### Status
 ACCEPTED

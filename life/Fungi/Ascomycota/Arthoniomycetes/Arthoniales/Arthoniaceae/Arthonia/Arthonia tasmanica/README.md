@@ -1,5 +1,4 @@
-Arthonia tasmanica Kantvilas & Vezda SPECIES
-=======
+# Arthonia tasmanica Kantvilas & Vezda SPECIES
 
 #### Status
 ACCEPTED

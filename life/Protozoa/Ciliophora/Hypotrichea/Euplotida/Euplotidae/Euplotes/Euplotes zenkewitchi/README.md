@@ -1,5 +1,4 @@
-Euplotes zenkewitchi Burkovsky, 1970 SPECIES
-=======
+# Euplotes zenkewitchi Burkovsky, 1970 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Syniella E.A. Reitlinger, 1948 GENUS
-=======
+# Syniella E.A. Reitlinger, 1948 GENUS
 
 #### Status
 ACCEPTED

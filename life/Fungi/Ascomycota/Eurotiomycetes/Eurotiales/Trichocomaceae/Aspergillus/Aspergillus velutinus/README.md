@@ -1,5 +1,4 @@
-Aspergillus velutinus Mosseray SPECIES
-=======
+# Aspergillus velutinus Mosseray SPECIES
 
 #### Status
 ACCEPTED

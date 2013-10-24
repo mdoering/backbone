@@ -1,5 +1,4 @@
-Gibbago E.G. Simmons GENUS
-=======
+# Gibbago E.G. Simmons GENUS
 
 #### Status
 ACCEPTED

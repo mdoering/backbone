@@ -1,5 +1,4 @@
-Euglena gaumei Allorge & Lefèvre SPECIES
-=======
+# Euglena gaumei Allorge & Lefèvre SPECIES
 
 #### Status
 ACCEPTED

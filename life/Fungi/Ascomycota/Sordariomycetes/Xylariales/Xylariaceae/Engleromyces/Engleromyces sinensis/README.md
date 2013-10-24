@@ -1,5 +1,4 @@
-Engleromyces sinensis M.A. Whalley, A. Khalil, T.Z. Wei, Y.J. Yao & Whalley, 2010 SPECIES
-=======
+# Engleromyces sinensis M.A. Whalley, A. Khalil, T.Z. Wei, Y.J. Yao & Whalley, 2010 SPECIES
 
 #### Status
 ACCEPTED

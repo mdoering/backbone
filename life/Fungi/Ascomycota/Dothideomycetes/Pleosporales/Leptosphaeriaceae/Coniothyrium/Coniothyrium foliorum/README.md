@@ -1,5 +1,4 @@
-Coniothyrium foliorum Bondartsev SPECIES
-=======
+# Coniothyrium foliorum Bondartsev SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leucophra mamilla Müller, 1786 SPECIES
-=======
+# Leucophra mamilla Müller, 1786 SPECIES
 
 #### Status
 ACCEPTED

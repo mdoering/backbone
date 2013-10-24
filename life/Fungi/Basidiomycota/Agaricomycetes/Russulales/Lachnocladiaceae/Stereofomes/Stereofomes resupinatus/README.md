@@ -1,5 +1,4 @@
-Stereofomes resupinatus Rick SPECIES
-=======
+# Stereofomes resupinatus Rick SPECIES
 
 #### Status
 ACCEPTED

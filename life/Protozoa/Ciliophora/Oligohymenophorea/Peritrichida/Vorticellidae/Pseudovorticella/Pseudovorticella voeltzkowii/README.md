@@ -1,5 +1,4 @@
-Pseudovorticella voeltzkowii (Sondheim, 1929) Jankowski, 1976 SPECIES
-=======
+# Pseudovorticella voeltzkowii (Sondheim, 1929) Jankowski, 1976 SPECIES
 
 #### Status
 ACCEPTED

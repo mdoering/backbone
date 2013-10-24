@@ -1,5 +1,4 @@
-Lecanora conspurcans (Norman) Hedl. SPECIES
-=======
+# Lecanora conspurcans (Norman) Hedl. SPECIES
 
 #### Status
 ACCEPTED

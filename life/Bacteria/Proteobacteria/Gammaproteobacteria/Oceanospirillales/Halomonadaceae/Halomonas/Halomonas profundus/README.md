@@ -1,5 +1,4 @@
-Halomonas profundus Simon-Colin, Raguenes, Cozien & Guezennec, 2008 SPECIES
-=======
+# Halomonas profundus Simon-Colin, Raguenes, Cozien & Guezennec, 2008 SPECIES
 
 #### Status
 ACCEPTED

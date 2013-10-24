@@ -1,5 +1,4 @@
-Tricholoma rostratum Velen. SPECIES
-=======
+# Tricholoma rostratum Velen. SPECIES
 
 #### Status
 ACCEPTED

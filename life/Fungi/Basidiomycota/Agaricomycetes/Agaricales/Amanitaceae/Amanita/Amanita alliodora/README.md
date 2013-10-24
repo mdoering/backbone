@@ -1,5 +1,4 @@
-Amanita alliodora Pat. SPECIES
-=======
+# Amanita alliodora Pat. SPECIES
 
 #### Status
 ACCEPTED

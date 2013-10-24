@@ -1,5 +1,4 @@
-Aequorivita crocea Bowman & Nichols, 2002 SPECIES
-=======
+# Aequorivita crocea Bowman & Nichols, 2002 SPECIES
 
 #### Status
 ACCEPTED

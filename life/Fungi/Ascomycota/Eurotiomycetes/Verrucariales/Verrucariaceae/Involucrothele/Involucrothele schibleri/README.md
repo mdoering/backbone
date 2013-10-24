@@ -1,5 +1,4 @@
-Involucrothele schibleri (Zschacke) Servít SPECIES
-=======
+# Involucrothele schibleri (Zschacke) Servít SPECIES
 
 #### Status
 ACCEPTED

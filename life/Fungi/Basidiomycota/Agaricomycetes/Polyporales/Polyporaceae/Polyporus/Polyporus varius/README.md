@@ -1,17 +1,16 @@
-Melanopus varius subsp. varius SUBSPECIES
-=======
+# Polyporus varius (Pers.) Fr., 1821 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hyménomyc. Eur. (Paris) 137 (1887)
+Syst. mycol. (Lundae) 1: 352 (1821)
 
 #### Original name
-Melanopus varius subsp. varius
+Boletus varius Pers., 1796
 
 ### Remarks
 null

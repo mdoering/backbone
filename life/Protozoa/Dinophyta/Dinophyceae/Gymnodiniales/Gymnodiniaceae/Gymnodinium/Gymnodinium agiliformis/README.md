@@ -1,5 +1,4 @@
-Gymnodinium agiliformis Schiller SPECIES
-=======
+# Gymnodinium agiliformis Schiller SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspicilia boykinii Owe-Larss. & A. Nordin SPECIES
-=======
+# Aspicilia boykinii Owe-Larss. & A. Nordin SPECIES
 
 #### Status
 ACCEPTED

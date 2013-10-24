@@ -1,5 +1,4 @@
-Lituola bulla Brady, 1881 SPECIES
-=======
+# Lituola bulla Brady, 1881 SPECIES
 
 #### Status
 ACCEPTED

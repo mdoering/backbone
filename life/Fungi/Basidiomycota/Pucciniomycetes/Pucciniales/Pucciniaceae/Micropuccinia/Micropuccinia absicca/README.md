@@ -1,5 +1,4 @@
-Micropuccinia absicca (H.S. Jacks. & Holw.) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia absicca (H.S. Jacks. & Holw.) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

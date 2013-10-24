@@ -1,5 +1,4 @@
-Peziza badioides Donadini SPECIES
-=======
+# Peziza badioides Donadini SPECIES
 
 #### Status
 ACCEPTED

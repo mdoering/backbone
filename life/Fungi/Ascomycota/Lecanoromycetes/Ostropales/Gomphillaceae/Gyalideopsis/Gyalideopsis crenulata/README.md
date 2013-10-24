@@ -1,5 +1,4 @@
-Gyalideopsis crenulata Coppins & Aptroot SPECIES
-=======
+# Gyalideopsis crenulata Coppins & Aptroot SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stereum nigricans Sacc. SPECIES
-=======
+# Stereum nigricans Sacc. SPECIES
 
 #### Status
 ACCEPTED

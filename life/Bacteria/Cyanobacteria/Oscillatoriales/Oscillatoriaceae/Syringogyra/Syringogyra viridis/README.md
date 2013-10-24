@@ -1,5 +1,4 @@
-Syringogyra viridis J.F. Weisse, 1844 SPECIES
-=======
+# Syringogyra viridis J.F. Weisse, 1844 SPECIES
 
 #### Status
 ACCEPTED

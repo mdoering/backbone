@@ -1,5 +1,4 @@
-Puccinia humilicola Hasler SPECIES
-=======
+# Puccinia humilicola Hasler SPECIES
 
 #### Status
 ACCEPTED

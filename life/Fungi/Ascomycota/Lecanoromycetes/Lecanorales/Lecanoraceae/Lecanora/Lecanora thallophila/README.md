@@ -1,5 +1,4 @@
-Lecanora thallophila H. Magn. SPECIES
-=======
+# Lecanora thallophila H. Magn. SPECIES
 
 #### Status
 ACCEPTED

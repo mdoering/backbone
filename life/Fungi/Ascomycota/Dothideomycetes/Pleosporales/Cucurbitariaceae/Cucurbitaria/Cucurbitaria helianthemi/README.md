@@ -1,5 +1,4 @@
-Cucurbitaria helianthemi Ade SPECIES
-=======
+# Cucurbitaria helianthemi Ade SPECIES
 
 #### Status
 ACCEPTED

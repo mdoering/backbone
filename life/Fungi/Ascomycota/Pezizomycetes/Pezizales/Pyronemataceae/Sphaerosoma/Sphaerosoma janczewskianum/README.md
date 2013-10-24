@@ -1,5 +1,4 @@
-Sphaerosoma janczewskianum Rouppert {?} SPECIES
-=======
+# Sphaerosoma janczewskianum Rouppert {?} SPECIES
 
 #### Status
 ACCEPTED

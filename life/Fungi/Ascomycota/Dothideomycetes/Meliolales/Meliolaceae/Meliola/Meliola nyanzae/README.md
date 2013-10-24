@@ -1,5 +1,4 @@
-Meliola nyanzae Hansf. SPECIES
-=======
+# Meliola nyanzae Hansf. SPECIES
 
 #### Status
 ACCEPTED

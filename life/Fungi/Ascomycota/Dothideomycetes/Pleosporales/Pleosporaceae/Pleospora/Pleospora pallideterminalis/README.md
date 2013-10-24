@@ -1,5 +1,4 @@
-Pleospora pallideterminalis Nograsek SPECIES
-=======
+# Pleospora pallideterminalis Nograsek SPECIES
 
 #### Status
 ACCEPTED

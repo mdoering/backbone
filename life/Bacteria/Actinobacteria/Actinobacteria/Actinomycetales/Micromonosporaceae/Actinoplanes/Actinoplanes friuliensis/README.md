@@ -1,5 +1,4 @@
-Actinoplanes friuliensis Aretz et al., 2001 SPECIES
-=======
+# Actinoplanes friuliensis Aretz et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

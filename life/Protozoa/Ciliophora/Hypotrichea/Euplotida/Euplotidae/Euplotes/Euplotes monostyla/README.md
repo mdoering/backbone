@@ -1,5 +1,4 @@
-Euplotes monostyla SPECIES
-=======
+# Euplotes monostyla SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Colletotrichum trifolii Bain, 1906 SPECIES
-=======
+# Colletotrichum trifolii Bain, 1906 SPECIES
 
 #### Status
 ACCEPTED

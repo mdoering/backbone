@@ -1,5 +1,4 @@
-Peziza nivis Donadini SPECIES
-=======
+# Peziza nivis Donadini SPECIES
 
 #### Status
 ACCEPTED

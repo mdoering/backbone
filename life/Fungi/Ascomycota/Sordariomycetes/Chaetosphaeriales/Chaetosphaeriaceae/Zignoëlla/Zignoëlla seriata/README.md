@@ -1,14 +1,13 @@
-Psilosphaeria seriata (Curr.) Cooke, 1887 SPECIES
-=======
+# Zignoëlla seriata (Curr.) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 16(no. 78): 51 (1887)
+Syll. fung. (Abellini) 2: 219 (1883)
 
 #### Original name
 Sphaeria seriata Curr., 1859

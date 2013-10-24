@@ -1,5 +1,4 @@
-Colletotrichum violae-tricoloris R.E. Sm. SPECIES
-=======
+# Colletotrichum violae-tricoloris R.E. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chermomyces chermetis-strobilobii (ulc) Brain SPECIES
-=======
+# Chermomyces chermetis-strobilobii (ulc) Brain SPECIES
 
 #### Status
 ACCEPTED

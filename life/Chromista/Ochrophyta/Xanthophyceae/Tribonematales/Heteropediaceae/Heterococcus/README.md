@@ -1,5 +1,4 @@
-Heterococcus R. Chodat, 1907 GENUS
-=======
+# Heterococcus R. Chodat, 1907 GENUS
 
 #### Status
 ACCEPTED

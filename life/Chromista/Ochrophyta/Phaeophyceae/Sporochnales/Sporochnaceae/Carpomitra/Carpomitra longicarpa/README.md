@@ -1,5 +1,4 @@
-Carpomitra longicarpa Simons SPECIES
-=======
+# Carpomitra longicarpa Simons SPECIES
 
 #### Status
 ACCEPTED

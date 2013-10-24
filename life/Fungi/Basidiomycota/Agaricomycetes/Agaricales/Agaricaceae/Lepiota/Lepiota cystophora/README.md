@@ -1,5 +1,4 @@
-Lepiota cystophora Malençon SPECIES
-=======
+# Lepiota cystophora Malençon SPECIES
 
 #### Status
 ACCEPTED

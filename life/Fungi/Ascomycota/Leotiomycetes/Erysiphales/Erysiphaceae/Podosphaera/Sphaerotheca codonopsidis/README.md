@@ -1,17 +1,16 @@
-Sphaerotheca codonopsis Z.Y. Zhao SPECIES
-=======
+# Sphaerotheca codonopsidis Z.Y. Zhao SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Acta microbiol. sin. 19: 148 (1979)
 
 #### Original name
-Sphaerotheca codonopsis Z.Y. Zhao
+Sphaerotheca codonopsidis Z.Y. Zhao
 
 ### Remarks
 null

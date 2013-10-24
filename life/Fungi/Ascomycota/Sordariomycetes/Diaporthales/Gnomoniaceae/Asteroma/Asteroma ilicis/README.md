@@ -1,5 +1,4 @@
-Asteroma ilicis Grove SPECIES
-=======
+# Asteroma ilicis Grove SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spiloma effusum SPECIES
-=======
+# Spiloma effusum SPECIES
 
 #### Status
 ACCEPTED

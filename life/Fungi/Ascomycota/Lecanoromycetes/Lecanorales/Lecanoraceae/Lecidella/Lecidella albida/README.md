@@ -1,5 +1,4 @@
-Lecidella albida Hafellner SPECIES
-=======
+# Lecidella albida Hafellner SPECIES
 
 #### Status
 ACCEPTED

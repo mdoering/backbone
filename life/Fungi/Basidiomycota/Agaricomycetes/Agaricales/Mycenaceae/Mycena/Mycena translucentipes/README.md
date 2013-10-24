@@ -1,5 +1,4 @@
-Mycena translucentipes (Murrill) Kühner SPECIES
-=======
+# Mycena translucentipes (Murrill) Kühner SPECIES
 
 #### Status
 ACCEPTED

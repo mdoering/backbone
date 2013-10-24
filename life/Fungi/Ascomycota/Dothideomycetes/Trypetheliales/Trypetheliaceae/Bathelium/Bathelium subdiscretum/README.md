@@ -1,5 +1,4 @@
-Bathelium subdiscretum (Nyl.) Müll. Arg. SPECIES
-=======
+# Bathelium subdiscretum (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

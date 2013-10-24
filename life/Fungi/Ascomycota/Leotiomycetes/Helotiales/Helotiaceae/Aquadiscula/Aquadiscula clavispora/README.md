@@ -1,5 +1,4 @@
-Aquadiscula clavispora Fallah & Shearer SPECIES
-=======
+# Aquadiscula clavispora Fallah & Shearer SPECIES
 
 #### Status
 ACCEPTED

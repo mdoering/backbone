@@ -1,5 +1,4 @@
-Lecidea diexcipula D. Hawksw. & Alstrup SPECIES
-=======
+# Lecidea diexcipula D. Hawksw. & Alstrup SPECIES
 
 #### Status
 ACCEPTED

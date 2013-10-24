@@ -1,5 +1,4 @@
-Diploschistes impressus Sw. SPECIES
-=======
+# Diploschistes impressus Sw. SPECIES
 
 #### Status
 ACCEPTED

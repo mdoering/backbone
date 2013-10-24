@@ -1,5 +1,4 @@
-Micropeltis goniothalami Bat. & Peres SPECIES
-=======
+# Micropeltis goniothalami Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

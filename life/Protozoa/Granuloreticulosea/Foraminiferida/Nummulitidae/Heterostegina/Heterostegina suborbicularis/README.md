@@ -1,5 +1,4 @@
-Heterostegina suborbicularis d'Orbigny, 1826 SPECIES
-=======
+# Heterostegina suborbicularis d'Orbigny, 1826 SPECIES
 
 #### Status
 ACCEPTED

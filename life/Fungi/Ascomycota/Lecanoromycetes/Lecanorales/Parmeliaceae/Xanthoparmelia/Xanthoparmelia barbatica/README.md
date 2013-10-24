@@ -1,14 +1,13 @@
-Parmelia barbatica Elix SPECIES
-=======
+# Xanthoparmelia barbatica (Elix) Egan SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Aust. J. Bot. 24: 663 (1976)
+Bryologist 85(1): 129 (1982)
 
 #### Original name
 Parmelia barbatica Elix

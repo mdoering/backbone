@@ -1,5 +1,4 @@
-Lepiota subcortinaria Singer SPECIES
-=======
+# Lepiota subcortinaria Singer SPECIES
 
 #### Status
 ACCEPTED

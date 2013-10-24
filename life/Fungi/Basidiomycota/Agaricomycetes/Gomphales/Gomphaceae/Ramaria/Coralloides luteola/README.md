@@ -1,5 +1,4 @@
-Coralloides luteola Bory SPECIES
-=======
+# Coralloides luteola Bory SPECIES
 
 #### Status
 ACCEPTED

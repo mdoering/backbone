@@ -1,5 +1,4 @@
-Amanita aeruginosa Lam. SPECIES
-=======
+# Amanita aeruginosa Lam. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helotium conisteum Durieu & Lév. SPECIES
-=======
+# Helotium conisteum Durieu & Lév. SPECIES
 
 #### Status
 ACCEPTED

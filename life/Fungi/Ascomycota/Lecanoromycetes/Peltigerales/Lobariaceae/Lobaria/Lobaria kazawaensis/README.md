@@ -1,5 +1,4 @@
-Lobaria kazawaensis (Asahina) Yoshim. SPECIES
-=======
+# Lobaria kazawaensis (Asahina) Yoshim. SPECIES
 
 #### Status
 ACCEPTED

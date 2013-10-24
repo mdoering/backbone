@@ -1,5 +1,4 @@
-Uromyces indicus Pat. SPECIES
-=======
+# Uromyces indicus Pat. SPECIES
 
 #### Status
 ACCEPTED

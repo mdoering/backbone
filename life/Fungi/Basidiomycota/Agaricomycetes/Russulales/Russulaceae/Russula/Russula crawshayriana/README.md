@@ -1,5 +1,4 @@
-Russula crawshayriana J. Blum SPECIES
-=======
+# Russula crawshayriana J. Blum SPECIES
 
 #### Status
 ACCEPTED

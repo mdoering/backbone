@@ -1,5 +1,4 @@
-Ameromassaria Hara GENUS
-=======
+# Ameromassaria Hara GENUS
 
 #### Status
 ACCEPTED

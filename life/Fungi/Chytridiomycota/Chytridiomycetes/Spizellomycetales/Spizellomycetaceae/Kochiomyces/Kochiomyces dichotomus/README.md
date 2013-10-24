@@ -1,14 +1,13 @@
-Kochiomyces dichotomum (Umphlett) D.J.S. Barr SPECIES
-=======
+# Kochiomyces dichotomus (Umphlett) D.J.S. Barr, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Can. J. Bot. 58(22): 2386 (1980)
 
 #### Original name
 Phlyctochytrium dichotomum Umphlett, 1968

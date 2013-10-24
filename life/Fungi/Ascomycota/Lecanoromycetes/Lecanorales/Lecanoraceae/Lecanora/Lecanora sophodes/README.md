@@ -1,5 +1,4 @@
-Lecanora sophodes var. sophodes VARIETY
-=======
+# Lecanora sophodes SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora sophodes var. sophodes
+null
 
 ### Remarks
 null

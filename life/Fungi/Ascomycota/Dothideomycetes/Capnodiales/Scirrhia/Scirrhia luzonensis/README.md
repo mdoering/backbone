@@ -1,5 +1,4 @@
-Scirrhia luzonensis Henn. SPECIES
-=======
+# Scirrhia luzonensis Henn. SPECIES
 
 #### Status
 ACCEPTED

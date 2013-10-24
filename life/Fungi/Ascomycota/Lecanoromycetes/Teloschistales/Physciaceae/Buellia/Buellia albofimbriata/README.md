@@ -1,5 +1,4 @@
-Buellia albofimbriata C.W. Dodge SPECIES
-=======
+# Buellia albofimbriata C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

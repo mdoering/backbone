@@ -1,5 +1,4 @@
-Asterinella dipteridis Hansf. SPECIES
-=======
+# Asterinella dipteridis Hansf. SPECIES
 
 #### Status
 ACCEPTED

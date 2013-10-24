@@ -1,5 +1,4 @@
-Eoparastaffella simplex SPECIES
-=======
+# Eoparastaffella simplex SPECIES
 
 #### Status
 ACCEPTED

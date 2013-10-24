@@ -1,5 +1,4 @@
-Acanthostigma paucisetum Mouton SPECIES
-=======
+# Acanthostigma paucisetum Mouton SPECIES
 
 #### Status
 ACCEPTED

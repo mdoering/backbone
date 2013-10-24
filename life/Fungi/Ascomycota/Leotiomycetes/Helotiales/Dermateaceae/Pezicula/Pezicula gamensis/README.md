@@ -1,5 +1,4 @@
-Pezicula gamensis Kirschst. SPECIES
-=======
+# Pezicula gamensis Kirschst. SPECIES
 
 #### Status
 ACCEPTED

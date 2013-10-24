@@ -1,5 +1,4 @@
-Hypoxylon immersum Malbr. & Brunaud SPECIES
-=======
+# Hypoxylon immersum Malbr. & Brunaud SPECIES
 
 #### Status
 ACCEPTED

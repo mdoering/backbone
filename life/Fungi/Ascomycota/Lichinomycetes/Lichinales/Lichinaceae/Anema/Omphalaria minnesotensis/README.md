@@ -1,5 +1,4 @@
-Omphalaria minnesotensis Fink SPECIES
-=======
+# Omphalaria minnesotensis Fink SPECIES
 
 #### Status
 ACCEPTED

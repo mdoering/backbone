@@ -1,5 +1,4 @@
-Patellaria phaeoloma (Müll. Arg.) SPECIES
-=======
+# Patellaria phaeoloma (Müll. Arg.) SPECIES
 
 #### Status
 ACCEPTED

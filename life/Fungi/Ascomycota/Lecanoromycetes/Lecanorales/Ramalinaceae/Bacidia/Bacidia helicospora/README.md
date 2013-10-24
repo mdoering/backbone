@@ -1,5 +1,4 @@
-Bacidia helicospora S. Ekman SPECIES
-=======
+# Bacidia helicospora S. Ekman SPECIES
 
 #### Status
 ACCEPTED

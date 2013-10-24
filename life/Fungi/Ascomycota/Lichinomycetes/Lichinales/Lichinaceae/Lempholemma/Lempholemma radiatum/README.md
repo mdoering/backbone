@@ -1,14 +1,13 @@
-Collema radiatum Sommerf. SPECIES
-=======
+# Lempholemma radiatum (Sommerf.) Henssen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Suppl. Fl. lapp. (Oslo) (1826)
+Ber. dt. bot. Ges. 81: 176 (1968)
 
 #### Original name
 Collema radiatum Sommerf.

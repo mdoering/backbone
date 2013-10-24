@@ -1,5 +1,4 @@
-Pyxidium longicollum Biegel, 1954 SPECIES
-=======
+# Pyxidium longicollum Biegel, 1954 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cambosira reticulata Fr. SPECIES
-=======
+# Cambosira reticulata Fr. SPECIES
 
 #### Status
 ACCEPTED

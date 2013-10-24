@@ -1,5 +1,4 @@
-Salibacillus Wainø et al., 1999 GENUS
-=======
+# Salibacillus Wainø et al., 1999 GENUS
 
 #### Status
 ACCEPTED

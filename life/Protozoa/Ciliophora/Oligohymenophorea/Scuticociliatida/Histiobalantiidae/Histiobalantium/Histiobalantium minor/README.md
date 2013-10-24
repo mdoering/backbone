@@ -1,5 +1,4 @@
-Histiobalantium minor SPECIES
-=======
+# Histiobalantium minor SPECIES
 
 #### Status
 ACCEPTED

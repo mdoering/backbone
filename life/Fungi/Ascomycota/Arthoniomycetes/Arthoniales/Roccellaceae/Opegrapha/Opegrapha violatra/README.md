@@ -1,5 +1,4 @@
-Opegrapha violatra A. Massal. SPECIES
-=======
+# Opegrapha violatra A. Massal. SPECIES
 
 #### Status
 ACCEPTED

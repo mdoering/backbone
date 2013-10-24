@@ -1,5 +1,4 @@
-Cercospora secalis Chupp SPECIES
-=======
+# Cercospora secalis Chupp SPECIES
 
 #### Status
 ACCEPTED

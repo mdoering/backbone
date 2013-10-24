@@ -1,5 +1,4 @@
-Dictyostelium delicatum H. Hagiw., 1971 SPECIES
-=======
+# Dictyostelium delicatum H. Hagiw., 1971 SPECIES
 
 #### Status
 ACCEPTED

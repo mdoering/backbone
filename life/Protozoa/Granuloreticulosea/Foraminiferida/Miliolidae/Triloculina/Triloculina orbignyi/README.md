@@ -1,5 +1,4 @@
-Triloculina orbignyi SPECIES
-=======
+# Triloculina orbignyi SPECIES
 
 #### Status
 ACCEPTED

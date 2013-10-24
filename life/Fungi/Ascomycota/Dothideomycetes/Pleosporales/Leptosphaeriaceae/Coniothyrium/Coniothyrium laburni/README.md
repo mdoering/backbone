@@ -1,5 +1,4 @@
-Coniothyrium laburni Richon SPECIES
-=======
+# Coniothyrium laburni Richon SPECIES
 
 #### Status
 ACCEPTED

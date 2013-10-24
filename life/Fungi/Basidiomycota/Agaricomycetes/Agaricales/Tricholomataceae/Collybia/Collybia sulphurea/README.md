@@ -1,5 +1,4 @@
-Collybia sulphurea Henn. SPECIES
-=======
+# Collybia sulphurea Henn. SPECIES
 
 #### Status
 ACCEPTED

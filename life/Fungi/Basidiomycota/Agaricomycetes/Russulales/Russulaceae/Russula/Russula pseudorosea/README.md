@@ -1,5 +1,4 @@
-Russula pseudorosea J. Blum SPECIES
-=======
+# Russula pseudorosea J. Blum SPECIES
 
 #### Status
 ACCEPTED

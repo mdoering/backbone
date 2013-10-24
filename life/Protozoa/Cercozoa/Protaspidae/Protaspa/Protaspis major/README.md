@@ -1,5 +1,4 @@
-Protaspis major Skuja, 1939 SPECIES
-=======
+# Protaspis major Skuja, 1939 SPECIES
 
 #### Status
 DOUBTFUL

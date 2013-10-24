@@ -1,5 +1,4 @@
-Sporotrichum allescheri Sacc. & P. Syd. SPECIES
-=======
+# Sporotrichum allescheri Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

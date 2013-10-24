@@ -1,5 +1,4 @@
-Ascozonus monascus Brumm. & M.J. Richardson, 2000 SPECIES
-=======
+# Ascozonus monascus Brumm. & M.J. Richardson, 2000 SPECIES
 
 #### Status
 ACCEPTED

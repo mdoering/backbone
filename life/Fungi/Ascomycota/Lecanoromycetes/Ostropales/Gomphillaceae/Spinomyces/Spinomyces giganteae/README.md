@@ -1,5 +1,4 @@
-Spinomyces giganteae Bat. & M.P. Herrera SPECIES
-=======
+# Spinomyces giganteae Bat. & M.P. Herrera SPECIES
 
 #### Status
 ACCEPTED

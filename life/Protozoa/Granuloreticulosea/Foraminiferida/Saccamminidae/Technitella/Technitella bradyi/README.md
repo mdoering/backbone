@@ -1,5 +1,4 @@
-Technitella bradyi Earland, 1934 SPECIES
-=======
+# Technitella bradyi Earland, 1934 SPECIES
 
 #### Status
 ACCEPTED

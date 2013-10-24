@@ -1,5 +1,4 @@
-Lecidea thelotremoides (Nyl.) Nyl. SPECIES
-=======
+# Lecidea thelotremoides (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

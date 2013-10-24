@@ -1,5 +1,4 @@
-Russula cyanea R. Heim SPECIES
-=======
+# Russula cyanea R. Heim SPECIES
 
 #### Status
 ACCEPTED

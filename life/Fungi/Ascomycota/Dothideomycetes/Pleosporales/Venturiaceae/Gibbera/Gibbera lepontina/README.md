@@ -1,5 +1,4 @@
-Gibbera lepontina E. Müll. SPECIES
-=======
+# Gibbera lepontina E. Müll. SPECIES
 
 #### Status
 ACCEPTED

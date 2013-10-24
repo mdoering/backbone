@@ -1,5 +1,4 @@
-Marasmius brasiliensis Berk. & Mont. SPECIES
-=======
+# Marasmius brasiliensis Berk. & Mont. SPECIES
 
 #### Status
 ACCEPTED

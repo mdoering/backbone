@@ -1,5 +1,4 @@
-Omphalia brunnescens (Murrill) Murrill SPECIES
-=======
+# Omphalia brunnescens (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

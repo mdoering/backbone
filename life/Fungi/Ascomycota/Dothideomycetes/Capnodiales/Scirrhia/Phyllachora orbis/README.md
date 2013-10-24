@@ -1,5 +1,4 @@
-Phyllachora orbis (Berk.) Cooke, 1885 SPECIES
-=======
+# Phyllachora orbis (Berk.) Cooke, 1885 SPECIES
 
 #### Status
 DOUBTFUL

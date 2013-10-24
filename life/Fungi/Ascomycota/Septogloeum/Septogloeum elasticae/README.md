@@ -1,5 +1,4 @@
-Septogloeum elasticae Koord. SPECIES
-=======
+# Septogloeum elasticae Koord. SPECIES
 
 #### Status
 ACCEPTED

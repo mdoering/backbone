@@ -1,5 +1,4 @@
-Ceratomyces semiopacus Thaxt. SPECIES
-=======
+# Ceratomyces semiopacus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

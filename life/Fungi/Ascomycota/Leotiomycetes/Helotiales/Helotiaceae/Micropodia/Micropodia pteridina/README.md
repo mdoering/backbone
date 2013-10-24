@@ -1,14 +1,13 @@
-Pezizella pteridina (Nyl.) Rehm, 1912 SPECIES
-=======
+# Micropodia pteridina (Nyl.) Boud., 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Icon. Mycol. (Paris) 3: pl. 527 (1907)
 
 #### Original name
 null

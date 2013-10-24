@@ -1,5 +1,4 @@
-Monoporisporites gigasus Z.C. Song SPECIES
-=======
+# Monoporisporites gigasus Z.C. Song SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paranetrelytron W.A.S. Sarjeant, 1966 GENUS
-=======
+# Paranetrelytron W.A.S. Sarjeant, 1966 GENUS
 
 #### Status
 ACCEPTED

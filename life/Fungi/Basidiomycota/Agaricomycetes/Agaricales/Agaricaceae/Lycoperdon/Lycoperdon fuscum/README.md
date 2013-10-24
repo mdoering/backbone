@@ -1,5 +1,4 @@
-Lycoperdon fuscum var. fuscum VARIETY
-=======
+# Lycoperdon fuscum Huds. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lycoperdon fuscum var. fuscum
+Lycoperdon fuscum Huds.
 
 ### Remarks
 null

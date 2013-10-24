@@ -1,5 +1,4 @@
-Anabaena scheremetievi Elenkin SPECIES
-=======
+# Anabaena scheremetievi Elenkin SPECIES
 
 #### Status
 ACCEPTED

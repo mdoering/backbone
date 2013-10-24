@@ -1,5 +1,4 @@
-Nectria zeae Saccas SPECIES
-=======
+# Nectria zeae Saccas SPECIES
 
 #### Status
 ACCEPTED

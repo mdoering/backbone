@@ -1,5 +1,4 @@
-Typhula friesii P. Karst. SPECIES
-=======
+# Typhula friesii P. Karst. SPECIES
 
 #### Status
 ACCEPTED

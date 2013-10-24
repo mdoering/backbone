@@ -1,5 +1,4 @@
-Xylaria tuberoides Rehm SPECIES
-=======
+# Xylaria tuberoides Rehm SPECIES
 
 #### Status
 ACCEPTED

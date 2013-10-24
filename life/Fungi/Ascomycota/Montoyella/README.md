@@ -1,5 +1,4 @@
-Montoyella Castell. & Chalm. GENUS
-=======
+# Montoyella Castell. & Chalm. GENUS
 
 #### Status
 ACCEPTED

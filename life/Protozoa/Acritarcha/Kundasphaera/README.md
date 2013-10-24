@@ -1,5 +1,4 @@
-Kundasphaera Uutela, 1989 ex Uutela & Tynni, 1991 GENUS
-=======
+# Kundasphaera Uutela, 1989 ex Uutela & Tynni, 1991 GENUS
 
 #### Status
 ACCEPTED

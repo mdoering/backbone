@@ -1,5 +1,4 @@
-Hymenochaete harpago J.C. Léger, 1981 SPECIES
-=======
+# Hymenochaete harpago J.C. Léger, 1981 SPECIES
 
 #### Status
 ACCEPTED

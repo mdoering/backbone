@@ -1,5 +1,4 @@
-Quinqueloculina venezuelaensis SPECIES
-=======
+# Quinqueloculina venezuelaensis SPECIES
 
 #### Status
 ACCEPTED

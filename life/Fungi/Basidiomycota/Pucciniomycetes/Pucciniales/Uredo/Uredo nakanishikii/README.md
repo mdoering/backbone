@@ -1,5 +1,4 @@
-Uredo nakanishikii Henn. SPECIES
-=======
+# Uredo nakanishikii Henn. SPECIES
 
 #### Status
 ACCEPTED

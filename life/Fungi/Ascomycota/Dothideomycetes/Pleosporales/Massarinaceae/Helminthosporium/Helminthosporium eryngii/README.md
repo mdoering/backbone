@@ -1,5 +1,4 @@
-Helminthosporium eryngii (Pers.) Fr. SPECIES
-=======
+# Helminthosporium eryngii (Pers.) Fr. SPECIES
 
 #### Status
 ACCEPTED

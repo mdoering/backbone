@@ -1,17 +1,16 @@
-Poria aurantiaca var. aurantiaca VARIETY
-=======
+# Erastia salmonicolor (Berk. & M.A. Curtis) Niemelä & Kinnunen, 2005 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Saccardo, Syll. fung. (Abellini) 9: 191 (1891)
+in Niemelä, Kinnunen, Larsson, Schigel & Larsson, Karstenia 45(2): 76 (2005)
 
 #### Original name
-Poria aurantiaca var. aurantiaca
+Polyporus salmonicolor Berk. & M.A. Curtis, 1849
 
 ### Remarks
 null

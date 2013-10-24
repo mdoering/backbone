@@ -1,5 +1,4 @@
-Plectomyces gracilis Thaxt., 1931 SPECIES
-=======
+# Plectomyces gracilis Thaxt., 1931 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora crinicola R.K. Srivast., N. Srivast. & A.K. Srivast. SPECIES
-=======
+# Cercospora crinicola R.K. Srivast., N. Srivast. & A.K. Srivast. SPECIES
 
 #### Status
 ACCEPTED

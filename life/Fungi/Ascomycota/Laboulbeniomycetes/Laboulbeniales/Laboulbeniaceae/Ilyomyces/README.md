@@ -1,5 +1,4 @@
-Ilyomyces F. Picard GENUS
-=======
+# Ilyomyces F. Picard GENUS
 
 #### Status
 ACCEPTED

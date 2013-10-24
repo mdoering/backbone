@@ -1,5 +1,4 @@
-Haemohormidium terranovae So, 1972 SPECIES
-=======
+# Haemohormidium terranovae So, 1972 SPECIES
 
 #### Status
 ACCEPTED

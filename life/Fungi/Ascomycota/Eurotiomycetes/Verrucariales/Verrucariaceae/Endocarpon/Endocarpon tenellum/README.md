@@ -1,5 +1,4 @@
-Endocarpon tenellum Garov. SPECIES
-=======
+# Endocarpon tenellum Garov. SPECIES
 
 #### Status
 ACCEPTED

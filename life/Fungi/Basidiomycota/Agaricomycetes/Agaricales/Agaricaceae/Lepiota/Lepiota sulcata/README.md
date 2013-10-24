@@ -1,5 +1,4 @@
-Lepiota sulcata Locq. SPECIES
-=======
+# Lepiota sulcata Locq. SPECIES
 
 #### Status
 ACCEPTED

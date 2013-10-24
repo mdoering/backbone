@@ -1,5 +1,4 @@
-Dendryphion cephaticum SPECIES
-=======
+# Dendryphion cephaticum SPECIES
 
 #### Status
 ACCEPTED

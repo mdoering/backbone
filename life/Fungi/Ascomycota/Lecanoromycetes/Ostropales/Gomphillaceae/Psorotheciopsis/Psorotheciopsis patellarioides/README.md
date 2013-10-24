@@ -1,14 +1,13 @@
-Catillaria patellarioides (Rehm) Sant. SPECIES
-=======
+# Psorotheciopsis patellarioides (Rehm) R. Sant. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Symb. bot. upsal. 12(no. 1): 336 (1952)
 
 #### Original name
 null

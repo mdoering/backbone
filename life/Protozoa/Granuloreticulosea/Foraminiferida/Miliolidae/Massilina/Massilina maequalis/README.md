@@ -1,5 +1,4 @@
-Massilina maequalis Cushman SPECIES
-=======
+# Massilina maequalis Cushman SPECIES
 
 #### Status
 ACCEPTED

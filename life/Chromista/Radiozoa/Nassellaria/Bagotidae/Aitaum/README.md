@@ -1,5 +1,4 @@
-Aitaum GENUS
-=======
+# Aitaum GENUS
 
 #### Status
 ACCEPTED

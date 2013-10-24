@@ -1,5 +1,4 @@
-Pseudostaurastrum gallicum P. Bourrelly SPECIES
-=======
+# Pseudostaurastrum gallicum P. Bourrelly SPECIES
 
 #### Status
 ACCEPTED

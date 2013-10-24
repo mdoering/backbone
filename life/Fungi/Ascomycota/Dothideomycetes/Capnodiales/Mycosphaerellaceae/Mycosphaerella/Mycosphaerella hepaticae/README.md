@@ -1,5 +1,4 @@
-Mycosphaerella hepaticae Petr. SPECIES
-=======
+# Mycosphaerella hepaticae Petr. SPECIES
 
 #### Status
 ACCEPTED

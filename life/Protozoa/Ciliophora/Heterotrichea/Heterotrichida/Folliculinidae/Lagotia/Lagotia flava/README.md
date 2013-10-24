@@ -1,5 +1,4 @@
-Lagotia flava (Silén, 1947) Hadzi SPECIES
-=======
+# Lagotia flava (Silén, 1947) Hadzi SPECIES
 
 #### Status
 ACCEPTED

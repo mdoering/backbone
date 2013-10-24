@@ -1,5 +1,4 @@
-Gardnerella vaginalis (Gardner & Dukes, 1955) Greenwood & Pickett, 1980 SPECIES
-=======
+# Gardnerella vaginalis (Gardner & Dukes, 1955) Greenwood & Pickett, 1980 SPECIES
 
 #### Status
 ACCEPTED

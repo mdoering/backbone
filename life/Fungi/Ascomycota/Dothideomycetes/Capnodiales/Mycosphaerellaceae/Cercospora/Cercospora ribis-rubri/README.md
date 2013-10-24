@@ -1,5 +1,4 @@
-Cercospora ribis-rubri Savul. & Sandu SPECIES
-=======
+# Cercospora ribis-rubri Savul. & Sandu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cordyceps hesleri Mains SPECIES
-=======
+# Cordyceps hesleri Mains SPECIES
 
 #### Status
 ACCEPTED

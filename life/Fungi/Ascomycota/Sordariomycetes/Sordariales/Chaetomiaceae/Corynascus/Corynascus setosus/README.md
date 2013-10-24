@@ -1,14 +1,13 @@
-Chaetomidium setosum (Dade) Lodha, 1978 SPECIES
-=======
+# Corynascus setosus (Dade) Arx, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Subramanian (Ed. ), Taxonomy of Fungi (Proc. int. Symp. Madras, 1973), Pt 1 248 (1978)
+Stud. Mycol. 8: 22 (1975)
 
 #### Original name
 Thielavia setosa Dade, 1937

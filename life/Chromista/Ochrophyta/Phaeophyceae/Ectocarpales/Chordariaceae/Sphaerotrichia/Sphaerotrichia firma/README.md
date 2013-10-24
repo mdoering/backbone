@@ -1,5 +1,4 @@
-Sphaerotrichia firma (Gepp) A.D.Zinova SPECIES
-=======
+# Sphaerotrichia firma (Gepp) A.D.Zinova SPECIES
 
 #### Status
 ACCEPTED

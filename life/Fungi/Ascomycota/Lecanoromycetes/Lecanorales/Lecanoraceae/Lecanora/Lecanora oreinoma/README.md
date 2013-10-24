@@ -1,5 +1,4 @@
-Lecanora oreinoma (Hue) Zahlbr. SPECIES
-=======
+# Lecanora oreinoma (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

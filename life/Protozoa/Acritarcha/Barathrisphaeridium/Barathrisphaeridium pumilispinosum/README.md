@@ -1,5 +1,4 @@
-Barathrisphaeridium pumilispinosum Wicander, 1974 SPECIES
-=======
+# Barathrisphaeridium pumilispinosum Wicander, 1974 SPECIES
 
 #### Status
 ACCEPTED

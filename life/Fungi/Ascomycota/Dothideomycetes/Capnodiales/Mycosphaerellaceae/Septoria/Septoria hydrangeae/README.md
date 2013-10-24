@@ -1,5 +1,4 @@
-Septoria hydrangeae Bizz. SPECIES
-=======
+# Septoria hydrangeae Bizz. SPECIES
 
 #### Status
 ACCEPTED

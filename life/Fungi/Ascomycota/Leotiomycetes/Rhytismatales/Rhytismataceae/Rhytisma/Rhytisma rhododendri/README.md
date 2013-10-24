@@ -1,5 +1,4 @@
-Rhytisma rhododendri Fr. SPECIES
-=======
+# Rhytisma rhododendri Fr. SPECIES
 
 #### Status
 ACCEPTED

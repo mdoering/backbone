@@ -1,5 +1,4 @@
-Bizonula Corliss, 1960 GENUS
-=======
+# Bizonula Corliss, 1960 GENUS
 
 #### Status
 ACCEPTED

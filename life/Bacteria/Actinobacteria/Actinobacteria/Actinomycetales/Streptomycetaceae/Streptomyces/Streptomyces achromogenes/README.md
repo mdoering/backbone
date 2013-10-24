@@ -1,5 +1,4 @@
-Streptomyces achromogenes subsp. achromogenes SUBSPECIES
-=======
+# Streptomyces achromogenes Okami & Umezawa, 1953 SPECIES
 
 #### Status
 ACCEPTED

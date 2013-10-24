@@ -1,5 +1,4 @@
-Stipella vigilans L. Léger & M. Gauthier, 1932 SPECIES
-=======
+# Stipella vigilans L. Léger & M. Gauthier, 1932 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycoderma bordetii Kuff. SPECIES
-=======
+# Mycoderma bordetii Kuff. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psilopezia aurantiaca var. aurantiaca VARIETY
-=======
+# Psilopezia aurantiaca Gillet SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Psilopezia aurantiaca var. aurantiaca
+Psilopezia aurantiaca Gillet
 
 ### Remarks
 null

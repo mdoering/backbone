@@ -1,5 +1,4 @@
-Blastenia dispersa C.W. Dodge SPECIES
-=======
+# Blastenia dispersa C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

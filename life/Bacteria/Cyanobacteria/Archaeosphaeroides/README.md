@@ -1,5 +1,4 @@
-Archaeosphaeroides J.W. Schopf & E.S. Barghoorn, 1967 GENUS
-=======
+# Archaeosphaeroides J.W. Schopf & E.S. Barghoorn, 1967 GENUS
 
 #### Status
 ACCEPTED

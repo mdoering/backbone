@@ -1,5 +1,4 @@
-Catharinia chilensis Speg. SPECIES
-=======
+# Catharinia chilensis Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria nypicola K.D. Hyde & Alias, 1999 SPECIES
-=======
+# Leptosphaeria nypicola K.D. Hyde & Alias, 1999 SPECIES
 
 #### Status
 ACCEPTED

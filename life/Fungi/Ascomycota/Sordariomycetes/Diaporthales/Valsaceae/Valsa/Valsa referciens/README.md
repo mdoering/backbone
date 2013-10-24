@@ -1,5 +1,4 @@
-Valsa referciens Sacc. SPECIES
-=======
+# Valsa referciens Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius microdendron Singer SPECIES
-=======
+# Marasmius microdendron Singer SPECIES
 
 #### Status
 ACCEPTED

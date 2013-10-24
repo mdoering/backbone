@@ -1,5 +1,4 @@
-Cladina beringiana (Ahti) Trass SPECIES
-=======
+# Cladina beringiana (Ahti) Trass SPECIES
 
 #### Status
 ACCEPTED

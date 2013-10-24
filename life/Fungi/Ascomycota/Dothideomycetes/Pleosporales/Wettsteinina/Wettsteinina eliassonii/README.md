@@ -1,5 +1,4 @@
-Wettsteinina eliassonii Petr. SPECIES
-=======
+# Wettsteinina eliassonii Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diploidium anacardii Hansf. SPECIES
-=======
+# Diploidium anacardii Hansf. SPECIES
 
 #### Status
 ACCEPTED

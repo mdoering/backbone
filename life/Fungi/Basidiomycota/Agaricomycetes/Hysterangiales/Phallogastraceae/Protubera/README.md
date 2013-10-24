@@ -1,17 +1,16 @@
-Protophallus Murrill GENUS
-=======
+# Protubera Möller GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 2(1): 25 (1910)
+Bot. Mitt. Trop. 7: 10, 145 (1895)
 
 #### Original name
-Protophallus Murrill
+Protubera Möller
 
 ### Remarks
 null

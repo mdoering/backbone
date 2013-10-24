@@ -1,8 +1,7 @@
-Lecanora vascesia A. Massal. SPECIES
-=======
+# Lecanora vasquesia (A. Massal.) Stizenb. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora vascesia A. Massal.
+Blastenia vasquesia A. Massal.
 
 ### Remarks
 null

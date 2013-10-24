@@ -1,5 +1,4 @@
-Catenulopsora flacourtiae Mundk. & Thirum. SPECIES
-=======
+# Catenulopsora flacourtiae Mundk. & Thirum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pannularia psotina (Fr.) Nyl. SPECIES
-=======
+# Pannularia psotina (Fr.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

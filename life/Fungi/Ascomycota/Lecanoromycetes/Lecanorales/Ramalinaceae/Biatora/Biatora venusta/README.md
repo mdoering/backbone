@@ -1,5 +1,4 @@
-Biatora venusta Hepp SPECIES
-=======
+# Biatora venusta Hepp SPECIES
 
 #### Status
 ACCEPTED

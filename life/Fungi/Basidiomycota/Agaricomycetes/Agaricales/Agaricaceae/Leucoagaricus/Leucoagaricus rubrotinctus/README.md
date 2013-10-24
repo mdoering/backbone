@@ -1,5 +1,4 @@
-Leucoagaricus rubrotinctus (Peck) Singer SPECIES
-=======
+# Leucoagaricus rubrotinctus (Peck) Singer SPECIES
 
 #### Status
 ACCEPTED

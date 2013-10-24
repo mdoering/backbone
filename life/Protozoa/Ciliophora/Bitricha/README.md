@@ -1,5 +1,4 @@
-Bitricha Cameron, O'Donoghue & Adlard, 2000 GENUS
-=======
+# Bitricha Cameron, O'Donoghue & Adlard, 2000 GENUS
 
 #### Status
 ACCEPTED

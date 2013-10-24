@@ -1,5 +1,4 @@
-Choanogaster Pochmann, 1959 GENUS
-=======
+# Choanogaster Pochmann, 1959 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cytospora verrucula Sacc. & Berl. SPECIES
-=======
+# Cytospora verrucula Sacc. & Berl. SPECIES
 
 #### Status
 ACCEPTED

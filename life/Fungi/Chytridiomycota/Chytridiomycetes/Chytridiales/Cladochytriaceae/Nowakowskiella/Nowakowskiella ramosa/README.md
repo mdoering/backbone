@@ -1,5 +1,4 @@
-Nowakowskiella ramosa E.J. Butler SPECIES
-=======
+# Nowakowskiella ramosa E.J. Butler SPECIES
 
 #### Status
 ACCEPTED

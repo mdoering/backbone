@@ -1,5 +1,4 @@
-Tokophrya commensalis SPECIES
-=======
+# Tokophrya commensalis SPECIES
 
 #### Status
 ACCEPTED

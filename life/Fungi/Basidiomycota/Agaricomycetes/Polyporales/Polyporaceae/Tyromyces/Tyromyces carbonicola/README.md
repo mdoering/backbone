@@ -1,5 +1,4 @@
-Tyromyces carbonicola Corner SPECIES
-=======
+# Tyromyces carbonicola Corner SPECIES
 
 #### Status
 ACCEPTED

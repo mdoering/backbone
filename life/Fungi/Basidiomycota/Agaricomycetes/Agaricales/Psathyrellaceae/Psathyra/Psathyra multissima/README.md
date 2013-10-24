@@ -1,5 +1,4 @@
-Psathyra multissima S. Imai SPECIES
-=======
+# Psathyra multissima S. Imai SPECIES
 
 #### Status
 ACCEPTED

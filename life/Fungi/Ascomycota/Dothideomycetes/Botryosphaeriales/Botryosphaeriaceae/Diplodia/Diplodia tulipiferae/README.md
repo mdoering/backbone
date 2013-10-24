@@ -1,5 +1,4 @@
-Diplodia tulipiferae Died. SPECIES
-=======
+# Diplodia tulipiferae Died. SPECIES
 
 #### Status
 ACCEPTED

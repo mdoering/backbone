@@ -1,5 +1,4 @@
-Meliola silentvalleyensis Hosag. SPECIES
-=======
+# Meliola silentvalleyensis Hosag. SPECIES
 
 #### Status
 ACCEPTED

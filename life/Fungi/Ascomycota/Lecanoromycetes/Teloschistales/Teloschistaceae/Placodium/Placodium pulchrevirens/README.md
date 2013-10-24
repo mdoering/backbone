@@ -1,5 +1,4 @@
-Placodium pulchrevirens Anzi SPECIES
-=======
+# Placodium pulchrevirens Anzi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helminthosporium mediocre V.A. Putterill SPECIES
-=======
+# Helminthosporium mediocre V.A. Putterill SPECIES
 
 #### Status
 ACCEPTED

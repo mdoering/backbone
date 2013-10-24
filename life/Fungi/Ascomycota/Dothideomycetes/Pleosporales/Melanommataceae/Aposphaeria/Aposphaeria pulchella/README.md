@@ -1,5 +1,4 @@
-Aposphaeria pulchella Speg. SPECIES
-=======
+# Aposphaeria pulchella Speg. SPECIES
 
 #### Status
 ACCEPTED

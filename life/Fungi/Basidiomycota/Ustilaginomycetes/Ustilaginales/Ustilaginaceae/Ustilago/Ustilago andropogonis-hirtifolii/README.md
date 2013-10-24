@@ -1,5 +1,4 @@
-Ustilago andropogonis-hirtifolii Henn. SPECIES
-=======
+# Ustilago andropogonis-hirtifolii Henn. SPECIES
 
 #### Status
 ACCEPTED

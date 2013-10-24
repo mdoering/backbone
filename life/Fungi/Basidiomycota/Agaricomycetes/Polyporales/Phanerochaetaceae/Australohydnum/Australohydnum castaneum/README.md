@@ -1,14 +1,13 @@
-Cystidiophorus merulioideus Bondartsev & Ljub., 1963 SPECIES
-=======
+# Australohydnum castaneum (Lloyd) Zmitr., Malysheva & Spirin, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Botanicheskii Materialy 16: 126 (1963)
+Mycena 6: 30 (2006)
 
 #### Original name
 Cystidiophorus merulioideus Bondartsev & Ljub., 1963

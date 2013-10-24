@@ -1,5 +1,4 @@
-Phomopsis variabilis (Penz. & Sacc.) Höhn. SPECIES
-=======
+# Phomopsis variabilis (Penz. & Sacc.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

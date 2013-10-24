@@ -1,5 +1,4 @@
-Diaporthe fasciculata f. fasciculata FORM
-=======
+# Diaporthe fasciculata Nitschke SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Pyrenomycetes Germanici 247 (1867)
 
 #### Original name
-Diaporthe fasciculata f. fasciculata
+Diaporthe fasciculata Nitschke
 
 ### Remarks
 null

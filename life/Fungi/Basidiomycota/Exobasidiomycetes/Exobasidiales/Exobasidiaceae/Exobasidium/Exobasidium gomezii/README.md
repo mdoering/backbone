@@ -1,5 +1,4 @@
-Exobasidium gomezii Chleb. & Chlebická SPECIES
-=======
+# Exobasidium gomezii Chleb. & Chlebická SPECIES
 
 #### Status
 ACCEPTED

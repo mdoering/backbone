@@ -1,17 +1,16 @@
-Saprolegnia anomalies Gandhe & Kurne SPECIES
-=======
+# Saprolegnia anomala Gandhe & Kurne SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Zoos' Print Journal 18(12): 1271 (2003)
 
 #### Original name
-Saprolegnia anomalies Gandhe & Kurne
+Saprolegnia anomala Gandhe & Kurne
 
 ### Remarks
 null

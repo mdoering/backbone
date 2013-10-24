@@ -1,5 +1,4 @@
-Sydowia solitaria Lungescu & Morariu SPECIES
-=======
+# Sydowia solitaria Lungescu & Morariu SPECIES
 
 #### Status
 ACCEPTED

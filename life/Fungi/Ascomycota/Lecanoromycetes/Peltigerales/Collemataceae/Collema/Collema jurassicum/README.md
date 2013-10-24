@@ -1,5 +1,4 @@
-Collema jurassicum SPECIES
-=======
+# Collema jurassicum SPECIES
 
 #### Status
 ACCEPTED

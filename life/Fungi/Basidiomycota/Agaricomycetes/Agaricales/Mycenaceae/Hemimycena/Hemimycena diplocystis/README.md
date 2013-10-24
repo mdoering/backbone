@@ -1,5 +1,4 @@
-Hemimycena diplocystis Singer SPECIES
-=======
+# Hemimycena diplocystis Singer SPECIES
 
 #### Status
 ACCEPTED

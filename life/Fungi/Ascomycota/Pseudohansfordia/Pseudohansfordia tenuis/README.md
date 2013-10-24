@@ -1,5 +1,4 @@
-Pseudohansfordia tenuis (Syd.) de Hoog SPECIES
-=======
+# Pseudohansfordia tenuis (Syd.) de Hoog SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus cochleariformis J.F. Gmel. SPECIES
-=======
+# Agaricus cochleariformis J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

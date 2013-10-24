@@ -1,5 +1,4 @@
-Poroidea pithyophila Göttinger SPECIES
-=======
+# Poroidea pithyophila Göttinger SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerella cordylinicola Speg. SPECIES
-=======
+# Sphaerella cordylinicola Speg. SPECIES
 
 #### Status
 ACCEPTED

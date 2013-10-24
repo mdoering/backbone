@@ -1,5 +1,4 @@
-Entomosporium Lév. GENUS
-=======
+# Entomosporium Lév. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma antillancae E. Horak SPECIES
-=======
+# Entoloma antillancae E. Horak SPECIES
 
 #### Status
 ACCEPTED

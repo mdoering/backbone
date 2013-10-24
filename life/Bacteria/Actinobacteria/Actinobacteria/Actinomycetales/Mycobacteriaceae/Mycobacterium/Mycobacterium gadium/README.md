@@ -1,5 +1,4 @@
-Mycobacterium gadium Casal and Calero, 1974 (Approved Lists, 1980) SPECIES
-=======
+# Mycobacterium gadium Casal and Calero, 1974 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

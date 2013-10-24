@@ -1,5 +1,4 @@
-Periconia circinans (Magnus) Sacc. SPECIES
-=======
+# Periconia circinans (Magnus) Sacc. SPECIES
 
 #### Status
 ACCEPTED

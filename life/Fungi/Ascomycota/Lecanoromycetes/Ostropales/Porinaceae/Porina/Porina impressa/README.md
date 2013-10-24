@@ -1,14 +1,13 @@
-Pseudosagedia impressa (R. Sant.) Hafellner & Kalb SPECIES
-=======
+# Porina impressa R. Sant. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Biblthca Lichenol. 57: 173 (1995)
+Symb. bot. upsal. 12(no. 1): 219 (1952)
 
 #### Original name
 Porina impressa R. Sant.

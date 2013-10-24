@@ -1,14 +1,13 @@
-Leptospathium J. Cachon & M. Cachon-Enjumet, 1964 GENUS
-=======
+# Scaphodinium Margalef, 1963 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Inst. océanogr. Monaco 63 no. 1292: 2.
+null
 
 #### Original name
 null

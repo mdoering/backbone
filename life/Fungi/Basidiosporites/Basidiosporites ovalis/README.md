@@ -1,5 +1,4 @@
-Basidiosporites ovalis (Sheffy & Dilcher) Kalgutkar & Janson. SPECIES
-=======
+# Basidiosporites ovalis (Sheffy & Dilcher) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

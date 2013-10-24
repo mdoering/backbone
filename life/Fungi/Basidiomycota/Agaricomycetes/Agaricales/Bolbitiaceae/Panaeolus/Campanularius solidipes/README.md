@@ -1,5 +1,4 @@
-Campanularius solidipes (Peck) Murrill SPECIES
-=======
+# Campanularius solidipes (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

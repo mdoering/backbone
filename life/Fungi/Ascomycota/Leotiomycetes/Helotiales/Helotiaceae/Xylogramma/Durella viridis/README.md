@@ -1,5 +1,4 @@
-Durella viridis Velen. SPECIES
-=======
+# Durella viridis Velen. SPECIES
 
 #### Status
 ACCEPTED

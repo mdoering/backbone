@@ -1,5 +1,4 @@
-Mycosylva clarkii M.C. Tulloch, 1973 SPECIES
-=======
+# Mycosylva clarkii M.C. Tulloch, 1973 SPECIES
 
 #### Status
 ACCEPTED

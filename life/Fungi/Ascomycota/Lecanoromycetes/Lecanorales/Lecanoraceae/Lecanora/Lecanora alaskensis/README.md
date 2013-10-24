@@ -1,5 +1,4 @@
-Lecanora alaskensis H. Magn. SPECIES
-=======
+# Lecanora alaskensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

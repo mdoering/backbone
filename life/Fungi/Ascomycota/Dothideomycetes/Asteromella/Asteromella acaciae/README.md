@@ -1,5 +1,4 @@
-Asteromella acaciae Cooke SPECIES
-=======
+# Asteromella acaciae Cooke SPECIES
 
 #### Status
 ACCEPTED

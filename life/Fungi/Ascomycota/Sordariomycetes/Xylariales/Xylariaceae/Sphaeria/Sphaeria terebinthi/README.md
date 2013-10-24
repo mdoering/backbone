@@ -1,5 +1,4 @@
-Sphaeria terebinthi Ces. SPECIES
-=======
+# Sphaeria terebinthi Ces. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Monochaetia syringae (Oudem.) Sacc. & D. Sacc. SPECIES
-=======
+# Monochaetia syringae (Oudem.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

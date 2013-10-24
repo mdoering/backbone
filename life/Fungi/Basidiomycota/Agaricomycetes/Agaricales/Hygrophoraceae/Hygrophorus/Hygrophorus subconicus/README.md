@@ -1,5 +1,4 @@
-Hygrophorus subconicus Henn. SPECIES
-=======
+# Hygrophorus subconicus Henn. SPECIES
 
 #### Status
 ACCEPTED

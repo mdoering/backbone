@@ -1,17 +1,16 @@
-Valsa ampelopsis Ellis SPECIES
-=======
+# Valsa ampelopsidis Ellis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Torrey bot. Club 9: 112 (1882)
 
 #### Original name
-Valsa ampelopsis Ellis
+Valsa ampelopsidis Ellis
 
 ### Remarks
 null

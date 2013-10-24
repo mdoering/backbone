@@ -1,5 +1,4 @@
-Cryptococcus holmii (A. Jörg.) C.E. Skinner SPECIES
-=======
+# Cryptococcus holmii (A. Jörg.) C.E. Skinner SPECIES
 
 #### Status
 ACCEPTED

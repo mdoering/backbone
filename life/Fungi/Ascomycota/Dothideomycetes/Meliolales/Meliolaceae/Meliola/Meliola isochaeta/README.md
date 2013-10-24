@@ -1,5 +1,4 @@
-Meliola isochaeta Cif. SPECIES
-=======
+# Meliola isochaeta Cif. SPECIES
 
 #### Status
 ACCEPTED

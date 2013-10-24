@@ -1,5 +1,4 @@
-Marssonina gei N.F. Buchw. SPECIES
-=======
+# Marssonina gei N.F. Buchw. SPECIES
 
 #### Status
 ACCEPTED

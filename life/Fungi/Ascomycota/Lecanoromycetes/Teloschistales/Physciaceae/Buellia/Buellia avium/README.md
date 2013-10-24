@@ -1,5 +1,4 @@
-Buellia avium Lynge SPECIES
-=======
+# Buellia avium Lynge SPECIES
 
 #### Status
 ACCEPTED

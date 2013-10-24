@@ -1,5 +1,4 @@
-Trichosphaeria byssophila Rehm SPECIES
-=======
+# Trichosphaeria byssophila Rehm SPECIES
 
 #### Status
 ACCEPTED

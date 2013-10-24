@@ -1,5 +1,4 @@
-Globuliciopsis fuegiana Hjortstam & Ryvarden, 2004 SPECIES
-=======
+# Globuliciopsis fuegiana Hjortstam & Ryvarden, 2004 SPECIES
 
 #### Status
 ACCEPTED

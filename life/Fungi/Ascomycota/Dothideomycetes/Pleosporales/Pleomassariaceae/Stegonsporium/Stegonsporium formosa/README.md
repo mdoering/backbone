@@ -1,5 +1,4 @@
-Stegonsporium formosa Ellis & Everh. SPECIES
-=======
+# Stegonsporium formosa Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

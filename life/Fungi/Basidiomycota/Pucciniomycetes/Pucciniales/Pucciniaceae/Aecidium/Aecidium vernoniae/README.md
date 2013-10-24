@@ -1,5 +1,4 @@
-Aecidium vernoniae Henn. SPECIES
-=======
+# Aecidium vernoniae Henn. SPECIES
 
 #### Status
 ACCEPTED

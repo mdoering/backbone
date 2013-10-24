@@ -1,5 +1,4 @@
-Cyathus annulatus H.J. Brodie SPECIES
-=======
+# Cyathus annulatus H.J. Brodie SPECIES
 
 #### Status
 ACCEPTED

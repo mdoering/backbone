@@ -1,5 +1,4 @@
-Leucoporus megaloporus var. megaloporus VARIETY
-=======
+# Leucoporus megaloporus (Mont.) Pat. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bull. Soc. mycol. Fr. 30: 40 (1914)
 
 #### Original name
-Leucoporus megaloporus var. megaloporus
+Polyporus princeps Singer
 
 ### Remarks
 null

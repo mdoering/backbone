@@ -1,5 +1,4 @@
-Cladosporium bacilligerum Mont. & Fr. SPECIES
-=======
+# Cladosporium bacilligerum Mont. & Fr. SPECIES
 
 #### Status
 ACCEPTED

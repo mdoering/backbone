@@ -1,5 +1,4 @@
-Ascochyta amorphae Allesch. SPECIES
-=======
+# Ascochyta amorphae Allesch. SPECIES
 
 #### Status
 ACCEPTED

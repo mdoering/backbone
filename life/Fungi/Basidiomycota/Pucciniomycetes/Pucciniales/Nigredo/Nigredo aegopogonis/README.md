@@ -1,5 +1,4 @@
-Nigredo aegopogonis (Dietel & Holw.) Arthur SPECIES
-=======
+# Nigredo aegopogonis (Dietel & Holw.) Arthur SPECIES
 
 #### Status
 ACCEPTED

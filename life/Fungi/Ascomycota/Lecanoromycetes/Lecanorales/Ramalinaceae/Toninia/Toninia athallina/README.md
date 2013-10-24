@@ -1,17 +1,16 @@
-Biatora athallina Hepp SPECIES
-=======
+# Toninia athallina (Hepp) Timdal SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Op. bot. 110: 42 (1991)
 
 #### Original name
-null
+Biatora athallina Hepp
 
 ### Remarks
 null

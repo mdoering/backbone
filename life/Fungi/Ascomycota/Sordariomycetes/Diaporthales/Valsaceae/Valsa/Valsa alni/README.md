@@ -1,5 +1,4 @@
-Valsa alni Peck SPECIES
-=======
+# Valsa alni Peck SPECIES
 
 #### Status
 ACCEPTED

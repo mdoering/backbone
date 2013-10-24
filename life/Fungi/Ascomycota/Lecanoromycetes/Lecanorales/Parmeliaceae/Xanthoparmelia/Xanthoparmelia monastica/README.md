@@ -1,5 +1,4 @@
-Xanthoparmelia monastica T. H. Nash & Elix SPECIES
-=======
+# Xanthoparmelia monastica T. H. Nash & Elix SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Hydnum alnicolum Velen. SPECIES
-=======
+# Hydnum alnicola Velen. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ceské Houby 4-5: 745 (1922)
 
 #### Original name
-Hydnum alnicolum Velen.
+Hydnum alnicola Velen.
 
 ### Remarks
 null

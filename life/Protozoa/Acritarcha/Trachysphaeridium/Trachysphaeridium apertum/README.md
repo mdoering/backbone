@@ -1,5 +1,4 @@
-Trachysphaeridium apertum Vidal, 1976 SPECIES
-=======
+# Trachysphaeridium apertum Vidal, 1976 SPECIES
 
 #### Status
 ACCEPTED

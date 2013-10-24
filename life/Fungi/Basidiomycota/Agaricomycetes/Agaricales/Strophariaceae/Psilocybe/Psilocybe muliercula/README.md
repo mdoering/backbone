@@ -1,5 +1,4 @@
-Psilocybe muliercula Singer & A.H. Sm. SPECIES
-=======
+# Psilocybe muliercula Singer & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

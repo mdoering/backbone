@@ -1,5 +1,4 @@
-Micropuccinia suksdorfii (Ellis & Everh.) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia suksdorfii (Ellis & Everh.) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

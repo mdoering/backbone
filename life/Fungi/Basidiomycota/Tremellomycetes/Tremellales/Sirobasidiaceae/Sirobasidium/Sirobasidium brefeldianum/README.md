@@ -1,17 +1,16 @@
-Sirobasidium brefeldianum f. microsporum Maire FORM
-=======
+# Sirobasidium brefeldianum Möller, 1895 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bot. Mitt. Trop. 8: 65 (1895)
 
 #### Original name
-Sirobasidium brefeldianum f. microsporum Maire
+Sirobasidium brefeldianum Möller, 1895
 
 ### Remarks
 null

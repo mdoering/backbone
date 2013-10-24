@@ -1,5 +1,4 @@
-Blastocladiella britannica Horenst. & Cantino, 1961 SPECIES
-=======
+# Blastocladiella britannica Horenst. & Cantino, 1961 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Beltraniella porosa Piroz. & S.D. Patil, 1970 SPECIES
-=======
+# Porobeltraniella porosa (Piroz. & S.D. Patil) Gusmão, 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 48(3): 573 (1970)
+Mycologia 96(1): 151 (2004)
 
 #### Original name
 Beltraniella porosa Piroz. & S.D. Patil, 1970

@@ -1,5 +1,4 @@
-Phoma insularis Speg. SPECIES
-=======
+# Phoma insularis Speg. SPECIES
 
 #### Status
 ACCEPTED

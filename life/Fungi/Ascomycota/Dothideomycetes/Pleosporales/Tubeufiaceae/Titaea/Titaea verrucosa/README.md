@@ -1,5 +1,4 @@
-Titaea verrucosa Hansf. SPECIES
-=======
+# Titaea verrucosa Hansf. SPECIES
 
 #### Status
 ACCEPTED

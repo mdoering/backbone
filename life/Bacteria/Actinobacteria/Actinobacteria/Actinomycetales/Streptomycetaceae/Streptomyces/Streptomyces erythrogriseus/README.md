@@ -1,5 +1,4 @@
-Streptomyces erythrogriseus Falcão de Morais and Dália Maia, 1959 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces erythrogriseus Falcão de Morais and Dália Maia, 1959 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Medusula Eschw. GENUS
-=======
+# Sarcographa Fée GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syst. Lich. 18 (1824)
+Essai Crypt. Exot. (Paris) 1: xxxv, xc, 58 (1825)
 
 #### Original name
-Medusula Eschw.
+Sarcographa Fée
 
 ### Remarks
 null

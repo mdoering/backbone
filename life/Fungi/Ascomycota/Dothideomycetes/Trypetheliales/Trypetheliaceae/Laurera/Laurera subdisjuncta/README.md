@@ -1,5 +1,4 @@
-Laurera subdisjuncta (Müll. Arg.) R. C. Harris SPECIES
-=======
+# Laurera subdisjuncta (Müll. Arg.) R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

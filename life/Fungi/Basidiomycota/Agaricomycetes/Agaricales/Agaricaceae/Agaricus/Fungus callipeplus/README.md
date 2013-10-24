@@ -1,5 +1,4 @@
-Fungus callipeplus (Berk. & Broome) Kuntze SPECIES
-=======
+# Fungus callipeplus (Berk. & Broome) Kuntze SPECIES
 
 #### Status
 ACCEPTED

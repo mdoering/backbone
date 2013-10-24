@@ -1,5 +1,4 @@
-Sticta aspera Laurer SPECIES
-=======
+# Sticta aspera Laurer SPECIES
 
 #### Status
 ACCEPTED

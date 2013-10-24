@@ -1,5 +1,4 @@
-Microphyma myocopron Pat. & Har. SPECIES
-=======
+# Microphyma myocopron Pat. & Har. SPECIES
 
 #### Status
 ACCEPTED

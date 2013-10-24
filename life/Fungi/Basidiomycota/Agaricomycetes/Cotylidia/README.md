@@ -1,8 +1,7 @@
-Cotylidea GENUS
-=======
+# Cotylidia P. Karsten, 1881 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

@@ -1,5 +1,4 @@
-Sporisorium myanmarense Vánky & R.G. Shivas SPECIES
-=======
+# Sporisorium myanmarense Vánky & R.G. Shivas SPECIES
 
 #### Status
 ACCEPTED

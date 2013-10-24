@@ -1,5 +1,4 @@
-Eponidella gardenislandensis Akers, 1952 SPECIES
-=======
+# Eponidella gardenislandensis Akers, 1952 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psilocybe semi-inconspicua Guzmán & J.M. Trappe SPECIES
-=======
+# Psilocybe semi-inconspicua Guzmán & J.M. Trappe SPECIES
 
 #### Status
 ACCEPTED

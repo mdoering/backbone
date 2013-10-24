@@ -1,5 +1,4 @@
-Anthostomella dryadis Lar.N. Vassiljeva SPECIES
-=======
+# Anthostomella dryadis Lar.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

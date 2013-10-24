@@ -1,5 +1,4 @@
-Psathyrella cubensis Murrill SPECIES
-=======
+# Psathyrella cubensis Murrill SPECIES
 
 #### Status
 ACCEPTED

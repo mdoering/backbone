@@ -1,5 +1,4 @@
-Ancoraspora Mig. Rodr. GENUS
-=======
+# Ancoraspora Mig. Rodr. GENUS
 
 #### Status
 ACCEPTED

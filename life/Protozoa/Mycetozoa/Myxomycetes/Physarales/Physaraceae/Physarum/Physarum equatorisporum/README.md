@@ -1,5 +1,4 @@
-Physarum equatorisporum Hoof & Nann.-Bremek., 1993 SPECIES
-=======
+# Physarum equatorisporum Hoof & Nann.-Bremek., 1993 SPECIES
 
 #### Status
 ACCEPTED

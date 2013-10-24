@@ -1,5 +1,4 @@
-Lecidea candidula (Arnold) Nyl. SPECIES
-=======
+# Lecidea candidula (Arnold) Nyl. SPECIES
 
 #### Status
 ACCEPTED

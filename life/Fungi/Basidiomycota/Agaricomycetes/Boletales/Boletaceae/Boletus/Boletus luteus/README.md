@@ -1,5 +1,4 @@
-Boletus luteus var. luteus VARIETY
-=======
+# Boletus luteus Scop. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Sp. pl. 2: 1177 (1753)
+Fl. carniol. (Wien), Edn 2 2: 465 (1772)
 
 #### Original name
-Boletus luteus var. luteus
+Boletus luteus Scop.
 
 ### Remarks
 null

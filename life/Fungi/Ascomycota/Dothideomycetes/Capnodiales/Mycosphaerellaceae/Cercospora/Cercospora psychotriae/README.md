@@ -1,5 +1,4 @@
-Cercospora psychotriae Sawada SPECIES
-=======
+# Cercospora psychotriae Sawada SPECIES
 
 #### Status
 ACCEPTED

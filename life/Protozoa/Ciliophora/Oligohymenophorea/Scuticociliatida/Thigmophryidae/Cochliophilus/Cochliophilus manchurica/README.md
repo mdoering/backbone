@@ -1,5 +1,4 @@
-Cochliophilus manchurica SPECIES
-=======
+# Cochliophilus manchurica SPECIES
 
 #### Status
 ACCEPTED

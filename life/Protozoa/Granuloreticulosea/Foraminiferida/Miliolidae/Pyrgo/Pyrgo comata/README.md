@@ -1,5 +1,4 @@
-Pyrgo comata SPECIES
-=======
+# Pyrgo comata SPECIES
 
 #### Status
 ACCEPTED

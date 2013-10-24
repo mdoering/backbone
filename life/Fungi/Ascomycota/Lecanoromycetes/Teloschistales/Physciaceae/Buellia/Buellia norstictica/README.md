@@ -1,5 +1,4 @@
-Buellia norstictica Imshaug SPECIES
-=======
+# Buellia norstictica Imshaug SPECIES
 
 #### Status
 ACCEPTED

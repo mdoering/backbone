@@ -1,5 +1,4 @@
-Alternaria nepalensis E.G. Simmons SPECIES
-=======
+# Alternaria nepalensis E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

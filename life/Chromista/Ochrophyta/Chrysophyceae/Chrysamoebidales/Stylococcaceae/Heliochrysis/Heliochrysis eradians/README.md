@@ -1,5 +1,4 @@
-Heliochrysis eradians Pascher SPECIES
-=======
+# Heliochrysis eradians Pascher SPECIES
 
 #### Status
 ACCEPTED

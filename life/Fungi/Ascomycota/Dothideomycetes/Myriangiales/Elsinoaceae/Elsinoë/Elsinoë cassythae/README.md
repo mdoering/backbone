@@ -1,5 +1,4 @@
-Elsinoë cassythae (Thirum. & Jenkins) Arx & E. Müll. SPECIES
-=======
+# Elsinoë cassythae (Thirum. & Jenkins) Arx & E. Müll. SPECIES
 
 #### Status
 ACCEPTED

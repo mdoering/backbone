@@ -1,5 +1,4 @@
-Tricharia demoulinii Sérus. SPECIES
-=======
+# Tricharia demoulinii Sérus. SPECIES
 
 #### Status
 ACCEPTED

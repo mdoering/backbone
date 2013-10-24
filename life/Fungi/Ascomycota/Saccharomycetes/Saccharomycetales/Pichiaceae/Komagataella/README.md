@@ -1,5 +1,4 @@
-Komagataella GENUS
-=======
+# Komagataella GENUS
 
 #### Status
 ACCEPTED

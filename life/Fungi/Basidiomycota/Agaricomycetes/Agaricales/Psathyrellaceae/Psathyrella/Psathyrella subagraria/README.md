@@ -1,5 +1,4 @@
-Psathyrella subagraria (G.F. Atk.) A.H. Sm. SPECIES
-=======
+# Psathyrella subagraria (G.F. Atk.) A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

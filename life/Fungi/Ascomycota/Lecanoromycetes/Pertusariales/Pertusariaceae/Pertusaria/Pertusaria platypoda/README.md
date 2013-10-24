@@ -1,5 +1,4 @@
-Pertusaria platypoda Müll. Arg. SPECIES
-=======
+# Pertusaria platypoda Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

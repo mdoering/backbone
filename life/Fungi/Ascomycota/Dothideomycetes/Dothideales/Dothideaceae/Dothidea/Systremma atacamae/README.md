@@ -1,5 +1,4 @@
-Systremma atacamae Syd. SPECIES
-=======
+# Systremma atacamae Syd. SPECIES
 
 #### Status
 ACCEPTED

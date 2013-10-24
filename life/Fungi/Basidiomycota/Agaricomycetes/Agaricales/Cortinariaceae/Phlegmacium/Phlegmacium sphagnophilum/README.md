@@ -1,5 +1,4 @@
-Phlegmacium sphagnophilum (Peck) M.M. Moser SPECIES
-=======
+# Phlegmacium sphagnophilum (Peck) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

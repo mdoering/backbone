@@ -1,5 +1,4 @@
-Pleospora aradensis M. Petrescu SPECIES
-=======
+# Pleospora aradensis M. Petrescu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Postia inocybe f. inocybe (A. David & Malençon) Jülich FORM
-=======
+# Postia inocybe (A. David & Malençon) Jülich, 1982 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Persoonia 11(4): 423 (1982)
 
 #### Original name
-Postia inocybe f. inocybe (A. David & Malençon) Jülich
+Tyromyces inocybe A. David & Malençon, 1978
 
 ### Remarks
 null

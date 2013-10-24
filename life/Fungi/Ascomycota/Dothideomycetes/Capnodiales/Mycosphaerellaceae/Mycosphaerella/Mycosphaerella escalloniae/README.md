@@ -1,5 +1,4 @@
-Mycosphaerella escalloniae (Speg.) Sivan. & R.G. Shivas SPECIES
-=======
+# Mycosphaerella escalloniae (Speg.) Sivan. & R.G. Shivas SPECIES
 
 #### Status
 ACCEPTED

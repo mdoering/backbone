@@ -1,5 +1,4 @@
-Pocillaria ilicis (Paulet) Kuntze SPECIES
-=======
+# Pocillaria ilicis (Paulet) Kuntze SPECIES
 
 #### Status
 ACCEPTED

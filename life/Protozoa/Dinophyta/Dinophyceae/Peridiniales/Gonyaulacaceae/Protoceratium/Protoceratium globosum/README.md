@@ -1,5 +1,4 @@
-Protoceratium globosum Kofoid & Michener, 1911 SPECIES
-=======
+# Protoceratium globosum Kofoid & Michener, 1911 SPECIES
 
 #### Status
 ACCEPTED

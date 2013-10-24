@@ -1,14 +1,13 @@
-Campanella pezizoidea (Speg.) Lloyd, 1910 SPECIES
-=======
+# Rhodoarrhenia pezizoidea (Speg.) Singer, 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Writ. 3 (Letter 27) 4 (1910)
+Sydowia 17: 143 (1964)
 
 #### Original name
 Merulius pezizoideus Speg., 1887

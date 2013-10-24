@@ -1,5 +1,4 @@
-Lopadium paulense Bat. & Peres SPECIES
-=======
+# Lopadium paulense Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

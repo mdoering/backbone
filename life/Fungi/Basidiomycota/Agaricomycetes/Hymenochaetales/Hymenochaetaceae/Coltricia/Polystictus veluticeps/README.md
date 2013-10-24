@@ -1,5 +1,4 @@
-Polystictus veluticeps Speg. SPECIES
-=======
+# Polystictus veluticeps Speg. SPECIES
 
 #### Status
 ACCEPTED

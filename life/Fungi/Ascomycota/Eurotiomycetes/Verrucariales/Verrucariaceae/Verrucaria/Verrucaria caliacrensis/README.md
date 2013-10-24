@@ -1,5 +1,4 @@
-Verrucaria caliacrensis Servít SPECIES
-=======
+# Verrucaria caliacrensis Servít SPECIES
 
 #### Status
 ACCEPTED

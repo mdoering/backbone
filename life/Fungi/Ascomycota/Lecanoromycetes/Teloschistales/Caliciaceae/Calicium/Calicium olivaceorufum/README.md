@@ -1,5 +1,4 @@
-Calicium olivaceorufum Vain. SPECIES
-=======
+# Calicium olivaceorufum Vain. SPECIES
 
 #### Status
 ACCEPTED

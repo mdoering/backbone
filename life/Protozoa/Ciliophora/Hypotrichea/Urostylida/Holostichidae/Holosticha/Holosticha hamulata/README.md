@@ -1,5 +1,4 @@
-Holosticha hamulata Lei, Xu & Choi, 2005 SPECIES
-=======
+# Holosticha hamulata Lei, Xu & Choi, 2005 SPECIES
 
 #### Status
 ACCEPTED

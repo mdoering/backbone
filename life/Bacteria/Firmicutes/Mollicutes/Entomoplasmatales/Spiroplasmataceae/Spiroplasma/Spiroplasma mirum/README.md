@@ -1,5 +1,4 @@
-Spiroplasma mirum Tully et al., 1982 SPECIES
-=======
+# Spiroplasma mirum Tully et al., 1982 SPECIES
 
 #### Status
 ACCEPTED

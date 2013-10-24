@@ -1,5 +1,4 @@
-Puccinia lomatogonii Petr. SPECIES
-=======
+# Puccinia lomatogonii Petr. SPECIES
 
 #### Status
 ACCEPTED

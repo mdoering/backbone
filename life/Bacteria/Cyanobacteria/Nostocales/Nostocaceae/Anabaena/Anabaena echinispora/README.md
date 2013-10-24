@@ -1,5 +1,4 @@
-Anabaena echinispora Skuja SPECIES
-=======
+# Anabaena echinispora Skuja SPECIES
 
 #### Status
 ACCEPTED

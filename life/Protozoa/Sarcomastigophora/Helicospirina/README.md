@@ -1,5 +1,4 @@
-Helicospirina Hutton, 1966 GENUS
-=======
+# Helicospirina Hutton, 1966 GENUS
 
 #### Status
 ACCEPTED

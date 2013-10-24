@@ -1,5 +1,4 @@
-Meliola acrustae var. acrustae VARIETY
-=======
+# Meliola acrustae SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Meliola acrustae var. acrustae
+Meliola acrustae
 
 ### Remarks
 null

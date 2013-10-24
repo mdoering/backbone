@@ -1,5 +1,4 @@
-Bacteroides pentosaceus Shah & Collins, 1982 SPECIES
-=======
+# Bacteroides pentosaceus Shah & Collins, 1982 SPECIES
 
 #### Status
 ACCEPTED

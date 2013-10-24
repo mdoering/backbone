@@ -1,5 +1,4 @@
-Amphistegina gibbosa d'Orbigny, 1839 SPECIES
-=======
+# Amphistegina gibbosa d'Orbigny, 1839 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Myrothecium dimorphum Ts. Watan. SPECIES
-=======
+# Myrothecium dimorphum Ts. Watan. SPECIES
 
 #### Status
 ACCEPTED

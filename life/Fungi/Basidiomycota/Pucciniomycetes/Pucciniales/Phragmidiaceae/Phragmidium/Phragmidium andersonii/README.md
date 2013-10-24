@@ -1,5 +1,4 @@
-Phragmidium andersonii Shear, 1902 SPECIES
-=======
+# Phragmidium andersonii Shear, 1902 SPECIES
 
 #### Status
 ACCEPTED

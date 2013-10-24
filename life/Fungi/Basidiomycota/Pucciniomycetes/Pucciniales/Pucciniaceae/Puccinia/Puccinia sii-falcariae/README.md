@@ -1,5 +1,4 @@
-Puccinia sii-falcariae (Pers.) J. Schröt. SPECIES
-=======
+# Puccinia sii-falcariae (Pers.) J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

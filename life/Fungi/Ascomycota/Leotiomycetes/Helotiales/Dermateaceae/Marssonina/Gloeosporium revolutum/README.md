@@ -1,5 +1,4 @@
-Gloeosporium revolutum Ellis & Everh. SPECIES
-=======
+# Gloeosporium revolutum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

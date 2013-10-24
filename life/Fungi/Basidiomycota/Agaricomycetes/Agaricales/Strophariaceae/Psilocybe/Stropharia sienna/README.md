@@ -1,5 +1,4 @@
-Stropharia sienna Kauffman SPECIES
-=======
+# Stropharia sienna Kauffman SPECIES
 
 #### Status
 ACCEPTED

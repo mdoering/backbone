@@ -1,5 +1,4 @@
-Phyllosticta peucedani Woron. SPECIES
-=======
+# Phyllosticta peucedani Woron. SPECIES
 
 #### Status
 ACCEPTED

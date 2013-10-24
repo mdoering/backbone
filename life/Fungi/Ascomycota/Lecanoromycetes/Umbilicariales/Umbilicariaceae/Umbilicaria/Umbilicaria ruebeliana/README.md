@@ -1,5 +1,4 @@
-Umbilicaria ruebeliana f. ruebeliana FORM
-=======
+# Umbilicaria ruebeliana (Du Rietz & Frey) Frey SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Umbilicaria ruebeliana f. ruebeliana
+Gyrophora ruebeliana Du Rietz & Frey
 
 ### Remarks
 null

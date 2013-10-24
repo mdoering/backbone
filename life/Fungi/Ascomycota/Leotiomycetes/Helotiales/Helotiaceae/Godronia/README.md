@@ -1,17 +1,16 @@
-Cenangiella Lambotte GENUS
-=======
+# Godronia Mougeot & Léveillé, 1846 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Flora myc. Belg. , Suppl. 1 1: 271 (1887)
+null
 
 #### Original name
-Cenangiella Lambotte
+null
 
 ### Remarks
 null

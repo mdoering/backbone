@@ -1,11 +1,10 @@
-Torula herbarum f. herbarum FORM
-=======
+# Torula herbarum (Pers.) Link, 1809 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Magazin Ges. naturf. Freunde, Berlin 3(1-2): 19 (1809)

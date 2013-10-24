@@ -1,5 +1,4 @@
-Dyadosporites antarcticus Kalgutkar & Janson. SPECIES
-=======
+# Dyadosporites antarcticus Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

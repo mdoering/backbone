@@ -1,5 +1,4 @@
-Leiosphaeridia kanshiensis P. K. Maithy SPECIES
-=======
+# Leiosphaeridia kanshiensis P. K. Maithy SPECIES
 
 #### Status
 ACCEPTED

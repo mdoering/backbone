@@ -1,14 +1,13 @@
-Synalissa wrightii (Tuck.) Nyl. SPECIES
-=======
+# Phloeopeccania pulvinulina J. Steiner SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Denkschr. Kaiserl. Akad. Wiss. , Math. -Naturwiss. Kl. 71: 93 (1902)
 
 #### Original name
 Phloeopeccania pulvinulina J. Steiner

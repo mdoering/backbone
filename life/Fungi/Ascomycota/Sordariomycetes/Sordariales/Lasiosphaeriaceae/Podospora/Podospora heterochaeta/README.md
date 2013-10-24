@@ -1,5 +1,4 @@
-Podospora heterochaeta (Griffiths) Cain SPECIES
-=======
+# Podospora heterochaeta (Griffiths) Cain SPECIES
 
 #### Status
 ACCEPTED

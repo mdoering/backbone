@@ -1,5 +1,4 @@
-Leptosphaeria platycarpa Sacc. SPECIES
-=======
+# Leptosphaeria platycarpa Sacc. SPECIES
 
 #### Status
 ACCEPTED

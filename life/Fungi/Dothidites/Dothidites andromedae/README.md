@@ -1,5 +1,4 @@
-Dothidites andromedae (Heer) Mesch. SPECIES
-=======
+# Dothidites andromedae (Heer) Mesch. SPECIES
 
 #### Status
 ACCEPTED

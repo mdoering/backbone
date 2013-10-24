@@ -1,5 +1,4 @@
-Polyporus neelgerrhensis Mont. SPECIES
-=======
+# Polyporus neelgerrhensis Mont. SPECIES
 
 #### Status
 ACCEPTED

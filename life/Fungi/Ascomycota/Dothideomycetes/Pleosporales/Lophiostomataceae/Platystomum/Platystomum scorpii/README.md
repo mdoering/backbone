@@ -1,5 +1,4 @@
-Platystomum scorpii (Fabre) Sacc. & D. Sacc. SPECIES
-=======
+# Platystomum scorpii (Fabre) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

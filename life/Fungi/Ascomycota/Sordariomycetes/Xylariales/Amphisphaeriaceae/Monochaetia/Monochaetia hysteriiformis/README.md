@@ -1,5 +1,4 @@
-Monochaetia hysteriiformis (Berk. & M.A. Curtis) Guba SPECIES
-=======
+# Monochaetia hysteriiformis (Berk. & M.A. Curtis) Guba SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nodularia spunigena Mertens SPECIES
-=======
+# Nodularia spunigena Mertens SPECIES
 
 #### Status
 ACCEPTED

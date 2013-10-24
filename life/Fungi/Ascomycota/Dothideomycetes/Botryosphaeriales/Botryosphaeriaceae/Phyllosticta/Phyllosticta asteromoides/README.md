@@ -1,5 +1,4 @@
-Phyllosticta asteromoides Bubák SPECIES
-=======
+# Phyllosticta asteromoides Bubák SPECIES
 
 #### Status
 ACCEPTED

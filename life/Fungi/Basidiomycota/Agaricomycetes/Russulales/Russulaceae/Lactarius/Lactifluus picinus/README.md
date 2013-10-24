@@ -1,5 +1,4 @@
-Lactifluus picinus (Fr.) Kuntze SPECIES
-=======
+# Lactifluus picinus (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

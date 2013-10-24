@@ -1,5 +1,4 @@
-Isthmiella faullii (Darker) Darker, 1967 SPECIES
-=======
+# Isthmiella faullii (Darker) Darker, 1967 SPECIES
 
 #### Status
 ACCEPTED

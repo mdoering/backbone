@@ -1,5 +1,4 @@
-Spondylocladiopsis aseptata Pratibha, Raghuk. & Bhat SPECIES
-=======
+# Spondylocladiopsis aseptata Pratibha, Raghuk. & Bhat SPECIES
 
 #### Status
 ACCEPTED

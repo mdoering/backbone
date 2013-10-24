@@ -1,5 +1,4 @@
-Phaeographis rugosa (C. Knight) Müll. Arg. SPECIES
-=======
+# Phaeographis rugosa (C. Knight) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

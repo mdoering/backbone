@@ -1,5 +1,4 @@
-Aecidium archibaccharidis Cummins SPECIES
-=======
+# Aecidium archibaccharidis Cummins SPECIES
 
 #### Status
 ACCEPTED

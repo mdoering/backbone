@@ -1,5 +1,4 @@
-Agaricus ereus Secr. SPECIES
-=======
+# Agaricus ereus Secr. SPECIES
 
 #### Status
 ACCEPTED

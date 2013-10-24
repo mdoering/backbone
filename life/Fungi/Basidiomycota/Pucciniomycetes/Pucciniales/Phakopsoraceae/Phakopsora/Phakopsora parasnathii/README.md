@@ -1,5 +1,4 @@
-Phakopsora parasnathii Yadav & Thirum. SPECIES
-=======
+# Phakopsora parasnathii Yadav & Thirum. SPECIES
 
 #### Status
 ACCEPTED

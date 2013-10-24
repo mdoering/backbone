@@ -1,5 +1,4 @@
-Inocybe sphaerospora Kobayasi SPECIES
-=======
+# Inocybe sphaerospora Kobayasi SPECIES
 
 #### Status
 ACCEPTED

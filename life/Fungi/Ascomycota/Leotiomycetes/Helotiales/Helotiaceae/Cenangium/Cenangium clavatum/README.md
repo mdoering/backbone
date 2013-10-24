@@ -1,5 +1,4 @@
-Cenangium clavatum Fr. SPECIES
-=======
+# Cenangium clavatum Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acervoschwagerina Hanzawa, 1949 GENUS
-=======
+# Acervoschwagerina Hanzawa, 1949 GENUS
 
 #### Status
 ACCEPTED

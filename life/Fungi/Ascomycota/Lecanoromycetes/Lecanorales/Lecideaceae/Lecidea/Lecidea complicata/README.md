@@ -1,5 +1,4 @@
-Lecidea complicata H. Magn. SPECIES
-=======
+# Lecidea complicata H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteroma ballotae Fuckel SPECIES
-=======
+# Asteroma ballotae Fuckel SPECIES
 
 #### Status
 ACCEPTED

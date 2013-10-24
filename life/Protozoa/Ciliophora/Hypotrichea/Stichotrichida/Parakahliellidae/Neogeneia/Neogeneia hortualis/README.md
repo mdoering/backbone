@@ -1,5 +1,4 @@
-Neogeneia hortualis Eigner, 1995 SPECIES
-=======
+# Neogeneia hortualis Eigner, 1995 SPECIES
 
 #### Status
 ACCEPTED

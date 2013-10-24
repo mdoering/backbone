@@ -1,5 +1,4 @@
-Blastenia herbidella (Arnold) Servít SPECIES
-=======
+# Blastenia herbidella (Arnold) Servít SPECIES
 
 #### Status
 ACCEPTED

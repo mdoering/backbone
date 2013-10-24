@@ -1,5 +1,4 @@
-Penicillium glaucoferrugineum Sopp SPECIES
-=======
+# Penicillium glaucoferrugineum Sopp SPECIES
 
 #### Status
 ACCEPTED

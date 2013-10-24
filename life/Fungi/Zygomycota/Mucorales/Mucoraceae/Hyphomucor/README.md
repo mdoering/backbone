@@ -1,5 +1,4 @@
-Hyphomucor Schipper & Lunn GENUS
-=======
+# Hyphomucor Schipper & Lunn GENUS
 
 #### Status
 ACCEPTED

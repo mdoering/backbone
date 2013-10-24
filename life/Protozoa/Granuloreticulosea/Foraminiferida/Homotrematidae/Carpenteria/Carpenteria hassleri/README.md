@@ -1,5 +1,4 @@
-Carpenteria hassleri SPECIES
-=======
+# Carpenteria hassleri SPECIES
 
 #### Status
 ACCEPTED

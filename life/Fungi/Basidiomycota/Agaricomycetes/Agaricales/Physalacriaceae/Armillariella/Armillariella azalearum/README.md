@@ -1,5 +1,4 @@
-Armillariella azalearum (Murrill) Singer SPECIES
-=======
+# Armillariella azalearum (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

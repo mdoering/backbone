@@ -1,5 +1,4 @@
-Tuberculina africana Cooke & Massee SPECIES
-=======
+# Tuberculina africana Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

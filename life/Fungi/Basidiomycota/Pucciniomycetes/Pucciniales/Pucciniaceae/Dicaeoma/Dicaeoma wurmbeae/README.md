@@ -1,5 +1,4 @@
-Dicaeoma wurmbeae (Cooke & Massee) Kuntze SPECIES
-=======
+# Dicaeoma wurmbeae (Cooke & Massee) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eomyces crieanus F. Ludw. SPECIES
-=======
+# Eomyces crieanus F. Ludw. SPECIES
 
 #### Status
 ACCEPTED

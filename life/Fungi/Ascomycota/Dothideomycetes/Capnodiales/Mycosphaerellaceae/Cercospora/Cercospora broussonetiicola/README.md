@@ -1,5 +1,4 @@
-Cercospora broussonetiicola Y.L. Guo & Li Xu SPECIES
-=======
+# Cercospora broussonetiicola Y.L. Guo & Li Xu SPECIES
 
 #### Status
 ACCEPTED

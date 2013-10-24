@@ -1,5 +1,4 @@
-Hypoxylon nodulorum Lév. ex Cooke SPECIES
-=======
+# Hypoxylon nodulorum Lév. ex Cooke SPECIES
 
 #### Status
 ACCEPTED

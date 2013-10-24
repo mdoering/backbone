@@ -1,5 +1,4 @@
-Helvella semiobruta Donadini & Berthet SPECIES
-=======
+# Helvella semiobruta Donadini & Berthet SPECIES
 
 #### Status
 ACCEPTED

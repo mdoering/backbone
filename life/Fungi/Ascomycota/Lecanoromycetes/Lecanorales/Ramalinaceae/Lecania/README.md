@@ -1,17 +1,16 @@
-Lecaniella Jatta, 1889 GENUS
-=======
+# Lecania A. Massalongo, 1853 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Alcuni Gen. Lich. 12 (1853)
 
 #### Original name
-null
+Lecania A. Massalongo, 1853
 
 ### Remarks
 null

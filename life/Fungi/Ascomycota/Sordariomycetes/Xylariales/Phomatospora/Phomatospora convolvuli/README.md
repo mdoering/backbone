@@ -1,5 +1,4 @@
-Phomatospora convolvuli Gonz. Frag. & Cif. SPECIES
-=======
+# Phomatospora convolvuli Gonz. Frag. & Cif. SPECIES
 
 #### Status
 ACCEPTED

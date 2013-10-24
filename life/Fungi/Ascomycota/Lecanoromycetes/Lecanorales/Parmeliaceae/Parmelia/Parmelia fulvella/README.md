@@ -1,5 +1,4 @@
-Parmelia fulvella Taylor SPECIES
-=======
+# Parmelia fulvella Taylor SPECIES
 
 #### Status
 ACCEPTED

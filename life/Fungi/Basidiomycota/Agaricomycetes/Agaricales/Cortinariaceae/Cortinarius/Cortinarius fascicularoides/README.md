@@ -1,5 +1,4 @@
-Cortinarius fascicularoides Carteret SPECIES
-=======
+# Cortinarius fascicularoides Carteret SPECIES
 
 #### Status
 ACCEPTED

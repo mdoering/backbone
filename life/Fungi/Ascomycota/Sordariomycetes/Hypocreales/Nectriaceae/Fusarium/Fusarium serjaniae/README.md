@@ -1,5 +1,4 @@
-Fusarium serjaniae Syd. SPECIES
-=======
+# Fusarium serjaniae Syd. SPECIES
 
 #### Status
 ACCEPTED

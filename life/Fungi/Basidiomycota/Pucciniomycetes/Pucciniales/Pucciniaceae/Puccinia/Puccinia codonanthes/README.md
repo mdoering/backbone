@@ -1,5 +1,4 @@
-Puccinia codonanthes Syd. SPECIES
-=======
+# Puccinia codonanthes Syd. SPECIES
 
 #### Status
 ACCEPTED

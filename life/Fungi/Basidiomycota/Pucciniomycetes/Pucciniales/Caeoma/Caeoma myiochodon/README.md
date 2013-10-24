@@ -1,5 +1,4 @@
-Caeoma myiochodon Schltdl. SPECIES
-=======
+# Caeoma myiochodon Schltdl. SPECIES
 
 #### Status
 ACCEPTED

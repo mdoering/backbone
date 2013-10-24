@@ -1,5 +1,4 @@
-Rosellinia abietina var. abietina VARIETY
-=======
+# Rosellinia abietina Fuckel SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Jb. nassau. Ver. Naturk. 23-24: 150 (1870)
 
 #### Original name
-Rosellinia abietina var. abietina
+Rosellinia abietina Fuckel
 
 ### Remarks
 null

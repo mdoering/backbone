@@ -1,5 +1,4 @@
-Pseudoparmelia cubensis (Nyl.) Elix & T. H. Nash SPECIES
-=======
+# Pseudoparmelia cubensis (Nyl.) Elix & T. H. Nash SPECIES
 
 #### Status
 ACCEPTED

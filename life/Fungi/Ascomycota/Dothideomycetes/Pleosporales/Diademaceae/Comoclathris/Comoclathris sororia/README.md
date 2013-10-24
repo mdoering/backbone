@@ -1,5 +1,4 @@
-Comoclathris sororia (Bubák) Shoemaker & C.E. Babc. SPECIES
-=======
+# Comoclathris sororia (Bubák) Shoemaker & C.E. Babc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Naucoria bowmanii (F. Muell. ex Berk.) Sacc. SPECIES
-=======
+# Naucoria bowmanii (F. Muell. ex Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coryneum comari Trail SPECIES
-=======
+# Coryneum comari Trail SPECIES
 
 #### Status
 ACCEPTED

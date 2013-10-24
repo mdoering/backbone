@@ -1,5 +1,4 @@
-Stelliferidium modestum (Górka, 1967) Deunff, Górka & Rauscher, 1974 SPECIES
-=======
+# Stelliferidium modestum (Górka, 1967) Deunff, Górka & Rauscher, 1974 SPECIES
 
 #### Status
 ACCEPTED

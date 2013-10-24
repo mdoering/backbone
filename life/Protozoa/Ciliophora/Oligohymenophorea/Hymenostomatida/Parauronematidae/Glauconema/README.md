@@ -1,5 +1,4 @@
-Glauconema Thompson, 1966 GENUS
-=======
+# Glauconema Thompson, 1966 GENUS
 
 #### Status
 ACCEPTED

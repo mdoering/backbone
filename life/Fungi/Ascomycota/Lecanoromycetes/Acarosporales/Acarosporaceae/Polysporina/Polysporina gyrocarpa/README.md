@@ -1,5 +1,4 @@
-Polysporina gyrocarpa (H. Magn.) N.S. Golubk. SPECIES
-=======
+# Polysporina gyrocarpa (H. Magn.) N.S. Golubk. SPECIES
 
 #### Status
 ACCEPTED

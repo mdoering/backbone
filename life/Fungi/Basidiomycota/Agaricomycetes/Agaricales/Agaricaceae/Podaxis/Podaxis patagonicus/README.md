@@ -1,8 +1,7 @@
-Podaxon patagonicus Speg. SPECIES
-=======
+# Podaxis patagonicus Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Podaxon patagonicus Speg.
+Podaxis patagonicus Speg.
 
 ### Remarks
 null

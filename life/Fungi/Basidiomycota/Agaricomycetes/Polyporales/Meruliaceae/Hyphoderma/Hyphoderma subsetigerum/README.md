@@ -1,5 +1,4 @@
-Hyphoderma subsetigerum Sheng H. Wu, 1997 SPECIES
-=======
+# Hyphoderma subsetigerum Sheng H. Wu, 1997 SPECIES
 
 #### Status
 ACCEPTED

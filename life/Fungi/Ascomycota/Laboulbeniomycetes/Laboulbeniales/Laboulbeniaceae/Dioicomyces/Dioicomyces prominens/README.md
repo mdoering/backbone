@@ -1,5 +1,4 @@
-Dioicomyces prominens Thaxt. SPECIES
-=======
+# Dioicomyces prominens Thaxt. SPECIES
 
 #### Status
 ACCEPTED

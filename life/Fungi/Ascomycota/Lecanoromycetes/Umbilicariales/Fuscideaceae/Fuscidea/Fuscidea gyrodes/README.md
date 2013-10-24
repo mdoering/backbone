@@ -1,5 +1,4 @@
-Fuscidea gyrodes SPECIES
-=======
+# Fuscidea gyrodes SPECIES
 
 #### Status
 ACCEPTED

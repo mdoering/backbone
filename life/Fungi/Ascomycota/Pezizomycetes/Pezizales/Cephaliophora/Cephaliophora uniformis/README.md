@@ -1,5 +1,4 @@
-Cephaliophora uniformis Narayanan, 1963 SPECIES
-=======
+# Cephaliophora uniformis Narayanan, 1963 SPECIES
 
 #### Status
 ACCEPTED

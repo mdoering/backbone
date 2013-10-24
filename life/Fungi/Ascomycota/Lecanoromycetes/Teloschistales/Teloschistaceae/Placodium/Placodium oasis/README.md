@@ -1,5 +1,4 @@
-Placodium oasis (A. Massal.) Szatala SPECIES
-=======
+# Placodium oasis (A. Massal.) Szatala SPECIES
 
 #### Status
 ACCEPTED

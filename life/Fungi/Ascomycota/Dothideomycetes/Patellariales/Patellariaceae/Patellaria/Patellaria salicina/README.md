@@ -1,5 +1,4 @@
-Patellaria salicina (Schrad.) Hoffm. SPECIES
-=======
+# Patellaria salicina (Schrad.) Hoffm. SPECIES
 
 #### Status
 ACCEPTED

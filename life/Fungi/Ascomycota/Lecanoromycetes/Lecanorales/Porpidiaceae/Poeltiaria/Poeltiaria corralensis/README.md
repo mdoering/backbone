@@ -1,14 +1,13 @@
-Lecidea corralensis Räsänen SPECIES
-=======
+# Poeltiaria corralensis (Räsänen) Hertel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Revta Univ. (Santiago) 22: 211 (1937)
+Beih. Nova Hedwigia 79: 431 (1984)
 
 #### Original name
 Lecidea corralensis Räsänen

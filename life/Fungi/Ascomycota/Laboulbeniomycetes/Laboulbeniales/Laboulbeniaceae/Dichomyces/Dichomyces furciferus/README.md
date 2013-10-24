@@ -1,5 +1,4 @@
-Dichomyces furciferus Thaxt. SPECIES
-=======
+# Dichomyces furciferus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

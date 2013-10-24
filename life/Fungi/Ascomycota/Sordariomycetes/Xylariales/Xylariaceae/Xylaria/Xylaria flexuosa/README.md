@@ -1,5 +1,4 @@
-Xylaria flexuosa Pat. SPECIES
-=======
+# Xylaria flexuosa Pat. SPECIES
 
 #### Status
 ACCEPTED

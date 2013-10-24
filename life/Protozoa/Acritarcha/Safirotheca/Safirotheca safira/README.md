@@ -1,5 +1,4 @@
-Safirotheca safira Vavrdová, 1989 SPECIES
-=======
+# Safirotheca safira Vavrdová, 1989 SPECIES
 
 #### Status
 ACCEPTED

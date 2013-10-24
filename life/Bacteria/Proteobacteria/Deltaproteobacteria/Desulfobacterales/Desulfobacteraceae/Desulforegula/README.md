@@ -1,5 +1,4 @@
-Desulforegula Rees & Patel, 2001 GENUS
-=======
+# Desulforegula Rees & Patel, 2001 GENUS
 
 #### Status
 ACCEPTED

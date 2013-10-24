@@ -1,5 +1,4 @@
-Pseudohansfordia G.R.W. Arnold, 1970 GENUS
-=======
+# Pseudohansfordia G.R.W. Arnold, 1970 GENUS
 
 #### Status
 ACCEPTED

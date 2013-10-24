@@ -1,5 +1,4 @@
-Plicaria cerea Fuckel SPECIES
-=======
+# Plicaria cerea Fuckel SPECIES
 
 #### Status
 ACCEPTED

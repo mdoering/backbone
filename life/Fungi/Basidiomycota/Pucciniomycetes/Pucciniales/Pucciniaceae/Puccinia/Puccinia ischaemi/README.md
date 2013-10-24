@@ -1,5 +1,4 @@
-Puccinia ischaemi Dietel SPECIES
-=======
+# Puccinia ischaemi Dietel SPECIES
 
 #### Status
 ACCEPTED

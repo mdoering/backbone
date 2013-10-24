@@ -1,5 +1,4 @@
-Marasmius tomentellus Berk. & M.A. Curtis SPECIES
-=======
+# Marasmius tomentellus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

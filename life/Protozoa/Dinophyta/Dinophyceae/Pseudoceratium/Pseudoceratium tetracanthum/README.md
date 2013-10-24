@@ -1,5 +1,4 @@
-Pseudoceratium tetracanthum Gocht, 1957 SPECIES
-=======
+# Pseudoceratium tetracanthum Gocht, 1957 SPECIES
 
 #### Status
 ACCEPTED

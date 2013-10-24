@@ -1,5 +1,4 @@
-Entoloma subumbilicatum Hesler SPECIES
-=======
+# Entoloma subumbilicatum Hesler SPECIES
 
 #### Status
 ACCEPTED

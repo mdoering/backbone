@@ -1,14 +1,13 @@
-Pyrenopsis subareolata var. impolita Th. Fr. VARIETY
-=======
+# Pyrenopsis impolita (Th. Fr.) Forssell SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Notiser 58 (1866)
+Nova Acta R. Soc. Scient. upsal. , Ser. 3 13: 48 (1885)
 
 #### Original name
 Pyrenopsis subareolata var. impolita Th. Fr.

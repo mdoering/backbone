@@ -1,5 +1,4 @@
-Protovallupus Pessagno & MacLeod in Pessagno, Longoria, MacLeod & Six, 1987 GENUS
-=======
+# Protovallupus Pessagno & MacLeod in Pessagno, Longoria, MacLeod & Six, 1987 GENUS
 
 #### Status
 ACCEPTED

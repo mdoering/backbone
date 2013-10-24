@@ -1,5 +1,4 @@
-Echinobotryum rubrum Sorokin SPECIES
-=======
+# Echinobotryum rubrum Sorokin SPECIES
 
 #### Status
 ACCEPTED

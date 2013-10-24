@@ -1,17 +1,16 @@
-Lecidea parvifolia var. subgranulosa Tuck. VARIETY
-=======
+# Phyllopsora canoumbrina (Vainio) Brako SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 35(1): 12 (1989)
 
 #### Original name
-null
+Lecidea canoumbrina Vain.
 
 ### Remarks
 null

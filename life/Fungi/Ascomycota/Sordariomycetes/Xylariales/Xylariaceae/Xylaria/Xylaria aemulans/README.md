@@ -1,5 +1,4 @@
-Xylaria aemulans Starbäck SPECIES
-=======
+# Xylaria aemulans Starbäck SPECIES
 
 #### Status
 ACCEPTED

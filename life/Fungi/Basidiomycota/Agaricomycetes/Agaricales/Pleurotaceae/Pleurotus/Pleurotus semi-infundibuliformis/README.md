@@ -1,5 +1,4 @@
-Pleurotus semi-infundibuliformis P. Karst. SPECIES
-=======
+# Pleurotus semi-infundibuliformis P. Karst. SPECIES
 
 #### Status
 ACCEPTED

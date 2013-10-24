@@ -1,5 +1,4 @@
-Cortinarius ammophiloides Bohus SPECIES
-=======
+# Cortinarius ammophiloides Bohus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactococcus piscium Williams et al., 1990 SPECIES
-=======
+# Lactococcus piscium Williams et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

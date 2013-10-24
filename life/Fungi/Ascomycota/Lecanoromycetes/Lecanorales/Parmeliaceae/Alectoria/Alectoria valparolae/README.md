@@ -1,5 +1,4 @@
-Alectoria valparolae Sambo SPECIES
-=======
+# Alectoria valparolae Sambo SPECIES
 
 #### Status
 ACCEPTED

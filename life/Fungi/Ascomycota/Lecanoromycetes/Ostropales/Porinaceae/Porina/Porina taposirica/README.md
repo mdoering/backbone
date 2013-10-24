@@ -1,5 +1,4 @@
-Porina taposirica (Stizenb.) Zahlbr. SPECIES
-=======
+# Porina taposirica (Stizenb.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dermatea endoneura Har. & Pat. SPECIES
-=======
+# Dermatea endoneura Har. & Pat. SPECIES
 
 #### Status
 ACCEPTED

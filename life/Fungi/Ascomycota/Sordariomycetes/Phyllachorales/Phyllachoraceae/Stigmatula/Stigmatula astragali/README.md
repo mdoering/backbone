@@ -1,17 +1,16 @@
-Physalospora astragali var. astragali VARIETY
-=======
+# Stigmatula astragali (Lasch) P.F. Cannon, 1996 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Michelia 1(no. 2): 122 (1878)
+Mycopathologia 135(1): 65 (1996)
 
 #### Original name
-Physalospora astragali var. astragali
+Dothidea astragali Lasch, 1842
 
 ### Remarks
 null

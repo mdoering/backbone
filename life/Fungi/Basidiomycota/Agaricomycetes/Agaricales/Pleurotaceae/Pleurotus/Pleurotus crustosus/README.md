@@ -1,5 +1,4 @@
-Pleurotus crustosus Coker SPECIES
-=======
+# Pleurotus crustosus Coker SPECIES
 
 #### Status
 ACCEPTED

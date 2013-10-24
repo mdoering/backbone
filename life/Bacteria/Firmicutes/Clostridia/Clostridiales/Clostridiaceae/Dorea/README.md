@@ -1,5 +1,4 @@
-Dorea Taras, Simmering, Collins, Lawson & Blaut, 2002 GENUS
-=======
+# Dorea Taras, Simmering, Collins, Lawson & Blaut, 2002 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusariella populi Garb. SPECIES
-=======
+# Fusariella populi Garb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Globoloculina McNeil, 1997 GENUS
-=======
+# Globoloculina McNeil, 1997 GENUS
 
 #### Status
 ACCEPTED

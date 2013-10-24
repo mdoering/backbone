@@ -1,5 +1,4 @@
-Aphanostigme boswelliae Tilak & Jadhav SPECIES
-=======
+# Aphanostigme boswelliae Tilak & Jadhav SPECIES
 
 #### Status
 ACCEPTED

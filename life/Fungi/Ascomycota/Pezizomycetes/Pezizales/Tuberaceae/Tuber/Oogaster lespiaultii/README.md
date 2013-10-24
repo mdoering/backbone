@@ -1,5 +1,4 @@
-Oogaster lespiaultii Corda SPECIES
-=======
+# Oogaster lespiaultii Corda SPECIES
 
 #### Status
 ACCEPTED

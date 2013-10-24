@@ -1,5 +1,4 @@
-Heteroscypha Oberw. & Agerer GENUS
-=======
+# Heteroscypha Oberw. & Agerer GENUS
 
 #### Status
 ACCEPTED

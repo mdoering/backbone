@@ -1,17 +1,16 @@
-Talaromyces thermocitrinum Subrahm. & Gopalkr. SPECIES
-=======
+# Talaromyces thermocitrinus Subrahm. & Gopalkr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Botanical Reporter, Deshpande Commemoration Volume 35 (1984)
 
 #### Original name
-Talaromyces thermocitrinum Subrahm. & Gopalkr.
+Talaromyces thermocitrinus Subrahm. & Gopalkr.
 
 ### Remarks
 null

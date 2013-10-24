@@ -1,5 +1,4 @@
-Clypeolinopsis sorbicola (Kirschst.) Bat. SPECIES
-=======
+# Clypeolinopsis sorbicola (Kirschst.) Bat. SPECIES
 
 #### Status
 ACCEPTED

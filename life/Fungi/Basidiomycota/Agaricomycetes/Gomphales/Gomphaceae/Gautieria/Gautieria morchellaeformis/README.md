@@ -1,5 +1,4 @@
-Gautieria morchellaeformis var. morchellaeformis Vittad. VARIETY
-=======
+# Gautieria morchellaeformis Vittad. SPECIES
 
 #### Status
 ACCEPTED

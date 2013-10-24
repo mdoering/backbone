@@ -1,5 +1,4 @@
-Goniosphaeridium multispinatum Yin Leiming, 1995 SPECIES
-=======
+# Goniosphaeridium multispinatum Yin Leiming, 1995 SPECIES
 
 #### Status
 ACCEPTED

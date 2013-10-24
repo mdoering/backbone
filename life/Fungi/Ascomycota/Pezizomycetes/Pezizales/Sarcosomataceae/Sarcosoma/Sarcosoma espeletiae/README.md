@@ -1,5 +1,4 @@
-Sarcosoma espeletiae Dennis SPECIES
-=======
+# Sarcosoma espeletiae Dennis SPECIES
 
 #### Status
 ACCEPTED

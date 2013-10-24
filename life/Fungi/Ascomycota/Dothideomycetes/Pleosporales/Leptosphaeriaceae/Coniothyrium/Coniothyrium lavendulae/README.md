@@ -1,5 +1,4 @@
-Coniothyrium lavendulae Maire SPECIES
-=======
+# Coniothyrium lavendulae Maire SPECIES
 
 #### Status
 ACCEPTED

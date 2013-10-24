@@ -1,5 +1,4 @@
-Hormiscium calligoni Reichert SPECIES
-=======
+# Hormiscium calligoni Reichert SPECIES
 
 #### Status
 ACCEPTED

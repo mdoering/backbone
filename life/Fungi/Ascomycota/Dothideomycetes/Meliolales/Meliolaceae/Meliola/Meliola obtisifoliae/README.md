@@ -1,5 +1,4 @@
-Meliola obtisifoliae Mibey SPECIES
-=======
+# Meliola obtisifoliae Mibey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea amabilis B. de Lesd. SPECIES
-=======
+# Lecidea amabilis B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporisorium pseudechinolaenae Vánky & C. Menge, 1993 SPECIES
-=======
+# Sporisorium pseudechinolaenae Vánky & C. Menge, 1993 SPECIES
 
 #### Status
 ACCEPTED

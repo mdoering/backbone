@@ -1,5 +1,4 @@
-Chrysomyces brachystegiae (Henn.) Theiss. & Syd. SPECIES
-=======
+# Chrysomyces brachystegiae (Henn.) Theiss. & Syd. SPECIES
 
 #### Status
 ACCEPTED

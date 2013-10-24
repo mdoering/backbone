@@ -1,5 +1,4 @@
-Stegia nitens Penz. & Sacc. SPECIES
-=======
+# Stegia nitens Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

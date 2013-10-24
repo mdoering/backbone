@@ -1,17 +1,16 @@
-Rhodophyllus junceus (Fr. Fr.) Quélet SPECIES
-=======
+# Entoloma juncinum (Kühner & Romagn.) Noordel., 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Persoonia 10(2): 255 (1979)
 
 #### Original name
-null
+Rhodophyllus juncinus Kühner & Romagn., 1954
 
 ### Remarks
 null

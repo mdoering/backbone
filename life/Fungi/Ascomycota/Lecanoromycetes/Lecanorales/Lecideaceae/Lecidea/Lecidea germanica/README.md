@@ -1,5 +1,4 @@
-Lecidea germanica (A. Massal.) Stizenb. SPECIES
-=======
+# Lecidea germanica (A. Massal.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

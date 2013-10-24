@@ -1,5 +1,4 @@
-Mystrosporium alliorum Berk. SPECIES
-=======
+# Mystrosporium alliorum Berk. SPECIES
 
 #### Status
 ACCEPTED

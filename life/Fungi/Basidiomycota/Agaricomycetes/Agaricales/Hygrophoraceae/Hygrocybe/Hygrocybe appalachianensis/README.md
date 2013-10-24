@@ -1,14 +1,13 @@
-Hygrocybe appalachiensis (Hesler & A.H. Sm.) Kronaw. SPECIES
-=======
+# Hygrocybe appalachianensis (Hesler & A.H. Sm.) Kronaw. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Kronawitter & Bresinsky, Regensb. Mykol. Schr. 8: 58 (1998)
 
 #### Original name
 Hygrophorus appalachianensis Hesler & A.H. Sm.

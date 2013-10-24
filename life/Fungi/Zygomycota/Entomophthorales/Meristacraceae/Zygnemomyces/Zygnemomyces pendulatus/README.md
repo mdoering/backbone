@@ -1,14 +1,13 @@
-Meristacrum pendulatum J.S. McCulloch, 1977 SPECIES
-=======
+# Zygnemomyces pendulatus (J.S. McCulloch) B.E. Tucker, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 68(2): 175 (1977)
+Mycotaxon 13(3): 495 (1981)
 
 #### Original name
 Meristacrum pendulatum J.S. McCulloch, 1977

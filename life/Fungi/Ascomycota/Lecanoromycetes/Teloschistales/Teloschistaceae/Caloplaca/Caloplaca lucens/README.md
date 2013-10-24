@@ -1,5 +1,4 @@
-Caloplaca lucens (Nyl.) Zahlbr. SPECIES
-=======
+# Caloplaca lucens (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

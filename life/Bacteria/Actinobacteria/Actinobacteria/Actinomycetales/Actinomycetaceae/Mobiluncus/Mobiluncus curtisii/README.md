@@ -1,5 +1,4 @@
-Mobiluncus curtisii subsp. curtisii SUBSPECIES
-=======
+# Mobiluncus curtisii Spiegel & Roberts, 1984 SPECIES
 
 #### Status
 ACCEPTED

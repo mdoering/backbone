@@ -1,5 +1,4 @@
-Rosellinia erianthi Chona & Munjal SPECIES
-=======
+# Rosellinia erianthi Chona & Munjal SPECIES
 
 #### Status
 ACCEPTED

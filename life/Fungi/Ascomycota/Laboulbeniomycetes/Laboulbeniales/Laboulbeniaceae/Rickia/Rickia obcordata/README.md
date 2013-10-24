@@ -1,5 +1,4 @@
-Rickia obcordata Thaxt. SPECIES
-=======
+# Rickia obcordata Thaxt. SPECIES
 
 #### Status
 ACCEPTED

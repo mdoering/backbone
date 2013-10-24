@@ -1,5 +1,4 @@
-Endolepiotula Singer GENUS
-=======
+# Endolepiotula Singer GENUS
 
 #### Status
 ACCEPTED

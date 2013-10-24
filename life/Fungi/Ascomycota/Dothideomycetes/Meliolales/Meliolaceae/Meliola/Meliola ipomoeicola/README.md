@@ -1,5 +1,4 @@
-Meliola ipomoeicola Beeli SPECIES
-=======
+# Meliola ipomoeicola Beeli SPECIES
 
 #### Status
 ACCEPTED

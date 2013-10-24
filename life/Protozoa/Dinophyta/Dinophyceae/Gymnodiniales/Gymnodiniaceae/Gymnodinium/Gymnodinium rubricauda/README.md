@@ -1,5 +1,4 @@
-Gymnodinium rubricauda Kofoid & Swezy, 1921 SPECIES
-=======
+# Gymnodinium rubricauda Kofoid & Swezy, 1921 SPECIES
 
 #### Status
 ACCEPTED

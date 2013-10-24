@@ -1,5 +1,4 @@
-Pacispora coralloidea Sieverd. & Oehl SPECIES
-=======
+# Pacispora coralloidea Sieverd. & Oehl SPECIES
 
 #### Status
 ACCEPTED

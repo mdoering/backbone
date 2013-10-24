@@ -1,5 +1,4 @@
-Planctomycetacia CLASS
-=======
+# Planctomycetacia CLASS
 
 #### Status
 ACCEPTED

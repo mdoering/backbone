@@ -1,5 +1,4 @@
-Aecidium andicola Jørst. SPECIES
-=======
+# Aecidium andicola Jørst. SPECIES
 
 #### Status
 ACCEPTED

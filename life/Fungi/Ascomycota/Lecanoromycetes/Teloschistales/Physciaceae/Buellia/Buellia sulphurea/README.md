@@ -1,5 +1,4 @@
-Buellia sulphurea Malme SPECIES
-=======
+# Buellia sulphurea Malme SPECIES
 
 #### Status
 ACCEPTED

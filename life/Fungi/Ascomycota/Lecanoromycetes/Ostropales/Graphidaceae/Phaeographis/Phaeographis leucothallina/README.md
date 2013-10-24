@@ -1,5 +1,4 @@
-Phaeographis leucothallina (Vain.) Zahlbr. SPECIES
-=======
+# Phaeographis leucothallina (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

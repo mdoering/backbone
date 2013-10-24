@@ -1,5 +1,4 @@
-Hydnum echinosporum Velen. SPECIES
-=======
+# Hydnum echinosporum Velen. SPECIES
 
 #### Status
 ACCEPTED

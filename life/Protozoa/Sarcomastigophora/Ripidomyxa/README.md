@@ -1,5 +1,4 @@
-Ripidomyxa Chakraborty & Pussard, 1985 GENUS
-=======
+# Ripidomyxa Chakraborty & Pussard, 1985 GENUS
 
 #### Status
 ACCEPTED

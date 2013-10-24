@@ -1,5 +1,4 @@
-Clavaria peckii Sacc. & D. Sacc. SPECIES
-=======
+# Clavaria peckii Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

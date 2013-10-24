@@ -1,5 +1,4 @@
-Lecidea bacidioides Müll. Arg. SPECIES
-=======
+# Lecidea bacidioides Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

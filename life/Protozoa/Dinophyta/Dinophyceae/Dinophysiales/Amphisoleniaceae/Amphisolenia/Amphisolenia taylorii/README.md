@@ -1,5 +1,4 @@
-Amphisolenia taylorii Saifullah & Hassan, 1973 SPECIES
-=======
+# Amphisolenia taylorii Saifullah & Hassan, 1973 SPECIES
 
 #### Status
 ACCEPTED

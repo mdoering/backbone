@@ -1,5 +1,4 @@
-Uromyces peireskiae Dietel SPECIES
-=======
+# Uromyces peireskiae Dietel SPECIES
 
 #### Status
 ACCEPTED

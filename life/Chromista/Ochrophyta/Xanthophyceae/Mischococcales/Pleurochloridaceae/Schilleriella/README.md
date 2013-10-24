@@ -1,5 +1,4 @@
-Schilleriella A. Pascher, 1932 GENUS
-=======
+# Schilleriella A. Pascher, 1932 GENUS
 
 #### Status
 ACCEPTED

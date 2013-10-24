@@ -1,5 +1,4 @@
-Streptococcus macacae Beighton et al., 1984 SPECIES
-=======
+# Streptococcus macacae Beighton et al., 1984 SPECIES
 
 #### Status
 ACCEPTED

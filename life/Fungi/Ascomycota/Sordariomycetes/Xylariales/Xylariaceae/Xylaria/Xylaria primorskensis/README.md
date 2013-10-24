@@ -1,5 +1,4 @@
-Xylaria primorskensis Y.M. Ju, H.M. Hsieh, Lar.N. Vassiljeva & Akulov, 2009 SPECIES
-=======
+# Xylaria primorskensis Y.M. Ju, H.M. Hsieh, Lar.N. Vassiljeva & Akulov, 2009 SPECIES
 
 #### Status
 ACCEPTED

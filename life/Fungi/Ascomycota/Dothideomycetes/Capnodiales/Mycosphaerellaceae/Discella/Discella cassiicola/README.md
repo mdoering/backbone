@@ -1,5 +1,4 @@
-Discella cassiicola Subhedar & V.G. Rao SPECIES
-=======
+# Discella cassiicola Subhedar & V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

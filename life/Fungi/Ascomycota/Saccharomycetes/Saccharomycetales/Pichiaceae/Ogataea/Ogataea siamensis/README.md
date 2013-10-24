@@ -1,5 +1,4 @@
-Ogataea siamensis Limtong, Srisuk, Yongman., H. Kawas., Yurim., Nakase & N. Kato ex Limtong, Srisuk, Yongman., Yurim. SPECIES
-=======
+# Ogataea siamensis Limtong, Srisuk, Yongman., H. Kawas., Yurim., Nakase & N. Kato ex Limtong, Srisuk, Yongman., Yurim. SPECIES
 
 #### Status
 ACCEPTED

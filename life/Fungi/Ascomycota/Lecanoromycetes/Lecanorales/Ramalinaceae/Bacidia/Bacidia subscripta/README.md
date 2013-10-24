@@ -1,5 +1,4 @@
-Bacidia subscripta C. Knight SPECIES
-=======
+# Bacidia subscripta C. Knight SPECIES
 
 #### Status
 ACCEPTED

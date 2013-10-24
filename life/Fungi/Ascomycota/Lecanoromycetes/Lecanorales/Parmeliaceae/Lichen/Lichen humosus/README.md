@@ -1,5 +1,4 @@
-Lichen humosus Ehrh. SPECIES
-=======
+# Lichen humosus Ehrh. SPECIES
 
 #### Status
 ACCEPTED

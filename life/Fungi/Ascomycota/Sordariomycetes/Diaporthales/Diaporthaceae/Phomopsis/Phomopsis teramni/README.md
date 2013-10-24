@@ -1,5 +1,4 @@
-Phomopsis teramni Hasija SPECIES
-=======
+# Phomopsis teramni Hasija SPECIES
 
 #### Status
 ACCEPTED

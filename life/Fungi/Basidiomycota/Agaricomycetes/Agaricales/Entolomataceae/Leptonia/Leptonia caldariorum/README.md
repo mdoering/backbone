@@ -1,5 +1,4 @@
-Leptonia caldariorum Henn. SPECIES
-=======
+# Leptonia caldariorum Henn. SPECIES
 
 #### Status
 ACCEPTED

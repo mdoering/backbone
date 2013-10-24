@@ -1,5 +1,4 @@
-Phoma coonsii Boerema & Loer., 1985 SPECIES
-=======
+# Phoma coonsii Boerema & Loer., 1985 SPECIES
 
 #### Status
 ACCEPTED

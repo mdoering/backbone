@@ -1,5 +1,4 @@
-Irene nephelii Sacc. SPECIES
-=======
+# Irene nephelii Sacc. SPECIES
 
 #### Status
 ACCEPTED

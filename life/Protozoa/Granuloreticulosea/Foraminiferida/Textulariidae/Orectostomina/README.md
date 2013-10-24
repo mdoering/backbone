@@ -1,5 +1,4 @@
-Orectostomina Seiglie, 1965 GENUS
-=======
+# Orectostomina Seiglie, 1965 GENUS
 
 #### Status
 ACCEPTED

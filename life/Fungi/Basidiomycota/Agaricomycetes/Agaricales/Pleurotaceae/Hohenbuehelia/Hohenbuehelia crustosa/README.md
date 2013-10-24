@@ -1,5 +1,4 @@
-Hohenbuehelia crustosa (Coker) Singer SPECIES
-=======
+# Hohenbuehelia crustosa (Coker) Singer SPECIES
 
 #### Status
 ACCEPTED

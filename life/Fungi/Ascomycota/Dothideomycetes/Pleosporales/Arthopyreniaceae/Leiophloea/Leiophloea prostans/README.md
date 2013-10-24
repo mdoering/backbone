@@ -1,5 +1,4 @@
-Leiophloea prostans (Mont.) Trevis. SPECIES
-=======
+# Leiophloea prostans (Mont.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

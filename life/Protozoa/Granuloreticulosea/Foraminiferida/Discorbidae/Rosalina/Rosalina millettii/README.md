@@ -1,5 +1,4 @@
-Rosalina millettii (Wright, 1911) SPECIES
-=======
+# Rosalina millettii (Wright, 1911) SPECIES
 
 #### Status
 ACCEPTED

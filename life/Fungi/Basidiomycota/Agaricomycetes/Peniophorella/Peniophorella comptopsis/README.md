@@ -1,14 +1,13 @@
-Hyphodontia comptopsis Burds. & Nakasone, 1981 SPECIES
-=======
+# Peniophorella comptopsis (Burds. & Nakasone) K.H. Larss., 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 73(3): 460 (1981)
+Mycol. Res. 111(2): 191 (2007)
 
 #### Original name
 Hyphodontia comptopsis Burds. & Nakasone, 1981

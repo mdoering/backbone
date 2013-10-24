@@ -1,5 +1,4 @@
-Pseudopyrenula calospora var. calospora VARIETY
-=======
+# Pseudopyrenula calospora Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Engler's Bot. Jahrb. 6: 409 (1885)
 
 #### Original name
-Pseudopyrenula calospora var. calospora
+Pseudopyrenula calospora Müll. Arg.
 
 ### Remarks
 null

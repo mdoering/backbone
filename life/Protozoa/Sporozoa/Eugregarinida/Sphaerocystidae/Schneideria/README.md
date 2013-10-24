@@ -1,5 +1,4 @@
-Schneideria Léger, 1892 GENUS
-=======
+# Schneideria Léger, 1892 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Candida michaelii S.O. Suh, N.H. Nguyen & M. Blackw., 2005 SPECIES
-=======
+# Candida michaelii S.O. Suh, N.H. Nguyen & M. Blackw., 2005 SPECIES
 
 #### Status
 ACCEPTED

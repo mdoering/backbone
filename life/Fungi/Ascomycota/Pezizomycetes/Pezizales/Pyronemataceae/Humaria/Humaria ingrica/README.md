@@ -1,5 +1,4 @@
-Humaria ingrica (Weinm.) Sacc. SPECIES
-=======
+# Humaria ingrica (Weinm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

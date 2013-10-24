@@ -1,5 +1,4 @@
-Smittium phytotelmatum Lichtw., 1994 SPECIES
-=======
+# Smittium phytotelmatum Lichtw., 1994 SPECIES
 
 #### Status
 ACCEPTED

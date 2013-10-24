@@ -1,5 +1,4 @@
-Uredo setariae-excurrentis Y.C. Wang SPECIES
-=======
+# Uredo setariae-excurrentis Y.C. Wang SPECIES
 
 #### Status
 ACCEPTED

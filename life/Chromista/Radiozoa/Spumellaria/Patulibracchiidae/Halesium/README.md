@@ -1,5 +1,4 @@
-Halesium Pessagno, 1971 GENUS
-=======
+# Halesium Pessagno, 1971 GENUS
 
 #### Status
 ACCEPTED

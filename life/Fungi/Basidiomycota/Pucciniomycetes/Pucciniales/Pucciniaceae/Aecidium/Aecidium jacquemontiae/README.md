@@ -1,5 +1,4 @@
-Aecidium jacquemontiae Ellis & Everh. SPECIES
-=======
+# Aecidium jacquemontiae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

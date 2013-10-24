@@ -1,5 +1,4 @@
-Lepiota implana Berk. SPECIES
-=======
+# Lepiota implana Berk. SPECIES
 
 #### Status
 ACCEPTED

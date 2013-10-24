@@ -1,5 +1,4 @@
-Uredo speschnewii Sacc. & P. Syd. SPECIES
-=======
+# Uredo speschnewii Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

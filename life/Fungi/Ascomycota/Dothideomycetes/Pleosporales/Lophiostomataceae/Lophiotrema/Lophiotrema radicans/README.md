@@ -1,5 +1,4 @@
-Lophiotrema radicans (Ellis & Everh.) Sacc. SPECIES
-=======
+# Lophiotrema radicans (Ellis & Everh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

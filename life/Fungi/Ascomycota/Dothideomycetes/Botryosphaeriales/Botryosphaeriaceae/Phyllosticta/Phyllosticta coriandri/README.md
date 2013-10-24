@@ -1,5 +1,4 @@
-Phyllosticta coriandri Khokhr. SPECIES
-=======
+# Phyllosticta coriandri Khokhr. SPECIES
 
 #### Status
 ACCEPTED

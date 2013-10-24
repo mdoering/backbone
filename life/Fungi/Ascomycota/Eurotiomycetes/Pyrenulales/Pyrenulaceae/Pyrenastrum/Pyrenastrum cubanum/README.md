@@ -1,5 +1,4 @@
-Pyrenastrum cubanum var. cubanum VARIETY
-=======
+# Pyrenastrum cubanum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Engler's Bot. Jahrb. 6: 386 (1885)
 
 #### Original name
-Pyrenastrum cubanum var. cubanum
+Pyrenastrum cubanum Müll. Arg.
 
 ### Remarks
 null

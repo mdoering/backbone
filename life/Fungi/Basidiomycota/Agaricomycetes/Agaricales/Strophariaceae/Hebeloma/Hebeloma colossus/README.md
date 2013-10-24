@@ -1,5 +1,4 @@
-Hebeloma colossus Huijsman SPECIES
-=======
+# Hebeloma colossus Huijsman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Omatidium B. Courtinat in B. Courtinat & C. Gaillard, 1980 GENUS
-=======
+# Omatidium B. Courtinat in B. Courtinat & C. Gaillard, 1980 GENUS
 
 #### Status
 ACCEPTED

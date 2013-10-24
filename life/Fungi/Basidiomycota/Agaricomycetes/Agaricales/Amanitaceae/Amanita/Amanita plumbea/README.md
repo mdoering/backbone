@@ -1,5 +1,4 @@
-Amanita plumbea (Schaeff.) SPECIES
-=======
+# Amanita plumbea (Schaeff.) SPECIES
 
 #### Status
 ACCEPTED

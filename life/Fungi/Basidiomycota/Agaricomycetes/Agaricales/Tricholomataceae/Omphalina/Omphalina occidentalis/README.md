@@ -1,5 +1,4 @@
-Omphalina occidentalis (A.H. Sm.) H.E. Bigelow SPECIES
-=======
+# Omphalina occidentalis (A.H. Sm.) H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

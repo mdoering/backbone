@@ -1,5 +1,4 @@
-Placosphaeria celtidis Dearn. & House SPECIES
-=======
+# Placosphaeria celtidis Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

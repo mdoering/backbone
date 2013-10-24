@@ -1,5 +1,4 @@
-Phyllachora australis C.A. Pearce & K.D. Hyde, 2006 SPECIES
-=======
+# Phyllachora australis C.A. Pearce & K.D. Hyde, 2006 SPECIES
 
 #### Status
 ACCEPTED

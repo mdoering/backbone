@@ -1,5 +1,4 @@
-Phormidium epiphyticum Gardner SPECIES
-=======
+# Phormidium epiphyticum Gardner SPECIES
 
 #### Status
 ACCEPTED

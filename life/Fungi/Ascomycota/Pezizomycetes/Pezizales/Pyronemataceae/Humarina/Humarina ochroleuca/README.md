@@ -1,5 +1,4 @@
-Humarina ochroleuca (Clem.) Seaver SPECIES
-=======
+# Humarina ochroleuca (Clem.) Seaver SPECIES
 
 #### Status
 ACCEPTED

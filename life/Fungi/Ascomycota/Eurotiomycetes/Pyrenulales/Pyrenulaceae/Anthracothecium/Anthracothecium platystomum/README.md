@@ -1,5 +1,4 @@
-Anthracothecium platystomum Müll. Arg. SPECIES
-=======
+# Anthracothecium platystomum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

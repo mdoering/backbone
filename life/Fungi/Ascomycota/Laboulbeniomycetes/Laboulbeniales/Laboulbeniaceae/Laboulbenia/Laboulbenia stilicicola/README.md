@@ -1,5 +1,4 @@
-Laboulbenia stilicicola Speg., 1914 SPECIES
-=======
+# Laboulbenia stilicicola Speg., 1914 SPECIES
 
 #### Status
 ACCEPTED

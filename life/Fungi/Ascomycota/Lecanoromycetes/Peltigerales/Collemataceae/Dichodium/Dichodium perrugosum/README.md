@@ -1,5 +1,4 @@
-Dichodium perrugosum Vezda SPECIES
-=======
+# Dichodium perrugosum Vezda SPECIES
 
 #### Status
 ACCEPTED

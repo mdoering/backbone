@@ -1,5 +1,4 @@
-Cortinarius balaustinoides Rob. Henry SPECIES
-=======
+# Cortinarius balaustinoides Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

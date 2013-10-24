@@ -1,5 +1,4 @@
-Discella darlingtoniae Thüm. SPECIES
-=======
+# Discella darlingtoniae Thüm. SPECIES
 
 #### Status
 ACCEPTED

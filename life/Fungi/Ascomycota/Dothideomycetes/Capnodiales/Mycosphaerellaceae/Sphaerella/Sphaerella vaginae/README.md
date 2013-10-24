@@ -1,5 +1,4 @@
-Sphaerella vaginae Lasch SPECIES
-=======
+# Sphaerella vaginae Lasch SPECIES
 
 #### Status
 ACCEPTED

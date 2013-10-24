@@ -1,17 +1,16 @@
-Lembosia dispyrosi Mibey SPECIES
-=======
+# Lembosia diospyri Mibey SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Mibey & Hawksworth, Mycol. Pap. 174: 96 (1997)
 
 #### Original name
-Lembosia dispyrosi Mibey
+Lembosia diospyri Mibey
 
 ### Remarks
 null

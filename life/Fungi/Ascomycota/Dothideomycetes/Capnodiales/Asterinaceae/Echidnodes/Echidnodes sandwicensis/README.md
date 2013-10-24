@@ -1,5 +1,4 @@
-Echidnodes sandwicensis Petr., 1952 SPECIES
-=======
+# Echidnodes sandwicensis Petr., 1952 SPECIES
 
 #### Status
 ACCEPTED

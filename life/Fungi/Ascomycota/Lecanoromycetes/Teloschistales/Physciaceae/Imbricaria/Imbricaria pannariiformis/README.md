@@ -1,5 +1,4 @@
-Imbricaria pannariiformis (Nyl.) Arnold SPECIES
-=======
+# Imbricaria pannariiformis (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

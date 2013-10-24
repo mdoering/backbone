@@ -1,5 +1,4 @@
-Puccinia manoutcherii Vienn.-Bourg. SPECIES
-=======
+# Puccinia manoutcherii Vienn.-Bourg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Podosordaria vinacea J.C. Krug & Cain SPECIES
-=======
+# Podosordaria vinacea J.C. Krug & Cain SPECIES
 
 #### Status
 ACCEPTED

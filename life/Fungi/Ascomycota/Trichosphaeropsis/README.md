@@ -1,5 +1,4 @@
-Trichosphaeropsis Bat. & Nascim. GENUS
-=======
+# Trichosphaeropsis Bat. & Nascim. GENUS
 
 #### Status
 ACCEPTED

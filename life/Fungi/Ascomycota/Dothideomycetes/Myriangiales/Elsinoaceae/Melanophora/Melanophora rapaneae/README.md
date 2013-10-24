@@ -1,5 +1,4 @@
-Melanophora rapaneae (Speg.) Arx SPECIES
-=======
+# Melanophora rapaneae (Speg.) Arx SPECIES
 
 #### Status
 ACCEPTED

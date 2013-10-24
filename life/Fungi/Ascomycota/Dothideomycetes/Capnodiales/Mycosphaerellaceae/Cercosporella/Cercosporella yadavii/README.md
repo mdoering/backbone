@@ -1,5 +1,4 @@
-Cercosporella yadavii Deighton SPECIES
-=======
+# Cercosporella yadavii Deighton SPECIES
 
 #### Status
 ACCEPTED

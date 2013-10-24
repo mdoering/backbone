@@ -1,5 +1,4 @@
-Campanulospora mori Salazar-Yepes, Pardo-Card. & Buriticá SPECIES
-=======
+# Campanulospora mori Salazar-Yepes, Pardo-Card. & Buriticá SPECIES
 
 #### Status
 ACCEPTED

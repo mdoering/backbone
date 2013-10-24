@@ -1,5 +1,4 @@
-Scleroderma cookei De Toni SPECIES
-=======
+# Scleroderma cookei De Toni SPECIES
 
 #### Status
 ACCEPTED

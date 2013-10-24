@@ -1,17 +1,16 @@
-Genea verrucosa var. verrucosa VARIETY
-=======
+# Genea verrucosa Vittad., 1831 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monogr. Tuberac. (Milano) 27 (1831)
+Monogr. Tuberac. (Milano) 28 (1831)
 
 #### Original name
-Genea verrucosa var. verrucosa
+Genea verrucosa Vittad., 1831
 
 ### Remarks
 null

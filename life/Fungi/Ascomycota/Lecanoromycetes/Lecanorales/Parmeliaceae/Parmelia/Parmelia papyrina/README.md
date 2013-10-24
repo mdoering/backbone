@@ -1,5 +1,4 @@
-Parmelia papyrina Fée SPECIES
-=======
+# Parmelia papyrina Fée SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Auricula velutina (Lév.) Kuntze SPECIES
-=======
+# Auricula velutina (Lév.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

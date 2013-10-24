@@ -1,5 +1,4 @@
-Staurasparium Haeckel, 1887 GENUS
-=======
+# Staurasparium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

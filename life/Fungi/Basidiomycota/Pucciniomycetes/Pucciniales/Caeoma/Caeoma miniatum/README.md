@@ -1,5 +1,4 @@
-Caeoma miniatum (Pers.) Schltdl. SPECIES
-=======
+# Caeoma miniatum (Pers.) Schltdl. SPECIES
 
 #### Status
 ACCEPTED

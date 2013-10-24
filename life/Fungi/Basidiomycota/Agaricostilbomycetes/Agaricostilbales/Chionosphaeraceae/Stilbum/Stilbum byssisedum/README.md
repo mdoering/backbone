@@ -1,5 +1,4 @@
-Stilbum byssisedum Berk. & M.A. Curtis SPECIES
-=======
+# Stilbum byssisedum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

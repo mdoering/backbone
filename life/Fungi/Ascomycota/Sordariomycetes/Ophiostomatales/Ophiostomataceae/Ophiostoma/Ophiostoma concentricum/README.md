@@ -1,5 +1,4 @@
-Ophiostoma concentricum (Olchow. & J. Reid) Georg Hausner & J. Reid SPECIES
-=======
+# Ophiostoma concentricum (Olchow. & J. Reid) Georg Hausner & J. Reid SPECIES
 
 #### Status
 ACCEPTED

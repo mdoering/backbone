@@ -1,5 +1,4 @@
-Spiloma xanthostigma SPECIES
-=======
+# Spiloma xanthostigma SPECIES
 
 #### Status
 ACCEPTED

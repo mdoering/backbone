@@ -1,5 +1,4 @@
-Lophidium trifidum Ellis & Everh. SPECIES
-=======
+# Lophidium trifidum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

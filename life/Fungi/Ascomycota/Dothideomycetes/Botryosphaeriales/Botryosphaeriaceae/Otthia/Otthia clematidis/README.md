@@ -1,5 +1,4 @@
-Otthia clematidis Tracy & Earle SPECIES
-=======
+# Otthia clematidis Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

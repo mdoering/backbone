@@ -1,5 +1,4 @@
-Psathyrella avilana Dennis SPECIES
-=======
+# Psathyrella avilana Dennis SPECIES
 
 #### Status
 ACCEPTED

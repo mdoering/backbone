@@ -1,5 +1,4 @@
-Pholiota salicina Velen. SPECIES
-=======
+# Pholiota salicina Velen. SPECIES
 
 #### Status
 ACCEPTED

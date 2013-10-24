@@ -1,5 +1,4 @@
-Phyllosticta pipericola Syd. SPECIES
-=======
+# Phyllosticta pipericola Syd. SPECIES
 
 #### Status
 ACCEPTED

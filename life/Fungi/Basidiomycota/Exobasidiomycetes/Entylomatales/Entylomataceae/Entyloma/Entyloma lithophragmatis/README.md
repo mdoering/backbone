@@ -1,17 +1,16 @@
-Entyloma lithophragmae G.W. Fisch. & C.G. Shaw SPECIES
-=======
+# Entyloma lithophragmatis G.W. Fisch. & C.G. Shaw SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Res. Stud. Washington State Univ. 20: 4 (1952)
 
 #### Original name
-Entyloma lithophragmae G.W. Fisch. & C.G. Shaw
+Entyloma lithophragmatis G.W. Fisch. & C.G. Shaw
 
 ### Remarks
 null

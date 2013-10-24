@@ -1,5 +1,4 @@
-Patellaria leucaspis (Kremp. ex A. Massal.) Hepp SPECIES
-=======
+# Patellaria leucaspis (Kremp. ex A. Massal.) Hepp SPECIES
 
 #### Status
 ACCEPTED

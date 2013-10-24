@@ -1,5 +1,4 @@
-Lobaria platyphylla Trevis. SPECIES
-=======
+# Lobaria platyphylla Trevis. SPECIES
 
 #### Status
 ACCEPTED

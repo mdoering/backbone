@@ -1,5 +1,4 @@
-Microsporum anomaeon Vidal {?} ex Guég. SPECIES
-=======
+# Microsporum anomaeon Vidal {?} ex Guég. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Prosthecochloris Gorlenko, 1970 GENUS
-=======
+# Prosthecochloris Gorlenko, 1970 GENUS
 
 #### Status
 ACCEPTED

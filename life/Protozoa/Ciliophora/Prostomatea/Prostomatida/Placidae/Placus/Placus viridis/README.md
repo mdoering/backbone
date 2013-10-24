@@ -1,5 +1,4 @@
-Placus viridis Kahl, 1927 SPECIES
-=======
+# Placus viridis Kahl, 1927 SPECIES
 
 #### Status
 ACCEPTED

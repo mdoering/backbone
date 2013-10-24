@@ -1,5 +1,4 @@
-Collybia pomacea Velen. SPECIES
-=======
+# Collybia pomacea Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius tubulipes J. Favre SPECIES
-=======
+# Cortinarius tubulipes J. Favre SPECIES
 
 #### Status
 ACCEPTED

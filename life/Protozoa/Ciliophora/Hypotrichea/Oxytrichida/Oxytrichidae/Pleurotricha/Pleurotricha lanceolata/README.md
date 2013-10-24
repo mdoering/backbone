@@ -1,8 +1,7 @@
-Stylonychia lanceolata Ehrenberg, 1835 SPECIES
-=======
+# Pleurotricha lanceolata (Ehrenberg, 1835) Stein, 1859 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

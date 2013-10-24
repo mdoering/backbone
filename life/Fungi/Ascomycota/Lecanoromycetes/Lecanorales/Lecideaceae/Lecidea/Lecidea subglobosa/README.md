@@ -1,5 +1,4 @@
-Lecidea subglobosa H. Magn. SPECIES
-=======
+# Lecidea subglobosa H. Magn. SPECIES
 
 #### Status
 ACCEPTED

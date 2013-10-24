@@ -1,5 +1,4 @@
-Isaria tremellosa Schumach. SPECIES
-=======
+# Isaria tremellosa Schumach. SPECIES
 
 #### Status
 ACCEPTED

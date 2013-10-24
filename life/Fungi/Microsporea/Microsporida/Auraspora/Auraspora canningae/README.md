@@ -1,5 +1,4 @@
-Auraspora canningae J. Weiser & Purrini SPECIES
-=======
+# Auraspora canningae J. Weiser & Purrini SPECIES
 
 #### Status
 ACCEPTED

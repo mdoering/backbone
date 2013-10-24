@@ -1,5 +1,4 @@
-Phyllosticta campanulae Sacc. & Speg. SPECIES
-=======
+# Phyllosticta campanulae Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

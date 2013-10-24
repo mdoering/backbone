@@ -1,5 +1,4 @@
-Passalora tungurahuensis (Petr.) U. Braun & Crous SPECIES
-=======
+# Passalora tungurahuensis (Petr.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

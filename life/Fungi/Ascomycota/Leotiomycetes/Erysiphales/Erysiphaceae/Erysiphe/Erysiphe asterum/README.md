@@ -1,5 +1,4 @@
-Erysiphe asterum Schwein. SPECIES
-=======
+# Erysiphe asterum Schwein. SPECIES
 
 #### Status
 ACCEPTED

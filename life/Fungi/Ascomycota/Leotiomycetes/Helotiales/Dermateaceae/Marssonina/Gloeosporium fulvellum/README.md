@@ -1,5 +1,4 @@
-Gloeosporium fulvellum Speg. SPECIES
-=======
+# Gloeosporium fulvellum Speg. SPECIES
 
 #### Status
 ACCEPTED

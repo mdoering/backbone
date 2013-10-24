@@ -1,5 +1,4 @@
-Ophioceras dolichostomum (Berk. & M.A. Curtis) Sacc., 1883 SPECIES
-=======
+# Ophioceras dolichostomum (Berk. & M.A. Curtis) Sacc., 1883 SPECIES
 
 #### Status
 ACCEPTED

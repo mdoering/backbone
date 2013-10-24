@@ -1,5 +1,4 @@
-Clitopilus invenustus Herp. SPECIES
-=======
+# Clitopilus invenustus Herp. SPECIES
 
 #### Status
 ACCEPTED

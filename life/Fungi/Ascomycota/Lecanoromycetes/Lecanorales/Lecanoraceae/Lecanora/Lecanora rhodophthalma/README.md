@@ -1,5 +1,4 @@
-Lecanora rhodophthalma f. rhodophthalma FORM
-=======
+# Lecanora rhodophthalma SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora rhodophthalma f. rhodophthalma
+null
 
 ### Remarks
 null

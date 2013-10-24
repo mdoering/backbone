@@ -1,5 +1,4 @@
-Physcia frostii (Tuck.) Zahlbr. SPECIES
-=======
+# Physcia frostii (Tuck.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

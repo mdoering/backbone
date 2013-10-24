@@ -1,5 +1,4 @@
-Trichocladium singaporense Tubaki, T.K. Tan & Y. Ogawa SPECIES
-=======
+# Trichocladium singaporense Tubaki, T.K. Tan & Y. Ogawa SPECIES
 
 #### Status
 ACCEPTED

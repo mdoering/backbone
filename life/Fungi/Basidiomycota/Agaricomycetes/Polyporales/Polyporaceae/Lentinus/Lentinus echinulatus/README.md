@@ -1,5 +1,4 @@
-Lentinus echinulatus (Murrill) Overh. SPECIES
-=======
+# Lentinus echinulatus (Murrill) Overh. SPECIES
 
 #### Status
 ACCEPTED

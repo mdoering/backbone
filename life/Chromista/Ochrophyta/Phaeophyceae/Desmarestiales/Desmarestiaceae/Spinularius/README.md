@@ -1,5 +1,4 @@
-Spinularius H.F.A. Roussel, 1806 GENUS
-=======
+# Spinularius H.F.A. Roussel, 1806 GENUS
 
 #### Status
 ACCEPTED

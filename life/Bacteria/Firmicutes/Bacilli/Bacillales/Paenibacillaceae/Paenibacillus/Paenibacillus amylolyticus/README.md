@@ -1,8 +1,7 @@
-Bacillus amylolyticus (ex Choukévitch, 1911) Nakamura, 1984 SPECIES
-=======
+# Paenibacillus amylolyticus (Nakamura, 1984) Ash et al., 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Pseudolyophyllum brumale (Fr.) Raithelh. SPECIES
-=======
+# Pseudolyophyllum brumale (Fr.) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

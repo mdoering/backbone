@@ -1,5 +1,4 @@
-Pseudozyma parantarctica Sugita, M. Takash., Mekha & Poonwan SPECIES
-=======
+# Pseudozyma parantarctica Sugita, M. Takash., Mekha & Poonwan SPECIES
 
 #### Status
 ACCEPTED

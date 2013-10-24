@@ -1,5 +1,4 @@
-Sestronophora arnoldi Loeblich & Tappan, 1957 SPECIES
-=======
+# Sestronophora arnoldi Loeblich & Tappan, 1957 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodina pentatropidis S. Ahmad SPECIES
-=======
+# Diplodina pentatropidis S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

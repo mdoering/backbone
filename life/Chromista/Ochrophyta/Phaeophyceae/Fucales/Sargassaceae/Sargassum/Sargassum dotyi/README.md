@@ -1,5 +1,4 @@
-Sargassum dotyi Trono SPECIES
-=======
+# Sargassum dotyi Trono SPECIES
 
 #### Status
 ACCEPTED

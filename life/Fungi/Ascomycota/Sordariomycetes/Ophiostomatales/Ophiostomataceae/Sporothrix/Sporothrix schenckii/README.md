@@ -1,17 +1,16 @@
-Sporotrichum beurmannii var. beurmannii VARIETY
-=======
+# Sporothrix schenckii L. Hektoen & C. F. Perkins SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-C. r. hebd. Séanc. Acad. Sci. , Paris 2: 380 (1905)
+null
 
 #### Original name
-Sporotrichum beurmannii var. beurmannii
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Boletellus obscurecoccineus (Hoehn.) Sing. SPECIES
-=======
+# Boletellus obscurecoccineus (Hoehn.) Sing. SPECIES
 
 #### Status
 ACCEPTED

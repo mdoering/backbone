@@ -1,5 +1,4 @@
-Ilyobacter delafieldii Janssen & Harfoot, 1991 SPECIES
-=======
+# Ilyobacter delafieldii Janssen & Harfoot, 1991 SPECIES
 
 #### Status
 ACCEPTED

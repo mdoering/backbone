@@ -1,5 +1,4 @@
-Phaeogalera macrospora (Velen.) Bon SPECIES
-=======
+# Phaeogalera macrospora (Velen.) Bon SPECIES
 
 #### Status
 ACCEPTED

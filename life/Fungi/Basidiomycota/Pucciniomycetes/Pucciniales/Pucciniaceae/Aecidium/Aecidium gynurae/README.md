@@ -1,5 +1,4 @@
-Aecidium gynurae Petch SPECIES
-=======
+# Aecidium gynurae Petch SPECIES
 
 #### Status
 ACCEPTED

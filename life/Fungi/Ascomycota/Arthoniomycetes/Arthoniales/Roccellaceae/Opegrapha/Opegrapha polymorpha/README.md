@@ -1,5 +1,4 @@
-Opegrapha polymorpha (Ach.) Tuck. SPECIES
-=======
+# Opegrapha polymorpha (Ach.) Tuck. SPECIES
 
 #### Status
 ACCEPTED

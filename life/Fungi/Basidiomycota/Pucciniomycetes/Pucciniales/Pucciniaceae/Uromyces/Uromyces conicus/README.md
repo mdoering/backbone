@@ -1,5 +1,4 @@
-Uromyces conicus Jørst. SPECIES
-=======
+# Uromyces conicus Jørst. SPECIES
 
 #### Status
 ACCEPTED

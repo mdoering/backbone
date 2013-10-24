@@ -1,5 +1,4 @@
-Polyporus eylesii Van der Byl SPECIES
-=======
+# Polyporus eylesii Van der Byl SPECIES
 
 #### Status
 ACCEPTED

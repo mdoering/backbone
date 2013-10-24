@@ -1,5 +1,4 @@
-Mycobacterium hiberniae Kazda et al., 1993 SPECIES
-=======
+# Mycobacterium hiberniae Kazda et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

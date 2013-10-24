@@ -1,5 +1,4 @@
-Pseudocercospora nyctanthis (A.K. Roy) U. Braun, Bagyan. & Jagad. SPECIES
-=======
+# Pseudocercospora nyctanthis (A.K. Roy) U. Braun, Bagyan. & Jagad. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Ophiobolus gangeticum Gupta {?} SPECIES
-=======
+# Ophiobolus gangetici Gupta {?} SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Z. PflKrankh. PflPath. PflSchutz 81(9): 512 (1974)
 
 #### Original name
-Ophiobolus gangeticum Gupta {?}
+Ophiobolus gangetici Gupta {?}
 
 ### Remarks
 null

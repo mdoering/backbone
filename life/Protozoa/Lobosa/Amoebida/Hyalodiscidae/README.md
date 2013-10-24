@@ -1,5 +1,4 @@
-Hyalodiscidae FAMILY
-=======
+# Hyalodiscidae FAMILY
 
 #### Status
 ACCEPTED

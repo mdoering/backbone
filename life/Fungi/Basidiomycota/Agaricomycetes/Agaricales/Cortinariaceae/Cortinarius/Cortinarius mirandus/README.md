@@ -1,5 +1,4 @@
-Cortinarius mirandus Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius mirandus Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

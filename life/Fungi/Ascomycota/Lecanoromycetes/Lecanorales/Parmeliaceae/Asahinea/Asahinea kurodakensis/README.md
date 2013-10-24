@@ -1,5 +1,4 @@
-Asahinea kurodakensis (Asahina) W.L. Culb. & C.F. Culb. SPECIES
-=======
+# Asahinea kurodakensis (Asahina) W.L. Culb. & C.F. Culb. SPECIES
 
 #### Status
 ACCEPTED

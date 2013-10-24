@@ -1,5 +1,4 @@
-Cellulomonas iranensis Elberson et al., 2000 SPECIES
-=======
+# Cellulomonas iranensis Elberson et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

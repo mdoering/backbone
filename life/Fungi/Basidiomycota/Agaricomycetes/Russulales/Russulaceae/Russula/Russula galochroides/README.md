@@ -1,5 +1,4 @@
-Russula galochroides Sarnari SPECIES
-=======
+# Russula galochroides Sarnari SPECIES
 
 #### Status
 ACCEPTED

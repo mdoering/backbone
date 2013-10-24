@@ -1,5 +1,4 @@
-Rickia arachnoidea Thaxt. SPECIES
-=======
+# Rickia arachnoidea Thaxt. SPECIES
 
 #### Status
 ACCEPTED

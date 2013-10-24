@@ -1,5 +1,4 @@
-Aspicilia inundata Szatala SPECIES
-=======
+# Aspicilia inundata Szatala SPECIES
 
 #### Status
 ACCEPTED

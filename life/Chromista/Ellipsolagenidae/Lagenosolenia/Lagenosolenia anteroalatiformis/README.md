@@ -1,5 +1,4 @@
-Lagenosolenia anteroalatiformis Albani & Yassini, 1995 SPECIES
-=======
+# Lagenosolenia anteroalatiformis Albani & Yassini, 1995 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Beothuka Aitchison, Flood & Malpas, 1998 GENUS
-=======
+# Beothuka Aitchison, Flood & Malpas, 1998 GENUS
 
 #### Status
 ACCEPTED

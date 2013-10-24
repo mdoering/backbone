@@ -1,5 +1,4 @@
-Phomopsis chionanthi C.C. Chen SPECIES
-=======
+# Phomopsis chionanthi C.C. Chen SPECIES
 
 #### Status
 ACCEPTED

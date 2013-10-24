@@ -1,5 +1,4 @@
-Lecidea occidentalis Lynge SPECIES
-=======
+# Lecidea occidentalis Lynge SPECIES
 
 #### Status
 ACCEPTED

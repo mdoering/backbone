@@ -1,5 +1,4 @@
-Phoma nitens Sacc., M. Rousseau & E. Bommer SPECIES
-=======
+# Phoma nitens Sacc., M. Rousseau & E. Bommer SPECIES
 
 #### Status
 ACCEPTED

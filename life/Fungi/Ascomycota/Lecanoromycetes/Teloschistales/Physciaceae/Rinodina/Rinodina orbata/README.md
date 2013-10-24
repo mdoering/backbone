@@ -1,5 +1,4 @@
-Rinodina orbata f. orbata FORM
-=======
+# Rinodina orbata (Ach.) Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Rinodina orbata f. orbata
+null
 
 ### Remarks
 null

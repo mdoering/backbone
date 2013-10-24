@@ -1,5 +1,4 @@
-Clitocybe macromphala Mont. SPECIES
-=======
+# Clitocybe macromphala Mont. SPECIES
 
 #### Status
 ACCEPTED

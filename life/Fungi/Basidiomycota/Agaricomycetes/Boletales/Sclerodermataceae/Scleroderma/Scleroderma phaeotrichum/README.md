@@ -1,5 +1,4 @@
-Scleroderma phaeotrichum (Berk.) De Toni SPECIES
-=======
+# Scleroderma phaeotrichum (Berk.) De Toni SPECIES
 
 #### Status
 ACCEPTED

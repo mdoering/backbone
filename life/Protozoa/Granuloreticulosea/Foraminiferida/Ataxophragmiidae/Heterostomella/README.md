@@ -1,5 +1,4 @@
-Heterostomella Reuss, 1866 GENUS
-=======
+# Heterostomella Reuss, 1866 GENUS
 
 #### Status
 ACCEPTED

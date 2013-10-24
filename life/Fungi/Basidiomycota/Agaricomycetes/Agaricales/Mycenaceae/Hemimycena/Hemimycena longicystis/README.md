@@ -1,5 +1,4 @@
-Hemimycena longicystis R. Heim, 1962 SPECIES
-=======
+# Hemimycena longicystis R. Heim, 1962 SPECIES
 
 #### Status
 ACCEPTED

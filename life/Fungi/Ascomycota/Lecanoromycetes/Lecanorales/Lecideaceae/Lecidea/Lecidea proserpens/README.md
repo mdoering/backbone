@@ -1,5 +1,4 @@
-Lecidea proserpens (Müll. Arg.) Stizenb. SPECIES
-=======
+# Lecidea proserpens (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

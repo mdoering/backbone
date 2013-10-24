@@ -1,5 +1,4 @@
-Sporothrix curviconia de Hoog, 1974 SPECIES
-=======
+# Sporothrix curviconia de Hoog, 1974 SPECIES
 
 #### Status
 ACCEPTED

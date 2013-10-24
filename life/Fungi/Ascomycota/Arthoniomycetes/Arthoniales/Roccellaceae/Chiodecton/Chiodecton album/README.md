@@ -1,5 +1,4 @@
-Chiodecton album C.W. Dodge SPECIES
-=======
+# Chiodecton album C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

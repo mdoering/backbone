@@ -1,17 +1,16 @@
-Calicium lenticulare var. chlorodes (Nyl.) Erichsen VARIETY
-=======
+# Calicium glaucellum Ach. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mehtodus Qua Omnes Detectos Lichenes 97 (1803)
 
 #### Original name
-Calicium quercinum f. chlorodes Nyl.
+Calicium glaucellum Ach.
 
 ### Remarks
 null

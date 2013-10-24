@@ -1,5 +1,4 @@
-Ascochyta negundinis Bres. SPECIES
-=======
+# Ascochyta negundinis Bres. SPECIES
 
 #### Status
 ACCEPTED

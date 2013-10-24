@@ -1,5 +1,4 @@
-Fibuloporia kazakstanica (Pilát) Bondartsev SPECIES
-=======
+# Fibuloporia kazakstanica (Pilát) Bondartsev SPECIES
 
 #### Status
 ACCEPTED

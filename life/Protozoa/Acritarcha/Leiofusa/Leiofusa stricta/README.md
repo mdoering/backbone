@@ -1,5 +1,4 @@
-Leiofusa stricta Deunff in Deunff et al., 1961 SPECIES
-=======
+# Leiofusa stricta Deunff in Deunff et al., 1961 SPECIES
 
 #### Status
 ACCEPTED

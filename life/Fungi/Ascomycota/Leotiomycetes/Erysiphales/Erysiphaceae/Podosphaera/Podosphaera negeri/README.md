@@ -1,5 +1,4 @@
-Podosphaera negeri U. Braun, Kiehr & Delhey SPECIES
-=======
+# Podosphaera negeri U. Braun, Kiehr & Delhey SPECIES
 
 #### Status
 ACCEPTED

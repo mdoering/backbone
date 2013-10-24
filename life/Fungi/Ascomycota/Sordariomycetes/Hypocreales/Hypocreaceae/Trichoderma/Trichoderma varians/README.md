@@ -1,5 +1,4 @@
-Trichoderma varians Sartory & Bainier, 1912 SPECIES
-=======
+# Trichoderma varians Sartory & Bainier, 1912 SPECIES
 
 #### Status
 ACCEPTED

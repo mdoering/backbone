@@ -1,17 +1,16 @@
-Armillariella mellea f. mellea FORM
-=======
+# Armillaria novae-zelandiae (G. Stev.) Boesew., 1977 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Acta Soc. Fauna Flora fenn. 2: 4 (1881)
+N. Z. Jl agric. Res. 20(4): 585 (1977)
 
 #### Original name
-Armillariella mellea f. mellea
+Armillariella novae-zelandiae G. Stev., 1964
 
 ### Remarks
 null

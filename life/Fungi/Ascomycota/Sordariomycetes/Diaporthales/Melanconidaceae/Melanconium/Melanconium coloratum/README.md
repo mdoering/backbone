@@ -1,5 +1,4 @@
-Melanconium coloratum Peck SPECIES
-=======
+# Melanconium coloratum Peck SPECIES
 
 #### Status
 ACCEPTED

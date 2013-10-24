@@ -1,5 +1,4 @@
-Spongothamnus Haeckel, 1887 GENUS
-=======
+# Spongothamnus Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

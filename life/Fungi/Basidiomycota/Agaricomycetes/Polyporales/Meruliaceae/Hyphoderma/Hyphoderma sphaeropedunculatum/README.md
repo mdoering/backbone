@@ -1,5 +1,4 @@
-Hyphoderma sphaeropedunculatum Gilb. & Hemmes, 2001 SPECIES
-=======
+# Hyphoderma sphaeropedunculatum Gilb. & Hemmes, 2001 SPECIES
 
 #### Status
 ACCEPTED

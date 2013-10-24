@@ -1,5 +1,4 @@
-Autophagomyces gracilis Thaxt. SPECIES
-=======
+# Autophagomyces gracilis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

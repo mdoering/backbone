@@ -1,5 +1,4 @@
-Acrocordia glauca Körb. SPECIES
-=======
+# Acrocordia glauca Körb. SPECIES
 
 #### Status
 ACCEPTED

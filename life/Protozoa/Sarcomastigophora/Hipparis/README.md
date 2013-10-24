@@ -1,5 +1,4 @@
-Hipparis Vasiljuk & Tchaikovskaja, 1984 GENUS
-=======
+# Hipparis Vasiljuk & Tchaikovskaja, 1984 GENUS
 
 #### Status
 ACCEPTED

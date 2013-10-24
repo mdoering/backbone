@@ -1,5 +1,4 @@
-Pleurotus gadinoides (W.G. Sm.) Sacc. SPECIES
-=======
+# Pleurotus gadinoides (W.G. Sm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria torilicola Petr. SPECIES
-=======
+# Septoria torilicola Petr. SPECIES
 
 #### Status
 ACCEPTED

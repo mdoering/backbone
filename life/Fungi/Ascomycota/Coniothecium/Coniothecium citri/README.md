@@ -1,5 +1,4 @@
-Coniothecium citri McAlpine SPECIES
-=======
+# Coniothecium citri McAlpine SPECIES
 
 #### Status
 ACCEPTED

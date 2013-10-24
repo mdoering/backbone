@@ -1,5 +1,4 @@
-Polonosphaeridium ordovicum H. Górka SPECIES
-=======
+# Polonosphaeridium ordovicum H. Górka SPECIES
 
 #### Status
 ACCEPTED

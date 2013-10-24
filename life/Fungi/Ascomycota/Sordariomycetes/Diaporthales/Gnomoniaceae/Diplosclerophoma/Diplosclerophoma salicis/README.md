@@ -1,5 +1,4 @@
-Diplosclerophoma salicis (Sacc.) Petr. SPECIES
-=======
+# Diplosclerophoma salicis (Sacc.) Petr. SPECIES
 
 #### Status
 ACCEPTED

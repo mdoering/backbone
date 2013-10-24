@@ -1,5 +1,4 @@
-Lycoperdon excoriatum Lloyd SPECIES
-=======
+# Lycoperdon excoriatum Lloyd SPECIES
 
 #### Status
 ACCEPTED

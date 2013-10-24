@@ -1,5 +1,4 @@
-Pholiota olympiana (A.H. Sm.) A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota olympiana (A.H. Sm.) A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

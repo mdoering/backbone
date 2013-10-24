@@ -1,5 +1,4 @@
-Aphelidium chaetophora Scherff. SPECIES
-=======
+# Aphelidium chaetophora Scherff. SPECIES
 
 #### Status
 ACCEPTED

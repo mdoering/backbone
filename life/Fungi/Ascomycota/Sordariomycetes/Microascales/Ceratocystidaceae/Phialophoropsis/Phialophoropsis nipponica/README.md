@@ -1,5 +1,4 @@
-Phialophoropsis nipponica Matsush. SPECIES
-=======
+# Phialophoropsis nipponica Matsush. SPECIES
 
 #### Status
 ACCEPTED

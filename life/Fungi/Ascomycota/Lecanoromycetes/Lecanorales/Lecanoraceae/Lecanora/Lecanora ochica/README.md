@@ -1,5 +1,4 @@
-Lecanora ochica Sipman SPECIES
-=======
+# Lecanora ochica Sipman SPECIES
 
 #### Status
 ACCEPTED

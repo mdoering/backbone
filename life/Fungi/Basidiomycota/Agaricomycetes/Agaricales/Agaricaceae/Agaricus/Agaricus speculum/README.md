@@ -1,5 +1,4 @@
-Agaricus speculum Fr. SPECIES
-=======
+# Agaricus speculum Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Massaria occulta Romell SPECIES
-=======
+# Acrocordiella occulta (Romell) O.E. Erikss. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Hedwigia 24(5): 262 (1885)
+Mycotaxon 15: 189 (1982)
 
 #### Original name
 Massaria occulta Romell

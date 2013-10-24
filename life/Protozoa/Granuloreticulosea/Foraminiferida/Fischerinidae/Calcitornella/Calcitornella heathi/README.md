@@ -1,5 +1,4 @@
-Calcitornella heathi Cushman & Waters SPECIES
-=======
+# Calcitornella heathi Cushman & Waters SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius ammoniacosplendens Chevassut & Rob. Henry SPECIES
-=======
+# Cortinarius ammoniacosplendens Chevassut & Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

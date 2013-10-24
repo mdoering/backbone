@@ -1,5 +1,4 @@
-Anurosporidium Caullery & Chappelier, 1906 GENUS
-=======
+# Anurosporidium Caullery & Chappelier, 1906 GENUS
 
 #### Status
 ACCEPTED

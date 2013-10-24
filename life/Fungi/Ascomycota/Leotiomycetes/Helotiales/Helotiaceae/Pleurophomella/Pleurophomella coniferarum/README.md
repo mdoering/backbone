@@ -1,5 +1,4 @@
-Pleurophomella coniferarum (Vestergr.) Höhn. SPECIES
-=======
+# Pleurophomella coniferarum (Vestergr.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

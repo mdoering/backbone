@@ -1,5 +1,4 @@
-Didymosporium celtidis Schwein. SPECIES
-=======
+# Didymosporium celtidis Schwein. SPECIES
 
 #### Status
 ACCEPTED

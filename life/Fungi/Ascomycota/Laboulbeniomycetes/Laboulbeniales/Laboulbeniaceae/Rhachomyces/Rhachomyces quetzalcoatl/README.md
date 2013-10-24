@@ -1,5 +1,4 @@
-Rhachomyces quetzalcoatl Balazuc SPECIES
-=======
+# Rhachomyces quetzalcoatl Balazuc SPECIES
 
 #### Status
 ACCEPTED

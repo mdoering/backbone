@@ -1,5 +1,4 @@
-Articulospora aquatica anon. ined. SPECIES
-=======
+# Articulospora aquatica anon. ined. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Samara polygama Roxb. SPECIES
-=======
+# Samara polygama Roxb. SPECIES
 
 #### Status
 ACCEPTED

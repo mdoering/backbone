@@ -1,5 +1,4 @@
-Uromyces cestricola Speg. SPECIES
-=======
+# Uromyces cestricola Speg. SPECIES
 
 #### Status
 ACCEPTED

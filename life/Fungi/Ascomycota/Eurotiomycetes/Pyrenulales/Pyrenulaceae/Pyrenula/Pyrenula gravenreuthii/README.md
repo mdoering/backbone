@@ -1,5 +1,4 @@
-Pyrenula gravenreuthii Stein SPECIES
-=======
+# Pyrenula gravenreuthii Stein SPECIES
 
 #### Status
 ACCEPTED

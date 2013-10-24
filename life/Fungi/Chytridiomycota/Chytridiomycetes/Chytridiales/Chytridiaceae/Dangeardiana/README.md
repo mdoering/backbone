@@ -1,5 +1,4 @@
-Dangeardiana Valkanov ex A. Batko GENUS
-=======
+# Dangeardiana Valkanov ex A. Batko GENUS
 
 #### Status
 ACCEPTED

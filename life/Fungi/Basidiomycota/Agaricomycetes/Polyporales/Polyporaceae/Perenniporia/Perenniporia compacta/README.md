@@ -1,14 +1,13 @@
-Polyporus compactus Overh., 1922 SPECIES
-=======
+# Perenniporia compacta (Overh.) Ryvarden & Gilb., 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Torrey bot. Club 49: 170 (1922)
+Mycotaxon 19: 140 (1984)
 
 #### Original name
 Polyporus compactus Overh., 1922

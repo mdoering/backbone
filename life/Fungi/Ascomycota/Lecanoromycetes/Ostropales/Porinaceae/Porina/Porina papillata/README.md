@@ -1,5 +1,4 @@
-Porina papillata (Ach.) SPECIES
-=======
+# Porina papillata (Ach.) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Belonium pruiniferum Rehm SPECIES
-=======
+# Belonium pruiniferum Rehm SPECIES
 
 #### Status
 ACCEPTED

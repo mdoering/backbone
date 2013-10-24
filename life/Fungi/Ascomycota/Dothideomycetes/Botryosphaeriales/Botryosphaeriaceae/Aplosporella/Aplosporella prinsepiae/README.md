@@ -1,5 +1,4 @@
-Aplosporella prinsepiae Tilak SPECIES
-=======
+# Aplosporella prinsepiae Tilak SPECIES
 
 #### Status
 ACCEPTED

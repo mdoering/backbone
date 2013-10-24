@@ -1,11 +1,10 @@
-Chromatium violaceum Bergey et al., 1923 SPECIES
-=======
+# Thiocystis violascens (Perty, 1852) Imhoff et al., 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

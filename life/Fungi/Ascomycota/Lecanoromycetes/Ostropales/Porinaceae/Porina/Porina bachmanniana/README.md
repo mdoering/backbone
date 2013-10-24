@@ -1,5 +1,4 @@
-Porina bachmanniana Zahlbr. SPECIES
-=======
+# Porina bachmanniana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

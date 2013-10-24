@@ -1,5 +1,4 @@
-Cordosphaeridium fasciatum R. J. Davey & G. L. Williams SPECIES
-=======
+# Cordosphaeridium fasciatum R. J. Davey & G. L. Williams SPECIES
 
 #### Status
 ACCEPTED

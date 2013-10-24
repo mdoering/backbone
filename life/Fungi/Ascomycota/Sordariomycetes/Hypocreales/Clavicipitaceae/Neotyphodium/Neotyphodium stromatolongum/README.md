@@ -1,5 +1,4 @@
-Neotyphodium stromatolongum Y.L. Ji, L.H. Zhan & Z.W. Wang SPECIES
-=======
+# Neotyphodium stromatolongum Y.L. Ji, L.H. Zhan & Z.W. Wang SPECIES
 
 #### Status
 ACCEPTED

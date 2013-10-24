@@ -1,5 +1,4 @@
-Tremella crassiloba Schwein. SPECIES
-=======
+# Tremella crassiloba Schwein. SPECIES
 
 #### Status
 ACCEPTED

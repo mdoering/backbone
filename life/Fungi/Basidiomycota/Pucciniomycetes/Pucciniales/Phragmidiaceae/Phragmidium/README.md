@@ -1,17 +1,16 @@
-Frommea Arthur GENUS
-=======
+# Phragmidium Link, 1816 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Bull. Torrey bot. Club 44: 503 (1917)
+null
 
 #### Original name
-Frommea Arthur
+null
 
 ### Remarks
 null

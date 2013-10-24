@@ -1,5 +1,4 @@
-Marasmiellus phaeophyllus (Kühner) Singer SPECIES
-=======
+# Marasmiellus phaeophyllus (Kühner) Singer SPECIES
 
 #### Status
 ACCEPTED

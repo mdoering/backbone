@@ -1,5 +1,4 @@
-Wallodinium lunum (Cookson & Eisenack, 1960) Lentin & Williams SPECIES
-=======
+# Wallodinium lunum (Cookson & Eisenack, 1960) Lentin & Williams SPECIES
 
 #### Status
 ACCEPTED

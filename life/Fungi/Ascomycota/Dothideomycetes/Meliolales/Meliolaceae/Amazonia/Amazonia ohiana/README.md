@@ -1,5 +1,4 @@
-Amazonia ohiana F. Stevens SPECIES
-=======
+# Amazonia ohiana F. Stevens SPECIES
 
 #### Status
 ACCEPTED

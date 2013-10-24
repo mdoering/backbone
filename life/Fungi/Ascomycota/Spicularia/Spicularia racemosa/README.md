@@ -1,5 +1,4 @@
-Spicularia racemosa (Bull.) Pers. SPECIES
-=======
+# Spicularia racemosa (Bull.) Pers. SPECIES
 
 #### Status
 ACCEPTED

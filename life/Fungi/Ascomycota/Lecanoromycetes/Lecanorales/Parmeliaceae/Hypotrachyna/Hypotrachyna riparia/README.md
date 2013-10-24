@@ -1,5 +1,4 @@
-Hypotrachyna riparia McCune SPECIES
-=======
+# Hypotrachyna riparia McCune SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Trachelomonas ampulla var. elliptica Playfair VARIETY
-=======
+# Trachelomonas elliptica (Playfair) Deflandre SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

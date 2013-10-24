@@ -1,17 +1,16 @@
-Parmelia amaniensis J. Steiner & Zahlbr. SPECIES
-=======
+# Parmotrema amaniense (J. Steiner & Zahlbr.) Krog & Swinscow SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lichenologist 15(2): 129 (1983)
 
 #### Original name
-null
+Parmelia amaniensis J. Steiner & Zahlbr.
 
 ### Remarks
 null

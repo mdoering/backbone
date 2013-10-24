@@ -1,5 +1,4 @@
-Intrasporangium calvum Kalakoutskii et al., 1967 (Approved Lists, 1980) SPECIES
-=======
+# Intrasporangium calvum Kalakoutskii et al., 1967 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

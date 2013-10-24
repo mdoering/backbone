@@ -1,5 +1,4 @@
-Lachnum coeruleoalbum Rehm SPECIES
-=======
+# Lachnum coeruleoalbum Rehm SPECIES
 
 #### Status
 ACCEPTED

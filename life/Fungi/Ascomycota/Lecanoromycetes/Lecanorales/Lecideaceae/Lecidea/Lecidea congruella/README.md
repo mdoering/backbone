@@ -1,5 +1,4 @@
-Lecidea congruella Nyl. SPECIES
-=======
+# Lecidea congruella Nyl. SPECIES
 
 #### Status
 ACCEPTED

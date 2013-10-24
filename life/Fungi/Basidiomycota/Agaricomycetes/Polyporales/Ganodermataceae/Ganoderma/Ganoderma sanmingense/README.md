@@ -1,5 +1,4 @@
-Ganoderma sanmingense J.D. Zhao & X.Q. Zhang, 1987 SPECIES
-=======
+# Ganoderma sanmingense J.D. Zhao & X.Q. Zhang, 1987 SPECIES
 
 #### Status
 ACCEPTED

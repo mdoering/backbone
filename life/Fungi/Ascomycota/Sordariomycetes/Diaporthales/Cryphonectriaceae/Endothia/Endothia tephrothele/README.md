@@ -1,5 +1,4 @@
-Endothia tephrothele (Berk.) Höhn. SPECIES
-=======
+# Endothia tephrothele (Berk.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

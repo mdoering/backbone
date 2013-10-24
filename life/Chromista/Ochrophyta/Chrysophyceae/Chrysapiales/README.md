@@ -1,5 +1,4 @@
-Chrysapiales ORDER
-=======
+# Chrysapiales ORDER
 
 #### Status
 ACCEPTED

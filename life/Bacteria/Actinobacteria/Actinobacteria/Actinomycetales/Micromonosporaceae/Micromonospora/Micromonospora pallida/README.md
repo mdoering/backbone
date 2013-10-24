@@ -1,8 +1,7 @@
-Micromonospora echinospora subsp. pallida SUBSPECIES
-=======
+# Micromonospora pallida (Luedemann & Brodsky, 1964) Kasai et al., 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

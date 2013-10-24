@@ -1,5 +1,4 @@
-Capillaria phalloidearum Corda SPECIES
-=======
+# Capillaria phalloidearum Corda SPECIES
 
 #### Status
 ACCEPTED

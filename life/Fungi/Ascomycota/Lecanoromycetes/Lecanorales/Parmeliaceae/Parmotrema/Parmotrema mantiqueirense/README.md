@@ -1,5 +1,4 @@
-Parmotrema mantiqueirense Hale SPECIES
-=======
+# Parmotrema mantiqueirense Hale SPECIES
 
 #### Status
 ACCEPTED

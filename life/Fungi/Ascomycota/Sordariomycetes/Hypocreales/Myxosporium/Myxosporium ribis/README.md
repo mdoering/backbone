@@ -1,5 +1,4 @@
-Myxosporium ribis Hollós SPECIES
-=======
+# Myxosporium ribis Hollós SPECIES
 
 #### Status
 ACCEPTED

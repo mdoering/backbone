@@ -1,5 +1,4 @@
-Coniothyrium jaenense Petr. SPECIES
-=======
+# Coniothyrium jaenense Petr. SPECIES
 
 #### Status
 ACCEPTED

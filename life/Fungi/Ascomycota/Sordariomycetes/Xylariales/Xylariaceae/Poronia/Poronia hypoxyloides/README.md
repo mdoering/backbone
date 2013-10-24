@@ -1,5 +1,4 @@
-Poronia hypoxyloides Rehm SPECIES
-=======
+# Poronia hypoxyloides Rehm SPECIES
 
 #### Status
 ACCEPTED

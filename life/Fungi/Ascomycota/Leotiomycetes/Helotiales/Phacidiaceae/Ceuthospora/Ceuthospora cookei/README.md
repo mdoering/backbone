@@ -1,5 +1,4 @@
-Ceuthospora cookei Thüm. SPECIES
-=======
+# Ceuthospora cookei Thüm. SPECIES
 
 #### Status
 ACCEPTED

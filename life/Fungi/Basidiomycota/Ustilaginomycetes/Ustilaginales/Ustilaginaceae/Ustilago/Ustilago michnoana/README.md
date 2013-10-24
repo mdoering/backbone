@@ -1,5 +1,4 @@
-Ustilago michnoana Lavrov SPECIES
-=======
+# Ustilago michnoana Lavrov SPECIES
 
 #### Status
 ACCEPTED

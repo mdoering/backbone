@@ -1,5 +1,4 @@
-Stenella lamiacearum S. Chaudhary, N. Sharma & Kamal SPECIES
-=======
+# Stenella lamiacearum S. Chaudhary, N. Sharma & Kamal SPECIES
 
 #### Status
 ACCEPTED

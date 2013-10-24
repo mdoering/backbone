@@ -1,5 +1,4 @@
-Cortinarius paliformis Thiers SPECIES
-=======
+# Cortinarius paliformis Thiers SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Panellus cremeus G. Stev. SPECIES
-=======
+# Panellus cremeus G. Stev. SPECIES
 
 #### Status
 ACCEPTED

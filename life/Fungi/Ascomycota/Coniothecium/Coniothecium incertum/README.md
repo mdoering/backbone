@@ -1,5 +1,4 @@
-Coniothecium incertum Karsten SPECIES
-=======
+# Coniothecium incertum Karsten SPECIES
 
 #### Status
 ACCEPTED

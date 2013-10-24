@@ -1,5 +1,4 @@
-Anthophysa vegetans (Müller) Stein SPECIES
-=======
+# Anthophysa vegetans (Müller) Stein SPECIES
 
 #### Status
 ACCEPTED

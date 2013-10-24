@@ -1,5 +1,4 @@
-Lecidea phaeomelana Meyen & Flot. SPECIES
-=======
+# Lecidea phaeomelana Meyen & Flot. SPECIES
 
 #### Status
 ACCEPTED

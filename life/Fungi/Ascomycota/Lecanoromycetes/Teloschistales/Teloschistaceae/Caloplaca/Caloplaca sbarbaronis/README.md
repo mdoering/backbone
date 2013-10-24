@@ -1,5 +1,4 @@
-Caloplaca sbarbaronis B. de Lesd. SPECIES
-=======
+# Caloplaca sbarbaronis B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

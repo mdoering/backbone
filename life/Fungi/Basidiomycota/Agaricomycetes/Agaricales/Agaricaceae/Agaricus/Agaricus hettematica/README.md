@@ -1,5 +1,4 @@
-Agaricus hettematica Britzelm. SPECIES
-=======
+# Agaricus hettematica Britzelm. SPECIES
 
 #### Status
 ACCEPTED

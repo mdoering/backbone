@@ -1,5 +1,4 @@
-Filaspora polemoniarum (Paol. & Sacc.) Kuntze SPECIES
-=======
+# Filaspora polemoniarum (Paol. & Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

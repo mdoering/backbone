@@ -1,5 +1,4 @@
-Urocystis cholerae-asiaticae Hallier SPECIES
-=======
+# Urocystis cholerae-asiaticae Hallier SPECIES
 
 #### Status
 ACCEPTED

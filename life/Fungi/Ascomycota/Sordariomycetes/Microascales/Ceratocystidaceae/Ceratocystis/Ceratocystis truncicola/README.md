@@ -1,5 +1,4 @@
-Ceratocystis truncicola (R.W. Davidson) H.D. Griffin SPECIES
-=======
+# Ceratocystis truncicola (R.W. Davidson) H.D. Griffin SPECIES
 
 #### Status
 ACCEPTED

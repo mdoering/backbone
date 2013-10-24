@@ -1,5 +1,4 @@
-Lachnocladium violaceum Pat. SPECIES
-=======
+# Lachnocladium violaceum Pat. SPECIES
 
 #### Status
 ACCEPTED

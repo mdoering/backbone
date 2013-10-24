@@ -1,5 +1,4 @@
-Agaricus subsquamulosus Batsch SPECIES
-=======
+# Agaricus subsquamulosus Batsch SPECIES
 
 #### Status
 ACCEPTED

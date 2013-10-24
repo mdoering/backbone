@@ -1,5 +1,4 @@
-Luteimonas compostus Young et al., 2007 SPECIES
-=======
+# Luteimonas compostus Young et al., 2007 SPECIES
 
 #### Status
 ACCEPTED

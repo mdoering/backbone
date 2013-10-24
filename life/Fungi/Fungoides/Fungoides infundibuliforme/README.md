@@ -1,5 +1,4 @@
-Fungoides infundibuliforme P. Micheli SPECIES
-=======
+# Fungoides infundibuliforme P. Micheli SPECIES
 
 #### Status
 ACCEPTED

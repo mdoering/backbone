@@ -1,5 +1,4 @@
-Naucoria improspicua (Britzelm.) Sacc. SPECIES
-=======
+# Naucoria improspicua (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

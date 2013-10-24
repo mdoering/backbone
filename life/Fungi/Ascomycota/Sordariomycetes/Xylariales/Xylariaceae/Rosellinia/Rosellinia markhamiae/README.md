@@ -1,5 +1,4 @@
-Rosellinia markhamiae Sivan. SPECIES
-=======
+# Rosellinia markhamiae Sivan. SPECIES
 
 #### Status
 ACCEPTED

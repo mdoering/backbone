@@ -1,5 +1,4 @@
-Porina conica R. Sant., 1952 SPECIES
-=======
+# Porina conica R. Sant., 1952 SPECIES
 
 #### Status
 DOUBTFUL

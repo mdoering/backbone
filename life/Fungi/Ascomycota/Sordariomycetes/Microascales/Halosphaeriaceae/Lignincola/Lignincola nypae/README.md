@@ -1,5 +1,4 @@
-Lignincola nypae K.D. Hyde & Alias, 1999 SPECIES
-=======
+# Lignincola nypae K.D. Hyde & Alias, 1999 SPECIES
 
 #### Status
 ACCEPTED

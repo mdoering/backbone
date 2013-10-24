@@ -1,5 +1,4 @@
-Gibberidea GENUS
-=======
+# Gibberidea GENUS
 
 #### Status
 ACCEPTED

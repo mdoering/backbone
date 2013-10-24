@@ -1,5 +1,4 @@
-Mucor melanocephalos Opiz SPECIES
-=======
+# Mucor melanocephalos Opiz SPECIES
 
 #### Status
 ACCEPTED

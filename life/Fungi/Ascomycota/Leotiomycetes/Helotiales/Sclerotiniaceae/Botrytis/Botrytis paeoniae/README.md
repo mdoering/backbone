@@ -1,14 +1,13 @@
-Phymatotrichum paeoniae (Oudem.) Oudem., 1904 SPECIES
-=======
+# Botrytis paeoniae Oudem., 1897 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Verh. K. ned. Akad. Wet. , Afd. Natuurkunde, Tweede Reeks 11: 493 (1904)
+Révision des Champignons tant supérieurs qu'inférieurs trouvés jusqu'à ce jour dans la Pays-Bas, Tom. II: Phycomycètes, Pyrenomycètes 2: 464 (1897)
 
 #### Original name
 Botrytis paeoniae Oudem., 1897

@@ -1,17 +1,16 @@
-Cocconia macarangae Hansf., 1946 SPECIES
-=======
+# Cycloschizon macarangae (Hansf.) Arx, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Beitr. Kryptfl. Schweiz 11(2): 56 (1962)
 
 #### Original name
-null
+Cocconia macarangae Hansf., 1946
 
 ### Remarks
 null

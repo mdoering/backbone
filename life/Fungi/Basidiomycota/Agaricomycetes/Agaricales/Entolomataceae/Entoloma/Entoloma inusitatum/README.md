@@ -1,5 +1,4 @@
-Entoloma inusitatum Noordel., Enderle & H. Lammers, 1995 SPECIES
-=======
+# Entoloma inusitatum Noordel., Enderle & H. Lammers, 1995 SPECIES
 
 #### Status
 ACCEPTED

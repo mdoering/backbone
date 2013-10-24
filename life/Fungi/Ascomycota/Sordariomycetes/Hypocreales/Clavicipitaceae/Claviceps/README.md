@@ -1,17 +1,16 @@
-Balansiella Henn. GENUS
-=======
+# Claviceps Tulasne, 1853 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 43: 85 (1904)
+Annls Sci. Nat. , Bot. , sér. 3 20: 43 (1853)
 
 #### Original name
-Balansiella Henn.
+Claviceps Tulasne, 1853
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pertusaria barbatica A. W. Archer & Elix SPECIES
-=======
+# Pertusaria barbatica A. W. Archer & Elix SPECIES
 
 #### Status
 ACCEPTED

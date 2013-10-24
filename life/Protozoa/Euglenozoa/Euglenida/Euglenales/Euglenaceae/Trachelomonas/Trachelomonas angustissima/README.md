@@ -1,5 +1,4 @@
-Trachelomonas angustissima var. punctata Tarnogrodskij VARIETY
-=======
+# Trachelomonas angustissima Deflandre SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta photinica SPECIES
-=======
+# Phyllosticta photinica SPECIES
 
 #### Status
 ACCEPTED

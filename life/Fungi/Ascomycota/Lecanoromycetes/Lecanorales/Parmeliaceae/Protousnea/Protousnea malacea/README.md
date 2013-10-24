@@ -1,5 +1,4 @@
-Protousnea malacea (Stirt.) Krog SPECIES
-=======
+# Protousnea malacea (Stirt.) Krog SPECIES
 
 #### Status
 ACCEPTED

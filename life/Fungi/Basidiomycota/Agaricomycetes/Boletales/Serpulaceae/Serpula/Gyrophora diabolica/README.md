@@ -1,5 +1,4 @@
-Gyrophora diabolica Zahlbr. SPECIES
-=======
+# Gyrophora diabolica Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endophragmia bisbyi B. Sutton SPECIES
-=======
+# Endophragmia bisbyi B. Sutton SPECIES
 
 #### Status
 ACCEPTED

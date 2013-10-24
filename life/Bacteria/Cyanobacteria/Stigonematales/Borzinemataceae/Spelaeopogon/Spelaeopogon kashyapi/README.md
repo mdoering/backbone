@@ -1,5 +1,4 @@
-Spelaeopogon kashyapi Yajnavalkya SPECIES
-=======
+# Spelaeopogon kashyapi Yajnavalkya SPECIES
 
 #### Status
 ACCEPTED

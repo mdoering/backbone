@@ -1,5 +1,4 @@
-Mycosphaerella lineata Clem. SPECIES
-=======
+# Mycosphaerella lineata Clem. SPECIES
 
 #### Status
 ACCEPTED

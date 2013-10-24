@@ -1,5 +1,4 @@
-Myxofusicoccum tremulae Höhn. SPECIES
-=======
+# Myxofusicoccum tremulae Höhn. SPECIES
 
 #### Status
 ACCEPTED

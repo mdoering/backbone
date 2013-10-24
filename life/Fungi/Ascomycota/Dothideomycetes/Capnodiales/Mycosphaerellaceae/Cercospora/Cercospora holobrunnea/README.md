@@ -1,5 +1,4 @@
-Cercospora holobrunnea J.M. Yen SPECIES
-=======
+# Cercospora holobrunnea J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

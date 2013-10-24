@@ -1,5 +1,4 @@
-Filisphaeridium staplinii (Kiryanov, 1978) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Filisphaeridium staplinii (Kiryanov, 1978) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

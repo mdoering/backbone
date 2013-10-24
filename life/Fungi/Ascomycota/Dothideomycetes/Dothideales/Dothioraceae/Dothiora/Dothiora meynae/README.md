@@ -1,5 +1,4 @@
-Dothiora meynae R. Rao SPECIES
-=======
+# Dothiora meynae R. Rao SPECIES
 
 #### Status
 ACCEPTED

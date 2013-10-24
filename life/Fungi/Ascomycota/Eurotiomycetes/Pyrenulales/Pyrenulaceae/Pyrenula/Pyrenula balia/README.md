@@ -1,5 +1,4 @@
-Pyrenula balia (Kremp.) R.C. Harris SPECIES
-=======
+# Pyrenula balia (Kremp.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

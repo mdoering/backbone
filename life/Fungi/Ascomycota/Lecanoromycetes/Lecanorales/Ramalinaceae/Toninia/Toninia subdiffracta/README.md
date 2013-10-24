@@ -1,5 +1,4 @@
-Toninia subdiffracta Timdal SPECIES
-=======
+# Toninia subdiffracta Timdal SPECIES
 
 #### Status
 ACCEPTED

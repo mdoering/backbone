@@ -1,5 +1,4 @@
-Mycosphaerella polycarpa (Kirschst.) Tomilin SPECIES
-=======
+# Mycosphaerella polycarpa (Kirschst.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

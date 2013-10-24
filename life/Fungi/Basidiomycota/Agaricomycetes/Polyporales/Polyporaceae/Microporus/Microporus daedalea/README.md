@@ -1,5 +1,4 @@
-Microporus daedalea (Schwein. ex Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Microporus daedalea (Schwein. ex Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

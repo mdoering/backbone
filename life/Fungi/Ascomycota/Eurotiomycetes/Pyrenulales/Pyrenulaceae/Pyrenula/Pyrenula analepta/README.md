@@ -1,5 +1,4 @@
-Pyrenula analepta Fée SPECIES
-=======
+# Pyrenula analepta Fée SPECIES
 
 #### Status
 ACCEPTED

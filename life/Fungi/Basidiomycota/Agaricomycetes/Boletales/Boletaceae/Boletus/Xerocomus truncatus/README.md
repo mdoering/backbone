@@ -1,5 +1,4 @@
-Xerocomus truncatus Singer, Snell & E.A. Dick SPECIES
-=======
+# Xerocomus truncatus Singer, Snell & E.A. Dick SPECIES
 
 #### Status
 ACCEPTED

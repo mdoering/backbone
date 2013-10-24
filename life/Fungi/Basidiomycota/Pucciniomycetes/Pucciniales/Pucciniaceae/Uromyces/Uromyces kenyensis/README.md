@@ -1,5 +1,4 @@
-Uromyces kenyensis J.F. Hennen SPECIES
-=======
+# Uromyces kenyensis J.F. Hennen SPECIES
 
 #### Status
 ACCEPTED

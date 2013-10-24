@@ -1,5 +1,4 @@
-Verrucaria spadicella Erichsen SPECIES
-=======
+# Verrucaria spadicella Erichsen SPECIES
 
 #### Status
 ACCEPTED

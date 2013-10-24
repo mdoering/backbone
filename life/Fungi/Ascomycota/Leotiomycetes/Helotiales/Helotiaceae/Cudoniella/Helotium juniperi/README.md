@@ -1,5 +1,4 @@
-Helotium juniperi Velen. SPECIES
-=======
+# Helotium juniperi Velen. SPECIES
 
 #### Status
 ACCEPTED

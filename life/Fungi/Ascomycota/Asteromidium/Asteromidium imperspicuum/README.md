@@ -1,5 +1,4 @@
-Asteromidium imperspicuum Speg., 1888 SPECIES
-=======
+# Asteromidium imperspicuum Speg., 1888 SPECIES
 
 #### Status
 ACCEPTED

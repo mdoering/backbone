@@ -1,17 +1,16 @@
-Lycoperdon ericetorum var. oblongisporum (Berk. & M.A. Curtis) Perdeck VARIETY
-=======
+# Lycoperdon dermoxanthum Vittad., 1843 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Blumea 6: 496 (1950)
+Monograph Lyc. 178 (1843)
 
 #### Original name
-Lycoperdon oblongisporum Berk. & M.A. Curtis
+Lycoperdon dermoxanthum Vittad., 1843
 
 ### Remarks
 null

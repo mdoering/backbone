@@ -1,5 +1,4 @@
-Actinospica robiniae Cavaletti et al., 2006 SPECIES
-=======
+# Actinospica robiniae Cavaletti et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

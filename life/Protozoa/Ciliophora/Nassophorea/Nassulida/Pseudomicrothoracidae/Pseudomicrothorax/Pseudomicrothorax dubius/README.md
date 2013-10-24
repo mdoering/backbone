@@ -1,5 +1,4 @@
-Pseudomicrothorax dubius (Maupas, 1883) Penard, 1922 SPECIES
-=======
+# Pseudomicrothorax dubius (Maupas, 1883) Penard, 1922 SPECIES
 
 #### Status
 ACCEPTED

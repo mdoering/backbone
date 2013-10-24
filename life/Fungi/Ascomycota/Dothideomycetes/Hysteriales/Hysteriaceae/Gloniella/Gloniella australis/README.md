@@ -1,5 +1,4 @@
-Gloniella australis Speg. SPECIES
-=======
+# Gloniella australis Speg. SPECIES
 
 #### Status
 ACCEPTED

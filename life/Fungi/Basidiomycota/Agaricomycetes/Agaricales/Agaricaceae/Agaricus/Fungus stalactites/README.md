@@ -1,5 +1,4 @@
-Fungus stalactites Scop. SPECIES
-=======
+# Fungus stalactites Scop. SPECIES
 
 #### Status
 ACCEPTED

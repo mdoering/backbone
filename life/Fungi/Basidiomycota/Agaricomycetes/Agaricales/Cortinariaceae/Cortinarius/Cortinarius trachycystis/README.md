@@ -1,5 +1,4 @@
-Cortinarius trachycystis M.M. Moser SPECIES
-=======
+# Cortinarius trachycystis M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

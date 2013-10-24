@@ -1,5 +1,4 @@
-Lateriamulosa Matsushima, 1971 GENUS
-=======
+# Lateriamulosa Matsushima, 1971 GENUS
 
 #### Status
 ACCEPTED

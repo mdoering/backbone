@@ -1,5 +1,4 @@
-Meliola philodendri F. Stevens SPECIES
-=======
+# Meliola philodendri F. Stevens SPECIES
 
 #### Status
 ACCEPTED

@@ -1,11 +1,10 @@
-Histioneis mitchelliana Schröder, 1906 SPECIES
-=======
+# Histioneis mitchellana Murray & Whitting, 1899 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+Integrated Taxonomic Information System
 
 #### Published in
 null

@@ -1,17 +1,16 @@
-Anisolpidium ectocarpii Karling SPECIES
-=======
+# Anisolpidium ectocarpi Karling, 1943 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Am. J. Bot. 30: (1943)
 
 #### Original name
-Anisolpidium ectocarpii Karling
+Anisolpidium ectocarpi Karling, 1943
 
 ### Remarks
 null

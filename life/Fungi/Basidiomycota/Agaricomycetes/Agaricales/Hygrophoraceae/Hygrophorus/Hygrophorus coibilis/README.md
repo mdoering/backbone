@@ -1,5 +1,4 @@
-Hygrophorus coibilis Britzelm. SPECIES
-=======
+# Hygrophorus coibilis Britzelm. SPECIES
 
 #### Status
 ACCEPTED

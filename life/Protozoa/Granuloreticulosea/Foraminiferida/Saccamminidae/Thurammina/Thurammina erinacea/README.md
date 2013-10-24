@@ -1,5 +1,4 @@
-Thurammina erinacea Goes, 1896 SPECIES
-=======
+# Thurammina erinacea Goes, 1896 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Kolpoda cucullulus Müller, 1786 SPECIES
-=======
+# Trithigmostoma cucullulus (Müller, 1786) Jankowski, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

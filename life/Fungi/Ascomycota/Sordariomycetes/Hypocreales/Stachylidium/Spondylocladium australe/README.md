@@ -1,5 +1,4 @@
-Spondylocladium australe J.C. Gilman & E.V. Abbott, 1927 SPECIES
-=======
+# Spondylocladium australe J.C. Gilman & E.V. Abbott, 1927 SPECIES
 
 #### Status
 ACCEPTED

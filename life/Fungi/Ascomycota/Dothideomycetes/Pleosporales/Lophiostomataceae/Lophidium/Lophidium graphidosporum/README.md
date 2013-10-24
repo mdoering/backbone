@@ -1,5 +1,4 @@
-Lophidium graphidosporum (Anzi) Sacc. SPECIES
-=======
+# Lophidium graphidosporum (Anzi) Sacc. SPECIES
 
 #### Status
 ACCEPTED

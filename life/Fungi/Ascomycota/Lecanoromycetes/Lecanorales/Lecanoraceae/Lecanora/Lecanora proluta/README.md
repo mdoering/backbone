@@ -1,5 +1,4 @@
-Lecanora proluta (Hue) Zahlbr. SPECIES
-=======
+# Lecanora proluta (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

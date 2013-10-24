@@ -1,5 +1,4 @@
-Fusulinella Möller, 1877 GENUS
-=======
+# Fusulinella Möller, 1877 GENUS
 
 #### Status
 ACCEPTED

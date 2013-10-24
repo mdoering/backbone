@@ -1,5 +1,4 @@
-Naevala B. Hein, 1976 GENUS
-=======
+# Naevala B. Hein, 1976 GENUS
 
 #### Status
 ACCEPTED

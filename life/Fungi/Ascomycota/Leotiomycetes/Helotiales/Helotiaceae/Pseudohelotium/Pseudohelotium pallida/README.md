@@ -1,5 +1,4 @@
-Pseudohelotium pallida Schumach. SPECIES
-=======
+# Pseudohelotium pallida Schumach. SPECIES
 
 #### Status
 ACCEPTED

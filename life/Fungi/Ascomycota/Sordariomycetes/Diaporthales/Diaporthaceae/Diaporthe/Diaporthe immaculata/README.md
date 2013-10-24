@@ -1,5 +1,4 @@
-Diaporthe immaculata Rehm SPECIES
-=======
+# Diaporthe immaculata Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium tumbayense J.C. Lindq. SPECIES
-=======
+# Aecidium tumbayense J.C. Lindq. SPECIES
 
 #### Status
 ACCEPTED

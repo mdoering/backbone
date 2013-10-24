@@ -1,5 +1,4 @@
-Mellitiosporiella pulchella Höhn., 1919 SPECIES
-=======
+# Mellitiosporiella pulchella Höhn., 1919 SPECIES
 
 #### Status
 ACCEPTED

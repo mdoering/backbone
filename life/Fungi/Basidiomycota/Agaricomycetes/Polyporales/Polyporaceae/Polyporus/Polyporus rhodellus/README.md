@@ -1,5 +1,4 @@
-Polyporus rhodellus Fr. SPECIES
-=======
+# Polyporus rhodellus Fr. SPECIES
 
 #### Status
 ACCEPTED

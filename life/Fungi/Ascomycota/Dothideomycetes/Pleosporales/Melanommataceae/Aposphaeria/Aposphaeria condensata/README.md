@@ -1,5 +1,4 @@
-Aposphaeria condensata Ellis & Everh. SPECIES
-=======
+# Aposphaeria condensata Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

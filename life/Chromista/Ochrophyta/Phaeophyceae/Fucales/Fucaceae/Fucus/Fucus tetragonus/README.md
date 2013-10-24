@@ -1,5 +1,4 @@
-Fucus tetragonus Goodenough & Woodward SPECIES
-=======
+# Fucus tetragonus Goodenough & Woodward SPECIES
 
 #### Status
 ACCEPTED

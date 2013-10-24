@@ -1,5 +1,4 @@
-Septoria mariae-wilsonii Clinton SPECIES
-=======
+# Septoria mariae-wilsonii Clinton SPECIES
 
 #### Status
 ACCEPTED

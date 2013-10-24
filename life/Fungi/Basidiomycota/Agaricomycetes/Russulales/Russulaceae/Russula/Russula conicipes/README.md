@@ -1,5 +1,4 @@
-Russula conicipes Carteret & Reumaux SPECIES
-=======
+# Russula conicipes Carteret & Reumaux SPECIES
 
 #### Status
 ACCEPTED

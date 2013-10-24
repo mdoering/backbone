@@ -1,5 +1,4 @@
-Terana crinita (Fr.) Kuntze SPECIES
-=======
+# Terana crinita (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

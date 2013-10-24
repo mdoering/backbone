@@ -1,5 +1,4 @@
-Stromatinia juglandis (Preuss) Boud. SPECIES
-=======
+# Stromatinia juglandis (Preuss) Boud. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia pseudophaeospora Speg. SPECIES
-=======
+# Puccinia pseudophaeospora Speg. SPECIES
 
 #### Status
 ACCEPTED

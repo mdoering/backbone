@@ -1,5 +1,4 @@
-Eumitria endorhodina Vain. SPECIES
-=======
+# Eumitria endorhodina Vain. SPECIES
 
 #### Status
 ACCEPTED

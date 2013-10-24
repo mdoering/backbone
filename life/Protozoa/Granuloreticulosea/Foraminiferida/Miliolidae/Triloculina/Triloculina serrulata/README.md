@@ -1,5 +1,4 @@
-Triloculina serrulata McCulloch, 1977 SPECIES
-=======
+# Triloculina serrulata McCulloch, 1977 SPECIES
 
 #### Status
 ACCEPTED

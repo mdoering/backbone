@@ -1,14 +1,13 @@
-Strigula albolinitum (Nyl.) R.C. Harris SPECIES
-=======
+# Strigula albolinita (Nyl.) R.C. Harris SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+More Florida Lichens (New York), Incl. 10 Cent Tour Pyrenol. 155 (1995)
 
 #### Original name
 Verrucaria albolinita Nyl.

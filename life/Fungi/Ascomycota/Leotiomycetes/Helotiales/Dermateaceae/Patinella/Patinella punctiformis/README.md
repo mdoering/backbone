@@ -1,5 +1,4 @@
-Patinella punctiformis f. punctiformis FORM
-=======
+# Patinella punctiformis Rehm SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Patinella punctiformis f. punctiformis
+Patinella punctiformis Rehm
 
 ### Remarks
 null

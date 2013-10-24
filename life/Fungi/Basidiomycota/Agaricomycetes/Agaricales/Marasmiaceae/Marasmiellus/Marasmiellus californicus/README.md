@@ -1,5 +1,4 @@
-Marasmiellus californicus Singer SPECIES
-=======
+# Marasmiellus californicus Singer SPECIES
 
 #### Status
 ACCEPTED

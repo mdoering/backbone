@@ -1,5 +1,4 @@
-Sirodothis inversa (Fr.) B. Sutton & A. Funk SPECIES
-=======
+# Sirodothis inversa (Fr.) B. Sutton & A. Funk SPECIES
 
 #### Status
 ACCEPTED

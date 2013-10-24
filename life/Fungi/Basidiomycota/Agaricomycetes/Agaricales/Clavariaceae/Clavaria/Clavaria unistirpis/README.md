@@ -1,5 +1,4 @@
-Clavaria unistirpis Britzelm. SPECIES
-=======
+# Clavaria unistirpis Britzelm. SPECIES
 
 #### Status
 ACCEPTED

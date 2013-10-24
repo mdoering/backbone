@@ -1,5 +1,4 @@
-Coniothyrium pulsatillarum Petr. SPECIES
-=======
+# Coniothyrium pulsatillarum Petr. SPECIES
 
 #### Status
 ACCEPTED

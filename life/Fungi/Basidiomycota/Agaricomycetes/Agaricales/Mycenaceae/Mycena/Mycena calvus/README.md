@@ -1,5 +1,4 @@
-Mycena calvus (L.) Rea SPECIES
-=======
+# Mycena calvus (L.) Rea SPECIES
 
 #### Status
 ACCEPTED

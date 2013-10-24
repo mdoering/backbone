@@ -1,17 +1,16 @@
-Passalora caespitose (Petr. & Cif.) Poonam Srivast. SPECIES
-=======
+# Passalora caespitosa (Ellis & Everh.) U. Braun SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Cryptog. Mycol. 20(3): 165 (1999)
 
 #### Original name
-Isariopsis caespitosa Petr. & Cif.
+Cercospora caespitosa Ellis & Everh.
 
 ### Remarks
 null

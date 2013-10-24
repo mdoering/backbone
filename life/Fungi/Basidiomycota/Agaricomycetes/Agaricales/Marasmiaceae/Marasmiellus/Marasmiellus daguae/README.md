@@ -1,5 +1,4 @@
-Marasmiellus daguae Singer SPECIES
-=======
+# Marasmiellus daguae Singer SPECIES
 
 #### Status
 ACCEPTED

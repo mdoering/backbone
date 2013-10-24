@@ -1,5 +1,4 @@
-Placodium ciliatum SPECIES
-=======
+# Placodium ciliatum SPECIES
 
 #### Status
 ACCEPTED

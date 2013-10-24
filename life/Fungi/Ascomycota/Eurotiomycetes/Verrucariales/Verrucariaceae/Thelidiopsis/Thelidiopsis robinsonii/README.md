@@ -1,5 +1,4 @@
-Thelidiopsis robinsonii Vain. SPECIES
-=======
+# Thelidiopsis robinsonii Vain. SPECIES
 
 #### Status
 ACCEPTED

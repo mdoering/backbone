@@ -1,5 +1,4 @@
-Coleps octospinus Nol. SPECIES
-=======
+# Coleps octospinus Nol. SPECIES
 
 #### Status
 ACCEPTED

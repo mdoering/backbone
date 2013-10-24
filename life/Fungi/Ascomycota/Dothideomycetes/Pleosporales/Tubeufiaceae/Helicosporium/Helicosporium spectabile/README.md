@@ -1,5 +1,4 @@
-Helicosporium spectabile Fautrey & Lambotte SPECIES
-=======
+# Helicosporium spectabile Fautrey & Lambotte SPECIES
 
 #### Status
 ACCEPTED

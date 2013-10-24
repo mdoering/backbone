@@ -1,5 +1,4 @@
-Verrucaria rufofuscella Servít SPECIES
-=======
+# Verrucaria rufofuscella Servít SPECIES
 
 #### Status
 ACCEPTED

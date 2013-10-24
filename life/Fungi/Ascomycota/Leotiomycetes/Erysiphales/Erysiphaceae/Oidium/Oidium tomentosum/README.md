@@ -1,5 +1,4 @@
-Oidium tomentosum (Berk. & M.A. Curtis) Linder SPECIES
-=======
+# Oidium tomentosum (Berk. & M.A. Curtis) Linder SPECIES
 
 #### Status
 ACCEPTED

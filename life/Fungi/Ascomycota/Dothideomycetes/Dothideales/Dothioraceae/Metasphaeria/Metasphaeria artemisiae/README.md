@@ -1,5 +1,4 @@
-Metasphaeria artemisiae Pat. SPECIES
-=======
+# Metasphaeria artemisiae Pat. SPECIES
 
 #### Status
 ACCEPTED

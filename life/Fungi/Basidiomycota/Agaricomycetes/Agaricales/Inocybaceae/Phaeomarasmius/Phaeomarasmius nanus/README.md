@@ -1,5 +1,4 @@
-Phaeomarasmius nanus E. Horak SPECIES
-=======
+# Phaeomarasmius nanus E. Horak SPECIES
 
 #### Status
 ACCEPTED

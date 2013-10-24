@@ -1,5 +1,4 @@
-Vavraia lutzomyiae E. Matos, I. Mendonça & C. Azevedo SPECIES
-=======
+# Vavraia lutzomyiae E. Matos, I. Mendonça & C. Azevedo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Discella ulmi Oudem. SPECIES
-=======
+# Discella ulmi Oudem. SPECIES
 
 #### Status
 ACCEPTED

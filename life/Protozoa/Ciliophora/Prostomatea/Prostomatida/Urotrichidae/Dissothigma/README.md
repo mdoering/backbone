@@ -1,5 +1,4 @@
-Dissothigma Jankowski, 1976 GENUS
-=======
+# Dissothigma Jankowski, 1976 GENUS
 
 #### Status
 ACCEPTED

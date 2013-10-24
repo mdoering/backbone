@@ -1,5 +1,4 @@
-Mollisia myricariae Bres., 1882 SPECIES
-=======
+# Mollisia myricariae Bres., 1882 SPECIES
 
 #### Status
 ACCEPTED

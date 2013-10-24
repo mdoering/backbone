@@ -1,5 +1,4 @@
-Inocybe monochroa J. Favre SPECIES
-=======
+# Inocybe monochroa J. Favre SPECIES
 
 #### Status
 ACCEPTED

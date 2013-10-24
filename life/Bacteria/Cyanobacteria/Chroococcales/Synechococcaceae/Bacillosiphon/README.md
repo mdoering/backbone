@@ -1,5 +1,4 @@
-Bacillosiphon Copeland, 1936 GENUS
-=======
+# Bacillosiphon Copeland, 1936 GENUS
 
 #### Status
 SYNONYM

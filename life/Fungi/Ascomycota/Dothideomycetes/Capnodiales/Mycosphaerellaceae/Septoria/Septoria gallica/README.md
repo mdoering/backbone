@@ -1,5 +1,4 @@
-Septoria gallica Sacc. & P. Syd. SPECIES
-=======
+# Septoria gallica Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

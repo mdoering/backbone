@@ -1,5 +1,4 @@
-Parvacoccum pini R.S. Hunt & A. Funk, 1988 SPECIES
-=======
+# Parvacoccum pini R.S. Hunt & A. Funk, 1988 SPECIES
 
 #### Status
 ACCEPTED

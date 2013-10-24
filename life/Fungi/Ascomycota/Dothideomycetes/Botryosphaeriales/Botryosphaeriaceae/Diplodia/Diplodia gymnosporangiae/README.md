@@ -1,5 +1,4 @@
-Diplodia gymnosporangiae S. Ahmad SPECIES
-=======
+# Diplodia gymnosporangiae S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

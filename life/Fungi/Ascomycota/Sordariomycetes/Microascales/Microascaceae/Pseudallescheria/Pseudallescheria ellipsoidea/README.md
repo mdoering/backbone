@@ -1,14 +1,13 @@
-Pseudallescheria ellipsoideum (Arx & Fassat.) McGinnis, A.A. Padhye & Ajello SPECIES
-=======
+# Pseudallescheria ellipsoidea (Arx & Fassat.) McGinnis, A.A. Padhye & Ajello, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 14(1): 98 (1982)
 
 #### Original name
 Petriellidium ellipsoideum Arx & Fassat., 1973

@@ -1,5 +1,4 @@
-Paradiscula Petr. GENUS
-=======
+# Paradiscula Petr. GENUS
 
 #### Status
 ACCEPTED

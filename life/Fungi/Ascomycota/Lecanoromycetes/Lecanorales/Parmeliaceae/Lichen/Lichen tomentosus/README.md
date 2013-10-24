@@ -1,5 +1,4 @@
-Lichen tomentosus Sw. SPECIES
-=======
+# Lichen tomentosus Sw. SPECIES
 
 #### Status
 ACCEPTED

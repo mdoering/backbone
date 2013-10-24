@@ -1,5 +1,4 @@
-Cordobesia E.D. Pöthe de Baldis, 1977 GENUS
-=======
+# Cordobesia E.D. Pöthe de Baldis, 1977 GENUS
 
 #### Status
 ACCEPTED

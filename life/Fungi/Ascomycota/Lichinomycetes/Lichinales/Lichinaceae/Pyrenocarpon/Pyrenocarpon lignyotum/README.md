@@ -1,5 +1,4 @@
-Pyrenocarpon lignyotum (Wahlenb.) Trevis. SPECIES
-=======
+# Pyrenocarpon lignyotum (Wahlenb.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

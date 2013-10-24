@@ -1,5 +1,4 @@
-Mollisia atriella Cooke SPECIES
-=======
+# Mollisia atriella Cooke SPECIES
 
 #### Status
 ACCEPTED

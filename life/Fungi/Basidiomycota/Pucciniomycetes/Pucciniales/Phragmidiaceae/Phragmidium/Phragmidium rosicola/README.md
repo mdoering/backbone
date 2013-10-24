@@ -1,5 +1,4 @@
-Phragmidium rosicola (Ellis & Everh.) Arthur SPECIES
-=======
+# Phragmidium rosicola (Ellis & Everh.) Arthur SPECIES
 
 #### Status
 ACCEPTED

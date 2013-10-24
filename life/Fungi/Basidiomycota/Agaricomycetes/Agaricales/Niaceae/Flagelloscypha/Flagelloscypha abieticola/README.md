@@ -1,14 +1,13 @@
-Cyphella abieticola P. Karst., 1870 SPECIES
-=======
+# Flagelloscypha abieticola (Kuntze) W.B. Cooke, 1961 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fungi Fenniae Exsiccati, Fasc. no. 718 (1868)
+Beih. Sydowia 4: 59 (1961)
 
 #### Original name
 Cyphella abieticola P. Karst., 1870

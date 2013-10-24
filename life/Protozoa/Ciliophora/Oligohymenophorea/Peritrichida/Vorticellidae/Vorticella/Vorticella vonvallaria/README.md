@@ -1,5 +1,4 @@
-Vorticella vonvallaria SPECIES
-=======
+# Vorticella vonvallaria SPECIES
 
 #### Status
 ACCEPTED

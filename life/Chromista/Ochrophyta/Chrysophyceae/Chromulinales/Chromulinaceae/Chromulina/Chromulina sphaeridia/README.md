@@ -1,5 +1,4 @@
-Chromulina sphaeridia Schiller SPECIES
-=======
+# Chromulina sphaeridia Schiller SPECIES
 
 #### Status
 ACCEPTED

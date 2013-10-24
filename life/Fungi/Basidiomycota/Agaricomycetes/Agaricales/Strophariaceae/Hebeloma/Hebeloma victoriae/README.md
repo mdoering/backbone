@@ -1,5 +1,4 @@
-Hebeloma victoriae (Cooke & Massee) Pegler SPECIES
-=======
+# Hebeloma victoriae (Cooke & Massee) Pegler SPECIES
 
 #### Status
 ACCEPTED

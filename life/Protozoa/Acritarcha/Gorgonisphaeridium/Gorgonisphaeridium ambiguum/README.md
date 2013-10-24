@@ -1,5 +1,4 @@
-Gorgonisphaeridium ambiguum (Deflandre, 1937) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Gorgonisphaeridium ambiguum (Deflandre, 1937) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

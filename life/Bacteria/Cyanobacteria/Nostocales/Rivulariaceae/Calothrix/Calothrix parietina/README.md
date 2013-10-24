@@ -1,8 +1,7 @@
-Schizosiphon parietinus Nägeli SPECIES
-=======
+# Calothrix parietina (Nägeli) Thuret SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

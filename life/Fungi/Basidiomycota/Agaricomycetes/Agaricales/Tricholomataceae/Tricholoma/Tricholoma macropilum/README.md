@@ -1,5 +1,4 @@
-Tricholoma macropilum Mont. SPECIES
-=======
+# Tricholoma macropilum Mont. SPECIES
 
 #### Status
 ACCEPTED

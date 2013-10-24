@@ -1,5 +1,4 @@
-Ceuthospora Greville, 1826 GENUS
-=======
+# Ceuthospora Greville, 1826 GENUS
 
 #### Status
 ACCEPTED

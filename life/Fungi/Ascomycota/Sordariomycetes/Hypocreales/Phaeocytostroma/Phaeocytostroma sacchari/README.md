@@ -1,17 +1,16 @@
-Phaeocytostroma sacchari var. penniseti B. Sutton VARIETY
-=======
+# Phaeocytostroma sacchari (Ellis & Everh.) B. Sutton, 1964 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 97: 28 (1964)
+Mycol. Pap. 97: 26 (1964)
 
 #### Original name
-Phaeocytostroma sacchari var. penniseti B. Sutton
+Trullula sacchari Ellis & Everh., 1892
 
 ### Remarks
 null

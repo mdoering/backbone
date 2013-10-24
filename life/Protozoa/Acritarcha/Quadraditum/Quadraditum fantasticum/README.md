@@ -1,5 +1,4 @@
-Quadraditum fantasticum Cramer, 1964 SPECIES
-=======
+# Quadraditum fantasticum Cramer, 1964 SPECIES
 
 #### Status
 ACCEPTED

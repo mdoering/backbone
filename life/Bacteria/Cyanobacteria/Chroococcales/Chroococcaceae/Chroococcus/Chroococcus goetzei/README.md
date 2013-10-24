@@ -1,5 +1,4 @@
-Chroococcus goetzei Schmidle SPECIES
-=======
+# Chroococcus goetzei Schmidle SPECIES
 
 #### Status
 ACCEPTED

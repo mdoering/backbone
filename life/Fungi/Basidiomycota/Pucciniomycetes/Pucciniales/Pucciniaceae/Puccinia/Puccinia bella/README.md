@@ -1,5 +1,4 @@
-Puccinia bella J.F. Hennen & Cummins SPECIES
-=======
+# Puccinia bella J.F. Hennen & Cummins SPECIES
 
 #### Status
 ACCEPTED

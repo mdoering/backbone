@@ -1,17 +1,16 @@
-Metasphaeria macrospora (Thüm.) Sacc., 1883 SPECIES
-=======
+# Leptosphaeria macrospora Thüm., 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 2: 158 (1883)
+Hedwigia 21: 83 (1882)
 
 #### Original name
-Leptosphaeria macrospora Thüm., 1882
+Pleospora macrospora (De Not.) Ces. & De Not., 1863
 
 ### Remarks
 null

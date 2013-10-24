@@ -1,5 +1,4 @@
-Phthora d'Hérelle, 1909 GENUS
-=======
+# Phthora d'Hérelle, 1909 GENUS
 
 #### Status
 ACCEPTED

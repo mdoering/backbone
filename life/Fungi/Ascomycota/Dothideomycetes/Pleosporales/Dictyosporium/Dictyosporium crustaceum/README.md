@@ -1,5 +1,4 @@
-Dictyosporium crustaceum (P. Karst.) S. Hughes SPECIES
-=======
+# Dictyosporium crustaceum (P. Karst.) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

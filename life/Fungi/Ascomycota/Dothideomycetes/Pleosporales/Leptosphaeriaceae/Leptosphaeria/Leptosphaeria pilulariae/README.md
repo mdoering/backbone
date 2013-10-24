@@ -1,5 +1,4 @@
-Leptosphaeria pilulariae Ade SPECIES
-=======
+# Leptosphaeria pilulariae Ade SPECIES
 
 #### Status
 ACCEPTED

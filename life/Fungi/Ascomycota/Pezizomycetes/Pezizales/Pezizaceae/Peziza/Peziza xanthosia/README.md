@@ -1,5 +1,4 @@
-Peziza xanthosia Pers. SPECIES
-=======
+# Peziza xanthosia Pers. SPECIES
 
 #### Status
 ACCEPTED

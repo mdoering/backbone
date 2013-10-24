@@ -1,5 +1,4 @@
-Nodularia skujae P. González SPECIES
-=======
+# Nodularia skujae P. González SPECIES
 
 #### Status
 ACCEPTED

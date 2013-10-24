@@ -1,5 +1,4 @@
-Asterina macarangae Hansf. SPECIES
-=======
+# Asterina macarangae Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placodium bolacinum Tuck. SPECIES
-=======
+# Placodium bolacinum Tuck. SPECIES
 
 #### Status
 ACCEPTED

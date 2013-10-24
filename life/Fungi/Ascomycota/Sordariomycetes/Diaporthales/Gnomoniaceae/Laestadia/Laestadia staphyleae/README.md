@@ -1,5 +1,4 @@
-Laestadia staphyleae Hazsl. SPECIES
-=======
+# Laestadia staphyleae Hazsl. SPECIES
 
 #### Status
 ACCEPTED

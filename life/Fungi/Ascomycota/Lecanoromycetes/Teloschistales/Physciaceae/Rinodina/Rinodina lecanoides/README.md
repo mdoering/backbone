@@ -1,5 +1,4 @@
-Rinodina lecanoides B. de Lesd. SPECIES
-=======
+# Rinodina lecanoides B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

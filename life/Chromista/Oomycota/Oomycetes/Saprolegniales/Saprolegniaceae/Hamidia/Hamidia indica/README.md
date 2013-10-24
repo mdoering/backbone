@@ -1,5 +1,4 @@
-Hamidia indica Chaudhuri SPECIES
-=======
+# Hamidia indica Chaudhuri SPECIES
 
 #### Status
 ACCEPTED

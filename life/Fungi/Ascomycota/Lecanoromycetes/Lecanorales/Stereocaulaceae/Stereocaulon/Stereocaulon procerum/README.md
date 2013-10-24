@@ -1,5 +1,4 @@
-Stereocaulon procerum I.M. Lamb SPECIES
-=======
+# Stereocaulon procerum I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

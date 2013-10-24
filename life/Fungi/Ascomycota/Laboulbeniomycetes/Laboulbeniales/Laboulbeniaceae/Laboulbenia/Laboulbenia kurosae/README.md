@@ -1,5 +1,4 @@
-Laboulbenia kurosae K. Sugiy. & T. Majewski SPECIES
-=======
+# Laboulbenia kurosae K. Sugiy. & T. Majewski SPECIES
 
 #### Status
 ACCEPTED

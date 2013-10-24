@@ -1,5 +1,4 @@
-Notodendrodes hyalinosphaira De Laca, Bernhard, Reilly & Bowser, 2002 SPECIES
-=======
+# Notodendrodes hyalinosphaira De Laca, Bernhard, Reilly & Bowser, 2002 SPECIES
 
 #### Status
 ACCEPTED

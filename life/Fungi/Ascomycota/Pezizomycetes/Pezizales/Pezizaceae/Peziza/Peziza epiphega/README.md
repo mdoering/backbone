@@ -1,5 +1,4 @@
-Peziza epiphega Nyl. SPECIES
-=======
+# Peziza epiphega Nyl. SPECIES
 
 #### Status
 ACCEPTED

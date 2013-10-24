@@ -1,5 +1,4 @@
-Echidnodes denigrata Syd. SPECIES
-=======
+# Echidnodes denigrata Syd. SPECIES
 
 #### Status
 ACCEPTED

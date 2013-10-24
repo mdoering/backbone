@@ -1,5 +1,4 @@
-Mycena intersecta Har. Takah. SPECIES
-=======
+# Mycena intersecta Har. Takah. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Lachnea contorta Massee & Crossl., 1901 SPECIES
-=======
+# Melastiza contorta (Massee & Crossl.) Spooner & Y.J. Yao, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Naturalist, Hull 182 (1901)
+Mycotaxon 53: 469 (1995)
 
 #### Original name
 Lachnea contorta Massee & Crossl., 1901

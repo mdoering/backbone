@@ -1,5 +1,4 @@
-Naucoria pantelaeodes Singer SPECIES
-=======
+# Naucoria pantelaeodes Singer SPECIES
 
 #### Status
 ACCEPTED

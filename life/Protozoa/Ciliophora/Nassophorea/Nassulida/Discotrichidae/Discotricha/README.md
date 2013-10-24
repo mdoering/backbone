@@ -1,5 +1,4 @@
-Discotricha Tuffrau, 1954 GENUS
-=======
+# Discotricha Tuffrau, 1954 GENUS
 
 #### Status
 ACCEPTED

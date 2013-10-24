@@ -1,5 +1,4 @@
-Agaricus scobifer Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus scobifer Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peridinium venustum SPECIES
-=======
+# Peridinium venustum SPECIES
 
 #### Status
 ACCEPTED

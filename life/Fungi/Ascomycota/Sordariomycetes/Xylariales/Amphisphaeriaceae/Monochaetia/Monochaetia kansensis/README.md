@@ -1,5 +1,4 @@
-Monochaetia kansensis (Ellis & Barthol.) Sacc. SPECIES
-=======
+# Monochaetia kansensis (Ellis & Barthol.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

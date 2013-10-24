@@ -1,5 +1,4 @@
-Ephebeia tenella (Vain.) Räsänen SPECIES
-=======
+# Ephebeia tenella (Vain.) Räsänen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius argillaceoincarnatus Rob. Henry SPECIES
-=======
+# Cortinarius argillaceoincarnatus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

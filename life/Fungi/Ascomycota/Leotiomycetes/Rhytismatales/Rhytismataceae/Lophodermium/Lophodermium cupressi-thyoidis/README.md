@@ -1,5 +1,4 @@
-Lophodermium cupressi-thyoidis Sacc. SPECIES
-=======
+# Lophodermium cupressi-thyoidis Sacc. SPECIES
 
 #### Status
 ACCEPTED

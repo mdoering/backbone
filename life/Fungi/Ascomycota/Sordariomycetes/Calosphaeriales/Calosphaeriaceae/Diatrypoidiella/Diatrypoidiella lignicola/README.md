@@ -1,5 +1,4 @@
-Diatrypoidiella lignicola Manohar., Kunwar & D.K. Agarwal SPECIES
-=======
+# Diatrypoidiella lignicola Manohar., Kunwar & D.K. Agarwal SPECIES
 
 #### Status
 ACCEPTED

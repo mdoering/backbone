@@ -1,5 +1,4 @@
-Oscillatoria earlei Gardner SPECIES
-=======
+# Oscillatoria earlei Gardner SPECIES
 
 #### Status
 ACCEPTED

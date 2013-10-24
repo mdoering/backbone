@@ -1,5 +1,4 @@
-Trichopeziza velutina (St.-Amans) Sacc. & Trotter SPECIES
-=======
+# Trichopeziza velutina (St.-Amans) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

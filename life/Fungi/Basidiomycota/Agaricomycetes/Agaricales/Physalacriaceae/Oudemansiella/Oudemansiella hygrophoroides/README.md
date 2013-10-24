@@ -1,5 +1,4 @@
-Oudemansiella hygrophoroides Singer & Clémençon SPECIES
-=======
+# Oudemansiella hygrophoroides Singer & Clémençon SPECIES
 
 #### Status
 ACCEPTED

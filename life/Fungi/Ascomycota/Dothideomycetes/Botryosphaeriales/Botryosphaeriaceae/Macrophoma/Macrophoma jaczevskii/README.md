@@ -1,5 +1,4 @@
-Macrophoma jaczevskii Negru & Vlad SPECIES
-=======
+# Macrophoma jaczevskii Negru & Vlad SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aporomyces byrrhini R.K. Benj., 1989 SPECIES
-=======
+# Aporomyces byrrhini R.K. Benj., 1989 SPECIES
 
 #### Status
 ACCEPTED

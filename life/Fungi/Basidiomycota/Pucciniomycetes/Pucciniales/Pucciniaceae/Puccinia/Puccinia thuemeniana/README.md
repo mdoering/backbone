@@ -1,5 +1,4 @@
-Puccinia thuemeniana Vosseler SPECIES
-=======
+# Puccinia thuemeniana Vosseler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hendersonulina thalictri (Pat.) Tassi SPECIES
-=======
+# Hendersonulina thalictri (Pat.) Tassi SPECIES
 
 #### Status
 ACCEPTED

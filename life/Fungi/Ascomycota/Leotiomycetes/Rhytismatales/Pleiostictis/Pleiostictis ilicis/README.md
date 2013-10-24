@@ -1,5 +1,4 @@
-Pleiostictis ilicis Höhn. SPECIES
-=======
+# Pleiostictis ilicis Höhn. SPECIES
 
 #### Status
 ACCEPTED

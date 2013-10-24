@@ -1,5 +1,4 @@
-Pseudocercospora asteracearum R.K. Verma & Kamal SPECIES
-=======
+# Pseudocercospora asteracearum R.K. Verma & Kamal SPECIES
 
 #### Status
 ACCEPTED

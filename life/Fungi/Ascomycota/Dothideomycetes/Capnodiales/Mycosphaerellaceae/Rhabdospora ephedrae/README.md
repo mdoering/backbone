@@ -1,5 +1,4 @@
-Rhabdospora ephedrae Speg. SPECIES
-=======
+# Rhabdospora ephedrae Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phomopsis ulmicola (Richon) Petr. SPECIES
-=======
+# Phomopsis ulmicola (Richon) Petr. SPECIES
 
 #### Status
 ACCEPTED

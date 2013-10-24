@@ -1,5 +1,4 @@
-Sphaerella adoxae Fuckel SPECIES
-=======
+# Sphaerella adoxae Fuckel SPECIES
 
 #### Status
 ACCEPTED

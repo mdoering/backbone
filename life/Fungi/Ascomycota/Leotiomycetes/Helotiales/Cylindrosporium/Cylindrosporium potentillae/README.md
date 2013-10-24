@@ -1,5 +1,4 @@
-Cylindrosporium potentillae Ibrah. SPECIES
-=======
+# Cylindrosporium potentillae Ibrah. SPECIES
 
 #### Status
 ACCEPTED

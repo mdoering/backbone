@@ -1,5 +1,4 @@
-Lichen haematomma SPECIES
-=======
+# Lichen haematomma SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microglossum fumosum (Peck) E.J. Durand SPECIES
-=======
+# Microglossum fumosum (Peck) E.J. Durand SPECIES
 
 #### Status
 ACCEPTED

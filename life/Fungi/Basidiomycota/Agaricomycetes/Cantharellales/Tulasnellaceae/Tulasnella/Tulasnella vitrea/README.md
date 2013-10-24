@@ -1,5 +1,4 @@
-Tulasnella vitrea Rick, 1934 SPECIES
-=======
+# Tulasnella vitrea Rick, 1934 SPECIES
 
 #### Status
 ACCEPTED

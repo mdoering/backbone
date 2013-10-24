@@ -1,5 +1,4 @@
-Graphis anguina Nyl. SPECIES
-=======
+# Graphis anguina Nyl. SPECIES
 
 #### Status
 ACCEPTED

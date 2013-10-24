@@ -1,5 +1,4 @@
-Puccinia thalictri-koeteriae Gäum. SPECIES
-=======
+# Puccinia thalictri-koeteriae Gäum. SPECIES
 
 #### Status
 ACCEPTED

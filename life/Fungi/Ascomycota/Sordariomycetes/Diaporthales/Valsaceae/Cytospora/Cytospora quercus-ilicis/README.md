@@ -1,5 +1,4 @@
-Cytospora quercus-ilicis Pass. SPECIES
-=======
+# Cytospora quercus-ilicis Pass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Melanopus tunetanus Pat., 1902 SPECIES
-=======
+# Polyporus corylinus Mauri, 1832 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 18: 50 (1902)
+I Funghi d'Italia (Genova) (1834)
 
 #### Original name
-Melanopus tunetanus Pat., 1902
+Polyporus corylinus Mauri, 1832
 
 ### Remarks
 null

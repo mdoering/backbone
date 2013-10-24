@@ -1,5 +1,4 @@
-Irenopsis cryptocarpa (Ellis & G. Martin) Hansf. SPECIES
-=======
+# Irenopsis cryptocarpa (Ellis & G. Martin) Hansf. SPECIES
 
 #### Status
 ACCEPTED

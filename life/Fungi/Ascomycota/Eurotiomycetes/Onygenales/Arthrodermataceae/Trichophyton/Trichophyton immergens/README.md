@@ -1,5 +1,4 @@
-Trichophyton immergens Miloch., 1937 SPECIES
-=======
+# Trichophyton immergens Miloch., 1937 SPECIES
 
 #### Status
 ACCEPTED

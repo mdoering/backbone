@@ -1,5 +1,4 @@
-Meliola sideroxylicola J.A. Stev. SPECIES
-=======
+# Meliola sideroxylicola J.A. Stev. SPECIES
 
 #### Status
 ACCEPTED

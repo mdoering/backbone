@@ -1,5 +1,4 @@
-Opegrapha intertexta C. Knight SPECIES
-=======
+# Opegrapha intertexta C. Knight SPECIES
 
 #### Status
 ACCEPTED

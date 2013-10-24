@@ -1,14 +1,13 @@
-Lecidea raffii Stirt. SPECIES
-=======
+# Bacidia raffii (Stirt.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Trans. Glasgow Soc. Fld Nat. 4: 168 (1876)
+Cat. Lich. Univers. 4: 235 (1926)
 
 #### Original name
 Lecidea raffii Stirt.

@@ -1,5 +1,4 @@
-Ramalina dracena H. Magn. SPECIES
-=======
+# Ramalina dracena H. Magn. SPECIES
 
 #### Status
 ACCEPTED

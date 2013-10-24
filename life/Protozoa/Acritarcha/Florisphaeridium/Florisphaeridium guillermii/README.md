@@ -1,5 +1,4 @@
-Florisphaeridium guillermii (Cramer, 1964) Fensome et al., 1990 SPECIES
-=======
+# Florisphaeridium guillermii (Cramer, 1964) Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

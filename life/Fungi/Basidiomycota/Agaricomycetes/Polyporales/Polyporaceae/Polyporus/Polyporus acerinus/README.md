@@ -1,5 +1,4 @@
-Polyporus acerinus Opiz SPECIES
-=======
+# Polyporus acerinus Opiz SPECIES
 
 #### Status
 ACCEPTED

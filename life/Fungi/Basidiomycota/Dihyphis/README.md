@@ -1,5 +1,4 @@
-Dihyphis Locq. GENUS
-=======
+# Dihyphis Locq. GENUS
 
 #### Status
 ACCEPTED

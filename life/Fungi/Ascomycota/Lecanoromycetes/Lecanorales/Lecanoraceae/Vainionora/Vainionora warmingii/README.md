@@ -1,14 +1,13 @@
-Lecanora warmingii Müll. Arg. SPECIES
-=======
+# Vainionora warmingii (Müll. Arg.) Kalb SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Flora, Jena 63: 278 (1880)
+Lichenes Neotropici (Neumarkt), Fascicle <b>12</b> (nos 476-525) 3 (1991)
 
 #### Original name
 Lecanora warmingii Müll. Arg.

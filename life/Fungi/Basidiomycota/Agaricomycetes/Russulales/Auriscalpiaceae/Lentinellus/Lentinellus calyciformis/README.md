@@ -1,5 +1,4 @@
-Lentinellus calyciformis Singer, 1969 SPECIES
-=======
+# Lentinellus calyciformis Singer, 1969 SPECIES
 
 #### Status
 ACCEPTED

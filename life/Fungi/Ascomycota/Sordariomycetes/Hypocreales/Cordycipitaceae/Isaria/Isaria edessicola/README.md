@@ -1,5 +1,4 @@
-Isaria edessicola Speg. SPECIES
-=======
+# Isaria edessicola Speg. SPECIES
 
 #### Status
 ACCEPTED

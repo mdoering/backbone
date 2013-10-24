@@ -1,5 +1,4 @@
-Plectania coelopus (Mont.) Sacc. SPECIES
-=======
+# Plectania coelopus (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

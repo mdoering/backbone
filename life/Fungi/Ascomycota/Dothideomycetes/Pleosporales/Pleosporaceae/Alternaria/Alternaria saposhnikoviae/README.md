@@ -1,5 +1,4 @@
-Alternaria saposhnikoviae J.Z. Zhang & T.Y. Zhang SPECIES
-=======
+# Alternaria saposhnikoviae J.Z. Zhang & T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

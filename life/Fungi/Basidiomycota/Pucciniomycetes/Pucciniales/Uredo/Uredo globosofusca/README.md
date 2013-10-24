@@ -1,5 +1,4 @@
-Uredo globosofusca Bonord. SPECIES
-=======
+# Uredo globosofusca Bonord. SPECIES
 
 #### Status
 ACCEPTED

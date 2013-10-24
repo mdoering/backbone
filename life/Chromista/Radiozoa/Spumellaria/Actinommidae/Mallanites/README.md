@@ -1,5 +1,4 @@
-Mallanites O'Dogherty, 1994 GENUS
-=======
+# Mallanites O'Dogherty, 1994 GENUS
 
 #### Status
 ACCEPTED

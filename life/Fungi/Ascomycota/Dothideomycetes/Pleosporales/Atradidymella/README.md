@@ -1,5 +1,4 @@
-Atradidymella M.L. Davey & R.S. Currah, 2009 GENUS
-=======
+# Atradidymella M.L. Davey & R.S. Currah, 2009 GENUS
 
 #### Status
 ACCEPTED

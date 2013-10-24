@@ -1,5 +1,4 @@
-Russula subpurpurea Reumaux ex Reumaux SPECIES
-=======
+# Russula subpurpurea Reumaux ex Reumaux SPECIES
 
 #### Status
 ACCEPTED

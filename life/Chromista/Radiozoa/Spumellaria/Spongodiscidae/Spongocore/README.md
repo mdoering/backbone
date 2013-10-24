@@ -1,5 +1,4 @@
-Spongocore Haeckel, 1888 GENUS
-=======
+# Spongocore Haeckel, 1888 GENUS
 
 #### Status
 ACCEPTED

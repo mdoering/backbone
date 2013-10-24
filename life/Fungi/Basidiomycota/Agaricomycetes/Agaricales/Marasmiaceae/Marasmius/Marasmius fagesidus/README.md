@@ -1,5 +1,4 @@
-Marasmius fagesidus Velen. SPECIES
-=======
+# Marasmius fagesidus Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria tulasnei P. Crouan & H. Crouan SPECIES
-=======
+# Sphaeria tulasnei P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

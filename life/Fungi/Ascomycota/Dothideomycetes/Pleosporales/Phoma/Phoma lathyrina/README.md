@@ -1,5 +1,4 @@
-Phoma lathyrina Sacc. SPECIES
-=======
+# Phoma lathyrina Sacc. SPECIES
 
 #### Status
 ACCEPTED

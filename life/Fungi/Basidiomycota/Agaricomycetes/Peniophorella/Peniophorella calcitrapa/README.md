@@ -1,14 +1,13 @@
-Hyphoderma calcitrapa Malençon, 1982 SPECIES
-=======
+# Peniophorella calcitrapa (Malençon) K.H. Larss., 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 98(2): 242 (1982)
+Mycol. Res. 111(2): 191 (2007)
 
 #### Original name
 Hyphoderma calcitrapa Malençon, 1982

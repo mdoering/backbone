@@ -1,8 +1,7 @@
-Folliculina elegans Claparède & Lachmann, 1858 SPECIES
-=======
+# Halofolliculina elegans (Claparède & Lachmann, 1858) Ringuelet, 1953 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

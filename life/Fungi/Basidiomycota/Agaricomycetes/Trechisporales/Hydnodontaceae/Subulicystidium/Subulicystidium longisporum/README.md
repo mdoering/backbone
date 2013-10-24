@@ -1,17 +1,16 @@
-Peniophora longispora var. longispora VARIETY
-=======
+# Subulicystidium longisporum (Pat.) Parmasto, 1968 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 28(4): 392 (1913)
+Consp. System. Corticiac. (Tartu) 121 (1968)
 
 #### Original name
-Peniophora longispora var. longispora
+Hypochnus longisporus Pat., 1894
 
 ### Remarks
 null

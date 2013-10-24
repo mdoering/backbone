@@ -1,5 +1,4 @@
-Russula aucarum Singer SPECIES
-=======
+# Russula aucarum Singer SPECIES
 
 #### Status
 ACCEPTED

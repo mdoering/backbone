@@ -1,8 +1,7 @@
-Trichodesmium hildenbrandti SPECIES
-=======
+# Oscillatoria hildenbrandti SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Integrated Taxonomic Information System

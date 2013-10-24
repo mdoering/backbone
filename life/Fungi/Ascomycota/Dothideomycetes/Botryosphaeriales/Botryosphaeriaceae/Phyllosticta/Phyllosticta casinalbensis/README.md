@@ -1,5 +1,4 @@
-Phyllosticta casinalbensis D. Sacc. SPECIES
-=======
+# Phyllosticta casinalbensis D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

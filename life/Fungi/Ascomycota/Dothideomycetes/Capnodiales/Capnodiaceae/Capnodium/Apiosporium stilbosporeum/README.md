@@ -1,5 +1,4 @@
-Apiosporium stilbosporeum Fr. SPECIES
-=======
+# Apiosporium stilbosporeum Fr. SPECIES
 
 #### Status
 ACCEPTED

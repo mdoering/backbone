@@ -1,5 +1,4 @@
-Lecanora weii L.F. Han & S.Y. Guo SPECIES
-=======
+# Lecanora weii L.F. Han & S.Y. Guo SPECIES
 
 #### Status
 ACCEPTED

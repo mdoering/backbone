@@ -1,5 +1,4 @@
-Mycena brunneoumbonata (Dennis) Dennis SPECIES
-=======
+# Mycena brunneoumbonata (Dennis) Dennis SPECIES
 
 #### Status
 ACCEPTED

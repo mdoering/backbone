@@ -1,5 +1,4 @@
-Alloglobigerinoides Huang, 1986 GENUS
-=======
+# Alloglobigerinoides Huang, 1986 GENUS
 
 #### Status
 ACCEPTED

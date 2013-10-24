@@ -1,5 +1,4 @@
-Ganoderma tsunodae Yasuda SPECIES
-=======
+# Ganoderma tsunodae Yasuda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Physcia leucoleiptes var. leucoleiptes VARIETY
-=======
+# Physconia detersa (Nyl.) Poelt SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Physcia leucoleiptes var. leucoleiptes
+Parmelia pulverulenta var. detersa Nyl.
 
 ### Remarks
 null

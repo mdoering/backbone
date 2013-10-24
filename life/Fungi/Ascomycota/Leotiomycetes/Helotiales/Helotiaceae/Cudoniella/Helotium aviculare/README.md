@@ -1,5 +1,4 @@
-Helotium aviculare Velen. SPECIES
-=======
+# Helotium aviculare Velen. SPECIES
 
 #### Status
 ACCEPTED

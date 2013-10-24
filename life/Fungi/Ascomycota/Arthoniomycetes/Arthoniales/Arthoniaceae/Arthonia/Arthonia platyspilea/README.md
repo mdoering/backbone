@@ -1,5 +1,4 @@
-Arthonia platyspilea Nyl. SPECIES
-=======
+# Arthonia platyspilea Nyl. SPECIES
 
 #### Status
 ACCEPTED

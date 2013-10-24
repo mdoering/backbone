@@ -1,5 +1,4 @@
-Phoma ligustrina Thüm. SPECIES
-=======
+# Phoma ligustrina Thüm. SPECIES
 
 #### Status
 ACCEPTED

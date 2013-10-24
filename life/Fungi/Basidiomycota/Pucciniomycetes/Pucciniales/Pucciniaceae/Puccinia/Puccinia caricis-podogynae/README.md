@@ -1,5 +1,4 @@
-Puccinia caricis-podogynae Y. Harada SPECIES
-=======
+# Puccinia caricis-podogynae Y. Harada SPECIES
 
 #### Status
 ACCEPTED

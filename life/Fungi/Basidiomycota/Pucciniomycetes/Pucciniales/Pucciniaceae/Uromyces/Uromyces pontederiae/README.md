@@ -1,5 +1,4 @@
-Uromyces pontederiae Speg. SPECIES
-=======
+# Uromyces pontederiae Speg. SPECIES
 
 #### Status
 ACCEPTED

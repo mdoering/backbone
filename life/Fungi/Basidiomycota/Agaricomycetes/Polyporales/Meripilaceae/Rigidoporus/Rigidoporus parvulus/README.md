@@ -1,14 +1,13 @@
-Rigidoporus albostygius var. parvulus (Corner) Quanten, 1997 VARIETY
-=======
+# Rigidoporus parvulus Corner, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Op. bot. Belg. 11: 215 (1997)
+Beih. Nova Hedwigia 86: 178 (1987)
 
 #### Original name
 Rigidoporus parvulus Corner, 1987

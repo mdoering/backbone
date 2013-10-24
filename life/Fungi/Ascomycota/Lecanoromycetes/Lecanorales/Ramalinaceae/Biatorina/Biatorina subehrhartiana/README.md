@@ -1,5 +1,4 @@
-Biatorina subehrhartiana Eitner SPECIES
-=======
+# Biatorina subehrhartiana Eitner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Vorticella sepulcretis Foissner & Schiffmann, 1975 SPECIES
-=======
+# Vorticella sepulcreti Foissner & Schiffmann, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

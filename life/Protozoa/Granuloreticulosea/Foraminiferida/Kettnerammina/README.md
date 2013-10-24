@@ -1,5 +1,4 @@
-Kettnerammina Pokórny, 1953 GENUS
-=======
+# Kettnerammina Pokórny, 1953 GENUS
 
 #### Status
 ACCEPTED

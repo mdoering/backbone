@@ -1,5 +1,4 @@
-Irpex epiphyllus Schwein. SPECIES
-=======
+# Irpex epiphyllus Schwein. SPECIES
 
 #### Status
 ACCEPTED

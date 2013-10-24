@@ -1,5 +1,4 @@
-Aspergillus strychni Lind SPECIES
-=======
+# Aspergillus strychni Lind SPECIES
 
 #### Status
 ACCEPTED

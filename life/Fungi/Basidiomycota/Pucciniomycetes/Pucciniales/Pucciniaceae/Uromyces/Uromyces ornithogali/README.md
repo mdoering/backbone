@@ -1,5 +1,4 @@
-Uromyces ornithogali (Wallr.) Lév. SPECIES
-=======
+# Uromyces ornithogali (Wallr.) Lév. SPECIES
 
 #### Status
 ACCEPTED

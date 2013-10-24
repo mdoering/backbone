@@ -1,5 +1,4 @@
-Hysterostomella geralensis Rehm SPECIES
-=======
+# Hysterostomella geralensis Rehm SPECIES
 
 #### Status
 ACCEPTED

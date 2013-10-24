@@ -1,5 +1,4 @@
-Bolivina oceanica SPECIES
-=======
+# Bolivina oceanica SPECIES
 
 #### Status
 ACCEPTED

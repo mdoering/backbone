@@ -1,5 +1,4 @@
-Placocrea pulchella Syd., 1939 SPECIES
-=======
+# Placocrea pulchella Syd., 1939 SPECIES
 
 #### Status
 ACCEPTED

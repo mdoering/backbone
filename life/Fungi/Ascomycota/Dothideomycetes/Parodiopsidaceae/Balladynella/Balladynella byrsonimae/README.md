@@ -1,5 +1,4 @@
-Balladynella byrsonimae Hansf. SPECIES
-=======
+# Balladynella byrsonimae Hansf. SPECIES
 
 #### Status
 ACCEPTED

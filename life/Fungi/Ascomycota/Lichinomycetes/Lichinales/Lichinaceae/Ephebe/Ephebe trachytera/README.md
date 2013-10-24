@@ -1,5 +1,4 @@
-Ephebe trachytera (Nyl. ex Vain.) Henssen SPECIES
-=======
+# Ephebe trachytera (Nyl. ex Vain.) Henssen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophosphaeridium scabridum (Timofeev, 1966) Pyatiletov, 1978 SPECIES
-=======
+# Lophosphaeridium scabridum (Timofeev, 1966) Pyatiletov, 1978 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Bacillus parabrevis Takagi et al., 1993 SPECIES
-=======
+# Brevibacillus parabrevis (Takagi et al., 1993) Shida et al., 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

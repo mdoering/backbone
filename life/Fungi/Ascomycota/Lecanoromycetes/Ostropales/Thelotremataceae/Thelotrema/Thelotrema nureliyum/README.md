@@ -1,5 +1,4 @@
-Thelotrema nureliyum Hale SPECIES
-=======
+# Thelotrema nureliyum Hale SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria cotoneastri Nelen SPECIES
-=======
+# Septoria cotoneastri Nelen SPECIES
 
 #### Status
 ACCEPTED

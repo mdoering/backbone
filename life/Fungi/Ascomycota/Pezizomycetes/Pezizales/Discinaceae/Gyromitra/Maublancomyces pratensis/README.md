@@ -1,5 +1,4 @@
-Maublancomyces pratensis (Velen.) Herter SPECIES
-=======
+# Maublancomyces pratensis (Velen.) Herter SPECIES
 
 #### Status
 ACCEPTED

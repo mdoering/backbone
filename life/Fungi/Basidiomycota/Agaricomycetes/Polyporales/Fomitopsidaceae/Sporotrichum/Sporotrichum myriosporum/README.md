@@ -1,5 +1,4 @@
-Sporotrichum myriosporum P. Karst. SPECIES
-=======
+# Sporotrichum myriosporum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

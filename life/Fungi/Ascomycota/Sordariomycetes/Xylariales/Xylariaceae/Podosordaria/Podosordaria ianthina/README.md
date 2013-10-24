@@ -1,5 +1,4 @@
-Podosordaria ianthina J.C. Krug & Cain SPECIES
-=======
+# Podosordaria ianthina J.C. Krug & Cain SPECIES
 
 #### Status
 ACCEPTED

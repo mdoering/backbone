@@ -1,5 +1,4 @@
-Dothidea tubaraoensis Henn. SPECIES
-=======
+# Dothidea tubaraoensis Henn. SPECIES
 
 #### Status
 ACCEPTED

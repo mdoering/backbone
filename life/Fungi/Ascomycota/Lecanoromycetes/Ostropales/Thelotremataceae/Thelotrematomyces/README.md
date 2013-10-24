@@ -1,5 +1,4 @@
-Thelotrematomyces GENUS
-=======
+# Thelotrematomyces GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verticillium rosellum Berk. & Cooke SPECIES
-=======
+# Verticillium rosellum Berk. & Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nonomuraea turkmeniaca (Terekhova et al., 1987) Zhang et al., 1998 SPECIES
-=======
+# Nonomuraea turkmeniaca (Terekhova et al., 1987) Zhang et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paracondylostoma setigerum subsp. setigerum SUBSPECIES
-=======
+# Paracondylostoma setigerum Foissner, 1980 SPECIES
 
 #### Status
 ACCEPTED

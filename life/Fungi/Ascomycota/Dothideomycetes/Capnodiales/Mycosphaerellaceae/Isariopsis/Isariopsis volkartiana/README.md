@@ -1,5 +1,4 @@
-Isariopsis volkartiana (Magnus) F. Mangenot SPECIES
-=======
+# Isariopsis volkartiana (Magnus) F. Mangenot SPECIES
 
 #### Status
 ACCEPTED

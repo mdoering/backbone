@@ -1,5 +1,4 @@
-Passalora styracis (Chupp) U. Braun & Crous SPECIES
-=======
+# Passalora styracis (Chupp) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

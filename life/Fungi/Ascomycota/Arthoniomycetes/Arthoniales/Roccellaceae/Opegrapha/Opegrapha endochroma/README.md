@@ -1,5 +1,4 @@
-Opegrapha endochroma Fée SPECIES
-=======
+# Opegrapha endochroma Fée SPECIES
 
 #### Status
 ACCEPTED

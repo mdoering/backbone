@@ -1,5 +1,4 @@
-Enchelydium piliforme (Kahl, 1930) Foissner, 1984 SPECIES
-=======
+# Enchelydium piliforme (Kahl, 1930) Foissner, 1984 SPECIES
 
 #### Status
 ACCEPTED

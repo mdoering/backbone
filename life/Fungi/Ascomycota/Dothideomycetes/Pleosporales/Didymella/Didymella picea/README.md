@@ -1,5 +1,4 @@
-Didymella picea (Sollm.) Sacc. SPECIES
-=======
+# Didymella picea (Sollm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

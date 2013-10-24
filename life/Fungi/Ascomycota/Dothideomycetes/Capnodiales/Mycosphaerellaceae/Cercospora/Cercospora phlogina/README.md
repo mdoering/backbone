@@ -1,5 +1,4 @@
-Cercospora phlogina Peck SPECIES
-=======
+# Cercospora phlogina Peck SPECIES
 
 #### Status
 ACCEPTED

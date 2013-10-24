@@ -1,5 +1,4 @@
-Belonioscypha polygoni Velen. SPECIES
-=======
+# Belonioscypha polygoni Velen. SPECIES
 
 #### Status
 ACCEPTED

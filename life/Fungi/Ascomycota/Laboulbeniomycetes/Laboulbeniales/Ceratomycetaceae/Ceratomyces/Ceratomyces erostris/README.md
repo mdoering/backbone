@@ -1,5 +1,4 @@
-Ceratomyces erostris Speg. SPECIES
-=======
+# Ceratomyces erostris Speg. SPECIES
 
 #### Status
 ACCEPTED

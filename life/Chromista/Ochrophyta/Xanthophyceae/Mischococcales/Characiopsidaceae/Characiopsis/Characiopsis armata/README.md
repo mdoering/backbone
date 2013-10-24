@@ -1,5 +1,4 @@
-Characiopsis armata var. claricis H. Pizarro & G. Tell VARIETY
-=======
+# Characiopsis armata SPECIES
 
 #### Status
 ACCEPTED

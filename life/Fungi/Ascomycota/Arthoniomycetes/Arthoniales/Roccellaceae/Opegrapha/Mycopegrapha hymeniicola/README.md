@@ -1,5 +1,4 @@
-Mycopegrapha hymeniicola Vain. SPECIES
-=======
+# Mycopegrapha hymeniicola Vain. SPECIES
 
 #### Status
 ACCEPTED

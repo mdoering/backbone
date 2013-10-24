@@ -1,5 +1,4 @@
-Spilodium GENUS
-=======
+# Spilodium GENUS
 
 #### Status
 ACCEPTED

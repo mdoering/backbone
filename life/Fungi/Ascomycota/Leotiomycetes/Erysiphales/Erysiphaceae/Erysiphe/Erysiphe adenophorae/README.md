@@ -1,5 +1,4 @@
-Erysiphe adenophorae R.Y. Zheng & G.Q. Chen SPECIES
-=======
+# Erysiphe adenophorae R.Y. Zheng & G.Q. Chen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudodidymium cryptomastigophorum R.Michel, Walochnik & Aspöck, 2003 SPECIES
-=======
+# Pseudodidymium cryptomastigophorum R.Michel, Walochnik & Aspöck, 2003 SPECIES
 
 #### Status
 ACCEPTED

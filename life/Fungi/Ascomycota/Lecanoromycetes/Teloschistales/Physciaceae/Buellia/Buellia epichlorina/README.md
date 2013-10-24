@@ -1,5 +1,4 @@
-Buellia epichlorina Kalb SPECIES
-=======
+# Buellia epichlorina Kalb SPECIES
 
 #### Status
 ACCEPTED

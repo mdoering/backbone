@@ -1,5 +1,4 @@
-Didymosphaeria cornicola Naumov & Czerepan. SPECIES
-=======
+# Didymosphaeria cornicola Naumov & Czerepan. SPECIES
 
 #### Status
 ACCEPTED

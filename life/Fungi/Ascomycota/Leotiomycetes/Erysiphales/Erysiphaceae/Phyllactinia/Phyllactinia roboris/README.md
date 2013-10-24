@@ -1,5 +1,4 @@
-Phyllactinia roboris (Gachet) S. Blumer SPECIES
-=======
+# Phyllactinia roboris (Gachet) S. Blumer SPECIES
 
 #### Status
 ACCEPTED

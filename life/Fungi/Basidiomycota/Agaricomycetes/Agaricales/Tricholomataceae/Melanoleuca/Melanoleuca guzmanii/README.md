@@ -1,5 +1,4 @@
-Melanoleuca guzmanii Courtec. & J. Pfister SPECIES
-=======
+# Melanoleuca guzmanii Courtec. & J. Pfister SPECIES
 
 #### Status
 ACCEPTED

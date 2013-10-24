@@ -1,5 +1,4 @@
-Collybia delicata Thiers SPECIES
-=======
+# Collybia delicata Thiers SPECIES
 
 #### Status
 ACCEPTED

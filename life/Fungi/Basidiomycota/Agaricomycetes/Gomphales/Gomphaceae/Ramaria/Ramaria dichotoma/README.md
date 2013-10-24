@@ -1,5 +1,4 @@
-Ramaria dichotoma Velen. SPECIES
-=======
+# Ramaria dichotoma Velen. SPECIES
 
 #### Status
 ACCEPTED

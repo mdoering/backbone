@@ -1,5 +1,4 @@
-Belonidium uredo var. kriegeri Rehm VARIETY
-=======
+# Belonidium uredo Rehm SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Belonidium uredo var. kriegeri Rehm
+Belonidium uredo Rehm
 
 ### Remarks
 null

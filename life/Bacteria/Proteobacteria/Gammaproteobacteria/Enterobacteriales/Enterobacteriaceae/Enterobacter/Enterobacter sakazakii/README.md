@@ -1,5 +1,4 @@
-Enterobacter sakazakii Farmer et al., 1980 SPECIES
-=======
+# Enterobacter sakazakii Farmer et al., 1980 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenophora symphoricarpi (Tracy & Earle) SPECIES
-=======
+# Pyrenophora symphoricarpi (Tracy & Earle) SPECIES
 
 #### Status
 ACCEPTED

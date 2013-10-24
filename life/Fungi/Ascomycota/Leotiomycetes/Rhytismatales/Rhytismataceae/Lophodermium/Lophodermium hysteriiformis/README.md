@@ -1,8 +1,7 @@
-Lophodermium hysteriforme Desm. SPECIES
-=======
+# Lophodermium hysteriiformis Desm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lophodermium hysteriforme Desm.
+Lophodermium hysteriiformis Desm.
 
 ### Remarks
 null

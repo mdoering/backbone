@@ -1,5 +1,4 @@
-Pirsonia eucampiae Kühn, 1996 SPECIES
-=======
+# Pirsonia eucampiae Kühn, 1996 SPECIES
 
 #### Status
 ACCEPTED

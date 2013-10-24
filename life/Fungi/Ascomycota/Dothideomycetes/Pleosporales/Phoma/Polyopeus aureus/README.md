@@ -1,5 +1,4 @@
-Polyopeus aureus A.S. Horne SPECIES
-=======
+# Polyopeus aureus A.S. Horne SPECIES
 
 #### Status
 ACCEPTED

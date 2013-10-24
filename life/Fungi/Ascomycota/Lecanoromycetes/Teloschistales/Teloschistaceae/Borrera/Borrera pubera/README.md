@@ -1,5 +1,4 @@
-Borrera pubera var. pubera VARIETY
-=======
+# Borrera pubera Ach. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Borrera pubera var. pubera
+Borrera pubera Ach.
 
 ### Remarks
 null

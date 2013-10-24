@@ -1,17 +1,16 @@
-Paraparmelia maritima Elix SPECIES
-=======
+# Xanthoparmelia maritima (Elix) Elix SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 87: 400 (2003)
 
 #### Original name
-null
+Paraparmelia maritima Elix
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Aspergillus iizukae Sugiy., 1967 SPECIES
-=======
+# Aspergillus iizukae Sugiy., 1967 SPECIES
 
 #### Status
 ACCEPTED

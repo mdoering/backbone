@@ -1,14 +1,13 @@
-Sclerozythia nectrioidea Petr., 1955 SPECIES
-=======
+# Neozythia nectrioidea (Petr.) Petr., 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 9: (1955)
+Sydowia (1958)
 
 #### Original name
 Sclerozythia nectrioidea Petr., 1955

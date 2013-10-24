@@ -1,5 +1,4 @@
-Phyllosticta minutaspora R. Sprague SPECIES
-=======
+# Phyllosticta minutaspora R. Sprague SPECIES
 
 #### Status
 ACCEPTED

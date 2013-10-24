@@ -1,5 +1,4 @@
-Venturia laneae Dearn. SPECIES
-=======
+# Venturia laneae Dearn. SPECIES
 
 #### Status
 ACCEPTED

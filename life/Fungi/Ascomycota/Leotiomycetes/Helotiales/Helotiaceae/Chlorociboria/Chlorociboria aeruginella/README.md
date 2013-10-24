@@ -1,5 +1,4 @@
-Chlorociboria aeruginella (P. Karst.) Dennis ex C.S. Ramamurthi, Korf & L.R. Batra SPECIES
-=======
+# Chlorociboria aeruginella (P. Karst.) Dennis ex C.S. Ramamurthi, Korf & L.R. Batra SPECIES
 
 #### Status
 ACCEPTED

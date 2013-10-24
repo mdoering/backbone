@@ -1,5 +1,4 @@
-Acarospora initialis var. initialis VARIETY
-=======
+# Acarospora initialis H. Magn. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Monogr. Acarosp. 48 (1929)
 
 #### Original name
-Acarospora initialis var. initialis
+Acarospora initialis H. Magn.
 
 ### Remarks
 null

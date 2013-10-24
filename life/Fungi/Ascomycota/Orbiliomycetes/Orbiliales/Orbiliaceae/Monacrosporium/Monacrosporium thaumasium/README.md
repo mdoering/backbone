@@ -1,17 +1,16 @@
-Dactylaria thaumasia Drechsler, 1937 SPECIES
-=======
+# Monacrosporium thaumasium (Drechsler) de Hoog & Oorschot, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Stud. Mycol. 26: 120 (1985)
 
 #### Original name
-null
+Dactylaria thaumasium Drechsler
 
 ### Remarks
 null

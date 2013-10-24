@@ -1,5 +1,4 @@
-Buellia bahusiensis Degel. SPECIES
-=======
+# Buellia bahusiensis Degel. SPECIES
 
 #### Status
 ACCEPTED

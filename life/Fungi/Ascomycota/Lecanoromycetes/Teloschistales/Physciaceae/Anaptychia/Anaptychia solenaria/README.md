@@ -1,5 +1,4 @@
-Anaptychia solenaria (Duby) Savicz SPECIES
-=======
+# Anaptychia solenaria (Duby) Savicz SPECIES
 
 #### Status
 ACCEPTED

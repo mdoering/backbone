@@ -1,5 +1,4 @@
-Polyschema amoenum R.F. Castañeda, Iturr. & Minter SPECIES
-=======
+# Polyschema amoenum R.F. Castañeda, Iturr. & Minter SPECIES
 
 #### Status
 ACCEPTED

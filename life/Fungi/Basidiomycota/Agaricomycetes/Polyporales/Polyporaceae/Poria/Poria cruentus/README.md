@@ -1,5 +1,4 @@
-Poria cruentus Pers. SPECIES
-=======
+# Poria cruentus Pers. SPECIES
 
 #### Status
 ACCEPTED

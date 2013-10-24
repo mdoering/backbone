@@ -1,5 +1,4 @@
-Peziza washingtonensis Fr. SPECIES
-=======
+# Peziza washingtonensis Fr. SPECIES
 
 #### Status
 ACCEPTED

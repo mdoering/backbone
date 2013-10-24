@@ -1,5 +1,4 @@
-Cercospora medicaginicola Pavgi & U.P. Singh SPECIES
-=======
+# Cercospora medicaginicola Pavgi & U.P. Singh SPECIES
 
 #### Status
 ACCEPTED

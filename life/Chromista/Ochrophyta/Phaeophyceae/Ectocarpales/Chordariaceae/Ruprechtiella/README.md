@@ -1,5 +1,4 @@
-Ruprechtiella K. Yendo, 1913 GENUS
-=======
+# Ruprechtiella K. Yendo, 1913 GENUS
 
 #### Status
 ACCEPTED

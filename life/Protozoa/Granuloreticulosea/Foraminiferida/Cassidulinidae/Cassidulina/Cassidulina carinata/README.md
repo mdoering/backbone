@@ -1,5 +1,4 @@
-Cassidulina carinata Silvestri SPECIES
-=======
+# Cassidulina carinata Silvestri SPECIES
 
 #### Status
 ACCEPTED

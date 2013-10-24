@@ -1,5 +1,4 @@
-Diorchidium gerstneri (Doidge) A.R. Wood SPECIES
-=======
+# Diorchidium gerstneri (Doidge) A.R. Wood SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stainforthia dalliformis Hofker, 1956 SPECIES
-=======
+# Stainforthia dalliformis Hofker, 1956 SPECIES
 
 #### Status
 ACCEPTED

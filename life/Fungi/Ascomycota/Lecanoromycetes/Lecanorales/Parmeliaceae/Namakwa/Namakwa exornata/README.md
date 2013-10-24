@@ -1,14 +1,13 @@
-Parmelia exornata (Zahlbr.) Brusse SPECIES
-=======
+# Namakwa exornata (Zahlbr.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bothalia 15(1-2): 321 (1984)
+Mycotaxon 32(1): 169 (1988)
 
 #### Original name
 Parmelia conturbata var. exornata Zahlbr.

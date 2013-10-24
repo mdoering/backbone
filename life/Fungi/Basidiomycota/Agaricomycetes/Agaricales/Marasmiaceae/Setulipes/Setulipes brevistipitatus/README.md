@@ -1,5 +1,4 @@
-Setulipes brevistipitatus Antonín SPECIES
-=======
+# Setulipes brevistipitatus Antonín SPECIES
 
 #### Status
 ACCEPTED

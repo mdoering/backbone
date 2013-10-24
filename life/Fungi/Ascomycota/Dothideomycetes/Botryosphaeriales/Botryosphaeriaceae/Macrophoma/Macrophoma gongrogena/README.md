@@ -1,5 +1,4 @@
-Macrophoma gongrogena (Temme) Died. SPECIES
-=======
+# Macrophoma gongrogena (Temme) Died. SPECIES
 
 #### Status
 ACCEPTED

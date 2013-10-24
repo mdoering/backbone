@@ -1,5 +1,4 @@
-Phyllosticta sambucina Allesch. ex Mig. SPECIES
-=======
+# Phyllosticta sambucina Allesch. ex Mig. SPECIES
 
 #### Status
 ACCEPTED

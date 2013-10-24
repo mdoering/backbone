@@ -1,8 +1,7 @@
-Salpingoeca virgata Parke & Leadbeater, 1977 SPECIES
-=======
+# Bicosta minor (Reynolds, 1976) Leadbeater, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

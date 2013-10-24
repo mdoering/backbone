@@ -1,5 +1,4 @@
-Marinitoga piezophila Alain et al., 2002 SPECIES
-=======
+# Marinitoga piezophila Alain et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

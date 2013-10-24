@@ -1,5 +1,4 @@
-Torula brunnea Y.L. Jiang & T.Y. Zhang SPECIES
-=======
+# Torula brunnea Y.L. Jiang & T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

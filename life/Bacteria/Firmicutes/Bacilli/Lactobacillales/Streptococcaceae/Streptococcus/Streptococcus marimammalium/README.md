@@ -1,5 +1,4 @@
-Streptococcus marimammalium Lawson et al., 2005 SPECIES
-=======
+# Streptococcus marimammalium Lawson et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

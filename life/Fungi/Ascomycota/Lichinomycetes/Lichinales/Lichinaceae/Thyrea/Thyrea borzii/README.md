@@ -1,5 +1,4 @@
-Thyrea borzii Beltr. SPECIES
-=======
+# Thyrea borzii Beltr. SPECIES
 
 #### Status
 ACCEPTED

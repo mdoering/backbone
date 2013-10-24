@@ -1,5 +1,4 @@
-Telamonia flavida Velen. SPECIES
-=======
+# Telamonia flavida Velen. SPECIES
 
 #### Status
 ACCEPTED

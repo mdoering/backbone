@@ -1,17 +1,16 @@
-Pilacre weinmanni Fr. SPECIES
-=======
+# Pilacre weinmannii Fr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syst. mycol. (Lundae) 3(1): 204 (1829)
 
 #### Original name
-Pilacre weinmanni Fr.
+Pilacre weinmannii Fr.
 
 ### Remarks
 null

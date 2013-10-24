@@ -1,5 +1,4 @@
-Asterinella uleana (Pazschke) Theiss. SPECIES
-=======
+# Asterinella uleana (Pazschke) Theiss. SPECIES
 
 #### Status
 ACCEPTED

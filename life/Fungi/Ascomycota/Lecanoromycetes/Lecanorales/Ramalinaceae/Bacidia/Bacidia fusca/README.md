@@ -1,5 +1,4 @@
-Bacidia fusca SPECIES
-=======
+# Bacidia fusca SPECIES
 
 #### Status
 ACCEPTED

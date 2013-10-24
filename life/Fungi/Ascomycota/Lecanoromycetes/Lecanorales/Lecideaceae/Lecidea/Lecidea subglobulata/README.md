@@ -1,5 +1,4 @@
-Lecidea subglobulata C. Knight SPECIES
-=======
+# Lecidea subglobulata C. Knight SPECIES
 
 #### Status
 ACCEPTED

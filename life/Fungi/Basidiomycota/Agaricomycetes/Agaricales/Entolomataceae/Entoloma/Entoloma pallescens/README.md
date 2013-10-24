@@ -1,17 +1,16 @@
-Nolanea pascua var. pallescens P. Karst., 1879 VARIETY
-=======
+# Entoloma pallescens (P. Karst.) Noordel., 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Rysslands, Finlands och den Skandinaviska Halföns. Hattsvampar 1: 280 (1879)
+Persoonia 10(2): 251 (1979)
 
 #### Original name
-Nolanea pascua var. pallescens P. Karst., 1879
+Nolanea pallescens P. Karst.
 
 ### Remarks
 null

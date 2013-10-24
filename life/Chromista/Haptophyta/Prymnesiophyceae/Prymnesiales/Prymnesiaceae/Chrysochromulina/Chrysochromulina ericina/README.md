@@ -1,5 +1,4 @@
-Chrysochromulina ericina Parke & Manton SPECIES
-=======
+# Chrysochromulina ericina Parke & Manton SPECIES
 
 #### Status
 ACCEPTED

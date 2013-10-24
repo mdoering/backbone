@@ -1,5 +1,4 @@
-Leucoagaricus ophthalmus E.C. Vellinga SPECIES
-=======
+# Leucoagaricus ophthalmus E.C. Vellinga SPECIES
 
 #### Status
 ACCEPTED

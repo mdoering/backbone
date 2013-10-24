@@ -1,5 +1,4 @@
-Ozonium sacchari Speg. SPECIES
-=======
+# Ozonium sacchari Speg. SPECIES
 
 #### Status
 ACCEPTED

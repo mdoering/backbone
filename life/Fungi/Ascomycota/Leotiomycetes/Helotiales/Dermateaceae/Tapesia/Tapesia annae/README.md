@@ -1,5 +1,4 @@
-Tapesia annae Velen. SPECIES
-=======
+# Tapesia annae Velen. SPECIES
 
 #### Status
 ACCEPTED

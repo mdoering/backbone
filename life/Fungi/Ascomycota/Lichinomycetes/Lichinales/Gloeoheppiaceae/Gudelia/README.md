@@ -1,5 +1,4 @@
-Gudelia Henssen GENUS
-=======
+# Gudelia Henssen GENUS
 
 #### Status
 ACCEPTED

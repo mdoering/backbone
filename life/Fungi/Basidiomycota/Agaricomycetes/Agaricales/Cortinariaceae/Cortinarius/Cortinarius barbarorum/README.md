@@ -1,5 +1,4 @@
-Cortinarius barbarorum Bidaud, Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius barbarorum Bidaud, Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

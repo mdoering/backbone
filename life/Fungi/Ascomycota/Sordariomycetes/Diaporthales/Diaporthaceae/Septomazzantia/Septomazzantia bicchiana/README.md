@@ -1,14 +1,13 @@
-Phyllachora bicchiana (De Not.) Cooke, 1885 SPECIES
-=======
+# Septomazzantia bicchiana (De Not.) Theiss. & Syd., 1915 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 13(no. 67): 67 (1885)
+Annls mycol. 13(3/4): 194 (1915)
 
 #### Original name
 Mazzantia bicchiana De Not., 1867

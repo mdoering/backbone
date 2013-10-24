@@ -1,5 +1,4 @@
-Lecanora prorumpens (Räsänen) Cretz. SPECIES
-=======
+# Lecanora prorumpens (Räsänen) Cretz. SPECIES
 
 #### Status
 ACCEPTED

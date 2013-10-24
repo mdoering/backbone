@@ -1,5 +1,4 @@
-Beltraniella fertilis Heredia, R.M. Arias, M. Reyes & R.F. Castañeda SPECIES
-=======
+# Beltraniella fertilis Heredia, R.M. Arias, M. Reyes & R.F. Castañeda SPECIES
 
 #### Status
 ACCEPTED

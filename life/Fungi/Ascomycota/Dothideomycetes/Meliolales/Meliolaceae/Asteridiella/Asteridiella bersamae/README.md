@@ -1,5 +1,4 @@
-Asteridiella bersamae (Hansf.) Hansf. SPECIES
-=======
+# Asteridiella bersamae (Hansf.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

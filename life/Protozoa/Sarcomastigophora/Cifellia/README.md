@@ -1,5 +1,4 @@
-Cifellia Gibson, 1989 GENUS
-=======
+# Cifellia Gibson, 1989 GENUS
 
 #### Status
 ACCEPTED

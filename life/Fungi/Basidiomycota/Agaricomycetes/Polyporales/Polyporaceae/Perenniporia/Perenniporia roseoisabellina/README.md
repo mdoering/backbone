@@ -1,14 +1,13 @@
-Polyporus roseoisabellinus Pat. & Gaillard, 1888 SPECIES
-=======
+# Perenniporia roseoisabellina (Pat. & Gaillard) Ryvarden, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 4(2): 35 (1888)
+Occ. Pap. Farlow Herb. Crypt. Bot. 18: 32 (1983)
 
 #### Original name
 Polyporus roseoisabellinus Pat. & Gaillard, 1888

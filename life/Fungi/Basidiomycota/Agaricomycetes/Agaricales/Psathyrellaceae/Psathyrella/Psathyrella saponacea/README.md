@@ -1,5 +1,4 @@
-Psathyrella saponacea F.H. Møller SPECIES
-=======
+# Psathyrella saponacea F.H. Møller SPECIES
 
 #### Status
 ACCEPTED

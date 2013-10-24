@@ -1,5 +1,4 @@
-Tricholoma grossulariodorum E. Horak SPECIES
-=======
+# Tricholoma grossulariodorum E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus velenovskyi Smotl. SPECIES
-=======
+# Boletus velenovskyi Smotl. SPECIES
 
 #### Status
 ACCEPTED

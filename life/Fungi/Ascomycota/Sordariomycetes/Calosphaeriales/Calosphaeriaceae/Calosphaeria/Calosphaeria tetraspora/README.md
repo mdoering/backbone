@@ -1,5 +1,4 @@
-Calosphaeria tetraspora J. Schröt. SPECIES
-=======
+# Calosphaeria tetraspora J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

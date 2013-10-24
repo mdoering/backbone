@@ -1,5 +1,4 @@
-Uredo solaninum Henn. SPECIES
-=======
+# Uredo solaninum Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Borrelia burgdorferi Johnson et al., 1984 SPECIES
-=======
+# Borrelia burgdorferi Johnson et al., 1984 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Discinella washingtonensis Kanouse SPECIES
-=======
+# Discinella washingtonensis Kanouse SPECIES
 
 #### Status
 ACCEPTED

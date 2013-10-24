@@ -1,5 +1,4 @@
-Phyllosticta hemerocallidis (G.M. Chang & P.K. Chi) Vanev SPECIES
-=======
+# Phyllosticta hemerocallidis (G.M. Chang & P.K. Chi) Vanev SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Lecidea testaceoatra Vain. SPECIES
-=======
+# Calvitimela testaceoatra (Vain.) Hafellner SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Stapfia 76: 151 (2001)
 
 #### Original name
 Lecidea testaceoatra Vain.

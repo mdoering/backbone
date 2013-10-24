@@ -1,5 +1,4 @@
-Septoria senecionis-aetnensis Scalia SPECIES
-=======
+# Septoria senecionis-aetnensis Scalia SPECIES
 
 #### Status
 ACCEPTED

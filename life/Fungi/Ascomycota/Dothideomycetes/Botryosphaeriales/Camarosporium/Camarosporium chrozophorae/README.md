@@ -1,8 +1,7 @@
-Camarosporium chrosophora Gapon. SPECIES
-=======
+# Camarosporium chrozophorae Gapon. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Camarosporium chrosophora Gapon.
+Camarosporium chrozophorae Gapon.
 
 ### Remarks
 null

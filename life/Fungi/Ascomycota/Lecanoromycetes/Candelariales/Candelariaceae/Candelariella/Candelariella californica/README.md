@@ -1,5 +1,4 @@
-Candelariella californica M. Westb. SPECIES
-=======
+# Candelariella californica M. Westb. SPECIES
 
 #### Status
 ACCEPTED

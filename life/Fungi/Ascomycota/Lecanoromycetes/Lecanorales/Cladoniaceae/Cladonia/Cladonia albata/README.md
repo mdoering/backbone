@@ -1,5 +1,4 @@
-Cladonia albata S. Stenroos SPECIES
-=======
+# Cladonia albata S. Stenroos SPECIES
 
 #### Status
 ACCEPTED

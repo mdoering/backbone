@@ -1,5 +1,4 @@
-Chitonomyces zonatus Thaxt. SPECIES
-=======
+# Chitonomyces zonatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

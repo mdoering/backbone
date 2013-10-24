@@ -1,5 +1,4 @@
-Polyporus hyperboreus Berk. SPECIES
-=======
+# Polyporus hyperboreus Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Schmidleinema De Toni, 1936 GENUS
-=======
+# Schmidleinema De Toni, 1936 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeronaemella humicola Samson & W. Gams, 1974 SPECIES
-=======
+# Sphaeronaemella humicola Samson & W. Gams, 1974 SPECIES
 
 #### Status
 ACCEPTED

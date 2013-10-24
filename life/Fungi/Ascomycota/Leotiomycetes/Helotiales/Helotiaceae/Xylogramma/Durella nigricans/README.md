@@ -1,5 +1,4 @@
-Durella nigricans Velen. SPECIES
-=======
+# Durella nigricans Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clisosporium punctum (Cooke & Harkn.) Kuntze SPECIES
-=======
+# Clisosporium punctum (Cooke & Harkn.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

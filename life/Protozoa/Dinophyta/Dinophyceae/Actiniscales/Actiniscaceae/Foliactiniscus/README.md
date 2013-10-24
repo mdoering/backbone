@@ -1,5 +1,4 @@
-Foliactiniscus P.Dumitrica, 1973 GENUS
-=======
+# Foliactiniscus P.Dumitrica, 1973 GENUS
 
 #### Status
 ACCEPTED

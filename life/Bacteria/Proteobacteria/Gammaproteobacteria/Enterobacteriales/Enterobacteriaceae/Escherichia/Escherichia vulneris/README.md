@@ -1,5 +1,4 @@
-Escherichia vulneris Brenner et al., 1983 SPECIES
-=======
+# Escherichia vulneris Brenner et al., 1983 SPECIES
 
 #### Status
 ACCEPTED

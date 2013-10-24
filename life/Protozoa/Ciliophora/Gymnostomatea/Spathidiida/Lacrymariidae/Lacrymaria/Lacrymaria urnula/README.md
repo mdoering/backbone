@@ -1,5 +1,4 @@
-Lacrymaria urnula Kahl, 1930 SPECIES
-=======
+# Lacrymaria urnula Kahl, 1930 SPECIES
 
 #### Status
 ACCEPTED

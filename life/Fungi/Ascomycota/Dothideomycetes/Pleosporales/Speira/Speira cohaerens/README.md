@@ -1,5 +1,4 @@
-Speira cohaerens Preuss SPECIES
-=======
+# Speira cohaerens Preuss SPECIES
 
 #### Status
 ACCEPTED

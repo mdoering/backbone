@@ -1,5 +1,4 @@
-Corynophlaea hamelii Feldmann SPECIES
-=======
+# Corynophlaea hamelii Feldmann SPECIES
 
 #### Status
 ACCEPTED

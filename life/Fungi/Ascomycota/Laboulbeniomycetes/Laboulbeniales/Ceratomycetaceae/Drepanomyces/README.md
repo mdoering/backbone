@@ -1,5 +1,4 @@
-Drepanomyces Thaxt. GENUS
-=======
+# Drepanomyces Thaxt. GENUS
 
 #### Status
 ACCEPTED

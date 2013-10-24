@@ -1,17 +1,16 @@
-Ryparobius dubius var. dubius VARIETY
-=======
+# Ryparobius dubius Boud., 1869 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Ryparobius dubius var. dubius
+Ryparobius dubius Boud., 1869
 
 ### Remarks
 null

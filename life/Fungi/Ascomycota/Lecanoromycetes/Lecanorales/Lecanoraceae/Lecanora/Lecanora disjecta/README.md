@@ -1,5 +1,4 @@
-Lecanora disjecta Zahlbr. SPECIES
-=======
+# Lecanora disjecta Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

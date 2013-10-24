@@ -1,5 +1,4 @@
-Puccinia agropyri-juncei Kleb. SPECIES
-=======
+# Puccinia agropyri-juncei Kleb. SPECIES
 
 #### Status
 ACCEPTED

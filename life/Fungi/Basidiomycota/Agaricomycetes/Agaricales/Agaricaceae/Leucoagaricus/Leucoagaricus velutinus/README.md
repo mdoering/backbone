@@ -1,5 +1,4 @@
-Leucoagaricus velutinus (Beeli) Heinem. SPECIES
-=======
+# Leucoagaricus velutinus (Beeli) Heinem. SPECIES
 
 #### Status
 ACCEPTED

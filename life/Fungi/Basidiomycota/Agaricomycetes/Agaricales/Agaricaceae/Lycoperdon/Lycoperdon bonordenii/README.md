@@ -1,5 +1,4 @@
-Lycoperdon bonordenii Massee SPECIES
-=======
+# Lycoperdon bonordenii Massee SPECIES
 
 #### Status
 ACCEPTED

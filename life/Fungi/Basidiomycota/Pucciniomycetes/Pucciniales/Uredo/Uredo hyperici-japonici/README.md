@@ -1,5 +1,4 @@
-Uredo hyperici-japonici Petch SPECIES
-=======
+# Uredo hyperici-japonici Petch SPECIES
 
 #### Status
 ACCEPTED

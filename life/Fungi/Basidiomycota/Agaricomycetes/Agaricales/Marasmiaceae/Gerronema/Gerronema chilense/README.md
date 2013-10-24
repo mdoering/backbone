@@ -1,14 +1,13 @@
-Gerronema chilensis (Mont.) Raithelh. SPECIES
-=======
+# Gerronema chilense (Mont.) Raithelh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Metrodiana 4(4): 69 (1973)
 
 #### Original name
 Agaricus chilensis Mont.

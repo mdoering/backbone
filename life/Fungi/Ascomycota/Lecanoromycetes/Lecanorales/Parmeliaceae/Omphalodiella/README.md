@@ -1,5 +1,4 @@
-Omphalodiella Henssen GENUS
-=======
+# Omphalodiella Henssen GENUS
 
 #### Status
 ACCEPTED

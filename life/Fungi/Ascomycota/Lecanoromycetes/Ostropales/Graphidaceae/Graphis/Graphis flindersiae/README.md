@@ -1,5 +1,4 @@
-Graphis flindersiae Shirley SPECIES
-=======
+# Graphis flindersiae Shirley SPECIES
 
 #### Status
 ACCEPTED

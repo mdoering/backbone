@@ -1,5 +1,4 @@
-Hydnum diabolicum Rick SPECIES
-=======
+# Hydnum diabolicum Rick SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia asahinae f. asahinae FORM
-=======
+# Parmelia asahinae Yasuda SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia asahinae f. asahinae
+Parmelia asahinae Yasuda
 
 ### Remarks
 null

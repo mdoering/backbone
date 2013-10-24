@@ -1,5 +1,4 @@
-Cornicularia odontella var. odontella VARIETY
-=======
+# Cornicularia odontella SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Deutschl. Fl. (Frankfurt), Abth. 2 3: 141 (1813)
+null
 
 #### Original name
-Lichen odontellus Ach.
+null
 
 ### Remarks
 null

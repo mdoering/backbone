@@ -1,5 +1,4 @@
-Paracoccus carotinifaciens Tsubokura et al., 1999 SPECIES
-=======
+# Paracoccus carotinifaciens Tsubokura et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

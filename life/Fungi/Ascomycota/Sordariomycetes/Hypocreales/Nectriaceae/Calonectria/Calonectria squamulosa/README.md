@@ -1,5 +1,4 @@
-Calonectria squamulosa Rehm ex Weese SPECIES
-=======
+# Calonectria squamulosa Rehm ex Weese SPECIES
 
 #### Status
 ACCEPTED

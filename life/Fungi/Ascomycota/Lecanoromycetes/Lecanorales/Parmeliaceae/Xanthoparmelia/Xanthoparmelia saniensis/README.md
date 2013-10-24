@@ -1,5 +1,4 @@
-Xanthoparmelia saniensis Hale SPECIES
-=======
+# Xanthoparmelia saniensis Hale SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia swartziana var. cinerascens Ach. VARIETY
-=======
+# Arthonia swartziana Mont. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Arthonia swartziana var. cinerascens Ach.
+Arthonia swartziana Mont.
 
 ### Remarks
 null

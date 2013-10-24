@@ -1,5 +1,4 @@
-Heterovesicula C.E. Lange, C.M. Macvean, J.E. Henry, D.A. Streett GENUS
-=======
+# Heterovesicula C.E. Lange, C.M. Macvean, J.E. Henry, D.A. Streett GENUS
 
 #### Status
 ACCEPTED

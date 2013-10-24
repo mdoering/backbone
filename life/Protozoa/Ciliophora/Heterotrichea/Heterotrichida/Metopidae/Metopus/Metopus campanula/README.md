@@ -1,5 +1,4 @@
-Metopus campanula Kahl, 1932 SPECIES
-=======
+# Metopus campanula Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

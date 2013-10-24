@@ -1,5 +1,4 @@
-Schizothrix braunii Gomont, 1892 SPECIES
-=======
+# Schizothrix braunii Gomont, 1892 SPECIES
 
 #### Status
 ACCEPTED

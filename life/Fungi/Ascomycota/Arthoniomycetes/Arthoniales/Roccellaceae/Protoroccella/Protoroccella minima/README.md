@@ -1,5 +1,4 @@
-Protoroccella minima (R. Sant.) Follmann ex Follmann SPECIES
-=======
+# Protoroccella minima (R. Sant.) Follmann ex Follmann SPECIES
 
 #### Status
 ACCEPTED

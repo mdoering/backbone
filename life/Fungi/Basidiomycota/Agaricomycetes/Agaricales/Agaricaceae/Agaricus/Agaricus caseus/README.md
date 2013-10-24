@@ -1,5 +1,4 @@
-Agaricus caseus With. SPECIES
-=======
+# Agaricus caseus With. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Tryblidium fatiscens Kauffman SPECIES
-=======
+# Triblidium fatiscens Kauffman SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Pap. Mich. Acad. Sci. 11: 157 (1930)
 
 #### Original name
-Tryblidium fatiscens Kauffman
+Triblidium fatiscens Kauffman
 
 ### Remarks
 null

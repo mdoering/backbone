@@ -1,5 +1,4 @@
-Hymenochaete cinerescens Schwein. SPECIES
-=======
+# Hymenochaete cinerescens Schwein. SPECIES
 
 #### Status
 ACCEPTED

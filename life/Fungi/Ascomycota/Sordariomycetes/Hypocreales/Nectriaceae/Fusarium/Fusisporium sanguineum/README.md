@@ -1,5 +1,4 @@
-Fusisporium sanguineum Fr. SPECIES
-=======
+# Fusisporium sanguineum Fr. SPECIES
 
 #### Status
 ACCEPTED

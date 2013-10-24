@@ -1,5 +1,4 @@
-Clavulina wisoli R.H. Petersen, 2003 SPECIES
-=======
+# Clavulina wisoli R.H. Petersen, 2003 SPECIES
 
 #### Status
 ACCEPTED

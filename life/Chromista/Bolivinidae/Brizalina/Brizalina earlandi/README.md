@@ -1,5 +1,4 @@
-Brizalina earlandi (Parr, 1950) SPECIES
-=======
+# Brizalina earlandi (Parr, 1950) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paranectria luxurians Rehm SPECIES
-=======
+# Paranectria luxurians Rehm SPECIES
 
 #### Status
 ACCEPTED

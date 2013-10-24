@@ -1,5 +1,4 @@
-Ceracea elongata Pat. SPECIES
-=======
+# Ceracea elongata Pat. SPECIES
 
 #### Status
 ACCEPTED

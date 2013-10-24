@@ -1,17 +1,16 @@
-Lycosa GENUS
-=======
+# Sciadiophora Labbé, 1899 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-null
+Tierreich, 5, 18.
 
 #### Original name
-null
+Lycosella Labbé, 1896
 
 ### Remarks
 null

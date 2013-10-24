@@ -1,5 +1,4 @@
-Papinochium Ters & Deflandre, 1966 GENUS
-=======
+# Papinochium Ters & Deflandre, 1966 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parahaplotrichum idahoense W.A. Baker & Partr., 2001 SPECIES
-=======
+# Parahaplotrichum idahoense W.A. Baker & Partr., 2001 SPECIES
 
 #### Status
 ACCEPTED

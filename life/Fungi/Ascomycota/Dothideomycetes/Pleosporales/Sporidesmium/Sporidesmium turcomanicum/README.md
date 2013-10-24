@@ -1,5 +1,4 @@
-Sporidesmium turcomanicum Hol.-Jech. SPECIES
-=======
+# Sporidesmium turcomanicum Hol.-Jech. SPECIES
 
 #### Status
 ACCEPTED

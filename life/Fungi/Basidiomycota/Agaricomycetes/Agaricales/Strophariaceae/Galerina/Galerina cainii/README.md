@@ -1,5 +1,4 @@
-Galerina cainii A.H. Sm. SPECIES
-=======
+# Galerina cainii A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tulostoma amblaiense (Speg.) Sacc. & P. Syd. SPECIES
-=======
+# Tulostoma amblaiense (Speg.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

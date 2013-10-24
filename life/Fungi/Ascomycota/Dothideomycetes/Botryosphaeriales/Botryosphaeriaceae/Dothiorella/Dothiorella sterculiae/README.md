@@ -1,5 +1,4 @@
-Dothiorella sterculiae (Siemaszko) Petr. SPECIES
-=======
+# Dothiorella sterculiae (Siemaszko) Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fragilaria montana (Krasske) Lange-Bertalot SPECIES
-=======
+# Fragilaria montana (Krasske) Lange-Bertalot SPECIES
 
 #### Status
 ACCEPTED

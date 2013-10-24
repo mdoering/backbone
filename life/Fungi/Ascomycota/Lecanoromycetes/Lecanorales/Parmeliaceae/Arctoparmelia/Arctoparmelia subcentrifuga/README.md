@@ -1,17 +1,16 @@
-Parmelia subcentrifuga Oxner SPECIES
-=======
+# Arctoparmelia subcentrifuga (Oxner) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 25(1): 252 (1986)
 
 #### Original name
-null
+Parmelia subcentrifuga Oxner
 
 ### Remarks
 null

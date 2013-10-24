@@ -1,8 +1,7 @@
-Spongopyle setosa Dreyer, 1889 SPECIES
-=======
+# Spongodiscus setosus (Dreyer) Petrushevskaya, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

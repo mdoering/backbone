@@ -1,5 +1,4 @@
-Bysmatrum subsalsum (Ostenfeld) M. A. Faust & K. A. Steidinger SPECIES
-=======
+# Bysmatrum subsalsum (Ostenfeld) M. A. Faust & K. A. Steidinger SPECIES
 
 #### Status
 ACCEPTED

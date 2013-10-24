@@ -1,5 +1,4 @@
-Mycosphaerella stromatica (Munk) Tomilin SPECIES
-=======
+# Mycosphaerella stromatica (Munk) Tomilin SPECIES
 
 #### Status
 ACCEPTED

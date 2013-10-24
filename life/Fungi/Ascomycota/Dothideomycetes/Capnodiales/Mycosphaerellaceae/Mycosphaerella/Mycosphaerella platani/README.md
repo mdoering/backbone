@@ -1,5 +1,4 @@
-Mycosphaerella platani (Ellis & G. Martin) Tomilin SPECIES
-=======
+# Mycosphaerella platani (Ellis & G. Martin) Tomilin SPECIES
 
 #### Status
 ACCEPTED

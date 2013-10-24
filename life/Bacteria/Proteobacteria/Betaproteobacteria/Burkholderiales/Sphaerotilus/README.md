@@ -1,5 +1,4 @@
-Sphaerotilus Kützing, 1833 (Approved Lists, 1980) GENUS
-=======
+# Sphaerotilus Kützing, 1833 (Approved Lists, 1980) GENUS
 
 #### Status
 ACCEPTED

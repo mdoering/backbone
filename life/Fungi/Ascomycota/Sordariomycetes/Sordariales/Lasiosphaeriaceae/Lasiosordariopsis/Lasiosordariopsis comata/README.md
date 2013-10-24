@@ -1,5 +1,4 @@
-Lasiosordariopsis comata (Kirschst.) Chenant. SPECIES
-=======
+# Lasiosordariopsis comata (Kirschst.) Chenant. SPECIES
 
 #### Status
 ACCEPTED

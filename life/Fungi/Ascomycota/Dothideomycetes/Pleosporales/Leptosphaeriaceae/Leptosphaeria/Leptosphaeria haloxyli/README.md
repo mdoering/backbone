@@ -1,5 +1,4 @@
-Leptosphaeria haloxyli Kravtzev SPECIES
-=======
+# Leptosphaeria haloxyli Kravtzev SPECIES
 
 #### Status
 ACCEPTED

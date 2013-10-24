@@ -1,14 +1,13 @@
-Polyblastia gregantula Müll. Arg. SPECIES
-=======
+# Polyblastiopsis gregantula (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Rep. Meetings Australs. Assoc. Advancem. Sci. 454 (1895)
+Cat. Lich. Univers. 1: 349 (1922)
 
 #### Original name
 Polyblastia gregantula Müll. Arg.

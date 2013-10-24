@@ -1,5 +1,4 @@
-Sciniatosporium ulei (Syd. & P. Syd.) Morgan-Jones SPECIES
-=======
+# Sciniatosporium ulei (Syd. & P. Syd.) Morgan-Jones SPECIES
 
 #### Status
 ACCEPTED

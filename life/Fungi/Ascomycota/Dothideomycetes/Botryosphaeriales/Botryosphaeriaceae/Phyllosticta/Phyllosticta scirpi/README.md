@@ -1,5 +1,4 @@
-Phyllosticta scirpi (Brunaud) Allesch. SPECIES
-=======
+# Phyllosticta scirpi (Brunaud) Allesch. SPECIES
 
 #### Status
 ACCEPTED

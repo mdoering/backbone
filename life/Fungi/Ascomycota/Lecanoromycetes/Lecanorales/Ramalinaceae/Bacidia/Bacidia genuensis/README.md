@@ -1,5 +1,4 @@
-Bacidia genuensis B. de Lesd. SPECIES
-=======
+# Bacidia genuensis B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

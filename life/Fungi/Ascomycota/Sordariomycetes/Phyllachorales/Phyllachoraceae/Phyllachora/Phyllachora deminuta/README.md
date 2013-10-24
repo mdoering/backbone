@@ -1,14 +1,13 @@
-Clypeotrabutia deminuta (Syd.) Chardón, 1934 SPECIES
-=======
+# Phyllachora deminuta Syd., 1930 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monograph Univ. Puerto Rico, Series B 2: 191 (1934)
+Annls mycol. 28(1/2): 103 (1930)
 
 #### Original name
 Phyllachora deminuta Syd., 1930

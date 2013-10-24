@@ -1,5 +1,4 @@
-Opisteria expallida (Nyl.) Vain. SPECIES
-=======
+# Opisteria expallida (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

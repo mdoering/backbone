@@ -1,5 +1,4 @@
-Merulius papyraceus (Durieu & Lév. ex Sacc.) Kuntze SPECIES
-=======
+# Merulius papyraceus (Durieu & Lév. ex Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

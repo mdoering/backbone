@@ -1,5 +1,4 @@
-Mycoderma decolorans H. Will SPECIES
-=======
+# Mycoderma decolorans H. Will SPECIES
 
 #### Status
 ACCEPTED

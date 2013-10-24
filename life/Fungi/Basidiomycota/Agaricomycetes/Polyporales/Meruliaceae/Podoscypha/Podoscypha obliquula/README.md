@@ -1,5 +1,4 @@
-Podoscypha obliquula (S. Ito & S. Imai) S. Ito SPECIES
-=======
+# Podoscypha obliquula (S. Ito & S. Imai) S. Ito SPECIES
 
 #### Status
 ACCEPTED

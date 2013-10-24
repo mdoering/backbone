@@ -1,5 +1,4 @@
-Phyllosticta mammaeicola Cif. & Gonz. Frag. SPECIES
-=======
+# Phyllosticta mammaeicola Cif. & Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

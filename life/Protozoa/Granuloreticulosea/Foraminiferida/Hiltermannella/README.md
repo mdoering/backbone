@@ -1,17 +1,16 @@
-Hiltermannia Bertels, 1970 GENUS
-=======
+# Hiltermannella Bertels, 1971 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Ameghiniana 7: 169.
+Ameghiniana 8: 104.
 
 #### Original name
-null
+Hiltermannia Bertels, 1970
 
 ### Remarks
 null

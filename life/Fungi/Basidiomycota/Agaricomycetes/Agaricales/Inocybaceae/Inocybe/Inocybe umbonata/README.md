@@ -1,5 +1,4 @@
-Inocybe umbonata Quél. SPECIES
-=======
+# Inocybe umbonata Quél. SPECIES
 
 #### Status
 ACCEPTED

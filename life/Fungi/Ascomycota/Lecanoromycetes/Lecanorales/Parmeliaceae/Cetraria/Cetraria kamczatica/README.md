@@ -1,5 +1,4 @@
-Cetraria kamczatica SPECIES
-=======
+# Cetraria kamczatica SPECIES
 
 #### Status
 ACCEPTED

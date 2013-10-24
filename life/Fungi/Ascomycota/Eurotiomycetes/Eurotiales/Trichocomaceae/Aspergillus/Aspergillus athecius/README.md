@@ -1,5 +1,4 @@
-Aspergillus athecius Raper & Fennell, 1965 SPECIES
-=======
+# Aspergillus athecius Raper & Fennell, 1965 SPECIES
 
 #### Status
 ACCEPTED

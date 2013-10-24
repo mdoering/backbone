@@ -1,5 +1,4 @@
-Nocardia araoensis Kageyama et al., 2004 SPECIES
-=======
+# Nocardia araoensis Kageyama et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

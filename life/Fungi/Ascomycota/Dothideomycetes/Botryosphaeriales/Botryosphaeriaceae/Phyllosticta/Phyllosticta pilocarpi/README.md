@@ -1,5 +1,4 @@
-Phyllosticta pilocarpi Pat. SPECIES
-=======
+# Phyllosticta pilocarpi Pat. SPECIES
 
 #### Status
 ACCEPTED

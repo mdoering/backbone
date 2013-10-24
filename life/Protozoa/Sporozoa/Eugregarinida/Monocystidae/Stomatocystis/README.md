@@ -1,5 +1,4 @@
-Stomatocystis Bandyopadhyay, Mitra & Gocmen, 2006 GENUS
-=======
+# Stomatocystis Bandyopadhyay, Mitra & Gocmen, 2006 GENUS
 
 #### Status
 ACCEPTED

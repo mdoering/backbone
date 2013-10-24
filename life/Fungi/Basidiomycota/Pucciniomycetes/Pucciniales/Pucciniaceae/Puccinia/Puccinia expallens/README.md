@@ -1,5 +1,4 @@
-Puccinia expallens Syd. & P. Syd. SPECIES
-=======
+# Puccinia expallens Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physalacria pseudotropica Berthier, 1985 SPECIES
-=======
+# Physalacria pseudotropica Berthier, 1985 SPECIES
 
 #### Status
 ACCEPTED

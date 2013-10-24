@@ -1,5 +1,4 @@
-Lecidea subbacillifera Nyl. SPECIES
-=======
+# Lecidea subbacillifera Nyl. SPECIES
 
 #### Status
 ACCEPTED

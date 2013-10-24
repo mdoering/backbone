@@ -1,5 +1,4 @@
-Parabagliettoa GENUS
-=======
+# Parabagliettoa GENUS
 
 #### Status
 ACCEPTED

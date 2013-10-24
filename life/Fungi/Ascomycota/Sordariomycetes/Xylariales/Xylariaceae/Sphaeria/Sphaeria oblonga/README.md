@@ -1,5 +1,4 @@
-Sphaeria oblonga Sowerby SPECIES
-=======
+# Sphaeria oblonga Sowerby SPECIES
 
 #### Status
 ACCEPTED

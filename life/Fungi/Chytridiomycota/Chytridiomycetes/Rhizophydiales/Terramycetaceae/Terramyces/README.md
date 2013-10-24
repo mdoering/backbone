@@ -1,5 +1,4 @@
-Terramyces Letcher GENUS
-=======
+# Terramyces Letcher GENUS
 
 #### Status
 ACCEPTED

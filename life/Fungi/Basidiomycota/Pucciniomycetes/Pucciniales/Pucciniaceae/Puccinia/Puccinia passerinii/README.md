@@ -1,5 +1,4 @@
-Puccinia passerinii J. Schröt. SPECIES
-=======
+# Puccinia passerinii J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

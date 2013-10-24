@@ -1,5 +1,4 @@
-Pleospora lycii Hazsl. SPECIES
-=======
+# Pleospora lycii Hazsl. SPECIES
 
 #### Status
 ACCEPTED

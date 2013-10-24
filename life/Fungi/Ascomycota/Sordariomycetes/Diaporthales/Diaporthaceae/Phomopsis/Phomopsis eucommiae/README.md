@@ -1,5 +1,4 @@
-Phomopsis eucommiae F.X. Chao & P.K. Chi SPECIES
-=======
+# Phomopsis eucommiae F.X. Chao & P.K. Chi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecania cariosa (Hue) Darb. SPECIES
-=======
+# Lecania cariosa (Hue) Darb. SPECIES
 
 #### Status
 ACCEPTED

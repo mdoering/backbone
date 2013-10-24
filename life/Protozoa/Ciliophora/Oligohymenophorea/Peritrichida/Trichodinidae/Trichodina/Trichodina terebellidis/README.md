@@ -1,5 +1,4 @@
-Trichodina terebellidis Precht, 1935 SPECIES
-=======
+# Trichodina terebellidis Precht, 1935 SPECIES
 
 #### Status
 ACCEPTED

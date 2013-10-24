@@ -1,5 +1,4 @@
-Bacidia pallens (Kullh.) Zahlbr. SPECIES
-=======
+# Bacidia pallens (Kullh.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

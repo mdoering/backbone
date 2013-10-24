@@ -1,5 +1,4 @@
-Gastrostyla muscorum Kahl, 1932 SPECIES
-=======
+# Gastrostyla muscorum Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

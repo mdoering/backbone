@@ -1,5 +1,4 @@
-Sphaerostilbe cinerascens Henn. SPECIES
-=======
+# Sphaerostilbe cinerascens Henn. SPECIES
 
 #### Status
 ACCEPTED

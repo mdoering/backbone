@@ -1,14 +1,13 @@
-Pertusaria subrhodotropa A.W. Archer SPECIES
-=======
+# Ochrolechia subrhodotropa (A.W. Archer) K. Schmitz & Lumbsch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Mycotaxon 41(1): 244 (1991)
+in Schmitz, Lumbsch & Feige, Acta bot. fenn. 150: 160 (1994)
 
 #### Original name
 Pertusaria subrhodotropa A.W. Archer

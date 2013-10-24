@@ -1,5 +1,4 @@
-Rhinocladium Saccardo & Marchal, 1885 GENUS
-=======
+# Rhinocladium Saccardo & Marchal, 1885 GENUS
 
 #### Status
 ACCEPTED

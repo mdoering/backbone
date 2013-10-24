@@ -1,5 +1,4 @@
-Bertia vitis R. Schulz SPECIES
-=======
+# Bertia vitis R. Schulz SPECIES
 
 #### Status
 ACCEPTED

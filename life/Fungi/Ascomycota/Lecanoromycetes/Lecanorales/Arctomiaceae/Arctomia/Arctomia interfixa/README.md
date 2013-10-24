@@ -1,5 +1,4 @@
-Arctomia interfixa (Nyl.) Vain. SPECIES
-=======
+# Arctomia interfixa (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Polyblastiopsis kümmerlei Szatala SPECIES
-=======
+# Polyblastiopsis kuemmerlei Szatala SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Polyblastiopsis kümmerlei Szatala
+Polyblastiopsis kuemmerlei Szatala
 
 ### Remarks
 null

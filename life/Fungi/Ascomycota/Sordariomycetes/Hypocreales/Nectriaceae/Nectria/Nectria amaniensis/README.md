@@ -1,5 +1,4 @@
-Nectria amaniensis Henn. SPECIES
-=======
+# Nectria amaniensis Henn. SPECIES
 
 #### Status
 ACCEPTED

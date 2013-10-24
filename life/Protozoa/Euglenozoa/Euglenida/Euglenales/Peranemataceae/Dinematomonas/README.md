@@ -1,5 +1,4 @@
-Dinematomonas P.C.Silva, 1960 GENUS
-=======
+# Dinematomonas P.C.Silva, 1960 GENUS
 
 #### Status
 ACCEPTED

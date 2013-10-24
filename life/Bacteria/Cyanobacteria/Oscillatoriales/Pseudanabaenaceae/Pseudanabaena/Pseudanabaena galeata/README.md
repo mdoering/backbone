@@ -1,5 +1,4 @@
-Pseudanabaena galeata Bãcher SPECIES
-=======
+# Pseudanabaena galeata Bãcher SPECIES
 
 #### Status
 ACCEPTED

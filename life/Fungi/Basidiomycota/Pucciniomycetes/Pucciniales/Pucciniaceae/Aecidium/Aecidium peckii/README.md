@@ -1,5 +1,4 @@
-Aecidium peckii De Toni SPECIES
-=======
+# Aecidium peckii De Toni SPECIES
 
 #### Status
 ACCEPTED

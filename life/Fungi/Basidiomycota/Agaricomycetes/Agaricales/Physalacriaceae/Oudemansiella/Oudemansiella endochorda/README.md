@@ -1,5 +1,4 @@
-Oudemansiella endochorda (Berk. & Broome) Pegler SPECIES
-=======
+# Oudemansiella endochorda (Berk. & Broome) Pegler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramalina costata Meyen & Flot. SPECIES
-=======
+# Ramalina costata Meyen & Flot. SPECIES
 
 #### Status
 ACCEPTED

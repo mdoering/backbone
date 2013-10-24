@@ -1,5 +1,4 @@
-Usnea subscrabrosa SPECIES
-=======
+# Usnea subscrabrosa SPECIES
 
 #### Status
 ACCEPTED

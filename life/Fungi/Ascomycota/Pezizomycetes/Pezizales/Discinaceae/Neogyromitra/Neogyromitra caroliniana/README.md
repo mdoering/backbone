@@ -1,5 +1,4 @@
-Neogyromitra caroliniana (Bosc) S. Imai SPECIES
-=======
+# Neogyromitra caroliniana (Bosc) S. Imai SPECIES
 
 #### Status
 ACCEPTED

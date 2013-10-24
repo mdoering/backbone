@@ -1,8 +1,7 @@
-Tilletia calamagrostis Fuckel SPECIES
-=======
+# Tilletia calamagrostidis Fuckel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Tilletia calamagrostis Fuckel
+Tilletia calamagrostidis Fuckel
 
 ### Remarks
 null

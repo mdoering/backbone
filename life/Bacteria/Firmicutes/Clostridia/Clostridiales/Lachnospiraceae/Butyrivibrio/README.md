@@ -1,5 +1,4 @@
-Butyrivibrio Bryant & Small, 1956 GENUS
-=======
+# Butyrivibrio Bryant & Small, 1956 GENUS
 
 #### Status
 ACCEPTED

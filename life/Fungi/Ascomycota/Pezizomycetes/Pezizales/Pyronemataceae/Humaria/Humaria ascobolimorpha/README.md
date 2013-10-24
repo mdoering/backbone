@@ -1,5 +1,4 @@
-Humaria ascobolimorpha (P. Crouan & H. Crouan) Sacc. SPECIES
-=======
+# Humaria ascobolimorpha (P. Crouan & H. Crouan) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sarcodon ussuriensis Nikol. SPECIES
-=======
+# Sarcodon ussuriensis Nikol. SPECIES
 
 #### Status
 ACCEPTED

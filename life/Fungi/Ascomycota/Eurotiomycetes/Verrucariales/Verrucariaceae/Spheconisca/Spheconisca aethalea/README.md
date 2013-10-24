@@ -1,5 +1,4 @@
-Spheconisca aethalea (Norman) Norman SPECIES
-=======
+# Spheconisca aethalea (Norman) Norman SPECIES
 
 #### Status
 ACCEPTED

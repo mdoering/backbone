@@ -1,5 +1,4 @@
-Leucoagaricus amylosporus (Malençon) Bon SPECIES
-=======
+# Leucoagaricus amylosporus (Malençon) Bon SPECIES
 
 #### Status
 ACCEPTED

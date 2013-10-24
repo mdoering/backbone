@@ -1,5 +1,4 @@
-Enterococcus pallens Tyrrell et al., 2002 SPECIES
-=======
+# Enterococcus pallens Tyrrell et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

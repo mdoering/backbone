@@ -1,5 +1,4 @@
-Ocellaria parvula Speg. SPECIES
-=======
+# Ocellaria parvula Speg. SPECIES
 
 #### Status
 ACCEPTED

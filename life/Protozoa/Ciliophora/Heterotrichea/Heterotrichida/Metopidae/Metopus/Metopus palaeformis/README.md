@@ -1,5 +1,4 @@
-Metopus palaeformis Kahl, 1927 SPECIES
-=======
+# Metopus palaeformis Kahl, 1927 SPECIES
 
 #### Status
 ACCEPTED

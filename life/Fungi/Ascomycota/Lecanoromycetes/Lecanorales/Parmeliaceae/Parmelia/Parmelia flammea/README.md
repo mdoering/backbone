@@ -1,5 +1,4 @@
-Parmelia flammea (L. f.) Ach. SPECIES
-=======
+# Parmelia flammea (L. f.) Ach. SPECIES
 
 #### Status
 ACCEPTED

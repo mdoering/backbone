@@ -1,5 +1,4 @@
-Hexagonia peltata Fr. SPECIES
-=======
+# Hexagonia peltata Fr. SPECIES
 
 #### Status
 ACCEPTED

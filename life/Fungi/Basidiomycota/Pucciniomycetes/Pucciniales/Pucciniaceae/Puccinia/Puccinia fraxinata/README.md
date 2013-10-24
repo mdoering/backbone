@@ -1,5 +1,4 @@
-Puccinia fraxinata (Link) Arthur SPECIES
-=======
+# Puccinia fraxinata (Link) Arthur SPECIES
 
 #### Status
 ACCEPTED

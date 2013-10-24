@@ -1,5 +1,4 @@
-Amphipyle Haeckel, 1881 GENUS
-=======
+# Amphipyle Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Usnea syriaca Motyka SPECIES
-=======
+# Usnea syriaca Motyka SPECIES
 
 #### Status
 ACCEPTED

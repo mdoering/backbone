@@ -1,5 +1,4 @@
-Torula tetramera Preuss SPECIES
-=======
+# Torula tetramera Preuss SPECIES
 
 #### Status
 ACCEPTED

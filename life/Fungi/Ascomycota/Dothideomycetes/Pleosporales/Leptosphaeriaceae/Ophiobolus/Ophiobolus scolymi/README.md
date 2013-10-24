@@ -1,5 +1,4 @@
-Ophiobolus scolymi (Mont.) Sacc. SPECIES
-=======
+# Ophiobolus scolymi (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

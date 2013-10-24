@@ -1,5 +1,4 @@
-Pseudocercospora viticis Sawada ex Goh & W.H. Hsieh SPECIES
-=======
+# Pseudocercospora viticis Sawada ex Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

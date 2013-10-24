@@ -1,5 +1,4 @@
-Valsaria strebli Rehm SPECIES
-=======
+# Valsaria strebli Rehm SPECIES
 
 #### Status
 ACCEPTED

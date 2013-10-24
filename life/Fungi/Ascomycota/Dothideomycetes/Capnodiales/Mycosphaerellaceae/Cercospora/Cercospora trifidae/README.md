@@ -1,5 +1,4 @@
-Cercospora trifidae Chupp SPECIES
-=======
+# Cercospora trifidae Chupp SPECIES
 
 #### Status
 ACCEPTED

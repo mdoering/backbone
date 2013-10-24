@@ -1,5 +1,4 @@
-Diexallophasis remota (Deunff, 1955) emend. Playford, 1977 SPECIES
-=======
+# Diexallophasis remota (Deunff, 1955) emend. Playford, 1977 SPECIES
 
 #### Status
 ACCEPTED

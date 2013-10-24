@@ -1,5 +1,4 @@
-Phoma pusilla Schulzer & Sacc. SPECIES
-=======
+# Phoma pusilla Schulzer & Sacc. SPECIES
 
 #### Status
 ACCEPTED

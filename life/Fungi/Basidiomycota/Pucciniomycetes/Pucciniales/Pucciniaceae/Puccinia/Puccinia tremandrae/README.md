@@ -1,5 +1,4 @@
-Puccinia tremandrae Berk. SPECIES
-=======
+# Puccinia tremandrae Berk. SPECIES
 
 #### Status
 ACCEPTED

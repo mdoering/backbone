@@ -1,5 +1,4 @@
-Synsterigmatocystis GENUS
-=======
+# Synsterigmatocystis GENUS
 
 #### Status
 ACCEPTED

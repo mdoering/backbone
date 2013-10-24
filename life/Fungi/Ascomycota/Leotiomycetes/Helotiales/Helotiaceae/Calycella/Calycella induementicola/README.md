@@ -1,5 +1,4 @@
-Calycella induementicola Graddon SPECIES
-=======
+# Calycella induementicola Graddon SPECIES
 
 #### Status
 ACCEPTED

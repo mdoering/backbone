@@ -1,5 +1,4 @@
-Psiloglonium hysterinum (Rehm) E. Boehm & C.L. Schoch, 2009 SPECIES
-=======
+# Psiloglonium hysterinum (Rehm) E. Boehm & C.L. Schoch, 2009 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Favolaschia oligopora Singer, 1974 SPECIES
-=======
+# Favolaschia oligopora Singer, 1974 SPECIES
 
 #### Status
 ACCEPTED

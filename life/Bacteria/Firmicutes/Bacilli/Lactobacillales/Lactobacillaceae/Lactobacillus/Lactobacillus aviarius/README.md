@@ -1,5 +1,4 @@
-Lactobacillus aviarius subsp. aviarius SUBSPECIES
-=======
+# Lactobacillus aviarius Fujisawa et al., 1985 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Volvariopsis floridana Murrill SPECIES
-=======
+# Volvariopsis floridana Murrill SPECIES
 
 #### Status
 ACCEPTED

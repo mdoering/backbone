@@ -1,5 +1,4 @@
-Micularia Boedijn GENUS
-=======
+# Micularia Boedijn GENUS
 
 #### Status
 ACCEPTED

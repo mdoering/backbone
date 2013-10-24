@@ -1,5 +1,4 @@
-Pleospora carpinicola Ellis & Everh. SPECIES
-=======
+# Pleospora carpinicola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

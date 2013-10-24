@@ -1,14 +1,13 @@
-Thecaphora apicis Savile, 1953 SPECIES
-=======
+# Moreaua apicis (Savile) Vánky, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 85: 57 (2003)
 
 #### Original name
 Thecaphora apicis Savile, 1953

@@ -1,5 +1,4 @@
-Lachnocladium schwackei Henn. SPECIES
-=======
+# Lachnocladium schwackei Henn. SPECIES
 
 #### Status
 ACCEPTED

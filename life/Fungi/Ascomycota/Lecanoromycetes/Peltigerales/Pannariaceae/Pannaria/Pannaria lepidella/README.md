@@ -1,5 +1,4 @@
-Pannaria lepidella (Räsänen) Kurok. SPECIES
-=======
+# Pannaria lepidella (Räsänen) Kurok. SPECIES
 
 #### Status
 ACCEPTED

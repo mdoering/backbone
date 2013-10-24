@@ -1,5 +1,4 @@
-Physalospora arctostaphyli B. Erikss., 1974 SPECIES
-=======
+# Physalospora arctostaphyli B. Erikss., 1974 SPECIES
 
 #### Status
 ACCEPTED

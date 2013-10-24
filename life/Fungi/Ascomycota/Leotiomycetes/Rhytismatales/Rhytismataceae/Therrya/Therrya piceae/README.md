@@ -1,5 +1,4 @@
-Therrya piceae A. Funk, 1980 SPECIES
-=======
+# Therrya piceae A. Funk, 1980 SPECIES
 
 #### Status
 ACCEPTED

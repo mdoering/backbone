@@ -1,5 +1,4 @@
-Hypocreopsis tingomariensis Yoshim. Doi SPECIES
-=======
+# Hypocreopsis tingomariensis Yoshim. Doi SPECIES
 
 #### Status
 ACCEPTED

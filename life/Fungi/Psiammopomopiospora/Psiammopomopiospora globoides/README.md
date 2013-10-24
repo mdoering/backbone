@@ -1,5 +1,4 @@
-Psiammopomopiospora globoides Sal.-Cheb. & Locq. SPECIES
-=======
+# Psiammopomopiospora globoides Sal.-Cheb. & Locq. SPECIES
 
 #### Status
 ACCEPTED

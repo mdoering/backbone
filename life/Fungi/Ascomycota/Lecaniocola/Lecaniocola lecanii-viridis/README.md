@@ -1,5 +1,4 @@
-Lecaniocola lecanii-viridis Brain SPECIES
-=======
+# Lecaniocola lecanii-viridis Brain SPECIES
 
 #### Status
 ACCEPTED

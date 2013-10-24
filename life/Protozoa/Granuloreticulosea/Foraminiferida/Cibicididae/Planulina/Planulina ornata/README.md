@@ -1,5 +1,4 @@
-Planulina ornata SPECIES
-=======
+# Planulina ornata SPECIES
 
 #### Status
 ACCEPTED

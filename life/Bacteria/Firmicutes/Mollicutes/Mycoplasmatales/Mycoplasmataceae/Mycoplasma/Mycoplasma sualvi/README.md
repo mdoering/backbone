@@ -1,5 +1,4 @@
-Mycoplasma sualvi Gourlay et al., 1983 SPECIES
-=======
+# Mycoplasma sualvi Gourlay et al., 1983 SPECIES
 
 #### Status
 ACCEPTED

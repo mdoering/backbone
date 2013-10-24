@@ -1,5 +1,4 @@
-Cercospora lotononidis Crous & B. Sutton SPECIES
-=======
+# Cercospora lotononidis Crous & B. Sutton SPECIES
 
 #### Status
 ACCEPTED

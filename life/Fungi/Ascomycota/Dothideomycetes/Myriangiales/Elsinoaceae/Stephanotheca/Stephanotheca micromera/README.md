@@ -1,5 +1,4 @@
-Stephanotheca micromera Syd. & P. Syd., 1914 SPECIES
-=======
+# Stephanotheca micromera Syd. & P. Syd., 1914 SPECIES
 
 #### Status
 ACCEPTED

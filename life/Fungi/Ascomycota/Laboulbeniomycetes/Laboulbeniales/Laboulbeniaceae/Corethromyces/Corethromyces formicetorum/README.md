@@ -1,5 +1,4 @@
-Corethromyces formicetorum Speg. SPECIES
-=======
+# Corethromyces formicetorum Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rozites purpurea M.M. Moser SPECIES
-=======
+# Rozites purpurea M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

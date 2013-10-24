@@ -1,5 +1,4 @@
-Oospora guerciana Cavara SPECIES
-=======
+# Oospora guerciana Cavara SPECIES
 
 #### Status
 ACCEPTED

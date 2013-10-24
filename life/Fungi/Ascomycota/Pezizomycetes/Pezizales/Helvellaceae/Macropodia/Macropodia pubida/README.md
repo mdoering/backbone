@@ -1,5 +1,4 @@
-Macropodia pubida (Berk. & M.A. Curtis) Cooke SPECIES
-=======
+# Macropodia pubida (Berk. & M.A. Curtis) Cooke SPECIES
 
 #### Status
 ACCEPTED

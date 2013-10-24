@@ -1,14 +1,13 @@
-Chroogomphus rutilus var. papillatus Raithelh., 1974 VARIETY
-=======
+# Chroogomphus papillatus (Raithelh.) Raithelh., 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hong. Argentin. 1: 145 (1974)
+Metrodiana, Sonderheft 2: 16 (1983)
 
 #### Original name
 Chroogomphus rutilus var. papillatus Raithelh., 1974

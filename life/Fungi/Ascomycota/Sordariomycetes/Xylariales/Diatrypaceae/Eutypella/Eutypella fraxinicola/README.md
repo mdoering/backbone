@@ -1,5 +1,4 @@
-Eutypella fraxinicola (Cooke & Peck) Sacc. SPECIES
-=======
+# Eutypella fraxinicola (Cooke & Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

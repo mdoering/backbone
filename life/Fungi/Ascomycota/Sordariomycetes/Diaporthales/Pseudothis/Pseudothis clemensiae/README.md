@@ -1,5 +1,4 @@
-Pseudothis clemensiae Petr. SPECIES
-=======
+# Pseudothis clemensiae Petr. SPECIES
 
 #### Status
 ACCEPTED

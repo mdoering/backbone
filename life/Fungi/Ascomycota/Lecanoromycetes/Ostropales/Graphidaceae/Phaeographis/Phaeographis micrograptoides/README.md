@@ -1,5 +1,4 @@
-Phaeographis micrograptoides (Vain.) Zahlbr. SPECIES
-=======
+# Phaeographis micrograptoides (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

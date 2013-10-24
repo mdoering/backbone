@@ -1,17 +1,16 @@
-Colletotrichum sierraensis R. Sprague SPECIES
-=======
+# Colletotrichum sierraense R. Sprague SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 50(6): 817 (1959)
 
 #### Original name
-Colletotrichum sierraensis R. Sprague
+Colletotrichum sierraense R. Sprague
 
 ### Remarks
 null

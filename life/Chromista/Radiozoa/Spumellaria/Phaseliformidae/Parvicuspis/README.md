@@ -1,5 +1,4 @@
-Parvicuspis Pessagno, 1972 GENUS
-=======
+# Parvicuspis Pessagno, 1972 GENUS
 
 #### Status
 ACCEPTED

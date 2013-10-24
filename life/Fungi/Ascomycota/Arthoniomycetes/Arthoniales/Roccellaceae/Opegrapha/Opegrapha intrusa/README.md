@@ -1,5 +1,4 @@
-Opegrapha intrusa Stirt. SPECIES
-=======
+# Opegrapha intrusa Stirt. SPECIES
 
 #### Status
 ACCEPTED

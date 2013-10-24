@@ -1,5 +1,4 @@
-Laboulbenia dahlii Thaxt. SPECIES
-=======
+# Laboulbenia dahlii Thaxt. SPECIES
 
 #### Status
 ACCEPTED

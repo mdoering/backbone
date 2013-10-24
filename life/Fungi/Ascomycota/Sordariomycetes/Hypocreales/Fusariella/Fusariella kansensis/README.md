@@ -1,5 +1,4 @@
-Fusariella kansensis (Ellis & Barthol.) M.B. Ellis SPECIES
-=======
+# Fusariella kansensis (Ellis & Barthol.) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

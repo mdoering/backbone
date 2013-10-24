@@ -1,5 +1,4 @@
-Macrophoma negundinis Ribaldi SPECIES
-=======
+# Macrophoma negundinis Ribaldi SPECIES
 
 #### Status
 ACCEPTED

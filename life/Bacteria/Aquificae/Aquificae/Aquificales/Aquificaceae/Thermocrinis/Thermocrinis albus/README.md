@@ -1,5 +1,4 @@
-Thermocrinis albus Eder & Huber et al., 2002 SPECIES
-=======
+# Thermocrinis albus Eder & Huber et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

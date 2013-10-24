@@ -1,5 +1,4 @@
-Asteridiella alchorneae (F. Stevens & Tehon) Hansf. SPECIES
-=======
+# Asteridiella alchorneae (F. Stevens & Tehon) Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Labyrinthina Weynschenck, 1951 GENUS
-=======
+# Labyrinthina Weynschenck, 1951 GENUS
 
 #### Status
 ACCEPTED

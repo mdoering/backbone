@@ -1,5 +1,4 @@
-Erysiphe nishidana (Homma) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe nishidana (Homma) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

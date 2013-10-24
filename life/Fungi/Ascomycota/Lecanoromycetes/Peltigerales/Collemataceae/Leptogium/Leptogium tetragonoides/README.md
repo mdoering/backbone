@@ -1,5 +1,4 @@
-Leptogium tetragonoides (Anzi) Lettau SPECIES
-=======
+# Leptogium tetragonoides (Anzi) Lettau SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta fulvomaculans Maire SPECIES
-=======
+# Phyllosticta fulvomaculans Maire SPECIES
 
 #### Status
 ACCEPTED

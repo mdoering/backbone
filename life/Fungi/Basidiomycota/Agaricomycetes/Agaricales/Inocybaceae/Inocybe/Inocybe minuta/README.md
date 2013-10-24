@@ -1,5 +1,4 @@
-Inocybe minuta P. Karst. SPECIES
-=======
+# Inocybe minuta P. Karst. SPECIES
 
 #### Status
 ACCEPTED

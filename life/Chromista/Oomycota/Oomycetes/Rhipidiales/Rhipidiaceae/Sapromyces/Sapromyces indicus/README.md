@@ -1,5 +1,4 @@
-Sapromyces indicus M.O.P. Iyengar, K. Ramakr. & Subram., 1955 SPECIES
-=======
+# Sapromyces indicus M.O.P. Iyengar, K. Ramakr. & Subram., 1955 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma prominens Bres. SPECIES
-=======
+# Phoma prominens Bres. SPECIES
 
 #### Status
 ACCEPTED

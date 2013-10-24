@@ -1,5 +1,4 @@
-Meliola randiicola Hansf. SPECIES
-=======
+# Meliola randiicola Hansf. SPECIES
 
 #### Status
 ACCEPTED

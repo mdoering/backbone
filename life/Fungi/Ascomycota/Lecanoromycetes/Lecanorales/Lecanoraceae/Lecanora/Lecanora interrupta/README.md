@@ -1,5 +1,4 @@
-Lecanora interrupta Ehrenb. SPECIES
-=======
+# Lecanora interrupta Ehrenb. SPECIES
 
 #### Status
 ACCEPTED

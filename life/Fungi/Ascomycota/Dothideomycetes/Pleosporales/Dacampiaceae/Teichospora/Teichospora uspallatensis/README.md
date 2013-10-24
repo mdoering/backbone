@@ -1,5 +1,4 @@
-Teichospora uspallatensis Speg. SPECIES
-=======
+# Teichospora uspallatensis Speg. SPECIES
 
 #### Status
 ACCEPTED

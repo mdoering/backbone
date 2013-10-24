@@ -1,5 +1,4 @@
-Cryptococcus dactyliferus (Mrak, Phaff & Vaughn) C.E. Skinner & Bouth. SPECIES
-=======
+# Cryptococcus dactyliferus (Mrak, Phaff & Vaughn) C.E. Skinner & Bouth. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micromma A. Massalongo, 1860 GENUS
-=======
+# Micromma A. Massalongo, 1860 GENUS
 
 #### Status
 ACCEPTED

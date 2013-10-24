@@ -1,5 +1,4 @@
-Siphopodium dendioides Reinsch SPECIES
-=======
+# Siphopodium dendioides Reinsch SPECIES
 
 #### Status
 ACCEPTED

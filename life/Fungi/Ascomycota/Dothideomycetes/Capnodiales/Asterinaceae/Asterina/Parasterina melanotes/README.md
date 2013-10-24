@@ -1,5 +1,4 @@
-Parasterina melanotes Syd. SPECIES
-=======
+# Parasterina melanotes Syd. SPECIES
 
 #### Status
 ACCEPTED

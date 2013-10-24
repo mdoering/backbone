@@ -1,5 +1,4 @@
-Encoelia russa (Berk. & Broome) Dennis SPECIES
-=======
+# Encoelia russa (Berk. & Broome) Dennis SPECIES
 
 #### Status
 ACCEPTED

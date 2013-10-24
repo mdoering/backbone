@@ -1,5 +1,4 @@
-Trametes globospora Ryvarden & Aime SPECIES
-=======
+# Trametes globospora Ryvarden & Aime SPECIES
 
 #### Status
 ACCEPTED

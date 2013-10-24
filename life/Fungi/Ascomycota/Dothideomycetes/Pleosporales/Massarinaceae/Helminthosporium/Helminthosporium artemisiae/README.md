@@ -1,5 +1,4 @@
-Helminthosporium artemisiae Corda SPECIES
-=======
+# Helminthosporium artemisiae Corda SPECIES
 
 #### Status
 ACCEPTED

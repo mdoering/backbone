@@ -1,5 +1,4 @@
-Parapeltella funtumiae (Hansf.) Bat. SPECIES
-=======
+# Parapeltella funtumiae (Hansf.) Bat. SPECIES
 
 #### Status
 ACCEPTED

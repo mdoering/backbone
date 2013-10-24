@@ -1,5 +1,4 @@
-Poculopsis Kirschst. GENUS
-=======
+# Poculopsis Kirschst. GENUS
 
 #### Status
 ACCEPTED

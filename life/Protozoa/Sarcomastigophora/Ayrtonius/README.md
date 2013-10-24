@@ -1,5 +1,4 @@
-Ayrtonius Sugiyama, 1997 GENUS
-=======
+# Ayrtonius Sugiyama, 1997 GENUS
 
 #### Status
 ACCEPTED

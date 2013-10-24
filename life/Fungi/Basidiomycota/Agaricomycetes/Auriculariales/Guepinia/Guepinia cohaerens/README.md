@@ -1,5 +1,4 @@
-Guepinia cohaerens Miq. SPECIES
-=======
+# Guepinia cohaerens Miq. SPECIES
 
 #### Status
 ACCEPTED

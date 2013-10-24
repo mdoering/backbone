@@ -1,5 +1,4 @@
-Malbranchea pulveracea (Ellis) Sumst. SPECIES
-=======
+# Malbranchea pulveracea (Ellis) Sumst. SPECIES
 
 #### Status
 ACCEPTED

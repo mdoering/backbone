@@ -1,5 +1,4 @@
-Actinomyces innominatus E. Bald. SPECIES
-=======
+# Actinomyces innominatus E. Bald. SPECIES
 
 #### Status
 ACCEPTED

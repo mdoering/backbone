@@ -1,5 +1,4 @@
-Buellia sancti-paulii SPECIES
-=======
+# Buellia sancti-paulii SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Cetraspora spinosissima (C. Walker & Cuenca) Oehl, F.A. Souza & Sieverd., 2008 SPECIES
-=======
+# Scutellospora spinosissima C. Walker & Cuenca, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Walker, Cuenca & Sánchez, Ann. Bot. , Lond. , n. s. 82(6): 723 (1998)
 
 #### Original name
-null
+Scutellospora spinosissima C. Walker & Cuenca, 1998
 
 ### Remarks
 null

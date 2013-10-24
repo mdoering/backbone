@@ -1,5 +1,4 @@
-Alectoria americana Motyka SPECIES
-=======
+# Alectoria americana Motyka SPECIES
 
 #### Status
 ACCEPTED

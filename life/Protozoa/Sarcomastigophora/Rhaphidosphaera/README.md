@@ -1,5 +1,4 @@
-Rhaphidosphaera Haeckel, 1881 GENUS
-=======
+# Rhaphidosphaera Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

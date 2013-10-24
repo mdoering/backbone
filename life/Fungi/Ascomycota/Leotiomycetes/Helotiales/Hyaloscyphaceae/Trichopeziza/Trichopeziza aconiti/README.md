@@ -1,5 +1,4 @@
-Trichopeziza aconiti (Saut.) Sacc. SPECIES
-=======
+# Trichopeziza aconiti (Saut.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

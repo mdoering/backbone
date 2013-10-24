@@ -1,5 +1,4 @@
-Heterochaetella GENUS
-=======
+# Heterochaetella GENUS
 
 #### Status
 ACCEPTED

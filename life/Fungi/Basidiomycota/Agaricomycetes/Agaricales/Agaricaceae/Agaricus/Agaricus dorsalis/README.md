@@ -1,5 +1,4 @@
-Agaricus dorsalis Bosc SPECIES
-=======
+# Agaricus dorsalis Bosc SPECIES
 
 #### Status
 ACCEPTED

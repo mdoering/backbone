@@ -1,5 +1,4 @@
-Agaricus bulbillosa Fr. SPECIES
-=======
+# Agaricus bulbillosa Fr. SPECIES
 
 #### Status
 ACCEPTED

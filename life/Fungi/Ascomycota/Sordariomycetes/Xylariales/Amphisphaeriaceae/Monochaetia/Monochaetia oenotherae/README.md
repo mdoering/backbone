@@ -1,5 +1,4 @@
-Monochaetia oenotherae (Ellis & Barthol.) Sacc. SPECIES
-=======
+# Monochaetia oenotherae (Ellis & Barthol.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

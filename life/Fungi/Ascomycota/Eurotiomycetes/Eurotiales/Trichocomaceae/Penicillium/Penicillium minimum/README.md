@@ -1,5 +1,4 @@
-Penicillium minimum Siebermann {?} SPECIES
-=======
+# Penicillium minimum Siebermann {?} SPECIES
 
 #### Status
 ACCEPTED

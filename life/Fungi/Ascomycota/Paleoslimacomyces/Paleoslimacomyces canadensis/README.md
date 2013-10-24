@@ -1,5 +1,4 @@
-Paleoslimacomyces canadensis Kalgutkar & Sigler SPECIES
-=======
+# Paleoslimacomyces canadensis Kalgutkar & Sigler SPECIES
 
 #### Status
 ACCEPTED

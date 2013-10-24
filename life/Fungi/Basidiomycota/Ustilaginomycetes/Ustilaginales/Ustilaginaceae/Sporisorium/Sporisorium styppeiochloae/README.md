@@ -1,5 +1,4 @@
-Sporisorium styppeiochloae (Dennis & M.B. Ellis) Vánky SPECIES
-=======
+# Sporisorium styppeiochloae (Dennis & M.B. Ellis) Vánky SPECIES
 
 #### Status
 ACCEPTED

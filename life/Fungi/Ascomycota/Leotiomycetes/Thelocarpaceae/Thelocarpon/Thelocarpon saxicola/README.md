@@ -1,14 +1,13 @@
-Thelocarpon epibolum var. saxicola Zahlbr. VARIETY
-=======
+# Thelocarpon saxicola (Zahlbr.) H. Magn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Cat. Lich. Univers. 5: 3 (1927)
+Rabenh. Krypt. -Fl. (Leipzig) 9(5. 1): 297 (1935)
 
 #### Original name
 Thelocarpon epibolum var. saxicola Zahlbr.

@@ -1,5 +1,4 @@
-Aspergillus aurantiobrunneus Raper & Fennell, 1965 SPECIES
-=======
+# Aspergillus aurantiobrunneus Raper & Fennell, 1965 SPECIES
 
 #### Status
 ACCEPTED

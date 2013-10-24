@@ -1,5 +1,4 @@
-Helminthocarponomyces lojkani Cif. & Tomas. SPECIES
-=======
+# Helminthocarponomyces lojkani Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

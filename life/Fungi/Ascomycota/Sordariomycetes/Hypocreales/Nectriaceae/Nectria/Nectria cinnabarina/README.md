@@ -1,17 +1,16 @@
-Sphaeria decolorans var. decolorans VARIETY
-=======
+# Nectria cinnabarina (Tode) Fr., 1849 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Summa veg. Scand. (Stockholm), Section Post. 388 (1849)
 
 #### Original name
-null
+Sphaeria cinnabarina Pers., 1818
 
 ### Remarks
 null

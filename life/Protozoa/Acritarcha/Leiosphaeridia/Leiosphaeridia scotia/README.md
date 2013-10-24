@@ -1,5 +1,4 @@
-Leiosphaeridia scotia Utting, 1987 SPECIES
-=======
+# Leiosphaeridia scotia Utting, 1987 SPECIES
 
 #### Status
 ACCEPTED

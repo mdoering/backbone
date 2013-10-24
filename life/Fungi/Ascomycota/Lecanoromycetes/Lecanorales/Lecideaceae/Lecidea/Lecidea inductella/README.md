@@ -1,5 +1,4 @@
-Lecidea inductella Nyl. SPECIES
-=======
+# Lecidea inductella Nyl. SPECIES
 
 #### Status
 ACCEPTED

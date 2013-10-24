@@ -1,5 +1,4 @@
-Collybia tetrachroa Singer SPECIES
-=======
+# Collybia tetrachroa Singer SPECIES
 
 #### Status
 ACCEPTED

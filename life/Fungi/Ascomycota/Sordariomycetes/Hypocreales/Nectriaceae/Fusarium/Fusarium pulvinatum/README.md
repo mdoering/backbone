@@ -1,5 +1,4 @@
-Fusarium pulvinatum (Berk. & Broome) Sacc. SPECIES
-=======
+# Fusarium pulvinatum (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

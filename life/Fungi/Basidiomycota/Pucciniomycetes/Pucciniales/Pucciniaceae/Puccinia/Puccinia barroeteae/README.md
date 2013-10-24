@@ -1,17 +1,16 @@
-Puccinia barroetiae P. Syd. & Syd. SPECIES
-=======
+# Puccinia barroeteae P. Syd. & Syd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Monogr. Uredin. (Lipsiae) 1(1): 28 (1902)
 
 #### Original name
-Puccinia barroetiae P. Syd. & Syd.
+Puccinia barroeteae P. Syd. & Syd.
 
 ### Remarks
 null

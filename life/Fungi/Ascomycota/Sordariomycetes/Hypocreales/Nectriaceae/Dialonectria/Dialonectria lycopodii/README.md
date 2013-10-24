@@ -1,5 +1,4 @@
-Dialonectria lycopodii (Lév.) Cooke SPECIES
-=======
+# Dialonectria lycopodii (Lév.) Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma foetidum Hesler SPECIES
-=======
+# Entoloma foetidum Hesler SPECIES
 
 #### Status
 ACCEPTED

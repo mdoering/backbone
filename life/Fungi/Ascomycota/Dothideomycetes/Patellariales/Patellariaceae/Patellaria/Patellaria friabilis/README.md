@@ -1,5 +1,4 @@
-Patellaria friabilis (Vill.) Trevis. SPECIES
-=======
+# Patellaria friabilis (Vill.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

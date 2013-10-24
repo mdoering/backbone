@@ -1,5 +1,4 @@
-Cristella donkii Parmasto SPECIES
-=======
+# Cristella donkii Parmasto SPECIES
 
 #### Status
 ACCEPTED

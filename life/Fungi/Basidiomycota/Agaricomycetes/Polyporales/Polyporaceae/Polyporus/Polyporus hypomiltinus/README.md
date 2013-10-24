@@ -1,5 +1,4 @@
-Polyporus hypomiltinus Bres. SPECIES
-=======
+# Polyporus hypomiltinus Bres. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Penicillium incrustans Paden SPECIES
-=======
+# Penicillium incrustans Paden SPECIES
 
 #### Status
 ACCEPTED

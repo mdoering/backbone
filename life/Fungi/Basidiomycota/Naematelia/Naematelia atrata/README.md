@@ -1,5 +1,4 @@
-Naematelia atrata Peck SPECIES
-=======
+# Naematelia atrata Peck SPECIES
 
 #### Status
 ACCEPTED

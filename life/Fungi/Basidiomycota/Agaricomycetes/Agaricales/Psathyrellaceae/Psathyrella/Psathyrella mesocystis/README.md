@@ -1,5 +1,4 @@
-Psathyrella mesocystis A.H. Sm. SPECIES
-=======
+# Psathyrella mesocystis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

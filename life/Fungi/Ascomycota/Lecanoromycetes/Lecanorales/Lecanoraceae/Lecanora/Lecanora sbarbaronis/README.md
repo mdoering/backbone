@@ -1,5 +1,4 @@
-Lecanora sbarbaronis (B. de Lesd.) Zahlbr. SPECIES
-=======
+# Lecanora sbarbaronis (B. de Lesd.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

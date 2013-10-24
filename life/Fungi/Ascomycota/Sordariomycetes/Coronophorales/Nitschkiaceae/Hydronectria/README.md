@@ -1,5 +1,4 @@
-Hydronectria Kirschst. GENUS
-=======
+# Hydronectria Kirschst. GENUS
 
 #### Status
 ACCEPTED

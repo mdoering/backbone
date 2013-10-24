@@ -1,17 +1,16 @@
-Lecidea soredizodes f. phacenterodes (Nyl.) Vain. FORM
-=======
+# Porpidia rugosa (Taylor) Coppins & Fryday SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lichenologist 37(1): 29 (2005)
 
 #### Original name
-Lecidea phacenterodes Nyl.
+Endocarpon rugosum Taylor
 
 ### Remarks
 null

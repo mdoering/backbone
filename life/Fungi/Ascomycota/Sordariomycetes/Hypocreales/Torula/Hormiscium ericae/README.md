@@ -1,5 +1,4 @@
-Hormiscium ericae Unamuno SPECIES
-=======
+# Hormiscium ericae Unamuno SPECIES
 
 #### Status
 ACCEPTED

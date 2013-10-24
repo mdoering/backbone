@@ -1,5 +1,4 @@
-Psathyrella cuspidata A.H. Sm. SPECIES
-=======
+# Psathyrella cuspidata A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

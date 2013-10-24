@@ -1,5 +1,4 @@
-Boletus roxanae Frost SPECIES
-=======
+# Boletus roxanae Frost SPECIES
 
 #### Status
 ACCEPTED

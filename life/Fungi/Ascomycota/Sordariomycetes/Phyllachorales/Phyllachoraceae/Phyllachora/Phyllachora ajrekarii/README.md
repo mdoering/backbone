@@ -1,17 +1,16 @@
-Phyllachora ajrekari Syd. & P. Syd. SPECIES
-=======
+# Phyllachora ajrekarii Syd. & P. Syd., 1912 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 10(4): 408 (1912)
 
 #### Original name
-Phyllachora ajrekari Syd. & P. Syd.
+Phyllachora ajrekarii Syd. & P. Syd., 1912
 
 ### Remarks
 null

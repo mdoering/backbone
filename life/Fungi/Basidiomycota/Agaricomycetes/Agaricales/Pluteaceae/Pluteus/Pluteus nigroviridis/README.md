@@ -1,5 +1,4 @@
-Pluteus nigroviridis Babos SPECIES
-=======
+# Pluteus nigroviridis Babos SPECIES
 
 #### Status
 ACCEPTED

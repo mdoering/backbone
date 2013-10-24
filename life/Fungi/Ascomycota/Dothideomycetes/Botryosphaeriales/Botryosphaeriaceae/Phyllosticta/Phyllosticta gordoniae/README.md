@@ -1,5 +1,4 @@
-Phyllosticta gordoniae Ellis & Everh. SPECIES
-=======
+# Phyllosticta gordoniae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

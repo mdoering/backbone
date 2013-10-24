@@ -1,5 +1,4 @@
-Pestalotiopsis smilacis (Schwein.) B. Sutton SPECIES
-=======
+# Pestalotiopsis smilacis (Schwein.) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

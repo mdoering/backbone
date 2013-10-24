@@ -1,5 +1,4 @@
-Coniothyrium bupleuri-fruticosi Petr. & Syd. SPECIES
-=======
+# Coniothyrium bupleuri-fruticosi Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

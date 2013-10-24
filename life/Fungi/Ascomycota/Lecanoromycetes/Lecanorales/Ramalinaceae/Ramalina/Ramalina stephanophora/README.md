@@ -1,5 +1,4 @@
-Ramalina stephanophora (Zahlbr.) Kashiw. & Kalb SPECIES
-=======
+# Ramalina stephanophora (Zahlbr.) Kashiw. & Kalb SPECIES
 
 #### Status
 ACCEPTED

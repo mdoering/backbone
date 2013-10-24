@@ -1,5 +1,4 @@
-Flammula chrysotrichoides Murrill SPECIES
-=======
+# Flammula chrysotrichoides Murrill SPECIES
 
 #### Status
 ACCEPTED

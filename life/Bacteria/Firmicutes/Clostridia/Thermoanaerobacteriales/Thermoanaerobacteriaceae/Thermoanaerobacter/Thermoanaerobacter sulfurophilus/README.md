@@ -1,5 +1,4 @@
-Thermoanaerobacter sulfurophilus Bonch-Osmolovskaya, 1998 SPECIES
-=======
+# Thermoanaerobacter sulfurophilus Bonch-Osmolovskaya, 1998 SPECIES
 
 #### Status
 ACCEPTED

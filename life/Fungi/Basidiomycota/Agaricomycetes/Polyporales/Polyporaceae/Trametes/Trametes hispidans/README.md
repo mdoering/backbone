@@ -1,5 +1,4 @@
-Trametes hispidans Berk. ex G. Cunn. SPECIES
-=======
+# Trametes hispidans Berk. ex G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

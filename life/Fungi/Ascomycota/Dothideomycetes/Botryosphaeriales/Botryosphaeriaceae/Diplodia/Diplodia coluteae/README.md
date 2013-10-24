@@ -1,5 +1,4 @@
-Diplodia coluteae Schnabl SPECIES
-=======
+# Diplodia coluteae Schnabl SPECIES
 
 #### Status
 ACCEPTED

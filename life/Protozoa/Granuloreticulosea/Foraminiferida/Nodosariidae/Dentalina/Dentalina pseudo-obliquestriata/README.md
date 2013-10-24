@@ -1,5 +1,4 @@
-Dentalina pseudo-obliquestriata (Plummer) SPECIES
-=======
+# Dentalina pseudo-obliquestriata (Plummer) SPECIES
 
 #### Status
 ACCEPTED

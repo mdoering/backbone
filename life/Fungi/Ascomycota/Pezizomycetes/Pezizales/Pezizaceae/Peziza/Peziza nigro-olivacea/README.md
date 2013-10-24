@@ -1,5 +1,4 @@
-Peziza nigro-olivacea Schwein. SPECIES
-=======
+# Peziza nigro-olivacea Schwein. SPECIES
 
 #### Status
 ACCEPTED

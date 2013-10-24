@@ -1,5 +1,4 @@
-Leprocaulon australasicum Elix SPECIES
-=======
+# Leprocaulon australasicum Elix SPECIES
 
 #### Status
 ACCEPTED

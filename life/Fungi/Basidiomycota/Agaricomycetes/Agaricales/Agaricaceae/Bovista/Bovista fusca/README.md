@@ -1,5 +1,4 @@
-Bovista fusca Lév. SPECIES
-=======
+# Bovista fusca Lév. SPECIES
 
 #### Status
 ACCEPTED

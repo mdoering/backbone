@@ -1,5 +1,4 @@
-Phlegmacium hillieri (Rob. Henry) M.M. Moser SPECIES
-=======
+# Phlegmacium hillieri (Rob. Henry) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

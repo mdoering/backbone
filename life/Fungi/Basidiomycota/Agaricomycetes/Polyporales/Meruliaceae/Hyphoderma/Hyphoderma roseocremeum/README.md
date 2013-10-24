@@ -1,14 +1,13 @@
-Corticium roseocremeum Bres., 1905 SPECIES
-=======
+# Hyphoderma roseocremeum (Bres.) Donk, 1957 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 3(2): 163 (1905)
+Fungus, Wageningen 27: 15 (1957)
 
 #### Original name
 Corticium roseocremeum Bres., 1905

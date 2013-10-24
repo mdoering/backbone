@@ -1,5 +1,4 @@
-Erioderma sorediatum D. J. Galloway & P. M. Jørg. SPECIES
-=======
+# Erioderma sorediatum D. J. Galloway & P. M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

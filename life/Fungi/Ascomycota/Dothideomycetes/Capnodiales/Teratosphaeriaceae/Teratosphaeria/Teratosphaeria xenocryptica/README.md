@@ -1,5 +1,4 @@
-Teratosphaeria xenocryptica Crous & M.J. Wingf., 2009 SPECIES
-=======
+# Teratosphaeria xenocryptica Crous & M.J. Wingf., 2009 SPECIES
 
 #### Status
 ACCEPTED

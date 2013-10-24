@@ -1,5 +1,4 @@
-Chamaeceras cyathiformis (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Chamaeceras cyathiformis (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ophiobolus dracocephali-altajensis Murashk. SPECIES
-=======
+# Ophiobolus dracocephali-altajensis Murashk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Enterovibrio nigricans Pascual, Macian, Arahal, Garay & Pujalte, 2009 SPECIES
-=======
+# Enterovibrio nigricans Pascual, Macian, Arahal, Garay & Pujalte, 2009 SPECIES
 
 #### Status
 ACCEPTED

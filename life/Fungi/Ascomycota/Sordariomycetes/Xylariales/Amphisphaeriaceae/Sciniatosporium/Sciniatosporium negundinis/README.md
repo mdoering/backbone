@@ -1,5 +1,4 @@
-Sciniatosporium negundinis (Berk. & M.A. Curtis) Morgan-Jones SPECIES
-=======
+# Sciniatosporium negundinis (Berk. & M.A. Curtis) Morgan-Jones SPECIES
 
 #### Status
 ACCEPTED

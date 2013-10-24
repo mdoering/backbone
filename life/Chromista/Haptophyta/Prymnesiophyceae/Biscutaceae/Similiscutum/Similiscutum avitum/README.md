@@ -1,5 +1,4 @@
-Similiscutum avitum SPECIES
-=======
+# Similiscutum avitum SPECIES
 
 #### Status
 ACCEPTED

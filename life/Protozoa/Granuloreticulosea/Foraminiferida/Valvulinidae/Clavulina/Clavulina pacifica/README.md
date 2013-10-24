@@ -1,5 +1,4 @@
-Clavulina pacifica Cushman SPECIES
-=======
+# Clavulina pacifica Cushman SPECIES
 
 #### Status
 ACCEPTED

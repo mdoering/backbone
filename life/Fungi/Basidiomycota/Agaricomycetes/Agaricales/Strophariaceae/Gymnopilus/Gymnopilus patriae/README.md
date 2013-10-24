@@ -1,5 +1,4 @@
-Gymnopilus patriae B.J. Rees SPECIES
-=======
+# Gymnopilus patriae B.J. Rees SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pannaria symptychia Tuck. SPECIES
-=======
+# Pannaria symptychia Tuck. SPECIES
 
 #### Status
 ACCEPTED

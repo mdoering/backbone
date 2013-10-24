@@ -1,5 +1,4 @@
-Vorticella invaginata Dumas SPECIES
-=======
+# Vorticella invaginata Dumas SPECIES
 
 #### Status
 ACCEPTED

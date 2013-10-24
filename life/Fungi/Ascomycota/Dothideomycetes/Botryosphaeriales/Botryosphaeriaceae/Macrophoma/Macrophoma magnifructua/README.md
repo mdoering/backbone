@@ -1,5 +1,4 @@
-Macrophoma magnifructua (Peck) Sacc. SPECIES
-=======
+# Macrophoma magnifructua (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

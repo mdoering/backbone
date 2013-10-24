@@ -1,5 +1,4 @@
-Eponides tenera SPECIES
-=======
+# Eponides tenera SPECIES
 
 #### Status
 ACCEPTED

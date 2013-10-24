@@ -1,5 +1,4 @@
-Septoria zingiberis Sundaram SPECIES
-=======
+# Septoria zingiberis Sundaram SPECIES
 
 #### Status
 ACCEPTED

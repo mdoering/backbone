@@ -1,5 +1,4 @@
-Arthonia garajonayi Etayo SPECIES
-=======
+# Arthonia garajonayi Etayo SPECIES
 
 #### Status
 ACCEPTED

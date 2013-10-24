@@ -1,5 +1,4 @@
-Aecidium tristagmatis Jørst. SPECIES
-=======
+# Aecidium tristagmatis Jørst. SPECIES
 
 #### Status
 ACCEPTED

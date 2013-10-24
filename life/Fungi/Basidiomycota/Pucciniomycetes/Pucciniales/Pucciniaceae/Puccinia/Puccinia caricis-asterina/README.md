@@ -1,17 +1,16 @@
-Puccinia cariciasterina Y. Harada SPECIES
-=======
+# Puccinia caricis-asterina Y. Harada SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Trans. Mycol. Soc. Japan 18(4): 351 (1977)
 
 #### Original name
-Puccinia cariciasterina Y. Harada
+Puccinia caricis-asterina Y. Harada
 
 ### Remarks
 null

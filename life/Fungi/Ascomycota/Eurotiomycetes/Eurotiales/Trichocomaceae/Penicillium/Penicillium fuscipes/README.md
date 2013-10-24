@@ -1,5 +1,4 @@
-Penicillium fuscipes Preuss SPECIES
-=======
+# Penicillium fuscipes Preuss SPECIES
 
 #### Status
 ACCEPTED

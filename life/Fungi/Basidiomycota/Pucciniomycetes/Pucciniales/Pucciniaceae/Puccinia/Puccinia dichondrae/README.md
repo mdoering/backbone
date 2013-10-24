@@ -1,14 +1,13 @@
-Dicaeoma dichondrae (Mont.) Kuntze, 1898 SPECIES
-=======
+# Puccinia dichondrae Mont., 1852 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 468 (1898)
+in Gay, Hist. fis. y Politic. Chile, Bot. 8: 46 (1852)
 
 #### Original name
 Puccinia dichondrae Mont., 1852

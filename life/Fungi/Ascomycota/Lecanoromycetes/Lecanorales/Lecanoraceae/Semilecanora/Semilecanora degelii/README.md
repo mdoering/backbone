@@ -1,5 +1,4 @@
-Semilecanora degelii (T. Schauer & Brodo) Motyka SPECIES
-=======
+# Semilecanora degelii (T. Schauer & Brodo) Motyka SPECIES
 
 #### Status
 ACCEPTED

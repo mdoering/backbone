@@ -1,5 +1,4 @@
-Pistillaria gracilis Pat. SPECIES
-=======
+# Pistillaria gracilis Pat. SPECIES
 
 #### Status
 ACCEPTED

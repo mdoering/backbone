@@ -1,5 +1,4 @@
-Lecanora wrightiana Zahlbr. SPECIES
-=======
+# Lecanora wrightiana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

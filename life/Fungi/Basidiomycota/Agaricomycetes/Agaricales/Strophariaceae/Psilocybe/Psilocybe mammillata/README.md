@@ -1,5 +1,4 @@
-Psilocybe mammillata (Murrill) A.H. Sm. SPECIES
-=======
+# Psilocybe mammillata (Murrill) A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

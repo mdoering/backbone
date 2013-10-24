@@ -1,5 +1,4 @@
-Plesiomonas GENUS
-=======
+# Plesiomonas GENUS
 
 #### Status
 ACCEPTED

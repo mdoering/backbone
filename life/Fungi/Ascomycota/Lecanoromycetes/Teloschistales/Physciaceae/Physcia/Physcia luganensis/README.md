@@ -1,5 +1,4 @@
-Physcia luganensis Merezhko SPECIES
-=======
+# Physcia luganensis Merezhko SPECIES
 
 #### Status
 ACCEPTED

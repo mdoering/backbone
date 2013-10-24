@@ -1,5 +1,4 @@
-Pseudocercospora phyllitidis (H.H. Hume) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora phyllitidis (H.H. Hume) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

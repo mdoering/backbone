@@ -1,5 +1,4 @@
-Lecanora turneriana SPECIES
-=======
+# Lecanora turneriana SPECIES
 
 #### Status
 ACCEPTED

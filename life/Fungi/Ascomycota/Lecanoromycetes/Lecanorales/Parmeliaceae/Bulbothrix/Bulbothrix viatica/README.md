@@ -1,5 +1,4 @@
-Bulbothrix viatica A. A. Spielm. & Marcelli SPECIES
-=======
+# Bulbothrix viatica A. A. Spielm. & Marcelli SPECIES
 
 #### Status
 ACCEPTED

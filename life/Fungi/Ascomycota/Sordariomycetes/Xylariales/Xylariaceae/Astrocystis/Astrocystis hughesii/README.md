@@ -1,5 +1,4 @@
-Astrocystis hughesii Laessøe & Spooner SPECIES
-=======
+# Astrocystis hughesii Laessøe & Spooner SPECIES
 
 #### Status
 ACCEPTED

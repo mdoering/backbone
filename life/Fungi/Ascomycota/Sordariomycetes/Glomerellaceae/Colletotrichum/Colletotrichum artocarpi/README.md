@@ -1,5 +1,4 @@
-Colletotrichum artocarpi Delacr. SPECIES
-=======
+# Colletotrichum artocarpi Delacr. SPECIES
 
 #### Status
 ACCEPTED

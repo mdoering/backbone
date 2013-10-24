@@ -1,5 +1,4 @@
-Lecidea araucariae Müll. Arg. SPECIES
-=======
+# Lecidea araucariae Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

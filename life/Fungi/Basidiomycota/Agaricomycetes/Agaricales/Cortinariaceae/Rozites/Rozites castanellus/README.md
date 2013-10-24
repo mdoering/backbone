@@ -1,5 +1,4 @@
-Rozites castanellus E. Horak & G.M. Taylor SPECIES
-=======
+# Rozites castanellus E. Horak & G.M. Taylor SPECIES
 
 #### Status
 ACCEPTED

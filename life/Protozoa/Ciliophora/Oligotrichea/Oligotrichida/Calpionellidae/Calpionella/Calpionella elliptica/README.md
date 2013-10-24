@@ -1,5 +1,4 @@
-Calpionella elliptica Cadisch, 1932 SPECIES
-=======
+# Calpionella elliptica Cadisch, 1932 SPECIES
 
 #### Status
 ACCEPTED

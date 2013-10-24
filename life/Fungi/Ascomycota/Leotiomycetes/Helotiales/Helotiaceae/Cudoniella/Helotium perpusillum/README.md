@@ -1,5 +1,4 @@
-Helotium perpusillum Desm. SPECIES
-=======
+# Helotium perpusillum Desm. SPECIES
 
 #### Status
 ACCEPTED

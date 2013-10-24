@@ -1,14 +1,13 @@
-Caeoma nitens (Schwein.) Newcombe {?}, 1890 SPECIES
-=======
+# Gymnoconia nitens (Schwein.) F. Kern & Thurst., 1929 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bulletin of the Penn. State College 239: 16 (1929)
 
 #### Original name
 Aecidium nitens Schwein., 1822

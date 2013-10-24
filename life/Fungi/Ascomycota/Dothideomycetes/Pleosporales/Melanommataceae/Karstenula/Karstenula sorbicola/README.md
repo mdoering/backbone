@@ -1,5 +1,4 @@
-Karstenula sorbicola Petr. SPECIES
-=======
+# Karstenula sorbicola Petr. SPECIES
 
 #### Status
 ACCEPTED

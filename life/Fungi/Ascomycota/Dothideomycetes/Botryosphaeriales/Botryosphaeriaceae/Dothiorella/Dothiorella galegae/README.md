@@ -1,5 +1,4 @@
-Dothiorella galegae Sacc. SPECIES
-=======
+# Dothiorella galegae Sacc. SPECIES
 
 #### Status
 ACCEPTED

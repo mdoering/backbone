@@ -1,5 +1,4 @@
-Asteroma corallinum Mont. SPECIES
-=======
+# Asteroma corallinum Mont. SPECIES
 
 #### Status
 ACCEPTED

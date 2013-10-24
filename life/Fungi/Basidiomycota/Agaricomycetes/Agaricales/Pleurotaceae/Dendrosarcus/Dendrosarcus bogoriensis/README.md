@@ -1,5 +1,4 @@
-Dendrosarcus bogoriensis (Lév.) Kuntze SPECIES
-=======
+# Dendrosarcus bogoriensis (Lév.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

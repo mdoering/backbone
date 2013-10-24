@@ -1,5 +1,4 @@
-Stemphyliopsis ovorum Petch SPECIES
-=======
+# Stemphyliopsis ovorum Petch SPECIES
 
 #### Status
 ACCEPTED

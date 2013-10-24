@@ -1,17 +1,16 @@
-Microsphaera rhmnicola Y.N. Yu SPECIES
-=======
+# Microsphaera rhamnicola Y.N. Yu SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Yu & Lai, Acta microbiol. sin. 21(1): 18 (1981)
 
 #### Original name
-Microsphaera rhmnicola Y.N. Yu
+Microsphaera rhamnicola Y.N. Yu
 
 ### Remarks
 null

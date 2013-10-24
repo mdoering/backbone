@@ -1,14 +1,13 @@
-Diaporthe fasciculata var. meliloti Sacc., 1910 VARIETY
-=======
+# Diaporthe meliloti (Sacc.) Traverso, 1906 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 19: 568 (1910)
+null
 
 #### Original name
 Diaporthe fasciculata var. meliloti Sacc., 1910

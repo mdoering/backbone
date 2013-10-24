@@ -1,5 +1,4 @@
-Graphium pallescens (Fuckel) Magnus, 1905 SPECIES
-=======
+# Graphium pallescens (Fuckel) Magnus, 1905 SPECIES
 
 #### Status
 ACCEPTED

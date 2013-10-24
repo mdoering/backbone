@@ -1,5 +1,4 @@
-Pseudoclavulina robusta Zheng, 1988 SPECIES
-=======
+# Pseudoclavulina robusta Zheng, 1988 SPECIES
 
 #### Status
 ACCEPTED

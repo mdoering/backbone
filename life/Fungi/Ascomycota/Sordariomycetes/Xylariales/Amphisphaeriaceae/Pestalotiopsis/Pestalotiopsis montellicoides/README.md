@@ -1,5 +1,4 @@
-Pestalotiopsis montellicoides Mordue SPECIES
-=======
+# Pestalotiopsis montellicoides Mordue SPECIES
 
 #### Status
 ACCEPTED

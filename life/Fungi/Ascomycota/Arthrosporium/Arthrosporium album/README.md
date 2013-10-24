@@ -1,5 +1,4 @@
-Arthrosporium album Sumst. SPECIES
-=======
+# Arthrosporium album Sumst. SPECIES
 
 #### Status
 ACCEPTED

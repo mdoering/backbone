@@ -1,5 +1,4 @@
-Amanita melleiceps Hongo SPECIES
-=======
+# Amanita melleiceps Hongo SPECIES
 
 #### Status
 ACCEPTED

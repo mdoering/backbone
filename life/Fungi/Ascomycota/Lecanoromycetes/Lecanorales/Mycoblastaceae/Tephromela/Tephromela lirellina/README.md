@@ -1,5 +1,4 @@
-Tephromela lirellina (Darb.) Fryday SPECIES
-=======
+# Tephromela lirellina (Darb.) Fryday SPECIES
 
 #### Status
 ACCEPTED

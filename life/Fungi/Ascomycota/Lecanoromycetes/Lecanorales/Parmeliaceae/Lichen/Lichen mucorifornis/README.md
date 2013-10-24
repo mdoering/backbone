@@ -1,5 +1,4 @@
-Lichen mucorifornis Scop. SPECIES
-=======
+# Lichen mucorifornis Scop. SPECIES
 
 #### Status
 ACCEPTED

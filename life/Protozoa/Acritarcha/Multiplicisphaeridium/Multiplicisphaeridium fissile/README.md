@@ -1,5 +1,4 @@
-Multiplicisphaeridium fissile (Stockmans & Willière, 1963) Eisenack et al., 1973 SPECIES
-=======
+# Multiplicisphaeridium fissile (Stockmans & Willière, 1963) Eisenack et al., 1973 SPECIES
 
 #### Status
 ACCEPTED

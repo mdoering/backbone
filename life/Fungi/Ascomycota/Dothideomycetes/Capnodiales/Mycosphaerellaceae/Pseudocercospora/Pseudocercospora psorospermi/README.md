@@ -1,5 +1,4 @@
-Pseudocercospora psorospermi Deighton SPECIES
-=======
+# Pseudocercospora psorospermi Deighton SPECIES
 
 #### Status
 ACCEPTED

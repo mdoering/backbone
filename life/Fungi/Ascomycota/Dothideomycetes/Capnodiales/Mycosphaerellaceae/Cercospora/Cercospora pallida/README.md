@@ -1,5 +1,4 @@
-Cercospora pallida (Berk. & M.A. Curtis) Cooke SPECIES
-=======
+# Cercospora pallida (Berk. & M.A. Curtis) Cooke SPECIES
 
 #### Status
 ACCEPTED

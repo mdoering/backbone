@@ -1,5 +1,4 @@
-Lecanora meyeri Flot. SPECIES
-=======
+# Lecanora meyeri Flot. SPECIES
 
 #### Status
 ACCEPTED

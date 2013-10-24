@@ -1,5 +1,4 @@
-Isaria meliolae Hansf. SPECIES
-=======
+# Isaria meliolae Hansf. SPECIES
 
 #### Status
 ACCEPTED

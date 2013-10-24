@@ -1,5 +1,4 @@
-Chlorogloea gentilis Skuja SPECIES
-=======
+# Chlorogloea gentilis Skuja SPECIES
 
 #### Status
 ACCEPTED

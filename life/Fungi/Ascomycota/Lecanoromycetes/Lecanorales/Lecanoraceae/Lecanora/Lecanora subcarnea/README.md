@@ -1,14 +1,13 @@
-Verrucaria subcarnea (Sw.) Ach. SPECIES
-=======
+# Lecanora subcarnea (Lilj.) Ach. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lich. univ. 365 (1810)
 
 #### Original name
 Lichen subcarneus Sw.

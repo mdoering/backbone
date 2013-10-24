@@ -1,5 +1,4 @@
-Toninia granulosa var. granulosa VARIETY
-=======
+# Toninia granulosa (Michx.) Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Dansk bot. Ark. 4(no. 11): 20 (1926)
+null
 
 #### Original name
-Toninia granulosa var. granulosa
+null
 
 ### Remarks
 null

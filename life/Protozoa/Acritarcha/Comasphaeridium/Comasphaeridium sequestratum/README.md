@@ -1,5 +1,4 @@
-Comasphaeridium sequestratum (Loeblich, 1970) Eisenack et al., 1976 SPECIES
-=======
+# Comasphaeridium sequestratum (Loeblich, 1970) Eisenack et al., 1976 SPECIES
 
 #### Status
 ACCEPTED

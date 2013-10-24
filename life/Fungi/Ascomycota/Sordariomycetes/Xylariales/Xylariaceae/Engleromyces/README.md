@@ -1,17 +1,16 @@
-Cerillum Clem. GENUS
-=======
+# Engleromyces Henn. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Clements & Shear, Gen. fung. (Minneapolis), Edn 2 280 (1931)
+Bot. Jb. 28: 327 (1900)
 
 #### Original name
-Cerillum Clem.
+Engleromyces Henn.
 
 ### Remarks
 null

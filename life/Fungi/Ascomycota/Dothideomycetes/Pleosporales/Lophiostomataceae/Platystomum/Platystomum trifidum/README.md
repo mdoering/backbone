@@ -1,5 +1,4 @@
-Platystomum trifidum (Ellis & Everh.) Sacc. & D. Sacc. SPECIES
-=======
+# Platystomum trifidum (Ellis & Everh.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

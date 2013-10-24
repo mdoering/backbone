@@ -1,5 +1,4 @@
-Lecidea schisticola B. de Lesd. SPECIES
-=======
+# Lecidea schisticola B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena pseudopullata Herp. SPECIES
-=======
+# Mycena pseudopullata Herp. SPECIES
 
 #### Status
 ACCEPTED

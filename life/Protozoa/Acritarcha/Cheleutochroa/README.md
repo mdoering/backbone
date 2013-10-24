@@ -1,5 +1,4 @@
-Cheleutochroa A.R. Loeblich Jr. & H. Tappan, 1978 GENUS
-=======
+# Cheleutochroa A.R. Loeblich Jr. & H. Tappan, 1978 GENUS
 
 #### Status
 ACCEPTED

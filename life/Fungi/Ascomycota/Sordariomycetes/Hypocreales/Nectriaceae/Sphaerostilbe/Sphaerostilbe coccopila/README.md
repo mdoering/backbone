@@ -1,5 +1,4 @@
-Sphaerostilbe coccopila Tul. SPECIES
-=======
+# Sphaerostilbe coccopila Tul. SPECIES
 
 #### Status
 ACCEPTED

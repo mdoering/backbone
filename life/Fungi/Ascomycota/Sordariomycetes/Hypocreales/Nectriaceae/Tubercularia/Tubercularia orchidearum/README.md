@@ -1,5 +1,4 @@
-Tubercularia orchidearum Speg. SPECIES
-=======
+# Tubercularia orchidearum Speg. SPECIES
 
 #### Status
 ACCEPTED

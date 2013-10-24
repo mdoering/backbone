@@ -1,5 +1,4 @@
-Palleronia Martínez-Checa et al., 2005 GENUS
-=======
+# Palleronia Martínez-Checa et al., 2005 GENUS
 
 #### Status
 ACCEPTED

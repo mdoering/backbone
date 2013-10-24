@@ -1,5 +1,4 @@
-Humaria torosa (Quél.) Sacc. SPECIES
-=======
+# Humaria torosa (Quél.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

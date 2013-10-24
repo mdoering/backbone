@@ -1,5 +1,4 @@
-Gloniopsis lepophila Kirschst. SPECIES
-=======
+# Gloniopsis lepophila Kirschst. SPECIES
 
 #### Status
 ACCEPTED

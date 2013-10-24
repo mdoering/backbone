@@ -1,5 +1,4 @@
-Ceratolithus amplifus SPECIES
-=======
+# Ceratolithus amplifus SPECIES
 
 #### Status
 ACCEPTED

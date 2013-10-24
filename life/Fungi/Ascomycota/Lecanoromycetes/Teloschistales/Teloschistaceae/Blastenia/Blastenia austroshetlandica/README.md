@@ -1,5 +1,4 @@
-Blastenia austroshetlandica Zahlbr. SPECIES
-=======
+# Blastenia austroshetlandica Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

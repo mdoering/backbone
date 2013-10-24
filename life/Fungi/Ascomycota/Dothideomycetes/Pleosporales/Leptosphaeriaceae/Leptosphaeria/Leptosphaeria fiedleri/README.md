@@ -1,5 +1,4 @@
-Leptosphaeria fiedleri (Niessl) Sacc. SPECIES
-=======
+# Leptosphaeria fiedleri (Niessl) Sacc. SPECIES
 
 #### Status
 ACCEPTED

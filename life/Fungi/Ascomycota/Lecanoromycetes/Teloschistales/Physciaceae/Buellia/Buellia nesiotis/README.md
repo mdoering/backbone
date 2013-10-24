@@ -1,5 +1,4 @@
-Buellia nesiotis (Stizenb.) Zahlbr. SPECIES
-=======
+# Buellia nesiotis (Stizenb.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

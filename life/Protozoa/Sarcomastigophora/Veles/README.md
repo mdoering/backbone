@@ -1,5 +1,4 @@
-Veles Sugiyama, 1997 GENUS
-=======
+# Veles Sugiyama, 1997 GENUS
 
 #### Status
 ACCEPTED

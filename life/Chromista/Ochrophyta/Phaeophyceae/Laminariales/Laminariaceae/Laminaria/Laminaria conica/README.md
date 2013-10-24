@@ -1,5 +1,4 @@
-Laminaria conica Bory de St.-Vincent SPECIES
-=======
+# Laminaria conica Bory de St.-Vincent SPECIES
 
 #### Status
 ACCEPTED

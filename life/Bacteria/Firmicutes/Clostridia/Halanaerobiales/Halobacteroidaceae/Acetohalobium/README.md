@@ -1,5 +1,4 @@
-Acetohalobium Zhilina & Zavarzin, 1990 GENUS
-=======
+# Acetohalobium Zhilina & Zavarzin, 1990 GENUS
 
 #### Status
 ACCEPTED

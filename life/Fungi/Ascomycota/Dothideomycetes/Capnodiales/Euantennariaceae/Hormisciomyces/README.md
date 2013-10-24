@@ -1,5 +1,4 @@
-Hormisciomyces Bat. & Nascim. GENUS
-=======
+# Hormisciomyces Bat. & Nascim. GENUS
 
 #### Status
 ACCEPTED

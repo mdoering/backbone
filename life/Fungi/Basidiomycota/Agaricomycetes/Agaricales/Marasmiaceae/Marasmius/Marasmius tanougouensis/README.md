@@ -1,5 +1,4 @@
-Marasmius tanougouensis Antonín SPECIES
-=======
+# Marasmius tanougouensis Antonín SPECIES
 
 #### Status
 ACCEPTED

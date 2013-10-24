@@ -1,14 +1,13 @@
-Dacryomitra guepinioides (Berk.) Lloyd, 1921 SPECIES
-=======
+# Calocera guepinioides Berk., 1845 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. Bot. , London 4: 61 (1845)
 
 #### Original name
 Calocera guepinioides Berk., 1845

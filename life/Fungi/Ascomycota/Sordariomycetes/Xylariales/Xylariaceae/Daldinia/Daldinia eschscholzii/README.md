@@ -1,17 +1,16 @@
-Hypoxylon stratosum Sacc., 1891 SPECIES
-=======
+# Daldinia eschscholzii (Ehrenb.) Rehm, 1904 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 9: 544 (1891)
+Annls mycol. 2: 175 (1904)
 
 #### Original name
-Hypoxylon stratosum Sacc., 1891
+Sphaeria eschscholzii Ehrenb., 1820
 
 ### Remarks
 null

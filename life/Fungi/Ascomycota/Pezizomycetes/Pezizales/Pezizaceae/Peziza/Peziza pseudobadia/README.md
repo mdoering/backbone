@@ -1,5 +1,4 @@
-Peziza pseudobadia Cooke SPECIES
-=======
+# Peziza pseudobadia Cooke SPECIES
 
 #### Status
 ACCEPTED

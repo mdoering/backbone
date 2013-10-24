@@ -1,5 +1,4 @@
-Autoicomyces marginicola Thaxt. SPECIES
-=======
+# Autoicomyces marginicola Thaxt. SPECIES
 
 #### Status
 ACCEPTED

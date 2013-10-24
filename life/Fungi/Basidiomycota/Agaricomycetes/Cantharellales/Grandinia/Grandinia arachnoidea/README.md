@@ -1,5 +1,4 @@
-Grandinia arachnoidea Rick SPECIES
-=======
+# Grandinia arachnoidea Rick SPECIES
 
 #### Status
 ACCEPTED

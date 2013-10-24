@@ -1,5 +1,4 @@
-Balantidium blattarum SPECIES
-=======
+# Balantidium blattarum SPECIES
 
 #### Status
 ACCEPTED

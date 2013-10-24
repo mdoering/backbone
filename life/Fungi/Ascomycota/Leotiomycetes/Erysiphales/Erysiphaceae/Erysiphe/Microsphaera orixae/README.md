@@ -1,5 +1,4 @@
-Microsphaera orixae U. Braun & Tanada SPECIES
-=======
+# Microsphaera orixae U. Braun & Tanada SPECIES
 
 #### Status
 ACCEPTED

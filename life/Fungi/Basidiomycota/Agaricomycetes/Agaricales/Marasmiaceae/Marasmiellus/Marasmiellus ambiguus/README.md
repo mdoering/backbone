@@ -1,5 +1,4 @@
-Marasmiellus ambiguus Singer SPECIES
-=======
+# Marasmiellus ambiguus Singer SPECIES
 
 #### Status
 ACCEPTED

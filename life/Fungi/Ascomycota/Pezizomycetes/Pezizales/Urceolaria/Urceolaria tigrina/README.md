@@ -1,5 +1,4 @@
-Urceolaria tigrina (Hoffm.) Röhling SPECIES
-=======
+# Urceolaria tigrina (Hoffm.) Röhling SPECIES
 
 #### Status
 ACCEPTED

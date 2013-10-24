@@ -1,5 +1,4 @@
-Parmelia lithotea Ach. SPECIES
-=======
+# Parmelia lithotea Ach. SPECIES
 
 #### Status
 ACCEPTED

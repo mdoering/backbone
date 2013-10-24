@@ -1,5 +1,4 @@
-Lepteutypa biseptata Petr. SPECIES
-=======
+# Lepteutypa biseptata Petr. SPECIES
 
 #### Status
 ACCEPTED

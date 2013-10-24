@@ -1,5 +1,4 @@
-Trogia impartita Corner SPECIES
-=======
+# Trogia impartita Corner SPECIES
 
 #### Status
 ACCEPTED

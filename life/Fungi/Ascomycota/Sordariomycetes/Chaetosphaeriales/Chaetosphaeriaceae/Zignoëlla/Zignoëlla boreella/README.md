@@ -1,5 +1,4 @@
-Zignoëlla boreella P. Karst. SPECIES
-=======
+# Zignoëlla boreella P. Karst. SPECIES
 
 #### Status
 ACCEPTED

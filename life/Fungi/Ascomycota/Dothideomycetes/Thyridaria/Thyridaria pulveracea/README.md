@@ -1,5 +1,4 @@
-Thyridaria pulveracea (P. Karst.) Sacc. SPECIES
-=======
+# Thyridaria pulveracea (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

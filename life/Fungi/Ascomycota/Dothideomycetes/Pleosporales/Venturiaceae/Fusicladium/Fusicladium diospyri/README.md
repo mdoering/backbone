@@ -1,5 +1,4 @@
-Fusicladium diospyri Chona, Munjal & J.N. Kapoor SPECIES
-=======
+# Fusicladium diospyri Chona, Munjal & J.N. Kapoor SPECIES
 
 #### Status
 ACCEPTED

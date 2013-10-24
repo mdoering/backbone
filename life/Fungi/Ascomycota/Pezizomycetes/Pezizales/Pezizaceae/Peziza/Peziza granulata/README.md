@@ -1,17 +1,16 @@
-Peziza granulata var. granulata VARIETY
-=======
+# Peziza granulata SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
-Herb. Fr. 10: tab. 438, fig. 3 (1790)
+null
 
 #### Original name
-Peziza granulata var. granulata
+null
 
 ### Remarks
 null

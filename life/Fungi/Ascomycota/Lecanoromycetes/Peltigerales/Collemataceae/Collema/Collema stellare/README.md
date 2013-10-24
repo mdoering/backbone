@@ -1,5 +1,4 @@
-Collema stellare Pers. SPECIES
-=======
+# Collema stellare Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Excipula corvina (Pers.) Fr. SPECIES
-=======
+# Excipula corvina (Pers.) Fr. SPECIES
 
 #### Status
 ACCEPTED

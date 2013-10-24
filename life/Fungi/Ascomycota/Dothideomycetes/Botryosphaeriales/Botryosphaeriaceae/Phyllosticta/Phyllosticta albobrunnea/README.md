@@ -1,8 +1,7 @@
-Phyllosticta alba-brunnea Bubák & Wróbl. SPECIES
-=======
+# Phyllosticta albobrunnea Bubák & Wróbl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phyllosticta alba-brunnea Bubák & Wróbl.
+Phyllosticta albobrunnea Bubák & Wróbl.
 
 ### Remarks
 null

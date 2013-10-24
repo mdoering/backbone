@@ -1,14 +1,13 @@
-Mesorotalia McCulloch, 1977 GENUS
-=======
+# Buccella Andersen, 1952 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. Wash. Acad. Sci. , 42, 143.
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Bolbitius purifluus Lasch SPECIES
-=======
+# Bolbitius purifluus Lasch SPECIES
 
 #### Status
 ACCEPTED

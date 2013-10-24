@@ -1,5 +1,4 @@
-Miriquidica limitata Hertel & Rambold SPECIES
-=======
+# Miriquidica limitata Hertel & Rambold SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma gymnocladae Bat. SPECIES
-=======
+# Phoma gymnocladae Bat. SPECIES
 
 #### Status
 ACCEPTED

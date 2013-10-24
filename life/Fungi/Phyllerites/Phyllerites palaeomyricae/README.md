@@ -1,5 +1,4 @@
-Phyllerites palaeomyricae (Ettingsh.) Mesch. SPECIES
-=======
+# Phyllerites palaeomyricae (Ettingsh.) Mesch. SPECIES
 
 #### Status
 ACCEPTED

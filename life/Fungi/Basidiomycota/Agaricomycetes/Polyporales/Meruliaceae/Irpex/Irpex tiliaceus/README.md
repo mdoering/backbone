@@ -1,5 +1,4 @@
-Irpex tiliaceus Pilát SPECIES
-=======
+# Irpex tiliaceus Pilát SPECIES
 
 #### Status
 ACCEPTED

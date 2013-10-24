@@ -1,5 +1,4 @@
-Phyllosticta succedanea (Pass.) Allesch. SPECIES
-=======
+# Phyllosticta succedanea (Pass.) Allesch. SPECIES
 
 #### Status
 ACCEPTED

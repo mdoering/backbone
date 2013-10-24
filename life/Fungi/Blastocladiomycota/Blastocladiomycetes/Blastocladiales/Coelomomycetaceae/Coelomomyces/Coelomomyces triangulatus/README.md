@@ -1,5 +1,4 @@
-Coelomomyces triangulatus Couch & W.W. Martin SPECIES
-=======
+# Coelomomyces triangulatus Couch & W.W. Martin SPECIES
 
 #### Status
 ACCEPTED

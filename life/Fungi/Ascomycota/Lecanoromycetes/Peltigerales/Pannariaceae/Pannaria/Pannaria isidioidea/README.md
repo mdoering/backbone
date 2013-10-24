@@ -1,5 +1,4 @@
-Pannaria isidioidea var. isidioidea VARIETY
-=======
+# Pannaria isidioidea (Müll. Arg.) Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pannaria isidioidea var. isidioidea
+Pannaria mariana f. isidioidea Müll. Arg.
 
 ### Remarks
 null

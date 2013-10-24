@@ -1,17 +1,16 @@
-Porina mammillosa var. mammillosa (Th. Fr.) Zahlbr. VARIETY
-=======
+# Porina mammillosa (Th. Fr.) Vain. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Cat. Lich. Univers. 1: 393 (1922)
 
 #### Original name
-Porina mammillosa var. mammillosa (Th. Fr.) Zahlbr.
+Segestria mammillosa Th. Fr.
 
 ### Remarks
 null

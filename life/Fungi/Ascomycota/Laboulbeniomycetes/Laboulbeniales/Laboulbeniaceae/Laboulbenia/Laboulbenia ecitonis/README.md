@@ -1,5 +1,4 @@
-Laboulbenia ecitonis J. Blum SPECIES
-=======
+# Laboulbenia ecitonis J. Blum SPECIES
 
 #### Status
 ACCEPTED

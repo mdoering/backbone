@@ -1,5 +1,4 @@
-Lactarius pseudomaculatus Hesler & A.H. Sm. SPECIES
-=======
+# Lactarius pseudomaculatus Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

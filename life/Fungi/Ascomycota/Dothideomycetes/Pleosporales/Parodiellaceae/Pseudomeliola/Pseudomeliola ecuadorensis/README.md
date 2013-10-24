@@ -1,5 +1,4 @@
-Pseudomeliola ecuadorensis Syd. SPECIES
-=======
+# Pseudomeliola ecuadorensis Syd. SPECIES
 
 #### Status
 ACCEPTED

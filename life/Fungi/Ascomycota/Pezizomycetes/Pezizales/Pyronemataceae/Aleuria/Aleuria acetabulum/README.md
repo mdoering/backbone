@@ -1,5 +1,4 @@
-Aleuria acetabulum (L.) SPECIES
-=======
+# Aleuria acetabulum (L.) SPECIES
 
 #### Status
 ACCEPTED

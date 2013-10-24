@@ -1,5 +1,4 @@
-Didymosphaeria drabae Rostr. SPECIES
-=======
+# Didymosphaeria drabae Rostr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pluteus aporpus f. aporpus FORM
-=======
+# Pluteus aporpus Singer SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Sydowia 8(1-6): 122 (1954)
 
 #### Original name
-Pluteus aporpus f. aporpus
+Pluteus aporpus Singer
 
 ### Remarks
 null

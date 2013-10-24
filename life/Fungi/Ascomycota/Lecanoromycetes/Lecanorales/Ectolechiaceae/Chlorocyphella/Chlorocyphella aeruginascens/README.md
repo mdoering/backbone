@@ -1,5 +1,4 @@
-Chlorocyphella aeruginascens (P. Karst.) Keissl. SPECIES
-=======
+# Chlorocyphella aeruginascens (P. Karst.) Keissl. SPECIES
 
 #### Status
 ACCEPTED

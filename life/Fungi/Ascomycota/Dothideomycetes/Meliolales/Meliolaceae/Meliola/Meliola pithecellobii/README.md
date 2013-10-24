@@ -1,5 +1,4 @@
-Meliola pithecellobii F. Stevens & Tehon SPECIES
-=======
+# Meliola pithecellobii F. Stevens & Tehon SPECIES
 
 #### Status
 ACCEPTED

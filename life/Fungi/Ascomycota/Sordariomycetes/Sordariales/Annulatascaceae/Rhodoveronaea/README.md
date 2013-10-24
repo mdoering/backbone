@@ -1,5 +1,4 @@
-Rhodoveronaea Arzanlou, W. Gams & Crous GENUS
-=======
+# Rhodoveronaea Arzanlou, W. Gams & Crous GENUS
 
 #### Status
 ACCEPTED

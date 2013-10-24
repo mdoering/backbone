@@ -1,5 +1,4 @@
-Thelebolaceae Eckblad FAMILY
-=======
+# Thelebolaceae Eckblad FAMILY
 
 #### Status
 ACCEPTED

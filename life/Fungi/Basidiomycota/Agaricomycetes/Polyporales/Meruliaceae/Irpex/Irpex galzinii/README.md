@@ -1,17 +1,16 @@
-Irpex galzini Bres. SPECIES
-=======
+# Irpex galzinii Bres. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 6(1): 42 (1908)
 
 #### Original name
-Irpex galzini Bres.
+Irpex galzinii Bres.
 
 ### Remarks
 null

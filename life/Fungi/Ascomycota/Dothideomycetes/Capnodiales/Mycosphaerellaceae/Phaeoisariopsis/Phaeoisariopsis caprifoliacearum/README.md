@@ -1,5 +1,4 @@
-Phaeoisariopsis caprifoliacearum C. Gupta, Abbasi & Kamal SPECIES
-=======
+# Phaeoisariopsis caprifoliacearum C. Gupta, Abbasi & Kamal SPECIES
 
 #### Status
 ACCEPTED

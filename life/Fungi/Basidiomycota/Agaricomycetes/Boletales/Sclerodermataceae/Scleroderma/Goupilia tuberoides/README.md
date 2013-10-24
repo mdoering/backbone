@@ -1,5 +1,4 @@
-Goupilia tuberoides Mérat SPECIES
-=======
+# Goupilia tuberoides Mérat SPECIES
 
 #### Status
 ACCEPTED

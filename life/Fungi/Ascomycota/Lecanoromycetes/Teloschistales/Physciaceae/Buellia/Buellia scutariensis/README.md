@@ -1,5 +1,4 @@
-Buellia scutariensis SPECIES
-=======
+# Buellia scutariensis SPECIES
 
 #### Status
 ACCEPTED

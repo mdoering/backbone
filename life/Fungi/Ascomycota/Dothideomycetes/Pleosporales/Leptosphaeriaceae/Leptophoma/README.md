@@ -1,5 +1,4 @@
-Leptophoma GENUS
-=======
+# Leptophoma GENUS
 
 #### Status
 ACCEPTED

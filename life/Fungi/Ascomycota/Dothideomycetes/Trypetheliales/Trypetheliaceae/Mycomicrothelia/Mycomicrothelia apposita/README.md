@@ -1,5 +1,4 @@
-Mycomicrothelia apposita (Nyl.) D. Hawksw. SPECIES
-=======
+# Mycomicrothelia apposita (Nyl.) D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

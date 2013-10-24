@@ -1,5 +1,4 @@
-Cantharomyces haytiensis Thaxt. SPECIES
-=======
+# Cantharomyces haytiensis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

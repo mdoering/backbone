@@ -1,5 +1,4 @@
-Baltisphaeridium malleoferum (White, 1842) Downie & Sarjeant, 1965 SPECIES
-=======
+# Baltisphaeridium malleoferum (White, 1842) Downie & Sarjeant, 1965 SPECIES
 
 #### Status
 ACCEPTED

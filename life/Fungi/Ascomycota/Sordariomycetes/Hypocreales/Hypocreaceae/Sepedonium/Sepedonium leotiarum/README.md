@@ -1,5 +1,4 @@
-Sepedonium leotiarum (Fayod) Rogerson & Samuels SPECIES
-=======
+# Sepedonium leotiarum (Fayod) Rogerson & Samuels SPECIES
 
 #### Status
 ACCEPTED

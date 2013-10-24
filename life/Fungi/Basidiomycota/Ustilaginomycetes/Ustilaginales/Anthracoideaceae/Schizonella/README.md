@@ -1,5 +1,4 @@
-Schizonella J. Schröt. GENUS
-=======
+# Schizonella J. Schröt. GENUS
 
 #### Status
 ACCEPTED

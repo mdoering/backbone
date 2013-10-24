@@ -1,5 +1,4 @@
-Sporidesmium cinchonae Koord. SPECIES
-=======
+# Sporidesmium cinchonae Koord. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chroodiscus africanus R. Sant. & Lücking SPECIES
-=======
+# Chroodiscus africanus R. Sant. & Lücking SPECIES
 
 #### Status
 ACCEPTED

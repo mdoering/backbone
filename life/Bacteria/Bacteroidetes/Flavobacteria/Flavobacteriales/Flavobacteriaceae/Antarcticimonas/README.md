@@ -1,5 +1,4 @@
-Antarcticimonas Yang, Oh, Chung & Cho, 2009 GENUS
-=======
+# Antarcticimonas Yang, Oh, Chung & Cho, 2009 GENUS
 
 #### Status
 ACCEPTED

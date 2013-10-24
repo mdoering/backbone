@@ -1,5 +1,4 @@
-Polymorphina myrae Collins & Parr, W J SPECIES
-=======
+# Polymorphina myrae Collins & Parr, W J SPECIES
 
 #### Status
 ACCEPTED

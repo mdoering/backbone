@@ -1,5 +1,4 @@
-Aecidium hedyotidis Syd. SPECIES
-=======
+# Aecidium hedyotidis Syd. SPECIES
 
 #### Status
 ACCEPTED

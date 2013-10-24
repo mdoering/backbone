@@ -1,5 +1,4 @@
-Acantholithium Haeckel, 1887 GENUS
-=======
+# Acantholithium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tyrodon GENUS
-=======
+# Tyrodon GENUS
 
 #### Status
 ACCEPTED

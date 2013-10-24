@@ -1,5 +1,4 @@
-Puccinia petitianae Gjaerum SPECIES
-=======
+# Puccinia petitianae Gjaerum SPECIES
 
 #### Status
 ACCEPTED

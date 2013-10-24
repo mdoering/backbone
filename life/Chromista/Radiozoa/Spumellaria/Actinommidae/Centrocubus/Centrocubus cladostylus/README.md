@@ -1,5 +1,4 @@
-Centrocubus cladostylus Haeckel, 1887 SPECIES
-=======
+# Centrocubus cladostylus Haeckel, 1887 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ectocarpus laurenciae Yamada SPECIES
-=======
+# Ectocarpus laurenciae Yamada SPECIES
 
 #### Status
 ACCEPTED

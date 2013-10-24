@@ -1,14 +1,13 @@
-Scapholithus G. Deflandre in G. Deflandre & C. Fert, 1954 GENUS
-=======
+# Calciosolenia Gran, 1912 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Depths Ocean 332.
 
 #### Original name
 null

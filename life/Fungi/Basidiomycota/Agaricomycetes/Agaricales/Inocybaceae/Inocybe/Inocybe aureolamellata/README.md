@@ -1,5 +1,4 @@
-Inocybe aureolamellata (Britzelm.) Sacc. SPECIES
-=======
+# Inocybe aureolamellata (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

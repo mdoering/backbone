@@ -1,5 +1,4 @@
-Sphaeronaema betae Hollrung SPECIES
-=======
+# Sphaeronaema betae Hollrung SPECIES
 
 #### Status
 ACCEPTED

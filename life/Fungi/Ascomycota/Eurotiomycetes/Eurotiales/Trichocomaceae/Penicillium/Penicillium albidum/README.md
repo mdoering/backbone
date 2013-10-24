@@ -1,5 +1,4 @@
-Penicillium albidum Sopp, 1912 SPECIES
-=======
+# Penicillium albidum Sopp, 1912 SPECIES
 
 #### Status
 ACCEPTED

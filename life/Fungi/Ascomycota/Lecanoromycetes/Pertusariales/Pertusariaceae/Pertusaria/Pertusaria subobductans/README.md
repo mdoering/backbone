@@ -1,5 +1,4 @@
-Pertusaria subobductans Nyl. SPECIES
-=======
+# Pertusaria subobductans Nyl. SPECIES
 
 #### Status
 ACCEPTED

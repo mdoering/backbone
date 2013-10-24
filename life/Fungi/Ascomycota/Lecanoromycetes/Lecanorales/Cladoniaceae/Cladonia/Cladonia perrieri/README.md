@@ -1,5 +1,4 @@
-Cladonia perrieri Abbayes SPECIES
-=======
+# Cladonia perrieri Abbayes SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeographis diversula (Nyl.) Zahlbr. SPECIES
-=======
+# Phaeographis diversula (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

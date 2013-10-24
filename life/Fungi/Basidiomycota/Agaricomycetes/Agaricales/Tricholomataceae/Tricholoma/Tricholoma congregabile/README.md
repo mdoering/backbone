@@ -1,5 +1,4 @@
-Tricholoma congregabile (Britzelm.) Sacc. SPECIES
-=======
+# Tricholoma congregabile (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

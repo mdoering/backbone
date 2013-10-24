@@ -1,5 +1,4 @@
-Buellia parasitica (Flörke) Th. Fr. SPECIES
-=======
+# Buellia parasitica (Flörke) Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascophanus lupini Velen. SPECIES
-=======
+# Ascophanus lupini Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius sepiiconicus Corner SPECIES
-=======
+# Marasmius sepiiconicus Corner SPECIES
 
 #### Status
 ACCEPTED

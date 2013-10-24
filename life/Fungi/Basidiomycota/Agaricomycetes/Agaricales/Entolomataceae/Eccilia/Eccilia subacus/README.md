@@ -1,5 +1,4 @@
-Eccilia subacus Peck SPECIES
-=======
+# Eccilia subacus Peck SPECIES
 
 #### Status
 ACCEPTED

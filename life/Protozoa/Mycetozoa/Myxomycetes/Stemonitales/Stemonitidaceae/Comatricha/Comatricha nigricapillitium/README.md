@@ -1,5 +1,4 @@
-Comatricha nigricapillitium (Nann.-Bremek. & Bozonnet) A. Castillo, G. Moreno & Illana SPECIES
-=======
+# Comatricha nigricapillitium (Nann.-Bremek. & Bozonnet) A. Castillo, G. Moreno & Illana SPECIES
 
 #### Status
 ACCEPTED

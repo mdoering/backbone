@@ -1,5 +1,4 @@
-Cylindrocolla dendroctoni Peck SPECIES
-=======
+# Cylindrocolla dendroctoni Peck SPECIES
 
 #### Status
 ACCEPTED

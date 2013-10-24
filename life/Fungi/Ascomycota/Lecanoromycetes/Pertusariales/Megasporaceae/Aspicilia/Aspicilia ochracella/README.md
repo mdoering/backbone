@@ -1,5 +1,4 @@
-Aspicilia ochracella (Nyl.) Arnold SPECIES
-=======
+# Aspicilia ochracella (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

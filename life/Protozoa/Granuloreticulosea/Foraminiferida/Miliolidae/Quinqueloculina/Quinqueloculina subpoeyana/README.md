@@ -1,5 +1,4 @@
-Quinqueloculina subpoeyana SPECIES
-=======
+# Quinqueloculina subpoeyana SPECIES
 
 #### Status
 ACCEPTED

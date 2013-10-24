@@ -1,5 +1,4 @@
-Sphinctrinella brasiliana (Viégas) Dennis SPECIES
-=======
+# Sphinctrinella brasiliana (Viégas) Dennis SPECIES
 
 #### Status
 ACCEPTED

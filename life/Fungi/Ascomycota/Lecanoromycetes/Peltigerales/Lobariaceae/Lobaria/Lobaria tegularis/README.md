@@ -1,5 +1,4 @@
-Lobaria tegularis (Ehrh.) Hoffm. SPECIES
-=======
+# Lobaria tegularis (Ehrh.) Hoffm. SPECIES
 
 #### Status
 ACCEPTED

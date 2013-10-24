@@ -1,5 +1,4 @@
-Dactylosporangium fulvum Shomura et al., 1986 SPECIES
-=======
+# Dactylosporangium fulvum Shomura et al., 1986 SPECIES
 
 #### Status
 ACCEPTED

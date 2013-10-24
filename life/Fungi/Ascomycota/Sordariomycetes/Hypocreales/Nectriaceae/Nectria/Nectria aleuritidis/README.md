@@ -1,5 +1,4 @@
-Nectria aleuritidis Chen S. Chang & J.Z. Zhang SPECIES
-=======
+# Nectria aleuritidis Chen S. Chang & J.Z. Zhang SPECIES
 
 #### Status
 ACCEPTED

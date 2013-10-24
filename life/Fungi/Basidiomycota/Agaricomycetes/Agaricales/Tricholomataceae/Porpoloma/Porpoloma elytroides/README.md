@@ -1,14 +1,13 @@
-Agaricus elytroides Scop., 1772 SPECIES
-=======
+# Porpoloma elytroides (Scop.) Singer, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fl. carniol. (Wien), Edn 2 2: 424 (1772)
+Beih. Sydowia 7: 19 (1973)
 
 #### Original name
 Agaricus elytroides Scop., 1772

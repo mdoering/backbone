@@ -1,5 +1,4 @@
-Catillaria simodensis (Tuck.) Zahlbr. SPECIES
-=======
+# Catillaria simodensis (Tuck.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

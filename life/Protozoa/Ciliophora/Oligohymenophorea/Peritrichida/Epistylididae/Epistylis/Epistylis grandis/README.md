@@ -1,5 +1,4 @@
-Epistylis grandis Ehrenberg, 1838 SPECIES
-=======
+# Epistylis grandis Ehrenberg, 1838 SPECIES
 
 #### Status
 ACCEPTED

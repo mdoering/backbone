@@ -1,5 +1,4 @@
-Tuburcinia lagerheimii var. lagerheimii VARIETY
-=======
+# Tuburcinia lagerheimii (Bubák) Liro SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Ann. Univ. fenn. Aboënsis, Ser. A 1(no. 1): (1922)
 
 #### Original name
-Tuburcinia lagerheimii var. lagerheimii
+Urocystis lagerheimii Bubák
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Strobilomyces subnigricans J.Z. Ying SPECIES
-=======
+# Strobilomyces subnigricans J.Z. Ying SPECIES
 
 #### Status
 ACCEPTED

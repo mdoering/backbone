@@ -1,5 +1,4 @@
-Lichen guianensis Aubl. SPECIES
-=======
+# Lichen guianensis Aubl. SPECIES
 
 #### Status
 ACCEPTED

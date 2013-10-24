@@ -1,5 +1,4 @@
-Geitleribactron Komárek, 1975 GENUS
-=======
+# Geitleribactron Komárek, 1975 GENUS
 
 #### Status
 ACCEPTED

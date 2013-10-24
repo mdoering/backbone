@@ -1,8 +1,7 @@
-Phaeodothis cordifolia T.S. Ramakr. & Sundaram SPECIES
-=======
+# Phaeodothis cordifolii T.S. Ramakr. & Sundaram SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phaeodothis cordifolia T.S. Ramakr. & Sundaram
+Phaeodothis cordifolii T.S. Ramakr. & Sundaram
 
 ### Remarks
 null

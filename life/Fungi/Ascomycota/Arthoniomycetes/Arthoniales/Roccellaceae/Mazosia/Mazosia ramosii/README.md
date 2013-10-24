@@ -1,5 +1,4 @@
-Mazosia ramosii Zahlbr. SPECIES
-=======
+# Mazosia ramosii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

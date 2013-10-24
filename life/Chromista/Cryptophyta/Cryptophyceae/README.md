@@ -1,5 +1,4 @@
-Cryptophyceae Fritsch, 1927 CLASS
-=======
+# Cryptophyceae Fritsch, 1927 CLASS
 
 #### Status
 ACCEPTED

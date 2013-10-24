@@ -1,5 +1,4 @@
-Lecanora griseofusca SPECIES
-=======
+# Lecanora griseofusca SPECIES
 
 #### Status
 ACCEPTED

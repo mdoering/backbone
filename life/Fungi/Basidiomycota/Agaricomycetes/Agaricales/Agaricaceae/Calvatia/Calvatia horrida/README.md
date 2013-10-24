@@ -1,5 +1,4 @@
-Calvatia horrida M. Lange SPECIES
-=======
+# Calvatia horrida M. Lange SPECIES
 
 #### Status
 ACCEPTED

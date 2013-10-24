@@ -1,17 +1,16 @@
-Pestalotia guepinii var. guepinii Desm. VARIETY
-=======
+# Pestalotiopsis guepinii (Desm.) Steyaert, 1949 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Jard. bot. État Brux. 19(3): 312 (1949)
 
 #### Original name
-Pestalotia guepinii var. guepinii Desm.
+Pestalotia guepinii Desm., 1840
 
 ### Remarks
 null

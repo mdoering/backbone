@@ -1,5 +1,4 @@
-Phaeodimeriella uncinata (Theiss.) Hansf. SPECIES
-=======
+# Phaeodimeriella uncinata (Theiss.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

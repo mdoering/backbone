@@ -1,5 +1,4 @@
-Stictodiscus nitida Grove & Sturt SPECIES
-=======
+# Stictodiscus nitida Grove & Sturt SPECIES
 
 #### Status
 ACCEPTED

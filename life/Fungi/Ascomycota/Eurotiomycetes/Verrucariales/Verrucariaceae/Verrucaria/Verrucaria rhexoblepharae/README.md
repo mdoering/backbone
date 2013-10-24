@@ -1,5 +1,4 @@
-Verrucaria rhexoblepharae Vain. SPECIES
-=======
+# Verrucaria rhexoblepharae Vain. SPECIES
 
 #### Status
 ACCEPTED

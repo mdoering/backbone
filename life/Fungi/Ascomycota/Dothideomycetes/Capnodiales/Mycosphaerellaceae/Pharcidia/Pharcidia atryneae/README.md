@@ -1,5 +1,4 @@
-Pharcidia atryneae (Arnold) Sacc. & D. Sacc. SPECIES
-=======
+# Pharcidia atryneae (Arnold) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

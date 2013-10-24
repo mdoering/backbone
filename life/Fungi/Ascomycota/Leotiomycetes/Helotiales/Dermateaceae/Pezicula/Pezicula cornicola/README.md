@@ -1,5 +1,4 @@
-Pezicula cornicola Kirschst. SPECIES
-=======
+# Pezicula cornicola Kirschst. SPECIES
 
 #### Status
 ACCEPTED

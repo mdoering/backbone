@@ -1,5 +1,4 @@
-Chytriomyces closterii Karling, 1949 SPECIES
-=======
+# Chytriomyces closterii Karling, 1949 SPECIES
 
 #### Status
 ACCEPTED

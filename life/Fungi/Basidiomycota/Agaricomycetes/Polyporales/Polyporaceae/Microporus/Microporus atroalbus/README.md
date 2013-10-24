@@ -1,14 +1,13 @@
-Polystictus atroalbus Henn., 1895 SPECIES
-=======
+# Microporus atroalbus (Henn.) Kuntze, 1898 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Jb. 22: 92 (1895)
+Revis. gen. pl. (Leipzig) 3(2): 495 (1898)
 
 #### Original name
 Polystictus atroalbus Henn., 1895

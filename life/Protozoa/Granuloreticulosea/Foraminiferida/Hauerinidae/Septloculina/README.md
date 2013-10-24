@@ -1,5 +1,4 @@
-Septloculina El Nakhal, 1990 GENUS
-=======
+# Septloculina El Nakhal, 1990 GENUS
 
 #### Status
 ACCEPTED

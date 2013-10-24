@@ -1,5 +1,4 @@
-Phoma graecae Gonz. Frag. SPECIES
-=======
+# Phoma graecae Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

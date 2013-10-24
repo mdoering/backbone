@@ -1,5 +1,4 @@
-Ceuthospora eucalypti Crous SPECIES
-=======
+# Ceuthospora eucalypti Crous SPECIES
 
 #### Status
 ACCEPTED

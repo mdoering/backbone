@@ -1,5 +1,4 @@
-Asteridiella pseudekebergiae (Hansf.) Hansf. SPECIES
-=======
+# Asteridiella pseudekebergiae (Hansf.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

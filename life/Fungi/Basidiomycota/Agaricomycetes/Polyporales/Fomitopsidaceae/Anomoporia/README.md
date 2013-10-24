@@ -1,5 +1,4 @@
-Anomoporia Pouzar, 1966 GENUS
-=======
+# Anomoporia Pouzar, 1966 GENUS
 
 #### Status
 ACCEPTED

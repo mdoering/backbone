@@ -1,5 +1,4 @@
-Xerocomus punctilifer (W.F. Chiu) F.L. Tai SPECIES
-=======
+# Xerocomus punctilifer (W.F. Chiu) F.L. Tai SPECIES
 
 #### Status
 ACCEPTED

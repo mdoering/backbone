@@ -1,5 +1,4 @@
-Protomyces helminthiae Maire SPECIES
-=======
+# Protomyces helminthiae Maire SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bütschliella longicollus Georgevitch, 1941 SPECIES
-=======
+# Bütschliella longicollus Georgevitch, 1941 SPECIES
 
 #### Status
 ACCEPTED

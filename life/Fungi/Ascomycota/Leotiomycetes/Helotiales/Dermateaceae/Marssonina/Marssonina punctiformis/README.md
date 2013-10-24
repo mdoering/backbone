@@ -1,14 +1,13 @@
-Marssonina punctiforme (Ellis & Everh.) Arx SPECIES
-=======
+# Marssonina punctiformis (Ellis & Everh.) Arx SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Revision der zu gloeosporium gestellten pilze 27 (1957)
+Verh. K. Akad. Vet. Amsterdam 51(3): 126 (1957)
 
 #### Original name
 Gloeosporium punctiforme Sacc. & Ellis

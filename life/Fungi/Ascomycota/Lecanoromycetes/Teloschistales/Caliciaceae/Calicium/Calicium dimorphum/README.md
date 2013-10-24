@@ -1,5 +1,4 @@
-Calicium dimorphum March. {?} SPECIES
-=======
+# Calicium dimorphum March. {?} SPECIES
 
 #### Status
 ACCEPTED

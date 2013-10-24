@@ -1,5 +1,4 @@
-Peziza emergens W. Phillips & Harkn. SPECIES
-=======
+# Peziza emergens W. Phillips & Harkn. SPECIES
 
 #### Status
 ACCEPTED

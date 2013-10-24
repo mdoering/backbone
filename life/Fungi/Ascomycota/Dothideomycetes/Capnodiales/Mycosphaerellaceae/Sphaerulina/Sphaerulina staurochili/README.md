@@ -1,5 +1,4 @@
-Sphaerulina staurochili Sawada SPECIES
-=======
+# Sphaerulina staurochili Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entomophaga antochae S. Keller SPECIES
-=======
+# Entomophaga antochae S. Keller SPECIES
 
 #### Status
 ACCEPTED

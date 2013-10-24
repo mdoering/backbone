@@ -1,5 +1,4 @@
-Pleonectria antarctica Speg. SPECIES
-=======
+# Pleonectria antarctica Speg. SPECIES
 
 #### Status
 ACCEPTED

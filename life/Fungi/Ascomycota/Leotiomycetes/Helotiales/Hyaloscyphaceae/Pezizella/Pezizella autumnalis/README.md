@@ -1,5 +1,4 @@
-Pezizella autumnalis Velen. SPECIES
-=======
+# Pezizella autumnalis Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Glaphyrocysta dentata K. Matsuoka SPECIES
-=======
+# Glaphyrocysta dentata K. Matsuoka SPECIES
 
 #### Status
 ACCEPTED

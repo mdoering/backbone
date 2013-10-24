@@ -1,5 +1,4 @@
-Lactifluus varius (Peck) Kuntze SPECIES
-=======
+# Lactifluus varius (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

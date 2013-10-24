@@ -1,5 +1,4 @@
-Cortinarius chamaeleon Melot SPECIES
-=======
+# Cortinarius chamaeleon Melot SPECIES
 
 #### Status
 ACCEPTED

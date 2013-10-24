@@ -1,5 +1,4 @@
-Hyponectria jucunda (Mont.) Weese SPECIES
-=======
+# Hyponectria jucunda (Mont.) Weese SPECIES
 
 #### Status
 ACCEPTED

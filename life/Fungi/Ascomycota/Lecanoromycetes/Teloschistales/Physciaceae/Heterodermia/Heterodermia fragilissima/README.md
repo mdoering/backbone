@@ -1,14 +1,13 @@
-Anaptychia fragilissima Kurok. SPECIES
-=======
+# Heterodermia fragilissima (Kurok.) Trass SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Beih. Nova Hedwigia 6: 60 (1962)
+Folia cryptog. Estonica 29: [12] (1992)
 
 #### Original name
 Anaptychia fragilissima Kurok.

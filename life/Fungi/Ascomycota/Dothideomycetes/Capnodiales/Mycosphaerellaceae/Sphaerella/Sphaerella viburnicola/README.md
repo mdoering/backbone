@@ -1,5 +1,4 @@
-Sphaerella viburnicola Speg. SPECIES
-=======
+# Sphaerella viburnicola Speg. SPECIES
 
 #### Status
 ACCEPTED

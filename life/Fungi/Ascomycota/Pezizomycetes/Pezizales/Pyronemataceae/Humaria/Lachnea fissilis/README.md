@@ -1,5 +1,4 @@
-Lachnea fissilis Sacc. & Cooke SPECIES
-=======
+# Lachnea fissilis Sacc. & Cooke SPECIES
 
 #### Status
 ACCEPTED

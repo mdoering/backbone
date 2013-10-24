@@ -1,5 +1,4 @@
-Rickiella transiens Syd. ex Rick SPECIES
-=======
+# Rickiella transiens Syd. ex Rick SPECIES
 
 #### Status
 ACCEPTED

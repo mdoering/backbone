@@ -1,5 +1,4 @@
-Caudiculophycus J.W. Schopf, 1968 GENUS
-=======
+# Caudiculophycus J.W. Schopf, 1968 GENUS
 
 #### Status
 ACCEPTED

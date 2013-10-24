@@ -1,5 +1,4 @@
-Hohenbuehelia panelloides Høil., 1982 SPECIES
-=======
+# Hohenbuehelia panelloides Høil., 1982 SPECIES
 
 #### Status
 ACCEPTED

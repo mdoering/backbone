@@ -1,5 +1,4 @@
-Dimerium ilicinum (Syd.) Syd. SPECIES
-=======
+# Dimerium ilicinum (Syd.) Syd. SPECIES
 
 #### Status
 ACCEPTED

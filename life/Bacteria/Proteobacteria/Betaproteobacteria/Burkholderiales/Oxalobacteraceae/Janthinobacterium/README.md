@@ -1,5 +1,4 @@
-Janthinobacterium GENUS
-=======
+# Janthinobacterium GENUS
 
 #### Status
 ACCEPTED

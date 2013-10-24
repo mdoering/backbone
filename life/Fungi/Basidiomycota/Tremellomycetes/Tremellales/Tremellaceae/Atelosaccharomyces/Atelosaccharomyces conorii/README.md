@@ -1,5 +1,4 @@
-Atelosaccharomyces conorii C.W. Dodge SPECIES
-=======
+# Atelosaccharomyces conorii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

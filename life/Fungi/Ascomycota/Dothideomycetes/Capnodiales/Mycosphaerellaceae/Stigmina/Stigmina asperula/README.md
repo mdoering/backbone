@@ -1,5 +1,4 @@
-Stigmina asperula (Lombard & R.W. Davidson) B. Sutton SPECIES
-=======
+# Stigmina asperula (Lombard & R.W. Davidson) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

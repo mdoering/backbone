@@ -1,5 +1,4 @@
-Oudemansiella laqueata (Fr.) Alessio SPECIES
-=======
+# Oudemansiella laqueata (Fr.) Alessio SPECIES
 
 #### Status
 ACCEPTED

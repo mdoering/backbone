@@ -1,5 +1,4 @@
-Stenella coffeae J.M. Yen, A.K. Kar & B.K. Das SPECIES
-=======
+# Stenella coffeae J.M. Yen, A.K. Kar & B.K. Das SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Belonium apocryptum Rehm SPECIES
-=======
+# Belonium apocryptum Rehm SPECIES
 
 #### Status
 ACCEPTED

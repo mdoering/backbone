@@ -1,5 +1,4 @@
-Phragmidium arisanense Hirats. f. & Hashioka, 1934 SPECIES
-=======
+# Phragmidium arisanense Hirats. f. & Hashioka, 1934 SPECIES
 
 #### Status
 ACCEPTED

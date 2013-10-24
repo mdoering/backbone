@@ -1,5 +1,4 @@
-Sphaerella coffeae (F. Noack) Sacc. SPECIES
-=======
+# Sphaerella coffeae (F. Noack) Sacc. SPECIES
 
 #### Status
 ACCEPTED

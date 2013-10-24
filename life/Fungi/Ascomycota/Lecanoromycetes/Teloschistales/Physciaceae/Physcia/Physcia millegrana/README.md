@@ -1,17 +1,16 @@
-Physcia duplicorticata W. A. Weber & J. W. Thomson SPECIES
-=======
+# Physcia millegrana Degel. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Arch. für Botanik 30A(1): 56 (1942)
 
 #### Original name
-null
+Physcia millegrana Degel.
 
 ### Remarks
 null

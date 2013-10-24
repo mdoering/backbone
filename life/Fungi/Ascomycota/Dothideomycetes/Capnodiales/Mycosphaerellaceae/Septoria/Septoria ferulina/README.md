@@ -1,5 +1,4 @@
-Septoria ferulina Petr. SPECIES
-=======
+# Septoria ferulina Petr. SPECIES
 
 #### Status
 ACCEPTED

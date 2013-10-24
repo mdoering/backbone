@@ -1,5 +1,4 @@
-Nectriella zingiberis F. Stevens & Atienza SPECIES
-=======
+# Nectriella zingiberis F. Stevens & Atienza SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella rhois (Sawada & Katsuki) C.C. Chen, 1967 SPECIES
-=======
+# Mycosphaerella rhois (Sawada & Katsuki) C.C. Chen, 1967 SPECIES
 
 #### Status
 ACCEPTED

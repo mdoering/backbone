@@ -1,5 +1,4 @@
-Ramularia ligustrina Maubl., 1906 SPECIES
-=======
+# Ramularia ligustrina Maubl., 1906 SPECIES
 
 #### Status
 ACCEPTED

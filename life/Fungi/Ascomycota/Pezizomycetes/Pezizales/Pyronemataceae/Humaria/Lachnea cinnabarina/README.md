@@ -1,5 +1,4 @@
-Lachnea cinnabarina (Schwein.) SPECIES
-=======
+# Lachnea cinnabarina (Schwein.) SPECIES
 
 #### Status
 ACCEPTED

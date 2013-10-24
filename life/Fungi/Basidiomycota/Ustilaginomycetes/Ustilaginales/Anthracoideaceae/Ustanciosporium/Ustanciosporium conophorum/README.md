@@ -1,5 +1,4 @@
-Ustanciosporium conophorum M. Piepenbr. & Begerow, 2000 SPECIES
-=======
+# Ustanciosporium conophorum M. Piepenbr. & Begerow, 2000 SPECIES
 
 #### Status
 ACCEPTED

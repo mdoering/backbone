@@ -1,5 +1,4 @@
-Mollisia tigri anon. SPECIES
-=======
+# Mollisia tigri anon. SPECIES
 
 #### Status
 ACCEPTED

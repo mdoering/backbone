@@ -1,5 +1,4 @@
-Nectria sydowiana Theiss. SPECIES
-=======
+# Nectria sydowiana Theiss. SPECIES
 
 #### Status
 ACCEPTED

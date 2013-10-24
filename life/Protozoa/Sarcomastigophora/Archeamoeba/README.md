@@ -1,5 +1,4 @@
-Archeamoeba Locquin, 1981 GENUS
-=======
+# Archeamoeba Locquin, 1981 GENUS
 
 #### Status
 ACCEPTED

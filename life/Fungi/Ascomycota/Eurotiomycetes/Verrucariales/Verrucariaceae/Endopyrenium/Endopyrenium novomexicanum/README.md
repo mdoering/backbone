@@ -1,5 +1,4 @@
-Endopyrenium novomexicanum B. de Lesd. SPECIES
-=======
+# Endopyrenium novomexicanum B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrosporium uvarum Thüm. SPECIES
-=======
+# Macrosporium uvarum Thüm. SPECIES
 
 #### Status
 ACCEPTED

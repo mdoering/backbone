@@ -1,17 +1,16 @@
-Endomyces hylecoeti Neger, 1909 SPECIES
-=======
+# Ascoidea hylecoeti L.R. Batra & Francke-Grosm., 1961 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ber. dt. bot. Ges. 27: 388 (1909)
+Am. J. Bot. 48: 453 (1961)
 
 #### Original name
-Endomyces hylecoeti Neger, 1909
+Ascoidea hylecoeti L.R. Batra & Francke-Grosm., 1961
 
 ### Remarks
 null

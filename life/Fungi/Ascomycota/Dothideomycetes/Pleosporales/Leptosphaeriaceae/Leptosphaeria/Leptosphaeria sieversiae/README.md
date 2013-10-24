@@ -1,5 +1,4 @@
-Leptosphaeria sieversiae (Clem.) Petr. SPECIES
-=======
+# Leptosphaeria sieversiae (Clem.) Petr. SPECIES
 
 #### Status
 ACCEPTED

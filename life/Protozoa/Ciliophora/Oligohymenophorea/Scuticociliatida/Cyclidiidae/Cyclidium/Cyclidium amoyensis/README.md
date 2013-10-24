@@ -1,5 +1,4 @@
-Cyclidium amoyensis Nie, 1934 SPECIES
-=======
+# Cyclidium amoyensis Nie, 1934 SPECIES
 
 #### Status
 ACCEPTED

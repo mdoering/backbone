@@ -1,5 +1,4 @@
-Arcicubulus Dumitrica, 1983 GENUS
-=======
+# Arcicubulus Dumitrica, 1983 GENUS
 
 #### Status
 ACCEPTED

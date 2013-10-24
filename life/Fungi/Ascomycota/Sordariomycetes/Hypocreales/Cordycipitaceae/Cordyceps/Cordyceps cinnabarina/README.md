@@ -1,5 +1,4 @@
-Cordyceps cinnabarina Petch SPECIES
-=======
+# Cordyceps cinnabarina Petch SPECIES
 
 #### Status
 ACCEPTED

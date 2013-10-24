@@ -1,5 +1,4 @@
-Mycena porphyrocephala Singer SPECIES
-=======
+# Mycena porphyrocephala Singer SPECIES
 
 #### Status
 ACCEPTED

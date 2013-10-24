@@ -1,5 +1,4 @@
-Tilletia narasimhanii Thirum. & Safeeulla, 1951 SPECIES
-=======
+# Tilletia narasimhanii Thirum. & Safeeulla, 1951 SPECIES
 
 #### Status
 ACCEPTED

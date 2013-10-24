@@ -1,5 +1,4 @@
-Cordyceps prolifica f. prolifica FORM
-=======
+# Cordyceps prolifica Kobayasi SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Bull. Nat. Sci. Mus. Tokyo 6: 289 (1963)
 
 #### Original name
-Cordyceps prolifica f. prolifica
+Cordyceps prolifica Kobayasi
 
 ### Remarks
 null

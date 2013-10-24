@@ -1,5 +1,4 @@
-Pleuroflammula simulans E. Horak SPECIES
-=======
+# Pleuroflammula simulans E. Horak SPECIES
 
 #### Status
 ACCEPTED

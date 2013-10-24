@@ -1,5 +1,4 @@
-Leucoagaricus malvaceus Heinem. SPECIES
-=======
+# Leucoagaricus malvaceus Heinem. SPECIES
 
 #### Status
 ACCEPTED

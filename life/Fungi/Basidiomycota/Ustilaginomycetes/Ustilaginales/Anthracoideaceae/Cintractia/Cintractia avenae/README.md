@@ -1,5 +1,4 @@
-Cintractia avenae Ellis & Tracy SPECIES
-=======
+# Cintractia avenae Ellis & Tracy SPECIES
 
 #### Status
 ACCEPTED

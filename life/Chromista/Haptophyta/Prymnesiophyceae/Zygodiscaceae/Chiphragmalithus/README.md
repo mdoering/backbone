@@ -1,5 +1,4 @@
-Chiphragmalithus M.N. Bramlette & F.R. Sullivan, 1961 GENUS
-=======
+# Chiphragmalithus M.N. Bramlette & F.R. Sullivan, 1961 GENUS
 
 #### Status
 ACCEPTED

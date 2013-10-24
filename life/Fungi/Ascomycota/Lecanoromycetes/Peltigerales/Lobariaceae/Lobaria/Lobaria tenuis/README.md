@@ -1,5 +1,4 @@
-Lobaria tenuis Vain. SPECIES
-=======
+# Lobaria tenuis Vain. SPECIES
 
 #### Status
 ACCEPTED

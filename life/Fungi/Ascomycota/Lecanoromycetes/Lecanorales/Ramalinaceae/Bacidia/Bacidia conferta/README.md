@@ -1,5 +1,4 @@
-Bacidia conferta Malme SPECIES
-=======
+# Bacidia conferta Malme SPECIES
 
 #### Status
 ACCEPTED

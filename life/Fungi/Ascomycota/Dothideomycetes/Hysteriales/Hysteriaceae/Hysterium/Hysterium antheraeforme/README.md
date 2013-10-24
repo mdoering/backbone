@@ -1,5 +1,4 @@
-Hysterium antheraeforme Schimp. SPECIES
-=======
+# Hysterium antheraeforme Schimp. SPECIES
 
 #### Status
 ACCEPTED

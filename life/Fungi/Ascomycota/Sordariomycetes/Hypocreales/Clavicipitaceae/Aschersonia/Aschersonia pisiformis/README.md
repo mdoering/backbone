@@ -1,5 +1,4 @@
-Aschersonia pisiformis Pat. SPECIES
-=======
+# Aschersonia pisiformis Pat. SPECIES
 
 #### Status
 ACCEPTED

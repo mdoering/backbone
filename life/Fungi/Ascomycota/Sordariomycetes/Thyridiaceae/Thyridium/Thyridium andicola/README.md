@@ -1,5 +1,4 @@
-Thyridium andicola Speg. SPECIES
-=======
+# Thyridium andicola Speg. SPECIES
 
 #### Status
 ACCEPTED

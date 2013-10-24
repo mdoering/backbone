@@ -1,5 +1,4 @@
-Peziza craginiana Ellis & Everh. SPECIES
-=======
+# Peziza craginiana Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

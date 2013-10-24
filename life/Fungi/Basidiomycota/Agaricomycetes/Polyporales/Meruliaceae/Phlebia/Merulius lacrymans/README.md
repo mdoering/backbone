@@ -1,17 +1,16 @@
-Merulius lacrymans var. lacrymans VARIETY
-=======
+# Merulius lacrymans SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
-Enum. pl. (Kjbenhavn) 1: 371 (1801)
+null
 
 #### Original name
-Merulius lacrymans var. lacrymans
+null
 
 ### Remarks
 null

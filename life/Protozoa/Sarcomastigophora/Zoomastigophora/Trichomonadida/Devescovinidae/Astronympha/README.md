@@ -1,5 +1,4 @@
-Astronympha Grassé GENUS
-=======
+# Astronympha Grassé GENUS
 
 #### Status
 ACCEPTED

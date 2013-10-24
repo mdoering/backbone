@@ -1,5 +1,4 @@
-Septoria lycopicola H.D. Shin & Sameva SPECIES
-=======
+# Septoria lycopicola H.D. Shin & Sameva SPECIES
 
 #### Status
 ACCEPTED

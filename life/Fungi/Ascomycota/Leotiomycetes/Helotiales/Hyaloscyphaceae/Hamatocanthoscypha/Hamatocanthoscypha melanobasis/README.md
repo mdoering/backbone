@@ -1,5 +1,4 @@
-Hamatocanthoscypha melanobasis (Arendh. & R. Sharma) Huhtinen SPECIES
-=======
+# Hamatocanthoscypha melanobasis (Arendh. & R. Sharma) Huhtinen SPECIES
 
 #### Status
 ACCEPTED

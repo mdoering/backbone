@@ -1,5 +1,4 @@
-Peltula sonorensis Büdel & T. H. Nash SPECIES
-=======
+# Peltula sonorensis Büdel & T. H. Nash SPECIES
 
 #### Status
 ACCEPTED

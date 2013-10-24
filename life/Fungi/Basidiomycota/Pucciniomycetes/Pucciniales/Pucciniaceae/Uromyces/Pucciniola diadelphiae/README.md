@@ -1,5 +1,4 @@
-Pucciniola diadelphiae L. Marchand SPECIES
-=======
+# Pucciniola diadelphiae L. Marchand SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caryospora minor Peck SPECIES
-=======
+# Caryospora minor Peck SPECIES
 
 #### Status
 ACCEPTED

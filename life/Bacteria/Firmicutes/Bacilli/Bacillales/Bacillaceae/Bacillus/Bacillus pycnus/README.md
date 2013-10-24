@@ -1,5 +1,4 @@
-Bacillus pycnus Nakamura et al., 2002 SPECIES
-=======
+# Bacillus pycnus Nakamura et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

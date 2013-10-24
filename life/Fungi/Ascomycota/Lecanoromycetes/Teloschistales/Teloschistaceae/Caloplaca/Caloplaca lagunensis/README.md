@@ -1,5 +1,4 @@
-Caloplaca lagunensis Wetmore SPECIES
-=======
+# Caloplaca lagunensis Wetmore SPECIES
 
 #### Status
 ACCEPTED

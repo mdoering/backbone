@@ -1,5 +1,4 @@
-Achaetomium marinum H.J. Chowdhery & J.N. Rai SPECIES
-=======
+# Achaetomium marinum H.J. Chowdhery & J.N. Rai SPECIES
 
 #### Status
 ACCEPTED

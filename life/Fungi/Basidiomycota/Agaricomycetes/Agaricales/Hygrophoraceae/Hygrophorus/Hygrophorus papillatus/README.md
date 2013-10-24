@@ -1,5 +1,4 @@
-Hygrophorus papillatus Dennis SPECIES
-=======
+# Hygrophorus papillatus Dennis SPECIES
 
 #### Status
 ACCEPTED

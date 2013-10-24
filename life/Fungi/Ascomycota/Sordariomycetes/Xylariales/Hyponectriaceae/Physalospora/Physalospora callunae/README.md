@@ -1,5 +1,4 @@
-Physalospora callunae (De Not.) Sacc. SPECIES
-=======
+# Physalospora callunae (De Not.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

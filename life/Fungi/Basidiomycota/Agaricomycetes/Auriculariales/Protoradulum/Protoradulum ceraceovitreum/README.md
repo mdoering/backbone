@@ -1,5 +1,4 @@
-Protoradulum ceraceovitreum Rick, 1933 SPECIES
-=======
+# Protoradulum ceraceovitreum Rick, 1933 SPECIES
 
 #### Status
 ACCEPTED

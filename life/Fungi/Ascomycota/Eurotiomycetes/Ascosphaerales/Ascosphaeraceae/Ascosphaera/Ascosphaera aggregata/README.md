@@ -1,5 +1,4 @@
-Ascosphaera aggregata Skou SPECIES
-=======
+# Ascosphaera aggregata Skou SPECIES
 
 #### Status
 ACCEPTED

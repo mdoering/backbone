@@ -1,5 +1,4 @@
-Gloeoporus vitellinus Corner, 1992 SPECIES
-=======
+# Gloeoporus vitellinus Corner, 1992 SPECIES
 
 #### Status
 ACCEPTED

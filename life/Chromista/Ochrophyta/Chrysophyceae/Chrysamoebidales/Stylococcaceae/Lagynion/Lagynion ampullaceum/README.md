@@ -1,5 +1,4 @@
-Lagynion ampullaceum Pascher SPECIES
-=======
+# Lagynion ampullaceum Pascher SPECIES
 
 #### Status
 ACCEPTED

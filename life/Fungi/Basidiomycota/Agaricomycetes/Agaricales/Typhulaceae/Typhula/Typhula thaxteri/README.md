@@ -1,14 +1,13 @@
-Pistillaria thaxteri Burt, 1916 SPECIES
-=======
+# Typhula thaxteri (Burt) Berthier, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mo. bot. Gdn 3: 406 (1916)
+Bull. mens. Soc. linn. Lyon 43: 187 (1974)
 
 #### Original name
 Pistillaria thaxteri Burt, 1916

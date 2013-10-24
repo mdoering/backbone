@@ -1,5 +1,4 @@
-Ciboria tuzsoni Bánhegyi SPECIES
-=======
+# Ciboria tuzsoni Bánhegyi SPECIES
 
 #### Status
 ACCEPTED

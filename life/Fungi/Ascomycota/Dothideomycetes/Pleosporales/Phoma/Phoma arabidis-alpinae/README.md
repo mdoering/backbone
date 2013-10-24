@@ -1,5 +1,4 @@
-Phoma arabidis-alpinae Allesch. SPECIES
-=======
+# Phoma arabidis-alpinae Allesch. SPECIES
 
 #### Status
 ACCEPTED

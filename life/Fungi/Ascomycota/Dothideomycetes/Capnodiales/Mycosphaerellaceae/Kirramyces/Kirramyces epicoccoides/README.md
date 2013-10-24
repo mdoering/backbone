@@ -1,14 +1,13 @@
-Cercospora epicoccoides Cooke & Massee, 1891 SPECIES
-=======
+# Kirramyces epicoccoides (Cooke & Massee) J. Walker, B. Sutton & Pascoe, 1992 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 19(no. 92): 91 (1891)
+Mycol. Res. 96(11): 919 (1992)
 
 #### Original name
 Cercospora epicoccoides Cooke & Massee, 1891

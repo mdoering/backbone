@@ -1,5 +1,4 @@
-Clathrella treubii G.E. Bernard SPECIES
-=======
+# Clathrella treubii G.E. Bernard SPECIES
 
 #### Status
 ACCEPTED

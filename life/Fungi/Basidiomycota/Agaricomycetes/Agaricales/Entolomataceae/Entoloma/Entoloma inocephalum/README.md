@@ -1,5 +1,4 @@
-Entoloma inocephalum (Romagn.) Dennis SPECIES
-=======
+# Entoloma inocephalum (Romagn.) Dennis SPECIES
 
 #### Status
 ACCEPTED

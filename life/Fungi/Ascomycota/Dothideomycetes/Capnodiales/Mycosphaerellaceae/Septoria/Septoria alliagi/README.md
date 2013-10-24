@@ -1,5 +1,4 @@
-Septoria alliagi S. Ahmad SPECIES
-=======
+# Septoria alliagi S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteridiella phukanea Hosag., J. Thomas & P.J. Robin SPECIES
-=======
+# Asteridiella phukanea Hosag., J. Thomas & P.J. Robin SPECIES
 
 #### Status
 ACCEPTED

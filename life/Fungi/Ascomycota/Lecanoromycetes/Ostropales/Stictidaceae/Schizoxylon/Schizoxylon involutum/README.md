@@ -1,5 +1,4 @@
-Schizoxylon involutum Sherwood SPECIES
-=======
+# Schizoxylon involutum Sherwood SPECIES
 
 #### Status
 ACCEPTED

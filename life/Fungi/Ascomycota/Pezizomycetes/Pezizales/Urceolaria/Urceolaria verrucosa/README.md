@@ -1,5 +1,4 @@
-Urceolaria verrucosa (Ach.) Ach. SPECIES
-=======
+# Urceolaria verrucosa (Ach.) Ach. SPECIES
 
 #### Status
 ACCEPTED

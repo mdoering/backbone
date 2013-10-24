@@ -1,5 +1,4 @@
-Eucantharomyces japonicus Sugiy. SPECIES
-=======
+# Eucantharomyces japonicus Sugiy. SPECIES
 
 #### Status
 ACCEPTED

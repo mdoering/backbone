@@ -1,14 +1,13 @@
-Pyrrhospora varians (Ach.) R.C. Harris SPECIES
-=======
+# Lecidea varians Ach. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Evansia 2(3): 46 (1985)
+Syn. meth. lich. 38 (1814)
 
 #### Original name
 Lecidea varians Ach.

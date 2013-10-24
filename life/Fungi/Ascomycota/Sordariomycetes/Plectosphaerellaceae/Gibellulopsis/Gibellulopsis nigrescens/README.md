@@ -1,17 +1,16 @@
-Hyalopus serrae (Maffei) M.A.J. Barbosa, 1941 SPECIES
-=======
+# Gibellulopsis nigrescens (Pethybr.) Zare, W. Gams & Summerb., 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Notarisia 19 (1941)
+Nova Hedwigia 85(3-4): 477 (2007)
 
 #### Original name
-Cephalosporium serrae Maffei, 1930
+Verticillium nigrescens Pethybr., 1919
 
 ### Remarks
 null

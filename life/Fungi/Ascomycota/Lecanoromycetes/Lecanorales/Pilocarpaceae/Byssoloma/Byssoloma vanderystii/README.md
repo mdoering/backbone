@@ -1,5 +1,4 @@
-Byssoloma vanderystii Sérus. SPECIES
-=======
+# Byssoloma vanderystii Sérus. SPECIES
 
 #### Status
 ACCEPTED

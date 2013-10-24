@@ -1,17 +1,16 @@
-Tripterospora Cain GENUS
-=======
+# Zopfiella G. Winter GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 34: 700 (1956)
+Rabenh. Krypt. -Fl. (Leipzig), Edn 2 1(2): 56 (1884)
 
 #### Original name
-Tripterospora Cain
+Zopfiella G. Winter
 
 ### Remarks
 null

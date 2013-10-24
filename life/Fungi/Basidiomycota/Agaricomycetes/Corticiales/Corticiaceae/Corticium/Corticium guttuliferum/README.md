@@ -1,5 +1,4 @@
-Corticium guttuliferum P. Karst. SPECIES
-=======
+# Corticium guttuliferum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

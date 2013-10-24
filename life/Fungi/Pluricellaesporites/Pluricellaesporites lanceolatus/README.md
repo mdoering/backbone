@@ -1,5 +1,4 @@
-Pluricellaesporites lanceolatus Z.C. Song & G.X. Li SPECIES
-=======
+# Pluricellaesporites lanceolatus Z.C. Song & G.X. Li SPECIES
 
 #### Status
 ACCEPTED

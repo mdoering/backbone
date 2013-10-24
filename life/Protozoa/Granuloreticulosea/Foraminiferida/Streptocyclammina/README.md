@@ -1,5 +1,4 @@
-Streptocyclammina Hottinger, 1967 GENUS
-=======
+# Streptocyclammina Hottinger, 1967 GENUS
 
 #### Status
 ACCEPTED

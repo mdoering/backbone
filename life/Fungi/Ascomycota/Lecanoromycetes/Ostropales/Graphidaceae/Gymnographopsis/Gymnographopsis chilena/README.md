@@ -1,5 +1,4 @@
-Gymnographopsis chilena C. W. Dodge SPECIES
-=======
+# Gymnographopsis chilena C. W. Dodge SPECIES
 
 #### Status
 ACCEPTED

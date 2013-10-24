@@ -1,5 +1,4 @@
-Xanthoria doidgeae Eichenberger, Aptroot & Honegger SPECIES
-=======
+# Xanthoria doidgeae Eichenberger, Aptroot & Honegger SPECIES
 
 #### Status
 ACCEPTED

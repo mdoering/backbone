@@ -1,5 +1,4 @@
-Glenodinium solidum Cleve-Euler SPECIES
-=======
+# Glenodinium solidum Cleve-Euler SPECIES
 
 #### Status
 ACCEPTED

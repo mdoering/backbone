@@ -1,5 +1,4 @@
-Teichosporella sanguinea Syd. SPECIES
-=======
+# Teichosporella sanguinea Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lentinus lauterbachii Henn. SPECIES
-=======
+# Lentinus lauterbachii Henn. SPECIES
 
 #### Status
 ACCEPTED

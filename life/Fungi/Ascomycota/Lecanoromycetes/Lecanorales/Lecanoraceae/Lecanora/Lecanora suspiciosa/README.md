@@ -1,5 +1,4 @@
-Lecanora suspiciosa Nyl. SPECIES
-=======
+# Lecanora suspiciosa Nyl. SPECIES
 
 #### Status
 ACCEPTED

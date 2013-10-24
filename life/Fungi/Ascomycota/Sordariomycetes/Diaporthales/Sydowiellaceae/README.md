@@ -1,5 +1,4 @@
-Sydowiellaceae Lar.N. Vassiljeva FAMILY
-=======
+# Sydowiellaceae Lar.N. Vassiljeva FAMILY
 
 #### Status
 ACCEPTED

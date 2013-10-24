@@ -1,5 +1,4 @@
-Buellia wilsoniana Müll. Arg. SPECIES
-=======
+# Buellia wilsoniana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

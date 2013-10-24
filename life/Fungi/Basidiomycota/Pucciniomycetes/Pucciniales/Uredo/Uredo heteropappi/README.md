@@ -1,5 +1,4 @@
-Uredo heteropappi Henn. SPECIES
-=======
+# Uredo heteropappi Henn. SPECIES
 
 #### Status
 ACCEPTED

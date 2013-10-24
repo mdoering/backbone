@@ -1,5 +1,4 @@
-Mycosphaerella papuana Sivan., 1986 SPECIES
-=======
+# Mycosphaerella papuana Sivan., 1986 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caeoma espinosae Syd. SPECIES
-=======
+# Caeoma espinosae Syd. SPECIES
 
 #### Status
 ACCEPTED

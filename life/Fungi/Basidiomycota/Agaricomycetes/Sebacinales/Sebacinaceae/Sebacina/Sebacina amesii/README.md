@@ -1,5 +1,4 @@
-Sebacina amesii Lloyd SPECIES
-=======
+# Sebacina amesii Lloyd SPECIES
 
 #### Status
 ACCEPTED

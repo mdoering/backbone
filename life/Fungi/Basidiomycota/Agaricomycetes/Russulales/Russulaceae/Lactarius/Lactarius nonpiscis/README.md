@@ -1,5 +1,4 @@
-Lactarius nonpiscis Verbeken SPECIES
-=======
+# Lactarius nonpiscis Verbeken SPECIES
 
 #### Status
 ACCEPTED

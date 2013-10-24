@@ -1,5 +1,4 @@
-Puccinia araucana Dietel & Neger SPECIES
-=======
+# Puccinia araucana Dietel & Neger SPECIES
 
 #### Status
 ACCEPTED

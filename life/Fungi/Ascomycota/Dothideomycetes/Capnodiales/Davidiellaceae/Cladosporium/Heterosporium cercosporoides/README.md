@@ -1,5 +1,4 @@
-Heterosporium cercosporoides Speg. SPECIES
-=======
+# Heterosporium cercosporoides Speg. SPECIES
 
 #### Status
 ACCEPTED

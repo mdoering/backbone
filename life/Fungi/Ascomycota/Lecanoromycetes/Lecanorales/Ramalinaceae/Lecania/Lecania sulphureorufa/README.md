@@ -1,5 +1,4 @@
-Lecania sulphureorufa (Nyl.) Zahlbr. SPECIES
-=======
+# Lecania sulphureorufa (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

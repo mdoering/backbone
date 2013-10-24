@@ -1,5 +1,4 @@
-Pazschkeella comoriensis Joly {?} SPECIES
-=======
+# Pazschkeella comoriensis Joly {?} SPECIES
 
 #### Status
 ACCEPTED

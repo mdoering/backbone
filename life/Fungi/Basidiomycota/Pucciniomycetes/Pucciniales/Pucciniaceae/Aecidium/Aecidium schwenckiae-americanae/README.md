@@ -1,17 +1,16 @@
-Aecidium schwenkiaeamericanae J.M. Yen SPECIES
-=======
+# Aecidium schwenckiae-americanae J.M. Yen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revue mycol. , Toulouse 36(2): 100 (1971)
 
 #### Original name
-Aecidium schwenkiaeamericanae J.M. Yen
+Aecidium schwenckiae-americanae J.M. Yen
 
 ### Remarks
 null

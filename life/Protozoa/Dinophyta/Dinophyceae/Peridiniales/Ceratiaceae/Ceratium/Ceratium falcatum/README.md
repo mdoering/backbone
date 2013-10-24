@@ -1,11 +1,10 @@
-Ceratium pennatum Cleve, 1900 SPECIES
-=======
+# Ceratium falcatum (Kofoid) E.G.Jørgensen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Integrated Taxonomic Information System
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

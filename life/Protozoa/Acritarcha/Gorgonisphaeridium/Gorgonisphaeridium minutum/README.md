@@ -1,5 +1,4 @@
-Gorgonisphaeridium minutum Pöthé de Baldis, 1974 SPECIES
-=======
+# Gorgonisphaeridium minutum Pöthé de Baldis, 1974 SPECIES
 
 #### Status
 ACCEPTED

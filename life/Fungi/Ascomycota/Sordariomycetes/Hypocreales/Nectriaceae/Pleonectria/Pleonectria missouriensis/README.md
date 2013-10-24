@@ -1,5 +1,4 @@
-Pleonectria missouriensis (Ellis & Everh.) Sacc. SPECIES
-=======
+# Pleonectria missouriensis (Ellis & Everh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

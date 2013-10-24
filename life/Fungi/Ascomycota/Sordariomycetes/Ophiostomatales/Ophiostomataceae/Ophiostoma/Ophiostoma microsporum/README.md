@@ -1,14 +1,13 @@
-Ceratocystis perparvispora J. Hunt, 1956 SPECIES
-=======
+# Ophiostoma microsporum (R.W. Davidson) Arx, 1952 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lloydia 19: 46 (1956)
+Leeuwenhoek ned. Tidjdschr. 18: 211 (1952)
 
 #### Original name
 Ceratostomella microspora R.W. Davidson, 1942

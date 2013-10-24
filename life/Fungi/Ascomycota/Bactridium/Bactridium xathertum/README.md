@@ -1,5 +1,4 @@
-Bactridium xathertum S.M. Berch SPECIES
-=======
+# Bactridium xathertum S.M. Berch SPECIES
 
 #### Status
 ACCEPTED

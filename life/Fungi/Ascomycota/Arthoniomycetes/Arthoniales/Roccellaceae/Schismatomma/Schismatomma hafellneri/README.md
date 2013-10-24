@@ -1,5 +1,4 @@
-Schismatomma hafellneri Egea & Torrente SPECIES
-=======
+# Schismatomma hafellneri Egea & Torrente SPECIES
 
 #### Status
 ACCEPTED

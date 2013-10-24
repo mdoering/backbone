@@ -1,5 +1,4 @@
-Hystrichosphaeridium arundum Eisenack & Cookson SPECIES
-=======
+# Hystrichosphaeridium arundum Eisenack & Cookson SPECIES
 
 #### Status
 ACCEPTED

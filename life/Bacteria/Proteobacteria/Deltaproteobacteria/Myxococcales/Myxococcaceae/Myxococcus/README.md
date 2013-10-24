@@ -1,5 +1,4 @@
-Myxococcus Thaxter, 1892 GENUS
-=======
+# Myxococcus Thaxter, 1892 GENUS
 
 #### Status
 ACCEPTED

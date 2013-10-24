@@ -1,5 +1,4 @@
-Phyllachora asterigena Ellis & Everh., 1893 SPECIES
-=======
+# Phyllachora asterigena Ellis & Everh., 1893 SPECIES
 
 #### Status
 ACCEPTED

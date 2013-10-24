@@ -1,5 +1,4 @@
-Verrucaria collematodes Garov. SPECIES
-=======
+# Verrucaria collematodes Garov. SPECIES
 
 #### Status
 ACCEPTED

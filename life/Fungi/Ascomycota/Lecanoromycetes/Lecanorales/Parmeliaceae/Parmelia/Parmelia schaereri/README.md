@@ -1,5 +1,4 @@
-Parmelia schaereri Fr. SPECIES
-=======
+# Parmelia schaereri Fr. SPECIES
 
 #### Status
 ACCEPTED

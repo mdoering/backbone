@@ -1,5 +1,4 @@
-Lanopila wahlbergii Fr. SPECIES
-=======
+# Lanopila wahlbergii Fr. SPECIES
 
 #### Status
 ACCEPTED

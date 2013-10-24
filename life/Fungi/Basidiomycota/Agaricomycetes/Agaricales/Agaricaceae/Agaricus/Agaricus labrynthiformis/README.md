@@ -1,5 +1,4 @@
-Agaricus labrynthiformis SPECIES
-=======
+# Agaricus labrynthiformis SPECIES
 
 #### Status
 ACCEPTED

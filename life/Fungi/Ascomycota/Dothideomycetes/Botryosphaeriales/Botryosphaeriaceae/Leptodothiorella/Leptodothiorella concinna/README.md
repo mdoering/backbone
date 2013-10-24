@@ -1,5 +1,4 @@
-Leptodothiorella concinna Syd. SPECIES
-=======
+# Leptodothiorella concinna Syd. SPECIES
 
 #### Status
 ACCEPTED

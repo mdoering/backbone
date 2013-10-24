@@ -1,5 +1,4 @@
-Rinodina confinis Samp. SPECIES
-=======
+# Rinodina confinis Samp. SPECIES
 
 #### Status
 ACCEPTED

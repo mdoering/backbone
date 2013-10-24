@@ -1,5 +1,4 @@
-Baeomyces marginalis Sipman & Aptroot SPECIES
-=======
+# Baeomyces marginalis Sipman & Aptroot SPECIES
 
 #### Status
 ACCEPTED

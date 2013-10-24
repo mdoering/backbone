@@ -1,5 +1,4 @@
-Cladonia laii S. Stenroos SPECIES
-=======
+# Cladonia laii S. Stenroos SPECIES
 
 #### Status
 ACCEPTED

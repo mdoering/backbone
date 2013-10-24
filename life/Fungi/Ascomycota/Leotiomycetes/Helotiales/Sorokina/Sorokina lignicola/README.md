@@ -1,5 +1,4 @@
-Sorokina lignicola (Rodway) Dennis SPECIES
-=======
+# Sorokina lignicola (Rodway) Dennis SPECIES
 
 #### Status
 ACCEPTED

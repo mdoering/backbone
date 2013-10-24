@@ -1,5 +1,4 @@
-Caryospora lichenopsis (A. Massal.) Sacc. SPECIES
-=======
+# Caryospora lichenopsis (A. Massal.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

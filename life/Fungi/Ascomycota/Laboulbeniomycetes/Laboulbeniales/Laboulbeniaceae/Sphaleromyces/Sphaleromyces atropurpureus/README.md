@@ -1,5 +1,4 @@
-Sphaleromyces atropurpureus Thaxt. SPECIES
-=======
+# Sphaleromyces atropurpureus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

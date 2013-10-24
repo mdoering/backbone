@@ -1,5 +1,4 @@
-Gonytrichum erectum Preuss SPECIES
-=======
+# Gonytrichum erectum Preuss SPECIES
 
 #### Status
 ACCEPTED

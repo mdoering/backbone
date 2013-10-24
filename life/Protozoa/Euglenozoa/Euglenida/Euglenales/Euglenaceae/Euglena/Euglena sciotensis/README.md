@@ -1,5 +1,4 @@
-Euglena sciotensis Lackey SPECIES
-=======
+# Euglena sciotensis Lackey SPECIES
 
 #### Status
 ACCEPTED

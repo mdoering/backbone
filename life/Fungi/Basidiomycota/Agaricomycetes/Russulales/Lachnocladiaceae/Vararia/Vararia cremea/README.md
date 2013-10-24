@@ -1,5 +1,4 @@
-Vararia cremea Boidin, Lanq. & Gilles, 1980 SPECIES
-=======
+# Vararia cremea Boidin, Lanq. & Gilles, 1980 SPECIES
 
 #### Status
 ACCEPTED

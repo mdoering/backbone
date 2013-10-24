@@ -1,5 +1,4 @@
-Staurocromyum Haeckel, 1881 GENUS
-=======
+# Staurocromyum Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

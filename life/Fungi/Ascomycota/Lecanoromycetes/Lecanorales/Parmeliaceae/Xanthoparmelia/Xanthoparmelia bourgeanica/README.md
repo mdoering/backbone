@@ -1,17 +1,16 @@
-Paraparmelia brownlieii Elix & J. Johnst. SPECIES
-=======
+# Xanthoparmelia bourgeanica (Elix) Elix SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 87: 398 (2003)
 
 #### Original name
-Paraparmelia brownlieii Elix & J. Johnst.
+Paraparmelia bourgeanica Elix
 
 ### Remarks
 null

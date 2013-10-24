@@ -1,5 +1,4 @@
-Globosopyreno Lloyd GENUS
-=======
+# Globosopyreno Lloyd GENUS
 
 #### Status
 ACCEPTED

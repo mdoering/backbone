@@ -1,5 +1,4 @@
-Anabaena poulseniana J.B. Petersen SPECIES
-=======
+# Anabaena poulseniana J.B. Petersen SPECIES
 
 #### Status
 ACCEPTED

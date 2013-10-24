@@ -1,5 +1,4 @@
-Valsa morigena Berk. & M.A. Curtis SPECIES
-=======
+# Valsa morigena Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

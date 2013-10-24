@@ -1,5 +1,4 @@
-Cetraria peruviana Kärnefelt & A. Thell SPECIES
-=======
+# Cetraria peruviana Kärnefelt & A. Thell SPECIES
 
 #### Status
 ACCEPTED

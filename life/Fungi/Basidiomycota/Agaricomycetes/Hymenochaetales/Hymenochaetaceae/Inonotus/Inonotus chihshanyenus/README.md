@@ -1,5 +1,4 @@
-Inonotus chihshanyenus T.T. Chang & W.N. Chou SPECIES
-=======
+# Inonotus chihshanyenus T.T. Chang & W.N. Chou SPECIES
 
 #### Status
 ACCEPTED

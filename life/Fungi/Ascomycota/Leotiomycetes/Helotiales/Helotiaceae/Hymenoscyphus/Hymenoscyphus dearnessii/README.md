@@ -1,5 +1,4 @@
-Hymenoscyphus dearnessii (Ellis & Everh.) Kuntze SPECIES
-=======
+# Hymenoscyphus dearnessii (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physalospora apiculata (Kalchbr.) Sacc. SPECIES
-=======
+# Physalospora apiculata (Kalchbr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

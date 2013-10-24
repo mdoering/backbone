@@ -1,5 +1,4 @@
-Notorotalia decurrens Chapman, 1941 SPECIES
-=======
+# Notorotalia decurrens Chapman, 1941 SPECIES
 
 #### Status
 ACCEPTED

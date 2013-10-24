@@ -1,5 +1,4 @@
-Protoventuria grossulariae (Auersw. & Fleischh.) M.E. Barr SPECIES
-=======
+# Protoventuria grossulariae (Auersw. & Fleischh.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

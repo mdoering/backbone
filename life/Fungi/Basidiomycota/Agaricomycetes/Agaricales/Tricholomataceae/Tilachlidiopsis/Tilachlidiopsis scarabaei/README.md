@@ -1,5 +1,4 @@
-Tilachlidiopsis scarabaei L.S. Olive SPECIES
-=======
+# Tilachlidiopsis scarabaei L.S. Olive SPECIES
 
 #### Status
 ACCEPTED

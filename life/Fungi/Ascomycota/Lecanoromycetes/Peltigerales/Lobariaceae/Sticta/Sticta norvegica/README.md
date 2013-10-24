@@ -1,5 +1,4 @@
-Sticta norvegica Gyeln. SPECIES
-=======
+# Sticta norvegica Gyeln. SPECIES
 
 #### Status
 ACCEPTED

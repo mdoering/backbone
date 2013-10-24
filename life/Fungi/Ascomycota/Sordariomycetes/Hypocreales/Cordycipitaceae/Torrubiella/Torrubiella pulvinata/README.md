@@ -1,5 +1,4 @@
-Torrubiella pulvinata Mains SPECIES
-=======
+# Torrubiella pulvinata Mains SPECIES
 
 #### Status
 ACCEPTED

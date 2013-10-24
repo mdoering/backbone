@@ -1,5 +1,4 @@
-Cortinarius caesioflavescens Reumaux SPECIES
-=======
+# Cortinarius caesioflavescens Reumaux SPECIES
 
 #### Status
 ACCEPTED

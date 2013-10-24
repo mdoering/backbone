@@ -1,17 +1,16 @@
-Diplodia pruni f. myrobolanae Brunaud FORM
-=======
+# Diplodia pruni Fuckel, 1870 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Erythea 5: 50 (1897)
 
 #### Original name
-Diplodia pruni f. myrobolanae Brunaud
+Diplodia pruni Fuckel, 1870
 
 ### Remarks
 null

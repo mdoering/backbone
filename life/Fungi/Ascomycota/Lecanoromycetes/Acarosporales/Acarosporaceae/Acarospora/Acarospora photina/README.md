@@ -1,5 +1,4 @@
-Acarospora photina A. Massal. SPECIES
-=======
+# Acarospora photina A. Massal. SPECIES
 
 #### Status
 ACCEPTED

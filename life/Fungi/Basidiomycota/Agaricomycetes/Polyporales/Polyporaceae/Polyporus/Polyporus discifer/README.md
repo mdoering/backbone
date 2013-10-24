@@ -1,5 +1,4 @@
-Polyporus discifer Pat. SPECIES
-=======
+# Polyporus discifer Pat. SPECIES
 
 #### Status
 ACCEPTED

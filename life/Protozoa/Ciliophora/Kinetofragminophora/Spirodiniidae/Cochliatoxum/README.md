@@ -1,5 +1,4 @@
-Cochliatoxum Gassovsky, 1919 GENUS
-=======
+# Cochliatoxum Gassovsky, 1919 GENUS
 
 #### Status
 ACCEPTED

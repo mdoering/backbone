@@ -1,5 +1,4 @@
-Polystomellomyces atheniensis Bat., 1959 SPECIES
-=======
+# Polystomellomyces atheniensis Bat., 1959 SPECIES
 
 #### Status
 ACCEPTED

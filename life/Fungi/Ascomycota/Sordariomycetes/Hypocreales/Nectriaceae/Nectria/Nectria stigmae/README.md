@@ -1,5 +1,4 @@
-Nectria stigmae Rehm SPECIES
-=======
+# Nectria stigmae Rehm SPECIES
 
 #### Status
 ACCEPTED

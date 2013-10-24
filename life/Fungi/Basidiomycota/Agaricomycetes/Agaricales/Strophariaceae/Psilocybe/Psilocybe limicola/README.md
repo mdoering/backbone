@@ -1,5 +1,4 @@
-Psilocybe limicola (Peck) Sacc. SPECIES
-=======
+# Psilocybe limicola (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

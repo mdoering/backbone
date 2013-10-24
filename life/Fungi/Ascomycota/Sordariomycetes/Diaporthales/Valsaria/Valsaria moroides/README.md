@@ -1,5 +1,4 @@
-Valsaria moroides (Cooke & Peck) Sacc. SPECIES
-=======
+# Valsaria moroides (Cooke & Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

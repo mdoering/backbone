@@ -1,5 +1,4 @@
-Chamaeceras tomentellus (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Chamaeceras tomentellus (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

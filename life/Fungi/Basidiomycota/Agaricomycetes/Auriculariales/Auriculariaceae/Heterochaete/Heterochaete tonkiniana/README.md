@@ -1,5 +1,4 @@
-Heterochaete tonkiniana Pat. SPECIES
-=======
+# Heterochaete tonkiniana Pat. SPECIES
 
 #### Status
 ACCEPTED

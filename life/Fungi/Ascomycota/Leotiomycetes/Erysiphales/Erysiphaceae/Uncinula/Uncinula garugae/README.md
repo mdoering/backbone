@@ -1,5 +1,4 @@
-Uncinula garugae Bappamm., Hosag. & Udaiyan SPECIES
-=======
+# Uncinula garugae Bappamm., Hosag. & Udaiyan SPECIES
 
 #### Status
 ACCEPTED

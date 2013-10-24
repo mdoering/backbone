@@ -1,14 +1,13 @@
-Flagelloscypha applanata (P.H.B. Talbot) W.B. Cooke, 1961 SPECIES
-=======
+# Heteroscypha applanata (P.H.B. Talbot) Oberw. & Agerer, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beih. Sydowia 4: 59 (1961)
+Beih. Sydowia 8: 31 (1979)
 
 #### Original name
 Cyphella applanata P.H.B. Talbot, 1956

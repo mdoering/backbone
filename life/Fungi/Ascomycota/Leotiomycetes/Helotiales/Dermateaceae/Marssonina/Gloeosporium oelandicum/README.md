@@ -1,5 +1,4 @@
-Gloeosporium oelandicum Lind SPECIES
-=======
+# Gloeosporium oelandicum Lind SPECIES
 
 #### Status
 ACCEPTED

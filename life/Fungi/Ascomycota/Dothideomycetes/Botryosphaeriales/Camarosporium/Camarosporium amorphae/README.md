@@ -1,5 +1,4 @@
-Camarosporium amorphae Henn. SPECIES
-=======
+# Camarosporium amorphae Henn. SPECIES
 
 #### Status
 ACCEPTED

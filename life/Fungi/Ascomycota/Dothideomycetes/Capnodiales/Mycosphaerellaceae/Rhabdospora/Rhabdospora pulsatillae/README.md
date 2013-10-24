@@ -1,5 +1,4 @@
-Rhabdospora pulsatillae Syd. {?} SPECIES
-=======
+# Rhabdospora pulsatillae Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

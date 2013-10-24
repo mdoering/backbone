@@ -1,5 +1,4 @@
-Uredo celastri-paniculatae T.S. Ramakr. & Sundaram SPECIES
-=======
+# Uredo celastri-paniculatae T.S. Ramakr. & Sundaram SPECIES
 
 #### Status
 ACCEPTED

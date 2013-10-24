@@ -1,5 +1,4 @@
-Marginulina planata SPECIES
-=======
+# Marginulina planata SPECIES
 
 #### Status
 ACCEPTED

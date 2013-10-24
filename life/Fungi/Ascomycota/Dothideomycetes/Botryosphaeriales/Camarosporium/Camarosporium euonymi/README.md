@@ -1,8 +1,7 @@
-Camarosporium evonymi Bres. SPECIES
-=======
+# Camarosporium euonymi Bres. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Camarosporium evonymi Bres.
+Camarosporium euonymi Bres.
 
 ### Remarks
 null

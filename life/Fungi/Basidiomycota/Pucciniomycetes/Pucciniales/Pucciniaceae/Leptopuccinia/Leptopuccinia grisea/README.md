@@ -1,5 +1,4 @@
-Leptopuccinia grisea (F. Strauss) Syd. SPECIES
-=======
+# Leptopuccinia grisea (F. Strauss) Syd. SPECIES
 
 #### Status
 ACCEPTED

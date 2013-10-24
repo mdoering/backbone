@@ -1,5 +1,4 @@
-Polyactis cana Corda SPECIES
-=======
+# Polyactis cana Corda SPECIES
 
 #### Status
 ACCEPTED

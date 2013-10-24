@@ -1,5 +1,4 @@
-Arachnochloris maior Pascher SPECIES
-=======
+# Arachnochloris maior Pascher SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Sticta fragillima f. punctillaris (Müll. Arg.) Zahlbr. FORM
-=======
+# Pseudocyphellaria punctillaris (Müll. Arg.) D. J. Galloway SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Graphis Scripta 5(1): 9 (1993)
 
 #### Original name
 Stictina punctillaris Müll. Arg.

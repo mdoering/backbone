@@ -1,5 +1,4 @@
-Stanjehughesia Subram. GENUS
-=======
+# Stanjehughesia Subram. GENUS
 
 #### Status
 ACCEPTED

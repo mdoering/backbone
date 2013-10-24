@@ -1,5 +1,4 @@
-Pseudocercospora guttulata (Ellis & Kellerm.) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora guttulata (Ellis & Kellerm.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

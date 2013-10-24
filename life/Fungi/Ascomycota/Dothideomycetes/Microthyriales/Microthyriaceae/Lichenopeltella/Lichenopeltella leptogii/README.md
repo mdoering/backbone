@@ -1,5 +1,4 @@
-Lichenopeltella leptogii Diederich SPECIES
-=======
+# Lichenopeltella leptogii Diederich SPECIES
 
 #### Status
 ACCEPTED

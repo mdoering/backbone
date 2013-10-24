@@ -1,5 +1,4 @@
-Amanita breckonii Thiers & Ammirati SPECIES
-=======
+# Amanita breckonii Thiers & Ammirati SPECIES
 
 #### Status
 ACCEPTED

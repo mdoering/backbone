@@ -1,5 +1,4 @@
-Hypocrea capularis Pat. SPECIES
-=======
+# Hypocrea capularis Pat. SPECIES
 
 #### Status
 ACCEPTED

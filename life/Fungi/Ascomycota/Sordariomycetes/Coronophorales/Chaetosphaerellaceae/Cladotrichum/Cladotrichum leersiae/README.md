@@ -1,5 +1,4 @@
-Cladotrichum leersiae G.F. Atk. SPECIES
-=======
+# Cladotrichum leersiae G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

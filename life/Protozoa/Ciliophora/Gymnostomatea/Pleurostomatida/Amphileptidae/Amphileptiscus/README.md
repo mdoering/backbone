@@ -1,5 +1,4 @@
-Amphileptiscus Song & Bradbury, 1998 GENUS
-=======
+# Amphileptiscus Song & Bradbury, 1998 GENUS
 
 #### Status
 ACCEPTED

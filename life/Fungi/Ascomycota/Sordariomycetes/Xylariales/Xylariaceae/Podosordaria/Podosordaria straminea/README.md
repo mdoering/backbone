@@ -1,5 +1,4 @@
-Podosordaria straminea Udagawa SPECIES
-=======
+# Podosordaria straminea Udagawa SPECIES
 
 #### Status
 ACCEPTED

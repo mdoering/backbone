@@ -1,5 +1,4 @@
-Coniothyrium mororum Briosi & Farneti SPECIES
-=======
+# Coniothyrium mororum Briosi & Farneti SPECIES
 
 #### Status
 ACCEPTED

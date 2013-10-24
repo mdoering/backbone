@@ -1,5 +1,4 @@
-Spirochaeta undulata SPECIES
-=======
+# Spirochaeta undulata SPECIES
 
 #### Status
 ACCEPTED

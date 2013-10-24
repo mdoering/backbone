@@ -1,5 +1,4 @@
-Coriolus depauperatus (Pat.) Murrill SPECIES
-=======
+# Coriolus depauperatus (Pat.) Murrill SPECIES
 
 #### Status
 ACCEPTED

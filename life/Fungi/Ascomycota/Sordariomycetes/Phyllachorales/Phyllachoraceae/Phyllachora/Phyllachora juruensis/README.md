@@ -1,8 +1,7 @@
-Phyllachora juruensis var. juruensis Henn., 1904 VARIETY
-=======
+# Phyllachora juruensis Henn., 1904 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Hedwigia 43: 252 (1904)
 
 #### Original name
-Phyllachora juruensis var. juruensis Henn., 1904
+Phyllachora juruensis Henn., 1904
 
 ### Remarks
 null

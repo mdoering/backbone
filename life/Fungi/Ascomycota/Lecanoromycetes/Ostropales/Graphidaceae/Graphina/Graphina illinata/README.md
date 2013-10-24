@@ -1,5 +1,4 @@
-Graphina illinata (Eschw.) M. Wirth & Hale SPECIES
-=======
+# Graphina illinata (Eschw.) M. Wirth & Hale SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physcia polycarpa (Hoffm.) Linds. SPECIES
-=======
+# Physcia polycarpa (Hoffm.) Linds. SPECIES
 
 #### Status
 ACCEPTED

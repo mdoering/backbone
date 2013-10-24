@@ -1,5 +1,4 @@
-Biatora ghisleri Hepp SPECIES
-=======
+# Biatora ghisleri Hepp SPECIES
 
 #### Status
 ACCEPTED

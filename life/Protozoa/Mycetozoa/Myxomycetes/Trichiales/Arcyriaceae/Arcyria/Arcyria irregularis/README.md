@@ -1,5 +1,4 @@
-Arcyria irregularis Racib. SPECIES
-=======
+# Arcyria irregularis Racib. SPECIES
 
 #### Status
 ACCEPTED

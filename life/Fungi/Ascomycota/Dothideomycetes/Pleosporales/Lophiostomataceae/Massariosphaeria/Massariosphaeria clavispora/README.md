@@ -1,5 +1,4 @@
-Massariosphaeria clavispora (Cooke & Peck) Kaz. Tanaka & Y. Harada SPECIES
-=======
+# Massariosphaeria clavispora (Cooke & Peck) Kaz. Tanaka & Y. Harada SPECIES
 
 #### Status
 ACCEPTED

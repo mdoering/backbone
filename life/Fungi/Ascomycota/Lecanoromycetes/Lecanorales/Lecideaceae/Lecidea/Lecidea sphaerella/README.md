@@ -1,5 +1,4 @@
-Lecidea sphaerella Hedl. SPECIES
-=======
+# Lecidea sphaerella Hedl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplura simplex J. Tanaka & Chihara SPECIES
-=======
+# Diplura simplex J. Tanaka & Chihara SPECIES
 
 #### Status
 ACCEPTED

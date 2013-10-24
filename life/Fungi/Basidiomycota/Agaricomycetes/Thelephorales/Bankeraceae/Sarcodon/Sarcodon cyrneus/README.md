@@ -1,5 +1,4 @@
-Sarcodon cyrneus Maas Geest. SPECIES
-=======
+# Sarcodon cyrneus Maas Geest. SPECIES
 
 #### Status
 ACCEPTED

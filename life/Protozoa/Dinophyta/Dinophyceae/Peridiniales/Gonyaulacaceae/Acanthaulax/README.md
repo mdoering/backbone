@@ -1,5 +1,4 @@
-Acanthaulax W.A.S. Sarjeant, 1968 GENUS
-=======
+# Acanthaulax W.A.S. Sarjeant, 1968 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhodococcus globerulus Goodfellow et al., 1985 SPECIES
-=======
+# Rhodococcus globerulus Goodfellow et al., 1985 SPECIES
 
 #### Status
 ACCEPTED

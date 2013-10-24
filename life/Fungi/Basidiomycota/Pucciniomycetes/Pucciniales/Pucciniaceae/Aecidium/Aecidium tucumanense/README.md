@@ -1,5 +1,4 @@
-Aecidium tucumanense Speg. SPECIES
-=======
+# Aecidium tucumanense Speg. SPECIES
 
 #### Status
 ACCEPTED

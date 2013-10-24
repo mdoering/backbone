@@ -1,5 +1,4 @@
-Crucibulum juglandicola (Schwein.) De Toni SPECIES
-=======
+# Crucibulum juglandicola (Schwein.) De Toni SPECIES
 
 #### Status
 ACCEPTED

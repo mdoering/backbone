@@ -1,14 +1,13 @@
-Lachnella inopinata Kirschst., 1938 SPECIES
-=======
+# Fuscolachnum inopinatum (Kirschst.) J.H. Haines, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 36(5/6): 383 (1938)
+Mem. N. Y. bot. Gdn 49: 319 (1989)
 
 #### Original name
 Lachnella inopinata Kirschst., 1938

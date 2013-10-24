@@ -1,5 +1,4 @@
-Hypocoma zoothamni (Plate, 1888) Jankowski, 2007 SPECIES
-=======
+# Hypocoma zoothamni (Plate, 1888) Jankowski, 2007 SPECIES
 
 #### Status
 ACCEPTED

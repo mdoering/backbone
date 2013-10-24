@@ -1,5 +1,4 @@
-Allodus jussiaeae (Speg.) Arthur & Orton SPECIES
-=======
+# Allodus jussiaeae (Speg.) Arthur & Orton SPECIES
 
 #### Status
 ACCEPTED

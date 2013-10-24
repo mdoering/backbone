@@ -1,5 +1,4 @@
-Lyngbya gomontiana P. A. C. Senna SPECIES
-=======
+# Lyngbya gomontiana P. A. C. Senna SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gyroporus brunneofloccosus T.H. Li, W.Q. Deng & B. Song, 2003 SPECIES
-=======
+# Gyroporus brunneofloccosus T.H. Li, W.Q. Deng & B. Song, 2003 SPECIES
 
 #### Status
 ACCEPTED

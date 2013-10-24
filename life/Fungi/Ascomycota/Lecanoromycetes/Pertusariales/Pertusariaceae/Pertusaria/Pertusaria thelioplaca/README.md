@@ -1,5 +1,4 @@
-Pertusaria thelioplaca Nyl. SPECIES
-=======
+# Pertusaria thelioplaca Nyl. SPECIES
 
 #### Status
 ACCEPTED

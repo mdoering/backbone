@@ -1,5 +1,4 @@
-Ustilago adoxae Bref. SPECIES
-=======
+# Ustilago adoxae Bref. SPECIES
 
 #### Status
 ACCEPTED

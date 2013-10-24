@@ -1,5 +1,4 @@
-Lecidea stanleyi SPECIES
-=======
+# Lecidea stanleyi SPECIES
 
 #### Status
 ACCEPTED

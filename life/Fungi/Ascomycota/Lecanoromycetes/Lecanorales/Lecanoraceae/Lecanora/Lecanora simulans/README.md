@@ -1,5 +1,4 @@
-Lecanora simulans (Kernst.) Lettau SPECIES
-=======
+# Lecanora simulans (Kernst.) Lettau SPECIES
 
 #### Status
 ACCEPTED

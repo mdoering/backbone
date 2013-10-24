@@ -1,5 +1,4 @@
-Hypocrea thailandica P. Chaverri & Samuels SPECIES
-=======
+# Hypocrea thailandica P. Chaverri & Samuels SPECIES
 
 #### Status
 ACCEPTED

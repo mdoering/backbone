@@ -1,5 +1,4 @@
-Eugeniella newtoniana (Henriq.) Lücking, Sérus. & Kalb SPECIES
-=======
+# Eugeniella newtoniana (Henriq.) Lücking, Sérus. & Kalb SPECIES
 
 #### Status
 ACCEPTED

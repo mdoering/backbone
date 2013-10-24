@@ -1,5 +1,4 @@
-Caloplaca charcotii (Hue) Zahlbr. SPECIES
-=======
+# Caloplaca charcotii (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

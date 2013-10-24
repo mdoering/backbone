@@ -1,5 +1,4 @@
-Virgulopsis pustulata Finlay, 1939 SPECIES
-=======
+# Virgulopsis pustulata Finlay, 1939 SPECIES
 
 #### Status
 ACCEPTED

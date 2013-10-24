@@ -1,5 +1,4 @@
-Izhoria angulata Golub & Volkova in Volkova & Golub, 1985 SPECIES
-=======
+# Izhoria angulata Golub & Volkova in Volkova & Golub, 1985 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyphelium cyathellum Chevall. SPECIES
-=======
+# Cyphelium cyathellum Chevall. SPECIES
 
 #### Status
 ACCEPTED

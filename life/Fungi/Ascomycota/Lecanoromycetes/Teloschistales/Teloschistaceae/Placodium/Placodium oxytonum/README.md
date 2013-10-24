@@ -1,5 +1,4 @@
-Placodium oxytonum (Ach.) SPECIES
-=======
+# Placodium oxytonum (Ach.) SPECIES
 
 #### Status
 ACCEPTED

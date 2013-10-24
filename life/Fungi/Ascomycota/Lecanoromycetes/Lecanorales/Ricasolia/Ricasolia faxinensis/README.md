@@ -1,5 +1,4 @@
-Ricasolia faxinensis Müll. Arg. SPECIES
-=======
+# Ricasolia faxinensis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

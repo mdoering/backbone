@@ -1,5 +1,4 @@
-Cylindrocladium sumatrense Crous SPECIES
-=======
+# Cylindrocladium sumatrense Crous SPECIES
 
 #### Status
 ACCEPTED

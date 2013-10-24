@@ -1,5 +1,4 @@
-Irenina cheoi Hansf. SPECIES
-=======
+# Irenina cheoi Hansf. SPECIES
 
 #### Status
 ACCEPTED

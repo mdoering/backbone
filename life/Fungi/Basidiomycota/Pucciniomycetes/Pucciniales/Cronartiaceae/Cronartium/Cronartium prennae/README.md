@@ -1,5 +1,4 @@
-Cronartium prennae Petch SPECIES
-=======
+# Cronartium prennae Petch SPECIES
 
 #### Status
 ACCEPTED

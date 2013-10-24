@@ -1,5 +1,4 @@
-Selenophaea Chodat, 1922 GENUS
-=======
+# Selenophaea Chodat, 1922 GENUS
 
 #### Status
 ACCEPTED

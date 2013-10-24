@@ -1,5 +1,4 @@
-Usnea scholanderi Llano SPECIES
-=======
+# Usnea scholanderi Llano SPECIES
 
 #### Status
 ACCEPTED

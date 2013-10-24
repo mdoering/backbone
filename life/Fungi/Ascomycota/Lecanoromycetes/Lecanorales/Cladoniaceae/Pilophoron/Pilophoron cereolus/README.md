@@ -1,5 +1,4 @@
-Pilophoron cereolus (Ach.) Th. Fr. SPECIES
-=======
+# Pilophoron cereolus (Ach.) Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

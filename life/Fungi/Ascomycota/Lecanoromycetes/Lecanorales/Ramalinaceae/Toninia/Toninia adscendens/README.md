@@ -1,5 +1,4 @@
-Toninia adscendens (Vain.) Zahlbr. SPECIES
-=======
+# Toninia adscendens (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

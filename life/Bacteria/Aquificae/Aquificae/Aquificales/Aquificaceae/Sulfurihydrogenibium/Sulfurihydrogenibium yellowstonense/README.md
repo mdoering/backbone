@@ -1,5 +1,4 @@
-Sulfurihydrogenibium yellowstonense Nakagawa et al., 2005 SPECIES
-=======
+# Sulfurihydrogenibium yellowstonense Nakagawa et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

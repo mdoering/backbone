@@ -1,5 +1,4 @@
-Polychidium polyschides (Mont.) Trevis. SPECIES
-=======
+# Polychidium polyschides (Mont.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

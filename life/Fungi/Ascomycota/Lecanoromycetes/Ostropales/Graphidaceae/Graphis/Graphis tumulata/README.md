@@ -1,5 +1,4 @@
-Graphis tumulata Nyl. SPECIES
-=======
+# Graphis tumulata Nyl. SPECIES
 
 #### Status
 ACCEPTED

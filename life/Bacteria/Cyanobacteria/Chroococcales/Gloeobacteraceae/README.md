@@ -1,5 +1,4 @@
-Gloeobacteraceae FAMILY
-=======
+# Gloeobacteraceae FAMILY
 
 #### Status
 ACCEPTED

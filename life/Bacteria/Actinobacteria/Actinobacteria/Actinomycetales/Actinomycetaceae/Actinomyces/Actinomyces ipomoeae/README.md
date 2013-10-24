@@ -1,5 +1,4 @@
-Actinomyces ipomoeae Person & W.J. Martin SPECIES
-=======
+# Actinomyces ipomoeae Person & W.J. Martin SPECIES
 
 #### Status
 ACCEPTED

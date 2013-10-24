@@ -1,5 +1,4 @@
-Puccinia arvernensis Liou SPECIES
-=======
+# Puccinia arvernensis Liou SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Coscinodiscus oculusiridis Ehrenberg, 1840 SPECIES
-=======
+# Coscinodiscus oculus-iridis (Ehrenberg) Ehrenberg, 1854 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

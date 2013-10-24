@@ -1,5 +1,4 @@
-Fusicoccum caraganae Danilova SPECIES
-=======
+# Fusicoccum caraganae Danilova SPECIES
 
 #### Status
 ACCEPTED

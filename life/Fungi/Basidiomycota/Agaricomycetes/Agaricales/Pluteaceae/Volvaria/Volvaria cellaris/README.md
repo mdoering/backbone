@@ -1,5 +1,4 @@
-Volvaria cellaris (Brond.) Quél. SPECIES
-=======
+# Volvaria cellaris (Brond.) Quél. SPECIES
 
 #### Status
 ACCEPTED

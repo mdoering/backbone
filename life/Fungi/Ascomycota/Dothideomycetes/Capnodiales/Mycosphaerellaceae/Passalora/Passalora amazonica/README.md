@@ -1,5 +1,4 @@
-Passalora amazonica U. Braun SPECIES
-=======
+# Passalora amazonica U. Braun SPECIES
 
 #### Status
 ACCEPTED

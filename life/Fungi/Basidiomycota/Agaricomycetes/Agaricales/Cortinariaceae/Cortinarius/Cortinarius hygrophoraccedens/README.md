@@ -1,5 +1,4 @@
-Cortinarius hygrophoraccedens Rob. Henry SPECIES
-=======
+# Cortinarius hygrophoraccedens Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

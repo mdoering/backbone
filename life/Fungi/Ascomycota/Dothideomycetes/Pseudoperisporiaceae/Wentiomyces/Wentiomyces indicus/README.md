@@ -1,5 +1,4 @@
-Wentiomyces indicus Tilak, S.B. Kale & S.V.S. Kale SPECIES
-=======
+# Wentiomyces indicus Tilak, S.B. Kale & S.V.S. Kale SPECIES
 
 #### Status
 ACCEPTED

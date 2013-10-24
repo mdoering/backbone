@@ -1,5 +1,4 @@
-Lachnea pilosa (Schumach.) Sacc. SPECIES
-=======
+# Lachnea pilosa (Schumach.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

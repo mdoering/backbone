@@ -1,5 +1,4 @@
-Frankea longispinosa (Pöthé de Baldis, 1975) Sarjeant & Vavrdová, 1997 SPECIES
-=======
+# Frankea longispinosa (Pöthé de Baldis, 1975) Sarjeant & Vavrdová, 1997 SPECIES
 
 #### Status
 ACCEPTED

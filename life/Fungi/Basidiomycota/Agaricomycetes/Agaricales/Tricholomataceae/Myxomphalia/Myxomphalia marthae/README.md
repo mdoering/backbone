@@ -1,14 +1,13 @@
-Fayodia marthae Singer & Clémençon, 1971 SPECIES
-=======
+# Myxomphalia marthae (Singer & Clémençon) M.M. Moser, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Schweiz. Z. Pilzk. 49(9): 122 (1971)
+in Gams, Kleine Kryptogamenflora (Stuttgart), Bd <b>II</b> b/2, ed. 4 2b/2: 186 (1978)
 
 #### Original name
 Fayodia marthae Singer & Clémençon, 1971

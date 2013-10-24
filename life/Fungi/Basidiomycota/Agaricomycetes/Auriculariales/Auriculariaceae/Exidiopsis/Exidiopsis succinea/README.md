@@ -1,5 +1,4 @@
-Exidiopsis succinea K. Wells & Raitv. SPECIES
-=======
+# Exidiopsis succinea K. Wells & Raitv. SPECIES
 
 #### Status
 ACCEPTED

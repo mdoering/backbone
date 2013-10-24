@@ -1,5 +1,4 @@
-Ascampbelliella acuta (Kofoid & Campbell, 1929) SPECIES
-=======
+# Ascampbelliella acuta (Kofoid & Campbell, 1929) SPECIES
 
 #### Status
 ACCEPTED

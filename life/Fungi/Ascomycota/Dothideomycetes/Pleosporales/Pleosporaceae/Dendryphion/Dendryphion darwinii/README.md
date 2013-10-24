@@ -1,5 +1,4 @@
-Dendryphion darwinii Siboe, P.M. Kirk & P.F. Cannon SPECIES
-=======
+# Dendryphion darwinii Siboe, P.M. Kirk & P.F. Cannon SPECIES
 
 #### Status
 ACCEPTED

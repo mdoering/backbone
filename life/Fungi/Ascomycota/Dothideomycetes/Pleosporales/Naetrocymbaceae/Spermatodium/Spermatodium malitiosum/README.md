@@ -1,5 +1,4 @@
-Spermatodium malitiosum Trevis. SPECIES
-=======
+# Spermatodium malitiosum Trevis. SPECIES
 
 #### Status
 ACCEPTED

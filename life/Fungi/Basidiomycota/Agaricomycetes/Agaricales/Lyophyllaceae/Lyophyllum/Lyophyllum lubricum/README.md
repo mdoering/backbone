@@ -1,5 +1,4 @@
-Lyophyllum lubricum Clémençon & A.H. Sm. SPECIES
-=======
+# Lyophyllum lubricum Clémençon & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

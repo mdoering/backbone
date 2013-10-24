@@ -1,5 +1,4 @@
-Brachysporisporites endophragmia Kalgutkar & Sigler SPECIES
-=======
+# Brachysporisporites endophragmia Kalgutkar & Sigler SPECIES
 
 #### Status
 ACCEPTED

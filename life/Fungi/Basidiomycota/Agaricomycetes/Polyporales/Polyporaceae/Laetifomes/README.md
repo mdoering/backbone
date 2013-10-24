@@ -1,5 +1,4 @@
-Laetifomes Hattori GENUS
-=======
+# Laetifomes Hattori GENUS
 
 #### Status
 ACCEPTED

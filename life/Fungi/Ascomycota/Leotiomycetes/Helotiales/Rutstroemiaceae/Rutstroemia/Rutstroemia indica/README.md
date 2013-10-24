@@ -1,5 +1,4 @@
-Rutstroemia indica K.S. Thind & H. Singh SPECIES
-=======
+# Rutstroemia indica K.S. Thind & H. Singh SPECIES
 
 #### Status
 ACCEPTED

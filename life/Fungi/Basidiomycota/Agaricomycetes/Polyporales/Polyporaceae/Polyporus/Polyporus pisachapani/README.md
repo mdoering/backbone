@@ -1,5 +1,4 @@
-Polyporus pisachapani Nees SPECIES
-=======
+# Polyporus pisachapani Nees SPECIES
 
 #### Status
 ACCEPTED

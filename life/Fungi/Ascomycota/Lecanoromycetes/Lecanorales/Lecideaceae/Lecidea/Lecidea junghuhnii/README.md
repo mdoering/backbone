@@ -1,5 +1,4 @@
-Lecidea junghuhnii (Mont. & Bosch) Overeem SPECIES
-=======
+# Lecidea junghuhnii (Mont. & Bosch) Overeem SPECIES
 
 #### Status
 ACCEPTED

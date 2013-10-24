@@ -1,5 +1,4 @@
-Hygrophorus congelatus Peck SPECIES
-=======
+# Hygrophorus congelatus Peck SPECIES
 
 #### Status
 ACCEPTED

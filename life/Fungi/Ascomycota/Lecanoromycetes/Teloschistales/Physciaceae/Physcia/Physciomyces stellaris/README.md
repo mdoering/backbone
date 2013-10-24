@@ -1,5 +1,4 @@
-Physciomyces stellaris E.A. Thomas ex Cif. & Tomas. SPECIES
-=======
+# Physciomyces stellaris E.A. Thomas ex Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

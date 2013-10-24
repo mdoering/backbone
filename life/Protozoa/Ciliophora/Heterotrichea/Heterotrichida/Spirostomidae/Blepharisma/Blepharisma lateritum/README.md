@@ -1,5 +1,4 @@
-Blepharisma lateritum Ehrenberg, 1831 SPECIES
-=======
+# Blepharisma lateritum Ehrenberg, 1831 SPECIES
 
 #### Status
 ACCEPTED

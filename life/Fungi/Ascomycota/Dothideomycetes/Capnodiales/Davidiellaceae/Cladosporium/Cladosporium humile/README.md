@@ -1,14 +1,13 @@
-Fusicladium humile (Davis) K. Schub. & U. Braun, 2002 SPECIES
-=======
+# Cladosporium humile Davis, 1919 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-IMI Descr. Fungi Bact. 152(nos 1511-1520): [20] (2002)
+Trans. Wis. Acad. Sci. Arts Lett. 19: 702 (1919)
 
 #### Original name
 Cladosporium humile Davis, 1919

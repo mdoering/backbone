@@ -1,5 +1,4 @@
-Calicium subtrabinellum var. subtrabinellum VARIETY
-=======
+# Calicium subtrabinellum Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Calicium subtrabinellum var. subtrabinellum
+Calicium subtrabinellum Vain.
 
 ### Remarks
 null

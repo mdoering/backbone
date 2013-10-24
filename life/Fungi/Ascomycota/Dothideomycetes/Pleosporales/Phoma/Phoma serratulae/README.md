@@ -1,5 +1,4 @@
-Phoma serratulae Allesch. SPECIES
-=======
+# Phoma serratulae Allesch. SPECIES
 
 #### Status
 ACCEPTED

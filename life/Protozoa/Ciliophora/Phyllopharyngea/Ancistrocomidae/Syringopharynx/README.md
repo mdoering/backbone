@@ -1,5 +1,4 @@
-Syringopharynx Collin, 1915 GENUS
-=======
+# Syringopharynx Collin, 1915 GENUS
 
 #### Status
 ACCEPTED

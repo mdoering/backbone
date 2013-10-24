@@ -1,5 +1,4 @@
-Inocybe populea Takah. Kobay. & Courtec. SPECIES
-=======
+# Inocybe populea Takah. Kobay. & Courtec. SPECIES
 
 #### Status
 ACCEPTED

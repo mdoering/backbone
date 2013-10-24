@@ -1,5 +1,4 @@
-Scutellinia subhirtella Svrcek, 1971 SPECIES
-=======
+# Scutellinia subhirtella Svrcek, 1971 SPECIES
 
 #### Status
 ACCEPTED

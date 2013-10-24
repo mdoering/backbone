@@ -1,5 +1,4 @@
-Lactella helocharis Maessen SPECIES
-=======
+# Lactella helocharis Maessen SPECIES
 
 #### Status
 ACCEPTED

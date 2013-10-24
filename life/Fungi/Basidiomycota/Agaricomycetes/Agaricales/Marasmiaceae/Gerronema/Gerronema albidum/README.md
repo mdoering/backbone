@@ -1,14 +1,13 @@
-Merulius albidus (Fr.) Pers., 1825 SPECIES
-=======
+# Gerronema albidum (Fr.) Singer, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. eur. (Erlanga) 2: 14 (1825)
+Sydowia 15: 49 (1962)
 
 #### Original name
 Cantharellus albidus Fr., 1821

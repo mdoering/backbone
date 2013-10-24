@@ -1,17 +1,16 @@
-Diploschistes diacapsis subsp. diacapsis SUBSPECIES
-=======
+# Diploschistes diacapsis (Ach.) Lumbsch SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Lichenologist 20(1): 20 (1988)
 
 #### Original name
-Diploschistes diacapsis subsp. diacapsis
+Urceolaria diacapsis Ach.
 
 ### Remarks
 null

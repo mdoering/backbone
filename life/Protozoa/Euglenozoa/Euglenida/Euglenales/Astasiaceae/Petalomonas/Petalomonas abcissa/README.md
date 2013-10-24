@@ -1,5 +1,4 @@
-Petalomonas abcissa var. paralella Klebs VARIETY
-=======
+# Petalomonas abcissa (Dujardin) Stein SPECIES
 
 #### Status
 ACCEPTED

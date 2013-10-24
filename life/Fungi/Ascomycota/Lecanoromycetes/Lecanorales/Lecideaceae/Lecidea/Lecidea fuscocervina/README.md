@@ -1,5 +1,4 @@
-Lecidea fuscocervina Kremp. SPECIES
-=======
+# Lecidea fuscocervina Kremp. SPECIES
 
 #### Status
 ACCEPTED

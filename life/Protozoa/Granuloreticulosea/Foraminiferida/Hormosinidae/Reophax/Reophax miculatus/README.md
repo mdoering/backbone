@@ -1,5 +1,4 @@
-Reophax miculatus Zheng, 1988 SPECIES
-=======
+# Reophax miculatus Zheng, 1988 SPECIES
 
 #### Status
 ACCEPTED

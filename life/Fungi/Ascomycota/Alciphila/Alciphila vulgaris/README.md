@@ -1,5 +1,4 @@
-Alciphila vulgaris Harmaja, 2002 SPECIES
-=======
+# Alciphila vulgaris Harmaja, 2002 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dimeromyces aphanocephali Thaxt. SPECIES
-=======
+# Dimeromyces aphanocephali Thaxt. SPECIES
 
 #### Status
 ACCEPTED

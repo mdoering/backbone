@@ -1,5 +1,4 @@
-Paathramaya indica (Henn.) R.T. Moore SPECIES
-=======
+# Paathramaya indica (Henn.) R.T. Moore SPECIES
 
 #### Status
 ACCEPTED

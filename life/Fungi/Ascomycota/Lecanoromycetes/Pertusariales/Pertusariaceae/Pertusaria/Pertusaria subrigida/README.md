@@ -1,5 +1,4 @@
-Pertusaria subrigida Müll. Arg. SPECIES
-=======
+# Pertusaria subrigida Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

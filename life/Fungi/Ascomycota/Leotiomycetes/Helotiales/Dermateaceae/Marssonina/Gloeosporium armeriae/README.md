@@ -1,5 +1,4 @@
-Gloeosporium armeriae Allesch. SPECIES
-=======
+# Gloeosporium armeriae Allesch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hirsutella dendritica Samson & H.C. Evans SPECIES
-=======
+# Hirsutella dendritica Samson & H.C. Evans SPECIES
 
 #### Status
 ACCEPTED

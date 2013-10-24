@@ -1,5 +1,4 @@
-Asteromella ebuli (Fuckel) Moesz ex Bat. & Peres SPECIES
-=======
+# Asteromella ebuli (Fuckel) Moesz ex Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

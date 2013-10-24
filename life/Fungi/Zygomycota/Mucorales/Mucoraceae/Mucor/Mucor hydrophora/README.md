@@ -1,5 +1,4 @@
-Mucor hydrophora Pers. SPECIES
-=======
+# Mucor hydrophora Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gomphus pallidus (Yasuda) Corner SPECIES
-=======
+# Gomphus pallidus (Yasuda) Corner SPECIES
 
 #### Status
 ACCEPTED

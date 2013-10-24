@@ -1,5 +1,4 @@
-Santessonia sorediata Sérus. & Wessels SPECIES
-=======
+# Santessonia sorediata Sérus. & Wessels SPECIES
 
 #### Status
 ACCEPTED

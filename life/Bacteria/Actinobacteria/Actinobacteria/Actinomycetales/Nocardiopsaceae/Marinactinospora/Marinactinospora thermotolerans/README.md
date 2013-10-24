@@ -1,5 +1,4 @@
-Marinactinospora thermotolerans Tian, Tang, Dong, Zhang, Xu, Zhang & Li, 2009 SPECIES
-=======
+# Marinactinospora thermotolerans Tian, Tang, Dong, Zhang, Xu, Zhang & Li, 2009 SPECIES
 
 #### Status
 ACCEPTED

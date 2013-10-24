@@ -1,5 +1,4 @@
-Ramularia hughesiana (Sacc.) U. Braun SPECIES
-=======
+# Ramularia hughesiana (Sacc.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

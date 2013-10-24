@@ -1,5 +1,4 @@
-Caloplaca bonae-spei Almb. & Poelt SPECIES
-=======
+# Caloplaca bonae-spei Almb. & Poelt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercosporella prolificans (Ellis & Holw.) Sacc. SPECIES
-=======
+# Cercosporella prolificans (Ellis & Holw.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

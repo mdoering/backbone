@@ -1,5 +1,4 @@
-Ophiocytium arbusculum (A. Braun) Rabenh., 1868 SPECIES
-=======
+# Ophiocytium arbusculum (A. Braun) Rabenh., 1868 SPECIES
 
 #### Status
 ACCEPTED

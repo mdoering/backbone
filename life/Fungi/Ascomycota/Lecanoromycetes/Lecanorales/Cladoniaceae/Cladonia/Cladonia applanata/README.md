@@ -1,5 +1,4 @@
-Cladonia applanata Räsänen SPECIES
-=======
+# Cladonia applanata Räsänen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrophorus mississippiensis Cibula SPECIES
-=======
+# Hygrophorus mississippiensis Cibula SPECIES
 
 #### Status
 ACCEPTED

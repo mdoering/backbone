@@ -1,5 +1,4 @@
-Sphaeria vesicularia (Linds.) H. Olivier SPECIES
-=======
+# Sphaeria vesicularia (Linds.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

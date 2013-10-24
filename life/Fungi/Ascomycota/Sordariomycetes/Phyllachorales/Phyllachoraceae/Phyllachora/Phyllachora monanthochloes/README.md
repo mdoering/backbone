@@ -1,5 +1,4 @@
-Phyllachora monanthochloes Petr., 1955 SPECIES
-=======
+# Phyllachora monanthochloes Petr., 1955 SPECIES
 
 #### Status
 ACCEPTED

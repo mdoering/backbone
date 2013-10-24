@@ -1,5 +1,4 @@
-Archefusus Tikhomirova, 1987 GENUS
-=======
+# Archefusus Tikhomirova, 1987 GENUS
 
 #### Status
 ACCEPTED

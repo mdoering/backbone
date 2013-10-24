@@ -1,5 +1,4 @@
-Rosellinia inspersa (Berk.) Sacc. SPECIES
-=======
+# Rosellinia inspersa (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

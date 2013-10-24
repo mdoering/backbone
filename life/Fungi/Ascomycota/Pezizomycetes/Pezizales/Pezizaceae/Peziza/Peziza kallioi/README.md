@@ -1,5 +1,4 @@
-Peziza kallioi Harmaja SPECIES
-=======
+# Peziza kallioi Harmaja SPECIES
 
 #### Status
 ACCEPTED

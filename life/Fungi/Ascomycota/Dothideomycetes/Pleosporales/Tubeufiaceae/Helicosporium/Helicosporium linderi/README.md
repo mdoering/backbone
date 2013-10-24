@@ -1,5 +1,4 @@
-Helicosporium linderi R.T. Moore, 1954 SPECIES
-=======
+# Helicosporium linderi R.T. Moore, 1954 SPECIES
 
 #### Status
 ACCEPTED

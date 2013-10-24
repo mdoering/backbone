@@ -1,5 +1,4 @@
-Schiffnerula concinna Petr. SPECIES
-=======
+# Schiffnerula concinna Petr. SPECIES
 
 #### Status
 ACCEPTED

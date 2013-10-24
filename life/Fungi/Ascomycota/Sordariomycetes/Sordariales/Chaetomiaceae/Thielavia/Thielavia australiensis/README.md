@@ -1,5 +1,4 @@
-Thielavia australiensis Tansey & M.A. Jack, 1975 SPECIES
-=======
+# Thielavia australiensis Tansey & M.A. Jack, 1975 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stylonychia labiata Dumas SPECIES
-=======
+# Stylonychia labiata Dumas SPECIES
 
 #### Status
 ACCEPTED

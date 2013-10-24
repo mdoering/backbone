@@ -1,5 +1,4 @@
-Fucus capitatus J.F. Gmel. SPECIES
-=======
+# Fucus capitatus J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

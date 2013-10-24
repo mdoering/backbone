@@ -1,5 +1,4 @@
-Ceratobasidium sphaerosporum Warcup & P.H.B. Talbot, 1971 SPECIES
-=======
+# Ceratobasidium sphaerosporum Warcup & P.H.B. Talbot, 1971 SPECIES
 
 #### Status
 ACCEPTED

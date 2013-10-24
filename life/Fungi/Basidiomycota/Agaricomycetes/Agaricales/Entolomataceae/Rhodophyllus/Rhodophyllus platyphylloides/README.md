@@ -1,5 +1,4 @@
-Rhodophyllus platyphylloides Romagn. SPECIES
-=======
+# Rhodophyllus platyphylloides Romagn. SPECIES
 
 #### Status
 ACCEPTED

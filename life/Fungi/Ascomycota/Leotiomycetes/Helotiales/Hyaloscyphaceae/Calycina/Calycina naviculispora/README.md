@@ -1,5 +1,4 @@
-Calycina naviculispora (Ellis) Kuntze SPECIES
-=======
+# Calycina naviculispora (Ellis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

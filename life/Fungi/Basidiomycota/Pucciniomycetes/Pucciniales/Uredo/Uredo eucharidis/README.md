@@ -1,5 +1,4 @@
-Uredo eucharidis Henn. SPECIES
-=======
+# Uredo eucharidis Henn. SPECIES
 
 #### Status
 ACCEPTED

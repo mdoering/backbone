@@ -1,5 +1,4 @@
-Caloplaca whinrayi S.Y. Kondr. & Kärnefelt SPECIES
-=======
+# Caloplaca whinrayi S.Y. Kondr. & Kärnefelt SPECIES
 
 #### Status
 ACCEPTED

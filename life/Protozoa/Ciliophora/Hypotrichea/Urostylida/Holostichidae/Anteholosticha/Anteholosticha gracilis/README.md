@@ -1,5 +1,4 @@
-Anteholosticha gracilis Kahl, 1932 SPECIES
-=======
+# Anteholosticha gracilis Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

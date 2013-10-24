@@ -1,5 +1,4 @@
-Penidiella rigidophora Crous, R.F. Castañeda & U. Braun, 2007 SPECIES
-=======
+# Penidiella rigidophora Crous, R.F. Castañeda & U. Braun, 2007 SPECIES
 
 #### Status
 ACCEPTED

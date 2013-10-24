@@ -1,5 +1,4 @@
-Tuburcinia castellana var. castellana VARIETY
-=======
+# Tuburcinia castellana Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Tuburcinia castellana var. castellana
+Tuburcinia castellana Gonz. Frag.
 
 ### Remarks
 null

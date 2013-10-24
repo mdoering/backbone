@@ -1,5 +1,4 @@
-Coniothyrium aleuritis Teng SPECIES
-=======
+# Coniothyrium aleuritis Teng SPECIES
 
 #### Status
 ACCEPTED

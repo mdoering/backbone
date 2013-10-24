@@ -1,5 +1,4 @@
-Aciculosporium take I. Miyake, 1908 SPECIES
-=======
+# Aciculosporium take I. Miyake, 1908 SPECIES
 
 #### Status
 ACCEPTED

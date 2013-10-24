@@ -1,5 +1,4 @@
-Marasmius anisocystidiatus Antonín, Desjardin & H. Gsell SPECIES
-=======
+# Marasmius anisocystidiatus Antonín, Desjardin & H. Gsell SPECIES
 
 #### Status
 ACCEPTED

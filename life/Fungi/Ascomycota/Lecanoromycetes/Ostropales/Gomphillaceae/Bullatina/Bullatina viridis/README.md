@@ -1,5 +1,4 @@
-Bullatina viridis Brusse SPECIES
-=======
+# Bullatina viridis Brusse SPECIES
 
 #### Status
 ACCEPTED

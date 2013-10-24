@@ -1,5 +1,4 @@
-Bacidia bayeri (Servít) Servít SPECIES
-=======
+# Bacidia bayeri (Servít) Servít SPECIES
 
 #### Status
 ACCEPTED

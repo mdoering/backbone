@@ -1,5 +1,4 @@
-Opegrapha glaucoma Chevall. SPECIES
-=======
+# Opegrapha glaucoma Chevall. SPECIES
 
 #### Status
 ACCEPTED

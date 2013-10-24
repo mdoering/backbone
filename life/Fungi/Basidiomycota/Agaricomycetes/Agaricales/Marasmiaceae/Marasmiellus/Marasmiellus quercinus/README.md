@@ -1,5 +1,4 @@
-Marasmiellus quercinus Singer SPECIES
-=======
+# Marasmiellus quercinus Singer SPECIES
 
 #### Status
 ACCEPTED

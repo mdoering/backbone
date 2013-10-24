@@ -1,17 +1,16 @@
-Arthopyrenia endobrya Döbbeler & Poelt SPECIES
-=======
+# Megalotremis endobrya (Döbbeler & Poelt) Aptroot SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Aptroot, Lücking, Sipman, Umaña & Chaves, Biblthca Lichenol. 97: 68 (2008)
 
 #### Original name
-null
+Arthopyrenia endobrya Döbbeler & Poelt
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Balneimonas GENUS
-=======
+# Balneimonas GENUS
 
 #### Status
 ACCEPTED

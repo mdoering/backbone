@@ -1,5 +1,4 @@
-Anthostoma syciospermum (Durieu & Mont.) Sacc. SPECIES
-=======
+# Anthostoma syciospermum (Durieu & Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Mycena delectabilis var. delectabilis VARIETY
-=======
+# Hemimycena delectabilis (Peck) Singer, 1943 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 5: 262 (1887)
+Annls mycol. 41(1/3): 121 (1943)
 
 #### Original name
-Mycena delectabilis var. delectabilis
+Agaricus delectabilis Peck, 1877
 
 ### Remarks
 null

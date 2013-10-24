@@ -1,5 +1,4 @@
-Torula kortasii Dominik & Majchr. SPECIES
-=======
+# Torula kortasii Dominik & Majchr. SPECIES
 
 #### Status
 ACCEPTED

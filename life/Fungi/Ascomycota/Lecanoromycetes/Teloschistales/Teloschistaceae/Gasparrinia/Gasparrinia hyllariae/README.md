@@ -1,5 +1,4 @@
-Gasparrinia hyllariae Gintovt SPECIES
-=======
+# Gasparrinia hyllariae Gintovt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Satka kompsa Zang Wen-long in Zang Wen-long & Walter, 1992 SPECIES
-=======
+# Satka kompsa Zang Wen-long in Zang Wen-long & Walter, 1992 SPECIES
 
 #### Status
 ACCEPTED

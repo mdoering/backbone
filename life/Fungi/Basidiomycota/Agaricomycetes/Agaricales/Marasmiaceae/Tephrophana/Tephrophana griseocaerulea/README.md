@@ -1,5 +1,4 @@
-Tephrophana griseocaerulea Métrod SPECIES
-=======
+# Tephrophana griseocaerulea Métrod SPECIES
 
 #### Status
 ACCEPTED

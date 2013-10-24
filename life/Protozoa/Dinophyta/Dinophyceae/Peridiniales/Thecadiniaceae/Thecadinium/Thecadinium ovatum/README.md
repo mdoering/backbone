@@ -1,5 +1,4 @@
-Thecadinium ovatum Yoshimatsu, Toriumi & Dodge SPECIES
-=======
+# Thecadinium ovatum Yoshimatsu, Toriumi & Dodge SPECIES
 
 #### Status
 ACCEPTED

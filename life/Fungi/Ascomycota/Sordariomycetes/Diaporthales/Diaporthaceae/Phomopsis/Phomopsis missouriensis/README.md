@@ -1,5 +1,4 @@
-Phomopsis missouriensis Bubák SPECIES
-=======
+# Phomopsis missouriensis Bubák SPECIES
 
 #### Status
 ACCEPTED

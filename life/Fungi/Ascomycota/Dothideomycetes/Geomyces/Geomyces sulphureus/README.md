@@ -1,5 +1,4 @@
-Geomyces sulphureus Traaen SPECIES
-=======
+# Geomyces sulphureus Traaen SPECIES
 
 #### Status
 ACCEPTED

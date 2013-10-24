@@ -1,5 +1,4 @@
-Remototrachyna ciliata (Sheng L. Wang, J.B. Chen & Elix) Divakar & A. Crespo SPECIES
-=======
+# Remototrachyna ciliata (Sheng L. Wang, J.B. Chen & Elix) Divakar & A. Crespo SPECIES
 
 #### Status
 ACCEPTED

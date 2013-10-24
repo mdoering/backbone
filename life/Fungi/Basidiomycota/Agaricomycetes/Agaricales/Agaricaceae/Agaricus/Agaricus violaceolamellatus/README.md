@@ -1,5 +1,4 @@
-Agaricus violaceolamellatus DC. SPECIES
-=======
+# Agaricus violaceolamellatus DC. SPECIES
 
 #### Status
 ACCEPTED

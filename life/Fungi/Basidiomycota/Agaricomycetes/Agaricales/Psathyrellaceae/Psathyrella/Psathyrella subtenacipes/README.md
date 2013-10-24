@@ -1,5 +1,4 @@
-Psathyrella subtenacipes A.H. Sm. SPECIES
-=======
+# Psathyrella subtenacipes A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria talcacea Fr. SPECIES
-=======
+# Verrucaria talcacea Fr. SPECIES
 
 #### Status
 ACCEPTED

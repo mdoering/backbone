@@ -1,5 +1,4 @@
-Kananascus verrucisporus Nag Raj, 1984 SPECIES
-=======
+# Kananascus verrucisporus Nag Raj, 1984 SPECIES
 
 #### Status
 ACCEPTED

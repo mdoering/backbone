@@ -1,5 +1,4 @@
-Meliola kakachiana Hosag. SPECIES
-=======
+# Meliola kakachiana Hosag. SPECIES
 
 #### Status
 ACCEPTED

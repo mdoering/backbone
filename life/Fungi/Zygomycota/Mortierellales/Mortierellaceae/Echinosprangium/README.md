@@ -1,5 +1,4 @@
-Echinosprangium Woronchin, 1913 GENUS
-=======
+# Echinosprangium Woronchin, 1913 GENUS
 
 #### Status
 ACCEPTED

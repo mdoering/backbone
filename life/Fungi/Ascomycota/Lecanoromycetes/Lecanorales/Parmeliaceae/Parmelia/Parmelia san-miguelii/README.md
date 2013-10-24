@@ -1,5 +1,4 @@
-Parmelia san-miguelii Gyeln. SPECIES
-=======
+# Parmelia san-miguelii Gyeln. SPECIES
 
 #### Status
 ACCEPTED

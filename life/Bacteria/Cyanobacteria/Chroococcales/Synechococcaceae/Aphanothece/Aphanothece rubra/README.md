@@ -1,5 +1,4 @@
-Aphanothece rubra Liebetanz SPECIES
-=======
+# Aphanothece rubra Liebetanz SPECIES
 
 #### Status
 ACCEPTED

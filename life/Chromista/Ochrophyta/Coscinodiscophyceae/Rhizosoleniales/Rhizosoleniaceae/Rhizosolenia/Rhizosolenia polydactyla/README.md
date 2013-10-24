@@ -1,5 +1,4 @@
-Rhizosolenia polydactyla f. polydactyla FORM
-=======
+# Rhizosolenia polydactyla Castracane SPECIES
 
 #### Status
 ACCEPTED

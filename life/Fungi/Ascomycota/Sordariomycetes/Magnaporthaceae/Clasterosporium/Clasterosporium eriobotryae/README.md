@@ -1,5 +1,4 @@
-Clasterosporium eriobotryae Hara SPECIES
-=======
+# Clasterosporium eriobotryae Hara SPECIES
 
 #### Status
 ACCEPTED

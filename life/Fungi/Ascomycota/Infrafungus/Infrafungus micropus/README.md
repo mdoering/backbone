@@ -1,14 +1,13 @@
-Fusarium micropus Sacc. SPECIES
-=======
+# Infrafungus micropus (Sacc.) Cif., 1951 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycopathologia 6: 26 (1951)
 
 #### Original name
 Fusarium micropus Sacc.

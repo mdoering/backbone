@@ -1,5 +1,4 @@
-Peridermium orientale Cooke SPECIES
-=======
+# Peridermium orientale Cooke SPECIES
 
 #### Status
 ACCEPTED

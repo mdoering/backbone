@@ -1,5 +1,4 @@
-Acervus flavidus (Berk. & M.A. Curtis) Pfister SPECIES
-=======
+# Acervus flavidus (Berk. & M.A. Curtis) Pfister SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diaporthe leucostroma Nitschke SPECIES
-=======
+# Diaporthe leucostroma Nitschke SPECIES
 
 #### Status
 ACCEPTED

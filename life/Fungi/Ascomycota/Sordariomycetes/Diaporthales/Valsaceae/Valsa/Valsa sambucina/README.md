@@ -1,5 +1,4 @@
-Valsa sambucina Peck SPECIES
-=======
+# Valsa sambucina Peck SPECIES
 
 #### Status
 ACCEPTED

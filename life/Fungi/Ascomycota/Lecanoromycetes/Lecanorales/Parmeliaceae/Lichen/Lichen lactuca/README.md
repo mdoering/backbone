@@ -1,5 +1,4 @@
-Lichen lactuca Weber SPECIES
-=======
+# Lichen lactuca Weber SPECIES
 
 #### Status
 ACCEPTED

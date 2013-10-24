@@ -1,5 +1,4 @@
-Nostoc borneti Gain SPECIES
-=======
+# Nostoc borneti Gain SPECIES
 
 #### Status
 ACCEPTED

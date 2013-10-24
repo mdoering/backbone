@@ -1,5 +1,4 @@
-Lichen incanus (Hook.) Sm. & Sowerby SPECIES
-=======
+# Lichen incanus (Hook.) Sm. & Sowerby SPECIES
 
 #### Status
 ACCEPTED

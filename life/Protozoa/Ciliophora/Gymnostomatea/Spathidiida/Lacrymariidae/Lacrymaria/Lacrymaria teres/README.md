@@ -1,5 +1,4 @@
-Lacrymaria teres Stokes, 1886 SPECIES
-=======
+# Lacrymaria teres Stokes, 1886 SPECIES
 
 #### Status
 ACCEPTED

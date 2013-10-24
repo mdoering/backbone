@@ -1,5 +1,4 @@
-Cladosporium funiculosum W. Yamam., 1959 SPECIES
-=======
+# Cladosporium funiculosum W. Yamam., 1959 SPECIES
 
 #### Status
 ACCEPTED

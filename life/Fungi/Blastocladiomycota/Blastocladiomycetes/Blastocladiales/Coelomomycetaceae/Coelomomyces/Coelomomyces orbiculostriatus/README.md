@@ -1,5 +1,4 @@
-Coelomomyces orbiculostriatus Couch & Pras. SPECIES
-=======
+# Coelomomyces orbiculostriatus Couch & Pras. SPECIES
 
 #### Status
 ACCEPTED

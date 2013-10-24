@@ -1,5 +1,4 @@
-Patellaria biformis (Fée) Spreng. SPECIES
-=======
+# Patellaria biformis (Fée) Spreng. SPECIES
 
 #### Status
 ACCEPTED

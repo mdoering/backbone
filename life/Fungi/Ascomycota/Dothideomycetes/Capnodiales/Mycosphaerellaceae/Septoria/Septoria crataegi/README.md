@@ -1,5 +1,4 @@
-Septoria crataegi var. crataegi VARIETY
-=======
+# Septoria crataegi J. Kickx f. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Fl. Crypt. Flandres 1: 433 (1867)
 
 #### Original name
-Septoria crataegi var. crataegi
+Septoria crataegi J. Kickx f.
 
 ### Remarks
 null

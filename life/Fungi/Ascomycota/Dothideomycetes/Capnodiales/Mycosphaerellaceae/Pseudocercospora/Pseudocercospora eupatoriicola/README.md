@@ -1,5 +1,4 @@
-Pseudocercospora eupatoriicola (Govindu & Thirum.) A.Z.M. Khan & Shamsi SPECIES
-=======
+# Pseudocercospora eupatoriicola (Govindu & Thirum.) A.Z.M. Khan & Shamsi SPECIES
 
 #### Status
 ACCEPTED

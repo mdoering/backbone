@@ -1,5 +1,4 @@
-Cortinarius abiegnus Britzelm. SPECIES
-=======
+# Cortinarius abiegnus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

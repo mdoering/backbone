@@ -1,5 +1,4 @@
-Estiastra A.Eisenack, 1959 GENUS
-=======
+# Estiastra A.Eisenack, 1959 GENUS
 
 #### Status
 ACCEPTED

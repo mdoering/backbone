@@ -1,5 +1,4 @@
-Cortinarius imperialis Bidaud SPECIES
-=======
+# Cortinarius imperialis Bidaud SPECIES
 
 #### Status
 ACCEPTED

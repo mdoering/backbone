@@ -1,5 +1,4 @@
-Coprinus pseudoamphithallus Uljé SPECIES
-=======
+# Coprinus pseudoamphithallus Uljé SPECIES
 
 #### Status
 ACCEPTED

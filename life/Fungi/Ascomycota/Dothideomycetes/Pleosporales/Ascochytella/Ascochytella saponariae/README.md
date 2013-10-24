@@ -1,5 +1,4 @@
-Ascochytella saponariae Petr. SPECIES
-=======
+# Ascochytella saponariae Petr. SPECIES
 
 #### Status
 ACCEPTED

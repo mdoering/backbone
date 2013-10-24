@@ -1,5 +1,4 @@
-Phanerochaete calotrichina Hjortstam SPECIES
-=======
+# Phanerochaete calotrichina Hjortstam SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psathyrella nothomyrciae Singer SPECIES
-=======
+# Psathyrella nothomyrciae Singer SPECIES
 
 #### Status
 ACCEPTED

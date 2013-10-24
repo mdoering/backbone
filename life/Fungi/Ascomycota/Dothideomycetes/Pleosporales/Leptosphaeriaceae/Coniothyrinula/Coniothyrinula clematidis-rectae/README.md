@@ -1,5 +1,4 @@
-Coniothyrinula clematidis-rectae Petr., 1925 SPECIES
-=======
+# Coniothyrinula clematidis-rectae Petr., 1925 SPECIES
 
 #### Status
 ACCEPTED

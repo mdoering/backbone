@@ -1,5 +1,4 @@
-Thecaphora thlaspeos (Beck) Vánky, 2004 SPECIES
-=======
+# Thecaphora thlaspeos (Beck) Vánky, 2004 SPECIES
 
 #### Status
 ACCEPTED

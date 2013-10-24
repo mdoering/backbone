@@ -1,5 +1,4 @@
-Weeksella virosa Holmes et al., 1987 SPECIES
-=======
+# Weeksella virosa Holmes et al., 1987 SPECIES
 
 #### Status
 ACCEPTED

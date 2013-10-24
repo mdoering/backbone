@@ -1,5 +1,4 @@
-Ceratostomella canulata (Preuss) Sacc. SPECIES
-=======
+# Ceratostomella canulata (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

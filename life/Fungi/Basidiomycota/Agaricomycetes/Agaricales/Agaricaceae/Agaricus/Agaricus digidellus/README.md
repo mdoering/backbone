@@ -1,5 +1,4 @@
-Agaricus digidellus Schaeff. SPECIES
-=======
+# Agaricus digidellus Schaeff. SPECIES
 
 #### Status
 ACCEPTED

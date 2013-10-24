@@ -1,5 +1,4 @@
-Gymnodinium pingue Van Meel SPECIES
-=======
+# Gymnodinium pingue Van Meel SPECIES
 
 #### Status
 ACCEPTED

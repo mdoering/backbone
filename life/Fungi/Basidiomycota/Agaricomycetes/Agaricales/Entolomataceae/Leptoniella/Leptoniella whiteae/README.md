@@ -1,5 +1,4 @@
-Leptoniella whiteae Murrill SPECIES
-=======
+# Leptoniella whiteae Murrill SPECIES
 
 #### Status
 ACCEPTED

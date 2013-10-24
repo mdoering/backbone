@@ -1,5 +1,4 @@
-Botrytis nebularis Cooke & Ellis SPECIES
-=======
+# Botrytis nebularis Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

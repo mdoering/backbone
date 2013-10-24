@@ -1,5 +1,4 @@
-Mycosphaerella baudysiana Picb. SPECIES
-=======
+# Mycosphaerella baudysiana Picb. SPECIES
 
 #### Status
 ACCEPTED

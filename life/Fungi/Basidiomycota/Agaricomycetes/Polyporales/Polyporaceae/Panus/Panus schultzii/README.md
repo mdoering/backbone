@@ -1,5 +1,4 @@
-Panus schultzii Kalchbr. ex G. Winter SPECIES
-=======
+# Panus schultzii Kalchbr. ex G. Winter SPECIES
 
 #### Status
 ACCEPTED

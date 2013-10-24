@@ -1,5 +1,4 @@
-Proterendothrix scolecoidea W. West & G. S. West SPECIES
-=======
+# Proterendothrix scolecoidea W. West & G. S. West SPECIES
 
 #### Status
 ACCEPTED

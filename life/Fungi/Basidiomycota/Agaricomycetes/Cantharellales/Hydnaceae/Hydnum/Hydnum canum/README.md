@@ -1,5 +1,4 @@
-Hydnum canum Schwein. SPECIES
-=======
+# Hydnum canum Schwein. SPECIES
 
 #### Status
 ACCEPTED

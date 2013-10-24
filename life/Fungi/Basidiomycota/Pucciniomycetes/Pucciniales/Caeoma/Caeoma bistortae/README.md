@@ -1,5 +1,4 @@
-Caeoma bistortae Lib. SPECIES
-=======
+# Caeoma bistortae Lib. SPECIES
 
 #### Status
 ACCEPTED

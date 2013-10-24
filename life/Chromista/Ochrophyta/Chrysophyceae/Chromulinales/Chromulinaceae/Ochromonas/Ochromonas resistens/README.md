@@ -1,5 +1,4 @@
-Ochromonas resistens Skuja ex T. Willén SPECIES
-=======
+# Ochromonas resistens Skuja ex T. Willén SPECIES
 
 #### Status
 ACCEPTED

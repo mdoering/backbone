@@ -1,5 +1,4 @@
-Agaricus hydrophorus Bull. SPECIES
-=======
+# Agaricus hydrophorus Bull. SPECIES
 
 #### Status
 ACCEPTED

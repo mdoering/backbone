@@ -1,5 +1,4 @@
-Discoaster pentaradiatus SPECIES
-=======
+# Discoaster pentaradiatus SPECIES
 
 #### Status
 ACCEPTED

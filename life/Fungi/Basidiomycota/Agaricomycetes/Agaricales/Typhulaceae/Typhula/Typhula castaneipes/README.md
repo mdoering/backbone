@@ -1,5 +1,4 @@
-Typhula castaneipes G.F. Atk. SPECIES
-=======
+# Typhula castaneipes G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

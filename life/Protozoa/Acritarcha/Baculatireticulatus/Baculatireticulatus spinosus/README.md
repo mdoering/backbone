@@ -1,5 +1,4 @@
-Baculatireticulatus spinosus Al-Ameri, 1984 SPECIES
-=======
+# Baculatireticulatus spinosus Al-Ameri, 1984 SPECIES
 
 #### Status
 ACCEPTED

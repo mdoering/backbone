@@ -1,5 +1,4 @@
-Cribraria badia Chevall. SPECIES
-=======
+# Cribraria badia Chevall. SPECIES
 
 #### Status
 ACCEPTED

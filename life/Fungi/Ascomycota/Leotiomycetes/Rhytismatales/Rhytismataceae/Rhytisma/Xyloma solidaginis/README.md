@@ -1,5 +1,4 @@
-Xyloma solidaginis Fr. SPECIES
-=======
+# Xyloma solidaginis Fr. SPECIES
 
 #### Status
 ACCEPTED

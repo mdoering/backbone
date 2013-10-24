@@ -1,5 +1,4 @@
-Stereocaulon gregarium Redinger SPECIES
-=======
+# Stereocaulon gregarium Redinger SPECIES
 
 #### Status
 ACCEPTED

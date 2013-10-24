@@ -1,5 +1,4 @@
-Romellina variabilis Petr., 1955 SPECIES
-=======
+# Romellina variabilis Petr., 1955 SPECIES
 
 #### Status
 ACCEPTED

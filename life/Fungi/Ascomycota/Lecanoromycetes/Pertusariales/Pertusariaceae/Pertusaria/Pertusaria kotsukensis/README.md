@@ -1,5 +1,4 @@
-Pertusaria kotsukensis Vain. SPECIES
-=======
+# Pertusaria kotsukensis Vain. SPECIES
 
 #### Status
 ACCEPTED

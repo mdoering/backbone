@@ -1,5 +1,4 @@
-Phoma alternariacearum F.T. Brooks & Searle SPECIES
-=======
+# Phoma alternariacearum F.T. Brooks & Searle SPECIES
 
 #### Status
 ACCEPTED

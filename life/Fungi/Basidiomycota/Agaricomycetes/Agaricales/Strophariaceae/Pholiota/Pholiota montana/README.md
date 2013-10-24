@@ -1,5 +1,4 @@
-Pholiota montana Singer SPECIES
-=======
+# Pholiota montana Singer SPECIES
 
 #### Status
 ACCEPTED

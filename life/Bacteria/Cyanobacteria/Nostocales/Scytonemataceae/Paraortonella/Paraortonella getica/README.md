@@ -1,5 +1,4 @@
-Paraortonella getica O. Dragastan SPECIES
-=======
+# Paraortonella getica O. Dragastan SPECIES
 
 #### Status
 ACCEPTED

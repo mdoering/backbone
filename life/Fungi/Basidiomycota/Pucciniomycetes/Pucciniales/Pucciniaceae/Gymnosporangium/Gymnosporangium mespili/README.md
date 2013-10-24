@@ -1,5 +1,4 @@
-Gymnosporangium mespili F. Kern SPECIES
-=======
+# Gymnosporangium mespili F. Kern SPECIES
 
 #### Status
 ACCEPTED

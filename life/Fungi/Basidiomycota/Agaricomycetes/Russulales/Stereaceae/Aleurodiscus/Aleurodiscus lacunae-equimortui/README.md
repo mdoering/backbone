@@ -1,5 +1,4 @@
-Aleurodiscus lacunae-equimortui J.A. Simpson & Grgur. SPECIES
-=======
+# Aleurodiscus lacunae-equimortui J.A. Simpson & Grgur. SPECIES
 
 #### Status
 ACCEPTED

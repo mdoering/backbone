@@ -1,17 +1,16 @@
-Sphaerella inconspicua J. Schröt., 1881 SPECIES
-=======
+# Mycosphaerella inconspicua Vestergr., 1909 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Svensk bot. Tidskr. 3: 53 (1909)
 
 #### Original name
-null
+Sphaerella inconspicua J. Schröt., 1881
 
 ### Remarks
 null

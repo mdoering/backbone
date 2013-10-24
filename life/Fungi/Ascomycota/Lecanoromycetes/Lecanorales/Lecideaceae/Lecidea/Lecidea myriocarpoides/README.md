@@ -1,5 +1,4 @@
-Lecidea myriocarpoides var. myriocarpoides VARIETY
-=======
+# Lecidea myriocarpoides Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea myriocarpoides var. myriocarpoides
+Lecidea myriocarpoides Nyl.
 
 ### Remarks
 null

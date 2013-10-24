@@ -1,5 +1,4 @@
-Entyloma crastophylli Sacc. SPECIES
-=======
+# Entyloma crastophylli Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Haematostereum Pouzar GENUS
-=======
+# Stereum Persoon, 1794 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Ceská Mykol. 13: 13 (1959)
+null
 
 #### Original name
-Haematostereum Pouzar
+null
 
 ### Remarks
 null

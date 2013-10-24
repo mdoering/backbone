@@ -1,5 +1,4 @@
-Protoblastenia flava C.W. Dodge & G.E. Baker SPECIES
-=======
+# Protoblastenia flava C.W. Dodge & G.E. Baker SPECIES
 
 #### Status
 ACCEPTED

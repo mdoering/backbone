@@ -1,5 +1,4 @@
-Synechocystis parvula Perfiliev SPECIES
-=======
+# Synechocystis parvula Perfiliev SPECIES
 
 #### Status
 ACCEPTED

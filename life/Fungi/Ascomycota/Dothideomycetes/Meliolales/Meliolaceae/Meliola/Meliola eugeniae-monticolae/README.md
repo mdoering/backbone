@@ -1,5 +1,4 @@
-Meliola eugeniae-monticolae Hansf. SPECIES
-=======
+# Meliola eugeniae-monticolae Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Puccinia minussensis var. minussensis Thüm. VARIETY
-=======
+# Puccinia minussensis Thüm., 1878 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Bull. Soc. Imp. nat. Moscou 53: 214 (1878)
 
 #### Original name
-Puccinia minussensis var. minussensis Thüm.
+Puccinia minussensis Thüm., 1878
 
 ### Remarks
 null

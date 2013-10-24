@@ -1,5 +1,4 @@
-Cercospora erythrinigena Kamal SPECIES
-=======
+# Cercospora erythrinigena Kamal SPECIES
 
 #### Status
 ACCEPTED

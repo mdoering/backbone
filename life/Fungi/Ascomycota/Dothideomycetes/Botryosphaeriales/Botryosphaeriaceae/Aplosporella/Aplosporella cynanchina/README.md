@@ -1,5 +1,4 @@
-Aplosporella cynanchina S. Ahmad SPECIES
-=======
+# Aplosporella cynanchina S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dermatea polygonia Rehm SPECIES
-=======
+# Dermatea polygonia Rehm SPECIES
 
 #### Status
 ACCEPTED

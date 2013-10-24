@@ -1,5 +1,4 @@
-Isosphaera pallida (ex Woronichin, 1927) Giovannoni et al., 1995 SPECIES
-=======
+# Isosphaera pallida (ex Woronichin, 1927) Giovannoni et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Synchytrium punctatum J. Schröt. SPECIES
-=======
+# Synchytrium punctatum J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

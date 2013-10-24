@@ -1,5 +1,4 @@
-Deflexula nivea (Pat.) Corner SPECIES
-=======
+# Deflexula nivea (Pat.) Corner SPECIES
 
 #### Status
 ACCEPTED

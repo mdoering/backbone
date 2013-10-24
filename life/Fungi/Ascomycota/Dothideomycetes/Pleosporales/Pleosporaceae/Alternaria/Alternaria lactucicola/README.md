@@ -1,5 +1,4 @@
-Alternaria lactucicola X. Sun & T.Y. Zhang SPECIES
-=======
+# Alternaria lactucicola X. Sun & T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

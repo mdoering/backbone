@@ -1,5 +1,4 @@
-Haplocystia K.L.Segroves GENUS
-=======
+# Haplocystia K.L.Segroves GENUS
 
 #### Status
 ACCEPTED

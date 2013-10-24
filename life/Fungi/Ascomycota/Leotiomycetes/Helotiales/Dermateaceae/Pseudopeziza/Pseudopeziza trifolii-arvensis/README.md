@@ -1,5 +1,4 @@
-Pseudopeziza trifolii-arvensis Nannf. SPECIES
-=======
+# Pseudopeziza trifolii-arvensis Nannf. SPECIES
 
 #### Status
 ACCEPTED

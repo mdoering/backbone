@@ -1,5 +1,4 @@
-Seiridiella ramealis P. Karst. SPECIES
-=======
+# Seiridiella ramealis P. Karst. SPECIES
 
 #### Status
 ACCEPTED

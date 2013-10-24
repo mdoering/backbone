@@ -1,5 +1,4 @@
-Coryne collemoides Rehm SPECIES
-=======
+# Coryne collemoides Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pholiota hiemalis A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota hiemalis A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

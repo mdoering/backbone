@@ -1,14 +1,13 @@
-Parmelia pseudonilgherrensis Asahina SPECIES
-=======
+# Parmotrema pseudonilgherrense (Asahina) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 5(2): 441 (1977)
 
 #### Original name
 Parmelia pseudonilgherrensis Asahina

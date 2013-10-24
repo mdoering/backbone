@@ -1,5 +1,4 @@
-Polycoccum acarosporicola Halici & D. Hawksw. SPECIES
-=======
+# Polycoccum acarosporicola Halici & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

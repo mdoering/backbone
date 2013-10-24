@@ -1,5 +1,4 @@
-Amphisolenia elongata Kofoid & Skogsberg, 1928 SPECIES
-=======
+# Amphisolenia elongata Kofoid & Skogsberg, 1928 SPECIES
 
 #### Status
 ACCEPTED

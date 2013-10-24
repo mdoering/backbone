@@ -1,5 +1,4 @@
-Segestria octomera (Müll. Arg.) R. C. Harris SPECIES
-=======
+# Segestria octomera (Müll. Arg.) R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

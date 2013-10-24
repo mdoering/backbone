@@ -1,5 +1,4 @@
-Leioderma Nylander, 1888 GENUS
-=======
+# Leioderma Nylander, 1888 GENUS
 
 #### Status
 ACCEPTED

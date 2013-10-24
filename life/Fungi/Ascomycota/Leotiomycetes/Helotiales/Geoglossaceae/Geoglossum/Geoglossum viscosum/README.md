@@ -1,5 +1,4 @@
-Geoglossum viscosum Pers., 1797 SPECIES
-=======
+# Geoglossum viscosum Pers., 1797 SPECIES
 
 #### Status
 ACCEPTED

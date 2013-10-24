@@ -1,5 +1,4 @@
-Crustoderma nakasoneae Gilb. & M. Blackw., 1988 SPECIES
-=======
+# Crustoderma nakasoneae Gilb. & M. Blackw., 1988 SPECIES
 
 #### Status
 ACCEPTED

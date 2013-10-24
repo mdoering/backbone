@@ -1,5 +1,4 @@
-Stephanosporaceae Oberw. & E. Horak FAMILY
-=======
+# Stephanosporaceae Oberw. & E. Horak FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Metasphaeria empetricola Rostr. SPECIES
-=======
+# Metasphaeria empetricola Rostr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rickia phalacri Thaxt. SPECIES
-=======
+# Rickia phalacri Thaxt. SPECIES
 
 #### Status
 ACCEPTED

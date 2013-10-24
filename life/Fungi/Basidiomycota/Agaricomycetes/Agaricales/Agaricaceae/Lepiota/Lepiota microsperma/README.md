@@ -1,5 +1,4 @@
-Lepiota microsperma Locq. SPECIES
-=======
+# Lepiota microsperma Locq. SPECIES
 
 #### Status
 ACCEPTED

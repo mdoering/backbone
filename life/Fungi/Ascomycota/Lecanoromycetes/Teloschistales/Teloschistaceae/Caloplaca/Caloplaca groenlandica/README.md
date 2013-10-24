@@ -1,5 +1,4 @@
-Caloplaca groenlandica Lynge SPECIES
-=======
+# Caloplaca groenlandica Lynge SPECIES
 
 #### Status
 ACCEPTED

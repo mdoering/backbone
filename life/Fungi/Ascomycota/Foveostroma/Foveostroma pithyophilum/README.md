@@ -1,14 +1,13 @@
-Foveostroma pithyophila (Sacc.) M. Morelet SPECIES
-=======
+# Foveostroma pithyophilum (Sacc.) M. Morelet SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Eur. J. For. Path. 10(5): 273 (1980)
 
 #### Original name
 Septoria pithyophila Sacc.

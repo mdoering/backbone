@@ -1,5 +1,4 @@
-Parmelia dysprosa (Brusse & M.D.E. Knox) Brusse SPECIES
-=======
+# Parmelia dysprosa (Brusse & M.D.E. Knox) Brusse SPECIES
 
 #### Status
 ACCEPTED

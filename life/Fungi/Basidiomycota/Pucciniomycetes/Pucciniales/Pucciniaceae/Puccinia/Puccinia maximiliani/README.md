@@ -1,5 +1,4 @@
-Puccinia maximiliani Jørst. SPECIES
-=======
+# Puccinia maximiliani Jørst. SPECIES
 
 #### Status
 ACCEPTED

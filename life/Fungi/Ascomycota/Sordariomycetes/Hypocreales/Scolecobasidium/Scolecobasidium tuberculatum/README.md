@@ -1,5 +1,4 @@
-Scolecobasidium tuberculatum Y.M. Wu & T.Y. Zhang SPECIES
-=======
+# Scolecobasidium tuberculatum Y.M. Wu & T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

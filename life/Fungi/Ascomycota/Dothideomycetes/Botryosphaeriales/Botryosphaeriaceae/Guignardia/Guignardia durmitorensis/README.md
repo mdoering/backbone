@@ -1,5 +1,4 @@
-Guignardia durmitorensis Bubák SPECIES
-=======
+# Guignardia durmitorensis Bubák SPECIES
 
 #### Status
 ACCEPTED

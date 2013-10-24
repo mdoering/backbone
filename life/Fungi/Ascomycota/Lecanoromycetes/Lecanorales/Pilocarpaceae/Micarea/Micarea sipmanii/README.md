@@ -1,5 +1,4 @@
-Micarea sipmanii Sérus. & Coppins SPECIES
-=======
+# Micarea sipmanii Sérus. & Coppins SPECIES
 
 #### Status
 ACCEPTED

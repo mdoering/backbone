@@ -1,5 +1,4 @@
-Solirubrobacter pauli Singleton et al., 2003 SPECIES
-=======
+# Solirubrobacter pauli Singleton et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

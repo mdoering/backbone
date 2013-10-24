@@ -1,17 +1,16 @@
-Dentocorticium irregularis Ryvarden SPECIES
-=======
+# Dentocorticium irregulare Ryvarden, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Jard. Bot. Nat. Belg. 48: 84 (1978)
 
 #### Original name
-Dentocorticium irregularis Ryvarden
+Dentocorticium irregulare Ryvarden, 1978
 
 ### Remarks
 null

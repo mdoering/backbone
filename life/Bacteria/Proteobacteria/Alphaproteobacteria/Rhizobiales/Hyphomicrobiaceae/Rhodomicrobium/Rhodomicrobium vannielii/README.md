@@ -1,5 +1,4 @@
-Rhodomicrobium vannielii Duchow & Douglas, 1949 SPECIES
-=======
+# Rhodomicrobium vannielii Duchow & Douglas, 1949 SPECIES
 
 #### Status
 ACCEPTED

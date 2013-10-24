@@ -1,5 +1,4 @@
-Tricholoma chrysenteroides Peck SPECIES
-=======
+# Tricholoma chrysenteroides Peck SPECIES
 
 #### Status
 ACCEPTED

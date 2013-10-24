@@ -1,5 +1,4 @@
-Boreloididae Reiss, 1963 FAMILY
-=======
+# Boreloididae Reiss, 1963 FAMILY
 
 #### Status
 ACCEPTED

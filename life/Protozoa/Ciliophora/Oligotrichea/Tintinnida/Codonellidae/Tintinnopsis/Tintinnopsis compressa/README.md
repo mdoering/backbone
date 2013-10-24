@@ -1,5 +1,4 @@
-Tintinnopsis compressa Daday, 1887 SPECIES
-=======
+# Tintinnopsis compressa Daday, 1887 SPECIES
 
 #### Status
 ACCEPTED

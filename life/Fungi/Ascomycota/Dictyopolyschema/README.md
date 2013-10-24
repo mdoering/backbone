@@ -1,5 +1,4 @@
-Dictyopolyschema M.B. Ellis GENUS
-=======
+# Dictyopolyschema M.B. Ellis GENUS
 
 #### Status
 ACCEPTED

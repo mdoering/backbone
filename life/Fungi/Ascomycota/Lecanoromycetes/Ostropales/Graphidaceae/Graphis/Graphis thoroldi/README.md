@@ -1,5 +1,4 @@
-Graphis thoroldi C.W. Dodge SPECIES
-=======
+# Graphis thoroldi C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

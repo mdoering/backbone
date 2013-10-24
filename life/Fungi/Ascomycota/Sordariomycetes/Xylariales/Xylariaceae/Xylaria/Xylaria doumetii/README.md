@@ -1,5 +1,4 @@
-Xylaria doumetii (Pat.) J.H. Mill. SPECIES
-=======
+# Xylaria doumetii (Pat.) J.H. Mill. SPECIES
 
 #### Status
 ACCEPTED

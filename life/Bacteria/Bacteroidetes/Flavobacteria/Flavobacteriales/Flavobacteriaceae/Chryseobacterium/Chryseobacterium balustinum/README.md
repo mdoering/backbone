@@ -1,8 +1,7 @@
-Flavobacterium balustinum Harrison, 1929 (Approved Lists, 1980) SPECIES
-=======
+# Chryseobacterium balustinum (Harrison, 1929) Vandamme et al., 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

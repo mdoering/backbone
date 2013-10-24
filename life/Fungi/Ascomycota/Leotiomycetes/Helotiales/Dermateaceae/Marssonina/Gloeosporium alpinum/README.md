@@ -1,5 +1,4 @@
-Gloeosporium alpinum Sacc., 1878 SPECIES
-=======
+# Gloeosporium alpinum Sacc., 1878 SPECIES
 
 #### Status
 ACCEPTED

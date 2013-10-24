@@ -1,5 +1,4 @@
-Laboulbenia helluodis Thaxt. SPECIES
-=======
+# Laboulbenia helluodis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anoxybacillus kamchatkensis Kevbrin et al., 2006 SPECIES
-=======
+# Anoxybacillus kamchatkensis Kevbrin et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

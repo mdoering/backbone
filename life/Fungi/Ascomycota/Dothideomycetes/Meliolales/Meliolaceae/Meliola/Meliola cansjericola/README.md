@@ -1,5 +1,4 @@
-Meliola cansjericola Hosag. SPECIES
-=======
+# Meliola cansjericola Hosag. SPECIES
 
 #### Status
 ACCEPTED

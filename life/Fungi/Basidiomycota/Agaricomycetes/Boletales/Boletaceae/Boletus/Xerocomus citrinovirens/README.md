@@ -1,5 +1,4 @@
-Xerocomus citrinovirens (Watling) A.E. Hills SPECIES
-=======
+# Xerocomus citrinovirens (Watling) A.E. Hills SPECIES
 
 #### Status
 ACCEPTED

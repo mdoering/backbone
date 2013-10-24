@@ -1,5 +1,4 @@
-Lobaria fossulata (Dufour) Kuntze SPECIES
-=======
+# Lobaria fossulata (Dufour) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peltigera kristinssonii Vitik. SPECIES
-=======
+# Peltigera kristinssonii Vitik. SPECIES
 
 #### Status
 ACCEPTED

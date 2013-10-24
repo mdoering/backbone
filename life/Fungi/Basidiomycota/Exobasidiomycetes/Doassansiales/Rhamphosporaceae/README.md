@@ -1,5 +1,4 @@
-Rhamphosporaceae R. Bauer & Oberw. FAMILY
-=======
+# Rhamphosporaceae R. Bauer & Oberw. FAMILY
 
 #### Status
 ACCEPTED

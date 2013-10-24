@@ -1,5 +1,4 @@
-Otthia diminuta P. Karst. SPECIES
-=======
+# Otthia diminuta P. Karst. SPECIES
 
 #### Status
 ACCEPTED

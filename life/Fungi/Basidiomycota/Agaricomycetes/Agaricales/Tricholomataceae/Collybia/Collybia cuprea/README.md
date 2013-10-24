@@ -1,5 +1,4 @@
-Collybia cuprea J. Favre SPECIES
-=======
+# Collybia cuprea J. Favre SPECIES
 
 #### Status
 ACCEPTED

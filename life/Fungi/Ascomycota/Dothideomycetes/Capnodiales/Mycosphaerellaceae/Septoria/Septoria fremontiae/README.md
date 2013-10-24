@@ -1,5 +1,4 @@
-Septoria fremontiae Bonar SPECIES
-=======
+# Septoria fremontiae Bonar SPECIES
 
 #### Status
 ACCEPTED

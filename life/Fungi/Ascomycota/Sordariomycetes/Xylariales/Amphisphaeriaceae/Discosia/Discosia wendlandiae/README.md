@@ -1,5 +1,4 @@
-Discosia wendlandiae B.V. Patil & Thirum. SPECIES
-=======
+# Discosia wendlandiae B.V. Patil & Thirum. SPECIES
 
 #### Status
 ACCEPTED

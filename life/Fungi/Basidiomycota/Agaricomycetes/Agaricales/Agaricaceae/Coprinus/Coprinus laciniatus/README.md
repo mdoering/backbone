@@ -1,5 +1,4 @@
-Coprinus laciniatus Joachim SPECIES
-=======
+# Coprinus laciniatus Joachim SPECIES
 
 #### Status
 ACCEPTED

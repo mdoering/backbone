@@ -1,5 +1,4 @@
-Caloplaca kauaiensis H. Magn. SPECIES
-=======
+# Caloplaca kauaiensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

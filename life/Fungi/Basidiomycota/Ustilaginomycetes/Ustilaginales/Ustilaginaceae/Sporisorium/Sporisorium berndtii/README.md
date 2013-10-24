@@ -1,5 +1,4 @@
-Sporisorium berndtii Vánky SPECIES
-=======
+# Sporisorium berndtii Vánky SPECIES
 
 #### Status
 ACCEPTED

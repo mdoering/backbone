@@ -1,5 +1,4 @@
-Cryptovalsa effusa Fuckel SPECIES
-=======
+# Cryptovalsa effusa Fuckel SPECIES
 
 #### Status
 ACCEPTED

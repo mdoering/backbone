@@ -1,5 +1,4 @@
-Amauroderma yunnanense J.D. Zhao & X.Q. Zhang SPECIES
-=======
+# Amauroderma yunnanense J.D. Zhao & X.Q. Zhang SPECIES
 
 #### Status
 ACCEPTED

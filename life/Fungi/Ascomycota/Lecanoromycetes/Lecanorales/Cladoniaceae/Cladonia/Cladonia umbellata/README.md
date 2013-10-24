@@ -1,5 +1,4 @@
-Cladonia umbellata Ahti & Krog SPECIES
-=======
+# Cladonia umbellata Ahti & Krog SPECIES
 
 #### Status
 ACCEPTED

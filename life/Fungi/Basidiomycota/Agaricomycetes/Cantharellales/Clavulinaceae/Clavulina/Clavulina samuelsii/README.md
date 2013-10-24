@@ -1,5 +1,4 @@
-Clavulina samuelsii R.H. Petersen, 1988 SPECIES
-=======
+# Clavulina samuelsii R.H. Petersen, 1988 SPECIES
 
 #### Status
 ACCEPTED

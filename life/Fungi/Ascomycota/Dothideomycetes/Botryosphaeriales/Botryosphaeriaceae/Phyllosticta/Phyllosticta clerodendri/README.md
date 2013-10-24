@@ -1,5 +1,4 @@
-Phyllosticta clerodendri Bat., R. Garnier & J.L. Bezerra SPECIES
-=======
+# Phyllosticta clerodendri Bat., R. Garnier & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

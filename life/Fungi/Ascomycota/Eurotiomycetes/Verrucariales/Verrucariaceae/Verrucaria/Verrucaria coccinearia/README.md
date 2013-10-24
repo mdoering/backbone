@@ -1,5 +1,4 @@
-Verrucaria coccinearia Zehetl. SPECIES
-=======
+# Verrucaria coccinearia Zehetl. SPECIES
 
 #### Status
 ACCEPTED

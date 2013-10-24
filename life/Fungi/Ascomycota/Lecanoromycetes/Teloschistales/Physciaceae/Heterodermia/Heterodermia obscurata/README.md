@@ -1,17 +1,16 @@
-Peltula obscuratula (Nyl.) Poelt ex Egea SPECIES
-=======
+# Heterodermia obscurata (Nyl.) Trevis. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Biblthca Lichenol. 31: 84 (1989)
+Nuovo Giorn. Bot. Ital. 1: 114 (1869)
 
 #### Original name
-Heppia obscuratula Nyl.
+Physcia obscurata Nyl.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Panus maculatus Berk., 1855 SPECIES
-=======
+# Panus maculatus Berk., 1855 SPECIES
 
 #### Status
 ACCEPTED

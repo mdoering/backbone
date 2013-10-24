@@ -1,5 +1,4 @@
-Ectotrichophyton erioton (Cazalbou) C.W. Dodge SPECIES
-=======
+# Ectotrichophyton erioton (Cazalbou) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

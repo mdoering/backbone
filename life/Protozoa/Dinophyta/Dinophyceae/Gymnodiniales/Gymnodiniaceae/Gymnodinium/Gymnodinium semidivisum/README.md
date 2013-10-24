@@ -1,5 +1,4 @@
-Gymnodinium semidivisum Schiller SPECIES
-=======
+# Gymnodinium semidivisum Schiller SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Haloaleurodiscus N. Maek., Suhara & K. Kinjo GENUS
-=======
+# Haloaleurodiscus N. Maek., Suhara & K. Kinjo GENUS
 
 #### Status
 ACCEPTED

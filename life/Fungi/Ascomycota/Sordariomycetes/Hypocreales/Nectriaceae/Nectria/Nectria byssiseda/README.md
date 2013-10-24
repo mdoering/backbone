@@ -1,5 +1,4 @@
-Nectria byssiseda Rehm, 1900 SPECIES
-=======
+# Nectria byssiseda Rehm, 1900 SPECIES
 
 #### Status
 ACCEPTED

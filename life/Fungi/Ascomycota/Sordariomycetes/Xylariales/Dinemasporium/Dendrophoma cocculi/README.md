@@ -1,5 +1,4 @@
-Dendrophoma cocculi Gonz. Frag. SPECIES
-=======
+# Dendrophoma cocculi Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

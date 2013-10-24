@@ -1,5 +1,4 @@
-Endophragmiella theobromae M.B. Ellis SPECIES
-=======
+# Endophragmiella theobromae M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

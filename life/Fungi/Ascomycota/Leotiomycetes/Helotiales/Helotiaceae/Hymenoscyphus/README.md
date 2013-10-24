@@ -1,17 +1,16 @@
-Ciboriella Seaver GENUS
-=======
+# Hymenoscyphus Gray GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-North American Cup-fungi (New York), (Inoperculates) 107 (1951)
+Nat. Arr. Brit. Pl. (London) 1: 673 (1821)
 
 #### Original name
-Ciboriella Seaver
+Hymenoscyphus Gray
 
 ### Remarks
 null

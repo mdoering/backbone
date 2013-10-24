@@ -1,5 +1,4 @@
-Xerula pseudoradicata (M.M. Moser) Contu SPECIES
-=======
+# Xerula pseudoradicata (M.M. Moser) Contu SPECIES
 
 #### Status
 ACCEPTED

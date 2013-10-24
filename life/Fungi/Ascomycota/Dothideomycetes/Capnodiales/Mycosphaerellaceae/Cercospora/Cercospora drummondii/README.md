@@ -1,5 +1,4 @@
-Cercospora drummondii Deighton SPECIES
-=======
+# Cercospora drummondii Deighton SPECIES
 
 #### Status
 ACCEPTED

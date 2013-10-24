@@ -1,5 +1,4 @@
-Aecidium spinaciae Rostr. SPECIES
-=======
+# Aecidium spinaciae Rostr. SPECIES
 
 #### Status
 ACCEPTED

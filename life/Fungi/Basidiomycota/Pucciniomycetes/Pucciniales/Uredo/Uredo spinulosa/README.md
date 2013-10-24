@@ -1,5 +1,4 @@
-Uredo spinulosa (Cooke) Sacc. SPECIES
-=======
+# Uredo spinulosa (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

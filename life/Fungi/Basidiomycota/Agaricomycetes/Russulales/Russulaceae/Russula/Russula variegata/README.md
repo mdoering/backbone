@@ -1,5 +1,4 @@
-Russula variegata Romagn. SPECIES
-=======
+# Russula variegata Romagn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Odontiopsis ambigua (Berk. & Broome) Hjortstam, 1987 SPECIES
-=======
+# Odontiopsis ambigua (Berk. & Broome) Hjortstam, 1987 SPECIES
 
 #### Status
 ACCEPTED

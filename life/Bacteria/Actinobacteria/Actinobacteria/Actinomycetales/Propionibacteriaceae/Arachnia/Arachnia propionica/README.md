@@ -1,5 +1,4 @@
-Arachnia propionica (Buchanan & Pine, 1962) Pine & Georg, 1969 SPECIES
-=======
+# Arachnia propionica (Buchanan & Pine, 1962) Pine & Georg, 1969 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Dictyocephala ulmifolii (Obreg.-Bot.) A.G. Medeiros SPECIES
-=======
+# Dictyocephala ulmifoliae (Obreg.-Bot.) A.G. Medeiros SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Publções Inst. Micol. Recife 372: 13 (1962)
 
 #### Original name
 Cercospora ulmifolia Obreg.-Bot.

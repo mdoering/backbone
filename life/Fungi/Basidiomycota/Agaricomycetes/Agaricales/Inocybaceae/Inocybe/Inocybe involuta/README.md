@@ -1,5 +1,4 @@
-Inocybe involuta Kuyper SPECIES
-=======
+# Inocybe involuta Kuyper SPECIES
 
 #### Status
 ACCEPTED

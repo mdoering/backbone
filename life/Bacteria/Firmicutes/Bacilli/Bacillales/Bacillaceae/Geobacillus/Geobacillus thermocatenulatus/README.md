@@ -1,8 +1,7 @@
-Bacillus thermocatenulatus Golovacheva et al., 1991 SPECIES
-=======
+# Geobacillus thermocatenulatus (Golovacheva et al., 1991) Nazina et al., 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Diplodia sicula Scalia SPECIES
-=======
+# Diplodia sicula Scalia SPECIES
 
 #### Status
 ACCEPTED

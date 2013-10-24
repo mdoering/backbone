@@ -1,5 +1,4 @@
-Ceratosphaeria moravica Petr. SPECIES
-=======
+# Ceratosphaeria moravica Petr. SPECIES
 
 #### Status
 ACCEPTED

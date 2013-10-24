@@ -1,5 +1,4 @@
-Erwinia billingiae Mergaert et al., 1999 SPECIES
-=======
+# Erwinia billingiae Mergaert et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

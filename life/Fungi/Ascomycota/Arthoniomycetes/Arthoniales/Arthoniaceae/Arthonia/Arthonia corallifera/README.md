@@ -1,5 +1,4 @@
-Arthonia corallifera Vain. SPECIES
-=======
+# Arthonia corallifera Vain. SPECIES
 
 #### Status
 ACCEPTED

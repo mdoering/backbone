@@ -1,5 +1,4 @@
-Sarcosphaera macrocalyx Fuckel SPECIES
-=======
+# Sarcosphaera macrocalyx Fuckel SPECIES
 
 #### Status
 ACCEPTED

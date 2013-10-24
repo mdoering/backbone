@@ -1,5 +1,4 @@
-Macowanites arenicola S.L. Mill. & D. Mitch., 2004 SPECIES
-=======
+# Macowanites arenicola S.L. Mill. & D. Mitch., 2004 SPECIES
 
 #### Status
 ACCEPTED

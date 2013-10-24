@@ -1,14 +1,13 @@
-Cladolegnia unispora (Coker & Couch) Johannes, 1955 SPECIES
-=======
+# Saprolegnia unispora (Coker & Couch) R.L. Seym., 1970 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Feddes Repert. Spec. Nov. Regni Veg. 58: 217 (1955)
+Nova Hedwigia 19(1-2): 57 (1970)
 
 #### Original name
 Isoachlya unispora Coker & Couch, 1923

@@ -1,17 +1,16 @@
-Pyxine patellaris Kurok. SPECIES
-=======
+# Pyxine fallax (Zahlbr.) Kalb SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Biblthca Lichenol. 88: 315 (2004)
 
 #### Original name
-null
+Parmelia fallax Zahlbr.
 
 ### Remarks
 null

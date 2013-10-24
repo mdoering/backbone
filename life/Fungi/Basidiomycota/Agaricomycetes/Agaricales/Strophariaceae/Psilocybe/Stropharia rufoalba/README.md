@@ -1,5 +1,4 @@
-Stropharia rufoalba (Berk.) Sacc. SPECIES
-=======
+# Stropharia rufoalba (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

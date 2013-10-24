@@ -1,5 +1,4 @@
-Helicodendron japonicum Abdullah SPECIES
-=======
+# Helicodendron japonicum Abdullah SPECIES
 
 #### Status
 ACCEPTED

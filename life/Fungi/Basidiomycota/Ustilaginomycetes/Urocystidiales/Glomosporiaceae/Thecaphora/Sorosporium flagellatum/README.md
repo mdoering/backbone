@@ -1,14 +1,13 @@
-Sporisorium flagellatum (Syd., P. Syd. & E.J. Butler) Vánky, 1997 SPECIES
-=======
+# Sorosporium flagellatum Syd., P. Syd. & E.J. Butler, 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 62: 139 (1997)
+Annls mycol. 5(6): 489 (1907)
 
 #### Original name
 Sorosporium flagellatum Syd., P. Syd. & E.J. Butler, 1907

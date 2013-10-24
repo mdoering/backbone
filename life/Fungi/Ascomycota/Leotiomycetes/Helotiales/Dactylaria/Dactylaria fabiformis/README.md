@@ -1,5 +1,4 @@
-Dactylaria fabiformis Matsush. SPECIES
-=======
+# Dactylaria fabiformis Matsush. SPECIES
 
 #### Status
 ACCEPTED

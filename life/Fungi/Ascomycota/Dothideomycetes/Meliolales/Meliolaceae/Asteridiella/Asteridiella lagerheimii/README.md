@@ -1,5 +1,4 @@
-Asteridiella lagerheimii (Gaillard) Hansf. SPECIES
-=======
+# Asteridiella lagerheimii (Gaillard) Hansf. SPECIES
 
 #### Status
 ACCEPTED

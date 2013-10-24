@@ -1,5 +1,4 @@
-Genea clausa Tul. & C. Tul. SPECIES
-=======
+# Genea clausa Tul. & C. Tul. SPECIES
 
 #### Status
 ACCEPTED

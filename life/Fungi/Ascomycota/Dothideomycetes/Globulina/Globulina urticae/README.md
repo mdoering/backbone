@@ -1,5 +1,4 @@
-Globulina urticae Velen. SPECIES
-=======
+# Globulina urticae Velen. SPECIES
 
 #### Status
 ACCEPTED

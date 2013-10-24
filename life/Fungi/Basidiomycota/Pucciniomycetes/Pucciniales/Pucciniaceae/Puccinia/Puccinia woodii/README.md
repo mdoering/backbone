@@ -1,5 +1,4 @@
-Puccinia woodii (Kalchbr. & Cooke) P. Syd. & Syd. SPECIES
-=======
+# Puccinia woodii (Kalchbr. & Cooke) P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

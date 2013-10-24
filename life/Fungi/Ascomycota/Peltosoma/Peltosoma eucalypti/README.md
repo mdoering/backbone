@@ -1,5 +1,4 @@
-Peltosoma eucalypti Hansf. SPECIES
-=======
+# Peltosoma eucalypti Hansf. SPECIES
 
 #### Status
 ACCEPTED

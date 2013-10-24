@@ -1,5 +1,4 @@
-Marchandiomyces nothofagicola Diederich & Lawrey, 2007 SPECIES
-=======
+# Marchandiomyces nothofagicola Diederich & Lawrey, 2007 SPECIES
 
 #### Status
 ACCEPTED

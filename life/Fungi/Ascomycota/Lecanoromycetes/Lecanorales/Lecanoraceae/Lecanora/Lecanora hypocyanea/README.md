@@ -1,5 +1,4 @@
-Lecanora hypocyanea (Mereschk.) Motyka SPECIES
-=======
+# Lecanora hypocyanea (Mereschk.) Motyka SPECIES
 
 #### Status
 ACCEPTED

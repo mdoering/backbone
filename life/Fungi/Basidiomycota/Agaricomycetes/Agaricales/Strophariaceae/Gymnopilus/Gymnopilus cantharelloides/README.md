@@ -1,5 +1,4 @@
-Gymnopilus cantharelloides Camboni & Migl. SPECIES
-=======
+# Gymnopilus cantharelloides Camboni & Migl. SPECIES
 
 #### Status
 ACCEPTED

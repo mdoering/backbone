@@ -1,5 +1,4 @@
-Cricolithus granulatus J.B. Risatti SPECIES
-=======
+# Cricolithus granulatus J.B. Risatti SPECIES
 
 #### Status
 ACCEPTED

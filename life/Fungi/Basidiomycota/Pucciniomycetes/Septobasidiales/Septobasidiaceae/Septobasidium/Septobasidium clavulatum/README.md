@@ -1,5 +1,4 @@
-Septobasidium clavulatum W. Yamam. SPECIES
-=======
+# Septobasidium clavulatum W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

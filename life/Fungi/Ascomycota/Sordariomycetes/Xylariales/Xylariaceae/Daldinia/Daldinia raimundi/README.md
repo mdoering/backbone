@@ -1,5 +1,4 @@
-Daldinia raimundi M. Stadler, Venturella & Wollw., 2004 SPECIES
-=======
+# Daldinia raimundi M. Stadler, Venturella & Wollw., 2004 SPECIES
 
 #### Status
 ACCEPTED

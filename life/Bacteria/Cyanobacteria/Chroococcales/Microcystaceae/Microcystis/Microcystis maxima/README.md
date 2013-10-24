@@ -1,5 +1,4 @@
-Microcystis maxima Bernard SPECIES
-=======
+# Microcystis maxima Bernard SPECIES
 
 #### Status
 ACCEPTED

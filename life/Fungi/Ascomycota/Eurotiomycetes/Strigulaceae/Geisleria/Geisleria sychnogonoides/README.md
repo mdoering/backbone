@@ -1,5 +1,4 @@
-Geisleria sychnogonoides Nitschke SPECIES
-=======
+# Geisleria sychnogonoides Nitschke SPECIES
 
 #### Status
 ACCEPTED

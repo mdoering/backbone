@@ -1,5 +1,4 @@
-Cryptococcus uvae Pollacci & Nann. SPECIES
-=======
+# Cryptococcus uvae Pollacci & Nann. SPECIES
 
 #### Status
 ACCEPTED

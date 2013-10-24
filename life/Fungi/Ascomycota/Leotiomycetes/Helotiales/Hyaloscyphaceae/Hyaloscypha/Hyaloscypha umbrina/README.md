@@ -1,5 +1,4 @@
-Hyaloscypha umbrina Velen. SPECIES
-=======
+# Hyaloscypha umbrina Velen. SPECIES
 
 #### Status
 ACCEPTED

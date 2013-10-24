@@ -1,5 +1,4 @@
-Laestadia tofieldiae Tassi SPECIES
-=======
+# Laestadia tofieldiae Tassi SPECIES
 
 #### Status
 ACCEPTED

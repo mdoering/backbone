@@ -1,5 +1,4 @@
-Phyllachora gaylussaciae Henn., 1902 SPECIES
-=======
+# Phyllachora gaylussaciae Henn., 1902 SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Platygrapha hypothallina Zahlbr. SPECIES
-=======
+# Platygrapha hypothallina Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Zavarzinia Meyer et al., 1994 GENUS
-=======
+# Zavarzinia Meyer et al., 1994 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psorothecium recondita Arnold SPECIES
-=======
+# Psorothecium recondita Arnold SPECIES
 
 #### Status
 ACCEPTED

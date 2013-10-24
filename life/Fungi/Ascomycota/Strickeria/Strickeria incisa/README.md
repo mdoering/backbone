@@ -1,5 +1,4 @@
-Strickeria incisa (Ellis & Everh.) M.E. Barr SPECIES
-=======
+# Strickeria incisa (Ellis & Everh.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

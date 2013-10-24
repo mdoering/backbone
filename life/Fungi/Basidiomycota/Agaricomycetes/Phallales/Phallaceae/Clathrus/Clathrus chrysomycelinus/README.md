@@ -1,14 +1,13 @@
-Clathrella chrysomycelina (Möller) E. Fisch., 1898 SPECIES
-=======
+# Clathrus chrysomycelinus Möller, 1895 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Engler & Prantl, Nat. Pflanzenfam. (Leipzig), Teil. <b>I</b> 1**: 284 (1898)
+Bot. Mitt. Trop. 8: 22, 146 (1895)
 
 #### Original name
 Clathrus chrysomycelinus Möller, 1895

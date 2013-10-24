@@ -1,5 +1,4 @@
-Volutella alba (Peyl) Sacc. & Traverso SPECIES
-=======
+# Volutella alba (Peyl) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

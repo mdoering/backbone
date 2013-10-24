@@ -1,5 +1,4 @@
-Parmotrema pseudoreticulatum (Tav.) Hale SPECIES
-=======
+# Parmotrema pseudoreticulatum (Tav.) Hale SPECIES
 
 #### Status
 ACCEPTED

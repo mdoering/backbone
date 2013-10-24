@@ -1,5 +1,4 @@
-Gonyaulax matkovichii Schiller, 1929 SPECIES
-=======
+# Gonyaulax matkovichii Schiller, 1929 SPECIES
 
 #### Status
 ACCEPTED

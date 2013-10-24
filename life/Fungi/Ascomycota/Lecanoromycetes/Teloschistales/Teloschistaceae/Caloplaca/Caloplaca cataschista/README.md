@@ -1,5 +1,4 @@
-Caloplaca cataschista Zahlbr. SPECIES
-=======
+# Caloplaca cataschista Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

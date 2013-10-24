@@ -1,5 +1,4 @@
-Tylopilus subchromapes Wolfe & Bougher SPECIES
-=======
+# Tylopilus subchromapes Wolfe & Bougher SPECIES
 
 #### Status
 ACCEPTED

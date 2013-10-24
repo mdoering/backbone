@@ -1,5 +1,4 @@
-Patellaria pruinata Müll. Arg. SPECIES
-=======
+# Patellaria pruinata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

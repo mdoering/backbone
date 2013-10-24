@@ -1,5 +1,4 @@
-Bovista juglandiformis Berk. SPECIES
-=======
+# Bovista juglandiformis Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coryne violacea anon. SPECIES
-=======
+# Coryne violacea anon. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helicosphaera burkei M. Black SPECIES
-=======
+# Helicosphaera burkei M. Black SPECIES
 
 #### Status
 ACCEPTED

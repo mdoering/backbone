@@ -1,5 +1,4 @@
-Candelariella chrysea C.W. Dodge & G.E. Baker SPECIES
-=======
+# Candelariella chrysea C.W. Dodge & G.E. Baker SPECIES
 
 #### Status
 ACCEPTED

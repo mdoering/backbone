@@ -1,5 +1,4 @@
-Phyllosticta hosackiae W.B. Cooke SPECIES
-=======
+# Phyllosticta hosackiae W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

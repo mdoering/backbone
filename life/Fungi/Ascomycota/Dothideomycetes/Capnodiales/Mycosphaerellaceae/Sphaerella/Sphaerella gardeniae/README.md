@@ -1,5 +1,4 @@
-Sphaerella gardeniae Cooke SPECIES
-=======
+# Sphaerella gardeniae Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniothyrium papillula (Roum. & Sacc.) Kuntze SPECIES
-=======
+# Coniothyrium papillula (Roum. & Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

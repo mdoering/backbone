@@ -1,5 +1,4 @@
-Fusarium carniformis Ellis & Tracy SPECIES
-=======
+# Fusarium carniformis Ellis & Tracy SPECIES
 
 #### Status
 ACCEPTED

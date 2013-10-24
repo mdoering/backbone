@@ -1,8 +1,7 @@
-Bolivina dilatata var. dilatatissima Silvestri, 1893 VARIETY
-=======
+# Brizalina subspathulata (Boomgart, 1949) SPECIES
 
 #### Status
-DOUBTFUL
+ACCEPTED
 
 #### According to
 World Register of Marine Species

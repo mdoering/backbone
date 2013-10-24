@@ -1,5 +1,4 @@
-Enretisphaeridium Ou-yang, Yin & Li, 1974 GENUS
-=======
+# Enretisphaeridium Ou-yang, Yin & Li, 1974 GENUS
 
 #### Status
 ACCEPTED

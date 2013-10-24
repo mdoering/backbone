@@ -1,5 +1,4 @@
-Milesia australis Arthur SPECIES
-=======
+# Milesia australis Arthur SPECIES
 
 #### Status
 ACCEPTED

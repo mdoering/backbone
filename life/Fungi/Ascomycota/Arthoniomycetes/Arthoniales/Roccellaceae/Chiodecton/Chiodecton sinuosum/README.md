@@ -1,5 +1,4 @@
-Chiodecton sinuosum Stirt. SPECIES
-=======
+# Chiodecton sinuosum Stirt. SPECIES
 
 #### Status
 ACCEPTED

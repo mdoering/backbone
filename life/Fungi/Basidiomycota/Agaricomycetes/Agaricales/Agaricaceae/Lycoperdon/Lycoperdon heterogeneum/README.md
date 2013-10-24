@@ -1,5 +1,4 @@
-Lycoperdon heterogeneum Bosc SPECIES
-=======
+# Lycoperdon heterogeneum Bosc SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Elsinoë leucospila Bitanc. & Jenkins SPECIES
-=======
+# Elsinoë leucospila Bitanc. & Jenkins SPECIES
 
 #### Status
 ACCEPTED

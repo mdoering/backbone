@@ -1,5 +1,4 @@
-Lachnum eburneum Kirschst. SPECIES
-=======
+# Lachnum eburneum Kirschst. SPECIES
 
 #### Status
 ACCEPTED

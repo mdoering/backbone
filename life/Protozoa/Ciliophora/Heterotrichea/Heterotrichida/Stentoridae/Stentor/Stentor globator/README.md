@@ -1,5 +1,4 @@
-Stentor globator Stokes, 1885 SPECIES
-=======
+# Stentor globator Stokes, 1885 SPECIES
 
 #### Status
 ACCEPTED

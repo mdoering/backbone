@@ -1,5 +1,4 @@
-Thalicola Ormières, 1965 GENUS
-=======
+# Thalicola Ormières, 1965 GENUS
 
 #### Status
 ACCEPTED

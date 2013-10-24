@@ -1,5 +1,4 @@
-Caryophanon Peshkoff, 1939 GENUS
-=======
+# Caryophanon Peshkoff, 1939 GENUS
 
 #### Status
 ACCEPTED

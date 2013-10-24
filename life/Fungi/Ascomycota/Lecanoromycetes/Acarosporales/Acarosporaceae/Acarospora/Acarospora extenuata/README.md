@@ -1,5 +1,4 @@
-Acarospora extenuata H. Magn. SPECIES
-=======
+# Acarospora extenuata H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyclostephanos servant-vildaryi (V. V. Mukhina) G. K. Khursevich SPECIES
-=======
+# Cyclostephanos servant-vildaryi (V. V. Mukhina) G. K. Khursevich SPECIES
 
 #### Status
 ACCEPTED

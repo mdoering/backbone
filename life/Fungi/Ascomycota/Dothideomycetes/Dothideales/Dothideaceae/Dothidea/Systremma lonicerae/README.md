@@ -1,5 +1,4 @@
-Systremma lonicerae (Cooke) Theiss. & Syd. SPECIES
-=======
+# Systremma lonicerae (Cooke) Theiss. & Syd. SPECIES
 
 #### Status
 ACCEPTED

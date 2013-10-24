@@ -1,5 +1,4 @@
-Geopetalum subsepticum Murrill SPECIES
-=======
+# Geopetalum subsepticum Murrill SPECIES
 
 #### Status
 ACCEPTED

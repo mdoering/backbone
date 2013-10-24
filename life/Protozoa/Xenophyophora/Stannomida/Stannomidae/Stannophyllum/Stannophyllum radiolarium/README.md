@@ -1,5 +1,4 @@
-Stannophyllum radiolarium Haeckel, 1889 SPECIES
-=======
+# Stannophyllum radiolarium Haeckel, 1889 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Planeticovorticella Clamp & Coats, 2000 GENUS
-=======
+# Planeticovorticella Clamp & Coats, 2000 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dethiosulfovibrio marinus Surkov et al., 2001 SPECIES
-=======
+# Dethiosulfovibrio marinus Surkov et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Haplocaulus distinguendis SPECIES
-=======
+# Haplocaulus distinguendis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Textularia subangulata d'Orbigny SPECIES
-=======
+# Textularia subangulata d'Orbigny SPECIES
 
 #### Status
 ACCEPTED

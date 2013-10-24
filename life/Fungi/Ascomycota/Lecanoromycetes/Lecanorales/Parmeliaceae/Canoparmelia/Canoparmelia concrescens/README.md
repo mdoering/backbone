@@ -1,17 +1,16 @@
-Parmelia caffrorum Zahlbr. SPECIES
-=======
+# Canoparmelia concrescens (Vain.) Elix & Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Elix, Johnston & Verdon, Mycotaxon 27: 278 (1986)
 
 #### Original name
-null
+Parmelia concrescens Vain.
 
 ### Remarks
 null

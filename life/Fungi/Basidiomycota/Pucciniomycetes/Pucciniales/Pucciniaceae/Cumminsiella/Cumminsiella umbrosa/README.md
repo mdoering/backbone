@@ -1,5 +1,4 @@
-Cumminsiella umbrosa J.F. Hennen & Cummins, 1973 SPECIES
-=======
+# Cumminsiella umbrosa J.F. Hennen & Cummins, 1973 SPECIES
 
 #### Status
 ACCEPTED

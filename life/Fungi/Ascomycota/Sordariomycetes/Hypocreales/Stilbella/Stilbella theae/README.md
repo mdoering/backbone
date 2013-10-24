@@ -1,5 +1,4 @@
-Stilbella theae G.E. Bernard SPECIES
-=======
+# Stilbella theae G.E. Bernard SPECIES
 
 #### Status
 ACCEPTED

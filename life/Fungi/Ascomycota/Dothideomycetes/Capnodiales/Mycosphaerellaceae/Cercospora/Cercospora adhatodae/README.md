@@ -1,5 +1,4 @@
-Cercospora adhatodae S. Chowdhury SPECIES
-=======
+# Cercospora adhatodae S. Chowdhury SPECIES
 
 #### Status
 ACCEPTED

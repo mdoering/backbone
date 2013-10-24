@@ -1,5 +1,4 @@
-Lecideopsella landolphiae Hansf. SPECIES
-=======
+# Lecideopsella landolphiae Hansf. SPECIES
 
 #### Status
 ACCEPTED

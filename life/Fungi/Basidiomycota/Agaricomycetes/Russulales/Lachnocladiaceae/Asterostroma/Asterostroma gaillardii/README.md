@@ -1,5 +1,4 @@
-Asterostroma gaillardii Pat. SPECIES
-=======
+# Asterostroma gaillardii Pat. SPECIES
 
 #### Status
 ACCEPTED

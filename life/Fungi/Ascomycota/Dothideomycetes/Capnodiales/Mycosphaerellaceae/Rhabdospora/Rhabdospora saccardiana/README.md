@@ -1,5 +1,4 @@
-Rhabdospora saccardiana Oertel SPECIES
-=======
+# Rhabdospora saccardiana Oertel SPECIES
 
 #### Status
 ACCEPTED

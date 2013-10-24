@@ -1,5 +1,4 @@
-Puccinia gorganensis Petr. SPECIES
-=======
+# Puccinia gorganensis Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gliomastix macroelata Matsush. SPECIES
-=======
+# Gliomastix macroelata Matsush. SPECIES
 
 #### Status
 ACCEPTED

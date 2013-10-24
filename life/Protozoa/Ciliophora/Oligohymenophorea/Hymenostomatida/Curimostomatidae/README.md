@@ -1,5 +1,4 @@
-Curimostomatidae FAMILY
-=======
+# Curimostomatidae FAMILY
 
 #### Status
 ACCEPTED

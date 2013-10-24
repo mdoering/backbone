@@ -1,5 +1,4 @@
-Bacidia subsaxicola B. de Lesd. SPECIES
-=======
+# Bacidia subsaxicola B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

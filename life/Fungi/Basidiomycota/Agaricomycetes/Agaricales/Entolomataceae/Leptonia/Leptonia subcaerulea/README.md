@@ -1,5 +1,4 @@
-Leptonia subcaerulea (Hesler) Largent SPECIES
-=======
+# Leptonia subcaerulea (Hesler) Largent SPECIES
 
 #### Status
 ACCEPTED

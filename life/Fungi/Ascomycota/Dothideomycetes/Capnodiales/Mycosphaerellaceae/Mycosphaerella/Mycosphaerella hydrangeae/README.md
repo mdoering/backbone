@@ -1,5 +1,4 @@
-Mycosphaerella hydrangeae Hara SPECIES
-=======
+# Mycosphaerella hydrangeae Hara SPECIES
 
 #### Status
 ACCEPTED

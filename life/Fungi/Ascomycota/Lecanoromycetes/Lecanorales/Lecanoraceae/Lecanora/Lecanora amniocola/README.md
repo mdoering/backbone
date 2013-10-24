@@ -1,5 +1,4 @@
-Lecanora amniocola Ach. SPECIES
-=======
+# Lecanora amniocola Ach. SPECIES
 
 #### Status
 ACCEPTED

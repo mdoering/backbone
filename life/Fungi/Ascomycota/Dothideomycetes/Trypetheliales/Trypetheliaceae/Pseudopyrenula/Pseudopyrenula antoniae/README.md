@@ -1,5 +1,4 @@
-Pseudopyrenula antoniae (Kremp.) Zahlbr. SPECIES
-=======
+# Pseudopyrenula antoniae (Kremp.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

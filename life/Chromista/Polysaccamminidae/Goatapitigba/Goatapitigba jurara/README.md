@@ -1,5 +1,4 @@
-Goatapitigba jurara Narchi, 1962 SPECIES
-=======
+# Goatapitigba jurara Narchi, 1962 SPECIES
 
 #### Status
 ACCEPTED

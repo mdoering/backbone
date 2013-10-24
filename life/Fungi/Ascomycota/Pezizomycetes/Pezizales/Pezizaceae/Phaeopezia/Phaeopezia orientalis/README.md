@@ -1,5 +1,4 @@
-Phaeopezia orientalis Pat. SPECIES
-=======
+# Phaeopezia orientalis Pat. SPECIES
 
 #### Status
 ACCEPTED

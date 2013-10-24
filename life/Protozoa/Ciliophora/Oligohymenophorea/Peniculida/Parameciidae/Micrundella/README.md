@@ -1,5 +1,4 @@
-Micrundella Busch, 1948 GENUS
-=======
+# Micrundella Busch, 1948 GENUS
 
 #### Status
 ACCEPTED

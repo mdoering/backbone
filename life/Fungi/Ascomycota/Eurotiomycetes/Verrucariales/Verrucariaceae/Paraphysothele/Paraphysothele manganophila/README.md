@@ -1,5 +1,4 @@
-Paraphysothele manganophila O. Behr SPECIES
-=======
+# Paraphysothele manganophila O. Behr SPECIES
 
 #### Status
 ACCEPTED

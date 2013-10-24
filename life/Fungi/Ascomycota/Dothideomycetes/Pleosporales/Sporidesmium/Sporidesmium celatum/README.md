@@ -1,5 +1,4 @@
-Sporidesmium celatum Welw. & Curr. SPECIES
-=======
+# Sporidesmium celatum Welw. & Curr. SPECIES
 
 #### Status
 ACCEPTED

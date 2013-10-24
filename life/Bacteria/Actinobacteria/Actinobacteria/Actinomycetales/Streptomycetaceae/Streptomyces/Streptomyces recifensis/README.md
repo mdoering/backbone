@@ -1,5 +1,4 @@
-Streptomyces recifensis (Gonçalves de Lima et al., 1955) Falcão de Morais et al., 1957 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces recifensis (Gonçalves de Lima et al., 1955) Falcão de Morais et al., 1957 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

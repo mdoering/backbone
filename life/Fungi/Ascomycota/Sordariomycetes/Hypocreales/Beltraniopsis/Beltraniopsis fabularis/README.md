@@ -1,5 +1,4 @@
-Beltraniopsis fabularis Rambelli & C. Ciccar. SPECIES
-=======
+# Beltraniopsis fabularis Rambelli & C. Ciccar. SPECIES
 
 #### Status
 ACCEPTED

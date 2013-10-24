@@ -1,5 +1,4 @@
-Peridinium excavatum SPECIES
-=======
+# Peridinium excavatum SPECIES
 
 #### Status
 ACCEPTED

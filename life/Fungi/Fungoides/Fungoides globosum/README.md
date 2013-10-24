@@ -1,5 +1,4 @@
-Fungoides globosum P. Micheli SPECIES
-=======
+# Fungoides globosum P. Micheli SPECIES
 
 #### Status
 ACCEPTED

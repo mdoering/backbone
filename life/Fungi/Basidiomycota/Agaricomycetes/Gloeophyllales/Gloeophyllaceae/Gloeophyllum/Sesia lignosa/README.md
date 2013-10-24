@@ -1,5 +1,4 @@
-Sesia lignosa (Berk.) Kuntze SPECIES
-=======
+# Sesia lignosa (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Peziza ciliaris subsp. ciliaris SUBSPECIES
-=======
+# Peziza ciliaris Schumach. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Enum. pl. (Kjbenhavn) 2: 424 (1803)
 
 #### Original name
-null
+Peziza ciliaris Schumach.
 
 ### Remarks
 null

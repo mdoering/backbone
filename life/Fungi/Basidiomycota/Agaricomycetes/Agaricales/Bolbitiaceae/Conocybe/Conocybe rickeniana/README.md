@@ -1,17 +1,16 @@
-Galera teneroides var. teneroides VARIETY
-=======
+# Conocybe rickeniana P.D. Orton, 1960 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 5: 861 (1887)
+Lilloa 22: 484 (1951)
 
 #### Original name
-Galera teneroides var. teneroides
+Conocybe rickeniana P.D. Orton, 1960
 
 ### Remarks
 null

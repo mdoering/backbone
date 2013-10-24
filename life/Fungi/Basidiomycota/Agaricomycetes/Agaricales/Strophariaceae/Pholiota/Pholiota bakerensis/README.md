@@ -1,5 +1,4 @@
-Pholiota bakerensis A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota bakerensis A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

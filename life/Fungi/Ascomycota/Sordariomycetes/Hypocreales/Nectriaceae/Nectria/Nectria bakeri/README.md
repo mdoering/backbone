@@ -1,5 +1,4 @@
-Nectria bakeri Rehm SPECIES
-=======
+# Nectria bakeri Rehm SPECIES
 
 #### Status
 ACCEPTED

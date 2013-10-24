@@ -1,5 +1,4 @@
-Helotium phillipsii Sacc. SPECIES
-=======
+# Helotium phillipsii Sacc. SPECIES
 
 #### Status
 ACCEPTED

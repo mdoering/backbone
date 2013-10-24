@@ -1,5 +1,4 @@
-Lyngbya torpida K. Cholnoky-Pfannkuche SPECIES
-=======
+# Lyngbya torpida K. Cholnoky-Pfannkuche SPECIES
 
 #### Status
 ACCEPTED

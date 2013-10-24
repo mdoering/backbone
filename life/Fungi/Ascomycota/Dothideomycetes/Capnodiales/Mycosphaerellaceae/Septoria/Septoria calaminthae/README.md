@@ -1,5 +1,4 @@
-Septoria calaminthae C. Massal. SPECIES
-=======
+# Septoria calaminthae C. Massal. SPECIES
 
 #### Status
 ACCEPTED

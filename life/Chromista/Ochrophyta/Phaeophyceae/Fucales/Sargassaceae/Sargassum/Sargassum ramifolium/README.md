@@ -1,8 +1,7 @@
-Sargassum cymosum var. ramifolia (Kützing) Grunow VARIETY
-=======
+# Sargassum ramifolium Kützing SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

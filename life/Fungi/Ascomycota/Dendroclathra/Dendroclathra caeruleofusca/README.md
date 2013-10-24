@@ -1,5 +1,4 @@
-Dendroclathra caeruleofusca Voglmayr & G. Delgado, 2001 SPECIES
-=======
+# Dendroclathra caeruleofusca Voglmayr & G. Delgado, 2001 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerobacterales ORDER
-=======
+# Sphaerobacterales ORDER
 
 #### Status
 ACCEPTED

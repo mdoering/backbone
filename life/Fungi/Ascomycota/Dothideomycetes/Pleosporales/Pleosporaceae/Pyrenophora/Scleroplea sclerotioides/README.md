@@ -1,5 +1,4 @@
-Scleroplea sclerotioides (Speg.) Sacc. & P. Syd. SPECIES
-=======
+# Scleroplea sclerotioides (Speg.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

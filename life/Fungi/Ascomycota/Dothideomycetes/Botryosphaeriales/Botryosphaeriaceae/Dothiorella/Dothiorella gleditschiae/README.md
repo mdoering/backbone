@@ -1,5 +1,4 @@
-Dothiorella gleditschiae (Cooke) Grove SPECIES
-=======
+# Dothiorella gleditschiae (Cooke) Grove SPECIES
 
 #### Status
 ACCEPTED

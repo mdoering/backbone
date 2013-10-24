@@ -1,5 +1,4 @@
-Eudimeromyces GENUS
-=======
+# Eudimeromyces GENUS
 
 #### Status
 ACCEPTED

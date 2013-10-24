@@ -1,5 +1,4 @@
-Lecidea salazarensis B. de Lesd. SPECIES
-=======
+# Lecidea salazarensis B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

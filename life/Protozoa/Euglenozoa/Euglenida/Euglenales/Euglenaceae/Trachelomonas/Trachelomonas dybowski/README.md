@@ -1,5 +1,4 @@
-Trachelomonas dybowski Drezepolski SPECIES
-=======
+# Trachelomonas dybowski Drezepolski SPECIES
 
 #### Status
 ACCEPTED

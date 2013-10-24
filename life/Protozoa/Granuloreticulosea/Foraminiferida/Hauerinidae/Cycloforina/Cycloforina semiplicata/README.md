@@ -1,5 +1,4 @@
-Cycloforina semiplicata (McCulloch, 1977) SPECIES
-=======
+# Cycloforina semiplicata (McCulloch, 1977) SPECIES
 
 #### Status
 ACCEPTED

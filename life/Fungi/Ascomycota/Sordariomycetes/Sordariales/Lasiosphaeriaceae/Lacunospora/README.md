@@ -1,5 +1,4 @@
-Lacunospora GENUS
-=======
+# Lacunospora GENUS
 
 #### Status
 ACCEPTED

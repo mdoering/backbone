@@ -1,5 +1,4 @@
-Lycogala plumbeum Fr. & Lindgr. SPECIES
-=======
+# Lycogala plumbeum Fr. & Lindgr. SPECIES
 
 #### Status
 ACCEPTED

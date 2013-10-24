@@ -1,5 +1,4 @@
-Serendipita lyrica Trichies, 2003 SPECIES
-=======
+# Serendipita lyrica Trichies, 2003 SPECIES
 
 #### Status
 ACCEPTED

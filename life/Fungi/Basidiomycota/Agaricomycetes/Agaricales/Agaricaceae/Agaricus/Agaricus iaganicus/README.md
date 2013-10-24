@@ -1,5 +1,4 @@
-Agaricus iaganicus Speg. SPECIES
-=======
+# Agaricus iaganicus Speg. SPECIES
 
 #### Status
 ACCEPTED

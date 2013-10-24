@@ -1,5 +1,4 @@
-Biatora tristior (Nyl.) Dombr. SPECIES
-=======
+# Biatora tristior (Nyl.) Dombr. SPECIES
 
 #### Status
 ACCEPTED

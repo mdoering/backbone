@@ -1,5 +1,4 @@
-Hydnellum piperatum Coker ex Maas Geest. SPECIES
-=======
+# Hydnellum piperatum Coker ex Maas Geest. SPECIES
 
 #### Status
 ACCEPTED

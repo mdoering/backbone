@@ -1,5 +1,4 @@
-Zygodiscus xenotus (L.E. Stover) J.B. Risatti SPECIES
-=======
+# Zygodiscus xenotus (L.E. Stover) J.B. Risatti SPECIES
 
 #### Status
 ACCEPTED

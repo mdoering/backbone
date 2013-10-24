@@ -1,5 +1,4 @@
-Clitocybe espeletiae Dennis SPECIES
-=======
+# Clitocybe espeletiae Dennis SPECIES
 
 #### Status
 ACCEPTED

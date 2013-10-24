@@ -1,5 +1,4 @@
-Opegrapha cinerascens Willey SPECIES
-=======
+# Opegrapha cinerascens Willey SPECIES
 
 #### Status
 ACCEPTED

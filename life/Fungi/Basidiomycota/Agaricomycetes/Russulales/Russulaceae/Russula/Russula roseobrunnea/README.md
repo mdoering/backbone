@@ -1,5 +1,4 @@
-Russula roseobrunnea J. Blum SPECIES
-=======
+# Russula roseobrunnea J. Blum SPECIES
 
 #### Status
 ACCEPTED

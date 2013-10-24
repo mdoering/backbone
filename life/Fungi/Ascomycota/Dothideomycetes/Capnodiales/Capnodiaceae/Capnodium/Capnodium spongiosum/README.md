@@ -1,5 +1,4 @@
-Capnodium spongiosum M.E. Barr SPECIES
-=======
+# Capnodium spongiosum M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

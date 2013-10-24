@@ -1,17 +1,16 @@
-Sorosporium pedicularidis Golovin SPECIES
-=======
+# Sorosporium pedicularis Golovin SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Gutner, The Smut Fungi of the USSR 182 (1941)
 
 #### Original name
-Sorosporium pedicularidis Golovin
+Sorosporium pedicularis Golovin
 
 ### Remarks
 null

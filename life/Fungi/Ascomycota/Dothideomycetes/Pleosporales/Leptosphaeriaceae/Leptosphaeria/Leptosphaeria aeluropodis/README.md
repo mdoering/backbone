@@ -1,5 +1,4 @@
-Leptosphaeria aeluropodis Lobik SPECIES
-=======
+# Leptosphaeria aeluropodis Lobik SPECIES
 
 #### Status
 ACCEPTED

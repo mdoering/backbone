@@ -1,5 +1,4 @@
-Puccinia indecorata H.S. Jacks. & Holw. SPECIES
-=======
+# Puccinia indecorata H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

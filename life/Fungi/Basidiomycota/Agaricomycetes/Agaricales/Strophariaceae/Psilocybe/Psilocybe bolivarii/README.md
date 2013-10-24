@@ -1,5 +1,4 @@
-Psilocybe bolivarii Guzmán SPECIES
-=======
+# Psilocybe bolivarii Guzmán SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Alveolophragmium jeffreysii (Williamson, 1858) SPECIES
-=======
+# Cribrostomoides jeffreysii (Williamson, 1858) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

@@ -1,5 +1,4 @@
-Graphis flavicans Müll. Arg. SPECIES
-=======
+# Graphis flavicans Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

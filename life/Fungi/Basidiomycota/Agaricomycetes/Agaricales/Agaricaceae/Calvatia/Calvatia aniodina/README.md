@@ -1,5 +1,4 @@
-Calvatia aniodina Pat. SPECIES
-=======
+# Calvatia aniodina Pat. SPECIES
 
 #### Status
 ACCEPTED

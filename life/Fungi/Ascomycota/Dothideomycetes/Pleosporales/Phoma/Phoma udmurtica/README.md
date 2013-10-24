@@ -1,5 +1,4 @@
-Phoma udmurtica Czerepan. SPECIES
-=======
+# Phoma udmurtica Czerepan. SPECIES
 
 #### Status
 ACCEPTED

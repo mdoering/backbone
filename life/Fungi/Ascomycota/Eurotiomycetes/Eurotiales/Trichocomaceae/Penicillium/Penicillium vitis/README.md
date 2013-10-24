@@ -1,5 +1,4 @@
-Penicillium vitis Novobr. SPECIES
-=======
+# Penicillium vitis Novobr. SPECIES
 
 #### Status
 ACCEPTED

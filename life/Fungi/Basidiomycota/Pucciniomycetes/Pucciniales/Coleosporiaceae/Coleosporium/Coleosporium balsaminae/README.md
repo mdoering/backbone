@@ -1,5 +1,4 @@
-Coleosporium balsaminae Syd. SPECIES
-=======
+# Coleosporium balsaminae Syd. SPECIES
 
 #### Status
 ACCEPTED

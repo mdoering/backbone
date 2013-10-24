@@ -1,5 +1,4 @@
-Shewanella surugensis Miyazaki et al., 2006 SPECIES
-=======
+# Shewanella surugensis Miyazaki et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

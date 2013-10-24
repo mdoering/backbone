@@ -1,17 +1,16 @@
-Amanita excelsa f. excelsa FORM
-=======
+# Amanita australis G. Stev., 1962 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Kew Bull. 16(1): 67 (1962)
 
 #### Original name
-Amanita excelsa f. excelsa
+Amanita australis G. Stev., 1962
 
 ### Remarks
 null

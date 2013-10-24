@@ -1,5 +1,4 @@
-Lichenopsis sphaeroboloides Berk. SPECIES
-=======
+# Lichenopsis sphaeroboloides Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Barlaea discoidea Henn. & E. Nyman SPECIES
-=======
+# Barlaea discoidea Henn. & E. Nyman SPECIES
 
 #### Status
 ACCEPTED

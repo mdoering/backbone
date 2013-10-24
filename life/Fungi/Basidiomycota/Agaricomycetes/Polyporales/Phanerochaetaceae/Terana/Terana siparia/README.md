@@ -1,5 +1,4 @@
-Terana siparia (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Terana siparia (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

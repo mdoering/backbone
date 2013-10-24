@@ -1,5 +1,4 @@
-Arthonia purpurissata Nyl. SPECIES
-=======
+# Arthonia purpurissata Nyl. SPECIES
 
 #### Status
 ACCEPTED

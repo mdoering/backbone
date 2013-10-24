@@ -1,5 +1,4 @@
-Zignoëlla australica Cooke & Massee SPECIES
-=======
+# Zignoëlla australica Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

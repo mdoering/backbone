@@ -1,5 +1,4 @@
-Dischloridium B. Sutton GENUS
-=======
+# Dischloridium B. Sutton GENUS
 
 #### Status
 ACCEPTED

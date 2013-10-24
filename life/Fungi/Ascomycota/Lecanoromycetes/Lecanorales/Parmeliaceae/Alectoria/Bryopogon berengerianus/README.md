@@ -1,5 +1,4 @@
-Bryopogon berengerianus f. berengerianus FORM
-=======
+# Bryopogon berengerianus SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Bryopogon berengerianus f. berengerianus
+null
 
 ### Remarks
 null

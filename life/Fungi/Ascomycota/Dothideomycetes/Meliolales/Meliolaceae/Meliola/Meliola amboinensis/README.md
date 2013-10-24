@@ -1,5 +1,4 @@
-Meliola amboinensis Syd. SPECIES
-=======
+# Meliola amboinensis Syd. SPECIES
 
 #### Status
 ACCEPTED

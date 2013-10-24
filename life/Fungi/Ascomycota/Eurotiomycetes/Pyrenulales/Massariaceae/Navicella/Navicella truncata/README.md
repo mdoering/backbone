@@ -1,5 +1,4 @@
-Navicella truncata (Pers.) Kuntze SPECIES
-=======
+# Navicella truncata (Pers.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

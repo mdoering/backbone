@@ -1,5 +1,4 @@
-Ascochyta juelii Bubák SPECIES
-=======
+# Ascochyta juelii Bubák SPECIES
 
 #### Status
 ACCEPTED

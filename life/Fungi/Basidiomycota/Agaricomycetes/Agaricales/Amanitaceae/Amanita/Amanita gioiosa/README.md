@@ -1,5 +1,4 @@
-Amanita gioiosa S. Curreli SPECIES
-=======
+# Amanita gioiosa S. Curreli SPECIES
 
 #### Status
 ACCEPTED

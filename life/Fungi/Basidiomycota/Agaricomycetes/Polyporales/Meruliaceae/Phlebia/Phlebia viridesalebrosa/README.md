@@ -1,17 +1,16 @@
-Phlebia viridesalebrosum J. Erikss. & Hjortstam SPECIES
-=======
+# Phlebia viridesalebrosa J. Erikss. & Hjortstam SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Eriksson, Hjortstam & Ryvarden, Cortic. N. Eur. (Oslo) 6: 1127 (1981)
 
 #### Original name
-Phlebia viridesalebrosum J. Erikss. & Hjortstam
+Corticium pallidovirens Bourdot & Galzin
 
 ### Remarks
 null

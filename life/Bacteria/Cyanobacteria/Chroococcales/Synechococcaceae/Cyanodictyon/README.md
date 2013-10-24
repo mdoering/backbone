@@ -1,5 +1,4 @@
-Cyanodictyon Pascher, 1914 GENUS
-=======
+# Cyanodictyon Pascher, 1914 GENUS
 
 #### Status
 ACCEPTED

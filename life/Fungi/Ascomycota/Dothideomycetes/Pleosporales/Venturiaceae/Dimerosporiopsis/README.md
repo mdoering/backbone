@@ -1,5 +1,4 @@
-Dimerosporiopsis GENUS
-=======
+# Dimerosporiopsis GENUS
 
 #### Status
 ACCEPTED

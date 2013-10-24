@@ -1,5 +1,4 @@
-Melaspilea canariensis D. Hawksw. SPECIES
-=======
+# Melaspilea canariensis D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

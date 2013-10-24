@@ -1,5 +1,4 @@
-Lichenopeltella swaminathaniana Harih., Mibey & D. Hawksw. SPECIES
-=======
+# Lichenopeltella swaminathaniana Harih., Mibey & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dasyscyphus gracilescens (P. Karst.) Sacc. SPECIES
-=======
+# Dasyscyphus gracilescens (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

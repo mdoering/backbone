@@ -1,5 +1,4 @@
-Diplodia pentatropidis S. Ahmad SPECIES
-=======
+# Diplodia pentatropidis S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

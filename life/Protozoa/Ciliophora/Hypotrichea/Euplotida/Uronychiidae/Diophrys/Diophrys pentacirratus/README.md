@@ -1,5 +1,4 @@
-Diophrys pentacirratus SPECIES
-=======
+# Diophrys pentacirratus SPECIES
 
 #### Status
 ACCEPTED

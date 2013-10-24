@@ -1,5 +1,4 @@
-Eutypa polyscia (Berk. & Broome) Berl. & Voglino SPECIES
-=======
+# Eutypa polyscia (Berk. & Broome) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

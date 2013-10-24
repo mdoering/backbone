@@ -1,5 +1,4 @@
-Puccinia clarioneicola Syd. SPECIES
-=======
+# Puccinia clarioneicola Syd. SPECIES
 
 #### Status
 ACCEPTED

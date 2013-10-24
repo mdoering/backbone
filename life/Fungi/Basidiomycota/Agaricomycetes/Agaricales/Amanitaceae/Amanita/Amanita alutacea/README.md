@@ -1,5 +1,4 @@
-Amanita alutacea (Vittad.) E.H.L. Krause SPECIES
-=======
+# Amanita alutacea (Vittad.) E.H.L. Krause SPECIES
 
 #### Status
 ACCEPTED

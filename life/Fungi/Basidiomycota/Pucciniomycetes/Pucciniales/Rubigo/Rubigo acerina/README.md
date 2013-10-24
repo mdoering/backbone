@@ -1,5 +1,4 @@
-Rubigo acerina (Pers.) Link SPECIES
-=======
+# Rubigo acerina (Pers.) Link SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Elaphomyces rugosus Fr. SPECIES
-=======
+# Elaphomyces rugosus Fr. SPECIES
 
 #### Status
 ACCEPTED

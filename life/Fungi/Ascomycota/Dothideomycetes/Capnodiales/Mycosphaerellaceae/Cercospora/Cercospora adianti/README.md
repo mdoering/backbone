@@ -1,5 +1,4 @@
-Cercospora adianti Syd. SPECIES
-=======
+# Cercospora adianti Syd. SPECIES
 
 #### Status
 ACCEPTED

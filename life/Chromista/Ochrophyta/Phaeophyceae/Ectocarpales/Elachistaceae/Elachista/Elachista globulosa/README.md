@@ -1,5 +1,4 @@
-Elachista globulosa (C. Agardh) J. Agardh SPECIES
-=======
+# Elachista globulosa (C. Agardh) J. Agardh SPECIES
 
 #### Status
 ACCEPTED

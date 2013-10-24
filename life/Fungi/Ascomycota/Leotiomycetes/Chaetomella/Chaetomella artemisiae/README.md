@@ -1,5 +1,4 @@
-Chaetomella artemisiae Cooke SPECIES
-=======
+# Chaetomella artemisiae Cooke SPECIES
 
 #### Status
 ACCEPTED

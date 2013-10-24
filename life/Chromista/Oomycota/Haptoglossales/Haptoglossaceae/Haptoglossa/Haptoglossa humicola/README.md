@@ -1,5 +1,4 @@
-Haptoglossa humicola G.L. Barron, 1981 SPECIES
-=======
+# Haptoglossa humicola G.L. Barron, 1981 SPECIES
 
 #### Status
 ACCEPTED

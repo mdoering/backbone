@@ -1,5 +1,4 @@
-Peziza longipila Peck SPECIES
-=======
+# Peziza longipila Peck SPECIES
 
 #### Status
 ACCEPTED

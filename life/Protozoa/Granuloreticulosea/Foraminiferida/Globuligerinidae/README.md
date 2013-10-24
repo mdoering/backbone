@@ -1,5 +1,4 @@
-Globuligerinidae Loeblich & Tappan, 1984 FAMILY
-=======
+# Globuligerinidae Loeblich & Tappan, 1984 FAMILY
 
 #### Status
 ACCEPTED

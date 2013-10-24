@@ -1,5 +1,4 @@
-Sphaceloma ribis Jenkins & Bitanc. SPECIES
-=======
+# Sphaceloma ribis Jenkins & Bitanc. SPECIES
 
 #### Status
 ACCEPTED

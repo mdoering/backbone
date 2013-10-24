@@ -1,5 +1,4 @@
-Mycosphaerella symphyostemonis (Speg.) Cash SPECIES
-=======
+# Mycosphaerella symphyostemonis (Speg.) Cash SPECIES
 
 #### Status
 ACCEPTED

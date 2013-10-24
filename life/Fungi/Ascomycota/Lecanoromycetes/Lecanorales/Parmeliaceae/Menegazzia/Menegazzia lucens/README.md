@@ -1,5 +1,4 @@
-Menegazzia lucens P. James & D.J. Galloway SPECIES
-=======
+# Menegazzia lucens P. James & D.J. Galloway SPECIES
 
 #### Status
 ACCEPTED

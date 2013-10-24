@@ -1,5 +1,4 @@
-Phomopsella GENUS
-=======
+# Phomopsella GENUS
 
 #### Status
 ACCEPTED

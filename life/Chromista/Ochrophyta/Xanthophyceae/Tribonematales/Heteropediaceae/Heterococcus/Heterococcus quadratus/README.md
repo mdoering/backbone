@@ -1,5 +1,4 @@
-Heterococcus quadratus Pitschmann SPECIES
-=======
+# Heterococcus quadratus Pitschmann SPECIES
 
 #### Status
 ACCEPTED

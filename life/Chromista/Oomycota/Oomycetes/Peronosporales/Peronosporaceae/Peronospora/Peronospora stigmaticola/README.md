@@ -1,5 +1,4 @@
-Peronospora stigmaticola Raunk. SPECIES
-=======
+# Peronospora stigmaticola Raunk. SPECIES
 
 #### Status
 ACCEPTED

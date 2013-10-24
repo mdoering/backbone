@@ -1,5 +1,4 @@
-Dematium laevisporum Speg. SPECIES
-=======
+# Dematium laevisporum Speg. SPECIES
 
 #### Status
 ACCEPTED

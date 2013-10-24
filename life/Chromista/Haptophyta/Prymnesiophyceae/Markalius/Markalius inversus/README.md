@@ -1,8 +1,7 @@
-Markalius astroporus (Stradner, 1963) Mohler & Hay in Hay et al., 1967 SPECIES
-=======
+# Markalius inversus (Deflandre in Deflandre & Fert, 1954) Bramlette & Martini, 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

@@ -1,5 +1,4 @@
-Reticularia affinis Berk. & M.A. Curtis SPECIES
-=======
+# Reticularia affinis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

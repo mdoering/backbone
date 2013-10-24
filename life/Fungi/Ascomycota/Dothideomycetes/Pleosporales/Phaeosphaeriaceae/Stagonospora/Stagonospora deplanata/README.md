@@ -1,5 +1,4 @@
-Stagonospora deplanata Briard & Sacc. SPECIES
-=======
+# Stagonospora deplanata Briard & Sacc. SPECIES
 
 #### Status
 ACCEPTED

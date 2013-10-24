@@ -1,5 +1,4 @@
-Leptosphaeria stromatoidea Hazsl. SPECIES
-=======
+# Leptosphaeria stromatoidea Hazsl. SPECIES
 
 #### Status
 ACCEPTED

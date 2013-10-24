@@ -1,5 +1,4 @@
-Ixocomus granulatus SPECIES
-=======
+# Ixocomus granulatus SPECIES
 
 #### Status
 ACCEPTED

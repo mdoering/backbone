@@ -1,5 +1,4 @@
-Puccinia longirostroides Jørst. SPECIES
-=======
+# Puccinia longirostroides Jørst. SPECIES
 
 #### Status
 ACCEPTED

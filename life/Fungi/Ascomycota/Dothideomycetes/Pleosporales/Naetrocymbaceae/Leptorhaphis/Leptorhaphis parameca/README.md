@@ -1,17 +1,16 @@
-Leptorhaphis parameca f. parameca (A. Massal.) Körb. FORM
-=======
+# Leptorhaphis parameca (A. Massal.) Körb. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Parerga Lichen. 386 (1865)
 
 #### Original name
-Leptorhaphis parameca f. parameca (A. Massal.) Körb.
+Sagedia parameca A. Massal.
 
 ### Remarks
 null

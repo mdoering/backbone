@@ -1,5 +1,4 @@
-Thelenella indica Pinokiyo, Kr.P. Singh & Lücking SPECIES
-=======
+# Thelenella indica Pinokiyo, Kr.P. Singh & Lücking SPECIES
 
 #### Status
 ACCEPTED

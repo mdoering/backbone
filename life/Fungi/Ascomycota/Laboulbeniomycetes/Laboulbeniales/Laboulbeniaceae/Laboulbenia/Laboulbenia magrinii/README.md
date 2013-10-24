@@ -1,5 +1,4 @@
-Laboulbenia magrinii W. Rossi & Santam. SPECIES
-=======
+# Laboulbenia magrinii W. Rossi & Santam. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma heterocutis Corner & E. Horak SPECIES
-=======
+# Entoloma heterocutis Corner & E. Horak SPECIES
 
 #### Status
 ACCEPTED

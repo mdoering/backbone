@@ -1,5 +1,4 @@
-Rhizocarpon atrovirens (L.) Chevall. SPECIES
-=======
+# Rhizocarpon atrovirens (L.) Chevall. SPECIES
 
 #### Status
 ACCEPTED

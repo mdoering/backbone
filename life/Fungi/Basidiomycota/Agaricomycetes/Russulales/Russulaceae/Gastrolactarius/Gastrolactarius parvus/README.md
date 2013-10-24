@@ -1,5 +1,4 @@
-Gastrolactarius parvus (Thiers) J.M. Vidal SPECIES
-=======
+# Gastrolactarius parvus (Thiers) J.M. Vidal SPECIES
 
 #### Status
 ACCEPTED

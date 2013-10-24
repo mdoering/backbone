@@ -1,5 +1,4 @@
-Aecidium thelymitrae Racib. SPECIES
-=======
+# Aecidium thelymitrae Racib. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hendersonia stephaniae Sawada SPECIES
-=======
+# Hendersonia stephaniae Sawada SPECIES
 
 #### Status
 ACCEPTED

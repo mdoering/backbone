@@ -1,5 +1,4 @@
-Bullaria circinata (Schwein.) Arthur & Mains SPECIES
-=======
+# Bullaria circinata (Schwein.) Arthur & Mains SPECIES
 
 #### Status
 ACCEPTED

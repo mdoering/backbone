@@ -1,5 +1,4 @@
-Verpa rugipes Fr. SPECIES
-=======
+# Verpa rugipes Fr. SPECIES
 
 #### Status
 ACCEPTED

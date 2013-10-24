@@ -1,5 +1,4 @@
-Plectopsora condensata Arnold SPECIES
-=======
+# Plectopsora condensata Arnold SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clavaria coliformis Boud. SPECIES
-=======
+# Clavaria coliformis Boud. SPECIES
 
 #### Status
 ACCEPTED

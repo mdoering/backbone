@@ -1,5 +1,4 @@
-Goodaya rostellatum Sergeeva & Anikeeva, 2008 SPECIES
-=======
+# Goodaya rostellatum Sergeeva & Anikeeva, 2008 SPECIES
 
 #### Status
 DOUBTFUL

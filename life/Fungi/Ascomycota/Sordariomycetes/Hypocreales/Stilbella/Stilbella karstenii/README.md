@@ -1,5 +1,4 @@
-Stilbella karstenii (Sacc.) J.A. Stev. SPECIES
-=======
+# Stilbella karstenii (Sacc.) J.A. Stev. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora monoicae (Ellis & Holw.) Deighton SPECIES
-=======
+# Pseudocercospora monoicae (Ellis & Holw.) Deighton SPECIES
 
 #### Status
 ACCEPTED

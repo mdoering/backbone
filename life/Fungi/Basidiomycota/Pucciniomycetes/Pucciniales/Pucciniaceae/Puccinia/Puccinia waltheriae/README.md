@@ -1,5 +1,4 @@
-Puccinia waltheriae F. Kern & Thurst. SPECIES
-=======
+# Puccinia waltheriae F. Kern & Thurst. SPECIES
 
 #### Status
 ACCEPTED

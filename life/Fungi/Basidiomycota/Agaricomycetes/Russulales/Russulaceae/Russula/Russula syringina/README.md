@@ -1,5 +1,4 @@
-Russula syringina (Zvára) Reumaux SPECIES
-=======
+# Russula syringina (Zvára) Reumaux SPECIES
 
 #### Status
 ACCEPTED

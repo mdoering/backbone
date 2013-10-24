@@ -1,5 +1,4 @@
-Puccinia humahuacensis J.C. Lindq. SPECIES
-=======
+# Puccinia humahuacensis J.C. Lindq. SPECIES
 
 #### Status
 ACCEPTED

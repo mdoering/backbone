@@ -1,5 +1,4 @@
-Chalara agathidis Nag Raj & W.B. Kendr., 1975 SPECIES
-=======
+# Chalara agathidis Nag Raj & W.B. Kendr., 1975 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus tomentoides Hlavácek SPECIES
-=======
+# Boletus tomentoides Hlavácek SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptogium pilcomayense Malme SPECIES
-=======
+# Leptogium pilcomayense Malme SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Enchelydium alpinum Foissner, 1980 SPECIES
-=======
+# Enchelydium alpinum Foissner, 1980 SPECIES
 
 #### Status
 ACCEPTED

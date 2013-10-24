@@ -1,5 +1,4 @@
-Scabropezia echinophora (Donadini) Donadini SPECIES
-=======
+# Scabropezia echinophora (Donadini) Donadini SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Guignardia nilagiriaca T.S. Ramakr. & K. Ramakr. SPECIES
-=======
+# Guignardia nilagiriaca T.S. Ramakr. & K. Ramakr. SPECIES
 
 #### Status
 ACCEPTED

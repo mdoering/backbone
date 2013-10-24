@@ -1,5 +1,4 @@
-Melanconium americanum Peck SPECIES
-=======
+# Melanconium americanum Peck SPECIES
 
 #### Status
 ACCEPTED

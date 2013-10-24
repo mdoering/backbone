@@ -1,5 +1,4 @@
-Sclerotinia corni Vacek SPECIES
-=======
+# Sclerotinia corni Vacek SPECIES
 
 #### Status
 ACCEPTED

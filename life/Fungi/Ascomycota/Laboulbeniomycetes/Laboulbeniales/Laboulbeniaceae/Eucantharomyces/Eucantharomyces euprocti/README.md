@@ -1,5 +1,4 @@
-Eucantharomyces euprocti Thaxt. SPECIES
-=======
+# Eucantharomyces euprocti Thaxt. SPECIES
 
 #### Status
 ACCEPTED

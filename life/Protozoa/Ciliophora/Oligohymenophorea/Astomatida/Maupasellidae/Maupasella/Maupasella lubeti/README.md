@@ -1,5 +1,4 @@
-Maupasella lubeti Puytorac, 1952 SPECIES
-=======
+# Maupasella lubeti Puytorac, 1952 SPECIES
 
 #### Status
 ACCEPTED

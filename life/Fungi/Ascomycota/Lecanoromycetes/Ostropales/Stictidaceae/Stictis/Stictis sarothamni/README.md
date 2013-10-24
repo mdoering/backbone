@@ -1,5 +1,4 @@
-Stictis sarothamni Fuckel SPECIES
-=======
+# Stictis sarothamni Fuckel SPECIES
 
 #### Status
 ACCEPTED

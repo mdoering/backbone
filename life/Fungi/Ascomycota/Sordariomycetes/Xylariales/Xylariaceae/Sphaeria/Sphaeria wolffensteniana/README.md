@@ -1,5 +1,4 @@
-Sphaeria wolffensteniana J.G. Kühn SPECIES
-=======
+# Sphaeria wolffensteniana J.G. Kühn SPECIES
 
 #### Status
 ACCEPTED

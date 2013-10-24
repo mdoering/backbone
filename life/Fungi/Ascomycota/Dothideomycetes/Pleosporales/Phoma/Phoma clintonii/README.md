@@ -1,5 +1,4 @@
-Phoma clintonii Peck SPECIES
-=======
+# Phoma clintonii Peck SPECIES
 
 #### Status
 ACCEPTED

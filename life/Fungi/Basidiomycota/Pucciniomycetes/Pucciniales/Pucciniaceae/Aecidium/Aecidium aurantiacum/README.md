@@ -1,5 +1,4 @@
-Aecidium aurantiacum Bonord. SPECIES
-=======
+# Aecidium aurantiacum Bonord. SPECIES
 
 #### Status
 ACCEPTED

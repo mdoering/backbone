@@ -1,14 +1,13 @@
-Lachnea pseudoampezzana Svrcek, 1948 SPECIES
-=======
+# Hiemsia pseudoampezzana (Svrcek) Svrcek, 1969 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ceská Mykol. 23: 83 (1969)
 
 #### Original name
 Lachnea pseudoampezzana Svrcek, 1948

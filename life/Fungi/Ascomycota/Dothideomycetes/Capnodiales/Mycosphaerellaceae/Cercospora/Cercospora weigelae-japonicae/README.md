@@ -1,17 +1,16 @@
-Cercospora weigelae-jeponicae Y.L. Guo & Y. Jiang SPECIES
-=======
+# Cercospora weigelae-japonicae Y.L. Guo & Y. Jiang SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycosystema 19(3): 303 (2000)
 
 #### Original name
-Cercospora weigelae-jeponicae Y.L. Guo & Y. Jiang
+Cercospora weigelae-japonicae Y.L. Guo & Y. Jiang
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Polystictus flavus (Jungh.) Fr. SPECIES
-=======
+# Polystictus flavus (Jungh.) Fr. SPECIES
 
 #### Status
 ACCEPTED

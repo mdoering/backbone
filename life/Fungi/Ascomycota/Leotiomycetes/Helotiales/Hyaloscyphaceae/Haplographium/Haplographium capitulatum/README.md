@@ -1,5 +1,4 @@
-Haplographium capitulatum (Riess) Sacc. SPECIES
-=======
+# Haplographium capitulatum (Riess) Sacc. SPECIES
 
 #### Status
 ACCEPTED

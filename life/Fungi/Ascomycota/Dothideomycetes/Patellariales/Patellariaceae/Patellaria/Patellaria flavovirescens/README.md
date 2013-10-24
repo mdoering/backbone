@@ -1,5 +1,4 @@
-Patellaria flavovirescens (Wulfen) Hoffm. SPECIES
-=======
+# Patellaria flavovirescens (Wulfen) Hoffm. SPECIES
 
 #### Status
 ACCEPTED

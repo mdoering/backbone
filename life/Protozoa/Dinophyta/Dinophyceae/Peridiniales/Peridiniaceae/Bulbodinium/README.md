@@ -1,5 +1,4 @@
-Bulbodinium O. Wetzel, 1960 GENUS
-=======
+# Bulbodinium O. Wetzel, 1960 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora solandrae R. Kirschner & U. Braun SPECIES
-=======
+# Pseudocercospora solandrae R. Kirschner & U. Braun SPECIES
 
 #### Status
 ACCEPTED

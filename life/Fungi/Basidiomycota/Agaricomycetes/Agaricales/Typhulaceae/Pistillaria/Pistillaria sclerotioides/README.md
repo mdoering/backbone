@@ -1,5 +1,4 @@
-Pistillaria sclerotioides (DC.) Fr. SPECIES
-=======
+# Pistillaria sclerotioides (DC.) Fr. SPECIES
 
 #### Status
 ACCEPTED

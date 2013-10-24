@@ -1,5 +1,4 @@
-Nocardioides ganghwensis Yi & Chun, 2004 SPECIES
-=======
+# Nocardioides ganghwensis Yi & Chun, 2004 SPECIES
 
 #### Status
 ACCEPTED

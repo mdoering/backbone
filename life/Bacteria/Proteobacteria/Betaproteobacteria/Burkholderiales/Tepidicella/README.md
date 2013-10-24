@@ -1,5 +1,4 @@
-Tepidicella França et al., 2006 GENUS
-=======
+# Tepidicella França et al., 2006 GENUS
 
 #### Status
 ACCEPTED

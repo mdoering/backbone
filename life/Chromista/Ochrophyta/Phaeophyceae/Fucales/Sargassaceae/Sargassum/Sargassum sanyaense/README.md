@@ -1,5 +1,4 @@
-Sargassum sanyaense Tseng & Lu SPECIES
-=======
+# Sargassum sanyaense Tseng & Lu SPECIES
 
 #### Status
 ACCEPTED

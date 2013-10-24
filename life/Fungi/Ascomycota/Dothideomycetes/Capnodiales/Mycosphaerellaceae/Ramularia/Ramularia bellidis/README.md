@@ -1,5 +1,4 @@
-Ramularia bellidis Sacc. SPECIES
-=======
+# Ramularia bellidis Sacc. SPECIES
 
 #### Status
 ACCEPTED

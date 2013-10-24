@@ -1,5 +1,4 @@
-Neobarclaya primaria (Ellis & Everh.) Kuntze SPECIES
-=======
+# Neobarclaya primaria (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria subfarinosa (Anzi) Arnold SPECIES
-=======
+# Pertusaria subfarinosa (Anzi) Arnold SPECIES
 
 #### Status
 ACCEPTED

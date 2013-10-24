@@ -1,5 +1,4 @@
-Triposolenia fatula Kofoid, 1907 SPECIES
-=======
+# Triposolenia fatula Kofoid, 1907 SPECIES
 
 #### Status
 ACCEPTED

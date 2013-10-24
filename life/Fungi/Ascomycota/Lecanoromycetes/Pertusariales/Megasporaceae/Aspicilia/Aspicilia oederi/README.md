@@ -1,5 +1,4 @@
-Aspicilia oederi (Ach.) A. Massal. SPECIES
-=======
+# Aspicilia oederi (Ach.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

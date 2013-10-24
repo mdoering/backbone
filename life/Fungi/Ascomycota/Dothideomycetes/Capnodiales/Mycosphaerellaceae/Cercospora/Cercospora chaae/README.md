@@ -1,5 +1,4 @@
-Cercospora chaae Hara ex Yamam. {?} & Maeda SPECIES
-=======
+# Cercospora chaae Hara ex Yamam. {?} & Maeda SPECIES
 
 #### Status
 ACCEPTED

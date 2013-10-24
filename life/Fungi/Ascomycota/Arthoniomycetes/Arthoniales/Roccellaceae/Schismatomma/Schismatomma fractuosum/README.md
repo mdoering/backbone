@@ -1,5 +1,4 @@
-Schismatomma fractuosum (Leight.) Zahlbr. SPECIES
-=======
+# Schismatomma fractuosum (Leight.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

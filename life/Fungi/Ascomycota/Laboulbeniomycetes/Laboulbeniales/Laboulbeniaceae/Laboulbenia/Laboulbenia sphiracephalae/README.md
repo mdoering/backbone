@@ -1,5 +1,4 @@
-Laboulbenia sphiracephalae W. Rossi SPECIES
-=======
+# Laboulbenia sphiracephalae W. Rossi SPECIES
 
 #### Status
 ACCEPTED

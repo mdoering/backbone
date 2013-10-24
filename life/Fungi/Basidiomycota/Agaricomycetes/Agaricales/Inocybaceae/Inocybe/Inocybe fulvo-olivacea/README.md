@@ -1,5 +1,4 @@
-Inocybe fulvo-olivacea Cleland SPECIES
-=======
+# Inocybe fulvo-olivacea Cleland SPECIES
 
 #### Status
 ACCEPTED

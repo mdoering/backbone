@@ -1,5 +1,4 @@
-Sagedia ahlesiana Hepp SPECIES
-=======
+# Sagedia ahlesiana Hepp SPECIES
 
 #### Status
 ACCEPTED

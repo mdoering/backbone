@@ -1,17 +1,16 @@
-Zwackhiomyces sphinctrinaeformis Grube & Hafellner SPECIES
-=======
+# Zwackhiomyces sphinctriniformis Grube & Hafellner SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nova Hedwigia 51(3-4): 325 (1990)
 
 #### Original name
-Zwackhiomyces sphinctrinaeformis Grube & Hafellner
+Zwackhiomyces sphinctriniformis Grube & Hafellner
 
 ### Remarks
 null

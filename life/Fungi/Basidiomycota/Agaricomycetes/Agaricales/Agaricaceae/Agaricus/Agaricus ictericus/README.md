@@ -1,5 +1,4 @@
-Agaricus ictericus J. Otto SPECIES
-=======
+# Agaricus ictericus J. Otto SPECIES
 
 #### Status
 ACCEPTED

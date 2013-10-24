@@ -1,8 +1,7 @@
-Balladinella fusiformis (Kahl, 1932) Stiller, 1974 SPECIES
-=======
+# Cyrtohymena fusiformis (Kahl, 1932) Petz & Foissner, 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

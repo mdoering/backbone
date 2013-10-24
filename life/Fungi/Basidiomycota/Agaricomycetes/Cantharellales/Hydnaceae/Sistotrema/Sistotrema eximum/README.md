@@ -1,14 +1,13 @@
-Galziniella exima (H.S. Jacks.) Parmasto, 1968 SPECIES
-=======
+# Sistotrema eximum (H.S. Jacks.) Ryvarden & Solheim, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Consp. System. Corticiac. (Tartu) 39 (1968)
+Mycotaxon 6(2): 380 (1977)
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Leptogium crenatellum (Nyl.) Tuck. SPECIES
-=======
+# Leptogium crenatellum (Nyl.) Tuck. SPECIES
 
 #### Status
 ACCEPTED

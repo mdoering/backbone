@@ -1,5 +1,4 @@
-Angularia glabra Jiabo, 1978 SPECIES
-=======
+# Angularia glabra Jiabo, 1978 SPECIES
 
 #### Status
 ACCEPTED

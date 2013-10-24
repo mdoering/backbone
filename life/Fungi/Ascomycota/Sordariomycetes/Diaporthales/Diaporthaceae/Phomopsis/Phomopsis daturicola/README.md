@@ -1,5 +1,4 @@
-Phomopsis daturicola S. Ahmad SPECIES
-=======
+# Phomopsis daturicola S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

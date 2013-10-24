@@ -1,5 +1,4 @@
-Heteropatella hendersonioides Fautrey & Lambotte SPECIES
-=======
+# Heteropatella hendersonioides Fautrey & Lambotte SPECIES
 
 #### Status
 ACCEPTED

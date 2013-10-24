@@ -1,5 +1,4 @@
-Septoria curva P. Karst. SPECIES
-=======
+# Septoria curva P. Karst. SPECIES
 
 #### Status
 ACCEPTED

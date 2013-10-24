@@ -1,5 +1,4 @@
-Schineria GENUS
-=======
+# Schineria GENUS
 
 #### Status
 ACCEPTED

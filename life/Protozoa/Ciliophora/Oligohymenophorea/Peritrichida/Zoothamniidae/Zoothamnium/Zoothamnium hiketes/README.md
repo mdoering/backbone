@@ -1,5 +1,4 @@
-Zoothamnium hiketes Precht, 1935 SPECIES
-=======
+# Zoothamnium hiketes Precht, 1935 SPECIES
 
 #### Status
 ACCEPTED

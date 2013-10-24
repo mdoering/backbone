@@ -1,5 +1,4 @@
-Pucciniastrum styracinum Hirats. SPECIES
-=======
+# Pucciniastrum styracinum Hirats. SPECIES
 
 #### Status
 ACCEPTED

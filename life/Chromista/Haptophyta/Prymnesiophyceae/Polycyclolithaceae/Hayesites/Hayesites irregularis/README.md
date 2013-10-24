@@ -1,5 +1,4 @@
-Hayesites irregularis SPECIES
-=======
+# Hayesites irregularis SPECIES
 
 #### Status
 ACCEPTED

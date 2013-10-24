@@ -1,5 +1,4 @@
-Baltisphaeridium affluens N. Umnova, 1975 SPECIES
-=======
+# Baltisphaeridium affluens N. Umnova, 1975 SPECIES
 
 #### Status
 ACCEPTED

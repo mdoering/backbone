@@ -1,5 +1,4 @@
-Coniosporium aeroalgicola Turian SPECIES
-=======
+# Coniosporium aeroalgicola Turian SPECIES
 
 #### Status
 ACCEPTED

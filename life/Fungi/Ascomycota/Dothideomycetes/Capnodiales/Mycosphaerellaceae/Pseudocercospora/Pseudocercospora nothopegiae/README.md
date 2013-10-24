@@ -1,5 +1,4 @@
-Pseudocercospora nothopegiae (T.S. Ramakr., Sriniv. & Sundaram) Deighton SPECIES
-=======
+# Pseudocercospora nothopegiae (T.S. Ramakr., Sriniv. & Sundaram) Deighton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphium geranii Voglino SPECIES
-=======
+# Graphium geranii Voglino SPECIES
 
 #### Status
 ACCEPTED

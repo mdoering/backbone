@@ -1,5 +1,4 @@
-Biatora parvifolia (Pers.) SPECIES
-=======
+# Biatora parvifolia (Pers.) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lavierella Buisson, 1923 GENUS
-=======
+# Lavierella Buisson, 1923 GENUS
 
 #### Status
 ACCEPTED

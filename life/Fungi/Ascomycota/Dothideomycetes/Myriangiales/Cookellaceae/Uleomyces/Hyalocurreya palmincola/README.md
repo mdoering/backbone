@@ -1,5 +1,4 @@
-Hyalocurreya palmincola (Rehm) Theiss. & Syd. SPECIES
-=======
+# Hyalocurreya palmincola (Rehm) Theiss. & Syd. SPECIES
 
 #### Status
 ACCEPTED

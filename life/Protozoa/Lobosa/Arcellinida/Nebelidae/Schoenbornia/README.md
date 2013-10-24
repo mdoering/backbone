@@ -1,5 +1,4 @@
-Schoenbornia Decloitre, 1964 GENUS
-=======
+# Schoenbornia Decloitre, 1964 GENUS
 
 #### Status
 ACCEPTED

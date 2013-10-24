@@ -1,5 +1,4 @@
-Evittia remota SPECIES
-=======
+# Evittia remota SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kakoeca Buck & Marchant in Buck, Marchant, Thomsen & Garrison, 1990 GENUS
-=======
+# Kakoeca Buck & Marchant in Buck, Marchant, Thomsen & Garrison, 1990 GENUS
 
 #### Status
 ACCEPTED

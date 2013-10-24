@@ -1,5 +1,4 @@
-Peltigera andensis Vitik. SPECIES
-=======
+# Peltigera andensis Vitik. SPECIES
 
 #### Status
 ACCEPTED

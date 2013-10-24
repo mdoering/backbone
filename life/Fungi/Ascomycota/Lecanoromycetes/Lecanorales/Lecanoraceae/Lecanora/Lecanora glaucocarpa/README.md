@@ -1,5 +1,4 @@
-Lecanora glaucocarpa var. glaucocarpa VARIETY
-=======
+# Lecanora glaucocarpa SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Lich. univ. (1810)
+null
 
 #### Original name
-Lecanora glaucocarpa var. glaucocarpa
+null
 
 ### Remarks
 null

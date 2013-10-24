@@ -1,5 +1,4 @@
-Hygrophorus luteistipes Dennis SPECIES
-=======
+# Hygrophorus luteistipes Dennis SPECIES
 
 #### Status
 ACCEPTED

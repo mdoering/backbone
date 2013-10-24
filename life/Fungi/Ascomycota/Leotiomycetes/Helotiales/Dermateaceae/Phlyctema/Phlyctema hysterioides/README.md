@@ -1,5 +1,4 @@
-Phlyctema hysterioides (Preuss) Sacc. SPECIES
-=======
+# Phlyctema hysterioides (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

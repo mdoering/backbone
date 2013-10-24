@@ -1,5 +1,4 @@
-Naemospora rubi Lebedeva SPECIES
-=======
+# Naemospora rubi Lebedeva SPECIES
 
 #### Status
 ACCEPTED

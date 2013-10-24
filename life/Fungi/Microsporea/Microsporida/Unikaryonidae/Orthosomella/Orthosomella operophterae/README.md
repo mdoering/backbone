@@ -1,5 +1,4 @@
-Orthosomella operophterae (E.U. Canning) E.U. Canning, Wigley & R.J. Barker SPECIES
-=======
+# Orthosomella operophterae (E.U. Canning) E.U. Canning, Wigley & R.J. Barker SPECIES
 
 #### Status
 ACCEPTED

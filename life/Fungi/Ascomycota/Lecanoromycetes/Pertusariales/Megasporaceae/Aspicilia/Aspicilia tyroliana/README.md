@@ -1,5 +1,4 @@
-Aspicilia tyroliana Hue SPECIES
-=======
+# Aspicilia tyroliana Hue SPECIES
 
 #### Status
 ACCEPTED

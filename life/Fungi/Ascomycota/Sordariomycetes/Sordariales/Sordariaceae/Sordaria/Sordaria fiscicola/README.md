@@ -1,8 +1,7 @@
-Sordaria fiscicolum (Petr.) S. Hughes SPECIES
-=======
+# Sordaria fiscicola (Petr.) S. Hughes SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

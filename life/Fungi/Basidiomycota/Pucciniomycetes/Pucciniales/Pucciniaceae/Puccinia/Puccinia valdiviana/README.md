@@ -1,5 +1,4 @@
-Puccinia valdiviana (Dietel & Neger) Oehrens SPECIES
-=======
+# Puccinia valdiviana (Dietel & Neger) Oehrens SPECIES
 
 #### Status
 ACCEPTED

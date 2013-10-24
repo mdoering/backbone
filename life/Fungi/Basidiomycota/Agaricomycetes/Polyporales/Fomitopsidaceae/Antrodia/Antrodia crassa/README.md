@@ -1,17 +1,16 @@
-Amyloporia crassa f. crassa FORM
-=======
+# Antrodia crassa (P. Karst.) Ryvarden, 1973 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-The Bracket Fungi of the European Part of the U. S. S. R. and the Caucasus 149 (1953)
+Norw. Jl Bot. 20: 8 (1973)
 
 #### Original name
-Amyloporia crassa f. crassa
+Physisporus crassus P. Karst., 1889
 
 ### Remarks
 null

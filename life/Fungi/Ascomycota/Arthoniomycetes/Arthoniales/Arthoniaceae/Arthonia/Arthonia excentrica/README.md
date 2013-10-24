@@ -1,5 +1,4 @@
-Arthonia excentrica Th. Fr. SPECIES
-=======
+# Arthonia excentrica Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

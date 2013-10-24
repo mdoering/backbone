@@ -1,14 +1,13 @@
-Ceratophorum ulmicola Ellis & Kellerm., 1887 SPECIES
-=======
+# Dictyodesmium ulmicola (Ellis & Kellerm.) S. Hughes, 1951 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Mycol. 3(11): 127 (1887)
+Mycol. Pap. 36: 29 (1951)
 
 #### Original name
 Ceratophorum ulmicola Ellis & Kellerm., 1887

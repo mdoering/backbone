@@ -1,5 +1,4 @@
-Graphis brevior Nyl. SPECIES
-=======
+# Graphis brevior Nyl. SPECIES
 
 #### Status
 ACCEPTED

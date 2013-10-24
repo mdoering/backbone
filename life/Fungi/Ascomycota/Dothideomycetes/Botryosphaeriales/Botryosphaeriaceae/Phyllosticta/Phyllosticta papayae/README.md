@@ -1,5 +1,4 @@
-Phyllosticta papayae Sacc. SPECIES
-=======
+# Phyllosticta papayae Sacc. SPECIES
 
 #### Status
 ACCEPTED

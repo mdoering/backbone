@@ -1,5 +1,4 @@
-Pleosporonites dictyosus Sal.-Cheb. & Locq. SPECIES
-=======
+# Pleosporonites dictyosus Sal.-Cheb. & Locq. SPECIES
 
 #### Status
 ACCEPTED

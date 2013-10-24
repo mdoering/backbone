@@ -1,14 +1,13 @@
-Stilbella polyporicola Henn., 1905 SPECIES
-=======
+# Gliocladium polyporicola (Henn.) Seifert & W. Gams, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Seifert, Stud. Mycol. 27: 156 (1985)
 
 #### Original name
 Stilbella polyporicola Henn., 1905

@@ -1,5 +1,4 @@
-Sphenolithus editus Perch-Nielsen in Perch-Nielsen et al., 1978 SPECIES
-=======
+# Sphenolithus editus Perch-Nielsen in Perch-Nielsen et al., 1978 SPECIES
 
 #### Status
 ACCEPTED

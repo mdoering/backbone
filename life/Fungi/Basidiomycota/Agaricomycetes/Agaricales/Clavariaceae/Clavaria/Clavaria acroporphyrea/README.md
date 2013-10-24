@@ -1,5 +1,4 @@
-Clavaria acroporphyrea Schaeff. SPECIES
-=======
+# Clavaria acroporphyrea Schaeff. SPECIES
 
 #### Status
 ACCEPTED

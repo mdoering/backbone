@@ -1,5 +1,4 @@
-Haplotrichum tenuissimum Trail SPECIES
-=======
+# Haplotrichum tenuissimum Trail SPECIES
 
 #### Status
 ACCEPTED

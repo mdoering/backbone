@@ -1,5 +1,4 @@
-Lepiota aureoviolacea Henn. SPECIES
-=======
+# Lepiota aureoviolacea Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dimeromyces africanus Thaxt., 1896 SPECIES
-=======
+# Dimeromyces africanus Thaxt., 1896 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scenidium chartaceum (Pat.) Kuntze SPECIES
-=======
+# Scenidium chartaceum (Pat.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

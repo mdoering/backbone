@@ -1,5 +1,4 @@
-Septoria thelymitrae McAlpine SPECIES
-=======
+# Septoria thelymitrae McAlpine SPECIES
 
 #### Status
 ACCEPTED

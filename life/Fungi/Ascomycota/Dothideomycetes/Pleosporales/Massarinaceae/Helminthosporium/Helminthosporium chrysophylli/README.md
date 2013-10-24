@@ -1,5 +1,4 @@
-Helminthosporium chrysophylli Henn. SPECIES
-=======
+# Helminthosporium chrysophylli Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Actinopelte americana Höhn. SPECIES
-=======
+# Actinopelte americana Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Leptothyrella graminis Wehm., 1952 SPECIES
-=======
+# Stellothyriella graminis (Wehm.) Bat. & Cif., 1959 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 6(5-6): 436 (1952)
+Mycopath. Mycol. appl. 11: 62 (1959)
 
 #### Original name
 Leptothyrella graminis Wehm., 1952

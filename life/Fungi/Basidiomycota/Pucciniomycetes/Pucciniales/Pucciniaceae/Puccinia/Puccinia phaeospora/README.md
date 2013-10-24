@@ -1,5 +1,4 @@
-Puccinia phaeospora Kakish. & Y. Ono SPECIES
-=======
+# Puccinia phaeospora Kakish. & Y. Ono SPECIES
 
 #### Status
 ACCEPTED

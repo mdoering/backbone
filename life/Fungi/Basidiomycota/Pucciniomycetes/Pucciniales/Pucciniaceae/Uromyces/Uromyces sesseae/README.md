@@ -1,5 +1,4 @@
-Uromyces sesseae Lagerh. SPECIES
-=======
+# Uromyces sesseae Lagerh. SPECIES
 
 #### Status
 ACCEPTED

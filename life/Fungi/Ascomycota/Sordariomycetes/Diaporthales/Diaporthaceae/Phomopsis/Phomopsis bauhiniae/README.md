@@ -1,5 +1,4 @@
-Phomopsis bauhiniae Alcalde SPECIES
-=======
+# Phomopsis bauhiniae Alcalde SPECIES
 
 #### Status
 ACCEPTED

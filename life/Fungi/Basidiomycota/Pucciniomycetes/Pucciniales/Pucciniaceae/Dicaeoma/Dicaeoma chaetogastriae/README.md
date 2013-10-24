@@ -1,5 +1,4 @@
-Dicaeoma chaetogastriae (Lagerh.) Kuntze SPECIES
-=======
+# Dicaeoma chaetogastriae (Lagerh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

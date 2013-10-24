@@ -1,5 +1,4 @@
-Galerina nigripes A.H. Sm. & Singer SPECIES
-=======
+# Galerina nigripes A.H. Sm. & Singer SPECIES
 
 #### Status
 ACCEPTED

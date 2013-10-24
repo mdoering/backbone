@@ -1,5 +1,4 @@
-Dendrophoma vitigena Sacc. SPECIES
-=======
+# Dendrophoma vitigena Sacc. SPECIES
 
 #### Status
 ACCEPTED

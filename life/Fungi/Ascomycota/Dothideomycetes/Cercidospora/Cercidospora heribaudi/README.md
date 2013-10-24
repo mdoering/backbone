@@ -1,5 +1,4 @@
-Cercidospora heribaudi (Har. & Brun.) Kuntze SPECIES
-=======
+# Cercidospora heribaudi (Har. & Brun.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

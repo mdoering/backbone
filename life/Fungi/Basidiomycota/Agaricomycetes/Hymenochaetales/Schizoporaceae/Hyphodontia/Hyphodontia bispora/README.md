@@ -1,5 +1,4 @@
-Hyphodontia bispora Boidin & Gilles SPECIES
-=======
+# Hyphodontia bispora Boidin & Gilles SPECIES
 
 #### Status
 ACCEPTED

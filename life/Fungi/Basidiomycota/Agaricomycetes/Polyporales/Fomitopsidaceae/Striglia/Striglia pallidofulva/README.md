@@ -1,5 +1,4 @@
-Striglia pallidofulva (Berk.) Kuntze SPECIES
-=======
+# Striglia pallidofulva (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

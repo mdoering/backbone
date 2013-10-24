@@ -1,5 +1,4 @@
-Phylacia pseudohypoxylon Speer SPECIES
-=======
+# Phylacia pseudohypoxylon Speer SPECIES
 
 #### Status
 ACCEPTED

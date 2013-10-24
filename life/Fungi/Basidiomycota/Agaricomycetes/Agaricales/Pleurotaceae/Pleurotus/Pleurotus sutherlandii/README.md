@@ -1,5 +1,4 @@
-Pleurotus sutherlandii Singer SPECIES
-=======
+# Pleurotus sutherlandii Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Globomycetaceae Letcher FAMILY
-=======
+# Globomycetaceae Letcher FAMILY
 
 #### Status
 ACCEPTED

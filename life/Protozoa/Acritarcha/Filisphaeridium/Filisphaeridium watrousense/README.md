@@ -1,5 +1,4 @@
-Filisphaeridium watrousense (Pocock, 1972) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Filisphaeridium watrousense (Pocock, 1972) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endogone incrassata Thaxt. SPECIES
-=======
+# Endogone incrassata Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dasyscyphus agropyri (Velen.) Svrcek SPECIES
-=======
+# Dasyscyphus agropyri (Velen.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dicaeoma antioquiense (Mayor) Arthur SPECIES
-=======
+# Dicaeoma antioquiense (Mayor) Arthur SPECIES
 
 #### Status
 ACCEPTED

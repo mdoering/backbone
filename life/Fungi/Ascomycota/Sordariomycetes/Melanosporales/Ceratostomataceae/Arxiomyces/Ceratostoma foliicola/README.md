@@ -1,5 +1,4 @@
-Ceratostoma foliicola Fuckel SPECIES
-=======
+# Ceratostoma foliicola Fuckel SPECIES
 
 #### Status
 ACCEPTED

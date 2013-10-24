@@ -1,5 +1,4 @@
-Laboulbenia rhytisterni Speg. SPECIES
-=======
+# Laboulbenia rhytisterni Speg. SPECIES
 
 #### Status
 ACCEPTED

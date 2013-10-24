@@ -1,5 +1,4 @@
-Gonatobotrys leveillei Sacc. SPECIES
-=======
+# Gonatobotrys leveillei Sacc. SPECIES
 
 #### Status
 ACCEPTED

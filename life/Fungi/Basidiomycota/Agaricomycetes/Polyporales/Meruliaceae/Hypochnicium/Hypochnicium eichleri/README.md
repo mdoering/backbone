@@ -1,14 +1,13 @@
-Gloeocystidium albostramineum subsp. eichleri (Bres. ex Sacc.) Bres. SUBSPECIES
-=======
+# Hypochnicium eichleri (Bres. ex Sacc. & P. Syd.) J. Erikss. & Ryvarden, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hyménomyc. de France (Sceaux) 263 (1928)
+Cortic. N. Eur. (Oslo) 4: 707 (1976)
 
 #### Original name
 Peniophora eichleri Bres. ex Sacc. & P. Syd., 1902

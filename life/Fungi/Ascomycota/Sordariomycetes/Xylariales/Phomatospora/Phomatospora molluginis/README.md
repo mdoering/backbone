@@ -1,5 +1,4 @@
-Phomatospora molluginis (Mont.) Sacc. SPECIES
-=======
+# Phomatospora molluginis (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

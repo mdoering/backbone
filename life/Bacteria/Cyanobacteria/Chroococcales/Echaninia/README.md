@@ -1,5 +1,4 @@
-Echaninia A.G. Vologdin & N.A. Drozdova, 1969 GENUS
-=======
+# Echaninia A.G. Vologdin & N.A. Drozdova, 1969 GENUS
 
 #### Status
 ACCEPTED

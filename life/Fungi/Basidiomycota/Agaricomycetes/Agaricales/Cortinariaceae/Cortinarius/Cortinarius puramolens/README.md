@@ -1,5 +1,4 @@
-Cortinarius puramolens Rob. Henry SPECIES
-=======
+# Cortinarius puramolens Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

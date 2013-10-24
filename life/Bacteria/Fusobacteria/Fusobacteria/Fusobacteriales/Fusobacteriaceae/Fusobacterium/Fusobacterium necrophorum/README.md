@@ -1,5 +1,4 @@
-Fusobacterium necrophorum subsp. necrophorum (Flügge, 1886) Moore & Holdeman, 1969 SUBSPECIES
-=======
+# Fusobacterium necrophorum (Flügge, 1886) Moore & Holdeman, 1969 SPECIES
 
 #### Status
 ACCEPTED

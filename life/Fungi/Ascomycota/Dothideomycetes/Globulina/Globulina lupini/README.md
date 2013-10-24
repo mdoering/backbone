@@ -1,5 +1,4 @@
-Globulina lupini Velen. SPECIES
-=======
+# Globulina lupini Velen. SPECIES
 
 #### Status
 ACCEPTED

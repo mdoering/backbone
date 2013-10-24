@@ -1,5 +1,4 @@
-Velomycena phaltanensis Sathe & S.D. Deshp. SPECIES
-=======
+# Velomycena phaltanensis Sathe & S.D. Deshp. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paraphysomonas antarctica SPECIES
-=======
+# Paraphysomonas antarctica SPECIES
 
 #### Status
 ACCEPTED

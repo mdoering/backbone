@@ -1,5 +1,4 @@
-Kohninia linnaeicola Holst-Jensen, Vrålstad & T. Schumach., 2004 SPECIES
-=======
+# Kohninia linnaeicola Holst-Jensen, Vrålstad & T. Schumach., 2004 SPECIES
 
 #### Status
 ACCEPTED

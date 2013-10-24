@@ -1,14 +1,13 @@
-Callopisma byrsonimae Malme SPECIES
-=======
+# Caloplaca byrsonimae (Malme) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Cat. Lich. Univers. 7: 80 (1930)
 
 #### Original name
 Callopisma byrsonimae Malme

@@ -1,5 +1,4 @@
-Symphytocarpus cristatus Nann.-Bremek., 1967 SPECIES
-=======
+# Symphytocarpus cristatus Nann.-Bremek., 1967 SPECIES
 
 #### Status
 ACCEPTED

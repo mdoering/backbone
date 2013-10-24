@@ -1,5 +1,4 @@
-Macrophyllosticta ensetes Dias & Sousa da Câmara SPECIES
-=======
+# Macrophyllosticta ensetes Dias & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

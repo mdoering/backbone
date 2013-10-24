@@ -1,5 +1,4 @@
-Arthopyrenia rivulicola (Nyl.) Arnold SPECIES
-=======
+# Arthopyrenia rivulicola (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

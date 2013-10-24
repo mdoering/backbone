@@ -1,5 +1,4 @@
-Mycosphaerella rubiae (Brunaud) Tomilin SPECIES
-=======
+# Mycosphaerella rubiae (Brunaud) Tomilin SPECIES
 
 #### Status
 ACCEPTED

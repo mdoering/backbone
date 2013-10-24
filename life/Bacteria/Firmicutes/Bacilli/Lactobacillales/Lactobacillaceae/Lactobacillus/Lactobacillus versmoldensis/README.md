@@ -1,5 +1,4 @@
-Lactobacillus versmoldensis Kröckel et al., 2003 SPECIES
-=======
+# Lactobacillus versmoldensis Kröckel et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

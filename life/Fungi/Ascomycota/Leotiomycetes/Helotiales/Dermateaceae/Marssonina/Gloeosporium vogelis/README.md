@@ -1,5 +1,4 @@
-Gloeosporium vogelis Syd. & P. Syd. SPECIES
-=======
+# Gloeosporium vogelis Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

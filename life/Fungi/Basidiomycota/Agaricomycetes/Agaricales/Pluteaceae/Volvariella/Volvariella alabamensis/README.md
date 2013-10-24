@@ -1,5 +1,4 @@
-Volvariella alabamensis (Murrill) Shaffer SPECIES
-=======
+# Volvariella alabamensis (Murrill) Shaffer SPECIES
 
 #### Status
 ACCEPTED

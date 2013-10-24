@@ -1,5 +1,4 @@
-Fucus lichenoides S.G. Gmelin SPECIES
-=======
+# Fucus lichenoides S.G. Gmelin SPECIES
 
 #### Status
 ACCEPTED

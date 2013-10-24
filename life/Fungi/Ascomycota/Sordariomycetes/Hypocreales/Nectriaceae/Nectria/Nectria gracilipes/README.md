@@ -1,5 +1,4 @@
-Nectria gracilipes (Tul. & C. Tul.) Wollenw., 1926 SPECIES
-=======
+# Nectria gracilipes (Tul. & C. Tul.) Wollenw., 1926 SPECIES
 
 #### Status
 ACCEPTED

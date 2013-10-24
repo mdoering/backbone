@@ -1,5 +1,4 @@
-Dodecaspis Haeckel, 1887 GENUS
-=======
+# Dodecaspis Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

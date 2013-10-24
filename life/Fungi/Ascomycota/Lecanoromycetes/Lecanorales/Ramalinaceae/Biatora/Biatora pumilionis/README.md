@@ -1,5 +1,4 @@
-Biatora pumilionis (Rehm) Oxner SPECIES
-=======
+# Biatora pumilionis (Rehm) Oxner SPECIES
 
 #### Status
 ACCEPTED

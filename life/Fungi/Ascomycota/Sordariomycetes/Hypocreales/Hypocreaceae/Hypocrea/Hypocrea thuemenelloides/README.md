@@ -1,5 +1,4 @@
-Hypocrea thuemenelloides Yoshim. Doi SPECIES
-=======
+# Hypocrea thuemenelloides Yoshim. Doi SPECIES
 
 #### Status
 ACCEPTED

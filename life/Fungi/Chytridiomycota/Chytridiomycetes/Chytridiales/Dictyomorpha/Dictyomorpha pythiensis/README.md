@@ -1,14 +1,13 @@
-Dictyomorpha dioica var. pythiensis N. Sarkar & Dayal, 1988 VARIETY
-=======
+# Dictyomorpha pythiensis (N. Sarkar & Dayal) M.W. Dick, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. natn. Acad. Sci. India, Sect. B, Biol. Sci. 58(3): 404 (1988)
+Straminipilous Fungi (Dordrecht) 377 (2001)
 
 #### Original name
 Dictyomorpha dioica var. pythiensis N. Sarkar & Dayal, 1988

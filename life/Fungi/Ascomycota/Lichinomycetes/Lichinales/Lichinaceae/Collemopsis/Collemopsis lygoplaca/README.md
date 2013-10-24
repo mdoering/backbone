@@ -1,5 +1,4 @@
-Collemopsis lygoplaca (Forssell) Nyl. SPECIES
-=======
+# Collemopsis lygoplaca (Forssell) Nyl. SPECIES
 
 #### Status
 ACCEPTED

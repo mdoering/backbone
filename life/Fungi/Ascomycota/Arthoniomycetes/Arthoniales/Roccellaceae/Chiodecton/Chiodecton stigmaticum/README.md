@@ -1,5 +1,4 @@
-Chiodecton stigmaticum (Kremp.) Zahlbr. SPECIES
-=======
+# Chiodecton stigmaticum (Kremp.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

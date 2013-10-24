@@ -1,5 +1,4 @@
-Phyllachora trujillensis Chardón, 1934 SPECIES
-=======
+# Phyllachora trujillensis Chardón, 1934 SPECIES
 
 #### Status
 ACCEPTED

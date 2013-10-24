@@ -1,5 +1,4 @@
-Ustilago parodii Hirschh. SPECIES
-=======
+# Ustilago parodii Hirschh. SPECIES
 
 #### Status
 ACCEPTED

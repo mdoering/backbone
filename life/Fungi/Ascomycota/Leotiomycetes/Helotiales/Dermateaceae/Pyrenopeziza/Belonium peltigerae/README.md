@@ -1,5 +1,4 @@
-Belonium peltigerae Velen. SPECIES
-=======
+# Belonium peltigerae Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caeoma arracacharum Lindr. SPECIES
-=======
+# Caeoma arracacharum Lindr. SPECIES
 
 #### Status
 ACCEPTED

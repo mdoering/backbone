@@ -1,5 +1,4 @@
-Physcia areolata Vain. SPECIES
-=======
+# Physcia areolata Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placodium albomarginatum SPECIES
-=======
+# Placodium albomarginatum SPECIES
 
 #### Status
 ACCEPTED

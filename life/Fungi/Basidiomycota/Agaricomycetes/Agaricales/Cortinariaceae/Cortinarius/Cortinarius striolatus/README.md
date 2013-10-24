@@ -1,5 +1,4 @@
-Cortinarius striolatus Speg. SPECIES
-=======
+# Cortinarius striolatus Speg. SPECIES
 
 #### Status
 ACCEPTED

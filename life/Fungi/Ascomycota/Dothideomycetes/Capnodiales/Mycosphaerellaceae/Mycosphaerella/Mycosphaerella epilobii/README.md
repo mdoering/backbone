@@ -1,5 +1,4 @@
-Mycosphaerella epilobii Jaap SPECIES
-=======
+# Mycosphaerella epilobii Jaap SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma tuberosa Melhus, Rosenbaum & E.S. Schultz SPECIES
-=======
+# Phoma tuberosa Melhus, Rosenbaum & E.S. Schultz SPECIES
 
 #### Status
 ACCEPTED

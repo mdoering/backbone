@@ -1,5 +1,4 @@
-Pactilia fusarioides (Corda) Fr. SPECIES
-=======
+# Pactilia fusarioides (Corda) Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizoplaca subdiscrepans (Nyl.) R. Sant. SPECIES
-=======
+# Rhizoplaca subdiscrepans (Nyl.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

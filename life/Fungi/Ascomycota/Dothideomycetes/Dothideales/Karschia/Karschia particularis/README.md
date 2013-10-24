@@ -1,5 +1,4 @@
-Karschia particularis (Nyl.) Zopf SPECIES
-=======
+# Karschia particularis (Nyl.) Zopf SPECIES
 
 #### Status
 ACCEPTED

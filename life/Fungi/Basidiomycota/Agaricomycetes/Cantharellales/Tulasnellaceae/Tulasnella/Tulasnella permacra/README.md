@@ -1,5 +1,4 @@
-Tulasnella permacra P. Roberts, 1993 SPECIES
-=======
+# Tulasnella permacra P. Roberts, 1993 SPECIES
 
 #### Status
 ACCEPTED

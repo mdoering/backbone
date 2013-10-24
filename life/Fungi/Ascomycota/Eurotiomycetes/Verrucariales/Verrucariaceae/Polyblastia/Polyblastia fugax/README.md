@@ -1,5 +1,4 @@
-Polyblastia fugax Rehm SPECIES
-=======
+# Polyblastia fugax Rehm SPECIES
 
 #### Status
 ACCEPTED

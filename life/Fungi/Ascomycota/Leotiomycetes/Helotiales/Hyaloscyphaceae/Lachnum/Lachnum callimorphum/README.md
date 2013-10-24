@@ -1,17 +1,16 @@
-Lachnea callimorpha P. Karst., 1870 SPECIES
-=======
+# Lachnum callimorphum P. Karst., 1871 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Not. Sällsk. Fauna et Fl. Fenn. Förh. 11: 250 (1870)
+Bidr. Känn. Finl. Nat. Folk 19: 173 (1870)
 
 #### Original name
-Lachnea callimorpha P. Karst., 1870
+Lachnum callimorphum P. Karst., 1871
 
 ### Remarks
 null

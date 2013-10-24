@@ -1,5 +1,4 @@
-Scutellaria perizoides Baumg. SPECIES
-=======
+# Scutellaria perizoides Baumg. SPECIES
 
 #### Status
 ACCEPTED

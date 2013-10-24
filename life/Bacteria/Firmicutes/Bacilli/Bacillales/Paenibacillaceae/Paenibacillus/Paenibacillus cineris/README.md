@@ -1,5 +1,4 @@
-Paenibacillus cineris Logan et al., 2004 SPECIES
-=======
+# Paenibacillus cineris Logan et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

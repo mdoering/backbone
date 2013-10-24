@@ -1,5 +1,4 @@
-Lautisporopsis E.B.G. Jones, Yusoff & S.T. Moss GENUS
-=======
+# Lautisporopsis E.B.G. Jones, Yusoff & S.T. Moss GENUS
 
 #### Status
 ACCEPTED

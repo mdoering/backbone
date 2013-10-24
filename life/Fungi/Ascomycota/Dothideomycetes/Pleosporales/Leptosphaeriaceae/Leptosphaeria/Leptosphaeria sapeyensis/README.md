@@ -1,5 +1,4 @@
-Leptosphaeria sapeyensis Sacc. SPECIES
-=======
+# Leptosphaeria sapeyensis Sacc. SPECIES
 
 #### Status
 ACCEPTED

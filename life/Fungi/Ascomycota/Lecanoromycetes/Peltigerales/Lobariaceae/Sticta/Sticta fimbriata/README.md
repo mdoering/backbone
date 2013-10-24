@@ -1,5 +1,4 @@
-Sticta fimbriata Taylor SPECIES
-=======
+# Sticta fimbriata Taylor SPECIES
 
 #### Status
 ACCEPTED

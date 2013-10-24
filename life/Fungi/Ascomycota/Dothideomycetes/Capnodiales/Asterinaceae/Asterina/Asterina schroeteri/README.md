@@ -1,5 +1,4 @@
-Asterina schroeteri (Rehm) Theiss. SPECIES
-=======
+# Asterina schroeteri (Rehm) Theiss. SPECIES
 
 #### Status
 ACCEPTED

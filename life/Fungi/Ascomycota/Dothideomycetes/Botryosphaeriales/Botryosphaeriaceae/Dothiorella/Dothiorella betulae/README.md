@@ -1,5 +1,4 @@
-Dothiorella betulae (Preuss) Sacc. SPECIES
-=======
+# Dothiorella betulae (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

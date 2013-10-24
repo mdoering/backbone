@@ -1,5 +1,4 @@
-Arthothelium coccineum Müll. Arg. SPECIES
-=======
+# Arthothelium coccineum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

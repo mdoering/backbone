@@ -1,5 +1,4 @@
-Lecidella lignicola Eitner SPECIES
-=======
+# Lecidella lignicola Eitner SPECIES
 
 #### Status
 ACCEPTED

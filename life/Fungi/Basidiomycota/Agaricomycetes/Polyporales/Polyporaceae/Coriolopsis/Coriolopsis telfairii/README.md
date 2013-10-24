@@ -1,17 +1,16 @@
-Polyporus zeylanicus var. zeylanicus VARIETY
-=======
+# Coriolopsis telfairii (Klotzsch) Ryvarden, 1972 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Norw. Jl Bot. 19(3-4): 230 (1972)
 
 #### Original name
-Polyporus zeylanicus var. zeylanicus
+Polyporus telfairii Klotzsch, 1833
 
 ### Remarks
 null

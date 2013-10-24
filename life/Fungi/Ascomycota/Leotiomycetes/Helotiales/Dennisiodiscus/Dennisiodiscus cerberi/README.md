@@ -1,5 +1,4 @@
-Dennisiodiscus cerberi (Velen.) Svrcek SPECIES
-=======
+# Dennisiodiscus cerberi (Velen.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

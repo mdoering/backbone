@@ -1,5 +1,4 @@
-Diplodia tecomiae SPECIES
-=======
+# Diplodia tecomiae SPECIES
 
 #### Status
 ACCEPTED

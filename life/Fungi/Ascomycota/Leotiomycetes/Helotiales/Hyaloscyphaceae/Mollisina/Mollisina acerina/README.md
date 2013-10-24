@@ -1,14 +1,13 @@
-Pezizella acerina Mouton, 1897 SPECIES
-=======
+# Mollisina acerina (Mouton) Höhn., 1926 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. R. Bot. Belg. 36(C. R. ): 17 (1897)
+Mitt. bot. Inst. tech. Hochsch. Wien 3(2): 67 (1926)
 
 #### Original name
 Pezizella acerina Mouton, 1897

@@ -1,5 +1,4 @@
-Dactylaria naviculiformis Matsush. SPECIES
-=======
+# Dactylaria naviculiformis Matsush. SPECIES
 
 #### Status
 ACCEPTED

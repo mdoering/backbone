@@ -1,5 +1,4 @@
-Diplotomma macrospermum (Zahlbr.) Szatala SPECIES
-=======
+# Diplotomma macrospermum (Zahlbr.) Szatala SPECIES
 
 #### Status
 ACCEPTED

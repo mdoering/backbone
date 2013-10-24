@@ -1,5 +1,4 @@
-Pertusaria hadrospora A.W. Archer & Elix SPECIES
-=======
+# Pertusaria hadrospora A.W. Archer & Elix SPECIES
 
 #### Status
 ACCEPTED

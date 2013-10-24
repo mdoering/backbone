@@ -1,5 +1,4 @@
-Pertusaria degelii Erichsen SPECIES
-=======
+# Pertusaria degelii Erichsen SPECIES
 
 #### Status
 ACCEPTED

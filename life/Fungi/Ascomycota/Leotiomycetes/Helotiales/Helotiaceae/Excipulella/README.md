@@ -1,5 +1,4 @@
-Excipulella GENUS
-=======
+# Excipulella GENUS
 
 #### Status
 ACCEPTED

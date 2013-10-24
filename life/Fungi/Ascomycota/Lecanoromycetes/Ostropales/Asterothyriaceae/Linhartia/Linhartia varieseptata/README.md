@@ -1,5 +1,4 @@
-Linhartia varieseptata Vezda SPECIES
-=======
+# Linhartia varieseptata Vezda SPECIES
 
 #### Status
 ACCEPTED

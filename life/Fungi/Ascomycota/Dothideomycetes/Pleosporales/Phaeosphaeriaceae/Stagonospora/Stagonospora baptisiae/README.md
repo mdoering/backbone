@@ -1,5 +1,4 @@
-Stagonospora baptisiae (Ellis & Everh.) Davis SPECIES
-=======
+# Stagonospora baptisiae (Ellis & Everh.) Davis SPECIES
 
 #### Status
 ACCEPTED

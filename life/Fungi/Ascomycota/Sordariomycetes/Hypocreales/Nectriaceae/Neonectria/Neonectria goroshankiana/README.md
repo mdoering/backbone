@@ -1,8 +1,7 @@
-Neonectria goroshankiniana (Wahrlich) Wollenw. SPECIES
-=======
+# Neonectria goroshankiana (Wahrlich) Wollenw. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

@@ -1,5 +1,4 @@
-Rinodina newtonii H. Mayrhofer SPECIES
-=======
+# Rinodina newtonii H. Mayrhofer SPECIES
 
 #### Status
 ACCEPTED

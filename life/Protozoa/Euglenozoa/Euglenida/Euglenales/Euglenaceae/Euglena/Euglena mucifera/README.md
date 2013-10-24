@@ -1,5 +1,4 @@
-Euglena mucifera Mainx SPECIES
-=======
+# Euglena mucifera Mainx SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cenangium betulae Fr. SPECIES
-=======
+# Cenangium betulae Fr. SPECIES
 
 #### Status
 ACCEPTED

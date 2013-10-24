@@ -1,5 +1,4 @@
-Lycoperdon lepidophorum Ellis & Everh. SPECIES
-=======
+# Lycoperdon lepidophorum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

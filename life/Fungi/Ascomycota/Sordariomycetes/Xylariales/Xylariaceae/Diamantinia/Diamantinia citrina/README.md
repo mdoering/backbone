@@ -1,5 +1,4 @@
-Diamantinia citrina A.N. Mill., Laessøe & Huhndorf, 2003 SPECIES
-=======
+# Diamantinia citrina A.N. Mill., Laessøe & Huhndorf, 2003 SPECIES
 
 #### Status
 ACCEPTED

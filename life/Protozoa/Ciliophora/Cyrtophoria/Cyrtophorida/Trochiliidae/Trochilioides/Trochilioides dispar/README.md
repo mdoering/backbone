@@ -1,8 +1,7 @@
-Trochiloides dispar Fauré-Fremiet, 1965 SPECIES
-=======
+# Trochilioides dispar Fauré-Fremiet, 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

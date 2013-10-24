@@ -1,5 +1,4 @@
-Urocystis transzcheliana SPECIES
-=======
+# Urocystis transzcheliana SPECIES
 
 #### Status
 ACCEPTED

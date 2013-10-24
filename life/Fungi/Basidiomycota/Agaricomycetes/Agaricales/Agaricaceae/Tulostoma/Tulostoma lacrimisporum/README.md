@@ -1,5 +1,4 @@
-Tulostoma lacrimisporum L. Fan & B. Liu, 2005 SPECIES
-=======
+# Tulostoma lacrimisporum L. Fan & B. Liu, 2005 SPECIES
 
 #### Status
 ACCEPTED

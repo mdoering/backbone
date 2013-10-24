@@ -1,5 +1,4 @@
-Uromyces jatrophae Dietel & Holw. SPECIES
-=======
+# Uromyces jatrophae Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

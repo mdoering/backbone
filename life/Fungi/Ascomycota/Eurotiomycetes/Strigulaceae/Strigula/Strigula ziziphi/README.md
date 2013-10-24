@@ -1,5 +1,4 @@
-Strigula ziziphi (A. Massal.) Cl. Roux & Sérus. SPECIES
-=======
+# Strigula ziziphi (A. Massal.) Cl. Roux & Sérus. SPECIES
 
 #### Status
 ACCEPTED

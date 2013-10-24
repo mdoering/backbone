@@ -1,5 +1,4 @@
-Nitratiruptor tergarcus Nakagawa et al., 2005 SPECIES
-=======
+# Nitratiruptor tergarcus Nakagawa et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

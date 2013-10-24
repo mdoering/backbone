@@ -1,5 +1,4 @@
-Phyllosticta orni Bubák SPECIES
-=======
+# Phyllosticta orni Bubák SPECIES
 
 #### Status
 ACCEPTED

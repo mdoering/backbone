@@ -1,5 +1,4 @@
-Hendersonia pulsatillarum Petr. SPECIES
-=======
+# Hendersonia pulsatillarum Petr. SPECIES
 
 #### Status
 ACCEPTED

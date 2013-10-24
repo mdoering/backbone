@@ -1,5 +1,4 @@
-Nodulisporium affine (Ellis & Everh.) S. Hughes SPECIES
-=======
+# Nodulisporium affine (Ellis & Everh.) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

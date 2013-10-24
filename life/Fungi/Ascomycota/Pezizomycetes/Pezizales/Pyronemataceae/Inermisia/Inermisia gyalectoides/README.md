@@ -1,5 +1,4 @@
-Inermisia gyalectoides (Svrcek & Kubicka) Dennis & Itzerott SPECIES
-=======
+# Inermisia gyalectoides (Svrcek & Kubicka) Dennis & Itzerott SPECIES
 
 #### Status
 ACCEPTED

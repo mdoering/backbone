@@ -1,5 +1,4 @@
-Spathidium fossicola Kahl, 1933 SPECIES
-=======
+# Spathidium fossicola Kahl, 1933 SPECIES
 
 #### Status
 ACCEPTED

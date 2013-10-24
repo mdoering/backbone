@@ -1,5 +1,4 @@
-Dendrodochium roseum Sacc. SPECIES
-=======
+# Dendrodochium roseum Sacc. SPECIES
 
 #### Status
 ACCEPTED

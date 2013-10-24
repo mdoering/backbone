@@ -1,5 +1,4 @@
-Chroodiscus khaosokensis Papong & Lücking SPECIES
-=======
+# Chroodiscus khaosokensis Papong & Lücking SPECIES
 
 #### Status
 ACCEPTED

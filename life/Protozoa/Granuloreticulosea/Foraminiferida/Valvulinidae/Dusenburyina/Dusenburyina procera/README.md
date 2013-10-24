@@ -1,5 +1,4 @@
-Dusenburyina procera SPECIES
-=======
+# Dusenburyina procera SPECIES
 
 #### Status
 ACCEPTED

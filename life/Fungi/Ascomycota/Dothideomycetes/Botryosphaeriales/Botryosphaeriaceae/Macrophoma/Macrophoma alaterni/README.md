@@ -1,5 +1,4 @@
-Macrophoma alaterni Sacc. SPECIES
-=======
+# Macrophoma alaterni Sacc. SPECIES
 
 #### Status
 ACCEPTED

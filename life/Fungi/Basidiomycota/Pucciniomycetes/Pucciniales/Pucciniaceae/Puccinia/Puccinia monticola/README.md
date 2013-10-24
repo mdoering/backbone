@@ -1,5 +1,4 @@
-Puccinia monticola Kom. SPECIES
-=======
+# Puccinia monticola Kom. SPECIES
 
 #### Status
 ACCEPTED

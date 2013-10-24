@@ -1,5 +1,4 @@
-Stomiopeltis callunae B. Erikss. SPECIES
-=======
+# Stomiopeltis callunae B. Erikss. SPECIES
 
 #### Status
 ACCEPTED

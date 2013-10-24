@@ -1,5 +1,4 @@
-Microthelia intercedens Müll. Arg. SPECIES
-=======
+# Microthelia intercedens Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

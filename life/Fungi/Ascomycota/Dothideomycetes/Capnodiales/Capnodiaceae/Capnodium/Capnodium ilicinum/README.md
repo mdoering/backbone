@@ -1,5 +1,4 @@
-Capnodium ilicinum Thüm. SPECIES
-=======
+# Capnodium ilicinum Thüm. SPECIES
 
 #### Status
 ACCEPTED

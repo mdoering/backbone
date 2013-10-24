@@ -1,5 +1,4 @@
-Cryptococcus cerebriloculosus Freeman {?} & Weidman SPECIES
-=======
+# Cryptococcus cerebriloculosus Freeman {?} & Weidman SPECIES
 
 #### Status
 ACCEPTED

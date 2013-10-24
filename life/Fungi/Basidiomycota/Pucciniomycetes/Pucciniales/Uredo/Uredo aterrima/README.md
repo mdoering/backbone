@@ -1,5 +1,4 @@
-Uredo aterrima Thüm. SPECIES
-=======
+# Uredo aterrima Thüm. SPECIES
 
 #### Status
 ACCEPTED

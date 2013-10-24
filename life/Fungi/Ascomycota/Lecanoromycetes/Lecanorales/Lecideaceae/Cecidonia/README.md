@@ -1,5 +1,4 @@
-Cecidonia Triebel & Rambold GENUS
-=======
+# Cecidonia Triebel & Rambold GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leucoporus cycliscus (Mont.) Pat. SPECIES
-=======
+# Leucoporus cycliscus (Mont.) Pat. SPECIES
 
 #### Status
 ACCEPTED

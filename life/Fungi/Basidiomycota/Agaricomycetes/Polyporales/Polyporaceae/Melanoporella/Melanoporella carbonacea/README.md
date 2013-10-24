@@ -1,14 +1,13 @@
-Poria carbonacea (Berk. & M.A. Curtis) Sacc., 1888 SPECIES
-=======
+# Melanoporella carbonacea (Berk. & M.A. Curtis) Murrill, 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 6: 319 (1888)
+N. Amer. Fl. (New York) 9(1): 14 (1907)
 
 #### Original name
 Polyporus carbonaceus Berk. & M.A. Curtis, 1868

@@ -1,5 +1,4 @@
-Cladotrichum microsporum Sacc. SPECIES
-=======
+# Cladotrichum microsporum Sacc. SPECIES
 
 #### Status
 ACCEPTED

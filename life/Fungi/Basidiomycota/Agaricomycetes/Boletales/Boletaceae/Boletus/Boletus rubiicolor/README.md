@@ -1,5 +1,4 @@
-Boletus rubiicolor Corner SPECIES
-=======
+# Boletus rubiicolor Corner SPECIES
 
 #### Status
 ACCEPTED

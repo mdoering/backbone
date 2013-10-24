@@ -1,5 +1,4 @@
-Lophiostoma hygrophilum Sacc. SPECIES
-=======
+# Lophiostoma hygrophilum Sacc. SPECIES
 
 #### Status
 ACCEPTED

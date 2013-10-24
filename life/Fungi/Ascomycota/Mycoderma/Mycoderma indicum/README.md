@@ -1,5 +1,4 @@
-Mycoderma indicum (Castell.) Vuill. SPECIES
-=======
+# Mycoderma indicum (Castell.) Vuill. SPECIES
 
 #### Status
 ACCEPTED

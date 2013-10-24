@@ -1,5 +1,4 @@
-Placodium schneebergense (Zahlbr.) Motyka SPECIES
-=======
+# Placodium schneebergense (Zahlbr.) Motyka SPECIES
 
 #### Status
 ACCEPTED

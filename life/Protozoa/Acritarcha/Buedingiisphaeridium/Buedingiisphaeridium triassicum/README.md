@@ -1,5 +1,4 @@
-Buedingiisphaeridium triassicum (Jansonius, 1962) Staplin, Jansonius & Pocock, 1965 SPECIES
-=======
+# Buedingiisphaeridium triassicum (Jansonius, 1962) Staplin, Jansonius & Pocock, 1965 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Parmelia spongiosa (Huds.) Spreng. SPECIES
-=======
+# Solorina spongiosa (Ach.) Anzi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Comm. Soc. crittog. Ital. 1: 136 (1862)
 
 #### Original name
 Lichen spongiosus Scop.

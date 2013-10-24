@@ -1,5 +1,4 @@
-Euplotes acanthodus Petz, Song & Wilbert, 1995 SPECIES
-=======
+# Euplotes acanthodus Petz, Song & Wilbert, 1995 SPECIES
 
 #### Status
 ACCEPTED

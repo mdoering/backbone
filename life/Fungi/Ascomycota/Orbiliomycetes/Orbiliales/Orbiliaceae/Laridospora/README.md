@@ -1,5 +1,4 @@
-Laridospora Nawawi GENUS
-=======
+# Laridospora Nawawi GENUS
 
 #### Status
 ACCEPTED

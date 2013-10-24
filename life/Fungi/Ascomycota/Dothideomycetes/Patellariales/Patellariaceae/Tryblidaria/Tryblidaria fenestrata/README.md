@@ -1,5 +1,4 @@
-Tryblidaria fenestrata var. fenestrata VARIETY
-=======
+# Tryblidaria fenestrata (Cooke & Peck) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

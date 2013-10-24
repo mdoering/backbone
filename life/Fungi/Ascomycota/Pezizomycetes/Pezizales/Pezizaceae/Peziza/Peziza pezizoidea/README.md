@@ -1,5 +1,4 @@
-Peziza pezizoidea Schwein. SPECIES
-=======
+# Peziza pezizoidea Schwein. SPECIES
 
 #### Status
 ACCEPTED

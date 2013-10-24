@@ -1,5 +1,4 @@
-Pluteolus conicorubellus Rick SPECIES
-=======
+# Pluteolus conicorubellus Rick SPECIES
 
 #### Status
 ACCEPTED

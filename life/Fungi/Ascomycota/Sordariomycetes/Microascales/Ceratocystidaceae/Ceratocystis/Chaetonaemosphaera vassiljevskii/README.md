@@ -1,5 +1,4 @@
-Chaetonaemosphaera vassiljevskii (Kravtzev) Schwarzman SPECIES
-=======
+# Chaetonaemosphaera vassiljevskii (Kravtzev) Schwarzman SPECIES
 
 #### Status
 ACCEPTED

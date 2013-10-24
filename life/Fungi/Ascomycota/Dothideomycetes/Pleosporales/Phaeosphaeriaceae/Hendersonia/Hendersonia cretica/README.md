@@ -1,5 +1,4 @@
-Hendersonia cretica Petr. SPECIES
-=======
+# Hendersonia cretica Petr. SPECIES
 
 #### Status
 ACCEPTED

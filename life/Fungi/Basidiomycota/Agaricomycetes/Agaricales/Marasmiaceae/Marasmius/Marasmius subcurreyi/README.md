@@ -1,5 +1,4 @@
-Marasmius subcurreyi Henn. SPECIES
-=======
+# Marasmius subcurreyi Henn. SPECIES
 
 #### Status
 ACCEPTED

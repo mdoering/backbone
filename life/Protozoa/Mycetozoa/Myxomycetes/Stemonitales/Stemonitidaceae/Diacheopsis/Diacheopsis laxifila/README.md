@@ -1,17 +1,16 @@
-Diacheopsis laxifilum Nann.-Bremek. & Hooff SPECIES
-=======
+# Diacheopsis laxifila Nann.-Bremek. & Hoof, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Hooff & Nannenga-Bremekamp, Proc. K. Ned. Akad. Wet. 99(1-2): 47 (1996)
 
 #### Original name
-Diacheopsis laxifilum Nann.-Bremek. & Hooff
+Diacheopsis laxifila Nann.-Bremek. & Hoof, 1996
 
 ### Remarks
 null

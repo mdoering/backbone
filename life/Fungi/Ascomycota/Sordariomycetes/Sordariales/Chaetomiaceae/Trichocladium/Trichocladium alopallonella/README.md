@@ -1,5 +1,4 @@
-Trichocladium alopallonella Dixon in Shearer & Crane, 1971 SPECIES
-=======
+# Trichocladium alopallonella Dixon in Shearer & Crane, 1971 SPECIES
 
 #### Status
 ACCEPTED

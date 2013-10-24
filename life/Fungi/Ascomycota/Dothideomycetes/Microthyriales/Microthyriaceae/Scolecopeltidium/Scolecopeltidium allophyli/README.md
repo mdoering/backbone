@@ -1,5 +1,4 @@
-Scolecopeltidium allophyli Bat. & I.H. Lima SPECIES
-=======
+# Scolecopeltidium allophyli Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

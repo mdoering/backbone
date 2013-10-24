@@ -1,5 +1,4 @@
-Puccinia kigeziensis Wakef. & Hansf. SPECIES
-=======
+# Puccinia kigeziensis Wakef. & Hansf. SPECIES
 
 #### Status
 ACCEPTED

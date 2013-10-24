@@ -1,5 +1,4 @@
-Gymnopilus cyanopalmicola Guzm.-Dáv. SPECIES
-=======
+# Gymnopilus cyanopalmicola Guzm.-Dáv. SPECIES
 
 #### Status
 ACCEPTED

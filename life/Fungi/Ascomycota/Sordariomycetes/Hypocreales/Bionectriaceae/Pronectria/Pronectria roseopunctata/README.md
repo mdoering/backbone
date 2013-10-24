@@ -1,5 +1,4 @@
-Pronectria roseopunctata Etayo SPECIES
-=======
+# Pronectria roseopunctata Etayo SPECIES
 
 #### Status
 ACCEPTED

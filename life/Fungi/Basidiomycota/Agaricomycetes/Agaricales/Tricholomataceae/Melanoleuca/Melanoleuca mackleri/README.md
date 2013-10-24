@@ -1,5 +1,4 @@
-Melanoleuca mackleri Singer SPECIES
-=======
+# Melanoleuca mackleri Singer SPECIES
 
 #### Status
 ACCEPTED

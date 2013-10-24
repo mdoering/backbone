@@ -1,5 +1,4 @@
-Clitocybe limitata Britzelm. SPECIES
-=======
+# Clitocybe limitata Britzelm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria pulchella Malme SPECIES
-=======
+# Pertusaria pulchella Malme SPECIES
 
 #### Status
 ACCEPTED

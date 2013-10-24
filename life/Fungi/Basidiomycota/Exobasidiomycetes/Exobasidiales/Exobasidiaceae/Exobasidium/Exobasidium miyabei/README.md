@@ -1,5 +1,4 @@
-Exobasidium miyabei Nagao, Akimoto & Kishi, 2003 SPECIES
-=======
+# Exobasidium miyabei Nagao, Akimoto & Kishi, 2003 SPECIES
 
 #### Status
 ACCEPTED

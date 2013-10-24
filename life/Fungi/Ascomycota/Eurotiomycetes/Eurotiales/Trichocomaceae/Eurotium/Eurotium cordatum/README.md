@@ -1,5 +1,4 @@
-Eurotium cordatum Kuntze SPECIES
-=======
+# Eurotium cordatum Kuntze SPECIES
 
 #### Status
 ACCEPTED

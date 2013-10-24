@@ -1,5 +1,4 @@
-Rutstroemia pilatii Velen. SPECIES
-=======
+# Rutstroemia pilatii Velen. SPECIES
 
 #### Status
 ACCEPTED

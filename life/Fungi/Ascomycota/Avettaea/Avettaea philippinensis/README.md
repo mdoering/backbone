@@ -1,5 +1,4 @@
-Avettaea philippinensis Petr. & Syd., 1927 SPECIES
-=======
+# Avettaea philippinensis Petr. & Syd., 1927 SPECIES
 
 #### Status
 ACCEPTED

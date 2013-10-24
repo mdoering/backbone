@@ -1,5 +1,4 @@
-Endocarpon tuckermanii Ravenel ex Mont. SPECIES
-=======
+# Endocarpon tuckermanii Ravenel ex Mont. SPECIES
 
 #### Status
 ACCEPTED

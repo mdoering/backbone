@@ -1,5 +1,4 @@
-Resendea paraguayensis Bat., 1961 SPECIES
-=======
+# Resendea paraguayensis Bat., 1961 SPECIES
 
 #### Status
 ACCEPTED

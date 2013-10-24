@@ -1,5 +1,4 @@
-Leptoniella hortensis (Peck) Murrill SPECIES
-=======
+# Leptoniella hortensis (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

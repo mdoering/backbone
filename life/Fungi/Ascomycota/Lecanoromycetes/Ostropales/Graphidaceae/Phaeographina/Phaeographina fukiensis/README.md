@@ -1,5 +1,4 @@
-Phaeographina fukiensis var. fukiensis VARIETY
-=======
+# Phaeographina fukiensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phaeographina fukiensis var. fukiensis
+Phaeographina fukiensis Zahlbr.
 
 ### Remarks
 null

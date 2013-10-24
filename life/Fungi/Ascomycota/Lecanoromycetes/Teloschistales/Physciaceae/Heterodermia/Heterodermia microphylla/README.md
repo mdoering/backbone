@@ -1,17 +1,16 @@
-Anaptychia microphylla f. microphylla FORM
-=======
+# Heterodermia microphylla (Kurok.) Skorepa SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beih. Nova Hedwigia 6: 44 (1962)
+Lichenologist 8(2): 132 (1976)
 
 #### Original name
-Anaptychia microphylla f. microphylla
+Anaptychia hypoleuca var. microphylla Kurok.
 
 ### Remarks
 null

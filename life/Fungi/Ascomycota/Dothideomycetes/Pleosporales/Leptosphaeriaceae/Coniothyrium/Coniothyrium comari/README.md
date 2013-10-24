@@ -1,5 +1,4 @@
-Coniothyrium comari Henn. SPECIES
-=======
+# Coniothyrium comari Henn. SPECIES
 
 #### Status
 ACCEPTED

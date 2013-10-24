@@ -1,5 +1,4 @@
-Globoturborotalia GENUS
-=======
+# Globoturborotalia GENUS
 
 #### Status
 ACCEPTED

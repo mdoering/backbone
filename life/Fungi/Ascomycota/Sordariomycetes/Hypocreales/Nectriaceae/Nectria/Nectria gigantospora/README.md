@@ -1,5 +1,4 @@
-Nectria gigantospora Zimm. SPECIES
-=======
+# Nectria gigantospora Zimm. SPECIES
 
 #### Status
 ACCEPTED

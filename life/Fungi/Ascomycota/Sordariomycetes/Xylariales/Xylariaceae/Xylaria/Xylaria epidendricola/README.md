@@ -1,5 +1,4 @@
-Xylaria epidendricola Henn. SPECIES
-=======
+# Xylaria epidendricola Henn. SPECIES
 
 #### Status
 ACCEPTED

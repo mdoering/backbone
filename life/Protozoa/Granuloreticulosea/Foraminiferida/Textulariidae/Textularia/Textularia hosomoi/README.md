@@ -1,5 +1,4 @@
-Textularia hosomoi Ishizaki SPECIES
-=======
+# Textularia hosomoi Ishizaki SPECIES
 
 #### Status
 ACCEPTED

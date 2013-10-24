@@ -1,8 +1,7 @@
-Eccilia omphaliaeformis (Romagn.) SPECIES
-=======
+# Eccilia omphaliiformis (Romagn.) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

@@ -1,5 +1,4 @@
-Phomopsis melaleuca (Berk. & M.A. Curtis) Grove SPECIES
-=======
+# Phomopsis melaleuca (Berk. & M.A. Curtis) Grove SPECIES
 
 #### Status
 ACCEPTED

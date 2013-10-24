@@ -1,5 +1,4 @@
-Trachelomonas alisoviana Skvortzov SPECIES
-=======
+# Trachelomonas alisoviana Skvortzov SPECIES
 
 #### Status
 ACCEPTED

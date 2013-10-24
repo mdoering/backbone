@@ -1,5 +1,4 @@
-Molgosporidium ellipticum G. Thor SPECIES
-=======
+# Molgosporidium ellipticum G. Thor SPECIES
 
 #### Status
 ACCEPTED

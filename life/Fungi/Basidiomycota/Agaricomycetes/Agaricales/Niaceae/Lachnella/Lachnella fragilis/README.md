@@ -1,5 +1,4 @@
-Lachnella fragilis (Pat.) Locq. SPECIES
-=======
+# Lachnella fragilis (Pat.) Locq. SPECIES
 
 #### Status
 ACCEPTED

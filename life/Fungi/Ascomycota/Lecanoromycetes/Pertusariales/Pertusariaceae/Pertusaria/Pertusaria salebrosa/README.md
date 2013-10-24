@@ -1,5 +1,4 @@
-Pertusaria salebrosa A. W. Archer & Elix SPECIES
-=======
+# Pertusaria salebrosa A. W. Archer & Elix SPECIES
 
 #### Status
 ACCEPTED

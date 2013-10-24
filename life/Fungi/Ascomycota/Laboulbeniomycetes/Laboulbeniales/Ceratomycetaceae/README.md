@@ -1,5 +1,4 @@
-Ceratomycetaceae S. Colla FAMILY
-=======
+# Ceratomycetaceae S. Colla FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerophyra GENUS
-=======
+# Sphaerophyra GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Multiplicisphaeridium pleiomorphum Yin Leiming, 1995 SPECIES
-=======
+# Multiplicisphaeridium pleiomorphum Yin Leiming, 1995 SPECIES
 
 #### Status
 ACCEPTED

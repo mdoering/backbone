@@ -1,5 +1,4 @@
-Pilosace pseudotenerus (Fr.) Kuntze SPECIES
-=======
+# Pilosace pseudotenerus (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lichen dicksonii J.F. Gmel. SPECIES
-=======
+# Lichen dicksonii J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

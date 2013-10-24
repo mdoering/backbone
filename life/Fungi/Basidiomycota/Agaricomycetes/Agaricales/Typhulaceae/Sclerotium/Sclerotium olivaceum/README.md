@@ -1,5 +1,4 @@
-Sclerotium olivaceum Fr. SPECIES
-=======
+# Sclerotium olivaceum Fr. SPECIES
 
 #### Status
 ACCEPTED

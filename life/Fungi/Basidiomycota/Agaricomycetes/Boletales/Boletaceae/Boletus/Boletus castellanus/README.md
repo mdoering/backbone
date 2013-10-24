@@ -1,5 +1,4 @@
-Boletus castellanus Lázaro Ibiza SPECIES
-=======
+# Boletus castellanus Lázaro Ibiza SPECIES
 
 #### Status
 ACCEPTED

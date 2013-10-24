@@ -1,5 +1,4 @@
-Martinottiella Cushman, 1933 GENUS
-=======
+# Martinottiella Cushman, 1933 GENUS
 
 #### Status
 ACCEPTED

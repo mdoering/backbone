@@ -1,5 +1,4 @@
-Phlyctis subhimalayensis S. Joshi & Upreti SPECIES
-=======
+# Phlyctis subhimalayensis S. Joshi & Upreti SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Cantharellus valentini Velen. SPECIES
-=======
+# Cantharellus valentinii Velen. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cantharellus valentini Velen.
+Cantharellus valentinii Velen.
 
 ### Remarks
 null

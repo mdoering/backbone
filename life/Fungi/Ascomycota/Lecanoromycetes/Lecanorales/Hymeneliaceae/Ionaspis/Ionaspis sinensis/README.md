@@ -1,5 +1,4 @@
-Ionaspis sinensis Zahlbr. SPECIES
-=======
+# Ionaspis sinensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

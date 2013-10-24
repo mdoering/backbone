@@ -1,5 +1,4 @@
-Lecanora franciscana Tuck. SPECIES
-=======
+# Lecanora franciscana Tuck. SPECIES
 
 #### Status
 ACCEPTED

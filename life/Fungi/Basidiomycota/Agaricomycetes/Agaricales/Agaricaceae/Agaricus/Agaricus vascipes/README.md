@@ -1,5 +1,4 @@
-Agaricus vascipes Fr. SPECIES
-=======
+# Agaricus vascipes Fr. SPECIES
 
 #### Status
 ACCEPTED

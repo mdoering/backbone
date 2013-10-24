@@ -1,5 +1,4 @@
-Spheconisca blattaria (Norman) Norman SPECIES
-=======
+# Spheconisca blattaria (Norman) Norman SPECIES
 
 #### Status
 ACCEPTED

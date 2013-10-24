@@ -1,5 +1,4 @@
-Drosophila rigidipes (Peck) Murrill SPECIES
-=======
+# Drosophila rigidipes (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

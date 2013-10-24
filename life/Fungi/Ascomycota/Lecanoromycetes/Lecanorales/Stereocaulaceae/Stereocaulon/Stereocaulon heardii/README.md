@@ -1,5 +1,4 @@
-Stereocaulon heardii Øvstedal SPECIES
-=======
+# Stereocaulon heardii Øvstedal SPECIES
 
 #### Status
 ACCEPTED

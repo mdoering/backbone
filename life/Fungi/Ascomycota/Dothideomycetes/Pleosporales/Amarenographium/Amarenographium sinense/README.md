@@ -1,5 +1,4 @@
-Amarenographium sinense Joanne E. Taylor, K.D. Hyde & E.B.G. Jones SPECIES
-=======
+# Amarenographium sinense Joanne E. Taylor, K.D. Hyde & E.B.G. Jones SPECIES
 
 #### Status
 ACCEPTED

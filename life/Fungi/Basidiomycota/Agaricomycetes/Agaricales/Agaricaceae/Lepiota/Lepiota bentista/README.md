@@ -1,5 +1,4 @@
-Lepiota bentista Morgan SPECIES
-=======
+# Lepiota bentista Morgan SPECIES
 
 #### Status
 ACCEPTED

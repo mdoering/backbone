@@ -1,5 +1,4 @@
-Myxosporium carpineum Kirschst. SPECIES
-=======
+# Myxosporium carpineum Kirschst. SPECIES
 
 #### Status
 ACCEPTED

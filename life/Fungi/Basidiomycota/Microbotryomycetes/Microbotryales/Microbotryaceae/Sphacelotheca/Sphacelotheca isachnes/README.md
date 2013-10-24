@@ -1,5 +1,4 @@
-Sphacelotheca isachnes (Syd. & P. Syd.) L. Ling SPECIES
-=======
+# Sphacelotheca isachnes (Syd. & P. Syd.) L. Ling SPECIES
 
 #### Status
 ACCEPTED

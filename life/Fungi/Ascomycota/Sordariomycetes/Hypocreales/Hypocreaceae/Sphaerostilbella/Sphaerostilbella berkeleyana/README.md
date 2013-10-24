@@ -1,17 +1,16 @@
-Nectria rosella Berk. & Broome, 1861 SPECIES
-=======
+# Sphaerostilbella berkeleyana (Plowr. & Cooke) Samuels & Cand., 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mag. nat. Hist. , Ser. 3 7: (1861)
+in Candoussau & Magni, Mycologist 9(1): 12 (1995)
 
 #### Original name
-Nectria rosella Berk. & Broome, 1861
+Hypomyces berkeleyanus Plowr. & Cooke, 1882
 
 ### Remarks
 null

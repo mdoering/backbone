@@ -1,5 +1,4 @@
-Licea serpula Fr. SPECIES
-=======
+# Licea serpula Fr. SPECIES
 
 #### Status
 ACCEPTED

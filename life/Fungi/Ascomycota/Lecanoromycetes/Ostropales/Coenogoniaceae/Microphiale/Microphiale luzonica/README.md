@@ -1,5 +1,4 @@
-Microphiale luzonica (Rehm) Zahlbr. SPECIES
-=======
+# Microphiale luzonica (Rehm) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dictyostelium Bref. GENUS
-=======
+# Dictyostelium Bref. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramalina fecunda Krog & Swinscow SPECIES
-=======
+# Ramalina fecunda Krog & Swinscow SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Colletotrichum sasicola I. Hino & Katum. SPECIES
-=======
+# Colletotrichum sasicola I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

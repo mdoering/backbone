@@ -1,5 +1,4 @@
-Diplodia possifloricola Henn. SPECIES
-=======
+# Diplodia possifloricola Henn. SPECIES
 
 #### Status
 ACCEPTED

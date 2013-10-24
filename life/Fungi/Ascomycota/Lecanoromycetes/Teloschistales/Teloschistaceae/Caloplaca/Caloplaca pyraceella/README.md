@@ -1,5 +1,4 @@
-Caloplaca pyraceella (Nyl.) Blomb. & Forssell SPECIES
-=======
+# Caloplaca pyraceella (Nyl.) Blomb. & Forssell SPECIES
 
 #### Status
 ACCEPTED

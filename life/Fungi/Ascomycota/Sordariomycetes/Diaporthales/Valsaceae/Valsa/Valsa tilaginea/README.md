@@ -1,5 +1,4 @@
-Valsa tilaginea Curr. SPECIES
-=======
+# Valsa tilaginea Curr. SPECIES
 
 #### Status
 ACCEPTED

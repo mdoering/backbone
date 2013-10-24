@@ -1,5 +1,4 @@
-Codonellopsis speciosa Kofoid & Campbell, 1929 SPECIES
-=======
+# Codonellopsis speciosa Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetomidium ovalisporum (Lodha) Lodha SPECIES
-=======
+# Chaetomidium ovalisporum (Lodha) Lodha SPECIES
 
 #### Status
 ACCEPTED

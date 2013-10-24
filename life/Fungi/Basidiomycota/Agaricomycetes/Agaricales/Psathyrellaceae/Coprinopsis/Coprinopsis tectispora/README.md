@@ -1,5 +1,4 @@
-Coprinopsis tectispora (Bogart) Redhead, Vilgalys & Moncalvo SPECIES
-=======
+# Coprinopsis tectispora (Bogart) Redhead, Vilgalys & Moncalvo SPECIES
 
 #### Status
 ACCEPTED

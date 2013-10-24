@@ -1,8 +1,7 @@
-Geaster menziesii Berk. SPECIES
-=======
+# Geastrum menziesii Berk. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Geaster menziesii Berk.
+Geastrum menziesii Berk.
 
 ### Remarks
 null

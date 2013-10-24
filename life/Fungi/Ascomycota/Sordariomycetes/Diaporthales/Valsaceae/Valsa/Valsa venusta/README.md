@@ -1,5 +1,4 @@
-Valsa venusta Ellis SPECIES
-=======
+# Valsa venusta Ellis SPECIES
 
 #### Status
 ACCEPTED

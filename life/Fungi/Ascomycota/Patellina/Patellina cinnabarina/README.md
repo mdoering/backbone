@@ -1,5 +1,4 @@
-Patellina cinnabarina (Sacc.) Speg. SPECIES
-=======
+# Patellina cinnabarina (Sacc.) Speg. SPECIES
 
 #### Status
 ACCEPTED

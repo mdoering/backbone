@@ -1,5 +1,4 @@
-Panellus erubescens Lib.-Barnes SPECIES
-=======
+# Panellus erubescens Lib.-Barnes SPECIES
 
 #### Status
 ACCEPTED

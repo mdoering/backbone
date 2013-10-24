@@ -1,14 +1,13 @@
-Entyloma brizae Unamuno & Cif., 1931 SPECIES
-=======
+# Jamesdicksonia brizae (Unamuno & Cif.) Piatek & Vánky, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Boletín de la Real Sociedad Española de Historia Natural, Biologica 31: 335 (1931)
+in Piatek & Pronczuk, Polish Botanical Journal 51(1): 82 (2006)
 
 #### Original name
 Entyloma brizae Unamuno & Cif., 1931

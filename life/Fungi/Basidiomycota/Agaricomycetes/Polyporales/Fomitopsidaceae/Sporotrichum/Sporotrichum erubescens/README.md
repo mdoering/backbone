@@ -1,5 +1,4 @@
-Sporotrichum erubescens (Nees) Link SPECIES
-=======
+# Sporotrichum erubescens (Nees) Link SPECIES
 
 #### Status
 ACCEPTED

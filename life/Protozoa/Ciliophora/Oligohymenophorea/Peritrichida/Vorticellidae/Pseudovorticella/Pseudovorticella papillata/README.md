@@ -1,5 +1,4 @@
-Pseudovorticella papillata SPECIES
-=======
+# Pseudovorticella papillata SPECIES
 
 #### Status
 ACCEPTED

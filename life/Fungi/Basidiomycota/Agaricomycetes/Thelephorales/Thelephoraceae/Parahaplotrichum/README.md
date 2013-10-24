@@ -1,5 +1,4 @@
-Parahaplotrichum W.A. Baker & Partridge GENUS
-=======
+# Parahaplotrichum W.A. Baker & Partridge GENUS
 
 #### Status
 ACCEPTED

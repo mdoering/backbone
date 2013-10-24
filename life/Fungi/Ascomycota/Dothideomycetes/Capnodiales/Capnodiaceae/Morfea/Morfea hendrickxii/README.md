@@ -1,5 +1,4 @@
-Morfea hendrickxii (Hansf.) Bat. & Cif. SPECIES
-=======
+# Morfea hendrickxii (Hansf.) Bat. & Cif. SPECIES
 
 #### Status
 ACCEPTED

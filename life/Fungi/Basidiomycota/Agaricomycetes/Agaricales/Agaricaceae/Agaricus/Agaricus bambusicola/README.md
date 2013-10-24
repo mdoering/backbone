@@ -1,5 +1,4 @@
-Agaricus bambusicola Heinem. SPECIES
-=======
+# Agaricus bambusicola Heinem. SPECIES
 
 #### Status
 ACCEPTED

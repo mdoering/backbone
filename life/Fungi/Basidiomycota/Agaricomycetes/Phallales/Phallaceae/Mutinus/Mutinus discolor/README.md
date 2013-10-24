@@ -1,5 +1,4 @@
-Mutinus discolor (Kalchbr.) E. Fisch. SPECIES
-=======
+# Mutinus discolor (Kalchbr.) E. Fisch. SPECIES
 
 #### Status
 ACCEPTED

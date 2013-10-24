@@ -1,5 +1,4 @@
-Rhodopolium GENUS
-=======
+# Rhodopolium GENUS
 
 #### Status
 ACCEPTED

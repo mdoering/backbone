@@ -1,5 +1,4 @@
-Poria arachnoidea Murrill SPECIES
-=======
+# Poria arachnoidea Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus citri Inzenga SPECIES
-=======
+# Agaricus citri Inzenga SPECIES
 
 #### Status
 ACCEPTED

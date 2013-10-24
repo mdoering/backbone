@@ -1,5 +1,4 @@
-Hormodendrum eupatorii Cif. SPECIES
-=======
+# Hormodendrum eupatorii Cif. SPECIES
 
 #### Status
 ACCEPTED

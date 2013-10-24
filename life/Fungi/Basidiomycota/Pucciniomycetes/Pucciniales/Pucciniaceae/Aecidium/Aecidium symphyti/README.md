@@ -1,5 +1,4 @@
-Aecidium symphyti Thüm. SPECIES
-=======
+# Aecidium symphyti Thüm. SPECIES
 
 #### Status
 ACCEPTED

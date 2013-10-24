@@ -1,5 +1,4 @@
-Hirsutella subulata Petch, 1932 SPECIES
-=======
+# Hirsutella subulata Petch, 1932 SPECIES
 
 #### Status
 ACCEPTED

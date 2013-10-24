@@ -1,5 +1,4 @@
-Lactarius luteus A. Blytt SPECIES
-=======
+# Lactarius luteus A. Blytt SPECIES
 
 #### Status
 ACCEPTED

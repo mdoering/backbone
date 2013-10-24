@@ -1,17 +1,16 @@
-Tuberculina persicina var. asperulata Deighton VARIETY
-=======
+# Tuberculina persicina (Ditmar) Sacc., 1881 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fungi italica 17-28: tab. 964 (1881)
 
 #### Original name
-Tuberculina persicina var. asperulata Deighton
+null
 
 ### Remarks
 null

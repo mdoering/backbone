@@ -1,5 +1,4 @@
-Lopezoterenia torpens (Kahl, 1931) Foissner, 1997 SPECIES
-=======
+# Lopezoterenia torpens (Kahl, 1931) Foissner, 1997 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactarius firmus Pacioni & Lalli SPECIES
-=======
+# Lactarius firmus Pacioni & Lalli SPECIES
 
 #### Status
 ACCEPTED

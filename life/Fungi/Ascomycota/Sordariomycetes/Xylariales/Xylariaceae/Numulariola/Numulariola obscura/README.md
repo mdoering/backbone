@@ -1,5 +1,4 @@
-Numulariola obscura P.M.D. Martin SPECIES
-=======
+# Numulariola obscura P.M.D. Martin SPECIES
 
 #### Status
 ACCEPTED

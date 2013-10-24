@@ -1,5 +1,4 @@
-Lophodermium passiflorae Rehm SPECIES
-=======
+# Lophodermium passiflorae Rehm SPECIES
 
 #### Status
 ACCEPTED

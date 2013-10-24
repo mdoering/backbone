@@ -1,5 +1,4 @@
-Sporocybe borzinii Goid., 1937 SPECIES
-=======
+# Sporocybe borzinii Goid., 1937 SPECIES
 
 #### Status
 ACCEPTED

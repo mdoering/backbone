@@ -1,5 +1,4 @@
-Mycena cineracella Métrod SPECIES
-=======
+# Mycena cineracella Métrod SPECIES
 
 #### Status
 ACCEPTED

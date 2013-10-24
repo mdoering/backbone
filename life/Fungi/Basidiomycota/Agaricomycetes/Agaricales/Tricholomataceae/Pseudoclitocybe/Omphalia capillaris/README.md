@@ -1,5 +1,4 @@
-Omphalia capillaris Velen. SPECIES
-=======
+# Omphalia capillaris Velen. SPECIES
 
 #### Status
 ACCEPTED

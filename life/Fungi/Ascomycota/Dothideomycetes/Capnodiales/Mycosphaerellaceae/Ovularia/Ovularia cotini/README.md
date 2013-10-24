@@ -1,8 +1,7 @@
-Ovularia coyni Marchal & Sternon SPECIES
-=======
+# Ovularia cotini Marchal & Sternon SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ovularia coyni Marchal & Sternon
+Ovularia cotini Marchal & Sternon
 
 ### Remarks
 null

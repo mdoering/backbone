@@ -1,5 +1,4 @@
-Capronia macrotricha ined. SPECIES
-=======
+# Capronia macrotricha ined. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physcia littoralis Elix SPECIES
-=======
+# Physcia littoralis Elix SPECIES
 
 #### Status
 ACCEPTED

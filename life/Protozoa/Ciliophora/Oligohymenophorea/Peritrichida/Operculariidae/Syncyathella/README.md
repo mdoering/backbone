@@ -1,5 +1,4 @@
-Syncyathella Jankowski, 1976 GENUS
-=======
+# Syncyathella Jankowski, 1976 GENUS
 
 #### Status
 ACCEPTED

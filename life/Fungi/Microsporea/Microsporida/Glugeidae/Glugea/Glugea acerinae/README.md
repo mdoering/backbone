@@ -1,5 +1,4 @@
-Glugea acerinae Jírovec SPECIES
-=======
+# Glugea acerinae Jírovec SPECIES
 
 #### Status
 ACCEPTED

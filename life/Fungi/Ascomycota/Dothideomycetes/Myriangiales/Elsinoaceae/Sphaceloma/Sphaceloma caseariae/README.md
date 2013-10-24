@@ -1,5 +1,4 @@
-Sphaceloma caseariae Wani & Thirum. SPECIES
-=======
+# Sphaceloma caseariae Wani & Thirum. SPECIES
 
 #### Status
 ACCEPTED

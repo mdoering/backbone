@@ -1,5 +1,4 @@
-Annella pulchra S.K. Srivast. SPECIES
-=======
+# Annella pulchra S.K. Srivast. SPECIES
 
 #### Status
 ACCEPTED

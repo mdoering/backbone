@@ -1,5 +1,4 @@
-Ascochytella sambuci (Sacc.) Tassi SPECIES
-=======
+# Ascochytella sambuci (Sacc.) Tassi SPECIES
 
 #### Status
 ACCEPTED

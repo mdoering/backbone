@@ -1,5 +1,4 @@
-Arrhenia luteopallida (Kuyper & Hauskn.) Barrasa & V.J. Rico SPECIES
-=======
+# Arrhenia luteopallida (Kuyper & Hauskn.) Barrasa & V.J. Rico SPECIES
 
 #### Status
 ACCEPTED

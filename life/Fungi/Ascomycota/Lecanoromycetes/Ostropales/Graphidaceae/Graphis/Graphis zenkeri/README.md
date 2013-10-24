@@ -1,5 +1,4 @@
-Graphis zenkeri C.W. Dodge SPECIES
-=======
+# Graphis zenkeri C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

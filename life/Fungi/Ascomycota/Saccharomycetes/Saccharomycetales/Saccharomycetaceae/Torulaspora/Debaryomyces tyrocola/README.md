@@ -1,5 +1,4 @@
-Debaryomyces tyrocola SPECIES
-=======
+# Debaryomyces tyrocola SPECIES
 
 #### Status
 DOUBTFUL

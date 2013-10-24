@@ -1,5 +1,4 @@
-Mycena tephrophylla Maas Geest. & Schwöbel SPECIES
-=======
+# Mycena tephrophylla Maas Geest. & Schwöbel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleurotus umbonatus Peck SPECIES
-=======
+# Pleurotus umbonatus Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bulbomollisia GENUS
-=======
+# Bulbomollisia GENUS
 
 #### Status
 ACCEPTED

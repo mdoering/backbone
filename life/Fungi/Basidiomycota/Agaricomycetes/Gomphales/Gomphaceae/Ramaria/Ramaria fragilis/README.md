@@ -1,5 +1,4 @@
-Ramaria fragilis Holmsk. SPECIES
-=======
+# Ramaria fragilis Holmsk. SPECIES
 
 #### Status
 ACCEPTED

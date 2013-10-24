@@ -1,5 +1,4 @@
-Pedinella marina SPECIES
-=======
+# Pedinella marina SPECIES
 
 #### Status
 ACCEPTED

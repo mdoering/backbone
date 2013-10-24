@@ -1,5 +1,4 @@
-Hymenochaete denticulata J.C. Léger & Lanq., 1992 SPECIES
-=======
+# Hymenochaete denticulata J.C. Léger & Lanq., 1992 SPECIES
 
 #### Status
 ACCEPTED

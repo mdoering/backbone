@@ -1,5 +1,4 @@
-Pleurotus subbarbatulus (Murrill) Sacc. & Trotter SPECIES
-=======
+# Pleurotus subbarbatulus (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

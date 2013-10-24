@@ -1,5 +1,4 @@
-Ascochyta arnicae Fuckel SPECIES
-=======
+# Ascochyta arnicae Fuckel SPECIES
 
 #### Status
 ACCEPTED

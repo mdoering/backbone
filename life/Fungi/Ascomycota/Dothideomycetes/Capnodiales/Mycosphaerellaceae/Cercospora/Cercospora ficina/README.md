@@ -1,5 +1,4 @@
-Cercospora ficina Tharp SPECIES
-=======
+# Cercospora ficina Tharp SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Colletotrichum smilacis Tehon SPECIES
-=======
+# Colletotrichum smilacis Tehon SPECIES
 
 #### Status
 ACCEPTED

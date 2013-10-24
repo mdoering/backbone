@@ -1,5 +1,4 @@
-Cryptococcus anemochoreius C.H. Pohl, Kock, P.W.J. van Wyk & Albertyn SPECIES
-=======
+# Cryptococcus anemochoreius C.H. Pohl, Kock, P.W.J. van Wyk & Albertyn SPECIES
 
 #### Status
 ACCEPTED

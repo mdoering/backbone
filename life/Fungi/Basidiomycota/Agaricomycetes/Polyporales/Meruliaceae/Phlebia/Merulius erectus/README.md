@@ -1,5 +1,4 @@
-Merulius erectus Lloyd SPECIES
-=======
+# Merulius erectus Lloyd SPECIES
 
 #### Status
 ACCEPTED

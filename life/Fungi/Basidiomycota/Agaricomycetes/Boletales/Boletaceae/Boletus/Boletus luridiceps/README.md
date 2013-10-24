@@ -1,5 +1,4 @@
-Boletus luridiceps (Murrill) Murrill SPECIES
-=======
+# Boletus luridiceps (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

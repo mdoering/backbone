@@ -1,14 +1,13 @@
-Catinula aurea Lév., 1848 SPECIES
-=======
+# Lemalis aurea (Lév.) Sacc., 1884 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 3 9: 248 (1848)
+Syll. fung. (Abellini) 3: 672 (1884)
 
 #### Original name
 Catinula aurea Lév., 1848

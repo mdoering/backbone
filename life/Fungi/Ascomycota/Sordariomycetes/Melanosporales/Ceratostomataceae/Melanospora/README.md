@@ -1,17 +1,16 @@
-Melanosporopsis Naumov GENUS
-=======
+# Melanospora Corda, 1837 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Zasc. Rast. Vredit. , (Défense Pl. ) 6: 6 (1927)
+Icon. fung. (Prague) 1: 24 (1837)
 
 #### Original name
-Melanosporopsis Naumov
+Melanospora Corda, 1837
 
 ### Remarks
 null

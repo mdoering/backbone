@@ -1,5 +1,4 @@
-Colletotrichum gymnocladi Urries SPECIES
-=======
+# Colletotrichum gymnocladi Urries SPECIES
 
 #### Status
 ACCEPTED

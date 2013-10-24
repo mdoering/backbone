@@ -1,5 +1,4 @@
-Leprocollema finkii Zahlbr. SPECIES
-=======
+# Leprocollema finkii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

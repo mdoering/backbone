@@ -1,5 +1,4 @@
-Diatrype leucostroma (Mont.) Rappaz SPECIES
-=======
+# Diatrype leucostroma (Mont.) Rappaz SPECIES
 
 #### Status
 ACCEPTED

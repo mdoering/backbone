@@ -1,5 +1,4 @@
-Uredo palmifoliae Cummins SPECIES
-=======
+# Uredo palmifoliae Cummins SPECIES
 
 #### Status
 ACCEPTED

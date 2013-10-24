@@ -1,5 +1,4 @@
-Paxillus defibulatus var. defibulatus VARIETY
-=======
+# Paxillus defibulatus Singer SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Lilloa 25: 434 (1952)
 
 #### Original name
-Paxillus defibulatus var. defibulatus
+Paxillus defibulatus Singer
 
 ### Remarks
 null

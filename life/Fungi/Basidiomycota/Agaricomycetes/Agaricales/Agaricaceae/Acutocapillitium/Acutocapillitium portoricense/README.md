@@ -1,5 +1,4 @@
-Acutocapillitium portoricense P. Ponce de León, 1976 SPECIES
-=======
+# Acutocapillitium portoricense P. Ponce de León, 1976 SPECIES
 
 #### Status
 ACCEPTED

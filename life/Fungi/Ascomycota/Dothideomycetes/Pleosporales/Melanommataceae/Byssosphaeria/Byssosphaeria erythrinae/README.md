@@ -1,5 +1,4 @@
-Byssosphaeria erythrinae (B. Huguenin) M.E. Barr SPECIES
-=======
+# Byssosphaeria erythrinae (B. Huguenin) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

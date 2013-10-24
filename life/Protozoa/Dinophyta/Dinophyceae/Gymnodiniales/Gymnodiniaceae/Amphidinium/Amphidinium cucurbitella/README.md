@@ -1,5 +1,4 @@
-Amphidinium cucurbitella Kofoid & Swezy, 1921 SPECIES
-=======
+# Amphidinium cucurbitella Kofoid & Swezy, 1921 SPECIES
 
 #### Status
 ACCEPTED

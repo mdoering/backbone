@@ -1,5 +1,4 @@
-Centropyxiella lucida Golemansky, 1971 SPECIES
-=======
+# Centropyxiella lucida Golemansky, 1971 SPECIES
 
 #### Status
 ACCEPTED

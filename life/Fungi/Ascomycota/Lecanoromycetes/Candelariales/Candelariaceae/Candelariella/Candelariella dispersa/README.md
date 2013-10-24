@@ -1,5 +1,4 @@
-Candelariella dispersa Hakul. SPECIES
-=======
+# Candelariella dispersa Hakul. SPECIES
 
 #### Status
 ACCEPTED

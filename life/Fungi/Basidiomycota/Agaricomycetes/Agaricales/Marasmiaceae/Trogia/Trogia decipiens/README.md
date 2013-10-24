@@ -1,5 +1,4 @@
-Trogia decipiens var. decipiens VARIETY
-=======
+# Trogia decipiens Corner SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Gdns' Bull. , Singapore. Supplement 2: 25 (1991)
 
 #### Original name
-Trogia decipiens var. decipiens
+Trogia decipiens Corner
 
 ### Remarks
 null

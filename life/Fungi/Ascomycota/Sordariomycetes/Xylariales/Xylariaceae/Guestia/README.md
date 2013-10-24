@@ -1,5 +1,4 @@
-Guestia G.J.D. Smith & K.D. Hyde, 2001 GENUS
-=======
+# Guestia G.J.D. Smith & K.D. Hyde, 2001 GENUS
 
 #### Status
 ACCEPTED

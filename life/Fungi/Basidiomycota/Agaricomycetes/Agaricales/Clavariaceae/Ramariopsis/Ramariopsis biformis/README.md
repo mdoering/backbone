@@ -1,17 +1,16 @@
-Clavulinopsis biformis var. biformis (G.F. Atk.) Corner VARIETY
-=======
+# Ramariopsis biformis (G.F. Atk.) R.H. Petersen, 1964 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monograph of Clavaria and allied Genera (Annals of Botany Memoirs No. 1) 358 (1950)
+Bull. Torrey bot. Club 91(4): 276 (1964)
 
 #### Original name
-Clavulinopsis biformis var. biformis (G.F. Atk.) Corner
+Clavaria biformis G.F. Atk., 1908
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Graphis persicina Meyen & Flot. SPECIES
-=======
+# Graphis persicina Meyen & Flot. SPECIES
 
 #### Status
 ACCEPTED

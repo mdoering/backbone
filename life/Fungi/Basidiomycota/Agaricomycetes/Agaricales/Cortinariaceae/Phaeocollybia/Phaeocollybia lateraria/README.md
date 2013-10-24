@@ -1,5 +1,4 @@
-Phaeocollybia lateraria A.H. Sm. SPECIES
-=======
+# Phaeocollybia lateraria A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

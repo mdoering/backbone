@@ -1,5 +1,4 @@
-Semigyalecta paradoxa Vain. SPECIES
-=======
+# Semigyalecta paradoxa Vain. SPECIES
 
 #### Status
 ACCEPTED

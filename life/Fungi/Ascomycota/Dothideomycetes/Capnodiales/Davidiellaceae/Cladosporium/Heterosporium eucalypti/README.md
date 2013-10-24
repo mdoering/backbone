@@ -1,5 +1,4 @@
-Heterosporium eucalypti Ellis & Everh. SPECIES
-=======
+# Heterosporium eucalypti Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

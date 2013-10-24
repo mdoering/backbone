@@ -1,5 +1,4 @@
-Septoria abutilonis Khokhr. SPECIES
-=======
+# Septoria abutilonis Khokhr. SPECIES
 
 #### Status
 ACCEPTED

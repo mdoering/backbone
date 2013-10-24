@@ -1,5 +1,4 @@
-Limacella roseicremea Murrill SPECIES
-=======
+# Limacella roseicremea Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anodotrichum oligocarpum Corda SPECIES
-=======
+# Anodotrichum oligocarpum Corda SPECIES
 
 #### Status
 ACCEPTED

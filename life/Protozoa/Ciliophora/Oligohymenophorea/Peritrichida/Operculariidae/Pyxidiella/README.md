@@ -1,5 +1,4 @@
-Pyxidiella GENUS
-=======
+# Pyxidiella GENUS
 
 #### Status
 ACCEPTED

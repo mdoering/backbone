@@ -1,5 +1,4 @@
-Coleroa tiroliensis Kirschst. SPECIES
-=======
+# Coleroa tiroliensis Kirschst. SPECIES
 
 #### Status
 ACCEPTED

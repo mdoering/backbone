@@ -1,17 +1,16 @@
-Pseudohelotium scrupulosum var. scrupulosum VARIETY
-=======
+# Hyalopeziza millepunctata (Lib.) Raitv., 1970 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 8: 293 (1889)
+Acad. Nauk Estonskoi S. S. R. , Inst. Zool. Bot. , Tartu 34 (1970)
 
 #### Original name
-Pseudohelotium scrupulosum var. scrupulosum
+null
 
 ### Remarks
 null

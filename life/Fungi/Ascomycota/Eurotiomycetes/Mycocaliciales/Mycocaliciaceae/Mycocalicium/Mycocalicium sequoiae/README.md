@@ -1,5 +1,4 @@
-Mycocalicium sequoiae Bonar SPECIES
-=======
+# Mycocalicium sequoiae Bonar SPECIES
 
 #### Status
 ACCEPTED

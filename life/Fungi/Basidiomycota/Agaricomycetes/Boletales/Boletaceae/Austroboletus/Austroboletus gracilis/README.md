@@ -1,5 +1,4 @@
-Austroboletus gracilis (Peck) Wolfe SPECIES
-=======
+# Austroboletus gracilis (Peck) Wolfe SPECIES
 
 #### Status
 ACCEPTED

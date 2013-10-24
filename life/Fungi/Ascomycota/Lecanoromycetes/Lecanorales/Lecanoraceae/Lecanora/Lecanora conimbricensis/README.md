@@ -1,5 +1,4 @@
-Lecanora conimbricensis SPECIES
-=======
+# Lecanora conimbricensis SPECIES
 
 #### Status
 ACCEPTED

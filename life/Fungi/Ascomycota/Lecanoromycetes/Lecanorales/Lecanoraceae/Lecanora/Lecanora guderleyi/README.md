@@ -1,5 +1,4 @@
-Lecanora guderleyi Lumbsch & Messuti SPECIES
-=======
+# Lecanora guderleyi Lumbsch & Messuti SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phlyctema morindae Pavgi & U.P. Singh SPECIES
-=======
+# Phlyctema morindae Pavgi & U.P. Singh SPECIES
 
 #### Status
 ACCEPTED

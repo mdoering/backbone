@@ -1,5 +1,4 @@
-Puccinia brittoi Rangel SPECIES
-=======
+# Puccinia brittoi Rangel SPECIES
 
 #### Status
 ACCEPTED

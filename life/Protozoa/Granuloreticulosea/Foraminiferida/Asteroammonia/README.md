@@ -1,5 +1,4 @@
-Asteroammonia GENUS
-=======
+# Asteroammonia GENUS
 
 #### Status
 ACCEPTED

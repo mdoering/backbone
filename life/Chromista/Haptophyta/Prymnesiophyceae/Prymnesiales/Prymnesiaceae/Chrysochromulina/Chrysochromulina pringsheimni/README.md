@@ -1,5 +1,4 @@
-Chrysochromulina pringsheimni Parke & Manton SPECIES
-=======
+# Chrysochromulina pringsheimni Parke & Manton SPECIES
 
 #### Status
 ACCEPTED

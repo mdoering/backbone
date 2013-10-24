@@ -1,5 +1,4 @@
-Globigerinoides hyalinus Hofker, 1956 SPECIES
-=======
+# Globigerinoides hyalinus Hofker, 1956 SPECIES
 
 #### Status
 ACCEPTED

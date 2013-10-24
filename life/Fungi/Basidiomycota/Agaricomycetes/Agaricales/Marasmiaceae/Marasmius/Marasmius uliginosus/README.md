@@ -1,5 +1,4 @@
-Marasmius uliginosus Gilliam SPECIES
-=======
+# Marasmius uliginosus Gilliam SPECIES
 
 #### Status
 ACCEPTED

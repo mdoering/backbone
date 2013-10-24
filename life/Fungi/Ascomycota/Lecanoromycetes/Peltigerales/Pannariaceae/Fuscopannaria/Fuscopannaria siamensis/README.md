@@ -1,5 +1,4 @@
-Fuscopannaria siamensis P.M. Jørg. & Wolseley SPECIES
-=======
+# Fuscopannaria siamensis P.M. Jørg. & Wolseley SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Ravenelia breyniae-patentis Thirum. & Mundk., 1946 SPECIES
-=======
+# Kernkampella breyniae-patentis (Mundk. & Thirum.) Rajendren, 1970 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 16: 21 (1946)
+Mycologia 62(4): 839 (1970)
 
 #### Original name
 Ravenelia breyniae-patentis Thirum. & Mundk., 1946

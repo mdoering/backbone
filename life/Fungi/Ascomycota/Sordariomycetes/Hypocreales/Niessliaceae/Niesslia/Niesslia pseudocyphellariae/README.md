@@ -1,5 +1,4 @@
-Niesslia pseudocyphellariae Etayo & Diederich SPECIES
-=======
+# Niesslia pseudocyphellariae Etayo & Diederich SPECIES
 
 #### Status
 ACCEPTED

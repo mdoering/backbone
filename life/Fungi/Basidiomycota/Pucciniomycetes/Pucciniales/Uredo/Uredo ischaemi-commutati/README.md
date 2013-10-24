@@ -1,5 +1,4 @@
-Uredo ischaemi-commutati Petch SPECIES
-=======
+# Uredo ischaemi-commutati Petch SPECIES
 
 #### Status
 ACCEPTED

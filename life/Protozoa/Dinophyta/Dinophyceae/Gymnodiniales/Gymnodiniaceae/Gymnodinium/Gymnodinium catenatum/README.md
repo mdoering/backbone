@@ -1,5 +1,4 @@
-Gymnodinium catenatum L.W. Graham SPECIES
-=======
+# Gymnodinium catenatum L.W. Graham SPECIES
 
 #### Status
 ACCEPTED

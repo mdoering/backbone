@@ -1,5 +1,4 @@
-Bacidia pusilla (Mont.) Zahlbr. SPECIES
-=======
+# Bacidia pusilla (Mont.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

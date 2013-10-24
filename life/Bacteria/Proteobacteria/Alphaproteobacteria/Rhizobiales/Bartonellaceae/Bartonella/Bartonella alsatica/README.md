@@ -1,5 +1,4 @@
-Bartonella alsatica Heller et al., 1999 SPECIES
-=======
+# Bartonella alsatica Heller et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

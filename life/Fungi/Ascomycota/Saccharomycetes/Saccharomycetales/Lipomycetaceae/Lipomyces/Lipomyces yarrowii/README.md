@@ -1,5 +1,4 @@
-Lipomyces yarrowii M.T. Sm. & Van der Walt, 1999 SPECIES
-=======
+# Lipomyces yarrowii M.T. Sm. & Van der Walt, 1999 SPECIES
 
 #### Status
 ACCEPTED

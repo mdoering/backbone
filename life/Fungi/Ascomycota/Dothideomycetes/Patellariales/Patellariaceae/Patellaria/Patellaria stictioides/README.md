@@ -1,5 +1,4 @@
-Patellaria stictioides Berk. & Broome SPECIES
-=======
+# Patellaria stictioides Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

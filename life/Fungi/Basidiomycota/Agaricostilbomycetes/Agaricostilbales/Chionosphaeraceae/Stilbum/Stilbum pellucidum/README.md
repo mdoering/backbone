@@ -1,5 +1,4 @@
-Stilbum pellucidum Schrad. SPECIES
-=======
+# Stilbum pellucidum Schrad. SPECIES
 
 #### Status
 ACCEPTED

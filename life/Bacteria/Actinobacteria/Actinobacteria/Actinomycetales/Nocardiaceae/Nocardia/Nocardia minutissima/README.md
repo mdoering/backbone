@@ -1,5 +1,4 @@
-Nocardia minutissima (Burchardt) Castell. & Chalm. SPECIES
-=======
+# Nocardia minutissima (Burchardt) Castell. & Chalm. SPECIES
 
 #### Status
 ACCEPTED

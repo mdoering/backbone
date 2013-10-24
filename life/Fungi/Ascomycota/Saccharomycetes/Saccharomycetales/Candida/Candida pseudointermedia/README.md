@@ -1,5 +1,4 @@
-Candida pseudointermedia Nakase, Komag. & Fukaz., 1976 SPECIES
-=======
+# Candida pseudointermedia Nakase, Komag. & Fukaz., 1976 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hymenostilbe lecaniicola (Jaap) Mains SPECIES
-=======
+# Hymenostilbe lecaniicola (Jaap) Mains SPECIES
 
 #### Status
 ACCEPTED

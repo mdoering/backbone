@@ -1,5 +1,4 @@
-Xylosphaeria pulchella (Sacc. & Speg.) Petr. SPECIES
-=======
+# Xylosphaeria pulchella (Sacc. & Speg.) Petr. SPECIES
 
 #### Status
 ACCEPTED

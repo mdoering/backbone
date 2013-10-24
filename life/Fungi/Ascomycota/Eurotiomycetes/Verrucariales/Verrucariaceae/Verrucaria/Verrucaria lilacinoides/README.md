@@ -1,5 +1,4 @@
-Verrucaria lilacinoides Servít SPECIES
-=======
+# Verrucaria lilacinoides Servít SPECIES
 
 #### Status
 ACCEPTED

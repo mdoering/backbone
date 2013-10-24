@@ -1,5 +1,4 @@
-Akanthomyces longisporus B. Huang, S.B. Wang, M.Z. Fan & Z.Z. Li SPECIES
-=======
+# Akanthomyces longisporus B. Huang, S.B. Wang, M.Z. Fan & Z.Z. Li SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xerocomus cuneipes Pegler SPECIES
-=======
+# Xerocomus cuneipes Pegler SPECIES
 
 #### Status
 ACCEPTED

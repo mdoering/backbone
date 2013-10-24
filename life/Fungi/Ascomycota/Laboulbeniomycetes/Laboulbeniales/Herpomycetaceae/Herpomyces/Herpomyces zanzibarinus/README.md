@@ -1,5 +1,4 @@
-Herpomyces zanzibarinus Thaxt. SPECIES
-=======
+# Herpomyces zanzibarinus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

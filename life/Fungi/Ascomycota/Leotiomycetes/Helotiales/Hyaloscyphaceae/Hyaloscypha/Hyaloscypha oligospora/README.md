@@ -1,5 +1,4 @@
-Hyaloscypha oligospora Velen. SPECIES
-=======
+# Hyaloscypha oligospora Velen. SPECIES
 
 #### Status
 ACCEPTED

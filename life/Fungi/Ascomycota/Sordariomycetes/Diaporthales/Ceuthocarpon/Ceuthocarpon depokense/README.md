@@ -1,5 +1,4 @@
-Ceuthocarpon depokense Penz. & Sacc. SPECIES
-=======
+# Ceuthocarpon depokense Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

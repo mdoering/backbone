@@ -1,5 +1,4 @@
-Mycogone Persoon, 1822 GENUS
-=======
+# Mycogone Persoon, 1822 GENUS
 
 #### Status
 ACCEPTED

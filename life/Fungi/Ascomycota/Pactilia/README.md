@@ -1,17 +1,16 @@
-Achitonium Kunze GENUS
-=======
+# Pactilia Fr. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fl. Scan. 365 (1837)
 
 #### Original name
-Achitonium Kunze
+Pactilia Fr.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Xanthoparmelia nigraoleosa Elix & J. Johnst. SPECIES
-=======
+# Xanthoparmelia nigraoleosa Elix & J. Johnst. SPECIES
 
 #### Status
 ACCEPTED

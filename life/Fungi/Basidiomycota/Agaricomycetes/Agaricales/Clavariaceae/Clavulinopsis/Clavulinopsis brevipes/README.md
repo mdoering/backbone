@@ -1,17 +1,16 @@
-Clavulinopsis brevipes var. brevipes Corner VARIETY
-=======
+# Clavulinopsis brevipes Corner, 1950 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Monograph of Clavaria and allied Genera (Annals of Botany Memoirs No. 1) 694 (1950)
 
 #### Original name
-Clavulinopsis brevipes var. brevipes Corner
+Clavulinopsis brevipes Corner, 1950
 
 ### Remarks
 null

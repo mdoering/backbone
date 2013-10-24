@@ -1,5 +1,4 @@
-Lembosia coccolobicola Bat. & Gayão SPECIES
-=======
+# Lembosia coccolobicola Bat. & Gayão SPECIES
 
 #### Status
 ACCEPTED

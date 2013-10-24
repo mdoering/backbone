@@ -1,14 +1,13 @@
-Urceolella paulula (Roberge ex Desm.) Boud., 1907 SPECIES
-=======
+# Diplonaevia paulula (Roberge ex Desm.) Scheuer, 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Res. 95(5): 634 (1991)
 
 #### Original name
 Peziza paulula Johns. {?}

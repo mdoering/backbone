@@ -1,5 +1,4 @@
-Leptorhaphis buxi J. Steiner SPECIES
-=======
+# Leptorhaphis buxi J. Steiner SPECIES
 
 #### Status
 ACCEPTED

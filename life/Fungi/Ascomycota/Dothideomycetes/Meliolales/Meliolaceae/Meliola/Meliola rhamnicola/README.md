@@ -1,5 +1,4 @@
-Meliola rhamnicola F. Stevens & Tehon SPECIES
-=======
+# Meliola rhamnicola F. Stevens & Tehon SPECIES
 
 #### Status
 ACCEPTED

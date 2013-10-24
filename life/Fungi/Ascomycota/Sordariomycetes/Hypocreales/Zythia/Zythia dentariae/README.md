@@ -1,5 +1,4 @@
-Zythia dentariae Westend. SPECIES
-=======
+# Zythia dentariae Westend. SPECIES
 
 #### Status
 ACCEPTED

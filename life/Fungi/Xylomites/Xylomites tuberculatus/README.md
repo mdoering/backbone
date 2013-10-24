@@ -1,5 +1,4 @@
-Xylomites tuberculatus Unger SPECIES
-=======
+# Xylomites tuberculatus Unger SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phialophora botulispora Cole & W.B. Kendr. SPECIES
-=======
+# Phialophora botulispora Cole & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

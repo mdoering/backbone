@@ -1,5 +1,4 @@
-Janetia interna H.J. Swart SPECIES
-=======
+# Janetia interna H.J. Swart SPECIES
 
 #### Status
 ACCEPTED

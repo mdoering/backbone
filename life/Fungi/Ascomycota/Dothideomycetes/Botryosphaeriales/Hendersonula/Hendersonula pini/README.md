@@ -1,5 +1,4 @@
-Hendersonula pini Died. SPECIES
-=======
+# Hendersonula pini Died. SPECIES
 
 #### Status
 ACCEPTED

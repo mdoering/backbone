@@ -1,5 +1,4 @@
-Stylina disticha (Ehrenb.) Syd. & P. Syd., 1921 SPECIES
-=======
+# Stylina disticha (Ehrenb.) Syd. & P. Syd., 1921 SPECIES
 
 #### Status
 ACCEPTED

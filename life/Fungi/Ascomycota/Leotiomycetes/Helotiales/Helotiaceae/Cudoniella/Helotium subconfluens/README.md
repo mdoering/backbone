@@ -1,5 +1,4 @@
-Helotium subconfluens Bres. SPECIES
-=======
+# Helotium subconfluens Bres. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo fumariae Rabenh. SPECIES
-=======
+# Uredo fumariae Rabenh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xanthoparmelia substygiodes (Essl.) O. Blanco, A. Crespo, Elix, D. Hawksw. & Lumbsch SPECIES
-=======
+# Xanthoparmelia substygiodes (Essl.) O. Blanco, A. Crespo, Elix, D. Hawksw. & Lumbsch SPECIES
 
 #### Status
 ACCEPTED

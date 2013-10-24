@@ -1,5 +1,4 @@
-Calycina querceti (Sacc.) Kuntze SPECIES
-=======
+# Calycina querceti (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

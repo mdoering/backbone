@@ -1,14 +1,13 @@
-Sphaerella magnusiana (Jaap) Sacc. & Trotter, 1913 SPECIES
-=======
+# Mycosphaerella magnusiana Jaap, 1908 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 22: 128 (1913)
+Annls mycol. 6(3): 209 (1908)
 
 #### Original name
 Mycosphaerella magnusiana Jaap, 1908

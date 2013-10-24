@@ -1,5 +1,4 @@
-Sclerotium granulatum Peyl SPECIES
-=======
+# Sclerotium granulatum Peyl SPECIES
 
 #### Status
 ACCEPTED

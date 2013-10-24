@@ -1,5 +1,4 @@
-Nectria obscura Rehm SPECIES
-=======
+# Nectria obscura Rehm SPECIES
 
 #### Status
 ACCEPTED

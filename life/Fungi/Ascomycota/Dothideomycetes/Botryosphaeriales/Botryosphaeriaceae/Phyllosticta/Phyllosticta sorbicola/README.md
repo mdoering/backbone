@@ -1,5 +1,4 @@
-Phyllosticta sorbicola anon. SPECIES
-=======
+# Phyllosticta sorbicola anon. SPECIES
 
 #### Status
 ACCEPTED

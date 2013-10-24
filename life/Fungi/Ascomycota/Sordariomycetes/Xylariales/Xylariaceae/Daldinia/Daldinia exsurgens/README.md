@@ -1,5 +1,4 @@
-Daldinia exsurgens (Mont.) Rehm SPECIES
-=======
+# Daldinia exsurgens (Mont.) Rehm SPECIES
 
 #### Status
 ACCEPTED

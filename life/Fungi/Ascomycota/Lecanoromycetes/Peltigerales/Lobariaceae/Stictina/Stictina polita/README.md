@@ -1,5 +1,4 @@
-Stictina polita (Laurer) C.W. Dodge SPECIES
-=======
+# Stictina polita (Laurer) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

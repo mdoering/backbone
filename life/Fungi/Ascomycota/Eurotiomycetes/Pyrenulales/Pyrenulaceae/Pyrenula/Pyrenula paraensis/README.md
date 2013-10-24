@@ -1,5 +1,4 @@
-Pyrenula paraensis Müll. Arg. SPECIES
-=======
+# Pyrenula paraensis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

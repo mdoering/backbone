@@ -1,5 +1,4 @@
-Pentaposporium fourcroyae Bat. SPECIES
-=======
+# Pentaposporium fourcroyae Bat. SPECIES
 
 #### Status
 ACCEPTED

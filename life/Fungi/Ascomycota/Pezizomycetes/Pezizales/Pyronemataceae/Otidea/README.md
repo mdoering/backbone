@@ -1,14 +1,13 @@
-Cochlearia (Cooke) Lambotte GENUS
-=======
+# Otidea (Persoon) Bonorden, 1851 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Mém. Soc. roy. Sci. Liège, Série 2 14: 323 (1888)
+null
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Coprinus spadiceisporus Bogart SPECIES
-=======
+# Coprinus spadiceisporus Bogart SPECIES
 
 #### Status
 ACCEPTED

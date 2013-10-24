@@ -1,5 +1,4 @@
-Pyrenula macrocarpa A. Massal. SPECIES
-=======
+# Pyrenula macrocarpa A. Massal. SPECIES
 
 #### Status
 ACCEPTED

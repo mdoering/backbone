@@ -1,5 +1,4 @@
-Prunulus flavifolius (Peck) Murrill SPECIES
-=======
+# Prunulus flavifolius (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

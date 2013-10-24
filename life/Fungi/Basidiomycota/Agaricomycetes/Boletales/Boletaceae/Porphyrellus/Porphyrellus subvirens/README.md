@@ -1,5 +1,4 @@
-Porphyrellus subvirens Hongo SPECIES
-=======
+# Porphyrellus subvirens Hongo SPECIES
 
 #### Status
 ACCEPTED

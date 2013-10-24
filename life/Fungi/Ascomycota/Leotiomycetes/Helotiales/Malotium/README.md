@@ -1,5 +1,4 @@
-Malotium Velen. GENUS
-=======
+# Malotium Velen. GENUS
 
 #### Status
 ACCEPTED

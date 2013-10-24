@@ -1,5 +1,4 @@
-Characiopsis Borzi, 1895 GENUS
-=======
+# Characiopsis Borzi, 1895 GENUS
 
 #### Status
 ACCEPTED

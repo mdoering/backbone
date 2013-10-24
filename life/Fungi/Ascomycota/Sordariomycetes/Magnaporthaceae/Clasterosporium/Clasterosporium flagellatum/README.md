@@ -1,14 +1,13 @@
-Cheiropodium flagellatum Syd. & P. Syd., 1915 SPECIES
-=======
+# Clasterosporium flagellatum (Syd. & P. Syd.) M.B. Ellis, 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 13(1): 42 (1915)
+Mycol. Pap. 70: 5 (1958)
 
 #### Original name
 Cheiropodium flagellatum Syd. & P. Syd., 1915

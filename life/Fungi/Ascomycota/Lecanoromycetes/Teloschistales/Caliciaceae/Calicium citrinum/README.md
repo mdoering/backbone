@@ -1,5 +1,4 @@
-Calicium citrinum Leight. SPECIES
-=======
+# Calicium citrinum Leight. SPECIES
 
 #### Status
 ACCEPTED

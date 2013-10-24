@@ -1,5 +1,4 @@
-Ustilago xerochloae Vánky & R.G. Shivas SPECIES
-=======
+# Ustilago xerochloae Vánky & R.G. Shivas SPECIES
 
 #### Status
 ACCEPTED

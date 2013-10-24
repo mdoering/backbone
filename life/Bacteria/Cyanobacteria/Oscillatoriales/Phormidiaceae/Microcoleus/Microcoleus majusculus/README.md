@@ -1,5 +1,4 @@
-Microcoleus majusculus C. K. Tseng & M. Hua SPECIES
-=======
+# Microcoleus majusculus C. K. Tseng & M. Hua SPECIES
 
 #### Status
 ACCEPTED

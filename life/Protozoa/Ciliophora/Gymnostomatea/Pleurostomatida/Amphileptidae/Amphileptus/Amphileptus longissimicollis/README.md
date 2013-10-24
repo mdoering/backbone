@@ -1,5 +1,4 @@
-Amphileptus longissimicollis Dumas, 1937 SPECIES
-=======
+# Amphileptus longissimicollis Dumas, 1937 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola amomicola var. amomicola VARIETY
-=======
+# Meliola amomicola F. Stevens SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Illinois Biol. Monogr. (Urbana) 2: 40 (1916)
 
 #### Original name
-Meliola amomicola var. amomicola
+Meliola amomicola F. Stevens
 
 ### Remarks
 null

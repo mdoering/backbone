@@ -1,5 +1,4 @@
-Hendersonia coryneoidea Cooke & Harkn. SPECIES
-=======
+# Hendersonia coryneoidea Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

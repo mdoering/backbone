@@ -1,5 +1,4 @@
-Aecidium salinum Lindr. SPECIES
-=======
+# Aecidium salinum Lindr. SPECIES
 
 #### Status
 ACCEPTED

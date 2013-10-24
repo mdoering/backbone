@@ -1,5 +1,4 @@
-Cryptococcus tonsillae (Carn.-Ricci & Redaelli) Nann. SPECIES
-=======
+# Cryptococcus tonsillae (Carn.-Ricci & Redaelli) Nann. SPECIES
 
 #### Status
 ACCEPTED

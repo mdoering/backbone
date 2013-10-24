@@ -1,5 +1,4 @@
-Lentinus monardianus Durieu & Mont. SPECIES
-=======
+# Lentinus monardianus Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

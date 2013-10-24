@@ -1,5 +1,4 @@
-Boletus lilliputianus Pat. SPECIES
-=======
+# Boletus lilliputianus Pat. SPECIES
 
 #### Status
 ACCEPTED

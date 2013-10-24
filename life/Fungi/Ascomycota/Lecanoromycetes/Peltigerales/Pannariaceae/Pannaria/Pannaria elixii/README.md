@@ -1,5 +1,4 @@
-Pannaria elixii P. M. Jørg. & D. J. Galloway SPECIES
-=======
+# Pannaria elixii P. M. Jørg. & D. J. Galloway SPECIES
 
 #### Status
 ACCEPTED

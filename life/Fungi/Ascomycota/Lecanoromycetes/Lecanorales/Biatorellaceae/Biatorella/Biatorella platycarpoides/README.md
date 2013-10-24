@@ -1,5 +1,4 @@
-Biatorella platycarpoides (Anzi) Th. Fr. SPECIES
-=======
+# Biatorella platycarpoides (Anzi) Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

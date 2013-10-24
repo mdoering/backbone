@@ -1,5 +1,4 @@
-Pericladium tiliacearum Mundk. & Thirum., 1950 SPECIES
-=======
+# Pericladium tiliacearum Mundk. & Thirum., 1950 SPECIES
 
 #### Status
 ACCEPTED

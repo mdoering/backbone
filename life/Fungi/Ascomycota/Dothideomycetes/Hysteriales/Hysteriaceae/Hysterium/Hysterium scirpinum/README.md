@@ -1,5 +1,4 @@
-Hysterium scirpinum Fr. SPECIES
-=======
+# Hysterium scirpinum Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza secalis Lib. SPECIES
-=======
+# Peziza secalis Lib. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heronallenella boltovskoyi Gupta & Sen Gupta, 1993 SPECIES
-=======
+# Heronallenella boltovskoyi Gupta & Sen Gupta, 1993 SPECIES
 
 #### Status
 ACCEPTED

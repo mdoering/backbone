@@ -1,5 +1,4 @@
-Pleurotus juglandis (Britzelm.) Sacc. SPECIES
-=======
+# Pleurotus juglandis (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

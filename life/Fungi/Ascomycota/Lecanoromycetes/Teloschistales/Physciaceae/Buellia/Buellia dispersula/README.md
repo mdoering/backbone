@@ -1,5 +1,4 @@
-Buellia dispersula Müll. Arg. SPECIES
-=======
+# Buellia dispersula Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

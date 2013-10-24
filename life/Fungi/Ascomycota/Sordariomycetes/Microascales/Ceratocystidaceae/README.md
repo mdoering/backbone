@@ -1,5 +1,4 @@
-Ceratocystidaceae FAMILY
-=======
+# Ceratocystidaceae FAMILY
 
 #### Status
 ACCEPTED

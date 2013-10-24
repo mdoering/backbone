@@ -1,5 +1,4 @@
-Tuscarilla campanella Hacker, 1904 SPECIES
-=======
+# Tuscarilla campanella Hacker, 1904 SPECIES
 
 #### Status
 ACCEPTED

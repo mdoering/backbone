@@ -1,5 +1,4 @@
-Septobasidium saccardinum (Rangel) Marchion. SPECIES
-=======
+# Septobasidium saccardinum (Rangel) Marchion. SPECIES
 
 #### Status
 ACCEPTED

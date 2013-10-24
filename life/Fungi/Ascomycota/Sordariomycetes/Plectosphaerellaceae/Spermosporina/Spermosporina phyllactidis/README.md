@@ -1,5 +1,4 @@
-Spermosporina phyllactidis (Speg.) U. Braun SPECIES
-=======
+# Spermosporina phyllactidis (Speg.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

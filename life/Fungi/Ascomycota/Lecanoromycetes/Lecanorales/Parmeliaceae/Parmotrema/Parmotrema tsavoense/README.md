@@ -1,5 +1,4 @@
-Parmotrema tsavoense (Krog & Swinscow) Krog & Swinscow SPECIES
-=======
+# Parmotrema tsavoense (Krog & Swinscow) Krog & Swinscow SPECIES
 
 #### Status
 ACCEPTED

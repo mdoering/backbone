@@ -1,5 +1,4 @@
-Hygrophorus waikanaensis G. Stev., 1963 SPECIES
-=======
+# Hygrophorus waikanaensis G. Stev., 1963 SPECIES
 
 #### Status
 ACCEPTED

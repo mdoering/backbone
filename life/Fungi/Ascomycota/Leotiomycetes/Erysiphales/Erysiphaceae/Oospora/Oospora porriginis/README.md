@@ -1,17 +1,16 @@
-Oospora porriginis var. ceratophagus (Ercolani) Sacc. VARIETY
-=======
+# Oospora porriginis (Mont. & Berk.) Sacc., 1886 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 4: 15 (1886)
 
 #### Original name
-Achorion ceratophagus Ercolani
+Oidium porriginis Mont., 1850
 
 ### Remarks
 null

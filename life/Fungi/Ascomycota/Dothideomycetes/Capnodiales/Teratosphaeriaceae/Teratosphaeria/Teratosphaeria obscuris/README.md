@@ -1,5 +1,4 @@
-Teratosphaeria obscuris (P.A. Barber & T.I. Burgess) P.A. Barber & T.I. Burgess, 2009 SPECIES
-=======
+# Teratosphaeria obscuris (P.A. Barber & T.I. Burgess) P.A. Barber & T.I. Burgess, 2009 SPECIES
 
 #### Status
 ACCEPTED

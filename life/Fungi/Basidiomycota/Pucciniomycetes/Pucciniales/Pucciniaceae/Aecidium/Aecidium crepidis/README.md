@@ -1,8 +1,7 @@
-Aecidium tragopogonatum SPECIES
-=======
+# Aecidium crepidis Oudem. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Belgian Species List

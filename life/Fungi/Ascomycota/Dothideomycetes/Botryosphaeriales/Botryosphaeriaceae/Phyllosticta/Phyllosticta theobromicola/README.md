@@ -1,5 +1,4 @@
-Phyllosticta theobromicola Vincens SPECIES
-=======
+# Phyllosticta theobromicola Vincens SPECIES
 
 #### Status
 ACCEPTED

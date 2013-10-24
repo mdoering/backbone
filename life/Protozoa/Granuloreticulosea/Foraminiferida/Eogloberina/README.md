@@ -1,5 +1,4 @@
-Eogloberina GENUS
-=======
+# Eogloberina GENUS
 
 #### Status
 ACCEPTED

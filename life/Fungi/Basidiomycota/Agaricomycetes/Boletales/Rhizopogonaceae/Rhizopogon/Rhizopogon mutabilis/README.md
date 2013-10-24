@@ -1,5 +1,4 @@
-Rhizopogon mutabilis Soehner SPECIES
-=======
+# Rhizopogon mutabilis Soehner SPECIES
 
 #### Status
 ACCEPTED

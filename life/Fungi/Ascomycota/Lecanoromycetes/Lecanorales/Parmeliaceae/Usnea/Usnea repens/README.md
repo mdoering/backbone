@@ -1,5 +1,4 @@
-Usnea repens Motyka SPECIES
-=======
+# Usnea repens Motyka SPECIES
 
 #### Status
 ACCEPTED

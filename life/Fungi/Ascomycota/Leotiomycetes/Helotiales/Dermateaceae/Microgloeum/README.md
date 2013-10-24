@@ -1,5 +1,4 @@
-Microgloeum Petr. GENUS
-=======
+# Microgloeum Petr. GENUS
 
 #### Status
 ACCEPTED

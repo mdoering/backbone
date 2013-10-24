@@ -1,5 +1,4 @@
-Roseomonas gilardii subsp. gilardii SUBSPECIES
-=======
+# Roseomonas gilardii Rihs et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

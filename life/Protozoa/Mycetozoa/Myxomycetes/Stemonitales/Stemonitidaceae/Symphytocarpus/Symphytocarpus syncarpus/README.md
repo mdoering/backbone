@@ -1,14 +1,13 @@
-Stemonitis confluens var. syncarpa Yamash. VARIETY
-=======
+# Symphytocarpus syncarpus (Yamash.) Y. Yamam., 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Journal of Science of the Hiroshima University, B, 2 3: 34 (1936)
+J. Jap. Bot. 59(8): 256 (1984)
 
 #### Original name
 Stemonitis confluens var. syncarpa Yamash.

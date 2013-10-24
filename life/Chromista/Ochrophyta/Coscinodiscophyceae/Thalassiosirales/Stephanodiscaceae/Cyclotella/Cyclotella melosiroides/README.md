@@ -1,5 +1,4 @@
-Cyclotella melosiroides (Kirchner) Lemmermann SPECIES
-=======
+# Cyclotella melosiroides (Kirchner) Lemmermann SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Intranstylum simulans Plate, 1886 SPECIES
-=======
+# Pseudocarchesium simulans (Plate, 1886) Schödel, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

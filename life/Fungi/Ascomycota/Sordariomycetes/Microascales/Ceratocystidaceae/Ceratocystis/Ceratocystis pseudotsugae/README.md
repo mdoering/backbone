@@ -1,5 +1,4 @@
-Ceratocystis pseudotsugae (Rumbold) C. Moreau SPECIES
-=======
+# Ceratocystis pseudotsugae (Rumbold) C. Moreau SPECIES
 
 #### Status
 ACCEPTED

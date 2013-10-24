@@ -1,5 +1,4 @@
-Lobaria lacunosa (Taylor) Yoshim. SPECIES
-=======
+# Lobaria lacunosa (Taylor) Yoshim. SPECIES
 
 #### Status
 ACCEPTED

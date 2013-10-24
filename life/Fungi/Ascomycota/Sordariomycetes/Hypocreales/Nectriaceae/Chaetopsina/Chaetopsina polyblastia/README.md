@@ -1,5 +1,4 @@
-Chaetopsina polyblastia Samuels SPECIES
-=======
+# Chaetopsina polyblastia Samuels SPECIES
 
 #### Status
 ACCEPTED

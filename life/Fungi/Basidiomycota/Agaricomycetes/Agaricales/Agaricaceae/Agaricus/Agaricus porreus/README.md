@@ -1,5 +1,4 @@
-Agaricus porreus Pers. SPECIES
-=======
+# Agaricus porreus Pers. SPECIES
 
 #### Status
 ACCEPTED

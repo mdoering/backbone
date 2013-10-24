@@ -1,5 +1,4 @@
-Alcanivorax Yakimov et al., 1998 GENUS
-=======
+# Alcanivorax Yakimov et al., 1998 GENUS
 
 #### Status
 ACCEPTED

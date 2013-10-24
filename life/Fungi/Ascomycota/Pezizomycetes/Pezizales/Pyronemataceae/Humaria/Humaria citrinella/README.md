@@ -1,5 +1,4 @@
-Humaria citrinella (Quél.) Sacc. SPECIES
-=======
+# Humaria citrinella (Quél.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

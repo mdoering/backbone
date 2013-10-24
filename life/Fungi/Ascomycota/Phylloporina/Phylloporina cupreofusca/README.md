@@ -1,5 +1,4 @@
-Phylloporina cupreofusca Zahlbr. SPECIES
-=======
+# Phylloporina cupreofusca Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

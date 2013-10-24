@@ -1,17 +1,16 @@
-Parmelia gyelniki C.W. Dodge SPECIES
-=======
+# Parmelia gyelnikii C.W. Dodge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ann. Mo. bot. Gdn 46(1-2): 62 (1959)
 
 #### Original name
-Parmelia gyelniki C.W. Dodge
+Parmelia gyelnikii C.W. Dodge
 
 ### Remarks
 null

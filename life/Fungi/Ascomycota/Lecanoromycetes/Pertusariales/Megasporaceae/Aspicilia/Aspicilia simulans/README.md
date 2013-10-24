@@ -1,5 +1,4 @@
-Aspicilia simulans Kernst. SPECIES
-=======
+# Aspicilia simulans Kernst. SPECIES
 
 #### Status
 ACCEPTED

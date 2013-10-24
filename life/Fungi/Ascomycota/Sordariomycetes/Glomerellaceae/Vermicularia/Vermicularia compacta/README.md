@@ -1,5 +1,4 @@
-Vermicularia compacta Cooke & Ellis SPECIES
-=======
+# Vermicularia compacta Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

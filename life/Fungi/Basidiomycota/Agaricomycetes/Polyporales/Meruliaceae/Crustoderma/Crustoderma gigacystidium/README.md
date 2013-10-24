@@ -1,5 +1,4 @@
-Crustoderma gigacystidium Gilb. & Hemmes, 2001 SPECIES
-=======
+# Crustoderma gigacystidium Gilb. & Hemmes, 2001 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anthracothecium vitellinum Müll. Arg. SPECIES
-=======
+# Anthracothecium vitellinum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

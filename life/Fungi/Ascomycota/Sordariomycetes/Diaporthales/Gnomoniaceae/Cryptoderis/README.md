@@ -1,5 +1,4 @@
-Cryptoderis GENUS
-=======
+# Cryptoderis GENUS
 
 #### Status
 ACCEPTED

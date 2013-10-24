@@ -1,5 +1,4 @@
-Eupatellinella Hatta, 1992 GENUS
-=======
+# Eupatellinella Hatta, 1992 GENUS
 
 #### Status
 ACCEPTED

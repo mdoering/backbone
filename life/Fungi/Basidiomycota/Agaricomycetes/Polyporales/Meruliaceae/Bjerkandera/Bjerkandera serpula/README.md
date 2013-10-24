@@ -1,5 +1,4 @@
-Bjerkandera serpula P. Karst. SPECIES
-=======
+# Bjerkandera serpula P. Karst. SPECIES
 
 #### Status
 ACCEPTED

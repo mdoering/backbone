@@ -1,5 +1,4 @@
-Solidopons Theodoridis, 1984 GENUS
-=======
+# Solidopons Theodoridis, 1984 GENUS
 
 #### Status
 ACCEPTED

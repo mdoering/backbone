@@ -1,5 +1,4 @@
-Gloeosporium nicolai Aggéry SPECIES
-=======
+# Gloeosporium nicolai Aggéry SPECIES
 
 #### Status
 ACCEPTED

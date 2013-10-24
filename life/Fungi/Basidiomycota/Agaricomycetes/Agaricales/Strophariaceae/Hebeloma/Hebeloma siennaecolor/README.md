@@ -1,5 +1,4 @@
-Hebeloma siennaecolor Petch SPECIES
-=======
+# Hebeloma siennaecolor Petch SPECIES
 
 #### Status
 ACCEPTED

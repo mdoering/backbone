@@ -1,5 +1,4 @@
-Opegrapha robustula Nyl. SPECIES
-=======
+# Opegrapha robustula Nyl. SPECIES
 
 #### Status
 ACCEPTED

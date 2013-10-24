@@ -1,5 +1,4 @@
-Phyllosticta montana Voglino SPECIES
-=======
+# Phyllosticta montana Voglino SPECIES
 
 #### Status
 ACCEPTED

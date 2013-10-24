@@ -1,14 +1,13 @@
-Sclerospora farlowii Griffiths, 1907 SPECIES
-=======
+# Sclerophthora farlowii (Griffiths) R.G. Kenneth, 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Torrey bot. Club 24: 207 (1907)
+null
 
 #### Original name
 Sclerospora farlowii Griffiths, 1907

@@ -1,17 +1,16 @@
-Polyporus cystididoides Lloyd SPECIES
-=======
+# Polyporus cystidioides Lloyd SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycol. Writ. 6: 1002 (1920)
 
 #### Original name
-Polyporus cystididoides Lloyd
+Polyporus cystidioides Lloyd
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Aecidium atylosiae Petch SPECIES
-=======
+# Aecidium atylosiae Petch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola ellipanthi Mibey SPECIES
-=======
+# Meliola ellipanthi Mibey SPECIES
 
 #### Status
 ACCEPTED

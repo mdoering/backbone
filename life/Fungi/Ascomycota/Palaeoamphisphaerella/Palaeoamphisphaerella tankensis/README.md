@@ -1,5 +1,4 @@
-Palaeoamphisphaerella tankensis (G. Norris) Kalgutkar & Janson. SPECIES
-=======
+# Palaeoamphisphaerella tankensis (G. Norris) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

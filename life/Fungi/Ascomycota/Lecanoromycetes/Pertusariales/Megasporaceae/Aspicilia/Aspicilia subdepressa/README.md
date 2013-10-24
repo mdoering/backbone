@@ -1,14 +1,13 @@
-Pachyospora subdepressa (Arnold) M. Choisy SPECIES
-=======
+# Aspicilia subdepressa (Nyl.) Arnold SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Verh. zool. -bot. Ges. Wein 19: 611 (1869)
 
 #### Original name
 Lecanora subdepressa

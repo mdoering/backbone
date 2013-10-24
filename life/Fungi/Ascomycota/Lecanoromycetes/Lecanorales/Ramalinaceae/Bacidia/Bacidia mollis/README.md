@@ -1,5 +1,4 @@
-Bacidia mollis (A. Massal.) SPECIES
-=======
+# Bacidia mollis (A. Massal.) SPECIES
 
 #### Status
 ACCEPTED

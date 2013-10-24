@@ -1,5 +1,4 @@
-Spathidium bi-nucleatum Dragesco, 1966 SPECIES
-=======
+# Spathidium bi-nucleatum Dragesco, 1966 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tetraploa setifera Révay SPECIES
-=======
+# Tetraploa setifera Révay SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anaplasma ovis Lestoquard, 1924 (Approved Lists, 1980) SPECIES
-=======
+# Anaplasma ovis Lestoquard, 1924 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

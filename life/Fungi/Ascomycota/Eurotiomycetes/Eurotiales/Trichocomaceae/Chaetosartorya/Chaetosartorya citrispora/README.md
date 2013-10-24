@@ -1,5 +1,4 @@
-Chaetosartorya citrispora Bilai & Koval SPECIES
-=======
+# Chaetosartorya citrispora Bilai & Koval SPECIES
 
 #### Status
 ACCEPTED

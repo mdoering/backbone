@@ -1,5 +1,4 @@
-Roccella belangeriana D.D. Awasthi SPECIES
-=======
+# Roccella belangeriana D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Phlebia cervina Overh., 1930 SPECIES
-=======
+# Peniophora pseudopini Weresub & I.A.S. Gibson, 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 22(5): 240 (1930)
+Can. J. Bot. 38: 863 (1960)
 
 #### Original name
-Phlebia cervina Overh., 1930
+Peniophora pseudopini Weresub & I.A.S. Gibson, 1960
 
 ### Remarks
 null

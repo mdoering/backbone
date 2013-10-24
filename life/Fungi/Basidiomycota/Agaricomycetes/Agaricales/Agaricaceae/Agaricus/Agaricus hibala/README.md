@@ -1,5 +1,4 @@
-Agaricus hibala Kalchbr. SPECIES
-=======
+# Agaricus hibala Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

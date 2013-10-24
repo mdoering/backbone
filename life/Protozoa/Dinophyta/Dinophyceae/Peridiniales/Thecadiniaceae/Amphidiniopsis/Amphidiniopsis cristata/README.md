@@ -1,5 +1,4 @@
-Amphidiniopsis cristata M. Hoppenrath SPECIES
-=======
+# Amphidiniopsis cristata M. Hoppenrath SPECIES
 
 #### Status
 ACCEPTED

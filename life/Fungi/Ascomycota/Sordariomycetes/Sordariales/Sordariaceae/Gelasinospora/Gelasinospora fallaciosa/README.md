@@ -1,17 +1,16 @@
-Gelasinospora fallaciosa f. fallaciosa FORM
-=======
+# Gelasinospora fallaciosa Cailleux, 1972 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Bull. trimest. Soc. mycol. Fr. 87(4): 623 (1972)
 
 #### Original name
-Gelasinospora fallaciosa f. fallaciosa
+Gelasinospora fallaciosa Cailleux, 1972
 
 ### Remarks
 null

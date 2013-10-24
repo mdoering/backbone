@@ -1,5 +1,4 @@
-Ogataea parapolymorpha S.O. Suh & J.J. Zhou, 2010 SPECIES
-=======
+# Ogataea parapolymorpha S.O. Suh & J.J. Zhou, 2010 SPECIES
 
 #### Status
 ACCEPTED

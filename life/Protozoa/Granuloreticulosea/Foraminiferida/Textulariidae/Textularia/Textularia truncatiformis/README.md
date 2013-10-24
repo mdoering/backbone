@@ -1,5 +1,4 @@
-Textularia truncatiformis Zheng, 1988 SPECIES
-=======
+# Textularia truncatiformis Zheng, 1988 SPECIES
 
 #### Status
 ACCEPTED

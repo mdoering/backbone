@@ -1,5 +1,4 @@
-Agaricus floralis Berk. & Ravenel SPECIES
-=======
+# Agaricus floralis Berk. & Ravenel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia hypoleucoides (Müll. Arg.) Hue SPECIES
-=======
+# Parmelia hypoleucoides (Müll. Arg.) Hue SPECIES
 
 #### Status
 ACCEPTED

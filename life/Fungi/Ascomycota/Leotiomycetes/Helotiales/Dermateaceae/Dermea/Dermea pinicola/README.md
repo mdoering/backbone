@@ -1,5 +1,4 @@
-Dermea pinicola J.W. Groves, 1946 SPECIES
-=======
+# Dermea pinicola J.W. Groves, 1946 SPECIES
 
 #### Status
 ACCEPTED

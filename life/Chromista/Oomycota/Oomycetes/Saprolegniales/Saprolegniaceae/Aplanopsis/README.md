@@ -1,5 +1,4 @@
-Aplanopsis Höhnk GENUS
-=======
+# Aplanopsis Höhnk GENUS
 
 #### Status
 ACCEPTED

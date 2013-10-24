@@ -1,5 +1,4 @@
-Poria pulvinata Lloyd SPECIES
-=======
+# Poria pulvinata Lloyd SPECIES
 
 #### Status
 ACCEPTED

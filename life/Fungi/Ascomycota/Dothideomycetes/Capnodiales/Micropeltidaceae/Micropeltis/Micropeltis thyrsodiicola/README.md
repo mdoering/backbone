@@ -1,5 +1,4 @@
-Micropeltis thyrsodiicola Bat. & I.H. Lima SPECIES
-=======
+# Micropeltis thyrsodiicola Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnochilus musae Earle SPECIES
-=======
+# Gymnochilus musae Earle SPECIES
 
 #### Status
 ACCEPTED

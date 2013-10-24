@@ -1,5 +1,4 @@
-Uronema parduczi Foissner, 1971 SPECIES
-=======
+# Uronema parduczi Foissner, 1971 SPECIES
 
 #### Status
 ACCEPTED

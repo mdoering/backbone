@@ -1,5 +1,4 @@
-Isaria takamizusanensis Kobayasi SPECIES
-=======
+# Isaria takamizusanensis Kobayasi SPECIES
 
 #### Status
 ACCEPTED

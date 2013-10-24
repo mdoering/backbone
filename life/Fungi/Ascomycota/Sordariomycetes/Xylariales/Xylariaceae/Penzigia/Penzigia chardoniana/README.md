@@ -1,5 +1,4 @@
-Penzigia chardoniana J.H. Mill. SPECIES
-=======
+# Penzigia chardoniana J.H. Mill. SPECIES
 
 #### Status
 ACCEPTED

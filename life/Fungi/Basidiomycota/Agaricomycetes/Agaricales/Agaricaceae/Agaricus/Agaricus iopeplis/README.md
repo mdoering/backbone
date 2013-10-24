@@ -1,5 +1,4 @@
-Agaricus iopeplis Berk. & Broome SPECIES
-=======
+# Agaricus iopeplis Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

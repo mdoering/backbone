@@ -1,5 +1,4 @@
-Septoria ixeridis-dentatae Sawada SPECIES
-=======
+# Septoria ixeridis-dentatae Sawada SPECIES
 
 #### Status
 ACCEPTED

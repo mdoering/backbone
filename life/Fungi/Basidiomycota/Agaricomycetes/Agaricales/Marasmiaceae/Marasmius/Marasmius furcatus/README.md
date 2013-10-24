@@ -1,5 +1,4 @@
-Marasmius furcatus Velen. SPECIES
-=======
+# Marasmius furcatus Velen. SPECIES
 
 #### Status
 ACCEPTED

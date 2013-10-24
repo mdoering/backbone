@@ -1,5 +1,4 @@
-Propionibacter Meijer et al., 1999 GENUS
-=======
+# Propionibacter Meijer et al., 1999 GENUS
 
 #### Status
 ACCEPTED

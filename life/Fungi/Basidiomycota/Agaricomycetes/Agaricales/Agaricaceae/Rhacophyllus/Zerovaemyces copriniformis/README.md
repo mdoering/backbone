@@ -1,5 +1,4 @@
-Zerovaemyces copriniformis Gorovij SPECIES
-=======
+# Zerovaemyces copriniformis Gorovij SPECIES
 
 #### Status
 ACCEPTED

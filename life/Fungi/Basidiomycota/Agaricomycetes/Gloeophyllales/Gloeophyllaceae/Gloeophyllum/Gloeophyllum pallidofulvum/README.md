@@ -1,5 +1,4 @@
-Gloeophyllum pallidofulvum (Berk.) Murrill SPECIES
-=======
+# Gloeophyllum pallidofulvum (Berk.) Murrill SPECIES
 
 #### Status
 ACCEPTED

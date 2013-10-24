@@ -1,5 +1,4 @@
-Craterellus rugulosus (Lév.) Pat. SPECIES
-=======
+# Craterellus rugulosus (Lév.) Pat. SPECIES
 
 #### Status
 ACCEPTED

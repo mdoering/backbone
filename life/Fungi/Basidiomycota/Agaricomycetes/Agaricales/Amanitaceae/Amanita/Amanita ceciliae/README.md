@@ -1,17 +1,16 @@
-Amanita inaurata f. sp FORM
-=======
+# Amanita ceciliae (Berk. & Broome) Bas, 1984 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Iconogr. Mycol. 27(Suppl. 1): 222 (1941)
+Persoonia 12(2): 192 (1984)
 
 #### Original name
-Amanita inaurata f. sp
+Agaricus ceciliae Berk. & Broome, 1854
 
 ### Remarks
 null

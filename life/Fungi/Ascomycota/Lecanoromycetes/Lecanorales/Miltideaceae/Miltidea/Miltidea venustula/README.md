@@ -1,5 +1,4 @@
-Miltidea venustula Stirt. SPECIES
-=======
+# Miltidea venustula Stirt. SPECIES
 
 #### Status
 ACCEPTED

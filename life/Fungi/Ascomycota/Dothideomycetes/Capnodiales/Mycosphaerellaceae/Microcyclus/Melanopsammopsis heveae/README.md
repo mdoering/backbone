@@ -1,5 +1,4 @@
-Melanopsammopsis heveae Stahel SPECIES
-=======
+# Melanopsammopsis heveae Stahel SPECIES
 
 #### Status
 ACCEPTED

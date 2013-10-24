@@ -1,5 +1,4 @@
-Euplotes carinatus Stokes, 1885 SPECIES
-=======
+# Euplotes carinatus Stokes, 1885 SPECIES
 
 #### Status
 ACCEPTED

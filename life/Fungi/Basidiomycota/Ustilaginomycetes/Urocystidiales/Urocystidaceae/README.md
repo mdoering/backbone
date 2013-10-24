@@ -1,17 +1,16 @@
-Urocystaceae Begerow, R. Bauer & Oberw. FAMILY
-=======
+# Urocystidaceae Begerow, R. Bauer & Oberw. FAMILY
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Can. J. Bot. 75(12): 2052 (1998)
 
 #### Original name
-Urocystaceae Begerow, R. Bauer & Oberw.
+Urocystidaceae Begerow, R. Bauer & Oberw.
 
 ### Remarks
 null

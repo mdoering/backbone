@@ -1,5 +1,4 @@
-Mallomonas soleatus Harris & Bradley SPECIES
-=======
+# Mallomonas soleatus Harris & Bradley SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paragranatisporites Zhong Y. Zhang, 1980 GENUS
-=======
+# Paragranatisporites Zhong Y. Zhang, 1980 GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Sphaerella genuflexa var. polaris P. Karst. VARIETY
-=======
+# Mycosphaerella genuflexa (Auersw.) Johanson & Magnus, 1912 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fl. Deutschl. Österr. Schweiz. X, 1. Kryptog. -Fl. III 3(1): 295 (1912)
 
 #### Original name
-Sphaerella genuflexa var. polaris P. Karst.
+Sphaerella genuflexa Auersw., 1869
 
 ### Remarks
 null

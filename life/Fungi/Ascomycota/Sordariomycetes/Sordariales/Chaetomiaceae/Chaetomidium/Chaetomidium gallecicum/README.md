@@ -1,5 +1,4 @@
-Chaetomidium gallecicum Stchigel & Guarro SPECIES
-=======
+# Chaetomidium gallecicum Stchigel & Guarro SPECIES
 
 #### Status
 ACCEPTED

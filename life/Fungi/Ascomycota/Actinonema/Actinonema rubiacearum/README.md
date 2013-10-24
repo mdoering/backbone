@@ -1,5 +1,4 @@
-Actinonema rubiacearum (Lév.) Sacc. SPECIES
-=======
+# Actinonema rubiacearum (Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

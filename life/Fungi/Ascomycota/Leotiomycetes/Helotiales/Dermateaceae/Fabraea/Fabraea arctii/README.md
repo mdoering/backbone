@@ -1,5 +1,4 @@
-Fabraea arctii (Lib.) Sacc. SPECIES
-=======
+# Fabraea arctii (Lib.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

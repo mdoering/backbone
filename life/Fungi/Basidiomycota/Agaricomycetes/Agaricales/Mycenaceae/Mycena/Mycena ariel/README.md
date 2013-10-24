@@ -1,5 +1,4 @@
-Mycena ariel Corner SPECIES
-=======
+# Mycena ariel Corner SPECIES
 
 #### Status
 ACCEPTED

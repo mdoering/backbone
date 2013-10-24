@@ -1,5 +1,4 @@
-Protoblastenia griseococcinea (Nyl.) Mas. Inoue SPECIES
-=======
+# Protoblastenia griseococcinea (Nyl.) Mas. Inoue SPECIES
 
 #### Status
 ACCEPTED

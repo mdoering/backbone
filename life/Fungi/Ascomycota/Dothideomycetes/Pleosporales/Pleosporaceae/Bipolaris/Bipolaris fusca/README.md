@@ -1,5 +1,4 @@
-Bipolaris fusca Y.L. Jiang & T.Y. Zhang SPECIES
-=======
+# Bipolaris fusca Y.L. Jiang & T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

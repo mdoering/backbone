@@ -1,5 +1,4 @@
-Entoloma argentinum (Speg.) E. Horak SPECIES
-=======
+# Entoloma argentinum (Speg.) E. Horak SPECIES
 
 #### Status
 ACCEPTED

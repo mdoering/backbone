@@ -1,5 +1,4 @@
-Pyricularia juncicola MacGarvie, 1968 SPECIES
-=======
+# Pyricularia juncicola MacGarvie, 1968 SPECIES
 
 #### Status
 ACCEPTED

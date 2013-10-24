@@ -1,5 +1,4 @@
-Elongatella Solovieva, 1996 GENUS
-=======
+# Elongatella Solovieva, 1996 GENUS
 
 #### Status
 ACCEPTED

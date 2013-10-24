@@ -1,5 +1,4 @@
-Hypocrella scutula SPECIES
-=======
+# Hypocrella scutula SPECIES
 
 #### Status
 ACCEPTED

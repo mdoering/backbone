@@ -1,5 +1,4 @@
-Sporidesmium cellulosum Fr. SPECIES
-=======
+# Sporidesmium cellulosum Fr. SPECIES
 
 #### Status
 ACCEPTED

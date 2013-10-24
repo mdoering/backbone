@@ -1,5 +1,4 @@
-Collybia earleae (Murrill) Coker SPECIES
-=======
+# Collybia earleae (Murrill) Coker SPECIES
 
 #### Status
 ACCEPTED

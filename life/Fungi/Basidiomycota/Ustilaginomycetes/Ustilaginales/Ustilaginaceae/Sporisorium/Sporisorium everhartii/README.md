@@ -1,5 +1,4 @@
-Sporisorium everhartii (Ellis & Galloway) M. Piepenbr. SPECIES
-=======
+# Sporisorium everhartii (Ellis & Galloway) M. Piepenbr. SPECIES
 
 #### Status
 ACCEPTED

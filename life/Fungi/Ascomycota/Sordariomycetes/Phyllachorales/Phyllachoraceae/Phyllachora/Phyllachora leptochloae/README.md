@@ -1,5 +1,4 @@
-Phyllachora leptochloae Chardón, 1932 SPECIES
-=======
+# Phyllachora leptochloae Chardón, 1932 SPECIES
 
 #### Status
 ACCEPTED

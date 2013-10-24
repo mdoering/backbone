@@ -1,5 +1,4 @@
-Sordaria occidentalis Bat. & Pontual SPECIES
-=======
+# Sordaria occidentalis Bat. & Pontual SPECIES
 
 #### Status
 ACCEPTED

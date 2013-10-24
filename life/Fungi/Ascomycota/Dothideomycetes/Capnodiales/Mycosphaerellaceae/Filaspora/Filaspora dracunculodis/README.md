@@ -1,5 +1,4 @@
-Filaspora dracunculodis Ellis & Everh. SPECIES
-=======
+# Filaspora dracunculodis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

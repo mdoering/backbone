@@ -1,5 +1,4 @@
-Calicium pulverulentum Vain. SPECIES
-=======
+# Calicium pulverulentum Vain. SPECIES
 
 #### Status
 ACCEPTED

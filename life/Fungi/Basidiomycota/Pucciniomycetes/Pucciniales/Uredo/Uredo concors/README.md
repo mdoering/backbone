@@ -1,5 +1,4 @@
-Uredo concors Arthur SPECIES
-=======
+# Uredo concors Arthur SPECIES
 
 #### Status
 ACCEPTED

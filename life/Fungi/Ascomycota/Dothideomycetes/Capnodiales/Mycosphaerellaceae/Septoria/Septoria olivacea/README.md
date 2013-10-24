@@ -1,5 +1,4 @@
-Septoria olivacea Berk. & M.A. Curtis SPECIES
-=======
+# Septoria olivacea Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

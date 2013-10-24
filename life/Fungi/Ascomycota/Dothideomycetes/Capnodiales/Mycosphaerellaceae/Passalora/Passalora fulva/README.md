@@ -1,14 +1,13 @@
-Fulvia fulva (Cooke) Cif., 1954 SPECIES
-=======
+# Passalora fulva (Cooke) U. Braun & Crous, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Atti Ist. bot. Univ. Lab. crittog. Pavia, Sér. 5 10(1): 246 (1954)
+in Crous & Braun, CBS Diversity Ser. (Utrecht) 1: 453 (2003)
 
 #### Original name
 Cladosporium fulvum Cooke, 1878

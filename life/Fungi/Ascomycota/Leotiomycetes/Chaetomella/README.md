@@ -1,17 +1,16 @@
-Volutellospora Thirum. & P.N. Mathur GENUS
-=======
+# Chaetomella Fuckel, 1870 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Sydowia 18: 38 (1965)
+null
 
 #### Original name
-Volutellospora Thirum. & P.N. Mathur
+null
 
 ### Remarks
 null

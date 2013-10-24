@@ -1,5 +1,4 @@
-Didymosphaeria sauteri var. sauteri VARIETY
-=======
+# Didymosphaeria sauteri (Körb.) G. Winter SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Didymosphaeria sauteri var. sauteri
+null
 
 ### Remarks
 null

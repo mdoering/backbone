@@ -1,5 +1,4 @@
-Psathyrella neotropica A.H. Sm. SPECIES
-=======
+# Psathyrella neotropica A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

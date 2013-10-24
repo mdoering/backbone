@@ -1,5 +1,4 @@
-Lagynis Schultze, 1854 GENUS
-=======
+# Lagynis Schultze, 1854 GENUS
 
 #### Status
 ACCEPTED

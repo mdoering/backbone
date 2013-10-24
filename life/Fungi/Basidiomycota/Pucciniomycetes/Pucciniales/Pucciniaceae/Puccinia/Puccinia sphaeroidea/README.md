@@ -1,5 +1,4 @@
-Puccinia sphaeroidea Henn. SPECIES
-=======
+# Puccinia sphaeroidea Henn. SPECIES
 
 #### Status
 ACCEPTED

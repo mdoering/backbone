@@ -1,5 +1,4 @@
-Neohaplospora O. Kuntze, 1898 GENUS
-=======
+# Neohaplospora O. Kuntze, 1898 GENUS
 
 #### Status
 ACCEPTED

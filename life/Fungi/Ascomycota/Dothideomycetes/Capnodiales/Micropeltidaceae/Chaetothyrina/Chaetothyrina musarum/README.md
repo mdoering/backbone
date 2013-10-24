@@ -1,14 +1,13 @@
-Chaetothyrium musarum Speg., 1898 SPECIES
-=======
+# Chaetothyrina musarum (Speg.) Theiss., 1913 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Anal. Mus. nac. B. Aires, Ser. 2 6: 297 (1899)
+Annls mycol. 11(5): 495 (1913)
 
 #### Original name
 Chaetothyrium musarum Speg., 1898

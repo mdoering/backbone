@@ -1,5 +1,4 @@
-Lagynion Pascher, 1912 GENUS
-=======
+# Lagynion Pascher, 1912 GENUS
 
 #### Status
 ACCEPTED

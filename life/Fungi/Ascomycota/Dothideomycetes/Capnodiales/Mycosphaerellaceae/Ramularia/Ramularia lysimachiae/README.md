@@ -1,5 +1,4 @@
-Ramularia lysimachiae Thüm., 1874 SPECIES
-=======
+# Ramularia lysimachiae Thüm., 1874 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola canangae F. Stevens ex Hansf. SPECIES
-=======
+# Meliola canangae F. Stevens ex Hansf. SPECIES
 
 #### Status
 ACCEPTED

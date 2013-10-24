@@ -1,5 +1,4 @@
-Sphaerella wagnerae (Earle) Sacc. & Trotter SPECIES
-=======
+# Sphaerella wagnerae (Earle) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

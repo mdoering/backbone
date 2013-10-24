@@ -1,5 +1,4 @@
-Cercophora costaricensis (G.C. Carroll & Munk) O. Hilber & R. Hilber SPECIES
-=======
+# Cercophora costaricensis (G.C. Carroll & Munk) O. Hilber & R. Hilber SPECIES
 
 #### Status
 ACCEPTED

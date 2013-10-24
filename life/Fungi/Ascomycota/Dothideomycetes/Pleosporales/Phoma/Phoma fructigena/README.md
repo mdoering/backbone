@@ -1,5 +1,4 @@
-Phoma fructigena Brunaud SPECIES
-=======
+# Phoma fructigena Brunaud SPECIES
 
 #### Status
 ACCEPTED

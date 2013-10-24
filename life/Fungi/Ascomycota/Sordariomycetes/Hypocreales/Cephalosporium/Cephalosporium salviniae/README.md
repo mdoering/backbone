@@ -1,5 +1,4 @@
-Cephalosporium salviniae R.T. Jones & Frederick SPECIES
-=======
+# Cephalosporium salviniae R.T. Jones & Frederick SPECIES
 
 #### Status
 ACCEPTED

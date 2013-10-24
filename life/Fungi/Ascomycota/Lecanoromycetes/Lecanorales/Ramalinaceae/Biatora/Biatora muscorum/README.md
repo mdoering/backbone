@@ -1,5 +1,4 @@
-Biatora muscorum Hepp SPECIES
-=======
+# Biatora muscorum Hepp SPECIES
 
 #### Status
 ACCEPTED

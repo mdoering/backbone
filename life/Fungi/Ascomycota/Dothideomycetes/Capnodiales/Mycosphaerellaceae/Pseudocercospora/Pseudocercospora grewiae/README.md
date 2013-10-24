@@ -1,5 +1,4 @@
-Pseudocercospora grewiae (H.C. Srivast. & P.R. Mehta) X.J. Liu & Y.L. Guo SPECIES
-=======
+# Pseudocercospora grewiae (H.C. Srivast. & P.R. Mehta) X.J. Liu & Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

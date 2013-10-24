@@ -1,5 +1,4 @@
-Phyllostictina kamatii Golatkar SPECIES
-=======
+# Phyllostictina kamatii Golatkar SPECIES
 
 #### Status
 ACCEPTED

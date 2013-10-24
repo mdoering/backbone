@@ -1,5 +1,4 @@
-Phyllosticta danaes Pass. SPECIES
-=======
+# Phyllosticta danaes Pass. SPECIES
 
 #### Status
 ACCEPTED

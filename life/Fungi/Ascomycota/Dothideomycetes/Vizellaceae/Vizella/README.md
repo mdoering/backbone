@@ -1,17 +1,16 @@
-Phacopeltis Petch GENUS
-=======
+# Vizella Sacc. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 2: 662 (1883)
 
 #### Original name
-Phacopeltis Petch
+Vizella Sacc.
 
 ### Remarks
 null

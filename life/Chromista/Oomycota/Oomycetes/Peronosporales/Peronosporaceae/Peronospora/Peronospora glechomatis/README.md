@@ -1,5 +1,4 @@
-Peronospora glechomatis (Krieg.) T. Majewski SPECIES
-=======
+# Peronospora glechomatis (Krieg.) T. Majewski SPECIES
 
 #### Status
 ACCEPTED

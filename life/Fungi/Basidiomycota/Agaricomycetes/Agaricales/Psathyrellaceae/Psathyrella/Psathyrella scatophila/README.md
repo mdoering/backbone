@@ -1,5 +1,4 @@
-Psathyrella scatophila Örstadius & E. Larss. SPECIES
-=======
+# Psathyrella scatophila Örstadius & E. Larss. SPECIES
 
 #### Status
 ACCEPTED

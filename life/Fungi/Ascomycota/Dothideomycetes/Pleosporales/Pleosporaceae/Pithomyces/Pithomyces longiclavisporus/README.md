@@ -1,5 +1,4 @@
-Pithomyces longiclavisporus H.M. Liu & T.Y. Zhang SPECIES
-=======
+# Pithomyces longiclavisporus H.M. Liu & T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

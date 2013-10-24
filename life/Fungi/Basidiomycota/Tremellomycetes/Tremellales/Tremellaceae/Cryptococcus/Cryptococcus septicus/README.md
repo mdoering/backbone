@@ -1,5 +1,4 @@
-Cryptococcus septicus (Gaetano) C.W. Dodge SPECIES
-=======
+# Cryptococcus septicus (Gaetano) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

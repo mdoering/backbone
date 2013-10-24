@@ -1,5 +1,4 @@
-Lenzites thermophila O. Falck SPECIES
-=======
+# Lenzites thermophila O. Falck SPECIES
 
 #### Status
 ACCEPTED

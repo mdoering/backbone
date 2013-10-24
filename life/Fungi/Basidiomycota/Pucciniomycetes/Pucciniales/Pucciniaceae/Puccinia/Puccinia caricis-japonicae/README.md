@@ -1,5 +1,4 @@
-Puccinia caricis-japonicae Dietel SPECIES
-=======
+# Puccinia caricis-japonicae Dietel SPECIES
 
 #### Status
 ACCEPTED

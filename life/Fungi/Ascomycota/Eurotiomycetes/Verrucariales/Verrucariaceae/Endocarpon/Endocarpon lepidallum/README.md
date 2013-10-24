@@ -1,5 +1,4 @@
-Endocarpon lepidallum Nyl. SPECIES
-=======
+# Endocarpon lepidallum Nyl. SPECIES
 
 #### Status
 ACCEPTED

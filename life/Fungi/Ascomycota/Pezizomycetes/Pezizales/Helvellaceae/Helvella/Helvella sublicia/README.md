@@ -1,5 +1,4 @@
-Helvella sublicia Holmsk. SPECIES
-=======
+# Helvella sublicia Holmsk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gambierdiscus australes M. Faust & M. Chinain SPECIES
-=======
+# Gambierdiscus australes M. Faust & M. Chinain SPECIES
 
 #### Status
 ACCEPTED

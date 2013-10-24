@@ -1,5 +1,4 @@
-Polymorphomyces GENUS
-=======
+# Polymorphomyces GENUS
 
 #### Status
 ACCEPTED

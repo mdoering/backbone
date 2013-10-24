@@ -1,5 +1,4 @@
-Amoebidium appalachense Siri, M.M. White & Lichtw., 2006 SPECIES
-=======
+# Amoebidium appalachense Siri, M.M. White & Lichtw., 2006 SPECIES
 
 #### Status
 ACCEPTED

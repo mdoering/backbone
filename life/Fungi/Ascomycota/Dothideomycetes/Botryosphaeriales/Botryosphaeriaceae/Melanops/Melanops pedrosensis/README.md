@@ -1,5 +1,4 @@
-Melanops pedrosensis (Murrill) Singer SPECIES
-=======
+# Melanops pedrosensis (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

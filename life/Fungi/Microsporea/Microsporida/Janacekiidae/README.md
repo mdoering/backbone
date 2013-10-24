@@ -1,5 +1,4 @@
-Janacekiidae FAMILY
-=======
+# Janacekiidae FAMILY
 
 #### Status
 ACCEPTED

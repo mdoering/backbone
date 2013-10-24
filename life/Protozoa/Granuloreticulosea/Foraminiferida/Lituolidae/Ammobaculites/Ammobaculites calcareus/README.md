@@ -1,5 +1,4 @@
-Ammobaculites calcareus (Brady, 1884) SPECIES
-=======
+# Ammobaculites calcareus (Brady, 1884) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Opegrapha brigantina Hafellner SPECIES
-=======
+# Opegrapha brigantina Hafellner SPECIES
 
 #### Status
 ACCEPTED

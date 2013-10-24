@@ -1,5 +1,4 @@
-Spermatoloncha Speg. GENUS
-=======
+# Spermatoloncha Speg. GENUS
 
 #### Status
 ACCEPTED

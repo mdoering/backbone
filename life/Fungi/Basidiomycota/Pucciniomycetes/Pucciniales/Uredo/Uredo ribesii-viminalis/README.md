@@ -1,5 +1,4 @@
-Uredo ribesii-viminalis Arthur SPECIES
-=======
+# Uredo ribesii-viminalis Arthur SPECIES
 
 #### Status
 ACCEPTED

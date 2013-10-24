@@ -1,5 +1,4 @@
-Caloplaca tucumanensis H. Magn. SPECIES
-=======
+# Caloplaca tucumanensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Irenina pileae Hansf. SPECIES
-=======
+# Irenina pileae Hansf. SPECIES
 
 #### Status
 ACCEPTED

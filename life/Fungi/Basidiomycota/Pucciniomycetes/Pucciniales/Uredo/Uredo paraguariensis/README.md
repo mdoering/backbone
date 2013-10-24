@@ -1,5 +1,4 @@
-Uredo paraguariensis Speg. SPECIES
-=======
+# Uredo paraguariensis Speg. SPECIES
 
 #### Status
 ACCEPTED

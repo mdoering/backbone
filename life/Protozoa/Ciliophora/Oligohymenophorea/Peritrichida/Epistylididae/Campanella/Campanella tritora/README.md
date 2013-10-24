@@ -1,5 +1,4 @@
-Campanella tritora SPECIES
-=======
+# Campanella tritora SPECIES
 
 #### Status
 ACCEPTED

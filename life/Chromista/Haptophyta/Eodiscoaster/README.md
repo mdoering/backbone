@@ -1,5 +1,4 @@
-Eodiscoaster Martini GENUS
-=======
+# Eodiscoaster Martini GENUS
 
 #### Status
 ACCEPTED

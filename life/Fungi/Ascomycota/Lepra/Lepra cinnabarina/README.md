@@ -1,5 +1,4 @@
-Lepra cinnabarina (Baumgartner) Humb. SPECIES
-=======
+# Lepra cinnabarina (Baumgartner) Humb. SPECIES
 
 #### Status
 ACCEPTED

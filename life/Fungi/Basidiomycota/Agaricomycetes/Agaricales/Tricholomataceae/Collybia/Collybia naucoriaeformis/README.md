@@ -1,5 +1,4 @@
-Collybia naucoriaeformis Velen. SPECIES
-=======
+# Collybia naucoriaeformis Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anthostomella uberiformis Rehm SPECIES
-=======
+# Anthostomella uberiformis Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tricholoma fuegianum Courtec. SPECIES
-=======
+# Tricholoma fuegianum Courtec. SPECIES
 
 #### Status
 ACCEPTED

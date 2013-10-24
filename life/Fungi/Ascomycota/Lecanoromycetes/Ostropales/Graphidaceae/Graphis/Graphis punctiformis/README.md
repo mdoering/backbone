@@ -1,5 +1,4 @@
-Graphis punctiformis (Eschw.) Nyl. SPECIES
-=======
+# Graphis punctiformis (Eschw.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

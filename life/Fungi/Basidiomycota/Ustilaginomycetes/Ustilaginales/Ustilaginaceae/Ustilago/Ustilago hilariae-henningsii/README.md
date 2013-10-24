@@ -1,5 +1,4 @@
-Ustilago hilariae-henningsii M. Piepenbr. SPECIES
-=======
+# Ustilago hilariae-henningsii M. Piepenbr. SPECIES
 
 #### Status
 ACCEPTED

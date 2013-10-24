@@ -1,5 +1,4 @@
-Laevipeneroplis karreri (Wiesner, 1923) SPECIES
-=======
+# Laevipeneroplis karreri (Wiesner, 1923) SPECIES
 
 #### Status
 ACCEPTED

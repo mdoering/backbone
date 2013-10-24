@@ -1,17 +1,16 @@
-Nemaria fuciformis (L.) Navàs SPECIES
-=======
+# Roccella fuciformis (L.) DC. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Lamarck & de Candolle, Fl. franç. (Paris), Edn 3 2: 335 (1805)
 
 #### Original name
-Lichen fuciformis L.
+Roccella fuciformis (L.) DC.
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Lecanora atriseda var. atriseda VARIETY
-=======
+# Protoparmelia atriseda (Fr.) R. Sant. & V. Wirth SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Wirth, Die Flechten Baden-Württembergs. Verbreitungsatlas (Stuttgart) 511 (1987)
 
 #### Original name
-Lecanora atriseda var. atriseda
+Parmelia badia var. atriseda Fr.
 
 ### Remarks
 null

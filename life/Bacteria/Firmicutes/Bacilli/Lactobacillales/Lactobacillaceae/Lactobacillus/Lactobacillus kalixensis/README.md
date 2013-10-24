@@ -1,5 +1,4 @@
-Lactobacillus kalixensis Roos et al., 2005 SPECIES
-=======
+# Lactobacillus kalixensis Roos et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

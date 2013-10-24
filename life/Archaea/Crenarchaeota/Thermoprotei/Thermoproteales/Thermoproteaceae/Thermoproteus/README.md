@@ -1,5 +1,4 @@
-Thermoproteus Zillig & Stetter, 1982 GENUS
-=======
+# Thermoproteus Zillig & Stetter, 1982 GENUS
 
 #### Status
 ACCEPTED

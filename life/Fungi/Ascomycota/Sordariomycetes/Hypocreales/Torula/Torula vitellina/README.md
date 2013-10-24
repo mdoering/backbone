@@ -1,5 +1,4 @@
-Torula vitellina Preuss SPECIES
-=======
+# Torula vitellina Preuss SPECIES
 
 #### Status
 ACCEPTED

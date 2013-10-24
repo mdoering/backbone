@@ -1,5 +1,4 @@
-Cercospora capitati Tharp SPECIES
-=======
+# Cercospora capitati Tharp SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microgloeum urediniforme (Speg.) Arx SPECIES
-=======
+# Microgloeum urediniforme (Speg.) Arx SPECIES
 
 #### Status
 ACCEPTED

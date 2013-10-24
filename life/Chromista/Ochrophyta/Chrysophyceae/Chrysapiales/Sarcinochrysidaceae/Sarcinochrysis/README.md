@@ -1,5 +1,4 @@
-Sarcinochrysis Geitler, 1930 GENUS
-=======
+# Sarcinochrysis Geitler, 1930 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Myxosporium tumescens E. Bommer, M. Rousseau & Sacc. SPECIES
-=======
+# Myxosporium tumescens E. Bommer, M. Rousseau & Sacc. SPECIES
 
 #### Status
 ACCEPTED

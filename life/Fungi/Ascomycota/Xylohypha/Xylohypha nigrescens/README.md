@@ -1,17 +1,16 @@
-Trichoderma caesium Pers. SPECIES
-=======
+# Xylohypha nigrescens (Pers.) E.W. Mason, 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Neues Mag. Bot. 1: 92 (1794)
+in Deighton, Mycol. Pap. 78: 43 (1960)
 
 #### Original name
-Trichoderma caesium Pers.
+Hyphelia nigrescens Pers., 1801
 
 ### Remarks
 null

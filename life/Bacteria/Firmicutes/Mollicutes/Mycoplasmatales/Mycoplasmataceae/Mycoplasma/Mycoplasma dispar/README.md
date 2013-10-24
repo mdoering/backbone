@@ -1,5 +1,4 @@
-Mycoplasma dispar Gourlay and Leach, 1970 (Approved Lists, 1980) SPECIES
-=======
+# Mycoplasma dispar Gourlay and Leach, 1970 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

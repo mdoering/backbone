@@ -1,17 +1,16 @@
-Dothidea hymenicola Berk. & Broome SPECIES
-=======
+# Dothidea hymeniicola Berk. & Broome SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ann. Mag. nat. Hist. , Ser. 2 9: no. 660 (1852)
 
 #### Original name
-Dothidea hymenicola Berk. & Broome
+Dothidea hymeniicola Berk. & Broome
 
 ### Remarks
 null

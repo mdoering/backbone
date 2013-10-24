@@ -1,5 +1,4 @@
-Lembosia stevensii Hansf. SPECIES
-=======
+# Lembosia stevensii Hansf. SPECIES
 
 #### Status
 ACCEPTED

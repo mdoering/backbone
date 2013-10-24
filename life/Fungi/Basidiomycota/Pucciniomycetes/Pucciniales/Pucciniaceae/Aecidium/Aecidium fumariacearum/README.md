@@ -1,5 +1,4 @@
-Aecidium fumariacearum Kellerm. & Swingle SPECIES
-=======
+# Aecidium fumariacearum Kellerm. & Swingle SPECIES
 
 #### Status
 ACCEPTED

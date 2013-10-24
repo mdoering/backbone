@@ -1,5 +1,4 @@
-Jarmania scoliciosporoides Kantvilas SPECIES
-=======
+# Jarmania scoliciosporoides Kantvilas SPECIES
 
 #### Status
 ACCEPTED

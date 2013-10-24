@@ -1,5 +1,4 @@
-Theocampe Haeckel, 1887 GENUS
-=======
+# Theocampe Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

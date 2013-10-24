@@ -1,5 +1,4 @@
-Epipyxis mucicola (Pascher) Hill. & Ash. SPECIES
-=======
+# Epipyxis mucicola (Pascher) Hill. & Ash. SPECIES
 
 #### Status
 ACCEPTED

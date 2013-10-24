@@ -1,5 +1,4 @@
-Hymenogaster minimus Zeller SPECIES
-=======
+# Hymenogaster minimus Zeller SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptogium indicum D. D. Awasthi SPECIES
-=======
+# Leptogium indicum D. D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Opegrapha megagonidia C. Knight SPECIES
-=======
+# Opegrapha megagonidia C. Knight SPECIES
 
 #### Status
 ACCEPTED

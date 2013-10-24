@@ -1,5 +1,4 @@
-Phyllosticta sumbaviae Syd. SPECIES
-=======
+# Phyllosticta sumbaviae Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Plagiocampa margaritata Kahl, 1930 SPECIES
-=======
+# Plagiocampa margaritata Kahl, 1930 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea reagens SPECIES
-=======
+# Lecidea reagens SPECIES
 
 #### Status
 ACCEPTED

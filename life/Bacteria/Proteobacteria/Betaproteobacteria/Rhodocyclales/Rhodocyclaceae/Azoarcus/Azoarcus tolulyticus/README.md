@@ -1,5 +1,4 @@
-Azoarcus tolulyticus Zhou et al., 1995 SPECIES
-=======
+# Azoarcus tolulyticus Zhou et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

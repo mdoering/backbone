@@ -1,5 +1,4 @@
-Isaria arborea Pat. SPECIES
-=======
+# Isaria arborea Pat. SPECIES
 
 #### Status
 ACCEPTED

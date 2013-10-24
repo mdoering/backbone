@@ -1,5 +1,4 @@
-Alternaria nashi Miura SPECIES
-=======
+# Alternaria nashi Miura SPECIES
 
 #### Status
 ACCEPTED

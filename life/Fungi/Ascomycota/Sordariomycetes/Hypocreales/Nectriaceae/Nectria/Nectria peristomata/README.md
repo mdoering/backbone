@@ -1,5 +1,4 @@
-Nectria peristomata Zimm. SPECIES
-=======
+# Nectria peristomata Zimm. SPECIES
 
 #### Status
 ACCEPTED

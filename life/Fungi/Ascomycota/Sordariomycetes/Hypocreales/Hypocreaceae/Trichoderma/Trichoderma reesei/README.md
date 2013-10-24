@@ -1,5 +1,4 @@
-Trichoderma reesei E.G. Simmons, 1977 SPECIES
-=======
+# Trichoderma reesei E.G. Simmons, 1977 SPECIES
 
 #### Status
 ACCEPTED

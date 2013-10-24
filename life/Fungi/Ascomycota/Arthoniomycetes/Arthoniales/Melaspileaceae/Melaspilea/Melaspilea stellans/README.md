@@ -1,5 +1,4 @@
-Melaspilea stellans Zahlbr. SPECIES
-=======
+# Melaspilea stellans Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

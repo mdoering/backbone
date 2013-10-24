@@ -1,5 +1,4 @@
-Physalospora punctulata I. Hino & Katum. SPECIES
-=======
+# Physalospora punctulata I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hebeloma pumiloides var. pumiloides VARIETY
-=======
+# Hebeloma pumiloides A.H. Sm., V.S. Evenson & Mitchel SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Veiled species of Hebeloma in the western United States (Ann Arbor) 176 (1983)
 
 #### Original name
-Hebeloma pumiloides var. pumiloides
+Hebeloma pumiloides A.H. Sm., V.S. Evenson & Mitchel
 
 ### Remarks
 null

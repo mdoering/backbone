@@ -1,5 +1,4 @@
-Corticium canfieldii (M.J. Larsen & Gilb.) Boidin & Lanq., 1983 SPECIES
-=======
+# Corticium canfieldii (M.J. Larsen & Gilb.) Boidin & Lanq., 1983 SPECIES
 
 #### Status
 ACCEPTED

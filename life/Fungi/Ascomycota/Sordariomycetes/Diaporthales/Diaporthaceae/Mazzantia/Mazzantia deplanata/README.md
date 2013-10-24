@@ -1,14 +1,13 @@
-Phyllachora deplanata (De Not.) Cooke, 1885 SPECIES
-=======
+# Mazzantia deplanata De Not., 1867 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 13(no. 67): 67 (1885)
+Comm. Soc. crittog. Ital. 2(3): 490 (1867)
 
 #### Original name
 Mazzantia deplanata De Not., 1867

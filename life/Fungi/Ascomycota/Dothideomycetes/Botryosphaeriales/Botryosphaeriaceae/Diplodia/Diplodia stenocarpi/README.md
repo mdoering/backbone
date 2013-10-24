@@ -1,5 +1,4 @@
-Diplodia stenocarpi Tassi SPECIES
-=======
+# Diplodia stenocarpi Tassi SPECIES
 
 #### Status
 ACCEPTED

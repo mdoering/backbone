@@ -1,8 +1,7 @@
-Tryblidium occidentale Tracy & Earle SPECIES
-=======
+# Triblidium occidentale Tracy & Earle SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Tryblidium occidentale Tracy & Earle
+Triblidium occidentale Tracy & Earle
 
 ### Remarks
 null

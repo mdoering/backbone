@@ -1,5 +1,4 @@
-Tetraporina cornigera Kondratyev, 1963 SPECIES
-=======
+# Tetraporina cornigera Kondratyev, 1963 SPECIES
 
 #### Status
 ACCEPTED

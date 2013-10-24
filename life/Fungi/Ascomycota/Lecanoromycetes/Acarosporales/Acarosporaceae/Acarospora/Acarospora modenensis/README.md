@@ -1,5 +1,4 @@
-Acarospora modenensis H. Magn. SPECIES
-=======
+# Acarospora modenensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

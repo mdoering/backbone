@@ -1,17 +1,16 @@
-Parmelia conspersa var. pulvinaris Zahlbr. ex Gyelnik VARIETY
-=======
+# Xanthoparmelia pseudohungarica (Gyeln.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 33: 405 (1988)
 
 #### Original name
-null
+Parmelia convoluta var. pseudohungarica Gyeln.
 
 ### Remarks
 null

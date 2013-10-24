@@ -1,17 +1,16 @@
-Hendersonia coletiae Sousa da Câmara SPECIES
-=======
+# Hendersonia colletiae Sousa da Câmara SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Agron. lusit. 9(2): 114 (1947)
 
 #### Original name
-Hendersonia coletiae Sousa da Câmara
+Hendersonia colletiae Sousa da Câmara
 
 ### Remarks
 null

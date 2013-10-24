@@ -1,5 +1,4 @@
-Leptogium erectum Sierk SPECIES
-=======
+# Leptogium erectum Sierk SPECIES
 
 #### Status
 ACCEPTED

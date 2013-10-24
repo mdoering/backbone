@@ -1,17 +1,16 @@
-Opegrapha pulverulenta var. pulverulenta VARIETY
-=======
+# Opegrapha pulverulenta SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
-Ann. Bot. (Usteri) 1: 29 (1794)
+null
 
 #### Original name
-Opegrapha pulverulenta var. pulverulenta
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Phloeospora osmaroniae Bubák SPECIES
-=======
+# Phloeospora osmaroniae Bubák SPECIES
 
 #### Status
 ACCEPTED

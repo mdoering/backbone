@@ -1,5 +1,4 @@
-Microthyriacites quercus Straus SPECIES
-=======
+# Microthyriacites quercus Straus SPECIES
 
 #### Status
 ACCEPTED

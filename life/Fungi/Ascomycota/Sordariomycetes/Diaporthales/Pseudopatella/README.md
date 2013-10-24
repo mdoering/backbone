@@ -1,5 +1,4 @@
-Pseudopatella GENUS
-=======
+# Pseudopatella GENUS
 
 #### Status
 ACCEPTED

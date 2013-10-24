@@ -1,5 +1,4 @@
-Pleurotus hemiphlebius (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Pleurotus hemiphlebius (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

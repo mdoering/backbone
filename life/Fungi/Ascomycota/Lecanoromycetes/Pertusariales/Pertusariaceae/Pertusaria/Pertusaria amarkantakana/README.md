@@ -1,5 +1,4 @@
-Pertusaria amarkantakana Preeti Srivast. & D.D. Awasthi SPECIES
-=======
+# Pertusaria amarkantakana Preeti Srivast. & D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

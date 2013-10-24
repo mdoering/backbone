@@ -1,5 +1,4 @@
-Macrophoma populi (Peck) Tassi SPECIES
-=======
+# Macrophoma populi (Peck) Tassi SPECIES
 
 #### Status
 ACCEPTED

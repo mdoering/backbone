@@ -1,17 +1,16 @@
-Parmelia caraccensis f. caraccensis FORM
-=======
+# Hypotrachyna caraccensis (Taylor) Hale SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Smithson. Contr. bot. 25: 26 (1975)
 
 #### Original name
-Parmelia caraccensis f. caraccensis
+Parmelia caraccensis Taylor
 
 ### Remarks
 null

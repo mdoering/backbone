@@ -1,5 +1,4 @@
-Propionigenium modestum Schink & Pfennig, 1983 SPECIES
-=======
+# Propionigenium modestum Schink & Pfennig, 1983 SPECIES
 
 #### Status
 ACCEPTED

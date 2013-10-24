@@ -1,5 +1,4 @@
-Pseudomycena dentata Velen. SPECIES
-=======
+# Pseudomycena dentata Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dicaeoma oreoselini (F. Strauss) Kuntze SPECIES
-=======
+# Dicaeoma oreoselini (F. Strauss) Kuntze SPECIES
 
 #### Status
 ACCEPTED

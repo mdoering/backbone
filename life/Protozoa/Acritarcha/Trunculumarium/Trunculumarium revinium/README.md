@@ -1,5 +1,4 @@
-Trunculumarium revinium (Vanguestaine, 1973) Loeblich & Tappan, 1976 SPECIES
-=======
+# Trunculumarium revinium (Vanguestaine, 1973) Loeblich & Tappan, 1976 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Callopisma asserigenum J. Lahm SPECIES
-=======
+# Caloplaca asserigena (J. Lahm) Della Torre & Sarnth. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Jahres-Ber. Westfäl. Prov. -Vereins 21: 107 (1883)
+Die Flecht. Tirol 196 (1909)
 
 #### Original name
 Callopisma asserigenum J. Lahm

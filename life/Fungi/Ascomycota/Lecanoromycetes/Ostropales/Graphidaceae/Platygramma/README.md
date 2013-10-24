@@ -1,5 +1,4 @@
-Platygramma GENUS
-=======
+# Platygramma GENUS
 
 #### Status
 ACCEPTED

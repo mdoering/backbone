@@ -1,5 +1,4 @@
-Desulfonema limicola Widdel, 1981 SPECIES
-=======
+# Desulfonema limicola Widdel, 1981 SPECIES
 
 #### Status
 ACCEPTED

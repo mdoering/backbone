@@ -1,5 +1,4 @@
-Boletus asbestinus Scop. SPECIES
-=======
+# Boletus asbestinus Scop. SPECIES
 
 #### Status
 ACCEPTED

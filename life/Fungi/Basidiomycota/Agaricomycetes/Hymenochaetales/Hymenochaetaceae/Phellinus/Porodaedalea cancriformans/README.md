@@ -1,14 +1,13 @@
-Phellinus cancriformans (M.J. Larsen, Lombard & Aho) M.J. Larsen & Lombard, 1990 SPECIES
-=======
+# Porodaedalea cancriformans (M.J. Larsen, Lombard & Aho) T. Wagner & M. Fisch., 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Nordstein, Syn. Fung. (Oslo) 2: 43 (1990)
+Mycologia 94(6): 1012 (2002)
 
 #### Original name
 Phellinus pini var. cancriformans M.J. Larsen, Lombard & Aho, 1979

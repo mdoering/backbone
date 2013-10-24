@@ -1,5 +1,4 @@
-Xanthoria tenuiloba L. Lindblom SPECIES
-=======
+# Xanthoria tenuiloba L. Lindblom SPECIES
 
 #### Status
 ACCEPTED

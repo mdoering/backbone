@@ -1,5 +1,4 @@
-Phlebiella aurobispora (Boidin & Gilles) Hjortstam & K.H. Larss. SPECIES
-=======
+# Phlebiella aurobispora (Boidin & Gilles) Hjortstam & K.H. Larss. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Erysiphe euphorbiicola U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe euphorbiicola U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

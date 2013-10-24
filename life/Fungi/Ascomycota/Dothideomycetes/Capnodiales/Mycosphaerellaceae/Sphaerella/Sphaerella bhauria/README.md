@@ -1,5 +1,4 @@
-Sphaerella bhauria Cooke SPECIES
-=======
+# Sphaerella bhauria Cooke SPECIES
 
 #### Status
 ACCEPTED

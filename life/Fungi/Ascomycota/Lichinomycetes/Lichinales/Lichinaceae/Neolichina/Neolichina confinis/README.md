@@ -1,5 +1,4 @@
-Neolichina confinis SPECIES
-=======
+# Neolichina confinis SPECIES
 
 #### Status
 ACCEPTED

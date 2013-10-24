@@ -1,5 +1,4 @@
-Parmelia vestitula Zahlbr. SPECIES
-=======
+# Parmelia vestitula Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

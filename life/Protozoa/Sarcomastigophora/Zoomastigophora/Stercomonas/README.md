@@ -1,5 +1,4 @@
-Stercomonas Penso, 1932 GENUS
-=======
+# Stercomonas Penso, 1932 GENUS
 
 #### Status
 ACCEPTED

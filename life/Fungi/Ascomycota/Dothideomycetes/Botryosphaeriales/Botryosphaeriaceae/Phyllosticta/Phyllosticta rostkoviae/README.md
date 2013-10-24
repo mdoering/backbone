@@ -1,5 +1,4 @@
-Phyllosticta rostkoviae Speg. SPECIES
-=======
+# Phyllosticta rostkoviae Speg. SPECIES
 
 #### Status
 ACCEPTED

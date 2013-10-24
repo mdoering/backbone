@@ -1,5 +1,4 @@
-Paramonadaceae FAMILY
-=======
+# Paramonadaceae FAMILY
 
 #### Status
 ACCEPTED

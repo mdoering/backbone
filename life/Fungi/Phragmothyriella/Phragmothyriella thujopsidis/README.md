@@ -1,5 +1,4 @@
-Phragmothyriella thujopsidis Sawada SPECIES
-=======
+# Phragmothyriella thujopsidis Sawada SPECIES
 
 #### Status
 ACCEPTED

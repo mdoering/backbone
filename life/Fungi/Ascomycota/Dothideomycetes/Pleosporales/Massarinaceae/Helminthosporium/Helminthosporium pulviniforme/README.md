@@ -1,17 +1,16 @@
-Helmisporium pulviniforme Syd. & P. Syd. SPECIES
-=======
+# Helminthosporium pulviniforme Syd. & P. Syd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 14(5): 373 (1916)
 
 #### Original name
-Helmisporium pulviniforme Syd. & P. Syd.
+Helminthosporium pulviniforme Syd. & P. Syd.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Detonula schroederi (Bergon) Gran, 1905 SPECIES
-=======
+# Detonula schroederi (Bergon) Gran, 1905 SPECIES
 
 #### Status
 ACCEPTED

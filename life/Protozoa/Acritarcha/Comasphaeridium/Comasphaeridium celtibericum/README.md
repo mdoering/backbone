@@ -1,5 +1,4 @@
-Comasphaeridium celtibericum Wolf, 1980 in Mette, 1989 SPECIES
-=======
+# Comasphaeridium celtibericum Wolf, 1980 in Mette, 1989 SPECIES
 
 #### Status
 ACCEPTED

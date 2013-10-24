@@ -1,5 +1,4 @@
-Nimbospora octonae Kohlm., 1985 SPECIES
-=======
+# Nimbospora octonae Kohlm., 1985 SPECIES
 
 #### Status
 ACCEPTED

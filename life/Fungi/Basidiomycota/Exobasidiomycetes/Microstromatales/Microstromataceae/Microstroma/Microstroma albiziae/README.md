@@ -1,17 +1,16 @@
-Microstroma albizziae Syd. & P. Syd. SPECIES
-=======
+# Microstroma albiziae Syd. & P. Syd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 12(3): 263 (1914)
 
 #### Original name
-Microstroma albizziae Syd. & P. Syd.
+Microstroma albiziae Syd. & P. Syd.
 
 ### Remarks
 null

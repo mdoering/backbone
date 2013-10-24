@@ -1,5 +1,4 @@
-Phacus platyaulax Pochmann SPECIES
-=======
+# Phacus platyaulax Pochmann SPECIES
 
 #### Status
 ACCEPTED

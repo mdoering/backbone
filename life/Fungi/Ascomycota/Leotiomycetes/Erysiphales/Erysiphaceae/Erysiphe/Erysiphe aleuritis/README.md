@@ -1,5 +1,4 @@
-Erysiphe aleuritis (C.T. Wei) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe aleuritis (C.T. Wei) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sticta coriifolia var. coriifolia VARIETY
-=======
+# Sticta coriifolia (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Cat. Lich. Univers. 3: 375 (1925)
 
 #### Original name
-Sticta coriifolia var. coriifolia
+Stictina coriifolia Müll. Arg.
 
 ### Remarks
 null

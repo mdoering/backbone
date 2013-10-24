@@ -1,5 +1,4 @@
-Sporidesmium bombacis M.B. Ellis, 1958 SPECIES
-=======
+# Sporidesmium bombacis M.B. Ellis, 1958 SPECIES
 
 #### Status
 ACCEPTED

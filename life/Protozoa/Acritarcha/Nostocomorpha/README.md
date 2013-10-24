@@ -1,5 +1,4 @@
-Nostocomorpha Sin & Liu, 1978 GENUS
-=======
+# Nostocomorpha Sin & Liu, 1978 GENUS
 
 #### Status
 ACCEPTED

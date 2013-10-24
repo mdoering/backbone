@@ -1,5 +1,4 @@
-Striatomarginis B.Prins ex A.P.Rood, 1973 GENUS
-=======
+# Striatomarginis B.Prins ex A.P.Rood, 1973 GENUS
 
 #### Status
 ACCEPTED

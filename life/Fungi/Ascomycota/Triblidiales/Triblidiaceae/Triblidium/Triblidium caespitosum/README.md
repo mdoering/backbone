@@ -1,17 +1,16 @@
-Tryblidium caespitosum Cooke & Massee SPECIES
-=======
+# Triblidium caespitosum Cooke & Massee SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Grevillea 16(no. 77): 4 (1887)
 
 #### Original name
-Tryblidium caespitosum Cooke & Massee
+Triblidium caespitosum Cooke & Massee
 
 ### Remarks
 null

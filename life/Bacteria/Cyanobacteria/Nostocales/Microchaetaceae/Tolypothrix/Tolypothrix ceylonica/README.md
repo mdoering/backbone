@@ -1,5 +1,4 @@
-Tolypothrix ceylonica Schmidle SPECIES
-=======
+# Tolypothrix ceylonica Schmidle SPECIES
 
 #### Status
 ACCEPTED

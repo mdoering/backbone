@@ -1,5 +1,4 @@
-Pestalotia pycnoides J.V. Almeida & Sousa da Câmara SPECIES
-=======
+# Pestalotia pycnoides J.V. Almeida & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

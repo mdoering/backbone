@@ -1,5 +1,4 @@
-Scyphidia Dujardin, 1841 GENUS
-=======
+# Scyphidia Dujardin, 1841 GENUS
 
 #### Status
 ACCEPTED

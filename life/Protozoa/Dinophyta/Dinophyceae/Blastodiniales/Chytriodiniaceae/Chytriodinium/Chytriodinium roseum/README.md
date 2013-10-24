@@ -1,5 +1,4 @@
-Chytriodinium roseum (Dogiel) Chatton SPECIES
-=======
+# Chytriodinium roseum (Dogiel) Chatton SPECIES
 
 #### Status
 ACCEPTED

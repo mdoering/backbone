@@ -1,5 +1,4 @@
-Navicella collina (Speg.) Kuntze SPECIES
-=======
+# Navicella collina (Speg.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

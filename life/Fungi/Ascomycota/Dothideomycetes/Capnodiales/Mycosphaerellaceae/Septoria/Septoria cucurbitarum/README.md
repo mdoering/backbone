@@ -1,5 +1,4 @@
-Septoria cucurbitarum Berk. & M.A. Curtis SPECIES
-=======
+# Septoria cucurbitarum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

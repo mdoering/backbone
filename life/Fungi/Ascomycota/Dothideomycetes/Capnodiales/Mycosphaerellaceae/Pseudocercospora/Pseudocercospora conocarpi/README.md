@@ -1,5 +1,4 @@
-Pseudocercospora conocarpi N. Pons, U. Braun & Crous SPECIES
-=======
+# Pseudocercospora conocarpi N. Pons, U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

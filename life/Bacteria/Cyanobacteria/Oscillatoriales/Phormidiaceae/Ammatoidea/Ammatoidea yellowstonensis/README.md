@@ -1,5 +1,4 @@
-Ammatoidea yellowstonensis J. J. Copeland SPECIES
-=======
+# Ammatoidea yellowstonensis J. J. Copeland SPECIES
 
 #### Status
 ACCEPTED

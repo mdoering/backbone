@@ -1,5 +1,4 @@
-Macrosporium uredinis Ellis & Barthol. SPECIES
-=======
+# Macrosporium uredinis Ellis & Barthol. SPECIES
 
 #### Status
 ACCEPTED

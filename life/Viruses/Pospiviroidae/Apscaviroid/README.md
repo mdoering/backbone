@@ -1,11 +1,10 @@
-Grapevine yellow speckle viroid 1 INFRASPECIFIC_NAME
-=======
+# Apscaviroid: GENUS
 
 #### Status
 ACCEPTED
 
 #### According to
-ICTV Master Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

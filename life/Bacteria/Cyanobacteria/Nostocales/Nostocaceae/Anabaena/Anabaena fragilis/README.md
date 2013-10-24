@@ -1,5 +1,4 @@
-Anabaena fragilis Meneghini SPECIES
-=======
+# Anabaena fragilis Meneghini SPECIES
 
 #### Status
 ACCEPTED

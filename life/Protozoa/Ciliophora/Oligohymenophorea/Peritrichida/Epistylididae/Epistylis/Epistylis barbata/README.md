@@ -1,5 +1,4 @@
-Epistylis barbata Gourret & Roeser, 1886 SPECIES
-=======
+# Epistylis barbata Gourret & Roeser, 1886 SPECIES
 
 #### Status
 ACCEPTED

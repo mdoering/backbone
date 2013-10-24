@@ -1,5 +1,4 @@
-Pyrenopeziza sedi (Rehm) Nannf. SPECIES
-=======
+# Pyrenopeziza sedi (Rehm) Nannf. SPECIES
 
 #### Status
 ACCEPTED

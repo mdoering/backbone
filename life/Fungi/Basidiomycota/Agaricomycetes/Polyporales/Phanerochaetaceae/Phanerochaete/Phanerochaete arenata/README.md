@@ -1,14 +1,13 @@
-Peniophora arenata P.H.B. Talbot, 1948 SPECIES
-=======
+# Phanerochaete arenata (P.H.B. Talbot) Jülich, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bothalia 4(4): 944 (1948)
+Persoonia 10(3): 334 (1979)
 
 #### Original name
 Peniophora arenata P.H.B. Talbot, 1948

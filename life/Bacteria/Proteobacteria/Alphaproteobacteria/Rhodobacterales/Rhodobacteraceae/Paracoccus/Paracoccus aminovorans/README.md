@@ -1,5 +1,4 @@
-Paracoccus aminovorans Urakami et al., 1990 SPECIES
-=======
+# Paracoccus aminovorans Urakami et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

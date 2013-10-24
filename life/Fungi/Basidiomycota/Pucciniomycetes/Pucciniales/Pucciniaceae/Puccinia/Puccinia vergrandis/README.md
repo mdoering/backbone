@@ -1,5 +1,4 @@
-Puccinia vergrandis Arthur & Holw. SPECIES
-=======
+# Puccinia vergrandis Arthur & Holw. SPECIES
 
 #### Status
 ACCEPTED

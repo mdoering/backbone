@@ -1,5 +1,4 @@
-Uromyces solidus Berk. & M.A. Curtis SPECIES
-=======
+# Uromyces solidus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

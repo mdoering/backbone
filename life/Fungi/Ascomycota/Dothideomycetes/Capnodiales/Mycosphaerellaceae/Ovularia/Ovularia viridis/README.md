@@ -1,5 +1,4 @@
-Ovularia viridis Golovin SPECIES
-=======
+# Ovularia viridis Golovin SPECIES
 
 #### Status
 ACCEPTED

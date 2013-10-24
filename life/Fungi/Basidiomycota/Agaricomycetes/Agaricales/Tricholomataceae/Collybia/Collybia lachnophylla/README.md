@@ -1,5 +1,4 @@
-Collybia lachnophylla Berk. SPECIES
-=======
+# Collybia lachnophylla Berk. SPECIES
 
 #### Status
 ACCEPTED

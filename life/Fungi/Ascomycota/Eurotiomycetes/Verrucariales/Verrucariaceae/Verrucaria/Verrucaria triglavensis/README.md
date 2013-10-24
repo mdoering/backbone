@@ -1,5 +1,4 @@
-Verrucaria triglavensis Servít SPECIES
-=======
+# Verrucaria triglavensis Servít SPECIES
 
 #### Status
 ACCEPTED

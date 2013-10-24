@@ -1,14 +1,13 @@
-Cordyceps valvatistipitata Kobayasi, 1960 SPECIES
-=======
+# Elaphocordyceps valvatistipitata (Kobayasi) G.H. Sung, J.M. Sung & Spatafora, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Nat. Sci. Mus. Tokyo 5(2, no. 47): 81 (1960)
+in Sung, Hywel-Jones, Sung, Luangsa-ard, Shrestha & Spatafora, Stud. Mycol. 57: 38 (2007)
 
 #### Original name
 Cordyceps valvatistipitata Kobayasi, 1960

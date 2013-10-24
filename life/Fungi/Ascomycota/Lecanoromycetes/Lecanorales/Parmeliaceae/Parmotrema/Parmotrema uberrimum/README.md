@@ -1,5 +1,4 @@
-Parmotrema uberrimum (Hue) Hale SPECIES
-=======
+# Parmotrema uberrimum (Hue) Hale SPECIES
 
 #### Status
 ACCEPTED

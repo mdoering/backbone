@@ -1,5 +1,4 @@
-Hendersonia hymenaeae Bat. & Peres SPECIES
-=======
+# Hendersonia hymenaeae Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

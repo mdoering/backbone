@@ -1,5 +1,4 @@
-Microthyrium crassum Rehm SPECIES
-=======
+# Microthyrium crassum Rehm SPECIES
 
 #### Status
 ACCEPTED

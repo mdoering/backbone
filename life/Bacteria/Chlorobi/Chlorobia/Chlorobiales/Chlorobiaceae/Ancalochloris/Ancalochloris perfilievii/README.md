@@ -1,5 +1,4 @@
-Ancalochloris perfilievii Gorlenko and Lebedeva, 1971 (Approved Lists, 1980) SPECIES
-=======
+# Ancalochloris perfilievii Gorlenko and Lebedeva, 1971 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Discosphaerina lonicerae (Dearn. & Barthol.) L. Holm, K. Holm & M.E. Barr SPECIES
-=======
+# Discosphaerina lonicerae (Dearn. & Barthol.) L. Holm, K. Holm & M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

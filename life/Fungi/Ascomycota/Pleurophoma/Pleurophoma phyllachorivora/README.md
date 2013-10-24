@@ -1,5 +1,4 @@
-Pleurophoma phyllachorivora Petr., 1922 SPECIES
-=======
+# Pleurophoma phyllachorivora Petr., 1922 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coriolus armoraceus (Berk.) Pat. SPECIES
-=======
+# Coriolus armoraceus (Berk.) Pat. SPECIES
 
 #### Status
 ACCEPTED

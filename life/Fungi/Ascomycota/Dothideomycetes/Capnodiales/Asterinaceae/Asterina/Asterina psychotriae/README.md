@@ -1,5 +1,4 @@
-Asterina psychotriae R.W. Ryan SPECIES
-=======
+# Asterina psychotriae R.W. Ryan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus lazulinoides Schulzer SPECIES
-=======
+# Agaricus lazulinoides Schulzer SPECIES
 
 #### Status
 ACCEPTED

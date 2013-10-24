@@ -1,5 +1,4 @@
-Phlebiopsis darjeelingensis Dhingra, 1987 SPECIES
-=======
+# Phlebiopsis darjeelingensis Dhingra, 1987 SPECIES
 
 #### Status
 ACCEPTED

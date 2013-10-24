@@ -1,5 +1,4 @@
-Valsa agnostica Cooke & Harkn. SPECIES
-=======
+# Valsa agnostica Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pellicularia digitata D.P. Rogers SPECIES
-=======
+# Pellicularia digitata D.P. Rogers SPECIES
 
 #### Status
 ACCEPTED

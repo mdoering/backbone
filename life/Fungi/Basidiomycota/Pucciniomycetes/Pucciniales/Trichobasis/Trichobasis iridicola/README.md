@@ -1,5 +1,4 @@
-Trichobasis iridicola Peck SPECIES
-=======
+# Trichobasis iridicola Peck SPECIES
 
 #### Status
 ACCEPTED

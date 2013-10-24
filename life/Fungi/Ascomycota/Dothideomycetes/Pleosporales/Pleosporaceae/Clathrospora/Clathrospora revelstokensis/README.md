@@ -1,5 +1,4 @@
-Clathrospora revelstokensis Shoemaker & C.E. Babc. SPECIES
-=======
+# Clathrospora revelstokensis Shoemaker & C.E. Babc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Penicillium patris-mei K.M. Zalessky SPECIES
-=======
+# Penicillium patris-mei K.M. Zalessky SPECIES
 
 #### Status
 ACCEPTED

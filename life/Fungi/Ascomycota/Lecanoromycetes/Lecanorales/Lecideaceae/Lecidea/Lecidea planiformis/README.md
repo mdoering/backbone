@@ -1,5 +1,4 @@
-Lecidea planiformis Zahlbr. SPECIES
-=======
+# Lecidea planiformis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

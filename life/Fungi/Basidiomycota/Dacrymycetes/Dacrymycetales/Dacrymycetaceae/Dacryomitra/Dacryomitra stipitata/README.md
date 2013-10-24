@@ -1,5 +1,4 @@
-Dacryomitra stipitata (Peck) Burt SPECIES
-=======
+# Dacryomitra stipitata (Peck) Burt SPECIES
 
 #### Status
 ACCEPTED

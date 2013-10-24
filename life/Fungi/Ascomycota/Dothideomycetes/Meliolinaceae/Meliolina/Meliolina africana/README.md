@@ -1,5 +1,4 @@
-Meliolina africana S. Hughes SPECIES
-=======
+# Meliolina africana S. Hughes SPECIES
 
 #### Status
 ACCEPTED

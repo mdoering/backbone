@@ -1,5 +1,4 @@
-Spadicoides cuneata Kuthub. & Nawawi SPECIES
-=======
+# Spadicoides cuneata Kuthub. & Nawawi SPECIES
 
 #### Status
 ACCEPTED

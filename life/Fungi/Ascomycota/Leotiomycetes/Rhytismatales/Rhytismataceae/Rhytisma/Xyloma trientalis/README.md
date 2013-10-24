@@ -1,5 +1,4 @@
-Xyloma trientalis Fr. SPECIES
-=======
+# Xyloma trientalis Fr. SPECIES
 
 #### Status
 ACCEPTED

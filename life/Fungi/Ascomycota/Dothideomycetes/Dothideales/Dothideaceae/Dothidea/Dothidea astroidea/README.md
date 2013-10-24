@@ -1,5 +1,4 @@
-Dothidea astroidea Berk. SPECIES
-=======
+# Dothidea astroidea Berk. SPECIES
 
 #### Status
 ACCEPTED

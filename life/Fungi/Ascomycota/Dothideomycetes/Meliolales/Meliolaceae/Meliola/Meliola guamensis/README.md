@@ -1,5 +1,4 @@
-Meliola guamensis Syd. SPECIES
-=======
+# Meliola guamensis Syd. SPECIES
 
 #### Status
 ACCEPTED

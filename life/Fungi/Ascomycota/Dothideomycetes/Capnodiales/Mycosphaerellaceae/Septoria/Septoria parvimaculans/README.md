@@ -1,5 +1,4 @@
-Septoria parvimaculans H.C. Greene SPECIES
-=======
+# Septoria parvimaculans H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

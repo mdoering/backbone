@@ -1,5 +1,4 @@
-Gyrothrix verticillata Piroz., 1962 SPECIES
-=======
+# Gyrothrix verticillata Piroz., 1962 SPECIES
 
 #### Status
 ACCEPTED

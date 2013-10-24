@@ -1,5 +1,4 @@
-Isoptericola hypogeus Groth et al., 2005 SPECIES
-=======
+# Isoptericola hypogeus Groth et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

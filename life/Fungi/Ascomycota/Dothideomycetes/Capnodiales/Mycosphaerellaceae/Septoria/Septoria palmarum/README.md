@@ -1,5 +1,4 @@
-Septoria palmarum Sacc. SPECIES
-=======
+# Septoria palmarum Sacc. SPECIES
 
 #### Status
 ACCEPTED

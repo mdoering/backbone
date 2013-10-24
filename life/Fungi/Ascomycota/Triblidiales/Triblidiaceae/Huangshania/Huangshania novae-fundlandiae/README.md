@@ -1,5 +1,4 @@
-Huangshania novae-fundlandiae (Rehm) Magnes SPECIES
-=======
+# Huangshania novae-fundlandiae (Rehm) Magnes SPECIES
 
 #### Status
 ACCEPTED

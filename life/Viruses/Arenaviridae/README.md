@@ -1,5 +1,4 @@
-Arenaviridae FAMILY
-=======
+# Arenaviridae FAMILY
 
 #### Status
 ACCEPTED

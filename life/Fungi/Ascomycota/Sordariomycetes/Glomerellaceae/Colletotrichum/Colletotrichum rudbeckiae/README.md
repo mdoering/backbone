@@ -1,5 +1,4 @@
-Colletotrichum rudbeckiae Peck SPECIES
-=======
+# Colletotrichum rudbeckiae Peck SPECIES
 
 #### Status
 ACCEPTED

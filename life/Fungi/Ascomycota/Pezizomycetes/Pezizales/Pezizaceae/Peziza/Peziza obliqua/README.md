@@ -1,5 +1,4 @@
-Peziza obliqua Zoll. SPECIES
-=======
+# Peziza obliqua Zoll. SPECIES
 
 #### Status
 ACCEPTED

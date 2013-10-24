@@ -1,5 +1,4 @@
-Cannopilus jimlingii (D. Bukry) T. V. Desikachary & P. Prema SPECIES
-=======
+# Cannopilus jimlingii (D. Bukry) T. V. Desikachary & P. Prema SPECIES
 
 #### Status
 ACCEPTED

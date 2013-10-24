@@ -1,5 +1,4 @@
-Lycogala friesiana Hall {?} SPECIES
-=======
+# Lycogala friesiana Hall {?} SPECIES
 
 #### Status
 ACCEPTED

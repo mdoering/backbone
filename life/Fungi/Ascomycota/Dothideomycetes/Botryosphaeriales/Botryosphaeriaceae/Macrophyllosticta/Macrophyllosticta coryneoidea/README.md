@@ -1,5 +1,4 @@
-Macrophyllosticta coryneoidea Dias & Sousa da Câmara SPECIES
-=======
+# Macrophyllosticta coryneoidea Dias & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

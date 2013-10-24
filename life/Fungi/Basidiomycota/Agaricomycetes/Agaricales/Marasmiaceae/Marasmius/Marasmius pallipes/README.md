@@ -1,5 +1,4 @@
-Marasmius pallipes Speg. SPECIES
-=======
+# Marasmius pallipes Speg. SPECIES
 
 #### Status
 ACCEPTED

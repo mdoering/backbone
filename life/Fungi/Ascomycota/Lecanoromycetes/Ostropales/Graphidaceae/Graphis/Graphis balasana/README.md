@@ -1,5 +1,4 @@
-Graphis balasana Müll. Arg. SPECIES
-=======
+# Graphis balasana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

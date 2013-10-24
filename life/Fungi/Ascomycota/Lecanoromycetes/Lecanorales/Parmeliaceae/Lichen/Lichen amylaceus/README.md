@@ -1,5 +1,4 @@
-Lichen amylaceus Ehrh. SPECIES
-=======
+# Lichen amylaceus Ehrh. SPECIES
 
 #### Status
 ACCEPTED

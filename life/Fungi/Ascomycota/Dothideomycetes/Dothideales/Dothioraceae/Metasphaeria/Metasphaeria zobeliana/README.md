@@ -1,5 +1,4 @@
-Metasphaeria zobeliana Staritz SPECIES
-=======
+# Metasphaeria zobeliana Staritz SPECIES
 
 #### Status
 ACCEPTED

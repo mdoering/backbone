@@ -1,5 +1,4 @@
-Hysterium pini Schumach. SPECIES
-=======
+# Hysterium pini Schumach. SPECIES
 
 #### Status
 ACCEPTED

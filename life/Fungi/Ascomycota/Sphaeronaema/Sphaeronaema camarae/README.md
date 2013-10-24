@@ -1,5 +1,4 @@
-Sphaeronaema camarae M.T. Lucas SPECIES
-=======
+# Sphaeronaema camarae M.T. Lucas SPECIES
 
 #### Status
 ACCEPTED

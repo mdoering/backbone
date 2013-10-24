@@ -1,5 +1,4 @@
-Stenozonoligotriletes orbiculiformis Timofeev in Rudavskaya & Timofeev SPECIES
-=======
+# Stenozonoligotriletes orbiculiformis Timofeev in Rudavskaya & Timofeev SPECIES
 
 #### Status
 ACCEPTED

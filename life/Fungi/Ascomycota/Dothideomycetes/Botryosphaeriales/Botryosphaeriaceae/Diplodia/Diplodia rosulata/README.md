@@ -1,5 +1,4 @@
-Diplodia rosulata Gure, Slippers & Stenlid SPECIES
-=======
+# Diplodia rosulata Gure, Slippers & Stenlid SPECIES
 
 #### Status
 ACCEPTED

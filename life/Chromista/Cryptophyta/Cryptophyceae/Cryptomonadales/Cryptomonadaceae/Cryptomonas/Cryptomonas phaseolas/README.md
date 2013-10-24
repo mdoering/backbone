@@ -1,5 +1,4 @@
-Cryptomonas phaseolas SPECIES
-=======
+# Cryptomonas phaseolas SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Transylvanaria Dumitrica & Carter, 1999 GENUS
-=======
+# Transylvanaria Dumitrica & Carter, 1999 GENUS
 
 #### Status
 ACCEPTED

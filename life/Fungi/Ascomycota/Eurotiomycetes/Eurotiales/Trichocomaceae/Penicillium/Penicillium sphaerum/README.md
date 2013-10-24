@@ -1,17 +1,16 @@
-Penicillium rotundum Raper & Fennell, 1948 SPECIES
-=======
+# Penicillium sphaerum Pitt, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 40(5): 518 (1948)
+The Genus Penicillium and its teleomorph states Eupenicillium and Talaromyces (London) 494 (1980)
 
 #### Original name
-Penicillium rotundum Raper & Fennell, 1948
+Penicillium sphaerum Pitt, 1980
 
 ### Remarks
 null

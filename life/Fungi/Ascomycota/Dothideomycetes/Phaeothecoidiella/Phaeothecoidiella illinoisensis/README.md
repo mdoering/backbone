@@ -1,5 +1,4 @@
-Phaeothecoidiella illinoisensis Batzer & Crous, 2010 SPECIES
-=======
+# Phaeothecoidiella illinoisensis Batzer & Crous, 2010 SPECIES
 
 #### Status
 ACCEPTED

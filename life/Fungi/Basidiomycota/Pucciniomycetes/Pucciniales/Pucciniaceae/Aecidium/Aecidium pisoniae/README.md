@@ -1,5 +1,4 @@
-Aecidium pisoniae Arthur & J.R. Johnst. SPECIES
-=======
+# Aecidium pisoniae Arthur & J.R. Johnst. SPECIES
 
 #### Status
 ACCEPTED

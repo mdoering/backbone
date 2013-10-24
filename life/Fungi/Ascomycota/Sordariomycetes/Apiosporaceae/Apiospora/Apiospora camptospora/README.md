@@ -1,17 +1,16 @@
-Papularia vinosa (Berk. & M.A. Curtis) E.W. Mason, 1933 SPECIES
-=======
+# Apiospora camptospora Penz. & Sacc., 1897 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 3: 21 (1933)
+Malpighia 11: 398 (1897)
 
 #### Original name
-Gymnosporium vinosum Berk. & M.A. Curtis, 1868
+Apiospora camptospora Penz. & Sacc., 1897
 
 ### Remarks
 null

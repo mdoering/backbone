@@ -1,8 +1,7 @@
-Irenina linocieriae (Syd. & P. Syd.) Hansf. SPECIES
-=======
+# Irenina linocierae (Syd. & P. Syd.) Hansf. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

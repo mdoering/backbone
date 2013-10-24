@@ -1,5 +1,4 @@
-Sporonema camelliae Earle SPECIES
-=======
+# Sporonema camelliae Earle SPECIES
 
 #### Status
 ACCEPTED

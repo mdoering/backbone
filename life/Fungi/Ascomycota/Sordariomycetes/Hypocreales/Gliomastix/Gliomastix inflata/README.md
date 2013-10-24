@@ -1,14 +1,13 @@
-Acremonium inflatum (C.H. Dickinson) W. Gams, 1971 SPECIES
-=======
+# Gliomastix inflata C.H. Dickinson, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Cephalosporium-artige Schimmelpilze (Stuttgart) 88 (1971)
+Mycol. Pap. 115: 20 (1968)
 
 #### Original name
 Gliomastix inflata C.H. Dickinson, 1968

@@ -1,5 +1,4 @@
-Porphyrellus fumosipes (Peck) Snell SPECIES
-=======
+# Porphyrellus fumosipes (Peck) Snell SPECIES
 
 #### Status
 ACCEPTED

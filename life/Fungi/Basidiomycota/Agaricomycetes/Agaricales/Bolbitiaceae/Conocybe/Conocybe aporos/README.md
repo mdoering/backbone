@@ -1,17 +1,16 @@
-Pholiotina aporos var. aporos VARIETY
-=======
+# Conocybe aporos Kits van Wav., 1970 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Persoonia 6(1): 144 (1970)
 
 #### Original name
-null
+Conocybe aporos Kits van Wav., 1970
 
 ### Remarks
 null

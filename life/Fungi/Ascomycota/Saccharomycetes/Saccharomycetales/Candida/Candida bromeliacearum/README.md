@@ -1,5 +1,4 @@
-Candida bromeliacearum Ruivo, Pagnocca, Lachance & C.A. Rosa SPECIES
-=======
+# Candida bromeliacearum Ruivo, Pagnocca, Lachance & C.A. Rosa SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Mollisia polygoni var. polygoni VARIETY
-=======
+# Pyrenopeziza polygoni (Lasch) Gremmen, 1958 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Champignons de France, Discom. 120 (1882)
+Fungus, Wageningen 28: 44 (1958)
 
 #### Original name
-Mollisia polygoni var. polygoni
+Peziza polygoni Lasch
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Desmazierella bulgarioides Rick SPECIES
-=======
+# Desmazierella bulgarioides Rick SPECIES
 
 #### Status
 ACCEPTED

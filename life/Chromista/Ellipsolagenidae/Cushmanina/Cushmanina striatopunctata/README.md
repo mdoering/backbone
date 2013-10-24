@@ -1,8 +1,7 @@
-Entosolenia striatopunctata (Parker & Jones, 1865) SPECIES
-=======
+# Cushmanina striatopunctata (Parker & Jones, 1865) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

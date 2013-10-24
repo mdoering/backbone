@@ -1,5 +1,4 @@
-Conocybe herinkii Svrcek SPECIES
-=======
+# Conocybe herinkii Svrcek SPECIES
 
 #### Status
 ACCEPTED

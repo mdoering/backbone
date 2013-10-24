@@ -1,17 +1,16 @@
-Gymnodiscus neglecta Zukal SPECIES
-=======
+# Gymnodiscus neglectus Zukal SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Verh. zool. -bot. Ges. Wien 37: (1887)
 
 #### Original name
-Gymnodiscus neglecta Zukal
+Gymnodiscus neglectus Zukal
 
 ### Remarks
 null

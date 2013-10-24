@@ -1,5 +1,4 @@
-Anabaena promecespora Frémy SPECIES
-=======
+# Anabaena promecespora Frémy SPECIES
 
 #### Status
 ACCEPTED

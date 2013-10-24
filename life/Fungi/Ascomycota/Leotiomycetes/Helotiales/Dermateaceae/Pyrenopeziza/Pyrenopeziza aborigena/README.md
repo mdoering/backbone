@@ -1,5 +1,4 @@
-Pyrenopeziza aborigena Speg. SPECIES
-=======
+# Pyrenopeziza aborigena Speg. SPECIES
 
 #### Status
 ACCEPTED

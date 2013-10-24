@@ -1,5 +1,4 @@
-Depazites lomatiae (Engelhard) Mesch. SPECIES
-=======
+# Depazites lomatiae (Engelhard) Mesch. SPECIES
 
 #### Status
 ACCEPTED

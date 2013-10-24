@@ -1,8 +1,7 @@
-Byssoloma cateleium (Vain.) Zahlbr. SPECIES
-=======
+# Byssoloma cateilea (Vain.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

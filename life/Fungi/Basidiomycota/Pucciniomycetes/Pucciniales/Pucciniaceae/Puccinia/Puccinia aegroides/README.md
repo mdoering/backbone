@@ -1,5 +1,4 @@
-Puccinia aegroides Cummins SPECIES
-=======
+# Puccinia aegroides Cummins SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polystictus salebrosus Lasch SPECIES
-=======
+# Polystictus salebrosus Lasch SPECIES
 
 #### Status
 ACCEPTED

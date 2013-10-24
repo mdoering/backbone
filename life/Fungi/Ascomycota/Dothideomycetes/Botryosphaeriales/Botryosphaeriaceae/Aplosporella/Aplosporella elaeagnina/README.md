@@ -1,5 +1,4 @@
-Aplosporella elaeagnina (Fairm.) Petr. & Syd. SPECIES
-=======
+# Aplosporella elaeagnina (Fairm.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

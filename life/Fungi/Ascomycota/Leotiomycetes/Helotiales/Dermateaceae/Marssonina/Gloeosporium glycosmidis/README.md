@@ -1,5 +1,4 @@
-Gloeosporium glycosmidis Verpl. & Van den Broecke SPECIES
-=======
+# Gloeosporium glycosmidis Verpl. & Van den Broecke SPECIES
 
 #### Status
 ACCEPTED

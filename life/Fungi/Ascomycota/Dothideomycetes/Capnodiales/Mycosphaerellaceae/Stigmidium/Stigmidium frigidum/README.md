@@ -1,5 +1,4 @@
-Stigmidium frigidum (Sacc.) Alstrup & D. Hawksw. SPECIES
-=======
+# Stigmidium frigidum (Sacc.) Alstrup & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

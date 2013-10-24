@@ -1,5 +1,4 @@
-Lechevalieria Labeda et al., 2001 GENUS
-=======
+# Lechevalieria Labeda et al., 2001 GENUS
 
 #### Status
 ACCEPTED

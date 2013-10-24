@@ -1,17 +1,16 @@
-Phyllachora quercae A.K. Kar & S.K. Gupta SPECIES
-=======
+# Phyllachora quercus A.K. Kar & S.K. Gupta, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Indian Phytopath. 33: 262 (1981)
 
 #### Original name
-Phyllachora quercae A.K. Kar & S.K. Gupta
+Phyllachora quercus A.K. Kar & S.K. Gupta, 1981
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Fusarium ustilaginis Kellerm. & Swingle SPECIES
-=======
+# Fusarium ustilaginis Kellerm. & Swingle SPECIES
 
 #### Status
 ACCEPTED

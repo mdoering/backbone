@@ -1,5 +1,4 @@
-Agaricus anisarius Peck SPECIES
-=======
+# Agaricus anisarius Peck SPECIES
 
 #### Status
 ACCEPTED

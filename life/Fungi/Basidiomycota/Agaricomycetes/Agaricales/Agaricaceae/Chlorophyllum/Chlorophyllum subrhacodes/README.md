@@ -1,5 +1,4 @@
-Chlorophyllum subrhacodes (Murrill) Vellinga, 2002 SPECIES
-=======
+# Chlorophyllum subrhacodes (Murrill) Vellinga, 2002 SPECIES
 
 #### Status
 ACCEPTED

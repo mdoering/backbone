@@ -1,5 +1,4 @@
-Mycosphaerella symphyostemi SPECIES
-=======
+# Mycosphaerella symphyostemi SPECIES
 
 #### Status
 ACCEPTED

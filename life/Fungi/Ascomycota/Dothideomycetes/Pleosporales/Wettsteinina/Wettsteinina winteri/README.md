@@ -1,5 +1,4 @@
-Wettsteinina winteri (Niessl) E. Müll. SPECIES
-=======
+# Wettsteinina winteri (Niessl) E. Müll. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tubodiscus burnettiae SPECIES
-=======
+# Tubodiscus burnettiae SPECIES
 
 #### Status
 ACCEPTED

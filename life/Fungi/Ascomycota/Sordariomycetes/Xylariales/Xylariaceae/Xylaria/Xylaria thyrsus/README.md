@@ -1,5 +1,4 @@
-Xylaria thyrsus (Berk.) Fr. SPECIES
-=======
+# Xylaria thyrsus (Berk.) Fr. SPECIES
 
 #### Status
 ACCEPTED

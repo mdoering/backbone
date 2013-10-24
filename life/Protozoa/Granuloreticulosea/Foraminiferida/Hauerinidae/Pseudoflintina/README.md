@@ -1,5 +1,4 @@
-Pseudoflintina Saidova, 1981 GENUS
-=======
+# Pseudoflintina Saidova, 1981 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia incognita Kurok. SPECIES
-=======
+# Parmelia incognita Kurok. SPECIES
 
 #### Status
 ACCEPTED

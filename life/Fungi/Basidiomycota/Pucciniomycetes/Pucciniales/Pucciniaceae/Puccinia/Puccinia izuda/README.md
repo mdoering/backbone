@@ -1,5 +1,4 @@
-Puccinia izuda Ellis & Everh. SPECIES
-=======
+# Puccinia izuda Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

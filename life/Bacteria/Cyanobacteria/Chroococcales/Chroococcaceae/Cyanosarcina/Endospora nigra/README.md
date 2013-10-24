@@ -1,5 +1,4 @@
-Endospora nigra Gardner SPECIES
-=======
+# Endospora nigra Gardner SPECIES
 
 #### Status
 DOUBTFUL

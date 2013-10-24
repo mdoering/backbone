@@ -1,5 +1,4 @@
-Sargassum claviferum J. Agardh SPECIES
-=======
+# Sargassum claviferum J. Agardh SPECIES
 
 #### Status
 ACCEPTED

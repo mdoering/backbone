@@ -1,14 +1,13 @@
-Pleospora bromi Died., 1903 SPECIES
-=======
+# Pyrenophora bromi (Died.) Drechsler, 1923 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. Agric. Res. , Washington 24: 672 (1923)
 
 #### Original name
 Pleospora bromi Died., 1903

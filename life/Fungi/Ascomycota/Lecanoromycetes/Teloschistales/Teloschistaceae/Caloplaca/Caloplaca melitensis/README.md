@@ -1,5 +1,4 @@
-Caloplaca melitensis Jatta SPECIES
-=======
+# Caloplaca melitensis Jatta SPECIES
 
 #### Status
 ACCEPTED

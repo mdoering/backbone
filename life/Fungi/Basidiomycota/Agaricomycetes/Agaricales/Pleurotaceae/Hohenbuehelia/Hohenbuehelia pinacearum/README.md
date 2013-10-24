@@ -1,5 +1,4 @@
-Hohenbuehelia pinacearum Thorn, 1986 SPECIES
-=======
+# Hohenbuehelia pinacearum Thorn, 1986 SPECIES
 
 #### Status
 ACCEPTED

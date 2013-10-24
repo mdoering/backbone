@@ -1,5 +1,4 @@
-Trachysphaeridium granulatum Ouyang Shu, 1979 SPECIES
-=======
+# Trachysphaeridium granulatum Ouyang Shu, 1979 SPECIES
 
 #### Status
 ACCEPTED

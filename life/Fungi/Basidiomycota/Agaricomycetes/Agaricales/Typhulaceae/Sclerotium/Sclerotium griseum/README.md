@@ -1,5 +1,4 @@
-Sclerotium griseum J.A. Stev. SPECIES
-=======
+# Sclerotium griseum J.A. Stev. SPECIES
 
 #### Status
 ACCEPTED

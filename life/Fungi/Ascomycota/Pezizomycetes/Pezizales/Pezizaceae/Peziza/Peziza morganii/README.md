@@ -1,8 +1,7 @@
-Peziza morgani Massee SPECIES
-=======
+# Peziza morganii Massee SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Peziza morgani Massee
+Peziza morganii Massee
 
 ### Remarks
 null

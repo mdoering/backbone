@@ -1,5 +1,4 @@
-Buellia pseudosaxatilis Samp. SPECIES
-=======
+# Buellia pseudosaxatilis Samp. SPECIES
 
 #### Status
 ACCEPTED

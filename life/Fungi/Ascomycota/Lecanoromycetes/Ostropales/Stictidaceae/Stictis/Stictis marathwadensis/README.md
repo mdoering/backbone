@@ -1,5 +1,4 @@
-Stictis marathwadensis Tilak & S.B. Kale SPECIES
-=======
+# Stictis marathwadensis Tilak & S.B. Kale SPECIES
 
 #### Status
 ACCEPTED

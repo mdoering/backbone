@@ -1,17 +1,16 @@
-Nectria radicicola var. coprosmae (Dingley) Samuels & Brayford, 1990 VARIETY
-=======
+# Neonectria coprosmae (Dingley) Seifert, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Seifert, McMullen, Yee, Reeleder & Dobinson, Phytopathology 93(12): 1541 (2003)
 
 #### Original name
-null
+Nectria coprosmae Dingley, 1951
 
 ### Remarks
 null

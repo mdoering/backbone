@@ -1,5 +1,4 @@
-Anthostomella melanoderma Rehm SPECIES
-=======
+# Anthostomella melanoderma Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Botryosphaeria senegalensis Speg. SPECIES
-=======
+# Botryosphaeria senegalensis Speg. SPECIES
 
 #### Status
 ACCEPTED

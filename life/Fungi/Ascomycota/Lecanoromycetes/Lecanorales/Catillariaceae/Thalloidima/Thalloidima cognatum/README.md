@@ -1,5 +1,4 @@
-Thalloidima cognatum (Nyl.) SPECIES
-=======
+# Thalloidima cognatum (Nyl.) SPECIES
 
 #### Status
 ACCEPTED

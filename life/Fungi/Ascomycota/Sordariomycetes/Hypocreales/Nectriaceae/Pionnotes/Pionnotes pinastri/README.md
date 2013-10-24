@@ -1,5 +1,4 @@
-Pionnotes pinastri P. Karst. SPECIES
-=======
+# Pionnotes pinastri P. Karst. SPECIES
 
 #### Status
 ACCEPTED

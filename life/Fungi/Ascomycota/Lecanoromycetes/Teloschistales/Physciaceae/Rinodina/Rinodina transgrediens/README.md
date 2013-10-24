@@ -1,5 +1,4 @@
-Rinodina transgrediens H. Magn. SPECIES
-=======
+# Rinodina transgrediens H. Magn. SPECIES
 
 #### Status
 ACCEPTED

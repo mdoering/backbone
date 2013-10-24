@@ -1,5 +1,4 @@
-Askoella Fenchel, 1965 GENUS
-=======
+# Askoella Fenchel, 1965 GENUS
 
 #### Status
 ACCEPTED

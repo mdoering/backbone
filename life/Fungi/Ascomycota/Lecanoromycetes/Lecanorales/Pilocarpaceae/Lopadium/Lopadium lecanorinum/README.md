@@ -1,5 +1,4 @@
-Lopadium lecanorinum (A. Massal.) SPECIES
-=======
+# Lopadium lecanorinum (A. Massal.) SPECIES
 
 #### Status
 ACCEPTED

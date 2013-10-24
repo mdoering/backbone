@@ -1,5 +1,4 @@
-Phlegmacium muricinum (Fr.) M.M. Moser SPECIES
-=======
+# Phlegmacium muricinum (Fr.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta ferruginea (Sacc.) Kalymb. SPECIES
-=======
+# Phyllosticta ferruginea (Sacc.) Kalymb. SPECIES
 
 #### Status
 ACCEPTED

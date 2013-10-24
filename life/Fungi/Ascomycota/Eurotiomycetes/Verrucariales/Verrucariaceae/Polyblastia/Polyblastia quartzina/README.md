@@ -1,5 +1,4 @@
-Polyblastia quartzina Lynge SPECIES
-=======
+# Polyblastia quartzina Lynge SPECIES
 
 #### Status
 ACCEPTED

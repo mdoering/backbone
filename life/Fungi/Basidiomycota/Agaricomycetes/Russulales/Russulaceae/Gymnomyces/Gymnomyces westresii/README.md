@@ -1,5 +1,4 @@
-Gymnomyces westresii T. Lebel, 2003 SPECIES
-=======
+# Gymnomyces westresii T. Lebel, 2003 SPECIES
 
 #### Status
 ACCEPTED

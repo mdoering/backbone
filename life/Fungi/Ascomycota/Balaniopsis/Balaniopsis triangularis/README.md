@@ -1,5 +1,4 @@
-Balaniopsis triangularis D.W. Li & W.B. Kendr. SPECIES
-=======
+# Balaniopsis triangularis D.W. Li & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

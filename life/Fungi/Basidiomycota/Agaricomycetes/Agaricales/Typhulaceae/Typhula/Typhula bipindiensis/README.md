@@ -1,5 +1,4 @@
-Typhula bipindiensis Henn. SPECIES
-=======
+# Typhula bipindiensis Henn. SPECIES
 
 #### Status
 ACCEPTED

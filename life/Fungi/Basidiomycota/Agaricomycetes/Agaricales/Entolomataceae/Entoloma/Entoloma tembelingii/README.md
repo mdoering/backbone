@@ -1,17 +1,16 @@
-Entoloma tembelingi Corner & E. Horak SPECIES
-=======
+# Entoloma tembelingii Corner & E. Horak SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Horak, Beih. Nova Hedwigia 65: 222 (1980)
 
 #### Original name
-Entoloma tembelingi Corner & E. Horak
+Entoloma tembelingii Corner & E. Horak
 
 ### Remarks
 null

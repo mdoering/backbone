@@ -1,5 +1,4 @@
-Cladosporium acutum Ellis & Dearn. SPECIES
-=======
+# Cladosporium acutum Ellis & Dearn. SPECIES
 
 #### Status
 ACCEPTED

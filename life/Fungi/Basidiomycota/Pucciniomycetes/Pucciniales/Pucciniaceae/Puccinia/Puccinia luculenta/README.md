@@ -1,5 +1,4 @@
-Puccinia luculenta Esfand. SPECIES
-=======
+# Puccinia luculenta Esfand. SPECIES
 
 #### Status
 ACCEPTED

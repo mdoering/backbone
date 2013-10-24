@@ -1,5 +1,4 @@
-Sirosporium palmicola Mercado SPECIES
-=======
+# Sirosporium palmicola Mercado SPECIES
 
 #### Status
 ACCEPTED

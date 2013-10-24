@@ -1,5 +1,4 @@
-Meliola angustispora (F. Stevens & Roldan) Cif. SPECIES
-=======
+# Meliola angustispora (F. Stevens & Roldan) Cif. SPECIES
 
 #### Status
 ACCEPTED

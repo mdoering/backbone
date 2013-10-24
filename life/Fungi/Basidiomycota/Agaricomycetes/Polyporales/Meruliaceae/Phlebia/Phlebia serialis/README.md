@@ -1,17 +1,16 @@
-Xerocarpus flavoferrugineus P. Karst., 1895 SPECIES
-=======
+# Phlebia serialis (Fr.) Donk, 1957 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 34: 8 (1895)
+Fungus, Wageningen 27: 12 (1957)
 
 #### Original name
-Xerocarpus flavoferrugineus P. Karst., 1895
+Thelephora serialis Fr., 1821
 
 ### Remarks
 null

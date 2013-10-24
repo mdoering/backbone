@@ -1,14 +1,13 @@
-Agaricus sarcitus Fr., 1838 SPECIES
-=======
+# Entoloma sarcitum (Fr.) Noordel., 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Epicr. syst. mycol. (Upsaliae) 155 & 183 (1838)
+Persoonia 11(2): 150 (1981)
 
 #### Original name
 Agaricus sarcitus Fr., 1838

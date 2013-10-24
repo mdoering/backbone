@@ -1,5 +1,4 @@
-Lecanora chinnampoana (Hue) Zahlbr. SPECIES
-=======
+# Lecanora chinnampoana (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

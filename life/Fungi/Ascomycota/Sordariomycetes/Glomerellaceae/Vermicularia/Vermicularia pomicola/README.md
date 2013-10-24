@@ -1,5 +1,4 @@
-Vermicularia pomicola Peck SPECIES
-=======
+# Vermicularia pomicola Peck SPECIES
 
 #### Status
 ACCEPTED

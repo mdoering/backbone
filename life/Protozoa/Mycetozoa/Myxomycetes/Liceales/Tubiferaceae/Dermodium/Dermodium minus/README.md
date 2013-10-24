@@ -1,5 +1,4 @@
-Dermodium minus (Ellis & Sacc.) Kuntze SPECIES
-=======
+# Dermodium minus (Ellis & Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

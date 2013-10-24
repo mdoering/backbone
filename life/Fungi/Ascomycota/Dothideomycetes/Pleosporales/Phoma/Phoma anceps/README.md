@@ -1,5 +1,4 @@
-Phoma anceps SPECIES
-=======
+# Phoma anceps SPECIES
 
 #### Status
 ACCEPTED

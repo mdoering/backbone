@@ -1,5 +1,4 @@
-Stictis kummerae Henn. SPECIES
-=======
+# Stictis kummerae Henn. SPECIES
 
 #### Status
 ACCEPTED

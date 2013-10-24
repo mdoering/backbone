@@ -1,5 +1,4 @@
-Dinobryon tabellariae SPECIES
-=======
+# Dinobryon tabellariae SPECIES
 
 #### Status
 ACCEPTED

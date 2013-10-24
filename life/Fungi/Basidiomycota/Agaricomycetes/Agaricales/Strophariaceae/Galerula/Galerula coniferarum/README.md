@@ -1,5 +1,4 @@
-Galerula coniferarum Murrill SPECIES
-=======
+# Galerula coniferarum Murrill SPECIES
 
 #### Status
 ACCEPTED

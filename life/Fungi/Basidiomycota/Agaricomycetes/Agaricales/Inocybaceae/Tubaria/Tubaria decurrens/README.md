@@ -1,5 +1,4 @@
-Tubaria decurrens (Peck) Murrill SPECIES
-=======
+# Tubaria decurrens (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphis hypoglauca Kremp. SPECIES
-=======
+# Graphis hypoglauca Kremp. SPECIES
 
 #### Status
 ACCEPTED

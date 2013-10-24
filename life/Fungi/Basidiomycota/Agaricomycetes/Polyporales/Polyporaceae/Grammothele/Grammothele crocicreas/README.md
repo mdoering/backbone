@@ -1,5 +1,4 @@
-Grammothele crocicreas (Ces.) Lloyd SPECIES
-=======
+# Grammothele crocicreas (Ces.) Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo lathyri-hygrophili Gjaerum SPECIES
-=======
+# Uredo lathyri-hygrophili Gjaerum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Valsa sociata Cooke & Ellis SPECIES
-=======
+# Valsa sociata Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

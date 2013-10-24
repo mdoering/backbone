@@ -1,5 +1,4 @@
-Alternaria clerodendri T.Y. Zhang & J.Z. Zhang SPECIES
-=======
+# Alternaria clerodendri T.Y. Zhang & J.Z. Zhang SPECIES
 
 #### Status
 ACCEPTED

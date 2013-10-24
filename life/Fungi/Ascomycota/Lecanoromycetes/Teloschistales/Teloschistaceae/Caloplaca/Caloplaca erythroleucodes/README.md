@@ -1,5 +1,4 @@
-Caloplaca erythroleucodes (Nyl.) Zahlbr. SPECIES
-=======
+# Caloplaca erythroleucodes (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psilocybe teofilae Guzmán & Ram.-Guill. SPECIES
-=======
+# Psilocybe teofilae Guzmán & Ram.-Guill. SPECIES
 
 #### Status
 ACCEPTED

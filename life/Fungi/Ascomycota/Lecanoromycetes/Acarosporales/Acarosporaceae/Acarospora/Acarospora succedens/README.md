@@ -1,5 +1,4 @@
-Acarospora succedens H. Magn. SPECIES
-=======
+# Acarospora succedens H. Magn. SPECIES
 
 #### Status
 ACCEPTED

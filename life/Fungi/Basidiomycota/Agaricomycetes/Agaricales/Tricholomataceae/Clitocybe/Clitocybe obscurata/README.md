@@ -1,5 +1,4 @@
-Clitocybe obscurata Cooke SPECIES
-=======
+# Clitocybe obscurata Cooke SPECIES
 
 #### Status
 ACCEPTED

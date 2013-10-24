@@ -1,5 +1,4 @@
-Agaricus chaetophyllus (Sacc.) Cooke SPECIES
-=======
+# Agaricus chaetophyllus (Sacc.) Cooke SPECIES
 
 #### Status
 ACCEPTED

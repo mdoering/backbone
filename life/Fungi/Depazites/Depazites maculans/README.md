@@ -1,5 +1,4 @@
-Depazites maculans (C. Massal.) Mesch. SPECIES
-=======
+# Depazites maculans (C. Massal.) Mesch. SPECIES
 
 #### Status
 ACCEPTED

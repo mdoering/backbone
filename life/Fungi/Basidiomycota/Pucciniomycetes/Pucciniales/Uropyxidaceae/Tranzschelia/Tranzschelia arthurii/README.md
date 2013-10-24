@@ -1,17 +1,16 @@
-Tranzschelia arthuri Tranzschel & M.A. Litv. SPECIES
-=======
+# Tranzschelia arthurii Tranzschel & M.A. Litv. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Bot. , Paris 24: 250 (1939)
 
 #### Original name
-Tranzschelia arthuri Tranzschel & M.A. Litv.
+Tranzschelia arthurii Tranzschel & M.A. Litv.
 
 ### Remarks
 null

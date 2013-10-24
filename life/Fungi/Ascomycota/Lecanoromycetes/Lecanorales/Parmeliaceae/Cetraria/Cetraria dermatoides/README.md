@@ -1,5 +1,4 @@
-Cetraria dermatoides Zahlbr. SPECIES
-=======
+# Cetraria dermatoides Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

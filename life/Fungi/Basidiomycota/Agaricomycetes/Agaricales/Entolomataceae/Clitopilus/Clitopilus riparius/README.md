@@ -1,5 +1,4 @@
-Clitopilus riparius Velen. SPECIES
-=======
+# Clitopilus riparius Velen. SPECIES
 
 #### Status
 ACCEPTED

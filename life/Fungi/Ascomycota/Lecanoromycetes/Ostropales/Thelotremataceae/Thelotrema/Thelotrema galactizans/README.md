@@ -1,5 +1,4 @@
-Thelotrema galactizans Harm. SPECIES
-=======
+# Thelotrema galactizans Harm. SPECIES
 
 #### Status
 ACCEPTED

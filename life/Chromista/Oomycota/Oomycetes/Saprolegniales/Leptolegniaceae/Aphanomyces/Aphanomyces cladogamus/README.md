@@ -1,5 +1,4 @@
-Aphanomyces cladogamus Drechsler, 1929 SPECIES
-=======
+# Aphanomyces cladogamus Drechsler, 1929 SPECIES
 
 #### Status
 ACCEPTED

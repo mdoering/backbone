@@ -1,5 +1,4 @@
-Involucrothele fagicola Servít SPECIES
-=======
+# Involucrothele fagicola Servít SPECIES
 
 #### Status
 ACCEPTED

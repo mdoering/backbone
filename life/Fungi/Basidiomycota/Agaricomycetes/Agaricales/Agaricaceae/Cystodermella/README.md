@@ -1,5 +1,4 @@
-Cystodermella Harmaja GENUS
-=======
+# Cystodermella Harmaja GENUS
 
 #### Status
 ACCEPTED

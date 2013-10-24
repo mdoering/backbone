@@ -1,5 +1,4 @@
-Puccinia paraguayensis Speg. SPECIES
-=======
+# Puccinia paraguayensis Speg. SPECIES
 
 #### Status
 ACCEPTED

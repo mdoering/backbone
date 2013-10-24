@@ -1,5 +1,4 @@
-Cortinarius albovestitus Bidaud SPECIES
-=======
+# Cortinarius albovestitus Bidaud SPECIES
 
 #### Status
 ACCEPTED

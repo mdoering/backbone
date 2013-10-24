@@ -1,5 +1,4 @@
-Pyrenidium zamiae (Müll. Arg.) Matzer SPECIES
-=======
+# Pyrenidium zamiae (Müll. Arg.) Matzer SPECIES
 
 #### Status
 ACCEPTED

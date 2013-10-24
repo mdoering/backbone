@@ -1,5 +1,4 @@
-Mallotium tomentosum (Hoffm.) Körb. SPECIES
-=======
+# Mallotium tomentosum (Hoffm.) Körb. SPECIES
 
 #### Status
 ACCEPTED

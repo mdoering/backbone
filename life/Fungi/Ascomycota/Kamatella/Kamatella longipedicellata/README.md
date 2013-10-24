@@ -1,5 +1,4 @@
-Kamatella longipedicellata (T.S. Ramakr. & K. Ramakr.) Ullasa SPECIES
-=======
+# Kamatella longipedicellata (T.S. Ramakr. & K. Ramakr.) Ullasa SPECIES
 
 #### Status
 ACCEPTED

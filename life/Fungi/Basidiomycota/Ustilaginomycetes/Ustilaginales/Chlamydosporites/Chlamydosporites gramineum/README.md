@@ -1,5 +1,4 @@
-Chlamydosporites gramineum Paradkar SPECIES
-=======
+# Chlamydosporites gramineum Paradkar SPECIES
 
 #### Status
 ACCEPTED

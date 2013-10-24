@@ -1,5 +1,4 @@
-Pleuroflammula minutula (A.H. Sm. & Hesler) E. Horak SPECIES
-=======
+# Pleuroflammula minutula (A.H. Sm. & Hesler) E. Horak SPECIES
 
 #### Status
 ACCEPTED

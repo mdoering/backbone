@@ -1,5 +1,4 @@
-Baltisphaerosum christoferi (Kjellström, 1976) Turner, 1984 SPECIES
-=======
+# Baltisphaerosum christoferi (Kjellström, 1976) Turner, 1984 SPECIES
 
 #### Status
 ACCEPTED

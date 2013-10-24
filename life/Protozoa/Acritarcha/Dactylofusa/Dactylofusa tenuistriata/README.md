@@ -1,5 +1,4 @@
-Dactylofusa tenuistriata var. aperturata E. D. Pöthe de Baldis VARIETY
-=======
+# Dactylofusa tenuistriata SPECIES
 
 #### Status
 ACCEPTED

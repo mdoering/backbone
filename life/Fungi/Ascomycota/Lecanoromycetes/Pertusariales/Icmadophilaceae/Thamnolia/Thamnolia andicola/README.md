@@ -1,5 +1,4 @@
-Thamnolia andicola Nyl. SPECIES
-=======
+# Thamnolia andicola Nyl. SPECIES
 
 #### Status
 ACCEPTED

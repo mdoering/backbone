@@ -1,5 +1,4 @@
-Pleurotus nudipes (Boud.) SPECIES
-=======
+# Pleurotus nudipes (Boud.) SPECIES
 
 #### Status
 ACCEPTED

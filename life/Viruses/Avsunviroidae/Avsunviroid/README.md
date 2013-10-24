@@ -1,5 +1,4 @@
-Avsunviroid: GENUS
-=======
+# Avsunviroid: GENUS
 
 #### Status
 ACCEPTED

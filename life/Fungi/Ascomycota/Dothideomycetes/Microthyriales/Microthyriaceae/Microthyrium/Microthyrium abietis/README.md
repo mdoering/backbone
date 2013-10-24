@@ -1,5 +1,4 @@
-Microthyrium abietis Mouton SPECIES
-=======
+# Microthyrium abietis Mouton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psorothecium vainii SPECIES
-=======
+# Psorothecium vainii SPECIES
 
 #### Status
 ACCEPTED

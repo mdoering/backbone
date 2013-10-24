@@ -1,17 +1,16 @@
-Trametes pruinata Bres., 1920 SPECIES
-=======
+# Daedalea microsticta Cooke, 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 18(1/3): 39 (1920)
+Grevillea 10(no. 56): 122 (1882)
 
 #### Original name
-Trametes pruinata Bres., 1920
+Daedalea microsticta Cooke, 1882
 
 ### Remarks
 null

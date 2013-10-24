@@ -1,5 +1,4 @@
-Imaia GENUS
-=======
+# Imaia GENUS
 
 #### Status
 ACCEPTED

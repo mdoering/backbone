@@ -1,5 +1,4 @@
-Dictyota serrulata J.V. Lamouroux SPECIES
-=======
+# Dictyota serrulata J.V. Lamouroux SPECIES
 
 #### Status
 ACCEPTED

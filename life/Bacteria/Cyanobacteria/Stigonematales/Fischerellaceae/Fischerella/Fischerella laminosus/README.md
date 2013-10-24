@@ -1,5 +1,4 @@
-Fischerella laminosus (Cohn) Castenholz SPECIES
-=======
+# Fischerella laminosus (Cohn) Castenholz SPECIES
 
 #### Status
 ACCEPTED

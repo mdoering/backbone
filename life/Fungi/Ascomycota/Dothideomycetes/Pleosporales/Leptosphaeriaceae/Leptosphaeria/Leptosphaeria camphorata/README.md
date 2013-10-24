@@ -1,5 +1,4 @@
-Leptosphaeria camphorata Pass. SPECIES
-=======
+# Leptosphaeria camphorata Pass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Opercularia notonectae SPECIES
-=======
+# Opercularia notonectae SPECIES
 
 #### Status
 ACCEPTED

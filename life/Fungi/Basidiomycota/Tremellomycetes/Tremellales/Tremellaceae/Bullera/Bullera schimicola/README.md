@@ -1,5 +1,4 @@
-Bullera schimicola Sugita, Cañ.-Gib., M. Takash. & Nakase SPECIES
-=======
+# Bullera schimicola Sugita, Cañ.-Gib., M. Takash. & Nakase SPECIES
 
 #### Status
 ACCEPTED

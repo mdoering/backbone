@@ -1,5 +1,4 @@
-Cyanotetras Hindák, 1988 GENUS
-=======
+# Cyanotetras Hindák, 1988 GENUS
 
 #### Status
 ACCEPTED

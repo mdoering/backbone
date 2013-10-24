@@ -1,5 +1,4 @@
-Acidiphilium angustum Wichlacz et al., 1986 SPECIES
-=======
+# Acidiphilium angustum Wichlacz et al., 1986 SPECIES
 
 #### Status
 ACCEPTED

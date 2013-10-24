@@ -1,5 +1,4 @@
-Colletotrichum litchis Gonz. Frag. & Cif. SPECIES
-=======
+# Colletotrichum litchis Gonz. Frag. & Cif. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia calicarpa Hook. f. & Taylor SPECIES
-=======
+# Parmelia calicarpa Hook. f. & Taylor SPECIES
 
 #### Status
 ACCEPTED

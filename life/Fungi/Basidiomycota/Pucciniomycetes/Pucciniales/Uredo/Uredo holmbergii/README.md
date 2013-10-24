@@ -1,5 +1,4 @@
-Uredo holmbergii Speg. SPECIES
-=======
+# Uredo holmbergii Speg. SPECIES
 
 #### Status
 ACCEPTED

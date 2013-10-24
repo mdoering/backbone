@@ -1,5 +1,4 @@
-Cercospora daphniphylli Katsuki & Ts. Kobay. SPECIES
-=======
+# Cercospora daphniphylli Katsuki & Ts. Kobay. SPECIES
 
 #### Status
 ACCEPTED

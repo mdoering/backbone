@@ -1,5 +1,4 @@
-Stigmidium leptogii Etayo SPECIES
-=======
+# Stigmidium leptogii Etayo SPECIES
 
 #### Status
 ACCEPTED

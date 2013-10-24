@@ -1,17 +1,16 @@
-Globuligera subgen. Saccardo von Höhnel, 1918 GENUS
-=======
+# Xylogramma Wallr. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fl. crypt. Germ. (Nürnberg) 2: 509 (1833)
 
 #### Original name
-null
+Xylogramma Wallr.
 
 ### Remarks
 null

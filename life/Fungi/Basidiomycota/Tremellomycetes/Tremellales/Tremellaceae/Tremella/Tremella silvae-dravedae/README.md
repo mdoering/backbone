@@ -1,5 +1,4 @@
-Tremella silvae-dravedae Hauerslev SPECIES
-=======
+# Tremella silvae-dravedae Hauerslev SPECIES
 
 #### Status
 ACCEPTED

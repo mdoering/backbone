@@ -1,5 +1,4 @@
-Epithelopsis bosei A.B. De, 1989 SPECIES
-=======
+# Epithelopsis bosei A.B. De, 1989 SPECIES
 
 #### Status
 ACCEPTED

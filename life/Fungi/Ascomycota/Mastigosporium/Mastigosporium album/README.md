@@ -1,17 +1,16 @@
-Monothecium graminis Lib. SPECIES
-=======
+# Mastigosporium album Riess, 1863 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Beitr. Mykol. 3: 56 (1863)
 
 #### Original name
-Monothecium graminis Lib.
+Mastigosporium album Riess, 1863
 
 ### Remarks
 null

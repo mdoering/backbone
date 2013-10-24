@@ -1,5 +1,4 @@
-Coniophora bufonia (Pers.) Weinm. SPECIES
-=======
+# Coniophora bufonia (Pers.) Weinm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Volutella boydiana Sacc. SPECIES
-=======
+# Volutella boydiana Sacc. SPECIES
 
 #### Status
 ACCEPTED

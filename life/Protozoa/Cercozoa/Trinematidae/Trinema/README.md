@@ -1,5 +1,4 @@
-Trinema Dujardin, 1841 GENUS
-=======
+# Trinema Dujardin, 1841 GENUS
 
 #### Status
 ACCEPTED

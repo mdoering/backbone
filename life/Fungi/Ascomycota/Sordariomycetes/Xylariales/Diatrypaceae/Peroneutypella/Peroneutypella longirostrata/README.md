@@ -1,5 +1,4 @@
-Peroneutypella longirostrata (Henn.) Sacc. & D. Sacc. SPECIES
-=======
+# Peroneutypella longirostrata (Henn.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

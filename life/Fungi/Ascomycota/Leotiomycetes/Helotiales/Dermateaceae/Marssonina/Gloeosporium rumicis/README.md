@@ -1,5 +1,4 @@
-Gloeosporium rumicis Ellis & Everh. SPECIES
-=======
+# Gloeosporium rumicis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

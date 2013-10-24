@@ -1,5 +1,4 @@
-Lockerbia palmicola K.D. Hyde, 1994 SPECIES
-=======
+# Lockerbia palmicola K.D. Hyde, 1994 SPECIES
 
 #### Status
 ACCEPTED

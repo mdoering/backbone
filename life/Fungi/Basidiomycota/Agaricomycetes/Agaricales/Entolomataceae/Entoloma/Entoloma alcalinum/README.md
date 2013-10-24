@@ -1,5 +1,4 @@
-Entoloma alcalinum Murrill SPECIES
-=======
+# Entoloma alcalinum Murrill SPECIES
 
 #### Status
 ACCEPTED

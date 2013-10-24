@@ -1,5 +1,4 @@
-Amniculicola Y. Zhang & K.D. Hyde GENUS
-=======
+# Amniculicola Y. Zhang & K.D. Hyde GENUS
 
 #### Status
 ACCEPTED

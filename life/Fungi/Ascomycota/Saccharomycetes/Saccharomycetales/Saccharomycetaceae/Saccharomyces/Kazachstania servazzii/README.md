@@ -1,5 +1,4 @@
-Kazachstania servazzii (Capr.) Kurtzman, 2003 SPECIES
-=======
+# Kazachstania servazzii (Capr.) Kurtzman, 2003 SPECIES
 
 #### Status
 ACCEPTED

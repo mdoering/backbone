@@ -1,5 +1,4 @@
-Arxiella Papendorf, 1967 GENUS
-=======
+# Arxiella Papendorf, 1967 GENUS
 
 #### Status
 ACCEPTED

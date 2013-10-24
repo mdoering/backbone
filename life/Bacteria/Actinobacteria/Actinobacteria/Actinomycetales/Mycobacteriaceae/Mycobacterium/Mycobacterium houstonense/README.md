@@ -1,5 +1,4 @@
-Mycobacterium houstonense Schinsky et al., 2004 SPECIES
-=======
+# Mycobacterium houstonense Schinsky et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

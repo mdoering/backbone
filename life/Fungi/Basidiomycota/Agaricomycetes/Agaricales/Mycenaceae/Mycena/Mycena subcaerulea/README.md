@@ -1,5 +1,4 @@
-Mycena subcaerulea (Peck) Sacc. SPECIES
-=======
+# Mycena subcaerulea (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pterocorys campanula Haeckel, 1887 SPECIES
-=======
+# Pterocorys campanula Haeckel, 1887 SPECIES
 
 #### Status
 ACCEPTED

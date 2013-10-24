@@ -1,5 +1,4 @@
-Cladina argentea Ahti SPECIES
-=======
+# Cladina argentea Ahti SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Monochaetiopsis L. Cai, R. Jeewon & K.D. Hyde GENUS
-=======
+# Monochaetiopsis L. Cai, R. Jeewon & K.D. Hyde GENUS
 
 #### Status
 ACCEPTED

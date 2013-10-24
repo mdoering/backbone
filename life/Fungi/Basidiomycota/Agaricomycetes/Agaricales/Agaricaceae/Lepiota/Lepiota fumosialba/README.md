@@ -1,5 +1,4 @@
-Lepiota fumosialba Murrill SPECIES
-=======
+# Lepiota fumosialba Murrill SPECIES
 
 #### Status
 ACCEPTED

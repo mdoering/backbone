@@ -1,5 +1,4 @@
-Stereocaulon aogasimense Asahina SPECIES
-=======
+# Stereocaulon aogasimense Asahina SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia denudata Hampe SPECIES
-=======
+# Parmelia denudata Hampe SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endogone pisiformis Link, 1809 SPECIES
-=======
+# Endogone pisiformis Link, 1809 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta roglerii R. Sprague SPECIES
-=======
+# Phyllosticta roglerii R. Sprague SPECIES
 
 #### Status
 ACCEPTED

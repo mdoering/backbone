@@ -1,14 +1,13 @@
-Sphaeria caricina Desm., 1836 SPECIES
-=======
+# Neottiospora caricina (Desm.) Höhn., 1924 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mitt. bot. Inst. tech. Hochsch. Wien 1(3): 78 (1924)
 
 #### Original name
 Sphaeria caricina Desm., 1836

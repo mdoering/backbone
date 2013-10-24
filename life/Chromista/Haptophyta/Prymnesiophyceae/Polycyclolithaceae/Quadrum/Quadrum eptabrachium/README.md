@@ -1,5 +1,4 @@
-Quadrum eptabrachium SPECIES
-=======
+# Quadrum eptabrachium SPECIES
 
 #### Status
 ACCEPTED

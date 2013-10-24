@@ -1,5 +1,4 @@
-Lonchosphaera Popofsky, 1908 GENUS
-=======
+# Lonchosphaera Popofsky, 1908 GENUS
 
 #### Status
 ACCEPTED

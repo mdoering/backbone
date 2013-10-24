@@ -1,14 +1,13 @@
-Septoria everhartii Sacc. & P. Syd., 1902 SPECIES
-=======
+# Pseudoseptoria everhartii (Sacc. & P. Syd.) B. Sutton, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+The Coelomycetes (Kew) 100 (1980)
 
 #### Original name
 null

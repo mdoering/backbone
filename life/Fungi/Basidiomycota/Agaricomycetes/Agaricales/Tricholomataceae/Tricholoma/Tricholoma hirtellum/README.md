@@ -1,5 +1,4 @@
-Tricholoma hirtellum Peck SPECIES
-=======
+# Tricholoma hirtellum Peck SPECIES
 
 #### Status
 ACCEPTED

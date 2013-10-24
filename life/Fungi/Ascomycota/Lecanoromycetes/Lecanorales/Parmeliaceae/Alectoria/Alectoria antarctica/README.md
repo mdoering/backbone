@@ -1,5 +1,4 @@
-Alectoria antarctica C.W. Dodge & G.E. Baker SPECIES
-=======
+# Alectoria antarctica C.W. Dodge & G.E. Baker SPECIES
 
 #### Status
 ACCEPTED

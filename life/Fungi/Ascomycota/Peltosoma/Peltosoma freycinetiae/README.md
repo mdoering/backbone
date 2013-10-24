@@ -1,17 +1,16 @@
-Peltosoma freycinetia Syd. & P. Syd. SPECIES
-=======
+# Peltosoma freycinetiae Syd. & P. Syd., 1925 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Leafl. of Philipp. Bot. 7: 3130 (1925)
 
 #### Original name
-Peltosoma freycinetia Syd. & P. Syd.
+Peltosoma freycinetiae Syd. & P. Syd., 1925
 
 ### Remarks
 null

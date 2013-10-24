@@ -1,8 +1,7 @@
-Acolium calciforme (Flot.) Arnold SPECIES
-=======
+# Acolium caliciforme (Flot.) Arnold SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

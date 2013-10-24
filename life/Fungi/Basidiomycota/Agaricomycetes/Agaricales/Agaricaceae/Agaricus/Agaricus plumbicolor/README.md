@@ -1,5 +1,4 @@
-Agaricus plumbicolor Berk. & Broome SPECIES
-=======
+# Agaricus plumbicolor Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

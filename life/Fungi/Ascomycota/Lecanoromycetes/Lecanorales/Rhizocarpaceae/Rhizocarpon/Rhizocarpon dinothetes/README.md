@@ -1,5 +1,4 @@
-Rhizocarpon dinothetes Hertel & Leuckert SPECIES
-=======
+# Rhizocarpon dinothetes Hertel & Leuckert SPECIES
 
 #### Status
 ACCEPTED

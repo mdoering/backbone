@@ -1,5 +1,4 @@
-Entoloma vinaceobrunneum Hesler SPECIES
-=======
+# Entoloma vinaceobrunneum Hesler SPECIES
 
 #### Status
 ACCEPTED

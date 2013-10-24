@@ -1,5 +1,4 @@
-Cortinarius albofimbriatus Rob. Henry SPECIES
-=======
+# Cortinarius albofimbriatus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

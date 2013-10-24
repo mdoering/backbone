@@ -1,14 +1,13 @@
-Leptotrema compunctellum (Nyl.) Zahlbr. SPECIES
-=======
+# Leucodecton compunctellum (Nyl.) Frisch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Cat. Lich. Univers. 2: 632 (1923)
+Biblthca Lichenol. 92: 155 (2006)
 
 #### Original name
 Thelotrema compunctellum Nyl.

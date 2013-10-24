@@ -1,17 +1,16 @@
-Ascochytites intertrappea Barlinge & Paradkar SPECIES
-=======
+# Ascochytites intertrappeus Barlinge & Paradkar SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Botanique, Nagpur 10(1-4): 170 + text figs F, G; pl. 1, fig. D (1982)
 
 #### Original name
-Ascochytites intertrappea Barlinge & Paradkar
+Ascochytites intertrappeus Barlinge & Paradkar
 
 ### Remarks
 null

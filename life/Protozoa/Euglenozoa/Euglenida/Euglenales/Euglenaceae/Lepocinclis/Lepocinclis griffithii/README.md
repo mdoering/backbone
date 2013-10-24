@@ -1,5 +1,4 @@
-Lepocinclis griffithii McLeod SPECIES
-=======
+# Lepocinclis griffithii McLeod SPECIES
 
 #### Status
 ACCEPTED

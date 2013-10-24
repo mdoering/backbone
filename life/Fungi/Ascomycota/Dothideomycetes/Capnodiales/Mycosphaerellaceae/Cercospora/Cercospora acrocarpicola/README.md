@@ -1,5 +1,4 @@
-Cercospora acrocarpicola Agnihothr. SPECIES
-=======
+# Cercospora acrocarpicola Agnihothr. SPECIES
 
 #### Status
 ACCEPTED

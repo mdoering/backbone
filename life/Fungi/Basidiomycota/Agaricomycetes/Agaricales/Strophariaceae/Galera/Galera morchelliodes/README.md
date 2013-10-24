@@ -1,5 +1,4 @@
-Galera morchelliodes (Brond.) Sacc. SPECIES
-=======
+# Galera morchelliodes (Brond.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

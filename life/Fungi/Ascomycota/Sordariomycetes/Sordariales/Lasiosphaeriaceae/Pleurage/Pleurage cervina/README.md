@@ -1,5 +1,4 @@
-Pleurage cervina (Cain) C. Moreau SPECIES
-=======
+# Pleurage cervina (Cain) C. Moreau SPECIES
 
 #### Status
 ACCEPTED

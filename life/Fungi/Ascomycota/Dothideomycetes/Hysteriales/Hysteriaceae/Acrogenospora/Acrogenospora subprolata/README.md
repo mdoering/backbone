@@ -1,5 +1,4 @@
-Acrogenospora subprolata Goh, K.D. Hyde & K.M. Tsui, 1998 SPECIES
-=======
+# Acrogenospora subprolata Goh, K.D. Hyde & K.M. Tsui, 1998 SPECIES
 
 #### Status
 ACCEPTED

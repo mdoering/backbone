@@ -1,5 +1,4 @@
-Parmotrema lambleyi Elix SPECIES
-=======
+# Parmotrema lambleyi Elix SPECIES
 
 #### Status
 ACCEPTED

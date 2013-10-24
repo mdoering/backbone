@@ -1,5 +1,4 @@
-Hypsilophora Berk. GENUS
-=======
+# Hypsilophora Berk. GENUS
 
 #### Status
 ACCEPTED

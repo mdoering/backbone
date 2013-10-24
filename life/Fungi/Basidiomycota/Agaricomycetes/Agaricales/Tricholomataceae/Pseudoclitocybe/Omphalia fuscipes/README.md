@@ -1,5 +1,4 @@
-Omphalia fuscipes Velen. SPECIES
-=======
+# Omphalia fuscipes Velen. SPECIES
 
 #### Status
 ACCEPTED

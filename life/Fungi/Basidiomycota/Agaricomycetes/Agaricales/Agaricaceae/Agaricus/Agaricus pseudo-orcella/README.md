@@ -1,5 +1,4 @@
-Agaricus pseudo-orcella Fr. SPECIES
-=======
+# Agaricus pseudo-orcella Fr. SPECIES
 
 #### Status
 ACCEPTED

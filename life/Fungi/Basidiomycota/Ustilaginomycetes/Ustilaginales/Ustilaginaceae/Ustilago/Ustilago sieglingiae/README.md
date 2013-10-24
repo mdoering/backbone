@@ -1,5 +1,4 @@
-Ustilago sieglingiae Ricker SPECIES
-=======
+# Ustilago sieglingiae Ricker SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hohenbuehelia semi-infundibuliformis (P. Karst.) Singer SPECIES
-=======
+# Hohenbuehelia semi-infundibuliformis (P. Karst.) Singer SPECIES
 
 #### Status
 ACCEPTED

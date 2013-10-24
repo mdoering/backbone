@@ -1,5 +1,4 @@
-Schizammina galatheae Norvang, 1961 SPECIES
-=======
+# Schizammina galatheae Norvang, 1961 SPECIES
 
 #### Status
 ACCEPTED

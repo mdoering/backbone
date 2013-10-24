@@ -1,5 +1,4 @@
-Alkaliflexus Zhilina, Appel, Probian, Brossa, Harder, Widdel & Zavarzin, 2005 GENUS
-=======
+# Alkaliflexus Zhilina, Appel, Probian, Brossa, Harder, Widdel & Zavarzin, 2005 GENUS
 
 #### Status
 ACCEPTED

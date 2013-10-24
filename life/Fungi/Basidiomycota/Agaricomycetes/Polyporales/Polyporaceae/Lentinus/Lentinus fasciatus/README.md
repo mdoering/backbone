@@ -1,17 +1,16 @@
-Lentinus velutinus var. fuscopurpureus (Kalchbr.) Pilát, 1941 VARIETY
-=======
+# Lentinus fasciatus Berk., 1840 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. Bot. , London 2: 146 (1840)
 
 #### Original name
-Lentinus fuscopurpureus Kalchbr., 1880
+Lentinus fasciatus Berk., 1840
 
 ### Remarks
 null

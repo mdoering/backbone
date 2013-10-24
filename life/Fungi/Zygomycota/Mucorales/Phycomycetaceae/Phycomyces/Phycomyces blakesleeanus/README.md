@@ -1,8 +1,7 @@
-Phycomyces blakesleeanus var. blakesleeanus Burgeff, 1925 VARIETY
-=======
+# Phycomyces blakesleeanus Burgeff, 1925 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Flora, Jena 118: 42 (1925)
 
 #### Original name
-Phycomyces blakesleeanus var. blakesleeanus Burgeff, 1925
+Phycomyces blakesleeanus Burgeff, 1925
 
 ### Remarks
 null

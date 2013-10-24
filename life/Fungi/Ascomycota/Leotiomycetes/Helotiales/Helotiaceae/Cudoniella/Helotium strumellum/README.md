@@ -1,5 +1,4 @@
-Helotium strumellum Cooke & W. Phillips SPECIES
-=======
+# Helotium strumellum Cooke & W. Phillips SPECIES
 
 #### Status
 ACCEPTED

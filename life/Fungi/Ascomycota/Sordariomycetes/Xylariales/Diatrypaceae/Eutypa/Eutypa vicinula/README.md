@@ -1,5 +1,4 @@
-Eutypa vicinula (Nyl.) L.C. Tiffany & J.C. Gilman SPECIES
-=======
+# Eutypa vicinula (Nyl.) L.C. Tiffany & J.C. Gilman SPECIES
 
 #### Status
 ACCEPTED

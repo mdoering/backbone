@@ -1,5 +1,4 @@
-Neuropogon rohmederi f. rohmederi FORM
-=======
+# Neuropogon rohmederi I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Neuropogon rohmederi f. rohmederi
+Neuropogon rohmederi I.M. Lamb
 
 ### Remarks
 null

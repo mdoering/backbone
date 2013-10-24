@@ -1,17 +1,16 @@
-Ceratocystis epigloea Guerrero, 1971 SPECIES
-=======
+# Ophiostoma epigloeum (Guerrero) de Hoog, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Stud. Mycol. 7: 45 (1974)
 
 #### Original name
-null
+Ceratocystis epigloeum Guerrero
 
 ### Remarks
 null

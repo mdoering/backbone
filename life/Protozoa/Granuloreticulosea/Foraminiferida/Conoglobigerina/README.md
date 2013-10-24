@@ -1,5 +1,4 @@
-Conoglobigerina Morozova & Moskalenko, 1961 GENUS
-=======
+# Conoglobigerina Morozova & Moskalenko, 1961 GENUS
 
 #### Status
 ACCEPTED

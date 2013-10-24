@@ -1,14 +1,13 @@
-Ceriomyces griseus (Frost) Murrill, 1909 SPECIES
-=======
+# Retiboletus griseus (Frost) Manfr. Binder & Bresinsky, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 1(4): 145 (1909)
+Feddes Repert. 113(1-2): 37 (2002)
 
 #### Original name
 Boletus griseus (Quél.) Sacc. & D. Sacc., 1905

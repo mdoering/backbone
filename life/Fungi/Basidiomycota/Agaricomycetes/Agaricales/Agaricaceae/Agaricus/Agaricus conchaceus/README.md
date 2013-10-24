@@ -1,5 +1,4 @@
-Agaricus conchaceus (Scop.) Pers. SPECIES
-=======
+# Agaricus conchaceus (Scop.) Pers. SPECIES
 
 #### Status
 ACCEPTED

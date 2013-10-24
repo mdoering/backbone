@@ -1,5 +1,4 @@
-Phanerochaete phosphorescens (Burt) A.L. Welden SPECIES
-=======
+# Phanerochaete phosphorescens (Burt) A.L. Welden SPECIES
 
 #### Status
 ACCEPTED

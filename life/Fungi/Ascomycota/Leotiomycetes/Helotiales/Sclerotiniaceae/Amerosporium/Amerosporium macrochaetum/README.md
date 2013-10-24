@@ -1,5 +1,4 @@
-Amerosporium macrochaetum Ellis & Everh. SPECIES
-=======
+# Amerosporium macrochaetum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

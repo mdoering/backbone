@@ -1,5 +1,4 @@
-Myxocladium arundinis Corda SPECIES
-=======
+# Myxocladium arundinis Corda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus plumbeus Cumino SPECIES
-=======
+# Boletus plumbeus Cumino SPECIES
 
 #### Status
 ACCEPTED

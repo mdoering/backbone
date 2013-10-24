@@ -1,5 +1,4 @@
-Hapalophragmium philippinense Lohsomb. & S. Sato, 1992 SPECIES
-=======
+# Hapalophragmium philippinense Lohsomb. & S. Sato, 1992 SPECIES
 
 #### Status
 ACCEPTED

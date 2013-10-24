@@ -1,5 +1,4 @@
-Irenina aucubae (Henn.) F. Stevens SPECIES
-=======
+# Irenina aucubae (Henn.) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

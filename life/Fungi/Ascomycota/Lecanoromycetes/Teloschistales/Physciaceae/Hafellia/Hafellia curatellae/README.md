@@ -1,14 +1,13 @@
-Buellia curatellae Malme SPECIES
-=======
+# Hafellia curatellae (Malme) Marbach SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ark. Bot. 21A(14): 18 (1927)
+Biblthca Lichenol. 74: 255 (2000)
 
 #### Original name
 Buellia curatellae Malme

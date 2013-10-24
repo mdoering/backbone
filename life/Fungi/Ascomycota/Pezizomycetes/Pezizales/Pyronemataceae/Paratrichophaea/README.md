@@ -1,5 +1,4 @@
-Paratrichophaea Trigaux, 1985 GENUS
-=======
+# Paratrichophaea Trigaux, 1985 GENUS
 
 #### Status
 ACCEPTED

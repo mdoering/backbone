@@ -1,5 +1,4 @@
-Phaeocollybia scatesiae A.H. Sm. & Trappe SPECIES
-=======
+# Phaeocollybia scatesiae A.H. Sm. & Trappe SPECIES
 
 #### Status
 ACCEPTED

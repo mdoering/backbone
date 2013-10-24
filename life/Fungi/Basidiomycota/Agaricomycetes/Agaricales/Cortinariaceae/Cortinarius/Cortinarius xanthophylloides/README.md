@@ -1,5 +1,4 @@
-Cortinarius xanthophylloides Reumaux SPECIES
-=======
+# Cortinarius xanthophylloides Reumaux SPECIES
 
 #### Status
 ACCEPTED

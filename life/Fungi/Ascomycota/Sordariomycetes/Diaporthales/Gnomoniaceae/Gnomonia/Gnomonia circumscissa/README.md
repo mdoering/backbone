@@ -1,5 +1,4 @@
-Gnomonia circumscissa McAlpine SPECIES
-=======
+# Gnomonia circumscissa McAlpine SPECIES
 
 #### Status
 ACCEPTED

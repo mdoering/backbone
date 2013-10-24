@@ -1,5 +1,4 @@
-Puccinia artemisiae-hookerianae Dietel SPECIES
-=======
+# Puccinia artemisiae-hookerianae Dietel SPECIES
 
 #### Status
 ACCEPTED

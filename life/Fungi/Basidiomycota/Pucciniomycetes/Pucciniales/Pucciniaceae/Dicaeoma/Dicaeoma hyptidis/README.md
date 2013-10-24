@@ -1,5 +1,4 @@
-Dicaeoma hyptidis (M.A. Curtis) Arthur SPECIES
-=======
+# Dicaeoma hyptidis (M.A. Curtis) Arthur SPECIES
 
 #### Status
 ACCEPTED

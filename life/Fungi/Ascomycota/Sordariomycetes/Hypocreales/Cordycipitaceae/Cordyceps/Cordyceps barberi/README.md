@@ -1,5 +1,4 @@
-Cordyceps barberi Giard, 1894 SPECIES
-=======
+# Cordyceps barberi Giard, 1894 SPECIES
 
 #### Status
 ACCEPTED

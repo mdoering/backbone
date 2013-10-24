@@ -1,17 +1,16 @@
-Lactarius baliophaeus var. orientalis Verbeken VARIETY
-=======
+# Lactarius baliophaeus Pegler, 1969 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Persoonia 16(2): 219 (1996)
+Kew Bull. 23: 237 (1969)
 
 #### Original name
-Lactarius baliophaeus var. orientalis Verbeken
+Lactarius baliophaeus Pegler, 1969
 
 ### Remarks
 null

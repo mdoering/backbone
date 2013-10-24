@@ -1,5 +1,4 @@
-Cortinarius agnetis Melot SPECIES
-=======
+# Cortinarius agnetis Melot SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chiodecton buitenzorgense SPECIES
-=======
+# Chiodecton buitenzorgense SPECIES
 
 #### Status
 ACCEPTED

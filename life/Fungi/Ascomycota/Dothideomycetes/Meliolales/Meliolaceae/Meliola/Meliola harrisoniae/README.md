@@ -1,5 +1,4 @@
-Meliola harrisoniae Hansf. SPECIES
-=======
+# Meliola harrisoniae Hansf. SPECIES
 
 #### Status
 ACCEPTED

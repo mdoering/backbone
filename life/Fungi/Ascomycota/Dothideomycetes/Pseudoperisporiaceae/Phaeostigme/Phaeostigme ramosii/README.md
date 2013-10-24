@@ -1,5 +1,4 @@
-Phaeostigme ramosii Syd. & P. Syd. SPECIES
-=======
+# Phaeostigme ramosii Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptomyces circumscissus (Lév.) Sacc. SPECIES
-=======
+# Cryptomyces circumscissus (Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

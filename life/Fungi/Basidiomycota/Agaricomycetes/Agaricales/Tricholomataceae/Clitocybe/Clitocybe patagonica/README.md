@@ -1,5 +1,4 @@
-Clitocybe patagonica Speg. SPECIES
-=======
+# Clitocybe patagonica Speg. SPECIES
 
 #### Status
 ACCEPTED

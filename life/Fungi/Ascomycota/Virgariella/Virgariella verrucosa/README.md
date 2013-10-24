@@ -1,5 +1,4 @@
-Virgariella verrucosa B. Sutton SPECIES
-=======
+# Virgariella verrucosa B. Sutton SPECIES
 
 #### Status
 ACCEPTED

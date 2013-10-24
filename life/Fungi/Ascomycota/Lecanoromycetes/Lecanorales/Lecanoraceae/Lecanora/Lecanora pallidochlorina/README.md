@@ -1,5 +1,4 @@
-Lecanora pallidochlorina T. H. Nash, B. D. Ryan & Lumbsch SPECIES
-=======
+# Lecanora pallidochlorina T. H. Nash, B. D. Ryan & Lumbsch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Plagiocampa ovata Gelei, 1954 SPECIES
-=======
+# Plagiocampa ovata Gelei, 1954 SPECIES
 
 #### Status
 ACCEPTED

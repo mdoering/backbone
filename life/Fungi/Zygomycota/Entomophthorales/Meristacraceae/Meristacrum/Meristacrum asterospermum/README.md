@@ -1,5 +1,4 @@
-Meristacrum asterospermum Drechsler, 1940 SPECIES
-=======
+# Meristacrum asterospermum Drechsler, 1940 SPECIES
 
 #### Status
 ACCEPTED

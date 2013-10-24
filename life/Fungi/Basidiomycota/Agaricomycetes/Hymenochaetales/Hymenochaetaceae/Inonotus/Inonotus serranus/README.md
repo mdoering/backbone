@@ -1,5 +1,4 @@
-Inonotus serranus Robledo, Urcelay & Rajchenb. SPECIES
-=======
+# Inonotus serranus Robledo, Urcelay & Rajchenb. SPECIES
 
 #### Status
 ACCEPTED

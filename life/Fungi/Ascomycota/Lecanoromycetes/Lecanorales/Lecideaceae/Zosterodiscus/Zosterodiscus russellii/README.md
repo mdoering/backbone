@@ -1,5 +1,4 @@
-Zosterodiscus russellii Hertel SPECIES
-=======
+# Zosterodiscus russellii Hertel SPECIES
 
 #### Status
 ACCEPTED

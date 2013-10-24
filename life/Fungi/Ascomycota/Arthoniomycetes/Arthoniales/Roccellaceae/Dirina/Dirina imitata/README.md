@@ -1,5 +1,4 @@
-Dirina imitata Müll. Arg. SPECIES
-=======
+# Dirina imitata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

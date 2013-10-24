@@ -1,5 +1,4 @@
-Xanthoparmelia xerophila Elix & J. Johnst. SPECIES
-=======
+# Xanthoparmelia xerophila Elix & J. Johnst. SPECIES
 
 #### Status
 ACCEPTED

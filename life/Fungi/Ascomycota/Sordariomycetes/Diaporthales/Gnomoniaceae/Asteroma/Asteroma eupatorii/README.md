@@ -1,5 +1,4 @@
-Asteroma eupatorii Allesch. SPECIES
-=======
+# Asteroma eupatorii Allesch. SPECIES
 
 #### Status
 ACCEPTED

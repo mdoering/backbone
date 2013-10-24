@@ -1,17 +1,16 @@
-Phytophthora palmivora var. palmivora (E.J. Butler) E.J. Butler VARIETY
-=======
+# Phytophthora palmivora (E.J. Butler) E.J. Butler, 1919 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Science Rep. agric. Res. Inst. Pusa 82 (1919)
 
 #### Original name
-Phytophthora palmivora var. palmivora (E.J. Butler) E.J. Butler
+null
 
 ### Remarks
 null

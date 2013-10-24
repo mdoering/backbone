@@ -1,5 +1,4 @@
-Phyllosticta nuttaliae Siemaszko SPECIES
-=======
+# Phyllosticta nuttaliae Siemaszko SPECIES
 
 #### Status
 ACCEPTED

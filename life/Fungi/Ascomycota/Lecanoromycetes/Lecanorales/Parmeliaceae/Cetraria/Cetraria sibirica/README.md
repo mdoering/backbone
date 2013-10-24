@@ -1,5 +1,4 @@
-Cetraria sibirica H. Magn. SPECIES
-=======
+# Cetraria sibirica H. Magn. SPECIES
 
 #### Status
 ACCEPTED

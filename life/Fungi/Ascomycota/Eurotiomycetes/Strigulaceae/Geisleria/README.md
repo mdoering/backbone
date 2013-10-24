@@ -1,17 +1,16 @@
-Geisleriomyces Cif. & Tomas. GENUS
-=======
+# Geisleria Nitschke, 1861 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+IRMNG Homonym List
 
 #### Published in
-Atti Ist. bot. Univ. Lab. crittog. Pavia, Sér. 5 10(1): 31, 59 (1953)
+in Rabenhorst, Lich. Europ. Exsicc. 21: 574 (1861)
 
 #### Original name
-Geisleriomyces Cif. & Tomas.
+Geisleria Nitschke, 1861
 
 ### Remarks
 null

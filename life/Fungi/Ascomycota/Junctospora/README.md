@@ -1,5 +1,4 @@
-Junctospora Minter & Hol.-Jech. GENUS
-=======
+# Junctospora Minter & Hol.-Jech. GENUS
 
 #### Status
 ACCEPTED

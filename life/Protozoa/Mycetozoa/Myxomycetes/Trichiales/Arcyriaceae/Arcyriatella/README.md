@@ -1,5 +1,4 @@
-Arcyriatella Hochg. & Gottsb. GENUS
-=======
+# Arcyriatella Hochg. & Gottsb. GENUS
 
 #### Status
 ACCEPTED

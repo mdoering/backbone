@@ -1,5 +1,4 @@
-Tricholoma luridatum (Britzelm.) Sacc. SPECIES
-=======
+# Tricholoma luridatum (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

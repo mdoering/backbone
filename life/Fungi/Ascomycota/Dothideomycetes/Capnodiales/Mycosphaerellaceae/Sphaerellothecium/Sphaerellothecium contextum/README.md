@@ -1,5 +1,4 @@
-Sphaerellothecium contextum Triebel SPECIES
-=======
+# Sphaerellothecium contextum Triebel SPECIES
 
 #### Status
 ACCEPTED

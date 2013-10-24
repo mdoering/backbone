@@ -1,5 +1,4 @@
-Delphinella strobiligena (Desm.) Sacc. ex E. Müll. & Arx, 1962 SPECIES
-=======
+# Delphinella strobiligena (Desm.) Sacc. ex E. Müll. & Arx, 1962 SPECIES
 
 #### Status
 ACCEPTED

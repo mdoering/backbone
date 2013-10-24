@@ -1,5 +1,4 @@
-Hansfordiopeltis erythroxyli Bat. & Taltasse SPECIES
-=======
+# Hansfordiopeltis erythroxyli Bat. & Taltasse SPECIES
 
 #### Status
 ACCEPTED

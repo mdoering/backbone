@@ -1,5 +1,4 @@
-Colletotrichum lebbek (Syd.) Petr. SPECIES
-=======
+# Colletotrichum lebbek (Syd.) Petr. SPECIES
 
 #### Status
 ACCEPTED

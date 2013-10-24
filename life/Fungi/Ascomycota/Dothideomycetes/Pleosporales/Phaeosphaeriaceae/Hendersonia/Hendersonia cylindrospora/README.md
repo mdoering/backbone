@@ -1,5 +1,4 @@
-Hendersonia cylindrospora Ellis & Everh. SPECIES
-=======
+# Hendersonia cylindrospora Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectria myriospora P. Crouan & H. Crouan SPECIES
-=======
+# Nectria myriospora P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

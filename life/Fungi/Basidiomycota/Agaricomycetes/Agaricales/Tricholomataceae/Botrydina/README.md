@@ -1,5 +1,4 @@
-Botrydina Bréb. GENUS
-=======
+# Botrydina Bréb. GENUS
 
 #### Status
 ACCEPTED

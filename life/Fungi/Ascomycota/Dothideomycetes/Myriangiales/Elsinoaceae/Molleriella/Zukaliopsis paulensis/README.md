@@ -1,5 +1,4 @@
-Zukaliopsis paulensis Rehm SPECIES
-=======
+# Zukaliopsis paulensis Rehm SPECIES
 
 #### Status
 ACCEPTED

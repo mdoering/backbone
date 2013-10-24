@@ -1,5 +1,4 @@
-Phoma gleditschiae (Thüm.) Sacc. SPECIES
-=======
+# Phoma gleditschiae (Thüm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

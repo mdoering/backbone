@@ -1,5 +1,4 @@
-Russula dipigmentata Singer SPECIES
-=======
+# Russula dipigmentata Singer SPECIES
 
 #### Status
 ACCEPTED

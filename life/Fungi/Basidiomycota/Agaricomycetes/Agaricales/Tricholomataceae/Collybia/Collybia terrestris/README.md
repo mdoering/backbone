@@ -1,5 +1,4 @@
-Collybia terrestris Velen. SPECIES
-=======
+# Collybia terrestris Velen. SPECIES
 
 #### Status
 ACCEPTED

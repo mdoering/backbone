@@ -1,17 +1,16 @@
-Cintractia leucoderma var. leucoderma VARIETY
-=======
+# Leucocintractia leucoderma (Berk.) M. Piepenbr., 2000 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 34: 335 (1895)
+Nova Hedwigia 70(3-4): 313 (2000)
 
 #### Original name
-Cintractia leucoderma var. leucoderma
+Ustilago leucoderma Berk., 1852
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Spirochona halophila Matsudo & Mohr, 1968 SPECIES
-=======
+# Spirochona halophila Matsudo & Mohr, 1968 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uncinula paradoxa Simonyan SPECIES
-=======
+# Uncinula paradoxa Simonyan SPECIES
 
 #### Status
 ACCEPTED

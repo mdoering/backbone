@@ -1,5 +1,4 @@
-Asterina cantareirensis Henn. SPECIES
-=======
+# Asterina cantareirensis Henn. SPECIES
 
 #### Status
 ACCEPTED

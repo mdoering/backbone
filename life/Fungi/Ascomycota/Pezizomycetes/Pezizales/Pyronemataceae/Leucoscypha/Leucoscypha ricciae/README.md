@@ -1,14 +1,13 @@
-Peziza ricciae P. Crouan & H. Crouan, 1867 SPECIES
-=======
+# Leucoscypha ricciae (P. Crouan & H. Crouan) Dennis, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Kew Bull. , Addit. Ser. 25(2): 340 (1971)
 
 #### Original name
 Peziza ricciae P. Crouan & H. Crouan, 1867

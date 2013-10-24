@@ -1,5 +1,4 @@
-Xylodon stratosus (Hjortstam & Ryvarden) Hjortstam & Ryvarden SPECIES
-=======
+# Xylodon stratosus (Hjortstam & Ryvarden) Hjortstam & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

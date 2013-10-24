@@ -1,5 +1,4 @@
-Stella humosa Vasilyeva, 1985 SPECIES
-=======
+# Stella humosa Vasilyeva, 1985 SPECIES
 
 #### Status
 ACCEPTED

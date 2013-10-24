@@ -1,5 +1,4 @@
-Russula cremeirubra Murrill SPECIES
-=======
+# Russula cremeirubra Murrill SPECIES
 
 #### Status
 ACCEPTED

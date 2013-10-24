@@ -1,5 +1,4 @@
-Macrosporium fici Ellis & Kelsey SPECIES
-=======
+# Macrosporium fici Ellis & Kelsey SPECIES
 
 #### Status
 ACCEPTED

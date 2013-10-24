@@ -1,5 +1,4 @@
-Stigmidium mitchellii Cl. Roux & Bricaud, 1994 SPECIES
-=======
+# Stigmidium mitchellii Cl. Roux & Bricaud, 1994 SPECIES
 
 #### Status
 ACCEPTED

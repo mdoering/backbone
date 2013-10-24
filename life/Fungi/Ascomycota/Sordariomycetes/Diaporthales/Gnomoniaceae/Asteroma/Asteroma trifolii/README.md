@@ -1,5 +1,4 @@
-Asteroma trifolii Grognot SPECIES
-=======
+# Asteroma trifolii Grognot SPECIES
 
 #### Status
 ACCEPTED

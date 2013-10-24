@@ -1,5 +1,4 @@
-Marasmius hypochroides Berk. & Broome SPECIES
-=======
+# Marasmius hypochroides Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

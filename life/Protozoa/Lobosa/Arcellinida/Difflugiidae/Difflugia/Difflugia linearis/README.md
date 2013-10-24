@@ -1,8 +1,7 @@
-Difflugia pyriformis var. linearis Penard, 1890 VARIETY
-=======
+# Difflugia linearis (Penard, 1890) Gauthier & Lièvre, 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

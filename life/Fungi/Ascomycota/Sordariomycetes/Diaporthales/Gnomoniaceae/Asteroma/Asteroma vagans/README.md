@@ -1,5 +1,4 @@
-Asteroma vagans Desm. SPECIES
-=======
+# Asteroma vagans Desm. SPECIES
 
 #### Status
 ACCEPTED

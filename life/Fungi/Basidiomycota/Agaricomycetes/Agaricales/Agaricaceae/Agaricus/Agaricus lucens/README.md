@@ -1,5 +1,4 @@
-Agaricus lucens J.F. Gmel. SPECIES
-=======
+# Agaricus lucens J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

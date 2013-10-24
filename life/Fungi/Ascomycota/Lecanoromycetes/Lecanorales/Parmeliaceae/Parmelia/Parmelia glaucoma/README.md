@@ -1,5 +1,4 @@
-Parmelia glaucoma var. glaucoma VARIETY
-=======
+# Parmelia glaucoma SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia glaucoma var. glaucoma
+null
 
 ### Remarks
 null

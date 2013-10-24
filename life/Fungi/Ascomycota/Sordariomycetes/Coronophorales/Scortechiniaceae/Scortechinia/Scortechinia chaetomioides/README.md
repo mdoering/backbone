@@ -1,5 +1,4 @@
-Scortechinia chaetomioides (Penz. & Sacc.) Arx & E. Müll. SPECIES
-=======
+# Scortechinia chaetomioides (Penz. & Sacc.) Arx & E. Müll. SPECIES
 
 #### Status
 ACCEPTED

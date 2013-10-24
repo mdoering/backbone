@@ -1,17 +1,16 @@
-Cercospora oldenlandicola Govindu & Thirum. SPECIES
-=======
+# Cercospora oldenlandiicola Govindu & Thirum. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 9: 226 (1955)
 
 #### Original name
-Cercospora oldenlandicola Govindu & Thirum.
+Cercospora oldenlandiicola Govindu & Thirum.
 
 ### Remarks
 null

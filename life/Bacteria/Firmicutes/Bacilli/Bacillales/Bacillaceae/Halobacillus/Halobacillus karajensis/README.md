@@ -1,5 +1,4 @@
-Halobacillus karajensis Amoozegar et al., 2003 SPECIES
-=======
+# Halobacillus karajensis Amoozegar et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

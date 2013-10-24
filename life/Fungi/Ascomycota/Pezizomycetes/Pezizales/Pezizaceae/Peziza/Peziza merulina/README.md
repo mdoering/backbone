@@ -1,5 +1,4 @@
-Peziza merulina Pers. SPECIES
-=======
+# Peziza merulina Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora septentrionalis H. Magn. SPECIES
-=======
+# Lecanora septentrionalis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

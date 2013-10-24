@@ -1,5 +1,4 @@
-Clitocybe obscuratipes Singer SPECIES
-=======
+# Clitocybe obscuratipes Singer SPECIES
 
 #### Status
 ACCEPTED

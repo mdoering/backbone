@@ -1,5 +1,4 @@
-Nodulosphaeria galiorum f. galiorum FORM
-=======
+# Nodulosphaeria galiorum Höhn. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 128: 582 (1919)
 
 #### Original name
-Nodulosphaeria galiorum f. galiorum
+Nodulosphaeria galiorum Höhn.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Microthyrites Pampal. GENUS
-=======
+# Microthyrites Pampal. GENUS
 
 #### Status
 ACCEPTED

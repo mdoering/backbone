@@ -1,5 +1,4 @@
-Psilopezia aquatica (Lam. & DC.) Rehm SPECIES
-=======
+# Psilopezia aquatica (Lam. & DC.) Rehm SPECIES
 
 #### Status
 ACCEPTED

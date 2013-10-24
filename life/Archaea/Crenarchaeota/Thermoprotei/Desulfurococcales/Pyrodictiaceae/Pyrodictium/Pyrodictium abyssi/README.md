@@ -1,5 +1,4 @@
-Pyrodictium abyssi Pley & Stetter, 1991 SPECIES
-=======
+# Pyrodictium abyssi Pley & Stetter, 1991 SPECIES
 
 #### Status
 ACCEPTED

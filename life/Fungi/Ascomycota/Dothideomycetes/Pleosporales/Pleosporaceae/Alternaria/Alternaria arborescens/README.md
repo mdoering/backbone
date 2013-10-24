@@ -1,5 +1,4 @@
-Alternaria arborescens E.G. Simmons, 1999 SPECIES
-=======
+# Alternaria arborescens E.G. Simmons, 1999 SPECIES
 
 #### Status
 ACCEPTED

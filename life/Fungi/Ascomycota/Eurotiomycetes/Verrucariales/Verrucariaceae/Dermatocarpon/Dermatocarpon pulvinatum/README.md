@@ -1,5 +1,4 @@
-Dermatocarpon pulvinatum (Th. Fr.) Körb. SPECIES
-=======
+# Dermatocarpon pulvinatum (Th. Fr.) Körb. SPECIES
 
 #### Status
 ACCEPTED

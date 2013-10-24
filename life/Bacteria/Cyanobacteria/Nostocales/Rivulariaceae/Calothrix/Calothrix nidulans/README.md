@@ -1,5 +1,4 @@
-Calothrix nidulans Setchell & N.L. Gardner SPECIES
-=======
+# Calothrix nidulans Setchell & N.L. Gardner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heliomyces plumieri Lév. SPECIES
-=======
+# Heliomyces plumieri Lév. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Methanopyri CLASS
-=======
+# Methanopyri CLASS
 
 #### Status
 ACCEPTED

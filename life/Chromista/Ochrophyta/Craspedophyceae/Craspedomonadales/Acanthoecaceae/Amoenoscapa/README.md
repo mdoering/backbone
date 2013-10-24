@@ -1,5 +1,4 @@
-Amoenoscapa GENUS
-=======
+# Amoenoscapa GENUS
 
 #### Status
 ACCEPTED

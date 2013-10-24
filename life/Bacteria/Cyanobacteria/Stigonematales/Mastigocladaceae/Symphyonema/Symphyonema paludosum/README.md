@@ -1,5 +1,4 @@
-Symphyonema paludosum R.Br. SPECIES
-=======
+# Symphyonema paludosum R.Br. SPECIES
 
 #### Status
 ACCEPTED

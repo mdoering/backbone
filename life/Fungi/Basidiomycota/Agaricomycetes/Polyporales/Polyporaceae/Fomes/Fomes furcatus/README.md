@@ -1,5 +1,4 @@
-Fomes furcatus (Jungh.) Sacc. SPECIES
-=======
+# Fomes furcatus (Jungh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

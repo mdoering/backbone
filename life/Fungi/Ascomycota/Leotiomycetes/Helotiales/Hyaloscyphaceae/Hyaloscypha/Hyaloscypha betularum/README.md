@@ -1,5 +1,4 @@
-Hyaloscypha betularum Svrcek SPECIES
-=======
+# Hyaloscypha betularum Svrcek SPECIES
 
 #### Status
 ACCEPTED

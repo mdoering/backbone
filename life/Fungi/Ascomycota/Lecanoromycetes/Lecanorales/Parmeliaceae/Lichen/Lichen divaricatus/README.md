@@ -1,5 +1,4 @@
-Lichen divaricatus L. SPECIES
-=======
+# Lichen divaricatus L. SPECIES
 
 #### Status
 ACCEPTED

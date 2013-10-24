@@ -1,5 +1,4 @@
-Pouzaromyces dysthaloides (Noordel.) SPECIES
-=======
+# Pouzaromyces dysthaloides (Noordel.) SPECIES
 
 #### Status
 ACCEPTED

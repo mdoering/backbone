@@ -1,5 +1,4 @@
-Rhodophyllus strictior (Peck) Singer SPECIES
-=======
+# Rhodophyllus strictior (Peck) Singer SPECIES
 
 #### Status
 ACCEPTED

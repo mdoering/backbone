@@ -1,5 +1,4 @@
-Clitocybe radiata Velen. SPECIES
-=======
+# Clitocybe radiata Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anthracoidea foetidae H. Zogg SPECIES
-=======
+# Anthracoidea foetidae H. Zogg SPECIES
 
 #### Status
 ACCEPTED

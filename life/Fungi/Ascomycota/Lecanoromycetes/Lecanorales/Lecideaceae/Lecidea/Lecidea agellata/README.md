@@ -1,5 +1,4 @@
-Lecidea agellata Darb. SPECIES
-=======
+# Lecidea agellata Darb. SPECIES
 
 #### Status
 ACCEPTED

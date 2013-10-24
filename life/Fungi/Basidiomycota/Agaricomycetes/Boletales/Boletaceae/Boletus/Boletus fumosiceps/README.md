@@ -1,5 +1,4 @@
-Boletus fumosiceps (Murrill) Murrill SPECIES
-=======
+# Boletus fumosiceps (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

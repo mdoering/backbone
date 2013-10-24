@@ -1,5 +1,4 @@
-Phoma jaunpurensis R.C. Srivast. SPECIES
-=======
+# Phoma jaunpurensis R.C. Srivast. SPECIES
 
 #### Status
 ACCEPTED

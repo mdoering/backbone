@@ -1,17 +1,16 @@
-Geosmithia argillacea (Stolk, H.C. Evans & T. Nilsson) Pitt, 1979 SPECIES
-=======
+# Talaromyces eburneus Yaguchi, Someya & Udagawa, 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 57(19): 2026 (1979)
+Mycoscience 35(3): 249 (1994)
 
 #### Original name
-Penicillium argillaceum Stolk, H.C. Evans & T. Nilsson, 1969
+Talaromyces eburneus Yaguchi, Someya & Udagawa, 1994
 
 ### Remarks
 null

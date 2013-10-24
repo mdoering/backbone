@@ -1,5 +1,4 @@
-Septoria tabebuiae-impetiginosae Inácio & Dianese SPECIES
-=======
+# Septoria tabebuiae-impetiginosae Inácio & Dianese SPECIES
 
 #### Status
 ACCEPTED

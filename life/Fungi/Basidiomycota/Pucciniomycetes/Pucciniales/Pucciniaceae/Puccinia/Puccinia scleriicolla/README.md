@@ -1,5 +1,4 @@
-Puccinia scleriicolla Art. SPECIES
-=======
+# Puccinia scleriicolla Art. SPECIES
 
 #### Status
 ACCEPTED

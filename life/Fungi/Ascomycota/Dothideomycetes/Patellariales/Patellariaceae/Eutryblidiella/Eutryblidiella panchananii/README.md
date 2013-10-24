@@ -1,5 +1,4 @@
-Eutryblidiella panchananii Mukerji & Dhawan SPECIES
-=======
+# Eutryblidiella panchananii Mukerji & Dhawan SPECIES
 
 #### Status
 ACCEPTED

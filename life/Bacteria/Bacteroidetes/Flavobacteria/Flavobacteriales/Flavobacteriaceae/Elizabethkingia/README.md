@@ -1,5 +1,4 @@
-Elizabethkingia Kim, Kim, Lim, Park & Lee, 2005 GENUS
-=======
+# Elizabethkingia Kim, Kim, Lim, Park & Lee, 2005 GENUS
 
 #### Status
 ACCEPTED

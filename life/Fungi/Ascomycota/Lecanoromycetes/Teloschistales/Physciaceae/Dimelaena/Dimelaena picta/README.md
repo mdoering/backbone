@@ -1,5 +1,4 @@
-Dimelaena picta SPECIES
-=======
+# Dimelaena picta SPECIES
 
 #### Status
 ACCEPTED

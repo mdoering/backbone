@@ -1,5 +1,4 @@
-Cercidospora onosmodina (Peck & M.A. Curtis) Kuntze SPECIES
-=======
+# Cercidospora onosmodina (Peck & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acarospora vaucheri B. de Lesd. SPECIES
-=======
+# Acarospora vaucheri B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

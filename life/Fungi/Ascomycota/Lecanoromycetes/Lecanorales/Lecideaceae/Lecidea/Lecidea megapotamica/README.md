@@ -1,5 +1,4 @@
-Lecidea megapotamica Malme SPECIES
-=======
+# Lecidea megapotamica Malme SPECIES
 
 #### Status
 ACCEPTED

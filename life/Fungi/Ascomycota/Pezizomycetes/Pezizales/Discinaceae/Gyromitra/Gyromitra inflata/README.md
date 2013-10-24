@@ -1,5 +1,4 @@
-Gyromitra inflata (Cumino) Cooke SPECIES
-=======
+# Gyromitra inflata (Cumino) Cooke SPECIES
 
 #### Status
 ACCEPTED

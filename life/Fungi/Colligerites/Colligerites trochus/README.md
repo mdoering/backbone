@@ -1,5 +1,4 @@
-Colligerites trochus B. Samant SPECIES
-=======
+# Colligerites trochus B. Samant SPECIES
 
 #### Status
 ACCEPTED

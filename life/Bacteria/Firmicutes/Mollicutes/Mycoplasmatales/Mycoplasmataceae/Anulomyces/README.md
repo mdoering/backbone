@@ -1,5 +1,4 @@
-Anulomyces Wroblewski, 1931 GENUS
-=======
+# Anulomyces Wroblewski, 1931 GENUS
 
 #### Status
 ACCEPTED

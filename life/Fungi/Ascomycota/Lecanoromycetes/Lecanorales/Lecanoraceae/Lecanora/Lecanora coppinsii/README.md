@@ -1,5 +1,4 @@
-Lecanora coppinsii M. Brand & van den Boom SPECIES
-=======
+# Lecanora coppinsii M. Brand & van den Boom SPECIES
 
 #### Status
 ACCEPTED

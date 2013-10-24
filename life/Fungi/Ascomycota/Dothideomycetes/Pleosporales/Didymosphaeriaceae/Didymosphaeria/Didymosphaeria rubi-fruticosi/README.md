@@ -1,5 +1,4 @@
-Didymosphaeria rubi-fruticosi (P. Crouan & H. Crouan) Sacc. SPECIES
-=======
+# Didymosphaeria rubi-fruticosi (P. Crouan & H. Crouan) Sacc. SPECIES
 
 #### Status
 ACCEPTED

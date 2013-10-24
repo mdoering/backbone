@@ -1,17 +1,16 @@
-Stereum rugosum subsp. rugosum SUBSPECIES
-=======
+# Stereum rugosum Pers., 1794 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Neues Mag. Bot. 1: 110 (1794)
 
 #### Original name
-Stereum rugosum subsp. rugosum
+Stereum rugosum Pers., 1794
 
 ### Remarks
 null

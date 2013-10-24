@@ -1,5 +1,4 @@
-Agaricus conferciens Britzelm. SPECIES
-=======
+# Agaricus conferciens Britzelm. SPECIES
 
 #### Status
 ACCEPTED

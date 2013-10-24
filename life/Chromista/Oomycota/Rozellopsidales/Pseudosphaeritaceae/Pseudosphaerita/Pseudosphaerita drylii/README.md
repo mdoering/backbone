@@ -1,17 +1,16 @@
-Pseudosphaerita dryli Pérez Reyes, Madr.-Gar. & E.L. Ochot. SPECIES
-=======
+# Pseudosphaerita drylii Pérez Reyes, Madr.-Gar. & E.L. Ochot., 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Revista Latinoamericana de Microbiología 27(2): 90 (1985)
 
 #### Original name
-Pseudosphaerita dryli Pérez Reyes, Madr.-Gar. & E.L. Ochot.
+Pseudosphaerita drylii Pérez Reyes, Madr.-Gar. & E.L. Ochot., 1985
 
 ### Remarks
 null

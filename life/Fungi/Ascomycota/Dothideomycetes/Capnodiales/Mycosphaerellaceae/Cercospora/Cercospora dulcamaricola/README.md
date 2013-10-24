@@ -1,5 +1,4 @@
-Cercospora dulcamaricola Hollós SPECIES
-=======
+# Cercospora dulcamaricola Hollós SPECIES
 
 #### Status
 ACCEPTED

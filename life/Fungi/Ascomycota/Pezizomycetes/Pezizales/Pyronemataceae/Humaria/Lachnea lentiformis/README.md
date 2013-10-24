@@ -1,5 +1,4 @@
-Lachnea lentiformis Pers. SPECIES
-=======
+# Lachnea lentiformis Pers. SPECIES
 
 #### Status
 ACCEPTED

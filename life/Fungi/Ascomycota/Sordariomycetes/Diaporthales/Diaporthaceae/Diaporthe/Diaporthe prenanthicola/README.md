@@ -1,5 +1,4 @@
-Diaporthe prenanthicola G.F. Atk. SPECIES
-=======
+# Diaporthe prenanthicola G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

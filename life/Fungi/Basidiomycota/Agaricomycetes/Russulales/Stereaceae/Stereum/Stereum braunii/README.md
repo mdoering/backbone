@@ -1,5 +1,4 @@
-Stereum braunii (Henn.) Beeli SPECIES
-=======
+# Stereum braunii (Henn.) Beeli SPECIES
 
 #### Status
 ACCEPTED

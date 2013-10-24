@@ -1,5 +1,4 @@
-Epiglia GENUS
-=======
+# Epiglia GENUS
 
 #### Status
 ACCEPTED

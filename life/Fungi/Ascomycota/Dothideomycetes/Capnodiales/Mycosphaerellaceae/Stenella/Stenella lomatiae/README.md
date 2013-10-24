@@ -1,5 +1,4 @@
-Stenella lomatiae Priest SPECIES
-=======
+# Stenella lomatiae Priest SPECIES
 
 #### Status
 ACCEPTED

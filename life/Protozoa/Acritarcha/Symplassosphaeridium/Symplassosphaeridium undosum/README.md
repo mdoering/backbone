@@ -1,5 +1,4 @@
-Symplassosphaeridium undosum Jankauskas, 1979 SPECIES
-=======
+# Symplassosphaeridium undosum Jankauskas, 1979 SPECIES
 
 #### Status
 ACCEPTED

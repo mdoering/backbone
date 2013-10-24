@@ -1,5 +1,4 @@
-Guestia gonetropospora G.J.D. Sm. & K.D. Hyde, 2001 SPECIES
-=======
+# Guestia gonetropospora G.J.D. Sm. & K.D. Hyde, 2001 SPECIES
 
 #### Status
 ACCEPTED

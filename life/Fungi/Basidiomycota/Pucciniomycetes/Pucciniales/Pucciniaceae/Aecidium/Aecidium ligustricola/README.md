@@ -1,5 +1,4 @@
-Aecidium ligustricola Cummins SPECIES
-=======
+# Aecidium ligustricola Cummins SPECIES
 
 #### Status
 ACCEPTED

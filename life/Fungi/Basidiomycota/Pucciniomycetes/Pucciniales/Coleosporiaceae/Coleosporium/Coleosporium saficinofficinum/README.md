@@ -1,5 +1,4 @@
-Coleosporium saficinofficinum Thüm. SPECIES
-=======
+# Coleosporium saficinofficinum Thüm. SPECIES
 
 #### Status
 ACCEPTED

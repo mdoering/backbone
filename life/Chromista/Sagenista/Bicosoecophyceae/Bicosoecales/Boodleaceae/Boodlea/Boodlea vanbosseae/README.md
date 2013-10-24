@@ -1,5 +1,4 @@
-Boodlea vanbosseae Reinbold SPECIES
-=======
+# Boodlea vanbosseae Reinbold SPECIES
 
 #### Status
 ACCEPTED

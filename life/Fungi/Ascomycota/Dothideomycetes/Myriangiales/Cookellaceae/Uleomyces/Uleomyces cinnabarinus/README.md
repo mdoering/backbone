@@ -1,5 +1,4 @@
-Uleomyces cinnabarinus Höhn. SPECIES
-=======
+# Uleomyces cinnabarinus Höhn. SPECIES
 
 #### Status
 ACCEPTED

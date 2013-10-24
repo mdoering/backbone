@@ -1,5 +1,4 @@
-Xerula mundroola (Grgur.) R.H. Petersen SPECIES
-=======
+# Xerula mundroola (Grgur.) R.H. Petersen SPECIES
 
 #### Status
 ACCEPTED

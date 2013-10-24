@@ -1,5 +1,4 @@
-Nolanea californica (Murrill) Largent SPECIES
-=======
+# Nolanea californica (Murrill) Largent SPECIES
 
 #### Status
 ACCEPTED

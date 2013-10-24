@@ -1,5 +1,4 @@
-Russula favrei M.M. Moser, 1979 SPECIES
-=======
+# Russula favrei M.M. Moser, 1979 SPECIES
 
 #### Status
 ACCEPTED

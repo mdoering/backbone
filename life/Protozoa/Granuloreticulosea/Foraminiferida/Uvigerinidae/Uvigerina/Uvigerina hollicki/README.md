@@ -1,5 +1,4 @@
-Uvigerina hollicki Thalmann, 1950 SPECIES
-=======
+# Uvigerina hollicki Thalmann, 1950 SPECIES
 
 #### Status
 ACCEPTED

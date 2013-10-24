@@ -1,5 +1,4 @@
-Phyllachora yunnanensis Na Liu & L. Guo, 2006 SPECIES
-=======
+# Phyllachora yunnanensis Na Liu & L. Guo, 2006 SPECIES
 
 #### Status
 ACCEPTED

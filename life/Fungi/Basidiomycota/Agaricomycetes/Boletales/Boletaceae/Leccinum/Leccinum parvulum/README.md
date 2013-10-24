@@ -1,5 +1,4 @@
-Leccinum parvulum A.H. Sm., Thiers & Watling SPECIES
-=======
+# Leccinum parvulum A.H. Sm., Thiers & Watling SPECIES
 
 #### Status
 ACCEPTED

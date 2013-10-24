@@ -1,5 +1,4 @@
-Scleroderris crypta (Cooke) Sacc. SPECIES
-=======
+# Scleroderris crypta (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

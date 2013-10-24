@@ -1,5 +1,4 @@
-Agrocybe fimicola (Speg.) Singer SPECIES
-=======
+# Agrocybe fimicola (Speg.) Singer SPECIES
 
 #### Status
 ACCEPTED

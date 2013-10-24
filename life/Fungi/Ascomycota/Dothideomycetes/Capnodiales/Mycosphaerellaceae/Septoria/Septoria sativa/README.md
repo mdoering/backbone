@@ -1,5 +1,4 @@
-Septoria sativa Frandsen SPECIES
-=======
+# Septoria sativa Frandsen SPECIES
 
 #### Status
 ACCEPTED

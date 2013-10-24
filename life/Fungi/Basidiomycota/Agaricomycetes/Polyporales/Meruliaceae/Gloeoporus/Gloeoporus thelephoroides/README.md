@@ -1,14 +1,13 @@
-Boletus thelephoroides Hook., 1822 SPECIES
-=======
+# Gloeoporus thelephoroides (Hook.) G. Cunn., 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syn. pl. 1: 10 (1822)
+Bull. N. Z. Dept. Sci. Industr. Res. , Pl. Dis. Div. 164: 111 (1965)
 
 #### Original name
 Boletus thelephoroides Hook., 1822

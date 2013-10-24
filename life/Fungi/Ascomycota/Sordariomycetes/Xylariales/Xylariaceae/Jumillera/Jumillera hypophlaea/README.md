@@ -1,14 +1,13 @@
-Nummularia hypophlaea (Berk. & Ravenel) Cooke, 1883 SPECIES
-=======
+# Jumillera hypophlaea (Berk. & Ravenel) J.D. Rogers, Y.M. Ju & F. San Martín, 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 12(no. 62): 51 (1883)
+Mycotaxon 64: 45 (1997)
 
 #### Original name
 Diatrype hypophlaea Berk. & Ravenel, 1876

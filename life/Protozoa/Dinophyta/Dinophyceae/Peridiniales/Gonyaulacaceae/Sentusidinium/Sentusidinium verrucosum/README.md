@@ -1,5 +1,4 @@
-Sentusidinium verrucosum (W.A.S. Sarjeant) W.A.S. Sarjeant & L.E. Stover SPECIES
-=======
+# Sentusidinium verrucosum (W.A.S. Sarjeant) W.A.S. Sarjeant & L.E. Stover SPECIES
 
 #### Status
 ACCEPTED

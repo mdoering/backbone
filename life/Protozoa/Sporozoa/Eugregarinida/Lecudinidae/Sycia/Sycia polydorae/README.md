@@ -1,5 +1,4 @@
-Sycia polydorae Ganapati, 1946 SPECIES
-=======
+# Sycia polydorae Ganapati, 1946 SPECIES
 
 #### Status
 ACCEPTED

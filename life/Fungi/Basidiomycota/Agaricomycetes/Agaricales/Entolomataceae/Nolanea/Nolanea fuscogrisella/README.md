@@ -1,5 +1,4 @@
-Nolanea fuscogrisella Peck SPECIES
-=======
+# Nolanea fuscogrisella Peck SPECIES
 
 #### Status
 ACCEPTED

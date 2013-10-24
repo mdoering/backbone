@@ -1,5 +1,4 @@
-Rhizophydium echinocystoides Sparrow SPECIES
-=======
+# Rhizophydium echinocystoides Sparrow SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrophyllosticta acaciicola (Pat.) Sousa da Câmara SPECIES
-=======
+# Macrophyllosticta acaciicola (Pat.) Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

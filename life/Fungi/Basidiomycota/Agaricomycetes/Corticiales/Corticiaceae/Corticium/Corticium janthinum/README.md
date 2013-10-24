@@ -1,5 +1,4 @@
-Corticium janthinum Durieu & Lév. ex Sacc. SPECIES
-=======
+# Corticium janthinum Durieu & Lév. ex Sacc. SPECIES
 
 #### Status
 ACCEPTED

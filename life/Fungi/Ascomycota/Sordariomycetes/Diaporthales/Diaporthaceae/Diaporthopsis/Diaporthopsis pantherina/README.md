@@ -1,14 +1,13 @@
-Sphaeria pantherina Berk., 1836 SPECIES
-=======
+# Diaporthopsis pantherina (Berk.) Wehm., 1934 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Cooke, Handb. no. 2689 (1836)
+Trans. Br. mycol. Soc. 18(4): 292 (1933)
 
 #### Original name
 Sphaeria pantherina Berk., 1836

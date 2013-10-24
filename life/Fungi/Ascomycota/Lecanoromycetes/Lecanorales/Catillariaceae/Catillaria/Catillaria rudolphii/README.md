@@ -1,17 +1,16 @@
-Catillaria rudolphi C.W. Dodge SPECIES
-=======
+# Catillaria rudolphii C.W. Dodge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ann. Mo. bot. Gdn 42: 139 (1955)
 
 #### Original name
-Catillaria rudolphi C.W. Dodge
+Catillaria rudolphii C.W. Dodge
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lloydella durissima Rick SPECIES
-=======
+# Lloydella durissima Rick SPECIES
 
 #### Status
 ACCEPTED

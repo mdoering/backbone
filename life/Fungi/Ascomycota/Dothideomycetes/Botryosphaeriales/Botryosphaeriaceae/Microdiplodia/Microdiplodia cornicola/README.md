@@ -1,5 +1,4 @@
-Microdiplodia cornicola Petr. SPECIES
-=======
+# Microdiplodia cornicola Petr. SPECIES
 
 #### Status
 ACCEPTED

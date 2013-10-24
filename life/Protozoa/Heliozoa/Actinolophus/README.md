@@ -1,5 +1,4 @@
-Actinolophus Schulze, 1874 GENUS
-=======
+# Actinolophus Schulze, 1874 GENUS
 
 #### Status
 ACCEPTED

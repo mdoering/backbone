@@ -1,5 +1,4 @@
-Coccolithus miopelagicus agg. miopelagicus INFRASPECIFIC_NAME
-=======
+# Coccolithus miopelagicus Bukry, 1971 SPECIES
 
 #### Status
 ACCEPTED

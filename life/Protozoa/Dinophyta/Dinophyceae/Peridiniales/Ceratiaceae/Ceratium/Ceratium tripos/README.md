@@ -1,11 +1,10 @@
-Ceratium tripos var. tripos VARIETY
-=======
+# Ceratium tripos (O.F. Müller) Nitzsch SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

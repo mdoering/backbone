@@ -1,17 +1,16 @@
-Coelosoma Anigstein, 1912 GENUS
-=======
+# Coelosomides Strand, 1928 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+Integrated Taxonomic Information System
 
 #### Published in
-Arch. Protistenk. , 24, 137.
+Arch. Naturgesch. , 92, A8, 1926, 31.
 
 #### Original name
-null
+Coelosoma Anigstein, 1912
 
 ### Remarks
 null

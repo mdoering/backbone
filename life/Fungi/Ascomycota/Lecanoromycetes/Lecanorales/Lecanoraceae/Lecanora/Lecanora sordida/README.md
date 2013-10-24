@@ -1,5 +1,4 @@
-Lecanora sordida var. sordida VARIETY
-=======
+# Lecanora sordida SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Nova Acta R. Soc. Scient. upsal. , Ser. 3 3: 215 (1861)
+null
 
 #### Original name
-Lecanora sordida var. sordida
+null
 
 ### Remarks
 null

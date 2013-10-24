@@ -1,5 +1,4 @@
-Fusarium nectricreans Kirschst. SPECIES
-=======
+# Fusarium nectricreans Kirschst. SPECIES
 
 #### Status
 ACCEPTED

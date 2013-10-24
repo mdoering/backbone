@@ -1,5 +1,4 @@
-Cladosporium aureum Link SPECIES
-=======
+# Cladosporium aureum Link SPECIES
 
 #### Status
 ACCEPTED

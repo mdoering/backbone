@@ -1,5 +1,4 @@
-Fragilaria elliptica Schumann SPECIES
-=======
+# Fragilaria elliptica Schumann SPECIES
 
 #### Status
 ACCEPTED

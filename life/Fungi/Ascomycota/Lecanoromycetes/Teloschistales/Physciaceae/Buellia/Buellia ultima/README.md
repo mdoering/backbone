@@ -1,5 +1,4 @@
-Buellia ultima SPECIES
-=======
+# Buellia ultima SPECIES
 
 #### Status
 ACCEPTED

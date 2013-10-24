@@ -1,5 +1,4 @@
-Cystopage intercalaris Drechsler, 1945 SPECIES
-=======
+# Cystopage intercalaris Drechsler, 1945 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amerosporium sedi P. Karst. SPECIES
-=======
+# Amerosporium sedi P. Karst. SPECIES
 
 #### Status
 ACCEPTED

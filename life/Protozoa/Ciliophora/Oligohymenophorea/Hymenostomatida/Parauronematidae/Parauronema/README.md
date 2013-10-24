@@ -1,5 +1,4 @@
-Parauronema Thompson, 1967 GENUS
-=======
+# Parauronema Thompson, 1967 GENUS
 
 #### Status
 ACCEPTED

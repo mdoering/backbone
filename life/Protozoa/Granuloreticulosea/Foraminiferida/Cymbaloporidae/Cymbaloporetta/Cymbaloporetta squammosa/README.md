@@ -1,11 +1,10 @@
-Rosalina poeyi d'Orbigny, 1839 SPECIES
-=======
+# Cymbaloporetta squammosa (d'Orbigny, 1826) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

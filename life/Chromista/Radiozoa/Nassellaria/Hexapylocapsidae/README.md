@@ -1,5 +1,4 @@
-Hexapylocapsidae Dumitrica & Zuegel, 1998 FAMILY
-=======
+# Hexapylocapsidae Dumitrica & Zuegel, 1998 FAMILY
 
 #### Status
 ACCEPTED

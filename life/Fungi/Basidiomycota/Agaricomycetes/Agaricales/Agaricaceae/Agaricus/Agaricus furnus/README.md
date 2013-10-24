@@ -1,5 +1,4 @@
-Agaricus furnus Batsch SPECIES
-=======
+# Agaricus furnus Batsch SPECIES
 
 #### Status
 ACCEPTED

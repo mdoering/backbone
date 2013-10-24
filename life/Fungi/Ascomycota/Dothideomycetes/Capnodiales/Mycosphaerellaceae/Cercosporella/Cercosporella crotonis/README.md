@@ -1,5 +1,4 @@
-Cercosporella crotonis Henn. SPECIES
-=======
+# Cercosporella crotonis Henn. SPECIES
 
 #### Status
 ACCEPTED

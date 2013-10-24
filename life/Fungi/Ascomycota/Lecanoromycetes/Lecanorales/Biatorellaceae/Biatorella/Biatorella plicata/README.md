@@ -1,5 +1,4 @@
-Biatorella plicata H. Magn. SPECIES
-=======
+# Biatorella plicata H. Magn. SPECIES
 
 #### Status
 ACCEPTED

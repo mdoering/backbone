@@ -1,5 +1,4 @@
-Clavaria aestivalis Romagn. SPECIES
-=======
+# Clavaria aestivalis Romagn. SPECIES
 
 #### Status
 ACCEPTED

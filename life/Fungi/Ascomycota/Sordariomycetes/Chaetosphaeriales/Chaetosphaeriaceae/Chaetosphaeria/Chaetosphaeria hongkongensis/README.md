@@ -1,5 +1,4 @@
-Chaetosphaeria hongkongensis K.D. Hyde, Goh, Joanne E. Taylor & J. Fröhl. SPECIES
-=======
+# Chaetosphaeria hongkongensis K.D. Hyde, Goh, Joanne E. Taylor & J. Fröhl. SPECIES
 
 #### Status
 ACCEPTED

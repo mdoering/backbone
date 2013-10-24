@@ -1,5 +1,4 @@
-Chlamydophila Everett, Bush & Andersen, 1999 GENUS
-=======
+# Chlamydophila Everett, Bush & Andersen, 1999 GENUS
 
 #### Status
 ACCEPTED

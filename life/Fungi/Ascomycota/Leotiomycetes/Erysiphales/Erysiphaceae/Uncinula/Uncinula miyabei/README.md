@@ -1,5 +1,4 @@
-Uncinula miyabei (E.S. Salmon) Sacc. & P. Syd. SPECIES
-=======
+# Uncinula miyabei (E.S. Salmon) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

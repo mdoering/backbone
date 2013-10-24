@@ -1,5 +1,4 @@
-Discorbis obtusus (d'Orbigny) SPECIES
-=======
+# Discorbis obtusus (d'Orbigny) SPECIES
 
 #### Status
 ACCEPTED

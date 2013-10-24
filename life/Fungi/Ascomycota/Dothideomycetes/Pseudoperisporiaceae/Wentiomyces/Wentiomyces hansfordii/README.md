@@ -1,5 +1,4 @@
-Wentiomyces hansfordii (Syd.) E. Müll. SPECIES
-=======
+# Wentiomyces hansfordii (Syd.) E. Müll. SPECIES
 
 #### Status
 ACCEPTED

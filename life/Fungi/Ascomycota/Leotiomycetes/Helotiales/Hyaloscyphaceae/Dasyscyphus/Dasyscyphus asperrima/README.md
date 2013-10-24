@@ -1,17 +1,16 @@
-Dasyscypha asperrima Rehm SPECIES
-=======
+# Dasyscyphus asperrima Rehm SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Ade, Hedwigia 64: 311 (1923)
 
 #### Original name
-Dasyscypha asperrima Rehm
+Dasyscyphus asperrima Rehm
 
 ### Remarks
 null

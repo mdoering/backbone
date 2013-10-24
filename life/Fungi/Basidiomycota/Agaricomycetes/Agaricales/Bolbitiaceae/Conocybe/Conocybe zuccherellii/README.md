@@ -1,5 +1,4 @@
-Conocybe zuccherellii Hauskn. SPECIES
-=======
+# Conocybe zuccherellii Hauskn. SPECIES
 
 #### Status
 ACCEPTED

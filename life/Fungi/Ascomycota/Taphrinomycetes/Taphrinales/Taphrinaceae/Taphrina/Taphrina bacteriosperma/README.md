@@ -1,5 +1,4 @@
-Taphrina bacteriosperma Johanson SPECIES
-=======
+# Taphrina bacteriosperma Johanson SPECIES
 
 #### Status
 ACCEPTED

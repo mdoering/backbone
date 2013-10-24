@@ -1,14 +1,13 @@
-Macrophoma opuntiae Siemaszko SPECIES
-=======
+# Dothiorella opuntiae (Siemaszko) Petr., 1927 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Petrak & Sydow, Feddes Repert. , Beih. 42: 238 (1927)
 
 #### Original name
 Macrophoma opuntiae Siemaszko

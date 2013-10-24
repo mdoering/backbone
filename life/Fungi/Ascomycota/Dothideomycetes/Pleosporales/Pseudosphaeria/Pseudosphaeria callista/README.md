@@ -1,5 +1,4 @@
-Pseudosphaeria callista (Rehm) Höhn. SPECIES
-=======
+# Pseudosphaeria callista (Rehm) Höhn. SPECIES
 
 #### Status
 ACCEPTED

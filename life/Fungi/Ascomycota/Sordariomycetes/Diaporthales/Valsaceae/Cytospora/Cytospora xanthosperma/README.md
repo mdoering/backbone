@@ -1,17 +1,16 @@
-Cytispora xanthosperma Fr. SPECIES
-=======
+# Cytospora xanthosperma Fr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syst. mycol. (Lundae) 2(2): 543 (1823)
 
 #### Original name
-Cytispora xanthosperma Fr.
+Cytospora xanthosperma Fr.
 
 ### Remarks
 null

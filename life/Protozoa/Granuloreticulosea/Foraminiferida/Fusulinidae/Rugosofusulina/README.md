@@ -1,5 +1,4 @@
-Rugosofusulina Rauser-Cernoussova, 1937 GENUS
-=======
+# Rugosofusulina Rauser-Cernoussova, 1937 GENUS
 
 #### Status
 ACCEPTED

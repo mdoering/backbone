@@ -1,5 +1,4 @@
-Phyllosticta buddleiicola Cejp SPECIES
-=======
+# Phyllosticta buddleiicola Cejp SPECIES
 
 #### Status
 ACCEPTED

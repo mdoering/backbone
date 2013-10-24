@@ -1,5 +1,4 @@
-Sphaeria depolita Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeria depolita Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

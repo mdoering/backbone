@@ -1,5 +1,4 @@
-Fomitopsis minuta Aime & Ryvarden SPECIES
-=======
+# Fomitopsis minuta Aime & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

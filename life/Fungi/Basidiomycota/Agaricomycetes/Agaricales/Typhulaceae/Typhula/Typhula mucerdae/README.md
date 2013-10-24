@@ -1,5 +1,4 @@
-Typhula mucerdae Schwein. SPECIES
-=======
+# Typhula mucerdae Schwein. SPECIES
 
 #### Status
 ACCEPTED

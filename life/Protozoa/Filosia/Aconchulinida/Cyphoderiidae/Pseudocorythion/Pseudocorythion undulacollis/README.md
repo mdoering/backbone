@@ -1,5 +1,4 @@
-Pseudocorythion undulacollis Chardez & Thomas, 1980 SPECIES
-=======
+# Pseudocorythion undulacollis Chardez & Thomas, 1980 SPECIES
 
 #### Status
 ACCEPTED

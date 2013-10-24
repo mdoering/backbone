@@ -1,5 +1,4 @@
-Alternaria camelliae (Cooke & Massee) P. Joly SPECIES
-=======
+# Alternaria camelliae (Cooke & Massee) P. Joly SPECIES
 
 #### Status
 ACCEPTED

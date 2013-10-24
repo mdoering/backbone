@@ -1,5 +1,4 @@
-Sporocarpon anomalum (Will.) Kalgutkar & Janson. SPECIES
-=======
+# Sporocarpon anomalum (Will.) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

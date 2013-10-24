@@ -1,5 +1,4 @@
-Phyllosticta beltranii Penz. SPECIES
-=======
+# Phyllosticta beltranii Penz. SPECIES
 
 #### Status
 ACCEPTED

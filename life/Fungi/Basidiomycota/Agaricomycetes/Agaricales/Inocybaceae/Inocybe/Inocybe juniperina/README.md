@@ -1,17 +1,16 @@
-Inocybe juniperina var. juniperina VARIETY
-=======
+# Inocybe juniperina M. Marchetti, Franchi & Bizio SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+in Marchetti & Franchi, Riv. Micol. 46(4): 324 (2004)
 
 #### Original name
-null
+Inocybe juniperina M. Marchetti, Franchi & Bizio
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pholiota innocua A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota innocua A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

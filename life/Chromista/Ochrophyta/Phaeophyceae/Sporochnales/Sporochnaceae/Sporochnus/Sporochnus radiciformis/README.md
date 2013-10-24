@@ -1,8 +1,7 @@
-Sporochnus cryptocephalus Kützing SPECIES
-=======
+# Sporochnus radiciformis (R.Brown ex Turner) C. Agardh SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

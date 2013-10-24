@@ -1,5 +1,4 @@
-Lecanora breuteliana A. Massal. SPECIES
-=======
+# Lecanora breuteliana A. Massal. SPECIES
 
 #### Status
 ACCEPTED

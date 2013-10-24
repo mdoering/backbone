@@ -1,14 +1,13 @@
-Crussolia A. Wolfard & A.W. van Erve, 1981 GENUS
-=======
+# Evansia S.A.J. Pocock, 1972 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+IRMNG Homonym List
 
 #### Published in
-null
+Palaeontographica (B) 137: 95.
 
 #### Original name
 null

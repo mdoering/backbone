@@ -1,5 +1,4 @@
-Uredo proëminens DC. SPECIES
-=======
+# Uredo proëminens DC. SPECIES
 
 #### Status
 ACCEPTED

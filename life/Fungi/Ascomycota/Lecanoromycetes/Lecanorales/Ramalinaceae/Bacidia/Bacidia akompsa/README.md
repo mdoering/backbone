@@ -1,5 +1,4 @@
-Bacidia akompsa (Tuck.) Fink SPECIES
-=======
+# Bacidia akompsa (Tuck.) Fink SPECIES
 
 #### Status
 ACCEPTED

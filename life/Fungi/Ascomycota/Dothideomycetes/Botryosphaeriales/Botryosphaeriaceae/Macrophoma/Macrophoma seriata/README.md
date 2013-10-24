@@ -1,5 +1,4 @@
-Macrophoma seriata Sacc. & P. Syd. SPECIES
-=======
+# Macrophoma seriata Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramularia bulgarica Bubák & Picb. SPECIES
-=======
+# Ramularia bulgarica Bubák & Picb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xanthoparmelia probarbellata Hale SPECIES
-=======
+# Xanthoparmelia probarbellata Hale SPECIES
 
 #### Status
 ACCEPTED

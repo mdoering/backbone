@@ -1,5 +1,4 @@
-Triangulomonas Lackey, 1940 GENUS
-=======
+# Triangulomonas Lackey, 1940 GENUS
 
 #### Status
 ACCEPTED

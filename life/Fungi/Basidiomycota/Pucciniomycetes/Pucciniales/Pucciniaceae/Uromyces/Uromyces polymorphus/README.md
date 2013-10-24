@@ -1,5 +1,4 @@
-Uromyces polymorphus Peck & Clinton SPECIES
-=======
+# Uromyces polymorphus Peck & Clinton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniophora eradians (Fr.) Fr. SPECIES
-=======
+# Coniophora eradians (Fr.) Fr. SPECIES
 
 #### Status
 ACCEPTED

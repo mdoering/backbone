@@ -1,5 +1,4 @@
-Granomarginata sokolovi (Timofeev, 1959) N. Umnova, 1975 SPECIES
-=======
+# Granomarginata sokolovi (Timofeev, 1959) N. Umnova, 1975 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cetraria bohemica Anders SPECIES
-=======
+# Cetraria bohemica Anders SPECIES
 
 #### Status
 ACCEPTED

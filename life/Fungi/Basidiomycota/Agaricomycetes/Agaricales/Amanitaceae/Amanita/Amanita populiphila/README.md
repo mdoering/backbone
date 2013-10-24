@@ -1,5 +1,4 @@
-Amanita populiphila Tulloss & E. Moses SPECIES
-=======
+# Amanita populiphila Tulloss & E. Moses SPECIES
 
 #### Status
 ACCEPTED

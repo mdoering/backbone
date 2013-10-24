@@ -1,5 +1,4 @@
-Dothiora ellisii (M.E. Barr) Shoemaker & C.E. Babc. SPECIES
-=======
+# Dothiora ellisii (M.E. Barr) Shoemaker & C.E. Babc. SPECIES
 
 #### Status
 ACCEPTED

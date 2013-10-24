@@ -1,5 +1,4 @@
-Lobaria subcaperata (Nyl.) Hellb. SPECIES
-=======
+# Lobaria subcaperata (Nyl.) Hellb. SPECIES
 
 #### Status
 ACCEPTED

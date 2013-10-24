@@ -1,5 +1,4 @@
-Aspergillus westendorpii Sacc. & Marchal SPECIES
-=======
+# Aspergillus westendorpii Sacc. & Marchal SPECIES
 
 #### Status
 ACCEPTED

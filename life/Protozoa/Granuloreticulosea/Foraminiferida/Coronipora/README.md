@@ -1,5 +1,4 @@
-Coronipora GENUS
-=======
+# Coronipora GENUS
 
 #### Status
 ACCEPTED

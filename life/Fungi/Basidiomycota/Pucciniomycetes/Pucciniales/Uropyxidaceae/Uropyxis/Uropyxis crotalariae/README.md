@@ -1,5 +1,4 @@
-Uropyxis crotalariae Arthur SPECIES
-=======
+# Uropyxis crotalariae Arthur SPECIES
 
 #### Status
 ACCEPTED

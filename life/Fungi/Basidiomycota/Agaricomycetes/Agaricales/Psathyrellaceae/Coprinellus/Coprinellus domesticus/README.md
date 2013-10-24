@@ -1,14 +1,13 @@
-Agaricus domesticus Bolton, 1788 SPECIES
-=======
+# Coprinellus domesticus (Bolton) Vilgalys, Hopple & Jacq. Johnson, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hist. fung. Halifax (Huddersfield) 1: 26 (1788)
+in Redhead, Vilgalys, Moncalvo, Johnson & Hopple, Taxon 50(1): 233 (2001)
 
 #### Original name
 Agaricus domesticus Bolton, 1788

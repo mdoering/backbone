@@ -1,5 +1,4 @@
-Clibanites paradoxa (P. Karst.) P. Karst., 1871 SPECIES
-=======
+# Clibanites paradoxa (P. Karst.) P. Karst., 1871 SPECIES
 
 #### Status
 ACCEPTED

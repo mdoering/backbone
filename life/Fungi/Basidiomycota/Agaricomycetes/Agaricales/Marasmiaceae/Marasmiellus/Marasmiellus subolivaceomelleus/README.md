@@ -1,5 +1,4 @@
-Marasmiellus subolivaceomelleus Singer SPECIES
-=======
+# Marasmiellus subolivaceomelleus Singer SPECIES
 
 #### Status
 ACCEPTED

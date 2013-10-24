@@ -1,5 +1,4 @@
-Asterina inversa (Höhn.) Sacc. & Trotter SPECIES
-=======
+# Asterina inversa (Höhn.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

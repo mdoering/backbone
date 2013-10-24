@@ -1,5 +1,4 @@
-Buelliomyces canescentis E.A. Thomas ex Cif. & Tomas. SPECIES
-=======
+# Buelliomyces canescentis E.A. Thomas ex Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

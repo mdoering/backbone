@@ -1,5 +1,4 @@
-Sphaeria leguminis-cytisi Desm. SPECIES
-=======
+# Sphaeria leguminis-cytisi Desm. SPECIES
 
 #### Status
 ACCEPTED

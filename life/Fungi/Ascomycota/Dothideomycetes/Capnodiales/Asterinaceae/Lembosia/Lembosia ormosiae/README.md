@@ -1,5 +1,4 @@
-Lembosia ormosiae W. Yamam. SPECIES
-=======
+# Lembosia ormosiae W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

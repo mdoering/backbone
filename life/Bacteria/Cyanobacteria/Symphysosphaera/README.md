@@ -1,5 +1,4 @@
-Symphysosphaera C.-Y. Yin, 1992 GENUS
-=======
+# Symphysosphaera C.-Y. Yin, 1992 GENUS
 
 #### Status
 ACCEPTED

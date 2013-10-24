@@ -1,5 +1,4 @@
-Arthonia peltigerina (Almq.) H. Olivier SPECIES
-=======
+# Arthonia peltigerina (Almq.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

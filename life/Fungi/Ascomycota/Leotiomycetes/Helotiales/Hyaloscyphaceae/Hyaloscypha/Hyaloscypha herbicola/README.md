@@ -1,5 +1,4 @@
-Hyaloscypha herbicola (Svrcek) Korf SPECIES
-=======
+# Hyaloscypha herbicola (Svrcek) Korf SPECIES
 
 #### Status
 ACCEPTED

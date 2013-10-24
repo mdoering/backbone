@@ -1,5 +1,4 @@
-Telmatospirillum Sizova et al., 2007 GENUS
-=======
+# Telmatospirillum Sizova et al., 2007 GENUS
 
 #### Status
 ACCEPTED

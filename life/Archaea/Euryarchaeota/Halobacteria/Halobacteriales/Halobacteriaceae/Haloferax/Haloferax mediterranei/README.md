@@ -1,8 +1,7 @@
-Halobacterium mediterranei Rodriguez-Valera et al., 1983 SPECIES
-=======
+# Haloferax mediterranei (Rodriguez-Valera et al., 1983) Torreblanca et al., 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

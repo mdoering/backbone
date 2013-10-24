@@ -1,5 +1,4 @@
-Cladorrhinum maiae Bat. SPECIES
-=======
+# Cladorrhinum maiae Bat. SPECIES
 
 #### Status
 ACCEPTED

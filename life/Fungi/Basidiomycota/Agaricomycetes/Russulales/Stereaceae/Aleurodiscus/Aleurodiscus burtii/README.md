@@ -1,17 +1,16 @@
-Aleurodiscus burti Trotter SPECIES
-=======
+# Aleurodiscus burtii Trotter SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 23: 525 (1925)
 
 #### Original name
-Aleurodiscus burti Trotter
+Aleurodiscus burtii Trotter
 
 ### Remarks
 null

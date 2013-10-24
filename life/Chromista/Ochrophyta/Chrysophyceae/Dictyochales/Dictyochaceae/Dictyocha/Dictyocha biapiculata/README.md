@@ -1,5 +1,4 @@
-Dictyocha biapiculata var. lata Deflandre VARIETY
-=======
+# Dictyocha biapiculata SPECIES
 
 #### Status
 ACCEPTED

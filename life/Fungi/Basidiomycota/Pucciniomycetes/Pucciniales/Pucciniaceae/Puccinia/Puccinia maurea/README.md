@@ -1,5 +1,4 @@
-Puccinia maurea G. Cunn., 1930 SPECIES
-=======
+# Puccinia maurea G. Cunn., 1930 SPECIES
 
 #### Status
 ACCEPTED

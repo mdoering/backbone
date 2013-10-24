@@ -1,5 +1,4 @@
-Clisosporium castagnei (Sacc.) Kuntze SPECIES
-=======
+# Clisosporium castagnei (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

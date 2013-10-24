@@ -1,5 +1,4 @@
-Lecidea subfumosa (Arnold) J. Lahm SPECIES
-=======
+# Lecidea subfumosa (Arnold) J. Lahm SPECIES
 
 #### Status
 ACCEPTED

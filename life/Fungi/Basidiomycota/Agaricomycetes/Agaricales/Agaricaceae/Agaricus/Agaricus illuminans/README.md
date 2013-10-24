@@ -1,5 +1,4 @@
-Agaricus illuminans F. Muell. ex Berk. SPECIES
-=======
+# Agaricus illuminans F. Muell. ex Berk. SPECIES
 
 #### Status
 ACCEPTED

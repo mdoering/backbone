@@ -1,5 +1,4 @@
-Myxofusicoccum genistae Petr. SPECIES
-=======
+# Myxofusicoccum genistae Petr. SPECIES
 
 #### Status
 ACCEPTED

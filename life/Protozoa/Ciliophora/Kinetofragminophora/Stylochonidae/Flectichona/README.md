@@ -1,5 +1,4 @@
-Flectichona Jankowksi, 1973 GENUS
-=======
+# Flectichona Jankowksi, 1973 GENUS
 
 #### Status
 ACCEPTED

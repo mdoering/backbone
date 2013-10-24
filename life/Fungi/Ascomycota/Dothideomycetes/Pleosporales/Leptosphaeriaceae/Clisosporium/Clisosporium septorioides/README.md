@@ -1,14 +1,13 @@
-Clisosporium septoriodes (Cooke & Massee) Kuntze SPECIES
-=======
+# Clisosporium septorioides (Cooke & Massee) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3: 458 (1898)
 
 #### Original name
 Coniothyrium septorioides Cooke & Massee

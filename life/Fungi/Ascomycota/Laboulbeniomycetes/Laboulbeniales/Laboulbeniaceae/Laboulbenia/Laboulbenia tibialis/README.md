@@ -1,5 +1,4 @@
-Laboulbenia tibialis Thaxt. SPECIES
-=======
+# Laboulbenia tibialis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

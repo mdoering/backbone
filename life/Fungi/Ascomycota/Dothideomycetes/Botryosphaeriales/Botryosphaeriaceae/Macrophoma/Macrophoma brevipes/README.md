@@ -1,5 +1,4 @@
-Macrophoma brevipes (Penz. & Sacc.) Berl. & Voglino SPECIES
-=======
+# Macrophoma brevipes (Penz. & Sacc.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

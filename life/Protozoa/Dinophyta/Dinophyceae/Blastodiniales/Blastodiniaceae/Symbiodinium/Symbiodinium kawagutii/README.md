@@ -1,5 +1,4 @@
-Symbiodinium kawagutii R. K. Trench & R. J. Blank SPECIES
-=======
+# Symbiodinium kawagutii R. K. Trench & R. J. Blank SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pholiota linicola Bubák SPECIES
-=======
+# Pholiota linicola Bubák SPECIES
 
 #### Status
 ACCEPTED

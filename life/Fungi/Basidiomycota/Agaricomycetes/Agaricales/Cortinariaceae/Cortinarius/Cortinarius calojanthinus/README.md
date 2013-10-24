@@ -1,5 +1,4 @@
-Cortinarius calojanthinus M.M. Moser & Ammirati SPECIES
-=======
+# Cortinarius calojanthinus M.M. Moser & Ammirati SPECIES
 
 #### Status
 ACCEPTED

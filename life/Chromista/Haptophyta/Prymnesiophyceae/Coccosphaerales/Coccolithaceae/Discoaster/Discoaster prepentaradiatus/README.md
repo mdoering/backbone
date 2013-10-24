@@ -1,5 +1,4 @@
-Discoaster prepentaradiatus Bukry & Percival, 1971 SPECIES
-=======
+# Discoaster prepentaradiatus Bukry & Percival, 1971 SPECIES
 
 #### Status
 ACCEPTED

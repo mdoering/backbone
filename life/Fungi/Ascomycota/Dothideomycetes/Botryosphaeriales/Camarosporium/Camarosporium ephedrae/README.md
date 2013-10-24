@@ -1,5 +1,4 @@
-Camarosporium ephedrae Cooke & Massee SPECIES
-=======
+# Camarosporium ephedrae Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

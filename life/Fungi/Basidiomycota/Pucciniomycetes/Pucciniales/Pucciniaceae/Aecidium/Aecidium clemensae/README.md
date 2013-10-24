@@ -1,5 +1,4 @@
-Aecidium clemensae Arthur SPECIES
-=======
+# Aecidium clemensae Arthur SPECIES
 
 #### Status
 ACCEPTED

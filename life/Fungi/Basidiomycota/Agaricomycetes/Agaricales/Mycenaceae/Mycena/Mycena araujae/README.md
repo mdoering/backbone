@@ -1,5 +1,4 @@
-Mycena araujae Singer SPECIES
-=======
+# Mycena araujae Singer SPECIES
 
 #### Status
 ACCEPTED

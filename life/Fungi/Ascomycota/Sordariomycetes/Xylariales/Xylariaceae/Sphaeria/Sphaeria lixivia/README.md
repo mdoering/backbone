@@ -1,5 +1,4 @@
-Sphaeria lixivia Kunze SPECIES
-=======
+# Sphaeria lixivia Kunze SPECIES
 
 #### Status
 ACCEPTED

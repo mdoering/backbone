@@ -1,5 +1,4 @@
-Echinomyces Rappaz GENUS
-=======
+# Echinomyces Rappaz GENUS
 
 #### Status
 ACCEPTED

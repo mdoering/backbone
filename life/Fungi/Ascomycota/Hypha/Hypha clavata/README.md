@@ -1,5 +1,4 @@
-Hypha clavata (Humb.) Pers. SPECIES
-=======
+# Hypha clavata (Humb.) Pers. SPECIES
 
 #### Status
 ACCEPTED

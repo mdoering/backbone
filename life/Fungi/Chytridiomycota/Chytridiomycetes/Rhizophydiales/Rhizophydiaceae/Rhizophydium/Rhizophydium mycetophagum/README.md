@@ -1,5 +1,4 @@
-Rhizophydium mycetophagum Karling, 1946 SPECIES
-=======
+# Rhizophydium mycetophagum Karling, 1946 SPECIES
 
 #### Status
 ACCEPTED

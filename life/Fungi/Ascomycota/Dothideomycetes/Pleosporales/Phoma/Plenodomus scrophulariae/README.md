@@ -1,5 +1,4 @@
-Plenodomus scrophulariae H. Ruppr. SPECIES
-=======
+# Plenodomus scrophulariae H. Ruppr. SPECIES
 
 #### Status
 ACCEPTED

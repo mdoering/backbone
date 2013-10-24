@@ -1,5 +1,4 @@
-Didymosporium culmigenum Sacc. SPECIES
-=======
+# Didymosporium culmigenum Sacc. SPECIES
 
 #### Status
 ACCEPTED

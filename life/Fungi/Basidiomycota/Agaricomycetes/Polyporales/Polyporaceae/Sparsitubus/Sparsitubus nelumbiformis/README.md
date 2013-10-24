@@ -1,5 +1,4 @@
-Sparsitubus nelumbiformis L.W. Hsu & J.D. Zhao, 1980 SPECIES
-=======
+# Sparsitubus nelumbiformis L.W. Hsu & J.D. Zhao, 1980 SPECIES
 
 #### Status
 ACCEPTED

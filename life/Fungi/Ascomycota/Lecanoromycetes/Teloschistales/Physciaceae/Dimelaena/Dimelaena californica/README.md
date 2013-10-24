@@ -1,17 +1,16 @@
-Rinodina californica H. Magn. SPECIES
-=======
+# Dimelaena californica (H. Magn.) Sheard SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bryologist 77(2): 131 (1974)
 
 #### Original name
-null
+Rinodina californica H. Magn.
 
 ### Remarks
 null

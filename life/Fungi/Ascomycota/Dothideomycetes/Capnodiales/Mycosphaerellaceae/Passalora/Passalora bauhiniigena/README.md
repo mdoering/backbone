@@ -1,5 +1,4 @@
-Passalora bauhiniigena U. Braun & Crous SPECIES
-=======
+# Passalora bauhiniigena U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

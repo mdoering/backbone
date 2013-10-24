@@ -1,5 +1,4 @@
-Buccella granulata (di Napoli Alliata, 1952) SPECIES
-=======
+# Buccella granulata (di Napoli Alliata, 1952) SPECIES
 
 #### Status
 ACCEPTED

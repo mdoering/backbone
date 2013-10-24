@@ -1,14 +1,13 @@
-Sabinoides McCulloch, 1977 GENUS
-=======
+# Pileolina Bermudez, 1952 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species
 
 #### Published in
-null
+Bol. Geol. Venezuela, 2 (4), 38.
 
 #### Original name
 null

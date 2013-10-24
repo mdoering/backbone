@@ -1,5 +1,4 @@
-Heppia minuta H. Magn. SPECIES
-=======
+# Heppia minuta H. Magn. SPECIES
 
 #### Status
 ACCEPTED

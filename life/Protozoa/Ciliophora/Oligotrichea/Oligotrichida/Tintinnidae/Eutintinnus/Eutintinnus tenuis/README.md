@@ -1,5 +1,4 @@
-Eutintinnus tenuis (Kofoid & Campbell, 1929) Kofoid & Campbell, 1939 SPECIES
-=======
+# Eutintinnus tenuis (Kofoid & Campbell, 1929) Kofoid & Campbell, 1939 SPECIES
 
 #### Status
 ACCEPTED

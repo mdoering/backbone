@@ -1,5 +1,4 @@
-Gloeosporium adonidis Naumov SPECIES
-=======
+# Gloeosporium adonidis Naumov SPECIES
 
 #### Status
 ACCEPTED

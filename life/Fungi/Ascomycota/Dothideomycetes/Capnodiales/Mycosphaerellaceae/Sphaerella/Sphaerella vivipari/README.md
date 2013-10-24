@@ -1,5 +1,4 @@
-Sphaerella vivipari G. Winter SPECIES
-=======
+# Sphaerella vivipari G. Winter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xanthoparmelia shebaiensis T. H. Nash & Elix SPECIES
-=======
+# Xanthoparmelia shebaiensis T. H. Nash & Elix SPECIES
 
 #### Status
 ACCEPTED

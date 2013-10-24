@@ -1,5 +1,4 @@
-Phoma landeghemiae Sacc. SPECIES
-=======
+# Phoma landeghemiae Sacc. SPECIES
 
 #### Status
 ACCEPTED

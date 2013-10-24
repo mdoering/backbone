@@ -1,5 +1,4 @@
-Coprinus viarum Britzelm. SPECIES
-=======
+# Coprinus viarum Britzelm. SPECIES
 
 #### Status
 ACCEPTED

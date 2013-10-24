@@ -1,5 +1,4 @@
-Aspicilia gyrodes (Nyl.) Hue SPECIES
-=======
+# Aspicilia gyrodes (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

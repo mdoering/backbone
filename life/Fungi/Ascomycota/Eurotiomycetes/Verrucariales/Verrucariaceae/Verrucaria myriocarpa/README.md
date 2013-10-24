@@ -1,5 +1,4 @@
-Verrucaria myriocarpa Hepp ex Lönnr. SPECIES
-=======
+# Verrucaria myriocarpa Hepp ex Lönnr. SPECIES
 
 #### Status
 ACCEPTED

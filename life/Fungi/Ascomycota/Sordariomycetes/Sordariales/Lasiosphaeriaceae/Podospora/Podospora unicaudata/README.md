@@ -1,5 +1,4 @@
-Podospora unicaudata (C. Moreau & M. Moreau ex G. Sm.) Cain, 1962 SPECIES
-=======
+# Podospora unicaudata (C. Moreau & M. Moreau ex G. Sm.) Cain, 1962 SPECIES
 
 #### Status
 ACCEPTED

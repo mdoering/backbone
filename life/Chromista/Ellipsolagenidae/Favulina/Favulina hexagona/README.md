@@ -1,8 +1,7 @@
-Entosolenia squamosa var. hexagona Williamson, 1848 VARIETY
-=======
+# Favulina hexagona (Williamson, 1848) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

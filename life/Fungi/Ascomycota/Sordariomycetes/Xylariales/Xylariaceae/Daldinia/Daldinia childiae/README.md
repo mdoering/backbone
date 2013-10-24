@@ -1,5 +1,4 @@
-Daldinia childiae J.D. Rogers & Y.M. Ju, 1999 SPECIES
-=======
+# Daldinia childiae J.D. Rogers & Y.M. Ju, 1999 SPECIES
 
 #### Status
 ACCEPTED

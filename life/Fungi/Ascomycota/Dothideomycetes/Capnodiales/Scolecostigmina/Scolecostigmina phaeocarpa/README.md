@@ -1,5 +1,4 @@
-Scolecostigmina phaeocarpa (Mitter) U. Braun SPECIES
-=======
+# Scolecostigmina phaeocarpa (Mitter) U. Braun SPECIES
 
 #### Status
 ACCEPTED

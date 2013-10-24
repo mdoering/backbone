@@ -1,5 +1,4 @@
-Physcia gracilis Pers. SPECIES
-=======
+# Physcia gracilis Pers. SPECIES
 
 #### Status
 ACCEPTED

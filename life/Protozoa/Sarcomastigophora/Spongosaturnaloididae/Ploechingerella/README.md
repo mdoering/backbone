@@ -1,5 +1,4 @@
-Ploechingerella Kozur & Mostler, 1986 GENUS
-=======
+# Ploechingerella Kozur & Mostler, 1986 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoriella rockiana (Petr.) Nag Raj SPECIES
-=======
+# Septoriella rockiana (Petr.) Nag Raj SPECIES
 
 #### Status
 ACCEPTED

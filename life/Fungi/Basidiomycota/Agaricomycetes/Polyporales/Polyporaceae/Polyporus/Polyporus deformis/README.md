@@ -1,5 +1,4 @@
-Polyporus deformis (Schaeff.) Fr. SPECIES
-=======
+# Polyporus deformis (Schaeff.) Fr. SPECIES
 
 #### Status
 ACCEPTED

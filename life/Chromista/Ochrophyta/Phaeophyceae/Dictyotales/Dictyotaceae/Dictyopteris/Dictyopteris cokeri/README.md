@@ -1,5 +1,4 @@
-Dictyopteris cokeri (M.A. Howe) W.R. Taylor SPECIES
-=======
+# Dictyopteris cokeri (M.A. Howe) W.R. Taylor SPECIES
 
 #### Status
 ACCEPTED

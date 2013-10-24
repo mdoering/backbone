@@ -1,5 +1,4 @@
-Dictyuchus pisci Khulbe & Sati SPECIES
-=======
+# Dictyuchus pisci Khulbe & Sati SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea particularis Nyl. SPECIES
-=======
+# Lecidea particularis Nyl. SPECIES
 
 #### Status
 ACCEPTED

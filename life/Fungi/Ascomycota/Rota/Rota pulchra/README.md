@@ -1,5 +1,4 @@
-Rota pulchra Bat., Cif. & Nascim., 1959 SPECIES
-=======
+# Rota pulchra Bat., Cif. & Nascim., 1959 SPECIES
 
 #### Status
 ACCEPTED

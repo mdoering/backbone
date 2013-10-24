@@ -1,5 +1,4 @@
-Agaricus trichopus var. trichopus VARIETY
-=======
+# Agaricus trichopus Alb. & Schwein. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Agaricus trichopus var. trichopus
+Agaricus trichopus Alb. & Schwein.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Amanita longitibiale Tulloss, Pérez-Silva & T. Herrera SPECIES
-=======
+# Amanita longitibiale Tulloss, Pérez-Silva & T. Herrera SPECIES
 
 #### Status
 ACCEPTED

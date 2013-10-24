@@ -1,5 +1,4 @@
-Intocapsa Tikhomirova, 1987 GENUS
-=======
+# Intocapsa Tikhomirova, 1987 GENUS
 
 #### Status
 ACCEPTED

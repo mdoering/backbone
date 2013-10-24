@@ -1,5 +1,4 @@
-Caloplaca ferrarii var. ferrarii VARIETY
-=======
+# Caloplaca ferrarii (Bagl.) Jatta SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Caloplaca ferrarii var. ferrarii
+Callopisma ferrarii Bagl.
 
 ### Remarks
 null

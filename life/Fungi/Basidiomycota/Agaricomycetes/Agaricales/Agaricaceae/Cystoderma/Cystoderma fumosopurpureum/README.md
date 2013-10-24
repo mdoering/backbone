@@ -1,5 +1,4 @@
-Cystoderma fumosopurpureum (Lasch) Fayod SPECIES
-=======
+# Cystoderma fumosopurpureum (Lasch) Fayod SPECIES
 
 #### Status
 ACCEPTED

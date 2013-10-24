@@ -1,5 +1,4 @@
-Capronia munkii Unter., 1995 SPECIES
-=======
+# Capronia munkii Unter., 1995 SPECIES
 
 #### Status
 ACCEPTED

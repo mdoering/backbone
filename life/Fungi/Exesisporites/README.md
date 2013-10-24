@@ -1,5 +1,4 @@
-Exesisporites Elsik GENUS
-=======
+# Exesisporites Elsik GENUS
 
 #### Status
 ACCEPTED

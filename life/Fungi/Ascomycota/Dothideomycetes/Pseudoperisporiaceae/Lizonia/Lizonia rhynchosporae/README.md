@@ -1,5 +1,4 @@
-Lizonia rhynchosporae Rehm SPECIES
-=======
+# Lizonia rhynchosporae Rehm SPECIES
 
 #### Status
 ACCEPTED

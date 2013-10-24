@@ -1,5 +1,4 @@
-Omphalina pseudofibula Dennis SPECIES
-=======
+# Omphalina pseudofibula Dennis SPECIES
 
 #### Status
 ACCEPTED

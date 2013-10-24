@@ -1,5 +1,4 @@
-Coniothyrium syreniae-cuspidatae Sandu & Mítítíuc SPECIES
-=======
+# Coniothyrium syreniae-cuspidatae Sandu & Mítítíuc SPECIES
 
 #### Status
 ACCEPTED

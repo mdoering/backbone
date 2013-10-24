@@ -1,5 +1,4 @@
-Lecidea melaenella Vain. SPECIES
-=======
+# Lecidea melaenella Vain. SPECIES
 
 #### Status
 ACCEPTED

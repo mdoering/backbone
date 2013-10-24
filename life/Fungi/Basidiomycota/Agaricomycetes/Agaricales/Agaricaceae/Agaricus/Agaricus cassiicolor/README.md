@@ -1,5 +1,4 @@
-Agaricus cassiicolor Berk. SPECIES
-=======
+# Agaricus cassiicolor Berk. SPECIES
 
 #### Status
 ACCEPTED

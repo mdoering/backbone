@@ -1,17 +1,16 @@
-Ravenelia subtortuosae Long SPECIES
-=======
+# Ravenelia subtortuosa Long SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bot. Gaz. 72: 40 (1921)
 
 #### Original name
-Ravenelia subtortuosae Long
+Ravenelia subtortuosa Long
 
 ### Remarks
 null

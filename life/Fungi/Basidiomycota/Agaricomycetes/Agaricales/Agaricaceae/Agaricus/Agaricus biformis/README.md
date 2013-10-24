@@ -1,5 +1,4 @@
-Agaricus biformis Fr. SPECIES
-=======
+# Agaricus biformis Fr. SPECIES
 
 #### Status
 ACCEPTED

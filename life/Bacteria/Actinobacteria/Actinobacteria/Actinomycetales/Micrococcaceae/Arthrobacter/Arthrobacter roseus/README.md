@@ -1,5 +1,4 @@
-Arthrobacter roseus Reddy et al., 2002 SPECIES
-=======
+# Arthrobacter roseus Reddy et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

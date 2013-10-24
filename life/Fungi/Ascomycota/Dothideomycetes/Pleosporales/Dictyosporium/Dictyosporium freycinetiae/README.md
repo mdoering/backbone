@@ -1,5 +1,4 @@
-Dictyosporium freycinetiae McKenzie, 2008 SPECIES
-=======
+# Dictyosporium freycinetiae McKenzie, 2008 SPECIES
 
 #### Status
 ACCEPTED

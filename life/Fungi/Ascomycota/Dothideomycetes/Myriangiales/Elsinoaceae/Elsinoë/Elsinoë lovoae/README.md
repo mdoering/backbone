@@ -1,5 +1,4 @@
-Elsinoë lovoae Bitanc. & Jenkins, 1946 SPECIES
-=======
+# Elsinoë lovoae Bitanc. & Jenkins, 1946 SPECIES
 
 #### Status
 ACCEPTED

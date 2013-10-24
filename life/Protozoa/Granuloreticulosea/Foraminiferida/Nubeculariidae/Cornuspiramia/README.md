@@ -1,14 +1,13 @@
-Rhizonubecula Le Calvez, 1935 GENUS
-=======
+# Cornuspiramia Cushman, 1928 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Contr. Cushman Lab. Foraminif. , 4 (1), 4.
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Cortinarius trossingenensis Melot SPECIES
-=======
+# Cortinarius trossingenensis Melot SPECIES
 
 #### Status
 ACCEPTED

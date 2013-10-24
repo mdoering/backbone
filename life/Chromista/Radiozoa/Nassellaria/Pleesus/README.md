@@ -1,5 +1,4 @@
-Pleesus Yeh, 1987 GENUS
-=======
+# Pleesus Yeh, 1987 GENUS
 
 #### Status
 ACCEPTED

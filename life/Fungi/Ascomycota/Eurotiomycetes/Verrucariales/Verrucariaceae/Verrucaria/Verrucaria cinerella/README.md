@@ -1,5 +1,4 @@
-Verrucaria cinerella Nyl. SPECIES
-=======
+# Verrucaria cinerella Nyl. SPECIES
 
 #### Status
 ACCEPTED

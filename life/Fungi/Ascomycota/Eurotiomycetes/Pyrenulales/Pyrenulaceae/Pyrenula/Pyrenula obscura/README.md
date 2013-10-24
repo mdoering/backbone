@@ -1,5 +1,4 @@
-Pyrenula obscura Räsänen SPECIES
-=======
+# Pyrenula obscura Räsänen SPECIES
 
 #### Status
 ACCEPTED

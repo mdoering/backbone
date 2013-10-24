@@ -1,17 +1,16 @@
-Dictyoploca Montagne ex Patouillard, 1890 GENUS
-=======
+# Gymnopus (Persoon) Roussel, 1806 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 6: xxi (1890)
+Fl. Calvados, Edn 2 62 (1806)
 
 #### Original name
-Dictyoploca Montagne ex Patouillard, 1890
+null
 
 ### Remarks
 null

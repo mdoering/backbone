@@ -1,5 +1,4 @@
-Sporotrichum incarnatum Schwein. SPECIES
-=======
+# Sporotrichum incarnatum Schwein. SPECIES
 
 #### Status
 ACCEPTED

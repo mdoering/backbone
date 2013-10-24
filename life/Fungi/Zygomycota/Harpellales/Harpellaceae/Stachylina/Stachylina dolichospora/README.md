@@ -1,5 +1,4 @@
-Stachylina dolichospora Ferrington, Hayford & Lichtw., 2005 SPECIES
-=======
+# Stachylina dolichospora Ferrington, Hayford & Lichtw., 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporocadus arundinis Lib. SPECIES
-=======
+# Sporocadus arundinis Lib. SPECIES
 
 #### Status
 ACCEPTED

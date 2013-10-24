@@ -1,8 +1,7 @@
-Allantosoma intestinalis Gassovsky, 1919 SPECIES
-=======
+# Allantosoma intestinale Gassovsky, 1919 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

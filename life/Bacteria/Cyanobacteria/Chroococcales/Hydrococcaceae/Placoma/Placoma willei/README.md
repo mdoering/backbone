@@ -1,5 +1,4 @@
-Placoma willei Gardner SPECIES
-=======
+# Placoma willei Gardner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cylindrospermum alatosporum F.E. Fritsch SPECIES
-=======
+# Cylindrospermum alatosporum F.E. Fritsch SPECIES
 
 #### Status
 ACCEPTED

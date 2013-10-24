@@ -1,5 +1,4 @@
-Physalospora aquatica Ingold, 1955 SPECIES
-=======
+# Physalospora aquatica Ingold, 1955 SPECIES
 
 #### Status
 ACCEPTED

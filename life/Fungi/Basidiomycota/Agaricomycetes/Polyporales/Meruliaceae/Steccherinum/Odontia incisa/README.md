@@ -1,5 +1,4 @@
-Odontia incisa Britzelm. SPECIES
-=======
+# Odontia incisa Britzelm. SPECIES
 
 #### Status
 ACCEPTED

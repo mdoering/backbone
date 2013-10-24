@@ -1,5 +1,4 @@
-Lecidea diacrita Nyl. SPECIES
-=======
+# Lecidea diacrita Nyl. SPECIES
 
 #### Status
 ACCEPTED

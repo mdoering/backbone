@@ -1,5 +1,4 @@
-Acrocarpospora Tamura et al., 2000 GENUS
-=======
+# Acrocarpospora Tamura et al., 2000 GENUS
 
 #### Status
 ACCEPTED

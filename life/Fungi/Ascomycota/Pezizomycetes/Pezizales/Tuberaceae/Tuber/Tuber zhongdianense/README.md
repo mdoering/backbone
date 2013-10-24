@@ -1,5 +1,4 @@
-Tuber zhongdianense X.Y. He, Hai M. Li & Y. Wang SPECIES
-=======
+# Tuber zhongdianense X.Y. He, Hai M. Li & Y. Wang SPECIES
 
 #### Status
 ACCEPTED

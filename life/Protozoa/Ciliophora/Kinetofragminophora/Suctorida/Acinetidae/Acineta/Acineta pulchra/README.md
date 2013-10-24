@@ -1,5 +1,4 @@
-Acineta pulchra Swarczewsky, 1928 SPECIES
-=======
+# Acineta pulchra Swarczewsky, 1928 SPECIES
 
 #### Status
 ACCEPTED

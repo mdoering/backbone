@@ -1,5 +1,4 @@
-Terana subzonata (Fr.) Kuntze SPECIES
-=======
+# Terana subzonata (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

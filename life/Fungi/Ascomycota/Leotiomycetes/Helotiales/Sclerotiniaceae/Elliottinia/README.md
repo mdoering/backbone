@@ -1,5 +1,4 @@
-Elliottinia L.M. Kohn GENUS
-=======
+# Elliottinia L.M. Kohn GENUS
 
 #### Status
 ACCEPTED

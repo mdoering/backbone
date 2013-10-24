@@ -1,5 +1,4 @@
-Nexomyces cubensis Garcia et al. SPECIES
-=======
+# Nexomyces cubensis Garcia et al. SPECIES
 
 #### Status
 ACCEPTED

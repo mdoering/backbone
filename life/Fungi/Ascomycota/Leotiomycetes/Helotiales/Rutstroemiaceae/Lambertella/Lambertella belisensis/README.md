@@ -1,14 +1,13 @@
-Lambertella belisense (Kanouse) Dumont SPECIES
-=======
+# Lambertella belisensis (Kanouse) Dumont SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 66(2): 342 (1974)
 
 #### Original name
 Helotium belisense Kanouse

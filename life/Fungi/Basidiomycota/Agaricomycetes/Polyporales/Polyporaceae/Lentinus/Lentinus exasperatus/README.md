@@ -1,5 +1,4 @@
-Lentinus exasperatus Berk. & Broome SPECIES
-=======
+# Lentinus exasperatus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

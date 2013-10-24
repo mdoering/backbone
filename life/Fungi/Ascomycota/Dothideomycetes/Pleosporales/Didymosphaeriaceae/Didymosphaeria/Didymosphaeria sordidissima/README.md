@@ -1,5 +1,4 @@
-Didymosphaeria sordidissima Speg. SPECIES
-=======
+# Didymosphaeria sordidissima Speg. SPECIES
 
 #### Status
 ACCEPTED

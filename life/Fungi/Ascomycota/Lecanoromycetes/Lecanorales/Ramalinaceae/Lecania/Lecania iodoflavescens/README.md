@@ -1,5 +1,4 @@
-Lecania iodoflavescens Maheu & Werner SPECIES
-=======
+# Lecania iodoflavescens Maheu & Werner SPECIES
 
 #### Status
 ACCEPTED

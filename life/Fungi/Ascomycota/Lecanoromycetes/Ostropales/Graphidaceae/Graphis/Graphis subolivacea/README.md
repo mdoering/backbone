@@ -1,5 +1,4 @@
-Graphis subolivacea Zahlbr. SPECIES
-=======
+# Graphis subolivacea Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

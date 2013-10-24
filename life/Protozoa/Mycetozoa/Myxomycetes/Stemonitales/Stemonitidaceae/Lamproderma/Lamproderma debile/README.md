@@ -1,17 +1,16 @@
-Lamproderma atrosporum debile (G. Lister & H.J. Howard) G. Lister, 1925 INFRASPECIFIC_NAME
-=======
+# Lamproderma debile (G. Lister & H.J. Howard) Ing, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 78(3): 444 (1982)
 
 #### Original name
-null
+Lamproderma violaceum debile G. Lister & H.J. Howard, 1919
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Mallomonas intermedia Kisselev SPECIES
-=======
+# Mallomonas intermedia Kisselev SPECIES
 
 #### Status
 ACCEPTED

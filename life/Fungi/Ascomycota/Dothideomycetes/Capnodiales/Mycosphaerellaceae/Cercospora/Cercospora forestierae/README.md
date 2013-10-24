@@ -1,5 +1,4 @@
-Cercospora forestierae E. West SPECIES
-=======
+# Cercospora forestierae E. West SPECIES
 
 #### Status
 ACCEPTED

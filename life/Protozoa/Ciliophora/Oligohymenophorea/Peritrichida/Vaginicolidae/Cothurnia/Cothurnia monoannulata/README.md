@@ -1,5 +1,4 @@
-Cothurnia monoannulata SPECIES
-=======
+# Cothurnia monoannulata SPECIES
 
 #### Status
 ACCEPTED

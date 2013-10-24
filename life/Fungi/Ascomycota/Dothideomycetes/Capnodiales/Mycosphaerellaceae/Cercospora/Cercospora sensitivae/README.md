@@ -1,5 +1,4 @@
-Cercospora sensitivae (Speg.) Chupp SPECIES
-=======
+# Cercospora sensitivae (Speg.) Chupp SPECIES
 
 #### Status
 ACCEPTED

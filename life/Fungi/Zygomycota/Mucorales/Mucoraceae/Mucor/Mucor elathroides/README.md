@@ -1,5 +1,4 @@
-Mucor elathroides Scop. SPECIES
-=======
+# Mucor elathroides Scop. SPECIES
 
 #### Status
 ACCEPTED

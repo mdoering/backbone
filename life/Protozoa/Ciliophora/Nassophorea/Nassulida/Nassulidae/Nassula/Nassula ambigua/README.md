@@ -1,5 +1,4 @@
-Nassula ambigua subsp. tumida SUBSPECIES
-=======
+# Nassula ambigua Stein, 1854 SPECIES
 
 #### Status
 ACCEPTED

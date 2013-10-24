@@ -1,5 +1,4 @@
-Pseudoconbyrsa L. Geitler, 1925 GENUS
-=======
+# Pseudoconbyrsa L. Geitler, 1925 GENUS
 
 #### Status
 ACCEPTED

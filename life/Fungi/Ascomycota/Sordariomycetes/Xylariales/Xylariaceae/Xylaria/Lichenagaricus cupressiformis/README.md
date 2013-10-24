@@ -1,5 +1,4 @@
-Lichenagaricus cupressiformis P. Micheli SPECIES
-=======
+# Lichenagaricus cupressiformis P. Micheli SPECIES
 
 #### Status
 ACCEPTED

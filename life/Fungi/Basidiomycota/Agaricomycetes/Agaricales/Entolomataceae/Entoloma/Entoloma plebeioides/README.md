@@ -1,17 +1,16 @@
-Agaricus plebejoides Schulzer SPECIES
-=======
+# Entoloma plebeioides (Schulzer) Noordel., 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Persoonia 12(4): 462 (1985)
 
 #### Original name
-Agaricus plebejoides Schulzer
+Agaricus plebeioides Schulzer, 1876
 
 ### Remarks
 null

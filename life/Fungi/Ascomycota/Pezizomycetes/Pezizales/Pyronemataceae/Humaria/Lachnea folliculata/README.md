@@ -1,5 +1,4 @@
-Lachnea folliculata Höhn. SPECIES
-=======
+# Lachnea folliculata Höhn. SPECIES
 
 #### Status
 ACCEPTED

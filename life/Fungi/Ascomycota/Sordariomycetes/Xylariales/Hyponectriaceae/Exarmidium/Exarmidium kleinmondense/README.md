@@ -1,5 +1,4 @@
-Exarmidium kleinmondense Marincowitz, M.J. Wingf. & Crous SPECIES
-=======
+# Exarmidium kleinmondense Marincowitz, M.J. Wingf. & Crous SPECIES
 
 #### Status
 ACCEPTED

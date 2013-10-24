@@ -1,5 +1,4 @@
-Stauracon Schwiakoff, 1926 GENUS
-=======
+# Stauracon Schwiakoff, 1926 GENUS
 
 #### Status
 ACCEPTED

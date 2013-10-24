@@ -1,5 +1,4 @@
-Hymenoscyphus scutuloides Hengstm. SPECIES
-=======
+# Hymenoscyphus scutuloides Hengstm. SPECIES
 
 #### Status
 ACCEPTED

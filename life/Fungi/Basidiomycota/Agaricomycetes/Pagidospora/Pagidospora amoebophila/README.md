@@ -1,5 +1,4 @@
-Pagidospora amoebophila Drechsler, 1960 SPECIES
-=======
+# Pagidospora amoebophila Drechsler, 1960 SPECIES
 
 #### Status
 ACCEPTED

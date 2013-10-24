@@ -1,5 +1,4 @@
-Nyctotherus kyphodes Geiman & Wichtermann, 1937 SPECIES
-=======
+# Nyctotherus kyphodes Geiman & Wichtermann, 1937 SPECIES
 
 #### Status
 ACCEPTED

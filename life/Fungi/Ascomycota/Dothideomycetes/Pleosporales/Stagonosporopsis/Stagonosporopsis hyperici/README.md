@@ -1,5 +1,4 @@
-Stagonosporopsis hyperici Solkina SPECIES
-=======
+# Stagonosporopsis hyperici Solkina SPECIES
 
 #### Status
 ACCEPTED

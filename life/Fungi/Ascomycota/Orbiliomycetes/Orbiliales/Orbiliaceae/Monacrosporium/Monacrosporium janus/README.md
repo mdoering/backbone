@@ -1,5 +1,4 @@
-Monacrosporium janus S.D. Li & Xing Z. Liu SPECIES
-=======
+# Monacrosporium janus S.D. Li & Xing Z. Liu SPECIES
 
 #### Status
 ACCEPTED

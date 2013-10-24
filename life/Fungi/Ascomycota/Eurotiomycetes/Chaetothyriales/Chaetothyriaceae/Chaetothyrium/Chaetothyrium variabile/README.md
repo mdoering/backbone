@@ -1,5 +1,4 @@
-Chaetothyrium variabile Toro SPECIES
-=======
+# Chaetothyrium variabile Toro SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenophora pontresinerisis SPECIES
-=======
+# Pyrenophora pontresinerisis SPECIES
 
 #### Status
 ACCEPTED

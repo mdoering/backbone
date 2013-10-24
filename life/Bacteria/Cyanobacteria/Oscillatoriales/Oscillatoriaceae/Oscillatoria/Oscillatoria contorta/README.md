@@ -1,5 +1,4 @@
-Oscillatoria contorta SPECIES
-=======
+# Oscillatoria contorta SPECIES
 
 #### Status
 ACCEPTED

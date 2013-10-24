@@ -1,5 +1,4 @@
-Euplotes thononensis Dragesco, 1960 SPECIES
-=======
+# Euplotes thononensis Dragesco, 1960 SPECIES
 
 #### Status
 ACCEPTED

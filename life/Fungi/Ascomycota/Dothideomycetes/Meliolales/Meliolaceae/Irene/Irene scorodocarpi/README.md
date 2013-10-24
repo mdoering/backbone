@@ -1,5 +1,4 @@
-Irene scorodocarpi Hansf. SPECIES
-=======
+# Irene scorodocarpi Hansf. SPECIES
 
 #### Status
 ACCEPTED

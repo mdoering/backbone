@@ -1,5 +1,4 @@
-Microsphaeropsis subcorticalis (P. Karst.) Höhn. SPECIES
-=======
+# Microsphaeropsis subcorticalis (P. Karst.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

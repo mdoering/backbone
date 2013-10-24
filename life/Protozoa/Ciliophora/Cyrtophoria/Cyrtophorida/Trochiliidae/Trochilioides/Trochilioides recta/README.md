@@ -1,8 +1,7 @@
-Trochilia recta Kahl, 1928 SPECIES
-=======
+# Trochilioides recta (Kahl, 1928) Jankowski, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Triceratium dictyotum P. A. Sims & R. Ross SPECIES
-=======
+# Triceratium dictyotum P. A. Sims & R. Ross SPECIES
 
 #### Status
 ACCEPTED

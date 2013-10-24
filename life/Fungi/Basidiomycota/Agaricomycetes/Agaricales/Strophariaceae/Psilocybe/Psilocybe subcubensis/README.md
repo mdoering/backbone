@@ -1,5 +1,4 @@
-Psilocybe subcubensis Guzmán, 1978 SPECIES
-=======
+# Psilocybe subcubensis Guzmán, 1978 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cordyceps craigii Lloyd SPECIES
-=======
+# Cordyceps craigii Lloyd SPECIES
 
 #### Status
 ACCEPTED

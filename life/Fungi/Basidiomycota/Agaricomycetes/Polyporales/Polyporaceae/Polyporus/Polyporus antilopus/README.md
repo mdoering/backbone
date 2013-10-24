@@ -1,5 +1,4 @@
-Polyporus antilopus (Kalchbr.) Lloyd SPECIES
-=======
+# Polyporus antilopus (Kalchbr.) Lloyd SPECIES
 
 #### Status
 ACCEPTED

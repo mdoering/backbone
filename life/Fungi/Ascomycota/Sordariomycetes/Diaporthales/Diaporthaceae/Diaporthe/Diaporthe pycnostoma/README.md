@@ -1,5 +1,4 @@
-Diaporthe pycnostoma G.H. Otth SPECIES
-=======
+# Diaporthe pycnostoma G.H. Otth SPECIES
 
 #### Status
 ACCEPTED

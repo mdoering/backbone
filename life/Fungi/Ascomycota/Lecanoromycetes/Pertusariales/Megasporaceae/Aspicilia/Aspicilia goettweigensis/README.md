@@ -1,8 +1,7 @@
-Aspicilia göttweigensis (Zahlbr.) Hue SPECIES
-=======
+# Aspicilia goettweigensis (Zahlbr.) Hue SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

@@ -1,5 +1,4 @@
-Phomopsis cinnamomicola Z.D. Jiang, M.M. Xiang & P.K. Chi SPECIES
-=======
+# Phomopsis cinnamomicola Z.D. Jiang, M.M. Xiang & P.K. Chi SPECIES
 
 #### Status
 ACCEPTED

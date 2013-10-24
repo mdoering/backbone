@@ -1,5 +1,4 @@
-Stereocaulon obscurum Müll. Arg. SPECIES
-=======
+# Stereocaulon obscurum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

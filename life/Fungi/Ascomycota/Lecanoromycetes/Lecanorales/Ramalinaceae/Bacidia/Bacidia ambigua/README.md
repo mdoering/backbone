@@ -1,5 +1,4 @@
-Bacidia ambigua Malme SPECIES
-=======
+# Bacidia ambigua Malme SPECIES
 
 #### Status
 ACCEPTED

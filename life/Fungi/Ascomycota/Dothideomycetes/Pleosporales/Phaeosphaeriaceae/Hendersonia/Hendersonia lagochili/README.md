@@ -1,5 +1,4 @@
-Hendersonia lagochili Schwarzman SPECIES
-=======
+# Hendersonia lagochili Schwarzman SPECIES
 
 #### Status
 ACCEPTED

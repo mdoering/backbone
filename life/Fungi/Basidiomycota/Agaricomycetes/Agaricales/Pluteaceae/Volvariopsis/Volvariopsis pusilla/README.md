@@ -1,5 +1,4 @@
-Volvariopsis pusilla (Pers.) Murrill SPECIES
-=======
+# Volvariopsis pusilla (Pers.) Murrill SPECIES
 
 #### Status
 ACCEPTED

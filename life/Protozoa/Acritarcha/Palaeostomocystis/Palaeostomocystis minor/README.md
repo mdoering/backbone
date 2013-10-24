@@ -1,5 +1,4 @@
-Palaeostomocystis minor Jiabo, 1978 SPECIES
-=======
+# Palaeostomocystis minor Jiabo, 1978 SPECIES
 
 #### Status
 ACCEPTED

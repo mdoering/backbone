@@ -1,5 +1,4 @@
-Rhabdolithus signatorius Bona, 1964 SPECIES
-=======
+# Rhabdolithus signatorius Bona, 1964 SPECIES
 
 #### Status
 ACCEPTED

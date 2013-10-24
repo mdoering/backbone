@@ -1,5 +1,4 @@
-Thalassiosira umaoiensis F. Akiba SPECIES
-=======
+# Thalassiosira umaoiensis F. Akiba SPECIES
 
 #### Status
 ACCEPTED

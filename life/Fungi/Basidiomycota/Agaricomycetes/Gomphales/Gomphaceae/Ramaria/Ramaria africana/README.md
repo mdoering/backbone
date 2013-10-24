@@ -1,5 +1,4 @@
-Ramaria africana R.H. Petersen, 1975 SPECIES
-=======
+# Ramaria africana R.H. Petersen, 1975 SPECIES
 
 #### Status
 ACCEPTED

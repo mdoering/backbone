@@ -1,5 +1,4 @@
-Erysiphe actinidiae var. actinidiae VARIETY
-=======
+# Erysiphe actinidiae (Miyabe ex Jacz.) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Schlechtendalia 4: 15 (2000)
 
 #### Original name
-Erysiphe actinidiae var. actinidiae
+Uncinula actinidiae Miyabe
 
 ### Remarks
 null

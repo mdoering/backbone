@@ -1,5 +1,4 @@
-Rinodina altissima var. altissima VARIETY
-=======
+# Rinodina altissima H. Magn. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Rinodina altissima var. altissima
+Rinodina altissima H. Magn.
 
 ### Remarks
 null

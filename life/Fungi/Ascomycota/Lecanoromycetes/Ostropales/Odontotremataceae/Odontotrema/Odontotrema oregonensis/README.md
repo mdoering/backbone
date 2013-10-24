@@ -1,5 +1,4 @@
-Odontotrema oregonensis Sherwood SPECIES
-=======
+# Odontotrema oregonensis Sherwood SPECIES
 
 #### Status
 ACCEPTED

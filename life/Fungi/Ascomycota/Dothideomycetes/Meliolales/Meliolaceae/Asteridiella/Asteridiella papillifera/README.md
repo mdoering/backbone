@@ -1,5 +1,4 @@
-Asteridiella papillifera var. papillifera VARIETY
-=======
+# Asteridiella papillifera (Syd.) Hansf. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Beih. Sydowia 2: 131 (1961)
 
 #### Original name
-Asteridiella papillifera var. papillifera
+Irene papillifera Syd.
 
 ### Remarks
 null

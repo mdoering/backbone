@@ -1,5 +1,4 @@
-Auricularia mollissima Kobayasi SPECIES
-=======
+# Auricularia mollissima Kobayasi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucula inconnexaria Nav.-Ros. & Cl. Roux SPECIES
-=======
+# Verrucula inconnexaria Nav.-Ros. & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

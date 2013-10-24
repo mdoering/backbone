@@ -1,5 +1,4 @@
-Diplodina bidentis Fautrey & Rolland SPECIES
-=======
+# Diplodina bidentis Fautrey & Rolland SPECIES
 
 #### Status
 ACCEPTED

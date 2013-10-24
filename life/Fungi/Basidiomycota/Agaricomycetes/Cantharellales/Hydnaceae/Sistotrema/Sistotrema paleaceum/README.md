@@ -1,5 +1,4 @@
-Sistotrema paleaceum Thore ex Pers. SPECIES
-=======
+# Sistotrema paleaceum Thore ex Pers. SPECIES
 
 #### Status
 ACCEPTED

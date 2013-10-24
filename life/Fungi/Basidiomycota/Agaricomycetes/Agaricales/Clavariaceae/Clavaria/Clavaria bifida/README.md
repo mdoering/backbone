@@ -1,5 +1,4 @@
-Clavaria bifida J.F. Gmel. SPECIES
-=======
+# Clavaria bifida J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

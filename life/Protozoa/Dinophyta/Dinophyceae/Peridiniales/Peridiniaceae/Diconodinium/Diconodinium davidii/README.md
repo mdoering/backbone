@@ -1,5 +1,4 @@
-Diconodinium davidii Morgan, 1975 SPECIES
-=======
+# Diconodinium davidii Morgan, 1975 SPECIES
 
 #### Status
 ACCEPTED

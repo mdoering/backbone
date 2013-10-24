@@ -1,11 +1,10 @@
-Protocrucia pigerrima subsp. pigerrima SUBSPECIES
-=======
+# Protocrucia pigerrima Cohn SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

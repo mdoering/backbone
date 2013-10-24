@@ -1,5 +1,4 @@
-Xanthoria subramulosa Räsänen SPECIES
-=======
+# Xanthoria subramulosa Räsänen SPECIES
 
 #### Status
 ACCEPTED

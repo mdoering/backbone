@@ -1,8 +1,7 @@
-Bacillus pantothenticus Proom and Knight, 1950 (Approved Lists, 1980) SPECIES
-=======
+# Virgibacillus pantothenticus (Proom & Knight, 1950) Heyndrickx et al., 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

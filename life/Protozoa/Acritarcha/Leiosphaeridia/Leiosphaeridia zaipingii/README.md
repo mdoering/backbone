@@ -1,5 +1,4 @@
-Leiosphaeridia zaipingii Fensome et al., 1990 SPECIES
-=======
+# Leiosphaeridia zaipingii Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

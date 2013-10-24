@@ -1,5 +1,4 @@
-Dendrosarcus fuscifrons (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Dendrosarcus fuscifrons (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chalciporus corallinus Pegler SPECIES
-=======
+# Chalciporus corallinus Pegler SPECIES
 
 #### Status
 ACCEPTED

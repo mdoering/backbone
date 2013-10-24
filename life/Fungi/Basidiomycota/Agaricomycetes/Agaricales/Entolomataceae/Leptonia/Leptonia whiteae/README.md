@@ -1,5 +1,4 @@
-Leptonia whiteae (Murrill) Murrill SPECIES
-=======
+# Leptonia whiteae (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

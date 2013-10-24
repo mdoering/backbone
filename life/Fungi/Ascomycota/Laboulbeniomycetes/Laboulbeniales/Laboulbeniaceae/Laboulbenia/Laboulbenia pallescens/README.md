@@ -1,5 +1,4 @@
-Laboulbenia pallescens Thaxt. SPECIES
-=======
+# Laboulbenia pallescens Thaxt. SPECIES
 
 #### Status
 ACCEPTED

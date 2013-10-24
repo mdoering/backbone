@@ -1,5 +1,4 @@
-Phibalis himalayensis (Arendh. & R. Sharma) M.P. Sharma & R. Kamal SPECIES
-=======
+# Phibalis himalayensis (Arendh. & R. Sharma) M.P. Sharma & R. Kamal SPECIES
 
 #### Status
 ACCEPTED

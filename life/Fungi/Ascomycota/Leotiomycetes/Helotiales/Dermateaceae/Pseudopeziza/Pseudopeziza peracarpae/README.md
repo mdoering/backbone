@@ -1,5 +1,4 @@
-Pseudopeziza peracarpae Miyabe & Togashi SPECIES
-=======
+# Pseudopeziza peracarpae Miyabe & Togashi SPECIES
 
 #### Status
 ACCEPTED

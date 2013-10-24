@@ -1,5 +1,4 @@
-Sphaceloma iwatae Kajiw. & Mukelar SPECIES
-=======
+# Sphaceloma iwatae Kajiw. & Mukelar SPECIES
 
 #### Status
 ACCEPTED

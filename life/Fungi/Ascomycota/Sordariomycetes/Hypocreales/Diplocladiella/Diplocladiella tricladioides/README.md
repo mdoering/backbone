@@ -1,5 +1,4 @@
-Diplocladiella tricladioides Nawawi SPECIES
-=======
+# Diplocladiella tricladioides Nawawi SPECIES
 
 #### Status
 ACCEPTED

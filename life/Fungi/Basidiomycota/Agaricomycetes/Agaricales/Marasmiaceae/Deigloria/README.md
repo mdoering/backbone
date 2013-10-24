@@ -1,5 +1,4 @@
-Deigloria Agerer GENUS
-=======
+# Deigloria Agerer GENUS
 
 #### Status
 ACCEPTED

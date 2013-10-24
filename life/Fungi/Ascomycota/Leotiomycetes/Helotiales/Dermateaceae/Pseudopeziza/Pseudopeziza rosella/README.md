@@ -1,5 +1,4 @@
-Pseudopeziza rosella Rehm SPECIES
-=======
+# Pseudopeziza rosella Rehm SPECIES
 
 #### Status
 ACCEPTED

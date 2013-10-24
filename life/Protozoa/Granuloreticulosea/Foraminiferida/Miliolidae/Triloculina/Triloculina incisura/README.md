@@ -1,5 +1,4 @@
-Triloculina incisura Todd, 1957 SPECIES
-=======
+# Triloculina incisura Todd, 1957 SPECIES
 
 #### Status
 ACCEPTED

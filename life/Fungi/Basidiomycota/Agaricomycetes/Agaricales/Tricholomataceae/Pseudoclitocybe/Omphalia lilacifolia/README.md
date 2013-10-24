@@ -1,5 +1,4 @@
-Omphalia lilacifolia (Peck) Peck SPECIES
-=======
+# Omphalia lilacifolia (Peck) Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heterodinium richardii Pavillard SPECIES
-=======
+# Heterodinium richardii Pavillard SPECIES
 
 #### Status
 ACCEPTED

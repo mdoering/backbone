@@ -1,5 +1,4 @@
-Arthonia thamnocarpa Vain. SPECIES
-=======
+# Arthonia thamnocarpa Vain. SPECIES
 
 #### Status
 ACCEPTED

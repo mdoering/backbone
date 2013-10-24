@@ -1,5 +1,4 @@
-Tapesia aurantiaca Velen. SPECIES
-=======
+# Tapesia aurantiaca Velen. SPECIES
 
 #### Status
 ACCEPTED

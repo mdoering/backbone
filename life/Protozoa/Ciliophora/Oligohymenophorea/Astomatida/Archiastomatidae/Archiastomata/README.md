@@ -1,5 +1,4 @@
-Archiastomata Foissner, 1976 GENUS
-=======
+# Archiastomata Foissner, 1976 GENUS
 
 #### Status
 ACCEPTED

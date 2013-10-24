@@ -1,5 +1,4 @@
-Pseudocercospora acalyphae (Lacy & Thirum.) Raghu Ram, Mallaiah & U. Braun SPECIES
-=======
+# Pseudocercospora acalyphae (Lacy & Thirum.) Raghu Ram, Mallaiah & U. Braun SPECIES
 
 #### Status
 ACCEPTED

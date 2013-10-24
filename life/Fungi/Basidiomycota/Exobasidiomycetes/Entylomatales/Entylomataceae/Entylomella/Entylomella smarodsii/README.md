@@ -1,5 +1,4 @@
-Entylomella smarodsii Moesz SPECIES
-=======
+# Entylomella smarodsii Moesz SPECIES
 
 #### Status
 ACCEPTED

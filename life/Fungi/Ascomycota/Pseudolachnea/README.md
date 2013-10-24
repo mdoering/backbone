@@ -1,17 +1,16 @@
-Dinemasporiopsis Bubák & Kabát GENUS
-=======
+# Pseudolachnea Ranojevic, 1910 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Diedicke, Krypt. -Fl. Brandenburg (Leipzig) 9: 750 (1914)
+Annls mycol. 8(3): 393 (1910)
 
 #### Original name
-Dinemasporiopsis Bubák & Kabát
+Pseudolachnea Ranojevic, 1910
 
 ### Remarks
 null

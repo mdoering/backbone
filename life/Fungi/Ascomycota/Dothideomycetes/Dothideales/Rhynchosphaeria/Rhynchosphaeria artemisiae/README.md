@@ -1,5 +1,4 @@
-Rhynchosphaeria artemisiae Frolov SPECIES
-=======
+# Rhynchosphaeria artemisiae Frolov SPECIES
 
 #### Status
 ACCEPTED

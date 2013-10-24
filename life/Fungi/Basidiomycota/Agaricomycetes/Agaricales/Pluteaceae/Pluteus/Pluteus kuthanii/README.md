@@ -1,5 +1,4 @@
-Pluteus kuthanii Singer SPECIES
-=======
+# Pluteus kuthanii Singer SPECIES
 
 #### Status
 ACCEPTED

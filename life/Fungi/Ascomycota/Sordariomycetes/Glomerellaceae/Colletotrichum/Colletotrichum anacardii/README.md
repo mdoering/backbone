@@ -1,5 +1,4 @@
-Colletotrichum anacardii Kelkar SPECIES
-=======
+# Colletotrichum anacardii Kelkar SPECIES
 
 #### Status
 ACCEPTED

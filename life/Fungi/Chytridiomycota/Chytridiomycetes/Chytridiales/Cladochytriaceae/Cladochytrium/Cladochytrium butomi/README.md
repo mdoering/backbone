@@ -1,5 +1,4 @@
-Cladochytrium butomi Büsgen SPECIES
-=======
+# Cladochytrium butomi Büsgen SPECIES
 
 #### Status
 ACCEPTED

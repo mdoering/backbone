@@ -1,14 +1,13 @@
-Clavaria chondroides Berk., 1842 SPECIES
-=======
+# Clavulina chondroides (Berk.) Corner, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Bot. , London 1(3): 140 (1842)
+Ann. Bot. Mem. 1: 308 (1950)
 
 #### Original name
 Clavaria chondroides Berk., 1842

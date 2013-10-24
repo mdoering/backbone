@@ -1,5 +1,4 @@
-Lecidella vorax Leuckert & Poelt SPECIES
-=======
+# Lecidella vorax Leuckert & Poelt SPECIES
 
 #### Status
 ACCEPTED

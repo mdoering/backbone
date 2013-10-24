@@ -1,5 +1,4 @@
-Cyclidium buetschlii SPECIES
-=======
+# Cyclidium buetschlii SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entosiphon obliquum SPECIES
-=======
+# Entosiphon obliquum SPECIES
 
 #### Status
 ACCEPTED

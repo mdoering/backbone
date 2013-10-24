@@ -1,5 +1,4 @@
-Polystigma halimodendri (Murashk.) Kalymb., 1969 SPECIES
-=======
+# Polystigma halimodendri (Murashk.) Kalymb., 1969 SPECIES
 
 #### Status
 ACCEPTED

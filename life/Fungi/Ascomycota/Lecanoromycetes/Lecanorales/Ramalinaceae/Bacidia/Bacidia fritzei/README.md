@@ -1,5 +1,4 @@
-Bacidia fritzei (Stein) Zahlbr. SPECIES
-=======
+# Bacidia fritzei (Stein) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

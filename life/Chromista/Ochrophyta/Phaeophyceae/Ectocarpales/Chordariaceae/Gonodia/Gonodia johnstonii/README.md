@@ -1,5 +1,4 @@
-Gonodia johnstonii Setchell & Gardner SPECIES
-=======
+# Gonodia johnstonii Setchell & Gardner SPECIES
 
 #### Status
 ACCEPTED

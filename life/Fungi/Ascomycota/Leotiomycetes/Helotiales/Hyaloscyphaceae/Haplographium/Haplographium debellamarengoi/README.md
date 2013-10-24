@@ -1,5 +1,4 @@
-Haplographium debellamarengoi SPECIES
-=======
+# Haplographium debellamarengoi SPECIES
 
 #### Status
 ACCEPTED

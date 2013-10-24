@@ -1,5 +1,4 @@
-Staphylococcus cohnii subsp. cohnii Schleifer & Kloos, 1975 SUBSPECIES
-=======
+# Staphylococcus cohnii Schleifer & Kloos, 1975 SPECIES
 
 #### Status
 ACCEPTED

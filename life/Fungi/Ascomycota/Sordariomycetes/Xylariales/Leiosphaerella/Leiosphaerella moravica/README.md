@@ -1,14 +1,13 @@
-Nectriella moravica (Petr.) Petr., 1920 SPECIES
-=======
+# Leiosphaerella moravica (Petr.) Petr., 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 17(2/6): 78 (1920)
+Sydowia 15: 209 (1962)
 
 #### Original name
 Stigmatea moravica Petr., 1914

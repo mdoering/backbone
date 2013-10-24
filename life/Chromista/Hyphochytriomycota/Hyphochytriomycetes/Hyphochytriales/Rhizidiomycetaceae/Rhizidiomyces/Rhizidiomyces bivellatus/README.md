@@ -1,5 +1,4 @@
-Rhizidiomyces bivellatus Nabel, 1939 SPECIES
-=======
+# Rhizidiomyces bivellatus Nabel, 1939 SPECIES
 
 #### Status
 ACCEPTED

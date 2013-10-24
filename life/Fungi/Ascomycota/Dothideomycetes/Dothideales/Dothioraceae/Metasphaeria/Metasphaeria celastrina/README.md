@@ -1,5 +1,4 @@
-Metasphaeria celastrina Syd. & E.J. Butler SPECIES
-=======
+# Metasphaeria celastrina Syd. & E.J. Butler SPECIES
 
 #### Status
 ACCEPTED

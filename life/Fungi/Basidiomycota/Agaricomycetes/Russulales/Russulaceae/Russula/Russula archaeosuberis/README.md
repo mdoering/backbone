@@ -1,5 +1,4 @@
-Russula archaeosuberis Sarnari SPECIES
-=======
+# Russula archaeosuberis Sarnari SPECIES
 
 #### Status
 ACCEPTED

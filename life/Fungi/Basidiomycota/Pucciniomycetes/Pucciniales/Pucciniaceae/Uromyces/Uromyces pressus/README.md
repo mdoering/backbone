@@ -1,5 +1,4 @@
-Uromyces pressus Arthur & Holw. SPECIES
-=======
+# Uromyces pressus Arthur & Holw. SPECIES
 
 #### Status
 ACCEPTED

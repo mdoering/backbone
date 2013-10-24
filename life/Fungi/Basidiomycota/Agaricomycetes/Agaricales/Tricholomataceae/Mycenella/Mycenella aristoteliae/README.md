@@ -1,5 +1,4 @@
-Mycenella aristoteliae Singer SPECIES
-=======
+# Mycenella aristoteliae Singer SPECIES
 
 #### Status
 ACCEPTED

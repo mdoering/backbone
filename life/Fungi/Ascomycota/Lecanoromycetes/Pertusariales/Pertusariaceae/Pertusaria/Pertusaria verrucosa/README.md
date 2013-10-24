@@ -1,5 +1,4 @@
-Pertusaria verrucosa (Fée) Mont. SPECIES
-=======
+# Pertusaria verrucosa (Fée) Mont. SPECIES
 
 #### Status
 ACCEPTED

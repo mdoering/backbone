@@ -1,14 +1,13 @@
-Leptonia sziaueolatis (Peck) Largent SPECIES
-=======
+# Leptonia suaveolens (Peck) Largent SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biblthca Mycol. 55: 261 (1977)
 
 #### Original name
 Nolanea suaveolens Peck

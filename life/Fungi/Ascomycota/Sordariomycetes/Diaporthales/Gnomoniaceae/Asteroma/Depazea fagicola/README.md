@@ -1,5 +1,4 @@
-Depazea fagicola Fr. SPECIES
-=======
+# Depazea fagicola Fr. SPECIES
 
 #### Status
 ACCEPTED

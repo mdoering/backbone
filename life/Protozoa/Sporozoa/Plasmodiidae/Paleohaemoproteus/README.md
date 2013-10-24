@@ -1,5 +1,4 @@
-Paleohaemoproteus Poinar & Telford, 2005 GENUS
-=======
+# Paleohaemoproteus Poinar & Telford, 2005 GENUS
 
 #### Status
 ACCEPTED

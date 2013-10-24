@@ -1,5 +1,4 @@
-Ocellularia dolichospora (Nyl.) Müll. Arg. SPECIES
-=======
+# Ocellularia dolichospora (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

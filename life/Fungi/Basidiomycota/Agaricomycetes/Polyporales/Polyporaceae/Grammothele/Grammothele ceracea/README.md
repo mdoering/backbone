@@ -1,5 +1,4 @@
-Grammothele ceracea Rick SPECIES
-=======
+# Grammothele ceracea Rick SPECIES
 
 #### Status
 ACCEPTED

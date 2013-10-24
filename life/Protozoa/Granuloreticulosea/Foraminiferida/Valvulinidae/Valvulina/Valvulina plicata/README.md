@@ -1,5 +1,4 @@
-Valvulina plicata SPECIES
-=======
+# Valvulina plicata SPECIES
 
 #### Status
 ACCEPTED

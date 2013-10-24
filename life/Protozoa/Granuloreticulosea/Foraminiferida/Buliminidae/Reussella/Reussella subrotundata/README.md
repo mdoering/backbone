@@ -1,5 +1,4 @@
-Reussella subrotundata (Cushman & Thomas) SPECIES
-=======
+# Reussella subrotundata (Cushman & Thomas) SPECIES
 
 #### Status
 ACCEPTED

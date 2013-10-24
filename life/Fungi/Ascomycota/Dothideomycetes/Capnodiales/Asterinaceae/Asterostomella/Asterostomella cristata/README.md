@@ -1,5 +1,4 @@
-Asterostomella cristata Speg. SPECIES
-=======
+# Asterostomella cristata Speg. SPECIES
 
 #### Status
 ACCEPTED

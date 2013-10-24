@@ -1,5 +1,4 @@
-Coniophora fodinarum P.H.B. Talbot SPECIES
-=======
+# Coniophora fodinarum P.H.B. Talbot SPECIES
 
 #### Status
 ACCEPTED

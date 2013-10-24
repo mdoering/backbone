@@ -1,14 +1,13 @@
-Roccella nigerrima (Darb.) Follmann SPECIES
-=======
+# Roccellodea nigerrima Darb. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-in Follmann, Schulz & Werner, J. Hattori bot. Lab. 85: 257 (1998)
+Annals Cryptog. Exot. 5: (1932)
 
 #### Original name
 Roccellodea nigerrima Darb.

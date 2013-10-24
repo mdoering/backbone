@@ -1,5 +1,4 @@
-Asteroma robergii var. robergii VARIETY
-=======
+# Asteroma robergii Desm. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Asteroma robergii var. robergii
+Asteroma robergii Desm.
 
 ### Remarks
 null

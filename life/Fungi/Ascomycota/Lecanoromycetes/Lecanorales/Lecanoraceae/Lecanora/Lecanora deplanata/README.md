@@ -1,5 +1,4 @@
-Lecanora deplanata (Müll. Arg.) Stizenb. SPECIES
-=======
+# Lecanora deplanata (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

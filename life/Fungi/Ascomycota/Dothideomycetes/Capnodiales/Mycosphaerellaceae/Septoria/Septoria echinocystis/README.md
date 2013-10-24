@@ -1,5 +1,4 @@
-Septoria echinocystis Ellis & Everh. SPECIES
-=======
+# Septoria echinocystis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

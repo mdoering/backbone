@@ -1,17 +1,16 @@
-Hirneola auricula-judae var. auricula-judae VARIETY
-=======
+# Auricularia cornea Ehrenb., 1820 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Horae Phys. Berol. 91 (1820)
 
 #### Original name
-null
+Auricularia cornea Ehrenb., 1820
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Tapesia centaureae Velen. SPECIES
-=======
+# Tapesia centaureae Velen. SPECIES
 
 #### Status
 ACCEPTED

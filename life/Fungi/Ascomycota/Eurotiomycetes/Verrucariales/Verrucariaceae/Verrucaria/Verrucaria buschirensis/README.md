@@ -1,5 +1,4 @@
-Verrucaria buschirensis J. Steiner SPECIES
-=======
+# Verrucaria buschirensis J. Steiner SPECIES
 
 #### Status
 ACCEPTED

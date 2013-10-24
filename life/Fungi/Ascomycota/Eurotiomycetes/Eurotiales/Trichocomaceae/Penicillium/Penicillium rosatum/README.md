@@ -1,5 +1,4 @@
-Penicillium rosatum Biourge SPECIES
-=======
+# Penicillium rosatum Biourge SPECIES
 
 #### Status
 ACCEPTED

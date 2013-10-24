@@ -1,17 +1,16 @@
-Manginella anonae Bat. & H. Maia SPECIES
-=======
+# Manginella annonae Bat. & H. Maia, 1961 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Publicações. Instituto de Micologia da Universidade do Recife & Instituto Nacional de Pesquis 338: 24 (1961)
 
 #### Original name
-Manginella anonae Bat. & H. Maia
+Manginella annonae Bat. & H. Maia, 1961
 
 ### Remarks
 null

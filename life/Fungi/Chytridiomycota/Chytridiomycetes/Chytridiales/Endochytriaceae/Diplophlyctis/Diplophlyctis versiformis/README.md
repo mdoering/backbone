@@ -1,5 +1,4 @@
-Diplophlyctis versiformis Dogma, 1976 SPECIES
-=======
+# Diplophlyctis versiformis Dogma, 1976 SPECIES
 
 #### Status
 ACCEPTED

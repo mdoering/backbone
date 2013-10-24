@@ -1,5 +1,4 @@
-Agaricus achnous Berk. & Broome SPECIES
-=======
+# Agaricus achnous Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

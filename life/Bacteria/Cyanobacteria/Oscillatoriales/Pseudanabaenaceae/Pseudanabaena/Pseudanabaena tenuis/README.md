@@ -1,5 +1,4 @@
-Pseudanabaena tenuis Koppe SPECIES
-=======
+# Pseudanabaena tenuis Koppe SPECIES
 
 #### Status
 ACCEPTED

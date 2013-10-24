@@ -1,5 +1,4 @@
-Arthonia rhoidis Zahlbr. SPECIES
-=======
+# Arthonia rhoidis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

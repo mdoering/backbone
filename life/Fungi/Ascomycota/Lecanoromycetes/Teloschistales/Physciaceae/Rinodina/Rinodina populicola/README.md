@@ -1,5 +1,4 @@
-Rinodina populicola H. Magn. SPECIES
-=======
+# Rinodina populicola H. Magn. SPECIES
 
 #### Status
 ACCEPTED

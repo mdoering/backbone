@@ -1,5 +1,4 @@
-Eutypella tilakii R. Rao SPECIES
-=======
+# Eutypella tilakii R. Rao SPECIES
 
 #### Status
 ACCEPTED

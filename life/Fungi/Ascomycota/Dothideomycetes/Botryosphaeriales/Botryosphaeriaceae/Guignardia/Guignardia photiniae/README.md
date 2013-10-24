@@ -1,5 +1,4 @@
-Guignardia photiniae J.V. Almeida & Sousa da Câmara SPECIES
-=======
+# Guignardia photiniae J.V. Almeida & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eumitria GENUS
-=======
+# Eumitria GENUS
 
 #### Status
 ACCEPTED

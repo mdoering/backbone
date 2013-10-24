@@ -1,5 +1,4 @@
-Whalenella Kozur, 1986 GENUS
-=======
+# Whalenella Kozur, 1986 GENUS
 
 #### Status
 ACCEPTED

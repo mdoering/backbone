@@ -1,5 +1,4 @@
-Micranthodinium quadrispinum (Pavillard) Margalef SPECIES
-=======
+# Micranthodinium quadrispinum (Pavillard) Margalef SPECIES
 
 #### Status
 ACCEPTED

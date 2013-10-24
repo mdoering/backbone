@@ -1,5 +1,4 @@
-Gloeosporium bignoniae Pass. SPECIES
-=======
+# Gloeosporium bignoniae Pass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lichenagaricus scutatus var. scutatus VARIETY
-=======
+# Lichenagaricus scutatus anon. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lichenagaricus scutatus var. scutatus
+Lichenagaricus scutatus anon.
 
 ### Remarks
 null

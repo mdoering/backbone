@@ -1,5 +1,4 @@
-Phoma cladophila Pass. SPECIES
-=======
+# Phoma cladophila Pass. SPECIES
 
 #### Status
 ACCEPTED

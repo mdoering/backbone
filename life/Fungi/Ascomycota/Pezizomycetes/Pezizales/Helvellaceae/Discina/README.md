@@ -1,5 +1,4 @@
-Discina Bonorden, 1851 GENUS
-=======
+# Discina Bonorden, 1851 GENUS
 
 #### Status
 ACCEPTED

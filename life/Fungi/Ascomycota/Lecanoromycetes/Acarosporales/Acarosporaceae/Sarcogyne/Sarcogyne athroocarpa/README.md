@@ -1,5 +1,4 @@
-Sarcogyne athroocarpa H. Magn. SPECIES
-=======
+# Sarcogyne athroocarpa H. Magn. SPECIES
 
 #### Status
 ACCEPTED

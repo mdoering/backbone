@@ -1,5 +1,4 @@
-Diplodia dorycnea Nann. SPECIES
-=======
+# Diplodia dorycnea Nann. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Galera crystallifera Velen. SPECIES
-=======
+# Galera crystallifera Velen. SPECIES
 
 #### Status
 ACCEPTED

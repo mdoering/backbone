@@ -1,5 +1,4 @@
-Cortinarius subrhacodes Rob. Henry SPECIES
-=======
+# Cortinarius subrhacodes Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

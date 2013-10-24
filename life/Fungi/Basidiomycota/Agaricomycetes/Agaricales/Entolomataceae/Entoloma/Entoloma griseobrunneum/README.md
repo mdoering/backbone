@@ -1,5 +1,4 @@
-Entoloma griseobrunneum Hesler SPECIES
-=======
+# Entoloma griseobrunneum Hesler SPECIES
 
 #### Status
 ACCEPTED

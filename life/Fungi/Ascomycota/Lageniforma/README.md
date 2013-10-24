@@ -1,5 +1,4 @@
-Lageniforma Plunkett, 1925 GENUS
-=======
+# Lageniforma Plunkett, 1925 GENUS
 
 #### Status
 ACCEPTED

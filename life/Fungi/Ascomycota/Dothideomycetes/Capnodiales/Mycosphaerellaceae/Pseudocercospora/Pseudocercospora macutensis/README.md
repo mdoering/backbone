@@ -1,5 +1,4 @@
-Pseudocercospora macutensis (Syd.) Deighton SPECIES
-=======
+# Pseudocercospora macutensis (Syd.) Deighton SPECIES
 
 #### Status
 ACCEPTED

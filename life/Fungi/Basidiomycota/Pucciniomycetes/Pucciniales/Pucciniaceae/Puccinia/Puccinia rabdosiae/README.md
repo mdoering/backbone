@@ -1,5 +1,4 @@
-Puccinia rabdosiae Wei {?} SPECIES
-=======
+# Puccinia rabdosiae Wei {?} SPECIES
 
 #### Status
 ACCEPTED

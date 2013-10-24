@@ -1,5 +1,4 @@
-Scabradiporites varias Y.K. Mathur SPECIES
-=======
+# Scabradiporites varias Y.K. Mathur SPECIES
 
 #### Status
 ACCEPTED

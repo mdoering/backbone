@@ -1,5 +1,4 @@
-Glandulina kalimnensis Parr SPECIES
-=======
+# Glandulina kalimnensis Parr SPECIES
 
 #### Status
 ACCEPTED

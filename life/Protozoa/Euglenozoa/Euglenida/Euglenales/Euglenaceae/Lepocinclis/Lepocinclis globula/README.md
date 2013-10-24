@@ -1,5 +1,4 @@
-Lepocinclis globula var. minor Woronichin VARIETY
-=======
+# Lepocinclis globula Perty SPECIES
 
 #### Status
 ACCEPTED

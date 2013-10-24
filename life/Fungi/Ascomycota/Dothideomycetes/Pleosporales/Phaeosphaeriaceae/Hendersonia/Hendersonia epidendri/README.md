@@ -1,5 +1,4 @@
-Hendersonia epidendri Keissl. SPECIES
-=======
+# Hendersonia epidendri Keissl. SPECIES
 
 #### Status
 ACCEPTED

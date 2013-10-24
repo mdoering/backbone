@@ -1,5 +1,4 @@
-Laboulbenia humilis Thaxt. SPECIES
-=======
+# Laboulbenia humilis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe rufofusca (J. Favre) Bon SPECIES
-=======
+# Inocybe rufofusca (J. Favre) Bon SPECIES
 
 #### Status
 ACCEPTED

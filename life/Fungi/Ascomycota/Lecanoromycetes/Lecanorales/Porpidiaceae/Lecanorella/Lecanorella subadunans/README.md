@@ -1,5 +1,4 @@
-Lecanorella subadunans (Vain.) Motyka SPECIES
-=======
+# Lecanorella subadunans (Vain.) Motyka SPECIES
 
 #### Status
 ACCEPTED

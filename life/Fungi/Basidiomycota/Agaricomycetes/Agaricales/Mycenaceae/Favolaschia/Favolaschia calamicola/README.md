@@ -1,5 +1,4 @@
-Favolaschia calamicola Henn. & E. Nyman, 1899 SPECIES
-=======
+# Favolaschia calamicola Henn. & E. Nyman, 1899 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Penicillium eborinum Y. Sasaki SPECIES
-=======
+# Penicillium eborinum Y. Sasaki SPECIES
 
 #### Status
 ACCEPTED

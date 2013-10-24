@@ -1,5 +1,4 @@
-Pseudobalsamia GENUS
-=======
+# Pseudobalsamia GENUS
 
 #### Status
 ACCEPTED

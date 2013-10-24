@@ -1,5 +1,4 @@
-Clavaria byssiseda Pers. SPECIES
-=======
+# Clavaria byssiseda Pers. SPECIES
 
 #### Status
 ACCEPTED

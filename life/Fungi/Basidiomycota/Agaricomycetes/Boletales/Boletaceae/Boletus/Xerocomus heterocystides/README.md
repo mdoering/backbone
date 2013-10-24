@@ -1,5 +1,4 @@
-Xerocomus heterocystides J.Z. Ying SPECIES
-=======
+# Xerocomus heterocystides J.Z. Ying SPECIES
 
 #### Status
 ACCEPTED

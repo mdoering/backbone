@@ -1,17 +1,16 @@
-Readeriella nontingens (Crous & Summerell) Crous & Summerell, 2009 SPECIES
-=======
+# Cibiessia nontingens Crous & Summerell, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Crous, Summerell, Carnegie, Mohammed, Himaman & Groenewald, Fungal Diversity 26(1): 154 (2007)
 
 #### Original name
-null
+Cibiessia nontingens Crous & Summerell, 2007
 
 ### Remarks
 null

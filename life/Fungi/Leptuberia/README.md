@@ -1,5 +1,4 @@
-Leptuberia Raf. GENUS
-=======
+# Leptuberia Raf. GENUS
 
 #### Status
 ACCEPTED

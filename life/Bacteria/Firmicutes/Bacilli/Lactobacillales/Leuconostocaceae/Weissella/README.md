@@ -1,5 +1,4 @@
-Weissella Collins et al., 1994 GENUS
-=======
+# Weissella Collins et al., 1994 GENUS
 
 #### Status
 ACCEPTED

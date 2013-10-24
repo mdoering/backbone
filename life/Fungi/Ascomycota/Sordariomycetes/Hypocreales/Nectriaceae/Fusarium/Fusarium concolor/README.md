@@ -1,5 +1,4 @@
-Fusarium concolor Reinking, 1934 SPECIES
-=======
+# Fusarium concolor Reinking, 1934 SPECIES
 
 #### Status
 ACCEPTED

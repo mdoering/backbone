@@ -1,5 +1,4 @@
-Rectobolivina bifrons (Brady) SPECIES
-=======
+# Rectobolivina bifrons (Brady) SPECIES
 
 #### Status
 ACCEPTED

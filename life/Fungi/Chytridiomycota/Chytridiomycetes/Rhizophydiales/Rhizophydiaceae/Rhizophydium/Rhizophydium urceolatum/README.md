@@ -1,5 +1,4 @@
-Rhizophydium urceolatum S.N. Dasgupta & R. John SPECIES
-=======
+# Rhizophydium urceolatum S.N. Dasgupta & R. John SPECIES
 
 #### Status
 ACCEPTED

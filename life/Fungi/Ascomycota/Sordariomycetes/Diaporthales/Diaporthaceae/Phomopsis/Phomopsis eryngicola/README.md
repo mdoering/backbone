@@ -1,5 +1,4 @@
-Phomopsis eryngicola Traverso SPECIES
-=======
+# Phomopsis eryngicola Traverso SPECIES
 
 #### Status
 ACCEPTED

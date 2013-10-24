@@ -1,5 +1,4 @@
-Aspicilia meylanii B. de Lesd. SPECIES
-=======
+# Aspicilia meylanii B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cephalia ovata Sah & Kar, 1974 SPECIES
-=======
+# Cephalia ovata Sah & Kar, 1974 SPECIES
 
 #### Status
 ACCEPTED

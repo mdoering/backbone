@@ -1,5 +1,4 @@
-Dimeromyces eximius Thaxt. SPECIES
-=======
+# Dimeromyces eximius Thaxt. SPECIES
 
 #### Status
 ACCEPTED

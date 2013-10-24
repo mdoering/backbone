@@ -1,5 +1,4 @@
-Nidularia australis Tul. SPECIES
-=======
+# Nidularia australis Tul. SPECIES
 
 #### Status
 ACCEPTED

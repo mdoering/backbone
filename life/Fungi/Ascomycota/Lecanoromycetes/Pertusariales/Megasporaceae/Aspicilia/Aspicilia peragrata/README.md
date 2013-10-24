@@ -1,5 +1,4 @@
-Aspicilia peragrata (Fée) Hue SPECIES
-=======
+# Aspicilia peragrata (Fée) Hue SPECIES
 
 #### Status
 ACCEPTED

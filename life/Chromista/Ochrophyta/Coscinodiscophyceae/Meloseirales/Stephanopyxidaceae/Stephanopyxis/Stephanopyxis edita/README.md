@@ -1,5 +1,4 @@
-Stephanopyxis edita Jousé SPECIES
-=======
+# Stephanopyxis edita Jousé SPECIES
 
 #### Status
 ACCEPTED

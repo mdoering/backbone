@@ -1,5 +1,4 @@
-Lagenosolenia marginatoperforata (Seguenza, 1880) SPECIES
-=======
+# Lagenosolenia marginatoperforata (Seguenza, 1880) SPECIES
 
 #### Status
 ACCEPTED

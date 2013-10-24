@@ -1,5 +1,4 @@
-Lecania amblyospora (Harm.) Zahlbr. SPECIES
-=======
+# Lecania amblyospora (Harm.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

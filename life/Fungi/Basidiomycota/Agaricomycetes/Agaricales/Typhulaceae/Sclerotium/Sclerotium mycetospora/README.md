@@ -1,5 +1,4 @@
-Sclerotium mycetospora Nees ex Fr. SPECIES
-=======
+# Sclerotium mycetospora Nees ex Fr. SPECIES
 
 #### Status
 ACCEPTED

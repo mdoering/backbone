@@ -1,14 +1,13 @@
-Phaeodothiopsis striphnodendri (Henn.) Theiss. & Syd. SPECIES
-=======
+# Phaeodothiopsis stryphnodendri (Henn.) Theiss. & Syd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 13(3/4): 411 (1915)
 
 #### Original name
 Dothidea stryphnodendri Henn.

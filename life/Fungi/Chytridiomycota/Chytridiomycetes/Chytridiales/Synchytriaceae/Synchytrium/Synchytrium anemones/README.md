@@ -1,17 +1,16 @@
-Synchytrium anemones var. ranunculi Pat. VARIETY
-=======
+# Synchytrium anemones (DC.) Woronin, 1868 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bot. Ztg. 26: 100 (1868)
 
 #### Original name
-Synchytrium anemones var. ranunculi Pat.
+Dothidea anemones DC., 1815
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Yaocapsa Kozur, 1986 GENUS
-=======
+# Yaocapsa Kozur, 1986 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lingulina bicarinata f. nasuta Buchner, 1942 FORM
-=======
+# Lingulina bicarinata Sidebottom, 1907 SPECIES
 
 #### Status
 ACCEPTED

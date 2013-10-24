@@ -1,5 +1,4 @@
-Xylaria strobiliformis Henn. SPECIES
-=======
+# Xylaria strobiliformis Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea chlorophanoides H. Magn. SPECIES
-=======
+# Lecidea chlorophanoides H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Synedra socia J.H. Wallace SPECIES
-=======
+# Synedra socia J.H. Wallace SPECIES
 
 #### Status
 ACCEPTED

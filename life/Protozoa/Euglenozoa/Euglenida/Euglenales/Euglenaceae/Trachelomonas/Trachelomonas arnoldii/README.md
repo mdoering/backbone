@@ -1,5 +1,4 @@
-Trachelomonas arnoldii var. formosa Skvortzov VARIETY
-=======
+# Trachelomonas arnoldii Roll SPECIES
 
 #### Status
 ACCEPTED

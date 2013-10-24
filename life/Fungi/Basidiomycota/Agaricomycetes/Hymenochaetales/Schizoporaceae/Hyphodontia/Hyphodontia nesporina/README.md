@@ -1,17 +1,16 @@
-Xylodon nesporina (Hallenb. & Hjortstam) Hjortstam & Ryvarden, 2009 SPECIES
-=======
+# Hyphodontia nesporina Hallenb. & Hjortstam, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 57: 121 (1996)
 
 #### Original name
-null
+Hyphodontia nesporina Hallenb. & Hjortstam, 1996
 
 ### Remarks
 null

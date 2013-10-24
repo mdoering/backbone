@@ -1,5 +1,4 @@
-Phyllachora vossiae Syd. & P. Syd., 1904 SPECIES
-=======
+# Phyllachora vossiae Syd. & P. Syd., 1904 SPECIES
 
 #### Status
 DOUBTFUL

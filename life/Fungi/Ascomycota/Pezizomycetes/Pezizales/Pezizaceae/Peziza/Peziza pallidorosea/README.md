@@ -1,8 +1,7 @@
-Peziza pallide-rosea Saut. SPECIES
-=======
+# Peziza pallidorosea Saut. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Peziza pallide-rosea Saut.
+Peziza pallidorosea Saut.
 
 ### Remarks
 null

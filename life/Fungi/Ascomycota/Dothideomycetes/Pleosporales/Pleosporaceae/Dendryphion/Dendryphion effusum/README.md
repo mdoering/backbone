@@ -1,5 +1,4 @@
-Dendryphion effusum Massee SPECIES
-=======
+# Dendryphion effusum Massee SPECIES
 
 #### Status
 ACCEPTED

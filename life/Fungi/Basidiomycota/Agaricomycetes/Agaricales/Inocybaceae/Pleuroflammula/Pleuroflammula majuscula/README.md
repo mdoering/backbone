@@ -1,5 +1,4 @@
-Pleuroflammula majuscula Singer SPECIES
-=======
+# Pleuroflammula majuscula Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Armillariella umbilicata Pat. SPECIES
-=======
+# Armillariella umbilicata Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phialisphaera Dumort. GENUS
-=======
+# Phialisphaera Dumort. GENUS
 
 #### Status
 ACCEPTED

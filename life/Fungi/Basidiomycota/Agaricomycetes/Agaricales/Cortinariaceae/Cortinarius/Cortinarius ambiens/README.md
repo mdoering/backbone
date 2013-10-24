@@ -1,5 +1,4 @@
-Cortinarius ambiens Rob. Henry SPECIES
-=======
+# Cortinarius ambiens Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

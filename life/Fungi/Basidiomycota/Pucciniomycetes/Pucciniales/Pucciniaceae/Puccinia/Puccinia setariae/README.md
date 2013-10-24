@@ -1,5 +1,4 @@
-Puccinia setariae Dietel & Holw. SPECIES
-=======
+# Puccinia setariae Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

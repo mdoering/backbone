@@ -1,5 +1,4 @@
-Crepidotus angustifolius Hesler & A.H. Sm. SPECIES
-=======
+# Crepidotus angustifolius Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

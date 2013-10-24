@@ -1,5 +1,4 @@
-Stropharia pampeana Speg. SPECIES
-=======
+# Stropharia pampeana Speg. SPECIES
 
 #### Status
 ACCEPTED

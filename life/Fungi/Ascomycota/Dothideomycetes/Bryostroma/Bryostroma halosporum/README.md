@@ -1,5 +1,4 @@
-Bryostroma halosporum Döbbeler & Poelt, 1978 SPECIES
-=======
+# Bryostroma halosporum Döbbeler & Poelt, 1978 SPECIES
 
 #### Status
 ACCEPTED

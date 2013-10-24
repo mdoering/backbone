@@ -1,17 +1,16 @@
-Nematocolla Link GENUS
-=======
+# Myxosporium Link, 1825 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Handbuck zur Erkennung der Nutzbarsten und am Häufigsten Vorkommenden Gewächse 3: 341, 487 (1833)
+null
 
 #### Original name
-Nematocolla Link
+null
 
 ### Remarks
 null

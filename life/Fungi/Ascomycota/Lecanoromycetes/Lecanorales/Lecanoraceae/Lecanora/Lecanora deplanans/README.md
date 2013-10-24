@@ -1,5 +1,4 @@
-Lecanora deplanans Nyl. SPECIES
-=======
+# Lecanora deplanans Nyl. SPECIES
 
 #### Status
 ACCEPTED

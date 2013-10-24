@@ -1,5 +1,4 @@
-Lithocoronis Haeckel, 1881 GENUS
-=======
+# Lithocoronis Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micrhystridium curvatum Uutela & Tynni SPECIES
-=======
+# Micrhystridium curvatum Uutela & Tynni SPECIES
 
 #### Status
 ACCEPTED

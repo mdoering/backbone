@@ -1,14 +1,13 @@
-Poria fraxinophila (Peck) J.E. Wright, 1964 SPECIES
-=======
+# Perenniporia fraxinophila (Peck) Ryvarden, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 56: 694 (1964)
+Norw. Jl Bot. 19: 143 (1972)
 
 #### Original name
 Polyporus fraxinophilus Peck, 1882

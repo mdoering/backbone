@@ -1,5 +1,4 @@
-Aecidium moggii Doidge SPECIES
-=======
+# Aecidium moggii Doidge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Hypocomina carinata Raabe, 1934 SPECIES
-=======
+# Crebricoma carinata (Raabe, 1934) Kozloff, 1946 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

@@ -1,5 +1,4 @@
-Parmelia perisidians Nyl. SPECIES
-=======
+# Parmelia perisidians Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tricholoma muculentum (Berk.) Sacc. SPECIES
-=======
+# Tricholoma muculentum (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

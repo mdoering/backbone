@@ -1,5 +1,4 @@
-Peziza phlebophora Berk. & M.A. Curtis SPECIES
-=======
+# Peziza phlebophora Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

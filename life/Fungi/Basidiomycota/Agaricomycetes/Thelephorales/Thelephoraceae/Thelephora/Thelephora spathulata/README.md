@@ -1,5 +1,4 @@
-Thelephora spathulata Lloyd SPECIES
-=======
+# Thelephora spathulata Lloyd SPECIES
 
 #### Status
 ACCEPTED

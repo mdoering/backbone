@@ -1,5 +1,4 @@
-Phoma anthemidis H. Ruppr. SPECIES
-=======
+# Phoma anthemidis H. Ruppr. SPECIES
 
 #### Status
 ACCEPTED

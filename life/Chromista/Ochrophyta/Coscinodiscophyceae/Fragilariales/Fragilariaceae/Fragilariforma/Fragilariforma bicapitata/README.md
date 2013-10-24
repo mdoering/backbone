@@ -1,8 +1,7 @@
-Fragilaria bicapitata Mayer SPECIES
-=======
+# Fragilariforma bicapitata (A. Meyer) D.M. Williams & Round SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

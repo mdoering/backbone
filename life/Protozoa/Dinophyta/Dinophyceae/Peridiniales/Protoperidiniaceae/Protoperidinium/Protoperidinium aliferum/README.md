@@ -1,5 +1,4 @@
-Protoperidinium aliferum (Gaarder) Balech SPECIES
-=======
+# Protoperidinium aliferum (Gaarder) Balech SPECIES
 
 #### Status
 ACCEPTED

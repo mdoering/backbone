@@ -1,5 +1,4 @@
-Caenomyces E.W. Berry GENUS
-=======
+# Caenomyces E.W. Berry GENUS
 
 #### Status
 ACCEPTED

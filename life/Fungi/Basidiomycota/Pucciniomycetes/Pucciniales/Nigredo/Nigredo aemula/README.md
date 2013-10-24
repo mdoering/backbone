@@ -1,5 +1,4 @@
-Nigredo aemula (Arthur) Arthur SPECIES
-=======
+# Nigredo aemula (Arthur) Arthur SPECIES
 
 #### Status
 ACCEPTED

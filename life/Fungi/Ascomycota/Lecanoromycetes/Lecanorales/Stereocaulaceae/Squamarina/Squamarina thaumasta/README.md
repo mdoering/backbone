@@ -1,5 +1,4 @@
-Squamarina thaumasta (Stirt.) SPECIES
-=======
+# Squamarina thaumasta (Stirt.) SPECIES
 
 #### Status
 ACCEPTED

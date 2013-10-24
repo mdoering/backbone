@@ -1,5 +1,4 @@
-Rinodina muscicola H. Magn. SPECIES
-=======
+# Rinodina muscicola H. Magn. SPECIES
 
 #### Status
 ACCEPTED

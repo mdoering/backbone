@@ -1,17 +1,16 @@
-Cheilymenia tandonia K.S. Thind & S.C. Kaushal SPECIES
-=======
+# Cheilymenia tandonii K.S. Thind & S.C. Kaushal SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Phytopath. 33(3): 430 (1981)
 
 #### Original name
-Cheilymenia tandonia K.S. Thind & S.C. Kaushal
+Cheilymenia tandonii K.S. Thind & S.C. Kaushal
 
 ### Remarks
 null

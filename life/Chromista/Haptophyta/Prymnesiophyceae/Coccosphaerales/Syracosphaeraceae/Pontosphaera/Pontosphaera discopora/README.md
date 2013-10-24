@@ -1,5 +1,4 @@
-Pontosphaera discopora Schiller, 1930 SPECIES
-=======
+# Pontosphaera discopora Schiller, 1930 SPECIES
 
 #### Status
 ACCEPTED

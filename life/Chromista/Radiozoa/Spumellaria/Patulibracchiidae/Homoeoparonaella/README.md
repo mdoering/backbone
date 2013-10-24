@@ -1,5 +1,4 @@
-Homoeoparonaella Baumgartner, 1980 GENUS
-=======
+# Homoeoparonaella Baumgartner, 1980 GENUS
 
 #### Status
 ACCEPTED

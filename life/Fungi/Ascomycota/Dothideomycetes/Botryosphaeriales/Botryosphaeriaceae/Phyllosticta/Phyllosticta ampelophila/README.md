@@ -1,5 +1,4 @@
-Phyllosticta ampelophila Politis SPECIES
-=======
+# Phyllosticta ampelophila Politis SPECIES
 
 #### Status
 ACCEPTED

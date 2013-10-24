@@ -1,5 +1,4 @@
-Coniophora stratalis Massee SPECIES
-=======
+# Coniophora stratalis Massee SPECIES
 
 #### Status
 ACCEPTED

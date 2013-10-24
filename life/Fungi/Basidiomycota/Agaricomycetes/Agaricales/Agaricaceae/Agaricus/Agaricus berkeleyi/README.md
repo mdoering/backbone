@@ -1,5 +1,4 @@
-Agaricus berkeleyi Hook. f. SPECIES
-=======
+# Agaricus berkeleyi Hook. f. SPECIES
 
 #### Status
 ACCEPTED

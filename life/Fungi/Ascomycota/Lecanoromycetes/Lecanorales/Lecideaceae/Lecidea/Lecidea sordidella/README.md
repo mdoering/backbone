@@ -1,5 +1,4 @@
-Lecidea sordidella SPECIES
-=======
+# Lecidea sordidella SPECIES
 
 #### Status
 ACCEPTED

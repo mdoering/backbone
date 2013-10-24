@@ -1,5 +1,4 @@
-Prediscosphaera V.N. Vekschina, 1959 GENUS
-=======
+# Prediscosphaera V.N. Vekschina, 1959 GENUS
 
 #### Status
 ACCEPTED

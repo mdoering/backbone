@@ -1,5 +1,4 @@
-Anisomeridium ranunculosporum (Coppins & P. James) Coppins SPECIES
-=======
+# Anisomeridium ranunculosporum (Coppins & P. James) Coppins SPECIES
 
 #### Status
 ACCEPTED

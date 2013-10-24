@@ -1,5 +1,4 @@
-Leccinum hispanicum G. Moreno SPECIES
-=======
+# Leccinum hispanicum G. Moreno SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphis ramulosa (Eschw.) Müll. Arg. SPECIES
-=======
+# Graphis ramulosa (Eschw.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

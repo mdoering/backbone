@@ -1,5 +1,4 @@
-Melanobasidium mali Maubl. SPECIES
-=======
+# Melanobasidium mali Maubl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidia nana (Vain.) Zahlbr. SPECIES
-=======
+# Bacidia nana (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

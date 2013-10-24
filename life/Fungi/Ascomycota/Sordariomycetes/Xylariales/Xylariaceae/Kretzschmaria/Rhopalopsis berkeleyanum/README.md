@@ -1,5 +1,4 @@
-Rhopalopsis berkeleyanum Cooke SPECIES
-=======
+# Rhopalopsis berkeleyanum Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia altaica Oxner SPECIES
-=======
+# Parmelia altaica Oxner SPECIES
 
 #### Status
 ACCEPTED

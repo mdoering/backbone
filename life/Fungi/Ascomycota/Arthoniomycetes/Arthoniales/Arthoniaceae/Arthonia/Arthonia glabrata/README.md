@@ -1,5 +1,4 @@
-Arthonia glabrata A. Schneid. SPECIES
-=======
+# Arthonia glabrata A. Schneid. SPECIES
 
 #### Status
 ACCEPTED

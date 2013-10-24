@@ -1,5 +1,4 @@
-Sporisorium brasiliensis (Zundel) M. Piepenbr. SPECIES
-=======
+# Sporisorium brasiliensis (Zundel) M. Piepenbr. SPECIES
 
 #### Status
 ACCEPTED

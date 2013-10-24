@@ -1,5 +1,4 @@
-Comatricha reticulospora Ing & P.C. Holland, 1967 SPECIES
-=======
+# Comatricha reticulospora Ing & P.C. Holland, 1967 SPECIES
 
 #### Status
 ACCEPTED

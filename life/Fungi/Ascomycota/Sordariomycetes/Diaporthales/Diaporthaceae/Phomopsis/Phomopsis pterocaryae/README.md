@@ -1,5 +1,4 @@
-Phomopsis pterocaryae (Syd.) Died. SPECIES
-=======
+# Phomopsis pterocaryae (Syd.) Died. SPECIES
 
 #### Status
 ACCEPTED

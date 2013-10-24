@@ -1,5 +1,4 @@
-Gyalecta misera Groenh. SPECIES
-=======
+# Gyalecta misera Groenh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alboleptonia cyathiformis (Dennis) Pegler SPECIES
-=======
+# Alboleptonia cyathiformis (Dennis) Pegler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Achlya penetrans F.R.S. Duncan SPECIES
-=======
+# Achlya penetrans F.R.S. Duncan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Graphis pyrrocheiloides Zahlbr. SPECIES
-=======
+# Graphis pyrrhocheiloides Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Cat. Lich. Univers. 2: 321 (1923)
 
 #### Original name
-Graphis pyrrocheiloides Zahlbr.
+Graphis pyrrhocheila Vain.
 
 ### Remarks
 null

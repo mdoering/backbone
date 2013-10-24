@@ -1,5 +1,4 @@
-Bactrodesmium guamense Matsush. SPECIES
-=======
+# Bactrodesmium guamense Matsush. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cunninghamella indica Baijal & B.S. Mehrotra SPECIES
-=======
+# Cunninghamella indica Baijal & B.S. Mehrotra SPECIES
 
 #### Status
 ACCEPTED

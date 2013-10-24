@@ -1,5 +1,4 @@
-Imbricaria subaurifera (Nyl.) Arnold SPECIES
-=======
+# Imbricaria subaurifera (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

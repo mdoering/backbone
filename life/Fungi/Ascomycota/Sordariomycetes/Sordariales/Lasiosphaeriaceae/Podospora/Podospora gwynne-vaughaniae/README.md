@@ -1,5 +1,4 @@
-Podospora gwynne-vaughaniae (W.M. Page) Cain, 1962 SPECIES
-=======
+# Podospora gwynne-vaughaniae (W.M. Page) Cain, 1962 SPECIES
 
 #### Status
 ACCEPTED

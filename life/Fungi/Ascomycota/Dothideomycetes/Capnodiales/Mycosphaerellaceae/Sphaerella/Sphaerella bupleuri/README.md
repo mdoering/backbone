@@ -1,5 +1,4 @@
-Sphaerella bupleuri Rota-Rossi SPECIES
-=======
+# Sphaerella bupleuri Rota-Rossi SPECIES
 
 #### Status
 ACCEPTED

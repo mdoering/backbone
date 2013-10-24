@@ -1,5 +1,4 @@
-Ascochyta iliciola SPECIES
-=======
+# Ascochyta iliciola SPECIES
 
 #### Status
 ACCEPTED

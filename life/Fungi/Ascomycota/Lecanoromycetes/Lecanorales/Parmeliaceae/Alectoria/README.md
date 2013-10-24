@@ -1,17 +1,16 @@
-Alectoriomyces Cif. & Tomas. GENUS
-=======
+# Alectoria Acharius, 1810 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Atti Ist. bot. Univ. Lab. crittog. Pavia, Sér. 5 10(1): 44, 70 (1953)
+in Luyken, Tent. Hist. Lich. 95 (1809)
 
 #### Original name
-Alectoriomyces Cif. & Tomas.
+Alectoria Acharius, 1810
 
 ### Remarks
 null

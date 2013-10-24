@@ -1,5 +1,4 @@
-Stylonichia mammilata Dumas, 1929 SPECIES
-=======
+# Stylonichia mammilata Dumas, 1929 SPECIES
 
 #### Status
 ACCEPTED

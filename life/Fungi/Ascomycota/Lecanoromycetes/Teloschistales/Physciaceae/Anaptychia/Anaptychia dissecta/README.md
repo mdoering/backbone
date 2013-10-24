@@ -1,5 +1,4 @@
-Anaptychia dissecta var. dissecta VARIETY
-=======
+# Anaptychia dissecta SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Beih. Nova Hedwigia 6: 55 (1959)
+null
 
 #### Original name
-Anaptychia dissecta var. dissecta
+null
 
 ### Remarks
 null

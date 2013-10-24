@@ -1,5 +1,4 @@
-Lecidea ischnospora Nyl. SPECIES
-=======
+# Lecidea ischnospora Nyl. SPECIES
 
 #### Status
 ACCEPTED

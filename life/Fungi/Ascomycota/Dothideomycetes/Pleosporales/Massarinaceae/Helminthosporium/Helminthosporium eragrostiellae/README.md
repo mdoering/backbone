@@ -1,17 +1,16 @@
-Helminthosporium eragrostielli A.P. Misra SPECIES
-=======
+# Helminthosporium eragrostiellae A.P. Misra SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Helminthosporium species occurring on Cereals and other Gramineae 208 (1976)
 
 #### Original name
-Helminthosporium eragrostielli A.P. Misra
+Helminthosporium eragrostiellae A.P. Misra
 
 ### Remarks
 null

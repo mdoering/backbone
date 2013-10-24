@@ -1,5 +1,4 @@
-Discosia discoreae Sawada SPECIES
-=======
+# Discosia discoreae Sawada SPECIES
 
 #### Status
 ACCEPTED

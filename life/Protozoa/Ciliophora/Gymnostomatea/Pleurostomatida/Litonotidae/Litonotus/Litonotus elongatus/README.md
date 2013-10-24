@@ -1,8 +1,7 @@
-Lionotus elongatus Dragesco, 1960 SPECIES
-=======
+# Litonotus elongatus Dragesco, 1957 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

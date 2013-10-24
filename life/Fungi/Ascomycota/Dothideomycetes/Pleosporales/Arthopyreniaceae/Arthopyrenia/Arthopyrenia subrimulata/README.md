@@ -1,5 +1,4 @@
-Arthopyrenia subrimulata (Nyl.) Boistel SPECIES
-=======
+# Arthopyrenia subrimulata (Nyl.) Boistel SPECIES
 
 #### Status
 ACCEPTED

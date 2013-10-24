@@ -1,5 +1,4 @@
-Thelotrema papillosum Hale SPECIES
-=======
+# Thelotrema papillosum Hale SPECIES
 
 #### Status
 ACCEPTED

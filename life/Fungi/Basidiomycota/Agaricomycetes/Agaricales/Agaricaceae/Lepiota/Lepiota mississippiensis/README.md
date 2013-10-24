@@ -1,5 +1,4 @@
-Lepiota mississippiensis Murrill SPECIES
-=======
+# Lepiota mississippiensis Murrill SPECIES
 
 #### Status
 ACCEPTED

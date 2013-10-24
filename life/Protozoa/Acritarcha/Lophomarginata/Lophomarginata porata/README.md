@@ -1,5 +1,4 @@
-Lophomarginata porata Ilchenko, 1971 SPECIES
-=======
+# Lophomarginata porata Ilchenko, 1971 SPECIES
 
 #### Status
 ACCEPTED

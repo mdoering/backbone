@@ -1,5 +1,4 @@
-Capnobotrys S. Hughes, 1970 GENUS
-=======
+# Capnobotrys S. Hughes, 1970 GENUS
 
 #### Status
 ACCEPTED

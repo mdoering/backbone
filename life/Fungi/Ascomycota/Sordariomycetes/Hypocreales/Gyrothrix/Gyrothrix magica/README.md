@@ -1,5 +1,4 @@
-Gyrothrix magica Lunghini & Onofri SPECIES
-=======
+# Gyrothrix magica Lunghini & Onofri SPECIES
 
 #### Status
 ACCEPTED

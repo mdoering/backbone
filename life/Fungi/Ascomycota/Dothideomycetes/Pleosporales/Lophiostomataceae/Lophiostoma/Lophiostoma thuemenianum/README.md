@@ -1,5 +1,4 @@
-Lophiostoma thuemenianum Speg. SPECIES
-=======
+# Lophiostoma thuemenianum Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caeoma pineum var. pineum VARIETY
-=======
+# Caeoma pineum Link SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Caeoma pineum var. pineum
+Caeoma pineum Link
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Phyllosticta vincae-minoris Bres. & Krieg. SPECIES
-=======
+# Phyllosticta vincae-minoris Bres. & Krieg. SPECIES
 
 #### Status
 ACCEPTED

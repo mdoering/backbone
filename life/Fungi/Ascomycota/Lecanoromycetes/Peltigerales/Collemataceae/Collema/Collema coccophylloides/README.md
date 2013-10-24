@@ -1,5 +1,4 @@
-Collema coccophylloides Hepp SPECIES
-=======
+# Collema coccophylloides Hepp SPECIES
 
 #### Status
 ACCEPTED

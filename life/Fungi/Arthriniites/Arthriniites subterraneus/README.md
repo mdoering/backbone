@@ -1,5 +1,4 @@
-Arthriniites subterraneus Teterevn. & Tasl. SPECIES
-=======
+# Arthriniites subterraneus Teterevn. & Tasl. SPECIES
 
 #### Status
 ACCEPTED

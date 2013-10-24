@@ -1,5 +1,4 @@
-Dacrymyces urticae (Pers.) Mart. SPECIES
-=======
+# Dacrymyces urticae (Pers.) Mart. SPECIES
 
 #### Status
 ACCEPTED

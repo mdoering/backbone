@@ -1,5 +1,4 @@
-Nostoc foliaceum Mougeot SPECIES
-=======
+# Nostoc foliaceum Mougeot SPECIES
 
 #### Status
 ACCEPTED

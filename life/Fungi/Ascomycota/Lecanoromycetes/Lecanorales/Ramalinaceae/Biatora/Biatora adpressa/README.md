@@ -1,5 +1,4 @@
-Biatora adpressa Hepp SPECIES
-=======
+# Biatora adpressa Hepp SPECIES
 
 #### Status
 ACCEPTED

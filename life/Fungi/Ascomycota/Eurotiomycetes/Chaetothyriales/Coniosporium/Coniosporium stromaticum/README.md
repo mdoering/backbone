@@ -1,5 +1,4 @@
-Coniosporium stromaticum var. stromaticum VARIETY
-=======
+# Coniosporium stromaticum Corda SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Icon. fung. (Prague) 1: 1 (1837)
 
 #### Original name
-Coniosporium stromaticum var. stromaticum
+Coniosporium stromaticum Corda
 
 ### Remarks
 null

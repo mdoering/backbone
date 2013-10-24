@@ -1,5 +1,4 @@
-Clautriavia mobilis Massart, 1920 SPECIES
-=======
+# Clautriavia mobilis Massart, 1920 SPECIES
 
 #### Status
 ACCEPTED

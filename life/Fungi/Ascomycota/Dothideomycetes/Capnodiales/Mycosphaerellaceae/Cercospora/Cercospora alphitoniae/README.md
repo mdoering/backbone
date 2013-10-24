@@ -1,5 +1,4 @@
-Cercospora alphitoniae B. Huguenin SPECIES
-=======
+# Cercospora alphitoniae B. Huguenin SPECIES
 
 #### Status
 ACCEPTED

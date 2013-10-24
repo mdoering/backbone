@@ -1,5 +1,4 @@
-Buedingiisphaeridium vanoyei (Stockmans & Willière, 1974) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Buedingiisphaeridium vanoyei (Stockmans & Willière, 1974) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

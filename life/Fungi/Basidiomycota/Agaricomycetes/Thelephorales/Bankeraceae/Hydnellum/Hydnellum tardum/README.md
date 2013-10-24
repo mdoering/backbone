@@ -1,5 +1,4 @@
-Hydnellum tardum Maas Geest., 1975 SPECIES
-=======
+# Hydnellum tardum Maas Geest., 1975 SPECIES
 
 #### Status
 ACCEPTED

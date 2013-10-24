@@ -1,5 +1,4 @@
-Asterostromella alboviridiflava Rick SPECIES
-=======
+# Asterostromella alboviridiflava Rick SPECIES
 
 #### Status
 ACCEPTED

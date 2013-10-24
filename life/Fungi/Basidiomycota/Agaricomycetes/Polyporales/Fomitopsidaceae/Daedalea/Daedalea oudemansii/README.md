@@ -1,5 +1,4 @@
-Daedalea oudemansii var. oudemansii Fr. VARIETY
-=======
+# Daedalea oudemansii Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-in Oudemans, Hymenomyc. eur. (Upsaliae) 688 (1874)
+Hymenomyc. eur. (Upsaliae) 688 (1874)
 
 #### Original name
-Daedalea oudemansii var. oudemansii Fr.
+Daedalea oudemansii Fr.
 
 ### Remarks
 null

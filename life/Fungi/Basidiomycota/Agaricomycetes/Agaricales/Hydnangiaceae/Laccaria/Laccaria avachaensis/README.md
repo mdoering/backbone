@@ -1,5 +1,4 @@
-Laccaria avachaensis Kalamees SPECIES
-=======
+# Laccaria avachaensis Kalamees SPECIES
 
 #### Status
 ACCEPTED

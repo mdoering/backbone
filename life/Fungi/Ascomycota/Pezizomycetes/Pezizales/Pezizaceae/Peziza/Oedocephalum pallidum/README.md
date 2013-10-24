@@ -1,5 +1,4 @@
-Oedocephalum pallidum (Berk. & Broome) Costantin ex Thaxt., 1891 SPECIES
-=======
+# Oedocephalum pallidum (Berk. & Broome) Costantin ex Thaxt., 1891 SPECIES
 
 #### Status
 ACCEPTED

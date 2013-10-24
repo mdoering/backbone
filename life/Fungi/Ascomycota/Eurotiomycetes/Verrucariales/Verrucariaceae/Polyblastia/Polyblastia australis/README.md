@@ -1,5 +1,4 @@
-Polyblastia australis P. M. McCarthy SPECIES
-=======
+# Polyblastia australis P. M. McCarthy SPECIES
 
 #### Status
 ACCEPTED

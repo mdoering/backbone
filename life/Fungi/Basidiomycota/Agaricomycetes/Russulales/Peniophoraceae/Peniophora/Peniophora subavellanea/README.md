@@ -1,5 +1,4 @@
-Peniophora subavellanea Henn. SPECIES
-=======
+# Peniophora subavellanea Henn. SPECIES
 
 #### Status
 ACCEPTED

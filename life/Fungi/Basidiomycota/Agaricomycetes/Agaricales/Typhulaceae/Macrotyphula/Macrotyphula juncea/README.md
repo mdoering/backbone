@@ -1,17 +1,16 @@
-Himantia lateritia Pers., 1801 SPECIES
-=======
+# Macrotyphula juncea (Alb. & Schwein.) Berthier, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. mens. Soc. linn. Lyon 43(6): 186 (1974)
 
 #### Original name
-null
+Clavaria triuncialis Alb. & Schwein.
 
 ### Remarks
 null

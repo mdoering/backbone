@@ -1,11 +1,10 @@
-Rhizocarpon geographicum var. ridescens (Nyl.) Erichsen VARIETY
-=======
+# Rhizocarpon ridescens (Nyl.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

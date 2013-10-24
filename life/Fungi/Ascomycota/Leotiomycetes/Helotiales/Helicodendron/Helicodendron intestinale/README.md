@@ -1,5 +1,4 @@
-Helicodendron intestinale Abdullah, 1979 SPECIES
-=======
+# Helicodendron intestinale Abdullah, 1979 SPECIES
 
 #### Status
 ACCEPTED

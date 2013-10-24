@@ -1,5 +1,4 @@
-Mycena melanotoma Berk. & Broome SPECIES
-=======
+# Mycena melanotoma Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collemopsidium pyrenuloides C.W. Dodge & E.D. Rudolph SPECIES
-=======
+# Collemopsidium pyrenuloides C.W. Dodge & E.D. Rudolph SPECIES
 
 #### Status
 ACCEPTED

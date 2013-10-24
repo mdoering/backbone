@@ -1,5 +1,4 @@
-Dyctiphora GENUS
-=======
+# Dyctiphora GENUS
 
 #### Status
 ACCEPTED

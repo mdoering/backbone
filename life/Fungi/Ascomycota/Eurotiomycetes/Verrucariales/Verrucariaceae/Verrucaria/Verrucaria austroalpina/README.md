@@ -1,5 +1,4 @@
-Verrucaria austroalpina P. M. McCarthy SPECIES
-=======
+# Verrucaria austroalpina P. M. McCarthy SPECIES
 
 #### Status
 ACCEPTED

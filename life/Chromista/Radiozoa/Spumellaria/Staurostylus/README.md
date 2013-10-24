@@ -1,5 +1,4 @@
-Staurostylus Haeckel, 1881 GENUS
-=======
+# Staurostylus Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

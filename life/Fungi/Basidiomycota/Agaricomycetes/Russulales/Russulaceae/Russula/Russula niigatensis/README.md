@@ -1,5 +1,4 @@
-Russula niigatensis Hongo SPECIES
-=======
+# Russula niigatensis Hongo SPECIES
 
 #### Status
 ACCEPTED

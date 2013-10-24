@@ -1,5 +1,4 @@
-Hysterangium lobatum G. Cunn. SPECIES
-=======
+# Hysterangium lobatum G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

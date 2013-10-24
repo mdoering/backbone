@@ -1,5 +1,4 @@
-Mycosphaerella bambusina (Syd. {?} & E.J. Butler) Tomilin SPECIES
-=======
+# Mycosphaerella bambusina (Syd. {?} & E.J. Butler) Tomilin SPECIES
 
 #### Status
 ACCEPTED

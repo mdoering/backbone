@@ -1,5 +1,4 @@
-Chaetomium angusti-ellipsoideum G. Malhotra & Mukerji SPECIES
-=======
+# Chaetomium angusti-ellipsoideum G. Malhotra & Mukerji SPECIES
 
 #### Status
 ACCEPTED

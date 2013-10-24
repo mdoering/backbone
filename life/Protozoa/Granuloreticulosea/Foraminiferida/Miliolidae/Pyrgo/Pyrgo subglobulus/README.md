@@ -1,5 +1,4 @@
-Pyrgo subglobulus Parr SPECIES
-=======
+# Pyrgo subglobulus Parr SPECIES
 
 #### Status
 ACCEPTED

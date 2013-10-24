@@ -1,5 +1,4 @@
-Pleomassaria muriformis Kirschst. SPECIES
-=======
+# Pleomassaria muriformis Kirschst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amanita maculans (Murrill) Murrill SPECIES
-=======
+# Amanita maculans (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

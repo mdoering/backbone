@@ -1,5 +1,4 @@
-Hydnellum fraudulentum Maas Geest., 1971 SPECIES
-=======
+# Hydnellum fraudulentum Maas Geest., 1971 SPECIES
 
 #### Status
 DOUBTFUL

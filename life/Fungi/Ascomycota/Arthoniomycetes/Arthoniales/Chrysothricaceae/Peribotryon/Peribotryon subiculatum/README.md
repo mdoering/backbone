@@ -1,5 +1,4 @@
-Peribotryon subiculatum Fr. SPECIES
-=======
+# Peribotryon subiculatum Fr. SPECIES
 
 #### Status
 ACCEPTED

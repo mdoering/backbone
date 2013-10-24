@@ -1,5 +1,4 @@
-Sclerotium aschersonioides Speg. SPECIES
-=======
+# Sclerotium aschersonioides Speg. SPECIES
 
 #### Status
 ACCEPTED

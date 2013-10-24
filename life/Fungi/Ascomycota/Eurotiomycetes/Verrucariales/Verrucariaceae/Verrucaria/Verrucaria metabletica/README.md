@@ -1,5 +1,4 @@
-Verrucaria metabletica C. Knight SPECIES
-=======
+# Verrucaria metabletica C. Knight SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rinodina intricata H. Magn. SPECIES
-=======
+# Rinodina intricata H. Magn. SPECIES
 
 #### Status
 ACCEPTED

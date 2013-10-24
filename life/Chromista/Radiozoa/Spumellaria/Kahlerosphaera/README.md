@@ -1,5 +1,4 @@
-Kahlerosphaera Kozur & Mostler, 1980 GENUS
-=======
+# Kahlerosphaera Kozur & Mostler, 1980 GENUS
 
 #### Status
 ACCEPTED

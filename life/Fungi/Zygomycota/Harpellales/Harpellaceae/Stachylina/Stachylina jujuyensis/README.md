@@ -1,5 +1,4 @@
-Stachylina jujuyensis M.G. Mazzucch., López-Lastra & Lichtw., 2000 SPECIES
-=======
+# Stachylina jujuyensis M.G. Mazzucch., López-Lastra & Lichtw., 2000 SPECIES
 
 #### Status
 ACCEPTED

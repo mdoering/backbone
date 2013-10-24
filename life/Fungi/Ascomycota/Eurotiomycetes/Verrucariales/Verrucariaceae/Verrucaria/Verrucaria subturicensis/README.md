@@ -1,5 +1,4 @@
-Verrucaria subturicensis Zahlbr. SPECIES
-=======
+# Verrucaria subturicensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

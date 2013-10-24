@@ -1,8 +1,7 @@
-Lithothelium paraguaense Müll. Arg. SPECIES
-=======
+# Lithothelium paraguayense Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lithothelium paraguaense Müll. Arg.
+Lithothelium paraguayense Müll. Arg.
 
 ### Remarks
 null

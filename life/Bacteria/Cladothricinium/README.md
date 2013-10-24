@@ -1,5 +1,4 @@
-Cladothricinium M.D. Zalessky, 1915 GENUS
-=======
+# Cladothricinium M.D. Zalessky, 1915 GENUS
 
 #### Status
 ACCEPTED

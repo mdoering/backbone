@@ -1,5 +1,4 @@
-Pleospora matthiolae Fuckel SPECIES
-=======
+# Pleospora matthiolae Fuckel SPECIES
 
 #### Status
 ACCEPTED

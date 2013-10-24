@@ -1,5 +1,4 @@
-Amanita luteovergens Coccia & Migl. SPECIES
-=======
+# Amanita luteovergens Coccia & Migl. SPECIES
 
 #### Status
 ACCEPTED

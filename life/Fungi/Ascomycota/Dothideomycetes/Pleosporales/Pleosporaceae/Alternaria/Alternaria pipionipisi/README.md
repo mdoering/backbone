@@ -1,5 +1,4 @@
-Alternaria pipionipisi E.G. Simmons SPECIES
-=======
+# Alternaria pipionipisi E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

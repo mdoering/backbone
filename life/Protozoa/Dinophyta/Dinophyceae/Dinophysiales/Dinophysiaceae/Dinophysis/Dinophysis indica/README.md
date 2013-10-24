@@ -1,5 +1,4 @@
-Dinophysis indica V. Srinivasan SPECIES
-=======
+# Dinophysis indica V. Srinivasan SPECIES
 
 #### Status
 ACCEPTED

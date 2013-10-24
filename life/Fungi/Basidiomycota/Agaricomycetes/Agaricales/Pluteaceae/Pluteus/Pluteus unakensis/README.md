@@ -1,5 +1,4 @@
-Pluteus unakensis Murrill SPECIES
-=======
+# Pluteus unakensis Murrill SPECIES
 
 #### Status
 ACCEPTED

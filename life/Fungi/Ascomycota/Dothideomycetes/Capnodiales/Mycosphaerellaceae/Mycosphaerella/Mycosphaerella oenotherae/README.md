@@ -1,5 +1,4 @@
-Mycosphaerella oenotherae (Ellis & Everh.) Lindau SPECIES
-=======
+# Mycosphaerella oenotherae (Ellis & Everh.) Lindau SPECIES
 
 #### Status
 ACCEPTED

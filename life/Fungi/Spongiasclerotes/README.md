@@ -1,5 +1,4 @@
-Spongiasclerotes Stach & Pickh. GENUS
-=======
+# Spongiasclerotes Stach & Pickh. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporisorium myosuroidis (Hirschh.) Vánky SPECIES
-=======
+# Sporisorium myosuroidis (Hirschh.) Vánky SPECIES
 
 #### Status
 ACCEPTED

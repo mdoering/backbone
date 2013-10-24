@@ -1,5 +1,4 @@
-Lepiota angustispora (Migl. & Bizzi) Hauskn. & Pidlich-Aigner SPECIES
-=======
+# Lepiota angustispora (Migl. & Bizzi) Hauskn. & Pidlich-Aigner SPECIES
 
 #### Status
 ACCEPTED

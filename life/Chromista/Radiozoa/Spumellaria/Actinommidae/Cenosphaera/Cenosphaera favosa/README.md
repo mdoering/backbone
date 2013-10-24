@@ -1,5 +1,4 @@
-Cenosphaera favosa Haeckel, 1887 SPECIES
-=======
+# Cenosphaera favosa Haeckel, 1887 SPECIES
 
 #### Status
 ACCEPTED

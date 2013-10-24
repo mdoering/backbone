@@ -1,5 +1,4 @@
-Papulaspora acinosa (Berk. & M.A. Curtis) S. Hughes SPECIES
-=======
+# Papulaspora acinosa (Berk. & M.A. Curtis) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

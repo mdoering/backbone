@@ -1,5 +1,4 @@
-Thrauste Theiss. GENUS
-=======
+# Thrauste Theiss. GENUS
 
 #### Status
 ACCEPTED

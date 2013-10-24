@@ -1,5 +1,4 @@
-Tulostoma petrii Bres. SPECIES
-=======
+# Tulostoma petrii Bres. SPECIES
 
 #### Status
 ACCEPTED

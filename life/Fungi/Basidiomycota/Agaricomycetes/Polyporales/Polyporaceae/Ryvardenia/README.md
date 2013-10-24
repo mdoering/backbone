@@ -1,5 +1,4 @@
-Ryvardenia Rajchenb. GENUS
-=======
+# Ryvardenia Rajchenb. GENUS
 
 #### Status
 ACCEPTED

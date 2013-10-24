@@ -1,5 +1,4 @@
-Haplographium bicolor Grove, 1886 SPECIES
-=======
+# Haplographium bicolor Grove, 1886 SPECIES
 
 #### Status
 ACCEPTED

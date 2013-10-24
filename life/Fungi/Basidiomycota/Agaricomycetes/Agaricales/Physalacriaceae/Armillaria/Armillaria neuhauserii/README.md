@@ -1,5 +1,4 @@
-Armillaria neuhauserii R. Schulz SPECIES
-=======
+# Armillaria neuhauserii R. Schulz SPECIES
 
 #### Status
 ACCEPTED

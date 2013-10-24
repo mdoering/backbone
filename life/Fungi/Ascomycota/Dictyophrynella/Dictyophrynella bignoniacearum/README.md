@@ -1,5 +1,4 @@
-Dictyophrynella bignoniacearum Bat. & Cavalc., 1964 SPECIES
-=======
+# Dictyophrynella bignoniacearum Bat. & Cavalc., 1964 SPECIES
 
 #### Status
 ACCEPTED

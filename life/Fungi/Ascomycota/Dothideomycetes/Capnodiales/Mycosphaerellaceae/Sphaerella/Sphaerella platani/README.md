@@ -1,5 +1,4 @@
-Sphaerella platani Ellis & G. Martin SPECIES
-=======
+# Sphaerella platani Ellis & G. Martin SPECIES
 
 #### Status
 ACCEPTED

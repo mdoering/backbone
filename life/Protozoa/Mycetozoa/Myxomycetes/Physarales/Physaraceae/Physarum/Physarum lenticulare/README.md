@@ -1,5 +1,4 @@
-Physarum lenticulare Nann.-Bremek. & Y. Yamam., 1987 SPECIES
-=======
+# Physarum lenticulare Nann.-Bremek. & Y. Yamam., 1987 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bullaria baccharidis-multiflorae (Dietel & Holw.) Arthur & Mains SPECIES
-=======
+# Bullaria baccharidis-multiflorae (Dietel & Holw.) Arthur & Mains SPECIES
 
 #### Status
 ACCEPTED

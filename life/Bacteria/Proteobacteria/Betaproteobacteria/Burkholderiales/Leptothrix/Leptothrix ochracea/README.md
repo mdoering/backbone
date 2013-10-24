@@ -1,5 +1,4 @@
-Leptothrix ochracea (Roth, 1797) Kützing, 1843 (Approved Lists, 1980) SPECIES
-=======
+# Leptothrix ochracea (Roth, 1797) Kützing, 1843 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

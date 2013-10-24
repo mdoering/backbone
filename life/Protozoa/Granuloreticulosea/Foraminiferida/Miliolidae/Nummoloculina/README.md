@@ -1,5 +1,4 @@
-Nummoloculina Steinmann, 1881 GENUS
-=======
+# Nummoloculina Steinmann, 1881 GENUS
 
 #### Status
 ACCEPTED

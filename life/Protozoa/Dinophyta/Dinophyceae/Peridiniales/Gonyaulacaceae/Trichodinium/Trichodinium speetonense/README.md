@@ -1,5 +1,4 @@
-Trichodinium speetonense R. J. Davey SPECIES
-=======
+# Trichodinium speetonense R. J. Davey SPECIES
 
 #### Status
 ACCEPTED

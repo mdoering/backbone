@@ -1,5 +1,4 @@
-Agaricus pezizula Berk. & Broome SPECIES
-=======
+# Agaricus pezizula Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

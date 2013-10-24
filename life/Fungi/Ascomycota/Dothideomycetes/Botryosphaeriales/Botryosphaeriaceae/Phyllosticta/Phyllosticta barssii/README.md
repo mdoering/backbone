@@ -1,5 +1,4 @@
-Phyllosticta barssii R. Sprague SPECIES
-=======
+# Phyllosticta barssii R. Sprague SPECIES
 
 #### Status
 ACCEPTED

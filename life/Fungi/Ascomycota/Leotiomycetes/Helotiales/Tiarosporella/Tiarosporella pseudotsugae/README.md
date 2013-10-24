@@ -1,5 +1,4 @@
-Tiarosporella pseudotsugae H.S. Whitney, J. Reid & Piroz. SPECIES
-=======
+# Tiarosporella pseudotsugae H.S. Whitney, J. Reid & Piroz. SPECIES
 
 #### Status
 ACCEPTED

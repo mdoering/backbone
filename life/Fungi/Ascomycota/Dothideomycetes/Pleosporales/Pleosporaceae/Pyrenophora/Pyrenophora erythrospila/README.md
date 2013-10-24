@@ -1,17 +1,16 @@
-Helminthosporium erythrospilum Drechsler, 1935 SPECIES
-=======
+# Pyrenophora erythrospila A.R. Paul, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Phytopathology 25: 360 (1935)
+Trans. Br. mycol. Soc. 59(1): 99 (1972)
 
 #### Original name
-Helminthosporium erythrospilum Drechsler, 1935
+Pyrenophora erythrospila A.R. Paul, 1972
 
 ### Remarks
 null

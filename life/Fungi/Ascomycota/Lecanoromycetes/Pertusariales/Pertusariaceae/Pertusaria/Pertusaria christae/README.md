@@ -1,5 +1,4 @@
-Pertusaria christae Dibben & Poelt SPECIES
-=======
+# Pertusaria christae Dibben & Poelt SPECIES
 
 #### Status
 ACCEPTED

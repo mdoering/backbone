@@ -1,5 +1,4 @@
-Rhizocarpon capense Zahlbr. SPECIES
-=======
+# Rhizocarpon capense Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

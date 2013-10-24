@@ -1,5 +1,4 @@
-Macrosporium phaseoli Fautrey SPECIES
-=======
+# Macrosporium phaseoli Fautrey SPECIES
 
 #### Status
 ACCEPTED

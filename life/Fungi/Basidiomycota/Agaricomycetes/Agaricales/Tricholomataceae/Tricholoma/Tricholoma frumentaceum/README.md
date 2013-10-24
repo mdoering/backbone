@@ -1,5 +1,4 @@
-Tricholoma frumentaceum (Bull.) Sacc. SPECIES
-=======
+# Tricholoma frumentaceum (Bull.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

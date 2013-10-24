@@ -1,5 +1,4 @@
-Uromyces anthemophilus Vestergr. SPECIES
-=======
+# Uromyces anthemophilus Vestergr. SPECIES
 
 #### Status
 ACCEPTED

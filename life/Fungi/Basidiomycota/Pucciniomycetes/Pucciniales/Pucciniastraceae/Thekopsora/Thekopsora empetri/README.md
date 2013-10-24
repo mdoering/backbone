@@ -1,5 +1,4 @@
-Thekopsora empetri P. Karst. SPECIES
-=======
+# Thekopsora empetri P. Karst. SPECIES
 
 #### Status
 ACCEPTED

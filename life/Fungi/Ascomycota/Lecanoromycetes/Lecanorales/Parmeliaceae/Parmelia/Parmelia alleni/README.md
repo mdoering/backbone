@@ -1,5 +1,4 @@
-Parmelia alleni C.W. Dodge SPECIES
-=======
+# Parmelia alleni C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

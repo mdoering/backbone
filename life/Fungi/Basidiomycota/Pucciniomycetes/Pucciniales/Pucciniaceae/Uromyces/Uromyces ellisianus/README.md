@@ -1,5 +1,4 @@
-Uromyces ellisianus Henn. SPECIES
-=======
+# Uromyces ellisianus Henn. SPECIES
 
 #### Status
 ACCEPTED

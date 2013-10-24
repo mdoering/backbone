@@ -1,5 +1,4 @@
-Catillaria praepallida (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Catillaria praepallida (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cucurbitaria setosa Ellis & Everh., 1890 SPECIES
-=======
+# Cucurbitaria setosa Ellis & Everh., 1890 SPECIES
 
 #### Status
 ACCEPTED

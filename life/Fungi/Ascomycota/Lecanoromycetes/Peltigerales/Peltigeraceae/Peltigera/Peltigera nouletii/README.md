@@ -1,5 +1,4 @@
-Peltigera nouletii SPECIES
-=======
+# Peltigera nouletii SPECIES
 
 #### Status
 ACCEPTED

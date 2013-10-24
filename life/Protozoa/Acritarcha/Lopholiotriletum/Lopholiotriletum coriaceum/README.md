@@ -1,5 +1,4 @@
-Lopholiotriletum coriaceum Timofeev, 1959 SPECIES
-=======
+# Lopholiotriletum coriaceum Timofeev, 1959 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helotium conocarpi Seaver & Waterston SPECIES
-=======
+# Helotium conocarpi Seaver & Waterston SPECIES
 
 #### Status
 ACCEPTED

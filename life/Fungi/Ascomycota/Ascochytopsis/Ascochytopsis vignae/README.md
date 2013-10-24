@@ -1,5 +1,4 @@
-Ascochytopsis vignae Henn., 1905 SPECIES
-=======
+# Ascochytopsis vignae Henn., 1905 SPECIES
 
 #### Status
 ACCEPTED

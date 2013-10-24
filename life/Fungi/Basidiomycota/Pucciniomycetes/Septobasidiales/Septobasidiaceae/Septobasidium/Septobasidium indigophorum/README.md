@@ -1,5 +1,4 @@
-Septobasidium indigophorum Couch SPECIES
-=======
+# Septobasidium indigophorum Couch SPECIES
 
 #### Status
 ACCEPTED

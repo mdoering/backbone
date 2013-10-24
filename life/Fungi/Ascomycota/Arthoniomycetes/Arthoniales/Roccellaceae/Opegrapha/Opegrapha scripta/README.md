@@ -1,5 +1,4 @@
-Opegrapha scripta var. scripta VARIETY
-=======
+# Opegrapha scripta Mont. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Opegrapha scripta var. scripta
+Opegrapha scripta Mont.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Flavopunctelia borrerioides Kurok. SPECIES
-=======
+# Flavopunctelia borrerioides Kurok. SPECIES
 
 #### Status
 ACCEPTED

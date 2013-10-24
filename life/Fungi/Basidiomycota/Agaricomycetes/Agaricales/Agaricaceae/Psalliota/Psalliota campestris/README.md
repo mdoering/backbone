@@ -1,5 +1,4 @@
-Psalliota campestris f. campestris FORM
-=======
+# Psalliota campestris SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Mém. Soc. Émul. Montbéliard, Sér. 2 5: 140 (1872)
+null
 
 #### Original name
-Psalliota campestris f. campestris
+null
 
 ### Remarks
 null

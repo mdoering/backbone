@@ -1,5 +1,4 @@
-Stenotrophomonas koreensis Yang et al., 2006 SPECIES
-=======
+# Stenotrophomonas koreensis Yang et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

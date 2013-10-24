@@ -1,5 +1,4 @@
-Godronia multispora J.W. Groves SPECIES
-=======
+# Godronia multispora J.W. Groves SPECIES
 
 #### Status
 ACCEPTED

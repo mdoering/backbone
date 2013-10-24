@@ -1,5 +1,4 @@
-Cyathus subglobisporus R.L. Zhao, Desjardin & K.D. Hyde SPECIES
-=======
+# Cyathus subglobisporus R.L. Zhao, Desjardin & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

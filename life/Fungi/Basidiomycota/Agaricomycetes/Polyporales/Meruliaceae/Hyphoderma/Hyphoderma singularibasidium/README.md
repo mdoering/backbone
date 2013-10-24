@@ -1,5 +1,4 @@
-Hyphoderma singularibasidium Dhingra, Avneet Singh & Singla SPECIES
-=======
+# Hyphoderma singularibasidium Dhingra, Avneet Singh & Singla SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mucor articulatus Bull. SPECIES
-=======
+# Mucor articulatus Bull. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lasiosphaeria triseptata Shoemaker & G.P. White SPECIES
-=======
+# Lasiosphaeria triseptata Shoemaker & G.P. White SPECIES
 
 #### Status
 ACCEPTED

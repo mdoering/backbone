@@ -1,5 +1,4 @@
-Caloplaca vulnerata (Hue) Zahlbr. SPECIES
-=======
+# Caloplaca vulnerata (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

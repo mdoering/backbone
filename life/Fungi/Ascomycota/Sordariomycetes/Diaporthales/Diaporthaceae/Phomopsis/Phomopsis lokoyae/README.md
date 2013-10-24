@@ -1,5 +1,4 @@
-Phomopsis lokoyae G.G. Hahn SPECIES
-=======
+# Phomopsis lokoyae G.G. Hahn SPECIES
 
 #### Status
 ACCEPTED

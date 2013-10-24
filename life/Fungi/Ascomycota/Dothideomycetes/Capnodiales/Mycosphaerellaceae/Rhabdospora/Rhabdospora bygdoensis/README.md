@@ -1,5 +1,4 @@
-Rhabdospora bygdoensis Henn. SPECIES
-=======
+# Rhabdospora bygdoensis Henn. SPECIES
 
 #### Status
 ACCEPTED

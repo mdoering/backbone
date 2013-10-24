@@ -1,5 +1,4 @@
-Gyrodinium varians (Wulft) Schiller SPECIES
-=======
+# Gyrodinium varians (Wulft) Schiller SPECIES
 
 #### Status
 ACCEPTED

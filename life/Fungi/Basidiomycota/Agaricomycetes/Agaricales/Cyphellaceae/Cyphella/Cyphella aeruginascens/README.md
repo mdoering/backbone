@@ -1,5 +1,4 @@
-Cyphella aeruginascens P. Karst. SPECIES
-=======
+# Cyphella aeruginascens P. Karst. SPECIES
 
 #### Status
 ACCEPTED

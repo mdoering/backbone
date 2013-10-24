@@ -1,5 +1,4 @@
-Schizothyrium snowdenii Hansf. SPECIES
-=======
+# Schizothyrium snowdenii Hansf. SPECIES
 
 #### Status
 ACCEPTED

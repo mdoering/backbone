@@ -1,5 +1,4 @@
-Sigmoilina Sclumberger, 1887 GENUS
-=======
+# Sigmoilina Sclumberger, 1887 GENUS
 
 #### Status
 ACCEPTED

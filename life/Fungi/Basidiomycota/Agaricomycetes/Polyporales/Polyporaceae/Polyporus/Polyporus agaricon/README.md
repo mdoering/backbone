@@ -1,5 +1,4 @@
-Polyporus agaricon Zoll. SPECIES
-=======
+# Polyporus agaricon Zoll. SPECIES
 
 #### Status
 ACCEPTED

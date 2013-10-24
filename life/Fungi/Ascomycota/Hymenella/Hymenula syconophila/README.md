@@ -1,5 +1,4 @@
-Hymenula syconophila Schulzer & Sacc. SPECIES
-=======
+# Hymenula syconophila Schulzer & Sacc. SPECIES
 
 #### Status
 ACCEPTED

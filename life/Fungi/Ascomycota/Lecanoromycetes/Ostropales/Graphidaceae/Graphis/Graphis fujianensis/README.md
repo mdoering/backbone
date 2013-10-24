@@ -1,5 +1,4 @@
-Graphis fujianensis Z.F. Jia & J.C. Wei SPECIES
-=======
+# Graphis fujianensis Z.F. Jia & J.C. Wei SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rucinolithus irregularis Thierstein in Roth & Thierstein, 1972 SPECIES
-=======
+# Rucinolithus irregularis Thierstein in Roth & Thierstein, 1972 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,11 +1,10 @@
-Sporovibrio desulfuricans (Beijerinck) Starkey, 1938 SPECIES
-=======
+# Desulfotomaculum nigrificans (Werkman and Weaver, 1927) Campbell and Postgate, 1965 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

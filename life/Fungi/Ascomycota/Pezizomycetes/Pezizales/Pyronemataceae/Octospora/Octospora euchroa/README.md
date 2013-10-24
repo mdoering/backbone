@@ -1,5 +1,4 @@
-Octospora euchroa (P. Karst.) Berthet SPECIES
-=======
+# Octospora euchroa (P. Karst.) Berthet SPECIES
 
 #### Status
 ACCEPTED

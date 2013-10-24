@@ -1,5 +1,4 @@
-Phlegmacium leochroum (Jul. Schäff.) M.M. Moser SPECIES
-=======
+# Phlegmacium leochroum (Jul. Schäff.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

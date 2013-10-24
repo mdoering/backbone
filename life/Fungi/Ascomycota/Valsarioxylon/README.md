@@ -1,5 +1,4 @@
-Valsarioxylon Höhn. GENUS
-=======
+# Valsarioxylon Höhn. GENUS
 
 #### Status
 ACCEPTED

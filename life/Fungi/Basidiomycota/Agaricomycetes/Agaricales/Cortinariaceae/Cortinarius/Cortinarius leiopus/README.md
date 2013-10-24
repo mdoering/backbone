@@ -1,5 +1,4 @@
-Cortinarius leiopus Rob. Henry SPECIES
-=======
+# Cortinarius leiopus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

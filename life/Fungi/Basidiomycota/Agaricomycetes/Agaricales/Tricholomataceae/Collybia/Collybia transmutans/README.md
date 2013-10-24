@@ -1,5 +1,4 @@
-Collybia transmutans Overh. SPECIES
-=======
+# Collybia transmutans Overh. SPECIES
 
 #### Status
 ACCEPTED

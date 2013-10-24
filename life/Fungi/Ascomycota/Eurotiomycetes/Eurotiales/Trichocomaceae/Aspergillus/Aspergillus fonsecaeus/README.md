@@ -1,5 +1,4 @@
-Aspergillus fonsecaeus Thom & Raper SPECIES
-=======
+# Aspergillus fonsecaeus Thom & Raper SPECIES
 
 #### Status
 ACCEPTED

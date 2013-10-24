@@ -1,5 +1,4 @@
-Bryoria cornicularioides (P.M. Jørg.) Brodo & D. Hawksw. SPECIES
-=======
+# Bryoria cornicularioides (P.M. Jørg.) Brodo & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

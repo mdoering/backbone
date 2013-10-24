@@ -1,5 +1,4 @@
-Melampsora cynanchi Thüm. SPECIES
-=======
+# Melampsora cynanchi Thüm. SPECIES
 
 #### Status
 ACCEPTED

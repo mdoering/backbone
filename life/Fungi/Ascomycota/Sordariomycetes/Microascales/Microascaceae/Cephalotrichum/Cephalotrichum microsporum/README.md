@@ -1,5 +1,4 @@
-Cephalotrichum microsporum (Sacc.) P.M. Kirk, 1984 SPECIES
-=======
+# Cephalotrichum microsporum (Sacc.) P.M. Kirk, 1984 SPECIES
 
 #### Status
 ACCEPTED

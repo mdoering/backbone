@@ -1,5 +1,4 @@
-Ceriomyces griseoroseus Murrill SPECIES
-=======
+# Ceriomyces griseoroseus Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces ingicola Henn. SPECIES
-=======
+# Uromyces ingicola Henn. SPECIES
 
 #### Status
 ACCEPTED

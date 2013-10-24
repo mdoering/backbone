@@ -1,5 +1,4 @@
-Asteridiella poracensis Petr. SPECIES
-=======
+# Asteridiella poracensis Petr. SPECIES
 
 #### Status
 ACCEPTED

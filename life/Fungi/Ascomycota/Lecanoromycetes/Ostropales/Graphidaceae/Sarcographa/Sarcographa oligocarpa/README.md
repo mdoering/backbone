@@ -1,5 +1,4 @@
-Sarcographa oligocarpa Fée SPECIES
-=======
+# Sarcographa oligocarpa Fée SPECIES
 
 #### Status
 ACCEPTED

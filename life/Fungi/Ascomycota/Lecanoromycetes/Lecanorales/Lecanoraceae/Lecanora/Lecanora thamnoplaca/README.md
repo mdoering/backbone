@@ -1,5 +1,4 @@
-Lecanora thamnoplaca Tuck. SPECIES
-=======
+# Lecanora thamnoplaca Tuck. SPECIES
 
 #### Status
 ACCEPTED

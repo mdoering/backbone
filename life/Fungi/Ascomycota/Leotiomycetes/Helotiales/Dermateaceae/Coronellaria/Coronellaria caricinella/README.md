@@ -1,5 +1,4 @@
-Coronellaria caricinella (P. Karst.) P. Karst. SPECIES
-=======
+# Coronellaria caricinella (P. Karst.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

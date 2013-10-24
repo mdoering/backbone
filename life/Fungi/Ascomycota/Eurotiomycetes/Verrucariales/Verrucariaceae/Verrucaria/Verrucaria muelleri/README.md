@@ -1,5 +1,4 @@
-Verrucaria muelleri (Servít) Breuss SPECIES
-=======
+# Verrucaria muelleri (Servít) Breuss SPECIES
 
 #### Status
 ACCEPTED

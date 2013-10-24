@@ -1,8 +1,7 @@
-Strombidinopsis minima (Gruber, 1884) Lynn, Montagnes & Dale, 1991 SPECIES
-=======
+# Parastrombidinopsis minima Tsai, Xu, Chung & Chiang, 2008 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

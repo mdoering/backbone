@@ -1,5 +1,4 @@
-Stichomyces Thaxt. GENUS
-=======
+# Stichomyces Thaxt. GENUS
 
 #### Status
 ACCEPTED

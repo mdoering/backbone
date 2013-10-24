@@ -1,5 +1,4 @@
-Marssoniella rhabdospora (Ellis & Everh.) M. Morelet SPECIES
-=======
+# Marssoniella rhabdospora (Ellis & Everh.) M. Morelet SPECIES
 
 #### Status
 ACCEPTED

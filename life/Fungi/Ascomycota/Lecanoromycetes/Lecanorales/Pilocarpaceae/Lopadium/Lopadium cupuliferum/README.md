@@ -1,5 +1,4 @@
-Lopadium cupuliferum (Nyl.) Zahlbr. SPECIES
-=======
+# Lopadium cupuliferum (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

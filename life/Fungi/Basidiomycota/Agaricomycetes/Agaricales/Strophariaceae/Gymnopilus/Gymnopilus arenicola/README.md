@@ -1,5 +1,4 @@
-Gymnopilus arenicola Hesler SPECIES
-=======
+# Gymnopilus arenicola Hesler SPECIES
 
 #### Status
 ACCEPTED

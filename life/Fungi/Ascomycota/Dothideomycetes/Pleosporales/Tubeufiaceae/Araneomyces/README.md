@@ -1,5 +1,4 @@
-Araneomyces Höhn. GENUS
-=======
+# Araneomyces Höhn. GENUS
 
 #### Status
 ACCEPTED

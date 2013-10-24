@@ -1,5 +1,4 @@
-Psathyra subnuda P. Karst. SPECIES
-=======
+# Psathyra subnuda P. Karst. SPECIES
 
 #### Status
 ACCEPTED

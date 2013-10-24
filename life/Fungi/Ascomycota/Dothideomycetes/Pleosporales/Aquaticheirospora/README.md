@@ -1,5 +1,4 @@
-Aquaticheirospora Kodsueb & W.H. Ho GENUS
-=======
+# Aquaticheirospora Kodsueb & W.H. Ho GENUS
 
 #### Status
 ACCEPTED

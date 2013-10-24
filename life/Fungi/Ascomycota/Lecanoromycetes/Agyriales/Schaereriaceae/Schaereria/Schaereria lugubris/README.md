@@ -1,5 +1,4 @@
-Schaereria lugubris (Fr.) Körb. SPECIES
-=======
+# Schaereria lugubris (Fr.) Körb. SPECIES
 
 #### Status
 ACCEPTED

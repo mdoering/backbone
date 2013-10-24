@@ -1,5 +1,4 @@
-Didymella elliptica Starbäck SPECIES
-=======
+# Didymella elliptica Starbäck SPECIES
 
 #### Status
 ACCEPTED

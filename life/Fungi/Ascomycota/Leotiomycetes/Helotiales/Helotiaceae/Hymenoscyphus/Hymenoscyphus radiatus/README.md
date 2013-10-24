@@ -1,5 +1,4 @@
-Hymenoscyphus radiatus Gray SPECIES
-=======
+# Hymenoscyphus radiatus Gray SPECIES
 
 #### Status
 ACCEPTED

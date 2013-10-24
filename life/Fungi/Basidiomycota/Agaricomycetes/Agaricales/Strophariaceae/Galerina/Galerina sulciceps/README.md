@@ -1,5 +1,4 @@
-Galerina sulciceps (Berk.) Singer SPECIES
-=======
+# Galerina sulciceps (Berk.) Singer SPECIES
 
 #### Status
 ACCEPTED

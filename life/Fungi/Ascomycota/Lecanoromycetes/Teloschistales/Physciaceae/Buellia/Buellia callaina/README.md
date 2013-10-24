@@ -1,5 +1,4 @@
-Buellia callaina (Stizenb.) Zahlbr. SPECIES
-=======
+# Buellia callaina (Stizenb.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

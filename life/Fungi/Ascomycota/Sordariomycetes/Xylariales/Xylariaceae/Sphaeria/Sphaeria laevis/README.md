@@ -1,5 +1,4 @@
-Sphaeria laevis Sowerby SPECIES
-=======
+# Sphaeria laevis Sowerby SPECIES
 
 #### Status
 ACCEPTED

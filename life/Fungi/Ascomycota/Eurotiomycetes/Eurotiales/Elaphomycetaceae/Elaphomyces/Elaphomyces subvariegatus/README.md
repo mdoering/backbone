@@ -1,5 +1,4 @@
-Elaphomyces subvariegatus S. Imai SPECIES
-=======
+# Elaphomyces subvariegatus S. Imai SPECIES
 
 #### Status
 ACCEPTED

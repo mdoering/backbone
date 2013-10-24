@@ -1,5 +1,4 @@
-Lepocinclis fusca (Klebs) Kosmala & Zakrys, 2005 SPECIES
-=======
+# Lepocinclis fusca (Klebs) Kosmala & Zakrys, 2005 SPECIES
 
 #### Status
 ACCEPTED

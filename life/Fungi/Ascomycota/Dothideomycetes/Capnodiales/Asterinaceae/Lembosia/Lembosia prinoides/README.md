@@ -1,5 +1,4 @@
-Lembosia prinoides Tracy & Earle SPECIES
-=======
+# Lembosia prinoides Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

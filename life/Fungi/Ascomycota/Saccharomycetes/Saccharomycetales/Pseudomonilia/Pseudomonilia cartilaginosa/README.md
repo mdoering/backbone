@@ -1,5 +1,4 @@
-Pseudomonilia cartilaginosa A. Geiger SPECIES
-=======
+# Pseudomonilia cartilaginosa A. Geiger SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizophlyctis hyalina (Karling) Sparrow SPECIES
-=======
+# Rhizophlyctis hyalina (Karling) Sparrow SPECIES
 
 #### Status
 ACCEPTED

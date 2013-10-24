@@ -1,5 +1,4 @@
-Stereocaulon furfuraceum P.A. Duvign. SPECIES
-=======
+# Stereocaulon furfuraceum P.A. Duvign. SPECIES
 
 #### Status
 ACCEPTED

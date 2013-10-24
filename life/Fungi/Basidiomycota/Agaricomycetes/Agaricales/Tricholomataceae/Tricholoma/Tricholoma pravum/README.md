@@ -1,5 +1,4 @@
-Tricholoma pravum (Lasch) Sacc. SPECIES
-=======
+# Tricholoma pravum (Lasch) Sacc. SPECIES
 
 #### Status
 ACCEPTED

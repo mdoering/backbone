@@ -1,5 +1,4 @@
-Ascochyta crystallina McAlpine SPECIES
-=======
+# Ascochyta crystallina McAlpine SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hebeloma foedatum Peck SPECIES
-=======
+# Hebeloma foedatum Peck SPECIES
 
 #### Status
 ACCEPTED

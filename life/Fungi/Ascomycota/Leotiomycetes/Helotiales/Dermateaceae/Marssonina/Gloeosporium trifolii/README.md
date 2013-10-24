@@ -1,5 +1,4 @@
-Gloeosporium trifolii Peck, 1883 SPECIES
-=======
+# Gloeosporium trifolii Peck, 1883 SPECIES
 
 #### Status
 ACCEPTED

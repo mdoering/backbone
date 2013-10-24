@@ -1,5 +1,4 @@
-Nectria voratella Döbbeler SPECIES
-=======
+# Nectria voratella Döbbeler SPECIES
 
 #### Status
 ACCEPTED

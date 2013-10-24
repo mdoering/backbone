@@ -1,5 +1,4 @@
-Trachysphaeridium attenuatum Timofeev, 1959 ex Timofeev, 1966 SPECIES
-=======
+# Trachysphaeridium attenuatum Timofeev, 1959 ex Timofeev, 1966 SPECIES
 
 #### Status
 ACCEPTED

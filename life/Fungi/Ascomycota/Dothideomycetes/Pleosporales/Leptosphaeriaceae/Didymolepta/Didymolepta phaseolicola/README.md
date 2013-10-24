@@ -1,5 +1,4 @@
-Didymolepta phaseolicola Höhn., 1918 SPECIES
-=======
+# Didymolepta phaseolicola Höhn., 1918 SPECIES
 
 #### Status
 ACCEPTED

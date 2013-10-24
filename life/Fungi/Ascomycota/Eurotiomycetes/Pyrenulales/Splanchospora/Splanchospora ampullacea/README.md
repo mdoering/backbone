@@ -1,17 +1,16 @@
-Massariella curreyi (Tul. & C. Tul.) Sacc. SPECIES
-=======
+# Splanchospora ampullacea (Pers.) Lar.N. Vassiljeva SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Syll. fung. (Abellini) 1: 717 (1882)
+Nizshie Rasteniya, Griby i Mokhoobraznye Dalnego Vostoka Rossii (Sankt-Peterburg), Griby. Tom <b>4</b>. Pirenomitsety i Lokuloaskomitsety 238 (1998)
 
 #### Original name
-Massaria curreyi Sacc.
+Sphaeria ampullacea Pers.
 
 ### Remarks
 null

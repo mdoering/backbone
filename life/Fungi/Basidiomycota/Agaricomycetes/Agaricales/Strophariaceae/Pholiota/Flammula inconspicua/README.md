@@ -1,5 +1,4 @@
-Flammula inconspicua E. Bommer & M. Rousseau SPECIES
-=======
+# Flammula inconspicua E. Bommer & M. Rousseau SPECIES
 
 #### Status
 ACCEPTED

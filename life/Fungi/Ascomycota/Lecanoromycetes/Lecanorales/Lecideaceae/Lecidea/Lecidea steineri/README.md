@@ -1,5 +1,4 @@
-Lecidea steineri Hertel SPECIES
-=======
+# Lecidea steineri Hertel SPECIES
 
 #### Status
 ACCEPTED

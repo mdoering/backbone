@@ -1,5 +1,4 @@
-Leveillula guttiferarum Golovin SPECIES
-=======
+# Leveillula guttiferarum Golovin SPECIES
 
 #### Status
 ACCEPTED

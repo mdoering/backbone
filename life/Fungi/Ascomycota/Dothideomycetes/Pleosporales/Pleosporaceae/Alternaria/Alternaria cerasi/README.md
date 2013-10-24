@@ -1,5 +1,4 @@
-Alternaria cerasi Potebnia SPECIES
-=======
+# Alternaria cerasi Potebnia SPECIES
 
 #### Status
 ACCEPTED

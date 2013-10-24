@@ -1,8 +1,7 @@
-Hyella fontana var. jurana (Chodat) Nadson VARIETY
-=======
+# Hyella jurana Chodat SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

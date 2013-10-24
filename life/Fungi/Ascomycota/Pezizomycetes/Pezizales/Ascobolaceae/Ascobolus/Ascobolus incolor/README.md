@@ -1,5 +1,4 @@
-Ascobolus incolor Quél. SPECIES
-=======
+# Ascobolus incolor Quél. SPECIES
 
 #### Status
 ACCEPTED

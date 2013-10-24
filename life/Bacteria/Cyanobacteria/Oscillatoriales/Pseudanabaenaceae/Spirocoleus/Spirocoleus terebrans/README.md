@@ -1,8 +1,7 @@
-Plectonema terebrans Bornet & Flahault SPECIES
-=======
+# Spirocoleus terebrans (Bornet & Flahault) P.Silva SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

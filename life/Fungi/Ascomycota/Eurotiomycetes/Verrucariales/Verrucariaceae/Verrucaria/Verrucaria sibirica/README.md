@@ -1,5 +1,4 @@
-Verrucaria sibirica Zahlbr. SPECIES
-=======
+# Verrucaria sibirica Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

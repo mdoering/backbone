@@ -1,5 +1,4 @@
-Staurothele epigaea Breuss & Etayo SPECIES
-=======
+# Staurothele epigaea Breuss & Etayo SPECIES
 
 #### Status
 ACCEPTED

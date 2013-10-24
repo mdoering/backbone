@@ -1,5 +1,4 @@
-Dothidella thalictri Lebedeva SPECIES
-=======
+# Dothidella thalictri Lebedeva SPECIES
 
 #### Status
 ACCEPTED

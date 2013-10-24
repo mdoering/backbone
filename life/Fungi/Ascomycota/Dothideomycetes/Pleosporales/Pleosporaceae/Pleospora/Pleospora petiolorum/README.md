@@ -1,5 +1,4 @@
-Pleospora petiolorum Fuckel SPECIES
-=======
+# Pleospora petiolorum Fuckel SPECIES
 
 #### Status
 ACCEPTED

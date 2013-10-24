@@ -1,11 +1,10 @@
-Bacillus xylinus (Brown, 1886) Trevisan, 1889 SPECIES
-=======
+# Bacillus GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

@@ -1,5 +1,4 @@
-Coryneum acaciae McAlpine SPECIES
-=======
+# Coryneum acaciae McAlpine SPECIES
 
 #### Status
 ACCEPTED

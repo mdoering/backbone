@@ -1,5 +1,4 @@
-Tylopilus plumbeoviolaceus (Snell & E.A. Dick) Snell & E.A. Dick SPECIES
-=======
+# Tylopilus plumbeoviolaceus (Snell & E.A. Dick) Snell & E.A. Dick SPECIES
 
 #### Status
 ACCEPTED

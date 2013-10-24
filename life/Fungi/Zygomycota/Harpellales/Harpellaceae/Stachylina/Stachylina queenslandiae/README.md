@@ -1,5 +1,4 @@
-Stachylina queenslandiae Lichtw., 1990 SPECIES
-=======
+# Stachylina queenslandiae Lichtw., 1990 SPECIES
 
 #### Status
 ACCEPTED

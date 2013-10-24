@@ -1,5 +1,4 @@
-Alysidiopsis yunnanensis Y.L. Guo & X.J. Liu, 1992 SPECIES
-=======
+# Alysidiopsis yunnanensis Y.L. Guo & X.J. Liu, 1992 SPECIES
 
 #### Status
 ACCEPTED

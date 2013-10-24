@@ -1,5 +1,4 @@
-Striainaperturites Y.K. Mathur GENUS
-=======
+# Striainaperturites Y.K. Mathur GENUS
 
 #### Status
 ACCEPTED

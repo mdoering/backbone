@@ -1,5 +1,4 @@
-Licea alexopouli M.Blackw., 1974 SPECIES
-=======
+# Licea alexopouli M.Blackw., 1974 SPECIES
 
 #### Status
 ACCEPTED

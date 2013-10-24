@@ -1,5 +1,4 @@
-Cytospora chamaecyparidis Sawada SPECIES
-=======
+# Cytospora chamaecyparidis Sawada SPECIES
 
 #### Status
 ACCEPTED

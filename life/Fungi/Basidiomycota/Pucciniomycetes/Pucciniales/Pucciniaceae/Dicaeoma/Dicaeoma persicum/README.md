@@ -1,5 +1,4 @@
-Dicaeoma persicum (Wettst.) Kuntze SPECIES
-=======
+# Dicaeoma persicum (Wettst.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

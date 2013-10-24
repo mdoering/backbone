@@ -1,8 +1,7 @@
-Merismopedia punctata f. arctica Kosinskaja FORM
-=======
+# Merismopedia arctica (Kosinskaja) Komárek & Anagnostidis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

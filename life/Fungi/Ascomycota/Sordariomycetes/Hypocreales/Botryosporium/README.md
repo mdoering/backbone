@@ -1,17 +1,16 @@
-Radaisiella Bainier, 1910 GENUS
-=======
+# Botryosporium Corda, 1831 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 26: 382 (1910)
+in Sturm, Deutschl. Fl. , 3 Abt. (Pilze Deutschl. ) 3(11): 9 (1831)
 
 #### Original name
-Radaisiella Bainier, 1910
+Botryosporium Corda, 1831
 
 ### Remarks
 null

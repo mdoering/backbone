@@ -1,5 +1,4 @@
-Saccharopolyspora thermophila Lu et al., 2001 SPECIES
-=======
+# Saccharopolyspora thermophila Lu et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

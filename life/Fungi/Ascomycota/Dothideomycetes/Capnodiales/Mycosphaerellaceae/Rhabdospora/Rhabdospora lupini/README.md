@@ -1,5 +1,4 @@
-Rhabdospora lupini N.F. Buchw., 1958 SPECIES
-=======
+# Rhabdospora lupini N.F. Buchw., 1958 SPECIES
 
 #### Status
 ACCEPTED

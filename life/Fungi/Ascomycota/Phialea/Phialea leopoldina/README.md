@@ -1,5 +1,4 @@
-Phialea leopoldina Rick SPECIES
-=======
+# Phialea leopoldina Rick SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphibelonium Haeckel, 1887 GENUS
-=======
+# Amphibelonium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

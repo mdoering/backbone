@@ -1,5 +1,4 @@
-Marasmius elatus (Pat.) Sacc. & Trotter SPECIES
-=======
+# Marasmius elatus (Pat.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

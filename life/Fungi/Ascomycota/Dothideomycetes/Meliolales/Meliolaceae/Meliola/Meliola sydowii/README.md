@@ -1,17 +1,16 @@
-Meliola sydowi Hansf. SPECIES
-=======
+# Meliola sydowii Hansf. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Proc. Linn. Soc. London 160: 122 (1949)
 
 #### Original name
-Meliola sydowi Hansf.
+Meliola sydowii Hansf.
 
 ### Remarks
 null

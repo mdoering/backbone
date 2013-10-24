@@ -1,5 +1,4 @@
-Dendrophoma valsispora var. valsispora Penz. VARIETY
-=======
+# Dendrophoma valsispora Penz. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Dendrophoma valsispora var. valsispora Penz.
+Dendrophoma valsispora Penz.
 
 ### Remarks
 null

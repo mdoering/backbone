@@ -1,5 +1,4 @@
-Inocybe nucleata Murrill SPECIES
-=======
+# Inocybe nucleata Murrill SPECIES
 
 #### Status
 ACCEPTED

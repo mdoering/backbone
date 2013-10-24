@@ -1,14 +1,13 @@
-Doassansia intermedia Setch., 1894 SPECIES
-=======
+# Doassansiopsis intermedia (Setch.) Vánky, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 34: 171 (1981)
 
 #### Original name
 Doassansia intermedia Setch., 1894

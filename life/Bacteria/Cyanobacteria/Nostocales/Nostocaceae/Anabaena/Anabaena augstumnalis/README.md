@@ -1,5 +1,4 @@
-Anabaena augstumnalis var. incrassata (Nygaard) Geitler VARIETY
-=======
+# Anabaena augstumnalis SPECIES
 
 #### Status
 ACCEPTED

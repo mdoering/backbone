@@ -1,5 +1,4 @@
-Verrucaria ossiseda Lynge SPECIES
-=======
+# Verrucaria ossiseda Lynge SPECIES
 
 #### Status
 ACCEPTED

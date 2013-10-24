@@ -1,5 +1,4 @@
-Phyllosticta asclepiadearum Westend. SPECIES
-=======
+# Phyllosticta asclepiadearum Westend. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus inodorus Chevall. SPECIES
-=======
+# Polyporus inodorus Chevall. SPECIES
 
 #### Status
 ACCEPTED

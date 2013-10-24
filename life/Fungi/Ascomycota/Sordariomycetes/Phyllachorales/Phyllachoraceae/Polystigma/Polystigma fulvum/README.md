@@ -1,17 +1,16 @@
-Polystigma fulvum var. maculare Corda VARIETY
-=======
+# Polystigma fulvum Pers. ex DC., 1815 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Icon. fung. (Prague) 2: 29, tab. 13:104 (1838)
+Mém. Mus. natn Hist. nat. Paris, Paris 3: 337 (1817)
 
 #### Original name
-Polystigma fulvum var. maculare Corda
+Polystigma fulvum Pers. ex DC., 1815
 
 ### Remarks
 null

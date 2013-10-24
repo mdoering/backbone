@@ -1,5 +1,4 @@
-Mahabalella cubensis R.F. Castañeda SPECIES
-=======
+# Mahabalella cubensis R.F. Castañeda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sclerotium antiquum Ettingsh. & Garden {?} SPECIES
-=======
+# Sclerotium antiquum Ettingsh. & Garden {?} SPECIES
 
 #### Status
 ACCEPTED

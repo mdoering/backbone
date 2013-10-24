@@ -1,5 +1,4 @@
-Lactarius neotropicus Singer SPECIES
-=======
+# Lactarius neotropicus Singer SPECIES
 
 #### Status
 ACCEPTED

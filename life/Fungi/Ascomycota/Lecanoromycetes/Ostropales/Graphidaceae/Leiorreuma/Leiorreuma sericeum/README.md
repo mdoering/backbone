@@ -1,5 +1,4 @@
-Leiorreuma sericeum (Eschw.) Staiger SPECIES
-=======
+# Leiorreuma sericeum (Eschw.) Staiger SPECIES
 
 #### Status
 ACCEPTED

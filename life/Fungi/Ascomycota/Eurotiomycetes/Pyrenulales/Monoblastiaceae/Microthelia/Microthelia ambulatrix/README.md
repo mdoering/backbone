@@ -1,5 +1,4 @@
-Microthelia ambulatrix Boistel SPECIES
-=======
+# Microthelia ambulatrix Boistel SPECIES
 
 #### Status
 ACCEPTED

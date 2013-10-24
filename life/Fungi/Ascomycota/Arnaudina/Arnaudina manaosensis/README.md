@@ -1,17 +1,16 @@
-Exosporina manaosensis G. Arnaud, 1921 SPECIES
-=======
+# Arnaudina manaosensis (G. Arnaud) Trotter, 1931 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 25: 986 (1931)
 
 #### Original name
-null
+Exosporina manaosensis G. Arnaud
 
 ### Remarks
 null

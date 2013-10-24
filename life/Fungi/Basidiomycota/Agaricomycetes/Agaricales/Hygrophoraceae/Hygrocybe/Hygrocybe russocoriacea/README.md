@@ -1,14 +1,13 @@
-Cuphophyllus russocoriaceus (Berk. & Jos.K. Mill.) Bon, 1985 SPECIES
-=======
+# Hygrocybe russocoriacea (Berk. & Jos.K. Mill.) P.D. Orton & Watling, 1969 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Docums Mycol. 14(no. 56): 11 (1985)
+Notes R. bot. Gdn Edinb. 29(1): 131 (1969)
 
 #### Original name
 Hygrophorus russocoriaceus Berk. & Jos.K. Mill., 1848

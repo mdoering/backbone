@@ -1,5 +1,4 @@
-Homopsellomyces GENUS
-=======
+# Homopsellomyces GENUS
 
 #### Status
 ACCEPTED

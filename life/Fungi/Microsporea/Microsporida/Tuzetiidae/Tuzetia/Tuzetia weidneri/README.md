@@ -1,5 +1,4 @@
-Tuzetia weidneri E.U. Canning, A. Curry & R.M. Overstreet SPECIES
-=======
+# Tuzetia weidneri E.U. Canning, A. Curry & R.M. Overstreet SPECIES
 
 #### Status
 ACCEPTED

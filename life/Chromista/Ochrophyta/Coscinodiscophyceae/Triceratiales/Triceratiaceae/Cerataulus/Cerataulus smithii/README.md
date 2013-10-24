@@ -1,8 +1,7 @@
-Biddulphia smithii Van Heurck SPECIES
-=======
+# Cerataulus smithii Ralfs ex Pritchard SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

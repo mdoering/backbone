@@ -1,5 +1,4 @@
-Garnaudia Borowska GENUS
-=======
+# Garnaudia Borowska GENUS
 
 #### Status
 ACCEPTED

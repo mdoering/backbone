@@ -1,5 +1,4 @@
-Spathidiidae Kahl in Doflein & Reichenow, 1929 FAMILY
-=======
+# Spathidiidae Kahl in Doflein & Reichenow, 1929 FAMILY
 
 #### Status
 ACCEPTED

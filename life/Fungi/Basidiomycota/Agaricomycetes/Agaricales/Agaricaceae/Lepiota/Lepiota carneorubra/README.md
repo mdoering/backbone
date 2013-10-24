@@ -1,5 +1,4 @@
-Lepiota carneorubra Massee SPECIES
-=======
+# Lepiota carneorubra Massee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspicilia nicaeensis B. de Lesd. SPECIES
-=======
+# Aspicilia nicaeensis B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

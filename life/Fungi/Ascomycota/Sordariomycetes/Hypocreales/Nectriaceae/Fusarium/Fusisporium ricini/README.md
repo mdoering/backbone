@@ -1,5 +1,4 @@
-Fusisporium ricini Berenger SPECIES
-=======
+# Fusisporium ricini Berenger SPECIES
 
 #### Status
 ACCEPTED

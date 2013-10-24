@@ -1,5 +1,4 @@
-Phoma hosackiae Cooke & Harkn. SPECIES
-=======
+# Phoma hosackiae Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

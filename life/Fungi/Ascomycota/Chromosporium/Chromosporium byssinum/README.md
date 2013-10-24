@@ -1,5 +1,4 @@
-Chromosporium byssinum Sacc. SPECIES
-=======
+# Chromosporium byssinum Sacc. SPECIES
 
 #### Status
 ACCEPTED

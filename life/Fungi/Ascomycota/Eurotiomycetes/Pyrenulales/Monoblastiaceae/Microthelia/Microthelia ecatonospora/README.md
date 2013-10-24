@@ -1,5 +1,4 @@
-Microthelia ecatonospora Anzi SPECIES
-=======
+# Microthelia ecatonospora Anzi SPECIES
 
 #### Status
 ACCEPTED

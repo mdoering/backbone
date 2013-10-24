@@ -1,5 +1,4 @@
-Clitocybe subnigricans Peck SPECIES
-=======
+# Clitocybe subnigricans Peck SPECIES
 
 #### Status
 ACCEPTED

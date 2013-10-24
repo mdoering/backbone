@@ -1,5 +1,4 @@
-Lineostroma H.J. Swart GENUS
-=======
+# Lineostroma H.J. Swart GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius ferrugineipes Ricek SPECIES
-=======
+# Cortinarius ferrugineipes Ricek SPECIES
 
 #### Status
 ACCEPTED

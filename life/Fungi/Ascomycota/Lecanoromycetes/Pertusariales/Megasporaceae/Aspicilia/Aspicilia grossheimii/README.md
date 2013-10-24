@@ -1,5 +1,4 @@
-Aspicilia grossheimii Oxner SPECIES
-=======
+# Aspicilia grossheimii Oxner SPECIES
 
 #### Status
 ACCEPTED

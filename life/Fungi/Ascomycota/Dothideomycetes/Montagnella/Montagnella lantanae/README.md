@@ -1,5 +1,4 @@
-Montagnella lantanae P. Karst. & Har. SPECIES
-=======
+# Montagnella lantanae P. Karst. & Har. SPECIES
 
 #### Status
 ACCEPTED

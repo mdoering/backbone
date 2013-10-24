@@ -1,5 +1,4 @@
-Arthonia nephelina Nyl. SPECIES
-=======
+# Arthonia nephelina Nyl. SPECIES
 
 #### Status
 ACCEPTED

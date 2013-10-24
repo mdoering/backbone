@@ -1,5 +1,4 @@
-Pseudoramonia richeae Kantvilas & Vezda SPECIES
-=======
+# Pseudoramonia richeae Kantvilas & Vezda SPECIES
 
 #### Status
 ACCEPTED

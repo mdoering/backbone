@@ -1,5 +1,4 @@
-Dothiorella barringtoniae (Cooke & Massee) Petr. & Syd. SPECIES
-=======
+# Dothiorella barringtoniae (Cooke & Massee) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

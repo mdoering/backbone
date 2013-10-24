@@ -1,5 +1,4 @@
-Calosphaeria abieticola P. Crouan & H. Crouan SPECIES
-=======
+# Calosphaeria abieticola P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

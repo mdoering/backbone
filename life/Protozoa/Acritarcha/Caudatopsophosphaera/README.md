@@ -1,5 +1,4 @@
-Caudatopsophosphaera Pykhova GENUS
-=======
+# Caudatopsophosphaera Pykhova GENUS
 
 #### Status
 ACCEPTED

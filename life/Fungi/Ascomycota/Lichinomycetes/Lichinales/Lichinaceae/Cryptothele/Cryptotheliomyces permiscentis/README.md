@@ -1,5 +1,4 @@
-Cryptotheliomyces permiscentis Cif. & Tomas. SPECIES
-=======
+# Cryptotheliomyces permiscentis Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

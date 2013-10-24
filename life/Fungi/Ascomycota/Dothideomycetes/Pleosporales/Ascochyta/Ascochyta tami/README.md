@@ -1,5 +1,4 @@
-Ascochyta tami Hollós SPECIES
-=======
+# Ascochyta tami Hollós SPECIES
 
 #### Status
 ACCEPTED

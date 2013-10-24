@@ -1,5 +1,4 @@
-Choiromyces setchellii Gilkey SPECIES
-=======
+# Choiromyces setchellii Gilkey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peripyramis Haeckel, 1881 GENUS
-=======
+# Peripyramis Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

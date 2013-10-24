@@ -1,5 +1,4 @@
-Patinella quercina Velen. SPECIES
-=======
+# Patinella quercina Velen. SPECIES
 
 #### Status
 ACCEPTED

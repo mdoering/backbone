@@ -1,5 +1,4 @@
-Meliola theobromae Faber SPECIES
-=======
+# Meliola theobromae Faber SPECIES
 
 #### Status
 ACCEPTED

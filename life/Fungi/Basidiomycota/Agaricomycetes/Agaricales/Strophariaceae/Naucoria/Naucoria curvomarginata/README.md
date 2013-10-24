@@ -1,5 +1,4 @@
-Naucoria curvomarginata (Peck) Sacc. SPECIES
-=======
+# Naucoria curvomarginata (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

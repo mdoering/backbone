@@ -1,5 +1,4 @@
-Rigidia simplex Collins, 1974 SPECIES
-=======
+# Rigidia simplex Collins, 1974 SPECIES
 
 #### Status
 ACCEPTED

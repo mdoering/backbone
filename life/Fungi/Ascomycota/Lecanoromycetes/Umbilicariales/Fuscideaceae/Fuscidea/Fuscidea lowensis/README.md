@@ -1,5 +1,4 @@
-Fuscidea lowensis (H. Magn.) R. A. Anderson & Hertel SPECIES
-=======
+# Fuscidea lowensis (H. Magn.) R. A. Anderson & Hertel SPECIES
 
 #### Status
 ACCEPTED

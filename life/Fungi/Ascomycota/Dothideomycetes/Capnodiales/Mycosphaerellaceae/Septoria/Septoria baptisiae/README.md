@@ -1,5 +1,4 @@
-Septoria baptisiae Cooke SPECIES
-=======
+# Septoria baptisiae Cooke SPECIES
 
 #### Status
 ACCEPTED

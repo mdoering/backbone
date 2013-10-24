@@ -1,5 +1,4 @@
-Oidiopsis thryallidis A. Pande & V.G. Rao SPECIES
-=======
+# Oidiopsis thryallidis A. Pande & V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

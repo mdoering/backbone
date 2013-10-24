@@ -1,5 +1,4 @@
-Ramboldia crassithallina Kalb SPECIES
-=======
+# Ramboldia crassithallina Kalb SPECIES
 
 #### Status
 ACCEPTED

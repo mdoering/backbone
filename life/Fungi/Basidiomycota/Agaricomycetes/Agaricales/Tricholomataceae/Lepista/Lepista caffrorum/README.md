@@ -1,5 +1,4 @@
-Lepista caffrorum (Kalchbr. & MacOwan) Singer SPECIES
-=======
+# Lepista caffrorum (Kalchbr. & MacOwan) Singer SPECIES
 
 #### Status
 ACCEPTED

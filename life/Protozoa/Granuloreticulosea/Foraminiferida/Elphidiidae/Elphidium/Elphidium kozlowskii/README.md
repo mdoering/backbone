@@ -1,5 +1,4 @@
-Elphidium kozlowskii Brodniewicz, 1965 SPECIES
-=======
+# Elphidium kozlowskii Brodniewicz, 1965 SPECIES
 
 #### Status
 ACCEPTED

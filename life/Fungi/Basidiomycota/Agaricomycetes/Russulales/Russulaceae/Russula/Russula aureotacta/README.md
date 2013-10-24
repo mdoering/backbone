@@ -1,5 +1,4 @@
-Russula aureotacta R. Heim SPECIES
-=======
+# Russula aureotacta R. Heim SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Marasmius peronatus var. peronatus VARIETY
-=======
+# Gymnopus peronatus (Bolton) Antonín, Halling & Noordel., 1997 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Anteckn. Sver. Ätl. Svamp. 52 (1836)
+Mycotaxon 63: 365 (1997)
 
 #### Original name
-Marasmius peronatus var. peronatus
+Agaricus peronatus Bolton, 1788
 
 ### Remarks
 null

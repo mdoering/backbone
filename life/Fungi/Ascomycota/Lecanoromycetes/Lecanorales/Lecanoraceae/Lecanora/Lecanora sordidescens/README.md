@@ -1,5 +1,4 @@
-Lecanora sordidescens Stizenb. SPECIES
-=======
+# Lecanora sordidescens Stizenb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrophoma raphidophorae Gonz. Frag. SPECIES
-=======
+# Macrophoma raphidophorae Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

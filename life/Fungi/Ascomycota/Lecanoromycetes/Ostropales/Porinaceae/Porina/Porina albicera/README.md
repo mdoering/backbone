@@ -1,14 +1,13 @@
-Phylloporina albicera (Kremp.) Müll. Arg. SPECIES
-=======
+# Porina albicera (Kremp.) Overeem SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lichenes Epiphylli Novi 21 (1890)
+Bull. Jard. Bot. Buitenz, 3 Sér. 4(1): 112 (1922)
 
 #### Original name
 null

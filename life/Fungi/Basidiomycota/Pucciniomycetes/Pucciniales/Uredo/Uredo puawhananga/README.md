@@ -1,5 +1,4 @@
-Uredo puawhananga G.T.S. Baylis, 1954 SPECIES
-=======
+# Uredo puawhananga G.T.S. Baylis, 1954 SPECIES
 
 #### Status
 ACCEPTED

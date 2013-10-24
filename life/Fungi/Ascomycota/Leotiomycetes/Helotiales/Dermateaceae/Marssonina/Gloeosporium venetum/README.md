@@ -1,5 +1,4 @@
-Gloeosporium venetum Speg., 1879 SPECIES
-=======
+# Gloeosporium venetum Speg., 1879 SPECIES
 
 #### Status
 ACCEPTED

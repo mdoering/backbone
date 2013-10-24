@@ -1,5 +1,4 @@
-Leptospora implexa (Ellis & Everh.) J. Walker SPECIES
-=======
+# Leptospora implexa (Ellis & Everh.) J. Walker SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Coriolopsis phocinus (Berk. & Broome) Murrill SPECIES
-=======
+# Coriolopsis phocina (Berk. & Broome) Murrill SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Torrey bot. Club 34: 466 (1907)
 
 #### Original name
 Polyporus phocinus Berk. & Broome

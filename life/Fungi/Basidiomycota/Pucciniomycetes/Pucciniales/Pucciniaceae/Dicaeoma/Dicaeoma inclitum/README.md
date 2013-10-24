@@ -1,5 +1,4 @@
-Dicaeoma inclitum (Arthur) Arthur & Fromme SPECIES
-=======
+# Dicaeoma inclitum (Arthur) Arthur & Fromme SPECIES
 
 #### Status
 ACCEPTED

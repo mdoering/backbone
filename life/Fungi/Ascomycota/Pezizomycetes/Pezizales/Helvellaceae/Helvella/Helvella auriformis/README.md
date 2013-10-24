@@ -1,5 +1,4 @@
-Helvella auriformis Hoffm. SPECIES
-=======
+# Helvella auriformis Hoffm. SPECIES
 
 #### Status
 ACCEPTED

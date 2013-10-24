@@ -1,5 +1,4 @@
-Protoperidinium multistriatum Kofoid, 1907 SPECIES
-=======
+# Protoperidinium multistriatum Kofoid, 1907 SPECIES
 
 #### Status
 ACCEPTED

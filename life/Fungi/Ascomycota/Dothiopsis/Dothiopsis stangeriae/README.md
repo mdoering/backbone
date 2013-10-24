@@ -1,5 +1,4 @@
-Dothiopsis stangeriae Verwoerd & Du Plessis SPECIES
-=======
+# Dothiopsis stangeriae Verwoerd & Du Plessis SPECIES
 
 #### Status
 ACCEPTED

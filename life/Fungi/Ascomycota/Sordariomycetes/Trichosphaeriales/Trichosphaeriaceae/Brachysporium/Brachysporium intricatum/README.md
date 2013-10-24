@@ -1,5 +1,4 @@
-Brachysporium intricatum Sacc. SPECIES
-=======
+# Brachysporium intricatum Sacc. SPECIES
 
 #### Status
 ACCEPTED

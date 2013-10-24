@@ -1,5 +1,4 @@
-Cyclotella multipunctata K. K. Serieyssol SPECIES
-=======
+# Cyclotella multipunctata K. K. Serieyssol SPECIES
 
 #### Status
 ACCEPTED

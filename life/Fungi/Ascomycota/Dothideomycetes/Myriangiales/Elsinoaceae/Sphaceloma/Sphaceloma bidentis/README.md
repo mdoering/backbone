@@ -1,5 +1,4 @@
-Sphaceloma bidentis Bitanc. & Jenkins, 1951 SPECIES
-=======
+# Sphaceloma bidentis Bitanc. & Jenkins, 1951 SPECIES
 
 #### Status
 ACCEPTED

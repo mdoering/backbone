@@ -1,5 +1,4 @@
-Xylaria papulis var. papulis Lloyd, 1920 VARIETY
-=======
+# Xylaria papulis Lloyd SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Writ. 6(65): 1055 (1920)
 
 #### Original name
-null
+Xylaria papulis Lloyd
 
 ### Remarks
 null

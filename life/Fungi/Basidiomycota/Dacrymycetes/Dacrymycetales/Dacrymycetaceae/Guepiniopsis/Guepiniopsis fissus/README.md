@@ -1,5 +1,4 @@
-Guepiniopsis fissus (Berk.) Pat. SPECIES
-=======
+# Guepiniopsis fissus (Berk.) Pat. SPECIES
 
 #### Status
 ACCEPTED

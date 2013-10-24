@@ -1,5 +1,4 @@
-Piscirickettsia Fryer, Lannan, Giovannoni & Wood, 1992 GENUS
-=======
+# Piscirickettsia Fryer, Lannan, Giovannoni & Wood, 1992 GENUS
 
 #### Status
 ACCEPTED

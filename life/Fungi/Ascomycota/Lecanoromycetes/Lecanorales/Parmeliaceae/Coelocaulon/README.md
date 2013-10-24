@@ -1,5 +1,4 @@
-Coelocaulon Link GENUS
-=======
+# Coelocaulon Link GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectria stenospora Berk. & Broome, 1875 SPECIES
-=======
+# Nectria stenospora Berk. & Broome, 1875 SPECIES
 
 #### Status
 ACCEPTED

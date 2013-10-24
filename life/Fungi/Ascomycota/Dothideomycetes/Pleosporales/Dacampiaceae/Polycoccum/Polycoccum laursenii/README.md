@@ -1,5 +1,4 @@
-Polycoccum laursenii Zhurb. SPECIES
-=======
+# Polycoccum laursenii Zhurb. SPECIES
 
 #### Status
 ACCEPTED

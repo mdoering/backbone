@@ -1,17 +1,16 @@
-Opegrapha leptocarpa Müll. Arg. SPECIES
-=======
+# Opegrapha leptocarpoides Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Bull. Herb. Boissier 3: 317 (1895)
+Cat. Lich. Univers. 2: 213 (1923)
 
 #### Original name
-Opegrapha leptocarpa Müll. Arg.
+Opegrapha leptocarpoides Zahlbr.
 
 ### Remarks
 null

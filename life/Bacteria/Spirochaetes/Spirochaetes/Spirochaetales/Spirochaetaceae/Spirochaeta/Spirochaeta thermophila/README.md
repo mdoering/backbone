@@ -1,5 +1,4 @@
-Spirochaeta thermophila Aksenova et al., 1992 SPECIES
-=======
+# Spirochaeta thermophila Aksenova et al., 1992 SPECIES
 
 #### Status
 ACCEPTED

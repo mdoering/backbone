@@ -1,5 +1,4 @@
-Puccinia plumbaria Peck SPECIES
-=======
+# Puccinia plumbaria Peck SPECIES
 
 #### Status
 ACCEPTED

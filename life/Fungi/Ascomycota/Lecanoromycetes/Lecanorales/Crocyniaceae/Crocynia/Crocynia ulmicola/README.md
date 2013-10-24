@@ -1,5 +1,4 @@
-Crocynia ulmicola Hue SPECIES
-=======
+# Crocynia ulmicola Hue SPECIES
 
 #### Status
 ACCEPTED

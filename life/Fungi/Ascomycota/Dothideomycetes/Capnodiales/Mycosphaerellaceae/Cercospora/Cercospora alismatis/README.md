@@ -1,5 +1,4 @@
-Cercospora alismatis Ellis & Holw. SPECIES
-=======
+# Cercospora alismatis Ellis & Holw. SPECIES
 
 #### Status
 ACCEPTED

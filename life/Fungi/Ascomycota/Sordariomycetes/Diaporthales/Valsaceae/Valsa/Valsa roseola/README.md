@@ -1,5 +1,4 @@
-Valsa roseola (G. Winter) O. Kuntze SPECIES
-=======
+# Valsa roseola (G. Winter) O. Kuntze SPECIES
 
 #### Status
 ACCEPTED

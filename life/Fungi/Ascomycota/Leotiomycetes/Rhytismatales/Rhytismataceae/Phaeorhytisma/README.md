@@ -1,5 +1,4 @@
-Phaeorhytisma GENUS
-=======
+# Phaeorhytisma GENUS
 
 #### Status
 ACCEPTED

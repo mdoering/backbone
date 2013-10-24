@@ -1,5 +1,4 @@
-Polyporus illinoisensis D.V. Baxter SPECIES
-=======
+# Polyporus illinoisensis D.V. Baxter SPECIES
 
 #### Status
 ACCEPTED

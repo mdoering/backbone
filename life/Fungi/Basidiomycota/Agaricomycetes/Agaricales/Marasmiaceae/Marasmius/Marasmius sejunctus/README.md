@@ -1,5 +1,4 @@
-Marasmius sejunctus Singer SPECIES
-=======
+# Marasmius sejunctus Singer SPECIES
 
 #### Status
 ACCEPTED

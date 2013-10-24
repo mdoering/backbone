@@ -1,5 +1,4 @@
-Arthonia ochrodiscodes Nyl. SPECIES
-=======
+# Arthonia ochrodiscodes Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coprinopsis pachyderma (Bogart) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
-=======
+# Coprinopsis pachyderma (Bogart) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
 
 #### Status
 ACCEPTED

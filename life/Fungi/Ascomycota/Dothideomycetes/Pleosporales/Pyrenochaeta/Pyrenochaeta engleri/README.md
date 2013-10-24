@@ -1,5 +1,4 @@
-Pyrenochaeta engleri Speg. SPECIES
-=======
+# Pyrenochaeta engleri Speg. SPECIES
 
 #### Status
 ACCEPTED

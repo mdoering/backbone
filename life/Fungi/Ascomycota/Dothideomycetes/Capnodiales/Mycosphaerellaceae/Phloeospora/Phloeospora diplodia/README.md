@@ -1,5 +1,4 @@
-Phloeospora diplodia Schulzer SPECIES
-=======
+# Phloeospora diplodia Schulzer SPECIES
 
 #### Status
 ACCEPTED

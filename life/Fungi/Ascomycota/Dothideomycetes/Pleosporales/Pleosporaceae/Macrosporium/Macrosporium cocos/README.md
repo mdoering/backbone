@@ -1,5 +1,4 @@
-Macrosporium cocos Pass. SPECIES
-=======
+# Macrosporium cocos Pass. SPECIES
 
 #### Status
 ACCEPTED

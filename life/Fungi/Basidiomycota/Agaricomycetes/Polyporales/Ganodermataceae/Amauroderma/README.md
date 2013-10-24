@@ -1,5 +1,4 @@
-Amauroderma (Patouillard) Torrend, 1920 GENUS
-=======
+# Amauroderma (Patouillard) Torrend, 1920 GENUS
 
 #### Status
 ACCEPTED

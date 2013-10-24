@@ -1,5 +1,4 @@
-Taphrina nikkoensis Kusano SPECIES
-=======
+# Taphrina nikkoensis Kusano SPECIES
 
 #### Status
 ACCEPTED

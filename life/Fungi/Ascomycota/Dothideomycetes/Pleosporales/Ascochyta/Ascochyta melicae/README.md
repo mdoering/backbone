@@ -1,5 +1,4 @@
-Ascochyta melicae (Died.) Melnik SPECIES
-=======
+# Ascochyta melicae (Died.) Melnik SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stigmatomyces feijenii W. Rossi SPECIES
-=======
+# Stigmatomyces feijenii W. Rossi SPECIES
 
 #### Status
 ACCEPTED

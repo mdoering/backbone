@@ -1,5 +1,4 @@
-Spermatodium hibernicum Trevis. SPECIES
-=======
+# Spermatodium hibernicum Trevis. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phormidium weissi SPECIES
-=======
+# Phormidium weissi SPECIES
 
 #### Status
 ACCEPTED

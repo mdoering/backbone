@@ -1,5 +1,4 @@
-Favolaschia oligogloea Singer, 1974 SPECIES
-=======
+# Favolaschia oligogloea Singer, 1974 SPECIES
 
 #### Status
 ACCEPTED

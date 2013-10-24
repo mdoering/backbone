@@ -1,5 +1,4 @@
-Physcia granulata Poelt SPECIES
-=======
+# Physcia granulata Poelt SPECIES
 
 #### Status
 ACCEPTED

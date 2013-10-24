@@ -1,5 +1,4 @@
-Capnodiastrum guaraniticum Speg., 1886 SPECIES
-=======
+# Capnodiastrum guaraniticum Speg., 1886 SPECIES
 
 #### Status
 ACCEPTED

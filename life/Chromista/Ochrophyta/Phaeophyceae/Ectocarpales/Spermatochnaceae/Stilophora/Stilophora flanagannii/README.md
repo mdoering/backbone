@@ -1,5 +1,4 @@
-Stilophora flanagannii Kylin SPECIES
-=======
+# Stilophora flanagannii Kylin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus lalage Berk. SPECIES
-=======
+# Agaricus lalage Berk. SPECIES
 
 #### Status
 ACCEPTED

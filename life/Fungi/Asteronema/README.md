@@ -1,17 +1,16 @@
-Asterothrix Kützing, 1843 GENUS
-=======
+# Asteronema Trevisan, 1845 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 IRMNG Homonym List
 
 #### Published in
-Phycol. Gener. , p. 200.
+Nom. Algarum 46 (1845)
 
 #### Original name
-Asterothrix Kützing, 1843
+Asteronema Trevisan, 1845
 
 ### Remarks
 null

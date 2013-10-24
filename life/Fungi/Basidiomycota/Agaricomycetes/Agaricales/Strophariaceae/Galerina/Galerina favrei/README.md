@@ -1,5 +1,4 @@
-Galerina favrei Bon SPECIES
-=======
+# Galerina favrei Bon SPECIES
 
 #### Status
 ACCEPTED

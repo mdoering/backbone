@@ -1,5 +1,4 @@
-Biatora fuegiensis (Nyl.) Darb. SPECIES
-=======
+# Biatora fuegiensis (Nyl.) Darb. SPECIES
 
 #### Status
 ACCEPTED

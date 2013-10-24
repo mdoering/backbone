@@ -1,5 +1,4 @@
-Strigula amphora Aptroot & Lücking SPECIES
-=======
+# Strigula amphora Aptroot & Lücking SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vulcanisphaera britannica Rasul, 1976 SPECIES
-=======
+# Vulcanisphaera britannica Rasul, 1976 SPECIES
 
 #### Status
 ACCEPTED

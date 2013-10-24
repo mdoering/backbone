@@ -1,5 +1,4 @@
-Strasseria sequoiae Dias & Sousa da Câmara SPECIES
-=======
+# Strasseria sequoiae Dias & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

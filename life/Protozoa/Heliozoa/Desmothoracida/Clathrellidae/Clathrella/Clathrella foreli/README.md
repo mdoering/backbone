@@ -1,5 +1,4 @@
-Clathrella foreli Pen. SPECIES
-=======
+# Clathrella foreli Pen. SPECIES
 
 #### Status
 ACCEPTED

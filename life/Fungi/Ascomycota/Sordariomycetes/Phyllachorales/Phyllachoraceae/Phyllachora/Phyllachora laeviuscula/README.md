@@ -1,5 +1,4 @@
-Phyllachora laeviuscula Speg., 1891 SPECIES
-=======
+# Phyllachora laeviuscula Speg., 1891 SPECIES
 
 #### Status
 ACCEPTED

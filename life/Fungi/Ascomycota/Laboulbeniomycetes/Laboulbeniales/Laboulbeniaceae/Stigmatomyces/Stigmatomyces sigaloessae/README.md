@@ -1,5 +1,4 @@
-Stigmatomyces sigaloessae Thaxt. SPECIES
-=======
+# Stigmatomyces sigaloessae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

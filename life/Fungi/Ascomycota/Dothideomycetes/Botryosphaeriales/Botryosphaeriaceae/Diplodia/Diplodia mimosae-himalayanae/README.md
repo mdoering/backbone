@@ -1,5 +1,4 @@
-Diplodia mimosae-himalayanae S. Ahmad SPECIES
-=======
+# Diplodia mimosae-himalayanae S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

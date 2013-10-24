@@ -1,5 +1,4 @@
-Hypoxylon glandiforme (Ellis & Everh.) P.M.D. Martin SPECIES
-=======
+# Hypoxylon glandiforme (Ellis & Everh.) P.M.D. Martin SPECIES
 
 #### Status
 ACCEPTED

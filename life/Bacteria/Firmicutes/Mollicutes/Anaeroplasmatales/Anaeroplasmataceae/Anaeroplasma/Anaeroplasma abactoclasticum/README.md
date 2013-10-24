@@ -1,5 +1,4 @@
-Anaeroplasma abactoclasticum Robinson et al., 1975 (Approved Lists, 1980) SPECIES
-=======
+# Anaeroplasma abactoclasticum Robinson et al., 1975 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

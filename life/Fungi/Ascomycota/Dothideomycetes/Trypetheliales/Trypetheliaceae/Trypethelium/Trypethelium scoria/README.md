@@ -1,5 +1,4 @@
-Trypethelium scoria var. scoria VARIETY
-=======
+# Trypethelium scoria Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Trypethelium scoria var. scoria
+Trypethelium scoria Nyl.
 
 ### Remarks
 null

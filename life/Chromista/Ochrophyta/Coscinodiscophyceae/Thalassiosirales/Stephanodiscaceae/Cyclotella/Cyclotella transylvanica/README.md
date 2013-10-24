@@ -1,5 +1,4 @@
-Cyclotella transylvanica var. disseminatepunctata Pantocsek VARIETY
-=======
+# Cyclotella transylvanica Pantocsek SPECIES
 
 #### Status
 ACCEPTED

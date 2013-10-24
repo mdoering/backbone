@@ -1,5 +1,4 @@
-Teloschistes stellatus (Meyen & Flot.) Müll. Arg. SPECIES
-=======
+# Teloschistes stellatus (Meyen & Flot.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

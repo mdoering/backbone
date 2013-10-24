@@ -1,8 +1,7 @@
-Peronospora cerastii-brachypeltali Savul. & Rayss SPECIES
-=======
+# Peronospora cerastii-brachypetali Savul. & Rayss SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Peronospora cerastii-brachypeltali Savul. & Rayss
+Peronospora cerastii-brachypetali Savul. & Rayss
 
 ### Remarks
 null

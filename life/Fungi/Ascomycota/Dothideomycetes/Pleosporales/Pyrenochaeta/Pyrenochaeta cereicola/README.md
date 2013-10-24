@@ -1,5 +1,4 @@
-Pyrenochaeta cereicola Speg. SPECIES
-=======
+# Pyrenochaeta cereicola Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta schizandrae Mitrosh. SPECIES
-=======
+# Phyllosticta schizandrae Mitrosh. SPECIES
 
 #### Status
 ACCEPTED

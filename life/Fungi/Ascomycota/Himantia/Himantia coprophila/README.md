@@ -1,5 +1,4 @@
-Himantia coprophila Speg. SPECIES
-=======
+# Himantia coprophila Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyrtolophosis elongata (Schew.) SPECIES
-=======
+# Cyrtolophosis elongata (Schew.) SPECIES
 
 #### Status
 ACCEPTED

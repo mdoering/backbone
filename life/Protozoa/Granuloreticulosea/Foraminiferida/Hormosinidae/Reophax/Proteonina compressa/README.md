@@ -1,5 +1,4 @@
-Proteonina compressa Cushman & McCulloch, 1939 SPECIES
-=======
+# Proteonina compressa Cushman & McCulloch, 1939 SPECIES
 
 #### Status
 DOUBTFUL

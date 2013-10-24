@@ -1,17 +1,16 @@
-Innatospora J.F.H. Beyma GENUS
-=======
+# Arthrinium Kunze GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Verh. K. Akad. Wet. , tweede sect. 26(4): 5 (1929)
+in Kunze & Schmidt, Mykologische Hefte (Leipzig) 1: 9 (1817)
 
 #### Original name
-Innatospora J.F.H. Beyma
+Arthrinium Kunze
 
 ### Remarks
 null

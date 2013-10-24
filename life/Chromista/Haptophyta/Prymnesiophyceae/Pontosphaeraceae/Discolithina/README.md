@@ -1,5 +1,4 @@
-Discolithina A.R.Loeblich Jr. & Tappan, 1963 GENUS
-=======
+# Discolithina A.R.Loeblich Jr. & Tappan, 1963 GENUS
 
 #### Status
 ACCEPTED

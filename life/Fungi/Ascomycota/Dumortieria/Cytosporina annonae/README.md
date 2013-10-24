@@ -1,17 +1,16 @@
-Cytosporina anonae Sousa da Câmara SPECIES
-=======
+# Cytosporina annonae Sousa da Câmara SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Anais Inst. sup. Agron. Univ. Téc. Lisboa 3: 64 (extr. ) (1929)
 
 #### Original name
-Cytosporina anonae Sousa da Câmara
+Cytosporina annonae Sousa da Câmara
 
 ### Remarks
 null

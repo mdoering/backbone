@@ -1,5 +1,4 @@
-Tolypothrix calcarata f. minor Schmidle FORM
-=======
+# Tolypothrix calcarata Schmidle SPECIES
 
 #### Status
 ACCEPTED

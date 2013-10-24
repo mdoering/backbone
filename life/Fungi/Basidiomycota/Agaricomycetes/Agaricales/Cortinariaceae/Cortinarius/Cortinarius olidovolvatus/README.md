@@ -1,5 +1,4 @@
-Cortinarius olidovolvatus Bon & Trescol SPECIES
-=======
+# Cortinarius olidovolvatus Bon & Trescol SPECIES
 
 #### Status
 ACCEPTED

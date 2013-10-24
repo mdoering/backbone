@@ -1,5 +1,4 @@
-Rinodina subalbida (Nyl.) Vain. SPECIES
-=======
+# Rinodina subalbida (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

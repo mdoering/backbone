@@ -1,5 +1,4 @@
-Cystopus solivae (J. Schröt.) Sacc. & P. Syd. SPECIES
-=======
+# Cystopus solivae (J. Schröt.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

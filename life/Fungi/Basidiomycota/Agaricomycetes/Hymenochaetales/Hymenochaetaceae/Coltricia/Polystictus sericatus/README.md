@@ -1,5 +1,4 @@
-Polystictus sericatus Lloyd SPECIES
-=======
+# Polystictus sericatus Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paraurostyla hologama SPECIES
-=======
+# Paraurostyla hologama SPECIES
 
 #### Status
 ACCEPTED

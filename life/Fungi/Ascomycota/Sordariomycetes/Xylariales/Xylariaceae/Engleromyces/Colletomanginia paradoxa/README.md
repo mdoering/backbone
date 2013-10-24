@@ -1,5 +1,4 @@
-Colletomanginia paradoxa Har. & Pat. SPECIES
-=======
+# Colletomanginia paradoxa Har. & Pat. SPECIES
 
 #### Status
 ACCEPTED

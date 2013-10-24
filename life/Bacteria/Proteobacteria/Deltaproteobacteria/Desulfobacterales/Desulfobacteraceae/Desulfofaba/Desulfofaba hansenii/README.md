@@ -1,14 +1,13 @@
-Desulfomusa hansenii Finster et al., 2001 SPECIES
-=======
+# Desulfofaba hansenii (Finster et al., 2001) Abildgaard et al., 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Finster, K. , Thomsen, T. R. , and Ramsing, N. B. 2001. Desulfomusa hansenii gen. nov. , sp. nov. , a novel marine propionate-degrading, sulfate-reducing bacterium isolated from Zostera marina roots. Int. J. Syst. Evol. Microbiol. 51:2055-2061.
 
 #### Original name
 null

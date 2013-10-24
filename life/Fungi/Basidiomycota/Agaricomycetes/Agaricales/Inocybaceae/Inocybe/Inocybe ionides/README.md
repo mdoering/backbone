@@ -1,5 +1,4 @@
-Inocybe ionides Corner & E. Horak SPECIES
-=======
+# Inocybe ionides Corner & E. Horak SPECIES
 
 #### Status
 ACCEPTED

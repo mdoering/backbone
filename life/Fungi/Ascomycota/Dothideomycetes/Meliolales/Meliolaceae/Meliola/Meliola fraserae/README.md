@@ -1,5 +1,4 @@
-Meliola fraserae var. fraserae VARIETY
-=======
+# Meliola fraserae Hansf. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Proc. Linn. Soc. N. S. W. 78: 76 (1953)
 
 #### Original name
-Meliola fraserae var. fraserae
+Meliola fraserae Hansf.
 
 ### Remarks
 null

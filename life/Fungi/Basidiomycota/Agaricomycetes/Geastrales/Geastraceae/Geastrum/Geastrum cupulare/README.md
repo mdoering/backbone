@@ -1,5 +1,4 @@
-Geastrum cupulare E. Fisch. SPECIES
-=======
+# Geastrum cupulare E. Fisch. SPECIES
 
 #### Status
 ACCEPTED

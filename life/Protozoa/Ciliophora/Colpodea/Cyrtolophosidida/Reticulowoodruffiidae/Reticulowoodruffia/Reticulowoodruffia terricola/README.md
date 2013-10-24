@@ -1,5 +1,4 @@
-Reticulowoodruffia terricola Foissner, 1993 SPECIES
-=======
+# Reticulowoodruffia terricola Foissner, 1993 SPECIES
 
 #### Status
 ACCEPTED

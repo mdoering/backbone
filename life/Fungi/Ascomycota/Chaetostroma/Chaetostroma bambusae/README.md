@@ -1,5 +1,4 @@
-Chaetostroma bambusae Pat. SPECIES
-=======
+# Chaetostroma bambusae Pat. SPECIES
 
 #### Status
 ACCEPTED

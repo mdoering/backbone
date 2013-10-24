@@ -1,5 +1,4 @@
-Hypoxylonites vittatus (Sheffy & Dilcher) Elsik SPECIES
-=======
+# Hypoxylonites vittatus (Sheffy & Dilcher) Elsik SPECIES
 
 #### Status
 ACCEPTED

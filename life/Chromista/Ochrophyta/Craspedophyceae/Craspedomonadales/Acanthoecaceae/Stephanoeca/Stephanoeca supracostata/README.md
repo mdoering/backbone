@@ -1,5 +1,4 @@
-Stephanoeca supracostata Hara, Lee Chen, Sheu & Takahashi, 1996 SPECIES
-=======
+# Stephanoeca supracostata Hara, Lee Chen, Sheu & Takahashi, 1996 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia largifica Cummins SPECIES
-=======
+# Puccinia largifica Cummins SPECIES
 
 #### Status
 ACCEPTED

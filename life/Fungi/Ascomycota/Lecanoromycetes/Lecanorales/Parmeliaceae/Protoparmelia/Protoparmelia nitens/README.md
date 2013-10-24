@@ -1,5 +1,4 @@
-Protoparmelia nitens (Pers.) R. Sant. SPECIES
-=======
+# Protoparmelia nitens (Pers.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

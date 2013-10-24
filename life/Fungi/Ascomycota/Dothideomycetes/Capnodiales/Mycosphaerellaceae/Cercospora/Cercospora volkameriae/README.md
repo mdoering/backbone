@@ -1,5 +1,4 @@
-Cercospora volkameriae Speg., 1908 SPECIES
-=======
+# Cercospora volkameriae Speg., 1908 SPECIES
 
 #### Status
 ACCEPTED

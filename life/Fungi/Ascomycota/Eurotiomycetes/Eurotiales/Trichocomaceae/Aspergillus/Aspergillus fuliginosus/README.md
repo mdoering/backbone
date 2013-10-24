@@ -1,5 +1,4 @@
-Aspergillus fuliginosus Peck SPECIES
-=======
+# Aspergillus fuliginosus Peck SPECIES
 
 #### Status
 ACCEPTED

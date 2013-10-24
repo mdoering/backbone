@@ -1,5 +1,4 @@
-Laboea cornucopiae SPECIES
-=======
+# Laboea cornucopiae SPECIES
 
 #### Status
 ACCEPTED

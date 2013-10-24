@@ -1,17 +1,16 @@
-Phragmidium rubi subsp. rubi SUBSPECIES
-=======
+# Phragmidium bulbosum (Fr.) Schltdl., 1824 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fl. berol. (Berlin) 2: 156 (1824)
 
 #### Original name
-Phragmidium rubi subsp. rubi
+Aregma bulbosum Fr., 1832
 
 ### Remarks
 null

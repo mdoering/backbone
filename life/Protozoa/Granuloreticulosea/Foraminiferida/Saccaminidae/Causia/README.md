@@ -1,5 +1,4 @@
-Causia Rhumbler, 1938 GENUS
-=======
+# Causia Rhumbler, 1938 GENUS
 
 #### Status
 ACCEPTED

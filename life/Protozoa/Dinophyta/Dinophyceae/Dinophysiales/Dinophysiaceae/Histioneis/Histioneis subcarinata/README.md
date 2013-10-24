@@ -1,5 +1,4 @@
-Histioneis subcarinata Rampi SPECIES
-=======
+# Histioneis subcarinata Rampi SPECIES
 
 #### Status
 ACCEPTED

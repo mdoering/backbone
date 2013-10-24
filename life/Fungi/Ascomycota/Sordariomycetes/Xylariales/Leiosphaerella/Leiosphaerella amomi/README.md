@@ -1,5 +1,4 @@
-Leiosphaerella amomi Bussaban, Lumyong, P. Lumyong, McKenzie & K.D. Hyde SPECIES
-=======
+# Leiosphaerella amomi Bussaban, Lumyong, P. Lumyong, McKenzie & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

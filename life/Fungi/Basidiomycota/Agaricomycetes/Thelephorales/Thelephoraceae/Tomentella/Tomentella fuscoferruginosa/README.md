@@ -1,14 +1,13 @@
-Hypochnus fuscoferruginosus Bres., 1903 SPECIES
-=======
+# Tomentella fuscoferruginosa (Bres.) Litsch., 1941 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 1(1/2): 109 (1903)
+Annls mycol. 39: 377 (1941)
 
 #### Original name
 Hypochnus fuscoferruginosus Bres., 1903

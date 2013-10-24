@@ -1,8 +1,7 @@
-Geleia fossatta Kahl, 1933 SPECIES
-=======
+# Geleia fossata (Kahl, 1933) Foissner, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

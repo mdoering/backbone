@@ -1,5 +1,4 @@
-Coppinsia minutissima Lumbsch & Heibel SPECIES
-=======
+# Coppinsia minutissima Lumbsch & Heibel SPECIES
 
 #### Status
 ACCEPTED

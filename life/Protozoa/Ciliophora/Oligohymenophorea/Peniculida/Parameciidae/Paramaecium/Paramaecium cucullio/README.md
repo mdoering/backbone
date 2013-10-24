@@ -1,5 +1,4 @@
-Paramaecium cucullio SPECIES
-=======
+# Paramaecium cucullio SPECIES
 
 #### Status
 ACCEPTED

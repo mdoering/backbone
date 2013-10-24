@@ -1,5 +1,4 @@
-Coniophora fulvo-olivacea Massee SPECIES
-=======
+# Coniophora fulvo-olivacea Massee SPECIES
 
 #### Status
 ACCEPTED

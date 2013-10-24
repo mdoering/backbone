@@ -1,5 +1,4 @@
-Myxomonas Brzezinski, 1906 GENUS
-=======
+# Myxomonas Brzezinski, 1906 GENUS
 
 #### Status
 ACCEPTED

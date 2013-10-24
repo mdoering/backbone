@@ -1,5 +1,4 @@
-Lecanora minarum Vain. SPECIES
-=======
+# Lecanora minarum Vain. SPECIES
 
 #### Status
 ACCEPTED

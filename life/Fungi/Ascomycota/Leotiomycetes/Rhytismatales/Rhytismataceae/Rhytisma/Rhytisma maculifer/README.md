@@ -1,5 +1,4 @@
-Rhytisma maculifer Heer SPECIES
-=======
+# Rhytisma maculifer Heer SPECIES
 
 #### Status
 ACCEPTED

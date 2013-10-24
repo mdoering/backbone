@@ -1,5 +1,4 @@
-Sciniatosporium pusillum (P. Karst.) Morgan-Jones SPECIES
-=======
+# Sciniatosporium pusillum (P. Karst.) Morgan-Jones SPECIES
 
 #### Status
 ACCEPTED

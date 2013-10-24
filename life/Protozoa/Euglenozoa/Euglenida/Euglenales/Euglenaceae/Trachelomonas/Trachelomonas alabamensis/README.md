@@ -1,5 +1,4 @@
-Trachelomonas alabamensis C. E. de M. Bicudo & K. Woowski SPECIES
-=======
+# Trachelomonas alabamensis C. E. de M. Bicudo & K. Woowski SPECIES
 
 #### Status
 ACCEPTED

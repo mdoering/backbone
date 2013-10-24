@@ -1,5 +1,4 @@
-Adnatosphaeridium reticulense (Pastiels, 1948) De Coninck SPECIES
-=======
+# Adnatosphaeridium reticulense (Pastiels, 1948) De Coninck SPECIES
 
 #### Status
 ACCEPTED

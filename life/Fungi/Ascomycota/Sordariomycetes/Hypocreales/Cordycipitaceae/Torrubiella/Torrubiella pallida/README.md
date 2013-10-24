@@ -1,5 +1,4 @@
-Torrubiella pallida Kobayasi & Shimizu SPECIES
-=======
+# Torrubiella pallida Kobayasi & Shimizu SPECIES
 
 #### Status
 ACCEPTED

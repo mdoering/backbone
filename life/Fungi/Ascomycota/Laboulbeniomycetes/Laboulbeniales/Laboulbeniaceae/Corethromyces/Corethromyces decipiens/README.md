@@ -1,5 +1,4 @@
-Corethromyces decipiens Thaxt. SPECIES
-=======
+# Corethromyces decipiens Thaxt. SPECIES
 
 #### Status
 ACCEPTED

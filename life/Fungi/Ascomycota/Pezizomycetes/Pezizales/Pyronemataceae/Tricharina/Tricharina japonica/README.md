@@ -1,5 +1,4 @@
-Tricharina japonica Chin S. Yang & Korf SPECIES
-=======
+# Tricharina japonica Chin S. Yang & Korf SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Myriotrema secernendum (Harm.) Hale SPECIES
-=======
+# Myriotrema secernendum (Harm.) Hale SPECIES
 
 #### Status
 ACCEPTED

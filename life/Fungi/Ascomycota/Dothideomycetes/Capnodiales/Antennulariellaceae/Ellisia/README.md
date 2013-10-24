@@ -1,5 +1,4 @@
-Ellisia Batista & Peres, 1965 GENUS
-=======
+# Ellisia Batista & Peres, 1965 GENUS
 
 #### Status
 ACCEPTED

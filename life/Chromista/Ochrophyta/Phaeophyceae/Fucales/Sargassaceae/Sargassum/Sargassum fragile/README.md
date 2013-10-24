@@ -1,5 +1,4 @@
-Sargassum fragile J.Agardh, 1889 SPECIES
-=======
+# Sargassum fragile J.Agardh, 1889 SPECIES
 
 #### Status
 ACCEPTED

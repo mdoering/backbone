@@ -1,5 +1,4 @@
-Exobasidium vulcanicum Racib. SPECIES
-=======
+# Exobasidium vulcanicum Racib. SPECIES
 
 #### Status
 ACCEPTED

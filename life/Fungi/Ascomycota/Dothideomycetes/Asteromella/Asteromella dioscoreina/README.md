@@ -1,5 +1,4 @@
-Asteromella dioscoreina (Woron.) Vanev & Aa SPECIES
-=======
+# Asteromella dioscoreina (Woron.) Vanev & Aa SPECIES
 
 #### Status
 ACCEPTED

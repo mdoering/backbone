@@ -1,5 +1,4 @@
-Sclerotium euonymi Desm. SPECIES
-=======
+# Sclerotium euonymi Desm. SPECIES
 
 #### Status
 ACCEPTED

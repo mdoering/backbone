@@ -1,5 +1,4 @@
-Amphisphaeria hyalinospora Kirschst. SPECIES
-=======
+# Amphisphaeria hyalinospora Kirschst. SPECIES
 
 #### Status
 ACCEPTED

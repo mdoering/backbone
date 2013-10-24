@@ -1,5 +1,4 @@
-Lecidea phillipsiana Filson SPECIES
-=======
+# Lecidea phillipsiana Filson SPECIES
 
 #### Status
 ACCEPTED

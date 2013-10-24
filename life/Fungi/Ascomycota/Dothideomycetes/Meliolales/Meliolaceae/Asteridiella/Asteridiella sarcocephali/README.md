@@ -1,5 +1,4 @@
-Asteridiella sarcocephali (Hansf. & Deighton) Hansf. SPECIES
-=======
+# Asteridiella sarcocephali (Hansf. & Deighton) Hansf. SPECIES
 
 #### Status
 ACCEPTED

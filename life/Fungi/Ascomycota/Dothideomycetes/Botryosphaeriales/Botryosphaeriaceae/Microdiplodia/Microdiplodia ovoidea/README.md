@@ -1,5 +1,4 @@
-Microdiplodia ovoidea Alcalde SPECIES
-=======
+# Microdiplodia ovoidea Alcalde SPECIES
 
 #### Status
 ACCEPTED

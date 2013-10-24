@@ -1,5 +1,4 @@
-Phoma ericae (Fr.) Sacc. SPECIES
-=======
+# Phoma ericae (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

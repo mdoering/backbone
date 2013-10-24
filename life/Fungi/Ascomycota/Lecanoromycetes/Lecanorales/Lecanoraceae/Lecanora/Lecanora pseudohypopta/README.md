@@ -1,5 +1,4 @@
-Lecanora pseudohypopta Vain. SPECIES
-=======
+# Lecanora pseudohypopta Vain. SPECIES
 
 #### Status
 ACCEPTED

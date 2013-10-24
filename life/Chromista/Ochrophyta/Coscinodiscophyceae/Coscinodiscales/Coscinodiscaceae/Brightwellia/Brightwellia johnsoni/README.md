@@ -1,5 +1,4 @@
-Brightwellia johnsoni SPECIES
-=======
+# Brightwellia johnsoni SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pezizella lanceolatoparaphysata Rehm SPECIES
-=======
+# Pezizella lanceolatoparaphysata Rehm SPECIES
 
 #### Status
 ACCEPTED

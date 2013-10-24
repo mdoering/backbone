@@ -1,5 +1,4 @@
-Phyllosticta fagopyrina Sawada SPECIES
-=======
+# Phyllosticta fagopyrina Sawada SPECIES
 
 #### Status
 ACCEPTED

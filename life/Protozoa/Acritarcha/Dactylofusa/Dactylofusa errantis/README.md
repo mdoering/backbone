@@ -1,5 +1,4 @@
-Dactylofusa errantis (Pöthé de Baldis, 1971) Eisenack et al., 1976 SPECIES
-=======
+# Dactylofusa errantis (Pöthé de Baldis, 1971) Eisenack et al., 1976 SPECIES
 
 #### Status
 ACCEPTED

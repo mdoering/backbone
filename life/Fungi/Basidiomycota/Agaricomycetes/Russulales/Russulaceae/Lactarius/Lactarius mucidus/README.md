@@ -1,5 +1,4 @@
-Lactarius mucidus var. mucidus VARIETY
-=======
+# Lactarius mucidus Burl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Mem. Torrey bot. Club 14: 56 (1908)
 
 #### Original name
-Lactarius mucidus var. mucidus
+Lactarius mucidus Burl.
 
 ### Remarks
 null

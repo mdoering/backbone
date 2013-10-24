@@ -1,5 +1,4 @@
-Russula xanthoporphyrea Thiers SPECIES
-=======
+# Russula xanthoporphyrea Thiers SPECIES
 
 #### Status
 ACCEPTED

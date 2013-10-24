@@ -1,5 +1,4 @@
-Puccinia artemisiae-afrae Gjaerum SPECIES
-=======
+# Puccinia artemisiae-afrae Gjaerum SPECIES
 
 #### Status
 ACCEPTED

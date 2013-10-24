@@ -1,5 +1,4 @@
-Cercospora callicarpicola N. Naito SPECIES
-=======
+# Cercospora callicarpicola N. Naito SPECIES
 
 #### Status
 ACCEPTED

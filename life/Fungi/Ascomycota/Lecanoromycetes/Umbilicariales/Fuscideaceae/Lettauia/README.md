@@ -1,5 +1,4 @@
-Lettauia D. Hawksw. & R. Sant. GENUS
-=======
+# Lettauia D. Hawksw. & R. Sant. GENUS
 
 #### Status
 ACCEPTED

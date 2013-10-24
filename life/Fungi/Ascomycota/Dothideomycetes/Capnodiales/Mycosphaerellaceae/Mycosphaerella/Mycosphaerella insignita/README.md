@@ -1,5 +1,4 @@
-Mycosphaerella insignita Syd. SPECIES
-=======
+# Mycosphaerella insignita Syd. SPECIES
 
 #### Status
 ACCEPTED

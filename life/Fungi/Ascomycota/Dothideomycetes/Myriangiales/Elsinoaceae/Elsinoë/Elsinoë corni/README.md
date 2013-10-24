@@ -1,5 +1,4 @@
-Elsinoë corni Jenkins & Bitanc. SPECIES
-=======
+# Elsinoë corni Jenkins & Bitanc. SPECIES
 
 #### Status
 ACCEPTED

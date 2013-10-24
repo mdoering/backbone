@@ -1,5 +1,4 @@
-Xylographa stictica Fr. SPECIES
-=======
+# Xylographa stictica Fr. SPECIES
 
 #### Status
 ACCEPTED

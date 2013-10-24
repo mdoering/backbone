@@ -1,5 +1,4 @@
-Collema olivaceum Hook. f. SPECIES
-=======
+# Collema olivaceum Hook. f. SPECIES
 
 #### Status
 ACCEPTED

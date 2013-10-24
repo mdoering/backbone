@@ -1,5 +1,4 @@
-Dufourea madreporiformis (Wulfen) Ach. SPECIES
-=======
+# Dufourea madreporiformis (Wulfen) Ach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria obscura Th. Fr. SPECIES
-=======
+# Verrucaria obscura Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

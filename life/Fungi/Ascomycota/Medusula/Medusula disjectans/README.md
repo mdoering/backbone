@@ -1,5 +1,4 @@
-Medusula disjectans Nyl. SPECIES
-=======
+# Medusula disjectans Nyl. SPECIES
 
 #### Status
 ACCEPTED

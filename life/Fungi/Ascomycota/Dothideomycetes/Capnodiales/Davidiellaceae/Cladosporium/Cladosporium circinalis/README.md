@@ -1,5 +1,4 @@
-Cladosporium circinalis Grüss SPECIES
-=======
+# Cladosporium circinalis Grüss SPECIES
 
 #### Status
 ACCEPTED

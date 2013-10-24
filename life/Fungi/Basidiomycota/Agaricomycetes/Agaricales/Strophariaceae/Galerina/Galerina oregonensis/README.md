@@ -1,5 +1,4 @@
-Galerina oregonensis A.H. Sm. SPECIES
-=======
+# Galerina oregonensis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

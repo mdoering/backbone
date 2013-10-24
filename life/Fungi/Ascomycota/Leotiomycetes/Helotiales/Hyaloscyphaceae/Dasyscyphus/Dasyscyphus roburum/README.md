@@ -1,17 +1,16 @@
-Dasyscypha roburum Velen. SPECIES
-=======
+# Dasyscyphus roburum Velen. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Monogr. Discom. Bohem. (Prague) 237 (1934)
 
 #### Original name
-Dasyscypha roburum Velen.
+Dasyscyphus roburum Velen.
 
 ### Remarks
 null

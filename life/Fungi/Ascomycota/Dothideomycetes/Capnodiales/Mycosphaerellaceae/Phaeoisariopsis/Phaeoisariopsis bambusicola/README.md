@@ -1,5 +1,4 @@
-Phaeoisariopsis bambusicola Morgan-Jones SPECIES
-=======
+# Phaeoisariopsis bambusicola Morgan-Jones SPECIES
 
 #### Status
 ACCEPTED

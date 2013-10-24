@@ -1,5 +1,4 @@
-Pseudocercospora bagdogrensis (A.K. Kar & M. Mandal) Deighton SPECIES
-=======
+# Pseudocercospora bagdogrensis (A.K. Kar & M. Mandal) Deighton SPECIES
 
 #### Status
 ACCEPTED

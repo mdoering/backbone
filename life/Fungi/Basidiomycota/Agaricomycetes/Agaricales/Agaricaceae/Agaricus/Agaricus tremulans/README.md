@@ -1,5 +1,4 @@
-Agaricus tremulans Batsch SPECIES
-=======
+# Agaricus tremulans Batsch SPECIES
 
 #### Status
 ACCEPTED

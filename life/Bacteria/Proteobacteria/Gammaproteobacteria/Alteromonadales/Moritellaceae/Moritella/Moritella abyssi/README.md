@@ -1,5 +1,4 @@
-Moritella abyssi Xu et al., 2003 SPECIES
-=======
+# Moritella abyssi Xu et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

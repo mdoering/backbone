@@ -1,5 +1,4 @@
-Acrophialophora Edward GENUS
-=======
+# Acrophialophora Edward GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Platysma parietinum (L.) Frege SPECIES
-=======
+# Platysma parietinum (L.) Frege SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diorygma inaequale B.O. Sharma & Makhija SPECIES
-=======
+# Diorygma inaequale B.O. Sharma & Makhija SPECIES
 
 #### Status
 ACCEPTED

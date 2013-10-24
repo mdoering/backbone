@@ -1,5 +1,4 @@
-Atraporiella Ryvarden GENUS
-=======
+# Atraporiella Ryvarden GENUS
 
 #### Status
 ACCEPTED

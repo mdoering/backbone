@@ -1,5 +1,4 @@
-Artomyces austropiperatus Lickey, 2003 SPECIES
-=======
+# Artomyces austropiperatus Lickey, 2003 SPECIES
 
 #### Status
 ACCEPTED

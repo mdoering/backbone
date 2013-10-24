@@ -1,5 +1,4 @@
-Cladonia macrophyllodes Nyl. SPECIES
-=======
+# Cladonia macrophyllodes Nyl. SPECIES
 
 #### Status
 ACCEPTED

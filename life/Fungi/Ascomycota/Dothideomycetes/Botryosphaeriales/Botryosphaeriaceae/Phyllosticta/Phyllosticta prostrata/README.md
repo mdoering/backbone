@@ -1,5 +1,4 @@
-Phyllosticta prostrata Brunaud SPECIES
-=======
+# Phyllosticta prostrata Brunaud SPECIES
 
 #### Status
 ACCEPTED

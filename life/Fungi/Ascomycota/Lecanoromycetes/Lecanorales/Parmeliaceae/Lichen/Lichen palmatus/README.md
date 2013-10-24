@@ -1,5 +1,4 @@
-Lichen palmatus Humb. SPECIES
-=======
+# Lichen palmatus Humb. SPECIES
 
 #### Status
 ACCEPTED

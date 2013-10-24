@@ -1,5 +1,4 @@
-Kamptnerius Deflandre GENUS
-=======
+# Kamptnerius Deflandre GENUS
 
 #### Status
 ACCEPTED

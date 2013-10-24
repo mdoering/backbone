@@ -1,5 +1,4 @@
-Phacidium arctii Lib. SPECIES
-=======
+# Phacidium arctii Lib. SPECIES
 
 #### Status
 ACCEPTED

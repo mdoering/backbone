@@ -1,5 +1,4 @@
-Chlorobaculum thiosulfatiphilum Imhoff, 2003 SPECIES
-=======
+# Chlorobaculum thiosulfatiphilum Imhoff, 2003 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyanomonas J. Büttner, 1911 GENUS
-=======
+# Cyanomonas J. Büttner, 1911 GENUS
 
 #### Status
 ACCEPTED

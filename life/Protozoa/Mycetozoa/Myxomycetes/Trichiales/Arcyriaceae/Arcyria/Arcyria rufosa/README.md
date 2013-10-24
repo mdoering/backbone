@@ -1,5 +1,4 @@
-Arcyria rufosa S.J.Kaur & K.G. Mukerji, 1996 SPECIES
-=======
+# Arcyria rufosa S.J.Kaur & K.G. Mukerji, 1996 SPECIES
 
 #### Status
 ACCEPTED

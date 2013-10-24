@@ -1,14 +1,13 @@
-Panaeolina rhombisperma Hongo, 1973 SPECIES
-=======
+# Crucispora rhombisperma (Hongo) E. Horak, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Memoirs of Shiga University 23: 38 (1973)
+Sydowia 33: 57 (1980)
 
 #### Original name
 Panaeolina rhombisperma Hongo, 1973

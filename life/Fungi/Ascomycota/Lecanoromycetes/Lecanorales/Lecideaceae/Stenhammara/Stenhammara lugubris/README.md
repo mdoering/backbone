@@ -1,5 +1,4 @@
-Stenhammara lugubris A. Massal. SPECIES
-=======
+# Stenhammara lugubris A. Massal. SPECIES
 
 #### Status
 ACCEPTED

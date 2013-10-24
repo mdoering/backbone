@@ -1,14 +1,13 @@
-Ascospora nicholsonii (Cooke) Kuntze, 1898 SPECIES
-=======
+# Xenomeris nicholsonii (Cooke) Petr., 1928 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 444 (1898)
+Engler's Bot. Jahrb. , Biebl. 142(4): 136 (1928)
 
 #### Original name
 Stigmatea nicholsonii Cooke, 1882

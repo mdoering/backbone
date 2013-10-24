@@ -1,5 +1,4 @@
-Chaetomella helicotricha Torrend SPECIES
-=======
+# Chaetomella helicotricha Torrend SPECIES
 
 #### Status
 ACCEPTED

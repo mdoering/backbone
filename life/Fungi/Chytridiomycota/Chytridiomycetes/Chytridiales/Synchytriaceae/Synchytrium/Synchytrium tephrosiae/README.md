@@ -1,5 +1,4 @@
-Synchytrium tephrosiae M.S. Patil SPECIES
-=======
+# Synchytrium tephrosiae M.S. Patil SPECIES
 
 #### Status
 ACCEPTED

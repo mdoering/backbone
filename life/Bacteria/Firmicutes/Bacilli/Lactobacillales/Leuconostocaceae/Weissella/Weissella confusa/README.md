@@ -1,5 +1,4 @@
-Weissella confusa (Holzapfel & Kandler, 1969) Collins et al., 1994 SPECIES
-=======
+# Weissella confusa (Holzapfel & Kandler, 1969) Collins et al., 1994 SPECIES
 
 #### Status
 ACCEPTED

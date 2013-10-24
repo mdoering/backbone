@@ -1,5 +1,4 @@
-Xerocomus nigromaculatus Hongo SPECIES
-=======
+# Xerocomus nigromaculatus Hongo SPECIES
 
 #### Status
 ACCEPTED

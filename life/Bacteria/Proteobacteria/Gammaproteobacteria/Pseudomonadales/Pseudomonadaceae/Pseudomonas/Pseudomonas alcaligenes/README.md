@@ -1,5 +1,4 @@
-Pseudomonas alcaligenes Monias, 1928 (Approved Lists, 1980) SPECIES
-=======
+# Pseudomonas alcaligenes Monias, 1928 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

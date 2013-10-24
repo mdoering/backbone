@@ -1,5 +1,4 @@
-Dendryphion ellisii Cooke SPECIES
-=======
+# Dendryphion ellisii Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vestigium Piroz. & Shoemaker GENUS
-=======
+# Vestigium Piroz. & Shoemaker GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collybia brunneoumbonata Dennis SPECIES
-=======
+# Collybia brunneoumbonata Dennis SPECIES
 
 #### Status
 ACCEPTED

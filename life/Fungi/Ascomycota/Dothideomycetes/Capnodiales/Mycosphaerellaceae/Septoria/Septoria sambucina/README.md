@@ -1,5 +1,4 @@
-Septoria sambucina Peck SPECIES
-=======
+# Septoria sambucina Peck SPECIES
 
 #### Status
 ACCEPTED

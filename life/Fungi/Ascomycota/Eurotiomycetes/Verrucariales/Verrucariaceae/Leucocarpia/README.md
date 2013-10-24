@@ -1,5 +1,4 @@
-Leucocarpia Vezda GENUS
-=======
+# Leucocarpia Vezda GENUS
 
 #### Status
 ACCEPTED

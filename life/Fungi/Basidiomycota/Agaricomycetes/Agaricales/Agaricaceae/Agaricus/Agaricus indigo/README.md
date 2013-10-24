@@ -1,5 +1,4 @@
-Agaricus indigo Schwein. SPECIES
-=======
+# Agaricus indigo Schwein. SPECIES
 
 #### Status
 ACCEPTED

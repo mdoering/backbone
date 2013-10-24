@@ -1,5 +1,4 @@
-Xerocomus subdaedaleus J.Z. Ying SPECIES
-=======
+# Xerocomus subdaedaleus J.Z. Ying SPECIES
 
 #### Status
 ACCEPTED

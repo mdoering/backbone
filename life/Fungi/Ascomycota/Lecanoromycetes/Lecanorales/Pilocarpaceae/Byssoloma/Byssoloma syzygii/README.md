@@ -1,5 +1,4 @@
-Byssoloma syzygii Vezda & Vivant SPECIES
-=======
+# Byssoloma syzygii Vezda & Vivant SPECIES
 
 #### Status
 ACCEPTED

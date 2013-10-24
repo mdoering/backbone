@@ -1,5 +1,4 @@
-Palaeodiplodites yezoensis Kyoto Watan., H. Nishida & Tak. Kobay. SPECIES
-=======
+# Palaeodiplodites yezoensis Kyoto Watan., H. Nishida & Tak. Kobay. SPECIES
 
 #### Status
 ACCEPTED

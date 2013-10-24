@@ -1,5 +1,4 @@
-Istriloculina Neagu, 1984 GENUS
-=======
+# Istriloculina Neagu, 1984 GENUS
 
 #### Status
 ACCEPTED

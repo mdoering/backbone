@@ -1,5 +1,4 @@
-Cantharellus thorei Duby SPECIES
-=======
+# Cantharellus thorei Duby SPECIES
 
 #### Status
 ACCEPTED

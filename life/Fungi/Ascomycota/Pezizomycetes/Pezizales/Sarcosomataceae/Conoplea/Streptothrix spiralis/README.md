@@ -1,5 +1,4 @@
-Streptothrix spiralis Berk. SPECIES
-=======
+# Streptothrix spiralis Berk. SPECIES
 
 #### Status
 ACCEPTED

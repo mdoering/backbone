@@ -1,5 +1,4 @@
-Magnifolliculina binalata Uhlig, 1964 SPECIES
-=======
+# Magnifolliculina binalata Uhlig, 1964 SPECIES
 
 #### Status
 ACCEPTED

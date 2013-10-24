@@ -1,8 +1,7 @@
-Serpula hyodysenteriae (Harris et al., 1972) Stanton et al., 1991 SPECIES
-=======
+# Brachyspira hyodysenteriae (Harris et al., 1972) Ochiai et al., 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

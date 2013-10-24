@@ -1,5 +1,4 @@
-Pleurotus gilvescens (Kalchbr.) Sacc. SPECIES
-=======
+# Pleurotus gilvescens (Kalchbr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

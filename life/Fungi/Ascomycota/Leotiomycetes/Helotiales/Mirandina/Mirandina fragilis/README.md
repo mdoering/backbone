@@ -1,5 +1,4 @@
-Mirandina fragilis R.F. Castañeda & W.B. Kendr. SPECIES
-=======
+# Mirandina fragilis R.F. Castañeda & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gabura pycnocarpa (Nyl.) Kuntze SPECIES
-=======
+# Gabura pycnocarpa (Nyl.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

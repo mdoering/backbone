@@ -1,5 +1,4 @@
-Staurolithites dorfii SPECIES
-=======
+# Staurolithites dorfii SPECIES
 
 #### Status
 ACCEPTED

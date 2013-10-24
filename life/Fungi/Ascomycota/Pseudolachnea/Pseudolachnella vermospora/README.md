@@ -1,5 +1,4 @@
-Pseudolachnella vermospora R.L. Zhao, Y.M. Yang & G.C. Zhao SPECIES
-=======
+# Pseudolachnella vermospora R.L. Zhao, Y.M. Yang & G.C. Zhao SPECIES
 
 #### Status
 ACCEPTED

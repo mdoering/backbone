@@ -1,5 +1,4 @@
-Lichen roseus Vahl SPECIES
-=======
+# Lichen roseus Vahl SPECIES
 
 #### Status
 ACCEPTED

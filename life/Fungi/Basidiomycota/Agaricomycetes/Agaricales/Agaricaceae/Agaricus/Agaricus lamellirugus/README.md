@@ -1,5 +1,4 @@
-Agaricus lamellirugus DC. SPECIES
-=======
+# Agaricus lamellirugus DC. SPECIES
 
 #### Status
 ACCEPTED

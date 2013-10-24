@@ -1,5 +1,4 @@
-Buellia indica S.R. Singh & D.D. Awasthi SPECIES
-=======
+# Buellia indica S.R. Singh & D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

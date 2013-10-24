@@ -1,5 +1,4 @@
-Septoria agrimoniae-eupatoriae E. Bommer & M. Rousseau SPECIES
-=======
+# Septoria agrimoniae-eupatoriae E. Bommer & M. Rousseau SPECIES
 
 #### Status
 ACCEPTED

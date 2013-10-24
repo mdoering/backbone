@@ -1,8 +1,7 @@
-Lecanora socotrina Müll. Arg. SPECIES
-=======
+# Lecanora socotrana Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora socotrina Müll. Arg.
+Lecanora socotrana Müll. Arg.
 
 ### Remarks
 null

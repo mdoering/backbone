@@ -1,5 +1,4 @@
-Phaeoscypha Spooner GENUS
-=======
+# Phaeoscypha Spooner GENUS
 
 #### Status
 ACCEPTED

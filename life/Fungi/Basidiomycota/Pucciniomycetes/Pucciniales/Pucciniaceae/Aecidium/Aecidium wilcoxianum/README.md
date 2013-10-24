@@ -1,5 +1,4 @@
-Aecidium wilcoxianum Thüm. SPECIES
-=======
+# Aecidium wilcoxianum Thüm. SPECIES
 
 #### Status
 ACCEPTED

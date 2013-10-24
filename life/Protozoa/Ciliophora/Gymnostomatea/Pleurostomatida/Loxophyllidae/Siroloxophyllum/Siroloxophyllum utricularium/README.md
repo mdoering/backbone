@@ -1,8 +1,7 @@
-Loxophyllum utriculariea SPECIES
-=======
+# Siroloxophyllum utricularium (Penard, 1922) Foissner & Leipe, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

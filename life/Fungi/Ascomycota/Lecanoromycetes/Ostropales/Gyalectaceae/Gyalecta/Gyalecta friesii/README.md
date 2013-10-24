@@ -1,5 +1,4 @@
-Gyalecta friesii (A. Massal.) Körb. SPECIES
-=======
+# Gyalecta friesii (A. Massal.) Körb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladosporites Félix GENUS
-=======
+# Cladosporites Félix GENUS
 
 #### Status
 ACCEPTED

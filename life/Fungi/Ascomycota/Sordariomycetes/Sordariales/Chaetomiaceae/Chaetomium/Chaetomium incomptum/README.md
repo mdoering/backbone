@@ -1,5 +1,4 @@
-Chaetomium incomptum L.M. Ames SPECIES
-=======
+# Chaetomium incomptum L.M. Ames SPECIES
 
 #### Status
 ACCEPTED

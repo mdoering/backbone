@@ -1,5 +1,4 @@
-Fusidomus pruni Grove SPECIES
-=======
+# Fusidomus pruni Grove SPECIES
 
 #### Status
 ACCEPTED

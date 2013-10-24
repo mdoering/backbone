@@ -1,5 +1,4 @@
-Heteromycophaga P. Roberts GENUS
-=======
+# Heteromycophaga P. Roberts GENUS
 
 #### Status
 ACCEPTED

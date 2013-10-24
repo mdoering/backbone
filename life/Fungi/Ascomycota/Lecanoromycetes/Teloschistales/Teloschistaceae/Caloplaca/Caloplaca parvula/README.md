@@ -1,5 +1,4 @@
-Caloplaca parvula Wetmore SPECIES
-=======
+# Caloplaca parvula Wetmore SPECIES
 
 #### Status
 ACCEPTED

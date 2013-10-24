@@ -1,5 +1,4 @@
-Methylarcula terricola Doronina et al., 2000 SPECIES
-=======
+# Methylarcula terricola Doronina et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

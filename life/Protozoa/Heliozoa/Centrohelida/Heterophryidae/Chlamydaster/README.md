@@ -1,5 +1,4 @@
-Chlamydaster Rainer, 1968 GENUS
-=======
+# Chlamydaster Rainer, 1968 GENUS
 
 #### Status
 ACCEPTED

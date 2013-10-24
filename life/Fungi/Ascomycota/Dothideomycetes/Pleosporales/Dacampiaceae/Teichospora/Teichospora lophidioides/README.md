@@ -1,5 +1,4 @@
-Teichospora lophidioides Fautrey & Lambotte SPECIES
-=======
+# Teichospora lophidioides Fautrey & Lambotte SPECIES
 
 #### Status
 ACCEPTED

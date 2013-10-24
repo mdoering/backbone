@@ -1,5 +1,4 @@
-Microthyrium ranulisporum Doidge SPECIES
-=======
+# Microthyrium ranulisporum Doidge SPECIES
 
 #### Status
 ACCEPTED

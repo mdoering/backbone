@@ -1,5 +1,4 @@
-Agaricus rugosodisca Peck SPECIES
-=======
+# Agaricus rugosodisca Peck SPECIES
 
 #### Status
 ACCEPTED

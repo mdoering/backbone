@@ -1,5 +1,4 @@
-Buellia curtisii (Tuck.) Imshaug SPECIES
-=======
+# Buellia curtisii (Tuck.) Imshaug SPECIES
 
 #### Status
 ACCEPTED

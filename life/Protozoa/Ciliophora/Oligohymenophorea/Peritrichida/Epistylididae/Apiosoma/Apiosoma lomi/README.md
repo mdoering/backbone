@@ -1,5 +1,4 @@
-Apiosoma lomi SPECIES
-=======
+# Apiosoma lomi SPECIES
 
 #### Status
 ACCEPTED

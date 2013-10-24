@@ -1,14 +1,13 @@
-Dermascia reyesiana (Rehm) Tehon, 1935 SPECIES
-=======
+# Lophodermium reyesianum Rehm, 1914 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Illinois Biol. Monogr. (Urbana) 13(no. 4): 71 (1935)
+Leafl. of Philipp. Bot. 6(no. 103): 2233 (1914)
 
 #### Original name
 Lophodermium reyesianum Rehm, 1914

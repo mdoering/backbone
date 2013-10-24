@@ -1,5 +1,4 @@
-Rhabdolithes O. Schmidt, 1870 GENUS
-=======
+# Rhabdolithes O. Schmidt, 1870 GENUS
 
 #### Status
 ACCEPTED

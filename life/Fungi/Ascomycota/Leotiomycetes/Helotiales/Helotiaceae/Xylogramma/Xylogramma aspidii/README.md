@@ -1,5 +1,4 @@
-Xylogramma aspidii Velen. SPECIES
-=======
+# Xylogramma aspidii Velen. SPECIES
 
 #### Status
 ACCEPTED

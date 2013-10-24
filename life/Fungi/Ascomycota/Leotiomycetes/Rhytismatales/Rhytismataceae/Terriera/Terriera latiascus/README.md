@@ -1,5 +1,4 @@
-Terriera latiascus P.R. Johnst., 2001 SPECIES
-=======
+# Terriera latiascus P.R. Johnst., 2001 SPECIES
 
 #### Status
 ACCEPTED

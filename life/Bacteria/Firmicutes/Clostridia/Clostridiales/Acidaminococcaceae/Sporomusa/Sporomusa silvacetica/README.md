@@ -1,5 +1,4 @@
-Sporomusa silvacetica Kuhner et al., 1997 SPECIES
-=======
+# Sporomusa silvacetica Kuhner et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

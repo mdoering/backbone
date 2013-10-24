@@ -1,5 +1,4 @@
-Cryptococcus macroglossiae Castell. SPECIES
-=======
+# Cryptococcus macroglossiae Castell. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ophiobolus leptospermus (Speg.) Sacc. SPECIES
-=======
+# Ophiobolus leptospermus (Speg.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora pteleae G. Winter SPECIES
-=======
+# Cercospora pteleae G. Winter SPECIES
 
 #### Status
 ACCEPTED

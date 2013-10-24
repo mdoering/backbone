@@ -1,5 +1,4 @@
-Tintinnidium davidovi Daday, 1886 SPECIES
-=======
+# Tintinnidium davidovi Daday, 1886 SPECIES
 
 #### Status
 ACCEPTED

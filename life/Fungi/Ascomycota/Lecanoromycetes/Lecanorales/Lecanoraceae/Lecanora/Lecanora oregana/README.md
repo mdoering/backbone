@@ -1,5 +1,4 @@
-Lecanora oregana Tuck. SPECIES
-=======
+# Lecanora oregana Tuck. SPECIES
 
 #### Status
 ACCEPTED

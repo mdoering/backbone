@@ -1,5 +1,4 @@
-Lentomita brasiliensis Höhn. SPECIES
-=======
+# Lentomita brasiliensis Höhn. SPECIES
 
 #### Status
 ACCEPTED

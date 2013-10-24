@@ -1,5 +1,4 @@
-Penicillium erubescens D.B. Scott, 1968 SPECIES
-=======
+# Penicillium erubescens D.B. Scott, 1968 SPECIES
 
 #### Status
 DOUBTFUL

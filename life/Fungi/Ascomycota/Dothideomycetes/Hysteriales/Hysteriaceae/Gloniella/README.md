@@ -1,5 +1,4 @@
-Gloniella Sacc. GENUS
-=======
+# Gloniella Sacc. GENUS
 
 #### Status
 ACCEPTED

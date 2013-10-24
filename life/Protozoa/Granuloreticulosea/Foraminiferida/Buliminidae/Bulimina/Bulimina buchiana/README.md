@@ -1,5 +1,4 @@
-Bulimina buchiana SPECIES
-=======
+# Bulimina buchiana SPECIES
 
 #### Status
 ACCEPTED

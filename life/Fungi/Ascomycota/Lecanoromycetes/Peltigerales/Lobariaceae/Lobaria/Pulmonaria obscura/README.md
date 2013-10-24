@@ -1,5 +1,4 @@
-Pulmonaria obscura Dumort. SPECIES
-=======
+# Pulmonaria obscura Dumort. SPECIES
 
 #### Status
 ACCEPTED

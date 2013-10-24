@@ -1,5 +1,4 @@
-Sirosperma floridana E. West SPECIES
-=======
+# Sirosperma floridana E. West SPECIES
 
 #### Status
 ACCEPTED

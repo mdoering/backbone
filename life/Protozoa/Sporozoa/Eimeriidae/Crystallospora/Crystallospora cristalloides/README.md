@@ -1,8 +1,7 @@
-Eimeria crystalloides (Thelohan) of Dogel', 1948 SPECIES
-=======
+# Crystallospora cristalloides (Thélohan, 1893) Dyková & Lom, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

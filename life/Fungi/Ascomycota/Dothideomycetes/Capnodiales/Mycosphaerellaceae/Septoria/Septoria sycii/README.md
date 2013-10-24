@@ -1,5 +1,4 @@
-Septoria sycii Peck SPECIES
-=======
+# Septoria sycii Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laboulbenia cubensis Thaxt. SPECIES
-=======
+# Laboulbenia cubensis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

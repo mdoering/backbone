@@ -1,5 +1,4 @@
-Macrophoma ulmi Fautrey SPECIES
-=======
+# Macrophoma ulmi Fautrey SPECIES
 
 #### Status
 ACCEPTED

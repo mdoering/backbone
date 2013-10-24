@@ -1,5 +1,4 @@
-Peccania salevensis (Müll. Arg.) Forssell SPECIES
-=======
+# Peccania salevensis (Müll. Arg.) Forssell SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Prorodon cinctus Foissner, 1983 SPECIES
-=======
+# Prorodon cinctum Foissner, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

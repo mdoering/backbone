@@ -1,5 +1,4 @@
-Coscinodiscus angstii Gran, 1931 SPECIES
-=======
+# Coscinodiscus angstii Gran, 1931 SPECIES
 
 #### Status
 ACCEPTED

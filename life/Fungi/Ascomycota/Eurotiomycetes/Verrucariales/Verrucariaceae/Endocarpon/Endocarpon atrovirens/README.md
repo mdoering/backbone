@@ -1,5 +1,4 @@
-Endocarpon atrovirens Clemente SPECIES
-=======
+# Endocarpon atrovirens Clemente SPECIES
 
 #### Status
 ACCEPTED

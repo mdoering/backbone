@@ -1,5 +1,4 @@
-Chiastozygus tenuis Black, 1971 SPECIES
-=======
+# Chiastozygus tenuis Black, 1971 SPECIES
 
 #### Status
 ACCEPTED

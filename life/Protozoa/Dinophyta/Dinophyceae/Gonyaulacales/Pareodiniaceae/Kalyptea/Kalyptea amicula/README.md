@@ -1,5 +1,4 @@
-Kalyptea amicula (W. S. Drugg) K. P. Jain & P. Millepied SPECIES
-=======
+# Kalyptea amicula (W. S. Drugg) K. P. Jain & P. Millepied SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia revoluta var. revoluta VARIETY
-=======
+# Parmelia revoluta SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-in Sprengel, Syst. veg. , Edn 16 4(1): 248 (1827)
+null
 
 #### Original name
-Parmelia revoluta var. revoluta
+null
 
 ### Remarks
 null

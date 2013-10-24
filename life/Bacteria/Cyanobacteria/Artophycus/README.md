@@ -1,5 +1,4 @@
-Artophycus J.H.Johnson GENUS
-=======
+# Artophycus J.H.Johnson GENUS
 
 #### Status
 ACCEPTED

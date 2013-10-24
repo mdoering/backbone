@@ -1,5 +1,4 @@
-Caeoma cernuae Lindf. SPECIES
-=======
+# Caeoma cernuae Lindf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria cothenensis Zschacke SPECIES
-=======
+# Verrucaria cothenensis Zschacke SPECIES
 
 #### Status
 ACCEPTED

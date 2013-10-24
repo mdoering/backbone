@@ -1,5 +1,4 @@
-Guignardia harunganae Sivan. & Okpala SPECIES
-=======
+# Guignardia harunganae Sivan. & Okpala SPECIES
 
 #### Status
 ACCEPTED

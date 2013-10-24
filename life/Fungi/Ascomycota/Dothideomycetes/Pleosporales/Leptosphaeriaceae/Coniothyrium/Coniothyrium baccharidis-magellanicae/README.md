@@ -1,5 +1,4 @@
-Coniothyrium baccharidis-magellanicae Cotton SPECIES
-=======
+# Coniothyrium baccharidis-magellanicae Cotton SPECIES
 
 #### Status
 ACCEPTED

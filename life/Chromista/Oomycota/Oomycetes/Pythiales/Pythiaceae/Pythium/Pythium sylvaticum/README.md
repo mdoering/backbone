@@ -1,5 +1,4 @@
-Pythium sylvaticum W.A. Campb. & F.F. Hendrix, 1967 SPECIES
-=======
+# Pythium sylvaticum W.A. Campb. & F.F. Hendrix, 1967 SPECIES
 
 #### Status
 ACCEPTED

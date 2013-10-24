@@ -1,5 +1,4 @@
-Ceuthospora liriodendri Westend. SPECIES
-=======
+# Ceuthospora liriodendri Westend. SPECIES
 
 #### Status
 ACCEPTED

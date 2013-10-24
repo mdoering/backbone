@@ -1,5 +1,4 @@
-Teichospora amygdaloides Ellis & Everh. SPECIES
-=======
+# Teichospora amygdaloides Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

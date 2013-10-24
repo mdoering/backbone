@@ -1,5 +1,4 @@
-Physcia asiana Nyl. SPECIES
-=======
+# Physcia asiana Nyl. SPECIES
 
 #### Status
 ACCEPTED

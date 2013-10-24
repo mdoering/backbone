@@ -1,5 +1,4 @@
-Russula pseudoepitheliosa Buyck SPECIES
-=======
+# Russula pseudoepitheliosa Buyck SPECIES
 
 #### Status
 ACCEPTED

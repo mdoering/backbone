@@ -1,5 +1,4 @@
-Pyrenula oroferensis SPECIES
-=======
+# Pyrenula oroferensis SPECIES
 
 #### Status
 ACCEPTED

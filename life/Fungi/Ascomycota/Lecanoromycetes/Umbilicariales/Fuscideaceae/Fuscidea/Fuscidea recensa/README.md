@@ -1,17 +1,16 @@
-Fuscidea recensa var. recensa VARIETY
-=======
+# Fuscidea recensa (Stirt.) Hertel, V. Wirth & Vezda SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Beitr. Naturk. Forsch. Südwestdeutschl. 31: 92 (1972)
 
 #### Original name
-null
+Lecidea recensa Stirt.
 
 ### Remarks
 null

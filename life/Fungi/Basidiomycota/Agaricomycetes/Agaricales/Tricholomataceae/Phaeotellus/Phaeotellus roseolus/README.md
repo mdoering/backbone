@@ -1,14 +1,13 @@
-Pleurotus roseolus Quél., 1880 SPECIES
-=======
+# Phaeotellus roseolus (Quél.) E. Horak, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. Amis Sci. Nat. Rouen, Série II 15: 7 (1880)
+Röhrlinge und Blätterpilze in Europa, Fussend auf Moser, 5 Aufl. (1983): <i>Kleine Kryptogamenflora</i> Band 2, Teil b2. Gustav Fischer Verlag. Bestimmungsschlüssel für <i>Polyporales</i> (<i>p. p. </i>), <i>Boletales</i>, <i>Agaricales</i>, <i>Russulales</i> 509 (2005)
 
 #### Original name
 Pleurotus roseolus Quél., 1880

@@ -1,5 +1,4 @@
-Marasmius griseofuscescens Singer SPECIES
-=======
+# Marasmius griseofuscescens Singer SPECIES
 
 #### Status
 ACCEPTED

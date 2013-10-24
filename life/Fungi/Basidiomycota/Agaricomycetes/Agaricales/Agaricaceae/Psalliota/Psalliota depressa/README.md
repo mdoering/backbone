@@ -1,5 +1,4 @@
-Psalliota depressa Velen. SPECIES
-=======
+# Psalliota depressa Velen. SPECIES
 
 #### Status
 ACCEPTED

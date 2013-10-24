@@ -1,5 +1,4 @@
-Chroodiscus defectus Papong & Lücking SPECIES
-=======
+# Chroodiscus defectus Papong & Lücking SPECIES
 
 #### Status
 ACCEPTED

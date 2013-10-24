@@ -1,5 +1,4 @@
-Septoria polygonati-polyanthemi Woron. SPECIES
-=======
+# Septoria polygonati-polyanthemi Woron. SPECIES
 
 #### Status
 ACCEPTED

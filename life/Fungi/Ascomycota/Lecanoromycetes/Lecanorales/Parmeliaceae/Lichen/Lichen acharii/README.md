@@ -1,5 +1,4 @@
-Lichen acharii var. acharii VARIETY
-=======
+# Lichen acharii Ach. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lichen acharii var. acharii
+Lichen acharii Ach.
 
 ### Remarks
 null

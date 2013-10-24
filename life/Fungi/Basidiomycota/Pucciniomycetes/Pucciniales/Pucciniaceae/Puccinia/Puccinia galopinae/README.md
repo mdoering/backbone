@@ -1,5 +1,4 @@
-Puccinia galopinae Cooke SPECIES
-=======
+# Puccinia galopinae Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Monosporonella Oberw. & Ryvarden GENUS
-=======
+# Oliveonia Donk, 1958 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Mycol. Res. 95(3): 377 (1991)
+null
 
 #### Original name
-Monosporonella Oberw. & Ryvarden
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Placosphaerella silvatica Sacc. SPECIES
-=======
+# Placosphaerella silvatica Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola wendlandiae Hosag. SPECIES
-=======
+# Meliola wendlandiae Hosag. SPECIES
 
 #### Status
 ACCEPTED

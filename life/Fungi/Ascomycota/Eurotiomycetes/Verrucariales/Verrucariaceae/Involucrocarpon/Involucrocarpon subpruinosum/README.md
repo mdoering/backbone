@@ -1,5 +1,4 @@
-Involucrocarpon subpruinosum (Servít) Servít SPECIES
-=======
+# Involucrocarpon subpruinosum (Servít) Servít SPECIES
 
 #### Status
 ACCEPTED

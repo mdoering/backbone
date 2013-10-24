@@ -1,5 +1,4 @@
-Stauronematopsis Abbas, B. Sutton & Ghaffar GENUS
-=======
+# Stauronematopsis Abbas, B. Sutton & Ghaffar GENUS
 
 #### Status
 ACCEPTED

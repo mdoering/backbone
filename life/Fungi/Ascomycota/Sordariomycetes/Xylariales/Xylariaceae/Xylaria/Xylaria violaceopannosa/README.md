@@ -1,5 +1,4 @@
-Xylaria violaceopannosa Starbäck SPECIES
-=======
+# Xylaria violaceopannosa Starbäck SPECIES
 
 #### Status
 ACCEPTED

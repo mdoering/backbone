@@ -1,5 +1,4 @@
-Metasphaeria hibiscincola Rehm SPECIES
-=======
+# Metasphaeria hibiscincola Rehm SPECIES
 
 #### Status
 ACCEPTED

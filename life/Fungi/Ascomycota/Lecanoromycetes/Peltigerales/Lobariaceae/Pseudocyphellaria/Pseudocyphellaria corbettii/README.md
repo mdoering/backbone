@@ -1,5 +1,4 @@
-Pseudocyphellaria corbettii D.J. Galloway SPECIES
-=======
+# Pseudocyphellaria corbettii D.J. Galloway SPECIES
 
 #### Status
 ACCEPTED

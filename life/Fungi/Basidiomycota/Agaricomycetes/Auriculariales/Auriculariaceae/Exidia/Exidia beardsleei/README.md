@@ -1,5 +1,4 @@
-Exidia beardsleei Lloyd SPECIES
-=======
+# Exidia beardsleei Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gyangzesphaera Wang & Sheng, 1982 GENUS
-=======
+# Gyangzesphaera Wang & Sheng, 1982 GENUS
 
 #### Status
 ACCEPTED

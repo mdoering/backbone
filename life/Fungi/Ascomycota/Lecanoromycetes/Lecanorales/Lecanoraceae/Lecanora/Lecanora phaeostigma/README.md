@@ -1,17 +1,16 @@
-Lecidea obscurella f. obscurella FORM
-=======
+# Lecanora phaeostigma (Körb.) Almb. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Santesson, The Lichens of Sweden and Norway (Stockholm) 148 (1984)
 
 #### Original name
-Lecidea obscurella f. obscurella
+Biatora phaeostigma Körb.
 
 ### Remarks
 null

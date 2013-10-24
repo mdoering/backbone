@@ -1,5 +1,4 @@
-Xanthoparmelia obscurata Hale SPECIES
-=======
+# Xanthoparmelia obscurata Hale SPECIES
 
 #### Status
 ACCEPTED

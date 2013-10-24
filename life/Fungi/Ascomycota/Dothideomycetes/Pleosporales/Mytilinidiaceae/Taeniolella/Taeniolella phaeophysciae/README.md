@@ -1,5 +1,4 @@
-Taeniolella phaeophysciae D. Hawksw., 1979 SPECIES
-=======
+# Taeniolella phaeophysciae D. Hawksw., 1979 SPECIES
 
 #### Status
 ACCEPTED

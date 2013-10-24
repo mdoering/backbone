@@ -1,5 +1,4 @@
-Fusibacter paucivorans Ravot et al., 1999 SPECIES
-=======
+# Fusibacter paucivorans Ravot et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhabdospora dolosa Syd. & P. Syd. SPECIES
-=======
+# Rhabdospora dolosa Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

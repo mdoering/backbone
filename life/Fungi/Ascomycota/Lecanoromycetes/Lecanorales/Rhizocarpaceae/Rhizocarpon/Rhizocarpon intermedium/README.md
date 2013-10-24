@@ -1,5 +1,4 @@
-Rhizocarpon intermedium Degel. SPECIES
-=======
+# Rhizocarpon intermedium Degel. SPECIES
 
 #### Status
 ACCEPTED

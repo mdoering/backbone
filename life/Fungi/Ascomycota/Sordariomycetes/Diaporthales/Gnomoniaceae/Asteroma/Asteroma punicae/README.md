@@ -1,5 +1,4 @@
-Asteroma punicae (Mont.) Sacc. SPECIES
-=======
+# Asteroma punicae (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bracchiogonium ophiaster (Pascher) Ettl SPECIES
-=======
+# Bracchiogonium ophiaster (Pascher) Ettl SPECIES
 
 #### Status
 ACCEPTED

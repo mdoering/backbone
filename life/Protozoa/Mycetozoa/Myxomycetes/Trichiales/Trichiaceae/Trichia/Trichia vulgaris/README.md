@@ -1,5 +1,4 @@
-Trichia vulgaris Pers. SPECIES
-=======
+# Trichia vulgaris Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verneuilinoides schizea (Cushman & Alexander) SPECIES
-=======
+# Verneuilinoides schizea (Cushman & Alexander) SPECIES
 
 #### Status
 ACCEPTED

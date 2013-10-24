@@ -1,5 +1,4 @@
-Mucor fimetarius Link SPECIES
-=======
+# Mucor fimetarius Link SPECIES
 
 #### Status
 ACCEPTED

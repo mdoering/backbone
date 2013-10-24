@@ -1,5 +1,4 @@
-Phialea subgalbula Rehm SPECIES
-=======
+# Phialea subgalbula Rehm SPECIES
 
 #### Status
 ACCEPTED

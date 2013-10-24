@@ -1,5 +1,4 @@
-Clitocybe pengellei (Berk. & Broome) Sacc. SPECIES
-=======
+# Clitocybe pengellei (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

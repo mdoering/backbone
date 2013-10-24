@@ -1,5 +1,4 @@
-Libertella macrospora Westend. SPECIES
-=======
+# Libertella macrospora Westend. SPECIES
 
 #### Status
 ACCEPTED

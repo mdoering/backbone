@@ -1,5 +1,4 @@
-Septoria serpentaria Ellis & G. Martin SPECIES
-=======
+# Septoria serpentaria Ellis & G. Martin SPECIES
 
 #### Status
 ACCEPTED

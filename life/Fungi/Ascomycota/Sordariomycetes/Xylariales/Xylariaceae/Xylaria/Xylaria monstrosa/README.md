@@ -1,5 +1,4 @@
-Xylaria monstrosa A. Pande, Waing., L. Prasad, Y. Vaidya & Vaidya, 2001 SPECIES
-=======
+# Xylaria monstrosa A. Pande, Waing., L. Prasad, Y. Vaidya & Vaidya, 2001 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sticta austrobrasiliensis f. austrobrasiliensis FORM
-=======
+# Sticta austrobrasiliensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sticta austrobrasiliensis f. austrobrasiliensis
+Sticta austrobrasiliensis Zahlbr.
 
 ### Remarks
 null

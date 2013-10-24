@@ -1,5 +1,4 @@
-Fungites Hallier, 1865 GENUS
-=======
+# Fungites Hallier, 1865 GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Phoma juglandina (Fuckel) Sacc., 1879 SPECIES
-=======
+# Diaporthe juglandina (Fuckel) Nitschke, 1870 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Michelia 1(no. 5): 521 (1879)
+Pyrenomycetes Germanici 23-24: 281 (1870)
 
 #### Original name
 Aglaospora juglandina Fuckel, 1868

@@ -1,17 +1,16 @@
-Opegrapha epipasta (Ach.) Ach. SPECIES
-=======
+# Arthonia excipienda (Nyl.) Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Lich. Scand. (Uppsala) 261 (1861)
 
 #### Original name
-Lichen epipastus Ach.
+Arthonia astroides var. excipienda Nyl.
 
 ### Remarks
 null

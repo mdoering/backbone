@@ -1,5 +1,4 @@
-Anthracothecium dimorphum (Vain.) Zahlbr. SPECIES
-=======
+# Anthracothecium dimorphum (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

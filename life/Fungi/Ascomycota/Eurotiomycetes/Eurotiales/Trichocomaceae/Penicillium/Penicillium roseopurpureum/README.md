@@ -1,17 +1,16 @@
-Penicillium vaccaeorum Quintan., 1982 SPECIES
-=======
+# Penicillium roseopurpureum Dierckx, 1901 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycopathologia 80(2): 77 (1982)
+Annals de la Soc. Scientifique Bruxelles 25: 86 (1901)
 
 #### Original name
-Penicillium vaccaeorum Quintan., 1982
+Penicillium roseopurpureum Dierckx, 1901
 
 ### Remarks
 null

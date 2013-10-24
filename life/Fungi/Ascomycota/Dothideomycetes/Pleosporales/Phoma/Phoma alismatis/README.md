@@ -1,5 +1,4 @@
-Phoma alismatis Henn. & Staritz SPECIES
-=======
+# Phoma alismatis Henn. & Staritz SPECIES
 
 #### Status
 ACCEPTED

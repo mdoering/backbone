@@ -1,5 +1,4 @@
-Mycosphaerella inaequalis I. Hino & Katum. SPECIES
-=======
+# Mycosphaerella inaequalis I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

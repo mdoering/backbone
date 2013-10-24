@@ -1,14 +1,13 @@
-Melanomma holmskioldii (P. Karst.) Sacc. SPECIES
-=======
+# Melanomma holmskjoldii (P. Karst.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 2: 101 (1883)
 
 #### Original name
 Sphaeria holmskjoldii P. Karst.

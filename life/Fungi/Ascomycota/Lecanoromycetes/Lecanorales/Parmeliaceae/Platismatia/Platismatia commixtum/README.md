@@ -1,5 +1,4 @@
-Platismatia commixtum Nyl. SPECIES
-=======
+# Platismatia commixtum Nyl. SPECIES
 
 #### Status
 ACCEPTED

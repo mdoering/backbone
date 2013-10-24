@@ -1,5 +1,4 @@
-Bactrodesmium rahmii M.B. Ellis SPECIES
-=======
+# Bactrodesmium rahmii M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

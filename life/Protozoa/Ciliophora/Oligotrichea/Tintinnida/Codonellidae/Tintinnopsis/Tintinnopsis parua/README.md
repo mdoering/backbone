@@ -1,5 +1,4 @@
-Tintinnopsis parua SPECIES
-=======
+# Tintinnopsis parua SPECIES
 
 #### Status
 ACCEPTED

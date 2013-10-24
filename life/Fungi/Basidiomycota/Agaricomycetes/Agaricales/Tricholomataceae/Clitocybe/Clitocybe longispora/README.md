@@ -1,5 +1,4 @@
-Clitocybe longispora (Métrod) Singer SPECIES
-=======
+# Clitocybe longispora (Métrod) Singer SPECIES
 
 #### Status
 ACCEPTED

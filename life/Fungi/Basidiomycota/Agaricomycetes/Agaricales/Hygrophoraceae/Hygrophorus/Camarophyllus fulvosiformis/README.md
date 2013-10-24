@@ -1,5 +1,4 @@
-Camarophyllus fulvosiformis Murrill SPECIES
-=======
+# Camarophyllus fulvosiformis Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Monilia fructicola L.R. Batra, 1991 SPECIES
-=======
+# Monilinia fructicola (G. Winter) Honey, 1928 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Mem. 16: 110 (1991)
+Mycologia 20(3): 153 (1928)
 
 #### Original name
-Monilia fructicola L.R. Batra, 1991
+Ciboria fructicola G. Winter, 1883
 
 ### Remarks
 null

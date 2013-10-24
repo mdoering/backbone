@@ -1,5 +1,4 @@
-Xerotus drummondii Berk. SPECIES
-=======
+# Xerotus drummondii Berk. SPECIES
 
 #### Status
 ACCEPTED

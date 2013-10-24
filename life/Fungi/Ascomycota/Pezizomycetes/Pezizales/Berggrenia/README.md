@@ -1,5 +1,4 @@
-Berggrenia Cooke, 1879 GENUS
-=======
+# Berggrenia Cooke, 1879 GENUS
 
 #### Status
 ACCEPTED

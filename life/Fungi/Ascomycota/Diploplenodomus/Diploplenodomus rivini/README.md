@@ -1,5 +1,4 @@
-Diploplenodomus rivini (Allesch.) Petr. SPECIES
-=======
+# Diploplenodomus rivini (Allesch.) Petr. SPECIES
 
 #### Status
 ACCEPTED

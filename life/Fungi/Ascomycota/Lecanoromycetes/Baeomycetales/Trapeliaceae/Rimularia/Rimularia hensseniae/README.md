@@ -1,5 +1,4 @@
-Rimularia hensseniae Hertel & Rambold SPECIES
-=======
+# Rimularia hensseniae Hertel & Rambold SPECIES
 
 #### Status
 ACCEPTED

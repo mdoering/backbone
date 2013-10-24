@@ -1,5 +1,4 @@
-Pyrenochaeta hispidula Sacc. SPECIES
-=======
+# Pyrenochaeta hispidula Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Colletotrichum nigrum Ellis & Halst., 1890 SPECIES
-=======
+# Colletotrichum nigrum Ellis & Halst., 1890 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stereum cartilagineum (Fr.) Fr. SPECIES
-=======
+# Stereum cartilagineum (Fr.) Fr. SPECIES
 
 #### Status
 ACCEPTED

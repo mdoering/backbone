@@ -1,5 +1,4 @@
-Cercospora paederiae Sawada SPECIES
-=======
+# Cercospora paederiae Sawada SPECIES
 
 #### Status
 ACCEPTED

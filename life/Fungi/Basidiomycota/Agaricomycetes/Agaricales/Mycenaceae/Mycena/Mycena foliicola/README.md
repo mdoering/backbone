@@ -1,5 +1,4 @@
-Mycena foliicola Métrod SPECIES
-=======
+# Mycena foliicola Métrod SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Repetophragma fasciata (R.F. Castañeda) R.F. Castañeda, Gusmão & Saikawa SPECIES
-=======
+# Repetophragma fasciatum (R.F. Castañeda) R.F. Castañeda, Gusmão & Saikawa SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Castañeda Ruíz, Gusmão, Heredia Abarca, & Saikawa, Mycotaxon 95: 269 (2006)
 
 #### Original name
 Chaetendophragmia fasciata R.F. Castañeda

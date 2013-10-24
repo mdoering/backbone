@@ -1,5 +1,4 @@
-Cordyceps guizhouensis Zuo Y. Liu, Z.Q. Liang & A.Y. Liu SPECIES
-=======
+# Cordyceps guizhouensis Zuo Y. Liu, Z.Q. Liang & A.Y. Liu SPECIES
 
 #### Status
 ACCEPTED

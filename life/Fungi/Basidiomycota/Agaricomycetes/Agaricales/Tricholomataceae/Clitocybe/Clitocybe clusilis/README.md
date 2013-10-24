@@ -1,5 +1,4 @@
-Clitocybe clusilis (Fr.) Singer SPECIES
-=======
+# Clitocybe clusilis (Fr.) Singer SPECIES
 
 #### Status
 ACCEPTED

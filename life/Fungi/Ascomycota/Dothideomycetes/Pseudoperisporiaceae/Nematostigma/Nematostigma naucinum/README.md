@@ -1,5 +1,4 @@
-Nematostigma naucinum Syd. SPECIES
-=======
+# Nematostigma naucinum Syd. SPECIES
 
 #### Status
 ACCEPTED

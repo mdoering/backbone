@@ -1,5 +1,4 @@
-Pleospora baatanensis Petr. SPECIES
-=======
+# Pleospora baatanensis Petr. SPECIES
 
 #### Status
 ACCEPTED

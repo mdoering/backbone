@@ -1,5 +1,4 @@
-Mytilinidion scolecosporum M.L. Lohman, 1932 SPECIES
-=======
+# Mytilinidion scolecosporum M.L. Lohman, 1932 SPECIES
 
 #### Status
 ACCEPTED

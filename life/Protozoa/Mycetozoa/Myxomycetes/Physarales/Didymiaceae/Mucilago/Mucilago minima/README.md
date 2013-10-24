@@ -1,5 +1,4 @@
-Mucilago minima P. Micheli SPECIES
-=======
+# Mucilago minima P. Micheli SPECIES
 
 #### Status
 ACCEPTED

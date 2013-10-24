@@ -1,5 +1,4 @@
-Curreya pusilla P. Karst. & Malbr. SPECIES
-=======
+# Curreya pusilla P. Karst. & Malbr. SPECIES
 
 #### Status
 ACCEPTED

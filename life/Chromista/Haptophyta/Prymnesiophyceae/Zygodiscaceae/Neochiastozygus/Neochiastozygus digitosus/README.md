@@ -1,5 +1,4 @@
-Neochiastozygus digitosus Perch-Nielsen, 1971 SPECIES
-=======
+# Neochiastozygus digitosus Perch-Nielsen, 1971 SPECIES
 
 #### Status
 ACCEPTED

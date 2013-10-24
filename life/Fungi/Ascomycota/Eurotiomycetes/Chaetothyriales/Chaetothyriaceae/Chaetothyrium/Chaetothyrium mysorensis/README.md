@@ -1,5 +1,4 @@
-Chaetothyrium mysorensis Hansf. & Thirum. SPECIES
-=======
+# Chaetothyrium mysorensis Hansf. & Thirum. SPECIES
 
 #### Status
 ACCEPTED

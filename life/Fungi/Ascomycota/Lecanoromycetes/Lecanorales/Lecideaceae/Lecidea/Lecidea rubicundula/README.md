@@ -1,5 +1,4 @@
-Lecidea rubicundula Vain. SPECIES
-=======
+# Lecidea rubicundula Vain. SPECIES
 
 #### Status
 ACCEPTED

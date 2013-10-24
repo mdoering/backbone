@@ -1,5 +1,4 @@
-Phaeospora Hepp ex Stein GENUS
-=======
+# Phaeospora Hepp ex Stein GENUS
 
 #### Status
 ACCEPTED

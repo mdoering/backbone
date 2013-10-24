@@ -1,5 +1,4 @@
-Melosira subflexilis Kützing SPECIES
-=======
+# Melosira subflexilis Kützing SPECIES
 
 #### Status
 ACCEPTED

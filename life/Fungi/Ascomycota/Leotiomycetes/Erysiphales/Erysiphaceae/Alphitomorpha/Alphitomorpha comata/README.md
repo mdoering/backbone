@@ -1,5 +1,4 @@
-Alphitomorpha comata Wallr. SPECIES
-=======
+# Alphitomorpha comata Wallr. SPECIES
 
 #### Status
 ACCEPTED

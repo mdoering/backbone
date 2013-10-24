@@ -1,5 +1,4 @@
-Metasphaeria javensis Höhn. SPECIES
-=======
+# Metasphaeria javensis Höhn. SPECIES
 
 #### Status
 ACCEPTED

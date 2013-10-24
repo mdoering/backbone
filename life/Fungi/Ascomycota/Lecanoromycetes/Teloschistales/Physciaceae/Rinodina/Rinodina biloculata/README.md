@@ -1,14 +1,13 @@
-Buellia biloculata var. biloculata (Nyl.) H. Olivier VARIETY
-=======
+# Rinodina biloculata (Nyl.) Sheard SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lichenologist 3: 344 (1967)
 
 #### Original name
 Lecidea biloculata Nyl.

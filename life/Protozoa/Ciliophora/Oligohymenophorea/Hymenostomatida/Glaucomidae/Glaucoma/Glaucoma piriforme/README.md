@@ -1,5 +1,4 @@
-Glaucoma piriforme SPECIES
-=======
+# Glaucoma piriforme SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psilocybe sanctorum Guzmán SPECIES
-=======
+# Psilocybe sanctorum Guzmán SPECIES
 
 #### Status
 ACCEPTED

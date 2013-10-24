@@ -1,17 +1,16 @@
-Dasyscypha plebeius Le Gal SPECIES
-=======
+# Dasyscyphus plebeius Le Gal SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Les Discomycetes de Madagascar 419 (1953)
 
 #### Original name
-Dasyscypha plebeius Le Gal
+Dasyscyphus plebeius Le Gal
 
 ### Remarks
 null

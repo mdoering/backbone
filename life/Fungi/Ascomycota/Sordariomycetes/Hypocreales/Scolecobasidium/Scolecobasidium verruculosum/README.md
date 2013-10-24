@@ -1,14 +1,13 @@
-Ochroconis verruculosa (R.Y. Roy, R.S. Dwivedi & R.R. Mishra) de Hoog & Arx, 1973 SPECIES
-=======
+# Scolecobasidium verruculosum R.Y. Roy, R.S. Dwivedi & R.R. Mishra, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Kavaka 1: 58 (1973)
+Lloydia 25: 164 (1962)
 
 #### Original name
 Scolecobasidium verruculosum R.Y. Roy, R.S. Dwivedi & R.R. Mishra, 1962

@@ -1,5 +1,4 @@
-Eutintinnus rectus (Wailes, 1925) SPECIES
-=======
+# Eutintinnus rectus (Wailes, 1925) SPECIES
 
 #### Status
 ACCEPTED

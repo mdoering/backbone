@@ -1,5 +1,4 @@
-Psorotichia frustulosa Anzi SPECIES
-=======
+# Psorotichia frustulosa Anzi SPECIES
 
 #### Status
 ACCEPTED

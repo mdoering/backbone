@@ -1,14 +1,13 @@
-Podospora clavispora S.I. Ahmed & J.H. Mirza, 1970 SPECIES
-=======
+# Camptosphaeria clavispora (S.I. Ahmed & J.H. Mirza) J.C. Krug & Jeng, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 62(5): 1003 (1970)
+Sydowia 29(1-6): 74 (1977)
 
 #### Original name
 Podospora clavispora S.I. Ahmed & J.H. Mirza, 1970

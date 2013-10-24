@@ -1,5 +1,4 @@
-Thyrostroma astragali Petr. SPECIES
-=======
+# Thyrostroma astragali Petr. SPECIES
 
 #### Status
 ACCEPTED

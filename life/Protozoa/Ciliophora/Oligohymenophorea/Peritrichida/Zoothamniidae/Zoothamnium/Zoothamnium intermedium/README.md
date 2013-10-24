@@ -1,5 +1,4 @@
-Zoothamnium intermedium Precht, 1935 SPECIES
-=======
+# Zoothamnium intermedium Precht, 1935 SPECIES
 
 #### Status
 ACCEPTED

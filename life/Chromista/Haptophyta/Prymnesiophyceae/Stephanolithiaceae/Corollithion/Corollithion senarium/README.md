@@ -1,5 +1,4 @@
-Corollithion senarium F.H. Wind & S.W. Wise SPECIES
-=======
+# Corollithion senarium F.H. Wind & S.W. Wise SPECIES
 
 #### Status
 ACCEPTED

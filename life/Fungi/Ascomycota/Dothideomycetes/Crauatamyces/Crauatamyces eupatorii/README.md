@@ -1,5 +1,4 @@
-Crauatamyces eupatorii Viégas, 1944 SPECIES
-=======
+# Crauatamyces eupatorii Viégas, 1944 SPECIES
 
 #### Status
 ACCEPTED

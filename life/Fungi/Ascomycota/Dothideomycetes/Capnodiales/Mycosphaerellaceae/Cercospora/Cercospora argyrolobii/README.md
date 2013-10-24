@@ -1,5 +1,4 @@
-Cercospora argyrolobii Chupp & Doidge SPECIES
-=======
+# Cercospora argyrolobii Chupp & Doidge SPECIES
 
 #### Status
 ACCEPTED

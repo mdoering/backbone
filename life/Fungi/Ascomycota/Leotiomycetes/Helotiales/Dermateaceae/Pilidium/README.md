@@ -1,5 +1,4 @@
-Pilidium G. Kunze ex E.M. Fries, 1828 GENUS
-=======
+# Pilidium G. Kunze ex E.M. Fries, 1828 GENUS
 
 #### Status
 ACCEPTED

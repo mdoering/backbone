@@ -1,5 +1,4 @@
-Jacobia conspicua G. Arnaud SPECIES
-=======
+# Jacobia conspicua G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Opegrapha plicosa C. F. W. Meissn. SPECIES
-=======
+# Malmographina plicosa (C. F. W. Meissn.) Cáceres, Rivas Plata & Lücking SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

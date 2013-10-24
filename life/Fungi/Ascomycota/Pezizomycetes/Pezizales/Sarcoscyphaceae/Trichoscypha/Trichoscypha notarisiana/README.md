@@ -1,5 +1,4 @@
-Trichoscypha notarisiana (R.G. Bagn.) Sacc. SPECIES
-=======
+# Trichoscypha notarisiana (R.G. Bagn.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

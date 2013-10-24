@@ -1,5 +1,4 @@
-Phialea flexipes (Cooke & W. Phillips) Sacc. SPECIES
-=======
+# Phialea flexipes (Cooke & W. Phillips) Sacc. SPECIES
 
 #### Status
 ACCEPTED

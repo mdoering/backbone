@@ -1,5 +1,4 @@
-Hygrophorus rodwayi Massee SPECIES
-=======
+# Hygrophorus rodwayi Massee SPECIES
 
 #### Status
 ACCEPTED

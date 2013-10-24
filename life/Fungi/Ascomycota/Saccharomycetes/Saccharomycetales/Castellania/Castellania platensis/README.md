@@ -1,5 +1,4 @@
-Castellania platensis C.W. Dodge SPECIES
-=======
+# Castellania platensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

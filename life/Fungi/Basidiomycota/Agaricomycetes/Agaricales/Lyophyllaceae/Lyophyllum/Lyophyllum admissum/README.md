@@ -1,5 +1,4 @@
-Lyophyllum admissum (Britzelm.) Consiglio & Contu SPECIES
-=======
+# Lyophyllum admissum (Britzelm.) Consiglio & Contu SPECIES
 
 #### Status
 ACCEPTED

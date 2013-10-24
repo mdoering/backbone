@@ -1,5 +1,4 @@
-Polystictus russogramme (Berk.) Cooke SPECIES
-=======
+# Polystictus russogramme (Berk.) Cooke SPECIES
 
 #### Status
 ACCEPTED

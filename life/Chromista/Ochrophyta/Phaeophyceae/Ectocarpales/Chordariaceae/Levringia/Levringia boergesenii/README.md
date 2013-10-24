@@ -1,5 +1,4 @@
-Levringia boergesenii Kylin SPECIES
-=======
+# Levringia boergesenii Kylin SPECIES
 
 #### Status
 ACCEPTED

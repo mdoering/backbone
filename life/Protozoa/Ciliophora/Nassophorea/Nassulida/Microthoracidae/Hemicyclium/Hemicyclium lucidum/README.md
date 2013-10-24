@@ -1,5 +1,4 @@
-Hemicyclium lucidum Eberhard, 1862 SPECIES
-=======
+# Hemicyclium lucidum Eberhard, 1862 SPECIES
 
 #### Status
 ACCEPTED

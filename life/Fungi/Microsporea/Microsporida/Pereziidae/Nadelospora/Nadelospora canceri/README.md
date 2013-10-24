@@ -1,5 +1,4 @@
-Nadelospora canceri SPECIES
-=======
+# Nadelospora canceri SPECIES
 
 #### Status
 ACCEPTED

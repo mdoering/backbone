@@ -1,5 +1,4 @@
-Cortinarius umbrinocarneus M.M. Moser SPECIES
-=======
+# Cortinarius umbrinocarneus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

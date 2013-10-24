@@ -1,5 +1,4 @@
-Trametes havannensis (Berk. & M.A. Curtis) Murrill SPECIES
-=======
+# Trametes havannensis (Berk. & M.A. Curtis) Murrill SPECIES
 
 #### Status
 ACCEPTED

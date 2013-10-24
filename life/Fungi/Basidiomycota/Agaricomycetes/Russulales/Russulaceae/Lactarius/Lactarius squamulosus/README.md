@@ -1,5 +1,4 @@
-Lactarius squamulosus Z.S. Bi & T.H. Li SPECIES
-=======
+# Lactarius squamulosus Z.S. Bi & T.H. Li SPECIES
 
 #### Status
 ACCEPTED

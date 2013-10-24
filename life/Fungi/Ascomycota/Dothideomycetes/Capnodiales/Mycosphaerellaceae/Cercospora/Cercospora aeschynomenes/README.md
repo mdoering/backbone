@@ -1,5 +1,4 @@
-Cercospora aeschynomenes A.S. Mull. & Chupp SPECIES
-=======
+# Cercospora aeschynomenes A.S. Mull. & Chupp SPECIES
 
 #### Status
 ACCEPTED

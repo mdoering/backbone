@@ -1,5 +1,4 @@
-Trichosporum tomentosum var. tomentosum VARIETY
-=======
+# Trichosporum tomentosum (Berk. & M.A. Curtis) Pat. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bull. Soc. mycol. Fr. 10(2): 79 (1894)
 
 #### Original name
-Trichosporum tomentosum var. tomentosum
+Hymenochaete tomentosa Berk. & M.A. Curtis
 
 ### Remarks
 null

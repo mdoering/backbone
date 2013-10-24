@@ -1,5 +1,4 @@
-Rosellinia subiculata (Schwein.) Sacc. SPECIES
-=======
+# Rosellinia subiculata (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

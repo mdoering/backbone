@@ -1,5 +1,4 @@
-Hypocrea aurantiocervina Ellis & Everh. SPECIES
-=======
+# Hypocrea aurantiocervina Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

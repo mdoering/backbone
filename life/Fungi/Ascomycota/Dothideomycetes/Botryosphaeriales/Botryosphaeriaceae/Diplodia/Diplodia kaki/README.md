@@ -1,5 +1,4 @@
-Diplodia kaki Sacc. SPECIES
-=======
+# Diplodia kaki Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Usnea scoparia Fée SPECIES
-=======
+# Usnea scoparia Fée SPECIES
 
 #### Status
 ACCEPTED

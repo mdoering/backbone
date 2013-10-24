@@ -1,5 +1,4 @@
-Coppinsia Lumbsch & Heibel GENUS
-=======
+# Coppinsia Lumbsch & Heibel GENUS
 
 #### Status
 ACCEPTED

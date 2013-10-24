@@ -1,5 +1,4 @@
-Mycoblastus disporus (C. Knight) Kantvilas SPECIES
-=======
+# Mycoblastus disporus (C. Knight) Kantvilas SPECIES
 
 #### Status
 ACCEPTED

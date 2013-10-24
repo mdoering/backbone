@@ -1,5 +1,4 @@
-Hymenostilbe kobayasii Koval SPECIES
-=======
+# Hymenostilbe kobayasii Koval SPECIES
 
 #### Status
 ACCEPTED

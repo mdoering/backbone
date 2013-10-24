@@ -1,5 +1,4 @@
-Opegrapha spaniota (Ach.) Röhl. SPECIES
-=======
+# Opegrapha spaniota (Ach.) Röhl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collemopsis subsimilis Vain. SPECIES
-=======
+# Collemopsis subsimilis Vain. SPECIES
 
 #### Status
 ACCEPTED

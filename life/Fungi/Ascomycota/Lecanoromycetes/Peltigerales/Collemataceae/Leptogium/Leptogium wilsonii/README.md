@@ -1,17 +1,16 @@
-Leptogium denticulatum F. Wilson SPECIES
-=======
+# Leptogium wilsonii Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Bailey, Bot. Bull. Dept. Agric. , Queensland 7: 28 (1891)
+Cat. Lich. Univers. 3: 160 (1924)
 
 #### Original name
-Leptogium denticulatum F. Wilson
+Leptogium wilsonii Zahlbr.
 
 ### Remarks
 null

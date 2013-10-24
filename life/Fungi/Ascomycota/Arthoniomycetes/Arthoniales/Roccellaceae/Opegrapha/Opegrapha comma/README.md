@@ -1,5 +1,4 @@
-Opegrapha comma Fée SPECIES
-=======
+# Opegrapha comma Fée SPECIES
 
 #### Status
 ACCEPTED

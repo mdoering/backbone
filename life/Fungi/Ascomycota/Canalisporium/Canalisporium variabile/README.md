@@ -1,5 +1,4 @@
-Canalisporium variabile Goh & K.D. Hyde SPECIES
-=======
+# Canalisporium variabile Goh & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

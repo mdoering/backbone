@@ -1,5 +1,4 @@
-Ramalina tropica G.N. Stevens SPECIES
-=======
+# Ramalina tropica G.N. Stevens SPECIES
 
 #### Status
 ACCEPTED

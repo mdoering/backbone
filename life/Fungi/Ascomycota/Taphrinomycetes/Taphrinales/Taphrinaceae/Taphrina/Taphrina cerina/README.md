@@ -1,5 +1,4 @@
-Taphrina cerina A.G. Eliasson SPECIES
-=======
+# Taphrina cerina A.G. Eliasson SPECIES
 
 #### Status
 ACCEPTED

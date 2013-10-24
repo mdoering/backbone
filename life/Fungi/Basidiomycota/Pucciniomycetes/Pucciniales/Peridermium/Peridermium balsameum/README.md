@@ -1,5 +1,4 @@
-Peridermium balsameum Peck SPECIES
-=======
+# Peridermium balsameum Peck SPECIES
 
 #### Status
 ACCEPTED

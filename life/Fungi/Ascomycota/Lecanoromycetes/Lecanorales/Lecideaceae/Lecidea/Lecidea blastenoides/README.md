@@ -1,5 +1,4 @@
-Lecidea blastenoides Zahlbr. SPECIES
-=======
+# Lecidea blastenoides Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

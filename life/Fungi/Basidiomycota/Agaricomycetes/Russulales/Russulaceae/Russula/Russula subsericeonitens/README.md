@@ -1,5 +1,4 @@
-Russula subsericeonitens Murrill SPECIES
-=======
+# Russula subsericeonitens Murrill SPECIES
 
 #### Status
 ACCEPTED

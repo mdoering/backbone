@@ -1,5 +1,4 @@
-Amerosporium punctiforme (Berk.) Sacc. SPECIES
-=======
+# Amerosporium punctiforme (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

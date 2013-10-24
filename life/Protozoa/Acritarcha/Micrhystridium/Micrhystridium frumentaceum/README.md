@@ -1,5 +1,4 @@
-Micrhystridium frumentaceum (Colbath, 1990) Sarjeant & Stancliffe, 1990 SPECIES
-=======
+# Micrhystridium frumentaceum (Colbath, 1990) Sarjeant & Stancliffe, 1990 SPECIES
 
 #### Status
 ACCEPTED

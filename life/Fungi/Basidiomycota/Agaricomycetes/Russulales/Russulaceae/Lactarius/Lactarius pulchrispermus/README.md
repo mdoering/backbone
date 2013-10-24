@@ -1,5 +1,4 @@
-Lactarius pulchrispermus Verbeken SPECIES
-=======
+# Lactarius pulchrispermus Verbeken SPECIES
 
 #### Status
 ACCEPTED

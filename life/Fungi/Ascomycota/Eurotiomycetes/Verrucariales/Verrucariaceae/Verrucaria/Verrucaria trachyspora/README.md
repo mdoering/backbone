@@ -1,5 +1,4 @@
-Verrucaria trachyspora C. Knight SPECIES
-=======
+# Verrucaria trachyspora C. Knight SPECIES
 
 #### Status
 ACCEPTED

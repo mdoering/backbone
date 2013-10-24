@@ -1,5 +1,4 @@
-Torula epimyces Corda SPECIES
-=======
+# Torula epimyces Corda SPECIES
 
 #### Status
 ACCEPTED

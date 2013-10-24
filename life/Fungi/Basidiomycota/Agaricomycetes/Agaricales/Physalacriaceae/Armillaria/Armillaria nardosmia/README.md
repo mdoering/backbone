@@ -1,5 +1,4 @@
-Armillaria nardosmia Ellis SPECIES
-=======
+# Armillaria nardosmia Ellis SPECIES
 
 #### Status
 ACCEPTED

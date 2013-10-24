@@ -1,5 +1,4 @@
-Fellhanera dictyospora Lücking SPECIES
-=======
+# Fellhanera dictyospora Lücking SPECIES
 
 #### Status
 ACCEPTED

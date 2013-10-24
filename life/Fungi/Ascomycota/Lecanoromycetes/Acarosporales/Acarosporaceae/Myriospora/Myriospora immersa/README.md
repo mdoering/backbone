@@ -1,5 +1,4 @@
-Myriospora immersa (Fink ex J. Hedrick) R.C. Harris SPECIES
-=======
+# Myriospora immersa (Fink ex J. Hedrick) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

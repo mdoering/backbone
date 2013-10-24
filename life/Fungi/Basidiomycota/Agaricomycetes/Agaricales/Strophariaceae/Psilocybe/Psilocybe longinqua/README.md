@@ -1,5 +1,4 @@
-Psilocybe longinqua Singer SPECIES
-=======
+# Psilocybe longinqua Singer SPECIES
 
 #### Status
 ACCEPTED

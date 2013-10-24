@@ -1,17 +1,16 @@
-Ventrographium nervicolum H.P. Upadhyay, Cavalc. & A.A. Silva SPECIES
-=======
+# Ventrographium nervicola H.P. Upadhyay, Cavalc. & A.A. Silva, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 78(3): 494 (1986)
 
 #### Original name
-Ventrographium nervicolum H.P. Upadhyay, Cavalc. & A.A. Silva
+Ventrographium nervicola H.P. Upadhyay, Cavalc. & A.A. Silva, 1986
 
 ### Remarks
 null

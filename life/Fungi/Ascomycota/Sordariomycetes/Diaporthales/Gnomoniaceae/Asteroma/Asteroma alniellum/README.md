@@ -1,5 +1,4 @@
-Asteroma alniellum Vleugel SPECIES
-=======
+# Asteroma alniellum Vleugel SPECIES
 
 #### Status
 ACCEPTED

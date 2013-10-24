@@ -1,5 +1,4 @@
-Puccinia verrucoides Har. SPECIES
-=======
+# Puccinia verrucoides Har. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea apopetraea Nyl. SPECIES
-=======
+# Lecidea apopetraea Nyl. SPECIES
 
 #### Status
 ACCEPTED

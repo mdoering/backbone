@@ -1,5 +1,4 @@
-Mycosphaerella waimeana Crous, Joanne E. Taylor & M.E. Palm, 2001 SPECIES
-=======
+# Mycosphaerella waimeana Crous, Joanne E. Taylor & M.E. Palm, 2001 SPECIES
 
 #### Status
 ACCEPTED

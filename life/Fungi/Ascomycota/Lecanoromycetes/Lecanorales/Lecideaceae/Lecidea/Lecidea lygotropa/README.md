@@ -1,5 +1,4 @@
-Lecidea lygotropa Nyl. SPECIES
-=======
+# Lecidea lygotropa Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fungus elatior (Cooke & Massee) Kuntze SPECIES
-=======
+# Fungus elatior (Cooke & Massee) Kuntze SPECIES
 
 #### Status
 ACCEPTED

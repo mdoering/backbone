@@ -1,5 +1,4 @@
-Pithomyces niger Mercado & J. Mena SPECIES
-=======
+# Pithomyces niger Mercado & J. Mena SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Imprimospora G. Norris GENUS
-=======
+# Imprimospora G. Norris GENUS
 
 #### Status
 ACCEPTED

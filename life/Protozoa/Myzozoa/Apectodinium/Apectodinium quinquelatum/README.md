@@ -1,5 +1,4 @@
-Apectodinium quinquelatum (Williams & Downie, 1966) Costa & Downie SPECIES
-=======
+# Apectodinium quinquelatum (Williams & Downie, 1966) Costa & Downie SPECIES
 
 #### Status
 ACCEPTED

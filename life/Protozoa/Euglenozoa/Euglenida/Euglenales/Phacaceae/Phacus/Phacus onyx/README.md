@@ -1,5 +1,4 @@
-Phacus onyx Pochmann SPECIES
-=======
+# Phacus onyx Pochmann SPECIES
 
 #### Status
 ACCEPTED

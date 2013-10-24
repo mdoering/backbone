@@ -1,5 +1,4 @@
-Spirographa vinosa Holien & Triebel SPECIES
-=======
+# Spirographa vinosa Holien & Triebel SPECIES
 
 #### Status
 ACCEPTED

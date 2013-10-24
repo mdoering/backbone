@@ -1,5 +1,4 @@
-Fomes gelsorum (Fr.) Sacc. SPECIES
-=======
+# Fomes gelsorum (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

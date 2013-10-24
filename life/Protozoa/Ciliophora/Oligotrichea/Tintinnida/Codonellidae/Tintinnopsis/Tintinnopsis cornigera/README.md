@@ -1,5 +1,4 @@
-Tintinnopsis cornigera Hada, 1964 SPECIES
-=======
+# Tintinnopsis cornigera Hada, 1964 SPECIES
 
 #### Status
 ACCEPTED

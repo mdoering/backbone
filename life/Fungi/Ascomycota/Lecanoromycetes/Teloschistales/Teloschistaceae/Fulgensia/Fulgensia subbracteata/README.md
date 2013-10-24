@@ -1,14 +1,13 @@
-Lecanora subbracteata Nyl. SPECIES
-=======
+# Fulgensia subbracteata (Nyl.) Poelt SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lich. Alp. 7: no. 137 (1961)
 
 #### Original name
 Lecanora subbracteata Nyl.

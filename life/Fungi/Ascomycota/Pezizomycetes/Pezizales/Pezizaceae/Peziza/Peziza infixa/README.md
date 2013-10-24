@@ -1,5 +1,4 @@
-Peziza infixa Wallr. SPECIES
-=======
+# Peziza infixa Wallr. SPECIES
 
 #### Status
 ACCEPTED

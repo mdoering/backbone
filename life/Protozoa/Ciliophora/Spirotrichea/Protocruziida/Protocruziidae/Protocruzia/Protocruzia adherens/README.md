@@ -1,5 +1,4 @@
-Protocruzia adherens (Mansfeld, 1923) Kahl, 1930 SPECIES
-=======
+# Protocruzia adherens (Mansfeld, 1923) Kahl, 1930 SPECIES
 
 #### Status
 ACCEPTED

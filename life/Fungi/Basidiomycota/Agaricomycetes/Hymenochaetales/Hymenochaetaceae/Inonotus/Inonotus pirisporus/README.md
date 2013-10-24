@@ -1,5 +1,4 @@
-Inonotus pirisporus Pegler SPECIES
-=======
+# Inonotus pirisporus Pegler SPECIES
 
 #### Status
 ACCEPTED

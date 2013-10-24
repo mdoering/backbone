@@ -1,5 +1,4 @@
-Exobasidiopsis GENUS
-=======
+# Exobasidiopsis GENUS
 
 #### Status
 ACCEPTED

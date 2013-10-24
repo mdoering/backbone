@@ -1,5 +1,4 @@
-Coniothecium bertheraudi Mégnin SPECIES
-=======
+# Coniothecium bertheraudi Mégnin SPECIES
 
 #### Status
 ACCEPTED

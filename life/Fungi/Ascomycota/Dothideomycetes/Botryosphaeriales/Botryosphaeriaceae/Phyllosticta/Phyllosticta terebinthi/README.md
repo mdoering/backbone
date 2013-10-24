@@ -1,5 +1,4 @@
-Phyllosticta terebinthi Pass. SPECIES
-=======
+# Phyllosticta terebinthi Pass. SPECIES
 
 #### Status
 ACCEPTED

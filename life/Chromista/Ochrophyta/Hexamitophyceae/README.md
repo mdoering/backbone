@@ -1,5 +1,4 @@
-Hexamitophyceae CLASS
-=======
+# Hexamitophyceae CLASS
 
 #### Status
 ACCEPTED

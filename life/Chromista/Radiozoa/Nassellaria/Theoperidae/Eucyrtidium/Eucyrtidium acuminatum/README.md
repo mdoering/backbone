@@ -1,5 +1,4 @@
-Eucyrtidium acuminatum (Ehrenberg) Ehrenberg, 1847 SPECIES
-=======
+# Eucyrtidium acuminatum (Ehrenberg) Ehrenberg, 1847 SPECIES
 
 #### Status
 ACCEPTED

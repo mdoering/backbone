@@ -1,5 +1,4 @@
-Minouxia GENUS
-=======
+# Minouxia GENUS
 
 #### Status
 ACCEPTED

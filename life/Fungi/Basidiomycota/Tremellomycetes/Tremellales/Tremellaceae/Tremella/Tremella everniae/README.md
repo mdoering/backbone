@@ -1,5 +1,4 @@
-Tremella everniae Diederich SPECIES
-=======
+# Tremella everniae Diederich SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hyphoderma incrustatum K.H. Larss., 1998 SPECIES
-=======
+# Hyphoderma incrustatum K.H. Larss., 1998 SPECIES
 
 #### Status
 ACCEPTED

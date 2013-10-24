@@ -1,5 +1,4 @@
-Septoria atropae-caucasicae Teterevn. & Husseinova SPECIES
-=======
+# Septoria atropae-caucasicae Teterevn. & Husseinova SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Euglyphinopsis pontica Valkanov, 1970 SPECIES
-=======
+# Euglyphinopsis pontica Valkanov, 1970 SPECIES
 
 #### Status
 ACCEPTED

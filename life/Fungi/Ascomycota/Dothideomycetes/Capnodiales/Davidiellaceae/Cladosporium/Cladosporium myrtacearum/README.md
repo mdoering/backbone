@@ -1,5 +1,4 @@
-Cladosporium myrtacearum K. Schub., U. Braun & R.G. Shivas SPECIES
-=======
+# Cladosporium myrtacearum K. Schub., U. Braun & R.G. Shivas SPECIES
 
 #### Status
 ACCEPTED

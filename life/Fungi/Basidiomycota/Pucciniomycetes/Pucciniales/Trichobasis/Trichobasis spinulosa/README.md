@@ -1,5 +1,4 @@
-Trichobasis spinulosa Cooke SPECIES
-=======
+# Trichobasis spinulosa Cooke SPECIES
 
 #### Status
 ACCEPTED

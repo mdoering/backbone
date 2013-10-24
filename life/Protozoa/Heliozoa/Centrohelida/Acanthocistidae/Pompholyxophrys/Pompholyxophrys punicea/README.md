@@ -1,5 +1,4 @@
-Pompholyxophrys punicea Archer SPECIES
-=======
+# Pompholyxophrys punicea Archer SPECIES
 
 #### Status
 ACCEPTED

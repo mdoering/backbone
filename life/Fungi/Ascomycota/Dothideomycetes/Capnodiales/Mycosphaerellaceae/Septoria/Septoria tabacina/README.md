@@ -1,17 +1,16 @@
-Septoria tabacina var. tabacina VARIETY
-=======
+# Septoria tabacina Died. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Annls mycol. 14(3/4): 210 (1916)
 
 #### Original name
-null
+Septoria tabacina Died.
 
 ### Remarks
 null

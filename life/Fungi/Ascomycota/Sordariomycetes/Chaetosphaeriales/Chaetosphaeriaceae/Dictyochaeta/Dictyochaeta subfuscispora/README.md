@@ -1,5 +1,4 @@
-Dictyochaeta subfuscispora A.J. Kuthubutheen & A. Nawawi SPECIES
-=======
+# Dictyochaeta subfuscispora A.J. Kuthubutheen & A. Nawawi SPECIES
 
 #### Status
 ACCEPTED

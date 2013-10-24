@@ -1,5 +1,4 @@
-Reinhardtites Perch-Nielsen, 1968 GENUS
-=======
+# Reinhardtites Perch-Nielsen, 1968 GENUS
 
 #### Status
 ACCEPTED

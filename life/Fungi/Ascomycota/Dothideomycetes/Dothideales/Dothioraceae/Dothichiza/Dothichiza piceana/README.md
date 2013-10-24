@@ -1,5 +1,4 @@
-Dothichiza piceana Naumov SPECIES
-=======
+# Dothichiza piceana Naumov SPECIES
 
 #### Status
 ACCEPTED

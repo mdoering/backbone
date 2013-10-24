@@ -1,14 +1,13 @@
-Plasmophagus coleochaetis (Sparrow, R.A. Paterson & Johns) M.W. Dick SPECIES
-=======
+# Plasmophagus coleochaetes (Sparrow, R.A. Paterson & Johns) M.W. Dick, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Straminipilous Fungi (Dordrecht) 381 (2001)
 
 #### Original name
 Rozella coleochaetes Sparrow, 1965

@@ -1,17 +1,16 @@
-Pertusaria cicatricosa var. deficiens A.W. Archer, Elix & Streimann VARIETY
-=======
+# Pertusaria cicatricosa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 56: 389 (1995)
+Proc. R. Soc. Edinb. 11: 461 (1882)
 
 #### Original name
-Pertusaria cicatricosa var. deficiens A.W. Archer, Elix & Streimann
+Pertusaria cicatricosa Müll. Arg.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Clitopilus squamulosus Peck SPECIES
-=======
+# Clitopilus squamulosus Peck SPECIES
 
 #### Status
 ACCEPTED

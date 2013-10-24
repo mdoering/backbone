@@ -1,5 +1,4 @@
-Leptothyrites dominicanus Poinar SPECIES
-=======
+# Leptothyrites dominicanus Poinar SPECIES
 
 #### Status
 ACCEPTED

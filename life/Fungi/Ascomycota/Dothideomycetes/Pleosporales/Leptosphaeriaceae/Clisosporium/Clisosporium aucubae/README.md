@@ -1,5 +1,4 @@
-Clisosporium aucubae (Sacc.) Kuntze SPECIES
-=======
+# Clisosporium aucubae (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

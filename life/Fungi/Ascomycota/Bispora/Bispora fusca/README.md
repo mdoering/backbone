@@ -1,5 +1,4 @@
-Bispora fusca Thüm., 1880 SPECIES
-=======
+# Bispora fusca Thüm., 1880 SPECIES
 
 #### Status
 ACCEPTED

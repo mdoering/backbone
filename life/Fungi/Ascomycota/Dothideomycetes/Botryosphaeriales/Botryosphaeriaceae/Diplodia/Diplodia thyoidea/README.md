@@ -1,5 +1,4 @@
-Diplodia thyoidea Cooke & Ellis SPECIES
-=======
+# Diplodia thyoidea Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

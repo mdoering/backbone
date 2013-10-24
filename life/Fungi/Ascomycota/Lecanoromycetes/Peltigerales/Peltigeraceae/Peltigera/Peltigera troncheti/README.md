@@ -1,5 +1,4 @@
-Peltigera troncheti M. Choisy SPECIES
-=======
+# Peltigera troncheti M. Choisy SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Pleurotus meyeri-herrmanni Henn. SPECIES
-=======
+# Pleurotus meyeri-herrmannii Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hedwigia 39: 136 (1900)
 
 #### Original name
-Pleurotus meyeri-herrmanni Henn.
+Pleurotus meyeri-herrmannii Henn.
 
 ### Remarks
 null

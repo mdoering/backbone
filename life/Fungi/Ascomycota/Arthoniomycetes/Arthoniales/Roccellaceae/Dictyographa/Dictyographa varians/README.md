@@ -1,5 +1,4 @@
-Dictyographa varians (Müll. Arg.) Müll. Arg. SPECIES
-=======
+# Dictyographa varians (Müll. Arg.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Chrysosporium georgii (Varsavsky & Ajello) Oorschot SPECIES
-=======
+# Chrysosporium georgiae (Varsavsky & Ajello) Oorschot, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Stud. Mycol. 20: 31 (1980)
 
 #### Original name
 Trichophyton georgii Varsavsky & Ajello

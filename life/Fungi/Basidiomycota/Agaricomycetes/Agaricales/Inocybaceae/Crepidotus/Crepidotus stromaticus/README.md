@@ -1,5 +1,4 @@
-Crepidotus stromaticus (Cooke & Massee) Sacc. SPECIES
-=======
+# Crepidotus stromaticus (Cooke & Massee) Sacc. SPECIES
 
 #### Status
 ACCEPTED

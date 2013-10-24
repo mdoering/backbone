@@ -1,5 +1,4 @@
-Lepiota microcystidiata Guzm.-Dáv. & Guzmán SPECIES
-=======
+# Lepiota microcystidiata Guzm.-Dáv. & Guzmán SPECIES
 
 #### Status
 ACCEPTED

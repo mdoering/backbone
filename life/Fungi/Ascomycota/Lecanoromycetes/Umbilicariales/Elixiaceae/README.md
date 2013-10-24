@@ -1,5 +1,4 @@
-Elixiaceae Lumbsch FAMILY
-=======
+# Elixiaceae Lumbsch FAMILY
 
 #### Status
 ACCEPTED

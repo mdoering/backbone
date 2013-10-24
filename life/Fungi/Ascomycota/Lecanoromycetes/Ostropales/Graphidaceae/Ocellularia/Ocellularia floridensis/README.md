@@ -1,5 +1,4 @@
-Ocellularia floridensis Fink ex J. Hedrick SPECIES
-=======
+# Ocellularia floridensis Fink ex J. Hedrick SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lichen viridescens A. Massal. SPECIES
-=======
+# Lichen viridescens A. Massal. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteroma dubium Allesch. SPECIES
-=======
+# Asteroma dubium Allesch. SPECIES
 
 #### Status
 ACCEPTED

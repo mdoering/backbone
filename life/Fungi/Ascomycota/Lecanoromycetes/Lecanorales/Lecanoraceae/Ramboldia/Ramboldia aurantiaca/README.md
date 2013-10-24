@@ -1,5 +1,4 @@
-Ramboldia aurantiaca (Aptroot & Diederich) Kalb, Lumbsch & Elix SPECIES
-=======
+# Ramboldia aurantiaca (Aptroot & Diederich) Kalb, Lumbsch & Elix SPECIES
 
 #### Status
 ACCEPTED

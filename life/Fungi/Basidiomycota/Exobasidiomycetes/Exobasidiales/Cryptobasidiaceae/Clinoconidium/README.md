@@ -1,5 +1,4 @@
-Clinoconidium Pat. GENUS
-=======
+# Clinoconidium Pat. GENUS
 
 #### Status
 ACCEPTED

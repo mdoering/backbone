@@ -1,17 +1,16 @@
-Pterygium filiforme f. regulare Gyeln. FORM
-=======
+# Placynthium filiforme (Garov.) M. Choisy SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. mens. Soc. linn. Lyon 20: 211 (1951)
 
 #### Original name
-Pterygium filiforme f. regulare Gyeln.
+Parmelia filiformis Garov.
 
 ### Remarks
 null

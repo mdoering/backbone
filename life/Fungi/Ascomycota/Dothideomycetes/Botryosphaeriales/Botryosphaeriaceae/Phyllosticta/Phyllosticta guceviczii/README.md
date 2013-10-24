@@ -1,5 +1,4 @@
-Phyllosticta guceviczii Zhilina SPECIES
-=======
+# Phyllosticta guceviczii Zhilina SPECIES
 
 #### Status
 ACCEPTED

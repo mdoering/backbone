@@ -1,5 +1,4 @@
-Septoria muralis Curzi & Barbaini SPECIES
-=======
+# Septoria muralis Curzi & Barbaini SPECIES
 
 #### Status
 ACCEPTED

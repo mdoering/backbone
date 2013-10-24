@@ -1,5 +1,4 @@
-Dothiorella toxica Ellis & Everh. SPECIES
-=======
+# Dothiorella toxica Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

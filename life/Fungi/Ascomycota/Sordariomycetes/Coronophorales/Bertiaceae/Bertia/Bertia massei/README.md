@@ -1,5 +1,4 @@
-Bertia massei Sacc. SPECIES
-=======
+# Bertia massei Sacc. SPECIES
 
 #### Status
 ACCEPTED

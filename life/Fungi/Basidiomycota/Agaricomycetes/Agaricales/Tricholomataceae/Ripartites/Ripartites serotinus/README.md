@@ -1,17 +1,16 @@
-Ripartites serotina Einhell. SPECIES
-=======
+# Ripartites serotinus Einhell. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ber. dt. bot. Ges. 44: 41 (1973)
 
 #### Original name
-Ripartites serotina Einhell.
+Ripartites serotinus Einhell.
 
 ### Remarks
 null

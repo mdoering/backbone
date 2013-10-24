@@ -1,5 +1,4 @@
-Lophodermium kaikawakae P.R. Johnst., 1989 SPECIES
-=======
+# Lophodermium kaikawakae P.R. Johnst., 1989 SPECIES
 
 #### Status
 ACCEPTED

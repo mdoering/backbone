@@ -1,5 +1,4 @@
-Rhabdamminella de Folin, 1887 GENUS
-=======
+# Rhabdamminella de Folin, 1887 GENUS
 
 #### Status
 ACCEPTED

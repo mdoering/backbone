@@ -1,5 +1,4 @@
-Aecidium elaeagni-latifoliae Petch SPECIES
-=======
+# Aecidium elaeagni-latifoliae Petch SPECIES
 
 #### Status
 ACCEPTED

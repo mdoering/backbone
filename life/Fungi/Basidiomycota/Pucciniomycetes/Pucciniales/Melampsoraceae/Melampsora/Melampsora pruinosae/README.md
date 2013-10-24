@@ -1,5 +1,4 @@
-Melampsora pruinosae Tranzschel SPECIES
-=======
+# Melampsora pruinosae Tranzschel SPECIES
 
 #### Status
 ACCEPTED

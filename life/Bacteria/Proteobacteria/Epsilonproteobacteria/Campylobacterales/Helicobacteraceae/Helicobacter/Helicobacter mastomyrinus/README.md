@@ -1,5 +1,4 @@
-Helicobacter mastomyrinus Shen et al., 2006 SPECIES
-=======
+# Helicobacter mastomyrinus Shen et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactarius alnicola A.H. Sm. SPECIES
-=======
+# Lactarius alnicola A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

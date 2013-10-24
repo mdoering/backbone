@@ -1,5 +1,4 @@
-Shanoriella theae (P. Syd. & E.J. Butler) Bat. & Cif. SPECIES
-=======
+# Shanoriella theae (P. Syd. & E.J. Butler) Bat. & Cif. SPECIES
 
 #### Status
 ACCEPTED

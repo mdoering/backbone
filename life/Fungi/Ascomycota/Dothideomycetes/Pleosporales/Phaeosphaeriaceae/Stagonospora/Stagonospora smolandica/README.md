@@ -1,5 +1,4 @@
-Stagonospora smolandica A.G. Eliasson SPECIES
-=======
+# Stagonospora smolandica A.G. Eliasson SPECIES
 
 #### Status
 ACCEPTED

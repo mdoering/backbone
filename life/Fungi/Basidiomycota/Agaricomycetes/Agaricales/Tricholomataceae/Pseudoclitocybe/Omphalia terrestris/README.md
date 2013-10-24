@@ -1,5 +1,4 @@
-Omphalia terrestris Velen. SPECIES
-=======
+# Omphalia terrestris Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marichromatium bheemlicum Anil Kumar, Jyothsna, Srinivas, Sasikala, Ramana & Imhoff, 2007 SPECIES
-=======
+# Marichromatium bheemlicum Anil Kumar, Jyothsna, Srinivas, Sasikala, Ramana & Imhoff, 2007 SPECIES
 
 #### Status
 ACCEPTED

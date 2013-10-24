@@ -1,5 +1,4 @@
-Blastenia cerussata (Hue) Darb. SPECIES
-=======
+# Blastenia cerussata (Hue) Darb. SPECIES
 
 #### Status
 ACCEPTED

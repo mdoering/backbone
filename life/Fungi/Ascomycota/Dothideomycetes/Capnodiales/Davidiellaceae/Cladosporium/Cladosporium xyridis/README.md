@@ -1,5 +1,4 @@
-Cladosporium xyridis Tracy & Earle, 1896 SPECIES
-=======
+# Cladosporium xyridis Tracy & Earle, 1896 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia celtidis Roum., 1880 SPECIES
-=======
+# Diplodia celtidis Roum., 1880 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia glebosa Tuck. SPECIES
-=======
+# Arthonia glebosa Tuck. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeopezia ferruginea Fuckel SPECIES
-=======
+# Phaeopezia ferruginea Fuckel SPECIES
 
 #### Status
 ACCEPTED

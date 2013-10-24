@@ -1,5 +1,4 @@
-Usnea kyotoensis Asahina SPECIES
-=======
+# Usnea kyotoensis Asahina SPECIES
 
 #### Status
 ACCEPTED

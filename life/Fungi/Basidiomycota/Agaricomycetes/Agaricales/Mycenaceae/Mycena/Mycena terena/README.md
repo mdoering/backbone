@@ -1,5 +1,4 @@
-Mycena terena Aronsen & Maas Geest. SPECIES
-=======
+# Mycena terena Aronsen & Maas Geest. SPECIES
 
 #### Status
 ACCEPTED

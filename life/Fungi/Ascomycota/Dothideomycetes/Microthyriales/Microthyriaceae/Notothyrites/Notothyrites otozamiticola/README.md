@@ -1,5 +1,4 @@
-Notothyrites otozamiticola Krassilov SPECIES
-=======
+# Notothyrites otozamiticola Krassilov SPECIES
 
 #### Status
 ACCEPTED

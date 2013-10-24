@@ -1,5 +1,4 @@
-Dimeromyces appressus Thaxt. SPECIES
-=======
+# Dimeromyces appressus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

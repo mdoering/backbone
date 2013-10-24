@@ -1,5 +1,4 @@
-Clitocybe lanata var. amethiptea Berk. & Broome VARIETY
-=======
+# Clitocybe lanata (Scop.) Quél. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Clitocybe lanata var. amethiptea Berk. & Broome
+null
 
 ### Remarks
 null

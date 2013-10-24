@@ -1,5 +1,4 @@
-Vermiculariella opuntiicola (Speg.) Sacc. & Trotter SPECIES
-=======
+# Vermiculariella opuntiicola (Speg.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypocrea hirsuta Ellis & Everh. SPECIES
-=======
+# Hypocrea hirsuta Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

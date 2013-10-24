@@ -1,5 +1,4 @@
-Meliola buxicola Doidge SPECIES
-=======
+# Meliola buxicola Doidge SPECIES
 
 #### Status
 ACCEPTED

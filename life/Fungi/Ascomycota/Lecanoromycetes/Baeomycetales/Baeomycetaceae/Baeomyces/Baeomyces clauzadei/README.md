@@ -1,5 +1,4 @@
-Baeomyces clauzadei B. de Lesd. SPECIES
-=======
+# Baeomyces clauzadei B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

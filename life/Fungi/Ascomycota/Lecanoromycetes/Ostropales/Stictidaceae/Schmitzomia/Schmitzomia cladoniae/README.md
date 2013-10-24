@@ -1,5 +1,4 @@
-Schmitzomia cladoniae Rehm SPECIES
-=======
+# Schmitzomia cladoniae Rehm SPECIES
 
 #### Status
 ACCEPTED

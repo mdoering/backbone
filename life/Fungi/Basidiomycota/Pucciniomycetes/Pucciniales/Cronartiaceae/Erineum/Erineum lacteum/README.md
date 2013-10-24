@@ -1,5 +1,4 @@
-Erineum lacteum Fr. SPECIES
-=======
+# Erineum lacteum Fr. SPECIES
 
 #### Status
 ACCEPTED

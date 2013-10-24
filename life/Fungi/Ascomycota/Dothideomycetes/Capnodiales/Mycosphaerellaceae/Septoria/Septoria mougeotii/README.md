@@ -1,17 +1,16 @@
-Septoria mougeoti Sacc. & Roum. SPECIES
-=======
+# Septoria mougeotii Sacc. & Roum., 1884 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Reliq. Libert, Ser. 4 4: no. 151 (1884)
 
 #### Original name
-Septoria mougeoti Sacc. & Roum.
+Septoria mougeotii Sacc. & Roum., 1884
 
 ### Remarks
 null

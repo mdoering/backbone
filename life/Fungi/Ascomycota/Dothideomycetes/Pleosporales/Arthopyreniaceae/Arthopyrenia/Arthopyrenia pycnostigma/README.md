@@ -1,5 +1,4 @@
-Arthopyrenia pycnostigma (Nyl.) H. Olivier SPECIES
-=======
+# Arthopyrenia pycnostigma (Nyl.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

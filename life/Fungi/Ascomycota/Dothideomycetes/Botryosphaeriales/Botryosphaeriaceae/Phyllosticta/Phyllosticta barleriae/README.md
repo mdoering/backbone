@@ -1,5 +1,4 @@
-Phyllosticta barleriae da Costa {?} & Mundk. SPECIES
-=======
+# Phyllosticta barleriae da Costa {?} & Mundk. SPECIES
 
 #### Status
 ACCEPTED

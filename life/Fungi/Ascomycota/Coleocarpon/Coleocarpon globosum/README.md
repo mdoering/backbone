@@ -1,5 +1,4 @@
-Coleocarpon globosum Stubblef., T.N. Taylor, C.E. Mill. & G.T. Cole SPECIES
-=======
+# Coleocarpon globosum Stubblef., T.N. Taylor, C.E. Mill. & G.T. Cole SPECIES
 
 #### Status
 ACCEPTED

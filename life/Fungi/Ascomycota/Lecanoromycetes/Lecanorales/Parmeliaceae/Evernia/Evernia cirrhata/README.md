@@ -1,5 +1,4 @@
-Evernia cirrhata SPECIES
-=======
+# Evernia cirrhata SPECIES
 
 #### Status
 ACCEPTED

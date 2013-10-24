@@ -1,5 +1,4 @@
-Candida gelsemii Lachance SPECIES
-=======
+# Candida gelsemii Lachance SPECIES
 
 #### Status
 ACCEPTED

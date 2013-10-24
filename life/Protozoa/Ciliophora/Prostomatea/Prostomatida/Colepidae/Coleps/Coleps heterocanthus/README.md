@@ -1,5 +1,4 @@
-Coleps heterocanthus Noland, 1937 SPECIES
-=======
+# Coleps heterocanthus Noland, 1937 SPECIES
 
 #### Status
 ACCEPTED

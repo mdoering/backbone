@@ -1,5 +1,4 @@
-Ustilago thaxteri Zundel SPECIES
-=======
+# Ustilago thaxteri Zundel SPECIES
 
 #### Status
 ACCEPTED

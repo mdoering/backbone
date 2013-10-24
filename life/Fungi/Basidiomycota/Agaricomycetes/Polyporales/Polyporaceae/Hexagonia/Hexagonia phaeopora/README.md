@@ -1,5 +1,4 @@
-Hexagonia phaeopora Pat. SPECIES
-=======
+# Hexagonia phaeopora Pat. SPECIES
 
 #### Status
 ACCEPTED

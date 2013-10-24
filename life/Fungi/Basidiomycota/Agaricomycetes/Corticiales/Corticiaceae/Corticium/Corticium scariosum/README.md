@@ -1,5 +1,4 @@
-Corticium scariosum Berk. & Broome SPECIES
-=======
+# Corticium scariosum Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Podospora formosana Yei Z. Wang SPECIES
-=======
+# Podospora formosana Yei Z. Wang SPECIES
 
 #### Status
 ACCEPTED

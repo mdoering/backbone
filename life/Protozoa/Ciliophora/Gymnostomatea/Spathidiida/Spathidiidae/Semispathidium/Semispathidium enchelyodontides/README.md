@@ -1,5 +1,4 @@
-Semispathidium enchelyodontides Foissner, Agatha & Berger, 2002 SPECIES
-=======
+# Semispathidium enchelyodontides Foissner, Agatha & Berger, 2002 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Weissella paramesenteroides (Garvie, 1967) Collins et al., 1994 SPECIES
-=======
+# Weissella paramesenteroides (Garvie, 1967) Collins et al., 1994 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea funckii Flot. SPECIES
-=======
+# Lecidea funckii Flot. SPECIES
 
 #### Status
 ACCEPTED

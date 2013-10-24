@@ -1,5 +1,4 @@
-Ascomauritiana lignicola Ranghoo & K.D. Hyde, 1999 SPECIES
-=======
+# Ascomauritiana lignicola Ranghoo & K.D. Hyde, 1999 SPECIES
 
 #### Status
 ACCEPTED

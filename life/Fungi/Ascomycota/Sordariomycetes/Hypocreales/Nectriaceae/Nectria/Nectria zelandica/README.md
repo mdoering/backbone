@@ -1,5 +1,4 @@
-Nectria zelandica Cooke SPECIES
-=======
+# Nectria zelandica Cooke SPECIES
 
 #### Status
 ACCEPTED

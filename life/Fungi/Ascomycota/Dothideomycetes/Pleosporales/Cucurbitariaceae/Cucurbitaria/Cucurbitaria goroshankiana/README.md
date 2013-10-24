@@ -1,14 +1,13 @@
-Cucurbitaria goroshackiniana (Wahrlich) Kuntze SPECIES
-=======
+# Cucurbitaria goroshankiana (Wahrlich) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3: 461 (1898)
 
 #### Original name
 Nectria goroshankiana Wahrlich

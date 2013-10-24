@@ -1,17 +1,16 @@
-Brachysporisporites thraceous V.S. Ediger SPECIES
-=======
+# Brachysporisporites thraceus V.S. Ediger SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Palaeontographica, Abt. B 179(1-4): 93 + pl. 2, figs 15-18 (1981)
 
 #### Original name
-Brachysporisporites thraceous V.S. Ediger
+Brachysporisporites thraceus V.S. Ediger
 
 ### Remarks
 null

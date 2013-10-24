@@ -1,5 +1,4 @@
-Psilocybe rufa Bres. SPECIES
-=======
+# Psilocybe rufa Bres. SPECIES
 
 #### Status
 ACCEPTED

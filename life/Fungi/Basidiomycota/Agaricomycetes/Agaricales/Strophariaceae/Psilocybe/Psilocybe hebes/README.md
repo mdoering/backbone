@@ -1,5 +1,4 @@
-Psilocybe hebes (Fr.) Sacc. SPECIES
-=======
+# Psilocybe hebes (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

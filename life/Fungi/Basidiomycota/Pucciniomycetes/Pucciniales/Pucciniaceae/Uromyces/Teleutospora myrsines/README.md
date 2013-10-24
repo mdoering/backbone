@@ -1,5 +1,4 @@
-Teleutospora myrsines (Dietel) Arthur & Bisby SPECIES
-=======
+# Teleutospora myrsines (Dietel) Arthur & Bisby SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta haraeana Sawada SPECIES
-=======
+# Phyllosticta haraeana Sawada SPECIES
 
 #### Status
 ACCEPTED

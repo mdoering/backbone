@@ -1,5 +1,4 @@
-Hemileia holstii P. Syd. & Syd. SPECIES
-=======
+# Hemileia holstii P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stenella buteae Seema Misra, N. Srivast. & A.K. Srivast. SPECIES
-=======
+# Stenella buteae Seema Misra, N. Srivast. & A.K. Srivast. SPECIES
 
 #### Status
 ACCEPTED

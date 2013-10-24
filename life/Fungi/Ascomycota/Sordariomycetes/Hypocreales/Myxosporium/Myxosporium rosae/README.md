@@ -1,14 +1,13 @@
-Myxofusicoccum rosae (Fuckel) Died., 1912 SPECIES
-=======
+# Myxosporium rosae Fuckel, 1870 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 10(1): 72 (1912)
+Jb. nassau. Ver. Naturk. 23-24: 399 (1870)
 
 #### Original name
 Myxosporium rosae Fuckel, 1870

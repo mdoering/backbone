@@ -1,5 +1,4 @@
-Acetabula mitrula (Schwein.) Fr. SPECIES
-=======
+# Acetabula mitrula (Schwein.) Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius australiensis Cleland SPECIES
-=======
+# Marasmius australiensis Cleland SPECIES
 
 #### Status
 ACCEPTED

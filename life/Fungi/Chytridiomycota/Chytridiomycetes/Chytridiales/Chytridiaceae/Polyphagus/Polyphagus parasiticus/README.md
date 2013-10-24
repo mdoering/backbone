@@ -1,5 +1,4 @@
-Polyphagus parasiticus Nowak. SPECIES
-=======
+# Polyphagus parasiticus Nowak. SPECIES
 
 #### Status
 ACCEPTED

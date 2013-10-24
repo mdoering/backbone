@@ -1,5 +1,4 @@
-Navicella stuartii (Fabre) Kuntze SPECIES
-=======
+# Navicella stuartii (Fabre) Kuntze SPECIES
 
 #### Status
 ACCEPTED

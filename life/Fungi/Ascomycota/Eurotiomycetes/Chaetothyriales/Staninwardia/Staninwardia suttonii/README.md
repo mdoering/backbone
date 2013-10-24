@@ -1,5 +1,4 @@
-Staninwardia suttonii Crous & Summerell SPECIES
-=======
+# Staninwardia suttonii Crous & Summerell SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leiovalia mediocris Burmann, 1970 SPECIES
-=======
+# Leiovalia mediocris Burmann, 1970 SPECIES
 
 #### Status
 ACCEPTED

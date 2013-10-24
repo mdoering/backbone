@@ -1,5 +1,4 @@
-Coniothyrium vitis Delacr. SPECIES
-=======
+# Coniothyrium vitis Delacr. SPECIES
 
 #### Status
 ACCEPTED

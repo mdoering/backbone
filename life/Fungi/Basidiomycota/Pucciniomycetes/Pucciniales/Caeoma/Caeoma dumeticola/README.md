@@ -1,5 +1,4 @@
-Caeoma dumeticola P.E. Crane SPECIES
-=======
+# Caeoma dumeticola P.E. Crane SPECIES
 
 #### Status
 ACCEPTED

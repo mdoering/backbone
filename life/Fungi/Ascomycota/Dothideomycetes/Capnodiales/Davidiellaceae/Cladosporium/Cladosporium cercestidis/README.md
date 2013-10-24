@@ -1,5 +1,4 @@
-Cladosporium cercestidis Deighton SPECIES
-=======
+# Cladosporium cercestidis Deighton SPECIES
 
 #### Status
 ACCEPTED

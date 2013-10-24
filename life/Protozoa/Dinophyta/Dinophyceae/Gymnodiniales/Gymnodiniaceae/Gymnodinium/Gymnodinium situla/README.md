@@ -1,5 +1,4 @@
-Gymnodinium situla Kofoid & Swezy, 1921 SPECIES
-=======
+# Gymnodinium situla Kofoid & Swezy, 1921 SPECIES
 
 #### Status
 ACCEPTED

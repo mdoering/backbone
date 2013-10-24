@@ -1,5 +1,4 @@
-Camarosporium ligustri Berl. & Destrée SPECIES
-=======
+# Camarosporium ligustri Berl. & Destrée SPECIES
 
 #### Status
 ACCEPTED

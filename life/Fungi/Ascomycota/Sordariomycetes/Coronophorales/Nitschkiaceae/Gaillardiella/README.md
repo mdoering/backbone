@@ -1,5 +1,4 @@
-Gaillardiella Pat. GENUS
-=======
+# Gaillardiella Pat. GENUS
 
 #### Status
 ACCEPTED

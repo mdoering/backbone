@@ -1,5 +1,4 @@
-Nectria heliconiae E. Müll. SPECIES
-=======
+# Nectria heliconiae E. Müll. SPECIES
 
 #### Status
 ACCEPTED

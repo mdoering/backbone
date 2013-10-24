@@ -1,5 +1,4 @@
-Gajewskiella Obolkina, 1989 GENUS
-=======
+# Gajewskiella Obolkina, 1989 GENUS
 
 #### Status
 ACCEPTED

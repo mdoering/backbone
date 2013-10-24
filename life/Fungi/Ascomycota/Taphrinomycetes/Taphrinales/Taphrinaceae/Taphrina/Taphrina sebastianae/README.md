@@ -1,5 +1,4 @@
-Taphrina sebastianae (Sadeb.) Jacz. SPECIES
-=======
+# Taphrina sebastianae (Sadeb.) Jacz. SPECIES
 
 #### Status
 ACCEPTED

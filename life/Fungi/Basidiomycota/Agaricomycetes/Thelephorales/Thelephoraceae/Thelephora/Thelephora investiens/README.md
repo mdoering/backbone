@@ -1,5 +1,4 @@
-Thelephora investiens Corner, 1968 SPECIES
-=======
+# Thelephora investiens Corner, 1968 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius saxatilis Fr. SPECIES
-=======
+# Marasmius saxatilis Fr. SPECIES
 
 #### Status
 ACCEPTED

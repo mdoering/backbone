@@ -1,5 +1,4 @@
-Squamaria benacensis (A. Massal.) H. Olivier SPECIES
-=======
+# Squamaria benacensis (A. Massal.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

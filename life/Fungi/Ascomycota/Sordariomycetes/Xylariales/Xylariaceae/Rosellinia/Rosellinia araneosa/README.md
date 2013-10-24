@@ -1,5 +1,4 @@
-Rosellinia araneosa (Pers.) Sacc. SPECIES
-=======
+# Rosellinia araneosa (Pers.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

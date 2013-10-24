@@ -1,5 +1,4 @@
-Phialogangliospora lignicola Udaiyan & V.S. Hosag., 1992 SPECIES
-=======
+# Phialogangliospora lignicola Udaiyan & V.S. Hosag., 1992 SPECIES
 
 #### Status
 ACCEPTED

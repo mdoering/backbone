@@ -1,5 +1,4 @@
-Urnula rugosa (Lév.) Le Gal SPECIES
-=======
+# Urnula rugosa (Lév.) Le Gal SPECIES
 
 #### Status
 ACCEPTED

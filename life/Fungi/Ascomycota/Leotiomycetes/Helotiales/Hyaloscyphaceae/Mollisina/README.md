@@ -1,5 +1,4 @@
-Mollisina von Höhnel ex Weese, 1926 GENUS
-=======
+# Mollisina von Höhnel ex Weese, 1926 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Neocoleroa GENUS
-=======
+# Neocoleroa GENUS
 
 #### Status
 ACCEPTED

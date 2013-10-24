@@ -1,5 +1,4 @@
-Patellaria medialis (Tuck.) SPECIES
-=======
+# Patellaria medialis (Tuck.) SPECIES
 
 #### Status
 ACCEPTED

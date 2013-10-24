@@ -1,5 +1,4 @@
-Caloplaca griseovirens (A.L. Sm.) Zahlbr. SPECIES
-=======
+# Caloplaca griseovirens (A.L. Sm.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

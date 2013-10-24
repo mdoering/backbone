@@ -1,5 +1,4 @@
-Trichaptum tasmanicum (Berk.) Teixeira SPECIES
-=======
+# Trichaptum tasmanicum (Berk.) Teixeira SPECIES
 
 #### Status
 ACCEPTED

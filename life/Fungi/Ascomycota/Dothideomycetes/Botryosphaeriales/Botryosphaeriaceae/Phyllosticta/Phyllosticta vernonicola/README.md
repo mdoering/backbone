@@ -1,5 +1,4 @@
-Phyllosticta vernonicola Speg. SPECIES
-=======
+# Phyllosticta vernonicola Speg. SPECIES
 
 #### Status
 ACCEPTED

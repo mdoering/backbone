@@ -1,5 +1,4 @@
-Hadziella antica Schütt, 1960 SPECIES
-=======
+# Hadziella antica Schütt, 1960 SPECIES
 
 #### Status
 ACCEPTED

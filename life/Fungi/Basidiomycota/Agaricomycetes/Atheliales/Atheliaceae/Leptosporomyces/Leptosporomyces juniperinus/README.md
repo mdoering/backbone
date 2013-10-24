@@ -1,5 +1,4 @@
-Leptosporomyces juniperinus Gilb. & Lindsey, 1978 SPECIES
-=======
+# Leptosporomyces juniperinus Gilb. & Lindsey, 1978 SPECIES
 
 #### Status
 ACCEPTED

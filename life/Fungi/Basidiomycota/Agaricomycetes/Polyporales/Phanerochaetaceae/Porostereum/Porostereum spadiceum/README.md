@@ -1,17 +1,16 @@
-Porostereum spadiceum var. spadiceum VARIETY
-=======
+# Porostereum spadiceum (Pers.) Hjortstam & Ryvarden, 1990 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syn. Fung. (Oslo) 4: 51 (1990)
 
 #### Original name
-null
+Thelephora spadicea Pers., 1801
 
 ### Remarks
 null

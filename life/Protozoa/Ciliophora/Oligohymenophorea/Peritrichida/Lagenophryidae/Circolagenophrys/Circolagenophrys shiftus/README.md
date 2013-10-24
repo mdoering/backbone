@@ -1,5 +1,4 @@
-Circolagenophrys shiftus SPECIES
-=======
+# Circolagenophrys shiftus SPECIES
 
 #### Status
 ACCEPTED

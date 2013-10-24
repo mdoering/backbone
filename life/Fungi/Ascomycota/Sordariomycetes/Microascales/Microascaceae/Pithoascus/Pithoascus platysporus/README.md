@@ -1,5 +1,4 @@
-Pithoascus platysporus Arx & Veenb.-Rijks, 1973 SPECIES
-=======
+# Pithoascus platysporus Arx & Veenb.-Rijks, 1973 SPECIES
 
 #### Status
 ACCEPTED

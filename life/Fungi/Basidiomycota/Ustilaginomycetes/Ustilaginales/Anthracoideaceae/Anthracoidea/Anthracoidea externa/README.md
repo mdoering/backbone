@@ -1,5 +1,4 @@
-Anthracoidea externa (Griffiths) Kukkonen SPECIES
-=======
+# Anthracoidea externa (Griffiths) Kukkonen SPECIES
 
 #### Status
 ACCEPTED

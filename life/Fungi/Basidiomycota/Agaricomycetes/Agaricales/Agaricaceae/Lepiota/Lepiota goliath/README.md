@@ -1,5 +1,4 @@
-Lepiota goliath (Speg.) Speg. SPECIES
-=======
+# Lepiota goliath (Speg.) Speg. SPECIES
 
 #### Status
 ACCEPTED

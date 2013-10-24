@@ -1,5 +1,4 @@
-Mycocandida riboflavina C.W. Dodge SPECIES
-=======
+# Mycocandida riboflavina C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

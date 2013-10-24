@@ -1,17 +1,16 @@
-Pythium capillosum var. capillosum B. Paul VARIETY
-=======
+# Pythium capillosum B. Paul, 1987 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Trans. Br. mycol. Soc. 89(2): 195 (1987)
 
 #### Original name
-Pythium capillosum var. capillosum B. Paul
+Pythium capillosum B. Paul, 1987
 
 ### Remarks
 null

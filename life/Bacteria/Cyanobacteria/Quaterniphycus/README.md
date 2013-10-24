@@ -1,5 +1,4 @@
-Quaterniphycus M.S. Yakschin, 1991 GENUS
-=======
+# Quaterniphycus M.S. Yakschin, 1991 GENUS
 
 #### Status
 ACCEPTED

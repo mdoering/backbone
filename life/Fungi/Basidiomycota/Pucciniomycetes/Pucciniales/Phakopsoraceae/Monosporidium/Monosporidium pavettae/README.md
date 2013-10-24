@@ -1,14 +1,13 @@
-Kulkarniella pavettae Gokhale & Patel, 1952 SPECIES
-=======
+# Monosporidium pavettae (Gokhale & Patel) Buriticá, 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Indian Phytopath. 4: 172 (1952)
+Revta Acad. colomb. cienc. exact. fís. nat. 18(no. 69): 135 (1991)
 
 #### Original name
 Kulkarniella pavettae Gokhale & Patel, 1952

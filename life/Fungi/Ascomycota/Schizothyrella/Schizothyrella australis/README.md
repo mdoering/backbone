@@ -1,5 +1,4 @@
-Schizothyrella australis (Speg.) Sacc. SPECIES
-=======
+# Schizothyrella australis (Speg.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

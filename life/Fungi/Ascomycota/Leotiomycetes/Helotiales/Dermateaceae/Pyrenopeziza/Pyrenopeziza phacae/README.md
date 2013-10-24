@@ -1,5 +1,4 @@
-Pyrenopeziza phacae Arx SPECIES
-=======
+# Pyrenopeziza phacae Arx SPECIES
 
 #### Status
 ACCEPTED

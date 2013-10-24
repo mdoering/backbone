@@ -1,8 +1,7 @@
-Cucurbitaria pruni-mahaleb Allesch. SPECIES
-=======
+# Cucurbitaria pruni-mahalebi Allesch. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cucurbitaria pruni-mahaleb Allesch.
+Cucurbitaria pruni-mahalebi Allesch.
 
 ### Remarks
 null

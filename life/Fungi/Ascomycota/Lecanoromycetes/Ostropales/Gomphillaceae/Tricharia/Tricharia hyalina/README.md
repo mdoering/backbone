@@ -1,5 +1,4 @@
-Tricharia hyalina Kalb & Vezda SPECIES
-=======
+# Tricharia hyalina Kalb & Vezda SPECIES
 
 #### Status
 ACCEPTED

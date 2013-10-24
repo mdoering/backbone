@@ -1,5 +1,4 @@
-Polyporus beyrichii Fr. SPECIES
-=======
+# Polyporus beyrichii Fr. SPECIES
 
 #### Status
 ACCEPTED

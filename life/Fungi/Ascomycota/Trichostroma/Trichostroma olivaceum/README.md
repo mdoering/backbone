@@ -1,5 +1,4 @@
-Trichostroma olivaceum Preuss SPECIES
-=======
+# Trichostroma olivaceum Preuss SPECIES
 
 #### Status
 ACCEPTED

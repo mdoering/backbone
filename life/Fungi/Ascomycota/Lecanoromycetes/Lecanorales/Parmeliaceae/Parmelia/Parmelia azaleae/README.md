@@ -1,5 +1,4 @@
-Parmelia azaleae (Schrank) Ach. SPECIES
-=======
+# Parmelia azaleae (Schrank) Ach. SPECIES
 
 #### Status
 ACCEPTED

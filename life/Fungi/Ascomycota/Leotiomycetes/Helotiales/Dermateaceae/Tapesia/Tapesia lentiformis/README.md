@@ -1,5 +1,4 @@
-Tapesia lentiformis Velen. SPECIES
-=======
+# Tapesia lentiformis Velen. SPECIES
 
 #### Status
 ACCEPTED

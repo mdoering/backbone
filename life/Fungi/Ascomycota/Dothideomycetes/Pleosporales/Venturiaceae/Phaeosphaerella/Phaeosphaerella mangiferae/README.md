@@ -1,5 +1,4 @@
-Phaeosphaerella mangiferae F. Stevens & Weedon SPECIES
-=======
+# Phaeosphaerella mangiferae F. Stevens & Weedon SPECIES
 
 #### Status
 ACCEPTED

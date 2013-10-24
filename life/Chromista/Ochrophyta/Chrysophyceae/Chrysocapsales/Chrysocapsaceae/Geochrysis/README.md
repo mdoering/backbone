@@ -1,5 +1,4 @@
-Geochrysis Pascher, 1930 GENUS
-=======
+# Geochrysis Pascher, 1930 GENUS
 
 #### Status
 SYNONYM

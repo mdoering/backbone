@@ -1,5 +1,4 @@
-Spiroloxostoma Conato, 1964 GENUS
-=======
+# Spiroloxostoma Conato, 1964 GENUS
 
 #### Status
 ACCEPTED

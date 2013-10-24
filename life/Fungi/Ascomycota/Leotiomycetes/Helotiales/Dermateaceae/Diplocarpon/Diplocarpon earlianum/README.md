@@ -1,17 +1,16 @@
-Marssonia potentillae var. potentillae VARIETY
-=======
+# Diplocarpon earlianum (Ellis & Everh.) F.A. Wolf, 1924 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. Elisha Mitchell scient. Soc. 39(3-4): 158-159 (1924)
 
 #### Original name
-Marssonia potentillae var. potentillae
+null
 
 ### Remarks
 null

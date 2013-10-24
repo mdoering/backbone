@@ -1,5 +1,4 @@
-Allarthonia macgregorii (Vain.) Zahlbr. SPECIES
-=======
+# Allarthonia macgregorii (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

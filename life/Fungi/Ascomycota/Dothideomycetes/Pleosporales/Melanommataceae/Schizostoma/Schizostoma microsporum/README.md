@@ -1,5 +1,4 @@
-Schizostoma microsporum Pass. SPECIES
-=======
+# Schizostoma microsporum Pass. SPECIES
 
 #### Status
 ACCEPTED

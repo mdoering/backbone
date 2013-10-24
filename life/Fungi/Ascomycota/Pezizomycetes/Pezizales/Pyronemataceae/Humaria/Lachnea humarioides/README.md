@@ -1,5 +1,4 @@
-Lachnea humarioides Rehm SPECIES
-=======
+# Lachnea humarioides Rehm SPECIES
 
 #### Status
 ACCEPTED

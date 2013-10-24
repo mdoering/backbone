@@ -1,5 +1,4 @@
-Dothideovalsa eutypoides (Ellis & Everh.) Shear SPECIES
-=======
+# Dothideovalsa eutypoides (Ellis & Everh.) Shear SPECIES
 
 #### Status
 ACCEPTED

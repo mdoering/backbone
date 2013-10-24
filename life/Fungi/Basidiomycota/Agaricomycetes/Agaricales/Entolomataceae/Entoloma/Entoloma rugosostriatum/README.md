@@ -1,5 +1,4 @@
-Entoloma rugosostriatum Largent & T.W. Henkel SPECIES
-=======
+# Entoloma rugosostriatum Largent & T.W. Henkel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteridium tropicale Rehm SPECIES
-=======
+# Asteridium tropicale Rehm SPECIES
 
 #### Status
 ACCEPTED

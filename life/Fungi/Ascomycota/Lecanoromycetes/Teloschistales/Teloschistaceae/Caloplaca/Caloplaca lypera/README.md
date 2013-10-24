@@ -1,5 +1,4 @@
-Caloplaca lypera Poelt & Hinter. SPECIES
-=======
+# Caloplaca lypera Poelt & Hinter. SPECIES
 
 #### Status
 ACCEPTED

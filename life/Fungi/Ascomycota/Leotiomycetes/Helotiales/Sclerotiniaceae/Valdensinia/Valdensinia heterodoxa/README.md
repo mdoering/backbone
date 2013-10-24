@@ -1,5 +1,4 @@
-Valdensinia heterodoxa Peyronel, 1953 SPECIES
-=======
+# Valdensinia heterodoxa Peyronel, 1953 SPECIES
 
 #### Status
 ACCEPTED

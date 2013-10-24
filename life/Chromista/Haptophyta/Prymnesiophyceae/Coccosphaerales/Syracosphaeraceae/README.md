@@ -1,5 +1,4 @@
-Syracosphaeraceae Lemmerman, 1908 FAMILY
-=======
+# Syracosphaeraceae Lemmerman, 1908 FAMILY
 
 #### Status
 ACCEPTED

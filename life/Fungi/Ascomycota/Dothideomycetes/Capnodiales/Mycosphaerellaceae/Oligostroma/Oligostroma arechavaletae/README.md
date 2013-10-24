@@ -1,5 +1,4 @@
-Oligostroma arechavaletae (Speg.) Theiss. & Syd. SPECIES
-=======
+# Oligostroma arechavaletae (Speg.) Theiss. & Syd. SPECIES
 
 #### Status
 ACCEPTED

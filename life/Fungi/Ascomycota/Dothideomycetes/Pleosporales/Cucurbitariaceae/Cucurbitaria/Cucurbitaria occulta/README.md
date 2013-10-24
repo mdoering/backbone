@@ -1,5 +1,4 @@
-Cucurbitaria occulta f. occulta FORM
-=======
+# Cucurbitaria occulta Fuckel SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Jb. nassau. Ver. Naturk. 23-24: (1870)
 
 #### Original name
-Cucurbitaria occulta f. occulta
+Cucurbitaria occulta Fuckel
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Coccomyces guizhouensis Y.R. Lin & B.F. Hu SPECIES
-=======
+# Coccomyces guizhouensis Y.R. Lin & B.F. Hu SPECIES
 
 #### Status
 ACCEPTED

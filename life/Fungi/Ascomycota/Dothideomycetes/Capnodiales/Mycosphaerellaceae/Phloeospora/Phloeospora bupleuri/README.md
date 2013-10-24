@@ -1,8 +1,7 @@
-Septoria bupleuri Desm., 1849 SPECIES
-=======
+# Phloeospora bupleuri (Desm.) Höhn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

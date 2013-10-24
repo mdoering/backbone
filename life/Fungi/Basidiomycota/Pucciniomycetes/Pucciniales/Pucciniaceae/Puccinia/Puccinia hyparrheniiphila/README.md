@@ -1,5 +1,4 @@
-Puccinia hyparrheniiphila Gjaerum SPECIES
-=======
+# Puccinia hyparrheniiphila Gjaerum SPECIES
 
 #### Status
 ACCEPTED

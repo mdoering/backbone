@@ -1,5 +1,4 @@
-Ceriomyces nodulosus (Pat.) Sacc. & Trotter SPECIES
-=======
+# Ceriomyces nodulosus (Pat.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hebeloma felipponei Speg. SPECIES
-=======
+# Hebeloma felipponei Speg. SPECIES
 
 #### Status
 ACCEPTED

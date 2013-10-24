@@ -1,5 +1,4 @@
-Agaricus pratulorum var. pratulorum VARIETY
-=======
+# Agaricus pratulorum Romagn. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bull. trimest. Soc. mycol. Fr. 102(1): 119 (1986)
 
 #### Original name
-Agaricus pratulorum var. pratulorum
+Agaricus pratulorum Romagn.
 
 ### Remarks
 null

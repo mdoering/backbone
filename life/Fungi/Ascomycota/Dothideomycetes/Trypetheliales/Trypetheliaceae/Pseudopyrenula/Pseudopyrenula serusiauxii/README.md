@@ -1,5 +1,4 @@
-Pseudopyrenula serusiauxii Aptroot SPECIES
-=======
+# Pseudopyrenula serusiauxii Aptroot SPECIES
 
 #### Status
 ACCEPTED

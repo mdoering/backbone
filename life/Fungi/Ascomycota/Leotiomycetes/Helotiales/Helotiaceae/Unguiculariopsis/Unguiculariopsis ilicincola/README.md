@@ -1,14 +1,13 @@
-Mollisiella ilicincola (Berk. & Broome) Sacc. & D. Sacc., 1895 SPECIES
-=======
+# Unguiculariopsis ilicincola (Berk. & Broome) Rehm, 1909 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-British Fungus Flora. Agarics and Boleti (London) 4: 221 (1895)
+Annls mycol. (1909)
 
 #### Original name
 null

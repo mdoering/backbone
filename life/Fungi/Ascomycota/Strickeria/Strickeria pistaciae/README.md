@@ -1,5 +1,4 @@
-Strickeria pistaciae Bondartseva SPECIES
-=======
+# Strickeria pistaciae Bondartseva SPECIES
 
 #### Status
 ACCEPTED

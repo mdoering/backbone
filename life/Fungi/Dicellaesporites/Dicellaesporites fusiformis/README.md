@@ -1,5 +1,4 @@
-Dicellaesporites fusiformis Sheffy & Dilcher SPECIES
-=======
+# Dicellaesporites fusiformis Sheffy & Dilcher SPECIES
 
 #### Status
 ACCEPTED

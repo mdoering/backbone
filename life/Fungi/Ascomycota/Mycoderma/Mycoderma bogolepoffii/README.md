@@ -1,5 +1,4 @@
-Mycoderma bogolepoffii (Vuill.) Jannin SPECIES
-=======
+# Mycoderma bogolepoffii (Vuill.) Jannin SPECIES
 
 #### Status
 ACCEPTED

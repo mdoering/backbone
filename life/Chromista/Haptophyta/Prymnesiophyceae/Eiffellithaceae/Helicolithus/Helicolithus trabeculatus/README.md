@@ -1,8 +1,7 @@
-Chiastozygus cuneatus (Lyul'eva, 1967) Cepek & Hay, 1969 SPECIES
-=======
+# Helicolithus trabeculatus (Gorka, 1957) Verbeek, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

@@ -1,5 +1,4 @@
-Catillaria peltiformis (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Catillaria peltiformis (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

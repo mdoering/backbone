@@ -1,5 +1,4 @@
-Sirococcus cylindroides Sacc. SPECIES
-=======
+# Sirococcus cylindroides Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycovellosiella zanthoxyli Y.L. Guo & Z.M. Cao SPECIES
-=======
+# Mycovellosiella zanthoxyli Y.L. Guo & Z.M. Cao SPECIES
 
 #### Status
 ACCEPTED

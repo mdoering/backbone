@@ -1,5 +1,4 @@
-Spinalia radians Vuill., 1904 SPECIES
-=======
+# Spinalia radians Vuill., 1904 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora lojkaeana Szatala SPECIES
-=======
+# Lecanora lojkaeana Szatala SPECIES
 
 #### Status
 ACCEPTED

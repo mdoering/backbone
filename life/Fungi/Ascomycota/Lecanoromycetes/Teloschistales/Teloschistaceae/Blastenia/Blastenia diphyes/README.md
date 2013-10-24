@@ -1,5 +1,4 @@
-Blastenia diphyes (Nyl.) Th. Fr. SPECIES
-=======
+# Blastenia diphyes (Nyl.) Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

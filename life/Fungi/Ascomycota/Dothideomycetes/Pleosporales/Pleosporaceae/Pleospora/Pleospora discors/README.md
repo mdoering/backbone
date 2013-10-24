@@ -1,17 +1,16 @@
-Pleospora discors var. microspora Niessl VARIETY
-=======
+# Pleospora discors (Durieu & Mont.) Ces. & de Not., 1863 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Comm. Soc. crittog. Ital. 1: 218 (1861)
 
 #### Original name
-Pleospora discors var. microspora Niessl
+Sphaeria discors Mont., 1846
 
 ### Remarks
 null

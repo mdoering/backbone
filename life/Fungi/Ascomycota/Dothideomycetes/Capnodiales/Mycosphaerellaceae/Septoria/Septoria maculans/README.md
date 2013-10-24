@@ -1,5 +1,4 @@
-Septoria maculans Berk. & M.A. Curtis SPECIES
-=======
+# Septoria maculans Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

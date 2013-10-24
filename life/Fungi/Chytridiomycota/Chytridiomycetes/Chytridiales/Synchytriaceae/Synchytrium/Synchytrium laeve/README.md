@@ -1,14 +1,13 @@
-Synchytrium laevis (Canter) Karling SPECIES
-=======
+# Synchytrium laeve (Canter) Karling SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 45(2): 278 (1953)
 
 #### Original name
 Micromyces laevis Canter

@@ -1,5 +1,4 @@
-Clostridium orbiscindens Winter et al., 1991 SPECIES
-=======
+# Clostridium orbiscindens Winter et al., 1991 SPECIES
 
 #### Status
 ACCEPTED

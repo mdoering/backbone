@@ -1,5 +1,4 @@
-Sticta aurata var. aurata VARIETY
-=======
+# Sticta aurata SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sticta aurata var. aurata
+null
 
 ### Remarks
 null

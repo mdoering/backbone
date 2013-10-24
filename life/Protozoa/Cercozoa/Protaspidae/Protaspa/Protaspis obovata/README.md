@@ -1,5 +1,4 @@
-Protaspis obovata Skuja SPECIES
-=======
+# Protaspis obovata Skuja SPECIES
 
 #### Status
 DOUBTFUL

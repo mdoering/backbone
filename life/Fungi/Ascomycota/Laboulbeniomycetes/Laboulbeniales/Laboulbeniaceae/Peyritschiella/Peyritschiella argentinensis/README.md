@@ -1,5 +1,4 @@
-Peyritschiella argentinensis (Speg.) I.I. Tav. SPECIES
-=======
+# Peyritschiella argentinensis (Speg.) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

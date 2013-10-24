@@ -1,5 +1,4 @@
-Polysegmentina Cushman, 1946 GENUS
-=======
+# Polysegmentina Cushman, 1946 GENUS
 
 #### Status
 ACCEPTED

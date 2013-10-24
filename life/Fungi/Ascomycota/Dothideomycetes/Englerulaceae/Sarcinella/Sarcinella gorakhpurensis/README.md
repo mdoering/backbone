@@ -1,5 +1,4 @@
-Sarcinella gorakhpurensis Kamal & R.P. Singh SPECIES
-=======
+# Sarcinella gorakhpurensis Kamal & R.P. Singh SPECIES
 
 #### Status
 ACCEPTED

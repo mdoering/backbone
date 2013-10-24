@@ -1,5 +1,4 @@
-Burkholderia caledonica Coenye et al., 2001 SPECIES
-=======
+# Burkholderia caledonica Coenye et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

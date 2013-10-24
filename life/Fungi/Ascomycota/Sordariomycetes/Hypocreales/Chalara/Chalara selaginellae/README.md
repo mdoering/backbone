@@ -1,5 +1,4 @@
-Chalara selaginellae M.L. Farr SPECIES
-=======
+# Chalara selaginellae M.L. Farr SPECIES
 
 #### Status
 ACCEPTED

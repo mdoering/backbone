@@ -1,5 +1,4 @@
-Dothidasteroma casuarinae H.J. Swart, 1988 SPECIES
-=======
+# Dothidasteroma casuarinae H.J. Swart, 1988 SPECIES
 
 #### Status
 ACCEPTED

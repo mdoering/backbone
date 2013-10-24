@@ -1,5 +1,4 @@
-Leprosis Neck. ex Kremp. GENUS
-=======
+# Leprosis Neck. ex Kremp. GENUS
 
 #### Status
 ACCEPTED

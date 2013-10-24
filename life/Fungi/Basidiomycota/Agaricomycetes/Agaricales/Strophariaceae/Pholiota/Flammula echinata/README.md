@@ -1,5 +1,4 @@
-Flammula echinata Henn. SPECIES
-=======
+# Flammula echinata Henn. SPECIES
 
 #### Status
 ACCEPTED

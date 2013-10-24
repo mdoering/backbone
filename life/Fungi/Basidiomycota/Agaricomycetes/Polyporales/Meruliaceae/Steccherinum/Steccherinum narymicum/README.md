@@ -1,5 +1,4 @@
-Steccherinum narymicum (Pilát) Parmasto SPECIES
-=======
+# Steccherinum narymicum (Pilát) Parmasto SPECIES
 
 #### Status
 ACCEPTED

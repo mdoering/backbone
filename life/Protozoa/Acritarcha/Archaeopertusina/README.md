@@ -1,5 +1,4 @@
-Archaeopertusina S.N. Naumova, 1960 GENUS
-=======
+# Archaeopertusina S.N. Naumova, 1960 GENUS
 
 #### Status
 ACCEPTED

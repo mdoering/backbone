@@ -1,5 +1,4 @@
-Asteromella cicutae (Lind) Aa SPECIES
-=======
+# Asteromella cicutae (Lind) Aa SPECIES
 
 #### Status
 ACCEPTED

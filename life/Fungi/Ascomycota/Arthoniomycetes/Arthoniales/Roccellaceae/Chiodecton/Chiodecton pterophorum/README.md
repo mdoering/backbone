@@ -1,5 +1,4 @@
-Chiodecton pterophorum Nyl. SPECIES
-=======
+# Chiodecton pterophorum Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniothyriites Babajan & Tasl. GENUS
-=======
+# Coniothyriites Babajan & Tasl. GENUS
 
 #### Status
 ACCEPTED

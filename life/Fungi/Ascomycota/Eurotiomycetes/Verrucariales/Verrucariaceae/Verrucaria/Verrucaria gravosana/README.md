@@ -1,5 +1,4 @@
-Verrucaria gravosana Servít SPECIES
-=======
+# Verrucaria gravosana Servít SPECIES
 
 #### Status
 ACCEPTED

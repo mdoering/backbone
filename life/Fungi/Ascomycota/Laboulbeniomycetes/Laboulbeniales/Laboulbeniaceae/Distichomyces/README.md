@@ -1,5 +1,4 @@
-Distichomyces GENUS
-=======
+# Distichomyces GENUS
 
 #### Status
 ACCEPTED

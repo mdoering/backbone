@@ -1,5 +1,4 @@
-Verrucaria fuscocuprea (Nyl.) Nyl. SPECIES
-=======
+# Verrucaria fuscocuprea (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Maronea manipurensis H. Magn. SPECIES
-=======
+# Maronea manipurensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

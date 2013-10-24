@@ -1,5 +1,4 @@
-Rhabdospora genistae Hollós SPECIES
-=======
+# Rhabdospora genistae Hollós SPECIES
 
 #### Status
 ACCEPTED

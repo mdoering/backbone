@@ -1,14 +1,13 @@
-Phaeoradulum aterrimum (Fr.) Sacc. & P. Syd., 1902 SPECIES
-=======
+# Xenotypa aterrima (Fr.) Petr., 1955 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 16: 179 (1902)
+Sydowia 9: 499 (1955)
 
 #### Original name
 Hydnum aterrimum Fr., 1821

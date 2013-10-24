@@ -1,5 +1,4 @@
-Usnea oxygona (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Usnea oxygona (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

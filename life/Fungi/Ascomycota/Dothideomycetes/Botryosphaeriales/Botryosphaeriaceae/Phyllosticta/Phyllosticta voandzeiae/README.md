@@ -1,5 +1,4 @@
-Phyllosticta voandzeiae Marchal & Steyaert SPECIES
-=======
+# Phyllosticta voandzeiae Marchal & Steyaert SPECIES
 
 #### Status
 ACCEPTED

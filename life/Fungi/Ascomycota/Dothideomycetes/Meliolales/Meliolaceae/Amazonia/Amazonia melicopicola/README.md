@@ -1,17 +1,16 @@
-Amazonia melicopecola Hosag. & T.K. Abraham SPECIES
-=======
+# Amazonia melicopicola Hosag. & T.K. Abraham SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Journal of Mycopathological Research 36(2): 97 (1998)
 
 #### Original name
-Amazonia melicopecola Hosag. & T.K. Abraham
+Amazonia melicopicola Hosag. & T.K. Abraham
 
 ### Remarks
 null

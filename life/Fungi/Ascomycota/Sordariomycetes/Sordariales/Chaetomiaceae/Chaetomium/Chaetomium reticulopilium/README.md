@@ -1,5 +1,4 @@
-Chaetomium reticulopilium L.M. Ames, 1963 SPECIES
-=======
+# Chaetomium reticulopilium L.M. Ames, 1963 SPECIES
 
 #### Status
 ACCEPTED

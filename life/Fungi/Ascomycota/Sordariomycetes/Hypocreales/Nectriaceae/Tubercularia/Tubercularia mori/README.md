@@ -1,5 +1,4 @@
-Tubercularia mori Schulzer SPECIES
-=======
+# Tubercularia mori Schulzer SPECIES
 
 #### Status
 ACCEPTED

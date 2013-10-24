@@ -1,8 +1,7 @@
-Septoria sicyii Peck SPECIES
-=======
+# Septoria sicyi Peck SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Septoria sicyii Peck
+Septoria sicyi Peck
 
 ### Remarks
 null

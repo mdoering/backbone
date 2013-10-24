@@ -1,5 +1,4 @@
-Herpobasidium abnorme Oberw. & K. Wells, 1985 SPECIES
-=======
+# Herpobasidium abnorme Oberw. & K. Wells, 1985 SPECIES
 
 #### Status
 ACCEPTED

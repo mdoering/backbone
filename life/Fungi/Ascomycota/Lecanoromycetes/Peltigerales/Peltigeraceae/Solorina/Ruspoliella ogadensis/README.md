@@ -1,5 +1,4 @@
-Ruspoliella ogadensis Sambo SPECIES
-=======
+# Ruspoliella ogadensis Sambo SPECIES
 
 #### Status
 ACCEPTED

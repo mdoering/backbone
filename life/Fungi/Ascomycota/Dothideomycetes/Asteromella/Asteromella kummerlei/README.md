@@ -1,5 +1,4 @@
-Asteromella kummerlei Moesz SPECIES
-=======
+# Asteromella kummerlei Moesz SPECIES
 
 #### Status
 ACCEPTED

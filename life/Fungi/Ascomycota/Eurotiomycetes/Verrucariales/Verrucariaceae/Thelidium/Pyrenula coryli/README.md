@@ -1,5 +1,4 @@
-Pyrenula coryli A. Massal., 1852 SPECIES
-=======
+# Pyrenula coryli A. Massal., 1852 SPECIES
 
 #### Status
 DOUBTFUL

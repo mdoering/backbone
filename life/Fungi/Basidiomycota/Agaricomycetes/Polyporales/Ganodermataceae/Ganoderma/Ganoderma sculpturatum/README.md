@@ -1,14 +1,13 @@
-Fomes sculpturatus Lloyd, 1912 SPECIES
-=======
+# Ganoderma sculpturatum (Lloyd) Ryvarden, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Writ. 4 (Letter 39bis) 2 (1912)
+Mycotaxon 35(2): 235 (1989)
 
 #### Original name
 Fomes sculpturatus Lloyd, 1912

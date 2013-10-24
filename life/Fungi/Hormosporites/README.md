@@ -1,5 +1,4 @@
-Hormosporites Grüss GENUS
-=======
+# Hormosporites Grüss GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tuburcinia antipolitara (Magnus) Liro SPECIES
-=======
+# Tuburcinia antipolitara (Magnus) Liro SPECIES
 
 #### Status
 ACCEPTED

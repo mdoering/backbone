@@ -1,5 +1,4 @@
-Fomes warburgianus Henn. SPECIES
-=======
+# Fomes warburgianus Henn. SPECIES
 
 #### Status
 ACCEPTED

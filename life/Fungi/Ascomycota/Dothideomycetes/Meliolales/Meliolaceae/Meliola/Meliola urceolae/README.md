@@ -1,5 +1,4 @@
-Meliola urceolae Hansf. SPECIES
-=======
+# Meliola urceolae Hansf. SPECIES
 
 #### Status
 ACCEPTED

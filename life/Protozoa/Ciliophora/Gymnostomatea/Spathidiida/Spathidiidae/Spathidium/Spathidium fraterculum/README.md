@@ -1,5 +1,4 @@
-Spathidium fraterculum Foissner, Quintela-Alonso & Al Rasheid, 2008 SPECIES
-=======
+# Spathidium fraterculum Foissner, Quintela-Alonso & Al Rasheid, 2008 SPECIES
 
 #### Status
 ACCEPTED

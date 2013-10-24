@@ -1,5 +1,4 @@
-Cercospora foeniculi Magnus SPECIES
-=======
+# Cercospora foeniculi Magnus SPECIES
 
 #### Status
 ACCEPTED

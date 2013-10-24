@@ -1,5 +1,4 @@
-Peziza helodina Durieu & Lév. SPECIES
-=======
+# Peziza helodina Durieu & Lév. SPECIES
 
 #### Status
 ACCEPTED

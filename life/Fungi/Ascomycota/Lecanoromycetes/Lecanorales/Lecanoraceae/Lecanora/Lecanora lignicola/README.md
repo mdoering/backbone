@@ -1,5 +1,4 @@
-Lecanora lignicola Anzi SPECIES
-=======
+# Lecanora lignicola Anzi SPECIES
 
 #### Status
 ACCEPTED

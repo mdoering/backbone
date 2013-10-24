@@ -1,5 +1,4 @@
-Cryptacineta Yankovskii, 1978 GENUS
-=======
+# Cryptacineta Yankovskii, 1978 GENUS
 
 #### Status
 ACCEPTED

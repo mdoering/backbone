@@ -1,5 +1,4 @@
-Sphaerella olenjana Sacc. SPECIES
-=======
+# Sphaerella olenjana Sacc. SPECIES
 
 #### Status
 ACCEPTED

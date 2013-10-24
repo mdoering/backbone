@@ -1,5 +1,4 @@
-Tremolecia nivalis (Anzi) Hertel SPECIES
-=======
+# Tremolecia nivalis (Anzi) Hertel SPECIES
 
 #### Status
 ACCEPTED

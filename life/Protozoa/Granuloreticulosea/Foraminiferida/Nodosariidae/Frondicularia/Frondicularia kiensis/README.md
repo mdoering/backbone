@@ -1,8 +1,7 @@
-Frondicularia bradyi Cushman, 1913 SPECIES
-=======
+# Frondicularia kiensis Barker, 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

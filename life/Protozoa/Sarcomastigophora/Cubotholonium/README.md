@@ -1,5 +1,4 @@
-Cubotholonium Haeckel, 1887 GENUS
-=======
+# Cubotholonium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

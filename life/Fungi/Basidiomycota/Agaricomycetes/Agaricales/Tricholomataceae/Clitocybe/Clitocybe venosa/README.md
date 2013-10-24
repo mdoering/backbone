@@ -1,5 +1,4 @@
-Clitocybe venosa H.E. Bigelow SPECIES
-=======
+# Clitocybe venosa H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

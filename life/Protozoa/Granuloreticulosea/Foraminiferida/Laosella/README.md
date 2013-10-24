@@ -1,5 +1,4 @@
-Laosella Leven, 1997 GENUS
-=======
+# Laosella Leven, 1997 GENUS
 
 #### Status
 ACCEPTED

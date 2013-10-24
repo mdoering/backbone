@@ -1,5 +1,4 @@
-Lycoperdon mauryanum Pat. ex Demoulin SPECIES
-=======
+# Lycoperdon mauryanum Pat. ex Demoulin SPECIES
 
 #### Status
 ACCEPTED

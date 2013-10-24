@@ -1,5 +1,4 @@
-Agaricus euspeireus Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus euspeireus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptotrema argillaceum Szatala SPECIES
-=======
+# Leptotrema argillaceum Szatala SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spegazzinna GENUS
-=======
+# Spegazzinna GENUS
 
 #### Status
 ACCEPTED

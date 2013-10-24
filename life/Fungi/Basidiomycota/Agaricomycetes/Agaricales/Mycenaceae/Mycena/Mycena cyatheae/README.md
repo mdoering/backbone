@@ -1,5 +1,4 @@
-Mycena cyatheae Singer SPECIES
-=======
+# Mycena cyatheae Singer SPECIES
 
 #### Status
 ACCEPTED

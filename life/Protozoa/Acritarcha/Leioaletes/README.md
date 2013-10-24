@@ -1,5 +1,4 @@
-Leioaletes Timofeev, 1955 GENUS
-=======
+# Leioaletes Timofeev, 1955 GENUS
 
 #### Status
 ACCEPTED

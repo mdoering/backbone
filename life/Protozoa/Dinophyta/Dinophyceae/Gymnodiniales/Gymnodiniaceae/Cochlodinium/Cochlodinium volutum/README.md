@@ -1,5 +1,4 @@
-Cochlodinium volutum Kofoid & Swezy, 1921 SPECIES
-=======
+# Cochlodinium volutum Kofoid & Swezy, 1921 SPECIES
 
 #### Status
 ACCEPTED

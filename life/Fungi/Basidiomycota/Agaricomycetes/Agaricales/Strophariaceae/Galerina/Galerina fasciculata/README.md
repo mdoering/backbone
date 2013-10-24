@@ -1,5 +1,4 @@
-Galerina fasciculata Hongo SPECIES
-=======
+# Galerina fasciculata Hongo SPECIES
 
 #### Status
 ACCEPTED

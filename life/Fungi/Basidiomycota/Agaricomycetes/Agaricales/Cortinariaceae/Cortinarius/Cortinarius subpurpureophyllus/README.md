@@ -1,5 +1,4 @@
-Cortinarius subpurpureophyllus var. subpurpureophyllus VARIETY
-=======
+# Cortinarius subpurpureophyllus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cortinarius subpurpureophyllus var. subpurpureophyllus
+Cortinarius subpurpureophyllus A.H. Sm.
 
 ### Remarks
 null

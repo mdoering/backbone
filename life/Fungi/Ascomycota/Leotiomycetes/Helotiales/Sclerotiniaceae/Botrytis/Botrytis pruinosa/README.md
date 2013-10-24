@@ -1,5 +1,4 @@
-Botrytis pruinosa Höhn. SPECIES
-=======
+# Botrytis pruinosa Höhn. SPECIES
 
 #### Status
 ACCEPTED

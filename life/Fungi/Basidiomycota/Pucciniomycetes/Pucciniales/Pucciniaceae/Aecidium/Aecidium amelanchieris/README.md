@@ -1,5 +1,4 @@
-Aecidium amelanchieris DC. SPECIES
-=======
+# Aecidium amelanchieris DC. SPECIES
 
 #### Status
 ACCEPTED

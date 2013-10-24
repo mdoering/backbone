@@ -1,5 +1,4 @@
-Skeletocutis uralensis (Pilát) Kotl. & Pouzar SPECIES
-=======
+# Skeletocutis uralensis (Pilát) Kotl. & Pouzar SPECIES
 
 #### Status
 ACCEPTED

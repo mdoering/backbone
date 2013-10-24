@@ -1,5 +1,4 @@
-Botryodontia semispathulata Hjortstam & Ryvarden SPECIES
-=======
+# Botryodontia semispathulata Hjortstam & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

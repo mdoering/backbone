@@ -1,5 +1,4 @@
-Mogibacterium pumilum Nakazawa et al., 2000 SPECIES
-=======
+# Mogibacterium pumilum Nakazawa et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

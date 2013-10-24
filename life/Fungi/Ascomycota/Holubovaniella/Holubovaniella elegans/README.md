@@ -1,5 +1,4 @@
-Holubovaniella elegans R.F. Castañeda, 1985 SPECIES
-=======
+# Holubovaniella elegans R.F. Castañeda, 1985 SPECIES
 
 #### Status
 ACCEPTED

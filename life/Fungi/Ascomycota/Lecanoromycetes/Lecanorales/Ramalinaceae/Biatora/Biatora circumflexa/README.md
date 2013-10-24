@@ -1,5 +1,4 @@
-Biatora circumflexa (Nyl.) Arnold SPECIES
-=======
+# Biatora circumflexa (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

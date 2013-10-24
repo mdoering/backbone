@@ -1,5 +1,4 @@
-Nectria carneorosea Rehm, 1882 SPECIES
-=======
+# Nectria carneorosea Rehm, 1882 SPECIES
 
 #### Status
 ACCEPTED

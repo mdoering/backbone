@@ -1,8 +1,7 @@
-Lecanora obpallens Nyl. ex Hasse SPECIES
-=======
+# Acarospora obpallens (Nyl. ex Hasse) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Lecanora obpallens Nyl. ex Hasse
 
 ### Remarks
 null

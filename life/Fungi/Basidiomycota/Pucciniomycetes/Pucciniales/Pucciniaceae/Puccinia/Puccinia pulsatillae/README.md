@@ -1,5 +1,4 @@
-Puccinia pulsatillae Kalchbr. SPECIES
-=======
+# Puccinia pulsatillae Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

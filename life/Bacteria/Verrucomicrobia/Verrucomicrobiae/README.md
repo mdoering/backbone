@@ -1,5 +1,4 @@
-Verrucomicrobiae Hedlund, Gosink & Staley, 1998 CLASS
-=======
+# Verrucomicrobiae Hedlund, Gosink & Staley, 1998 CLASS
 
 #### Status
 ACCEPTED

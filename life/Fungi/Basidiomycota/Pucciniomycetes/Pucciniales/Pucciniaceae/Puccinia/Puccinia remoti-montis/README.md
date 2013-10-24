@@ -1,5 +1,4 @@
-Puccinia remoti-montis Durrieu SPECIES
-=======
+# Puccinia remoti-montis Durrieu SPECIES
 
 #### Status
 ACCEPTED

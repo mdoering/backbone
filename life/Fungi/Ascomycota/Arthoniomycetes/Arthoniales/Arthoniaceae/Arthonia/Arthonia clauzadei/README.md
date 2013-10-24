@@ -1,5 +1,4 @@
-Arthonia clauzadei B. de Lesd. SPECIES
-=======
+# Arthonia clauzadei B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

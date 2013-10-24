@@ -1,5 +1,4 @@
-Sphaerialea primulicola (G. Winter) Sousa da Câmara SPECIES
-=======
+# Sphaerialea primulicola (G. Winter) Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

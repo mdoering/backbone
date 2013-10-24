@@ -1,8 +1,7 @@
-Lionotus digitatus Grandori & Grandori, 1934 SPECIES
-=======
+# Litonotus digitatus Grandori & Grandori, 1934 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

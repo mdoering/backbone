@@ -1,14 +1,13 @@
-Astrosporina napipes (J.E. Lange) A. Pearson, 1938 SPECIES
-=======
+# Inocybe napipes J.E. Lange, 1917 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 22(1-2): 28 (1938)
+Dansk bot. Ark. 2(no. 7): 44 (1917)
 
 #### Original name
 Inocybe napipes J.E. Lange, 1917

@@ -1,5 +1,4 @@
-Micropeltidium lauraceifolii Bat. & O.M. Fonseca SPECIES
-=======
+# Micropeltidium lauraceifolii Bat. & O.M. Fonseca SPECIES
 
 #### Status
 ACCEPTED

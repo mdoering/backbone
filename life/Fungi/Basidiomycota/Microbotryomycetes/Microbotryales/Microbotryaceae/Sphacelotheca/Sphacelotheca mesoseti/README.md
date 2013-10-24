@@ -1,5 +1,4 @@
-Sphacelotheca mesoseti Zundel SPECIES
-=======
+# Sphacelotheca mesoseti Zundel SPECIES
 
 #### Status
 ACCEPTED

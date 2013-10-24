@@ -1,5 +1,4 @@
-Entoloma convexum G. Stev., 1962 SPECIES
-=======
+# Entoloma convexum G. Stev., 1962 SPECIES
 
 #### Status
 ACCEPTED

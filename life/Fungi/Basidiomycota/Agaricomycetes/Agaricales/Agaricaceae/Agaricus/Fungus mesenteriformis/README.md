@@ -1,5 +1,4 @@
-Fungus mesenteriformis Scop. SPECIES
-=======
+# Fungus mesenteriformis Scop. SPECIES
 
 #### Status
 ACCEPTED

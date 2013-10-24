@@ -1,17 +1,16 @@
-Phoma molleri J.V. Almeida & Sousa da Câmara SPECIES
-=======
+# Phoma moelleri J.V. Almeida & Sousa da Câmara SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revista Agronomica 2: 217 (1904)
 
 #### Original name
-Phoma molleri J.V. Almeida & Sousa da Câmara
+Phoma moelleri J.V. Almeida & Sousa da Câmara
 
 ### Remarks
 null

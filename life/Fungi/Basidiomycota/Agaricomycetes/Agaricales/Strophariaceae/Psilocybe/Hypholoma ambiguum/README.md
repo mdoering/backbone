@@ -1,5 +1,4 @@
-Hypholoma ambiguum Peck SPECIES
-=======
+# Hypholoma ambiguum Peck SPECIES
 
 #### Status
 ACCEPTED

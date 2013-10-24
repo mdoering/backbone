@@ -1,5 +1,4 @@
-Exserohilum elongatum Del Serrone, Porta-Puglia & Sivan. SPECIES
-=======
+# Exserohilum elongatum Del Serrone, Porta-Puglia & Sivan. SPECIES
 
 #### Status
 ACCEPTED

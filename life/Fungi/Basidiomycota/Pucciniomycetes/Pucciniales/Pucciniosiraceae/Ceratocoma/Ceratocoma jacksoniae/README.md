@@ -1,14 +1,13 @@
-Cionothrix jacksoniae (Henn.) Syd. & P. Syd., 1919 SPECIES
-=======
+# Ceratocoma jacksoniae (Henn. ex McAlpine) Buriticá & J.F. Hennen, 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 16: 243 (1919)
+in Buriticá, Revta Acad. colomb. cienc. exact. fís. nat. 18(no. 69): 146 (1991)
 
 #### Original name
 Cronartium jacksoniae Henn., 1901

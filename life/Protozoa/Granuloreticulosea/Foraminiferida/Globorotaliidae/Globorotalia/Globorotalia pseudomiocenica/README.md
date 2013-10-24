@@ -1,5 +1,4 @@
-Globorotalia pseudomiocenica Bolli & Bermudez SPECIES
-=======
+# Globorotalia pseudomiocenica Bolli & Bermudez SPECIES
 
 #### Status
 ACCEPTED

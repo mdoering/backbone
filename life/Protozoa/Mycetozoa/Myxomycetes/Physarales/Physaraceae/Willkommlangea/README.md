@@ -1,17 +1,16 @@
-Cienkowskia Rostaf. GENUS
-=======
+# Willkommlangea Kuntze, 1891 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Vers. Syst. Mycetozoen (Strassburg) 9 (1873)
+null
 
 #### Original name
-Cienkowskia Rostaf.
+null
 
 ### Remarks
 null

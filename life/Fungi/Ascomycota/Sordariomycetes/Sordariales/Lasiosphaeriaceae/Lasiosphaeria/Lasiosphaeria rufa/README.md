@@ -1,5 +1,4 @@
-Lasiosphaeria rufa Cand., J. Fourn. & Magni SPECIES
-=======
+# Lasiosphaeria rufa Cand., J. Fourn. & Magni SPECIES
 
 #### Status
 ACCEPTED

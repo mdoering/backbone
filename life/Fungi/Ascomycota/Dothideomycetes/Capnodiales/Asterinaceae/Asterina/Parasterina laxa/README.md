@@ -1,5 +1,4 @@
-Parasterina laxa (Doidge) Doidge SPECIES
-=======
+# Parasterina laxa (Doidge) Doidge SPECIES
 
 #### Status
 ACCEPTED

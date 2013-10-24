@@ -1,14 +1,13 @@
-Saccomorpha dasaea (Stirt.) Khodos. SPECIES
-=======
+# Placynthiella dasaea (Stirt.) Tønsberg SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-in Kondratyuk, Navrotskaya, Khodosovtsev & Solonina, Bocconea 6: 293 (1996)
+Sommerfeltia 14: 271 (1992)
 
 #### Original name
 Lecidea dasaea Stirt.

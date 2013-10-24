@@ -1,5 +1,4 @@
-Nodosaria quadrilaterata SPECIES
-=======
+# Nodosaria quadrilaterata SPECIES
 
 #### Status
 ACCEPTED

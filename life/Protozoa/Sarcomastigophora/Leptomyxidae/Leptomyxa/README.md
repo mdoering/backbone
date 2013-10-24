@@ -1,5 +1,4 @@
-Leptomyxa Goodey, 1914 GENUS
-=======
+# Leptomyxa Goodey, 1914 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium peucedani W. Voss SPECIES
-=======
+# Aecidium peucedani W. Voss SPECIES
 
 #### Status
 ACCEPTED

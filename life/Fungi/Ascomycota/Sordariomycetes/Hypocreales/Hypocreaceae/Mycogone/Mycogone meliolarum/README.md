@@ -1,5 +1,4 @@
-Mycogone meliolarum Pat. SPECIES
-=======
+# Mycogone meliolarum Pat. SPECIES
 
 #### Status
 ACCEPTED

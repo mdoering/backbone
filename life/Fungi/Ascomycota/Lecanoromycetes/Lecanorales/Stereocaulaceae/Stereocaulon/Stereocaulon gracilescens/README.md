@@ -1,5 +1,4 @@
-Stereocaulon gracilescens Nyl. SPECIES
-=======
+# Stereocaulon gracilescens Nyl. SPECIES
 
 #### Status
 ACCEPTED

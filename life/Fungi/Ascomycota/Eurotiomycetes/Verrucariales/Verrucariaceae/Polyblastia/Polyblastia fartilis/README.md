@@ -1,5 +1,4 @@
-Polyblastia fartilis (Nyl.) Boistel SPECIES
-=======
+# Polyblastia fartilis (Nyl.) Boistel SPECIES
 
 #### Status
 ACCEPTED

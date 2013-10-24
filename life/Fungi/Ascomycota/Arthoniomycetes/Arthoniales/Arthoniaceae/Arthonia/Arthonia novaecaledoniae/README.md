@@ -1,5 +1,4 @@
-Arthonia novaecaledoniae Lücking & Kalb SPECIES
-=======
+# Arthonia novaecaledoniae Lücking & Kalb SPECIES
 
 #### Status
 ACCEPTED

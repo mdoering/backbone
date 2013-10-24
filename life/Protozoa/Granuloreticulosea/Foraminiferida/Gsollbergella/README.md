@@ -1,5 +1,4 @@
-Gsollbergella Zaninetti, 1979 GENUS
-=======
+# Gsollbergella Zaninetti, 1979 GENUS
 
 #### Status
 ACCEPTED

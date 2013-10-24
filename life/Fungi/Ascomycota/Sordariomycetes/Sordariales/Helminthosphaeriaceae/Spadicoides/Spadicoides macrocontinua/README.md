@@ -1,5 +1,4 @@
-Spadicoides macrocontinua Matsush. SPECIES
-=======
+# Spadicoides macrocontinua Matsush. SPECIES
 
 #### Status
 ACCEPTED

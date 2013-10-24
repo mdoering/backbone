@@ -1,5 +1,4 @@
-Pleonectria caraganae Danilova SPECIES
-=======
+# Pleonectria caraganae Danilova SPECIES
 
 #### Status
 ACCEPTED

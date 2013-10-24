@@ -1,5 +1,4 @@
-Meliola cordiae-rufescentis Hansf. & Bat. SPECIES
-=======
+# Meliola cordiae-rufescentis Hansf. & Bat. SPECIES
 
 #### Status
 ACCEPTED

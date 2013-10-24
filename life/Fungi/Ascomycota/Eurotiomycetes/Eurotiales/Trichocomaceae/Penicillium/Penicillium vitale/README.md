@@ -1,5 +1,4 @@
-Penicillium vitale Pidopl. & Bilai SPECIES
-=======
+# Penicillium vitale Pidopl. & Bilai SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius atrobrunneus (Pat.) Sacc. SPECIES
-=======
+# Marasmius atrobrunneus (Pat.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

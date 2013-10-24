@@ -1,5 +1,4 @@
-Lacunosphaeridium Uutela & Tynni, 1991 GENUS
-=======
+# Lacunosphaeridium Uutela & Tynni, 1991 GENUS
 
 #### Status
 ACCEPTED

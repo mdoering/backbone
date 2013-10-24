@@ -1,5 +1,4 @@
-Clintamra Cordas & Durán GENUS
-=======
+# Clintamra Cordas & Durán GENUS
 
 #### Status
 ACCEPTED

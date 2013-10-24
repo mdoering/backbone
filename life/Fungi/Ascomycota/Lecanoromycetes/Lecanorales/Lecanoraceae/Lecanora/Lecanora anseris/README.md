@@ -1,5 +1,4 @@
-Lecanora anseris Lynge SPECIES
-=======
+# Lecanora anseris Lynge SPECIES
 
 #### Status
 ACCEPTED

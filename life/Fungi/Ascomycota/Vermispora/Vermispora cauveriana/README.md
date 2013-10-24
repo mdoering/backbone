@@ -1,5 +1,4 @@
-Vermispora cauveriana Rajash., Bhat & Kaver. SPECIES
-=======
+# Vermispora cauveriana Rajash., Bhat & Kaver. SPECIES
 
 #### Status
 ACCEPTED

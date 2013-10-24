@@ -1,5 +1,4 @@
-Amphisphaerantha Haeckel, 1887 GENUS
-=======
+# Amphisphaerantha Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

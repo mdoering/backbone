@@ -1,5 +1,4 @@
-Asterophora cryptarum (Secr. ex Fr.) Kuntze SPECIES
-=======
+# Asterophora cryptarum (Secr. ex Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula alternata (Melzer & Zvára) J. Blum ex Bon SPECIES
-=======
+# Russula alternata (Melzer & Zvára) J. Blum ex Bon SPECIES
 
 #### Status
 ACCEPTED

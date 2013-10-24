@@ -1,5 +1,4 @@
-Picoa Vittad. GENUS
-=======
+# Picoa Vittad. GENUS
 
 #### Status
 ACCEPTED

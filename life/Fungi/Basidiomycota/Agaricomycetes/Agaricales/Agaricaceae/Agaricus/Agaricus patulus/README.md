@@ -1,5 +1,4 @@
-Agaricus patulus Fr. SPECIES
-=======
+# Agaricus patulus Fr. SPECIES
 
 #### Status
 ACCEPTED

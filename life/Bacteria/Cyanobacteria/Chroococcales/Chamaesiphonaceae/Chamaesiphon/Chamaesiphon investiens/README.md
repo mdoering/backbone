@@ -1,5 +1,4 @@
-Chamaesiphon investiens var. investiens VARIETY
-=======
+# Chamaesiphon investiens Skuja SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macowanites fulvescens Singer & A.H. Sm. SPECIES
-=======
+# Macowanites fulvescens Singer & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

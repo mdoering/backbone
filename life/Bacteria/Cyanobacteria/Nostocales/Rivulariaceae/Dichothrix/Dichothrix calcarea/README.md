@@ -1,5 +1,4 @@
-Dichothrix calcarea Tilden SPECIES
-=======
+# Dichothrix calcarea Tilden SPECIES
 
 #### Status
 ACCEPTED

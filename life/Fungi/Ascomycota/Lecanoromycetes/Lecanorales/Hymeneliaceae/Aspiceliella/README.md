@@ -1,5 +1,4 @@
-Aspiceliella M. Choisy GENUS
-=======
+# Aspiceliella M. Choisy GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Usnea amaliae Motyka SPECIES
-=======
+# Usnea amaliae Motyka SPECIES
 
 #### Status
 ACCEPTED

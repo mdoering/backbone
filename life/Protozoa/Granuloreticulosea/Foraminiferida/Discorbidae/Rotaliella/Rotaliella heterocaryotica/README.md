@@ -1,5 +1,4 @@
-Rotaliella heterocaryotica Grell, 1954 SPECIES
-=======
+# Rotaliella heterocaryotica Grell, 1954 SPECIES
 
 #### Status
 ACCEPTED

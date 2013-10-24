@@ -1,5 +1,4 @@
-Peridermium conorum-piceae (R.G. Rees) Arthur & F. Kern SPECIES
-=======
+# Peridermium conorum-piceae (R.G. Rees) Arthur & F. Kern SPECIES
 
 #### Status
 ACCEPTED

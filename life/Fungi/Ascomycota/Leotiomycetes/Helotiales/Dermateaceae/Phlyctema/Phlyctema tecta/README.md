@@ -1,5 +1,4 @@
-Phlyctema tecta (Schwein.) Cooke SPECIES
-=======
+# Phlyctema tecta (Schwein.) Cooke SPECIES
 
 #### Status
 ACCEPTED

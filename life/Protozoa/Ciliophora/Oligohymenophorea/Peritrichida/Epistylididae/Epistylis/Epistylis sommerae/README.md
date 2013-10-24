@@ -1,5 +1,4 @@
-Epistylis sommerae Schödel, 1987 SPECIES
-=======
+# Epistylis sommerae Schödel, 1987 SPECIES
 
 #### Status
 ACCEPTED

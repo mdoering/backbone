@@ -1,5 +1,4 @@
-Pyrrhospora russellii (Tuck.) SPECIES
-=======
+# Pyrrhospora russellii (Tuck.) SPECIES
 
 #### Status
 ACCEPTED

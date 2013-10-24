@@ -1,5 +1,4 @@
-Mycosphaerella taeniographa Petr. SPECIES
-=======
+# Mycosphaerella taeniographa Petr. SPECIES
 
 #### Status
 ACCEPTED

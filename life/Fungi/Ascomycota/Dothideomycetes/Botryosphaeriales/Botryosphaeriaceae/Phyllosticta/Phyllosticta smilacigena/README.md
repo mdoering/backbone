@@ -1,5 +1,4 @@
-Phyllosticta smilacigena Bubák & Dearn. SPECIES
-=======
+# Phyllosticta smilacigena Bubák & Dearn. SPECIES
 
 #### Status
 ACCEPTED

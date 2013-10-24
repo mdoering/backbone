@@ -1,5 +1,4 @@
-Favulina colubrosacosta Loeblich & Tappan, 1994 SPECIES
-=======
+# Favulina colubrosacosta Loeblich & Tappan, 1994 SPECIES
 
 #### Status
 ACCEPTED

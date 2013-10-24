@@ -1,14 +1,13 @@
-Hypogymnia oroarctica Krog SPECIES
-=======
+# Brodoa oroarctica (Krog) Goward SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lichenologist 6(2): 136 (1974)
+Bryologist 89(3): 222 (1987)
 
 #### Original name
 Hypogymnia oroarctica Krog

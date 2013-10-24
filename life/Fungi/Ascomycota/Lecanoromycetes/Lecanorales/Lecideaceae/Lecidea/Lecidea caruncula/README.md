@@ -1,5 +1,4 @@
-Lecidea caruncula Stizenb. SPECIES
-=======
+# Lecidea caruncula Stizenb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia obtecta Peck SPECIES
-=======
+# Puccinia obtecta Peck SPECIES
 
 #### Status
 ACCEPTED

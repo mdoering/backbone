@@ -1,5 +1,4 @@
-Cooksonomyces H.J. Swart & D.A. Griffiths GENUS
-=======
+# Cooksonomyces H.J. Swart & D.A. Griffiths GENUS
 
 #### Status
 ACCEPTED

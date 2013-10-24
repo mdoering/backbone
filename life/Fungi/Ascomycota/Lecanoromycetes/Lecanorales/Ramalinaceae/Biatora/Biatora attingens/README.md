@@ -1,5 +1,4 @@
-Biatora attingens Arnold SPECIES
-=======
+# Biatora attingens Arnold SPECIES
 
 #### Status
 ACCEPTED

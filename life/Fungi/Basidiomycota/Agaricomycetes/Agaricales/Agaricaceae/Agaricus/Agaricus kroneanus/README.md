@@ -1,5 +1,4 @@
-Agaricus kroneanus Rabenh., 1878 SPECIES
-=======
+# Agaricus kroneanus Rabenh., 1878 SPECIES
 
 #### Status
 ACCEPTED

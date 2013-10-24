@@ -1,5 +1,4 @@
-Mycosphaerella yanagawaensis Togashi SPECIES
-=======
+# Mycosphaerella yanagawaensis Togashi SPECIES
 
 #### Status
 ACCEPTED

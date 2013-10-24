@@ -1,8 +1,7 @@
-Diplocladium Bonorden, 1851 GENUS
-=======
+# Cladobotryum Nees, 1816 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

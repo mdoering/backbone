@@ -1,5 +1,4 @@
-Placographa mexicana Rehm SPECIES
-=======
+# Placographa mexicana Rehm SPECIES
 
 #### Status
 ACCEPTED

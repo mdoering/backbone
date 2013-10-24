@@ -1,5 +1,4 @@
-Meliola foliae-ravenalae Bat. & Nascim. SPECIES
-=======
+# Meliola foliae-ravenalae Bat. & Nascim. SPECIES
 
 #### Status
 ACCEPTED

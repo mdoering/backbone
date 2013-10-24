@@ -1,5 +1,4 @@
-Coleomyces rufus Moreau & M. Moreau SPECIES
-=======
+# Coleomyces rufus Moreau & M. Moreau SPECIES
 
 #### Status
 ACCEPTED

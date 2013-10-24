@@ -1,5 +1,4 @@
-Trichophrya melo SPECIES
-=======
+# Trichophrya melo SPECIES
 
 #### Status
 ACCEPTED

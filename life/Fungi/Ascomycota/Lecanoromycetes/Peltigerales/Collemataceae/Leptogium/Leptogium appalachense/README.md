@@ -1,5 +1,4 @@
-Leptogium appalachense SPECIES
-=======
+# Leptogium appalachense SPECIES
 
 #### Status
 ACCEPTED

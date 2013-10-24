@@ -1,5 +1,4 @@
-Tricharia heterella (Stirt.) Lücking SPECIES
-=======
+# Tricharia heterella (Stirt.) Lücking SPECIES
 
 #### Status
 ACCEPTED

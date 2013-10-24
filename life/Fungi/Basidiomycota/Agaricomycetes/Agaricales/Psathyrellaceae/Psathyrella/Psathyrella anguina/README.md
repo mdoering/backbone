@@ -1,5 +1,4 @@
-Psathyrella anguina (V. Brig.) Sacc. & Traverso SPECIES
-=======
+# Psathyrella anguina (V. Brig.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

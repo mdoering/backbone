@@ -1,5 +1,4 @@
-Aspergillus quininae R. Heim SPECIES
-=======
+# Aspergillus quininae R. Heim SPECIES
 
 #### Status
 ACCEPTED

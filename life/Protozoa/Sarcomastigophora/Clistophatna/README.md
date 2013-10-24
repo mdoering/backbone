@@ -1,5 +1,4 @@
-Clistophatna Haeckel, 1881 GENUS
-=======
+# Clistophatna Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

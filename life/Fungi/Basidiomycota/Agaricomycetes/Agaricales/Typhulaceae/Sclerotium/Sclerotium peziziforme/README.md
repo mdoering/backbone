@@ -1,17 +1,16 @@
-Sclerotium pezizaeforme Schumach. SPECIES
-=======
+# Sclerotium peziziforme Schumach. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Enum. pl. (Kjbenhavn) 2: 186 (1803)
 
 #### Original name
-Sclerotium pezizaeforme Schumach.
+Sclerotium peziziforme Schumach.
 
 ### Remarks
 null

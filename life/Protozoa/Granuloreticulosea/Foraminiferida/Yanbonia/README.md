@@ -1,5 +1,4 @@
-Yanbonia Sahni & Sastri, 1954 GENUS
-=======
+# Yanbonia Sahni & Sastri, 1954 GENUS
 
 #### Status
 ACCEPTED

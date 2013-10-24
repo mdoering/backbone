@@ -1,5 +1,4 @@
-Puccinia eatoniae var. eatoniae VARIETY
-=======
+# Puccinia eatoniae Arthur SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 J. Mycol. 10: 18 (1904)
 
 #### Original name
-Puccinia eatoniae var. eatoniae
+Puccinia eatoniae Arthur
 
 ### Remarks
 null

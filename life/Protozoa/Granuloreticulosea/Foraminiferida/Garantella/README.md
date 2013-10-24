@@ -1,5 +1,4 @@
-Garantella Kaptarinko-Chernoussova, 1956 GENUS
-=======
+# Garantella Kaptarinko-Chernoussova, 1956 GENUS
 
 #### Status
 ACCEPTED

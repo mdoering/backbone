@@ -1,5 +1,4 @@
-Caloplaca livida (Hepp) Jatta SPECIES
-=======
+# Caloplaca livida (Hepp) Jatta SPECIES
 
 #### Status
 ACCEPTED

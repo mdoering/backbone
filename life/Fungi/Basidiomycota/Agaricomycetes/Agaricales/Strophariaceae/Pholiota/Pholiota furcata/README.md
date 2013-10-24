@@ -1,5 +1,4 @@
-Pholiota furcata Overh. SPECIES
-=======
+# Pholiota furcata Overh. SPECIES
 
 #### Status
 ACCEPTED

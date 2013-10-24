@@ -1,5 +1,4 @@
-Paradidymobotryum C.J.K. Wang & B. Sutton GENUS
-=======
+# Paradidymobotryum C.J.K. Wang & B. Sutton GENUS
 
 #### Status
 ACCEPTED

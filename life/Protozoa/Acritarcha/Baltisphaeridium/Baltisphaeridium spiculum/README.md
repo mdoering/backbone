@@ -1,5 +1,4 @@
-Baltisphaeridium spiculum Rasul, 1979 SPECIES
-=======
+# Baltisphaeridium spiculum Rasul, 1979 SPECIES
 
 #### Status
 ACCEPTED

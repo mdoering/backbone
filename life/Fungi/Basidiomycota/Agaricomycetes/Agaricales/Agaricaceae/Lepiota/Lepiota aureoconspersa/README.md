@@ -1,5 +1,4 @@
-Lepiota aureoconspersa Rick SPECIES
-=======
+# Lepiota aureoconspersa Rick SPECIES
 
 #### Status
 ACCEPTED

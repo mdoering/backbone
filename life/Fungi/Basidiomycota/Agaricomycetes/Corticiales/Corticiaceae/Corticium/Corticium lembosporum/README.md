@@ -1,5 +1,4 @@
-Corticium lembosporum SPECIES
-=======
+# Corticium lembosporum SPECIES
 
 #### Status
 ACCEPTED

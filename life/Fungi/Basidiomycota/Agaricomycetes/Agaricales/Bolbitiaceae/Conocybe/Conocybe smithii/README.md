@@ -1,5 +1,4 @@
-Conocybe smithii Watling SPECIES
-=======
+# Conocybe smithii Watling SPECIES
 
 #### Status
 ACCEPTED

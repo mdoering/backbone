@@ -1,5 +1,4 @@
-Sphaeria carpina Sowerby SPECIES
-=======
+# Sphaeria carpina Sowerby SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora dodonaeae Boesew., 1981 SPECIES
-=======
+# Pseudocercospora dodonaeae Boesew., 1981 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora microphylla var. microphylla VARIETY
-=======
+# Lecanora microphylla Hue SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 13(2): 77 (1915)
 
 #### Original name
-Lecanora microphylla var. microphylla
+Lecanora microphylla Hue
 
 ### Remarks
 null

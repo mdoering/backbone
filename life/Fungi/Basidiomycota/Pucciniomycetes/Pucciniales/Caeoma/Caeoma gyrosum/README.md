@@ -1,5 +1,4 @@
-Caeoma gyrosum Schltdl. SPECIES
-=======
+# Caeoma gyrosum Schltdl. SPECIES
 
 #### Status
 ACCEPTED

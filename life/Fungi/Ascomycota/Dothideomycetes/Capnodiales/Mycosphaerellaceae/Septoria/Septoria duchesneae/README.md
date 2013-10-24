@@ -1,5 +1,4 @@
-Septoria duchesneae Sawada SPECIES
-=======
+# Septoria duchesneae Sawada SPECIES
 
 #### Status
 ACCEPTED

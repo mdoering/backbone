@@ -1,5 +1,4 @@
-Nectria punctum Boud. SPECIES
-=======
+# Nectria punctum Boud. SPECIES
 
 #### Status
 ACCEPTED

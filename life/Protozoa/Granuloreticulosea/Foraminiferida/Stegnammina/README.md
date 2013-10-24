@@ -1,5 +1,4 @@
-Stegnammina Moreman, 1930 GENUS
-=======
+# Stegnammina Moreman, 1930 GENUS
 
 #### Status
 ACCEPTED

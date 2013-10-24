@@ -1,5 +1,4 @@
-Hebeloma rivulosum Hesler SPECIES
-=======
+# Hebeloma rivulosum Hesler SPECIES
 
 #### Status
 ACCEPTED

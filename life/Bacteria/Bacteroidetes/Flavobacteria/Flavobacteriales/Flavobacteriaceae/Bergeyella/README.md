@@ -1,5 +1,4 @@
-Bergeyella Vandamme et al., 1994 GENUS
-=======
+# Bergeyella Vandamme et al., 1994 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletellus plurigibbus R. Heim & Perr.-Bertr. SPECIES
-=======
+# Boletellus plurigibbus R. Heim & Perr.-Bertr. SPECIES
 
 #### Status
 ACCEPTED

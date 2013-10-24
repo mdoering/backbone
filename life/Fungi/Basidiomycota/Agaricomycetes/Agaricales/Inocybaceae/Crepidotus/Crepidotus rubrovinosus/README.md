@@ -1,5 +1,4 @@
-Crepidotus rubrovinosus Bandala, Montoya & E. Horak, 2006 SPECIES
-=======
+# Crepidotus rubrovinosus Bandala, Montoya & E. Horak, 2006 SPECIES
 
 #### Status
 ACCEPTED

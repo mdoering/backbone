@@ -1,14 +1,13 @@
-Galera fragilis var. clavata Velen., 1921 VARIETY
-=======
+# Galerina clavata (Velen.) Kühner, 1935 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ceské Houby 3: 548 (1921)
+Encyclop. Mycol. 7: 222 (1935)
 
 #### Original name
 Galera fragilis var. clavata Velen., 1921

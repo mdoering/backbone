@@ -1,5 +1,4 @@
-Spetazoon Foissner, 1994 GENUS
-=======
+# Spetazoon Foissner, 1994 GENUS
 
 #### Status
 ACCEPTED

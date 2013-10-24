@@ -1,5 +1,4 @@
-Pseudocercospora chloroxyli (T.S. Ramakr. & G.S. Reddy) U. Braun, Bagyan. & Jagad. SPECIES
-=======
+# Pseudocercospora chloroxyli (T.S. Ramakr. & G.S. Reddy) U. Braun, Bagyan. & Jagad. SPECIES
 
 #### Status
 ACCEPTED

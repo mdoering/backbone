@@ -1,5 +1,4 @@
-Leptosphaeria mellispora M.L. Farr & Horner SPECIES
-=======
+# Leptosphaeria mellispora M.L. Farr & Horner SPECIES
 
 #### Status
 ACCEPTED

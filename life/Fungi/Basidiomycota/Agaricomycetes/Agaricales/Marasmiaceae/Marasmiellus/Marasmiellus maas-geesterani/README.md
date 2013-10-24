@@ -1,5 +1,4 @@
-Marasmiellus maas-geesterani Robich & E. Campo SPECIES
-=======
+# Marasmiellus maas-geesterani Robich & E. Campo SPECIES
 
 #### Status
 ACCEPTED

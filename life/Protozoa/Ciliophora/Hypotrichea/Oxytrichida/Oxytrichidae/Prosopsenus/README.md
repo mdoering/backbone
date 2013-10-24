@@ -1,5 +1,4 @@
-Prosopsenus André, 1916 GENUS
-=======
+# Prosopsenus André, 1916 GENUS
 
 #### Status
 ACCEPTED

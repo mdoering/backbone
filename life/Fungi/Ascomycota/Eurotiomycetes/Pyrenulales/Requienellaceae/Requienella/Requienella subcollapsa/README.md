@@ -1,5 +1,4 @@
-Requienella subcollapsa (Ellis & Everh.) R.C. Harris SPECIES
-=======
+# Requienella subcollapsa (Ellis & Everh.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

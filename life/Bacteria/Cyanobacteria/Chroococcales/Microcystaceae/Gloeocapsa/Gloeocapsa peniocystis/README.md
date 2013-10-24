@@ -1,5 +1,4 @@
-Gloeocapsa peniocystis Kützing SPECIES
-=======
+# Gloeocapsa peniocystis Kützing SPECIES
 
 #### Status
 ACCEPTED

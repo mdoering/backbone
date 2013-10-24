@@ -1,17 +1,16 @@
-Empusa weberi G. Lakon, 1939 SPECIES
-=======
+# Entomophthora weberi G. Lakon ex Samson, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Z. angew. Entomol. 26: 518 (1939)
+in Samson, Ramakers & Oswald, Can. J. Bot. 57(12): 1322 (1979)
 
 #### Original name
-Empusa weberi G. Lakon, 1939
+Entomophthora weberi G. Lakon ex Samson, 1979
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Sticta rufa f. rufa FORM
-=======
+# Sticta rufa Willd. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sticta rufa f. rufa
+Sticta rufa Willd.
 
 ### Remarks
 null

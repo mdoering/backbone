@@ -1,5 +1,4 @@
-Cytospora prunorum Sacc. & P. Syd., 1904 SPECIES
-=======
+# Cytospora prunorum Sacc. & P. Syd., 1904 SPECIES
 
 #### Status
 ACCEPTED

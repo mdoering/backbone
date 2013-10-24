@@ -1,5 +1,4 @@
-Dictyochaeta ramulosetula Kuthub., 1987 SPECIES
-=======
+# Dictyochaeta ramulosetula Kuthub., 1987 SPECIES
 
 #### Status
 ACCEPTED

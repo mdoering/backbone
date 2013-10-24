@@ -1,5 +1,4 @@
-Ellipsoidion pachydermum H. Ettl SPECIES
-=======
+# Ellipsoidion pachydermum H. Ettl SPECIES
 
 #### Status
 ACCEPTED

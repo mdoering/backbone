@@ -1,5 +1,4 @@
-Spirotremesporites ecuatorialis Dueñas SPECIES
-=======
+# Spirotremesporites ecuatorialis Dueñas SPECIES
 
 #### Status
 ACCEPTED

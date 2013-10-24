@@ -1,5 +1,4 @@
-Diplodia lupini Cooke & Harkn. SPECIES
-=======
+# Diplodia lupini Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

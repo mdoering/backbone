@@ -1,5 +1,4 @@
-Ornithocercus triclavatus Wood, 1954 SPECIES
-=======
+# Ornithocercus triclavatus Wood, 1954 SPECIES
 
 #### Status
 ACCEPTED

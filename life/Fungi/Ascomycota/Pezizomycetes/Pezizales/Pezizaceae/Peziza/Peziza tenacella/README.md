@@ -1,5 +1,4 @@
-Peziza tenacella W. Phillips SPECIES
-=======
+# Peziza tenacella W. Phillips SPECIES
 
 #### Status
 ACCEPTED

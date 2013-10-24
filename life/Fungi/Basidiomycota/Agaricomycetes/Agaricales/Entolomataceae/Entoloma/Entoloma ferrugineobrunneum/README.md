@@ -1,5 +1,4 @@
-Entoloma ferrugineobrunneum W.M. Zhang SPECIES
-=======
+# Entoloma ferrugineobrunneum W.M. Zhang SPECIES
 
 #### Status
 ACCEPTED

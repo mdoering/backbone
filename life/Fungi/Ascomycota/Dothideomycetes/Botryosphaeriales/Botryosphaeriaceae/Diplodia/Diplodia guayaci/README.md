@@ -1,5 +1,4 @@
-Diplodia guayaci Gonz. Frag. & Cif. SPECIES
-=======
+# Diplodia guayaci Gonz. Frag. & Cif. SPECIES
 
 #### Status
 ACCEPTED

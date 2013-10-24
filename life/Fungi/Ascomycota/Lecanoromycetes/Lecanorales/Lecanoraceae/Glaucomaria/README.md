@@ -1,5 +1,4 @@
-Glaucomaria GENUS
-=======
+# Glaucomaria GENUS
 
 #### Status
 ACCEPTED

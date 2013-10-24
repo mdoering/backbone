@@ -1,5 +1,4 @@
-Puccinia gilva Arthur & Holw. SPECIES
-=======
+# Puccinia gilva Arthur & Holw. SPECIES
 
 #### Status
 ACCEPTED

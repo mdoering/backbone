@@ -1,5 +1,4 @@
-Cohnella hongkongensis Kämpfer et al., 2006 SPECIES
-=======
+# Cohnella hongkongensis Kämpfer et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

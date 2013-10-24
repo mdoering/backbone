@@ -1,5 +1,4 @@
-Lophodermellina passiflorae (Rehm) Tehon SPECIES
-=======
+# Lophodermellina passiflorae (Rehm) Tehon SPECIES
 
 #### Status
 ACCEPTED

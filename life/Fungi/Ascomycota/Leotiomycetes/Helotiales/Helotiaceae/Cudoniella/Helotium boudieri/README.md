@@ -1,17 +1,16 @@
-Calycina boudieri (Sacc.) Kuntze, 1898 SPECIES
-=======
+# Helotium boudieri Sacc., 1892 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 448 (1898)
+Syll. fung. (Abellini) 10: 7 (1892)
 
 #### Original name
-Helotium boudieri Sacc., 1892
+Helotium ochraceum (Grev.) Berk., 1860
 
 ### Remarks
 null

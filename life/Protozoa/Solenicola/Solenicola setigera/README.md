@@ -1,8 +1,7 @@
-Rhizomonas setigera (Pavillard) Patterson, Nygaard, Steinberg & Turley, 1993 SPECIES
-=======
+# Solenicola setigera Pavillard, 1916 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

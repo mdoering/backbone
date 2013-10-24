@@ -1,14 +1,13 @@
-Cantharellus inaequalis Berk. & Broome, 1875 SPECIES
-=======
+# Trogia inaequalis (Berk. & Broome) Corner, 1966 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Linn. Soc. , Bot. 14(2): 33 (1875)
+Monogr. Cantharelloid Fungi 219 (1966)
 
 #### Original name
 Cantharellus inaequalis Berk. & Broome, 1875

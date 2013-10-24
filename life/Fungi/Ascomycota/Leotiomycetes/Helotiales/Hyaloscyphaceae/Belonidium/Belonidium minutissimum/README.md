@@ -1,5 +1,4 @@
-Belonidium minutissimum (Batsch) W. Phillips, 1887 SPECIES
-=======
+# Belonidium minutissimum (Batsch) W. Phillips, 1887 SPECIES
 
 #### Status
 ACCEPTED

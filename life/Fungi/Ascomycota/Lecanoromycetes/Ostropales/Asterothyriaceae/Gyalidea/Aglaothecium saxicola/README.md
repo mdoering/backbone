@@ -1,5 +1,4 @@
-Aglaothecium saxicola Groenh. SPECIES
-=======
+# Aglaothecium saxicola Groenh. SPECIES
 
 #### Status
 ACCEPTED

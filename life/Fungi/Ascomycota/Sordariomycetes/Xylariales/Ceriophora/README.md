@@ -1,5 +1,4 @@
-Ceriophora GENUS
-=======
+# Ceriophora GENUS
 
 #### Status
 ACCEPTED

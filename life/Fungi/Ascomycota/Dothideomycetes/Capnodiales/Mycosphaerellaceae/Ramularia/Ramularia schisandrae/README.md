@@ -1,5 +1,4 @@
-Ramularia schisandrae Ablak. & Koval SPECIES
-=======
+# Ramularia schisandrae Ablak. & Koval SPECIES
 
 #### Status
 ACCEPTED

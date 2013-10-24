@@ -1,8 +1,7 @@
-Melampsora klebahni Bubák SPECIES
-=======
+# Melampsora klebahnii Bubák SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Melampsora klebahni Bubák
+Melampsora klebahnii Bubák
 
 ### Remarks
 null

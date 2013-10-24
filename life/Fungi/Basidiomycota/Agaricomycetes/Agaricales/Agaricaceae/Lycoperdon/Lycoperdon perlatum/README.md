@@ -1,17 +1,16 @@
-Lycoperdon gemmatum var. gemmatum VARIETY
-=======
+# Lycoperdon perlatum Pers., 1796 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Elench. fung. (Halle) 147 (1783)
+Observ. mycol. (Lipsiae) 1: 145 (1796)
 
 #### Original name
-Lycoperdon gemmatum var. gemmatum
+Lycoperdon perlatum Pers., 1796
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pharcidia constrictella Müll. Arg. SPECIES
-=======
+# Pharcidia constrictella Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

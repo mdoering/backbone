@@ -1,5 +1,4 @@
-Dictyothyriella wildemanii (Beeli) F. Stevens & Manter SPECIES
-=======
+# Dictyothyriella wildemanii (Beeli) F. Stevens & Manter SPECIES
 
 #### Status
 ACCEPTED

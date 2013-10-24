@@ -1,5 +1,4 @@
-Fusarium opuntiarum Speg. SPECIES
-=======
+# Fusarium opuntiarum Speg. SPECIES
 
 #### Status
 ACCEPTED

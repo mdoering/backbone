@@ -1,5 +1,4 @@
-Asterinella capizensis J.M. Mend. SPECIES
-=======
+# Asterinella capizensis J.M. Mend. SPECIES
 
 #### Status
 ACCEPTED

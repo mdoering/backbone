@@ -1,5 +1,4 @@
-Psathyrella riparia Singer SPECIES
-=======
+# Psathyrella riparia Singer SPECIES
 
 #### Status
 ACCEPTED

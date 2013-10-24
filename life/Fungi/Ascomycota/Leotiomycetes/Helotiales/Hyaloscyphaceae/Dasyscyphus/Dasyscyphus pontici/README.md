@@ -1,17 +1,16 @@
-Dasyscypha pontici Raitv. SPECIES
-=======
+# Dasyscyphus pontici Raitv. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Kew Bull. , Addit. Ser. 31(3): 692 (1977)
 
 #### Original name
-Dasyscypha pontici Raitv.
+Dasyscyphus pontici Raitv.
 
 ### Remarks
 null

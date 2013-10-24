@@ -1,5 +1,4 @@
-Lactarius badioalbus Schulzer SPECIES
-=======
+# Lactarius badioalbus Schulzer SPECIES
 
 #### Status
 ACCEPTED

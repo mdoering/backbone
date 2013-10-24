@@ -1,5 +1,4 @@
-Gymnomyces cinnamomeus Singer & A.H. Sm. SPECIES
-=======
+# Gymnomyces cinnamomeus Singer & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

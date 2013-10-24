@@ -1,5 +1,4 @@
-Tripospermum fici C.D. Sharma, A.N. Rai & K.M. Vyas SPECIES
-=======
+# Tripospermum fici C.D. Sharma, A.N. Rai & K.M. Vyas SPECIES
 
 #### Status
 ACCEPTED

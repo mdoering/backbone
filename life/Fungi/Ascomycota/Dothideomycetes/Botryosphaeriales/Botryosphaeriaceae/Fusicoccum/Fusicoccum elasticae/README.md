@@ -1,5 +1,4 @@
-Fusicoccum elasticae Koord. SPECIES
-=======
+# Fusicoccum elasticae Koord. SPECIES
 
 #### Status
 ACCEPTED

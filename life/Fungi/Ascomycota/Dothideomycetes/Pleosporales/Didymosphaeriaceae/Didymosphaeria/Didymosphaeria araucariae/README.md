@@ -1,5 +1,4 @@
-Didymosphaeria araucariae Sousa da Câmara SPECIES
-=======
+# Didymosphaeria araucariae Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

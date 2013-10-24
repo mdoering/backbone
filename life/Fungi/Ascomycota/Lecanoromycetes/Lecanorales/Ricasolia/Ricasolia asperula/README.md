@@ -1,5 +1,4 @@
-Ricasolia asperula Stirt. SPECIES
-=======
+# Ricasolia asperula Stirt. SPECIES
 
 #### Status
 ACCEPTED

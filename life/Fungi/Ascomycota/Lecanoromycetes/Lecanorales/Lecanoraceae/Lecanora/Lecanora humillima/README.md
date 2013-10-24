@@ -1,5 +1,4 @@
-Lecanora humillima Hue SPECIES
-=======
+# Lecanora humillima Hue SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Saccharomyces arboricola F.Y. Bai & S.A. Wang, 2008 SPECIES
-=======
+# Saccharomyces arboricola F.Y. Bai & S.A. Wang, 2008 SPECIES
 
 #### Status
 ACCEPTED

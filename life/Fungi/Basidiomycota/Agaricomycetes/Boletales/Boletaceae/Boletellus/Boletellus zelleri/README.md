@@ -1,5 +1,4 @@
-Boletellus zelleri (Murrill) Singer, Snell & E.A. Dick SPECIES
-=======
+# Boletellus zelleri (Murrill) Singer, Snell & E.A. Dick SPECIES
 
 #### Status
 ACCEPTED

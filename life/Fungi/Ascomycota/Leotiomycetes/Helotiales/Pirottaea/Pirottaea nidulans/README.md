@@ -1,14 +1,13 @@
-Chaetoscypha nidulans Syd., 1924 SPECIES
-=======
+# Pirottaea nidulans (Syd.) P.R. Johnst., 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 22(3/6): 305 (1924)
+N. Z. Jl Bot. 40(4): 698 (2002)
 
 #### Original name
 Chaetoscypha nidulans Syd., 1924

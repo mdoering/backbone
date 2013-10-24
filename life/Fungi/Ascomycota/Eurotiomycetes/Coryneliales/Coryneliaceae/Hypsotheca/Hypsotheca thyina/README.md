@@ -1,5 +1,4 @@
-Hypsotheca thyina Ellis & Everh. SPECIES
-=======
+# Hypsotheca thyina Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

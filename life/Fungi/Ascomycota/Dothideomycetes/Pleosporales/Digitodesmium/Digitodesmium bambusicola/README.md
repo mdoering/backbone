@@ -1,5 +1,4 @@
-Digitodesmium bambusicola L. Cai, K.Q. Zhang, McKenzie, W.H. Ho & K.D. Hyde SPECIES
-=======
+# Digitodesmium bambusicola L. Cai, K.Q. Zhang, McKenzie, W.H. Ho & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Durella corrugata (Cooke & Peck) Sacc. SPECIES
-=======
+# Durella corrugata (Cooke & Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Penicillium opuntianum Granata SPECIES
-=======
+# Penicillium opuntianum Granata SPECIES
 
 #### Status
 ACCEPTED

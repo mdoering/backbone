@@ -1,5 +1,4 @@
-Dendrodomus annulatus Bubák, 1915 SPECIES
-=======
+# Dendrodomus annulatus Bubák, 1915 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhodopaxillus blancii Romagn. SPECIES
-=======
+# Rhodopaxillus blancii Romagn. SPECIES
 
 #### Status
 ACCEPTED

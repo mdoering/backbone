@@ -1,5 +1,4 @@
-Sphaerophragmium longicorne Eboh SPECIES
-=======
+# Sphaerophragmium longicorne Eboh SPECIES
 
 #### Status
 ACCEPTED

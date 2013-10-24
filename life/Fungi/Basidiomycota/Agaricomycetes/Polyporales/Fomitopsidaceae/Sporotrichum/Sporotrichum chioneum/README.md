@@ -1,5 +1,4 @@
-Sporotrichum chioneum Pers. SPECIES
-=======
+# Sporotrichum chioneum Pers. SPECIES
 
 #### Status
 ACCEPTED

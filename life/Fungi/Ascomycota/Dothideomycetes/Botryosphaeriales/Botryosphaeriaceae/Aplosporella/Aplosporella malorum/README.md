@@ -1,5 +1,4 @@
-Aplosporella malorum Sacc. SPECIES
-=======
+# Aplosporella malorum Sacc. SPECIES
 
 #### Status
 ACCEPTED

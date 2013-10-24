@@ -1,5 +1,4 @@
-Fusoma achyranthis Sawada SPECIES
-=======
+# Fusoma achyranthis Sawada SPECIES
 
 #### Status
 ACCEPTED

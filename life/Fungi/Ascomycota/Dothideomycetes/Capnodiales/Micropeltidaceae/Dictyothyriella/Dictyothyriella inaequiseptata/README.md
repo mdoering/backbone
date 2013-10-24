@@ -1,5 +1,4 @@
-Dictyothyriella inaequiseptata Cif. SPECIES
-=======
+# Dictyothyriella inaequiseptata Cif. SPECIES
 
 #### Status
 ACCEPTED

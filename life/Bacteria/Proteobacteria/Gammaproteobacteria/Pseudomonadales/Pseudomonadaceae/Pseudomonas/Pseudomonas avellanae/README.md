@@ -1,5 +1,4 @@
-Pseudomonas avellanae Janse et al., 1997 SPECIES
-=======
+# Pseudomonas avellanae Janse et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

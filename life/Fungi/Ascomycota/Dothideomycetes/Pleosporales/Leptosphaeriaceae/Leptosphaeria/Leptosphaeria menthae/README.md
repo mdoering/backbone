@@ -1,5 +1,4 @@
-Leptosphaeria menthae Fautrey & Lambotte, 1895 SPECIES
-=======
+# Leptosphaeria menthae Fautrey & Lambotte, 1895 SPECIES
 
 #### Status
 ACCEPTED

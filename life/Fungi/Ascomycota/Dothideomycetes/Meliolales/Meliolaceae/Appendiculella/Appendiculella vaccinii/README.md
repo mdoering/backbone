@@ -1,5 +1,4 @@
-Appendiculella vaccinii (Hansf.) Hansf. SPECIES
-=======
+# Appendiculella vaccinii (Hansf.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

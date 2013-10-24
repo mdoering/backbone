@@ -1,5 +1,4 @@
-Bacidia retigena (Hedl.) Zahlbr. SPECIES
-=======
+# Bacidia retigena (Hedl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

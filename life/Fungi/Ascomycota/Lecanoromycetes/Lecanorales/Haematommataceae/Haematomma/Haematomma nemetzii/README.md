@@ -1,5 +1,4 @@
-Haematomma nemetzii J. Steiner SPECIES
-=======
+# Haematomma nemetzii J. Steiner SPECIES
 
 #### Status
 ACCEPTED

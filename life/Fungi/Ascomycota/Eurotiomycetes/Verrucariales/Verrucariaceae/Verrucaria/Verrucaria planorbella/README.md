@@ -1,5 +1,4 @@
-Verrucaria planorbella Nyl. SPECIES
-=======
+# Verrucaria planorbella Nyl. SPECIES
 
 #### Status
 ACCEPTED

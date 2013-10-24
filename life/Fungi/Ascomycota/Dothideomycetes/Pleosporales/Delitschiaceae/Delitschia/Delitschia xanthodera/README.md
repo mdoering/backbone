@@ -1,5 +1,4 @@
-Delitschia xanthodera Luck-Allen & Cain SPECIES
-=======
+# Delitschia xanthodera Luck-Allen & Cain SPECIES
 
 #### Status
 ACCEPTED

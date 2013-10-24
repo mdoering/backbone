@@ -1,5 +1,4 @@
-Leptoniella flavobrunnea (Peck) Murrill SPECIES
-=======
+# Leptoniella flavobrunnea (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

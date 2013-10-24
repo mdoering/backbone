@@ -1,5 +1,4 @@
-Lasiosphaeria rufiseda Sacc. SPECIES
-=======
+# Lasiosphaeria rufiseda Sacc. SPECIES
 
 #### Status
 ACCEPTED

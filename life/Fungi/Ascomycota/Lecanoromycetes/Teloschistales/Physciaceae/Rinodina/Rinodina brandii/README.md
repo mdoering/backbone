@@ -1,5 +1,4 @@
-Rinodina brandii Giralt & Van den Boom SPECIES
-=======
+# Rinodina brandii Giralt & Van den Boom SPECIES
 
 #### Status
 ACCEPTED

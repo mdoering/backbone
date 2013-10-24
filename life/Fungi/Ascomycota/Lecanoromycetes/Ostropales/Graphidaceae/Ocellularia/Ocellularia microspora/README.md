@@ -1,14 +1,13 @@
-Leptotrema microsporum Zahlbr. SPECIES
-=======
+# Ocellularia microspora (Zahlbr.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 111(1): 392 (1902)
+Mycotaxon 11(1): 137 (1980)
 
 #### Original name
 Leptotrema microsporum Zahlbr.

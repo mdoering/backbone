@@ -1,5 +1,4 @@
-Asterinella puyana Petr., 1950 SPECIES
-=======
+# Asterinella puyana Petr., 1950 SPECIES
 
 #### Status
 ACCEPTED

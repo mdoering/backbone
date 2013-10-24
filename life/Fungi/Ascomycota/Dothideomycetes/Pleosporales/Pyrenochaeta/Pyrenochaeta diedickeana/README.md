@@ -1,5 +1,4 @@
-Pyrenochaeta diedickeana Trotter SPECIES
-=======
+# Pyrenochaeta diedickeana Trotter SPECIES
 
 #### Status
 ACCEPTED

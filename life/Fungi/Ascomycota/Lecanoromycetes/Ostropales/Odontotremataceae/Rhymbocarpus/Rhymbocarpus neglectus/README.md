@@ -1,14 +1,13 @@
-Nesolechia neglecta Vain. SPECIES
-=======
+# Rhymbocarpus neglectus (Vain.) Diederich & Etayo SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Acta Soc. Fauna Flora fenn. 57(2): 366 (1934)
+Lichenologist 32(5): 467 (1998)
 
 #### Original name
 Nesolechia neglecta Vain.

@@ -1,5 +1,4 @@
-Corticium ochrofarctum Burt SPECIES
-=======
+# Corticium ochrofarctum Burt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Torula cinereovirens P. Karst. SPECIES
-=======
+# Torula cinereovirens P. Karst. SPECIES
 
 #### Status
 ACCEPTED

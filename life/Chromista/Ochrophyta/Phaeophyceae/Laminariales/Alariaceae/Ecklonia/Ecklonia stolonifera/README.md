@@ -1,5 +1,4 @@
-Ecklonia stolonifera Okamura SPECIES
-=======
+# Ecklonia stolonifera Okamura SPECIES
 
 #### Status
 ACCEPTED

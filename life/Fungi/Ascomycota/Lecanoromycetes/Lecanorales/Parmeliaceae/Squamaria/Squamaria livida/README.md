@@ -1,5 +1,4 @@
-Squamaria livida (Ach.) H. Olivier SPECIES
-=======
+# Squamaria livida (Ach.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

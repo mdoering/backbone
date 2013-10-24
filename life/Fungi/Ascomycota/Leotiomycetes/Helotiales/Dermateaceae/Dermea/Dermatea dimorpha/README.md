@@ -1,5 +1,4 @@
-Dermatea dimorpha Seaver SPECIES
-=======
+# Dermatea dimorpha Seaver SPECIES
 
 #### Status
 ACCEPTED

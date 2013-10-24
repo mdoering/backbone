@@ -1,5 +1,4 @@
-Puccinia gahniae Dingley, 1977 SPECIES
-=======
+# Puccinia gahniae Dingley, 1977 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Usnea neglecta var. neglecta VARIETY
-=======
+# Usnea neglecta Motyka SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Usnea neglecta var. neglecta
+Usnea neglecta Motyka
 
 ### Remarks
 null

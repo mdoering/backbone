@@ -1,5 +1,4 @@
-Pseudocercospora diervillae (Ellis & Everh.) U. Braun SPECIES
-=======
+# Pseudocercospora diervillae (Ellis & Everh.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

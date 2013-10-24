@@ -1,5 +1,4 @@
-Passalora gotoana (Togashi) U. Braun SPECIES
-=======
+# Passalora gotoana (Togashi) U. Braun SPECIES
 
 #### Status
 ACCEPTED

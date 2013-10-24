@@ -1,5 +1,4 @@
-Galera rufipes Peck SPECIES
-=======
+# Galera rufipes Peck SPECIES
 
 #### Status
 ACCEPTED

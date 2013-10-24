@@ -1,14 +1,13 @@
-Dasyscypha rufulus (Quél.) Sacc. SPECIES
-=======
+# Dasyscyphus rufulus (Quél.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 8: 448 (1889)
 
 #### Original name
 Lachnella rufula Quél.

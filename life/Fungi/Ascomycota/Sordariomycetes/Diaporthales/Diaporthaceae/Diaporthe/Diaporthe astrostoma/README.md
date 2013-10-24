@@ -1,5 +1,4 @@
-Diaporthe astrostoma Hazsl. SPECIES
-=======
+# Diaporthe astrostoma Hazsl. SPECIES
 
 #### Status
 ACCEPTED

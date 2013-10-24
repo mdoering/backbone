@@ -1,5 +1,4 @@
-Fluoribacter bozemanae Garrity et al., 1980 SPECIES
-=======
+# Fluoribacter bozemanae Garrity et al., 1980 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sabouraudites lanoroseus (MacCarthy) Brumpt SPECIES
-=======
+# Sabouraudites lanoroseus (MacCarthy) Brumpt SPECIES
 
 #### Status
 ACCEPTED

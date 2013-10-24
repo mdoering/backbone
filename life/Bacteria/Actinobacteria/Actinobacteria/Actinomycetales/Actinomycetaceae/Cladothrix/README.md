@@ -1,5 +1,4 @@
-Cladothrix F. Cohn, 1875 GENUS
-=======
+# Cladothrix F. Cohn, 1875 GENUS
 
 #### Status
 ACCEPTED

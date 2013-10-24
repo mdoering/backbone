@@ -1,5 +1,4 @@
-Capillicysta K.Matsuoka & J.P.Bujak, 1987 GENUS
-=======
+# Capillicysta K.Matsuoka & J.P.Bujak, 1987 GENUS
 
 #### Status
 ACCEPTED

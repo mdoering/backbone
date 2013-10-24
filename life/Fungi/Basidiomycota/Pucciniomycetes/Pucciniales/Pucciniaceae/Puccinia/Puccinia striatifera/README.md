@@ -1,5 +1,4 @@
-Puccinia striatifera J.W. Baxter SPECIES
-=======
+# Puccinia striatifera J.W. Baxter SPECIES
 
 #### Status
 ACCEPTED

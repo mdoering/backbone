@@ -1,5 +1,4 @@
-Monoicomyces caloderae Thaxt. SPECIES
-=======
+# Monoicomyces caloderae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

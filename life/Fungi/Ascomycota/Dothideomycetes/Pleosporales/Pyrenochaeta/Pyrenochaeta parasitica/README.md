@@ -1,5 +1,4 @@
-Pyrenochaeta parasitica K. Freyer & Aa SPECIES
-=======
+# Pyrenochaeta parasitica K. Freyer & Aa SPECIES
 
 #### Status
 ACCEPTED

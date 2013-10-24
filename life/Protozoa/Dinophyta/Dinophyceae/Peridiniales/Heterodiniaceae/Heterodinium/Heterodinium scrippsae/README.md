@@ -1,5 +1,4 @@
-Heterodinium scrippsae Kofoid SPECIES
-=======
+# Heterodinium scrippsae Kofoid SPECIES
 
 #### Status
 ACCEPTED

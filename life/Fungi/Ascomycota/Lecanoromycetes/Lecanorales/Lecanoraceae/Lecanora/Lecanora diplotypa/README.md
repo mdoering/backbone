@@ -1,5 +1,4 @@
-Lecanora diplotypa Vain. SPECIES
-=======
+# Lecanora diplotypa Vain. SPECIES
 
 #### Status
 ACCEPTED

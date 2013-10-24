@@ -1,5 +1,4 @@
-Pertusaria leucotera Nyl. SPECIES
-=======
+# Pertusaria leucotera Nyl. SPECIES
 
 #### Status
 ACCEPTED

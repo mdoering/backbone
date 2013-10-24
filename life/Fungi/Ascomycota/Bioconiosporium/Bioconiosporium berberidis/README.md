@@ -1,5 +1,4 @@
-Bioconiosporium berberidis Narayan & Kamal SPECIES
-=======
+# Bioconiosporium berberidis Narayan & Kamal SPECIES
 
 #### Status
 ACCEPTED

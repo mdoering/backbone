@@ -1,5 +1,4 @@
-Glomus drummondii Blaszk. & Renker SPECIES
-=======
+# Glomus drummondii Blaszk. & Renker SPECIES
 
 #### Status
 ACCEPTED

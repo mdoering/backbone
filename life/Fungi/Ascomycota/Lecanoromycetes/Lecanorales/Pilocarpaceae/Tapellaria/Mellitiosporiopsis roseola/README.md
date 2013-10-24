@@ -1,5 +1,4 @@
-Mellitiosporiopsis roseola Rehm SPECIES
-=======
+# Mellitiosporiopsis roseola Rehm SPECIES
 
 #### Status
 ACCEPTED

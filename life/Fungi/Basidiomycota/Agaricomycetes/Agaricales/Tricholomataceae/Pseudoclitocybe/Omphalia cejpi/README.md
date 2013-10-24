@@ -1,5 +1,4 @@
-Omphalia cejpi Velen. SPECIES
-=======
+# Omphalia cejpi Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coccocarpia epitrypta Nyl. SPECIES
-=======
+# Coccocarpia epitrypta Nyl. SPECIES
 
 #### Status
 ACCEPTED

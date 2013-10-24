@@ -1,5 +1,4 @@
-Protomycites Mesch. GENUS
-=======
+# Protomycites Mesch. GENUS
 
 #### Status
 ACCEPTED

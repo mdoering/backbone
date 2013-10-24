@@ -1,5 +1,4 @@
-Mollisia leucantha Velen. SPECIES
-=======
+# Mollisia leucantha Velen. SPECIES
 
 #### Status
 ACCEPTED

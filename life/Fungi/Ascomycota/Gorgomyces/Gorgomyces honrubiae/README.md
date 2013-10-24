@@ -1,5 +1,4 @@
-Gorgomyces honrubiae A. Roldán SPECIES
-=======
+# Gorgomyces honrubiae A. Roldán SPECIES
 
 #### Status
 ACCEPTED

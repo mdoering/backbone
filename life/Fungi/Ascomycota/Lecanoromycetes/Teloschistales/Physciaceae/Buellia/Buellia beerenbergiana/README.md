@@ -1,5 +1,4 @@
-Buellia beerenbergiana Lynge SPECIES
-=======
+# Buellia beerenbergiana Lynge SPECIES
 
 #### Status
 ACCEPTED

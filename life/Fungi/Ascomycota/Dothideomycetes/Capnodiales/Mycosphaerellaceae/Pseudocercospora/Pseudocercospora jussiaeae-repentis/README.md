@@ -1,5 +1,4 @@
-Pseudocercospora jussiaeae-repentis (Sawada) Goh & W.H. Hsieh SPECIES
-=======
+# Pseudocercospora jussiaeae-repentis (Sawada) Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phakopsora circumvallata Sawada SPECIES
-=======
+# Phakopsora circumvallata Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Enridescalsia speciosa R.F. Castañeda & Guarro, 1998 SPECIES
-=======
+# Enridescalsia speciosa R.F. Castañeda & Guarro, 1998 SPECIES
 
 #### Status
 ACCEPTED

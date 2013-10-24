@@ -1,5 +1,4 @@
-Sphaerulina oleifolia Van der Byl SPECIES
-=======
+# Sphaerulina oleifolia Van der Byl SPECIES
 
 #### Status
 ACCEPTED

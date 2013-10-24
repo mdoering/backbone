@@ -1,8 +1,7 @@
-Laboulbenia blumi Balazuc SPECIES
-=======
+# Laboulbenia blumii Balazuc SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Laboulbenia blumi Balazuc
+Laboulbenia blumii Balazuc
 
 ### Remarks
 null

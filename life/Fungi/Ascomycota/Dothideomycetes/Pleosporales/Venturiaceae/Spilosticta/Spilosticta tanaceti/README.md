@@ -1,5 +1,4 @@
-Spilosticta tanaceti Petr. SPECIES
-=======
+# Spilosticta tanaceti Petr. SPECIES
 
 #### Status
 ACCEPTED

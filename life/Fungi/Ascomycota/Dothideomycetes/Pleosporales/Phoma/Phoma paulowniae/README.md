@@ -1,5 +1,4 @@
-Phoma paulowniae Sacc. SPECIES
-=======
+# Phoma paulowniae Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thekopsora myrtillina P. Karst. SPECIES
-=======
+# Thekopsora myrtillina P. Karst. SPECIES
 
 #### Status
 ACCEPTED

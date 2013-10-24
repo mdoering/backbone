@@ -1,5 +1,4 @@
-Fusisporium insidiosum Berk. SPECIES
-=======
+# Fusisporium insidiosum Berk. SPECIES
 
 #### Status
 ACCEPTED

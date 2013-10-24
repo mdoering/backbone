@@ -1,5 +1,4 @@
-Cintractia glareosa Liro SPECIES
-=======
+# Cintractia glareosa Liro SPECIES
 
 #### Status
 ACCEPTED

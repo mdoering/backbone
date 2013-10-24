@@ -1,14 +1,13 @@
-Keithia chamaecyparidis J.F. Adams SPECIES
-=======
+# Didymascella chamaecyparidis (J.F. Adams) Maire, 1927 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bot. Soc. Hist. Nat. Afrique del N. 18: 120 (1927)
 
 #### Original name
 Keithia chamaecyparidis J.F. Adams

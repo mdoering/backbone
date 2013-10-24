@@ -1,5 +1,4 @@
-Cetraria arenaria Kärnefelt SPECIES
-=======
+# Cetraria arenaria Kärnefelt SPECIES
 
 #### Status
 ACCEPTED

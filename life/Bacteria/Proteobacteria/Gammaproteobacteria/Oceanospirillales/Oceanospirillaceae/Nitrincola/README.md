@@ -1,5 +1,4 @@
-Nitrincola Dimitriu et al., 2005 GENUS
-=======
+# Nitrincola Dimitriu et al., 2005 GENUS
 
 #### Status
 ACCEPTED

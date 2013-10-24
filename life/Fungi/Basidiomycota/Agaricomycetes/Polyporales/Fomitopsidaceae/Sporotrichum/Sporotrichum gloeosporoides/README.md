@@ -1,5 +1,4 @@
-Sporotrichum gloeosporoides anon. SPECIES
-=======
+# Sporotrichum gloeosporoides anon. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Blastenia floridana (Tuck.) Zahlbr. SPECIES
-=======
+# Blastenia floridana (Tuck.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

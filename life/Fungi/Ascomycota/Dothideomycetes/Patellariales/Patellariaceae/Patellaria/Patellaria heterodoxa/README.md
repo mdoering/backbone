@@ -1,5 +1,4 @@
-Patellaria heterodoxa Müll. Arg. SPECIES
-=======
+# Patellaria heterodoxa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

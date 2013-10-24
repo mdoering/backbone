@@ -1,5 +1,4 @@
-Boletus carneiporus Hlavácek SPECIES
-=======
+# Boletus carneiporus Hlavácek SPECIES
 
 #### Status
 ACCEPTED

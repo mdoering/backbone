@@ -1,5 +1,4 @@
-Cryptococcus baldrensis Vishniac & Baharaeen SPECIES
-=======
+# Cryptococcus baldrensis Vishniac & Baharaeen SPECIES
 
 #### Status
 ACCEPTED

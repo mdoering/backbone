@@ -1,5 +1,4 @@
-Lopadium chacoënse Malme SPECIES
-=======
+# Lopadium chacoënse Malme SPECIES
 
 #### Status
 ACCEPTED

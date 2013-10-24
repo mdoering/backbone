@@ -1,5 +1,4 @@
-Parasarcopodium ceratocaryi Melnik, S.J. Lee & Crous, 2004 SPECIES
-=======
+# Parasarcopodium ceratocaryi Melnik, S.J. Lee & Crous, 2004 SPECIES
 
 #### Status
 ACCEPTED

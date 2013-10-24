@@ -1,5 +1,4 @@
-Septoria rosana Thüm. SPECIES
-=======
+# Septoria rosana Thüm. SPECIES
 
 #### Status
 ACCEPTED

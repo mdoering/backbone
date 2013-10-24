@@ -1,5 +1,4 @@
-Rhytisma hypoxanthum Berk. & Broome SPECIES
-=======
+# Rhytisma hypoxanthum Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

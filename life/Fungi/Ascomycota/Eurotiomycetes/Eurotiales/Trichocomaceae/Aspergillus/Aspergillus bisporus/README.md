@@ -1,5 +1,4 @@
-Aspergillus bisporus Kwon-Chung & Fennell, 1971 SPECIES
-=======
+# Aspergillus bisporus Kwon-Chung & Fennell, 1971 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Bacidia fallax (Körb.) Lettau SPECIES
-=======
+# Bacidia fraxinea Lönnr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Bacidia fraxinea Lönnr.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Puccinia myrrhis Schwein. SPECIES
-=======
+# Puccinia myrrhis Schwein. SPECIES
 
 #### Status
 ACCEPTED

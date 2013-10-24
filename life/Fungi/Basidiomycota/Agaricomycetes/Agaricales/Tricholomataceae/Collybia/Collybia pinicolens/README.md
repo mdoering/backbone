@@ -1,5 +1,4 @@
-Collybia pinicolens Cleland SPECIES
-=======
+# Collybia pinicolens Cleland SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sarcoscypha knixoniana F.A. Harr. SPECIES
-=======
+# Sarcoscypha knixoniana F.A. Harr. SPECIES
 
 #### Status
 ACCEPTED

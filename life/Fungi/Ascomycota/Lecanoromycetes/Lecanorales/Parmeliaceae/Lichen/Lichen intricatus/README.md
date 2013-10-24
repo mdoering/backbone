@@ -1,5 +1,4 @@
-Lichen intricatus (Hoffm.) Ehrh. SPECIES
-=======
+# Lichen intricatus (Hoffm.) Ehrh. SPECIES
 
 #### Status
 ACCEPTED

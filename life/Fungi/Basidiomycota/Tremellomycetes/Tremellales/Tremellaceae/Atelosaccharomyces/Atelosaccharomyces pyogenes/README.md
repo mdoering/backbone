@@ -1,5 +1,4 @@
-Atelosaccharomyces pyogenes (Mattlet) C.W. Dodge SPECIES
-=======
+# Atelosaccharomyces pyogenes (Mattlet) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

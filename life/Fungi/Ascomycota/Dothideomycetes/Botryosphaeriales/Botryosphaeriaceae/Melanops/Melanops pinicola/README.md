@@ -1,5 +1,4 @@
-Melanops pinicola (Speg.) Weese SPECIES
-=======
+# Melanops pinicola (Speg.) Weese SPECIES
 
 #### Status
 ACCEPTED

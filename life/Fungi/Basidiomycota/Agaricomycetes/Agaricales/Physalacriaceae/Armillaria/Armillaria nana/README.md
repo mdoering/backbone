@@ -1,5 +1,4 @@
-Armillaria nana (Singer) Locq. SPECIES
-=======
+# Armillaria nana (Singer) Locq. SPECIES
 
 #### Status
 ACCEPTED

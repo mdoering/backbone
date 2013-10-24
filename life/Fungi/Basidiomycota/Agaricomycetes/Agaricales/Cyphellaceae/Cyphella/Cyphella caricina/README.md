@@ -1,5 +1,4 @@
-Cyphella caricina Peck SPECIES
-=======
+# Cyphella caricina Peck SPECIES
 
 #### Status
 ACCEPTED

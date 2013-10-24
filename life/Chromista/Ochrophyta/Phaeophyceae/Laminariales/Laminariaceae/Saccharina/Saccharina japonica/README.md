@@ -1,8 +1,7 @@
-Laminaria japonica f. membranacea Miyabe & Magai, 1934 FORM
-=======
+# Saccharina japonica (J.E.Areschoug) C.E.Lane, C.Mayes, Druehl & G.W.Saunders, 2006 SPECIES
 
 #### Status
-DOUBTFUL
+ACCEPTED
 
 #### According to
 World Register of Marine Species

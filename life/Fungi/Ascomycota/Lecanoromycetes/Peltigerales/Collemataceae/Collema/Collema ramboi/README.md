@@ -1,5 +1,4 @@
-Collema ramboi C.W. Dodge SPECIES
-=======
+# Collema ramboi C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

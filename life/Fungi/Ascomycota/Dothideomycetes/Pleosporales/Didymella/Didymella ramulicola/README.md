@@ -1,5 +1,4 @@
-Didymella ramulicola Vain. SPECIES
-=======
+# Didymella ramulicola Vain. SPECIES
 
 #### Status
 ACCEPTED

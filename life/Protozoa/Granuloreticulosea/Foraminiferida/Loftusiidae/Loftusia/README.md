@@ -1,5 +1,4 @@
-Loftusia Brady in Carpenter & Brady, 1869 GENUS
-=======
+# Loftusia Brady in Carpenter & Brady, 1869 GENUS
 
 #### Status
 ACCEPTED

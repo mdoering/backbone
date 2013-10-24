@@ -1,5 +1,4 @@
-Lithopolyporales R.K. Kar, N. Sharma, A. Agarwal & R. Kar GENUS
-=======
+# Lithopolyporales R.K. Kar, N. Sharma, A. Agarwal & R. Kar GENUS
 
 #### Status
 ACCEPTED

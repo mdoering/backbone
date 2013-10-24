@@ -1,5 +1,4 @@
-Phyllosticta vogelii (Syd.) Died. SPECIES
-=======
+# Phyllosticta vogelii (Syd.) Died. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kazachstania jiainica C.F. Lee & Chun H. Liu, 2008 SPECIES
-=======
+# Kazachstania jiainica C.F. Lee & Chun H. Liu, 2008 SPECIES
 
 #### Status
 ACCEPTED

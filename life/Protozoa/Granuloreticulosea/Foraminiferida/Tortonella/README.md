@@ -1,5 +1,4 @@
-Tortonella Didkovski, 1957 GENUS
-=======
+# Tortonella Didkovski, 1957 GENUS
 
 #### Status
 ACCEPTED

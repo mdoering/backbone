@@ -1,5 +1,4 @@
-Enerthenema intermedium Nann.-Bremek. & R.L. Critchf., 1988 SPECIES
-=======
+# Enerthenema intermedium Nann.-Bremek. & R.L. Critchf., 1988 SPECIES
 
 #### Status
 ACCEPTED

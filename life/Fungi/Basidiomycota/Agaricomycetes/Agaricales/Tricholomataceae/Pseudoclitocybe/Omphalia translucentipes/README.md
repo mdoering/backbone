@@ -1,5 +1,4 @@
-Omphalia translucentipes Murrill SPECIES
-=======
+# Omphalia translucentipes Murrill SPECIES
 
 #### Status
 ACCEPTED

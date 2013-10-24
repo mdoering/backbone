@@ -1,5 +1,4 @@
-Lepiota emplastrum (Cooke & Massee) Sacc. SPECIES
-=======
+# Lepiota emplastrum (Cooke & Massee) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Banffella GENUS
-=======
+# Banffella GENUS
 
 #### Status
 ACCEPTED

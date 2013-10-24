@@ -1,5 +1,4 @@
-Pseudopeziza kriegeriana Rehm SPECIES
-=======
+# Pseudopeziza kriegeriana Rehm SPECIES
 
 #### Status
 ACCEPTED

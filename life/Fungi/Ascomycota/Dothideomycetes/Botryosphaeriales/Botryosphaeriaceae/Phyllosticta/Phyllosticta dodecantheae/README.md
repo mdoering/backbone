@@ -1,5 +1,4 @@
-Phyllosticta dodecantheae Trel. SPECIES
-=======
+# Phyllosticta dodecantheae Trel. SPECIES
 
 #### Status
 ACCEPTED

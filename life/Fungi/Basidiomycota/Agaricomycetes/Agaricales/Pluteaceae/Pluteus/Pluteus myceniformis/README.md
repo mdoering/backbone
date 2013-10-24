@@ -1,5 +1,4 @@
-Pluteus myceniformis Murrill SPECIES
-=======
+# Pluteus myceniformis Murrill SPECIES
 
 #### Status
 ACCEPTED

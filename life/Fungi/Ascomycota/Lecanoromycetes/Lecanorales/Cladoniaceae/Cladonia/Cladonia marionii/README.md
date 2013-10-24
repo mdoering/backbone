@@ -1,5 +1,4 @@
-Cladonia marionii S. Stenroos SPECIES
-=======
+# Cladonia marionii S. Stenroos SPECIES
 
 #### Status
 ACCEPTED

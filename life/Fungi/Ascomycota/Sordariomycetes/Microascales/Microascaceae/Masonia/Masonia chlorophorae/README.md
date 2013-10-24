@@ -1,5 +1,4 @@
-Masonia chlorophorae Hansf. SPECIES
-=======
+# Masonia chlorophorae Hansf. SPECIES
 
 #### Status
 ACCEPTED

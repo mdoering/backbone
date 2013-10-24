@@ -1,5 +1,4 @@
-Meliola pisoniicola F. Stevens & Roldan SPECIES
-=======
+# Meliola pisoniicola F. Stevens & Roldan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea janina Vain. SPECIES
-=======
+# Lecidea janina Vain. SPECIES
 
 #### Status
 ACCEPTED

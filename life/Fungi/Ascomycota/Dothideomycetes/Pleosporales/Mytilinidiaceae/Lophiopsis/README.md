@@ -1,5 +1,4 @@
-Lophiopsis Lohman, 1932 GENUS
-=======
+# Lophiopsis Lohman, 1932 GENUS
 
 #### Status
 ACCEPTED

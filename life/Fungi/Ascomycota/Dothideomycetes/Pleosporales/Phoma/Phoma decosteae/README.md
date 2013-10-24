@@ -1,5 +1,4 @@
-Phoma decosteae Henn. SPECIES
-=======
+# Phoma decosteae Henn. SPECIES
 
 #### Status
 ACCEPTED

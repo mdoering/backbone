@@ -1,5 +1,4 @@
-Schenckiella Hennings, 1893 GENUS
-=======
+# Schenckiella Hennings, 1893 GENUS
 
 #### Status
 ACCEPTED

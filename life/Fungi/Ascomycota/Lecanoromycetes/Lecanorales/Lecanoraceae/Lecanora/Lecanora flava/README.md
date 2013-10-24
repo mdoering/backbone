@@ -1,5 +1,4 @@
-Lecanora flava Kremp. SPECIES
-=======
+# Lecanora flava Kremp. SPECIES
 
 #### Status
 ACCEPTED

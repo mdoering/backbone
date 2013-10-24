@@ -1,5 +1,4 @@
-Aquimarina muelleri Nedashkovskaya et al., 2005 SPECIES
-=======
+# Aquimarina muelleri Nedashkovskaya et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ozonium castaneum Wallr. SPECIES
-=======
+# Ozonium castaneum Wallr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria baltica Zschacke SPECIES
-=======
+# Verrucaria baltica Zschacke SPECIES
 
 #### Status
 ACCEPTED

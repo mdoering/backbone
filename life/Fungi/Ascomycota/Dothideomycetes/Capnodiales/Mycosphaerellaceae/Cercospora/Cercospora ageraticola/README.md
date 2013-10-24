@@ -1,5 +1,4 @@
-Cercospora ageraticola Goh & W.H. Hsieh SPECIES
-=======
+# Cercospora ageraticola Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

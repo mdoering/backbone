@@ -1,5 +1,4 @@
-Agaricus segregatus Britzelm. SPECIES
-=======
+# Agaricus segregatus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

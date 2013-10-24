@@ -1,5 +1,4 @@
-Mycogala muscicola Jaap SPECIES
-=======
+# Mycogala muscicola Jaap SPECIES
 
 #### Status
 ACCEPTED

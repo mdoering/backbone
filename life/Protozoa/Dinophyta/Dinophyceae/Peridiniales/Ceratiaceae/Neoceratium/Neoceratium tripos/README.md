@@ -1,8 +1,7 @@
-Tripos mulleri Bory SPECIES
-=======
+# Neoceratium tripos (O.F.Müller) F.Gomez, D.Moreira & P.Lopez-Garcia SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

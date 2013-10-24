@@ -1,8 +1,7 @@
-Microxiphium ciliolatum (Sacc.) Cif. & Bat., 1963 SPECIES
-=======
+# Polychaeton brasiliense (Bat., Nascim. & Cif.) D.R. Reynolds, 2010 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

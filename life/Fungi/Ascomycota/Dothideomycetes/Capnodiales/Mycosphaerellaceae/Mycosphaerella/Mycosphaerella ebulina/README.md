@@ -1,5 +1,4 @@
-Mycosphaerella ebulina Petr. SPECIES
-=======
+# Mycosphaerella ebulina Petr. SPECIES
 
 #### Status
 ACCEPTED

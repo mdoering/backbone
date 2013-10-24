@@ -1,5 +1,4 @@
-Sphaerella canadensis Ellis & Everh. SPECIES
-=======
+# Sphaerella canadensis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

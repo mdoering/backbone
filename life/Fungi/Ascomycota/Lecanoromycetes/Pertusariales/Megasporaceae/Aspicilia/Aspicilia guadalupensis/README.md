@@ -1,5 +1,4 @@
-Aspicilia guadalupensis Owe-Larss. & A. Nordin SPECIES
-=======
+# Aspicilia guadalupensis Owe-Larss. & A. Nordin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tabanispora hybomitrae SPECIES
-=======
+# Tabanispora hybomitrae SPECIES
 
 #### Status
 ACCEPTED

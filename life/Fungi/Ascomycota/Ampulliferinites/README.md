@@ -1,5 +1,4 @@
-Ampulliferinites Kalgutkar & Sigler GENUS
-=======
+# Ampulliferinites Kalgutkar & Sigler GENUS
 
 #### Status
 ACCEPTED

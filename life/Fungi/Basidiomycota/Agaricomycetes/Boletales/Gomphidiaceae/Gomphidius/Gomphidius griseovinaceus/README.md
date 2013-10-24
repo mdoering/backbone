@@ -1,5 +1,4 @@
-Gomphidius griseovinaceus Kalamees SPECIES
-=======
+# Gomphidius griseovinaceus Kalamees SPECIES
 
 #### Status
 ACCEPTED

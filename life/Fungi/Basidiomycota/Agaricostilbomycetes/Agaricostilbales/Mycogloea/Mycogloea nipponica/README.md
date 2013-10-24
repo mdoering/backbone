@@ -1,5 +1,4 @@
-Mycogloea nipponica Bandoni, 1998 SPECIES
-=======
+# Mycogloea nipponica Bandoni, 1998 SPECIES
 
 #### Status
 ACCEPTED

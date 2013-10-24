@@ -1,17 +1,16 @@
-Uredo gharsii Sathe & Rahalkar {?} SPECIES
-=======
+# Uredo gharsei Sathe & Rahalkar {?} SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Rahalkar, Journal of the Maharashtra agric. Univ. 2(2): 172 (1977)
 
 #### Original name
-Uredo gharsii Sathe & Rahalkar {?}
+Uredo gharsei Sathe & Rahalkar {?}
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Tryssglobulus aspergilloides B. Sutton & Pascoe, 1987 SPECIES
-=======
+# Tryssglobulus aspergilloides B. Sutton & Pascoe, 1987 SPECIES
 
 #### Status
 ACCEPTED

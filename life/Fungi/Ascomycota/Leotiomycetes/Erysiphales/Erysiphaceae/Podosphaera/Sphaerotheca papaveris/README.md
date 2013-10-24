@@ -1,5 +1,4 @@
-Sphaerotheca papaveris (Simonyan) Simonyan SPECIES
-=======
+# Sphaerotheca papaveris (Simonyan) Simonyan SPECIES
 
 #### Status
 ACCEPTED

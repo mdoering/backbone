@@ -1,5 +1,4 @@
-Septoria cunninghamiae (Gucevic) Andrian. SPECIES
-=======
+# Septoria cunninghamiae (Gucevic) Andrian. SPECIES
 
 #### Status
 ACCEPTED

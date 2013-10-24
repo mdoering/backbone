@@ -1,5 +1,4 @@
-Spirochaeta americana Hoover et al., 2003 SPECIES
-=======
+# Spirochaeta americana Hoover et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

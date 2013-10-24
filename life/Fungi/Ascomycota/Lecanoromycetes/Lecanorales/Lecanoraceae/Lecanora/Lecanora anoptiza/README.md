@@ -1,5 +1,4 @@
-Lecanora anoptiza Nyl. SPECIES
-=======
+# Lecanora anoptiza Nyl. SPECIES
 
 #### Status
 ACCEPTED

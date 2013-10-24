@@ -1,5 +1,4 @@
-Baltisphaeridium distentum Playford, 1977 SPECIES
-=======
+# Baltisphaeridium distentum Playford, 1977 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora conjugans (F. Stevens & Solheim) Chupp SPECIES
-=======
+# Cercospora conjugans (F. Stevens & Solheim) Chupp SPECIES
 
 #### Status
 ACCEPTED

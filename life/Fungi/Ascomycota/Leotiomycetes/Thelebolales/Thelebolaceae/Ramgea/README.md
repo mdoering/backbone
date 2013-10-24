@@ -1,5 +1,4 @@
-Ramgea van Brummelen, 1992 GENUS
-=======
+# Ramgea van Brummelen, 1992 GENUS
 
 #### Status
 ACCEPTED

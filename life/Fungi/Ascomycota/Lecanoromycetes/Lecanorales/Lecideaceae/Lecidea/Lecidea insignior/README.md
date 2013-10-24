@@ -1,5 +1,4 @@
-Lecidea insignior Nyl. SPECIES
-=======
+# Lecidea insignior Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corticium oryzicola Kamj. & Giatgong SPECIES
-=======
+# Corticium oryzicola Kamj. & Giatgong SPECIES
 
 #### Status
 ACCEPTED

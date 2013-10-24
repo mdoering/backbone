@@ -1,5 +1,4 @@
-Humaria guanaci Rehm SPECIES
-=======
+# Humaria guanaci Rehm SPECIES
 
 #### Status
 ACCEPTED

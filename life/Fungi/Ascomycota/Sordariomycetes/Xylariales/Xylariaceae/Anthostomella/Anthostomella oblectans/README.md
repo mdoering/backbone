@@ -1,5 +1,4 @@
-Anthostomella oblectans (Ces.) Sacc. SPECIES
-=======
+# Anthostomella oblectans (Ces.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

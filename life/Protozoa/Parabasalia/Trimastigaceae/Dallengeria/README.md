@@ -1,5 +1,4 @@
-Dallengeria Boeck & Stiles, 1923 GENUS
-=======
+# Dallengeria Boeck & Stiles, 1923 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia aframomi Hansf. SPECIES
-=======
+# Puccinia aframomi Hansf. SPECIES
 
 #### Status
 ACCEPTED

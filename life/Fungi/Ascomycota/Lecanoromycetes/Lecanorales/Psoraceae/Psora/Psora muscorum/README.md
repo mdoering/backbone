@@ -1,5 +1,4 @@
-Psora muscorum Hoffm. SPECIES
-=======
+# Psora muscorum Hoffm. SPECIES
 
 #### Status
 ACCEPTED

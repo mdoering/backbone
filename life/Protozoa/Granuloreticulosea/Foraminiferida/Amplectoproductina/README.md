@@ -1,5 +1,4 @@
-Amplectoproductina GENUS
-=======
+# Amplectoproductina GENUS
 
 #### Status
 ACCEPTED

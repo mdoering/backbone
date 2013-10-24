@@ -1,5 +1,4 @@
-Autoicomyces occultatus Thaxt. SPECIES
-=======
+# Autoicomyces occultatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

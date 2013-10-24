@@ -1,5 +1,4 @@
-Cercospora togashiana Katsuki & Urasawa SPECIES
-=======
+# Cercospora togashiana Katsuki & Urasawa SPECIES
 
 #### Status
 ACCEPTED

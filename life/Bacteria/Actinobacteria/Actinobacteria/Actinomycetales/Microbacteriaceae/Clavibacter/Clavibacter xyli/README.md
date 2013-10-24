@@ -1,5 +1,4 @@
-Clavibacter xyli Davis et al., 1984 SPECIES
-=======
+# Clavibacter xyli Davis et al., 1984 SPECIES
 
 #### Status
 ACCEPTED

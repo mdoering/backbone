@@ -1,5 +1,4 @@
-Tetracrium aurantii Henn., 1902 SPECIES
-=======
+# Tetracrium aurantii Henn., 1902 SPECIES
 
 #### Status
 ACCEPTED

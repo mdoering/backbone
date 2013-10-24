@@ -1,5 +1,4 @@
-Eutypella comosa (Speg.) Rappaz SPECIES
-=======
+# Eutypella comosa (Speg.) Rappaz SPECIES
 
 #### Status
 ACCEPTED

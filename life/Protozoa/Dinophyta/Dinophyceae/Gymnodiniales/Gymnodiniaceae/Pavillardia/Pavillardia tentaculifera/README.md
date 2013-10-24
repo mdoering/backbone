@@ -1,5 +1,4 @@
-Pavillardia tentaculifera Kofoid & Swezy SPECIES
-=======
+# Pavillardia tentaculifera Kofoid & Swezy SPECIES
 
 #### Status
 ACCEPTED

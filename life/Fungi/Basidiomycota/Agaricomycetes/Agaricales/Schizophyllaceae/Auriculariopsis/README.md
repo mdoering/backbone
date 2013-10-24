@@ -1,5 +1,4 @@
-Auriculariopsis Maire GENUS
-=======
+# Auriculariopsis Maire GENUS
 
 #### Status
 ACCEPTED

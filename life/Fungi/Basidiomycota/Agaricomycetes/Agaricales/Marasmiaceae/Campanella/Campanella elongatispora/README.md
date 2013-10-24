@@ -1,5 +1,4 @@
-Campanella elongatispora Singer SPECIES
-=======
+# Campanella elongatispora Singer SPECIES
 
 #### Status
 ACCEPTED

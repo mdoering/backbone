@@ -1,5 +1,4 @@
-Pyrenopeziza molluginis Rehm SPECIES
-=======
+# Pyrenopeziza molluginis Rehm SPECIES
 
 #### Status
 ACCEPTED

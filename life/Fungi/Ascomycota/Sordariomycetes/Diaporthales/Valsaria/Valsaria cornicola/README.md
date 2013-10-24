@@ -1,5 +1,4 @@
-Valsaria cornicola Ellis & Everh. SPECIES
-=======
+# Valsaria cornicola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

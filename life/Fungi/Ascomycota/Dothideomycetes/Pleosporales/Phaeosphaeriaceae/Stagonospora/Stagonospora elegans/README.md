@@ -1,17 +1,16 @@
-Hendersonia dolosa Sacc. & Roum., 1882 SPECIES
-=======
+# Stagonospora elegans (Berk.) Sacc. & Traverso, 1911 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Michelia 2(no. 8): 630 (1882)
+Syll. fung. (Abellini) 20: 878 (1911)
 
 #### Original name
-Hendersonia dolosa Sacc. & Roum., 1882
+Hendersonia elegans Berk., 1841
 
 ### Remarks
 null

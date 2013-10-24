@@ -1,5 +1,4 @@
-Tintinnopsis corylicarpa Kufferath, 1950 SPECIES
-=======
+# Tintinnopsis corylicarpa Kufferath, 1950 SPECIES
 
 #### Status
 ACCEPTED

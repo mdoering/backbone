@@ -1,5 +1,4 @@
-Sistotrema resinicystidium Hallenb., 1980 SPECIES
-=======
+# Sistotrema resinicystidium Hallenb., 1980 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllachora baphispora Syd., 1926 SPECIES
-=======
+# Phyllachora baphispora Syd., 1926 SPECIES
 
 #### Status
 ACCEPTED

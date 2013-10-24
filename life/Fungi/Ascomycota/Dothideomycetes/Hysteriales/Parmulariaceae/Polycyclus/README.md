@@ -1,5 +1,4 @@
-Polycyclus von Höhnel, 1909 GENUS
-=======
+# Polycyclus von Höhnel, 1909 GENUS
 
 #### Status
 ACCEPTED

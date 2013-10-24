@@ -1,5 +1,4 @@
-Hydramoeba Reynolds & Looper, 1928 GENUS
-=======
+# Hydramoeba Reynolds & Looper, 1928 GENUS
 
 #### Status
 ACCEPTED

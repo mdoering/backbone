@@ -1,5 +1,4 @@
-Corticomyces xenasmatoides A.I. Romero & S.E. López, 1989 SPECIES
-=======
+# Corticomyces xenasmatoides A.I. Romero & S.E. López, 1989 SPECIES
 
 #### Status
 ACCEPTED

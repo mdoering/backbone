@@ -1,5 +1,4 @@
-Rhabdogloea brasilica M. T. de P. Azevedo & L. Kovácik SPECIES
-=======
+# Rhabdogloea brasilica M. T. de P. Azevedo & L. Kovácik SPECIES
 
 #### Status
 ACCEPTED

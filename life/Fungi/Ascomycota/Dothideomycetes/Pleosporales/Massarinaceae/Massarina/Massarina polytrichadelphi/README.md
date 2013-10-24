@@ -1,5 +1,4 @@
-Massarina polytrichadelphi Döbbeler, 2007 SPECIES
-=======
+# Massarina polytrichadelphi Döbbeler, 2007 SPECIES
 
 #### Status
 ACCEPTED

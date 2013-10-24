@@ -1,5 +1,4 @@
-Lecidea ceratina Stirt. SPECIES
-=======
+# Lecidea ceratina Stirt. SPECIES
 
 #### Status
 ACCEPTED

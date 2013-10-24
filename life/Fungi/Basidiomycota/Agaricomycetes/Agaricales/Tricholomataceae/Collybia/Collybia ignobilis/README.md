@@ -1,5 +1,4 @@
-Collybia ignobilis (P. Karst.) SPECIES
-=======
+# Collybia ignobilis (P. Karst.) SPECIES
 
 #### Status
 ACCEPTED

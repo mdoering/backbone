@@ -1,5 +1,4 @@
-Exiliseptum ocellatum (Müll. Arg.) R.C. Harris SPECIES
-=======
+# Exiliseptum ocellatum (Müll. Arg.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Colletotrichum bougainvilleae Unamuno SPECIES
-=======
+# Colletotrichum bougainvilleae Unamuno SPECIES
 
 #### Status
 ACCEPTED

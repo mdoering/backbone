@@ -1,5 +1,4 @@
-Anthostoma amylospongiosum Kravtzev SPECIES
-=======
+# Anthostoma amylospongiosum Kravtzev SPECIES
 
 #### Status
 ACCEPTED

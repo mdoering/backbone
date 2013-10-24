@@ -1,5 +1,4 @@
-Biatora belangeri Mont. & Bosch SPECIES
-=======
+# Biatora belangeri Mont. & Bosch SPECIES
 
 #### Status
 ACCEPTED

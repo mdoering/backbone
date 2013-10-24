@@ -1,5 +1,4 @@
-Carbonea degelii Alstrup SPECIES
-=======
+# Carbonea degelii Alstrup SPECIES
 
 #### Status
 ACCEPTED

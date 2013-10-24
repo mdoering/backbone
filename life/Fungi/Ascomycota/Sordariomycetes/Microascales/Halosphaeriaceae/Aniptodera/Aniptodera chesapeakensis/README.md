@@ -1,5 +1,4 @@
-Aniptodera chesapeakensis Shearer & M.A. Mill., 1977 SPECIES
-=======
+# Aniptodera chesapeakensis Shearer & M.A. Mill., 1977 SPECIES
 
 #### Status
 ACCEPTED

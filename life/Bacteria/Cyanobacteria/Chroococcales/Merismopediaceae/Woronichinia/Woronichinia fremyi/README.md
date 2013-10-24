@@ -1,5 +1,4 @@
-Woronichinia fremyi (Komárek) Komárek & Hindák SPECIES
-=======
+# Woronichinia fremyi (Komárek) Komárek & Hindák SPECIES
 
 #### Status
 ACCEPTED

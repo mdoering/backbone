@@ -1,5 +1,4 @@
-Tephrocybe mycenoides Métrod ex Bon & Grilli SPECIES
-=======
+# Tephrocybe mycenoides Métrod ex Bon & Grilli SPECIES
 
 #### Status
 ACCEPTED

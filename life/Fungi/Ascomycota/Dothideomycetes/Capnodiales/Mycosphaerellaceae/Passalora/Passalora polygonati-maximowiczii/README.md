@@ -1,17 +1,16 @@
-Passalora polygonati-maxmowiczii Poonam Srivast. SPECIES
-=======
+# Passalora polygonati-maximowiczii (Togashi) U. Braun & Crous SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Crous & Braun, CBS Diversity Ser. (Utrecht) 1: 331 (2003)
 
 #### Original name
-Passalora polygonati-maxmowiczii Poonam Srivast.
+Cercospora polygonati-maximowiczii Togashi
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Clisosporium vagabundum (Sacc.) Kuntze SPECIES
-=======
+# Clisosporium vagabundum (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

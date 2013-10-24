@@ -1,17 +1,16 @@
-Gloeocystidiellum sibiricum Parmasto, 1965 SPECIES
-=======
+# Boidinia peroxydata (Rick) Hjortstam & Ryvarden, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Eesti NSV Tead. Akad. Toim. , Biol. seer 14(2): 225 (1965)
+Acta Mycol. Sin. 7(2): 79 (1988)
 
 #### Original name
-Gloeocystidiellum sibiricum Parmasto, 1965
+Gloeocystidium peroxydatum Rick, 1934
 
 ### Remarks
 null

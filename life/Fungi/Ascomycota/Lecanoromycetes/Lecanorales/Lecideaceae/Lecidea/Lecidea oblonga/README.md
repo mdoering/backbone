@@ -1,5 +1,4 @@
-Lecidea oblonga Riedl SPECIES
-=======
+# Lecidea oblonga Riedl SPECIES
 
 #### Status
 ACCEPTED

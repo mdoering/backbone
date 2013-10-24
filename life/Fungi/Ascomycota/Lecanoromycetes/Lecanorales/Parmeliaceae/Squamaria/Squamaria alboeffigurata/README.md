@@ -1,5 +1,4 @@
-Squamaria alboeffigurata Anzi SPECIES
-=======
+# Squamaria alboeffigurata Anzi SPECIES
 
 #### Status
 ACCEPTED

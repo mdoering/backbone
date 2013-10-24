@@ -1,5 +1,4 @@
-Cercospora pavoniae Petr. & Cif. SPECIES
-=======
+# Cercospora pavoniae Petr. & Cif. SPECIES
 
 #### Status
 ACCEPTED

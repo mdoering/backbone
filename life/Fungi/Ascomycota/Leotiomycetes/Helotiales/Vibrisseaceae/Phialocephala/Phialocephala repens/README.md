@@ -1,5 +1,4 @@
-Phialocephala repens (Cooke & Ellis) W.B. Kendr. SPECIES
-=======
+# Phialocephala repens (Cooke & Ellis) W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

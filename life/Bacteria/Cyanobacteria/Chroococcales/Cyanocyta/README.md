@@ -1,5 +1,4 @@
-Cyanocyta Hall & Claus GENUS
-=======
+# Cyanocyta Hall & Claus GENUS
 
 #### Status
 ACCEPTED

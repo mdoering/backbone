@@ -1,5 +1,4 @@
-Malassezia caprae J. Cabañes & Boekhout SPECIES
-=======
+# Malassezia caprae J. Cabañes & Boekhout SPECIES
 
 #### Status
 ACCEPTED

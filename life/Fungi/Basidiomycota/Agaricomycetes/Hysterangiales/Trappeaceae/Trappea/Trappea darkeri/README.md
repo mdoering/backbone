@@ -1,17 +1,16 @@
-Trappea darkeri var. lazzarii Ruini, 1991 VARIETY
-=======
+# Trappea darkeri (Zeller) Castellano, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Riv. Micol. 33(3): 323 (1991)
+Mycotaxon 38: 3 (1990)
 
 #### Original name
-Trappea darkeri var. lazzarii Ruini, 1991
+Hysterangium darkeri Zeller, 1939
 
 ### Remarks
 null

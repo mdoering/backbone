@@ -1,5 +1,4 @@
-Macalpinomyces trichopterygis Vánky & C. Vánky, 1997 SPECIES
-=======
+# Macalpinomyces trichopterygis Vánky & C. Vánky, 1997 SPECIES
 
 #### Status
 ACCEPTED

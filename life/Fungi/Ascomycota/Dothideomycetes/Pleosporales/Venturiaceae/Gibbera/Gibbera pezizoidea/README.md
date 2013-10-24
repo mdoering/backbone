@@ -1,5 +1,4 @@
-Gibbera pezizoidea Pat. SPECIES
-=======
+# Gibbera pezizoidea Pat. SPECIES
 
 #### Status
 ACCEPTED

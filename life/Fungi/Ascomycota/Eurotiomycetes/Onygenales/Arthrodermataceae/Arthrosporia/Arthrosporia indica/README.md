@@ -1,5 +1,4 @@
-Arthrosporia indica (Castell.) Grigoraki SPECIES
-=======
+# Arthrosporia indica (Castell.) Grigoraki SPECIES
 
 #### Status
 ACCEPTED

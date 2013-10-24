@@ -1,5 +1,4 @@
-Didymella nebraskae (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Didymella nebraskae (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stagonospora polytaeniae H.C. Greene SPECIES
-=======
+# Stagonospora polytaeniae H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Patella fimetaria Seaver SPECIES
-=======
+# Patella fimetaria Seaver SPECIES
 
 #### Status
 ACCEPTED

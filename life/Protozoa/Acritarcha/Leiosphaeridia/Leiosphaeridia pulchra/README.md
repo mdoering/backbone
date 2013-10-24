@@ -1,5 +1,4 @@
-Leiosphaeridia pulchra (Grishina in Grishina & Klenina, 1981) Fensome et al., 1990 SPECIES
-=======
+# Leiosphaeridia pulchra (Grishina in Grishina & Klenina, 1981) Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

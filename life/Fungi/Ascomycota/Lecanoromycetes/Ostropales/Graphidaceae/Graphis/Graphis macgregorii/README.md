@@ -1,5 +1,4 @@
-Graphis macgregorii Vain. SPECIES
-=======
+# Graphis macgregorii Vain. SPECIES
 
 #### Status
 ACCEPTED

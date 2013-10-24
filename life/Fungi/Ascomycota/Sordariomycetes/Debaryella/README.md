@@ -1,5 +1,4 @@
-Debaryella Höhn. GENUS
-=======
+# Debaryella Höhn. GENUS
 
 #### Status
 ACCEPTED

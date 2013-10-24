@@ -1,5 +1,4 @@
-Pleospora verbasci Rabenh. SPECIES
-=======
+# Pleospora verbasci Rabenh. SPECIES
 
 #### Status
 ACCEPTED

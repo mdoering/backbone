@@ -1,5 +1,4 @@
-Palaeotetraphyle GENUS
-=======
+# Palaeotetraphyle GENUS
 
 #### Status
 ACCEPTED

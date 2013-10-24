@@ -1,5 +1,4 @@
-Macropodia GENUS
-=======
+# Macropodia GENUS
 
 #### Status
 ACCEPTED

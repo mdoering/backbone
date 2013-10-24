@@ -1,5 +1,4 @@
-Lloydella papyracea (Jungh.) Bres. SPECIES
-=======
+# Lloydella papyracea (Jungh.) Bres. SPECIES
 
 #### Status
 ACCEPTED

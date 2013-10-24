@@ -1,5 +1,4 @@
-Placidium hepaticum f. hepaticum FORM
-=======
+# Placidium hepaticum (Ach.) Arnold SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Placidium hepaticum f. hepaticum
+Endocarpon hepaticum Ach.
 
 ### Remarks
 null

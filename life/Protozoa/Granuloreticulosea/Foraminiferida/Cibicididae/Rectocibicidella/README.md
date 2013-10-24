@@ -1,5 +1,4 @@
-Rectocibicidella McLean, 1956 GENUS
-=======
+# Rectocibicidella McLean, 1956 GENUS
 
 #### Status
 ACCEPTED

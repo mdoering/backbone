@@ -1,5 +1,4 @@
-Hebeloma subargillaceum A.H. Sm., V.S. Evenson & Mitchel SPECIES
-=======
+# Hebeloma subargillaceum A.H. Sm., V.S. Evenson & Mitchel SPECIES
 
 #### Status
 ACCEPTED

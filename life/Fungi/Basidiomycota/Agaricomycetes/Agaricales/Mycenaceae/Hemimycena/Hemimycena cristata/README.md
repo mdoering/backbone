@@ -1,5 +1,4 @@
-Hemimycena cristata (Kühner) Singer SPECIES
-=======
+# Hemimycena cristata (Kühner) Singer SPECIES
 
 #### Status
 ACCEPTED

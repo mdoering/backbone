@@ -1,5 +1,4 @@
-Curvularia gudauskasii Morgan-Jones & Karr, 1976 SPECIES
-=======
+# Curvularia gudauskasii Morgan-Jones & Karr, 1976 SPECIES
 
 #### Status
 ACCEPTED

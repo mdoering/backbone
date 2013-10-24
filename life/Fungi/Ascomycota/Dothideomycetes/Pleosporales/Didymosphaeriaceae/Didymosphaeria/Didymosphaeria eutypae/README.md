@@ -1,5 +1,4 @@
-Didymosphaeria eutypae Sureya {?} SPECIES
-=======
+# Didymosphaeria eutypae Sureya {?} SPECIES
 
 #### Status
 ACCEPTED

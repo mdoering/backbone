@@ -1,5 +1,4 @@
-Chaetomella sacchari Delacr. SPECIES
-=======
+# Chaetomella sacchari Delacr. SPECIES
 
 #### Status
 ACCEPTED

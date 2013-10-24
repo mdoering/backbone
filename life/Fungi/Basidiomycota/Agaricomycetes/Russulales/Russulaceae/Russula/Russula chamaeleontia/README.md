@@ -1,5 +1,4 @@
-Russula chamaeleontia Fr. SPECIES
-=======
+# Russula chamaeleontia Fr. SPECIES
 
 #### Status
 ACCEPTED

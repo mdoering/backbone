@@ -1,5 +1,4 @@
-Pertusaria dilatata Müll. Arg. SPECIES
-=======
+# Pertusaria dilatata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

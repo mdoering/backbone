@@ -1,5 +1,4 @@
-Tubercularia ramalinella Kuntze SPECIES
-=======
+# Tubercularia ramalinella Kuntze SPECIES
 
 #### Status
 ACCEPTED

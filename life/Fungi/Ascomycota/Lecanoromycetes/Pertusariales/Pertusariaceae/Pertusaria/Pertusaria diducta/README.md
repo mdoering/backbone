@@ -1,5 +1,4 @@
-Pertusaria diducta Kremp. SPECIES
-=======
+# Pertusaria diducta Kremp. SPECIES
 
 #### Status
 ACCEPTED

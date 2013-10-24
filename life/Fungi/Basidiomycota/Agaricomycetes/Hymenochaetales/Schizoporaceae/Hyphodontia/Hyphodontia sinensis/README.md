@@ -1,5 +1,4 @@
-Hyphodontia sinensis H.X. Xiong, Y.C. Dai & Sheng H. Wu, 2010 SPECIES
-=======
+# Hyphodontia sinensis H.X. Xiong, Y.C. Dai & Sheng H. Wu, 2010 SPECIES
 
 #### Status
 ACCEPTED

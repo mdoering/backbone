@@ -1,5 +1,4 @@
-Coscinodiscus asteromphalus var. hybridus Grun., 1844 VARIETY
-=======
+# Coscinodiscus asteromphalus Ehrenberg, 1844 SPECIES
 
 #### Status
 ACCEPTED

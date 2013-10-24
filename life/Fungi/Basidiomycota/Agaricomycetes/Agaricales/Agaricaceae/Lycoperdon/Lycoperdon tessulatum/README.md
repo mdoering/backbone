@@ -1,5 +1,4 @@
-Lycoperdon tessulatum Schumach. SPECIES
-=======
+# Lycoperdon tessulatum Schumach. SPECIES
 
 #### Status
 ACCEPTED

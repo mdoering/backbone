@@ -1,5 +1,4 @@
-Asteromella chaerophylli (C. Massal.) Petr. SPECIES
-=======
+# Asteromella chaerophylli (C. Massal.) Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepiota glareophila Fillion SPECIES
-=======
+# Lepiota glareophila Fillion SPECIES
 
 #### Status
 ACCEPTED

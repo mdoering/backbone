@@ -1,5 +1,4 @@
-Pseudohiatula favrei Tuom. SPECIES
-=======
+# Pseudohiatula favrei Tuom. SPECIES
 
 #### Status
 ACCEPTED

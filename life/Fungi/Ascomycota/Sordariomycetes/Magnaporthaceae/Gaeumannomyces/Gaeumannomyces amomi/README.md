@@ -1,5 +1,4 @@
-Gaeumannomyces amomi Bussaban, Lumyong, P. Lumyong, McKenzie & K.D. Hyde, 2001 SPECIES
-=======
+# Gaeumannomyces amomi Bussaban, Lumyong, P. Lumyong, McKenzie & K.D. Hyde, 2001 SPECIES
 
 #### Status
 ACCEPTED

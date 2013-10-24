@@ -1,5 +1,4 @@
-Peziza crater Batsch SPECIES
-=======
+# Peziza crater Batsch SPECIES
 
 #### Status
 ACCEPTED

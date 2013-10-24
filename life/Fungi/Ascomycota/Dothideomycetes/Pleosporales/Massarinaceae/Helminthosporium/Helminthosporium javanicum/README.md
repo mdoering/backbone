@@ -1,5 +1,4 @@
-Helminthosporium javanicum Penz. & Sacc. SPECIES
-=======
+# Helminthosporium javanicum Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

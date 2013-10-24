@@ -1,5 +1,4 @@
-Rhabditis GENUS
-=======
+# Rhabditis GENUS
 
 #### Status
 ACCEPTED

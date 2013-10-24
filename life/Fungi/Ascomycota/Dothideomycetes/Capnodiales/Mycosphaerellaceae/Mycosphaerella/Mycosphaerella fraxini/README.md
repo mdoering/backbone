@@ -1,17 +1,16 @@
-Septoria fraxini (Ellis & Kellerm.) Höhn., 1930 SPECIES
-=======
+# Mycosphaerella fraxini (Niessl) Lindau, 1903 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mitt. bot. Inst. tech. Hochsch. Wien 7: 49 (1930)
+Hilfsbuch fur das Sammeln der Ascomyceten (Berlin) 47 (1903)
 
 #### Original name
-Cylindrosporium fraxini Ellis & Everh., 1885
+Sphaerella fraxini Niessl, 1883
 
 ### Remarks
 null

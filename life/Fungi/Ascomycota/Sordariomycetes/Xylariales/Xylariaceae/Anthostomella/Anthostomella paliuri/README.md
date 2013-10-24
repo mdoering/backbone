@@ -1,5 +1,4 @@
-Anthostomella paliuri Fabre SPECIES
-=======
+# Anthostomella paliuri Fabre SPECIES
 
 #### Status
 ACCEPTED

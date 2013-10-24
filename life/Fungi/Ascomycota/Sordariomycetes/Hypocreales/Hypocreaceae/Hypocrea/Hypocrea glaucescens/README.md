@@ -1,5 +1,4 @@
-Hypocrea glaucescens Bres. SPECIES
-=======
+# Hypocrea glaucescens Bres. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium glomeratae (J.F. Gmel.) Tul. SPECIES
-=======
+# Aecidium glomeratae (J.F. Gmel.) Tul. SPECIES
 
 #### Status
 ACCEPTED

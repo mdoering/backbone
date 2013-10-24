@@ -1,5 +1,4 @@
-Pyrenastrum compositum Hepp SPECIES
-=======
+# Pyrenastrum compositum Hepp SPECIES
 
 #### Status
 ACCEPTED

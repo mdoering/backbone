@@ -1,5 +1,4 @@
-Rinodina pannarioides Stein SPECIES
-=======
+# Rinodina pannarioides Stein SPECIES
 
 #### Status
 ACCEPTED

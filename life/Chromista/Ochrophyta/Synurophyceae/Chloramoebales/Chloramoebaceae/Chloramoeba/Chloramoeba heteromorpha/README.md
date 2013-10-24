@@ -1,5 +1,4 @@
-Chloramoeba heteromorpha Bohlin SPECIES
-=======
+# Chloramoeba heteromorpha Bohlin SPECIES
 
 #### Status
 ACCEPTED

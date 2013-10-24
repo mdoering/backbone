@@ -1,5 +1,4 @@
-Peziza effugiens Roberge ex Desm. SPECIES
-=======
+# Peziza effugiens Roberge ex Desm. SPECIES
 
 #### Status
 ACCEPTED

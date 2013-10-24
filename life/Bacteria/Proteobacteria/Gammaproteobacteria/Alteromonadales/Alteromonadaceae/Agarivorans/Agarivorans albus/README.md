@@ -1,5 +1,4 @@
-Agarivorans albus Kurahashi & Yokota, 2004 SPECIES
-=======
+# Agarivorans albus Kurahashi & Yokota, 2004 SPECIES
 
 #### Status
 ACCEPTED

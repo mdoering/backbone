@@ -1,5 +1,4 @@
-Toritenum Dumitrica & Zügel, 2003 GENUS
-=======
+# Toritenum Dumitrica & Zügel, 2003 GENUS
 
 #### Status
 ACCEPTED

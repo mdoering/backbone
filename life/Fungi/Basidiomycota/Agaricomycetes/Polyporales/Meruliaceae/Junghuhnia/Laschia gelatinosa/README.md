@@ -1,5 +1,4 @@
-Laschia gelatinosa Wm. G. Sm. SPECIES
-=======
+# Laschia gelatinosa Wm. G. Sm. SPECIES
 
 #### Status
 ACCEPTED

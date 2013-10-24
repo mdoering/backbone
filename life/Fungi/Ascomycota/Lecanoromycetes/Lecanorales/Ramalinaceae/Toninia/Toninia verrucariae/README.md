@@ -1,5 +1,4 @@
-Toninia verrucariae (Metzler ex Nyl.) Timdal SPECIES
-=======
+# Toninia verrucariae (Metzler ex Nyl.) Timdal SPECIES
 
 #### Status
 ACCEPTED

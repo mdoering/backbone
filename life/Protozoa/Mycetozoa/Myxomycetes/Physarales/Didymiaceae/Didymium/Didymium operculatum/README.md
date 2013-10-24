@@ -1,5 +1,4 @@
-Didymium operculatum D. Wrigley, Lado & Estrada, 2011 SPECIES
-=======
+# Didymium operculatum D. Wrigley, Lado & Estrada, 2011 SPECIES
 
 #### Status
 ACCEPTED

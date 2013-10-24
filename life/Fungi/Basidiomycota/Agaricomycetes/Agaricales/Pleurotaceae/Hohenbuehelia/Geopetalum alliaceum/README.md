@@ -1,5 +1,4 @@
-Geopetalum alliaceum (Berk. & M.A. Curtis) Murrill SPECIES
-=======
+# Geopetalum alliaceum (Berk. & M.A. Curtis) Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phloeospora dearnessii Bubák SPECIES
-=======
+# Phloeospora dearnessii Bubák SPECIES
 
 #### Status
 ACCEPTED

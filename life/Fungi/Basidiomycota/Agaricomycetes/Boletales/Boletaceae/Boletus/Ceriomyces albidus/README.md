@@ -1,5 +1,4 @@
-Ceriomyces albidus Romagnoli SPECIES
-=======
+# Ceriomyces albidus Romagnoli SPECIES
 
 #### Status
 ACCEPTED

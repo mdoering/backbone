@@ -1,5 +1,4 @@
-Astrothelium fallax Müll. Arg. SPECIES
-=======
+# Astrothelium fallax Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

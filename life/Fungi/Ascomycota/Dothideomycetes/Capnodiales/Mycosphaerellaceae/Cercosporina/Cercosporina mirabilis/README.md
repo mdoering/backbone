@@ -1,5 +1,4 @@
-Cercosporina mirabilis (Tharp) Sacc. SPECIES
-=======
+# Cercosporina mirabilis (Tharp) Sacc. SPECIES
 
 #### Status
 ACCEPTED

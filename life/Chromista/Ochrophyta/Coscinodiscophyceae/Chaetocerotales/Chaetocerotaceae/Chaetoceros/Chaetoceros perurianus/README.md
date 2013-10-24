@@ -1,5 +1,4 @@
-Chaetoceros perurianus Brightwell SPECIES
-=======
+# Chaetoceros perurianus Brightwell SPECIES
 
 #### Status
 ACCEPTED

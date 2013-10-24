@@ -1,5 +1,4 @@
-Coccomyces araucariae Butin & Speer, 1978 SPECIES
-=======
+# Coccomyces araucariae Butin & Speer, 1978 SPECIES
 
 #### Status
 ACCEPTED

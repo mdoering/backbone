@@ -1,5 +1,4 @@
-Phyllosticta ajugaecola Hollós SPECIES
-=======
+# Phyllosticta ajugaecola Hollós SPECIES
 
 #### Status
 ACCEPTED

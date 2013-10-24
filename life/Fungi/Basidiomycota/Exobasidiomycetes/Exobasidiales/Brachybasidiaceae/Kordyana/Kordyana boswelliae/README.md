@@ -1,5 +1,4 @@
-Kordyana boswelliae Thirum., Patel, G.W. Dhande & V.V. Bhatt, 1956 SPECIES
-=======
+# Kordyana boswelliae Thirum., Patel, G.W. Dhande & V.V. Bhatt, 1956 SPECIES
 
 #### Status
 ACCEPTED

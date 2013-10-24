@@ -1,5 +1,4 @@
-Archaealetes gibbosus Pykhova, 1968 SPECIES
-=======
+# Archaealetes gibbosus Pykhova, 1968 SPECIES
 
 #### Status
 ACCEPTED

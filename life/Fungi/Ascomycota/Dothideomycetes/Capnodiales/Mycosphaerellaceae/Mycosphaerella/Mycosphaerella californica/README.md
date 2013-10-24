@@ -1,5 +1,4 @@
-Mycosphaerella californica (Cooke & Harkn.) Lindau SPECIES
-=======
+# Mycosphaerella californica (Cooke & Harkn.) Lindau SPECIES
 
 #### Status
 ACCEPTED

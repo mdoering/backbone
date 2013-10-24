@@ -1,5 +1,4 @@
-Halegrapha GENUS
-=======
+# Halegrapha GENUS
 
 #### Status
 ACCEPTED

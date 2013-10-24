@@ -1,5 +1,4 @@
-Yeharaia Nakaseko & Nishimura, 1979 GENUS
-=======
+# Yeharaia Nakaseko & Nishimura, 1979 GENUS
 
 #### Status
 ACCEPTED

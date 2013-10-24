@@ -1,5 +1,4 @@
-Cercospora lantanae-aculeatae J.M. Yen SPECIES
-=======
+# Cercospora lantanae-aculeatae J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

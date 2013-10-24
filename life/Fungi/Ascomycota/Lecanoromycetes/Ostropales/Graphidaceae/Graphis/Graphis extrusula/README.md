@@ -1,5 +1,4 @@
-Graphis extrusula Stirt. SPECIES
-=======
+# Graphis extrusula Stirt. SPECIES
 
 #### Status
 ACCEPTED

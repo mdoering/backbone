@@ -1,5 +1,4 @@
-Boletus flavipes Peck SPECIES
-=======
+# Boletus flavipes Peck SPECIES
 
 #### Status
 ACCEPTED

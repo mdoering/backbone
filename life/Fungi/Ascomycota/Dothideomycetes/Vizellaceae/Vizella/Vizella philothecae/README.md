@@ -1,5 +1,4 @@
-Vizella philothecae Cunningt., 2005 SPECIES
-=======
+# Vizella philothecae Cunningt., 2005 SPECIES
 
 #### Status
 ACCEPTED

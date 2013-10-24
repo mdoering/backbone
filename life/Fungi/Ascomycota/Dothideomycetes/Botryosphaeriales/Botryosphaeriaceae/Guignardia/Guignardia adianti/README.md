@@ -1,5 +1,4 @@
-Guignardia adianti (Höhn.) Arx & E. Müll. SPECIES
-=======
+# Guignardia adianti (Höhn.) Arx & E. Müll. SPECIES
 
 #### Status
 ACCEPTED

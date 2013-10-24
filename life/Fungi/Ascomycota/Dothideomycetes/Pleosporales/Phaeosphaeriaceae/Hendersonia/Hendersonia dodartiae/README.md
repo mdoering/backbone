@@ -1,5 +1,4 @@
-Hendersonia dodartiae Szemb. SPECIES
-=======
+# Hendersonia dodartiae Szemb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trimosina Cushman, 1927 GENUS
-=======
+# Trimosina Cushman, 1927 GENUS
 
 #### Status
 ACCEPTED

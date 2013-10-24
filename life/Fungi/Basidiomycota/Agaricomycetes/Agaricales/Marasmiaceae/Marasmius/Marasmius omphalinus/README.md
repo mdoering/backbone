@@ -1,5 +1,4 @@
-Marasmius omphalinus (Pat. & Demange) Sacc. & Trotter SPECIES
-=======
+# Marasmius omphalinus (Pat. & Demange) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

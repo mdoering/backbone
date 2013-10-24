@@ -1,5 +1,4 @@
-Septoria heliopsidis Ellis & Dearn. SPECIES
-=======
+# Septoria heliopsidis Ellis & Dearn. SPECIES
 
 #### Status
 ACCEPTED

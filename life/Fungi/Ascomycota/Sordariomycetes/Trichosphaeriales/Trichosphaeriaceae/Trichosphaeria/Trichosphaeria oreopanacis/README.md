@@ -1,5 +1,4 @@
-Trichosphaeria oreopanacis E. Müll. SPECIES
-=======
+# Trichosphaeria oreopanacis E. Müll. SPECIES
 
 #### Status
 ACCEPTED

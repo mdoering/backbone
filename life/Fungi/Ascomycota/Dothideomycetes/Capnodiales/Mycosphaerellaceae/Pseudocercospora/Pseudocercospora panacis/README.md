@@ -1,14 +1,13 @@
-Cercospora panacis Thirum. & Chupp, 1948 SPECIES
-=======
+# Pseudocercospora panacis (Thirum. & Chupp) Y.L. Guo & X.J. Liu, 1992 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 40(3): 358 (1948)
+Acta Mycol. Sin. 11(4): 297 (1992)
 
 #### Original name
 Cercospora panacis Thirum. & Chupp, 1948

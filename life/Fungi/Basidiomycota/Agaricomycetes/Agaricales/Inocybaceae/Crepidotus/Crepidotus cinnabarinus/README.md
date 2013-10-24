@@ -1,5 +1,4 @@
-Crepidotus cinnabarinus Peck, 1895 SPECIES
-=======
+# Crepidotus cinnabarinus Peck, 1895 SPECIES
 
 #### Status
 ACCEPTED

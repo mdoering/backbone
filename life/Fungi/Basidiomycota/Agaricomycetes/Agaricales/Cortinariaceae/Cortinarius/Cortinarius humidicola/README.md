@@ -1,5 +1,4 @@
-Cortinarius humidicola Kauffman SPECIES
-=======
+# Cortinarius humidicola Kauffman SPECIES
 
 #### Status
 ACCEPTED

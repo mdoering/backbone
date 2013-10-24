@@ -1,5 +1,4 @@
-Rhinotrichum laevisporum (Cooke) Sumst. SPECIES
-=======
+# Rhinotrichum laevisporum (Cooke) Sumst. SPECIES
 
 #### Status
 ACCEPTED

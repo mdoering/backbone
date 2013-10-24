@@ -1,5 +1,4 @@
-Fragilaria obtusa Hustedt, 1956 SPECIES
-=======
+# Fragilaria obtusa Hustedt, 1956 SPECIES
 
 #### Status
 ACCEPTED

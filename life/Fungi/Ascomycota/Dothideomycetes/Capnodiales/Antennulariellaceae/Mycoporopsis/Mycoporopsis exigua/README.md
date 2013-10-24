@@ -1,5 +1,4 @@
-Mycoporopsis exigua Zahlbr. SPECIES
-=======
+# Mycoporopsis exigua Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

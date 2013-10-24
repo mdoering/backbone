@@ -1,5 +1,4 @@
-Gloniella gracilis Checa, Shoemaker & Umaña, 2007 SPECIES
-=======
+# Gloniella gracilis Checa, Shoemaker & Umaña, 2007 SPECIES
 
 #### Status
 ACCEPTED

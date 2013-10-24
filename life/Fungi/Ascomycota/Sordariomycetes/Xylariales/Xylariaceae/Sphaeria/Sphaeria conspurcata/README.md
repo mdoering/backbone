@@ -1,5 +1,4 @@
-Sphaeria conspurcata Wallr. SPECIES
-=======
+# Sphaeria conspurcata Wallr. SPECIES
 
 #### Status
 ACCEPTED

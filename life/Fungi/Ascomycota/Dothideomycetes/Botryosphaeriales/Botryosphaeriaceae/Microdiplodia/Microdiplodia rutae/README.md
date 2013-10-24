@@ -1,5 +1,4 @@
-Microdiplodia rutae (Henn.) Sacc. & D. Sacc. SPECIES
-=======
+# Microdiplodia rutae (Henn.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

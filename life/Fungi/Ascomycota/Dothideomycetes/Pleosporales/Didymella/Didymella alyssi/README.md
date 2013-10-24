@@ -1,5 +1,4 @@
-Didymella alyssi Hollós SPECIES
-=======
+# Didymella alyssi Hollós SPECIES
 
 #### Status
 ACCEPTED

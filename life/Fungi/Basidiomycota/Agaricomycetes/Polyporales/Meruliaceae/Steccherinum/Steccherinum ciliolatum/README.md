@@ -1,17 +1,16 @@
-Odontia ciliolata var. flava Rick VARIETY
-=======
+# Steccherinum ciliolatum (Berk. & M.A. Curtis) Gilb. & Budington, 1970 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Rambo (Ed. ), Iheringia, Sér. Bot. 5: 159 (1959)
+J. Ariz. Acad. Sci. 6(2): 97 (1970)
 
 #### Original name
-Odontia ciliolata var. flava Rick
+Hydnum ciliolatum Berk. & M.A. Curtis, 1849
 
 ### Remarks
 null

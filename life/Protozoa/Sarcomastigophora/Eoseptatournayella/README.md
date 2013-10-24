@@ -1,5 +1,4 @@
-Eoseptatournayella Lipina, 1963 GENUS
-=======
+# Eoseptatournayella Lipina, 1963 GENUS
 
 #### Status
 ACCEPTED

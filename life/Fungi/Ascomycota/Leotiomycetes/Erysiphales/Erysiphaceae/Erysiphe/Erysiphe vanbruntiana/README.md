@@ -1,5 +1,4 @@
-Erysiphe vanbruntiana var. vanbruntiana VARIETY
-=======
+# Erysiphe vanbruntiana (W.R. Gerard) U. Braun & S. Takam., 2000 SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Schlechtendalia 4: 15 (2000)
+null
 
 #### Original name
-Microsphaera vanbruntiana W.R. Gerard, 1875
+null
 
 ### Remarks
 null

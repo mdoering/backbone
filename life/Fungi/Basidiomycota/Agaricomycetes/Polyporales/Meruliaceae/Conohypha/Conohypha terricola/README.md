@@ -1,14 +1,13 @@
-Hyphoderma terricola (Burt) K.J. Martin & Gilb., 1977 SPECIES
-=======
+# Conohypha terricola (Burt) Jülich, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 6(1): 63 (1977)
+Persoonia 8(4): 442 (1976)
 
 #### Original name
 Peniophora terricola Burt, 1926

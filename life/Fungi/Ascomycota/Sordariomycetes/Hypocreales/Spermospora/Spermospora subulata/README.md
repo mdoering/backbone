@@ -1,17 +1,16 @@
-Spermospora subulata f. subulata (R. Sprague) R. Sprague FORM
-=======
+# Spermospora subulata (R. Sprague) R. Sprague, 1948 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Mycologia 40(2): 178 (1948)
 
 #### Original name
-Spermospora subulata f. subulata (R. Sprague) R. Sprague
+Cercosporella subulata R. Sprague, 1937
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Hydnum thelephoroideum Duby SPECIES
-=======
+# Hydnum thelephoroideum Duby SPECIES
 
 #### Status
 ACCEPTED

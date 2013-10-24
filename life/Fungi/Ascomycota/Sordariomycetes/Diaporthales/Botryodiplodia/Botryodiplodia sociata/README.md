@@ -1,5 +1,4 @@
-Botryodiplodia sociata (Lév.) Petr. & Syd. SPECIES
-=======
+# Botryodiplodia sociata (Lév.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

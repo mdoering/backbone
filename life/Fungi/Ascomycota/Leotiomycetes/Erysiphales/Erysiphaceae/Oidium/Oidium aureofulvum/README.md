@@ -1,5 +1,4 @@
-Oidium aureofulvum (Cooke & Ellis) Linder SPECIES
-=======
+# Oidium aureofulvum (Cooke & Ellis) Linder SPECIES
 
 #### Status
 ACCEPTED

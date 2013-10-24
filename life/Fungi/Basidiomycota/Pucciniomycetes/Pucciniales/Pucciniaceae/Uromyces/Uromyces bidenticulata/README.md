@@ -1,5 +1,4 @@
-Uromyces bidenticulata (Henn.) Arthur SPECIES
-=======
+# Uromyces bidenticulata (Henn.) Arthur SPECIES
 
 #### Status
 ACCEPTED

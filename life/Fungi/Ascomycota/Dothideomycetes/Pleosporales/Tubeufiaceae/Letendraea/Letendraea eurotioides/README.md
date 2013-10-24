@@ -1,17 +1,16 @@
-Byssonectria eurotioides (Sacc.) Cooke, 1884 SPECIES
-=======
+# Letendraea eurotioides Sacc., 1880 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Michelia 2(no. 6): 73 (1880)
 
 #### Original name
-null
+Letendraea eurotioides Sacc., 1880
 
 ### Remarks
 null

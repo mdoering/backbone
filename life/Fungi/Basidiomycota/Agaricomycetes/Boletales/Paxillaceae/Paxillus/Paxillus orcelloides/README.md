@@ -1,5 +1,4 @@
-Paxillus orcelloides Cooke & Massee SPECIES
-=======
+# Paxillus orcelloides Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

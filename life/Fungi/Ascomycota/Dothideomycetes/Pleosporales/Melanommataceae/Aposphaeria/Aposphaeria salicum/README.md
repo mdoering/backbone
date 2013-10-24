@@ -1,5 +1,4 @@
-Aposphaeria salicum Sacc. SPECIES
-=======
+# Aposphaeria salicum Sacc. SPECIES
 
 #### Status
 ACCEPTED

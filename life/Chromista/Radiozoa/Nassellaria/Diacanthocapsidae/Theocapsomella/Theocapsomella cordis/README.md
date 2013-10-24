@@ -1,5 +1,4 @@
-Theocapsomella cordis SPECIES
-=======
+# Theocapsomella cordis SPECIES
 
 #### Status
 ACCEPTED

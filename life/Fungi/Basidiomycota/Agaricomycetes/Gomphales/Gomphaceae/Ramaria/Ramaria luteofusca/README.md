@@ -1,5 +1,4 @@
-Ramaria luteofusca Maire SPECIES
-=======
+# Ramaria luteofusca Maire SPECIES
 
 #### Status
 ACCEPTED

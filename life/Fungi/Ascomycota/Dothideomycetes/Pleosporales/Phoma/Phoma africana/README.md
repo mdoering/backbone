@@ -1,5 +1,4 @@
-Phoma africana Speg. SPECIES
-=======
+# Phoma africana Speg. SPECIES
 
 #### Status
 ACCEPTED

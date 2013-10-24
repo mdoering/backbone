@@ -1,5 +1,4 @@
-Squamaria olivacea (Dufour) H. Olivier SPECIES
-=======
+# Squamaria olivacea (Dufour) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

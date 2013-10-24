@@ -1,5 +1,4 @@
-Flamingoia Stevens & Helby, 1987 GENUS
-=======
+# Flamingoia Stevens & Helby, 1987 GENUS
 
 #### Status
 ACCEPTED

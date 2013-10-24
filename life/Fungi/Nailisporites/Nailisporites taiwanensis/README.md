@@ -1,5 +1,4 @@
-Nailisporites taiwanensis T.C. Huang SPECIES
-=======
+# Nailisporites taiwanensis T.C. Huang SPECIES
 
 #### Status
 ACCEPTED

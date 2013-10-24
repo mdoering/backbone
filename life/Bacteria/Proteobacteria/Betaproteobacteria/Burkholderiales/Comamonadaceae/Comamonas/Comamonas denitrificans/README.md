@@ -1,5 +1,4 @@
-Comamonas denitrificans Gumaelius et al., 2001 SPECIES
-=======
+# Comamonas denitrificans Gumaelius et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

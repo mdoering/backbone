@@ -1,14 +1,13 @@
-Sporidesmium flagellatum (S. Hughes) M.B. Ellis, 1958 SPECIES
-=======
+# Penzigomyces flagellatus (S. Hughes) Subram., 1992 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 70: 54 (1958)
+Proc. Indian natn Sci. Acad. , Part B. Biol. Sci. 58(4): 186 (1992)
 
 #### Original name
 Podoconis flagellata S. Hughes, 1953

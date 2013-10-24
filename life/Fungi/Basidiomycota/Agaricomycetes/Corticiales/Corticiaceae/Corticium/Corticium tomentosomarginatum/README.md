@@ -1,5 +1,4 @@
-Corticium tomentosomarginatum Britzelm. SPECIES
-=======
+# Corticium tomentosomarginatum Britzelm. SPECIES
 
 #### Status
 ACCEPTED

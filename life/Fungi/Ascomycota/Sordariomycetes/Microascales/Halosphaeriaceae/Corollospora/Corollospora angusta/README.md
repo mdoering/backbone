@@ -1,5 +1,4 @@
-Corollospora angusta Nakagiri & Tokura, 1988 SPECIES
-=======
+# Corollospora angusta Nakagiri & Tokura, 1988 SPECIES
 
 #### Status
 ACCEPTED

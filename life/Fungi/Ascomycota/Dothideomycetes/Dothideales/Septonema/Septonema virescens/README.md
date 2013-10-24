@@ -1,5 +1,4 @@
-Septonema virescens Corda SPECIES
-=======
+# Septonema virescens Corda SPECIES
 
 #### Status
 ACCEPTED

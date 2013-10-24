@@ -1,5 +1,4 @@
-Schizothyrium ilicis-integrae Katum. SPECIES
-=======
+# Schizothyrium ilicis-integrae Katum. SPECIES
 
 #### Status
 ACCEPTED

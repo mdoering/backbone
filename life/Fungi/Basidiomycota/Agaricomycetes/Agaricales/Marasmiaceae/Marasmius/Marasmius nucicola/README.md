@@ -1,5 +1,4 @@
-Marasmius nucicola W. McDougall SPECIES
-=======
+# Marasmius nucicola W. McDougall SPECIES
 
 #### Status
 ACCEPTED

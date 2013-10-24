@@ -1,5 +1,4 @@
-Mitophora Perty, 1852 GENUS
-=======
+# Mitophora Perty, 1852 GENUS
 
 #### Status
 ACCEPTED

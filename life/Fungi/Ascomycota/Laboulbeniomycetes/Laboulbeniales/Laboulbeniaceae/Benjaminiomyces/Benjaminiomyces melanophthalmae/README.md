@@ -1,14 +1,13 @@
-Benjaminella melanophthalmae (Thaxt.) I.I. Tav., 1981 SPECIES
-=======
+# Benjaminiomyces melanophthalmae (Thaxt.) I.I. Tav., 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 12(2): 433 (1981)
+Mycotaxon 75: 206 (2000)
 
 #### Original name
 Rickia melanophthalmae Thaxt., 1912

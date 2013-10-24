@@ -1,5 +1,4 @@
-Chaetoceros bungei Honigmann SPECIES
-=======
+# Chaetoceros bungei Honigmann SPECIES
 
 #### Status
 ACCEPTED

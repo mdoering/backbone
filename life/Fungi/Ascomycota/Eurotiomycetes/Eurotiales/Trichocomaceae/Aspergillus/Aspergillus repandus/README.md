@@ -1,5 +1,4 @@
-Aspergillus repandus Bainier & Sartory SPECIES
-=======
+# Aspergillus repandus Bainier & Sartory SPECIES
 
 #### Status
 ACCEPTED

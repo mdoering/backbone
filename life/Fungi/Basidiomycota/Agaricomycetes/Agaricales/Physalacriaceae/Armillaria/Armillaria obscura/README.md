@@ -1,17 +1,16 @@
-Agaricus polymyces var. polymyces VARIETY
-=======
+# Armillaria obscura (Schaeff.) Herink, 1973 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sympozium o Václavce Obecné Armillaria mellea (Vahl ex Fr. ) Kumm. (Brno) 42 (1973)
 
 #### Original name
-null
+Agaricus obscurus Schaeff., 1762
 
 ### Remarks
 null

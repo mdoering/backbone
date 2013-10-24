@@ -1,5 +1,4 @@
-Amanita amara Lam. SPECIES
-=======
+# Amanita amara Lam. SPECIES
 
 #### Status
 ACCEPTED

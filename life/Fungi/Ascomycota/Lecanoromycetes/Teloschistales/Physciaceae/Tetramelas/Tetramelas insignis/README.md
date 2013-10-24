@@ -1,17 +1,16 @@
-Buellia insignis var. insignis VARIETY
-=======
+# Tetramelas insignis (Nägeli ex Hepp) Kalb SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Acta R. Soc. Scient. upsal. , Ser. 3 3: 327 (1861)
+null
 
 #### Original name
-Buellia insignis var. insignis
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Leptonia nigrosquamosa (Hesler) Largent SPECIES
-=======
+# Leptonia nigrosquamosa (Hesler) Largent SPECIES
 
 #### Status
 ACCEPTED

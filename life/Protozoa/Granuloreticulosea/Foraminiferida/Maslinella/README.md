@@ -1,5 +1,4 @@
-Maslinella Glaessner & Wade, 1959 GENUS
-=======
+# Maslinella Glaessner & Wade, 1959 GENUS
 
 #### Status
 ACCEPTED

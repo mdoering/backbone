@@ -1,5 +1,4 @@
-Coniothyrium valdivianum Speg. SPECIES
-=======
+# Coniothyrium valdivianum Speg. SPECIES
 
 #### Status
 ACCEPTED

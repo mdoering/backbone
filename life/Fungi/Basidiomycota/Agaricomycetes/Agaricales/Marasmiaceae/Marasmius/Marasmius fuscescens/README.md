@@ -1,5 +1,4 @@
-Marasmius fuscescens J. Schröt. SPECIES
-=======
+# Marasmius fuscescens J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

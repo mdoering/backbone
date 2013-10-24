@@ -1,5 +1,4 @@
-Lecidea prolifera Fink SPECIES
-=======
+# Lecidea prolifera Fink SPECIES
 
 #### Status
 ACCEPTED

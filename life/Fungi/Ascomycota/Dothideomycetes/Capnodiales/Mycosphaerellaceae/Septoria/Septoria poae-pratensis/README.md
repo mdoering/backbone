@@ -1,5 +1,4 @@
-Septoria poae-pratensis Gonz. Frag. SPECIES
-=======
+# Septoria poae-pratensis Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

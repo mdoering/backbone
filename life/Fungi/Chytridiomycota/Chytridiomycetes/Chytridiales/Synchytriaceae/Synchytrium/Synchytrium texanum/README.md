@@ -1,5 +1,4 @@
-Synchytrium texanum Karling SPECIES
-=======
+# Synchytrium texanum Karling SPECIES
 
 #### Status
 ACCEPTED

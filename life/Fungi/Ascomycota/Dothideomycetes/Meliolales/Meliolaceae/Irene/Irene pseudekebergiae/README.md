@@ -1,5 +1,4 @@
-Irene pseudekebergiae Hansf. SPECIES
-=======
+# Irene pseudekebergiae Hansf. SPECIES
 
 #### Status
 ACCEPTED

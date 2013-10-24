@@ -1,5 +1,4 @@
-Caloplaca xanthostigmoidea (Räsänen) Zahlbr. SPECIES
-=======
+# Caloplaca xanthostigmoidea (Räsänen) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

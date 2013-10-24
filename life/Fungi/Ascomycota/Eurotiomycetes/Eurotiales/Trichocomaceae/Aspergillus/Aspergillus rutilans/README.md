@@ -1,5 +1,4 @@
-Aspergillus rutilans Mosseray SPECIES
-=======
+# Aspergillus rutilans Mosseray SPECIES
 
 #### Status
 ACCEPTED

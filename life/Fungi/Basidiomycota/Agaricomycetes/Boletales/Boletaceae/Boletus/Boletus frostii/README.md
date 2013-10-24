@@ -1,5 +1,4 @@
-Boletus frostii subsp. frostii J.L. Russell SUBSPECIES
-=======
+# Boletus frostii J.L. Russell SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Boletus frostii subsp. frostii J.L. Russell
+Boletus frostii J.L. Russell
 
 ### Remarks
 null

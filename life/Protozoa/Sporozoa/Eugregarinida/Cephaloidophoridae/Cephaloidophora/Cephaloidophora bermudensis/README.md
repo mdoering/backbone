@@ -1,8 +1,7 @@
-Carcinoecetes bermudensis Ball, 1951 SPECIES
-=======
+# Cephaloidophora bermudensis (Ball, 1951) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

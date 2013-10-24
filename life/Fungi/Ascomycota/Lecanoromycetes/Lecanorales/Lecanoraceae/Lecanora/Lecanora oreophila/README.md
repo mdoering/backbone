@@ -1,5 +1,4 @@
-Lecanora oreophila Motyka SPECIES
-=======
+# Lecanora oreophila Motyka SPECIES
 
 #### Status
 ACCEPTED

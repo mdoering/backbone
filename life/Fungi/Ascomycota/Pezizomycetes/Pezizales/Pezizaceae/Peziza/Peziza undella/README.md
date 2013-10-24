@@ -1,5 +1,4 @@
-Peziza undella Fr. SPECIES
-=======
+# Peziza undella Fr. SPECIES
 
 #### Status
 ACCEPTED

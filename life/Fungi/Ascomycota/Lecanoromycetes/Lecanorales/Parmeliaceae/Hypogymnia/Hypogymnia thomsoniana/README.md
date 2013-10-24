@@ -1,5 +1,4 @@
-Hypogymnia thomsoniana (Müll. Arg.) D.D. Awasthi SPECIES
-=======
+# Hypogymnia thomsoniana (Müll. Arg.) D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

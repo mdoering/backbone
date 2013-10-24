@@ -1,17 +1,16 @@
-Badhamiopsis ainoae var. macrospora Y. Yamam. VARIETY
-=======
+# Badhamiopsis ainoae (Yamash.) T.E. Brooks & H.W. Keller, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-The Myxomycete Biota of Japan (Tokyo) 375 (1998)
+Mycologia 68(4): 836 (1976)
 
 #### Original name
-Badhamiopsis ainoae var. macrospora Y. Yamam.
+Badhamia ainoae Yamash., 1936
 
 ### Remarks
 null

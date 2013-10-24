@@ -1,5 +1,4 @@
-Septoria lonicerae Allesch. SPECIES
-=======
+# Septoria lonicerae Allesch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhytisma sedi (Fr.) Corda SPECIES
-=======
+# Rhytisma sedi (Fr.) Corda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clitocybe tubaeformis Beeli SPECIES
-=======
+# Clitocybe tubaeformis Beeli SPECIES
 
 #### Status
 ACCEPTED

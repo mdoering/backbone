@@ -1,5 +1,4 @@
-Ceratocystis fagacearum (Bretz) J. Hunt, 1956 SPECIES
-=======
+# Ceratocystis fagacearum (Bretz) J. Hunt, 1956 SPECIES
 
 #### Status
 ACCEPTED

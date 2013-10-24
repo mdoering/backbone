@@ -1,5 +1,4 @@
-Rhizopogon villescens A.H. Sm. SPECIES
-=======
+# Rhizopogon villescens A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

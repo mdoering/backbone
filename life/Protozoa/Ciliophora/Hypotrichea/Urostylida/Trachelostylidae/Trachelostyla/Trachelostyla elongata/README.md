@@ -1,5 +1,4 @@
-Trachelostyla elongata SPECIES
-=======
+# Trachelostyla elongata SPECIES
 
 #### Status
 ACCEPTED

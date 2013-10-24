@@ -1,5 +1,4 @@
-Polyporus aurantiopallens Berk. & M.A. Curtis SPECIES
-=======
+# Polyporus aurantiopallens Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

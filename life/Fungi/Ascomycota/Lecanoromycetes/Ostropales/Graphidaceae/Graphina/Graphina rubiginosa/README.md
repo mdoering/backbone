@@ -1,5 +1,4 @@
-Graphina rubiginosa var. rubiginosa VARIETY
-=======
+# Graphina rubiginosa (Fée) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Graphina rubiginosa var. rubiginosa
+Graphis rubiginosa Fée
 
 ### Remarks
 null

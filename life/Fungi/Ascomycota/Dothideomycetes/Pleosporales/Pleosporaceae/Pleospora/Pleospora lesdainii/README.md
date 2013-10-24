@@ -1,5 +1,4 @@
-Pleospora lesdainii Vouaux SPECIES
-=======
+# Pleospora lesdainii Vouaux SPECIES
 
 #### Status
 ACCEPTED

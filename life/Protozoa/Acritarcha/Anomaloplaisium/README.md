@@ -1,5 +1,4 @@
-Anomaloplaisium Tappan & Loeblich Jr. GENUS
-=======
+# Anomaloplaisium Tappan & Loeblich Jr. GENUS
 
 #### Status
 ACCEPTED

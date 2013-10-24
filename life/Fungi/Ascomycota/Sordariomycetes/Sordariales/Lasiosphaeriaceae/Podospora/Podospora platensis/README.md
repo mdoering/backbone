@@ -1,5 +1,4 @@
-Podospora platensis (Speg.) Niessl, 1883 SPECIES
-=======
+# Podospora platensis (Speg.) Niessl, 1883 SPECIES
 
 #### Status
 ACCEPTED

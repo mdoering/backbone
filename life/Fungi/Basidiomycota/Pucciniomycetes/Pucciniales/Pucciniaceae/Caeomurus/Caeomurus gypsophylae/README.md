@@ -1,5 +1,4 @@
-Caeomurus gypsophylae (Cooke) Kuntze SPECIES
-=======
+# Caeomurus gypsophylae (Cooke) Kuntze SPECIES
 
 #### Status
 ACCEPTED

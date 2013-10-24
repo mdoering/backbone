@@ -1,5 +1,4 @@
-Biddulphia varicon Tseng SPECIES
-=======
+# Biddulphia varicon Tseng SPECIES
 
 #### Status
 ACCEPTED

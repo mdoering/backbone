@@ -1,5 +1,4 @@
-Physalosporopsis rhizophoricola Bat. & H. Maia, 1955 SPECIES
-=======
+# Physalosporopsis rhizophoricola Bat. & H. Maia, 1955 SPECIES
 
 #### Status
 ACCEPTED

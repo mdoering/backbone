@@ -1,5 +1,4 @@
-Aecidium serrae Syd. & P. Syd. SPECIES
-=======
+# Aecidium serrae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

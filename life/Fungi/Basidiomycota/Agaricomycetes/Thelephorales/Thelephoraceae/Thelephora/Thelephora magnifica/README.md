@@ -1,5 +1,4 @@
-Thelephora magnifica Corner, 1968 SPECIES
-=======
+# Thelephora magnifica Corner, 1968 SPECIES
 
 #### Status
 ACCEPTED

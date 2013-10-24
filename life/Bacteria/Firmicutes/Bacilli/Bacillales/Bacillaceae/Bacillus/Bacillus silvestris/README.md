@@ -1,5 +1,4 @@
-Bacillus silvestris Rheims et al., 1999 SPECIES
-=======
+# Bacillus silvestris Rheims et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

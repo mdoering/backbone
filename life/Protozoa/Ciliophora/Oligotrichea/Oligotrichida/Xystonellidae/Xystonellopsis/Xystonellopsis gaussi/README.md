@@ -1,5 +1,4 @@
-Xystonellopsis gaussi (Laackmann, 1910) Kofoid & Campbell, 1929 SPECIES
-=======
+# Xystonellopsis gaussi (Laackmann, 1910) Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

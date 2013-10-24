@@ -1,5 +1,4 @@
-Peronospora bothriospermi Sawada SPECIES
-=======
+# Peronospora bothriospermi Sawada SPECIES
 
 #### Status
 ACCEPTED

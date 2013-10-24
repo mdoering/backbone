@@ -1,5 +1,4 @@
-Pestalotia litchii Sawada SPECIES
-=======
+# Pestalotia litchii Sawada SPECIES
 
 #### Status
 ACCEPTED

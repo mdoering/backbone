@@ -1,5 +1,4 @@
-Sphaeridium luteum Höhn. SPECIES
-=======
+# Sphaeridium luteum Höhn. SPECIES
 
 #### Status
 ACCEPTED

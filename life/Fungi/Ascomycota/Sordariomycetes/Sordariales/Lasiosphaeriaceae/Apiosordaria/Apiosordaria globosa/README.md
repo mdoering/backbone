@@ -1,5 +1,4 @@
-Apiosordaria globosa Dania García, Stchigel & Guarro SPECIES
-=======
+# Apiosordaria globosa Dania García, Stchigel & Guarro SPECIES
 
 #### Status
 ACCEPTED

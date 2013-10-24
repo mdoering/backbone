@@ -1,5 +1,4 @@
-Stilbum coprogenum Ellis & Everh. SPECIES
-=======
+# Stilbum coprogenum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

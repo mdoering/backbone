@@ -1,5 +1,4 @@
-Meliola diffenbachiae F. Stevens SPECIES
-=======
+# Meliola diffenbachiae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

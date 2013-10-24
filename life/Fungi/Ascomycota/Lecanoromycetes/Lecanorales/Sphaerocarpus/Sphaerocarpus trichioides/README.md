@@ -1,5 +1,4 @@
-Sphaerocarpus trichioides Bull. SPECIES
-=======
+# Sphaerocarpus trichioides Bull. SPECIES
 
 #### Status
 ACCEPTED

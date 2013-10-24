@@ -1,5 +1,4 @@
-Lagenammina kagoshimaensis Oki, 1989 SPECIES
-=======
+# Lagenammina kagoshimaensis Oki, 1989 SPECIES
 
 #### Status
 ACCEPTED

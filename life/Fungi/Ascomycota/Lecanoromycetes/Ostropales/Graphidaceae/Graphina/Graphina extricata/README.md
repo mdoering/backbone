@@ -1,5 +1,4 @@
-Graphina extricata (Vain.) Zahlbr. SPECIES
-=======
+# Graphina extricata (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

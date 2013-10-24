@@ -1,5 +1,4 @@
-Galerina lateritia (Murrill) Singer SPECIES
-=======
+# Galerina lateritia (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Phomopsis occulta var. occulta (Sacc.) Traverso VARIETY
-=======
+# Phomopsis occulta (Sacc.) Traverso, 1906 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Fl. ital. crypt. , Pars 1: Fungi. Pyrenomycetae. Xylariaceae, Valsaceae, Ceratostomataceae 2(1): 221 (1906)
 
 #### Original name
-Phomopsis occulta var. occulta (Sacc.) Traverso
+Phoma occulta Desm., 1841
 
 ### Remarks
 null

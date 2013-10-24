@@ -1,5 +1,4 @@
-Didymosphaeria indica Scheinpflug SPECIES
-=======
+# Didymosphaeria indica Scheinpflug SPECIES
 
 #### Status
 ACCEPTED

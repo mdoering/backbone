@@ -1,5 +1,4 @@
-Corethron murrayanum Castracane SPECIES
-=======
+# Corethron murrayanum Castracane SPECIES
 
 #### Status
 ACCEPTED

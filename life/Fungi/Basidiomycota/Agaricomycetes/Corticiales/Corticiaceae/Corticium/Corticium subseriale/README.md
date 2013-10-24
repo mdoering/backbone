@@ -1,5 +1,4 @@
-Corticium subseriale SPECIES
-=======
+# Corticium subseriale SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaenea minor Kahl, 1926 SPECIES
-=======
+# Chaenea minor Kahl, 1926 SPECIES
 
 #### Status
 ACCEPTED

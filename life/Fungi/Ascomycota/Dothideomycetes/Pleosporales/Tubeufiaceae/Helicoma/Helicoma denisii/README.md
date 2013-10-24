@@ -1,5 +1,4 @@
-Helicoma denisii M. B. Ellis SPECIES
-=======
+# Helicoma denisii M. B. Ellis SPECIES
 
 #### Status
 ACCEPTED

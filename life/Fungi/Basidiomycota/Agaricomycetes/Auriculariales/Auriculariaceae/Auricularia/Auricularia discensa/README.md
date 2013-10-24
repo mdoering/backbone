@@ -1,5 +1,4 @@
-Auricularia discensa Lloyd SPECIES
-=======
+# Auricularia discensa Lloyd SPECIES
 
 #### Status
 ACCEPTED

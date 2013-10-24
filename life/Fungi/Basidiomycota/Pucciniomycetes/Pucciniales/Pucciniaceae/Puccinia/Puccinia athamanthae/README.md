@@ -1,5 +1,4 @@
-Puccinia athamanthae (DC.) Lindr. SPECIES
-=======
+# Puccinia athamanthae (DC.) Lindr. SPECIES
 
 #### Status
 ACCEPTED

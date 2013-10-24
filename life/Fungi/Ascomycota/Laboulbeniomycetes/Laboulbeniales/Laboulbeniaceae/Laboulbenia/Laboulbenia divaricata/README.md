@@ -1,5 +1,4 @@
-Laboulbenia divaricata (Thaxt.) Sugiy. SPECIES
-=======
+# Laboulbenia divaricata (Thaxt.) Sugiy. SPECIES
 
 #### Status
 ACCEPTED

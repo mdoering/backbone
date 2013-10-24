@@ -1,5 +1,4 @@
-Omphalia fasciata Velen. SPECIES
-=======
+# Omphalia fasciata Velen. SPECIES
 
 #### Status
 ACCEPTED

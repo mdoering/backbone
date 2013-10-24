@@ -1,5 +1,4 @@
-Meliola puiggarii Speg. SPECIES
-=======
+# Meliola puiggarii Speg. SPECIES
 
 #### Status
 ACCEPTED

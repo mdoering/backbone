@@ -1,5 +1,4 @@
-Pezicula crataegicola (Durieu) J.W. Groves SPECIES
-=======
+# Pezicula crataegicola (Durieu) J.W. Groves SPECIES
 
 #### Status
 ACCEPTED

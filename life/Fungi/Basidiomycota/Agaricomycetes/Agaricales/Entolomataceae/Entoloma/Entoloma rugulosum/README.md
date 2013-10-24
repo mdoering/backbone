@@ -1,5 +1,4 @@
-Entoloma rugulosum Hesler SPECIES
-=======
+# Entoloma rugulosum Hesler SPECIES
 
 #### Status
 ACCEPTED

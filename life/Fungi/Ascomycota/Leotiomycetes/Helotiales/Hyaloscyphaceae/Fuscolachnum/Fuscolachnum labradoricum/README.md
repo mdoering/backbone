@@ -1,14 +1,13 @@
-Lachnum labradoricum Huhtinen, 1985 SPECIES
-=======
+# Fuscolachnum labradoricum (Huhtinen) J.H. Haines, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Naturaliste Can. 112(4): 503 (1985)
+Mem. N. Y. bot. Gdn 49: 324 (1989)
 
 #### Original name
 Lachnum labradoricum Huhtinen, 1985

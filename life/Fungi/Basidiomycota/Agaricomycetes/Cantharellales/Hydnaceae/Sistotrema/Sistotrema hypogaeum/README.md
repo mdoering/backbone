@@ -1,5 +1,4 @@
-Sistotrema hypogaeum Warcup & P.H.B. Talbot, 1962 SPECIES
-=======
+# Sistotrema hypogaeum Warcup & P.H.B. Talbot, 1962 SPECIES
 
 #### Status
 ACCEPTED

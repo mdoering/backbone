@@ -1,5 +1,4 @@
-Chaetosphaeria bramleyi C. Booth, 1958 SPECIES
-=======
+# Chaetosphaeria bramleyi C. Booth, 1958 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spiloma versicolor (Ach.) Ach. SPECIES
-=======
+# Spiloma versicolor (Ach.) Ach. SPECIES
 
 #### Status
 ACCEPTED

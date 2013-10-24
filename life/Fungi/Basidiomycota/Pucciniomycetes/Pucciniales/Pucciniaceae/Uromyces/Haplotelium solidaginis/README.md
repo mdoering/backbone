@@ -1,5 +1,4 @@
-Haplotelium solidaginis (Sommerf.) Syd. SPECIES
-=======
+# Haplotelium solidaginis (Sommerf.) Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Irpex lepidocarpus (P. Karst.) Sacc. & Trotter SPECIES
-=======
+# Irpex lepidocarpus (P. Karst.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

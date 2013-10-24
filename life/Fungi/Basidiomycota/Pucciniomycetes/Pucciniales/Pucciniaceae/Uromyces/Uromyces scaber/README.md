@@ -1,5 +1,4 @@
-Uromyces scaber Ellis & Everh. SPECIES
-=======
+# Uromyces scaber Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

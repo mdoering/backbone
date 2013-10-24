@@ -1,5 +1,4 @@
-Alkalispirillum mobile Rijkenberg et al., 2002 SPECIES
-=======
+# Alkalispirillum mobile Rijkenberg et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

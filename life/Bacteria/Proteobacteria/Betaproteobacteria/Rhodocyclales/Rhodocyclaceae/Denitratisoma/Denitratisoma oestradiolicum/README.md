@@ -1,5 +1,4 @@
-Denitratisoma oestradiolicum Fahrbach et al., 2006 SPECIES
-=======
+# Denitratisoma oestradiolicum Fahrbach et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

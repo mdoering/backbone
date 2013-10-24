@@ -1,5 +1,4 @@
-Phyllosticta scorzonerae Pass. SPECIES
-=======
+# Phyllosticta scorzonerae Pass. SPECIES
 
 #### Status
 ACCEPTED

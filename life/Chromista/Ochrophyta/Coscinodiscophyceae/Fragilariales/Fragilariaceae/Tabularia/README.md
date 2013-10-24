@@ -1,5 +1,4 @@
-Tabularia (Kützing) D.M.Williams & Round, 1986 GENUS
-=======
+# Tabularia (Kützing) D.M.Williams & Round, 1986 GENUS
 
 #### Status
 ACCEPTED

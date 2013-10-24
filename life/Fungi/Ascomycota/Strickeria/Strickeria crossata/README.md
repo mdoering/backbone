@@ -1,14 +1,13 @@
-Strickera crossata (Ellis & Everh.) Kuntze SPECIES
-=======
+# Strickeria crossata (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3(2): 534 (1898)
 
 #### Original name
 Teichospora crossata Ellis & Everh.

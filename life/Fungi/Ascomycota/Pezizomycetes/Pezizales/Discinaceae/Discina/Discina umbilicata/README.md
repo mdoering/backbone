@@ -1,5 +1,4 @@
-Discina umbilicata (P. Karst.) Fr. SPECIES
-=======
+# Discina umbilicata (P. Karst.) Fr. SPECIES
 
 #### Status
 ACCEPTED

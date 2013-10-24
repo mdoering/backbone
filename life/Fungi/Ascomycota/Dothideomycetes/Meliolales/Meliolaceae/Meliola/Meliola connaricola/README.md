@@ -1,5 +1,4 @@
-Meliola connaricola Hansf. SPECIES
-=======
+# Meliola connaricola Hansf. SPECIES
 
 #### Status
 ACCEPTED

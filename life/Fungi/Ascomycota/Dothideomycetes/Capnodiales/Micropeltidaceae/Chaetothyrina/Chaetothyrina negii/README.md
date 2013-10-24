@@ -1,5 +1,4 @@
-Chaetothyrina negii E. Müll. & S.K. Bose SPECIES
-=======
+# Chaetothyrina negii E. Müll. & S.K. Bose SPECIES
 
 #### Status
 ACCEPTED

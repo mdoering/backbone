@@ -1,5 +1,4 @@
-Diaporthe inflatula Syd. SPECIES
-=======
+# Diaporthe inflatula Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phallus rubrovolvatus (M. Zang, D.G. Ji & X.X. Liu) Kreisel SPECIES
-=======
+# Phallus rubrovolvatus (M. Zang, D.G. Ji & X.X. Liu) Kreisel SPECIES
 
 #### Status
 ACCEPTED

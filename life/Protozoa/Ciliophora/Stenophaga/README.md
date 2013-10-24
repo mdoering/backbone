@@ -1,5 +1,4 @@
-Stenophaga Jankowski, 1981 GENUS
-=======
+# Stenophaga Jankowski, 1981 GENUS
 
 #### Status
 ACCEPTED

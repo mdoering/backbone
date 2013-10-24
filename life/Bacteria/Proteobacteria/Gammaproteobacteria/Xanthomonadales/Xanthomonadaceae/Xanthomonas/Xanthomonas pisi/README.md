@@ -1,5 +1,4 @@
-Xanthomonas pisi (ex Goto & Okabe, 1958) Vauterin et al., 1995 SPECIES
-=======
+# Xanthomonas pisi (ex Goto & Okabe, 1958) Vauterin et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

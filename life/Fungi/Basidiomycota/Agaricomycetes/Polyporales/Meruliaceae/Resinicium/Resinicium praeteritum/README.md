@@ -1,5 +1,4 @@
-Resinicium praeteritum (H.S. Jacks. & Dearden) Ginns & M.N.L. Lefebvre SPECIES
-=======
+# Resinicium praeteritum (H.S. Jacks. & Dearden) Ginns & M.N.L. Lefebvre SPECIES
 
 #### Status
 ACCEPTED

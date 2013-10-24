@@ -1,5 +1,4 @@
-Coltricia barbata Ryvarden & de Meijer, 2002 SPECIES
-=======
+# Coltricia barbata Ryvarden & de Meijer, 2002 SPECIES
 
 #### Status
 ACCEPTED

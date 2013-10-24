@@ -1,5 +1,4 @@
-Boletus vitellinus Schwein. SPECIES
-=======
+# Boletus vitellinus Schwein. SPECIES
 
 #### Status
 ACCEPTED

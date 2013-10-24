@@ -1,8 +1,7 @@
-Sphaceloma cyclobalanopsis C.C. Chen SPECIES
-=======
+# Sphaceloma cyclobalanopsidis C.C. Chen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sphaceloma cyclobalanopsis C.C. Chen
+Sphaceloma cyclobalanopsidis C.C. Chen
 
 ### Remarks
 null

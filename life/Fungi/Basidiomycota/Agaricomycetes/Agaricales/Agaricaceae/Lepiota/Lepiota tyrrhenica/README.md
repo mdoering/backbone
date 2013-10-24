@@ -1,5 +1,4 @@
-Lepiota tyrrhenica Tiberi & Sperati SPECIES
-=======
+# Lepiota tyrrhenica Tiberi & Sperati SPECIES
 
 #### Status
 ACCEPTED

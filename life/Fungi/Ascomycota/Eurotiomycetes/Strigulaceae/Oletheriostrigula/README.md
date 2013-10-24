@@ -1,5 +1,4 @@
-Oletheriostrigula Huhndorf & R.C. Harris GENUS
-=======
+# Oletheriostrigula Huhndorf & R.C. Harris GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Sporotrichum exile Schulzer & Sacc., 1884 SPECIES
-=======
+# Chrysosporium tropicum J.W. Carmich., 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 23: 111 (1884)
+Can. J. Bot. 40: 1170 (1962)
 
 #### Original name
-Sporotrichum exile Schulzer & Sacc., 1884
+Chrysosporium tropicum J.W. Carmich., 1962
 
 ### Remarks
 null

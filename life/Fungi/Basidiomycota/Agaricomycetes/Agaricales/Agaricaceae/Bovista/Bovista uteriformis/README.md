@@ -1,5 +1,4 @@
-Bovista uteriformis Fr. SPECIES
-=======
+# Bovista uteriformis Fr. SPECIES
 
 #### Status
 ACCEPTED

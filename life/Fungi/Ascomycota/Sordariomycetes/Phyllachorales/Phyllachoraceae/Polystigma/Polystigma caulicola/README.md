@@ -1,5 +1,4 @@
-Polystigma caulicola E. Müll. & Poelt, 1985 SPECIES
-=======
+# Polystigma caulicola E. Müll. & Poelt, 1985 SPECIES
 
 #### Status
 ACCEPTED

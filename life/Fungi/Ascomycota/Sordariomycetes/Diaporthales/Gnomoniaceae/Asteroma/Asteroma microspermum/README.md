@@ -1,14 +1,13 @@
-Sacidium microspermum (Peck) Davis, 1915 SPECIES
-=======
+# Asteroma microspermum (Peck) B. Sutton, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Wis. Acad. Sci. Arts Lett. 18(1): 88 (1915)
+The Coelomycetes (Kew) 496 (1980)
 
 #### Original name
 Septoria microsperma Peck, 1884

@@ -1,5 +1,4 @@
-Phaeosphaerella dianellae F. Stevens SPECIES
-=======
+# Phaeosphaerella dianellae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

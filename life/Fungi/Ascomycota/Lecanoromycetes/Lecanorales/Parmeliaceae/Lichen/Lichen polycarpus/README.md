@@ -1,5 +1,4 @@
-Lichen polycarpus (Hoffm.) Ehrh. SPECIES
-=======
+# Lichen polycarpus (Hoffm.) Ehrh. SPECIES
 
 #### Status
 ACCEPTED

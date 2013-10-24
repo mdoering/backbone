@@ -1,5 +1,4 @@
-Laticavodinium G.J. Wilson & W.A.S. Sarjeant in W.A.S. Sarjeant, 1984 GENUS
-=======
+# Laticavodinium G.J. Wilson & W.A.S. Sarjeant in W.A.S. Sarjeant, 1984 GENUS
 
 #### Status
 ACCEPTED

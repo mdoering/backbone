@@ -1,5 +1,4 @@
-Uredo olyrae Henn. SPECIES
-=======
+# Uredo olyrae Henn. SPECIES
 
 #### Status
 ACCEPTED

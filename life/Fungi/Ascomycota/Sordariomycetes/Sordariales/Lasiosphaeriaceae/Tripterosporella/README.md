@@ -1,17 +1,16 @@
-Cleistobombardia J.H. Mirza GENUS
-=======
+# Tripterosporella Subram. & Lodha GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 60(3): 705 (1968)
+Curr. Sci. 37: 246 (1968)
 
 #### Original name
-Cleistobombardia J.H. Mirza
+Tripterosporella Subram. & Lodha
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Micropeltis lourdesli SPECIES
-=======
+# Micropeltis lourdesli SPECIES
 
 #### Status
 ACCEPTED

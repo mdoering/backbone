@@ -1,5 +1,4 @@
-Sclerotinia tuba (Batsch) Sacc. SPECIES
-=======
+# Sclerotinia tuba (Batsch) Sacc. SPECIES
 
 #### Status
 ACCEPTED

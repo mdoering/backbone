@@ -1,5 +1,4 @@
-Phaeosaccardinula guajavae Bat. & A.F. Vital SPECIES
-=======
+# Phaeosaccardinula guajavae Bat. & A.F. Vital SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Rhytisma shiraianum Hemmi & Kurata SPECIES
-=======
+# Rhytisma shiraiana Hemmi & Kurata SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Forsch. Geb. Pflanzen. 1: 8 (1931)
 
 #### Original name
-Rhytisma shiraianum Hemmi & Kurata
+Rhytisma shiraiana Hemmi & Kurata
 
 ### Remarks
 null

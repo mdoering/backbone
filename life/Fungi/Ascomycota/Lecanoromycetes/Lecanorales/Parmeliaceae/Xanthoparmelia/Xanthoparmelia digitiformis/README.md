@@ -1,17 +1,16 @@
-Parmelia stenophylla f. stenophylla FORM
-=======
+# Xanthoparmelia digitiformis (Elix & P. M. Armstr.) Filson SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Brunonia 7(1): 205 (1984)
 
 #### Original name
-Parmelia stenophylla f. stenophylla
+Parmelia digitiformis Elix & P. M. Armstr.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Sporobolomyces pararoseus H.C. Olson & B.W. Hammer SPECIES
-=======
+# Sporobolomyces pararoseus H.C. Olson & B.W. Hammer SPECIES
 
 #### Status
 ACCEPTED

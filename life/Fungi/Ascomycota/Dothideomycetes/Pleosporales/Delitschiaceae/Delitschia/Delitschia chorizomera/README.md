@@ -1,5 +1,4 @@
-Delitschia chorizomera Luck-Allen & Cain SPECIES
-=======
+# Delitschia chorizomera Luck-Allen & Cain SPECIES
 
 #### Status
 ACCEPTED

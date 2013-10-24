@@ -1,5 +1,4 @@
-Lepraria sipmaniana (Kümmerl. & Leuckert) Kukwa SPECIES
-=======
+# Lepraria sipmaniana (Kümmerl. & Leuckert) Kukwa SPECIES
 
 #### Status
 ACCEPTED

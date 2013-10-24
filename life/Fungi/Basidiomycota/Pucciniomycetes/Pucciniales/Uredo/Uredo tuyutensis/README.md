@@ -1,5 +1,4 @@
-Uredo tuyutensis Speg. SPECIES
-=======
+# Uredo tuyutensis Speg. SPECIES
 
 #### Status
 ACCEPTED

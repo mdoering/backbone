@@ -1,5 +1,4 @@
-Paragonospora typica Lang, 1954 SPECIES
-=======
+# Paragonospora typica Lang, 1954 SPECIES
 
 #### Status
 ACCEPTED

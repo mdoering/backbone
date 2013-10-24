@@ -1,5 +1,4 @@
-Amphisphaeria pusiola P. Karst. SPECIES
-=======
+# Amphisphaeria pusiola P. Karst. SPECIES
 
 #### Status
 ACCEPTED

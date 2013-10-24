@@ -1,5 +1,4 @@
-Halopteris obovata (J.D. Hooker & Harvey) Sauvageau SPECIES
-=======
+# Halopteris obovata (J.D. Hooker & Harvey) Sauvageau SPECIES
 
 #### Status
 ACCEPTED

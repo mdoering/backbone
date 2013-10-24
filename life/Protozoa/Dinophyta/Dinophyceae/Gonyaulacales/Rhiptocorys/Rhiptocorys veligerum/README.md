@@ -1,5 +1,4 @@
-Rhiptocorys veligerum (Deflandre, 1937) Lejeune-Carpentier & Sarjeant SPECIES
-=======
+# Rhiptocorys veligerum (Deflandre, 1937) Lejeune-Carpentier & Sarjeant SPECIES
 
 #### Status
 ACCEPTED

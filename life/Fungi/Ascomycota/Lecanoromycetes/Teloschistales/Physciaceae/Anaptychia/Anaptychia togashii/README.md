@@ -1,5 +1,4 @@
-Anaptychia togashii Kurok. SPECIES
-=======
+# Anaptychia togashii Kurok. SPECIES
 
 #### Status
 ACCEPTED

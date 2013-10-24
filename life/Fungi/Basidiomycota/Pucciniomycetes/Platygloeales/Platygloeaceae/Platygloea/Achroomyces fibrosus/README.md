@@ -1,5 +1,4 @@
-Achroomyces fibrosus (Pat.) Wojewoda SPECIES
-=======
+# Achroomyces fibrosus (Pat.) Wojewoda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria anomocarpa Müll. Arg. SPECIES
-=======
+# Pertusaria anomocarpa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

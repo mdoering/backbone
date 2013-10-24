@@ -1,5 +1,4 @@
-Cercosporella alafiae Hansf. SPECIES
-=======
+# Cercosporella alafiae Hansf. SPECIES
 
 #### Status
 ACCEPTED

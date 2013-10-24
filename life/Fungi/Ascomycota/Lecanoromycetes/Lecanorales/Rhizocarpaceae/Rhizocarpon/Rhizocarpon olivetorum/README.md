@@ -1,5 +1,4 @@
-Rhizocarpon olivetorum Räsänen SPECIES
-=======
+# Rhizocarpon olivetorum Räsänen SPECIES
 
 #### Status
 ACCEPTED

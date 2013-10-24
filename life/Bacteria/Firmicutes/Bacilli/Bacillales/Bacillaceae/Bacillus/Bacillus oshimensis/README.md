@@ -1,5 +1,4 @@
-Bacillus oshimensis Yumoto et al., 2005 SPECIES
-=======
+# Bacillus oshimensis Yumoto et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

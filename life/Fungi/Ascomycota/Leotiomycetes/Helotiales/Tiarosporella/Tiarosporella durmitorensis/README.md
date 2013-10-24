@@ -1,5 +1,4 @@
-Tiarosporella durmitorensis Karadic SPECIES
-=======
+# Tiarosporella durmitorensis Karadic SPECIES
 
 #### Status
 ACCEPTED

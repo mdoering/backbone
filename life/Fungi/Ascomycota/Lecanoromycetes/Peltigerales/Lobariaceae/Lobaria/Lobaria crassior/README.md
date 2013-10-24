@@ -1,5 +1,4 @@
-Lobaria crassior Vain. SPECIES
-=======
+# Lobaria crassior Vain. SPECIES
 
 #### Status
 ACCEPTED

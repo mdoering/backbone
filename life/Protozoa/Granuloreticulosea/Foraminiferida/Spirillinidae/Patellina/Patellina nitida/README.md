@@ -1,5 +1,4 @@
-Patellina nitida Terquem, 1878 SPECIES
-=======
+# Patellina nitida Terquem, 1878 SPECIES
 
 #### Status
 ACCEPTED

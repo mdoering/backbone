@@ -1,5 +1,4 @@
-Parurosoma Gelei, 1954 GENUS
-=======
+# Parurosoma Gelei, 1954 GENUS
 
 #### Status
 ACCEPTED

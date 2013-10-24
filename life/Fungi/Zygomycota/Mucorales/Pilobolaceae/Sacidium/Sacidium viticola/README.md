@@ -1,8 +1,7 @@
-Sacidium viticolum Cooke SPECIES
-=======
+# Sacidium viticola Cooke SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sacidium viticolum Cooke
+Sacidium viticola Cooke
 
 ### Remarks
 null

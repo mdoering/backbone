@@ -1,5 +1,4 @@
-Porina guianensis f. guianensis FORM
-=======
+# Porina guianensis Lücking & Vezda SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Willdenowia 28(1/2): 205 (1998)
 
 #### Original name
-null
+Porina guianensis Lücking & Vezda
 
 ### Remarks
 null

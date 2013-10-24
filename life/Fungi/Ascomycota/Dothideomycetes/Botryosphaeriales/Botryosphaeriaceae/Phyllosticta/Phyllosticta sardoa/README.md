@@ -1,5 +1,4 @@
-Phyllosticta sardoa Pass. SPECIES
-=======
+# Phyllosticta sardoa Pass. SPECIES
 
 #### Status
 ACCEPTED

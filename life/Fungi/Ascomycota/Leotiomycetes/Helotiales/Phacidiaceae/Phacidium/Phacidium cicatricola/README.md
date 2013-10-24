@@ -1,5 +1,4 @@
-Phacidium cicatricola Fuckel SPECIES
-=======
+# Phacidium cicatricola Fuckel SPECIES
 
 #### Status
 ACCEPTED

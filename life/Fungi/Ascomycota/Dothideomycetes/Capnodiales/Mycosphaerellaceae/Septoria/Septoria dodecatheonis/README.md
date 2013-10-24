@@ -1,5 +1,4 @@
-Septoria dodecatheonis Davis SPECIES
-=======
+# Septoria dodecatheonis Davis SPECIES
 
 #### Status
 ACCEPTED

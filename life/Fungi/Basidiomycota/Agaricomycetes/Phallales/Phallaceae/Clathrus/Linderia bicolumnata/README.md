@@ -1,5 +1,4 @@
-Linderia bicolumnata (Kusano) G. Cunn. SPECIES
-=======
+# Linderia bicolumnata (Kusano) G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

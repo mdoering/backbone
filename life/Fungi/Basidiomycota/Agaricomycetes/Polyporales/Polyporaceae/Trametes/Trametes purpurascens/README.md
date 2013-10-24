@@ -1,5 +1,4 @@
-Trametes purpurascens Berk. & Broome SPECIES
-=======
+# Trametes purpurascens Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

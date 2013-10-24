@@ -1,5 +1,4 @@
-Pyrenodesmia conglobata (Hue) C.W. Dodge SPECIES
-=======
+# Pyrenodesmia conglobata (Hue) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

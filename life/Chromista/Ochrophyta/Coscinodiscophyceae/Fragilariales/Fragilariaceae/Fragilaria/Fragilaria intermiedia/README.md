@@ -1,5 +1,4 @@
-Fragilaria intermiedia var. fallax (Grunow) A.Cleve VARIETY
-=======
+# Fragilaria intermiedia SPECIES
 
 #### Status
 ACCEPTED

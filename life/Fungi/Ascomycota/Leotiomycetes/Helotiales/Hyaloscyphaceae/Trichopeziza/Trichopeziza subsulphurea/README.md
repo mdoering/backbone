@@ -1,5 +1,4 @@
-Trichopeziza subsulphurea (Svrcek) Baral SPECIES
-=======
+# Trichopeziza subsulphurea (Svrcek) Baral SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Maravalia albescens (Syd. & P. Syd.) Syd., 1924 SPECIES
-=======
+# Chaconia alutacea Juel, 1897 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bihangtill K. Svenska Vetensk. -Akad. Handl. , Afd. 3 23(no. 10): 12 (1897)
 
 #### Original name
-Uromyces albescens Syd. & P. Syd., 1916
+Chaconia alutacea Juel, 1897
 
 ### Remarks
 null

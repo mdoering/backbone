@@ -1,5 +1,4 @@
-Gyromitra martinii Donadini & Astier SPECIES
-=======
+# Gyromitra martinii Donadini & Astier SPECIES
 
 #### Status
 ACCEPTED

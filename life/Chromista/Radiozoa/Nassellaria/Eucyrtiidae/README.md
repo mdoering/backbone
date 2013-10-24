@@ -1,5 +1,4 @@
-Eucyrtiidae FAMILY
-=======
+# Eucyrtiidae FAMILY
 
 #### Status
 ACCEPTED

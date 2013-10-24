@@ -1,5 +1,4 @@
-Spondylocladium ananassae M.E.A. Costa & Sousa da Câmara SPECIES
-=======
+# Spondylocladium ananassae M.E.A. Costa & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Thyriostroma pteridis (Ehrenb.) Died., 1913 SPECIES
-=======
+# Leptostroma pteridis Ehrenb., 1818 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sylv. mycol. berol. (Berlin) 27 (1818)
 
 #### Original name
 Leptostroma pteridis Ehrenb., 1818

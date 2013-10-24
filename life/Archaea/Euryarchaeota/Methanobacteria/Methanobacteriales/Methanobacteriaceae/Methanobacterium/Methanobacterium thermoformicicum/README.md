@@ -1,5 +1,4 @@
-Methanobacterium thermoformicicum Zhilina & Ilarionov, 1986 SPECIES
-=======
+# Methanobacterium thermoformicicum Zhilina & Ilarionov, 1986 SPECIES
 
 #### Status
 ACCEPTED

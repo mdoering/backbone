@@ -1,5 +1,4 @@
-Cercospora cryptolepidis Pandotra & Ganguly SPECIES
-=======
+# Cercospora cryptolepidis Pandotra & Ganguly SPECIES
 
 #### Status
 ACCEPTED

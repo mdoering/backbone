@@ -1,14 +1,13 @@
-Gigaspora aurigloba I.R. Hall, 1977 SPECIES
-=======
+# Scutellospora aurigloba (I.R. Hall) C. Walker & F.E. Sanders, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 68(3): 351 (1977)
+Mycotaxon 27: 180 (1986)
 
 #### Original name
 Gigaspora aurigloba I.R. Hall, 1977

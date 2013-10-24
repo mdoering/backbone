@@ -1,5 +1,4 @@
-Patriciomyces valentinianus D. Hawksw., 2001 SPECIES
-=======
+# Patriciomyces valentinianus D. Hawksw., 2001 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polystictus tristis (Pers.) Cooke SPECIES
-=======
+# Polystictus tristis (Pers.) Cooke SPECIES
 
 #### Status
 ACCEPTED

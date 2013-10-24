@@ -1,5 +1,4 @@
-Pterygium centrifugum f. centrifugum FORM
-=======
+# Pterygium centrifugum Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bull. Soc. bot. Fr. 1: 328 (1854)
 
 #### Original name
-Pterygium centrifugum f. centrifugum
+Pterygium centrifugum Nyl.
 
 ### Remarks
 null

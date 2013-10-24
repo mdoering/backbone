@@ -1,5 +1,4 @@
-Oropogon striatulus Essl. SPECIES
-=======
+# Oropogon striatulus Essl. SPECIES
 
 #### Status
 ACCEPTED

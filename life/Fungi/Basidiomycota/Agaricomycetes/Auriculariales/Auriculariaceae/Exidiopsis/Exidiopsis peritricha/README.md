@@ -1,5 +1,4 @@
-Exidiopsis peritricha (Bourdot & Galzin) Sacc. & Trotter SPECIES
-=======
+# Exidiopsis peritricha (Bourdot & Galzin) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

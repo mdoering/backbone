@@ -1,5 +1,4 @@
-Microdiplodia spiraeae Died. SPECIES
-=======
+# Microdiplodia spiraeae Died. SPECIES
 
 #### Status
 ACCEPTED

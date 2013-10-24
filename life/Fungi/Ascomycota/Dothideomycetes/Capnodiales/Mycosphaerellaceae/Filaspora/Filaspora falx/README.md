@@ -1,5 +1,4 @@
-Filaspora falx (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Filaspora falx (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

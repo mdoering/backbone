@@ -1,5 +1,4 @@
-Russula infundibuliformis anon. SPECIES
-=======
+# Russula infundibuliformis anon. SPECIES
 
 #### Status
 ACCEPTED

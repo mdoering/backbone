@@ -1,5 +1,4 @@
-Pertusaria sulphurea A. Massal. SPECIES
-=======
+# Pertusaria sulphurea A. Massal. SPECIES
 
 #### Status
 ACCEPTED

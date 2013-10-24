@@ -1,14 +1,13 @@
-Coprinus aureogranulatus Uljé & Aptroot, 1998 SPECIES
-=======
+# Coprinellus aureogranulatus (Uljé & Aptroot) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Uljé, Aptroot & Iperen, Persoonia 16(4): 549 (1998)
+in Redhead, Vilgalys, Moncalvo, Johnson & Hopple, Taxon 50(1): 232 (2001)
 
 #### Original name
 Coprinus aureogranulatus Uljé & Aptroot, 1998

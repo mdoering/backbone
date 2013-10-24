@@ -1,5 +1,4 @@
-Dentithorax GENUS
-=======
+# Dentithorax GENUS
 
 #### Status
 ACCEPTED

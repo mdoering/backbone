@@ -1,5 +1,4 @@
-Puccinia unciniarum Dietel & Neger, 1896 SPECIES
-=======
+# Puccinia unciniarum Dietel & Neger, 1896 SPECIES
 
 #### Status
 ACCEPTED

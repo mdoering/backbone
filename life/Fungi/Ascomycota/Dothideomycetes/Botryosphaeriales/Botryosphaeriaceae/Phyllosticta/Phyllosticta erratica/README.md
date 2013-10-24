@@ -1,5 +1,4 @@
-Phyllosticta erratica Ellis & Everh. SPECIES
-=======
+# Phyllosticta erratica Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

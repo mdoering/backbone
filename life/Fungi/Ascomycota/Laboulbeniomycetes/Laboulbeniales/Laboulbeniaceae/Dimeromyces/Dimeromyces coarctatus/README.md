@@ -1,5 +1,4 @@
-Dimeromyces coarctatus Thaxt. SPECIES
-=======
+# Dimeromyces coarctatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

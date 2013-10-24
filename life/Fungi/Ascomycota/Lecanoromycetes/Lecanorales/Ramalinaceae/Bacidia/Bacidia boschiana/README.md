@@ -1,5 +1,4 @@
-Bacidia boschiana Zahlbr. SPECIES
-=======
+# Bacidia boschiana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

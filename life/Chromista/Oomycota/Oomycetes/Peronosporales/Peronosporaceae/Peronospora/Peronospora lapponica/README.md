@@ -1,5 +1,4 @@
-Peronospora lapponica Lagerh. SPECIES
-=======
+# Peronospora lapponica Lagerh. SPECIES
 
 #### Status
 ACCEPTED

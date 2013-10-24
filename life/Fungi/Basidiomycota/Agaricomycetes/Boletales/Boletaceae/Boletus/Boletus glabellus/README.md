@@ -1,5 +1,4 @@
-Boletus glabellus Peck SPECIES
-=======
+# Boletus glabellus Peck SPECIES
 
 #### Status
 ACCEPTED

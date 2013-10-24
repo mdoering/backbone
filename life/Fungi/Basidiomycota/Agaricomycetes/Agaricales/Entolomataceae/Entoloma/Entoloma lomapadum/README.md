@@ -1,5 +1,4 @@
-Entoloma lomapadum Manim., A.V. Joseph & Leelav. SPECIES
-=======
+# Entoloma lomapadum Manim., A.V. Joseph & Leelav. SPECIES
 
 #### Status
 ACCEPTED

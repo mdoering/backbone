@@ -1,5 +1,4 @@
-Gymnopus discipes (Clem.) Murrill SPECIES
-=======
+# Gymnopus discipes (Clem.) Murrill SPECIES
 
 #### Status
 ACCEPTED

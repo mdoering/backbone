@@ -1,5 +1,4 @@
-Sphaeria macrozamiae Berk. & Broome SPECIES
-=======
+# Sphaeria macrozamiae Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

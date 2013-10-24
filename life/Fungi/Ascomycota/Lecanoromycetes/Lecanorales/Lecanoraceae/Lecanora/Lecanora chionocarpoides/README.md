@@ -1,5 +1,4 @@
-Lecanora chionocarpoides Lumbsch SPECIES
-=======
+# Lecanora chionocarpoides Lumbsch SPECIES
 
 #### Status
 ACCEPTED

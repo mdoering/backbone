@@ -1,5 +1,4 @@
-Phallus proxima Berk. & Broome SPECIES
-=======
+# Phallus proxima Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

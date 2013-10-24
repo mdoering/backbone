@@ -1,5 +1,4 @@
-Marasmius semisparsus Berk. SPECIES
-=======
+# Marasmius semisparsus Berk. SPECIES
 
 #### Status
 ACCEPTED

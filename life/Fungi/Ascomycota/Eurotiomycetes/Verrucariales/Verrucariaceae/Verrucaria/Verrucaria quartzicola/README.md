@@ -1,5 +1,4 @@
-Verrucaria quartzicola (Müll. Arg.) Stizenb. SPECIES
-=======
+# Verrucaria quartzicola (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

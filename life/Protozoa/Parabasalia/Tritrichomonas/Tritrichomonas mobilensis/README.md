@@ -1,5 +1,4 @@
-Tritrichomonas mobilensis D.E. Culberson, F.F. Pindak, W.A. Gardner & B.M. Honigberg SPECIES
-=======
+# Tritrichomonas mobilensis D.E. Culberson, F.F. Pindak, W.A. Gardner & B.M. Honigberg SPECIES
 
 #### Status
 ACCEPTED

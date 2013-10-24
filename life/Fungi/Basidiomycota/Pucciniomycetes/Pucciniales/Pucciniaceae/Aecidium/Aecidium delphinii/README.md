@@ -1,5 +1,4 @@
-Aecidium delphinii Barthol. SPECIES
-=======
+# Aecidium delphinii Barthol. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora armoraciae Sacc., 1876 SPECIES
-=======
+# Cercospora armoraciae Sacc., 1876 SPECIES
 
 #### Status
 ACCEPTED

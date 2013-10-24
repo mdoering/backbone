@@ -1,5 +1,4 @@
-Hyalotiella Papendorf GENUS
-=======
+# Hyalotiella Papendorf GENUS
 
 #### Status
 ACCEPTED

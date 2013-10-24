@@ -1,5 +1,4 @@
-Alnicola fellea (J. Favre) Courtec. SPECIES
-=======
+# Alnicola fellea (J. Favre) Courtec. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helvella confusa Harmaja SPECIES
-=======
+# Helvella confusa Harmaja SPECIES
 
 #### Status
 ACCEPTED

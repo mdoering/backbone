@@ -1,5 +1,4 @@
-Hypoxylon rubellum Penz. & Sacc., 1897 SPECIES
-=======
+# Hypoxylon rubellum Penz. & Sacc., 1897 SPECIES
 
 #### Status
 ACCEPTED

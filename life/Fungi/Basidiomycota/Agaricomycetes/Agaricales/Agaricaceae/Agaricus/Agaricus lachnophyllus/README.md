@@ -1,5 +1,4 @@
-Agaricus lachnophyllus Berk. SPECIES
-=======
+# Agaricus lachnophyllus Berk. SPECIES
 
 #### Status
 ACCEPTED

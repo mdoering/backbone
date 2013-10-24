@@ -1,5 +1,4 @@
-Verrucaria ochracea Arnold SPECIES
-=======
+# Verrucaria ochracea Arnold SPECIES
 
 #### Status
 ACCEPTED

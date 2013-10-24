@@ -1,5 +1,4 @@
-Coniothyrium ferrarisianum Biga, Cif. & Bestagno, 1959 SPECIES
-=======
+# Coniothyrium ferrarisianum Biga, Cif. & Bestagno, 1959 SPECIES
 
 #### Status
 ACCEPTED

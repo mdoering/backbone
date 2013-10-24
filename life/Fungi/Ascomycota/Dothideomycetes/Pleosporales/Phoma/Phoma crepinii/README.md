@@ -1,8 +1,7 @@
-Phoma crepini Speg. & Roum. SPECIES
-=======
+# Phoma crepinii Speg. & Roum. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phoma crepini Speg. & Roum.
+Phoma crepinii Speg. & Roum.
 
 ### Remarks
 null

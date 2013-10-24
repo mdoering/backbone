@@ -1,5 +1,4 @@
-Sterigmatocystis ochroleuca Speg. SPECIES
-=======
+# Sterigmatocystis ochroleuca Speg. SPECIES
 
 #### Status
 ACCEPTED

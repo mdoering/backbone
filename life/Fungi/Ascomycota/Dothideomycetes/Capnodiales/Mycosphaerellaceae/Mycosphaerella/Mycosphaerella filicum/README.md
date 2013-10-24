@@ -1,14 +1,13 @@
-Sphaerella filicum (Desm.) Auersw., 1869 SPECIES
-=======
+# Mycosphaerella filicum (Desm.) Starbäck, 1889 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Myc. Europ. Pyren. 20 (1869)
+Bih. K. svenska VetenskAkad. Handl. 15(2): 9 (1889)
 
 #### Original name
 Sphaeria filicum Desm., 1840

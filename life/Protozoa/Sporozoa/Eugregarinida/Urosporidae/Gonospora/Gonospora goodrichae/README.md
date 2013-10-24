@@ -1,8 +1,7 @@
-Gonospora minchinii Goodrich & Goodrich, 1920 SPECIES
-=======
+# Gonospora goodrichae Levine, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

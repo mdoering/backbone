@@ -1,14 +1,13 @@
-Monodictys pelagica (T. Johnson) E.B.G. Jones, 1963 SPECIES
-=======
+# Piricauda pelagica T. Johnson, 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 46: 138 (1963)
+J. Elisha Mitchell scient. Soc. 74: 42 (1958)
 
 #### Original name
 Piricauda pelagica T. Johnson, 1958

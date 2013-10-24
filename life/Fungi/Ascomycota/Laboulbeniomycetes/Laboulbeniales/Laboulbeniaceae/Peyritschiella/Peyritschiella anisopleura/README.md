@@ -1,5 +1,4 @@
-Peyritschiella anisopleura Speg. SPECIES
-=======
+# Peyritschiella anisopleura Speg. SPECIES
 
 #### Status
 ACCEPTED

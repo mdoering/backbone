@@ -1,5 +1,4 @@
-Infundibulicybe altaica (Singer) Harmaja SPECIES
-=======
+# Infundibulicybe altaica (Singer) Harmaja SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uvigerina effera Saidova, 1975 SPECIES
-=======
+# Uvigerina effera Saidova, 1975 SPECIES
 
 #### Status
 ACCEPTED

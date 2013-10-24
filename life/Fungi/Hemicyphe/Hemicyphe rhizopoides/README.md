@@ -1,5 +1,4 @@
-Hemicyphe rhizopoides Preuss SPECIES
-=======
+# Hemicyphe rhizopoides Preuss SPECIES
 
 #### Status
 ACCEPTED

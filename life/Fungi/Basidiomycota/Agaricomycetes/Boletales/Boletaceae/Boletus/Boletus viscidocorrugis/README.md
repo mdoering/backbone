@@ -1,5 +1,4 @@
-Boletus viscidocorrugis Both SPECIES
-=======
+# Boletus viscidocorrugis Both SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria sphaerelloides Ellis & Kellerm. SPECIES
-=======
+# Septoria sphaerelloides Ellis & Kellerm. SPECIES
 
 #### Status
 ACCEPTED

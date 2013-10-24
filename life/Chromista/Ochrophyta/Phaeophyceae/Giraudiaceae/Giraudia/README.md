@@ -1,5 +1,4 @@
-Giraudia A. Derbès & A. Solier in L. Castagne, 1851 GENUS
-=======
+# Giraudia A. Derbès & A. Solier in L. Castagne, 1851 GENUS
 
 #### Status
 ACCEPTED

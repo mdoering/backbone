@@ -1,5 +1,4 @@
-Diplodia chenopodii Czerepan. SPECIES
-=======
+# Diplodia chenopodii Czerepan. SPECIES
 
 #### Status
 ACCEPTED

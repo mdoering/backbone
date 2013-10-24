@@ -1,8 +1,7 @@
-Paraireana He Chengquan, 1984 GENUS
-=======
+# Carpatella A.S. Grigorovitch, 1970 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

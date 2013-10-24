@@ -1,5 +1,4 @@
-Fistulinella guzmaniana Singer, J. García & L.D. Gómez, 1991 SPECIES
-=======
+# Fistulinella guzmaniana Singer, J. García & L.D. Gómez, 1991 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptodiaporthe magnispora (Ellis & Everh.) Wehm. SPECIES
-=======
+# Cryptodiaporthe magnispora (Ellis & Everh.) Wehm. SPECIES
 
 #### Status
 ACCEPTED

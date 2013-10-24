@@ -1,5 +1,4 @@
-Petalomonas simplex Christen SPECIES
-=======
+# Petalomonas simplex Christen SPECIES
 
 #### Status
 ACCEPTED

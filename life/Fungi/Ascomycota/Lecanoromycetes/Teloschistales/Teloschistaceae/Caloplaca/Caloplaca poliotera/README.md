@@ -1,5 +1,4 @@
-Caloplaca poliotera (Nyl.) J. Steiner SPECIES
-=======
+# Caloplaca poliotera (Nyl.) J. Steiner SPECIES
 
 #### Status
 ACCEPTED

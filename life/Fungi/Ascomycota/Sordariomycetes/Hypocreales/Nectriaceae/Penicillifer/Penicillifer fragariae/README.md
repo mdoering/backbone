@@ -1,5 +1,4 @@
-Penicillifer fragariae Ts. Watan. SPECIES
-=======
+# Penicillifer fragariae Ts. Watan. SPECIES
 
 #### Status
 ACCEPTED

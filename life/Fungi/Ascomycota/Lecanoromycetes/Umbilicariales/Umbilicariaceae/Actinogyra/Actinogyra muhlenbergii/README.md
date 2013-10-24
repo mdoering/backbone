@@ -1,5 +1,4 @@
-Actinogyra muhlenbergii (Ach.) Schol. SPECIES
-=======
+# Actinogyra muhlenbergii (Ach.) Schol. SPECIES
 
 #### Status
 ACCEPTED

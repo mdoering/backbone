@@ -1,17 +1,16 @@
-Hymenochaete bonaerensis Speg., 1881 SPECIES
-=======
+# Hymenochaete corrugata (Fr.) Lév., 1846 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls Sci. Nat. , Bot. , sér. 3 5: 152 (1846)
 
 #### Original name
-null
+Thelephora corrugata Lév., 1846
 
 ### Remarks
 null

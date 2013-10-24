@@ -1,5 +1,4 @@
-Badhamia irregularis Cooke & Ellis SPECIES
-=======
+# Badhamia irregularis Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Agaricus menthaecola Lasch SPECIES
-=======
+# Agaricus menthicola Lasch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Agaricus menthaecola Lasch
+Agaricus menthicola Lasch
 
 ### Remarks
 null

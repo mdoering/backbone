@@ -1,5 +1,4 @@
-Rhinotrichum hemileiae Chevaug. SPECIES
-=======
+# Rhinotrichum hemileiae Chevaug. SPECIES
 
 #### Status
 ACCEPTED

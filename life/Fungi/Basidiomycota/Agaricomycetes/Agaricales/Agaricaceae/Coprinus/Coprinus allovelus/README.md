@@ -1,5 +1,4 @@
-Coprinus allovelus Uljé SPECIES
-=======
+# Coprinus allovelus Uljé SPECIES
 
 #### Status
 ACCEPTED

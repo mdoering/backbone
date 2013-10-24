@@ -1,5 +1,4 @@
-Cortinarius diabolicoides Moënne-Locc. & Reumaux, 1992 SPECIES
-=======
+# Cortinarius diabolicoides Moënne-Locc. & Reumaux, 1992 SPECIES
 
 #### Status
 ACCEPTED

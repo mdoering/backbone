@@ -1,5 +1,4 @@
-Frontonia atra (Ehrenberg, 1834) Bütschli, 1889 SPECIES
-=======
+# Frontonia atra (Ehrenberg, 1834) Bütschli, 1889 SPECIES
 
 #### Status
 ACCEPTED

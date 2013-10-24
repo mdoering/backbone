@@ -1,5 +1,4 @@
-Omphalia nitrosa Kauffman SPECIES
-=======
+# Omphalia nitrosa Kauffman SPECIES
 
 #### Status
 ACCEPTED

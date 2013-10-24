@@ -1,5 +1,4 @@
-Clitopilopsis GENUS
-=======
+# Clitopilopsis GENUS
 
 #### Status
 ACCEPTED

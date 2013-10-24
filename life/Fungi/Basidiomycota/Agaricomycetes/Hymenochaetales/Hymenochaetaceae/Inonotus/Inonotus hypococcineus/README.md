@@ -1,14 +1,13 @@
-Inonotus hypococcinus (Berk.) P. Karst. SPECIES
-=======
+# Inonotus hypococcineus (Berk.) P. Karst. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Meddn Soc. Fauna Flora fenn. 5: 39 (1879)
 
 #### Original name
 Polyporus hypococcineus Berk.

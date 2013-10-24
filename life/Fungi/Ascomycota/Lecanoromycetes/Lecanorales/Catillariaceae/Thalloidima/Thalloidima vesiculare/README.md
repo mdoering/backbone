@@ -1,5 +1,4 @@
-Thalloidima vesiculare ß vesiculare (Hoffm.) A. Massal. SPECIES
-=======
+# Thalloidima vesiculare ß vesiculare (Hoffm.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

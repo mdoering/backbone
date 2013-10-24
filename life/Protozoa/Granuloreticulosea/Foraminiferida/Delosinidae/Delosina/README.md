@@ -1,5 +1,4 @@
-Delosina Wiesner, 1931 GENUS
-=======
+# Delosina Wiesner, 1931 GENUS
 
 #### Status
 ACCEPTED

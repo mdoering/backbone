@@ -1,5 +1,4 @@
-Tripospermum acaciae G.P. Agarwal & N.D. Sharma SPECIES
-=======
+# Tripospermum acaciae G.P. Agarwal & N.D. Sharma SPECIES
 
 #### Status
 ACCEPTED

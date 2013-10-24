@@ -1,5 +1,4 @@
-Psilocybe mixaeensis R. Heim SPECIES
-=======
+# Psilocybe mixaeensis R. Heim SPECIES
 
 #### Status
 ACCEPTED

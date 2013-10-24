@@ -1,14 +1,13 @@
-Hyaloscypha glyceriae Velen., 1934 SPECIES
-=======
+# Discocistella glyceriae (Velen.) Svrcek, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monogr. Discom. Bohem. (Prague) 279 (1934)
+Ceská Mykol. 39(4): 208 (1985)
 
 #### Original name
 Hyaloscypha glyceriae Velen., 1934

@@ -1,5 +1,4 @@
-Puccinia echeveriae Linder SPECIES
-=======
+# Puccinia echeveriae Linder SPECIES
 
 #### Status
 ACCEPTED

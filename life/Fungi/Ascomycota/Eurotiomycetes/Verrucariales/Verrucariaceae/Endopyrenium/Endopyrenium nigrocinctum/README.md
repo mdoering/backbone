@@ -1,5 +1,4 @@
-Endopyrenium nigrocinctum B. de Lesd. SPECIES
-=======
+# Endopyrenium nigrocinctum B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phlegmacium olivascens (Batsch) M.M. Moser SPECIES
-=======
+# Phlegmacium olivascens (Batsch) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

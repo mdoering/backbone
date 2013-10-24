@@ -1,5 +1,4 @@
-Strickeria populi Tracy & Earle SPECIES
-=======
+# Strickeria populi Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

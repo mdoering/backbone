@@ -1,5 +1,4 @@
-Cucurbitaria viticola (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Cucurbitaria viticola (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

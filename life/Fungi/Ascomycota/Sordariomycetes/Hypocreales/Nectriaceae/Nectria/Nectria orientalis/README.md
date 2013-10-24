@@ -1,5 +1,4 @@
-Nectria orientalis Zilling {?} SPECIES
-=======
+# Nectria orientalis Zilling {?} SPECIES
 
 #### Status
 ACCEPTED

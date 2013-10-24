@@ -1,5 +1,4 @@
-Mycobacterium neworleansense Schinsky et al., 2004 SPECIES
-=======
+# Mycobacterium neworleansense Schinsky et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenopeziza holmiorum Nograsek & Matzer SPECIES
-=======
+# Pyrenopeziza holmiorum Nograsek & Matzer SPECIES
 
 #### Status
 ACCEPTED

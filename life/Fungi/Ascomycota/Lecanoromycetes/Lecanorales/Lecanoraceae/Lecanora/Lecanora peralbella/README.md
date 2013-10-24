@@ -1,5 +1,4 @@
-Lecanora peralbella Nyl. SPECIES
-=======
+# Lecanora peralbella Nyl. SPECIES
 
 #### Status
 ACCEPTED

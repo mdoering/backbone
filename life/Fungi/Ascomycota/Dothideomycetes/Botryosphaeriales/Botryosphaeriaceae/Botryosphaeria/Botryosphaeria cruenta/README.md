@@ -1,5 +1,4 @@
-Botryosphaeria cruenta Petr. SPECIES
-=======
+# Botryosphaeria cruenta Petr. SPECIES
 
 #### Status
 ACCEPTED

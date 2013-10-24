@@ -1,5 +1,4 @@
-Phyllosticta lacobaea Sacc. SPECIES
-=======
+# Phyllosticta lacobaea Sacc. SPECIES
 
 #### Status
 ACCEPTED

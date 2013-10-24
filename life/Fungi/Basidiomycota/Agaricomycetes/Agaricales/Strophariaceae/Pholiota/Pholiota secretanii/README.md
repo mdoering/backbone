@@ -1,8 +1,7 @@
-Pholiota secretani Fr. SPECIES
-=======
+# Pholiota secretanii Fr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pholiota secretani Fr.
+Pholiota secretanii Fr.
 
 ### Remarks
 null

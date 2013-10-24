@@ -1,5 +1,4 @@
-Guignardia laricina (Sawada) W. Yamam. & Kaz. Itô, 1961 SPECIES
-=======
+# Guignardia laricina (Sawada) W. Yamam. & Kaz. Itô, 1961 SPECIES
 
 #### Status
 ACCEPTED

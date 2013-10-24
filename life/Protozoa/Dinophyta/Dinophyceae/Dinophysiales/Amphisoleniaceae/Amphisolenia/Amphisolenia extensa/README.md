@@ -1,5 +1,4 @@
-Amphisolenia extensa Kofoid SPECIES
-=======
+# Amphisolenia extensa Kofoid SPECIES
 
 #### Status
 ACCEPTED

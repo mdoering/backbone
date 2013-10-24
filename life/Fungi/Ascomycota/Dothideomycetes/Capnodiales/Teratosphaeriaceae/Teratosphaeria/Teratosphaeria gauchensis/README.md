@@ -1,5 +1,4 @@
-Teratosphaeria gauchensis (M.-N. Cortinas, Crous & M.J. Wingf.) M.J. Wingf. & Crous, 2009 SPECIES
-=======
+# Teratosphaeria gauchensis (M.-N. Cortinas, Crous & M.J. Wingf.) M.J. Wingf. & Crous, 2009 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Lecanora hayrenii H. Magn. SPECIES
-=======
+# Lecanora haeyrenii H. Magn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora hayrenii H. Magn.
+Lecanora haeyrenii H. Magn.
 
 ### Remarks
 null

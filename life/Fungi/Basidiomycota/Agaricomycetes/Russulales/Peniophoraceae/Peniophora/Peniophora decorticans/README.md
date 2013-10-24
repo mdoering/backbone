@@ -1,5 +1,4 @@
-Peniophora decorticans Burt, 1926 SPECIES
-=======
+# Peniophora decorticans Burt, 1926 SPECIES
 
 #### Status
 ACCEPTED

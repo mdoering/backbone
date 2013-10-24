@@ -1,14 +1,13 @@
-Takayamaea M.F. de Salas, C.J.S. Bolch, L. Botes & G.M. Hallegraeff in M.F. de Salas et al., 2003 GENUS
-=======
+# Takayama de Salas, Bolch, Botes & Hallegraeff, 2003 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
-null
+J Phycol 39 (6), December: 1235.
 
 #### Original name
 null

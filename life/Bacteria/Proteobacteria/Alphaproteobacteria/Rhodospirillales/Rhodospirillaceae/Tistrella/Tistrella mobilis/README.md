@@ -1,5 +1,4 @@
-Tistrella mobilis Shi et al., 2003 SPECIES
-=======
+# Tistrella mobilis Shi et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Navicella rhopalodes (Sacc.) Kuntze SPECIES
-=======
+# Navicella rhopalodes (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

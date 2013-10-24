@@ -1,5 +1,4 @@
-Gloeosporium mirabilis Bres. SPECIES
-=======
+# Gloeosporium mirabilis Bres. SPECIES
 
 #### Status
 ACCEPTED

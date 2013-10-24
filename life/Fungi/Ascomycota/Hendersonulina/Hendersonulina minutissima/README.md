@@ -1,5 +1,4 @@
-Hendersonulina minutissima (Sacc.) Tassi SPECIES
-=======
+# Hendersonulina minutissima (Sacc.) Tassi SPECIES
 
 #### Status
 ACCEPTED

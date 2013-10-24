@@ -1,5 +1,4 @@
-Capsicocysta S.A. Warny & J.H. Wrenn, 1997 GENUS
-=======
+# Capsicocysta S.A. Warny & J.H. Wrenn, 1997 GENUS
 
 #### Status
 ACCEPTED

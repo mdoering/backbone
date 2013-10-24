@@ -1,5 +1,4 @@
-Panarium Haeckel, 1881 GENUS
-=======
+# Panarium Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

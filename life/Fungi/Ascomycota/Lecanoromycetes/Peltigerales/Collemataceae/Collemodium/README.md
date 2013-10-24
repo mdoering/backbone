@@ -1,5 +1,4 @@
-Collemodium GENUS
-=======
+# Collemodium GENUS
 
 #### Status
 ACCEPTED

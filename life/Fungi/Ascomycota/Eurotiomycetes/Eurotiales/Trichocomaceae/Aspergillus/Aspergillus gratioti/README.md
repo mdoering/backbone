@@ -1,5 +1,4 @@
-Aspergillus gratioti Sartory SPECIES
-=======
+# Aspergillus gratioti Sartory SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterostomella lauracearum Bat. & J.L. Bezerra SPECIES
-=======
+# Asterostomella lauracearum Bat. & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

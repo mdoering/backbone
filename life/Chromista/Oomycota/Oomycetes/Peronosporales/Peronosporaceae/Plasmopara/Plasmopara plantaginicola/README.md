@@ -1,5 +1,4 @@
-Plasmopara plantaginicola T.R. Liu & C.K. Pai SPECIES
-=======
+# Plasmopara plantaginicola T.R. Liu & C.K. Pai SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramalina mexicana Vain. SPECIES
-=======
+# Ramalina mexicana Vain. SPECIES
 
 #### Status
 ACCEPTED

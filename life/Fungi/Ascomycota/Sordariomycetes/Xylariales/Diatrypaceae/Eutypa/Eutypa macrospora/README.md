@@ -1,5 +1,4 @@
-Eutypa macrospora Nitschke SPECIES
-=======
+# Eutypa macrospora Nitschke SPECIES
 
 #### Status
 ACCEPTED

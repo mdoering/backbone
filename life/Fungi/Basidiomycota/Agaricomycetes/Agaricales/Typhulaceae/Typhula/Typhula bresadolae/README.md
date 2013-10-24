@@ -1,5 +1,4 @@
-Typhula bresadolae (Sacc. & Dalla Costa {?} ) Trotter SPECIES
-=======
+# Typhula bresadolae (Sacc. & Dalla Costa {?} ) Trotter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleurophomopsis lignicola Petr., 1924 SPECIES
-=======
+# Pleurophomopsis lignicola Petr., 1924 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeocapsa nigra (Meneghini) Grunow SPECIES
-=======
+# Gloeocapsa nigra (Meneghini) Grunow SPECIES
 
 #### Status
 ACCEPTED

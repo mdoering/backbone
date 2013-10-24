@@ -1,5 +1,4 @@
-Eclusia Septfontaine, 1971 GENUS
-=======
+# Eclusia Septfontaine, 1971 GENUS
 
 #### Status
 ACCEPTED

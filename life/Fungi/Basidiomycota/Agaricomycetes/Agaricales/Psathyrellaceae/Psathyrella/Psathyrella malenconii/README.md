@@ -1,5 +1,4 @@
-Psathyrella malenconii Fouchier SPECIES
-=======
+# Psathyrella malenconii Fouchier SPECIES
 
 #### Status
 ACCEPTED

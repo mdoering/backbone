@@ -1,5 +1,4 @@
-Marasmiellus pulchellus (Speg.) Singer SPECIES
-=======
+# Marasmiellus pulchellus (Speg.) Singer SPECIES
 
 #### Status
 ACCEPTED

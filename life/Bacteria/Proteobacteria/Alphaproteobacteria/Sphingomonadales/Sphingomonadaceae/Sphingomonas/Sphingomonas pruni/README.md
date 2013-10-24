@@ -1,5 +1,4 @@
-Sphingomonas pruni Takeuchi et al., 1995 SPECIES
-=======
+# Sphingomonas pruni Takeuchi et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aessosporon dendrophilum Van der Walt, 1973 SPECIES
-=======
+# Aessosporon dendrophilum Van der Walt, 1973 SPECIES
 
 #### Status
 ACCEPTED

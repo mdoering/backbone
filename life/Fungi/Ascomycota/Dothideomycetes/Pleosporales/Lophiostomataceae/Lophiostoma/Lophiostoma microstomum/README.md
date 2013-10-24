@@ -1,17 +1,16 @@
-Lophiostoma microstoma Cooke & Ellis SPECIES
-=======
+# Lophiostoma microstomum Niessl, 1870 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Rabenhorst, Fungi europ. exsicc. (1870)
 
 #### Original name
-Lophiostoma microstoma Cooke & Ellis
+Lophiostoma microstomum Niessl, 1870
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Mazzantia arundinellae F. Stevens SPECIES
-=======
+# Mazzantia arundinellae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

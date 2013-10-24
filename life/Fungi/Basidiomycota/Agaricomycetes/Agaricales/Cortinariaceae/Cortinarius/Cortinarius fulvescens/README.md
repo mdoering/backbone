@@ -1,17 +1,16 @@
-Cortinarius fasciatus SPECIES
-=======
+# Cortinarius fulvescens Fr., 1838 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Epicr. syst. mycol. (Upsaliae) 311 (1838)
 
 #### Original name
-Cortinarius fasciatus
+Cortinarius fulvescens Fr., 1838
 
 ### Remarks
 null

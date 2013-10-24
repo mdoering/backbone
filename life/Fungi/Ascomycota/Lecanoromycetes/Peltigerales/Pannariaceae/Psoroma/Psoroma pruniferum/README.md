@@ -1,5 +1,4 @@
-Psoroma pruniferum (Nyl.) Flagey SPECIES
-=======
+# Psoroma pruniferum (Nyl.) Flagey SPECIES
 
 #### Status
 ACCEPTED

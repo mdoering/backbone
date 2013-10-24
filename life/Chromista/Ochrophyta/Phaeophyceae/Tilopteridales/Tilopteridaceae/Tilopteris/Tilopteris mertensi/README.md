@@ -1,5 +1,4 @@
-Tilopteris mertensi SPECIES
-=======
+# Tilopteris mertensi SPECIES
 
 #### Status
 ACCEPTED

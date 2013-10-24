@@ -1,5 +1,4 @@
-Berteromyces aeneus Cif. SPECIES
-=======
+# Berteromyces aeneus Cif. SPECIES
 
 #### Status
 ACCEPTED

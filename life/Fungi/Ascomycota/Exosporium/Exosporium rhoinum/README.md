@@ -1,5 +1,4 @@
-Exosporium rhoinum Dearn. & Barthol. SPECIES
-=======
+# Exosporium rhoinum Dearn. & Barthol. SPECIES
 
 #### Status
 ACCEPTED

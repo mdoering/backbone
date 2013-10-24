@@ -1,5 +1,4 @@
-Puccinia subneurophila (Speg.) Speg. SPECIES
-=======
+# Puccinia subneurophila (Speg.) Speg. SPECIES
 
 #### Status
 ACCEPTED

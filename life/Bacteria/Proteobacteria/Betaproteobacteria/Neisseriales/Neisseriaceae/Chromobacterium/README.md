@@ -1,5 +1,4 @@
-Chromobacterium Bergonzini, 1880 GENUS
-=======
+# Chromobacterium Bergonzini, 1880 GENUS
 
 #### Status
 ACCEPTED

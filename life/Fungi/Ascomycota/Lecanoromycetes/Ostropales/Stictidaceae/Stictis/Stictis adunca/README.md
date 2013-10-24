@@ -1,5 +1,4 @@
-Stictis adunca (Feltgen) Höhn. SPECIES
-=======
+# Stictis adunca (Feltgen) Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cylindrosporium rosae Vasyag. SPECIES
-=======
+# Cylindrosporium rosae Vasyag. SPECIES
 
 #### Status
 ACCEPTED

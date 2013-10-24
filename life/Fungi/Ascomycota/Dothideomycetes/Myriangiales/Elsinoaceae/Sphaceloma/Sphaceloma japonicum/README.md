@@ -1,5 +1,4 @@
-Sphaceloma japonicum Kuros. {?} & Katsuki SPECIES
-=======
+# Sphaceloma japonicum Kuros. {?} & Katsuki SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lichenophoma haematommatis Keissl. SPECIES
-=======
+# Lichenophoma haematommatis Keissl. SPECIES
 
 #### Status
 ACCEPTED

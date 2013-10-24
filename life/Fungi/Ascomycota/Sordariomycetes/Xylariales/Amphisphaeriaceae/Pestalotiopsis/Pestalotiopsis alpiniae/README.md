@@ -1,5 +1,4 @@
-Pestalotiopsis alpiniae Y.X. Chen & G. Wei SPECIES
-=======
+# Pestalotiopsis alpiniae Y.X. Chen & G. Wei SPECIES
 
 #### Status
 ACCEPTED

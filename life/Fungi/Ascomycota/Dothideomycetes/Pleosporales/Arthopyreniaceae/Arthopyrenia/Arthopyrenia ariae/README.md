@@ -1,5 +1,4 @@
-Arthopyrenia ariae (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Arthopyrenia ariae (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

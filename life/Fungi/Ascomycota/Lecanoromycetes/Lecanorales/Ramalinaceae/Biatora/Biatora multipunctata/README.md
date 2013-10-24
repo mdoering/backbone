@@ -1,5 +1,4 @@
-Biatora multipunctata Hepp SPECIES
-=======
+# Biatora multipunctata Hepp SPECIES
 
 #### Status
 ACCEPTED

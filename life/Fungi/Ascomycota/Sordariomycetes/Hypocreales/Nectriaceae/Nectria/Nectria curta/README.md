@@ -1,5 +1,4 @@
-Nectria curta J. Webster, 1993 SPECIES
-=======
+# Nectria curta J. Webster, 1993 SPECIES
 
 #### Status
 ACCEPTED

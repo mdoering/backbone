@@ -1,5 +1,4 @@
-Sphaerella alni (Fuckel) Sacc. SPECIES
-=======
+# Sphaerella alni (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vorticella microstoma subsp. microstoma SUBSPECIES
-=======
+# Vorticella microstoma Ehrenberg, 1830 SPECIES
 
 #### Status
 ACCEPTED

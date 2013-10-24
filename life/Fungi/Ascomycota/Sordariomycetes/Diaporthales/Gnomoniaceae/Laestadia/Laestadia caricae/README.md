@@ -1,5 +1,4 @@
-Laestadia caricae Marchal & Steyaert SPECIES
-=======
+# Laestadia caricae Marchal & Steyaert SPECIES
 
 #### Status
 ACCEPTED

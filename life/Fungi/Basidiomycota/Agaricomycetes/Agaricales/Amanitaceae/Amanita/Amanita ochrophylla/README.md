@@ -1,5 +1,4 @@
-Amanita ochrophylla (Cooke & Massee) Cleland SPECIES
-=======
+# Amanita ochrophylla (Cooke & Massee) Cleland SPECIES
 
 #### Status
 ACCEPTED

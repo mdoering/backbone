@@ -1,5 +1,4 @@
-Remototrachyna infirma (Kurok.) Divakar & A. Crespo SPECIES
-=======
+# Remototrachyna infirma (Kurok.) Divakar & A. Crespo SPECIES
 
 #### Status
 ACCEPTED

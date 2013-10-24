@@ -1,5 +1,4 @@
-Aspicilia ochracea (Körb.) Motyka SPECIES
-=======
+# Aspicilia ochracea (Körb.) Motyka SPECIES
 
 #### Status
 ACCEPTED

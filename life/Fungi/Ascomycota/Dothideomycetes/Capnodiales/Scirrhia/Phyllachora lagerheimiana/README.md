@@ -1,5 +1,4 @@
-Phyllachora lagerheimiana Rehm, 1891 SPECIES
-=======
+# Phyllachora lagerheimiana Rehm, 1891 SPECIES
 
 #### Status
 DOUBTFUL

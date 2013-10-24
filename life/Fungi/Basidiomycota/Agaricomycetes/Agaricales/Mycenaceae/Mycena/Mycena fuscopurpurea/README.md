@@ -1,5 +1,4 @@
-Mycena fuscopurpurea Henn. SPECIES
-=======
+# Mycena fuscopurpurea Henn. SPECIES
 
 #### Status
 ACCEPTED

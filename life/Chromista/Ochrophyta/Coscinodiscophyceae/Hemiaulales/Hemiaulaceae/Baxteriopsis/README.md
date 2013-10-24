@@ -1,5 +1,4 @@
-Baxteriopsis G.Karsten, 1928 GENUS
-=======
+# Baxteriopsis G.Karsten, 1928 GENUS
 
 #### Status
 ACCEPTED

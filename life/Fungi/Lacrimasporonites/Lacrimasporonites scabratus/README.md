@@ -1,5 +1,4 @@
-Lacrimasporonites scabratus Z.C. Song & Liu Cao SPECIES
-=======
+# Lacrimasporonites scabratus Z.C. Song & Liu Cao SPECIES
 
 #### Status
 ACCEPTED

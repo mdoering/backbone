@@ -1,14 +1,13 @@
-Hypochnus polyporoideus (Berk. & M.A. Curtis) Overh., 1938 SPECIES
-=======
+# Phlyctibasidium polyporoideum (Berk. & M.A. Curtis) Jülich, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 30(3): 275 (1938)
+Proc. K. Ned. Akad. Wet. , Ser. C, Biol. Med. Sci. 77(2): 154 (1974)
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Yuccamyces purpureus Gour, Dyko & B. Sutton, 1979 SPECIES
-=======
+# Yuccamyces purpureus Gour, Dyko & B. Sutton, 1979 SPECIES
 
 #### Status
 ACCEPTED

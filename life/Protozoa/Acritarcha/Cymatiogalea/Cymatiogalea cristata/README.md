@@ -1,5 +1,4 @@
-Cymatiogalea cristata (Downie, 1958) Rauscher, 1973 SPECIES
-=======
+# Cymatiogalea cristata (Downie, 1958) Rauscher, 1973 SPECIES
 
 #### Status
 ACCEPTED

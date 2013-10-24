@@ -1,5 +1,4 @@
-Gorgoniceps dinemasporioides (Ellis & Everh.) Sacc. SPECIES
-=======
+# Gorgoniceps dinemasporioides (Ellis & Everh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

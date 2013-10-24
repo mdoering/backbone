@@ -1,5 +1,4 @@
-Hypocrea centri-sterilis Yoshim. Doi SPECIES
-=======
+# Hypocrea centri-sterilis Yoshim. Doi SPECIES
 
 #### Status
 ACCEPTED

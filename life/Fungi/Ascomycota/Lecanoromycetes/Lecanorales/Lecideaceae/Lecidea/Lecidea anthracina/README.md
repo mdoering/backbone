@@ -1,5 +1,4 @@
-Lecidea anthracina Ach. SPECIES
-=======
+# Lecidea anthracina Ach. SPECIES
 
 #### Status
 ACCEPTED

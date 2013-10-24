@@ -1,5 +1,4 @@
-Sargassum longifructum C.K.Tseng & B.Lu SPECIES
-=======
+# Sargassum longifructum C.K.Tseng & B.Lu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pholiota lundbergii Jacobsson SPECIES
-=======
+# Pholiota lundbergii Jacobsson SPECIES
 
 #### Status
 ACCEPTED

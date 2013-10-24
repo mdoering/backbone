@@ -1,5 +1,4 @@
-Ascocephalophora K. Matsush. & Matsush. GENUS
-=======
+# Ascocephalophora K. Matsush. & Matsush. GENUS
 
 #### Status
 ACCEPTED

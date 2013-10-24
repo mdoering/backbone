@@ -1,5 +1,4 @@
-Rhabdospora septorioides Gonz. Frag. SPECIES
-=======
+# Rhabdospora septorioides Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

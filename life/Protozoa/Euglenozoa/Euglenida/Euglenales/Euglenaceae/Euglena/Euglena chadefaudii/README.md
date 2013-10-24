@@ -1,5 +1,4 @@
-Euglena chadefaudii Bourrelly SPECIES
-=======
+# Euglena chadefaudii Bourrelly SPECIES
 
 #### Status
 ACCEPTED

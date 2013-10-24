@@ -1,5 +1,4 @@
-Pleurotus pruinulosus (Pat. & Demange) Sacc. & Trotter SPECIES
-=======
+# Pleurotus pruinulosus (Pat. & Demange) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

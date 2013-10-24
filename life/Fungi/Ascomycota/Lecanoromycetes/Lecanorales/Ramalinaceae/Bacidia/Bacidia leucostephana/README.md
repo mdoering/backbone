@@ -1,5 +1,4 @@
-Bacidia leucostephana (Stizenb.) Zahlbr. SPECIES
-=======
+# Bacidia leucostephana (Stizenb.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Siphogenerinoides reticulata Stone SPECIES
-=======
+# Siphogenerinoides reticulata Stone SPECIES
 
 #### Status
 ACCEPTED

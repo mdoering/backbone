@@ -1,5 +1,4 @@
-Pholiotina vesiculosa E. Horak & Hauskn. SPECIES
-=======
+# Pholiotina vesiculosa E. Horak & Hauskn. SPECIES
 
 #### Status
 ACCEPTED

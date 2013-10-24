@@ -1,5 +1,4 @@
-Passalora hughesii (Munt.-Cvetk.) U. Braun & Crous SPECIES
-=======
+# Passalora hughesii (Munt.-Cvetk.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rutstroemia quercina Velen. SPECIES
-=======
+# Rutstroemia quercina Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Crepidotus scalaris Fr. SPECIES
-=======
+# Crepidotus scalaris Fr. SPECIES
 
 #### Status
 ACCEPTED

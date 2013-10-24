@@ -1,17 +1,16 @@
-Melascypha Boud. GENUS
-=======
+# Pseudoplectania Fuckel, 1870 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Bull. Soc. mycol. Fr. 1: 103 (1885)
+null
 
 #### Original name
-Melascypha Boud.
+null
 
 ### Remarks
 null

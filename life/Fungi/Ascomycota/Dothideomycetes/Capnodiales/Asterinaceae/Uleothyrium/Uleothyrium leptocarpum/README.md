@@ -1,5 +1,4 @@
-Uleothyrium leptocarpum Syd. SPECIES
-=======
+# Uleothyrium leptocarpum Syd. SPECIES
 
 #### Status
 ACCEPTED

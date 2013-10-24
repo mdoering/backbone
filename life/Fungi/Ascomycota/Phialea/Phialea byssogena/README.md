@@ -1,5 +1,4 @@
-Phialea byssogena (Berk.) Sacc. SPECIES
-=======
+# Phialea byssogena (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerella puiggarii Speg. SPECIES
-=======
+# Sphaerella puiggarii Speg. SPECIES
 
 #### Status
 ACCEPTED

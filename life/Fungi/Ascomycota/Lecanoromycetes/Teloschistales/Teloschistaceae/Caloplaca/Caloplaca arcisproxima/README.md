@@ -1,5 +1,4 @@
-Caloplaca arcisproxima Vondrák, Ríha, Arup & Søchting SPECIES
-=======
+# Caloplaca arcisproxima Vondrák, Ríha, Arup & Søchting SPECIES
 
 #### Status
 ACCEPTED

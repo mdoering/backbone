@@ -1,5 +1,4 @@
-Metschnikowia typographi Weiser, Wegenst., Händel & Z. Žižka, 2003 SPECIES
-=======
+# Metschnikowia typographi Weiser, Wegenst., Händel & Z. Žižka, 2003 SPECIES
 
 #### Status
 ACCEPTED

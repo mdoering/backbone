@@ -1,5 +1,4 @@
-Globigerinelloididae Longoria, 1974 FAMILY
-=======
+# Globigerinelloididae Longoria, 1974 FAMILY
 
 #### Status
 ACCEPTED

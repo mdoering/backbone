@@ -1,5 +1,4 @@
-Bodonophyceae CLASS
-=======
+# Bodonophyceae CLASS
 
 #### Status
 ACCEPTED

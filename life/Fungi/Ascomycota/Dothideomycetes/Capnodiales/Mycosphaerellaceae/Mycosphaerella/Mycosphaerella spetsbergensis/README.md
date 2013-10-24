@@ -1,5 +1,4 @@
-Mycosphaerella spetsbergensis L. Holm & K. Holm SPECIES
-=======
+# Mycosphaerella spetsbergensis L. Holm & K. Holm SPECIES
 
 #### Status
 ACCEPTED

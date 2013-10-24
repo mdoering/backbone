@@ -1,5 +1,4 @@
-Xanthomonas gardneri (ex Sutic, 1957) Jones et al., 2006, nom rev. SPECIES
-=======
+# Xanthomonas gardneri (ex Sutic, 1957) Jones et al., 2006, nom rev. SPECIES
 
 #### Status
 ACCEPTED

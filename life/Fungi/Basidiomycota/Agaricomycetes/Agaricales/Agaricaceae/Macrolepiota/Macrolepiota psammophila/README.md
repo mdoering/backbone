@@ -1,5 +1,4 @@
-Macrolepiota psammophila Guinb. SPECIES
-=======
+# Macrolepiota psammophila Guinb. SPECIES
 
 #### Status
 ACCEPTED

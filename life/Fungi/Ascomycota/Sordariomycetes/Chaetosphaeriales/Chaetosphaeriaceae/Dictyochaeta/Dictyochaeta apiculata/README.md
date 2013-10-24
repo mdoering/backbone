@@ -1,5 +1,4 @@
-Dictyochaeta apiculata (Matsush.) Whitton, McKenzie & K.D. Hyde SPECIES
-=======
+# Dictyochaeta apiculata (Matsush.) Whitton, McKenzie & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

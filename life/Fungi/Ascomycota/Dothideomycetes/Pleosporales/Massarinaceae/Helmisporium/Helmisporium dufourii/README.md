@@ -1,5 +1,4 @@
-Helmisporium dufourii Brond. SPECIES
-=======
+# Helmisporium dufourii Brond. SPECIES
 
 #### Status
 ACCEPTED

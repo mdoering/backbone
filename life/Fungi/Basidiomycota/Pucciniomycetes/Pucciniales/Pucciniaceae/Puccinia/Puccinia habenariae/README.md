@@ -1,5 +1,4 @@
-Puccinia habenariae Henn. SPECIES
-=======
+# Puccinia habenariae Henn. SPECIES
 
 #### Status
 ACCEPTED

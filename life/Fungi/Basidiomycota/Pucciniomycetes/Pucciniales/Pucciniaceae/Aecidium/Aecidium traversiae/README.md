@@ -1,5 +1,4 @@
-Aecidium traversiae G. Cunn., 1928 SPECIES
-=======
+# Aecidium traversiae G. Cunn., 1928 SPECIES
 
 #### Status
 ACCEPTED

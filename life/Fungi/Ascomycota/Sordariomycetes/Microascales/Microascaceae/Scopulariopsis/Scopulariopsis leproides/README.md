@@ -1,5 +1,4 @@
-Scopulariopsis leproides Léger & Nogueira SPECIES
-=======
+# Scopulariopsis leproides Léger & Nogueira SPECIES
 
 #### Status
 ACCEPTED

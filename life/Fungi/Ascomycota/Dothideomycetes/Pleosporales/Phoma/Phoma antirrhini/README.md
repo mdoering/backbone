@@ -1,5 +1,4 @@
-Phoma antirrhini Dzhalag. SPECIES
-=======
+# Phoma antirrhini Dzhalag. SPECIES
 
 #### Status
 ACCEPTED

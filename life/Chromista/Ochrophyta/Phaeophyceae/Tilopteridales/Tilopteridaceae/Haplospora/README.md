@@ -1,5 +1,4 @@
-Haplospora F.R. Kjellman, 1872 GENUS
-=======
+# Haplospora F.R. Kjellman, 1872 GENUS
 
 #### Status
 ACCEPTED

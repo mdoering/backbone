@@ -1,5 +1,4 @@
-Aecidium adenostylis Syd. & P. Syd. SPECIES
-=======
+# Aecidium adenostylis Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

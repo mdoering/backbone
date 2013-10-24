@@ -1,5 +1,4 @@
-Collybia nigrita Berk. & M.A. Curtis SPECIES
-=======
+# Collybia nigrita Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

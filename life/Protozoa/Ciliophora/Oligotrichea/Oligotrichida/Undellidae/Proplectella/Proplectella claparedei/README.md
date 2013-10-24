@@ -1,5 +1,4 @@
-Proplectella claparedei (Entz, 1908) SPECIES
-=======
+# Proplectella claparedei (Entz, 1908) SPECIES
 
 #### Status
 ACCEPTED

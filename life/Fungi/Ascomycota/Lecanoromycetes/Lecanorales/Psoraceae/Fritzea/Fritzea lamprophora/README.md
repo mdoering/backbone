@@ -1,5 +1,4 @@
-Fritzea lamprophora (Körb.) Stein SPECIES
-=======
+# Fritzea lamprophora (Körb.) Stein SPECIES
 
 #### Status
 ACCEPTED

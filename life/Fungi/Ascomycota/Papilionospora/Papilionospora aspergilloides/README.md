@@ -1,14 +1,13 @@
-Cephalotrichum aspergilloides (Speg.) Kuntze SPECIES
-=======
+# Papilionospora aspergilloides (Speg.) V. Rao & B. Sutton, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 453 (1898)
+Kavaka 3: 23 (1976)
 
 #### Original name
 Graphium aspergilloides Speg.

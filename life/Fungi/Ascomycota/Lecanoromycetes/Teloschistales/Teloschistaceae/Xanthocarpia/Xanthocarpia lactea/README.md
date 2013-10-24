@@ -1,5 +1,4 @@
-Xanthocarpia lactea (A. Massal.) A. Massal. SPECIES
-=======
+# Xanthocarpia lactea (A. Massal.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

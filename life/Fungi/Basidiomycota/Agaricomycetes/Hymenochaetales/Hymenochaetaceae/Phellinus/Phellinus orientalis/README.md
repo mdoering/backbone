@@ -1,5 +1,4 @@
-Phellinus orientalis Bondartseva & S. Herrera SPECIES
-=======
+# Phellinus orientalis Bondartseva & S. Herrera SPECIES
 
 #### Status
 ACCEPTED

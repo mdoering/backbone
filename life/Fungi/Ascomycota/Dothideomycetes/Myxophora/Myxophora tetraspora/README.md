@@ -1,5 +1,4 @@
-Myxophora tetraspora Nik. Hoffm. & Hafellner, 2000 SPECIES
-=======
+# Myxophora tetraspora Nik. Hoffm. & Hafellner, 2000 SPECIES
 
 #### Status
 ACCEPTED

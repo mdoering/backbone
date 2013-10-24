@@ -1,5 +1,4 @@
-Dendrodochium album Bonord. SPECIES
-=======
+# Dendrodochium album Bonord. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cochliobolus homomorphus Luttr. & Rogerson, 1959 SPECIES
-=======
+# Cochliobolus homomorphus Luttr. & Rogerson, 1959 SPECIES
 
 #### Status
 ACCEPTED

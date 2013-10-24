@@ -1,5 +1,4 @@
-Lambottiella mendax (Rehm) Sacc. & Trotter SPECIES
-=======
+# Lambottiella mendax (Rehm) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

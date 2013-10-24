@@ -1,5 +1,4 @@
-Cylindrosporium saximontanense Solheim SPECIES
-=======
+# Cylindrosporium saximontanense Solheim SPECIES
 
 #### Status
 ACCEPTED

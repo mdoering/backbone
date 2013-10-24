@@ -1,5 +1,4 @@
-Auricularia cati Fr. SPECIES
-=======
+# Auricularia cati Fr. SPECIES
 
 #### Status
 ACCEPTED

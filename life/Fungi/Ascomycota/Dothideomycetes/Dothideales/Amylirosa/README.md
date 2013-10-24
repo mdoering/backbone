@@ -1,5 +1,4 @@
-Amylirosa Speg. GENUS
-=======
+# Amylirosa Speg. GENUS
 
 #### Status
 ACCEPTED

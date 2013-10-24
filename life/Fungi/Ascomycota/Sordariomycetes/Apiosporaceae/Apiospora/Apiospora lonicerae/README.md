@@ -1,5 +1,4 @@
-Apiospora lonicerae Tranzschel SPECIES
-=======
+# Apiospora lonicerae Tranzschel SPECIES
 
 #### Status
 ACCEPTED

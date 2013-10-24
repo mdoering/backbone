@@ -1,5 +1,4 @@
-Peltidea pellucida (Weber) Gray SPECIES
-=======
+# Peltidea pellucida (Weber) Gray SPECIES
 
 #### Status
 ACCEPTED

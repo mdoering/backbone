@@ -1,5 +1,4 @@
-Peltigera subamericana Gyeln. SPECIES
-=======
+# Peltigera subamericana Gyeln. SPECIES
 
 #### Status
 ACCEPTED

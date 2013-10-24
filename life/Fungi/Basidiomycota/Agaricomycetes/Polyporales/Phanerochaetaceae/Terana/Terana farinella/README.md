@@ -1,5 +1,4 @@
-Terana farinella (P. Karst.) Kuntze SPECIES
-=======
+# Terana farinella (P. Karst.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

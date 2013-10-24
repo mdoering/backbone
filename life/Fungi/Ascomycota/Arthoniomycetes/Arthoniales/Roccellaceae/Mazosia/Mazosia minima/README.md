@@ -1,5 +1,4 @@
-Mazosia minima (Kremp.) Zahlbr. SPECIES
-=======
+# Mazosia minima (Kremp.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

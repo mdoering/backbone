@@ -1,5 +1,4 @@
-Valsa dolosella Sacc. SPECIES
-=======
+# Valsa dolosella Sacc. SPECIES
 
 #### Status
 ACCEPTED

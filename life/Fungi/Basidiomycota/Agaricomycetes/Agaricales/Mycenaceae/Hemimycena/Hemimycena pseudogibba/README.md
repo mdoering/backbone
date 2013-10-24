@@ -1,5 +1,4 @@
-Hemimycena pseudogibba (Valla) Antonín & Noordel. SPECIES
-=======
+# Hemimycena pseudogibba (Valla) Antonín & Noordel. SPECIES
 
 #### Status
 ACCEPTED

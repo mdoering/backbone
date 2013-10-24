@@ -1,5 +1,4 @@
-Tenisonina Quilty, 1980 GENUS
-=======
+# Tenisonina Quilty, 1980 GENUS
 
 #### Status
 ACCEPTED

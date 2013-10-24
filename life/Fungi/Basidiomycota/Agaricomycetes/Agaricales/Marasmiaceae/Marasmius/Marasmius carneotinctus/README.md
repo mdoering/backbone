@@ -1,5 +1,4 @@
-Marasmius carneotinctus Singer SPECIES
-=======
+# Marasmius carneotinctus Singer SPECIES
 
 #### Status
 ACCEPTED

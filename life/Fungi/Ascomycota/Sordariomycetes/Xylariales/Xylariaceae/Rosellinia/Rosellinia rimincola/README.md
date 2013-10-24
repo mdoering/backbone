@@ -1,5 +1,4 @@
-Rosellinia rimincola Rehm SPECIES
-=======
+# Rosellinia rimincola Rehm SPECIES
 
 #### Status
 ACCEPTED

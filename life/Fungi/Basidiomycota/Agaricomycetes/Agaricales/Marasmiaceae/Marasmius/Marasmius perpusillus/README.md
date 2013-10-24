@@ -1,5 +1,4 @@
-Marasmius perpusillus Desjardin & E. Horak, 1997 SPECIES
-=======
+# Marasmius perpusillus Desjardin & E. Horak, 1997 SPECIES
 
 #### Status
 ACCEPTED

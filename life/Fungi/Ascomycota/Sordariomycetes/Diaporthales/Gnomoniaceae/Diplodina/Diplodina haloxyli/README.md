@@ -1,5 +1,4 @@
-Diplodina haloxyli Kravtzev SPECIES
-=======
+# Diplodina haloxyli Kravtzev SPECIES
 
 #### Status
 ACCEPTED

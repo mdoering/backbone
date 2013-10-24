@@ -1,5 +1,4 @@
-Paleocatenaria disjoncta Locq. SPECIES
-=======
+# Paleocatenaria disjoncta Locq. SPECIES
 
 #### Status
 ACCEPTED

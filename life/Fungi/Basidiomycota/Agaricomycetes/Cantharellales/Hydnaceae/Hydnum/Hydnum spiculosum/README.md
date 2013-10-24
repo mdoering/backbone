@@ -1,5 +1,4 @@
-Hydnum spiculosum Wallr. SPECIES
-=======
+# Hydnum spiculosum Wallr. SPECIES
 
 #### Status
 ACCEPTED

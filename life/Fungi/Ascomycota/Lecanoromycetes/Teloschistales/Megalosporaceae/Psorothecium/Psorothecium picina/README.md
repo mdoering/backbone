@@ -1,5 +1,4 @@
-Psorothecium picina (Nyl.) Boistel SPECIES
-=======
+# Psorothecium picina (Nyl.) Boistel SPECIES
 
 #### Status
 ACCEPTED

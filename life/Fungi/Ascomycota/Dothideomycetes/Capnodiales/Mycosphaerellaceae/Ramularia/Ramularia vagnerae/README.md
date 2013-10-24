@@ -1,5 +1,4 @@
-Ramularia vagnerae Barthol. SPECIES
-=======
+# Ramularia vagnerae Barthol. SPECIES
 
 #### Status
 ACCEPTED

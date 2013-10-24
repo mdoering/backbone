@@ -1,5 +1,4 @@
-Aphelaria incarnata Corner SPECIES
-=======
+# Aphelaria incarnata Corner SPECIES
 
 #### Status
 ACCEPTED

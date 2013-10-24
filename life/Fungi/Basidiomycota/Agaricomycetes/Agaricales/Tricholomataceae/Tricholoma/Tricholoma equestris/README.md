@@ -1,5 +1,4 @@
-Tricholoma equestris Fr. SPECIES
-=======
+# Tricholoma equestris Fr. SPECIES
 
 #### Status
 ACCEPTED

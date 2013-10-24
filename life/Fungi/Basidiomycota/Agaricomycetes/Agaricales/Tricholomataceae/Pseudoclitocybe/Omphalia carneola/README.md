@@ -1,5 +1,4 @@
-Omphalia carneola Fr. SPECIES
-=======
+# Omphalia carneola Fr. SPECIES
 
 #### Status
 ACCEPTED

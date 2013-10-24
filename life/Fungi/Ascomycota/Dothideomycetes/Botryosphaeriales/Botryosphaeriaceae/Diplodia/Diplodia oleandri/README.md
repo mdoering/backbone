@@ -1,5 +1,4 @@
-Diplodia oleandri Speg. SPECIES
-=======
+# Diplodia oleandri Speg. SPECIES
 
 #### Status
 ACCEPTED

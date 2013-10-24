@@ -1,5 +1,4 @@
-Parmelia ochrochlora (J.F. Gmel.) Ach. SPECIES
-=======
+# Parmelia ochrochlora (J.F. Gmel.) Ach. SPECIES
 
 #### Status
 ACCEPTED

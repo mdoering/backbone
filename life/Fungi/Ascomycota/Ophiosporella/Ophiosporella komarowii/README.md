@@ -1,5 +1,4 @@
-Ophiosporella komarowii (Jacz.) Petr. SPECIES
-=======
+# Ophiosporella komarowii (Jacz.) Petr. SPECIES
 
 #### Status
 ACCEPTED

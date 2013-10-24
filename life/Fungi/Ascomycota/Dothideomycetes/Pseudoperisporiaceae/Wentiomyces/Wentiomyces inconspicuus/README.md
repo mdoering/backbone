@@ -1,5 +1,4 @@
-Wentiomyces inconspicuus Spooner SPECIES
-=======
+# Wentiomyces inconspicuus Spooner SPECIES
 
 #### Status
 ACCEPTED

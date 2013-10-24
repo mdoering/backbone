@@ -1,5 +1,4 @@
-Septoria lunelliana Sacc. SPECIES
-=======
+# Septoria lunelliana Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entyloma amaranthi Mol.-Val. SPECIES
-=======
+# Entyloma amaranthi Mol.-Val. SPECIES
 
 #### Status
 ACCEPTED

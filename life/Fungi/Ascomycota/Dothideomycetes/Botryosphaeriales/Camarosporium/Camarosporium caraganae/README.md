@@ -1,5 +1,4 @@
-Camarosporium caraganae P. Karst. SPECIES
-=======
+# Camarosporium caraganae P. Karst. SPECIES
 
 #### Status
 ACCEPTED

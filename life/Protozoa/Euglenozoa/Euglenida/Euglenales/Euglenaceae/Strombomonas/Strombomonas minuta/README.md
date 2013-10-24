@@ -1,5 +1,4 @@
-Strombomonas minuta V. Conforti & G.-J. Joo SPECIES
-=======
+# Strombomonas minuta V. Conforti & G.-J. Joo SPECIES
 
 #### Status
 ACCEPTED

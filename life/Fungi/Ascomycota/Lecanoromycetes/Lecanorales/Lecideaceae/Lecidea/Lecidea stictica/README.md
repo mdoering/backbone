@@ -1,5 +1,4 @@
-Lecidea stictica Fée SPECIES
-=======
+# Lecidea stictica Fée SPECIES
 
 #### Status
 ACCEPTED

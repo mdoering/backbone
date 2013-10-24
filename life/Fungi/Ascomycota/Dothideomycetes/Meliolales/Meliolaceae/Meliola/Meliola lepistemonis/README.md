@@ -1,5 +1,4 @@
-Meliola lepistemonis Hansf. SPECIES
-=======
+# Meliola lepistemonis Hansf. SPECIES
 
 #### Status
 ACCEPTED

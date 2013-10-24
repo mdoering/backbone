@@ -1,5 +1,4 @@
-Septoria rhaphidospora C. Massal. SPECIES
-=======
+# Septoria rhaphidospora C. Massal. SPECIES
 
 #### Status
 ACCEPTED

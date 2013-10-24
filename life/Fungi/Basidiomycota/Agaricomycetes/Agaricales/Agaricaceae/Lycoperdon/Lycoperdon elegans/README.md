@@ -1,5 +1,4 @@
-Lycoperdon elegans Morgan SPECIES
-=======
+# Lycoperdon elegans Morgan SPECIES
 
 #### Status
 ACCEPTED

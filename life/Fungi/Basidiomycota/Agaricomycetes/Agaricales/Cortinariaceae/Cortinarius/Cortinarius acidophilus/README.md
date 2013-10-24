@@ -1,5 +1,4 @@
-Cortinarius acidophilus Brandrud SPECIES
-=======
+# Cortinarius acidophilus Brandrud SPECIES
 
 #### Status
 ACCEPTED

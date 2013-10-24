@@ -1,5 +1,4 @@
-Phyllosticta mate Speg. SPECIES
-=======
+# Phyllosticta mate Speg. SPECIES
 
 #### Status
 ACCEPTED

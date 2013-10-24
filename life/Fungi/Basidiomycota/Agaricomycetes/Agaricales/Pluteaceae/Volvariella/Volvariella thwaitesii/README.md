@@ -1,5 +1,4 @@
-Volvariella thwaitesii (Hook. f.) G.C. Rath SPECIES
-=======
+# Volvariella thwaitesii (Hook. f.) G.C. Rath SPECIES
 
 #### Status
 ACCEPTED

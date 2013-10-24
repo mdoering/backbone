@@ -1,5 +1,4 @@
-Stilbum aeruginosum Desm. SPECIES
-=======
+# Stilbum aeruginosum Desm. SPECIES
 
 #### Status
 ACCEPTED

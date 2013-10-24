@@ -1,8 +1,7 @@
-Algoriphagus halophilus (Yi & Chun, 2004) Nedashkovskaya et al., 2004 SPECIES
-=======
+# Hongiella halophila Yi & Chun, 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

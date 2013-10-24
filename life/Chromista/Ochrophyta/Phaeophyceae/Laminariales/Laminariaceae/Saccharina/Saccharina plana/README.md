@@ -1,5 +1,4 @@
-Saccharina plana Stackhouse SPECIES
-=======
+# Saccharina plana Stackhouse SPECIES
 
 #### Status
 ACCEPTED

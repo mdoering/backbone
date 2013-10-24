@@ -1,5 +1,4 @@
-Pragmopora pini J.W. Groves SPECIES
-=======
+# Pragmopora pini J.W. Groves SPECIES
 
 #### Status
 ACCEPTED

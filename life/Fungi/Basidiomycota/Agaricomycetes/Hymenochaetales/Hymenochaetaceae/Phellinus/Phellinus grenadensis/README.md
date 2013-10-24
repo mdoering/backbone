@@ -1,14 +1,13 @@
-Pyropolyporus grenadensis Murrill, 1908 SPECIES
-=======
+# Phellinus grenadensis (Murrill) Ryvarden, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-N. Amer. Fl. (New York) 9(2): 107 (1908)
+Norw. Jl Bot. 19: 234 (1972)
 
 #### Original name
 Pyropolyporus grenadensis Murrill, 1908

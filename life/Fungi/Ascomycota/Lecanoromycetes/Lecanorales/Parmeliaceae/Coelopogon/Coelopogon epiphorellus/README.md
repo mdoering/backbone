@@ -1,14 +1,13 @@
-Cornicularia epiphorella (Nyl.) Du Rietz SPECIES
-=======
+# Coelopogon epiphorellus (Nyl.) Brusse & Kärnefelt SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Ark. Bot. 20A(11): 34 (1926)
+Mycotaxon 42(35): 39 (1991)
 
 #### Original name
 Cetraria epiphorella Nyl.

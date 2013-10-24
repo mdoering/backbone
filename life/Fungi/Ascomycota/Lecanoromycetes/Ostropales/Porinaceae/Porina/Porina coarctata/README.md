@@ -1,5 +1,4 @@
-Porina coarctata P.M. McCarthy & H. Harada SPECIES
-=======
+# Porina coarctata P.M. McCarthy & H. Harada SPECIES
 
 #### Status
 ACCEPTED

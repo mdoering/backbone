@@ -1,8 +1,7 @@
-Oolina carteri Albani & Yassini, 1989 SPECIES
-=======
+# Reussoolina carteri (Albani & Yassini, 1989) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

@@ -1,5 +1,4 @@
-Tricholoma tanzanianum Pegler SPECIES
-=======
+# Tricholoma tanzanianum Pegler SPECIES
 
 #### Status
 ACCEPTED

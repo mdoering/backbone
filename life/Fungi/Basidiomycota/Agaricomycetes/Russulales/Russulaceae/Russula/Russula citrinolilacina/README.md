@@ -1,5 +1,4 @@
-Russula citrinolilacina Reumaux SPECIES
-=======
+# Russula citrinolilacina Reumaux SPECIES
 
 #### Status
 ACCEPTED

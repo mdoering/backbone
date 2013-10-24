@@ -1,17 +1,16 @@
-Caloplacopsis (Zahlbr.) B. de Lesd. GENUS
-=======
+# Candelariella Müll. Arg. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annals Cryptog. Exot. 5: 120 (1932)
+Bull. Herb. Boissier 2(app. 1): 11, 47 (1894)
 
 #### Original name
-null
+Candelariella Müll. Arg.
 
 ### Remarks
 null

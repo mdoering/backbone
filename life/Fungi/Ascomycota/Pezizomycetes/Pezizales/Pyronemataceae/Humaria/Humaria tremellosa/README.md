@@ -1,5 +1,4 @@
-Humaria tremellosa (Hazsl.) Sacc. SPECIES
-=======
+# Humaria tremellosa (Hazsl.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

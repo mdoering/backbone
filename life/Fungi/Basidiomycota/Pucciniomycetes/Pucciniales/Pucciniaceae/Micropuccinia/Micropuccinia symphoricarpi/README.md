@@ -1,5 +1,4 @@
-Micropuccinia symphoricarpi (Harkn.) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia symphoricarpi (Harkn.) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

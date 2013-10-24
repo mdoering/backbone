@@ -1,5 +1,4 @@
-Cintractia subglobosa S. Ito SPECIES
-=======
+# Cintractia subglobosa S. Ito SPECIES
 
 #### Status
 ACCEPTED

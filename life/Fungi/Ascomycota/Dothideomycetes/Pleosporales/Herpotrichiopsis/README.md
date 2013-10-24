@@ -1,5 +1,4 @@
-Herpotrichiopsis GENUS
-=======
+# Herpotrichiopsis GENUS
 
 #### Status
 ACCEPTED

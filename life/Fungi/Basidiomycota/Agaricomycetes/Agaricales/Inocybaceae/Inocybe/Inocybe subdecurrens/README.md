@@ -1,5 +1,4 @@
-Inocybe subdecurrens Ellis & Everh. SPECIES
-=======
+# Inocybe subdecurrens Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

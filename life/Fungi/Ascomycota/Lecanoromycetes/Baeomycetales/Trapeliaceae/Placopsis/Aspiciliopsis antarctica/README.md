@@ -1,5 +1,4 @@
-Aspiciliopsis antarctica (Müll. Arg.) C.W. Dodge SPECIES
-=======
+# Aspiciliopsis antarctica (Müll. Arg.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

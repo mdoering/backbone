@@ -1,5 +1,4 @@
-Arthopyrenia inconspicua var. inconspicua VARIETY
-=======
+# Arthopyrenia inconspicua J. Lahm SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Arthopyrenia inconspicua var. inconspicua
+Arthopyrenia inconspicua J. Lahm
 
 ### Remarks
 null

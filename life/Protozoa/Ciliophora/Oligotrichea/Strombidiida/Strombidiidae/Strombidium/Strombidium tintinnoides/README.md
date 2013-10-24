@@ -1,5 +1,4 @@
-Strombidium tintinnoides Entz, 1884 SPECIES
-=======
+# Strombidium tintinnoides Entz, 1884 SPECIES
 
 #### Status
 ACCEPTED

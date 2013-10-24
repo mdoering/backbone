@@ -1,5 +1,4 @@
-Laboulbenia feae Speg. SPECIES
-=======
+# Laboulbenia feae Speg. SPECIES
 
 #### Status
 ACCEPTED

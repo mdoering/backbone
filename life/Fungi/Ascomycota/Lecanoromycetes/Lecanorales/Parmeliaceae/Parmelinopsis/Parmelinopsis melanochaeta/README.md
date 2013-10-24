@@ -1,5 +1,4 @@
-Parmelinopsis melanochaeta (Kurok.) Elix & Hale SPECIES
-=======
+# Parmelinopsis melanochaeta (Kurok.) Elix & Hale SPECIES
 
 #### Status
 ACCEPTED

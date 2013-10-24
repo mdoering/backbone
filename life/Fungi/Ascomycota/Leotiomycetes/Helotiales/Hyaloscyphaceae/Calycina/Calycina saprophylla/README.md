@@ -1,5 +1,4 @@
-Calycina saprophylla (Peck) Kuntze SPECIES
-=======
+# Calycina saprophylla (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

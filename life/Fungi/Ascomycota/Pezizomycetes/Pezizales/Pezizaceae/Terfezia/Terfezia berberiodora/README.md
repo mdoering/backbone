@@ -1,5 +1,4 @@
-Terfezia berberiodora (Lesp.) Tul. & C. Tul. SPECIES
-=======
+# Terfezia berberiodora (Lesp.) Tul. & C. Tul. SPECIES
 
 #### Status
 ACCEPTED

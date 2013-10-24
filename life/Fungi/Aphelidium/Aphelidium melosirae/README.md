@@ -1,5 +1,4 @@
-Aphelidium melosirae Scherff. SPECIES
-=======
+# Aphelidium melosirae Scherff. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stilbospora conglomerata Link SPECIES
-=======
+# Stilbospora conglomerata Link SPECIES
 
 #### Status
 ACCEPTED

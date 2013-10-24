@@ -1,5 +1,4 @@
-Puccinia tecleae Pass. SPECIES
-=======
+# Puccinia tecleae Pass. SPECIES
 
 #### Status
 ACCEPTED

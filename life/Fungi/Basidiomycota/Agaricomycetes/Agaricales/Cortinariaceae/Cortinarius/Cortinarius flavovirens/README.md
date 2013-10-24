@@ -1,5 +1,4 @@
-Cortinarius flavovirens var. olivellus (Rob. Henry) Bidaud & Reumaux VARIETY
-=======
+# Cortinarius flavovirens Rob. Henry SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-in Bidaud, Carteret, Eyssartier, Moënne-Loccoz & Reumaux, Atlas des Cortinaires (Meyzieu) 14: 960 (2004)
+null
 
 #### Original name
-Cortinarius olivellus Rob. Henry
+Cortinarius flavovirens Rob. Henry
 
 ### Remarks
 null

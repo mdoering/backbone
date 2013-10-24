@@ -1,5 +1,4 @@
-Diderma areolatum M.L. Farr, 1979 SPECIES
-=======
+# Diderma areolatum M.L. Farr, 1979 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepiota glaucophylla anon. ined. SPECIES
-=======
+# Lepiota glaucophylla anon. ined. SPECIES
 
 #### Status
 ACCEPTED

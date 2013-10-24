@@ -1,5 +1,4 @@
-Tintinnidium setigerum SPECIES
-=======
+# Tintinnidium setigerum SPECIES
 
 #### Status
 ACCEPTED

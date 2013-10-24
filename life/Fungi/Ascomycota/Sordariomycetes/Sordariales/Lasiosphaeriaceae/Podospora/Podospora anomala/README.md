@@ -1,5 +1,4 @@
-Podospora anomala (Griffiths) Cain SPECIES
-=======
+# Podospora anomala (Griffiths) Cain SPECIES
 
 #### Status
 ACCEPTED

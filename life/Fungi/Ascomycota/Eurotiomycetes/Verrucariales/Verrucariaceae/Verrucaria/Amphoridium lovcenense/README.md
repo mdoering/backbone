@@ -1,5 +1,4 @@
-Amphoridium lovcenense (Servít) Servít SPECIES
-=======
+# Amphoridium lovcenense (Servít) Servít SPECIES
 
 #### Status
 ACCEPTED

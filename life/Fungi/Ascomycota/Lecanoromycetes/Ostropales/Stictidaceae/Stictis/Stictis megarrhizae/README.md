@@ -1,5 +1,4 @@
-Stictis megarrhizae W. Phillips & Harkn. SPECIES
-=======
+# Stictis megarrhizae W. Phillips & Harkn. SPECIES
 
 #### Status
 ACCEPTED

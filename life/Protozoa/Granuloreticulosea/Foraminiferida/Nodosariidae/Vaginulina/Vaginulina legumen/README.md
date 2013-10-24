@@ -1,5 +1,4 @@
-Vaginulina legumen (Linné, 1804) SPECIES
-=======
+# Vaginulina legumen (Linné, 1804) SPECIES
 
 #### Status
 ACCEPTED

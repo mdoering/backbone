@@ -1,5 +1,4 @@
-Laboulbenia pseudomasci Thaxt., 1902 SPECIES
-=======
+# Laboulbenia pseudomasci Thaxt., 1902 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta aucupariae Thüm. SPECIES
-=======
+# Phyllosticta aucupariae Thüm. SPECIES
 
 #### Status
 ACCEPTED

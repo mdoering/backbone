@@ -1,5 +1,4 @@
-Geopyxis acetabularioides Speg. SPECIES
-=======
+# Geopyxis acetabularioides Speg. SPECIES
 
 #### Status
 ACCEPTED

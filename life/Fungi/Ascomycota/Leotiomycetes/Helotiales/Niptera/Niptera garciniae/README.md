@@ -1,5 +1,4 @@
-Niptera garciniae Henn. SPECIES
-=======
+# Niptera garciniae Henn. SPECIES
 
 #### Status
 ACCEPTED

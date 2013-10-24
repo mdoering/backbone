@@ -1,5 +1,4 @@
-Hebeloma fragilius Peck SPECIES
-=======
+# Hebeloma fragilius Peck SPECIES
 
 #### Status
 ACCEPTED

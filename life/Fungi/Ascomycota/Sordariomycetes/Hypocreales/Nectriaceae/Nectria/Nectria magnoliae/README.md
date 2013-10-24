@@ -1,5 +1,4 @@
-Nectria magnoliae M.L. Lohman & Hepting, 1943 SPECIES
-=======
+# Nectria magnoliae M.L. Lohman & Hepting, 1943 SPECIES
 
 #### Status
 ACCEPTED

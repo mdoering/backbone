@@ -1,5 +1,4 @@
-Karlingiomyces laevis K. Konno SPECIES
-=======
+# Karlingiomyces laevis K. Konno SPECIES
 
 #### Status
 ACCEPTED

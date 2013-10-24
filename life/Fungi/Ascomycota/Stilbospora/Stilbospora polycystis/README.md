@@ -1,5 +1,4 @@
-Stilbospora polycystis G.H. Otth SPECIES
-=======
+# Stilbospora polycystis G.H. Otth SPECIES
 
 #### Status
 ACCEPTED

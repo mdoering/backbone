@@ -1,5 +1,4 @@
-Heterochaete burtii Bres. SPECIES
-=======
+# Heterochaete burtii Bres. SPECIES
 
 #### Status
 ACCEPTED

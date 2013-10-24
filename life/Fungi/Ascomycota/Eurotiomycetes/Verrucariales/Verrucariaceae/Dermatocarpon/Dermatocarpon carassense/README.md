@@ -1,5 +1,4 @@
-Dermatocarpon carassense Vain. SPECIES
-=======
+# Dermatocarpon carassense Vain. SPECIES
 
 #### Status
 ACCEPTED

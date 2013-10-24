@@ -1,5 +1,4 @@
-Pestalozziella subsessilis Sacc. & Ellis, 1882 SPECIES
-=======
+# Pestalozziella subsessilis Sacc. & Ellis, 1882 SPECIES
 
 #### Status
 ACCEPTED

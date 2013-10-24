@@ -1,5 +1,4 @@
-Staurothele immersa (A. Massal.) Dalla Torre & Sarnth. SPECIES
-=======
+# Staurothele immersa (A. Massal.) Dalla Torre & Sarnth. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius incurvus (Pers.) Fr. SPECIES
-=======
+# Cortinarius incurvus (Pers.) Fr. SPECIES
 
 #### Status
 ACCEPTED

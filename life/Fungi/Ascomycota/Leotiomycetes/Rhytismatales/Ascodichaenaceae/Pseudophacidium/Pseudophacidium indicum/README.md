@@ -1,5 +1,4 @@
-Pseudophacidium indicum Syd. & P. Syd. SPECIES
-=======
+# Pseudophacidium indicum Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

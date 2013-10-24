@@ -1,5 +1,4 @@
-Chroobacter GENUS
-=======
+# Chroobacter GENUS
 
 #### Status
 ACCEPTED

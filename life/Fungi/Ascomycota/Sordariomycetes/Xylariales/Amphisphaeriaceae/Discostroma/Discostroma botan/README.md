@@ -1,5 +1,4 @@
-Discostroma botan Sat. Hatak. & Y. Harada SPECIES
-=======
+# Discostroma botan Sat. Hatak. & Y. Harada SPECIES
 
 #### Status
 ACCEPTED

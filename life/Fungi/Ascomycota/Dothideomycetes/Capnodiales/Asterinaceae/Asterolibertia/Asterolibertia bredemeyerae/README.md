@@ -1,5 +1,4 @@
-Asterolibertia bredemeyerae (Rehm) Arx SPECIES
-=======
+# Asterolibertia bredemeyerae (Rehm) Arx SPECIES
 
 #### Status
 ACCEPTED

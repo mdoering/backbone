@@ -1,5 +1,4 @@
-Alysidium ellipsosporum (Corda) Kuntze SPECIES
-=======
+# Alysidium ellipsosporum (Corda) Kuntze SPECIES
 
 #### Status
 ACCEPTED

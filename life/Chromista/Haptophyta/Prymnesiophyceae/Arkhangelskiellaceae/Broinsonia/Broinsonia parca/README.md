@@ -1,11 +1,10 @@
-Broinsonia parca subsp. parca SUBSPECIES
-=======
+# Broinsonia parca SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Paleobiology Database
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

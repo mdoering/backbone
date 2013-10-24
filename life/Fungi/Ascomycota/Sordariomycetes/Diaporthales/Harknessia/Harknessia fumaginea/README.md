@@ -1,5 +1,4 @@
-Harknessia fumaginea B. Sutton & Alcorn SPECIES
-=======
+# Harknessia fumaginea B. Sutton & Alcorn SPECIES
 
 #### Status
 ACCEPTED

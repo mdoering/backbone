@@ -1,5 +1,4 @@
-Methanosphaera Miller & Wolin, 1985 GENUS
-=======
+# Methanosphaera Miller & Wolin, 1985 GENUS
 
 #### Status
 ACCEPTED

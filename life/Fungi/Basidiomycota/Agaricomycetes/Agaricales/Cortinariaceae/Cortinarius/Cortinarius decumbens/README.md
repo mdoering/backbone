@@ -1,5 +1,4 @@
-Cortinarius decumbens (Pers.) Fr. SPECIES
-=======
+# Cortinarius decumbens (Pers.) Fr. SPECIES
 
 #### Status
 ACCEPTED

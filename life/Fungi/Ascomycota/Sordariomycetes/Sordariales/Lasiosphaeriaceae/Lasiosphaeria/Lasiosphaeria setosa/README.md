@@ -1,5 +1,4 @@
-Lasiosphaeria setosa var. setosa VARIETY
-=======
+# Lasiosphaeria setosa (Schwein.) Ellis SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lasiosphaeria setosa var. setosa
+Sphaeria setosa Schwein.
 
 ### Remarks
 null

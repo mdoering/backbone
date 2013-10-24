@@ -1,5 +1,4 @@
-Ceraiomyces obesus Thaxt. SPECIES
-=======
+# Ceraiomyces obesus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

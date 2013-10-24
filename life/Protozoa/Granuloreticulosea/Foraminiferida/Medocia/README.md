@@ -1,5 +1,4 @@
-Medocia Parvati, 1971 GENUS
-=======
+# Medocia Parvati, 1971 GENUS
 
 #### Status
 ACCEPTED

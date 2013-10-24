@@ -1,17 +1,16 @@
-Moniliella nigrescens (Hocking & Pitt) Rosa & Lachance, 2009 SPECIES
-=======
+# Trichosporonoides nigrescens A.D. Hocking & Pitt, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Antonie van Leeuwenhoek 47(5): 413 (1981)
 
 #### Original name
-null
+Trichosporonoides nigrescens A.D. Hocking & Pitt, 1981
 
 ### Remarks
 null

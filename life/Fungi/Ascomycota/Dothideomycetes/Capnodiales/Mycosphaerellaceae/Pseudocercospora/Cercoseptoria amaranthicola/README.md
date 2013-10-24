@@ -1,5 +1,4 @@
-Cercoseptoria amaranthicola (J.M. Yen) J.M. Yen SPECIES
-=======
+# Cercoseptoria amaranthicola (J.M. Yen) J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

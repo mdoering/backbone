@@ -1,8 +1,7 @@
-Carcinoecetes matutae Ball, 1959 SPECIES
-=======
+# Nematopsis matutae Ball, 1959 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

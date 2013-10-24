@@ -1,5 +1,4 @@
-Spirostomum semivirescens Perty, 1852 SPECIES
-=======
+# Spirostomum semivirescens Perty, 1852 SPECIES
 
 #### Status
 ACCEPTED

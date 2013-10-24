@@ -1,5 +1,4 @@
-Simocybe tabacina E. Horak, 1980 SPECIES
-=======
+# Simocybe tabacina E. Horak, 1980 SPECIES
 
 #### Status
 ACCEPTED

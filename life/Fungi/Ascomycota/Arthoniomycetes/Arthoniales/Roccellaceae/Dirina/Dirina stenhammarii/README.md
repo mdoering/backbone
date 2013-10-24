@@ -1,17 +1,16 @@
-Lecanactis stenhammarii (Stenh.) Arnold SPECIES
-=======
+# Dirina stenhammarii (Fr. ex Stenh.) Poelt & Follmann SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 55: 196 (1871)
+null
 
 #### Original name
-Lecanora stenhammarii Fr. ex Stenh.
+null
 
 ### Remarks
 null

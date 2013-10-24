@@ -1,5 +1,4 @@
-Pouzaromyces horridus E. Horak SPECIES
-=======
+# Pouzaromyces horridus E. Horak SPECIES
 
 #### Status
 ACCEPTED

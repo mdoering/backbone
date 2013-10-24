@@ -1,5 +1,4 @@
-Strombidium globosum SPECIES
-=======
+# Strombidium globosum SPECIES
 
 #### Status
 ACCEPTED

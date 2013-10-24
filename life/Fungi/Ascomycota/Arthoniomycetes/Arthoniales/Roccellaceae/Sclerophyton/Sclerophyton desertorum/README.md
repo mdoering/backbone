@@ -1,5 +1,4 @@
-Sclerophyton desertorum Sparrius SPECIES
-=======
+# Sclerophyton desertorum Sparrius SPECIES
 
 #### Status
 ACCEPTED

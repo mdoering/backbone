@@ -1,5 +1,4 @@
-Lecidea salweyi Vain. SPECIES
-=======
+# Lecidea salweyi Vain. SPECIES
 
 #### Status
 ACCEPTED

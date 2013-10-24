@@ -1,5 +1,4 @@
-Naucoria crocea Velen. SPECIES
-=======
+# Naucoria crocea Velen. SPECIES
 
 #### Status
 ACCEPTED

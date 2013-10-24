@@ -1,5 +1,4 @@
-Caloplaca peregrina (Samp.) Samp. SPECIES
-=======
+# Caloplaca peregrina (Samp.) Samp. SPECIES
 
 #### Status
 ACCEPTED

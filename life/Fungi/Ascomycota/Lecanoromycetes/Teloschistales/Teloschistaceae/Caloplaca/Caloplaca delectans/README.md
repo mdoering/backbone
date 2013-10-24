@@ -1,5 +1,4 @@
-Caloplaca delectans Zahlbr. SPECIES
-=======
+# Caloplaca delectans Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

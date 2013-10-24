@@ -1,5 +1,4 @@
-Cercospora platyspora Ellis & Holw. SPECIES
-=======
+# Cercospora platyspora Ellis & Holw. SPECIES
 
 #### Status
 ACCEPTED

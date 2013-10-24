@@ -1,5 +1,4 @@
-Plectosphaera yakusimensis I. Hino & Katum., 1965 SPECIES
-=======
+# Plectosphaera yakusimensis I. Hino & Katum., 1965 SPECIES
 
 #### Status
 ACCEPTED

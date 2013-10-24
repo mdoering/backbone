@@ -1,5 +1,4 @@
-Cladosporium marinum A.K. Pal bis & Purkay., 1992 SPECIES
-=======
+# Cladosporium marinum A.K. Pal bis & Purkay., 1992 SPECIES
 
 #### Status
 ACCEPTED

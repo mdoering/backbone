@@ -1,5 +1,4 @@
-Metacoleroa Petr. GENUS
-=======
+# Metacoleroa Petr. GENUS
 
 #### Status
 ACCEPTED

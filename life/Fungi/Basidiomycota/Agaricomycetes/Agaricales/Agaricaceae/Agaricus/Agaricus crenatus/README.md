@@ -1,5 +1,4 @@
-Agaricus crenatus Lasch SPECIES
-=======
+# Agaricus crenatus Lasch SPECIES
 
 #### Status
 ACCEPTED

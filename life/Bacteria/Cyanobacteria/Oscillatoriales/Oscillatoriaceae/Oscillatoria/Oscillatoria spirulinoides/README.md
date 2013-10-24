@@ -1,5 +1,4 @@
-Oscillatoria spirulinoides Yoneda SPECIES
-=======
+# Oscillatoria spirulinoides Yoneda SPECIES
 
 #### Status
 ACCEPTED

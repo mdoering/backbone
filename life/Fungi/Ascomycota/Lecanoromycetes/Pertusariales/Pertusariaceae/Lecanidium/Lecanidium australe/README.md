@@ -1,5 +1,4 @@
-Lecanidium australe Speg. SPECIES
-=======
+# Lecanidium australe Speg. SPECIES
 
 #### Status
 ACCEPTED

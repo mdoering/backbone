@@ -1,14 +1,13 @@
-Ocellularia astrolucens Sipman SPECIES
-=======
+# Melanotrema astrolucens (Sipman) Frisch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trop. Bryol. 5: 87 (1992)
+in Frisch & Kalb, Biblthca Lichenol. 92: 385 (2006)
 
 #### Original name
 Ocellularia astrolucens Sipman

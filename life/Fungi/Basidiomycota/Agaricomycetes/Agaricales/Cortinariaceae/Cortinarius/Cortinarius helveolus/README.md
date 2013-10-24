@@ -1,5 +1,4 @@
-Cortinarius helveolus (Bull.) Fr. SPECIES
-=======
+# Cortinarius helveolus (Bull.) Fr. SPECIES
 
 #### Status
 ACCEPTED

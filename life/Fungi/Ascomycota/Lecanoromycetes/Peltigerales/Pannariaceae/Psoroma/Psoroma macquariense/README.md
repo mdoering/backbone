@@ -1,5 +1,4 @@
-Psoroma macquariense C.W. Dodge SPECIES
-=======
+# Psoroma macquariense C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sirosporium leptandrae (Davis) U. Braun & Crous SPECIES
-=======
+# Sirosporium leptandrae (Davis) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

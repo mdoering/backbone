@@ -1,5 +1,4 @@
-Arthonia carneorufa Willey SPECIES
-=======
+# Arthonia carneorufa Willey SPECIES
 
 #### Status
 ACCEPTED

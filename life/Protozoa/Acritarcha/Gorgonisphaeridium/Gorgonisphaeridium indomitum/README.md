@@ -1,5 +1,4 @@
-Gorgonisphaeridium indomitum Deunff, 1980 SPECIES
-=======
+# Gorgonisphaeridium indomitum Deunff, 1980 SPECIES
 
 #### Status
 ACCEPTED

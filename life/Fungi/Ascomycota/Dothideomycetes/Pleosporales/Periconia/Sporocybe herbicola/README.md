@@ -1,5 +1,4 @@
-Sporocybe herbicola Sacc. SPECIES
-=======
+# Sporocybe herbicola Sacc. SPECIES
 
 #### Status
 ACCEPTED

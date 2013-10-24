@@ -1,5 +1,4 @@
-Dibaeis inaequalis Kalb & Gierl SPECIES
-=======
+# Dibaeis inaequalis Kalb & Gierl SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Longtanella Sheng & Wang, 1985 GENUS
-=======
+# Longtanella Sheng & Wang, 1985 GENUS
 
 #### Status
 ACCEPTED

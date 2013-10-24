@@ -1,5 +1,4 @@
-Rimelia commensurata (Hale) Hale & A. Fletcher SPECIES
-=======
+# Rimelia commensurata (Hale) Hale & A. Fletcher SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pluteus glaucus Singer SPECIES
-=======
+# Pluteus glaucus Singer SPECIES
 
 #### Status
 ACCEPTED

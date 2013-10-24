@@ -1,5 +1,4 @@
-Phaeopezia marchica Rehm SPECIES
-=======
+# Phaeopezia marchica Rehm SPECIES
 
 #### Status
 ACCEPTED

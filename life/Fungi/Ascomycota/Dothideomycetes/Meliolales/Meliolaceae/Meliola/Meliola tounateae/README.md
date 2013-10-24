@@ -1,5 +1,4 @@
-Meliola tounateae F. Stevens SPECIES
-=======
+# Meliola tounateae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

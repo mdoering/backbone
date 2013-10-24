@@ -1,5 +1,4 @@
-Phyllosticta eucherae Ellis & Everh. SPECIES
-=======
+# Phyllosticta eucherae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

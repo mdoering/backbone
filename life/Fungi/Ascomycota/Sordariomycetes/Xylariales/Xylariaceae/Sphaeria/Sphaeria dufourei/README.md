@@ -1,5 +1,4 @@
-Sphaeria dufourei Fr. SPECIES
-=======
+# Sphaeria dufourei Fr. SPECIES
 
 #### Status
 ACCEPTED

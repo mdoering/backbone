@@ -1,5 +1,4 @@
-Mucor troglophilus Zalar, 1997 SPECIES
-=======
+# Mucor troglophilus Zalar, 1997 SPECIES
 
 #### Status
 ACCEPTED

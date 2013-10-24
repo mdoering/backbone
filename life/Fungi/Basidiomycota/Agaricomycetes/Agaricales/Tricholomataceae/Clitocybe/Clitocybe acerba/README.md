@@ -1,5 +1,4 @@
-Clitocybe acerba H.E. Bigelow SPECIES
-=======
+# Clitocybe acerba H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

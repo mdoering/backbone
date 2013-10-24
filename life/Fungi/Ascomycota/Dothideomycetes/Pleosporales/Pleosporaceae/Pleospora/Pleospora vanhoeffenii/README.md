@@ -1,5 +1,4 @@
-Pleospora vanhoeffenii Henn. SPECIES
-=======
+# Pleospora vanhoeffenii Henn. SPECIES
 
 #### Status
 ACCEPTED

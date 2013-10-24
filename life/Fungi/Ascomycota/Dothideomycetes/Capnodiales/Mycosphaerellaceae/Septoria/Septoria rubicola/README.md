@@ -1,5 +1,4 @@
-Septoria rubicola Hollós SPECIES
-=======
+# Septoria rubicola Hollós SPECIES
 
 #### Status
 ACCEPTED

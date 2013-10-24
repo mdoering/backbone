@@ -1,5 +1,4 @@
-Aulospathilla Haeckel, 1887 GENUS
-=======
+# Aulospathilla Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

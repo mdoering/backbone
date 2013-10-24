@@ -1,5 +1,4 @@
-Amanita atkinsoniana Coker SPECIES
-=======
+# Amanita atkinsoniana Coker SPECIES
 
 #### Status
 ACCEPTED

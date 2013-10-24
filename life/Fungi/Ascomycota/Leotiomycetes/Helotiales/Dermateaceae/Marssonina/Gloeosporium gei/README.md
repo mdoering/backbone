@@ -1,5 +1,4 @@
-Gloeosporium gei Trail SPECIES
-=======
+# Gloeosporium gei Trail SPECIES
 
 #### Status
 ACCEPTED

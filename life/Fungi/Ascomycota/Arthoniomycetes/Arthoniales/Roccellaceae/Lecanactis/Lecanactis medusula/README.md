@@ -1,5 +1,4 @@
-Lecanactis medusula (Pers.) Arnold SPECIES
-=======
+# Lecanactis medusula (Pers.) Arnold SPECIES
 
 #### Status
 ACCEPTED

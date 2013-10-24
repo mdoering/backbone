@@ -1,5 +1,4 @@
-Seynesia hammariana Henn. SPECIES
-=======
+# Seynesia hammariana Henn. SPECIES
 
 #### Status
 ACCEPTED

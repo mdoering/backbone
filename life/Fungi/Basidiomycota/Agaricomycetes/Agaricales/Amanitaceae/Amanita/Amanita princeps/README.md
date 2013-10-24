@@ -1,5 +1,4 @@
-Amanita princeps Corner & Bas SPECIES
-=======
+# Amanita princeps Corner & Bas SPECIES
 
 #### Status
 ACCEPTED

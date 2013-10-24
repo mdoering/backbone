@@ -1,5 +1,4 @@
-Meliola olecranonis F. Stevens & Tehon SPECIES
-=======
+# Meliola olecranonis F. Stevens & Tehon SPECIES
 
 #### Status
 ACCEPTED

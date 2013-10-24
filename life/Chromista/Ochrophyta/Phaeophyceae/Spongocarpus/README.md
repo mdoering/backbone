@@ -1,5 +1,4 @@
-Spongocarpus Kützing, 1843 GENUS
-=======
+# Spongocarpus Kützing, 1843 GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Zygorhizidium planktonicum f. synedrae Canter, 1972 FORM
-=======
+# Zygorhizidium planktonicum Canter, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Hedwigia 55: 437 (1972)
+J. Linn. Soc. , Bot. 60(no 381): 89 (1967)
 
 #### Original name
-Zygorhizidium planktonicum f. synedrae Canter, 1972
+Zygorhizidium planktonicum Canter, 1967
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Endopyrenium tephroides (Ach.) Boistel SPECIES
-=======
+# Endopyrenium tephroides (Ach.) Boistel SPECIES
 
 #### Status
 ACCEPTED

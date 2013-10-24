@@ -1,5 +1,4 @@
-Lecanora carnulenta Nyl. SPECIES
-=======
+# Lecanora carnulenta Nyl. SPECIES
 
 #### Status
 ACCEPTED

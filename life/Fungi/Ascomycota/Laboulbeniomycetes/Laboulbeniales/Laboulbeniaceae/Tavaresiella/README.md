@@ -1,5 +1,4 @@
-Tavaresiella T. Majewski, 1980 GENUS
-=======
+# Tavaresiella T. Majewski, 1980 GENUS
 
 #### Status
 ACCEPTED

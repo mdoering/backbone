@@ -1,5 +1,4 @@
-Sphaeria leonina Cooke & Peck SPECIES
-=======
+# Sphaeria leonina Cooke & Peck SPECIES
 
 #### Status
 ACCEPTED

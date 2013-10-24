@@ -1,5 +1,4 @@
-Cryptococcus farinae Pollacci & Nann. SPECIES
-=======
+# Cryptococcus farinae Pollacci & Nann. SPECIES
 
 #### Status
 ACCEPTED

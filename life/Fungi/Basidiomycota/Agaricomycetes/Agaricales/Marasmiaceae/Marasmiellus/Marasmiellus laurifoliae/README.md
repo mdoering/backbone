@@ -1,5 +1,4 @@
-Marasmiellus laurifoliae Singer SPECIES
-=======
+# Marasmiellus laurifoliae Singer SPECIES
 
 #### Status
 ACCEPTED

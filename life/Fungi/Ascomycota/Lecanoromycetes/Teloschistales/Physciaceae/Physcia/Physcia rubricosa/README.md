@@ -1,5 +1,4 @@
-Physcia rubricosa Stirt. SPECIES
-=======
+# Physcia rubricosa Stirt. SPECIES
 
 #### Status
 ACCEPTED

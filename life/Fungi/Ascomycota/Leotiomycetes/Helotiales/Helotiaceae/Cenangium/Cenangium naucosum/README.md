@@ -1,5 +1,4 @@
-Cenangium naucosum Fr. SPECIES
-=======
+# Cenangium naucosum Fr. SPECIES
 
 #### Status
 ACCEPTED

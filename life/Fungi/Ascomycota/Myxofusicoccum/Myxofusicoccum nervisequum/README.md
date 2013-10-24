@@ -1,5 +1,4 @@
-Myxofusicoccum nervisequum Höhn. SPECIES
-=======
+# Myxofusicoccum nervisequum Höhn. SPECIES
 
 #### Status
 ACCEPTED

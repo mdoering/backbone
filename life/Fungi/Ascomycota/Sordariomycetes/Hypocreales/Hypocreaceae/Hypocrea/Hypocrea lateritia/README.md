@@ -1,5 +1,4 @@
-Hypocrea lateritia Fr. SPECIES
-=======
+# Hypocrea lateritia Fr. SPECIES
 
 #### Status
 ACCEPTED

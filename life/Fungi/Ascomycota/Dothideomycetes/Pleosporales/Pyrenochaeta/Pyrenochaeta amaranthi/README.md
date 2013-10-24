@@ -1,5 +1,4 @@
-Pyrenochaeta amaranthi Purkay. & Mallik SPECIES
-=======
+# Pyrenochaeta amaranthi Purkay. & Mallik SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Volutella paraguayensis Speg. SPECIES
-=======
+# Volutella paraguayensis Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo tolimensis F. Kern & Whetzel SPECIES
-=======
+# Uredo tolimensis F. Kern & Whetzel SPECIES
 
 #### Status
 ACCEPTED

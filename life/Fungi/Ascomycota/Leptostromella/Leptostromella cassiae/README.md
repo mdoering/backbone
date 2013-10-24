@@ -1,5 +1,4 @@
-Leptostromella cassiae Dearn. SPECIES
-=======
+# Leptostromella cassiae Dearn. SPECIES
 
 #### Status
 ACCEPTED

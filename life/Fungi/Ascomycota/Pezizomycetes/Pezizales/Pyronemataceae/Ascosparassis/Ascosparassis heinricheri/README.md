@@ -1,14 +1,13 @@
-Ascosparassis heinricherii (Bres.) Pfister SPECIES
-=======
+# Ascosparassis heinricheri (Bres.) Pfister SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 71(1): 156 (1979)
 
 #### Original name
 Midotis heinricherii Bres.

@@ -1,5 +1,4 @@
-Omphalia incarnata (Murrill) Murrill SPECIES
-=======
+# Omphalia incarnata (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

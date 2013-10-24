@@ -1,5 +1,4 @@
-Roccella patellata Stirt. SPECIES
-=======
+# Roccella patellata Stirt. SPECIES
 
 #### Status
 ACCEPTED

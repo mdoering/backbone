@@ -1,5 +1,4 @@
-Camarops rickii J.D. Rogers SPECIES
-=======
+# Camarops rickii J.D. Rogers SPECIES
 
 #### Status
 ACCEPTED

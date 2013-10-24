@@ -1,5 +1,4 @@
-Ophiodothis alneum (Pers.) Ellis & Everh. SPECIES
-=======
+# Ophiodothis alneum (Pers.) Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

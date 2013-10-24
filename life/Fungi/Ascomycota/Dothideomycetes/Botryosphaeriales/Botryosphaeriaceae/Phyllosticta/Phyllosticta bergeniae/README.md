@@ -1,5 +1,4 @@
-Phyllosticta bergeniae Koval SPECIES
-=======
+# Phyllosticta bergeniae Koval SPECIES
 
 #### Status
 ACCEPTED

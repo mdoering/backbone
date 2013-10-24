@@ -1,5 +1,4 @@
-Adelosina depressa var. striata Wiesner, 1923 VARIETY
-=======
+# Adelosina depressa (d’Orbigny, 1852) SPECIES
 
 #### Status
 ACCEPTED

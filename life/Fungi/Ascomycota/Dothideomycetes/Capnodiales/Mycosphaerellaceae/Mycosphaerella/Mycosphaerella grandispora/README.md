@@ -1,5 +1,4 @@
-Mycosphaerella grandispora Bubák SPECIES
-=======
+# Mycosphaerella grandispora Bubák SPECIES
 
 #### Status
 ACCEPTED

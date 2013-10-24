@@ -1,5 +1,4 @@
-Coprinus cinchonensis Murrill SPECIES
-=======
+# Coprinus cinchonensis Murrill SPECIES
 
 #### Status
 ACCEPTED

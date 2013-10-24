@@ -1,17 +1,16 @@
-Everniastrum limaeforme (Taylor) Hale SPECIES
-=======
+# Everniastrum limiforme (Taylor) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 3(3): 348 (1976)
 
 #### Original name
-Parmelia limaeformis Taylor
+Everniastrum limiforme (Taylor) Hale
 
 ### Remarks
 null

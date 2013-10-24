@@ -1,5 +1,4 @@
-Hexaspongonium Haeckel, 1881 GENUS
-=======
+# Hexaspongonium Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

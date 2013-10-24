@@ -1,5 +1,4 @@
-Diplodia cistina Cooke SPECIES
-=======
+# Diplodia cistina Cooke SPECIES
 
 #### Status
 ACCEPTED

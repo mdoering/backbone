@@ -1,5 +1,4 @@
-Russula xenochlora P.D. Orton, 1999 SPECIES
-=======
+# Russula xenochlora P.D. Orton, 1999 SPECIES
 
 #### Status
 ACCEPTED

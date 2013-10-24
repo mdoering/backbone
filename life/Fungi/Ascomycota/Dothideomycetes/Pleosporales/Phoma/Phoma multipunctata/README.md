@@ -1,5 +1,4 @@
-Phoma multipunctata Sacc. SPECIES
-=======
+# Phoma multipunctata Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Erysibe rostellata anon. SPECIES
-=======
+# Erysibe rostellata anon. SPECIES
 
 #### Status
 ACCEPTED

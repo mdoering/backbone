@@ -1,5 +1,4 @@
-Baltisphaeridium admixtum Brideaux, 1971 SPECIES
-=======
+# Baltisphaeridium admixtum Brideaux, 1971 SPECIES
 
 #### Status
 ACCEPTED

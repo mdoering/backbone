@@ -1,5 +1,4 @@
-Cortinarius janthinocaulis Peintner & M.M. Moser SPECIES
-=======
+# Cortinarius janthinocaulis Peintner & M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

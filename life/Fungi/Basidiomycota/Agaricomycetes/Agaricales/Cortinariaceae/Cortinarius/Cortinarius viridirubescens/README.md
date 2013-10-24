@@ -1,5 +1,4 @@
-Cortinarius viridirubescens M.M. Moser & Ammirati SPECIES
-=======
+# Cortinarius viridirubescens M.M. Moser & Ammirati SPECIES
 
 #### Status
 ACCEPTED

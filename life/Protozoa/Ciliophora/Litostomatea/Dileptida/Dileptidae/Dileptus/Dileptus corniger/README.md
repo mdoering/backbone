@@ -1,5 +1,4 @@
-Dileptus corniger Fromentel, 1876 SPECIES
-=======
+# Dileptus corniger Fromentel, 1876 SPECIES
 
 #### Status
 ACCEPTED

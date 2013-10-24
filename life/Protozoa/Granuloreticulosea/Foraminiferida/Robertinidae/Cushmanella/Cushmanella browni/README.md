@@ -1,5 +1,4 @@
-Cushmanella browni SPECIES
-=======
+# Cushmanella browni SPECIES
 
 #### Status
 ACCEPTED

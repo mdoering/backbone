@@ -1,5 +1,4 @@
-Pseudozyma jejuensis H.S. Seo, Um, J. Min, Rhee, T.J. Cho, Yang H. Kim & Jeew. Lee SPECIES
-=======
+# Pseudozyma jejuensis H.S. Seo, Um, J. Min, Rhee, T.J. Cho, Yang H. Kim & Jeew. Lee SPECIES
 
 #### Status
 ACCEPTED

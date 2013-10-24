@@ -1,5 +1,4 @@
-Ramularia smyrnii-olusatri Unamuno SPECIES
-=======
+# Ramularia smyrnii-olusatri Unamuno SPECIES
 
 #### Status
 ACCEPTED

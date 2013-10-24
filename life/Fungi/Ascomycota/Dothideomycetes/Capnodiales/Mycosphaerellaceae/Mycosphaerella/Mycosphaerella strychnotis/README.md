@@ -1,5 +1,4 @@
-Mycosphaerella strychnotis S.M. Lin & P.K. Chi SPECIES
-=======
+# Mycosphaerella strychnotis S.M. Lin & P.K. Chi SPECIES
 
 #### Status
 ACCEPTED

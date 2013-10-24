@@ -1,5 +1,4 @@
-Quadrum gothicum (Deflandre, 1959) Prins & Perch-Nielsen in Manivit et al., 1977 SPECIES
-=======
+# Quadrum gothicum (Deflandre, 1959) Prins & Perch-Nielsen in Manivit et al., 1977 SPECIES
 
 #### Status
 ACCEPTED

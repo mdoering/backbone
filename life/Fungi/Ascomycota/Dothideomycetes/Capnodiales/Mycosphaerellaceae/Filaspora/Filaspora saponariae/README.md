@@ -1,5 +1,4 @@
-Filaspora saponariae (Bres. & Sacc.) Kuntze SPECIES
-=======
+# Filaspora saponariae (Bres. & Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

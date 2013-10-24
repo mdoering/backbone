@@ -1,5 +1,4 @@
-Cortinarius comarostaphylii Ammirati, Halling & Garnica SPECIES
-=======
+# Cortinarius comarostaphylii Ammirati, Halling & Garnica SPECIES
 
 #### Status
 ACCEPTED

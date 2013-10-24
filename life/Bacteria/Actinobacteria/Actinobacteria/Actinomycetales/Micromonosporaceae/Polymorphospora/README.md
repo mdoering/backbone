@@ -1,5 +1,4 @@
-Polymorphospora Tamura et al., 2006 GENUS
-=======
+# Polymorphospora Tamura et al., 2006 GENUS
 
 #### Status
 ACCEPTED

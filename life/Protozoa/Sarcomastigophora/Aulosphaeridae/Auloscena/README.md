@@ -1,5 +1,4 @@
-Auloscena Haeckel, 1887 GENUS
-=======
+# Auloscena Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

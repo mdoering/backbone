@@ -1,5 +1,4 @@
-Xanthoparmelia mollis Hale SPECIES
-=======
+# Xanthoparmelia mollis Hale SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeospora umbilicariae (Linds.) Arnold SPECIES
-=======
+# Phaeospora umbilicariae (Linds.) Arnold SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptorhaphis gibba (Nyl.) Boistel SPECIES
-=======
+# Leptorhaphis gibba (Nyl.) Boistel SPECIES
 
 #### Status
 ACCEPTED

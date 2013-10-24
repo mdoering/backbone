@@ -1,5 +1,4 @@
-Datronia Donk, 1967 GENUS
-=======
+# Datronia Donk, 1967 GENUS
 
 #### Status
 ACCEPTED

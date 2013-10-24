@@ -1,5 +1,4 @@
-Amanita pudica (Beeli) Walleyn SPECIES
-=======
+# Amanita pudica (Beeli) Walleyn SPECIES
 
 #### Status
 ACCEPTED

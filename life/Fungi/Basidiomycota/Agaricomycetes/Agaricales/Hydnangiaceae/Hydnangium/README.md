@@ -1,5 +1,4 @@
-Hydnangium Wallroth, 1839 GENUS
-=======
+# Hydnangium Wallroth, 1839 GENUS
 
 #### Status
 ACCEPTED

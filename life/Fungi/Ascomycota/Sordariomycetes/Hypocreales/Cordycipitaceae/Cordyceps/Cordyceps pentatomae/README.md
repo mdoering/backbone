@@ -1,5 +1,4 @@
-Cordyceps pentatomae Koval SPECIES
-=======
+# Cordyceps pentatomae Koval SPECIES
 
 #### Status
 ACCEPTED

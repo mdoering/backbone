@@ -1,5 +1,4 @@
-Phyllosticta quinquefoliae Allesch. SPECIES
-=======
+# Phyllosticta quinquefoliae Allesch. SPECIES
 
 #### Status
 ACCEPTED

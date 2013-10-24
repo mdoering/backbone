@@ -1,5 +1,4 @@
-Cercospora sanguinea Fuckel SPECIES
-=======
+# Cercospora sanguinea Fuckel SPECIES
 
 #### Status
 ACCEPTED

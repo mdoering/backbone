@@ -1,5 +1,4 @@
-Catosphaeropsis caulivora Tehon SPECIES
-=======
+# Catosphaeropsis caulivora Tehon SPECIES
 
 #### Status
 ACCEPTED

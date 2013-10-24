@@ -1,5 +1,4 @@
-Psilopezia juruensis Henn. SPECIES
-=======
+# Psilopezia juruensis Henn. SPECIES
 
 #### Status
 ACCEPTED

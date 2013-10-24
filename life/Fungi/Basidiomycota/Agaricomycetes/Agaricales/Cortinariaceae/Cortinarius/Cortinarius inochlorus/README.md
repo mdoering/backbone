@@ -1,5 +1,4 @@
-Cortinarius inochlorus Maire SPECIES
-=======
+# Cortinarius inochlorus Maire SPECIES
 
 #### Status
 ACCEPTED

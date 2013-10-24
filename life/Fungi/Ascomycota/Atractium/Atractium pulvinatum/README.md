@@ -1,5 +1,4 @@
-Atractium pulvinatum Link SPECIES
-=======
+# Atractium pulvinatum Link SPECIES
 
 #### Status
 ACCEPTED

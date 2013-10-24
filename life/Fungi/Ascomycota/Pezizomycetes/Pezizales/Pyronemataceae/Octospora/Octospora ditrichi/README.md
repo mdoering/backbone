@@ -1,5 +1,4 @@
-Octospora ditrichi (Benkert) Yei Z. Wang SPECIES
-=======
+# Octospora ditrichi (Benkert) Yei Z. Wang SPECIES
 
 #### Status
 ACCEPTED

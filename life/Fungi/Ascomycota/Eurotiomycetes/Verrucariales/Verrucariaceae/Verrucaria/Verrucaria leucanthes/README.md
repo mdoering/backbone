@@ -1,5 +1,4 @@
-Verrucaria leucanthes Stirt. SPECIES
-=======
+# Verrucaria leucanthes Stirt. SPECIES
 
 #### Status
 ACCEPTED

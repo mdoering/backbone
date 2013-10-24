@@ -1,5 +1,4 @@
-Sarcogyne sphaerospora J. Steiner SPECIES
-=======
+# Sarcogyne sphaerospora J. Steiner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dimorphospora foliicola Tubaki, 1958 SPECIES
-=======
+# Dimorphospora foliicola Tubaki, 1958 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gavelinellidae Hofker, 1956 FAMILY
-=======
+# Gavelinellidae Hofker, 1956 FAMILY
 
 #### Status
 ACCEPTED

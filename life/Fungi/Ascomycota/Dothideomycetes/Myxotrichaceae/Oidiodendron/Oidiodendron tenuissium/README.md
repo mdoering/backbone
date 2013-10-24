@@ -1,5 +1,4 @@
-Oidiodendron tenuissium (Peck) S. Hughes, 1958 SPECIES
-=======
+# Oidiodendron tenuissium (Peck) S. Hughes, 1958 SPECIES
 
 #### Status
 ACCEPTED

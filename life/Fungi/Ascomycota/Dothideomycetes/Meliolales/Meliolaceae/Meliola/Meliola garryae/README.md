@@ -1,5 +1,4 @@
-Meliola garryae Hansf. SPECIES
-=======
+# Meliola garryae Hansf. SPECIES
 
 #### Status
 ACCEPTED

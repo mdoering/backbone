@@ -1,5 +1,4 @@
-Zeus Minter & Diam., 1987 GENUS
-=======
+# Zeus Minter & Diam., 1987 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phellinus periclitatus Corner SPECIES
-=======
+# Phellinus periclitatus Corner SPECIES
 
 #### Status
 ACCEPTED

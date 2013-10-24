@@ -1,14 +1,13 @@
-Agaricus hyperion Cooke & Massee, 1888 SPECIES
-=======
+# Phylloporus hyperion (Cooke & Massee) Singer, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 16(no. 79): 72 (1888)
+Sydowia 15: 82 (1962)
 
 #### Original name
 Agaricus hyperion Cooke & Massee, 1888

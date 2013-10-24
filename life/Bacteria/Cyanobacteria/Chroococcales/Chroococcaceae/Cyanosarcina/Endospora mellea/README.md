@@ -1,5 +1,4 @@
-Endospora mellea Gardner SPECIES
-=======
+# Endospora mellea Gardner SPECIES
 
 #### Status
 DOUBTFUL

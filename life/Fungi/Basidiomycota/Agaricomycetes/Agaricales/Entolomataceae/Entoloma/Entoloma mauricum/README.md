@@ -1,5 +1,4 @@
-Entoloma mauricum P.-A. Moreau, Corriol, Borgarino & Lavoise SPECIES
-=======
+# Entoloma mauricum P.-A. Moreau, Corriol, Borgarino & Lavoise SPECIES
 
 #### Status
 ACCEPTED

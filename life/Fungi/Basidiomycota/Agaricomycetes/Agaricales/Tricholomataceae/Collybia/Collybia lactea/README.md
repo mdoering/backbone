@@ -1,5 +1,4 @@
-Collybia lactea Quél. SPECIES
-=======
+# Collybia lactea Quél. SPECIES
 
 #### Status
 ACCEPTED

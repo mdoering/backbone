@@ -1,5 +1,4 @@
-Hypogymnia elongata (Hillmann) Rass. SPECIES
-=======
+# Hypogymnia elongata (Hillmann) Rass. SPECIES
 
 #### Status
 ACCEPTED

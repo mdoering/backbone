@@ -1,5 +1,4 @@
-Nassula gigas SPECIES
-=======
+# Nassula gigas SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phlebia tremelloides Berk. & M.A. Curtis SPECIES
-=======
+# Phlebia tremelloides Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

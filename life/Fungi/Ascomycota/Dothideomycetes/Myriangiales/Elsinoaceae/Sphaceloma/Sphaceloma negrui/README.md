@@ -1,5 +1,4 @@
-Sphaceloma negrui M. Morelet SPECIES
-=======
+# Sphaceloma negrui M. Morelet SPECIES
 
 #### Status
 ACCEPTED

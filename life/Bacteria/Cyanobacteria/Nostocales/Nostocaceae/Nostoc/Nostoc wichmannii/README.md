@@ -1,5 +1,4 @@
-Nostoc wichmannii Weber-van Bosse SPECIES
-=======
+# Nostoc wichmannii Weber-van Bosse SPECIES
 
 #### Status
 ACCEPTED

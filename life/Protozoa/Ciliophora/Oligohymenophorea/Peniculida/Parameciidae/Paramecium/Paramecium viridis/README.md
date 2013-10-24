@@ -1,5 +1,4 @@
-Paramecium viridis Dumas, 1930 SPECIES
-=======
+# Paramecium viridis Dumas, 1930 SPECIES
 
 #### Status
 ACCEPTED

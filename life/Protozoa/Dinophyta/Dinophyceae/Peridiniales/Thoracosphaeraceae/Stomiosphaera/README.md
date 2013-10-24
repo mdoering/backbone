@@ -1,5 +1,4 @@
-Stomiosphaera Wanner, 1941 GENUS
-=======
+# Stomiosphaera Wanner, 1941 GENUS
 
 #### Status
 ACCEPTED

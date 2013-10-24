@@ -1,5 +1,4 @@
-Knufia L.J. Hutchison & Unter. GENUS
-=======
+# Knufia L.J. Hutchison & Unter. GENUS
 
 #### Status
 ACCEPTED

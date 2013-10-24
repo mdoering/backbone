@@ -1,5 +1,4 @@
-Gloeosporium lagenariae (Thüm.) Grove SPECIES
-=======
+# Gloeosporium lagenariae (Thüm.) Grove SPECIES
 
 #### Status
 ACCEPTED

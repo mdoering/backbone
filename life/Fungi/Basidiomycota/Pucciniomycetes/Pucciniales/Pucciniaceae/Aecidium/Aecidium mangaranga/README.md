@@ -1,5 +1,4 @@
-Aecidium mangaranga Henn. SPECIES
-=======
+# Aecidium mangaranga Henn. SPECIES
 
 #### Status
 ACCEPTED

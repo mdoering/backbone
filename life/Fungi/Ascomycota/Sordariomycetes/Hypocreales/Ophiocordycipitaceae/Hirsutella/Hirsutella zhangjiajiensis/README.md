@@ -1,5 +1,4 @@
-Hirsutella zhangjiajiensis Z.Q. Liang & A.Y. Liu SPECIES
-=======
+# Hirsutella zhangjiajiensis Z.Q. Liang & A.Y. Liu SPECIES
 
 #### Status
 ACCEPTED

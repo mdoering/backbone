@@ -1,17 +1,16 @@
-Penicillium frequentans Westling, 1912 SPECIES
-=======
+# Penicillium glabrum (Wehmer) Westling, 1911 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ark. Bot. 11(1): 133 (1912)
+Arch. für Botanik 11(1): 131 (1911)
 
 #### Original name
-Penicillium frequentans Westling, 1912
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Didascalus Singh, 1952 GENUS
-=======
+# Didascalus Singh, 1952 GENUS
 
 #### Status
 ACCEPTED

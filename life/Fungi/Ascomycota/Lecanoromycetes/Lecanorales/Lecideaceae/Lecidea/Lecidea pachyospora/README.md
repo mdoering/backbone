@@ -1,5 +1,4 @@
-Lecidea pachyospora (A. Massal.) Stizenb. SPECIES
-=======
+# Lecidea pachyospora (A. Massal.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Domasia quiquispinosa Dorning & Hill, 1991 in White, Barron, Barnes & Lintern, 1991 SPECIES
-=======
+# Domasia quiquispinosa Dorning & Hill, 1991 in White, Barron, Barnes & Lintern, 1991 SPECIES
 
 #### Status
 ACCEPTED

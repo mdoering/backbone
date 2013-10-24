@@ -1,5 +1,4 @@
-Lobaria angustifolia (Asahina) Yoshim. SPECIES
-=======
+# Lobaria angustifolia (Asahina) Yoshim. SPECIES
 
 #### Status
 ACCEPTED

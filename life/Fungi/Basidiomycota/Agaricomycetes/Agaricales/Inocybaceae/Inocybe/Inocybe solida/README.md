@@ -1,5 +1,4 @@
-Inocybe solida Velen. SPECIES
-=======
+# Inocybe solida Velen. SPECIES
 
 #### Status
 ACCEPTED

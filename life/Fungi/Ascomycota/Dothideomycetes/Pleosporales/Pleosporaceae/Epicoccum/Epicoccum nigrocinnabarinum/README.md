@@ -1,5 +1,4 @@
-Epicoccum nigrocinnabarinum Höhn. SPECIES
-=======
+# Epicoccum nigrocinnabarinum Höhn. SPECIES
 
 #### Status
 ACCEPTED

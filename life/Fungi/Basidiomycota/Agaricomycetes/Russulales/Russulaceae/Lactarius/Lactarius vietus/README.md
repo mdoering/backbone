@@ -1,17 +1,16 @@
-Agaricus vietus var. vietus VARIETY
-=======
+# Lactarius vietus (Fr.) Fr., 1838 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Epicr. syst. mycol. (Upsaliae) 344 (1838)
 
 #### Original name
-Agaricus vietus var. vietus
+Agaricus vietus Fr., 1821
 
 ### Remarks
 null

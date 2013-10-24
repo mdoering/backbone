@@ -1,5 +1,4 @@
-Agaricus capillaceus Gillet SPECIES
-=======
+# Agaricus capillaceus Gillet SPECIES
 
 #### Status
 ACCEPTED

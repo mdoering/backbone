@@ -1,17 +1,16 @@
-Clavaria americana R.H. Petersen, 1969 SPECIES
-=======
+# Clavaria globospora Kauffman, 1928 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 47(7): 1137 (1969)
+Pap. Mich. Acad. Sci. 8: 148 (1928)
 
 #### Original name
-Clavaria americana R.H. Petersen, 1969
+Clavaria globospora Kauffman, 1928
 
 ### Remarks
 null

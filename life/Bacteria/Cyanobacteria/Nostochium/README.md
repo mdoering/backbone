@@ -1,5 +1,4 @@
-Nostochium Link GENUS
-=======
+# Nostochium Link GENUS
 
 #### Status
 ACCEPTED

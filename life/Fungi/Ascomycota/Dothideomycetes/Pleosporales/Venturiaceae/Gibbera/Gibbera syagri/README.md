@@ -1,5 +1,4 @@
-Gibbera syagri Bat. & Cif. SPECIES
-=======
+# Gibbera syagri Bat. & Cif. SPECIES
 
 #### Status
 ACCEPTED

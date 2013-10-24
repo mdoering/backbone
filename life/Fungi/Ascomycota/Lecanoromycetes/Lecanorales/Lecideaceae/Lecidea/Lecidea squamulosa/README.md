@@ -1,5 +1,4 @@
-Lecidea squamulosa Deakin SPECIES
-=======
+# Lecidea squamulosa Deakin SPECIES
 
 #### Status
 ACCEPTED

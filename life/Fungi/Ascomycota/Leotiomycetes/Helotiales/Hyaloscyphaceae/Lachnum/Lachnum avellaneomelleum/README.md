@@ -1,5 +1,4 @@
-Lachnum avellaneomelleum (Starbäck) M.P. Sharma SPECIES
-=======
+# Lachnum avellaneomelleum (Starbäck) M.P. Sharma SPECIES
 
 #### Status
 ACCEPTED

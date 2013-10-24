@@ -1,5 +1,4 @@
-Calloria hungarica Rehm SPECIES
-=======
+# Calloria hungarica Rehm SPECIES
 
 #### Status
 ACCEPTED

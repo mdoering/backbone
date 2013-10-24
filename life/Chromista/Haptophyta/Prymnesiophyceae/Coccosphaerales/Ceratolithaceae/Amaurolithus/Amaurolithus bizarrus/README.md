@@ -1,5 +1,4 @@
-Amaurolithus bizarrus (Bukry, 1973) Gartner & Bukry, 1975 SPECIES
-=======
+# Amaurolithus bizarrus (Bukry, 1973) Gartner & Bukry, 1975 SPECIES
 
 #### Status
 ACCEPTED

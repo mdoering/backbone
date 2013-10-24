@@ -1,5 +1,4 @@
-Moellerodiscus coprosmae P.R. Johnst., 2009 SPECIES
-=======
+# Moellerodiscus coprosmae P.R. Johnst., 2009 SPECIES
 
 #### Status
 ACCEPTED

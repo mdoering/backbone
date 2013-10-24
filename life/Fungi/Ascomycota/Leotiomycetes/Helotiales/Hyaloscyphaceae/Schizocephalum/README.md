@@ -1,5 +1,4 @@
-Schizocephalum GENUS
-=======
+# Schizocephalum GENUS
 
 #### Status
 ACCEPTED

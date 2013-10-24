@@ -1,5 +1,4 @@
-Opegrapha deusta De Not. ex Jatta SPECIES
-=======
+# Opegrapha deusta De Not. ex Jatta SPECIES
 
 #### Status
 ACCEPTED

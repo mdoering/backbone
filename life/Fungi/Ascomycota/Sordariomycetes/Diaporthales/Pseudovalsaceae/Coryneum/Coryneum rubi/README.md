@@ -1,5 +1,4 @@
-Coryneum rubi (Corda) Sacc. SPECIES
-=======
+# Coryneum rubi (Corda) Sacc. SPECIES
 
 #### Status
 ACCEPTED

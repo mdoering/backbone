@@ -1,5 +1,4 @@
-Ataxoorbignyna GENUS
-=======
+# Ataxoorbignyna GENUS
 
 #### Status
 ACCEPTED

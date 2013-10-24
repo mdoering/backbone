@@ -1,5 +1,4 @@
-Azotobacter salinestris Page & Shivprasad, 1991 SPECIES
-=======
+# Azotobacter salinestris Page & Shivprasad, 1991 SPECIES
 
 #### Status
 ACCEPTED

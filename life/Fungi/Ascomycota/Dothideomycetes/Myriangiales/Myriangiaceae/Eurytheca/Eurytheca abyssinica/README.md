@@ -1,5 +1,4 @@
-Eurytheca abyssinica Pass. SPECIES
-=======
+# Eurytheca abyssinica Pass. SPECIES
 
 #### Status
 ACCEPTED

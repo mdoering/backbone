@@ -1,5 +1,4 @@
-Polyporus kansensis Ellis & Barth. SPECIES
-=======
+# Polyporus kansensis Ellis & Barth. SPECIES
 
 #### Status
 ACCEPTED

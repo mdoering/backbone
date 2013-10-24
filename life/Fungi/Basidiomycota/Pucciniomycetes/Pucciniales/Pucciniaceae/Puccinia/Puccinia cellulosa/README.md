@@ -1,5 +1,4 @@
-Puccinia cellulosa Berk. & M.A. Curtis ex R.H. Petersen SPECIES
-=======
+# Puccinia cellulosa Berk. & M.A. Curtis ex R.H. Petersen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dennisiodiscus crossotus (Ellis) Svrcek SPECIES
-=======
+# Dennisiodiscus crossotus (Ellis) Svrcek SPECIES
 
 #### Status
 ACCEPTED

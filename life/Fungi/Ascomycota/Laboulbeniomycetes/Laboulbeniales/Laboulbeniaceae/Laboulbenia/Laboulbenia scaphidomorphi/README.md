@@ -1,5 +1,4 @@
-Laboulbenia scaphidomorphi Speg. SPECIES
-=======
+# Laboulbenia scaphidomorphi Speg. SPECIES
 
 #### Status
 ACCEPTED

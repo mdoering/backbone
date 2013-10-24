@@ -1,5 +1,4 @@
-Kuehneola papuana Cummins SPECIES
-=======
+# Kuehneola papuana Cummins SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula diaboli Singer SPECIES
-=======
+# Russula diaboli Singer SPECIES
 
 #### Status
 ACCEPTED

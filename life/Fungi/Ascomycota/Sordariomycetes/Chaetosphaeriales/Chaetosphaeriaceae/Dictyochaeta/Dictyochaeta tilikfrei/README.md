@@ -1,5 +1,4 @@
-Dictyochaeta tilikfrei Bhat & B. Sutton SPECIES
-=======
+# Dictyochaeta tilikfrei Bhat & B. Sutton SPECIES
 
 #### Status
 ACCEPTED

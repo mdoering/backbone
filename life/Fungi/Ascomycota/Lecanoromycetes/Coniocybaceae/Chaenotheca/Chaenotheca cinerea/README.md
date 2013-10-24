@@ -1,17 +1,16 @@
-Calicium schaereri f. schaereri FORM
-=======
+# Chaenotheca cinerea (Pers.) Tibell SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Symb. bot. upsal. 23(no. 1): 30 (1980)
 
 #### Original name
-Calicium schaereri f. schaereri
+Calicium cinereum Pers.
 
 ### Remarks
 null

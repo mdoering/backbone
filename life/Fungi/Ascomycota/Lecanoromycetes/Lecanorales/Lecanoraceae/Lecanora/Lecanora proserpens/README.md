@@ -1,5 +1,4 @@
-Lecanora proserpens Nyl. SPECIES
-=======
+# Lecanora proserpens Nyl. SPECIES
 
 #### Status
 ACCEPTED

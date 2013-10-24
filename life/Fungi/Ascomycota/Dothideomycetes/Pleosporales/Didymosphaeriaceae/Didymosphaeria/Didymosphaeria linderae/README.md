@@ -1,5 +1,4 @@
-Didymosphaeria linderae Sacc. SPECIES
-=======
+# Didymosphaeria linderae Sacc. SPECIES
 
 #### Status
 ACCEPTED

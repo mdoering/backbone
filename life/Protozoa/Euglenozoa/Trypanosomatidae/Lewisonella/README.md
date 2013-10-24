@@ -1,5 +1,4 @@
-Lewisonella Chalmers, 1918 GENUS
-=======
+# Lewisonella Chalmers, 1918 GENUS
 
 #### Status
 ACCEPTED

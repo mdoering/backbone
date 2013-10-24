@@ -1,5 +1,4 @@
-Mycena fimicola P. Karst. SPECIES
-=======
+# Mycena fimicola P. Karst. SPECIES
 
 #### Status
 ACCEPTED

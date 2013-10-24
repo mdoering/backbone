@@ -1,5 +1,4 @@
-Dadayiella curta Kofoid & Campbell, 1929 SPECIES
-=======
+# Dadayiella curta Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

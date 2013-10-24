@@ -1,5 +1,4 @@
-Psilocybe pteridophytorum Singer SPECIES
-=======
+# Psilocybe pteridophytorum Singer SPECIES
 
 #### Status
 ACCEPTED

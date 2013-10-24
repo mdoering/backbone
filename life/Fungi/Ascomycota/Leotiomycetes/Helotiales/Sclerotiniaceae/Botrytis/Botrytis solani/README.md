@@ -1,5 +1,4 @@
-Botrytis solani Harting SPECIES
-=======
+# Botrytis solani Harting SPECIES
 
 #### Status
 ACCEPTED

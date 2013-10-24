@@ -1,5 +1,4 @@
-Neochlamydia hartmannellae Horn et al., 2001 SPECIES
-=======
+# Neochlamydia hartmannellae Horn et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

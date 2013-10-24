@@ -1,5 +1,4 @@
-Prorodon parafarctus SPECIES
-=======
+# Prorodon parafarctus SPECIES
 
 #### Status
 ACCEPTED

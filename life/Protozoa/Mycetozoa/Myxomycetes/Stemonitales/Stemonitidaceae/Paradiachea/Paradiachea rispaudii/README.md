@@ -1,14 +1,13 @@
-Comatricha rispaudii Hagelst., 1929 SPECIES
-=======
+# Paradiachea rispaudii (Hagelst.) Hertel ex H. Neubert, Nowotny & K. Baumann, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 21(5): 297 (1929)
+Die Myxomyceten (Gomaringen), Deutschlands und des Angrenzenden Alpenraumes Unter Besonderer Berücksichtigung Österreichs. <b>3</b>. <i>Stemonitales</i> 3: 250 (2000)
 
 #### Original name
 Comatricha rispaudii Hagelst., 1929

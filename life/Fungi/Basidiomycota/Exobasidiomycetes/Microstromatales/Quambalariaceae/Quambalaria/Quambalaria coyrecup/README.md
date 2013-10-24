@@ -1,5 +1,4 @@
-Quambalaria coyrecup T. Paap SPECIES
-=======
+# Quambalaria coyrecup T. Paap SPECIES
 
 #### Status
 ACCEPTED

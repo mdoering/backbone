@@ -1,5 +1,4 @@
-Fragilaria grandis Ehrenberg SPECIES
-=======
+# Fragilaria grandis Ehrenberg SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Blepharoconus krugerensis SPECIES
-=======
+# Blepharoconus krugerensis SPECIES
 
 #### Status
 ACCEPTED

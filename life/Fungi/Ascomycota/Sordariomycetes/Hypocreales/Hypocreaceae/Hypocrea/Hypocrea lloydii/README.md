@@ -1,5 +1,4 @@
-Hypocrea lloydii Bres. SPECIES
-=======
+# Hypocrea lloydii Bres. SPECIES
 
 #### Status
 ACCEPTED

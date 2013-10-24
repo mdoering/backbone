@@ -1,5 +1,4 @@
-Ureaplasma canigenitalium Harasawa et al., 1993 SPECIES
-=======
+# Ureaplasma canigenitalium Harasawa et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

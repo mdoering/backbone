@@ -1,17 +1,16 @@
-Helmisporium molle Berk. & M.A. Curtis SPECIES
-=======
+# Helminthosporium molle Berk. & M.A. Curtis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Berkeley, J. Linn. Soc. , Bot. 10(no. 46): 361 (1868)
 
 #### Original name
-Helmisporium molle Berk. & M.A. Curtis
+Helminthosporium molle Berk. & M.A. Curtis
 
 ### Remarks
 null

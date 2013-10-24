@@ -1,5 +1,4 @@
-Cylindrocarpon liriodendri J.D. MacDon. & E.E. Butler, 1981 SPECIES
-=======
+# Cylindrocarpon liriodendri J.D. MacDon. & E.E. Butler, 1981 SPECIES
 
 #### Status
 ACCEPTED

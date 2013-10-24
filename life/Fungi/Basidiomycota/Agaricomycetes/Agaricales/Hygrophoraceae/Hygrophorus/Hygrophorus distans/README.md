@@ -1,5 +1,4 @@
-Hygrophorus distans Berk. SPECIES
-=======
+# Hygrophorus distans Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bulleromyces Boekhout & Á. Fonseca GENUS
-=======
+# Bulleromyces Boekhout & Á. Fonseca GENUS
 
 #### Status
 ACCEPTED

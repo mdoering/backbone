@@ -1,5 +1,4 @@
-Aecidium cichorii Namysl. SPECIES
-=======
+# Aecidium cichorii Namysl. SPECIES
 
 #### Status
 ACCEPTED

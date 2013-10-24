@@ -1,5 +1,4 @@
-Pseudotrype GENUS
-=======
+# Pseudotrype GENUS
 
 #### Status
 ACCEPTED

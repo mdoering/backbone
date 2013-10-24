@@ -1,5 +1,4 @@
-Marasmiellus praeacutus (Ellis) Halling SPECIES
-=======
+# Marasmiellus praeacutus (Ellis) Halling SPECIES
 
 #### Status
 ACCEPTED

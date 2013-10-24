@@ -1,5 +1,4 @@
-Lactifluus venustus (Durieu & Lév.) Kuntze SPECIES
-=======
+# Lactifluus venustus (Durieu & Lév.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

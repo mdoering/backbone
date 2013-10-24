@@ -1,5 +1,4 @@
-Vaucheria glomerata Blum & Womersley SPECIES
-=======
+# Vaucheria glomerata Blum & Womersley SPECIES
 
 #### Status
 ACCEPTED

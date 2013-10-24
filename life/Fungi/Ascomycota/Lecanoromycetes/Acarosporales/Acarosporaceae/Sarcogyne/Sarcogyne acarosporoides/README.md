@@ -1,5 +1,4 @@
-Sarcogyne acarosporoides Anzi SPECIES
-=======
+# Sarcogyne acarosporoides Anzi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporormia commutata Niessl SPECIES
-=======
+# Sporormia commutata Niessl SPECIES
 
 #### Status
 ACCEPTED

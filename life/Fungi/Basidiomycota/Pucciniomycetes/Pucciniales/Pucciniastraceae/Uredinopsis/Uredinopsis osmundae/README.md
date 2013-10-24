@@ -1,5 +1,4 @@
-Uredinopsis osmundae Magnus, 1904 SPECIES
-=======
+# Uredinopsis osmundae Magnus, 1904 SPECIES
 
 #### Status
 ACCEPTED

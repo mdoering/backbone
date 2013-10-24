@@ -1,5 +1,4 @@
-Physcia perrugosa (Müll. Arg.) Stizenb. SPECIES
-=======
+# Physcia perrugosa (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Desulfosporosinus Stackebrandt, Sproer, Rainey, Burghardt, Pauker & Hippe, 1997 GENUS
-=======
+# Desulfosporosinus Stackebrandt, Sproer, Rainey, Burghardt, Pauker & Hippe, 1997 GENUS
 
 #### Status
 ACCEPTED

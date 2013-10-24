@@ -1,8 +1,7 @@
-Glaphyrammina americanus Cushman, 1910 SPECIES
-=======
+# Glaphyrammina americana (Cushman, 1910) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

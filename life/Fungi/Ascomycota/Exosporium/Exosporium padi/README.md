@@ -1,5 +1,4 @@
-Exosporium padi P. Karst. SPECIES
-=======
+# Exosporium padi P. Karst. SPECIES
 
 #### Status
 ACCEPTED

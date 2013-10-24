@@ -1,8 +1,7 @@
-Ophiochaeta trichella (Sacc., E. Bommer & M. Rousseau) Sacc., 1895 SPECIES
-=======
+# Taphrophila trichella (Sacc., E. Bommer & M. Rousseau) Réblová & M.E. Barr, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-Ophiobolus trichellus Sacc., E. Bommer & M. Rousseau, 1891
+null
 
 ### Remarks
 null

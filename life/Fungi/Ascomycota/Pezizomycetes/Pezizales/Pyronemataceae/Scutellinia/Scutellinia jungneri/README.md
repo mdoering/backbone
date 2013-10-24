@@ -1,5 +1,4 @@
-Scutellinia jungneri (Henn.) Clem. SPECIES
-=======
+# Scutellinia jungneri (Henn.) Clem. SPECIES
 
 #### Status
 ACCEPTED

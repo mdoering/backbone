@@ -1,5 +1,4 @@
-Agaricus crocopeplus Berk. & Broome SPECIES
-=======
+# Agaricus crocopeplus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

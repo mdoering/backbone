@@ -1,5 +1,4 @@
-Coniothyrium calotropidis S. Ahmad SPECIES
-=======
+# Coniothyrium calotropidis S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

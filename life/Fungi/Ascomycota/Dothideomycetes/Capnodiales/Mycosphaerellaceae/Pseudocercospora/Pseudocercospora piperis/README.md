@@ -1,14 +1,13 @@
-Cercospora piperis Pat., 1895 SPECIES
-=======
+# Pseudocercospora piperis (Pat.) Deighton, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 11: 233 (1895)
+Mycol. Pap. 140: 150 (1976)
 
 #### Original name
 Cercospora piperis Pat., 1895

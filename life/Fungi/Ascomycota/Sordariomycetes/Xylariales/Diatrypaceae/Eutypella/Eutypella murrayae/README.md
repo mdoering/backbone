@@ -1,5 +1,4 @@
-Eutypella murrayae Syd. SPECIES
-=======
+# Eutypella murrayae Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces mussooriensis Syd. & P. Syd. SPECIES
-=======
+# Uromyces mussooriensis Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

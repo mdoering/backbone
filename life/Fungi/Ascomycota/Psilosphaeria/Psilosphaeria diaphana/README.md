@@ -1,5 +1,4 @@
-Psilosphaeria diaphana (Cooke & Ellis) Cooke SPECIES
-=======
+# Psilosphaeria diaphana (Cooke & Ellis) Cooke SPECIES
 
 #### Status
 ACCEPTED

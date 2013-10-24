@@ -1,5 +1,4 @@
-Uromyces rudbeckiae Arthur & Holw. SPECIES
-=======
+# Uromyces rudbeckiae Arthur & Holw. SPECIES
 
 #### Status
 ACCEPTED

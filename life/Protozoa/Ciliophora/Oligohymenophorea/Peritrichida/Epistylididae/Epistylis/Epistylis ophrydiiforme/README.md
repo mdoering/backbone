@@ -1,5 +1,4 @@
-Epistylis ophrydiiforme Nüsslin, 1884 SPECIES
-=======
+# Epistylis ophrydiiforme Nüsslin, 1884 SPECIES
 
 #### Status
 ACCEPTED

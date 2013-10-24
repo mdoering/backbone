@@ -1,5 +1,4 @@
-Verrucaria fallaciuscula Nyl. SPECIES
-=======
+# Verrucaria fallaciuscula Nyl. SPECIES
 
 #### Status
 ACCEPTED

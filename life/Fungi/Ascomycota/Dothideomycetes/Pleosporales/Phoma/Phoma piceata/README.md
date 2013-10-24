@@ -1,5 +1,4 @@
-Phoma piceata Sacc. SPECIES
-=======
+# Phoma piceata Sacc. SPECIES
 
 #### Status
 ACCEPTED

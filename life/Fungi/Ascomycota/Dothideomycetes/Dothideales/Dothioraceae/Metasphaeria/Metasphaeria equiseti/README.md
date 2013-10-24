@@ -1,5 +1,4 @@
-Metasphaeria equiseti Jaap SPECIES
-=======
+# Metasphaeria equiseti Jaap SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septobasidium cirratum Burt SPECIES
-=======
+# Septobasidium cirratum Burt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anthacineta (Collin, 1909) Jankowski, 1978 GENUS
-=======
+# Anthacineta (Collin, 1909) Jankowski, 1978 GENUS
 
 #### Status
 ACCEPTED

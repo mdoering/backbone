@@ -1,5 +1,4 @@
-Laboulbenia marginata Thaxt. SPECIES
-=======
+# Laboulbenia marginata Thaxt. SPECIES
 
 #### Status
 ACCEPTED

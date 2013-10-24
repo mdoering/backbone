@@ -1,5 +1,4 @@
-Clavaria peronata Pers. SPECIES
-=======
+# Clavaria peronata Pers. SPECIES
 
 #### Status
 ACCEPTED

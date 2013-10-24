@@ -1,5 +1,4 @@
-Cytospora furva Höhn. SPECIES
-=======
+# Cytospora furva Höhn. SPECIES
 
 #### Status
 ACCEPTED

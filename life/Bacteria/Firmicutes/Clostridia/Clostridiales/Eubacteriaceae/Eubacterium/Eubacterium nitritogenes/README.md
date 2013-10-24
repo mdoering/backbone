@@ -1,5 +1,4 @@
-Eubacterium nitritogenes Prévot, 1940 (Approved Lists, 1980) SPECIES
-=======
+# Eubacterium nitritogenes Prévot, 1940 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

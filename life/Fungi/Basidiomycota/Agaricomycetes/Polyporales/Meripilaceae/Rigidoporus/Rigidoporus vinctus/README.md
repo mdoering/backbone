@@ -1,17 +1,16 @@
-Poria vincta var. vincta VARIETY
-=======
+# Rigidoporus vinctus (Berk.) Ryvarden, 1972 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Norw. Jl Bot. 19(2): 143 (1972)
 
 #### Original name
-null
+Polyporus vinctus Berk., 1852
 
 ### Remarks
 null

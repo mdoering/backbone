@@ -1,5 +1,4 @@
-Albatrellus fumosus H.D. Zheng & P.G. Liu SPECIES
-=======
+# Albatrellus fumosus H.D. Zheng & P.G. Liu SPECIES
 
 #### Status
 ACCEPTED

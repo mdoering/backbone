@@ -1,5 +1,4 @@
-Leptodermella incarnata (Bres.) Höhn., 1915 SPECIES
-=======
+# Leptodermella incarnata (Bres.) Höhn., 1915 SPECIES
 
 #### Status
 ACCEPTED

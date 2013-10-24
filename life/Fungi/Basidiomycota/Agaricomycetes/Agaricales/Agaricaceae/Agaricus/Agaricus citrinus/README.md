@@ -1,5 +1,4 @@
-Agaricus citrinus var. citrinus Schaeff. VARIETY
-=======
+# Agaricus citrinus Schaeff. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Fung. Bavar. Palat. 1: tab. 11 (1762)
 
 #### Original name
-Agaricus citrinus var. citrinus Schaeff.
+Agaricus citrinus Schaeff.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Arthonia costaricensis Müll. Arg. SPECIES
-=======
+# Arthonia costaricensis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

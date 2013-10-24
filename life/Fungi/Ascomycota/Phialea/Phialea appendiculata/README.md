@@ -1,5 +1,4 @@
-Phialea appendiculata Oudem. SPECIES
-=======
+# Phialea appendiculata Oudem. SPECIES
 
 #### Status
 ACCEPTED

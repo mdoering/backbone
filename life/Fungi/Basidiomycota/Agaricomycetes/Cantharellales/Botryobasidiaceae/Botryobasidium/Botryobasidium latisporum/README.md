@@ -1,17 +1,16 @@
-Botryobasidium candicans var. latispora N. Maek. VARIETY
-=======
+# Botryobasidium latisporum (N. Maek.) G. Langer, 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Biblthca Mycol. 158: 184 (1994)
 
 #### Original name
-Botryobasidium candicans var. latispora N. Maek.
+Botryobasidium candicans var. latisporum N. Maek., 1991
 
 ### Remarks
 null

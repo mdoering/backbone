@@ -1,5 +1,4 @@
-Lecanora atrolactea Räsänen SPECIES
-=======
+# Lecanora atrolactea Räsänen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptochloris vittata Schiller SPECIES
-=======
+# Cryptochloris vittata Schiller SPECIES
 
 #### Status
 ACCEPTED

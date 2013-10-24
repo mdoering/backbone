@@ -1,5 +1,4 @@
-Fusariella hughesii Chab.-Frydm., 1964 SPECIES
-=======
+# Fusariella hughesii Chab.-Frydm., 1964 SPECIES
 
 #### Status
 ACCEPTED

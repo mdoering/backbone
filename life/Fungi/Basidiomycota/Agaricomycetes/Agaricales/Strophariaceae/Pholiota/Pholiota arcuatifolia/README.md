@@ -1,5 +1,4 @@
-Pholiota arcuatifolia (Britzelm.) Sacc. SPECIES
-=======
+# Pholiota arcuatifolia (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizophydium anomalum Canter SPECIES
-=======
+# Rhizophydium anomalum Canter SPECIES
 
 #### Status
 ACCEPTED

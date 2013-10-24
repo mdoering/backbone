@@ -1,5 +1,4 @@
-Tomentella flava Bref. SPECIES
-=======
+# Tomentella flava Bref. SPECIES
 
 #### Status
 ACCEPTED

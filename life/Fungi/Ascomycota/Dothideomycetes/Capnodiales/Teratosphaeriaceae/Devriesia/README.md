@@ -1,5 +1,4 @@
-Devriesia Seifert & N.L. Nickerson, 2004 GENUS
-=======
+# Devriesia Seifert & N.L. Nickerson, 2004 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endodothella Theiss. & Syd., 1915 GENUS
-=======
+# Endodothella Theiss. & Syd., 1915 GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Sphaerella sagedioides f. dauci-carotae G. Winter FORM
-=======
+# Mycosphaerella sagedioides (G. Winter ex Sacc.) Lindau, 1897 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fung. sel. exs. 4: no. 323 (1880)
+null
 
 #### Original name
-Sphaerella sagedioides f. dauci-carotae G. Winter
+Sphaerella sagedioides G. Winter ex Sacc., 1880
 
 ### Remarks
 null

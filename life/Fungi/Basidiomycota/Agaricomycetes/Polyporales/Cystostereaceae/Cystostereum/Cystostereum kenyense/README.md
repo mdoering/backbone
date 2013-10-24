@@ -1,5 +1,4 @@
-Cystostereum kenyense Hjortstam, 1987 SPECIES
-=======
+# Cystostereum kenyense Hjortstam, 1987 SPECIES
 
 #### Status
 ACCEPTED

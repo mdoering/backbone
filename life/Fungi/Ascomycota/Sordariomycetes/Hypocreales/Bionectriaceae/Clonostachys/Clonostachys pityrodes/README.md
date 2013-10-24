@@ -1,5 +1,4 @@
-Clonostachys pityrodes Schroers SPECIES
-=======
+# Clonostachys pityrodes Schroers SPECIES
 
 #### Status
 ACCEPTED

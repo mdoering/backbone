@@ -1,5 +1,4 @@
-Peziza dolosa O. Weberb. SPECIES
-=======
+# Peziza dolosa O. Weberb. SPECIES
 
 #### Status
 ACCEPTED

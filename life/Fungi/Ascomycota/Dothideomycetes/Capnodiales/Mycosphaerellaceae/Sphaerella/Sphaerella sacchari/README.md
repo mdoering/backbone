@@ -1,5 +1,4 @@
-Sphaerella sacchari Wakker SPECIES
-=======
+# Sphaerella sacchari Wakker SPECIES
 
 #### Status
 ACCEPTED

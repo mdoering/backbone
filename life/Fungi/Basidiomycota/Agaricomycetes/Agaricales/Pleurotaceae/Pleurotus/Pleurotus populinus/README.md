@@ -1,5 +1,4 @@
-Pleurotus populinus O. Hilber & O.K. Mill., 1993 SPECIES
-=======
+# Pleurotus populinus O. Hilber & O.K. Mill., 1993 SPECIES
 
 #### Status
 ACCEPTED

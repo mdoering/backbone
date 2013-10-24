@@ -1,5 +1,4 @@
-Dirina hassei Zahlbr. SPECIES
-=======
+# Dirina hassei Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tylopilus rigens Hongo SPECIES
-=======
+# Tylopilus rigens Hongo SPECIES
 
 #### Status
 ACCEPTED

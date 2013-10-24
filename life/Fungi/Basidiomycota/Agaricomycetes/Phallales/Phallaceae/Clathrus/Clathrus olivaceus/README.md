@@ -1,5 +1,4 @@
-Clathrus olivaceus Bolton SPECIES
-=======
+# Clathrus olivaceus Bolton SPECIES
 
 #### Status
 ACCEPTED

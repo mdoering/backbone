@@ -1,5 +1,4 @@
-Phoma heteromeles Cooke & Harkn. SPECIES
-=======
+# Phoma heteromeles Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

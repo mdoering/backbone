@@ -1,5 +1,4 @@
-Leiosphaeridia belloyensis Jansonius, 1962 ex Downie & Sarjeant, 1965 SPECIES
-=======
+# Leiosphaeridia belloyensis Jansonius, 1962 ex Downie & Sarjeant, 1965 SPECIES
 
 #### Status
 ACCEPTED

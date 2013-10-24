@@ -1,5 +1,4 @@
-Lecidea flavofusca (Schrad.) Ach. SPECIES
-=======
+# Lecidea flavofusca (Schrad.) Ach. SPECIES
 
 #### Status
 ACCEPTED

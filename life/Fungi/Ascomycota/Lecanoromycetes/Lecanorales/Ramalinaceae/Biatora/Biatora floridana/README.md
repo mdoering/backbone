@@ -1,5 +1,4 @@
-Biatora floridana Tuck. SPECIES
-=======
+# Biatora floridana Tuck. SPECIES
 
 #### Status
 ACCEPTED

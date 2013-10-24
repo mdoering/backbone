@@ -1,5 +1,4 @@
-Pluteolus demangei Quél. SPECIES
-=======
+# Pluteolus demangei Quél. SPECIES
 
 #### Status
 ACCEPTED

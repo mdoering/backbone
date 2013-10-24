@@ -1,5 +1,4 @@
-Ascochyta ontariensis R. Stone SPECIES
-=======
+# Ascochyta ontariensis R. Stone SPECIES
 
 #### Status
 ACCEPTED

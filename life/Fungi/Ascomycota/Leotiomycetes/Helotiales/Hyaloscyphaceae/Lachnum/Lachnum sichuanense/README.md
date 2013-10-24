@@ -1,5 +1,4 @@
-Lachnum sichuanense (M. Ye & W.Y. Zhuang) W.Y. Zhuang & M. Ye SPECIES
-=======
+# Lachnum sichuanense (M. Ye & W.Y. Zhuang) W.Y. Zhuang & M. Ye SPECIES
 
 #### Status
 ACCEPTED

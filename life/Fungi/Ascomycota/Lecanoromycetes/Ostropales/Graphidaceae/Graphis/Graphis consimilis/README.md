@@ -1,5 +1,4 @@
-Graphis consimilis Vain. SPECIES
-=======
+# Graphis consimilis Vain. SPECIES
 
 #### Status
 ACCEPTED

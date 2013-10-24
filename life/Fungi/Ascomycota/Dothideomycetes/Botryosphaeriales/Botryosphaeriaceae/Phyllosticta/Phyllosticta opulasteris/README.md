@@ -1,5 +1,4 @@
-Phyllosticta opulasteris Petr. SPECIES
-=======
+# Phyllosticta opulasteris Petr. SPECIES
 
 #### Status
 ACCEPTED

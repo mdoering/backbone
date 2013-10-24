@@ -1,5 +1,4 @@
-Megalaria spodophana (Nyl.) D.J. Galloway SPECIES
-=======
+# Megalaria spodophana (Nyl.) D.J. Galloway SPECIES
 
 #### Status
 ACCEPTED

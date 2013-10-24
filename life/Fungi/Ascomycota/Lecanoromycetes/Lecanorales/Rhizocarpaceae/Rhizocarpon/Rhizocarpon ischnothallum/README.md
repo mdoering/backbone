@@ -1,5 +1,4 @@
-Rhizocarpon ischnothallum SPECIES
-=======
+# Rhizocarpon ischnothallum SPECIES
 
 #### Status
 ACCEPTED

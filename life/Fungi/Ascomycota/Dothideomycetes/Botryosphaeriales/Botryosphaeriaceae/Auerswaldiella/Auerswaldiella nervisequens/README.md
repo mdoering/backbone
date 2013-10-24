@@ -1,5 +1,4 @@
-Auerswaldiella nervisequens (Chardón) Arx & E. Müll. SPECIES
-=======
+# Auerswaldiella nervisequens (Chardón) Arx & E. Müll. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora filiformis (Davis) Chupp SPECIES
-=======
+# Cercospora filiformis (Davis) Chupp SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gerronema cyathiforme (Berk. & M.A. Curtis) Singer SPECIES
-=======
+# Gerronema cyathiforme (Berk. & M.A. Curtis) Singer SPECIES
 
 #### Status
 ACCEPTED

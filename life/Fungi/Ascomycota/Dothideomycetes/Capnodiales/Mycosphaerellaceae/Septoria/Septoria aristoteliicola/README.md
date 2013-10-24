@@ -1,5 +1,4 @@
-Septoria aristoteliicola U. Braun & Havryl. SPECIES
-=======
+# Septoria aristoteliicola U. Braun & Havryl. SPECIES
 
 #### Status
 ACCEPTED

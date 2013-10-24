@@ -1,5 +1,4 @@
-Cladosporium rectangulare K. Schub. & U. Braun, 2004 SPECIES
-=======
+# Cladosporium rectangulare K. Schub. & U. Braun, 2004 SPECIES
 
 #### Status
 ACCEPTED

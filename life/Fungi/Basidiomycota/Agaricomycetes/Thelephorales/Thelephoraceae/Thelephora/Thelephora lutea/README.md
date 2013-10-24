@@ -1,5 +1,4 @@
-Thelephora lutea Spreng. SPECIES
-=======
+# Thelephora lutea Spreng. SPECIES
 
 #### Status
 ACCEPTED

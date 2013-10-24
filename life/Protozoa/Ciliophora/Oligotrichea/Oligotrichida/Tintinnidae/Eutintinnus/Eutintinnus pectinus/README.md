@@ -1,5 +1,4 @@
-Eutintinnus pectinus SPECIES
-=======
+# Eutintinnus pectinus SPECIES
 
 #### Status
 ACCEPTED

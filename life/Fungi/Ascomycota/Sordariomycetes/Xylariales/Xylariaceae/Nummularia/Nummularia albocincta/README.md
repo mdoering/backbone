@@ -1,5 +1,4 @@
-Nummularia albocincta Rehm SPECIES
-=======
+# Nummularia albocincta Rehm SPECIES
 
 #### Status
 ACCEPTED

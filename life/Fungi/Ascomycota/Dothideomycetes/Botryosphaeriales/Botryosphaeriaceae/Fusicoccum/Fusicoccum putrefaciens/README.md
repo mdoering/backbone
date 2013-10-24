@@ -1,5 +1,4 @@
-Fusicoccum putrefaciens Shear SPECIES
-=======
+# Fusicoccum putrefaciens Shear SPECIES
 
 #### Status
 ACCEPTED

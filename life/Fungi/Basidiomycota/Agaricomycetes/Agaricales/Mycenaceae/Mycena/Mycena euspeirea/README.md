@@ -1,5 +1,4 @@
-Mycena euspeirea Berk. & M.A. Curtis SPECIES
-=======
+# Mycena euspeirea Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

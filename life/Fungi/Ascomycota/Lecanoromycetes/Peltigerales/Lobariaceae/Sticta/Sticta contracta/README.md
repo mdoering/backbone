@@ -1,5 +1,4 @@
-Sticta contracta (Brot.) Colmeiro SPECIES
-=======
+# Sticta contracta (Brot.) Colmeiro SPECIES
 
 #### Status
 ACCEPTED

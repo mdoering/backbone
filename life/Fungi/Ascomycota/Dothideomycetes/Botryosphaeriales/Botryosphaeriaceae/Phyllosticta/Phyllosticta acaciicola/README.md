@@ -1,5 +1,4 @@
-Phyllosticta acaciicola Henn. SPECIES
-=======
+# Phyllosticta acaciicola Henn. SPECIES
 
 #### Status
 ACCEPTED

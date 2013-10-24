@@ -1,5 +1,4 @@
-Diplodia betulae Westend. SPECIES
-=======
+# Diplodia betulae Westend. SPECIES
 
 #### Status
 ACCEPTED

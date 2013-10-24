@@ -1,5 +1,4 @@
-Ustilago acetosellae Maire SPECIES
-=======
+# Ustilago acetosellae Maire SPECIES
 
 #### Status
 ACCEPTED

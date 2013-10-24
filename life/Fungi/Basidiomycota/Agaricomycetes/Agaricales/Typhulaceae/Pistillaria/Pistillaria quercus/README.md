@@ -1,5 +1,4 @@
-Pistillaria quercus Oudem. SPECIES
-=======
+# Pistillaria quercus Oudem. SPECIES
 
 #### Status
 ACCEPTED

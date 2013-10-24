@@ -1,5 +1,4 @@
-Centropyxiella golemanskyi Chardez, 1977 SPECIES
-=======
+# Centropyxiella golemanskyi Chardez, 1977 SPECIES
 
 #### Status
 ACCEPTED

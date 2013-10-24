@@ -1,5 +1,4 @@
-Planularia pauiloculata (Chapman, W D & Parr, W J) SPECIES
-=======
+# Planularia pauiloculata (Chapman, W D & Parr, W J) SPECIES
 
 #### Status
 ACCEPTED

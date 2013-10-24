@@ -1,5 +1,4 @@
-Physalospora cocculi Siemaszko SPECIES
-=======
+# Physalospora cocculi Siemaszko SPECIES
 
 #### Status
 ACCEPTED

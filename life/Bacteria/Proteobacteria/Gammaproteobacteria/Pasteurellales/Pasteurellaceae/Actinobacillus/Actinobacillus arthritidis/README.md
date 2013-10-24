@@ -1,5 +1,4 @@
-Actinobacillus arthritidis Christensen et al., 2002 SPECIES
-=======
+# Actinobacillus arthritidis Christensen et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

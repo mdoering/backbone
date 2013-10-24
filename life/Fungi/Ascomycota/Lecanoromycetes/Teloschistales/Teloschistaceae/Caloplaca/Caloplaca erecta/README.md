@@ -1,5 +1,4 @@
-Caloplaca erecta Arup & H. Mayrhofer SPECIES
-=======
+# Caloplaca erecta Arup & H. Mayrhofer SPECIES
 
 #### Status
 ACCEPTED

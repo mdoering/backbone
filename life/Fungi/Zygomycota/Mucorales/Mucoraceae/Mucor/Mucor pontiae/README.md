@@ -1,5 +1,4 @@
-Mucor pontiae Sorokin SPECIES
-=======
+# Mucor pontiae Sorokin SPECIES
 
 #### Status
 ACCEPTED

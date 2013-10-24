@@ -1,5 +1,4 @@
-Arecophila eugeissonae K.D. Hyde SPECIES
-=======
+# Arecophila eugeissonae K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

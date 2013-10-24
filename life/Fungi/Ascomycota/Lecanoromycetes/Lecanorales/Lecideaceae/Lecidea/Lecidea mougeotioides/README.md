@@ -1,5 +1,4 @@
-Lecidea mougeotioides H. Magn. SPECIES
-=======
+# Lecidea mougeotioides H. Magn. SPECIES
 
 #### Status
 ACCEPTED

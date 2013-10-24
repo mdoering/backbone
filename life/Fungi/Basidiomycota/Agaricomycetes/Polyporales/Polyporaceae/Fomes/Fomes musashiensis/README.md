@@ -1,5 +1,4 @@
-Fomes musashiensis Henn. SPECIES
-=======
+# Fomes musashiensis Henn. SPECIES
 
 #### Status
 ACCEPTED

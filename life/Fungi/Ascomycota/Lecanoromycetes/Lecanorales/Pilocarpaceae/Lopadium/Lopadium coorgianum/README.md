@@ -1,5 +1,4 @@
-Lopadium coorgianum Patw. & Makhija SPECIES
-=======
+# Lopadium coorgianum Patw. & Makhija SPECIES
 
 #### Status
 ACCEPTED

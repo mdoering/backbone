@@ -1,5 +1,4 @@
-Bonia Patouillard, 1892 GENUS
-=======
+# Bonia Patouillard, 1892 GENUS
 
 #### Status
 ACCEPTED

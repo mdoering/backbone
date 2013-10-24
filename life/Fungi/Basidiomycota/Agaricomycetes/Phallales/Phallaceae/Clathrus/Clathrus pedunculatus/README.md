@@ -1,5 +1,4 @@
-Clathrus pedunculatus Batsch SPECIES
-=======
+# Clathrus pedunculatus Batsch SPECIES
 
 #### Status
 ACCEPTED

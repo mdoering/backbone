@@ -1,5 +1,4 @@
-Erwinia toletana Rojas et al., 2004 SPECIES
-=======
+# Erwinia toletana Rojas et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

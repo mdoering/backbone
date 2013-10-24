@@ -1,5 +1,4 @@
-Tirispora mandoviana V.V. Sarma & K.D. Hyde, 2000 SPECIES
-=======
+# Tirispora mandoviana V.V. Sarma & K.D. Hyde, 2000 SPECIES
 
 #### Status
 ACCEPTED

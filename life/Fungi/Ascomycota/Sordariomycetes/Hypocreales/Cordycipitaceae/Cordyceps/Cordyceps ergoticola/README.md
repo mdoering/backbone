@@ -1,5 +1,4 @@
-Cordyceps ergoticola Tanda & Kawat. SPECIES
-=======
+# Cordyceps ergoticola Tanda & Kawat. SPECIES
 
 #### Status
 ACCEPTED

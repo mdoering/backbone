@@ -1,5 +1,4 @@
-Porina effilata Brand & Sérus. SPECIES
-=======
+# Porina effilata Brand & Sérus. SPECIES
 
 #### Status
 ACCEPTED

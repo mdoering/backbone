@@ -1,5 +1,4 @@
-Meliola grewiae var. grewiae Hansf. VARIETY
-=======
+# Meliola grewiae Hansf. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Sydowia (1958)
+Sydowia 11: 56 (1958)
 
 #### Original name
-Meliola grewiae var. grewiae Hansf.
+Meliola grewiae Hansf.
 
 ### Remarks
 null

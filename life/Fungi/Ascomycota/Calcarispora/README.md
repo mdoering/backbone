@@ -1,5 +1,4 @@
-Calcarispora Marvanová & Marvan GENUS
-=======
+# Calcarispora Marvanová & Marvan GENUS
 
 #### Status
 ACCEPTED

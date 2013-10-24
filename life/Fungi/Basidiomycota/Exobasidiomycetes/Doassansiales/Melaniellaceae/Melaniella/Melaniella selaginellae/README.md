@@ -1,5 +1,4 @@
-Melaniella selaginellae (Henn. & E. Nyman) R. Bauer, Vánky, Begerow & Oberw., 1999 SPECIES
-=======
+# Melaniella selaginellae (Henn. & E. Nyman) R. Bauer, Vánky, Begerow & Oberw., 1999 SPECIES
 
 #### Status
 ACCEPTED

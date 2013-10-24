@@ -1,14 +1,13 @@
-Caeomurus acetosae (J. Schröt.) Kuntze, 1898 SPECIES
-=======
+# Uromyces acetosae J. Schröt., 1876 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 449 (1898)
+in Rabenhorst, Fungi europ. exsicc. no. 2080 (1876)
 
 #### Original name
 Uromyces acetosae J. Schröt., 1876

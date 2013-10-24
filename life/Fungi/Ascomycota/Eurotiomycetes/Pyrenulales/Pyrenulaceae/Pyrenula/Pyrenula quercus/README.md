@@ -1,5 +1,4 @@
-Pyrenula quercus A. Massal. SPECIES
-=======
+# Pyrenula quercus A. Massal. SPECIES
 
 #### Status
 ACCEPTED

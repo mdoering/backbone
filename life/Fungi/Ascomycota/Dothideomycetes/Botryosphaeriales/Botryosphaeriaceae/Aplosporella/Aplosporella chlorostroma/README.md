@@ -1,5 +1,4 @@
-Aplosporella chlorostroma Speg. SPECIES
-=======
+# Aplosporella chlorostroma Speg. SPECIES
 
 #### Status
 ACCEPTED

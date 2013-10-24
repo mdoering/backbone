@@ -1,5 +1,4 @@
-Fusarium samararum Allesch. SPECIES
-=======
+# Fusarium samararum Allesch. SPECIES
 
 #### Status
 ACCEPTED

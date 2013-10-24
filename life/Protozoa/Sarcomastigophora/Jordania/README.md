@@ -1,5 +1,4 @@
-Jordania Hamam & Haynes, 1977 GENUS
-=======
+# Jordania Hamam & Haynes, 1977 GENUS
 
 #### Status
 ACCEPTED

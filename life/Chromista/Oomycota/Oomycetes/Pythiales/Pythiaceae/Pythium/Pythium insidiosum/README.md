@@ -1,5 +1,4 @@
-Pythium insidiosum De Cock, L. Mend., A.A. Padhye, Ajello & Kaufman, 1987 SPECIES
-=======
+# Pythium insidiosum De Cock, L. Mend., A.A. Padhye, Ajello & Kaufman, 1987 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heterococcus tectiformis Pitschmann SPECIES
-=======
+# Heterococcus tectiformis Pitschmann SPECIES
 
 #### Status
 ACCEPTED

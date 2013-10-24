@@ -1,5 +1,4 @@
-Halothrix tortuosa Takamatsu SPECIES
-=======
+# Halothrix tortuosa Takamatsu SPECIES
 
 #### Status
 ACCEPTED

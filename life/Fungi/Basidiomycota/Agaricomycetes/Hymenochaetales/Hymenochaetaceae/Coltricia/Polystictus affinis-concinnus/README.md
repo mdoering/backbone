@@ -1,5 +1,4 @@
-Polystictus affinis-concinnus Lloyd SPECIES
-=======
+# Polystictus affinis-concinnus Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collybia flavescens (Murrill) Murrill SPECIES
-=======
+# Collybia flavescens (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Excipularia aequatorialis Matsush. SPECIES
-=======
+# Excipularia aequatorialis Matsush. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteroma agyrothamniae Allesch. SPECIES
-=======
+# Asteroma agyrothamniae Allesch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria slovacica Picb. SPECIES
-=======
+# Leptosphaeria slovacica Picb. SPECIES
 
 #### Status
 ACCEPTED

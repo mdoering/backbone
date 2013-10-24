@@ -1,5 +1,4 @@
-Amphidinium trochodinioides Conrad & Kufferath SPECIES
-=======
+# Amphidinium trochodinioides Conrad & Kufferath SPECIES
 
 #### Status
 ACCEPTED

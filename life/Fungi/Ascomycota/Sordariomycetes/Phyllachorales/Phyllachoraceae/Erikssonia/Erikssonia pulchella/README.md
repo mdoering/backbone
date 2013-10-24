@@ -1,5 +1,4 @@
-Erikssonia pulchella Penz. & Sacc., 1897 SPECIES
-=======
+# Erikssonia pulchella Penz. & Sacc., 1897 SPECIES
 
 #### Status
 ACCEPTED

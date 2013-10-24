@@ -1,14 +1,13 @@
-Didymosphaerella peltigerae (Fuckel) Cooke SPECIES
-=======
+# Polycoccum peltigerae (Fuckel) Vezda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Grevillea 18(no. 86): 29 (1889)
+Ceská Mykol. 23: 109 (1969)
 
 #### Original name
 Didymosphaeria peltigerae Fuckel

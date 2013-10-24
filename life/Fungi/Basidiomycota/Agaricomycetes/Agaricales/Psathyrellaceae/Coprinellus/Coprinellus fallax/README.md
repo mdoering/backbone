@@ -1,5 +1,4 @@
-Coprinellus fallax (M. Lange & A.H. Sm.) Redhead, Vilgalys & Moncalvo SPECIES
-=======
+# Coprinellus fallax (M. Lange & A.H. Sm.) Redhead, Vilgalys & Moncalvo SPECIES
 
 #### Status
 ACCEPTED

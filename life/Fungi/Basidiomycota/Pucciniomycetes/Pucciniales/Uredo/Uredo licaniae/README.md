@@ -1,5 +1,4 @@
-Uredo licaniae Henn. SPECIES
-=======
+# Uredo licaniae Henn. SPECIES
 
 #### Status
 ACCEPTED

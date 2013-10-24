@@ -1,5 +1,4 @@
-Dermea pseudotsugae A. Funk SPECIES
-=======
+# Dermea pseudotsugae A. Funk SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora chaerophylli Höhn. SPECIES
-=======
+# Cercospora chaerophylli Höhn. SPECIES
 
 #### Status
 ACCEPTED

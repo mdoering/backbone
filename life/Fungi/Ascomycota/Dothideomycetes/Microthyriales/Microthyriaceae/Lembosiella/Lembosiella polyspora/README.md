@@ -1,14 +1,13 @@
-Lembosia polyspora Pat., 1887 SPECIES
-=======
+# Lembosiella polyspora (Pat.) Sacc., 1891 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 9: 1101 (1891)
 
 #### Original name
 Lembosia polyspora Pat., 1887

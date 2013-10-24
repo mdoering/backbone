@@ -1,5 +1,4 @@
-Colligerites kutchensis (R.K. Kar & R.K. Saxena) K.P. Jain & R.K. Kar SPECIES
-=======
+# Colligerites kutchensis (R.K. Kar & R.K. Saxena) K.P. Jain & R.K. Kar SPECIES
 
 #### Status
 ACCEPTED

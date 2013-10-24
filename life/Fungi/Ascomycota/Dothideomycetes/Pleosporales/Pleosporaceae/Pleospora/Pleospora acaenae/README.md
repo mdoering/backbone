@@ -1,5 +1,4 @@
-Pleospora acaenae Henn. SPECIES
-=======
+# Pleospora acaenae Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula picrea Sarnari SPECIES
-=======
+# Russula picrea Sarnari SPECIES
 
 #### Status
 ACCEPTED

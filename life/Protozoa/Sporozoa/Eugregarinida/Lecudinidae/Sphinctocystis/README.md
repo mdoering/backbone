@@ -1,5 +1,4 @@
-Sphinctocystis Simdyanov, 2004 GENUS
-=======
+# Sphinctocystis Simdyanov, 2004 GENUS
 
 #### Status
 ACCEPTED

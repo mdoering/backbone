@@ -1,5 +1,4 @@
-Calothrix breviarticulata W. West & G.S. West SPECIES
-=======
+# Calothrix breviarticulata W. West & G.S. West SPECIES
 
 #### Status
 ACCEPTED

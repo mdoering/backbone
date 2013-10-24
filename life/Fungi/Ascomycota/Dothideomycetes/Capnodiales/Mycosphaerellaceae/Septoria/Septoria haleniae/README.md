@@ -1,5 +1,4 @@
-Septoria haleniae Togashi SPECIES
-=======
+# Septoria haleniae Togashi SPECIES
 
 #### Status
 ACCEPTED

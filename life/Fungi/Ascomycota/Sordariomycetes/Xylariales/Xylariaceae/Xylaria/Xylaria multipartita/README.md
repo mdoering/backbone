@@ -1,5 +1,4 @@
-Xylaria multipartita J.H. Mill. & L.W. Nielsen SPECIES
-=======
+# Xylaria multipartita J.H. Mill. & L.W. Nielsen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rectobolivina digitata Parr, 1945 SPECIES
-=======
+# Rectobolivina digitata Parr, 1945 SPECIES
 
 #### Status
 ACCEPTED

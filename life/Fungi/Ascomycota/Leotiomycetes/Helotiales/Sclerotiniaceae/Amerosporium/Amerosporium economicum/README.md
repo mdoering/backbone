@@ -1,5 +1,4 @@
-Amerosporium economicum Ellis & Tracy SPECIES
-=======
+# Amerosporium economicum Ellis & Tracy SPECIES
 
 #### Status
 ACCEPTED

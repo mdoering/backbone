@@ -1,14 +1,13 @@
-Corticium rolfsii Curzi, 1932 SPECIES
-=======
+# Athelia rolfsii (Curzi) C.C. Tu & Kimbr., 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bot. Gaz. 139(4): 460 (1978)
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Darluca ammophila Sacc., E. Bommer & M. Rousseau SPECIES
-=======
+# Darluca ammophila Sacc., E. Bommer & M. Rousseau SPECIES
 
 #### Status
 ACCEPTED

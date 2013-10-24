@@ -1,5 +1,4 @@
-Bacidia vulgata f. vulgata FORM
-=======
+# Bacidia vulgata Malme SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Bacidia vulgata f. vulgata
+Bacidia vulgata Malme
 
 ### Remarks
 null

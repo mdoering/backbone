@@ -1,5 +1,4 @@
-Pyrenula finitima Müll. Arg., 1887 SPECIES
-=======
+# Pyrenula finitima Müll. Arg., 1887 SPECIES
 
 #### Status
 DOUBTFUL

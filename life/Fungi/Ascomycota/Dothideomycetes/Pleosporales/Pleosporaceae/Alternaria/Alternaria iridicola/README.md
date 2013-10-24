@@ -1,5 +1,4 @@
-Alternaria iridicola (Ellis & Everh.) J.A. Elliott SPECIES
-=======
+# Alternaria iridicola (Ellis & Everh.) J.A. Elliott SPECIES
 
 #### Status
 ACCEPTED

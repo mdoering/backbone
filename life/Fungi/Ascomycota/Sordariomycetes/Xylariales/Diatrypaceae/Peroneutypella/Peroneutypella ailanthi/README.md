@@ -1,17 +1,16 @@
-Peroneutypella ailanthii C. Ciccar. SPECIES
-=======
+# Peroneutypella ailanthi C. Ciccar. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Micol. Ital. 16(1): 24 (1987)
 
 #### Original name
-Peroneutypella ailanthii C. Ciccar.
+Peroneutypella ailanthi C. Ciccar.
 
 ### Remarks
 null

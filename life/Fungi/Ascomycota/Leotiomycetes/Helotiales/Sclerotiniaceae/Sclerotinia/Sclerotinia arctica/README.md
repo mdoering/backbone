@@ -1,5 +1,4 @@
-Sclerotinia arctica M.E. Elliott SPECIES
-=======
+# Sclerotinia arctica M.E. Elliott SPECIES
 
 #### Status
 ACCEPTED

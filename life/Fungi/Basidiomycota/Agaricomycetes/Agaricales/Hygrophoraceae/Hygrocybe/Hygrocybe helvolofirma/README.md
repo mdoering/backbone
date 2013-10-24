@@ -1,5 +1,4 @@
-Hygrocybe helvolofirma Pegler SPECIES
-=======
+# Hygrocybe helvolofirma Pegler SPECIES
 
 #### Status
 ACCEPTED

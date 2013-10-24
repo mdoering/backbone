@@ -1,5 +1,4 @@
-Psathyra microspora Velen. SPECIES
-=======
+# Psathyra microspora Velen. SPECIES
 
 #### Status
 ACCEPTED

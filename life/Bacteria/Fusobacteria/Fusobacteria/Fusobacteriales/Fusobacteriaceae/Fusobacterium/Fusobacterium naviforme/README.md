@@ -1,11 +1,10 @@
-Pseudobacterium naviformis (Jungano, 1909) Krasil'nikov, 1949 SPECIES
-=======
+# Fusobacterium naviforme (Jungano, 1909) Moore and Holdeman, 1970 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

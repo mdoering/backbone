@@ -1,5 +1,4 @@
-Relicina subconnivens Hale SPECIES
-=======
+# Relicina subconnivens Hale SPECIES
 
 #### Status
 ACCEPTED

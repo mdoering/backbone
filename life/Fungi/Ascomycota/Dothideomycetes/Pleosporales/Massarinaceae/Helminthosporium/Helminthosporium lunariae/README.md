@@ -1,5 +1,4 @@
-Helminthosporium lunariae Pollacci SPECIES
-=======
+# Helminthosporium lunariae Pollacci SPECIES
 
 #### Status
 ACCEPTED

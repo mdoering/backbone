@@ -1,5 +1,4 @@
-Sarcoleotia S. Ito & S. Imai, 1934 GENUS
-=======
+# Sarcoleotia S. Ito & S. Imai, 1934 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus eximius Peck SPECIES
-=======
+# Agaricus eximius Peck SPECIES
 
 #### Status
 ACCEPTED

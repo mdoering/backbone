@@ -1,5 +1,4 @@
-Brocholaminaria Ou-yang, Yin & Li, 1974 GENUS
-=======
+# Brocholaminaria Ou-yang, Yin & Li, 1974 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Montagnites elliotti Massee, 1893 SPECIES
-=======
+# Montagnites elliotti Massee, 1893 SPECIES
 
 #### Status
 ACCEPTED

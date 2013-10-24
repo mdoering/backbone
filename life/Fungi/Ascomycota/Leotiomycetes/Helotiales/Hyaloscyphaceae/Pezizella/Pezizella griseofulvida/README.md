@@ -1,5 +1,4 @@
-Pezizella griseofulvida Feltgen SPECIES
-=======
+# Pezizella griseofulvida Feltgen SPECIES
 
 #### Status
 ACCEPTED

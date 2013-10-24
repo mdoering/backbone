@@ -1,5 +1,4 @@
-Wawelia octospora Minter & J. Webster, 1983 SPECIES
-=======
+# Wawelia octospora Minter & J. Webster, 1983 SPECIES
 
 #### Status
 ACCEPTED

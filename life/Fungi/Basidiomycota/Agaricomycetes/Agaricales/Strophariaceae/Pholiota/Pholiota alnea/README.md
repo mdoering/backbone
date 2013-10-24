@@ -1,5 +1,4 @@
-Pholiota alnea Singer SPECIES
-=======
+# Pholiota alnea Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudotracya otteliae Vánky, 1999 SPECIES
-=======
+# Pseudotracya otteliae Vánky, 1999 SPECIES
 
 #### Status
 ACCEPTED

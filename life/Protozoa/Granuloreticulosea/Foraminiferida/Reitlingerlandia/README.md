@@ -1,5 +1,4 @@
-Reitlingerlandia Vachard, 1994 GENUS
-=======
+# Reitlingerlandia Vachard, 1994 GENUS
 
 #### Status
 ACCEPTED

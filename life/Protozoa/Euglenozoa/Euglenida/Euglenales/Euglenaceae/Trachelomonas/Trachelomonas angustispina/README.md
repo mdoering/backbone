@@ -1,5 +1,4 @@
-Trachelomonas angustispina var. conicocollaris A. Caljon VARIETY
-=======
+# Trachelomonas angustispina SPECIES
 
 #### Status
 ACCEPTED

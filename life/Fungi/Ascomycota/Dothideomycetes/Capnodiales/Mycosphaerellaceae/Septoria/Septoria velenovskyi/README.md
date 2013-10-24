@@ -1,5 +1,4 @@
-Septoria velenovskyi Bubák SPECIES
-=======
+# Septoria velenovskyi Bubák SPECIES
 
 #### Status
 ACCEPTED

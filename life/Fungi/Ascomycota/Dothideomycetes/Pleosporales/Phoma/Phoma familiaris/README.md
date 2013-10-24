@@ -1,5 +1,4 @@
-Phoma familiaris Sacc. SPECIES
-=======
+# Phoma familiaris Sacc. SPECIES
 
 #### Status
 ACCEPTED

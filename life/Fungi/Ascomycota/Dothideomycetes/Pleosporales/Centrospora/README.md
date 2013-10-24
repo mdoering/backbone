@@ -1,5 +1,4 @@
-Centrospora GENUS
-=======
+# Centrospora GENUS
 
 #### Status
 ACCEPTED

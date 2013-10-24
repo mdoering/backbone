@@ -1,5 +1,4 @@
-Hypoxylon novemexicanum J.H. Mill., 1961 SPECIES
-=======
+# Hypoxylon novemexicanum J.H. Mill., 1961 SPECIES
 
 #### Status
 ACCEPTED

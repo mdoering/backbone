@@ -1,5 +1,4 @@
-Pseudocercospora trewiae-nodiflorae H.S.G. Rao, Arch. Singh & Kamal SPECIES
-=======
+# Pseudocercospora trewiae-nodiflorae H.S.G. Rao, Arch. Singh & Kamal SPECIES
 
 #### Status
 ACCEPTED

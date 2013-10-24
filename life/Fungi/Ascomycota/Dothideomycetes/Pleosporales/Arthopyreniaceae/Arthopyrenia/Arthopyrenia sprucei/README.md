@@ -1,5 +1,4 @@
-Arthopyrenia sprucei (Bab.) H. Olivier SPECIES
-=======
+# Arthopyrenia sprucei (Bab.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

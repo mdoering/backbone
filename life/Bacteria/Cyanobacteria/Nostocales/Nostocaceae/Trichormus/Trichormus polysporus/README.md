@@ -1,5 +1,4 @@
-Trichormus polysporus (I. T. Tarnavschi & N. Mitroiu) J. Komárek & K. Anagnostidis SPECIES
-=======
+# Trichormus polysporus (I. T. Tarnavschi & N. Mitroiu) J. Komárek & K. Anagnostidis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endochytriaceae Sparrow ex D.J.S. Barr FAMILY
-=======
+# Endochytriaceae Sparrow ex D.J.S. Barr FAMILY
 
 #### Status
 ACCEPTED

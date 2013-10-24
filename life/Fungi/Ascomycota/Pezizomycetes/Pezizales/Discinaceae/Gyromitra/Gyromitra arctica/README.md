@@ -1,5 +1,4 @@
-Gyromitra arctica Vassilkov SPECIES
-=======
+# Gyromitra arctica Vassilkov SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clavaria cornea var. cornea VARIETY
-=======
+# Clavaria cornea Schumach. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Elench. fung. (Halle) 139 (1783)
+Enum. pl. (Kjbenhavn) 2: 402 (1803)
 
 #### Original name
-Clavaria cornea var. cornea
+Clavaria cornea Schumach.
 
 ### Remarks
 null

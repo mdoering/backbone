@@ -1,5 +1,4 @@
-Phyllosticta elongata Weid. SPECIES
-=======
+# Phyllosticta elongata Weid. SPECIES
 
 #### Status
 ACCEPTED

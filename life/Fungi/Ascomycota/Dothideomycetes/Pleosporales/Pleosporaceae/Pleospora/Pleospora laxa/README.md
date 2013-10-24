@@ -1,5 +1,4 @@
-Pleospora laxa Ellis & Galloway SPECIES
-=======
+# Pleospora laxa Ellis & Galloway SPECIES
 
 #### Status
 ACCEPTED

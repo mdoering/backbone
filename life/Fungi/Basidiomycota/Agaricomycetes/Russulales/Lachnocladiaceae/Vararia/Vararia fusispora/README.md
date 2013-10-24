@@ -1,5 +1,4 @@
-Vararia fusispora G. Cunn., 1955 SPECIES
-=======
+# Vararia fusispora G. Cunn., 1955 SPECIES
 
 #### Status
 ACCEPTED

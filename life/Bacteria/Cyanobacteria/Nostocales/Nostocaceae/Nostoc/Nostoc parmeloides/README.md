@@ -1,5 +1,4 @@
-Nostoc parmeloides SPECIES
-=======
+# Nostoc parmeloides SPECIES
 
 #### Status
 ACCEPTED

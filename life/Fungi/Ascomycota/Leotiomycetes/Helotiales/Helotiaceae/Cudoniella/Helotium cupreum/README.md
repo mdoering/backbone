@@ -1,5 +1,4 @@
-Helotium cupreum Bres. SPECIES
-=======
+# Helotium cupreum Bres. SPECIES
 
 #### Status
 ACCEPTED

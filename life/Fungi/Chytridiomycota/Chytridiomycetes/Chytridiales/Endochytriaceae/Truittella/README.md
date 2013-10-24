@@ -1,5 +1,4 @@
-Truittella Karling GENUS
-=======
+# Truittella Karling GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycoderma multifermentans (Castell.) C.W. Dodge SPECIES
-=======
+# Mycoderma multifermentans (Castell.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

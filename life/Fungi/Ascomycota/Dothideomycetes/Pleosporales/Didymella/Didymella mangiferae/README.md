@@ -1,5 +1,4 @@
-Didymella mangiferae Bat. SPECIES
-=======
+# Didymella mangiferae Bat. SPECIES
 
 #### Status
 ACCEPTED

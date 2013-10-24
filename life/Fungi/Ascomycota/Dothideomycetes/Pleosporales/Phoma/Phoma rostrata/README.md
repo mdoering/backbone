@@ -1,5 +1,4 @@
-Phoma rostrata O'Gara SPECIES
-=======
+# Phoma rostrata O'Gara SPECIES
 
 #### Status
 ACCEPTED

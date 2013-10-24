@@ -1,5 +1,4 @@
-Scyphosphaera kamptneri Müller, 1974 SPECIES
-=======
+# Scyphosphaera kamptneri Müller, 1974 SPECIES
 
 #### Status
 ACCEPTED

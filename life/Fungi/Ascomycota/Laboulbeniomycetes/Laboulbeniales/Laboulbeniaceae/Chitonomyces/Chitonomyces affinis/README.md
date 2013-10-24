@@ -1,5 +1,4 @@
-Chitonomyces affinis Thaxt. SPECIES
-=======
+# Chitonomyces affinis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

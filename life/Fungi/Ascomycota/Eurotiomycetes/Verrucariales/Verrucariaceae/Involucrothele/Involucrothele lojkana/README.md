@@ -1,5 +1,4 @@
-Involucrothele lojkana (Servít) Servít SPECIES
-=======
+# Involucrothele lojkana (Servít) Servít SPECIES
 
 #### Status
 ACCEPTED

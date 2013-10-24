@@ -1,5 +1,4 @@
-Metaridium Riding, Matthews, Miles & Wolfard, 1998 GENUS
-=======
+# Metaridium Riding, Matthews, Miles & Wolfard, 1998 GENUS
 
 #### Status
 ACCEPTED

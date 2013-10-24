@@ -1,5 +1,4 @@
-Sticta caliginosa D. J. Galloway SPECIES
-=======
+# Sticta caliginosa D. J. Galloway SPECIES
 
 #### Status
 ACCEPTED

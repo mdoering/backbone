@@ -1,5 +1,4 @@
-Biatora coniasis A. Massal. SPECIES
-=======
+# Biatora coniasis A. Massal. SPECIES
 
 #### Status
 ACCEPTED

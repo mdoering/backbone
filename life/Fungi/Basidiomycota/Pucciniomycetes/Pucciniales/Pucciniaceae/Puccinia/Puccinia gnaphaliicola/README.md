@@ -1,5 +1,4 @@
-Puccinia gnaphaliicola Henn., 1899 SPECIES
-=======
+# Puccinia gnaphaliicola Henn., 1899 SPECIES
 
 #### Status
 ACCEPTED

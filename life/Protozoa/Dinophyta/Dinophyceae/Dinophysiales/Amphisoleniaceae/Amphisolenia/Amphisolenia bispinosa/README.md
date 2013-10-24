@@ -1,5 +1,4 @@
-Amphisolenia bispinosa Kofoid, 1907 SPECIES
-=======
+# Amphisolenia bispinosa Kofoid, 1907 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia vernoniae Cooke SPECIES
-=======
+# Puccinia vernoniae Cooke SPECIES
 
 #### Status
 ACCEPTED

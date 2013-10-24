@@ -1,5 +1,4 @@
-Parmotrema lichexanthonicum Eliasaro & Adler SPECIES
-=======
+# Parmotrema lichexanthonicum Eliasaro & Adler SPECIES
 
 #### Status
 ACCEPTED

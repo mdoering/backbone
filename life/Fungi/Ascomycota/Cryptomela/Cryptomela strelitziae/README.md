@@ -1,5 +1,4 @@
-Cryptomela strelitziae Bres. SPECIES
-=======
+# Cryptomela strelitziae Bres. SPECIES
 
 #### Status
 ACCEPTED

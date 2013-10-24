@@ -1,5 +1,4 @@
-Puccinia weberbaueri Henn. SPECIES
-=======
+# Puccinia weberbaueri Henn. SPECIES
 
 #### Status
 ACCEPTED

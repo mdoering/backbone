@@ -1,5 +1,4 @@
-Guignardia cryptomeriae Sawada SPECIES
-=======
+# Guignardia cryptomeriae Sawada SPECIES
 
 #### Status
 ACCEPTED

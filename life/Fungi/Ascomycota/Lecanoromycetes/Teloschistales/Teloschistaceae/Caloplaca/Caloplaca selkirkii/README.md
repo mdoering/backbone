@@ -1,5 +1,4 @@
-Caloplaca selkirkii Zahlbr. SPECIES
-=======
+# Caloplaca selkirkii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnosporangium paraphysatum Vienn.-Bourg., 1961 SPECIES
-=======
+# Gymnosporangium paraphysatum Vienn.-Bourg., 1961 SPECIES
 
 #### Status
 ACCEPTED

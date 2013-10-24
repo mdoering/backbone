@@ -1,5 +1,4 @@
-Ramularia peucedani Hollós SPECIES
-=======
+# Ramularia peucedani Hollós SPECIES
 
 #### Status
 ACCEPTED

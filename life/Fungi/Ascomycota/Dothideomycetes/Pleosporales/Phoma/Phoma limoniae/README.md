@@ -1,5 +1,4 @@
-Phoma limoniae Penz. SPECIES
-=======
+# Phoma limoniae Penz. SPECIES
 
 #### Status
 ACCEPTED

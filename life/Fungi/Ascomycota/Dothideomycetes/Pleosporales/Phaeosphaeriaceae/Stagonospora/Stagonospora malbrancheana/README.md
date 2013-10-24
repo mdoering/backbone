@@ -1,5 +1,4 @@
-Stagonospora malbrancheana Sacc. SPECIES
-=======
+# Stagonospora malbrancheana Sacc. SPECIES
 
 #### Status
 ACCEPTED

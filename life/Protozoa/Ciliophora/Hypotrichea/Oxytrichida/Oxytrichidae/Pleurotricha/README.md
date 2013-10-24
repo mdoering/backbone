@@ -1,14 +1,13 @@
-Pleurotrichia GENUS
-=======
+# Pleurotricha von Stein, 1859 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lotos, 9, 4.
 
 #### Original name
 null

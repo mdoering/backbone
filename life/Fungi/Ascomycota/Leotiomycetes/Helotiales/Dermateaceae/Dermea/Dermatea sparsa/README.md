@@ -1,5 +1,4 @@
-Dermatea sparsa Henn. SPECIES
-=======
+# Dermatea sparsa Henn. SPECIES
 
 #### Status
 ACCEPTED

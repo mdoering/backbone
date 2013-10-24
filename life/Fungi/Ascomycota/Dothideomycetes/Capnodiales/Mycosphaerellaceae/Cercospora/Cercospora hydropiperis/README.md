@@ -1,5 +1,4 @@
-Cercospora hydropiperis (Thüm.) Speg. SPECIES
-=======
+# Cercospora hydropiperis (Thüm.) Speg. SPECIES
 
 #### Status
 ACCEPTED

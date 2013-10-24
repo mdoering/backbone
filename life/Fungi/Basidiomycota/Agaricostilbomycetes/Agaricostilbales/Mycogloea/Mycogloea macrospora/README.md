@@ -1,14 +1,13 @@
-Dacrymyces macrosporus Berk. & Broome, 1873 SPECIES
-=======
+# Mycogloea macrospora (Berk. & Broome) McNabb, 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mag. nat. Hist. , Ser. 4 11: 343 (1873)
+Trans. Br. mycol. Soc. 48: 187 (1965)
 
 #### Original name
 Dacrymyces macrosporus Berk. & Broome, 1873

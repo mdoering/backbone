@@ -1,5 +1,4 @@
-Lecanora leptocheila Vain. SPECIES
-=======
+# Lecanora leptocheila Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Melanconiella spodiaea (Tul. & C. Tul.) Sacc., 1882 SPECIES
-=======
+# Melanconis spodiaea Tul. & C. Tul., 1856 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 1: 740 (1882)
+Annls Sci. Nat. , Bot. , sér. 4 5: 109 (1856)
 
 #### Original name
 Melanconis spodiaea Tul. & C. Tul., 1856

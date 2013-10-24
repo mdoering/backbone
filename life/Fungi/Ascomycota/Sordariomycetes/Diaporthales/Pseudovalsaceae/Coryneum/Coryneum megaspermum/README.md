@@ -1,5 +1,4 @@
-Coryneum megaspermum var. megaspermum VARIETY
-=======
+# Coryneum megaspermum Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Annls mycol. 10(1): 84 (1912)
 
 #### Original name
-Coryneum megaspermum var. megaspermum
+Coryneum megaspermum Syd. & P. Syd.
 
 ### Remarks
 null

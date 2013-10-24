@@ -1,5 +1,4 @@
-Leptothyrium crastophilum E. Bommer, M. Rousseau & Sacc. SPECIES
-=======
+# Leptothyrium crastophilum E. Bommer, M. Rousseau & Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Synarthonia stigmatidialis Müll. Arg. SPECIES
-=======
+# Synarthonia stigmatidialis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

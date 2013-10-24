@@ -1,5 +1,4 @@
-Lecidea amphoteroides Vain. SPECIES
-=======
+# Lecidea amphoteroides Vain. SPECIES
 
 #### Status
 ACCEPTED

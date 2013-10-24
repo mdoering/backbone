@@ -1,5 +1,4 @@
-Tritaxis challengeri (Hedley, Hurdle & Burdett, 1964) SPECIES
-=======
+# Tritaxis challengeri (Hedley, Hurdle & Burdett, 1964) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dimeromyces labiae Thaxt. SPECIES
-=======
+# Dimeromyces labiae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

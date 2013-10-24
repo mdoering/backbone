@@ -1,5 +1,4 @@
-Uncinia pilosa Velen. SPECIES
-=======
+# Uncinia pilosa Velen. SPECIES
 
 #### Status
 ACCEPTED

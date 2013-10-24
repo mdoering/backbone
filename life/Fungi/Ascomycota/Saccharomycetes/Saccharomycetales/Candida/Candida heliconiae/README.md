@@ -1,5 +1,4 @@
-Candida heliconiae Ruivo, Pagnocca, Lachance & C.A. Rosa SPECIES
-=======
+# Candida heliconiae Ruivo, Pagnocca, Lachance & C.A. Rosa SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Massaria moricola T. Miyake SPECIES
-=======
+# Massaria moricola T. Miyake SPECIES
 
 #### Status
 ACCEPTED

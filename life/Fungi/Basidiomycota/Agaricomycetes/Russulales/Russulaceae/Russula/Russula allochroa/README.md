@@ -1,17 +1,16 @@
-Russula allochrous McNabb SPECIES
-=======
+# Russula allochroa McNabb, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+N. Z. Jl Bot. 11(4): 680 (1973)
 
 #### Original name
-Russula allochrous McNabb
+Russula allochroa McNabb, 1973
 
 ### Remarks
 null

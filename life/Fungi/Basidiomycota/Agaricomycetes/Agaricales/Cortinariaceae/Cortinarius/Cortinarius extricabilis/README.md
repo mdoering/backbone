@@ -1,5 +1,4 @@
-Cortinarius extricabilis Britzelm. SPECIES
-=======
+# Cortinarius extricabilis Britzelm. SPECIES
 
 #### Status
 ACCEPTED

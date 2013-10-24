@@ -1,5 +1,4 @@
-Cuburbita GENUS
-=======
+# Cuburbita GENUS
 
 #### Status
 ACCEPTED

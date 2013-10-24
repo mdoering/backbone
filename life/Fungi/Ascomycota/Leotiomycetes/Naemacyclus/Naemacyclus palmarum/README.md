@@ -1,5 +1,4 @@
-Naemacyclus palmarum Syd. & P. Syd. SPECIES
-=======
+# Naemacyclus palmarum Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

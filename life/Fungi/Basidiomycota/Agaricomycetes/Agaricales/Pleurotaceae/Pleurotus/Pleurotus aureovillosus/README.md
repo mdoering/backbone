@@ -1,5 +1,4 @@
-Pleurotus aureovillosus Corner, 1981 SPECIES
-=======
+# Pleurotus aureovillosus Corner, 1981 SPECIES
 
 #### Status
 ACCEPTED

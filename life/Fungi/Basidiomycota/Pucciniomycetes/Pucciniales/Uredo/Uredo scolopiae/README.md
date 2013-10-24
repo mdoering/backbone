@@ -1,5 +1,4 @@
-Uredo scolopiae Syd. & P. Syd. SPECIES
-=======
+# Uredo scolopiae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

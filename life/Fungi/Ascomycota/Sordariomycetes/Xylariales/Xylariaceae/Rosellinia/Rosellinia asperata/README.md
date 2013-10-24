@@ -1,5 +1,4 @@
-Rosellinia asperata Massee SPECIES
-=======
+# Rosellinia asperata Massee SPECIES
 
 #### Status
 ACCEPTED

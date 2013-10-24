@@ -1,17 +1,16 @@
-Cercospora thunbergicola J.M. Yen SPECIES
-=======
+# Cercospora thunbergiicola J.M. Yen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revue Mycol. , Paris 30: 196 (1965)
 
 #### Original name
-Cercospora thunbergicola J.M. Yen
+Cercospora thunbergiicola J.M. Yen
 
 ### Remarks
 null

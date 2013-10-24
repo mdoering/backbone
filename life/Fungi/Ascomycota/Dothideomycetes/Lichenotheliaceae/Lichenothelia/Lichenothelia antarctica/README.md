@@ -1,5 +1,4 @@
-Lichenothelia antarctica Øvstedal SPECIES
-=======
+# Lichenothelia antarctica Øvstedal SPECIES
 
 #### Status
 ACCEPTED

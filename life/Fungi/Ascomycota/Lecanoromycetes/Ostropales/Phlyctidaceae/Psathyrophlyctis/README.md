@@ -1,5 +1,4 @@
-Psathyrophlyctis Brusse GENUS
-=======
+# Psathyrophlyctis Brusse GENUS
 
 #### Status
 ACCEPTED

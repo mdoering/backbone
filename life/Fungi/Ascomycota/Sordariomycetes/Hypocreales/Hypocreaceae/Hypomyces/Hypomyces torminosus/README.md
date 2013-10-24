@@ -1,14 +1,13 @@
-Peckiella torminosa (Mont.) Maire SPECIES
-=======
+# Hypomyces torminosus (Mont.) Tul., 1865 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Select. fung. carpol. (Paris) 3: 37 (1865)
 
 #### Original name
 Sphaeria torminosa Mont.

@@ -1,5 +1,4 @@
-Platysma GENUS
-=======
+# Platysma GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius testaceocanescens (Weinm.) Fr. SPECIES
-=======
+# Cortinarius testaceocanescens (Weinm.) Fr. SPECIES
 
 #### Status
 ACCEPTED

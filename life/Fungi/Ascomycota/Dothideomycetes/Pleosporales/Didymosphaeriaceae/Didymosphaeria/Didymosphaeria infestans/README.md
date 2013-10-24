@@ -1,5 +1,4 @@
-Didymosphaeria infestans Speg. SPECIES
-=======
+# Didymosphaeria infestans Speg. SPECIES
 
 #### Status
 ACCEPTED

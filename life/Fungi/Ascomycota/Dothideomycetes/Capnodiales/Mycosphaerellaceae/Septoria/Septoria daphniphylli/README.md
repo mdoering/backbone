@@ -1,5 +1,4 @@
-Septoria daphniphylli Dzhalag. SPECIES
-=======
+# Septoria daphniphylli Dzhalag. SPECIES
 
 #### Status
 ACCEPTED

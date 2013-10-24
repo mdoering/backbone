@@ -1,14 +1,13 @@
-Pileolaria shiraianus (Dietel & P. Syd.) S. Ito SPECIES
-=======
+# Pileolaria shiraiana (Dietel & P. Syd.) S. Ito SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 20(1/2): 85 (1922)
 
 #### Original name
 Uromyces shiraianus Dietel & P. Syd.

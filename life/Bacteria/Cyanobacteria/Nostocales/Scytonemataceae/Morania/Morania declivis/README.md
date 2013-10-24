@@ -1,5 +1,4 @@
-Morania declivis SPECIES
-=======
+# Morania declivis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria dianae Berk. & M.A. Curtis SPECIES
-=======
+# Septoria dianae Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhyniococcus D.S. Edwards & A.G. Lyon, 1983 GENUS
-=======
+# Rhyniococcus D.S. Edwards & A.G. Lyon, 1983 GENUS
 
 #### Status
 ACCEPTED

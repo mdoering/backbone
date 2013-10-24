@@ -1,8 +1,7 @@
-Choanophrya infunibulifera (Hartog, 1902) Hartog, 1902 SPECIES
-=======
+# Choanophrya infundibulifera (Hartog, 1881) Hartog, 1902 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

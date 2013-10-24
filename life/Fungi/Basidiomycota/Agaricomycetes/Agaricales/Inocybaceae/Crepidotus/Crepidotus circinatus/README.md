@@ -1,5 +1,4 @@
-Crepidotus circinatus Hesler & A.H. Sm. SPECIES
-=======
+# Crepidotus circinatus Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

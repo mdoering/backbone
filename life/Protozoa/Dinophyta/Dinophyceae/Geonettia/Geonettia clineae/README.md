@@ -1,5 +1,4 @@
-Geonettia clineae L. De Verteuil & G. Norris SPECIES
-=======
+# Geonettia clineae L. De Verteuil & G. Norris SPECIES
 
 #### Status
 ACCEPTED

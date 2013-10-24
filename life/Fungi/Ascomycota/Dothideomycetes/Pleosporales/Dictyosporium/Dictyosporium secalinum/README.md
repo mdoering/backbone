@@ -1,5 +1,4 @@
-Dictyosporium secalinum Delacr. SPECIES
-=======
+# Dictyosporium secalinum Delacr. SPECIES
 
 #### Status
 ACCEPTED

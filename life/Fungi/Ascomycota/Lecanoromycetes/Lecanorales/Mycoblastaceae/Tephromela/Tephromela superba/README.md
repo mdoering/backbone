@@ -1,5 +1,4 @@
-Tephromela superba Fryday SPECIES
-=======
+# Tephromela superba Fryday SPECIES
 
 #### Status
 ACCEPTED

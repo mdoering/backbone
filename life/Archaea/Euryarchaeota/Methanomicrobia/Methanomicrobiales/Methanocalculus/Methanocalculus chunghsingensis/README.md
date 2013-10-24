@@ -1,5 +1,4 @@
-Methanocalculus chunghsingensis Lai et al., 2004 SPECIES
-=======
+# Methanocalculus chunghsingensis Lai et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

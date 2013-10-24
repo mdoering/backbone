@@ -1,5 +1,4 @@
-Ramaria luteoflaccida Corner, 1950 SPECIES
-=======
+# Ramaria luteoflaccida Corner, 1950 SPECIES
 
 #### Status
 ACCEPTED

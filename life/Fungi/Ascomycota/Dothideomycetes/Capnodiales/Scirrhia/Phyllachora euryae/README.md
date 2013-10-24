@@ -1,8 +1,7 @@
-Phyllachora transiens Syd., P. Syd. & E.J. Butler, 1911 SPECIES
-=======
+# Phyllachora euryae (Racib.) Arx & E. Müll., 1954 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

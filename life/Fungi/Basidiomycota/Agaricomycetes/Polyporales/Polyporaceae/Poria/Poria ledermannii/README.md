@@ -1,5 +1,4 @@
-Poria ledermannii Syd. SPECIES
-=======
+# Poria ledermannii Syd. SPECIES
 
 #### Status
 ACCEPTED

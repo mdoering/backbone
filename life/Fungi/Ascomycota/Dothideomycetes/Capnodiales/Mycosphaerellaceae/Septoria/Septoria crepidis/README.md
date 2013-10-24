@@ -1,5 +1,4 @@
-Septoria crepidis Vestergr., 1896 SPECIES
-=======
+# Septoria crepidis Vestergr., 1896 SPECIES
 
 #### Status
 ACCEPTED

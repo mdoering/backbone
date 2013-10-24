@@ -1,14 +1,13 @@
-Lingulinopsis Reuss, 1869 GENUS
-=======
+# Pseudonodosaria Boomgaart, 1949 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Smaller Foraminif. from Bodjonegoro (Java). Utrecht, 81.
 
 #### Original name
 null

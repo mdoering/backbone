@@ -1,5 +1,4 @@
-Lachnum brunneolum P. Karst. SPECIES
-=======
+# Lachnum brunneolum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

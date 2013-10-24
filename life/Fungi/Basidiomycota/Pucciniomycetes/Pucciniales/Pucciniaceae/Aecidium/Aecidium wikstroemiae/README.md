@@ -1,5 +1,4 @@
-Aecidium wikstroemiae B. Li SPECIES
-=======
+# Aecidium wikstroemiae B. Li SPECIES
 
 #### Status
 ACCEPTED

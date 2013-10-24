@@ -1,5 +1,4 @@
-Podosordaria appendiculata (Ferd. & Winge) P.M.D. Martin SPECIES
-=======
+# Podosordaria appendiculata (Ferd. & Winge) P.M.D. Martin SPECIES
 
 #### Status
 ACCEPTED

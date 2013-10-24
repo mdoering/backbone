@@ -1,5 +1,4 @@
-Microthelia oxyspora Zahlbr. SPECIES
-=======
+# Microthelia oxyspora Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

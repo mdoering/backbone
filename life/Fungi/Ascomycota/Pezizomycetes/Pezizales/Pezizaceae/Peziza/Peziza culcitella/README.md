@@ -1,5 +1,4 @@
-Peziza culcitella Cooke & Ellis SPECIES
-=======
+# Peziza culcitella Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

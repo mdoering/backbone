@@ -1,5 +1,4 @@
-Helotium glochidiatum Velen. SPECIES
-=======
+# Helotium glochidiatum Velen. SPECIES
 
 #### Status
 ACCEPTED

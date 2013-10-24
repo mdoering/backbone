@@ -1,5 +1,4 @@
-Buellia hypothallina Aptroot SPECIES
-=======
+# Buellia hypothallina Aptroot SPECIES
 
 #### Status
 ACCEPTED

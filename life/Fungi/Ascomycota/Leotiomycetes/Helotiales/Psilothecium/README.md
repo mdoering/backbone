@@ -1,5 +1,4 @@
-Psilothecium Clements, 1903 GENUS
-=======
+# Psilothecium Clements, 1903 GENUS
 
 #### Status
 ACCEPTED

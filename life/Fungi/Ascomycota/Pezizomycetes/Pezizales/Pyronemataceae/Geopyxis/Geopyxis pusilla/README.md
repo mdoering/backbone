@@ -1,5 +1,4 @@
-Geopyxis pusilla Velen. SPECIES
-=======
+# Geopyxis pusilla Velen. SPECIES
 
 #### Status
 ACCEPTED

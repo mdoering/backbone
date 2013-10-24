@@ -1,5 +1,4 @@
-Calcidiscus protoannulus (Gartner, 1971) Loeblich & Tappan, 1978 SPECIES
-=======
+# Calcidiscus protoannulus (Gartner, 1971) Loeblich & Tappan, 1978 SPECIES
 
 #### Status
 ACCEPTED

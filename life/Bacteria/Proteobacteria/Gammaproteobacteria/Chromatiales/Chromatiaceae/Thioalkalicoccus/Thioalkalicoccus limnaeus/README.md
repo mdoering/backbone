@@ -1,5 +1,4 @@
-Thioalkalicoccus limnaeus Bryantseva et al., 2000 SPECIES
-=======
+# Thioalkalicoccus limnaeus Bryantseva et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

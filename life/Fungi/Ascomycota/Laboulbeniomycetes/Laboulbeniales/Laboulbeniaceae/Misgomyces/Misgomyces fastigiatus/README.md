@@ -1,5 +1,4 @@
-Misgomyces fastigiatus Thaxt. SPECIES
-=======
+# Misgomyces fastigiatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

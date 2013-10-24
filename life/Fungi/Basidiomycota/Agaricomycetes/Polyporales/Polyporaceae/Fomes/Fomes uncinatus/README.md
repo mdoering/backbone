@@ -1,5 +1,4 @@
-Fomes uncinatus Bres. SPECIES
-=======
+# Fomes uncinatus Bres. SPECIES
 
 #### Status
 ACCEPTED

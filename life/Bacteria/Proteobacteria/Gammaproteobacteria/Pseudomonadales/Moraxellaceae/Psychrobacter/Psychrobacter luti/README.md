@@ -1,5 +1,4 @@
-Psychrobacter luti Bozal et al., 2003 SPECIES
-=======
+# Psychrobacter luti Bozal et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

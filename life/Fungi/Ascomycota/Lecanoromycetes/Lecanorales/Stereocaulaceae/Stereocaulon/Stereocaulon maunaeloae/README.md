@@ -1,5 +1,4 @@
-Stereocaulon maunaeloae H. Magn. SPECIES
-=======
+# Stereocaulon maunaeloae H. Magn. SPECIES
 
 #### Status
 ACCEPTED

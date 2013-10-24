@@ -1,5 +1,4 @@
-Ceratomyces longicornis Thaxt. SPECIES
-=======
+# Ceratomyces longicornis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

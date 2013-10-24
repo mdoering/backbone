@@ -1,5 +1,4 @@
-Ctedectomatidae FAMILY
-=======
+# Ctedectomatidae FAMILY
 
 #### Status
 ACCEPTED

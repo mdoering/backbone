@@ -1,5 +1,4 @@
-Agaricus melaspermus Bull. SPECIES
-=======
+# Agaricus melaspermus Bull. SPECIES
 
 #### Status
 ACCEPTED

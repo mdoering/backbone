@@ -1,5 +1,4 @@
-Streptomyces sindenensis Nakazawa and Fujii, 1957 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces sindenensis Nakazawa and Fujii, 1957 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

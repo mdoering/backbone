@@ -1,5 +1,4 @@
-Phlebia brevispora Nakasone, 1981 SPECIES
-=======
+# Phlebia brevispora Nakasone, 1981 SPECIES
 
 #### Status
 ACCEPTED

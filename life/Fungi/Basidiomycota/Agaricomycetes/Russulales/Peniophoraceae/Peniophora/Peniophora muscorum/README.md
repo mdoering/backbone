@@ -1,5 +1,4 @@
-Peniophora muscorum (J. Schröt.) Höhn. SPECIES
-=======
+# Peniophora muscorum (J. Schröt.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina mahoniae Keissl., 1924 SPECIES
-=======
+# Asterina mahoniae Keissl., 1924 SPECIES
 
 #### Status
 ACCEPTED

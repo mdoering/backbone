@@ -1,5 +1,4 @@
-Pholiota acutoconica A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota acutoconica A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

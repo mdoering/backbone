@@ -1,5 +1,4 @@
-Pseudospiropes M.B. Ellis, 1971 GENUS
-=======
+# Pseudospiropes M.B. Ellis, 1971 GENUS
 
 #### Status
 ACCEPTED

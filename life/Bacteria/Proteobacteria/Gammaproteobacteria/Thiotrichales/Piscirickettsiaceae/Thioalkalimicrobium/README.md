@@ -1,5 +1,4 @@
-Thioalkalimicrobium Sorokin et al., 2001 GENUS
-=======
+# Thioalkalimicrobium Sorokin et al., 2001 GENUS
 
 #### Status
 ACCEPTED

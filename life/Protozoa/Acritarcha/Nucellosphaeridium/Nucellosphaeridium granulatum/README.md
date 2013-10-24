@@ -1,5 +1,4 @@
-Nucellosphaeridium granulatum Yang Qinghe et al., 1980 SPECIES
-=======
+# Nucellosphaeridium granulatum Yang Qinghe et al., 1980 SPECIES
 
 #### Status
 ACCEPTED

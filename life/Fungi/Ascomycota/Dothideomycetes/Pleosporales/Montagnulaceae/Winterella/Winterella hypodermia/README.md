@@ -1,17 +1,16 @@
-Valsa hypodermia Fr. SPECIES
-=======
+# Winterella hypodermia (Fr.) J. Reid & C. Booth, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Can. J. Bot. 67(3): 880 (1989)
 
 #### Original name
-null
+Sphaeria hypodermia Fr., 1823
 
 ### Remarks
 null

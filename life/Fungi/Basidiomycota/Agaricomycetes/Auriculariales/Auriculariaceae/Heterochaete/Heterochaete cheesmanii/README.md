@@ -1,5 +1,4 @@
-Heterochaete cheesmanii Wakef. SPECIES
-=======
+# Heterochaete cheesmanii Wakef. SPECIES
 
 #### Status
 ACCEPTED

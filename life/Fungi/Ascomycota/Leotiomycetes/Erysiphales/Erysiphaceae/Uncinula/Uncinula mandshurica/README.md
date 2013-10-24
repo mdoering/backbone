@@ -1,5 +1,4 @@
-Uncinula mandshurica Miura SPECIES
-=======
+# Uncinula mandshurica Miura SPECIES
 
 #### Status
 ACCEPTED

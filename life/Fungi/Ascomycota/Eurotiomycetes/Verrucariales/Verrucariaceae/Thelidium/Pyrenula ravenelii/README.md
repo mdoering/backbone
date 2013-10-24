@@ -1,5 +1,4 @@
-Pyrenula ravenelii (Tuck.) R.C. Harris, 1989 SPECIES
-=======
+# Pyrenula ravenelii (Tuck.) R.C. Harris, 1989 SPECIES
 
 #### Status
 DOUBTFUL

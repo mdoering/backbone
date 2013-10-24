@@ -1,5 +1,4 @@
-Pluteus sandalioticus Contu & Arras SPECIES
-=======
+# Pluteus sandalioticus Contu & Arras SPECIES
 
 #### Status
 ACCEPTED

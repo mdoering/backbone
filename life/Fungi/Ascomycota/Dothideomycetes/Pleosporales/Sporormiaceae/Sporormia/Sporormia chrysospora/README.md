@@ -1,5 +1,4 @@
-Sporormia chrysospora Griffiths SPECIES
-=======
+# Sporormia chrysospora Griffiths SPECIES
 
 #### Status
 ACCEPTED

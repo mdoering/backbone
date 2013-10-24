@@ -1,5 +1,4 @@
-Phyllosticta gelonii H.S. Yates SPECIES
-=======
+# Phyllosticta gelonii H.S. Yates SPECIES
 
 #### Status
 ACCEPTED

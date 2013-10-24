@@ -1,17 +1,16 @@
-Sphaeria populi Sowerby, 1803 SPECIES
-=======
+# Melampsora laricis-populina Kleb., 1902 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Col. fig. Engl. Fung. Mushr. (1803)
+Z. PflKrankh. PflPath. PflSchutz 12: 43 (1902)
 
 #### Original name
-Sphaeria populi Sowerby, 1803
+Melampsora laricis-populina Kleb., 1902
 
 ### Remarks
 null

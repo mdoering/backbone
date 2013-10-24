@@ -1,14 +1,13 @@
-Phaeographina caracasana (Müll. Arg.) Müll. Arg. SPECIES
-=======
+# Kalbographa caracasana (Müll. Arg.) Lücking SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biblthca Lichenol. 96: 188 (2007)
 
 #### Original name
 Graphina caracasana Müll. Arg.

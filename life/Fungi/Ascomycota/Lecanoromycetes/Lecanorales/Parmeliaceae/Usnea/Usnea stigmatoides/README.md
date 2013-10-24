@@ -1,5 +1,4 @@
-Usnea stigmatoides G. Awasthi SPECIES
-=======
+# Usnea stigmatoides G. Awasthi SPECIES
 
 #### Status
 ACCEPTED

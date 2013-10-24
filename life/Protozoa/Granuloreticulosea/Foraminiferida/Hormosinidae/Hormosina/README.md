@@ -1,5 +1,4 @@
-Hormosina Brady, 1879 GENUS
-=======
+# Hormosina Brady, 1879 GENUS
 
 #### Status
 ACCEPTED

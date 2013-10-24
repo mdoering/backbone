@@ -1,5 +1,4 @@
-Septoria marathwadensis Rajd. SPECIES
-=======
+# Septoria marathwadensis Rajd. SPECIES
 
 #### Status
 ACCEPTED

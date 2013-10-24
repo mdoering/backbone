@@ -1,5 +1,4 @@
-Amygdalaria Norman GENUS
-=======
+# Amygdalaria Norman GENUS
 
 #### Status
 ACCEPTED

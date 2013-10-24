@@ -1,5 +1,4 @@
-Lecanora symmictoides Nyl. SPECIES
-=======
+# Lecanora symmictoides Nyl. SPECIES
 
 #### Status
 ACCEPTED

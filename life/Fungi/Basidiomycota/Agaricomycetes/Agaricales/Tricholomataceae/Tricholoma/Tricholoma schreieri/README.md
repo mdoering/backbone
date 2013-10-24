@@ -1,5 +1,4 @@
-Tricholoma schreieri Maire & Konrad SPECIES
-=======
+# Tricholoma schreieri Maire & Konrad SPECIES
 
 #### Status
 ACCEPTED

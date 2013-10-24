@@ -1,5 +1,4 @@
-Methanothermus fervidus Stetter, 1982 SPECIES
-=======
+# Methanothermus fervidus Stetter, 1982 SPECIES
 
 #### Status
 ACCEPTED

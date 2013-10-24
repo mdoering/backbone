@@ -1,5 +1,4 @@
-Phaeographina maxima Groenh. SPECIES
-=======
+# Phaeographina maxima Groenh. SPECIES
 
 #### Status
 ACCEPTED

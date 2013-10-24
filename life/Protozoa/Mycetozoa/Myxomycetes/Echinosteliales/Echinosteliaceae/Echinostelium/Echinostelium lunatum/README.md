@@ -1,5 +1,4 @@
-Echinostelium lunatum L.S. Olive & Stoian., 1971 SPECIES
-=======
+# Echinostelium lunatum L.S. Olive & Stoian., 1971 SPECIES
 
 #### Status
 ACCEPTED

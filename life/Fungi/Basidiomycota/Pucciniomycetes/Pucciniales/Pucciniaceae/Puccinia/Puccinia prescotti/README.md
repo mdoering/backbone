@@ -1,5 +1,4 @@
-Puccinia prescotti Lindr. SPECIES
-=======
+# Puccinia prescotti Lindr. SPECIES
 
 #### Status
 ACCEPTED

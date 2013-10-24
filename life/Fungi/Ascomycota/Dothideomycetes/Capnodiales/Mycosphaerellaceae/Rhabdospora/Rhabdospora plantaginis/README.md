@@ -1,5 +1,4 @@
-Rhabdospora plantaginis Naumov SPECIES
-=======
+# Rhabdospora plantaginis Naumov SPECIES
 
 #### Status
 ACCEPTED

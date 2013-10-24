@@ -1,5 +1,4 @@
-Collybia fimicola Earle SPECIES
-=======
+# Collybia fimicola Earle SPECIES
 
 #### Status
 ACCEPTED

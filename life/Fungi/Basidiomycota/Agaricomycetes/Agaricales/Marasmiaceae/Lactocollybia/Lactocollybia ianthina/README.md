@@ -1,14 +1,13 @@
-Bertrandiella ianthina R. Heim, 1958 SPECIES
-=======
+# Lactocollybia ianthina (R. Heim) Singer, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revue Mycol. , Paris (1966)
+null
 
 #### Original name
 Bertrandiella ianthina R. Heim, 1958

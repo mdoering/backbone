@@ -1,5 +1,4 @@
-Arachnocalpis ovatiretalis Takahashi, 1991 SPECIES
-=======
+# Arachnocalpis ovatiretalis Takahashi, 1991 SPECIES
 
 #### Status
 ACCEPTED

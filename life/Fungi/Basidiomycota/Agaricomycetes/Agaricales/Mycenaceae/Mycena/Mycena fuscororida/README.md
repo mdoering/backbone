@@ -1,5 +1,4 @@
-Mycena fuscororida Maas Geest. & de Meijer SPECIES
-=======
+# Mycena fuscororida Maas Geest. & de Meijer SPECIES
 
 #### Status
 ACCEPTED

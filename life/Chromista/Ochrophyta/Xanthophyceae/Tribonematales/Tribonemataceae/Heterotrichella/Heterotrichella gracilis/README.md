@@ -1,5 +1,4 @@
-Heterotrichella gracilis Reisigl SPECIES
-=======
+# Heterotrichella gracilis Reisigl SPECIES
 
 #### Status
 ACCEPTED

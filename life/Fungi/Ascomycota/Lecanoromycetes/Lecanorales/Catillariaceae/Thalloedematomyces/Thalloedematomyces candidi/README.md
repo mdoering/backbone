@@ -1,5 +1,4 @@
-Thalloedematomyces candidi E.A. Thomas ex Cif. & Tomas. SPECIES
-=======
+# Thalloedematomyces candidi E.A. Thomas ex Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

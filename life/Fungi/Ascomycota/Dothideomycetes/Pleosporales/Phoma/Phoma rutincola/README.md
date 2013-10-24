@@ -1,5 +1,4 @@
-Phoma rutincola Petr. SPECIES
-=======
+# Phoma rutincola Petr. SPECIES
 
 #### Status
 ACCEPTED

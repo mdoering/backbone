@@ -1,5 +1,4 @@
-Cannosphaeropsis mirabilis Cookson & Eisenack SPECIES
-=======
+# Cannosphaeropsis mirabilis Cookson & Eisenack SPECIES
 
 #### Status
 ACCEPTED

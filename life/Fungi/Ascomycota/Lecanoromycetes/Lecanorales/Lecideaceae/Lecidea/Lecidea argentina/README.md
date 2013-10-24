@@ -1,5 +1,4 @@
-Lecidea argentina f. argentina FORM
-=======
+# Lecidea argentina (Gyeln.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Cat. Lich. Univers. 10: 346 (1939)
 
 #### Original name
-Lecidea argentina f. argentina
+Schaereria argentina Gyeln.
 
 ### Remarks
 null

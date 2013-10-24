@@ -1,5 +1,4 @@
-Agaricus micromegas Berk. SPECIES
-=======
+# Agaricus micromegas Berk. SPECIES
 
 #### Status
 ACCEPTED

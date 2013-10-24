@@ -1,5 +1,4 @@
-Halobacteroides acetoethylicus Rengpipat et al., 1989 SPECIES
-=======
+# Halobacteroides acetoethylicus Rengpipat et al., 1989 SPECIES
 
 #### Status
 ACCEPTED

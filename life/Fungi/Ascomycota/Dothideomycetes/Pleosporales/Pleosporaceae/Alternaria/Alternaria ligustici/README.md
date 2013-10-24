@@ -1,5 +1,4 @@
-Alternaria ligustici J.Z. Zhang & T.Y. Zhang SPECIES
-=======
+# Alternaria ligustici J.Z. Zhang & T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

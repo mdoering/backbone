@@ -1,5 +1,4 @@
-Psorophorus pholidotus (Mont.) Elvebakk SPECIES
-=======
+# Psorophorus pholidotus (Mont.) Elvebakk SPECIES
 
 #### Status
 ACCEPTED

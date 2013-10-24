@@ -1,5 +1,4 @@
-Amphitetras Ehrenberg, 1840 GENUS
-=======
+# Amphitetras Ehrenberg, 1840 GENUS
 
 #### Status
 ACCEPTED

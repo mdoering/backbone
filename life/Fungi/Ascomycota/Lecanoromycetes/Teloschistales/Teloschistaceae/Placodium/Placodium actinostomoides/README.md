@@ -1,5 +1,4 @@
-Placodium actinostomoides (J. Steiner) Motyka SPECIES
-=======
+# Placodium actinostomoides (J. Steiner) Motyka SPECIES
 
 #### Status
 ACCEPTED

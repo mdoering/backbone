@@ -1,5 +1,4 @@
-Dicyrtoidae FAMILY
-=======
+# Dicyrtoidae FAMILY
 
 #### Status
 ACCEPTED

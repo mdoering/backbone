@@ -1,5 +1,4 @@
-Aposphaeria pulicaris Sacc. SPECIES
-=======
+# Aposphaeria pulicaris Sacc. SPECIES
 
 #### Status
 ACCEPTED

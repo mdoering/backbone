@@ -1,5 +1,4 @@
-Apofrontonia lamentschwandtneri Foissner & Song, 2002 SPECIES
-=======
+# Apofrontonia lamentschwandtneri Foissner & Song, 2002 SPECIES
 
 #### Status
 ACCEPTED

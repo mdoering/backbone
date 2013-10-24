@@ -1,5 +1,4 @@
-Kravtzevia Shvartsman GENUS
-=======
+# Kravtzevia Shvartsman GENUS
 
 #### Status
 ACCEPTED

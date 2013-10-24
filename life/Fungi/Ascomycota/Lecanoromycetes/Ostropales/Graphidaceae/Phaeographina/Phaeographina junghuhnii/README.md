@@ -1,5 +1,4 @@
-Phaeographina junghuhnii SPECIES
-=======
+# Phaeographina junghuhnii SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo panici-prostrati Syd. & P. Syd. SPECIES
-=======
+# Uredo panici-prostrati Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

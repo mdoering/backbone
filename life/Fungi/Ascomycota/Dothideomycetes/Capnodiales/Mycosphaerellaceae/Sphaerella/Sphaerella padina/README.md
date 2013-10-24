@@ -1,5 +1,4 @@
-Sphaerella padina P. Karst. SPECIES
-=======
+# Sphaerella padina P. Karst. SPECIES
 
 #### Status
 ACCEPTED

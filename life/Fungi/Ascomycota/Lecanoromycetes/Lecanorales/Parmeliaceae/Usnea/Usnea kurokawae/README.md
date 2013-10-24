@@ -1,5 +1,4 @@
-Usnea kurokawae Asahina SPECIES
-=======
+# Usnea kurokawae Asahina SPECIES
 
 #### Status
 ACCEPTED

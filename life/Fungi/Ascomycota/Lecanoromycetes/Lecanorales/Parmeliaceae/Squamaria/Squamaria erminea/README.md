@@ -1,5 +1,4 @@
-Squamaria erminea (Hue) Maheu & A. Gillet SPECIES
-=======
+# Squamaria erminea (Hue) Maheu & A. Gillet SPECIES
 
 #### Status
 ACCEPTED

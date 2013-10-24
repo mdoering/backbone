@@ -1,5 +1,4 @@
-Corticium marescalchianum Mancini & Sacc. SPECIES
-=======
+# Corticium marescalchianum Mancini & Sacc. SPECIES
 
 #### Status
 ACCEPTED

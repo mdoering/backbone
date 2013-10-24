@@ -1,5 +1,4 @@
-Stagonospora scirpini Ellis & Everh. SPECIES
-=======
+# Stagonospora scirpini Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

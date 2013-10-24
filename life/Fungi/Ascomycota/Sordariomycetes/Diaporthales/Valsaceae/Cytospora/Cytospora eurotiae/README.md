@@ -1,5 +1,4 @@
-Cytospora eurotiae Kravtzev SPECIES
-=======
+# Cytospora eurotiae Kravtzev SPECIES
 
 #### Status
 ACCEPTED

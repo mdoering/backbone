@@ -1,5 +1,4 @@
-Tuber niveum Desf. SPECIES
-=======
+# Tuber niveum Desf. SPECIES
 
 #### Status
 ACCEPTED

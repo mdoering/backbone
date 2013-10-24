@@ -1,5 +1,4 @@
-Pseudocercospora hibisci-mutabilis (S.H. Sun) J.M. Yen SPECIES
-=======
+# Pseudocercospora hibisci-mutabilis (S.H. Sun) J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

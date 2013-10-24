@@ -1,5 +1,4 @@
-Xerocomus bubalinus (Oolbekk. & Duin) Redeuilh SPECIES
-=======
+# Xerocomus bubalinus (Oolbekk. & Duin) Redeuilh SPECIES
 
 #### Status
 ACCEPTED

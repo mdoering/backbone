@@ -1,5 +1,4 @@
-Lachnea jaluitensis Henn. SPECIES
-=======
+# Lachnea jaluitensis Henn. SPECIES
 
 #### Status
 ACCEPTED

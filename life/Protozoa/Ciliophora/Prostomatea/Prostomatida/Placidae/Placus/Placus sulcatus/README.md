@@ -1,5 +1,4 @@
-Placus sulcatus Mansfeld, 1923 SPECIES
-=======
+# Placus sulcatus Mansfeld, 1923 SPECIES
 
 #### Status
 ACCEPTED

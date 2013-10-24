@@ -1,5 +1,4 @@
-Clavibacter Davis, Gillaspsie, Vidaver & Harris, 1984 GENUS
-=======
+# Clavibacter Davis, Gillaspsie, Vidaver & Harris, 1984 GENUS
 
 #### Status
 ACCEPTED

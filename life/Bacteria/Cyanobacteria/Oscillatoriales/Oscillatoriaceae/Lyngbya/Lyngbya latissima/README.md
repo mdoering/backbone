@@ -1,5 +1,4 @@
-Lyngbya latissima Prescott SPECIES
-=======
+# Lyngbya latissima Prescott SPECIES
 
 #### Status
 ACCEPTED

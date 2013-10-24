@@ -1,5 +1,4 @@
-Leptosphaeria ailanthi P. Karst. & Har. SPECIES
-=======
+# Leptosphaeria ailanthi P. Karst. & Har. SPECIES
 
 #### Status
 ACCEPTED

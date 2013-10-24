@@ -1,5 +1,4 @@
-Halopappus Lohmann, 1912 GENUS
-=======
+# Halopappus Lohmann, 1912 GENUS
 
 #### Status
 ACCEPTED

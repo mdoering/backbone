@@ -1,5 +1,4 @@
-Ectocarpus breviarticulatus J. Agardh SPECIES
-=======
+# Ectocarpus breviarticulatus J. Agardh SPECIES
 
 #### Status
 ACCEPTED

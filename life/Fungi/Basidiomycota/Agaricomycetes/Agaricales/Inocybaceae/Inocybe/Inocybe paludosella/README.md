@@ -1,5 +1,4 @@
-Inocybe paludosella G.F. Atk. SPECIES
-=======
+# Inocybe paludosella G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphina oxyspora Zahlbr. SPECIES
-=======
+# Graphina oxyspora Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

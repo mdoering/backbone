@@ -1,5 +1,4 @@
-Pezizella helotioides Starbäck SPECIES
-=======
+# Pezizella helotioides Starbäck SPECIES
 
 #### Status
 ACCEPTED

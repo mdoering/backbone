@@ -1,5 +1,4 @@
-Chiasmolithus minimus K. Perch-Nielsen SPECIES
-=======
+# Chiasmolithus minimus K. Perch-Nielsen SPECIES
 
 #### Status
 ACCEPTED

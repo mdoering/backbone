@@ -1,5 +1,4 @@
-Lichen mazarinus Wahlenb. SPECIES
-=======
+# Lichen mazarinus Wahlenb. SPECIES
 
 #### Status
 ACCEPTED

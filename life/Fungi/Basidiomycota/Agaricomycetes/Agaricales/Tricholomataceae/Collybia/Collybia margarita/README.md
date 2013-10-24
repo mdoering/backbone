@@ -1,5 +1,4 @@
-Collybia margarita (Murrill) Singer SPECIES
-=======
+# Collybia margarita (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

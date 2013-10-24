@@ -1,5 +1,4 @@
-Splanchnonema sporadicum (Ellis & Everh.) M.E. Barr SPECIES
-=======
+# Splanchnonema sporadicum (Ellis & Everh.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

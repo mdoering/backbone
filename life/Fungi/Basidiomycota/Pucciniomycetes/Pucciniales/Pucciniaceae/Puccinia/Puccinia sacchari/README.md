@@ -1,5 +1,4 @@
-Puccinia sacchari Patel, Kamat & Y.A. Padhye SPECIES
-=======
+# Puccinia sacchari Patel, Kamat & Y.A. Padhye SPECIES
 
 #### Status
 ACCEPTED

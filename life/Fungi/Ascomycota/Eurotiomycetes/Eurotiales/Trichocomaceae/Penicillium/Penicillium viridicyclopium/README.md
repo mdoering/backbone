@@ -1,5 +1,4 @@
-Penicillium viridicyclopium S. Abe SPECIES
-=======
+# Penicillium viridicyclopium S. Abe SPECIES
 
 #### Status
 ACCEPTED

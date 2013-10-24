@@ -1,5 +1,4 @@
-Heterocapsa orientalis Iwataki & Fukuyo, 2003 SPECIES
-=======
+# Heterocapsa orientalis Iwataki & Fukuyo, 2003 SPECIES
 
 #### Status
 ACCEPTED

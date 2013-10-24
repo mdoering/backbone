@@ -1,5 +1,4 @@
-Scleroderma floridanum Guzmán, 1967 SPECIES
-=======
+# Scleroderma floridanum Guzmán, 1967 SPECIES
 
 #### Status
 ACCEPTED

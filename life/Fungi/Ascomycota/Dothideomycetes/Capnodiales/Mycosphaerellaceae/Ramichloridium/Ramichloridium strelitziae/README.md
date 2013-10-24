@@ -1,5 +1,4 @@
-Ramichloridium strelitziae Arzanlou, W. Gams & Crous SPECIES
-=======
+# Ramichloridium strelitziae Arzanlou, W. Gams & Crous SPECIES
 
 #### Status
 ACCEPTED

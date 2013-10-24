@@ -1,5 +1,4 @@
-Diplodia ochromae Pat. SPECIES
-=======
+# Diplodia ochromae Pat. SPECIES
 
 #### Status
 ACCEPTED

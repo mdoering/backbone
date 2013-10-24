@@ -1,5 +1,4 @@
-Acaulospora polonica Blaszk., 1988 SPECIES
-=======
+# Acaulospora polonica Blaszk., 1988 SPECIES
 
 #### Status
 ACCEPTED

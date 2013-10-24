@@ -1,11 +1,10 @@
-Porina chlorotica var. chlorotica VARIETY
-=======
+# Porina chlorotica (Ach.) Müll. Arg., 1884 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
 null

@@ -1,11 +1,10 @@
-Capsicarpella Bory de Saint-Vincent, 1823 GENUS
-=======
+# Ectocarpus Lyngbye, 1819 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

@@ -1,5 +1,4 @@
-Grandigallia dictyospora M.E. Barr, Hanlin, Cedeño, Parra & R. Hern., 1987 SPECIES
-=======
+# Grandigallia dictyospora M.E. Barr, Hanlin, Cedeño, Parra & R. Hern., 1987 SPECIES
 
 #### Status
 ACCEPTED

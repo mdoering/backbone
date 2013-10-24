@@ -1,5 +1,4 @@
-Mycosphaerella burnatii Cruchet SPECIES
-=======
+# Mycosphaerella burnatii Cruchet SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cordana johnstonii M.B. Ellis, 1971 SPECIES
-=======
+# Cordana johnstonii M.B. Ellis, 1971 SPECIES
 
 #### Status
 ACCEPTED

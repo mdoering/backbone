@@ -1,5 +1,4 @@
-Meliola fagarae Hansf., 1941 SPECIES
-=======
+# Meliola fagarae Hansf., 1941 SPECIES
 
 #### Status
 ACCEPTED

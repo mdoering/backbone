@@ -1,5 +1,4 @@
-Cyanophanon Geitler, 1955 GENUS
-=======
+# Cyanophanon Geitler, 1955 GENUS
 
 #### Status
 ACCEPTED

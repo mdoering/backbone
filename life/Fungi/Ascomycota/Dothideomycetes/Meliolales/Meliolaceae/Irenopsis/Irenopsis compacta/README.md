@@ -1,5 +1,4 @@
-Irenopsis compacta (Lév.) Stevens SPECIES
-=======
+# Irenopsis compacta (Lév.) Stevens SPECIES
 
 #### Status
 ACCEPTED

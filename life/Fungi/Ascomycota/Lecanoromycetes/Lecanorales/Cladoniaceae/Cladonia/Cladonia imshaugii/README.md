@@ -1,5 +1,4 @@
-Cladonia imshaugii Ahti SPECIES
-=======
+# Cladonia imshaugii Ahti SPECIES
 
 #### Status
 ACCEPTED

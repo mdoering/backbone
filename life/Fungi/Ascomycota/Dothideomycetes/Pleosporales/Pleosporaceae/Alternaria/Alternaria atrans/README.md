@@ -1,5 +1,4 @@
-Alternaria atrans W.H. Gibson SPECIES
-=======
+# Alternaria atrans W.H. Gibson SPECIES
 
 #### Status
 ACCEPTED

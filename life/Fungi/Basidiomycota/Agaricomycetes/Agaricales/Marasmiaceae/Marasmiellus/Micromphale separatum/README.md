@@ -1,5 +1,4 @@
-Micromphale separatum Singer SPECIES
-=======
+# Micromphale separatum Singer SPECIES
 
 #### Status
 ACCEPTED

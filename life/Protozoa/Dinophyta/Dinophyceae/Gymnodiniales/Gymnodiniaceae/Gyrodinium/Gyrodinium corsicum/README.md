@@ -1,5 +1,4 @@
-Gyrodinium corsicum Paulmier, Berland, Billard & Nezan SPECIES
-=======
+# Gyrodinium corsicum Paulmier, Berland, Billard & Nezan SPECIES
 
 #### Status
 ACCEPTED

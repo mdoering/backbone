@@ -1,5 +1,4 @@
-Coelomomyces macleayae Laird SPECIES
-=======
+# Coelomomyces macleayae Laird SPECIES
 
 #### Status
 ACCEPTED

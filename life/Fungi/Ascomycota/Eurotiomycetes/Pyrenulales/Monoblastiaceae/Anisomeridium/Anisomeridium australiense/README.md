@@ -1,14 +1,13 @@
-Ditremis australiensis P.M. McCarthy SPECIES
-=======
+# Anisomeridium australiense (P.M. McCarthy) R.C. Harris SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Aust. Syst. Bot. 5(1): 125 (1992)
+More Florida Lichens (New York), Incl. 10 Cent Tour Pyrenol. 144 (1995)
 
 #### Original name
 Ditremis australiensis P.M. McCarthy

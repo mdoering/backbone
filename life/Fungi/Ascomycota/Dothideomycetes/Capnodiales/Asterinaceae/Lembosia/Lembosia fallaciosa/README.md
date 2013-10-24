@@ -1,5 +1,4 @@
-Lembosia fallaciosa (Syd. & P. Syd.) Hansf. SPECIES
-=======
+# Lembosia fallaciosa (Syd. & P. Syd.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

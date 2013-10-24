@@ -1,5 +1,4 @@
-Oidiopsis indica Sriniv. SPECIES
-=======
+# Oidiopsis indica Sriniv. SPECIES
 
 #### Status
 ACCEPTED

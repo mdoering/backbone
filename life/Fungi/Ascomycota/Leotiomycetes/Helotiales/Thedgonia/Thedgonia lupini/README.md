@@ -1,5 +1,4 @@
-Thedgonia lupini (Davis) U. Braun SPECIES
-=======
+# Thedgonia lupini (Davis) U. Braun SPECIES
 
 #### Status
 ACCEPTED

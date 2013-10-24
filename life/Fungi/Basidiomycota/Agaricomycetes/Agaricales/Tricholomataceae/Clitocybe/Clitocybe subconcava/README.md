@@ -1,5 +1,4 @@
-Clitocybe subconcava Peck SPECIES
-=======
+# Clitocybe subconcava Peck SPECIES
 
 #### Status
 ACCEPTED

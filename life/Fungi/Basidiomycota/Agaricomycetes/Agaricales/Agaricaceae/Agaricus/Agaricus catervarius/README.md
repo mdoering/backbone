@@ -1,5 +1,4 @@
-Agaricus catervarius Lév. SPECIES
-=======
+# Agaricus catervarius Lév. SPECIES
 
 #### Status
 ACCEPTED

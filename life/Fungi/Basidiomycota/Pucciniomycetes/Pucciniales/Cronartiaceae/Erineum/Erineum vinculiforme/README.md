@@ -1,5 +1,4 @@
-Erineum vinculiforme Corda SPECIES
-=======
+# Erineum vinculiforme Corda SPECIES
 
 #### Status
 ACCEPTED

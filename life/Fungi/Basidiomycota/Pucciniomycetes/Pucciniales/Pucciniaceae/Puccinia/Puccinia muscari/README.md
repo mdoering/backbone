@@ -1,5 +1,4 @@
-Puccinia muscari anon. SPECIES
-=======
+# Puccinia muscari anon. SPECIES
 
 #### Status
 ACCEPTED

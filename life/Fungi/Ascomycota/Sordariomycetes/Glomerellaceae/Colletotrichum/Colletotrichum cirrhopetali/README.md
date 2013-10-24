@@ -1,5 +1,4 @@
-Colletotrichum cirrhopetali Sawada SPECIES
-=======
+# Colletotrichum cirrhopetali Sawada SPECIES
 
 #### Status
 ACCEPTED

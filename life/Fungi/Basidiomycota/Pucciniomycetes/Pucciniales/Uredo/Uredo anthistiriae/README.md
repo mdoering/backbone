@@ -1,5 +1,4 @@
-Uredo anthistiriae Petch SPECIES
-=======
+# Uredo anthistiriae Petch SPECIES
 
 #### Status
 ACCEPTED

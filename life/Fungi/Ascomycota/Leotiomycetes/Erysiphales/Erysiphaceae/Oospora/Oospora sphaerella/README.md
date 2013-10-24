@@ -1,5 +1,4 @@
-Oospora sphaerella Richon SPECIES
-=======
+# Oospora sphaerella Richon SPECIES
 
 #### Status
 ACCEPTED

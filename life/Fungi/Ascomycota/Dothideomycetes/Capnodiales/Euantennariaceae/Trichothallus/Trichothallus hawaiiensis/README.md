@@ -1,5 +1,4 @@
-Trichothallus hawaiiensis F. Stevens, 1925 SPECIES
-=======
+# Trichothallus hawaiiensis F. Stevens, 1925 SPECIES
 
 #### Status
 ACCEPTED

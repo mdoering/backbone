@@ -1,5 +1,4 @@
-Mycoplasma molare Rosendal, 1974 (Approved Lists, 1980) SPECIES
-=======
+# Mycoplasma molare Rosendal, 1974 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

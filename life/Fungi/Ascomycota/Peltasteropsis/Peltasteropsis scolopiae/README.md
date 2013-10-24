@@ -1,5 +1,4 @@
-Peltasteropsis scolopiae Bat., Maia & Cif. SPECIES
-=======
+# Peltasteropsis scolopiae Bat., Maia & Cif. SPECIES
 
 #### Status
 ACCEPTED

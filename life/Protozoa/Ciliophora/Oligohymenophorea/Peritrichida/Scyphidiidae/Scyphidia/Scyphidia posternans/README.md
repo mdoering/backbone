@@ -1,5 +1,4 @@
-Scyphidia posternans Dumas, 1930 SPECIES
-=======
+# Scyphidia posternans Dumas, 1930 SPECIES
 
 #### Status
 ACCEPTED

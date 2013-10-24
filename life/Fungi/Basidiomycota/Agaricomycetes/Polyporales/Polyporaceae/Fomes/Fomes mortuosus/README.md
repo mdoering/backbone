@@ -1,5 +1,4 @@
-Fomes mortuosus (Fr.) Sacc. SPECIES
-=======
+# Fomes mortuosus (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

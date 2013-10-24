@@ -1,5 +1,4 @@
-Herpotrichia jamaicana Sivan. SPECIES
-=======
+# Herpotrichia jamaicana Sivan. SPECIES
 
 #### Status
 ACCEPTED

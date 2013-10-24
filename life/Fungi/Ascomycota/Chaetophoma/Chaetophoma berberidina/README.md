@@ -1,5 +1,4 @@
-Chaetophoma berberidina Gucevic SPECIES
-=======
+# Chaetophoma berberidina Gucevic SPECIES
 
 #### Status
 ACCEPTED

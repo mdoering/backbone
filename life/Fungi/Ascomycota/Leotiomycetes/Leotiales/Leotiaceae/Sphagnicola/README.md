@@ -1,5 +1,4 @@
-Sphagnicola GENUS
-=======
+# Sphagnicola GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calocera fuscobasis Lloyd SPECIES
-=======
+# Calocera fuscobasis Lloyd SPECIES
 
 #### Status
 ACCEPTED

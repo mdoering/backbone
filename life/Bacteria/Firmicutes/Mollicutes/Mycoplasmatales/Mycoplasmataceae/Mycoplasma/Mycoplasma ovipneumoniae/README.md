@@ -1,5 +1,4 @@
-Mycoplasma ovipneumoniae Carmichael et al., 1972 (Approved Lists, 1980) SPECIES
-=======
+# Mycoplasma ovipneumoniae Carmichael et al., 1972 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

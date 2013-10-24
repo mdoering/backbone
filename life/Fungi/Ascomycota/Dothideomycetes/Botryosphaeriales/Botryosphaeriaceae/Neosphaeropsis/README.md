@@ -1,5 +1,4 @@
-Neosphaeropsis GENUS
-=======
+# Neosphaeropsis GENUS
 
 #### Status
 ACCEPTED

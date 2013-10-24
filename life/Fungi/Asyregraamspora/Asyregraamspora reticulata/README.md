@@ -1,5 +1,4 @@
-Asyregraamspora reticulata Sal.-Cheb. & Locq. SPECIES
-=======
+# Asyregraamspora reticulata Sal.-Cheb. & Locq. SPECIES
 
 #### Status
 ACCEPTED

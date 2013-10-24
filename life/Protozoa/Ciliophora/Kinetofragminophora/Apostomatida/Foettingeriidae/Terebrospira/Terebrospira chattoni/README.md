@@ -1,5 +1,4 @@
-Terebrospira chattoni Bradbury, Clamp & Lyon, 1974 SPECIES
-=======
+# Terebrospira chattoni Bradbury, Clamp & Lyon, 1974 SPECIES
 
 #### Status
 ACCEPTED

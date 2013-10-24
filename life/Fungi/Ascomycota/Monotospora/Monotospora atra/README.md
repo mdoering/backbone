@@ -1,5 +1,4 @@
-Monotospora atra (Corda) Sacc. SPECIES
-=======
+# Monotospora atra (Corda) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophosphaeridium variabile Volkova, 1974 SPECIES
-=======
+# Lophosphaeridium variabile Volkova, 1974 SPECIES
 
 #### Status
 ACCEPTED

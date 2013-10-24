@@ -1,14 +1,13 @@
-Gnomonia clethrae (J. Reid & C. Booth) M. Monod, 1983 SPECIES
-=======
+# Ditopellopsis clethrae J. Reid & C. Booth, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beih. Sydowia 9: 132 (1983)
+Can. J. Bot. 45(9): 1479 (1967)
 
 #### Original name
 Ditopellopsis clethrae J. Reid & C. Booth, 1967

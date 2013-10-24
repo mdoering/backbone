@@ -1,5 +1,4 @@
-Melosira ambiguna (Grunow) Müller SPECIES
-=======
+# Melosira ambiguna (Grunow) Müller SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Actinomyces radiatus Namysl. SPECIES
-=======
+# Actinomyces radiatus Namysl. SPECIES
 
 #### Status
 ACCEPTED

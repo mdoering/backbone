@@ -1,17 +1,16 @@
-Lycogala atrum var. pendulum Alb. & Schwein. VARIETY
-=======
+# Amaurochaete atra (Alb. & Schwein.) Rostaf., 1874 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Consp. fung. (Leipzig) 84 (1805)
+Vers. Syst. Mycetozoen (Strassburg) 8 (1875)
 
 #### Original name
-Lycogala atrum var. pendulum Alb. & Schwein.
+Lycogala atrum Alb. & Schwein., 1805
 
 ### Remarks
 null

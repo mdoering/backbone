@@ -1,5 +1,4 @@
-Clavaria rufoviolacea Barla SPECIES
-=======
+# Clavaria rufoviolacea Barla SPECIES
 
 #### Status
 ACCEPTED

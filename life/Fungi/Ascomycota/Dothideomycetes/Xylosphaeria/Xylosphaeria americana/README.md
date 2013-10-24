@@ -1,5 +1,4 @@
-Xylosphaeria americana (Ellis & Everh.) Petr. SPECIES
-=======
+# Xylosphaeria americana (Ellis & Everh.) Petr. SPECIES
 
 #### Status
 ACCEPTED

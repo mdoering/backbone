@@ -1,5 +1,4 @@
-Teichospora negundinis Ellis & Everh. SPECIES
-=======
+# Teichospora negundinis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

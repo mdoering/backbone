@@ -1,5 +1,4 @@
-Verrucaria cazzae var. cazzae VARIETY
-=======
+# Verrucaria cazzae Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Cat. Lich. Univers. 1: 25 (1921)
 
 #### Original name
-Verrucaria cazzae var. cazzae
+Verrucaria cazzae Zahlbr.
 
 ### Remarks
 null

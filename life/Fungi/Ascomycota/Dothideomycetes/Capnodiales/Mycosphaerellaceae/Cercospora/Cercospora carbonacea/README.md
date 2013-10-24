@@ -1,5 +1,4 @@
-Cercospora carbonacea Miles, 1917 SPECIES
-=======
+# Cercospora carbonacea Miles, 1917 SPECIES
 
 #### Status
 ACCEPTED

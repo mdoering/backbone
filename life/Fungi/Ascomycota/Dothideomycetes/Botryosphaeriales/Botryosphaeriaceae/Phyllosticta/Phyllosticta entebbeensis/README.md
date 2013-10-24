@@ -1,5 +1,4 @@
-Phyllosticta entebbeensis Hansf. SPECIES
-=======
+# Phyllosticta entebbeensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

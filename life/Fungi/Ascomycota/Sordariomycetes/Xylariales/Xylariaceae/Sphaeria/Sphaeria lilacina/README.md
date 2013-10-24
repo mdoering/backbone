@@ -1,5 +1,4 @@
-Sphaeria lilacina Schwein. SPECIES
-=======
+# Sphaeria lilacina Schwein. SPECIES
 
 #### Status
 ACCEPTED

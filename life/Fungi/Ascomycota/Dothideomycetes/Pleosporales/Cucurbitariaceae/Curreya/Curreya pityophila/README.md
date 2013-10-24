@@ -1,17 +1,16 @@
-Curreya pithyophila var. pithyophila VARIETY
-=======
+# Curreya pityophila (J.C. Schmidt & Kunze) Arx & E. Müll., 1975 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Stud. Mycol. 9: 80 (1975)
 
 #### Original name
-null
+Sphaeria pityophila J.C. Schmidt & Kunze, 1823
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Tubercularia hibisci Petch SPECIES
-=======
+# Tubercularia hibisci Petch SPECIES
 
 #### Status
 ACCEPTED

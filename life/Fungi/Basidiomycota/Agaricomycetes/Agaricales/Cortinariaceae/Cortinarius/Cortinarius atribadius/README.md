@@ -1,17 +1,16 @@
-Cortinarius atribadia Murrill SPECIES
-=======
+# Cortinarius atribadius Murrill SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 39(1): 132 (1947)
 
 #### Original name
-Cortinarius atribadia Murrill
+Cortinarius atribadius Murrill
 
 ### Remarks
 null

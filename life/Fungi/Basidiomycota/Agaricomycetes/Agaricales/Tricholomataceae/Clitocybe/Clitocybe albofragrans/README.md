@@ -1,14 +1,13 @@
-Lepista albofragrans Harmaja, 1978 SPECIES
-=======
+# Clitocybe albofragrans (Harmaja) Kuyper, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Karstenia 18: 53 (1978)
+Persoonia 11(3): 386 (1981)
 
 #### Original name
 Lepista albofragrans Harmaja, 1978

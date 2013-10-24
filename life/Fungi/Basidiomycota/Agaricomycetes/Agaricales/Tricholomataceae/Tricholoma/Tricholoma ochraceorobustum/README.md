@@ -1,5 +1,4 @@
-Tricholoma ochraceorobustum var. ochraceorobustum VARIETY
-=======
+# Tricholoma ochraceorobustum E. Horak SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Tricholoma ochraceorobustum var. ochraceorobustum
+Tricholoma ochraceorobustum E. Horak
 
 ### Remarks
 null

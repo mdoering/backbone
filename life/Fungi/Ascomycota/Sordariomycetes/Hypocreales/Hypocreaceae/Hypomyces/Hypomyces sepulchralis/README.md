@@ -1,17 +1,16 @@
-Hypomyces sepulcralis Pat. SPECIES
-=======
+# Hypomyces sepulchralis Pat. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Soc. mycol. Fr. 18(2): 179 (1902)
 
 #### Original name
-Hypomyces sepulcralis Pat.
+Hypomyces sepulchralis Pat.
 
 ### Remarks
 null

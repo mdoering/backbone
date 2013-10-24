@@ -1,8 +1,7 @@
-Epiclintes feli Müller, 1786 SPECIES
-=======
+# Epiclintes felis (Müller, 1786) Stein, 1863 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

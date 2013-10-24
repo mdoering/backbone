@@ -1,5 +1,4 @@
-Phlyctella crytospora SPECIES
-=======
+# Phlyctella crytospora SPECIES
 
 #### Status
 ACCEPTED

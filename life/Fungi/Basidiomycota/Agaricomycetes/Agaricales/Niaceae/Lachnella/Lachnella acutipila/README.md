@@ -1,5 +1,4 @@
-Lachnella acutipila SPECIES
-=======
+# Lachnella acutipila SPECIES
 
 #### Status
 ACCEPTED

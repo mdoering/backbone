@@ -1,5 +1,4 @@
-Lachnum marginatum (Cooke) Raitv. SPECIES
-=======
+# Lachnum marginatum (Cooke) Raitv. SPECIES
 
 #### Status
 ACCEPTED

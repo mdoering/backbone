@@ -1,5 +1,4 @@
-Sphaeria perisporium Corda SPECIES
-=======
+# Sphaeria perisporium Corda SPECIES
 
 #### Status
 ACCEPTED

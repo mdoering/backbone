@@ -1,5 +1,4 @@
-Borzaites Grün & Blau in Aescht, 2001 GENUS
-=======
+# Borzaites Grün & Blau in Aescht, 2001 GENUS
 
 #### Status
 ACCEPTED

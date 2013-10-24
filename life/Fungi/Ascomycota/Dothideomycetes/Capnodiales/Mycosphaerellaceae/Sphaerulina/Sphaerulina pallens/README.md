@@ -1,5 +1,4 @@
-Sphaerulina pallens Davis SPECIES
-=======
+# Sphaerulina pallens Davis SPECIES
 
 #### Status
 ACCEPTED

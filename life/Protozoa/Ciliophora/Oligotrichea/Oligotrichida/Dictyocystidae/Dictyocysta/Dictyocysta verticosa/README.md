@@ -1,5 +1,4 @@
-Dictyocysta verticosa Hada, 1938 SPECIES
-=======
+# Dictyocysta verticosa Hada, 1938 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Helotium confluens Sacc., 1888 SPECIES
-=======
+# Bisporella confluens (Sacc.) Korf & Bujak., 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Agarica 6(12): 306 (1985)
 
 #### Original name
 Helotium confluens Sacc., 1888

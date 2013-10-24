@@ -1,14 +1,13 @@
-Parmelia frondosa Hale SPECIES
-=======
+# Xanthomaculina frondosa (Hale) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Notiser 124(3): 349 (1971)
+Lichenologist 17(3): 263 (1985)
 
 #### Original name
 Parmelia frondosa Hale

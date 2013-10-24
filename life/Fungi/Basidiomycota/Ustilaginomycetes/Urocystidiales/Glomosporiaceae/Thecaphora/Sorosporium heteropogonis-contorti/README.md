@@ -1,5 +1,4 @@
-Sorosporium heteropogonis-contorti Bacc. SPECIES
-=======
+# Sorosporium heteropogonis-contorti Bacc. SPECIES
 
 #### Status
 ACCEPTED

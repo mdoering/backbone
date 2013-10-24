@@ -1,5 +1,4 @@
-Hidakaea tumidula I. Hino & Katum., 1955 SPECIES
-=======
+# Hidakaea tumidula I. Hino & Katum., 1955 SPECIES
 
 #### Status
 ACCEPTED

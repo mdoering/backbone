@@ -1,5 +1,4 @@
-Phyllosticta curatellae Henn. SPECIES
-=======
+# Phyllosticta curatellae Henn. SPECIES
 
 #### Status
 ACCEPTED

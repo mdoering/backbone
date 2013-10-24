@@ -1,5 +1,4 @@
-Mycena aspratilis Maas Geest. & de Meijer SPECIES
-=======
+# Mycena aspratilis Maas Geest. & de Meijer SPECIES
 
 #### Status
 ACCEPTED

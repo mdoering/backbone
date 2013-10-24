@@ -1,5 +1,4 @@
-Gelatinopsis fungicola (Kirschst.) Baral SPECIES
-=======
+# Gelatinopsis fungicola (Kirschst.) Baral SPECIES
 
 #### Status
 ACCEPTED

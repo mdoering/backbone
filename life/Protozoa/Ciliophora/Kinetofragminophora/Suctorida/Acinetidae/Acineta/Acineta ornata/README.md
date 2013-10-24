@@ -1,5 +1,4 @@
-Acineta ornata Sand, 1899 SPECIES
-=======
+# Acineta ornata Sand, 1899 SPECIES
 
 #### Status
 ACCEPTED

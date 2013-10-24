@@ -1,5 +1,4 @@
-Cronartium kamtschaticum Jørst., 1934 SPECIES
-=======
+# Cronartium kamtschaticum Jørst., 1934 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dermoloma intermedium var. intermedium VARIETY
-=======
+# Dermoloma intermedium Bon SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Docums Mycol. 9(no. 35): 42 (1979)
 
 #### Original name
-Dermoloma intermedium var. intermedium
+Dermoloma intermedium Bon
 
 ### Remarks
 null

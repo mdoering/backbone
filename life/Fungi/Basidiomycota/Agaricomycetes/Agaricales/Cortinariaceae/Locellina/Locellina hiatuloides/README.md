@@ -1,5 +1,4 @@
-Locellina hiatuloides Pat. SPECIES
-=======
+# Locellina hiatuloides Pat. SPECIES
 
 #### Status
 ACCEPTED

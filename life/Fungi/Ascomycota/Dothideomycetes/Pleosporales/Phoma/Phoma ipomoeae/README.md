@@ -1,5 +1,4 @@
-Phoma ipomoeae Suj. Singh & Kamal SPECIES
-=======
+# Phoma ipomoeae Suj. Singh & Kamal SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora forsythiae (Katsuki & Ts. Kobay.) Deighton SPECIES
-=======
+# Pseudocercospora forsythiae (Katsuki & Ts. Kobay.) Deighton SPECIES
 
 #### Status
 ACCEPTED

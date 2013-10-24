@@ -1,5 +1,4 @@
-Scirrhodothis cyperi (Wakef.) Trotter SPECIES
-=======
+# Scirrhodothis cyperi (Wakef.) Trotter SPECIES
 
 #### Status
 ACCEPTED

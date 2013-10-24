@@ -1,5 +1,4 @@
-Uncinula peristrophes N. Ahmad, A.K. Sarbhoy & Kamal SPECIES
-=======
+# Uncinula peristrophes N. Ahmad, A.K. Sarbhoy & Kamal SPECIES
 
 #### Status
 ACCEPTED

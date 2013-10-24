@@ -1,5 +1,4 @@
-Asterina tetrazygiae R.W. Ryan SPECIES
-=======
+# Asterina tetrazygiae R.W. Ryan SPECIES
 
 #### Status
 ACCEPTED

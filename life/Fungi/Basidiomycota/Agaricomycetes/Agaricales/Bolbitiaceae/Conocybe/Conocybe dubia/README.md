@@ -1,5 +1,4 @@
-Conocybe dubia Ballero & Contu SPECIES
-=======
+# Conocybe dubia Ballero & Contu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniarthonia Grube GENUS
-=======
+# Coniarthonia Grube GENUS
 
 #### Status
 ACCEPTED

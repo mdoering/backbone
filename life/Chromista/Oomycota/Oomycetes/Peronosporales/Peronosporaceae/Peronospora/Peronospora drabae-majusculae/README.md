@@ -1,5 +1,4 @@
-Peronospora drabae-majusculae Lindtner SPECIES
-=======
+# Peronospora drabae-majusculae Lindtner SPECIES
 
 #### Status
 ACCEPTED

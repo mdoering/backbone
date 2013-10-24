@@ -1,5 +1,4 @@
-Sphaeria acclinis Fr. SPECIES
-=======
+# Sphaeria acclinis Fr. SPECIES
 
 #### Status
 ACCEPTED

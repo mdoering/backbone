@@ -1,5 +1,4 @@
-Phacus trapezoides Stawinski SPECIES
-=======
+# Phacus trapezoides Stawinski SPECIES
 
 #### Status
 ACCEPTED

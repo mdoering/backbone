@@ -1,5 +1,4 @@
-Tiarosporella tritici B. Sutton & Marasas, 1976 SPECIES
-=======
+# Tiarosporella tritici B. Sutton & Marasas, 1976 SPECIES
 
 #### Status
 ACCEPTED

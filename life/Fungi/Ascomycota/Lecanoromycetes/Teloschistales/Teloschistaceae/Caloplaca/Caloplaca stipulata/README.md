@@ -1,5 +1,4 @@
-Caloplaca stipulata Poelt & Hinter. SPECIES
-=======
+# Caloplaca stipulata Poelt & Hinter. SPECIES
 
 #### Status
 ACCEPTED

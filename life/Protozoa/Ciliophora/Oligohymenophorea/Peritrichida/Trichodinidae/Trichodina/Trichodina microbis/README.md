@@ -1,5 +1,4 @@
-Trichodina microbis Suzuki, 1950 SPECIES
-=======
+# Trichodina microbis Suzuki, 1950 SPECIES
 
 #### Status
 ACCEPTED

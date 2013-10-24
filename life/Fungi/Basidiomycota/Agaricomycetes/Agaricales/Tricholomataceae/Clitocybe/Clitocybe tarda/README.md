@@ -1,5 +1,4 @@
-Clitocybe tarda Peck SPECIES
-=======
+# Clitocybe tarda Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mirandina typica Matsush. SPECIES
-=======
+# Mirandina typica Matsush. SPECIES
 
 #### Status
 ACCEPTED

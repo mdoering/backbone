@@ -1,5 +1,4 @@
-Metasphaeria lasiacidis Bat. & Nascim. SPECIES
-=======
+# Metasphaeria lasiacidis Bat. & Nascim. SPECIES
 
 #### Status
 ACCEPTED

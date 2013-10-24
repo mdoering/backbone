@@ -1,5 +1,4 @@
-Erysiphe tectonae (E.S. Salmon) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe tectonae (E.S. Salmon) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

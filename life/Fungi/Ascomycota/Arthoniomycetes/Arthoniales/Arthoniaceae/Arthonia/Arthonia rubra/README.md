@@ -1,5 +1,4 @@
-Arthonia rubra B. de Lesd. SPECIES
-=======
+# Arthonia rubra B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

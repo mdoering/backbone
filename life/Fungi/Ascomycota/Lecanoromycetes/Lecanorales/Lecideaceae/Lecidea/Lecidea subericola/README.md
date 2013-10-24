@@ -1,5 +1,4 @@
-Lecidea subericola Werner SPECIES
-=======
+# Lecidea subericola Werner SPECIES
 
 #### Status
 ACCEPTED

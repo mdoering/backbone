@@ -1,5 +1,4 @@
-Irene solani (F. Stevens) Toro SPECIES
-=======
+# Irene solani (F. Stevens) Toro SPECIES
 
 #### Status
 ACCEPTED

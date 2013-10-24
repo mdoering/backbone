@@ -1,8 +1,7 @@
-Phloeospora hanseni Bubák SPECIES
-=======
+# Phloeospora hansenii Bubák SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phloeospora hanseni Bubák
+Phloeospora hansenii Bubák
 
 ### Remarks
 null

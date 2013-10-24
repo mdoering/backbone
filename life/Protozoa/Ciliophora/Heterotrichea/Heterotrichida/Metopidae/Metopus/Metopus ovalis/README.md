@@ -1,5 +1,4 @@
-Metopus ovalis Kahl, 1927 SPECIES
-=======
+# Metopus ovalis Kahl, 1927 SPECIES
 
 #### Status
 ACCEPTED

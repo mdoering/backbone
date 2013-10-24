@@ -1,5 +1,4 @@
-Pleurovularia R. Kirschner & U. Braun GENUS
-=======
+# Pleurovularia R. Kirschner & U. Braun GENUS
 
 #### Status
 ACCEPTED

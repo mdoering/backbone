@@ -1,5 +1,4 @@
-Hygroaster lacteus E. Ludw. & Ryberg SPECIES
-=======
+# Hygroaster lacteus E. Ludw. & Ryberg SPECIES
 
 #### Status
 ACCEPTED

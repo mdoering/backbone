@@ -1,5 +1,4 @@
-Xylomyces elegans Goh, W.H. Ho, K.D. Hyde & K.M. Tsui SPECIES
-=======
+# Xylomyces elegans Goh, W.H. Ho, K.D. Hyde & K.M. Tsui SPECIES
 
 #### Status
 ACCEPTED

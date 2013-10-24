@@ -1,5 +1,4 @@
-Septoria dianthicola Sacc. SPECIES
-=======
+# Septoria dianthicola Sacc. SPECIES
 
 #### Status
 ACCEPTED

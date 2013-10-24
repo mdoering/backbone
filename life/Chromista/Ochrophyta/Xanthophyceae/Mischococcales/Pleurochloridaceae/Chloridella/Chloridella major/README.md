@@ -1,5 +1,4 @@
-Chloridella major Pascher SPECIES
-=======
+# Chloridella major Pascher SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Strigula hypothelia Nyl. SPECIES
-=======
+# Strigula hypothelia Nyl. SPECIES
 
 #### Status
 ACCEPTED

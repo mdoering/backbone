@@ -1,5 +1,4 @@
-Macrosporium elegantissimum Rabenh. SPECIES
-=======
+# Macrosporium elegantissimum Rabenh. SPECIES
 
 #### Status
 ACCEPTED

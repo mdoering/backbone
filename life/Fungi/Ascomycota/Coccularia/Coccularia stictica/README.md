@@ -1,5 +1,4 @@
-Coccularia stictica Berk. SPECIES
-=======
+# Coccularia stictica Berk. SPECIES
 
 #### Status
 ACCEPTED

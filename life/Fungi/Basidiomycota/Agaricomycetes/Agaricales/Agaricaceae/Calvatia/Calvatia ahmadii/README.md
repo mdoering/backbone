@@ -1,5 +1,4 @@
-Calvatia ahmadii Khalid & S.H. Iqbal SPECIES
-=======
+# Calvatia ahmadii Khalid & S.H. Iqbal SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scrippsiella rotundata Lewis SPECIES
-=======
+# Scrippsiella rotundata Lewis SPECIES
 
 #### Status
 ACCEPTED

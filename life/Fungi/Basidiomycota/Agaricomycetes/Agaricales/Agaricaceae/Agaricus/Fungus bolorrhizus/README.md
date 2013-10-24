@@ -1,14 +1,13 @@
-Fungus bolorhizus (Berk. & Broome) Kuntze SPECIES
-=======
+# Fungus bolorrhizus (Berk. & Broome) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3: 479 (1898)
 
 #### Original name
 Agaricus bolorrhizus Berk. & Broome

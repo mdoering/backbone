@@ -1,5 +1,4 @@
-Cryptocline dubia (Bäumler) Arx SPECIES
-=======
+# Cryptocline dubia (Bäumler) Arx SPECIES
 
 #### Status
 ACCEPTED

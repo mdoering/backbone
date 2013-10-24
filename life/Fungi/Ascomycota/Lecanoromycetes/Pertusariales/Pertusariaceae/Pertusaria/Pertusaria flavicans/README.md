@@ -1,17 +1,16 @@
-Pertusaria flavicans f. flavicans FORM
-=======
+# Pertusaria flavicans Lamy SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Bull. Soc. bot. Fr. 25: 427 (1878)
 
 #### Original name
-Pertusaria flavicans f. flavicans
+Pertusaria flavicans Lamy
 
 ### Remarks
 null

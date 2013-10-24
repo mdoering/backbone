@@ -1,5 +1,4 @@
-Rhopographus fusariisporus Ellis & Everh. SPECIES
-=======
+# Rhopographus fusariisporus Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

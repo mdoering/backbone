@@ -1,5 +1,4 @@
-Rinodina mackenziei Räsänen SPECIES
-=======
+# Rinodina mackenziei Räsänen SPECIES
 
 #### Status
 ACCEPTED

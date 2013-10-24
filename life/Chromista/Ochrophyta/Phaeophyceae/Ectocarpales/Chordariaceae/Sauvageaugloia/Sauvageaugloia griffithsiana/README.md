@@ -1,8 +1,7 @@
-Cladosiphon chordariaeformis (P.L. Crouan & H.M. Crouan) J. Agardh SPECIES
-=======
+# Sauvageaugloia griffithsiana (A.W. Griffiths ex Harvey) G. Hamel ex Kylin SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

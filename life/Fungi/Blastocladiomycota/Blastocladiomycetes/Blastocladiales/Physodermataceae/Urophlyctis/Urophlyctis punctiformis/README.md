@@ -1,5 +1,4 @@
-Urophlyctis punctiformis Speg. SPECIES
-=======
+# Urophlyctis punctiformis Speg. SPECIES
 
 #### Status
 ACCEPTED

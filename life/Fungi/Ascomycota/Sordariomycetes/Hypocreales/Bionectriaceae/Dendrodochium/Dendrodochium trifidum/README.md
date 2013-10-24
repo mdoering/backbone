@@ -1,5 +1,4 @@
-Dendrodochium trifidum Sacc. SPECIES
-=======
+# Dendrodochium trifidum Sacc. SPECIES
 
 #### Status
 ACCEPTED

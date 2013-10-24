@@ -1,8 +1,7 @@
-Leptorhaphis körberi Stein SPECIES
-=======
+# Leptorhaphis koerberi Stein SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Leptorhaphis körberi Stein
+Leptorhaphis koerberi Stein
 
 ### Remarks
 null

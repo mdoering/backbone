@@ -1,5 +1,4 @@
-Chaetophoma maydis Speg. SPECIES
-=======
+# Chaetophoma maydis Speg. SPECIES
 
 #### Status
 ACCEPTED

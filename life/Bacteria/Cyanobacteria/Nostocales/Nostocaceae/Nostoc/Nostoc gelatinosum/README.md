@@ -1,5 +1,4 @@
-Nostoc gelatinosum Schousboe SPECIES
-=======
+# Nostoc gelatinosum Schousboe SPECIES
 
 #### Status
 ACCEPTED

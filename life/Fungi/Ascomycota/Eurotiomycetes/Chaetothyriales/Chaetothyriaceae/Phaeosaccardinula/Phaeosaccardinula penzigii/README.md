@@ -1,5 +1,4 @@
-Phaeosaccardinula penzigii (Sacc.) W. Yamam. SPECIES
-=======
+# Phaeosaccardinula penzigii (Sacc.) W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

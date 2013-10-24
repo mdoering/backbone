@@ -1,5 +1,4 @@
-Leciographa peltigerae W. Phillips SPECIES
-=======
+# Leciographa peltigerae W. Phillips SPECIES
 
 #### Status
 ACCEPTED

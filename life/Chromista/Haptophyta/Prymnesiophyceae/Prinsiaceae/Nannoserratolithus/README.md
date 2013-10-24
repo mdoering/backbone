@@ -1,5 +1,4 @@
-Nannoserratolithus E. Martini & W. Schiller, 1998 GENUS
-=======
+# Nannoserratolithus E. Martini & W. Schiller, 1998 GENUS
 
 #### Status
 ACCEPTED

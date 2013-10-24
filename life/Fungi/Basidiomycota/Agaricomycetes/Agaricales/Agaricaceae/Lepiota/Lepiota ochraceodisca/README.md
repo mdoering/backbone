@@ -1,5 +1,4 @@
-Lepiota ochraceodisca Bon SPECIES
-=======
+# Lepiota ochraceodisca Bon SPECIES
 
 #### Status
 ACCEPTED

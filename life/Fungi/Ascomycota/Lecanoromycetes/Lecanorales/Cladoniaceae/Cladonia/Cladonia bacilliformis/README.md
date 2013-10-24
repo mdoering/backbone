@@ -1,17 +1,16 @@
-Cladonia bacilliformis f. bacilliformis FORM
-=======
+# Cladonia bacilliformis (Nyl.) Glück SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Verh. naturhist. -Med. Ver. Heidelberg, N. F. 97 (1899)
 
 #### Original name
-Cladonia bacilliformis f. bacilliformis
+Cladonia carneola var. bacilliformis Nyl.
 
 ### Remarks
 null

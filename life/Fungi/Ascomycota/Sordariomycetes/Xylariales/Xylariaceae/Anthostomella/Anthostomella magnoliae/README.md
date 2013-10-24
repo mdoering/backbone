@@ -1,5 +1,4 @@
-Anthostomella magnoliae Ellis & Everh. SPECIES
-=======
+# Anthostomella magnoliae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

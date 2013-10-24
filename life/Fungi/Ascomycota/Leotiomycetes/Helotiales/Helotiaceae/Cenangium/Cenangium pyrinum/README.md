@@ -1,5 +1,4 @@
-Cenangium pyrinum Schwein. SPECIES
-=======
+# Cenangium pyrinum Schwein. SPECIES
 
 #### Status
 ACCEPTED

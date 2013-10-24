@@ -1,5 +1,4 @@
-Sporidesmium gelatinosum Matsush. SPECIES
-=======
+# Sporidesmium gelatinosum Matsush. SPECIES
 
 #### Status
 ACCEPTED

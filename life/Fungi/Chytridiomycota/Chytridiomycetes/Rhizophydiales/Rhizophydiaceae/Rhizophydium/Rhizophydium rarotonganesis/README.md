@@ -1,5 +1,4 @@
-Rhizophydium rarotonganesis Karling SPECIES
-=======
+# Rhizophydium rarotonganesis Karling SPECIES
 
 #### Status
 ACCEPTED

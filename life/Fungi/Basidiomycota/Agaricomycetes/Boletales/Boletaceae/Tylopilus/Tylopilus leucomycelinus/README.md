@@ -1,5 +1,4 @@
-Tylopilus leucomycelinus (Singer & M.H. Ivory) R. Flores & Simonini SPECIES
-=======
+# Tylopilus leucomycelinus (Singer & M.H. Ivory) R. Flores & Simonini SPECIES
 
 #### Status
 ACCEPTED

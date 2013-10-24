@@ -1,5 +1,4 @@
-Diderma stahlii (Rostaf.) Kuntze SPECIES
-=======
+# Diderma stahlii (Rostaf.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

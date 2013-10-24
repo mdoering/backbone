@@ -1,5 +1,4 @@
-Peyritschiella madagascariensis (Thaxt.) I.I. Tav. SPECIES
-=======
+# Peyritschiella madagascariensis (Thaxt.) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

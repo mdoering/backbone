@@ -1,5 +1,4 @@
-Torrendiella guangxiensis W.Y. Zhuang, 1999 SPECIES
-=======
+# Torrendiella guangxiensis W.Y. Zhuang, 1999 SPECIES
 
 #### Status
 ACCEPTED

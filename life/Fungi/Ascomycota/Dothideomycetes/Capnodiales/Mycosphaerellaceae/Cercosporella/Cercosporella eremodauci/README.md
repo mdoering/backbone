@@ -1,17 +1,16 @@
-Cercosporella eremodaucii Annal. SPECIES
-=======
+# Cercosporella eremodauci Annal. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nov. sist. Niz. Rast. 9: 197 (1972)
 
 #### Original name
-Cercosporella eremodaucii Annal.
+Cercosporella eremodauci Annal.
 
 ### Remarks
 null

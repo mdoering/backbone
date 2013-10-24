@@ -1,8 +1,7 @@
-Zonaria stuposa R.Brown ex J. Agardh SPECIES
-=======
+# Homoeostrichus sinclairii (J.D. Hooker & Harvey) J. Agardh SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

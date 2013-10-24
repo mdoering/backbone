@@ -1,5 +1,4 @@
-Phyllosticta geraniicola Siemaszko SPECIES
-=======
+# Phyllosticta geraniicola Siemaszko SPECIES
 
 #### Status
 ACCEPTED

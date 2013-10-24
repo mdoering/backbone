@@ -1,5 +1,4 @@
-Balladynella tsugae Bat. SPECIES
-=======
+# Balladynella tsugae Bat. SPECIES
 
 #### Status
 ACCEPTED

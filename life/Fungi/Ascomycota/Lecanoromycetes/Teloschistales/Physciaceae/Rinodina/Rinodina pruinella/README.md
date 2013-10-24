@@ -1,5 +1,4 @@
-Rinodina pruinella Bagl. SPECIES
-=======
+# Rinodina pruinella Bagl. SPECIES
 
 #### Status
 ACCEPTED

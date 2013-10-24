@@ -1,5 +1,4 @@
-Micropuccinia tolimensis (Mayor) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia tolimensis (Mayor) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

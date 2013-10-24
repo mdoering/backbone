@@ -1,5 +1,4 @@
-Pseudocercospora dracunculi (Sarwar) Y.L. Guo SPECIES
-=======
+# Pseudocercospora dracunculi (Sarwar) Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea melanocarpa (Th. Fr.) Hue SPECIES
-=======
+# Lecidea melanocarpa (Th. Fr.) Hue SPECIES
 
 #### Status
 ACCEPTED

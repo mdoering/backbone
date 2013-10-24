@@ -1,5 +1,4 @@
-Triplumaria Hoare, 1937 GENUS
-=======
+# Triplumaria Hoare, 1937 GENUS
 
 #### Status
 ACCEPTED

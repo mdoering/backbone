@@ -1,5 +1,4 @@
-Praerhopalastrum Kozur & Mostler, 1978 GENUS
-=======
+# Praerhopalastrum Kozur & Mostler, 1978 GENUS
 
 #### Status
 ACCEPTED

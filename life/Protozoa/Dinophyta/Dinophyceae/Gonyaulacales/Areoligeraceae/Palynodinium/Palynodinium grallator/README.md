@@ -1,5 +1,4 @@
-Palynodinium grallator Gocht, 1973 SPECIES
-=======
+# Palynodinium grallator Gocht, 1973 SPECIES
 
 #### Status
 ACCEPTED

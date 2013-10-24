@@ -1,5 +1,4 @@
-Agaricus pycnocephalus Berk. & Broome SPECIES
-=======
+# Agaricus pycnocephalus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

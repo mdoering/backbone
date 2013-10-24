@@ -1,5 +1,4 @@
-Lecanora thallina (Ach.) Ach. SPECIES
-=======
+# Lecanora thallina (Ach.) Ach. SPECIES
 
 #### Status
 ACCEPTED

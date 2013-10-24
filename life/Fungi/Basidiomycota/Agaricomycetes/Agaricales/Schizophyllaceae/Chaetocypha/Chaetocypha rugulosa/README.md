@@ -1,5 +1,4 @@
-Chaetocypha rugulosa (Lév.) Kuntze SPECIES
-=======
+# Chaetocypha rugulosa (Lév.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

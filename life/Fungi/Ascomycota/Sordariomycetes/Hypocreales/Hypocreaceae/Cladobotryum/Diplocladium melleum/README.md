@@ -1,5 +1,4 @@
-Diplocladium melleum (Berk. & Broome) Sacc. SPECIES
-=======
+# Diplocladium melleum (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

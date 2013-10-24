@@ -1,5 +1,4 @@
-Epitea vulgaris Fr. SPECIES
-=======
+# Epitea vulgaris Fr. SPECIES
 
 #### Status
 ACCEPTED

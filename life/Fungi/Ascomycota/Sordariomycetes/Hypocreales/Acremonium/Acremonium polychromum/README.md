@@ -1,14 +1,13 @@
-Oospora polychroma J.F.H. Beyma SPECIES
-=======
+# Acremonium polychromum (J.F.H. Beyma) W. Gams, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Verh. K. ned. Akad. Wet. , 2 Sectie 26(2): 5 (1928)
+Cephalosporium-artige Schimmelpilze (Stuttgart) 81 (1971)
 
 #### Original name
 Oospora polychroma J.F.H. Beyma

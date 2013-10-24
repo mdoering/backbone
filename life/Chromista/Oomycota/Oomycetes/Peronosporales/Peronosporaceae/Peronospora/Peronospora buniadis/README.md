@@ -1,5 +1,4 @@
-Peronospora buniadis Gäum. SPECIES
-=======
+# Peronospora buniadis Gäum. SPECIES
 
 #### Status
 ACCEPTED

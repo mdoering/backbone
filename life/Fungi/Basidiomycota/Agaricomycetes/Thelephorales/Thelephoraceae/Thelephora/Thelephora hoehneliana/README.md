@@ -1,5 +1,4 @@
-Thelephora hoehneliana Bres. SPECIES
-=======
+# Thelephora hoehneliana Bres. SPECIES
 
 #### Status
 ACCEPTED

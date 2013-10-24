@@ -1,5 +1,4 @@
-Pertusaria wattiana f. wattiana FORM
-=======
+# Pertusaria wattiana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-null
+Pertusaria wattiana Müll. Arg.
 
 ### Remarks
 null

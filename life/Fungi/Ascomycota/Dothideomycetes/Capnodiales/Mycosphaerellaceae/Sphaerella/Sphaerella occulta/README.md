@@ -1,5 +1,4 @@
-Sphaerella occulta (Bubák) Sacc. SPECIES
-=======
+# Sphaerella occulta (Bubák) Sacc. SPECIES
 
 #### Status
 ACCEPTED

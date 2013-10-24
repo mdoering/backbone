@@ -1,5 +1,4 @@
-Stagonospora delegatensis R.F. Park & Keane SPECIES
-=======
+# Stagonospora delegatensis R.F. Park & Keane SPECIES
 
 #### Status
 ACCEPTED

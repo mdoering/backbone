@@ -1,5 +1,4 @@
-Parastomyces GENUS
-=======
+# Parastomyces GENUS
 
 #### Status
 ACCEPTED

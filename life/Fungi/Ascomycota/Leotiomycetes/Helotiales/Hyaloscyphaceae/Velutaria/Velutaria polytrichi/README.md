@@ -1,5 +1,4 @@
-Velutaria polytrichi Rehm SPECIES
-=======
+# Velutaria polytrichi Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paranophrys Thompson & Berger, 1965 GENUS
-=======
+# Paranophrys Thompson & Berger, 1965 GENUS
 
 #### Status
 ACCEPTED

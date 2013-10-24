@@ -1,5 +1,4 @@
-Gloeosporium saccardoi Woron. SPECIES
-=======
+# Gloeosporium saccardoi Woron. SPECIES
 
 #### Status
 ACCEPTED

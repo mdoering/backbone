@@ -1,5 +1,4 @@
-Entropezites Poinar & R. Buckley GENUS
-=======
+# Entropezites Poinar & R. Buckley GENUS
 
 #### Status
 ACCEPTED

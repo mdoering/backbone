@@ -1,5 +1,4 @@
-Rhabdospora lagerstroemiae Pass. SPECIES
-=======
+# Rhabdospora lagerstroemiae Pass. SPECIES
 
 #### Status
 ACCEPTED

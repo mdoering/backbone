@@ -1,17 +1,16 @@
-Lactaria avellanea Murrill SPECIES
-=======
+# Lactarius avellaneus S. Imai SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Lloydia 6: 207 (1943)
 
 #### Original name
-Lactaria avellanea Murrill
+Lactarius avellaneus S. Imai
 
 ### Remarks
 null

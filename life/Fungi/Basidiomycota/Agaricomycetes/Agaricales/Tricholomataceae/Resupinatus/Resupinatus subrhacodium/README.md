@@ -1,5 +1,4 @@
-Resupinatus subrhacodium Singer SPECIES
-=======
+# Resupinatus subrhacodium Singer SPECIES
 
 #### Status
 ACCEPTED

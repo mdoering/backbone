@@ -1,5 +1,4 @@
-Buellia endomelaena Darb. SPECIES
-=======
+# Buellia endomelaena Darb. SPECIES
 
 #### Status
 ACCEPTED

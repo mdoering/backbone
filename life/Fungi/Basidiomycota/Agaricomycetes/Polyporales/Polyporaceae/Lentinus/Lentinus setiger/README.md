@@ -1,5 +1,4 @@
-Lentinus setiger Lév. SPECIES
-=======
+# Lentinus setiger Lév. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peronospora rumicis Corda, 1837 SPECIES
-=======
+# Peronospora rumicis Corda, 1837 SPECIES
 
 #### Status
 ACCEPTED

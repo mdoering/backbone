@@ -1,5 +1,4 @@
-Collybia coracicolor (Berk. & M.A. Curtis) Dennis SPECIES
-=======
+# Collybia coracicolor (Berk. & M.A. Curtis) Dennis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepocinclis mespiliformis var. curvicauda Conrad VARIETY
-=======
+# Lepocinclis mespiliformis Conrad SPECIES
 
 #### Status
 ACCEPTED

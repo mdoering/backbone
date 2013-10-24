@@ -1,5 +1,4 @@
-Chaetocypha elegans (Saut.) Kuntze SPECIES
-=======
+# Chaetocypha elegans (Saut.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Cladosporium trilliicola J.C. David, 2004 SPECIES
-=======
+# Cladosporium trillii (Ellis & Everh.) J.C. David, 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Dugan, Schubert & Braun, Schlechtendalia 11: 88 (2004)
+Mycol. Pap. 172: 94 (1997)
 
 #### Original name
 Heterosporium trillii Ellis & Everh., 1894

@@ -1,5 +1,4 @@
-Peziza radicata Holmsk. SPECIES
-=======
+# Peziza radicata Holmsk. SPECIES
 
 #### Status
 ACCEPTED

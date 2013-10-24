@@ -1,5 +1,4 @@
-Ambrosiozyma platypodis (J.M. Baker & Kreger-van Rij) Van der Walt, 1972 SPECIES
-=======
+# Ambrosiozyma platypodis (J.M. Baker & Kreger-van Rij) Van der Walt, 1972 SPECIES
 
 #### Status
 ACCEPTED

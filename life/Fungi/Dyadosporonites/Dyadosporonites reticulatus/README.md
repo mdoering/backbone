@@ -1,5 +1,4 @@
-Dyadosporonites reticulatus Ramanujam & K.P. Rao SPECIES
-=======
+# Dyadosporonites reticulatus Ramanujam & K.P. Rao SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspergillus umbrosus Bainier & Sartory, 1912 SPECIES
-=======
+# Aspergillus umbrosus Bainier & Sartory, 1912 SPECIES
 
 #### Status
 ACCEPTED

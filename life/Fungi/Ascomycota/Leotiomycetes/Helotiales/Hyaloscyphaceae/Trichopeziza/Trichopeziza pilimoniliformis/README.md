@@ -1,5 +1,4 @@
-Trichopeziza pilimoniliformis (P. Crouan & H. Crouan) Sacc. SPECIES
-=======
+# Trichopeziza pilimoniliformis (P. Crouan & H. Crouan) Sacc. SPECIES
 
 #### Status
 ACCEPTED

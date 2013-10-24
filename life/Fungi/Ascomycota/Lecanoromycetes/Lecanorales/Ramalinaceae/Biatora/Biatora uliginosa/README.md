@@ -1,5 +1,4 @@
-Biatora uliginosa SPECIES
-=======
+# Biatora uliginosa SPECIES
 
 #### Status
 ACCEPTED

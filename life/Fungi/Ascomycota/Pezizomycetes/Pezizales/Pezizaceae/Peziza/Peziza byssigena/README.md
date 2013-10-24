@@ -1,5 +1,4 @@
-Peziza byssigena Berk. SPECIES
-=======
+# Peziza byssigena Berk. SPECIES
 
 #### Status
 ACCEPTED

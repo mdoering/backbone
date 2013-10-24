@@ -1,14 +1,13 @@
-Agaricus recedens Cooke & Massee, 1889 SPECIES
-=======
+# Descolea recedens (Cooke & Massee) Singer, 1955 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 18(no. 86): 25 (1889)
+null
 
 #### Original name
 Agaricus recedens Cooke & Massee, 1889

@@ -1,5 +1,4 @@
-Halobiforma Hezayen et al., 2002 GENUS
-=======
+# Halobiforma Hezayen et al., 2002 GENUS
 
 #### Status
 ACCEPTED

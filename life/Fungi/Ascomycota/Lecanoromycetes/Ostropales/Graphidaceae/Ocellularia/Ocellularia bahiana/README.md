@@ -1,14 +1,13 @@
-Myriotrema bahianum (Ach.) Hale SPECIES
-=======
+# Ocellularia bahiana (Ach.) Frisch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 11(1): 132 (1980)
+in Frisch & Kalb, Biblthca Lichenol. 92: 503 (2006)
 
 #### Original name
 Thelotrema lepadinum var. bahianum Ach.

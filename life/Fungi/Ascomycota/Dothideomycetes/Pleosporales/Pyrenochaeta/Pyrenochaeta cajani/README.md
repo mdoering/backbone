@@ -1,5 +1,4 @@
-Pyrenochaeta cajani R.A. Singh & Pavgi SPECIES
-=======
+# Pyrenochaeta cajani R.A. Singh & Pavgi SPECIES
 
 #### Status
 ACCEPTED

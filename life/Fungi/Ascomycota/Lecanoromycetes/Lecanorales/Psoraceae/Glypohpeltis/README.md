@@ -1,5 +1,4 @@
-Glypohpeltis Brusse GENUS
-=======
+# Glypohpeltis Brusse GENUS
 
 #### Status
 ACCEPTED

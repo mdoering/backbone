@@ -1,5 +1,4 @@
-Scopulariopsis lanosa J.F.H. Beyma SPECIES
-=======
+# Scopulariopsis lanosa J.F.H. Beyma SPECIES
 
 #### Status
 ACCEPTED

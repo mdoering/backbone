@@ -1,5 +1,4 @@
-Verticillium botrytoides Sacc., 1882 SPECIES
-=======
+# Verticillium botrytoides Sacc., 1882 SPECIES
 
 #### Status
 ACCEPTED

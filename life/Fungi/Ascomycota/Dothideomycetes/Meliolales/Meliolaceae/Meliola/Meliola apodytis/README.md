@@ -1,5 +1,4 @@
-Meliola apodytis Van der Byl SPECIES
-=======
+# Meliola apodytis Van der Byl SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Antherospora GENUS
-=======
+# Antherospora GENUS
 
 #### Status
 ACCEPTED

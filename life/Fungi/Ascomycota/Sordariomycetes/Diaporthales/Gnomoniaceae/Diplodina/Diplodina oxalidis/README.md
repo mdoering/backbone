@@ -1,5 +1,4 @@
-Diplodina oxalidis Tassi SPECIES
-=======
+# Diplodina oxalidis Tassi SPECIES
 
 #### Status
 ACCEPTED

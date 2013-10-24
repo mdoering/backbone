@@ -1,5 +1,4 @@
-Didymium floccoides Nann.-Bremek. & Y. Yamam., 1987 SPECIES
-=======
+# Didymium floccoides Nann.-Bremek. & Y. Yamam., 1987 SPECIES
 
 #### Status
 ACCEPTED

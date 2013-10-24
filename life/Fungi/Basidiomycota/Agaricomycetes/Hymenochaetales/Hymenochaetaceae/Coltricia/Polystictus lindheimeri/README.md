@@ -1,5 +1,4 @@
-Polystictus lindheimeri (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Polystictus lindheimeri (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Cystoderma terreyi f. terreyi FORM
-=======
+# Cystodermella cinnabarina (Alb. & Schwein.) Harmaja, 2002 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Karstenia 42(2): 45 (2002)
 
 #### Original name
-null
+Agaricus granulosus var. cinnabarinus Alb. & Schwein., 1805
 
 ### Remarks
 null

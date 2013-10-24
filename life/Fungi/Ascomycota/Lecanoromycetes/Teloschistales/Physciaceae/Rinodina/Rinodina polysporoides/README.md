@@ -1,5 +1,4 @@
-Rinodina polysporoides Giralt & H. Mayrhofer SPECIES
-=======
+# Rinodina polysporoides Giralt & H. Mayrhofer SPECIES
 
 #### Status
 ACCEPTED

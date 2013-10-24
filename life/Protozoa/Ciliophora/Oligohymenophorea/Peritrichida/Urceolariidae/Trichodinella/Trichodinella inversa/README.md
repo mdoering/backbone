@@ -1,5 +1,4 @@
-Trichodinella inversa (Dogiel, 1948) Lom, 1959 SPECIES
-=======
+# Trichodinella inversa (Dogiel, 1948) Lom, 1959 SPECIES
 
 #### Status
 ACCEPTED

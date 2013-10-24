@@ -1,5 +1,4 @@
-Marasmiellus inoderma (Berk.) Singer SPECIES
-=======
+# Marasmiellus inoderma (Berk.) Singer SPECIES
 
 #### Status
 ACCEPTED

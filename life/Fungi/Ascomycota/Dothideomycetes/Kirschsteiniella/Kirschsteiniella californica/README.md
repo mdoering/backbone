@@ -1,5 +1,4 @@
-Kirschsteiniella californica Petr. SPECIES
-=======
+# Kirschsteiniella californica Petr. SPECIES
 
 #### Status
 ACCEPTED

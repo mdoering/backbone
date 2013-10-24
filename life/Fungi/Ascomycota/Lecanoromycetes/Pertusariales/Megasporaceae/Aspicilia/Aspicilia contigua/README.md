@@ -1,5 +1,4 @@
-Aspicilia contigua (Lynge) J.W. Thomson SPECIES
-=======
+# Aspicilia contigua (Lynge) J.W. Thomson SPECIES
 
 #### Status
 ACCEPTED

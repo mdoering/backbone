@@ -1,5 +1,4 @@
-Asterina raripoda Toro SPECIES
-=======
+# Asterina raripoda Toro SPECIES
 
 #### Status
 ACCEPTED

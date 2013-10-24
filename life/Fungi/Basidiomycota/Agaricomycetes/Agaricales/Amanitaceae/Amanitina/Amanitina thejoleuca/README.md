@@ -1,5 +1,4 @@
-Amanitina thejoleuca (Pat.) E.-J. Gilbert SPECIES
-=======
+# Amanitina thejoleuca (Pat.) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

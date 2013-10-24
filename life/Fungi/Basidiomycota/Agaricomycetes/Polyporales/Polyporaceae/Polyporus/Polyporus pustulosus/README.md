@@ -1,5 +1,4 @@
-Polyporus pustulosus Zoll. SPECIES
-=======
+# Polyporus pustulosus Zoll. SPECIES
 
 #### Status
 ACCEPTED

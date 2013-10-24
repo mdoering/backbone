@@ -1,17 +1,16 @@
-Inocybe cinnamomicolor f. cinnamomicolor FORM
-=======
+# Inocybe cinnamomicolor Reumaux SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+in Carteret & Reumaux, Boll. Gruppo Micol. 'G. Bresadola' (Trento) 44(3): 21 (2001)
 
 #### Original name
-null
+Inocybe cinnamomicolor Reumaux
 
 ### Remarks
 null

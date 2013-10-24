@@ -1,5 +1,4 @@
-Lecidea albozonaria (DC.) Fr. SPECIES
-=======
+# Lecidea albozonaria (DC.) Fr. SPECIES
 
 #### Status
 ACCEPTED

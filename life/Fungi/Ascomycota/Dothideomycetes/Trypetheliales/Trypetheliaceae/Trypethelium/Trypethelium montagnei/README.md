@@ -1,5 +1,4 @@
-Trypethelium montagnei Trevis. SPECIES
-=======
+# Trypethelium montagnei Trevis. SPECIES
 
 #### Status
 ACCEPTED

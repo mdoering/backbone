@@ -1,5 +1,4 @@
-Lobaria conspersa (Ehrh. ex Ach.) P. Gaertn., G. Mey. & Scherb. SPECIES
-=======
+# Lobaria conspersa (Ehrh. ex Ach.) P. Gaertn., G. Mey. & Scherb. SPECIES
 
 #### Status
 ACCEPTED

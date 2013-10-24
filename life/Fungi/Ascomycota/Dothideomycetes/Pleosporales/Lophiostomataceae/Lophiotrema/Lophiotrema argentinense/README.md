@@ -1,5 +1,4 @@
-Lophiotrema argentinense Speg. SPECIES
-=======
+# Lophiotrema argentinense Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Genistelloides helicoides M.C. Williams & Lichtw., 1987 SPECIES
-=======
+# Genistelloides helicoides M.C. Williams & Lichtw., 1987 SPECIES
 
 #### Status
 ACCEPTED

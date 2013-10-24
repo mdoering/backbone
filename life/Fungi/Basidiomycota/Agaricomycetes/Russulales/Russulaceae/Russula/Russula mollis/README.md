@@ -1,5 +1,4 @@
-Russula mollis Quél. SPECIES
-=======
+# Russula mollis Quél. SPECIES
 
 #### Status
 ACCEPTED

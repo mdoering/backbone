@@ -1,5 +1,4 @@
-Sphaerella vogesiaca Syd. & P. Syd. SPECIES
-=======
+# Sphaerella vogesiaca Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

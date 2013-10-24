@@ -1,5 +1,4 @@
-Porina cinereonigrescens (Stirt.) Müll. Arg. SPECIES
-=======
+# Porina cinereonigrescens (Stirt.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

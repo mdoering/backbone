@@ -1,5 +1,4 @@
-Dasyscyphus abscondita Massee, 1906 SPECIES
-=======
+# Dasyscyphus abscondita Massee, 1906 SPECIES
 
 #### Status
 ACCEPTED

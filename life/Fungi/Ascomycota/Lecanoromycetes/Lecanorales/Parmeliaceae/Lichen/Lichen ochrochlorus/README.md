@@ -1,5 +1,4 @@
-Lichen ochrochlorus J.F. Gmel. SPECIES
-=======
+# Lichen ochrochlorus J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladosporium herbaroides K. Schub., Zalar, Crous & U. Braun SPECIES
-=======
+# Cladosporium herbaroides K. Schub., Zalar, Crous & U. Braun SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micropeltella minima F. Stevens & Manter SPECIES
-=======
+# Micropeltella minima F. Stevens & Manter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia armeniaca Babajan SPECIES
-=======
+# Puccinia armeniaca Babajan SPECIES
 
 #### Status
 ACCEPTED

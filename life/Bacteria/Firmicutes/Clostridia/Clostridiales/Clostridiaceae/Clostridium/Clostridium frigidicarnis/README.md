@@ -1,5 +1,4 @@
-Clostridium frigidicarnis Broda et al., 1999 SPECIES
-=======
+# Clostridium frigidicarnis Broda et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

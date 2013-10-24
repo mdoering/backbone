@@ -1,5 +1,4 @@
-Marssonina salicis (Trail) Magnus SPECIES
-=======
+# Marssonina salicis (Trail) Magnus SPECIES
 
 #### Status
 ACCEPTED

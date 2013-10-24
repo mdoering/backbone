@@ -1,5 +1,4 @@
-Endocarpiscum congregatum Nyl. SPECIES
-=======
+# Endocarpiscum congregatum Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius validipes Peck SPECIES
-=======
+# Cortinarius validipes Peck SPECIES
 
 #### Status
 ACCEPTED

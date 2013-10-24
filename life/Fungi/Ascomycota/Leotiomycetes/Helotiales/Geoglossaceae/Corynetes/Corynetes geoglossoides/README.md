@@ -1,5 +1,4 @@
-Corynetes geoglossoides Eckblad SPECIES
-=======
+# Corynetes geoglossoides Eckblad SPECIES
 
 #### Status
 ACCEPTED

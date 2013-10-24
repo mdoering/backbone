@@ -1,5 +1,4 @@
-Cetradonia J.C. Wei & Ahti GENUS
-=======
+# Cetradonia J.C. Wei & Ahti GENUS
 
 #### Status
 ACCEPTED

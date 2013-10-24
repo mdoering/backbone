@@ -1,5 +1,4 @@
-Myriotrema porinaceum (Müll. Arg.) Hale SPECIES
-=======
+# Myriotrema porinaceum (Müll. Arg.) Hale SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microsphaera cinnamomi (L.S. Olive) U. Braun SPECIES
-=======
+# Microsphaera cinnamomi (L.S. Olive) U. Braun SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clavaria erythrina Lév. SPECIES
-=======
+# Clavaria erythrina Lév. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mayncina Neumann, 1965 GENUS
-=======
+# Mayncina Neumann, 1965 GENUS
 
 #### Status
 ACCEPTED

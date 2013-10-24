@@ -1,5 +1,4 @@
-Lachnea acutipila P. Karst. SPECIES
-=======
+# Lachnea acutipila P. Karst. SPECIES
 
 #### Status
 ACCEPTED

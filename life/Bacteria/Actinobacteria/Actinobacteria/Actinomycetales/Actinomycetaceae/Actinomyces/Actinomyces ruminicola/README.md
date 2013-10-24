@@ -1,5 +1,4 @@
-Actinomyces ruminicola An et al., 2006 SPECIES
-=======
+# Actinomyces ruminicola An et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

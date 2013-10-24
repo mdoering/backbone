@@ -1,5 +1,4 @@
-Hysterium byssisedum P. Crouan & H. Crouan SPECIES
-=======
+# Hysterium byssisedum P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

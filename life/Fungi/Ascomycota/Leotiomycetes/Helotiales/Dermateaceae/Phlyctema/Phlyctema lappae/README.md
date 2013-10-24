@@ -1,5 +1,4 @@
-Phlyctema lappae (P. Karst.) Sacc. SPECIES
-=======
+# Phlyctema lappae (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

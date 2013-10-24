@@ -1,5 +1,4 @@
-Fomes alni (Sorokin) Sacc. SPECIES
-=======
+# Fomes alni (Sorokin) Sacc. SPECIES
 
 #### Status
 ACCEPTED

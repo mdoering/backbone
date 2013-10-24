@@ -1,5 +1,4 @@
-Didymella cymbalariae Ade SPECIES
-=======
+# Didymella cymbalariae Ade SPECIES
 
 #### Status
 ACCEPTED

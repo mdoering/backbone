@@ -1,5 +1,4 @@
-Chaetosphaeria patelliformis Rick SPECIES
-=======
+# Chaetosphaeria patelliformis Rick SPECIES
 
 #### Status
 ACCEPTED

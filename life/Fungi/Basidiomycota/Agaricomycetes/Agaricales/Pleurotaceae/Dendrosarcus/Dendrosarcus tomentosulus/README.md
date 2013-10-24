@@ -1,5 +1,4 @@
-Dendrosarcus tomentosulus (Peck) Kuntze SPECIES
-=======
+# Dendrosarcus tomentosulus (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

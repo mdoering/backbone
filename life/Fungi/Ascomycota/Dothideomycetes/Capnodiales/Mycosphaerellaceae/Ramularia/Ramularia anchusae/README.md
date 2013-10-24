@@ -1,5 +1,4 @@
-Ramularia anchusae C. Massal., 1894 SPECIES
-=======
+# Ramularia anchusae C. Massal., 1894 SPECIES
 
 #### Status
 ACCEPTED

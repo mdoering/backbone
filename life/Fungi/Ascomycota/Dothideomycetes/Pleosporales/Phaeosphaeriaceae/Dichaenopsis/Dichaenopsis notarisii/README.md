@@ -1,5 +1,4 @@
-Dichaenopsis notarisii Paoli SPECIES
-=======
+# Dichaenopsis notarisii Paoli SPECIES
 
 #### Status
 ACCEPTED

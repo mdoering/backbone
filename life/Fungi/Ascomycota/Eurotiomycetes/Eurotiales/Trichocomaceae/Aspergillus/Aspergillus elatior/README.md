@@ -1,5 +1,4 @@
-Aspergillus elatior Mosseray SPECIES
-=======
+# Aspergillus elatior Mosseray SPECIES
 
 #### Status
 ACCEPTED

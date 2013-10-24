@@ -1,5 +1,4 @@
-Tilletia chionachnes Vánky, C. Vánky & R.G. Shivas, 2001 SPECIES
-=======
+# Tilletia chionachnes Vánky, C. Vánky & R.G. Shivas, 2001 SPECIES
 
 #### Status
 ACCEPTED

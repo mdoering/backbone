@@ -1,17 +1,16 @@
-Alexandria Obolkina, 1995 GENUS
-=======
+# Kotinia Obolkina in Aescht, 2001 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Zool Zh 74 (9), Sentyabr': 6.
+in Aescht, Denisia 1: 88.
 
 #### Original name
-null
+Alexandria Obolkina, 1995
 
 ### Remarks
 null

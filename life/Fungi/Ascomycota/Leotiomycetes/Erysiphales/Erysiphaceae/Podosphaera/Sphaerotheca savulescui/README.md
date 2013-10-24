@@ -1,5 +1,4 @@
-Sphaerotheca savulescui Sandu SPECIES
-=======
+# Sphaerotheca savulescui Sandu SPECIES
 
 #### Status
 ACCEPTED

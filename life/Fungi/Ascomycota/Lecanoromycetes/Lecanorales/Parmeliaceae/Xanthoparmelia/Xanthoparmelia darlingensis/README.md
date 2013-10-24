@@ -1,5 +1,4 @@
-Xanthoparmelia darlingensis Elix & J. Johnst. SPECIES
-=======
+# Xanthoparmelia darlingensis Elix & J. Johnst. SPECIES
 
 #### Status
 ACCEPTED

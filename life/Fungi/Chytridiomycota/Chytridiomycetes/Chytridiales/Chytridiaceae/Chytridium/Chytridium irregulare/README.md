@@ -1,5 +1,4 @@
-Chytridium irregulare De Wild. SPECIES
-=======
+# Chytridium irregulare De Wild. SPECIES
 
 #### Status
 ACCEPTED

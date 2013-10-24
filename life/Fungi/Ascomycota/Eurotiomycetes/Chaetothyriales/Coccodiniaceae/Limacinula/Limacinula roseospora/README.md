@@ -1,5 +1,4 @@
-Limacinula roseospora Höhn. SPECIES
-=======
+# Limacinula roseospora Höhn. SPECIES
 
 #### Status
 ACCEPTED

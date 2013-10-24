@@ -1,5 +1,4 @@
-Trichodiscus marchicus (Kirschst.) Kirschst. SPECIES
-=======
+# Trichodiscus marchicus (Kirschst.) Kirschst. SPECIES
 
 #### Status
 ACCEPTED

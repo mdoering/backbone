@@ -1,5 +1,4 @@
-Cercospora hygrophilae Ponnappa SPECIES
-=======
+# Cercospora hygrophilae Ponnappa SPECIES
 
 #### Status
 ACCEPTED

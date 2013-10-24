@@ -1,5 +1,4 @@
-Geotoga petraea Davey et al., 1993 SPECIES
-=======
+# Geotoga petraea Davey et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

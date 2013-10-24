@@ -1,17 +1,16 @@
-Sticta beccarii Kremp. SPECIES
-=======
+# Pseudocyphellaria beccarii (Kremp.) D. J. Galloway SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bulletin of the Natural History Museum, Botany Series 24(2): 119 (1994)
 
 #### Original name
-null
+Sticta beccarii Kremp.
 
 ### Remarks
 null

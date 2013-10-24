@@ -1,5 +1,4 @@
-Leioderma cherokeense P.M. Jørg. & Tønsberg SPECIES
-=======
+# Leioderma cherokeense P.M. Jørg. & Tønsberg SPECIES
 
 #### Status
 ACCEPTED

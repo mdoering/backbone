@@ -1,5 +1,4 @@
-Dichothrix rupicola Collins SPECIES
-=======
+# Dichothrix rupicola Collins SPECIES
 
 #### Status
 ACCEPTED

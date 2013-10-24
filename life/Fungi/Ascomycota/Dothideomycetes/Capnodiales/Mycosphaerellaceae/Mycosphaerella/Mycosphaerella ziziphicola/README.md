@@ -1,8 +1,7 @@
-Mycosphaerella zizyphicola Petr. SPECIES
-=======
+# Mycosphaerella ziziphicola Petr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Mycosphaerella zizyphicola Petr.
+Mycosphaerella ziziphicola Petr.
 
 ### Remarks
 null

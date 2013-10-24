@@ -1,5 +1,4 @@
-Pseudotretomphalus Hofker, 1979 GENUS
-=======
+# Pseudotretomphalus Hofker, 1979 GENUS
 
 #### Status
 ACCEPTED

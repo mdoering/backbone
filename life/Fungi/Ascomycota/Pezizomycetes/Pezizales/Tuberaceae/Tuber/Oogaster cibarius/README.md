@@ -1,5 +1,4 @@
-Oogaster cibarius Corda SPECIES
-=======
+# Oogaster cibarius Corda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Ramularia scirpina (Sacc.) U. Braun SPECIES
-=======
+# Monodidymaria scirpina (Sacc.) U. Braun, 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Int. J. Mycol. Lichenol. 3(2-3): 283 (1988)
+Nova Hedwigia 58(1-2): 195 (1994)
 
 #### Original name
 Didymaria scirpina Sacc., 1913

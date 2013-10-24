@@ -1,5 +1,4 @@
-Macrophoma pulchrispora (Peck & Cooke) Sacc. SPECIES
-=======
+# Macrophoma pulchrispora (Peck & Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

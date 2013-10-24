@@ -1,5 +1,4 @@
-Coryneum crataegicola Miura SPECIES
-=======
+# Coryneum crataegicola Miura SPECIES
 
 #### Status
 ACCEPTED

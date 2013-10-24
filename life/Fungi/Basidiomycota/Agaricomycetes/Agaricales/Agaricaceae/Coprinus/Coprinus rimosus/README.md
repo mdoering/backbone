@@ -1,5 +1,4 @@
-Coprinus rimosus Copel. SPECIES
-=======
+# Coprinus rimosus Copel. SPECIES
 
 #### Status
 ACCEPTED

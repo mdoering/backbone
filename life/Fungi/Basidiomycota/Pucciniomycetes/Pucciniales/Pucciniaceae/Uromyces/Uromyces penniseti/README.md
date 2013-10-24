@@ -1,5 +1,4 @@
-Uromyces penniseti S. Ahmad SPECIES
-=======
+# Uromyces penniseti S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

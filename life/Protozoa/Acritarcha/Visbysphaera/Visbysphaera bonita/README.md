@@ -1,5 +1,4 @@
-Visbysphaera bonita (Cramer, 1970 ex Eisenack et al., 1973) Le Hérissé, 2002 SPECIES
-=======
+# Visbysphaera bonita (Cramer, 1970 ex Eisenack et al., 1973) Le Hérissé, 2002 SPECIES
 
 #### Status
 ACCEPTED

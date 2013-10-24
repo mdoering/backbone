@@ -1,5 +1,4 @@
-Coniangium mughorum (Anzi) Rehm SPECIES
-=======
+# Coniangium mughorum (Anzi) Rehm SPECIES
 
 #### Status
 ACCEPTED

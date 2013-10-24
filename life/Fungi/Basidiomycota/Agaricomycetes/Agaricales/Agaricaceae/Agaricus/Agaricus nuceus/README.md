@@ -1,5 +1,4 @@
-Agaricus nuceus Bolton SPECIES
-=======
+# Agaricus nuceus Bolton SPECIES
 
 #### Status
 ACCEPTED

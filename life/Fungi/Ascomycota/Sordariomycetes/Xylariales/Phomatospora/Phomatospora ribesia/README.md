@@ -1,14 +1,13 @@
-Rabenhorstia ribesia Cooke & Massee, 1887 SPECIES
-=======
+# Phomatospora ribesia (Cooke & Massee) Sacc., 1891 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 16(no. 77): 21 (1887)
+Syll. fung. (Abellini) 9: 591 (1891)
 
 #### Original name
 Rabenhorstia ribesia Cooke & Massee, 1887

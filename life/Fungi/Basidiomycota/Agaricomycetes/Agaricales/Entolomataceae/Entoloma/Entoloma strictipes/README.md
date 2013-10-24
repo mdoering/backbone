@@ -1,5 +1,4 @@
-Entoloma strictipes (Peck) Hesler SPECIES
-=======
+# Entoloma strictipes (Peck) Hesler SPECIES
 
 #### Status
 ACCEPTED

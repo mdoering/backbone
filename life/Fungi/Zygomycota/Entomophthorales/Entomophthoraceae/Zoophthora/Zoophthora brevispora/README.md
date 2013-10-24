@@ -1,5 +1,4 @@
-Zoophthora brevispora Balazy, 1993 SPECIES
-=======
+# Zoophthora brevispora Balazy, 1993 SPECIES
 
 #### Status
 ACCEPTED

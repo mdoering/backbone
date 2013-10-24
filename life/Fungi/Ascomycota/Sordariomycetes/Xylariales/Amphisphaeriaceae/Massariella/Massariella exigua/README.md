@@ -1,5 +1,4 @@
-Massariella exigua Jacz. SPECIES
-=======
+# Massariella exigua Jacz. SPECIES
 
 #### Status
 ACCEPTED

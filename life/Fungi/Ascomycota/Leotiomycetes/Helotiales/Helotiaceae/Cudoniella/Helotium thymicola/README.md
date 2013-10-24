@@ -1,17 +1,16 @@
-Helotium thymicolum Velen. SPECIES
-=======
+# Helotium thymicola Velen. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Novitates Mycologicae Novissimae 122 (1947)
 
 #### Original name
-Helotium thymicolum Velen.
+Helotium thymicola Velen.
 
 ### Remarks
 null

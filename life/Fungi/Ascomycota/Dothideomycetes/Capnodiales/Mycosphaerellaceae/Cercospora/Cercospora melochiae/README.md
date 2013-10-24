@@ -1,5 +1,4 @@
-Cercospora melochiae Henn. SPECIES
-=======
+# Cercospora melochiae Henn. SPECIES
 
 #### Status
 ACCEPTED

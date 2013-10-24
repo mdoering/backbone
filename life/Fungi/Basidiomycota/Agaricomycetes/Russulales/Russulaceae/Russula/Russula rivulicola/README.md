@@ -1,5 +1,4 @@
-Russula rivulicola Ruots. & Vauras SPECIES
-=======
+# Russula rivulicola Ruots. & Vauras SPECIES
 
 #### Status
 ACCEPTED

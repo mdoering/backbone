@@ -1,17 +1,16 @@
-Myxosporium incarnatum subsp. roumegueri Sacc. SUBSPECIES
-=======
+# Myxosporium roumeguerei (Sacc.) Sacc., 1913 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 3: 722 (1884)
+null
 
 #### Original name
-Myxosporium incarnatum subsp. roumegueri Sacc.
+Myxosporium roumeguerei (Sacc.) Sacc., 1913
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Macbridella cinnabarina Seaver SPECIES
-=======
+# Macbridella cinnabarina Seaver SPECIES
 
 #### Status
 ACCEPTED

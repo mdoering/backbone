@@ -1,5 +1,4 @@
-Ganoderma fuscum Steyaert SPECIES
-=======
+# Ganoderma fuscum Steyaert SPECIES
 
 #### Status
 ACCEPTED

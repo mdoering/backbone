@@ -1,5 +1,4 @@
-Helotium helodinum (Durieu & Lév.) Sacc. SPECIES
-=======
+# Helotium helodinum (Durieu & Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Daedalea glabrescens Berk. SPECIES
-=======
+# Daedalea glabrescens Berk. SPECIES
 
 #### Status
 ACCEPTED

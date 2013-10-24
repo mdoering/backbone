@@ -1,5 +1,4 @@
-Pucciniosira clemensiae Arthur & Cummins, 1937 SPECIES
-=======
+# Pucciniosira clemensiae Arthur & Cummins, 1937 SPECIES
 
 #### Status
 ACCEPTED

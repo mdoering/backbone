@@ -1,5 +1,4 @@
-Xerula kuehneri (Romagn.) Bas & Boekhout SPECIES
-=======
+# Xerula kuehneri (Romagn.) Bas & Boekhout SPECIES
 
 #### Status
 ACCEPTED

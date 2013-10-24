@@ -1,5 +1,4 @@
-Usnea sericea Motyka SPECIES
-=======
+# Usnea sericea Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhodocybe azalearum (Murrill) T.J. Baroni SPECIES
-=======
+# Rhodocybe azalearum (Murrill) T.J. Baroni SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tricholoma flammulaecolor Beeli SPECIES
-=======
+# Tricholoma flammulaecolor Beeli SPECIES
 
 #### Status
 ACCEPTED

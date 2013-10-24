@@ -1,14 +1,13 @@
-Achroomyces australis (McNabb) Wojewoda, 1981 SPECIES
-=======
+# Platygloea australis McNabb, 1969 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mala Flora Grzybów (Warszawa), <b>2</b> Basidiomycetes (Podstawczaki) Tremellales (Trzesakowe) Auriculariales (Uszakowe) 209 (1981)
+N. Z. Jl Bot. 7(3): 241 (1969)
 
 #### Original name
 Platygloea australis McNabb, 1969

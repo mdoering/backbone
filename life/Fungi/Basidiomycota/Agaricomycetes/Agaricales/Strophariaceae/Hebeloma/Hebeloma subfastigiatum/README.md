@@ -1,5 +1,4 @@
-Hebeloma subfastigiatum A.H. Sm., V.S. Evenson & Mitchel SPECIES
-=======
+# Hebeloma subfastigiatum A.H. Sm., V.S. Evenson & Mitchel SPECIES
 
 #### Status
 ACCEPTED

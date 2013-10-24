@@ -1,5 +1,4 @@
-Septoria cacaliae Ellis & Kellerm. SPECIES
-=======
+# Septoria cacaliae Ellis & Kellerm. SPECIES
 
 #### Status
 ACCEPTED

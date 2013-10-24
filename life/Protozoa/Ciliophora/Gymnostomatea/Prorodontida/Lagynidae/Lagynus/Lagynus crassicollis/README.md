@@ -1,5 +1,4 @@
-Lagynus crassicollis Maupas, 1883 SPECIES
-=======
+# Lagynus crassicollis Maupas, 1883 SPECIES
 
 #### Status
 ACCEPTED

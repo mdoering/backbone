@@ -1,5 +1,4 @@
-Leccinum engelianum Klofac SPECIES
-=======
+# Leccinum engelianum Klofac SPECIES
 
 #### Status
 ACCEPTED

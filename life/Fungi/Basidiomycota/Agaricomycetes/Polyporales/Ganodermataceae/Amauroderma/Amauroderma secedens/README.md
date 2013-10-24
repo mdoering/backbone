@@ -1,5 +1,4 @@
-Amauroderma secedens Corner, 1983 SPECIES
-=======
+# Amauroderma secedens Corner, 1983 SPECIES
 
 #### Status
 ACCEPTED

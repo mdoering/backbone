@@ -1,5 +1,4 @@
-Dactylospora inspersa SPECIES
-=======
+# Dactylospora inspersa SPECIES
 
 #### Status
 ACCEPTED

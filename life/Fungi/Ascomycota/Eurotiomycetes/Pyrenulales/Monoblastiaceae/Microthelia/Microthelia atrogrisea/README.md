@@ -1,5 +1,4 @@
-Microthelia atrogrisea (Cooke & Peck) Kuntze SPECIES
-=======
+# Microthelia atrogrisea (Cooke & Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

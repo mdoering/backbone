@@ -1,5 +1,4 @@
-Eponides pseudoaffinis Bandy & Arnal, 1957 SPECIES
-=======
+# Eponides pseudoaffinis Bandy & Arnal, 1957 SPECIES
 
 #### Status
 ACCEPTED

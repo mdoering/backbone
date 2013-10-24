@@ -1,5 +1,4 @@
-Rinodina macra Zahlbr. SPECIES
-=======
+# Rinodina macra Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

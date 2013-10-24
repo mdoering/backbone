@@ -1,17 +1,16 @@
-Polyporasclerotes hageni Stach & Pickh. SPECIES
-=======
+# Polyporasclerotes hagenii Stach & Pickh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Palaeontologische Zeitschrift 145 + taf. 14, fig. 4 (1957)
 
 #### Original name
-Polyporasclerotes hageni Stach & Pickh.
+Polyporasclerotes hagenii Stach & Pickh.
 
 ### Remarks
 null

@@ -1,8 +1,7 @@
-Dothioerella GENUS
-=======
+# Dothiorella Saccardo, 1880 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

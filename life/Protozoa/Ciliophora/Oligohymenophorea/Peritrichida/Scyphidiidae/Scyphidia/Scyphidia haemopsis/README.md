@@ -1,5 +1,4 @@
-Scyphidia haemopsis Nenninger, 1948 SPECIES
-=======
+# Scyphidia haemopsis Nenninger, 1948 SPECIES
 
 #### Status
 ACCEPTED

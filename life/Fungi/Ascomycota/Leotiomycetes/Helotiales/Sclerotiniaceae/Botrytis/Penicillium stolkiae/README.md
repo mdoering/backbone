@@ -1,5 +1,4 @@
-Penicillium stolkiae D.B. Scott, 1968 SPECIES
-=======
+# Penicillium stolkiae D.B. Scott, 1968 SPECIES
 
 #### Status
 DOUBTFUL

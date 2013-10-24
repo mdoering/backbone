@@ -1,5 +1,4 @@
-Schizoxylon decipiens P. Karst. SPECIES
-=======
+# Schizoxylon decipiens P. Karst. SPECIES
 
 #### Status
 ACCEPTED

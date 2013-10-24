@@ -1,14 +1,13 @@
-Lopharia phellodendri (Pilát) Boidin, 1959 SPECIES
-=======
+# Porostereum phellodendri Pilát, 1937 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. mens. Soc. linn. Lyon 28: 207 (1959)
+Bull. trimest. Soc. mycol. Fr. 52(3): 331 (1937)
 
 #### Original name
 Porostereum phellodendri Pilát, 1937

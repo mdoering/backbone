@@ -1,14 +1,13 @@
-Aithalomyces rhododendri Woron., 1926 SPECIES
-=======
+# Euantennaria rhododendri (Woron.) S. Hughes, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+N. Z. Jl Bot. 12: 344 (1974)
 
 #### Original name
 Aithalomyces rhododendri Woron., 1926

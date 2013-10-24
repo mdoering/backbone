@@ -1,5 +1,4 @@
-Phyllosticta halstediana Allesch. SPECIES
-=======
+# Phyllosticta halstediana Allesch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entyloma bizzozerianum Sacc. SPECIES
-=======
+# Entyloma bizzozerianum Sacc. SPECIES
 
 #### Status
 ACCEPTED

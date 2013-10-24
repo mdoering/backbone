@@ -1,5 +1,4 @@
-Epistylis clampi Ma & Overstreet, 2006 SPECIES
-=======
+# Epistylis clampi Ma & Overstreet, 2006 SPECIES
 
 #### Status
 ACCEPTED

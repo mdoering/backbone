@@ -1,14 +1,13 @@
-Hysterostomella oxyanthae (Doidge) Doidge SPECIES
-=======
+# Hysterostomella oxyanthi (Doidge) Doidge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bothalia 4(4): 870 (1948)
 
 #### Original name
 Hysterostomina oxyanthae (Doidge) Doidge

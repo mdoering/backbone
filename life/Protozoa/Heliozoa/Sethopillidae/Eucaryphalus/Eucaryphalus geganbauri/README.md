@@ -1,5 +1,4 @@
-Eucaryphalus geganbauri Haeckel SPECIES
-=======
+# Eucaryphalus geganbauri Haeckel SPECIES
 
 #### Status
 ACCEPTED

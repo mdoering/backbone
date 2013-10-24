@@ -1,5 +1,4 @@
-Phacellium brachybotrydis M.J. Park & H.D. Shin SPECIES
-=======
+# Phacellium brachybotrydis M.J. Park & H.D. Shin SPECIES
 
 #### Status
 ACCEPTED

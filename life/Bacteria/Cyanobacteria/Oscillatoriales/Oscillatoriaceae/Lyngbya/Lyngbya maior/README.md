@@ -1,5 +1,4 @@
-Lyngbya maior Gomont SPECIES
-=======
+# Lyngbya maior Gomont SPECIES
 
 #### Status
 ACCEPTED

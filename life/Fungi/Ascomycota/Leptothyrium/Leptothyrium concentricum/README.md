@@ -1,5 +1,4 @@
-Leptothyrium concentricum Tassi SPECIES
-=======
+# Leptothyrium concentricum Tassi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca cascadensis H. Magn. SPECIES
-=======
+# Caloplaca cascadensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

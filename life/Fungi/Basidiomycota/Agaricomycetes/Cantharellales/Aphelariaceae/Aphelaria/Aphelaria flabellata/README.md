@@ -1,5 +1,4 @@
-Aphelaria flabellata (Wakef.) Corner SPECIES
-=======
+# Aphelaria flabellata (Wakef.) Corner SPECIES
 
 #### Status
 ACCEPTED

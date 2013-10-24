@@ -1,14 +1,13 @@
-Hydnangium hinsbyi Rodway, 1924 SPECIES
-=======
+# Octaviania hinsbyi (Rodway) G. Cunn., 1938 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Pap. Proc. R. Soc. Tasm. 158 (1924)
+Trans. Roy. Soc. New Zealand 67: 408 (1938)
 
 #### Original name
 Hydnangium hinsbyi Rodway, 1924

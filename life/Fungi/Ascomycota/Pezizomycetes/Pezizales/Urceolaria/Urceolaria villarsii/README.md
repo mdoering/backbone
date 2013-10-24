@@ -1,5 +1,4 @@
-Urceolaria villarsii (Ach.) Boistel SPECIES
-=======
+# Urceolaria villarsii (Ach.) Boistel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudoaulophacus Pessagno, 1963 GENUS
-=======
+# Pseudoaulophacus Pessagno, 1963 GENUS
 
 #### Status
 ACCEPTED

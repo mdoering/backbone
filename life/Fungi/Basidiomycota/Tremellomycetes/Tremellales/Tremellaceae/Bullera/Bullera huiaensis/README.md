@@ -1,17 +1,16 @@
-Derxomyces huiaensis (Hamam. & Nakase) F.Y. Bai & Q.M. Wang, 2008 SPECIES
-=======
+# Bullera huiaensis Hamam. & Nakase, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Antonie van Leeuwenhoek 69(3): 284 (1996)
 
 #### Original name
-null
+Bullera huiaensis Hamam. & Nakase, 1996
 
 ### Remarks
 null

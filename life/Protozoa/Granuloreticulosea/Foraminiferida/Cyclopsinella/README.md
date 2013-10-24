@@ -1,17 +1,16 @@
-Cycloclypsinella Thalmann, 1935 GENUS
-=======
+# Cyclopsinella Galloway, 1933 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-J. Paleont. , 9 (8), 734.
+Manual Foram. , 138.
 
 #### Original name
-null
+Cyclopsina Munier-Chalmas, 1887
 
 ### Remarks
 null

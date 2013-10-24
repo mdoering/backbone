@@ -1,5 +1,4 @@
-Calothrix luteofusca C. Agardh SPECIES
-=======
+# Calothrix luteofusca C. Agardh SPECIES
 
 #### Status
 ACCEPTED

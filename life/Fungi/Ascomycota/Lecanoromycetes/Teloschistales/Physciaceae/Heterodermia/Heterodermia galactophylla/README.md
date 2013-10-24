@@ -1,5 +1,4 @@
-Heterodermia galactophylla (Tuck.) W. L. Culb. SPECIES
-=======
+# Heterodermia galactophylla (Tuck.) W. L. Culb. SPECIES
 
 #### Status
 ACCEPTED

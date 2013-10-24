@@ -1,5 +1,4 @@
-Dolichoascus schenckii Thibaut & Ansel, 1970 SPECIES
-=======
+# Dolichoascus schenckii Thibaut & Ansel, 1970 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amanita savannae Tulloss & Franco-Mol. SPECIES
-=======
+# Amanita savannae Tulloss & Franco-Mol. SPECIES
 
 #### Status
 ACCEPTED

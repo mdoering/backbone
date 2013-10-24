@@ -1,5 +1,4 @@
-Penicillium janthogenum Biourge, 1923 SPECIES
-=======
+# Penicillium janthogenum Biourge, 1923 SPECIES
 
 #### Status
 ACCEPTED

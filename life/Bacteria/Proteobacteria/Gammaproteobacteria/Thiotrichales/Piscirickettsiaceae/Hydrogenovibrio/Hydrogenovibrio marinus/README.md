@@ -1,5 +1,4 @@
-Hydrogenovibrio marinus Nishihara et al., 1991 SPECIES
-=======
+# Hydrogenovibrio marinus Nishihara et al., 1991 SPECIES
 
 #### Status
 ACCEPTED

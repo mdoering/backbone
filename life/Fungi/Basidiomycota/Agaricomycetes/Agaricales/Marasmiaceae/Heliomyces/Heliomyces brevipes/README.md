@@ -1,5 +1,4 @@
-Heliomyces brevipes Mont. SPECIES
-=======
+# Heliomyces brevipes Mont. SPECIES
 
 #### Status
 ACCEPTED

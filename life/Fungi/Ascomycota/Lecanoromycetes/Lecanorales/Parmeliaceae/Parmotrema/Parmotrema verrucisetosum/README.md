@@ -1,5 +1,4 @@
-Parmotrema verrucisetosum Sipman SPECIES
-=======
+# Parmotrema verrucisetosum Sipman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clitocybe regularoides Raithelh. SPECIES
-=======
+# Clitocybe regularoides Raithelh. SPECIES
 
 #### Status
 ACCEPTED

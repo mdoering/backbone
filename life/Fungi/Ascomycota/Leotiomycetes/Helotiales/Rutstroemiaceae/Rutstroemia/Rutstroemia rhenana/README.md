@@ -1,14 +1,13 @@
-Encoelia rhenana (Kirschst.) Baral & G. Marson, 1997 SPECIES
-=======
+# Rutstroemia rhenana (Kirschst.) Dennis, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Baral & Richter, Boletus 21(1): 45 (1997)
+Kew Bull. , Addit. Ser. 25(2): 352 (1971)
 
 #### Original name
 Cenangium rhenanum Kirschst., 1938

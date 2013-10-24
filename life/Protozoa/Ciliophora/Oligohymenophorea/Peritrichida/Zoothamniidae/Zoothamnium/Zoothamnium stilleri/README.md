@@ -1,5 +1,4 @@
-Zoothamnium stilleri SPECIES
-=======
+# Zoothamnium stilleri SPECIES
 
 #### Status
 ACCEPTED

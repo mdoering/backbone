@@ -1,5 +1,4 @@
-Dothiorella fructicola Scalia SPECIES
-=======
+# Dothiorella fructicola Scalia SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stomatophrya aplanata Kahl, 1933 SPECIES
-=======
+# Stomatophrya aplanata Kahl, 1933 SPECIES
 
 #### Status
 ACCEPTED

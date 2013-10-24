@@ -1,5 +1,4 @@
-Buellia scotochroa SPECIES
-=======
+# Buellia scotochroa SPECIES
 
 #### Status
 ACCEPTED

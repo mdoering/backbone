@@ -1,5 +1,4 @@
-Poria suaveolens Bagl. SPECIES
-=======
+# Poria suaveolens Bagl. SPECIES
 
 #### Status
 ACCEPTED

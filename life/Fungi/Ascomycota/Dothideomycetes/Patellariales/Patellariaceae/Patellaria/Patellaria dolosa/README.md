@@ -1,5 +1,4 @@
-Patellaria dolosa Duby SPECIES
-=======
+# Patellaria dolosa Duby SPECIES
 
 #### Status
 ACCEPTED

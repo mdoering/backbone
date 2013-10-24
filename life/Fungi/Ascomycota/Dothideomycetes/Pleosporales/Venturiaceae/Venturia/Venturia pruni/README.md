@@ -1,5 +1,4 @@
-Venturia pruni M.E. Barr SPECIES
-=======
+# Venturia pruni M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

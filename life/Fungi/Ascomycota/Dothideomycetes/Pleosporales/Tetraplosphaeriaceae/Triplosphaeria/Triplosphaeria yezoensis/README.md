@@ -1,5 +1,4 @@
-Triplosphaeria yezoensis (I. Hino & Katum.) Kaz. Tanaka, K. Hirayama & Shirouzu, 2009 SPECIES
-=======
+# Triplosphaeria yezoensis (I. Hino & Katum.) Kaz. Tanaka, K. Hirayama & Shirouzu, 2009 SPECIES
 
 #### Status
 ACCEPTED

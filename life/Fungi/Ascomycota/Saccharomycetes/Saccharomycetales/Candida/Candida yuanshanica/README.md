@@ -1,5 +1,4 @@
-Candida yuanshanica C.F. Lee & Chun H. Liu SPECIES
-=======
+# Candida yuanshanica C.F. Lee & Chun H. Liu SPECIES
 
 #### Status
 ACCEPTED

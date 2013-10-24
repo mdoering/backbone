@@ -1,5 +1,4 @@
-Parapleistophora ectospora I.V. Issi, Kadyrova, Pushkar, Khodzhaeva & S.V. Krylova SPECIES
-=======
+# Parapleistophora ectospora I.V. Issi, Kadyrova, Pushkar, Khodzhaeva & S.V. Krylova SPECIES
 
 #### Status
 ACCEPTED

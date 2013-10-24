@@ -1,5 +1,4 @@
-Heterodermia firmula (Nyl.) Trevis. SPECIES
-=======
+# Heterodermia firmula (Nyl.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

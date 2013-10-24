@@ -1,14 +1,13 @@
-Polyporus lateritius Cooke, 1880 SPECIES
-=======
+# Pyrofomes lateritius (Cooke) Ryvarden, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 9(no. 49): 12 (1880)
+Norw. Jl Bot. 19(3-4): 236 (1972)
 
 #### Original name
 Polyporus lateritius Cooke, 1880

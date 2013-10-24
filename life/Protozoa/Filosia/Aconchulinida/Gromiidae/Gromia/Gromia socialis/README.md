@@ -1,5 +1,4 @@
-Gromia socialis Archer, 1869 SPECIES
-=======
+# Gromia socialis Archer, 1869 SPECIES
 
 #### Status
 ACCEPTED

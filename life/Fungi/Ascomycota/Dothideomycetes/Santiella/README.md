@@ -1,5 +1,4 @@
-Santiella GENUS
-=======
+# Santiella GENUS
 
 #### Status
 ACCEPTED

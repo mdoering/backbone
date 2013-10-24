@@ -1,5 +1,4 @@
-Rhizophydium porosum Sparrow & Lange SPECIES
-=======
+# Rhizophydium porosum Sparrow & Lange SPECIES
 
 #### Status
 ACCEPTED

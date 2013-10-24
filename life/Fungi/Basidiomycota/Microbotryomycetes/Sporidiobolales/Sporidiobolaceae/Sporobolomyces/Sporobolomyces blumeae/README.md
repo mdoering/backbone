@@ -1,5 +1,4 @@
-Sporobolomyces blumeae M. Takash. & Nakase SPECIES
-=======
+# Sporobolomyces blumeae M. Takash. & Nakase SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micropeltis myrsines Rehm SPECIES
-=======
+# Micropeltis myrsines Rehm SPECIES
 
 #### Status
 ACCEPTED

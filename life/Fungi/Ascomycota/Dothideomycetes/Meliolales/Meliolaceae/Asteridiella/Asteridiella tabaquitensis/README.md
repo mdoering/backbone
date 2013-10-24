@@ -1,5 +1,4 @@
-Asteridiella tabaquitensis Hansf. SPECIES
-=======
+# Asteridiella tabaquitensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

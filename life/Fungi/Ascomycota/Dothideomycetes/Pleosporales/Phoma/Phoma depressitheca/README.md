@@ -1,5 +1,4 @@
-Phoma depressitheca Bubák SPECIES
-=======
+# Phoma depressitheca Bubák SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endocarpon fuscoatratum (Jatta) Zahlbr. SPECIES
-=======
+# Endocarpon fuscoatratum (Jatta) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Herpotrichia heterostoma (P. Karst.) Sacc. SPECIES
-=======
+# Herpotrichia heterostoma (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

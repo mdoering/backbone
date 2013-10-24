@@ -1,5 +1,4 @@
-Tuber gulosorum F.H. Wigg. SPECIES
-=======
+# Tuber gulosorum F.H. Wigg. SPECIES
 
 #### Status
 ACCEPTED

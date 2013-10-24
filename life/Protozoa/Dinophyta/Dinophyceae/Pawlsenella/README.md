@@ -1,5 +1,4 @@
-Pawlsenella GENUS
-=======
+# Pawlsenella GENUS
 
 #### Status
 ACCEPTED

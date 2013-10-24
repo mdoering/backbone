@@ -1,5 +1,4 @@
-Septoria samarae Peck SPECIES
-=======
+# Septoria samarae Peck SPECIES
 
 #### Status
 ACCEPTED

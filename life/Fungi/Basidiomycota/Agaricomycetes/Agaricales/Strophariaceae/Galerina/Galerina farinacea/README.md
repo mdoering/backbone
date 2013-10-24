@@ -1,5 +1,4 @@
-Galerina farinacea A.H. Sm. SPECIES
-=======
+# Galerina farinacea A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

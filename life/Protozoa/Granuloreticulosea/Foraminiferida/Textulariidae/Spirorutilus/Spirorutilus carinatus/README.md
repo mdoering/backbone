@@ -1,8 +1,7 @@
-Textularia pseudocarinata Cushman, 1921 SPECIES
-=======
+# Spirorutilus carinatus (d'Orbigny, 1846) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

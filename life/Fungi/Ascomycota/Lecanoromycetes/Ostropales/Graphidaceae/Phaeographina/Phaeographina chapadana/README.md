@@ -1,5 +1,4 @@
-Phaeographina chapadana Redinger SPECIES
-=======
+# Phaeographina chapadana Redinger SPECIES
 
 #### Status
 ACCEPTED

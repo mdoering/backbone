@@ -1,5 +1,4 @@
-Aecidium westlandicum G. Cunn., 1928 SPECIES
-=======
+# Aecidium westlandicum G. Cunn., 1928 SPECIES
 
 #### Status
 ACCEPTED

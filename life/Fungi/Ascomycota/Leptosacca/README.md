@@ -1,5 +1,4 @@
-Leptosacca Syd. GENUS
-=======
+# Leptosacca Syd. GENUS
 
 #### Status
 ACCEPTED

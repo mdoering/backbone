@@ -1,5 +1,4 @@
-Asteroma tiliae F. Rudolphi SPECIES
-=======
+# Asteroma tiliae F. Rudolphi SPECIES
 
 #### Status
 ACCEPTED

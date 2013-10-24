@@ -1,5 +1,4 @@
-Diplophrys archeri J. Barker, 1868 SPECIES
-=======
+# Diplophrys archeri J. Barker, 1868 SPECIES
 
 #### Status
 ACCEPTED

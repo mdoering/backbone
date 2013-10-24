@@ -1,5 +1,4 @@
-Herpotrichia detzneriae Otani SPECIES
-=======
+# Herpotrichia detzneriae Otani SPECIES
 
 #### Status
 ACCEPTED

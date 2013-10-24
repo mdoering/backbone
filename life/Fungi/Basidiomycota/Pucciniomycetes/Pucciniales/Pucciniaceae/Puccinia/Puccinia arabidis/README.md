@@ -1,5 +1,4 @@
-Puccinia arabidis D.M. Hend. SPECIES
-=======
+# Puccinia arabidis D.M. Hend. SPECIES
 
 #### Status
 ACCEPTED

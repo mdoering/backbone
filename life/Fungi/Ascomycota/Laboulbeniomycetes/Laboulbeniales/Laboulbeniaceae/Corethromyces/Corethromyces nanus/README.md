@@ -1,5 +1,4 @@
-Corethromyces nanus Thaxt. SPECIES
-=======
+# Corethromyces nanus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

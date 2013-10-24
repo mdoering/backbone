@@ -1,5 +1,4 @@
-Pseudocercospora ehretiae (Togashi & Katsuki) C. Nakash. & Tak. Kobay. SPECIES
-=======
+# Pseudocercospora ehretiae (Togashi & Katsuki) C. Nakash. & Tak. Kobay. SPECIES
 
 #### Status
 ACCEPTED

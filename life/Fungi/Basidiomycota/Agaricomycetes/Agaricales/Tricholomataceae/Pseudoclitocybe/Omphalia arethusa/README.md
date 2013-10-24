@@ -1,5 +1,4 @@
-Omphalia arethusa Berk. SPECIES
-=======
+# Omphalia arethusa Berk. SPECIES
 
 #### Status
 ACCEPTED

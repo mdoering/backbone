@@ -1,5 +1,4 @@
-Sphaeria gilva Jungh. SPECIES
-=======
+# Sphaeria gilva Jungh. SPECIES
 
 #### Status
 ACCEPTED

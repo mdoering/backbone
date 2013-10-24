@@ -1,17 +1,16 @@
-Chroogomphus helveticus subsp. helveticus (Singer) M.M. Moser SUBSPECIES
-=======
+# Chroogomphus helveticus (Singer) M.M. Moser, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 in Gams, Kleine Kryptogamenflora (Stuttgart), Edn 3 2b/2: 51 (1967)
 
 #### Original name
-Chroogomphus helveticus subsp. helveticus (Singer) M.M. Moser
+Gomphidius helveticus Singer, 1950
 
 ### Remarks
 null

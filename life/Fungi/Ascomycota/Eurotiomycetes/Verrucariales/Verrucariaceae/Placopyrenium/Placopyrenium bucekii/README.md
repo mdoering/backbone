@@ -1,5 +1,4 @@
-Placopyrenium bucekii var. bucekii VARIETY
-=======
+# Placopyrenium bucekii (Nádv. & Servít) Breuss SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 in Nimis & Poelt, Stud. Geobot. 7(suppl. 1): 182 (1987)
 
 #### Original name
-Placopyrenium bucekii var. bucekii
+Dermatocarpon bucekii Nádv. & Servít
 
 ### Remarks
 null

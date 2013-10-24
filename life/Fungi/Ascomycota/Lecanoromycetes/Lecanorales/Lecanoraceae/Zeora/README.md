@@ -1,5 +1,4 @@
-Zeora GENUS
-=======
+# Zeora GENUS
 
 #### Status
 ACCEPTED

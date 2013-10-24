@@ -1,5 +1,4 @@
-Pezizella subhirsuta Feltgen SPECIES
-=======
+# Pezizella subhirsuta Feltgen SPECIES
 
 #### Status
 ACCEPTED

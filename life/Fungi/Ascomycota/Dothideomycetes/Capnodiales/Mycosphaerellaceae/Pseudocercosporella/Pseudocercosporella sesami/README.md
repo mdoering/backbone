@@ -1,5 +1,4 @@
-Pseudocercosporella sesami Purkay. & Mallik SPECIES
-=======
+# Pseudocercosporella sesami Purkay. & Mallik SPECIES
 
 #### Status
 ACCEPTED

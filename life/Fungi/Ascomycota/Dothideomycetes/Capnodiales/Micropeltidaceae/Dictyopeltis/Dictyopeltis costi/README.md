@@ -1,5 +1,4 @@
-Dictyopeltis costi Bat. SPECIES
-=======
+# Dictyopeltis costi Bat. SPECIES
 
 #### Status
 ACCEPTED

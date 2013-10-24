@@ -1,5 +1,4 @@
-Bakuella polycirrata SPECIES
-=======
+# Bakuella polycirrata SPECIES
 
 #### Status
 ACCEPTED

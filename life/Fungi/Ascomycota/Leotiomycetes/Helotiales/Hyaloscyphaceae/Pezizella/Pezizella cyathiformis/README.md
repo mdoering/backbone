@@ -1,5 +1,4 @@
-Pezizella cyathiformis (Rehm) Graddon SPECIES
-=======
+# Pezizella cyathiformis (Rehm) Graddon SPECIES
 
 #### Status
 ACCEPTED

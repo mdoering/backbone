@@ -1,5 +1,4 @@
-Dasyscyphus phytolaccae Raitv. SPECIES
-=======
+# Dasyscyphus phytolaccae Raitv. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius unilamellatus Desjardin & E. Horak, 1997 SPECIES
-=======
+# Marasmius unilamellatus Desjardin & E. Horak, 1997 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stereogloeocystidium avellaneum Rick SPECIES
-=======
+# Stereogloeocystidium avellaneum Rick SPECIES
 
 #### Status
 ACCEPTED

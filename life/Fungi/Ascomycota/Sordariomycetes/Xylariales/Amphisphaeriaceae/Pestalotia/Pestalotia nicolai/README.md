@@ -1,5 +1,4 @@
-Pestalotia nicolai Bubák SPECIES
-=======
+# Pestalotia nicolai Bubák SPECIES
 
 #### Status
 ACCEPTED

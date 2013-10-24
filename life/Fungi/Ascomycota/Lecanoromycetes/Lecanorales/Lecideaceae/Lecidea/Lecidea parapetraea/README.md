@@ -1,5 +1,4 @@
-Lecidea parapetraea Nyl. SPECIES
-=======
+# Lecidea parapetraea Nyl. SPECIES
 
 #### Status
 ACCEPTED

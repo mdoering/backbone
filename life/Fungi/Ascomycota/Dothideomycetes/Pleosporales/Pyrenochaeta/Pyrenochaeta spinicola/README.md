@@ -1,5 +1,4 @@
-Pyrenochaeta spinicola Speg. SPECIES
-=======
+# Pyrenochaeta spinicola Speg. SPECIES
 
 #### Status
 ACCEPTED

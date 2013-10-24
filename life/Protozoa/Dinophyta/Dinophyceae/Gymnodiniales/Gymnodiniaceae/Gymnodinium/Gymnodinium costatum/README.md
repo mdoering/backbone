@@ -1,5 +1,4 @@
-Gymnodinium costatum Kofoid & Swezy, 1921 SPECIES
-=======
+# Gymnodinium costatum Kofoid & Swezy, 1921 SPECIES
 
 #### Status
 ACCEPTED

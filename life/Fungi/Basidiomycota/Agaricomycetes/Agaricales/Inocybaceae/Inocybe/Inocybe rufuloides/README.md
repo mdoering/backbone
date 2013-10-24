@@ -1,5 +1,4 @@
-Inocybe rufuloides var. rufuloides VARIETY
-=======
+# Inocybe rufuloides Bon SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Docums Mycol. 14(no. 53): 28 (1984)
 
 #### Original name
-Inocybe rufuloides var. rufuloides
+Inocybe rufuloides Bon
 
 ### Remarks
 null

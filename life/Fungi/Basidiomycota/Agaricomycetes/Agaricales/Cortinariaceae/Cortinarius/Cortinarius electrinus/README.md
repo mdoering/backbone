@@ -1,5 +1,4 @@
-Cortinarius electrinus Britzelm. SPECIES
-=======
+# Cortinarius electrinus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

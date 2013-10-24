@@ -1,5 +1,4 @@
-Epicoccum malinvernianum Ces. & De Not. SPECIES
-=======
+# Epicoccum malinvernianum Ces. & De Not. SPECIES
 
 #### Status
 ACCEPTED

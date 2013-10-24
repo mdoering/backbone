@@ -1,5 +1,4 @@
-Cylindrophora fagi Oudem. SPECIES
-=======
+# Cylindrophora fagi Oudem. SPECIES
 
 #### Status
 ACCEPTED

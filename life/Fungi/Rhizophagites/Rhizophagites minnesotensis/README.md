@@ -1,5 +1,4 @@
-Rhizophagites minnesotensis Rosend. SPECIES
-=======
+# Rhizophagites minnesotensis Rosend. SPECIES
 
 #### Status
 ACCEPTED

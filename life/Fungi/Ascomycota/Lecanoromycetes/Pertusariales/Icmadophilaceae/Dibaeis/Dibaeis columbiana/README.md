@@ -1,5 +1,4 @@
-Dibaeis columbiana (Vain.) Kalb & Gierl SPECIES
-=======
+# Dibaeis columbiana (Vain.) Kalb & Gierl SPECIES
 
 #### Status
 ACCEPTED

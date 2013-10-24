@@ -1,14 +1,13 @@
-Gomphidius sibiricus Singer, 1938 SPECIES
-=======
+# Chroogomphus sibiricus (Singer) O.K. Mill., 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revue Mycol. , Paris 3(4-5): 174 (1938)
+null
 
 #### Original name
 Gomphidius sibiricus Singer, 1938

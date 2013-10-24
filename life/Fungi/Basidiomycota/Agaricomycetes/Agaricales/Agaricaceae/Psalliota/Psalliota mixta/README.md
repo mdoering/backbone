@@ -1,5 +1,4 @@
-Psalliota mixta A. Pearson SPECIES
-=======
+# Psalliota mixta A. Pearson SPECIES
 
 #### Status
 ACCEPTED

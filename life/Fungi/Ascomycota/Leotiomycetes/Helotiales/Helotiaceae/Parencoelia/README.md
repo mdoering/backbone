@@ -1,5 +1,4 @@
-Parencoelia Petr. GENUS
-=======
+# Parencoelia Petr. GENUS
 
 #### Status
 ACCEPTED

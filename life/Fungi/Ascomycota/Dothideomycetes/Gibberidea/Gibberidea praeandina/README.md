@@ -1,5 +1,4 @@
-Gibberidea praeandina Speg. SPECIES
-=======
+# Gibberidea praeandina Speg. SPECIES
 
 #### Status
 ACCEPTED

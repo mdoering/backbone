@@ -1,5 +1,4 @@
-Laboulbenia thaxteri Cépède & F. Picard, 1909 SPECIES
-=======
+# Laboulbenia thaxteri Cépède & F. Picard, 1909 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Neopeltis andina Petr. SPECIES
-=======
+# Neopeltis andina Petr. SPECIES
 
 #### Status
 ACCEPTED

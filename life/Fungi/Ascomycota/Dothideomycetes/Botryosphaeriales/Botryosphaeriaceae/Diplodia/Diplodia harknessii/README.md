@@ -1,17 +1,16 @@
-Diplodia harknessi Sacc. SPECIES
-=======
+# Diplodia harknessii Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 3: 363 (1884)
 
 #### Original name
-Diplodia harknessi Sacc.
+Diplodia laurina Sacc., 1876
 
 ### Remarks
 null

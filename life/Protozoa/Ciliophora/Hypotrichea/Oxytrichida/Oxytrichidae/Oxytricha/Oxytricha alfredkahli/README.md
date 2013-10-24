@@ -1,5 +1,4 @@
-Oxytricha alfredkahli Foissner, 1987 SPECIES
-=======
+# Oxytricha alfredkahli Foissner, 1987 SPECIES
 
 #### Status
 ACCEPTED

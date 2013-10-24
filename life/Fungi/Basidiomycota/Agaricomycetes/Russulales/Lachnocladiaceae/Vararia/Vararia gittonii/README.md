@@ -1,17 +1,16 @@
-Vararia gittonii subsp. guttata Boidin & Gilles SUBSPECIES
-=======
+# Vararia gittonii Boidin & Lanq., 1975 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 115(2): 120 (1999)
+Bull. trimest. Soc. mycol. Fr. 91(4): 461 (1975)
 
 #### Original name
-Vararia gittonii subsp. guttata Boidin & Gilles
+Vararia gittonii Boidin & Lanq., 1975
 
 ### Remarks
 null

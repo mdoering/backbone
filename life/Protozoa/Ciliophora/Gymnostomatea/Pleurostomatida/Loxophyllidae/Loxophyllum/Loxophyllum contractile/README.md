@@ -1,5 +1,4 @@
-Loxophyllum contractile subsp. contractile SUBSPECIES
-=======
+# Loxophyllum contractile SPECIES
 
 #### Status
 ACCEPTED

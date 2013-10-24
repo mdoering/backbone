@@ -1,5 +1,4 @@
-Aecidium lonicerinum Thüm. SPECIES
-=======
+# Aecidium lonicerinum Thüm. SPECIES
 
 #### Status
 ACCEPTED

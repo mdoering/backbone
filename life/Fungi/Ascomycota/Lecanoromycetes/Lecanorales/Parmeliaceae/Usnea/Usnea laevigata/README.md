@@ -1,5 +1,4 @@
-Usnea laevigata Vain. SPECIES
-=======
+# Usnea laevigata Vain. SPECIES
 
 #### Status
 ACCEPTED

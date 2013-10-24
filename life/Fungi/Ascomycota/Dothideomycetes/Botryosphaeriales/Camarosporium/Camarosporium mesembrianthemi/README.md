@@ -1,5 +1,4 @@
-Camarosporium mesembrianthemi Tassi SPECIES
-=======
+# Camarosporium mesembrianthemi Tassi SPECIES
 
 #### Status
 ACCEPTED

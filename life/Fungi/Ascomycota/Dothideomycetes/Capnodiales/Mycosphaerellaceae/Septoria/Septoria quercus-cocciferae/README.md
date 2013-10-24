@@ -1,5 +1,4 @@
-Septoria quercus-cocciferae Gonz. Frag. SPECIES
-=======
+# Septoria quercus-cocciferae Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

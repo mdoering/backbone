@@ -1,5 +1,4 @@
-Dictyota cribrosa Setchell & N.L.Gardner, 1930 SPECIES
-=======
+# Dictyota cribrosa Setchell & N.L.Gardner, 1930 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eutypa ludens Speg. SPECIES
-=======
+# Eutypa ludens Speg. SPECIES
 
 #### Status
 ACCEPTED

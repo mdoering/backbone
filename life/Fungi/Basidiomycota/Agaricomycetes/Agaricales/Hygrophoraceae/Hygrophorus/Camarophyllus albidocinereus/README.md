@@ -1,5 +1,4 @@
-Camarophyllus albidocinereus Kalamees SPECIES
-=======
+# Camarophyllus albidocinereus Kalamees SPECIES
 
 #### Status
 ACCEPTED

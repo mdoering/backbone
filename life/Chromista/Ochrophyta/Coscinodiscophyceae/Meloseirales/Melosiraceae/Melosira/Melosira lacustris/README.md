@@ -1,5 +1,4 @@
-Melosira lacustris H.H. Chase SPECIES
-=======
+# Melosira lacustris H.H. Chase SPECIES
 
 #### Status
 ACCEPTED

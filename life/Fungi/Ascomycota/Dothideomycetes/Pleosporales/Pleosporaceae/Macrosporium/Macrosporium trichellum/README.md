@@ -1,5 +1,4 @@
-Macrosporium trichellum var. trichellum VARIETY
-=======
+# Macrosporium trichellum Arcang. & Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Macrosporium trichellum var. trichellum
+Macrosporium trichellum Arcang. & Sacc.
 
 ### Remarks
 null

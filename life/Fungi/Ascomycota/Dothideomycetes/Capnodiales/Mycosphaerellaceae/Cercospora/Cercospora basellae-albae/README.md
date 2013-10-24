@@ -1,5 +1,4 @@
-Cercospora basellae-albae R.K. Srivast., S. Narayan & A.K. Srivast. SPECIES
-=======
+# Cercospora basellae-albae R.K. Srivast., S. Narayan & A.K. Srivast. SPECIES
 
 #### Status
 ACCEPTED

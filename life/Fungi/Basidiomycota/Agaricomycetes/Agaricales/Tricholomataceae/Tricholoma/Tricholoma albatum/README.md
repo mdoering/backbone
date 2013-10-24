@@ -1,5 +1,4 @@
-Tricholoma albatum Velen. SPECIES
-=======
+# Tricholoma albatum Velen. SPECIES
 
 #### Status
 ACCEPTED

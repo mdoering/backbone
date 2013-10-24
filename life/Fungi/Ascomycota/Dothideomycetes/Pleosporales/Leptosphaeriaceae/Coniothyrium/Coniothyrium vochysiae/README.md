@@ -1,5 +1,4 @@
-Coniothyrium vochysiae Henn. SPECIES
-=======
+# Coniothyrium vochysiae Henn. SPECIES
 
 #### Status
 ACCEPTED

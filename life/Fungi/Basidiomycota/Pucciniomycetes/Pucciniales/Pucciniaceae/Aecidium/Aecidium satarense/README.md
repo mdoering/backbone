@@ -1,5 +1,4 @@
-Aecidium satarense P.B. Chavan & S.K. Patil {?} SPECIES
-=======
+# Aecidium satarense P.B. Chavan & S.K. Patil {?} SPECIES
 
 #### Status
 ACCEPTED

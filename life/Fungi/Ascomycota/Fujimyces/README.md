@@ -1,5 +1,4 @@
-Fujimyces Minter & Caine GENUS
-=======
+# Fujimyces Minter & Caine GENUS
 
 #### Status
 ACCEPTED

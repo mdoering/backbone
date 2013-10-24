@@ -1,5 +1,4 @@
-Thialkalivibrio nitratireducens Sorokin et al., 2003 SPECIES
-=======
+# Thialkalivibrio nitratireducens Sorokin et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

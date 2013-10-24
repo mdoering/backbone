@@ -1,5 +1,4 @@
-Thielavia macrospora Lodha SPECIES
-=======
+# Thielavia macrospora Lodha SPECIES
 
 #### Status
 ACCEPTED

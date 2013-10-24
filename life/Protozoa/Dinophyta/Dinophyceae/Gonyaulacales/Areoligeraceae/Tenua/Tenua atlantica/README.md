@@ -1,5 +1,4 @@
-Tenua atlantica D. Habib SPECIES
-=======
+# Tenua atlantica D. Habib SPECIES
 
 #### Status
 ACCEPTED

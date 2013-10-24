@@ -1,5 +1,4 @@
-Intrasporangiaceae FAMILY
-=======
+# Intrasporangiaceae FAMILY
 
 #### Status
 ACCEPTED

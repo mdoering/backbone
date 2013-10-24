@@ -1,5 +1,4 @@
-Agaricus hamadryas Fr. SPECIES
-=======
+# Agaricus hamadryas Fr. SPECIES
 
 #### Status
 ACCEPTED

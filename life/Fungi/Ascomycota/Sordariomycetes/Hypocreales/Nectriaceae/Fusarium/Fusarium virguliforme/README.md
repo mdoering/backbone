@@ -1,5 +1,4 @@
-Fusarium virguliforme O'Donnell & T. Aoki SPECIES
-=======
+# Fusarium virguliforme O'Donnell & T. Aoki SPECIES
 
 #### Status
 ACCEPTED

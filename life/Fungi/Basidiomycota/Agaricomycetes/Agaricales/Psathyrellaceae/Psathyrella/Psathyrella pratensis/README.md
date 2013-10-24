@@ -1,5 +1,4 @@
-Psathyrella pratensis A.H. Sm. SPECIES
-=======
+# Psathyrella pratensis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

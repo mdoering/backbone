@@ -1,5 +1,4 @@
-Peziza viridis Schumach. SPECIES
-=======
+# Peziza viridis Schumach. SPECIES
 
 #### Status
 ACCEPTED

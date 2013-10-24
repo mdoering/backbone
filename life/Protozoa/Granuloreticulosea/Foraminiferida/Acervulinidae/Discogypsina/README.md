@@ -1,5 +1,4 @@
-Discogypsina Silvestri, 1937 GENUS
-=======
+# Discogypsina Silvestri, 1937 GENUS
 
 #### Status
 ACCEPTED

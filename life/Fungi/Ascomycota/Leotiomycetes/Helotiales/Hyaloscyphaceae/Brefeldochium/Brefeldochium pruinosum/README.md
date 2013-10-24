@@ -1,5 +1,4 @@
-Brefeldochium pruinosum Verkley, 2005 SPECIES
-=======
+# Brefeldochium pruinosum Verkley, 2005 SPECIES
 
 #### Status
 ACCEPTED

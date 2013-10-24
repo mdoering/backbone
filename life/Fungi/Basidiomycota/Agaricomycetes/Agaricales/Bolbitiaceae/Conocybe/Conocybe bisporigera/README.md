@@ -1,5 +1,4 @@
-Conocybe bisporigera (Hauskn. & Krisai) Arnolds SPECIES
-=======
+# Conocybe bisporigera (Hauskn. & Krisai) Arnolds SPECIES
 
 #### Status
 ACCEPTED

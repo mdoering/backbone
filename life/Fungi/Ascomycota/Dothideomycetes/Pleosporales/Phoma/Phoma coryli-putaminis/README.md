@@ -1,5 +1,4 @@
-Phoma coryli-putaminis Sacc. SPECIES
-=======
+# Phoma coryli-putaminis Sacc. SPECIES
 
 #### Status
 ACCEPTED

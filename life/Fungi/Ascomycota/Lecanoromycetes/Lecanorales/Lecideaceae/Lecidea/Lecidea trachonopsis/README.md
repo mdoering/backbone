@@ -1,5 +1,4 @@
-Lecidea trachonopsis Nyl. SPECIES
-=======
+# Lecidea trachonopsis Nyl. SPECIES
 
 #### Status
 ACCEPTED

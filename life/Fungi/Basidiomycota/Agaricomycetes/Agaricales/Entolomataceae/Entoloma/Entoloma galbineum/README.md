@@ -1,5 +1,4 @@
-Entoloma galbineum (Cooke & Massee) Sacc. SPECIES
-=======
+# Entoloma galbineum (Cooke & Massee) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scindalma inamoenum Kuntze SPECIES
-=======
+# Scindalma inamoenum Kuntze SPECIES
 
 #### Status
 ACCEPTED

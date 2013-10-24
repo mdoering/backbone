@@ -1,5 +1,4 @@
-Lactarius caperatus R. Heim & Gooss.-Font. SPECIES
-=======
+# Lactarius caperatus R. Heim & Gooss.-Font. SPECIES
 
 #### Status
 ACCEPTED

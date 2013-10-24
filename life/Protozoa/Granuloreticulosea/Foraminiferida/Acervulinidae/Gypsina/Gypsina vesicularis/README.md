@@ -1,5 +1,4 @@
-Gypsina vesicularis SPECIES
-=======
+# Gypsina vesicularis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Selenidium cantoui Ormières, 1979 SPECIES
-=======
+# Selenidium cantoui Ormières, 1979 SPECIES
 
 #### Status
 ACCEPTED

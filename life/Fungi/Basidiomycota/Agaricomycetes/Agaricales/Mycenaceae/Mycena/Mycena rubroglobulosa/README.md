@@ -1,5 +1,4 @@
-Mycena rubroglobulosa Segedin, 1991 SPECIES
-=======
+# Mycena rubroglobulosa Segedin, 1991 SPECIES
 
 #### Status
 ACCEPTED

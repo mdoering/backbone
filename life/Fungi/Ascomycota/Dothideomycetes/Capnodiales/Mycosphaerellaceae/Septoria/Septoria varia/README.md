@@ -1,5 +1,4 @@
-Septoria varia McAlpine SPECIES
-=======
+# Septoria varia McAlpine SPECIES
 
 #### Status
 ACCEPTED

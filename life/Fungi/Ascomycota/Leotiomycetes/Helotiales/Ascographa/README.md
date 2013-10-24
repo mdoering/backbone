@@ -1,5 +1,4 @@
-Ascographa Velen. GENUS
-=======
+# Ascographa Velen. GENUS
 
 #### Status
 ACCEPTED

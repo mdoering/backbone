@@ -1,5 +1,4 @@
-Marasmius nanus Massee SPECIES
-=======
+# Marasmius nanus Massee SPECIES
 
 #### Status
 ACCEPTED

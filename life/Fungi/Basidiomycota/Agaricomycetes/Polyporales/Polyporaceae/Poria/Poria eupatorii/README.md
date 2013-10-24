@@ -1,5 +1,4 @@
-Poria eupatorii (P. Karst.) Sacc. SPECIES
-=======
+# Poria eupatorii (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

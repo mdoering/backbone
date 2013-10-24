@@ -1,5 +1,4 @@
-Hebeloma collariatum f. collariatum FORM
-=======
+# Hebeloma collariatum Bruchet SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bull. mens. Soc. linn. Lyon 39(6[Suppl. ]): 125 (1970)
 
 #### Original name
-Hebeloma collariatum f. collariatum
+Hebeloma collariatum Bruchet
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Hypochnites Mesch. GENUS
-=======
+# Hypochnites Mesch. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora solani-torvi Gonz. Frag. & Cif. SPECIES
-=======
+# Cercospora solani-torvi Gonz. Frag. & Cif. SPECIES
 
 #### Status
 ACCEPTED

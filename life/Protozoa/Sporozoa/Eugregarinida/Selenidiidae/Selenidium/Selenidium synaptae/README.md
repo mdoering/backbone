@@ -1,8 +1,7 @@
-Esarabdina synaptae (Mingazzini, 1893) SPECIES
-=======
+# Selenidium synaptae (Mingazzini, 1893) Levine, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

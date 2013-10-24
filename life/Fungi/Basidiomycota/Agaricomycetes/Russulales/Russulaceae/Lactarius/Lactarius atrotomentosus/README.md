@@ -1,5 +1,4 @@
-Lactarius atrotomentosus Schwalb SPECIES
-=======
+# Lactarius atrotomentosus Schwalb SPECIES
 
 #### Status
 ACCEPTED

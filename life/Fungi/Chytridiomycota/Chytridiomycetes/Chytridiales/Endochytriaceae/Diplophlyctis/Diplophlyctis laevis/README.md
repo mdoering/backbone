@@ -1,5 +1,4 @@
-Diplophlyctis laevis Sparrow, 1937 SPECIES
-=======
+# Diplophlyctis laevis Sparrow, 1937 SPECIES
 
 #### Status
 ACCEPTED

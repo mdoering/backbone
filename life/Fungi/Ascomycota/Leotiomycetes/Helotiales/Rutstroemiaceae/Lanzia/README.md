@@ -1,5 +1,4 @@
-Lanzia Saccardo, 1884 GENUS
-=======
+# Lanzia Saccardo, 1884 GENUS
 
 #### Status
 ACCEPTED

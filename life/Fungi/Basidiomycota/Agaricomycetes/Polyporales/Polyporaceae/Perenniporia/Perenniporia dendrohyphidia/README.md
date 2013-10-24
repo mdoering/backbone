@@ -1,5 +1,4 @@
-Perenniporia dendrohyphidia Ryvarden SPECIES
-=======
+# Perenniporia dendrohyphidia Ryvarden SPECIES
 
 #### Status
 ACCEPTED

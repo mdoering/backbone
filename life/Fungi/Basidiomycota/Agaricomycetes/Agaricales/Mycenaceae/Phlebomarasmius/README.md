@@ -1,5 +1,4 @@
-Phlebomarasmius GENUS
-=======
+# Phlebomarasmius GENUS
 
 #### Status
 ACCEPTED

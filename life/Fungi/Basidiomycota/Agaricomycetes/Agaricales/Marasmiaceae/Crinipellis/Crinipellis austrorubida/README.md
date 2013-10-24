@@ -1,5 +1,4 @@
-Crinipellis austrorubida Singer SPECIES
-=======
+# Crinipellis austrorubida Singer SPECIES
 
 #### Status
 ACCEPTED

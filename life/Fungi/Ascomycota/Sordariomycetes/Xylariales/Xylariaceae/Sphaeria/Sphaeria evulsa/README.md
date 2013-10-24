@@ -1,5 +1,4 @@
-Sphaeria evulsa Schwein. SPECIES
-=======
+# Sphaeria evulsa Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptogium dussii (Vain.) Zahlbr. SPECIES
-=======
+# Leptogium dussii (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

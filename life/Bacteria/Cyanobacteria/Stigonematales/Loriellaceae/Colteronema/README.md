@@ -1,5 +1,4 @@
-Colteronema Copeland, 1936 GENUS
-=======
+# Colteronema Copeland, 1936 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calocybe venezuelana (Dennis) Singer SPECIES
-=======
+# Calocybe venezuelana (Dennis) Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodina centaureae Byzova SPECIES
-=======
+# Diplodina centaureae Byzova SPECIES
 
 #### Status
 ACCEPTED

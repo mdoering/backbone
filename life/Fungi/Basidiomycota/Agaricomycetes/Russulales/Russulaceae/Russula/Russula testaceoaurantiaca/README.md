@@ -1,5 +1,4 @@
-Russula testaceoaurantiaca Beeli SPECIES
-=======
+# Russula testaceoaurantiaca Beeli SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Rhinocladiella Kamyschko GENUS
-=======
+# Chrysosporium Corda GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Mater. Otd. Sporov. Rast. Bot. Inst. Komarova Akad. Nauk S. S. S. R. 13: 165 (1960)
+in Sturm, Deutschl. Fl. , 3 Abt. (Pilze Deutschl. ) 3(13): 85 (1833)
 
 #### Original name
-Rhinocladiella Kamyschko
+Chrysosporium Corda
 
 ### Remarks
 null

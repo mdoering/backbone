@@ -1,5 +1,4 @@
-Pseudocercospora jatrophae-curcas (J.M. Yen) Deighton SPECIES
-=======
+# Pseudocercospora jatrophae-curcas (J.M. Yen) Deighton SPECIES
 
 #### Status
 ACCEPTED

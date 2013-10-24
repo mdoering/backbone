@@ -1,5 +1,4 @@
-Platygrapha thioleuca Nyl. SPECIES
-=======
+# Platygrapha thioleuca Nyl. SPECIES
 
 #### Status
 ACCEPTED

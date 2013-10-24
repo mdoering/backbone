@@ -1,5 +1,4 @@
-Eggerella advena SPECIES
-=======
+# Eggerella advena SPECIES
 
 #### Status
 ACCEPTED

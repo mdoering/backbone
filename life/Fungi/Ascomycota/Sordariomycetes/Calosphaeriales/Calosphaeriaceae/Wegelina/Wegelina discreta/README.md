@@ -1,14 +1,13 @@
-Scoptria discreta (Berl.) M.E. Barr, 1985 SPECIES
-=======
+# Wegelina discreta Berl., 1900 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 77(4): 555 (1985)
+Icon. fung. (Abellini) 3(1-2): 8 (1900)
 
 #### Original name
 Wegelina discreta Berl., 1900

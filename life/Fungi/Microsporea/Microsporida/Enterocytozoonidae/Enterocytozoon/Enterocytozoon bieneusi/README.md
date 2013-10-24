@@ -1,5 +1,4 @@
-Enterocytozoon bieneusi F. Desp., Le Charpentier, Galian, Bernard, Cochand-Priollet, Lavergne, Ravisse & Modigliani, 1985 SPECIES
-=======
+# Enterocytozoon bieneusi F. Desp., Le Charpentier, Galian, Bernard, Cochand-Priollet, Lavergne, Ravisse & Modigliani, 1985 SPECIES
 
 #### Status
 ACCEPTED

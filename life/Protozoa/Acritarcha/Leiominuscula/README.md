@@ -1,5 +1,4 @@
-Leiominuscula S.N. Naumova, 1960 GENUS
-=======
+# Leiominuscula S.N. Naumova, 1960 GENUS
 
 #### Status
 ACCEPTED

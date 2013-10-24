@@ -1,14 +1,13 @@
-Stereum leveilleanum (Berk. & M.A. Curtis) Ravenel, 1873 SPECIES
-=======
+# Eichleriella leveilleana (Berk. & M.A. Curtis) Burt, 1915 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 1(no. 11): 163 (1873)
+Ann. Mo. bot. Gdn 2: 744 (1915)
 
 #### Original name
 null

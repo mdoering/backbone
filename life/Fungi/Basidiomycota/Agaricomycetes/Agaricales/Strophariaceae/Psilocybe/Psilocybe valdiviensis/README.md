@@ -1,5 +1,4 @@
-Psilocybe valdiviensis Singer SPECIES
-=======
+# Psilocybe valdiviensis Singer SPECIES
 
 #### Status
 ACCEPTED

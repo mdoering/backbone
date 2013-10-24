@@ -1,5 +1,4 @@
-Sphaerella colorata Peck SPECIES
-=======
+# Sphaerella colorata Peck SPECIES
 
 #### Status
 ACCEPTED

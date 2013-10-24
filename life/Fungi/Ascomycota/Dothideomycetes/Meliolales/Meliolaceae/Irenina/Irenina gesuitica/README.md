@@ -1,5 +1,4 @@
-Irenina gesuitica (Speg.) F. Stevens SPECIES
-=======
+# Irenina gesuitica (Speg.) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

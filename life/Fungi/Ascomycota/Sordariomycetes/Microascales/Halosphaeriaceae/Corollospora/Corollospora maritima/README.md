@@ -1,17 +1,16 @@
-Peritrichospora integra Linder, 1944 SPECIES
-=======
+# Corollospora maritima Werderm., 1922 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Farlowia 1: 414 (1944)
+Notizblatt des Königl. bot. Gartens u. Museum zu Berlin 8: 248 (1922)
 
 #### Original name
-Peritrichospora integra Linder, 1944
+Corollospora maritima Werderm., 1922
 
 ### Remarks
 null

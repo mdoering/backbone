@@ -1,5 +1,4 @@
-Phlyctidium scenedesmi Fott SPECIES
-=======
+# Phlyctidium scenedesmi Fott SPECIES
 
 #### Status
 ACCEPTED

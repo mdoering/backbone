@@ -1,5 +1,4 @@
-Glomeromycota C. Walker & A. Schüssler PHYLUM
-=======
+# Glomeromycota C. Walker & A. Schüssler PHYLUM
 
 #### Status
 ACCEPTED

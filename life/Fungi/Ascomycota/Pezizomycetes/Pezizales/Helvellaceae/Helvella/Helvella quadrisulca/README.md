@@ -1,5 +1,4 @@
-Helvella quadrisulca Velen. SPECIES
-=======
+# Helvella quadrisulca Velen. SPECIES
 
 #### Status
 ACCEPTED

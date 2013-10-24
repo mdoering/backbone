@@ -1,5 +1,4 @@
-Astrorhiza granulosa f. rudis Rhumbler, 1931 FORM
-=======
+# Astrorhiza granulosa (Brady, 1879) SPECIES
 
 #### Status
 ACCEPTED

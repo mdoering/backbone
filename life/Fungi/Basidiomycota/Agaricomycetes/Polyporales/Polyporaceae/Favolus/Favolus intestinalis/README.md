@@ -1,5 +1,4 @@
-Favolus intestinalis Berk., 1851 SPECIES
-=======
+# Favolus intestinalis Berk., 1851 SPECIES
 
 #### Status
 ACCEPTED

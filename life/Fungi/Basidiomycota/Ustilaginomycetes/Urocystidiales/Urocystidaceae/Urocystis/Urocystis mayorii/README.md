@@ -1,5 +1,4 @@
-Urocystis mayorii (Cif.) Uljan. SPECIES
-=======
+# Urocystis mayorii (Cif.) Uljan. SPECIES
 
 #### Status
 ACCEPTED

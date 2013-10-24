@@ -1,5 +1,4 @@
-Stenella brideliicola K. Srivast., A.K. Srivast. & Kamal SPECIES
-=======
+# Stenella brideliicola K. Srivast., A.K. Srivast. & Kamal SPECIES
 
 #### Status
 ACCEPTED

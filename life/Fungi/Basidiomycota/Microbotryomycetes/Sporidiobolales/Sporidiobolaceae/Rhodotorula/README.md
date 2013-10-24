@@ -1,5 +1,4 @@
-Rhodotorula F.C. Harrison GENUS
-=======
+# Rhodotorula F.C. Harrison GENUS
 
 #### Status
 ACCEPTED

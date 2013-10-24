@@ -1,14 +1,13 @@
-Phialocephala foliicola P.M. Kirk, 1985 SPECIES
-=======
+# Sporendocladia foliicola (P.M. Kirk) M.J. Wingf., 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 23: 337 (1985)
+in Wingfield, Wyk & Wingfield, Trans. Br. mycol. Soc. 89(4): 515 (1987)
 
 #### Original name
 Phialocephala foliicola P.M. Kirk, 1985

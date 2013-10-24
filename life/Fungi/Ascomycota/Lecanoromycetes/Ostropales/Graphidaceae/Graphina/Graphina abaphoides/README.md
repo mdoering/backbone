@@ -1,5 +1,4 @@
-Graphina abaphoides (Nyl.) Müll. Arg. SPECIES
-=======
+# Graphina abaphoides (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

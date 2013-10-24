@@ -1,5 +1,4 @@
-Cryptothecia thoroldii C.W. Dodge SPECIES
-=======
+# Cryptothecia thoroldii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

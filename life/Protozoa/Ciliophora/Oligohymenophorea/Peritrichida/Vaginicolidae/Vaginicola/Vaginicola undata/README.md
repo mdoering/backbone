@@ -1,5 +1,4 @@
-Vaginicola undata Dumas, 1930 SPECIES
-=======
+# Vaginicola undata Dumas, 1930 SPECIES
 
 #### Status
 ACCEPTED

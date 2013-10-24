@@ -1,5 +1,4 @@
-Mycena sociabilis Métrod SPECIES
-=======
+# Mycena sociabilis Métrod SPECIES
 
 #### Status
 ACCEPTED

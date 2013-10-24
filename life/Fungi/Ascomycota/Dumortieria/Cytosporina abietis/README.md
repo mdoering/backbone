@@ -1,5 +1,4 @@
-Cytosporina abietis Oudem. SPECIES
-=======
+# Cytosporina abietis Oudem. SPECIES
 
 #### Status
 ACCEPTED

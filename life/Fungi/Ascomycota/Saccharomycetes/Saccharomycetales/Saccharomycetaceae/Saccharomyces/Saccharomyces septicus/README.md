@@ -1,5 +1,4 @@
-Saccharomyces septicus Gaetano SPECIES
-=======
+# Saccharomyces septicus Gaetano SPECIES
 
 #### Status
 ACCEPTED

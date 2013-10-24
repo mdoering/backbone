@@ -1,5 +1,4 @@
-Galerina pulchra A.H. Sm. & Singer SPECIES
-=======
+# Galerina pulchra A.H. Sm. & Singer SPECIES
 
 #### Status
 ACCEPTED

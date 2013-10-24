@@ -1,5 +1,4 @@
-Endophragmiella occidentalis R.F. Castañeda, Guarro & Cano SPECIES
-=======
+# Endophragmiella occidentalis R.F. Castañeda, Guarro & Cano SPECIES
 
 #### Status
 ACCEPTED

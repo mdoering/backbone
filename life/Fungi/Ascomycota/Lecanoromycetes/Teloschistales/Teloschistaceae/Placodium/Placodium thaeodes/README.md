@@ -1,5 +1,4 @@
-Placodium thaeodes (A. Massal.) SPECIES
-=======
+# Placodium thaeodes (A. Massal.) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerella rubiae Brunaud SPECIES
-=======
+# Sphaerella rubiae Brunaud SPECIES
 
 #### Status
 ACCEPTED

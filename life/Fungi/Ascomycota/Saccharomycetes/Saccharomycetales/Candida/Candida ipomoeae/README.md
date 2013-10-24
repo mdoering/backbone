@@ -1,5 +1,4 @@
-Candida ipomoeae Lachance, C.A. Rosa, Starmer & J.M. Bowles SPECIES
-=======
+# Candida ipomoeae Lachance, C.A. Rosa, Starmer & J.M. Bowles SPECIES
 
 #### Status
 ACCEPTED

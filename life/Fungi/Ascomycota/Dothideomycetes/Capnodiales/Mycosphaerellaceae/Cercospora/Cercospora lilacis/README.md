@@ -1,5 +1,4 @@
-Cercospora lilacis (Desm.) Sacc. SPECIES
-=======
+# Cercospora lilacis (Desm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Labyrinthula algeriensis Hollande & Enjumet SPECIES
-=======
+# Labyrinthula algeriensis Hollande & Enjumet SPECIES
 
 #### Status
 ACCEPTED

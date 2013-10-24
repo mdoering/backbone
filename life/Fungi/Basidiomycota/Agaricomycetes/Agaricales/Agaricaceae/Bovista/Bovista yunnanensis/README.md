@@ -1,5 +1,4 @@
-Bovista yunnanensis Pat. SPECIES
-=======
+# Bovista yunnanensis Pat. SPECIES
 
 #### Status
 ACCEPTED

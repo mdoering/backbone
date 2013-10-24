@@ -1,5 +1,4 @@
-Ustilago exigua Syd. & P. Syd. SPECIES
-=======
+# Ustilago exigua Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dicaeoma anachoreticum (Ellis & Harkn.) Kuntze SPECIES
-=======
+# Dicaeoma anachoreticum (Ellis & Harkn.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

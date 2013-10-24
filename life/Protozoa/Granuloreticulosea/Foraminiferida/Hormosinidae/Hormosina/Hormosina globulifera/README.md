@@ -1,5 +1,4 @@
-Hormosina globulifera Brady, 1879 SPECIES
-=======
+# Hormosina globulifera Brady, 1879 SPECIES
 
 #### Status
 ACCEPTED

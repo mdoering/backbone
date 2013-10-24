@@ -1,5 +1,4 @@
-Metaleiofusa bispinosa Schön, 1967 SPECIES
-=======
+# Metaleiofusa bispinosa Schön, 1967 SPECIES
 
 #### Status
 ACCEPTED

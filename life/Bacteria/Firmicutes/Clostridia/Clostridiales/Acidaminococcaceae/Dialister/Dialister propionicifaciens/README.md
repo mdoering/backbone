@@ -1,5 +1,4 @@
-Dialister propionicifaciens Jumas-Bilak et al., 2005 SPECIES
-=======
+# Dialister propionicifaciens Jumas-Bilak et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

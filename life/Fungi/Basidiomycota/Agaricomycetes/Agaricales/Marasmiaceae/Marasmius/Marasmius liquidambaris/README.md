@@ -1,17 +1,16 @@
-Marasmius liquidanibari Singer SPECIES
-=======
+# Marasmius liquidambaris Singer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Fl. Neotrop. , Monogr. 17: 70 (1976)
 
 #### Original name
-Marasmius liquidanibari Singer
+Marasmius liquidambaris Singer
 
 ### Remarks
 null

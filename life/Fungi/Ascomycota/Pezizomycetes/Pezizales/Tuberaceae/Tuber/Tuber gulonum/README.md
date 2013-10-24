@@ -1,5 +1,4 @@
-Tuber gulonum (Corda) Paol. SPECIES
-=======
+# Tuber gulonum (Corda) Paol. SPECIES
 
 #### Status
 ACCEPTED

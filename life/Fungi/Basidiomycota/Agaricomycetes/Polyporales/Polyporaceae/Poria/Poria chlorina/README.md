@@ -1,5 +1,4 @@
-Poria chlorina Massee, 1906 SPECIES
-=======
+# Poria chlorina Massee, 1906 SPECIES
 
 #### Status
 ACCEPTED

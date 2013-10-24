@@ -1,5 +1,4 @@
-Ganoderma regulicolor anon. SPECIES
-=======
+# Ganoderma regulicolor anon. SPECIES
 
 #### Status
 ACCEPTED

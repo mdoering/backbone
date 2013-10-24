@@ -1,5 +1,4 @@
-Mollisia chrysostigma (Fr.) SPECIES
-=======
+# Mollisia chrysostigma (Fr.) SPECIES
 
 #### Status
 ACCEPTED

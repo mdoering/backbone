@@ -1,5 +1,4 @@
-Thelidium lacromense Zschacke SPECIES
-=======
+# Thelidium lacromense Zschacke SPECIES
 
 #### Status
 ACCEPTED

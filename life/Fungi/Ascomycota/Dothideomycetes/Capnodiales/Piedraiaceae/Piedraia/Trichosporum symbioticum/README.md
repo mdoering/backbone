@@ -1,5 +1,4 @@
-Trichosporum symbioticum E. Wright, 1935 SPECIES
-=======
+# Trichosporum symbioticum E. Wright, 1935 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola mucunae Hansf. SPECIES
-=======
+# Meliola mucunae Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Porphyromonas Shah & Collins, 1988 GENUS
-=======
+# Porphyromonas Shah & Collins, 1988 GENUS
 
 #### Status
 ACCEPTED

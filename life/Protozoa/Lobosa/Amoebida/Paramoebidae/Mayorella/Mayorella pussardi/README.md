@@ -1,5 +1,4 @@
-Mayorella pussardi Hollande, Nicolas & Escaig, 1981 SPECIES
-=======
+# Mayorella pussardi Hollande, Nicolas & Escaig, 1981 SPECIES
 
 #### Status
 ACCEPTED

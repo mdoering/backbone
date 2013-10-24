@@ -1,5 +1,4 @@
-Alectoria fusconitida I.M. Lamb ex Motyka SPECIES
-=======
+# Alectoria fusconitida I.M. Lamb ex Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucula fraudulosa (Nyl.) J. Steiner SPECIES
-=======
+# Verrucula fraudulosa (Nyl.) J. Steiner SPECIES
 
 #### Status
 ACCEPTED

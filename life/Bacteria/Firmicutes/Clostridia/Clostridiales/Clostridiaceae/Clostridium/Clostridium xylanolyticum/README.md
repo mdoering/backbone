@@ -1,5 +1,4 @@
-Clostridium xylanolyticum Rogers & Baecker, 1991 SPECIES
-=======
+# Clostridium xylanolyticum Rogers & Baecker, 1991 SPECIES
 
 #### Status
 ACCEPTED

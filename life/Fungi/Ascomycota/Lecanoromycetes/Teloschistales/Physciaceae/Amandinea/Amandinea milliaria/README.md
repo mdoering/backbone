@@ -1,5 +1,4 @@
-Amandinea milliaria (Tuck.) P.F. May & Sheard SPECIES
-=======
+# Amandinea milliaria (Tuck.) P.F. May & Sheard SPECIES
 
 #### Status
 ACCEPTED

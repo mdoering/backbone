@@ -1,5 +1,4 @@
-Cladonia crossota (Ach.) SPECIES
-=======
+# Cladonia crossota (Ach.) SPECIES
 
 #### Status
 ACCEPTED

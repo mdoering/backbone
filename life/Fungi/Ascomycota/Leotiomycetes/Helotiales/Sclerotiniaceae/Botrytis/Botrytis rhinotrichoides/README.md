@@ -1,5 +1,4 @@
-Botrytis rhinotrichoides Sacc. & Ellis SPECIES
-=======
+# Botrytis rhinotrichoides Sacc. & Ellis SPECIES
 
 #### Status
 ACCEPTED

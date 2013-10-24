@@ -1,5 +1,4 @@
-Xanthoparmelia wrightiana T. H. Nash, Elix & J. Johnst. SPECIES
-=======
+# Xanthoparmelia wrightiana T. H. Nash, Elix & J. Johnst. SPECIES
 
 #### Status
 ACCEPTED

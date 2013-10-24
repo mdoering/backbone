@@ -1,5 +1,4 @@
-Trichopeziza piceae (Pers.) Sacc. SPECIES
-=======
+# Trichopeziza piceae (Pers.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

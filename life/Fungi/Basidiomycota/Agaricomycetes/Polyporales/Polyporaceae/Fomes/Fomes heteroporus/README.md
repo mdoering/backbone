@@ -1,5 +1,4 @@
-Fomes heteroporus (Mont.) Sacc. SPECIES
-=======
+# Fomes heteroporus (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

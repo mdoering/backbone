@@ -1,5 +1,4 @@
-Marasmius boliviae Singer SPECIES
-=======
+# Marasmius boliviae Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micropeltella protii Bat. & Cavalc. SPECIES
-=======
+# Micropeltella protii Bat. & Cavalc. SPECIES
 
 #### Status
 ACCEPTED

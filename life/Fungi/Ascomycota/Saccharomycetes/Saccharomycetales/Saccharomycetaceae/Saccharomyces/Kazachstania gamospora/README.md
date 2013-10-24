@@ -1,5 +1,4 @@
-Kazachstania gamospora Imanishi, Ueda-Nishim. & Mikata, 2007 SPECIES
-=======
+# Kazachstania gamospora Imanishi, Ueda-Nishim. & Mikata, 2007 SPECIES
 
 #### Status
 ACCEPTED

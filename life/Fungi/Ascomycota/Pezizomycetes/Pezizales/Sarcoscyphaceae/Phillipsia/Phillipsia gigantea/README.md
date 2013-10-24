@@ -1,5 +1,4 @@
-Phillipsia gigantea Seaver SPECIES
-=======
+# Phillipsia gigantea Seaver SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Penicillium zukalii Biourge SPECIES
-=======
+# Penicillium zukalii Biourge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Staphylococcus capitis subsp. capitis Kloos & Schleifer, 1975 SUBSPECIES
-=======
+# Staphylococcus capitis Kloos & Schleifer, 1975 SPECIES
 
 #### Status
 ACCEPTED

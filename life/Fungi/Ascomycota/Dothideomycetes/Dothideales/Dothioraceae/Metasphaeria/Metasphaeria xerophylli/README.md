@@ -1,5 +1,4 @@
-Metasphaeria xerophylli (Ellis) Sacc. SPECIES
-=======
+# Metasphaeria xerophylli (Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

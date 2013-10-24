@@ -1,5 +1,4 @@
-Melosira punctata (W. Smith) J. Dannf. SPECIES
-=======
+# Melosira punctata (W. Smith) J. Dannf. SPECIES
 
 #### Status
 ACCEPTED

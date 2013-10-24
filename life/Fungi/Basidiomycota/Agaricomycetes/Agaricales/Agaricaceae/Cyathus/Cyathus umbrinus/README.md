@@ -1,5 +1,4 @@
-Cyathus umbrinus Rabenh. SPECIES
-=======
+# Cyathus umbrinus Rabenh. SPECIES
 
 #### Status
 ACCEPTED

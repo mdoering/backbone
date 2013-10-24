@@ -1,5 +1,4 @@
-Diplochora dissospora (Feltgen) Höhn. SPECIES
-=======
+# Diplochora dissospora (Feltgen) Höhn. SPECIES
 
 #### Status
 ACCEPTED

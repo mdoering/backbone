@@ -1,5 +1,4 @@
-Acremonium nigrosclerotium W. Gams, 1975 SPECIES
-=======
+# Acremonium nigrosclerotium W. Gams, 1975 SPECIES
 
 #### Status
 ACCEPTED

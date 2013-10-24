@@ -1,5 +1,4 @@
-Trichoconis amazonensis Matsush. SPECIES
-=======
+# Trichoconis amazonensis Matsush. SPECIES
 
 #### Status
 ACCEPTED

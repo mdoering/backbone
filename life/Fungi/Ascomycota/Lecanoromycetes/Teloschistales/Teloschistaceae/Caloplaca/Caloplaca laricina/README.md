@@ -1,5 +1,4 @@
-Caloplaca laricina Rondon SPECIES
-=======
+# Caloplaca laricina Rondon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Streptomyces hawaiiensis Cron et al., 1956 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces hawaiiensis Cron et al., 1956 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

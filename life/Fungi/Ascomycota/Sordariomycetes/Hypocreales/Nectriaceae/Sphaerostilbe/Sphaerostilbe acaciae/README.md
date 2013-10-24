@@ -1,5 +1,4 @@
-Sphaerostilbe acaciae Tilak SPECIES
-=======
+# Sphaerostilbe acaciae Tilak SPECIES
 
 #### Status
 ACCEPTED

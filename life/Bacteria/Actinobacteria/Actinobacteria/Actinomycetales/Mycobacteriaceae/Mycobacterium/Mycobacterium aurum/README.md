@@ -1,5 +1,4 @@
-Mycobacterium aurum Tsukamura, 1966 (Approved Lists, 1980) SPECIES
-=======
+# Mycobacterium aurum Tsukamura, 1966 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

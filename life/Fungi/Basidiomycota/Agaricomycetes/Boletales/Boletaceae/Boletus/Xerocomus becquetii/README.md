@@ -1,5 +1,4 @@
-Xerocomus becquetii Heinem. SPECIES
-=======
+# Xerocomus becquetii Heinem. SPECIES
 
 #### Status
 ACCEPTED

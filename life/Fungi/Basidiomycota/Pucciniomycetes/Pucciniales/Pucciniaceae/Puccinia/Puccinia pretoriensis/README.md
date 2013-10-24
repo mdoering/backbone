@@ -1,5 +1,4 @@
-Puccinia pretoriensis Doidge SPECIES
-=======
+# Puccinia pretoriensis Doidge SPECIES
 
 #### Status
 ACCEPTED

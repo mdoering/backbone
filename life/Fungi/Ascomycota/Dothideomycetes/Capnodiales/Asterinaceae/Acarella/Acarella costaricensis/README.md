@@ -1,5 +1,4 @@
-Acarella costaricensis Syd., 1927 SPECIES
-=======
+# Acarella costaricensis Syd., 1927 SPECIES
 
 #### Status
 ACCEPTED

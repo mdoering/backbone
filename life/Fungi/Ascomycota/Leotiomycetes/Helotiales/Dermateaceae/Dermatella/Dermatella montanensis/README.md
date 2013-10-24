@@ -1,5 +1,4 @@
-Dermatella montanensis Ellis & Everh. SPECIES
-=======
+# Dermatella montanensis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

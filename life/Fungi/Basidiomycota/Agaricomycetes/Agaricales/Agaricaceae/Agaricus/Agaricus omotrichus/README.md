@@ -1,5 +1,4 @@
-Agaricus omotrichus Berk. SPECIES
-=======
+# Agaricus omotrichus Berk. SPECIES
 
 #### Status
 ACCEPTED

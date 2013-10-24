@@ -1,5 +1,4 @@
-Phomachora eucalypti Syd. SPECIES
-=======
+# Phomachora eucalypti Syd. SPECIES
 
 #### Status
 ACCEPTED

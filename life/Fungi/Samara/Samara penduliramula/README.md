@@ -1,5 +1,4 @@
-Samara penduliramula (Hayata) Nakai SPECIES
-=======
+# Samara penduliramula (Hayata) Nakai SPECIES
 
 #### Status
 ACCEPTED

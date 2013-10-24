@@ -1,5 +1,4 @@
-Schubertella Staff & Wedekind, 1910 GENUS
-=======
+# Schubertella Staff & Wedekind, 1910 GENUS
 
 #### Status
 ACCEPTED

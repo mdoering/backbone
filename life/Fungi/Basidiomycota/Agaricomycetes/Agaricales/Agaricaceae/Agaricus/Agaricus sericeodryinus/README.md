@@ -1,5 +1,4 @@
-Agaricus sericeodryinus Secr. SPECIES
-=======
+# Agaricus sericeodryinus Secr. SPECIES
 
 #### Status
 ACCEPTED

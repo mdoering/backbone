@@ -1,5 +1,4 @@
-Archaesphaerodiniopsis verrucosa Rampi SPECIES
-=======
+# Archaesphaerodiniopsis verrucosa Rampi SPECIES
 
 #### Status
 ACCEPTED

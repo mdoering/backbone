@@ -1,5 +1,4 @@
-Leucogomphidius largus (O.K. Mill.) Kotl. & Pouzar SPECIES
-=======
+# Leucogomphidius largus (O.K. Mill.) Kotl. & Pouzar SPECIES
 
 #### Status
 ACCEPTED

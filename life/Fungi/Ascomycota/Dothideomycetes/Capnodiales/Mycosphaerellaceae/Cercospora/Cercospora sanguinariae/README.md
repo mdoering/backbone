@@ -1,5 +1,4 @@
-Cercospora sanguinariae Peck SPECIES
-=======
+# Cercospora sanguinariae Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phragmothyriella exserta Bat. SPECIES
-=======
+# Phragmothyriella exserta Bat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Protocruzia labiata Kahl, 1932 SPECIES
-=======
+# Protocruzia labiata Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

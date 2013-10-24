@@ -1,5 +1,4 @@
-Blasteniospora GENUS
-=======
+# Blasteniospora GENUS
 
 #### Status
 ACCEPTED

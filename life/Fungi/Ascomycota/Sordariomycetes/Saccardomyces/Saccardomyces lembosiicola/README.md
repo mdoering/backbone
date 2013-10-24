@@ -1,5 +1,4 @@
-Saccardomyces lembosiicola Bat. & H. Maia SPECIES
-=======
+# Saccardomyces lembosiicola Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

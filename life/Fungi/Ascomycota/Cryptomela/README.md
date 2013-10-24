@@ -1,5 +1,4 @@
-Cryptomela GENUS
-=======
+# Cryptomela GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Morenoina clarkii J.P. Ellis, 1980 SPECIES
-=======
+# Morenoina clarkii J.P. Ellis, 1980 SPECIES
 
 #### Status
 ACCEPTED

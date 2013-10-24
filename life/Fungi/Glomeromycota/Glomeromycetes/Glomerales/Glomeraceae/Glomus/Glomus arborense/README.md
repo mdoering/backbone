@@ -1,5 +1,4 @@
-Glomus arborense McGee, 1986 SPECIES
-=======
+# Glomus arborense McGee, 1986 SPECIES
 
 #### Status
 ACCEPTED

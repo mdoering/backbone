@@ -1,5 +1,4 @@
-Deinococcus indicus Suresh et al., 2004 SPECIES
-=======
+# Deinococcus indicus Suresh et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acarospora rhagadiosa SPECIES
-=======
+# Acarospora rhagadiosa SPECIES
 
 #### Status
 ACCEPTED

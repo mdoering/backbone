@@ -1,5 +1,4 @@
-Calicium subalbidum Nyl. SPECIES
-=======
+# Calicium subalbidum Nyl. SPECIES
 
 #### Status
 ACCEPTED

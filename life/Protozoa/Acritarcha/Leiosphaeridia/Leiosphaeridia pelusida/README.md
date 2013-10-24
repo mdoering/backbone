@@ -1,5 +1,4 @@
-Leiosphaeridia pelusida Shepeleva, 1963 ex Pyatiletov, 1978 SPECIES
-=======
+# Leiosphaeridia pelusida Shepeleva, 1963 ex Pyatiletov, 1978 SPECIES
 
 #### Status
 ACCEPTED

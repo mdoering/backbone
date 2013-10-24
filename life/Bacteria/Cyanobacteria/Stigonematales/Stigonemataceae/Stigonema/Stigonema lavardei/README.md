@@ -1,5 +1,4 @@
-Stigonema lavardei Frémy SPECIES
-=======
+# Stigonema lavardei Frémy SPECIES
 
 #### Status
 ACCEPTED

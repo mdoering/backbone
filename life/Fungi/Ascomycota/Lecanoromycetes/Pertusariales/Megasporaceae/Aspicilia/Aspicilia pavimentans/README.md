@@ -1,5 +1,4 @@
-Aspicilia pavimentans (Nyl.) Hue SPECIES
-=======
+# Aspicilia pavimentans (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

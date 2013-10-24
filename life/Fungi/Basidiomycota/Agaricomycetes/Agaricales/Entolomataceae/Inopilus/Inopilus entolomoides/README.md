@@ -1,5 +1,4 @@
-Inopilus entolomoides Pegler SPECIES
-=======
+# Inopilus entolomoides Pegler SPECIES
 
 #### Status
 ACCEPTED

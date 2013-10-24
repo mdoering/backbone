@@ -1,5 +1,4 @@
-Dothidea ulmariae Duby SPECIES
-=======
+# Dothidea ulmariae Duby SPECIES
 
 #### Status
 ACCEPTED

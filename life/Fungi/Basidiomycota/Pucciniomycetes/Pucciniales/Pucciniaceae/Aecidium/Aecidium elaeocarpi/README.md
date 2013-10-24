@@ -1,5 +1,4 @@
-Aecidium elaeocarpi Racib. SPECIES
-=======
+# Aecidium elaeocarpi Racib. SPECIES
 
 #### Status
 ACCEPTED

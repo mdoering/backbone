@@ -1,5 +1,4 @@
-Heterodermia verdonii Elix SPECIES
-=======
+# Heterodermia verdonii Elix SPECIES
 
 #### Status
 ACCEPTED

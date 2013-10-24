@@ -1,8 +1,7 @@
-Dasyscypha annulatus (Holmsk.) Sacc. SPECIES
-=======
+# Dasyscyphus annulatus (Holmsk.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

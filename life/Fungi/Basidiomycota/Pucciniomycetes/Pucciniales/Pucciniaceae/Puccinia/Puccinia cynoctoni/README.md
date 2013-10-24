@@ -1,5 +1,4 @@
-Puccinia cynoctoni Speg. SPECIES
-=======
+# Puccinia cynoctoni Speg. SPECIES
 
 #### Status
 ACCEPTED

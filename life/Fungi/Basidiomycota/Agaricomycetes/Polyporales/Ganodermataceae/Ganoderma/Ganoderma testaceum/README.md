@@ -1,14 +1,13 @@
-Polyporus testaceus Lév., 1846 SPECIES
-=======
+# Ganoderma testaceum (Lév.) Pat., 1889 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 3 5: 126 (1846)
+Bull. Soc. mycol. Fr. 5(2,3): 67 (1889)
 
 #### Original name
 Polyporus testaceus Lév., 1846

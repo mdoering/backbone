@@ -1,5 +1,4 @@
-Cercospora thirumalacharii Chidd. SPECIES
-=======
+# Cercospora thirumalacharii Chidd. SPECIES
 
 #### Status
 ACCEPTED

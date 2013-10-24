@@ -1,5 +1,4 @@
-Pestalosphaeria gubae Tak. Kobay., Ishihara & Yas. Ono SPECIES
-=======
+# Pestalosphaeria gubae Tak. Kobay., Ishihara & Yas. Ono SPECIES
 
 #### Status
 ACCEPTED

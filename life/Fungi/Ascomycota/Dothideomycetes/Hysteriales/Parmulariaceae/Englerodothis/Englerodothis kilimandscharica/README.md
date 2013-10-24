@@ -1,14 +1,13 @@
-Cocconia kilimandscharica Henn., 1895 SPECIES
-=======
+# Englerodothis kilimandscharica (Henn.) Theiss. & Syd., 1915 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Die Pflanzenwelt Ost. Afrikas & der Nachbargebiete, Teil C 31 (1895)
+Annls mycol. 13(3/4): 285 (1915)
 
 #### Original name
 Cocconia kilimandscharica Henn., 1895

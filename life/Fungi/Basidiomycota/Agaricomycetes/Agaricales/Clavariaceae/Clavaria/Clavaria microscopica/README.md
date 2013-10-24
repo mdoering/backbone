@@ -1,5 +1,4 @@
-Clavaria microscopica var. microscopica VARIETY
-=======
+# Clavaria microscopica Malbr. & Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Clavaria microscopica var. microscopica
+Clavaria microscopica Malbr. & Sacc.
 
 ### Remarks
 null

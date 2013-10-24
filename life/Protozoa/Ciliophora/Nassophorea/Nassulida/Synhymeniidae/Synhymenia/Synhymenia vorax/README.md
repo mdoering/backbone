@@ -1,5 +1,4 @@
-Synhymenia vorax (Stokes, 1887) Jankowski, 1992 SPECIES
-=======
+# Synhymenia vorax (Stokes, 1887) Jankowski, 1992 SPECIES
 
 #### Status
 ACCEPTED

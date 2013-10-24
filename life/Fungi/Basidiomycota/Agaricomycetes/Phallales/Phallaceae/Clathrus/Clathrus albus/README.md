@@ -1,5 +1,4 @@
-Clathrus albus P. Micheli SPECIES
-=======
+# Clathrus albus P. Micheli SPECIES
 
 #### Status
 ACCEPTED

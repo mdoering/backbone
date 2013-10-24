@@ -1,5 +1,4 @@
-Aldrigiella ceracea Rick SPECIES
-=======
+# Aldrigiella ceracea Rick SPECIES
 
 #### Status
 ACCEPTED

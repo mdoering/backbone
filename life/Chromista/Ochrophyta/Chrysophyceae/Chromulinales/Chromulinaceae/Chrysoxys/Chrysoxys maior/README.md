@@ -1,5 +1,4 @@
-Chrysoxys maior Skuja SPECIES
-=======
+# Chrysoxys maior Skuja SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peltigera cichoracea Jatta SPECIES
-=======
+# Peltigera cichoracea Jatta SPECIES
 
 #### Status
 ACCEPTED

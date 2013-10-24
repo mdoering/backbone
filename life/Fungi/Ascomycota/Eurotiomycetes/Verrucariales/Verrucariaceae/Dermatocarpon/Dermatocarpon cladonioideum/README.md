@@ -1,5 +1,4 @@
-Dermatocarpon cladonioideum Vain. SPECIES
-=======
+# Dermatocarpon cladonioideum Vain. SPECIES
 
 #### Status
 ACCEPTED

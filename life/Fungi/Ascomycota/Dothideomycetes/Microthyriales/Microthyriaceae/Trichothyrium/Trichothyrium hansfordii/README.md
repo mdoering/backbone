@@ -1,5 +1,4 @@
-Trichothyrium hansfordii S. Hughes SPECIES
-=======
+# Trichothyrium hansfordii S. Hughes SPECIES
 
 #### Status
 ACCEPTED

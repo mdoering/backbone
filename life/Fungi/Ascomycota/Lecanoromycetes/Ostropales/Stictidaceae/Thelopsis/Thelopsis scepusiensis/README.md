@@ -1,5 +1,4 @@
-Thelopsis scepusiensis Zahlbr. SPECIES
-=======
+# Thelopsis scepusiensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

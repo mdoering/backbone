@@ -1,14 +1,13 @@
-Phaeotrema lacteum (Kremp.) Müll. Arg. SPECIES
-=======
+# Thelotrema lacteum Kremp. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 70: 398 (1887)
+in Nylander, Flora, Jena 47: 269 (1864)
 
 #### Original name
 Thelotrema lacteum Kremp.

@@ -1,5 +1,4 @@
-Ophiodothis paraguayensis Speg. SPECIES
-=======
+# Ophiodothis paraguayensis Speg. SPECIES
 
 #### Status
 ACCEPTED

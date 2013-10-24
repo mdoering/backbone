@@ -1,5 +1,4 @@
-Lichen rimosus Ach. SPECIES
-=======
+# Lichen rimosus Ach. SPECIES
 
 #### Status
 ACCEPTED

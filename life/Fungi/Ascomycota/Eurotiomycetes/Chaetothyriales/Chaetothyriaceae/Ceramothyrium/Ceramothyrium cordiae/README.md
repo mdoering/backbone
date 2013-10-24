@@ -1,5 +1,4 @@
-Ceramothyrium cordiae Bat. & A.F. Vital SPECIES
-=======
+# Ceramothyrium cordiae Bat. & A.F. Vital SPECIES
 
 #### Status
 ACCEPTED

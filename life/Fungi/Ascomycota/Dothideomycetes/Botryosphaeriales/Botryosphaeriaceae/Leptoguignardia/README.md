@@ -1,5 +1,4 @@
-Leptoguignardia E. Müll. GENUS
-=======
+# Leptoguignardia E. Müll. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fragilaria barbatula (Kützing) Lange-Bertalot SPECIES
-=======
+# Fragilaria barbatula (Kützing) Lange-Bertalot SPECIES
 
 #### Status
 ACCEPTED

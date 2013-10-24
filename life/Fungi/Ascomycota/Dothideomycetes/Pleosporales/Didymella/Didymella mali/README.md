@@ -1,5 +1,4 @@
-Didymella mali Ellis & Everh. SPECIES
-=======
+# Didymella mali Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

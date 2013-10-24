@@ -1,5 +1,4 @@
-Ustilago courtoisii Cif. SPECIES
-=======
+# Ustilago courtoisii Cif. SPECIES
 
 #### Status
 ACCEPTED

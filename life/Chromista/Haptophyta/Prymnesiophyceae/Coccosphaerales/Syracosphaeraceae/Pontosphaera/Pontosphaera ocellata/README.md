@@ -1,5 +1,4 @@
-Pontosphaera ocellata (Bramlette & Sullivan, 1961) Perch-Nielsen, 1984 SPECIES
-=======
+# Pontosphaera ocellata (Bramlette & Sullivan, 1961) Perch-Nielsen, 1984 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Irpex epitephrus Cleland SPECIES
-=======
+# Irpex epitephrus Cleland SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trematosphaeria pertusa (Pers.) Fuckel SPECIES
-=======
+# Trematosphaeria pertusa (Pers.) Fuckel SPECIES
 
 #### Status
 ACCEPTED

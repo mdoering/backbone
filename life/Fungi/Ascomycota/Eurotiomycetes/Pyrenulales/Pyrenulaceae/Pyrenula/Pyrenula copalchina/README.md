@@ -1,5 +1,4 @@
-Pyrenula copalchina Fée SPECIES
-=======
+# Pyrenula copalchina Fée SPECIES
 
 #### Status
 ACCEPTED

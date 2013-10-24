@@ -1,5 +1,4 @@
-Gloeosporium lineolatum Sacc. SPECIES
-=======
+# Gloeosporium lineolatum Sacc. SPECIES
 
 #### Status
 ACCEPTED

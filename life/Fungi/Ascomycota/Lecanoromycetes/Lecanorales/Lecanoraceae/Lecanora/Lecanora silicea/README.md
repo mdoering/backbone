@@ -1,5 +1,4 @@
-Lecanora silicea var. silicea VARIETY
-=======
+# Lecanora silicea Gyeln. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora silicea var. silicea
+Lecanora silicea Gyeln.
 
 ### Remarks
 null

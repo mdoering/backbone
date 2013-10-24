@@ -1,5 +1,4 @@
-Xerula fraudulenta Métrod SPECIES
-=======
+# Xerula fraudulenta Métrod SPECIES
 
 #### Status
 ACCEPTED

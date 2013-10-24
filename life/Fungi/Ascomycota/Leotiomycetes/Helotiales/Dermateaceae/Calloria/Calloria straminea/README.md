@@ -1,5 +1,4 @@
-Calloria straminea Quél. SPECIES
-=======
+# Calloria straminea Quél. SPECIES
 
 #### Status
 ACCEPTED

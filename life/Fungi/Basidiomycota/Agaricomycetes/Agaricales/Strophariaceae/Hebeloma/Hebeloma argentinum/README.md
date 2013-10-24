@@ -1,5 +1,4 @@
-Hebeloma argentinum Speg. SPECIES
-=======
+# Hebeloma argentinum Speg. SPECIES
 
 #### Status
 ACCEPTED

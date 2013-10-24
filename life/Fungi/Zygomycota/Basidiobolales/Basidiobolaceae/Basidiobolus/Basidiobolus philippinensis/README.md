@@ -1,5 +1,4 @@
-Basidiobolus philippinensis Josue & Quimio SPECIES
-=======
+# Basidiobolus philippinensis Josue & Quimio SPECIES
 
 #### Status
 ACCEPTED

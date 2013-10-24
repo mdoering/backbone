@@ -1,5 +1,4 @@
-Granoreticella tenuis Jiabo, 1978 SPECIES
-=======
+# Granoreticella tenuis Jiabo, 1978 SPECIES
 
 #### Status
 ACCEPTED

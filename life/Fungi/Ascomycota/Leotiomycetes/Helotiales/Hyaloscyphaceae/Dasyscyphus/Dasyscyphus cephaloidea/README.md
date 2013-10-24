@@ -1,8 +1,7 @@
-Dasyscypha cephaloidea Fuckel SPECIES
-=======
+# Dasyscyphus cephaloidea Fuckel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Dasyscypha cephaloidea Fuckel
+Dasyscyphus cephaloidea Fuckel
 
 ### Remarks
 null

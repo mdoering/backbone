@@ -1,5 +1,4 @@
-Diplodina rosaecola Massa SPECIES
-=======
+# Diplodina rosaecola Massa SPECIES
 
 #### Status
 ACCEPTED

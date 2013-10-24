@@ -1,5 +1,4 @@
-Pezizella exigua (Cooke) Sacc. SPECIES
-=======
+# Pezizella exigua (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

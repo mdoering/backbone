@@ -1,5 +1,4 @@
-Polycauliona GENUS
-=======
+# Polycauliona GENUS
 
 #### Status
 ACCEPTED

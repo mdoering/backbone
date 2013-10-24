@@ -1,5 +1,4 @@
-Uredo bomfimensis Henn. SPECIES
-=======
+# Uredo bomfimensis Henn. SPECIES
 
 #### Status
 ACCEPTED

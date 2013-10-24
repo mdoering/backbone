@@ -1,14 +1,13 @@
-Conocybe michiganense (A.H. Sm.) Watling SPECIES
-=======
+# Conocybe michiganensis (A.H. Sm.) Watling SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Notes R. bot. Gdn Edinb. 34(2): 248 (1975)
 
 #### Original name
 Psathyrella michiganensis A.H. Sm.

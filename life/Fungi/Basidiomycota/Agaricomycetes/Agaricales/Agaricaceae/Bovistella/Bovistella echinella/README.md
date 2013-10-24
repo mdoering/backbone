@@ -1,5 +1,4 @@
-Bovistella echinella (Pat.) Lloyd SPECIES
-=======
+# Bovistella echinella (Pat.) Lloyd SPECIES
 
 #### Status
 ACCEPTED

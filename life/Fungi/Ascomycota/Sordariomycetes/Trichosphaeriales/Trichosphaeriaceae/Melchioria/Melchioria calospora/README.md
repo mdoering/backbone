@@ -1,5 +1,4 @@
-Melchioria calospora (Speg.) E. Müll. SPECIES
-=======
+# Melchioria calospora (Speg.) E. Müll. SPECIES
 
 #### Status
 ACCEPTED

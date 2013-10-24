@@ -1,5 +1,4 @@
-Ascophora rhizopogonis Corda SPECIES
-=======
+# Ascophora rhizopogonis Corda SPECIES
 
 #### Status
 ACCEPTED

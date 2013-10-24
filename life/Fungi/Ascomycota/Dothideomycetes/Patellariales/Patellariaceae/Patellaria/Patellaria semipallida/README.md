@@ -1,5 +1,4 @@
-Patellaria semipallida (Nyl. ex C. Knight) Müll. Arg. SPECIES
-=======
+# Patellaria semipallida (Nyl. ex C. Knight) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

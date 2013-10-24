@@ -1,5 +1,4 @@
-Ascochytella coronillae Curzi & Barbaini SPECIES
-=======
+# Ascochytella coronillae Curzi & Barbaini SPECIES
 
 #### Status
 ACCEPTED

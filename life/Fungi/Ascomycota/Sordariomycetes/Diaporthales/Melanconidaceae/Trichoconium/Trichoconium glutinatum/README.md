@@ -1,5 +1,4 @@
-Trichoconium glutinatum Corda SPECIES
-=======
+# Trichoconium glutinatum Corda SPECIES
 
 #### Status
 ACCEPTED

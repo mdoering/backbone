@@ -1,5 +1,4 @@
-Epistylis arboreus (Rajendran, 1971) Jankowski, 1985 SPECIES
-=======
+# Epistylis arboreus (Rajendran, 1971) Jankowski, 1985 SPECIES
 
 #### Status
 ACCEPTED

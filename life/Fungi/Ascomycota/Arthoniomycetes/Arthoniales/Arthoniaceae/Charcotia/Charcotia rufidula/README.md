@@ -1,5 +1,4 @@
-Charcotia rufidula Hue SPECIES
-=======
+# Charcotia rufidula Hue SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Lichen rangiferinus var. rangiferinus VARIETY
-=======
+# Cladonia rangiferina (L.) Weber ex F. H. Wigg. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Wiggers, Prim. fl. holsat. (Kiliae) 90 (1780)
 
 #### Original name
-Lichen rangiferinus var. rangiferinus
+Lichen rangiferinus L.
 
 ### Remarks
 null

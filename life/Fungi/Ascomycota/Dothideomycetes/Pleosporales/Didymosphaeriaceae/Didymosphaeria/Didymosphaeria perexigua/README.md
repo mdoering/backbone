@@ -1,5 +1,4 @@
-Didymosphaeria perexigua Sacc. SPECIES
-=======
+# Didymosphaeria perexigua Sacc. SPECIES
 
 #### Status
 ACCEPTED

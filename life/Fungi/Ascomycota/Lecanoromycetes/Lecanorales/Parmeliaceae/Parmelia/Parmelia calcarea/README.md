@@ -1,5 +1,4 @@
-Parmelia calcarea Fr. SPECIES
-=======
+# Parmelia calcarea Fr. SPECIES
 
 #### Status
 ACCEPTED

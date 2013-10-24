@@ -1,5 +1,4 @@
-Phomopsis macrocollum Alcalde SPECIES
-=======
+# Phomopsis macrocollum Alcalde SPECIES
 
 #### Status
 ACCEPTED

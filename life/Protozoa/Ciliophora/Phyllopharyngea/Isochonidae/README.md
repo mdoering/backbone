@@ -1,5 +1,4 @@
-Isochonidae Jankowksi, 1973 FAMILY
-=======
+# Isochonidae Jankowksi, 1973 FAMILY
 
 #### Status
 ACCEPTED

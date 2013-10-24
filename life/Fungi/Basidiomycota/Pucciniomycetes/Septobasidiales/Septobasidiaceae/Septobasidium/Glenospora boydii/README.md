@@ -1,5 +1,4 @@
-Glenospora boydii (Shear) Pollacci & Nann. SPECIES
-=======
+# Glenospora boydii (Shear) Pollacci & Nann. SPECIES
 
 #### Status
 ACCEPTED

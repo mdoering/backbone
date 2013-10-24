@@ -1,17 +1,16 @@
-Peniophora malenconii subsp. americana Chamuris SUBSPECIES
-=======
+# Peniophora malenconii Boidin & Lanq., 1977 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 28(2): 547 (1987)
+Revue Mycol. , Paris 41(1): 120 (1977)
 
 #### Original name
-Peniophora malenconii subsp. americana Chamuris
+Peniophora malenconii Boidin & Lanq., 1977
 
 ### Remarks
 null

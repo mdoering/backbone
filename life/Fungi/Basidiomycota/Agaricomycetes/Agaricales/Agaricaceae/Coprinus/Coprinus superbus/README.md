@@ -1,5 +1,4 @@
-Coprinus superbus Bogart SPECIES
-=======
+# Coprinus superbus Bogart SPECIES
 
 #### Status
 ACCEPTED

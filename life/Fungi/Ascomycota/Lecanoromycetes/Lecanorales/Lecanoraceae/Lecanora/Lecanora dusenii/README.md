@@ -1,5 +1,4 @@
-Lecanora dusenii (Hue) Zahlbr. SPECIES
-=======
+# Lecanora dusenii (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

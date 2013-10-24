@@ -1,5 +1,4 @@
-Inocybe polytrichi-norvegici Kühner SPECIES
-=======
+# Inocybe polytrichi-norvegici Kühner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tricholoma acutistramineum Corner SPECIES
-=======
+# Tricholoma acutistramineum Corner SPECIES
 
 #### Status
 ACCEPTED

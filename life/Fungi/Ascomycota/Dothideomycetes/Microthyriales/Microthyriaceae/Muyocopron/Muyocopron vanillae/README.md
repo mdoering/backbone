@@ -1,5 +1,4 @@
-Muyocopron vanillae Av.-Saccá SPECIES
-=======
+# Muyocopron vanillae Av.-Saccá SPECIES
 
 #### Status
 ACCEPTED

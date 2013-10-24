@@ -1,5 +1,4 @@
-Calicium parvum Tibell SPECIES
-=======
+# Calicium parvum Tibell SPECIES
 
 #### Status
 ACCEPTED

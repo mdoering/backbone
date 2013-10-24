@@ -1,5 +1,4 @@
-Puccinia leiocarpa Thirum. SPECIES
-=======
+# Puccinia leiocarpa Thirum. SPECIES
 
 #### Status
 ACCEPTED

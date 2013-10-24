@@ -1,5 +1,4 @@
-Spongiommura Haeckel, 1887 GENUS
-=======
+# Spongiommura Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

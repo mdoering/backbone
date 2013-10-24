@@ -1,5 +1,4 @@
-Agaricus phlyctophora Durieu & Lév. SPECIES
-=======
+# Agaricus phlyctophora Durieu & Lév. SPECIES
 
 #### Status
 ACCEPTED

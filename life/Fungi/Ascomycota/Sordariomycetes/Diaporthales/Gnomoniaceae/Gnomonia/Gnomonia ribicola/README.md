@@ -1,5 +1,4 @@
-Gnomonia ribicola M.E. Barr SPECIES
-=======
+# Gnomonia ribicola M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

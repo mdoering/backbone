@@ -1,5 +1,4 @@
-Blepharomonas Kopperi, 1937 GENUS
-=======
+# Blepharomonas Kopperi, 1937 GENUS
 
 #### Status
 ACCEPTED

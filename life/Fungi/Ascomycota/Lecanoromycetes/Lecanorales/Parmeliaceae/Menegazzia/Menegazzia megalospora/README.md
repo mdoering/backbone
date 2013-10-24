@@ -1,5 +1,4 @@
-Menegazzia megalospora (Räsänen) R. Sant. SPECIES
-=======
+# Menegazzia megalospora (Räsänen) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

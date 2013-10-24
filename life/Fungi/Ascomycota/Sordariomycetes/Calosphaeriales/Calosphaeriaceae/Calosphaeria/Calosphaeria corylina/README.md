@@ -1,5 +1,4 @@
-Calosphaeria corylina Nitschke SPECIES
-=======
+# Calosphaeria corylina Nitschke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Euantennaria pacifica S. Hughes, 1974 SPECIES
-=======
+# Euantennaria pacifica S. Hughes, 1974 SPECIES
 
 #### Status
 ACCEPTED

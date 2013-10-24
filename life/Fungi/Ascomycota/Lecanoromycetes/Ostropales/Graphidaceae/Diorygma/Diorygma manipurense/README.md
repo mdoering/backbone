@@ -1,5 +1,4 @@
-Diorygma manipurense B.O. Sharma & Makhija SPECIES
-=======
+# Diorygma manipurense B.O. Sharma & Makhija SPECIES
 
 #### Status
 ACCEPTED

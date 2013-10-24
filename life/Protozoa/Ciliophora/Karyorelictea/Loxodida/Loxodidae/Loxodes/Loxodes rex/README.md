@@ -1,5 +1,4 @@
-Loxodes rex Dragesco, 1970 SPECIES
-=======
+# Loxodes rex Dragesco, 1970 SPECIES
 
 #### Status
 ACCEPTED

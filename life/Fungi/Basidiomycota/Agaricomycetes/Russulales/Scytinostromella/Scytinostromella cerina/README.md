@@ -1,5 +1,4 @@
-Scytinostromella cerina (Bres.) Hjortstam & Ryvarden SPECIES
-=======
+# Scytinostromella cerina (Bres.) Hjortstam & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Capsosira Kützing ex Bornet & Flahault, 1886 GENUS
-=======
+# Capsosira Kützing ex Bornet & Flahault, 1886 GENUS
 
 #### Status
 ACCEPTED

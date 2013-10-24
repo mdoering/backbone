@@ -1,5 +1,4 @@
-Anthostomella monthadoi Promp., 2005 SPECIES
-=======
+# Anthostomella monthadoi Promp., 2005 SPECIES
 
 #### Status
 ACCEPTED

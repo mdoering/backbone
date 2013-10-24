@@ -1,5 +1,4 @@
-Spiropes fumosus (Ellis & G. Martin) M.B. Ellis SPECIES
-=======
+# Spiropes fumosus (Ellis & G. Martin) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

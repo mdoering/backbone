@@ -1,5 +1,4 @@
-Acarospora hueana B. de Lesd. SPECIES
-=======
+# Acarospora hueana B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

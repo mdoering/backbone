@@ -1,5 +1,4 @@
-Trichoscypha magnispora Lloyd SPECIES
-=======
+# Trichoscypha magnispora Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Actinoptychus taeniatus F.Hustedt, 1955 SPECIES
-=======
+# Actinoptychus taeniatus F.Hustedt, 1955 SPECIES
 
 #### Status
 ACCEPTED

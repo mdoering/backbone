@@ -1,5 +1,4 @@
-Phyllosticta scirpicola (Lév.) Sacc. SPECIES
-=======
+# Phyllosticta scirpicola (Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

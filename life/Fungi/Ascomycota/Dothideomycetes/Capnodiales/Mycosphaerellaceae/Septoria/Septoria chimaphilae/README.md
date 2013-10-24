@@ -1,5 +1,4 @@
-Septoria chimaphilae Ellis & Everh. SPECIES
-=======
+# Septoria chimaphilae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

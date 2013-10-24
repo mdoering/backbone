@@ -1,5 +1,4 @@
-Phaeophyscia primaria (Poelt) Trass SPECIES
-=======
+# Phaeophyscia primaria (Poelt) Trass SPECIES
 
 #### Status
 ACCEPTED

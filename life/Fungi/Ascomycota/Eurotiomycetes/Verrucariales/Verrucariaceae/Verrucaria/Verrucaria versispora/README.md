@@ -1,5 +1,4 @@
-Verrucaria versispora (Bagl. & Carestia) Stizenb. SPECIES
-=======
+# Verrucaria versispora (Bagl. & Carestia) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

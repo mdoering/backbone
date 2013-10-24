@@ -1,5 +1,4 @@
-Hydnum hirtum Fr. SPECIES
-=======
+# Hydnum hirtum Fr. SPECIES
 
 #### Status
 ACCEPTED

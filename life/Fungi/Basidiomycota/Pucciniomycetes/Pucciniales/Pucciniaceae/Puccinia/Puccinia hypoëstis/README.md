@@ -1,5 +1,4 @@
-Puccinia hypoëstis Sawada SPECIES
-=======
+# Puccinia hypoëstis Sawada SPECIES
 
 #### Status
 ACCEPTED

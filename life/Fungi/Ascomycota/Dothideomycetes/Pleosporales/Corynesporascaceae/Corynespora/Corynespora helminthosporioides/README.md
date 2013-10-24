@@ -1,5 +1,4 @@
-Corynespora helminthosporioides Bat., J.L. Bezerra & Matta SPECIES
-=======
+# Corynespora helminthosporioides Bat., J.L. Bezerra & Matta SPECIES
 
 #### Status
 ACCEPTED

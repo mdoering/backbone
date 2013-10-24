@@ -1,5 +1,4 @@
-Euglena spirogyra f. minor Tracanna FORM
-=======
+# Euglena spirogyra Ehrenberg SPECIES
 
 #### Status
 ACCEPTED

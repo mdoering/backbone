@@ -1,5 +1,4 @@
-Laevidentalina atlantica (Cushman, 1923) SPECIES
-=======
+# Laevidentalina atlantica (Cushman, 1923) SPECIES
 
 #### Status
 ACCEPTED

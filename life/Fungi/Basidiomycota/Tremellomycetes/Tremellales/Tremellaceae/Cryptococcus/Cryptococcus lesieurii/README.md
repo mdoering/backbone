@@ -1,5 +1,4 @@
-Cryptococcus lesieurii Beauverie SPECIES
-=======
+# Cryptococcus lesieurii Beauverie SPECIES
 
 #### Status
 ACCEPTED

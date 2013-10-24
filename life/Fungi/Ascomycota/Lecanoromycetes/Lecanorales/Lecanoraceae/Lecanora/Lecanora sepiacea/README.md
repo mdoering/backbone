@@ -1,5 +1,4 @@
-Lecanora sepiacea Motyka SPECIES
-=======
+# Lecanora sepiacea Motyka SPECIES
 
 #### Status
 ACCEPTED

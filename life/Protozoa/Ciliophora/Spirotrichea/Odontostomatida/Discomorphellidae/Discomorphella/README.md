@@ -1,5 +1,4 @@
-Discomorphella Corliss, 1960 GENUS
-=======
+# Discomorphella Corliss, 1960 GENUS
 
 #### Status
 ACCEPTED

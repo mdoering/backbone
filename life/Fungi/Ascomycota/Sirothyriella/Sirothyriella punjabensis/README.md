@@ -1,5 +1,4 @@
-Sirothyriella punjabensis Wehm. SPECIES
-=======
+# Sirothyriella punjabensis Wehm. SPECIES
 
 #### Status
 ACCEPTED

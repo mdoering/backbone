@@ -1,5 +1,4 @@
-Candelariella nepalensis Poelt & Reddi SPECIES
-=======
+# Candelariella nepalensis Poelt & Reddi SPECIES
 
 #### Status
 ACCEPTED

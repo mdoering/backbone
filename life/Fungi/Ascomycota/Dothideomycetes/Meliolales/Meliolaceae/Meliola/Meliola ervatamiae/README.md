@@ -1,5 +1,4 @@
-Meliola ervatamiae Hosag. SPECIES
-=======
+# Meliola ervatamiae Hosag. SPECIES
 
 #### Status
 ACCEPTED

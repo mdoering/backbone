@@ -1,5 +1,4 @@
-Mooreinella Cushman & Waters, 1928 GENUS
-=======
+# Mooreinella Cushman & Waters, 1928 GENUS
 
 #### Status
 ACCEPTED

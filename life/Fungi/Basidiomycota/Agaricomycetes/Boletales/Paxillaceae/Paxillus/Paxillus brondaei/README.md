@@ -1,5 +1,4 @@
-Paxillus brondaei (Laterrade {?} ) Sacc. & P. Syd. SPECIES
-=======
+# Paxillus brondaei (Laterrade {?} ) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

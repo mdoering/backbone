@@ -1,5 +1,4 @@
-Lichen lacer Gunnerus SPECIES
-=======
+# Lichen lacer Gunnerus SPECIES
 
 #### Status
 ACCEPTED

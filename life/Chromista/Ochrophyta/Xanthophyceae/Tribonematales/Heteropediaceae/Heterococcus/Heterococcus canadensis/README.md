@@ -1,5 +1,4 @@
-Heterococcus canadensis Pitschmann SPECIES
-=======
+# Heterococcus canadensis Pitschmann SPECIES
 
 #### Status
 ACCEPTED

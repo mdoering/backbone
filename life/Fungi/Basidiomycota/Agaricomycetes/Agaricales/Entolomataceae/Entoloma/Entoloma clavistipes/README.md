@@ -1,5 +1,4 @@
-Entoloma clavistipes E. Horak SPECIES
-=======
+# Entoloma clavistipes E. Horak SPECIES
 
 #### Status
 ACCEPTED

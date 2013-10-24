@@ -1,5 +1,4 @@
-Stegobolus tanzanicus Frisch SPECIES
-=======
+# Stegobolus tanzanicus Frisch SPECIES
 
 #### Status
 ACCEPTED

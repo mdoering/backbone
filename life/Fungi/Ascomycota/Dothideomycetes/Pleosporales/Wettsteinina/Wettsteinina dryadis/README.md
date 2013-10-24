@@ -1,14 +1,13 @@
-Massaria dryadis (Rostr.) Lind SPECIES
-=======
+# Wettsteinina dryadis (Rostr.) Petr., 1947 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Biol. Meddr. 11(2): 75 (1934)
+Sydowia 1: 322 (1947)
 
 #### Original name
 Massarina dryadis Rostr., 1888

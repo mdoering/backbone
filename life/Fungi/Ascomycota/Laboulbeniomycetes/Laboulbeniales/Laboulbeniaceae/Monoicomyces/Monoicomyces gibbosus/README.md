@@ -1,5 +1,4 @@
-Monoicomyces gibbosus Thaxt. SPECIES
-=======
+# Monoicomyces gibbosus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

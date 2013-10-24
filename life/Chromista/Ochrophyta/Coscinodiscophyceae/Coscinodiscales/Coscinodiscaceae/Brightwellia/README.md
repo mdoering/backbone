@@ -1,5 +1,4 @@
-Brightwellia Ralfs in Pritchard GENUS
-=======
+# Brightwellia Ralfs in Pritchard GENUS
 
 #### Status
 ACCEPTED

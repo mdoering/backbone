@@ -1,5 +1,4 @@
-Hyalosynnema Matsush. GENUS
-=======
+# Hyalosynnema Matsush. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria propinqua Müll. Arg. SPECIES
-=======
+# Pertusaria propinqua Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

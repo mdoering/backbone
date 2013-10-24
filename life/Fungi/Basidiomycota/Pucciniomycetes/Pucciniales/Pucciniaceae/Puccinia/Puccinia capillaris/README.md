@@ -1,5 +1,4 @@
-Puccinia capillaris Gäum. SPECIES
-=======
+# Puccinia capillaris Gäum. SPECIES
 
 #### Status
 ACCEPTED

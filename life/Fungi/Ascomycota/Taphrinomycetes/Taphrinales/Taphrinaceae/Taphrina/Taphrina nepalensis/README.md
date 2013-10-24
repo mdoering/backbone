@@ -1,5 +1,4 @@
-Taphrina nepalensis Y. Otani & Bhandary SPECIES
-=======
+# Taphrina nepalensis Y. Otani & Bhandary SPECIES
 
 #### Status
 ACCEPTED

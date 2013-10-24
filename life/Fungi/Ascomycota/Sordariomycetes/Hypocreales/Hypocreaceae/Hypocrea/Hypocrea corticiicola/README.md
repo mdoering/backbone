@@ -1,8 +1,7 @@
-Hypocrea corticola Ellis & Everh. SPECIES
-=======
+# Hypocrea corticiicola Ellis & Everh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Hypocrea corticola Ellis & Everh.
+Hypocrea corticiicola Ellis & Everh.
 
 ### Remarks
 null

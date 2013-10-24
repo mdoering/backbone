@@ -1,5 +1,4 @@
-Bacillus azotoformans (ex Pichinoty et al., 1976) Pichinoty et al., 1983 SPECIES
-=======
+# Bacillus azotoformans (ex Pichinoty et al., 1976) Pichinoty et al., 1983 SPECIES
 
 #### Status
 ACCEPTED

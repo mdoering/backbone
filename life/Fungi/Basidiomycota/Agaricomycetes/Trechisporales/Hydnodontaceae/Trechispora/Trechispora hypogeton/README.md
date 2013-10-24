@@ -1,5 +1,4 @@
-Trechispora hypogeton (Maas Geest.) Hjortstam & K.H. Larss. SPECIES
-=======
+# Trechispora hypogeton (Maas Geest.) Hjortstam & K.H. Larss. SPECIES
 
 #### Status
 ACCEPTED

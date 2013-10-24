@@ -1,5 +1,4 @@
-Stemonitis subclavata Zoll. SPECIES
-=======
+# Stemonitis subclavata Zoll. SPECIES
 
 #### Status
 ACCEPTED

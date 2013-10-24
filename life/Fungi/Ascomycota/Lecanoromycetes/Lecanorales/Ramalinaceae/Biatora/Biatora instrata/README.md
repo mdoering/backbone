@@ -1,5 +1,4 @@
-Biatora instrata (Nyl.) Arnold SPECIES
-=======
+# Biatora instrata (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

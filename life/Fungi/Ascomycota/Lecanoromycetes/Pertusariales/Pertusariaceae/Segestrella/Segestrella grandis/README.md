@@ -1,5 +1,4 @@
-Segestrella grandis Rostr. SPECIES
-=======
+# Segestrella grandis Rostr. SPECIES
 
 #### Status
 ACCEPTED

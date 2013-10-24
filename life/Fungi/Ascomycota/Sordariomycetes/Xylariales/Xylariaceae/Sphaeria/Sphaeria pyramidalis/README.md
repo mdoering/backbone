@@ -1,5 +1,4 @@
-Sphaeria pyramidalis Schwein. SPECIES
-=======
+# Sphaeria pyramidalis Schwein. SPECIES
 
 #### Status
 ACCEPTED

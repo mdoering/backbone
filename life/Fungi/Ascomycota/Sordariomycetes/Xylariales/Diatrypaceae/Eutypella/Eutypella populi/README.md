@@ -1,5 +1,4 @@
-Eutypella populi Ellis & Everh. SPECIES
-=======
+# Eutypella populi Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

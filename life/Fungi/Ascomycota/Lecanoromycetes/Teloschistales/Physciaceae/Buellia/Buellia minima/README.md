@@ -1,5 +1,4 @@
-Buellia minima Malme SPECIES
-=======
+# Buellia minima Malme SPECIES
 
 #### Status
 ACCEPTED

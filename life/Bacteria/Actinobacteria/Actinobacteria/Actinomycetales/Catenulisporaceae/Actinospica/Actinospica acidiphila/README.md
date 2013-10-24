@@ -1,5 +1,4 @@
-Actinospica acidiphila Cavaletti et al., 2006 SPECIES
-=======
+# Actinospica acidiphila Cavaletti et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

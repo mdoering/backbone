@@ -1,5 +1,4 @@
-Cortinarius praepallens Peck SPECIES
-=======
+# Cortinarius praepallens Peck SPECIES
 
 #### Status
 ACCEPTED

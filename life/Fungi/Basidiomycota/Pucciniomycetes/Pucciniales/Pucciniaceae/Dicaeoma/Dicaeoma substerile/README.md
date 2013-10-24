@@ -1,5 +1,4 @@
-Dicaeoma substerile (Ellis & Everh.) Kuntze SPECIES
-=======
+# Dicaeoma substerile (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeosaccardinula samoensis Höhn. SPECIES
-=======
+# Phaeosaccardinula samoensis Höhn. SPECIES
 
 #### Status
 ACCEPTED

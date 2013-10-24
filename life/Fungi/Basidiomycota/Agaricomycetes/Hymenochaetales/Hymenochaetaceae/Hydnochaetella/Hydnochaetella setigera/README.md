@@ -1,5 +1,4 @@
-Hydnochaetella setigera (Peck) Sacc. SPECIES
-=======
+# Hydnochaetella setigera (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora lignaria H. Magn. SPECIES
-=======
+# Lecanora lignaria H. Magn. SPECIES
 
 #### Status
 ACCEPTED

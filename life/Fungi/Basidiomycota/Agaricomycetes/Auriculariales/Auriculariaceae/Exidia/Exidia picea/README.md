@@ -1,5 +1,4 @@
-Exidia picea Berk. & M.A. Curtis SPECIES
-=======
+# Exidia picea Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

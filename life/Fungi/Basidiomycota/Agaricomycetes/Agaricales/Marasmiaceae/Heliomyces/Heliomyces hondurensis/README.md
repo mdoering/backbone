@@ -1,5 +1,4 @@
-Heliomyces hondurensis Murrill SPECIES
-=======
+# Heliomyces hondurensis Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria lambinonii A. W. Archer, Elix, Eb. Fisch., Killmann & Sérus. SPECIES
-=======
+# Pertusaria lambinonii A. W. Archer, Elix, Eb. Fisch., Killmann & Sérus. SPECIES
 
 #### Status
 ACCEPTED

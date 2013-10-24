@@ -1,8 +1,7 @@
-Bacteroides microfusus Kaneuchi and Mitsuoka, 1978 (Approved Lists, 1980) SPECIES
-=======
+# Rikenella microfusus (Kaneuchi & Mitsuoka, 1978) Collins et al., 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

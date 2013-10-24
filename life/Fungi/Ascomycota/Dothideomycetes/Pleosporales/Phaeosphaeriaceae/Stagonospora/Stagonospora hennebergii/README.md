@@ -1,5 +1,4 @@
-Stagonospora hennebergii (J.G. Kühn) Petr. & Syd. SPECIES
-=======
+# Stagonospora hennebergii (J.G. Kühn) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Thackerella Y. Bhâradwâja, 1963 GENUS
-=======
+# Homoeoptyche Skuja, 1944 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
-Proc. Ind. Acad. Sci. 57, b4: 254.
+Acta Horti Bot. Univ. Riga 14: 53.
 
 #### Original name
 null

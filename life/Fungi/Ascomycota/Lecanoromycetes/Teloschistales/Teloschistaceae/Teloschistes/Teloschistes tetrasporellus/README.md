@@ -1,5 +1,4 @@
-Teloschistes tetrasporellus (Nyl.) Hue SPECIES
-=======
+# Teloschistes tetrasporellus (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

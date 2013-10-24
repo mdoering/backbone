@@ -1,5 +1,4 @@
-Russula dryadicola Fellner & Landa SPECIES
-=======
+# Russula dryadicola Fellner & Landa SPECIES
 
 #### Status
 ACCEPTED

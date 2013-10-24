@@ -1,8 +1,7 @@
-Boletellus pseudo-chrysenieroides A.H. Sm. & Thiers SPECIES
-=======
+# Boletellus pseudochrysenteroides A.H. Sm. & Thiers SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Boletellus pseudo-chrysenieroides A.H. Sm. & Thiers
+Boletellus pseudochrysenteroides A.H. Sm. & Thiers
 
 ### Remarks
 null

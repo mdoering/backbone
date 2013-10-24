@@ -1,17 +1,16 @@
-Echidnodes curtiseae Doidge SPECIES
-=======
+# Echidnodes curtisiae Doidge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bothalia 4(4): 872 (1948)
 
 #### Original name
-Echidnodes curtiseae Doidge
+Echidnodes curtisiae Doidge
 
 ### Remarks
 null

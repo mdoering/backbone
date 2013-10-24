@@ -1,5 +1,4 @@
-Leptographa GENUS
-=======
+# Leptographa GENUS
 
 #### Status
 ACCEPTED

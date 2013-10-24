@@ -1,5 +1,4 @@
-Digitoramispora R.F. Castañeda & W.B. Kendr. GENUS
-=======
+# Digitoramispora R.F. Castañeda & W.B. Kendr. GENUS
 
 #### Status
 ACCEPTED

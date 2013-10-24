@@ -1,5 +1,4 @@
-Lecidea heteropsis (Müll. Arg.) Stizenb. SPECIES
-=======
+# Lecidea heteropsis (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

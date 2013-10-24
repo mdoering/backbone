@@ -1,5 +1,4 @@
-Streptomyces mauvecolor Okami and Umezawa, 1960 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces mauvecolor Okami and Umezawa, 1960 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

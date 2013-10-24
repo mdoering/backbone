@@ -1,5 +1,4 @@
-Rhodotorula subericola Belloch, Villa-Carv., Álv.-Rodríg. & Coque SPECIES
-=======
+# Rhodotorula subericola Belloch, Villa-Carv., Álv.-Rodríg. & Coque SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria lactescentium Schwein. SPECIES
-=======
+# Sphaeria lactescentium Schwein. SPECIES
 
 #### Status
 ACCEPTED

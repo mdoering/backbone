@@ -1,5 +1,4 @@
-Dialonectria opalina (P. Crouan & H. Crouan) Cooke SPECIES
-=======
+# Dialonectria opalina (P. Crouan & H. Crouan) Cooke SPECIES
 
 #### Status
 ACCEPTED

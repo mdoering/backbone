@@ -1,5 +1,4 @@
-Helotium acicularum (Rolland) Sacc. SPECIES
-=======
+# Helotium acicularum (Rolland) Sacc. SPECIES
 
 #### Status
 ACCEPTED

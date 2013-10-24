@@ -1,5 +1,4 @@
-Loxostomum mayori (Cushman) SPECIES
-=======
+# Loxostomum mayori (Cushman) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stagonospora septorioides Hara SPECIES
-=======
+# Stagonospora septorioides Hara SPECIES
 
 #### Status
 ACCEPTED

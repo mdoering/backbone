@@ -1,5 +1,4 @@
-Miniancora allisoniensis Marvanová & Bärl., 1989 SPECIES
-=======
+# Miniancora allisoniensis Marvanová & Bärl., 1989 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Pleonectria denigrata G. Winter SPECIES
-=======
+# Thyronectria denigrata (G. Winter) Seaver SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Sphaeria miskibutris De Not. SPECIES
-=======
+# Sphaeria miskibutris De Not. SPECIES
 
 #### Status
 ACCEPTED

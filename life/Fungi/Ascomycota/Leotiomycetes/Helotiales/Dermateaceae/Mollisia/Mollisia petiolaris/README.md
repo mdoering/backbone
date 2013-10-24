@@ -1,5 +1,4 @@
-Mollisia petiolaris (Alb. & Schwein.) Sacc. SPECIES
-=======
+# Mollisia petiolaris (Alb. & Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

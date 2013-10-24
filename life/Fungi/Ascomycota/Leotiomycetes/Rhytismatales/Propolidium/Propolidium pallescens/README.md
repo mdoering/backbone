@@ -1,5 +1,4 @@
-Propolidium pallescens Feltgen SPECIES
-=======
+# Propolidium pallescens Feltgen SPECIES
 
 #### Status
 ACCEPTED

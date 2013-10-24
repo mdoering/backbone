@@ -1,5 +1,4 @@
-Candelariella placodizans (Nyl.) H. Magn. SPECIES
-=======
+# Candelariella placodizans (Nyl.) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

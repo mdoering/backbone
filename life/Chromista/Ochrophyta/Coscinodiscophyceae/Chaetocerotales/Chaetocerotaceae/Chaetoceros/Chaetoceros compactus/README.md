@@ -1,5 +1,4 @@
-Chaetoceros compactus F. Schütt, 1895 SPECIES
-=======
+# Chaetoceros compactus F. Schütt, 1895 SPECIES
 
 #### Status
 ACCEPTED

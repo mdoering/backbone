@@ -1,5 +1,4 @@
-Lecidea atroumbrina H. Magn. SPECIES
-=======
+# Lecidea atroumbrina H. Magn. SPECIES
 
 #### Status
 ACCEPTED

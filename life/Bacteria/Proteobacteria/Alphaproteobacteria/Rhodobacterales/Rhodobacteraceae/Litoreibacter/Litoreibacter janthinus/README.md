@@ -1,5 +1,4 @@
-Litoreibacter janthinus Romanenko, Tanaka, Frolova, Svetashev & Mikhailov, 2011 SPECIES
-=======
+# Litoreibacter janthinus Romanenko, Tanaka, Frolova, Svetashev & Mikhailov, 2011 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ammonia translucens SPECIES
-=======
+# Ammonia translucens SPECIES
 
 #### Status
 ACCEPTED

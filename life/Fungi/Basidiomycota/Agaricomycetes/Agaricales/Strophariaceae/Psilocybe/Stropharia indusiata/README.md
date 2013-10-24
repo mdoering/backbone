@@ -1,5 +1,4 @@
-Stropharia indusiata (Berk.) Sacc. SPECIES
-=======
+# Stropharia indusiata (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

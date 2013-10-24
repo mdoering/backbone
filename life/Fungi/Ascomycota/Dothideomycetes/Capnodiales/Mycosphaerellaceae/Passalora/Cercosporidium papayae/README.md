@@ -1,5 +1,4 @@
-Cercosporidium papayae Y.L. Guo SPECIES
-=======
+# Cercosporidium papayae Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

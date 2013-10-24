@@ -1,5 +1,4 @@
-Lecanora ocellulata (Bagl. & Carestia) Stizenb. SPECIES
-=======
+# Lecanora ocellulata (Bagl. & Carestia) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

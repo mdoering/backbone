@@ -1,5 +1,4 @@
-Haplodina microcarpa Zahlbr. SPECIES
-=======
+# Haplodina microcarpa Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

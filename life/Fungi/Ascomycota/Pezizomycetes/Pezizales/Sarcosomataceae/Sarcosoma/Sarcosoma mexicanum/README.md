@@ -1,5 +1,4 @@
-Sarcosoma mexicanum (Ellis & Holw.) Paden & Tylutki SPECIES
-=======
+# Sarcosoma mexicanum (Ellis & Holw.) Paden & Tylutki SPECIES
 
 #### Status
 ACCEPTED

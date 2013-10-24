@@ -1,5 +1,4 @@
-Eopontosphaera Hou Kui Tian Xingyou, Chen Yancheng, Xuan Zhiqiang, Liu Xiuqing & Bo Junsheng, 1991 GENUS
-=======
+# Eopontosphaera Hou Kui Tian Xingyou, Chen Yancheng, Xuan Zhiqiang, Liu Xiuqing & Bo Junsheng, 1991 GENUS
 
 #### Status
 ACCEPTED

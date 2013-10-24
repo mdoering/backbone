@@ -1,5 +1,4 @@
-Puccinia solidipes H.S. Jacks. & Holw. SPECIES
-=======
+# Puccinia solidipes H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

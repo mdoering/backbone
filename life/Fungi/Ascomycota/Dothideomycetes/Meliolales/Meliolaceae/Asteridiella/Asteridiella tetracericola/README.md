@@ -1,5 +1,4 @@
-Asteridiella tetracericola var. tetracericola VARIETY
-=======
+# Asteridiella tetracericola Hansf. & Deighton SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Sydowia 2: 101 (1961)
 
 #### Original name
-Asteridiella tetracericola var. tetracericola
+Asteridiella tetracericola Hansf. & Deighton
 
 ### Remarks
 null

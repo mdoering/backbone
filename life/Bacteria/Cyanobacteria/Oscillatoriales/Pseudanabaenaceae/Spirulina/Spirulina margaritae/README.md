@@ -1,5 +1,4 @@
-Spirulina margaritae Frémy SPECIES
-=======
+# Spirulina margaritae Frémy SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verticillium ampelinum Cooke & Massee SPECIES
-=======
+# Verticillium ampelinum Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

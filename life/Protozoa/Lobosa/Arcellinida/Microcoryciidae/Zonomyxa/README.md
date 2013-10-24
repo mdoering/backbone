@@ -1,5 +1,4 @@
-Zonomyxa Nüsslin, 1883 GENUS
-=======
+# Zonomyxa Nüsslin, 1883 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Prunulus argillaceus Murrill SPECIES
-=======
+# Prunulus argillaceus Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Nigredo amphidyma (Syd. & P. Syd.) Arthur, 1920 SPECIES
-=======
+# Uromyces amphidymus Syd. & P. Syd., 1906 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-N. Amer. Fl. (New York) 7(4): 228 (1920)
+Annls mycol. 4(1): 29 (1906)
 
 #### Original name
 Uromyces amphidymus Syd. & P. Syd., 1906

@@ -1,5 +1,4 @@
-Oidium griseum (Sacc.) Linder SPECIES
-=======
+# Oidium griseum (Sacc.) Linder SPECIES
 
 #### Status
 ACCEPTED

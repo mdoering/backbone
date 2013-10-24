@@ -1,5 +1,4 @@
-Diplites Foissner, 1998 GENUS
-=======
+# Diplites Foissner, 1998 GENUS
 
 #### Status
 ACCEPTED

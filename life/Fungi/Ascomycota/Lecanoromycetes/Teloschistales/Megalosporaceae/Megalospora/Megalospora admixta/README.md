@@ -1,5 +1,4 @@
-Megalospora admixta (Nyl.) Sipman SPECIES
-=======
+# Megalospora admixta (Nyl.) Sipman SPECIES
 
 #### Status
 ACCEPTED

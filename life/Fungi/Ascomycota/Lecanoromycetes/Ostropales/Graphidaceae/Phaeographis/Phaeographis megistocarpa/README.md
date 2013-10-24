@@ -1,5 +1,4 @@
-Phaeographis megistocarpa (Leight.) Müll. Arg. SPECIES
-=======
+# Phaeographis megistocarpa (Leight.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

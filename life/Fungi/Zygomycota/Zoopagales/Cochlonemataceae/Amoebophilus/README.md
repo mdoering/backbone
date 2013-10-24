@@ -1,5 +1,4 @@
-Amoebophilus P.A. Dangeard, 1910 GENUS
-=======
+# Amoebophilus P.A. Dangeard, 1910 GENUS
 
 #### Status
 ACCEPTED

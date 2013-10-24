@@ -1,5 +1,4 @@
-Gelopellis Zeller GENUS
-=======
+# Gelopellis Zeller GENUS
 
 #### Status
 ACCEPTED

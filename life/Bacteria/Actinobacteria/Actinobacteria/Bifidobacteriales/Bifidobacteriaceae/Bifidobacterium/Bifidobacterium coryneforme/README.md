@@ -1,5 +1,4 @@
-Bifidobacterium coryneforme (ex Scardovi & Trovatelli, 1969) Biavati et al., 1982 SPECIES
-=======
+# Bifidobacterium coryneforme (ex Scardovi & Trovatelli, 1969) Biavati et al., 1982 SPECIES
 
 #### Status
 ACCEPTED

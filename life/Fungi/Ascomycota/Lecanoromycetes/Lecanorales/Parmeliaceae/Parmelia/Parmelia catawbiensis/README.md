@@ -1,5 +1,4 @@
-Parmelia catawbiensis (Degel.) Hale & M. Wirth SPECIES
-=======
+# Parmelia catawbiensis (Degel.) Hale & M. Wirth SPECIES
 
 #### Status
 ACCEPTED

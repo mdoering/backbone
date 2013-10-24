@@ -1,5 +1,4 @@
-Gloeosporium calopogonii Cif. & Gonz. Frag. SPECIES
-=======
+# Gloeosporium calopogonii Cif. & Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

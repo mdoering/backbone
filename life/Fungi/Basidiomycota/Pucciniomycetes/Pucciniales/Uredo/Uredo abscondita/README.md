@@ -1,5 +1,4 @@
-Uredo abscondita Fautrey SPECIES
-=======
+# Uredo abscondita Fautrey SPECIES
 
 #### Status
 ACCEPTED

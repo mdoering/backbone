@@ -1,5 +1,4 @@
-Ceuthospora jaczewskii Negru SPECIES
-=======
+# Ceuthospora jaczewskii Negru SPECIES
 
 #### Status
 ACCEPTED

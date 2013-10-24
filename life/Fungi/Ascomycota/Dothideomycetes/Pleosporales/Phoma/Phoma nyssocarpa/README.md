@@ -1,5 +1,4 @@
-Phoma nyssocarpa Cooke SPECIES
-=======
+# Phoma nyssocarpa Cooke SPECIES
 
 #### Status
 ACCEPTED

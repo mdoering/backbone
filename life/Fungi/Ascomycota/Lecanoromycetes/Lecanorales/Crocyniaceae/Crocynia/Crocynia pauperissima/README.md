@@ -1,5 +1,4 @@
-Crocynia pauperissima Choisy SPECIES
-=======
+# Crocynia pauperissima Choisy SPECIES
 
 #### Status
 ACCEPTED

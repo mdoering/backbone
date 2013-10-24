@@ -1,5 +1,4 @@
-Hymenula armeniacae Schulzer & Sacc. SPECIES
-=======
+# Hymenula armeniacae Schulzer & Sacc. SPECIES
 
 #### Status
 ACCEPTED

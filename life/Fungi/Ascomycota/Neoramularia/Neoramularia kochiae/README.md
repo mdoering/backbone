@@ -1,5 +1,4 @@
-Neoramularia kochiae (Woron.) U. Braun SPECIES
-=======
+# Neoramularia kochiae (Woron.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

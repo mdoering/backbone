@@ -1,17 +1,16 @@
-Agaricus squamosus var. squamosus VARIETY
-=======
+# Lentinus squamosus (Schaeff.) Quél., 1888 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fl. mycol. France (Paris) 328 (1888)
 
 #### Original name
-null
+Agaricus squamosus Schaeff., 1774
 
 ### Remarks
 null

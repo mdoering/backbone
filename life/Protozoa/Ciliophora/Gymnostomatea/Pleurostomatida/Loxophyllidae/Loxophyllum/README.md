@@ -1,14 +1,13 @@
-Laxophyllum Madhava Rao, 1928 GENUS
-=======
+# Loxophyllum Dujardin, 1841 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Indian Inst. Sci. , 11 (A), 114.
+(Roret's Suite à Buffon) Infusoires, 487.
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Rosellinia congregata Beck SPECIES
-=======
+# Rosellinia congregata Beck SPECIES
 
 #### Status
 ACCEPTED

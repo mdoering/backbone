@@ -1,5 +1,4 @@
-Apiosporium quercicola Fuckel SPECIES
-=======
+# Apiosporium quercicola Fuckel SPECIES
 
 #### Status
 ACCEPTED

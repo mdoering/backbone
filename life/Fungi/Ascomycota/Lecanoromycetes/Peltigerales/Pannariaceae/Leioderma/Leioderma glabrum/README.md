@@ -1,5 +1,4 @@
-Leioderma glabrum D. J. Galloway & P. M. Jørg. SPECIES
-=======
+# Leioderma glabrum D. J. Galloway & P. M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

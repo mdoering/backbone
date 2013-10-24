@@ -1,5 +1,4 @@
-Tarichium pustulatum Weiser SPECIES
-=======
+# Tarichium pustulatum Weiser SPECIES
 
 #### Status
 ACCEPTED

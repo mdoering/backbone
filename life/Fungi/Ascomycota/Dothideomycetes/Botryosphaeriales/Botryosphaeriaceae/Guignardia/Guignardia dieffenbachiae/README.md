@@ -1,5 +1,4 @@
-Guignardia dieffenbachiae Gonz. Frag. & Cif., 1927 SPECIES
-=======
+# Guignardia dieffenbachiae Gonz. Frag. & Cif., 1927 SPECIES
 
 #### Status
 ACCEPTED

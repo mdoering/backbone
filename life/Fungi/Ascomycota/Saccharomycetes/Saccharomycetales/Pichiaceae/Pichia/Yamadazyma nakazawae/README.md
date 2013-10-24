@@ -1,17 +1,16 @@
-Pichia nakazawae var. nakazawae K. Kodama, 1975 VARIETY
-=======
+# Yamadazyma nakazawae (K. Kodama) Billon-Grand, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 35(2): 203 (1989)
 
 #### Original name
-null
+Pichia nakazawae K. Kodama, 1975
 
 ### Remarks
 null

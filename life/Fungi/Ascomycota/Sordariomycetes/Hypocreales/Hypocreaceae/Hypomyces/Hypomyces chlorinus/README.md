@@ -1,14 +1,13 @@
-Leiosepium chlorinum (Tul. & C. Tul.) A. Fontana, 1963 SPECIES
-=======
+# Hypomyces chlorinus Tul. & C. Tul., 1865 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Allionia 9: 135 (1963)
+Selecta Fungorum Carpologia: Nectriei- Phacidiei- Pezizei 3: 59 (1865)
 
 #### Original name
 Hypomyces chlorinus Tul. & C. Tul., 1865

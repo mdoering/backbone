@@ -1,5 +1,4 @@
-Vaucheria acrandra Ott & Hommersand SPECIES
-=======
+# Vaucheria acrandra Ott & Hommersand SPECIES
 
 #### Status
 ACCEPTED

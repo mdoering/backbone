@@ -1,5 +1,4 @@
-Lepiota pandorae Velen. SPECIES
-=======
+# Lepiota pandorae Velen. SPECIES
 
 #### Status
 ACCEPTED

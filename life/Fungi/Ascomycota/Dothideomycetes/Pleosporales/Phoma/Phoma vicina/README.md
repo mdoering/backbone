@@ -1,5 +1,4 @@
-Phoma vicina Desm. SPECIES
-=======
+# Phoma vicina Desm. SPECIES
 
 #### Status
 ACCEPTED

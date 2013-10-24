@@ -1,5 +1,4 @@
-Pannaria involuta Vain. SPECIES
-=======
+# Pannaria involuta Vain. SPECIES
 
 #### Status
 ACCEPTED

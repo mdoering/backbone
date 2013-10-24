@@ -1,5 +1,4 @@
-Verrucaria fartilis Nyl. SPECIES
-=======
+# Verrucaria fartilis Nyl. SPECIES
 
 #### Status
 ACCEPTED

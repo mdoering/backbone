@@ -1,5 +1,4 @@
-Diplodina corni Cooke SPECIES
-=======
+# Diplodina corni Cooke SPECIES
 
 #### Status
 ACCEPTED

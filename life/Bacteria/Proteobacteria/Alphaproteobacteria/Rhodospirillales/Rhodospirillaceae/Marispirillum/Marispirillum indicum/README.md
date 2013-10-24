@@ -1,5 +1,4 @@
-Marispirillum indicum Lai, Yuan, Gu & Shao, 2009 SPECIES
-=======
+# Marispirillum indicum Lai, Yuan, Gu & Shao, 2009 SPECIES
 
 #### Status
 ACCEPTED

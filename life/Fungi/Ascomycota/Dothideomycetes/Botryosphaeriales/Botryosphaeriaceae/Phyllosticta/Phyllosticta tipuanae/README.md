@@ -1,5 +1,4 @@
-Phyllosticta tipuanae Tassi SPECIES
-=======
+# Phyllosticta tipuanae Tassi SPECIES
 
 #### Status
 ACCEPTED

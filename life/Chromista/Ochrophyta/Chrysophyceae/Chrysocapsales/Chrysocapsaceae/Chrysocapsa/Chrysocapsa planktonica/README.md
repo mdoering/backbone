@@ -1,5 +1,4 @@
-Chrysocapsa planktonica Pascher SPECIES
-=======
+# Chrysocapsa planktonica Pascher SPECIES
 
 #### Status
 ACCEPTED

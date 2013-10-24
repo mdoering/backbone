@@ -1,5 +1,4 @@
-Calothrix stagnalis Gomont SPECIES
-=======
+# Calothrix stagnalis Gomont SPECIES
 
 #### Status
 ACCEPTED

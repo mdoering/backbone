@@ -1,5 +1,4 @@
-Acarospora scotica Hue SPECIES
-=======
+# Acarospora scotica Hue SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Delitschia hexaspora Luck-Allen & Cain SPECIES
-=======
+# Delitschia hexaspora Luck-Allen & Cain SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microthelia sporastatiae (Anzi) Kuntze SPECIES
-=======
+# Microthelia sporastatiae (Anzi) Kuntze SPECIES
 
 #### Status
 ACCEPTED

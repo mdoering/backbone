@@ -1,5 +1,4 @@
-Mutinus granulatus E. Fisch. SPECIES
-=======
+# Mutinus granulatus E. Fisch. SPECIES
 
 #### Status
 ACCEPTED

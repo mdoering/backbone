@@ -1,5 +1,4 @@
-Biatora panaeola (Ach.) Fr. SPECIES
-=======
+# Biatora panaeola (Ach.) Fr. SPECIES
 
 #### Status
 ACCEPTED

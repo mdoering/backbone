@@ -1,5 +1,4 @@
-Goniochloris tripus Pascher SPECIES
-=======
+# Goniochloris tripus Pascher SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula subfragiliformis Murrill SPECIES
-=======
+# Russula subfragiliformis Murrill SPECIES
 
 #### Status
 ACCEPTED

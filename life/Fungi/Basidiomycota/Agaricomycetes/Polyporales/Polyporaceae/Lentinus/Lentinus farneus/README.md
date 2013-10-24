@@ -1,5 +1,4 @@
-Lentinus farneus (Fr.) Henn. SPECIES
-=======
+# Lentinus farneus (Fr.) Henn. SPECIES
 
 #### Status
 ACCEPTED

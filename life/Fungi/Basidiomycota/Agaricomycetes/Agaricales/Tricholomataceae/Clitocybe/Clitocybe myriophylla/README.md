@@ -1,5 +1,4 @@
-Clitocybe myriophylla (Cooke & Massee) Sacc. SPECIES
-=======
+# Clitocybe myriophylla (Cooke & Massee) Sacc. SPECIES
 
 #### Status
 ACCEPTED

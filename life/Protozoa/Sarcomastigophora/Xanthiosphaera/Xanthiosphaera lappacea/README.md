@@ -1,5 +1,4 @@
-Xanthiosphaera lappacea Haeckel SPECIES
-=======
+# Xanthiosphaera lappacea Haeckel SPECIES
 
 #### Status
 ACCEPTED

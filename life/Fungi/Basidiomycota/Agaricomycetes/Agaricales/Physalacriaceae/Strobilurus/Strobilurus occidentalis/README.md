@@ -1,5 +1,4 @@
-Strobilurus occidentalis V.L. Wells & Kempton SPECIES
-=======
+# Strobilurus occidentalis V.L. Wells & Kempton SPECIES
 
 #### Status
 ACCEPTED

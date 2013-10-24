@@ -1,14 +1,13 @@
-Rhopalopsis cetrarioides (Welw. & Curr.) Cooke, 1883 SPECIES
-=======
+# Kretzschmaria cetrarioides (Welw. & Curr.) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 11(no. 59): 94 (1883)
+Syll. fung. (Abellini) 2: XXIX (1883)
 
 #### Original name
 Hypoxylon cetrarioides Welw. & Curr., 1867

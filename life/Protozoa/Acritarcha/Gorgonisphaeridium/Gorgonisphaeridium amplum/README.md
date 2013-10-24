@@ -1,5 +1,4 @@
-Gorgonisphaeridium amplum Wicander & Loeblich, 1977 SPECIES
-=======
+# Gorgonisphaeridium amplum Wicander & Loeblich, 1977 SPECIES
 
 #### Status
 ACCEPTED

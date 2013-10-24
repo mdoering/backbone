@@ -1,14 +1,13 @@
-Alternaria helianthi (Hansf.) Tubaki & Nishih., 1969 SPECIES
-=======
+# Alternariaster helianthi (Hansf.) E.G. Simmons, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 53: 148 (1969)
+Alternaria: an identification manual 667 (2007)
 
 #### Original name
 Helminthosporium helianthi Hansf., 1943

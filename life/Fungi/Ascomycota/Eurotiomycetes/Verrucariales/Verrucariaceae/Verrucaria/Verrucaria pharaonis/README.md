@@ -1,5 +1,4 @@
-Verrucaria pharaonis (Müll. Arg.) Stizenb. SPECIES
-=======
+# Verrucaria pharaonis (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

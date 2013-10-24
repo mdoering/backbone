@@ -1,5 +1,4 @@
-Tryblidiopsis occidentalis Tracy & Earle SPECIES
-=======
+# Tryblidiopsis occidentalis Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

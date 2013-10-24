@@ -1,5 +1,4 @@
-Agaricus sericocephalus Letell. SPECIES
-=======
+# Agaricus sericocephalus Letell. SPECIES
 
 #### Status
 ACCEPTED

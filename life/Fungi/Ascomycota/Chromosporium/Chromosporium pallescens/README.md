@@ -1,5 +1,4 @@
-Chromosporium pallescens Cooke & Massee, 1892 SPECIES
-=======
+# Chromosporium pallescens Cooke & Massee, 1892 SPECIES
 
 #### Status
 ACCEPTED

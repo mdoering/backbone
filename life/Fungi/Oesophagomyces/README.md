@@ -1,5 +1,4 @@
-Oesophagomyces Manier & Ormières GENUS
-=======
+# Oesophagomyces Manier & Ormières GENUS
 
 #### Status
 ACCEPTED

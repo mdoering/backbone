@@ -1,5 +1,4 @@
-Marasmius curtisii Sacc. & P. Syd. SPECIES
-=======
+# Marasmius curtisii Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

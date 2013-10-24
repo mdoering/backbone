@@ -1,5 +1,4 @@
-Chloridella glacialis E. Kol SPECIES
-=======
+# Chloridella glacialis E. Kol SPECIES
 
 #### Status
 ACCEPTED

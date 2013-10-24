@@ -1,5 +1,4 @@
-Macrosporium truncatum F. Lamb. & Fautrey SPECIES
-=======
+# Macrosporium truncatum F. Lamb. & Fautrey SPECIES
 
 #### Status
 ACCEPTED

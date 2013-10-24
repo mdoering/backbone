@@ -1,5 +1,4 @@
-Chaetothyrium citricola Sawada & W. Yamam. SPECIES
-=======
+# Chaetothyrium citricola Sawada & W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

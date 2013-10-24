@@ -1,5 +1,4 @@
-Arkhangelskiella striata H. Stradner SPECIES
-=======
+# Arkhangelskiella striata H. Stradner SPECIES
 
 #### Status
 ACCEPTED

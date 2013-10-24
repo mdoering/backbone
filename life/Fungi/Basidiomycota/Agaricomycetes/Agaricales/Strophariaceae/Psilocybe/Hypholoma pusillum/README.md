@@ -1,5 +1,4 @@
-Hypholoma pusillum Velen. SPECIES
-=======
+# Hypholoma pusillum Velen. SPECIES
 
 #### Status
 ACCEPTED

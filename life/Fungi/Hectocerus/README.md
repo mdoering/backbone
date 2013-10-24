@@ -1,5 +1,4 @@
-Hectocerus Raf. GENUS
-=======
+# Hectocerus Raf. GENUS
 
 #### Status
 ACCEPTED

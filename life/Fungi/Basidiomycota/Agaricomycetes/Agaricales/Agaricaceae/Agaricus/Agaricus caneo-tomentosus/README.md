@@ -1,5 +1,4 @@
-Agaricus caneo-tomentosus Batsch SPECIES
-=======
+# Agaricus caneo-tomentosus Batsch SPECIES
 
 #### Status
 ACCEPTED

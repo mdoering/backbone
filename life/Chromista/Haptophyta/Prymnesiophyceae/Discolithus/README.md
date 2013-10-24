@@ -1,5 +1,4 @@
-Discolithus Kamptner ex Deflandre in Piveteau, 1952 GENUS
-=======
+# Discolithus Kamptner ex Deflandre in Piveteau, 1952 GENUS
 
 #### Status
 ACCEPTED

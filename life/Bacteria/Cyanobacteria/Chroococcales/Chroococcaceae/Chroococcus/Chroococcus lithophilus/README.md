@@ -1,5 +1,4 @@
-Chroococcus lithophilus var. rotae P. González VARIETY
-=======
+# Chroococcus lithophilus Ercegovic SPECIES
 
 #### Status
 ACCEPTED

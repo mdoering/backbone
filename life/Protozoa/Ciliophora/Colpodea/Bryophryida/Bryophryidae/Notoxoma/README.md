@@ -1,5 +1,4 @@
-Notoxoma Foissner, 1993 GENUS
-=======
+# Notoxoma Foissner, 1993 GENUS
 
 #### Status
 ACCEPTED

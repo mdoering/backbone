@@ -1,5 +1,4 @@
-Leprocollema novae-caledonianum A.L. Sm. SPECIES
-=======
+# Leprocollema novae-caledonianum A.L. Sm. SPECIES
 
 #### Status
 ACCEPTED

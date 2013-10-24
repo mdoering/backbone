@@ -1,5 +1,4 @@
-Centrobotrys Petrushevskaya, 1965 GENUS
-=======
+# Centrobotrys Petrushevskaya, 1965 GENUS
 
 #### Status
 ACCEPTED

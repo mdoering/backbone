@@ -1,5 +1,4 @@
-Heterochaete simaonensis X.W. Hu & Jian Z. Li SPECIES
-=======
+# Heterochaete simaonensis X.W. Hu & Jian Z. Li SPECIES
 
 #### Status
 ACCEPTED

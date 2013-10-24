@@ -1,5 +1,4 @@
-Pluteus eugraptus var. eugraptus VARIETY
-=======
+# Pluteus eugraptus (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

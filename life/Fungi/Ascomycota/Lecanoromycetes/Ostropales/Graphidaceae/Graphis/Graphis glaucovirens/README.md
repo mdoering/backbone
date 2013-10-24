@@ -1,5 +1,4 @@
-Graphis glaucovirens Redinger SPECIES
-=======
+# Graphis glaucovirens Redinger SPECIES
 
 #### Status
 ACCEPTED

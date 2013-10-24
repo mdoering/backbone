@@ -1,5 +1,4 @@
-Platygloea blastomyces Möller SPECIES
-=======
+# Platygloea blastomyces Möller SPECIES
 
 #### Status
 ACCEPTED

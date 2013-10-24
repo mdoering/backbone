@@ -1,5 +1,4 @@
-Schulzeria sulfurea Beeli SPECIES
-=======
+# Schulzeria sulfurea Beeli SPECIES
 
 #### Status
 ACCEPTED

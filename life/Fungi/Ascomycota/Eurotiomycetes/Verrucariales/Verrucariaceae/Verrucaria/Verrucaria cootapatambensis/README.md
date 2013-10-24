@@ -1,5 +1,4 @@
-Verrucaria cootapatambensis P. M. McCarthy SPECIES
-=======
+# Verrucaria cootapatambensis P. M. McCarthy SPECIES
 
 #### Status
 ACCEPTED

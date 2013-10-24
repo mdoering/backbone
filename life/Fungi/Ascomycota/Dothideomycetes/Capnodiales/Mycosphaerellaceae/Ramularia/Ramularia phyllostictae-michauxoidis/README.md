@@ -1,5 +1,4 @@
-Ramularia phyllostictae-michauxoidis Magnus SPECIES
-=======
+# Ramularia phyllostictae-michauxoidis Magnus SPECIES
 
 #### Status
 ACCEPTED

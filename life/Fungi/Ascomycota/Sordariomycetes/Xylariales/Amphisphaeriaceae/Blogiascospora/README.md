@@ -1,5 +1,4 @@
-Blogiascospora Shoemaker, E. Müll. & Morgan-Jones GENUS
-=======
+# Blogiascospora Shoemaker, E. Müll. & Morgan-Jones GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ustilago pertusa Tracy & Earle SPECIES
-=======
+# Ustilago pertusa Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

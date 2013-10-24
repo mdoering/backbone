@@ -1,5 +1,4 @@
-Ancistrum nuculae Fenchel, 1965 SPECIES
-=======
+# Ancistrum nuculae Fenchel, 1965 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lichen jacquinii J.F. Gmel. SPECIES
-=======
+# Lichen jacquinii J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

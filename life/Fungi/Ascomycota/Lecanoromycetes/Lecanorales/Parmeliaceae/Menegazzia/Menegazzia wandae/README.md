@@ -1,5 +1,4 @@
-Menegazzia wandae Bjerke SPECIES
-=======
+# Menegazzia wandae Bjerke SPECIES
 
 #### Status
 ACCEPTED

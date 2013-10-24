@@ -1,5 +1,4 @@
-Pseudocercospora nephrolepidis R. Kirschner SPECIES
-=======
+# Pseudocercospora nephrolepidis R. Kirschner SPECIES
 
 #### Status
 ACCEPTED

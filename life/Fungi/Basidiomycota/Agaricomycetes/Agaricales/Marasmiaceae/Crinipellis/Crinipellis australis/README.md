@@ -1,5 +1,4 @@
-Crinipellis australis Grgur. SPECIES
-=======
+# Crinipellis australis Grgur. SPECIES
 
 #### Status
 ACCEPTED

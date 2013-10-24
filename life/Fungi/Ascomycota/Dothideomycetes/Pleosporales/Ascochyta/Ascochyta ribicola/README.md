@@ -1,5 +1,4 @@
-Ascochyta ribicola H.C. Greene SPECIES
-=======
+# Ascochyta ribicola H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo giloensis Cummins SPECIES
-=======
+# Uredo giloensis Cummins SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Pseudopyrenula deightoni C.W. Dodge SPECIES
-=======
+# Pseudopyrenula deightonii C.W. Dodge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pseudopyrenula deightoni C.W. Dodge
+Pseudopyrenula deightonii C.W. Dodge
 
 ### Remarks
 null

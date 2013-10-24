@@ -1,5 +1,4 @@
-Bacidia prasina (Tuck.) Zahlbr. SPECIES
-=======
+# Bacidia prasina (Tuck.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

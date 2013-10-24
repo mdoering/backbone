@@ -1,5 +1,4 @@
-Pleurocytospora lycii Petr. SPECIES
-=======
+# Pleurocytospora lycii Petr. SPECIES
 
 #### Status
 ACCEPTED

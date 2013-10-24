@@ -1,5 +1,4 @@
-Asteroma nervisequum (DC.) Fr. SPECIES
-=======
+# Asteroma nervisequum (DC.) Fr. SPECIES
 
 #### Status
 ACCEPTED

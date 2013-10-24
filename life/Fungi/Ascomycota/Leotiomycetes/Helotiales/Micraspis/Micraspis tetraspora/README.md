@@ -1,5 +1,4 @@
-Micraspis tetraspora Graddon, 1984 SPECIES
-=======
+# Micraspis tetraspora Graddon, 1984 SPECIES
 
 #### Status
 ACCEPTED

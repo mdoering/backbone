@@ -1,5 +1,4 @@
-Pyxine vermiformis Swinscow & Krog SPECIES
-=======
+# Pyxine vermiformis Swinscow & Krog SPECIES
 
 #### Status
 ACCEPTED

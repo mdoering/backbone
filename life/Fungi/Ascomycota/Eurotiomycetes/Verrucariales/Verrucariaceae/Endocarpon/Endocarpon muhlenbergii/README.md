@@ -1,8 +1,7 @@
-Endocarpon muehlenbergii Ach. SPECIES
-=======
+# Endocarpon muhlenbergii Ach. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Endocarpon muehlenbergii Ach.
+Endocarpon muhlenbergii Ach.
 
 ### Remarks
 null

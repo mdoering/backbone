@@ -1,5 +1,4 @@
-Tintinnus perminutus Kofoid & Campbell, 1929 SPECIES
-=======
+# Tintinnus perminutus Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Harpezomyces GENUS
-=======
+# Harpezomyces GENUS
 
 #### Status
 ACCEPTED

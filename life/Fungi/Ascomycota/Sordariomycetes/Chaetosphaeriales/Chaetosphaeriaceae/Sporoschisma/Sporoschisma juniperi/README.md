@@ -1,5 +1,4 @@
-Sporoschisma juniperi Lind & Vleugel SPECIES
-=======
+# Sporoschisma juniperi Lind & Vleugel SPECIES
 
 #### Status
 ACCEPTED

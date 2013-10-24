@@ -1,5 +1,4 @@
-Peziza laeticolor Berk. & Broome SPECIES
-=======
+# Peziza laeticolor Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

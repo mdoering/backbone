@@ -1,5 +1,4 @@
-Monodictys abuensis (Chouhan & Panwar) V. Rao & de Hoog SPECIES
-=======
+# Monodictys abuensis (Chouhan & Panwar) V. Rao & de Hoog SPECIES
 
 #### Status
 ACCEPTED

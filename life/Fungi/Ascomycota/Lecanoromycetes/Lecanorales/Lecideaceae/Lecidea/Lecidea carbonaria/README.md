@@ -1,5 +1,4 @@
-Lecidea carbonaria (Wulfen) Clemente SPECIES
-=======
+# Lecidea carbonaria (Wulfen) Clemente SPECIES
 
 #### Status
 ACCEPTED

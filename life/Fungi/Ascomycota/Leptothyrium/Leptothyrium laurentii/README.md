@@ -1,8 +1,7 @@
-Leptothyrium laurenti Henn. SPECIES
-=======
+# Leptothyrium laurentii Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Leptothyrium laurenti Henn.
+Leptothyrium laurentii Henn.
 
 ### Remarks
 null

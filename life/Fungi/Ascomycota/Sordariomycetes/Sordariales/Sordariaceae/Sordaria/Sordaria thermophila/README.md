@@ -1,5 +1,4 @@
-Sordaria thermophila Fields SPECIES
-=======
+# Sordaria thermophila Fields SPECIES
 
 #### Status
 ACCEPTED

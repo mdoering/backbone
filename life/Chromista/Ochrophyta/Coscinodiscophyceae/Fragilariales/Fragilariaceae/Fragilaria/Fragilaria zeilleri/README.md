@@ -1,5 +1,4 @@
-Fragilaria zeilleri var. elliptica Héribaud VARIETY
-=======
+# Fragilaria zeilleri SPECIES
 
 #### Status
 ACCEPTED

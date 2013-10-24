@@ -1,5 +1,4 @@
-Phaeographina faurieana Zahlbr. SPECIES
-=======
+# Phaeographina faurieana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

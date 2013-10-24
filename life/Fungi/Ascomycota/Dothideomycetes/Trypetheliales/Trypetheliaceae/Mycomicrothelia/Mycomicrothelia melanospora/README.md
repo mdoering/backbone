@@ -1,5 +1,4 @@
-Mycomicrothelia melanospora (Hepp) D. Hawksw. SPECIES
-=======
+# Mycomicrothelia melanospora (Hepp) D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

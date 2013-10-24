@@ -1,17 +1,16 @@
-Thysanothecium hyalinum f. hyalinum (Taylor) Nyl. FORM
-=======
+# Thysanothecium scutellatum (Fr.) D. J. Galloway SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mém. Soc. natn. Sci. nat. math. Cherbourg 5: 94 (1857)
+in Galloway & Bartlett, Nova Hedwigia 36(2-4): 390 (1983)
 
 #### Original name
-Thysanothecium hyalinum f. hyalinum (Taylor) Nyl.
+Cladonia scutellata Fr.
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Trypethelium anomalum var. anomalum VARIETY
-=======
+# Pyrenula anomala (Ach.) Vain. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syn. meth. lich. 105 (1814)
+null
 
 #### Original name
-Trypethelium anomalum var. anomalum
+Trypethelium anomalum Ach.
 
 ### Remarks
 null

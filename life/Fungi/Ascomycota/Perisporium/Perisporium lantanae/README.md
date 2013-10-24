@@ -1,5 +1,4 @@
-Perisporium lantanae Henn. SPECIES
-=======
+# Perisporium lantanae Henn. SPECIES
 
 #### Status
 ACCEPTED

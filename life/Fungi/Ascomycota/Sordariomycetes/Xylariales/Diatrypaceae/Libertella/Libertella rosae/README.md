@@ -1,14 +1,13 @@
-Naemaspora rosae (Desm.) Fr., 1832 SPECIES
-=======
+# Libertella rosae Desm., 1830 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syst. mycol. (Lundae) 3(2): 479 (1832)
+Annls Sci. Nat. , Bot. , sér. 1 19: 277 (1830)
 
 #### Original name
 Libertella rosae Desm., 1830

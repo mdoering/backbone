@@ -1,5 +1,4 @@
-Limacella alachuana (Murrill) Pegler SPECIES
-=======
+# Limacella alachuana (Murrill) Pegler SPECIES
 
 #### Status
 ACCEPTED

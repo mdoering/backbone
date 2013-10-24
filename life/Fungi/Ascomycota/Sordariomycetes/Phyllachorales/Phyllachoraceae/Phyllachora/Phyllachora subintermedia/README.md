@@ -1,5 +1,4 @@
-Phyllachora subintermedia Trotter SPECIES
-=======
+# Phyllachora subintermedia Trotter SPECIES
 
 #### Status
 ACCEPTED

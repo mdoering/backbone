@@ -1,5 +1,4 @@
-Monosporium crustaceum P. Karst. SPECIES
-=======
+# Monosporium crustaceum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

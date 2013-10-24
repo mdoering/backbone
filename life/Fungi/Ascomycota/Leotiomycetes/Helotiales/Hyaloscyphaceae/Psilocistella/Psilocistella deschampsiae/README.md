@@ -1,5 +1,4 @@
-Psilocistella deschampsiae Gamundí & Spinedi SPECIES
-=======
+# Psilocistella deschampsiae Gamundí & Spinedi SPECIES
 
 #### Status
 ACCEPTED

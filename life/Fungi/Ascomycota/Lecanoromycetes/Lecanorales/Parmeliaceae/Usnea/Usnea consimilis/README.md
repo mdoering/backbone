@@ -1,5 +1,4 @@
-Usnea consimilis Stirt. SPECIES
-=======
+# Usnea consimilis Stirt. SPECIES
 
 #### Status
 ACCEPTED

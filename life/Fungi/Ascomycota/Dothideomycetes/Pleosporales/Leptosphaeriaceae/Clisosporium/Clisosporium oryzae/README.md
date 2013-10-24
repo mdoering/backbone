@@ -1,5 +1,4 @@
-Clisosporium oryzae (Cavara) Kuntze SPECIES
-=======
+# Clisosporium oryzae (Cavara) Kuntze SPECIES
 
 #### Status
 ACCEPTED

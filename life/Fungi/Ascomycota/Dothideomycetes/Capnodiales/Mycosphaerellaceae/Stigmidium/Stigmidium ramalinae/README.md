@@ -1,5 +1,4 @@
-Stigmidium ramalinae (Müll. Arg.) Etayo & Diederich SPECIES
-=======
+# Stigmidium ramalinae (Müll. Arg.) Etayo & Diederich SPECIES
 
 #### Status
 ACCEPTED

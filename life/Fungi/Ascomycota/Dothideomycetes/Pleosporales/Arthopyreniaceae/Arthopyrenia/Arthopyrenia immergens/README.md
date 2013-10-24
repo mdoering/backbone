@@ -1,5 +1,4 @@
-Arthopyrenia immergens H. Olivier SPECIES
-=======
+# Arthopyrenia immergens H. Olivier SPECIES
 
 #### Status
 ACCEPTED

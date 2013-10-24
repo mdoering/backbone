@@ -1,5 +1,4 @@
-Asterina myriadea Cooke SPECIES
-=======
+# Asterina myriadea Cooke SPECIES
 
 #### Status
 ACCEPTED

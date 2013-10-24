@@ -1,5 +1,4 @@
-Baltisphaeridium annelieae Kjellström, 1976 emend. Bockelie & Kjellström, 1979 emend. Turner, 1984 SPECIES
-=======
+# Baltisphaeridium annelieae Kjellström, 1976 emend. Bockelie & Kjellström, 1979 emend. Turner, 1984 SPECIES
 
 #### Status
 ACCEPTED

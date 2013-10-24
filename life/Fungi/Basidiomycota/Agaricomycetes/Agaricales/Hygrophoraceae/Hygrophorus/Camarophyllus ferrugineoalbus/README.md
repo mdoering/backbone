@@ -1,5 +1,4 @@
-Camarophyllus ferrugineoalbus (Singer) Singer SPECIES
-=======
+# Camarophyllus ferrugineoalbus (Singer) Singer SPECIES
 
 #### Status
 ACCEPTED

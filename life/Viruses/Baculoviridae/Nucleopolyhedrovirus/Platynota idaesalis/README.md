@@ -1,5 +1,4 @@
-Platynota idaesalis Npv SPECIES
-=======
+# Platynota idaesalis Npv SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bradyrhizobium Jordan, 1982 GENUS
-=======
+# Bradyrhizobium Jordan, 1982 GENUS
 
 #### Status
 ACCEPTED

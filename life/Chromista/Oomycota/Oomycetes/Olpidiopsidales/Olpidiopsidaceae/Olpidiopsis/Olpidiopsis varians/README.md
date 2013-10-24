@@ -1,5 +1,4 @@
-Olpidiopsis varians Shanor, 1939 SPECIES
-=======
+# Olpidiopsis varians Shanor, 1939 SPECIES
 
 #### Status
 ACCEPTED

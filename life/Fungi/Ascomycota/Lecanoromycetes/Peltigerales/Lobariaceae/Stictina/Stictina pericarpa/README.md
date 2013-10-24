@@ -1,5 +1,4 @@
-Stictina pericarpa (Nyl.) Nyl. SPECIES
-=======
+# Stictina pericarpa (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

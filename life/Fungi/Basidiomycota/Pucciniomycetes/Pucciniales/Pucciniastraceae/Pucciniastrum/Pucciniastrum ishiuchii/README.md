@@ -1,5 +1,4 @@
-Pucciniastrum ishiuchii Hirats. f. SPECIES
-=======
+# Pucciniastrum ishiuchii Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

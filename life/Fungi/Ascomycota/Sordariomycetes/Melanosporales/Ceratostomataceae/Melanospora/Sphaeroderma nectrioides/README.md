@@ -1,5 +1,4 @@
-Sphaeroderma nectrioides Marchal SPECIES
-=======
+# Sphaeroderma nectrioides Marchal SPECIES
 
 #### Status
 ACCEPTED

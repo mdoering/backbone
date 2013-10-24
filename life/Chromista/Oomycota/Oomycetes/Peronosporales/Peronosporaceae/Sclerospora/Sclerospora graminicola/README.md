@@ -1,17 +1,16 @@
-Sclerospora graminicola var. graminicola (Sacc.) J. Schröt. VARIETY
-=======
+# Sclerospora graminicola (Sacc.) J. Schröt., 1886 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 in Cohn, Krypt. -Fl. Schlesien (Breslau) 3. 1(916): 236 (1886)
 
 #### Original name
-Sclerospora graminicola var. graminicola (Sacc.) J. Schröt.
+Protomyces graminicola Sacc., 1876
 
 ### Remarks
 null

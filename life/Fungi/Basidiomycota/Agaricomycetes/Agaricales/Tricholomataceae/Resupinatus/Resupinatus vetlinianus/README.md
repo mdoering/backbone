@@ -1,5 +1,4 @@
-Resupinatus vetlinianus (Domanski) M.M. Moser SPECIES
-=======
+# Resupinatus vetlinianus (Domanski) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

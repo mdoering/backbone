@@ -1,5 +1,4 @@
-Stilbum sebaceum Ellis & Everh. SPECIES
-=======
+# Stilbum sebaceum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

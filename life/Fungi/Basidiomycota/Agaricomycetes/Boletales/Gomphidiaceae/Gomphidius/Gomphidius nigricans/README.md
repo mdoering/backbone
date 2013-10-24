@@ -1,5 +1,4 @@
-Gomphidius nigricans Peck SPECIES
-=======
+# Gomphidius nigricans Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymella vodakii E. Müll., 1953 SPECIES
-=======
+# Didymella vodakii E. Müll., 1953 SPECIES
 
 #### Status
 ACCEPTED

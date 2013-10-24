@@ -1,5 +1,4 @@
-Microascus Zukal, 1885 GENUS
-=======
+# Microascus Zukal, 1885 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cytospora variispora Gvrit. SPECIES
-=======
+# Cytospora variispora Gvrit. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peltigera latiloba Holt.-Hartw. SPECIES
-=======
+# Peltigera latiloba Holt.-Hartw. SPECIES
 
 #### Status
 ACCEPTED

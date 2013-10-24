@@ -1,17 +1,16 @@
-Cenangium balsameum var. balsameum VARIETY
-=======
+# Dermea balsamea (Peck) Seaver, 1932 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Dodge, Mycologia 24(5): 427 (1932)
 
 #### Original name
-Cenangium balsameum var. balsameum
+Cenangium balsameum Peck, 1885
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Entoloma testaceum var. bavaricum Noordel. & Wölfel VARIETY
-=======
+# Entoloma testaceum (Bres.) Noordel., 1987 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Noordeloos, Beih. Nova Hedwigia 91: 85 (1987)
+Beih. Nova Hedwigia 91: 83 (1987)
 
 #### Original name
-Entoloma testaceum var. bavaricum Noordel. & Wölfel
+Nolanea cetrata var. testacea Bres., 1881
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Aulacoseira canadensis (Hustedt) Simonsen SPECIES
-=======
+# Aulacoseira canadensis (Hustedt) Simonsen SPECIES
 
 #### Status
 ACCEPTED

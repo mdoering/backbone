@@ -1,17 +1,16 @@
-Ochrolechia parella subsp. parella SUBSPECIES
-=======
+# Ochrolechia parella (L.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Ric. auton. lich. crost. (Verona) 30 (1852)
 
 #### Original name
-Ochrolechia parella subsp. parella
+Lichen parellus L.
 
 ### Remarks
 null

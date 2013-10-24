@@ -1,5 +1,4 @@
-Gyrophora sclerophylla (Nyl.) Nyl. SPECIES
-=======
+# Gyrophora sclerophylla (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

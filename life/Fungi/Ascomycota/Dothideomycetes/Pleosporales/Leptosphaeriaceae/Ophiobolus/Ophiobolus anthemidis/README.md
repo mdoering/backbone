@@ -1,5 +1,4 @@
-Ophiobolus anthemidis Syd., 1924 SPECIES
-=======
+# Ophiobolus anthemidis Syd., 1924 SPECIES
 
 #### Status
 ACCEPTED

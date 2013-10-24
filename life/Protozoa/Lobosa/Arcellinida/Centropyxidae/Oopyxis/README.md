@@ -1,5 +1,4 @@
-Oopyxis Jung, 1942 GENUS
-=======
+# Oopyxis Jung, 1942 GENUS
 
 #### Status
 ACCEPTED

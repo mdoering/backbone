@@ -1,5 +1,4 @@
-Claudopus fuscolamellosus Petch SPECIES
-=======
+# Claudopus fuscolamellosus Petch SPECIES
 
 #### Status
 ACCEPTED

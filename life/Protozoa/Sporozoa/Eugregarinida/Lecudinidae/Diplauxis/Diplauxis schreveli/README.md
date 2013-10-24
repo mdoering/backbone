@@ -1,5 +1,4 @@
-Diplauxis schreveli Porchet-Hemeré & Fischer, 1973 SPECIES
-=======
+# Diplauxis schreveli Porchet-Hemeré & Fischer, 1973 SPECIES
 
 #### Status
 ACCEPTED

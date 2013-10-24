@@ -1,5 +1,4 @@
-Tripospermum cupaniae (Gonz. Frag. & Cif.) Cif., Bat. & Nascim. SPECIES
-=======
+# Tripospermum cupaniae (Gonz. Frag. & Cif.) Cif., Bat. & Nascim. SPECIES
 
 #### Status
 ACCEPTED

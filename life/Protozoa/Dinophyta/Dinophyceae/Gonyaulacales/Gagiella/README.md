@@ -1,5 +1,4 @@
-Gagiella Backhouse, 1988 GENUS
-=======
+# Gagiella Backhouse, 1988 GENUS
 
 #### Status
 ACCEPTED

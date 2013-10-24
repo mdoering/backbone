@@ -1,5 +1,4 @@
-Polystictus versatilis (Berk.) Cooke SPECIES
-=======
+# Polystictus versatilis (Berk.) Cooke SPECIES
 
 #### Status
 ACCEPTED

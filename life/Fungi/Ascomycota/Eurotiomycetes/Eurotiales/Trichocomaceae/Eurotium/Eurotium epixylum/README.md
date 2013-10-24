@@ -1,5 +1,4 @@
-Eurotium epixylum Kunze & J.C. Schmidt ex Wallr. SPECIES
-=======
+# Eurotium epixylum Kunze & J.C. Schmidt ex Wallr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parastenella aequatoriensis (Petr.) K. Schub. & U. Braun, 2005 SPECIES
-=======
+# Parastenella aequatoriensis (Petr.) K. Schub. & U. Braun, 2005 SPECIES
 
 #### Status
 ACCEPTED

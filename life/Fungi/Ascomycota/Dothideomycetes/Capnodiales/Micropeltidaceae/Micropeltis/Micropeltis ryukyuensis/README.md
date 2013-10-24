@@ -1,5 +1,4 @@
-Micropeltis ryukyuensis I. Hino & Katum. SPECIES
-=======
+# Micropeltis ryukyuensis I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

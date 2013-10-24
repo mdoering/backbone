@@ -1,5 +1,4 @@
-Leptosphaeria muehlenbeckiae Vaidehi SPECIES
-=======
+# Leptosphaeria muehlenbeckiae Vaidehi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterisca cinchonarum (Fée) Spreng. SPECIES
-=======
+# Asterisca cinchonarum (Fée) Spreng. SPECIES
 
 #### Status
 ACCEPTED

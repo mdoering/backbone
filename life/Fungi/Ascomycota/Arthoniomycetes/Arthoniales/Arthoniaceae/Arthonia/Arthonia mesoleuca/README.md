@@ -1,5 +1,4 @@
-Arthonia mesoleuca Nyl. SPECIES
-=======
+# Arthonia mesoleuca Nyl. SPECIES
 
 #### Status
 ACCEPTED

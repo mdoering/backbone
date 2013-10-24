@@ -1,5 +1,4 @@
-Porina porphyria Riehm. SPECIES
-=======
+# Porina porphyria Riehm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calostoma rodwayi Lloyd, 1925 SPECIES
-=======
+# Calostoma rodwayi Lloyd, 1925 SPECIES
 
 #### Status
 ACCEPTED

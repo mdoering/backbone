@@ -1,5 +1,4 @@
-Myceliophthora indica M. Basu SPECIES
-=======
+# Myceliophthora indica M. Basu SPECIES
 
 #### Status
 ACCEPTED

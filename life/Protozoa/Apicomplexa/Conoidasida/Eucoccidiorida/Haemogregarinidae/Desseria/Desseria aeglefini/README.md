@@ -1,8 +1,7 @@
-Haemogregarina urophysis Fantham, Porter & Richardson, 1942 SPECIES
-=======
+# Desseria aeglefini (Henry, 1913) Siddall, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

@@ -1,5 +1,4 @@
-Thamnolecania fuegiensis C.W. Dodge SPECIES
-=======
+# Thamnolecania fuegiensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

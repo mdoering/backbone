@@ -1,5 +1,4 @@
-Micromyces furcatus Rieth SPECIES
-=======
+# Micromyces furcatus Rieth SPECIES
 
 #### Status
 ACCEPTED

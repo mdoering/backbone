@@ -1,5 +1,4 @@
-Pseudocercospora viburni U. Braun SPECIES
-=======
+# Pseudocercospora viburni U. Braun SPECIES
 
 #### Status
 ACCEPTED

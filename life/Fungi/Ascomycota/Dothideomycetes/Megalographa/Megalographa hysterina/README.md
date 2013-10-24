@@ -1,5 +1,4 @@
-Megalographa hysterina Massee SPECIES
-=======
+# Megalographa hysterina Massee SPECIES
 
 #### Status
 ACCEPTED

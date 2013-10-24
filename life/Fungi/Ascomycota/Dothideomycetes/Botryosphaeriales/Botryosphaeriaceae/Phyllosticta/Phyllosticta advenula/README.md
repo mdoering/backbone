@@ -1,5 +1,4 @@
-Phyllosticta advenula Sacc. SPECIES
-=======
+# Phyllosticta advenula Sacc. SPECIES
 
 #### Status
 ACCEPTED

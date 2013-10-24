@@ -1,5 +1,4 @@
-Cortinarius albocyaneus f. albocyaneus FORM
-=======
+# Cortinarius albocyaneus Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Monogr. Hymenomyc. Suec. (Upsaliae) 2(2): 62 (1863)
 
 #### Original name
-Cortinarius albocyaneus f. albocyaneus
+Cortinarius albocyaneus Fr.
 
 ### Remarks
 null

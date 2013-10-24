@@ -1,5 +1,4 @@
-Aulacodiscus tenuis N. I. Strelnikova SPECIES
-=======
+# Aulacodiscus tenuis N. I. Strelnikova SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lichenochora heppiae Cl. Roux, 1994 SPECIES
-=======
+# Lichenochora heppiae Cl. Roux, 1994 SPECIES
 
 #### Status
 ACCEPTED

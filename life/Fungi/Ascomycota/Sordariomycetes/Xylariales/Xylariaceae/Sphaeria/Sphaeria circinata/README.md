@@ -1,5 +1,4 @@
-Sphaeria circinata Fuckel SPECIES
-=======
+# Sphaeria circinata Fuckel SPECIES
 
 #### Status
 ACCEPTED

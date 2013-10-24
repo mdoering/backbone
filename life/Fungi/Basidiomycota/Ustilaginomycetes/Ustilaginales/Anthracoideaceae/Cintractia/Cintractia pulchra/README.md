@@ -1,5 +1,4 @@
-Cintractia pulchra S. Ito SPECIES
-=======
+# Cintractia pulchra S. Ito SPECIES
 
 #### Status
 ACCEPTED

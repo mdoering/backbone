@@ -1,5 +1,4 @@
-Helvella calyciformis Batsch SPECIES
-=======
+# Helvella calyciformis Batsch SPECIES
 
 #### Status
 ACCEPTED

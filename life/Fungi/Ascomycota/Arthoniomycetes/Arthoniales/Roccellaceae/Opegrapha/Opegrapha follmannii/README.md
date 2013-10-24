@@ -1,5 +1,4 @@
-Opegrapha follmannii C.W. Dodge SPECIES
-=======
+# Opegrapha follmannii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

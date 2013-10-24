@@ -1,17 +1,16 @@
-Scirrhodothis Theiss. & Syd. GENUS
-=======
+# Metameris Theissen & Sydow, 1915 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Annls mycol. 13(3/4): 415 (1915)
+null
 
 #### Original name
-Scirrhodothis Theiss. & Syd.
+null
 
 ### Remarks
 null

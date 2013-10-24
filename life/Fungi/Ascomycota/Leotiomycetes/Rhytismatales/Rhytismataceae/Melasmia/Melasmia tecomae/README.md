@@ -1,5 +1,4 @@
-Melasmia tecomae Cooke & Massee SPECIES
-=======
+# Melasmia tecomae Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

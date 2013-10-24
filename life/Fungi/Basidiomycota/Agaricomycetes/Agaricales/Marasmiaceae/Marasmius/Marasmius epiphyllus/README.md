@@ -1,17 +1,16 @@
-Marasmius epiphyllus var. congolensis Beeli VARIETY
-=======
+# Marasmius epiphyllus (Pers.) Fr., 1838 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. R. Bot. Belg. 60(2): 159 (1928)
+Epicr. syst. mycol. (Upsaliae) 386 (1838)
 
 #### Original name
-Marasmius epiphyllus var. congolensis Beeli
+Agaricus epiphyllus Bull., 1792
 
 ### Remarks
 null

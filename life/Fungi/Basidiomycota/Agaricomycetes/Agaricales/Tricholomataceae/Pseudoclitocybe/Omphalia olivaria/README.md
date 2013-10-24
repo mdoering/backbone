@@ -1,5 +1,4 @@
-Omphalia olivaria (Peck) Sacc. SPECIES
-=======
+# Omphalia olivaria (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

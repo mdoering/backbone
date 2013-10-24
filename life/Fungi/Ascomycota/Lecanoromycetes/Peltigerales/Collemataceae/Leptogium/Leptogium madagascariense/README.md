@@ -1,8 +1,7 @@
-Leptogium madagascarense C.W. Dodge SPECIES
-=======
+# Leptogium madagascariense C.W. Dodge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Leptogium madagascarense C.W. Dodge
+Leptogium madagascariense C.W. Dodge
 
 ### Remarks
 null

@@ -1,8 +1,7 @@
-Biatora obscurella (Sommerf.) Arnold, 1873 SPECIES
-=======
+# Biatora tetramera (De Not.) Coppins, 1992 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

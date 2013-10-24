@@ -1,5 +1,4 @@
-Ascochyta rumicicola Vasyag. SPECIES
-=======
+# Ascochyta rumicicola Vasyag. SPECIES
 
 #### Status
 ACCEPTED

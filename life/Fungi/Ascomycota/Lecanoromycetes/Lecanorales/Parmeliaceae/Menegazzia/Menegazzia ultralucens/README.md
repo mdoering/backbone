@@ -1,5 +1,4 @@
-Menegazzia ultralucens P. James & D. J. Galloway SPECIES
-=======
+# Menegazzia ultralucens P. James & D. J. Galloway SPECIES
 
 #### Status
 ACCEPTED

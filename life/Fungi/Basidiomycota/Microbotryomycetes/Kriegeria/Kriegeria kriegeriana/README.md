@@ -1,5 +1,4 @@
-Kriegeria kriegeriana (Rabenh.) Seaver SPECIES
-=======
+# Kriegeria kriegeriana (Rabenh.) Seaver SPECIES
 
 #### Status
 ACCEPTED

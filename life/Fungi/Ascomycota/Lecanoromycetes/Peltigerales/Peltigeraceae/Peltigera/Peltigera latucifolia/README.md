@@ -1,5 +1,4 @@
-Peltigera latucifolia (With.) J.R. Laundon SPECIES
-=======
+# Peltigera latucifolia (With.) J.R. Laundon SPECIES
 
 #### Status
 ACCEPTED

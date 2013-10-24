@@ -1,5 +1,4 @@
-Peziza subcupularis Rehm SPECIES
-=======
+# Peziza subcupularis Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rickia pallescens Thaxt. SPECIES
-=======
+# Rickia pallescens Thaxt. SPECIES
 
 #### Status
 ACCEPTED

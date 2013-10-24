@@ -1,5 +1,4 @@
-Papulaspora dubia Sacc. SPECIES
-=======
+# Papulaspora dubia Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Planktolyngbya regularis J. Komárková-Legnerová¡ & R. Tavera SPECIES
-=======
+# Planktolyngbya regularis J. Komárková-Legnerová¡ & R. Tavera SPECIES
 
 #### Status
 ACCEPTED

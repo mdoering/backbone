@@ -1,5 +1,4 @@
-Valsa pini (Alb. & Schwein.) Fr., 1849 SPECIES
-=======
+# Valsa pini (Alb. & Schwein.) Fr., 1849 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces clignyioides Gjaerum, 1988 SPECIES
-=======
+# Uromyces clignyioides Gjaerum, 1988 SPECIES
 
 #### Status
 ACCEPTED

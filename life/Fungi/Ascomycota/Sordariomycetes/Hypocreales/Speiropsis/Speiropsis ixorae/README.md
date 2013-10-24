@@ -1,5 +1,4 @@
-Speiropsis ixorae Subram. & Sudha SPECIES
-=======
+# Speiropsis ixorae Subram. & Sudha SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ectostroma oryzae Sawada SPECIES
-=======
+# Ectostroma oryzae Sawada SPECIES
 
 #### Status
 ACCEPTED

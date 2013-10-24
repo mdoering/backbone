@@ -1,8 +1,7 @@
-Nautilus orbiculus Forskal, 1775 SPECIES
-=======
+# Sorites orbiculus (Forskal, 1775) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

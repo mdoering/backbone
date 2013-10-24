@@ -1,5 +1,4 @@
-Parasterina nycticaliae (H.S. Yates) J.M. Mend. SPECIES
-=======
+# Parasterina nycticaliae (H.S. Yates) J.M. Mend. SPECIES
 
 #### Status
 ACCEPTED

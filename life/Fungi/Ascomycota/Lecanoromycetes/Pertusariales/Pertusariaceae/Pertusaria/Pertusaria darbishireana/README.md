@@ -1,5 +1,4 @@
-Pertusaria darbishireana f. phaeizans (Zahlbr.) Zahlbr. FORM
-=======
+# Pertusaria darbishireana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-null
+Pertusaria darbishireana Zahlbr.
 
 ### Remarks
 null

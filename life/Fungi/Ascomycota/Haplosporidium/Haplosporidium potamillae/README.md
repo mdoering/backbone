@@ -1,5 +1,4 @@
-Haplosporidium potamillae Mesnil & Caullery SPECIES
-=======
+# Haplosporidium potamillae Mesnil & Caullery SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Botryosphaeria parkensonii Tilak & Gaikwad, 1974 SPECIES
-=======
+# Botryosphaeria parkinsoniae Tilak & Gaikwad, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Botanique, Nagpur 5(2): 116 (1974)
 
 #### Original name
-Botryosphaeria parkensonii Tilak & Gaikwad, 1974
+Botryosphaeria parkinsoniae Tilak & Gaikwad, 1974
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Phoma cymbispora (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Phoma cymbispora (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

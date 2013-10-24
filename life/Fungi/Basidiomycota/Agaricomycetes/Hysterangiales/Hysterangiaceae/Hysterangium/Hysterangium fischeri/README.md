@@ -1,5 +1,4 @@
-Hysterangium fischeri Zeller & C.W. Dodge SPECIES
-=======
+# Hysterangium fischeri Zeller & C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

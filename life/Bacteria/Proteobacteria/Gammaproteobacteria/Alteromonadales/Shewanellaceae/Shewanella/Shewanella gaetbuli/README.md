@@ -1,5 +1,4 @@
-Shewanella gaetbuli Yoon et al., 2004 SPECIES
-=======
+# Shewanella gaetbuli Yoon et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

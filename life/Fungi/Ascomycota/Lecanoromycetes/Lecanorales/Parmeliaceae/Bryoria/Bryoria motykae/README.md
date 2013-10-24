@@ -1,5 +1,4 @@
-Bryoria motykae (D. Hawksw.) Brodo & D. Hawksw. SPECIES
-=======
+# Bryoria motykae (D. Hawksw.) Brodo & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

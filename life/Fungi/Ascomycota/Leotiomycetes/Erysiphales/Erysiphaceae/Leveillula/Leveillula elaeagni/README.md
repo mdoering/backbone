@@ -1,5 +1,4 @@
-Leveillula elaeagni (Jacz.) Simonyan & V.P. Heluta SPECIES
-=======
+# Leveillula elaeagni (Jacz.) Simonyan & V.P. Heluta SPECIES
 
 #### Status
 ACCEPTED

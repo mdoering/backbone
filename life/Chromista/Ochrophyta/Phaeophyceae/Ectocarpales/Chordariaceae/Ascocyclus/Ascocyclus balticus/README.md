@@ -1,5 +1,4 @@
-Ascocyclus balticus Jack SPECIES
-=======
+# Ascocyclus balticus Jack SPECIES
 
 #### Status
 ACCEPTED

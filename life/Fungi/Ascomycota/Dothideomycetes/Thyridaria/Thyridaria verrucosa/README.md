@@ -1,5 +1,4 @@
-Thyridaria verrucosa Aebi, Harr, E. Müll. & Ouell. SPECIES
-=======
+# Thyridaria verrucosa Aebi, Harr, E. Müll. & Ouell. SPECIES
 
 #### Status
 ACCEPTED

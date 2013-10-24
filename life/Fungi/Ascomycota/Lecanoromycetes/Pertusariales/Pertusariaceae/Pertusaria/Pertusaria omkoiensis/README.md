@@ -1,5 +1,4 @@
-Pertusaria omkoiensis Jariangpr. & A.W. Archer SPECIES
-=======
+# Pertusaria omkoiensis Jariangpr. & A.W. Archer SPECIES
 
 #### Status
 ACCEPTED

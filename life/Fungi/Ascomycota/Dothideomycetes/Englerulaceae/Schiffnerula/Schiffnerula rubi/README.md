@@ -1,5 +1,4 @@
-Schiffnerula rubi Syd. SPECIES
-=======
+# Schiffnerula rubi Syd. SPECIES
 
 #### Status
 ACCEPTED

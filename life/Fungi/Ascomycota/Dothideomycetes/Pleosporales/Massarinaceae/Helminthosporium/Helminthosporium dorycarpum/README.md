@@ -1,17 +1,16 @@
-Pleurophragmium dorycarpum var. dorycarpum (Mont.) S. Hughes VARIETY
-=======
+# Helminthosporium dorycarpum Mont., 1842 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 36: 797 (1958)
+in Sagra, Historia física, polirica y nayturál de la islea de Cuba 2: 302 (1842)
 
 #### Original name
-Pleurophragmium dorycarpum var. dorycarpum (Mont.) S. Hughes
+Helminthosporium dorycarpum Mont., 1842
 
 ### Remarks
 null

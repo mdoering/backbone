@@ -1,5 +1,4 @@
-Cercospora ehretiae Togashi & Katsuki SPECIES
-=======
+# Cercospora ehretiae Togashi & Katsuki SPECIES
 
 #### Status
 ACCEPTED

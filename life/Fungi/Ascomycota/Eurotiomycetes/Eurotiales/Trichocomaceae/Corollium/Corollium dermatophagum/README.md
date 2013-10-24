@@ -1,5 +1,4 @@
-Corollium dermatophagum Sopp SPECIES
-=======
+# Corollium dermatophagum Sopp SPECIES
 
 #### Status
 ACCEPTED

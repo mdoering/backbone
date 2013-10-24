@@ -1,5 +1,4 @@
-Microthelia palavana Vain. SPECIES
-=======
+# Microthelia palavana Vain. SPECIES
 
 #### Status
 ACCEPTED

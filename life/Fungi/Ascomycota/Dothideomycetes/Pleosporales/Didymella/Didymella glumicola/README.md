@@ -1,5 +1,4 @@
-Didymella glumicola Speg. SPECIES
-=======
+# Didymella glumicola Speg. SPECIES
 
 #### Status
 ACCEPTED

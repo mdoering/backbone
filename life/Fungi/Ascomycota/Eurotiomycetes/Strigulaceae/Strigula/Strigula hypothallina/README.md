@@ -1,5 +1,4 @@
-Strigula hypothallina R. C. Harris SPECIES
-=======
+# Strigula hypothallina R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

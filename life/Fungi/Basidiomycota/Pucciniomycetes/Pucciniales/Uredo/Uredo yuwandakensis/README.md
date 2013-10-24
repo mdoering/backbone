@@ -1,5 +1,4 @@
-Uredo yuwandakensis Morim. SPECIES
-=======
+# Uredo yuwandakensis Morim. SPECIES
 
 #### Status
 ACCEPTED

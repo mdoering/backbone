@@ -1,5 +1,4 @@
-Comatricha pseudoalpina G. Moreno, H. Singer, A. Sánchez & Illana, 2004 SPECIES
-=======
+# Comatricha pseudoalpina G. Moreno, H. Singer, A. Sánchez & Illana, 2004 SPECIES
 
 #### Status
 ACCEPTED

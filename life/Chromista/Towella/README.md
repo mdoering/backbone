@@ -1,5 +1,4 @@
-Towella Brönnimann & Whittaker, 1991 GENUS
-=======
+# Towella Brönnimann & Whittaker, 1991 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora annonae-squamosae U. Braun & R.F. Castañeda, 1989 SPECIES
-=======
+# Pseudocercospora annonae-squamosae U. Braun & R.F. Castañeda, 1989 SPECIES
 
 #### Status
 ACCEPTED

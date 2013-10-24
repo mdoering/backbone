@@ -1,5 +1,4 @@
-Urceolaria musiva (Zschacke) Motyka SPECIES
-=======
+# Urceolaria musiva (Zschacke) Motyka SPECIES
 
 #### Status
 ACCEPTED

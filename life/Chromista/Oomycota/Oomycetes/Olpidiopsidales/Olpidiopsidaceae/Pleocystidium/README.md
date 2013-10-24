@@ -1,17 +1,16 @@
-Pseudolpidiopsis Minden GENUS
-=======
+# Pleocystidium C. Fisch GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Krypt. -Fl. Brandenburg (Leipzig) 5: 255 (1911)
+Sitzungsber. Phys. -Med. Soc. Erlangen 16: 60 (1884)
 
 #### Original name
-Pseudolpidiopsis Minden
+Pleocystidium C. Fisch
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Glaucoma frontana Stokes, 1886 SPECIES
-=======
+# Glaucoma frontana Stokes, 1886 SPECIES
 
 #### Status
 ACCEPTED

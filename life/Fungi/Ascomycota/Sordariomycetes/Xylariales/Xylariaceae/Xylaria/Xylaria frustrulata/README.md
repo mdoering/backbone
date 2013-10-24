@@ -1,5 +1,4 @@
-Xylaria frustrulata Bat. & A.F. Vital SPECIES
-=======
+# Xylaria frustrulata Bat. & A.F. Vital SPECIES
 
 #### Status
 ACCEPTED

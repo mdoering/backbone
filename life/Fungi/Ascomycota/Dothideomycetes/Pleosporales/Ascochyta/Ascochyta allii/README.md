@@ -1,5 +1,4 @@
-Ascochyta allii Petr. SPECIES
-=======
+# Ascochyta allii Petr. SPECIES
 
 #### Status
 ACCEPTED

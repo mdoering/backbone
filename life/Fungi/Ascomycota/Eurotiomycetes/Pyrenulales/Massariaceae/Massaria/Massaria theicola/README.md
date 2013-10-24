@@ -1,5 +1,4 @@
-Massaria theicola Petch SPECIES
-=======
+# Massaria theicola Petch SPECIES
 
 #### Status
 ACCEPTED

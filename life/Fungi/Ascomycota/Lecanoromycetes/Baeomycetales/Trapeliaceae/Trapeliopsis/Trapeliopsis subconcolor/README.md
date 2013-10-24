@@ -1,5 +1,4 @@
-Trapeliopsis subconcolor (Anzi) Hertel SPECIES
-=======
+# Trapeliopsis subconcolor (Anzi) Hertel SPECIES
 
 #### Status
 ACCEPTED

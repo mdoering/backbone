@@ -1,5 +1,4 @@
-Cryptostictis cynosbati (Fuckel) Sacc. SPECIES
-=======
+# Cryptostictis cynosbati (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

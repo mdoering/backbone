@@ -1,5 +1,4 @@
-Monoicomyces falagriae Thaxt. SPECIES
-=======
+# Monoicomyces falagriae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

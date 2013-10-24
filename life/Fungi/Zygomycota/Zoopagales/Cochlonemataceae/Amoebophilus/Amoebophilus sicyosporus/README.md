@@ -1,5 +1,4 @@
-Amoebophilus sicyosporus Drechsler, 1961 SPECIES
-=======
+# Amoebophilus sicyosporus Drechsler, 1961 SPECIES
 
 #### Status
 ACCEPTED

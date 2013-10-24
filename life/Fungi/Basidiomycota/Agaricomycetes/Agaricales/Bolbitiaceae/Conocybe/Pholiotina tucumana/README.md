@@ -1,5 +1,4 @@
-Pholiotina tucumana Singer SPECIES
-=======
+# Pholiotina tucumana Singer SPECIES
 
 #### Status
 ACCEPTED

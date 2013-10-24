@@ -1,5 +1,4 @@
-Cortinarius punctatus var. punctatus (Pers.) Fr. VARIETY
-=======
+# Cortinarius punctatus (Pers.) Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Epicr. syst. mycol. (Upsaliae) 299 (1838)
 
 #### Original name
-Cortinarius punctatus var. punctatus (Pers.) Fr.
+Agaricus punctatus J.F. Gmel., 1792
 
 ### Remarks
 null

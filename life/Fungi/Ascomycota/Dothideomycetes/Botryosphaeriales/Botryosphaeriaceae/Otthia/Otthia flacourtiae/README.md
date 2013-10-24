@@ -1,5 +1,4 @@
-Otthia flacourtiae Joly {?} SPECIES
-=======
+# Otthia flacourtiae Joly {?} SPECIES
 
 #### Status
 ACCEPTED

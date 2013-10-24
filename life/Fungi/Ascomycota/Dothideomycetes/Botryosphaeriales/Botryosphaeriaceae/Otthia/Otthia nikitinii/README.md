@@ -1,5 +1,4 @@
-Otthia nikitinii Kravtzev SPECIES
-=======
+# Otthia nikitinii Kravtzev SPECIES
 
 #### Status
 ACCEPTED

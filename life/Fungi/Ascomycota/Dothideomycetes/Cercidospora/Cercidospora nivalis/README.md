@@ -1,5 +1,4 @@
-Cercidospora nivalis (Fuckel) Kuntze SPECIES
-=======
+# Cercidospora nivalis (Fuckel) Kuntze SPECIES
 
 #### Status
 ACCEPTED

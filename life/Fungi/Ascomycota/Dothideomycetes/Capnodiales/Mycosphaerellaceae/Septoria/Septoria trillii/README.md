@@ -1,5 +1,4 @@
-Septoria trillii Peck SPECIES
-=======
+# Septoria trillii Peck SPECIES
 
 #### Status
 ACCEPTED

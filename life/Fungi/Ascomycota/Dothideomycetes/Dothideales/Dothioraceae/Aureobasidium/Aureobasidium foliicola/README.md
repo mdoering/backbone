@@ -1,14 +1,13 @@
-Aureobasidium foliicolum (Oudem.) G.M. Muell. SPECIES
-=======
+# Aureobasidium foliicola (Oudem.) G.M. Muell. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Wiss. Z. Humboldt-Univ. Berl. 13: 859 (1964)
 
 #### Original name
 Sporotrichum foliicola Oudem.

@@ -1,5 +1,4 @@
-Planctomyces eudorinae M. Gimesi SPECIES
-=======
+# Planctomyces eudorinae M. Gimesi SPECIES
 
 #### Status
 ACCEPTED

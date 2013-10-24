@@ -1,5 +1,4 @@
-Macrosporium caudatum Cooke & Ellis SPECIES
-=======
+# Macrosporium caudatum Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

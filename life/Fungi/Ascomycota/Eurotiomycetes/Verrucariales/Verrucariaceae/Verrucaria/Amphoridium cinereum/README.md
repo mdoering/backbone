@@ -1,5 +1,4 @@
-Amphoridium cinereum A. Massal. SPECIES
-=======
+# Amphoridium cinereum A. Massal. SPECIES
 
 #### Status
 ACCEPTED

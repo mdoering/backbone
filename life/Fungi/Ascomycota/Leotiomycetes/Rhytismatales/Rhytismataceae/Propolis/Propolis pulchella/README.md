@@ -1,14 +1,13 @@
-Propolomyces pulchellus (Speg.) Gamundí, 1980 SPECIES
-=======
+# Propolis pulchella Speg., 1888 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 32(1-6): 106 (1980)
+Boletín de la Academia Nacional de Ciencias de Córdoba 11(2): 272 (1888)
 
 #### Original name
 Propolis pulchella Speg., 1888

@@ -1,5 +1,4 @@
-Lecanora inconnexa Nyl. SPECIES
-=======
+# Lecanora inconnexa Nyl. SPECIES
 
 #### Status
 ACCEPTED

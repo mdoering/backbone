@@ -1,5 +1,4 @@
-Uredo polytaenii F. Kern, Cif. & Thurst. SPECIES
-=======
+# Uredo polytaenii F. Kern, Cif. & Thurst. SPECIES
 
 #### Status
 ACCEPTED

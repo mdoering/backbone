@@ -1,5 +1,4 @@
-Meliola gamblei Hosag. SPECIES
-=======
+# Meliola gamblei Hosag. SPECIES
 
 #### Status
 ACCEPTED

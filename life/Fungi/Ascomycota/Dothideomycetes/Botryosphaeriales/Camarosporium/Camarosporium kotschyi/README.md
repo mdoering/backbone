@@ -1,5 +1,4 @@
-Camarosporium kotschyi Petr. SPECIES
-=======
+# Camarosporium kotschyi Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cerastoma Quélet, 1875 GENUS
-=======
+# Cerastoma Quélet, 1875 GENUS
 
 #### Status
 ACCEPTED

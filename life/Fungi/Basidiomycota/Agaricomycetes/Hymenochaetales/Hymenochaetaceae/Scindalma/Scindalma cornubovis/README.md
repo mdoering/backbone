@@ -1,5 +1,4 @@
-Scindalma cornubovis (Cooke) Kuntze SPECIES
-=======
+# Scindalma cornubovis (Cooke) Kuntze SPECIES
 
 #### Status
 ACCEPTED

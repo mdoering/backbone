@@ -1,5 +1,4 @@
-Geotrichum brocianum (Pinoy) Brumpt SPECIES
-=======
+# Geotrichum brocianum (Pinoy) Brumpt SPECIES
 
 #### Status
 ACCEPTED

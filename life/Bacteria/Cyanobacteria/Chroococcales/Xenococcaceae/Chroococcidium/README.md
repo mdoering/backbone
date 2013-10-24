@@ -1,5 +1,4 @@
-Chroococcidium Geitler, 1933 GENUS
-=======
+# Chroococcidium Geitler, 1933 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coriolopsis turgida (Lloyd) Teng SPECIES
-=======
+# Coriolopsis turgida (Lloyd) Teng SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buellia soredians Filson SPECIES
-=======
+# Buellia soredians Filson SPECIES
 
 #### Status
 ACCEPTED

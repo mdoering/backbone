@@ -1,5 +1,4 @@
-Corticium pteridophilum G. Cunn., 1963 SPECIES
-=======
+# Corticium pteridophilum G. Cunn., 1963 SPECIES
 
 #### Status
 ACCEPTED

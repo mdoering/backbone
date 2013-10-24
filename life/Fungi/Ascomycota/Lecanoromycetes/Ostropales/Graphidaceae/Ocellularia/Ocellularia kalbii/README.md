@@ -1,5 +1,4 @@
-Ocellularia kalbii Mangold, Elix & Lumbsch SPECIES
-=======
+# Ocellularia kalbii Mangold, Elix & Lumbsch SPECIES
 
 #### Status
 ACCEPTED

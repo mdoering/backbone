@@ -1,5 +1,4 @@
-Kocuria aegyptia Li et al., 2006 SPECIES
-=======
+# Kocuria aegyptia Li et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

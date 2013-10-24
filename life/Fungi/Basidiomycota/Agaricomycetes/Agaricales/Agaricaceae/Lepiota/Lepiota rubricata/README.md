@@ -1,5 +1,4 @@
-Lepiota rubricata Berk. & Broome SPECIES
-=======
+# Lepiota rubricata Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

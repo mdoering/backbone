@@ -1,5 +1,4 @@
-Samara vestita Benth. & Hook.f. ex Kurz SPECIES
-=======
+# Samara vestita Benth. & Hook.f. ex Kurz SPECIES
 
 #### Status
 ACCEPTED

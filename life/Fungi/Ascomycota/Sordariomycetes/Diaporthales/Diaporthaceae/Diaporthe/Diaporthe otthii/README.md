@@ -1,5 +1,4 @@
-Diaporthe otthii Nitschke SPECIES
-=======
+# Diaporthe otthii Nitschke SPECIES
 
 #### Status
 ACCEPTED

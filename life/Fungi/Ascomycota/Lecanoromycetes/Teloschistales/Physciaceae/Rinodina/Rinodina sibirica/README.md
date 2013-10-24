@@ -1,5 +1,4 @@
-Rinodina sibirica var. sibirica VARIETY
-=======
+# Rinodina sibirica H. Magn. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Rinodina sibirica var. sibirica
+Rinodina sibirica H. Magn.
 
 ### Remarks
 null

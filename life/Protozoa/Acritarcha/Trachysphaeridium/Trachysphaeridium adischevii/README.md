@@ -1,5 +1,4 @@
-Trachysphaeridium adischevii (Lopukhin, 1969) Fensome et al., 1990 SPECIES
-=======
+# Trachysphaeridium adischevii (Lopukhin, 1969) Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

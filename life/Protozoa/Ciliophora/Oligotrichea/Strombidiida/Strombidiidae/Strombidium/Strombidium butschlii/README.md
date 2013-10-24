@@ -1,5 +1,4 @@
-Strombidium butschlii SPECIES
-=======
+# Strombidium butschlii SPECIES
 
 #### Status
 ACCEPTED

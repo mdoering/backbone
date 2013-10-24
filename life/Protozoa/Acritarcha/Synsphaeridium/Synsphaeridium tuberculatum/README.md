@@ -1,5 +1,4 @@
-Synsphaeridium tuberculatum Eisenack, 1965 SPECIES
-=======
+# Synsphaeridium tuberculatum Eisenack, 1965 SPECIES
 
 #### Status
 ACCEPTED

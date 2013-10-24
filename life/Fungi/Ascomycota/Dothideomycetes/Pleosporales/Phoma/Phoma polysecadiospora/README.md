@@ -1,5 +1,4 @@
-Phoma polysecadiospora J.V. Almeida & Sousa da Câmara SPECIES
-=======
+# Phoma polysecadiospora J.V. Almeida & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

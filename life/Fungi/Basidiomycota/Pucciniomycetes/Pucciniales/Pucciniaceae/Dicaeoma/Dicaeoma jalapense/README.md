@@ -1,5 +1,4 @@
-Dicaeoma jalapense (Holw.) Arthur SPECIES
-=======
+# Dicaeoma jalapense (Holw.) Arthur SPECIES
 
 #### Status
 ACCEPTED

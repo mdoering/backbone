@@ -1,5 +1,4 @@
-Symbiotes GENUS
-=======
+# Symbiotes GENUS
 
 #### Status
 ACCEPTED

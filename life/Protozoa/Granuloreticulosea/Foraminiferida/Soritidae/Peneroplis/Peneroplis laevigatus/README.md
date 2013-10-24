@@ -1,5 +1,4 @@
-Peneroplis laevigatus SPECIES
-=======
+# Peneroplis laevigatus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypoxylina GENUS
-=======
+# Hypoxylina GENUS
 
 #### Status
 ACCEPTED

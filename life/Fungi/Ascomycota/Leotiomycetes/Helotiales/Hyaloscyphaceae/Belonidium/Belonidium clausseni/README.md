@@ -1,5 +1,4 @@
-Belonidium clausseni Ade SPECIES
-=======
+# Belonidium clausseni Ade SPECIES
 
 #### Status
 ACCEPTED

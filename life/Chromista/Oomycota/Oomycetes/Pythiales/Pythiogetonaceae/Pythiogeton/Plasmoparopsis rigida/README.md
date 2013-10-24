@@ -1,5 +1,4 @@
-Plasmoparopsis rigida De Wild. SPECIES
-=======
+# Plasmoparopsis rigida De Wild. SPECIES
 
 #### Status
 ACCEPTED

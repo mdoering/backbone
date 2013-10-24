@@ -1,5 +1,4 @@
-Lecidea discretula Nyl. SPECIES
-=======
+# Lecidea discretula Nyl. SPECIES
 
 #### Status
 ACCEPTED

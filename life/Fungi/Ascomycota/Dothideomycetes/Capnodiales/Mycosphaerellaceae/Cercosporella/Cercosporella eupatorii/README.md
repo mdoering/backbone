@@ -1,5 +1,4 @@
-Cercosporella eupatorii Sawada SPECIES
-=======
+# Cercosporella eupatorii Sawada SPECIES
 
 #### Status
 ACCEPTED

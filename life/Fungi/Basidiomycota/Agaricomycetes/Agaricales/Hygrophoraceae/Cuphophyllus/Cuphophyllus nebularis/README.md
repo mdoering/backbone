@@ -1,5 +1,4 @@
-Cuphophyllus nebularis Clémençon ex Bon SPECIES
-=======
+# Cuphophyllus nebularis Clémençon ex Bon SPECIES
 
 #### Status
 ACCEPTED

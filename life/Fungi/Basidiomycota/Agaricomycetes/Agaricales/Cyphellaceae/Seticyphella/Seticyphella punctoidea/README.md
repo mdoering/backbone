@@ -1,14 +1,13 @@
-Cyphella punctoidea Henn., 1897 SPECIES
-=======
+# Seticyphella punctoidea (Henn.) Agerer, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 36: 194 (1897)
+Mitt. bot. StSamml. , Münch. 19: 289 (1983)
 
 #### Original name
 Cyphella punctoidea Henn., 1897

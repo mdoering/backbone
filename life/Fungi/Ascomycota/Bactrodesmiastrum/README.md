@@ -1,5 +1,4 @@
-Bactrodesmiastrum Hol.-Jech. GENUS
-=======
+# Bactrodesmiastrum Hol.-Jech. GENUS
 
 #### Status
 ACCEPTED

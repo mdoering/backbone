@@ -1,5 +1,4 @@
-Gliocladium cinereum Marchal & É.J. Marchal SPECIES
-=======
+# Gliocladium cinereum Marchal & É.J. Marchal SPECIES
 
 #### Status
 ACCEPTED

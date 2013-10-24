@@ -1,17 +1,16 @@
-Peziza populnea var. populnea VARIETY
-=======
+# Peziza populnea Alb. & Schwein. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Consp. fung. (Leipzig) 343 (1805)
 
 #### Original name
-null
+Peziza populnea Alb. & Schwein.
 
 ### Remarks
 null

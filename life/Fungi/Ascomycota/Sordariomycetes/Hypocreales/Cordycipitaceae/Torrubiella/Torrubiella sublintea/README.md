@@ -1,5 +1,4 @@
-Torrubiella sublintea Petch SPECIES
-=======
+# Torrubiella sublintea Petch SPECIES
 
 #### Status
 ACCEPTED

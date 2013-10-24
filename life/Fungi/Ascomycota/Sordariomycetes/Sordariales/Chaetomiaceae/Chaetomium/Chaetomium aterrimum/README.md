@@ -1,5 +1,4 @@
-Chaetomium aterrimum Ellis & Everh., 1910 SPECIES
-=======
+# Chaetomium aterrimum Ellis & Everh., 1910 SPECIES
 
 #### Status
 ACCEPTED

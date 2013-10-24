@@ -1,5 +1,4 @@
-Methanocaldococcus villosus Bellack, Huber, Rachel, Wanner & Wirth, 2011 SPECIES
-=======
+# Methanocaldococcus villosus Bellack, Huber, Rachel, Wanner & Wirth, 2011 SPECIES
 
 #### Status
 ACCEPTED

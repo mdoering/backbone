@@ -1,5 +1,4 @@
-Septoria melongenae Lobik SPECIES
-=======
+# Septoria melongenae Lobik SPECIES
 
 #### Status
 ACCEPTED

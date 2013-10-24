@@ -1,11 +1,10 @@
-Psathyrella conopilus f. conopilus (Fr.) A. Pearson & Dennis FORM
-=======
+# Psathyrella conopilus (Fr.) A. Pearson & Dennis, 1948 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Trans. Br. mycol. Soc. 31: 185 (1949)

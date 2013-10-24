@@ -1,5 +1,4 @@
-Sarcinella milleriae Syd. SPECIES
-=======
+# Sarcinella milleriae Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arecophila coronata (Rehm) Umali & K.D. Hyde SPECIES
-=======
+# Arecophila coronata (Rehm) Umali & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

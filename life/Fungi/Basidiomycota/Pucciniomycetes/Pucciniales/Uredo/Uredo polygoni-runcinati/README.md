@@ -1,5 +1,4 @@
-Uredo polygoni-runcinati J.Y. Zhuang SPECIES
-=======
+# Uredo polygoni-runcinati J.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

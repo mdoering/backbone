@@ -1,5 +1,4 @@
-Barlaea fuliginea (Schumach.) Sacc. SPECIES
-=======
+# Barlaea fuliginea (Schumach.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Plagiocarpa macrospora R.C. Harris SPECIES
-=======
+# Plagiocarpa macrospora R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia muscivaga (Nyl.) Gyeln. SPECIES
-=======
+# Parmelia muscivaga (Nyl.) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

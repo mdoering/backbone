@@ -1,5 +1,4 @@
-Phyllosticta nicandrae Cejp & Dolejs SPECIES
-=======
+# Phyllosticta nicandrae Cejp & Dolejs SPECIES
 
 #### Status
 ACCEPTED

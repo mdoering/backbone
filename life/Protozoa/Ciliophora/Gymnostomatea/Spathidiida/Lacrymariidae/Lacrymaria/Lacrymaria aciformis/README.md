@@ -1,5 +1,4 @@
-Lacrymaria aciformis Kahl, 1933 SPECIES
-=======
+# Lacrymaria aciformis Kahl, 1933 SPECIES
 
 #### Status
 ACCEPTED

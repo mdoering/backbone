@@ -1,5 +1,4 @@
-Hendersonia gynerii Unamuno SPECIES
-=======
+# Hendersonia gynerii Unamuno SPECIES
 
 #### Status
 ACCEPTED

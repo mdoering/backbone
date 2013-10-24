@@ -1,5 +1,4 @@
-Gonyaulax inclinata Kofoid & Michener, 1911 SPECIES
-=======
+# Gonyaulax inclinata Kofoid & Michener, 1911 SPECIES
 
 #### Status
 ACCEPTED

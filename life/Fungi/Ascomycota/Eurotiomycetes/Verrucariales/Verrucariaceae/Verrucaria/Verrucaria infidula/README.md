@@ -1,5 +1,4 @@
-Verrucaria infidula Zschacke SPECIES
-=======
+# Verrucaria infidula Zschacke SPECIES
 
 #### Status
 ACCEPTED

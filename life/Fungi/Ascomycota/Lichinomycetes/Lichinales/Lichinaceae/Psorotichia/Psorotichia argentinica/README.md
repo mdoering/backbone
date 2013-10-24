@@ -1,5 +1,4 @@
-Psorotichia argentinica Müll. Arg. SPECIES
-=======
+# Psorotichia argentinica Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chytridium surirellae Friedmann SPECIES
-=======
+# Chytridium surirellae Friedmann SPECIES
 
 #### Status
 ACCEPTED

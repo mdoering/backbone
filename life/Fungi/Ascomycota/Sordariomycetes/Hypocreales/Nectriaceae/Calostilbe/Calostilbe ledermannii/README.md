@@ -1,5 +1,4 @@
-Calostilbe ledermannii Syd. SPECIES
-=======
+# Calostilbe ledermannii Syd. SPECIES
 
 #### Status
 ACCEPTED

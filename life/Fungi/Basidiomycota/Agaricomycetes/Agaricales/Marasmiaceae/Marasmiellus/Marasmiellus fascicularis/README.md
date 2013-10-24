@@ -1,5 +1,4 @@
-Marasmiellus fascicularis Rick SPECIES
-=======
+# Marasmiellus fascicularis Rick SPECIES
 
 #### Status
 ACCEPTED

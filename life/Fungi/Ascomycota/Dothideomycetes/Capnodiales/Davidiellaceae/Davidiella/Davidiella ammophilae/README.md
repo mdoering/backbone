@@ -1,5 +1,4 @@
-Davidiella ammophilae (Durieu & Mont.) Aptroot, 2006 SPECIES
-=======
+# Davidiella ammophilae (Durieu & Mont.) Aptroot, 2006 SPECIES
 
 #### Status
 ACCEPTED

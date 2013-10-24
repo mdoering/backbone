@@ -1,5 +1,4 @@
-Lecanora ochroleuca Müll. Arg. SPECIES
-=======
+# Lecanora ochroleuca Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

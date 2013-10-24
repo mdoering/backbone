@@ -1,8 +1,7 @@
-Mycoporellum verniceum Zahlbr. SPECIES
-=======
+# Mycoporopsis vernicea (Zahlbr.) Riedl SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Mycoporellum verniceum Zahlbr.
 
 ### Remarks
 null

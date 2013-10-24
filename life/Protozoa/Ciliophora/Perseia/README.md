@@ -1,5 +1,4 @@
-Perseia Rossolimo, 1926 GENUS
-=======
+# Perseia Rossolimo, 1926 GENUS
 
 #### Status
 ACCEPTED

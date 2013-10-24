@@ -1,5 +1,4 @@
-Coniocarpon tricolor SPECIES
-=======
+# Coniocarpon tricolor SPECIES
 
 #### Status
 ACCEPTED

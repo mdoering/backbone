@@ -1,5 +1,4 @@
-Mucor stipiteramoso L. SPECIES
-=======
+# Mucor stipiteramoso L. SPECIES
 
 #### Status
 ACCEPTED

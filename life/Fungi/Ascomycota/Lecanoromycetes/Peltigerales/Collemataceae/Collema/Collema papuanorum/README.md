@@ -1,5 +1,4 @@
-Collema papuanorum Degel. SPECIES
-=======
+# Collema papuanorum Degel. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Pseudocyphellaria richardii var. richardii VARIETY
-=======
+# Pseudocyphellaria billardierei (Delise) Räsänen SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. bot. Soc. Zool. -Bot. fenn. Vanamo 2(1): 39 (1932)
+Ann. bot. Soc. Zool. -Bot. fenn. Vanamo 2: 39 (1932)
 
 #### Original name
-Pseudocyphellaria richardii var. richardii
+Sticta billardierei Delise
 
 ### Remarks
 null

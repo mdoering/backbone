@@ -1,5 +1,4 @@
-Pluteus maculosipes Singer SPECIES
-=======
+# Pluteus maculosipes Singer SPECIES
 
 #### Status
 ACCEPTED

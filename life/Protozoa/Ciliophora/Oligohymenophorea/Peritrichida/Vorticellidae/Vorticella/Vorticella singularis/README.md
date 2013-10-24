@@ -1,5 +1,4 @@
-Vorticella singularis Kahl, 1933 SPECIES
-=======
+# Vorticella singularis Kahl, 1933 SPECIES
 
 #### Status
 ACCEPTED

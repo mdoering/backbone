@@ -1,5 +1,4 @@
-Cortinarius fervidoides Bidaud, Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius fervidoides Bidaud, Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

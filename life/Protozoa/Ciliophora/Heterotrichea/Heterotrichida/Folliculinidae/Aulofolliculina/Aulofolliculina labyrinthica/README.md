@@ -1,5 +1,4 @@
-Aulofolliculina labyrinthica Hadzi, 1951 SPECIES
-=======
+# Aulofolliculina labyrinthica Hadzi, 1951 SPECIES
 
 #### Status
 ACCEPTED

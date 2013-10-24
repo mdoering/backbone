@@ -1,5 +1,4 @@
-Pseudocercospora noveboracensis Goh & W.H. Hsieh SPECIES
-=======
+# Pseudocercospora noveboracensis Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

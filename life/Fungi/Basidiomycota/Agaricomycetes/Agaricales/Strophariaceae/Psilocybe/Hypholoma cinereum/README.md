@@ -1,5 +1,4 @@
-Hypholoma cinereum C.S. Parker SPECIES
-=======
+# Hypholoma cinereum C.S. Parker SPECIES
 
 #### Status
 ACCEPTED

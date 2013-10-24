@@ -1,5 +1,4 @@
-Rosellinia leprantha (Fr.) Sacc. SPECIES
-=======
+# Rosellinia leprantha (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

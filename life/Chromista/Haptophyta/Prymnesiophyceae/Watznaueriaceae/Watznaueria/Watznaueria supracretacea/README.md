@@ -1,5 +1,4 @@
-Watznaueria supracretacea (P. Reinhardt) F.H. Wind & S.W. Wise SPECIES
-=======
+# Watznaueria supracretacea (P. Reinhardt) F.H. Wind & S.W. Wise SPECIES
 
 #### Status
 ACCEPTED

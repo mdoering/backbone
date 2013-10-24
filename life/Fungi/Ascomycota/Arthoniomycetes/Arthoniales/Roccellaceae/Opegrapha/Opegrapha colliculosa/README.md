@@ -1,5 +1,4 @@
-Opegrapha colliculosa (Hoffm.) M. Choisy SPECIES
-=======
+# Opegrapha colliculosa (Hoffm.) M. Choisy SPECIES
 
 #### Status
 ACCEPTED

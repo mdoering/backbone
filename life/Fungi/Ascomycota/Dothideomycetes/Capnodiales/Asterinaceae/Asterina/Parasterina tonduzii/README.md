@@ -1,5 +1,4 @@
-Parasterina tonduzii (Syd.) R.W. Ryan SPECIES
-=======
+# Parasterina tonduzii (Syd.) R.W. Ryan SPECIES
 
 #### Status
 ACCEPTED

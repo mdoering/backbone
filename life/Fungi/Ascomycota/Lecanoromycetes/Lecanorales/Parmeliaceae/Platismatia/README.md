@@ -1,5 +1,4 @@
-Platismatia W.L. Culb. & C.F. Culb. GENUS
-=======
+# Platismatia W.L. Culb. & C.F. Culb. GENUS
 
 #### Status
 ACCEPTED

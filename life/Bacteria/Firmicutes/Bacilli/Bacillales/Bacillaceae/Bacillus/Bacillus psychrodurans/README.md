@@ -1,5 +1,4 @@
-Bacillus psychrodurans Abd El-Rahman et al., 2002 SPECIES
-=======
+# Bacillus psychrodurans Abd El-Rahman et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

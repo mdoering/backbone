@@ -1,5 +1,4 @@
-Levringia filiformis Kylin SPECIES
-=======
+# Levringia filiformis Kylin SPECIES
 
 #### Status
 ACCEPTED

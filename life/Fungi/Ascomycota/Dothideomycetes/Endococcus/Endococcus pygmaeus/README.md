@@ -1,5 +1,4 @@
-Endococcus pygmaeus (Körb.) Th. Fr. SPECIES
-=======
+# Endococcus pygmaeus (Körb.) Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

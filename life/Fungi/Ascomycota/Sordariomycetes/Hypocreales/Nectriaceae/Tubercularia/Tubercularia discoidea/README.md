@@ -1,5 +1,4 @@
-Tubercularia discoidea Pers. SPECIES
-=======
+# Tubercularia discoidea Pers. SPECIES
 
 #### Status
 ACCEPTED

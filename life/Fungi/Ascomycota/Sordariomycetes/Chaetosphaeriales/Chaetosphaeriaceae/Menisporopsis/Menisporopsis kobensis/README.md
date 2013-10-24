@@ -1,5 +1,4 @@
-Menisporopsis kobensis Matsush. SPECIES
-=======
+# Menisporopsis kobensis Matsush. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphina mendacior Müll. Arg. SPECIES
-=======
+# Graphina mendacior Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

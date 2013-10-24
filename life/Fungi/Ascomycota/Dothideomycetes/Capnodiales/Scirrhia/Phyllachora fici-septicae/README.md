@@ -1,5 +1,4 @@
-Phyllachora fici-septicae Sawada, 1942 SPECIES
-=======
+# Phyllachora fici-septicae Sawada, 1942 SPECIES
 
 #### Status
 DOUBTFUL

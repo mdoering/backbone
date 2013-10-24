@@ -1,5 +1,4 @@
-Sphaeria widdringtoniae R. Ludw. SPECIES
-=======
+# Sphaeria widdringtoniae R. Ludw. SPECIES
 
 #### Status
 ACCEPTED

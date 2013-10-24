@@ -1,17 +1,16 @@
-Oidium farinosum Cooke, 1887 SPECIES
-=======
+# Podosphaera leucotricha (Ellis & Everh.) E.S. Salmon, 1900 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 16(no. 77): 10 (1887)
+Mem. Torrey bot. Club 9: 40 (1900)
 
 #### Original name
-Oidium farinosum Cooke, 1887
+Sphaerotheca leucotricha Ellis & Everh., 1888
 
 ### Remarks
 null

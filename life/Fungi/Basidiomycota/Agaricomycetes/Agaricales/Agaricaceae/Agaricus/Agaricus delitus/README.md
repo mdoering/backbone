@@ -1,5 +1,4 @@
-Agaricus delitus Britzelm. SPECIES
-=======
+# Agaricus delitus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

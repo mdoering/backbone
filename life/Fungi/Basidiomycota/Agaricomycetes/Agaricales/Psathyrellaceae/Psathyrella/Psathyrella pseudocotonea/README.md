@@ -1,5 +1,4 @@
-Psathyrella pseudocotonea A.H. Sm. SPECIES
-=======
+# Psathyrella pseudocotonea A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heterococcus mainxii Vischer SPECIES
-=======
+# Heterococcus mainxii Vischer SPECIES
 
 #### Status
 ACCEPTED

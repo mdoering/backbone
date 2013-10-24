@@ -1,5 +1,4 @@
-Parmelia liparia var. liparia VARIETY
-=======
+# Parmelia liparia Ach. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia liparia var. liparia
+Parmelia liparia Ach.
 
 ### Remarks
 null

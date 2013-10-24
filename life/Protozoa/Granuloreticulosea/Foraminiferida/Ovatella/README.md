@@ -1,5 +1,4 @@
-Ovatella Solovieva, 1996 GENUS
-=======
+# Ovatella Solovieva, 1996 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clitopilus subplanus Peck SPECIES
-=======
+# Clitopilus subplanus Peck SPECIES
 
 #### Status
 ACCEPTED

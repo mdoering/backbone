@@ -1,5 +1,4 @@
-Microrugosa GENUS
-=======
+# Microrugosa GENUS
 
 #### Status
 ACCEPTED

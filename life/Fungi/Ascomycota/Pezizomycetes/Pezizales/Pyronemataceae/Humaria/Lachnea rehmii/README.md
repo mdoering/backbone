@@ -1,5 +1,4 @@
-Lachnea rehmii Jacz. SPECIES
-=======
+# Lachnea rehmii Jacz. SPECIES
 
 #### Status
 ACCEPTED

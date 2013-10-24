@@ -1,17 +1,16 @@
-Clavaria bourdotii Bres., 1908 SPECIES
-=======
+# Kavinia alboviridis (Morgan) Gilb. & Budington, 1970 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 6(1): 45 (1908)
+J. Ariz. Acad. Sci. 6(2): 95 (1970)
 
 #### Original name
-Clavaria bourdotii Bres., 1908
+Hydnum alboviride Morgan, 1887
 
 ### Remarks
 null

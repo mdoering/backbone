@@ -1,5 +1,4 @@
-Cetrariastrum chilense Kurok. SPECIES
-=======
+# Cetrariastrum chilense Kurok. SPECIES
 
 #### Status
 ACCEPTED

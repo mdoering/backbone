@@ -1,5 +1,4 @@
-Parmelia lindemannii Nyl. SPECIES
-=======
+# Parmelia lindemannii Nyl. SPECIES
 
 #### Status
 ACCEPTED

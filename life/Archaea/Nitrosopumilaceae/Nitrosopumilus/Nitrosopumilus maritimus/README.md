@@ -1,5 +1,4 @@
-Nitrosopumilus maritimus Konneke, Bernhard, de la Torre, Walker, Waterbury, Stahl, 2006 SPECIES
-=======
+# Nitrosopumilus maritimus Konneke, Bernhard, de la Torre, Walker, Waterbury, Stahl, 2006 SPECIES
 
 #### Status
 ACCEPTED

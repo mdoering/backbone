@@ -1,5 +1,4 @@
-Challengerella Billman, Hottinger & Oesterle, 1980 GENUS
-=======
+# Challengerella Billman, Hottinger & Oesterle, 1980 GENUS
 
 #### Status
 ACCEPTED

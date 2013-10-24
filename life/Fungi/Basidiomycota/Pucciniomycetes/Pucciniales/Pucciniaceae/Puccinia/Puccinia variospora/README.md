@@ -1,5 +1,4 @@
-Puccinia variospora Arthur & Holw. SPECIES
-=======
+# Puccinia variospora Arthur & Holw. SPECIES
 
 #### Status
 ACCEPTED

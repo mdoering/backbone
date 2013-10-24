@@ -1,5 +1,4 @@
-Septoria lablabis Henn. SPECIES
-=======
+# Septoria lablabis Henn. SPECIES
 
 #### Status
 ACCEPTED

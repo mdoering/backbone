@@ -1,5 +1,4 @@
-Gymnopilus crocias (Berk. & Broome) Singer SPECIES
-=======
+# Gymnopilus crocias (Berk. & Broome) Singer SPECIES
 
 #### Status
 ACCEPTED

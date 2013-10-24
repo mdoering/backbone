@@ -1,5 +1,4 @@
-Sticta santessonii D. J. Galloway SPECIES
-=======
+# Sticta santessonii D. J. Galloway SPECIES
 
 #### Status
 ACCEPTED

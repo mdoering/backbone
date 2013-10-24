@@ -1,5 +1,4 @@
-Farysia pseudocyperi (Sacc.) Zundel SPECIES
-=======
+# Farysia pseudocyperi (Sacc.) Zundel SPECIES
 
 #### Status
 ACCEPTED

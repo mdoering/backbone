@@ -1,5 +1,4 @@
-Gymnodinium oppressum Van Meel SPECIES
-=======
+# Gymnodinium oppressum Van Meel SPECIES
 
 #### Status
 ACCEPTED

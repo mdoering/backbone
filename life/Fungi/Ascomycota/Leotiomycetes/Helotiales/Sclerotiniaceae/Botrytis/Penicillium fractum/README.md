@@ -1,5 +1,4 @@
-Penicillium fractum Udagawa, 1968 SPECIES
-=======
+# Penicillium fractum Udagawa, 1968 SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Capnosporium S. Hughes GENUS
-=======
+# Capnosporium S. Hughes GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Koordersiella Höhn. GENUS
-=======
+# Koordersiella Höhn. GENUS
 
 #### Status
 ACCEPTED

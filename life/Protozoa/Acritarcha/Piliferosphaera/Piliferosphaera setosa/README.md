@@ -1,5 +1,4 @@
-Piliferosphaera setosa Loeblich, 1970 SPECIES
-=======
+# Piliferosphaera setosa Loeblich, 1970 SPECIES
 
 #### Status
 ACCEPTED

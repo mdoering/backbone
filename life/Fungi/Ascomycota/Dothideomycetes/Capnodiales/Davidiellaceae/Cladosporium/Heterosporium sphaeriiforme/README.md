@@ -1,8 +1,7 @@
-Heterosporium sphaeriaeforme Ellis & Everh. SPECIES
-=======
+# Heterosporium sphaeriiforme Ellis & Everh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Heterosporium sphaeriaeforme Ellis & Everh.
+Heterosporium sphaeriiforme Ellis & Everh.
 
 ### Remarks
 null

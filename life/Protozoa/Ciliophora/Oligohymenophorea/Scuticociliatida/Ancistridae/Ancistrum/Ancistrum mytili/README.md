@@ -1,5 +1,4 @@
-Ancistrum mytili (Quennerstedt, 1867) SPECIES
-=======
+# Ancistrum mytili (Quennerstedt, 1867) SPECIES
 
 #### Status
 ACCEPTED

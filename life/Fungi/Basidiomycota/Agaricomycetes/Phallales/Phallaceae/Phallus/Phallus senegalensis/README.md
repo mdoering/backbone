@@ -1,5 +1,4 @@
-Phallus senegalensis Perrot. {?} ex Corda SPECIES
-=======
+# Phallus senegalensis Perrot. {?} ex Corda SPECIES
 
 #### Status
 ACCEPTED

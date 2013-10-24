@@ -1,5 +1,4 @@
-Astrosporina egenula (J. Favre) E. Horak SPECIES
-=======
+# Astrosporina egenula (J. Favre) E. Horak SPECIES
 
 #### Status
 ACCEPTED

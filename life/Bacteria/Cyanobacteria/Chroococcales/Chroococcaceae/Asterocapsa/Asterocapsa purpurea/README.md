@@ -1,5 +1,4 @@
-Asterocapsa purpurea (Jao) Chu SPECIES
-=======
+# Asterocapsa purpurea (Jao) Chu SPECIES
 
 #### Status
 ACCEPTED

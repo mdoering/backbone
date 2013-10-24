@@ -1,5 +1,4 @@
-Septoria gummigena Ellis & Everh. SPECIES
-=======
+# Septoria gummigena Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

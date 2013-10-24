@@ -1,5 +1,4 @@
-Didonia carlinae Velen. SPECIES
-=======
+# Didonia carlinae Velen. SPECIES
 
 #### Status
 ACCEPTED

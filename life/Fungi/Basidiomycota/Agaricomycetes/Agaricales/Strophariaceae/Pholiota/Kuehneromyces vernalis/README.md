@@ -1,17 +1,16 @@
-Kuehneromyces vernalis f. vernalis (Peck) Singer & A.H. Sm. FORM
-=======
+# Kuehneromyces vernalis (Sacc.) Singer & A.H. Sm., 1946 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Mycologia 38(5): 514 (1946)
 
 #### Original name
-Kuehneromyces vernalis f. vernalis (Peck) Singer & A.H. Sm.
+Agaricus vernalis Peck, 1872
 
 ### Remarks
 null

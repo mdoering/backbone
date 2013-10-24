@@ -1,17 +1,16 @@
-Septoriomyces Cavalc. & A.A. Silva GENUS
-=======
+# Phyllobathelium (Müll. Arg.) Müll. Arg. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Cavalcante, Cavalcanti & Leal, Publicações. Instituto de Micologia da Universidade de Pernambuco 647: 9 (1972)
+Flora, Jena 73: 195 (1890)
 
 #### Original name
-Septoriomyces Cavalc. & A.A. Silva
+null
 
 ### Remarks
 null

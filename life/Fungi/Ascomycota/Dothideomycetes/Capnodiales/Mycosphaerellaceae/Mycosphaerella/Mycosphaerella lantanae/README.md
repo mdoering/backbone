@@ -1,5 +1,4 @@
-Mycosphaerella lantanae (Nitschke) Mig. SPECIES
-=======
+# Mycosphaerella lantanae (Nitschke) Mig. SPECIES
 
 #### Status
 ACCEPTED

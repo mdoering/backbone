@@ -1,5 +1,4 @@
-Trematosphaeria paronychiae Gucevic SPECIES
-=======
+# Trematosphaeria paronychiae Gucevic SPECIES
 
 #### Status
 ACCEPTED

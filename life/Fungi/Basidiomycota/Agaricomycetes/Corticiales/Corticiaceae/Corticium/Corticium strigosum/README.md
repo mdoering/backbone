@@ -1,5 +1,4 @@
-Corticium strigosum Pers. SPECIES
-=======
+# Corticium strigosum Pers. SPECIES
 
 #### Status
 ACCEPTED

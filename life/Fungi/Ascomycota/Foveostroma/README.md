@@ -1,5 +1,4 @@
-Foveostroma GENUS
-=======
+# Foveostroma GENUS
 
 #### Status
 ACCEPTED

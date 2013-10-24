@@ -1,5 +1,4 @@
-Textularia aperturalis Cushman SPECIES
-=======
+# Textularia aperturalis Cushman SPECIES
 
 #### Status
 ACCEPTED

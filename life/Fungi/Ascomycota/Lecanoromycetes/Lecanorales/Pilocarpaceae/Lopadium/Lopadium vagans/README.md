@@ -1,5 +1,4 @@
-Lopadium vagans Malme SPECIES
-=======
+# Lopadium vagans Malme SPECIES
 
 #### Status
 ACCEPTED

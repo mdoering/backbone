@@ -1,8 +1,7 @@
-Thiobacillus delicatus (ex Mizoguchi et al., 1976) Katayama-Fujimura et al., 1984 SPECIES
-=======
+# Thiomonas delicata (Katayama-Fujimura et al., 1984) Kelly & Wood, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

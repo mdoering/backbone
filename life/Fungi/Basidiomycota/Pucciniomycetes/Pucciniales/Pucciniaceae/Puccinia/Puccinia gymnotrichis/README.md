@@ -1,5 +1,4 @@
-Puccinia gymnotrichis Henn. SPECIES
-=======
+# Puccinia gymnotrichis Henn. SPECIES
 
 #### Status
 ACCEPTED

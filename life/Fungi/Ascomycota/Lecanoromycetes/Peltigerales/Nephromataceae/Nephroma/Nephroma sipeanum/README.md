@@ -1,5 +1,4 @@
-Nephroma sipeanum Gyeln. SPECIES
-=======
+# Nephroma sipeanum Gyeln. SPECIES
 
 #### Status
 ACCEPTED

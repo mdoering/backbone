@@ -1,5 +1,4 @@
-Dinophysis cornuta (Peters, 1928) Balech, 1967 SPECIES
-=======
+# Dinophysis cornuta (Peters, 1928) Balech, 1967 SPECIES
 
 #### Status
 ACCEPTED

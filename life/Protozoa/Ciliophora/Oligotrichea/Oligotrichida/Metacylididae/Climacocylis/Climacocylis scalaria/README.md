@@ -1,5 +1,4 @@
-Climacocylis scalaria Brandt, 1906 SPECIES
-=======
+# Climacocylis scalaria Brandt, 1906 SPECIES
 
 #### Status
 ACCEPTED

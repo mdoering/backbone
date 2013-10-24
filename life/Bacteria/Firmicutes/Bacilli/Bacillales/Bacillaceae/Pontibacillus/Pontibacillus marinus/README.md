@@ -1,5 +1,4 @@
-Pontibacillus marinus Lim et al., 2005 SPECIES
-=======
+# Pontibacillus marinus Lim et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

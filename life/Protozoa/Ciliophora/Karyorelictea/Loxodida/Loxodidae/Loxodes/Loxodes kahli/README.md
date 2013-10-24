@@ -1,5 +1,4 @@
-Loxodes kahli Dragesco & Njiné, 1971 SPECIES
-=======
+# Loxodes kahli Dragesco & Njiné, 1971 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scindalma exotephrum (Berk.) Kuntze SPECIES
-=======
+# Scindalma exotephrum (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

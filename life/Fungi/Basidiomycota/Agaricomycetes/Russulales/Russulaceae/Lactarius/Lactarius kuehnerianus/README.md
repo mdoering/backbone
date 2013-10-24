@@ -1,5 +1,4 @@
-Lactarius kuehnerianus Malençon SPECIES
-=======
+# Lactarius kuehnerianus Malençon SPECIES
 
 #### Status
 ACCEPTED

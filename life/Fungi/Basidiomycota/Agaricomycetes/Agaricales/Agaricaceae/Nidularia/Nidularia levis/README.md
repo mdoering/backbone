@@ -1,5 +1,4 @@
-Nidularia levis Bull. SPECIES
-=======
+# Nidularia levis Bull. SPECIES
 
 #### Status
 ACCEPTED

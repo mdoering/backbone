@@ -1,5 +1,4 @@
-Garwoodella H. Paul, 1938 GENUS
-=======
+# Garwoodella H. Paul, 1938 GENUS
 
 #### Status
 ACCEPTED

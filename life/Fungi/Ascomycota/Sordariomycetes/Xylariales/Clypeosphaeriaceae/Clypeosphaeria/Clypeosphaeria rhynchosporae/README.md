@@ -1,5 +1,4 @@
-Clypeosphaeria rhynchosporae Rehm SPECIES
-=======
+# Clypeosphaeria rhynchosporae Rehm SPECIES
 
 #### Status
 ACCEPTED

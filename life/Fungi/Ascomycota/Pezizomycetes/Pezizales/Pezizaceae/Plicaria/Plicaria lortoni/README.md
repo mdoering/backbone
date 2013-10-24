@@ -1,5 +1,4 @@
-Plicaria lortoni Boud. SPECIES
-=======
+# Plicaria lortoni Boud. SPECIES
 
 #### Status
 ACCEPTED

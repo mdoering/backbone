@@ -1,5 +1,4 @@
-Heterosporium ossifragi ined. SPECIES
-=======
+# Heterosporium ossifragi ined. SPECIES
 
 #### Status
 ACCEPTED

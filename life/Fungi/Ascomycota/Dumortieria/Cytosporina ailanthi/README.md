@@ -1,5 +1,4 @@
-Cytosporina ailanthi (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Cytosporina ailanthi (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

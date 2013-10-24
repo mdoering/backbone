@@ -1,5 +1,4 @@
-Cortinarius osmetus Rob. Henry SPECIES
-=======
+# Cortinarius osmetus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

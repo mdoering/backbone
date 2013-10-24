@@ -1,5 +1,4 @@
-Ceriomyces peckii (Frost) Murrill SPECIES
-=======
+# Ceriomyces peckii (Frost) Murrill SPECIES
 
 #### Status
 ACCEPTED

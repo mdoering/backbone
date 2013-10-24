@@ -1,5 +1,4 @@
-Hemidothis miconiae Syd. & P. Syd., 1916 SPECIES
-=======
+# Hemidothis miconiae Syd. & P. Syd., 1916 SPECIES
 
 #### Status
 ACCEPTED

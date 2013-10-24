@@ -1,5 +1,4 @@
-Raphiospora patellarioides (Nyl.) Arnold SPECIES
-=======
+# Raphiospora patellarioides (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

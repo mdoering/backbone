@@ -1,5 +1,4 @@
-Dimelaena somaliensis Alstrup, Huneck & Aptroot SPECIES
-=======
+# Dimelaena somaliensis Alstrup, Huneck & Aptroot SPECIES
 
 #### Status
 ACCEPTED

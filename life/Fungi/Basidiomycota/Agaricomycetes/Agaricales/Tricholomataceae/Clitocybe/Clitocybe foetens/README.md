@@ -1,5 +1,4 @@
-Clitocybe foetens Melot SPECIES
-=======
+# Clitocybe foetens Melot SPECIES
 
 #### Status
 ACCEPTED

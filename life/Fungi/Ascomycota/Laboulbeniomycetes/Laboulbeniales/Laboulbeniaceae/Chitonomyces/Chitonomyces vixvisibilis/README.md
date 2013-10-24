@@ -1,5 +1,4 @@
-Chitonomyces vixvisibilis Thaxt. SPECIES
-=======
+# Chitonomyces vixvisibilis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

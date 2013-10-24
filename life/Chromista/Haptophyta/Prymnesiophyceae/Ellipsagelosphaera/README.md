@@ -1,5 +1,4 @@
-Ellipsagelosphaera Noël, 1965 GENUS
-=======
+# Ellipsagelosphaera Noël, 1965 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphina carneoviridis M. Wirth & Hale SPECIES
-=======
+# Graphina carneoviridis M. Wirth & Hale SPECIES
 
 #### Status
 ACCEPTED

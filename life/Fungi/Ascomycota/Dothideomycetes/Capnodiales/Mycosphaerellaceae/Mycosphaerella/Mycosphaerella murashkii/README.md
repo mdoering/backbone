@@ -1,5 +1,4 @@
-Mycosphaerella murashkii M. Morelet SPECIES
-=======
+# Mycosphaerella murashkii M. Morelet SPECIES
 
 #### Status
 ACCEPTED

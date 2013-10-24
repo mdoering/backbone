@@ -1,17 +1,16 @@
-Nectria haematococca var. cucurbitae (W.C. Snyder & H.N. Hansen) Dingley, 1961 VARIETY
-=======
+# Haematonectria ipomoeae (Halst.) Samuels & Nirenberg, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-N. Z. Jl agric. Res. 4: 337 (1961)
+in Rossman, Samuels, Rogerson & Lowen, Stud. Mycol. 42: 136 (1999)
 
 #### Original name
-Hypomyces solani f. cucurbitae W.C. Snyder & H.N. Hansen, 1941
+Nectria ipomoeae Halst., 1891
 
 ### Remarks
 null

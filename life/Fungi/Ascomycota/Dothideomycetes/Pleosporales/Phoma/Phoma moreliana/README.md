@@ -1,5 +1,4 @@
-Phoma moreliana Sacc. SPECIES
-=======
+# Phoma moreliana Sacc. SPECIES
 
 #### Status
 ACCEPTED

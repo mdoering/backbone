@@ -1,5 +1,4 @@
-Lepiota amanitoides Beeli SPECIES
-=======
+# Lepiota amanitoides Beeli SPECIES
 
 #### Status
 ACCEPTED

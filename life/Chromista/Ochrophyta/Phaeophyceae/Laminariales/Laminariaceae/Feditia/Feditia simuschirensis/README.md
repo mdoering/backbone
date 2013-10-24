@@ -1,5 +1,4 @@
-Feditia simuschirensis Yu.Petrov & Gusarova, 1972 SPECIES
-=======
+# Feditia simuschirensis Yu.Petrov & Gusarova, 1972 SPECIES
 
 #### Status
 ACCEPTED

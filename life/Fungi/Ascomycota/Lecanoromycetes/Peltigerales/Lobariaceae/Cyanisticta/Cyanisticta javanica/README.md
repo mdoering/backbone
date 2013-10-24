@@ -1,5 +1,4 @@
-Cyanisticta javanica SPECIES
-=======
+# Cyanisticta javanica SPECIES
 
 #### Status
 ACCEPTED

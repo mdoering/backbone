@@ -1,8 +1,7 @@
-Tillina gigantea Dragesco, 1972 SPECIES
-=======
+# Colpoda gigantea Dragesco, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Mycosphaerella dianellae F. Stevens & Weedon SPECIES
-=======
+# Mycosphaerella dianellae F. Stevens & Weedon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeoramularia buteae Kamal, B.K. Gupta & C. Gupta SPECIES
-=======
+# Phaeoramularia buteae Kamal, B.K. Gupta & C. Gupta SPECIES
 
 #### Status
 ACCEPTED

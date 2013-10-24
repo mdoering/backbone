@@ -1,5 +1,4 @@
-Palaeophalacroma verrucosa Schiller SPECIES
-=======
+# Palaeophalacroma verrucosa Schiller SPECIES
 
 #### Status
 ACCEPTED

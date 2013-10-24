@@ -1,5 +1,4 @@
-Lichen furvus Ach. SPECIES
-=======
+# Lichen furvus Ach. SPECIES
 
 #### Status
 ACCEPTED

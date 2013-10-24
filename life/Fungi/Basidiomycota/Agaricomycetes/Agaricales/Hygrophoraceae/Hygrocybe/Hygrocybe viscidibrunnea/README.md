@@ -1,5 +1,4 @@
-Hygrocybe viscidibrunnea Bougher & A.M. Young SPECIES
-=======
+# Hygrocybe viscidibrunnea Bougher & A.M. Young SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Excentrochloris gigas Pascher SPECIES
-=======
+# Excentrochloris gigas Pascher SPECIES
 
 #### Status
 ACCEPTED

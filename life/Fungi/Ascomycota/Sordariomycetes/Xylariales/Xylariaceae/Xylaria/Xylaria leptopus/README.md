@@ -1,5 +1,4 @@
-Xylaria leptopus (Fr.) Sacc. SPECIES
-=======
+# Xylaria leptopus (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

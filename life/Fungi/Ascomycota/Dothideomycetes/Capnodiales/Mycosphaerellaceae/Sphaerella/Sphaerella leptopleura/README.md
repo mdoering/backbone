@@ -1,5 +1,4 @@
-Sphaerella leptopleura De Not. SPECIES
-=======
+# Sphaerella leptopleura De Not. SPECIES
 
 #### Status
 ACCEPTED

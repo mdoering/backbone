@@ -1,5 +1,4 @@
-Saprophilus ovatus Kahl, 1926 SPECIES
-=======
+# Saprophilus ovatus Kahl, 1926 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius subsafranopes Rob. Henry SPECIES
-=======
+# Cortinarius subsafranopes Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

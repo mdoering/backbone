@@ -1,5 +1,4 @@
-Scortechinia conferta (Schwein.) Subr. & Sekar SPECIES
-=======
+# Scortechinia conferta (Schwein.) Subr. & Sekar SPECIES
 
 #### Status
 ACCEPTED

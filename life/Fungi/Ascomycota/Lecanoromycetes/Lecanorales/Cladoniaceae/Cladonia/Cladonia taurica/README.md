@@ -1,5 +1,4 @@
-Cladonia taurica (Wulfen) Hoffm. SPECIES
-=======
+# Cladonia taurica (Wulfen) Hoffm. SPECIES
 
 #### Status
 ACCEPTED

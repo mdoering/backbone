@@ -1,5 +1,4 @@
-Mycosphaerella beaglensis Speg. SPECIES
-=======
+# Mycosphaerella beaglensis Speg. SPECIES
 
 #### Status
 ACCEPTED

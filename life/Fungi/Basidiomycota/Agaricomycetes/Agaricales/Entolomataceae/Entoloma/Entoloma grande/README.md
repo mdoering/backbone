@@ -1,5 +1,4 @@
-Entoloma grande Peck SPECIES
-=======
+# Entoloma grande Peck SPECIES
 
 #### Status
 ACCEPTED

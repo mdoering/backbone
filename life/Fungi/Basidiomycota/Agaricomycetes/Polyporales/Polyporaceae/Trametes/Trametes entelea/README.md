@@ -1,5 +1,4 @@
-Trametes entelea Pat. SPECIES
-=======
+# Trametes entelea Pat. SPECIES
 
 #### Status
 ACCEPTED

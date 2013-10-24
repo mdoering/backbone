@@ -1,5 +1,4 @@
-Lophodermopsis Speg. GENUS
-=======
+# Lophodermopsis Speg. GENUS
 
 #### Status
 ACCEPTED

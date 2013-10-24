@@ -1,5 +1,4 @@
-Phlyctema microscopica Tassi SPECIES
-=======
+# Phlyctema microscopica Tassi SPECIES
 
 #### Status
 ACCEPTED

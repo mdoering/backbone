@@ -1,5 +1,4 @@
-Parmelia perreticulata (Räsänen) Hale SPECIES
-=======
+# Parmelia perreticulata (Räsänen) Hale SPECIES
 
 #### Status
 ACCEPTED

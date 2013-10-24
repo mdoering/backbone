@@ -1,5 +1,4 @@
-Laestadia angulata (Fuckel) Sacc. SPECIES
-=======
+# Laestadia angulata (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coscinopeltella montealvoae SPECIES
-=======
+# Coscinopeltella montealvoae SPECIES
 
 #### Status
 ACCEPTED

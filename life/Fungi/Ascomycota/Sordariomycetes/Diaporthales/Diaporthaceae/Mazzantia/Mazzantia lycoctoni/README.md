@@ -1,5 +1,4 @@
-Mazzantia lycoctoni Pass. SPECIES
-=======
+# Mazzantia lycoctoni Pass. SPECIES
 
 #### Status
 ACCEPTED

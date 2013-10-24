@@ -1,5 +1,4 @@
-Peniophora pallida anon. SPECIES
-=======
+# Peniophora pallida anon. SPECIES
 
 #### Status
 ACCEPTED

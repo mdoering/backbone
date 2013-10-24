@@ -1,5 +1,4 @@
-Aspicilia intercedens Hav. SPECIES
-=======
+# Aspicilia intercedens Hav. SPECIES
 
 #### Status
 ACCEPTED

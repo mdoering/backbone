@@ -1,5 +1,4 @@
-Tyromyces illudens (Overh. & J. Lowe) J. Lowe SPECIES
-=======
+# Tyromyces illudens (Overh. & J. Lowe) J. Lowe SPECIES
 
 #### Status
 ACCEPTED

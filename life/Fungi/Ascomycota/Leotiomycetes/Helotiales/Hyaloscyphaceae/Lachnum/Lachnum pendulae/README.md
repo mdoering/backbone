@@ -1,5 +1,4 @@
-Lachnum pendulae Raitv. SPECIES
-=======
+# Lachnum pendulae Raitv. SPECIES
 
 #### Status
 ACCEPTED

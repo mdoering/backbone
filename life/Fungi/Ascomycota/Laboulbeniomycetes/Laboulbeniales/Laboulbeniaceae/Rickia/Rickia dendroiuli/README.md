@@ -1,5 +1,4 @@
-Rickia dendroiuli W. Rossi, 1977 SPECIES
-=======
+# Rickia dendroiuli W. Rossi, 1977 SPECIES
 
 #### Status
 ACCEPTED

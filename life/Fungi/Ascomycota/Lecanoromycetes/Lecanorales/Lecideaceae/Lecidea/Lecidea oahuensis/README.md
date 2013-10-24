@@ -1,5 +1,4 @@
-Lecidea oahuensis Zahlbr. SPECIES
-=======
+# Lecidea oahuensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

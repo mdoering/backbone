@@ -1,5 +1,4 @@
-Entoloma myochroum Noordel. & E. Ludw. SPECIES
-=======
+# Entoloma myochroum Noordel. & E. Ludw. SPECIES
 
 #### Status
 ACCEPTED

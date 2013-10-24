@@ -1,14 +1,13 @@
-Pleurotus djamor f. calyptratus (Lindblad ex Fr.) R.H. Petersen, 2002 FORM
-=======
+# Pleurotus calyptratus (Lindblad) Sacc., 1887 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Albertó, Petersen, Hughes & Lechner, Persoonia 18(1): 238 (2002)
+Syll. fung. (Abellini) 5: 341 (1887)
 
 #### Original name
 Agaricus calyptratus Lindblad, 1857

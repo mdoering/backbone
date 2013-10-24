@@ -1,5 +1,4 @@
-Chamaeceras dealbatus (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Chamaeceras dealbatus (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

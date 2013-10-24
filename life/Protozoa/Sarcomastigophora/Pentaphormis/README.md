@@ -1,5 +1,4 @@
-Pentaphormis Haeckel, 1881 GENUS
-=======
+# Pentaphormis Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerella synconophila G. Winter SPECIES
-=======
+# Sphaerella synconophila G. Winter SPECIES
 
 #### Status
 ACCEPTED

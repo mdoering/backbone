@@ -1,5 +1,4 @@
-Amphobotrys Hennebert GENUS
-=======
+# Amphobotrys Hennebert GENUS
 
 #### Status
 ACCEPTED

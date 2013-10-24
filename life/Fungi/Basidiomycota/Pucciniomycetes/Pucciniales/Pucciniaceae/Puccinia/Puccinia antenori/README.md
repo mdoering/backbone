@@ -1,5 +1,4 @@
-Puccinia antenori J.Y. Zhuang & Y.C. Wang, 1985 SPECIES
-=======
+# Puccinia antenori J.Y. Zhuang & Y.C. Wang, 1985 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Phyllachora albiziae Cooke, 1885 SPECIES
-=======
+# Stigmochora deightonii (Syd.) Arx, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 13(no. 67): 65 (1885)
+in Müller & Arx, Beitr. Kryptfl. Schweiz 11(no. 2): 662 (1962)
 
 #### Original name
-Phyllachora albiziae Cooke, 1885
+Endodothella deightonii Syd., 1938
 
 ### Remarks
 null

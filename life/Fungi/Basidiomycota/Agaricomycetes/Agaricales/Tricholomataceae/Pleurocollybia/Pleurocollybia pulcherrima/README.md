@@ -1,5 +1,4 @@
-Pleurocollybia pulcherrima Singer SPECIES
-=======
+# Pleurocollybia pulcherrima Singer SPECIES
 
 #### Status
 ACCEPTED

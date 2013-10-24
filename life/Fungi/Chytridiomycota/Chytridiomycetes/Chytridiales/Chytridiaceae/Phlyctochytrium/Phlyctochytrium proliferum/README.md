@@ -1,5 +1,4 @@
-Phlyctochytrium proliferum Ingold SPECIES
-=======
+# Phlyctochytrium proliferum Ingold SPECIES
 
 #### Status
 ACCEPTED

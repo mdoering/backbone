@@ -1,5 +1,4 @@
-Ceratocystis atrox M. van Wyk & M.J. Wingf. SPECIES
-=======
+# Ceratocystis atrox M. van Wyk & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

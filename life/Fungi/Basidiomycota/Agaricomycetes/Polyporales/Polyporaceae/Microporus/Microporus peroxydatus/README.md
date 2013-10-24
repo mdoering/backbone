@@ -1,5 +1,4 @@
-Microporus peroxydatus (Berk.) Kuntze SPECIES
-=======
+# Microporus peroxydatus (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

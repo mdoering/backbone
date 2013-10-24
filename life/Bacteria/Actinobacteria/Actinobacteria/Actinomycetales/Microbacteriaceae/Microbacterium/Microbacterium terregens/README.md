@@ -1,8 +1,7 @@
-Aureobacterium terregens (Lochhead & Burton, 1953) Collins et al., 1983 SPECIES
-=======
+# Microbacterium terregens (Lochhead & Burton, 1953) Takeuchi & Hatano, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Polyblastia ambrosiana (A. Massal.) Jatta SPECIES
-=======
+# Polyblastia ambrosiana (A. Massal.) Jatta SPECIES
 
 #### Status
 ACCEPTED

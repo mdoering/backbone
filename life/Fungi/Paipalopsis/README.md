@@ -1,5 +1,4 @@
-Paipalopsis J. Kühn, 1882 GENUS
-=======
+# Paipalopsis J. Kühn, 1882 GENUS
 
 #### Status
 ACCEPTED

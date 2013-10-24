@@ -1,5 +1,4 @@
-Mucor nidulans Scholler SPECIES
-=======
+# Mucor nidulans Scholler SPECIES
 
 #### Status
 ACCEPTED

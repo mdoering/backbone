@@ -1,5 +1,4 @@
-Nectria fulvida Ellis & Everh. SPECIES
-=======
+# Nectria fulvida Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

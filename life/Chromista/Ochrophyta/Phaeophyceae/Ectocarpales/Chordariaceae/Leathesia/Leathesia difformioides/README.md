@@ -1,5 +1,4 @@
-Leathesia difformioides Takamatsu SPECIES
-=======
+# Leathesia difformioides Takamatsu SPECIES
 
 #### Status
 ACCEPTED

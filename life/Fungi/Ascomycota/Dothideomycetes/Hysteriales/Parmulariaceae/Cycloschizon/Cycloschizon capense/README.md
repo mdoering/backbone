@@ -1,17 +1,16 @@
-Cocconia capensis Doidge, 1921 SPECIES
-=======
+# Cycloschizon capense (Doidge) Arx, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Beitr. Kryptfl. Schweiz 11(2): 53 (1962)
 
 #### Original name
-null
+Cocconia capensis Doidge, 1921
 
 ### Remarks
 null

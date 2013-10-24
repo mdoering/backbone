@@ -1,5 +1,4 @@
-Meliola carpolobiae Hansf. SPECIES
-=======
+# Meliola carpolobiae Hansf. SPECIES
 
 #### Status
 ACCEPTED

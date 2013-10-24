@@ -1,5 +1,4 @@
-Biporipsilonites belluloides (Z.C. Song) Kalgutkar & Janson. SPECIES
-=======
+# Biporipsilonites belluloides (Z.C. Song) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

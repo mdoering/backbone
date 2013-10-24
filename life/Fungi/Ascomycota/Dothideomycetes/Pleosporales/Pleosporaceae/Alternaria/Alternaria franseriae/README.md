@@ -1,5 +1,4 @@
-Alternaria franseriae E.G. Simmons SPECIES
-=======
+# Alternaria franseriae E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

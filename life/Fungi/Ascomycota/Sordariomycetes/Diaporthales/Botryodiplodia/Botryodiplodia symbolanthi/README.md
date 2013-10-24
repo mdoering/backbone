@@ -1,5 +1,4 @@
-Botryodiplodia symbolanthi (Syd.) Syd. SPECIES
-=======
+# Botryodiplodia symbolanthi (Syd.) Syd. SPECIES
 
 #### Status
 ACCEPTED

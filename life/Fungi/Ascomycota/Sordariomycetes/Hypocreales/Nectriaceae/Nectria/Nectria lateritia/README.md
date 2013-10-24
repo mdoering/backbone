@@ -1,5 +1,4 @@
-Nectria lateritia (P. Karst.) Rossman SPECIES
-=======
+# Nectria lateritia (P. Karst.) Rossman SPECIES
 
 #### Status
 ACCEPTED

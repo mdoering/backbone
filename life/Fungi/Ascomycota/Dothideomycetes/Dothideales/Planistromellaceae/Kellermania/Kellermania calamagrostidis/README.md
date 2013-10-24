@@ -1,8 +1,7 @@
-Kellermania calamagrostis Sandu SPECIES
-=======
+# Kellermania calamagrostidis Sandu SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Kellermania calamagrostis Sandu
+Kellermania calamagrostidis Sandu
 
 ### Remarks
 null

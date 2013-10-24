@@ -1,5 +1,4 @@
-Entyloma primulae Murashk. SPECIES
-=======
+# Entyloma primulae Murashk. SPECIES
 
 #### Status
 ACCEPTED

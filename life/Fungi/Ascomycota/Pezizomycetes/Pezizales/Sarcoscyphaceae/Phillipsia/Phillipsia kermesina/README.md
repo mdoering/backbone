@@ -1,5 +1,4 @@
-Phillipsia kermesina Kalchbr. & Cooke SPECIES
-=======
+# Phillipsia kermesina Kalchbr. & Cooke SPECIES
 
 #### Status
 ACCEPTED

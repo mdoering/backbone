@@ -1,5 +1,4 @@
-Corynecystis Brusse GENUS
-=======
+# Corynecystis Brusse GENUS
 
 #### Status
 ACCEPTED

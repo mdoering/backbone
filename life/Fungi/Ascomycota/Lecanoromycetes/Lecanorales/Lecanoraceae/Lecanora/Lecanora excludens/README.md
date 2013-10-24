@@ -1,5 +1,4 @@
-Lecanora excludens Malme SPECIES
-=======
+# Lecanora excludens Malme SPECIES
 
 #### Status
 ACCEPTED

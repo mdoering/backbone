@@ -1,5 +1,4 @@
-Penicillium megalosporum Berk. & Broome SPECIES
-=======
+# Penicillium megalosporum Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

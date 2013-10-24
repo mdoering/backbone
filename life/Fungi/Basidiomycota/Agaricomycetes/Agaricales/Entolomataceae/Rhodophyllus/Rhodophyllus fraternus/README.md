@@ -1,5 +1,4 @@
-Rhodophyllus fraternus Singer SPECIES
-=======
+# Rhodophyllus fraternus Singer SPECIES
 
 #### Status
 ACCEPTED

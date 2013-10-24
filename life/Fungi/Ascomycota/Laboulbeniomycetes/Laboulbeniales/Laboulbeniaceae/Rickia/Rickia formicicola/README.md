@@ -1,5 +1,4 @@
-Rickia formicicola Speg. SPECIES
-=======
+# Rickia formicicola Speg. SPECIES
 
 #### Status
 ACCEPTED

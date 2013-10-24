@@ -1,5 +1,4 @@
-Puccinia leonotidicola Henn. SPECIES
-=======
+# Puccinia leonotidicola Henn. SPECIES
 
 #### Status
 ACCEPTED

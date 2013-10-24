@@ -1,5 +1,4 @@
-Anomalina d'Orbigny, 1826 GENUS
-=======
+# Anomalina d'Orbigny, 1826 GENUS
 
 #### Status
 ACCEPTED

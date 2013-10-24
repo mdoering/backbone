@@ -1,5 +1,4 @@
-Vermicularia graminum Bacc. SPECIES
-=======
+# Vermicularia graminum Bacc. SPECIES
 
 #### Status
 ACCEPTED

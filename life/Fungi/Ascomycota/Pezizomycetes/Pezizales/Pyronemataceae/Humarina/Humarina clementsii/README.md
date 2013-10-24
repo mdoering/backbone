@@ -1,5 +1,4 @@
-Humarina clementsii Seaver SPECIES
-=======
+# Humarina clementsii Seaver SPECIES
 
 #### Status
 ACCEPTED

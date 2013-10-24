@@ -1,5 +1,4 @@
-Palaeachlya tortuosa D.E. Ether. SPECIES
-=======
+# Palaeachlya tortuosa D.E. Ether. SPECIES
 
 #### Status
 ACCEPTED

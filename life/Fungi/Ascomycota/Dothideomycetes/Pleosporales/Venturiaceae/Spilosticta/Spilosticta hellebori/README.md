@@ -1,5 +1,4 @@
-Spilosticta hellebori (Rehm) Petr. SPECIES
-=======
+# Spilosticta hellebori (Rehm) Petr. SPECIES
 
 #### Status
 ACCEPTED

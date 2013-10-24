@@ -1,5 +1,4 @@
-Microcoleus weeksiae Setchell & N.L. Gardner SPECIES
-=======
+# Microcoleus weeksiae Setchell & N.L. Gardner SPECIES
 
 #### Status
 ACCEPTED

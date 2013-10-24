@@ -1,5 +1,4 @@
-Graphis pallescens Vain. SPECIES
-=======
+# Graphis pallescens Vain. SPECIES
 
 #### Status
 ACCEPTED

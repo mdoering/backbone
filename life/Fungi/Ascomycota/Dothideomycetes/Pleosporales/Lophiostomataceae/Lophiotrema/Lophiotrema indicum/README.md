@@ -1,17 +1,16 @@
-Lophiotrema indica Tilak & Talde SPECIES
-=======
+# Lophiotrema indicum Tilak & Talde SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Maharashtra Vidnyan Mandir, Patrika 10(1-2): 17 (1975)
 
 #### Original name
-Lophiotrema indica Tilak & Talde
+Lophiotrema indicum Tilak & Talde
 
 ### Remarks
 null

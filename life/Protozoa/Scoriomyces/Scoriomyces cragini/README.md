@@ -1,5 +1,4 @@
-Scoriomyces cragini Ellis & Sacc. SPECIES
-=======
+# Scoriomyces cragini Ellis & Sacc. SPECIES
 
 #### Status
 ACCEPTED

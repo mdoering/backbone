@@ -1,5 +1,4 @@
-Trichothelium poeltii Lücking SPECIES
-=======
+# Trichothelium poeltii Lücking SPECIES
 
 #### Status
 ACCEPTED

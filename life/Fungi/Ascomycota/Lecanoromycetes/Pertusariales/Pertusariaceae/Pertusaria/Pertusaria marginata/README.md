@@ -1,5 +1,4 @@
-Pertusaria marginata Nyl. SPECIES
-=======
+# Pertusaria marginata Nyl. SPECIES
 
 #### Status
 ACCEPTED

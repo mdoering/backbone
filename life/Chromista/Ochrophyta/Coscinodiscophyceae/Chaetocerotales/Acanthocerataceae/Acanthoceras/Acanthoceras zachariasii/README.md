@@ -1,5 +1,4 @@
-Acanthoceras zachariasii (Brun) Simonsen SPECIES
-=======
+# Acanthoceras zachariasii (Brun) Simonsen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fungus lituratus (Berk. & Broome) Kuntze SPECIES
-=======
+# Fungus lituratus (Berk. & Broome) Kuntze SPECIES
 
 #### Status
 ACCEPTED

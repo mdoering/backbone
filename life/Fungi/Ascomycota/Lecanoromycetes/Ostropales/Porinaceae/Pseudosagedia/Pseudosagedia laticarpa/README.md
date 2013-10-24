@@ -1,5 +1,4 @@
-Pseudosagedia laticarpa (Lücking) Hafellner & Kalb SPECIES
-=======
+# Pseudosagedia laticarpa (Lücking) Hafellner & Kalb SPECIES
 
 #### Status
 ACCEPTED

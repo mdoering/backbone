@@ -1,5 +1,4 @@
-Mycosphaerella medicaginicola Karimov SPECIES
-=======
+# Mycosphaerella medicaginicola Karimov SPECIES
 
 #### Status
 ACCEPTED

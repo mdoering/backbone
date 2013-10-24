@@ -1,5 +1,4 @@
-Gyalecta stigmatoides (Nyl.) Boistel SPECIES
-=======
+# Gyalecta stigmatoides (Nyl.) Boistel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladosporium penicilloides Preuss SPECIES
-=======
+# Cladosporium penicilloides Preuss SPECIES
 
 #### Status
 ACCEPTED

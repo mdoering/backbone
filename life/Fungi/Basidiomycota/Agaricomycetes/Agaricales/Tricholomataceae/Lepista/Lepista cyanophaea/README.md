@@ -1,5 +1,4 @@
-Lepista cyanophaea (Fr.) Raithelh. SPECIES
-=======
+# Lepista cyanophaea (Fr.) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

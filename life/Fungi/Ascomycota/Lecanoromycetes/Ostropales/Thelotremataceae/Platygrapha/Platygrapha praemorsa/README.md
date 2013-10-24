@@ -1,5 +1,4 @@
-Platygrapha praemorsa Stirt. SPECIES
-=======
+# Platygrapha praemorsa Stirt. SPECIES
 
 #### Status
 ACCEPTED

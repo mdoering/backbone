@@ -1,5 +1,4 @@
-Trachelocerca versatilis Quennerstedt SPECIES
-=======
+# Trachelocerca versatilis Quennerstedt SPECIES
 
 #### Status
 ACCEPTED

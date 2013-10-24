@@ -1,5 +1,4 @@
-Melzericium rimosum Bononi & Hjortstam, 1987 SPECIES
-=======
+# Melzericium rimosum Bononi & Hjortstam, 1987 SPECIES
 
 #### Status
 ACCEPTED

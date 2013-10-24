@@ -1,5 +1,4 @@
-Phyllactinia evansii Doidge SPECIES
-=======
+# Phyllactinia evansii Doidge SPECIES
 
 #### Status
 ACCEPTED

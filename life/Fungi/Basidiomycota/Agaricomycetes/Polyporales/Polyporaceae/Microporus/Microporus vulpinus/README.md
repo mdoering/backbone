@@ -1,5 +1,4 @@
-Microporus vulpinus (Fr.) Kuntze SPECIES
-=======
+# Microporus vulpinus (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Valsa ribicola Ellis & Everh. SPECIES
-=======
+# Valsa ribicola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Pyrenula netrospora Nägeli SPECIES
-=======
+# Strigula glabra (A. Massal.) V. Wirth SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Flechtenflora (Stuttgart) 531 (1980)
 
 #### Original name
-null
+Sagedia glabra A. Massal.
 
 ### Remarks
 null

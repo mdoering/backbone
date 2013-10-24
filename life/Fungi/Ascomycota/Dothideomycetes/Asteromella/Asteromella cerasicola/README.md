@@ -1,5 +1,4 @@
-Asteromella cerasicola (Speg.) H. Ruppr. SPECIES
-=======
+# Asteromella cerasicola (Speg.) H. Ruppr. SPECIES
 
 #### Status
 ACCEPTED

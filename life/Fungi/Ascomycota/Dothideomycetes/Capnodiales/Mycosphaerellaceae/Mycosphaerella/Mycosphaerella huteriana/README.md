@@ -1,5 +1,4 @@
-Mycosphaerella huteriana Petr. SPECIES
-=======
+# Mycosphaerella huteriana Petr. SPECIES
 
 #### Status
 ACCEPTED

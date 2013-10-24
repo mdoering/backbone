@@ -1,5 +1,4 @@
-Biatorella algoviae H. Magn. SPECIES
-=======
+# Biatorella algoviae H. Magn. SPECIES
 
 #### Status
 ACCEPTED

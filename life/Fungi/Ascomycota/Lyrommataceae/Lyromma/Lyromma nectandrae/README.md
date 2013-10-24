@@ -1,17 +1,16 @@
-Lyromma nectandrae var. nectandrae VARIETY
-=======
+# Lyromma nectandrae Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Atas Inst. Micol. Univ. Recife 2: 360 (1965)
 
 #### Original name
-Lyromma nectandrae var. nectandrae
+Lyromma nectandrae Bat. & H. Maia
 
 ### Remarks
 null

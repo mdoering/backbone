@@ -1,5 +1,4 @@
-Rhabdonella poculum (Ostenfeld & Schmidt, 1901) SPECIES
-=======
+# Rhabdonella poculum (Ostenfeld & Schmidt, 1901) SPECIES
 
 #### Status
 ACCEPTED

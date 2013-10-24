@@ -1,5 +1,4 @@
-Nematostoma nervisequens Petr. SPECIES
-=======
+# Nematostoma nervisequens Petr. SPECIES
 
 #### Status
 ACCEPTED

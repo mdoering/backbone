@@ -1,5 +1,4 @@
-Lecanora aurantiaca var. aurantiaca VARIETY
-=======
+# Lecanora aurantiaca SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lichen aurantiacus Lightf.
+null
 
 ### Remarks
 null

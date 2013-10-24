@@ -1,5 +1,4 @@
-Ascochyta oreodaphnes Sacc. SPECIES
-=======
+# Ascochyta oreodaphnes Sacc. SPECIES
 
 #### Status
 ACCEPTED

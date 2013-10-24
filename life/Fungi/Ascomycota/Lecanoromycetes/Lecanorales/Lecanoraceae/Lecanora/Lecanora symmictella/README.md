@@ -1,5 +1,4 @@
-Lecanora symmictella Vain. SPECIES
-=======
+# Lecanora symmictella Vain. SPECIES
 
 #### Status
 ACCEPTED

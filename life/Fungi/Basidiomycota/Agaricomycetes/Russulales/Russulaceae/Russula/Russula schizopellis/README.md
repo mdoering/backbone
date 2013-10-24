@@ -1,5 +1,4 @@
-Russula schizopellis Sarnari SPECIES
-=======
+# Russula schizopellis Sarnari SPECIES
 
 #### Status
 ACCEPTED

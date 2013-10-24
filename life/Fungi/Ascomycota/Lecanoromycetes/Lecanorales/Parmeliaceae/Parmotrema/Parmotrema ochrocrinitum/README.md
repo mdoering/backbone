@@ -1,5 +1,4 @@
-Parmotrema ochrocrinitum Elix & J. Johnst. SPECIES
-=======
+# Parmotrema ochrocrinitum Elix & J. Johnst. SPECIES
 
 #### Status
 ACCEPTED

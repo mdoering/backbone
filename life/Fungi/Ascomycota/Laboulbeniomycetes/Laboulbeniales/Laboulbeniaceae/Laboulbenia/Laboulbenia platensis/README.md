@@ -1,5 +1,4 @@
-Laboulbenia platensis Speg. SPECIES
-=======
+# Laboulbenia platensis Speg. SPECIES
 
 #### Status
 ACCEPTED

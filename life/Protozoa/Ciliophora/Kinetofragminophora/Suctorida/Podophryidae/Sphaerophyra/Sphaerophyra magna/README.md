@@ -1,5 +1,4 @@
-Sphaerophyra magna SPECIES
-=======
+# Sphaerophyra magna SPECIES
 
 #### Status
 ACCEPTED

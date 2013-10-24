@@ -1,5 +1,4 @@
-Asteromphalus Ehrenberg GENUS
-=======
+# Asteromphalus Ehrenberg GENUS
 
 #### Status
 ACCEPTED

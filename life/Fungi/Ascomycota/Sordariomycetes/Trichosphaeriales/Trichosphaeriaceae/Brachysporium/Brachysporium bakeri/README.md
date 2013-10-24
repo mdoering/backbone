@@ -1,5 +1,4 @@
-Brachysporium bakeri Syd. SPECIES
-=======
+# Brachysporium bakeri Syd. SPECIES
 
 #### Status
 ACCEPTED

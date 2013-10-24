@@ -1,5 +1,4 @@
-Tubinella funalis SPECIES
-=======
+# Tubinella funalis SPECIES
 
 #### Status
 ACCEPTED

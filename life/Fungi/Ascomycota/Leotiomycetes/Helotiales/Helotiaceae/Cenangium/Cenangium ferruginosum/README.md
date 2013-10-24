@@ -1,17 +1,16 @@
-Triblidium pineum var. strobilina Pers., 1822 VARIETY
-=======
+# Cenangium ferruginosum Fr., 1818 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Jb. nassau. Ver. Naturk. 23-24: (1870)
 
 #### Original name
-null
+Cenangium ferruginosum Fr., 1818
 
 ### Remarks
 null

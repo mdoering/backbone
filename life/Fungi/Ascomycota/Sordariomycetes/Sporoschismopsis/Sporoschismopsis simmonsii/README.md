@@ -1,14 +1,13 @@
-Catenularia simmonsii Morgan-Jones, 1972 SPECIES
-=======
+# Sporoschismopsis simmonsii (Morgan-Jones) Hol.-Jech. & Hennebert, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 59(1): 162 (1972)
+Bull. Jard. Bot. Nat. Belg. 42(4): 390 (1972)
 
 #### Original name
 Catenularia simmonsii Morgan-Jones, 1972

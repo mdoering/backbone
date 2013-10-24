@@ -1,5 +1,4 @@
-Puccinia streptanthi Höhn. SPECIES
-=======
+# Puccinia streptanthi Höhn. SPECIES
 
 #### Status
 ACCEPTED

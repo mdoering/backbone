@@ -1,5 +1,4 @@
-Sporisorium hodsonii (Zundel) Vánky SPECIES
-=======
+# Sporisorium hodsonii (Zundel) Vánky SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helvellella sphaerospora (Peck) S. Imai SPECIES
-=======
+# Helvellella sphaerospora (Peck) S. Imai SPECIES
 
 #### Status
 ACCEPTED

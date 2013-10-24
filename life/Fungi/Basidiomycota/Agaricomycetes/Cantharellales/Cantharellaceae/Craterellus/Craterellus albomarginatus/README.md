@@ -1,5 +1,4 @@
-Craterellus albomarginatus Coker SPECIES
-=======
+# Craterellus albomarginatus Coker SPECIES
 
 #### Status
 ACCEPTED

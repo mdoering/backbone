@@ -1,5 +1,4 @@
-Lichen cellulosus Sm. SPECIES
-=======
+# Lichen cellulosus Sm. SPECIES
 
 #### Status
 ACCEPTED

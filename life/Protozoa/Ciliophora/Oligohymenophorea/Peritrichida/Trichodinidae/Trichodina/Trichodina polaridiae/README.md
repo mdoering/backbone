@@ -1,5 +1,4 @@
-Trichodina polaridiae Fenchel, 1965 SPECIES
-=======
+# Trichodina polaridiae Fenchel, 1965 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Blastophorum fusarioides K. Matsush. & Matsush., 1996 SPECIES
-=======
+# Blastophorum fusarioides K. Matsush. & Matsush., 1996 SPECIES
 
 #### Status
 ACCEPTED

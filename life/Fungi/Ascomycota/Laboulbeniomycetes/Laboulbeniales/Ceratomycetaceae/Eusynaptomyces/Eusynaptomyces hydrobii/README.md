@@ -1,14 +1,13 @@
-Rhynchophoromyces hydrobii T. Majewski, 1972 SPECIES
-=======
+# Eusynaptomyces hydrobii (T. Majewski) I.I. Tav., 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Acta Mycologica, Warszawa 7(2): 274 (1972)
+Mycol. Mem. 9: 220 (1985)
 
 #### Original name
 Rhynchophoromyces hydrobii T. Majewski, 1972

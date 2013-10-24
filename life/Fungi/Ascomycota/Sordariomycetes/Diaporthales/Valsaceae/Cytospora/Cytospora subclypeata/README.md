@@ -1,5 +1,4 @@
-Cytospora subclypeata Sacc., 1896 SPECIES
-=======
+# Cytospora subclypeata Sacc., 1896 SPECIES
 
 #### Status
 ACCEPTED

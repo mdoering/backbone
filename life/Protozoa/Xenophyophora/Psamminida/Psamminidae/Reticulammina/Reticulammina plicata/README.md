@@ -1,5 +1,4 @@
-Reticulammina plicata Gooday, 1991 SPECIES
-=======
+# Reticulammina plicata Gooday, 1991 SPECIES
 
 #### Status
 ACCEPTED

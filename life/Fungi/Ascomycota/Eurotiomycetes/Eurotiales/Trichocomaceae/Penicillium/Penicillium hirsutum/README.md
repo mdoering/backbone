@@ -1,5 +1,4 @@
-Penicillium hirsutum SPECIES
-=======
+# Penicillium hirsutum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe fulva (Pat.) SPECIES
-=======
+# Inocybe fulva (Pat.) SPECIES
 
 #### Status
 ACCEPTED

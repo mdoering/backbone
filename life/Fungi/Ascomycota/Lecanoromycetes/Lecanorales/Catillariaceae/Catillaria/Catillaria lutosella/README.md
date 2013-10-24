@@ -1,5 +1,4 @@
-Catillaria lutosella Faurel & Schotter SPECIES
-=======
+# Catillaria lutosella Faurel & Schotter SPECIES
 
 #### Status
 ACCEPTED

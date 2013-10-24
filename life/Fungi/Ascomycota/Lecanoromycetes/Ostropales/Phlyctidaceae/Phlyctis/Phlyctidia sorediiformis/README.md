@@ -1,5 +1,4 @@
-Phlyctidia sorediiformis (Kremp.) Müll. Arg. SPECIES
-=======
+# Phlyctidia sorediiformis (Kremp.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

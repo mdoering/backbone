@@ -1,5 +1,4 @@
-Pholiota trullisata A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota trullisata A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

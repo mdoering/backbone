@@ -1,8 +1,7 @@
-Geaster deserticola Speg. SPECIES
-=======
+# Geastrum deserticola Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Geaster deserticola Speg.
+Geastrum deserticola Speg.
 
 ### Remarks
 null

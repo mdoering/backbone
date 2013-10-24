@@ -1,5 +1,4 @@
-Tubiporus vaccinus (Fr.) Ricken SPECIES
-=======
+# Tubiporus vaccinus (Fr.) Ricken SPECIES
 
 #### Status
 ACCEPTED

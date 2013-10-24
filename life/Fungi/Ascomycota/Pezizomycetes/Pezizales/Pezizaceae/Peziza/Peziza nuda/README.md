@@ -1,5 +1,4 @@
-Peziza nuda W. Phillips SPECIES
-=======
+# Peziza nuda W. Phillips SPECIES
 
 #### Status
 ACCEPTED

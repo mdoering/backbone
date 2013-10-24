@@ -1,5 +1,4 @@
-Polystictus extensus Berk. SPECIES
-=======
+# Polystictus extensus Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Cronartium praelongum G. Winter, 1887 SPECIES
-=======
+# Cionothrix praelonga (G. Winter) Arthur, 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 26: 24 (1887)
+N. Amer. Fl. (New York) 7: 124 (1907)
 
 #### Original name
 Cronartium praelongum G. Winter, 1887

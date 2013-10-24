@@ -1,5 +1,4 @@
-Stachylina chironomidarum Lichtw., 1972 SPECIES
-=======
+# Stachylina chironomidarum Lichtw., 1972 SPECIES
 
 #### Status
 ACCEPTED

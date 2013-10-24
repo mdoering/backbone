@@ -1,5 +1,4 @@
-Monilinia crataegi anon. SPECIES
-=======
+# Monilinia crataegi anon. SPECIES
 
 #### Status
 ACCEPTED

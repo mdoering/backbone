@@ -1,17 +1,16 @@
-Agaricus consobrinus var. consobrinus VARIETY
-=======
+# Russula consobrina (Fr.) Fr., 1838 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Observ. mycol. (Havniae) 2: 195 (1818)
+Epicr. syst. mycol. (Upsaliae) 359 (1838)
 
 #### Original name
-Agaricus consobrinus var. consobrinus
+Agaricus consobrinus Fr., 1818
 
 ### Remarks
 null

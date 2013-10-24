@@ -1,5 +1,4 @@
-Mycosphaerella pales (Sacc.) Tomilin SPECIES
-=======
+# Mycosphaerella pales (Sacc.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

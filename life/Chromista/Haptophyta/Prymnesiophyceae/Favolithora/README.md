@@ -1,5 +1,4 @@
-Favolithora Stradner, 1961 GENUS
-=======
+# Favolithora Stradner, 1961 GENUS
 
 #### Status
 ACCEPTED

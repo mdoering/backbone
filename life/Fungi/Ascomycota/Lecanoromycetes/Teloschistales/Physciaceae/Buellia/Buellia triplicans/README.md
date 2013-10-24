@@ -1,5 +1,4 @@
-Buellia triplicans Zahlbr. SPECIES
-=======
+# Buellia triplicans Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

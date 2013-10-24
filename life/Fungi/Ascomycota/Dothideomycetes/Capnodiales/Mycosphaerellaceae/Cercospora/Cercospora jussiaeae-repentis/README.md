@@ -1,5 +1,4 @@
-Cercospora jussiaeae-repentis Sawada SPECIES
-=======
+# Cercospora jussiaeae-repentis Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Botryodiplodia spathodeae Petr. SPECIES
-=======
+# Botryodiplodia spathodeae Petr. SPECIES
 
 #### Status
 ACCEPTED

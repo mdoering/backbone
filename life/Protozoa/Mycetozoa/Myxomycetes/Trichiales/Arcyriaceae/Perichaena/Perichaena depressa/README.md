@@ -1,17 +1,16 @@
-Perichaena depressa var. quadrata (T. Macbr.) Torrend VARIETY
-=======
+# Perichaena depressa Lib., 1837 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Pl. Crypt. no. 378 (1837)
 
 #### Original name
-Perichaena quadrata T. Macbr., 1899
+Perichaena depressa Lib., 1837
 
 ### Remarks
 null

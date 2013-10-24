@@ -1,5 +1,4 @@
-Leptothyrium rhododendri Keissl. SPECIES
-=======
+# Leptothyrium rhododendri Keissl. SPECIES
 
 #### Status
 ACCEPTED

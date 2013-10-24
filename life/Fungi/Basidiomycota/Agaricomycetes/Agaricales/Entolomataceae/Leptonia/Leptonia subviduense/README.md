@@ -1,5 +1,4 @@
-Leptonia subviduense Largent SPECIES
-=======
+# Leptonia subviduense Largent SPECIES
 
 #### Status
 ACCEPTED

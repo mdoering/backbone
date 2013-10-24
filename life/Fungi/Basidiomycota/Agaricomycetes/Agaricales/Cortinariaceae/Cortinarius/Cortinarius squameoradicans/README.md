@@ -1,5 +1,4 @@
-Cortinarius squameoradicans Bellivier ex Cheype SPECIES
-=======
+# Cortinarius squameoradicans Bellivier ex Cheype SPECIES
 
 #### Status
 ACCEPTED

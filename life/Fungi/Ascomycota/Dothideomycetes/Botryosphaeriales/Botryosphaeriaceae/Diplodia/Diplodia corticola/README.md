@@ -1,5 +1,4 @@
-Diplodia corticola A.J.L. Phillips, A. Alves & J. Luque SPECIES
-=======
+# Diplodia corticola A.J.L. Phillips, A. Alves & J. Luque SPECIES
 
 #### Status
 ACCEPTED

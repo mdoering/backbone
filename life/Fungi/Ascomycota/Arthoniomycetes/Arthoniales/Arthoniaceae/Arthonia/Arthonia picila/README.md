@@ -1,5 +1,4 @@
-Arthonia picila (A. Massal.) Willey SPECIES
-=======
+# Arthonia picila (A. Massal.) Willey SPECIES
 
 #### Status
 ACCEPTED

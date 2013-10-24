@@ -1,5 +1,4 @@
-Phacidium dearnessii DiCosmo, Nag Raj & W.B. Kendr., 1983 SPECIES
-=======
+# Phacidium dearnessii DiCosmo, Nag Raj & W.B. Kendr., 1983 SPECIES
 
 #### Status
 ACCEPTED

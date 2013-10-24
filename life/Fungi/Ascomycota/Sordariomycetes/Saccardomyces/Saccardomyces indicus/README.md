@@ -1,17 +1,16 @@
-Saccardomyces indica Srinivasulu & P.G. Sathe SPECIES
-=======
+# Saccardomyces indicus Srinivasulu & P.G. Sathe SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Botanique, Nagpur 4(2): 115 (1973)
 
 #### Original name
-Saccardomyces indica Srinivasulu & P.G. Sathe
+Saccardomyces indicus Srinivasulu & P.G. Sathe
 
 ### Remarks
 null

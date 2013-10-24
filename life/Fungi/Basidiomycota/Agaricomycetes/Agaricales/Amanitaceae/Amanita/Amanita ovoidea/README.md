@@ -1,17 +1,16 @@
-Amanita ovoidea var. proxima (Dumée) Bon & Courtec. VARIETY
-=======
+# Amanita ovoidea (Bull.) Link, 1833 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Docums Mycol. 18(no. 69): 37 (1987)
+Handbuck zur Erkennung der Nutzbarsten und am Häufigsten Vorkommenden Gewächse 3: 273 (1833)
 
 #### Original name
-Amanita proxima Dumée
+Agaricus ovoideus Bull., 1788
 
 ### Remarks
 null

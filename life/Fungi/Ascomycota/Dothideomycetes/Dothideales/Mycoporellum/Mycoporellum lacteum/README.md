@@ -1,5 +1,4 @@
-Mycoporellum lacteum (Ach.) Zahlbr. SPECIES
-=======
+# Mycoporellum lacteum (Ach.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laboulbenia darwinii Thaxt. SPECIES
-=======
+# Laboulbenia darwinii Thaxt. SPECIES
 
 #### Status
 ACCEPTED

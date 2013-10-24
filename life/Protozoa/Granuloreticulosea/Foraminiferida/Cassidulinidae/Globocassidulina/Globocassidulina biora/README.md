@@ -1,5 +1,4 @@
-Globocassidulina biora Voloshinova, 1960 SPECIES
-=======
+# Globocassidulina biora Voloshinova, 1960 SPECIES
 
 #### Status
 ACCEPTED

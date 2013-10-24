@@ -1,5 +1,4 @@
-Laternea pusilla Berk. & M.A. Curtis SPECIES
-=======
+# Laternea pusilla Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

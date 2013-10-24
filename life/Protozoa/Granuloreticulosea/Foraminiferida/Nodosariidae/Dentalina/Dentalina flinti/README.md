@@ -1,5 +1,4 @@
-Dentalina flinti SPECIES
-=======
+# Dentalina flinti SPECIES
 
 #### Status
 ACCEPTED

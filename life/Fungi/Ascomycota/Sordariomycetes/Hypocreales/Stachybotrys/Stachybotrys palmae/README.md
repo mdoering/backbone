@@ -1,5 +1,4 @@
-Stachybotrys palmae Pinruan SPECIES
-=======
+# Stachybotrys palmae Pinruan SPECIES
 
 #### Status
 ACCEPTED

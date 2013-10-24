@@ -1,5 +1,4 @@
-Dialonectria varians (Sacc.) Cooke SPECIES
-=======
+# Dialonectria varians (Sacc.) Cooke SPECIES
 
 #### Status
 ACCEPTED

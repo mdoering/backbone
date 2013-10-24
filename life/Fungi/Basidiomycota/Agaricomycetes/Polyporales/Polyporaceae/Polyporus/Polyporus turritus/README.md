@@ -1,5 +1,4 @@
-Polyporus turritus (Scop.) Pers. SPECIES
-=======
+# Polyporus turritus (Scop.) Pers. SPECIES
 
 #### Status
 ACCEPTED

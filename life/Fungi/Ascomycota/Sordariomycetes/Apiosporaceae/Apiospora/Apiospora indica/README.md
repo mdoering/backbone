@@ -1,5 +1,4 @@
-Apiospora indica Theiss. & Syd. SPECIES
-=======
+# Apiospora indica Theiss. & Syd. SPECIES
 
 #### Status
 ACCEPTED

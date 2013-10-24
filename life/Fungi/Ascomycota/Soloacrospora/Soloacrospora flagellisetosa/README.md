@@ -1,5 +1,4 @@
-Soloacrospora flagellisetosa W.B. Kendr. & R.F. Castañeda, 1991 SPECIES
-=======
+# Soloacrospora flagellisetosa W.B. Kendr. & R.F. Castañeda, 1991 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria subplicans Nyl. SPECIES
-=======
+# Pertusaria subplicans Nyl. SPECIES
 
 #### Status
 ACCEPTED

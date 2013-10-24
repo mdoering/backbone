@@ -1,14 +1,13 @@
-Nematoloma guzmanii (Natarajan & Raman) Guzmán SPECIES
-=======
+# Naematoloma guzmanii (Natarajan & Raman) Guzmán SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biblthca Mycol. 159: 111 (1995)
 
 #### Original name
 Psilocybe guzmanii Natarajan & Raman

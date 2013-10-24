@@ -1,5 +1,4 @@
-Platygrapha punctella Stirt. SPECIES
-=======
+# Platygrapha punctella Stirt. SPECIES
 
 #### Status
 ACCEPTED

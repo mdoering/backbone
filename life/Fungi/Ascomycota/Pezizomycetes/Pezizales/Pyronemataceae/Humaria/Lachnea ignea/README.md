@@ -1,5 +1,4 @@
-Lachnea ignea Velen. SPECIES
-=======
+# Lachnea ignea Velen. SPECIES
 
 #### Status
 ACCEPTED

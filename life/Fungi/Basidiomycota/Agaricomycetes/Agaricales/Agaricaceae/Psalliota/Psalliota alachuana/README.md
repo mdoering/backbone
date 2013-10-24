@@ -1,5 +1,4 @@
-Psalliota alachuana Murrill SPECIES
-=======
+# Psalliota alachuana Murrill SPECIES
 
 #### Status
 ACCEPTED

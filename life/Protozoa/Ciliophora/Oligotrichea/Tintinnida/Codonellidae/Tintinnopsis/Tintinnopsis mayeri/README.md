@@ -1,5 +1,4 @@
-Tintinnopsis mayeri Daday, 1887 SPECIES
-=======
+# Tintinnopsis mayeri Daday, 1887 SPECIES
 
 #### Status
 ACCEPTED

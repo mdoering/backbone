@@ -1,14 +1,13 @@
-Gyrocerus nymphaearum (F.V. Rand) Linder, 1929 SPECIES
-=======
+# Dichotomophthoropsis nymphaearum (F.V. Rand) M.B. Ellis, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Pap. 125: 22 (1971)
 
 #### Original name
 Helicosporium nymphaearum F.V. Rand, 1917

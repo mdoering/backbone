@@ -1,5 +1,4 @@
-Infundibulomyces cupulata Plaingam, Somrith. & E.B.G. Jones, 2003 SPECIES
-=======
+# Infundibulomyces cupulata Plaingam, Somrith. & E.B.G. Jones, 2003 SPECIES
 
 #### Status
 ACCEPTED

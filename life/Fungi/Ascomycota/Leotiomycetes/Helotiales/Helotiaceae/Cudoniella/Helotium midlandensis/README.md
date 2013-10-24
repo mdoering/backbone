@@ -1,5 +1,4 @@
-Helotium midlandensis W.L. White SPECIES
-=======
+# Helotium midlandensis W.L. White SPECIES
 
 #### Status
 ACCEPTED

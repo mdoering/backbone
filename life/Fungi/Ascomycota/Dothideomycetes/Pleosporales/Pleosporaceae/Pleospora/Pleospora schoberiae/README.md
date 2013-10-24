@@ -1,17 +1,16 @@
-Phoma herbarum f. schoberiae Sacc., 1880 FORM
-=======
+# Pleospora schoberiae (Sacc.) Berl., 1895 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Icon. fung. (Abellini) 2: 23 (1895)
 
 #### Original name
-null
+Pleospora salsolae var. schoberiae (Sacc.) Sacc., 1883
 
 ### Remarks
 null

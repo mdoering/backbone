@@ -1,5 +1,4 @@
-Haplotrichum gracile (Linder) Hol.-Jech. SPECIES
-=======
+# Haplotrichum gracile (Linder) Hol.-Jech. SPECIES
 
 #### Status
 ACCEPTED

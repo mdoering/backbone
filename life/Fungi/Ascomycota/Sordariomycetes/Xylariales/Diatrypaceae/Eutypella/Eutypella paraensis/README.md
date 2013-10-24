@@ -1,8 +1,7 @@
-Eutypella paraënsis Henn. SPECIES
-=======
+# Eutypella paraensis Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Eutypella paraënsis Henn.
+Eutypella paraensis Henn.
 
 ### Remarks
 null

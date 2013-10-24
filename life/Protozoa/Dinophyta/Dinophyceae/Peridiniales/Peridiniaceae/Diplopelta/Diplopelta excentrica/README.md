@@ -1,5 +1,4 @@
-Diplopelta excentrica (Nie, 1943) Balech SPECIES
-=======
+# Diplopelta excentrica (Nie, 1943) Balech SPECIES
 
 #### Status
 ACCEPTED

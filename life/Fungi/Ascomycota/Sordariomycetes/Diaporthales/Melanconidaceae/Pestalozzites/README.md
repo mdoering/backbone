@@ -1,5 +1,4 @@
-Pestalozzites E.W. Berry GENUS
-=======
+# Pestalozzites E.W. Berry GENUS
 
 #### Status
 ACCEPTED

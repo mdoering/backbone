@@ -1,5 +1,4 @@
-Boletus rubropunctus Peck SPECIES
-=======
+# Boletus rubropunctus Peck SPECIES
 
 #### Status
 ACCEPTED

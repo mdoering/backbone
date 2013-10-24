@@ -1,5 +1,4 @@
-Septoria inulae-salicinae Lobik SPECIES
-=======
+# Septoria inulae-salicinae Lobik SPECIES
 
 #### Status
 ACCEPTED

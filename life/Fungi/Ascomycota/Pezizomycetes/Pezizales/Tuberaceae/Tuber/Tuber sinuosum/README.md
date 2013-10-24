@@ -1,5 +1,4 @@
-Tuber sinuosum Lázaro Ibiza SPECIES
-=======
+# Tuber sinuosum Lázaro Ibiza SPECIES
 
 #### Status
 ACCEPTED

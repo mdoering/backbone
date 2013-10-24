@@ -1,5 +1,4 @@
-Diderma rufum Nann.-Bremek., 1968 SPECIES
-=======
+# Diderma rufum Nann.-Bremek., 1968 SPECIES
 
 #### Status
 ACCEPTED

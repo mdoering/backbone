@@ -1,5 +1,4 @@
-Verrucaria harrimanii Ach. SPECIES
-=======
+# Verrucaria harrimanii Ach. SPECIES
 
 #### Status
 ACCEPTED

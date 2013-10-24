@@ -1,5 +1,4 @@
-Boletus agaricoides Thunb. SPECIES
-=======
+# Boletus agaricoides Thunb. SPECIES
 
 #### Status
 ACCEPTED

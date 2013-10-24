@@ -1,5 +1,4 @@
-Scyphostroma mirum Starbäck, 1899 SPECIES
-=======
+# Scyphostroma mirum Starbäck, 1899 SPECIES
 
 #### Status
 ACCEPTED

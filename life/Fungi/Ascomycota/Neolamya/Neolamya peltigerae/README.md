@@ -1,14 +1,13 @@
-Rhaphidophora peltigerae Mont., 1856 SPECIES
-=======
+# Neolamya peltigerae (Mont.) Theiss. & Syd., 1918 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. gen. sp. crypt. (Paris) no. 896 (1856)
+Annls mycol. 16: (1918)
 
 #### Original name
 Rhaphidophora peltigerae Mont., 1856

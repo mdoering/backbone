@@ -1,5 +1,4 @@
-Volvariella congolensis N.C. Pathak SPECIES
-=======
+# Volvariella congolensis N.C. Pathak SPECIES
 
 #### Status
 ACCEPTED

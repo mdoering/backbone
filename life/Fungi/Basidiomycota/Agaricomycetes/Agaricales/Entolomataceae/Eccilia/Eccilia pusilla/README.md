@@ -1,5 +1,4 @@
-Eccilia pusilla Sacc. & Trotter SPECIES
-=======
+# Eccilia pusilla Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Collema corticola Taylor SPECIES
-=======
+# Leptogium corticola (Taylor) Tuck. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Lea, Cat. Pl. Cincinnati 47 (1849)
 
 #### Original name
 Collema corticola Taylor

@@ -1,5 +1,4 @@
-Mucor pakistanicus J.H. Mirza, S.M. Khan, S. Begum & Shagufta SPECIES
-=======
+# Mucor pakistanicus J.H. Mirza, S.M. Khan, S. Begum & Shagufta SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnodinium sphaeroideum Kofoid, 1931 SPECIES
-=======
+# Gymnodinium sphaeroideum Kofoid, 1931 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusicoccum leucostomum var. leucostomum VARIETY
-=======
+# Fusicoccum leucostomum Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Fusicoccum leucostomum var. leucostomum
+Fusicoccum leucostomum Sacc.
 
 ### Remarks
 null

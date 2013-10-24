@@ -1,5 +1,4 @@
-Spiromonas Skvortzow, 1958 GENUS
-=======
+# Spiromonas Skvortzow, 1958 GENUS
 
 #### Status
 ACCEPTED

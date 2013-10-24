@@ -1,5 +1,4 @@
-Cylindrosporium lupini Ellis & Everh. SPECIES
-=======
+# Cylindrosporium lupini Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

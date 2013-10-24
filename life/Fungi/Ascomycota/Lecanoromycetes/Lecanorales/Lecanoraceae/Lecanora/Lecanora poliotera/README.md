@@ -1,5 +1,4 @@
-Lecanora poliotera Nyl. SPECIES
-=======
+# Lecanora poliotera Nyl. SPECIES
 
 #### Status
 ACCEPTED

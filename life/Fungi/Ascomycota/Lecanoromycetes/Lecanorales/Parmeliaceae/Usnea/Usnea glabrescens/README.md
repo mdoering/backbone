@@ -1,17 +1,16 @@
-Usnea glabrescens var. glabrescens VARIETY
-=======
+# Usnea glabrescens (Nyl. ex Vain.) Vain. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Usnea glabrescens var. glabrescens
+Usnea barbata var. glabrescens Nyl. ex Vain.
 
 ### Remarks
 null

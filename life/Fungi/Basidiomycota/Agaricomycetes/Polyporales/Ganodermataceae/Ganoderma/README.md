@@ -1,17 +1,16 @@
-Tomophagus Murrill GENUS
-=======
+# Ganoderma P. Karsten, 1881 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Torreya 5: 197 (1905)
+null
 
 #### Original name
-Tomophagus Murrill
+null
 
 ### Remarks
 null

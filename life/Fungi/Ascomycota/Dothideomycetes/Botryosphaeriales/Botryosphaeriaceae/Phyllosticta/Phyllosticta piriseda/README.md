@@ -1,5 +1,4 @@
-Phyllosticta piriseda Pass. SPECIES
-=======
+# Phyllosticta piriseda Pass. SPECIES
 
 #### Status
 ACCEPTED

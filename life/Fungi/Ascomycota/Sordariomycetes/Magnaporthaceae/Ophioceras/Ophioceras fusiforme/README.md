@@ -1,5 +1,4 @@
-Ophioceras fusiforme Shearer, J.L. Crane & W. Chen SPECIES
-=======
+# Ophioceras fusiforme Shearer, J.L. Crane & W. Chen SPECIES
 
 #### Status
 ACCEPTED

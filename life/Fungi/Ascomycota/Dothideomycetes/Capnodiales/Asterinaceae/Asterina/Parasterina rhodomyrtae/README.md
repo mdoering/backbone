@@ -1,5 +1,4 @@
-Parasterina rhodomyrtae Bat. & H. Maia SPECIES
-=======
+# Parasterina rhodomyrtae Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

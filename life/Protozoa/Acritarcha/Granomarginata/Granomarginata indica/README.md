@@ -1,5 +1,4 @@
-Granomarginata indica R.Y. Singh et al., 1985 SPECIES
-=======
+# Granomarginata indica R.Y. Singh et al., 1985 SPECIES
 
 #### Status
 ACCEPTED

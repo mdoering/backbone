@@ -1,5 +1,4 @@
-Phialea anomala Peck SPECIES
-=======
+# Phialea anomala Peck SPECIES
 
 #### Status
 ACCEPTED

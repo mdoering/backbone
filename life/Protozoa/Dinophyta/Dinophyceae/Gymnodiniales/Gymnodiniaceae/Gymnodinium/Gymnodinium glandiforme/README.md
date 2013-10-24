@@ -1,5 +1,4 @@
-Gymnodinium glandiforme Conrad & Kufferath SPECIES
-=======
+# Gymnodinium glandiforme Conrad & Kufferath SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia evadens Harkn. SPECIES
-=======
+# Puccinia evadens Harkn. SPECIES
 
 #### Status
 ACCEPTED

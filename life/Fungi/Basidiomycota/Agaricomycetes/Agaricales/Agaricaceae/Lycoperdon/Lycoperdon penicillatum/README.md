@@ -1,5 +1,4 @@
-Lycoperdon penicillatum Müll. {?} SPECIES
-=======
+# Lycoperdon penicillatum Müll. {?} SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leccinum ustale (Berk.) E. Horak SPECIES
-=======
+# Leccinum ustale (Berk.) E. Horak SPECIES
 
 #### Status
 ACCEPTED

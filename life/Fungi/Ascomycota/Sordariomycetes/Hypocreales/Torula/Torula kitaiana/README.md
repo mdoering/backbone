@@ -1,5 +1,4 @@
-Torula kitaiana Traverso SPECIES
-=======
+# Torula kitaiana Traverso SPECIES
 
 #### Status
 ACCEPTED

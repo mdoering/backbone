@@ -1,5 +1,4 @@
-Pseudogymnoascus verrucocus A.V. Rice & Currah SPECIES
-=======
+# Pseudogymnoascus verrucocus A.V. Rice & Currah SPECIES
 
 #### Status
 ACCEPTED

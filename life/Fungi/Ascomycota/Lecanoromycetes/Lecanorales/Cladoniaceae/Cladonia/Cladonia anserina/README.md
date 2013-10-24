@@ -1,5 +1,4 @@
-Cladonia anserina Ahti SPECIES
-=======
+# Cladonia anserina Ahti SPECIES
 
 #### Status
 ACCEPTED

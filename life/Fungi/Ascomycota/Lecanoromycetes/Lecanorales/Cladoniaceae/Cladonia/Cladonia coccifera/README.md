@@ -1,5 +1,4 @@
-Cladonia coccifera f. coccifera FORM
-=======
+# Cladonia coccifera (L.) Willd. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Fl. Berol. Prodr. 361 (1787)
 
 #### Original name
-Cladonia coccifera f. coccifera
+Lichen cocciferus L.
 
 ### Remarks
 null

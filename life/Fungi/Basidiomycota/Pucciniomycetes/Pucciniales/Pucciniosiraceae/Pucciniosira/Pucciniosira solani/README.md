@@ -1,5 +1,4 @@
-Pucciniosira solani Lagerh., 1891 SPECIES
-=======
+# Pucciniosira solani Lagerh., 1891 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vorticella filopes Dumas, 1929 SPECIES
-=======
+# Vorticella filopes Dumas, 1929 SPECIES
 
 #### Status
 ACCEPTED

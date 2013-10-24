@@ -1,5 +1,4 @@
-Cortinarius magnusii Melot SPECIES
-=======
+# Cortinarius magnusii Melot SPECIES
 
 #### Status
 ACCEPTED

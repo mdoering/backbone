@@ -1,5 +1,4 @@
-Idiomarina fontislapidosi Martínez-Cánovas et al., 2004 SPECIES
-=======
+# Idiomarina fontislapidosi Martínez-Cánovas et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

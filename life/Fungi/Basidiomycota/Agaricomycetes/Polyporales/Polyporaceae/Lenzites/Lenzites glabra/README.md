@@ -1,5 +1,4 @@
-Lenzites glabra Lloyd SPECIES
-=======
+# Lenzites glabra Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Monostychia A.G. Vologdin, 1962 GENUS
-=======
+# Monostychia A.G. Vologdin, 1962 GENUS
 
 #### Status
 ACCEPTED

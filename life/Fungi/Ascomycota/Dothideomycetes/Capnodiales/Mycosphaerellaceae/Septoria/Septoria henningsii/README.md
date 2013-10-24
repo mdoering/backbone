@@ -1,5 +1,4 @@
-Septoria henningsii Gonz. Frag. SPECIES
-=======
+# Septoria henningsii Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

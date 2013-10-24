@@ -1,5 +1,4 @@
-Pucciniastrum beringianum Tranzschel SPECIES
-=======
+# Pucciniastrum beringianum Tranzschel SPECIES
 
 #### Status
 ACCEPTED

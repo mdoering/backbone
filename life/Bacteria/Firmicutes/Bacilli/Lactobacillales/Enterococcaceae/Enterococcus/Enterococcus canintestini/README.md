@@ -1,5 +1,4 @@
-Enterococcus canintestini Naser et al., 2005 SPECIES
-=======
+# Enterococcus canintestini Naser et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

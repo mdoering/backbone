@@ -1,5 +1,4 @@
-Macrophoma juglandis Matuo & Sakurai {?} SPECIES
-=======
+# Macrophoma juglandis Matuo & Sakurai {?} SPECIES
 
 #### Status
 ACCEPTED

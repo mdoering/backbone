@@ -1,5 +1,4 @@
-Mortierella bainier Costantin SPECIES
-=======
+# Mortierella bainier Costantin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Systremma globulosa (Cooke & Massee) Hansf. SPECIES
-=======
+# Systremma globulosa (Cooke & Massee) Hansf. SPECIES
 
 #### Status
 ACCEPTED

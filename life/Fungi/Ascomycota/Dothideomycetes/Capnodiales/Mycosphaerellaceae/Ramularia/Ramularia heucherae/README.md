@@ -1,5 +1,4 @@
-Ramularia heucherae (Dearn.) U. Braun SPECIES
-=======
+# Ramularia heucherae (Dearn.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

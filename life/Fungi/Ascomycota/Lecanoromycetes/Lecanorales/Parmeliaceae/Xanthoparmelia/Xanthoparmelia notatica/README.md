@@ -1,5 +1,4 @@
-Xanthoparmelia notatica Elix & U. Becker SPECIES
-=======
+# Xanthoparmelia notatica Elix & U. Becker SPECIES
 
 #### Status
 ACCEPTED

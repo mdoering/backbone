@@ -1,5 +1,4 @@
-Galera bryophila (Peck) Sacc. SPECIES
-=======
+# Galera bryophila (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

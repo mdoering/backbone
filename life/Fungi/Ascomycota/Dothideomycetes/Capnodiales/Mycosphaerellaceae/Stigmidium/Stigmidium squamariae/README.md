@@ -1,5 +1,4 @@
-Stigmidium squamariae (B. de Lesd.) Cl. Roux & Triebel SPECIES
-=======
+# Stigmidium squamariae (B. de Lesd.) Cl. Roux & Triebel SPECIES
 
 #### Status
 ACCEPTED

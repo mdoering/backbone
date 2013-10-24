@@ -1,5 +1,4 @@
-Streptococcus mutans Clarke, 1924 (Approved Lists, 1980) SPECIES
-=======
+# Streptococcus mutans Clarke, 1924 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

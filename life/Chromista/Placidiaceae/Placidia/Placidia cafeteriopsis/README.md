@@ -1,5 +1,4 @@
-Placidia cafeteriopsis Moriya, Nakayama & Inouye, 2002 SPECIES
-=======
+# Placidia cafeteriopsis Moriya, Nakayama & Inouye, 2002 SPECIES
 
 #### Status
 ACCEPTED

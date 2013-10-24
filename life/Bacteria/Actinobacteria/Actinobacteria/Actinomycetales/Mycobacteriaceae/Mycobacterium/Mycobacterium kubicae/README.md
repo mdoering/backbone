@@ -1,5 +1,4 @@
-Mycobacterium kubicae Floyd et al., 2000 SPECIES
-=======
+# Mycobacterium kubicae Floyd et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

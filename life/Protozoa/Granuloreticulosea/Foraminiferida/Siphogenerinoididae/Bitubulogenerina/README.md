@@ -1,5 +1,4 @@
-Bitubulogenerina Howe, 1934 GENUS
-=======
+# Bitubulogenerina Howe, 1934 GENUS
 
 #### Status
 ACCEPTED

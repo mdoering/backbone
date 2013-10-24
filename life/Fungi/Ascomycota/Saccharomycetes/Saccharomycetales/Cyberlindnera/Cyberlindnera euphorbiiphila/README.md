@@ -1,8 +1,7 @@
-Lindnera euphorbiiphila (Van der Walt) Kurtzman, Robnett & Basehoar-Powers, 2008 SPECIES
-=======
+# Cyberlindnera euphorbiiphila (Van der Walt) Minter, 2009 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Hansenula euphorbiiphila Van der Walt, 1982
 
 ### Remarks
 null

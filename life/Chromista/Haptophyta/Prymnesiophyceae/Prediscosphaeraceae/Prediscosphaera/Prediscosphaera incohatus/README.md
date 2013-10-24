@@ -1,5 +1,4 @@
-Prediscosphaera incohatus SPECIES
-=======
+# Prediscosphaera incohatus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyblastiopsis subargentea Zahlbr. SPECIES
-=======
+# Polyblastiopsis subargentea Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

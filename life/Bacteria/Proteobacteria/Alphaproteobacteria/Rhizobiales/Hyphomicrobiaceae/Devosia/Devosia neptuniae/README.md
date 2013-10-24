@@ -1,5 +1,4 @@
-Devosia neptuniae Rivas et al., 2003 SPECIES
-=======
+# Devosia neptuniae Rivas et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

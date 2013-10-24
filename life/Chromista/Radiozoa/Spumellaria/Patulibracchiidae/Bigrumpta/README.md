@@ -1,5 +1,4 @@
-Bigrumpta GENUS
-=======
+# Bigrumpta GENUS
 
 #### Status
 ACCEPTED

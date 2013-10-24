@@ -1,17 +1,16 @@
-Hypholoma ealeansis Beeli SPECIES
-=======
+# Hypholoma ealaensis Beeli SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Soc. R. Bot. Belg. 61(1): 95 (1928)
 
 #### Original name
-Hypholoma ealeansis Beeli
+Hypholoma ealaensis Beeli
 
 ### Remarks
 null

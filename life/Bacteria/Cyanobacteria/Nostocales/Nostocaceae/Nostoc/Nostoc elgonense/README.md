@@ -1,5 +1,4 @@
-Nostoc elgonense Naumann SPECIES
-=======
+# Nostoc elgonense Naumann SPECIES
 
 #### Status
 ACCEPTED

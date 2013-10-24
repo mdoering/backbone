@@ -1,5 +1,4 @@
-Thecotheus agranulosus Kimbr., 1969 SPECIES
-=======
+# Thecotheus agranulosus Kimbr., 1969 SPECIES
 
 #### Status
 ACCEPTED

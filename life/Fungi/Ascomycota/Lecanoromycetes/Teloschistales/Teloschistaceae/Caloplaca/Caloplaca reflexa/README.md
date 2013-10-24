@@ -1,5 +1,4 @@
-Caloplaca reflexa (Nyl.) Falgey SPECIES
-=======
+# Caloplaca reflexa (Nyl.) Falgey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,11 +1,10 @@
-Bumilleriopsis petersiana Vischer & Pascher, 1936 SPECIES
-=======
+# Bumilleriopsis peterseniana Vischer & Pascher SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

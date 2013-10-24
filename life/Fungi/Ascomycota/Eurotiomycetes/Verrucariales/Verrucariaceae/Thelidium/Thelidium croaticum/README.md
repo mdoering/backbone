@@ -1,5 +1,4 @@
-Thelidium croaticum Servít SPECIES
-=======
+# Thelidium croaticum Servít SPECIES
 
 #### Status
 ACCEPTED

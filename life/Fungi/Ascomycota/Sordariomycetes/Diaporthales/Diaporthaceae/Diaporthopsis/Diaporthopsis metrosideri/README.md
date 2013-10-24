@@ -1,5 +1,4 @@
-Diaporthopsis metrosideri Roane & Fosberg SPECIES
-=======
+# Diaporthopsis metrosideri Roane & Fosberg SPECIES
 
 #### Status
 ACCEPTED

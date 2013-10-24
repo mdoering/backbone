@@ -1,5 +1,4 @@
-Ciboria pastinacae Velen. SPECIES
-=======
+# Ciboria pastinacae Velen. SPECIES
 
 #### Status
 ACCEPTED

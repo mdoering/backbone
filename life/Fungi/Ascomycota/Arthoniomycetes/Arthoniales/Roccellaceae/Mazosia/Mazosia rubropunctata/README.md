@@ -1,5 +1,4 @@
-Mazosia rubropunctata R. Sant. SPECIES
-=======
+# Mazosia rubropunctata R. Sant. SPECIES
 
 #### Status
 ACCEPTED

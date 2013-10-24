@@ -1,5 +1,4 @@
-Didinium protectum SPECIES
-=======
+# Didinium protectum SPECIES
 
 #### Status
 ACCEPTED

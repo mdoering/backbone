@@ -1,17 +1,16 @@
-Buellia zahlbruckneri var. zahlbruckneri VARIETY
-=======
+# Tetramelas chloroleucus (Körb.) A. Nordin SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lichenologist 36(6): 356 (2004)
 
 #### Original name
-Buellia zahlbruckneri var. zahlbruckneri
+Buellia chloroleuca Körb.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Streptomyces psammoticus Virgilio and Hengeller, 1960 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces psammoticus Virgilio and Hengeller, 1960 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

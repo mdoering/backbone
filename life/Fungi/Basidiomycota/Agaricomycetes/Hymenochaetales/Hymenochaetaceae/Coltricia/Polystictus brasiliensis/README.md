@@ -1,5 +1,4 @@
-Polystictus brasiliensis Lloyd SPECIES
-=======
+# Polystictus brasiliensis Lloyd SPECIES
 
 #### Status
 ACCEPTED

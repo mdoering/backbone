@@ -1,5 +1,4 @@
-Polyporus carneolutea Rodway & Cleland SPECIES
-=======
+# Polyporus carneolutea Rodway & Cleland SPECIES
 
 #### Status
 ACCEPTED

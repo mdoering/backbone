@@ -1,5 +1,4 @@
-Solheimia kamatii Varghese & V.G. Rao SPECIES
-=======
+# Solheimia kamatii Varghese & V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerotheca monakai SPECIES
-=======
+# Sphaerotheca monakai SPECIES
 
 #### Status
 ACCEPTED

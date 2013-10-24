@@ -1,5 +1,4 @@
-Spilocaea ahmadii M.B. Ellis SPECIES
-=======
+# Spilocaea ahmadii M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

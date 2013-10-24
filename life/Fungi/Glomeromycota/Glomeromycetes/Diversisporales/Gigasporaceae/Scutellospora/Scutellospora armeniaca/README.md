@@ -1,17 +1,16 @@
-Cetraspora armeniaca (Blaszk.) Oehl, F.A. Souza & Sieverd., 2008 SPECIES
-=======
+# Scutellospora armeniaca Blaszk., 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 84(6): 939 (1993)
 
 #### Original name
-null
+Scutellospora armeniaca Blaszk., 1993
 
 ### Remarks
 null

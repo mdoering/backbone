@@ -1,5 +1,4 @@
-Nodularia epiphytica Gardner SPECIES
-=======
+# Nodularia epiphytica Gardner SPECIES
 
 #### Status
 ACCEPTED

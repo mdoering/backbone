@@ -1,5 +1,4 @@
-Septoria bellidiastri Allesch. SPECIES
-=======
+# Septoria bellidiastri Allesch. SPECIES
 
 #### Status
 ACCEPTED

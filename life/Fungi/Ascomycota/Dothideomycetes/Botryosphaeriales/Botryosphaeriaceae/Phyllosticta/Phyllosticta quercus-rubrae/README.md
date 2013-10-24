@@ -1,5 +1,4 @@
-Phyllosticta quercus-rubrae W.R. Gerard SPECIES
-=======
+# Phyllosticta quercus-rubrae W.R. Gerard SPECIES
 
 #### Status
 ACCEPTED

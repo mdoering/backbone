@@ -1,5 +1,4 @@
-Leptoporus Quélet, 1886 GENUS
-=======
+# Leptoporus Quélet, 1886 GENUS
 
 #### Status
 ACCEPTED

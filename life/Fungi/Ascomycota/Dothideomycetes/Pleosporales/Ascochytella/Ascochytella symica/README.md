@@ -1,5 +1,4 @@
-Ascochytella symica Petr. SPECIES
-=======
+# Ascochytella symica Petr. SPECIES
 
 #### Status
 ACCEPTED

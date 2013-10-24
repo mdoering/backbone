@@ -1,17 +1,16 @@
-Danaea ubiensis Caneva & Rambelli, 1981 SPECIES
-=======
+# Kiliophora ubiensis (Caneva & Rambelli) Kuthub. & Nawawi, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 48: 243 (1993)
 
 #### Original name
-null
+Danaëa ubiensis Caneva & Rambelli
 
 ### Remarks
 null

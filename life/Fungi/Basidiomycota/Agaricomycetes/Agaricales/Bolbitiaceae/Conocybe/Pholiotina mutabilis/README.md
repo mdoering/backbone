@@ -1,5 +1,4 @@
-Pholiotina mutabilis (Watling) Bon SPECIES
-=======
+# Pholiotina mutabilis (Watling) Bon SPECIES
 
 #### Status
 ACCEPTED

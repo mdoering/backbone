@@ -1,5 +1,4 @@
-Chitonomyces benjaminii W. Rossi SPECIES
-=======
+# Chitonomyces benjaminii W. Rossi SPECIES
 
 #### Status
 ACCEPTED

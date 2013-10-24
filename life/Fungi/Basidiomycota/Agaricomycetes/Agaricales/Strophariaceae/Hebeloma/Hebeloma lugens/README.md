@@ -1,5 +1,4 @@
-Hebeloma lugens (Jungh.) Gillet SPECIES
-=======
+# Hebeloma lugens (Jungh.) Gillet SPECIES
 
 #### Status
 ACCEPTED

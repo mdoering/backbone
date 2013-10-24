@@ -1,5 +1,4 @@
-Actinopeltis funtumiae Hansf. SPECIES
-=======
+# Actinopeltis funtumiae Hansf. SPECIES
 
 #### Status
 ACCEPTED

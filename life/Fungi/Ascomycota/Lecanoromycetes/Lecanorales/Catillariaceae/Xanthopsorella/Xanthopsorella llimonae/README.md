@@ -1,5 +1,4 @@
-Xanthopsorella llimonae Hertel, Egea & Poelt SPECIES
-=======
+# Xanthopsorella llimonae Hertel, Egea & Poelt SPECIES
 
 #### Status
 ACCEPTED

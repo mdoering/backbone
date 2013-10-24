@@ -1,5 +1,4 @@
-Cyttaria purdiei R.E. Buchanan, 1886 SPECIES
-=======
+# Cyttaria purdiei R.E. Buchanan, 1886 SPECIES
 
 #### Status
 ACCEPTED

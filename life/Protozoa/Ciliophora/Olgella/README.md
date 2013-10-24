@@ -1,5 +1,4 @@
-Olgella Koshevoj, 1987 GENUS
-=======
+# Olgella Koshevoj, 1987 GENUS
 
 #### Status
 ACCEPTED

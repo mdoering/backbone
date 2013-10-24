@@ -1,5 +1,4 @@
-Peziza chrysophthalma W.R. Gerard SPECIES
-=======
+# Peziza chrysophthalma W.R. Gerard SPECIES
 
 #### Status
 ACCEPTED

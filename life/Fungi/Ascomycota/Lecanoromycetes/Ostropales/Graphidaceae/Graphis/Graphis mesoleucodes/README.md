@@ -1,5 +1,4 @@
-Graphis mesoleucodes Nyl. SPECIES
-=======
+# Graphis mesoleucodes Nyl. SPECIES
 
 #### Status
 ACCEPTED

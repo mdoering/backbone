@@ -1,5 +1,4 @@
-Pleospora uniserialis Wehm. SPECIES
-=======
+# Pleospora uniserialis Wehm. SPECIES
 
 #### Status
 ACCEPTED

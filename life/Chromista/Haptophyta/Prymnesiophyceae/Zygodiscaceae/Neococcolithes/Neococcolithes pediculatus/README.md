@@ -1,5 +1,4 @@
-Neococcolithes pediculatus (Perch-Nielsen, 1967) Perch-Nielsen, 1971 SPECIES
-=======
+# Neococcolithes pediculatus (Perch-Nielsen, 1967) Perch-Nielsen, 1971 SPECIES
 
 #### Status
 ACCEPTED

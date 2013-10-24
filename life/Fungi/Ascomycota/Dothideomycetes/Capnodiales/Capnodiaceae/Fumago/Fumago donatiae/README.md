@@ -1,5 +1,4 @@
-Fumago donatiae B. Chandler SPECIES
-=======
+# Fumago donatiae B. Chandler SPECIES
 
 #### Status
 ACCEPTED

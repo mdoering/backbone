@@ -1,5 +1,4 @@
-Puccinia distichophylli E. Fisch. SPECIES
-=======
+# Puccinia distichophylli E. Fisch. SPECIES
 
 #### Status
 ACCEPTED

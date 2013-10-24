@@ -1,5 +1,4 @@
-Valsa aceris Cooke SPECIES
-=======
+# Valsa aceris Cooke SPECIES
 
 #### Status
 ACCEPTED

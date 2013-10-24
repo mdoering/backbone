@@ -1,5 +1,4 @@
-Stilbum vulgare Tode, 1790 SPECIES
-=======
+# Stilbum vulgare Tode, 1790 SPECIES
 
 #### Status
 ACCEPTED

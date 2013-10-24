@@ -1,17 +1,16 @@
-Dasyscypha echinophilus E.K. Cash SPECIES
-=======
+# Dasyscyphus echinophilus E.K. Cash SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 50: 645 (1958)
 
 #### Original name
-Dasyscypha echinophilus E.K. Cash
+Dasyscyphus echinophilus E.K. Cash
 
 ### Remarks
 null

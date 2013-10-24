@@ -1,5 +1,4 @@
-Sporotrichum flexuosum (Sacc. & Therry) Sacc. SPECIES
-=======
+# Sporotrichum flexuosum (Sacc. & Therry) Sacc. SPECIES
 
 #### Status
 ACCEPTED

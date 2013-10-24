@@ -1,5 +1,4 @@
-Protoventuria vancouverensis Dearn. SPECIES
-=======
+# Protoventuria vancouverensis Dearn. SPECIES
 
 #### Status
 ACCEPTED

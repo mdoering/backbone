@@ -1,5 +1,4 @@
-Discozythia Petr. GENUS
-=======
+# Discozythia Petr. GENUS
 
 #### Status
 ACCEPTED

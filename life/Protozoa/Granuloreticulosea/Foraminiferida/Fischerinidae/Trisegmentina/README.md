@@ -1,5 +1,4 @@
-Trisegmentina Wiesner, 1920 GENUS
-=======
+# Trisegmentina Wiesner, 1920 GENUS
 
 #### Status
 ACCEPTED

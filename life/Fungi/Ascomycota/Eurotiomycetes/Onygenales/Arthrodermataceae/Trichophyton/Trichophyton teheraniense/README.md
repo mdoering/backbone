@@ -1,5 +1,4 @@
-Trichophyton teheraniense Oeg. SPECIES
-=======
+# Trichophyton teheraniense Oeg. SPECIES
 
 #### Status
 ACCEPTED

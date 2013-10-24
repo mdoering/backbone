@@ -1,5 +1,4 @@
-Mycosphaerella sordidula (Speg.) Tomilin SPECIES
-=======
+# Mycosphaerella sordidula (Speg.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

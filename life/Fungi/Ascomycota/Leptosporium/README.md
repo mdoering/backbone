@@ -1,5 +1,4 @@
-Leptosporium GENUS
-=======
+# Leptosporium GENUS
 
 #### Status
 ACCEPTED

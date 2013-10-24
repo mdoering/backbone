@@ -1,5 +1,4 @@
-Chaetosphaeria squamulata (Schwein.) Sacc. SPECIES
-=======
+# Chaetosphaeria squamulata (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

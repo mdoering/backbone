@@ -1,5 +1,4 @@
-Trachelomonas perlata Deflandre SPECIES
-=======
+# Trachelomonas perlata Deflandre SPECIES
 
 #### Status
 ACCEPTED

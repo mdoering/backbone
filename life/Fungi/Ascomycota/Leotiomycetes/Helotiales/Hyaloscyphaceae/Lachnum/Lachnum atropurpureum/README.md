@@ -1,5 +1,4 @@
-Lachnum atropurpureum E.J. Durand SPECIES
-=======
+# Lachnum atropurpureum E.J. Durand SPECIES
 
 #### Status
 ACCEPTED

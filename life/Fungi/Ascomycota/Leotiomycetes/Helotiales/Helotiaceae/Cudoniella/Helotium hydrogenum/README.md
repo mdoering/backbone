@@ -1,5 +1,4 @@
-Helotium hydrogenum Peck SPECIES
-=======
+# Helotium hydrogenum Peck SPECIES
 
 #### Status
 ACCEPTED

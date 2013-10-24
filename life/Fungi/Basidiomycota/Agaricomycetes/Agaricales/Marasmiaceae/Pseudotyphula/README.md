@@ -1,5 +1,4 @@
-Pseudotyphula Corner GENUS
-=======
+# Pseudotyphula Corner GENUS
 
 #### Status
 ACCEPTED

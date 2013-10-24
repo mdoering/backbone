@@ -1,5 +1,4 @@
-Mycena piterbargii Singer SPECIES
-=======
+# Mycena piterbargii Singer SPECIES
 
 #### Status
 ACCEPTED

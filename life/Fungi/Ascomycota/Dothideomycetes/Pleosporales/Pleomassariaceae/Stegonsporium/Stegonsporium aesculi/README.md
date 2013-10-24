@@ -1,5 +1,4 @@
-Stegonsporium aesculi Sacc. SPECIES
-=======
+# Stegonsporium aesculi Sacc. SPECIES
 
 #### Status
 ACCEPTED

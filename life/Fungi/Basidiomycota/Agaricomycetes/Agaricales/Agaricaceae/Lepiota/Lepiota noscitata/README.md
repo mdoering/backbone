@@ -1,5 +1,4 @@
-Lepiota noscitata (Britzelm.) Sacc. SPECIES
-=======
+# Lepiota noscitata (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

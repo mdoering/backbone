@@ -1,5 +1,4 @@
-Diaporthe petiolarum Sacc. & Speg. SPECIES
-=======
+# Diaporthe petiolarum Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

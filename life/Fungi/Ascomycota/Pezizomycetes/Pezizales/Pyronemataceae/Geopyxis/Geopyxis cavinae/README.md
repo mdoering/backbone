@@ -1,5 +1,4 @@
-Geopyxis cavinae Velen. SPECIES
-=======
+# Geopyxis cavinae Velen. SPECIES
 
 #### Status
 ACCEPTED

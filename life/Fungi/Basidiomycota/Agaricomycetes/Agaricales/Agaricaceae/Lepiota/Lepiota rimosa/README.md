@@ -1,5 +1,4 @@
-Lepiota rimosa Murrill SPECIES
-=======
+# Lepiota rimosa Murrill SPECIES
 
 #### Status
 ACCEPTED

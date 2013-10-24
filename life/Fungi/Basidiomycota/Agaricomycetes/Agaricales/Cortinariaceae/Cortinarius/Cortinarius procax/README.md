@@ -1,5 +1,4 @@
-Cortinarius procax Melot SPECIES
-=======
+# Cortinarius procax Melot SPECIES
 
 #### Status
 ACCEPTED

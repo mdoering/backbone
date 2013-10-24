@@ -1,8 +1,7 @@
-Tubosaeta brunneosetosa var. brunneosetosa (Singer) E. Horak, 1967 VARIETY
-=======
+# Tubosaeta brunneosetosa (Singer) E. Horak, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Ber. schweiz. bot. Ges. 77: 368 (1967)
 
 #### Original name
-Tubosaeta brunneosetosa var. brunneosetosa (Singer) E. Horak, 1967
+Boletochaete brunneosetosa Singer, 1944
 
 ### Remarks
 null

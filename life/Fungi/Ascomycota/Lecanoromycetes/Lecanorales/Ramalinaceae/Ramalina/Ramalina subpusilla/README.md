@@ -1,5 +1,4 @@
-Ramalina subpusilla (Nyl.) Krog & Swinscow SPECIES
-=======
+# Ramalina subpusilla (Nyl.) Krog & Swinscow SPECIES
 
 #### Status
 ACCEPTED

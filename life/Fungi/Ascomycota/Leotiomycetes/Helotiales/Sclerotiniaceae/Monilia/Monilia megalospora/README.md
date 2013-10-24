@@ -1,5 +1,4 @@
-Monilia megalospora (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Monilia megalospora (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hendersonula yakushimensis T. Kobay. {?} SPECIES
-=======
+# Hendersonula yakushimensis T. Kobay. {?} SPECIES
 
 #### Status
 ACCEPTED

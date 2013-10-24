@@ -1,5 +1,4 @@
-Lecanora formosula Lumbsch SPECIES
-=======
+# Lecanora formosula Lumbsch SPECIES
 
 #### Status
 ACCEPTED

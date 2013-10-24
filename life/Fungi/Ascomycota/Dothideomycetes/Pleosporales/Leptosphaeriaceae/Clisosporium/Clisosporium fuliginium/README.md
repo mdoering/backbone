@@ -1,5 +1,4 @@
-Clisosporium fuliginium (P. Karst.) Kuntze SPECIES
-=======
+# Clisosporium fuliginium (P. Karst.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

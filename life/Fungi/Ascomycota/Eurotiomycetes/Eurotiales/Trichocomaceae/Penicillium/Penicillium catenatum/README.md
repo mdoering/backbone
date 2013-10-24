@@ -1,17 +1,16 @@
-Penicillium tularense Paden, 1971 SPECIES
-=======
+# Penicillium catenatum D.B. Scott, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycopath. Mycol. appl. 43(3-4): 264 (1971)
+Mycopath. Mycol. appl. 36: 24 (1968)
 
 #### Original name
-Penicillium tularense Paden, 1971
+Penicillium catenatum D.B. Scott, 1968
 
 ### Remarks
 null

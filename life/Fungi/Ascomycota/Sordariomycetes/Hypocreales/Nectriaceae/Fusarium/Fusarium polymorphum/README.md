@@ -1,5 +1,4 @@
-Fusarium polymorphum var. polymorphum VARIETY
-=======
+# Fusarium polymorphum Matr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Fusarium polymorphum var. polymorphum
+Fusarium polymorphum Matr.
 
 ### Remarks
 null

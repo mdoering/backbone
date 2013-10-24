@@ -1,5 +1,4 @@
-Septoria anthophila Tassi SPECIES
-=======
+# Septoria anthophila Tassi SPECIES
 
 #### Status
 ACCEPTED

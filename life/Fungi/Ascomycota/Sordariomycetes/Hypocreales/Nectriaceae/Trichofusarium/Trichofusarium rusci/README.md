@@ -1,5 +1,4 @@
-Trichofusarium rusci (Sacc.) Bubák SPECIES
-=======
+# Trichofusarium rusci (Sacc.) Bubák SPECIES
 
 #### Status
 ACCEPTED

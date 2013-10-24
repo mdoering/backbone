@@ -1,5 +1,4 @@
-Entoloma cinchoniense Murrill SPECIES
-=======
+# Entoloma cinchoniense Murrill SPECIES
 
 #### Status
 ACCEPTED

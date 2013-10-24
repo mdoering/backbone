@@ -1,17 +1,16 @@
-Septobasidium paulensis Henn. SPECIES
-=======
+# Septobasidium paulense Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hedwigia 43: 197 (1904)
 
 #### Original name
-Septobasidium paulensis Henn.
+Septobasidium paulense Henn.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Sphaeronaema microscopicum Wallr. SPECIES
-=======
+# Sphaeronaema microscopicum Wallr. SPECIES
 
 #### Status
 ACCEPTED

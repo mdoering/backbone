@@ -1,14 +1,13 @@
-Torula fasciculata Matsush., 1975 SPECIES
-=======
+# Matsushimaea fasciculata (Matsush.) Subram., 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Icon. microfung. Matsush. lect. (Kobe) 153 (1975)
+Kavaka 5: 96 (1978)
 
 #### Original name
 Torula fasciculata Matsush., 1975

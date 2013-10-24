@@ -1,5 +1,4 @@
-Bacillina antipolitana Nyl. SPECIES
-=======
+# Bacillina antipolitana Nyl. SPECIES
 
 #### Status
 ACCEPTED

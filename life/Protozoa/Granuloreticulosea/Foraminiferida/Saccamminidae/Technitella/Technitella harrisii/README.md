@@ -1,5 +1,4 @@
-Technitella harrisii (Heron-Allen & Earland, 1914) SPECIES
-=======
+# Technitella harrisii (Heron-Allen & Earland, 1914) SPECIES
 
 #### Status
 ACCEPTED

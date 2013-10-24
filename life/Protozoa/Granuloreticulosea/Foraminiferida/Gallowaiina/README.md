@@ -1,5 +1,4 @@
-Gallowaiina Chen, 1934 GENUS
-=======
+# Gallowaiina Chen, 1934 GENUS
 
 #### Status
 ACCEPTED

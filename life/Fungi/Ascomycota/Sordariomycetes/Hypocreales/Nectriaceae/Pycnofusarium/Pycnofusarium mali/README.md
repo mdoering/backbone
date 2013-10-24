@@ -1,5 +1,4 @@
-Pycnofusarium mali B. Sutton SPECIES
-=======
+# Pycnofusarium mali B. Sutton SPECIES
 
 #### Status
 ACCEPTED

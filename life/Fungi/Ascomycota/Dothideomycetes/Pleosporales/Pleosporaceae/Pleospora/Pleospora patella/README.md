@@ -1,5 +1,4 @@
-Pleospora patella Fabre SPECIES
-=======
+# Pleospora patella Fabre SPECIES
 
 #### Status
 ACCEPTED

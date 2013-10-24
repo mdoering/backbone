@@ -1,5 +1,4 @@
-Teichospora sylvana Sacc. & Speg. SPECIES
-=======
+# Teichospora sylvana Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

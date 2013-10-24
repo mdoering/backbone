@@ -1,5 +1,4 @@
-Pertusaria epitheciifera Sipman SPECIES
-=======
+# Pertusaria epitheciifera Sipman SPECIES
 
 #### Status
 ACCEPTED

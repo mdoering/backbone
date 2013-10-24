@@ -1,5 +1,4 @@
-Strickeria mate Speg. SPECIES
-=======
+# Strickeria mate Speg. SPECIES
 
 #### Status
 ACCEPTED

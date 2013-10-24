@@ -1,5 +1,4 @@
-Phyllachora jacarandae Bat., 1949 SPECIES
-=======
+# Phyllachora jacarandae Bat., 1949 SPECIES
 
 #### Status
 ACCEPTED

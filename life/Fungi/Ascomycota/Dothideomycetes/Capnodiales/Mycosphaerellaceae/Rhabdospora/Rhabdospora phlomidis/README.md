@@ -1,5 +1,4 @@
-Rhabdospora phlomidis I.E. Brezhnev SPECIES
-=======
+# Rhabdospora phlomidis I.E. Brezhnev SPECIES
 
 #### Status
 ACCEPTED

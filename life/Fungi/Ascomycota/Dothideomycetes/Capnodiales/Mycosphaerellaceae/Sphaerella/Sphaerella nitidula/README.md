@@ -1,14 +1,13 @@
-Phyllachora nitidula (Lév.) Cooke, 1885 SPECIES
-=======
+# Sphaerella nitidula (Lév.) Berk., 1876 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 13(no. 67): 69 (1885)
+J. Linn. Soc. , London 15: 397 (1876)
 
 #### Original name
 Sphaeria nitidula Lév., 1845

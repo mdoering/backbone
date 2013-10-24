@@ -1,5 +1,4 @@
-Agaricus semigilvus Secr. SPECIES
-=======
+# Agaricus semigilvus Secr. SPECIES
 
 #### Status
 ACCEPTED

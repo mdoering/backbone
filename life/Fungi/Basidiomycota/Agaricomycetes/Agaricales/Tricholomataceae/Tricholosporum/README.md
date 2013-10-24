@@ -1,5 +1,4 @@
-Tricholosporum Guzmán GENUS
-=======
+# Tricholosporum Guzmán GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Thecaphora spilanthes F.O. Freire & Vánky SPECIES
-=======
+# Thecaphora spilanthis F.O. Freire & Vánky SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Vánky, Mycotaxon 59: 97 (1996)
 
 #### Original name
-Thecaphora spilanthes F.O. Freire & Vánky
+Thecaphora spilanthis F.O. Freire & Vánky
 
 ### Remarks
 null

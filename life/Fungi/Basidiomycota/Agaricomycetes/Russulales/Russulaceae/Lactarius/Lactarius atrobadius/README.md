@@ -1,5 +1,4 @@
-Lactarius atrobadius Hesler & A.H. Sm. SPECIES
-=======
+# Lactarius atrobadius Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

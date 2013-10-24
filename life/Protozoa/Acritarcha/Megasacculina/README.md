@@ -1,5 +1,4 @@
-Megasacculina S.N. Naumova, 1960 GENUS
-=======
+# Megasacculina S.N. Naumova, 1960 GENUS
 
 #### Status
 ACCEPTED

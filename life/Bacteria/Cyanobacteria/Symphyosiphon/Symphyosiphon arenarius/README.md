@@ -1,5 +1,4 @@
-Symphyosiphon arenarius Zanardini SPECIES
-=======
+# Symphyosiphon arenarius Zanardini SPECIES
 
 #### Status
 ACCEPTED

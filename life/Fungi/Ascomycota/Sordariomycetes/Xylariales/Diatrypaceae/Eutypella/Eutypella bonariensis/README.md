@@ -1,5 +1,4 @@
-Eutypella bonariensis Speg. SPECIES
-=======
+# Eutypella bonariensis Speg. SPECIES
 
 #### Status
 ACCEPTED

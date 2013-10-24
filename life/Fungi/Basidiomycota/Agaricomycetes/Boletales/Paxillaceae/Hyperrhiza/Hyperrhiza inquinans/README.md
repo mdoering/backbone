@@ -1,5 +1,4 @@
-Hyperrhiza inquinans Rabenh. SPECIES
-=======
+# Hyperrhiza inquinans Rabenh. SPECIES
 
 #### Status
 ACCEPTED

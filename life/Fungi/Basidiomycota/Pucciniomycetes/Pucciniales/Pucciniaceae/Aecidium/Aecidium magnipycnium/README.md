@@ -1,5 +1,4 @@
-Aecidium magnipycnium Cummins SPECIES
-=======
+# Aecidium magnipycnium Cummins SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eutypa bathurstensis K.D. Hyde & Rappaz, 1993 SPECIES
-=======
+# Eutypa bathurstensis K.D. Hyde & Rappaz, 1993 SPECIES
 
 #### Status
 ACCEPTED

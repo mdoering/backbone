@@ -1,5 +1,4 @@
-Vaginulinopsis wetherelli (Jones) SPECIES
-=======
+# Vaginulinopsis wetherelli (Jones) SPECIES
 
 #### Status
 ACCEPTED

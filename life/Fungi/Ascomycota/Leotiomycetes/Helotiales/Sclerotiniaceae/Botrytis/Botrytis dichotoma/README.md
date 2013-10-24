@@ -1,5 +1,4 @@
-Botrytis dichotoma Corda SPECIES
-=======
+# Botrytis dichotoma Corda SPECIES
 
 #### Status
 ACCEPTED

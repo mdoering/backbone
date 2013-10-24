@@ -1,5 +1,4 @@
-Sphaerella helodis A.L. Sm. & Ramsb. SPECIES
-=======
+# Sphaerella helodis A.L. Sm. & Ramsb. SPECIES
 
 #### Status
 ACCEPTED

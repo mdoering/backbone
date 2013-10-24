@@ -1,5 +1,4 @@
-Olsenella profusa Dewhirst et al., 2001 SPECIES
-=======
+# Olsenella profusa Dewhirst et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

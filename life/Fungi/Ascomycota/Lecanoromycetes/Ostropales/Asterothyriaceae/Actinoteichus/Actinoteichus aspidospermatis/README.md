@@ -1,5 +1,4 @@
-Actinoteichus aspidospermatis Peres SPECIES
-=======
+# Actinoteichus aspidospermatis Peres SPECIES
 
 #### Status
 ACCEPTED

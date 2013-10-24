@@ -1,5 +1,4 @@
-Passalora leprosa (Speg.) U. Braun SPECIES
-=======
+# Passalora leprosa (Speg.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

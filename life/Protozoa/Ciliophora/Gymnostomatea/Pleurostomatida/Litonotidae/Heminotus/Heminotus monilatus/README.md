@@ -1,5 +1,4 @@
-Heminotus monilatus Dragesco & Dragesco-Kernéis, 1986 SPECIES
-=======
+# Heminotus monilatus Dragesco & Dragesco-Kernéis, 1986 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria arthoniaria Nyl. SPECIES
-=======
+# Pertusaria arthoniaria Nyl. SPECIES
 
 #### Status
 ACCEPTED

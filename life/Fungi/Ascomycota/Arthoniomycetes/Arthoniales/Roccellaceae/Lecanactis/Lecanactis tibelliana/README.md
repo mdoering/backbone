@@ -1,5 +1,4 @@
-Lecanactis tibelliana Egea & Torrente SPECIES
-=======
+# Lecanactis tibelliana Egea & Torrente SPECIES
 
 #### Status
 ACCEPTED

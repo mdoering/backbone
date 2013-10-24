@@ -1,5 +1,4 @@
-Pyrenophora dactylidis Ammon, 1963 SPECIES
-=======
+# Pyrenophora dactylidis Ammon, 1963 SPECIES
 
 #### Status
 ACCEPTED

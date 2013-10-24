@@ -1,5 +1,4 @@
-Phyllosticta albanica Bubák SPECIES
-=======
+# Phyllosticta albanica Bubák SPECIES
 
 #### Status
 ACCEPTED

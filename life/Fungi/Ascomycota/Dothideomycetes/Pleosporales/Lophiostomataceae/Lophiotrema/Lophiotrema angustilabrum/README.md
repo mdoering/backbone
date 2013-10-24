@@ -1,5 +1,4 @@
-Lophiotrema angustilabrum f. angustilabrum FORM
-=======
+# Lophiotrema angustilabrum SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lophiotrema angustilabrum f. angustilabrum
+null
 
 ### Remarks
 null

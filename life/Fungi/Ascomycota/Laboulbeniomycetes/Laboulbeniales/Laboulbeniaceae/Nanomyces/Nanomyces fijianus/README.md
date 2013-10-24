@@ -1,5 +1,4 @@
-Nanomyces fijianus Thaxt., 1931 SPECIES
-=======
+# Nanomyces fijianus Thaxt., 1931 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acremoniella councilmanii (Wolbach, Sisson & Meier) Vuill. SPECIES
-=======
+# Acremoniella councilmanii (Wolbach, Sisson & Meier) Vuill. SPECIES
 
 #### Status
 ACCEPTED

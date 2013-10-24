@@ -1,5 +1,4 @@
-Triophthalmidium theloshistoides SPECIES
-=======
+# Triophthalmidium theloshistoides SPECIES
 
 #### Status
 ACCEPTED

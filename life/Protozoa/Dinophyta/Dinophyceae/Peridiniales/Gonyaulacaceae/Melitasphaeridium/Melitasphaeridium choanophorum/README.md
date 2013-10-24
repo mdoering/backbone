@@ -1,5 +1,4 @@
-Melitasphaeridium choanophorum (Deflandre & Cookson, 1955) Harland & Hill, 1979 SPECIES
-=======
+# Melitasphaeridium choanophorum (Deflandre & Cookson, 1955) Harland & Hill, 1979 SPECIES
 
 #### Status
 ACCEPTED

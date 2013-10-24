@@ -1,5 +1,4 @@
-Usnea balcanica Bystrek SPECIES
-=======
+# Usnea balcanica Bystrek SPECIES
 
 #### Status
 ACCEPTED

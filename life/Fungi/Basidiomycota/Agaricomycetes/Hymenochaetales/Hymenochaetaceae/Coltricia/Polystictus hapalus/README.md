@@ -1,5 +1,4 @@
-Polystictus hapalus SPECIES
-=======
+# Polystictus hapalus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acanthoeca spectabilis Ellis, 1930 SPECIES
-=======
+# Acanthoeca spectabilis Ellis, 1930 SPECIES
 
 #### Status
 ACCEPTED

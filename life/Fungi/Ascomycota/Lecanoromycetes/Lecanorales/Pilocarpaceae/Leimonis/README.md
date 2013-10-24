@@ -1,5 +1,4 @@
-Leimonis R.C. Harris GENUS
-=======
+# Leimonis R.C. Harris GENUS
 
 #### Status
 ACCEPTED

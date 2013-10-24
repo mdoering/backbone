@@ -1,5 +1,4 @@
-Synchytrium cookii Lingappa SPECIES
-=======
+# Synchytrium cookii Lingappa SPECIES
 
 #### Status
 ACCEPTED

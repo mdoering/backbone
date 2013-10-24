@@ -1,5 +1,4 @@
-Filisphaeridium capillatum Timofeev, 1959 ex Combaz & Peniguel, 1972 SPECIES
-=======
+# Filisphaeridium capillatum Timofeev, 1959 ex Combaz & Peniguel, 1972 SPECIES
 
 #### Status
 ACCEPTED

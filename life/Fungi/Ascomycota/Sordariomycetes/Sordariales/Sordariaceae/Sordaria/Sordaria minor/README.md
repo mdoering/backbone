@@ -1,5 +1,4 @@
-Sordaria minor (Ellis & Everh.) Sacc. & P. Syd. SPECIES
-=======
+# Sordaria minor (Ellis & Everh.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

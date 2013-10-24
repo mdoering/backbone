@@ -1,5 +1,4 @@
-Puccinia eupatoriicola Mayor SPECIES
-=======
+# Puccinia eupatoriicola Mayor SPECIES
 
 #### Status
 ACCEPTED

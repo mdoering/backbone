@@ -1,5 +1,4 @@
-Euglena dicentra Skuja SPECIES
-=======
+# Euglena dicentra Skuja SPECIES
 
 #### Status
 ACCEPTED

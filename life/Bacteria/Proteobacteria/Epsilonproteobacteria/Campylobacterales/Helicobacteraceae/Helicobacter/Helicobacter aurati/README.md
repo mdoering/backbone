@@ -1,5 +1,4 @@
-Helicobacter aurati Patterson et al., 2002 SPECIES
-=======
+# Helicobacter aurati Patterson et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

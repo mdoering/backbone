@@ -1,5 +1,4 @@
-Ciferriolichen GENUS
-=======
+# Ciferriolichen GENUS
 
 #### Status
 ACCEPTED

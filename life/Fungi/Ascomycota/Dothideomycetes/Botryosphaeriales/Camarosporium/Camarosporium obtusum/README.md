@@ -1,5 +1,4 @@
-Camarosporium obtusum Nann. SPECIES
-=======
+# Camarosporium obtusum Nann. SPECIES
 
 #### Status
 ACCEPTED

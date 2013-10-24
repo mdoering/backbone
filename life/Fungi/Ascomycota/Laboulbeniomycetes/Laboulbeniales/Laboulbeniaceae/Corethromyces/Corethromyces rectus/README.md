@@ -1,5 +1,4 @@
-Corethromyces rectus Speg. SPECIES
-=======
+# Corethromyces rectus Speg. SPECIES
 
 #### Status
 ACCEPTED

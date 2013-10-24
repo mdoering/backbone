@@ -1,5 +1,4 @@
-Parmelia manilensis Vain. SPECIES
-=======
+# Parmelia manilensis Vain. SPECIES
 
 #### Status
 ACCEPTED

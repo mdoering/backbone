@@ -1,5 +1,4 @@
-Patellaria floccosa Wallr. SPECIES
-=======
+# Patellaria floccosa Wallr. SPECIES
 
 #### Status
 ACCEPTED

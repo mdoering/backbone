@@ -1,5 +1,4 @@
-Thielavia Zopf GENUS
-=======
+# Thielavia Zopf GENUS
 
 #### Status
 ACCEPTED

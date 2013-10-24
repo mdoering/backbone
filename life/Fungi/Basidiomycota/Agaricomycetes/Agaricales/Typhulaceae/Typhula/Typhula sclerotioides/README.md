@@ -1,14 +1,13 @@
-Phacorhiza sclerotioides Pers., 1822 SPECIES
-=======
+# Typhula sclerotioides (Pers.) Fr., 1838 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. eur. (Erlanga) 1: 11 (1822)
+Epicr. syst. mycol. (Upsaliae) 585 (1838)
 
 #### Original name
 Phacorhiza sclerotioides Pers., 1822

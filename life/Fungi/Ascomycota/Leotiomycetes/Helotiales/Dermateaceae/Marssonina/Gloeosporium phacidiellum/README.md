@@ -1,5 +1,4 @@
-Gloeosporium phacidiellum Grove SPECIES
-=======
+# Gloeosporium phacidiellum Grove SPECIES
 
 #### Status
 ACCEPTED

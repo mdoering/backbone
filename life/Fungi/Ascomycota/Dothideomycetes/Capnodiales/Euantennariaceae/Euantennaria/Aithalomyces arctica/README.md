@@ -1,5 +1,4 @@
-Aithalomyces arctica Woron. SPECIES
-=======
+# Aithalomyces arctica Woron. SPECIES
 
 #### Status
 ACCEPTED

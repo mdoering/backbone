@@ -1,5 +1,4 @@
-Corticium hypopyrrhinum Berk. & M.A. Curtis SPECIES
-=======
+# Corticium hypopyrrhinum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

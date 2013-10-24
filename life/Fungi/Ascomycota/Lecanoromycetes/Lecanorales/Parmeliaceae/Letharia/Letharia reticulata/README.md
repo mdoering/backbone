@@ -1,5 +1,4 @@
-Letharia reticulata (Du Rietz) Zahlbr. SPECIES
-=======
+# Letharia reticulata (Du Rietz) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Passalora bacilligera f. bacilligera FORM
-=======
+# Passalora bacilligera Fr. & Mont., 1849 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Summa veg. Scand. (Stockholm), Section Post. 500 (1849)
 
 #### Original name
-Passalora bacilligera f. bacilligera
+Passalora bacilligera Fr. & Mont., 1849
 
 ### Remarks
 null

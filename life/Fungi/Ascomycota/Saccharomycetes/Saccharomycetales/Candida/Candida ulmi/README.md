@@ -1,5 +1,4 @@
-Candida ulmi Kurtzman SPECIES
-=======
+# Candida ulmi Kurtzman SPECIES
 
 #### Status
 ACCEPTED

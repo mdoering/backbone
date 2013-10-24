@@ -1,5 +1,4 @@
-Panus paradoxus Henn. SPECIES
-=======
+# Panus paradoxus Henn. SPECIES
 
 #### Status
 ACCEPTED

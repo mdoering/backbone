@@ -1,5 +1,4 @@
-Palaeocystodinium lidiae (Górka, 1963) Davey, 1969 SPECIES
-=======
+# Palaeocystodinium lidiae (Górka, 1963) Davey, 1969 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vararia trinidadensis A.L. Welden, 1965 SPECIES
-=======
+# Vararia trinidadensis A.L. Welden, 1965 SPECIES
 
 #### Status
 ACCEPTED

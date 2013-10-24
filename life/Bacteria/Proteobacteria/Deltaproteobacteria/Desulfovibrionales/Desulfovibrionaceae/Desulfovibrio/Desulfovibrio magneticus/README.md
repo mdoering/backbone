@@ -1,5 +1,4 @@
-Desulfovibrio magneticus Sakaguchi et al., 2002 SPECIES
-=======
+# Desulfovibrio magneticus Sakaguchi et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

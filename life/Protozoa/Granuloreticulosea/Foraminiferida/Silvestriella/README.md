@@ -1,5 +1,4 @@
-Silvestriella Hanzawa, 1952 GENUS
-=======
+# Silvestriella Hanzawa, 1952 GENUS
 
 #### Status
 ACCEPTED

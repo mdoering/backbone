@@ -1,5 +1,4 @@
-Gibberella pseudopulicaris Wollenw. SPECIES
-=======
+# Gibberella pseudopulicaris Wollenw. SPECIES
 
 #### Status
 ACCEPTED

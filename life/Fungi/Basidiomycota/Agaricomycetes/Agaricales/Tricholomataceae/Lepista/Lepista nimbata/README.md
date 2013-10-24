@@ -1,5 +1,4 @@
-Lepista nimbata (Batsch) Courtec. SPECIES
-=======
+# Lepista nimbata (Batsch) Courtec. SPECIES
 
 #### Status
 ACCEPTED

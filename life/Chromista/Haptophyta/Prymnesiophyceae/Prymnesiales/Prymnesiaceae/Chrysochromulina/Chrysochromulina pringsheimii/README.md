@@ -1,5 +1,4 @@
-Chrysochromulina pringsheimii Parke & Manton, 1962 SPECIES
-=======
+# Chrysochromulina pringsheimii Parke & Manton, 1962 SPECIES
 
 #### Status
 ACCEPTED

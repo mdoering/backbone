@@ -1,5 +1,4 @@
-Eurotium longipes Kuntze SPECIES
-=======
+# Eurotium longipes Kuntze SPECIES
 
 #### Status
 ACCEPTED

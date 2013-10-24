@@ -1,5 +1,4 @@
-Postia davidae M. Pieri & B. Rivoire SPECIES
-=======
+# Postia davidae M. Pieri & B. Rivoire SPECIES
 
 #### Status
 ACCEPTED

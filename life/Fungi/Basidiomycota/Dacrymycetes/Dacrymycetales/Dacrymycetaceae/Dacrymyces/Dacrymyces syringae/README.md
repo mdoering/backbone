@@ -1,5 +1,4 @@
-Dacrymyces syringae (Schumach.) Fr. SPECIES
-=======
+# Dacrymyces syringae (Schumach.) Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gelatinopsis leptogii Ertz & Diederich SPECIES
-=======
+# Gelatinopsis leptogii Ertz & Diederich SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Amphisphaeria applanata var. applanata VARIETY
-=======
+# Astrosphaeriella applanata (Fr.) Scheinpflug, 1958 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ber. schweiz. bot. Ges. 68: 370 (1958)
 
 #### Original name
-Amphisphaeria applanata var. applanata
+Sphaeria applanata Oudem., 1876
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Trichopeziza bernardiana Sacc. & Letell. SPECIES
-=======
+# Trichopeziza bernardiana Sacc. & Letell. SPECIES
 
 #### Status
 ACCEPTED

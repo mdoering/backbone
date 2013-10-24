@@ -1,5 +1,4 @@
-Hypoxylon symphyon Möller, 1901 SPECIES
-=======
+# Hypoxylon symphyon Möller, 1901 SPECIES
 
 #### Status
 ACCEPTED

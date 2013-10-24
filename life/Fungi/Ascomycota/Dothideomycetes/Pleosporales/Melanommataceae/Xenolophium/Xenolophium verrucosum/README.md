@@ -1,5 +1,4 @@
-Xenolophium verrucosum Syd. SPECIES
-=======
+# Xenolophium verrucosum Syd. SPECIES
 
 #### Status
 ACCEPTED

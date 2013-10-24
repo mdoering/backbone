@@ -1,5 +1,4 @@
-Kalijanella Petrova, 1981 GENUS
-=======
+# Kalijanella Petrova, 1981 GENUS
 
 #### Status
 ACCEPTED

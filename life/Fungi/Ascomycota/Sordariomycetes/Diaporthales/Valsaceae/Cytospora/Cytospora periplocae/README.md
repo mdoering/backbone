@@ -1,5 +1,4 @@
-Cytospora periplocae Urries SPECIES
-=======
+# Cytospora periplocae Urries SPECIES
 
 #### Status
 ACCEPTED

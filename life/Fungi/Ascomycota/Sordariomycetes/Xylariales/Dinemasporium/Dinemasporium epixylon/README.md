@@ -1,5 +1,4 @@
-Dinemasporium epixylon Fautrey SPECIES
-=======
+# Dinemasporium epixylon Fautrey SPECIES
 
 #### Status
 ACCEPTED

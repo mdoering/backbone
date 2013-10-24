@@ -1,5 +1,4 @@
-Dictyota humifusa Hörnig, Schnetter & Coppejans SPECIES
-=======
+# Dictyota humifusa Hörnig, Schnetter & Coppejans SPECIES
 
 #### Status
 ACCEPTED

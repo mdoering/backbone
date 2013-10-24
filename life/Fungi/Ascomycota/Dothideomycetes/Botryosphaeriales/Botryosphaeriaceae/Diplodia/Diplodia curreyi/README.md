@@ -1,5 +1,4 @@
-Diplodia curreyi Sacc. & Roum. SPECIES
-=======
+# Diplodia curreyi Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

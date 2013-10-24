@@ -1,5 +1,4 @@
-Gymnomyces clelandii T. Lebel, 2003 SPECIES
-=======
+# Gymnomyces clelandii T. Lebel, 2003 SPECIES
 
 #### Status
 ACCEPTED

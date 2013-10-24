@@ -1,17 +1,16 @@
-Blistum B. Sutton GENUS
-=======
+# Polycephalomyces Kobayasi, 1941 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Mycol. Pap. 132: 16 (1973)
+null
 
 #### Original name
-Blistum B. Sutton
+null
 
 ### Remarks
 null

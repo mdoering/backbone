@@ -1,5 +1,4 @@
-Alternaria hibiscina (Thüm.) E.G. Simmons SPECIES
-=======
+# Alternaria hibiscina (Thüm.) E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

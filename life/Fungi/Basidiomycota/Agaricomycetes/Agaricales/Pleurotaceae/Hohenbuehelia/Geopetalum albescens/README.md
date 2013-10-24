@@ -1,5 +1,4 @@
-Geopetalum albescens Murrill SPECIES
-=======
+# Geopetalum albescens Murrill SPECIES
 
 #### Status
 ACCEPTED

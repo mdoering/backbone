@@ -1,5 +1,4 @@
-Buellia crocata Zahlbr. SPECIES
-=======
+# Buellia crocata Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

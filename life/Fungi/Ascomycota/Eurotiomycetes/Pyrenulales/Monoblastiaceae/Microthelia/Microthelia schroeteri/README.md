@@ -1,5 +1,4 @@
-Microthelia schroeteri (Niessl) Kuntze SPECIES
-=======
+# Microthelia schroeteri (Niessl) Kuntze SPECIES
 
 #### Status
 ACCEPTED

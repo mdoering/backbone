@@ -1,5 +1,4 @@
-Septoria zeae G.L. Stout SPECIES
-=======
+# Septoria zeae G.L. Stout SPECIES
 
 #### Status
 ACCEPTED

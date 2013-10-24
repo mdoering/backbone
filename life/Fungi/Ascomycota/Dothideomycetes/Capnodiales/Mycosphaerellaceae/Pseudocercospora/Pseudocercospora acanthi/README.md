@@ -1,5 +1,4 @@
-Pseudocercospora acanthi Deighton SPECIES
-=======
+# Pseudocercospora acanthi Deighton SPECIES
 
 #### Status
 ACCEPTED

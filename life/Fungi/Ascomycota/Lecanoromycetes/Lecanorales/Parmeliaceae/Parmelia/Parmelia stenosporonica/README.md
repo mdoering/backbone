@@ -1,5 +1,4 @@
-Parmelia stenosporonica (Hale) Brusse SPECIES
-=======
+# Parmelia stenosporonica (Hale) Brusse SPECIES
 
 #### Status
 ACCEPTED

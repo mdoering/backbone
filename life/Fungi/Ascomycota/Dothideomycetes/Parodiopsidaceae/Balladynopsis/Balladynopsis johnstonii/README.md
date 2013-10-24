@@ -1,5 +1,4 @@
-Balladynopsis johnstonii Sivan. SPECIES
-=======
+# Balladynopsis johnstonii Sivan. SPECIES
 
 #### Status
 ACCEPTED

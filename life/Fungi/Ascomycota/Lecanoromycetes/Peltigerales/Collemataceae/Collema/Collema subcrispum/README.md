@@ -1,5 +1,4 @@
-Collema subcrispum Nyl. SPECIES
-=======
+# Collema subcrispum Nyl. SPECIES
 
 #### Status
 ACCEPTED

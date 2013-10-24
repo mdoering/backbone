@@ -1,5 +1,4 @@
-Mycena paralactea S. Imai SPECIES
-=======
+# Mycena paralactea S. Imai SPECIES
 
 #### Status
 ACCEPTED

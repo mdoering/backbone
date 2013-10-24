@@ -1,5 +1,4 @@
-Phoma cynoglossi I.E. Brezhnev SPECIES
-=======
+# Phoma cynoglossi I.E. Brezhnev SPECIES
 
 #### Status
 ACCEPTED

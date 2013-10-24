@@ -1,5 +1,4 @@
-Cirsosia dipterocarpi (Henn.) Bat. & H. Maia SPECIES
-=======
+# Cirsosia dipterocarpi (Henn.) Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

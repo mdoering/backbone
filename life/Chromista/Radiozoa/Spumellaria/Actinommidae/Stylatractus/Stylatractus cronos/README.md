@@ -1,5 +1,4 @@
-Stylatractus cronos (Haeckel, 1887) SPECIES
-=======
+# Stylatractus cronos (Haeckel, 1887) SPECIES
 
 #### Status
 ACCEPTED

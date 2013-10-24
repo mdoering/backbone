@@ -1,5 +1,4 @@
-Coleroa papyricola Saccas SPECIES
-=======
+# Coleroa papyricola Saccas SPECIES
 
 #### Status
 ACCEPTED

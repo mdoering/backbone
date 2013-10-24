@@ -1,5 +1,4 @@
-Pseudovorticella foissneri Sun, Song & Xu, 2007 SPECIES
-=======
+# Pseudovorticella foissneri Sun, Song & Xu, 2007 SPECIES
 
 #### Status
 ACCEPTED

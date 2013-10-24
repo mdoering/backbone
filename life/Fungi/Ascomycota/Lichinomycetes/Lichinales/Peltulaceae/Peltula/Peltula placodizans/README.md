@@ -1,17 +1,16 @@
-Endocarpiscum placodizans Fink SPECIES
-=======
+# Peltula placodizans (Zahlbr.) Wetmore SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 1(2): 87 (1909)
+Ann. Mo. bot. Gdn 57: 179 (1971)
 
 #### Original name
-Endocarpiscum placodizans Fink
+Heppia placodizans (Fink) Zahlbr.
 
 ### Remarks
 null

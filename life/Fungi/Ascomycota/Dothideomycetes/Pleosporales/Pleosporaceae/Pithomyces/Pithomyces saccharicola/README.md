@@ -1,5 +1,4 @@
-Pithomyces saccharicola X.G. Zhang & T.Y. Zhang SPECIES
-=======
+# Pithomyces saccharicola X.G. Zhang & T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

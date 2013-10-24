@@ -1,5 +1,4 @@
-Atelosaccharomyces moachoi Mello SPECIES
-=======
+# Atelosaccharomyces moachoi Mello SPECIES
 
 #### Status
 ACCEPTED

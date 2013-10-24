@@ -1,14 +1,13 @@
-Hyalopsora laeviuscula (Dietel & Holw.) Arthur SPECIES
-=======
+# Hyalopsora leviuscula (Dietel & Holw.) Arthur SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+N. Amer. Fl. (New York) 7(2): 113 (1907)
 
 #### Original name
 Uredo leviuscula Dietel & Holw.

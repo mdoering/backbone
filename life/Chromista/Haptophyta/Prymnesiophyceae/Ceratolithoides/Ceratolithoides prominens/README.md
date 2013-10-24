@@ -1,5 +1,4 @@
-Ceratolithoides prominens SPECIES
-=======
+# Ceratolithoides prominens SPECIES
 
 #### Status
 ACCEPTED

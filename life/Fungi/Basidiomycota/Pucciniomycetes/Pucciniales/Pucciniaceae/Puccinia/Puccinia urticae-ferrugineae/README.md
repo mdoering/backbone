@@ -1,5 +1,4 @@
-Puccinia urticae-ferrugineae Gäum. SPECIES
-=======
+# Puccinia urticae-ferrugineae Gäum. SPECIES
 
 #### Status
 ACCEPTED

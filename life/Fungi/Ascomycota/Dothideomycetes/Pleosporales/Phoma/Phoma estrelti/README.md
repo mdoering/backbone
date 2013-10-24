@@ -1,5 +1,4 @@
-Phoma estrelti Fairm. SPECIES
-=======
+# Phoma estrelti Fairm. SPECIES
 
 #### Status
 ACCEPTED

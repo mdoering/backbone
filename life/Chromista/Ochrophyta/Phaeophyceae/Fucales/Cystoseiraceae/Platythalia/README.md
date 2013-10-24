@@ -1,5 +1,4 @@
-Platythalia Sonder, 1845 GENUS
-=======
+# Platythalia Sonder, 1845 GENUS
 
 #### Status
 ACCEPTED

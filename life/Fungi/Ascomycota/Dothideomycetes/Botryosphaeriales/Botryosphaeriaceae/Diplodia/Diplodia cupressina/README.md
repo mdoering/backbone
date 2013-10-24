@@ -1,5 +1,4 @@
-Diplodia cupressina Cooke SPECIES
-=======
+# Diplodia cupressina Cooke SPECIES
 
 #### Status
 ACCEPTED

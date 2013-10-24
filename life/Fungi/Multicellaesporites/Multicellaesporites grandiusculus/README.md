@@ -1,5 +1,4 @@
-Multicellaesporites grandiusculus Sheffy & Dilcher SPECIES
-=======
+# Multicellaesporites grandiusculus Sheffy & Dilcher SPECIES
 
 #### Status
 ACCEPTED

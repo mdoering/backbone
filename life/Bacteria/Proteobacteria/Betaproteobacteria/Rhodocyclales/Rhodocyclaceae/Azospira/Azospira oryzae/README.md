@@ -1,5 +1,4 @@
-Azospira oryzae Reinhold-Hurek & Hurek, 2000 SPECIES
-=======
+# Azospira oryzae Reinhold-Hurek & Hurek, 2000 SPECIES
 
 #### Status
 ACCEPTED

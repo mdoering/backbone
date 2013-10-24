@@ -1,5 +1,4 @@
-Caloplaca trachyphylla (Tuck.) Zahlbr. SPECIES
-=======
+# Caloplaca trachyphylla (Tuck.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

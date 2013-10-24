@@ -1,5 +1,4 @@
-Polytaxis Cushman & Waters, 1928 GENUS
-=======
+# Polytaxis Cushman & Waters, 1928 GENUS
 
 #### Status
 ACCEPTED

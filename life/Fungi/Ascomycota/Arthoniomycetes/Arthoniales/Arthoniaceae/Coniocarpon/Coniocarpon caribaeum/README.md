@@ -1,5 +1,4 @@
-Coniocarpon caribaeum Fée SPECIES
-=======
+# Coniocarpon caribaeum Fée SPECIES
 
 #### Status
 ACCEPTED

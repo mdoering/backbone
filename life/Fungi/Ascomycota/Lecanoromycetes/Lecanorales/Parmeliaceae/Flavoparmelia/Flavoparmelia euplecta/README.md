@@ -1,14 +1,13 @@
-Pseudoparmelia euplecta (Stirt.) Hale SPECIES
-=======
+# Flavoparmelia euplecta (Stirt.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Phytologia 29: 190 (1974)
+Mycotaxon 25(2): 604 (1986)
 
 #### Original name
 Parmelia euplecta Stirt.

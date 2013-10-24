@@ -1,5 +1,4 @@
-Pseudocercospora anomala (Berk. & M.A. Curtis) de Hoog SPECIES
-=======
+# Pseudocercospora anomala (Berk. & M.A. Curtis) de Hoog SPECIES
 
 #### Status
 ACCEPTED

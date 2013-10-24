@@ -1,5 +1,4 @@
-Stagonospora brevispora (Ellis & Davis) Castell. & Germano SPECIES
-=======
+# Stagonospora brevispora (Ellis & Davis) Castell. & Germano SPECIES
 
 #### Status
 ACCEPTED

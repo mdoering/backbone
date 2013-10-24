@@ -1,17 +1,16 @@
-Saccardoëlla allequashensis Fallah & Shearer SPECIES
-=======
+# Saccardoella allequashensis Fallah & Shearer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 93(3): 580 (2001)
 
 #### Original name
-Saccardoëlla allequashensis Fallah & Shearer
+Saccardoella allequashensis Fallah & Shearer
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Sphaerella melconiana Unamuno SPECIES
-=======
+# Sphaerella melconiana Unamuno SPECIES
 
 #### Status
 ACCEPTED

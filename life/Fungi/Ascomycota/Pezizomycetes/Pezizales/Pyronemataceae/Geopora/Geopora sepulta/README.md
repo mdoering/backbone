@@ -1,14 +1,13 @@
-Peziza sepulta Fr., 1851 SPECIES
-=======
+# Geopora sepulta (Fr.) Korf & Burds., 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mag. nat. Hist. , Ser. 2 13: 463 (1851)
+in Burdsall, Mycologia 60(3): 500 (1968)
 
 #### Original name
 Peziza sepulta Fr., 1851

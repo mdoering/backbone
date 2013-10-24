@@ -1,5 +1,4 @@
-Cortinarius lanatipes Peck SPECIES
-=======
+# Cortinarius lanatipes Peck SPECIES
 
 #### Status
 ACCEPTED

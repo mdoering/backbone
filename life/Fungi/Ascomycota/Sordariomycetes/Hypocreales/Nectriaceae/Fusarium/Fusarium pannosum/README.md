@@ -1,5 +1,4 @@
-Fusarium pannosum Massee SPECIES
-=======
+# Fusarium pannosum Massee SPECIES
 
 #### Status
 ACCEPTED

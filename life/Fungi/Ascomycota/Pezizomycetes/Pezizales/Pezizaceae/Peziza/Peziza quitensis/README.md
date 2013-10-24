@@ -1,5 +1,4 @@
-Peziza quitensis Pat. SPECIES
-=======
+# Peziza quitensis Pat. SPECIES
 
 #### Status
 ACCEPTED

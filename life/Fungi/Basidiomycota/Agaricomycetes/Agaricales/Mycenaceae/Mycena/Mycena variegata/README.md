@@ -1,5 +1,4 @@
-Mycena variegata (Pers.) Gray SPECIES
-=======
+# Mycena variegata (Pers.) Gray SPECIES
 
 #### Status
 ACCEPTED

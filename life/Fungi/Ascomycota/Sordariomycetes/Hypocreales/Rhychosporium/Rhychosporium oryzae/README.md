@@ -1,5 +1,4 @@
-Rhychosporium oryzae Hashioka & Yokogi SPECIES
-=======
+# Rhychosporium oryzae Hashioka & Yokogi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anzia forbesiana Paulson SPECIES
-=======
+# Anzia forbesiana Paulson SPECIES
 
 #### Status
 ACCEPTED

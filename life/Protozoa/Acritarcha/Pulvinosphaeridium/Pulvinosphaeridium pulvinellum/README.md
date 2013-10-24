@@ -1,5 +1,4 @@
-Pulvinosphaeridium pulvinellum Sheshegova, 1975 SPECIES
-=======
+# Pulvinosphaeridium pulvinellum Sheshegova, 1975 SPECIES
 
 #### Status
 ACCEPTED

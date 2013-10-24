@@ -1,5 +1,4 @@
-Kyphomyces copropori (Thaxt.) I.I. Tav. SPECIES
-=======
+# Kyphomyces copropori (Thaxt.) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

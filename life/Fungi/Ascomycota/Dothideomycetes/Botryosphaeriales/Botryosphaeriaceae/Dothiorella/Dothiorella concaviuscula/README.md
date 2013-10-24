@@ -1,5 +1,4 @@
-Dothiorella concaviuscula Ellis & Barthol. SPECIES
-=======
+# Dothiorella concaviuscula Ellis & Barthol. SPECIES
 
 #### Status
 ACCEPTED

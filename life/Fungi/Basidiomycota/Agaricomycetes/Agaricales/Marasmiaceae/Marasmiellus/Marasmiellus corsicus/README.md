@@ -1,5 +1,4 @@
-Marasmiellus corsicus Noordel., Antonín & P.-A. Moreau SPECIES
-=======
+# Marasmiellus corsicus Noordel., Antonín & P.-A. Moreau SPECIES
 
 #### Status
 ACCEPTED

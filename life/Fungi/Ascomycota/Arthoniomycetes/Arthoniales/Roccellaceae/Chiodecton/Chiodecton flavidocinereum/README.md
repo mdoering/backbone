@@ -1,5 +1,4 @@
-Chiodecton flavidocinereum B. de Lesd. SPECIES
-=======
+# Chiodecton flavidocinereum B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

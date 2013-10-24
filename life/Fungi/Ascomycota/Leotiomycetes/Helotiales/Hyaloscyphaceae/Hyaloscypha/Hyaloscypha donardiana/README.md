@@ -1,5 +1,4 @@
-Hyaloscypha donardiana anon. SPECIES
-=======
+# Hyaloscypha donardiana anon. SPECIES
 
 #### Status
 ACCEPTED

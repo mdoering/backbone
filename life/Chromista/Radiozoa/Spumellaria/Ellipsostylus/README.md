@@ -1,5 +1,4 @@
-Ellipsostylus Haeckel, 1887 GENUS
-=======
+# Ellipsostylus Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

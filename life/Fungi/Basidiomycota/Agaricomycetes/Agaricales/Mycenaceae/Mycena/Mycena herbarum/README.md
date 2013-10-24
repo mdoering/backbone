@@ -1,5 +1,4 @@
-Mycena herbarum Singer SPECIES
-=======
+# Mycena herbarum Singer SPECIES
 
 #### Status
 ACCEPTED

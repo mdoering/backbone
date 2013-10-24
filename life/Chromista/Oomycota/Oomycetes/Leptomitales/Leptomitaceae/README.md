@@ -1,5 +1,4 @@
-Leptomitaceae Kütz. FAMILY
-=======
+# Leptomitaceae Kütz. FAMILY
 
 #### Status
 ACCEPTED

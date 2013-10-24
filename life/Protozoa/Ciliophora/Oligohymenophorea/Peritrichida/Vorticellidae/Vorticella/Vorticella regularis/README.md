@@ -1,5 +1,4 @@
-Vorticella regularis Dumas, 1929 SPECIES
-=======
+# Vorticella regularis Dumas, 1929 SPECIES
 
 #### Status
 ACCEPTED

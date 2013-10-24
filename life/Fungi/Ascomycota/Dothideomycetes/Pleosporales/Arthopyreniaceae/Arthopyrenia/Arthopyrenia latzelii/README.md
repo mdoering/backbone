@@ -1,5 +1,4 @@
-Arthopyrenia latzelii Zahlbr. SPECIES
-=======
+# Arthopyrenia latzelii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

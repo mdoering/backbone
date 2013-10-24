@@ -1,5 +1,4 @@
-Phaeosphaerella ephedrae (Hollós) Petr. SPECIES
-=======
+# Phaeosphaerella ephedrae (Hollós) Petr. SPECIES
 
 #### Status
 ACCEPTED

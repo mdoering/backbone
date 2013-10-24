@@ -1,5 +1,4 @@
-Catenomyces striisporum Rick SPECIES
-=======
+# Catenomyces striisporum Rick SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Danea P.Morgenroth, 1968 GENUS
-=======
+# Danea P.Morgenroth, 1968 GENUS
 
 #### Status
 ACCEPTED

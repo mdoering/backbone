@@ -1,5 +1,4 @@
-Gliscolithus amitakarenae R.E. Norris SPECIES
-=======
+# Gliscolithus amitakarenae R.E. Norris SPECIES
 
 #### Status
 ACCEPTED

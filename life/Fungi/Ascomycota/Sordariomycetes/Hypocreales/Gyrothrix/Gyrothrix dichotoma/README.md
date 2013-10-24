@@ -1,5 +1,4 @@
-Gyrothrix dichotoma Piroz. SPECIES
-=======
+# Gyrothrix dichotoma Piroz. SPECIES
 
 #### Status
 ACCEPTED

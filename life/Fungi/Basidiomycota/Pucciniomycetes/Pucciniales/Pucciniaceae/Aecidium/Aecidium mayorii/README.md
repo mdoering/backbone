@@ -1,5 +1,4 @@
-Aecidium mayorii E. Fisch. SPECIES
-=======
+# Aecidium mayorii E. Fisch. SPECIES
 
 #### Status
 ACCEPTED

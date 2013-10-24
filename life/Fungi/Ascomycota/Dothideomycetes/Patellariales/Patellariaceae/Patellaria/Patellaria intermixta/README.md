@@ -1,5 +1,4 @@
-Patellaria intermixta (Nyl.) Müll Arg. SPECIES
-=======
+# Patellaria intermixta (Nyl.) Müll Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleurotus niphetus Ellis SPECIES
-=======
+# Pleurotus niphetus Ellis SPECIES
 
 #### Status
 ACCEPTED

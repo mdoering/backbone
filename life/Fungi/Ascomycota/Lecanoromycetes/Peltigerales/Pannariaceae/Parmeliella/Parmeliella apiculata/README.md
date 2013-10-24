@@ -1,5 +1,4 @@
-Parmeliella apiculata (C. Knight) Müll. Arg. SPECIES
-=======
+# Parmeliella apiculata (C. Knight) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

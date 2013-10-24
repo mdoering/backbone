@@ -1,5 +1,4 @@
-Helicoön irregulare P.M. Kirk SPECIES
-=======
+# Helicoön irregulare P.M. Kirk SPECIES
 
 #### Status
 ACCEPTED

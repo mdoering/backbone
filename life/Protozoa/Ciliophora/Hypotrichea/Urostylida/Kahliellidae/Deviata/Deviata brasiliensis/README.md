@@ -1,5 +1,4 @@
-Deviata brasiliensis Siqueira-Castro, Paiva da & Silva-Neto da, 2009 SPECIES
-=======
+# Deviata brasiliensis Siqueira-Castro, Paiva da & Silva-Neto da, 2009 SPECIES
 
 #### Status
 ACCEPTED

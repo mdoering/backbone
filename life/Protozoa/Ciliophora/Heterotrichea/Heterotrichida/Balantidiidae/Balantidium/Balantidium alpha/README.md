@@ -1,5 +1,4 @@
-Balantidium alpha Earl, 1973 SPECIES
-=======
+# Balantidium alpha Earl, 1973 SPECIES
 
 #### Status
 ACCEPTED

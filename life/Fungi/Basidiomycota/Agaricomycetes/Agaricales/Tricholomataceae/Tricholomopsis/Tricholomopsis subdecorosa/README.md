@@ -1,5 +1,4 @@
-Tricholomopsis subdecorosa (Murrill) A.H. Sm. SPECIES
-=======
+# Tricholomopsis subdecorosa (Murrill) A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

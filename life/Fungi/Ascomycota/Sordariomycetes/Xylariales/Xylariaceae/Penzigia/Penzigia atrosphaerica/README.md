@@ -1,5 +1,4 @@
-Penzigia atrosphaerica (Cooke & Massee) J.N. Mill. SPECIES
-=======
+# Penzigia atrosphaerica (Cooke & Massee) J.N. Mill. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coriolus ambiguus (Berk.) G. Cunn. SPECIES
-=======
+# Coriolus ambiguus (Berk.) G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

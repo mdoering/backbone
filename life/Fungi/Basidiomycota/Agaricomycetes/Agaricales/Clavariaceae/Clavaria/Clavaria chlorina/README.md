@@ -1,5 +1,4 @@
-Clavaria chlorina Berk. & Broome SPECIES
-=======
+# Clavaria chlorina Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

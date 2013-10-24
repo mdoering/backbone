@@ -1,5 +1,4 @@
-Cercoseptoria hedyotidis J.M. Yen SPECIES
-=======
+# Cercoseptoria hedyotidis J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

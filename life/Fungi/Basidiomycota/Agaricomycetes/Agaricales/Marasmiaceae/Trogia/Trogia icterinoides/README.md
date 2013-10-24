@@ -1,5 +1,4 @@
-Trogia icterinoides Corner SPECIES
-=======
+# Trogia icterinoides Corner SPECIES
 
 #### Status
 ACCEPTED

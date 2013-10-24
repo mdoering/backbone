@@ -1,17 +1,16 @@
-Anaptychia intricata f. intricata (Desf.) A. Massal. FORM
-=======
+# Tornabea scutellifera (With.) J. R. Laundon SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lichenologist 16(3): 226 (1984)
 
 #### Original name
-Anaptychia intricata f. intricata (Desf.) A. Massal.
+Lichen scutelliferus With.
 
 ### Remarks
 null

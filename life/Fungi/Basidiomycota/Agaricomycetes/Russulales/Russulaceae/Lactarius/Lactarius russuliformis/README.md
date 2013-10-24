@@ -1,14 +1,13 @@
-Lactarius russulaeformis (Beeli) Verbeken SPECIES
-=======
+# Lactarius russuliformis (Beeli) Verbeken SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Edinb. J. Bot. 53(1): 60 (1996)
 
 #### Original name
 Omphalia russuliformis Beeli

@@ -1,5 +1,4 @@
-Aecidium glechomae Gaillard SPECIES
-=======
+# Aecidium glechomae Gaillard SPECIES
 
 #### Status
 ACCEPTED

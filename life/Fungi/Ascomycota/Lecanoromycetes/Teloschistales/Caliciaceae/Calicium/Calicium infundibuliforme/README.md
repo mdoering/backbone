@@ -1,5 +1,4 @@
-Calicium infundibuliforme R. Sant. SPECIES
-=======
+# Calicium infundibuliforme R. Sant. SPECIES
 
 #### Status
 ACCEPTED

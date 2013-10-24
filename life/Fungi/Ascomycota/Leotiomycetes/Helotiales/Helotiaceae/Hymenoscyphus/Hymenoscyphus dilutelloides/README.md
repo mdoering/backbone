@@ -1,14 +1,13 @@
-Hymenoscyphus dilutellodes (Rehm) Kuntze SPECIES
-=======
+# Hymenoscyphus dilutelloides (Rehm) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3: 485 (1898)
 
 #### Original name
 Pezizella dilutelloides Rehm

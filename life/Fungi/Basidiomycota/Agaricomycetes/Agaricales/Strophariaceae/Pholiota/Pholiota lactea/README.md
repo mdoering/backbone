@@ -1,5 +1,4 @@
-Pholiota lactea A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota lactea A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

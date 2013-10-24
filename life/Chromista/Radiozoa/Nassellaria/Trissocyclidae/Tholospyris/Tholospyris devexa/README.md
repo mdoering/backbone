@@ -1,5 +1,4 @@
-Tholospyris devexa Goll, 1969 SPECIES
-=======
+# Tholospyris devexa Goll, 1969 SPECIES
 
 #### Status
 ACCEPTED

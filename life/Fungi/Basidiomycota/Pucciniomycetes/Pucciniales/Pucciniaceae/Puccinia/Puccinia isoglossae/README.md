@@ -1,5 +1,4 @@
-Puccinia isoglossae Doidge SPECIES
-=======
+# Puccinia isoglossae Doidge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psilocybe wassoniorum Guzmán & S.H. Pollock SPECIES
-=======
+# Psilocybe wassoniorum Guzmán & S.H. Pollock SPECIES
 
 #### Status
 ACCEPTED

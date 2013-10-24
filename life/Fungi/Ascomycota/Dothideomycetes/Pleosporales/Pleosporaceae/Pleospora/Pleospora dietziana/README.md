@@ -1,5 +1,4 @@
-Pleospora dietziana Hazsl. SPECIES
-=======
+# Pleospora dietziana Hazsl. SPECIES
 
 #### Status
 ACCEPTED

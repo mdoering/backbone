@@ -1,5 +1,4 @@
-Lactarius dewevrei Douanla-Meli SPECIES
-=======
+# Lactarius dewevrei Douanla-Meli SPECIES
 
 #### Status
 ACCEPTED

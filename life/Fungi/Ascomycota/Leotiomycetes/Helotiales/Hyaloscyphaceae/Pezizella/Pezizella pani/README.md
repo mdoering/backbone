@@ -1,5 +1,4 @@
-Pezizella pani Velen. SPECIES
-=======
+# Pezizella pani Velen. SPECIES
 
 #### Status
 ACCEPTED

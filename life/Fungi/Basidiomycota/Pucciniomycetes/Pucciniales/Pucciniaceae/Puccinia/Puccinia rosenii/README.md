@@ -1,5 +1,4 @@
-Puccinia rosenii Arthur SPECIES
-=======
+# Puccinia rosenii Arthur SPECIES
 
 #### Status
 ACCEPTED

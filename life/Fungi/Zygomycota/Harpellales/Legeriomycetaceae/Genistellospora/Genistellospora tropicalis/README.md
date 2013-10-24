@@ -1,5 +1,4 @@
-Genistellospora tropicalis Ríos-Velásquez, Alencar, Lichtw. & Hamada, 2003 SPECIES
-=======
+# Genistellospora tropicalis Ríos-Velásquez, Alencar, Lichtw. & Hamada, 2003 SPECIES
 
 #### Status
 ACCEPTED

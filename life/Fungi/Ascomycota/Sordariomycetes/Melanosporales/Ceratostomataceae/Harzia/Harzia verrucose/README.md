@@ -1,5 +1,4 @@
-Harzia verrucose (Togn.) Hoel.-Jech. SPECIES
-=======
+# Harzia verrucose (Togn.) Hoel.-Jech. SPECIES
 
 #### Status
 ACCEPTED

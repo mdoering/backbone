@@ -1,5 +1,4 @@
-Dicaeoma intermixtum (Peck) Kuntze SPECIES
-=======
+# Dicaeoma intermixtum (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

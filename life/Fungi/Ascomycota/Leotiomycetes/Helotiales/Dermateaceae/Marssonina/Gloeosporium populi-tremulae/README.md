@@ -1,5 +1,4 @@
-Gloeosporium populi-tremulae F. Lamb. SPECIES
-=======
+# Gloeosporium populi-tremulae F. Lamb. SPECIES
 
 #### Status
 ACCEPTED

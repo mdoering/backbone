@@ -1,5 +1,4 @@
-Gloeosporium sarmenticium Mont. SPECIES
-=======
+# Gloeosporium sarmenticium Mont. SPECIES
 
 #### Status
 ACCEPTED

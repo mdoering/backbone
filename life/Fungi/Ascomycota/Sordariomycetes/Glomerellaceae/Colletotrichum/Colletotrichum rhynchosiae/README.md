@@ -1,5 +1,4 @@
-Colletotrichum rhynchosiae Pavgi & U.P. Singh SPECIES
-=======
+# Colletotrichum rhynchosiae Pavgi & U.P. Singh SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oropogon herzogii Essl. SPECIES
-=======
+# Oropogon herzogii Essl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Certesia ovata Vacelet, 1960 SPECIES
-=======
+# Certesia quadrinucleata Fabre-Domergue, 1885 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

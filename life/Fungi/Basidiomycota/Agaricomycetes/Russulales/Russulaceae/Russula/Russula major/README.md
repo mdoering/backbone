@@ -1,5 +1,4 @@
-Russula major Singer SPECIES
-=======
+# Russula major Singer SPECIES
 
 #### Status
 ACCEPTED

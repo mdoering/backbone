@@ -1,17 +1,16 @@
-Omphalia clavipes var. comitialis (Pers.) Quél., 1886 VARIETY
-=======
+# Ampulloclitocybe clavipes (Pers.) Redhead, Lutzoni, Moncalvo & Vilgalys, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 83: 36 (2002)
 
 #### Original name
-null
+Agaricus clavipes Pers., 1801
 
 ### Remarks
 null

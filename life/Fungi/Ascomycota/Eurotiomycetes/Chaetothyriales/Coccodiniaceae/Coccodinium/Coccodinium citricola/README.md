@@ -1,5 +1,4 @@
-Coccodinium citricola M.E. Barr SPECIES
-=======
+# Coccodinium citricola M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hydnum luteopallidum Schwein. SPECIES
-=======
+# Hydnum luteopallidum Schwein. SPECIES
 
 #### Status
 ACCEPTED

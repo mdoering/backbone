@@ -1,5 +1,4 @@
-Quinqueloculina petrophila SPECIES
-=======
+# Quinqueloculina petrophila SPECIES
 
 #### Status
 ACCEPTED

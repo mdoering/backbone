@@ -1,5 +1,4 @@
-Nodulosphaeria succisae Munk SPECIES
-=======
+# Nodulosphaeria succisae Munk SPECIES
 
 #### Status
 ACCEPTED

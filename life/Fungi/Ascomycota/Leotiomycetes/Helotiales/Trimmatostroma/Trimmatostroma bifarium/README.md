@@ -1,5 +1,4 @@
-Trimmatostroma bifarium Gadgil & M.A. Dick, 1983 SPECIES
-=======
+# Trimmatostroma bifarium Gadgil & M.A. Dick, 1983 SPECIES
 
 #### Status
 ACCEPTED

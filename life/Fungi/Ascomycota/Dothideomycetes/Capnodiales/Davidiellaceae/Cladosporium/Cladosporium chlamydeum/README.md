@@ -1,5 +1,4 @@
-Cladosporium chlamydeum Cif. & Redaelli, 1957 SPECIES
-=======
+# Cladosporium chlamydeum Cif. & Redaelli, 1957 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Mycena langei Maire SPECIES
-=======
+# Mycena capillaripes Peck SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Belgian Species List

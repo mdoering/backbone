@@ -1,5 +1,4 @@
-Sphaeria subclavata Lagger SPECIES
-=======
+# Sphaeria subclavata Lagger SPECIES
 
 #### Status
 ACCEPTED

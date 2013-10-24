@@ -1,5 +1,4 @@
-Periconia pusilla Corda SPECIES
-=======
+# Periconia pusilla Corda SPECIES
 
 #### Status
 ACCEPTED

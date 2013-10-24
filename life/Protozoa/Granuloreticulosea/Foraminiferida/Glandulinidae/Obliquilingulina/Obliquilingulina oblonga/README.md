@@ -1,5 +1,4 @@
-Obliquilingulina oblonga Zheng, 1979 SPECIES
-=======
+# Obliquilingulina oblonga Zheng, 1979 SPECIES
 
 #### Status
 ACCEPTED

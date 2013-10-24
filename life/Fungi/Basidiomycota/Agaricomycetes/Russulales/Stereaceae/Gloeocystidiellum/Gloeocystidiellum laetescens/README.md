@@ -1,5 +1,4 @@
-Gloeocystidiellum laetescens anon. SPECIES
-=======
+# Gloeocystidiellum laetescens anon. SPECIES
 
 #### Status
 ACCEPTED

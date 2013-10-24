@@ -1,5 +1,4 @@
-Uncinula linkii Speg. SPECIES
-=======
+# Uncinula linkii Speg. SPECIES
 
 #### Status
 ACCEPTED

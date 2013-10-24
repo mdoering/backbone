@@ -1,5 +1,4 @@
-Physarum permegalosporum Nann.-Bremek. & Y. Yamam., 1990 SPECIES
-=======
+# Physarum permegalosporum Nann.-Bremek. & Y. Yamam., 1990 SPECIES
 
 #### Status
 ACCEPTED

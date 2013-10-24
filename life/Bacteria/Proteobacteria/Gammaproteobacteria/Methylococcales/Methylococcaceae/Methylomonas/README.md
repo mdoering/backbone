@@ -1,5 +1,4 @@
-Methylomonas Leadbetter, 1974 GENUS
-=======
+# Methylomonas Leadbetter, 1974 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia monsoniae (Syd. & P. Syd.) Doidge SPECIES
-=======
+# Puccinia monsoniae (Syd. & P. Syd.) Doidge SPECIES
 
 #### Status
 ACCEPTED

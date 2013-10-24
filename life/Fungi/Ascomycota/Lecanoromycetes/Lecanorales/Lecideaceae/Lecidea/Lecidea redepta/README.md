@@ -1,5 +1,4 @@
-Lecidea redepta Stirt. SPECIES
-=======
+# Lecidea redepta Stirt. SPECIES
 
 #### Status
 ACCEPTED

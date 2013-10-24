@@ -1,5 +1,4 @@
-Galerina inundata Arnolds SPECIES
-=======
+# Galerina inundata Arnolds SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Libertella heveae (Petch) B. Sutton, 1980 SPECIES
-=======
+# Libertella heveae (Petch) B. Sutton, 1980 SPECIES
 
 #### Status
 ACCEPTED

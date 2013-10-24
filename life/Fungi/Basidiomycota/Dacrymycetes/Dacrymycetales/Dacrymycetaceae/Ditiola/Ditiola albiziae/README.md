@@ -1,5 +1,4 @@
-Ditiola albiziae Coker SPECIES
-=======
+# Ditiola albiziae Coker SPECIES
 
 #### Status
 ACCEPTED

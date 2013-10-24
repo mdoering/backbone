@@ -1,5 +1,4 @@
-Sclerotium gyrosum Grev. SPECIES
-=======
+# Sclerotium gyrosum Grev. SPECIES
 
 #### Status
 ACCEPTED

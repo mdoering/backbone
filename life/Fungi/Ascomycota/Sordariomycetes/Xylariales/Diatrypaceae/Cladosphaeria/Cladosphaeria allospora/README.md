@@ -1,5 +1,4 @@
-Cladosphaeria allospora G.H. Otth SPECIES
-=======
+# Cladosphaeria allospora G.H. Otth SPECIES
 
 #### Status
 ACCEPTED

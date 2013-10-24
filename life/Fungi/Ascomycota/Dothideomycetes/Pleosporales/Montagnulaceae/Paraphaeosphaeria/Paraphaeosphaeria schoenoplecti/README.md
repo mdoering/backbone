@@ -1,5 +1,4 @@
-Paraphaeosphaeria schoenoplecti M.K.M. Wong, Goh & K.D. Hyde SPECIES
-=======
+# Paraphaeosphaeria schoenoplecti M.K.M. Wong, Goh & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

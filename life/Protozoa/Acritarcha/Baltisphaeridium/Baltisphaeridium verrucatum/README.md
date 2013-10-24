@@ -1,5 +1,4 @@
-Baltisphaeridium verrucatum Kjellström, 1971 SPECIES
-=======
+# Baltisphaeridium verrucatum Kjellström, 1971 SPECIES
 
 #### Status
 ACCEPTED

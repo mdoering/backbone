@@ -1,14 +1,13 @@
-Microsporidium arthuri J. Lom, I. Dyková & F. Shaharom SPECIES
-=======
+# Kabatana arthuri (J. Lom, Dyková & F. Shaharom) J. Lom, Dyková & K. Tonguthai, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. Parasit. 93(3): 655-660 (2000)
 
 #### Original name
 Microsporidium arthuri J. Lom, I. Dyková & F. Shaharom

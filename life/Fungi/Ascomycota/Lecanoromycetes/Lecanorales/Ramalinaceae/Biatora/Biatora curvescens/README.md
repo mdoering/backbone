@@ -1,5 +1,4 @@
-Biatora curvescens Th. Fr. SPECIES
-=======
+# Biatora curvescens Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

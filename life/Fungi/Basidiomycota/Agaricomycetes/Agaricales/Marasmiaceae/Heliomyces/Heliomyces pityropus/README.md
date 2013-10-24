@@ -1,5 +1,4 @@
-Heliomyces pityropus Lév. SPECIES
-=======
+# Heliomyces pityropus Lév. SPECIES
 
 #### Status
 ACCEPTED

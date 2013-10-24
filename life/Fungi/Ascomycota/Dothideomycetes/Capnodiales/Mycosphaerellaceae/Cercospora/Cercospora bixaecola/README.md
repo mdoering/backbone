@@ -1,5 +1,4 @@
-Cercospora bixaecola Narayan, Kharwar & R.K. Singh SPECIES
-=======
+# Cercospora bixaecola Narayan, Kharwar & R.K. Singh SPECIES
 
 #### Status
 ACCEPTED

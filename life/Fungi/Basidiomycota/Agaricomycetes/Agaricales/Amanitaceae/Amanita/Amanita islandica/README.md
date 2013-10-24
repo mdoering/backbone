@@ -1,5 +1,4 @@
-Amanita islandica Melot SPECIES
-=======
+# Amanita islandica Melot SPECIES
 
 #### Status
 ACCEPTED

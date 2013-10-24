@@ -1,5 +1,4 @@
-Platysolenites Eichwald, 1860 GENUS
-=======
+# Platysolenites Eichwald, 1860 GENUS
 
 #### Status
 ACCEPTED

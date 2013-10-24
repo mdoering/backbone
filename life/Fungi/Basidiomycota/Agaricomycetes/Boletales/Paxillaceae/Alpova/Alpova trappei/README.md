@@ -1,5 +1,4 @@
-Alpova trappei Fogel SPECIES
-=======
+# Alpova trappei Fogel SPECIES
 
 #### Status
 ACCEPTED

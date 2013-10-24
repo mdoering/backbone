@@ -1,5 +1,4 @@
-Mallomonas lefevrei Villeret SPECIES
-=======
+# Mallomonas lefevrei Villeret SPECIES
 
 #### Status
 ACCEPTED

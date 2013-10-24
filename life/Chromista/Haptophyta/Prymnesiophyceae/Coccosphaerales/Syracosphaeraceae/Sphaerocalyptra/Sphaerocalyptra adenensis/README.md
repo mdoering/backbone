@@ -1,5 +1,4 @@
-Sphaerocalyptra adenensis A. Kleijne SPECIES
-=======
+# Sphaerocalyptra adenensis A. Kleijne SPECIES
 
 #### Status
 ACCEPTED

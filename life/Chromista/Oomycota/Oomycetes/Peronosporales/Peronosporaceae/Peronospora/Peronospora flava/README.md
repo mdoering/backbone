@@ -1,5 +1,4 @@
-Peronospora flava Gäum. SPECIES
-=======
+# Peronospora flava Gäum. SPECIES
 
 #### Status
 ACCEPTED

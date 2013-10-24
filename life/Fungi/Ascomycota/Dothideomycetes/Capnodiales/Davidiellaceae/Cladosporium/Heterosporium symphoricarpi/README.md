@@ -1,5 +1,4 @@
-Heterosporium symphoricarpi Ranoj. SPECIES
-=======
+# Heterosporium symphoricarpi Ranoj. SPECIES
 
 #### Status
 ACCEPTED

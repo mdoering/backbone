@@ -1,14 +1,13 @@
-Empusa acaridis Petch, 1944 SPECIES
-=======
+# Neozygites acaridis (Petch) Milner, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 27: 87 (1944)
+Trans. Br. mycol. Soc. 85(4): 647 (1986)
 
 #### Original name
 Empusa acaridis Petch, 1944

@@ -1,17 +1,16 @@
-Cryptococcus laurentii f. laurentii FORM
-=======
+# Cryptococcus laurentii (Kuff.) C.E. Skinner, 1950 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Am. Midl. Nat. 43: 249 (1950)
 
 #### Original name
-Cryptococcus laurentii f. laurentii
+null
 
 ### Remarks
 null

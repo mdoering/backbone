@@ -1,5 +1,4 @@
-Fomes perelegans Rick SPECIES
-=======
+# Fomes perelegans Rick SPECIES
 
 #### Status
 ACCEPTED

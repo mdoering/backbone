@@ -1,5 +1,4 @@
-Lagenosolenia staticulata McCulloch, 1977 SPECIES
-=======
+# Lagenosolenia staticulata McCulloch, 1977 SPECIES
 
 #### Status
 ACCEPTED

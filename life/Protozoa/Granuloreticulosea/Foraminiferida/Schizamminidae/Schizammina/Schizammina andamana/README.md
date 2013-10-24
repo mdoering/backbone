@@ -1,5 +1,4 @@
-Schizammina andamana Tendal & Cedhagen, 2007 SPECIES
-=======
+# Schizammina andamana Tendal & Cedhagen, 2007 SPECIES
 
 #### Status
 ACCEPTED

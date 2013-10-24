@@ -1,5 +1,4 @@
-Pulveroboletus mazatecorum Singer SPECIES
-=======
+# Pulveroboletus mazatecorum Singer SPECIES
 
 #### Status
 ACCEPTED

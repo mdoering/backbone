@@ -1,5 +1,4 @@
-Pharcidia microspora (Speg.) Vouaux SPECIES
-=======
+# Pharcidia microspora (Speg.) Vouaux SPECIES
 
 #### Status
 ACCEPTED

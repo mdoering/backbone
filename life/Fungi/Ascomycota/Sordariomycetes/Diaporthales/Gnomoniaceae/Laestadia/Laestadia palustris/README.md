@@ -1,5 +1,4 @@
-Laestadia palustris Fr. SPECIES
-=======
+# Laestadia palustris Fr. SPECIES
 
 #### Status
 ACCEPTED

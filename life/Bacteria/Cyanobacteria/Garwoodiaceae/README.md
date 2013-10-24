@@ -1,5 +1,4 @@
-Garwoodiaceae FAMILY
-=======
+# Garwoodiaceae FAMILY
 
 #### Status
 ACCEPTED

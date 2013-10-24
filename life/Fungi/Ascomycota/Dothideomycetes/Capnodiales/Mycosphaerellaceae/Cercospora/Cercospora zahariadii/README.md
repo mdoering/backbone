@@ -1,5 +1,4 @@
-Cercospora zahariadii Savul. & Sandu SPECIES
-=======
+# Cercospora zahariadii Savul. & Sandu SPECIES
 
 #### Status
 ACCEPTED

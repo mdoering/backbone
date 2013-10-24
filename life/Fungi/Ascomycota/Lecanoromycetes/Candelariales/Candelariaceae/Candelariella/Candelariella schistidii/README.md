@@ -1,5 +1,4 @@
-Candelariella schistidii (Anzi) Lettau SPECIES
-=======
+# Candelariella schistidii (Anzi) Lettau SPECIES
 
 #### Status
 ACCEPTED

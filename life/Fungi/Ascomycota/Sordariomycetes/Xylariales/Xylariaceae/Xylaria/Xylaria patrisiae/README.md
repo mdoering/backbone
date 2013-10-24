@@ -1,5 +1,4 @@
-Xylaria patrisiae Henn. SPECIES
-=======
+# Xylaria patrisiae Henn. SPECIES
 
 #### Status
 ACCEPTED

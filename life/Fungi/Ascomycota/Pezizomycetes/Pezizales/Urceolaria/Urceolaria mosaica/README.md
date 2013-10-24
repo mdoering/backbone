@@ -1,5 +1,4 @@
-Urceolaria mosaica Clemente SPECIES
-=======
+# Urceolaria mosaica Clemente SPECIES
 
 #### Status
 ACCEPTED

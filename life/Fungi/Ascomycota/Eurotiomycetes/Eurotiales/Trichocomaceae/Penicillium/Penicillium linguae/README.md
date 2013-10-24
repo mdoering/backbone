@@ -1,5 +1,4 @@
-Penicillium linguae Panay. SPECIES
-=======
+# Penicillium linguae Panay. SPECIES
 
 #### Status
 ACCEPTED

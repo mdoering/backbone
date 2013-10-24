@@ -1,5 +1,4 @@
-Lecania leucochlora (Mont.) Zahlbr. SPECIES
-=======
+# Lecania leucochlora (Mont.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

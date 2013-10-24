@@ -1,5 +1,4 @@
-Polymorphina charlottensis SPECIES
-=======
+# Polymorphina charlottensis SPECIES
 
 #### Status
 ACCEPTED

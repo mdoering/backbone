@@ -1,5 +1,4 @@
-Vaginulina subplumoides Parr SPECIES
-=======
+# Vaginulina subplumoides Parr SPECIES
 
 #### Status
 ACCEPTED

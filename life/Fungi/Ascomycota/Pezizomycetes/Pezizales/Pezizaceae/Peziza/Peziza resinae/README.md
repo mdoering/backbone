@@ -1,5 +1,4 @@
-Peziza resinae Fr. SPECIES
-=======
+# Peziza resinae Fr. SPECIES
 
 #### Status
 ACCEPTED

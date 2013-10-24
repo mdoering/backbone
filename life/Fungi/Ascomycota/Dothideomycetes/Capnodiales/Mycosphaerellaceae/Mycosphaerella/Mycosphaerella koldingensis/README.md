@@ -1,5 +1,4 @@
-Mycosphaerella koldingensis Munk SPECIES
-=======
+# Mycosphaerella koldingensis Munk SPECIES
 
 #### Status
 ACCEPTED

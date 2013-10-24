@@ -1,5 +1,4 @@
-Aecidium daemiae Har. & Pat. SPECIES
-=======
+# Aecidium daemiae Har. & Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Schizothyrium millettiae Sivan. & W.H. Hsieh SPECIES
-=======
+# Schizothyrium millettiae Sivan. & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

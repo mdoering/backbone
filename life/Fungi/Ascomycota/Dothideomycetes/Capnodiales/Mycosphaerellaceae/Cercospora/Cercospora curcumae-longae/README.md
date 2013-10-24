@@ -1,5 +1,4 @@
-Cercospora curcumae-longae Pavgi & R. Upadhyay SPECIES
-=======
+# Cercospora curcumae-longae Pavgi & R. Upadhyay SPECIES
 
 #### Status
 ACCEPTED

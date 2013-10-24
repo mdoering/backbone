@@ -1,5 +1,4 @@
-Biatora caesiopruinosa (Schaer.) Dombr. SPECIES
-=======
+# Biatora caesiopruinosa (Schaer.) Dombr. SPECIES
 
 #### Status
 ACCEPTED

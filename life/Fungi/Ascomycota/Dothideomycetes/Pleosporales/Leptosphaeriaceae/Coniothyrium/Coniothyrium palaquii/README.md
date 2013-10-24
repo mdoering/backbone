@@ -1,5 +1,4 @@
-Coniothyrium palaquii Zimm. SPECIES
-=======
+# Coniothyrium palaquii Zimm. SPECIES
 
 #### Status
 ACCEPTED

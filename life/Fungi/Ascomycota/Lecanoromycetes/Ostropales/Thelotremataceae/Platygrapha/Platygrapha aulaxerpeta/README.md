@@ -1,5 +1,4 @@
-Platygrapha aulaxerpeta Leight. SPECIES
-=======
+# Platygrapha aulaxerpeta Leight. SPECIES
 
 #### Status
 ACCEPTED

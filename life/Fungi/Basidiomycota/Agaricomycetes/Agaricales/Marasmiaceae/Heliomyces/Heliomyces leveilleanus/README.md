@@ -1,5 +1,4 @@
-Heliomyces leveilleanus Berk. SPECIES
-=======
+# Heliomyces leveilleanus Berk. SPECIES
 
 #### Status
 ACCEPTED

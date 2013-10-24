@@ -1,17 +1,16 @@
-Spilopezis Clem. GENUS
-=======
+# Pseudopeziza Fuckel GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Gen. fung. (Minneapolis) 85 (1909)
+Jb. nassau. Ver. Naturk. 23-24: 290 (1870)
 
 #### Original name
-Spilopezis Clem.
+Pseudopeziza Fuckel
 
 ### Remarks
 null

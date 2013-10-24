@@ -1,5 +1,4 @@
-Olpidium sphaeropleae Tokun. SPECIES
-=======
+# Olpidium sphaeropleae Tokun. SPECIES
 
 #### Status
 ACCEPTED

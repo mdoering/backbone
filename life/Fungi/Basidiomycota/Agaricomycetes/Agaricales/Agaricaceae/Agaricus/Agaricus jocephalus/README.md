@@ -1,5 +1,4 @@
-Agaricus jocephalus Pat. SPECIES
-=======
+# Agaricus jocephalus Pat. SPECIES
 
 #### Status
 ACCEPTED

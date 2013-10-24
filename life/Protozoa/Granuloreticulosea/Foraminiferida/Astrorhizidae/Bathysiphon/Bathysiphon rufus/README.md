@@ -1,5 +1,4 @@
-Bathysiphon rufus SPECIES
-=======
+# Bathysiphon rufus SPECIES
 
 #### Status
 ACCEPTED

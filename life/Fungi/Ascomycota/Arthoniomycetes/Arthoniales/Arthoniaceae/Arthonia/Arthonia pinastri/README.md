@@ -1,5 +1,4 @@
-Arthonia pinastri Anzi SPECIES
-=======
+# Arthonia pinastri Anzi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Alaria pylaii var. grandifolia (J. Agardh) Jónsson VARIETY
-=======
+# Alaria grandifolia J. Agardh SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Lepiota fusciceps Hongo SPECIES
-=======
+# Lepiota fusciceps Hongo SPECIES
 
 #### Status
 ACCEPTED

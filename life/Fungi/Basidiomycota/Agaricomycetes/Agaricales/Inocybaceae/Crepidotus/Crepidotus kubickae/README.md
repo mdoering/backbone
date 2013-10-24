@@ -1,5 +1,4 @@
-Crepidotus kubickae Pilát SPECIES
-=======
+# Crepidotus kubickae Pilát SPECIES
 
 #### Status
 ACCEPTED

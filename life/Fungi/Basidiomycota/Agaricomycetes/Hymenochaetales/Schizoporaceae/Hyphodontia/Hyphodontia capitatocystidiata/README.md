@@ -1,5 +1,4 @@
-Hyphodontia capitatocystidiata H.X. Xiong, Y.C. Dai & Sheng H. Wu, 2009 SPECIES
-=======
+# Hyphodontia capitatocystidiata H.X. Xiong, Y.C. Dai & Sheng H. Wu, 2009 SPECIES
 
 #### Status
 ACCEPTED

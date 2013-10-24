@@ -1,5 +1,4 @@
-Coniothyrium ismailii Abbas, B. Sutton & Ghaffar SPECIES
-=======
+# Coniothyrium ismailii Abbas, B. Sutton & Ghaffar SPECIES
 
 #### Status
 ACCEPTED

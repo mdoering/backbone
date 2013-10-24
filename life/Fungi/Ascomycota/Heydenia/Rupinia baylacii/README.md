@@ -1,5 +1,4 @@
-Rupinia baylacii Roum. SPECIES
-=======
+# Rupinia baylacii Roum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca xanthaspis (Kremp.) H. Magn. SPECIES
-=======
+# Caloplaca xanthaspis (Kremp.) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

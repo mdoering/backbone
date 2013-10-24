@@ -1,5 +1,4 @@
-Melittosphaera Haeckel, 1881 GENUS
-=======
+# Melittosphaera Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

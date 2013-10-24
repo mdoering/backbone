@@ -1,5 +1,4 @@
-Coniothyrium lichenicola var. buelliae Keissl. VARIETY
-=======
+# Coniothyrium lichenicola P. Karst. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Coniothyrium lichenicola var. buelliae Keissl.
+Coniothyrium lichenicola P. Karst.
 
 ### Remarks
 null

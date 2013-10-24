@@ -1,5 +1,4 @@
-Cortinarius peladae M.M. Moser SPECIES
-=======
+# Cortinarius peladae M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

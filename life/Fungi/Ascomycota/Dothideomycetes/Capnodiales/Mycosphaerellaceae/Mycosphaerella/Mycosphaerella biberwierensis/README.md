@@ -1,5 +1,4 @@
-Mycosphaerella biberwierensis (Auersw.) Lindau SPECIES
-=======
+# Mycosphaerella biberwierensis (Auersw.) Lindau SPECIES
 
 #### Status
 ACCEPTED

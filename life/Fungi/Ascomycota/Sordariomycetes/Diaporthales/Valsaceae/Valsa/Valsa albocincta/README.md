@@ -1,5 +1,4 @@
-Valsa albocincta Cooke & Peck SPECIES
-=======
+# Valsa albocincta Cooke & Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tubercularia betulae Wallr. SPECIES
-=======
+# Tubercularia betulae Wallr. SPECIES
 
 #### Status
 ACCEPTED

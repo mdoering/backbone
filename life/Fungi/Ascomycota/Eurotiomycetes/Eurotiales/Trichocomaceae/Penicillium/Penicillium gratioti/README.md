@@ -1,5 +1,4 @@
-Penicillium gratioti Sartory SPECIES
-=======
+# Penicillium gratioti Sartory SPECIES
 
 #### Status
 ACCEPTED

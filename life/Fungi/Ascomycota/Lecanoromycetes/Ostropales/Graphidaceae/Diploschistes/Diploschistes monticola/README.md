@@ -1,5 +1,4 @@
-Diploschistes monticola Räsänen SPECIES
-=======
+# Diploschistes monticola Räsänen SPECIES
 
 #### Status
 ACCEPTED

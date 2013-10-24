@@ -1,5 +1,4 @@
-Lichenochora atrans Halici, K. Knudsen & Candan, 2009 SPECIES
-=======
+# Lichenochora atrans Halici, K. Knudsen & Candan, 2009 SPECIES
 
 #### Status
 ACCEPTED

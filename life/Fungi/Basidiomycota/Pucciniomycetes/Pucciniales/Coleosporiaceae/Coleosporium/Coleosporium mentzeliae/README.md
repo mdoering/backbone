@@ -1,5 +1,4 @@
-Coleosporium mentzeliae (Dietel & Holw.) Arthur SPECIES
-=======
+# Coleosporium mentzeliae (Dietel & Holw.) Arthur SPECIES
 
 #### Status
 ACCEPTED

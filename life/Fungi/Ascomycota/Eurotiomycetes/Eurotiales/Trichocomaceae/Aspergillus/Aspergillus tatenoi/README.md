@@ -1,5 +1,4 @@
-Aspergillus tatenoi Y. Horie, Miyaji, Koji Yokoy., Udagawa & Camp.-Takagi SPECIES
-=======
+# Aspergillus tatenoi Y. Horie, Miyaji, Koji Yokoy., Udagawa & Camp.-Takagi SPECIES
 
 #### Status
 ACCEPTED

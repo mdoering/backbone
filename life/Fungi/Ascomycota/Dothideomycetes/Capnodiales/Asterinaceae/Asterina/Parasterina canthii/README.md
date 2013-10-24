@@ -1,5 +1,4 @@
-Parasterina canthii (H.S. Yates) J.M. Mend. SPECIES
-=======
+# Parasterina canthii (H.S. Yates) J.M. Mend. SPECIES
 
 #### Status
 ACCEPTED

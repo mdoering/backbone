@@ -1,5 +1,4 @@
-Acineta pachystylos Holm, 1928 SPECIES
-=======
+# Acineta pachystylos Holm, 1928 SPECIES
 
 #### Status
 ACCEPTED

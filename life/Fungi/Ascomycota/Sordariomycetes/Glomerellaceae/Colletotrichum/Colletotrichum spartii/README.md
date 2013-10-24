@@ -1,5 +1,4 @@
-Colletotrichum spartii Gutner SPECIES
-=======
+# Colletotrichum spartii Gutner SPECIES
 
 #### Status
 ACCEPTED

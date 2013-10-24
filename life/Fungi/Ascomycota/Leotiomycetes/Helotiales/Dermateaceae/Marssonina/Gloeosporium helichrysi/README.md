@@ -1,5 +1,4 @@
-Gloeosporium helichrysi G. Winter SPECIES
-=======
+# Gloeosporium helichrysi G. Winter SPECIES
 
 #### Status
 ACCEPTED

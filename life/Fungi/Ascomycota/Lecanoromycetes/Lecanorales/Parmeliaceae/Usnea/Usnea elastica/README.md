@@ -1,5 +1,4 @@
-Usnea elastica Motyka SPECIES
-=======
+# Usnea elastica Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Camarophyllus hygrocyboides Kühner SPECIES
-=======
+# Camarophyllus hygrocyboides Kühner SPECIES
 
 #### Status
 ACCEPTED

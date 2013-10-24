@@ -1,5 +1,4 @@
-Pertusaria rimosa D.D. Awasthi & Preeti Srivast. SPECIES
-=======
+# Pertusaria rimosa D.D. Awasthi & Preeti Srivast. SPECIES
 
 #### Status
 ACCEPTED

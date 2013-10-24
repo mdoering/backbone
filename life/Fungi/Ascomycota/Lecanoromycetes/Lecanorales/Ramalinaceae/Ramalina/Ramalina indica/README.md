@@ -1,5 +1,4 @@
-Ramalina indica Fr. SPECIES
-=======
+# Ramalina indica Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizophydium fugax Canter, 1968 SPECIES
-=======
+# Rhizophydium fugax Canter, 1968 SPECIES
 
 #### Status
 ACCEPTED

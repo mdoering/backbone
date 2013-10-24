@@ -1,5 +1,4 @@
-Ramalina berterii Bellardi SPECIES
-=======
+# Ramalina berterii Bellardi SPECIES
 
 #### Status
 ACCEPTED

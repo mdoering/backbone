@@ -1,5 +1,4 @@
-Polystictus pirisetus anon. SPECIES
-=======
+# Polystictus pirisetus anon. SPECIES
 
 #### Status
 ACCEPTED

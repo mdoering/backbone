@@ -1,5 +1,4 @@
-Dendrosarcus coriipellis (Fr.) Kuntze SPECIES
-=======
+# Dendrosarcus coriipellis (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

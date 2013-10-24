@@ -1,5 +1,4 @@
-Bathelium endochryseum (Vain.) R.C. Harris SPECIES
-=======
+# Bathelium endochryseum (Vain.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus rimosellus Peck SPECIES
-=======
+# Boletus rimosellus Peck SPECIES
 
 #### Status
 ACCEPTED

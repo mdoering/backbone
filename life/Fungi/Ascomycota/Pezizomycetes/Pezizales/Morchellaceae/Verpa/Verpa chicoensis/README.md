@@ -1,5 +1,4 @@
-Verpa chicoensis Copel. SPECIES
-=======
+# Verpa chicoensis Copel. SPECIES
 
 #### Status
 ACCEPTED

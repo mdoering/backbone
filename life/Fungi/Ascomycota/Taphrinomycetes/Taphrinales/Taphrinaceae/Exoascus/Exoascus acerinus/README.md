@@ -1,5 +1,4 @@
-Exoascus acerinus (A.G. Eliasson) Sacc. & P. Syd. SPECIES
-=======
+# Exoascus acerinus (A.G. Eliasson) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

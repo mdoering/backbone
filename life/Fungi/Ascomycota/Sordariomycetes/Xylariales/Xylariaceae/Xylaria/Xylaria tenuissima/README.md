@@ -1,5 +1,4 @@
-Xylaria tenuissima (Zipp. & Lév.) Fr. SPECIES
-=======
+# Xylaria tenuissima (Zipp. & Lév.) Fr. SPECIES
 
 #### Status
 ACCEPTED

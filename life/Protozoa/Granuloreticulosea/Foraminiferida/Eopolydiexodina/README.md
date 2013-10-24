@@ -1,5 +1,4 @@
-Eopolydiexodina Wilde in Permian exploration, 1975 GENUS
-=======
+# Eopolydiexodina Wilde in Permian exploration, 1975 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aureococcus anophagefferens Hargraves & Sieburth SPECIES
-=======
+# Aureococcus anophagefferens Hargraves & Sieburth SPECIES
 
 #### Status
 ACCEPTED

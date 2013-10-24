@@ -1,5 +1,4 @@
-Dermatella succinea Rostr. SPECIES
-=======
+# Dermatella succinea Rostr. SPECIES
 
 #### Status
 ACCEPTED

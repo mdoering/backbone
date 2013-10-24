@@ -1,5 +1,4 @@
-Gorgoniceps taveliana Rehm SPECIES
-=======
+# Gorgoniceps taveliana Rehm SPECIES
 
 #### Status
 ACCEPTED

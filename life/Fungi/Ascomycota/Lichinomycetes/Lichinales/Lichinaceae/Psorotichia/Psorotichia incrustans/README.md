@@ -1,5 +1,4 @@
-Psorotichia incrustans Arnold SPECIES
-=======
+# Psorotichia incrustans Arnold SPECIES
 
 #### Status
 ACCEPTED

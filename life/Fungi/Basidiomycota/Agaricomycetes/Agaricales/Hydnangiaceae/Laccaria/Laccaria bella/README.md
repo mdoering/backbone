@@ -1,5 +1,4 @@
-Laccaria bella (Pers.) Berk. & Broome SPECIES
-=======
+# Laccaria bella (Pers.) Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

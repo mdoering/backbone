@@ -1,14 +1,13 @@
-Catenularia atra (Corda) Sacc., 1886 SPECIES
-=======
+# Spadicoides atra (Corda) S. Hughes, 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 4: 304 (1886)
+Can. J. Bot. 36: 805 (1958)
 
 #### Original name
 Psilonia atra Corda, 1840

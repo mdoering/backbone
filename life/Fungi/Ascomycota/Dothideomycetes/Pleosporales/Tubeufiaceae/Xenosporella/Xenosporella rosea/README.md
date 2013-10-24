@@ -1,5 +1,4 @@
-Xenosporella rosea P.H.B. Talbot SPECIES
-=======
+# Xenosporella rosea P.H.B. Talbot SPECIES
 
 #### Status
 ACCEPTED

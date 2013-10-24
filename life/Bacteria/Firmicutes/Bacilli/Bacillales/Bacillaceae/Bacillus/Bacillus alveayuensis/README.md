@@ -1,5 +1,4 @@
-Bacillus alveayuensis Bae et al., 2005 SPECIES
-=======
+# Bacillus alveayuensis Bae et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chionyphe carteri Berk. SPECIES
-=======
+# Chionyphe carteri Berk. SPECIES
 
 #### Status
 ACCEPTED

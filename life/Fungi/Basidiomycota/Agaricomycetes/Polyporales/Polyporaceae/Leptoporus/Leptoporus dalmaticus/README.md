@@ -1,5 +1,4 @@
-Leptoporus dalmaticus Pilát ex Pilát SPECIES
-=======
+# Leptoporus dalmaticus Pilát ex Pilát SPECIES
 
 #### Status
 ACCEPTED

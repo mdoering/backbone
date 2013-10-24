@@ -1,5 +1,4 @@
-Rotaliella grelli Pawlowski & Lee, 1991 SPECIES
-=======
+# Rotaliella grelli Pawlowski & Lee, 1991 SPECIES
 
 #### Status
 ACCEPTED

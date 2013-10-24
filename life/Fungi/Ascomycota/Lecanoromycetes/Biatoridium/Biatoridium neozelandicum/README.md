@@ -1,5 +1,4 @@
-Biatoridium neozelandicum Müll. Arg. SPECIES
-=======
+# Biatoridium neozelandicum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

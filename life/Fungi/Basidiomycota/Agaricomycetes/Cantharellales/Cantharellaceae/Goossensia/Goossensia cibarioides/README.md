@@ -1,5 +1,4 @@
-Goossensia cibarioides Heinem., 1958 SPECIES
-=======
+# Goossensia cibarioides Heinem., 1958 SPECIES
 
 #### Status
 ACCEPTED

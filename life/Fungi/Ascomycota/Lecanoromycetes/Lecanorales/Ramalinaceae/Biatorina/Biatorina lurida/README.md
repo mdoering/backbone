@@ -1,5 +1,4 @@
-Biatorina lurida (Arnold) Jatta SPECIES
-=======
+# Biatorina lurida (Arnold) Jatta SPECIES
 
 #### Status
 ACCEPTED

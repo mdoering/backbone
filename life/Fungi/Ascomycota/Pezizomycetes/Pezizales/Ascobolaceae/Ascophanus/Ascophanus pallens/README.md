@@ -1,5 +1,4 @@
-Ascophanus pallens Boud. SPECIES
-=======
+# Ascophanus pallens Boud. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mollisia melaleucoides anon. SPECIES
-=======
+# Mollisia melaleucoides anon. SPECIES
 
 #### Status
 ACCEPTED

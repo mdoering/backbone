@@ -1,5 +1,4 @@
-Puccinia anemones-raddeanae S. Ito SPECIES
-=======
+# Puccinia anemones-raddeanae S. Ito SPECIES
 
 #### Status
 ACCEPTED

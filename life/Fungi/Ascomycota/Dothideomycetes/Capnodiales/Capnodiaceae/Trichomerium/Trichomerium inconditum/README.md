@@ -1,5 +1,4 @@
-Trichomerium inconditum Bat. & Cif. SPECIES
-=======
+# Trichomerium inconditum Bat. & Cif. SPECIES
 
 #### Status
 ACCEPTED

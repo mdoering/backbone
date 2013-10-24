@@ -1,5 +1,4 @@
-Marasmius luteus Mont. SPECIES
-=======
+# Marasmius luteus Mont. SPECIES
 
 #### Status
 ACCEPTED

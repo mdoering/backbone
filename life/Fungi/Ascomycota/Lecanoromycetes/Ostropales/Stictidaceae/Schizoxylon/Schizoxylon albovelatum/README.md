@@ -1,5 +1,4 @@
-Schizoxylon albovelatum Rick SPECIES
-=======
+# Schizoxylon albovelatum Rick SPECIES
 
 #### Status
 ACCEPTED

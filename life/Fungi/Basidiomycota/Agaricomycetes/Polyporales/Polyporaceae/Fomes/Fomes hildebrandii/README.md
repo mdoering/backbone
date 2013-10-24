@@ -1,14 +1,13 @@
-Fomes hildebrandi (Henn.) Sacc. SPECIES
-=======
+# Fomes hildebrandii (Henn.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Patouillard, Syll. fung. (Abellini) 9: 177 (1891)
 
 #### Original name
 Ganoderma hildebrandii Henn.

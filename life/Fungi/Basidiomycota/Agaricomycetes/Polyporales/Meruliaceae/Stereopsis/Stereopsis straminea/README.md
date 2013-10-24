@@ -1,5 +1,4 @@
-Stereopsis straminea Ryvarden, 1975 SPECIES
-=======
+# Stereopsis straminea Ryvarden, 1975 SPECIES
 
 #### Status
 ACCEPTED

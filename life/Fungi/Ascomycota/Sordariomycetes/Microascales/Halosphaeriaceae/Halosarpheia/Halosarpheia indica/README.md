@@ -1,5 +1,4 @@
-Halosarpheia indica Borse SPECIES
-=======
+# Halosarpheia indica Borse SPECIES
 
 #### Status
 ACCEPTED

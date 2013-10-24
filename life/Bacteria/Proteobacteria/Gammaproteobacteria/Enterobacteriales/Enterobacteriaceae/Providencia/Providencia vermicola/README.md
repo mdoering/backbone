@@ -1,5 +1,4 @@
-Providencia vermicola Somvanshi et al., 2006 SPECIES
-=======
+# Providencia vermicola Somvanshi et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

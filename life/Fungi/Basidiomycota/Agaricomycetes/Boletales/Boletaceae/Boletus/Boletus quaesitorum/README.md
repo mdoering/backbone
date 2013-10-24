@@ -1,5 +1,4 @@
-Boletus quaesitorum Bouriquet SPECIES
-=======
+# Boletus quaesitorum Bouriquet SPECIES
 
 #### Status
 ACCEPTED

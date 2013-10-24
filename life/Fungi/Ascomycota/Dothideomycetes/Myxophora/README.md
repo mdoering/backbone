@@ -1,5 +1,4 @@
-Myxophora Döbbeler & Poelt GENUS
-=======
+# Myxophora Döbbeler & Poelt GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Syncilancistrumina Knight & Thorne, 1982 GENUS
-=======
+# Syncilancistrumina Knight & Thorne, 1982 GENUS
 
 #### Status
 ACCEPTED

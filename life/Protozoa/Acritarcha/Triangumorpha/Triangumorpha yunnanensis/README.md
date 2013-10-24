@@ -1,5 +1,4 @@
-Triangumorpha yunnanensis Cao Renguan et al., 1980 SPECIES
-=======
+# Triangumorpha yunnanensis Cao Renguan et al., 1980 SPECIES
 
 #### Status
 ACCEPTED

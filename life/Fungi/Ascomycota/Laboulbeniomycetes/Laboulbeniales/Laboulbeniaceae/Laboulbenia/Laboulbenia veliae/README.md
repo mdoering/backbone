@@ -1,5 +1,4 @@
-Laboulbenia veliae Thaxt. SPECIES
-=======
+# Laboulbenia veliae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

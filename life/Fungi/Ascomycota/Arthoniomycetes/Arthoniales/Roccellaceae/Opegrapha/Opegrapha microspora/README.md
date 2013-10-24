@@ -1,5 +1,4 @@
-Opegrapha microspora Müll. Arg. SPECIES
-=======
+# Opegrapha microspora Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

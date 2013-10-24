@@ -1,5 +1,4 @@
-Camagueyia Cole & Bermúdez, 1944 GENUS
-=======
+# Camagueyia Cole & Bermúdez, 1944 GENUS
 
 #### Status
 ACCEPTED

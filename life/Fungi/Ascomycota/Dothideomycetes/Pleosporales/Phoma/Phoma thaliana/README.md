@@ -1,5 +1,4 @@
-Phoma thaliana Brunaud SPECIES
-=======
+# Phoma thaliana Brunaud SPECIES
 
 #### Status
 ACCEPTED

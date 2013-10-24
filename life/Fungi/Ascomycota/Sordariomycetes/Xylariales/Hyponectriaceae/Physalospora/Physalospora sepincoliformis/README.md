@@ -1,5 +1,4 @@
-Physalospora sepincoliformis (De Not.) SPECIES
-=======
+# Physalospora sepincoliformis (De Not.) SPECIES
 
 #### Status
 ACCEPTED

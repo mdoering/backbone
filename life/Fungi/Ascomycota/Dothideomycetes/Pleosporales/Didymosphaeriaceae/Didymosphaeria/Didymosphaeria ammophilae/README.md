@@ -1,5 +1,4 @@
-Didymosphaeria ammophilae Fautrey & Roum. SPECIES
-=======
+# Didymosphaeria ammophilae Fautrey & Roum. SPECIES
 
 #### Status
 ACCEPTED

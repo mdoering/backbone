@@ -1,5 +1,4 @@
-Lecanora dudinensis H. Magn. SPECIES
-=======
+# Lecanora dudinensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

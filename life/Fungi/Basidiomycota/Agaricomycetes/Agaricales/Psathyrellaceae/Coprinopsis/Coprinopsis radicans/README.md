@@ -1,5 +1,4 @@
-Coprinopsis radicans (Romagn.) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
-=======
+# Coprinopsis radicans (Romagn.) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
 
 #### Status
 ACCEPTED

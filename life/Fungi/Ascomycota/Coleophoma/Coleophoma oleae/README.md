@@ -1,17 +1,16 @@
-Sphaeria oleae var. oleae VARIETY
-=======
+# Coleophoma oleae (DC.) Petr. & Syd., 1927 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in de Candolle & Lamarck, Fl. franç. (Paris), Edn 3 5/6: 136 (1815)
+Repert. Spec. Nov. Regni Veg. Beih. 42(1): 469 (1927)
 
 #### Original name
-Sphaeria oleae var. oleae
+Sphaeria oleae DC., 1815
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lecidea tuxenii SPECIES
-=======
+# Lecidea tuxenii SPECIES
 
 #### Status
 ACCEPTED

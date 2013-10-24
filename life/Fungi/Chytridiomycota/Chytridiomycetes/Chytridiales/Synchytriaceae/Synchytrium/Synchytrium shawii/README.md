@@ -1,5 +1,4 @@
-Synchytrium shawii Karling SPECIES
-=======
+# Synchytrium shawii Karling SPECIES
 
 #### Status
 ACCEPTED

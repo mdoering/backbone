@@ -1,5 +1,4 @@
-Didymella maxillariae Speg. SPECIES
-=======
+# Didymella maxillariae Speg. SPECIES
 
 #### Status
 ACCEPTED

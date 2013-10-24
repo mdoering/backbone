@@ -1,5 +1,4 @@
-Tessaracoccus Maszenan, Seviour, Patel, Schumann & Rees, 1999 GENUS
-=======
+# Tessaracoccus Maszenan, Seviour, Patel, Schumann & Rees, 1999 GENUS
 
 #### Status
 ACCEPTED

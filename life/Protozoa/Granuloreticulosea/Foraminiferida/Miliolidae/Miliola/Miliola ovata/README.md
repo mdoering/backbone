@@ -1,5 +1,4 @@
-Miliola ovata Crouch, 1827 SPECIES
-=======
+# Miliola ovata Crouch, 1827 SPECIES
 
 #### Status
 ACCEPTED

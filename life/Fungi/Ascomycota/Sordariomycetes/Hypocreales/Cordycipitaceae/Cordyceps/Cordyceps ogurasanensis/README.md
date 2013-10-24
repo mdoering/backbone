@@ -1,5 +1,4 @@
-Cordyceps ogurasanensis Kobayasi & Shimizu SPECIES
-=======
+# Cordyceps ogurasanensis Kobayasi & Shimizu SPECIES
 
 #### Status
 ACCEPTED

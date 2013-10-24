@@ -1,5 +1,4 @@
-Diplogelasinospora Cain GENUS
-=======
+# Diplogelasinospora Cain GENUS
 
 #### Status
 ACCEPTED

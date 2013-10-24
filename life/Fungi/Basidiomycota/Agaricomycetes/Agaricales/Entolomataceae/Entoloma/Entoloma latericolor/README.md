@@ -1,5 +1,4 @@
-Entoloma latericolor E. Horak, 1976 SPECIES
-=======
+# Entoloma latericolor E. Horak, 1976 SPECIES
 
 #### Status
 ACCEPTED

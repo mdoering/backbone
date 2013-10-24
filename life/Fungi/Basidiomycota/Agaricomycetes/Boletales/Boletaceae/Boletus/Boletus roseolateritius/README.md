@@ -1,5 +1,4 @@
-Boletus roseolateritius Bessette, Both & Dunaway SPECIES
-=======
+# Boletus roseolateritius Bessette, Both & Dunaway SPECIES
 
 #### Status
 ACCEPTED

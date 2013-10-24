@@ -1,5 +1,4 @@
-Dialonectria sceptri (P. Karst.) Cooke SPECIES
-=======
+# Dialonectria sceptri (P. Karst.) Cooke SPECIES
 
 #### Status
 ACCEPTED

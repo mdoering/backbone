@@ -1,14 +1,13 @@
-Pleospora infernalis (Niessl) Wehm., 1957 SPECIES
-=======
+# Montagnula infernalis (Niessl) Berl., 1896 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Icon. fung. (Abellini) 2: 68 (1896)
 
 #### Original name
 Leptosphaeria infernalis Niessl, 1883

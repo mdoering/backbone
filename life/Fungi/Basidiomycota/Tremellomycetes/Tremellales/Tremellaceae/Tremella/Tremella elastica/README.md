@@ -1,5 +1,4 @@
-Tremella elastica Zoll. SPECIES
-=======
+# Tremella elastica Zoll. SPECIES
 
 #### Status
 ACCEPTED

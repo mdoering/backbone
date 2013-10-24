@@ -1,5 +1,4 @@
-Hemipuccinia fastidiosa Sacc. & De Toni SPECIES
-=======
+# Hemipuccinia fastidiosa Sacc. & De Toni SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Megalospora GENUS
-=======
+# Megalospora GENUS
 
 #### Status
 ACCEPTED

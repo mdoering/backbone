@@ -1,5 +1,4 @@
-Microsphaera symploci Y.N. Yu & Y.Q. Lai SPECIES
-=======
+# Microsphaera symploci Y.N. Yu & Y.Q. Lai SPECIES
 
 #### Status
 ACCEPTED

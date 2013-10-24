@@ -1,5 +1,4 @@
-Leptosphaeria norvegica Rostr. SPECIES
-=======
+# Leptosphaeria norvegica Rostr. SPECIES
 
 #### Status
 ACCEPTED

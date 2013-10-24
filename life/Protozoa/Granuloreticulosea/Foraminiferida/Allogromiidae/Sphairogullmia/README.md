@@ -1,5 +1,4 @@
-Sphairogullmia Nyholm, 1974 GENUS
-=======
+# Sphairogullmia Nyholm, 1974 GENUS
 
 #### Status
 ACCEPTED

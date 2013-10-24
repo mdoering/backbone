@@ -1,5 +1,4 @@
-Humaria glariosa (Velen.) K.S. Thind & Sethi {?} SPECIES
-=======
+# Humaria glariosa (Velen.) K.S. Thind & Sethi {?} SPECIES
 
 #### Status
 ACCEPTED

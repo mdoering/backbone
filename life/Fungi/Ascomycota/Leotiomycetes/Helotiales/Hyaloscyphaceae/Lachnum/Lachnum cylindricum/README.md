@@ -1,5 +1,4 @@
-Lachnum cylindricum W.Y. Zhuang & K.D. Hyde SPECIES
-=======
+# Lachnum cylindricum W.Y. Zhuang & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

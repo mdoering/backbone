@@ -1,5 +1,4 @@
-Parmelia hosseana Gyeln. SPECIES
-=======
+# Parmelia hosseana Gyeln. SPECIES
 
 #### Status
 ACCEPTED

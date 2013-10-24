@@ -1,5 +1,4 @@
-Mycena laricina Velen. SPECIES
-=======
+# Mycena laricina Velen. SPECIES
 
 #### Status
 ACCEPTED

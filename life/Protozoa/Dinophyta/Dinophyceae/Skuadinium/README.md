@@ -1,5 +1,4 @@
-Skuadinium J.B. Riding & R. Helby, 2001 GENUS
-=======
+# Skuadinium J.B. Riding & R. Helby, 2001 GENUS
 
 #### Status
 ACCEPTED

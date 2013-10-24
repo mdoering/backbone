@@ -1,5 +1,4 @@
-Septoria microsora Speg. SPECIES
-=======
+# Septoria microsora Speg. SPECIES
 
 #### Status
 ACCEPTED

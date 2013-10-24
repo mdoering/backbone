@@ -1,5 +1,4 @@
-Trochila chilensis Speg. SPECIES
-=======
+# Trochila chilensis Speg. SPECIES
 
 #### Status
 ACCEPTED

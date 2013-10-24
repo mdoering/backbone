@@ -1,5 +1,4 @@
-Puccinia superior H.S. Jacks. SPECIES
-=======
+# Puccinia superior H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

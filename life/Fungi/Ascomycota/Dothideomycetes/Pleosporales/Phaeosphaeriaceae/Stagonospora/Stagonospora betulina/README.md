@@ -1,5 +1,4 @@
-Stagonospora betulina f. betulina FORM
-=======
+# Stagonospora betulina (Rostr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Stagonospora betulina f. betulina
+Hendersonia betulina Rostr.
 
 ### Remarks
 null

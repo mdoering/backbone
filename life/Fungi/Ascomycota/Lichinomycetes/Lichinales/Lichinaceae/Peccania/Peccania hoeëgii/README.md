@@ -1,8 +1,7 @@
-Peccania höegii D.D. Awasthi SPECIES
-=======
+# Peccania hoeëgii D.D. Awasthi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Peccania höegii D.D. Awasthi
+Peccania hoeëgii D.D. Awasthi
 
 ### Remarks
 null

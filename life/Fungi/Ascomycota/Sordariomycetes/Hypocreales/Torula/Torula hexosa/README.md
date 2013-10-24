@@ -1,5 +1,4 @@
-Torula hexosa F.C. Harrison SPECIES
-=======
+# Torula hexosa F.C. Harrison SPECIES
 
 #### Status
 ACCEPTED

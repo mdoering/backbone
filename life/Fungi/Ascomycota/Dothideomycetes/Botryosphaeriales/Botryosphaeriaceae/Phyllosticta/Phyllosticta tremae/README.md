@@ -1,5 +1,4 @@
-Phyllosticta tremae Katsuki SPECIES
-=======
+# Phyllosticta tremae Katsuki SPECIES
 
 #### Status
 ACCEPTED

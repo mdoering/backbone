@@ -1,5 +1,4 @@
-Dichomera coluteae Golovin SPECIES
-=======
+# Dichomera coluteae Golovin SPECIES
 
 #### Status
 ACCEPTED

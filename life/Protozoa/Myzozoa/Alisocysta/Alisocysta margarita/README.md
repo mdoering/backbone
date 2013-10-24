@@ -1,5 +1,4 @@
-Alisocysta margarita (Harland, 1979) Lentin & Williams SPECIES
-=======
+# Alisocysta margarita (Harland, 1979) Lentin & Williams SPECIES
 
 #### Status
 ACCEPTED

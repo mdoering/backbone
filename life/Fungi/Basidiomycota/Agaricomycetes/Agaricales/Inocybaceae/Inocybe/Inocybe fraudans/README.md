@@ -1,17 +1,16 @@
-Inocybe fraudans var. fraudans VARIETY
-=======
+# Inocybe fraudans (Britzelm.) Sacc., 1887 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Syll. fung. (Abellini) 5: 778 (1887)
 
 #### Original name
-Inocybe fraudans var. fraudans
+Agaricus fraudans Britzelm., 1882
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Fusicladium elasticae Koord. SPECIES
-=======
+# Fusicladium elasticae Koord. SPECIES
 
 #### Status
 ACCEPTED

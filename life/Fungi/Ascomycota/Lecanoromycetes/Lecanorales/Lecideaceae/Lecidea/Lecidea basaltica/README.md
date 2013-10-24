@@ -1,5 +1,4 @@
-Lecidea basaltica Faurel & Schotter SPECIES
-=======
+# Lecidea basaltica Faurel & Schotter SPECIES
 
 #### Status
 ACCEPTED

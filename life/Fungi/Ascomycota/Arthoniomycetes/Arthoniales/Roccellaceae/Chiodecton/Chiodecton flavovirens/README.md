@@ -1,5 +1,4 @@
-Chiodecton flavovirens G. Thor SPECIES
-=======
+# Chiodecton flavovirens G. Thor SPECIES
 
 #### Status
 ACCEPTED

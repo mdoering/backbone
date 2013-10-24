@@ -1,5 +1,4 @@
-Ceriomyces sordidiformis Murrill SPECIES
-=======
+# Ceriomyces sordidiformis Murrill SPECIES
 
 #### Status
 ACCEPTED

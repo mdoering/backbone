@@ -1,14 +1,13 @@
-Schroeterella stachydis (DC.) Syd., 1922 SPECIES
-=======
+# Puccinia stachydis DC., 1805 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 20(3): 119 (1922)
+in Lamarck & de Candolle, Fl. franç. (Paris), Edn 3 2: 595 (1805)
 
 #### Original name
 Puccinia stachydis DC., 1805

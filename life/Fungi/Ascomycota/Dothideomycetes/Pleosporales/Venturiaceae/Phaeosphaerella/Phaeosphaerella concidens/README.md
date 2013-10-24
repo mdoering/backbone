@@ -1,5 +1,4 @@
-Phaeosphaerella concidens Kirschst. SPECIES
-=======
+# Phaeosphaerella concidens Kirschst. SPECIES
 
 #### Status
 ACCEPTED

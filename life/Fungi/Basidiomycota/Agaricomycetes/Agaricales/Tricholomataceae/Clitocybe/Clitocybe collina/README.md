@@ -1,5 +1,4 @@
-Clitocybe collina (Velen.) Klán SPECIES
-=======
+# Clitocybe collina (Velen.) Klán SPECIES
 
 #### Status
 ACCEPTED

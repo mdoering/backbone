@@ -1,5 +1,4 @@
-Lecanora toniniana Motyka SPECIES
-=======
+# Lecanora toniniana Motyka SPECIES
 
 #### Status
 ACCEPTED

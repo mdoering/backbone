@@ -1,5 +1,4 @@
-Merulius wrightii Berk. SPECIES
-=======
+# Merulius wrightii Berk. SPECIES
 
 #### Status
 ACCEPTED

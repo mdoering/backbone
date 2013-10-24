@@ -1,5 +1,4 @@
-Psorothecium glaucescens (Nyl.) SPECIES
-=======
+# Psorothecium glaucescens (Nyl.) SPECIES
 
 #### Status
 ACCEPTED

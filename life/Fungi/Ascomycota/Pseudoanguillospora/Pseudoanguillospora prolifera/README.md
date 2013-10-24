@@ -1,5 +1,4 @@
-Pseudoanguillospora prolifera S.H. Iqbal SPECIES
-=======
+# Pseudoanguillospora prolifera S.H. Iqbal SPECIES
 
 #### Status
 ACCEPTED

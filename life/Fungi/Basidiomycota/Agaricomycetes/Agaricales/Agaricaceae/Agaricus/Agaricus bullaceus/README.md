@@ -1,5 +1,4 @@
-Agaricus bullaceus Bull. SPECIES
-=======
+# Agaricus bullaceus Bull. SPECIES
 
 #### Status
 ACCEPTED

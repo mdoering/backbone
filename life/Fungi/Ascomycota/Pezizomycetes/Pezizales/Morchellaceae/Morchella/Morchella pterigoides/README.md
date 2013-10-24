@@ -1,5 +1,4 @@
-Morchella pterigoides Smotl. & Kolarik {?} SPECIES
-=======
+# Morchella pterigoides Smotl. & Kolarik {?} SPECIES
 
 #### Status
 ACCEPTED

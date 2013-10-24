@@ -1,5 +1,4 @@
-Asterella fumaginea Dearn. & Barthol. SPECIES
-=======
+# Asterella fumaginea Dearn. & Barthol. SPECIES
 
 #### Status
 ACCEPTED

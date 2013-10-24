@@ -1,5 +1,4 @@
-Panus luteolus Massee SPECIES
-=======
+# Panus luteolus Massee SPECIES
 
 #### Status
 ACCEPTED

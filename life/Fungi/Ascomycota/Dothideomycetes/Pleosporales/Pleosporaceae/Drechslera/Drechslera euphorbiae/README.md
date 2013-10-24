@@ -1,14 +1,13 @@
-Helminthosporium euphorbiae Hansf., 1943 SPECIES
-=======
+# Drechslera euphorbiae (Hansf.) M.B. Ellis, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Linn. Soc. London 155: 49 (1943)
+Dematiaceous Hyphomycetes (Kew) 440 (1971)
 
 #### Original name
 Helminthosporium euphorbiae Hansf., 1943

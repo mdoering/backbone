@@ -1,5 +1,4 @@
-Dentalina throndheimensis Feyling-Hansen, 1964 SPECIES
-=======
+# Dentalina throndheimensis Feyling-Hansen, 1964 SPECIES
 
 #### Status
 ACCEPTED

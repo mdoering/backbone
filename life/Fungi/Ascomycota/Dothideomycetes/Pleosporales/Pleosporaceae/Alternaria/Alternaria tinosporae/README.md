@@ -1,5 +1,4 @@
-Alternaria tinosporae E.G. Simmons SPECIES
-=======
+# Alternaria tinosporae E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

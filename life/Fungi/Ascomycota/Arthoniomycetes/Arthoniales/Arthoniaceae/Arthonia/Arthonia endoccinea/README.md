@@ -1,5 +1,4 @@
-Arthonia endoccinea Vain. SPECIES
-=======
+# Arthonia endoccinea Vain. SPECIES
 
 #### Status
 ACCEPTED

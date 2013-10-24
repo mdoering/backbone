@@ -1,14 +1,13 @@
-Microthelia diplodiodes (P. Crouan & H. Crouan) Kuntze SPECIES
-=======
+# Microthelia diplodioides (P. Crouan & H. Crouan) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3: 498 (1898)
 
 #### Original name
 Sphaeria diplodioides P. Crouan & H. Crouan

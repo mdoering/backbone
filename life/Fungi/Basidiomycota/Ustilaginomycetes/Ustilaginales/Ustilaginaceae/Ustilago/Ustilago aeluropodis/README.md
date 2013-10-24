@@ -1,17 +1,16 @@
-Crozalsiella aeluropi (Trotter) Maire SPECIES
-=======
+# Ustilago aeluropodis (Trotter) Vánky, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Publications from the Herbarium Ustilaginales Vánky (HUV) (Tübingen) 1: 11 (1985)
 
 #### Original name
-Sphacelotheca aeluropi Trotter
+Sphacelotheca aeluropodis Trotter, 1913
 
 ### Remarks
 null

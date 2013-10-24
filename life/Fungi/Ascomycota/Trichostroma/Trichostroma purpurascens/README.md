@@ -1,5 +1,4 @@
-Trichostroma purpurascens Corda SPECIES
-=======
+# Trichostroma purpurascens Corda SPECIES
 
 #### Status
 ACCEPTED

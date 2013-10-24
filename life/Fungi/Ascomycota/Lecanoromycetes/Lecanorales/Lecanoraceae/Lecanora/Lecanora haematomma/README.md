@@ -1,5 +1,4 @@
-Lecanora haematomma SPECIES
-=======
+# Lecanora haematomma SPECIES
 
 #### Status
 ACCEPTED

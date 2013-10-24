@@ -1,5 +1,4 @@
-Stictina lingulata (Vain.) Räsänen ex Sbarbaro SPECIES
-=======
+# Stictina lingulata (Vain.) Räsänen ex Sbarbaro SPECIES
 
 #### Status
 ACCEPTED

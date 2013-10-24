@@ -1,5 +1,4 @@
-Phyllosticta camelliaecola var. camelliaecola VARIETY
-=======
+# Phyllosticta camelliaecola Brunaud SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phyllosticta camelliaecola var. camelliaecola
+Phyllosticta camelliaecola Brunaud
 
 ### Remarks
 null

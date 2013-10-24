@@ -1,5 +1,4 @@
-Sphaerella umbellulariae Cooke & Harkn. SPECIES
-=======
+# Sphaerella umbellulariae Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

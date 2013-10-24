@@ -1,5 +1,4 @@
-Mortierella turficola Y. Ling, 1930 SPECIES
-=======
+# Mortierella turficola Y. Ling, 1930 SPECIES
 
 #### Status
 ACCEPTED

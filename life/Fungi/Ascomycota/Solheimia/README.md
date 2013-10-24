@@ -1,5 +1,4 @@
-Solheimia E.F. Morris GENUS
-=======
+# Solheimia E.F. Morris GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gyrodinium rubricaudatum Kofoid & Swezy, 1921 SPECIES
-=======
+# Gyrodinium rubricaudatum Kofoid & Swezy, 1921 SPECIES
 
 #### Status
 ACCEPTED

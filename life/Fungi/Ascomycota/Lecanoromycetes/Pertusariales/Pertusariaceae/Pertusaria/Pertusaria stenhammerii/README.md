@@ -1,5 +1,4 @@
-Pertusaria stenhammerii Hellb. SPECIES
-=======
+# Pertusaria stenhammerii Hellb. SPECIES
 
 #### Status
 ACCEPTED

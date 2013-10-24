@@ -1,5 +1,4 @@
-Celidium varium (Tul.) Körb. SPECIES
-=======
+# Celidium varium (Tul.) Körb. SPECIES
 
 #### Status
 ACCEPTED

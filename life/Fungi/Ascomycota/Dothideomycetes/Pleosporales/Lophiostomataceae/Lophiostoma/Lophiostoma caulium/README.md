@@ -1,17 +1,16 @@
-Lophiostoma niesslianum f. niesslianum FORM
-=======
+# Lophiostoma caulium (Fr.) Ces. & De Not., 1863 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Schem. di Classif. Sferiacei 45 (1863)
 
 #### Original name
-Lophiostoma niesslianum f. niesslianum
+Lophiostoma caulium (Fr.) Ces. & De Not., 1863
 
 ### Remarks
 null

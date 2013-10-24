@@ -1,5 +1,4 @@
-Ethmodiscus Castracane GENUS
-=======
+# Ethmodiscus Castracane GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vaginulina mirabilis (Chapman) SPECIES
-=======
+# Vaginulina mirabilis (Chapman) SPECIES
 
 #### Status
 ACCEPTED

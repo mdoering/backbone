@@ -1,5 +1,4 @@
-Lingulina aenariensis Buchner, 1942 SPECIES
-=======
+# Lingulina aenariensis Buchner, 1942 SPECIES
 
 #### Status
 ACCEPTED

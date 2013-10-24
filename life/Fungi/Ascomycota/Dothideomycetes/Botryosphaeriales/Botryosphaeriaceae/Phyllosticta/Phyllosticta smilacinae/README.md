@@ -1,5 +1,4 @@
-Phyllosticta smilacinae Solheim SPECIES
-=======
+# Phyllosticta smilacinae Solheim SPECIES
 
 #### Status
 ACCEPTED

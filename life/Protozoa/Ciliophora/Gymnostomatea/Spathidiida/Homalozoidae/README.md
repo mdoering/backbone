@@ -1,5 +1,4 @@
-Homalozoidae FAMILY
-=======
+# Homalozoidae FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Prunulus subpulverulentus Murrill SPECIES
-=======
+# Prunulus subpulverulentus Murrill SPECIES
 
 #### Status
 ACCEPTED

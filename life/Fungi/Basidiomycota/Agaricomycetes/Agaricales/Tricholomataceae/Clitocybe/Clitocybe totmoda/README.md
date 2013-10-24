@@ -1,5 +1,4 @@
-Clitocybe totmoda (Britzelm.) Sacc. SPECIES
-=======
+# Clitocybe totmoda (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

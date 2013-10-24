@@ -1,5 +1,4 @@
-Phoma lonicerae Siemaszko SPECIES
-=======
+# Phoma lonicerae Siemaszko SPECIES
 
 #### Status
 ACCEPTED

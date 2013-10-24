@@ -1,5 +1,4 @@
-Leptosphaeria muirensis R. Sprague SPECIES
-=======
+# Leptosphaeria muirensis R. Sprague SPECIES
 
 #### Status
 ACCEPTED

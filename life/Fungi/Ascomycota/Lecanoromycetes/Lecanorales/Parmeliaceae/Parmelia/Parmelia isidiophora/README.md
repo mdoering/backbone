@@ -1,5 +1,4 @@
-Parmelia isidiophora (Zopf) Sandst. SPECIES
-=======
+# Parmelia isidiophora (Zopf) Sandst. SPECIES
 
 #### Status
 ACCEPTED

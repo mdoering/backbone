@@ -1,5 +1,4 @@
-Belowicysta J.B. Riding & G. Zijlstra, 2006 GENUS
-=======
+# Belowicysta J.B. Riding & G. Zijlstra, 2006 GENUS
 
 #### Status
 ACCEPTED

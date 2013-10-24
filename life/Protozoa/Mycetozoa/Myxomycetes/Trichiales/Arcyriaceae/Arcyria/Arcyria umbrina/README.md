@@ -1,5 +1,4 @@
-Arcyria umbrina Schumach. SPECIES
-=======
+# Arcyria umbrina Schumach. SPECIES
 
 #### Status
 ACCEPTED

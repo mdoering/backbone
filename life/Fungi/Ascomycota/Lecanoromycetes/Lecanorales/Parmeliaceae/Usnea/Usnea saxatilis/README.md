@@ -1,5 +1,4 @@
-Usnea saxatilis Motyka SPECIES
-=======
+# Usnea saxatilis Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerella caryophylli Pass. SPECIES
-=======
+# Sphaerella caryophylli Pass. SPECIES
 
 #### Status
 ACCEPTED

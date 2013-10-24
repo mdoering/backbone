@@ -1,5 +1,4 @@
-Trypethelium tuberculosum (Vain.) R. C. Harris SPECIES
-=======
+# Trypethelium tuberculosum (Vain.) R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

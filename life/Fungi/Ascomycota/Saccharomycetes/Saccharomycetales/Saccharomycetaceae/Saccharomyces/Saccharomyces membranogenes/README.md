@@ -1,5 +1,4 @@
-Saccharomyces membranogenes Steinhaus SPECIES
-=======
+# Saccharomyces membranogenes Steinhaus SPECIES
 
 #### Status
 ACCEPTED

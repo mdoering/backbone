@@ -1,5 +1,4 @@
-Dendrocorticium ovalisporum Boidin & Gilles SPECIES
-=======
+# Dendrocorticium ovalisporum Boidin & Gilles SPECIES
 
 #### Status
 ACCEPTED

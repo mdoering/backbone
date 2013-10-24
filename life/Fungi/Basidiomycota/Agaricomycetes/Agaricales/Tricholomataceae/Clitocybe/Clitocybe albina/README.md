@@ -1,5 +1,4 @@
-Clitocybe albina Velen. SPECIES
-=======
+# Clitocybe albina Velen. SPECIES
 
 #### Status
 ACCEPTED

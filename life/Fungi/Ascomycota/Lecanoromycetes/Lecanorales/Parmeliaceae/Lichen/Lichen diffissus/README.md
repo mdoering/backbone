@@ -1,5 +1,4 @@
-Lichen diffissus Ludw. {?} SPECIES
-=======
+# Lichen diffissus Ludw. {?} SPECIES
 
 #### Status
 ACCEPTED

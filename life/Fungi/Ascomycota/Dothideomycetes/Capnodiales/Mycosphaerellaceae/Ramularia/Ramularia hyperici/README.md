@@ -1,5 +1,4 @@
-Ramularia hyperici U. Braun & Scheuer, 1995 SPECIES
-=======
+# Ramularia hyperici U. Braun & Scheuer, 1995 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pluteus mesosporus Singer SPECIES
-=======
+# Pluteus mesosporus Singer SPECIES
 
 #### Status
 ACCEPTED

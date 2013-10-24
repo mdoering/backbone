@@ -1,5 +1,4 @@
-Ramularia ptarmicae Lindau SPECIES
-=======
+# Ramularia ptarmicae Lindau SPECIES
 
 #### Status
 ACCEPTED

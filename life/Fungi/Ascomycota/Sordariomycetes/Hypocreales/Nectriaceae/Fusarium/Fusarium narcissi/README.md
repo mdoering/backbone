@@ -1,5 +1,4 @@
-Fusarium narcissi anon. SPECIES
-=======
+# Fusarium narcissi anon. SPECIES
 
 #### Status
 ACCEPTED

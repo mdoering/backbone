@@ -1,5 +1,4 @@
-Oolina laevigata SPECIES
-=======
+# Oolina laevigata SPECIES
 
 #### Status
 ACCEPTED

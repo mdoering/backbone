@@ -1,5 +1,4 @@
-Placolecanora GENUS
-=======
+# Placolecanora GENUS
 
 #### Status
 ACCEPTED

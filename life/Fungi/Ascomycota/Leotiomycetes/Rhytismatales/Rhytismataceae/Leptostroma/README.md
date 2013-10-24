@@ -1,17 +1,16 @@
-Schizoderma Ehrenb. GENUS
-=======
+# Leptostroma E.M. Fries, 1815 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Sylv. mycol. berol. (Berlin) 27 (1818)
+null
 
 #### Original name
-Schizoderma Ehrenb.
+null
 
 ### Remarks
 null

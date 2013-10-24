@@ -1,5 +1,4 @@
-Sclerotium atratum Desv. SPECIES
-=======
+# Sclerotium atratum Desv. SPECIES
 
 #### Status
 ACCEPTED

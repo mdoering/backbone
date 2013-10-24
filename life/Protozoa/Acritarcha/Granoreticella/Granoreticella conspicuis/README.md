@@ -1,5 +1,4 @@
-Granoreticella conspicuis Jiabo, 1978 SPECIES
-=======
+# Granoreticella conspicuis Jiabo, 1978 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Herpothallonomyces sanguinei Cif. & Tomas. SPECIES
-=======
+# Herpothallonomyces sanguinei Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

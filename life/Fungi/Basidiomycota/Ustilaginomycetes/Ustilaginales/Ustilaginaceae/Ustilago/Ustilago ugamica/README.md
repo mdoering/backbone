@@ -1,5 +1,4 @@
-Ustilago ugamica Golovin SPECIES
-=======
+# Ustilago ugamica Golovin SPECIES
 
 #### Status
 ACCEPTED

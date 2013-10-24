@@ -1,5 +1,4 @@
-Trichomaris Hibbits, G.C. Hughes & Sparks GENUS
-=======
+# Trichomaris Hibbits, G.C. Hughes & Sparks GENUS
 
 #### Status
 ACCEPTED

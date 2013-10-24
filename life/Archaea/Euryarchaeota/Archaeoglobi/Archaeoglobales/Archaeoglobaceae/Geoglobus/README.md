@@ -1,5 +1,4 @@
-Geoglobus Kashefi et al., 2002 GENUS
-=======
+# Geoglobus Kashefi et al., 2002 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mortierella echinosphaera Plaäts-Nit., 1976 SPECIES
-=======
+# Mortierella echinosphaera Plaäts-Nit., 1976 SPECIES
 
 #### Status
 ACCEPTED

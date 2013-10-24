@@ -1,5 +1,4 @@
-Cercospora nilghirensis Govindu & Thirum. SPECIES
-=======
+# Cercospora nilghirensis Govindu & Thirum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhytisma aceris-laurini Henn. SPECIES
-=======
+# Rhytisma aceris-laurini Henn. SPECIES
 
 #### Status
 ACCEPTED

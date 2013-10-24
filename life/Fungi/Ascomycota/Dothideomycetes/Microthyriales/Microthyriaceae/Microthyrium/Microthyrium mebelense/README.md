@@ -1,5 +1,4 @@
-Microthyrium mebelense Henn. SPECIES
-=======
+# Microthyrium mebelense Henn. SPECIES
 
 #### Status
 ACCEPTED

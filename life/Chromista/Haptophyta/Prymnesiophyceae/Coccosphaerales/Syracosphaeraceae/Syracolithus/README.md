@@ -1,5 +1,4 @@
-Syracolithus (Kamptner) Deflandre, 1952 GENUS
-=======
+# Syracolithus (Kamptner) Deflandre, 1952 GENUS
 
 #### Status
 ACCEPTED

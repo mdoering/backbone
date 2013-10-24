@@ -1,5 +1,4 @@
-Combodia phyllogeneta Link SPECIES
-=======
+# Combodia phyllogeneta Link SPECIES
 
 #### Status
 ACCEPTED

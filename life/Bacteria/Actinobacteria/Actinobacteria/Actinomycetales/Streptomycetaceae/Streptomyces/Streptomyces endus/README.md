@@ -1,5 +1,4 @@
-Streptomyces endus Anderson and Gottlieb, 1952 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces endus Anderson and Gottlieb, 1952 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

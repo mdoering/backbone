@@ -1,5 +1,4 @@
-Nigredo bifrons (DC.) Arthur SPECIES
-=======
+# Nigredo bifrons (DC.) Arthur SPECIES
 
 #### Status
 ACCEPTED

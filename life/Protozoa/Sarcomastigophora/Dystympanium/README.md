@@ -1,5 +1,4 @@
-Dystympanium Haeckel, 1887 GENUS
-=======
+# Dystympanium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

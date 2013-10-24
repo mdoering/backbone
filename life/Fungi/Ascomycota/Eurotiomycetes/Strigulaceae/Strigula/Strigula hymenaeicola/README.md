@@ -1,5 +1,4 @@
-Strigula hymenaeicola Bat. & J.L. Bezerra SPECIES
-=======
+# Strigula hymenaeicola Bat. & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

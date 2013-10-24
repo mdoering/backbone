@@ -1,5 +1,4 @@
-Naucoria inserenda (Britzelm.) Sacc. SPECIES
-=======
+# Naucoria inserenda (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

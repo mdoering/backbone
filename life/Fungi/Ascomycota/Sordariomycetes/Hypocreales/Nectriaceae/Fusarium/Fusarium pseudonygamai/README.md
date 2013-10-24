@@ -1,5 +1,4 @@
-Fusarium pseudonygamai O'Donnell & Nirenberg, 1998 SPECIES
-=======
+# Fusarium pseudonygamai O'Donnell & Nirenberg, 1998 SPECIES
 
 #### Status
 ACCEPTED

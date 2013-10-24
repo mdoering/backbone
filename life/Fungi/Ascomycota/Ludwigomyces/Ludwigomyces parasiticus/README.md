@@ -1,5 +1,4 @@
-Ludwigomyces parasiticus Kirschst., 1939 SPECIES
-=======
+# Ludwigomyces parasiticus Kirschst., 1939 SPECIES
 
 #### Status
 ACCEPTED

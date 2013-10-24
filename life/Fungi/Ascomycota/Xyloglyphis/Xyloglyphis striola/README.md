@@ -1,14 +1,13 @@
-Hysterium striola Fr. SPECIES
-=======
+# Xyloglyphis striola (Fr.) Clem., 1909 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Elench. fung. (Greifswald) 2: 145 (1828)
+Gen. fung. (Minneapolis) 64, 174 (1909)
 
 #### Original name
 Hysterium striola Fr.

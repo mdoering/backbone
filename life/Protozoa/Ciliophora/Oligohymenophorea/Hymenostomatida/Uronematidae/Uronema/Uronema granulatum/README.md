@@ -1,5 +1,4 @@
-Uronema granulatum Lepsi, 1926 SPECIES
-=======
+# Uronema granulatum Lepsi, 1926 SPECIES
 
 #### Status
 ACCEPTED

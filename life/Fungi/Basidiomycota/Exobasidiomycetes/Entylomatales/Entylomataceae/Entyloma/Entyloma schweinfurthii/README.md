@@ -1,5 +1,4 @@
-Entyloma schweinfurthii Henn. SPECIES
-=======
+# Entyloma schweinfurthii Henn. SPECIES
 
 #### Status
 ACCEPTED

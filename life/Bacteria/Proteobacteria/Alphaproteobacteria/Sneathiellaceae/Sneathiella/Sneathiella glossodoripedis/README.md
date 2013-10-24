@@ -1,5 +1,4 @@
-Sneathiella glossodoripedis Kurahashi, Fukunaga, Harayama & Yokota, 2008 SPECIES
-=======
+# Sneathiella glossodoripedis Kurahashi, Fukunaga, Harayama & Yokota, 2008 SPECIES
 
 #### Status
 ACCEPTED

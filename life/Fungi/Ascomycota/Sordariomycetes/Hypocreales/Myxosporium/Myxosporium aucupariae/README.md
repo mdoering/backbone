@@ -1,5 +1,4 @@
-Myxosporium aucupariae Allesch. SPECIES
-=======
+# Myxosporium aucupariae Allesch. SPECIES
 
 #### Status
 ACCEPTED

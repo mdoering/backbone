@@ -1,5 +1,4 @@
-Auricularia buccina Pat. SPECIES
-=======
+# Auricularia buccina Pat. SPECIES
 
 #### Status
 ACCEPTED

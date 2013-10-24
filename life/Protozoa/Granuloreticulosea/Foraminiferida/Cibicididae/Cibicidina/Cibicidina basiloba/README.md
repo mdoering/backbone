@@ -1,5 +1,4 @@
-Cibicidina basiloba (Cushman, 1918) SPECIES
-=======
+# Cibicidina basiloba (Cushman, 1918) SPECIES
 
 #### Status
 ACCEPTED

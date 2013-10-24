@@ -1,5 +1,4 @@
-Pseudocercospora sphaeriiformis (Cooke) Y.L. Guo & X.J. Liu SPECIES
-=======
+# Pseudocercospora sphaeriiformis (Cooke) Y.L. Guo & X.J. Liu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phacidium eryngii Fuckel SPECIES
-=======
+# Phacidium eryngii Fuckel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Haidadinium Buckland-Nicks, Reimchen & Garbary, 1997 GENUS
-=======
+# Haidadinium Buckland-Nicks, Reimchen & Garbary, 1997 GENUS
 
 #### Status
 ACCEPTED

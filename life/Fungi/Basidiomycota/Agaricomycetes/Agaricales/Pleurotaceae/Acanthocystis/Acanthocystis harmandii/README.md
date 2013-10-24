@@ -1,5 +1,4 @@
-Acanthocystis harmandii (Pat. & Har.) Singer SPECIES
-=======
+# Acanthocystis harmandii (Pat. & Har.) Singer SPECIES
 
 #### Status
 ACCEPTED

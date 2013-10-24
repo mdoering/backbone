@@ -1,5 +1,4 @@
-Hormiscium vermiculare (Corda) Sacc. SPECIES
-=======
+# Hormiscium vermiculare (Corda) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vezdaea dawsoniae Döbbeler SPECIES
-=======
+# Vezdaea dawsoniae Döbbeler SPECIES
 
 #### Status
 ACCEPTED

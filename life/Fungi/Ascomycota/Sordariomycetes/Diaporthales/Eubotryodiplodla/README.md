@@ -1,5 +1,4 @@
-Eubotryodiplodla Petrak & Sydow, 1926 GENUS
-=======
+# Eubotryodiplodla Petrak & Sydow, 1926 GENUS
 
 #### Status
 ACCEPTED

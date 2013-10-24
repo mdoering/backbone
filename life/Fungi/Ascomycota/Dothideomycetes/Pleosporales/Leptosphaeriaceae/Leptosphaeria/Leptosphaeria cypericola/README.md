@@ -1,5 +1,4 @@
-Leptosphaeria cypericola Hollós SPECIES
-=======
+# Leptosphaeria cypericola Hollós SPECIES
 
 #### Status
 ACCEPTED

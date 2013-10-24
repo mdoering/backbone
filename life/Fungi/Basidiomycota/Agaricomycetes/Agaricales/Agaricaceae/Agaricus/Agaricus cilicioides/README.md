@@ -1,5 +1,4 @@
-Agaricus cilicioides Fr. SPECIES
-=======
+# Agaricus cilicioides Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oidium araliacearum U. Braun & Oehrens SPECIES
-=======
+# Oidium araliacearum U. Braun & Oehrens SPECIES
 
 #### Status
 ACCEPTED

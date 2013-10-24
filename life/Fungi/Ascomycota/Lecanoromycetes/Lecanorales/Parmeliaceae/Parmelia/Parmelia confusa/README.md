@@ -1,5 +1,4 @@
-Parmelia confusa Du Rietz SPECIES
-=======
+# Parmelia confusa Du Rietz SPECIES
 
 #### Status
 ACCEPTED

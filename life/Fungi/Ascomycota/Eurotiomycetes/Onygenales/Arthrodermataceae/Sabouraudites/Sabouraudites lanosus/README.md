@@ -1,5 +1,4 @@
-Sabouraudites lanosus (Sabour.) M. Ota & Langeron SPECIES
-=======
+# Sabouraudites lanosus (Sabour.) M. Ota & Langeron SPECIES
 
 #### Status
 ACCEPTED

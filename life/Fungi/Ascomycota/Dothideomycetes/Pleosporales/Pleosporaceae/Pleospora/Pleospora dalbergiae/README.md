@@ -1,5 +1,4 @@
-Pleospora dalbergiae A. Pande SPECIES
-=======
+# Pleospora dalbergiae A. Pande SPECIES
 
 #### Status
 ACCEPTED

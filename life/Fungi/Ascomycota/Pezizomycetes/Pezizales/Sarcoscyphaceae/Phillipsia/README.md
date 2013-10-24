@@ -1,17 +1,16 @@
-Rickiella Syd. GENUS
-=======
+# Phillipsia Berkeley, 1881 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Ricken, Annls mycol. 2: 244 (1904)
+J. Linn. Soc. , Bot. 18: 388 (1881)
 
 #### Original name
-Rickiella Syd.
+Phillipsia Berkeley, 1881
 
 ### Remarks
 null

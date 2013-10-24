@@ -1,5 +1,4 @@
-Scytonema hansgirgi Schmidle SPECIES
-=======
+# Scytonema hansgirgi Schmidle SPECIES
 
 #### Status
 ACCEPTED

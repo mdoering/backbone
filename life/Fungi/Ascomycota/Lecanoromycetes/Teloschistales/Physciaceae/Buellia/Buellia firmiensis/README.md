@@ -1,5 +1,4 @@
-Buellia firmiensis B. de Lesd. SPECIES
-=======
+# Buellia firmiensis B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

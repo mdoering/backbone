@@ -1,11 +1,10 @@
-Gorgonisphaeridium solidum subsp. solidum SUBSPECIES
-=======
+# Gorgonisphaeridium solidum S. Jardiné, A. Combaz, L. Magloire, G. Peniguel & G. Vachey SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

@@ -1,5 +1,4 @@
-Gyromyces Göpp. GENUS
-=======
+# Gyromyces Göpp. GENUS
 
 #### Status
 ACCEPTED

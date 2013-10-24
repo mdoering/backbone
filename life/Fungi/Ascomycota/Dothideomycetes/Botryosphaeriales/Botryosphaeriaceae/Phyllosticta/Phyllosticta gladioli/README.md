@@ -1,5 +1,4 @@
-Phyllosticta gladioli Ellis & Everh. SPECIES
-=======
+# Phyllosticta gladioli Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

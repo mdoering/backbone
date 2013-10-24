@@ -1,5 +1,4 @@
-Caloranaerobacter Wery, Moricet, Cueff, Jean, Pignet, Lesongeur, Cambon-Bonavita & Barbier, 2001 GENUS
-=======
+# Caloranaerobacter Wery, Moricet, Cueff, Jean, Pignet, Lesongeur, Cambon-Bonavita & Barbier, 2001 GENUS
 
 #### Status
 ACCEPTED

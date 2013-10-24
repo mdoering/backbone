@@ -1,5 +1,4 @@
-Peziza turbinulata Schwein. SPECIES
-=======
+# Peziza turbinulata Schwein. SPECIES
 
 #### Status
 ACCEPTED

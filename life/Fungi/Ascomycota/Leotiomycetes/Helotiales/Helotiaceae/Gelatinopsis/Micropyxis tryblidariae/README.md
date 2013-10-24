@@ -1,5 +1,4 @@
-Micropyxis tryblidariae A. Carter & Malloch SPECIES
-=======
+# Micropyxis tryblidariae A. Carter & Malloch SPECIES
 
 #### Status
 ACCEPTED

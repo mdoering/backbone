@@ -1,5 +1,4 @@
-Calpionellopsis acutoblonga Nagy, 1986 SPECIES
-=======
+# Calpionellopsis acutoblonga Nagy, 1986 SPECIES
 
 #### Status
 ACCEPTED

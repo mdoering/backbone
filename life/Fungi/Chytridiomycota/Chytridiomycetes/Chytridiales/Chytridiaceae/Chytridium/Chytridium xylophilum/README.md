@@ -1,5 +1,4 @@
-Chytridium xylophilum Cornu SPECIES
-=======
+# Chytridium xylophilum Cornu SPECIES
 
 #### Status
 ACCEPTED

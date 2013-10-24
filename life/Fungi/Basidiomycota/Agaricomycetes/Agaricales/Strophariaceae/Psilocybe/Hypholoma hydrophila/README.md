@@ -1,5 +1,4 @@
-Hypholoma hydrophila SPECIES
-=======
+# Hypholoma hydrophila SPECIES
 
 #### Status
 ACCEPTED

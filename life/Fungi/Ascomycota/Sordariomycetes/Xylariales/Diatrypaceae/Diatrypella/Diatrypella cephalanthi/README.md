@@ -1,17 +1,16 @@
-Diatrype cephalanthi (Peck) Cooke, 1886 SPECIES
-=======
+# Diatrypella cephalanthi (Schwein.) Sacc., 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 1: 209 (1882)
 
 #### Original name
-null
+Sphaeria cephalanthi Schwein., 1822
 
 ### Remarks
 null

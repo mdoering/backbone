@@ -1,5 +1,4 @@
-Spicaria alni Maubl. SPECIES
-=======
+# Spicaria alni Maubl. SPECIES
 
 #### Status
 ACCEPTED

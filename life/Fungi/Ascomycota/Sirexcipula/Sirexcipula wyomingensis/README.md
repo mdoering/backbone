@@ -1,5 +1,4 @@
-Sirexcipula wyomingensis Wehm. SPECIES
-=======
+# Sirexcipula wyomingensis Wehm. SPECIES
 
 #### Status
 ACCEPTED

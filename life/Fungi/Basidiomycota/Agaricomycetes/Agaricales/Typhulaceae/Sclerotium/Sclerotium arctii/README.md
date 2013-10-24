@@ -1,5 +1,4 @@
-Sclerotium arctii Weinm. SPECIES
-=======
+# Sclerotium arctii Weinm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paenibacillus graminis Berge et al., 2002 SPECIES
-=======
+# Paenibacillus graminis Berge et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

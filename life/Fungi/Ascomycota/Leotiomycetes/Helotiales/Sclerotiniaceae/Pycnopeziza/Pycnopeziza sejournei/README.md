@@ -1,14 +1,13 @@
-Phialea sejournei Boud., 1881 SPECIES
-=======
+# Pycnopeziza sejournei (Boud.) Whetzel & W.L. White, 1940 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 32: 616 (1940)
 
 #### Original name
 Phialea sejournei Boud., 1881

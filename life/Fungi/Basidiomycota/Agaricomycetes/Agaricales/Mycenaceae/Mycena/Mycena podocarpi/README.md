@@ -1,5 +1,4 @@
-Mycena podocarpi Segedin, 1991 SPECIES
-=======
+# Mycena podocarpi Segedin, 1991 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Flammula braendlei Peck SPECIES
-=======
+# Flammula braendlei Peck SPECIES
 
 #### Status
 ACCEPTED

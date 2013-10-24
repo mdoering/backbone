@@ -1,5 +1,4 @@
-Valsa glandulosa Cooke SPECIES
-=======
+# Valsa glandulosa Cooke SPECIES
 
 #### Status
 ACCEPTED

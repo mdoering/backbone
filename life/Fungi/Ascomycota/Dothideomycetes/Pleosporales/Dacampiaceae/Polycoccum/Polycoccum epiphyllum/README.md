@@ -1,5 +1,4 @@
-Polycoccum epiphyllum Matzer SPECIES
-=======
+# Polycoccum epiphyllum Matzer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Multiplicisphaeridium perirregulare Eisenack et al., 1979 SPECIES
-=======
+# Multiplicisphaeridium perirregulare Eisenack et al., 1979 SPECIES
 
 #### Status
 ACCEPTED

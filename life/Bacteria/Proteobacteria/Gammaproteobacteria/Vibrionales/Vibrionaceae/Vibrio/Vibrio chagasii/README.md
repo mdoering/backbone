@@ -1,5 +1,4 @@
-Vibrio chagasii Thompson et al., 2003 SPECIES
-=======
+# Vibrio chagasii Thompson et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

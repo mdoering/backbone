@@ -1,14 +1,13 @@
-Endodothella parkiae (Henn.) Theiss. & Syd., 1915 SPECIES
-=======
+# Stigmochora parkiae (Henn.) Arx, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 13(5/6): 589 (1915)
+in Müller & Arx, Beitr. Kryptfl. Schweiz 11(no. 2): 663 (1962)
 
 #### Original name
 Dothidella parkiae Henn., 1904

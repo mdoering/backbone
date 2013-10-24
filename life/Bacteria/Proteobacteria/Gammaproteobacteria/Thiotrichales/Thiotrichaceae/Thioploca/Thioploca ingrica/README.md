@@ -1,5 +1,4 @@
-Thioploca ingrica (ex Visloukh, 1911) Maier, 1984 SPECIES
-=======
+# Thioploca ingrica (ex Visloukh, 1911) Maier, 1984 SPECIES
 
 #### Status
 ACCEPTED

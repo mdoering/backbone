@@ -1,5 +1,4 @@
-Sullivania danica Brotzen (ex S. E. van Heck & K. Perch-Nielsen) O. Varol SPECIES
-=======
+# Sullivania danica Brotzen (ex S. E. van Heck & K. Perch-Nielsen) O. Varol SPECIES
 
 #### Status
 ACCEPTED

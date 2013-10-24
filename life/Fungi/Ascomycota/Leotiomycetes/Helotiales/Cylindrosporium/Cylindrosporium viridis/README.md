@@ -1,5 +1,4 @@
-Cylindrosporium viridis Ellis & Everh. SPECIES
-=======
+# Cylindrosporium viridis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

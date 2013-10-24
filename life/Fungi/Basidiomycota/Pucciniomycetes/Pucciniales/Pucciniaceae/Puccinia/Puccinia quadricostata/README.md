@@ -1,5 +1,4 @@
-Puccinia quadricostata D.M. Hend. SPECIES
-=======
+# Puccinia quadricostata D.M. Hend. SPECIES
 
 #### Status
 ACCEPTED

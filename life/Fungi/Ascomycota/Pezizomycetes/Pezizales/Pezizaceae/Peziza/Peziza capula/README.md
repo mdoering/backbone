@@ -1,5 +1,4 @@
-Peziza capula ß cernua Schumach. SPECIES
-=======
+# Peziza capula ß cernua Schumach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Licea craterioides Y. Yamam., 1991 SPECIES
-=======
+# Licea craterioides Y. Yamam., 1991 SPECIES
 
 #### Status
 ACCEPTED

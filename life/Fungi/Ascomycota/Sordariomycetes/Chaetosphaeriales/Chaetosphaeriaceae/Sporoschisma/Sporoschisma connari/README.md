@@ -1,5 +1,4 @@
-Sporoschisma connari Bat. & Peres SPECIES
-=======
+# Sporoschisma connari Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

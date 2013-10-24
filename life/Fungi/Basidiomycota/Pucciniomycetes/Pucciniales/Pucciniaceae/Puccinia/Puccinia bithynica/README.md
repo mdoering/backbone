@@ -1,5 +1,4 @@
-Puccinia bithynica Magnus SPECIES
-=======
+# Puccinia bithynica Magnus SPECIES
 
 #### Status
 ACCEPTED

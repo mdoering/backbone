@@ -1,5 +1,4 @@
-Laschia raimundoi (Pat.) Sacc. SPECIES
-=======
+# Laschia raimundoi (Pat.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus bresinskyanus Garrido SPECIES
-=======
+# Boletus bresinskyanus Garrido SPECIES
 
 #### Status
 ACCEPTED

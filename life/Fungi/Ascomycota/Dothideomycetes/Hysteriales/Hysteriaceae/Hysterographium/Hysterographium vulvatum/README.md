@@ -1,14 +1,13 @@
-Hysterium vulvatum Schwein., 1832 SPECIES
-=======
+# Hysterographium vulvatum (Schwein.) Rehm, 1876 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Amer. Philos. Soc. 4(2): 243 (1832)
+Ascomyceten no. 315 (1876)
 
 #### Original name
 Hysterium vulvatum Schwein., 1832

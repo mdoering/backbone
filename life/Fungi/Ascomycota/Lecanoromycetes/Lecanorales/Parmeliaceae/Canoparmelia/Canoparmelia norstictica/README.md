@@ -1,5 +1,4 @@
-Canoparmelia norstictica (G.N. Stevens) Elix & Hale SPECIES
-=======
+# Canoparmelia norstictica (G.N. Stevens) Elix & Hale SPECIES
 
 #### Status
 ACCEPTED

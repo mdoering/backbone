@@ -1,5 +1,4 @@
-Carteria Singh & Hanumaiah, 1979 GENUS
-=======
+# Carteria Singh & Hanumaiah, 1979 GENUS
 
 #### Status
 ACCEPTED

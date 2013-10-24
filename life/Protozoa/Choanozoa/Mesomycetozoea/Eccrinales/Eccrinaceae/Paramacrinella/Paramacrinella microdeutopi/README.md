@@ -1,17 +1,16 @@
-Paramacrinella sphaeromae Manier & Grizel SPECIES
-=======
+# Paramacrinella microdeutopi Manier & Grizel, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls Sci. Nat. , Bot. Biol. Vég. , sér. 12 12: 6 (1971)
 
 #### Original name
-Paramacrinella sphaeromae Manier & Grizel
+Paramacrinella microdeutopi Manier & Grizel, 1971
 
 ### Remarks
 null

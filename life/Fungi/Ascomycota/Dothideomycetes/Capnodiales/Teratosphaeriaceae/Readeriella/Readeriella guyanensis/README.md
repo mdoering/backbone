@@ -1,5 +1,4 @@
-Readeriella guyanensis Decock SPECIES
-=======
+# Readeriella guyanensis Decock SPECIES
 
 #### Status
 ACCEPTED

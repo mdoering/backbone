@@ -1,5 +1,4 @@
-Pertusaria kigomensis C.W. Dodge SPECIES
-=======
+# Pertusaria kigomensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

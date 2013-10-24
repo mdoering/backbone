@@ -1,5 +1,4 @@
-Scolecopeltidium salaciae Bat. & O.M. Fonseca SPECIES
-=======
+# Scolecopeltidium salaciae Bat. & O.M. Fonseca SPECIES
 
 #### Status
 ACCEPTED

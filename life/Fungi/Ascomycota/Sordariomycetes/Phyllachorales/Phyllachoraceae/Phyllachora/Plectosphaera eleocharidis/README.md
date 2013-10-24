@@ -1,14 +1,13 @@
-Physalospora eleocharidis R.E.D. Baker & Chardón, 1951 SPECIES
-=======
+# Plectosphaera eleocharidis (R.E.D. Baker & Chardón) Arx & E. Müll., 1954 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 33: 26 (1951)
+Beitr. Kryptfl. Schweiz 11(no. 1): 211 (1954)
 
 #### Original name
 Physalospora eleocharidis R.E.D. Baker & Chardón, 1951

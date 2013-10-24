@@ -1,5 +1,4 @@
-Hystrichosphaeridium difficile Manum & Cookson, 1964 SPECIES
-=======
+# Hystrichosphaeridium difficile Manum & Cookson, 1964 SPECIES
 
 #### Status
 ACCEPTED

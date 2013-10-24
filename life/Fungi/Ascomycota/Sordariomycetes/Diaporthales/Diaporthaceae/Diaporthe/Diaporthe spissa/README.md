@@ -1,5 +1,4 @@
-Diaporthe spissa Sacc. & Speg. SPECIES
-=======
+# Diaporthe spissa Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corethropsis Corda, 1839 GENUS
-=======
+# Corethropsis Corda, 1839 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta epilobii-rosei Krieg. SPECIES
-=======
+# Phyllosticta epilobii-rosei Krieg. SPECIES
 
 #### Status
 ACCEPTED

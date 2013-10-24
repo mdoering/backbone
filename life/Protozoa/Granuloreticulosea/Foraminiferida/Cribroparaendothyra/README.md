@@ -1,5 +1,4 @@
-Cribroparaendothyra Lipina in Vdovenko, Gibshman, Lipina & Reitlinger, 1996 GENUS
-=======
+# Cribroparaendothyra Lipina in Vdovenko, Gibshman, Lipina & Reitlinger, 1996 GENUS
 
 #### Status
 ACCEPTED

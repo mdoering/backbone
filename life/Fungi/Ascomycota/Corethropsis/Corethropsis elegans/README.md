@@ -1,5 +1,4 @@
-Corethropsis elegans Speg. SPECIES
-=======
+# Corethropsis elegans Speg. SPECIES
 
 #### Status
 ACCEPTED

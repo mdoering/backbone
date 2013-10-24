@@ -1,5 +1,4 @@
-Mycoarachis tetraspora Valldos. & Guarro SPECIES
-=======
+# Mycoarachis tetraspora Valldos. & Guarro SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetospira monilata Jones, 1974 SPECIES
-=======
+# Chaetospira monilata Jones, 1974 SPECIES
 
 #### Status
 ACCEPTED

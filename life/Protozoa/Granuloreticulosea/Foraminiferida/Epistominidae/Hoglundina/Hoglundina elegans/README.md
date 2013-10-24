@@ -1,5 +1,4 @@
-Hoglundina elegans SPECIES
-=======
+# Hoglundina elegans SPECIES
 
 #### Status
 ACCEPTED

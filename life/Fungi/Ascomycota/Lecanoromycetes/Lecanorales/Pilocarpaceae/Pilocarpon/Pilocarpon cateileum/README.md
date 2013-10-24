@@ -1,5 +1,4 @@
-Pilocarpon cateileum Vain. SPECIES
-=======
+# Pilocarpon cateileum Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nummularia suborbicularis var. suborbicularis VARIETY
-=======
+# Nummularia suborbicularis (Welw. & Curr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Syll. fung. (Abellini) 1: 399 (1882)
 
 #### Original name
-Nummularia suborbicularis var. suborbicularis
+Hypoxylon suborbiculare Peck, 1878
 
 ### Remarks
 null

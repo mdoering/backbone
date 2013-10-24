@@ -1,5 +1,4 @@
-Rosellinia pyxidella Ces. SPECIES
-=======
+# Rosellinia pyxidella Ces. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Trichoscypha calyciformis (Willd.) Grelet, 1951 SPECIES
-=======
+# Lachnellula calyciformis (Willd.) Dharne, 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revue Mycol. , Paris 16: 87 (1951)
+Phytopath. Z. 53: 124 (1965)
 
 #### Original name
 null

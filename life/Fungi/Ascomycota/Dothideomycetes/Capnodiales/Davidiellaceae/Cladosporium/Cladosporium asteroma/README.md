@@ -1,5 +1,4 @@
-Cladosporium asteroma Fuckel SPECIES
-=======
+# Cladosporium asteroma Fuckel SPECIES
 
 #### Status
 ACCEPTED

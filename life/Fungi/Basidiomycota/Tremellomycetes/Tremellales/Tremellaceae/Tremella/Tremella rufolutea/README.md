@@ -1,5 +1,4 @@
-Tremella rufolutea Berk. & M.A. Curtis SPECIES
-=======
+# Tremella rufolutea Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

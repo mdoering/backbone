@@ -1,5 +1,4 @@
-Polyedryxium lagoviense Górka, 1974 SPECIES
-=======
+# Polyedryxium lagoviense Górka, 1974 SPECIES
 
 #### Status
 ACCEPTED

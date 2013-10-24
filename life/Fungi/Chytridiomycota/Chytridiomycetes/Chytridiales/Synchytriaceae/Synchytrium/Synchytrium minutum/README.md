@@ -1,5 +1,4 @@
-Synchytrium minutum (Pat.) Gäum., 1927 SPECIES
-=======
+# Synchytrium minutum (Pat.) Gäum., 1927 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nyctomyces entoxylinus Unger SPECIES
-=======
+# Nyctomyces entoxylinus Unger SPECIES
 
 #### Status
 ACCEPTED

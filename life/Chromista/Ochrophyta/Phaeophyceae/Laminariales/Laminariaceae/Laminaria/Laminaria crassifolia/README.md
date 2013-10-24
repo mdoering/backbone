@@ -1,5 +1,4 @@
-Laminaria crassifolia Postels & Ruprecht SPECIES
-=======
+# Laminaria crassifolia Postels & Ruprecht SPECIES
 
 #### Status
 ACCEPTED

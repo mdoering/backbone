@@ -1,5 +1,4 @@
-Sargassum pinnatifidum Harvey SPECIES
-=======
+# Sargassum pinnatifidum Harvey SPECIES
 
 #### Status
 ACCEPTED

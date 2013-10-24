@@ -1,5 +1,4 @@
-Phyllosticta lacerans Pass. SPECIES
-=======
+# Phyllosticta lacerans Pass. SPECIES
 
 #### Status
 ACCEPTED

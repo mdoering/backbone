@@ -1,5 +1,4 @@
-Hydropus hygrophilus Singer SPECIES
-=======
+# Hydropus hygrophilus Singer SPECIES
 
 #### Status
 ACCEPTED

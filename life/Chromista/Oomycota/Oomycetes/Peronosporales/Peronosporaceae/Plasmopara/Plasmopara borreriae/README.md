@@ -1,5 +1,4 @@
-Plasmopara borreriae (Lagerh.) Constant. SPECIES
-=======
+# Plasmopara borreriae (Lagerh.) Constant. SPECIES
 
 #### Status
 ACCEPTED

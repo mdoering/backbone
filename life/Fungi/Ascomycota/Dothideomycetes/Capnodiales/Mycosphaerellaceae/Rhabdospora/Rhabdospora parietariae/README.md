@@ -1,5 +1,4 @@
-Rhabdospora parietariae Celotti SPECIES
-=======
+# Rhabdospora parietariae Celotti SPECIES
 
 #### Status
 ACCEPTED

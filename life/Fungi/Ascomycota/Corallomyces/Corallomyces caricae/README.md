@@ -1,5 +1,4 @@
-Corallomyces caricae Henn. SPECIES
-=======
+# Corallomyces caricae Henn. SPECIES
 
 #### Status
 ACCEPTED

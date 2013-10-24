@@ -1,5 +1,4 @@
-Diplochorella pseudohypoxylon (Rehm) Theiss. & Syd. SPECIES
-=======
+# Diplochorella pseudohypoxylon (Rehm) Theiss. & Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microthyrium iochromatis Rehm SPECIES
-=======
+# Microthyrium iochromatis Rehm SPECIES
 
 #### Status
 ACCEPTED

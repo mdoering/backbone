@@ -1,5 +1,4 @@
-Ramularia verbasci Fuckel SPECIES
-=======
+# Ramularia verbasci Fuckel SPECIES
 
 #### Status
 ACCEPTED

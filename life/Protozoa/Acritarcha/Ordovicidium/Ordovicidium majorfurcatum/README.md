@@ -1,5 +1,4 @@
-Ordovicidium majorfurcatum (Kjellström, 1971) Loeblich & Tappan, 1978 SPECIES
-=======
+# Ordovicidium majorfurcatum (Kjellström, 1971) Loeblich & Tappan, 1978 SPECIES
 
 #### Status
 ACCEPTED

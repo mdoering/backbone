@@ -1,5 +1,4 @@
-Coenogonium nigropunctatum Kurok. SPECIES
-=======
+# Coenogonium nigropunctatum Kurok. SPECIES
 
 #### Status
 ACCEPTED

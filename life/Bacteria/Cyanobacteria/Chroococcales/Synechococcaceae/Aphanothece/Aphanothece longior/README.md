@@ -1,5 +1,4 @@
-Aphanothece longior Naumann SPECIES
-=======
+# Aphanothece longior Naumann SPECIES
 
 #### Status
 ACCEPTED

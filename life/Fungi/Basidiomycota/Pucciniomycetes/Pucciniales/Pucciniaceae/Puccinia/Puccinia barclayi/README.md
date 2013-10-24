@@ -1,17 +1,16 @@
-Puccinia barclayii S. Ahmad SPECIES
-=======
+# Puccinia barclayi S. Ahmad SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Monogr. Biol. Soc. Pakistan 1: 44 (1956)
 
 #### Original name
-Puccinia barclayii S. Ahmad
+Puccinia barclayi S. Ahmad
 
 ### Remarks
 null

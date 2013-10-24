@@ -1,5 +1,4 @@
-Lyngbya kuetzingii var. distincta (Nordstedt) Lemmermann VARIETY
-=======
+# Lyngbya kuetzingii (Kützing) Schmidle SPECIES
 
 #### Status
 ACCEPTED

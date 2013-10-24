@@ -1,11 +1,10 @@
-Leptonia badissima var. badissima VARIETY
-=======
+# Leptonia badissima SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+NUB Generator [implicit canonical]
 
 #### Published in
 null

@@ -1,5 +1,4 @@
-Peridinium okamurai Abé, 1927 SPECIES
-=======
+# Peridinium okamurai Abé, 1927 SPECIES
 
 #### Status
 ACCEPTED

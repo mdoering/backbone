@@ -1,5 +1,4 @@
-Trichocollonema acrotheca Höhn. SPECIES
-=======
+# Trichocollonema acrotheca Höhn. SPECIES
 
 #### Status
 ACCEPTED

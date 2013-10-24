@@ -1,5 +1,4 @@
-Boletus obliquatus Bull. SPECIES
-=======
+# Boletus obliquatus Bull. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria longispora Feltgen SPECIES
-=======
+# Leptosphaeria longispora Feltgen SPECIES
 
 #### Status
 ACCEPTED

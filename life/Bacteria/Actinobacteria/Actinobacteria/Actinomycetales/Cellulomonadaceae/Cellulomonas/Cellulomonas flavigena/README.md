@@ -1,11 +1,10 @@
-Empedobacter flavigena (Kellerman & McBeth, 1912) Brisou, 1958 SPECIES
-=======
+# Cellulomonas flavigena (Kellerman and McBeth, 1912) Bergey et al., 1923 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

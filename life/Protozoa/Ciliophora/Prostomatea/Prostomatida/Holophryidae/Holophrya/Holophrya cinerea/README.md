@@ -1,8 +1,7 @@
-Prorodon cinereus Penard, 1922 SPECIES
-=======
+# Holophrya cinerea Penard, 1922 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

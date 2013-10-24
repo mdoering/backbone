@@ -1,5 +1,4 @@
-Paramaecium marinum SPECIES
-=======
+# Paramaecium marinum SPECIES
 
 #### Status
 ACCEPTED

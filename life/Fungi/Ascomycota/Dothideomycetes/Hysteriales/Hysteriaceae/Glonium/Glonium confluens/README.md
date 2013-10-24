@@ -1,5 +1,4 @@
-Glonium confluens (Wallr.) Duby SPECIES
-=======
+# Glonium confluens (Wallr.) Duby SPECIES
 
 #### Status
 ACCEPTED

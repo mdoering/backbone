@@ -1,5 +1,4 @@
-Zymomonas GENUS
-=======
+# Zymomonas GENUS
 
 #### Status
 ACCEPTED

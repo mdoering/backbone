@@ -1,5 +1,4 @@
-Erysiphe bunkiniana U. Braun SPECIES
-=======
+# Erysiphe bunkiniana U. Braun SPECIES
 
 #### Status
 ACCEPTED

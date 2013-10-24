@@ -1,5 +1,4 @@
-Rhachomyces antoinei Balazuc SPECIES
-=======
+# Rhachomyces antoinei Balazuc SPECIES
 
 #### Status
 ACCEPTED

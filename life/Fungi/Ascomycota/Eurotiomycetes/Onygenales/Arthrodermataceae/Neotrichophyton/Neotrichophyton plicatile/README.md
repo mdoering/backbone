@@ -1,5 +1,4 @@
-Neotrichophyton plicatile (Sabour.) Castell. & Chalm. SPECIES
-=======
+# Neotrichophyton plicatile (Sabour.) Castell. & Chalm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleotrichiella Sivan. GENUS
-=======
+# Pleotrichiella Sivan. GENUS
 
 #### Status
 ACCEPTED

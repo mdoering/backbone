@@ -1,5 +1,4 @@
-Filaspora breviuscula (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Filaspora breviuscula (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

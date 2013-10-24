@@ -1,5 +1,4 @@
-Halteromyces radiatus Shipton & Schipper, 1975 SPECIES
-=======
+# Halteromyces radiatus Shipton & Schipper, 1975 SPECIES
 
 #### Status
 ACCEPTED

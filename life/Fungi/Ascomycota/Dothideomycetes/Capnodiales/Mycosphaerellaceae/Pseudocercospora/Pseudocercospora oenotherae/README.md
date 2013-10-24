@@ -1,5 +1,4 @@
-Pseudocercospora oenotherae (Ellis & Everh.) Y.L. Guo & X.J. Liu SPECIES
-=======
+# Pseudocercospora oenotherae (Ellis & Everh.) Y.L. Guo & X.J. Liu SPECIES
 
 #### Status
 ACCEPTED

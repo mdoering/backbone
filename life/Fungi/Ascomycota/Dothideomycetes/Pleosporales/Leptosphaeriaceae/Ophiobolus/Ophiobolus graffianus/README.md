@@ -1,5 +1,4 @@
-Ophiobolus graffianus Sacc. SPECIES
-=======
+# Ophiobolus graffianus Sacc. SPECIES
 
 #### Status
 ACCEPTED

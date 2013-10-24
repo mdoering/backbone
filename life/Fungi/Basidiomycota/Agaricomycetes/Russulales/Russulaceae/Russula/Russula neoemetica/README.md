@@ -1,5 +1,4 @@
-Russula neoemetica Hongo SPECIES
-=======
+# Russula neoemetica Hongo SPECIES
 
 #### Status
 ACCEPTED

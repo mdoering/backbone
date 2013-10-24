@@ -1,5 +1,4 @@
-Sphaeria vulvata Latourr. SPECIES
-=======
+# Sphaeria vulvata Latourr. SPECIES
 
 #### Status
 ACCEPTED

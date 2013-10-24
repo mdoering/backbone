@@ -1,5 +1,4 @@
-Ciboria betulicola J.W. Groves & M.E. Elliott SPECIES
-=======
+# Ciboria betulicola J.W. Groves & M.E. Elliott SPECIES
 
 #### Status
 ACCEPTED

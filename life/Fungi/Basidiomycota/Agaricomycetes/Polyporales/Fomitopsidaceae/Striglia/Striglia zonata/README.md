@@ -1,5 +1,4 @@
-Striglia zonata (Schwein.) Kuntze SPECIES
-=======
+# Striglia zonata (Schwein.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

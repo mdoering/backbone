@@ -1,5 +1,4 @@
-Corynesporella Munjal & H.S. Gill GENUS
-=======
+# Corynesporella Munjal & H.S. Gill GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea bohlinii H. Magn. SPECIES
-=======
+# Lecidea bohlinii H. Magn. SPECIES
 
 #### Status
 ACCEPTED

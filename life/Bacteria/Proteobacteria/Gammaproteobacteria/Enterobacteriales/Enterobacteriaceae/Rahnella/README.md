@@ -1,5 +1,4 @@
-Rahnella Izard et al., 1981 GENUS
-=======
+# Rahnella Izard et al., 1981 GENUS
 
 #### Status
 ACCEPTED

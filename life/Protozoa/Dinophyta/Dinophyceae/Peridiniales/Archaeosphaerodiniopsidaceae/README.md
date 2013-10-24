@@ -1,5 +1,4 @@
-Archaeosphaerodiniopsidaceae FAMILY
-=======
+# Archaeosphaerodiniopsidaceae FAMILY
 
 #### Status
 ACCEPTED

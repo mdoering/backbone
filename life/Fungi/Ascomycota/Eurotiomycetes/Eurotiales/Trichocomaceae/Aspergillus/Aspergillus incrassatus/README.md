@@ -1,5 +1,4 @@
-Aspergillus incrassatus Spring SPECIES
-=======
+# Aspergillus incrassatus Spring SPECIES
 
 #### Status
 ACCEPTED

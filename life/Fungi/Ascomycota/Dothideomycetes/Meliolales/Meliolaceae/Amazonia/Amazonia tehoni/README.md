@@ -1,5 +1,4 @@
-Amazonia tehoni Toro SPECIES
-=======
+# Amazonia tehoni Toro SPECIES
 
 #### Status
 ACCEPTED

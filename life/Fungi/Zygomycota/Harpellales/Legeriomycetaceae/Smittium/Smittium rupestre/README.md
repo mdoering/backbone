@@ -1,5 +1,4 @@
-Smittium rupestre Lichtw., 1990 SPECIES
-=======
+# Smittium rupestre Lichtw., 1990 SPECIES
 
 #### Status
 ACCEPTED

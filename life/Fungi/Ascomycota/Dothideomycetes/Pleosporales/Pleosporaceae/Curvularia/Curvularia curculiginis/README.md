@@ -1,5 +1,4 @@
-Curvularia curculiginis Meng Zhang & T.Y. Zhang SPECIES
-=======
+# Curvularia curculiginis Meng Zhang & T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

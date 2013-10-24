@@ -1,5 +1,4 @@
-Aspidella chlorinosma f. chlorinosma FORM
-=======
+# Aspidella chlorinosma (Peck) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Iconogr. Mycol. 27(Suppl. 1): 79 (1941)
 
 #### Original name
-Aspidella chlorinosma f. chlorinosma
+Agaricus chlorinosmus Peck
 
 ### Remarks
 null

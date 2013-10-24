@@ -1,5 +1,4 @@
-Eccilia acus (W.G. Sm.) Sacc. SPECIES
-=======
+# Eccilia acus (W.G. Sm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

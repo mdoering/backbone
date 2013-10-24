@@ -1,5 +1,4 @@
-Peronospora giliae Ellis & Everh. SPECIES
-=======
+# Peronospora giliae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

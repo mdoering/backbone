@@ -1,5 +1,4 @@
-Thalloidima aureum (Schaer.) Müll. Arg. SPECIES
-=======
+# Thalloidima aureum (Schaer.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

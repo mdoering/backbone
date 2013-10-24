@@ -1,5 +1,4 @@
-Chaetopsina catenulata Samuels SPECIES
-=======
+# Chaetopsina catenulata Samuels SPECIES
 
 #### Status
 ACCEPTED

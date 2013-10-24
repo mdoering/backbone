@@ -1,5 +1,4 @@
-Melanoleuca maculata Murrill SPECIES
-=======
+# Melanoleuca maculata Murrill SPECIES
 
 #### Status
 ACCEPTED

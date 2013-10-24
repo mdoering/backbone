@@ -1,5 +1,4 @@
-Cantharellus heinemannianus Eyssart. & Buyck SPECIES
-=======
+# Cantharellus heinemannianus Eyssart. & Buyck SPECIES
 
 #### Status
 ACCEPTED

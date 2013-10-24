@@ -1,5 +1,4 @@
-Phyllosticta siameae Sawada SPECIES
-=======
+# Phyllosticta siameae Sawada SPECIES
 
 #### Status
 ACCEPTED

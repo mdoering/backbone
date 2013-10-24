@@ -1,5 +1,4 @@
-Xanthoparmelia interrupta (Stizenb.) Krog & Swinscow SPECIES
-=======
+# Xanthoparmelia interrupta (Stizenb.) Krog & Swinscow SPECIES
 
 #### Status
 ACCEPTED

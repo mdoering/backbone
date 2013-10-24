@@ -1,5 +1,4 @@
-Opegrapha thelopsisocia (B. de Lesd.) B. de Lesd. SPECIES
-=======
+# Opegrapha thelopsisocia (B. de Lesd.) B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

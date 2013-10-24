@@ -1,5 +1,4 @@
-Pseudocercospora madagascariensis Crous & M.J. Wingf. SPECIES
-=======
+# Pseudocercospora madagascariensis Crous & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

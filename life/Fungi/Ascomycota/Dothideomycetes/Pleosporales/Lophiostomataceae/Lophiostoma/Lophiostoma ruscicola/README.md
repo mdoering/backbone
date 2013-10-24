@@ -1,5 +1,4 @@
-Lophiostoma ruscicola (Fabre) Sacc. SPECIES
-=======
+# Lophiostoma ruscicola (Fabre) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bicolumnus W.Wei & S.W.Wise Jr., 1990 GENUS
-=======
+# Bicolumnus W.Wei & S.W.Wise Jr., 1990 GENUS
 
 #### Status
 ACCEPTED

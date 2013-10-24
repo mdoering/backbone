@@ -1,5 +1,4 @@
-Propionivibrio Tanaka et al., 1991 GENUS
-=======
+# Propionivibrio Tanaka et al., 1991 GENUS
 
 #### Status
 ACCEPTED

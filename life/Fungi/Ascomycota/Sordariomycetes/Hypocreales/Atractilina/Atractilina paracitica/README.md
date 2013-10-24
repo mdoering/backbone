@@ -1,5 +1,4 @@
-Atractilina paracitica (Wint.) Deighton & Pirozynski SPECIES
-=======
+# Atractilina paracitica (Wint.) Deighton & Pirozynski SPECIES
 
 #### Status
 ACCEPTED

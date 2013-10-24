@@ -1,5 +1,4 @@
-Fusarium stromaticola Henn. SPECIES
-=======
+# Fusarium stromaticola Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cystidiodendron laetum Rick SPECIES
-=======
+# Cystidiodendron laetum Rick SPECIES
 
 #### Status
 ACCEPTED

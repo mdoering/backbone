@@ -1,5 +1,4 @@
-Multicellaesporites conicus P. Ke & Z.Y. Shi SPECIES
-=======
+# Multicellaesporites conicus P. Ke & Z.Y. Shi SPECIES
 
 #### Status
 ACCEPTED

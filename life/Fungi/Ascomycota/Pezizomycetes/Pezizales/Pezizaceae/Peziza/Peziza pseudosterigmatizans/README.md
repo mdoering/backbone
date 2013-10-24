@@ -1,5 +1,4 @@
-Peziza pseudosterigmatizans J. Moravec SPECIES
-=======
+# Peziza pseudosterigmatizans J. Moravec SPECIES
 
 #### Status
 ACCEPTED

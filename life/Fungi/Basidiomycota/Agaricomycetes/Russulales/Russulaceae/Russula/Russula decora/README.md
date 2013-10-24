@@ -1,5 +1,4 @@
-Russula decora Shaffer SPECIES
-=======
+# Russula decora Shaffer SPECIES
 
 #### Status
 ACCEPTED

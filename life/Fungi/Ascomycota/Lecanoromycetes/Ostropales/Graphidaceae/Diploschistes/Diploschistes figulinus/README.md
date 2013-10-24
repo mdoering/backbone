@@ -1,5 +1,4 @@
-Diploschistes figulinus (Norman) Zahlbr. SPECIES
-=======
+# Diploschistes figulinus (Norman) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pannularia deficiens (Nyl.) Zahlbr. SPECIES
-=======
+# Pannularia deficiens (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

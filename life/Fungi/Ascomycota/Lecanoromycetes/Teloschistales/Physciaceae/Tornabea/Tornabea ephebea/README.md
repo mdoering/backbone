@@ -1,5 +1,4 @@
-Tornabea ephebea (Ach.) Østh. SPECIES
-=======
+# Tornabea ephebea (Ach.) Østh. SPECIES
 
 #### Status
 ACCEPTED

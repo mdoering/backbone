@@ -1,5 +1,4 @@
-Anthracoidea bistaminatae L. Guo SPECIES
-=======
+# Anthracoidea bistaminatae L. Guo SPECIES
 
 #### Status
 ACCEPTED

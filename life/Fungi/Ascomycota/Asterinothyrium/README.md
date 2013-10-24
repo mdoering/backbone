@@ -1,5 +1,4 @@
-Asterinothyrium Bat., Cif. & H. Maia GENUS
-=======
+# Asterinothyrium Bat., Cif. & H. Maia GENUS
 
 #### Status
 ACCEPTED

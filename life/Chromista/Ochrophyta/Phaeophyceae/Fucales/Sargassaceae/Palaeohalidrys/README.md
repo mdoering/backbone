@@ -1,5 +1,4 @@
-Palaeohalidrys N.L.Gardner, 1924 GENUS
-=======
+# Palaeohalidrys N.L.Gardner, 1924 GENUS
 
 #### Status
 ACCEPTED

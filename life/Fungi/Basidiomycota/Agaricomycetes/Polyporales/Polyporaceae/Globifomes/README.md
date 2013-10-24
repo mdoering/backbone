@@ -1,5 +1,4 @@
-Globifomes Murrill GENUS
-=======
+# Globifomes Murrill GENUS
 
 #### Status
 ACCEPTED

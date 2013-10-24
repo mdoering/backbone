@@ -1,14 +1,13 @@
-Flammula limonia (Fr.) P. Kumm., 1871 SPECIES
-=======
+# Cortinarius limonius (Fr.) Fr., 1838 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 5: 822 (1887)
+Epicr. syst. mycol. (Upsaliae) 296 (1838)
 
 #### Original name
 Agaricus limonius Fr., 1818

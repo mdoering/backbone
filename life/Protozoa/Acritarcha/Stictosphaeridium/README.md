@@ -1,5 +1,4 @@
-Stictosphaeridium B.V. Timofeev, 1966 GENUS
-=======
+# Stictosphaeridium B.V. Timofeev, 1966 GENUS
 
 #### Status
 ACCEPTED

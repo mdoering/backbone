@@ -1,14 +1,13 @@
-Cryptococcus spaericus (B.W. Hammer & Cordes) H.W. Anderson & C.E. Skinner SPECIES
-=======
+# Cryptococcus sphaericus (B.W. Hammer & Cordes) H.W. Anderson & C.E. Skinner SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 39(2): 169 (1947)
 
 #### Original name
 Torula sphaerica B.W. Hammer & Cordes

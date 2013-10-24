@@ -1,5 +1,4 @@
-Buellia subtilis (Vain.) C.W. Dodge SPECIES
-=======
+# Buellia subtilis (Vain.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

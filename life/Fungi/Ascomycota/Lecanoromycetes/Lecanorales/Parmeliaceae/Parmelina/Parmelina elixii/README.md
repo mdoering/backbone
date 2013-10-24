@@ -1,5 +1,4 @@
-Parmelina elixii Argüello & A. Crespo SPECIES
-=======
+# Parmelina elixii Argüello & A. Crespo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Haraea barbata I. Hino & Katum. SPECIES
-=======
+# Haraea barbata I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

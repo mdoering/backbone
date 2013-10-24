@@ -1,5 +1,4 @@
-Mycosphaerella bromi-albidis Nevod. SPECIES
-=======
+# Mycosphaerella bromi-albidis Nevod. SPECIES
 
 #### Status
 ACCEPTED

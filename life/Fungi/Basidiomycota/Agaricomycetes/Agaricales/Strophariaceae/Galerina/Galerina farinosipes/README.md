@@ -1,5 +1,4 @@
-Galerina farinosipes A.H. Sm. SPECIES
-=======
+# Galerina farinosipes A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

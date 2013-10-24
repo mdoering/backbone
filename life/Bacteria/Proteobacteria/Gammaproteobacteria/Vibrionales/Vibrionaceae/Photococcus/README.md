@@ -1,5 +1,4 @@
-Photococcus GENUS
-=======
+# Photococcus GENUS
 
 #### Status
 ACCEPTED

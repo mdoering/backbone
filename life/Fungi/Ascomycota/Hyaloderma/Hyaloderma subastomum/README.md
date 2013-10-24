@@ -1,5 +1,4 @@
-Hyaloderma subastomum Pat. SPECIES
-=======
+# Hyaloderma subastomum Pat. SPECIES
 
 #### Status
 ACCEPTED

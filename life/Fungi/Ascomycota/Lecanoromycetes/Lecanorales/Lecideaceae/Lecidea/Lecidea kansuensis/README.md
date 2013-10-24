@@ -1,5 +1,4 @@
-Lecidea kansuensis H. Magn. SPECIES
-=======
+# Lecidea kansuensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

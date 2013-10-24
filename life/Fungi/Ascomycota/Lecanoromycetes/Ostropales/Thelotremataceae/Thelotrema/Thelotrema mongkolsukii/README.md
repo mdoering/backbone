@@ -1,5 +1,4 @@
-Thelotrema mongkolsukii Homchant. & Coppins SPECIES
-=======
+# Thelotrema mongkolsukii Homchant. & Coppins SPECIES
 
 #### Status
 ACCEPTED

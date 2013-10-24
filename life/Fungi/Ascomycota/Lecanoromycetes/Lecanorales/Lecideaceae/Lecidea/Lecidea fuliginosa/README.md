@@ -1,17 +1,16 @@
-Toninia confusa (Nyl.) Boistel SPECIES
-=======
+# Lecidea fuliginosa Taylor SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fl. Hibern. 2: 131 (1836)
 
 #### Original name
-null
+Lecidea fuliginosa Taylor
 
 ### Remarks
 null

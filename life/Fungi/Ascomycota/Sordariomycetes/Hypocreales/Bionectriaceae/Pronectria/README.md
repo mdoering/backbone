@@ -1,5 +1,4 @@
-Pronectria Clem. GENUS
-=======
+# Pronectria Clem. GENUS
 
 #### Status
 ACCEPTED

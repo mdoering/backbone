@@ -1,5 +1,4 @@
-Sinaiella terricola L. Gruia SPECIES
-=======
+# Sinaiella terricola L. Gruia SPECIES
 
 #### Status
 ACCEPTED

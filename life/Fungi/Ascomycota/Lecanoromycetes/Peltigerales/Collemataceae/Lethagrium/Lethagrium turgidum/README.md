@@ -1,5 +1,4 @@
-Lethagrium turgidum (Körb.) A. Massal. SPECIES
-=======
+# Lethagrium turgidum (Körb.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

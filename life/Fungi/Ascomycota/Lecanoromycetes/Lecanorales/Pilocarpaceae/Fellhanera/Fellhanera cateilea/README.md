@@ -1,5 +1,4 @@
-Fellhanera cateilea (Vain.) Farkas SPECIES
-=======
+# Fellhanera cateilea (Vain.) Farkas SPECIES
 
 #### Status
 ACCEPTED

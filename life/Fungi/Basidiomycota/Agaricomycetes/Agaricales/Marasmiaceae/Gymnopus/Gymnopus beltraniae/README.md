@@ -1,5 +1,4 @@
-Gymnopus beltraniae Bañares, Antonín & G. Moreno SPECIES
-=======
+# Gymnopus beltraniae Bañares, Antonín & G. Moreno SPECIES
 
 #### Status
 ACCEPTED

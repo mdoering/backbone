@@ -1,5 +1,4 @@
-Amanita magnivolvata Aalto SPECIES
-=======
+# Amanita magnivolvata Aalto SPECIES
 
 #### Status
 ACCEPTED

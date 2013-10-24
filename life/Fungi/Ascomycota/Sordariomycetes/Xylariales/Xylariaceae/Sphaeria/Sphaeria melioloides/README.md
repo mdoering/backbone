@@ -1,5 +1,4 @@
-Sphaeria melioloides Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeria melioloides Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

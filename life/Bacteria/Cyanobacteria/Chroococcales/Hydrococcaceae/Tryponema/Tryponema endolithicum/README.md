@@ -1,5 +1,4 @@
-Tryponema endolithicum Ercegovic SPECIES
-=======
+# Tryponema endolithicum Ercegovic SPECIES
 
 #### Status
 ACCEPTED

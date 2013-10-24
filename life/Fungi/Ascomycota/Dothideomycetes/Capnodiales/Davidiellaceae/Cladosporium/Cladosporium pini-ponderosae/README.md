@@ -1,5 +1,4 @@
-Cladosporium pini-ponderosae K. Schub., Gresl. & Crous SPECIES
-=======
+# Cladosporium pini-ponderosae K. Schub., Gresl. & Crous SPECIES
 
 #### Status
 ACCEPTED

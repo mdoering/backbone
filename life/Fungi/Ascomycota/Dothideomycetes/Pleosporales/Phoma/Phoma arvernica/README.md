@@ -1,5 +1,4 @@
-Phoma arvernica Flageolet & Sacc. SPECIES
-=======
+# Phoma arvernica Flageolet & Sacc. SPECIES
 
 #### Status
 ACCEPTED

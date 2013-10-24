@@ -1,5 +1,4 @@
-Septoria calensulae Bernaux SPECIES
-=======
+# Septoria calensulae Bernaux SPECIES
 
 #### Status
 ACCEPTED

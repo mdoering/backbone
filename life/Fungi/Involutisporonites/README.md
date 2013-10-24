@@ -1,5 +1,4 @@
-Involutisporonites R.T. Clarke GENUS
-=======
+# Involutisporonites R.T. Clarke GENUS
 
 #### Status
 ACCEPTED

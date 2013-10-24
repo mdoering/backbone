@@ -1,5 +1,4 @@
-Chlorophyllum hortense (Murrill) Vellinga, 2002 SPECIES
-=======
+# Chlorophyllum hortense (Murrill) Vellinga, 2002 SPECIES
 
 #### Status
 ACCEPTED

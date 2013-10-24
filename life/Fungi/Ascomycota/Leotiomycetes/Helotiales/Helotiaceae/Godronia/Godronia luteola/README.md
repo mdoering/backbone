@@ -1,5 +1,4 @@
-Godronia luteola (Saut.) Sacc. SPECIES
-=======
+# Godronia luteola (Saut.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

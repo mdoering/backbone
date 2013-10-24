@@ -1,5 +1,4 @@
-Globigerinoides conglobatuls (Brady) SPECIES
-=======
+# Globigerinoides conglobatuls (Brady) SPECIES
 
 #### Status
 ACCEPTED

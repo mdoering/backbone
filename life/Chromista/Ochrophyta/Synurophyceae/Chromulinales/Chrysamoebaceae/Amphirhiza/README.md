@@ -1,5 +1,4 @@
-Amphirhiza Skuja, 1948 GENUS
-=======
+# Amphirhiza Skuja, 1948 GENUS
 
 #### Status
 ACCEPTED

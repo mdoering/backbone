@@ -1,5 +1,4 @@
-Russula betulae Bidaud SPECIES
-=======
+# Russula betulae Bidaud SPECIES
 
 #### Status
 ACCEPTED

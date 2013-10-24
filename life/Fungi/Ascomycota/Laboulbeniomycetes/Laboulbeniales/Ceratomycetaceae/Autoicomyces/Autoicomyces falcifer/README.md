@@ -1,5 +1,4 @@
-Autoicomyces falcifer Thaxt. SPECIES
-=======
+# Autoicomyces falcifer Thaxt. SPECIES
 
 #### Status
 ACCEPTED

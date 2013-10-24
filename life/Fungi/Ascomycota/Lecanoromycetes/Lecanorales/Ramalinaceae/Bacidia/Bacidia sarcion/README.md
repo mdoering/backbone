@@ -1,5 +1,4 @@
-Bacidia sarcion (Stizenb.) Zahlbr. SPECIES
-=======
+# Bacidia sarcion (Stizenb.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

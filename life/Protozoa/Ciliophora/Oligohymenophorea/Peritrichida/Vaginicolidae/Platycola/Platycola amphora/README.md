@@ -1,5 +1,4 @@
-Platycola amphora Swarczewsky, 1930 SPECIES
-=======
+# Platycola amphora Swarczewsky, 1930 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea cinerascens Nyl. SPECIES
-=======
+# Lecidea cinerascens Nyl. SPECIES
 
 #### Status
 ACCEPTED

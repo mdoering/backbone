@@ -1,5 +1,4 @@
-Delpinoina cinerascens (Schwein. ex Duby) Kuntze SPECIES
-=======
+# Delpinoina cinerascens (Schwein. ex Duby) Kuntze SPECIES
 
 #### Status
 ACCEPTED

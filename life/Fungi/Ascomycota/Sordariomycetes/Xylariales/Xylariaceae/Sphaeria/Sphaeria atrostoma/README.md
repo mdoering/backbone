@@ -1,5 +1,4 @@
-Sphaeria atrostoma Schumach. SPECIES
-=======
+# Sphaeria atrostoma Schumach. SPECIES
 
 #### Status
 ACCEPTED

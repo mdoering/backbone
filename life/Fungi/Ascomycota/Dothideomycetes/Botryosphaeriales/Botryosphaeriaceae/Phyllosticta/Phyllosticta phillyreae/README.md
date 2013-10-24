@@ -1,5 +1,4 @@
-Phyllosticta phillyreae Sacc. SPECIES
-=======
+# Phyllosticta phillyreae Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius subcommunis Murrill SPECIES
-=======
+# Cortinarius subcommunis Murrill SPECIES
 
 #### Status
 ACCEPTED

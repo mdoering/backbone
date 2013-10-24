@@ -1,5 +1,4 @@
-Barlaeina lortoni (Boud.) Sacc. SPECIES
-=======
+# Barlaeina lortoni (Boud.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

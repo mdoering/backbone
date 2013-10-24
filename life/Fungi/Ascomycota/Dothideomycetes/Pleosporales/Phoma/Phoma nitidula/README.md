@@ -1,5 +1,4 @@
-Phoma nitidula Sacc., M. Rousseau & E. Bommer SPECIES
-=======
+# Phoma nitidula Sacc., M. Rousseau & E. Bommer SPECIES
 
 #### Status
 ACCEPTED

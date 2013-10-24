@@ -1,5 +1,4 @@
-Ganoderma trengganuense Corner, 1983 SPECIES
-=======
+# Ganoderma trengganuense Corner, 1983 SPECIES
 
 #### Status
 ACCEPTED

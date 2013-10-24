@@ -1,5 +1,4 @@
-Psoroma discretum Nyl. SPECIES
-=======
+# Psoroma discretum Nyl. SPECIES
 
 #### Status
 ACCEPTED

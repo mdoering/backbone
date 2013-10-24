@@ -1,5 +1,4 @@
-Agaricus macrothelis Berk. SPECIES
-=======
+# Agaricus macrothelis Berk. SPECIES
 
 #### Status
 ACCEPTED

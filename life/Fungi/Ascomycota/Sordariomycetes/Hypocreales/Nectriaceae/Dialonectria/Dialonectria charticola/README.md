@@ -1,5 +1,4 @@
-Dialonectria charticola (Fuckel) Cooke SPECIES
-=======
+# Dialonectria charticola (Fuckel) Cooke SPECIES
 
 #### Status
 ACCEPTED

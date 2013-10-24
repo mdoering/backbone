@@ -1,5 +1,4 @@
-Acetabula cinnamomeolutescens Schwein. SPECIES
-=======
+# Acetabula cinnamomeolutescens Schwein. SPECIES
 
 #### Status
 ACCEPTED

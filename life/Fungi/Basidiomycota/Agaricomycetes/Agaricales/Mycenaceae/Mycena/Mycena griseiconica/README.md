@@ -1,5 +1,4 @@
-Mycena griseiconica Kauffman SPECIES
-=======
+# Mycena griseiconica Kauffman SPECIES
 
 #### Status
 ACCEPTED

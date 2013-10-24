@@ -1,17 +1,16 @@
-Stictoclypeolum Rehm GENUS
-=======
+# Asterothyrium Müller Arg., 1890 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 44: 9 (1904)
+Lich. Epiph. Novi 12 (1890)
 
 #### Original name
-Stictoclypeolum Rehm
+Asterothyrium Müller Arg., 1890
 
 ### Remarks
 null

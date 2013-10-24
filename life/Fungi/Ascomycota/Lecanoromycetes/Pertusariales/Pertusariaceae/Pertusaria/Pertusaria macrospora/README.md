@@ -1,5 +1,4 @@
-Pertusaria macrospora Nägeli ex Hepp SPECIES
-=======
+# Pertusaria macrospora Nägeli ex Hepp SPECIES
 
 #### Status
 ACCEPTED

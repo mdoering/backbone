@@ -1,5 +1,4 @@
-Lyngbya anomala (C.B.Rao) Umezaki & Watanabe SPECIES
-=======
+# Lyngbya anomala (C.B.Rao) Umezaki & Watanabe SPECIES
 
 #### Status
 ACCEPTED

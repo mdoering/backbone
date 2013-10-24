@@ -1,5 +1,4 @@
-Pseudosphaerita P.A. Dang. GENUS
-=======
+# Pseudosphaerita P.A. Dang. GENUS
 
 #### Status
 ACCEPTED

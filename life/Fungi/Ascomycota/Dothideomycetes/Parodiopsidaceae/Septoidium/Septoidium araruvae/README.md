@@ -1,5 +1,4 @@
-Septoidium araruvae Viégas SPECIES
-=======
+# Septoidium araruvae Viégas SPECIES
 
 #### Status
 ACCEPTED

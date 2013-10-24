@@ -1,5 +1,4 @@
-Diplodia insitiva Sacc. SPECIES
-=======
+# Diplodia insitiva Sacc. SPECIES
 
 #### Status
 ACCEPTED

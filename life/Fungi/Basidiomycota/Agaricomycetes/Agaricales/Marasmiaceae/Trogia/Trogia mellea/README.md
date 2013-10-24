@@ -1,5 +1,4 @@
-Trogia mellea Corner SPECIES
-=======
+# Trogia mellea Corner SPECIES
 
 #### Status
 ACCEPTED

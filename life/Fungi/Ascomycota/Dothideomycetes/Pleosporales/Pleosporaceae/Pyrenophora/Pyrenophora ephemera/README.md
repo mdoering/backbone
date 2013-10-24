@@ -1,5 +1,4 @@
-Pyrenophora ephemera Crivelli SPECIES
-=======
+# Pyrenophora ephemera Crivelli SPECIES
 
 #### Status
 ACCEPTED

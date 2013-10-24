@@ -1,5 +1,4 @@
-Spicariopsis tropicale R. Heim SPECIES
-=======
+# Spicariopsis tropicale R. Heim SPECIES
 
 #### Status
 ACCEPTED

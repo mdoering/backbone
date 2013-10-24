@@ -1,5 +1,4 @@
-Codonellopsis tessellata Brandt, 1906 SPECIES
-=======
+# Codonellopsis tessellata Brandt, 1906 SPECIES
 
 #### Status
 ACCEPTED

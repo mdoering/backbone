@@ -1,5 +1,4 @@
-Gloeosporium cerasi J. Lindau SPECIES
-=======
+# Gloeosporium cerasi J. Lindau SPECIES
 
 #### Status
 ACCEPTED

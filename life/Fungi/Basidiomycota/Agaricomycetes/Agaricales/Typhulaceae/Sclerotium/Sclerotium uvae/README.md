@@ -1,5 +1,4 @@
-Sclerotium uvae Desm. SPECIES
-=======
+# Sclerotium uvae Desm. SPECIES
 
 #### Status
 ACCEPTED

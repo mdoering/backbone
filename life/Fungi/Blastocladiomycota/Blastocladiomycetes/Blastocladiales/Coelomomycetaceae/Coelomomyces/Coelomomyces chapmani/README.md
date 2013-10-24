@@ -1,5 +1,4 @@
-Coelomomyces chapmani SPECIES
-=======
+# Coelomomyces chapmani SPECIES
 
 #### Status
 ACCEPTED

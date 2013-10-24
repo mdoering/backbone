@@ -1,5 +1,4 @@
-Petalomonas quinquemarginata Shawhan & Jahn SPECIES
-=======
+# Petalomonas quinquemarginata Shawhan & Jahn SPECIES
 
 #### Status
 ACCEPTED

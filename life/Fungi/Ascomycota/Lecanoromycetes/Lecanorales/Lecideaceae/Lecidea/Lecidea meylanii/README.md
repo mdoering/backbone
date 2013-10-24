@@ -1,5 +1,4 @@
-Lecidea meylanii B. de Lesd. SPECIES
-=======
+# Lecidea meylanii B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

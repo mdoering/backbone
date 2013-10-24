@@ -1,5 +1,4 @@
-Gyalecta absconsa Tuck. SPECIES
-=======
+# Gyalecta absconsa Tuck. SPECIES
 
 #### Status
 ACCEPTED

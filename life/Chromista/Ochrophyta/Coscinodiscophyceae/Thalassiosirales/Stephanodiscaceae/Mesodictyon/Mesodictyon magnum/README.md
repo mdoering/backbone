@@ -1,5 +1,4 @@
-Mesodictyon magnum E. Theriot, J.P. Bradbury & W.N. Krebs SPECIES
-=======
+# Mesodictyon magnum E. Theriot, J.P. Bradbury & W.N. Krebs SPECIES
 
 #### Status
 ACCEPTED

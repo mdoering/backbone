@@ -1,5 +1,4 @@
-Pezizella fagi (Jaap) Matheis, 1975 SPECIES
-=======
+# Pezizella fagi (Jaap) Matheis, 1975 SPECIES
 
 #### Status
 ACCEPTED

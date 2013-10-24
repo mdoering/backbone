@@ -1,5 +1,4 @@
-Soriella Haque, 1960 GENUS
-=======
+# Soriella Haque, 1960 GENUS
 
 #### Status
 ACCEPTED

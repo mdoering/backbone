@@ -1,5 +1,4 @@
-Oidites thuigenus Göpp. & J.A. Menge SPECIES
-=======
+# Oidites thuigenus Göpp. & J.A. Menge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Dendrocorticium jonides (Bres.) M.J. Larsen & Gilb. SPECIES
-=======
+# Dendrocorticium ionides (Bres.) M.J. Larsen & Gilb. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Norw. Jl Bot. 21(3): 225 (1974)
 
 #### Original name
-Corticium jonides Bres.
+Corticium ionides Bres.
 
 ### Remarks
 null

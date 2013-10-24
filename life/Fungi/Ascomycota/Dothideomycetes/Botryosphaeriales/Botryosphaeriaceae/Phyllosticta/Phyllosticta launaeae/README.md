@@ -1,5 +1,4 @@
-Phyllosticta launaeae Rajd. SPECIES
-=======
+# Phyllosticta launaeae Rajd. SPECIES
 
 #### Status
 ACCEPTED

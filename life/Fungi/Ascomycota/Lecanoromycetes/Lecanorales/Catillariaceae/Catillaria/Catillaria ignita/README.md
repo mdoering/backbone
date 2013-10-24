@@ -1,5 +1,4 @@
-Catillaria ignita (Anzi) Arnold SPECIES
-=======
+# Catillaria ignita (Anzi) Arnold SPECIES
 
 #### Status
 ACCEPTED

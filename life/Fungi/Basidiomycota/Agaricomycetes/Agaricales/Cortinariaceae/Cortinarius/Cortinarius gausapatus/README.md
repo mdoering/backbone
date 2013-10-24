@@ -1,5 +1,4 @@
-Cortinarius gausapatus J. Favre, 1955 SPECIES
-=======
+# Cortinarius gausapatus J. Favre, 1955 SPECIES
 
 #### Status
 ACCEPTED

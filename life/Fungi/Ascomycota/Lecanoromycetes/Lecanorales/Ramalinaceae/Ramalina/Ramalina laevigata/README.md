@@ -1,5 +1,4 @@
-Ramalina laevigata f. laevigata FORM
-=======
+# Ramalina laevigata Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ramalina laevigata f. laevigata
+Ramalina laevigata Fr.
 
 ### Remarks
 null

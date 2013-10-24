@@ -1,5 +1,4 @@
-Wuestneia fusca (Nag Raj & DiCosmo) J. Reid & C. Booth SPECIES
-=======
+# Wuestneia fusca (Nag Raj & DiCosmo) J. Reid & C. Booth SPECIES
 
 #### Status
 ACCEPTED

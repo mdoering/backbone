@@ -1,5 +1,4 @@
-Boletus altissimus Massee SPECIES
-=======
+# Boletus altissimus Massee SPECIES
 
 #### Status
 ACCEPTED

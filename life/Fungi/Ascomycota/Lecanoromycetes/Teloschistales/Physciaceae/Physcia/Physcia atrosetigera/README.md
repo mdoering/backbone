@@ -1,5 +1,4 @@
-Physcia atrosetigera Nyl. SPECIES
-=======
+# Physcia atrosetigera Nyl. SPECIES
 
 #### Status
 ACCEPTED

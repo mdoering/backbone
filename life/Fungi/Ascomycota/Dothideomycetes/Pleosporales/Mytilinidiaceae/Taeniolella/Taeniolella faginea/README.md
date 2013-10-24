@@ -1,14 +1,13 @@
-Torula faginea Fuckel, 1870 SPECIES
-=======
+# Taeniolella faginea (Fuckel) S. Hughes, 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Jb. nassau. Ver. Naturk. 23-24: 349 (1870)
+Can. J. Bot. 36: 817 (1958)
 
 #### Original name
 Torula faginea Fuckel, 1870

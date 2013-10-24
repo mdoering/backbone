@@ -1,5 +1,4 @@
-Planiinvoluta Leischner, 1961 GENUS
-=======
+# Planiinvoluta Leischner, 1961 GENUS
 
 #### Status
 ACCEPTED

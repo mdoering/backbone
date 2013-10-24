@@ -1,17 +1,16 @@
-Hygrophorus nodulisporus Dennis, 1953 SPECIES
-=======
+# Hygroaster nodulisporus (Dennis) Singer, 1955 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia (1955)
 
 #### Original name
-null
+Hygrophorus nodulispora Dennis
 
 ### Remarks
 null

@@ -1,11 +1,10 @@
-Globorotalia praemenardii subsp. praemenardii SUBSPECIES
-=======
+# Globorotalia praemenardii SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-The National Checklist of Taiwan
+NUB Generator [implicit canonical]
 
 #### Published in
 null

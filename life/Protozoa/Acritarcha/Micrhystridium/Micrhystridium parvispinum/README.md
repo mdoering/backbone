@@ -1,5 +1,4 @@
-Micrhystridium parvispinum Deflandre, 1946 SPECIES
-=======
+# Micrhystridium parvispinum Deflandre, 1946 SPECIES
 
 #### Status
 ACCEPTED

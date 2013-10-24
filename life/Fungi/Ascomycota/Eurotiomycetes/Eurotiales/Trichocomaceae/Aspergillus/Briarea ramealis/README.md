@@ -1,5 +1,4 @@
-Briarea ramealis P. Karst. SPECIES
-=======
+# Briarea ramealis P. Karst. SPECIES
 
 #### Status
 ACCEPTED

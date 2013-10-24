@@ -1,5 +1,4 @@
-Lecanora weardalensis Johnson {?} SPECIES
-=======
+# Lecanora weardalensis Johnson {?} SPECIES
 
 #### Status
 ACCEPTED

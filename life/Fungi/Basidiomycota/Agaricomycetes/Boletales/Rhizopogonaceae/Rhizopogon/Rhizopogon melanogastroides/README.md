@@ -1,5 +1,4 @@
-Rhizopogon melanogastroides M. Lange, 1957 SPECIES
-=======
+# Rhizopogon melanogastroides M. Lange, 1957 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thalloidima luridonigrum (Nyl.) Müll. Arg. SPECIES
-=======
+# Thalloidima luridonigrum (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

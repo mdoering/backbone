@@ -1,11 +1,10 @@
-Myrionema punctiforme Harvey SPECIES
-=======
+# Myrionema strangulans Greville SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+Integrated Taxonomic Information System
 
 #### Published in
 null

@@ -1,5 +1,4 @@
-Talaromyces ocotl Bills & Heredia SPECIES
-=======
+# Talaromyces ocotl Bills & Heredia SPECIES
 
 #### Status
 ACCEPTED

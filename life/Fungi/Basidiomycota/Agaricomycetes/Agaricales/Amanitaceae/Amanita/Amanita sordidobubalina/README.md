@@ -1,5 +1,4 @@
-Amanita sordidobubalina A.E. Wood SPECIES
-=======
+# Amanita sordidobubalina A.E. Wood SPECIES
 
 #### Status
 ACCEPTED

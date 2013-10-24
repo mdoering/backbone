@@ -1,5 +1,4 @@
-Graphium altissimum Strasser SPECIES
-=======
+# Graphium altissimum Strasser SPECIES
 
 #### Status
 ACCEPTED

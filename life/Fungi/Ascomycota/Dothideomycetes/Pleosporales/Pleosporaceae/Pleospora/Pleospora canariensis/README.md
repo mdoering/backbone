@@ -1,5 +1,4 @@
-Pleospora canariensis Petr. SPECIES
-=======
+# Pleospora canariensis Petr. SPECIES
 
 #### Status
 ACCEPTED

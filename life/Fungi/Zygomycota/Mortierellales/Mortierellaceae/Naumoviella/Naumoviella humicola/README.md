@@ -1,5 +1,4 @@
-Naumoviella humicola Naumov & Ibrah. SPECIES
-=======
+# Naumoviella humicola Naumov & Ibrah. SPECIES
 
 #### Status
 ACCEPTED

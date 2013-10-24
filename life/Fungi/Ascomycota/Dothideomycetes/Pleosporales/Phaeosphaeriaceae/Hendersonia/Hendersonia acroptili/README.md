@@ -1,5 +1,4 @@
-Hendersonia acroptili Lobik SPECIES
-=======
+# Hendersonia acroptili Lobik SPECIES
 
 #### Status
 ACCEPTED

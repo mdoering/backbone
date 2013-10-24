@@ -1,5 +1,4 @@
-Thecadinium aureum SPECIES
-=======
+# Thecadinium aureum SPECIES
 
 #### Status
 ACCEPTED

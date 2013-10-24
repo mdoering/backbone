@@ -1,5 +1,4 @@
-Trematosphaeria bermudiana Sivan. SPECIES
-=======
+# Trematosphaeria bermudiana Sivan. SPECIES
 
 #### Status
 ACCEPTED

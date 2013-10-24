@@ -1,5 +1,4 @@
-Calothyriopsis mali Subhedar & V.G. Rao SPECIES
-=======
+# Calothyriopsis mali Subhedar & V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

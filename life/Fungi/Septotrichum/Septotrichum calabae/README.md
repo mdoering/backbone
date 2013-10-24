@@ -1,5 +1,4 @@
-Septotrichum calabae (Kunze) Corda SPECIES
-=======
+# Septotrichum calabae (Kunze) Corda SPECIES
 
 #### Status
 ACCEPTED

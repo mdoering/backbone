@@ -1,5 +1,4 @@
-Placynthium subnigrum B. de Lesd. SPECIES
-=======
+# Placynthium subnigrum B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

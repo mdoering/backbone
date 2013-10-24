@@ -1,5 +1,4 @@
-Lenaella Haman, 1988 GENUS
-=======
+# Lenaella Haman, 1988 GENUS
 
 #### Status
 ACCEPTED

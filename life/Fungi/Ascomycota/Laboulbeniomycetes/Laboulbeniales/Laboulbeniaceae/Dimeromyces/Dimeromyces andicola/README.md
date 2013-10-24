@@ -1,5 +1,4 @@
-Dimeromyces andicola (Speg.) I.I. Tav. SPECIES
-=======
+# Dimeromyces andicola (Speg.) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

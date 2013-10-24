@@ -1,5 +1,4 @@
-Heteroconium triticicola Kwasna & G.L. Bateman, 2008 SPECIES
-=======
+# Heteroconium triticicola Kwasna & G.L. Bateman, 2008 SPECIES
 
 #### Status
 ACCEPTED

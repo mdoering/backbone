@@ -1,5 +1,4 @@
-Uromyces volkartii Gäum. & Terrier SPECIES
-=======
+# Uromyces volkartii Gäum. & Terrier SPECIES
 
 #### Status
 ACCEPTED

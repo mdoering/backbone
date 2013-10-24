@@ -1,5 +1,4 @@
-Asterellina puchella SPECIES
-=======
+# Asterellina puchella SPECIES
 
 #### Status
 ACCEPTED

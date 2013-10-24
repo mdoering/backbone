@@ -1,5 +1,4 @@
-Kofoidina Henry, 1933 GENUS
-=======
+# Kofoidina Henry, 1933 GENUS
 
 #### Status
 ACCEPTED

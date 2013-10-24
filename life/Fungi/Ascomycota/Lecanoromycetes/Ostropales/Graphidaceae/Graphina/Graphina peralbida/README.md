@@ -1,5 +1,4 @@
-Graphina peralbida (Nyl.) Zahlbr. SPECIES
-=======
+# Graphina peralbida (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

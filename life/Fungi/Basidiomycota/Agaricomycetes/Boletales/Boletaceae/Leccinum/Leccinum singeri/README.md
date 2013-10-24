@@ -1,5 +1,4 @@
-Leccinum singeri A.H. Sm. & Thiers SPECIES
-=======
+# Leccinum singeri A.H. Sm. & Thiers SPECIES
 
 #### Status
 ACCEPTED

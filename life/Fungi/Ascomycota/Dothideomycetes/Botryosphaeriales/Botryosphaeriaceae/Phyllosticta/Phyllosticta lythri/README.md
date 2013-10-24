@@ -1,5 +1,4 @@
-Phyllosticta lythri Cejp SPECIES
-=======
+# Phyllosticta lythri Cejp SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stictina otwayensis Jatta SPECIES
-=======
+# Stictina otwayensis Jatta SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xanthoparmelia serusiauxii Hale SPECIES
-=======
+# Xanthoparmelia serusiauxii Hale SPECIES
 
 #### Status
 ACCEPTED

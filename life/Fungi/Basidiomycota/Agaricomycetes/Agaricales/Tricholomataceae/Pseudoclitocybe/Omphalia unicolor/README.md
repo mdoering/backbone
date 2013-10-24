@@ -1,5 +1,4 @@
-Omphalia unicolor Rick SPECIES
-=======
+# Omphalia unicolor Rick SPECIES
 
 #### Status
 ACCEPTED

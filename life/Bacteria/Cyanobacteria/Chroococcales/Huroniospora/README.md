@@ -1,5 +1,4 @@
-Huroniospora E.S. Barghoorn in E.S. Barghoorn & S.A. Tyler, 1965 GENUS
-=======
+# Huroniospora E.S. Barghoorn in E.S. Barghoorn & S.A. Tyler, 1965 GENUS
 
 #### Status
 ACCEPTED

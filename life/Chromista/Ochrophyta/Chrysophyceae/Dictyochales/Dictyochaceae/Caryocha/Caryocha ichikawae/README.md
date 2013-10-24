@@ -1,5 +1,4 @@
-Caryocha ichikawae (A. Bachmann) D. Bukry & S. Monechi SPECIES
-=======
+# Caryocha ichikawae (A. Bachmann) D. Bukry & S. Monechi SPECIES
 
 #### Status
 ACCEPTED

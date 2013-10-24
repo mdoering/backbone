@@ -1,5 +1,4 @@
-Gorgonisphaeridium pennum Martin, 1983 SPECIES
-=======
+# Gorgonisphaeridium pennum Martin, 1983 SPECIES
 
 #### Status
 ACCEPTED

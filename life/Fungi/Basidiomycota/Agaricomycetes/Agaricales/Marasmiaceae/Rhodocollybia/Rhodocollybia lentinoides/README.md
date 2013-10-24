@@ -1,5 +1,4 @@
-Rhodocollybia lentinoides (Peck) Halling SPECIES
-=======
+# Rhodocollybia lentinoides (Peck) Halling SPECIES
 
 #### Status
 ACCEPTED

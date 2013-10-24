@@ -1,5 +1,4 @@
-Pseudocercospora cordobensis (Speg.) Y.L. Guo & X.J. Liu SPECIES
-=======
+# Pseudocercospora cordobensis (Speg.) Y.L. Guo & X.J. Liu SPECIES
 
 #### Status
 ACCEPTED

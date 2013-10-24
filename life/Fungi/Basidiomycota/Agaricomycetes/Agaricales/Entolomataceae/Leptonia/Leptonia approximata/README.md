@@ -1,5 +1,4 @@
-Leptonia approximata Largent SPECIES
-=======
+# Leptonia approximata Largent SPECIES
 
 #### Status
 ACCEPTED

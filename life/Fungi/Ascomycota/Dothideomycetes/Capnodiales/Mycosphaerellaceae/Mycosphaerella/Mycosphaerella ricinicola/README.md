@@ -1,5 +1,4 @@
-Mycosphaerella ricinicola (Speg.) Tomilin SPECIES
-=======
+# Mycosphaerella ricinicola (Speg.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

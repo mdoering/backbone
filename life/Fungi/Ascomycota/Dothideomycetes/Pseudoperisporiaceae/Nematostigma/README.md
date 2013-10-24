@@ -1,5 +1,4 @@
-Nematostigma Sydow & P. Sydow, 1913 GENUS
-=======
+# Nematostigma Sydow & P. Sydow, 1913 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphacelotheca bengalensis (Syd., P. Syd. & E.J. Butler) Mundk. SPECIES
-=======
+# Sphacelotheca bengalensis (Syd., P. Syd. & E.J. Butler) Mundk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Opegrapha dracaenarum Müll. Arg. SPECIES
-=======
+# Opegrapha dracaenarum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

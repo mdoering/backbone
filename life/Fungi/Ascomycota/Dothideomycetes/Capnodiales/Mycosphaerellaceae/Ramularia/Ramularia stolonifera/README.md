@@ -1,5 +1,4 @@
-Ramularia stolonifera Ellis & Everh. SPECIES
-=======
+# Ramularia stolonifera Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

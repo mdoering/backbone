@@ -1,17 +1,16 @@
-Phytophthora austrocedrae Gresl. & E.M. Hansen SPECIES
-=======
+# Phytophthora austrocedri Gresl. & E.M. Hansen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Greslebin, Hansen & Sutton, Mycol. Res. 111(2): 312 (2007)
 
 #### Original name
-Phytophthora austrocedrae Gresl. & E.M. Hansen
+Phytophthora austrocedri Gresl. & E.M. Hansen
 
 ### Remarks
 null

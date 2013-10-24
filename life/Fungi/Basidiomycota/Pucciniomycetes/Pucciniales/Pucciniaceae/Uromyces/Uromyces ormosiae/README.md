@@ -1,5 +1,4 @@
-Uromyces ormosiae L. Guo & Y.C. Wang SPECIES
-=======
+# Uromyces ormosiae L. Guo & Y.C. Wang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hymenoscyphus byssigenus (Berk.) Kuntze SPECIES
-=======
+# Hymenoscyphus byssigenus (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

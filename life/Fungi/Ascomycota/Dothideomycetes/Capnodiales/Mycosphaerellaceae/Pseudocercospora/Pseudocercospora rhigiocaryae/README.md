@@ -1,5 +1,4 @@
-Pseudocercospora rhigiocaryae (J.M. Yen & Gilles) J.M. Yen SPECIES
-=======
+# Pseudocercospora rhigiocaryae (J.M. Yen & Gilles) J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

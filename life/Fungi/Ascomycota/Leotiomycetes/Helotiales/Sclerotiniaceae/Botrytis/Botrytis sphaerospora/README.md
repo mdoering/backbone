@@ -1,5 +1,4 @@
-Botrytis sphaerospora (Ces.) Sacc. SPECIES
-=======
+# Botrytis sphaerospora (Ces.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

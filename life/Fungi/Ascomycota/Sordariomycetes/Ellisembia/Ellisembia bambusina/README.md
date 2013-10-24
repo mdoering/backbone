@@ -1,5 +1,4 @@
-Ellisembia bambusina (N.D. Sharma) McKenzie SPECIES
-=======
+# Ellisembia bambusina (N.D. Sharma) McKenzie SPECIES
 
 #### Status
 ACCEPTED

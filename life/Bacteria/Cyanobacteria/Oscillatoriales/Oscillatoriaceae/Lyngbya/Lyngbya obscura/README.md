@@ -1,5 +1,4 @@
-Lyngbya obscura Kützing SPECIES
-=======
+# Lyngbya obscura Kützing SPECIES
 
 #### Status
 ACCEPTED

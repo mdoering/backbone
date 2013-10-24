@@ -1,5 +1,4 @@
-Basidiodendron burtii (Bres.) Wojewoda SPECIES
-=======
+# Basidiodendron burtii (Bres.) Wojewoda SPECIES
 
 #### Status
 ACCEPTED

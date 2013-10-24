@@ -1,5 +1,4 @@
-Acarospora argaei J. Steiner SPECIES
-=======
+# Acarospora argaei J. Steiner SPECIES
 
 #### Status
 ACCEPTED

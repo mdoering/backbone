@@ -1,5 +1,4 @@
-Clavaria ardosiaca R.H. Petersen, 1988 SPECIES
-=======
+# Clavaria ardosiaca R.H. Petersen, 1988 SPECIES
 
 #### Status
 ACCEPTED

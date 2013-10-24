@@ -1,5 +1,4 @@
-Geopetalum subelatinum Murrill SPECIES
-=======
+# Geopetalum subelatinum Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Dentalina peregrina Reuss, 1861 SPECIES
-=======
+# Nodosaria peregrina (Reuss, 1861) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

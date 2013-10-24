@@ -1,5 +1,4 @@
-Polystictus castaneus Lloyd SPECIES
-=======
+# Polystictus castaneus Lloyd SPECIES
 
 #### Status
 ACCEPTED

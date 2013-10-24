@@ -1,5 +1,4 @@
-Phlyctis perpityrea Erichsen SPECIES
-=======
+# Phlyctis perpityrea Erichsen SPECIES
 
 #### Status
 ACCEPTED

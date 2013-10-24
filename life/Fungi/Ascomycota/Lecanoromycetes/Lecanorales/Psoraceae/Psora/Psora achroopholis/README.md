@@ -1,5 +1,4 @@
-Psora achroopholis (Nyl.) C.W. Dodge SPECIES
-=======
+# Psora achroopholis (Nyl.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

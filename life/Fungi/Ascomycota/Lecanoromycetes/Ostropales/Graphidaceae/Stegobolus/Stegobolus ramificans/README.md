@@ -1,5 +1,4 @@
-Stegobolus ramificans Frisch SPECIES
-=======
+# Stegobolus ramificans Frisch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calycella laricis L. Remy SPECIES
-=======
+# Calycella laricis L. Remy SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Flammula squamulosa Velen. SPECIES
-=======
+# Flammula squamulosa Velen. SPECIES
 
 #### Status
 ACCEPTED

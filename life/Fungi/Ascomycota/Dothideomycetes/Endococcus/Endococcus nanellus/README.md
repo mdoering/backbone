@@ -1,5 +1,4 @@
-Endococcus nanellus Ohlert SPECIES
-=======
+# Endococcus nanellus Ohlert SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Hyalopus rubrobrunneum (Nann.) M.A.J. Barbosa SPECIES
-=======
+# Hyalopus rubrobrunneus (Nann.) M.A.J. Barbosa SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Notarisia 44 (1941)
 
 #### Original name
 Cephalosporium rubrobrunneum Nann.

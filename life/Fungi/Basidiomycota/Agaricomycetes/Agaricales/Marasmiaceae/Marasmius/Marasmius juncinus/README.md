@@ -1,5 +1,4 @@
-Marasmius juncinus Velen. SPECIES
-=======
+# Marasmius juncinus Velen. SPECIES
 
 #### Status
 ACCEPTED

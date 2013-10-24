@@ -1,5 +1,4 @@
-Botryosphaeria molluginis Höhn. SPECIES
-=======
+# Botryosphaeria molluginis Höhn. SPECIES
 
 #### Status
 ACCEPTED

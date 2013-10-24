@@ -1,14 +1,13 @@
-Xanthoria ectanoides (Nyl.) Zahlbr. SPECIES
-=======
+# Xanthoria ectaneoides (Nyl.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Cat. Lich. Univers. 7: 287 (1931)
 
 #### Original name
 Physcia ectaneoides Nyl.

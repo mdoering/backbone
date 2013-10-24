@@ -1,5 +1,4 @@
-Fuscoboletinus grisellus (Peck) Pomerl. & A.H. Sm. SPECIES
-=======
+# Fuscoboletinus grisellus (Peck) Pomerl. & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

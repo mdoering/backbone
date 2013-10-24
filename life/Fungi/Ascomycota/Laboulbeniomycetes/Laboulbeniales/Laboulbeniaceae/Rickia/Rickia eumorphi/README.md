@@ -1,5 +1,4 @@
-Rickia eumorphi Thaxt. SPECIES
-=======
+# Rickia eumorphi Thaxt. SPECIES
 
 #### Status
 ACCEPTED

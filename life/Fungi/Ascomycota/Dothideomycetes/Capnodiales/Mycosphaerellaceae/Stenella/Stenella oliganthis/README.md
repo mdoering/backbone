@@ -1,5 +1,4 @@
-Stenella oliganthis (R.E.D. Baker & W.T. Dale) U. Braun & Crous SPECIES
-=======
+# Stenella oliganthis (R.E.D. Baker & W.T. Dale) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

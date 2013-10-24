@@ -1,5 +1,4 @@
-Dermatea cucurbitaria Cooke SPECIES
-=======
+# Dermatea cucurbitaria Cooke SPECIES
 
 #### Status
 ACCEPTED

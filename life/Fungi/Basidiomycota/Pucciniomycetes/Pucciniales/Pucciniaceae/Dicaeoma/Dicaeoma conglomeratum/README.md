@@ -1,5 +1,4 @@
-Dicaeoma conglomeratum (F. Strauss) Kuntze SPECIES
-=======
+# Dicaeoma conglomeratum (F. Strauss) Kuntze SPECIES
 
 #### Status
 ACCEPTED

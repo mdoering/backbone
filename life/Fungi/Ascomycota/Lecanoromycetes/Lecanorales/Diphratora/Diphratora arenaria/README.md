@@ -1,5 +1,4 @@
-Diphratora arenaria (Anzi) Jatta SPECIES
-=======
+# Diphratora arenaria (Anzi) Jatta SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Fomes borneonensis (Lloyd) S. Ahmad SPECIES
-=======
+# Fomes borneoensis (Lloyd) S. Ahmad SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Fungi of West Pakistan (Biol. Soc. Pakistan Monogr. 1) 71 (1956)
 
 #### Original name
 Trametes borneoensis Lloyd

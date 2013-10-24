@@ -1,5 +1,4 @@
-Catellicoccus Lawson et al., 2006 GENUS
-=======
+# Catellicoccus Lawson et al., 2006 GENUS
 
 #### Status
 ACCEPTED

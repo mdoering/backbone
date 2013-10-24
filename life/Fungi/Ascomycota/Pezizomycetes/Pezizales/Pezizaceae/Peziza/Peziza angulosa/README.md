@@ -1,5 +1,4 @@
-Peziza angulosa P. Karst. SPECIES
-=======
+# Peziza angulosa P. Karst. SPECIES
 
 #### Status
 ACCEPTED

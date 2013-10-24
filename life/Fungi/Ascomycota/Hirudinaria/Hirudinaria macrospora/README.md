@@ -1,5 +1,4 @@
-Hirudinaria macrospora Ces. SPECIES
-=======
+# Hirudinaria macrospora Ces. SPECIES
 
 #### Status
 ACCEPTED

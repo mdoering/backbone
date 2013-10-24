@@ -1,5 +1,4 @@
-Phialea winteri Rehm SPECIES
-=======
+# Phialea winteri Rehm SPECIES
 
 #### Status
 ACCEPTED

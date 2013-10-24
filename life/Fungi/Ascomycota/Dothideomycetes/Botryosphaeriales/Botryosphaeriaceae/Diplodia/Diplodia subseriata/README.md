@@ -1,5 +1,4 @@
-Diplodia subseriata Tassi SPECIES
-=======
+# Diplodia subseriata Tassi SPECIES
 
 #### Status
 ACCEPTED

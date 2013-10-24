@@ -1,5 +1,4 @@
-Belonidium albolabrum (Ellis & Everh.) Raitv. SPECIES
-=======
+# Belonidium albolabrum (Ellis & Everh.) Raitv. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Trichopelmatidae FAMILY
-=======
+# Leptopharyngidae Kahl, 1926 FAMILY
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Integrated Taxonomic Information System

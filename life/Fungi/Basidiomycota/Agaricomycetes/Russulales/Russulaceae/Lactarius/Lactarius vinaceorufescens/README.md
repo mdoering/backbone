@@ -1,5 +1,4 @@
-Lactarius vinaceorufescens A.H. Sm. SPECIES
-=======
+# Lactarius vinaceorufescens A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

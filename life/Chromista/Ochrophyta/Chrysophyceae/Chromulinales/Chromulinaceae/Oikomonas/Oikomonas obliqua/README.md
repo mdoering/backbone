@@ -1,5 +1,4 @@
-Oikomonas obliqua Kent SPECIES
-=======
+# Oikomonas obliqua Kent SPECIES
 
 #### Status
 ACCEPTED

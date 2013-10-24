@@ -1,5 +1,4 @@
-Belonium coroniforme Rehm SPECIES
-=======
+# Belonium coroniforme Rehm SPECIES
 
 #### Status
 ACCEPTED

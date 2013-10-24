@@ -1,5 +1,4 @@
-Pistillaria rhodocionides Corner, 1950 SPECIES
-=======
+# Pistillaria rhodocionides Corner, 1950 SPECIES
 
 #### Status
 ACCEPTED

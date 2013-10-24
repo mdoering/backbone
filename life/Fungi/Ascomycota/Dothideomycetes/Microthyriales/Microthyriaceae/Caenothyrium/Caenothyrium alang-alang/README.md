@@ -1,5 +1,4 @@
-Caenothyrium alang-alang (Racib.) Theiss. & Syd. SPECIES
-=======
+# Caenothyrium alang-alang (Racib.) Theiss. & Syd. SPECIES
 
 #### Status
 ACCEPTED

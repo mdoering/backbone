@@ -1,5 +1,4 @@
-Poria pinea (Peck) Sacc. SPECIES
-=======
+# Poria pinea (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

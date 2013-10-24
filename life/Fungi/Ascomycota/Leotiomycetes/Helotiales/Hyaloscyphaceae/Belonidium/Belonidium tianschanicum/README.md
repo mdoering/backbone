@@ -1,5 +1,4 @@
-Belonidium tianschanicum Raitv. SPECIES
-=======
+# Belonidium tianschanicum Raitv. SPECIES
 
 #### Status
 ACCEPTED

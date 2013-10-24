@@ -1,5 +1,4 @@
-Uromyces corallocarpi W.T. Dale SPECIES
-=======
+# Uromyces corallocarpi W.T. Dale SPECIES
 
 #### Status
 ACCEPTED

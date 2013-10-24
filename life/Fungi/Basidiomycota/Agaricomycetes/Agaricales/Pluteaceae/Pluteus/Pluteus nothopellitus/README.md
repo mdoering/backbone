@@ -1,5 +1,4 @@
-Pluteus nothopellitus Justo & M.L. Castro SPECIES
-=======
+# Pluteus nothopellitus Justo & M.L. Castro SPECIES
 
 #### Status
 ACCEPTED

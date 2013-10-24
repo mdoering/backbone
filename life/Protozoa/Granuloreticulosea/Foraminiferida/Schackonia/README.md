@@ -1,5 +1,4 @@
-Schackonia GENUS
-=======
+# Schackonia GENUS
 
 #### Status
 ACCEPTED

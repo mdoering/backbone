@@ -1,5 +1,4 @@
-Scolecobasidium fusiforme Matsush., 1971 SPECIES
-=======
+# Scolecobasidium fusiforme Matsush., 1971 SPECIES
 
 #### Status
 ACCEPTED

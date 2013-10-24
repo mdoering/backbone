@@ -1,5 +1,4 @@
-Pavillardinium intermedium (Pavillard) De Toni SPECIES
-=======
+# Pavillardinium intermedium (Pavillard) De Toni SPECIES
 
 #### Status
 ACCEPTED

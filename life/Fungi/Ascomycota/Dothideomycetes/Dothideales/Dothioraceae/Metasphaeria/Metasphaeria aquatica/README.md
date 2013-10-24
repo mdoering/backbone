@@ -1,5 +1,4 @@
-Metasphaeria aquatica Pat. SPECIES
-=======
+# Metasphaeria aquatica Pat. SPECIES
 
 #### Status
 ACCEPTED

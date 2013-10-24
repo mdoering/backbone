@@ -1,5 +1,4 @@
-Pestalotia monorhincha Speg. SPECIES
-=======
+# Pestalotia monorhincha Speg. SPECIES
 
 #### Status
 ACCEPTED

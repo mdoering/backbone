@@ -1,5 +1,4 @@
-Fistulina rosea Mont. SPECIES
-=======
+# Fistulina rosea Mont. SPECIES
 
 #### Status
 ACCEPTED

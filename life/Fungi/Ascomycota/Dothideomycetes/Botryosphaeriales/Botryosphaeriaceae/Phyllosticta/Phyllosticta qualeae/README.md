@@ -1,5 +1,4 @@
-Phyllosticta qualeae Allesch. SPECIES
-=======
+# Phyllosticta qualeae Allesch. SPECIES
 
 #### Status
 ACCEPTED

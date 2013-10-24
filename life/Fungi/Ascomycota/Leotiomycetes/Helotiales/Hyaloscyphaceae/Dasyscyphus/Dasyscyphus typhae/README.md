@@ -1,8 +1,7 @@
-Dasyscypha typhae Jaap SPECIES
-=======
+# Dasyscyphus typhae Jaap SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Dasyscypha typhae Jaap
+Dasyscyphus typhae Jaap
 
 ### Remarks
 null

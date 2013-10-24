@@ -1,14 +1,13 @@
-Poria bracei Murrill, 1921 SPECIES
-=======
+# Amylosporus bracei (Murrill) A. David & Rajchenb., 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 13(2): 91 (1921)
+Mycotaxon 22(2): 288 (1985)
 
 #### Original name
 Poria bracei Murrill, 1921

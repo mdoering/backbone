@@ -1,5 +1,4 @@
-Cryptosporiopsis liriodendri Weindlm. SPECIES
-=======
+# Cryptosporiopsis liriodendri Weindlm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladonia aliena Zahlbr. SPECIES
-=======
+# Cladonia aliena Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

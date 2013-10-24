@@ -1,5 +1,4 @@
-Phomatospora podocarpi Syd. SPECIES
-=======
+# Phomatospora podocarpi Syd. SPECIES
 
 #### Status
 ACCEPTED

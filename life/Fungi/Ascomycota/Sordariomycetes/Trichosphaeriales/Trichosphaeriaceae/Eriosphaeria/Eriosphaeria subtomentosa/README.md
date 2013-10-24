@@ -1,5 +1,4 @@
-Eriosphaeria subtomentosa Réblová, 1997 SPECIES
-=======
+# Eriosphaeria subtomentosa Réblová, 1997 SPECIES
 
 #### Status
 ACCEPTED

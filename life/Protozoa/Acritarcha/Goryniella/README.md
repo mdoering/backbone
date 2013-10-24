@@ -1,5 +1,4 @@
-Goryniella B.V. Timofeev, 1973 GENUS
-=======
+# Goryniella B.V. Timofeev, 1973 GENUS
 
 #### Status
 ACCEPTED

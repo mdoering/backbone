@@ -1,8 +1,7 @@
-Halomonas canadensis Huval et al., 1996 SPECIES
-=======
+# Chromohalobacter canadensis (Huval et al., 1996) Arahal et al., 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

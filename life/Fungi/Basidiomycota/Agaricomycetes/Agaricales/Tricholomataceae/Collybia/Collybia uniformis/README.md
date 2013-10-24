@@ -1,5 +1,4 @@
-Collybia uniformis Peck SPECIES
-=======
+# Collybia uniformis Peck SPECIES
 
 #### Status
 ACCEPTED

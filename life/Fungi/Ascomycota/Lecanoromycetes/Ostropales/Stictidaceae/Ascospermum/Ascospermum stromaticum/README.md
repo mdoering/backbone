@@ -1,5 +1,4 @@
-Ascospermum stromaticum Cooke SPECIES
-=======
+# Ascospermum stromaticum Cooke SPECIES
 
 #### Status
 ACCEPTED

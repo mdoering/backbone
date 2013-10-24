@@ -1,5 +1,4 @@
-Arcosphaeridium poriferum Uutela & Tynni, 1991 SPECIES
-=======
+# Arcosphaeridium poriferum Uutela & Tynni, 1991 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascospora ruborum Zeller SPECIES
-=======
+# Ascospora ruborum Zeller SPECIES
 
 #### Status
 ACCEPTED

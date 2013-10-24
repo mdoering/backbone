@@ -1,5 +1,4 @@
-Leptosphaeria darkeri Shoemaker SPECIES
-=======
+# Leptosphaeria darkeri Shoemaker SPECIES
 
 #### Status
 ACCEPTED

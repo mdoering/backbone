@@ -1,17 +1,16 @@
-Chaetomium semispirale Udagawa & Cain, 1969 SPECIES
-=======
+# Chaetomium sphaerale Chivers, 1912 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 47(12): 1947 (1969)
+Proc. Amer. Acad. Arts & Sci. 48: 84 (1912)
 
 #### Original name
-Chaetomium semispirale Udagawa & Cain, 1969
+Chaetomium sphaerale Chivers, 1912
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Pellicularia polonensis (Bres.) Boidin, 1957 SPECIES
-=======
+# Hypochnicium polonense (Bres.) Å. Strid, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Publ. Mus. Natl. Hist. Nat. 17: 121 (1957)
+Wahlenbergia 1: 68 (1975)
 
 #### Original name
 null

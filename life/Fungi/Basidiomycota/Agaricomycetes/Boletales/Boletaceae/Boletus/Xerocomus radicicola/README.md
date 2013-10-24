@@ -1,5 +1,4 @@
-Xerocomus radicicola Singer & Araujo {?} SPECIES
-=======
+# Xerocomus radicicola Singer & Araujo {?} SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sclerotinia caricis-ampullaceae Nyberg SPECIES
-=======
+# Sclerotinia caricis-ampullaceae Nyberg SPECIES
 
 #### Status
 ACCEPTED

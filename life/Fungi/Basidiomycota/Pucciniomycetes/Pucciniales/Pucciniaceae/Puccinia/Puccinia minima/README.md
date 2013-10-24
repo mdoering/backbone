@@ -1,5 +1,4 @@
-Puccinia minima R.G. Bagn. SPECIES
-=======
+# Puccinia minima R.G. Bagn. SPECIES
 
 #### Status
 ACCEPTED

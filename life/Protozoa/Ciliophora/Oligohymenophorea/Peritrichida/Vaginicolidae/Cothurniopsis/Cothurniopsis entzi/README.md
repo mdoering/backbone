@@ -1,5 +1,4 @@
-Cothurniopsis entzi SPECIES
-=======
+# Cothurniopsis entzi SPECIES
 
 #### Status
 ACCEPTED

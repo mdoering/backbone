@@ -1,5 +1,4 @@
-Candida coipomensis C. Ramírez & A.E. González, 1984 SPECIES
-=======
+# Candida coipomensis C. Ramírez & A.E. González, 1984 SPECIES
 
 #### Status
 ACCEPTED

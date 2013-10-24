@@ -1,5 +1,4 @@
-Puccinia arnaudensis G. Cunn., 1928 SPECIES
-=======
+# Puccinia arnaudensis G. Cunn., 1928 SPECIES
 
 #### Status
 ACCEPTED

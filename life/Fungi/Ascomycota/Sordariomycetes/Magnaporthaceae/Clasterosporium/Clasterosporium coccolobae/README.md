@@ -1,14 +1,13 @@
-Sporidesmium coccolobae (F. Stevens & Dalbey) M.B. Ellis, 1976 SPECIES
-=======
+# Clasterosporium coccolobae (F. Stevens & Dalbey) P.M. Kirk, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-More Dematiaceous Hyphomycetes (Kew) 86 (1976)
+Mycotaxon 23: 333 (1985)
 
 #### Original name
 Microclava coccolobae F. Stevens & Dalbey, 1919

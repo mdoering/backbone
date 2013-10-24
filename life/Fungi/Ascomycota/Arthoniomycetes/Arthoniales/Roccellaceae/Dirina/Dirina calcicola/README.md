@@ -1,5 +1,4 @@
-Dirina calcicola Sparrius SPECIES
-=======
+# Dirina calcicola Sparrius SPECIES
 
 #### Status
 ACCEPTED

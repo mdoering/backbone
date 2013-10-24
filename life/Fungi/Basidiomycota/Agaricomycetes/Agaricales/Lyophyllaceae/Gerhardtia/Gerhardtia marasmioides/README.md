@@ -1,5 +1,4 @@
-Gerhardtia marasmioides (Singer) Consiglio & Contu SPECIES
-=======
+# Gerhardtia marasmioides (Singer) Consiglio & Contu SPECIES
 
 #### Status
 ACCEPTED

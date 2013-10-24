@@ -1,5 +1,4 @@
-Oospora charlieri Sartory SPECIES
-=======
+# Oospora charlieri Sartory SPECIES
 
 #### Status
 ACCEPTED

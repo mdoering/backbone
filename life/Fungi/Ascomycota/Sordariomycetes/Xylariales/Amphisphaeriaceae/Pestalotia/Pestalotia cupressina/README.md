@@ -1,5 +1,4 @@
-Pestalotia cupressina Niessl SPECIES
-=======
+# Pestalotia cupressina Niessl SPECIES
 
 #### Status
 ACCEPTED

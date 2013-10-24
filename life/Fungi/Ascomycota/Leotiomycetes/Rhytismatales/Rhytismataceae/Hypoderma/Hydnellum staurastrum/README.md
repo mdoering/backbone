@@ -1,5 +1,4 @@
-Hydnellum staurastrum Maas Geest., 1971 SPECIES
-=======
+# Hydnellum staurastrum Maas Geest., 1971 SPECIES
 
 #### Status
 DOUBTFUL

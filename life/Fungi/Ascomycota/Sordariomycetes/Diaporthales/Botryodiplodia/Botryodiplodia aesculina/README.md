@@ -1,5 +1,4 @@
-Botryodiplodia aesculina Pass. SPECIES
-=======
+# Botryodiplodia aesculina Pass. SPECIES
 
 #### Status
 ACCEPTED

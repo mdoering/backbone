@@ -1,5 +1,4 @@
-Doassansia farlowii Cornu SPECIES
-=======
+# Doassansia farlowii Cornu SPECIES
 
 #### Status
 ACCEPTED

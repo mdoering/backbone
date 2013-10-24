@@ -1,5 +1,4 @@
-Lecanora hypocrocina Nyl. SPECIES
-=======
+# Lecanora hypocrocina Nyl. SPECIES
 
 #### Status
 ACCEPTED

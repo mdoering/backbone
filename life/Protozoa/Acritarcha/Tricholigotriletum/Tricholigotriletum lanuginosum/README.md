@@ -1,5 +1,4 @@
-Tricholigotriletum lanuginosum Timofeev, 1959 SPECIES
-=======
+# Tricholigotriletum lanuginosum Timofeev, 1959 SPECIES
 
 #### Status
 ACCEPTED

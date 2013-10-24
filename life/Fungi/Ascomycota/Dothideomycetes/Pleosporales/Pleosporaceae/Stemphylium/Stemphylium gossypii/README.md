@@ -1,5 +1,4 @@
-Stemphylium gossypii X.G. Zhang & T.Y. Zhang SPECIES
-=======
+# Stemphylium gossypii X.G. Zhang & T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

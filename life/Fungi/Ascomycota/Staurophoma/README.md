@@ -1,5 +1,4 @@
-Staurophoma Höhn. GENUS
-=======
+# Staurophoma Höhn. GENUS
 
 #### Status
 ACCEPTED

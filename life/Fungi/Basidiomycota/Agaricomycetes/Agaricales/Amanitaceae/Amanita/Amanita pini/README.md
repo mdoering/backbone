@@ -1,5 +1,4 @@
-Amanita pini Neville & Poumarat SPECIES
-=======
+# Amanita pini Neville & Poumarat SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora blandior (Nyl.) Müll. Arg. SPECIES
-=======
+# Lecanora blandior (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

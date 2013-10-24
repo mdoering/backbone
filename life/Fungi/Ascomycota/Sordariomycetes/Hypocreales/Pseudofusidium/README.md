@@ -1,5 +1,4 @@
-Pseudofusidium GENUS
-=======
+# Pseudofusidium GENUS
 
 #### Status
 ACCEPTED

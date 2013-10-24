@@ -1,5 +1,4 @@
-Sclerotium velutinum Westend. SPECIES
-=======
+# Sclerotium velutinum Westend. SPECIES
 
 #### Status
 ACCEPTED

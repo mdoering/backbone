@@ -1,5 +1,4 @@
-Asteristion GENUS
-=======
+# Asteristion GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Ramularia sphaeroidea Sacc., 1878 SPECIES
-=======
+# Ovularia sphaeroidea (Sacc.) Sacc., 1880 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Michelia 1(no. 2): 130 (1878)
+Michelia 2(no. 6): 17 (1880)
 
 #### Original name
 Ramularia sphaeroidea Sacc., 1878

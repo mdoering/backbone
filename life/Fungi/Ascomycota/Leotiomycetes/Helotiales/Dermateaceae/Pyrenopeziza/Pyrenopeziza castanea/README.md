@@ -1,5 +1,4 @@
-Pyrenopeziza castanea Sacc. SPECIES
-=======
+# Pyrenopeziza castanea Sacc. SPECIES
 
 #### Status
 ACCEPTED

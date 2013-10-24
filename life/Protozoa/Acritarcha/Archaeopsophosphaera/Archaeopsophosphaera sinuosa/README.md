@@ -1,5 +1,4 @@
-Archaeopsophosphaera sinuosa Chepikova, 1971 SPECIES
-=======
+# Archaeopsophosphaera sinuosa Chepikova, 1971 SPECIES
 
 #### Status
 ACCEPTED

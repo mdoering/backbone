@@ -1,17 +1,16 @@
-Agrocybe aegerita var. aegerita VARIETY
-=======
+# Agrocybe cylindracea (DC.) Maire, 1938 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hyménomycètes (Alençon) 106 (1874)
 
 #### Original name
-null
+Agaricus cylindraceus DC., 1815
 
 ### Remarks
 null

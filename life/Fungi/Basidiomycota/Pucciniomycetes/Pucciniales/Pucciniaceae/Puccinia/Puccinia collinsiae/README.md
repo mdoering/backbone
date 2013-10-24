@@ -1,5 +1,4 @@
-Puccinia collinsiae (Ellis & Everh.) Henn. SPECIES
-=======
+# Puccinia collinsiae (Ellis & Everh.) Henn. SPECIES
 
 #### Status
 ACCEPTED

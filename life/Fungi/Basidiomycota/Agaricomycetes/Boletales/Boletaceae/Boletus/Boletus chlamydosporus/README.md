@@ -1,5 +1,4 @@
-Boletus chlamydosporus Corner SPECIES
-=======
+# Boletus chlamydosporus Corner SPECIES
 
 #### Status
 ACCEPTED

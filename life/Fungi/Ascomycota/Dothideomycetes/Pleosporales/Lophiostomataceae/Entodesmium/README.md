@@ -1,5 +1,4 @@
-Entodesmium Riess GENUS
-=======
+# Entodesmium Riess GENUS
 
 #### Status
 ACCEPTED

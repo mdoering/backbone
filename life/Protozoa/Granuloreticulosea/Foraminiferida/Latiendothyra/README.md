@@ -1,5 +1,4 @@
-Latiendothyra Lipina, 1963 GENUS
-=======
+# Latiendothyra Lipina, 1963 GENUS
 
 #### Status
 ACCEPTED

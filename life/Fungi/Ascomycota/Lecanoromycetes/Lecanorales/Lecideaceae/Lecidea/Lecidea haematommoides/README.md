@@ -1,5 +1,4 @@
-Lecidea haematommoides Zahlbr. SPECIES
-=======
+# Lecidea haematommoides Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

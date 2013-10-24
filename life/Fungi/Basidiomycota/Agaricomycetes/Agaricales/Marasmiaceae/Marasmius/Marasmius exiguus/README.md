@@ -1,5 +1,4 @@
-Marasmius exiguus Singer SPECIES
-=======
+# Marasmius exiguus Singer SPECIES
 
 #### Status
 ACCEPTED

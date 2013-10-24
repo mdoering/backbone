@@ -1,5 +1,4 @@
-Septoria salicis Westend. SPECIES
-=======
+# Septoria salicis Westend. SPECIES
 
 #### Status
 ACCEPTED

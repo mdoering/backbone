@@ -1,5 +1,4 @@
-Peronospora dianthicola Barthelet, 1953 SPECIES
-=======
+# Peronospora dianthicola Barthelet, 1953 SPECIES
 
 #### Status
 ACCEPTED

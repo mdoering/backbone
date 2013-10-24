@@ -1,5 +1,4 @@
-Hohenbuehelia pycnophylli Singer SPECIES
-=======
+# Hohenbuehelia pycnophylli Singer SPECIES
 
 #### Status
 ACCEPTED

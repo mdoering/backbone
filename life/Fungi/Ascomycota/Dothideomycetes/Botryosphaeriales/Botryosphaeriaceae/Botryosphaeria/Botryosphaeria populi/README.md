@@ -1,5 +1,4 @@
-Botryosphaeria populi A.J.L. Phillips, 2000 SPECIES
-=======
+# Botryosphaeria populi A.J.L. Phillips, 2000 SPECIES
 
 #### Status
 ACCEPTED

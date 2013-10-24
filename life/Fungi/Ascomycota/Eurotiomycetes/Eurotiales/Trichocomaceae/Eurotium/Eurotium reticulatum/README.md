@@ -1,5 +1,4 @@
-Eurotium reticulatum Kuntze SPECIES
-=======
+# Eurotium reticulatum Kuntze SPECIES
 
 #### Status
 ACCEPTED

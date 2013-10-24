@@ -1,5 +1,4 @@
-Tuburcinia sternbergiae (Moesz) Gutner SPECIES
-=======
+# Tuburcinia sternbergiae (Moesz) Gutner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Blepharisma vestitum Kahl, 1932 SPECIES
-=======
+# Blepharisma vestitum Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

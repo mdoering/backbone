@@ -1,5 +1,4 @@
-Candida blattariae S.O. Suh, N.H. Nguyen & M. Blackw., 2005 SPECIES
-=======
+# Candida blattariae S.O. Suh, N.H. Nguyen & M. Blackw., 2005 SPECIES
 
 #### Status
 ACCEPTED

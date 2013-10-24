@@ -1,14 +1,13 @@
-Buellia melanochlora (Kremp.) Müll. Arg. SPECIES
-=======
+# Cratiria melanochlora (Kremp.) Marbach SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Biblthca Lichenol. 74: 183 (2000)
 
 #### Original name
 Lecidea melanochlora Kremp.

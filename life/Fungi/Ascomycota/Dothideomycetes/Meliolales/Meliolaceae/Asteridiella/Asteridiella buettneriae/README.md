@@ -1,5 +1,4 @@
-Asteridiella buettneriae (F. Stevens) Hansf. SPECIES
-=======
+# Asteridiella buettneriae (F. Stevens) Hansf. SPECIES
 
 #### Status
 ACCEPTED

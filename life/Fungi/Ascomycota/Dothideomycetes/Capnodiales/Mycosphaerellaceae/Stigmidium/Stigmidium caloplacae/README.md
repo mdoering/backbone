@@ -1,5 +1,4 @@
-Stigmidium caloplacae Alstrup & Olech SPECIES
-=======
+# Stigmidium caloplacae Alstrup & Olech SPECIES
 
 #### Status
 ACCEPTED

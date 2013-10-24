@@ -1,5 +1,4 @@
-Pluricellaesporites minutigranulatus Hammen SPECIES
-=======
+# Pluricellaesporites minutigranulatus Hammen SPECIES
 
 #### Status
 ACCEPTED

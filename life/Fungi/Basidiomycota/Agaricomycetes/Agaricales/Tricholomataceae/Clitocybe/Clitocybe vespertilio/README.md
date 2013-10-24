@@ -1,5 +1,4 @@
-Clitocybe vespertilio Berk. SPECIES
-=======
+# Clitocybe vespertilio Berk. SPECIES
 
 #### Status
 ACCEPTED

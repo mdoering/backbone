@@ -1,5 +1,4 @@
-Lindra hawaiiensis Kohlm. & Volkm.-Kohlm., 1987 SPECIES
-=======
+# Lindra hawaiiensis Kohlm. & Volkm.-Kohlm., 1987 SPECIES
 
 #### Status
 ACCEPTED

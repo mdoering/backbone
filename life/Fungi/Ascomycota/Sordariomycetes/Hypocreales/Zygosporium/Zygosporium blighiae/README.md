@@ -1,5 +1,4 @@
-Zygosporium blighiae Gonz. Frag. & Cif. SPECIES
-=======
+# Zygosporium blighiae Gonz. Frag. & Cif. SPECIES
 
 #### Status
 ACCEPTED

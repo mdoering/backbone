@@ -1,8 +1,7 @@
-Parastylonychia pleuneouri Dragesco, 1963 SPECIES
-=======
+# Parastylonychia plouneouri Dragesco, 1963 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Deconica notha Britzelm. SPECIES
-=======
+# Deconica notha Britzelm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycomedusa guineensis R. Heim SPECIES
-=======
+# Mycomedusa guineensis R. Heim SPECIES
 
 #### Status
 ACCEPTED

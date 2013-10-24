@@ -1,5 +1,4 @@
-Metacineta Bütschli in Bronn, 1889 GENUS
-=======
+# Metacineta Bütschli in Bronn, 1889 GENUS
 
 #### Status
 ACCEPTED

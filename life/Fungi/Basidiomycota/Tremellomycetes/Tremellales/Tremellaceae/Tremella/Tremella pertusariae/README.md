@@ -1,5 +1,4 @@
-Tremella pertusariae Diederich, 1996 SPECIES
-=======
+# Tremella pertusariae Diederich, 1996 SPECIES
 
 #### Status
 ACCEPTED

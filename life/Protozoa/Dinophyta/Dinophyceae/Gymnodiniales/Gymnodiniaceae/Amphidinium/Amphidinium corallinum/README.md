@@ -1,5 +1,4 @@
-Amphidinium corallinum Conrad & Kufferath SPECIES
-=======
+# Amphidinium corallinum Conrad & Kufferath SPECIES
 
 #### Status
 ACCEPTED

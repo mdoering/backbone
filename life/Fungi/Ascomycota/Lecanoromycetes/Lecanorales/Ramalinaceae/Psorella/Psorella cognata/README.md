@@ -1,5 +1,4 @@
-Psorella cognata (Nyl.) Zahlbr. SPECIES
-=======
+# Psorella cognata (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerothallia foliacea (Elenkin) Follmann & A. Crespo SPECIES
-=======
+# Sphaerothallia foliacea (Elenkin) Follmann & A. Crespo SPECIES
 
 #### Status
 ACCEPTED

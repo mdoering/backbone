@@ -1,5 +1,4 @@
-Leptostroma phoenicis Oudem. & Fautrey SPECIES
-=======
+# Leptostroma phoenicis Oudem. & Fautrey SPECIES
 
 #### Status
 ACCEPTED

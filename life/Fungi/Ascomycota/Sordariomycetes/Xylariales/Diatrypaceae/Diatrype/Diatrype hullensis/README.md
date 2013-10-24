@@ -1,5 +1,4 @@
-Diatrype hullensis Ellis & Everh. SPECIES
-=======
+# Diatrype hullensis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

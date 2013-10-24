@@ -1,5 +1,4 @@
-Puccinia smilacis-sempervirentis Wang {?} SPECIES
-=======
+# Puccinia smilacis-sempervirentis Wang {?} SPECIES
 
 #### Status
 ACCEPTED

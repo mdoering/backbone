@@ -1,5 +1,4 @@
-Cytospora exigua Sacc. SPECIES
-=======
+# Cytospora exigua Sacc. SPECIES
 
 #### Status
 ACCEPTED

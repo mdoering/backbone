@@ -1,5 +1,4 @@
-Ustilago panici-gracilis E. Mackinnon SPECIES
-=======
+# Ustilago panici-gracilis E. Mackinnon SPECIES
 
 #### Status
 ACCEPTED

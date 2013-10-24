@@ -1,5 +1,4 @@
-Speiropsis pedatospora Tubaki, 1958 SPECIES
-=======
+# Speiropsis pedatospora Tubaki, 1958 SPECIES
 
 #### Status
 ACCEPTED

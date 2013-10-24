@@ -1,5 +1,4 @@
-Boletus romagnolii Maire SPECIES
-=======
+# Boletus romagnolii Maire SPECIES
 
 #### Status
 ACCEPTED

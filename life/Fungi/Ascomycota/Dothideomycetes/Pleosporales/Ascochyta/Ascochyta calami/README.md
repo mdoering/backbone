@@ -1,5 +1,4 @@
-Ascochyta calami (Bres.) Punith. SPECIES
-=======
+# Ascochyta calami (Bres.) Punith. SPECIES
 
 #### Status
 ACCEPTED

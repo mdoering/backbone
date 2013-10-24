@@ -1,5 +1,4 @@
-Xylographa difformis SPECIES
-=======
+# Xylographa difformis SPECIES
 
 #### Status
 ACCEPTED

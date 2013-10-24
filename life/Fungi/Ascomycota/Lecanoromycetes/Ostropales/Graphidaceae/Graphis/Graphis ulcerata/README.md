@@ -1,5 +1,4 @@
-Graphis ulcerata Vain. SPECIES
-=======
+# Graphis ulcerata Vain. SPECIES
 
 #### Status
 ACCEPTED

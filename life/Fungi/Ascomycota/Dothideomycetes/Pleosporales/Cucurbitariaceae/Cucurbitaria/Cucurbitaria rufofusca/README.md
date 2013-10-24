@@ -1,5 +1,4 @@
-Cucurbitaria rufofusca (Fr.) De Not. SPECIES
-=======
+# Cucurbitaria rufofusca (Fr.) De Not. SPECIES
 
 #### Status
 ACCEPTED

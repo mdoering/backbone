@@ -1,5 +1,4 @@
-Lachnocladium palmatifidum Henn. SPECIES
-=======
+# Lachnocladium palmatifidum Henn. SPECIES
 
 #### Status
 ACCEPTED

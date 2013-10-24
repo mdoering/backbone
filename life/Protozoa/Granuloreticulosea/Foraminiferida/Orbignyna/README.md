@@ -1,14 +1,13 @@
-Orbignyina Bronn in Bronn & Roemer, 1852 GENUS
-=======
+# Orbignyna Hagenow, 1842 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-in Bronn & Roemer, Lethaea, ed. 3, 2 (5), 84.
+N. Jahrb. f. Min. , 1842, 573.
 
 #### Original name
 null

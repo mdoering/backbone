@@ -1,5 +1,4 @@
-Cortinarius dysodes Soop, 2001 SPECIES
-=======
+# Cortinarius dysodes Soop, 2001 SPECIES
 
 #### Status
 ACCEPTED

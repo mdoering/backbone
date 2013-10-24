@@ -1,5 +1,4 @@
-Ophiosphaerella williamsii (Hansf.) J. Walker SPECIES
-=======
+# Ophiosphaerella williamsii (Hansf.) J. Walker SPECIES
 
 #### Status
 ACCEPTED

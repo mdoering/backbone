@@ -1,8 +1,7 @@
-Chiasmolithus parvus Barrier, 1977 SPECIES
-=======
+# Chiastoplacolithus parvus (Barrier, 1977) Perch-Nielsen, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

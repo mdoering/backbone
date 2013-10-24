@@ -1,5 +1,4 @@
-Actinomadura umbrina Galatenko et al., 1987 SPECIES
-=======
+# Actinomadura umbrina Galatenko et al., 1987 SPECIES
 
 #### Status
 ACCEPTED

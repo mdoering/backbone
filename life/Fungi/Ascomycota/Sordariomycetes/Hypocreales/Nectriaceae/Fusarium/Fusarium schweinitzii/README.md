@@ -1,5 +1,4 @@
-Fusarium schweinitzii Ellis & Harkn. SPECIES
-=======
+# Fusarium schweinitzii Ellis & Harkn. SPECIES
 
 #### Status
 ACCEPTED

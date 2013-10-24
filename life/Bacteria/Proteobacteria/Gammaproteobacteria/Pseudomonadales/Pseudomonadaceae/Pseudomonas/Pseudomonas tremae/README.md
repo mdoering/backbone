@@ -1,5 +1,4 @@
-Pseudomonas tremae Gardan et al., 1999 SPECIES
-=======
+# Pseudomonas tremae Gardan et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lobaria asperula (Stirt.) Yoshim. SPECIES
-=======
+# Lobaria asperula (Stirt.) Yoshim. SPECIES
 
 #### Status
 ACCEPTED

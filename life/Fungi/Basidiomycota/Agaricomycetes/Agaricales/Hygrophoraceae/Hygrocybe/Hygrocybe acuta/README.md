@@ -1,5 +1,4 @@
-Hygrocybe acuta F.H. Møller SPECIES
-=======
+# Hygrocybe acuta F.H. Møller SPECIES
 
 #### Status
 ACCEPTED

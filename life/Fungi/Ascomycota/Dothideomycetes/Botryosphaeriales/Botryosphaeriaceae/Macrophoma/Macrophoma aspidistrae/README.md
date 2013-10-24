@@ -1,5 +1,4 @@
-Macrophoma aspidistrae Y. Iwata SPECIES
-=======
+# Macrophoma aspidistrae Y. Iwata SPECIES
 
 #### Status
 ACCEPTED

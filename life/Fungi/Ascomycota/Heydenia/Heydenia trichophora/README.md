@@ -1,5 +1,4 @@
-Heydenia trichophora A.L. Sm. SPECIES
-=======
+# Heydenia trichophora A.L. Sm. SPECIES
 
 #### Status
 ACCEPTED

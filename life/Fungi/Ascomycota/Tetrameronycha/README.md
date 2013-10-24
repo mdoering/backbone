@@ -1,5 +1,4 @@
-Tetrameronycha Speg. ex W. Rossi & M. Blackw. GENUS
-=======
+# Tetrameronycha Speg. ex W. Rossi & M. Blackw. GENUS
 
 #### Status
 ACCEPTED

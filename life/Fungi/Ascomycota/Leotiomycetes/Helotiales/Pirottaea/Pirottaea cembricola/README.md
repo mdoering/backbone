@@ -1,5 +1,4 @@
-Pirottaea cembricola Rehm SPECIES
-=======
+# Pirottaea cembricola Rehm SPECIES
 
 #### Status
 ACCEPTED

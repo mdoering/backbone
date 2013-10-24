@@ -1,5 +1,4 @@
-Capnodium eugeniarum Cooke SPECIES
-=======
+# Capnodium eugeniarum Cooke SPECIES
 
 #### Status
 ACCEPTED

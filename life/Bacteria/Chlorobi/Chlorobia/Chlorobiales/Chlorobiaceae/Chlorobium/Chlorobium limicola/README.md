@@ -1,5 +1,4 @@
-Chlorobium limicola Nadson, 1906 (Approved Lists, 1980) SPECIES
-=======
+# Chlorobium limicola Nadson, 1906 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

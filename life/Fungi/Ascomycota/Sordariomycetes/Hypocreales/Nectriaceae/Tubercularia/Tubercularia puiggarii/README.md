@@ -1,5 +1,4 @@
-Tubercularia puiggarii Speg. SPECIES
-=======
+# Tubercularia puiggarii Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Baltisphaeridium difformum Sheshegova, 1975 SPECIES
-=======
+# Baltisphaeridium difformum Sheshegova, 1975 SPECIES
 
 #### Status
 ACCEPTED

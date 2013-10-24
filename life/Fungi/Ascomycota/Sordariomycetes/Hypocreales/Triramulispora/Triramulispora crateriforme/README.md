@@ -1,5 +1,4 @@
-Triramulispora crateriforme (van Beyma) Matsushima SPECIES
-=======
+# Triramulispora crateriforme (van Beyma) Matsushima SPECIES
 
 #### Status
 ACCEPTED

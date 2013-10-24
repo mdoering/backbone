@@ -1,5 +1,4 @@
-Verrucaria scruposa (Schreb.) Hoffm. SPECIES
-=======
+# Verrucaria scruposa (Schreb.) Hoffm. SPECIES
 
 #### Status
 ACCEPTED

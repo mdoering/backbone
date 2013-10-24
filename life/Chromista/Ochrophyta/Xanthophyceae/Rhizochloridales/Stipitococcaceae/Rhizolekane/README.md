@@ -1,5 +1,4 @@
-Rhizolekane Pascher, 1932 GENUS
-=======
+# Rhizolekane Pascher, 1932 GENUS
 
 #### Status
 ACCEPTED

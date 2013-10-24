@@ -1,5 +1,4 @@
-Ascospora lepidii Nasyrov SPECIES
-=======
+# Ascospora lepidii Nasyrov SPECIES
 
 #### Status
 ACCEPTED

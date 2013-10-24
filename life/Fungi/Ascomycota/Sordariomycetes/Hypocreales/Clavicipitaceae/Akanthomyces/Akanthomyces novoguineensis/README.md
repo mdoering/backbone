@@ -1,5 +1,4 @@
-Akanthomyces novoguineensis Samson & B.L. Brady, 1982 SPECIES
-=======
+# Akanthomyces novoguineensis Samson & B.L. Brady, 1982 SPECIES
 
 #### Status
 ACCEPTED

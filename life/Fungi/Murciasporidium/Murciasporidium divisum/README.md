@@ -1,5 +1,4 @@
-Murciasporidium divisum G. Thor SPECIES
-=======
+# Murciasporidium divisum G. Thor SPECIES
 
 #### Status
 ACCEPTED

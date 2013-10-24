@@ -1,5 +1,4 @@
-Phaeocollybia cidaris (Fr.) Romagn. SPECIES
-=======
+# Phaeocollybia cidaris (Fr.) Romagn. SPECIES
 
 #### Status
 ACCEPTED

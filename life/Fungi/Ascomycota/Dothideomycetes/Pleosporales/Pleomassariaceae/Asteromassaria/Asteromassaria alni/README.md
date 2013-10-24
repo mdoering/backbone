@@ -1,5 +1,4 @@
-Asteromassaria alni M.E. Barr SPECIES
-=======
+# Asteromassaria alni M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

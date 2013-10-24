@@ -1,5 +1,4 @@
-Patellaria dicksonii (J.F. Gmel.) DC. SPECIES
-=======
+# Patellaria dicksonii (J.F. Gmel.) DC. SPECIES
 
 #### Status
 ACCEPTED

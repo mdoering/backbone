@@ -1,5 +1,4 @@
-Puccinia durangensis Cummins SPECIES
-=======
+# Puccinia durangensis Cummins SPECIES
 
 #### Status
 ACCEPTED

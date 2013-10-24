@@ -1,5 +1,4 @@
-Ovulinia F.A. Weiss, 1940 GENUS
-=======
+# Ovulinia F.A. Weiss, 1940 GENUS
 
 #### Status
 ACCEPTED

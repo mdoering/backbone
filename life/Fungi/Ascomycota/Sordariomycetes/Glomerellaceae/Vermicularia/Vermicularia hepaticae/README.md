@@ -1,5 +1,4 @@
-Vermicularia hepaticae Peck SPECIES
-=======
+# Vermicularia hepaticae Peck SPECIES
 
 #### Status
 ACCEPTED

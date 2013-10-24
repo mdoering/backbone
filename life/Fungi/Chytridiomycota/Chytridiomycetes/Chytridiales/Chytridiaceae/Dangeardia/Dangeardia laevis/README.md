@@ -1,5 +1,4 @@
-Dangeardia laevis Sparrow SPECIES
-=======
+# Dangeardia laevis Sparrow SPECIES
 
 #### Status
 ACCEPTED

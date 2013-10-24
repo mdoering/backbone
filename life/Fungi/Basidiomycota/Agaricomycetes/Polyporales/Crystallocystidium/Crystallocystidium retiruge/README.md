@@ -1,5 +1,4 @@
-Crystallocystidium retiruge (Cooke) Rick SPECIES
-=======
+# Crystallocystidium retiruge (Cooke) Rick SPECIES
 
 #### Status
 ACCEPTED

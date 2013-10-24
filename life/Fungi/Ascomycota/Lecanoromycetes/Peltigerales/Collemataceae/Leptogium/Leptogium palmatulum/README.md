@@ -1,5 +1,4 @@
-Leptogium palmatulum Nyl. SPECIES
-=======
+# Leptogium palmatulum Nyl. SPECIES
 
 #### Status
 ACCEPTED

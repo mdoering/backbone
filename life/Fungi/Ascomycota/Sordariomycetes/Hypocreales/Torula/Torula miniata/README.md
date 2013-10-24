@@ -1,5 +1,4 @@
-Torula miniata Okun. SPECIES
-=======
+# Torula miniata Okun. SPECIES
 
 #### Status
 ACCEPTED

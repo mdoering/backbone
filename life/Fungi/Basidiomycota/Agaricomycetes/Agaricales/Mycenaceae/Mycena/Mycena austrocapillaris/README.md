@@ -1,5 +1,4 @@
-Mycena austrocapillaris Singer SPECIES
-=======
+# Mycena austrocapillaris Singer SPECIES
 
 #### Status
 ACCEPTED

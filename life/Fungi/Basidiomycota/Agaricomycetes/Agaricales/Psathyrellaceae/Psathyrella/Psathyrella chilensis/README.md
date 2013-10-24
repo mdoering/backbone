@@ -1,5 +1,4 @@
-Psathyrella chilensis Speg. SPECIES
-=======
+# Psathyrella chilensis Speg. SPECIES
 
 #### Status
 ACCEPTED

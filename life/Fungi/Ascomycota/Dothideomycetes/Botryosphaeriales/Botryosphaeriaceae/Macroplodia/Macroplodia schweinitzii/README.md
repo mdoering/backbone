@@ -1,5 +1,4 @@
-Macroplodia schweinitzii (Ellis & Everh.) Kuntze SPECIES
-=======
+# Macroplodia schweinitzii (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

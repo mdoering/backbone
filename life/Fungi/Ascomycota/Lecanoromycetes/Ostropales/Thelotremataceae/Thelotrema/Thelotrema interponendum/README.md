@@ -1,5 +1,4 @@
-Thelotrema interponendum Nyl. SPECIES
-=======
+# Thelotrema interponendum Nyl. SPECIES
 
 #### Status
 ACCEPTED

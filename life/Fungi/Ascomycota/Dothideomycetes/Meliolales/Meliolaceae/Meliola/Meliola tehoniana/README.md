@@ -1,5 +1,4 @@
-Meliola tehoniana Trotter SPECIES
-=======
+# Meliola tehoniana Trotter SPECIES
 
 #### Status
 ACCEPTED

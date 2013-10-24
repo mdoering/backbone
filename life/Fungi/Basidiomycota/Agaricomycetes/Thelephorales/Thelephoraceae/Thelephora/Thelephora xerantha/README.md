@@ -1,5 +1,4 @@
-Thelephora xerantha Berk. & M.A. Curtis SPECIES
-=======
+# Thelephora xerantha Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

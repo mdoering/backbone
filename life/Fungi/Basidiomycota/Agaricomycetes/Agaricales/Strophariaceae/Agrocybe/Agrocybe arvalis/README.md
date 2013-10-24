@@ -1,17 +1,16 @@
-Galera arvalis var. tuberigena Quél., 1889 VARIETY
-=======
+# Agrocybe arvalis (Fr.) Singer, 1936 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Compt. Rend. Assoc. Franç. Avancem. Sci. 17: tab. 15, fig. 10 (1889)
+Beih. bot. Zbl. 56: 167 (1936)
 
 #### Original name
-Galera arvalis var. tuberigena Quél., 1889
+Agaricus arvalis Fr., 1821
 
 ### Remarks
 null

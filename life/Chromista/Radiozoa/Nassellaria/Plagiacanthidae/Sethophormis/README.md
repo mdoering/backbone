@@ -1,5 +1,4 @@
-Sethophormis Haeckel, 1887 GENUS
-=======
+# Sethophormis Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

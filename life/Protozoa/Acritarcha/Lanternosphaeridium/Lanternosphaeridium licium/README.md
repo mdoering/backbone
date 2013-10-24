@@ -1,5 +1,4 @@
-Lanternosphaeridium licium K.P. Jain, S.C.D. Sah & R.Y. Singh SPECIES
-=======
+# Lanternosphaeridium licium K.P. Jain, S.C.D. Sah & R.Y. Singh SPECIES
 
 #### Status
 ACCEPTED

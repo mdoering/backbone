@@ -1,14 +1,13 @@
-Polyporus unguliformis (Murrill) Sacc. & Trotter, 1912 SPECIES
-=======
+# Trametes unguliformis (Murrill) Ryvarden, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 21: 277 (1912)
+Mycotaxon 23: 196 (1985)
 
 #### Original name
 Tyromyces unguliformis Murrill, 1908

@@ -1,5 +1,4 @@
-Rickia corylophidorum A. Weir SPECIES
-=======
+# Rickia corylophidorum A. Weir SPECIES
 
 #### Status
 ACCEPTED

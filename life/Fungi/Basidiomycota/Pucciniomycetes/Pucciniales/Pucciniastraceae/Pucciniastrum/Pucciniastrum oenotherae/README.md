@@ -1,5 +1,4 @@
-Pucciniastrum oenotherae Gaillard SPECIES
-=======
+# Pucciniastrum oenotherae Gaillard SPECIES
 
 #### Status
 ACCEPTED

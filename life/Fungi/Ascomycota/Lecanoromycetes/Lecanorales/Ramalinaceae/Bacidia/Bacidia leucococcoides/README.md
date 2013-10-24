@@ -1,5 +1,4 @@
-Bacidia leucococcoides (Nyl.) Arnold SPECIES
-=======
+# Bacidia leucococcoides (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

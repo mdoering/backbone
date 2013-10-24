@@ -1,5 +1,4 @@
-Catinaria Vain. GENUS
-=======
+# Catinaria Vain. GENUS
 
 #### Status
 ACCEPTED

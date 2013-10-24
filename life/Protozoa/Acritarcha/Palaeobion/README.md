@@ -1,5 +1,4 @@
-Palaeobion O. Wetzel, 1961 GENUS
-=======
+# Palaeobion O. Wetzel, 1961 GENUS
 
 #### Status
 ACCEPTED

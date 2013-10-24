@@ -1,5 +1,4 @@
-Phyllachora pittospori Henn., 1893 SPECIES
-=======
+# Phyllachora pittospori Henn., 1893 SPECIES
 
 #### Status
 DOUBTFUL

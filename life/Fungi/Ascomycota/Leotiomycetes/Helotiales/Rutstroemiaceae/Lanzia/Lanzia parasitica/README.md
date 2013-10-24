@@ -1,5 +1,4 @@
-Lanzia parasitica Dumont SPECIES
-=======
+# Lanzia parasitica Dumont SPECIES
 
 #### Status
 ACCEPTED

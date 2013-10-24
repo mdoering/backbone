@@ -1,5 +1,4 @@
-Meliola depressula Syd. & P. Syd. SPECIES
-=======
+# Meliola depressula Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

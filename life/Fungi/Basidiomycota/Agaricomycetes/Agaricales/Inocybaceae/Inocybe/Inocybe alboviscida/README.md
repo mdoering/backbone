@@ -1,5 +1,4 @@
-Inocybe alboviscida (E. Horak) Garrido SPECIES
-=======
+# Inocybe alboviscida (E. Horak) Garrido SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea trachytica Müll. Arg. SPECIES
-=======
+# Lecidea trachytica Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

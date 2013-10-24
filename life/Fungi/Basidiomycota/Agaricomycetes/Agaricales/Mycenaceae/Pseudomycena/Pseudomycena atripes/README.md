@@ -1,5 +1,4 @@
-Pseudomycena atripes Velen. SPECIES
-=======
+# Pseudomycena atripes Velen. SPECIES
 
 #### Status
 ACCEPTED

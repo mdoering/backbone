@@ -1,5 +1,4 @@
-Metasphaeria nephromiaria (Linds.) Sacc. & Trotter SPECIES
-=======
+# Metasphaeria nephromiaria (Linds.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

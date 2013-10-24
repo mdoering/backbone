@@ -1,5 +1,4 @@
-Pyrenophora pellatii Ranoj. SPECIES
-=======
+# Pyrenophora pellatii Ranoj. SPECIES
 
 #### Status
 ACCEPTED

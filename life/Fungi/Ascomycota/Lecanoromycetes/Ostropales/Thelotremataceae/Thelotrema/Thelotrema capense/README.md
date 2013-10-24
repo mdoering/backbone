@@ -1,5 +1,4 @@
-Thelotrema capense Zahlbr. SPECIES
-=======
+# Thelotrema capense Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

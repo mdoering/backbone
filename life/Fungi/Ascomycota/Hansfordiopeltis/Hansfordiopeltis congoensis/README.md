@@ -1,5 +1,4 @@
-Hansfordiopeltis congoensis Bat. & C.A.A. Costa, 1956 SPECIES
-=======
+# Hansfordiopeltis congoensis Bat. & C.A.A. Costa, 1956 SPECIES
 
 #### Status
 ACCEPTED

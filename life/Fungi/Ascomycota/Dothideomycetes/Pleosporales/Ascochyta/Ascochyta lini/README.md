@@ -1,5 +1,4 @@
-Ascochyta lini Rostr. SPECIES
-=======
+# Ascochyta lini Rostr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dimerosporium caerulescens Rehm SPECIES
-=======
+# Dimerosporium caerulescens Rehm SPECIES
 
 #### Status
 ACCEPTED

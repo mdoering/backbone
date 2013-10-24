@@ -1,5 +1,4 @@
-Peronospora medicaginis-minimae Gapon. SPECIES
-=======
+# Peronospora medicaginis-minimae Gapon. SPECIES
 
 #### Status
 ACCEPTED

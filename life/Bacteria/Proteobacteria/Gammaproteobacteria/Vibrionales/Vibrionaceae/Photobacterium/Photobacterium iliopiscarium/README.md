@@ -1,8 +1,7 @@
-Vibrio iliopiscarius Onarheim et al., 1995 SPECIES
-=======
+# Photobacterium iliopiscarium (Onarheim et al., 1995) Urakawa et al., 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

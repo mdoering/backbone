@@ -1,5 +1,4 @@
-Staurothele meylanii f. meylanii FORM
-=======
+# Staurothele meylanii B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Staurothele meylanii f. meylanii
+Staurothele meylanii B. de Lesd.
 
 ### Remarks
 null

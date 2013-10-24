@@ -1,5 +1,4 @@
-Pseudocercospora solani-melongenicola Goh & W.H. Hsieh SPECIES
-=======
+# Pseudocercospora solani-melongenicola Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

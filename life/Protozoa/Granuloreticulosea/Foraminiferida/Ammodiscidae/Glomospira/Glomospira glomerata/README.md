@@ -1,5 +1,4 @@
-Glomospira glomerata SPECIES
-=======
+# Glomospira glomerata SPECIES
 
 #### Status
 ACCEPTED

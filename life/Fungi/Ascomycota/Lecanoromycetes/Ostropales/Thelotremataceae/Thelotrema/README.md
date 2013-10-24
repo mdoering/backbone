@@ -1,17 +1,16 @@
-Tremotyliomyces Cif. & Tomas. GENUS
-=======
+# Thelotrema Acharius, 1803 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Atti Ist. bot. Univ. Lab. crittog. Pavia, Sér. 5 10(1): 77 (1953)
+null
 
 #### Original name
-Tremotyliomyces Cif. & Tomas.
+null
 
 ### Remarks
 null

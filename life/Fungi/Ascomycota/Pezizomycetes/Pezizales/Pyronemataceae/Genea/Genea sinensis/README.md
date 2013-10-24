@@ -1,5 +1,4 @@
-Genea sinensis B.C. Zhang SPECIES
-=======
+# Genea sinensis B.C. Zhang SPECIES
 
 #### Status
 ACCEPTED

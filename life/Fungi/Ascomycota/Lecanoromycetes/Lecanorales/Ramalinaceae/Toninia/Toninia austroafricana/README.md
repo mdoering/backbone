@@ -1,5 +1,4 @@
-Toninia austroafricana Timdal SPECIES
-=======
+# Toninia austroafricana Timdal SPECIES
 
 #### Status
 ACCEPTED

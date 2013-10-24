@@ -1,5 +1,4 @@
-Lecidea savonensis B. de Lesd. SPECIES
-=======
+# Lecidea savonensis B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

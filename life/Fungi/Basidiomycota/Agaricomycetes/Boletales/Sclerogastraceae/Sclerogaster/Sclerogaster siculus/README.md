@@ -1,5 +1,4 @@
-Sclerogaster siculus Zeller & C.W. Dodge, 1935 SPECIES
-=======
+# Sclerogaster siculus Zeller & C.W. Dodge, 1935 SPECIES
 
 #### Status
 ACCEPTED

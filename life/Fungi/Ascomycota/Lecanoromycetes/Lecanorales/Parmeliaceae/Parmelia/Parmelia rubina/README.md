@@ -1,5 +1,4 @@
-Parmelia rubina (Vill.) Schaer. SPECIES
-=======
+# Parmelia rubina (Vill.) Schaer. SPECIES
 
 #### Status
 ACCEPTED

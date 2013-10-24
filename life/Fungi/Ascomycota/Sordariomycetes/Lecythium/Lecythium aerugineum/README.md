@@ -1,5 +1,4 @@
-Lecythium aerugineum Zukal, 1893 SPECIES
-=======
+# Lecythium aerugineum Zukal, 1893 SPECIES
 
 #### Status
 ACCEPTED

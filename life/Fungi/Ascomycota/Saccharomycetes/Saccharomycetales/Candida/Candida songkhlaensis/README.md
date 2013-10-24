@@ -1,5 +1,4 @@
-Candida songkhlaensis Imanishi, Jindam., Mikata, Nagak., Potach., Tantich. & Nakase SPECIES
-=======
+# Candida songkhlaensis Imanishi, Jindam., Mikata, Nagak., Potach., Tantich. & Nakase SPECIES
 
 #### Status
 ACCEPTED

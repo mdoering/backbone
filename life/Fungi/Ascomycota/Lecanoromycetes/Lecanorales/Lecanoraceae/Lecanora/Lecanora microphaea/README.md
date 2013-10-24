@@ -1,5 +1,4 @@
-Lecanora microphaea Zahlbr. SPECIES
-=======
+# Lecanora microphaea Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rinodina citrinisidiata Aptroot & Wolseley SPECIES
-=======
+# Rinodina citrinisidiata Aptroot & Wolseley SPECIES
 
 #### Status
 ACCEPTED

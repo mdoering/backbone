@@ -1,5 +1,4 @@
-Lecanora fumosula Müll. Arg. SPECIES
-=======
+# Lecanora fumosula Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

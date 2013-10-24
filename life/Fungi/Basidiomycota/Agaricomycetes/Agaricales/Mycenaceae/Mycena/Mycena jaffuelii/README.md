@@ -1,5 +1,4 @@
-Mycena jaffuelii Speg. SPECIES
-=======
+# Mycena jaffuelii Speg. SPECIES
 
 #### Status
 ACCEPTED

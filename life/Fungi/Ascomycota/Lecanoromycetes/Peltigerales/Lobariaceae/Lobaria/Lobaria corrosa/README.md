@@ -1,5 +1,4 @@
-Lobaria corrosa (Ach.) Vain. SPECIES
-=======
+# Lobaria corrosa (Ach.) Vain. SPECIES
 
 #### Status
 ACCEPTED

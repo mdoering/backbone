@@ -1,5 +1,4 @@
-Cercospora puyana Syd. SPECIES
-=======
+# Cercospora puyana Syd. SPECIES
 
 #### Status
 ACCEPTED

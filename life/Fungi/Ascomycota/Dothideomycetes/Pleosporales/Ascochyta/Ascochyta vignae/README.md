@@ -1,5 +1,4 @@
-Ascochyta vignae M.I. Nikol. SPECIES
-=======
+# Ascochyta vignae M.I. Nikol. SPECIES
 
 #### Status
 ACCEPTED

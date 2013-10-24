@@ -1,5 +1,4 @@
-Calothyrium pustulatum (Ellis & G. Martin) Theiss. SPECIES
-=======
+# Calothyrium pustulatum (Ellis & G. Martin) Theiss. SPECIES
 
 #### Status
 ACCEPTED

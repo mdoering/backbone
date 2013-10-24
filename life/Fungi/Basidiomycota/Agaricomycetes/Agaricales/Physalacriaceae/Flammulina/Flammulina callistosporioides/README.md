@@ -1,5 +1,4 @@
-Flammulina callistosporioides var. callistosporioides VARIETY
-=======
+# Flammulina callistosporioides (Singer) Singer SPECIES
 
 #### Status
 ACCEPTED

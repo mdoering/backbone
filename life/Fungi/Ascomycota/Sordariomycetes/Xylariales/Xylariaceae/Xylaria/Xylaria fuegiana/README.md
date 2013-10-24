@@ -1,5 +1,4 @@
-Xylaria fuegiana Speg. SPECIES
-=======
+# Xylaria fuegiana Speg. SPECIES
 
 #### Status
 ACCEPTED

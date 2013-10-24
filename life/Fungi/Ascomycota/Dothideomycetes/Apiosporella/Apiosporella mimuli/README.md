@@ -1,5 +1,4 @@
-Apiosporella mimuli Wehm. SPECIES
-=======
+# Apiosporella mimuli Wehm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudoamphisiella elongata Li, Song, Al-Rasheid, Warren, Li, Xu & Shao, 2008 SPECIES
-=======
+# Pseudoamphisiella elongata Li, Song, Al-Rasheid, Warren, Li, Xu & Shao, 2008 SPECIES
 
 #### Status
 ACCEPTED

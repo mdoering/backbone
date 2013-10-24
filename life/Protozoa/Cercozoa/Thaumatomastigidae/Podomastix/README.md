@@ -1,5 +1,4 @@
-Podomastix Massart, 1920 GENUS
-=======
+# Podomastix Massart, 1920 GENUS
 
 #### Status
 ACCEPTED

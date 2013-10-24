@@ -1,5 +1,4 @@
-Hoegklintia birminghamense (Cramer, 1970 ex Eisenack et al., 1973) Le Hérissé, 1989 SPECIES
-=======
+# Hoegklintia birminghamense (Cramer, 1970 ex Eisenack et al., 1973) Le Hérissé, 1989 SPECIES
 
 #### Status
 ACCEPTED

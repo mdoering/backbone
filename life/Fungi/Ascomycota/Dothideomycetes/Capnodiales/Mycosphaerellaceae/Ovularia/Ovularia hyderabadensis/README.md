@@ -1,17 +1,16 @@
-Ovularia hyderabadense M.A. Salam & P.N. Rao SPECIES
-=======
+# Ovularia hyderabadensis M.A. Salam & P.N. Rao SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Indian bot. Soc. 36: 426 (1957)
 
 #### Original name
-Ovularia hyderabadense M.A. Salam & P.N. Rao
+Ovularia hyderabadensis M.A. Salam & P.N. Rao
 
 ### Remarks
 null

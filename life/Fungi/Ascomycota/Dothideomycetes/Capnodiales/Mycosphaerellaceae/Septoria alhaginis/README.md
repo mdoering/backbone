@@ -1,5 +1,4 @@
-Septoria alhaginis Szemb. SPECIES
-=======
+# Septoria alhaginis Szemb. SPECIES
 
 #### Status
 ACCEPTED

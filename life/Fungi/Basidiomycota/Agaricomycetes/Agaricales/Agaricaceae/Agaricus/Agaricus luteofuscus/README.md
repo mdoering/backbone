@@ -1,5 +1,4 @@
-Agaricus luteofuscus With. SPECIES
-=======
+# Agaricus luteofuscus With. SPECIES
 
 #### Status
 ACCEPTED

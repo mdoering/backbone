@@ -1,5 +1,4 @@
-Collema descissum (Ach.) Ach. SPECIES
-=======
+# Collema descissum (Ach.) Ach. SPECIES
 
 #### Status
 ACCEPTED

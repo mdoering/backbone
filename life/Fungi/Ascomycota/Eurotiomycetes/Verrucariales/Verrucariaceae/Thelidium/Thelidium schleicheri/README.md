@@ -1,5 +1,4 @@
-Thelidium schleicheri (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Thelidium schleicheri (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

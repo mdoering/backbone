@@ -1,5 +1,4 @@
-Dermatea lobata Ellis SPECIES
-=======
+# Dermatea lobata Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizopus niger (Ciagl. & Hewelke) Barthelat SPECIES
-=======
+# Rhizopus niger (Ciagl. & Hewelke) Barthelat SPECIES
 
 #### Status
 ACCEPTED

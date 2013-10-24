@@ -1,5 +1,4 @@
-Opegrapha subcervina Zahlbr. SPECIES
-=======
+# Opegrapha subcervina Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

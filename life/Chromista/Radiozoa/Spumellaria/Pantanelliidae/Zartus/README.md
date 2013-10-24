@@ -1,5 +1,4 @@
-Zartus Pessagno & Blome, 1980 GENUS
-=======
+# Zartus Pessagno & Blome, 1980 GENUS
 
 #### Status
 ACCEPTED

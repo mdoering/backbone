@@ -1,5 +1,4 @@
-Diplocladium majus Bonord. SPECIES
-=======
+# Diplocladium majus Bonord. SPECIES
 
 #### Status
 ACCEPTED

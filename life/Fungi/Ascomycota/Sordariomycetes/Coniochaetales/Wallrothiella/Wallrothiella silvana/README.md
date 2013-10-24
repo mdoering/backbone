@@ -1,5 +1,4 @@
-Wallrothiella silvana Sacc. & Cavara SPECIES
-=======
+# Wallrothiella silvana Sacc. & Cavara SPECIES
 
 #### Status
 ACCEPTED

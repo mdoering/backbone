@@ -1,5 +1,4 @@
-Cercosporella nivea Ellis & Barthol. SPECIES
-=======
+# Cercosporella nivea Ellis & Barthol. SPECIES
 
 #### Status
 ACCEPTED

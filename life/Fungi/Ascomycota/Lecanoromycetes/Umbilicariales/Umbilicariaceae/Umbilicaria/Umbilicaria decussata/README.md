@@ -1,17 +1,16 @@
-Omphalodiscus decussatus var. decussatus VARIETY
-=======
+# Umbilicaria decussata (Vill.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Cat. Lich. Univers. 8: 490 (1942)
 
 #### Original name
-Omphalodiscus decussatus var. decussatus
+Lichen decussatus Vill.
 
 ### Remarks
 null

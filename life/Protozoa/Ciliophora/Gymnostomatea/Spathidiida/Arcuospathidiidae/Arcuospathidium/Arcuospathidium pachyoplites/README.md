@@ -1,5 +1,4 @@
-Arcuospathidium pachyoplites Foissner, 2003 SPECIES
-=======
+# Arcuospathidium pachyoplites Foissner, 2003 SPECIES
 
 #### Status
 ACCEPTED

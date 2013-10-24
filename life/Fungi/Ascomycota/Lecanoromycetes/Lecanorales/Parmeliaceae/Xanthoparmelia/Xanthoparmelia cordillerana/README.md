@@ -1,14 +1,13 @@
-Parmelia cordillerana Gyeln. SPECIES
-=======
+# Xanthoparmelia cordillerana (Gyeln.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 36: 276 (1938)
+Phytologia 28: 487 (1974)
 
 #### Original name
 Parmelia cordillerana Gyeln.

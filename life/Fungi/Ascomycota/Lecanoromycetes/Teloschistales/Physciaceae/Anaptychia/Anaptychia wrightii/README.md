@@ -1,5 +1,4 @@
-Anaptychia wrightii (Tuck.) Nyl. SPECIES
-=======
+# Anaptychia wrightii (Tuck.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

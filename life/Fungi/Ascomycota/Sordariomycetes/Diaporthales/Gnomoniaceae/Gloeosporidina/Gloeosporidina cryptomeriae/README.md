@@ -1,5 +1,4 @@
-Gloeosporidina cryptomeriae Kubono SPECIES
-=======
+# Gloeosporidina cryptomeriae Kubono SPECIES
 
 #### Status
 ACCEPTED

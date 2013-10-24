@@ -1,5 +1,4 @@
-Septoria ephedrae Sacc. SPECIES
-=======
+# Septoria ephedrae Sacc. SPECIES
 
 #### Status
 ACCEPTED

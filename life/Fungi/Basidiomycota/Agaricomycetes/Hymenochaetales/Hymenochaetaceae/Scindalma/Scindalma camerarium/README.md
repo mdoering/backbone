@@ -1,5 +1,4 @@
-Scindalma camerarium (Berk.) Kuntze SPECIES
-=======
+# Scindalma camerarium (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

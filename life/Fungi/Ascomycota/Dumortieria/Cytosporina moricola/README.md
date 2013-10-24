@@ -1,5 +1,4 @@
-Cytosporina moricola Petr. SPECIES
-=======
+# Cytosporina moricola Petr. SPECIES
 
 #### Status
 ACCEPTED

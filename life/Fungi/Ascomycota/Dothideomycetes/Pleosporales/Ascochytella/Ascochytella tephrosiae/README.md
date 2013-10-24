@@ -1,5 +1,4 @@
-Ascochytella tephrosiae S. Ahmad SPECIES
-=======
+# Ascochytella tephrosiae S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

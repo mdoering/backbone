@@ -1,5 +1,4 @@
-Lichen dendriticus Hoffm. SPECIES
-=======
+# Lichen dendriticus Hoffm. SPECIES
 
 #### Status
 ACCEPTED

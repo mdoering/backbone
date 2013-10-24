@@ -1,5 +1,4 @@
-Drechmeria harposporioides (G.L. Barron & Szijarto) W. Gams & H.-B. Jansson, 1985 SPECIES
-=======
+# Drechmeria harposporioides (G.L. Barron & Szijarto) W. Gams & H.-B. Jansson, 1985 SPECIES
 
 #### Status
 ACCEPTED

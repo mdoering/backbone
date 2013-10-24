@@ -1,17 +1,16 @@
-Cephalotrichum leucocephalum Wallr., 1833 SPECIES
-=======
+# Cephalotrichum purpureofuscum (Schwein.) S. Hughes, 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fl. crypt. Germ. (Nürnberg) 2: 330 (1833)
+Can. J. Bot. 36: 744 (1958)
 
 #### Original name
-Cephalotrichum leucocephalum Wallr., 1833
+null
 
 ### Remarks
 null

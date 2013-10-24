@@ -1,5 +1,4 @@
-Uncinula ljubarskii Golovin SPECIES
-=======
+# Uncinula ljubarskii Golovin SPECIES
 
 #### Status
 ACCEPTED

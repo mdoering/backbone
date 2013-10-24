@@ -1,5 +1,4 @@
-Lecidea tenebrosula Müll. Arg. SPECIES
-=======
+# Lecidea tenebrosula Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

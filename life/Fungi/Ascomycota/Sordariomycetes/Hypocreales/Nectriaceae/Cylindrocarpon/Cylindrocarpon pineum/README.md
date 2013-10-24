@@ -1,5 +1,4 @@
-Cylindrocarpon pineum C. Booth SPECIES
-=======
+# Cylindrocarpon pineum C. Booth SPECIES
 
 #### Status
 ACCEPTED

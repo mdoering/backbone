@@ -1,5 +1,4 @@
-Hyalotia camelliae (Pass.) Guba SPECIES
-=======
+# Hyalotia camelliae (Pass.) Guba SPECIES
 
 #### Status
 ACCEPTED

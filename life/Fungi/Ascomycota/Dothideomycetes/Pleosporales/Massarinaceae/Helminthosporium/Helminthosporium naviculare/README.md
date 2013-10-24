@@ -1,5 +1,4 @@
-Helminthosporium naviculare Syd. & P. Syd. SPECIES
-=======
+# Helminthosporium naviculare Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

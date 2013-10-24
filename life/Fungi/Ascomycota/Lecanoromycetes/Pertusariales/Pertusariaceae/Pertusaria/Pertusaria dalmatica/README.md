@@ -1,5 +1,4 @@
-Pertusaria dalmatica var. dalmatica VARIETY
-=======
+# Pertusaria dalmatica Erichsen SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pertusaria dalmatica var. dalmatica
+Pertusaria dalmatica Erichsen
 
 ### Remarks
 null

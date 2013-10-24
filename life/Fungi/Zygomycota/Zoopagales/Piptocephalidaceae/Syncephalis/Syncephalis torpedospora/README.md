@@ -1,5 +1,4 @@
-Syncephalis torpedospora Gruhn, 1991 SPECIES
-=======
+# Syncephalis torpedospora Gruhn, 1991 SPECIES
 
 #### Status
 ACCEPTED

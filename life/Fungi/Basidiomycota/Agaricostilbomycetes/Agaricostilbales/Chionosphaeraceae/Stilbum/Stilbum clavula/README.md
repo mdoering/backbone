@@ -1,5 +1,4 @@
-Stilbum clavula Berk. & Broome SPECIES
-=======
+# Stilbum clavula Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

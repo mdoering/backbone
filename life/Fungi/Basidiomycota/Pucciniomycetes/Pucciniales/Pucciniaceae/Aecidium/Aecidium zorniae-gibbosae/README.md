@@ -1,5 +1,4 @@
-Aecidium zorniae-gibbosae P.B. Chavan SPECIES
-=======
+# Aecidium zorniae-gibbosae P.B. Chavan SPECIES
 
 #### Status
 ACCEPTED

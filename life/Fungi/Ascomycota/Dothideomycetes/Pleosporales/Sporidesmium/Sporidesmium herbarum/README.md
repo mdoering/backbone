@@ -1,5 +1,4 @@
-Sporidesmium herbarum Cooke SPECIES
-=======
+# Sporidesmium herbarum Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lichenopeltella coppinsii Earl.-Benn. & D. Hawksw., 1999 SPECIES
-=======
+# Lichenopeltella coppinsii Earl.-Benn. & D. Hawksw., 1999 SPECIES
 
 #### Status
 ACCEPTED

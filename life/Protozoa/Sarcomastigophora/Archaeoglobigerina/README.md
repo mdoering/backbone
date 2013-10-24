@@ -1,5 +1,4 @@
-Archaeoglobigerina Pessagno, 1967 GENUS
-=======
+# Archaeoglobigerina Pessagno, 1967 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vorticella extinctoria Dumas, 1929 SPECIES
-=======
+# Vorticella extinctoria Dumas, 1929 SPECIES
 
 #### Status
 ACCEPTED

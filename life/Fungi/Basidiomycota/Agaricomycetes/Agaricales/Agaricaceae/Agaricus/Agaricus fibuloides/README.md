@@ -1,5 +1,4 @@
-Agaricus fibuloides Peck SPECIES
-=======
+# Agaricus fibuloides Peck SPECIES
 
 #### Status
 ACCEPTED

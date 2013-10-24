@@ -1,5 +1,4 @@
-Biatora circumalbicans (Nyl.) Printzen SPECIES
-=======
+# Biatora circumalbicans (Nyl.) Printzen SPECIES
 
 #### Status
 ACCEPTED

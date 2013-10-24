@@ -1,5 +1,4 @@
-Magnaporthe R.A. Krause & R.K. Webster GENUS
-=======
+# Magnaporthe R.A. Krause & R.K. Webster GENUS
 
 #### Status
 ACCEPTED

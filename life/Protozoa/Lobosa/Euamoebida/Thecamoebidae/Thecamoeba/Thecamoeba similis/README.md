@@ -1,5 +1,4 @@
-Thecamoeba similis (Greeff) Lepsi SPECIES
-=======
+# Thecamoeba similis (Greeff) Lepsi SPECIES
 
 #### Status
 ACCEPTED

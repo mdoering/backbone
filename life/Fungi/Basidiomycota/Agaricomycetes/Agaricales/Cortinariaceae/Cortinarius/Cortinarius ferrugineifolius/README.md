@@ -1,5 +1,4 @@
-Cortinarius ferrugineifolius M.M. Moser SPECIES
-=======
+# Cortinarius ferrugineifolius M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

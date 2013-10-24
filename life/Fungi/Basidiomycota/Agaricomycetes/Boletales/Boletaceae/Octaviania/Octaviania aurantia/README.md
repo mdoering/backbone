@@ -1,5 +1,4 @@
-Octaviania aurantia (Soehner) Svrcek SPECIES
-=======
+# Octaviania aurantia (Soehner) Svrcek SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Baltisphaeridium brevituberculata Kjellström, 1971 SPECIES
-=======
+# Baltisphaeridium brevituberculata Kjellström, 1971 SPECIES
 
 #### Status
 ACCEPTED

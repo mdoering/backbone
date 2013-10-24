@@ -1,5 +1,4 @@
-Rhabdomonas uralica Pochmann SPECIES
-=======
+# Rhabdomonas uralica Pochmann SPECIES
 
 #### Status
 ACCEPTED

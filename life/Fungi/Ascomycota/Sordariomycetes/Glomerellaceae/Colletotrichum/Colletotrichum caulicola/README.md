@@ -1,5 +1,4 @@
-Colletotrichum caulicola Heald & F.A. Wolf SPECIES
-=======
+# Colletotrichum caulicola Heald & F.A. Wolf SPECIES
 
 #### Status
 ACCEPTED

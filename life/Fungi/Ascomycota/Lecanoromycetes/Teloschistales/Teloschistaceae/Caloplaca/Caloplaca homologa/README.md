@@ -1,5 +1,4 @@
-Caloplaca homologa (Nyl.) Hellb. SPECIES
-=======
+# Caloplaca homologa (Nyl.) Hellb. SPECIES
 
 #### Status
 ACCEPTED

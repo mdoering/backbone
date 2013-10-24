@@ -1,5 +1,4 @@
-Macrophoma japonica Pass. SPECIES
-=======
+# Macrophoma japonica Pass. SPECIES
 
 #### Status
 ACCEPTED

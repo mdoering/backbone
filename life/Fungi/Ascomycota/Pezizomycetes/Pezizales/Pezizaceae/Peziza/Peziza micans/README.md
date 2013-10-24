@@ -1,5 +1,4 @@
-Peziza micans Saut. SPECIES
-=======
+# Peziza micans Saut. SPECIES
 
 #### Status
 ACCEPTED

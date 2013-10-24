@@ -1,5 +1,4 @@
-Cortinarius parvostriatus Rob. Henry & Contu SPECIES
-=======
+# Cortinarius parvostriatus Rob. Henry & Contu SPECIES
 
 #### Status
 ACCEPTED

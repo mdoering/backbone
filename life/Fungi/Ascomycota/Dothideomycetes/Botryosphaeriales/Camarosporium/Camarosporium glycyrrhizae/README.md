@@ -1,5 +1,4 @@
-Camarosporium glycyrrhizae Sandu & Mítítíuc SPECIES
-=======
+# Camarosporium glycyrrhizae Sandu & Mítítíuc SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dimeriella erigeronicola F. Stevens SPECIES
-=======
+# Dimeriella erigeronicola F. Stevens SPECIES
 
 #### Status
 ACCEPTED

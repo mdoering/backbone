@@ -1,5 +1,4 @@
-Stephanodiscus marginatus V. V. Mukhina SPECIES
-=======
+# Stephanodiscus marginatus V. V. Mukhina SPECIES
 
 #### Status
 ACCEPTED

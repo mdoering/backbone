@@ -1,5 +1,4 @@
-Almophrya mediovacuolata SPECIES
-=======
+# Almophrya mediovacuolata SPECIES
 
 #### Status
 ACCEPTED

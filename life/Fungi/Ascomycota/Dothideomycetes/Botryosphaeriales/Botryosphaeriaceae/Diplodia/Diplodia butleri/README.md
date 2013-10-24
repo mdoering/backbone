@@ -1,5 +1,4 @@
-Diplodia butleri Syd. & P. Syd. SPECIES
-=======
+# Diplodia butleri Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

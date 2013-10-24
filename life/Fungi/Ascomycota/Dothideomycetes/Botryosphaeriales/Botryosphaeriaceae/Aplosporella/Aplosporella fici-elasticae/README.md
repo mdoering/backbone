@@ -1,5 +1,4 @@
-Aplosporella fici-elasticae Petr. SPECIES
-=======
+# Aplosporella fici-elasticae Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenula sublateritita Zahlbr. SPECIES
-=======
+# Pyrenula sublateritita Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

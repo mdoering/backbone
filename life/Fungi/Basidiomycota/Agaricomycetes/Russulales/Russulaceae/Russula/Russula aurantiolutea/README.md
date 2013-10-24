@@ -1,5 +1,4 @@
-Russula aurantiolutea Kauffman SPECIES
-=======
+# Russula aurantiolutea Kauffman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diaporthe heveae Petch SPECIES
-=======
+# Diaporthe heveae Petch SPECIES
 
 #### Status
 ACCEPTED

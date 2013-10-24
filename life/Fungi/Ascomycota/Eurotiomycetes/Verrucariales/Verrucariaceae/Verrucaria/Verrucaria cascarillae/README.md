@@ -1,5 +1,4 @@
-Verrucaria cascarillae Fée SPECIES
-=======
+# Verrucaria cascarillae Fée SPECIES
 
 #### Status
 ACCEPTED

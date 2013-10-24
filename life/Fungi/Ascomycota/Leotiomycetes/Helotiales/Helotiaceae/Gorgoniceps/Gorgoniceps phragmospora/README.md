@@ -1,5 +1,4 @@
-Gorgoniceps phragmospora Speg. SPECIES
-=======
+# Gorgoniceps phragmospora Speg. SPECIES
 
 #### Status
 ACCEPTED

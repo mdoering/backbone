@@ -1,5 +1,4 @@
-Thuricola amphora Sommer, 1951 SPECIES
-=======
+# Thuricola amphora Sommer, 1951 SPECIES
 
 #### Status
 ACCEPTED

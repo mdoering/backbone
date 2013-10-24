@@ -1,5 +1,4 @@
-Prunulus strobilinoides (Peck) Murrill SPECIES
-=======
+# Prunulus strobilinoides (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gyrophora denticulata (Ach.) Flörke SPECIES
-=======
+# Gyrophora denticulata (Ach.) Flörke SPECIES
 
 #### Status
 ACCEPTED

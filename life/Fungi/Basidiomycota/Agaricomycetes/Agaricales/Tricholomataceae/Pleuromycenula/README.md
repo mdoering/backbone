@@ -1,5 +1,4 @@
-Pleuromycenula GENUS
-=======
+# Pleuromycenula GENUS
 
 #### Status
 ACCEPTED

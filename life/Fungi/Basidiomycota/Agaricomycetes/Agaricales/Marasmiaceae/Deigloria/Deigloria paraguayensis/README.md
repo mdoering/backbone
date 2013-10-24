@@ -1,14 +1,13 @@
-Cyphella paraguayensis Speg., 1922 SPECIES
-=======
+# Deigloria paraguayensis (Speg.) Agerer, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Anal. Mus. nac. Hist. nat. B. Aires 31: 373 (1922)
+Z. Mykol. 48(2): 255 (1982)
 
 #### Original name
 Cyphella paraguayensis Speg., 1922

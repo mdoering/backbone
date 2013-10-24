@@ -1,5 +1,4 @@
-Sirothecium saepiarium P. Karst., 1887 SPECIES
-=======
+# Sirothecium saepiarium P. Karst., 1887 SPECIES
 
 #### Status
 ACCEPTED

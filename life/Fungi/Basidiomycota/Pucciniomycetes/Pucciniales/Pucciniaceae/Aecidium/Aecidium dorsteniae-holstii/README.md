@@ -1,5 +1,4 @@
-Aecidium dorsteniae-holstii Henn. SPECIES
-=======
+# Aecidium dorsteniae-holstii Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecudina brasili Ganapati & Aiyar, 1937 SPECIES
-=======
+# Lecudina brasili Ganapati & Aiyar, 1937 SPECIES
 
 #### Status
 ACCEPTED

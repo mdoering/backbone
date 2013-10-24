@@ -1,5 +1,4 @@
-Micrhystridium quadraticum Sheshegova, 1984 SPECIES
-=======
+# Micrhystridium quadraticum Sheshegova, 1984 SPECIES
 
 #### Status
 ACCEPTED

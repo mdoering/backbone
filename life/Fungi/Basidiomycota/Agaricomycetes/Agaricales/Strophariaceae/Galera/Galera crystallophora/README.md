@@ -1,5 +1,4 @@
-Galera crystallophora Speg. SPECIES
-=======
+# Galera crystallophora Speg. SPECIES
 
 #### Status
 ACCEPTED

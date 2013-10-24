@@ -1,5 +1,4 @@
-Boletus fulveolus Lasch SPECIES
-=======
+# Boletus fulveolus Lasch SPECIES
 
 #### Status
 ACCEPTED

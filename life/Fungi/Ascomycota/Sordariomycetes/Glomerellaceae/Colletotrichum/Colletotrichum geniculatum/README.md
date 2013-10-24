@@ -1,5 +1,4 @@
-Colletotrichum geniculatum Sawada SPECIES
-=======
+# Colletotrichum geniculatum Sawada SPECIES
 
 #### Status
 ACCEPTED

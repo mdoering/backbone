@@ -1,5 +1,4 @@
-Helicorhoidion globosum Subram. SPECIES
-=======
+# Helicorhoidion globosum Subram. SPECIES
 
 #### Status
 ACCEPTED

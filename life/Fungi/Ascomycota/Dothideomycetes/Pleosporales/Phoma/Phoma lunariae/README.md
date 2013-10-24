@@ -1,5 +1,4 @@
-Phoma lunariae Moesz SPECIES
-=======
+# Phoma lunariae Moesz SPECIES
 
 #### Status
 ACCEPTED

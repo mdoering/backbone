@@ -1,17 +1,16 @@
-Trabutia portoricensis F. Stevens, 1920 SPECIES
-=======
+# Phyllachora halstediana Petr., 1934 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Gaz. , Chicago 70: 401 (1920)
+Annls mycol. 32: 320 (1934)
 
 #### Original name
-Trabutia portoricensis F. Stevens, 1920
+Phyllachora halstediana Petr., 1934
 
 ### Remarks
 null

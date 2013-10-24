@@ -1,14 +1,13 @@
-Hypoxylon archeri Berk., 1860 SPECIES
-=======
+# Annulohypoxylon archeri (Berk.) Y.M. Ju, J.D. Rogers & H.M. Hsieh, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Hooker, Bot. Antarc. Voy. 2(2): 280 (1860)
+Mycologia 97(4): 857 (2005)
 
 #### Original name
 Hypoxylon archeri Berk., 1860

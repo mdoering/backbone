@@ -1,5 +1,4 @@
-Stilbella clavispora Seifert, 1985 SPECIES
-=======
+# Stilbella clavispora Seifert, 1985 SPECIES
 
 #### Status
 ACCEPTED

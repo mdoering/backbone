@@ -1,5 +1,4 @@
-Leptonia alboconica (Dennis) Dennis SPECIES
-=======
+# Leptonia alboconica (Dennis) Dennis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Humaria subreticulata K.S. Thind, E.K. Cash & Pr. Singh SPECIES
-=======
+# Humaria subreticulata K.S. Thind, E.K. Cash & Pr. Singh SPECIES
 
 #### Status
 ACCEPTED

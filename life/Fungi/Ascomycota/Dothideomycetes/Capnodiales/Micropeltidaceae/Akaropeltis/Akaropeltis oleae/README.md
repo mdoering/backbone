@@ -1,5 +1,4 @@
-Akaropeltis oleae (Hansf.) Arx SPECIES
-=======
+# Akaropeltis oleae (Hansf.) Arx SPECIES
 
 #### Status
 ACCEPTED

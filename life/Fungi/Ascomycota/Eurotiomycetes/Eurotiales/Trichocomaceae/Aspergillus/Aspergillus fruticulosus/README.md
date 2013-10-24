@@ -1,5 +1,4 @@
-Aspergillus fruticulosus Raper & Fennell, 1965 SPECIES
-=======
+# Aspergillus fruticulosus Raper & Fennell, 1965 SPECIES
 
 #### Status
 ACCEPTED

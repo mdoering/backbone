@@ -1,5 +1,4 @@
-Phomatospora arenaria Sacc., E. Bommer & M. Rousseau, 1890 SPECIES
-=======
+# Phomatospora arenaria Sacc., E. Bommer & M. Rousseau, 1890 SPECIES
 
 #### Status
 ACCEPTED

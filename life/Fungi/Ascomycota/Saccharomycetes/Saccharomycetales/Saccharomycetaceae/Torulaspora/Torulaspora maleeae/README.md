@@ -1,5 +1,4 @@
-Torulaspora maleeae Limtong, Imanishi, Jindam., Ninomiya, Yongman. & Nakase, 2008 SPECIES
-=======
+# Torulaspora maleeae Limtong, Imanishi, Jindam., Ninomiya, Yongman. & Nakase, 2008 SPECIES
 
 #### Status
 ACCEPTED

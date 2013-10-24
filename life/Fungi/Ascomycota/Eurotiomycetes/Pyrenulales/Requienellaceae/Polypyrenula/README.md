@@ -1,5 +1,4 @@
-Polypyrenula D. Hawksw. GENUS
-=======
+# Polypyrenula D. Hawksw. GENUS
 
 #### Status
 ACCEPTED

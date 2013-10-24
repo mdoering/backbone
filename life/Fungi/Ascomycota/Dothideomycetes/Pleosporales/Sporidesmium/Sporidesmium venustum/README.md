@@ -1,5 +1,4 @@
-Sporidesmium venustum R.F. Castañeda & W.B. Kendr. SPECIES
-=======
+# Sporidesmium venustum R.F. Castañeda & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

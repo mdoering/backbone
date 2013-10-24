@@ -1,14 +1,13 @@
-Ectolechia aspidota Vain. SPECIES
-=======
+# Bullatina aspidota (Vain.) Vezda & Poelt SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Cat. Welwitsch Afric. Pl. 2: 428 (1901)
+Folia geobot. phytotax. 22: 186 (1987)
 
 #### Original name
 Ectolechia aspidota Vain.

@@ -1,5 +1,4 @@
-Heterophrys W.Archer, 1869 GENUS
-=======
+# Heterophrys W.Archer, 1869 GENUS
 
 #### Status
 ACCEPTED

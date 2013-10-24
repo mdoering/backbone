@@ -1,5 +1,4 @@
-Lecidea microdactyla C. Knight SPECIES
-=======
+# Lecidea microdactyla C. Knight SPECIES
 
 #### Status
 ACCEPTED

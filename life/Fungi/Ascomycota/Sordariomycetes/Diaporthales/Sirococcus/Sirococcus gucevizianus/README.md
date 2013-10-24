@@ -1,5 +1,4 @@
-Sirococcus gucevizianus Glezer SPECIES
-=======
+# Sirococcus gucevizianus Glezer SPECIES
 
 #### Status
 ACCEPTED

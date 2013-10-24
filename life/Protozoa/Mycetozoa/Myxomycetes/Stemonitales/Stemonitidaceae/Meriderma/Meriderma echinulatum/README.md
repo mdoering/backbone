@@ -1,8 +1,7 @@
-Meriderma echinulatum macrosporum (Meyl.) Mar. Mey. & Poulain, 2011 INFRASPECIFIC_NAME
-=======
+# Meriderma echinulatum (Meyl.) Mar. Mey. & Poulain, 2011 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Tinctoporellus isabellinus Ryvarden & Iturr., 2003 SPECIES
-=======
+# Tinctoporellus isabellinus Ryvarden & Iturr., 2003 SPECIES
 
 #### Status
 ACCEPTED

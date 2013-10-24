@@ -1,5 +1,4 @@
-Acremonium allochroum Bonord. SPECIES
-=======
+# Acremonium allochroum Bonord. SPECIES
 
 #### Status
 ACCEPTED

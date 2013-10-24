@@ -1,5 +1,4 @@
-Sphaerella bolivarii Caball. SPECIES
-=======
+# Sphaerella bolivarii Caball. SPECIES
 
 #### Status
 ACCEPTED

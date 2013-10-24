@@ -1,5 +1,4 @@
-Ustilago anthoxanthi Liro SPECIES
-=======
+# Ustilago anthoxanthi Liro SPECIES
 
 #### Status
 ACCEPTED

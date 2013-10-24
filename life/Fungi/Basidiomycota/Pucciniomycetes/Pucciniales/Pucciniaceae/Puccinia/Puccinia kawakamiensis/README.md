@@ -1,5 +1,4 @@
-Puccinia kawakamiensis Kakish. & S. Sato SPECIES
-=======
+# Puccinia kawakamiensis Kakish. & S. Sato SPECIES
 
 #### Status
 ACCEPTED

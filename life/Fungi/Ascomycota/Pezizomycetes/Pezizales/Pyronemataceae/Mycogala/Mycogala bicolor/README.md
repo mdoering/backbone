@@ -1,5 +1,4 @@
-Mycogala bicolor (Pers.) Rostaf. SPECIES
-=======
+# Mycogala bicolor (Pers.) Rostaf. SPECIES
 
 #### Status
 ACCEPTED

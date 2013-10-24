@@ -1,5 +1,4 @@
-Tilletia macrotuberculata Durán SPECIES
-=======
+# Tilletia macrotuberculata Durán SPECIES
 
 #### Status
 ACCEPTED

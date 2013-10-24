@@ -1,5 +1,4 @@
-Heterosporium opuntiae J. Lindau SPECIES
-=======
+# Heterosporium opuntiae J. Lindau SPECIES
 
 #### Status
 ACCEPTED

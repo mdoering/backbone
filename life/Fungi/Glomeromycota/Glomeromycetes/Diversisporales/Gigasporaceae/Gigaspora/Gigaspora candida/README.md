@@ -1,5 +1,4 @@
-Gigaspora candida Bhattacharjee, Mukerji, J.P. Tewari & Skoropad SPECIES
-=======
+# Gigaspora candida Bhattacharjee, Mukerji, J.P. Tewari & Skoropad SPECIES
 
 #### Status
 ACCEPTED

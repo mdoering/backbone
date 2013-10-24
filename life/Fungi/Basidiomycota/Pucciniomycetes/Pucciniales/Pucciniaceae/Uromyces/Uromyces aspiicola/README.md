@@ -1,5 +1,4 @@
-Uromyces aspiicola Cummins SPECIES
-=======
+# Uromyces aspiicola Cummins SPECIES
 
 #### Status
 ACCEPTED

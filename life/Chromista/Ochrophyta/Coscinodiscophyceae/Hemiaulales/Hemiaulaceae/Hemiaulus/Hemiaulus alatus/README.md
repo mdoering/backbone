@@ -1,5 +1,4 @@
-Hemiaulus alatus Greville SPECIES
-=======
+# Hemiaulus alatus Greville SPECIES
 
 #### Status
 ACCEPTED

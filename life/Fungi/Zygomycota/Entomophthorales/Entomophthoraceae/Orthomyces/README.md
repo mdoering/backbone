@@ -1,5 +1,4 @@
-Orthomyces Steinkr., Humber & J.B. Oliv. GENUS
-=======
+# Orthomyces Steinkr., Humber & J.B. Oliv. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Syncesia leprobola Nyl. ex Tehler SPECIES
-=======
+# Syncesia leprobola Nyl. ex Tehler SPECIES
 
 #### Status
 ACCEPTED

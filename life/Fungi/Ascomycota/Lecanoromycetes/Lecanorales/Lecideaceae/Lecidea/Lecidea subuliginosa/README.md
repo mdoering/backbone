@@ -1,5 +1,4 @@
-Lecidea subuliginosa Nyl. SPECIES
-=======
+# Lecidea subuliginosa Nyl. SPECIES
 
 #### Status
 ACCEPTED

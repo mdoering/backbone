@@ -1,5 +1,4 @@
-Darwiniella antarctica Speg. SPECIES
-=======
+# Darwiniella antarctica Speg. SPECIES
 
 #### Status
 ACCEPTED

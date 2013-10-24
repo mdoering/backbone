@@ -1,5 +1,4 @@
-Cheilochanus minutus Loeblich & Tappan, 1994 SPECIES
-=======
+# Cheilochanus minutus Loeblich & Tappan, 1994 SPECIES
 
 #### Status
 ACCEPTED

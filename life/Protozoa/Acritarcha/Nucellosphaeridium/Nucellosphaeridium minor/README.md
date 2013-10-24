@@ -1,5 +1,4 @@
-Nucellosphaeridium minor Nautiyal, 1986 SPECIES
-=======
+# Nucellosphaeridium minor Nautiyal, 1986 SPECIES
 
 #### Status
 ACCEPTED

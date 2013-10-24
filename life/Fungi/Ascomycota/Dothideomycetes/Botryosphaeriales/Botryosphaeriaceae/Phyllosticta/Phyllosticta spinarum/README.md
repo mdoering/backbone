@@ -1,14 +1,13 @@
-Phoma spinarum Died., 1912 SPECIES
-=======
+# Phyllosticta spinarum (Died.) Nag Raj & M. Morelet, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Krypt. -Fl. Brandenburg (Leipzig) 9: 148 (1912)
+Bulletin de la Société des Sciences naturelles et d'Archéologie de Toulon et du Var 34(219): 12 (1978)
 
 #### Original name
 Phoma spinarum Died., 1912

@@ -1,5 +1,4 @@
-Bloxamia bohemica Minter & Hol.-Jech., 1981 SPECIES
-=======
+# Bloxamia bohemica Minter & Hol.-Jech., 1981 SPECIES
 
 #### Status
 ACCEPTED

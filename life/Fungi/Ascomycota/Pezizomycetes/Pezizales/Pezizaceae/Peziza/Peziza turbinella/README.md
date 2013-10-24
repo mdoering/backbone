@@ -1,5 +1,4 @@
-Peziza turbinella Berk. SPECIES
-=======
+# Peziza turbinella Berk. SPECIES
 
 #### Status
 ACCEPTED

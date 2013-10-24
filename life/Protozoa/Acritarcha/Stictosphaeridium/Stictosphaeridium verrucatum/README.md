@@ -1,5 +1,4 @@
-Stictosphaeridium verrucatum Vidal, 1976 SPECIES
-=======
+# Stictosphaeridium verrucatum Vidal, 1976 SPECIES
 
 #### Status
 ACCEPTED

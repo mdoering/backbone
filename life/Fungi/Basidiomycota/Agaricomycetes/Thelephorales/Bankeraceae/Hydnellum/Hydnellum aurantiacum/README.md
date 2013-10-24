@@ -1,17 +1,16 @@
-Hydnellum complectipes var. complectipes VARIETY
-=======
+# Hydnellum aurantiacum (Batsch) P. Karst., 1879 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 64(3): 573 (1972)
+Meddn Soc. Fauna Flora fenn. 5: 41 (1879)
 
 #### Original name
-Hydnellum complectipes var. complectipes
+Hydnum suberosum var. aurantiacum Batsch, 1789
 
 ### Remarks
 null

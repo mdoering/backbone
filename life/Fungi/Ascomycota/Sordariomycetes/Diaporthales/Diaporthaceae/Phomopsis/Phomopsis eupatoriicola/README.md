@@ -1,5 +1,4 @@
-Phomopsis eupatoriicola Petr., 1922 SPECIES
-=======
+# Phomopsis eupatoriicola Petr., 1922 SPECIES
 
 #### Status
 ACCEPTED

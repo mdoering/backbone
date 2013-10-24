@@ -1,5 +1,4 @@
-Flamella Schaeffer, 1926 GENUS
-=======
+# Flamella Schaeffer, 1926 GENUS
 
 #### Status
 ACCEPTED

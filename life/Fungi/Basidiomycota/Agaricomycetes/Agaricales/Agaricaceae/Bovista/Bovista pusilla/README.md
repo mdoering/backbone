@@ -1,17 +1,16 @@
-Bovista xanthoderma Vittad. SPECIES
-=======
+# Bovista pusilla (Batsch) Pers., 1801 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syn. meth. fung. (Göttingen) 1: 138 (1801)
 
 #### Original name
-null
+Lycoperdon pusillum Batsch, 1789
 
 ### Remarks
 null

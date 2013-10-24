@@ -1,5 +1,4 @@
-Cetrariastrum columbiense (Zahlbr.) W.L. Culb. & C.F. Culb. SPECIES
-=======
+# Cetrariastrum columbiense (Zahlbr.) W.L. Culb. & C.F. Culb. SPECIES
 
 #### Status
 ACCEPTED

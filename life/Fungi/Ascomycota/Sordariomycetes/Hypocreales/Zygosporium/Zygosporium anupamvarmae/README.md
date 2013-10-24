@@ -1,5 +1,4 @@
-Zygosporium anupamvarmae Manohar., D.K. Agarwal, Sureshk., Sharath & Kunwar SPECIES
-=======
+# Zygosporium anupamvarmae Manohar., D.K. Agarwal, Sureshk., Sharath & Kunwar SPECIES
 
 #### Status
 ACCEPTED

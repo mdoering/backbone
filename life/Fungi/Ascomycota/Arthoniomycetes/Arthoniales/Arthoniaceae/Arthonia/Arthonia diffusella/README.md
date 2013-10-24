@@ -1,5 +1,4 @@
-Arthonia diffusella Fink ex J. Hedrick SPECIES
-=======
+# Arthonia diffusella Fink ex J. Hedrick SPECIES
 
 #### Status
 ACCEPTED

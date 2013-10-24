@@ -1,5 +1,4 @@
-Diplodia gayi var. gayi VARIETY
-=======
+# Diplodia gayi Boyer & Jacz. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Miceti del parco e dintorni della scuola nazionale di agricoltura di Montpellier raccolti e studiati 42 (1887)
 
 #### Original name
-Diplodia gayi var. gayi
+Diplodia gayi Boyer & Jacz.
 
 ### Remarks
 null

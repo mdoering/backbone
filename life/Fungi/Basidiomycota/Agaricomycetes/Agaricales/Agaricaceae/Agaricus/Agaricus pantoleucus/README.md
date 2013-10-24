@@ -1,5 +1,4 @@
-Agaricus pantoleucus Fr. SPECIES
-=======
+# Agaricus pantoleucus Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena cupressina Antonín & Maas Geest. SPECIES
-=======
+# Mycena cupressina Antonín & Maas Geest. SPECIES
 
 #### Status
 ACCEPTED

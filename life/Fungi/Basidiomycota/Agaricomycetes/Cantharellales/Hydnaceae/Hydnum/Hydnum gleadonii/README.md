@@ -1,5 +1,4 @@
-Hydnum gleadonii Massee SPECIES
-=======
+# Hydnum gleadonii Massee SPECIES
 
 #### Status
 ACCEPTED

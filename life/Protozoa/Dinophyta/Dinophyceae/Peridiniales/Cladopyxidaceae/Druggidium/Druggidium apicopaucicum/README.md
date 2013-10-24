@@ -1,5 +1,4 @@
-Druggidium apicopaucicum Habib, 1973 SPECIES
-=======
+# Druggidium apicopaucicum Habib, 1973 SPECIES
 
 #### Status
 ACCEPTED

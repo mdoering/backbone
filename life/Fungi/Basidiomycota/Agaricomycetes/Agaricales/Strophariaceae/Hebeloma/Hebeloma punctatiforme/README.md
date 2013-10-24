@@ -1,5 +1,4 @@
-Hebeloma punctatiforme Hruby SPECIES
-=======
+# Hebeloma punctatiforme Hruby SPECIES
 
 #### Status
 ACCEPTED

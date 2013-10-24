@@ -1,14 +1,13 @@
-Acanthostigma hispidula (Sacc. & Speg.) Berl., 1891 SPECIES
-=======
+# Lasiosphaeria hispidula Sacc. & Speg., 1878 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Icon. fung. (Abellini) 1(3): 103 (1891)
+Michelia 1(no. 4): 406 (1878)
 
 #### Original name
 Lasiosphaeria hispidula Sacc. & Speg., 1878

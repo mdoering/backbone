@@ -1,5 +1,4 @@
-Peridermium oblongisporum Fuckel SPECIES
-=======
+# Peridermium oblongisporum Fuckel SPECIES
 
 #### Status
 ACCEPTED

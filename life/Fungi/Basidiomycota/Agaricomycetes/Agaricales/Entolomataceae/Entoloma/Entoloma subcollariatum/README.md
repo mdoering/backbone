@@ -1,5 +1,4 @@
-Entoloma subcollariatum (Kühner) Bon SPECIES
-=======
+# Entoloma subcollariatum (Kühner) Bon SPECIES
 
 #### Status
 ACCEPTED

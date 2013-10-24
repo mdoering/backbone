@@ -1,14 +1,13 @@
-Russula aurora subsp. zvarae (Velen.) Singer SUBSPECIES
-=======
+# Russula zvarae Velen., 1922 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beih. bot. Zbl. 49(2): 343 (1932)
+Ceské Houby 4-5: 913 (1922)
 
 #### Original name
 Russula zvarae Velen., 1922

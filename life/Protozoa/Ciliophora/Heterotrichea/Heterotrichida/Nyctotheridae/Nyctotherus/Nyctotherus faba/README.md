@@ -1,5 +1,4 @@
-Nyctotherus faba Schaudinn, 1899 SPECIES
-=======
+# Nyctotherus faba Schaudinn, 1899 SPECIES
 
 #### Status
 ACCEPTED

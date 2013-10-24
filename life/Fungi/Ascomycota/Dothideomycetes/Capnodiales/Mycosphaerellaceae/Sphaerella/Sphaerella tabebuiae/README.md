@@ -1,5 +1,4 @@
-Sphaerella tabebuiae (Miles) Sacc. SPECIES
-=======
+# Sphaerella tabebuiae (Miles) Sacc. SPECIES
 
 #### Status
 ACCEPTED

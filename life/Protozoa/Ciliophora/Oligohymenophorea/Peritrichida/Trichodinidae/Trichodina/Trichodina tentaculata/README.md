@@ -1,5 +1,4 @@
-Trichodina tentaculata Ehrenberg, 1831 SPECIES
-=======
+# Trichodina tentaculata Ehrenberg, 1831 SPECIES
 
 #### Status
 ACCEPTED

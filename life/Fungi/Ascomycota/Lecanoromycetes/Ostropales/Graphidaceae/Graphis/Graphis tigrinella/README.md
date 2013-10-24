@@ -1,5 +1,4 @@
-Graphis tigrinella Vain. SPECIES
-=======
+# Graphis tigrinella Vain. SPECIES
 
 #### Status
 ACCEPTED

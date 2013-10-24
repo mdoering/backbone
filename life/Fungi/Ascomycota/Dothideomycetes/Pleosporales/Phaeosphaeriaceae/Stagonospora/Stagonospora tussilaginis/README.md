@@ -1,17 +1,16 @@
-Phoma tussilaginis Cooke & Massee, 1887 SPECIES
-=======
+# Stagonospora tussilaginis (Schltdl.) Died., 1912 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 15(no. 76): 108 (1887)
+Annls mycol. 10(5): 482 (1912)
 
 #### Original name
-Phoma tussilaginis Cooke & Massee, 1887
+Septoria tussilaginis Fuckel, 1874
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Gorgoniceps ontariensis (Rehm) Höhn. SPECIES
-=======
+# Gorgoniceps ontariensis (Rehm) Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Occultifur externus J.P. Samp., R. Bauer & Oberw., 1999 SPECIES
-=======
+# Occultifur externus J.P. Samp., R. Bauer & Oberw., 1999 SPECIES
 
 #### Status
 ACCEPTED

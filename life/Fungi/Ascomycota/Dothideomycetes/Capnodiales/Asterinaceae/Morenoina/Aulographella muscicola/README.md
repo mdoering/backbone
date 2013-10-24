@@ -1,5 +1,4 @@
-Aulographella muscicola Racov. SPECIES
-=======
+# Aulographella muscicola Racov. SPECIES
 
 #### Status
 ACCEPTED

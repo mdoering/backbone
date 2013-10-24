@@ -1,5 +1,4 @@
-Septoria blasdalei Sacc. & P. Syd. SPECIES
-=======
+# Septoria blasdalei Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

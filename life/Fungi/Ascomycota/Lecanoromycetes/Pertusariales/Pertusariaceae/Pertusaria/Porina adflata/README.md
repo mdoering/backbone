@@ -1,5 +1,4 @@
-Porina adflata Müll. Arg., 1883 SPECIES
-=======
+# Porina adflata Müll. Arg., 1883 SPECIES
 
 #### Status
 DOUBTFUL

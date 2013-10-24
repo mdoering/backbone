@@ -1,5 +1,4 @@
-Sporopodium leprosum Øvstedal & Elix SPECIES
-=======
+# Sporopodium leprosum Øvstedal & Elix SPECIES
 
 #### Status
 ACCEPTED

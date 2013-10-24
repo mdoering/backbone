@@ -1,5 +1,4 @@
-Bacillus okuhidensis Li et al., 2002 SPECIES
-=======
+# Bacillus okuhidensis Li et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

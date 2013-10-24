@@ -1,5 +1,4 @@
-Tetraporina inornata Teteryuk, 1956 SPECIES
-=======
+# Tetraporina inornata Teteryuk, 1956 SPECIES
 
 #### Status
 ACCEPTED

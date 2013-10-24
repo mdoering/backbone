@@ -1,5 +1,4 @@
-Lophiostoma thapsi (Schwein.) Sacc. SPECIES
-=======
+# Lophiostoma thapsi (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

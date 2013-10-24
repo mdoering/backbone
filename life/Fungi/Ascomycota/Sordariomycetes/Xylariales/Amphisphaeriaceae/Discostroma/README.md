@@ -1,17 +1,16 @@
-Curreyella (Saccardo) Lindau, 1897 GENUS
-=======
+# Discostroma Clements, 1909 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Engler & Prantl, Nat. Pflanzenfam. (Leipzig), Teil. <b>I</b> 1: 379 (1897)
+Gen. fung. (Minneapolis) 50, 173 (1909)
 
 #### Original name
-null
+Discostroma Clements, 1909
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Sporidesmium crassisporum M.B. Ellis SPECIES
-=======
+# Sporidesmium crassisporum M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

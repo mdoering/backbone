@@ -1,5 +1,4 @@
-Agaricus furnaceus Letell. SPECIES
-=======
+# Agaricus furnaceus Letell. SPECIES
 
 #### Status
 ACCEPTED

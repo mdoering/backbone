@@ -1,5 +1,4 @@
-Endogone crassa P.A. Tandy SPECIES
-=======
+# Endogone crassa P.A. Tandy SPECIES
 
 #### Status
 ACCEPTED

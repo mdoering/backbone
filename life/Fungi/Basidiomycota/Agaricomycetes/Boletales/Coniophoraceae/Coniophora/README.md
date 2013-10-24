@@ -1,5 +1,4 @@
-Coniophora de Candolle, 1815 GENUS
-=======
+# Coniophora de Candolle, 1815 GENUS
 
 #### Status
 ACCEPTED

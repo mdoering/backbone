@@ -1,5 +1,4 @@
-Melanogaster fusisporus var. fusisporus VARIETY
-=======
+# Melanogaster fusisporus Y. Wang SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Journal of Shanxi University, Natural Science 18(4): 450 (1995)
+in Wang, Chang, Tao & Liu, Journal of Shanxi University, Natural Science 18(4): 450 (1995)
 
 #### Original name
-Melanogaster fusisporus var. fusisporus
+Melanogaster fusisporus Y. Wang
 
 ### Remarks
 null

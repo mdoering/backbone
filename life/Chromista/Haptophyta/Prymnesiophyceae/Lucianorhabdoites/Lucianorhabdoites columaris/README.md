@@ -1,5 +1,4 @@
-Lucianorhabdoites columaris Chongyou Wang SPECIES
-=======
+# Lucianorhabdoites columaris Chongyou Wang SPECIES
 
 #### Status
 ACCEPTED

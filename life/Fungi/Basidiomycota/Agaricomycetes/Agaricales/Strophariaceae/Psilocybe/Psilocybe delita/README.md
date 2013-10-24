@@ -1,5 +1,4 @@
-Psilocybe delita (Britzelm.) Sacc. SPECIES
-=======
+# Psilocybe delita (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

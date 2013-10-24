@@ -1,5 +1,4 @@
-Pestalotia conglomerata Bres. SPECIES
-=======
+# Pestalotia conglomerata Bres. SPECIES
 
 #### Status
 ACCEPTED

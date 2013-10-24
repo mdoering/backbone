@@ -1,5 +1,4 @@
-Isaria peckoltii Lloyd SPECIES
-=======
+# Isaria peckoltii Lloyd SPECIES
 
 #### Status
 ACCEPTED

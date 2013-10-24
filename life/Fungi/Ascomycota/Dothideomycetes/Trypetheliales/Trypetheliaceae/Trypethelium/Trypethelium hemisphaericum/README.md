@@ -1,5 +1,4 @@
-Trypethelium hemisphaericum (Eschw.) Eschw. SPECIES
-=======
+# Trypethelium hemisphaericum (Eschw.) Eschw. SPECIES
 
 #### Status
 ACCEPTED

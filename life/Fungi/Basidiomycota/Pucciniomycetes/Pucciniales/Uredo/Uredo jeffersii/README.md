@@ -1,5 +1,4 @@
-Uredo jeffersii Cummins SPECIES
-=======
+# Uredo jeffersii Cummins SPECIES
 
 #### Status
 ACCEPTED

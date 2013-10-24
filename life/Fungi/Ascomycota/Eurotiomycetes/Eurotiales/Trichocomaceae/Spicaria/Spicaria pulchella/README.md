@@ -1,5 +1,4 @@
-Spicaria pulchella Petch SPECIES
-=======
+# Spicaria pulchella Petch SPECIES
 
 #### Status
 ACCEPTED

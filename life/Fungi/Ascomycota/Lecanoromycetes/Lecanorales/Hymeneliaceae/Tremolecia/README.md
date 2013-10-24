@@ -1,5 +1,4 @@
-Tremolecia M. Choisy GENUS
-=======
+# Tremolecia M. Choisy GENUS
 
 #### Status
 ACCEPTED

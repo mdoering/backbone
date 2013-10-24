@@ -1,5 +1,4 @@
-Wettsteinina savilei Shoemaker & C.E. Babc. SPECIES
-=======
+# Wettsteinina savilei Shoemaker & C.E. Babc. SPECIES
 
 #### Status
 ACCEPTED

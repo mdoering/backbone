@@ -1,17 +1,16 @@
-Russula lutea subsp. lutea SUBSPECIES
-=======
+# Russula risigallina (Batsch) Sacc., 1915 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fl. ital. crypt. (Genoa), Hymeniales 1: 430 (1915)
 
 #### Original name
-Russula lutea subsp. lutea
+Agaricus risigallinus Batsch, 1786
 
 ### Remarks
 null

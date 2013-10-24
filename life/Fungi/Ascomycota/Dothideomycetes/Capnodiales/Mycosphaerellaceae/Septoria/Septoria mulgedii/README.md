@@ -1,5 +1,4 @@
-Septoria mulgedii var. mulgedii VARIETY
-=======
+# Septoria mulgedii Thüm. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Septoria mulgedii var. mulgedii
+Septoria mulgedii Thüm.
 
 ### Remarks
 null

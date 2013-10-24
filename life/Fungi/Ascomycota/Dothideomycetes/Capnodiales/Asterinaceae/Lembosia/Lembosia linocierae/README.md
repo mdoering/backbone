@@ -1,5 +1,4 @@
-Lembosia linocierae Hosag. SPECIES
-=======
+# Lembosia linocierae Hosag. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula columbaria var. columbaria VARIETY
-=======
+# Russula columbaria Velen. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Ceské Houby 1: 129 (1920)
 
 #### Original name
-Russula columbaria var. columbaria
+Russula columbaria Velen.
 
 ### Remarks
 null

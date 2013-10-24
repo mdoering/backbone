@@ -1,5 +1,4 @@
-Synchytrium urticae M.T. Cook SPECIES
-=======
+# Synchytrium urticae M.T. Cook SPECIES
 
 #### Status
 ACCEPTED

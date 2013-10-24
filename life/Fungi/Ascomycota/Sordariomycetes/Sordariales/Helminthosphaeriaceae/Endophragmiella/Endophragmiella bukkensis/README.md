@@ -1,5 +1,4 @@
-Endophragmiella bukkensis Révay SPECIES
-=======
+# Endophragmiella bukkensis Révay SPECIES
 
 #### Status
 ACCEPTED

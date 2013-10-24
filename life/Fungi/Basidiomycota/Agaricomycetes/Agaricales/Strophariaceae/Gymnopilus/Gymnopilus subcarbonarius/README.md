@@ -1,5 +1,4 @@
-Gymnopilus subcarbonarius Murrill SPECIES
-=======
+# Gymnopilus subcarbonarius Murrill SPECIES
 
 #### Status
 ACCEPTED

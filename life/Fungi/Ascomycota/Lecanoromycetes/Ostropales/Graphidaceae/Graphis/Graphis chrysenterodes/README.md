@@ -1,5 +1,4 @@
-Graphis chrysenterodes Nyl. SPECIES
-=======
+# Graphis chrysenterodes Nyl. SPECIES
 
 #### Status
 ACCEPTED

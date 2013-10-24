@@ -1,5 +1,4 @@
-Irenina trachylaena (Syd.) F. Stevens SPECIES
-=======
+# Irenina trachylaena (Syd.) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

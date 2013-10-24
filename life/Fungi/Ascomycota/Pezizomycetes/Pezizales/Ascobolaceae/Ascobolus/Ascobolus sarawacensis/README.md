@@ -1,5 +1,4 @@
-Ascobolus sarawacensis Ces. SPECIES
-=======
+# Ascobolus sarawacensis Ces. SPECIES
 
 #### Status
 ACCEPTED

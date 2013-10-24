@@ -1,5 +1,4 @@
-Cortinarius squamosipes Rob. Henry SPECIES
-=======
+# Cortinarius squamosipes Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspicilia austronorvegica (H. Magn.) R. Sant. SPECIES
-=======
+# Aspicilia austronorvegica (H. Magn.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

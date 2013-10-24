@@ -1,5 +1,4 @@
-Dimerospora ralfsii Salwey SPECIES
-=======
+# Dimerospora ralfsii Salwey SPECIES
 
 #### Status
 ACCEPTED

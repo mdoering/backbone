@@ -1,5 +1,4 @@
-Domingoella leonensis M.B. Ellis SPECIES
-=======
+# Domingoella leonensis M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Biscutum neocoronum J.J. Pospichal & S.W. Wise SPECIES
-=======
+# Biscutum neocoronum J.J. Pospichal & S.W. Wise SPECIES
 
 #### Status
 ACCEPTED

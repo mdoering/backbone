@@ -1,5 +1,4 @@
-Boletus subsimilis L. Preiss SPECIES
-=======
+# Boletus subsimilis L. Preiss SPECIES
 
 #### Status
 ACCEPTED

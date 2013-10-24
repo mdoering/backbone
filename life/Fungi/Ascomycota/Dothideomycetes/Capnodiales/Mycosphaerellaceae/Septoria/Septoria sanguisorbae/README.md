@@ -1,5 +1,4 @@
-Septoria sanguisorbae Jørst. SPECIES
-=======
+# Septoria sanguisorbae Jørst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dicaeoma infrequens (Holw.) Arthur SPECIES
-=======
+# Dicaeoma infrequens (Holw.) Arthur SPECIES
 
 #### Status
 ACCEPTED

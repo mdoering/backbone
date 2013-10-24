@@ -1,5 +1,4 @@
-Rothia nasimurium Collins et al., 2000 SPECIES
-=======
+# Rothia nasimurium Collins et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Rechingeriella bispora (N. Lundq.) Petr., 1968 SPECIES
-=======
+# Copromyces bisporus N. Lundq., 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Arch. für Botanik, Ser. 2 6: 328 (1967)
 
 #### Original name
 Copromyces bisporus N. Lundq., 1967

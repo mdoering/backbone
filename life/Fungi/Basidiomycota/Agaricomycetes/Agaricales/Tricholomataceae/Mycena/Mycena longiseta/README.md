@@ -1,11 +1,10 @@
-Mycena codoniceps sensu Kühner SPECIES
-=======
+# Mycena longiseta Höhn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+Belgian Species List
 
 #### Published in
 null

@@ -1,5 +1,4 @@
-Ornatispora punctata Dulym., P.F. Cannon, K.D. Hyde & Peerally, 2001 SPECIES
-=======
+# Ornatispora punctata Dulym., P.F. Cannon, K.D. Hyde & Peerally, 2001 SPECIES
 
 #### Status
 ACCEPTED

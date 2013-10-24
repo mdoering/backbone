@@ -1,5 +1,4 @@
-Mycena pseudocorticola Kühner SPECIES
-=======
+# Mycena pseudocorticola Kühner SPECIES
 
 #### Status
 ACCEPTED

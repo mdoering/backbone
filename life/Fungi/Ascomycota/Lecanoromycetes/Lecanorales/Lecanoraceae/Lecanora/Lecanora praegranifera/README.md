@@ -1,5 +1,4 @@
-Lecanora praegranifera Nyl. SPECIES
-=======
+# Lecanora praegranifera Nyl. SPECIES
 
 #### Status
 ACCEPTED

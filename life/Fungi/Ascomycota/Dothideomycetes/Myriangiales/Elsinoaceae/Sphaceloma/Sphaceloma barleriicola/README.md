@@ -1,5 +1,4 @@
-Sphaceloma barleriicola Wani & Thirum., 1970 SPECIES
-=======
+# Sphaceloma barleriicola Wani & Thirum., 1970 SPECIES
 
 #### Status
 ACCEPTED

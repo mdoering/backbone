@@ -1,5 +1,4 @@
-Passalora pyrophila U. Braun & Crous SPECIES
-=======
+# Passalora pyrophila U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

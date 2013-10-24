@@ -1,5 +1,4 @@
-Akanthomyces ovalongatus L.S. Hsieh, Tzean & W.J. Wu SPECIES
-=======
+# Akanthomyces ovalongatus L.S. Hsieh, Tzean & W.J. Wu SPECIES
 
 #### Status
 ACCEPTED

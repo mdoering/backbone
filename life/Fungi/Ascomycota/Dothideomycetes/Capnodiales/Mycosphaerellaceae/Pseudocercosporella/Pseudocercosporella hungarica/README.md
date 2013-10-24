@@ -1,5 +1,4 @@
-Pseudocercosporella hungarica (Bäumler) Sivan. SPECIES
-=======
+# Pseudocercosporella hungarica (Bäumler) Sivan. SPECIES
 
 #### Status
 ACCEPTED

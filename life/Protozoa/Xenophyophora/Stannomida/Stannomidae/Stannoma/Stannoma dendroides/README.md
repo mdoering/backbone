@@ -1,5 +1,4 @@
-Stannoma dendroides Haeckel, 1889 SPECIES
-=======
+# Stannoma dendroides Haeckel, 1889 SPECIES
 
 #### Status
 ACCEPTED

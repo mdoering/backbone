@@ -1,5 +1,4 @@
-Jundzillia draba Andrz. SPECIES
-=======
+# Jundzillia draba Andrz. SPECIES
 
 #### Status
 ACCEPTED

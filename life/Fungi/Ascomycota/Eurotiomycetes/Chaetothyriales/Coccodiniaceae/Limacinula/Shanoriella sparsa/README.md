@@ -1,5 +1,4 @@
-Shanoriella sparsa Bat., J.L. Bezerra & Castr. SPECIES
-=======
+# Shanoriella sparsa Bat., J.L. Bezerra & Castr. SPECIES
 
 #### Status
 ACCEPTED

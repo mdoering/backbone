@@ -1,5 +1,4 @@
-Trichopeziza tryblidioides (Rabenh.) Sacc. SPECIES
-=======
+# Trichopeziza tryblidioides (Rabenh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

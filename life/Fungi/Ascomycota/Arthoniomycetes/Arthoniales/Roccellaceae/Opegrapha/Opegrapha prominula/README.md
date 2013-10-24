@@ -1,5 +1,4 @@
-Opegrapha prominula C. Knight & Mitt. SPECIES
-=======
+# Opegrapha prominula C. Knight & Mitt. SPECIES
 
 #### Status
 ACCEPTED

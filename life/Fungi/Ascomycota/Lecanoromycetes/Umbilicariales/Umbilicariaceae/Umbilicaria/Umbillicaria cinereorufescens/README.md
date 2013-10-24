@@ -1,5 +1,4 @@
-Umbillicaria cinereorufescens (Schaer.) Frey SPECIES
-=======
+# Umbillicaria cinereorufescens (Schaer.) Frey SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Cordosphaeridium cantharellum (Brosius) Gocht, 1969 SPECIES
-=======
+# Cordosphaeridium cantharellum (Brosius) Gocht, 1969 SPECIES
 
 #### Status
 ACCEPTED

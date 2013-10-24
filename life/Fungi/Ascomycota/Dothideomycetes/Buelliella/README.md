@@ -1,17 +1,16 @@
-Buelliela GENUS
-=======
+# Buelliella Fink GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lich. Fl. U. S. 372 (1935)
 
 #### Original name
-null
+Buelliella Fink
 
 ### Remarks
 null

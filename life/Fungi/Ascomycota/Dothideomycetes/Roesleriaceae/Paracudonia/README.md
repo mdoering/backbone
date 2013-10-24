@@ -1,5 +1,4 @@
-Paracudonia GENUS
-=======
+# Paracudonia GENUS
 
 #### Status
 ACCEPTED

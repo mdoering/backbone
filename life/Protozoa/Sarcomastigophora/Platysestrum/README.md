@@ -1,5 +1,4 @@
-Platysestrum Haeckel, 1881 GENUS
-=======
+# Platysestrum Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Phaeangella empetri (W. Phillips) Boud., 1907 SPECIES
-=======
+# Phaeangellina empetri (W. Phillips) Dennis, 1955 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Kew Bull. 361 (1955)
 
 #### Original name
 Cenangium empetri W. Phillips, 1891

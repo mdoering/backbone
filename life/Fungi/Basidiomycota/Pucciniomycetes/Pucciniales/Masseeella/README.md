@@ -1,5 +1,4 @@
-Masseeella Dietel, 1895 GENUS
-=======
+# Masseeella Dietel, 1895 GENUS
 
 #### Status
 ACCEPTED

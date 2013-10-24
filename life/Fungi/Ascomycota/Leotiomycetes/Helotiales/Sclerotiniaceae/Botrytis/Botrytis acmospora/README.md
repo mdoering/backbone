@@ -1,5 +1,4 @@
-Botrytis acmospora Sacc. SPECIES
-=======
+# Botrytis acmospora Sacc. SPECIES
 
 #### Status
 ACCEPTED

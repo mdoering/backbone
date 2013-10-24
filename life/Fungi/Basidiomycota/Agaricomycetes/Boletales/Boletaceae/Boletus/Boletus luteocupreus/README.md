@@ -1,5 +1,4 @@
-Boletus luteocupreus Bertéa & Estadès SPECIES
-=======
+# Boletus luteocupreus Bertéa & Estadès SPECIES
 
 #### Status
 ACCEPTED

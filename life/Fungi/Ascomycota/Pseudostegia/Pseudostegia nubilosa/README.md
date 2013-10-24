@@ -1,5 +1,4 @@
-Pseudostegia nubilosa Bubák, 1906 SPECIES
-=======
+# Pseudostegia nubilosa Bubák, 1906 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Puccinia ganeschini Tranzschel & Erem. SPECIES
-=======
+# Puccinia ganeschinii Tranzschel & Erem. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Tranzschel, Conspectus Uredinalium URSS 402 (1939)
 
 #### Original name
-Puccinia ganeschini Tranzschel & Erem.
+Puccinia ganeschinii Tranzschel & Erem.
 
 ### Remarks
 null

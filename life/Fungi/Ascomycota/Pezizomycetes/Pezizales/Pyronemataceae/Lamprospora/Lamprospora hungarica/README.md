@@ -1,5 +1,4 @@
-Lamprospora hungarica Bánhegyi SPECIES
-=======
+# Lamprospora hungarica Bánhegyi SPECIES
 
 #### Status
 ACCEPTED

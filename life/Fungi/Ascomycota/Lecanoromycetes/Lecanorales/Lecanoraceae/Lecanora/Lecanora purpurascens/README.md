@@ -1,5 +1,4 @@
-Lecanora purpurascens Nyl. SPECIES
-=======
+# Lecanora purpurascens Nyl. SPECIES
 
 #### Status
 ACCEPTED

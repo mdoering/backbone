@@ -1,5 +1,4 @@
-Camarosporium rutae Sacc. SPECIES
-=======
+# Camarosporium rutae Sacc. SPECIES
 
 #### Status
 ACCEPTED

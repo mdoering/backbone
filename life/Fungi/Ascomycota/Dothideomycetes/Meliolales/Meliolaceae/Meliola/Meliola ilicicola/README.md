@@ -1,5 +1,4 @@
-Meliola ilicicola W. Yamam. SPECIES
-=======
+# Meliola ilicicola W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

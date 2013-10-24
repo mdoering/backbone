@@ -1,5 +1,4 @@
-Phoma bismarckii Kidd & Beaumont, 1924 SPECIES
-=======
+# Phoma bismarckii Kidd & Beaumont, 1924 SPECIES
 
 #### Status
 ACCEPTED

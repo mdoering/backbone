@@ -1,5 +1,4 @@
-Rhizomorpha canalicularis Hoffm. SPECIES
-=======
+# Rhizomorpha canalicularis Hoffm. SPECIES
 
 #### Status
 ACCEPTED

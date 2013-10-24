@@ -1,5 +1,4 @@
-Anophryoides puytoraci (Puytorac & Grolière, sensu, 1979) Small & Lynn, 1985 SPECIES
-=======
+# Anophryoides puytoraci (Puytorac & Grolière, sensu, 1979) Small & Lynn, 1985 SPECIES
 
 #### Status
 ACCEPTED

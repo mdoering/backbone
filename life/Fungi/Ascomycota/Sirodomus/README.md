@@ -1,5 +1,4 @@
-Sirodomus GENUS
-=======
+# Sirodomus GENUS
 
 #### Status
 ACCEPTED

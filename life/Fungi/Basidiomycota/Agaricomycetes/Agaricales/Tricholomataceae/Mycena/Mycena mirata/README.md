@@ -1,5 +1,4 @@
-Mycena mirata (Peck) Sacc. SPECIES
-=======
+# Mycena mirata (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sclerophoma piceae (Fiedl.) Höhn. SPECIES
-=======
+# Sclerophoma piceae (Fiedl.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

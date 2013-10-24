@@ -1,5 +1,4 @@
-Clitocybe pseudoirina H.E. Bigelow & A.H. Sm. SPECIES
-=======
+# Clitocybe pseudoirina H.E. Bigelow & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

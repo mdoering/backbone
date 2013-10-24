@@ -1,5 +1,4 @@
-Tethysetta Dumitrica in Dumitrica, Immenhauser & Dumitrica-Jud, 1997 GENUS
-=======
+# Tethysetta Dumitrica in Dumitrica, Immenhauser & Dumitrica-Jud, 1997 GENUS
 
 #### Status
 ACCEPTED

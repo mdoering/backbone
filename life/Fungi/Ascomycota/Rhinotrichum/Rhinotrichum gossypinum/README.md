@@ -1,5 +1,4 @@
-Rhinotrichum gossypinum (Speg.) Speg. SPECIES
-=======
+# Rhinotrichum gossypinum (Speg.) Speg. SPECIES
 
 #### Status
 ACCEPTED

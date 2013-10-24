@@ -1,5 +1,4 @@
-Loricophrya simplex (Maskell, 1887) Matthes, 1956 SPECIES
-=======
+# Loricophrya simplex (Maskell, 1887) Matthes, 1956 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Multicellaesporites oculeus P. Ke & Z.Y. Shi SPECIES
-=======
+# Multicellaesporites oculeus P. Ke & Z.Y. Shi SPECIES
 
 #### Status
 ACCEPTED

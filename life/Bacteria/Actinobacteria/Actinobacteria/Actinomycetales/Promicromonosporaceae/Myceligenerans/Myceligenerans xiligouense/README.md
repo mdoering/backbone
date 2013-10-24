@@ -1,5 +1,4 @@
-Myceligenerans xiligouense Cui et al., 2004 SPECIES
-=======
+# Myceligenerans xiligouense Cui et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

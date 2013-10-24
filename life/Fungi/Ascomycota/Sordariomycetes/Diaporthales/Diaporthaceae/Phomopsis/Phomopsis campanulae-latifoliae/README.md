@@ -1,5 +1,4 @@
-Phomopsis campanulae-latifoliae Petr. SPECIES
-=======
+# Phomopsis campanulae-latifoliae Petr. SPECIES
 
 #### Status
 ACCEPTED

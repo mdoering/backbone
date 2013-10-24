@@ -1,5 +1,4 @@
-Strigulaceae Zahlbr. FAMILY
-=======
+# Strigulaceae Zahlbr. FAMILY
 
 #### Status
 ACCEPTED

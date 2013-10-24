@@ -1,5 +1,4 @@
-Lichenothelia stipitata Henssen SPECIES
-=======
+# Lichenothelia stipitata Henssen SPECIES
 
 #### Status
 ACCEPTED

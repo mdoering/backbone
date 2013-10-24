@@ -1,5 +1,4 @@
-Leptosphaeria muralis Sacc. SPECIES
-=======
+# Leptosphaeria muralis Sacc. SPECIES
 
 #### Status
 ACCEPTED

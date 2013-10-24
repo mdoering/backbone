@@ -1,5 +1,4 @@
-Leptonia subfurfuracea (Hesler) Largent SPECIES
-=======
+# Leptonia subfurfuracea (Hesler) Largent SPECIES
 
 #### Status
 ACCEPTED

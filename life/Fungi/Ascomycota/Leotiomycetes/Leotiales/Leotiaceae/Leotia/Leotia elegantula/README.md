@@ -1,5 +1,4 @@
-Leotia elegantula Kalchbr. SPECIES
-=======
+# Leotia elegantula Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

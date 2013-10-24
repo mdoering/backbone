@@ -1,5 +1,4 @@
-Meliola varia Doidge SPECIES
-=======
+# Meliola varia Doidge SPECIES
 
 #### Status
 ACCEPTED

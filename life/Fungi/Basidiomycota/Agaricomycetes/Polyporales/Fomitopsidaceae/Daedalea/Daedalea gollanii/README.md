@@ -1,5 +1,4 @@
-Daedalea gollanii Massee SPECIES
-=======
+# Daedalea gollanii Massee SPECIES
 
 #### Status
 ACCEPTED

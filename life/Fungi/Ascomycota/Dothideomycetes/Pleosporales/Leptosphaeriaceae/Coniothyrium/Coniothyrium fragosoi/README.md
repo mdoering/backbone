@@ -1,5 +1,4 @@
-Coniothyrium fragosoi Caball. SPECIES
-=======
+# Coniothyrium fragosoi Caball. SPECIES
 
 #### Status
 ACCEPTED

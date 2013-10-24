@@ -1,5 +1,4 @@
-Aspicilia subplicigera (H. Magn.) Oxner SPECIES
-=======
+# Aspicilia subplicigera (H. Magn.) Oxner SPECIES
 
 #### Status
 ACCEPTED

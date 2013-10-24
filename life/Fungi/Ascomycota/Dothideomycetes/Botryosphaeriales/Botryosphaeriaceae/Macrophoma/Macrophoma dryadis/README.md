@@ -1,5 +1,4 @@
-Macrophoma dryadis (Allesch.) Tassi SPECIES
-=======
+# Macrophoma dryadis (Allesch.) Tassi SPECIES
 
 #### Status
 ACCEPTED

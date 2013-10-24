@@ -1,5 +1,4 @@
-Acanthotrema brasilianum (Hale) Frisch SPECIES
-=======
+# Acanthotrema brasilianum (Hale) Frisch SPECIES
 
 #### Status
 ACCEPTED

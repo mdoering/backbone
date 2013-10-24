@@ -1,5 +1,4 @@
-Schroeteriaster ehretiae (Hirats.) Syd., P. Syd. & E.J. Butler SPECIES
-=======
+# Schroeteriaster ehretiae (Hirats.) Syd., P. Syd. & E.J. Butler SPECIES
 
 #### Status
 ACCEPTED

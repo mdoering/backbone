@@ -1,5 +1,4 @@
-Caloplaca callopisma var. callopisma VARIETY
-=======
+# Caloplaca callopisma SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Caloplaca callopisma var. callopisma
+null
 
 ### Remarks
 null

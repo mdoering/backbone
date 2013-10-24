@@ -1,5 +1,4 @@
-Ganoderma nitidum Murrill, 1908 SPECIES
-=======
+# Ganoderma nitidum Murrill, 1908 SPECIES
 
 #### Status
 ACCEPTED

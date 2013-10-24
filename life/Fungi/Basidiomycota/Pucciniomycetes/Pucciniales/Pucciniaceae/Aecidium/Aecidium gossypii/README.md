@@ -1,5 +1,4 @@
-Aecidium gossypii Ellis & Everh. SPECIES
-=======
+# Aecidium gossypii Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

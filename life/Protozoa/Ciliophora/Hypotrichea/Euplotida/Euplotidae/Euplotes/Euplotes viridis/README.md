@@ -1,5 +1,4 @@
-Euplotes viridis Ehrenberg, 1840 SPECIES
-=======
+# Euplotes viridis Ehrenberg, 1840 SPECIES
 
 #### Status
 ACCEPTED

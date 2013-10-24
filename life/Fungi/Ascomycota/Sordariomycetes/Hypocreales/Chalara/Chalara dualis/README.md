@@ -1,5 +1,4 @@
-Chalara dualis Aramb. & Gamundí, 1981 SPECIES
-=======
+# Chalara dualis Aramb. & Gamundí, 1981 SPECIES
 
 #### Status
 ACCEPTED

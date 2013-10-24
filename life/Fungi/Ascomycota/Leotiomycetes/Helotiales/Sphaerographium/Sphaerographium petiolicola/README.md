@@ -1,5 +1,4 @@
-Sphaerographium petiolicola P. Karst. SPECIES
-=======
+# Sphaerographium petiolicola P. Karst. SPECIES
 
 #### Status
 ACCEPTED

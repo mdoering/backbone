@@ -1,5 +1,4 @@
-Chondrostroma GENUS
-=======
+# Chondrostroma GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmosticta GENUS
-=======
+# Parmosticta GENUS
 
 #### Status
 ACCEPTED

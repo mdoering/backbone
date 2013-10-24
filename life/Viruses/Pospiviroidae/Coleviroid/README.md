@@ -1,5 +1,4 @@
-Coleviroid: GENUS
-=======
+# Coleviroid: GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macentina uniseptata Kalb & Vezda SPECIES
-=======
+# Macentina uniseptata Kalb & Vezda SPECIES
 
 #### Status
 ACCEPTED

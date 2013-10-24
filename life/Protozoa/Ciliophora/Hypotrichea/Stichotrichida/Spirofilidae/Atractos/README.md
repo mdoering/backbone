@@ -1,5 +1,4 @@
-Atractos Vörösváry, 1950 GENUS
-=======
+# Atractos Vörösváry, 1950 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pterosporidium W.H. Ho & K.D. Hyde GENUS
-=======
+# Pterosporidium W.H. Ho & K.D. Hyde GENUS
 
 #### Status
 ACCEPTED

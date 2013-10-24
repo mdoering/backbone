@@ -1,5 +1,4 @@
-Lecidea flavocrocea Nyl. SPECIES
-=======
+# Lecidea flavocrocea Nyl. SPECIES
 
 #### Status
 ACCEPTED

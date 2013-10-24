@@ -1,5 +1,4 @@
-Stylonychia patula SPECIES
-=======
+# Stylonychia patula SPECIES
 
 #### Status
 ACCEPTED

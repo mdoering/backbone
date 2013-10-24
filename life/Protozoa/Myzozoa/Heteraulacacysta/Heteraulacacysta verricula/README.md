@@ -1,5 +1,4 @@
-Heteraulacacysta verricula (Piasecki, 1980) Lentin & Williams, 1981 SPECIES
-=======
+# Heteraulacacysta verricula (Piasecki, 1980) Lentin & Williams, 1981 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius infestans Moënne-Locc. SPECIES
-=======
+# Cortinarius infestans Moënne-Locc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Pertusaria straminea Müll. Arg. SPECIES
-=======
+# Pertusaria pertusella Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Herb. Boissier 3: 638 (1895)
+Flora, Jena 67: 283 (1884)
 
 #### Original name
-Pertusaria straminea Müll. Arg.
+Pertusaria pertusella Müll. Arg.
 
 ### Remarks
 null

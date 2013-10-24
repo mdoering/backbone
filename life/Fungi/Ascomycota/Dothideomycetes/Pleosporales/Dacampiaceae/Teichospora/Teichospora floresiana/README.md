@@ -1,5 +1,4 @@
-Teichospora floresiana Speg. SPECIES
-=======
+# Teichospora floresiana Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Monodopsis subterranea (J.B. Petersen) Hibberd SPECIES
-=======
+# Monodopsis subterranea (J.B. Petersen) Hibberd SPECIES
 
 #### Status
 ACCEPTED

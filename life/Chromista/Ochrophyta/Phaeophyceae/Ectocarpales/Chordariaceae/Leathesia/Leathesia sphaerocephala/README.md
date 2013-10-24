@@ -1,5 +1,4 @@
-Leathesia sphaerocephala Yamada SPECIES
-=======
+# Leathesia sphaerocephala Yamada SPECIES
 
 #### Status
 ACCEPTED

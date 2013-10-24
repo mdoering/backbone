@@ -1,17 +1,16 @@
-Calycina graminea (W. Phillips) Kuntze, 1898 SPECIES
-=======
+# Rutstroemia calopus P. Karst., 1893 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 448 (1898)
+null
 
 #### Original name
-Helotium gramineum W. Phillips, 1887
+Rutstroemia calopus P. Karst., 1893
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cristaspora igazuensis Stchigel, Guarro & M. Calduch SPECIES
-=======
+# Cristaspora igazuensis Stchigel, Guarro & M. Calduch SPECIES
 
 #### Status
 ACCEPTED

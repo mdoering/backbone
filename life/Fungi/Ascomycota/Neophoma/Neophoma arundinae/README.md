@@ -1,5 +1,4 @@
-Neophoma arundinae (Gäum.) Boedijn SPECIES
-=======
+# Neophoma arundinae (Gäum.) Boedijn SPECIES
 
 #### Status
 ACCEPTED

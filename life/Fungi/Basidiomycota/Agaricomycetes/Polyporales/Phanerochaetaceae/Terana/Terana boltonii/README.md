@@ -1,5 +1,4 @@
-Terana boltonii (Fr.) Kuntze SPECIES
-=======
+# Terana boltonii (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

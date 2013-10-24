@@ -1,5 +1,4 @@
-Phacus swirenkoi Skvortzov SPECIES
-=======
+# Phacus swirenkoi Skvortzov SPECIES
 
 #### Status
 ACCEPTED

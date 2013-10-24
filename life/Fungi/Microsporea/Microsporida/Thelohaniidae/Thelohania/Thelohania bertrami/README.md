@@ -1,5 +1,4 @@
-Thelohania bertrami anon. ined. SPECIES
-=======
+# Thelohania bertrami anon. ined. SPECIES
 
 #### Status
 ACCEPTED

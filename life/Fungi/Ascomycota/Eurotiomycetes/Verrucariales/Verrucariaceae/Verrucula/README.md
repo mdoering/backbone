@@ -1,5 +1,4 @@
-Verrucula GENUS
-=======
+# Verrucula GENUS
 
 #### Status
 ACCEPTED

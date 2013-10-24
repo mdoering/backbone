@@ -1,5 +1,4 @@
-Claustrofolliculina clausa Hadzi, 1951 SPECIES
-=======
+# Claustrofolliculina clausa Hadzi, 1951 SPECIES
 
 #### Status
 ACCEPTED

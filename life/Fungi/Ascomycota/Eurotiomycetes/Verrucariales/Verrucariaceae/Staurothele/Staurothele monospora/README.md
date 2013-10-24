@@ -1,5 +1,4 @@
-Staurothele monospora (Nyl.) Malme SPECIES
-=======
+# Staurothele monospora (Nyl.) Malme SPECIES
 
 #### Status
 ACCEPTED

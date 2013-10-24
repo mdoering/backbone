@@ -1,5 +1,4 @@
-Clitocybe calyx (Speg.) Sacc. SPECIES
-=======
+# Clitocybe calyx (Speg.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

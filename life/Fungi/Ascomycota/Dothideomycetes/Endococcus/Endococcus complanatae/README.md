@@ -1,5 +1,4 @@
-Endococcus complanatae Arnold SPECIES
-=======
+# Endococcus complanatae Arnold SPECIES
 
 #### Status
 ACCEPTED

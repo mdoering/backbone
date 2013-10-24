@@ -1,17 +1,16 @@
-Cercospora aleuritidis I. Miyake SPECIES
-=======
+# Cercospora aleuritis I. Miyake SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bot. Mag. , Tokyo 26: 66 (1912)
 
 #### Original name
-Cercospora aleuritidis I. Miyake
+Cercospora aleuritis I. Miyake
 
 ### Remarks
 null

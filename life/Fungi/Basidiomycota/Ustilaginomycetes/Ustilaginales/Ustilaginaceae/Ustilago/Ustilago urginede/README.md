@@ -1,5 +1,4 @@
-Ustilago urginede SPECIES
-=======
+# Ustilago urginede SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora helichrysi Chupp SPECIES
-=======
+# Cercospora helichrysi Chupp SPECIES
 
 #### Status
 ACCEPTED

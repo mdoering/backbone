@@ -1,5 +1,4 @@
-Mycena graveolens Kauffman & A.H. Sm. SPECIES
-=======
+# Mycena graveolens Kauffman & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

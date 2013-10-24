@@ -1,5 +1,4 @@
-Sphacelotheca ruprechtii Syd. SPECIES
-=======
+# Sphacelotheca ruprechtii Syd. SPECIES
 
 #### Status
 ACCEPTED

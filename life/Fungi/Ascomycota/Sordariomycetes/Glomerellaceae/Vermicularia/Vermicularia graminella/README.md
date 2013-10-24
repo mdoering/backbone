@@ -1,5 +1,4 @@
-Vermicularia graminella Syd. {?} SPECIES
-=======
+# Vermicularia graminella Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

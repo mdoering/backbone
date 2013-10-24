@@ -1,5 +1,4 @@
-Peziza capreoli Pers. SPECIES
-=======
+# Peziza capreoli Pers. SPECIES
 
 #### Status
 ACCEPTED

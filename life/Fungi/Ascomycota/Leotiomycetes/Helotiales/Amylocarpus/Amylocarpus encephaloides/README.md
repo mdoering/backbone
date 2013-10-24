@@ -1,5 +1,4 @@
-Amylocarpus encephaloides Curr., 1859 SPECIES
-=======
+# Amylocarpus encephaloides Curr., 1859 SPECIES
 
 #### Status
 ACCEPTED

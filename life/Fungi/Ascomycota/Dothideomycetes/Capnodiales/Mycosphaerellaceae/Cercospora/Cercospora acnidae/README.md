@@ -1,5 +1,4 @@
-Cercospora acnidae Ellis & Everh. SPECIES
-=======
+# Cercospora acnidae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Siphonosphaera F. Hindák, 1988 GENUS
-=======
+# Siphonosphaera F. Hindák, 1988 GENUS
 
 #### Status
 ACCEPTED

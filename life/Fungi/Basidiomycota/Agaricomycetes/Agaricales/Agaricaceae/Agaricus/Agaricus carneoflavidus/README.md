@@ -1,5 +1,4 @@
-Agaricus carneoflavidus Kalchbr. SPECIES
-=======
+# Agaricus carneoflavidus Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyathipodia arctica (Nannf.) M.M. Moser SPECIES
-=======
+# Cyathipodia arctica (Nannf.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

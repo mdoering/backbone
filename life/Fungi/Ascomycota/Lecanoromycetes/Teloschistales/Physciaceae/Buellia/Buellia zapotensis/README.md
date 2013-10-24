@@ -1,5 +1,4 @@
-Buellia zapotensis SPECIES
-=======
+# Buellia zapotensis SPECIES
 
 #### Status
 ACCEPTED

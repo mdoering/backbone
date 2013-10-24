@@ -1,5 +1,4 @@
-Pseudopithyella magnispora (K.S. Thind & Waraitch) Dissing & Raitv. SPECIES
-=======
+# Pseudopithyella magnispora (K.S. Thind & Waraitch) Dissing & Raitv. SPECIES
 
 #### Status
 ACCEPTED

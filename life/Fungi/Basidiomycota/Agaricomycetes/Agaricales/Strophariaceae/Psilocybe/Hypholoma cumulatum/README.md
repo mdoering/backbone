@@ -1,5 +1,4 @@
-Hypholoma cumulatum Herp. SPECIES
-=======
+# Hypholoma cumulatum Herp. SPECIES
 
 #### Status
 ACCEPTED

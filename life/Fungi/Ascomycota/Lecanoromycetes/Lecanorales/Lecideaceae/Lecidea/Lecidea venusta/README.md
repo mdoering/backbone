@@ -1,5 +1,4 @@
-Lecidea venusta (Stirt.) Zahlbr. SPECIES
-=======
+# Lecidea venusta (Stirt.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

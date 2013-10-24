@@ -1,5 +1,4 @@
-Porina longispora Vezda SPECIES
-=======
+# Porina longispora Vezda SPECIES
 
 #### Status
 ACCEPTED

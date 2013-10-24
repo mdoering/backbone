@@ -1,5 +1,4 @@
-Gyalecta nigricans SPECIES
-=======
+# Gyalecta nigricans SPECIES
 
 #### Status
 ACCEPTED

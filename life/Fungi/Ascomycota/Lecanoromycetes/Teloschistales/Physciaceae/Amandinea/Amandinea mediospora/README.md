@@ -1,5 +1,4 @@
-Amandinea mediospora Marbach SPECIES
-=======
+# Amandinea mediospora Marbach SPECIES
 
 #### Status
 ACCEPTED

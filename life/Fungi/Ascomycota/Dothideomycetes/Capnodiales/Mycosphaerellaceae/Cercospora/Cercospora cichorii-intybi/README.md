@@ -1,5 +1,4 @@
-Cercospora cichorii-intybi Woron. SPECIES
-=======
+# Cercospora cichorii-intybi Woron. SPECIES
 
 #### Status
 ACCEPTED

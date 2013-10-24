@@ -1,5 +1,4 @@
-Dicaeoma sagittariae (Rabenh.) Kuntze SPECIES
-=======
+# Dicaeoma sagittariae (Rabenh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

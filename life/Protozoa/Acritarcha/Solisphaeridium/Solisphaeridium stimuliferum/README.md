@@ -1,5 +1,4 @@
-Solisphaeridium stimuliferum (Deflandre, 1938) Pocock, 1972 SPECIES
-=======
+# Solisphaeridium stimuliferum (Deflandre, 1938) Pocock, 1972 SPECIES
 
 #### Status
 ACCEPTED

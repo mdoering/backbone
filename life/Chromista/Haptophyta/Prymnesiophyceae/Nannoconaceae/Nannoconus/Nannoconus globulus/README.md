@@ -1,5 +1,4 @@
-Nannoconus globulus Bronnimann, 1955 SPECIES
-=======
+# Nannoconus globulus Bronnimann, 1955 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria barbeyana Müll. Arg. SPECIES
-=======
+# Pertusaria barbeyana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

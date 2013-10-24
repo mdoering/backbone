@@ -1,5 +1,4 @@
-Tranzscheliella Lavrov GENUS
-=======
+# Tranzscheliella Lavrov GENUS
 
 #### Status
 ACCEPTED

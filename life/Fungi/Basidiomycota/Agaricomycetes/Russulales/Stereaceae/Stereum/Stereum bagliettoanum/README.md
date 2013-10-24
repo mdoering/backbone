@@ -1,5 +1,4 @@
-Stereum bagliettoanum (Fr.) Pat. SPECIES
-=======
+# Stereum bagliettoanum (Fr.) Pat. SPECIES
 
 #### Status
 ACCEPTED

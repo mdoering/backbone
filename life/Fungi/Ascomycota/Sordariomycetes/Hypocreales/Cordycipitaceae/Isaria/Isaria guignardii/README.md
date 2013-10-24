@@ -1,5 +1,4 @@
-Isaria guignardii f. guignardii FORM
-=======
+# Isaria guignardii Maheu SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Isaria guignardii f. guignardii
+Isaria guignardii Maheu
 
 ### Remarks
 null

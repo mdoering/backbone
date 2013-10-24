@@ -1,5 +1,4 @@
-Ramularia diervillae Peck SPECIES
-=======
+# Ramularia diervillae Peck SPECIES
 
 #### Status
 ACCEPTED

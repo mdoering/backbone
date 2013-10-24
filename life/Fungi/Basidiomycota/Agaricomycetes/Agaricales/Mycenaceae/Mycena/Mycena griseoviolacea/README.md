@@ -1,5 +1,4 @@
-Mycena griseoviolacea Métrod SPECIES
-=======
+# Mycena griseoviolacea Métrod SPECIES
 
 #### Status
 ACCEPTED

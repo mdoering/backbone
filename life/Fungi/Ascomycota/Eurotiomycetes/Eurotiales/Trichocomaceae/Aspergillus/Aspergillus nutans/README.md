@@ -1,5 +1,4 @@
-Aspergillus nutans McLennan & Ducker, 1954 SPECIES
-=======
+# Aspergillus nutans McLennan & Ducker, 1954 SPECIES
 
 #### Status
 ACCEPTED

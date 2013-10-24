@@ -1,5 +1,4 @@
-Stigmina annulata (Berk. & Curt.) Seifert SPECIES
-=======
+# Stigmina annulata (Berk. & Curt.) Seifert SPECIES
 
 #### Status
 ACCEPTED

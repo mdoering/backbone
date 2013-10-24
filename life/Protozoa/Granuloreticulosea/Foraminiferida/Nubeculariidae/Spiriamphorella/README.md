@@ -1,14 +1,13 @@
-Amphorella Borza & Samuel, 1977 GENUS
-=======
+# Spiriamphorella Borza & Samuel, 1977 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Geol. Sb. Bratisl. 28: 100.
+Geol. Sb. Bratisl. 28: 110.
 
 #### Original name
 null

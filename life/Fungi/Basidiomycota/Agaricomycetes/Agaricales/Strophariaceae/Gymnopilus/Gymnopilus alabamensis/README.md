@@ -1,5 +1,4 @@
-Gymnopilus alabamensis Murrill SPECIES
-=======
+# Gymnopilus alabamensis Murrill SPECIES
 
 #### Status
 ACCEPTED

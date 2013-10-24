@@ -1,14 +1,13 @@
-Phaeospora hetairizans (Leight.) Arnold ex Sacc. SPECIES
-=======
+# Pyrenidium hetairizans (Leight.) D. Hawksw. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Flora, Jena 57: 157 (1874)
+Notes R. bot. Gdn Edinb. 43(3): 504 (1986)
 
 #### Original name
 null

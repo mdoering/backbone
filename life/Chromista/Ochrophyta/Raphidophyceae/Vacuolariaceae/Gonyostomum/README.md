@@ -1,14 +1,13 @@
-Rhaphidomonas Stein, 1878 GENUS
-=======
+# Gonyostomum K.Diesing, 1866 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Org. Infus. , 3 (1), x (as Raphidomonas).
+S. B. Akad. Wiss. Wien, Math. -Naturw. Kl. , 52 (1) (1865), 332.
 
 #### Original name
 null

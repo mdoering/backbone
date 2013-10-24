@@ -1,5 +1,4 @@
-Marasmius kallioneus Huhtinen SPECIES
-=======
+# Marasmius kallioneus Huhtinen SPECIES
 
 #### Status
 ACCEPTED

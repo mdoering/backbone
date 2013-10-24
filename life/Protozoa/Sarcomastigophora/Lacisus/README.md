@@ -1,5 +1,4 @@
-Lacisus Kozur, 1993 GENUS
-=======
+# Lacisus Kozur, 1993 GENUS
 
 #### Status
 ACCEPTED

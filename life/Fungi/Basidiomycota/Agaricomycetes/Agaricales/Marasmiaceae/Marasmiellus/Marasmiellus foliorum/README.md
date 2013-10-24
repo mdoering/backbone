@@ -1,5 +1,4 @@
-Marasmiellus foliorum Singer SPECIES
-=======
+# Marasmiellus foliorum Singer SPECIES
 
 #### Status
 ACCEPTED

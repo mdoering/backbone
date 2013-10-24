@@ -1,5 +1,4 @@
-Gnomonia queenslandica B.C. Paulus, M.E. Barr & K.D. Hyde SPECIES
-=======
+# Gnomonia queenslandica B.C. Paulus, M.E. Barr & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus subpellucidus Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus subpellucidus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

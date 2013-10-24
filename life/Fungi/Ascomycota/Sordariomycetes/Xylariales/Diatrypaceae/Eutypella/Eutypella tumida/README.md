@@ -1,5 +1,4 @@
-Eutypella tumida (Ellis & Everh.) Wehm. SPECIES
-=======
+# Eutypella tumida (Ellis & Everh.) Wehm. SPECIES
 
 #### Status
 ACCEPTED

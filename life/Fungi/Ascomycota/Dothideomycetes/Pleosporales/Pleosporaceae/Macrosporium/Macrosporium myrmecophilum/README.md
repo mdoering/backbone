@@ -1,5 +1,4 @@
-Macrosporium myrmecophilum (Fresen.) Sacc. SPECIES
-=======
+# Macrosporium myrmecophilum (Fresen.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

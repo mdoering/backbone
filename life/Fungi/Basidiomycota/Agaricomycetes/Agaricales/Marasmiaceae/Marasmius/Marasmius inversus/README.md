@@ -1,5 +1,4 @@
-Marasmius inversus Massee SPECIES
-=======
+# Marasmius inversus Massee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Ceriomyces maxoni Murrill SPECIES
-=======
+# Ceriomyces maxonii Murrill SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 1(5): 219 (1909)
 
 #### Original name
-Ceriomyces maxoni Murrill
+Ceriomyces maxonii Murrill
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Thelenella reducta SPECIES
-=======
+# Thelenella reducta SPECIES
 
 #### Status
 ACCEPTED

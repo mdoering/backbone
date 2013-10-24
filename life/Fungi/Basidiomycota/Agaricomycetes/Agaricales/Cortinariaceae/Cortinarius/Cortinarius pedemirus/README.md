@@ -1,5 +1,4 @@
-Cortinarius pedemirus Chevassut & Rob. Henry SPECIES
-=======
+# Cortinarius pedemirus Chevassut & Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

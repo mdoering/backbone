@@ -1,5 +1,4 @@
-Tremella lobariacearum Diederich & M.S. Christ., 1996 SPECIES
-=======
+# Tremella lobariacearum Diederich & M.S. Christ., 1996 SPECIES
 
 #### Status
 ACCEPTED

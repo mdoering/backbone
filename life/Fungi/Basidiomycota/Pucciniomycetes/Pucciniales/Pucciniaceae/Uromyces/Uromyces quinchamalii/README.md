@@ -1,5 +1,4 @@
-Uromyces quinchamalii Neger SPECIES
-=======
+# Uromyces quinchamalii Neger SPECIES
 
 #### Status
 ACCEPTED

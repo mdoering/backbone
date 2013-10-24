@@ -1,14 +1,13 @@
-Vanrijia antarctica (Goto, Sugiy. & Iizuka) R.T. Moore SPECIES
-=======
+# Pseudozyma antarctica (Goto, Sugiy. & Iizuka) Boekhout, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. gen. appl. Microbiol. , Tokyo 41(4): 364 (1995)
 
 #### Original name
 Sporobolomyces antarcticus Goto, Sugiy. & Iizuka, 1969

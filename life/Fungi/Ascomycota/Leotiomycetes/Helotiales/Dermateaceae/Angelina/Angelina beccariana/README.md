@@ -1,5 +1,4 @@
-Angelina beccariana Ces. SPECIES
-=======
+# Angelina beccariana Ces. SPECIES
 
 #### Status
 ACCEPTED

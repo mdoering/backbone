@@ -1,5 +1,4 @@
-Lecanora ochrofusca Zahlbr. SPECIES
-=======
+# Lecanora ochrofusca Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

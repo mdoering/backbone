@@ -1,14 +1,13 @@
-Ophiodothis atromaculans Henn., 1904 SPECIES
-=======
+# Ophiodothella atromaculans (Henn.) Höhn., 1910 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 43: 258 (1904)
+Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 119: 940 (1910)
 
 #### Original name
 Ophiodothis atromaculans Henn., 1904

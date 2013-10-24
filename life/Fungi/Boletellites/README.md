@@ -1,5 +1,4 @@
-Boletellites P. Briot, Lar.-Coll. & Locq. GENUS
-=======
+# Boletellites P. Briot, Lar.-Coll. & Locq. GENUS
 
 #### Status
 ACCEPTED

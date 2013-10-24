@@ -1,5 +1,4 @@
-Puccinia ranunculi-falcati S. Ahmad SPECIES
-=======
+# Puccinia ranunculi-falcati S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

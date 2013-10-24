@@ -1,5 +1,4 @@
-Sporocarpon elegans Will. SPECIES
-=======
+# Sporocarpon elegans Will. SPECIES
 
 #### Status
 ACCEPTED

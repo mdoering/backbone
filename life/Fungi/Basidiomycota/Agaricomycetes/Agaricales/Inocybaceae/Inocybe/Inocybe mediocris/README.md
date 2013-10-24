@@ -1,5 +1,4 @@
-Inocybe mediocris (Corner & E. Horak) Garrido SPECIES
-=======
+# Inocybe mediocris (Corner & E. Horak) Garrido SPECIES
 
 #### Status
 ACCEPTED

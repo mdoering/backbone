@@ -1,5 +1,4 @@
-Segestria retifera (Stirt.) Hellb. SPECIES
-=======
+# Segestria retifera (Stirt.) Hellb. SPECIES
 
 #### Status
 ACCEPTED

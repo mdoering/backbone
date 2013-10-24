@@ -1,5 +1,4 @@
-Pannaria multifida P. M. Jørg. SPECIES
-=======
+# Pannaria multifida P. M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

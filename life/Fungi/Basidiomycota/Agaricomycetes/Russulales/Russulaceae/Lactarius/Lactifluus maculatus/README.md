@@ -1,5 +1,4 @@
-Lactifluus maculatus (Peck) Kuntze SPECIES
-=======
+# Lactifluus maculatus (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

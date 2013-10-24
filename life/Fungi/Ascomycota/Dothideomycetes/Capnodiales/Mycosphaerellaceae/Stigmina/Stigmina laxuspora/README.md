@@ -1,5 +1,4 @@
-Stigmina laxuspora R.F. Castañeda & W.B. Kendr. SPECIES
-=======
+# Stigmina laxuspora R.F. Castañeda & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

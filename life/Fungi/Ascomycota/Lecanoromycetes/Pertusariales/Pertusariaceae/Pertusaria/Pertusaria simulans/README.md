@@ -1,5 +1,4 @@
-Pertusaria simulans Zahlbr. SPECIES
-=======
+# Pertusaria simulans Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

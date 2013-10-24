@@ -1,5 +1,4 @@
-Russula septentrionalis Singer SPECIES
-=======
+# Russula septentrionalis Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Haiyanga K.L. Pang & E.B.G. Jones, 2008 GENUS
-=======
+# Haiyanga K.L. Pang & E.B.G. Jones, 2008 GENUS
 
 #### Status
 ACCEPTED

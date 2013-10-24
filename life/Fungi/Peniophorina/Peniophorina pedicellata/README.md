@@ -1,5 +1,4 @@
-Peniophorina pedicellata (Preuss) Höhn. SPECIES
-=======
+# Peniophorina pedicellata (Preuss) Höhn. SPECIES
 
 #### Status
 ACCEPTED

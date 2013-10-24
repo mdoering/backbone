@@ -1,5 +1,4 @@
-Graphis semiglyphis Vain. SPECIES
-=======
+# Graphis semiglyphis Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alysidium candidulum (Sacc.) Pound & Clem. SPECIES
-=======
+# Alysidium candidulum (Sacc.) Pound & Clem. SPECIES
 
 #### Status
 ACCEPTED

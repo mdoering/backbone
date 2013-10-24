@@ -1,5 +1,4 @@
-Phialogeniculata dimorpha Matsush. SPECIES
-=======
+# Phialogeniculata dimorpha Matsush. SPECIES
 
 #### Status
 ACCEPTED

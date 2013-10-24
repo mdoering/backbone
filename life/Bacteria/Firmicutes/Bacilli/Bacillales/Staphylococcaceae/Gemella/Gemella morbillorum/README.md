@@ -1,5 +1,4 @@
-Gemella morbillorum (Prévot, 1933) Kilpper-Bälz & Schleifer, 1988 SPECIES
-=======
+# Gemella morbillorum (Prévot, 1933) Kilpper-Bälz & Schleifer, 1988 SPECIES
 
 #### Status
 ACCEPTED

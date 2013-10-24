@@ -1,5 +1,4 @@
-Trametes truncata Lloyd SPECIES
-=======
+# Trametes truncata Lloyd SPECIES
 
 #### Status
 ACCEPTED

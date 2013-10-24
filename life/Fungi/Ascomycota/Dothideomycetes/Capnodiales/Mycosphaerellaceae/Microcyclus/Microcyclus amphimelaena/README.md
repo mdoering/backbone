@@ -1,17 +1,16 @@
-Dothidella osyridis subsp. tassiana Sacc. SUBSPECIES
-=======
+# Microcyclus amphimelaena (Mont.) Arx, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 12: 69 (1896)
+in Müller & Arx, Beitr. Kryptfl. Schweiz 11(no. 2): 375 (1962)
 
 #### Original name
-Dothidella osyridis subsp. tassiana Sacc.
+Dothidea amphimelaena Mont., 1843
 
 ### Remarks
 null

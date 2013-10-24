@@ -1,5 +1,4 @@
-Selenophoma jurineae Kalymb. SPECIES
-=======
+# Selenophoma jurineae Kalymb. SPECIES
 
 #### Status
 ACCEPTED

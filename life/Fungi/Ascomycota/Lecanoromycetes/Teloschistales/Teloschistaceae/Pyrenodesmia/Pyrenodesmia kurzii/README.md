@@ -1,5 +1,4 @@
-Pyrenodesmia kurzii Kremp. SPECIES
-=======
+# Pyrenodesmia kurzii Kremp. SPECIES
 
 #### Status
 ACCEPTED

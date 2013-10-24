@@ -1,5 +1,4 @@
-Tylopilus brevisporus Watling & T.H. Li SPECIES
-=======
+# Tylopilus brevisporus Watling & T.H. Li SPECIES
 
 #### Status
 ACCEPTED

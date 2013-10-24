@@ -1,5 +1,4 @@
-Tremella typhina Willd. SPECIES
-=======
+# Tremella typhina Willd. SPECIES
 
 #### Status
 ACCEPTED

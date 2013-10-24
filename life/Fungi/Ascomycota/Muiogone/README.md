@@ -1,5 +1,4 @@
-Muiogone Thaxt. GENUS
-=======
+# Muiogone Thaxt. GENUS
 
 #### Status
 ACCEPTED

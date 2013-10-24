@@ -1,5 +1,4 @@
-Anabaena aequalis Borge SPECIES
-=======
+# Anabaena aequalis Borge SPECIES
 
 #### Status
 ACCEPTED

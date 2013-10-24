@@ -1,5 +1,4 @@
-Phytomonas Bergey et al., 1923 GENUS
-=======
+# Phytomonas Bergey et al., 1923 GENUS
 
 #### Status
 ACCEPTED

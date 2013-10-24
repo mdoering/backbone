@@ -1,5 +1,4 @@
-Cephalothecaceae Höhn. FAMILY
-=======
+# Cephalothecaceae Höhn. FAMILY
 
 #### Status
 ACCEPTED

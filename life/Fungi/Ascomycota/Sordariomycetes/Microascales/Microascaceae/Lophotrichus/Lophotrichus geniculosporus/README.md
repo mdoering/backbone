@@ -1,5 +1,4 @@
-Lophotrichus geniculosporus Locq.-Lin. SPECIES
-=======
+# Lophotrichus geniculosporus Locq.-Lin. SPECIES
 
 #### Status
 ACCEPTED

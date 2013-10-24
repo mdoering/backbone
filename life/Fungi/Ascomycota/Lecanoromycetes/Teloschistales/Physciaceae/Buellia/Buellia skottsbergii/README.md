@@ -1,5 +1,4 @@
-Buellia skottsbergii J. Steiner & Zahlbr. SPECIES
-=======
+# Buellia skottsbergii J. Steiner & Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

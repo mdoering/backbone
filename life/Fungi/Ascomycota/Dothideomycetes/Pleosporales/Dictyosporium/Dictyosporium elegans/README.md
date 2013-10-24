@@ -1,5 +1,4 @@
-Dictyosporium elegans Corda, 1836 SPECIES
-=======
+# Dictyosporium elegans Corda, 1836 SPECIES
 
 #### Status
 ACCEPTED

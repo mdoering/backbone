@@ -1,5 +1,4 @@
-Nosema sauridae SPECIES
-=======
+# Nosema sauridae SPECIES
 
 #### Status
 ACCEPTED

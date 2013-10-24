@@ -1,5 +1,4 @@
-Parmelia pseudoalbula Gyeln. SPECIES
-=======
+# Parmelia pseudoalbula Gyeln. SPECIES
 
 #### Status
 ACCEPTED

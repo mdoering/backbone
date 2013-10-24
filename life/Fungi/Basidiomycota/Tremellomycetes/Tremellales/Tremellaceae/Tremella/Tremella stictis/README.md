@@ -1,5 +1,4 @@
-Tremella stictis Alb. & Schwein. SPECIES
-=======
+# Tremella stictis Alb. & Schwein. SPECIES
 
 #### Status
 ACCEPTED

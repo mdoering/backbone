@@ -1,5 +1,4 @@
-Lecidea praespersa Nyl. SPECIES
-=======
+# Lecidea praespersa Nyl. SPECIES
 
 #### Status
 ACCEPTED

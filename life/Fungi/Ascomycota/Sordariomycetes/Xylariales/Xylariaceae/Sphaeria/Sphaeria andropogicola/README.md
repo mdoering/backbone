@@ -1,5 +1,4 @@
-Sphaeria andropogicola Schwein. SPECIES
-=======
+# Sphaeria andropogicola Schwein. SPECIES
 
 #### Status
 ACCEPTED

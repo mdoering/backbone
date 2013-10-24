@@ -1,14 +1,13 @@
-Pseudopeziza exigua Niessl, 1876 SPECIES
-=======
+# Ploettnera exigua (Niessl) Höhn., 1918 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 15: 107 (1876)
+Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 127: 556 (1918)
 
 #### Original name
 Pseudopeziza exigua Niessl, 1876

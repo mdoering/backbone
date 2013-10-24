@@ -1,5 +1,4 @@
-Drosophila punctata R. Heim SPECIES
-=======
+# Drosophila punctata R. Heim SPECIES
 
 #### Status
 ACCEPTED

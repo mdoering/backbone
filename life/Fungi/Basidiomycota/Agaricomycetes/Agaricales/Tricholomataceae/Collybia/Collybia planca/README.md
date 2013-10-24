@@ -1,5 +1,4 @@
-Collybia planca (Fr.) Mém. Soc. Émul. Montbéliard SPECIES
-=======
+# Collybia planca (Fr.) Mém. Soc. Émul. Montbéliard SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placopsis cribellans f. cribellans FORM
-=======
+# Placopsis cribellans (Nyl.) Räsänen SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 J. Jap. Bot. 16: 90 (1940)
 
 #### Original name
-Placopsis cribellans f. cribellans
+Lecanora cribellans Nyl.
 
 ### Remarks
 null

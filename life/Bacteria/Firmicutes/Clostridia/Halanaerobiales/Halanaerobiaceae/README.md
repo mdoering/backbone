@@ -1,5 +1,4 @@
-Halanaerobiaceae FAMILY
-=======
+# Halanaerobiaceae FAMILY
 
 #### Status
 ACCEPTED

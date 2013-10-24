@@ -1,5 +1,4 @@
-Stellechinatum brachyscolum Turner, 1984 SPECIES
-=======
+# Stellechinatum brachyscolum Turner, 1984 SPECIES
 
 #### Status
 ACCEPTED

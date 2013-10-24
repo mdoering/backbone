@@ -1,5 +1,4 @@
-Sarcodon subincarnatus (K.A. Harrison) K.A. Harrison SPECIES
-=======
+# Sarcodon subincarnatus (K.A. Harrison) K.A. Harrison SPECIES
 
 #### Status
 ACCEPTED

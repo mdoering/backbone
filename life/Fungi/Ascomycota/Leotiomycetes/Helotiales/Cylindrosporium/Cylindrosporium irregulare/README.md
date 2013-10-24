@@ -1,5 +1,4 @@
-Cylindrosporium irregulare (Peck) Dearn. SPECIES
-=======
+# Cylindrosporium irregulare (Peck) Dearn. SPECIES
 
 #### Status
 ACCEPTED

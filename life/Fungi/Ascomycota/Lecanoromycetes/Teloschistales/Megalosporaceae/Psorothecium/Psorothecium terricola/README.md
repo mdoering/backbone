@@ -1,5 +1,4 @@
-Psorothecium terricola (Rehm) Lettau SPECIES
-=======
+# Psorothecium terricola (Rehm) Lettau SPECIES
 
 #### Status
 ACCEPTED

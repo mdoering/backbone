@@ -1,5 +1,4 @@
-Buellia takashimana (Nyl.) Zahlbr. SPECIES
-=======
+# Buellia takashimana (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

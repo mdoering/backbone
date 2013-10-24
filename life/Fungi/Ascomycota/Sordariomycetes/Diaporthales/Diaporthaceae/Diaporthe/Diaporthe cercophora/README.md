@@ -1,5 +1,4 @@
-Diaporthe cercophora (Ellis) Sacc. SPECIES
-=======
+# Diaporthe cercophora (Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

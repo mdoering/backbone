@@ -1,5 +1,4 @@
-Camarosporulum santiaguinum Speg. SPECIES
-=======
+# Camarosporulum santiaguinum Speg. SPECIES
 
 #### Status
 ACCEPTED

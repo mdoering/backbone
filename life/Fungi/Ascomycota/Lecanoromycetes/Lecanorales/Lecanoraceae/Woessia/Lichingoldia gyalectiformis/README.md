@@ -1,5 +1,4 @@
-Lichingoldia gyalectiformis D. Hawksw. & Poelt SPECIES
-=======
+# Lichingoldia gyalectiformis D. Hawksw. & Poelt SPECIES
 
 #### Status
 ACCEPTED

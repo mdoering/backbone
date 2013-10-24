@@ -1,5 +1,4 @@
-Usnea pulchella Motyka SPECIES
-=======
+# Usnea pulchella Motyka SPECIES
 
 #### Status
 ACCEPTED

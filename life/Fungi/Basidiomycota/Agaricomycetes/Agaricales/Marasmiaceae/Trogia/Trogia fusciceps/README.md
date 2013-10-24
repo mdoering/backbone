@@ -1,5 +1,4 @@
-Trogia fusciceps Corner SPECIES
-=======
+# Trogia fusciceps Corner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heliorthus Brönnimann & Stradner, 1960 GENUS
-=======
+# Heliorthus Brönnimann & Stradner, 1960 GENUS
 
 #### Status
 ACCEPTED

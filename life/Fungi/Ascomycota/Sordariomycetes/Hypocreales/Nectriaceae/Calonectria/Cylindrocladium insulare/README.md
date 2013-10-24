@@ -1,17 +1,16 @@
-Cylindrocladium insularae C.L. Schoch & Crous SPECIES
-=======
+# Cylindrocladium insulare C.L. Schoch & Crous SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Schoch, Crous, Wingfield & Wingfield, Mycologia 91(2): 293 (1999)
 
 #### Original name
-Cylindrocladium insularae C.L. Schoch & Crous
+Cylindrocladium insulare C.L. Schoch & Crous
 
 ### Remarks
 null

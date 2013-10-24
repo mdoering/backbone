@@ -1,5 +1,4 @@
-Melanopsamma latericollis (Fr.) Sacc. SPECIES
-=======
+# Melanopsamma latericollis (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phacidium pithyum (Fr.) Fr. SPECIES
-=======
+# Phacidium pithyum (Fr.) Fr. SPECIES
 
 #### Status
 ACCEPTED

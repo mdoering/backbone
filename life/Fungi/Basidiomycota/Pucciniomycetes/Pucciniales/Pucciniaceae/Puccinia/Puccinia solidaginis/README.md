@@ -1,5 +1,4 @@
-Puccinia solidaginis Peck SPECIES
-=======
+# Puccinia solidaginis Peck SPECIES
 
 #### Status
 ACCEPTED

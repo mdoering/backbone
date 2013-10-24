@@ -1,5 +1,4 @@
-Cercospora hibisci-sabdariffae Sawada SPECIES
-=======
+# Cercospora hibisci-sabdariffae Sawada SPECIES
 
 #### Status
 ACCEPTED

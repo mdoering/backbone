@@ -1,5 +1,4 @@
-Pseudocercospora tinosporigena U. Braun SPECIES
-=======
+# Pseudocercospora tinosporigena U. Braun SPECIES
 
 #### Status
 ACCEPTED

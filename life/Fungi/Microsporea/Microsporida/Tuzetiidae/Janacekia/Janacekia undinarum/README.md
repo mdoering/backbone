@@ -1,5 +1,4 @@
-Janacekia undinarum J.I.R. Larsson SPECIES
-=======
+# Janacekia undinarum J.I.R. Larsson SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Porina tasmanica P. M. McCarthy SPECIES
-=======
+# Porina tasmanica P. M. McCarthy SPECIES
 
 #### Status
 ACCEPTED

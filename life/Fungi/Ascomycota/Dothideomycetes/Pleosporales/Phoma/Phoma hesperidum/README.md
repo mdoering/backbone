@@ -1,5 +1,4 @@
-Phoma hesperidum McAlpine SPECIES
-=======
+# Phoma hesperidum McAlpine SPECIES
 
 #### Status
 ACCEPTED

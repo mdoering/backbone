@@ -1,5 +1,4 @@
-Polyporus bogoriensis Holterm. SPECIES
-=======
+# Polyporus bogoriensis Holterm. SPECIES
 
 #### Status
 ACCEPTED

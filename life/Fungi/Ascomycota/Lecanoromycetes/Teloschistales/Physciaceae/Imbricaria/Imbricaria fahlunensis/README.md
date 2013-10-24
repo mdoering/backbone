@@ -1,5 +1,4 @@
-Imbricaria fahlunensis (L.) DC. SPECIES
-=======
+# Imbricaria fahlunensis (L.) DC. SPECIES
 
 #### Status
 ACCEPTED

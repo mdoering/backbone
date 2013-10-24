@@ -1,5 +1,4 @@
-Phyllobathelium anomalum Lücking SPECIES
-=======
+# Phyllobathelium anomalum Lücking SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kleithriasphaeridium porospinosum R. J. Davey SPECIES
-=======
+# Kleithriasphaeridium porospinosum R. J. Davey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Holubovaniella gracilis R.F. Castañeda, 1985 SPECIES
-=======
+# Holubovaniella gracilis R.F. Castañeda, 1985 SPECIES
 
 #### Status
 ACCEPTED

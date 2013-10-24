@@ -1,5 +1,4 @@
-Trachelomonas vermosenii Van Oye SPECIES
-=======
+# Trachelomonas vermosenii Van Oye SPECIES
 
 #### Status
 ACCEPTED

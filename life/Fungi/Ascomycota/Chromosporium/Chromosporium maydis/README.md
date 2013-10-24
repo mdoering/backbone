@@ -1,5 +1,4 @@
-Chromosporium maydis (Ces.) Sacc. SPECIES
-=======
+# Chromosporium maydis (Ces.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

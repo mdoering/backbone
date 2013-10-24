@@ -1,5 +1,4 @@
-Sphaeria refinae Fr. SPECIES
-=======
+# Sphaeria refinae Fr. SPECIES
 
 #### Status
 ACCEPTED

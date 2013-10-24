@@ -1,5 +1,4 @@
-Nocardiopsis alba subsp. alba SUBSPECIES
-=======
+# Nocardiopsis alba SPECIES
 
 #### Status
 ACCEPTED

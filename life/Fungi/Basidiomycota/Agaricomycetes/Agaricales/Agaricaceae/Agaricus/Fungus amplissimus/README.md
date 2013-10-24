@@ -1,5 +1,4 @@
-Fungus amplissimus Scop. SPECIES
-=======
+# Fungus amplissimus Scop. SPECIES
 
 #### Status
 ACCEPTED

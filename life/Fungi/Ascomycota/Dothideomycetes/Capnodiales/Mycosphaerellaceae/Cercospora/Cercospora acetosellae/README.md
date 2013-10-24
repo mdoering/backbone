@@ -1,5 +1,4 @@
-Cercospora acetosellae Ellis SPECIES
-=======
+# Cercospora acetosellae Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oxytricha erethisticus Stokes, 1887 SPECIES
-=======
+# Oxytricha erethisticus Stokes, 1887 SPECIES
 
 #### Status
 ACCEPTED

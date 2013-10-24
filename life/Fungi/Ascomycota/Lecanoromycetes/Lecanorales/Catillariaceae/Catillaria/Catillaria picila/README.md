@@ -1,14 +1,13 @@
-Lecidea picila (A. Massal.) Nyl. SPECIES
-=======
+# Catillaria picila (A. Massal.) Coppins SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bolm Soc. broteriana 4: 237 (1888)
+Lichenologist 21(3): 223 (1989)
 
 #### Original name
 Biatora picila

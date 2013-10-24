@@ -1,5 +1,4 @@
-Tricholoma sclerotoideum Morse SPECIES
-=======
+# Tricholoma sclerotoideum Morse SPECIES
 
 #### Status
 ACCEPTED

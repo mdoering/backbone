@@ -1,5 +1,4 @@
-Phomopsis combreticola Gutner SPECIES
-=======
+# Phomopsis combreticola Gutner SPECIES
 
 #### Status
 ACCEPTED

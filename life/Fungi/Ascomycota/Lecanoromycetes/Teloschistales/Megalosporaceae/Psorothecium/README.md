@@ -1,5 +1,4 @@
-Psorothecium A. Massal. GENUS
-=======
+# Psorothecium A. Massal. GENUS
 
 #### Status
 ACCEPTED

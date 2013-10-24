@@ -1,17 +1,16 @@
-Cortinarius bicolor f. pumilus Nespiak FORM
-=======
+# Cortinarius cagei Melot, 1990 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora Polska (Warszawa-Kraków), Grzyby (Mycota). Basidiomycetes, Agaricales, Cortinariaceae, Cortinarius II 14: 198 (1981)
+Docums Mycol. 20(no. 80): 58 (1990)
 
 #### Original name
-Cortinarius bicolor f. pumilus Nespiak
+Cortinarius bicolor Cooke, 1873
 
 ### Remarks
 null

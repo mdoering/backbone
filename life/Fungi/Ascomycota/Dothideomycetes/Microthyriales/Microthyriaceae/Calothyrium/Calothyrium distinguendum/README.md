@@ -1,5 +1,4 @@
-Calothyrium distinguendum Bat. & Cavalc. SPECIES
-=======
+# Calothyrium distinguendum Bat. & Cavalc. SPECIES
 
 #### Status
 ACCEPTED

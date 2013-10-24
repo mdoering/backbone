@@ -1,17 +1,16 @@
-Amanita oleosa (Bougher & T. Lebel) Justo, 2010 SPECIES
-=======
+# Amarrendia oleosa Bougher & T. Lebel, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Aust. Syst. Bot. 15(4): 514 (2002)
 
 #### Original name
-null
+Amarrendia oleosa Bougher & T. Lebel, 2002
 
 ### Remarks
 null

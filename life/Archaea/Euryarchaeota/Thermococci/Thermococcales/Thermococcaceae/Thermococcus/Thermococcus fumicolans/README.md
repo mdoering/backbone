@@ -1,5 +1,4 @@
-Thermococcus fumicolans Godfroy & Meunier, 1996 SPECIES
-=======
+# Thermococcus fumicolans Godfroy & Meunier, 1996 SPECIES
 
 #### Status
 ACCEPTED

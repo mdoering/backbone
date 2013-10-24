@@ -1,5 +1,4 @@
-Zoothamnium varians Stiller, 1933 SPECIES
-=======
+# Zoothamnium varians Stiller, 1933 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola cyrillacearum Schmied. SPECIES
-=======
+# Meliola cyrillacearum Schmied. SPECIES
 
 #### Status
 ACCEPTED

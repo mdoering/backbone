@@ -1,5 +1,4 @@
-Collema meliteum Jatta SPECIES
-=======
+# Collema meliteum Jatta SPECIES
 
 #### Status
 ACCEPTED

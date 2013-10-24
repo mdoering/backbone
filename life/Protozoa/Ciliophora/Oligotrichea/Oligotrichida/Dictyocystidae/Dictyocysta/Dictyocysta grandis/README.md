@@ -1,5 +1,4 @@
-Dictyocysta grandis Brandt, 1906 SPECIES
-=======
+# Dictyocysta grandis Brandt, 1906 SPECIES
 
 #### Status
 ACCEPTED

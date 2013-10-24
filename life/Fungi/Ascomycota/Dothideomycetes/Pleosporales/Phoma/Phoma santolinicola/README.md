@@ -1,5 +1,4 @@
-Phoma santolinicola Gucevic SPECIES
-=======
+# Phoma santolinicola Gucevic SPECIES
 
 #### Status
 ACCEPTED

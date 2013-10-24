@@ -1,5 +1,4 @@
-Discosporium von Höhnel, 1915 GENUS
-=======
+# Discosporium von Höhnel, 1915 GENUS
 
 #### Status
 ACCEPTED

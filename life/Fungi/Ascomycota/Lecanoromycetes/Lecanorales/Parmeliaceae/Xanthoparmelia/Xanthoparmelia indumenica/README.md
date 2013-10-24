@@ -1,5 +1,4 @@
-Xanthoparmelia indumenica Hale SPECIES
-=======
+# Xanthoparmelia indumenica Hale SPECIES
 
 #### Status
 ACCEPTED

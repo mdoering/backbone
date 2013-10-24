@@ -1,5 +1,4 @@
-Glugea shiplei Drew, 1910 SPECIES
-=======
+# Glugea shiplei Drew, 1910 SPECIES
 
 #### Status
 ACCEPTED

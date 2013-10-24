@@ -1,5 +1,4 @@
-Lycoperdon ovalicaudatum D. Bisht, J.R. Sharma & Kreisel SPECIES
-=======
+# Lycoperdon ovalicaudatum D. Bisht, J.R. Sharma & Kreisel SPECIES
 
 #### Status
 ACCEPTED

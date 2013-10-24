@@ -1,5 +1,4 @@
-Lecanora chlorocarpa Vain. SPECIES
-=======
+# Lecanora chlorocarpa Vain. SPECIES
 
 #### Status
 ACCEPTED

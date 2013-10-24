@@ -1,5 +1,4 @@
-Pyrenula neolaevigata H. Harada SPECIES
-=======
+# Pyrenula neolaevigata H. Harada SPECIES
 
 #### Status
 ACCEPTED

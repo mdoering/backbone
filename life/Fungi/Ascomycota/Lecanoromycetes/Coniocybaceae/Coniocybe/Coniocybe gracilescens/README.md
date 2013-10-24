@@ -1,5 +1,4 @@
-Coniocybe gracilescens Willey SPECIES
-=======
+# Coniocybe gracilescens Willey SPECIES
 
 #### Status
 ACCEPTED

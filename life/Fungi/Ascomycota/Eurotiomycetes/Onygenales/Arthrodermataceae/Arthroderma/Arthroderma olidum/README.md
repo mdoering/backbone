@@ -1,5 +1,4 @@
-Arthroderma olidum C.K. Campb., Borman, C.J. Linton, Bridge & Eliz.M. Johnson SPECIES
-=======
+# Arthroderma olidum C.K. Campb., Borman, C.J. Linton, Bridge & Eliz.M. Johnson SPECIES
 
 #### Status
 ACCEPTED

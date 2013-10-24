@@ -1,5 +1,4 @@
-Russula dryophila Donadini SPECIES
-=======
+# Russula dryophila Donadini SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laryngosigma australiensis Collins, 1974 SPECIES
-=======
+# Laryngosigma australiensis Collins, 1974 SPECIES
 
 #### Status
 ACCEPTED

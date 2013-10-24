@@ -1,5 +1,4 @@
-Astylospora cinchonensis Murrill SPECIES
-=======
+# Astylospora cinchonensis Murrill SPECIES
 
 #### Status
 ACCEPTED

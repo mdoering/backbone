@@ -1,5 +1,4 @@
-Macrosporium caespitulosum Rabenh. SPECIES
-=======
+# Macrosporium caespitulosum Rabenh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecythium Hertwig & Lesser, 1874 GENUS
-=======
+# Lecythium Hertwig & Lesser, 1874 GENUS
 
 #### Status
 ACCEPTED

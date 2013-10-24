@@ -1,17 +1,16 @@
-Alternaria araliae H.C. Greene, 1953 SPECIES
-=======
+# Alternaria panax Whetzel, 1912 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Wis. Acad. Sci. Arts Lett. 42: 80 (1953)
+Bulletin of the U. S. Department of Agriculture 250: 11 (1912)
 
 #### Original name
-Alternaria araliae H.C. Greene, 1953
+Alternaria panax Whetzel, 1912
 
 ### Remarks
 null

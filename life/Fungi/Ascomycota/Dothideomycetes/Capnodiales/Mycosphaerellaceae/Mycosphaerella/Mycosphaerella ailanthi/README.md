@@ -1,5 +1,4 @@
-Mycosphaerella ailanthi (Ellis & Barthol.) House SPECIES
-=======
+# Mycosphaerella ailanthi (Ellis & Barthol.) House SPECIES
 
 #### Status
 ACCEPTED

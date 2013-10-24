@@ -1,5 +1,4 @@
-Dothidella rubi Dearn. SPECIES
-=======
+# Dothidella rubi Dearn. SPECIES
 
 #### Status
 ACCEPTED

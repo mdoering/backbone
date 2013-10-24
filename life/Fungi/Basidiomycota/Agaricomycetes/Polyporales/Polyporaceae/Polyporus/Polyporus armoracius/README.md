@@ -1,5 +1,4 @@
-Polyporus armoracius Berk. SPECIES
-=======
+# Polyporus armoracius Berk. SPECIES
 
 #### Status
 ACCEPTED

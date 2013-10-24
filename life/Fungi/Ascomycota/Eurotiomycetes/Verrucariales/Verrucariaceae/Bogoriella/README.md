@@ -1,5 +1,4 @@
-Bogoriella Zahlbruckner, 1928 GENUS
-=======
+# Bogoriella Zahlbruckner, 1928 GENUS
 
 #### Status
 ACCEPTED

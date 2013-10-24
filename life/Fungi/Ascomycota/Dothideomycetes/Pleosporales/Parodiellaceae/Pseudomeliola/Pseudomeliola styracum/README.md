@@ -1,5 +1,4 @@
-Pseudomeliola styracum (Speg.) Petr. SPECIES
-=======
+# Pseudomeliola styracum (Speg.) Petr. SPECIES
 
 #### Status
 ACCEPTED

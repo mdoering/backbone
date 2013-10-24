@@ -1,5 +1,4 @@
-Inocybe squarrosoamethystina Singer SPECIES
-=======
+# Inocybe squarrosoamethystina Singer SPECIES
 
 #### Status
 ACCEPTED

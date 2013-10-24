@@ -1,5 +1,4 @@
-Caeoma cheilanthis Peck SPECIES
-=======
+# Caeoma cheilanthis Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ellobiophrya oblida (Naidenova & Zaika, 1969) Clamp, 1982 SPECIES
-=======
+# Ellobiophrya oblida (Naidenova & Zaika, 1969) Clamp, 1982 SPECIES
 
 #### Status
 ACCEPTED

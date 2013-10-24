@@ -1,5 +1,4 @@
-Chaetosphaeria caelestina Höhn. SPECIES
-=======
+# Chaetosphaeria caelestina Höhn. SPECIES
 
 #### Status
 ACCEPTED

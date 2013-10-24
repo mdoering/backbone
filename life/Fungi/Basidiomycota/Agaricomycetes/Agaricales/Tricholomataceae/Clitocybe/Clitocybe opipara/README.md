@@ -1,5 +1,4 @@
-Clitocybe opipara (Fr.) P. Kumm. SPECIES
-=======
+# Clitocybe opipara (Fr.) P. Kumm. SPECIES
 
 #### Status
 ACCEPTED

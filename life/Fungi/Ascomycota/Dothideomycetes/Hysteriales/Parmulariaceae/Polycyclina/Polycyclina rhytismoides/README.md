@@ -1,17 +1,16 @@
-Polycyclus rhytismoides (Speg.) Höhn., 1909 SPECIES
-=======
+# Polycyclina rhytismoides (Speg.) Theiss. & Syd., 1915 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 13(3/4): 212 (1915)
 
 #### Original name
-null
+Hysterostomella rhytismoides (Schwein. ex Berk. & M.A. Curtis) Rehm, 1898
 
 ### Remarks
 null

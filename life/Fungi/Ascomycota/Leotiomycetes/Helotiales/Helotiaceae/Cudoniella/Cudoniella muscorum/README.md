@@ -1,5 +1,4 @@
-Cudoniella muscorum Linder SPECIES
-=======
+# Cudoniella muscorum Linder SPECIES
 
 #### Status
 ACCEPTED

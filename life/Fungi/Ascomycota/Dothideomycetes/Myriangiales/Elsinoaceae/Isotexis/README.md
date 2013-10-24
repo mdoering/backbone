@@ -1,5 +1,4 @@
-Isotexis GENUS
-=======
+# Isotexis GENUS
 
 #### Status
 ACCEPTED

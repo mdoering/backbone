@@ -1,5 +1,4 @@
-Helotium alboluteum (Pers.) P. Karst. SPECIES
-=======
+# Helotium alboluteum (Pers.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

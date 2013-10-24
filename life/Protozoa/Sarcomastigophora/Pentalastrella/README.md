@@ -1,5 +1,4 @@
-Pentalastrella Haeckel, 1887 GENUS
-=======
+# Pentalastrella Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma kentrophylli Speg. SPECIES
-=======
+# Phoma kentrophylli Speg. SPECIES
 
 #### Status
 ACCEPTED

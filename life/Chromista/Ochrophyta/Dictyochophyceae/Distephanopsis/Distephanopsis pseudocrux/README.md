@@ -1,5 +1,4 @@
-Distephanopsis pseudocrux (P. Schulz) T. V. Desikachary & P. Prema SPECIES
-=======
+# Distephanopsis pseudocrux (P. Schulz) T. V. Desikachary & P. Prema SPECIES
 
 #### Status
 ACCEPTED

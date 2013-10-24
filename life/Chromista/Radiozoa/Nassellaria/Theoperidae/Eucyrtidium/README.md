@@ -1,14 +1,13 @@
-Eucyrtium Bronn & Roemer, 1854 GENUS
-=======
+# Eucyrtidium Ehrenberg, 1847 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lethaea Geogn. , ed. 3, 3 (6), 194.
+Ber. Verh. Preuss. Akad. Wiss. , 1846, Tab. p. 385.
 
 #### Original name
 null

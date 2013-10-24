@@ -1,5 +1,4 @@
-Bovista kurgaldzhinica Schwarzman & Philimonova SPECIES
-=======
+# Bovista kurgaldzhinica Schwarzman & Philimonova SPECIES
 
 #### Status
 ACCEPTED

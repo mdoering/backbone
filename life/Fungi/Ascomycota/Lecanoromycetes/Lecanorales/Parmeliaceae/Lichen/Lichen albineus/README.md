@@ -1,5 +1,4 @@
-Lichen albineus Ludw. {?} SPECIES
-=======
+# Lichen albineus Ludw. {?} SPECIES
 
 #### Status
 ACCEPTED

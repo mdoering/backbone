@@ -1,5 +1,4 @@
-Periconiella Sacc. GENUS
-=======
+# Periconiella Sacc. GENUS
 
 #### Status
 ACCEPTED

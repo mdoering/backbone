@@ -1,5 +1,4 @@
-Rhizopycnis vagum D.F. Farr, 1998 SPECIES
-=======
+# Rhizopycnis vagum D.F. Farr, 1998 SPECIES
 
 #### Status
 ACCEPTED

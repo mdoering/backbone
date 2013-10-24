@@ -1,5 +1,4 @@
-Linodochium album R.F. Castañeda & W.B. Kendr., 1990 SPECIES
-=======
+# Linodochium album R.F. Castañeda & W.B. Kendr., 1990 SPECIES
 
 #### Status
 ACCEPTED

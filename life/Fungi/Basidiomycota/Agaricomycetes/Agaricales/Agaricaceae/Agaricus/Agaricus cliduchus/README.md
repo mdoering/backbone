@@ -1,5 +1,4 @@
-Agaricus cliduchus Secr. SPECIES
-=======
+# Agaricus cliduchus Secr. SPECIES
 
 #### Status
 ACCEPTED

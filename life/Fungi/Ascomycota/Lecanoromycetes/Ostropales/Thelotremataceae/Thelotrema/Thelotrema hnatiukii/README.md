@@ -1,5 +1,4 @@
-Thelotrema hnatiukii Sipman SPECIES
-=======
+# Thelotrema hnatiukii Sipman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psathyrella subfilipes A.H. Sm. SPECIES
-=======
+# Psathyrella subfilipes A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

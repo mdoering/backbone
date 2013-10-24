@@ -1,8 +1,7 @@
-Sphaerostilbe macowani (Körb.) Cooke SPECIES
-=======
+# Sphaerostilbe macowanii (Körb.) Cooke SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

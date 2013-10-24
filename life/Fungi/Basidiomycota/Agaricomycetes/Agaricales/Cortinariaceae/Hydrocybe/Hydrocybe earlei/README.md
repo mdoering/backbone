@@ -1,5 +1,4 @@
-Hydrocybe earlei Murrill SPECIES
-=======
+# Hydrocybe earlei Murrill SPECIES
 
 #### Status
 ACCEPTED

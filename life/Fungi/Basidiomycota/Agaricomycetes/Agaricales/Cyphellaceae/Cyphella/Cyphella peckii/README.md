@@ -1,5 +1,4 @@
-Cyphella peckii Sacc. SPECIES
-=======
+# Cyphella peckii Sacc. SPECIES
 
 #### Status
 ACCEPTED

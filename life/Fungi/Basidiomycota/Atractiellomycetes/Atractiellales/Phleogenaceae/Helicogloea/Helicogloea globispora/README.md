@@ -1,5 +1,4 @@
-Helicogloea globispora Sheng H. Wu & Z.C. Chen, 2000 SPECIES
-=======
+# Helicogloea globispora Sheng H. Wu & Z.C. Chen, 2000 SPECIES
 
 #### Status
 ACCEPTED

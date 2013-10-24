@@ -1,5 +1,4 @@
-Calicium virellum Nyl. SPECIES
-=======
+# Calicium virellum Nyl. SPECIES
 
 #### Status
 ACCEPTED

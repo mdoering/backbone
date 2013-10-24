@@ -1,5 +1,4 @@
-Gyalectidium macaronesicum Sérus. SPECIES
-=======
+# Gyalectidium macaronesicum Sérus. SPECIES
 
 #### Status
 ACCEPTED

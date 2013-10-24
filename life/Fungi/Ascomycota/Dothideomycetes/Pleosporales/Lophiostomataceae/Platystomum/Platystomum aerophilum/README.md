@@ -1,5 +1,4 @@
-Platystomum aerophilum Speg. SPECIES
-=======
+# Platystomum aerophilum Speg. SPECIES
 
 #### Status
 ACCEPTED

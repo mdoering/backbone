@@ -1,5 +1,4 @@
-Collema pycnocarpoides (Jatta) Zahlbr. SPECIES
-=======
+# Collema pycnocarpoides (Jatta) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

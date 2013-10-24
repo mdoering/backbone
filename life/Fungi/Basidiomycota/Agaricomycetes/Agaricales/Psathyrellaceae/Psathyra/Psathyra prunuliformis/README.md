@@ -1,5 +1,4 @@
-Psathyra prunuliformis Murrill SPECIES
-=======
+# Psathyra prunuliformis Murrill SPECIES
 
 #### Status
 ACCEPTED

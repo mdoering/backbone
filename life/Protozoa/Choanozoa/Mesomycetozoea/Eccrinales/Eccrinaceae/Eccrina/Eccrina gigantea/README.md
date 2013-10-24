@@ -1,5 +1,4 @@
-Eccrina gigantea Tuzet & Manier SPECIES
-=======
+# Eccrina gigantea Tuzet & Manier SPECIES
 
 #### Status
 ACCEPTED

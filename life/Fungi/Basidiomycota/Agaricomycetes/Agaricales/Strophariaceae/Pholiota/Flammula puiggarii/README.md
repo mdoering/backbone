@@ -1,5 +1,4 @@
-Flammula puiggarii Speg. SPECIES
-=======
+# Flammula puiggarii Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptostroma oxycocci Hilitzer SPECIES
-=======
+# Leptostroma oxycocci Hilitzer SPECIES
 
 #### Status
 ACCEPTED

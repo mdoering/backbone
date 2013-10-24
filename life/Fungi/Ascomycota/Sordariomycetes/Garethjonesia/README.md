@@ -1,5 +1,4 @@
-Garethjonesia K.D. Hyde GENUS
-=======
+# Garethjonesia K.D. Hyde GENUS
 
 #### Status
 ACCEPTED

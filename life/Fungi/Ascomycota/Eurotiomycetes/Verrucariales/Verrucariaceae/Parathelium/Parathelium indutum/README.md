@@ -1,17 +1,16 @@
-Parathelium indutun Nyl. SPECIES
-=======
+# Parathelium indutum Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bot. Ztg. 20: (1862)
 
 #### Original name
-Parathelium indutun Nyl.
+Parathelium indutum Nyl.
 
 ### Remarks
 null

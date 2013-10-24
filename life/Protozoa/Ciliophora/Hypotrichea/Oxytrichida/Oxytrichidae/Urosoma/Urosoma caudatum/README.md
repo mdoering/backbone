@@ -1,8 +1,7 @@
-Urosoma cienkowski Kowalewski, 1882 SPECIES
-=======
+# Urosoma caudatum (Ehrenberg, 1833) Berger, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

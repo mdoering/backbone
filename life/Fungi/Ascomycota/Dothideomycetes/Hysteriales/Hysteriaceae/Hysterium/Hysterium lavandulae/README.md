@@ -1,5 +1,4 @@
-Hysterium lavandulae Urries SPECIES
-=======
+# Hysterium lavandulae Urries SPECIES
 
 #### Status
 ACCEPTED

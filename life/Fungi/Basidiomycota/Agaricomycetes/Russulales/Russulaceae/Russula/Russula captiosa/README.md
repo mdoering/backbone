@@ -1,5 +1,4 @@
-Russula captiosa Reumaux SPECIES
-=======
+# Russula captiosa Reumaux SPECIES
 
 #### Status
 ACCEPTED

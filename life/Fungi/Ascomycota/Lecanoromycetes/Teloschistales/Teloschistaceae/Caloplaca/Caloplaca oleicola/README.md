@@ -1,5 +1,4 @@
-Caloplaca oleicola (J. Steiner) Van den Boom & Breuss SPECIES
-=======
+# Caloplaca oleicola (J. Steiner) Van den Boom & Breuss SPECIES
 
 #### Status
 ACCEPTED

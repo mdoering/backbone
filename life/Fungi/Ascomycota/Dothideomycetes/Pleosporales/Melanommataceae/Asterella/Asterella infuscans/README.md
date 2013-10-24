@@ -1,5 +1,4 @@
-Asterella infuscans (G. Winter) Sacc. SPECIES
-=======
+# Asterella infuscans (G. Winter) Sacc. SPECIES
 
 #### Status
 ACCEPTED

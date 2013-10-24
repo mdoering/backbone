@@ -1,14 +1,13 @@
-Cladonia gracilis subsp. tenerrima Ahti SUBSPECIES
-=======
+# Cladonia tenerrima (Ahti) S. Hammer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. bot. fenn. 17(2): 208 (1980)
+Bryologist 106(3): 429 (2003)
 
 #### Original name
 Cladonia gracilis subsp. tenerrima Ahti

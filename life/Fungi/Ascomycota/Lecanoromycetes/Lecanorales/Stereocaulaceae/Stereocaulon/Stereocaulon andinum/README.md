@@ -1,5 +1,4 @@
-Stereocaulon andinum B. de Lesd. SPECIES
-=======
+# Stereocaulon andinum B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

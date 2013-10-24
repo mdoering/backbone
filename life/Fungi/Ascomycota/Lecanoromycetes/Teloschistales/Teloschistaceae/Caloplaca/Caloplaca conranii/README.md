@@ -1,5 +1,4 @@
-Caloplaca conranii S.Y. Kondr. & Kärnefelt SPECIES
-=======
+# Caloplaca conranii S.Y. Kondr. & Kärnefelt SPECIES
 
 #### Status
 ACCEPTED

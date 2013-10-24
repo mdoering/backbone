@@ -1,17 +1,16 @@
-Gerlachia oryzae (Hashioka & Yokogi) W. Gams, 1980 SPECIES
-=======
+# Monographella albescens (Thüm.) V.O. Parkinson, Sivan. & C. Booth, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Gams & Müller, Neth. Jl Pl. Path. 86(1): 50 (1980)
+Trans. Br. mycol. Soc. 76(1): 64 (1981)
 
 #### Original name
-Rhynchosporium oryzae Hashioka & Yokogi, 1955
+Metasphaeria albescens Thüm., 1889
 
 ### Remarks
 null

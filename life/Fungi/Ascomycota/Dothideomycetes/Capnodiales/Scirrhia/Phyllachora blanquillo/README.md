@@ -1,5 +1,4 @@
-Phyllachora blanquillo Speg., 1909 SPECIES
-=======
+# Phyllachora blanquillo Speg., 1909 SPECIES
 
 #### Status
 DOUBTFUL

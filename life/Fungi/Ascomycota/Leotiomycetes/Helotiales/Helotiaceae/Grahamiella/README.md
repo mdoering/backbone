@@ -1,5 +1,4 @@
-Grahamiella Spooner GENUS
-=======
+# Grahamiella Spooner GENUS
 
 #### Status
 ACCEPTED

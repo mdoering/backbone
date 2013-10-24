@@ -1,5 +1,4 @@
-Dictyocysta inaequalis Brandt, 1906 SPECIES
-=======
+# Dictyocysta inaequalis Brandt, 1906 SPECIES
 
 #### Status
 ACCEPTED

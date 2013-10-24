@@ -1,5 +1,4 @@
-Gloeocystidiellum formosanum Sheng H. Wu, 1996 SPECIES
-=======
+# Gloeocystidiellum formosanum Sheng H. Wu, 1996 SPECIES
 
 #### Status
 ACCEPTED

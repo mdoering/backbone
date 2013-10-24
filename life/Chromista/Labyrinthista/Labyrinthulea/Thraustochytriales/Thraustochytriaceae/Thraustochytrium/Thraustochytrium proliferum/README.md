@@ -1,5 +1,4 @@
-Thraustochytrium proliferum Sparrow, 1936 SPECIES
-=======
+# Thraustochytrium proliferum Sparrow, 1936 SPECIES
 
 #### Status
 ACCEPTED

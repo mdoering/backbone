@@ -1,5 +1,4 @@
-Diaporthe congener Ellis & Everh. SPECIES
-=======
+# Diaporthe congener Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

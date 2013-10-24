@@ -1,5 +1,4 @@
-Ascochyta hupkei H. Ruppr. SPECIES
-=======
+# Ascochyta hupkei H. Ruppr. SPECIES
 
 #### Status
 ACCEPTED

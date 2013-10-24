@@ -1,17 +1,16 @@
-Polystictus fallaciosus Speg., 1898 SPECIES
-=======
+# Echinoporia aculeifera (Berk. & M.A. Curtis) Ryvarden, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Anal. Mus. nac. Hist. nat. B. Aires 6: 169 (1898)
+Mycotaxon 20(2): 330 (1984)
 
 #### Original name
-Polystictus fallaciosus Speg., 1898
+Trametes aculeifera Berk. & M.A. Curtis, 1868
 
 ### Remarks
 null

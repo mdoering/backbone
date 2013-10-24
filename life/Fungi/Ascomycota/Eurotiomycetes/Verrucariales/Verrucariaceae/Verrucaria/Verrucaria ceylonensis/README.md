@@ -1,5 +1,4 @@
-Verrucaria ceylonensis (A. Massal.) Leight. SPECIES
-=======
+# Verrucaria ceylonensis (A. Massal.) Leight. SPECIES
 
 #### Status
 ACCEPTED

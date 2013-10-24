@@ -1,5 +1,4 @@
-Marasmius sordidus Massee SPECIES
-=======
+# Marasmius sordidus Massee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bellotia Harvey, 1855 GENUS
-=======
+# Bellotia Harvey, 1855 GENUS
 
 #### Status
 ACCEPTED

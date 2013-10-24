@@ -1,5 +1,4 @@
-Scrippsiella infula (Deflandre) Montresor SPECIES
-=======
+# Scrippsiella infula (Deflandre) Montresor SPECIES
 
 #### Status
 ACCEPTED

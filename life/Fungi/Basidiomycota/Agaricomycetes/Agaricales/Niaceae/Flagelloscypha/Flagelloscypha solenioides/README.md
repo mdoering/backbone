@@ -1,5 +1,4 @@
-Flagelloscypha solenioides (P. Karst.) W.B. Cooke SPECIES
-=======
+# Flagelloscypha solenioides (P. Karst.) W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

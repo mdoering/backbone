@@ -1,5 +1,4 @@
-Belonidium laschii Rehm SPECIES
-=======
+# Belonidium laschii Rehm SPECIES
 
 #### Status
 ACCEPTED

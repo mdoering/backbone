@@ -1,14 +1,13 @@
-Gyalecta roseola Arnold SPECIES
-=======
+# Gyalidea roseola (Arnold) Lettau ex Vezda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Verh. zool. -bot. Ges. Wein 23: 95 (1873)
+null
 
 #### Original name
 Gyalecta roseola Arnold

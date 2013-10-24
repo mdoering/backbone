@@ -1,5 +1,4 @@
-Pyrenula limae Vain. SPECIES
-=======
+# Pyrenula limae Vain. SPECIES
 
 #### Status
 ACCEPTED

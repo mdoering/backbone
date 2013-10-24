@@ -1,5 +1,4 @@
-Ectocarpus chnoosporae Børgesen, 1924 SPECIES
-=======
+# Ectocarpus chnoosporae Børgesen, 1924 SPECIES
 
 #### Status
 ACCEPTED

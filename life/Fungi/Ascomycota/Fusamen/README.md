@@ -1,5 +1,4 @@
-Fusamen (Sacc.) P. Karst. GENUS
-=======
+# Fusamen (Sacc.) P. Karst. GENUS
 
 #### Status
 ACCEPTED

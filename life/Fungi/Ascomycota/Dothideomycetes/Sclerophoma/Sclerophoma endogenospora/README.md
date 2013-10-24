@@ -1,5 +1,4 @@
-Sclerophoma endogenospora Laubert SPECIES
-=======
+# Sclerophoma endogenospora Laubert SPECIES
 
 #### Status
 ACCEPTED

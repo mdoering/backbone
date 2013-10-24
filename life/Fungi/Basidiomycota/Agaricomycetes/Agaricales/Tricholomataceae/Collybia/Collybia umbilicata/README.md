@@ -1,5 +1,4 @@
-Collybia umbilicata (Dennis) Dennis SPECIES
-=======
+# Collybia umbilicata (Dennis) Dennis SPECIES
 
 #### Status
 ACCEPTED

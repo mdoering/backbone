@@ -1,5 +1,4 @@
-Coniothecium globiferum Corda SPECIES
-=======
+# Coniothecium globiferum Corda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Phomopsis occulta var. thujae (Died.) Grove, 1935 VARIETY
-=======
+# Phomopsis thujae Died., 1912 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-British Stem- and Leaf-Fungi (Coelomycetes) (Cambridge) 1: 180 (1935)
+Krypt. -Fl. Brandenburg augr. Gebiete 9(2): 275 (1912)
 
 #### Original name
 Phomopsis thujae Died., 1912

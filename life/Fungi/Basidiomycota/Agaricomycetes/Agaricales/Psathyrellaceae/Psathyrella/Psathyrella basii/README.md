@@ -1,5 +1,4 @@
-Psathyrella basii Kits van Wav. SPECIES
-=======
+# Psathyrella basii Kits van Wav. SPECIES
 
 #### Status
 ACCEPTED

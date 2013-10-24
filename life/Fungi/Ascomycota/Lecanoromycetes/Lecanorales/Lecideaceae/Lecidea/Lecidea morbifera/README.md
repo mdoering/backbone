@@ -1,5 +1,4 @@
-Lecidea morbifera Vain. SPECIES
-=======
+# Lecidea morbifera Vain. SPECIES
 
 #### Status
 ACCEPTED

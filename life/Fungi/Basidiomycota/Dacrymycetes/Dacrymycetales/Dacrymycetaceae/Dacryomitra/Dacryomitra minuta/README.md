@@ -1,5 +1,4 @@
-Dacryomitra minuta Lloyd SPECIES
-=======
+# Dacryomitra minuta Lloyd SPECIES
 
 #### Status
 ACCEPTED

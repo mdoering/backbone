@@ -1,5 +1,4 @@
-Ramalina insularis (Vain.) Räsänen SPECIES
-=======
+# Ramalina insularis (Vain.) Räsänen SPECIES
 
 #### Status
 ACCEPTED

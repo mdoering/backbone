@@ -1,5 +1,4 @@
-Coonemeria Mouch. GENUS
-=======
+# Coonemeria Mouch. GENUS
 
 #### Status
 ACCEPTED

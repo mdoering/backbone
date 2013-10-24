@@ -1,5 +1,4 @@
-Mahanteshamyces GENUS
-=======
+# Mahanteshamyces GENUS
 
 #### Status
 ACCEPTED

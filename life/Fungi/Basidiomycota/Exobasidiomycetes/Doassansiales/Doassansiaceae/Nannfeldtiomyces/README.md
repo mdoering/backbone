@@ -1,5 +1,4 @@
-Nannfeldtiomyces Vánky GENUS
-=======
+# Nannfeldtiomyces Vánky GENUS
 
 #### Status
 ACCEPTED

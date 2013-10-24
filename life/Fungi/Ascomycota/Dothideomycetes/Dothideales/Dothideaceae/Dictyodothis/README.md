@@ -1,5 +1,4 @@
-Dictyodothis Theiss. & Syd. GENUS
-=======
+# Dictyodothis Theiss. & Syd. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xanthoparmelia karoo M. D. E. Knox & Brusse SPECIES
-=======
+# Xanthoparmelia karoo M. D. E. Knox & Brusse SPECIES
 
 #### Status
 ACCEPTED

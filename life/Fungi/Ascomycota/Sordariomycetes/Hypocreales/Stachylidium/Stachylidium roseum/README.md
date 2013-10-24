@@ -1,5 +1,4 @@
-Stachylidium roseum Schwein. SPECIES
-=======
+# Stachylidium roseum Schwein. SPECIES
 
 #### Status
 ACCEPTED

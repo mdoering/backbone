@@ -1,5 +1,4 @@
-Phyllostictina ericae Höhn. SPECIES
-=======
+# Phyllostictina ericae Höhn. SPECIES
 
 #### Status
 ACCEPTED

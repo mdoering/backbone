@@ -1,5 +1,4 @@
-Fromea glabella (C. Singh, 1971) Lentin & Williams, 1981 SPECIES
-=======
+# Fromea glabella (C. Singh, 1971) Lentin & Williams, 1981 SPECIES
 
 #### Status
 ACCEPTED

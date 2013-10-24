@@ -1,5 +1,4 @@
-Kretschmaria E.M. Fries, 1849 GENUS
-=======
+# Kretschmaria E.M. Fries, 1849 GENUS
 
 #### Status
 ACCEPTED

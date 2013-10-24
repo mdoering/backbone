@@ -1,5 +1,4 @@
-Myrillium myriosporus (Rostr.) Clem. SPECIES
-=======
+# Myrillium myriosporus (Rostr.) Clem. SPECIES
 
 #### Status
 ACCEPTED

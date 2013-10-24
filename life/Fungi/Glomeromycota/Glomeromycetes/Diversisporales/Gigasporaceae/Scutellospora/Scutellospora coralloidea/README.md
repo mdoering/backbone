@@ -1,17 +1,16 @@
-Racocetra coralloidea (Trappe, Gerd. & I. Ho) Oehl, F.A. Souza & Sieverd., 2008 SPECIES
-=======
+# Scutellospora coralloidea (Trappe, Gerd. & I. Ho) C. Walker & F.E. Sanders, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 27: 181 (1986)
 
 #### Original name
-null
+Gigaspora coralloidea Trappe, Gerd. & I. Ho, 1974
 
 ### Remarks
 null

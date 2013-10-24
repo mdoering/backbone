@@ -1,5 +1,4 @@
-Pannaria xanthomelana (Nyl.) Hue SPECIES
-=======
+# Pannaria xanthomelana (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

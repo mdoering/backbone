@@ -1,5 +1,4 @@
-Saccharomonospora glauca Greiner-Mai et al., 1988 SPECIES
-=======
+# Saccharomonospora glauca Greiner-Mai et al., 1988 SPECIES
 
 #### Status
 ACCEPTED

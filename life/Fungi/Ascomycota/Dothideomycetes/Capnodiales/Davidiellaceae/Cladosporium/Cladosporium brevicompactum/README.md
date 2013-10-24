@@ -1,5 +1,4 @@
-Cladosporium brevicompactum Pidopl. & Deniak SPECIES
-=======
+# Cladosporium brevicompactum Pidopl. & Deniak SPECIES
 
 #### Status
 ACCEPTED

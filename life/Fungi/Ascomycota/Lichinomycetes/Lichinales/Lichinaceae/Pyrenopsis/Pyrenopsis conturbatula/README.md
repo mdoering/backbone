@@ -1,5 +1,4 @@
-Pyrenopsis conturbatula Nyl. SPECIES
-=======
+# Pyrenopsis conturbatula Nyl. SPECIES
 
 #### Status
 ACCEPTED

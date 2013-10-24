@@ -1,5 +1,4 @@
-Asteroma smilacinum (Bubák) B. Sutton SPECIES
-=======
+# Asteroma smilacinum (Bubák) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

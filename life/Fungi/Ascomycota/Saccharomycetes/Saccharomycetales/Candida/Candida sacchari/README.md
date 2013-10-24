@@ -1,17 +1,16 @@
-Candida saccharum Shehata SPECIES
-=======
+# Candida sacchari Shehata SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ann. Reale Ist. Super. Agric. Portici, ser. 3 8: 75 (1960)
 
 #### Original name
-Candida saccharum Shehata
+Candida sacchari Shehata
 
 ### Remarks
 null

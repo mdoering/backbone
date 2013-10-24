@@ -1,5 +1,4 @@
-Meliola jayachandranii Hosag. SPECIES
-=======
+# Meliola jayachandranii Hosag. SPECIES
 
 #### Status
 ACCEPTED

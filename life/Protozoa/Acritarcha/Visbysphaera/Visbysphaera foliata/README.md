@@ -1,5 +1,4 @@
-Visbysphaera foliata Lister in Hill, 1974 SPECIES
-=======
+# Visbysphaera foliata Lister in Hill, 1974 SPECIES
 
 #### Status
 ACCEPTED

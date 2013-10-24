@@ -1,17 +1,16 @@
-Heptameria lycopodina (Mont.) Cooke, 1889 SPECIES
-=======
+# Phaeosphaeria lycopodina (Mont.) Hedjar., 1969 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 22(1-4): 78 (1969)
 
 #### Original name
-null
+Sphaeria lycopodina Mont., 1856
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Biatorina spodophana (Nyl.) SPECIES
-=======
+# Biatorina spodophana (Nyl.) SPECIES
 
 #### Status
 ACCEPTED

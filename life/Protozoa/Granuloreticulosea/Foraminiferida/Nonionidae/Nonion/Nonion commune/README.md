@@ -1,8 +1,7 @@
-Nonion scapha (Fichtel & Moll, 1798) SPECIES
-=======
+# Nonion commune (d'Orbigny, 1846) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

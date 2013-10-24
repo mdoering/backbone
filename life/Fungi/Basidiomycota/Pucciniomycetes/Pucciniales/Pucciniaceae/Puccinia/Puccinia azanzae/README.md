@@ -1,5 +1,4 @@
-Puccinia azanzae Yadav SPECIES
-=======
+# Puccinia azanzae Yadav SPECIES
 
 #### Status
 ACCEPTED

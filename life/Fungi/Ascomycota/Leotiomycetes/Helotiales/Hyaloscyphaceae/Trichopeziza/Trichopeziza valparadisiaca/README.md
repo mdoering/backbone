@@ -1,5 +1,4 @@
-Trichopeziza valparadisiaca Speg. SPECIES
-=======
+# Trichopeziza valparadisiaca Speg. SPECIES
 
 #### Status
 ACCEPTED

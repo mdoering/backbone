@@ -1,5 +1,4 @@
-Aecidium spissum Syd. & P. Syd. SPECIES
-=======
+# Aecidium spissum Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

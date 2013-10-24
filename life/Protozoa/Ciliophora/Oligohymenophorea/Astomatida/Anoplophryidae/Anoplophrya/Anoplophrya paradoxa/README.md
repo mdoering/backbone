@@ -1,5 +1,4 @@
-Anoplophrya paradoxa SPECIES
-=======
+# Anoplophrya paradoxa SPECIES
 
 #### Status
 ACCEPTED

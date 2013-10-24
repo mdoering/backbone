@@ -1,5 +1,4 @@
-Pseudovorticella margaritata (Fromentel, 1876) Foissner & Schiffmann, 1975 SPECIES
-=======
+# Pseudovorticella margaritata (Fromentel, 1876) Foissner & Schiffmann, 1975 SPECIES
 
 #### Status
 ACCEPTED

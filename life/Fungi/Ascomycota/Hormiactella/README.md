@@ -1,5 +1,4 @@
-Hormiactella Saccardo, 1886 GENUS
-=======
+# Hormiactella Saccardo, 1886 GENUS
 
 #### Status
 ACCEPTED

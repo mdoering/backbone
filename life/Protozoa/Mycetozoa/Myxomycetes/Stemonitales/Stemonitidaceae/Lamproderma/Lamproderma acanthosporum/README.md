@@ -1,5 +1,4 @@
-Lamproderma acanthosporum Kowalski, 1968 SPECIES
-=======
+# Lamproderma acanthosporum Kowalski, 1968 SPECIES
 
 #### Status
 ACCEPTED

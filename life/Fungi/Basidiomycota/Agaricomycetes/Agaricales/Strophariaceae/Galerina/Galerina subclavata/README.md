@@ -1,17 +1,16 @@
-Galerina subclavata var. canescens Kühner VARIETY
-=======
+# Galerina subclavata Kühner, 1973 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Bull. trimest. Soc. mycol. Fr. 88(2): 152 (1973)
 
 #### Original name
-Galerina subclavata var. canescens Kühner
+Galerina subclavata Kühner, 1973
 
 ### Remarks
 null

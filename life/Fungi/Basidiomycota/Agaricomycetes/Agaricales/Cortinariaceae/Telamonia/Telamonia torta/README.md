@@ -1,5 +1,4 @@
-Telamonia torta Velen. SPECIES
-=======
+# Telamonia torta Velen. SPECIES
 
 #### Status
 ACCEPTED

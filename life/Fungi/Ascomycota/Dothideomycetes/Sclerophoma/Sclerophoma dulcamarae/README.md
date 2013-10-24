@@ -1,5 +1,4 @@
-Sclerophoma dulcamarae Höhn. SPECIES
-=======
+# Sclerophoma dulcamarae Höhn. SPECIES
 
 #### Status
 ACCEPTED

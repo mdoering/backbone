@@ -1,5 +1,4 @@
-Inocybe albodisca Peck SPECIES
-=======
+# Inocybe albodisca Peck SPECIES
 
 #### Status
 ACCEPTED

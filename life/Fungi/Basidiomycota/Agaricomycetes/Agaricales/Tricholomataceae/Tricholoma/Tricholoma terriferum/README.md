@@ -1,5 +1,4 @@
-Tricholoma terriferum Peck SPECIES
-=======
+# Tricholoma terriferum Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphis miniata Redinger SPECIES
-=======
+# Graphis miniata Redinger SPECIES
 
 #### Status
 ACCEPTED

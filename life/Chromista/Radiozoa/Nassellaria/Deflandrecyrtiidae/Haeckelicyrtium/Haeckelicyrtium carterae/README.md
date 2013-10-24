@@ -1,5 +1,4 @@
-Haeckelicyrtium carterae SPECIES
-=======
+# Haeckelicyrtium carterae SPECIES
 
 #### Status
 ACCEPTED

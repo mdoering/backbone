@@ -1,5 +1,4 @@
-Camarosporium magnoliae Grove SPECIES
-=======
+# Camarosporium magnoliae Grove SPECIES
 
 #### Status
 ACCEPTED

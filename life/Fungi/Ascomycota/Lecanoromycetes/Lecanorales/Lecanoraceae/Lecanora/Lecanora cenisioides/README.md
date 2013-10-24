@@ -1,5 +1,4 @@
-Lecanora cenisioides Lumbsch SPECIES
-=======
+# Lecanora cenisioides Lumbsch SPECIES
 
 #### Status
 ACCEPTED

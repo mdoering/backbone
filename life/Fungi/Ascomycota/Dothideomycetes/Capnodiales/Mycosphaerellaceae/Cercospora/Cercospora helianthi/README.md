@@ -1,5 +1,4 @@
-Cercospora helianthi Ellis & Everh. SPECIES
-=======
+# Cercospora helianthi Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

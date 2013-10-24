@@ -1,5 +1,4 @@
-Cercosporella indigoferae Miura SPECIES
-=======
+# Cercosporella indigoferae Miura SPECIES
 
 #### Status
 ACCEPTED

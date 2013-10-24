@@ -1,5 +1,4 @@
-Lecidea cyrtocheila Stizenb. SPECIES
-=======
+# Lecidea cyrtocheila Stizenb. SPECIES
 
 #### Status
 ACCEPTED

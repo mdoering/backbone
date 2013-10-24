@@ -1,5 +1,4 @@
-Sphaerella phellos (Schwein.) Cooke SPECIES
-=======
+# Sphaerella phellos (Schwein.) Cooke SPECIES
 
 #### Status
 ACCEPTED

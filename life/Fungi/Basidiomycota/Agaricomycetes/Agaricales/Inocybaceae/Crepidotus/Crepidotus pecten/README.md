@@ -1,5 +1,4 @@
-Crepidotus pecten Berk. & M.A. Curtis SPECIES
-=======
+# Crepidotus pecten Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

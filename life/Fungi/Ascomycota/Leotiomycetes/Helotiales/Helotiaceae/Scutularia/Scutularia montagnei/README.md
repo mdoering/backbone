@@ -1,5 +1,4 @@
-Scutularia montagnei (P. Crouan & H. Crouan) Sacc. SPECIES
-=======
+# Scutularia montagnei (P. Crouan & H. Crouan) Sacc. SPECIES
 
 #### Status
 ACCEPTED

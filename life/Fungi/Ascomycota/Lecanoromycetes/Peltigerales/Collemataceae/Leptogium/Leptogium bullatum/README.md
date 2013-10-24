@@ -1,5 +1,4 @@
-Leptogium bullatum (Sw.) Mont. SPECIES
-=======
+# Leptogium bullatum (Sw.) Mont. SPECIES
 
 #### Status
 ACCEPTED

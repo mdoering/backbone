@@ -1,5 +1,4 @@
-Rhizophydium oedogonii P.G. Richt., 1897 SPECIES
-=======
+# Rhizophydium oedogonii P.G. Richt., 1897 SPECIES
 
 #### Status
 ACCEPTED

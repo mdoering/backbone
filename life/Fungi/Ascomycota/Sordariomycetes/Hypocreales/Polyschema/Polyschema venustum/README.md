@@ -1,17 +1,16 @@
-Polyschema venusta R.F. Castañeda, Guarro & Cano SPECIES
-=======
+# Polyschema venustum R.F. Castañeda, Guarro & Cano SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 57: 452 (1996)
 
 #### Original name
-Polyschema venusta R.F. Castañeda, Guarro & Cano
+Polyschema venustum R.F. Castañeda, Guarro & Cano
 
 ### Remarks
 null

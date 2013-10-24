@@ -1,5 +1,4 @@
-Uredo bambusae-nanae J.M. Yen SPECIES
-=======
+# Uredo bambusae-nanae J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

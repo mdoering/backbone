@@ -1,5 +1,4 @@
-Barrufeta N.Sampedro & S.Fraga, 2011 GENUS
-=======
+# Barrufeta N.Sampedro & S.Fraga, 2011 GENUS
 
 #### Status
 ACCEPTED

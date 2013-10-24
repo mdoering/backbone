@@ -1,5 +1,4 @@
-Entoloma praecanum Herp. SPECIES
-=======
+# Entoloma praecanum Herp. SPECIES
 
 #### Status
 ACCEPTED

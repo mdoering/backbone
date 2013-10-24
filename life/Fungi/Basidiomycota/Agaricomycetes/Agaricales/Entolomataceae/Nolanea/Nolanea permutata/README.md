@@ -1,5 +1,4 @@
-Nolanea permutata (E. Horak) Pegler SPECIES
-=======
+# Nolanea permutata (E. Horak) Pegler SPECIES
 
 #### Status
 ACCEPTED

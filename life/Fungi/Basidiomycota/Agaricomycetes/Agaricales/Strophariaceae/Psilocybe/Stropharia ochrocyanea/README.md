@@ -1,5 +1,4 @@
-Stropharia ochrocyanea Bon SPECIES
-=======
+# Stropharia ochrocyanea Bon SPECIES
 
 #### Status
 ACCEPTED

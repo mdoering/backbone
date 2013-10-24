@@ -1,5 +1,4 @@
-Cercospora ervatamiae J.M. Yen & Lim SPECIES
-=======
+# Cercospora ervatamiae J.M. Yen & Lim SPECIES
 
 #### Status
 ACCEPTED

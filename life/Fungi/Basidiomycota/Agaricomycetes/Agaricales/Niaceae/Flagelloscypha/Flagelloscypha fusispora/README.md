@@ -1,5 +1,4 @@
-Flagelloscypha fusispora Agerer, 1980 SPECIES
-=======
+# Flagelloscypha fusispora Agerer, 1980 SPECIES
 
 #### Status
 ACCEPTED

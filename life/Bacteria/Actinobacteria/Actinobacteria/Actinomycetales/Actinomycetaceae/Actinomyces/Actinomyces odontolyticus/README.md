@@ -1,5 +1,4 @@
-Actinomyces odontolyticus Batty, 1958 (Approved Lists, 1980) SPECIES
-=======
+# Actinomyces odontolyticus Batty, 1958 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

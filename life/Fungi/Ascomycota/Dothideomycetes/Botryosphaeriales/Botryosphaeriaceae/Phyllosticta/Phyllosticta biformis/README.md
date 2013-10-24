@@ -1,5 +1,4 @@
-Phyllosticta biformis Heald & F.A. Wolf SPECIES
-=======
+# Phyllosticta biformis Heald & F.A. Wolf SPECIES
 
 #### Status
 ACCEPTED

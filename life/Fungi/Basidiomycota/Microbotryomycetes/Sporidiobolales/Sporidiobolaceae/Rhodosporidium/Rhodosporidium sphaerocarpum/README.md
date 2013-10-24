@@ -1,5 +1,4 @@
-Rhodosporidium sphaerocarpum S.Y. Newell & Fell, 1970 SPECIES
-=======
+# Rhodosporidium sphaerocarpum S.Y. Newell & Fell, 1970 SPECIES
 
 #### Status
 ACCEPTED

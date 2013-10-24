@@ -1,5 +1,4 @@
-Nectria dispersa Cooke & Ellis SPECIES
-=======
+# Nectria dispersa Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

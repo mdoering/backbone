@@ -1,5 +1,4 @@
-Peronospora veronicae-cymbalariae Rayss SPECIES
-=======
+# Peronospora veronicae-cymbalariae Rayss SPECIES
 
 #### Status
 ACCEPTED

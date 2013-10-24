@@ -1,5 +1,4 @@
-Puccinia caricis-siderostictae Dietel SPECIES
-=======
+# Puccinia caricis-siderostictae Dietel SPECIES
 
 #### Status
 ACCEPTED

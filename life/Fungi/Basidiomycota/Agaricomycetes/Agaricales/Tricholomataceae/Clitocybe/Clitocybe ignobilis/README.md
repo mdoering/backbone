@@ -1,5 +1,4 @@
-Clitocybe ignobilis (Joss.) Singer SPECIES
-=======
+# Clitocybe ignobilis (Joss.) Singer SPECIES
 
 #### Status
 ACCEPTED

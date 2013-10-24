@@ -1,5 +1,4 @@
-Neolentiporus squamosellus (Bernicchia & Ryvarden) Bernicchia & Ryvarden SPECIES
-=======
+# Neolentiporus squamosellus (Bernicchia & Ryvarden) Bernicchia & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

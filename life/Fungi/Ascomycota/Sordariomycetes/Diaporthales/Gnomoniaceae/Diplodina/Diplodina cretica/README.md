@@ -1,5 +1,4 @@
-Diplodina cretica Petr. SPECIES
-=======
+# Diplodina cretica Petr. SPECIES
 
 #### Status
 ACCEPTED

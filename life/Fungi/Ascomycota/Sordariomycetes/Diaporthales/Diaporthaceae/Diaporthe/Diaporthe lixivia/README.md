@@ -1,5 +1,4 @@
-Diaporthe lixivia (Fr.) Sacc. SPECIES
-=======
+# Diaporthe lixivia (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

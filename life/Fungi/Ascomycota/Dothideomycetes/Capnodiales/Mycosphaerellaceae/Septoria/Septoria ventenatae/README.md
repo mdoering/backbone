@@ -1,5 +1,4 @@
-Septoria ventenatae Sandu SPECIES
-=======
+# Septoria ventenatae Sandu SPECIES
 
 #### Status
 ACCEPTED

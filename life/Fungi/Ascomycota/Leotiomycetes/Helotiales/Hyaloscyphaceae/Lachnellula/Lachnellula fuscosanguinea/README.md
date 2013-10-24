@@ -1,17 +1,16 @@
-Dasyscyphus fuscosanguineus var. fuscosanguineus VARIETY
-=======
+# Lachnellula fuscosanguinea (Rehm) Dennis, 1962 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ber. naturw. Augsburg 30 (1872)
+Persoonia 2(2): 184 (1962)
 
 #### Original name
-Dasyscyphus fuscosanguineus var. fuscosanguineus
+Dasyscyphus fuscosanguineus Rehm, 1872
 
 ### Remarks
 null

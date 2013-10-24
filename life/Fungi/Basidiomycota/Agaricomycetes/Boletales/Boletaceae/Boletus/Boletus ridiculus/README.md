@@ -1,5 +1,4 @@
-Boletus ridiculus Corner SPECIES
-=======
+# Boletus ridiculus Corner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Microdiplodia evonymella Petr. SPECIES
-=======
+# Microdiplodia euonymella Petr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Microdiplodia evonymella Petr.
+Microdiplodia euonymella Petr.
 
 ### Remarks
 null

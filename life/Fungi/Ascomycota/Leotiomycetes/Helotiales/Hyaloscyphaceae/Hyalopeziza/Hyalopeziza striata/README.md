@@ -1,5 +1,4 @@
-Hyalopeziza striata Gamundí & Giaiotti SPECIES
-=======
+# Hyalopeziza striata Gamundí & Giaiotti SPECIES
 
 #### Status
 ACCEPTED

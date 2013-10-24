@@ -1,5 +1,4 @@
-Schilleriella anuraea Pascher, 1932 SPECIES
-=======
+# Schilleriella anuraea Pascher, 1932 SPECIES
 
 #### Status
 ACCEPTED

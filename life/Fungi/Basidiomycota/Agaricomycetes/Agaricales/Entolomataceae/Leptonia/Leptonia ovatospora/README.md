@@ -1,5 +1,4 @@
-Leptonia ovatospora Largent SPECIES
-=======
+# Leptonia ovatospora Largent SPECIES
 
 #### Status
 ACCEPTED

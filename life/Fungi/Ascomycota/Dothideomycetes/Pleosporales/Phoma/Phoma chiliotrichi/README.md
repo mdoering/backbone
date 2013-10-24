@@ -1,5 +1,4 @@
-Phoma chiliotrichi Cotton SPECIES
-=======
+# Phoma chiliotrichi Cotton SPECIES
 
 #### Status
 ACCEPTED

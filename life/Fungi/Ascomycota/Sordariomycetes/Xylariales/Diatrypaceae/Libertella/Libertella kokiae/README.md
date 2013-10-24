@@ -1,17 +1,16 @@
-Libertella kokkiae Petr. SPECIES
-=======
+# Libertella kokiae Petr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 7(5-6): 405 (1953)
 
 #### Original name
-Libertella kokkiae Petr.
+Libertella kokiae Petr.
 
 ### Remarks
 null

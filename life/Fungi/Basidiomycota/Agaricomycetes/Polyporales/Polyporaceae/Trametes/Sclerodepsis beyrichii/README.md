@@ -1,5 +1,4 @@
-Sclerodepsis beyrichii (Fr.) Cooke SPECIES
-=======
+# Sclerodepsis beyrichii (Fr.) Cooke SPECIES
 
 #### Status
 ACCEPTED

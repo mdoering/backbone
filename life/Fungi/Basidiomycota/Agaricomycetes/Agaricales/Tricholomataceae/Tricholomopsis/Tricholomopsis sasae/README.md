@@ -1,5 +1,4 @@
-Tricholomopsis sasae Hongo SPECIES
-=======
+# Tricholomopsis sasae Hongo SPECIES
 
 #### Status
 ACCEPTED

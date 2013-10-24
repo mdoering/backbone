@@ -1,5 +1,4 @@
-Caloplaca bilewskii B. de Lesd. SPECIES
-=======
+# Caloplaca bilewskii B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xanthomonas melonis Vauterin et al., 1995 SPECIES
-=======
+# Xanthomonas melonis Vauterin et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

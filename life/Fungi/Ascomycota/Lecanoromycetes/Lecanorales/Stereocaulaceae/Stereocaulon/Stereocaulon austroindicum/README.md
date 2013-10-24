@@ -1,5 +1,4 @@
-Stereocaulon austroindicum I.M. Lamb SPECIES
-=======
+# Stereocaulon austroindicum I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

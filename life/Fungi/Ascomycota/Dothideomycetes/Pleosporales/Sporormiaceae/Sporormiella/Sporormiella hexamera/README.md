@@ -1,5 +1,4 @@
-Sporormiella hexamera S.I. Ahmed, Ahmedunn. & Anwar SPECIES
-=======
+# Sporormiella hexamera S.I. Ahmed, Ahmedunn. & Anwar SPECIES
 
 #### Status
 ACCEPTED

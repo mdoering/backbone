@@ -1,5 +1,4 @@
-Spirulina versicolor Cohn ex Gomont, 1892 SPECIES
-=======
+# Spirulina versicolor Cohn ex Gomont, 1892 SPECIES
 
 #### Status
 ACCEPTED

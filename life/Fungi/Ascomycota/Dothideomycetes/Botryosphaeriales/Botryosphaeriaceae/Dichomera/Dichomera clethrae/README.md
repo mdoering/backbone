@@ -1,5 +1,4 @@
-Dichomera clethrae Dearn. SPECIES
-=======
+# Dichomera clethrae Dearn. SPECIES
 
 #### Status
 ACCEPTED

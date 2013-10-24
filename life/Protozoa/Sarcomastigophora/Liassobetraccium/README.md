@@ -1,5 +1,4 @@
-Liassobetraccium Kozur, 1996 GENUS
-=======
+# Liassobetraccium Kozur, 1996 GENUS
 
 #### Status
 ACCEPTED

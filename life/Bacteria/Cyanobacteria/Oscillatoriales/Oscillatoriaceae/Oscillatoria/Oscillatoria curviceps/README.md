@@ -1,5 +1,4 @@
-Oscillatoria curviceps C. Agardh SPECIES
-=======
+# Oscillatoria curviceps C. Agardh SPECIES
 
 #### Status
 ACCEPTED

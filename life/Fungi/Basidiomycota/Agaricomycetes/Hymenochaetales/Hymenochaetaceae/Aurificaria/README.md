@@ -1,5 +1,4 @@
-Aurificaria D.A. Reid GENUS
-=======
+# Aurificaria D.A. Reid GENUS
 
 #### Status
 ACCEPTED

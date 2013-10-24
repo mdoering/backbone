@@ -1,5 +1,4 @@
-Uromyces castaneus Syd. & P. Syd. SPECIES
-=======
+# Uromyces castaneus Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aurantiosporium colombianum M. Piepenbr., 2002 SPECIES
-=======
+# Aurantiosporium colombianum M. Piepenbr., 2002 SPECIES
 
 #### Status
 ACCEPTED

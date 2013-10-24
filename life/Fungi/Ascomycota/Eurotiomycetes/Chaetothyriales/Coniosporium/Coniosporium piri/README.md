@@ -1,5 +1,4 @@
-Coniosporium piri Oudem. SPECIES
-=======
+# Coniosporium piri Oudem. SPECIES
 
 #### Status
 ACCEPTED

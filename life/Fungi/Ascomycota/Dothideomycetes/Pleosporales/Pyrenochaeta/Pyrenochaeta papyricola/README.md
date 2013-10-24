@@ -1,5 +1,4 @@
-Pyrenochaeta papyricola Ellis & Everh. SPECIES
-=======
+# Pyrenochaeta papyricola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyphagus hyponeustonica (Valkanov) Karling SPECIES
-=======
+# Polyphagus hyponeustonica (Valkanov) Karling SPECIES
 
 #### Status
 ACCEPTED

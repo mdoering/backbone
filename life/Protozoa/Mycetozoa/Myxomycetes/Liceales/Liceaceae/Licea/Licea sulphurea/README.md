@@ -1,5 +1,4 @@
-Licea sulphurea Wallr. SPECIES
-=======
+# Licea sulphurea Wallr. SPECIES
 
 #### Status
 ACCEPTED

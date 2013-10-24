@@ -1,5 +1,4 @@
-Parmelia mazarina (Wahlenb.) Spreng. SPECIES
-=======
+# Parmelia mazarina (Wahlenb.) Spreng. SPECIES
 
 #### Status
 ACCEPTED

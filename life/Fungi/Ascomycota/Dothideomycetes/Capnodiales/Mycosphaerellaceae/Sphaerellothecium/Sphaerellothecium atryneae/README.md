@@ -1,5 +1,4 @@
-Sphaerellothecium atryneae (Arnold) Cl. Roux & Triebel SPECIES
-=======
+# Sphaerellothecium atryneae (Arnold) Cl. Roux & Triebel SPECIES
 
 #### Status
 ACCEPTED

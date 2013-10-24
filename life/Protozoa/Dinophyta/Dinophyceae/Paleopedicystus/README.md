@@ -1,5 +1,4 @@
-Paleopedicystus F.L. Staplin, 1961 GENUS
-=======
+# Paleopedicystus F.L. Staplin, 1961 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cistella grumosa Senn-Irlet & Aeberh. SPECIES
-=======
+# Cistella grumosa Senn-Irlet & Aeberh. SPECIES
 
 #### Status
 ACCEPTED

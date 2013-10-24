@@ -1,5 +1,4 @@
-Phaeothecoidea Crous GENUS
-=======
+# Phaeothecoidea Crous GENUS
 
 #### Status
 ACCEPTED

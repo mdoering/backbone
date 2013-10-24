@@ -1,5 +1,4 @@
-Mollisia sericeomarginata Svrcek SPECIES
-=======
+# Mollisia sericeomarginata Svrcek SPECIES
 
 #### Status
 ACCEPTED

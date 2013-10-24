@@ -1,5 +1,4 @@
-Biatora cyanea (Ach.) Hepp SPECIES
-=======
+# Biatora cyanea (Ach.) Hepp SPECIES
 
 #### Status
 ACCEPTED

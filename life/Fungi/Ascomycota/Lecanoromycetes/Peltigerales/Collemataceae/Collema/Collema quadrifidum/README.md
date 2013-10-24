@@ -1,5 +1,4 @@
-Collema quadrifidum D. F. Stone & McCune SPECIES
-=======
+# Collema quadrifidum D. F. Stone & McCune SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Parmelia longiloba H. Magn. SPECIES
-=======
+# Hypotrachyna longiloba (H. Magn.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bryologist 96(3): 328 (1993)
 
 #### Original name
-null
+Parmelia longiloba H. Magn.
 
 ### Remarks
 null

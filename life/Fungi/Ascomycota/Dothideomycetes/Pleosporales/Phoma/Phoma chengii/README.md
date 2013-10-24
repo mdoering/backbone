@@ -1,5 +1,4 @@
-Phoma chengii Gucevic SPECIES
-=======
+# Phoma chengii Gucevic SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia syriaca Sacc. SPECIES
-=======
+# Diplodia syriaca Sacc. SPECIES
 
 #### Status
 ACCEPTED

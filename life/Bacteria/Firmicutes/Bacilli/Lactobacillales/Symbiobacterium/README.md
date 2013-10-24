@@ -1,5 +1,4 @@
-Symbiobacterium Ohno et al., 2000 GENUS
-=======
+# Symbiobacterium Ohno et al., 2000 GENUS
 
 #### Status
 ACCEPTED

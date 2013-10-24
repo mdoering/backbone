@@ -1,5 +1,4 @@
-Sphaeria cibostii De Not. SPECIES
-=======
+# Sphaeria cibostii De Not. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chloridium cylindrosporum W. Gams & Hol.-Jech. SPECIES
-=======
+# Chloridium cylindrosporum W. Gams & Hol.-Jech. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polycoccum umbilicariae (Linds.) D. Hawksw. SPECIES
-=======
+# Polycoccum umbilicariae (Linds.) D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

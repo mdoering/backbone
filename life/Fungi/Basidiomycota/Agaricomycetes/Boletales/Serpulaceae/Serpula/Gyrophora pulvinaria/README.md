@@ -1,5 +1,4 @@
-Gyrophora pulvinaria Savicz SPECIES
-=======
+# Gyrophora pulvinaria Savicz SPECIES
 
 #### Status
 ACCEPTED

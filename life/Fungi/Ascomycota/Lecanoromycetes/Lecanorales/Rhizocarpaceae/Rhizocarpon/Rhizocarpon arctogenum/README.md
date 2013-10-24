@@ -1,5 +1,4 @@
-Rhizocarpon arctogenum Gelting SPECIES
-=======
+# Rhizocarpon arctogenum Gelting SPECIES
 
 #### Status
 ACCEPTED

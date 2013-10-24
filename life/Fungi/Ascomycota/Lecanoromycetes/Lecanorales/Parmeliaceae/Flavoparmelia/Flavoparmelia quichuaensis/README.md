@@ -1,5 +1,4 @@
-Flavoparmelia quichuaensis Elix & T. H. Nash SPECIES
-=======
+# Flavoparmelia quichuaensis Elix & T. H. Nash SPECIES
 
 #### Status
 ACCEPTED

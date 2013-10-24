@@ -1,5 +1,4 @@
-Septomyxa corni Oudem., 1901 SPECIES
-=======
+# Septomyxa corni Oudem., 1901 SPECIES
 
 #### Status
 ACCEPTED

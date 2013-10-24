@@ -1,5 +1,4 @@
-Puccinia perelegans Speg. SPECIES
-=======
+# Puccinia perelegans Speg. SPECIES
 
 #### Status
 ACCEPTED

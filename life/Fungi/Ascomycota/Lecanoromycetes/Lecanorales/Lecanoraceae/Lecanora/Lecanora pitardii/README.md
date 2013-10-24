@@ -1,5 +1,4 @@
-Lecanora pitardii (B. de Lesd.) Zahlbr. SPECIES
-=======
+# Lecanora pitardii (B. de Lesd.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

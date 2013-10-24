@@ -1,14 +1,13 @@
-Agaricus wieslandri Fr., 1852 SPECIES
-=======
+# Flammulaster wieslandri (Fr.) M.M. Moser, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Öfvers. K. VetenskAkad. Forh. 8: 48 (1852)
+in Gams, Kleine Kryptogamenflora (Stuttgart), Bd <b>II</b> b/2, ed. 4 2b/2: 302 (1978)
 
 #### Original name
 Agaricus wieslandri Fr., 1852

@@ -1,5 +1,4 @@
-Collema contextum Millard SPECIES
-=======
+# Collema contextum Millard SPECIES
 
 #### Status
 ACCEPTED

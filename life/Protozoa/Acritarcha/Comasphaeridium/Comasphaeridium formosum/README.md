@@ -1,5 +1,4 @@
-Comasphaeridium formosum M. Moczydowska SPECIES
-=======
+# Comasphaeridium formosum M. Moczydowska SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllachora incarcerata (Berk.) Sacc., 1883 SPECIES
-=======
+# Phyllachora incarcerata (Berk.) Sacc., 1883 SPECIES
 
 #### Status
 DOUBTFUL

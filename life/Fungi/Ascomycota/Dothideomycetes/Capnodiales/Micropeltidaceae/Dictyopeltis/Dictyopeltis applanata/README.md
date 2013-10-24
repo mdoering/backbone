@@ -1,5 +1,4 @@
-Dictyopeltis applanata Bat. SPECIES
-=======
+# Dictyopeltis applanata Bat. SPECIES
 
 #### Status
 ACCEPTED

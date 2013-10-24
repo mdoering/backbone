@@ -1,5 +1,4 @@
-Ripartites laevigatus P. Karst. SPECIES
-=======
+# Ripartites laevigatus P. Karst. SPECIES
 
 #### Status
 ACCEPTED

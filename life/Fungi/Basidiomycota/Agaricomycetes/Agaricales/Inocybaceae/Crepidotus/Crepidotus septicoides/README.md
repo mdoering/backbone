@@ -1,5 +1,4 @@
-Crepidotus septicoides (Singer) Singer SPECIES
-=======
+# Crepidotus septicoides (Singer) Singer SPECIES
 
 #### Status
 ACCEPTED

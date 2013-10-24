@@ -1,5 +1,4 @@
-Parathelium polysemum Nyl. SPECIES
-=======
+# Parathelium polysemum Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sirococcella artocarpi (Cooke) B. Sutton SPECIES
-=======
+# Sirococcella artocarpi (Cooke) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

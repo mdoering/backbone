@@ -1,5 +1,4 @@
-Barbarosporina Kirulis GENUS
-=======
+# Barbarosporina Kirulis GENUS
 
 #### Status
 ACCEPTED

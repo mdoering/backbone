@@ -1,5 +1,4 @@
-Inocybe melampyri Velen. SPECIES
-=======
+# Inocybe melampyri Velen. SPECIES
 
 #### Status
 ACCEPTED

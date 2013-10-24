@@ -1,5 +1,4 @@
-Trichothelium nanum Malcolm & Vezda SPECIES
-=======
+# Trichothelium nanum Malcolm & Vezda SPECIES
 
 #### Status
 ACCEPTED

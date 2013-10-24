@@ -1,5 +1,4 @@
-Chitonomyces laboulbenioides Thaxt. SPECIES
-=======
+# Chitonomyces laboulbenioides Thaxt. SPECIES
 
 #### Status
 ACCEPTED

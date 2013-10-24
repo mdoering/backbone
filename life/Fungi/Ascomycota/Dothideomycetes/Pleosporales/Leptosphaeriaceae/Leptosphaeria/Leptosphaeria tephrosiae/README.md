@@ -1,5 +1,4 @@
-Leptosphaeria tephrosiae (Cooke & Ellis) Sacc. SPECIES
-=======
+# Leptosphaeria tephrosiae (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

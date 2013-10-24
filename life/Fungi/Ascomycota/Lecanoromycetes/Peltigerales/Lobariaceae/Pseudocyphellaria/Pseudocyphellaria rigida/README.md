@@ -1,14 +1,13 @@
-Sticta rigida (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Pseudocyphellaria rigida (Müll. Arg.) D. J. Galloway SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Cat. Lich. Univers. 3: 398 (1925)
+Lichenologist 17(3): 305 (1985)
 
 #### Original name
 Stictina rigida Müll. Arg.

@@ -1,5 +1,4 @@
-Gasparrinia marlothii (Zahlbr.) C.W. Dodge SPECIES
-=======
+# Gasparrinia marlothii (Zahlbr.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

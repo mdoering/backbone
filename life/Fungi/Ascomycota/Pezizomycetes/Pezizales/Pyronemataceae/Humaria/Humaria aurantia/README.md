@@ -1,5 +1,4 @@
-Humaria aurantia (Clem.) Häffner, Benkert & Krisai SPECIES
-=======
+# Humaria aurantia (Clem.) Häffner, Benkert & Krisai SPECIES
 
 #### Status
 ACCEPTED

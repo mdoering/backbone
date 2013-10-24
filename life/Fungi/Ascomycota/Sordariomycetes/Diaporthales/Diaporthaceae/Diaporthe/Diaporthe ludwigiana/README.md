@@ -1,5 +1,4 @@
-Diaporthe ludwigiana Petr. SPECIES
-=======
+# Diaporthe ludwigiana Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pirsonia diadema Kühn, 1996 SPECIES
-=======
+# Pirsonia diadema Kühn, 1996 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria penes Berk. & Broome SPECIES
-=======
+# Sphaeria penes Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

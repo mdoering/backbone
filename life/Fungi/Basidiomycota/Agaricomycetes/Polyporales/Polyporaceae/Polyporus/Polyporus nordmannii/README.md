@@ -1,5 +1,4 @@
-Polyporus nordmannii Lév. SPECIES
-=======
+# Polyporus nordmannii Lév. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entophysalis crustacea (J. Agardh) Drouet & Daily SPECIES
-=======
+# Entophysalis crustacea (J. Agardh) Drouet & Daily SPECIES
 
 #### Status
 ACCEPTED

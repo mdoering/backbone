@@ -1,14 +1,13 @@
-Lachnella candidata (Cooke) W. Phillips, 1887 SPECIES
-=======
+# Hyaloscypha candidata (Cooke) Boud., 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Man. Brit. Discomyc. (London) 273 (1887)
+Hist. Class. Discom. Eur. (Paris) 127 (1907)
 
 #### Original name
 null

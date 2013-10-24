@@ -1,5 +1,4 @@
-Alboleptonia stylophora (Berk. & Broome) Pegler SPECIES
-=======
+# Alboleptonia stylophora (Berk. & Broome) Pegler SPECIES
 
 #### Status
 ACCEPTED

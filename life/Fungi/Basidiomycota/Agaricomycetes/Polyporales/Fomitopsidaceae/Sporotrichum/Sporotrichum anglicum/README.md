@@ -1,5 +1,4 @@
-Sporotrichum anglicum Castell. SPECIES
-=======
+# Sporotrichum anglicum Castell. SPECIES
 
 #### Status
 ACCEPTED

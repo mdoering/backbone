@@ -1,5 +1,4 @@
-Parmelia unicolor Ach. SPECIES
-=======
+# Parmelia unicolor Ach. SPECIES
 
 #### Status
 ACCEPTED

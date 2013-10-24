@@ -1,5 +1,4 @@
-Parmelia subconstrictans Vain. ex Lynge SPECIES
-=======
+# Parmelia subconstrictans Vain. ex Lynge SPECIES
 
 #### Status
 ACCEPTED

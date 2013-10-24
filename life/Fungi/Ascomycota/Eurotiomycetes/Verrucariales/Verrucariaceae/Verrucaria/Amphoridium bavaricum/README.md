@@ -1,5 +1,4 @@
-Amphoridium bavaricum (Servít) Servít SPECIES
-=======
+# Amphoridium bavaricum (Servít) Servít SPECIES
 
 #### Status
 ACCEPTED

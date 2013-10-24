@@ -1,17 +1,16 @@
-Helotium infarciens var. infarciens VARIETY
-=======
+# Hymenoscyphus infarciens (Ces.) Dennis, 1964 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Persoonia 3(1): 74 (1964)
 
 #### Original name
-Helotium infarciens var. infarciens
+Helotium infarciens Ces. & De Not., 1863
 
 ### Remarks
 null

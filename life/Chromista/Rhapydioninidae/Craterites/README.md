@@ -1,5 +1,4 @@
-Craterites Heron-Allen & Earland, 1924 GENUS
-=======
+# Craterites Heron-Allen & Earland, 1924 GENUS
 
 #### Status
 ACCEPTED

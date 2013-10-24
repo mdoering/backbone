@@ -1,5 +1,4 @@
-Hebeloma utahense A.H. Sm., V.S. Evenson & Mitchel SPECIES
-=======
+# Hebeloma utahense A.H. Sm., V.S. Evenson & Mitchel SPECIES
 
 #### Status
 ACCEPTED

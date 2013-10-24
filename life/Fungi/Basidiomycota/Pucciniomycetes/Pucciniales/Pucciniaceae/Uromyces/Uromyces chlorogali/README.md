@@ -1,5 +1,4 @@
-Uromyces chlorogali Dietel & Holw. SPECIES
-=======
+# Uromyces chlorogali Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

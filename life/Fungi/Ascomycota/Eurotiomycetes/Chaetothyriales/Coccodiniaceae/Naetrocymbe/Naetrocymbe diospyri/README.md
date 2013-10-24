@@ -1,5 +1,4 @@
-Naetrocymbe diospyri Bat., Cif. & Maia SPECIES
-=======
+# Naetrocymbe diospyri Bat., Cif. & Maia SPECIES
 
 #### Status
 ACCEPTED

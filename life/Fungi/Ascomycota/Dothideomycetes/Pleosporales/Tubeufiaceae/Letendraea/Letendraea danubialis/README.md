@@ -1,5 +1,4 @@
-Letendraea danubialis Tóth SPECIES
-=======
+# Letendraea danubialis Tóth SPECIES
 
 #### Status
 ACCEPTED

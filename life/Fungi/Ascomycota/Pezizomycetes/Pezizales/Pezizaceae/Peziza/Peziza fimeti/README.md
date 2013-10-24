@@ -1,17 +1,16 @@
-Aleuria bovina (W. Phillips) Boud., 1907 SPECIES
-=======
+# Peziza fimeti (Fuckel) Seaver, 1928 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+North American Cup-fungi (New York), (Operculates) 232 (1928)
 
 #### Original name
-Peziza bovina W. Phillips, 1887
+Humaria fimeti Fuckel, 1871
 
 ### Remarks
 null

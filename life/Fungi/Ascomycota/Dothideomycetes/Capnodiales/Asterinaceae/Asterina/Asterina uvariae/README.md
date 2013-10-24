@@ -1,5 +1,4 @@
-Asterina uvariae Hansf. SPECIES
-=======
+# Asterina uvariae Hansf. SPECIES
 
 #### Status
 ACCEPTED

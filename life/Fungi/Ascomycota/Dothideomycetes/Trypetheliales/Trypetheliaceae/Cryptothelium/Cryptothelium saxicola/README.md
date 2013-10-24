@@ -1,5 +1,4 @@
-Cryptothelium saxicola Malme SPECIES
-=======
+# Cryptothelium saxicola Malme SPECIES
 
 #### Status
 ACCEPTED

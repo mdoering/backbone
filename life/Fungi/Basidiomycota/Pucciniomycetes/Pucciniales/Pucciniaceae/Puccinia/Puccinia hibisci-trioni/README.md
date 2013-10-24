@@ -1,5 +1,4 @@
-Puccinia hibisci-trioni Husseinova SPECIES
-=======
+# Puccinia hibisci-trioni Husseinova SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Marsepulina GENUS
-=======
+# Marsupulina Rhumbler, 1904 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species
 
 #### Published in
-null
+Arch. Protistenk. , 3, 249.
 
 #### Original name
-null
+Ovulina Schultze, 1854
 
 ### Remarks
 null

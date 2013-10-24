@@ -1,5 +1,4 @@
-Septoria crassispora f. crassispora G. Winter FORM
-=======
+# Septoria crassispora G. Winter SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Septoria crassispora f. crassispora G. Winter
+Septoria crassispora G. Winter
 
 ### Remarks
 null

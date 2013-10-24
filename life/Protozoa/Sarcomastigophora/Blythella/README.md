@@ -1,5 +1,4 @@
-Blythella Haman, 1988 GENUS
-=======
+# Blythella Haman, 1988 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora trematis-orientalis (S.K. Sun) Deighton SPECIES
-=======
+# Pseudocercospora trematis-orientalis (S.K. Sun) Deighton SPECIES
 
 #### Status
 ACCEPTED

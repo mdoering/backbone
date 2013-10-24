@@ -1,5 +1,4 @@
-Thalassiosira adeliae Manguin SPECIES
-=======
+# Thalassiosira adeliae Manguin SPECIES
 
 #### Status
 ACCEPTED

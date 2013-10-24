@@ -1,5 +1,4 @@
-Microphiale humilis (J. Lahm) Lettau SPECIES
-=======
+# Microphiale humilis (J. Lahm) Lettau SPECIES
 
 #### Status
 ACCEPTED

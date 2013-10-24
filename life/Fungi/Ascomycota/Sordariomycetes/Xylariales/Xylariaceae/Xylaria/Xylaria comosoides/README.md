@@ -1,5 +1,4 @@
-Xylaria comosoides Laessøe SPECIES
-=======
+# Xylaria comosoides Laessøe SPECIES
 
 #### Status
 ACCEPTED

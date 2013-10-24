@@ -1,5 +1,4 @@
-Russula gaminii (Dupain) Singer SPECIES
-=======
+# Russula gaminii (Dupain) Singer SPECIES
 
 #### Status
 ACCEPTED

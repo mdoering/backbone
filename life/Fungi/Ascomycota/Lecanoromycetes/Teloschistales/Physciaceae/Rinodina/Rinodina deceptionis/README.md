@@ -1,5 +1,4 @@
-Rinodina deceptionis I.M. Lamb SPECIES
-=======
+# Rinodina deceptionis I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletellites oculisporus P. Briot, Lar.-Coll. & Locq. SPECIES
-=======
+# Boletellites oculisporus P. Briot, Lar.-Coll. & Locq. SPECIES
 
 #### Status
 ACCEPTED

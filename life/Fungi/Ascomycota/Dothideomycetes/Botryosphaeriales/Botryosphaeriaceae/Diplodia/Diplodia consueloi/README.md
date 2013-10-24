@@ -1,5 +1,4 @@
-Diplodia consueloi Gonz. Frag. SPECIES
-=======
+# Diplodia consueloi Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

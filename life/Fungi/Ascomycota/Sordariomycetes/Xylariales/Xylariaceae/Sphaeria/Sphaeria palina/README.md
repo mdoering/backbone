@@ -1,5 +1,4 @@
-Sphaeria palina Fr. SPECIES
-=======
+# Sphaeria palina Fr. SPECIES
 
 #### Status
 ACCEPTED

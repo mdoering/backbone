@@ -1,5 +1,4 @@
-Amycolatopsis minnesotensis Lee et al., 2006 SPECIES
-=======
+# Amycolatopsis minnesotensis Lee et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

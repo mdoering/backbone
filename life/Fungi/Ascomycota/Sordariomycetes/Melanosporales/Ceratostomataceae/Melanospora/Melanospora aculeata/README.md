@@ -1,5 +1,4 @@
-Melanospora aculeata E.C. Hansen SPECIES
-=======
+# Melanospora aculeata E.C. Hansen SPECIES
 
 #### Status
 ACCEPTED

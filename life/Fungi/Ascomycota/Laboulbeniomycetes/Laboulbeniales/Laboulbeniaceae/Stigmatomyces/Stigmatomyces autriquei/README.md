@@ -1,5 +1,4 @@
-Stigmatomyces autriquei Balazuc SPECIES
-=======
+# Stigmatomyces autriquei Balazuc SPECIES
 
 #### Status
 ACCEPTED

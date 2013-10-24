@@ -1,5 +1,4 @@
-Trapelia macrospora Fryday SPECIES
-=======
+# Trapelia macrospora Fryday SPECIES
 
 #### Status
 ACCEPTED

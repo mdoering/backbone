@@ -1,5 +1,4 @@
-Parapyrenis maritima Aptroot SPECIES
-=======
+# Parapyrenis maritima Aptroot SPECIES
 
 #### Status
 ACCEPTED

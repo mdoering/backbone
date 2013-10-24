@@ -1,14 +1,13 @@
-Lithonema A. Ercegovic, 1929 GENUS
-=======
+# Adrianema De Toni f., 1936 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
-Ann. Protist. 2: 136.
+Noter. Nomencl. Algol. 8: 2.
 
 #### Original name
 null

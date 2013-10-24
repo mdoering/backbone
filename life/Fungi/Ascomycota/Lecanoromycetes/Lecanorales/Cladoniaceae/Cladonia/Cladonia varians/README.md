@@ -1,5 +1,4 @@
-Cladonia varians Vain. ex Ahti SPECIES
-=======
+# Cladonia varians Vain. ex Ahti SPECIES
 
 #### Status
 ACCEPTED

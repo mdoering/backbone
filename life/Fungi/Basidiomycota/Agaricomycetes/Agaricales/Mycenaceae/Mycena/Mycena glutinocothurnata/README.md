@@ -1,5 +1,4 @@
-Mycena glutinocothurnata Singer SPECIES
-=======
+# Mycena glutinocothurnata Singer SPECIES
 
 #### Status
 ACCEPTED

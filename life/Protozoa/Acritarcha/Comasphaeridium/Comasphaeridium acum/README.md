@@ -1,5 +1,4 @@
-Comasphaeridium acum (Martin, 1969) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Comasphaeridium acum (Martin, 1969) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

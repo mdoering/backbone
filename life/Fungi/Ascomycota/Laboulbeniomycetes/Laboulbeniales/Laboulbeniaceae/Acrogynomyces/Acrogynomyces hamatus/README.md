@@ -1,5 +1,4 @@
-Acrogynomyces hamatus Thaxt. SPECIES
-=======
+# Acrogynomyces hamatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coonemeria verrucosa (Yaguchi, Someya & Udagawa) Mouch. SPECIES
-=======
+# Coonemeria verrucosa (Yaguchi, Someya & Udagawa) Mouch. SPECIES
 
 #### Status
 ACCEPTED

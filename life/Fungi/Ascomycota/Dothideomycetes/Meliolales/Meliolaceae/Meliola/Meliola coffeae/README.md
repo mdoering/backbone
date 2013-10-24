@@ -1,5 +1,4 @@
-Meliola coffeae Hansf. SPECIES
-=======
+# Meliola coffeae Hansf. SPECIES
 
 #### Status
 ACCEPTED

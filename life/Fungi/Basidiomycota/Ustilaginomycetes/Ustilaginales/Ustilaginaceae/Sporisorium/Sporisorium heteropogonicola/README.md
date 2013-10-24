@@ -1,5 +1,4 @@
-Sporisorium heteropogonicola (Mundk. & Thirum.) Vánky, 1997 SPECIES
-=======
+# Sporisorium heteropogonicola (Mundk. & Thirum.) Vánky, 1997 SPECIES
 
 #### Status
 ACCEPTED

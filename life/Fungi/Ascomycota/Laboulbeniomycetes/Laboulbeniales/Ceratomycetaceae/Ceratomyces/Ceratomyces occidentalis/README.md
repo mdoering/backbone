@@ -1,5 +1,4 @@
-Ceratomyces occidentalis Thaxt. SPECIES
-=======
+# Ceratomyces occidentalis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

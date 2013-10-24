@@ -1,5 +1,4 @@
-Cannonia Joanne E. Taylor & K.D. Hyde, 1999 GENUS
-=======
+# Cannonia Joanne E. Taylor & K.D. Hyde, 1999 GENUS
 
 #### Status
 ACCEPTED

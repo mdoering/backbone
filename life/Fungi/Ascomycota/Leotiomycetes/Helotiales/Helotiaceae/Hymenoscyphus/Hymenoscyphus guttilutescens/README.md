@@ -1,5 +1,4 @@
-Hymenoscyphus guttilutescens Gamundí & Giaiotti SPECIES
-=======
+# Hymenoscyphus guttilutescens Gamundí & Giaiotti SPECIES
 
 #### Status
 ACCEPTED

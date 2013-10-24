@@ -1,14 +1,13 @@
-Macrolepiota rhacodes f. olivieri (Barla) de Kok, 1998 FORM
-=======
+# Chlorophyllum olivieri (Barla) Vellinga, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Kok & Vellinga, Persoonia 17(1): 74 (1998)
+Mycotaxon 83: 416 (2002)
 
 #### Original name
 Lepiota olivieri Barla, 1886

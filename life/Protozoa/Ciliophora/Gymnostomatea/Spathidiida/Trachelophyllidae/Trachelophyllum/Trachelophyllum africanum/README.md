@@ -1,5 +1,4 @@
-Trachelophyllum africanum Foissner, Agatha & Berger, 2002 SPECIES
-=======
+# Trachelophyllum africanum Foissner, Agatha & Berger, 2002 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphitetras minuta Greville SPECIES
-=======
+# Amphitetras minuta Greville SPECIES
 
 #### Status
 ACCEPTED

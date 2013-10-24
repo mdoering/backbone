@@ -1,5 +1,4 @@
-Agaricus oenocephalus Berk. & Broome SPECIES
-=======
+# Agaricus oenocephalus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

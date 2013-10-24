@@ -1,5 +1,4 @@
-Lachnum rigidipilum Feltgen SPECIES
-=======
+# Lachnum rigidipilum Feltgen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Nematospora nagpuri Dastur & Singh {?}, 1930 SPECIES
-=======
+# Eremothecium coryli (Peglion) Kurtzman, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

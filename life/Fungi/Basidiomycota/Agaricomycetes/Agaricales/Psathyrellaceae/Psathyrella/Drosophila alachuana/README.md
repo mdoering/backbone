@@ -1,5 +1,4 @@
-Drosophila alachuana Murrill SPECIES
-=======
+# Drosophila alachuana Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora euphorbiae-pubescentis Unamuno SPECIES
-=======
+# Cercospora euphorbiae-pubescentis Unamuno SPECIES
 
 #### Status
 ACCEPTED

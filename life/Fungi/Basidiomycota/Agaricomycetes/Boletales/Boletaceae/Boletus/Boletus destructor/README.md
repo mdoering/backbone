@@ -1,5 +1,4 @@
-Boletus destructor var. destructor VARIETY
-=======
+# Boletus destructor Schrad. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Spicil. Fl. Germ. 1: 166 (1794)
 
 #### Original name
-Boletus destructor var. destructor
+Boletus destructor Schrad.
 
 ### Remarks
 null

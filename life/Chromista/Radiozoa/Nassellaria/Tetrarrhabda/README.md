@@ -1,5 +1,4 @@
-Tetrarrhabda GENUS
-=======
+# Tetrarrhabda GENUS
 
 #### Status
 ACCEPTED

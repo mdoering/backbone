@@ -1,5 +1,4 @@
-Rhabdospora lupinii N.F. Buchw. SPECIES
-=======
+# Rhabdospora lupinii N.F. Buchw. SPECIES
 
 #### Status
 ACCEPTED

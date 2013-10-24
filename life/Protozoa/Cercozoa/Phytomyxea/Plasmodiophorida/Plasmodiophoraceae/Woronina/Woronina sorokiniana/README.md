@@ -1,5 +1,4 @@
-Woronina sorokiniana Jacz. & P.A. Jacz. SPECIES
-=======
+# Woronina sorokiniana Jacz. & P.A. Jacz. SPECIES
 
 #### Status
 ACCEPTED

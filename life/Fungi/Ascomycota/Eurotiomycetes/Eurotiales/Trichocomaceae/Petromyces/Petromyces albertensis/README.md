@@ -1,8 +1,7 @@
-Aspergillus albertensis J.P. Tewari, 1985 SPECIES
-=======
+# Petromyces albertensis J.P. Tewari, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Mycologia 77(1): 114 (1985)
 
 #### Original name
-Aspergillus albertensis J.P. Tewari, 1985
+Petromyces albertensis J.P. Tewari, 1985
 
 ### Remarks
 null

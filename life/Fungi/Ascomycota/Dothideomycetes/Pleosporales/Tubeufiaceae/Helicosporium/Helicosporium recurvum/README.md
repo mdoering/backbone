@@ -1,5 +1,4 @@
-Helicosporium recurvum Petch SPECIES
-=======
+# Helicosporium recurvum Petch SPECIES
 
 #### Status
 ACCEPTED

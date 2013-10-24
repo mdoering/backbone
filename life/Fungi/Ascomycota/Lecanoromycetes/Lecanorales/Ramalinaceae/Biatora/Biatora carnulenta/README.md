@@ -1,5 +1,4 @@
-Biatora carnulenta Tuck. SPECIES
-=======
+# Biatora carnulenta Tuck. SPECIES
 
 #### Status
 ACCEPTED

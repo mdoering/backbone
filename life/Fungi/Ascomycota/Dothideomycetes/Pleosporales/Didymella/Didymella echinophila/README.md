@@ -1,5 +1,4 @@
-Didymella echinophila Mich. {?} SPECIES
-=======
+# Didymella echinophila Mich. {?} SPECIES
 
 #### Status
 ACCEPTED

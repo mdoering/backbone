@@ -1,14 +1,13 @@
-Agaricus pseudovolvatus (Höhn.) Sacc. & Trotter, 1925 SPECIES
-=======
+# Micropsalliota pseudovolvulata Höhn., 1914 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 123: (1914)
 
 #### Original name
 Micropsalliota pseudovolvulata Höhn., 1914

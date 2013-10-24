@@ -1,5 +1,4 @@
-Coleosporium jonesii (Peck) Arthur SPECIES
-=======
+# Coleosporium jonesii (Peck) Arthur SPECIES
 
 #### Status
 ACCEPTED

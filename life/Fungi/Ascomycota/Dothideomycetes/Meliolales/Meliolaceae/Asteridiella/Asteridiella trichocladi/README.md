@@ -1,5 +1,4 @@
-Asteridiella trichocladi Mibey SPECIES
-=======
+# Asteridiella trichocladi Mibey SPECIES
 
 #### Status
 ACCEPTED

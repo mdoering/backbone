@@ -1,5 +1,4 @@
-Vanderbylia D.A. Reid, 1973 GENUS
-=======
+# Vanderbylia D.A. Reid, 1973 GENUS
 
 #### Status
 ACCEPTED

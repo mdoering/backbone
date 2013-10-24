@@ -1,5 +1,4 @@
-Bulgaria pellucens (Schumach.) Fr. SPECIES
-=======
+# Bulgaria pellucens (Schumach.) Fr. SPECIES
 
 #### Status
 ACCEPTED

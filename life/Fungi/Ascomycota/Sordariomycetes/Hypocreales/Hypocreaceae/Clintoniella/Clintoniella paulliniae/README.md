@@ -1,5 +1,4 @@
-Clintoniella paulliniae Rehm SPECIES
-=======
+# Clintoniella paulliniae Rehm SPECIES
 
 #### Status
 ACCEPTED

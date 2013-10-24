@@ -1,14 +1,13 @@
-Halophiobolus salinus Linder, 1944 SPECIES
-=======
+# Lulworthia salina (Linder) Cribb & J.W. Cribb, 1955 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Farlowia 1: 419 (1944)
+Pap. Dept. Bot. (formerly Biol. ) Univ. Qd. 3: 80 (1955)
 
 #### Original name
 Halophiobolus salinus Linder, 1944

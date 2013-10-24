@@ -1,5 +1,4 @@
-Dinophysis schuettii Murray & Whitting SPECIES
-=======
+# Dinophysis schuettii Murray & Whitting SPECIES
 
 #### Status
 ACCEPTED

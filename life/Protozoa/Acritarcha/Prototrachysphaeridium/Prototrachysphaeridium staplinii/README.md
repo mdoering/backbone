@@ -1,5 +1,4 @@
-Prototrachysphaeridium staplinii Timofeev, 1963 SPECIES
-=======
+# Prototrachysphaeridium staplinii Timofeev, 1963 SPECIES
 
 #### Status
 ACCEPTED

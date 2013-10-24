@@ -1,5 +1,4 @@
-Passalora ubatubensis (Chupp & Viégas) Crous, Alfenas & R.W. Barreto SPECIES
-=======
+# Passalora ubatubensis (Chupp & Viégas) Crous, Alfenas & R.W. Barreto SPECIES
 
 #### Status
 ACCEPTED

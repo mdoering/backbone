@@ -1,5 +1,4 @@
-Ketubakia indica Kamat, Varghese & V.G. Rao, 1987 SPECIES
-=======
+# Ketubakia indica Kamat, Varghese & V.G. Rao, 1987 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrocybe ficoides (Bull.) Schroeter SPECIES
-=======
+# Hygrocybe ficoides (Bull.) Schroeter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lichen verticillatus Humb. SPECIES
-=======
+# Lichen verticillatus Humb. SPECIES
 
 #### Status
 ACCEPTED

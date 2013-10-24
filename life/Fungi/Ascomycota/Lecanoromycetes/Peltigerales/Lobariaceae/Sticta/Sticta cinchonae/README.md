@@ -1,5 +1,4 @@
-Sticta cinchonae Delise SPECIES
-=======
+# Sticta cinchonae Delise SPECIES
 
 #### Status
 ACCEPTED

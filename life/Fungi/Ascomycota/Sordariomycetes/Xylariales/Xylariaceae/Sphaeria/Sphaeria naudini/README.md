@@ -1,5 +1,4 @@
-Sphaeria naudini Roum. SPECIES
-=======
+# Sphaeria naudini Roum. SPECIES
 
 #### Status
 ACCEPTED

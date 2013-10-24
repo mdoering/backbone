@@ -1,5 +1,4 @@
-Ganoderma endochrum Steyaert SPECIES
-=======
+# Ganoderma endochrum Steyaert SPECIES
 
 #### Status
 ACCEPTED

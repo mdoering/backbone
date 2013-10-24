@@ -1,5 +1,4 @@
-Psathyrella albocinnamomea A.H. Sm. SPECIES
-=======
+# Psathyrella albocinnamomea A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

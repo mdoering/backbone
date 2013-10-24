@@ -1,14 +1,13 @@
-Discolithus Huxley, 1868 GENUS
-=======
+# Pontosphaera Lohmann, 1902 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. R. Microsc. Soc. 15 contained in Q. Jl Microsc. Sci. (N. S. ) 8 1868: 206.
+Arch. Protistenk. , 1, 129.
 
 #### Original name
 null

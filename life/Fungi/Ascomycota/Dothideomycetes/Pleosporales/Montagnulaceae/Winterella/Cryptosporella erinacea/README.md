@@ -1,5 +1,4 @@
-Cryptosporella erinacea (Mont.) Sacc. SPECIES
-=======
+# Cryptosporella erinacea (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

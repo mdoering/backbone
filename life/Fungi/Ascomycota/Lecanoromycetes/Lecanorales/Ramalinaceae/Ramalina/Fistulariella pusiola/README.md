@@ -1,5 +1,4 @@
-Fistulariella pusiola (Müll. Arg.) Bowler & Rundel SPECIES
-=======
+# Fistulariella pusiola (Müll. Arg.) Bowler & Rundel SPECIES
 
 #### Status
 ACCEPTED

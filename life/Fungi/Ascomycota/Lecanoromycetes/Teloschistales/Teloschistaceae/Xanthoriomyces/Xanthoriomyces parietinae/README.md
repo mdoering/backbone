@@ -1,5 +1,4 @@
-Xanthoriomyces parietinae E.A. Thomas ex Cif. & Tomas. SPECIES
-=======
+# Xanthoriomyces parietinae E.A. Thomas ex Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

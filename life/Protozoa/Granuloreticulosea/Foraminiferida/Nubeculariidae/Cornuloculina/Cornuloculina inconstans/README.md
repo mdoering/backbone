@@ -1,5 +1,4 @@
-Cornuloculina inconstans SPECIES
-=======
+# Cornuloculina inconstans SPECIES
 
 #### Status
 ACCEPTED

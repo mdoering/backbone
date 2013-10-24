@@ -1,5 +1,4 @@
-Laboulbenia elaphri Speg. SPECIES
-=======
+# Laboulbenia elaphri Speg. SPECIES
 
 #### Status
 ACCEPTED

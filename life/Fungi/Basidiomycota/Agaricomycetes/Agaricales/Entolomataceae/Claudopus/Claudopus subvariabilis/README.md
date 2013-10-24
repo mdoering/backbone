@@ -1,5 +1,4 @@
-Claudopus subvariabilis Speg. SPECIES
-=======
+# Claudopus subvariabilis Speg. SPECIES
 
 #### Status
 ACCEPTED

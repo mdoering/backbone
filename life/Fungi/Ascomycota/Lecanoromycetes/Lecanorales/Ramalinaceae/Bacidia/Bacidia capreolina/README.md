@@ -1,5 +1,4 @@
-Bacidia capreolina (Stizenb.) Zahlbr. SPECIES
-=======
+# Bacidia capreolina (Stizenb.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ustilago ustulata Tracy & Earle SPECIES
-=======
+# Ustilago ustulata Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

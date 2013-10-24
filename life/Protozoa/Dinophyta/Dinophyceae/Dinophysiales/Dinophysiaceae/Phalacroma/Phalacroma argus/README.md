@@ -1,5 +1,4 @@
-Phalacroma argus Stein SPECIES
-=======
+# Phalacroma argus Stein SPECIES
 
 #### Status
 ACCEPTED

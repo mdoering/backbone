@@ -1,5 +1,4 @@
-Turnhosphaera Slimani, 1994 GENUS
-=======
+# Turnhosphaera Slimani, 1994 GENUS
 
 #### Status
 ACCEPTED

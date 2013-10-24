@@ -1,5 +1,4 @@
-Polyporus tinctorius Quél. SPECIES
-=======
+# Polyporus tinctorius Quél. SPECIES
 
 #### Status
 ACCEPTED

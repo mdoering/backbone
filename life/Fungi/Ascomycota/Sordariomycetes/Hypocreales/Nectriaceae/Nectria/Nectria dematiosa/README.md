@@ -1,5 +1,4 @@
-Nectria dematiosa (Schwein.) Berk. SPECIES
-=======
+# Nectria dematiosa (Schwein.) Berk. SPECIES
 
 #### Status
 ACCEPTED

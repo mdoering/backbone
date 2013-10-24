@@ -1,5 +1,4 @@
-Ophiognomonia helvetica Rehm SPECIES
-=======
+# Ophiognomonia helvetica Rehm SPECIES
 
 #### Status
 ACCEPTED

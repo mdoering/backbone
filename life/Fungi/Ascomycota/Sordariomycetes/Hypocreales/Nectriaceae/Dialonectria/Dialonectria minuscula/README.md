@@ -1,14 +1,13 @@
-Dialonectria miniscula (Sacc. & Speg.) Cooke SPECIES
-=======
+# Dialonectria minuscula (Sacc. & Speg.) Cooke SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Grevillea 12(no. 64): 111 (1884)
 
 #### Original name
 Calonectria minuscula Sacc. & Speg.

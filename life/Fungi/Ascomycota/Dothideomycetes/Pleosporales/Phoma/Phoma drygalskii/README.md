@@ -1,5 +1,4 @@
-Phoma drygalskii Allesch. SPECIES
-=======
+# Phoma drygalskii Allesch. SPECIES
 
 #### Status
 ACCEPTED

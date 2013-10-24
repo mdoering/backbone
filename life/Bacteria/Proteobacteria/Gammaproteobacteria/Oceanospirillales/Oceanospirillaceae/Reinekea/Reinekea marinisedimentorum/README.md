@@ -1,5 +1,4 @@
-Reinekea marinisedimentorum Romanenko et al., 2004 SPECIES
-=======
+# Reinekea marinisedimentorum Romanenko et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

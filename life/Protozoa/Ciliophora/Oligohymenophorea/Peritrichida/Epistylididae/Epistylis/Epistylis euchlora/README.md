@@ -1,5 +1,4 @@
-Epistylis euchlora Ehrenberg, 1840 SPECIES
-=======
+# Epistylis euchlora Ehrenberg, 1840 SPECIES
 
 #### Status
 ACCEPTED

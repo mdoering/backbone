@@ -1,5 +1,4 @@
-Catillaria cupressi Zahlbr. SPECIES
-=======
+# Catillaria cupressi Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

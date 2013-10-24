@@ -1,5 +1,4 @@
-Loweporus mollis Corner, 1989 SPECIES
-=======
+# Loweporus mollis Corner, 1989 SPECIES
 
 #### Status
 ACCEPTED

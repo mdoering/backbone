@@ -1,5 +1,4 @@
-Marasmius olidus Gilliam SPECIES
-=======
+# Marasmius olidus Gilliam SPECIES
 
 #### Status
 ACCEPTED

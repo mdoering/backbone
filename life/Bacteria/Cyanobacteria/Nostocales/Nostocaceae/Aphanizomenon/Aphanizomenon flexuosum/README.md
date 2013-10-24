@@ -1,5 +1,4 @@
-Aphanizomenon flexuosum J. Komárek & L. Kovácik SPECIES
-=======
+# Aphanizomenon flexuosum J. Komárek & L. Kovácik SPECIES
 
 #### Status
 ACCEPTED

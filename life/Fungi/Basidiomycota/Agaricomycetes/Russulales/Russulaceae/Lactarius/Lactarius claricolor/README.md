@@ -1,5 +1,4 @@
-Lactarius claricolor R. Heim SPECIES
-=======
+# Lactarius claricolor R. Heim SPECIES
 
 #### Status
 ACCEPTED

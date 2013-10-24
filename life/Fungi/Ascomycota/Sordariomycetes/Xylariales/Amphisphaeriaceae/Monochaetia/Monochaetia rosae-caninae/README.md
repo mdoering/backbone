@@ -1,5 +1,4 @@
-Monochaetia rosae-caninae Unamuno SPECIES
-=======
+# Monochaetia rosae-caninae Unamuno SPECIES
 
 #### Status
 ACCEPTED

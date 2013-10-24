@@ -1,17 +1,16 @@
-Phyllachora carnea Petr., 1928 SPECIES
-=======
+# Phyllachora bullata (Syd. & P. Syd.) Petr., 1934 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 26(3/4): 435 (1928)
+Annls mycol. 32: 417 (1934)
 
 #### Original name
-Phyllachora carnea Petr., 1928
+Physalospora bullata Syd. & P. Syd., 1914
 
 ### Remarks
 null

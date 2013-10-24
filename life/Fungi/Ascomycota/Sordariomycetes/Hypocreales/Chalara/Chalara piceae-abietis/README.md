@@ -1,5 +1,4 @@
-Chalara piceae-abietis Hol.-Jech. SPECIES
-=======
+# Chalara piceae-abietis Hol.-Jech. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acarospora williamsii Filson SPECIES
-=======
+# Acarospora williamsii Filson SPECIES
 
 #### Status
 ACCEPTED

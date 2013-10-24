@@ -1,5 +1,4 @@
-Sclerosporis Stach & A. Chandra GENUS
-=======
+# Sclerosporis Stach & A. Chandra GENUS
 
 #### Status
 ACCEPTED

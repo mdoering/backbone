@@ -1,5 +1,4 @@
-Verrucaria montettensis Servít SPECIES
-=======
+# Verrucaria montettensis Servít SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dictypleiosporus Gandhe GENUS
-=======
+# Dictypleiosporus Gandhe GENUS
 
 #### Status
 ACCEPTED

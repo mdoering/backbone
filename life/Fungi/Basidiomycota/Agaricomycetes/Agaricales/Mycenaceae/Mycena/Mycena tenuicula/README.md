@@ -1,5 +1,4 @@
-Mycena tenuicula P. Karst. SPECIES
-=======
+# Mycena tenuicula P. Karst. SPECIES
 
 #### Status
 ACCEPTED

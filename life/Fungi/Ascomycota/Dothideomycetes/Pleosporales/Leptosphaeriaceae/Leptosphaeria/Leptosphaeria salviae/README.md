@@ -1,5 +1,4 @@
-Leptosphaeria salviae f. salviae FORM
-=======
+# Leptosphaeria salviae Pass. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Leptosphaeria salviae f. salviae
+Leptosphaeria salviae Pass.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Aposphaeria silenes M. Petrov SPECIES
-=======
+# Aposphaeria silenes M. Petrov SPECIES
 
 #### Status
 ACCEPTED

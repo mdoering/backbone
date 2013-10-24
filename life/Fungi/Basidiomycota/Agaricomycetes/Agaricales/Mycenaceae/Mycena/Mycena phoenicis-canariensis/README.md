@@ -1,5 +1,4 @@
-Mycena phoenicis-canariensis Robich SPECIES
-=======
+# Mycena phoenicis-canariensis Robich SPECIES
 
 #### Status
 ACCEPTED

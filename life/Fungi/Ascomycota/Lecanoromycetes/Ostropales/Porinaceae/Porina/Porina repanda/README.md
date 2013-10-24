@@ -1,5 +1,4 @@
-Porina repanda (Stirt.) Lücking & R. Sant. SPECIES
-=======
+# Porina repanda (Stirt.) Lücking & R. Sant. SPECIES
 
 #### Status
 ACCEPTED

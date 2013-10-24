@@ -1,5 +1,4 @@
-Thujacorticium Ginns GENUS
-=======
+# Thujacorticium Ginns GENUS
 
 #### Status
 ACCEPTED

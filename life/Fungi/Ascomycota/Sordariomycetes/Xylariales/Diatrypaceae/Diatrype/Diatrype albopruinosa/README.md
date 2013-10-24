@@ -1,5 +1,4 @@
-Diatrype albopruinosa var. albopruinosa VARIETY
-=======
+# Diatrype albopruinosa (Schwein.) Cooke SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Diatrype albopruinosa var. albopruinosa
+Sphaeria albopruinosa Schwein.
 
 ### Remarks
 null

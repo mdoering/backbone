@@ -1,5 +1,4 @@
-Chaetoceros rigidus Ostenfeld SPECIES
-=======
+# Chaetoceros rigidus Ostenfeld SPECIES
 
 #### Status
 ACCEPTED

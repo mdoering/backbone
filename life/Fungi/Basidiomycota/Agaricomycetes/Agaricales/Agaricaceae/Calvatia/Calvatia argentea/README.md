@@ -1,5 +1,4 @@
-Calvatia argentea (Berk.) Kreisel SPECIES
-=======
+# Calvatia argentea (Berk.) Kreisel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Drepanomonas lunaris Foissner, 1979 SPECIES
-=======
+# Drepanomonas lunaris Foissner, 1979 SPECIES
 
 #### Status
 ACCEPTED

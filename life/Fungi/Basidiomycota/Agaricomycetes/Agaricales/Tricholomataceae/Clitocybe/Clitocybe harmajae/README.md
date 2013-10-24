@@ -1,14 +1,13 @@
-Lepista harmajae (Lamoure) Harmaja, 1976 SPECIES
-=======
+# Clitocybe harmajae Lamoure, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Karstenia 15: 14 (1976)
+Trav. Sci. Parc. Natl. Vanoise 132 (1972)
 
 #### Original name
 Clitocybe harmajae Lamoure, 1972

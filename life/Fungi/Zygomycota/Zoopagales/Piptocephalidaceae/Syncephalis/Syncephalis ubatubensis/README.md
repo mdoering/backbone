@@ -1,5 +1,4 @@
-Syncephalis ubatubensis Viégas & Teixeira, 1943 SPECIES
-=======
+# Syncephalis ubatubensis Viégas & Teixeira, 1943 SPECIES
 
 #### Status
 ACCEPTED

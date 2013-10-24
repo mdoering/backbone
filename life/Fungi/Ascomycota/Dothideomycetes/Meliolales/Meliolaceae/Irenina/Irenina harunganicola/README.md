@@ -1,5 +1,4 @@
-Irenina harunganicola Hansf. SPECIES
-=======
+# Irenina harunganicola Hansf. SPECIES
 
 #### Status
 ACCEPTED

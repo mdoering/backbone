@@ -1,5 +1,4 @@
-Periconiella daphniphylli M.B. Ellis SPECIES
-=======
+# Periconiella daphniphylli M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

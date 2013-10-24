@@ -1,14 +1,13 @@
-Phytophthora epistomium Fell & Master, 1975 SPECIES
-=======
+# Halophytophthora epistomium (Fell & Master) H.H. Ho & S.C. Jong, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 53(24): 2913 (1975)
+Mycotaxon 36(2): 381 (1990)
 
 #### Original name
 Phytophthora epistomium Fell & Master, 1975

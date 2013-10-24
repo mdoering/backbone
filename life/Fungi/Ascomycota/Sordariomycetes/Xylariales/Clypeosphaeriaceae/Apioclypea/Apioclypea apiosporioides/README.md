@@ -1,5 +1,4 @@
-Apioclypea apiosporioides (Petr.) K.D. Hyde, J. Fröhl. & Joanne E. Taylor SPECIES
-=======
+# Apioclypea apiosporioides (Petr.) K.D. Hyde, J. Fröhl. & Joanne E. Taylor SPECIES
 
 #### Status
 ACCEPTED

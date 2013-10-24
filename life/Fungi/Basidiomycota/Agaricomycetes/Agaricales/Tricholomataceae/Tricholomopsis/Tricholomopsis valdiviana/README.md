@@ -1,17 +1,16 @@
-Tricholomopsis valdivianus Garrido SPECIES
-=======
+# Tricholomopsis valdiviana Garrido SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biblthca Mycol. 120: 222 (1988)
 
 #### Original name
-Tricholomopsis valdivianus Garrido
+Tricholomopsis valdiviana Garrido
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Tetraedriella verrucosa (G.M. Smith) L. Krienitz & H. Heynig SPECIES
-=======
+# Tetraedriella verrucosa (G.M. Smith) L. Krienitz & H. Heynig SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma juniperina Naumov SPECIES
-=======
+# Phoma juniperina Naumov SPECIES
 
 #### Status
 ACCEPTED

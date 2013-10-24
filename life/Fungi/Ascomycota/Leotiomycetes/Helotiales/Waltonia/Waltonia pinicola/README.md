@@ -1,5 +1,4 @@
-Waltonia pinicola Saho, 1970 SPECIES
-=======
+# Waltonia pinicola Saho, 1970 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clathrus australis Speg. SPECIES
-=======
+# Clathrus australis Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascobolus nigricans Velen. SPECIES
-=======
+# Ascobolus nigricans Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helotium georginae Vacek SPECIES
-=======
+# Helotium georginae Vacek SPECIES
 
 #### Status
 ACCEPTED

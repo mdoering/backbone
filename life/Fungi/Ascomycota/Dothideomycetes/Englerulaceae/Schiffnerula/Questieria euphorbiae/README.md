@@ -1,5 +1,4 @@
-Questieria euphorbiae G. Arnaud SPECIES
-=======
+# Questieria euphorbiae G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

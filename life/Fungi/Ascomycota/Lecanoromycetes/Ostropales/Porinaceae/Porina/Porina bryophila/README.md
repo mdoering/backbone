@@ -1,5 +1,4 @@
-Porina bryophila P. M. McCarthy & Kantvilas SPECIES
-=======
+# Porina bryophila P. M. McCarthy & Kantvilas SPECIES
 
 #### Status
 ACCEPTED

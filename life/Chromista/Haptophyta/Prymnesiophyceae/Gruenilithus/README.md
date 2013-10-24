@@ -1,5 +1,4 @@
-Gruenilithus Kristan-Tollmann, 1988 GENUS
-=======
+# Gruenilithus Kristan-Tollmann, 1988 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hystricapsa Preuss GENUS
-=======
+# Hystricapsa Preuss GENUS
 
 #### Status
 ACCEPTED

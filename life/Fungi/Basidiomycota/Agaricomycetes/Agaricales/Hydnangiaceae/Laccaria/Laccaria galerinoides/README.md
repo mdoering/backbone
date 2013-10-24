@@ -1,5 +1,4 @@
-Laccaria galerinoides Singer SPECIES
-=======
+# Laccaria galerinoides Singer SPECIES
 
 #### Status
 ACCEPTED

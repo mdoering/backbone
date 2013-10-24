@@ -1,5 +1,4 @@
-Preussia secalis Richon SPECIES
-=======
+# Preussia secalis Richon SPECIES
 
 #### Status
 ACCEPTED

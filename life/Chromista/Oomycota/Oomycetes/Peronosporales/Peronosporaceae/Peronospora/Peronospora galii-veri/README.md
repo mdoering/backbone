@@ -1,5 +1,4 @@
-Peronospora galii-veri Gäum. SPECIES
-=======
+# Peronospora galii-veri Gäum. SPECIES
 
 #### Status
 ACCEPTED

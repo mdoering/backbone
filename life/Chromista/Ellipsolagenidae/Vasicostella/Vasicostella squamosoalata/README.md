@@ -1,5 +1,4 @@
-Vasicostella squamosoalata (Brady, 1881) SPECIES
-=======
+# Vasicostella squamosoalata (Brady, 1881) SPECIES
 
 #### Status
 ACCEPTED

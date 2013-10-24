@@ -1,5 +1,4 @@
-Semilecanora vogesiaca (Harm.) Motyka SPECIES
-=======
+# Semilecanora vogesiaca (Harm.) Motyka SPECIES
 
 #### Status
 ACCEPTED

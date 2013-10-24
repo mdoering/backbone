@@ -1,5 +1,4 @@
-Neoramularia spissa (Harkn.) U. Braun SPECIES
-=======
+# Neoramularia spissa (Harkn.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Peltigera elisabethae f. elisabethae FORM
-=======
+# Peltigera elisabethae Gyeln. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bot. Közl. 24: 135 (1927)
 
 #### Original name
-Peltigera elisabethae f. elisabethae
+Peltigera elisabethae Gyeln.
 
 ### Remarks
 null

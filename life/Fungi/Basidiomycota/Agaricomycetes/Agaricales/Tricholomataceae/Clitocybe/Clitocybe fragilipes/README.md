@@ -1,5 +1,4 @@
-Clitocybe fragilipes J. Favre SPECIES
-=======
+# Clitocybe fragilipes J. Favre SPECIES
 
 #### Status
 ACCEPTED

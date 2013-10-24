@@ -1,5 +1,4 @@
-Aspergillus quadrifidus Link SPECIES
-=======
+# Aspergillus quadrifidus Link SPECIES
 
 #### Status
 ACCEPTED

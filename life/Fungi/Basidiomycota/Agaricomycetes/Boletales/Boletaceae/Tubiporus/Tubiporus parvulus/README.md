@@ -1,5 +1,4 @@
-Tubiporus parvulus Paulet SPECIES
-=======
+# Tubiporus parvulus Paulet SPECIES
 
 #### Status
 ACCEPTED

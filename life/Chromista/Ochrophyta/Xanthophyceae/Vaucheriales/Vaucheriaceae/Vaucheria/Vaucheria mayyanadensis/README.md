@@ -1,5 +1,4 @@
-Vaucheria mayyanadensis var. sundarbanensis Islam VARIETY
-=======
+# Vaucheria mayyanadensis SPECIES
 
 #### Status
 ACCEPTED

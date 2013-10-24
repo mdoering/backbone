@@ -1,5 +1,4 @@
-Cortinarius griseosulcatus Carteret SPECIES
-=======
+# Cortinarius griseosulcatus Carteret SPECIES
 
 #### Status
 ACCEPTED

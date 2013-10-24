@@ -1,5 +1,4 @@
-Spirochaeta vincenti SPECIES
-=======
+# Spirochaeta vincenti SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllachora cucurbitacearum Chardón, 1934 SPECIES
-=======
+# Phyllachora cucurbitacearum Chardón, 1934 SPECIES
 
 #### Status
 ACCEPTED

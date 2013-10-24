@@ -1,5 +1,4 @@
-Microdiplodia bonnayae Petr. SPECIES
-=======
+# Microdiplodia bonnayae Petr. SPECIES
 
 #### Status
 ACCEPTED

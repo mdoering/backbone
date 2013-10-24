@@ -1,5 +1,4 @@
-Phyllophthalmaria zamiae (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Phyllophthalmaria zamiae (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

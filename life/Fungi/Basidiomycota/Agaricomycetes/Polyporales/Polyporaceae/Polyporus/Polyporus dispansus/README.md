@@ -1,5 +1,4 @@
-Polyporus dispansus Lloyd SPECIES
-=======
+# Polyporus dispansus Lloyd SPECIES
 
 #### Status
 ACCEPTED

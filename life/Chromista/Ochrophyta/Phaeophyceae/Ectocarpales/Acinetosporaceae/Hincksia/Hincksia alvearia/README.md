@@ -1,5 +1,4 @@
-Hincksia alvearia Kraft, 2009 SPECIES
-=======
+# Hincksia alvearia Kraft, 2009 SPECIES
 
 #### Status
 ACCEPTED

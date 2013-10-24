@@ -1,5 +1,4 @@
-Sphenostomella Jankowski in Small & Lynn, 1985 GENUS
-=======
+# Sphenostomella Jankowski in Small & Lynn, 1985 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula substraminea Sarnari SPECIES
-=======
+# Russula substraminea Sarnari SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ustilago johnstonii Cif. SPECIES
-=======
+# Ustilago johnstonii Cif. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diacronema vlkianum J.C.Green & D.J.Hibberd SPECIES
-=======
+# Diacronema vlkianum J.C.Green & D.J.Hibberd SPECIES
 
 #### Status
 ACCEPTED

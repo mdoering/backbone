@@ -1,5 +1,4 @@
-Pseudocercospora serpentinae (Pandotra & A. Husain) Deighton SPECIES
-=======
+# Pseudocercospora serpentinae (Pandotra & A. Husain) Deighton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleospora saponariae (Gonz. Frag.) Wehm. SPECIES
-=======
+# Pleospora saponariae (Gonz. Frag.) Wehm. SPECIES
 
 #### Status
 ACCEPTED

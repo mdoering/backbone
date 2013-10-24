@@ -1,5 +1,4 @@
-Geintzina GENUS
-=======
+# Geintzina GENUS
 
 #### Status
 ACCEPTED

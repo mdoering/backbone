@@ -1,14 +1,13 @@
-Campanella alba (Berk. & M.A. Curtis) Singer, 1945 SPECIES
-=======
+# Tetrapyrgos alba (Berk. & M.A. Curtis) E. Horak, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lloydia 8: 191 (1945)
+Sydowia 39: 101 (1987)
 
 #### Original name
 Laschia alba Berk. & M.A. Curtis, 1868

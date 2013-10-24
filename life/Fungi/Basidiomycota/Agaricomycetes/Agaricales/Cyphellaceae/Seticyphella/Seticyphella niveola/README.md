@@ -1,17 +1,16 @@
-Flagelloscypha niveola (Sacc.) Knudsen, 2008 SPECIES
-=======
+# Seticyphella niveola (Sacc.) Agerer, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mitt. bot. StSamml. , Münch. 19: 284 (1983)
 
 #### Original name
-null
+Cyphella niveola Sacc., 1888
 
 ### Remarks
 null

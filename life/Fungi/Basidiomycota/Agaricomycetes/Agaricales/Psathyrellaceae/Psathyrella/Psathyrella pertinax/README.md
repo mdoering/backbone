@@ -1,5 +1,4 @@
-Psathyrella pertinax (Fr.) Örstadius SPECIES
-=======
+# Psathyrella pertinax (Fr.) Örstadius SPECIES
 
 #### Status
 ACCEPTED

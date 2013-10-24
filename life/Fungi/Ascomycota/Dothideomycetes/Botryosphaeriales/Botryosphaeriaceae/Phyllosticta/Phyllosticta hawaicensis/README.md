@@ -1,5 +1,4 @@
-Phyllosticta hawaicensis Caum SPECIES
-=======
+# Phyllosticta hawaicensis Caum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphacelotheca nealii (Ellis & F.W. Anderson) G.P. Clinton SPECIES
-=======
+# Sphacelotheca nealii (Ellis & F.W. Anderson) G.P. Clinton SPECIES
 
 #### Status
 ACCEPTED

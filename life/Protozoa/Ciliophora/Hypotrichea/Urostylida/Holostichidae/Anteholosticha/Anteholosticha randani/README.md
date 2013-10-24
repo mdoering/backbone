@@ -1,5 +1,4 @@
-Anteholosticha randani Groliere, 1975 SPECIES
-=======
+# Anteholosticha randani Groliere, 1975 SPECIES
 
 #### Status
 ACCEPTED

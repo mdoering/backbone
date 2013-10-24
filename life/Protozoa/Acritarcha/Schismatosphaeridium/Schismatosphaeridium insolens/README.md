@@ -1,5 +1,4 @@
-Schismatosphaeridium insolens N. Umnova, 1975 SPECIES
-=======
+# Schismatosphaeridium insolens N. Umnova, 1975 SPECIES
 
 #### Status
 ACCEPTED

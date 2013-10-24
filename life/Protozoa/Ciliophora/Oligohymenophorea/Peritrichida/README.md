@@ -1,5 +1,4 @@
-Peritrichida ORDER
-=======
+# Peritrichida ORDER
 
 #### Status
 ACCEPTED

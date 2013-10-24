@@ -1,5 +1,4 @@
-Lentinus giganteus Berk. SPECIES
-=======
+# Lentinus giganteus Berk. SPECIES
 
 #### Status
 ACCEPTED

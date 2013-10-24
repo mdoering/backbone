@@ -1,5 +1,4 @@
-Dothidea corylina Cooke & Harkn. SPECIES
-=======
+# Dothidea corylina Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

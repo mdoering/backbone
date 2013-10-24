@@ -1,5 +1,4 @@
-Stereum insulare Berk. & Broome SPECIES
-=======
+# Stereum insulare Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

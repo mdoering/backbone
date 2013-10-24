@@ -1,5 +1,4 @@
-Helminthosporium microsporum K.S. Deshp. & K.B. Deshp., 1970 SPECIES
-=======
+# Helminthosporium microsporum K.S. Deshp. & K.B. Deshp., 1970 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Microsphaera alni var. divaricata Wallr. VARIETY
-=======
+# Microsphaera divaricata (Wallr.) Lév., 1851 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls Sci. Nat. , Bot. , sér. 3 15: 155 & 381 (1851)
 
 #### Original name
 Microsphaera alni var. divaricata Wallr.

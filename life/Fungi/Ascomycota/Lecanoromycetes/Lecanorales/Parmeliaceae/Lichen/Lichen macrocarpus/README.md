@@ -1,5 +1,4 @@
-Lichen macrocarpus (Pers.) Ach. SPECIES
-=======
+# Lichen macrocarpus (Pers.) Ach. SPECIES
 
 #### Status
 ACCEPTED

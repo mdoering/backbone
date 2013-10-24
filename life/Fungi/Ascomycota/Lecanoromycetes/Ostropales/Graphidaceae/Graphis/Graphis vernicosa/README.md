@@ -1,5 +1,4 @@
-Graphis vernicosa var. vernicosa VARIETY
-=======
+# Graphis vernicosa Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Graphis vernicosa var. vernicosa
+Graphis vernicosa Nyl.
 
 ### Remarks
 null

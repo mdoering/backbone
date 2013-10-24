@@ -1,5 +1,4 @@
-Graphis smithii Leight. SPECIES
-=======
+# Graphis smithii Leight. SPECIES
 
 #### Status
 ACCEPTED

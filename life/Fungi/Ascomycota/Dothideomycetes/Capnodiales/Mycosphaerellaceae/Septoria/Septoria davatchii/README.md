@@ -1,5 +1,4 @@
-Septoria davatchii Esfand. SPECIES
-=======
+# Septoria davatchii Esfand. SPECIES
 
 #### Status
 ACCEPTED

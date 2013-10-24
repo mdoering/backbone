@@ -1,5 +1,4 @@
-Paulinella sphaeroides SPECIES
-=======
+# Paulinella sphaeroides SPECIES
 
 #### Status
 ACCEPTED

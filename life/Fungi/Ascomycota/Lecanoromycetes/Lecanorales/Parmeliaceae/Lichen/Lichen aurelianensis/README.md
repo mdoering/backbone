@@ -1,5 +1,4 @@
-Lichen aurelianensis Dubois SPECIES
-=======
+# Lichen aurelianensis Dubois SPECIES
 
 #### Status
 ACCEPTED

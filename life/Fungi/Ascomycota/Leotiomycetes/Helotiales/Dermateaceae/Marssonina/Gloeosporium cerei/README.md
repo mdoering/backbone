@@ -1,5 +1,4 @@
-Gloeosporium cerei Pass. SPECIES
-=======
+# Gloeosporium cerei Pass. SPECIES
 
 #### Status
 ACCEPTED

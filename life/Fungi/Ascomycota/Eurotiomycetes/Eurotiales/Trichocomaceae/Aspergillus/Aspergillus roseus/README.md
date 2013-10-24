@@ -1,5 +1,4 @@
-Aspergillus roseus Link ex Berk., 1836 SPECIES
-=======
+# Aspergillus roseus Link ex Berk., 1836 SPECIES
 
 #### Status
 ACCEPTED

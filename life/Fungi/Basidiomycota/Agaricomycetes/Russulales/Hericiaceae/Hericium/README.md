@@ -1,5 +1,4 @@
-Hericium Persoon, 1794 GENUS
-=======
+# Hericium Persoon, 1794 GENUS
 
 #### Status
 ACCEPTED

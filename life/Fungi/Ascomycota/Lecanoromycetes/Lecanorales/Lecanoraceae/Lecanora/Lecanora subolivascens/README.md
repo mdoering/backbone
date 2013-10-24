@@ -1,5 +1,4 @@
-Lecanora subolivascens Nyl. SPECIES
-=======
+# Lecanora subolivascens Nyl. SPECIES
 
 #### Status
 ACCEPTED

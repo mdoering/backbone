@@ -1,5 +1,4 @@
-Selenophoma scorzonerae Murashk. & Petr. SPECIES
-=======
+# Selenophoma scorzonerae Murashk. & Petr. SPECIES
 
 #### Status
 ACCEPTED

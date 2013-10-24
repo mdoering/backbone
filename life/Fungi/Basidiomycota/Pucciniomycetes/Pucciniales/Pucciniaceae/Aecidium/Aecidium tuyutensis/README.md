@@ -1,5 +1,4 @@
-Aecidium tuyutensis Speg. SPECIES
-=======
+# Aecidium tuyutensis Speg. SPECIES
 
 #### Status
 ACCEPTED

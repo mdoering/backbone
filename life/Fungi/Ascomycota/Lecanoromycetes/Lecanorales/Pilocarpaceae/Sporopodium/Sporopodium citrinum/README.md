@@ -1,14 +1,13 @@
-Lopadium citrinum Zahlbr. SPECIES
-=======
+# Sporopodium citrinum (Zahlbr.) Elix, Lumbsch & Lücking SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Symb. Sin. 3: 121 (1930)
+Biblthca Lichenol. 58: 93 (1995)
 
 #### Original name
 Lopadium citrinum Zahlbr.

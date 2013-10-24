@@ -1,17 +1,16 @@
-Cortinarius croceo-lutescens Rob. Henry ex Bidaud, Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius croceolutescens Rob. Henry ex Bidaud, Moënne-Locc. & Reumaux SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Atlas des Cortinaires (Meyzieu) 10: 490 (2000)
 
 #### Original name
-Cortinarius croceo-lutescens Rob. Henry ex Bidaud, Moënne-Locc. & Reumaux
+Cortinarius croceolutescens Rob. Henry ex Bidaud, Moënne-Locc. & Reumaux
 
 ### Remarks
 null

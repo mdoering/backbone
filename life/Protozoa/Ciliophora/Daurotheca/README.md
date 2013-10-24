@@ -1,5 +1,4 @@
-Daurotheca Jankowski, 1986 GENUS
-=======
+# Daurotheca Jankowski, 1986 GENUS
 
 #### Status
 ACCEPTED

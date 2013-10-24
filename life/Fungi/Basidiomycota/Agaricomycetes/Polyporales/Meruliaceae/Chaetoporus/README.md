@@ -1,5 +1,4 @@
-Chaetoporus GENUS
-=======
+# Chaetoporus GENUS
 
 #### Status
 ACCEPTED

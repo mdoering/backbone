@@ -1,5 +1,4 @@
-Hygrophorus cokeri A.H. Sm. & Hesler SPECIES
-=======
+# Hygrophorus cokeri A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aremoricanium syringosage Loeblich & MacAdam, 1971 SPECIES
-=======
+# Aremoricanium syringosage Loeblich & MacAdam, 1971 SPECIES
 
 #### Status
 ACCEPTED

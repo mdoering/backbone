@@ -1,5 +1,4 @@
-Clypeolella alphitoniae Syd. SPECIES
-=======
+# Clypeolella alphitoniae Syd. SPECIES
 
 #### Status
 ACCEPTED

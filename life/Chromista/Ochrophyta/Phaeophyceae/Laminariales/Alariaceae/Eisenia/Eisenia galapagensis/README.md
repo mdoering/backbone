@@ -1,5 +1,4 @@
-Eisenia galapagensis W.R. Taylor SPECIES
-=======
+# Eisenia galapagensis W.R. Taylor SPECIES
 
 #### Status
 ACCEPTED

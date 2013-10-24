@@ -1,5 +1,4 @@
-Cenangium acerinum Fr. SPECIES
-=======
+# Cenangium acerinum Fr. SPECIES
 
 #### Status
 ACCEPTED

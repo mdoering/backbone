@@ -1,5 +1,4 @@
-Lecidea byrdii C.W. Dodge & G.E. Baker SPECIES
-=======
+# Lecidea byrdii C.W. Dodge & G.E. Baker SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cristallinium cambriense (Slavíková, 1968) Vanguestaine, 1978 SPECIES
-=======
+# Cristallinium cambriense (Slavíková, 1968) Vanguestaine, 1978 SPECIES
 
 #### Status
 ACCEPTED

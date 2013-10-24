@@ -1,5 +1,4 @@
-Phaeophragmeriella ugandensis var. ugandensis VARIETY
-=======
+# Phaeophragmeriella ugandensis Hansf. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Mycol. Pap. 15: 98 (1946)
 
 #### Original name
-Phaeophragmeriella ugandensis var. ugandensis
+Phaeophragmeriella ugandensis Hansf.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Thrinacospora Petr. GENUS
-=======
+# Thrinacospora Petr. GENUS
 
 #### Status
 ACCEPTED

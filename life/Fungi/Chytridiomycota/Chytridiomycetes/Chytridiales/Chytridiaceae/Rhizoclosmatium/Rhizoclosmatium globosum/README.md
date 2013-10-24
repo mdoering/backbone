@@ -1,5 +1,4 @@
-Rhizoclosmatium globosum H.E. Petersen, 1909 SPECIES
-=======
+# Rhizoclosmatium globosum H.E. Petersen, 1909 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius impennoides Bidaud, Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius impennoides Bidaud, Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

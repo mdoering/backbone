@@ -1,5 +1,4 @@
-Byssoloma adspersum Malcolm & Vezda SPECIES
-=======
+# Byssoloma adspersum Malcolm & Vezda SPECIES
 
 #### Status
 ACCEPTED

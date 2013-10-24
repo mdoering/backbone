@@ -1,5 +1,4 @@
-Toninia sinensis Zahlbr. SPECIES
-=======
+# Toninia sinensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

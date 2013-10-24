@@ -1,5 +1,4 @@
-Geniculospora Sv. Nilsson ex Marvanová & Sv. Nilsson GENUS
-=======
+# Geniculospora Sv. Nilsson ex Marvanová & Sv. Nilsson GENUS
 
 #### Status
 ACCEPTED

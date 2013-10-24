@@ -1,5 +1,4 @@
-Merulius conicus Schumach. SPECIES
-=======
+# Merulius conicus Schumach. SPECIES
 
 #### Status
 ACCEPTED

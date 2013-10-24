@@ -1,5 +1,4 @@
-Uredo convolvuli F. Strauss SPECIES
-=======
+# Uredo convolvuli F. Strauss SPECIES
 
 #### Status
 ACCEPTED

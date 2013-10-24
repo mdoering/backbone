@@ -1,5 +1,4 @@
-Nosema pulvis Pérez SPECIES
-=======
+# Nosema pulvis Pérez SPECIES
 
 #### Status
 ACCEPTED

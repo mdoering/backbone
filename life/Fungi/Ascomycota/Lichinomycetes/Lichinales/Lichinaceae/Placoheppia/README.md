@@ -1,5 +1,4 @@
-Placoheppia GENUS
-=======
+# Placoheppia GENUS
 
 #### Status
 ACCEPTED

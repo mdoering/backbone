@@ -1,17 +1,16 @@
-Polystictus holtermanni Sacc. & P. Syd. SPECIES
-=======
+# Polystictus holtermannii Sacc. & P. Syd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 16: 158 (1902)
 
 #### Original name
-Polystictus holtermanni Sacc. & P. Syd.
+Polystictus holtermannii Sacc. & P. Syd.
 
 ### Remarks
 null

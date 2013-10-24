@@ -1,5 +1,4 @@
-Angelina conglomerata (Schwein.) Fr. SPECIES
-=======
+# Angelina conglomerata (Schwein.) Fr. SPECIES
 
 #### Status
 ACCEPTED

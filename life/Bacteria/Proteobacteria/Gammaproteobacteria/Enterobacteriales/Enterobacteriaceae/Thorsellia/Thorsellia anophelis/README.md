@@ -1,5 +1,4 @@
-Thorsellia anophelis Kämpfer et al., 2006 SPECIES
-=======
+# Thorsellia anophelis Kämpfer et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

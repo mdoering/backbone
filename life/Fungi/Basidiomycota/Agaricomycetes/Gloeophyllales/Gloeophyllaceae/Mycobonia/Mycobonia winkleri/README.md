@@ -1,5 +1,4 @@
-Mycobonia winkleri Bres. SPECIES
-=======
+# Mycobonia winkleri Bres. SPECIES
 
 #### Status
 ACCEPTED

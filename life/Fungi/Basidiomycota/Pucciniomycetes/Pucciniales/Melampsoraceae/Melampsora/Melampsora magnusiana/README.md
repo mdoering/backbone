@@ -1,5 +1,4 @@
-Melampsora magnusiana G.H. Wagner, 1896 SPECIES
-=======
+# Melampsora magnusiana G.H. Wagner, 1896 SPECIES
 
 #### Status
 ACCEPTED

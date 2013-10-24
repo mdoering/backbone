@@ -1,5 +1,4 @@
-Nectriella gigaspora Cooke & Massee SPECIES
-=======
+# Nectriella gigaspora Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Strombomonas ensifera var. ornata Lemmermann VARIETY
-=======
+# Strombomonas ensifera (Daday) Deflandre SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endictya robusta SPECIES
-=======
+# Endictya robusta SPECIES
 
 #### Status
 ACCEPTED

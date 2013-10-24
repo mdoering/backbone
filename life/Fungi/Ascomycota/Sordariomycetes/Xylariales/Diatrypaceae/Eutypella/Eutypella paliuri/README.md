@@ -1,5 +1,4 @@
-Eutypella paliuri Syd. SPECIES
-=======
+# Eutypella paliuri Syd. SPECIES
 
 #### Status
 ACCEPTED

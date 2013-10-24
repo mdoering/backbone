@@ -1,5 +1,4 @@
-Paracoccus zeaxanthinifaciens Berry et al., 2003 SPECIES
-=======
+# Paracoccus zeaxanthinifaciens Berry et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

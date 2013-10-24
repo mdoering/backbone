@@ -1,5 +1,4 @@
-Lasiostemma maesae (Hansf.) M.L. Farr SPECIES
-=======
+# Lasiostemma maesae (Hansf.) M.L. Farr SPECIES
 
 #### Status
 ACCEPTED

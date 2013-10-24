@@ -1,5 +1,4 @@
-Ramalina rectangularis Nyl. SPECIES
-=======
+# Ramalina rectangularis Nyl. SPECIES
 
 #### Status
 ACCEPTED

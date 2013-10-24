@@ -1,5 +1,4 @@
-Fasciatispora nypae K.D. Hyde, 1991 SPECIES
-=======
+# Fasciatispora nypae K.D. Hyde, 1991 SPECIES
 
 #### Status
 ACCEPTED

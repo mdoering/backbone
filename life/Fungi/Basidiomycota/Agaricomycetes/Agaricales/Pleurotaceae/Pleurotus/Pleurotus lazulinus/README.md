@@ -1,5 +1,4 @@
-Pleurotus lazulinus Speg. SPECIES
-=======
+# Pleurotus lazulinus Speg. SPECIES
 
 #### Status
 ACCEPTED

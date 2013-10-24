@@ -1,5 +1,4 @@
-Exidia maya Lowy SPECIES
-=======
+# Exidia maya Lowy SPECIES
 
 #### Status
 ACCEPTED

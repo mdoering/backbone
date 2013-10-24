@@ -1,5 +1,4 @@
-Mesophellia castanea Lloyd, 1917 SPECIES
-=======
+# Mesophellia castanea Lloyd, 1917 SPECIES
 
 #### Status
 ACCEPTED

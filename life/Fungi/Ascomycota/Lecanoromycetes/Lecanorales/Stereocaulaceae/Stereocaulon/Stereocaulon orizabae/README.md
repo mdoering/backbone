@@ -1,5 +1,4 @@
-Stereocaulon orizabae (Th. Fr.) Vain. SPECIES
-=======
+# Stereocaulon orizabae (Th. Fr.) Vain. SPECIES
 
 #### Status
 ACCEPTED

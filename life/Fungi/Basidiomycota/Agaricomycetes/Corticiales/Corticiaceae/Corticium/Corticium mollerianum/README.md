@@ -1,5 +1,4 @@
-Corticium mollerianum Bres. SPECIES
-=======
+# Corticium mollerianum Bres. SPECIES
 
 #### Status
 ACCEPTED

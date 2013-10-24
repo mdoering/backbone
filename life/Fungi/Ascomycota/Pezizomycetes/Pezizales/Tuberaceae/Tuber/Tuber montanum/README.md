@@ -1,5 +1,4 @@
-Tuber montanum Chatin SPECIES
-=======
+# Tuber montanum Chatin SPECIES
 
 #### Status
 ACCEPTED

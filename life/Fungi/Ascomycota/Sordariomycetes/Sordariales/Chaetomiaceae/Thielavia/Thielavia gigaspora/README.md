@@ -1,5 +1,4 @@
-Thielavia gigaspora Moustafa SPECIES
-=======
+# Thielavia gigaspora Moustafa SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aurificaria castilloi R. Valenz., Raymundo & Cifuentes SPECIES
-=======
+# Aurificaria castilloi R. Valenz., Raymundo & Cifuentes SPECIES
 
 #### Status
 ACCEPTED

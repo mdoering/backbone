@@ -1,5 +1,4 @@
-Chlamydocystis Dogiel, 1910 GENUS
-=======
+# Chlamydocystis Dogiel, 1910 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Feltia subterranea GV SPECIES
-=======
+# Feltia subterranea GV SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melittangium GENUS
-=======
+# Melittangium GENUS
 
 #### Status
 ACCEPTED

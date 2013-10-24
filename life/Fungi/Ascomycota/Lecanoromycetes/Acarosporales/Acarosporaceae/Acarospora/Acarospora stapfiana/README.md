@@ -1,5 +1,4 @@
-Acarospora stapfiana (Müll. Arg.) Hue SPECIES
-=======
+# Acarospora stapfiana (Müll. Arg.) Hue SPECIES
 
 #### Status
 ACCEPTED

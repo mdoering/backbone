@@ -1,5 +1,4 @@
-Graphina triphoroides M. Wirth & Hale SPECIES
-=======
+# Graphina triphoroides M. Wirth & Hale SPECIES
 
 #### Status
 ACCEPTED

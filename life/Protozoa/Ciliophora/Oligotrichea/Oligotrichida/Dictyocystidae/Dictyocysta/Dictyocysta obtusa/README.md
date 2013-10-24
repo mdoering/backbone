@@ -1,5 +1,4 @@
-Dictyocysta obtusa Jörgensen, 1924 SPECIES
-=======
+# Dictyocysta obtusa Jörgensen, 1924 SPECIES
 
 #### Status
 ACCEPTED

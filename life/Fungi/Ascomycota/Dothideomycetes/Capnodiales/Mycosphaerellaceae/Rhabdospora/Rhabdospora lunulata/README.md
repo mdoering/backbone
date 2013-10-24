@@ -1,5 +1,4 @@
-Rhabdospora lunulata Bubák SPECIES
-=======
+# Rhabdospora lunulata Bubák SPECIES
 
 #### Status
 ACCEPTED

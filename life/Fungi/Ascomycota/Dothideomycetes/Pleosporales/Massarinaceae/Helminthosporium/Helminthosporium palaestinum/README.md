@@ -1,5 +1,4 @@
-Helminthosporium palaestinum Savul. & Rayss SPECIES
-=======
+# Helminthosporium palaestinum Savul. & Rayss SPECIES
 
 #### Status
 ACCEPTED

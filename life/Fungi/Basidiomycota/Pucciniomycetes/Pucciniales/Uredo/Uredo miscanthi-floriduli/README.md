@@ -1,5 +1,4 @@
-Uredo miscanthi-floriduli Z.C. Chen SPECIES
-=======
+# Uredo miscanthi-floriduli Z.C. Chen SPECIES
 
 #### Status
 ACCEPTED

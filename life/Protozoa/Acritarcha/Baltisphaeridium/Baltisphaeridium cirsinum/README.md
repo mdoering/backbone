@@ -1,5 +1,4 @@
-Baltisphaeridium cirsinum Uutela & Tynni, 1991 SPECIES
-=======
+# Baltisphaeridium cirsinum Uutela & Tynni, 1991 SPECIES
 
 #### Status
 ACCEPTED

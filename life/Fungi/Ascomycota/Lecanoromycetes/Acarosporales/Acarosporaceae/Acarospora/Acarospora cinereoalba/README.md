@@ -1,5 +1,4 @@
-Acarospora cinereoalba (Fink) H. Magn. SPECIES
-=======
+# Acarospora cinereoalba (Fink) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

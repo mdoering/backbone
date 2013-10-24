@@ -1,17 +1,16 @@
-Capnodium loranlhae D.K. Kulk. & U.K. Kulk. SPECIES
-=======
+# Capnodium loranthi D.K. Kulk. & U.K. Kulk. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biovigyanam 4(1): 3 (1978)
 
 #### Original name
-Capnodium loranlhae D.K. Kulk. & U.K. Kulk.
+Capnodium loranthi D.K. Kulk. & U.K. Kulk.
 
 ### Remarks
 null

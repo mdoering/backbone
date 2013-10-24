@@ -1,5 +1,4 @@
-Dicaeoma sphenicum (Arthur) Arthur & H.S. Jacks. SPECIES
-=======
+# Dicaeoma sphenicum (Arthur) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

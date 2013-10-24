@@ -1,5 +1,4 @@
-Caloplaca atra Poelt & H. Mayrhofer SPECIES
-=======
+# Caloplaca atra Poelt & H. Mayrhofer SPECIES
 
 #### Status
 ACCEPTED

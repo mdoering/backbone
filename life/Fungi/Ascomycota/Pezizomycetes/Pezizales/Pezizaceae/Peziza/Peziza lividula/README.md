@@ -1,5 +1,4 @@
-Peziza lividula W. Phillips, 1877 SPECIES
-=======
+# Peziza lividula W. Phillips, 1877 SPECIES
 
 #### Status
 ACCEPTED

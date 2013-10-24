@@ -1,5 +1,4 @@
-Sporadotrema Hickson, 1911 GENUS
-=======
+# Sporadotrema Hickson, 1911 GENUS
 
 #### Status
 ACCEPTED

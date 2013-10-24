@@ -1,5 +1,4 @@
-Auricularia elegans Sowerby SPECIES
-=======
+# Auricularia elegans Sowerby SPECIES
 
 #### Status
 ACCEPTED

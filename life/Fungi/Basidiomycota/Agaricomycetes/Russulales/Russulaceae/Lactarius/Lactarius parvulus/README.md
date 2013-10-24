@@ -1,17 +1,16 @@
-Lactaria parvula Murrill SPECIES
-=======
+# Lactarius parvulus Murrill SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Torrey bot. Club 67: 58 (1940)
 
 #### Original name
-Lactaria parvula Murrill
+Lactarius parvulus Murrill
 
 ### Remarks
 null

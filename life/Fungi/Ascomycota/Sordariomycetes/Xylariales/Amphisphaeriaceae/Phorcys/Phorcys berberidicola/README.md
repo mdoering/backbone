@@ -1,17 +1,16 @@
-Phorcys berberidincola Rehm SPECIES
-=======
+# Phorcys berberidicola Rehm SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 4(3): 268 (1906)
 
 #### Original name
-Phorcys berberidincola Rehm
+Phorcys berberidicola Rehm
 
 ### Remarks
 null

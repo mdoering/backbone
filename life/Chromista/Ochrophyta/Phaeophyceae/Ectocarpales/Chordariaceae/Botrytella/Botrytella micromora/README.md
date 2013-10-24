@@ -1,11 +1,10 @@
-Sorocarpus uvaeformis var. balticus Reinke, 1889 VARIETY
-=======
+# Botrytella micromora Bory de Saint-Vincent SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

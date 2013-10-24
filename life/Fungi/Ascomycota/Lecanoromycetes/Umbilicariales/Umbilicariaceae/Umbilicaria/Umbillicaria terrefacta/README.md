@@ -1,5 +1,4 @@
-Umbillicaria terrefacta SPECIES
-=======
+# Umbillicaria terrefacta SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Chaetosphaeria brevispora Shoemaker, 1968 SPECIES
-=======
+# Chaetosphaeria brevispora Shoemaker, 1968 SPECIES
 
 #### Status
 ACCEPTED

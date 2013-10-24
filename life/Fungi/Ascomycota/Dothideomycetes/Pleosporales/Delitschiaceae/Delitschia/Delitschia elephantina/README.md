@@ -1,5 +1,4 @@
-Delitschia elephantina Pass. SPECIES
-=======
+# Delitschia elephantina Pass. SPECIES
 
 #### Status
 ACCEPTED

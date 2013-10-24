@@ -1,5 +1,4 @@
-Phoma trigonaspidis Trotter SPECIES
-=======
+# Phoma trigonaspidis Trotter SPECIES
 
 #### Status
 ACCEPTED

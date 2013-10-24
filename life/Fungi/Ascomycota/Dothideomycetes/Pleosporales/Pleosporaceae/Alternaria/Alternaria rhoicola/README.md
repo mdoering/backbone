@@ -1,5 +1,4 @@
-Alternaria rhoicola T.Y. Zhang & J.Z. Zhang SPECIES
-=======
+# Alternaria rhoicola T.Y. Zhang & J.Z. Zhang SPECIES
 
 #### Status
 ACCEPTED

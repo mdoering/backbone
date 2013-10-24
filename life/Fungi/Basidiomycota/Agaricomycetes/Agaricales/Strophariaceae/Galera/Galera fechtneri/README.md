@@ -1,5 +1,4 @@
-Galera fechtneri Velen. SPECIES
-=======
+# Galera fechtneri Velen. SPECIES
 
 #### Status
 ACCEPTED

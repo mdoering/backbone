@@ -1,5 +1,4 @@
-Ramalina digitata Meyen & Flot. SPECIES
-=======
+# Ramalina digitata Meyen & Flot. SPECIES
 
 #### Status
 ACCEPTED

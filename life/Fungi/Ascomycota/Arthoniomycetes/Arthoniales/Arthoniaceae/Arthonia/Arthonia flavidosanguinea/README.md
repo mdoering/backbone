@@ -1,5 +1,4 @@
-Arthonia flavidosanguinea Zahlbr. SPECIES
-=======
+# Arthonia flavidosanguinea Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

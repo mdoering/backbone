@@ -1,5 +1,4 @@
-Polyporus scutatus (Hoffm.) Pers. SPECIES
-=======
+# Polyporus scutatus (Hoffm.) Pers. SPECIES
 
 #### Status
 ACCEPTED

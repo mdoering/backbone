@@ -1,5 +1,4 @@
-Ascochyta vulnerariae Fuckel SPECIES
-=======
+# Ascochyta vulnerariae Fuckel SPECIES
 
 #### Status
 ACCEPTED

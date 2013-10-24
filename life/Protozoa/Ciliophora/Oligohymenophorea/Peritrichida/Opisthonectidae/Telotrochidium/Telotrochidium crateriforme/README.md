@@ -1,8 +1,7 @@
-Vorticella crateriformis Muller, 1773 SPECIES
-=======
+# Telotrochidium crateriforme (Müller, 1773) Kent, 1881 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

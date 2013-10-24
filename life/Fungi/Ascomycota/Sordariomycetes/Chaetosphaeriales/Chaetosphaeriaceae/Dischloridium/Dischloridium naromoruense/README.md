@@ -1,5 +1,4 @@
-Dischloridium naromoruense P.M. Kirk SPECIES
-=======
+# Dischloridium naromoruense P.M. Kirk SPECIES
 
 #### Status
 ACCEPTED

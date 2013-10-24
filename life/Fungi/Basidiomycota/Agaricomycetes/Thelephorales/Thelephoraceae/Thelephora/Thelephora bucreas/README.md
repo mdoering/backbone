@@ -1,5 +1,4 @@
-Thelephora bucreas Spreng. SPECIES
-=======
+# Thelephora bucreas Spreng. SPECIES
 
 #### Status
 ACCEPTED

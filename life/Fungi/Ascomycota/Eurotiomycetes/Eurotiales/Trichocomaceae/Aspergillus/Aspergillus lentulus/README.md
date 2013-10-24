@@ -1,5 +1,4 @@
-Aspergillus lentulus Balajee & K.A. Marr SPECIES
-=======
+# Aspergillus lentulus Balajee & K.A. Marr SPECIES
 
 #### Status
 ACCEPTED

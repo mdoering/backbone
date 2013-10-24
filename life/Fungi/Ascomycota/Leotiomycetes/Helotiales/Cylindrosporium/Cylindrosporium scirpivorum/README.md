@@ -1,17 +1,16 @@
-Cylindrosporium scirpivora R. Sprague SPECIES
-=======
+# Cylindrosporium scirpivorum R. Sprague SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Res. Stud. State Coll. Wash. 26: 75 (1958)
 
 #### Original name
-Cylindrosporium scirpivora R. Sprague
+Cylindrosporium scirpivorum R. Sprague
 
 ### Remarks
 null

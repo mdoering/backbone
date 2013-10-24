@@ -1,5 +1,4 @@
-Opegrapha plectocarpoidea Diederich SPECIES
-=======
+# Opegrapha plectocarpoidea Diederich SPECIES
 
 #### Status
 ACCEPTED

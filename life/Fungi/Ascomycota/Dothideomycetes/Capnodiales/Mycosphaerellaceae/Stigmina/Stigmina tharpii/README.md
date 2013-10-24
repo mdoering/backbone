@@ -1,5 +1,4 @@
-Stigmina tharpii Morgan-Jones & W.B. Kendr. SPECIES
-=======
+# Stigmina tharpii Morgan-Jones & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Lamprospora crechqueraultii var. paludosa Dennis, 1956 VARIETY
-=======
+# Oviascoma paludosum (Dennis) Y.J. Yao & Spooner, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Kew Bull. 572 (1956)
+Mycol. Res. 100(1): 102 (1996)
 
 #### Original name
 Lamprospora crechqueraultii var. paludosa Dennis, 1956

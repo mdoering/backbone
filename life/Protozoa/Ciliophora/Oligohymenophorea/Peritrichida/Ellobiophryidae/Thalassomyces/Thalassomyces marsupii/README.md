@@ -1,5 +1,4 @@
-Thalassomyces marsupii W.D. Kane SPECIES
-=======
+# Thalassomyces marsupii W.D. Kane SPECIES
 
 #### Status
 ACCEPTED

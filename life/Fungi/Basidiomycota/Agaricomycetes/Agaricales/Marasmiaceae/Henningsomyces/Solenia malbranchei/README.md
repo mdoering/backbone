@@ -1,5 +1,4 @@
-Solenia malbranchei Pat. SPECIES
-=======
+# Solenia malbranchei Pat. SPECIES
 
 #### Status
 ACCEPTED

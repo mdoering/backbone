@@ -1,5 +1,4 @@
-Inocybe magnifica (E. Horak) Garrido SPECIES
-=======
+# Inocybe magnifica (E. Horak) Garrido SPECIES
 
 #### Status
 ACCEPTED

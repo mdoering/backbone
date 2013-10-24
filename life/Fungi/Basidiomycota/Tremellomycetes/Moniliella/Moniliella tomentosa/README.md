@@ -1,17 +1,16 @@
-Moniliella tomentosa var. tomentosa (J.F.H. Beyma) Stolk VARIETY
-=======
+# Moniliella tomentosa (J.F.H. Beyma) Stolk, 1966 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 in Stolk & Dakin, Antonie van Leeuwenhoek 32: 405 (1966)
 
 #### Original name
-Moniliella tomentosa var. tomentosa (J.F.H. Beyma) Stolk
+null
 
 ### Remarks
 null

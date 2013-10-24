@@ -1,5 +1,4 @@
-Marinilactibacillus Ishikawa, Nakajima, Yanagi, Yamamoto & Yamasato, 2003 GENUS
-=======
+# Marinilactibacillus Ishikawa, Nakajima, Yanagi, Yamamoto & Yamasato, 2003 GENUS
 
 #### Status
 ACCEPTED

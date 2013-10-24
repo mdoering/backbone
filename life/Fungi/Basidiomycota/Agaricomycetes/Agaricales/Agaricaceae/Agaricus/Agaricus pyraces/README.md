@@ -1,5 +1,4 @@
-Agaricus pyraces Berk. & Broome SPECIES
-=======
+# Agaricus pyraces Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

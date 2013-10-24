@@ -1,5 +1,4 @@
-Monochaetia tecomae (Niessl) Sacc. SPECIES
-=======
+# Monochaetia tecomae (Niessl) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Myriotrema myriocarpum (Fée) Hale SPECIES
-=======
+# Myriotrema myriocarpum (Fée) Hale SPECIES
 
 #### Status
 ACCEPTED

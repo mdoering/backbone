@@ -1,5 +1,4 @@
-Xylanimonas cellulosilytica Rivas et al., 2003 SPECIES
-=======
+# Xylanimonas cellulosilytica Rivas et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

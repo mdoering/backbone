@@ -1,17 +1,16 @@
-Coriolopsis trabea f. trabea FORM
-=======
+# Gloeophyllum trabeum (Pers.) Murrill, 1908 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 39(1): 62 (1941)
+N. Amer. Fl. (New York) 9(2): 129 (1908)
 
 #### Original name
-Coriolopsis trabea f. trabea
+Agaricus trabeus Pers., 1801
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Mucor nucum (Corda) Berl. & De Toni SPECIES
-=======
+# Mucor nucuum (Corda) Berl. & De Toni SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Berlese, De Toni & Fischer, Syll. fung. (Abellini) 7: 199 (1888)
 
 #### Original name
 Ascophora nucuum Corda

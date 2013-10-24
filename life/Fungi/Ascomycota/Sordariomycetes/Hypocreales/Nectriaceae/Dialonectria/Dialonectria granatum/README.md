@@ -1,5 +1,4 @@
-Dialonectria granatum (Wallr.) Cooke SPECIES
-=======
+# Dialonectria granatum (Wallr.) Cooke SPECIES
 
 #### Status
 ACCEPTED

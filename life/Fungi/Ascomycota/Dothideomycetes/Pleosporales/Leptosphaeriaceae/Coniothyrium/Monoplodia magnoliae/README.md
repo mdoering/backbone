@@ -1,5 +1,4 @@
-Monoplodia magnoliae Westend. SPECIES
-=======
+# Monoplodia magnoliae Westend. SPECIES
 
 #### Status
 ACCEPTED

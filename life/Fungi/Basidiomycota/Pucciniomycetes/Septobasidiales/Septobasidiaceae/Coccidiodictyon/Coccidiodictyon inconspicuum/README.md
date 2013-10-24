@@ -1,5 +1,4 @@
-Coccidiodictyon inconspicuum Oberw., 1989 SPECIES
-=======
+# Coccidiodictyon inconspicuum Oberw., 1989 SPECIES
 
 #### Status
 ACCEPTED

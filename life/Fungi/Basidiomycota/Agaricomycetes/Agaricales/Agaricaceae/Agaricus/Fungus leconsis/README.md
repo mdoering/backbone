@@ -1,5 +1,4 @@
-Fungus leconsis (Harz) Kuntze SPECIES
-=======
+# Fungus leconsis (Harz) Kuntze SPECIES
 
 #### Status
 ACCEPTED

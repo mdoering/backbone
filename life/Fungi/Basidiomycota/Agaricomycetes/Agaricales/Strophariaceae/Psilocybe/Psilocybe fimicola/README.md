@@ -1,5 +1,4 @@
-Psilocybe fimicola Guzmán SPECIES
-=======
+# Psilocybe fimicola Guzmán SPECIES
 
 #### Status
 ACCEPTED

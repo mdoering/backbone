@@ -1,17 +1,16 @@
-Tarichium acaricolum Balazy & J. Wisn. SPECIES
-=======
+# Tarichium acaricola Balazy & J. Wisn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Acta Mycologica, Warszawa 20(2): 163 (1986)
 
 #### Original name
-Tarichium acaricolum Balazy & J. Wisn.
+Tarichium acaricola Balazy & J. Wisn.
 
 ### Remarks
 null

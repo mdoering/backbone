@@ -1,5 +1,4 @@
-Amplectella tricollaria (Laackmann, 1910) Balech, 1975 SPECIES
-=======
+# Amplectella tricollaria (Laackmann, 1910) Balech, 1975 SPECIES
 
 #### Status
 ACCEPTED

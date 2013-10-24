@@ -1,5 +1,4 @@
-Panellus megalosporus Corner, 1986 SPECIES
-=======
+# Panellus megalosporus Corner, 1986 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteridiella chardonii (Toro) S. Hughes SPECIES
-=======
+# Asteridiella chardonii (Toro) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

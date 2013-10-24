@@ -1,5 +1,4 @@
-Solorinina crocoides Nyl. SPECIES
-=======
+# Solorinina crocoides Nyl. SPECIES
 
 #### Status
 ACCEPTED

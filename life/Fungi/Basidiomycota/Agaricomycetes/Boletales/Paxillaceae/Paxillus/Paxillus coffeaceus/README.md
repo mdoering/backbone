@@ -1,5 +1,4 @@
-Paxillus coffeaceus Velen. SPECIES
-=======
+# Paxillus coffeaceus Velen. SPECIES
 
 #### Status
 ACCEPTED

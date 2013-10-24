@@ -1,5 +1,4 @@
-Amanita toxica (Lazo) Garrido & Bresinsky SPECIES
-=======
+# Amanita toxica (Lazo) Garrido & Bresinsky SPECIES
 
 #### Status
 ACCEPTED

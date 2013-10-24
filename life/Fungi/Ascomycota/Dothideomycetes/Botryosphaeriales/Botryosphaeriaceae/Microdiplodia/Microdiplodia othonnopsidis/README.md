@@ -1,17 +1,16 @@
-Microdiplodia othonopsidis S. Ahmad & Arshad SPECIES
-=======
+# Microdiplodia othonnopsidis S. Ahmad & Arshad SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biologia, Lahore 18(2): 118 (1972)
 
 #### Original name
-Microdiplodia othonopsidis S. Ahmad & Arshad
+Microdiplodia othonnopsidis S. Ahmad & Arshad
 
 ### Remarks
 null

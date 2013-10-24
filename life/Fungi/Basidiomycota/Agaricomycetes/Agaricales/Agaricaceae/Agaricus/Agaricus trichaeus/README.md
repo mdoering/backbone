@@ -1,5 +1,4 @@
-Agaricus trichaeus Pers. SPECIES
-=======
+# Agaricus trichaeus Pers. SPECIES
 
 #### Status
 ACCEPTED

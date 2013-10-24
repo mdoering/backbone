@@ -1,5 +1,4 @@
-Metasphaeria myricae Peck SPECIES
-=======
+# Metasphaeria myricae Peck SPECIES
 
 #### Status
 ACCEPTED

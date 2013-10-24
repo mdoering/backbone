@@ -1,5 +1,4 @@
-Collema erythrophthalmum Taylor SPECIES
-=======
+# Collema erythrophthalmum Taylor SPECIES
 
 #### Status
 ACCEPTED

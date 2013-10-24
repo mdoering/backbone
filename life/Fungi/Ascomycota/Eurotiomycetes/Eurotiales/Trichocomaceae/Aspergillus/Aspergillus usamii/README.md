@@ -1,5 +1,4 @@
-Aspergillus usamii Sakag., Iizuka & M. Yamaz. ex Iizuka & K. Sugiy. SPECIES
-=======
+# Aspergillus usamii Sakag., Iizuka & M. Yamaz. ex Iizuka & K. Sugiy. SPECIES
 
 #### Status
 ACCEPTED

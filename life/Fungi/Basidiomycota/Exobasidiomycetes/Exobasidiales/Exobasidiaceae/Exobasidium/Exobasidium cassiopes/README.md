@@ -1,5 +1,4 @@
-Exobasidium cassiopes Peck SPECIES
-=======
+# Exobasidium cassiopes Peck SPECIES
 
 #### Status
 ACCEPTED

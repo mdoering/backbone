@@ -1,5 +1,4 @@
-Haplocaulus carinogammari (Stiller, 1963) Stiller, 1971 SPECIES
-=======
+# Haplocaulus carinogammari (Stiller, 1963) Stiller, 1971 SPECIES
 
 #### Status
 ACCEPTED

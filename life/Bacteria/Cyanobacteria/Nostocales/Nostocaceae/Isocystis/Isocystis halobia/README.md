@@ -1,5 +1,4 @@
-Isocystis halobia K. Anagnostidis & M. Roussomoustakaki SPECIES
-=======
+# Isocystis halobia K. Anagnostidis & M. Roussomoustakaki SPECIES
 
 #### Status
 ACCEPTED

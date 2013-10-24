@@ -1,5 +1,4 @@
-Puccinia ahmadiana Syd. SPECIES
-=======
+# Puccinia ahmadiana Syd. SPECIES
 
 #### Status
 ACCEPTED

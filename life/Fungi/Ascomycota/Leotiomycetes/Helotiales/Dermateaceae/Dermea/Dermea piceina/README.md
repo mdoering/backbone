@@ -1,5 +1,4 @@
-Dermea piceina J.W. Groves, 1946 SPECIES
-=======
+# Dermea piceina J.W. Groves, 1946 SPECIES
 
 #### Status
 ACCEPTED

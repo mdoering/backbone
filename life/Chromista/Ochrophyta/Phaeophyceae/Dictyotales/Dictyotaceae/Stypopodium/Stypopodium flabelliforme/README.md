@@ -1,8 +1,7 @@
-Zonaria hawaiiensis Doty & Newhouse SPECIES
-=======
+# Stypopodium flabelliforme Weber-van Bosse SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

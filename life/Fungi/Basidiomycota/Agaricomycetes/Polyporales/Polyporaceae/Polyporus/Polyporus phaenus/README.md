@@ -1,5 +1,4 @@
-Polyporus phaenus Berk. SPECIES
-=======
+# Polyporus phaenus Berk. SPECIES
 
 #### Status
 ACCEPTED

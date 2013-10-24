@@ -1,5 +1,4 @@
-Gymnopilus karrara Grgur. SPECIES
-=======
+# Gymnopilus karrara Grgur. SPECIES
 
 #### Status
 ACCEPTED

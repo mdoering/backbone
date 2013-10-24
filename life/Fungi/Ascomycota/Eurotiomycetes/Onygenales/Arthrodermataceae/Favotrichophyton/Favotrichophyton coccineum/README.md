@@ -1,5 +1,4 @@
-Favotrichophyton coccineum (Katoh {?} ) C.W. Dodge SPECIES
-=======
+# Favotrichophyton coccineum (Katoh {?} ) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

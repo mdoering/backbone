@@ -1,5 +1,4 @@
-Septoria monspessulani Ranoj. SPECIES
-=======
+# Septoria monspessulani Ranoj. SPECIES
 
 #### Status
 ACCEPTED

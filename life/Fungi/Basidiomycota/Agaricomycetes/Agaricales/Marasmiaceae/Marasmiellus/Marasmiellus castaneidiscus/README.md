@@ -1,5 +1,4 @@
-Marasmiellus castaneidiscus (Murrill) Singer SPECIES
-=======
+# Marasmiellus castaneidiscus (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius tasmaniensis Singer SPECIES
-=======
+# Marasmius tasmaniensis Singer SPECIES
 
 #### Status
 ACCEPTED

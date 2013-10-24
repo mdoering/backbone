@@ -1,5 +1,4 @@
-Amanita hamadae Nagas. & Hongo SPECIES
-=======
+# Amanita hamadae Nagas. & Hongo SPECIES
 
 #### Status
 ACCEPTED

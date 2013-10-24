@@ -1,5 +1,4 @@
-Endoscrinium campanulum (Gocht, 1959) Vozzhennikova, 1967 SPECIES
-=======
+# Endoscrinium campanulum (Gocht, 1959) Vozzhennikova, 1967 SPECIES
 
 #### Status
 ACCEPTED

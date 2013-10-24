@@ -1,5 +1,4 @@
-Pseudocercospora imazekii Tak. Kobay. & Nagash. SPECIES
-=======
+# Pseudocercospora imazekii Tak. Kobay. & Nagash. SPECIES
 
 #### Status
 ACCEPTED

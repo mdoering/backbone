@@ -1,5 +1,4 @@
-Sclerophoma nitida (Roberge) Höhn. SPECIES
-=======
+# Sclerophoma nitida (Roberge) Höhn. SPECIES
 
 #### Status
 ACCEPTED

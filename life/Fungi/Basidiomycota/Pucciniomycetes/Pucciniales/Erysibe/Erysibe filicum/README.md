@@ -1,5 +1,4 @@
-Erysibe filicum Wallr. SPECIES
-=======
+# Erysibe filicum Wallr. SPECIES
 
 #### Status
 ACCEPTED
