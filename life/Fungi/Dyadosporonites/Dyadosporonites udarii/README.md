@@ -1,5 +1,4 @@
-Dyadosporonites udarii A. Gupta SPECIES
-=======
+# Dyadosporonites udarii A. Gupta SPECIES
 
 #### Status
 ACCEPTED

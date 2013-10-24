@@ -1,5 +1,4 @@
-Nellymyces A. Batko GENUS
-=======
+# Nellymyces A. Batko GENUS
 
 #### Status
 ACCEPTED

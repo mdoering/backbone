@@ -1,5 +1,4 @@
-Bavlinella irishii Sah, Maithy & Bhargava, 1977 SPECIES
-=======
+# Bavlinella irishii Sah, Maithy & Bhargava, 1977 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Drechmeria W. Gams & H.-B. Jansson, 1985 GENUS
-=======
+# Drechmeria W. Gams & H.-B. Jansson, 1985 GENUS
 
 #### Status
 ACCEPTED

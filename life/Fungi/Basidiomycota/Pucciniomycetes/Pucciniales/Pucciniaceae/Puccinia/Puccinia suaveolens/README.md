@@ -1,17 +1,16 @@
-Puccinia suaveolens f. suaveolens FORM
-=======
+# Puccinia suaveolens (Pers.) Rostr., 1874 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 J. appl. Mycol. 1: 339 (1874)
 
 #### Original name
-Puccinia suaveolens f. suaveolens
+Uredo suaveolens Pers., 1801
 
 ### Remarks
 null

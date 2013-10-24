@@ -1,5 +1,4 @@
-Heliolithus universus F.H. Wind & S.W. Wise SPECIES
-=======
+# Heliolithus universus F.H. Wind & S.W. Wise SPECIES
 
 #### Status
 ACCEPTED

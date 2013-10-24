@@ -1,5 +1,4 @@
-Lasiosphaeria capitata Cand., J. Fourn. & Magni SPECIES
-=======
+# Lasiosphaeria capitata Cand., J. Fourn. & Magni SPECIES
 
 #### Status
 ACCEPTED

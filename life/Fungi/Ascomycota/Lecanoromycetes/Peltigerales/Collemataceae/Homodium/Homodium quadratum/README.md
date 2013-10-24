@@ -1,5 +1,4 @@
-Homodium quadratum (J. Lahm) Boistel SPECIES
-=======
+# Homodium quadratum (J. Lahm) Boistel SPECIES
 
 #### Status
 ACCEPTED

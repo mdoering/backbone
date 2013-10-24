@@ -1,8 +1,7 @@
-Dictyota apiculata var. jedanensis VARIETY
-=======
+# Canistrocarpus crispatus (J.V.Lamouroux) De Paula & De Clerck, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

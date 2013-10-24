@@ -1,5 +1,4 @@
-Fusariella intermedia Mouch. & Nicot, 1973 SPECIES
-=======
+# Fusariella intermedia Mouch. & Nicot, 1973 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Panaeolus microsporus Ola'h & Cailleux SPECIES
-=======
+# Panaeolus microsporus Ola'h & Cailleux SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fucus teres SPECIES
-=======
+# Fucus teres SPECIES
 
 #### Status
 ACCEPTED

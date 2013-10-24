@@ -1,5 +1,4 @@
-Macrophoma arens Davis SPECIES
-=======
+# Macrophoma arens Davis SPECIES
 
 #### Status
 ACCEPTED

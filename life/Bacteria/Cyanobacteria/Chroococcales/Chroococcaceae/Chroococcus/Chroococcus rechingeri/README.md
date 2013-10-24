@@ -1,5 +1,4 @@
-Chroococcus rechingeri Wille SPECIES
-=======
+# Chroococcus rechingeri Wille SPECIES
 
 #### Status
 ACCEPTED

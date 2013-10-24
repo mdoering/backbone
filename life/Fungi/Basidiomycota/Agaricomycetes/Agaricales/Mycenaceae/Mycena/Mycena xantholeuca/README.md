@@ -1,5 +1,4 @@
-Mycena xantholeuca Kühner, 1938 SPECIES
-=======
+# Mycena xantholeuca Kühner, 1938 SPECIES
 
 #### Status
 ACCEPTED

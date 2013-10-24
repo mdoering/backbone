@@ -1,5 +1,4 @@
-Discoaster martinii Stradner, 1959 SPECIES
-=======
+# Discoaster martinii Stradner, 1959 SPECIES
 
 #### Status
 ACCEPTED

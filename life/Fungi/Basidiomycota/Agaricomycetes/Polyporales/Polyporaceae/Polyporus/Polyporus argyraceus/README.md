@@ -1,5 +1,4 @@
-Polyporus argyraceus Pers. SPECIES
-=======
+# Polyporus argyraceus Pers. SPECIES
 
 #### Status
 ACCEPTED

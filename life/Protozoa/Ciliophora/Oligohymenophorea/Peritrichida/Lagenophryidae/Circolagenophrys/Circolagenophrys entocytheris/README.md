@@ -1,5 +1,4 @@
-Circolagenophrys entocytheris SPECIES
-=======
+# Circolagenophrys entocytheris SPECIES
 
 #### Status
 ACCEPTED

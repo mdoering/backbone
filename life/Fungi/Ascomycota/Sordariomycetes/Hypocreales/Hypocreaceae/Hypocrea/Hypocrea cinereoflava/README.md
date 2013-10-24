@@ -1,5 +1,4 @@
-Hypocrea cinereoflava Samuels & Seifert SPECIES
-=======
+# Hypocrea cinereoflava Samuels & Seifert SPECIES
 
 #### Status
 ACCEPTED

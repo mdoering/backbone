@@ -1,5 +1,4 @@
-Ruwenzoria pseudoannulata J. Fourn., M. Stadler, Laessøe & Decock, 2010 SPECIES
-=======
+# Ruwenzoria pseudoannulata J. Fourn., M. Stadler, Laessøe & Decock, 2010 SPECIES
 
 #### Status
 ACCEPTED

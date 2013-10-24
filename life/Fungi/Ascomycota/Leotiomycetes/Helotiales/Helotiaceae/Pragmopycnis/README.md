@@ -1,5 +1,4 @@
-Pragmopycnis B. Sutton & A. Funk GENUS
-=======
+# Pragmopycnis B. Sutton & A. Funk GENUS
 
 #### Status
 ACCEPTED

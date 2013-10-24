@@ -1,5 +1,4 @@
-Lecidea pumicicola H. Magn. SPECIES
-=======
+# Lecidea pumicicola H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Linospora pandani Rehm SPECIES
-=======
+# Linospora pandani Rehm SPECIES
 
 #### Status
 ACCEPTED

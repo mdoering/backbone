@@ -1,5 +1,4 @@
-Verrucaria inconstans P. M. McCarthy SPECIES
-=======
+# Verrucaria inconstans P. M. McCarthy SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetostigmella papillifera Syd. & P. Syd. SPECIES
-=======
+# Chaetostigmella papillifera Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

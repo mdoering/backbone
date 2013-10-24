@@ -1,5 +1,4 @@
-Galerina cingulata Singer SPECIES
-=======
+# Galerina cingulata Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fomes atropurpureus (Berk.) Cooke SPECIES
-=======
+# Fomes atropurpureus (Berk.) Cooke SPECIES
 
 #### Status
 ACCEPTED

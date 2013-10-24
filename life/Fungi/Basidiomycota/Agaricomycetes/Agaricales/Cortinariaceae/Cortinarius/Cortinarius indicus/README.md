@@ -1,5 +1,4 @@
-Cortinarius indicus Rawla SPECIES
-=======
+# Cortinarius indicus Rawla SPECIES
 
 #### Status
 ACCEPTED

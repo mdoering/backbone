@@ -1,5 +1,4 @@
-Charlesdowniea variabilis (Bujak) J. K. Lentin & T. F. Vozzhennikova SPECIES
-=======
+# Charlesdowniea variabilis (Bujak) J. K. Lentin & T. F. Vozzhennikova SPECIES
 
 #### Status
 ACCEPTED

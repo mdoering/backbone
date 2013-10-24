@@ -1,5 +1,4 @@
-Sphaeria palliolata Schwein. SPECIES
-=======
+# Sphaeria palliolata Schwein. SPECIES
 
 #### Status
 ACCEPTED

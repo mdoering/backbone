@@ -1,5 +1,4 @@
-Ochrolechia subisidiata Brodo SPECIES
-=======
+# Ochrolechia subisidiata Brodo SPECIES
 
 #### Status
 ACCEPTED

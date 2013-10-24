@@ -1,17 +1,16 @@
-Phyllachora parberi Kamat & A. Pande SPECIES
-=======
+# Phyllachora parberyi Kamat & A. Pande, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Pande, Trans. Br. mycol. Soc. 63: 404 (1974)
 
 #### Original name
-Phyllachora parberi Kamat & A. Pande
+Phyllachora eugeniae Thüm. ex Cooke, 1885
 
 ### Remarks
 null

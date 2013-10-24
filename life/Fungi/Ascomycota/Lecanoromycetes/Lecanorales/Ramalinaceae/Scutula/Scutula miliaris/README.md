@@ -1,5 +1,4 @@
-Scutula miliaris (Wallr.) P. Karst. SPECIES
-=======
+# Scutula miliaris (Wallr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

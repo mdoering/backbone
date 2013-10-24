@@ -1,5 +1,4 @@
-Nonomuraea pusilla (Nonomura & Ohara, 1971) Zhang et al., 1998 SPECIES
-=======
+# Nonomuraea pusilla (Nonomura & Ohara, 1971) Zhang et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Herringtonia Kraft, 2009 GENUS
-=======
+# Herringtonia Kraft, 2009 GENUS
 
 #### Status
 ACCEPTED

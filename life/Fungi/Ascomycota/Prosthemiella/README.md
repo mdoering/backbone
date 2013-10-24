@@ -1,5 +1,4 @@
-Prosthemiella Sacc. GENUS
-=======
+# Prosthemiella Sacc. GENUS
 
 #### Status
 ACCEPTED

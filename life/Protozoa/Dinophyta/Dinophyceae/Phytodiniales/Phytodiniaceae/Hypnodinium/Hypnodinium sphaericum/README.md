@@ -1,5 +1,4 @@
-Hypnodinium sphaericum Klebs SPECIES
-=======
+# Hypnodinium sphaericum Klebs SPECIES
 
 #### Status
 ACCEPTED

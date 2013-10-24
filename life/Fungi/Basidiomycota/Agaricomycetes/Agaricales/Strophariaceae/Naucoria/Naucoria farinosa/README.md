@@ -1,5 +1,4 @@
-Naucoria farinosa Velen. SPECIES
-=======
+# Naucoria farinosa Velen. SPECIES
 
 #### Status
 ACCEPTED

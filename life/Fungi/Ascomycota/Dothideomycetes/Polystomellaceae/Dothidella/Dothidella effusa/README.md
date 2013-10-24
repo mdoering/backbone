@@ -1,5 +1,4 @@
-Dothidella effusa A.L. Sm. SPECIES
-=======
+# Dothidella effusa A.L. Sm. SPECIES
 
 #### Status
 ACCEPTED

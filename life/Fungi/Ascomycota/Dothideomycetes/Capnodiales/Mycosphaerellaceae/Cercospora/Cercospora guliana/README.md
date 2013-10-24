@@ -1,5 +1,4 @@
-Cercospora guliana Sacc. SPECIES
-=======
+# Cercospora guliana Sacc. SPECIES
 
 #### Status
 ACCEPTED

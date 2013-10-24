@@ -1,5 +1,4 @@
-Leptostromella rivana Sacc. SPECIES
-=======
+# Leptostromella rivana Sacc. SPECIES
 
 #### Status
 ACCEPTED

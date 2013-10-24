@@ -1,5 +1,4 @@
-Lentomita dubia Feltgen SPECIES
-=======
+# Lentomita dubia Feltgen SPECIES
 
 #### Status
 ACCEPTED

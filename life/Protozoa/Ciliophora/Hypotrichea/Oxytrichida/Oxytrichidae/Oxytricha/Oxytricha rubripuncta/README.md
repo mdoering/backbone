@@ -1,5 +1,4 @@
-Oxytricha rubripuncta Berger & Foissner, 1987 SPECIES
-=======
+# Oxytricha rubripuncta Berger & Foissner, 1987 SPECIES
 
 #### Status
 ACCEPTED

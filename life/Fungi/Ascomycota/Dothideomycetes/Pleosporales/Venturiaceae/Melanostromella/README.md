@@ -1,5 +1,4 @@
-Melanostromella GENUS
-=======
+# Melanostromella GENUS
 
 #### Status
 ACCEPTED

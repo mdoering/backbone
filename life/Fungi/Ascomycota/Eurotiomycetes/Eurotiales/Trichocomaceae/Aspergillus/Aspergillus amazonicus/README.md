@@ -1,5 +1,4 @@
-Aspergillus amazonicus D. Mares SPECIES
-=======
+# Aspergillus amazonicus D. Mares SPECIES
 
 #### Status
 ACCEPTED

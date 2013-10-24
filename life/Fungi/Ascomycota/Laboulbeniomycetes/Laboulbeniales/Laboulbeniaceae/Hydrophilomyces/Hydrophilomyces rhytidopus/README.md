@@ -1,5 +1,4 @@
-Hydrophilomyces rhytidopus (Speg.) Thaxt. SPECIES
-=======
+# Hydrophilomyces rhytidopus (Speg.) Thaxt. SPECIES
 
 #### Status
 ACCEPTED

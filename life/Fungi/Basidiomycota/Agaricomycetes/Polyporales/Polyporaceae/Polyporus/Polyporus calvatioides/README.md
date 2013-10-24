@@ -1,5 +1,4 @@
-Polyporus calvatioides Imazeki SPECIES
-=======
+# Polyporus calvatioides Imazeki SPECIES
 
 #### Status
 ACCEPTED

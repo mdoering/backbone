@@ -1,5 +1,4 @@
-Rhabdospora hibiscicola (Schwein.) Starbäck SPECIES
-=======
+# Rhabdospora hibiscicola (Schwein.) Starbäck SPECIES
 
 #### Status
 ACCEPTED

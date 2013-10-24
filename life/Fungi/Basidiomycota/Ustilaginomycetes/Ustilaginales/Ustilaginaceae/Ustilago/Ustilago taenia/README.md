@@ -1,5 +1,4 @@
-Ustilago taenia Cif. SPECIES
-=======
+# Ustilago taenia Cif. SPECIES
 
 #### Status
 ACCEPTED

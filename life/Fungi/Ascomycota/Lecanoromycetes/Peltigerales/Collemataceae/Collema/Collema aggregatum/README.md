@@ -1,5 +1,4 @@
-Collema aggregatum f. aggregatum FORM
-=======
+# Collema aggregatum SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Collema aggregatum f. aggregatum
+null
 
 ### Remarks
 null

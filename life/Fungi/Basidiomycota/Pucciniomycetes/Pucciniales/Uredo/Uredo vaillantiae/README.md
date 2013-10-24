@@ -1,5 +1,4 @@
-Uredo vaillantiae Westend. SPECIES
-=======
+# Uredo vaillantiae Westend. SPECIES
 
 #### Status
 ACCEPTED

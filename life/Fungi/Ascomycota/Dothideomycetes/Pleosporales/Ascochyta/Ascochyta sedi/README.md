@@ -1,5 +1,4 @@
-Ascochyta sedi Lib. SPECIES
-=======
+# Ascochyta sedi Lib. SPECIES
 
 #### Status
 ACCEPTED

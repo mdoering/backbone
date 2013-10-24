@@ -1,5 +1,4 @@
-Dictyococcites daviesii (Haq, 1968) Perch-Nielsen, 1971 SPECIES
-=======
+# Dictyococcites daviesii (Haq, 1968) Perch-Nielsen, 1971 SPECIES
 
 #### Status
 ACCEPTED

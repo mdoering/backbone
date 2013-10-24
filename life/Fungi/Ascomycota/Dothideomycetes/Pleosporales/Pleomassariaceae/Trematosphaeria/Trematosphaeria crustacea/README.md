@@ -1,5 +1,4 @@
-Trematosphaeria crustacea (Rehm) O.E. Erikss. & J.Z. Yue SPECIES
-=======
+# Trematosphaeria crustacea (Rehm) O.E. Erikss. & J.Z. Yue SPECIES
 
 #### Status
 ACCEPTED

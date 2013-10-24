@@ -1,5 +1,4 @@
-Metasphaeria aquilegiae Bres. SPECIES
-=======
+# Metasphaeria aquilegiae Bres. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tricharia urceolata (Müll. Arg.) R. Sant. SPECIES
-=======
+# Tricharia urceolata (Müll. Arg.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

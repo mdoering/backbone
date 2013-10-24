@@ -1,5 +1,4 @@
-Dothiorella oenotherae (Tassi) Petr. & Syd. SPECIES
-=======
+# Dothiorella oenotherae (Tassi) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

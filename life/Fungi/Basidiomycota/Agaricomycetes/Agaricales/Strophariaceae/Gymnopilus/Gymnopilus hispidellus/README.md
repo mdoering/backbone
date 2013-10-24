@@ -1,5 +1,4 @@
-Gymnopilus hispidellus Murrill SPECIES
-=======
+# Gymnopilus hispidellus Murrill SPECIES
 
 #### Status
 ACCEPTED

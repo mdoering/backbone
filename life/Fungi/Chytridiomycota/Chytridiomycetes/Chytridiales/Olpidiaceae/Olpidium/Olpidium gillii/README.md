@@ -1,5 +1,4 @@
-Olpidium gillii De Wild. SPECIES
-=======
+# Olpidium gillii De Wild. SPECIES
 
 #### Status
 ACCEPTED

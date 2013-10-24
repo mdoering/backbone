@@ -1,5 +1,4 @@
-Pleospora wichuriana J. Schröt. SPECIES
-=======
+# Pleospora wichuriana J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

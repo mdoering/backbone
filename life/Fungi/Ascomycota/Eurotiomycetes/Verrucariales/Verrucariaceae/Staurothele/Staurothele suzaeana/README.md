@@ -1,5 +1,4 @@
-Staurothele suzaeana Servít SPECIES
-=======
+# Staurothele suzaeana Servít SPECIES
 
 #### Status
 ACCEPTED

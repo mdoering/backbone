@@ -1,5 +1,4 @@
-Pratulasphaera novacula R. Wicander & G. Playford SPECIES
-=======
+# Pratulasphaera novacula R. Wicander & G. Playford SPECIES
 
 #### Status
 ACCEPTED

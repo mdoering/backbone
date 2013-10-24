@@ -1,5 +1,4 @@
-Spheconisca koppongica SPECIES
-=======
+# Spheconisca koppongica SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypomyces batavus Arnold SPECIES
-=======
+# Hypomyces batavus Arnold SPECIES
 
 #### Status
 ACCEPTED

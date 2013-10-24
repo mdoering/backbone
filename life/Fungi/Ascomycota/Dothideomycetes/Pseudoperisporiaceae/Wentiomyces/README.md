@@ -1,17 +1,16 @@
-Acarothallium Syd. GENUS
-=======
+# Wentiomyces Koord. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 35: 266 (1937)
+Verh. K. Akad. Wet. , tweede sect. 13(4): 168 (1907)
 
 #### Original name
-Acarothallium Syd.
+Wentiomyces Koord.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Verrucaria squamella Nyl. SPECIES
-=======
+# Verrucaria squamella Nyl. SPECIES
 
 #### Status
 ACCEPTED

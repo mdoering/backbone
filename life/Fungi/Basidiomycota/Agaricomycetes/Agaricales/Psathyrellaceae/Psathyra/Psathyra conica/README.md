@@ -1,5 +1,4 @@
-Psathyra conica Peck SPECIES
-=======
+# Psathyra conica Peck SPECIES
 
 #### Status
 ACCEPTED

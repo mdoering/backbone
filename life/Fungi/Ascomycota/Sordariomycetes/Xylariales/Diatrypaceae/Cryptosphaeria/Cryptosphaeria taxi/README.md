@@ -1,5 +1,4 @@
-Cryptosphaeria taxi Grev. SPECIES
-=======
+# Cryptosphaeria taxi Grev. SPECIES
 
 #### Status
 ACCEPTED

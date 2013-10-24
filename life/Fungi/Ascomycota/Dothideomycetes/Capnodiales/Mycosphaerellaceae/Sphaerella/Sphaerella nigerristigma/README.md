@@ -1,5 +1,4 @@
-Sphaerella nigerristigma (B.B. Higgins) Sacc. SPECIES
-=======
+# Sphaerella nigerristigma (B.B. Higgins) Sacc. SPECIES
 
 #### Status
 ACCEPTED

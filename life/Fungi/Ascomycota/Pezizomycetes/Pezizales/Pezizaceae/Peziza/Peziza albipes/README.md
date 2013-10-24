@@ -1,5 +1,4 @@
-Peziza albipes Wallr. SPECIES
-=======
+# Peziza albipes Wallr. SPECIES
 
 #### Status
 ACCEPTED

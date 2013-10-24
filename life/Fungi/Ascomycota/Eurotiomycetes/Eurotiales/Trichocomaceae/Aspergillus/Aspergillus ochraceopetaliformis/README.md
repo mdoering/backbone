@@ -1,5 +1,4 @@
-Aspergillus ochraceopetaliformis Bat. & Maia SPECIES
-=======
+# Aspergillus ochraceopetaliformis Bat. & Maia SPECIES
 
 #### Status
 ACCEPTED

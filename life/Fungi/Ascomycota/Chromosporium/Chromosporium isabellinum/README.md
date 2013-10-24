@@ -1,5 +1,4 @@
-Chromosporium isabellinum Ellis & Sacc. SPECIES
-=======
+# Chromosporium isabellinum Ellis & Sacc. SPECIES
 
 #### Status
 ACCEPTED

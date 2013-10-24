@@ -1,5 +1,4 @@
-Pseudomonas rhodos Heumann, 1962 SPECIES
-=======
+# Pseudomonas rhodos Heumann, 1962 SPECIES
 
 #### Status
 ACCEPTED

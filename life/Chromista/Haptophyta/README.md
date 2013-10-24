@@ -1,5 +1,4 @@
-Haptophyta D.J. Hibberd ex B. Edvardsen & W. Eikrem, 2000 PHYLUM
-=======
+# Haptophyta D.J. Hibberd ex B. Edvardsen & W. Eikrem, 2000 PHYLUM
 
 #### Status
 ACCEPTED

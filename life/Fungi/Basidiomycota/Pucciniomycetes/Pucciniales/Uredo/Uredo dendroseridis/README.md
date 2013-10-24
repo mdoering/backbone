@@ -1,5 +1,4 @@
-Uredo dendroseridis Jørst. SPECIES
-=======
+# Uredo dendroseridis Jørst. SPECIES
 
 #### Status
 ACCEPTED

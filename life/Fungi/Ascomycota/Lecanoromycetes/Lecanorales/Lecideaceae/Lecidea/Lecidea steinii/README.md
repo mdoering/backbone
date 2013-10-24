@@ -1,5 +1,4 @@
-Lecidea steinii Zahlbr. SPECIES
-=======
+# Lecidea steinii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

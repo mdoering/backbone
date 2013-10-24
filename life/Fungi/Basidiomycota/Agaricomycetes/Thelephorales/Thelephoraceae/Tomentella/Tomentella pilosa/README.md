@@ -1,14 +1,13 @@
-Hypochnus pilosus Burt, 1916 SPECIES
-=======
+# Tomentella pilosa (Burt) Bourdot & Galzin, 1924 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annual Report of the Missouri Botanical Garden, St. Louis 3: 221 (1916)
+Bull. trimest. Soc. mycol. Fr. 40: 160 (1924)
 
 #### Original name
 Hypochnus pilosus Burt, 1916

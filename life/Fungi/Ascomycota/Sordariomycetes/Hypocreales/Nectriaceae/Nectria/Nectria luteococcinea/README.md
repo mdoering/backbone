@@ -1,5 +1,4 @@
-Nectria luteococcinea Höhn. SPECIES
-=======
+# Nectria luteococcinea Höhn. SPECIES
 
 #### Status
 ACCEPTED

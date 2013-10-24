@@ -1,5 +1,4 @@
-Sphaeria eremita Rebent. SPECIES
-=======
+# Sphaeria eremita Rebent. SPECIES
 
 #### Status
 ACCEPTED

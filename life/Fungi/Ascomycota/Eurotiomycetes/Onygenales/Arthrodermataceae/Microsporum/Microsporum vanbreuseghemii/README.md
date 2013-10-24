@@ -1,5 +1,4 @@
-Microsporum vanbreuseghemii Georg, Ajello, Friedman & S.A. Brinkm. SPECIES
-=======
+# Microsporum vanbreuseghemii Georg, Ajello, Friedman & S.A. Brinkm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta turangae Nevod. & Kravtzev SPECIES
-=======
+# Phyllosticta turangae Nevod. & Kravtzev SPECIES
 
 #### Status
 ACCEPTED

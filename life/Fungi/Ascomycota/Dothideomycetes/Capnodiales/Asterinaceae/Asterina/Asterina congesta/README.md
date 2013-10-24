@@ -1,5 +1,4 @@
-Asterina congesta Cooke, 1880 SPECIES
-=======
+# Asterina congesta Cooke, 1880 SPECIES
 
 #### Status
 ACCEPTED

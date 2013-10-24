@@ -1,5 +1,4 @@
-Polygonium multipustulosum (Kjellström, 1971) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Polygonium multipustulosum (Kjellström, 1971) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidia lobarica Printzen & Tønsberg SPECIES
-=======
+# Bacidia lobarica Printzen & Tønsberg SPECIES
 
 #### Status
 ACCEPTED

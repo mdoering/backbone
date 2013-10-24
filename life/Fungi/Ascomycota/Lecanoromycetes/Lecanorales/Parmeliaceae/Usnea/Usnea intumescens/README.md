@@ -1,5 +1,4 @@
-Usnea intumescens f. intumescens FORM
-=======
+# Usnea intumescens Asahina SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Usnea intumescens f. intumescens
+Usnea intumescens Asahina
 
 ### Remarks
 null

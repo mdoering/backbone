@@ -1,5 +1,4 @@
-Bolbitius albus (Peck) Watling SPECIES
-=======
+# Bolbitius albus (Peck) Watling SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria maculaeformis Schumach. SPECIES
-=======
+# Sphaeria maculaeformis Schumach. SPECIES
 
 #### Status
 ACCEPTED

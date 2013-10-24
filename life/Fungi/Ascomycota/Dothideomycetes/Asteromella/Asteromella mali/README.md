@@ -1,5 +1,4 @@
-Asteromella mali (Briard) Boerema, 1965 SPECIES
-=======
+# Asteromella mali (Briard) Boerema, 1965 SPECIES
 
 #### Status
 ACCEPTED

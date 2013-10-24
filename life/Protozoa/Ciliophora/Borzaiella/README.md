@@ -1,5 +1,4 @@
-Borzaiella Makar'eva, 1979 GENUS
-=======
+# Borzaiella Makar'eva, 1979 GENUS
 
 #### Status
 ACCEPTED

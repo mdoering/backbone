@@ -1,5 +1,4 @@
-Morrisiella GENUS
-=======
+# Morrisiella GENUS
 
 #### Status
 ACCEPTED

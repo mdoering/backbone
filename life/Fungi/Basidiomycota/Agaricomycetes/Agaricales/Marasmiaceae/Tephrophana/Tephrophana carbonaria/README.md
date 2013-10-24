@@ -1,5 +1,4 @@
-Tephrophana carbonaria (Velen.) SPECIES
-=======
+# Tephrophana carbonaria (Velen.) SPECIES
 
 #### Status
 ACCEPTED

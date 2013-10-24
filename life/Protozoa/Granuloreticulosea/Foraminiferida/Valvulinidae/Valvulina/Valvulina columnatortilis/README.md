@@ -1,5 +1,4 @@
-Valvulina columnatortilis d’Orbigny, 1843 SPECIES
-=======
+# Valvulina columnatortilis d’Orbigny, 1843 SPECIES
 
 #### Status
 ACCEPTED

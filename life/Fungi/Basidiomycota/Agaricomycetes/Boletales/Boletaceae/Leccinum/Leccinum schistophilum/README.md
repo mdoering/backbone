@@ -1,14 +1,13 @@
-Krombholziella schistophila (Bon) Alessio, 1985 SPECIES
-=======
+# Leccinum schistophilum Bon, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Boletus Dill. ex L. (Saronno) 458 (1985)
+in Bon & Van Haluwyn, Docums Mycol. 11(no. 44): 35 (1981)
 
 #### Original name
 Leccinum schistophilum Bon, 1981

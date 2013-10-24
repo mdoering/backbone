@@ -1,5 +1,4 @@
-Melastiza rubra (L.R. Batra) Maas Geest. SPECIES
-=======
+# Melastiza rubra (L.R. Batra) Maas Geest. SPECIES
 
 #### Status
 ACCEPTED

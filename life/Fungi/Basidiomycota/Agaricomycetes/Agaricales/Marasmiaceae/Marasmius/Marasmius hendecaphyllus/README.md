@@ -1,5 +1,4 @@
-Marasmius hendecaphyllus Singer SPECIES
-=======
+# Marasmius hendecaphyllus Singer SPECIES
 
 #### Status
 ACCEPTED

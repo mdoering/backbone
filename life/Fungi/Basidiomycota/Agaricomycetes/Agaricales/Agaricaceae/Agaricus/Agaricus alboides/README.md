@@ -1,5 +1,4 @@
-Agaricus alboides Peck SPECIES
-=======
+# Agaricus alboides Peck SPECIES
 
 #### Status
 ACCEPTED

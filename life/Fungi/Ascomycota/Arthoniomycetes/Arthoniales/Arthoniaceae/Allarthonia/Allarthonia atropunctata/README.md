@@ -1,5 +1,4 @@
-Allarthonia atropunctata (Vain.) Zahlbr. SPECIES
-=======
+# Allarthonia atropunctata (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

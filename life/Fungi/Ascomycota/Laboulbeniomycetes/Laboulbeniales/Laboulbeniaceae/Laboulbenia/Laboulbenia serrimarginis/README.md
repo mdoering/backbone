@@ -1,5 +1,4 @@
-Laboulbenia serrimarginis Thaxt. SPECIES
-=======
+# Laboulbenia serrimarginis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

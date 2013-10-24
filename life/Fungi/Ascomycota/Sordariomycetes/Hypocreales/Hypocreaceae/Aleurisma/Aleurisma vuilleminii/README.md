@@ -1,8 +1,7 @@
-Aleurisma vuillemini Grigoraki, Fayet & Magrou SPECIES
-=======
+# Aleurisma vuilleminii Grigoraki, Fayet & Magrou SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Aleurisma vuillemini Grigoraki, Fayet & Magrou
+Aleurisma vuilleminii Grigoraki, Fayet & Magrou
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cystopus sacchari Butler {?} SPECIES
-=======
+# Cystopus sacchari Butler {?} SPECIES
 
 #### Status
 ACCEPTED

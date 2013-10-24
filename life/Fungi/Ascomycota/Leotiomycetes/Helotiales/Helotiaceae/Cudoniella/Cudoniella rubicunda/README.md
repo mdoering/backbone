@@ -1,14 +1,13 @@
-Mollisia rubicunda Rehm, 1882 SPECIES
-=======
+# Cudoniella rubicunda (Rehm) Dennis, 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 21: no. 19 (1882)
+Persoonia 3(1): 73 (1964)
 
 #### Original name
 Mollisia rubicunda Rehm, 1882

@@ -1,5 +1,4 @@
-Meliola duggenae F. Stevens SPECIES
-=======
+# Meliola duggenae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

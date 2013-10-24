@@ -1,5 +1,4 @@
-Puccinia infrequens Holw. SPECIES
-=======
+# Puccinia infrequens Holw. SPECIES
 
 #### Status
 ACCEPTED

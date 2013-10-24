@@ -1,5 +1,4 @@
-Cercospora plectranthicola Chidd. SPECIES
-=======
+# Cercospora plectranthicola Chidd. SPECIES
 
 #### Status
 ACCEPTED

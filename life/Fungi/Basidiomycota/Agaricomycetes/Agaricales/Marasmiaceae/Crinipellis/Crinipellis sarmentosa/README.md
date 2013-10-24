@@ -1,14 +1,13 @@
-Crinipellis sarmentosus (Berk.) Singer SPECIES
-=======
+# Crinipellis sarmentosa (Berk.) Singer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 9(1-6): 397 (1955)
 
 #### Original name
 Marasmius sarmentosus Berk.

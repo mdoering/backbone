@@ -1,5 +1,4 @@
-Cheiromyces comatus Ellis & Everh. SPECIES
-=======
+# Cheiromyces comatus Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Cercospora pachyderma var. pachyderma Syd. & P. Syd. VARIETY
-=======
+# Distocercospora pachyderma (Syd. & P. Syd.) N. Pons & B. Sutton, 1988 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 12(2): 203 (1914)
+Mycol. Pap. 160: 60 (1988)
 
 #### Original name
-Cercospora pachyderma var. pachyderma Syd. & P. Syd.
+Cercospora pachyderma Syd. & P. Syd., 1914
 
 ### Remarks
 null

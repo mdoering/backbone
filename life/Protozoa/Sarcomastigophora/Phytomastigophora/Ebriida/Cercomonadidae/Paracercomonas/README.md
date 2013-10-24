@@ -1,5 +1,4 @@
-Paracercomonas Cavalier-Smith & Bass, 2006 GENUS
-=======
+# Paracercomonas Cavalier-Smith & Bass, 2006 GENUS
 
 #### Status
 ACCEPTED

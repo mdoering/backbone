@@ -1,5 +1,4 @@
-Pseudogemma Collin, 1909 GENUS
-=======
+# Pseudogemma Collin, 1909 GENUS
 
 #### Status
 ACCEPTED

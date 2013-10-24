@@ -1,5 +1,4 @@
-Conocybe urticae (Velen.) Singer SPECIES
-=======
+# Conocybe urticae (Velen.) Singer SPECIES
 
 #### Status
 ACCEPTED

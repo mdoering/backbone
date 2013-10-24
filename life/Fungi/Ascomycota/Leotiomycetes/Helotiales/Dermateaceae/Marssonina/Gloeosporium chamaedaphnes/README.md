@@ -1,5 +1,4 @@
-Gloeosporium chamaedaphnes Dearn. SPECIES
-=======
+# Gloeosporium chamaedaphnes Dearn. SPECIES
 
 #### Status
 ACCEPTED

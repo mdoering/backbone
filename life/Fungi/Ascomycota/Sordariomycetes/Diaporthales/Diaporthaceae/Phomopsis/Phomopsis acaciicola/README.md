@@ -1,17 +1,16 @@
-Phomopsis acacicola M.M. Xiang, Z.D. Jiang & P.K. Chi SPECIES
-=======
+# Phomopsis acaciicola M.M. Xiang, Z.D. Jiang & P.K. Chi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycosystema 22(4): 515 (2003)
 
 #### Original name
-Phomopsis acacicola M.M. Xiang, Z.D. Jiang & P.K. Chi
+Phomopsis acaciicola M.M. Xiang, Z.D. Jiang & P.K. Chi
 
 ### Remarks
 null

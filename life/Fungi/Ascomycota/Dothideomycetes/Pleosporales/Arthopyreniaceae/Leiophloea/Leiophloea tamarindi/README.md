@@ -1,5 +1,4 @@
-Leiophloea tamarindi (Fée) Trevis. SPECIES
-=======
+# Leiophloea tamarindi (Fée) Trevis. SPECIES
 
 #### Status
 ACCEPTED

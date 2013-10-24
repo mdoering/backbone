@@ -1,5 +1,4 @@
-Exidiopsis rufula Rick SPECIES
-=======
+# Exidiopsis rufula Rick SPECIES
 
 #### Status
 ACCEPTED

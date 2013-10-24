@@ -1,5 +1,4 @@
-Micropeltella vismiae var. vismiae VARIETY
-=======
+# Micropeltella vismiae Bat., Peres & Holanda SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 in Batista, Cavalcanti & Peres, Publicações. Instituto de Micologia da Universidade do Recife & Instituto Nacional de Pesquis 389: 14 (1963)
 
 #### Original name
-Micropeltella vismiae var. vismiae
+Micropeltella vismiae Bat., Peres & Holanda
 
 ### Remarks
 null

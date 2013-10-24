@@ -1,5 +1,4 @@
-Sticta homeophylla Nyl. SPECIES
-=======
+# Sticta homeophylla Nyl. SPECIES
 
 #### Status
 ACCEPTED

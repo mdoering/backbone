@@ -1,5 +1,4 @@
-Lagenoeca W.S.Kent GENUS
-=======
+# Lagenoeca W.S.Kent GENUS
 
 #### Status
 ACCEPTED

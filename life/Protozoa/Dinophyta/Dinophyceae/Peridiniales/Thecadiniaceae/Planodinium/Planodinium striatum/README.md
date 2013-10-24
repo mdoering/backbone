@@ -1,5 +1,4 @@
-Planodinium striatum Saunders & Dodge SPECIES
-=======
+# Planodinium striatum Saunders & Dodge SPECIES
 
 #### Status
 ACCEPTED

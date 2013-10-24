@@ -1,5 +1,4 @@
-Buellia punctatula Malme SPECIES
-=======
+# Buellia punctatula Malme SPECIES
 
 #### Status
 ACCEPTED

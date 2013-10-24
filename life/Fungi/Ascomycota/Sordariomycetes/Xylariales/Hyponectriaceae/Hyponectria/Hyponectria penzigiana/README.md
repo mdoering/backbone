@@ -1,5 +1,4 @@
-Hyponectria penzigiana Sacc. SPECIES
-=======
+# Hyponectria penzigiana Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma lavaterae Westend. SPECIES
-=======
+# Phoma lavaterae Westend. SPECIES
 
 #### Status
 ACCEPTED

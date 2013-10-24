@@ -1,5 +1,4 @@
-Thelotrema leightonii Zahlbr. SPECIES
-=======
+# Thelotrema leightonii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

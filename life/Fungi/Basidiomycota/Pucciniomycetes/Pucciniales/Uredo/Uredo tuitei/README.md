@@ -1,5 +1,4 @@
-Uredo tuitei J.F. Hennen & J.W. McCain SPECIES
-=======
+# Uredo tuitei J.F. Hennen & J.W. McCain SPECIES
 
 #### Status
 ACCEPTED

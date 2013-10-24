@@ -1,5 +1,4 @@
-Copelandia mexicana Guzmán SPECIES
-=======
+# Copelandia mexicana Guzmán SPECIES
 
 #### Status
 ACCEPTED

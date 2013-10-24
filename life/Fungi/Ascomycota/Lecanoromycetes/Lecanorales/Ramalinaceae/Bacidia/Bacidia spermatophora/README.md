@@ -1,5 +1,4 @@
-Bacidia spermatophora Zahlbr. SPECIES
-=======
+# Bacidia spermatophora Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

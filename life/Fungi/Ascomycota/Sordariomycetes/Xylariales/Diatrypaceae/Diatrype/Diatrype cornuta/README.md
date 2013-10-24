@@ -1,5 +1,4 @@
-Diatrype cornuta Ellis & Everh. SPECIES
-=======
+# Diatrype cornuta Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

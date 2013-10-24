@@ -1,5 +1,4 @@
-Poria porriginosa Berk. ex Cooke SPECIES
-=======
+# Poria porriginosa Berk. ex Cooke SPECIES
 
 #### Status
 ACCEPTED

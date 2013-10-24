@@ -1,14 +1,13 @@
-Achlya hypogyna Coker & Pemberton, 1908 SPECIES
-=======
+# Protoachlya hypogyna (Coker & Pemberton) T.W. Johnson & R.L. Seym., 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Gaz. 45: 194 (1908)
+Mycotaxon 92: 24 (2005)
 
 #### Original name
 Achlya hypogyna Coker & Pemberton, 1908

@@ -1,5 +1,4 @@
-Metopus daphanides Jankowski, 1964 SPECIES
-=======
+# Metopus daphanides Jankowski, 1964 SPECIES
 
 #### Status
 ACCEPTED

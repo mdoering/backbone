@@ -1,14 +1,13 @@
-Pleurotus reticulatus Petch, 1917 SPECIES
-=======
+# Neopaxillus reticulatus (Petch) Pegler, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. R. bot. Gdns Peradeniya 6: 198 (1917)
+Kew Bull. , Addit. Ser. 12: 459 (1986)
 
 #### Original name
 Pleurotus reticulatus Petch, 1917

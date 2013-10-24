@@ -1,5 +1,4 @@
-Helvella pulchra Dissing SPECIES
-=======
+# Helvella pulchra Dissing SPECIES
 
 #### Status
 ACCEPTED

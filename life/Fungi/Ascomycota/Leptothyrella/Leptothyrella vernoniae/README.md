@@ -1,5 +1,4 @@
-Leptothyrella vernoniae Henn. SPECIES
-=======
+# Leptothyrella vernoniae Henn. SPECIES
 
 #### Status
 ACCEPTED

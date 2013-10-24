@@ -1,5 +1,4 @@
-Polycoccum bryonthae var. bryonthae VARIETY
-=======
+# Polycoccum bryonthae (Arnold) Vezda SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Polycoccum bryonthae var. bryonthae
+Endococcus bryonthae Arnold
 
 ### Remarks
 null

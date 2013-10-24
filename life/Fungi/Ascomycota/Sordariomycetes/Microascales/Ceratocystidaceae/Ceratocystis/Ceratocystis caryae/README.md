@@ -1,5 +1,4 @@
-Ceratocystis caryae J.A. Johnson & T.C. Harr. SPECIES
-=======
+# Ceratocystis caryae J.A. Johnson & T.C. Harr. SPECIES
 
 #### Status
 ACCEPTED

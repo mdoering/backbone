@@ -1,5 +1,4 @@
-Stanjehughesia decorosa (R.F. Castañeda & W.B. Kendr.) McKenzie SPECIES
-=======
+# Stanjehughesia decorosa (R.F. Castañeda & W.B. Kendr.) McKenzie SPECIES
 
 #### Status
 ACCEPTED

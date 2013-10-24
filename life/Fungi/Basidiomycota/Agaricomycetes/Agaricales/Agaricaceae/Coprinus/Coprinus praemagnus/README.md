@@ -1,5 +1,4 @@
-Coprinus praemagnus Murrill SPECIES
-=======
+# Coprinus praemagnus Murrill SPECIES
 
 #### Status
 ACCEPTED

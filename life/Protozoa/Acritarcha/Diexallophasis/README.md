@@ -1,5 +1,4 @@
-Diexallophasis A.R.Loeblich, 1970 GENUS
-=======
+# Diexallophasis A.R.Loeblich, 1970 GENUS
 
 #### Status
 ACCEPTED

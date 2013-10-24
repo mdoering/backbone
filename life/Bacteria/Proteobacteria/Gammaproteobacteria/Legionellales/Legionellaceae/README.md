@@ -1,5 +1,4 @@
-Legionellaceae FAMILY
-=======
+# Legionellaceae FAMILY
 
 #### Status
 ACCEPTED

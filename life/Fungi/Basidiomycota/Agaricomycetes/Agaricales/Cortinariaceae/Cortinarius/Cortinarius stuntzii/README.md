@@ -1,5 +1,4 @@
-Cortinarius stuntzii S.A. Rehner & Ammirati SPECIES
-=======
+# Cortinarius stuntzii S.A. Rehner & Ammirati SPECIES
 
 #### Status
 ACCEPTED

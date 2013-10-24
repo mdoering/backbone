@@ -1,5 +1,4 @@
-Peltigera mauritzii var. mauritzii VARIETY
-=======
+# Peltigera mauritzii Gyeln. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Peltigera mauritzii var. mauritzii
+Peltigera mauritzii Gyeln.
 
 ### Remarks
 null

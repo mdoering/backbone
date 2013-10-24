@@ -1,5 +1,4 @@
-Synedra bacillaris (Grunow) Hustedt SPECIES
-=======
+# Synedra bacillaris (Grunow) Hustedt SPECIES
 
 #### Status
 ACCEPTED

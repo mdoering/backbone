@@ -1,5 +1,4 @@
-Microcoleus rupicola (Tilden) F.E. Drouet SPECIES
-=======
+# Microcoleus rupicola (Tilden) F.E. Drouet SPECIES
 
 #### Status
 ACCEPTED

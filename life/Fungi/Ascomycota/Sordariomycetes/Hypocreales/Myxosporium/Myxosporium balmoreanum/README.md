@@ -1,5 +1,4 @@
-Myxosporium balmoreanum Speg. SPECIES
-=======
+# Myxosporium balmoreanum Speg. SPECIES
 
 #### Status
 ACCEPTED

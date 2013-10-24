@@ -1,5 +1,4 @@
-Leptoteichion laricis Kleb. SPECIES
-=======
+# Leptoteichion laricis Kleb. SPECIES
 
 #### Status
 ACCEPTED

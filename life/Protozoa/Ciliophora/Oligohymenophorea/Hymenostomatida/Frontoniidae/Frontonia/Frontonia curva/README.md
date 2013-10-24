@@ -1,5 +1,4 @@
-Frontonia curva Fromentel, 1876 SPECIES
-=======
+# Frontonia curva Fromentel, 1876 SPECIES
 
 #### Status
 ACCEPTED

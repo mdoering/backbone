@@ -1,5 +1,4 @@
-Sphaeria clusiae-roseae Pers. SPECIES
-=======
+# Sphaeria clusiae-roseae Pers. SPECIES
 
 #### Status
 ACCEPTED

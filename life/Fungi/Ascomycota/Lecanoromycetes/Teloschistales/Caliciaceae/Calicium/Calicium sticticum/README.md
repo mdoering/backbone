@@ -1,5 +1,4 @@
-Calicium sticticum (Ach.) Wahlenb. SPECIES
-=======
+# Calicium sticticum (Ach.) Wahlenb. SPECIES
 
 #### Status
 ACCEPTED

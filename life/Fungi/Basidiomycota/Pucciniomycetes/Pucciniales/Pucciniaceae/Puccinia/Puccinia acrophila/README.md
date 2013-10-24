@@ -1,5 +1,4 @@
-Puccinia acrophila Peck SPECIES
-=======
+# Puccinia acrophila Peck SPECIES
 
 #### Status
 ACCEPTED

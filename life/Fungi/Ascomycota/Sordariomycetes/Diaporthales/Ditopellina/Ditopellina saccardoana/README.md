@@ -1,5 +1,4 @@
-Ditopellina saccardoana (Traverso & Spessa) J. Reid & C. Booth, 1967 SPECIES
-=======
+# Ditopellina saccardoana (Traverso & Spessa) J. Reid & C. Booth, 1967 SPECIES
 
 #### Status
 ACCEPTED

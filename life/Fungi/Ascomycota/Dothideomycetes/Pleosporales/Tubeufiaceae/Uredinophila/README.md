@@ -1,5 +1,4 @@
-Uredinophila Rossman GENUS
-=======
+# Uredinophila Rossman GENUS
 
 #### Status
 ACCEPTED

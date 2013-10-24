@@ -1,5 +1,4 @@
-Leptosphaeria senegalensis Segretain, Baylet, Darasse & Camain, 1959 SPECIES
-=======
+# Leptosphaeria senegalensis Segretain, Baylet, Darasse & Camain, 1959 SPECIES
 
 #### Status
 ACCEPTED

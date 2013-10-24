@@ -1,5 +1,4 @@
-Entoloma pseudocoelestinum Arnolds, 1982 SPECIES
-=======
+# Entoloma pseudocoelestinum Arnolds, 1982 SPECIES
 
 #### Status
 ACCEPTED

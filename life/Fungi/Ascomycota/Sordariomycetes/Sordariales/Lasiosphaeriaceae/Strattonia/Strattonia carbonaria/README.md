@@ -1,14 +1,13 @@
-Podospora carbonaria (W. Phillips & Plowr.) Niessl, 1883 SPECIES
-=======
+# Strattonia carbonaria (W. Phillips & Plowr.) N. Lundq., 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 22: 156 (1883)
+Symb. bot. upsal. 20(no. 1): 269 (1972)
 
 #### Original name
 Sphaeria carbonaria Plowr., 1874

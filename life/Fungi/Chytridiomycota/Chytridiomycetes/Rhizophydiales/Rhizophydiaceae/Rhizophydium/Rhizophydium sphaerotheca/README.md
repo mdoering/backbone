@@ -1,5 +1,4 @@
-Rhizophydium sphaerotheca Zopf, 1887 SPECIES
-=======
+# Rhizophydium sphaerotheca Zopf, 1887 SPECIES
 
 #### Status
 ACCEPTED

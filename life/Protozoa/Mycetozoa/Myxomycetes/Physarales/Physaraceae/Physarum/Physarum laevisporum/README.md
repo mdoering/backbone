@@ -1,5 +1,4 @@
-Physarum laevisporum Agnihothr., 1963 SPECIES
-=======
+# Physarum laevisporum Agnihothr., 1963 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pythium polycladon Sideris SPECIES
-=======
+# Pythium polycladon Sideris SPECIES
 
 #### Status
 ACCEPTED

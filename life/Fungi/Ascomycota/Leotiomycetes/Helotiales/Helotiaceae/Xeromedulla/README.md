@@ -1,5 +1,4 @@
-Xeromedulla Korf & W.Y. Zhuang GENUS
-=======
+# Xeromedulla Korf & W.Y. Zhuang GENUS
 
 #### Status
 ACCEPTED

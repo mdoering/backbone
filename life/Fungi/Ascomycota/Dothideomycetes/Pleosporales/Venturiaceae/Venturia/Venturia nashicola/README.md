@@ -1,5 +1,4 @@
-Venturia nashicola S. Tanaka & S. Yamam., 1964 SPECIES
-=======
+# Venturia nashicola S. Tanaka & S. Yamam., 1964 SPECIES
 
 #### Status
 ACCEPTED

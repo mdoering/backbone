@@ -1,5 +1,4 @@
-Phacidium theae Antonova {?} SPECIES
-=======
+# Phacidium theae Antonova {?} SPECIES
 
 #### Status
 ACCEPTED

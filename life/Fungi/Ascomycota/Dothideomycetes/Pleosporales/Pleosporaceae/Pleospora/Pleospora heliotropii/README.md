@@ -1,5 +1,4 @@
-Pleospora heliotropii Golovin SPECIES
-=======
+# Pleospora heliotropii Golovin SPECIES
 
 #### Status
 ACCEPTED

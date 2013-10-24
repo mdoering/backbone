@@ -1,5 +1,4 @@
-Haematomyxa pakistani E. Müll. & S. Ahmad SPECIES
-=======
+# Haematomyxa pakistani E. Müll. & S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

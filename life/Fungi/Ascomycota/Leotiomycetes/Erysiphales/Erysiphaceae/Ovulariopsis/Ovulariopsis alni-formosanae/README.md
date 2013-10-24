@@ -1,5 +1,4 @@
-Ovulariopsis alni-formosanae Sawada SPECIES
-=======
+# Ovulariopsis alni-formosanae Sawada SPECIES
 
 #### Status
 ACCEPTED

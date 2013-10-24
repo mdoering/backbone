@@ -1,5 +1,4 @@
-Stictomyces pulmonariae E.A. Thomas ex Cif. & Tomas. SPECIES
-=======
+# Stictomyces pulmonariae E.A. Thomas ex Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

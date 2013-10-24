@@ -1,5 +1,4 @@
-Phyllachora baumii Henn., 1903 SPECIES
-=======
+# Phyllachora baumii Henn., 1903 SPECIES
 
 #### Status
 DOUBTFUL

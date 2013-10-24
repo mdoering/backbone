@@ -1,5 +1,4 @@
-Cylindrosporium paludosum J. Schröt. SPECIES
-=======
+# Cylindrosporium paludosum J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

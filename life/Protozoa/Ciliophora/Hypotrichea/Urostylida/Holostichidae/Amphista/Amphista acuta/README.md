@@ -1,5 +1,4 @@
-Amphista acuta SPECIES
-=======
+# Amphista acuta SPECIES
 
 #### Status
 ACCEPTED

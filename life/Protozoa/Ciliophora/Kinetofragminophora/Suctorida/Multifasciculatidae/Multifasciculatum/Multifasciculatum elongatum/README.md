@@ -1,8 +1,7 @@
-Podophrya elongata Claparède & Lachmann, 1859 SPECIES
-=======
+# Multifasciculatum elongatum (Claparède & Lachmann, 1859) ? SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

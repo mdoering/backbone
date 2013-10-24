@@ -1,5 +1,4 @@
-Septoria avellanae Berk. & Broome SPECIES
-=======
+# Septoria avellanae Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

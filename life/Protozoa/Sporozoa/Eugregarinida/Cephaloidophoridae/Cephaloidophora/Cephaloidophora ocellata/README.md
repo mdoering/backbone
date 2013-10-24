@@ -1,5 +1,4 @@
-Cephaloidophora ocellata (Léger & Duboscq, 1907) SPECIES
-=======
+# Cephaloidophora ocellata (Léger & Duboscq, 1907) SPECIES
 
 #### Status
 ACCEPTED

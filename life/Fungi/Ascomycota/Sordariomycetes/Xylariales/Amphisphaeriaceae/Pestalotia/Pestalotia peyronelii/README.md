@@ -1,5 +1,4 @@
-Pestalotia peyronelii Verona SPECIES
-=======
+# Pestalotia peyronelii Verona SPECIES
 
 #### Status
 ACCEPTED

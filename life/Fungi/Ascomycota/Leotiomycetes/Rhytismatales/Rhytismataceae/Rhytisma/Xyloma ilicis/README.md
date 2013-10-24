@@ -1,5 +1,4 @@
-Xyloma ilicis Fr. SPECIES
-=======
+# Xyloma ilicis Fr. SPECIES
 
 #### Status
 ACCEPTED

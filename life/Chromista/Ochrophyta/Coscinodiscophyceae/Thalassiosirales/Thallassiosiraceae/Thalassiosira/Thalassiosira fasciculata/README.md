@@ -1,5 +1,4 @@
-Thalassiosira fasciculata D. M. Harwood & T. Maruyama SPECIES
-=======
+# Thalassiosira fasciculata D. M. Harwood & T. Maruyama SPECIES
 
 #### Status
 ACCEPTED

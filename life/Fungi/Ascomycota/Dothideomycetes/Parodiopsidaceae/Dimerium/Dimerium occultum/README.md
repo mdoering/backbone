@@ -1,5 +1,4 @@
-Dimerium occultum (Racib.) Sacc. & P. Syd. SPECIES
-=======
+# Dimerium occultum (Racib.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

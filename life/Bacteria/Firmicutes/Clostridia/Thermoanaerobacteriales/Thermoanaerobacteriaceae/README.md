@@ -1,5 +1,4 @@
-Thermoanaerobacteriaceae FAMILY
-=======
+# Thermoanaerobacteriaceae FAMILY
 
 #### Status
 ACCEPTED

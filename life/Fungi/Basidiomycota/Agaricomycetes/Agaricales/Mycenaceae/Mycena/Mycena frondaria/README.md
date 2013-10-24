@@ -1,5 +1,4 @@
-Mycena frondaria Métrod SPECIES
-=======
+# Mycena frondaria Métrod SPECIES
 
 #### Status
 ACCEPTED

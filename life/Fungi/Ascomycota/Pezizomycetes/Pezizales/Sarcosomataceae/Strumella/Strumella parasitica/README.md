@@ -1,5 +1,4 @@
-Strumella parasitica Wize SPECIES
-=======
+# Strumella parasitica Wize SPECIES
 
 #### Status
 ACCEPTED

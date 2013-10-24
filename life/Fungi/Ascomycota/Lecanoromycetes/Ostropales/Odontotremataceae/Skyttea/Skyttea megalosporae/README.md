@@ -1,5 +1,4 @@
-Skyttea megalosporae Etayo & Diederich SPECIES
-=======
+# Skyttea megalosporae Etayo & Diederich SPECIES
 
 #### Status
 ACCEPTED

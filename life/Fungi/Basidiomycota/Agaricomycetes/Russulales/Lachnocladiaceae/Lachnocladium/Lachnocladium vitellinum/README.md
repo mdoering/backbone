@@ -1,5 +1,4 @@
-Lachnocladium vitellinum Pat. SPECIES
-=======
+# Lachnocladium vitellinum Pat. SPECIES
 
 #### Status
 ACCEPTED

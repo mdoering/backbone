@@ -1,5 +1,4 @@
-Poculum myricae Spooner & Dennis SPECIES
-=======
+# Poculum myricae Spooner & Dennis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pholiota granulosoverrucosa Henn. SPECIES
-=======
+# Pholiota granulosoverrucosa Henn. SPECIES
 
 #### Status
 ACCEPTED

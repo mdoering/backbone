@@ -1,5 +1,4 @@
-Phoma lithuanica Siemaszko SPECIES
-=======
+# Phoma lithuanica Siemaszko SPECIES
 
 #### Status
 ACCEPTED

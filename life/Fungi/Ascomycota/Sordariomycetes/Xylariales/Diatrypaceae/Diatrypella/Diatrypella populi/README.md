@@ -1,5 +1,4 @@
-Diatrypella populi Ellis & Holw. SPECIES
-=======
+# Diatrypella populi Ellis & Holw. SPECIES
 
 #### Status
 ACCEPTED

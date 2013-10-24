@@ -1,5 +1,4 @@
-Globulina glabra Velen. SPECIES
-=======
+# Globulina glabra Velen. SPECIES
 
 #### Status
 ACCEPTED

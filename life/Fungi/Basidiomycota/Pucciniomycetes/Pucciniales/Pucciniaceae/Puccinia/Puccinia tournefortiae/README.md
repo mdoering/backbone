@@ -1,5 +1,4 @@
-Puccinia tournefortiae H.S. Jacks. & Holw. SPECIES
-=======
+# Puccinia tournefortiae H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

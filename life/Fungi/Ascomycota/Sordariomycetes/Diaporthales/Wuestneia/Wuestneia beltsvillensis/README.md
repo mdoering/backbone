@@ -1,5 +1,4 @@
-Wuestneia beltsvillensis (Petr.) J. Reid & C. Booth SPECIES
-=======
+# Wuestneia beltsvillensis (Petr.) J. Reid & C. Booth SPECIES
 
 #### Status
 ACCEPTED

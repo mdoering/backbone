@@ -1,5 +1,4 @@
-Sphaeria epixantha Berk. & Broome SPECIES
-=======
+# Sphaeria epixantha Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

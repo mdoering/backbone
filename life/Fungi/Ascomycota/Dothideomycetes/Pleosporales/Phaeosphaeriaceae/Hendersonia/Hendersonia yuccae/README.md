@@ -1,5 +1,4 @@
-Hendersonia yuccae J. Kickx f. SPECIES
-=======
+# Hendersonia yuccae J. Kickx f. SPECIES
 
 #### Status
 ACCEPTED

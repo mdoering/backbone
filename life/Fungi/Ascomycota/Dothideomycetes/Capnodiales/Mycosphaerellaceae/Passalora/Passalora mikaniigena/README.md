@@ -1,14 +1,13 @@
-Cercospora mikaniae Ellis & Everh., 1891 SPECIES
-=======
+# Passalora mikaniigena U. Braun & Crous, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Acad. nat. Sci. Philad. 90 (1891)
+in Crous & Braun, CBS Diversity Ser. (Utrecht) 1: 275 (2003)
 
 #### Original name
 Cercospora mikaniae Ellis & Everh., 1891

@@ -1,5 +1,4 @@
-Rhachomyces moorei W. Rossi SPECIES
-=======
+# Rhachomyces moorei W. Rossi SPECIES
 
 #### Status
 ACCEPTED

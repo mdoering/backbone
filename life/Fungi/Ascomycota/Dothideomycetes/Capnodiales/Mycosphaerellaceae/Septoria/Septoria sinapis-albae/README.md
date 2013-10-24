@@ -1,5 +1,4 @@
-Septoria sinapis-albae Rodigin SPECIES
-=======
+# Septoria sinapis-albae Rodigin SPECIES
 
 #### Status
 ACCEPTED

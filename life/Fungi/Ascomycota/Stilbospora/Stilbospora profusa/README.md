@@ -1,5 +1,4 @@
-Stilbospora profusa Grev. SPECIES
-=======
+# Stilbospora profusa Grev. SPECIES
 
 #### Status
 ACCEPTED

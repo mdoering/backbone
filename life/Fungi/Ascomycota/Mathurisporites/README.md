@@ -1,5 +1,4 @@
-Mathurisporites Kalgutkar & Janson. GENUS
-=======
+# Mathurisporites Kalgutkar & Janson. GENUS
 
 #### Status
 ACCEPTED

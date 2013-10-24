@@ -1,5 +1,4 @@
-Anabaena antarctica F. E. Fritsch SPECIES
-=======
+# Anabaena antarctica F. E. Fritsch SPECIES
 
 #### Status
 ACCEPTED

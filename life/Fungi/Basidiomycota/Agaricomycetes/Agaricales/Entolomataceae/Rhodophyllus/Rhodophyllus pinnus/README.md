@@ -1,5 +1,4 @@
-Rhodophyllus pinnus Romagn. SPECIES
-=======
+# Rhodophyllus pinnus Romagn. SPECIES
 
 #### Status
 ACCEPTED

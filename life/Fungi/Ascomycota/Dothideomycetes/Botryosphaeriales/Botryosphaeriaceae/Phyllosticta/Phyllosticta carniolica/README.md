@@ -1,5 +1,4 @@
-Phyllosticta carniolica W. Voss SPECIES
-=======
+# Phyllosticta carniolica W. Voss SPECIES
 
 #### Status
 ACCEPTED

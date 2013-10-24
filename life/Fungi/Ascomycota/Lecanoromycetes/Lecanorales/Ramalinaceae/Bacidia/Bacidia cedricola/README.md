@@ -1,5 +1,4 @@
-Bacidia cedricola Werner SPECIES
-=======
+# Bacidia cedricola Werner SPECIES
 
 #### Status
 ACCEPTED

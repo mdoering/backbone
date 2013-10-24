@@ -1,5 +1,4 @@
-Trichosporum corticola Sacc. SPECIES
-=======
+# Trichosporum corticola Sacc. SPECIES
 
 #### Status
 ACCEPTED

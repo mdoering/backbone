@@ -1,5 +1,4 @@
-Kabatiella nigricola Lebezh. SPECIES
-=======
+# Kabatiella nigricola Lebezh. SPECIES
 
 #### Status
 ACCEPTED

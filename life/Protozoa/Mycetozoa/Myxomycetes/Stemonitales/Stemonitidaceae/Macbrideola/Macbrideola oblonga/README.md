@@ -1,5 +1,4 @@
-Macbrideola oblonga Pando & Lado, 1988 SPECIES
-=======
+# Macbrideola oblonga Pando & Lado, 1988 SPECIES
 
 #### Status
 ACCEPTED

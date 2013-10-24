@@ -1,5 +1,4 @@
-Ophiostoma echinellum (Ellis & Everh.) Syd. SPECIES
-=======
+# Ophiostoma echinellum (Ellis & Everh.) Syd. SPECIES
 
 #### Status
 ACCEPTED

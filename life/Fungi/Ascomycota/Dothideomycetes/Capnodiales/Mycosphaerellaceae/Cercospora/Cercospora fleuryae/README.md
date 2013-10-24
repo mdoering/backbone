@@ -1,5 +1,4 @@
-Cercospora fleuryae Thirum. & Govindu SPECIES
-=======
+# Cercospora fleuryae Thirum. & Govindu SPECIES
 
 #### Status
 ACCEPTED

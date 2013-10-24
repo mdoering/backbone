@@ -1,5 +1,4 @@
-Saccharina ochotensis (Miyabe) C.E.Lane, C.Mayes, Druehl & G.W.Saunders, 2006 SPECIES
-=======
+# Saccharina ochotensis (Miyabe) C.E.Lane, C.Mayes, Druehl & G.W.Saunders, 2006 SPECIES
 
 #### Status
 ACCEPTED

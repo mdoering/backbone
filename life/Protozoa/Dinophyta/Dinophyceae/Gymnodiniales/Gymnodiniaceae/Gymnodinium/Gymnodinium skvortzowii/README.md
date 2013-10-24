@@ -1,5 +1,4 @@
-Gymnodinium skvortzowii Schiller SPECIES
-=======
+# Gymnodinium skvortzowii Schiller SPECIES
 
 #### Status
 ACCEPTED

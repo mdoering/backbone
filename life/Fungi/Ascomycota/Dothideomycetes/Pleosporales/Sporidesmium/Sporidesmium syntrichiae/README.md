@@ -1,5 +1,4 @@
-Sporidesmium syntrichiae Racov. SPECIES
-=======
+# Sporidesmium syntrichiae Racov. SPECIES
 
 #### Status
 ACCEPTED

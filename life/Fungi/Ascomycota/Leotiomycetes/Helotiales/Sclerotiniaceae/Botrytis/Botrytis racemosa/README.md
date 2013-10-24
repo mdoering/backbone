@@ -1,5 +1,4 @@
-Botrytis racemosa (Bull.) DC. SPECIES
-=======
+# Botrytis racemosa (Bull.) DC. SPECIES
 
 #### Status
 ACCEPTED

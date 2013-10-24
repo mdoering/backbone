@@ -1,5 +1,4 @@
-Coleosporium pini-asteris Orish. SPECIES
-=======
+# Coleosporium pini-asteris Orish. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trametes alaskana D.V. Baxter SPECIES
-=======
+# Trametes alaskana D.V. Baxter SPECIES
 
 #### Status
 ACCEPTED

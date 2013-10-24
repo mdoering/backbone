@@ -1,5 +1,4 @@
-Vekshinella A.R.Loeblich Jr. & Tappan, 1963 GENUS
-=======
+# Vekshinella A.R.Loeblich Jr. & Tappan, 1963 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo buchenaviae F. Kern & Whetzel SPECIES
-=======
+# Uredo buchenaviae F. Kern & Whetzel SPECIES
 
 #### Status
 ACCEPTED

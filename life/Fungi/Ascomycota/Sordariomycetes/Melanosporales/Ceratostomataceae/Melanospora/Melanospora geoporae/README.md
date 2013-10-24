@@ -1,5 +1,4 @@
-Melanospora geoporae (W. Oberm.) SPECIES
-=======
+# Melanospora geoporae (W. Oberm.) SPECIES
 
 #### Status
 ACCEPTED

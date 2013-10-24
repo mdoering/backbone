@@ -1,5 +1,4 @@
-Lactarius subclarkeae Grgur. SPECIES
-=======
+# Lactarius subclarkeae Grgur. SPECIES
 
 #### Status
 ACCEPTED

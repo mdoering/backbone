@@ -1,14 +1,13 @@
-Zopfius Wenner & Rettger, 1919 GENUS
-=======
+# Kurthia Trevisan GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trevisan, V. "Caratteri di alcuni nuovi generi di Batteriaceae [Characteristics of some new genera of Bacteriaceae]. " Atti. Accad. Fis. -Med. -Stat. Milano (Ser 4) (1885) 3:92-106.
 
 #### Original name
 null

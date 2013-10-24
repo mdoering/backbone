@@ -1,5 +1,4 @@
-Cortinarius rattinus Soop, 2001 SPECIES
-=======
+# Cortinarius rattinus Soop, 2001 SPECIES
 
 #### Status
 ACCEPTED

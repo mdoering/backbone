@@ -1,5 +1,4 @@
-Bacidia gyalectiformis (Zahlbr.) Hasse SPECIES
-=======
+# Bacidia gyalectiformis (Zahlbr.) Hasse SPECIES
 
 #### Status
 ACCEPTED

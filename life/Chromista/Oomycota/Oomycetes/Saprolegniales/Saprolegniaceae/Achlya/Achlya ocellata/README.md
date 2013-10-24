@@ -1,5 +1,4 @@
-Achlya ocellata Tiesenh. SPECIES
-=======
+# Achlya ocellata Tiesenh. SPECIES
 
 #### Status
 ACCEPTED

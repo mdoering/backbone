@@ -1,5 +1,4 @@
-Tremella phaeographidis Diederich, Coppins & Bandoni, 1996 SPECIES
-=======
+# Tremella phaeographidis Diederich, Coppins & Bandoni, 1996 SPECIES
 
 #### Status
 ACCEPTED

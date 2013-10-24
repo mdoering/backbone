@@ -1,5 +1,4 @@
-Tubercularia cansjerae Petch SPECIES
-=======
+# Tubercularia cansjerae Petch SPECIES
 
 #### Status
 ACCEPTED

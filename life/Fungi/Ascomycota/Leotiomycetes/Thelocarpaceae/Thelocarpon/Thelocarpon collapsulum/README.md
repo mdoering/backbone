@@ -1,5 +1,4 @@
-Thelocarpon collapsulum Nyl. SPECIES
-=======
+# Thelocarpon collapsulum Nyl. SPECIES
 
 #### Status
 ACCEPTED

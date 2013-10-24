@@ -1,17 +1,16 @@
-Lecidea fuscoreagens Vain. SPECIES
-=======
+# Arthrorhaphis fuscoreagens (Vain.) Poelt SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Meddn Soc. Fauna Flora fenn. 53(no. 1): 149 (1922)
+null
 
 #### Original name
-Lecidea fuscoreagens Vain.
+null
 
 ### Remarks
 null

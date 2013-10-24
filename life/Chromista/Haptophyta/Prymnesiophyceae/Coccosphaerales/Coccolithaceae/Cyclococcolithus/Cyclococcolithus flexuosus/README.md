@@ -1,5 +1,4 @@
-Cyclococcolithus flexuosus Chongyou Wang, Yin Cao & Ketang Xi SPECIES
-=======
+# Cyclococcolithus flexuosus Chongyou Wang, Yin Cao & Ketang Xi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Plesiospora globosa Drechsler, 1971 SPECIES
-=======
+# Plesiospora globosa Drechsler, 1971 SPECIES
 
 #### Status
 ACCEPTED

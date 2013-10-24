@@ -1,5 +1,4 @@
-Clitocybe rigidata P. Karst. SPECIES
-=======
+# Clitocybe rigidata P. Karst. SPECIES
 
 #### Status
 ACCEPTED

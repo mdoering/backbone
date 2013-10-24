@@ -1,5 +1,4 @@
-Erysibe empetri Wallr. SPECIES
-=======
+# Erysibe empetri Wallr. SPECIES
 
 #### Status
 ACCEPTED

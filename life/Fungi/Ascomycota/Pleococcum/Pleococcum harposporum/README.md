@@ -1,5 +1,4 @@
-Pleococcum harposporum E. Bommer, M. Rousseau & Sacc. SPECIES
-=======
+# Pleococcum harposporum E. Bommer, M. Rousseau & Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tulostoma barlae Quél. SPECIES
-=======
+# Tulostoma barlae Quél. SPECIES
 
 #### Status
 ACCEPTED

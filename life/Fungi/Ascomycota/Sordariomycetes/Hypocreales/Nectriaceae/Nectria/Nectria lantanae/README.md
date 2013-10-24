@@ -1,5 +1,4 @@
-Nectria lantanae Seaver SPECIES
-=======
+# Nectria lantanae Seaver SPECIES
 
 #### Status
 ACCEPTED

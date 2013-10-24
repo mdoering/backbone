@@ -1,5 +1,4 @@
-Virgibacillus dokdonensis Yoon et al., 2005 SPECIES
-=======
+# Virgibacillus dokdonensis Yoon et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

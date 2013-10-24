@@ -1,5 +1,4 @@
-Pestalotia carissae Guba SPECIES
-=======
+# Pestalotia carissae Guba SPECIES
 
 #### Status
 ACCEPTED

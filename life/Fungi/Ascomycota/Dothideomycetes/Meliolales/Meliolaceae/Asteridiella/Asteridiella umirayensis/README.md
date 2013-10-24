@@ -1,5 +1,4 @@
-Asteridiella umirayensis (H.S. Yates) Hansf. SPECIES
-=======
+# Asteridiella umirayensis (H.S. Yates) Hansf. SPECIES
 
 #### Status
 ACCEPTED

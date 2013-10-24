@@ -1,5 +1,4 @@
-Phaeographis gracilenta Zahlbr. SPECIES
-=======
+# Phaeographis gracilenta Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

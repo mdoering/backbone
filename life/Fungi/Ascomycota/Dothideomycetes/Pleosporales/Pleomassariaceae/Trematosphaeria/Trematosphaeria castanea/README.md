@@ -1,5 +1,4 @@
-Trematosphaeria castanea Hazsl. SPECIES
-=======
+# Trematosphaeria castanea Hazsl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Opegrapha bicolor R. C. Harris & Lendemer SPECIES
-=======
+# Opegrapha bicolor R. C. Harris & Lendemer SPECIES
 
 #### Status
 ACCEPTED

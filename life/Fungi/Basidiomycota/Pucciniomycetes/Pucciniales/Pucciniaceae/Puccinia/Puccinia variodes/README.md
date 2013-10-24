@@ -1,5 +1,4 @@
-Puccinia variodes Jørst. SPECIES
-=======
+# Puccinia variodes Jørst. SPECIES
 
 #### Status
 ACCEPTED

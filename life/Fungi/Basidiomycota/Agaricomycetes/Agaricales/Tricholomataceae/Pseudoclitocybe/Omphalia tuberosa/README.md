@@ -1,5 +1,4 @@
-Omphalia tuberosa Velen. SPECIES
-=======
+# Omphalia tuberosa Velen. SPECIES
 
 #### Status
 ACCEPTED

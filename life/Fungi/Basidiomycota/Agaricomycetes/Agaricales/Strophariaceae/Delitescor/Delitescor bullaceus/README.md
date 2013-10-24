@@ -1,5 +1,4 @@
-Delitescor bullaceus (Bull.) Earle SPECIES
-=======
+# Delitescor bullaceus (Bull.) Earle SPECIES
 
 #### Status
 ACCEPTED

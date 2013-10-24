@@ -1,5 +1,4 @@
-Sarcographa difformis (Vain.) Zahlbr. SPECIES
-=======
+# Sarcographa difformis (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

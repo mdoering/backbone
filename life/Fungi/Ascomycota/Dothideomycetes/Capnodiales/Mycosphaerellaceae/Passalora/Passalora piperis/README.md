@@ -1,5 +1,4 @@
-Passalora piperis (Henn.) U. Braun & Crous SPECIES
-=======
+# Passalora piperis (Henn.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

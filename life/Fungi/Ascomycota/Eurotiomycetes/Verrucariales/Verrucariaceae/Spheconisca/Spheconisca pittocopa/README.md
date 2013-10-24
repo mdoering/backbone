@@ -1,5 +1,4 @@
-Spheconisca pittocopa Lettau SPECIES
-=======
+# Spheconisca pittocopa Lettau SPECIES
 
 #### Status
 ACCEPTED

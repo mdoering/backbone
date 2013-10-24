@@ -1,5 +1,4 @@
-Diporicellaesporites pluricellus R.K. Kar & R.K. Saxena SPECIES
-=======
+# Diporicellaesporites pluricellus R.K. Kar & R.K. Saxena SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma phlebodermum Noordel. & Hauskn. SPECIES
-=======
+# Entoloma phlebodermum Noordel. & Hauskn. SPECIES
 
 #### Status
 ACCEPTED

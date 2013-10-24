@@ -1,14 +1,13 @@
-Thelotrema guptei Nagarkar, Sethy & Patw. SPECIES
-=======
+# Ocellularia guptei (Nagarkar, Sethy & Patw.) D.D. Awasthi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Mycotaxon 27: 79 (1986)
+Biblthca Lichenol. 40: 3 (1991)
 
 #### Original name
 Thelotrema guptei Nagarkar, Sethy & Patw.

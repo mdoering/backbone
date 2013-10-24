@@ -1,5 +1,4 @@
-Gastrosuillus amaranthi Thiers SPECIES
-=======
+# Gastrosuillus amaranthi Thiers SPECIES
 
 #### Status
 ACCEPTED

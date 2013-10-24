@@ -1,5 +1,4 @@
-Bacidia xochitepecensis B. de Lesd. SPECIES
-=======
+# Bacidia xochitepecensis B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stangospora GENUS
-=======
+# Stangospora GENUS
 
 #### Status
 ACCEPTED

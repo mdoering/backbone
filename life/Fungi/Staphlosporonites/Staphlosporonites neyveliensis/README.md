@@ -1,5 +1,4 @@
-Staphlosporonites neyveliensis Ambwani SPECIES
-=======
+# Staphlosporonites neyveliensis Ambwani SPECIES
 
 #### Status
 ACCEPTED

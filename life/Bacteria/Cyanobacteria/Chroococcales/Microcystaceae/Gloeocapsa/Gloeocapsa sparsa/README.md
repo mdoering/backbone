@@ -1,5 +1,4 @@
-Gloeocapsa sparsa Wood SPECIES
-=======
+# Gloeocapsa sparsa Wood SPECIES
 
 #### Status
 ACCEPTED

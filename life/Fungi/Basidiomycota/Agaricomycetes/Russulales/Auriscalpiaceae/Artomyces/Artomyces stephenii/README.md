@@ -1,5 +1,4 @@
-Artomyces stephenii Lickey, 2003 SPECIES
-=======
+# Artomyces stephenii Lickey, 2003 SPECIES
 
 #### Status
 ACCEPTED

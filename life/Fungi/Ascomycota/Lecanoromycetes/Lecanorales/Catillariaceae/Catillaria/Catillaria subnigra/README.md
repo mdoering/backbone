@@ -1,5 +1,4 @@
-Catillaria subnigra (Nyl.) Blomb. & Forssell SPECIES
-=======
+# Catillaria subnigra (Nyl.) Blomb. & Forssell SPECIES
 
 #### Status
 ACCEPTED

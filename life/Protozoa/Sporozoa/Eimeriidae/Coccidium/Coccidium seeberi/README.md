@@ -1,5 +1,4 @@
-Coccidium seeberi Wernicke SPECIES
-=======
+# Coccidium seeberi Wernicke SPECIES
 
 #### Status
 ACCEPTED

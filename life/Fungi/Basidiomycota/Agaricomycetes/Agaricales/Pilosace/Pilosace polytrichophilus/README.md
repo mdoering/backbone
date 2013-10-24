@@ -1,5 +1,4 @@
-Pilosace polytrichophilus (Peck) Kuntze SPECIES
-=======
+# Pilosace polytrichophilus (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

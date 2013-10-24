@@ -1,5 +1,4 @@
-Sordaria macrostoma Speg. SPECIES
-=======
+# Sordaria macrostoma Speg. SPECIES
 
 #### Status
 ACCEPTED

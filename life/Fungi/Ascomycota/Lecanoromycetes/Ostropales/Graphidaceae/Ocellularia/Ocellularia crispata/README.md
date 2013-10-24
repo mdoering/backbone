@@ -1,5 +1,4 @@
-Ocellularia crispata Müll. Arg. SPECIES
-=======
+# Ocellularia crispata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nephroma javanicum Gyeln. SPECIES
-=======
+# Nephroma javanicum Gyeln. SPECIES
 
 #### Status
 ACCEPTED

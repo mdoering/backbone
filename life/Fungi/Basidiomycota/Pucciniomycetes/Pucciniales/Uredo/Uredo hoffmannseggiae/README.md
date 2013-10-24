@@ -1,5 +1,4 @@
-Uredo hoffmannseggiae (Long) Cummins SPECIES
-=======
+# Uredo hoffmannseggiae (Long) Cummins SPECIES
 
 #### Status
 ACCEPTED

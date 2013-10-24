@@ -1,5 +1,4 @@
-Homalozoon flexilis Stokes SPECIES
-=======
+# Homalozoon flexilis Stokes SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caeoma hepaticatum Schwein. SPECIES
-=======
+# Caeoma hepaticatum Schwein. SPECIES
 
 #### Status
 ACCEPTED

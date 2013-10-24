@@ -1,5 +1,4 @@
-Septoria crataegicola Bondartsev & Tranzschel SPECIES
-=======
+# Septoria crataegicola Bondartsev & Tranzschel SPECIES
 
 #### Status
 ACCEPTED

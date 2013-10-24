@@ -1,5 +1,4 @@
-Lithonema Hassall, 1845 GENUS
-=======
+# Lithonema Hassall, 1845 GENUS
 
 #### Status
 ACCEPTED

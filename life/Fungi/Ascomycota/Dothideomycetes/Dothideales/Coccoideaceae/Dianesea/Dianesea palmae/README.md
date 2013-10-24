@@ -1,14 +1,13 @@
-Cocconia palmae F. Stevens, 1927 SPECIES
-=======
+# Dianesea palmae (F. Stevens) Inácio & P.F. Cannon, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Illinois Biol. Monogr. (Urbana) 11(2): 175 (1927)
+Fungal Diversity 9: 72 (2002)
 
 #### Original name
 Cocconia palmae F. Stevens, 1927

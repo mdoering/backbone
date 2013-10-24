@@ -1,5 +1,4 @@
-Calothrix fullerbornii Schmidle SPECIES
-=======
+# Calothrix fullerbornii Schmidle SPECIES
 
 #### Status
 ACCEPTED

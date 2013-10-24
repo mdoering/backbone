@@ -1,5 +1,4 @@
-Stomiopeltites amorphos Carlie J. Phipps & Rember SPECIES
-=======
+# Stomiopeltites amorphos Carlie J. Phipps & Rember SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tintinnopsis fracta SPECIES
-=======
+# Tintinnopsis fracta SPECIES
 
 #### Status
 ACCEPTED

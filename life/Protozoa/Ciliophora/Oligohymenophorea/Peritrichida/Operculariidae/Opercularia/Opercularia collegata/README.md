@@ -1,5 +1,4 @@
-Opercularia collegata SPECIES
-=======
+# Opercularia collegata SPECIES
 
 #### Status
 ACCEPTED

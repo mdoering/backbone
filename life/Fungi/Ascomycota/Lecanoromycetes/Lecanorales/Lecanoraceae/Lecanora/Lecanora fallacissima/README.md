@@ -1,5 +1,4 @@
-Lecanora fallacissima (Müll. Arg.) Stizenb. SPECIES
-=======
+# Lecanora fallacissima (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

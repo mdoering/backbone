@@ -1,5 +1,4 @@
-Pseudomeliola andina Pat. SPECIES
-=======
+# Pseudomeliola andina Pat. SPECIES
 
 #### Status
 ACCEPTED

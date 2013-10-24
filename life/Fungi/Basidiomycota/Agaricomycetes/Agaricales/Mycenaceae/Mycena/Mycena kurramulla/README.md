@@ -1,5 +1,4 @@
-Mycena kurramulla Grgur., 1997 SPECIES
-=======
+# Mycena kurramulla Grgur., 1997 SPECIES
 
 #### Status
 ACCEPTED

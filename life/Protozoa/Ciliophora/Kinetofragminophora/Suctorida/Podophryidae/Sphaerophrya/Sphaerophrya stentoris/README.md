@@ -1,5 +1,4 @@
-Sphaerophrya stentoris Maupas, 1881 SPECIES
-=======
+# Sphaerophrya stentoris Maupas, 1881 SPECIES
 
 #### Status
 ACCEPTED

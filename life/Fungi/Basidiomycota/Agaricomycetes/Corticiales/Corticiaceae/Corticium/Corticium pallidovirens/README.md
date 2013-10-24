@@ -1,5 +1,4 @@
-Corticium pallidovirens Bourdot & Galzin SPECIES
-=======
+# Corticium pallidovirens Bourdot & Galzin SPECIES
 
 #### Status
 ACCEPTED

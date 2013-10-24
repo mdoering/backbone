@@ -1,5 +1,4 @@
-Conioscypha fabiformis Matsush. SPECIES
-=======
+# Conioscypha fabiformis Matsush. SPECIES
 
 #### Status
 ACCEPTED

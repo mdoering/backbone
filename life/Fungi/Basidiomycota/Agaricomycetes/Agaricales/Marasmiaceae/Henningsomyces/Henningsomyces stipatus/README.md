@@ -1,5 +1,4 @@
-Henningsomyces stipatus (Pers.) Kuntze SPECIES
-=======
+# Henningsomyces stipatus (Pers.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

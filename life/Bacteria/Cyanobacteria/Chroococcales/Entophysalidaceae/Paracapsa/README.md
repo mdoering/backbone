@@ -1,5 +1,4 @@
-Paracapsa Naumann, 1924 GENUS
-=======
+# Paracapsa Naumann, 1924 GENUS
 
 #### Status
 ACCEPTED

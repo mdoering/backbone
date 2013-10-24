@@ -1,5 +1,4 @@
-Sticta leucosticta Pers. SPECIES
-=======
+# Sticta leucosticta Pers. SPECIES
 
 #### Status
 ACCEPTED

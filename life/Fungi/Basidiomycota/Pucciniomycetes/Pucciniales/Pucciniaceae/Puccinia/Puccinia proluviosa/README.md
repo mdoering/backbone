@@ -1,5 +1,4 @@
-Puccinia proluviosa H.S. Jacks. & Holw. SPECIES
-=======
+# Puccinia proluviosa H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

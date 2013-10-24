@@ -1,5 +1,4 @@
-Melanopeziza Velen. GENUS
-=======
+# Melanopeziza Velen. GENUS
 
 #### Status
 ACCEPTED

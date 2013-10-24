@@ -1,5 +1,4 @@
-Anabaena reverdattoana T. G. Popova & M. Degterieva SPECIES
-=======
+# Anabaena reverdattoana T. G. Popova & M. Degterieva SPECIES
 
 #### Status
 ACCEPTED

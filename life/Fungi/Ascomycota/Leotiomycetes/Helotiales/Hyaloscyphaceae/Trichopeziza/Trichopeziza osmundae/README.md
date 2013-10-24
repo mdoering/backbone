@@ -1,5 +1,4 @@
-Trichopeziza osmundae (Cooke & Ellis) Sacc. SPECIES
-=======
+# Trichopeziza osmundae (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

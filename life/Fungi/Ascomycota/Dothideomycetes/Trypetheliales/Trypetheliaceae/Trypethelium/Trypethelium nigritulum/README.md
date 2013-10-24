@@ -1,5 +1,4 @@
-Trypethelium nigritulum Nyl. SPECIES
-=======
+# Trypethelium nigritulum Nyl. SPECIES
 
 #### Status
 ACCEPTED

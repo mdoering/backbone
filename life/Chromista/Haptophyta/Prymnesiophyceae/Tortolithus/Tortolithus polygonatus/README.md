@@ -1,5 +1,4 @@
-Tortolithus polygonatus SPECIES
-=======
+# Tortolithus polygonatus SPECIES
 
 #### Status
 ACCEPTED

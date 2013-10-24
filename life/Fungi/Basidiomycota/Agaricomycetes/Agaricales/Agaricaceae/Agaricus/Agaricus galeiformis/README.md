@@ -1,5 +1,4 @@
-Agaricus galeiformis Berk. & Broome SPECIES
-=======
+# Agaricus galeiformis Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

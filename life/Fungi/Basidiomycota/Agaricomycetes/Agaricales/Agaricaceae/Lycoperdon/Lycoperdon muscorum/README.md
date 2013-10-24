@@ -1,5 +1,4 @@
-Lycoperdon muscorum var. muscorum VARIETY
-=======
+# Lycoperdon muscorum Morgan SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lycoperdon muscorum var. muscorum
+Lycoperdon muscorum Morgan
 
 ### Remarks
 null

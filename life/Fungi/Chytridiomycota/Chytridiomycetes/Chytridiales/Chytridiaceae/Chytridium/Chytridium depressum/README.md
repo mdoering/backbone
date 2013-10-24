@@ -1,5 +1,4 @@
-Chytridium depressum Pringsh. SPECIES
-=======
+# Chytridium depressum Pringsh. SPECIES
 
 #### Status
 ACCEPTED

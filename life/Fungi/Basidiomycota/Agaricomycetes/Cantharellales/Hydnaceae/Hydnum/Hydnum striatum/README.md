@@ -1,5 +1,4 @@
-Hydnum striatum Schaeff. SPECIES
-=======
+# Hydnum striatum Schaeff. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Sordaria erostrata (Griffiths) Sacc. & D. Sacc., 1905 SPECIES
-=======
+# Zopfiella erostrata (Griffiths) Udagawa & Furuya, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 17: 604 (1905)
+Trans. Mycol. Soc. Japan 15(3): 208 (1974)
 
 #### Original name
 Pleurage erostrata Griffiths, 1901

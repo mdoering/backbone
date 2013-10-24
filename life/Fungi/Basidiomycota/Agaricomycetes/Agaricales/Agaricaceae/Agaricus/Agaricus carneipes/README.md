@@ -1,5 +1,4 @@
-Agaricus carneipes Secr. SPECIES
-=======
+# Agaricus carneipes Secr. SPECIES
 
 #### Status
 ACCEPTED

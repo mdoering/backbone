@@ -1,5 +1,4 @@
-Scrobicularius Schltdl. GENUS
-=======
+# Scrobicularius Schltdl. GENUS
 
 #### Status
 ACCEPTED

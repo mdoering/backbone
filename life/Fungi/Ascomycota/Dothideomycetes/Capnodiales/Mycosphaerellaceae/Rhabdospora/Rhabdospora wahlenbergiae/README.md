@@ -1,17 +1,16 @@
-Rhabdospora wahlenbergii (Speg.) Sacc. SPECIES
-=======
+# Rhabdospora wahlenbergiae (Speg.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 3: 591 (1884)
 
 #### Original name
-Septoria wahlenbergii Speg.
+Septoria wahlenbergiae Speg.
 
 ### Remarks
 null

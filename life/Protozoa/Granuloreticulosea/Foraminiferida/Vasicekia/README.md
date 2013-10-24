@@ -1,5 +1,4 @@
-Vasicekia Pokórny, 1953 GENUS
-=======
+# Vasicekia Pokórny, 1953 GENUS
 
 #### Status
 ACCEPTED

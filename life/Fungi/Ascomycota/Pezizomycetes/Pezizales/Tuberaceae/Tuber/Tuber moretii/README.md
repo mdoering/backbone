@@ -1,5 +1,4 @@
-Tuber moretii Maire SPECIES
-=======
+# Tuber moretii Maire SPECIES
 
 #### Status
 ACCEPTED

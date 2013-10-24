@@ -1,14 +1,13 @@
-Passalora gnaphaliaceae (Cooke) U. Braun & Crous SPECIES
-=======
+# Passalora gnaphaliacea (Cooke) U. Braun & Crous SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Crous & Braun, CBS Diversity Ser. (Utrecht) 201 (2003)
 
 #### Original name
 Cercospora gnaphaliacea Cooke

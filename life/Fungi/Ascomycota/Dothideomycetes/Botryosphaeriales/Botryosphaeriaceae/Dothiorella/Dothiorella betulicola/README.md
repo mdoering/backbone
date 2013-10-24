@@ -1,5 +1,4 @@
-Dothiorella betulicola Glezer SPECIES
-=======
+# Dothiorella betulicola Glezer SPECIES
 
 #### Status
 ACCEPTED

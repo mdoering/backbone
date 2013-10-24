@@ -1,5 +1,4 @@
-Arthrobotryum scoparium Henn. SPECIES
-=======
+# Arthrobotryum scoparium Henn. SPECIES
 
 #### Status
 ACCEPTED

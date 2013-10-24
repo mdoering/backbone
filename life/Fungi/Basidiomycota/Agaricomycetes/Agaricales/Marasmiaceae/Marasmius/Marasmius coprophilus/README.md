@@ -1,5 +1,4 @@
-Marasmius coprophilus Speg. SPECIES
-=======
+# Marasmius coprophilus Speg. SPECIES
 
 #### Status
 ACCEPTED

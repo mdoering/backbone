@@ -1,5 +1,4 @@
-Bombyliospora GENUS
-=======
+# Bombyliospora GENUS
 
 #### Status
 ACCEPTED

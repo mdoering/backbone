@@ -1,5 +1,4 @@
-Peniophora zonata Burt SPECIES
-=======
+# Peniophora zonata Burt SPECIES
 
 #### Status
 ACCEPTED

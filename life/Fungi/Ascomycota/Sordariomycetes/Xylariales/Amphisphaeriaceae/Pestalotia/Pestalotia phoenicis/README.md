@@ -1,5 +1,4 @@
-Pestalotia phoenicis Vize & Cooke SPECIES
-=======
+# Pestalotia phoenicis Vize & Cooke SPECIES
 
 #### Status
 ACCEPTED

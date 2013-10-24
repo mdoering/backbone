@@ -1,5 +1,4 @@
-Eriosphaeria rehmii Cavara SPECIES
-=======
+# Eriosphaeria rehmii Cavara SPECIES
 
 #### Status
 ACCEPTED

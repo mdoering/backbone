@@ -1,17 +1,16 @@
-Peziza schenckii Batsch SPECIES
-=======
+# Peziza schenkii Batsch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Elench. fung. (Halle) 125, tab. 12:52 (1783)
 
 #### Original name
-Peziza schenckii Batsch
+Peziza schenkii Batsch
 
 ### Remarks
 null

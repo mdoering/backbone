@@ -1,5 +1,4 @@
-Auxoarthron umbrinum (Boud.) G.F. Orr & Plunkett, 1963 SPECIES
-=======
+# Auxoarthron umbrinum (Boud.) G.F. Orr & Plunkett, 1963 SPECIES
 
 #### Status
 ACCEPTED

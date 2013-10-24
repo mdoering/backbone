@@ -1,5 +1,4 @@
-Acarospora steinii Körb. SPECIES
-=======
+# Acarospora steinii Körb. SPECIES
 
 #### Status
 ACCEPTED

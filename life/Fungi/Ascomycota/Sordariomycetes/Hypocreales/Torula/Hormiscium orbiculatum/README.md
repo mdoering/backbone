@@ -1,5 +1,4 @@
-Hormiscium orbiculatum P. Karst. SPECIES
-=======
+# Hormiscium orbiculatum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

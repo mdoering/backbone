@@ -1,5 +1,4 @@
-Pyrenula minae Aptroot & Lücking SPECIES
-=======
+# Pyrenula minae Aptroot & Lücking SPECIES
 
 #### Status
 ACCEPTED

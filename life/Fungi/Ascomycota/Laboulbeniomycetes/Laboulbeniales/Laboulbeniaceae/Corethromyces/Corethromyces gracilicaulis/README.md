@@ -1,5 +1,4 @@
-Corethromyces gracilicaulis Thaxt. SPECIES
-=======
+# Corethromyces gracilicaulis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

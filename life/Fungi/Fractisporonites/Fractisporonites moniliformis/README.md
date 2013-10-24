@@ -1,5 +1,4 @@
-Fractisporonites moniliformis R.T. Clarke SPECIES
-=======
+# Fractisporonites moniliformis R.T. Clarke SPECIES
 
 #### Status
 ACCEPTED

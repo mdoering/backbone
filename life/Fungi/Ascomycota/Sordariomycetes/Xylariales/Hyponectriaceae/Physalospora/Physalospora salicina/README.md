@@ -1,5 +1,4 @@
-Physalospora salicina (Hara) Hara SPECIES
-=======
+# Physalospora salicina (Hara) Hara SPECIES
 
 #### Status
 ACCEPTED

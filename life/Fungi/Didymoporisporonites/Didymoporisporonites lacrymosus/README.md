@@ -1,5 +1,4 @@
-Didymoporisporonites lacrymosus Sal.-Cheb. & Locq. SPECIES
-=======
+# Didymoporisporonites lacrymosus Sal.-Cheb. & Locq. SPECIES
 
 #### Status
 ACCEPTED

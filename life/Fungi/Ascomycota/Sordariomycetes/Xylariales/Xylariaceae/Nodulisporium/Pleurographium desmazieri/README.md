@@ -1,5 +1,4 @@
-Pleurographium desmazieri (Sacc.) Goid. SPECIES
-=======
+# Pleurographium desmazieri (Sacc.) Goid. SPECIES
 
 #### Status
 ACCEPTED

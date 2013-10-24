@@ -1,5 +1,4 @@
-Ithyphallus glutinolens Möller SPECIES
-=======
+# Ithyphallus glutinolens Möller SPECIES
 
 #### Status
 ACCEPTED

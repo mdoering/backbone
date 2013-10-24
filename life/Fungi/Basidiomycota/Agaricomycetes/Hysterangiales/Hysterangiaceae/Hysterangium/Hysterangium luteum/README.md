@@ -1,5 +1,4 @@
-Hysterangium luteum Massee & Rodway SPECIES
-=======
+# Hysterangium luteum Massee & Rodway SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptomonas phaseolus Skuja, 1948 SPECIES
-=======
+# Cryptomonas phaseolus Skuja, 1948 SPECIES
 
 #### Status
 ACCEPTED

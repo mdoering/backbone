@@ -1,5 +1,4 @@
-Pseudogaudryina pacifica Cushman & McCulloch, 1939 SPECIES
-=======
+# Pseudogaudryina pacifica Cushman & McCulloch, 1939 SPECIES
 
 #### Status
 ACCEPTED

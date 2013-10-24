@@ -1,5 +1,4 @@
-Mycogone lindaviana Jaap SPECIES
-=======
+# Mycogone lindaviana Jaap SPECIES
 
 #### Status
 ACCEPTED

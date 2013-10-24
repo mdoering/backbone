@@ -1,5 +1,4 @@
-Odyssella Birtles et al., 2000 GENUS
-=======
+# Odyssella Birtles et al., 2000 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena murina Murrill SPECIES
-=======
+# Mycena murina Murrill SPECIES
 
 #### Status
 ACCEPTED

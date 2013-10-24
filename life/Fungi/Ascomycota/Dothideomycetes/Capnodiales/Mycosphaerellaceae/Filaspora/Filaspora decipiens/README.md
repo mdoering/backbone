@@ -1,5 +1,4 @@
-Filaspora decipiens (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Filaspora decipiens (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

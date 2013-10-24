@@ -1,5 +1,4 @@
-Fusicladium cecropiae (F. Stevens) Toro SPECIES
-=======
+# Fusicladium cecropiae (F. Stevens) Toro SPECIES
 
 #### Status
 ACCEPTED

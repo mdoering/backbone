@@ -1,5 +1,4 @@
-Battarrea guicciardiniana Ces. SPECIES
-=======
+# Battarrea guicciardiniana Ces. SPECIES
 
 #### Status
 ACCEPTED

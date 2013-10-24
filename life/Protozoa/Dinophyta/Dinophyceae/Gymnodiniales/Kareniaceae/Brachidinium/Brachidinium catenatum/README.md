@@ -1,8 +1,7 @@
-Brachydinium catenatum F.J.R.Taylor, 1967 SPECIES
-=======
+# Brachidinium catenatum F.J.R. Taylor, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

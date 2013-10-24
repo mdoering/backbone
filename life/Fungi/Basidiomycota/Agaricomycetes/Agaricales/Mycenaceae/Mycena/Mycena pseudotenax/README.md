@@ -1,5 +1,4 @@
-Mycena pseudotenax A.H. Sm. SPECIES
-=======
+# Mycena pseudotenax A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecaniella pseudocyrtella (Anzi) Jatta SPECIES
-=======
+# Lecaniella pseudocyrtella (Anzi) Jatta SPECIES
 
 #### Status
 ACCEPTED

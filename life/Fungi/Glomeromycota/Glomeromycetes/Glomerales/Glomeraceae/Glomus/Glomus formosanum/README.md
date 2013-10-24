@@ -1,5 +1,4 @@
-Glomus formosanum C.G. Wu & Z.C. Chen, 1986 SPECIES
-=======
+# Glomus formosanum C.G. Wu & Z.C. Chen, 1986 SPECIES
 
 #### Status
 ACCEPTED

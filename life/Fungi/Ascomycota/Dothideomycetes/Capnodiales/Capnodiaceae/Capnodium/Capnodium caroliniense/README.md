@@ -1,5 +1,4 @@
-Capnodium caroliniense Berk. & Desm. SPECIES
-=======
+# Capnodium caroliniense Berk. & Desm. SPECIES
 
 #### Status
 ACCEPTED

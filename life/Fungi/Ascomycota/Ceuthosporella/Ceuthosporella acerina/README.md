@@ -1,5 +1,4 @@
-Ceuthosporella acerina Petr. & Syd. SPECIES
-=======
+# Ceuthosporella acerina Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

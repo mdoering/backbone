@@ -1,14 +1,13 @@
-Agaricus laurocerasi Berk. & Broome, 1881 SPECIES
-=======
+# Lentinellus laurocerasi (Berk. & Broome) P.D. Orton, 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mag. nat. Hist. , Ser. 5 7: 126 (1881)
+Trans. Br. mycol. Soc. 43: 177 (1960)
 
 #### Original name
 Agaricus laurocerasi Berk. & Broome, 1881

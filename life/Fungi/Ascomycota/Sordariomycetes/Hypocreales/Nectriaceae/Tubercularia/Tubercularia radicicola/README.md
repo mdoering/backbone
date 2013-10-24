@@ -1,5 +1,4 @@
-Tubercularia radicicola Delacr. SPECIES
-=======
+# Tubercularia radicicola Delacr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Archaeothamnulus Dumitrica, 1982 GENUS
-=======
+# Archaeothamnulus Dumitrica, 1982 GENUS
 
 #### Status
 ACCEPTED

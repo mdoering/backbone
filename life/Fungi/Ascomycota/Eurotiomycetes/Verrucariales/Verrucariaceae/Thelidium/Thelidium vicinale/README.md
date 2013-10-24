@@ -1,5 +1,4 @@
-Thelidium vicinale (Arnold) Servít SPECIES
-=======
+# Thelidium vicinale (Arnold) Servít SPECIES
 
 #### Status
 ACCEPTED

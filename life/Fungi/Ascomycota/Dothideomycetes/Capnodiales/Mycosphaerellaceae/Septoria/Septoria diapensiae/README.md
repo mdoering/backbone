@@ -1,5 +1,4 @@
-Septoria diapensiae P. Karst. SPECIES
-=======
+# Septoria diapensiae P. Karst. SPECIES
 
 #### Status
 ACCEPTED

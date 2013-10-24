@@ -1,5 +1,4 @@
-Sporidesmium circinophorum Matsush. SPECIES
-=======
+# Sporidesmium circinophorum Matsush. SPECIES
 
 #### Status
 ACCEPTED

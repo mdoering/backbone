@@ -1,5 +1,4 @@
-Subulicium minus Hjortstam, 1984 SPECIES
-=======
+# Subulicium minus Hjortstam, 1984 SPECIES
 
 #### Status
 ACCEPTED

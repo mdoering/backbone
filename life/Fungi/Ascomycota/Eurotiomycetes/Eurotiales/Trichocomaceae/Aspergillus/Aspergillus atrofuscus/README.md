@@ -1,5 +1,4 @@
-Aspergillus atrofuscus Mosseray SPECIES
-=======
+# Aspergillus atrofuscus Mosseray SPECIES
 
 #### Status
 ACCEPTED

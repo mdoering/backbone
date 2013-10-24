@@ -1,5 +1,4 @@
-Sphaeria acicularis Wallr. SPECIES
-=======
+# Sphaeria acicularis Wallr. SPECIES
 
 #### Status
 ACCEPTED

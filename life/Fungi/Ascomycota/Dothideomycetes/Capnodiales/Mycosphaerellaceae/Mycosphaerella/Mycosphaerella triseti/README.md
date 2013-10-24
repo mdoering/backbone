@@ -1,5 +1,4 @@
-Mycosphaerella triseti (Speg.) Tomilin SPECIES
-=======
+# Mycosphaerella triseti (Speg.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

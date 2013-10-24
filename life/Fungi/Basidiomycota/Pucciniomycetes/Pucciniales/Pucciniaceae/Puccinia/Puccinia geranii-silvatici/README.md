@@ -1,5 +1,4 @@
-Puccinia geranii-silvatici var. geranii-silvatici VARIETY
-=======
+# Puccinia geranii-silvatici P. Karst. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Puccinia geranii-silvatici var. geranii-silvatici
+Puccinia geranii-silvatici P. Karst.
 
 ### Remarks
 null

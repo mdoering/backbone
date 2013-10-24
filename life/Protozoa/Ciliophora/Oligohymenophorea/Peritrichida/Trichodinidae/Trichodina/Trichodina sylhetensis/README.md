@@ -1,5 +1,4 @@
-Trichodina sylhetensis Asmat, Hafizuddin & Habib, 2003 SPECIES
-=======
+# Trichodina sylhetensis Asmat, Hafizuddin & Habib, 2003 SPECIES
 
 #### Status
 ACCEPTED

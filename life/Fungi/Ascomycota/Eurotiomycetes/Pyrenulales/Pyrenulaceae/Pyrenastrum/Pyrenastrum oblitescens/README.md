@@ -1,5 +1,4 @@
-Pyrenastrum oblitescens (Stirt.) Makhija & Patw. SPECIES
-=======
+# Pyrenastrum oblitescens (Stirt.) Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

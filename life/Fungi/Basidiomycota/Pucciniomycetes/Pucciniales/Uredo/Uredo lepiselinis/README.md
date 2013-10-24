@@ -1,5 +1,4 @@
-Uredo lepiselinis Thüm. SPECIES
-=======
+# Uredo lepiselinis Thüm. SPECIES
 
 #### Status
 ACCEPTED

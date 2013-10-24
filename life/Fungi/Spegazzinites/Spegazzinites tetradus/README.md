@@ -1,5 +1,4 @@
-Spegazzinites tetradus (Rouse) Kalgutkar & Janson. SPECIES
-=======
+# Spegazzinites tetradus (Rouse) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Valsa fabianae G.C. Adams, M.J. Wingf. & Jol. Roux SPECIES
-=======
+# Valsa fabianae G.C. Adams, M.J. Wingf. & Jol. Roux SPECIES
 
 #### Status
 ACCEPTED

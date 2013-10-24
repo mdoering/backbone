@@ -1,5 +1,4 @@
-Pyxicoccus GENUS
-=======
+# Pyxicoccus GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Furia fumimontana (Balazy) S. Keller, 2005 SPECIES
-=======
+# Furia fumimontana (Balazy) S. Keller, 2005 SPECIES
 
 #### Status
 ACCEPTED

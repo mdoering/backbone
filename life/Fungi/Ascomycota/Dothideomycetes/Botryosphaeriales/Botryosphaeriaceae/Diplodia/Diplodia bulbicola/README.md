@@ -1,5 +1,4 @@
-Diplodia bulbicola Henn. SPECIES
-=======
+# Diplodia bulbicola Henn. SPECIES
 
 #### Status
 ACCEPTED

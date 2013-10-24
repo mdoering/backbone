@@ -1,5 +1,4 @@
-Stigonema aerugineum Tilden SPECIES
-=======
+# Stigonema aerugineum Tilden SPECIES
 
 #### Status
 ACCEPTED

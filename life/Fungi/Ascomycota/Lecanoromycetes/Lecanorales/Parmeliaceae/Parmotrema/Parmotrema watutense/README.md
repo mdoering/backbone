@@ -1,5 +1,4 @@
-Parmotrema watutense Louwhoff & Elix SPECIES
-=======
+# Parmotrema watutense Louwhoff & Elix SPECIES
 
 #### Status
 ACCEPTED

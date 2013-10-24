@@ -1,5 +1,4 @@
-Bacidia brachyspora (Müll. Arg.) Hellb. SPECIES
-=======
+# Bacidia brachyspora (Müll. Arg.) Hellb. SPECIES
 
 #### Status
 ACCEPTED

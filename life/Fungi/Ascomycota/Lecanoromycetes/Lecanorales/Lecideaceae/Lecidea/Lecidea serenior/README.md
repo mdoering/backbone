@@ -1,5 +1,4 @@
-Lecidea serenior (Vain.) Vain. SPECIES
-=======
+# Lecidea serenior (Vain.) Vain. SPECIES
 
 #### Status
 ACCEPTED

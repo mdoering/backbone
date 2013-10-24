@@ -1,14 +1,13 @@
-Polystomella trichiliae Syd., 1925 SPECIES
-=======
+# Protothyrium trichiliae (Syd.) Arx, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 23(3/6): 389 (1925)
+in Müller & Arx, Beitr. Kryptfl. Schweiz 11(no. 2): 78 (1962)
 
 #### Original name
 Polystomella trichiliae Syd., 1925

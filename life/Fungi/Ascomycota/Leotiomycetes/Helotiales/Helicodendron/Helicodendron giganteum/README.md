@@ -1,5 +1,4 @@
-Helicodendron giganteum Glen Bott, 1951 SPECIES
-=======
+# Helicodendron giganteum Glen Bott, 1951 SPECIES
 
 #### Status
 ACCEPTED

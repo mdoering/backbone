@@ -1,5 +1,4 @@
-Labyrinthomyces steenisii Boedijn, 1939 SPECIES
-=======
+# Labyrinthomyces steenisii Boedijn, 1939 SPECIES
 
 #### Status
 ACCEPTED

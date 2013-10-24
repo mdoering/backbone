@@ -1,5 +1,4 @@
-Chenia Sheng, 1963 GENUS
-=======
+# Chenia Sheng, 1963 GENUS
 
 #### Status
 ACCEPTED

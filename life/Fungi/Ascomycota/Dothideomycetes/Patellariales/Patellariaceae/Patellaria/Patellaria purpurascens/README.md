@@ -1,5 +1,4 @@
-Patellaria purpurascens (Hoffm.) Duby SPECIES
-=======
+# Patellaria purpurascens (Hoffm.) Duby SPECIES
 
 #### Status
 ACCEPTED

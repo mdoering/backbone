@@ -1,5 +1,4 @@
-Leptosphaeria albulae E. Müll. SPECIES
-=======
+# Leptosphaeria albulae E. Müll. SPECIES
 
 #### Status
 ACCEPTED

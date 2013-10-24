@@ -1,5 +1,4 @@
-Cantharellus violaceogriseus Henn. SPECIES
-=======
+# Cantharellus violaceogriseus Henn. SPECIES
 
 #### Status
 ACCEPTED

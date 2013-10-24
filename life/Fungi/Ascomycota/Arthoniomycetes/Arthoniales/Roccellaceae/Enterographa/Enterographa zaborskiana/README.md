@@ -1,5 +1,4 @@
-Enterographa zaborskiana (M. Choisy & Werner) Egea & Torrente SPECIES
-=======
+# Enterographa zaborskiana (M. Choisy & Werner) Egea & Torrente SPECIES
 
 #### Status
 ACCEPTED

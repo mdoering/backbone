@@ -1,5 +1,4 @@
-Stagonosporopsis dennisii Boerema, Gruyter & Noordel. SPECIES
-=======
+# Stagonosporopsis dennisii Boerema, Gruyter & Noordel. SPECIES
 
 #### Status
 ACCEPTED

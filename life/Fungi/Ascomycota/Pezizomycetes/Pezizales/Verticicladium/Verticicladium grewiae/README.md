@@ -1,5 +1,4 @@
-Verticicladium grewiae Hansf. SPECIES
-=======
+# Verticicladium grewiae Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia guerkianus Henn. SPECIES
-=======
+# Puccinia guerkianus Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria subdepressa Müll. Arg. SPECIES
-=======
+# Pertusaria subdepressa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lichen obscurus With. SPECIES
-=======
+# Lichen obscurus With. SPECIES
 
 #### Status
 ACCEPTED

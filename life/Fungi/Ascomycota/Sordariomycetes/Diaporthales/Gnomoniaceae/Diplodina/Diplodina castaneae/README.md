@@ -1,5 +1,4 @@
-Diplodina castaneae Prill. & Delacr., 1893 SPECIES
-=======
+# Diplodina castaneae Prill. & Delacr., 1893 SPECIES
 
 #### Status
 ACCEPTED

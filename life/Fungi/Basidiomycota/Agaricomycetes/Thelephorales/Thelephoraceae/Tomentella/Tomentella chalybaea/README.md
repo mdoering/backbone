@@ -1,5 +1,4 @@
-Tomentella chalybaea (Pers.) Höhn. & Litsch. SPECIES
-=======
+# Tomentella chalybaea (Pers.) Höhn. & Litsch. SPECIES
 
 #### Status
 ACCEPTED

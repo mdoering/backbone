@@ -1,5 +1,4 @@
-Didymotrichum fusiferum (Berk. & M.A. Curtis) Linder SPECIES
-=======
+# Didymotrichum fusiferum (Berk. & M.A. Curtis) Linder SPECIES
 
 #### Status
 ACCEPTED

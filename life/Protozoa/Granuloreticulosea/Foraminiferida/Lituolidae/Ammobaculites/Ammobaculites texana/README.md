@@ -1,5 +1,4 @@
-Ammobaculites texana Cushman, 1933 SPECIES
-=======
+# Ammobaculites texana Cushman, 1933 SPECIES
 
 #### Status
 ACCEPTED

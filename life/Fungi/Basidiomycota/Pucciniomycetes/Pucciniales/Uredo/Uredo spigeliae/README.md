@@ -1,5 +1,4 @@
-Uredo spigeliae (Arthur) Cummins SPECIES
-=======
+# Uredo spigeliae (Arthur) Cummins SPECIES
 
 #### Status
 ACCEPTED

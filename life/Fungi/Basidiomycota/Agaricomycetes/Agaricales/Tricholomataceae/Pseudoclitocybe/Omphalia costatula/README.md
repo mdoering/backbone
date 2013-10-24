@@ -1,5 +1,4 @@
-Omphalia costatula P. Karst. SPECIES
-=======
+# Omphalia costatula P. Karst. SPECIES
 
 #### Status
 ACCEPTED

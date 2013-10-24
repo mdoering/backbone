@@ -1,5 +1,4 @@
-Plerogone M.W. Dick GENUS
-=======
+# Plerogone M.W. Dick GENUS
 
 #### Status
 ACCEPTED

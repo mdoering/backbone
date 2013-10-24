@@ -1,5 +1,4 @@
-Pyxidiella scrobiculata (Deflandre & Cookson, 1955) Cookson & Eisenack, 1958 SPECIES
-=======
+# Pyxidiella scrobiculata (Deflandre & Cookson, 1955) Cookson & Eisenack, 1958 SPECIES
 
 #### Status
 ACCEPTED

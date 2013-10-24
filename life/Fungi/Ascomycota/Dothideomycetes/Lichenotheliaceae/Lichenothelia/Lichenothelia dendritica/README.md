@@ -1,5 +1,4 @@
-Lichenothelia dendritica Henssen SPECIES
-=======
+# Lichenothelia dendritica Henssen SPECIES
 
 #### Status
 ACCEPTED

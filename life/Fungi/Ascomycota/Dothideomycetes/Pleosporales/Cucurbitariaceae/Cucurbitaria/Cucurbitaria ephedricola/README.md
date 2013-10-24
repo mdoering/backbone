@@ -1,5 +1,4 @@
-Cucurbitaria ephedricola Esfand. SPECIES
-=======
+# Cucurbitaria ephedricola Esfand. SPECIES
 
 #### Status
 ACCEPTED

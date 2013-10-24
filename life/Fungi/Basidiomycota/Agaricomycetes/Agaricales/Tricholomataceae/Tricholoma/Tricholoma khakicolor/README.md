@@ -1,5 +1,4 @@
-Tricholoma khakicolor Corner SPECIES
-=======
+# Tricholoma khakicolor Corner SPECIES
 
 #### Status
 ACCEPTED

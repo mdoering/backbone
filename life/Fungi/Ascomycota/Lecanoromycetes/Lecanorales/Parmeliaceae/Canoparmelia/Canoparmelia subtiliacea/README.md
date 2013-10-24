@@ -1,17 +1,16 @@
-Parmelia quercina var. feracissima (Müll. Arg.) Hillmann VARIETY
-=======
+# Canoparmelia subtiliacea (Nyl.) Elix & Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Elix, Johnston & Verdon, Mycotaxon 27: 279 (1986)
 
 #### Original name
-Parmelia tiliacea var. feracissima Müll. Arg.
+Parmelia subtiliacea Nyl.
 
 ### Remarks
 null

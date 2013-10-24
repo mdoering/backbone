@@ -1,5 +1,4 @@
-Peziza arduennensis Mont. SPECIES
-=======
+# Peziza arduennensis Mont. SPECIES
 
 #### Status
 ACCEPTED

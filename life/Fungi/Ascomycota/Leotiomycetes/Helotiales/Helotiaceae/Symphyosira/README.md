@@ -1,5 +1,4 @@
-Symphyosira Preuss GENUS
-=======
+# Symphyosira Preuss GENUS
 
 #### Status
 ACCEPTED

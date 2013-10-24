@@ -1,5 +1,4 @@
-Meliola tieghemopanacis B. Huguenin SPECIES
-=======
+# Meliola tieghemopanacis B. Huguenin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physcia affixa Nyl. SPECIES
-=======
+# Physcia affixa Nyl. SPECIES
 
 #### Status
 ACCEPTED

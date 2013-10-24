@@ -1,5 +1,4 @@
-Cephalodiplosporium elegans Kamyschko SPECIES
-=======
+# Cephalodiplosporium elegans Kamyschko SPECIES
 
 #### Status
 ACCEPTED

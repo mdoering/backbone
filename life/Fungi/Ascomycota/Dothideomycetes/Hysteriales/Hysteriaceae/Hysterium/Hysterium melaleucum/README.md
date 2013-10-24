@@ -1,17 +1,16 @@
-Hysterium melaleucum var. melaleucum VARIETY
-=======
+# Hysterium melaleucum ß melaleucum Fr. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Observ. mycol. (Havniae) 1: 192 (1815)
 
 #### Original name
-null
+Hysterium melaleucum ß melaleucum Fr.
 
 ### Remarks
 null

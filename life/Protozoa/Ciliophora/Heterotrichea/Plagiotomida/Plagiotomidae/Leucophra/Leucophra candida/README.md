@@ -1,5 +1,4 @@
-Leucophra candida Müller, 1786 SPECIES
-=======
+# Leucophra candida Müller, 1786 SPECIES
 
 #### Status
 ACCEPTED

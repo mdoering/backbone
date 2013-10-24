@@ -1,5 +1,4 @@
-Strombidium minutum Wulff, 1919 SPECIES
-=======
+# Strombidium minutum Wulff, 1919 SPECIES
 
 #### Status
 ACCEPTED

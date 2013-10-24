@@ -1,5 +1,4 @@
-Graphis chlorotica A. Massal. SPECIES
-=======
+# Graphis chlorotica A. Massal. SPECIES
 
 #### Status
 ACCEPTED

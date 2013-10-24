@@ -1,17 +1,16 @@
-Multicellaesporites quattorodecimcella Mart.-Hern. & Tom.-Ort. SPECIES
-=======
+# Multicellaesporites quattuoridecimcella Mart.-Hern. & Tom.-Ort. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revista, Universidad Autónomia Nacional de México, Instituto de Geología 8(2): 239 + fig. 3n (1989)
 
 #### Original name
-Multicellaesporites quattorodecimcella Mart.-Hern. & Tom.-Ort.
+Multicellaesporites quattuoridecimcella Mart.-Hern. & Tom.-Ort.
 
 ### Remarks
 null

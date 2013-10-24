@@ -1,5 +1,4 @@
-Asterinites tellezii Doub. & D. Pons ex Kalgutkar & Janson. SPECIES
-=======
+# Asterinites tellezii Doub. & D. Pons ex Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rigidoporus durns (Jungh.) Imaz. SPECIES
-=======
+# Rigidoporus durns (Jungh.) Imaz. SPECIES
 
 #### Status
 ACCEPTED

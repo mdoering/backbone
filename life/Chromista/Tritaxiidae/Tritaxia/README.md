@@ -1,5 +1,4 @@
-Tritaxia Reuss, 1860 GENUS
-=======
+# Tritaxia Reuss, 1860 GENUS
 
 #### Status
 ACCEPTED

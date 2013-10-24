@@ -1,5 +1,4 @@
-Agaricus impolitoides Peck SPECIES
-=======
+# Agaricus impolitoides Peck SPECIES
 
 #### Status
 ACCEPTED

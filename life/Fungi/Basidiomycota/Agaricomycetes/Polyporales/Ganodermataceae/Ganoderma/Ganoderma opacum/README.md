@@ -1,5 +1,4 @@
-Ganoderma opacum (Berk. & Mont.) Pat. SPECIES
-=======
+# Ganoderma opacum (Berk. & Mont.) Pat. SPECIES
 
 #### Status
 ACCEPTED

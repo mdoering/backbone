@@ -1,5 +1,4 @@
-Acanthamoeba polyphaga (Puschkarew, 1913) SPECIES
-=======
+# Acanthamoeba polyphaga (Puschkarew, 1913) SPECIES
 
 #### Status
 ACCEPTED

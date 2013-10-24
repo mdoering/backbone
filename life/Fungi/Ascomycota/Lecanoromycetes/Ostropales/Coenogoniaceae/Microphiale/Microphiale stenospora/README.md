@@ -1,5 +1,4 @@
-Microphiale stenospora (Malme) Zahlbr. SPECIES
-=======
+# Microphiale stenospora (Malme) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

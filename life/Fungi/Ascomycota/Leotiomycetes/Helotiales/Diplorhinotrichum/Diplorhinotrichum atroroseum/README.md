@@ -1,5 +1,4 @@
-Diplorhinotrichum atroroseum Hennebert SPECIES
-=======
+# Diplorhinotrichum atroroseum Hennebert SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psilocybe plana Rick SPECIES
-=======
+# Psilocybe plana Rick SPECIES
 
 #### Status
 ACCEPTED

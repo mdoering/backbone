@@ -1,17 +1,16 @@
-Sphaeria leucomelaria Mudd SPECIES
-=======
+# Pyrenidium actinellum Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Flora, Jena 48: 210 (1865)
 
 #### Original name
-Sphaeria leucomelaria Mudd
+Pyrenidium actinellum Nyl.
 
 ### Remarks
 null

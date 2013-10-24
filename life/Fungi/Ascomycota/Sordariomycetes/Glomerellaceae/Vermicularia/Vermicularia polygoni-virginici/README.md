@@ -1,5 +1,4 @@
-Vermicularia polygoni-virginici Schwein. SPECIES
-=======
+# Vermicularia polygoni-virginici Schwein. SPECIES
 
 #### Status
 ACCEPTED

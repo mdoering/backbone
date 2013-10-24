@@ -1,5 +1,4 @@
-Chamaesiphon halophilus R. Tavera & J. Komárek SPECIES
-=======
+# Chamaesiphon halophilus R. Tavera & J. Komárek SPECIES
 
 #### Status
 ACCEPTED

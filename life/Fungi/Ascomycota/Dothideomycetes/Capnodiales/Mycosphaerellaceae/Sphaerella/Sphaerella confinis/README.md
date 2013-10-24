@@ -1,5 +1,4 @@
-Sphaerella confinis var. confinis VARIETY
-=======
+# Sphaerella confinis P. Karst. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sphaerella confinis var. confinis
+Sphaerella confinis P. Karst.
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Lachnea erinaceus var. erinaceus VARIETY
-=======
+# Scutellinia erinaceus (Schwein.) Kuntze, 1891 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 2: 869 (1891)
 
 #### Original name
-Lachnea erinaceus var. erinaceus
+Peziza erinaceus Schwein., 1822
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cyptotrama depauperatum Singer, 1977 SPECIES
-=======
+# Cyptotrama depauperatum Singer, 1977 SPECIES
 
 #### Status
 ACCEPTED

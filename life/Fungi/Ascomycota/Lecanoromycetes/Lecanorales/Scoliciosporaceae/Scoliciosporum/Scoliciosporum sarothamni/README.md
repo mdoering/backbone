@@ -1,14 +1,13 @@
-Bacidia sarothamni Vain. SPECIES
-=======
+# Scoliciosporum sarothamni (Vain.) Vezda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Acta Soc. Fauna Flora fenn. 53(no. 1): 241 (1922)
+Folia geobot. phytotax. bohemoslov. 13(4): 411 (1978)
 
 #### Original name
 Bacidia sarothamni Vain.

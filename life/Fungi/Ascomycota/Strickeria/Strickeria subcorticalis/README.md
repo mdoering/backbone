@@ -1,5 +1,4 @@
-Strickeria subcorticalis Feltgen SPECIES
-=======
+# Strickeria subcorticalis Feltgen SPECIES
 
 #### Status
 ACCEPTED

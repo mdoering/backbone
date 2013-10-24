@@ -1,5 +1,4 @@
-Valsa exanthemoides (Mont.) SPECIES
-=======
+# Valsa exanthemoides (Mont.) SPECIES
 
 #### Status
 ACCEPTED

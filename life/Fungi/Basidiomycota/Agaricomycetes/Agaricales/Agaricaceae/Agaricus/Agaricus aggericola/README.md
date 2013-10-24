@@ -1,5 +1,4 @@
-Agaricus aggericola Peck SPECIES
-=======
+# Agaricus aggericola Peck SPECIES
 
 #### Status
 ACCEPTED

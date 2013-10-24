@@ -1,5 +1,4 @@
-Psathyrella galericolor A.H. Sm. SPECIES
-=======
+# Psathyrella galericolor A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

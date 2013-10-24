@@ -1,5 +1,4 @@
-Sorosphaera ulei (J. Schröt.) Liro SPECIES
-=======
+# Sorosphaera ulei (J. Schröt.) Liro SPECIES
 
 #### Status
 ACCEPTED

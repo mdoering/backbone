@@ -1,5 +1,4 @@
-Ewingella americana Grimont et al., 1984 SPECIES
-=======
+# Ewingella americana Grimont et al., 1984 SPECIES
 
 #### Status
 ACCEPTED

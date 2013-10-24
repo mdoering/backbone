@@ -1,5 +1,4 @@
-Balamuthia Visvesvara, Schuster & Martínez, 1993 GENUS
-=======
+# Balamuthia Visvesvara, Schuster & Martínez, 1993 GENUS
 
 #### Status
 ACCEPTED

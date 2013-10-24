@@ -1,5 +1,4 @@
-Rhinomonas reticulata var. elenaeana G. Novarino VARIETY
-=======
+# Rhinomonas reticulata (I. A. N. Lucas) G. Novarino SPECIES
 
 #### Status
 ACCEPTED

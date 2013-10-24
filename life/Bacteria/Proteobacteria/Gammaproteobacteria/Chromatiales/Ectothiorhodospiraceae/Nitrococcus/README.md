@@ -1,5 +1,4 @@
-Nitrococcus GENUS
-=======
+# Nitrococcus GENUS
 
 #### Status
 ACCEPTED

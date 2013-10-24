@@ -1,5 +1,4 @@
-Clavaria carbonaria Mont. SPECIES
-=======
+# Clavaria carbonaria Mont. SPECIES
 
 #### Status
 ACCEPTED

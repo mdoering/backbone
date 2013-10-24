@@ -1,17 +1,16 @@
-Yoshinagamyces Hara GENUS
-=======
+# Japonia von Höhnel, 1909 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Mag. , Tokyo 26: 143 (1912)
+Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 118: 879 (1909)
 
 #### Original name
-Yoshinagamyces Hara
+Japonia von Höhnel, 1909
 
 ### Remarks
 null

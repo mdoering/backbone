@@ -1,5 +1,4 @@
-Pestalotia lambertiae Petr. SPECIES
-=======
+# Pestalotia lambertiae Petr. SPECIES
 
 #### Status
 ACCEPTED

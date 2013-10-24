@@ -1,5 +1,4 @@
-Eichleriella schenkii Burt SPECIES
-=======
+# Eichleriella schenkii Burt SPECIES
 
 #### Status
 ACCEPTED

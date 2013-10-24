@@ -1,5 +1,4 @@
-Lecidea glomelliferae Harm. SPECIES
-=======
+# Lecidea glomelliferae Harm. SPECIES
 
 #### Status
 ACCEPTED

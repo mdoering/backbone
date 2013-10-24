@@ -1,5 +1,4 @@
-Pileolaria dieteliana Syd. SPECIES
-=======
+# Pileolaria dieteliana Syd. SPECIES
 
 #### Status
 ACCEPTED

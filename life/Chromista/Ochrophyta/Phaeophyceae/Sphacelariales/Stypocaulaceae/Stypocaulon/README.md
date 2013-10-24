@@ -1,5 +1,4 @@
-Stypocaulon GENUS
-=======
+# Stypocaulon GENUS
 
 #### Status
 ACCEPTED

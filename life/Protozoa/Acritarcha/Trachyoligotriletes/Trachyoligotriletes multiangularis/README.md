@@ -1,5 +1,4 @@
-Trachyoligotriletes multiangularis Timofeev, 1959 SPECIES
-=======
+# Trachyoligotriletes multiangularis Timofeev, 1959 SPECIES
 
 #### Status
 ACCEPTED

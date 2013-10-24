@@ -1,14 +1,13 @@
-Hypochnus peniophoroides Burt, 1916 SPECIES
-=======
+# Dichostereum peniophoroides (Burt) Boidin & Lanq., 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mo. bot. Gdn 3: 234 (1916)
+Mycotaxon 6(2): 284 (1977)
 
 #### Original name
 Hypochnus peniophoroides Burt, 1916

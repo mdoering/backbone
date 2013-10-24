@@ -1,5 +1,4 @@
-Tubercularia abrotani Fautrey SPECIES
-=======
+# Tubercularia abrotani Fautrey SPECIES
 
 #### Status
 ACCEPTED

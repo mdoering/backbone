@@ -1,5 +1,4 @@
-Ascophora fimetaria (Link) Link SPECIES
-=======
+# Ascophora fimetaria (Link) Link SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Skoteinospora amapensis Bat., Silva {?} & Peres SPECIES
-=======
+# Skoteinospora amapensis Bat., Silva {?} & Peres SPECIES
 
 #### Status
 ACCEPTED

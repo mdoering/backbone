@@ -1,5 +1,4 @@
-Cercospora albida Matta & Belliard SPECIES
-=======
+# Cercospora albida Matta & Belliard SPECIES
 
 #### Status
 ACCEPTED

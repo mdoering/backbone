@@ -1,5 +1,4 @@
-Hysterangium eucalyptorum Lloyd SPECIES
-=======
+# Hysterangium eucalyptorum Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dematium hippocastani Pers. SPECIES
-=======
+# Dematium hippocastani Pers. SPECIES
 
 #### Status
 ACCEPTED

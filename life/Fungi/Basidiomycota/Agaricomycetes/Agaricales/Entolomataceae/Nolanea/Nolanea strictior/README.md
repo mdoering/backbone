@@ -1,5 +1,4 @@
-Nolanea strictior (Peck) Pomerl. SPECIES
-=======
+# Nolanea strictior (Peck) Pomerl. SPECIES
 
 #### Status
 ACCEPTED

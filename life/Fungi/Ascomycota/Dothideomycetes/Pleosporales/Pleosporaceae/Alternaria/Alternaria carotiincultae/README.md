@@ -1,5 +1,4 @@
-Alternaria carotiincultae E.G. Simmons SPECIES
-=======
+# Alternaria carotiincultae E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

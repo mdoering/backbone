@@ -1,5 +1,4 @@
-Lecidea subuletorum SPECIES
-=======
+# Lecidea subuletorum SPECIES
 
 #### Status
 ACCEPTED

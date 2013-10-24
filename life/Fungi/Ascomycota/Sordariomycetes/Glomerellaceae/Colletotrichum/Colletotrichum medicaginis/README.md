@@ -1,5 +1,4 @@
-Colletotrichum medicaginis Pavgi & U.P. Singh SPECIES
-=======
+# Colletotrichum medicaginis Pavgi & U.P. Singh SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paramesocena polyactis (K. Tsumura) T.V. Desikachary & P. Prema SPECIES
-=======
+# Paramesocena polyactis (K. Tsumura) T.V. Desikachary & P. Prema SPECIES
 
 #### Status
 ACCEPTED

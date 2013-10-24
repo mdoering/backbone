@@ -1,5 +1,4 @@
-Colonomyces R.K. Benj. GENUS
-=======
+# Colonomyces R.K. Benj. GENUS
 
 #### Status
 ACCEPTED

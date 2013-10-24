@@ -1,5 +1,4 @@
-Puccinia saussureae-alpinae Lindr. SPECIES
-=======
+# Puccinia saussureae-alpinae Lindr. SPECIES
 
 #### Status
 ACCEPTED

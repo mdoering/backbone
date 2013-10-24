@@ -1,5 +1,4 @@
-Pseudocercospora hardwarensis (Naras.) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora hardwarensis (Naras.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

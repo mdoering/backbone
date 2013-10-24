@@ -1,5 +1,4 @@
-Agaricus fumosopurpureus Lasch SPECIES
-=======
+# Agaricus fumosopurpureus Lasch SPECIES
 
 #### Status
 ACCEPTED

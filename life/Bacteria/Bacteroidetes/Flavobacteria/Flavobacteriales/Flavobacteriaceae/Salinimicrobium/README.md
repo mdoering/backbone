@@ -1,5 +1,4 @@
-Salinimicrobium Lim et al., 2008 GENUS
-=======
+# Salinimicrobium Lim et al., 2008 GENUS
 
 #### Status
 ACCEPTED

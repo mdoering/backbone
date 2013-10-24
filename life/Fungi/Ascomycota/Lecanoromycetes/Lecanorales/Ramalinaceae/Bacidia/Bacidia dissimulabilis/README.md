@@ -1,5 +1,4 @@
-Bacidia dissimulabilis (Nyl.) Zahlbr. SPECIES
-=======
+# Bacidia dissimulabilis (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

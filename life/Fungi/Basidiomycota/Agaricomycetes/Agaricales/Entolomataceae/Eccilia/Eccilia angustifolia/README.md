@@ -1,5 +1,4 @@
-Eccilia angustifolia Murrill SPECIES
-=======
+# Eccilia angustifolia Murrill SPECIES
 
 #### Status
 ACCEPTED

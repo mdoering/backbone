@@ -1,5 +1,4 @@
-Anthostoma eumorphum Sacc. & Paol. SPECIES
-=======
+# Anthostoma eumorphum Sacc. & Paol. SPECIES
 
 #### Status
 ACCEPTED

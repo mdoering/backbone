@@ -1,5 +1,4 @@
-Phoma effusum Roberge SPECIES
-=======
+# Phoma effusum Roberge SPECIES
 
 #### Status
 ACCEPTED

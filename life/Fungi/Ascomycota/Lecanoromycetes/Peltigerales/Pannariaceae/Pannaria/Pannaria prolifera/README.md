@@ -1,5 +1,4 @@
-Pannaria prolifera Müll. Arg. SPECIES
-=======
+# Pannaria prolifera Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

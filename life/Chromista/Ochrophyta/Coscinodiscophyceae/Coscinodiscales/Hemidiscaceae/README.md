@@ -1,5 +1,4 @@
-Hemidiscaceae Hendey FAMILY
-=======
+# Hemidiscaceae Hendey FAMILY
 
 #### Status
 ACCEPTED

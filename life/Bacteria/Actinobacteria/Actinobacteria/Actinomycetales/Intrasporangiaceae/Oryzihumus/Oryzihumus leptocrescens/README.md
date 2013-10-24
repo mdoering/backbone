@@ -1,5 +1,4 @@
-Oryzihumus leptocrescens Kageyama et al., 2005 SPECIES
-=======
+# Oryzihumus leptocrescens Kageyama et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

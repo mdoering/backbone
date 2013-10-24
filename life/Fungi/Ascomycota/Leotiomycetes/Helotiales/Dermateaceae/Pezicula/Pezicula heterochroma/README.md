@@ -1,5 +1,4 @@
-Pezicula heterochroma Verkley SPECIES
-=======
+# Pezicula heterochroma Verkley SPECIES
 
 #### Status
 ACCEPTED

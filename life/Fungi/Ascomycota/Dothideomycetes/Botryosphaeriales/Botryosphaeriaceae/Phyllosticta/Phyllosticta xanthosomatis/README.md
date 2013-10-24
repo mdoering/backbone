@@ -1,5 +1,4 @@
-Phyllosticta xanthosomatis Sacc. SPECIES
-=======
+# Phyllosticta xanthosomatis Sacc. SPECIES
 
 #### Status
 ACCEPTED

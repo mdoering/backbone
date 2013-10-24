@@ -1,5 +1,4 @@
-Rhabdospora gymnadeniae Gutner SPECIES
-=======
+# Rhabdospora gymnadeniae Gutner SPECIES
 
 #### Status
 ACCEPTED

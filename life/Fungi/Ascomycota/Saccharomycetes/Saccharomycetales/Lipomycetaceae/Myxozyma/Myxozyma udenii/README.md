@@ -1,5 +1,4 @@
-Myxozyma udenii Spaaij, G. Weber, Oberw. & Van der Walt, 1990 SPECIES
-=======
+# Myxozyma udenii Spaaij, G. Weber, Oberw. & Van der Walt, 1990 SPECIES
 
 #### Status
 ACCEPTED

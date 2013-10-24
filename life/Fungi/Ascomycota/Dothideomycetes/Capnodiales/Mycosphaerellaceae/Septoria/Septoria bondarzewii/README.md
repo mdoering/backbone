@@ -1,5 +1,4 @@
-Septoria bondarzewii Henn. SPECIES
-=======
+# Septoria bondarzewii Henn. SPECIES
 
 #### Status
 ACCEPTED

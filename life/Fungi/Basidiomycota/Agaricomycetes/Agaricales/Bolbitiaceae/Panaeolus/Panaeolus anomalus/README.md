@@ -1,5 +1,4 @@
-Panaeolus anomalus (Murrill) Sacc. & Trotter SPECIES
-=======
+# Panaeolus anomalus (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

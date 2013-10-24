@@ -1,5 +1,4 @@
-Lycoperdon macrosporum Velen. SPECIES
-=======
+# Lycoperdon macrosporum Velen. SPECIES
 
 #### Status
 ACCEPTED

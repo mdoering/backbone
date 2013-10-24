@@ -1,5 +1,4 @@
-Curtobacterium herbarum Behrendt et al., 2002 SPECIES
-=======
+# Curtobacterium herbarum Behrendt et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

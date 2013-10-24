@@ -1,5 +1,4 @@
-Palaeospiculum Won in Won & Below, 1999 GENUS
-=======
+# Palaeospiculum Won in Won & Below, 1999 GENUS
 
 #### Status
 ACCEPTED

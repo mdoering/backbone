@@ -1,5 +1,4 @@
-Rigidoporus cinereus Núñez & Ryvarden, 1999 SPECIES
-=======
+# Rigidoporus cinereus Núñez & Ryvarden, 1999 SPECIES
 
 #### Status
 ACCEPTED

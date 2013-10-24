@@ -1,5 +1,4 @@
-Microxyphiella lanosa (Cooke) Speg. SPECIES
-=======
+# Microxyphiella lanosa (Cooke) Speg. SPECIES
 
 #### Status
 ACCEPTED

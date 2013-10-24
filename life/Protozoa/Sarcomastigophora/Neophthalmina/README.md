@@ -1,5 +1,4 @@
-Neophthalmina McCulloch, 1977 GENUS
-=======
+# Neophthalmina McCulloch, 1977 GENUS
 
 #### Status
 ACCEPTED

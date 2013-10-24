@@ -1,5 +1,4 @@
-Buliminoides latissima SPECIES
-=======
+# Buliminoides latissima SPECIES
 
 #### Status
 ACCEPTED

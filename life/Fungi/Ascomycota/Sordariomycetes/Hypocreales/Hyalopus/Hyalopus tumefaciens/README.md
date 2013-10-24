@@ -1,5 +1,4 @@
-Hyalopus tumefaciens (G. Winter) Maia SPECIES
-=======
+# Hyalopus tumefaciens (G. Winter) Maia SPECIES
 
 #### Status
 ACCEPTED

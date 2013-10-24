@@ -1,5 +1,4 @@
-Cleistosphaera leguminis Bat. & A.A. Silva SPECIES
-=======
+# Cleistosphaera leguminis Bat. & A.A. Silva SPECIES
 
 #### Status
 ACCEPTED

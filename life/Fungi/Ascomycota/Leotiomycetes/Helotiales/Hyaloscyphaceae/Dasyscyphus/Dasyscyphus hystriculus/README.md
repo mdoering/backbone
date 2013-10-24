@@ -1,14 +1,13 @@
-Dasyscypha hystriculus (Ellis & Everh.) Sacc. SPECIES
-=======
+# Dasyscyphus hystriculus (Ellis & Everh.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 8: 445 (1889)
 
 #### Original name
 Lachnella hystricula Ellis & Everh.

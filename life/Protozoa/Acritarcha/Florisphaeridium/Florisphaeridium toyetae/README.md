@@ -1,5 +1,4 @@
-Florisphaeridium toyetae (Cramer, 1964) Cramer & Díez, 1976 SPECIES
-=======
+# Florisphaeridium toyetae (Cramer, 1964) Cramer & Díez, 1976 SPECIES
 
 #### Status
 ACCEPTED

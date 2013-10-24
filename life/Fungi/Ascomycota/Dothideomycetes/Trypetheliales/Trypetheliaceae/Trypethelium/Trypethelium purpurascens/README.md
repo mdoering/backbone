@@ -1,5 +1,4 @@
-Trypethelium purpurascens (Müll. Arg.) Stizenb. SPECIES
-=======
+# Trypethelium purpurascens (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

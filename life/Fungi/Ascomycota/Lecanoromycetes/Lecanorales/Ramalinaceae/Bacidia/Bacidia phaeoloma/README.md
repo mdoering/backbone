@@ -1,5 +1,4 @@
-Bacidia phaeoloma Müll. Arg. SPECIES
-=======
+# Bacidia phaeoloma Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

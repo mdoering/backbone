@@ -1,5 +1,4 @@
-Opegrapha alba Lücking SPECIES
-=======
+# Opegrapha alba Lücking SPECIES
 
 #### Status
 ACCEPTED

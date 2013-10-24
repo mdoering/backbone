@@ -1,5 +1,4 @@
-Corynespora pauciseptata Bat. & J.L. Bezerra SPECIES
-=======
+# Corynespora pauciseptata Bat. & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

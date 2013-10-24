@@ -1,5 +1,4 @@
-Ampelomyces sporophagus (Golovin) Rudakov SPECIES
-=======
+# Ampelomyces sporophagus (Golovin) Rudakov SPECIES
 
 #### Status
 ACCEPTED

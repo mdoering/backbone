@@ -1,5 +1,4 @@
-Catillariomyces GENUS
-=======
+# Catillariomyces GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Syncollesia mucoroides (C. Agardh) C. Agardh SPECIES
-=======
+# Syncollesia mucoroides (C. Agardh) C. Agardh SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Parmelia suberadicata Abbayes SPECIES
-=======
+# Xanthoparmelia suberadicata (Abbayes) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mém. Inst. Sci. Madagascar, sér. B 10: 89 (1961)
+Phytologia 28: 489 (1974)
 
 #### Original name
 Parmelia suberadicata Abbayes

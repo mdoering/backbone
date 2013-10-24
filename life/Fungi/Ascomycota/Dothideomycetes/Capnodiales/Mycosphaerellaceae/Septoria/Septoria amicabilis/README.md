@@ -1,5 +1,4 @@
-Septoria amicabilis Boyer & Jacz. SPECIES
-=======
+# Septoria amicabilis Boyer & Jacz. SPECIES
 
 #### Status
 ACCEPTED

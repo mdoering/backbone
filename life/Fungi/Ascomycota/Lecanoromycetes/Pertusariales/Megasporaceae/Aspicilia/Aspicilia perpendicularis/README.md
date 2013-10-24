@@ -1,5 +1,4 @@
-Aspicilia perpendicularis (H. Magn.) SPECIES
-=======
+# Aspicilia perpendicularis (H. Magn.) SPECIES
 
 #### Status
 ACCEPTED

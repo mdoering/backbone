@@ -1,17 +1,16 @@
-Mucor villosus Bull. SPECIES
-=======
+# Stilbella proliferans F. Stevens, 1927 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hist. Champ. France (Paris) 110, tab. 504, fig. XV (1791)
+Illinois Biol. Monogr. (Urbana) 11(2): 59 (1927)
 
 #### Original name
-Mucor villosus Bull.
+Stilbella proliferans F. Stevens, 1927
 
 ### Remarks
 null

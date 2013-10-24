@@ -1,5 +1,4 @@
-Niastella yeongjuensis Weon et al., 2006 SPECIES
-=======
+# Niastella yeongjuensis Weon et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

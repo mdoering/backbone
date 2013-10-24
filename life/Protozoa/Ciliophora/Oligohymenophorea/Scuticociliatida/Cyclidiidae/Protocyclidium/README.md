@@ -1,5 +1,4 @@
-Protocyclidium Alekperov, 1993 GENUS
-=======
+# Protocyclidium Alekperov, 1993 GENUS
 
 #### Status
 ACCEPTED

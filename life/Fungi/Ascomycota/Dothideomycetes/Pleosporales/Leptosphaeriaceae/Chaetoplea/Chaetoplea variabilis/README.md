@@ -1,5 +1,4 @@
-Chaetoplea variabilis (Ellis & Everh.) M.E. Barr SPECIES
-=======
+# Chaetoplea variabilis (Ellis & Everh.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Rhopographus gaduae (Henn.) Sacc. & D. Sacc. SPECIES
-=======
+# Rhopographella gaduae (Henn.) Sacc. & Trotter, 1913 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 22: 440 (1913)
 
 #### Original name
 Echinodothis gaduae Henn., 1905

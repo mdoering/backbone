@@ -1,5 +1,4 @@
-Sargassum incisifolium var. nulliporum J. Agardh VARIETY
-=======
+# Sargassum incisifolium (Turner) C. Agardh SPECIES
 
 #### Status
 ACCEPTED

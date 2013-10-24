@@ -1,5 +1,4 @@
-Meliola erythroxylicola Hosag. & G. Rajkumar SPECIES
-=======
+# Meliola erythroxylicola Hosag. & G. Rajkumar SPECIES
 
 #### Status
 ACCEPTED

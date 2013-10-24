@@ -1,5 +1,4 @@
-Trichophaea salicina (Velen.) Svrcek SPECIES
-=======
+# Trichophaea salicina (Velen.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Hydnochaete quisquiliaris (Pat.) Pat., 1900 SPECIES
-=======
+# Hydnochaete olivacea (Schwein.) Banker, 1914 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Essai Tax. Hyménomyc. (Lons-le-Saunier) 99 (1900)
+Mycologia 6(5): 234 (1914)
 
 #### Original name
-Irpex quisquiliaris Pat., 1895
+null
 
 ### Remarks
 null

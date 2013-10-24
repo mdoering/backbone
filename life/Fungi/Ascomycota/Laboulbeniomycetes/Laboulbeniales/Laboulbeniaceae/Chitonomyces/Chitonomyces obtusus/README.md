@@ -1,5 +1,4 @@
-Chitonomyces obtusus Thaxt. SPECIES
-=======
+# Chitonomyces obtusus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

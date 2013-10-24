@@ -1,17 +1,16 @@
-Peziza lejocarpa Curr. SPECIES
-=======
+# Plicaria leiocarpa (Curr.) Boud., 1885 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Soc. mycol. Fr. 1: 102 (1885)
 
 #### Original name
-Peziza lejocarpa Curr.
+Peziza leiocarpa Curr., 1864
 
 ### Remarks
 null

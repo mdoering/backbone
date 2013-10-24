@@ -1,5 +1,4 @@
-Verrucaria sordida Fink SPECIES
-=======
+# Verrucaria sordida Fink SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dictyocha curta H. Y. Ling SPECIES
-=======
+# Dictyocha curta H. Y. Ling SPECIES
 
 #### Status
 ACCEPTED

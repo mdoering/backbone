@@ -1,5 +1,4 @@
-Peronospora nemophilae C.G. Shaw SPECIES
-=======
+# Peronospora nemophilae C.G. Shaw SPECIES
 
 #### Status
 ACCEPTED

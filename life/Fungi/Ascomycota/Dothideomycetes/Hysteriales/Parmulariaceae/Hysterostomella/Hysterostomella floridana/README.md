@@ -1,5 +1,4 @@
-Hysterostomella floridana Tracy & Earle SPECIES
-=======
+# Hysterostomella floridana Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

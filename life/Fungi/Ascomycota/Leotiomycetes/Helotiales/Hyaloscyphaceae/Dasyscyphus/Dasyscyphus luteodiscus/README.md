@@ -1,5 +1,4 @@
-Dasyscyphus luteodiscus (Peck) Sacc. SPECIES
-=======
+# Dasyscyphus luteodiscus (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

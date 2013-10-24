@@ -1,5 +1,4 @@
-Uredo cissi-pterocladae Hirats. f. SPECIES
-=======
+# Uredo cissi-pterocladae Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

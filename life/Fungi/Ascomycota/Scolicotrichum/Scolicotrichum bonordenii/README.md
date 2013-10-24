@@ -1,5 +1,4 @@
-Scolicotrichum bonordenii Sacc. SPECIES
-=======
+# Scolicotrichum bonordenii Sacc. SPECIES
 
 #### Status
 ACCEPTED

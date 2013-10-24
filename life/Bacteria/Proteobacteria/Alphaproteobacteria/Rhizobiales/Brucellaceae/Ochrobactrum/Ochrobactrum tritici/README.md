@@ -1,5 +1,4 @@
-Ochrobactrum tritici Lebuhn et al., 2000 SPECIES
-=======
+# Ochrobactrum tritici Lebuhn et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

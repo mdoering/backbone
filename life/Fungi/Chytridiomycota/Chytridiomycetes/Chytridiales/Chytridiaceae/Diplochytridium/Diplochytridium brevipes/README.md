@@ -1,5 +1,4 @@
-Diplochytridium brevipes (A. Braun) Karling SPECIES
-=======
+# Diplochytridium brevipes (A. Braun) Karling SPECIES
 
 #### Status
 ACCEPTED

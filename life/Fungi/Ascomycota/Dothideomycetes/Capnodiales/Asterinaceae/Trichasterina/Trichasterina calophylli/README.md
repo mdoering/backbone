@@ -1,5 +1,4 @@
-Trichasterina calophylli Hansf. SPECIES
-=======
+# Trichasterina calophylli Hansf. SPECIES
 
 #### Status
 ACCEPTED

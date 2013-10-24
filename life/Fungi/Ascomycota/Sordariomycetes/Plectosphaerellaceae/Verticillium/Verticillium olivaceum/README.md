@@ -1,5 +1,4 @@
-Verticillium olivaceum W. Gams SPECIES
-=======
+# Verticillium olivaceum W. Gams SPECIES
 
 #### Status
 ACCEPTED

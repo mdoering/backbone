@@ -1,5 +1,4 @@
-Verpa speciosa Vittad., 1835 SPECIES
-=======
+# Verpa speciosa Vittad., 1835 SPECIES
 
 #### Status
 ACCEPTED

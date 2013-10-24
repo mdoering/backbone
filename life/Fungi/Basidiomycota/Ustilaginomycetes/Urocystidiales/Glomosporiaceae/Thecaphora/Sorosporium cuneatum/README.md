@@ -1,5 +1,4 @@
-Sorosporium cuneatum Schofield SPECIES
-=======
+# Sorosporium cuneatum Schofield SPECIES
 
 #### Status
 ACCEPTED

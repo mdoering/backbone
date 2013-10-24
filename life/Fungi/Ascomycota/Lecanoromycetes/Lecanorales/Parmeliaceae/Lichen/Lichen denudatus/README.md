@@ -1,5 +1,4 @@
-Lichen denudatus Schrad. SPECIES
-=======
+# Lichen denudatus Schrad. SPECIES
 
 #### Status
 ACCEPTED

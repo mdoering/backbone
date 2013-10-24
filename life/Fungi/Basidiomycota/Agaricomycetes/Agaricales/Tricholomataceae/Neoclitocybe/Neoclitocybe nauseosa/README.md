@@ -1,5 +1,4 @@
-Neoclitocybe nauseosa (Rick) Singer SPECIES
-=======
+# Neoclitocybe nauseosa (Rick) Singer SPECIES
 
 #### Status
 ACCEPTED

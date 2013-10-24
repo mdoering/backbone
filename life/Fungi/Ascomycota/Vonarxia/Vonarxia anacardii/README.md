@@ -1,5 +1,4 @@
-Vonarxia anacardii Bat. & J.L. Bezerra, 1960 SPECIES
-=======
+# Vonarxia anacardii Bat. & J.L. Bezerra, 1960 SPECIES
 
 #### Status
 ACCEPTED

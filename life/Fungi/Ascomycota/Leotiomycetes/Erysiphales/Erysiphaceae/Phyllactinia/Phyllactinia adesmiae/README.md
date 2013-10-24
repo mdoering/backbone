@@ -1,5 +1,4 @@
-Phyllactinia adesmiae Havryl. SPECIES
-=======
+# Phyllactinia adesmiae Havryl. SPECIES
 
 #### Status
 ACCEPTED

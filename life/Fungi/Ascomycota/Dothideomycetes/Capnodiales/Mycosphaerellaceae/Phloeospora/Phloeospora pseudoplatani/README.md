@@ -1,5 +1,4 @@
-Phloeospora pseudoplatani Bubák, 1903 SPECIES
-=======
+# Phloeospora pseudoplatani Bubák, 1903 SPECIES
 
 #### Status
 ACCEPTED

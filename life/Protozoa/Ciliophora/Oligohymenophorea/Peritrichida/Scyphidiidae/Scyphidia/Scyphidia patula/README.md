@@ -1,5 +1,4 @@
-Scyphidia patula SPECIES
-=======
+# Scyphidia patula SPECIES
 
 #### Status
 ACCEPTED

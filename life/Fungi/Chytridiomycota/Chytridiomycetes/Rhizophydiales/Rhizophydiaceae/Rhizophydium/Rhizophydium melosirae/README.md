@@ -1,5 +1,4 @@
-Rhizophydium melosirae Friedmann SPECIES
-=======
+# Rhizophydium melosirae Friedmann SPECIES
 
 #### Status
 ACCEPTED

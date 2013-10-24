@@ -1,5 +1,4 @@
-Melanoleuca kavinae (Pilát & Veselý) Singer SPECIES
-=======
+# Melanoleuca kavinae (Pilát & Veselý) Singer SPECIES
 
 #### Status
 ACCEPTED

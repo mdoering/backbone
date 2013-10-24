@@ -1,14 +1,13 @@
-Cercospora ranjita S. Chowdhury, 1958 SPECIES
-=======
+# Pseudocercospora ranjita (S. Chowdhury) Deighton, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lloydia 21: 155 (1958)
+Mycol. Pap. 140: 151 (1976)
 
 #### Original name
 Cercospora ranjita S. Chowdhury, 1958

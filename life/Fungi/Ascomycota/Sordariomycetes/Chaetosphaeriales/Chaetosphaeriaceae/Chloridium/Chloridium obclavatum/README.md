@@ -1,5 +1,4 @@
-Chloridium obclavatum Matsush. SPECIES
-=======
+# Chloridium obclavatum Matsush. SPECIES
 
 #### Status
 ACCEPTED

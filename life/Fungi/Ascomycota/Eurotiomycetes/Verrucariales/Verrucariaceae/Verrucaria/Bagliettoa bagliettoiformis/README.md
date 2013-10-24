@@ -1,8 +1,7 @@
-Bagliettoa bagliettoaeformis (Hazsl.) Gams SPECIES
-=======
+# Bagliettoa bagliettoiformis (Hazsl.) Gams SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

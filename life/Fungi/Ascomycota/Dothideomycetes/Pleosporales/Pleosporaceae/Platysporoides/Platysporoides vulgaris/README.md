@@ -1,14 +1,13 @@
-Pleospora ipomoeae var. vulgaris Wehm., 1961 VARIETY
-=======
+# Platysporoides vulgaris (Wehm.) Shoemaker & C.E. Babc., 1992 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-World Monograph of the Genus Pleospora and its Segregates 240 (1961)
+Can. J. Bot. 70(8): 1655 (1992)
 
 #### Original name
 Pleospora ipomoeae var. vulgaris Wehm., 1961

@@ -1,5 +1,4 @@
-Hypodermium mixtum Link SPECIES
-=======
+# Hypodermium mixtum Link SPECIES
 
 #### Status
 ACCEPTED

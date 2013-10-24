@@ -1,5 +1,4 @@
-Acidicaldus Johnson et al., 2006 GENUS
-=======
+# Acidicaldus Johnson et al., 2006 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tilletia irregularis Pazschke SPECIES
-=======
+# Tilletia irregularis Pazschke SPECIES
 
 #### Status
 ACCEPTED

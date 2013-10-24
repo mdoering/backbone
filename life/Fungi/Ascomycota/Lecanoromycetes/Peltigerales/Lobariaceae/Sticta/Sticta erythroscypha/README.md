@@ -1,5 +1,4 @@
-Sticta erythroscypha Taylor SPECIES
-=======
+# Sticta erythroscypha Taylor SPECIES
 
 #### Status
 ACCEPTED

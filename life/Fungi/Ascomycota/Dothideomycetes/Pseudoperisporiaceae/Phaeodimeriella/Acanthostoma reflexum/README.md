@@ -1,5 +1,4 @@
-Acanthostoma reflexum Syd. SPECIES
-=======
+# Acanthostoma reflexum Syd. SPECIES
 
 #### Status
 ACCEPTED

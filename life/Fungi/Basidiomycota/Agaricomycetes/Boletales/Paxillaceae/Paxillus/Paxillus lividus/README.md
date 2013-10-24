@@ -1,5 +1,4 @@
-Paxillus lividus Cooke SPECIES
-=======
+# Paxillus lividus Cooke SPECIES
 
 #### Status
 ACCEPTED

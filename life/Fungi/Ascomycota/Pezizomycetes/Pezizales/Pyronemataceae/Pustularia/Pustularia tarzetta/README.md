@@ -1,17 +1,16 @@
-Pustularia tazzetta (Cooke) Rehm SPECIES
-=======
+# Pustularia tarzetta (Cooke) Rehm SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ascomyceten 3: no. 53 (1872)
 
 #### Original name
-Peziza tazzetta Cooke
+Peziza tarzetta Cooke
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Komewuia glabra Cookson & Eisenack SPECIES
-=======
+# Komewuia glabra Cookson & Eisenack SPECIES
 
 #### Status
 ACCEPTED

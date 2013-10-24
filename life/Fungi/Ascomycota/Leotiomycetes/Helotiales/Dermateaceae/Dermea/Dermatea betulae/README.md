@@ -1,5 +1,4 @@
-Dermatea betulae Rehm SPECIES
-=======
+# Dermatea betulae Rehm SPECIES
 
 #### Status
 ACCEPTED

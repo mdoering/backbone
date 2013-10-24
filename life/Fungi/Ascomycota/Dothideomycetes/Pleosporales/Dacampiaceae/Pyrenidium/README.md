@@ -1,5 +1,4 @@
-Pyrenidium Nyl. GENUS
-=======
+# Pyrenidium Nyl. GENUS
 
 #### Status
 ACCEPTED

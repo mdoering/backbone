@@ -1,5 +1,4 @@
-Copromyxidae FAMILY
-=======
+# Copromyxidae FAMILY
 
 #### Status
 ACCEPTED

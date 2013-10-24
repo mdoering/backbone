@@ -1,14 +1,13 @@
-Microsphaera cotini Eliade, 1986 SPECIES
-=======
+# Erysiphe cotini (Eliade) U. Braun & S. Takam., 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lucrarile Gradinii Botanice din Bucuresti, Acta Botanica Horti Bucurestiensis volum festiv 133 (1986)
+Schlechtendalia 4: 7 (2000)
 
 #### Original name
 Microsphaera cotini Eliade, 1986

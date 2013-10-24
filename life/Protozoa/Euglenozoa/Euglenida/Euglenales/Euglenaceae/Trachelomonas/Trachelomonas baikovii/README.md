@@ -1,5 +1,4 @@
-Trachelomonas baikovii Skvortzov SPECIES
-=======
+# Trachelomonas baikovii Skvortzov SPECIES
 
 #### Status
 ACCEPTED

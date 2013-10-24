@@ -1,5 +1,4 @@
-Verrucaria plumbaria Stizenb. SPECIES
-=======
+# Verrucaria plumbaria Stizenb. SPECIES
 
 #### Status
 ACCEPTED

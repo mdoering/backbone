@@ -1,17 +1,16 @@
-Agaricus insidiosa Letell. SPECIES
-=======
+# Agaricus insidiosus Letell. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls Sci. Nat. , Bot. , sér. 2 35 (1835)
 
 #### Original name
-Agaricus insidiosa Letell.
+Agaricus insidiosus Letell.
 
 ### Remarks
 null

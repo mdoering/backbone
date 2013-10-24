@@ -1,5 +1,4 @@
-Perenniporia nanjenshana T.T. Chang & W.N. Chou SPECIES
-=======
+# Perenniporia nanjenshana T.T. Chang & W.N. Chou SPECIES
 
 #### Status
 ACCEPTED

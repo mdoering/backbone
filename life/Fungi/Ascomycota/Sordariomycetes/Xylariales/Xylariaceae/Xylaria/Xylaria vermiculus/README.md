@@ -1,5 +1,4 @@
-Xylaria vermiculus Sacc. SPECIES
-=======
+# Xylaria vermiculus Sacc. SPECIES
 
 #### Status
 ACCEPTED

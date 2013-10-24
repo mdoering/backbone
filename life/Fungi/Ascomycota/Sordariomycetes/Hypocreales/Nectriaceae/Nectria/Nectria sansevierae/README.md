@@ -1,5 +1,4 @@
-Nectria sansevierae (Bat., J.L. Bezerra & C.R. Almeida) Samuels SPECIES
-=======
+# Nectria sansevierae (Bat., J.L. Bezerra & C.R. Almeida) Samuels SPECIES
 
 #### Status
 ACCEPTED

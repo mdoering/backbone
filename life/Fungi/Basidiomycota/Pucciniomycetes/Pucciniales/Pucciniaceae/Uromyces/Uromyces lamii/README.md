@@ -1,5 +1,4 @@
-Uromyces lamii Kom. SPECIES
-=======
+# Uromyces lamii Kom. SPECIES
 
 #### Status
 ACCEPTED

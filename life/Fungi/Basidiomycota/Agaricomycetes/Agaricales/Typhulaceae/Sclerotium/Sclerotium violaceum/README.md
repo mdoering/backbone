@@ -1,5 +1,4 @@
-Sclerotium violaceum Corda SPECIES
-=======
+# Sclerotium violaceum Corda SPECIES
 
 #### Status
 ACCEPTED

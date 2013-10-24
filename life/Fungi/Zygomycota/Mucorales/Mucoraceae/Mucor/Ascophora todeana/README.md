@@ -1,5 +1,4 @@
-Ascophora todeana Corda SPECIES
-=======
+# Ascophora todeana Corda SPECIES
 
 #### Status
 ACCEPTED

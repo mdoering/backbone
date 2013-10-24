@@ -1,5 +1,4 @@
-Podosphaera paeoniae (Z.Y. Zhao) U. Braun & S. Takam. SPECIES
-=======
+# Podosphaera paeoniae (Z.Y. Zhao) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

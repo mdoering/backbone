@@ -1,5 +1,4 @@
-Herpotrichiopsis rhenana (Sacc.) Höhn. SPECIES
-=======
+# Herpotrichiopsis rhenana (Sacc.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

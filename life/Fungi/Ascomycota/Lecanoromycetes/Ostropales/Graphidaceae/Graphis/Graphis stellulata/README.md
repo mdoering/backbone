@@ -1,5 +1,4 @@
-Graphis stellulata Fée SPECIES
-=======
+# Graphis stellulata Fée SPECIES
 
 #### Status
 ACCEPTED

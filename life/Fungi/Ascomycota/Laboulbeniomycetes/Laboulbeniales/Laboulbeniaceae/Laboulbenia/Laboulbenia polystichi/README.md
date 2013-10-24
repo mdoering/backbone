@@ -1,5 +1,4 @@
-Laboulbenia polystichi F. Picard SPECIES
-=======
+# Laboulbenia polystichi F. Picard SPECIES
 
 #### Status
 ACCEPTED

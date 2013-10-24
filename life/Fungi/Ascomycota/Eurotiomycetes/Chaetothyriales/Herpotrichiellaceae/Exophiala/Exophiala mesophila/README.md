@@ -1,5 +1,4 @@
-Exophiala mesophila Listemann & Freiesl., 1996 SPECIES
-=======
+# Exophiala mesophila Listemann & Freiesl., 1996 SPECIES
 
 #### Status
 ACCEPTED

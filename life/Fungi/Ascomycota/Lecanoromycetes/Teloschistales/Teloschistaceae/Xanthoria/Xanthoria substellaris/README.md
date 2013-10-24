@@ -1,5 +1,4 @@
-Xanthoria substellaris var. substellaris VARIETY
-=======
+# Xanthoria substellaris (Ach.) Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Xanthoria substellaris var. substellaris
+Lecanora substellaris Ach.
 
 ### Remarks
 null

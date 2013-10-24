@@ -1,5 +1,4 @@
-Omphalia pruniodora Maire SPECIES
-=======
+# Omphalia pruniodora Maire SPECIES
 
 #### Status
 ACCEPTED

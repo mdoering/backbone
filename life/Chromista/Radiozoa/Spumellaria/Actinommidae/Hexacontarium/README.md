@@ -1,5 +1,4 @@
-Hexacontarium Haeckel, 1887 GENUS
-=======
+# Hexacontarium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

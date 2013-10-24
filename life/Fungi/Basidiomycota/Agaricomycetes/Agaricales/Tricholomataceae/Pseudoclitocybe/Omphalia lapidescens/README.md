@@ -1,5 +1,4 @@
-Omphalia lapidescens (Horan.) Cohn & J. Schröt. SPECIES
-=======
+# Omphalia lapidescens (Horan.) Cohn & J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thyronectria austroamericana (Speg.) Seeler SPECIES
-=======
+# Thyronectria austroamericana (Speg.) Seeler SPECIES
 
 #### Status
 ACCEPTED

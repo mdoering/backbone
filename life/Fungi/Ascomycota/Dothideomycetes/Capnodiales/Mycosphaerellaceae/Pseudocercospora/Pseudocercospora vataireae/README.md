@@ -1,5 +1,4 @@
-Pseudocercospora vataireae (Henn.) U. Braun & F.O. Freire SPECIES
-=======
+# Pseudocercospora vataireae (Henn.) U. Braun & F.O. Freire SPECIES
 
 #### Status
 ACCEPTED

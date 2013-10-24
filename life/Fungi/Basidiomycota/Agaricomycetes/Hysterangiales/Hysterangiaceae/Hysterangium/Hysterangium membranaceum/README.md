@@ -1,5 +1,4 @@
-Hysterangium membranaceum Vittad. SPECIES
-=======
+# Hysterangium membranaceum Vittad. SPECIES
 
 #### Status
 ACCEPTED

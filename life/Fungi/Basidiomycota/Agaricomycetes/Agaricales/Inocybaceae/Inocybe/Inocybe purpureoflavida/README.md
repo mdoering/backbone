@@ -1,5 +1,4 @@
-Inocybe purpureoflavida K.B. Vrinda & C.K. Pradeep SPECIES
-=======
+# Inocybe purpureoflavida K.B. Vrinda & C.K. Pradeep SPECIES
 
 #### Status
 ACCEPTED

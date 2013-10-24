@@ -1,5 +1,4 @@
-Erysibe variolosa Wallr. SPECIES
-=======
+# Erysibe variolosa Wallr. SPECIES
 
 #### Status
 ACCEPTED

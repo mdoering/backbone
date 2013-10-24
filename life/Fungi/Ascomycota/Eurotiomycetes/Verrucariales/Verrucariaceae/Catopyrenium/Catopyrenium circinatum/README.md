@@ -1,5 +1,4 @@
-Catopyrenium circinatum (Bagl.) Jatta SPECIES
-=======
+# Catopyrenium circinatum (Bagl.) Jatta SPECIES
 
 #### Status
 ACCEPTED

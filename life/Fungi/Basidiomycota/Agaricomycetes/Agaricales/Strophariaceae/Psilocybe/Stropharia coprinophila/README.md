@@ -1,5 +1,4 @@
-Stropharia coprinophila G.F. Atk. SPECIES
-=======
+# Stropharia coprinophila G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

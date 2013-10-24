@@ -1,5 +1,4 @@
-Polystictus depauperatus (Pat.) Sacc. SPECIES
-=======
+# Polystictus depauperatus (Pat.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

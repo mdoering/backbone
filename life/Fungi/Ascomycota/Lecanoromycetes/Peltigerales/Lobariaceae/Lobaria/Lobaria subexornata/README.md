@@ -1,5 +1,4 @@
-Lobaria subexornata Yoshim. SPECIES
-=======
+# Lobaria subexornata Yoshim. SPECIES
 
 #### Status
 ACCEPTED

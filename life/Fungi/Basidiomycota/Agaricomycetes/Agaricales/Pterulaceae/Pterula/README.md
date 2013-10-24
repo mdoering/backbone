@@ -1,14 +1,13 @@
-Phaeopterula (Henn.) Sacc. & D. Sacc. GENUS
-=======
+# Pterula E.M. Fries, 1832 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Syll. fung. (Abellini) 17: 201 (1905)
+null
 
 #### Original name
 null

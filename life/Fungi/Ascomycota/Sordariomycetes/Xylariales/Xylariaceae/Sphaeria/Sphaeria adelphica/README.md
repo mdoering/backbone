@@ -1,5 +1,4 @@
-Sphaeria adelphica Cooke SPECIES
-=======
+# Sphaeria adelphica Cooke SPECIES
 
 #### Status
 ACCEPTED

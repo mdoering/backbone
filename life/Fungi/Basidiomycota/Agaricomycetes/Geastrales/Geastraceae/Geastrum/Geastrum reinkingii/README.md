@@ -1,17 +1,16 @@
-Geaster reinkingii Lloyd SPECIES
-=======
+# Geastrum reinkingii Lloyd SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycol. Writ. 7(72): 1280 (1924)
 
 #### Original name
-Geaster reinkingii Lloyd
+Geastrum reinkingii Lloyd
 
 ### Remarks
 null

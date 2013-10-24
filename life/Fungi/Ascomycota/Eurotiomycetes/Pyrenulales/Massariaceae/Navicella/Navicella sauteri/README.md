@@ -1,5 +1,4 @@
-Navicella sauteri (Nitschke) Kuntze SPECIES
-=======
+# Navicella sauteri (Nitschke) Kuntze SPECIES
 
 #### Status
 ACCEPTED

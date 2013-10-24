@@ -1,5 +1,4 @@
-Helotium alaskae Sacc. SPECIES
-=======
+# Helotium alaskae Sacc. SPECIES
 
 #### Status
 ACCEPTED

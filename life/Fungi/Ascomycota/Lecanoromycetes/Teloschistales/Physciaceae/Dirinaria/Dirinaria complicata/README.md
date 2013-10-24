@@ -1,5 +1,4 @@
-Dirinaria complicata D.D. Awasthi SPECIES
-=======
+# Dirinaria complicata D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

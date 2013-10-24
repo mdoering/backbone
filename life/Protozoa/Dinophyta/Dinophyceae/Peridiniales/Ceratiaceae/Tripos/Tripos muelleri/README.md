@@ -1,5 +1,4 @@
-Tripos muelleri Bory de St.-Vincent SPECIES
-=======
+# Tripos muelleri Bory de St.-Vincent SPECIES
 
 #### Status
 ACCEPTED

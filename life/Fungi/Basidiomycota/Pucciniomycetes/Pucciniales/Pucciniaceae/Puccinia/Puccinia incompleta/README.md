@@ -1,5 +1,4 @@
-Puccinia incompleta Syd. & P. Syd. SPECIES
-=======
+# Puccinia incompleta Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

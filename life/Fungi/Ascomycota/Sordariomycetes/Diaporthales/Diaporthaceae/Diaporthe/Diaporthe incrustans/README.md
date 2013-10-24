@@ -1,5 +1,4 @@
-Diaporthe incrustans Nitschke, 1870 SPECIES
-=======
+# Diaporthe incrustans Nitschke, 1870 SPECIES
 
 #### Status
 ACCEPTED

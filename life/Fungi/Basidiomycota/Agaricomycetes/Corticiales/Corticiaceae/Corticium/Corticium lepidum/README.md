@@ -1,5 +1,4 @@
-Corticium lepidum SPECIES
-=======
+# Corticium lepidum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cenangium rosulatum Höhn. SPECIES
-=======
+# Cenangium rosulatum Höhn. SPECIES
 
 #### Status
 ACCEPTED

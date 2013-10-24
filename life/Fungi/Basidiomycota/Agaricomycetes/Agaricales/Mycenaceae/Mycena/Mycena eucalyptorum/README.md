@@ -1,5 +1,4 @@
-Mycena eucalyptorum Cleland SPECIES
-=======
+# Mycena eucalyptorum Cleland SPECIES
 
 #### Status
 ACCEPTED

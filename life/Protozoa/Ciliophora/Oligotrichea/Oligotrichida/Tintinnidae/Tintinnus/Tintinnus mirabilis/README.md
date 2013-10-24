@@ -1,5 +1,4 @@
-Tintinnus mirabilis Kofoid & Campbell, 1929 SPECIES
-=======
+# Tintinnus mirabilis Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

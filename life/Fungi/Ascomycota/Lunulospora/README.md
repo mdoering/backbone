@@ -1,5 +1,4 @@
-Lunulospora Ingold GENUS
-=======
+# Lunulospora Ingold GENUS
 
 #### Status
 ACCEPTED

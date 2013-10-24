@@ -1,5 +1,4 @@
-Exidia pedunculata Berk. & M.A. Curtis SPECIES
-=======
+# Exidia pedunculata Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

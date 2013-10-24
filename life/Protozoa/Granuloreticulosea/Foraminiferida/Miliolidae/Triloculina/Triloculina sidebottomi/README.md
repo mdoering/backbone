@@ -1,5 +1,4 @@
-Triloculina sidebottomi Rasheed, 1971 SPECIES
-=======
+# Triloculina sidebottomi Rasheed, 1971 SPECIES
 
 #### Status
 ACCEPTED

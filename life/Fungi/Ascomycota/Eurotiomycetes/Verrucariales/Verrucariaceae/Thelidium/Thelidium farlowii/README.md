@@ -1,5 +1,4 @@
-Thelidium farlowii Riddle SPECIES
-=======
+# Thelidium farlowii Riddle SPECIES
 
 #### Status
 ACCEPTED

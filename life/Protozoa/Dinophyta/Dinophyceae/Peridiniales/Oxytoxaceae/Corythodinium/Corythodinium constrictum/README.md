@@ -1,5 +1,4 @@
-Corythodinium constrictum (Stein) F.J.R. Taylor SPECIES
-=======
+# Corythodinium constrictum (Stein) F.J.R. Taylor SPECIES
 
 #### Status
 ACCEPTED

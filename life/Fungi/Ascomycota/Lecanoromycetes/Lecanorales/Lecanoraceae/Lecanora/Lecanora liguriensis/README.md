@@ -1,5 +1,4 @@
-Lecanora liguriensis B. de Lesd. SPECIES
-=======
+# Lecanora liguriensis B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

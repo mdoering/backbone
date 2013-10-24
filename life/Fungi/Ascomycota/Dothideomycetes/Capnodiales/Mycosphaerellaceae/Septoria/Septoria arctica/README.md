@@ -1,5 +1,4 @@
-Septoria arctica Berk. & M.A. Curtis SPECIES
-=======
+# Septoria arctica Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

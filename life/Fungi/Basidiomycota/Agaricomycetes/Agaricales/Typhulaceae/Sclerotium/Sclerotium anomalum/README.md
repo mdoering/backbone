@@ -1,5 +1,4 @@
-Sclerotium anomalum Duby SPECIES
-=======
+# Sclerotium anomalum Duby SPECIES
 
 #### Status
 ACCEPTED

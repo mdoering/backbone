@@ -1,5 +1,4 @@
-Ampullifera hippocrateacearum (Bat. & Cavalc.) D. Hawksw. SPECIES
-=======
+# Ampullifera hippocrateacearum (Bat. & Cavalc.) D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

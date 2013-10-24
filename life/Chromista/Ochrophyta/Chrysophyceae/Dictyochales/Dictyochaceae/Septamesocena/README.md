@@ -1,5 +1,4 @@
-Septamesocena A.Bachmann, 1970 GENUS
-=======
+# Septamesocena A.Bachmann, 1970 GENUS
 
 #### Status
 ACCEPTED

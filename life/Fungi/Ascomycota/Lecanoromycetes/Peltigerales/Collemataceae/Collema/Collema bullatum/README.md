@@ -1,5 +1,4 @@
-Collema bullatum (Sw.) Ach. SPECIES
-=======
+# Collema bullatum (Sw.) Ach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus subgiganteus Berk. & M.A. Curtis SPECIES
-=======
+# Polyporus subgiganteus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microxyphium doratopsis (Speg.) Speg. SPECIES
-=======
+# Microxyphium doratopsis (Speg.) Speg. SPECIES
 
 #### Status
 ACCEPTED

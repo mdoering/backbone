@@ -1,5 +1,4 @@
-Canoparmelia roseoreagens Marcelli, Canêz & Elix SPECIES
-=======
+# Canoparmelia roseoreagens Marcelli, Canêz & Elix SPECIES
 
 #### Status
 ACCEPTED

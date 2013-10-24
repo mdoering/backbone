@@ -1,5 +1,4 @@
-Lecanora subatra Räsänen SPECIES
-=======
+# Lecanora subatra Räsänen SPECIES
 
 #### Status
 ACCEPTED

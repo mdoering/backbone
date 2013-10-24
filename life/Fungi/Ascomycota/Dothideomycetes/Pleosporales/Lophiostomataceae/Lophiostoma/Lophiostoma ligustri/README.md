@@ -1,5 +1,4 @@
-Lophiostoma ligustri Nitschke SPECIES
-=======
+# Lophiostoma ligustri Nitschke SPECIES
 
 #### Status
 ACCEPTED

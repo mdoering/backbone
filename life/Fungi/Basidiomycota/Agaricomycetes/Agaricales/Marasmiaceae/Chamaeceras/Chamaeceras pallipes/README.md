@@ -1,5 +1,4 @@
-Chamaeceras pallipes (Speg.) Kuntze SPECIES
-=======
+# Chamaeceras pallipes (Speg.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

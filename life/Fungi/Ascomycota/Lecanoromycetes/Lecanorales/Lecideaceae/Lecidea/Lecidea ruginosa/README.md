@@ -1,5 +1,4 @@
-Lecidea ruginosa Tuck. SPECIES
-=======
+# Lecidea ruginosa Tuck. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gastroboletus imbellus Trappe SPECIES
-=======
+# Gastroboletus imbellus Trappe SPECIES
 
 #### Status
 ACCEPTED

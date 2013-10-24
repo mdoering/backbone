@@ -1,5 +1,4 @@
-Pseudocercospora rubro-purpurea (Sun) Yen SPECIES
-=======
+# Pseudocercospora rubro-purpurea (Sun) Yen SPECIES
 
 #### Status
 ACCEPTED

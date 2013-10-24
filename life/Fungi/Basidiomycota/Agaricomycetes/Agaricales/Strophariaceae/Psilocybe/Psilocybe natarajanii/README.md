@@ -1,5 +1,4 @@
-Psilocybe natarajanii Guzmán SPECIES
-=======
+# Psilocybe natarajanii Guzmán SPECIES
 
 #### Status
 ACCEPTED

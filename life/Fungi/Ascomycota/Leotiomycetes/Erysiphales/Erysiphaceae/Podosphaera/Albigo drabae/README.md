@@ -1,5 +1,4 @@
-Albigo drabae (Juel) Kuntze SPECIES
-=======
+# Albigo drabae (Juel) Kuntze SPECIES
 
 #### Status
 ACCEPTED

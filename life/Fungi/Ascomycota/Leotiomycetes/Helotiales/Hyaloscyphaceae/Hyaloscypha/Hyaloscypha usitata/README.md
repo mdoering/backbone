@@ -1,5 +1,4 @@
-Hyaloscypha usitata Huhtinen SPECIES
-=======
+# Hyaloscypha usitata Huhtinen SPECIES
 
 #### Status
 ACCEPTED

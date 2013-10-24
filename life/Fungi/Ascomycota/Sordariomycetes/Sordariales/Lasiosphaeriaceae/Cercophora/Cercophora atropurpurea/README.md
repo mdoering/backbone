@@ -1,5 +1,4 @@
-Cercophora atropurpurea A.N. Mill. & Huhndorf SPECIES
-=======
+# Cercophora atropurpurea A.N. Mill. & Huhndorf SPECIES
 
 #### Status
 ACCEPTED

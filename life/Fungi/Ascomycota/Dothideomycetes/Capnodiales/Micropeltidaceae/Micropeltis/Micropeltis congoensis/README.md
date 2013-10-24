@@ -1,5 +1,4 @@
-Micropeltis congoensis Beeli SPECIES
-=======
+# Micropeltis congoensis Beeli SPECIES
 
 #### Status
 ACCEPTED

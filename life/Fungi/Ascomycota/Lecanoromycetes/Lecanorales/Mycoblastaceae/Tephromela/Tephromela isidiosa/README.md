@@ -1,5 +1,4 @@
-Tephromela isidiosa Kalb & Elix SPECIES
-=======
+# Tephromela isidiosa Kalb & Elix SPECIES
 
 #### Status
 ACCEPTED

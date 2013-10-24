@@ -1,5 +1,4 @@
-Ramularia origani N.P. Golovina SPECIES
-=======
+# Ramularia origani N.P. Golovina SPECIES
 
 #### Status
 ACCEPTED

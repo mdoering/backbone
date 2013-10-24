@@ -1,8 +1,7 @@
-Verrucaria rhaphidiophora Nyl., 1868 SPECIES
-=======
+# Porina rhaphidiophora (Nyl.) Müll. Arg., 1892 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

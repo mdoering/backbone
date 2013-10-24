@@ -1,17 +1,16 @@
-Exosporium arecae (Berk. & Broome) Petch, 1927 SPECIES
-=======
+# Zeuctomorpha arecae Sivan., P.M. Kirk & Govindu, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. R. bot. Gdns Peradeniya 10: 174 (1927)
+in Sivanesan, Bitunicate Ascomycetes and their Anamorphs (Vaduz) 572 (1984)
 
 #### Original name
-Helminthosporium arecae Berk. & Broome, 1875
+Zeuctomorpha arecae Sivan., P.M. Kirk & Govindu, 1984
 
 ### Remarks
 null

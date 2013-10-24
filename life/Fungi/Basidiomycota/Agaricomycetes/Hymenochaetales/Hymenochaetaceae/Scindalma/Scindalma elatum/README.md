@@ -1,5 +1,4 @@
-Scindalma elatum (Lév.) Kuntze SPECIES
-=======
+# Scindalma elatum (Lév.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

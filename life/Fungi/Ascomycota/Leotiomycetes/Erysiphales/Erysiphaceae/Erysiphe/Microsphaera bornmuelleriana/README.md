@@ -1,5 +1,4 @@
-Microsphaera bornmuelleriana Magnus SPECIES
-=======
+# Microsphaera bornmuelleriana Magnus SPECIES
 
 #### Status
 ACCEPTED

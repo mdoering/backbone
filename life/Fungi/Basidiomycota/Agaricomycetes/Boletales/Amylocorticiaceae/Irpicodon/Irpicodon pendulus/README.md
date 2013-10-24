@@ -1,14 +1,13 @@
-Xylodon pendulus (Alb. & Schwein.) Kuntze, 1898 SPECIES
-=======
+# Irpicodon pendulus (Alb. & Schwein.) Pouzar, 1966 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3(2): 541 (1898)
+Folia geobot. phytotax. 1: 371 (1966)
 
 #### Original name
 null

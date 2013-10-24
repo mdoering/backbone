@@ -1,5 +1,4 @@
-Achroomyces brunneus (G.W. Martin) Wojewoda SPECIES
-=======
+# Achroomyces brunneus (G.W. Martin) Wojewoda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora lyoniae (Katsuki & Ts. Kobay.) Deighton SPECIES
-=======
+# Pseudocercospora lyoniae (Katsuki & Ts. Kobay.) Deighton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma cussoniae Tassi SPECIES
-=======
+# Phoma cussoniae Tassi SPECIES
 
 #### Status
 ACCEPTED

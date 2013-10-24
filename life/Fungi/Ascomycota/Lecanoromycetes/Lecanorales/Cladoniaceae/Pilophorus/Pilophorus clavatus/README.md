@@ -1,5 +1,4 @@
-Pilophorus clavatus Th. Fr. SPECIES
-=======
+# Pilophorus clavatus Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phlegmacium melliolens (Jul. Schäff.) M.M. Moser SPECIES
-=======
+# Phlegmacium melliolens (Jul. Schäff.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

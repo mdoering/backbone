@@ -1,5 +1,4 @@
-Psilocybe vernalis Velen. SPECIES
-=======
+# Psilocybe vernalis Velen. SPECIES
 
 #### Status
 ACCEPTED

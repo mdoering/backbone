@@ -1,5 +1,4 @@
-Tintinnopsis fistularis Meunier, 1919 SPECIES
-=======
+# Tintinnopsis fistularis Meunier, 1919 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius saxamontanus Fogel SPECIES
-=======
+# Cortinarius saxamontanus Fogel SPECIES
 
 #### Status
 ACCEPTED

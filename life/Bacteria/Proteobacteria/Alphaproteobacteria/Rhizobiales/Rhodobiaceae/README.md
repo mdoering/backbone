@@ -1,5 +1,4 @@
-Rhodobiaceae FAMILY
-=======
+# Rhodobiaceae FAMILY
 
 #### Status
 ACCEPTED

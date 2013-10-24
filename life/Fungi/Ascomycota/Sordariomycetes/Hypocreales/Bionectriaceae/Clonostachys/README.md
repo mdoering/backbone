@@ -1,17 +1,16 @@
-Clonostachyopsis Höhn. GENUS
-=======
+# Clonostachys Corda, 1839 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 116: 149 (1907)
+Pracht-Fl. Eur. Schimmelbild. 31 (1839)
 
 #### Original name
-Clonostachyopsis Höhn.
+Clonostachys Corda, 1839
 
 ### Remarks
 null

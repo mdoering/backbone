@@ -1,5 +1,4 @@
-Florisphaeridium castellum Lister, 1970 SPECIES
-=======
+# Florisphaeridium castellum Lister, 1970 SPECIES
 
 #### Status
 ACCEPTED

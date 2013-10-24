@@ -1,5 +1,4 @@
-Micrhystridium ampliatum R. Wicander & G. Playford SPECIES
-=======
+# Micrhystridium ampliatum R. Wicander & G. Playford SPECIES
 
 #### Status
 ACCEPTED

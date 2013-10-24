@@ -1,5 +1,4 @@
-Phaeomarasmius lanatulus E. Horak SPECIES
-=======
+# Phaeomarasmius lanatulus E. Horak SPECIES
 
 #### Status
 ACCEPTED

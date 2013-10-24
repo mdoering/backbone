@@ -1,5 +1,4 @@
-Agaricus escharites Berk. & Broome SPECIES
-=======
+# Agaricus escharites Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

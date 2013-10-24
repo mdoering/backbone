@@ -1,5 +1,4 @@
-Nectria sesquiphialis Samuels SPECIES
-=======
+# Nectria sesquiphialis Samuels SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercosporella dovyalidis (Chupp & Doidge) B. Sutton SPECIES
-=======
+# Pseudocercosporella dovyalidis (Chupp & Doidge) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

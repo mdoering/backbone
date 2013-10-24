@@ -1,5 +1,4 @@
-Gauteria GENUS
-=======
+# Gauteria GENUS
 
 #### Status
 ACCEPTED

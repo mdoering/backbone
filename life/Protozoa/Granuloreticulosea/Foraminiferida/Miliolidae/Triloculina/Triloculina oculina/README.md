@@ -1,5 +1,4 @@
-Triloculina oculina d'Orbigny SPECIES
-=======
+# Triloculina oculina d'Orbigny SPECIES
 
 #### Status
 ACCEPTED

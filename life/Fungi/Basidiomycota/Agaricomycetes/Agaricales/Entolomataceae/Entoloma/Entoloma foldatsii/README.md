@@ -1,5 +1,4 @@
-Entoloma foldatsii (Dennis) E. Horak SPECIES
-=======
+# Entoloma foldatsii (Dennis) E. Horak SPECIES
 
 #### Status
 ACCEPTED

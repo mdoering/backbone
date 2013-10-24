@@ -1,5 +1,4 @@
-Dicaeoma obtectum (Peck) Kuntze SPECIES
-=======
+# Dicaeoma obtectum (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

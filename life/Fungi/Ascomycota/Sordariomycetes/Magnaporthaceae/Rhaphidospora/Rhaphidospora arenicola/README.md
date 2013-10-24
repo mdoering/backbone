@@ -1,5 +1,4 @@
-Rhaphidospora arenicola Mudd SPECIES
-=======
+# Rhaphidospora arenicola Mudd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyphelium minutulum (Bagl.) Zahlbr. SPECIES
-=======
+# Cyphelium minutulum (Bagl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coprinus cubensis Berk. & M.A. Curtis SPECIES
-=======
+# Coprinus cubensis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

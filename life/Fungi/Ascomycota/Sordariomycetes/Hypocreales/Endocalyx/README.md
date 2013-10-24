@@ -1,5 +1,4 @@
-Endocalyx Berk. & Broome GENUS
-=======
+# Endocalyx Berk. & Broome GENUS
 
 #### Status
 ACCEPTED

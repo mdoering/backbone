@@ -1,5 +1,4 @@
-Aecidium kraussianum Henn. SPECIES
-=======
+# Aecidium kraussianum Henn. SPECIES
 
 #### Status
 ACCEPTED

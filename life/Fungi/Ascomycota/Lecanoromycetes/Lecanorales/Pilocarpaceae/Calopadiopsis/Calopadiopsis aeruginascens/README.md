@@ -1,5 +1,4 @@
-Calopadiopsis aeruginascens Lücking SPECIES
-=======
+# Calopadiopsis aeruginascens Lücking SPECIES
 
 #### Status
 ACCEPTED

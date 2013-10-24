@@ -1,5 +1,4 @@
-Spirostrombidium Jankowski, 1978 GENUS
-=======
+# Spirostrombidium Jankowski, 1978 GENUS
 
 #### Status
 ACCEPTED

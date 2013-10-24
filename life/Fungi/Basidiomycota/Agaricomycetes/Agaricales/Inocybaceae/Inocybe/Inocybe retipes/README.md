@@ -1,5 +1,4 @@
-Inocybe retipes Singer SPECIES
-=======
+# Inocybe retipes Singer SPECIES
 
 #### Status
 ACCEPTED

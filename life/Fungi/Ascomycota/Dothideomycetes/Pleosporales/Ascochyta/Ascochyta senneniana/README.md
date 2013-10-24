@@ -1,5 +1,4 @@
-Ascochyta senneniana Gonz. Frag. SPECIES
-=======
+# Ascochyta senneniana Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

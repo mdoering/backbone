@@ -1,14 +1,13 @@
-Culcitalna achraspora Meyers & R.T. Moore, 1960 SPECIES
-=======
+# Trichocladium achrasporum (Meyers & R.T. Moore) M. Dixon ex Shearer & J.L. Crane, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Am. J. Bot. 47: 349 (1960)
+Mycologia 63(2): 244 (1971)
 
 #### Original name
 Culcitalna achraspora Meyers & R.T. Moore, 1960

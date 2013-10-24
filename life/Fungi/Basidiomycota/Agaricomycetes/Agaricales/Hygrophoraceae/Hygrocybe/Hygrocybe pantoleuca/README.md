@@ -1,14 +1,13 @@
-Hygrophorus pantoleucus Hongo, 1958 SPECIES
-=======
+# Hygrocybe pantoleuca (Hongo) Hongo, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Jap. Bot. 33: 135 (1958)
+Mem. Fac. Educ. Shiga Univ. , Nat. Sci. 32: 91 (1982)
 
 #### Original name
 Hygrophorus pantoleucus Hongo, 1958

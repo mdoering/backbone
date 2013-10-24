@@ -1,5 +1,4 @@
-Actibacter sediminis Kim, Kim, Hahm, Kim, Chun & Cha, 2008 SPECIES
-=======
+# Actibacter sediminis Kim, Kim, Hahm, Kim, Chun & Cha, 2008 SPECIES
 
 #### Status
 ACCEPTED

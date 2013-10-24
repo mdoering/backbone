@@ -1,5 +1,4 @@
-Puccinia melanida Syd. SPECIES
-=======
+# Puccinia melanida Syd. SPECIES
 
 #### Status
 ACCEPTED

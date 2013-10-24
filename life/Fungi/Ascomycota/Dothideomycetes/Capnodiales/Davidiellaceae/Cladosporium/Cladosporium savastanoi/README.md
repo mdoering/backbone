@@ -1,5 +1,4 @@
-Cladosporium savastanoi Carbone SPECIES
-=======
+# Cladosporium savastanoi Carbone SPECIES
 
 #### Status
 ACCEPTED

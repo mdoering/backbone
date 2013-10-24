@@ -1,5 +1,4 @@
-Coryphidium elegans Cramer, Allam, Kanes & Díez, 1974 SPECIES
-=======
+# Coryphidium elegans Cramer, Allam, Kanes & Díez, 1974 SPECIES
 
 #### Status
 ACCEPTED

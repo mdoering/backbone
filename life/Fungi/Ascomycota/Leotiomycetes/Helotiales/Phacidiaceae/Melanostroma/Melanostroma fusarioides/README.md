@@ -1,5 +1,4 @@
-Melanostroma fusarioides Corda SPECIES
-=======
+# Melanostroma fusarioides Corda SPECIES
 
 #### Status
 ACCEPTED

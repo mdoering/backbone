@@ -1,5 +1,4 @@
-Ramaria basirobusta R.H. Petersen, 1988 SPECIES
-=======
+# Ramaria basirobusta R.H. Petersen, 1988 SPECIES
 
 #### Status
 ACCEPTED

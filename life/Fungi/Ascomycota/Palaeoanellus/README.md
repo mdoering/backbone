@@ -1,5 +1,4 @@
-Palaeoanellus A.R. Schmidt, Dörfelt & Perrichot GENUS
-=======
+# Palaeoanellus A.R. Schmidt, Dörfelt & Perrichot GENUS
 
 #### Status
 ACCEPTED

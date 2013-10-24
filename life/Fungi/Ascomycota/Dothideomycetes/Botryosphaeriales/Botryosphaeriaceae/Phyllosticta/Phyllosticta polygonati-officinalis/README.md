@@ -1,5 +1,4 @@
-Phyllosticta polygonati-officinalis Alcalde SPECIES
-=======
+# Phyllosticta polygonati-officinalis Alcalde SPECIES
 
 #### Status
 ACCEPTED

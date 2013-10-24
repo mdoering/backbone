@@ -1,5 +1,4 @@
-Lasiosphaeria janus (Berk. & Broome) Sacc. SPECIES
-=======
+# Lasiosphaeria janus (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

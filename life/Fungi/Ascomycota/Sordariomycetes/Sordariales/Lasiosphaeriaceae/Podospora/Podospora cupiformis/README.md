@@ -1,5 +1,4 @@
-Podospora cupiformis Cailleux, 1969 SPECIES
-=======
+# Podospora cupiformis Cailleux, 1969 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Spirodinium fissum Lemmermann SPECIES
-=======
+# Gyrodinium fissum (Levander) Kofoid & Swezy SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

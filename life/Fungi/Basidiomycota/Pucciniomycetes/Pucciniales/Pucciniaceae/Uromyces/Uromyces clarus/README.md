@@ -1,5 +1,4 @@
-Uromyces clarus H.S. Jacks. & Holw. SPECIES
-=======
+# Uromyces clarus H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

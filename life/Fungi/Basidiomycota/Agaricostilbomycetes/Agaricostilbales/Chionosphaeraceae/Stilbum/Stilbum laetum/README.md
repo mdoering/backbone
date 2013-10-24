@@ -1,5 +1,4 @@
-Stilbum laetum (Ehrenb.) Pers. SPECIES
-=======
+# Stilbum laetum (Ehrenb.) Pers. SPECIES
 
 #### Status
 ACCEPTED

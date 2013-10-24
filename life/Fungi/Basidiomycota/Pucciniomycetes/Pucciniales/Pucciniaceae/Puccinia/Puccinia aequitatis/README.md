@@ -1,5 +1,4 @@
-Puccinia aequitatis Cummins SPECIES
-=======
+# Puccinia aequitatis Cummins SPECIES
 
 #### Status
 ACCEPTED

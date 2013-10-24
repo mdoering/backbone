@@ -1,5 +1,4 @@
-Pedomicrobium australicum Gebers & Beese, 1988 SPECIES
-=======
+# Pedomicrobium australicum Gebers & Beese, 1988 SPECIES
 
 #### Status
 ACCEPTED

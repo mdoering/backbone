@@ -1,5 +1,4 @@
-Ascochyta baccae Rostr. SPECIES
-=======
+# Ascochyta baccae Rostr. SPECIES
 
 #### Status
 ACCEPTED

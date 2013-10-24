@@ -1,5 +1,4 @@
-Caeomurus cuspidatus (G. Winter) Kuntze SPECIES
-=======
+# Caeomurus cuspidatus (G. Winter) Kuntze SPECIES
 
 #### Status
 ACCEPTED

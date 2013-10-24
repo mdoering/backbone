@@ -1,5 +1,4 @@
-Coniothyrium astragalinum Kirschst. SPECIES
-=======
+# Coniothyrium astragalinum Kirschst. SPECIES
 
 #### Status
 ACCEPTED

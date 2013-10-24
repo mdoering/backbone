@@ -1,5 +1,4 @@
-Peziza pulchella var. pulchella VARIETY
-=======
+# Peziza pulchella ß pulchella Fuckel SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Peziza pulchella var. pulchella
+Peziza pulchella ß pulchella Fuckel
 
 ### Remarks
 null

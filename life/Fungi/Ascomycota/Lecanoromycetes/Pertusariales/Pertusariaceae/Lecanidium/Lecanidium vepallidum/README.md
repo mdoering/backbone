@@ -1,5 +1,4 @@
-Lecanidium vepallidum (Nyl.) C.W. Dodge SPECIES
-=======
+# Lecanidium vepallidum (Nyl.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

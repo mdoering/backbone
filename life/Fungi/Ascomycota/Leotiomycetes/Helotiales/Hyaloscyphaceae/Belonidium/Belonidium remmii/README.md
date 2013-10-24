@@ -1,5 +1,4 @@
-Belonidium remmii Raitv. SPECIES
-=======
+# Belonidium remmii Raitv. SPECIES
 
 #### Status
 ACCEPTED

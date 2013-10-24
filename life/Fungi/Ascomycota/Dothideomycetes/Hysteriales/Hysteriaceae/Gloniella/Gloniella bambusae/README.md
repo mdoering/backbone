@@ -1,5 +1,4 @@
-Gloniella bambusae H. Zogg SPECIES
-=======
+# Gloniella bambusae H. Zogg SPECIES
 
 #### Status
 ACCEPTED

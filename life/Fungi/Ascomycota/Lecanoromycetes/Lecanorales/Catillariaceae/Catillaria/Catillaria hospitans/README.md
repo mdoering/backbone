@@ -1,5 +1,4 @@
-Catillaria hospitans H. Magn. SPECIES
-=======
+# Catillaria hospitans H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coleosporium serratulae Y.C. Wang & B. Li SPECIES
-=======
+# Coleosporium serratulae Y.C. Wang & B. Li SPECIES
 
 #### Status
 ACCEPTED

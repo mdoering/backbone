@@ -1,5 +1,4 @@
-Psathyra sulcata Velen. SPECIES
-=======
+# Psathyra sulcata Velen. SPECIES
 
 #### Status
 ACCEPTED

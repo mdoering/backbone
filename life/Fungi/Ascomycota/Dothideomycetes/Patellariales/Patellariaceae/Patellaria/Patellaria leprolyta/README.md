@@ -1,5 +1,4 @@
-Patellaria leprolyta (Nyl.) Müll. Arg. SPECIES
-=======
+# Patellaria leprolyta (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

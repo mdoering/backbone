@@ -1,5 +1,4 @@
-Stanjehughesia polypora W.P. Wu SPECIES
-=======
+# Stanjehughesia polypora W.P. Wu SPECIES
 
 #### Status
 ACCEPTED

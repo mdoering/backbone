@@ -1,5 +1,4 @@
-Acaulospora gedanensis Blaszk., 1988 SPECIES
-=======
+# Acaulospora gedanensis Blaszk., 1988 SPECIES
 
 #### Status
 ACCEPTED

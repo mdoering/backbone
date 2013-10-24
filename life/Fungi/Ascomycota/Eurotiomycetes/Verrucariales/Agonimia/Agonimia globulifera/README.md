@@ -1,5 +1,4 @@
-Agonimia globulifera M. Brand & Diederich SPECIES
-=======
+# Agonimia globulifera M. Brand & Diederich SPECIES
 
 #### Status
 ACCEPTED

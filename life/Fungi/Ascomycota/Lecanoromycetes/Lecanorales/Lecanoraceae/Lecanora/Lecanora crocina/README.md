@@ -1,5 +1,4 @@
-Lecanora crocina (Kremp.) Stizenb. SPECIES
-=======
+# Lecanora crocina (Kremp.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

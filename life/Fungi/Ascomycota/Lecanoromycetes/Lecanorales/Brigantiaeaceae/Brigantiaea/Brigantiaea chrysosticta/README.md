@@ -1,5 +1,4 @@
-Brigantiaea chrysosticta (Hook. f. & Taylor) Hafellner & Bellem. SPECIES
-=======
+# Brigantiaea chrysosticta (Hook. f. & Taylor) Hafellner & Bellem. SPECIES
 
 #### Status
 ACCEPTED

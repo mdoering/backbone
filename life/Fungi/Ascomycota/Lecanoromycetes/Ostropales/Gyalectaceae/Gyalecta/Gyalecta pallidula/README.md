@@ -1,5 +1,4 @@
-Gyalecta pallidula (Müll. Arg.) Hellb. SPECIES
-=======
+# Gyalecta pallidula (Müll. Arg.) Hellb. SPECIES
 
 #### Status
 ACCEPTED

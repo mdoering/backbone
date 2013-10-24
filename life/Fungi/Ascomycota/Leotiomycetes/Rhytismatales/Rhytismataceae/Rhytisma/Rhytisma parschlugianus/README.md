@@ -1,5 +1,4 @@
-Rhytisma parschlugianus Ettingsh. SPECIES
-=======
+# Rhytisma parschlugianus Ettingsh. SPECIES
 
 #### Status
 ACCEPTED

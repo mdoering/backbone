@@ -1,5 +1,4 @@
-Nectria phaeodisca Rossman, 1983 SPECIES
-=======
+# Nectria phaeodisca Rossman, 1983 SPECIES
 
 #### Status
 ACCEPTED

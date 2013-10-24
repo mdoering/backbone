@@ -1,5 +1,4 @@
-Leptosphaeria aerea Speg. SPECIES
-=======
+# Leptosphaeria aerea Speg. SPECIES
 
 #### Status
 ACCEPTED

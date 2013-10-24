@@ -1,5 +1,4 @@
-Coniothecium applanatum Sacc. SPECIES
-=======
+# Coniothecium applanatum Sacc. SPECIES
 
 #### Status
 ACCEPTED

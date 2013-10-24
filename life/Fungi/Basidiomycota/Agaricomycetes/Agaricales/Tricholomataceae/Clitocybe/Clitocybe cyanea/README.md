@@ -1,5 +1,4 @@
-Clitocybe cyanea Rick SPECIES
-=======
+# Clitocybe cyanea Rick SPECIES
 
 #### Status
 ACCEPTED

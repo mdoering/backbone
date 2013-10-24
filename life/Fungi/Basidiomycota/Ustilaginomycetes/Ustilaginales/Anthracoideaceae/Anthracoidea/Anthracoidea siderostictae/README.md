@@ -1,5 +1,4 @@
-Anthracoidea siderostictae Kukkonen SPECIES
-=======
+# Anthracoidea siderostictae Kukkonen SPECIES
 
 #### Status
 ACCEPTED

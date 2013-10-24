@@ -1,5 +1,4 @@
-Benjaminiella multispora Benny, Samson & M.C. Sriniv., 1985 SPECIES
-=======
+# Benjaminiella multispora Benny, Samson & M.C. Sriniv., 1985 SPECIES
 
 #### Status
 ACCEPTED

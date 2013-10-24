@@ -1,5 +1,4 @@
-Herpomyces grenadinus Thaxt. SPECIES
-=======
+# Herpomyces grenadinus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

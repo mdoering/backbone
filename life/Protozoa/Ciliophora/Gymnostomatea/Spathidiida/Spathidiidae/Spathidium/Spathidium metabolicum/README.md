@@ -1,5 +1,4 @@
-Spathidium metabolicum Pomp & Wilbert, 1988 SPECIES
-=======
+# Spathidium metabolicum Pomp & Wilbert, 1988 SPECIES
 
 #### Status
 ACCEPTED

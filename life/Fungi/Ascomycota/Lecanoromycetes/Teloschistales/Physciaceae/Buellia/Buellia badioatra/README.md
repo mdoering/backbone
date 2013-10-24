@@ -1,5 +1,4 @@
-Buellia badioatra SPECIES
-=======
+# Buellia badioatra SPECIES
 
 #### Status
 ACCEPTED

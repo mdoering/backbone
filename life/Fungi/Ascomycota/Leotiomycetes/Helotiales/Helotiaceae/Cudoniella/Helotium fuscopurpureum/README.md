@@ -1,5 +1,4 @@
-Helotium fuscopurpureum Rehm SPECIES
-=======
+# Helotium fuscopurpureum Rehm SPECIES
 
 #### Status
 ACCEPTED

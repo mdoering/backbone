@@ -1,5 +1,4 @@
-Passalora dalbergiicola (T.S. Ramakr. & K. Ramakr.) Poonam Srivast. SPECIES
-=======
+# Passalora dalbergiicola (T.S. Ramakr. & K. Ramakr.) Poonam Srivast. SPECIES
 
 #### Status
 ACCEPTED

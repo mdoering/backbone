@@ -1,5 +1,4 @@
-Heppia subprasina J. Steiner SPECIES
-=======
+# Heppia subprasina J. Steiner SPECIES
 
 #### Status
 ACCEPTED

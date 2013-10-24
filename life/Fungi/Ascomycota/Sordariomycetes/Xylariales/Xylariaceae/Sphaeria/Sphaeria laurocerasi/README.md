@@ -1,5 +1,4 @@
-Sphaeria laurocerasi Desm. SPECIES
-=======
+# Sphaeria laurocerasi Desm. SPECIES
 
 #### Status
 ACCEPTED

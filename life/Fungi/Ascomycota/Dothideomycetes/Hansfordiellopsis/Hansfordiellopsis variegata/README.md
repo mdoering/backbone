@@ -1,5 +1,4 @@
-Hansfordiellopsis variegata D. Hawksw. SPECIES
-=======
+# Hansfordiellopsis variegata D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

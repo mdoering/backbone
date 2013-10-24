@@ -1,5 +1,4 @@
-Philaster resedaceus Tucolesco, 1962 SPECIES
-=======
+# Philaster resedaceus Tucolesco, 1962 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria thielensii (Westend.) Sacc. SPECIES
-=======
+# Leptosphaeria thielensii (Westend.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

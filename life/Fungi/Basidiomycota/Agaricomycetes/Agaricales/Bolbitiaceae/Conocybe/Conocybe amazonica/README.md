@@ -1,5 +1,4 @@
-Conocybe amazonica Singer SPECIES
-=======
+# Conocybe amazonica Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodina santolinae Hollós SPECIES
-=======
+# Diplodina santolinae Hollós SPECIES
 
 #### Status
 ACCEPTED

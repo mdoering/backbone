@@ -1,5 +1,4 @@
-Melanotus psychotriae (Pat.) Singer SPECIES
-=======
+# Melanotus psychotriae (Pat.) Singer SPECIES
 
 #### Status
 ACCEPTED

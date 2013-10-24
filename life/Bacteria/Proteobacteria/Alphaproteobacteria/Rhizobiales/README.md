@@ -1,5 +1,4 @@
-Rhizobiales ORDER
-=======
+# Rhizobiales ORDER
 
 #### Status
 ACCEPTED

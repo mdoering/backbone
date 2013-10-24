@@ -1,5 +1,4 @@
-Psathyrella prunuliformis (Murrill) A.H. Sm. SPECIES
-=======
+# Psathyrella prunuliformis (Murrill) A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

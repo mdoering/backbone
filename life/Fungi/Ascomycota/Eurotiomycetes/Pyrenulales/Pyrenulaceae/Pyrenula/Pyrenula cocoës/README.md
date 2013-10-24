@@ -1,5 +1,4 @@
-Pyrenula cocoës Müll. Arg. SPECIES
-=======
+# Pyrenula cocoës Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

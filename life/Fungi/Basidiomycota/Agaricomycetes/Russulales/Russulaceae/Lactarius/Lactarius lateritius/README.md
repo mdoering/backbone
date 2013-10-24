@@ -1,5 +1,4 @@
-Lactarius lateritius Pers. SPECIES
-=======
+# Lactarius lateritius Pers. SPECIES
 
 #### Status
 ACCEPTED

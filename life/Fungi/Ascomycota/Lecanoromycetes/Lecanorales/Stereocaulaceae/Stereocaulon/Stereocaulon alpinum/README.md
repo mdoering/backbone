@@ -1,17 +1,16 @@
-Stereocaulon alpinum var. alpinum VARIETY
-=======
+# Stereocaulon alpinum Laurer SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Cryptog. Gewächse 33: 6 (1827)
 
 #### Original name
-Stereocaulon alpinum var. alpinum
+Stereocaulon alpinum Laurer
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Gyrophoropsis yunnana (Nyl.) Räsänen SPECIES
-=======
+# Gyrophoropsis yunnana (Nyl.) Räsänen SPECIES
 
 #### Status
 ACCEPTED

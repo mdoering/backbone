@@ -1,5 +1,4 @@
-Coprobia magnifica W.Y. Zhuang & Korf SPECIES
-=======
+# Coprobia magnifica W.Y. Zhuang & Korf SPECIES
 
 #### Status
 ACCEPTED

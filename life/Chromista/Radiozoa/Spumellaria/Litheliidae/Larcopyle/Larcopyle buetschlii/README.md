@@ -1,5 +1,4 @@
-Larcopyle buetschlii Dreyer, 1889 SPECIES
-=======
+# Larcopyle buetschlii Dreyer, 1889 SPECIES
 
 #### Status
 ACCEPTED

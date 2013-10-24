@@ -1,5 +1,4 @@
-Pleospora proustiae Speg. SPECIES
-=======
+# Pleospora proustiae Speg. SPECIES
 
 #### Status
 ACCEPTED

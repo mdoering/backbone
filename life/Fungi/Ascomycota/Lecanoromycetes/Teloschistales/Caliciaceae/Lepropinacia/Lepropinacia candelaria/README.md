@@ -1,5 +1,4 @@
-Lepropinacia candelaria (Weber ex F.H. Wigg.) A. St.-Hil. SPECIES
-=======
+# Lepropinacia candelaria (Weber ex F.H. Wigg.) A. St.-Hil. SPECIES
 
 #### Status
 ACCEPTED

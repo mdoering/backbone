@@ -1,5 +1,4 @@
-Phytophthora caricae Hara SPECIES
-=======
+# Phytophthora caricae Hara SPECIES
 
 #### Status
 ACCEPTED

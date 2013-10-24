@@ -1,5 +1,4 @@
-Scolecopeltis salacensis Racib. SPECIES
-=======
+# Scolecopeltis salacensis Racib. SPECIES
 
 #### Status
 ACCEPTED

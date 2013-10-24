@@ -1,5 +1,4 @@
-Plagiotrema GENUS
-=======
+# Plagiotrema GENUS
 
 #### Status
 ACCEPTED

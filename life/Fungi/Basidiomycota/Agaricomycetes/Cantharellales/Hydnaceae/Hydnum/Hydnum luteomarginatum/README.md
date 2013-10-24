@@ -1,5 +1,4 @@
-Hydnum luteomarginatum Beeli SPECIES
-=======
+# Hydnum luteomarginatum Beeli SPECIES
 
 #### Status
 ACCEPTED

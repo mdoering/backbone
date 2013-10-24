@@ -1,5 +1,4 @@
-Agaricus eremita Schulzer SPECIES
-=======
+# Agaricus eremita Schulzer SPECIES
 
 #### Status
 ACCEPTED

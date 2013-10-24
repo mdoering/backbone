@@ -1,5 +1,4 @@
-Desmopatella tomispora (Berl. & Bres.) Petr. SPECIES
-=======
+# Desmopatella tomispora (Berl. & Bres.) Petr. SPECIES
 
 #### Status
 ACCEPTED

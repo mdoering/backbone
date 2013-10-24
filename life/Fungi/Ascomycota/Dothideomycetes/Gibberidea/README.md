@@ -1,5 +1,4 @@
-Gibberidea Fuckel, 1870 GENUS
-=======
+# Gibberidea Fuckel, 1870 GENUS
 
 #### Status
 ACCEPTED

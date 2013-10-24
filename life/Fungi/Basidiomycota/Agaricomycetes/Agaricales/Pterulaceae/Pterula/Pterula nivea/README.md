@@ -1,5 +1,4 @@
-Pterula nivea Pat. SPECIES
-=======
+# Pterula nivea Pat. SPECIES
 
 #### Status
 ACCEPTED

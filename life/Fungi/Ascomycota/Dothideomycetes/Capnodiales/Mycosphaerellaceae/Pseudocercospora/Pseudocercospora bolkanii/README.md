@@ -1,5 +1,4 @@
-Pseudocercospora bolkanii Furlan. & Dianese SPECIES
-=======
+# Pseudocercospora bolkanii Furlan. & Dianese SPECIES
 
 #### Status
 ACCEPTED

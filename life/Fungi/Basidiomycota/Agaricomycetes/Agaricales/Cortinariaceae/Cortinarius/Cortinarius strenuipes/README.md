@@ -1,5 +1,4 @@
-Cortinarius strenuipes Rob. Henry SPECIES
-=======
+# Cortinarius strenuipes Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

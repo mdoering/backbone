@@ -1,5 +1,4 @@
-Cothurnia sinuosa Wailes, 1943 SPECIES
-=======
+# Cothurnia sinuosa Wailes, 1943 SPECIES
 
 #### Status
 ACCEPTED

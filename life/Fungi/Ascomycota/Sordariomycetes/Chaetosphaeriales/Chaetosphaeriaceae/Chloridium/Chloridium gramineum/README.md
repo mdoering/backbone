@@ -1,5 +1,4 @@
-Chloridium gramineum (Pers.) Chevall. SPECIES
-=======
+# Chloridium gramineum (Pers.) Chevall. SPECIES
 
 #### Status
 ACCEPTED

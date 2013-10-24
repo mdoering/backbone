@@ -1,5 +1,4 @@
-Neonectria castaneicola (W. Yamam. & Oyasu) Tak. Kobay. & Hirooka SPECIES
-=======
+# Neonectria castaneicola (W. Yamam. & Oyasu) Tak. Kobay. & Hirooka SPECIES
 
 #### Status
 ACCEPTED

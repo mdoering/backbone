@@ -1,14 +1,13 @@
-Chiodecton leptothallum Malme SPECIES
-=======
+# Sigridea leptothallus (Malme) Tehler SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Arch. für Botanik 29A(6): 12 (1937)
+Nova Hedwigia 57(3-4): 426 (1993)
 
 #### Original name
 Chiodecton leptothallum Malme

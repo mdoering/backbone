@@ -1,5 +1,4 @@
-Phyllosticta rhei Roum. SPECIES
-=======
+# Phyllosticta rhei Roum. SPECIES
 
 #### Status
 ACCEPTED

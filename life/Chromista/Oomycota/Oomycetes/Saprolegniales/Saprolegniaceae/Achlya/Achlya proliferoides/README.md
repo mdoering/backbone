@@ -1,5 +1,4 @@
-Achlya proliferoides Coker, 1923 SPECIES
-=======
+# Achlya proliferoides Coker, 1923 SPECIES
 
 #### Status
 ACCEPTED

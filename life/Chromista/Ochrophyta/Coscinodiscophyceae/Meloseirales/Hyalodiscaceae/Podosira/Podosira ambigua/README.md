@@ -1,5 +1,4 @@
-Podosira ambigua var. kamtschatica Grunow VARIETY
-=======
+# Podosira ambigua Grunow SPECIES
 
 #### Status
 ACCEPTED

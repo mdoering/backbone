@@ -1,5 +1,4 @@
-Candelariella flava (C.W. Dodge & G.E. Baker) Castello & Nimis SPECIES
-=======
+# Candelariella flava (C.W. Dodge & G.E. Baker) Castello & Nimis SPECIES
 
 #### Status
 ACCEPTED

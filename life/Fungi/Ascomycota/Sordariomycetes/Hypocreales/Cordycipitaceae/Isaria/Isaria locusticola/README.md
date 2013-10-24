@@ -1,5 +1,4 @@
-Isaria locusticola Z.Q. Liang, X.Y. He & Y.F. Han SPECIES
-=======
+# Isaria locusticola Z.Q. Liang, X.Y. He & Y.F. Han SPECIES
 
 #### Status
 ACCEPTED

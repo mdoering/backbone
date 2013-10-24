@@ -1,5 +1,4 @@
-Lecanora diamartiza Vain. SPECIES
-=======
+# Lecanora diamartiza Vain. SPECIES
 
 #### Status
 ACCEPTED

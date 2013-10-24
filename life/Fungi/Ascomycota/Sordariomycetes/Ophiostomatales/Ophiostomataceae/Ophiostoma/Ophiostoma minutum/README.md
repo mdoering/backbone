@@ -1,14 +1,13 @@
-Ceratocystis minuta (Siemaszko) J. Hunt, 1956 SPECIES
-=======
+# Ophiostoma minutum Siemaszko, 1939 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lloydia 19(1): 49 (1956)
+Pl. Polon. 7(3): 23 (1939)
 
 #### Original name
 Ophiostoma minutum Siemaszko, 1939

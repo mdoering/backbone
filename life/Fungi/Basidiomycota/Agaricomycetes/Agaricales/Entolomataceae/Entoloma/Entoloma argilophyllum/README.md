@@ -1,5 +1,4 @@
-Entoloma argilophyllum Berk. & Broome SPECIES
-=======
+# Entoloma argilophyllum Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Catenuloplanes japonicus Yokota et al., 1993 SPECIES
-=======
+# Catenuloplanes japonicus Yokota et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

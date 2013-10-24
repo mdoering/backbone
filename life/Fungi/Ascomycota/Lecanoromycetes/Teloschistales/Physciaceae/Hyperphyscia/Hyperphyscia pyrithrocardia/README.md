@@ -1,5 +1,4 @@
-Hyperphyscia pyrithrocardia (Müll. Arg.) Moberg & Aptroot SPECIES
-=======
+# Hyperphyscia pyrithrocardia (Müll. Arg.) Moberg & Aptroot SPECIES
 
 #### Status
 ACCEPTED

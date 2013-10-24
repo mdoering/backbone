@@ -1,5 +1,4 @@
-Leptoglossum tremellosum (Cooke) Sacc., 1889 SPECIES
-=======
+# Leptoglossum tremellosum (Cooke) Sacc., 1889 SPECIES
 
 #### Status
 ACCEPTED

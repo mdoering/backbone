@@ -1,5 +1,4 @@
-Cortinarius basibulbosus Cleland & J.R. Harris SPECIES
-=======
+# Cortinarius basibulbosus Cleland & J.R. Harris SPECIES
 
 #### Status
 ACCEPTED

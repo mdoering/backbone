@@ -1,5 +1,4 @@
-Colletotrichum idaeinum Syd. SPECIES
-=======
+# Colletotrichum idaeinum Syd. SPECIES
 
 #### Status
 ACCEPTED

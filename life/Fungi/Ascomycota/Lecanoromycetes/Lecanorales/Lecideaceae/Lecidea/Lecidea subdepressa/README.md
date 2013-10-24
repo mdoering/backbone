@@ -1,5 +1,4 @@
-Lecidea subdepressa Vain. SPECIES
-=======
+# Lecidea subdepressa Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Matruchotia splendida Skup. SPECIES
-=======
+# Matruchotia splendida Skup. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Boletus lignicola Kallenb., 1929 SPECIES
-=======
+# Buchwaldoboletus lignicola (Kallenb.) Pilát, 1969 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Pilze Mitteleuropas (Stuttgart) 1(9): 57 (1929)
+Friesia 9: 217 (1969)
 
 #### Original name
 Boletus lignicola Kallenb., 1929

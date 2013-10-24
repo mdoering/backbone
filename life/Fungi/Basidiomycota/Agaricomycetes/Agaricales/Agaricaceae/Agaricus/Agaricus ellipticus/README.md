@@ -1,5 +1,4 @@
-Agaricus ellipticus Pers. SPECIES
-=======
+# Agaricus ellipticus Pers. SPECIES
 
 #### Status
 ACCEPTED

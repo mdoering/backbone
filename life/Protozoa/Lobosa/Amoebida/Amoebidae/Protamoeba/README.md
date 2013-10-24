@@ -1,5 +1,4 @@
-Protamoeba Haeckel, 1866 GENUS
-=======
+# Protamoeba Haeckel, 1866 GENUS
 
 #### Status
 ACCEPTED

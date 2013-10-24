@@ -1,5 +1,4 @@
-Mycena tenacipes Kauffman & A.H. Sm. SPECIES
-=======
+# Mycena tenacipes Kauffman & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola pseudocapensis Hansf. SPECIES
-=======
+# Meliola pseudocapensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

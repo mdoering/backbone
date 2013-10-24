@@ -1,5 +1,4 @@
-Catenulostroma chromoblastomycosum Crous & U. Braun, 2007 SPECIES
-=======
+# Catenulostroma chromoblastomycosum Crous & U. Braun, 2007 SPECIES
 
 #### Status
 ACCEPTED

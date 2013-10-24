@@ -1,5 +1,4 @@
-Sclerotium elongatum Chevall. SPECIES
-=======
+# Sclerotium elongatum Chevall. SPECIES
 
 #### Status
 ACCEPTED

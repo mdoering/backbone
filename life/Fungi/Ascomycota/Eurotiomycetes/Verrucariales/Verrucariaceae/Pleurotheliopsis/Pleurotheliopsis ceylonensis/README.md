@@ -1,5 +1,4 @@
-Pleurotheliopsis ceylonensis Ajay Singh & Upreti SPECIES
-=======
+# Pleurotheliopsis ceylonensis Ajay Singh & Upreti SPECIES
 
 #### Status
 ACCEPTED

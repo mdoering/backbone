@@ -1,5 +1,4 @@
-Lecidea kiefferi Harm. SPECIES
-=======
+# Lecidea kiefferi Harm. SPECIES
 
 #### Status
 ACCEPTED

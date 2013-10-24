@@ -1,5 +1,4 @@
-Lentinus irregularis Berk. SPECIES
-=======
+# Lentinus irregularis Berk. SPECIES
 
 #### Status
 ACCEPTED

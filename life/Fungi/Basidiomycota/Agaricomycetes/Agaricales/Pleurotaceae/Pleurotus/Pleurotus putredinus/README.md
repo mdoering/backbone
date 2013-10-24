@@ -1,5 +1,4 @@
-Pleurotus putredinus (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Pleurotus putredinus (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

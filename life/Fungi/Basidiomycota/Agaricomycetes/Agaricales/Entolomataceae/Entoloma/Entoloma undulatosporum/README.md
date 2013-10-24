@@ -1,5 +1,4 @@
-Entoloma undulatosporum Arnolds & Noordel. SPECIES
-=======
+# Entoloma undulatosporum Arnolds & Noordel. SPECIES
 
 #### Status
 ACCEPTED

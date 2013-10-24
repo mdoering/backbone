@@ -1,5 +1,4 @@
-Ceuthodiplospora Died. GENUS
-=======
+# Ceuthodiplospora Died. GENUS
 
 #### Status
 ACCEPTED

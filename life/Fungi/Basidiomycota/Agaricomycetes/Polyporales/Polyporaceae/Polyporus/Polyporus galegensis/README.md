@@ -1,5 +1,4 @@
-Polyporus galegensis Mont. SPECIES
-=======
+# Polyporus galegensis Mont. SPECIES
 
 #### Status
 ACCEPTED

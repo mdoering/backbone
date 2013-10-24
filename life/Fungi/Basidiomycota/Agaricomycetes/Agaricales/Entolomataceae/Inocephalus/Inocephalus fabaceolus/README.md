@@ -1,5 +1,4 @@
-Inocephalus fabaceolus (Largent) Largent SPECIES
-=======
+# Inocephalus fabaceolus (Largent) Largent SPECIES
 
 #### Status
 ACCEPTED

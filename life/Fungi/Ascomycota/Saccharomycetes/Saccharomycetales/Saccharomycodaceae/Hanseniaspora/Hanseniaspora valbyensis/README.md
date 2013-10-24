@@ -1,17 +1,16 @@
-Kloeckera corticis var. pulquensis Ulloa & T. Herrera, 1973 VARIETY
-=======
+# Hanseniaspora valbyensis Klöcker, 1912 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Zentbl. Bakt. ParasitKde, Abt. II 35: 385 (1912)
 
 #### Original name
-null
+Hanseniaspora valbyensis Klöcker, 1912
 
 ### Remarks
 null

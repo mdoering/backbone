@@ -1,5 +1,4 @@
-Septoria rivinae Pat. SPECIES
-=======
+# Septoria rivinae Pat. SPECIES
 
 #### Status
 ACCEPTED

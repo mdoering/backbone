@@ -1,5 +1,4 @@
-Ligiella J.A. Sáenz GENUS
-=======
+# Ligiella J.A. Sáenz GENUS
 
 #### Status
 ACCEPTED

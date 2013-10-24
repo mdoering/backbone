@@ -1,5 +1,4 @@
-Gymnosporium lineare Berk. & Broome SPECIES
-=======
+# Gymnosporium lineare Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

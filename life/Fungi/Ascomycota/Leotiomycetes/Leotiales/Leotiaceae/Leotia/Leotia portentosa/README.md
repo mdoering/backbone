@@ -1,5 +1,4 @@
-Leotia portentosa (S. Imai & Minakata) F.L. Tai SPECIES
-=======
+# Leotia portentosa (S. Imai & Minakata) F.L. Tai SPECIES
 
 #### Status
 ACCEPTED

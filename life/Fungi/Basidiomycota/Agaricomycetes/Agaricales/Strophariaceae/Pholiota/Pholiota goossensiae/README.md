@@ -1,5 +1,4 @@
-Pholiota goossensiae Beeli SPECIES
-=======
+# Pholiota goossensiae Beeli SPECIES
 
 #### Status
 ACCEPTED

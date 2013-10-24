@@ -1,5 +1,4 @@
-Puccinia perincerta H.S. Jacks. & Holw. SPECIES
-=======
+# Puccinia perincerta H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

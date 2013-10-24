@@ -1,5 +1,4 @@
-Restiosporium baloskionis Vánky & R.G. Shivas, 2003 SPECIES
-=======
+# Restiosporium baloskionis Vánky & R.G. Shivas, 2003 SPECIES
 
 #### Status
 ACCEPTED

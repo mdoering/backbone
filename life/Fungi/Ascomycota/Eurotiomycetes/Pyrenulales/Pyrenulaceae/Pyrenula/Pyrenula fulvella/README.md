@@ -1,5 +1,4 @@
-Pyrenula fulvella R.C. Harris SPECIES
-=======
+# Pyrenula fulvella R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

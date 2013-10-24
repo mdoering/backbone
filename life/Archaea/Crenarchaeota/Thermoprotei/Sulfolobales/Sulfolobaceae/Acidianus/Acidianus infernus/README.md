@@ -1,5 +1,4 @@
-Acidianus infernus Segerer et al., 1986 SPECIES
-=======
+# Acidianus infernus Segerer et al., 1986 SPECIES
 
 #### Status
 ACCEPTED

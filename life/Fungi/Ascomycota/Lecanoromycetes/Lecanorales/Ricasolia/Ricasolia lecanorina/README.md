@@ -1,5 +1,4 @@
-Ricasolia lecanorina (C. Knight) Müll. Arg. SPECIES
-=======
+# Ricasolia lecanorina (C. Knight) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

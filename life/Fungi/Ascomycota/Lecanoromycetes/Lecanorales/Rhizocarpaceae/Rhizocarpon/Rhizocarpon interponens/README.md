@@ -1,5 +1,4 @@
-Rhizocarpon interponens (Nyl.) Zahlbr. SPECIES
-=======
+# Rhizocarpon interponens (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

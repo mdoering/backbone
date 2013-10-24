@@ -1,5 +1,4 @@
-Chiodecton subsphaerale Nyl. SPECIES
-=======
+# Chiodecton subsphaerale Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cristella Nuttall, 1834 GENUS
-=======
+# Cristella Nuttall, 1834 GENUS
 
 #### Status
 ACCEPTED

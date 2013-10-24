@@ -1,5 +1,4 @@
-Batcheloromyces leucospermi Joanne E. Taylor & Crous, 1999 SPECIES
-=======
+# Batcheloromyces leucospermi Joanne E. Taylor & Crous, 1999 SPECIES
 
 #### Status
 ACCEPTED

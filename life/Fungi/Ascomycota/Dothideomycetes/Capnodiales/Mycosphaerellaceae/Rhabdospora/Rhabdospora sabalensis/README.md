@@ -1,5 +1,4 @@
-Rhabdospora sabalensis Cooke SPECIES
-=======
+# Rhabdospora sabalensis Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Beltraniella pini M.B. Ellis SPECIES
-=======
+# Beltraniella pini M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

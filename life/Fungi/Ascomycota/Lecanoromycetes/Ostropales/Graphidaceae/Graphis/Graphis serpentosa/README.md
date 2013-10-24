@@ -1,5 +1,4 @@
-Graphis serpentosa Nyl. SPECIES
-=======
+# Graphis serpentosa Nyl. SPECIES
 
 #### Status
 ACCEPTED

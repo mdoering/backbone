@@ -1,5 +1,4 @@
-Dimeromyces aulecophorae Thaxt. SPECIES
-=======
+# Dimeromyces aulecophorae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

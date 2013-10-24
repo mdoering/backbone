@@ -1,14 +1,13 @@
-Stecchericium dimidiatum (A. David & Rajchenb.) Corner, 1989 SPECIES
-=======
+# Wrightoporia dimidiata A. David & Rajchenb., 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beih. Nova Hedwigia 96: 120 (1989)
+Can. J. Bot. 65(1): 203 (1987)
 
 #### Original name
 Wrightoporia dimidiata A. David & Rajchenb., 1987

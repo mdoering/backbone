@@ -1,5 +1,4 @@
-Maichelina Sosnina, 1977 GENUS
-=======
+# Maichelina Sosnina, 1977 GENUS
 
 #### Status
 ACCEPTED

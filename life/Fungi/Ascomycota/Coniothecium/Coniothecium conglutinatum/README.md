@@ -1,5 +1,4 @@
-Coniothecium conglutinatum Corda, 1837 SPECIES
-=======
+# Coniothecium conglutinatum Corda, 1837 SPECIES
 
 #### Status
 ACCEPTED

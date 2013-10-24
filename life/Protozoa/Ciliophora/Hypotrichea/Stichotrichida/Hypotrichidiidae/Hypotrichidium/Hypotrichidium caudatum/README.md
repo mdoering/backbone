@@ -1,5 +1,4 @@
-Hypotrichidium caudatum Kahl, 1932 SPECIES
-=======
+# Hypotrichidium caudatum Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

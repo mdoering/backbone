@@ -1,5 +1,4 @@
-Trichophrya fixa Dumas, 1937 SPECIES
-=======
+# Trichophrya fixa Dumas, 1937 SPECIES
 
 #### Status
 ACCEPTED

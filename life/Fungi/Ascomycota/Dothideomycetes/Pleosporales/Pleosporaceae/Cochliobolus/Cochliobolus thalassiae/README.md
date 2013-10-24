@@ -1,5 +1,4 @@
-Cochliobolus thalassiae Orpurt & Boral SPECIES
-=======
+# Cochliobolus thalassiae Orpurt & Boral SPECIES
 
 #### Status
 ACCEPTED

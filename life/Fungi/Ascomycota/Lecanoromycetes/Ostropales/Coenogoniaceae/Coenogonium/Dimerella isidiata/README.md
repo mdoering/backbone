@@ -1,5 +1,4 @@
-Dimerella isidiata G. Thor & Vezda SPECIES
-=======
+# Dimerella isidiata G. Thor & Vezda SPECIES
 
 #### Status
 ACCEPTED

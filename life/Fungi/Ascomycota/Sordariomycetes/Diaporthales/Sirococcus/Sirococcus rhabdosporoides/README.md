@@ -1,5 +1,4 @@
-Sirococcus rhabdosporoides Sousa da Câmara SPECIES
-=======
+# Sirococcus rhabdosporoides Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

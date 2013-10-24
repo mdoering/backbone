@@ -1,5 +1,4 @@
-Dimeromyces parasiti Thaxt. SPECIES
-=======
+# Dimeromyces parasiti Thaxt. SPECIES
 
 #### Status
 ACCEPTED

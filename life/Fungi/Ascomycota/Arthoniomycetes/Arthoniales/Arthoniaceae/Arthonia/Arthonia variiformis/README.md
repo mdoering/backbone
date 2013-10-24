@@ -1,5 +1,4 @@
-Arthonia variiformis Nyl. SPECIES
-=======
+# Arthonia variiformis Nyl. SPECIES
 
 #### Status
 ACCEPTED

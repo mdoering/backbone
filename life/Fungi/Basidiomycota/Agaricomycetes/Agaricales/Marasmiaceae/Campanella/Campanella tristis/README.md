@@ -1,5 +1,4 @@
-Campanella tristis (G. Stev.) Segedin, 1993 SPECIES
-=======
+# Campanella tristis (G. Stev.) Segedin, 1993 SPECIES
 
 #### Status
 ACCEPTED

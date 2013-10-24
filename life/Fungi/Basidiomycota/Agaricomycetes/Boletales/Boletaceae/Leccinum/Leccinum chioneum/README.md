@@ -1,5 +1,4 @@
-Leccinum chioneum (Fr.) Redeuilh SPECIES
-=======
+# Leccinum chioneum (Fr.) Redeuilh SPECIES
 
 #### Status
 ACCEPTED

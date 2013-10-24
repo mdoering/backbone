@@ -1,5 +1,4 @@
-Hansenia cyphelloides (Fr.) P. Karst. SPECIES
-=======
+# Hansenia cyphelloides (Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heterochaete maculata Lowy SPECIES
-=======
+# Heterochaete maculata Lowy SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Methanotorris formicicus Takai et al., 2004 SPECIES
-=======
+# Methanotorris formicicus Takai et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

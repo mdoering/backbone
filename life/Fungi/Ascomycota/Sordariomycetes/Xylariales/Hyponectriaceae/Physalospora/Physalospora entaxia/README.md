@@ -1,5 +1,4 @@
-Physalospora entaxia (Cooke & Ellis) Sacc. SPECIES
-=======
+# Physalospora entaxia (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

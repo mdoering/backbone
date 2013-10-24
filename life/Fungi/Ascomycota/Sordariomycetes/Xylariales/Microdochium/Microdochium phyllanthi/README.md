@@ -1,5 +1,4 @@
-Microdochium phyllanthi B. Sutton, Piroz. & Deighton SPECIES
-=======
+# Microdochium phyllanthi B. Sutton, Piroz. & Deighton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramaria thiersii R.H. Petersen & Scates, 1988 SPECIES
-=======
+# Ramaria thiersii R.H. Petersen & Scates, 1988 SPECIES
 
 #### Status
 ACCEPTED

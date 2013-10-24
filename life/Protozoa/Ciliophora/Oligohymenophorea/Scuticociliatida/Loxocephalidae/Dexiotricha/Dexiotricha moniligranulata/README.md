@@ -1,5 +1,4 @@
-Dexiotricha moniligranulata SPECIES
-=======
+# Dexiotricha moniligranulata SPECIES
 
 #### Status
 ACCEPTED

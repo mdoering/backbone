@@ -1,5 +1,4 @@
-Amphisphaeria sylvana Sacc. & Speg. SPECIES
-=======
+# Amphisphaeria sylvana Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

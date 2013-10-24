@@ -1,5 +1,4 @@
-Lecudina hesionis Théodoridès, 1969 SPECIES
-=======
+# Lecudina hesionis Théodoridès, 1969 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Natada nararia GV SPECIES
-=======
+# Natada nararia GV SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Halteria faurei Dragesco & Dragesco-Kernéis, 1986 SPECIES
-=======
+# Halteria faurei Dragesco & Dragesco-Kernéis, 1986 SPECIES
 
 #### Status
 ACCEPTED

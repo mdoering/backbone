@@ -1,5 +1,4 @@
-Uredo azarae Neger SPECIES
-=======
+# Uredo azarae Neger SPECIES
 
 #### Status
 ACCEPTED

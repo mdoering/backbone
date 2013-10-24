@@ -1,8 +1,7 @@
-Actinomadura longicatena Itoh et al., 1996 SPECIES
-=======
+# Actinocorallia longicatena (Itoh et al., 1996) Zhang et al., 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

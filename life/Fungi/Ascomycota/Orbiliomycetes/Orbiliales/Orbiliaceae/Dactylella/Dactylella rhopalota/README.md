@@ -1,17 +1,16 @@
-Dactylella minuta var. fusiformis Grove VARIETY
-=======
+# Dactylella rhopalota Drechsler, 1943 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 35(3): 357 (1943)
 
 #### Original name
-Dactylella minuta var. fusiformis Grove
+Dactylella rhopalota Drechsler, 1943
 
 ### Remarks
 null

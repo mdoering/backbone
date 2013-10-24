@@ -1,14 +1,13 @@
-Ravenelia breyniae Syd. & P. Syd., 1907 SPECIES
-=======
+# Kernkampella breyniae (Syd. & P. Syd.) Rajendren, 1970 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 5(6): 501 (1907)
+Mycologia 62(4): 839 (1970)
 
 #### Original name
 Ravenelia breyniae Syd. & P. Syd., 1907

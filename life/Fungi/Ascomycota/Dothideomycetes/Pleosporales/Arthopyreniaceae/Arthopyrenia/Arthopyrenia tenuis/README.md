@@ -1,5 +1,4 @@
-Arthopyrenia tenuis R.C. Harris SPECIES
-=======
+# Arthopyrenia tenuis R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

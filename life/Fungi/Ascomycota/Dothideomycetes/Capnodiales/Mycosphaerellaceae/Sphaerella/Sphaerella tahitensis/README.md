@@ -1,5 +1,4 @@
-Sphaerella tahitensis Sacc. SPECIES
-=======
+# Sphaerella tahitensis Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hormomyces abietinus P. Karst. SPECIES
-=======
+# Hormomyces abietinus P. Karst. SPECIES
 
 #### Status
 ACCEPTED

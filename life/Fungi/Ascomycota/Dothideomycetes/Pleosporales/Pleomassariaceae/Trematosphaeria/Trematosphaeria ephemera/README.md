@@ -1,5 +1,4 @@
-Trematosphaeria ephemera Rehm SPECIES
-=======
+# Trematosphaeria ephemera Rehm SPECIES
 
 #### Status
 ACCEPTED

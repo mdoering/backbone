@@ -1,5 +1,4 @@
-Pseudomassaria agrifolia (Ellis & Everh.) Arx SPECIES
-=======
+# Pseudomassaria agrifolia (Ellis & Everh.) Arx SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora marginalis Hasse SPECIES
-=======
+# Lecanora marginalis Hasse SPECIES
 
 #### Status
 ACCEPTED

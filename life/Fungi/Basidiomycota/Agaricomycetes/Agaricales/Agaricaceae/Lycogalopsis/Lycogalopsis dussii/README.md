@@ -1,5 +1,4 @@
-Lycogalopsis dussii Pat. SPECIES
-=======
+# Lycogalopsis dussii Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rugidinium ornatum Pocock & Sarjeant, 1972 SPECIES
-=======
+# Rugidinium ornatum Pocock & Sarjeant, 1972 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heterodothis leptotheca Syd. & P. Syd. SPECIES
-=======
+# Heterodothis leptotheca Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

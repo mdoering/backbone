@@ -1,5 +1,4 @@
-Dichomyces lepidus Thaxt. SPECIES
-=======
+# Dichomyces lepidus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

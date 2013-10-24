@@ -1,5 +1,4 @@
-Asterina dipholidis Petr. & Cif. SPECIES
-=======
+# Asterina dipholidis Petr. & Cif. SPECIES
 
 #### Status
 ACCEPTED

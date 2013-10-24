@@ -1,5 +1,4 @@
-Microspongium gelatinosum Reinke SPECIES
-=======
+# Microspongium gelatinosum Reinke SPECIES
 
 #### Status
 ACCEPTED

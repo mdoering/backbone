@@ -1,5 +1,4 @@
-Eoterfezia parasitica G.F. Atk., 1902 SPECIES
-=======
+# Eoterfezia parasitica G.F. Atk., 1902 SPECIES
 
 #### Status
 ACCEPTED

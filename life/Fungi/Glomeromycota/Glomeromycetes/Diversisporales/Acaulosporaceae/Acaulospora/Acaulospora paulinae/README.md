@@ -1,5 +1,4 @@
-Acaulospora paulinae Blaszk. SPECIES
-=======
+# Acaulospora paulinae Blaszk. SPECIES
 
 #### Status
 ACCEPTED

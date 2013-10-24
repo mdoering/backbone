@@ -1,5 +1,4 @@
-Ascochyta thalictricola Gonz. Frag. SPECIES
-=======
+# Ascochyta thalictricola Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

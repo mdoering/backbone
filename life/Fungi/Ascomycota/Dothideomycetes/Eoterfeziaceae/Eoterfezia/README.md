@@ -1,5 +1,4 @@
-Eoterfezia G.F. Atk. GENUS
-=======
+# Eoterfezia G.F. Atk. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochyta atropae Bres. SPECIES
-=======
+# Ascochyta atropae Bres. SPECIES
 
 #### Status
 ACCEPTED

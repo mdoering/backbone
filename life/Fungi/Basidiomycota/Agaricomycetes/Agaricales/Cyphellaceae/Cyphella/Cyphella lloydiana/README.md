@@ -1,5 +1,4 @@
-Cyphella lloydiana Pilát SPECIES
-=======
+# Cyphella lloydiana Pilát SPECIES
 
 #### Status
 ACCEPTED

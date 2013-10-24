@@ -1,5 +1,4 @@
-Ramalina intricata Kremp. SPECIES
-=======
+# Ramalina intricata Kremp. SPECIES
 
 #### Status
 ACCEPTED

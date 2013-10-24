@@ -1,5 +1,4 @@
-Discinella lividopurpurea Boud. SPECIES
-=======
+# Discinella lividopurpurea Boud. SPECIES
 
 #### Status
 ACCEPTED

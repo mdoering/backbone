@@ -1,5 +1,4 @@
-Fusarium flavidum (Bonord.) Sacc. SPECIES
-=======
+# Fusarium flavidum (Bonord.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

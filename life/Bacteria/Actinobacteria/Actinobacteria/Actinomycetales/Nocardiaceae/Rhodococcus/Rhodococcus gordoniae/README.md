@@ -1,5 +1,4 @@
-Rhodococcus gordoniae Jones et al., 2004 SPECIES
-=======
+# Rhodococcus gordoniae Jones et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia heketara G. Cunn. SPECIES
-=======
+# Puccinia heketara G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

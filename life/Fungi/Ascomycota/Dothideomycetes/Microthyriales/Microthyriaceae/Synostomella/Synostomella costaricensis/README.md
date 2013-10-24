@@ -1,5 +1,4 @@
-Synostomella costaricensis Syd. SPECIES
-=======
+# Synostomella costaricensis Syd. SPECIES
 
 #### Status
 ACCEPTED

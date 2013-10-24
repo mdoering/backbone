@@ -1,5 +1,4 @@
-Gloeocapsa bahamensis Collins SPECIES
-=======
+# Gloeocapsa bahamensis Collins SPECIES
 
 #### Status
 ACCEPTED

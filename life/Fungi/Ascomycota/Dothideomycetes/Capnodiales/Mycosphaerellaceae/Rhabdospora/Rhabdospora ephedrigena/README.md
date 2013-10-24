@@ -1,5 +1,4 @@
-Rhabdospora ephedrigena Bubák SPECIES
-=======
+# Rhabdospora ephedrigena Bubák SPECIES
 
 #### Status
 ACCEPTED

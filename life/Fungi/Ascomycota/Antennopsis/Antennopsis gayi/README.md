@@ -1,5 +1,4 @@
-Antennopsis gayi Buchli SPECIES
-=======
+# Antennopsis gayi Buchli SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helvella tabacina Mont. SPECIES
-=======
+# Helvella tabacina Mont. SPECIES
 
 #### Status
 ACCEPTED

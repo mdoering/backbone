@@ -1,5 +1,4 @@
-Asterina melanotes Syd. SPECIES
-=======
+# Asterina melanotes Syd. SPECIES
 
 #### Status
 ACCEPTED

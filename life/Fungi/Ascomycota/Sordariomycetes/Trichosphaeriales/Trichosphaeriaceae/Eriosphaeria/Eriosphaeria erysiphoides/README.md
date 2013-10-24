@@ -1,5 +1,4 @@
-Eriosphaeria erysiphoides Rehm SPECIES
-=======
+# Eriosphaeria erysiphoides Rehm SPECIES
 
 #### Status
 ACCEPTED

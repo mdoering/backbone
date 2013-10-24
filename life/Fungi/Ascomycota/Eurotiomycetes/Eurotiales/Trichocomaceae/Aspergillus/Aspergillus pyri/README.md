@@ -1,5 +1,4 @@
-Aspergillus pyri W.H. English SPECIES
-=======
+# Aspergillus pyri W.H. English SPECIES
 
 #### Status
 ACCEPTED

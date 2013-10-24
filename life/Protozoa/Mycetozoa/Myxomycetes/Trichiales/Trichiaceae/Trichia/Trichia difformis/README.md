@@ -1,5 +1,4 @@
-Trichia difformis Schwein. SPECIES
-=======
+# Trichia difformis Schwein. SPECIES
 
 #### Status
 ACCEPTED

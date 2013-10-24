@@ -1,5 +1,4 @@
-Mycosphaerella pataguae (Speg.) Cash SPECIES
-=======
+# Mycosphaerella pataguae (Speg.) Cash SPECIES
 
 #### Status
 ACCEPTED

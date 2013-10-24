@@ -1,14 +1,13 @@
-Nolanea lucida P.D. Orton, 1960 SPECIES
-=======
+# Entoloma lucidum (P.D. Orton) M.M. Moser, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 43(2): 331 (1960)
+in Gams, Kleine Kryptogamenflora (Stuttgart), Bd <b>II</b> b/2, ed. 4 2b/2: 206 (1978)
 
 #### Original name
 Nolanea lucida P.D. Orton, 1960

@@ -1,5 +1,4 @@
-Eremotheciaceae Kurtzman FAMILY
-=======
+# Eremotheciaceae Kurtzman FAMILY
 
 #### Status
 ACCEPTED

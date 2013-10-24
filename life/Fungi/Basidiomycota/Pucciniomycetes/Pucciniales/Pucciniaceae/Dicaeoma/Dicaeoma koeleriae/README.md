@@ -1,5 +1,4 @@
-Dicaeoma koeleriae (Arthur) Arthur & Fromme SPECIES
-=======
+# Dicaeoma koeleriae (Arthur) Arthur & Fromme SPECIES
 
 #### Status
 ACCEPTED

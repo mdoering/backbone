@@ -1,5 +1,4 @@
-Astrocystis smilacicola (Schwein.) Laessøe & Spooner SPECIES
-=======
+# Astrocystis smilacicola (Schwein.) Laessøe & Spooner SPECIES
 
 #### Status
 ACCEPTED

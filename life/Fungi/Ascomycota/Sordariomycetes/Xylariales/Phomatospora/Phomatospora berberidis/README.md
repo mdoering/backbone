@@ -1,5 +1,4 @@
-Phomatospora berberidis Richon SPECIES
-=======
+# Phomatospora berberidis Richon SPECIES
 
 #### Status
 ACCEPTED

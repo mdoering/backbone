@@ -1,5 +1,4 @@
-Hendersonia cirrata (Pat.) Kuntze SPECIES
-=======
+# Hendersonia cirrata (Pat.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

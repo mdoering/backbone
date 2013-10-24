@@ -1,5 +1,4 @@
-Puccinia koedoeensis Doidge SPECIES
-=======
+# Puccinia koedoeensis Doidge SPECIES
 
 #### Status
 ACCEPTED

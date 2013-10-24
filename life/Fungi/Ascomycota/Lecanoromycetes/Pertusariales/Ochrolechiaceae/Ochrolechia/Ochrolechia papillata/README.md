@@ -1,5 +1,4 @@
-Ochrolechia papillata (Räsänen) Verseghy SPECIES
-=======
+# Ochrolechia papillata (Räsänen) Verseghy SPECIES
 
 #### Status
 ACCEPTED

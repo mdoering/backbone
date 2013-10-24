@@ -1,5 +1,4 @@
-Karsteniomyces D. Hawksw. GENUS
-=======
+# Karsteniomyces D. Hawksw. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heterosporium luci Chevaug. SPECIES
-=======
+# Heterosporium luci Chevaug. SPECIES
 
 #### Status
 ACCEPTED

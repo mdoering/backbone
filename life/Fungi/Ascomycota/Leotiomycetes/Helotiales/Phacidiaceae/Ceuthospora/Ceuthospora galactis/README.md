@@ -1,5 +1,4 @@
-Ceuthospora galactis (Henn.) Died. SPECIES
-=======
+# Ceuthospora galactis (Henn.) Died. SPECIES
 
 #### Status
 ACCEPTED

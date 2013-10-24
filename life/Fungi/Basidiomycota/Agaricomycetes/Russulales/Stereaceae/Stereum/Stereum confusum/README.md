@@ -1,5 +1,4 @@
-Stereum confusum Berk. ex F. Muell. SPECIES
-=======
+# Stereum confusum Berk. ex F. Muell. SPECIES
 
 #### Status
 ACCEPTED

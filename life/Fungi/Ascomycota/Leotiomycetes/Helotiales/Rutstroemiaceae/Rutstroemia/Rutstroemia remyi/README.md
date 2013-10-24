@@ -1,5 +1,4 @@
-Rutstroemia remyi Fortoul & G. Nardi SPECIES
-=======
+# Rutstroemia remyi Fortoul & G. Nardi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria punctiformis-fossilis A. Braun SPECIES
-=======
+# Sphaeria punctiformis-fossilis A. Braun SPECIES
 
 #### Status
 ACCEPTED

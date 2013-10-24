@@ -1,5 +1,4 @@
-Colletotrichum acanthostachydis Novoss. SPECIES
-=======
+# Colletotrichum acanthostachydis Novoss. SPECIES
 
 #### Status
 ACCEPTED

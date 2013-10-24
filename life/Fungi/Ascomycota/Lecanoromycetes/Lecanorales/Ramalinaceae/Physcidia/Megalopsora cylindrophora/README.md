@@ -1,5 +1,4 @@
-Megalopsora cylindrophora (Taylor) Vain. SPECIES
-=======
+# Megalopsora cylindrophora (Taylor) Vain. SPECIES
 
 #### Status
 ACCEPTED

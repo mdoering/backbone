@@ -1,5 +1,4 @@
-Roccellinastrum candidum (Müll. Arg.) Henssen SPECIES
-=======
+# Roccellinastrum candidum (Müll. Arg.) Henssen SPECIES
 
 #### Status
 ACCEPTED

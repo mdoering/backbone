@@ -1,14 +1,13 @@
-Agaricus subtortus Pers., 1801 SPECIES
-=======
+# Cortinarius subtortus (Pers.) Fr., 1838 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syn. meth. fung. (Göttingen) 2: 284 (1801)
+Epicr. syst. mycol. (Upsaliae) 273 (1838)
 
 #### Original name
 Agaricus subtortus Pers., 1801

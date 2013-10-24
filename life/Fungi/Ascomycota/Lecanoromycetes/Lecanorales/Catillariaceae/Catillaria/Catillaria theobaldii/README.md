@@ -1,5 +1,4 @@
-Catillaria theobaldii Körb. SPECIES
-=======
+# Catillaria theobaldii Körb. SPECIES
 
 #### Status
 ACCEPTED

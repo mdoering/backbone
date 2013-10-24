@@ -1,5 +1,4 @@
-Paenibacillus taiwanensis Lee et al., 2007 SPECIES
-=======
+# Paenibacillus taiwanensis Lee et al., 2007 SPECIES
 
 #### Status
 ACCEPTED

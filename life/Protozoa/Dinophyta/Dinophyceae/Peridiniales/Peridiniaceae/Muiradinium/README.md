@@ -1,5 +1,4 @@
-Muiradinium R. Harland & W.A.S. Sarjeant, 1970 GENUS
-=======
+# Muiradinium R. Harland & W.A.S. Sarjeant, 1970 GENUS
 
 #### Status
 ACCEPTED

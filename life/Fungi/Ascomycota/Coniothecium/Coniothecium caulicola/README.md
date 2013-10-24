@@ -1,5 +1,4 @@
-Coniothecium caulicola P. Karst. SPECIES
-=======
+# Coniothecium caulicola P. Karst. SPECIES
 
 #### Status
 ACCEPTED

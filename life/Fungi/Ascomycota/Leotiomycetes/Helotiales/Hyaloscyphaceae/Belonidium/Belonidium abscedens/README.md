@@ -1,5 +1,4 @@
-Belonidium abscedens (P. Crouan & H. Crouan) Sacc. SPECIES
-=======
+# Belonidium abscedens (P. Crouan & H. Crouan) Sacc. SPECIES
 
 #### Status
 ACCEPTED

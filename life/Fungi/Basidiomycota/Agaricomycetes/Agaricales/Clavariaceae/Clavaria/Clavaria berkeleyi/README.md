@@ -1,5 +1,4 @@
-Clavaria berkeleyi Mont. SPECIES
-=======
+# Clavaria berkeleyi Mont. SPECIES
 
 #### Status
 ACCEPTED

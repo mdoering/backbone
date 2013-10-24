@@ -1,5 +1,4 @@
-Laboulbenia diplocheilae Terada SPECIES
-=======
+# Laboulbenia diplocheilae Terada SPECIES
 
 #### Status
 ACCEPTED

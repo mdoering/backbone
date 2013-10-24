@@ -1,5 +1,4 @@
-Glomus tortuosam Schenck & Smith SPECIES
-=======
+# Glomus tortuosam Schenck & Smith SPECIES
 
 #### Status
 ACCEPTED

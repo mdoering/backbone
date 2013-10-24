@@ -1,17 +1,16 @@
-Arcangeliella claridgei (Trappe) Trappe & Claridge, 2008 SPECIES
-=======
+# Zelleromyces claridgei Trappe, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Trappe & Claridge, Australas. Mycol. 22(1): 34 (2003)
 
 #### Original name
-null
+Zelleromyces claridgei Trappe, 2003
 
 ### Remarks
 null

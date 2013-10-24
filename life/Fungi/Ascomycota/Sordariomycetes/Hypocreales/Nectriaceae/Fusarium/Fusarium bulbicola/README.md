@@ -1,14 +1,13 @@
-Fusarium sacchari var. elongatum Nirenberg, 1976 VARIETY
-=======
+# Fusarium bulbicola Nirenberg & O'Donnell, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mitt. biol. BundAust. Land. -u. Forstw. 169: 59 (1976)
+Mycologia 90(3): 452 (1998)
 
 #### Original name
 Fusarium sacchari var. elongatum Nirenberg, 1976

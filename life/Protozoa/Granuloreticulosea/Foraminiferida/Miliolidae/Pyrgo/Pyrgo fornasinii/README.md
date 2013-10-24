@@ -1,5 +1,4 @@
-Pyrgo fornasinii SPECIES
-=======
+# Pyrgo fornasinii SPECIES
 
 #### Status
 ACCEPTED

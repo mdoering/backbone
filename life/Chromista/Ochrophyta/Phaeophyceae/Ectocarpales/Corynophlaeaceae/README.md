@@ -1,5 +1,4 @@
-Corynophlaeaceae FAMILY
-=======
+# Corynophlaeaceae FAMILY
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Phyllosticta coniothyrioidea Gonz. Frag. SPECIES
-=======
+# Phyllosticta coniothyrioides Gonz. Frag. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bolm Soc. broteriana, sér. 2 2: 70 (1924)
 
 #### Original name
-Phyllosticta coniothyrioidea Gonz. Frag.
+Phyllosticta coniothyrioides Gonz. Frag.
 
 ### Remarks
 null

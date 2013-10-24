@@ -1,5 +1,4 @@
-Xiambola mirabilis Minter & Hol.-Jech., 1981 SPECIES
-=======
+# Xiambola mirabilis Minter & Hol.-Jech., 1981 SPECIES
 
 #### Status
 ACCEPTED

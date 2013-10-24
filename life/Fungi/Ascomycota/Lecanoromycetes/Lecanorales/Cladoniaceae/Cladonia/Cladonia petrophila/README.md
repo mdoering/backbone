@@ -1,5 +1,4 @@
-Cladonia petrophila R.C. Harris SPECIES
-=======
+# Cladonia petrophila R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

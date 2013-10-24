@@ -1,5 +1,4 @@
-Myxococcoides globosa P. K. Maithy & M. Shukla SPECIES
-=======
+# Myxococcoides globosa P. K. Maithy & M. Shukla SPECIES
 
 #### Status
 ACCEPTED

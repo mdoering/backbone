@@ -1,5 +1,4 @@
-Chaetomium cymatotrichum Cooke SPECIES
-=======
+# Chaetomium cymatotrichum Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces wedeliae Henn., 1904 SPECIES
-=======
+# Uromyces wedeliae Henn., 1904 SPECIES
 
 #### Status
 ACCEPTED

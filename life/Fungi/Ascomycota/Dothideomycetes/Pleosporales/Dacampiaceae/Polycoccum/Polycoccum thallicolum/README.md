@@ -1,5 +1,4 @@
-Polycoccum thallicolum Arnold SPECIES
-=======
+# Polycoccum thallicolum Arnold SPECIES
 
 #### Status
 ACCEPTED

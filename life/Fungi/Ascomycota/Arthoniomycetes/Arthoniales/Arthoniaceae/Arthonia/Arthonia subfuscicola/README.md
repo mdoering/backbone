@@ -1,17 +1,16 @@
-Arthonia glaucomaria var. pallidae Rehm ex Almq. VARIETY
-=======
+# Arthonia subfuscicola (Linds.) Triebel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 42: 268 (1991)
 
 #### Original name
-null
+Microthelia subfuscicola Linds.
 
 ### Remarks
 null

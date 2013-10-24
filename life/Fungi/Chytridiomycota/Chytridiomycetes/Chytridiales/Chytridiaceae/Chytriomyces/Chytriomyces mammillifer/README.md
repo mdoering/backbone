@@ -1,17 +1,16 @@
-Chytriomyces mammilifer Persiel SPECIES
-=======
+# Chytriomyces mammillifer Persiel, 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Arch. Mikrobiol. 36: 299 (1960)
 
 #### Original name
-Chytriomyces mammilifer Persiel
+Chytriomyces mammillifer Persiel, 1960
 
 ### Remarks
 null

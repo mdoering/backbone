@@ -1,5 +1,4 @@
-Thelephora dactylites Corner, 1968 SPECIES
-=======
+# Thelephora dactylites Corner, 1968 SPECIES
 
 #### Status
 ACCEPTED

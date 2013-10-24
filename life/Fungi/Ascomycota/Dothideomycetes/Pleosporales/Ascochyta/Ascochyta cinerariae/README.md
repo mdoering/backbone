@@ -1,5 +1,4 @@
-Ascochyta cinerariae Tassi SPECIES
-=======
+# Ascochyta cinerariae Tassi SPECIES
 
 #### Status
 ACCEPTED

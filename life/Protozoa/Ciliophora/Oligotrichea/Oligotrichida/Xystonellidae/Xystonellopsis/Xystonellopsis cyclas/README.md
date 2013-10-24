@@ -1,5 +1,4 @@
-Xystonellopsis cyclas Kofoid & Campbell, 1929 SPECIES
-=======
+# Xystonellopsis cyclas Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

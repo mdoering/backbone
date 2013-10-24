@@ -1,5 +1,4 @@
-Taeniolella longissima R.A. Eaton & E.B.G. Jones SPECIES
-=======
+# Taeniolella longissima R.A. Eaton & E.B.G. Jones SPECIES
 
 #### Status
 ACCEPTED

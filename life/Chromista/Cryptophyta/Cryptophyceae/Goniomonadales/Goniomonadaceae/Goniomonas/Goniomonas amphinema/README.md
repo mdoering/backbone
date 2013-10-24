@@ -1,5 +1,4 @@
-Goniomonas amphinema (Fresenius) Larsen & Patterson, 1990 SPECIES
-=======
+# Goniomonas amphinema (Fresenius) Larsen & Patterson, 1990 SPECIES
 
 #### Status
 ACCEPTED

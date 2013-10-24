@@ -1,5 +1,4 @@
-Aseroe rubra Labill., 1800 SPECIES
-=======
+# Aseroe rubra Labill., 1800 SPECIES
 
 #### Status
 ACCEPTED

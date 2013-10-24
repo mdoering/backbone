@@ -1,5 +1,4 @@
-Trichothyrina elegans (Doidge) Petr. SPECIES
-=======
+# Trichothyrina elegans (Doidge) Petr. SPECIES
 
 #### Status
 ACCEPTED

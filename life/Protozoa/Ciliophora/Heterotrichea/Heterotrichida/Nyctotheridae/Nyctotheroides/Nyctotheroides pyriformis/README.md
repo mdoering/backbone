@@ -1,5 +1,4 @@
-Nyctotheroides pyriformis (Nie, 1932) Earl, 1970 SPECIES
-=======
+# Nyctotheroides pyriformis (Nie, 1932) Earl, 1970 SPECIES
 
 #### Status
 ACCEPTED

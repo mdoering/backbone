@@ -1,5 +1,4 @@
-Hartiella coccinea Massee SPECIES
-=======
+# Hartiella coccinea Massee SPECIES
 
 #### Status
 ACCEPTED

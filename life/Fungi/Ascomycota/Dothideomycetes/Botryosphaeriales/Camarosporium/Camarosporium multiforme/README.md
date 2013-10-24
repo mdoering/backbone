@@ -1,5 +1,4 @@
-Camarosporium multiforme P. Karst. SPECIES
-=======
+# Camarosporium multiforme P. Karst. SPECIES
 
 #### Status
 ACCEPTED

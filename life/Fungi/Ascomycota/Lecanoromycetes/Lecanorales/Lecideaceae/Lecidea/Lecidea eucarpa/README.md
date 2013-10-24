@@ -1,5 +1,4 @@
-Lecidea eucarpa Nyl. SPECIES
-=======
+# Lecidea eucarpa Nyl. SPECIES
 
 #### Status
 ACCEPTED

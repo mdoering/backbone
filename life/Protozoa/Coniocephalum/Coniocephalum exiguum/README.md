@@ -1,5 +1,4 @@
-Coniocephalum exiguum Brond. SPECIES
-=======
+# Coniocephalum exiguum Brond. SPECIES
 
 #### Status
 ACCEPTED

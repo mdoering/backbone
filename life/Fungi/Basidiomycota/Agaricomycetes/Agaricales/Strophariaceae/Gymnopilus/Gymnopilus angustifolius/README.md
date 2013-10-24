@@ -1,5 +1,4 @@
-Gymnopilus angustifolius Hesler SPECIES
-=======
+# Gymnopilus angustifolius Hesler SPECIES
 
 #### Status
 ACCEPTED

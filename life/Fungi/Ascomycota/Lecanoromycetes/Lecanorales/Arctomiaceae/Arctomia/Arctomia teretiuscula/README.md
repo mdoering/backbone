@@ -1,5 +1,4 @@
-Arctomia teretiuscula P. M. Jørg. SPECIES
-=======
+# Arctomia teretiuscula P. M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta arbuti-unedonis Pass. SPECIES
-=======
+# Phyllosticta arbuti-unedonis Pass. SPECIES
 
 #### Status
 ACCEPTED

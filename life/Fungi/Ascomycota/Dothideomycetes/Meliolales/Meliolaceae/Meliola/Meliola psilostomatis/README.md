@@ -1,5 +1,4 @@
-Meliola psilostomatis Thüm. SPECIES
-=======
+# Meliola psilostomatis Thüm. SPECIES
 
 #### Status
 ACCEPTED

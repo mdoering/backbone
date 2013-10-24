@@ -1,5 +1,4 @@
-Stereocaulon argellum I.M. Lamb SPECIES
-=======
+# Stereocaulon argellum I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

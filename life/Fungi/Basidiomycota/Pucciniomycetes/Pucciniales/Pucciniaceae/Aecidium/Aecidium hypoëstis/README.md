@@ -1,5 +1,4 @@
-Aecidium hypoëstis Syd. SPECIES
-=======
+# Aecidium hypoëstis Syd. SPECIES
 
 #### Status
 ACCEPTED

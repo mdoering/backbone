@@ -1,5 +1,4 @@
-Cercospora yuccae Cooke SPECIES
-=======
+# Cercospora yuccae Cooke SPECIES
 
 #### Status
 ACCEPTED

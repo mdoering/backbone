@@ -1,5 +1,4 @@
-Discorbina inflata Heron-Allen & Earland, 1924 SPECIES
-=======
+# Discorbina inflata Heron-Allen & Earland, 1924 SPECIES
 
 #### Status
 ACCEPTED

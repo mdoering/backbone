@@ -1,5 +1,4 @@
-Sphenophrya myae Mjassnikowa, 1930 SPECIES
-=======
+# Sphenophrya myae Mjassnikowa, 1930 SPECIES
 
 #### Status
 ACCEPTED

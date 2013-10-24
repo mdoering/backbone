@@ -1,5 +1,4 @@
-Meliola arecibensis F. Stevens SPECIES
-=======
+# Meliola arecibensis F. Stevens SPECIES
 
 #### Status
 ACCEPTED

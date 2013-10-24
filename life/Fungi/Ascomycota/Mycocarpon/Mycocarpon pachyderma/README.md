@@ -1,5 +1,4 @@
-Mycocarpon pachyderma (Will.) S.A. Hutch. SPECIES
-=======
+# Mycocarpon pachyderma (Will.) S.A. Hutch. SPECIES
 
 #### Status
 ACCEPTED

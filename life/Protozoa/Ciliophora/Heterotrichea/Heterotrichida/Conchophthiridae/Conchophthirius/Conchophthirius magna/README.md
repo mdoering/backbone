@@ -1,5 +1,4 @@
-Conchophthirius magna SPECIES
-=======
+# Conchophthirius magna SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Ascochyta cruris-galli Brunaud SPECIES
-=======
+# Ascochyta crus-galli Brunaud SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ascochyta cruris-galli Brunaud
+Ascochyta crus-galli Brunaud
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Mycosphaerella advena Syd. SPECIES
-=======
+# Mycosphaerella advena Syd. SPECIES
 
 #### Status
 ACCEPTED

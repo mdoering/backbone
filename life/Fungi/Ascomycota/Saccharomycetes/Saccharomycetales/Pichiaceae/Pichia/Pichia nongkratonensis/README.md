@@ -1,5 +1,4 @@
-Pichia nongkratonensis Nakase & Jindam., 2005 SPECIES
-=======
+# Pichia nongkratonensis Nakase & Jindam., 2005 SPECIES
 
 #### Status
 ACCEPTED

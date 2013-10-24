@@ -1,5 +1,4 @@
-Pelagothrix alveolata (Kahl, 1926) Foissner, Berger & Schaumburg, 1999 SPECIES
-=======
+# Pelagothrix alveolata (Kahl, 1926) Foissner, Berger & Schaumburg, 1999 SPECIES
 
 #### Status
 ACCEPTED

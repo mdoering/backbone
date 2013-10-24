@@ -1,8 +1,7 @@
-Lagenophrys spinosa Kane, 1965 SPECIES
-=======
+# Setonophrys spinosa (Kane, 1965) Clamp, 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

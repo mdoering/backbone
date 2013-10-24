@@ -1,5 +1,4 @@
-Hauerslevia P. Roberts GENUS
-=======
+# Hauerslevia P. Roberts GENUS
 
 #### Status
 ACCEPTED

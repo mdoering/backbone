@@ -1,5 +1,4 @@
-Nakataea rarissima R.F. Castañeda & W.B. Kendr. SPECIES
-=======
+# Nakataea rarissima R.F. Castañeda & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

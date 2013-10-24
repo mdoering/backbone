@@ -1,5 +1,4 @@
-Hyperrhiza aurea Rabenh. SPECIES
-=======
+# Hyperrhiza aurea Rabenh. SPECIES
 
 #### Status
 ACCEPTED

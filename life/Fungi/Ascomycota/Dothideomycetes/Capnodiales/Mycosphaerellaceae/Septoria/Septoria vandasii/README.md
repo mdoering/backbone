@@ -1,5 +1,4 @@
-Septoria vandasii Bubák SPECIES
-=======
+# Septoria vandasii Bubák SPECIES
 
 #### Status
 ACCEPTED

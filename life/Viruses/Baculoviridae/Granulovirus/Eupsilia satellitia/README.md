@@ -1,5 +1,4 @@
-Eupsilia satellitia GV SPECIES
-=======
+# Eupsilia satellitia GV SPECIES
 
 #### Status
 ACCEPTED

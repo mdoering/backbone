@@ -1,5 +1,4 @@
-Peziza inquinans Cooke SPECIES
-=======
+# Peziza inquinans Cooke SPECIES
 
 #### Status
 ACCEPTED

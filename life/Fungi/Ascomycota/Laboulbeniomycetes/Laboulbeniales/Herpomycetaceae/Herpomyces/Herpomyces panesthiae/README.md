@@ -1,5 +1,4 @@
-Herpomyces panesthiae Thaxt. SPECIES
-=======
+# Herpomyces panesthiae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

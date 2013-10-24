@@ -1,5 +1,4 @@
-Collema lanatum Pers. SPECIES
-=======
+# Collema lanatum Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cribraria ferruginea Meyl., 1913 SPECIES
-=======
+# Cribraria ferruginea Meyl., 1913 SPECIES
 
 #### Status
 ACCEPTED

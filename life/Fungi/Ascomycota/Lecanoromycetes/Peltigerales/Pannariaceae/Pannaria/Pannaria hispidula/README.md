@@ -1,5 +1,4 @@
-Pannaria hispidula (Nyl.) Hue SPECIES
-=======
+# Pannaria hispidula (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

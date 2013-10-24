@@ -1,17 +1,16 @@
-Dacrymyces tortus f. tortus Fr. FORM
-=======
+# Dacrymyces tortus (Willd.) Fr., 1828 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Elench. fung. (Halle) 2: 36 (1828)
 
 #### Original name
-Dacrymyces tortus f. tortus Fr.
+null
 
 ### Remarks
 null

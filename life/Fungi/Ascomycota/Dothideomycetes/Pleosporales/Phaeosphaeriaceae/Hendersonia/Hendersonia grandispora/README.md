@@ -1,5 +1,4 @@
-Hendersonia grandispora McAlpine SPECIES
-=======
+# Hendersonia grandispora McAlpine SPECIES
 
 #### Status
 ACCEPTED

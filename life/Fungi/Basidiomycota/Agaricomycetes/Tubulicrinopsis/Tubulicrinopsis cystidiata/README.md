@@ -1,5 +1,4 @@
-Tubulicrinopsis cystidiata Kotir. & Miettinen, 2007 SPECIES
-=======
+# Tubulicrinopsis cystidiata Kotir. & Miettinen, 2007 SPECIES
 
 #### Status
 ACCEPTED

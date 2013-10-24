@@ -1,5 +1,4 @@
-Sclerotium giganteum Rostr. SPECIES
-=======
+# Sclerotium giganteum Rostr. SPECIES
 
 #### Status
 ACCEPTED

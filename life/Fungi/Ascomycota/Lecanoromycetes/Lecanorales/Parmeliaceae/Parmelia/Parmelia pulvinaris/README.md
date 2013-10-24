@@ -1,5 +1,4 @@
-Parmelia pulvinaris f. pulvinaris FORM
-=======
+# Parmelia pulvinaris (Zahlbr.) Gyeln. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Repert. Spec. Nov. Regni Veg. 29: 155
 
 #### Original name
-Parmelia pulvinaris f. pulvinaris
+Parmelia conspersa var. pulvinaris Zahlbr. ex Gyelnik
 
 ### Remarks
 null

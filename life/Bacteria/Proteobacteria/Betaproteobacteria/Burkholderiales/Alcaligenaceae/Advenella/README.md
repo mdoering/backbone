@@ -1,5 +1,4 @@
-Advenella Coenye et al., 2005 GENUS
-=======
+# Advenella Coenye et al., 2005 GENUS
 
 #### Status
 ACCEPTED

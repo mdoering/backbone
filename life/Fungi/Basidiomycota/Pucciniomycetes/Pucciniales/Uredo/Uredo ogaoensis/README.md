@@ -1,5 +1,4 @@
-Uredo ogaoensis Cummins SPECIES
-=======
+# Uredo ogaoensis Cummins SPECIES
 
 #### Status
 ACCEPTED

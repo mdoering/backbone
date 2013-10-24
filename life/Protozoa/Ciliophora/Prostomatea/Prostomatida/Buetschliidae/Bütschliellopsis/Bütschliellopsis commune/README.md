@@ -1,5 +1,4 @@
-Bütschliellopsis commune SPECIES
-=======
+# Bütschliellopsis commune SPECIES
 
 #### Status
 ACCEPTED

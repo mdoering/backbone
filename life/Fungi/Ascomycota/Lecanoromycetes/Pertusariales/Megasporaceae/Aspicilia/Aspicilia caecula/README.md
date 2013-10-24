@@ -1,5 +1,4 @@
-Aspicilia caecula (Ach.) Anzi SPECIES
-=======
+# Aspicilia caecula (Ach.) Anzi SPECIES
 
 #### Status
 ACCEPTED

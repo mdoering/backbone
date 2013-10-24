@@ -1,5 +1,4 @@
-Isaria strigosa Fr. SPECIES
-=======
+# Isaria strigosa Fr. SPECIES
 
 #### Status
 ACCEPTED

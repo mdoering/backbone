@@ -1,5 +1,4 @@
-Staurolemma carolinianum P.M. Jørg. SPECIES
-=======
+# Staurolemma carolinianum P.M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septonema tabacinum Ellis & Harkn. SPECIES
-=======
+# Septonema tabacinum Ellis & Harkn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichodina sphaeroidesi Padnos & Nigrelli, 1942 SPECIES
-=======
+# Trichodina sphaeroidesi Padnos & Nigrelli, 1942 SPECIES
 
 #### Status
 ACCEPTED

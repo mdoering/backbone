@@ -1,5 +1,4 @@
-Enterographa graphioides Cromb. SPECIES
-=======
+# Enterographa graphioides Cromb. SPECIES
 
 #### Status
 ACCEPTED

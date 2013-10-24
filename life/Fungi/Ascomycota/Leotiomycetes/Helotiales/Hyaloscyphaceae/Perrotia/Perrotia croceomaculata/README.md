@@ -1,5 +1,4 @@
-Perrotia croceomaculata (Höhn.) Sacc. & D. Sacc. SPECIES
-=======
+# Perrotia croceomaculata (Höhn.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

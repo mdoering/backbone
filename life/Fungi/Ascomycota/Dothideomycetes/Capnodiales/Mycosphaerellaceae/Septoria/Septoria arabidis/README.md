@@ -1,5 +1,4 @@
-Septoria arabidis Sacc. SPECIES
-=======
+# Septoria arabidis Sacc. SPECIES
 
 #### Status
 ACCEPTED

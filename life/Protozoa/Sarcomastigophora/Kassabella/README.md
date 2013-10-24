@@ -1,5 +1,4 @@
-Kassabella El-Nakhal, 1984 GENUS
-=======
+# Kassabella El-Nakhal, 1984 GENUS
 
 #### Status
 ACCEPTED

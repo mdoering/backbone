@@ -1,5 +1,4 @@
-Phyllachora fici-variolosae Petr., 1947 SPECIES
-=======
+# Phyllachora fici-variolosae Petr., 1947 SPECIES
 
 #### Status
 DOUBTFUL

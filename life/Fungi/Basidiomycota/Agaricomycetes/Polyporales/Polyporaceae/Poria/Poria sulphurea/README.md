@@ -1,5 +1,4 @@
-Poria sulphurea Petch SPECIES
-=======
+# Poria sulphurea Petch SPECIES
 
 #### Status
 ACCEPTED

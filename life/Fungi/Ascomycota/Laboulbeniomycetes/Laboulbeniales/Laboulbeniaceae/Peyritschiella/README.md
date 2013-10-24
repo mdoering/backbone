@@ -1,17 +1,16 @@
-Rheophila Cépède & F. Picard GENUS
-=======
+# Peyritschiella Thaxt. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Compt. Rend. Assoc. Franç. Avancem. Sci. , 36e sess. , Reims 1907 783 (1907)
+Proc. Amer. Acad. Arts & Sci. 25: 8 (1890)
 
 #### Original name
-Rheophila Cépède & F. Picard
+Peyritschiella Thaxt.
 
 ### Remarks
 null

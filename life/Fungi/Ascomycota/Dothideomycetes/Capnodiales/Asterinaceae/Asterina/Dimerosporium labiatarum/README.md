@@ -1,17 +1,16 @@
-Dimerosporium labiatorum Pat. SPECIES
-=======
+# Dimerosporium labiatarum Pat. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Herb. Boissier 3: 66 (1895)
 
 #### Original name
-Dimerosporium labiatorum Pat.
+Dimerosporium labiatarum Pat.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Hendersonia mariae Clinton SPECIES
-=======
+# Hendersonia mariae Clinton SPECIES
 
 #### Status
 ACCEPTED

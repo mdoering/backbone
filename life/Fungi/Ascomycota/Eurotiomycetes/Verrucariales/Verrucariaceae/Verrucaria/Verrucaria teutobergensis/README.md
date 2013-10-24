@@ -1,5 +1,4 @@
-Verrucaria teutobergensis SPECIES
-=======
+# Verrucaria teutobergensis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entosordaria cacti (Schwein.) Höhn. SPECIES
-=======
+# Entosordaria cacti (Schwein.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

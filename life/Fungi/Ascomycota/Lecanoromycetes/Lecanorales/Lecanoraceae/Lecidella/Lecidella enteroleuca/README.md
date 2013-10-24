@@ -1,5 +1,4 @@
-Lecidella enteroleuca (Ach.) Körb. SPECIES
-=======
+# Lecidella enteroleuca (Ach.) Körb. SPECIES
 
 #### Status
 ACCEPTED

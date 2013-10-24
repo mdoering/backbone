@@ -1,5 +1,4 @@
-Trichocladium fuscum (Hall. {?} ) Sacc. & Traverso SPECIES
-=======
+# Trichocladium fuscum (Hall. {?} ) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

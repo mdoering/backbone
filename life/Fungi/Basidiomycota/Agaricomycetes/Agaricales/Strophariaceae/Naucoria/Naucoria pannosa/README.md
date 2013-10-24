@@ -1,5 +1,4 @@
-Naucoria pannosa (Fr.) Sacc. SPECIES
-=======
+# Naucoria pannosa (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

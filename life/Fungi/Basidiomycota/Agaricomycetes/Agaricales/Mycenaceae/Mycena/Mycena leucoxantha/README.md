@@ -1,5 +1,4 @@
-Mycena leucoxantha Singer SPECIES
-=======
+# Mycena leucoxantha Singer SPECIES
 
 #### Status
 ACCEPTED

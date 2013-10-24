@@ -1,5 +1,4 @@
-Stictis sphaeroboloidea Ellis SPECIES
-=======
+# Stictis sphaeroboloidea Ellis SPECIES
 
 #### Status
 ACCEPTED

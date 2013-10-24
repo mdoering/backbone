@@ -1,5 +1,4 @@
-Septoria allii Moesz SPECIES
-=======
+# Septoria allii Moesz SPECIES
 
 #### Status
 ACCEPTED

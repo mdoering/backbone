@@ -1,5 +1,4 @@
-Badhamia gracillis (Macbr.) Macbr. SPECIES
-=======
+# Badhamia gracillis (Macbr.) Macbr. SPECIES
 
 #### Status
 ACCEPTED

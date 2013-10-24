@@ -1,5 +1,4 @@
-Geleia acuta Dragesco, 1960 SPECIES
-=======
+# Geleia acuta Dragesco, 1960 SPECIES
 
 #### Status
 ACCEPTED

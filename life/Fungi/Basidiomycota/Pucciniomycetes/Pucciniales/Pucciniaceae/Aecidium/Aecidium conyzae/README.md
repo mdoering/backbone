@@ -1,5 +1,4 @@
-Aecidium conyzae Henn. SPECIES
-=======
+# Aecidium conyzae Henn. SPECIES
 
 #### Status
 ACCEPTED

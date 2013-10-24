@@ -1,5 +1,4 @@
-Gnomonia appendiculata A.K. Kar & Maity SPECIES
-=======
+# Gnomonia appendiculata A.K. Kar & Maity SPECIES
 
 #### Status
 ACCEPTED

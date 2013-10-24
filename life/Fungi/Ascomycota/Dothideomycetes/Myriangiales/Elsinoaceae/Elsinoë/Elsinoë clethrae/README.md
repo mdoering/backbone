@@ -1,5 +1,4 @@
-Elsinoë clethrae Bitanc. & Jenkins SPECIES
-=======
+# Elsinoë clethrae Bitanc. & Jenkins SPECIES
 
 #### Status
 ACCEPTED

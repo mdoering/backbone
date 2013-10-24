@@ -1,5 +1,4 @@
-Anisomeridium pacificum (P.M. McCarthy) R.C. Harris SPECIES
-=======
+# Anisomeridium pacificum (P.M. McCarthy) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

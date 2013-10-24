@@ -1,5 +1,4 @@
-Pyrenopsis subcooperta Anzi SPECIES
-=======
+# Pyrenopsis subcooperta Anzi SPECIES
 
 #### Status
 ACCEPTED

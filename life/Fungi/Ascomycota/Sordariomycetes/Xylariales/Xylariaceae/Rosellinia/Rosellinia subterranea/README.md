@@ -1,5 +1,4 @@
-Rosellinia subterranea Sacc. & P. Syd. SPECIES
-=======
+# Rosellinia subterranea Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

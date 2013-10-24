@@ -1,14 +1,13 @@
-Crepidotus subnidulans (Overh.) Hesler & A.H. Sm., 1965 SPECIES
-=======
+# Phyllotopsis subnidulans (Overh.) Singer, 1936 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-North American species of Crepidotus 71 (1965)
+Beih. bot. Zbl. 56: 143 (1936)
 
 #### Original name
 Claudopus subnidulans Overh., 1916

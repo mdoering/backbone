@@ -1,5 +1,4 @@
-Porina sanctae-rosae Vain. SPECIES
-=======
+# Porina sanctae-rosae Vain. SPECIES
 
 #### Status
 ACCEPTED

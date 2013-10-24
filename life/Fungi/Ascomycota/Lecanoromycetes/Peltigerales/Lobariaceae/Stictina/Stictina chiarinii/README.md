@@ -1,5 +1,4 @@
-Stictina chiarinii (Jatta) C.W. Dodge SPECIES
-=======
+# Stictina chiarinii (Jatta) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

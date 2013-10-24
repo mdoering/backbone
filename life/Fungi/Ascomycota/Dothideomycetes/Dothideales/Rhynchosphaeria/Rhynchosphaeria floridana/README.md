@@ -1,5 +1,4 @@
-Rhynchosphaeria floridana Petr. SPECIES
-=======
+# Rhynchosphaeria floridana Petr. SPECIES
 
 #### Status
 ACCEPTED

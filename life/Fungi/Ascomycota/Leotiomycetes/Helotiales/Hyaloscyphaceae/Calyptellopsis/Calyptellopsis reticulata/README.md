@@ -1,14 +1,13 @@
-Hyaloscypha reticulata Vacek, 1948 SPECIES
-=======
+# Calyptellopsis reticulata (Vacek) Svrcek, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ceská Mykol. 2: 119 (1948)
+Ceská Mykol. 40(4): 203 (1986)
 
 #### Original name
 Hyaloscypha reticulata Vacek, 1948

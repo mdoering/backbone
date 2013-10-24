@@ -1,5 +1,4 @@
-Chapsa isidiifera Frisch & Kalb SPECIES
-=======
+# Chapsa isidiifera Frisch & Kalb SPECIES
 
 #### Status
 ACCEPTED

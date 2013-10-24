@@ -1,5 +1,4 @@
-Didymella segna (Cooke & Ellis) Sacc. SPECIES
-=======
+# Didymella segna (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trachelocerca coronata Morgan, 1925 SPECIES
-=======
+# Trachelocerca coronata Morgan, 1925 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Loxophyllum lionotiforme subsp. lionotiforme Kahl, 1930 SUBSPECIES
-=======
+# Loxophyllum lionotiforme Kahl, 1930 SPECIES
 
 #### Status
 ACCEPTED

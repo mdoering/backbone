@@ -1,5 +1,4 @@
-Meliola grevilleae-gillivrayi B. Huguenin SPECIES
-=======
+# Meliola grevilleae-gillivrayi B. Huguenin SPECIES
 
 #### Status
 ACCEPTED

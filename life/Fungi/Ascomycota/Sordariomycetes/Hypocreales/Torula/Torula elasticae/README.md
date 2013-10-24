@@ -1,5 +1,4 @@
-Torula elasticae (Koord.) Sacc. & Trotter SPECIES
-=======
+# Torula elasticae (Koord.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

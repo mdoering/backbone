@@ -1,5 +1,4 @@
-Peziza nemorosa (Humb.) Steud. SPECIES
-=======
+# Peziza nemorosa (Humb.) Steud. SPECIES
 
 #### Status
 ACCEPTED

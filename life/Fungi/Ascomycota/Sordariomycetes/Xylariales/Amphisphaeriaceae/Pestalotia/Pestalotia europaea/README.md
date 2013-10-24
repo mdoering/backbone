@@ -1,5 +1,4 @@
-Pestalotia europaea Grove SPECIES
-=======
+# Pestalotia europaea Grove SPECIES
 
 #### Status
 ACCEPTED

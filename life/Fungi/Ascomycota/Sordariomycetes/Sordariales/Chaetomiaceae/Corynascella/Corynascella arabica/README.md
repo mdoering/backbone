@@ -1,5 +1,4 @@
-Corynascella arabica Guarro, Al-Saadoon, Gené & Abdullah SPECIES
-=======
+# Corynascella arabica Guarro, Al-Saadoon, Gené & Abdullah SPECIES
 
 #### Status
 ACCEPTED

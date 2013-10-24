@@ -1,5 +1,4 @@
-Humicola glauca De Bert. SPECIES
-=======
+# Humicola glauca De Bert. SPECIES
 
 #### Status
 ACCEPTED

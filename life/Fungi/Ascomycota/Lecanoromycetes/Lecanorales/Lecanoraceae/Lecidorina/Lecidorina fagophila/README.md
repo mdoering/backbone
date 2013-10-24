@@ -1,5 +1,4 @@
-Lecidorina fagophila Motyka SPECIES
-=======
+# Lecidorina fagophila Motyka SPECIES
 
 #### Status
 ACCEPTED

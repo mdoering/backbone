@@ -1,5 +1,4 @@
-Cyclicargolithus D.Bukry, 1971 GENUS
-=======
+# Cyclicargolithus D.Bukry, 1971 GENUS
 
 #### Status
 ACCEPTED

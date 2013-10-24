@@ -1,5 +1,4 @@
-Tripartiella obliqua Lom, 1963 SPECIES
-=======
+# Tripartiella obliqua Lom, 1963 SPECIES
 
 #### Status
 ACCEPTED

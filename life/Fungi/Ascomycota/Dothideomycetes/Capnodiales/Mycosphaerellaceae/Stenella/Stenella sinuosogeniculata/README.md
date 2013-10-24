@@ -1,5 +1,4 @@
-Stenella sinuosogeniculata U. Braun & C.F. Hill, 2008 SPECIES
-=======
+# Stenella sinuosogeniculata U. Braun & C.F. Hill, 2008 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xanthoparmelia norcolorata Hale SPECIES
-=======
+# Xanthoparmelia norcolorata Hale SPECIES
 
 #### Status
 ACCEPTED

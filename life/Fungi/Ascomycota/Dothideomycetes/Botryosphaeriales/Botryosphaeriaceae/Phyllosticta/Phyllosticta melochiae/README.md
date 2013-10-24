@@ -1,5 +1,4 @@
-Phyllosticta melochiae H.S. Yates SPECIES
-=======
+# Phyllosticta melochiae H.S. Yates SPECIES
 
 #### Status
 ACCEPTED

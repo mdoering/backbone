@@ -1,5 +1,4 @@
-Rickia coptengalis Thaxt. SPECIES
-=======
+# Rickia coptengalis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

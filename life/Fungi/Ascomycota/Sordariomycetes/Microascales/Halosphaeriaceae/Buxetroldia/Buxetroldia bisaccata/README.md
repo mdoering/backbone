@@ -1,5 +1,4 @@
-Buxetroldia bisaccata K.R.L. Petersen & Jørg. Koch, 1997 SPECIES
-=======
+# Buxetroldia bisaccata K.R.L. Petersen & Jørg. Koch, 1997 SPECIES
 
 #### Status
 ACCEPTED

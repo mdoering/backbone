@@ -1,5 +1,4 @@
-Arachniotus terrestris Raillo SPECIES
-=======
+# Arachniotus terrestris Raillo SPECIES
 
 #### Status
 ACCEPTED

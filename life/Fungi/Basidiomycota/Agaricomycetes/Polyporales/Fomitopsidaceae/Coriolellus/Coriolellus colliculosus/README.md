@@ -1,5 +1,4 @@
-Coriolellus colliculosus (Pers.) Bondartsev SPECIES
-=======
+# Coriolellus colliculosus (Pers.) Bondartsev SPECIES
 
 #### Status
 ACCEPTED

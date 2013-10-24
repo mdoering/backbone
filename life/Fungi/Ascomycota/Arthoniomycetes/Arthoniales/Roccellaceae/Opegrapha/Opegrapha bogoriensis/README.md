@@ -1,5 +1,4 @@
-Opegrapha bogoriensis SPECIES
-=======
+# Opegrapha bogoriensis SPECIES
 
 #### Status
 ACCEPTED

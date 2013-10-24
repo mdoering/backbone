@@ -1,5 +1,4 @@
-Cladina grisea (Ahti) Trass ex J.C. Wei SPECIES
-=======
+# Cladina grisea (Ahti) Trass ex J.C. Wei SPECIES
 
 #### Status
 ACCEPTED

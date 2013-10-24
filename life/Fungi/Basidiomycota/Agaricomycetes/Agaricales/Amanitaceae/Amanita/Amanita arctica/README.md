@@ -1,5 +1,4 @@
-Amanita arctica Bas, Knudsen & T. Borgen SPECIES
-=======
+# Amanita arctica Bas, Knudsen & T. Borgen SPECIES
 
 #### Status
 ACCEPTED

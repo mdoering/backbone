@@ -1,5 +1,4 @@
-Proboscia subarctica K. Takahashi, R. Jordan & J. Priddle SPECIES
-=======
+# Proboscia subarctica K. Takahashi, R. Jordan & J. Priddle SPECIES
 
 #### Status
 ACCEPTED

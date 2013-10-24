@@ -1,5 +1,4 @@
-Leucophra Müller, 1780 GENUS
-=======
+# Leucophra Müller, 1780 GENUS
 
 #### Status
 ACCEPTED

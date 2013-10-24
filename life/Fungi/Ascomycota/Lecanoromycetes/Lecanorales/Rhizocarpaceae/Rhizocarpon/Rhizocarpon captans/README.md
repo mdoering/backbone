@@ -1,5 +1,4 @@
-Rhizocarpon captans Poelt SPECIES
-=======
+# Rhizocarpon captans Poelt SPECIES
 
 #### Status
 ACCEPTED

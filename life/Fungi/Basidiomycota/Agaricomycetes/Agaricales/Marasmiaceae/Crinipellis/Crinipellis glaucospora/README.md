@@ -1,5 +1,4 @@
-Crinipellis glaucospora (Beeli) Pegler SPECIES
-=======
+# Crinipellis glaucospora (Beeli) Pegler SPECIES
 
 #### Status
 ACCEPTED

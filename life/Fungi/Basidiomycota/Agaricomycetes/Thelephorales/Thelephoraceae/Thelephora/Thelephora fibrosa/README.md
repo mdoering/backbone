@@ -1,5 +1,4 @@
-Thelephora fibrosa Fr. SPECIES
-=======
+# Thelephora fibrosa Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phractopeltidium Haeckel, 1887 GENUS
-=======
+# Phractopeltidium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

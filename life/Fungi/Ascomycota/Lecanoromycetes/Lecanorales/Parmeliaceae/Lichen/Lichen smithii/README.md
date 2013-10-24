@@ -1,5 +1,4 @@
-Lichen smithii Ach. SPECIES
-=======
+# Lichen smithii Ach. SPECIES
 
 #### Status
 ACCEPTED

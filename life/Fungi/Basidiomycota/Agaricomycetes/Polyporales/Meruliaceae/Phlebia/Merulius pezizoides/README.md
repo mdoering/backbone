@@ -1,5 +1,4 @@
-Merulius pezizoides Pers. SPECIES
-=======
+# Merulius pezizoides Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peloronectria bambusina Teixeira SPECIES
-=======
+# Peloronectria bambusina Teixeira SPECIES
 
 #### Status
 ACCEPTED

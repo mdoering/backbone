@@ -1,5 +1,4 @@
-Sphaerodermatella helleri (Earle) Seaver SPECIES
-=======
+# Sphaerodermatella helleri (Earle) Seaver SPECIES
 
 #### Status
 ACCEPTED

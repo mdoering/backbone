@@ -1,5 +1,4 @@
-Inocybe brevipes Contu SPECIES
-=======
+# Inocybe brevipes Contu SPECIES
 
 #### Status
 ACCEPTED

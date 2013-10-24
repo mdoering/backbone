@@ -1,5 +1,4 @@
-Hypocrea costaricensis P. Chaverri & Samuels SPECIES
-=======
+# Hypocrea costaricensis P. Chaverri & Samuels SPECIES
 
 #### Status
 ACCEPTED

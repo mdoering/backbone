@@ -1,5 +1,4 @@
-Arcella Ehrenberg, 1830 GENUS
-=======
+# Arcella Ehrenberg, 1830 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Antrodiella dentipora Ryvarden & Iturr. SPECIES
-=======
+# Antrodiella dentipora Ryvarden & Iturr. SPECIES
 
 #### Status
 ACCEPTED

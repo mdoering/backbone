@@ -1,5 +1,4 @@
-Pseudolachnea echinata Velen. SPECIES
-=======
+# Pseudolachnea echinata Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ephebeia trachytera Vain. SPECIES
-=======
+# Ephebeia trachytera Vain. SPECIES
 
 #### Status
 ACCEPTED

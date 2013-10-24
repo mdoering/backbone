@@ -1,5 +1,4 @@
-Aulographum angustiforme (Tracy & Earle) Theiss. & Syd. SPECIES
-=======
+# Aulographum angustiforme (Tracy & Earle) Theiss. & Syd. SPECIES
 
 #### Status
 ACCEPTED

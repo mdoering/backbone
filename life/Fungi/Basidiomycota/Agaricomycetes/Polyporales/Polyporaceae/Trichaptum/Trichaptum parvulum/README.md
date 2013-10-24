@@ -1,5 +1,4 @@
-Trichaptum parvulum (Yasuda) T. Hatt. & Ryvarden, 1994 SPECIES
-=======
+# Trichaptum parvulum (Yasuda) T. Hatt. & Ryvarden, 1994 SPECIES
 
 #### Status
 ACCEPTED

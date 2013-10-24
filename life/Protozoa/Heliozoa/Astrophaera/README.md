@@ -1,5 +1,4 @@
-Astrophaera GENUS
-=======
+# Astrophaera GENUS
 
 #### Status
 ACCEPTED

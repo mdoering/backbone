@@ -1,5 +1,4 @@
-Lecanora crenulatissima Mereschk. SPECIES
-=======
+# Lecanora crenulatissima Mereschk. SPECIES
 
 #### Status
 ACCEPTED

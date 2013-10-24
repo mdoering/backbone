@@ -1,5 +1,4 @@
-Phyllosticta diptericicola Gonz. Frag. & Cif. SPECIES
-=======
+# Phyllosticta diptericicola Gonz. Frag. & Cif. SPECIES
 
 #### Status
 ACCEPTED

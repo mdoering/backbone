@@ -1,5 +1,4 @@
-Geoscypha subcupularis Rehm SPECIES
-=======
+# Geoscypha subcupularis Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gibberidea adesmicola Speg. SPECIES
-=======
+# Gibberidea adesmicola Speg. SPECIES
 
 #### Status
 ACCEPTED

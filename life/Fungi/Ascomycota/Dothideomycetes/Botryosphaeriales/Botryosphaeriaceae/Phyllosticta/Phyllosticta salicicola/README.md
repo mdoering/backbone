@@ -1,5 +1,4 @@
-Phyllosticta salicicola Thüm. SPECIES
-=======
+# Phyllosticta salicicola Thüm. SPECIES
 
 #### Status
 ACCEPTED

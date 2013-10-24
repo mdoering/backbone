@@ -1,5 +1,4 @@
-Cylindrospermopsis africana J. Komárek & H. Kling SPECIES
-=======
+# Cylindrospermopsis africana J. Komárek & H. Kling SPECIES
 
 #### Status
 ACCEPTED

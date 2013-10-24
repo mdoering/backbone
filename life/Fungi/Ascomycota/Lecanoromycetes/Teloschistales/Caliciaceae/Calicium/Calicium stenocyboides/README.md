@@ -1,5 +1,4 @@
-Calicium stenocyboides Nyl. SPECIES
-=======
+# Calicium stenocyboides Nyl. SPECIES
 
 #### Status
 ACCEPTED

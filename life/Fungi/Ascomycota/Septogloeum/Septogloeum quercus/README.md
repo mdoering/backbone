@@ -1,5 +1,4 @@
-Septogloeum quercus Died. SPECIES
-=======
+# Septogloeum quercus Died. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endopyrenium crassulum Müll. Arg. SPECIES
-=======
+# Endopyrenium crassulum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

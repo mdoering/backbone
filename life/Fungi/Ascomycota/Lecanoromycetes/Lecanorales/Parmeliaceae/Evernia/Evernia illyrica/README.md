@@ -1,5 +1,4 @@
-Evernia illyrica (Zahlbr.) Zahlbr. SPECIES
-=======
+# Evernia illyrica (Zahlbr.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eimeria harpodoni Setna & Bana, 1935 SPECIES
-=======
+# Eimeria harpodoni Setna & Bana, 1935 SPECIES
 
 #### Status
 ACCEPTED

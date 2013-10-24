@@ -1,5 +1,4 @@
-Lecidea tubulata SPECIES
-=======
+# Lecidea tubulata SPECIES
 
 #### Status
 ACCEPTED

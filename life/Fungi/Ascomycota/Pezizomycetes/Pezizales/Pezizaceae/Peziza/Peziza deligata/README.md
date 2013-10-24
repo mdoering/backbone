@@ -1,5 +1,4 @@
-Peziza deligata Peck SPECIES
-=======
+# Peziza deligata Peck SPECIES
 
 #### Status
 ACCEPTED

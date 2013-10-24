@@ -1,5 +1,4 @@
-Sphaerella lepidiotae Anzi SPECIES
-=======
+# Sphaerella lepidiotae Anzi SPECIES
 
 #### Status
 ACCEPTED

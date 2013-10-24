@@ -1,5 +1,4 @@
-Alphitomorpha populi (DC.) Wallr. SPECIES
-=======
+# Alphitomorpha populi (DC.) Wallr. SPECIES
 
 #### Status
 ACCEPTED

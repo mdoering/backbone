@@ -1,5 +1,4 @@
-Rhinocladium councilmanii (Wolbach, Sisson & Meier) Neveu-Lem. SPECIES
-=======
+# Rhinocladium councilmanii (Wolbach, Sisson & Meier) Neveu-Lem. SPECIES
 
 #### Status
 ACCEPTED

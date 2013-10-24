@@ -1,5 +1,4 @@
-Sclerotinia cylindrica Velen. SPECIES
-=======
+# Sclerotinia cylindrica Velen. SPECIES
 
 #### Status
 ACCEPTED

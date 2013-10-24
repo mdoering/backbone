@@ -1,5 +1,4 @@
-Keissleriella pindaundeensis Otani SPECIES
-=======
+# Keissleriella pindaundeensis Otani SPECIES
 
 #### Status
 ACCEPTED

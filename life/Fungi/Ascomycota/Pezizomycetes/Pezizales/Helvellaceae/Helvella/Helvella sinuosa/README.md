@@ -1,5 +1,4 @@
-Helvella sinuosa Brond. SPECIES
-=======
+# Helvella sinuosa Brond. SPECIES
 
 #### Status
 ACCEPTED

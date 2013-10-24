@@ -1,5 +1,4 @@
-Norvanganina Mikhalevich, 1981 GENUS
-=======
+# Norvanganina Mikhalevich, 1981 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladonia fallax f. fallax FORM
-=======
+# Cladonia fallax SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Bull. Soc. sci. Bretagne 16: 85 (1939)
+null
 
 #### Original name
-Cladonia fallax f. fallax
+null
 
 ### Remarks
 null

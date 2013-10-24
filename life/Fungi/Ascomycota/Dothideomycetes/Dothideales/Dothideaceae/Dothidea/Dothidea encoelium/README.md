@@ -1,5 +1,4 @@
-Dothidea encoelium Schwein. SPECIES
-=======
+# Dothidea encoelium Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scenidium cingulatum (Lév.) Kuntze SPECIES
-=======
+# Scenidium cingulatum (Lév.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

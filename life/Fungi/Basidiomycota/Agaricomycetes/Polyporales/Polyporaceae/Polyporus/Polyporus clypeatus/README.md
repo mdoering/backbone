@@ -1,5 +1,4 @@
-Polyporus clypeatus (Pat.) Rick SPECIES
-=======
+# Polyporus clypeatus (Pat.) Rick SPECIES
 
 #### Status
 ACCEPTED

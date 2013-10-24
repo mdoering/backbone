@@ -1,5 +1,4 @@
-Lycoperdon coccineum Raf. SPECIES
-=======
+# Lycoperdon coccineum Raf. SPECIES
 
 #### Status
 ACCEPTED

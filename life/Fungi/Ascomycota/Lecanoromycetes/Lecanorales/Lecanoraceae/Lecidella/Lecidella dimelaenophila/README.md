@@ -1,5 +1,4 @@
-Lecidella dimelaenophila Hertel SPECIES
-=======
+# Lecidella dimelaenophila Hertel SPECIES
 
 #### Status
 ACCEPTED

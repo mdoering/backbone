@@ -1,5 +1,4 @@
-Globivalvulinidae FAMILY
-=======
+# Globivalvulinidae FAMILY
 
 #### Status
 ACCEPTED

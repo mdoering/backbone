@@ -1,5 +1,4 @@
-Flaminia amylospora (Rehm) Sacc. & P. Syd., 1902 SPECIES
-=======
+# Flaminia amylospora (Rehm) Sacc. & P. Syd., 1902 SPECIES
 
 #### Status
 ACCEPTED

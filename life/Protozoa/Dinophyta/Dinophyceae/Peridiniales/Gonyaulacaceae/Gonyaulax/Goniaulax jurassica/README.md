@@ -1,5 +1,4 @@
-Goniaulax jurassica SPECIES
-=======
+# Goniaulax jurassica SPECIES
 
 #### Status
 DOUBTFUL

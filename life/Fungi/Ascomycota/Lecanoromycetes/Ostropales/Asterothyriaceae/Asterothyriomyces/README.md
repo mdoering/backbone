@@ -1,5 +1,4 @@
-Asterothyriomyces GENUS
-=======
+# Asterothyriomyces GENUS
 
 #### Status
 ACCEPTED

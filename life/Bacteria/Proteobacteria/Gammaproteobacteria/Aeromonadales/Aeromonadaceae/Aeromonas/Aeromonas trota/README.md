@@ -1,5 +1,4 @@
-Aeromonas trota Carnahan et al., 1992 SPECIES
-=======
+# Aeromonas trota Carnahan et al., 1992 SPECIES
 
 #### Status
 ACCEPTED

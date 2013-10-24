@@ -1,5 +1,4 @@
-Alectoria glauca Bystrek SPECIES
-=======
+# Alectoria glauca Bystrek SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Halteroides Hirshfield, Isquith & Bhandary, 1965 GENUS
-=======
+# Halteroides Hirshfield, Isquith & Bhandary, 1965 GENUS
 
 #### Status
 ACCEPTED

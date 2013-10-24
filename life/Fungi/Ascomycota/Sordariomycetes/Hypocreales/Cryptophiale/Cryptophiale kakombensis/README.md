@@ -1,5 +1,4 @@
-Cryptophiale kakombensis Piroz., 1968 SPECIES
-=======
+# Cryptophiale kakombensis Piroz., 1968 SPECIES
 
 #### Status
 ACCEPTED

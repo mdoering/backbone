@@ -1,5 +1,4 @@
-Marasmiellus pernambucensis Singer SPECIES
-=======
+# Marasmiellus pernambucensis Singer SPECIES
 
 #### Status
 ACCEPTED

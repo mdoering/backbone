@@ -1,5 +1,4 @@
-Sphaeria luteobasis Ellis SPECIES
-=======
+# Sphaeria luteobasis Ellis SPECIES
 
 #### Status
 ACCEPTED

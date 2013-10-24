@@ -1,17 +1,16 @@
-Hygrophorus conicus var. conicus VARIETY
-=======
+# Hygrocybe conica (Schaeff.) P. Kumm., 1871 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Epicr. syst. mycol. (Upsaliae) 331 (1838)
+Führ. Pilzk. (Zwickau) 111 (1871)
 
 #### Original name
-Hygrophorus conicus var. conicus
+Agaricus conicus Huds., 1778
 
 ### Remarks
 null

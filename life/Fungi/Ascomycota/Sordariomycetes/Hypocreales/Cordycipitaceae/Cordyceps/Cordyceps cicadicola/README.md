@@ -1,5 +1,4 @@
-Cordyceps cicadicola Teng SPECIES
-=======
+# Cordyceps cicadicola Teng SPECIES
 
 #### Status
 ACCEPTED

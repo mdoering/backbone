@@ -1,5 +1,4 @@
-Minksia alba Makhija & Patw. SPECIES
-=======
+# Minksia alba Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

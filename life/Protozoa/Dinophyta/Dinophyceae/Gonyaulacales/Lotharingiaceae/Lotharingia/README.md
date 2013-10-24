@@ -1,5 +1,4 @@
-Lotharingia R. Below, 1990 GENUS
-=======
+# Lotharingia R. Below, 1990 GENUS
 
 #### Status
 ACCEPTED

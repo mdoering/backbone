@@ -1,5 +1,4 @@
-Anoplophrya vermicularis SPECIES
-=======
+# Anoplophrya vermicularis SPECIES
 
 #### Status
 ACCEPTED

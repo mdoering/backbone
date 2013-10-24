@@ -1,5 +1,4 @@
-Ustalia fasciata Eschw. SPECIES
-=======
+# Ustalia fasciata Eschw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena caesiocana Singer SPECIES
-=======
+# Mycena caesiocana Singer SPECIES
 
 #### Status
 ACCEPTED

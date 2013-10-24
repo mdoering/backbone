@@ -1,5 +1,4 @@
-Marasmius highlandsensis Antonín SPECIES
-=======
+# Marasmius highlandsensis Antonín SPECIES
 
 #### Status
 ACCEPTED

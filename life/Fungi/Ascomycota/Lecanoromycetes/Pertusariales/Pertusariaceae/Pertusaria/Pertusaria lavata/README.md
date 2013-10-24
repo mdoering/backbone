@@ -1,5 +1,4 @@
-Pertusaria lavata Müll. Arg. SPECIES
-=======
+# Pertusaria lavata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

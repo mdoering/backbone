@@ -1,5 +1,4 @@
-Cochlodinium helicoides Lebour SPECIES
-=======
+# Cochlodinium helicoides Lebour SPECIES
 
 #### Status
 ACCEPTED

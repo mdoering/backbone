@@ -1,5 +1,4 @@
-Annectina Suleymanov, 1963 GENUS
-=======
+# Annectina Suleymanov, 1963 GENUS
 
 #### Status
 ACCEPTED

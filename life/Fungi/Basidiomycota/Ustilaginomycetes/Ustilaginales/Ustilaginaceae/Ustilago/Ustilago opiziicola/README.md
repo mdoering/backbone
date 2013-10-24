@@ -1,5 +1,4 @@
-Ustilago opiziicola Durán SPECIES
-=======
+# Ustilago opiziicola Durán SPECIES
 
 #### Status
 ACCEPTED

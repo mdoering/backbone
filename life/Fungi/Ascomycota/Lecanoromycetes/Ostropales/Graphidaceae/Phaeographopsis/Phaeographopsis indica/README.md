@@ -1,14 +1,13 @@
-Phaeographis indica Patw. & Nagarkar SPECIES
-=======
+# Phaeographopsis indica (Patw. & Nagarkar) Sipman & Aptroot SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Biovigyanam 5(2): 137 (1979)
+in Aptroot & Sipman, Biblthca Lichenol. 96: 24 (2007)
 
 #### Original name
 Phaeographis indica Patw. & Nagarkar

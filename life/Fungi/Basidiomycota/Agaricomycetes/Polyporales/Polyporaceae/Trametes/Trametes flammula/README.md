@@ -1,5 +1,4 @@
-Trametes flammula Corner SPECIES
-=======
+# Trametes flammula Corner SPECIES
 
 #### Status
 ACCEPTED

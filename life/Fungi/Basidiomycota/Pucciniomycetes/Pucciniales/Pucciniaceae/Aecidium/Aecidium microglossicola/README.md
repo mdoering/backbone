@@ -1,5 +1,4 @@
-Aecidium microglossicola Jørst. SPECIES
-=======
+# Aecidium microglossicola Jørst. SPECIES
 
 #### Status
 ACCEPTED

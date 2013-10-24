@@ -1,5 +1,4 @@
-Tolyposporium philippinense Petr. & Syd. SPECIES
-=======
+# Tolyposporium philippinense Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

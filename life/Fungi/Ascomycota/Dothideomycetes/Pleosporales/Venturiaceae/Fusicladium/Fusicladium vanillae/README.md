@@ -1,5 +1,4 @@
-Fusicladium vanillae Zimm. SPECIES
-=======
+# Fusicladium vanillae Zimm. SPECIES
 
 #### Status
 ACCEPTED

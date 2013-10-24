@@ -1,14 +1,13 @@
-Lophodermellina sesleriae (Hilitzer) Tehon, 1935 SPECIES
-=======
+# Lophodermium sesleriae Hilitzer, 1929 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Illinois Biol. Monogr. (Urbana) 13(4): 81 (1935)
+Ved. Spisy csl. Akad. zemed. 3: 91 (1929)
 
 #### Original name
 Lophodermium sesleriae Hilitzer, 1929

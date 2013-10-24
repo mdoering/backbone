@@ -1,5 +1,4 @@
-Asterina shimbaensis Mibey SPECIES
-=======
+# Asterina shimbaensis Mibey SPECIES
 
 #### Status
 ACCEPTED

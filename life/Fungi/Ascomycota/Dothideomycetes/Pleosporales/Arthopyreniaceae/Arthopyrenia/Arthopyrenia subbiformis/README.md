@@ -1,5 +1,4 @@
-Arthopyrenia subbiformis (C. Knight) Müll. Arg. SPECIES
-=======
+# Arthopyrenia subbiformis (C. Knight) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lachnum charretii Raitv. & Guy Garcia SPECIES
-=======
+# Lachnum charretii Raitv. & Guy Garcia SPECIES
 
 #### Status
 ACCEPTED

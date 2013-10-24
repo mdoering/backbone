@@ -1,5 +1,4 @@
-Melomastia sedi Gucevic SPECIES
-=======
+# Melomastia sedi Gucevic SPECIES
 
 #### Status
 ACCEPTED

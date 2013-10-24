@@ -1,14 +1,13 @@
-Exoascus betulae Fuckel, 1874 SPECIES
-=======
+# Taphrina betulae (Fuckel) Johanson, 1886 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Jb. nassau. Ver. Naturk. 27-28: 49 (1873)
+Förhandl. svensk Vetensk. -Finl. 1: 40 (1886)
 
 #### Original name
 Exoascus betulae Fuckel, 1874

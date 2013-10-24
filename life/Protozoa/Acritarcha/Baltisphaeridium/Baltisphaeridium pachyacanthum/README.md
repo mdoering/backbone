@@ -1,5 +1,4 @@
-Baltisphaeridium pachyacanthum Eisenack, 1965 SPECIES
-=======
+# Baltisphaeridium pachyacanthum Eisenack, 1965 SPECIES
 
 #### Status
 ACCEPTED

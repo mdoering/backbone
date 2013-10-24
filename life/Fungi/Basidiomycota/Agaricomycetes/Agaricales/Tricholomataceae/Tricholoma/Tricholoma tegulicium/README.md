@@ -1,5 +1,4 @@
-Tricholoma tegulicium Mont. SPECIES
-=======
+# Tricholoma tegulicium Mont. SPECIES
 
 #### Status
 ACCEPTED

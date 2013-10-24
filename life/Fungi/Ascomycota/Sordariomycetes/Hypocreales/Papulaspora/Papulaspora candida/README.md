@@ -1,5 +1,4 @@
-Papulaspora candida Sacc., 1882 SPECIES
-=======
+# Papulaspora candida Sacc., 1882 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ustilago vetiveriae Padwick SPECIES
-=======
+# Ustilago vetiveriae Padwick SPECIES
 
 #### Status
 ACCEPTED

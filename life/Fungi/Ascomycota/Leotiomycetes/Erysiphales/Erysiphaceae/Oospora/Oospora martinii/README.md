@@ -1,5 +1,4 @@
-Oospora martinii (Ellis & Sacc.) Sumst. SPECIES
-=======
+# Oospora martinii (Ellis & Sacc.) Sumst. SPECIES
 
 #### Status
 ACCEPTED

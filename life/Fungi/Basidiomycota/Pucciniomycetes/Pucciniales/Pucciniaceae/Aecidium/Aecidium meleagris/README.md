@@ -1,5 +1,4 @@
-Aecidium meleagris Duby SPECIES
-=======
+# Aecidium meleagris Duby SPECIES
 
 #### Status
 ACCEPTED

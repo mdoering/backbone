@@ -1,14 +1,13 @@
-Russula grisea var. ionochlora (Romagn.) Romagn., 1953 VARIETY
-=======
+# Russula ionochlora Romagn., 1952 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fl. Analyt. Champ. Supér. (Paris) 444 (1953)
+Contribution a l'Etude de Quelques Aspergilles 21: 110 (1952)
 
 #### Original name
 Russula ionochlora Romagn., 1952

@@ -1,5 +1,4 @@
-Daedalea hydnoides I. Lindblad & Ryvarden SPECIES
-=======
+# Daedalea hydnoides I. Lindblad & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

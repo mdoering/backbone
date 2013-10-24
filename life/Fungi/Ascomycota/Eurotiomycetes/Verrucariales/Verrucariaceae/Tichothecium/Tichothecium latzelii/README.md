@@ -1,5 +1,4 @@
-Tichothecium latzelii Keissl. SPECIES
-=======
+# Tichothecium latzelii Keissl. SPECIES
 
 #### Status
 ACCEPTED

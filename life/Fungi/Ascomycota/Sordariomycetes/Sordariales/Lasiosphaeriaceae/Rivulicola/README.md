@@ -1,5 +1,4 @@
-Rivulicola K.D. Hyde, 1997 GENUS
-=======
+# Rivulicola K.D. Hyde, 1997 GENUS
 
 #### Status
 ACCEPTED

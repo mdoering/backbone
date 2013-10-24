@@ -1,5 +1,4 @@
-Vermicularia thecicola Schwein. SPECIES
-=======
+# Vermicularia thecicola Schwein. SPECIES
 
 #### Status
 ACCEPTED

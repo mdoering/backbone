@@ -1,5 +1,4 @@
-Amorphomyces trogophloei Speg. SPECIES
-=======
+# Amorphomyces trogophloei Speg. SPECIES
 
 #### Status
 ACCEPTED

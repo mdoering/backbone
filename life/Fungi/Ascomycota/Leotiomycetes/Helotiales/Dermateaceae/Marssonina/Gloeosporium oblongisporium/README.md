@@ -1,5 +1,4 @@
-Gloeosporium oblongisporium Ellis & Dearn. SPECIES
-=======
+# Gloeosporium oblongisporium Ellis & Dearn. SPECIES
 
 #### Status
 ACCEPTED

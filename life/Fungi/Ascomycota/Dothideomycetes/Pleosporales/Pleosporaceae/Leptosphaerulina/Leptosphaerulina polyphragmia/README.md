@@ -1,5 +1,4 @@
-Leptosphaerulina polyphragmia Nograsek SPECIES
-=======
+# Leptosphaerulina polyphragmia Nograsek SPECIES
 
 #### Status
 ACCEPTED

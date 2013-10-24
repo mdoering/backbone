@@ -1,5 +1,4 @@
-Mycena albidolilacea Kühner & Maire, 1938 SPECIES
-=======
+# Mycena albidolilacea Kühner & Maire, 1938 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diatrype ambiens Rehm SPECIES
-=======
+# Diatrype ambiens Rehm SPECIES
 
 #### Status
 ACCEPTED

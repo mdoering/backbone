@@ -1,5 +1,4 @@
-Agaricus portentiferus Britzelm. SPECIES
-=======
+# Agaricus portentiferus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

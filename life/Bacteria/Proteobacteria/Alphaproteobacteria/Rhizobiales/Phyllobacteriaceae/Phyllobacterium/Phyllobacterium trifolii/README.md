@@ -1,5 +1,4 @@
-Phyllobacterium trifolii Valverde et al., 2005 SPECIES
-=======
+# Phyllobacterium trifolii Valverde et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Volutella lanuginosa Pat. SPECIES
-=======
+# Volutella lanuginosa Pat. SPECIES
 
 #### Status
 ACCEPTED

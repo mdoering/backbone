@@ -1,5 +1,4 @@
-Marasmius kigwenensis Antonín SPECIES
-=======
+# Marasmius kigwenensis Antonín SPECIES
 
 #### Status
 ACCEPTED

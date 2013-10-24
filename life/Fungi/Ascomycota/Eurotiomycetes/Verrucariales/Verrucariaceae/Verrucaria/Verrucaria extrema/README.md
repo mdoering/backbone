@@ -1,5 +1,4 @@
-Verrucaria extrema Th. Fr. SPECIES
-=======
+# Verrucaria extrema Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

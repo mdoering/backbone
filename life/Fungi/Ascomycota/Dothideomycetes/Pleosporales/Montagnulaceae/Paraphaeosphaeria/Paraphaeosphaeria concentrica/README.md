@@ -1,5 +1,4 @@
-Paraphaeosphaeria concentrica (Ellis & Everh.) Huhndorf SPECIES
-=======
+# Paraphaeosphaeria concentrica (Ellis & Everh.) Huhndorf SPECIES
 
 #### Status
 ACCEPTED

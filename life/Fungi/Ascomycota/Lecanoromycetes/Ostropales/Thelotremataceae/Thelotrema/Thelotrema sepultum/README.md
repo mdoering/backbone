@@ -1,5 +1,4 @@
-Thelotrema sepultum (A. Massal.) Hepp SPECIES
-=======
+# Thelotrema sepultum (A. Massal.) Hepp SPECIES
 
 #### Status
 ACCEPTED

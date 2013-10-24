@@ -1,11 +1,10 @@
-Strobilidium undinum Martin & Montagnes, 1993 SPECIES
-=======
+# Rimostrombidium undinum (Martin & Montagnes, 1993) Petz, Song & Wilbert, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

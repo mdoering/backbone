@@ -1,14 +1,13 @@
-Dasyscyphus clavisporus Mouton, 1897 SPECIES
-=======
+# Lachnum clavisporum (Mouton) J.H. Haines, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. R. Bot. Belg. 36(C. R. ): 18 (1897)
+Mycotaxon 35(2): 335 (1989)
 
 #### Original name
 Dasyscyphus clavisporus Mouton, 1897

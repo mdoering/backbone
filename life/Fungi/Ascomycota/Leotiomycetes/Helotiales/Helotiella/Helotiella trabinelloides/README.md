@@ -1,5 +1,4 @@
-Helotiella trabinelloides Rehm SPECIES
-=======
+# Helotiella trabinelloides Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium pienaarii Doidge SPECIES
-=======
+# Aecidium pienaarii Doidge SPECIES
 
 #### Status
 ACCEPTED

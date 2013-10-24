@@ -1,5 +1,4 @@
-Collybia plumipes Kalchbr. SPECIES
-=======
+# Collybia plumipes Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

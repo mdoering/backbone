@@ -1,5 +1,4 @@
-Doratomyces columnaris H.J. Swart, 1967 SPECIES
-=======
+# Doratomyces columnaris H.J. Swart, 1967 SPECIES
 
 #### Status
 ACCEPTED

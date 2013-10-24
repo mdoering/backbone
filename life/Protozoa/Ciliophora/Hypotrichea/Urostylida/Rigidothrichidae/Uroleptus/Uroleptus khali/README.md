@@ -1,5 +1,4 @@
-Uroleptus khali SPECIES
-=======
+# Uroleptus khali SPECIES
 
 #### Status
 ACCEPTED

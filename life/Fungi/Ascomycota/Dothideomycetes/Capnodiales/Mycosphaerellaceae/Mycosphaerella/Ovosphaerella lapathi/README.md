@@ -1,5 +1,4 @@
-Ovosphaerella lapathi Laib. SPECIES
-=======
+# Ovosphaerella lapathi Laib. SPECIES
 
 #### Status
 ACCEPTED

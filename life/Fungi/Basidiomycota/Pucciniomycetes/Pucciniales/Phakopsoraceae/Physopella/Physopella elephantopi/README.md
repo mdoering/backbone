@@ -1,14 +1,13 @@
-Physopella elephantopodis (Hirats.) Sathe SPECIES
-=======
+# Physopella elephantopi (Hirats.) Sathe SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 21: 131 (1968)
 
 #### Original name
 Phakopsora elephantopi Hirats.

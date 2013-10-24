@@ -1,5 +1,4 @@
-Agaricus paedisculus Berk. & Broome SPECIES
-=======
+# Agaricus paedisculus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

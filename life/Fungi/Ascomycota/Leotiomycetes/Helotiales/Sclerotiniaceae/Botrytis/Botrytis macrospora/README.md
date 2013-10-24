@@ -1,5 +1,4 @@
-Botrytis macrospora Unger, 1826 SPECIES
-=======
+# Botrytis macrospora Unger, 1826 SPECIES
 
 #### Status
 ACCEPTED

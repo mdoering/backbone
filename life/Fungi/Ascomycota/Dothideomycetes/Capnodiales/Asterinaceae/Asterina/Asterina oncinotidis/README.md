@@ -1,5 +1,4 @@
-Asterina oncinotidis Doidge SPECIES
-=======
+# Asterina oncinotidis Doidge SPECIES
 
 #### Status
 ACCEPTED

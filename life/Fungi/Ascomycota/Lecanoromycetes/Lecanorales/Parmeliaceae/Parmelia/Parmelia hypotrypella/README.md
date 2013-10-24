@@ -1,5 +1,4 @@
-Parmelia hypotrypella Asahina SPECIES
-=======
+# Parmelia hypotrypella Asahina SPECIES
 
 #### Status
 ACCEPTED

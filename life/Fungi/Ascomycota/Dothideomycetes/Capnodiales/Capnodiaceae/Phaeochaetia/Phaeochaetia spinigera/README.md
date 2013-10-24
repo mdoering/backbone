@@ -1,5 +1,4 @@
-Phaeochaetia spinigera (Höhn.) Bat. & Cif. SPECIES
-=======
+# Phaeochaetia spinigera (Höhn.) Bat. & Cif. SPECIES
 
 #### Status
 ACCEPTED

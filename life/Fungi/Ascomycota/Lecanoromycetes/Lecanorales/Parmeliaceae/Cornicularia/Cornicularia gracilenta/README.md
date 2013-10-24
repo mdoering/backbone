@@ -1,5 +1,4 @@
-Cornicularia gracilenta (Kremp.) Zahlbr. SPECIES
-=======
+# Cornicularia gracilenta (Kremp.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

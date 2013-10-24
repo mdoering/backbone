@@ -1,5 +1,4 @@
-Valsa humboldtiana Starbäck SPECIES
-=======
+# Valsa humboldtiana Starbäck SPECIES
 
 #### Status
 ACCEPTED

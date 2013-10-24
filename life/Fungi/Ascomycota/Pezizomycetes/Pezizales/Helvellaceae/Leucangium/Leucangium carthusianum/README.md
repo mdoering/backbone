@@ -1,5 +1,4 @@
-Leucangium carthusianum (Tul.) Paol. SPECIES
-=======
+# Leucangium carthusianum (Tul.) Paol. SPECIES
 
 #### Status
 ACCEPTED

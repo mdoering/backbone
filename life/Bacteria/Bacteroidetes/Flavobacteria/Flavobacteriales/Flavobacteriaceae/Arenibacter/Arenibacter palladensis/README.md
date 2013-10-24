@@ -1,5 +1,4 @@
-Arenibacter palladensis Nedashkovskaya et al., 2006 SPECIES
-=======
+# Arenibacter palladensis Nedashkovskaya et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

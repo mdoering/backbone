@@ -1,5 +1,4 @@
-Vermicularia macrospora Sacc. SPECIES
-=======
+# Vermicularia macrospora Sacc. SPECIES
 
 #### Status
 ACCEPTED

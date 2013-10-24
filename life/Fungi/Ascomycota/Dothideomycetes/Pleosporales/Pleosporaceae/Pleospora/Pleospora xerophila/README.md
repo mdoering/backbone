@@ -1,5 +1,4 @@
-Pleospora xerophila Speg. SPECIES
-=======
+# Pleospora xerophila Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rzehakinidae Cushman, 1933 FAMILY
-=======
+# Rzehakinidae Cushman, 1933 FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichodina reticulata Hirschmann & Partsch, 1955 SPECIES
-=======
+# Trichodina reticulata Hirschmann & Partsch, 1955 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gyrodinium kofoidii Norris, 1961 SPECIES
-=======
+# Gyrodinium kofoidii Norris, 1961 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Brebina Barbu, 1965 GENUS
-=======
+# Brebina Barbu, 1965 GENUS
 
 #### Status
 ACCEPTED

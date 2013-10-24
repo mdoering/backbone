@@ -1,5 +1,4 @@
-Pyrenula aggregans Vain. SPECIES
-=======
+# Pyrenula aggregans Vain. SPECIES
 
 #### Status
 ACCEPTED

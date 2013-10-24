@@ -1,5 +1,4 @@
-Phragmostilbe linderi Subram. SPECIES
-=======
+# Phragmostilbe linderi Subram. SPECIES
 
 #### Status
 ACCEPTED

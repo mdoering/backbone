@@ -1,17 +1,16 @@
-Graphis tenella var. elongata Zahlbr. VARIETY
-=======
+# Graphis tenella Ach. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syn. meth. lich. 81 (1814)
 
 #### Original name
-Graphis tenella var. elongata Zahlbr.
+Graphis tenella Ach.
 
 ### Remarks
 null

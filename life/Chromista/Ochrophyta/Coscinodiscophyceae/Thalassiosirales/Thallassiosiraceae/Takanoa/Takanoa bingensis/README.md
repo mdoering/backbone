@@ -1,5 +1,4 @@
-Takanoa bingensis (H. Takano) I.V. Makarova SPECIES
-=======
+# Takanoa bingensis (H. Takano) I.V. Makarova SPECIES
 
 #### Status
 ACCEPTED

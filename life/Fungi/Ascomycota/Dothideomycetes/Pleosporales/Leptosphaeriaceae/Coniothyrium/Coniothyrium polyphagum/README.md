@@ -1,5 +1,4 @@
-Coniothyrium polyphagum Alcalde SPECIES
-=======
+# Coniothyrium polyphagum Alcalde SPECIES
 
 #### Status
 ACCEPTED

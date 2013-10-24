@@ -1,5 +1,4 @@
-Kyphomyces philippinus (Thaxt.) I.I. Tav. SPECIES
-=======
+# Kyphomyces philippinus (Thaxt.) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

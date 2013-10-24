@@ -1,5 +1,4 @@
-Placosphaeria isachnes Henn. SPECIES
-=======
+# Placosphaeria isachnes Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micromonas micros (Prévot, 1933) Murdoch & Shah, 2000 SPECIES
-=======
+# Micromonas micros (Prévot, 1933) Murdoch & Shah, 2000 SPECIES
 
 #### Status
 ACCEPTED

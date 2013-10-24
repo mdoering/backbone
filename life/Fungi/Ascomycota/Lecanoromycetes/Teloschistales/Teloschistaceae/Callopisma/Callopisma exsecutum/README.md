@@ -1,5 +1,4 @@
-Callopisma exsecutum (Nyl.) Arnold SPECIES
-=======
+# Callopisma exsecutum (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

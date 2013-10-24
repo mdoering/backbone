@@ -1,5 +1,4 @@
-Favolaschia gelatinosa (Sacc.) Kuntze SPECIES
-=======
+# Favolaschia gelatinosa (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

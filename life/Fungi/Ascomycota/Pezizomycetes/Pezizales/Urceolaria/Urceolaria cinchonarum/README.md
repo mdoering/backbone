@@ -1,5 +1,4 @@
-Urceolaria cinchonarum Fée SPECIES
-=======
+# Urceolaria cinchonarum Fée SPECIES
 
 #### Status
 ACCEPTED

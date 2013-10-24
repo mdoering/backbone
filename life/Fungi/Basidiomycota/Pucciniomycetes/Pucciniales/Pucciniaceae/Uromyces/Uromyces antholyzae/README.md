@@ -1,5 +1,4 @@
-Uromyces antholyzae Syd. & P. Syd. SPECIES
-=======
+# Uromyces antholyzae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psorotheciopsis philippinensis (Rehm) Lücking SPECIES
-=======
+# Psorotheciopsis philippinensis (Rehm) Lücking SPECIES
 
 #### Status
 ACCEPTED

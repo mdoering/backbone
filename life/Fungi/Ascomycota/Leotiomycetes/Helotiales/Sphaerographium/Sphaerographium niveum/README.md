@@ -1,5 +1,4 @@
-Sphaerographium niveum Dearn. & Seaver SPECIES
-=======
+# Sphaerographium niveum Dearn. & Seaver SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo compositarum var. compositarum VARIETY
-=======
+# Uredo compositarum Schltdl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Uredo compositarum var. compositarum
+Uredo compositarum Schltdl.
 
 ### Remarks
 null

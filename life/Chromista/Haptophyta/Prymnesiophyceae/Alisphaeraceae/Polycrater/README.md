@@ -1,5 +1,4 @@
-Polycrater Manton & Oates, 1980 GENUS
-=======
+# Polycrater Manton & Oates, 1980 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stilbella minutissima (Speg.) Seifert SPECIES
-=======
+# Stilbella minutissima (Speg.) Seifert SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dermatocarpon crozalsianum (B. de Lesd.) Zahlbr. SPECIES
-=======
+# Dermatocarpon crozalsianum (B. de Lesd.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

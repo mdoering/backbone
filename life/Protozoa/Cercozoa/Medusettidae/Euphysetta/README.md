@@ -1,5 +1,4 @@
-Euphysetta Haeckel, 1887 GENUS
-=======
+# Euphysetta Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

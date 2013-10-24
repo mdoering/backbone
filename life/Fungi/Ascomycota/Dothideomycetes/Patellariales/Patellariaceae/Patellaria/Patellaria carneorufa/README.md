@@ -1,5 +1,4 @@
-Patellaria carneorufa (C. Knight) SPECIES
-=======
+# Patellaria carneorufa (C. Knight) SPECIES
 
 #### Status
 ACCEPTED

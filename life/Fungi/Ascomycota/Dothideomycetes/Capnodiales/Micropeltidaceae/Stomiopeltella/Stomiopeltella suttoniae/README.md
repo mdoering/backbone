@@ -1,5 +1,4 @@
-Stomiopeltella suttoniae J.M. Mend. SPECIES
-=======
+# Stomiopeltella suttoniae J.M. Mend. SPECIES
 
 #### Status
 ACCEPTED

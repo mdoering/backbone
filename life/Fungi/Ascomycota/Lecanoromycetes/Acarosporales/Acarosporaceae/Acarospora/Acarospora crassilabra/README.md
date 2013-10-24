@@ -1,5 +1,4 @@
-Acarospora crassilabra (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Acarospora crassilabra (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

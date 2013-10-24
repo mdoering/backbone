@@ -1,5 +1,4 @@
-Puccinia cynanchi Lagerh. SPECIES
-=======
+# Puccinia cynanchi Lagerh. SPECIES
 
 #### Status
 ACCEPTED

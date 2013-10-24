@@ -1,5 +1,4 @@
-Podospora arachnoidea Niessl SPECIES
-=======
+# Podospora arachnoidea Niessl SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Segestria aenea Wallr. SPECIES
-=======
+# Segestria aenea Wallr. SPECIES
 
 #### Status
 ACCEPTED

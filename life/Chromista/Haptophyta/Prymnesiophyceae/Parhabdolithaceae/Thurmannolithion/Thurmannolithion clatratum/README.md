@@ -1,5 +1,4 @@
-Thurmannolithion clatratum Grün & Zweili, 1980 SPECIES
-=======
+# Thurmannolithion clatratum Grün & Zweili, 1980 SPECIES
 
 #### Status
 ACCEPTED

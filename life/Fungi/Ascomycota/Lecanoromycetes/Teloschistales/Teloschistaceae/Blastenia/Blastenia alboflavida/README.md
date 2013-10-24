@@ -1,5 +1,4 @@
-Blastenia alboflavida Zahlbr. SPECIES
-=======
+# Blastenia alboflavida Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

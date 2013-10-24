@@ -1,5 +1,4 @@
-Microscypha lonicerae Svrcek SPECIES
-=======
+# Microscypha lonicerae Svrcek SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acrasis granulata Tiegh, 1880 SPECIES
-=======
+# Acrasis granulata Tiegh, 1880 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrophorus meyendelii Boetje-van Ruyven SPECIES
-=======
+# Hygrophorus meyendelii Boetje-van Ruyven SPECIES
 
 #### Status
 ACCEPTED

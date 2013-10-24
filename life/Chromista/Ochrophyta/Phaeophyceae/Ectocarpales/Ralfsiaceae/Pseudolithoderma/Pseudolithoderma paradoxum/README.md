@@ -1,5 +1,4 @@
-Pseudolithoderma paradoxum Sears & Wilce SPECIES
-=======
+# Pseudolithoderma paradoxum Sears & Wilce SPECIES
 
 #### Status
 ACCEPTED

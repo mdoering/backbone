@@ -1,5 +1,4 @@
-Mycosphaerella benguetensis Syd. SPECIES
-=======
+# Mycosphaerella benguetensis Syd. SPECIES
 
 #### Status
 ACCEPTED

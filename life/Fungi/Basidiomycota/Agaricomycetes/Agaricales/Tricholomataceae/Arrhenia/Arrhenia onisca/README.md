@@ -1,17 +1,16 @@
-Omphalina oniscus var. oniscus VARIETY
-=======
+# Arrhenia onisca (Fr.) Redhead, Lutzoni, Moncalvo & Vilgalys, 2002 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Enchir. fung. (Paris) 43 (1888)
+Mycotaxon 83: 47 (2002)
 
 #### Original name
-Omphalina oniscus var. oniscus
+Agaricus oniscus Fr., 1818
 
 ### Remarks
 null

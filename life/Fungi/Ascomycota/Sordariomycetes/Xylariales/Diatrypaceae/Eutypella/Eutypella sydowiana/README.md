@@ -1,5 +1,4 @@
-Eutypella sydowiana Sawada SPECIES
-=======
+# Eutypella sydowiana Sawada SPECIES
 
 #### Status
 ACCEPTED

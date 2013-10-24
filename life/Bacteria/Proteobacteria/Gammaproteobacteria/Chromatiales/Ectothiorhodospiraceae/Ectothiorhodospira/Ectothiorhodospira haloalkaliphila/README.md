@@ -1,5 +1,4 @@
-Ectothiorhodospira haloalkaliphila Imhoff & Süling, 1997 SPECIES
-=======
+# Ectothiorhodospira haloalkaliphila Imhoff & Süling, 1997 SPECIES
 
 #### Status
 ACCEPTED

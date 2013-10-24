@@ -1,5 +1,4 @@
-Puccinia polygoni-caespitosi Sawada SPECIES
-=======
+# Puccinia polygoni-caespitosi Sawada SPECIES
 
 #### Status
 ACCEPTED

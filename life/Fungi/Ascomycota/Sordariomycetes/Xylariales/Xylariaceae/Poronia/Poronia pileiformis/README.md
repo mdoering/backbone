@@ -1,5 +1,4 @@
-Poronia pileiformis (Berk.) Fr. SPECIES
-=======
+# Poronia pileiformis (Berk.) Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coccomyces fuscus Spooner, 1990 SPECIES
-=======
+# Coccomyces fuscus Spooner, 1990 SPECIES
 
 #### Status
 ACCEPTED

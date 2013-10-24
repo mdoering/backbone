@@ -1,5 +1,4 @@
-Uredo sissoo Syd., P. Syd. & E.J. Butler, 1906 SPECIES
-=======
+# Uredo sissoo Syd., P. Syd. & E.J. Butler, 1906 SPECIES
 
 #### Status
 ACCEPTED

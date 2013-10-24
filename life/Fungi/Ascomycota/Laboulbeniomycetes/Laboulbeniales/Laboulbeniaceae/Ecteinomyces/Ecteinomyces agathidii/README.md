@@ -1,5 +1,4 @@
-Ecteinomyces agathidii Maire SPECIES
-=======
+# Ecteinomyces agathidii Maire SPECIES
 
 #### Status
 ACCEPTED

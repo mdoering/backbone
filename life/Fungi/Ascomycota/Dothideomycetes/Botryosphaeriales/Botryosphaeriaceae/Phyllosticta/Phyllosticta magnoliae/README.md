@@ -1,17 +1,16 @@
-Phyllosticta magnoliae subsp. cookei Sacc. SUBSPECIES
-=======
+# Phyllosticta magnoliae Sacc., 1878 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Grevillea 9(no. 51): 94 (1881)
 
 #### Original name
-Phyllosticta magnoliae subsp. cookei Sacc.
+Phyllosticta magnoliae Sacc., 1878
 
 ### Remarks
 null

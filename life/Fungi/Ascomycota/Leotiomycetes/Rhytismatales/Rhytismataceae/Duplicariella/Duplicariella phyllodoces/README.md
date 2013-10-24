@@ -1,5 +1,4 @@
-Duplicariella phyllodoces B. Erikss., 1970 SPECIES
-=======
+# Duplicariella phyllodoces B. Erikss., 1970 SPECIES
 
 #### Status
 ACCEPTED

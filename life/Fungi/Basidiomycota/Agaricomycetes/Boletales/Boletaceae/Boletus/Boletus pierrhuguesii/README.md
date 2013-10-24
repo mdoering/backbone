@@ -1,5 +1,4 @@
-Boletus pierrhuguesii Boud. SPECIES
-=======
+# Boletus pierrhuguesii Boud. SPECIES
 
 #### Status
 ACCEPTED

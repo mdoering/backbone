@@ -1,5 +1,4 @@
-Lactarius lanceolatus O.K. Mill. & Laursen, 1973 SPECIES
-=======
+# Lactarius lanceolatus O.K. Mill. & Laursen, 1973 SPECIES
 
 #### Status
 ACCEPTED

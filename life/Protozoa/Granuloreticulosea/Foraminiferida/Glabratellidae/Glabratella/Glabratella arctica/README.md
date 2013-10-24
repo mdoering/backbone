@@ -1,5 +1,4 @@
-Glabratella arctica Scott & Vilks, 1991 SPECIES
-=======
+# Glabratella arctica Scott & Vilks, 1991 SPECIES
 
 #### Status
 ACCEPTED

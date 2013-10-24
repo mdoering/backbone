@@ -1,5 +1,4 @@
-Chrysosphaerella coronacircumspina Wujek & Kristiansen, 1977 SPECIES
-=======
+# Chrysosphaerella coronacircumspina Wujek & Kristiansen, 1977 SPECIES
 
 #### Status
 ACCEPTED

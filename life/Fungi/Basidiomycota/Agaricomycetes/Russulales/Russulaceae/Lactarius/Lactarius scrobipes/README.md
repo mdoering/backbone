@@ -1,5 +1,4 @@
-Lactarius scrobipes Kühner & Romagn. SPECIES
-=======
+# Lactarius scrobipes Kühner & Romagn. SPECIES
 
 #### Status
 ACCEPTED

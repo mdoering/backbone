@@ -1,5 +1,4 @@
-Meliola gardneriae var. gardneriae VARIETY
-=======
+# Meliola gardneriae Hansf. & Thirum. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Farlowia 3: 293 (1948)
 
 #### Original name
-Meliola gardneriae var. gardneriae
+Meliola gardneriae Hansf. & Thirum.
 
 ### Remarks
 null

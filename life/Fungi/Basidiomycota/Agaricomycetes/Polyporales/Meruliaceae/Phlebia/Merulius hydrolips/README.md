@@ -1,5 +1,4 @@
-Merulius hydrolips (Bull.) J.F. Gmel. SPECIES
-=======
+# Merulius hydrolips (Bull.) J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

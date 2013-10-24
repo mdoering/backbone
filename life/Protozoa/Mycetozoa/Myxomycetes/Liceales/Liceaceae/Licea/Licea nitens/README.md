@@ -1,5 +1,4 @@
-Licea nitens Schwein. SPECIES
-=======
+# Licea nitens Schwein. SPECIES
 
 #### Status
 ACCEPTED

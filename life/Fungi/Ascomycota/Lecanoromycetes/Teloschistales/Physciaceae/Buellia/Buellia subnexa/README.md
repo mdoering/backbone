@@ -1,5 +1,4 @@
-Buellia subnexa (Nyl.) Vain. SPECIES
-=======
+# Buellia subnexa (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

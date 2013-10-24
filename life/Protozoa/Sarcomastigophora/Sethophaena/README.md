@@ -1,5 +1,4 @@
-Sethophaena Haeckel, 1887 GENUS
-=======
+# Sethophaena Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

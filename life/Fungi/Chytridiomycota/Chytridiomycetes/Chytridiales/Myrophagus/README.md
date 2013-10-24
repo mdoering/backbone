@@ -1,5 +1,4 @@
-Myrophagus Thaxter ex Sparrow, 1939 GENUS
-=======
+# Myrophagus Thaxter ex Sparrow, 1939 GENUS
 
 #### Status
 ACCEPTED

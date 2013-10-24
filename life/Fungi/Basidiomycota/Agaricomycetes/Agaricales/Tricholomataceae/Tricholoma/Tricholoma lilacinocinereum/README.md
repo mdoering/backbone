@@ -1,5 +1,4 @@
-Tricholoma lilacinocinereum Métrod ex Bon SPECIES
-=======
+# Tricholoma lilacinocinereum Métrod ex Bon SPECIES
 
 #### Status
 ACCEPTED

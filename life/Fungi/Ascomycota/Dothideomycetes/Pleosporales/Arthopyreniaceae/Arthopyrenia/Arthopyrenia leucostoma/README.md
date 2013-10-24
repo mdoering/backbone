@@ -1,5 +1,4 @@
-Arthopyrenia leucostoma (Fée) A. Massal. SPECIES
-=======
+# Arthopyrenia leucostoma (Fée) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

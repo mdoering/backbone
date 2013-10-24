@@ -1,5 +1,4 @@
-Stilbospora bullata Link SPECIES
-=======
+# Stilbospora bullata Link SPECIES
 
 #### Status
 ACCEPTED

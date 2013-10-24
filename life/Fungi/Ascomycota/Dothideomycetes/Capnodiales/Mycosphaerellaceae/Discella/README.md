@@ -1,5 +1,4 @@
-Discella GENUS
-=======
+# Discella GENUS
 
 #### Status
 ACCEPTED

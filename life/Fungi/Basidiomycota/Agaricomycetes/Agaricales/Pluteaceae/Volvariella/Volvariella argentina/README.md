@@ -1,5 +1,4 @@
-Volvariella argentina Speg., 1898 SPECIES
-=======
+# Volvariella argentina Speg., 1898 SPECIES
 
 #### Status
 ACCEPTED

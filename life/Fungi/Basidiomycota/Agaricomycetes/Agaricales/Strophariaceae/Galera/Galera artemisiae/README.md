@@ -1,5 +1,4 @@
-Galera artemisiae Velen. SPECIES
-=======
+# Galera artemisiae Velen. SPECIES
 
 #### Status
 ACCEPTED

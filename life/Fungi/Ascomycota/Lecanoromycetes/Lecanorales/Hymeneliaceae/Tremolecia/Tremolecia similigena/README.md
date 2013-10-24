@@ -1,5 +1,4 @@
-Tremolecia similigena (Nyl.) Hertel SPECIES
-=======
+# Tremolecia similigena (Nyl.) Hertel SPECIES
 
 #### Status
 ACCEPTED

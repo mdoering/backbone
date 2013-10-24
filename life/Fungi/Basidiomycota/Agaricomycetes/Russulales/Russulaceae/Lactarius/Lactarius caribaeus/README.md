@@ -1,5 +1,4 @@
-Lactarius caribaeus Pegler SPECIES
-=======
+# Lactarius caribaeus Pegler SPECIES
 
 #### Status
 ACCEPTED

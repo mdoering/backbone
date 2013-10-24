@@ -1,5 +1,4 @@
-Collema caespitosum Taylor SPECIES
-=======
+# Collema caespitosum Taylor SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus holoporphyrus Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus holoporphyrus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

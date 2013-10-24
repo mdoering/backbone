@@ -1,5 +1,4 @@
-Conocybe stercoraria Watling SPECIES
-=======
+# Conocybe stercoraria Watling SPECIES
 
 #### Status
 ACCEPTED

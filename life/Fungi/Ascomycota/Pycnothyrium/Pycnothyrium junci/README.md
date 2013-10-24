@@ -1,5 +1,4 @@
-Pycnothyrium junci Grove SPECIES
-=======
+# Pycnothyrium junci Grove SPECIES
 
 #### Status
 ACCEPTED

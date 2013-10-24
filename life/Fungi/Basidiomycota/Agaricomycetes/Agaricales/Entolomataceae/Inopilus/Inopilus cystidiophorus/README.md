@@ -1,5 +1,4 @@
-Inopilus cystidiophorus (Dennis) Pegler SPECIES
-=======
+# Inopilus cystidiophorus (Dennis) Pegler SPECIES
 
 #### Status
 ACCEPTED

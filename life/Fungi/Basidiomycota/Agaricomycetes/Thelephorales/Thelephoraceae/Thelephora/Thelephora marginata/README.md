@@ -1,5 +1,4 @@
-Thelephora marginata Alb. & Schwein. SPECIES
-=======
+# Thelephora marginata Alb. & Schwein. SPECIES
 
 #### Status
 ACCEPTED

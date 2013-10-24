@@ -1,5 +1,4 @@
-Actidium caricinum Schwein. SPECIES
-=======
+# Actidium caricinum Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mammariopsis variospora L.J. Hutchison & J. Reid, 1988 SPECIES
-=======
+# Mammariopsis variospora L.J. Hutchison & J. Reid, 1988 SPECIES
 
 #### Status
 ACCEPTED

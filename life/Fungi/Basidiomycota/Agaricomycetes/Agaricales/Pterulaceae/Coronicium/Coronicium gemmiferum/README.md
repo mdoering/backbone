@@ -1,14 +1,13 @@
-Corticium gemmiferum Bourdot & Galzin, 1911 SPECIES
-=======
+# Coronicium gemmiferum (Bourdot & Galzin) J. Erikss. & Ryvarden, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 27(2): 250 (1911)
+Cortic. N. Eur. (Oslo), <b>3</b> Coronicium-Hyphoderma 3: 297 (1975)
 
 #### Original name
 Corticium gemmiferum Bourdot & Galzin, 1911

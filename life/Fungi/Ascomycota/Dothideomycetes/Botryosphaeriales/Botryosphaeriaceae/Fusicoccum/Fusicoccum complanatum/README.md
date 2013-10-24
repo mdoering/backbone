@@ -1,5 +1,4 @@
-Fusicoccum complanatum Delacr. SPECIES
-=======
+# Fusicoccum complanatum Delacr. SPECIES
 
 #### Status
 ACCEPTED

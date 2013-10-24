@@ -1,5 +1,4 @@
-Aspicilia endoleuca (Hue) Hue SPECIES
-=======
+# Aspicilia endoleuca (Hue) Hue SPECIES
 
 #### Status
 ACCEPTED

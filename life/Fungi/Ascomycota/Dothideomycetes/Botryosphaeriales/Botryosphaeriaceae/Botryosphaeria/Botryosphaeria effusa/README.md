@@ -1,5 +1,4 @@
-Botryosphaeria effusa (Rehm) Weese SPECIES
-=======
+# Botryosphaeria effusa (Rehm) Weese SPECIES
 
 #### Status
 ACCEPTED

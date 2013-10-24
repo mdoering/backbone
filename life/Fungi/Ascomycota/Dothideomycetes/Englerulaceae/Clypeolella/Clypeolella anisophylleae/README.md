@@ -1,5 +1,4 @@
-Clypeolella anisophylleae Syd. SPECIES
-=======
+# Clypeolella anisophylleae Syd. SPECIES
 
 #### Status
 ACCEPTED

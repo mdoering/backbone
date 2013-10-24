@@ -1,5 +1,4 @@
-Puccinia praeculta H.S. Jacks. & Holw. SPECIES
-=======
+# Puccinia praeculta H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

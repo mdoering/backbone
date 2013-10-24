@@ -1,5 +1,4 @@
-Naviculopsis danica K. Perch-Nielsen SPECIES
-=======
+# Naviculopsis danica K. Perch-Nielsen SPECIES
 
 #### Status
 ACCEPTED

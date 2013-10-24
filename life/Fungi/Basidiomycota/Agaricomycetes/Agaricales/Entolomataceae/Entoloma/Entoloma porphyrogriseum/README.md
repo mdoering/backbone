@@ -1,5 +1,4 @@
-Entoloma porphyrogriseum Noordel., 1987 SPECIES
-=======
+# Entoloma porphyrogriseum Noordel., 1987 SPECIES
 
 #### Status
 ACCEPTED

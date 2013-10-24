@@ -1,5 +1,4 @@
-Anaeroarcus Strompl, Tindall, Jarvis, Lunsdorf, Moore & Hippe, 1999 GENUS
-=======
+# Anaeroarcus Strompl, Tindall, Jarvis, Lunsdorf, Moore & Hippe, 1999 GENUS
 
 #### Status
 ACCEPTED

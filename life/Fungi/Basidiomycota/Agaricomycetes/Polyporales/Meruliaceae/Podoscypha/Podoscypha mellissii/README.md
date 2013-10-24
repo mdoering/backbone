@@ -1,17 +1,16 @@
-Lloydella mellisii (Berk. ex Sacc.) Bres. SPECIES
-=======
+# Podoscypha mellissii (Berk. ex Sacc.) Bres., 1928 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mém. Acad. malgache 6: 11 (1928)
 
 #### Original name
-Stereum mellisii Berk. ex Sacc.
+Stereum mellissii Berk. ex Sacc., 1888
 
 ### Remarks
 null

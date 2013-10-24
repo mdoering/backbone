@@ -1,11 +1,10 @@
-Ruminobacter succinogenes (Hungate, 1950) Prévot, 1966 SPECIES
-=======
+# Fibrobacter succinogenes (Hungate, 1950) Montgomery et al., 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

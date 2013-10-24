@@ -1,5 +1,4 @@
-Calicium exsertum Nyl. SPECIES
-=======
+# Calicium exsertum Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polychidium intricatulum (Nyl.) Henssen SPECIES
-=======
+# Polychidium intricatulum (Nyl.) Henssen SPECIES
 
 #### Status
 ACCEPTED

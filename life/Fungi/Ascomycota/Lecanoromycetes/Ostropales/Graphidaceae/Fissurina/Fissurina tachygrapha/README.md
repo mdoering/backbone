@@ -1,17 +1,16 @@
-Graphis tachygrapha Nyl. SPECIES
-=======
+# Fissurina tachygrapha (Nyl.) Staiger SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Biblthca Lichenol. 85: 154 (2002)
 
 #### Original name
-null
+Graphis tachygrapha Nyl.
 
 ### Remarks
 null

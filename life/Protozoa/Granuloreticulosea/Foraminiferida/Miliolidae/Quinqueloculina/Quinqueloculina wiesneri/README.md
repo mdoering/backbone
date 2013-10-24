@@ -1,5 +1,4 @@
-Quinqueloculina wiesneri SPECIES
-=======
+# Quinqueloculina wiesneri SPECIES
 
 #### Status
 ACCEPTED

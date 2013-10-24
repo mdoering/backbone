@@ -1,5 +1,4 @@
-Leptonia fuligineomarginata (Hesler) Largent SPECIES
-=======
+# Leptonia fuligineomarginata (Hesler) Largent SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cornutispora lichenicola D. Hawksw. & B. Sutton, 1976 SPECIES
-=======
+# Cornutispora lichenicola D. Hawksw. & B. Sutton, 1976 SPECIES
 
 #### Status
 ACCEPTED

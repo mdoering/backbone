@@ -1,5 +1,4 @@
-Agrocybe chrysocystidiata Guzmán & V. Mora SPECIES
-=======
+# Agrocybe chrysocystidiata Guzmán & V. Mora SPECIES
 
 #### Status
 ACCEPTED

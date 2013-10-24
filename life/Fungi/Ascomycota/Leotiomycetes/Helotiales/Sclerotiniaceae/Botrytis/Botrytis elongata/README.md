@@ -1,5 +1,4 @@
-Botrytis elongata Fr. SPECIES
-=======
+# Botrytis elongata Fr. SPECIES
 
 #### Status
 ACCEPTED

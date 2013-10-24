@@ -1,5 +1,4 @@
-Alternaria iridiaustralis E.G. Simmons, Alcorn & C.F. Hill, 2007 SPECIES
-=======
+# Alternaria iridiaustralis E.G. Simmons, Alcorn & C.F. Hill, 2007 SPECIES
 
 #### Status
 ACCEPTED

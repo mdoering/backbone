@@ -1,17 +1,16 @@
-Cortinarius venetus var. venetus VARIETY
-=======
+# Cortinarius venetus (Fr.) Fr., 1838 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Epicr. syst. mycol. (Upsaliae) 291 (1838)
 
 #### Original name
-Cortinarius venetus var. venetus
+Agaricus venetus (Fr.) Fr.
 
 ### Remarks
 null

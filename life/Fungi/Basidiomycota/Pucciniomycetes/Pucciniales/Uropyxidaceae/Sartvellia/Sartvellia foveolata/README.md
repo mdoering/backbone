@@ -1,5 +1,4 @@
-Sartvellia foveolata (Berk. & M.A. Curtis) Berk. SPECIES
-=======
+# Sartvellia foveolata (Berk. & M.A. Curtis) Berk. SPECIES
 
 #### Status
 ACCEPTED

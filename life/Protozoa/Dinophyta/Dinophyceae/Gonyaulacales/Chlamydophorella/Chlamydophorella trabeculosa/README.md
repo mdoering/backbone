@@ -1,5 +1,4 @@
-Chlamydophorella trabeculosa (H. Gocht) R. J. Davey SPECIES
-=======
+# Chlamydophorella trabeculosa (H. Gocht) R. J. Davey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium nummulare Berk. SPECIES
-=======
+# Aecidium nummulare Berk. SPECIES
 
 #### Status
 ACCEPTED

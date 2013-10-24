@@ -1,5 +1,4 @@
-Cladonia nitidella S. Hammer SPECIES
-=======
+# Cladonia nitidella S. Hammer SPECIES
 
 #### Status
 ACCEPTED

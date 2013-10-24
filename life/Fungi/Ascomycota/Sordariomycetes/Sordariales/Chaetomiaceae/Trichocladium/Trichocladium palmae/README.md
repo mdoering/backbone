@@ -1,5 +1,4 @@
-Trichocladium palmae Manohar., N.K. Rao, Kunwar & D.K. Agarwal SPECIES
-=======
+# Trichocladium palmae Manohar., N.K. Rao, Kunwar & D.K. Agarwal SPECIES
 
 #### Status
 ACCEPTED

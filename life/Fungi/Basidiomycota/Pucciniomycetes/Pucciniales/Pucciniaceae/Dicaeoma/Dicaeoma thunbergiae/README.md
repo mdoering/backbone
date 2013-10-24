@@ -1,5 +1,4 @@
-Dicaeoma thunbergiae (Cooke) Kuntze SPECIES
-=======
+# Dicaeoma thunbergiae (Cooke) Kuntze SPECIES
 
 #### Status
 ACCEPTED

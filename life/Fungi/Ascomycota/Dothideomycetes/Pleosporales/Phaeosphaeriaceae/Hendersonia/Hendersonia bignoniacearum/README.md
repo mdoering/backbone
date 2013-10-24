@@ -1,5 +1,4 @@
-Hendersonia bignoniacearum Höhn. SPECIES
-=======
+# Hendersonia bignoniacearum Höhn. SPECIES
 
 #### Status
 ACCEPTED

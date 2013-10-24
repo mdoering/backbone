@@ -1,5 +1,4 @@
-Mycosphaerella entadae Sawada SPECIES
-=======
+# Mycosphaerella entadae Sawada SPECIES
 
 #### Status
 ACCEPTED

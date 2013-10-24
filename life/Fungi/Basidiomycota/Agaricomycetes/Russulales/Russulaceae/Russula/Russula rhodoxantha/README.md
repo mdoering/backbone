@@ -1,5 +1,4 @@
-Russula rhodoxantha Peyronel SPECIES
-=======
+# Russula rhodoxantha Peyronel SPECIES
 
 #### Status
 ACCEPTED

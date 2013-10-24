@@ -1,5 +1,4 @@
-Cortinarius hircosus Britzelm. SPECIES
-=======
+# Cortinarius hircosus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

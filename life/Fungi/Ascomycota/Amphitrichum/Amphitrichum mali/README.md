@@ -1,5 +1,4 @@
-Amphitrichum mali (Ellis & Everh.) Kuntze SPECIES
-=======
+# Amphitrichum mali (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

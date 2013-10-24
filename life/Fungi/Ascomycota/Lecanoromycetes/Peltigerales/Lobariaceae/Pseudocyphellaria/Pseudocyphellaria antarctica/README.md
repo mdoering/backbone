@@ -1,5 +1,4 @@
-Pseudocyphellaria antarctica Vain. ex Räsänen SPECIES
-=======
+# Pseudocyphellaria antarctica Vain. ex Räsänen SPECIES
 
 #### Status
 ACCEPTED

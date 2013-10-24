@@ -1,5 +1,4 @@
-Cytospora kantschavelii Gvrit. SPECIES
-=======
+# Cytospora kantschavelii Gvrit. SPECIES
 
 #### Status
 ACCEPTED

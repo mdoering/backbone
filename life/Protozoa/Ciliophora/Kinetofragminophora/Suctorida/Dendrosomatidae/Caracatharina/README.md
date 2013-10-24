@@ -1,5 +1,4 @@
-Caracatharina Kormos, 1960 GENUS
-=======
+# Caracatharina Kormos, 1960 GENUS
 
 #### Status
 ACCEPTED

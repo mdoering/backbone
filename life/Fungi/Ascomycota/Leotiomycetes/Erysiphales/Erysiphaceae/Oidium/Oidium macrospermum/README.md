@@ -1,5 +1,4 @@
-Oidium macrospermum Henn. SPECIES
-=======
+# Oidium macrospermum Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius piceae Frøslev, T.S. Jeppesen & Brandrud SPECIES
-=======
+# Cortinarius piceae Frøslev, T.S. Jeppesen & Brandrud SPECIES
 
 #### Status
 ACCEPTED

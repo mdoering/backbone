@@ -1,5 +1,4 @@
-Reddellomyces Trappe, Castellano & Malajczuk GENUS
-=======
+# Reddellomyces Trappe, Castellano & Malajczuk GENUS
 
 #### Status
 ACCEPTED

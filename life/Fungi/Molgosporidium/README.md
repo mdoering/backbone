@@ -1,5 +1,4 @@
-Molgosporidium Thor GENUS
-=======
+# Molgosporidium Thor GENUS
 
 #### Status
 ACCEPTED

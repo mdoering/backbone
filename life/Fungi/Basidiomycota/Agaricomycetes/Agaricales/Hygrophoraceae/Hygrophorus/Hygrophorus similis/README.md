@@ -1,5 +1,4 @@
-Hygrophorus similis Petch SPECIES
-=======
+# Hygrophorus similis Petch SPECIES
 
 #### Status
 ACCEPTED

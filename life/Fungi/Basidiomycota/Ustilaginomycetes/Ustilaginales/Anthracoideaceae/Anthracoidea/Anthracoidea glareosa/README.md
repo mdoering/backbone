@@ -1,5 +1,4 @@
-Anthracoidea glareosa (Liro) Zambett. SPECIES
-=======
+# Anthracoidea glareosa (Liro) Zambett. SPECIES
 
 #### Status
 ACCEPTED

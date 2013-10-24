@@ -1,5 +1,4 @@
-Ozonium plica Kalchbr. SPECIES
-=======
+# Ozonium plica Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

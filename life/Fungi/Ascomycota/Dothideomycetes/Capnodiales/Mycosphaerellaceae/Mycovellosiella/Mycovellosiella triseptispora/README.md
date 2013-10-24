@@ -1,14 +1,13 @@
-Mycovellosiella triseptospora (J.M. Yen) J.M. Yen SPECIES
-=======
+# Mycovellosiella triseptispora (J.M. Yen) J.M. Yen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. trimest. Soc. mycol. Fr. 97(3): 131 (1981)
 
 #### Original name
 Cercospora triseptispora J.M. Yen

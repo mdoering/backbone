@@ -1,5 +1,4 @@
-Polyporus xylocreon Speg. SPECIES
-=======
+# Polyporus xylocreon Speg. SPECIES
 
 #### Status
 ACCEPTED

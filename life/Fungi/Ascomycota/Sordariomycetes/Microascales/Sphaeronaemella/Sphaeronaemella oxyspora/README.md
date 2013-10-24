@@ -1,5 +1,4 @@
-Sphaeronaemella oxyspora (Berk.) Sacc. SPECIES
-=======
+# Sphaeronaemella oxyspora (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cycloporellus cichoriaceus (Berk. ex Fr.) Murrill SPECIES
-=======
+# Cycloporellus cichoriaceus (Berk. ex Fr.) Murrill SPECIES
 
 #### Status
 ACCEPTED

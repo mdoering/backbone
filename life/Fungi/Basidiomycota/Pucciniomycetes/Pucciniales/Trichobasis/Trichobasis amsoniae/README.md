@@ -1,5 +1,4 @@
-Trichobasis amsoniae Cooke SPECIES
-=======
+# Trichobasis amsoniae Cooke SPECIES
 
 #### Status
 ACCEPTED

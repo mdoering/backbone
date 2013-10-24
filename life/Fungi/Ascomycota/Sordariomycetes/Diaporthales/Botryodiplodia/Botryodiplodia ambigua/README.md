@@ -1,5 +1,4 @@
-Botryodiplodia ambigua Petr. SPECIES
-=======
+# Botryodiplodia ambigua Petr. SPECIES
 
 #### Status
 ACCEPTED

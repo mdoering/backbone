@@ -1,5 +1,4 @@
-Prorocentrum formosum M. A. Faust SPECIES
-=======
+# Prorocentrum formosum M. A. Faust SPECIES
 
 #### Status
 ACCEPTED

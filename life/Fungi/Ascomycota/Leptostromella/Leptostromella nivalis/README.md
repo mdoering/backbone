@@ -1,5 +1,4 @@
-Leptostromella nivalis Maire SPECIES
-=======
+# Leptostromella nivalis Maire SPECIES
 
 #### Status
 ACCEPTED

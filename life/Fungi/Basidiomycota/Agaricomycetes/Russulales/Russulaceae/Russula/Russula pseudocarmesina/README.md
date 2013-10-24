@@ -1,5 +1,4 @@
-Russula pseudocarmesina Buyck SPECIES
-=======
+# Russula pseudocarmesina Buyck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphorides laackmanni (Jörgensen) Strand, 1928 SPECIES
-=======
+# Amphorides laackmanni (Jörgensen) Strand, 1928 SPECIES
 
 #### Status
 ACCEPTED

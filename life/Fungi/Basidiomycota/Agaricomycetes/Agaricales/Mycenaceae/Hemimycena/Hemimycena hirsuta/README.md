@@ -1,17 +1,16 @@
-Hemimycena crispula var. crispula VARIETY
-=======
+# Hemimycena hirsuta (Tode) Singer, 1986 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Agaric. mod. Tax. (Koenigstein), Edn 4 397 (1986)
 
 #### Original name
-null
+Helotium hirsutum Tode, 1790
 
 ### Remarks
 null

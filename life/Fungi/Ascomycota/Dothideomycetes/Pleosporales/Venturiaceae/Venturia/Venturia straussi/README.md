@@ -1,5 +1,4 @@
-Venturia straussi Sacc. & Roum. SPECIES
-=======
+# Venturia straussi Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

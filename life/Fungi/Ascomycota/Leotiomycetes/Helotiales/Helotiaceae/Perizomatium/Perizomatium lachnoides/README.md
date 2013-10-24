@@ -1,5 +1,4 @@
-Perizomatium lachnoides (Rehm) Syd. SPECIES
-=======
+# Perizomatium lachnoides (Rehm) Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria margaritacea Zahlbr. SPECIES
-=======
+# Pertusaria margaritacea Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina colubrinae Ellis & Kelsey SPECIES
-=======
+# Asterina colubrinae Ellis & Kelsey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Perichaena maginata SPECIES
-=======
+# Perichaena maginata SPECIES
 
 #### Status
 ACCEPTED

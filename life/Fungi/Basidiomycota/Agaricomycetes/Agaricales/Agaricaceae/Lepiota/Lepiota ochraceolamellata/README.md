@@ -1,5 +1,4 @@
-Lepiota ochraceolamellata Dennis SPECIES
-=======
+# Lepiota ochraceolamellata Dennis SPECIES
 
 #### Status
 ACCEPTED

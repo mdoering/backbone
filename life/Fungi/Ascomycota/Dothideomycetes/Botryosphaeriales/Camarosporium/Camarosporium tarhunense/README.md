@@ -1,5 +1,4 @@
-Camarosporium tarhunense Sacc. SPECIES
-=======
+# Camarosporium tarhunense Sacc. SPECIES
 
 #### Status
 ACCEPTED

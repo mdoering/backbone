@@ -1,5 +1,4 @@
-Scindalma pes-simiae (Berk.) Kuntze SPECIES
-=======
+# Scindalma pes-simiae (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizoctonia napi Westend. SPECIES
-=======
+# Rhizoctonia napi Westend. SPECIES
 
 #### Status
 ACCEPTED

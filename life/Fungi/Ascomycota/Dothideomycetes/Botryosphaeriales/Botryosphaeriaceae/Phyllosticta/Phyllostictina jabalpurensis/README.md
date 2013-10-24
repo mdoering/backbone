@@ -1,5 +1,4 @@
-Phyllostictina jabalpurensis N.D. Sharma SPECIES
-=======
+# Phyllostictina jabalpurensis N.D. Sharma SPECIES
 
 #### Status
 ACCEPTED

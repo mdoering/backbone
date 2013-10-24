@@ -1,5 +1,4 @@
-Prochlorothrix T.Burger-Wiersma, L.J.Stal & L.R.Mur, 1989 GENUS
-=======
+# Prochlorothrix T.Burger-Wiersma, L.J.Stal & L.R.Mur, 1989 GENUS
 
 #### Status
 ACCEPTED

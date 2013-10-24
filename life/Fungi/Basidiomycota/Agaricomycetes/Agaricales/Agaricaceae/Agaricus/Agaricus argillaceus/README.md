@@ -1,5 +1,4 @@
-Agaricus argillaceus var. argillaceus VARIETY
-=======
+# Agaricus argillaceus J. Otto SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Vers. Anordnung Beschr. Agaricorum (Leipzig) 80 (1816)
 
 #### Original name
-Agaricus argillaceus var. argillaceus
+Agaricus argillaceus J. Otto
 
 ### Remarks
 null

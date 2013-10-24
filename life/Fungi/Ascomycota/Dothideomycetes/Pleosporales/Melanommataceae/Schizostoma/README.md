@@ -1,5 +1,4 @@
-Schizostoma GENUS
-=======
+# Schizostoma GENUS
 
 #### Status
 ACCEPTED

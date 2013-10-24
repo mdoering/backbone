@@ -1,5 +1,4 @@
-Phyllopsora nemoralis Timdal & Krog SPECIES
-=======
+# Phyllopsora nemoralis Timdal & Krog SPECIES
 
 #### Status
 ACCEPTED

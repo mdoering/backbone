@@ -1,5 +1,4 @@
-Uredo inquirenda Arthur SPECIES
-=======
+# Uredo inquirenda Arthur SPECIES
 
 #### Status
 ACCEPTED

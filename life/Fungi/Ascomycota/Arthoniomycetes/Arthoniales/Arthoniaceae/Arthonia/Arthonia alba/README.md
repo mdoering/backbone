@@ -1,5 +1,4 @@
-Arthonia alba Müll. Arg. SPECIES
-=======
+# Arthonia alba Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ustalia caribaea Mont. SPECIES
-=======
+# Ustalia caribaea Mont. SPECIES
 
 #### Status
 ACCEPTED

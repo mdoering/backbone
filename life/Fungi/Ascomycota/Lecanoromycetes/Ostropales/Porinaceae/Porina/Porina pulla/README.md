@@ -1,5 +1,4 @@
-Porina pulla (Ach.) Müll. Arg. SPECIES
-=======
+# Porina pulla (Ach.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

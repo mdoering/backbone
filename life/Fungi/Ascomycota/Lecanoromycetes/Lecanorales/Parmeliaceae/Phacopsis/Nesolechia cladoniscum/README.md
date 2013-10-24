@@ -1,5 +1,4 @@
-Nesolechia cladoniscum (Willey) Fink SPECIES
-=======
+# Nesolechia cladoniscum (Willey) Fink SPECIES
 
 #### Status
 ACCEPTED

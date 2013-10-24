@@ -1,5 +1,4 @@
-Peniophora sphaerocystidiata Burds. & Nakasone, 1983 SPECIES
-=======
+# Peniophora sphaerocystidiata Burds. & Nakasone, 1983 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptostroma lycopi Allesch. SPECIES
-=======
+# Leptostroma lycopi Allesch. SPECIES
 
 #### Status
 ACCEPTED

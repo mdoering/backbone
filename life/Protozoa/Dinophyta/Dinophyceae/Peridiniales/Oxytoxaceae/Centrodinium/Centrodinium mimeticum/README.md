@@ -1,8 +1,7 @@
-Murrayella mimetica Balech SPECIES
-=======
+# Centrodinium mimeticum (Balech, 1967) F.J.R. Taylor, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

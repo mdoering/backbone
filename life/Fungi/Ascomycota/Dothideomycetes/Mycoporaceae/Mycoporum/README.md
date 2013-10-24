@@ -1,17 +1,16 @@
-Dictyothyrium Grove, 1932 GENUS
-=======
+# Mycoporum Flotow ex Nylander, 1855 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Bot. , London 70: 3 (1932)
+Mém. Soc. natn. Sci. nat. math. Cherbourg 3: 186 (1855)
 
 #### Original name
-Dictyothyrium Grove, 1932
+Mycoporum Flotow ex Nylander, 1855
 
 ### Remarks
 null

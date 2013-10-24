@@ -1,5 +1,4 @@
-Peltigera pacifica Vitik. SPECIES
-=======
+# Peltigera pacifica Vitik. SPECIES
 
 #### Status
 ACCEPTED

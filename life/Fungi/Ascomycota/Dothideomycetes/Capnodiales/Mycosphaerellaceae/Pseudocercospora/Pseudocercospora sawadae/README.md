@@ -1,14 +1,13 @@
-Cercospora sawadae W. Yamam., 1934 SPECIES
-=======
+# Pseudocercospora sawadae (W. Yamam.) Goh & W.H. Hsieh, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Journal of the Society of Tropical Agriculture, Formosa 6: 607 (1934)
+Trans. Mycol. Soc. Rep. China 2(2): 117 (1987)
 
 #### Original name
 Cercospora sawadae W. Yamam., 1934

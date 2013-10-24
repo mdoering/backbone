@@ -1,5 +1,4 @@
-Mycosphaerella sassafras (Ellis & Everh.) Cash SPECIES
-=======
+# Mycosphaerella sassafras (Ellis & Everh.) Cash SPECIES
 
 #### Status
 ACCEPTED

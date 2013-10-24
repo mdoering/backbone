@@ -1,5 +1,4 @@
-Asteroma castaneae Desm. SPECIES
-=======
+# Asteroma castaneae Desm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus polyrhizus J. Otto SPECIES
-=======
+# Agaricus polyrhizus J. Otto SPECIES
 
 #### Status
 ACCEPTED

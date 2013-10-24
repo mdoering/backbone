@@ -1,5 +1,4 @@
-Chilemyces valparadisiacus Speg. SPECIES
-=======
+# Chilemyces valparadisiacus Speg. SPECIES
 
 #### Status
 ACCEPTED

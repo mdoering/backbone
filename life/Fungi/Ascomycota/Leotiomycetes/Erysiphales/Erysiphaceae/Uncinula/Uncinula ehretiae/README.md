@@ -1,5 +1,4 @@
-Uncinula ehretiae Keissl. SPECIES
-=======
+# Uncinula ehretiae Keissl. SPECIES
 
 #### Status
 ACCEPTED

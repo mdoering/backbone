@@ -1,5 +1,4 @@
-Synchytrium chiltonii M.T. Cook SPECIES
-=======
+# Synchytrium chiltonii M.T. Cook SPECIES
 
 #### Status
 ACCEPTED

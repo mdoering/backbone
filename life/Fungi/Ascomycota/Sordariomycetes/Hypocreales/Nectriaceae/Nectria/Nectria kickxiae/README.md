@@ -1,5 +1,4 @@
-Nectria kickxiae Henn. SPECIES
-=======
+# Nectria kickxiae Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Biatorella integra (H. Magn.) Zahlbr. SPECIES
-=======
+# Biatorella integra (H. Magn.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

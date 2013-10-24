@@ -1,5 +1,4 @@
-Marasmius spadiceus Gilliam SPECIES
-=======
+# Marasmius spadiceus Gilliam SPECIES
 
 #### Status
 ACCEPTED

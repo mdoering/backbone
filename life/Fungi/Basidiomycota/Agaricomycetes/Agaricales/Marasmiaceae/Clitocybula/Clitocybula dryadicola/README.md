@@ -1,5 +1,4 @@
-Clitocybula dryadicola Kühner SPECIES
-=======
+# Clitocybula dryadicola Kühner SPECIES
 
 #### Status
 ACCEPTED

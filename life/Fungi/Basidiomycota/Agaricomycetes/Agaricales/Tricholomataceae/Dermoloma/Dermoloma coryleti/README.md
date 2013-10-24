@@ -1,5 +1,4 @@
-Dermoloma coryleti Singer & Clémençon SPECIES
-=======
+# Dermoloma coryleti Singer & Clémençon SPECIES
 
 #### Status
 ACCEPTED

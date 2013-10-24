@@ -1,5 +1,4 @@
-Platypeltella angustispora M.L. Farr & Pollack SPECIES
-=======
+# Platypeltella angustispora M.L. Farr & Pollack SPECIES
 
 #### Status
 ACCEPTED

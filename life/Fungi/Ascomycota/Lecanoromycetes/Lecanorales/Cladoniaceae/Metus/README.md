@@ -1,5 +1,4 @@
-Metus D.J. Galloway & P. James GENUS
-=======
+# Metus D.J. Galloway & P. James GENUS
 
 #### Status
 ACCEPTED

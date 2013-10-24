@@ -1,5 +1,4 @@
-Sparsacineta Yankovskii, 1978 GENUS
-=======
+# Sparsacineta Yankovskii, 1978 GENUS
 
 #### Status
 ACCEPTED

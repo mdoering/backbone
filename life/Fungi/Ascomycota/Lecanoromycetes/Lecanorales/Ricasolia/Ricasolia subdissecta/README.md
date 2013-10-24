@@ -1,5 +1,4 @@
-Ricasolia subdissecta Nyl. SPECIES
-=======
+# Ricasolia subdissecta Nyl. SPECIES
 
 #### Status
 ACCEPTED

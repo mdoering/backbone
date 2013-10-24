@@ -1,5 +1,4 @@
-Pestalozziella fumerea (Desm.) SPECIES
-=======
+# Pestalozziella fumerea (Desm.) SPECIES
 
 #### Status
 ACCEPTED

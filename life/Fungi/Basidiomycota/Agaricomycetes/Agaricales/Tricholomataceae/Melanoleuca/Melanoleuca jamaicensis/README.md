@@ -1,17 +1,16 @@
-Melanoleuca jamaicense Murrill SPECIES
-=======
+# Melanoleuca jamaicensis Murrill SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 3(4): 194 (1911)
 
 #### Original name
-Melanoleuca jamaicense Murrill
+Melanoleuca jamaicensis Murrill
 
 ### Remarks
 null

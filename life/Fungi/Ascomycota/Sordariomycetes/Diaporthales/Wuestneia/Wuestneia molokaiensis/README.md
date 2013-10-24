@@ -1,5 +1,4 @@
-Wuestneia molokaiensis Crous & J.D. Rogers SPECIES
-=======
+# Wuestneia molokaiensis Crous & J.D. Rogers SPECIES
 
 #### Status
 ACCEPTED

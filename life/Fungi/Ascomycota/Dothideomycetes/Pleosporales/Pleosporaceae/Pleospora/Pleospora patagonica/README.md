@@ -1,5 +1,4 @@
-Pleospora patagonica Speg. SPECIES
-=======
+# Pleospora patagonica Speg. SPECIES
 
 #### Status
 ACCEPTED

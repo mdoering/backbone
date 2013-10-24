@@ -1,5 +1,4 @@
-Ogataea nitratoaversa G. Péter, Tornai-Leh. & Dlauchy, 2008 SPECIES
-=======
+# Ogataea nitratoaversa G. Péter, Tornai-Leh. & Dlauchy, 2008 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spatulodinium J.Cachon & M.Cachon, 1976 GENUS
-=======
+# Spatulodinium J.Cachon & M.Cachon, 1976 GENUS
 
 #### Status
 ACCEPTED

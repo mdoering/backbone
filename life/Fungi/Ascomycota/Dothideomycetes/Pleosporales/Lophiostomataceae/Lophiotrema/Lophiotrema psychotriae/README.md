@@ -1,5 +1,4 @@
-Lophiotrema psychotriae A.M.C. Tang, K.D. Hyde, K.M. Tsui & R.T. Corlett SPECIES
-=======
+# Lophiotrema psychotriae A.M.C. Tang, K.D. Hyde, K.M. Tsui & R.T. Corlett SPECIES
 
 #### Status
 ACCEPTED

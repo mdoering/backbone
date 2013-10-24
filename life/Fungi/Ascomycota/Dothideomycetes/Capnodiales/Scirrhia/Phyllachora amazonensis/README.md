@@ -1,5 +1,4 @@
-Phyllachora amazonensis (Bat. & J.L. Bezerra) P.F. Cannon, 1991 SPECIES
-=======
+# Phyllachora amazonensis (Bat. & J.L. Bezerra) P.F. Cannon, 1991 SPECIES
 
 #### Status
 DOUBTFUL

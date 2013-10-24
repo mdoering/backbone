@@ -1,5 +1,4 @@
-Gymnomyces Massee & Rodway GENUS
-=======
+# Gymnomyces Massee & Rodway GENUS
 
 #### Status
 ACCEPTED

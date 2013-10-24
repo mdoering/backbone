@@ -1,5 +1,4 @@
-Pyrenula oculata Ajay Singh & Upreti SPECIES
-=======
+# Pyrenula oculata Ajay Singh & Upreti SPECIES
 
 #### Status
 ACCEPTED

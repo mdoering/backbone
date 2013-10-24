@@ -1,5 +1,4 @@
-Callistosporium luteoolivaceum (Berk. & M.A. Curtis) Singer SPECIES
-=======
+# Callistosporium luteoolivaceum (Berk. & M.A. Curtis) Singer SPECIES
 
 #### Status
 ACCEPTED

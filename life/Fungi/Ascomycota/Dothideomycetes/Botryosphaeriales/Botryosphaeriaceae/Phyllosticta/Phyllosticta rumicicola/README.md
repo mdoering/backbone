@@ -1,5 +1,4 @@
-Phyllosticta rumicicola Miura SPECIES
-=======
+# Phyllosticta rumicicola Miura SPECIES
 
 #### Status
 ACCEPTED

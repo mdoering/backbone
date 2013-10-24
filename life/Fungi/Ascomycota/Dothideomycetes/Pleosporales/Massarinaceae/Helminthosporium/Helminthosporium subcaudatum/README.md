@@ -1,17 +1,16 @@
-Helmisporium subcaudatum Cooke SPECIES
-=======
+# Helminthosporium subcaudatum Cooke SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Grevillea 6(no. 40): 141 (1878)
 
 #### Original name
-Helmisporium subcaudatum Cooke
+Helminthosporium subcaudatum Cooke
 
 ### Remarks
 null

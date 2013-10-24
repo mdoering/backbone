@@ -1,5 +1,4 @@
-Lepiota congolensis var. congolensis VARIETY
-=======
+# Lepiota congolensis Beeli SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Bull. Soc. R. Bot. Belg. 59: 110 (1927)
 
 #### Original name
-Lepiota congolensis var. congolensis
+Lepiota congolensis Beeli
 
 ### Remarks
 null

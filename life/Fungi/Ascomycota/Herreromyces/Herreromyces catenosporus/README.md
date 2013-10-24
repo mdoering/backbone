@@ -1,5 +1,4 @@
-Herreromyces catenosporus R.F. Castañeda & W.B. Kendr., 1991 SPECIES
-=======
+# Herreromyces catenosporus R.F. Castañeda & W.B. Kendr., 1991 SPECIES
 
 #### Status
 ACCEPTED

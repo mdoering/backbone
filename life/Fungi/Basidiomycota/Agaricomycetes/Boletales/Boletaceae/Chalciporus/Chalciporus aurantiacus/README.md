@@ -1,14 +1,13 @@
-Xerocomus aurantiacus McNabb, 1968 SPECIES
-=======
+# Chalciporus aurantiacus (McNabb) Pegler & T.W.K. Young, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-N. Z. Jl Bot. 6(2): 146 (1968)
+Trans. Br. mycol. Soc. 76(1): 137 (1981)
 
 #### Original name
 Xerocomus aurantiacus McNabb, 1968

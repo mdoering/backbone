@@ -1,5 +1,4 @@
-Xylaria hispidissima (Fr.) Sacc. SPECIES
-=======
+# Xylaria hispidissima (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

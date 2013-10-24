@@ -1,5 +1,4 @@
-Cicadomyces dubius Buchner SPECIES
-=======
+# Cicadomyces dubius Buchner SPECIES
 
 #### Status
 ACCEPTED

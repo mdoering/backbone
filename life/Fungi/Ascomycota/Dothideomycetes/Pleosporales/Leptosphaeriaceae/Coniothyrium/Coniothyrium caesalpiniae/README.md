@@ -1,5 +1,4 @@
-Coniothyrium caesalpiniae Gucevic SPECIES
-=======
+# Coniothyrium caesalpiniae Gucevic SPECIES
 
 #### Status
 ACCEPTED

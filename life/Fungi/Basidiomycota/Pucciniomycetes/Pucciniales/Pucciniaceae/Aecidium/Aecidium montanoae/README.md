@@ -1,5 +1,4 @@
-Aecidium montanoae Dietel & Holw. SPECIES
-=======
+# Aecidium montanoae Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

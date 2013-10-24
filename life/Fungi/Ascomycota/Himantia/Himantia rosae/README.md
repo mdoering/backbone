@@ -1,5 +1,4 @@
-Himantia rosae Fr. SPECIES
-=======
+# Himantia rosae Fr. SPECIES
 
 #### Status
 ACCEPTED

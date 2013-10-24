@@ -1,5 +1,4 @@
-Centrodeuterammina Bronnimann & Whittaker, 1983 GENUS
-=======
+# Centrodeuterammina Bronnimann & Whittaker, 1983 GENUS
 
 #### Status
 ACCEPTED

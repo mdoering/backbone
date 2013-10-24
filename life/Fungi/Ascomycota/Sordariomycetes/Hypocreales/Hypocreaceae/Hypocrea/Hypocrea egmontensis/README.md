@@ -1,5 +1,4 @@
-Hypocrea egmontensis Dingley, 1956 SPECIES
-=======
+# Hypocrea egmontensis Dingley, 1956 SPECIES
 
 #### Status
 ACCEPTED

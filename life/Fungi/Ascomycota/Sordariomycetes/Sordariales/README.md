@@ -1,5 +1,4 @@
-Sordariales Chadef. ex D. Hawksw. & O.E. Erikss. ORDER
-=======
+# Sordariales Chadef. ex D. Hawksw. & O.E. Erikss. ORDER
 
 #### Status
 ACCEPTED

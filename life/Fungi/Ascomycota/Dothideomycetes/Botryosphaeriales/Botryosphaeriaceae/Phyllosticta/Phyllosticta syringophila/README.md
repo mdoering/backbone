@@ -1,5 +1,4 @@
-Phyllosticta syringophila Oudem. SPECIES
-=======
+# Phyllosticta syringophila Oudem. SPECIES
 
 #### Status
 ACCEPTED

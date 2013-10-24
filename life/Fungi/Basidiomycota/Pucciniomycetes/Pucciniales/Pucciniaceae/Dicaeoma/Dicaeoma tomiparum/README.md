@@ -1,5 +1,4 @@
-Dicaeoma tomiparum (Trel.) Kuntze SPECIES
-=======
+# Dicaeoma tomiparum (Trel.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

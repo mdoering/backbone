@@ -1,5 +1,4 @@
-Hydnum byssinum Schrad. SPECIES
-=======
+# Hydnum byssinum Schrad. SPECIES
 
 #### Status
 ACCEPTED

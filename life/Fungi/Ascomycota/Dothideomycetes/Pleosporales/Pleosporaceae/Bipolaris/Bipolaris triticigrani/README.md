@@ -1,5 +1,4 @@
-Bipolaris triticigrani (A.P. Misra & R.A. Singh) Sivan. SPECIES
-=======
+# Bipolaris triticigrani (A.P. Misra & R.A. Singh) Sivan. SPECIES
 
 #### Status
 ACCEPTED

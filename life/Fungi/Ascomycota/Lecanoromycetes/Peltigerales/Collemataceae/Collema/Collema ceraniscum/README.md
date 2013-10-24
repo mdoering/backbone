@@ -1,5 +1,4 @@
-Collema ceraniscum Nyl. SPECIES
-=======
+# Collema ceraniscum Nyl. SPECIES
 
 #### Status
 ACCEPTED

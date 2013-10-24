@@ -1,5 +1,4 @@
-Micarea endocyanea (Tuck. ex Willey) R.C. Harris SPECIES
-=======
+# Micarea endocyanea (Tuck. ex Willey) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium limnanthemi Thüm. SPECIES
-=======
+# Aecidium limnanthemi Thüm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xeromphalina melizea E. Horak SPECIES
-=======
+# Xeromphalina melizea E. Horak SPECIES
 
 #### Status
 ACCEPTED

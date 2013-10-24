@@ -1,5 +1,4 @@
-Stypinella hypochnoides Höhn. SPECIES
-=======
+# Stypinella hypochnoides Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hericium nudicaule Pers. SPECIES
-=======
+# Hericium nudicaule Pers. SPECIES
 
 #### Status
 ACCEPTED

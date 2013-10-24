@@ -1,5 +1,4 @@
-Dermatocarpon turgidum Servít SPECIES
-=======
+# Dermatocarpon turgidum Servít SPECIES
 
 #### Status
 ACCEPTED

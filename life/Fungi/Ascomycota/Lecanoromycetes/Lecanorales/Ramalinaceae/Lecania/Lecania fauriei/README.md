@@ -1,5 +1,4 @@
-Lecania fauriei B. de Lesd. SPECIES
-=======
+# Lecania fauriei B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

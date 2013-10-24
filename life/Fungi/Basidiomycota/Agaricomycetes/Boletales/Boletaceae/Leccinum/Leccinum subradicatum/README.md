@@ -1,5 +1,4 @@
-Leccinum subradicatum Hongo SPECIES
-=======
+# Leccinum subradicatum Hongo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Haplocaulus fusiformis (Nenninger, 1948) Sommer, 1951 SPECIES
-=======
+# Haplocaulus fusiformis (Nenninger, 1948) Sommer, 1951 SPECIES
 
 #### Status
 ACCEPTED

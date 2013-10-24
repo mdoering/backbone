@@ -1,5 +1,4 @@
-Pyrenophora pittospori Bondartseva SPECIES
-=======
+# Pyrenophora pittospori Bondartseva SPECIES
 
 #### Status
 ACCEPTED

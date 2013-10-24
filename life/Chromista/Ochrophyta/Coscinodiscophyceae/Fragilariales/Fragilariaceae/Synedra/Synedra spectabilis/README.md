@@ -1,5 +1,4 @@
-Synedra spectabilis Ehrenberg SPECIES
-=======
+# Synedra spectabilis Ehrenberg SPECIES
 
 #### Status
 ACCEPTED

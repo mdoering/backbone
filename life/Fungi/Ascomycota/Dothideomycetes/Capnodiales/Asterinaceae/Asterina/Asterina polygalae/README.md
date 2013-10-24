@@ -1,5 +1,4 @@
-Asterina polygalae Hosagoudar, Dhivaharan & Nithyatharani, 2010 SPECIES
-=======
+# Asterina polygalae Hosagoudar, Dhivaharan & Nithyatharani, 2010 SPECIES
 
 #### Status
 ACCEPTED

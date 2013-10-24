@@ -1,5 +1,4 @@
-Psathyrella minutula (Schaeff.) Murrill SPECIES
-=======
+# Psathyrella minutula (Schaeff.) Murrill SPECIES
 
 #### Status
 ACCEPTED

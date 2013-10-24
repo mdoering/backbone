@@ -1,5 +1,4 @@
-Oxyporus macroporus Y.C. Dai & Y.L. Wei, 2004 SPECIES
-=======
+# Oxyporus macroporus Y.C. Dai & Y.L. Wei, 2004 SPECIES
 
 #### Status
 ACCEPTED

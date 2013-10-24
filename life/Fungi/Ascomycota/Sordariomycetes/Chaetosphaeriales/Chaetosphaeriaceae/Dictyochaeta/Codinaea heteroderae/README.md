@@ -1,5 +1,4 @@
-Codinaea heteroderae Morgan-Jones SPECIES
-=======
+# Codinaea heteroderae Morgan-Jones SPECIES
 
 #### Status
 ACCEPTED

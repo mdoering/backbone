@@ -1,5 +1,4 @@
-Pleospora caudata (Rehm) E. Müll. SPECIES
-=======
+# Pleospora caudata (Rehm) E. Müll. SPECIES
 
 #### Status
 ACCEPTED

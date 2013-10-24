@@ -1,5 +1,4 @@
-Gyraria albida (Huds.) Gray SPECIES
-=======
+# Gyraria albida (Huds.) Gray SPECIES
 
 #### Status
 ACCEPTED

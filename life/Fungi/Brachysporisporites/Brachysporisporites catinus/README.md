@@ -1,5 +1,4 @@
-Brachysporisporites catinus (Elsik & Janson.) G. Norris SPECIES
-=======
+# Brachysporisporites catinus (Elsik & Janson.) G. Norris SPECIES
 
 #### Status
 ACCEPTED

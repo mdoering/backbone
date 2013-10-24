@@ -1,5 +1,4 @@
-Cercospora blumeicola S. Das SPECIES
-=======
+# Cercospora blumeicola S. Das SPECIES
 
 #### Status
 ACCEPTED

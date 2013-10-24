@@ -1,5 +1,4 @@
-Cortinarius spadix Herp. SPECIES
-=======
+# Cortinarius spadix Herp. SPECIES
 
 #### Status
 ACCEPTED

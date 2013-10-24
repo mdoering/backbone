@@ -1,5 +1,4 @@
-Phoma stovenseana Staritz SPECIES
-=======
+# Phoma stovenseana Staritz SPECIES
 
 #### Status
 ACCEPTED

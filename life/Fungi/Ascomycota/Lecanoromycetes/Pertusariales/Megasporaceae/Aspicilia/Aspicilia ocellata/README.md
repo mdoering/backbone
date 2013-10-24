@@ -1,5 +1,4 @@
-Aspicilia ocellata (Mudd) Bagl. & Carestia SPECIES
-=======
+# Aspicilia ocellata (Mudd) Bagl. & Carestia SPECIES
 
 #### Status
 ACCEPTED

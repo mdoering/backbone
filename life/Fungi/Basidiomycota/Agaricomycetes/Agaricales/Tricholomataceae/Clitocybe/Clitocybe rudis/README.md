@@ -1,5 +1,4 @@
-Clitocybe rudis (Berk.) Sacc. SPECIES
-=======
+# Clitocybe rudis (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

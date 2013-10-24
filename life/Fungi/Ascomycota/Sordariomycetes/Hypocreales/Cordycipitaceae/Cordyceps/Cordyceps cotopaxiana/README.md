@@ -1,5 +1,4 @@
-Cordyceps cotopaxiana Kobayasi SPECIES
-=======
+# Cordyceps cotopaxiana Kobayasi SPECIES
 
 #### Status
 ACCEPTED

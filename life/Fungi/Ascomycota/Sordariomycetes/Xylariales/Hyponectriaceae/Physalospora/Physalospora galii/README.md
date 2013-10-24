@@ -1,5 +1,4 @@
-Physalospora galii Rostr. SPECIES
-=======
+# Physalospora galii Rostr. SPECIES
 
 #### Status
 ACCEPTED

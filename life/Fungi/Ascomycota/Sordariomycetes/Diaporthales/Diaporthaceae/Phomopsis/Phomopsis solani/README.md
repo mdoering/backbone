@@ -1,5 +1,4 @@
-Phomopsis solani Grove SPECIES
-=======
+# Phomopsis solani Grove SPECIES
 
 #### Status
 ACCEPTED

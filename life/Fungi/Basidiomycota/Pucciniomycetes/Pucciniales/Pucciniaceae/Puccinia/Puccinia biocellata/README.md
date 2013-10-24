@@ -1,5 +1,4 @@
-Puccinia biocellata Vestergr. ex Cummins SPECIES
-=======
+# Puccinia biocellata Vestergr. ex Cummins SPECIES
 
 #### Status
 ACCEPTED

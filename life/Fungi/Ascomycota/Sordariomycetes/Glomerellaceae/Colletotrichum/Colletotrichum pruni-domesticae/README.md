@@ -1,5 +1,4 @@
-Colletotrichum pruni-domesticae Gurz. SPECIES
-=======
+# Colletotrichum pruni-domesticae Gurz. SPECIES
 
 #### Status
 ACCEPTED

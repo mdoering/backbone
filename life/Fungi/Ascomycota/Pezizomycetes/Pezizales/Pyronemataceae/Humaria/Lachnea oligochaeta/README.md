@@ -1,5 +1,4 @@
-Lachnea oligochaeta Theodor. SPECIES
-=======
+# Lachnea oligochaeta Theodor. SPECIES
 
 #### Status
 ACCEPTED

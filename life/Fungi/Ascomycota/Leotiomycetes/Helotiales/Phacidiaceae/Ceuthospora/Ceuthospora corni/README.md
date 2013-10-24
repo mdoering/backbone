@@ -1,5 +1,4 @@
-Ceuthospora corni Höhn. SPECIES
-=======
+# Ceuthospora corni Höhn. SPECIES
 
 #### Status
 ACCEPTED

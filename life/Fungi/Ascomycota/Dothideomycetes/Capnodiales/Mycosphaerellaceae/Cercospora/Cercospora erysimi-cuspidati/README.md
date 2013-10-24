@@ -1,5 +1,4 @@
-Cercospora erysimi-cuspidati Lobik SPECIES
-=======
+# Cercospora erysimi-cuspidati Lobik SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidia chinsurensis (Stirt.) Zahlbr. SPECIES
-=======
+# Bacidia chinsurensis (Stirt.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

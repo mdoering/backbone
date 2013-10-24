@@ -1,5 +1,4 @@
-Ithania Ludwig, 1947 GENUS
-=======
+# Ithania Ludwig, 1947 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stilbospora affinis De Not. SPECIES
-=======
+# Stilbospora affinis De Not. SPECIES
 
 #### Status
 ACCEPTED

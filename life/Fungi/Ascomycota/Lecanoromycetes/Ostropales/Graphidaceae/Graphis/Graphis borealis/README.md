@@ -1,5 +1,4 @@
-Graphis borealis (A.W. Archer) A.W. Archer SPECIES
-=======
+# Graphis borealis (A.W. Archer) A.W. Archer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Myriangium yunnanense (Pat.) Racib. SPECIES
-=======
+# Myriangium yunnanense (Pat.) Racib. SPECIES
 
 #### Status
 ACCEPTED

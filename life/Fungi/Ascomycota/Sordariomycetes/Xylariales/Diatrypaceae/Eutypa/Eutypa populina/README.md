@@ -1,5 +1,4 @@
-Eutypa populina (Sacc.) L.C. Tiffany & J.C. Gilman SPECIES
-=======
+# Eutypa populina (Sacc.) L.C. Tiffany & J.C. Gilman SPECIES
 
 #### Status
 ACCEPTED

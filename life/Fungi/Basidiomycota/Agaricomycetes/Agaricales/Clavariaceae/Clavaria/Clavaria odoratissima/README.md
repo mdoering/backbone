@@ -1,5 +1,4 @@
-Clavaria odoratissima Sacc. SPECIES
-=======
+# Clavaria odoratissima Sacc. SPECIES
 
 #### Status
 ACCEPTED

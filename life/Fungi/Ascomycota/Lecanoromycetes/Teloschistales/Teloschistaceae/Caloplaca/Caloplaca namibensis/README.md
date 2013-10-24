@@ -1,5 +1,4 @@
-Caloplaca namibensis Kärnefelt SPECIES
-=======
+# Caloplaca namibensis Kärnefelt SPECIES
 
 #### Status
 ACCEPTED

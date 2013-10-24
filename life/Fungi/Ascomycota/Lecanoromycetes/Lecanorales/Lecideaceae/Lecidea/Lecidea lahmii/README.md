@@ -1,5 +1,4 @@
-Lecidea lahmii (Hepp) Poetsch SPECIES
-=======
+# Lecidea lahmii (Hepp) Poetsch SPECIES
 
 #### Status
 ACCEPTED

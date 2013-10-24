@@ -1,5 +1,4 @@
-Dactylaria junci M.B. Ellis, 1976 SPECIES
-=======
+# Dactylaria junci M.B. Ellis, 1976 SPECIES
 
 #### Status
 ACCEPTED

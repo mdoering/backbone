@@ -1,5 +1,4 @@
-Rhabdospora galeopsidis var. galeopsidis VARIETY
-=======
+# Rhabdospora galeopsidis Allesch. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Rhabdospora galeopsidis var. galeopsidis
+Rhabdospora galeopsidis Allesch.
 
 ### Remarks
 null

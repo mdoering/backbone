@@ -1,5 +1,4 @@
-Parmelia ghattensis Hue SPECIES
-=======
+# Parmelia ghattensis Hue SPECIES
 
 #### Status
 ACCEPTED

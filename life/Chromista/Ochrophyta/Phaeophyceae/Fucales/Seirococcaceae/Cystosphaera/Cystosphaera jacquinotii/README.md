@@ -1,8 +1,7 @@
-Marginaria jacquinotii (Montagne) Kützing SPECIES
-=======
+# Cystosphaera jacquinotii (Montagne) Skottsberg SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

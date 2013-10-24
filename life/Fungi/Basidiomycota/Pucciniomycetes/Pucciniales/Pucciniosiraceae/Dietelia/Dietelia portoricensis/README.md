@@ -1,17 +1,16 @@
-Endophylloides portoricense Whetzel & Olive SPECIES
-=======
+# Dietelia portoricensis (Whetzel & L.S. Olive) Buriticá & J.F. Hennen, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fl. Neotrop. , Monogr. 24: 15 (1980)
 
 #### Original name
-Endophylloides portoricense Whetzel & Olive
+Endophylloides portoricensis Whetzel & Olive, 1917
 
 ### Remarks
 null

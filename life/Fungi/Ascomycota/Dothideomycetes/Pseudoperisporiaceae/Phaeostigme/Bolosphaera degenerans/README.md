@@ -1,5 +1,4 @@
-Bolosphaera degenerans (Syd. & P. Syd.) Syd. & P. Syd. SPECIES
-=======
+# Bolosphaera degenerans (Syd. & P. Syd.) Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Imbricaria praetervisa (Müll. Arg.) Jatta SPECIES
-=======
+# Imbricaria praetervisa (Müll. Arg.) Jatta SPECIES
 
 #### Status
 ACCEPTED

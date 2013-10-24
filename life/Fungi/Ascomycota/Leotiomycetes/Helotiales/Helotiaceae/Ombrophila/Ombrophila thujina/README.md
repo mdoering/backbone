@@ -1,5 +1,4 @@
-Ombrophila thujina Peck SPECIES
-=======
+# Ombrophila thujina Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caliciopsis nigra (Schrad.) Fitzp. SPECIES
-=======
+# Caliciopsis nigra (Schrad.) Fitzp. SPECIES
 
 #### Status
 ACCEPTED

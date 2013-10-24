@@ -1,5 +1,4 @@
-Microthyriella ocoteae Bat. SPECIES
-=======
+# Microthyriella ocoteae Bat. SPECIES
 
 #### Status
 ACCEPTED

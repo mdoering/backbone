@@ -1,5 +1,4 @@
-Phaeocandelabrum callisporum Gusmão, A.C. Cruz & R.F. Castañeda, 2009 SPECIES
-=======
+# Phaeocandelabrum callisporum Gusmão, A.C. Cruz & R.F. Castañeda, 2009 SPECIES
 
 #### Status
 ACCEPTED

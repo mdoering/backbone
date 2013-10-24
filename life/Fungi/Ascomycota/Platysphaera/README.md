@@ -1,5 +1,4 @@
-Platysphaera Dumortier, 1822 GENUS
-=======
+# Platysphaera Dumortier, 1822 GENUS
 
 #### Status
 ACCEPTED

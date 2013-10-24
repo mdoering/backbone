@@ -1,5 +1,4 @@
-Lentinus dentatus var. dentatus (Pers.) Quél. VARIETY
-=======
+# Lentinus dentatus Bres. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Mycologia 17(2): 77 (1925)
 
 #### Original name
-Lentinus dentatus var. dentatus (Pers.) Quél.
+Lentinus dentatus Bres.
 
 ### Remarks
 null

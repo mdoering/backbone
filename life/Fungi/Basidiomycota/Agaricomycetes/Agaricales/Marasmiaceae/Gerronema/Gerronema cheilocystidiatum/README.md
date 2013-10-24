@@ -1,5 +1,4 @@
-Gerronema cheilocystidiatum Singer SPECIES
-=======
+# Gerronema cheilocystidiatum Singer SPECIES
 
 #### Status
 ACCEPTED

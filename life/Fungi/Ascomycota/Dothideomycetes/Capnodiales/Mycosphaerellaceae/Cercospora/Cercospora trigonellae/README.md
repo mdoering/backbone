@@ -1,5 +1,4 @@
-Cercospora trigonellae Maubl. SPECIES
-=======
+# Cercospora trigonellae Maubl. SPECIES
 
 #### Status
 ACCEPTED

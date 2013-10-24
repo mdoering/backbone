@@ -1,17 +1,16 @@
-Trichosporon cutaneum var. peneaus Phaff et al., 1952 VARIETY
-=======
+# Trichosporon asahii Akagi ex Sugita, A. Nishikawa & Shinoda, 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. gen. appl. Microbiol. , Tokyo 40(5): 405 (1994)
 
 #### Original name
-null
+Trichosporon asahii Akagi ex Sugita, A. Nishikawa & Shinoda, 1994
 
 ### Remarks
 null

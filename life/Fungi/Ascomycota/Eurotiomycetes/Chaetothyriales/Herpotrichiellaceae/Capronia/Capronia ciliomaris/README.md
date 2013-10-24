@@ -1,5 +1,4 @@
-Capronia ciliomaris (Kohlm.) E. Müll., Petrini, P.J. Fisher, Samuels & Rossman, 1987 SPECIES
-=======
+# Capronia ciliomaris (Kohlm.) E. Müll., Petrini, P.J. Fisher, Samuels & Rossman, 1987 SPECIES
 
 #### Status
 ACCEPTED

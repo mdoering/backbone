@@ -1,5 +1,4 @@
-Naucoria foetida Velen. SPECIES
-=======
+# Naucoria foetida Velen. SPECIES
 
 #### Status
 ACCEPTED

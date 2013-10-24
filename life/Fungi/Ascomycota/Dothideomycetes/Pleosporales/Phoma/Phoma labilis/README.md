@@ -1,17 +1,16 @@
-Phoma labilis var. labilis VARIETY
-=======
+# Phoma labilis Sacc., 1881 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Michelia 2(no. 7): 341 (1881)
 
 #### Original name
-Phoma labilis var. labilis
+Phoma labilis Sacc., 1881
 
 ### Remarks
 null

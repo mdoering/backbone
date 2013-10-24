@@ -1,5 +1,4 @@
-Skeletocutis friata Niemelä & Saaren., 2001 SPECIES
-=======
+# Skeletocutis friata Niemelä & Saaren., 2001 SPECIES
 
 #### Status
 ACCEPTED

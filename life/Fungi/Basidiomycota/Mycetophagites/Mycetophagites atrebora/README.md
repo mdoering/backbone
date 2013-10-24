@@ -1,5 +1,4 @@
-Mycetophagites atrebora Poinar & R. Buckley SPECIES
-=======
+# Mycetophagites atrebora Poinar & R. Buckley SPECIES
 
 #### Status
 ACCEPTED

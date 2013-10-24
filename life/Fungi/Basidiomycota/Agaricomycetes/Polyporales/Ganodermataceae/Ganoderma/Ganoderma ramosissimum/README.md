@@ -1,5 +1,4 @@
-Ganoderma ramosissimum J.D. Zhao, 1989 SPECIES
-=======
+# Ganoderma ramosissimum J.D. Zhao, 1989 SPECIES
 
 #### Status
 ACCEPTED

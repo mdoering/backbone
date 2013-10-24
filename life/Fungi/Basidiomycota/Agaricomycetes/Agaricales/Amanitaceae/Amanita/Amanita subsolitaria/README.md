@@ -1,5 +1,4 @@
-Amanita subsolitaria (Murrill) Murrill SPECIES
-=======
+# Amanita subsolitaria (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

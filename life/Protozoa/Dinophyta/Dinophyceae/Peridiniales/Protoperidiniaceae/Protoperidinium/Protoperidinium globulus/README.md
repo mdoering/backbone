@@ -1,5 +1,4 @@
-Protoperidinium globulus (Stein, 1883) Balech, 1974 SPECIES
-=======
+# Protoperidinium globulus (Stein, 1883) Balech, 1974 SPECIES
 
 #### Status
 ACCEPTED

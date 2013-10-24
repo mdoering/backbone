@@ -1,5 +1,4 @@
-Cercospora kyotensis M. Yoshik. & T. Yokoy. SPECIES
-=======
+# Cercospora kyotensis M. Yoshik. & T. Yokoy. SPECIES
 
 #### Status
 ACCEPTED

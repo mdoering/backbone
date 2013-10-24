@@ -1,5 +1,4 @@
-Puccinia pasitheae Dietel & Neger SPECIES
-=======
+# Puccinia pasitheae Dietel & Neger SPECIES
 
 #### Status
 ACCEPTED

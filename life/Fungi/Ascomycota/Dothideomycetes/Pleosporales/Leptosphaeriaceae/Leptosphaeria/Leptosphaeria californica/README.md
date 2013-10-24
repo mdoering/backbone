@@ -1,5 +1,4 @@
-Leptosphaeria californica (Cooke & Harkn.) Berl. & Voglino SPECIES
-=======
+# Leptosphaeria californica (Cooke & Harkn.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

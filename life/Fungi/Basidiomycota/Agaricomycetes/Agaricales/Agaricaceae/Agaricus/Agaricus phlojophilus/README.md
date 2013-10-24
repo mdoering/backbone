@@ -1,5 +1,4 @@
-Agaricus phlojophilus Fr. SPECIES
-=======
+# Agaricus phlojophilus Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phlyctochytrium nematodeae Karling SPECIES
-=======
+# Phlyctochytrium nematodeae Karling SPECIES
 
 #### Status
 ACCEPTED

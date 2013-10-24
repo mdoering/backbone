@@ -1,5 +1,4 @@
-Verrucaria cartilaginea (Fée) Spreng. SPECIES
-=======
+# Verrucaria cartilaginea (Fée) Spreng. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coccocarpia wilsonii C.W. Dodge SPECIES
-=======
+# Coccocarpia wilsonii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

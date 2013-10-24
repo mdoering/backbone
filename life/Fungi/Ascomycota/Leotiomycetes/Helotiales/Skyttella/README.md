@@ -1,5 +1,4 @@
-Skyttella D. Hawksw. & R. Sant. GENUS
-=======
+# Skyttella D. Hawksw. & R. Sant. GENUS
 
 #### Status
 ACCEPTED

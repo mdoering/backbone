@@ -1,5 +1,4 @@
-Sclerotium inconspicuum Lib. SPECIES
-=======
+# Sclerotium inconspicuum Lib. SPECIES
 
 #### Status
 ACCEPTED

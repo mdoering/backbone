@@ -1,5 +1,4 @@
-Marasmius fibrosipes Berk. & M.A. Curtis SPECIES
-=======
+# Marasmius fibrosipes Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

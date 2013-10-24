@@ -1,5 +1,4 @@
-Sordaria lojkaeana Rehm SPECIES
-=======
+# Sordaria lojkaeana Rehm SPECIES
 
 #### Status
 ACCEPTED

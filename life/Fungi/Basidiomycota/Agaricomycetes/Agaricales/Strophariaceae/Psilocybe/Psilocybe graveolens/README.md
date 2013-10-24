@@ -1,5 +1,4 @@
-Psilocybe graveolens Peck SPECIES
-=======
+# Psilocybe graveolens Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agromonas oligotrophica Ohta & Hattori, 1985 SPECIES
-=======
+# Agromonas oligotrophica Ohta & Hattori, 1985 SPECIES
 
 #### Status
 ACCEPTED

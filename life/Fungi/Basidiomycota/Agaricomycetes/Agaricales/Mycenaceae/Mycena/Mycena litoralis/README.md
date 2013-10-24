@@ -1,5 +1,4 @@
-Mycena litoralis A.H. Sm. SPECIES
-=======
+# Mycena litoralis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

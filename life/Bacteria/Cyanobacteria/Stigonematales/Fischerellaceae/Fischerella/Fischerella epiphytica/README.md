@@ -1,5 +1,4 @@
-Fischerella epiphytica Ghose SPECIES
-=======
+# Fischerella epiphytica Ghose SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Recifea scutiae (Hansf.) Bat. & Cif. SPECIES
-=======
+# Recifea scutiae (Hansf.) Bat. & Cif. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oceanospirillum multiglobuliferum (Terasaki, 1973) Terasaki, 1979 (Approved Lists, 1980) SPECIES
-=======
+# Oceanospirillum multiglobuliferum (Terasaki, 1973) Terasaki, 1979 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

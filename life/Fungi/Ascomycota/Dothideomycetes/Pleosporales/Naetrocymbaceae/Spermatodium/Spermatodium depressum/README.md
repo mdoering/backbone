@@ -1,5 +1,4 @@
-Spermatodium depressum (Eschw.) Trevis. SPECIES
-=======
+# Spermatodium depressum (Eschw.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

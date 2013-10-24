@@ -1,5 +1,4 @@
-Chamaeceras africanus (Pat.) Kuntze SPECIES
-=======
+# Chamaeceras africanus (Pat.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

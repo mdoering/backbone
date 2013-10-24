@@ -1,5 +1,4 @@
-Tricholoma fagnani var. fagnani VARIETY
-=======
+# Tricholoma fagnani Singer SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Sydowia 6(1-4): 194 (1952)
 
 #### Original name
-Tricholoma fagnani var. fagnani
+Tricholoma fagnani Singer
 
 ### Remarks
 null

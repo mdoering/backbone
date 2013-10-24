@@ -1,5 +1,4 @@
-Mazaganella pulla SPECIES
-=======
+# Mazaganella pulla SPECIES
 
 #### Status
 ACCEPTED

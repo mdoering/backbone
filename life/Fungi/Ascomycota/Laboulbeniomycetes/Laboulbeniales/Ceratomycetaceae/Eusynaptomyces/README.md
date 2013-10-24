@@ -1,5 +1,4 @@
-Eusynaptomyces Thaxt. GENUS
-=======
+# Eusynaptomyces Thaxt. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Maryna namibiensis subsp. namibiensis SUBSPECIES
-=======
+# Maryna namibiensis Foissner, Agatha & Berger, 2002 SPECIES
 
 #### Status
 ACCEPTED

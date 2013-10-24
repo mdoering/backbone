@@ -1,5 +1,4 @@
-Parmotrema sublatifolium (J.D. Zhao, L.W. Hsu & Z.M. Sun) J.C. Wei SPECIES
-=======
+# Parmotrema sublatifolium (J.D. Zhao, L.W. Hsu & Z.M. Sun) J.C. Wei SPECIES
 
 #### Status
 ACCEPTED

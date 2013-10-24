@@ -1,5 +1,4 @@
-Massarina peerallyi K.D. Hyde & Aptroot SPECIES
-=======
+# Massarina peerallyi K.D. Hyde & Aptroot SPECIES
 
 #### Status
 ACCEPTED

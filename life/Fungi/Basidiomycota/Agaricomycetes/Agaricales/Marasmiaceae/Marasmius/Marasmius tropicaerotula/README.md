@@ -1,5 +1,4 @@
-Marasmius tropicaerotula S. Ito & S. Imai SPECIES
-=======
+# Marasmius tropicaerotula S. Ito & S. Imai SPECIES
 
 #### Status
 ACCEPTED

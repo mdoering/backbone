@@ -1,5 +1,4 @@
-Phyllachora meliosmae Racib., 1915 SPECIES
-=======
+# Phyllachora meliosmae Racib., 1915 SPECIES
 
 #### Status
 ACCEPTED

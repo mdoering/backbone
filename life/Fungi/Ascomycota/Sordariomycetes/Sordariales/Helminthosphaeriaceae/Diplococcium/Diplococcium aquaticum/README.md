@@ -1,5 +1,4 @@
-Diplococcium aquaticum Goh, K.D. Hyde & Umali SPECIES
-=======
+# Diplococcium aquaticum Goh, K.D. Hyde & Umali SPECIES
 
 #### Status
 ACCEPTED

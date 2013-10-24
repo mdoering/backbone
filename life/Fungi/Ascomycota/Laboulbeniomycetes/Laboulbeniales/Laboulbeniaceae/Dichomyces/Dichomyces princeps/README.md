@@ -1,5 +1,4 @@
-Dichomyces princeps Thaxt. SPECIES
-=======
+# Dichomyces princeps Thaxt. SPECIES
 
 #### Status
 ACCEPTED

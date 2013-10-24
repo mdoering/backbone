@@ -1,5 +1,4 @@
-Leptosphaeria canadensis De Not. SPECIES
-=======
+# Leptosphaeria canadensis De Not. SPECIES
 
 #### Status
 ACCEPTED

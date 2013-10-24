@@ -1,5 +1,4 @@
-Usnea grandisca Motyka SPECIES
-=======
+# Usnea grandisca Motyka SPECIES
 
 #### Status
 ACCEPTED

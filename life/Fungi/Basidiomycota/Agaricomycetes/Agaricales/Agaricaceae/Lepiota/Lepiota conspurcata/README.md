@@ -1,5 +1,4 @@
-Lepiota conspurcata (Willd.) Morgan SPECIES
-=======
+# Lepiota conspurcata (Willd.) Morgan SPECIES
 
 #### Status
 ACCEPTED

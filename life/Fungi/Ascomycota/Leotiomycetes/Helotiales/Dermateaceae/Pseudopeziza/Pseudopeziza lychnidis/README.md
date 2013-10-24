@@ -1,5 +1,4 @@
-Pseudopeziza lychnidis (Desm.) SPECIES
-=======
+# Pseudopeziza lychnidis (Desm.) SPECIES
 
 #### Status
 ACCEPTED

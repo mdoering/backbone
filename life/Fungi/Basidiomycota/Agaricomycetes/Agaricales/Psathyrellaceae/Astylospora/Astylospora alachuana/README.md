@@ -1,17 +1,16 @@
-Atylospora alachuana Murrill SPECIES
-=======
+# Astylospora alachuana Murrill SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Proc. Fla Acad. Sci. 7(2/3): 125 (1945)
 
 #### Original name
-Atylospora alachuana Murrill
+Astylospora alachuana Murrill
 
 ### Remarks
 null

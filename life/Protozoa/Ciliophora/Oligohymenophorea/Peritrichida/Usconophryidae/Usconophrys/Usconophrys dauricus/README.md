@@ -1,5 +1,4 @@
-Usconophrys dauricus SPECIES
-=======
+# Usconophrys dauricus SPECIES
 
 #### Status
 ACCEPTED

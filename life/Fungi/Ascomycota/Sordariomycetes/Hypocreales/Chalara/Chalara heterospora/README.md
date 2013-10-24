@@ -1,5 +1,4 @@
-Chalara heterospora Sacc. SPECIES
-=======
+# Chalara heterospora Sacc. SPECIES
 
 #### Status
 ACCEPTED

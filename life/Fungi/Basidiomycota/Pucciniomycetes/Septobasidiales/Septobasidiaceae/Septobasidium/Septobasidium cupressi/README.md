@@ -1,5 +1,4 @@
-Septobasidium cupressi Couch SPECIES
-=======
+# Septobasidium cupressi Couch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hendersonia importata Allesch. SPECIES
-=======
+# Hendersonia importata Allesch. SPECIES
 
 #### Status
 ACCEPTED

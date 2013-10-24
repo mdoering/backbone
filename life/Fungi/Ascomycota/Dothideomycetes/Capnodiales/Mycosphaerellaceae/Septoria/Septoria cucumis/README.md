@@ -1,5 +1,4 @@
-Septoria cucumis Rodigin SPECIES
-=======
+# Septoria cucumis Rodigin SPECIES
 
 #### Status
 ACCEPTED

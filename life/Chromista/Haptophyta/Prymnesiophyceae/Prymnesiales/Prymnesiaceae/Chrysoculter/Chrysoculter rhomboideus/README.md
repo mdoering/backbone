@@ -1,5 +1,4 @@
-Chrysoculter rhomboideus Nakayama, Yoshida, Noel, Kawachi & Inouye, 2005 SPECIES
-=======
+# Chrysoculter rhomboideus Nakayama, Yoshida, Noel, Kawachi & Inouye, 2005 SPECIES
 
 #### Status
 ACCEPTED

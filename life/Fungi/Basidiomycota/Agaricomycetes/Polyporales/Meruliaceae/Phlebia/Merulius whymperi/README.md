@@ -1,5 +1,4 @@
-Merulius whymperi (Massee & Murrill) Kuntze SPECIES
-=======
+# Merulius whymperi (Massee & Murrill) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercophora anisura N. Lundq. SPECIES
-=======
+# Cercophora anisura N. Lundq. SPECIES
 
 #### Status
 ACCEPTED

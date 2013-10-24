@@ -1,5 +1,4 @@
-Tuckermanopsis inermis (Nyl.) Kärnefelt SPECIES
-=======
+# Tuckermanopsis inermis (Nyl.) Kärnefelt SPECIES
 
 #### Status
 ACCEPTED

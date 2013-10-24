@@ -1,5 +1,4 @@
-Godronia turbinata (Schwein.) Farl. SPECIES
-=======
+# Godronia turbinata (Schwein.) Farl. SPECIES
 
 #### Status
 ACCEPTED

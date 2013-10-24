@@ -1,5 +1,4 @@
-Mycosphaerella daphniphylli Syd. & Hara SPECIES
-=======
+# Mycosphaerella daphniphylli Syd. & Hara SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Hysterium capparidis Berk. & M.A. Curtis SPECIES
-=======
+# Hysterium capparis Berk. & M.A. Curtis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Hysterium capparidis Berk. & M.A. Curtis
+Hysterium capparis Berk. & M.A. Curtis
 
 ### Remarks
 null

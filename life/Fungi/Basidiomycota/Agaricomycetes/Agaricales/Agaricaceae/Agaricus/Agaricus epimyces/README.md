@@ -1,5 +1,4 @@
-Agaricus epimyces Peck SPECIES
-=======
+# Agaricus epimyces Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizopogon flavofibrillosus A.H. Sm. SPECIES
-=======
+# Rhizopogon flavofibrillosus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

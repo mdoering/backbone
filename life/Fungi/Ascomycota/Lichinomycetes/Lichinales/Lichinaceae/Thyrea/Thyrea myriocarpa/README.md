@@ -1,5 +1,4 @@
-Thyrea myriocarpa Zahlbr. SPECIES
-=======
+# Thyrea myriocarpa Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

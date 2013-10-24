@@ -1,5 +1,4 @@
-Hebeloma longisporum Murrill SPECIES
-=======
+# Hebeloma longisporum Murrill SPECIES
 
 #### Status
 ACCEPTED

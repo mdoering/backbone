@@ -1,5 +1,4 @@
-Sorosporium pretoriaense Zundel SPECIES
-=======
+# Sorosporium pretoriaense Zundel SPECIES
 
 #### Status
 ACCEPTED

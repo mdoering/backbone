@@ -1,5 +1,4 @@
-Calonectria leucophaës Rehm SPECIES
-=======
+# Calonectria leucophaës Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Volvaria regia (Fr.) Gillet SPECIES
-=======
+# Volvaria regia (Fr.) Gillet SPECIES
 
 #### Status
 ACCEPTED

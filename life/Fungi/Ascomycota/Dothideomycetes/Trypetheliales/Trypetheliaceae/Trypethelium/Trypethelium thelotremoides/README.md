@@ -1,5 +1,4 @@
-Trypethelium thelotremoides (Nyl.) R.C. Harris SPECIES
-=======
+# Trypethelium thelotremoides (Nyl.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

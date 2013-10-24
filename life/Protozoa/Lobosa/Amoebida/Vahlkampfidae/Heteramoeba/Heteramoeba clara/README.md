@@ -1,5 +1,4 @@
-Heteramoeba clara Droop, 1962 SPECIES
-=======
+# Heteramoeba clara Droop, 1962 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lagenosolenia neoduplicata McCulloch, 1977 SPECIES
-=======
+# Lagenosolenia neoduplicata McCulloch, 1977 SPECIES
 
 #### Status
 ACCEPTED

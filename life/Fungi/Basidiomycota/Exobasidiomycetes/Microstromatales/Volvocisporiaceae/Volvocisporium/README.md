@@ -1,5 +1,4 @@
-Volvocisporium Begerow, R. Bauer & Oberw. GENUS
-=======
+# Volvocisporium Begerow, R. Bauer & Oberw. GENUS
 
 #### Status
 ACCEPTED

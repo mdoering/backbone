@@ -1,5 +1,4 @@
-Porina heterospora (Fink) R. C. Harris SPECIES
-=======
+# Porina heterospora (Fink) R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

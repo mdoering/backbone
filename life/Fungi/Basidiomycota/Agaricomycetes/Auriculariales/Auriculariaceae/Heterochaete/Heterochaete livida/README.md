@@ -1,5 +1,4 @@
-Heterochaete livida Pat. SPECIES
-=======
+# Heterochaete livida Pat. SPECIES
 
 #### Status
 ACCEPTED

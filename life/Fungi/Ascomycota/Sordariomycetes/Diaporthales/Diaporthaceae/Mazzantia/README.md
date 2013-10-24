@@ -1,5 +1,4 @@
-Mazzantia Montagne, 1855 GENUS
-=======
+# Mazzantia Montagne, 1855 GENUS
 
 #### Status
 ACCEPTED

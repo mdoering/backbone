@@ -1,8 +1,7 @@
-Micterothrix rottalensis (Busch, 1948) Loeblich & Tappan, 1968 SPECIES
-=======
+# Maryna rottalensis Baumeister, 1943 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Trochammina subturbinata SPECIES
-=======
+# Trochammina subturbinata SPECIES
 
 #### Status
 ACCEPTED

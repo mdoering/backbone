@@ -1,5 +1,4 @@
-Cercospora lobeliae Kellerm. & Swingle SPECIES
-=======
+# Cercospora lobeliae Kellerm. & Swingle SPECIES
 
 #### Status
 ACCEPTED

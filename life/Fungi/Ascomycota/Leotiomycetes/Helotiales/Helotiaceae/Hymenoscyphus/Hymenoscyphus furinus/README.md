@@ -1,5 +1,4 @@
-Hymenoscyphus furinus (Velen.) Svrcek SPECIES
-=======
+# Hymenoscyphus furinus (Velen.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

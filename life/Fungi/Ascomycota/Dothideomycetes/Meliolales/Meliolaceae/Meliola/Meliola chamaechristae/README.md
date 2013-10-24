@@ -1,5 +1,4 @@
-Meliola chamaechristae Earle SPECIES
-=======
+# Meliola chamaechristae Earle SPECIES
 
 #### Status
 ACCEPTED

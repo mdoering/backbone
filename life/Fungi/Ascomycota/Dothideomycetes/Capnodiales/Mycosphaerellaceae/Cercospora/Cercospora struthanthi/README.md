@@ -1,5 +1,4 @@
-Cercospora struthanthi Chupp & A.S. Mull. SPECIES
-=======
+# Cercospora struthanthi Chupp & A.S. Mull. SPECIES
 
 #### Status
 ACCEPTED

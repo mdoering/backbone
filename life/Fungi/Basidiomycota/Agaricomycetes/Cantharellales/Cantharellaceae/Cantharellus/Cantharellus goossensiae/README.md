@@ -1,5 +1,4 @@
-Cantharellus goossensiae (Beeli) Heinem. SPECIES
-=======
+# Cantharellus goossensiae (Beeli) Heinem. SPECIES
 
 #### Status
 ACCEPTED

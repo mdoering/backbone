@@ -1,5 +1,4 @@
-Polyblastia herculana Servít SPECIES
-=======
+# Polyblastia herculana Servít SPECIES
 
 #### Status
 ACCEPTED

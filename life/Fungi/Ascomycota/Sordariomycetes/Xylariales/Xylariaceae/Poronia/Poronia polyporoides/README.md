@@ -1,5 +1,4 @@
-Poronia polyporoides Henn. SPECIES
-=======
+# Poronia polyporoides Henn. SPECIES
 
 #### Status
 ACCEPTED

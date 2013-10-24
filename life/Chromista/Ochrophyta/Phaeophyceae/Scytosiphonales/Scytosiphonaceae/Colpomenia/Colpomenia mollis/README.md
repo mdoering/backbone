@@ -1,5 +1,4 @@
-Colpomenia mollis W.R. Taylor SPECIES
-=======
+# Colpomenia mollis W.R. Taylor SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tremella parmeliarum Diederich SPECIES
-=======
+# Tremella parmeliarum Diederich SPECIES
 
 #### Status
 ACCEPTED

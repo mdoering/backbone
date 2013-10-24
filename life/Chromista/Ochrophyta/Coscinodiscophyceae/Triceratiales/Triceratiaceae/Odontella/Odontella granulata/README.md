@@ -1,5 +1,4 @@
-Odontella granulata (Roper) R. Ross SPECIES
-=======
+# Odontella granulata (Roper) R. Ross SPECIES
 
 #### Status
 ACCEPTED

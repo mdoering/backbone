@@ -1,5 +1,4 @@
-Lactarius nodosicystidiosus Verbeken & Buyck SPECIES
-=======
+# Lactarius nodosicystidiosus Verbeken & Buyck SPECIES
 
 #### Status
 ACCEPTED

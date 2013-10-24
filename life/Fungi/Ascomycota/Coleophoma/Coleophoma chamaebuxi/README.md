@@ -1,5 +1,4 @@
-Coleophoma chamaebuxi (Allesch.) Höhn. SPECIES
-=======
+# Coleophoma chamaebuxi (Allesch.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

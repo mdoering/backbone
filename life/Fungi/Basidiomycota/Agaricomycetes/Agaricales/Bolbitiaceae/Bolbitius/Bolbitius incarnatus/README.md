@@ -1,5 +1,4 @@
-Bolbitius incarnatus Hongo SPECIES
-=======
+# Bolbitius incarnatus Hongo SPECIES
 
 #### Status
 ACCEPTED

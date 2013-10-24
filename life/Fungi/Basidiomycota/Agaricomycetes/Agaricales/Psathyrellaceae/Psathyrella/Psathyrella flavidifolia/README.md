@@ -1,5 +1,4 @@
-Psathyrella flavidifolia Corner SPECIES
-=======
+# Psathyrella flavidifolia Corner SPECIES
 
 #### Status
 ACCEPTED

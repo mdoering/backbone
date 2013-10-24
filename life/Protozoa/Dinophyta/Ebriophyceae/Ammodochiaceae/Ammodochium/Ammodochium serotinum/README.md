@@ -1,5 +1,4 @@
-Ammodochium serotinum S. Locker & E. Martini SPECIES
-=======
+# Ammodochium serotinum S. Locker & E. Martini SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pterocanium charybdeum SPECIES
-=======
+# Pterocanium charybdeum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea ementiens Nyl. SPECIES
-=======
+# Lecidea ementiens Nyl. SPECIES
 
 #### Status
 ACCEPTED

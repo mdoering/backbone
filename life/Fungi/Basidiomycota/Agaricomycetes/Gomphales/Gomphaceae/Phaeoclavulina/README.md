@@ -1,5 +1,4 @@
-Phaeoclavulina GENUS
-=======
+# Phaeoclavulina GENUS
 
 #### Status
 ACCEPTED

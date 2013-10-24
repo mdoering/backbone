@@ -1,5 +1,4 @@
-Acarospora laevigata H. Magn. SPECIES
-=======
+# Acarospora laevigata H. Magn. SPECIES
 
 #### Status
 ACCEPTED

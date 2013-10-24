@@ -1,14 +1,13 @@
-Polyporus chozeniae (Vassilkov) Parmasto SPECIES
-=======
+# Polyporus choseniae (Vassilkov) Parmasto, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Folia cryptog. Estonica 5: 35 (1975)
 
 #### Original name
 Piptoporus choseniae Vassilkov, 1967

@@ -1,5 +1,4 @@
-Cutleria canariensis (Sauvageau) I.A.Abbott & J.M.Huisman, 2003 SPECIES
-=======
+# Cutleria canariensis (Sauvageau) I.A.Abbott & J.M.Huisman, 2003 SPECIES
 
 #### Status
 ACCEPTED

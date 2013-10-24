@@ -1,5 +1,4 @@
-Anthostomella brabeji S.J. Lee & Crous, 2003 SPECIES
-=======
+# Anthostomella brabeji S.J. Lee & Crous, 2003 SPECIES
 
 #### Status
 ACCEPTED

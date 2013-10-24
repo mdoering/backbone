@@ -1,5 +1,4 @@
-Stigmatomyces papuanus var. papuanus VARIETY
-=======
+# Stigmatomyces papuanus Thaxt. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Proc. Amer. Acad. Arts 36: 407 (1901)
 
 #### Original name
-Stigmatomyces papuanus var. papuanus
+Stigmatomyces papuanus Thaxt.
 
 ### Remarks
 null

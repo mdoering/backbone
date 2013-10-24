@@ -1,5 +1,4 @@
-Cortinarius sertipes f. sertipes FORM
-=======
+# Cortinarius sertipes Kühner SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bull. mens. Soc. linn. Lyon 24: 40 (1955)
 
 #### Original name
-Cortinarius sertipes f. sertipes
+Cortinarius sertipes Kühner
 
 ### Remarks
 null

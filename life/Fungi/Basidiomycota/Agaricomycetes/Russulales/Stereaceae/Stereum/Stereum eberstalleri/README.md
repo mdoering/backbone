@@ -1,5 +1,4 @@
-Stereum eberstalleri Wettst. SPECIES
-=======
+# Stereum eberstalleri Wettst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacillales ORDER
-=======
+# Bacillales ORDER
 
 #### Status
 ACCEPTED

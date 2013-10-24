@@ -1,5 +1,4 @@
-Ramalina pontica Vezda SPECIES
-=======
+# Ramalina pontica Vezda SPECIES
 
 #### Status
 ACCEPTED

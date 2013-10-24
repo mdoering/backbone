@@ -1,5 +1,4 @@
-Uredo entandophragmae Cummins SPECIES
-=======
+# Uredo entandophragmae Cummins SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coelomomyces opifexi Pillai & J.M.B. Sm. SPECIES
-=======
+# Coelomomyces opifexi Pillai & J.M.B. Sm. SPECIES
 
 #### Status
 ACCEPTED

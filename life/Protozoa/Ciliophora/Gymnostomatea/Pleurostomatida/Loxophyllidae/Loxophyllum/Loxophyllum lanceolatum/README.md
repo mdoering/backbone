@@ -1,5 +1,4 @@
-Loxophyllum lanceolatum Dragesco, 1954 SPECIES
-=======
+# Loxophyllum lanceolatum Dragesco, 1954 SPECIES
 
 #### Status
 ACCEPTED

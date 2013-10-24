@@ -1,5 +1,4 @@
-Pertusaria consocians Dibben SPECIES
-=======
+# Pertusaria consocians Dibben SPECIES
 
 #### Status
 ACCEPTED

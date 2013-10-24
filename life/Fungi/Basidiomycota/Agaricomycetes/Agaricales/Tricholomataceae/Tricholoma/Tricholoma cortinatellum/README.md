@@ -1,5 +1,4 @@
-Tricholoma cortinatellum Singer SPECIES
-=======
+# Tricholoma cortinatellum Singer SPECIES
 
 #### Status
 ACCEPTED

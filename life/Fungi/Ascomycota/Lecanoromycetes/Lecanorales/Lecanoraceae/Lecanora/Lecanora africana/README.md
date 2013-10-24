@@ -1,5 +1,4 @@
-Lecanora africana Zahlbr. SPECIES
-=======
+# Lecanora africana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

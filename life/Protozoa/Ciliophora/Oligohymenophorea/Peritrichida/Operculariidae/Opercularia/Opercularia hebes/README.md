@@ -1,5 +1,4 @@
-Opercularia hebes SPECIES
-=======
+# Opercularia hebes SPECIES
 
 #### Status
 ACCEPTED

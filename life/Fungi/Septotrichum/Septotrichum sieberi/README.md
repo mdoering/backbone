@@ -1,5 +1,4 @@
-Septotrichum sieberi Corda SPECIES
-=======
+# Septotrichum sieberi Corda SPECIES
 
 #### Status
 ACCEPTED

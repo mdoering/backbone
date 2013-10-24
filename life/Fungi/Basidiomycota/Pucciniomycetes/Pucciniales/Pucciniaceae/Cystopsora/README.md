@@ -1,5 +1,4 @@
-Cystopsora E.J. Butler GENUS
-=======
+# Cystopsora E.J. Butler GENUS
 
 #### Status
 ACCEPTED

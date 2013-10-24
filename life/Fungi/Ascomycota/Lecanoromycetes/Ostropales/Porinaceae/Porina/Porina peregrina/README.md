@@ -1,5 +1,4 @@
-Porina peregrina Tretiach & P. M. McCarthy SPECIES
-=======
+# Porina peregrina Tretiach & P. M. McCarthy SPECIES
 
 #### Status
 ACCEPTED

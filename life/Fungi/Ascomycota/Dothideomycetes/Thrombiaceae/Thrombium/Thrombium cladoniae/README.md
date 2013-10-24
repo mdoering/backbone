@@ -1,5 +1,4 @@
-Thrombium cladoniae Stein SPECIES
-=======
+# Thrombium cladoniae Stein SPECIES
 
 #### Status
 ACCEPTED

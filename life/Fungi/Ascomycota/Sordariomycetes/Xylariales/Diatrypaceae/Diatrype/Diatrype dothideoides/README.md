@@ -1,5 +1,4 @@
-Diatrype dothideoides Rehm SPECIES
-=======
+# Diatrype dothideoides Rehm SPECIES
 
 #### Status
 ACCEPTED

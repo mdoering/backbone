@@ -1,5 +1,4 @@
-Pleurotus prolifer Pat. & Har. SPECIES
-=======
+# Pleurotus prolifer Pat. & Har. SPECIES
 
 #### Status
 ACCEPTED

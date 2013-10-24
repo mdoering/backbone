@@ -1,5 +1,4 @@
-Lepista juniperi Kalamees SPECIES
-=======
+# Lepista juniperi Kalamees SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea cyanochroa Stirt. SPECIES
-=======
+# Lecidea cyanochroa Stirt. SPECIES
 
 #### Status
 ACCEPTED

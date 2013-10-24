@@ -1,5 +1,4 @@
-Uromyces vicinus H.S. Jacks. & Holw. SPECIES
-=======
+# Uromyces vicinus H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

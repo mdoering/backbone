@@ -1,5 +1,4 @@
-Sarcoxylon deightonii Petr. SPECIES
-=======
+# Sarcoxylon deightonii Petr. SPECIES
 
 #### Status
 ACCEPTED

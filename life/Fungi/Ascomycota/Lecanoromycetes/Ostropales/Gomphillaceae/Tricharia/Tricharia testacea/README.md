@@ -1,5 +1,4 @@
-Tricharia testacea Kalb & Vezda SPECIES
-=======
+# Tricharia testacea Kalb & Vezda SPECIES
 
 #### Status
 ACCEPTED

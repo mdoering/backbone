@@ -1,5 +1,4 @@
-Haplodinium Klebs, 1912 GENUS
-=======
+# Haplodinium Klebs, 1912 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta moutan Pass. SPECIES
-=======
+# Phyllosticta moutan Pass. SPECIES
 
 #### Status
 ACCEPTED

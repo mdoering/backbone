@@ -1,5 +1,4 @@
-Camarosporium cneori Pass. SPECIES
-=======
+# Camarosporium cneori Pass. SPECIES
 
 #### Status
 ACCEPTED

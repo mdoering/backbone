@@ -1,14 +1,13 @@
-Gymnoconia peckiana (Howe) Trotter, 1910 SPECIES
-=======
+# Arthuriomyces peckianus (Howe) Cummins & Y. Hirats., 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fl. ital. crypt. , Uredinales 1: 338 (1910)
+Illustr. Gen. Rust Fungi (St. Paul), <i>rev. Edn</i> 147 (1983)
 
 #### Original name
 Puccinia peckiana Howe, 1873

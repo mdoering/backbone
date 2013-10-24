@@ -1,5 +1,4 @@
-Rosellinia megaloecia Ellis & Everh. SPECIES
-=======
+# Rosellinia megaloecia Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

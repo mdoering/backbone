@@ -1,5 +1,4 @@
-Favella denticulata (Erh.) Jörgensen, 1927 SPECIES
-=======
+# Favella denticulata (Erh.) Jörgensen, 1927 SPECIES
 
 #### Status
 ACCEPTED

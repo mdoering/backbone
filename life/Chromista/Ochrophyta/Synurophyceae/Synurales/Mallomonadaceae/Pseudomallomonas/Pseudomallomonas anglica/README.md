@@ -1,5 +1,4 @@
-Pseudomallomonas anglica N. Carter SPECIES
-=======
+# Pseudomallomonas anglica N. Carter SPECIES
 
 #### Status
 ACCEPTED

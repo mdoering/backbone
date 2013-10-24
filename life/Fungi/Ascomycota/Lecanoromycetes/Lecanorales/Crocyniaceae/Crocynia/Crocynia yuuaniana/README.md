@@ -1,5 +1,4 @@
-Crocynia yuuaniana Hue SPECIES
-=======
+# Crocynia yuuaniana Hue SPECIES
 
 #### Status
 ACCEPTED

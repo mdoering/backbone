@@ -1,5 +1,4 @@
-Myrothecium fuscum Bonord. SPECIES
-=======
+# Myrothecium fuscum Bonord. SPECIES
 
 #### Status
 ACCEPTED

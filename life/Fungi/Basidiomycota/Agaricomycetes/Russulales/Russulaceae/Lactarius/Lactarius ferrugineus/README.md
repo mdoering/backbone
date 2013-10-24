@@ -1,5 +1,4 @@
-Lactarius ferrugineus Pegler SPECIES
-=======
+# Lactarius ferrugineus Pegler SPECIES
 
 #### Status
 ACCEPTED

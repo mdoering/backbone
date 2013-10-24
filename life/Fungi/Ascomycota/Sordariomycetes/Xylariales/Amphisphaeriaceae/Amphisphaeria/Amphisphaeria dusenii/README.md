@@ -1,5 +1,4 @@
-Amphisphaeria dusenii Rehm SPECIES
-=======
+# Amphisphaeria dusenii Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora subalbellina Vain. SPECIES
-=======
+# Lecanora subalbellina Vain. SPECIES
 
 #### Status
 ACCEPTED

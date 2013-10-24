@@ -1,5 +1,4 @@
-Venenarius velatipes (G.F. Atk.) Murrill SPECIES
-=======
+# Venenarius velatipes (G.F. Atk.) Murrill SPECIES
 
 #### Status
 ACCEPTED

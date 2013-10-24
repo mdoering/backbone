@@ -1,5 +1,4 @@
-Lobaria adscripta f. adscripta FORM
-=======
+# Lobaria adscripta (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Nouvelles archives du Museum d'Histoire Naturelle, Paris, 4 Série 2: 26 (1900)
 
 #### Original name
-Lobaria adscripta f. adscripta
+Ricasolia herbacea var. adscripta Nyl.
 
 ### Remarks
 null

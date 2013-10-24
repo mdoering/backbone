@@ -1,5 +1,4 @@
-Coniophorafomes Rick GENUS
-=======
+# Coniophorafomes Rick GENUS
 
 #### Status
 ACCEPTED

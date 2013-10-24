@@ -1,14 +1,13 @@
-Botrytis micheneri Berk. & M.A. Curtis, 1875 SPECIES
-=======
+# Costantinella micheneri (Berk. & M.A. Curtis) S. Hughes, 1953 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Berkeley, Grevillea 3(no. 27): 111 (1875)
+Can. J. Bot. 31: 605 (1953)
 
 #### Original name
 Botrytis micheneri Berk. & M.A. Curtis, 1875

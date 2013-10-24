@@ -1,5 +1,4 @@
-Cercospora mimosae G.P. Agarwal & N.D. Sharma SPECIES
-=======
+# Cercospora mimosae G.P. Agarwal & N.D. Sharma SPECIES
 
 #### Status
 ACCEPTED

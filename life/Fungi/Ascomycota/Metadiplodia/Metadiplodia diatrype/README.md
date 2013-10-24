@@ -1,5 +1,4 @@
-Metadiplodia diatrype (Lév.) Zambett. SPECIES
-=======
+# Metadiplodia diatrype (Lév.) Zambett. SPECIES
 
 #### Status
 ACCEPTED

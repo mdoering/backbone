@@ -1,5 +1,4 @@
-Agaricus nothus Berk. SPECIES
-=======
+# Agaricus nothus Berk. SPECIES
 
 #### Status
 ACCEPTED

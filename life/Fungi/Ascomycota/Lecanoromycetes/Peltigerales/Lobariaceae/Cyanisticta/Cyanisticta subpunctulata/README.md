@@ -1,5 +1,4 @@
-Cyanisticta subpunctulata (Nyl.) Szatala SPECIES
-=======
+# Cyanisticta subpunctulata (Nyl.) Szatala SPECIES
 
 #### Status
 ACCEPTED

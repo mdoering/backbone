@@ -1,5 +1,4 @@
-Arthrobotryum didymum (Cooke) Pound & Clem. SPECIES
-=======
+# Arthrobotryum didymum (Cooke) Pound & Clem. SPECIES
 
 #### Status
 ACCEPTED

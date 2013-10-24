@@ -1,5 +1,4 @@
-Aecidium gayophyti Vize SPECIES
-=======
+# Aecidium gayophyti Vize SPECIES
 
 #### Status
 ACCEPTED

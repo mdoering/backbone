@@ -1,5 +1,4 @@
-Polythrinciopsis J. Walker GENUS
-=======
+# Polythrinciopsis J. Walker GENUS
 
 #### Status
 ACCEPTED

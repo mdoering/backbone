@@ -1,5 +1,4 @@
-Meliolina hawaiiensis S. Hughes SPECIES
-=======
+# Meliolina hawaiiensis S. Hughes SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Candelariella oleifera H. Magn. SPECIES
-=======
+# Candelariella oleifera H. Magn. SPECIES
 
 #### Status
 ACCEPTED

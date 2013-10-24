@@ -1,5 +1,4 @@
-Laccaria lutea (J.C. Buxb.) Ballero & Contu SPECIES
-=======
+# Laccaria lutea (J.C. Buxb.) Ballero & Contu SPECIES
 
 #### Status
 ACCEPTED

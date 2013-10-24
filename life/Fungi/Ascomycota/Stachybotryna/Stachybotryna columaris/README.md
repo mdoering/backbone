@@ -1,17 +1,16 @@
-Stachybotryna columare Tubaki & T. Yokoy. SPECIES
-=======
+# Stachybotryna columaris Tubaki & T. Yokoy., 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Mycol. Soc. Japan 12(1): 18 (1971)
 
 #### Original name
-Stachybotryna columare Tubaki & T. Yokoy.
+Stachybotryna columaris Tubaki & T. Yokoy., 1971
 
 ### Remarks
 null

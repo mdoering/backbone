@@ -1,5 +1,4 @@
-Hysterangium tunicatum G. Cunn. SPECIES
-=======
+# Hysterangium tunicatum G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bicolumnus ovatus Wuchang Wei & S.W. Wise SPECIES
-=======
+# Bicolumnus ovatus Wuchang Wei & S.W. Wise SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Harknessia protearum Crous & S.J. Lee SPECIES
-=======
+# Harknessia protearum Crous & S.J. Lee SPECIES
 
 #### Status
 ACCEPTED

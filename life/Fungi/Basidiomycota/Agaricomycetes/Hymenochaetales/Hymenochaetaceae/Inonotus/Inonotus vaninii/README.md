@@ -1,5 +1,4 @@
-Inonotus vaninii (Ljub.) T. Wagner & M. Fisch. SPECIES
-=======
+# Inonotus vaninii (Ljub.) T. Wagner & M. Fisch. SPECIES
 
 #### Status
 ACCEPTED

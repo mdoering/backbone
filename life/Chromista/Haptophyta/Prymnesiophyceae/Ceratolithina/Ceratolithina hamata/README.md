@@ -1,5 +1,4 @@
-Ceratolithina hamata Martini, 1967 SPECIES
-=======
+# Ceratolithina hamata Martini, 1967 SPECIES
 
 #### Status
 ACCEPTED

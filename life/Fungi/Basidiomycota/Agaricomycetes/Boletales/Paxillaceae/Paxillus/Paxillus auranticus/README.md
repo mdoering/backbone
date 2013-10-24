@@ -1,5 +1,4 @@
-Paxillus auranticus SPECIES
-=======
+# Paxillus auranticus SPECIES
 
 #### Status
 ACCEPTED

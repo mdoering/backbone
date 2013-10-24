@@ -1,17 +1,16 @@
-Pithomyces bulbilius Satya SPECIES
-=======
+# Pithomyces bulbilus Satya SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Curr. Sci. 44(14): 523 (1975)
 
 #### Original name
-Pithomyces bulbilius Satya
+Pithomyces bulbilus Satya
 
 ### Remarks
 null

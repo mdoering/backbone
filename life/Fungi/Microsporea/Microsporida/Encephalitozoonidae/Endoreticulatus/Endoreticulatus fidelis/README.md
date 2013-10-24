@@ -1,5 +1,4 @@
-Endoreticulatus fidelis (Hostounský & Weiser) W.M. Brooks, J.J. Becnel & G.G. Kennedy SPECIES
-=======
+# Endoreticulatus fidelis (Hostounský & Weiser) W.M. Brooks, J.J. Becnel & G.G. Kennedy SPECIES
 
 #### Status
 ACCEPTED

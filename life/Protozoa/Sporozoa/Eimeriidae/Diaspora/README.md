@@ -1,5 +1,4 @@
-Diaspora Léger, 1898 GENUS
-=======
+# Diaspora Léger, 1898 GENUS
 
 #### Status
 ACCEPTED

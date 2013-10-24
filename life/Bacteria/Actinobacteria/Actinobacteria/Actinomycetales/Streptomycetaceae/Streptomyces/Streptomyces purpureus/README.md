@@ -1,8 +1,7 @@
-Kitasatoa nagasakiensis Matsumae and Hata, 1968 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces purpureus (Matsumae & Hata, 1968) Goodfellow et al., 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

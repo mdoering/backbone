@@ -1,5 +1,4 @@
-Parmelia hypoleioides Vain. SPECIES
-=======
+# Parmelia hypoleioides Vain. SPECIES
 
 #### Status
 ACCEPTED

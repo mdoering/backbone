@@ -1,5 +1,4 @@
-Scytinostroma mediterraneense Boidin & Lanq., 1987 SPECIES
-=======
+# Scytinostroma mediterraneense Boidin & Lanq., 1987 SPECIES
 
 #### Status
 ACCEPTED

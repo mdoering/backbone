@@ -1,5 +1,4 @@
-Botryodiplodia jaczevskii Negru SPECIES
-=======
+# Botryodiplodia jaczevskii Negru SPECIES
 
 #### Status
 ACCEPTED

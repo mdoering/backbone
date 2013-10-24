@@ -1,5 +1,4 @@
-Chytriodinium parasititum (Dogiel) Chatton SPECIES
-=======
+# Chytriodinium parasititum (Dogiel) Chatton SPECIES
 
 #### Status
 ACCEPTED

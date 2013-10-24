@@ -1,5 +1,4 @@
-Erysiphe swainsonae (Y.N. Yu & Y.Q. Lai) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe swainsonae (Y.N. Yu & Y.Q. Lai) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

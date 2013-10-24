@@ -1,5 +1,4 @@
-Guignardia heterostemmatis (T.S. Ramakr. & K. Ramakr.) D.R. Pawar & J.N. Kapoor SPECIES
-=======
+# Guignardia heterostemmatis (T.S. Ramakr. & K. Ramakr.) D.R. Pawar & J.N. Kapoor SPECIES
 
 #### Status
 ACCEPTED

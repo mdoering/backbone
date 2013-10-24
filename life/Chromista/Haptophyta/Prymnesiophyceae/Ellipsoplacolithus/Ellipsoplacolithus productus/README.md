@@ -1,5 +1,4 @@
-Ellipsoplacolithus productus Kamptner SPECIES
-=======
+# Ellipsoplacolithus productus Kamptner SPECIES
 
 #### Status
 ACCEPTED

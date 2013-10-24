@@ -1,17 +1,16 @@
-Leptotrema monosporum f. monosporum FORM
-=======
+# Thelotrema monosporum Nyl. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. R. Bot. Belg. 31: 35 (1892)
+Annls Sci. Nat. , Bot. , sér. 4 15: 46 (1861)
 
 #### Original name
-Leptotrema monosporum f. monosporum
+Thelotrema monosporum Nyl.
 
 ### Remarks
 null

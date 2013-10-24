@@ -1,5 +1,4 @@
-Coryneum ephedrae Kravtzev SPECIES
-=======
+# Coryneum ephedrae Kravtzev SPECIES
 
 #### Status
 ACCEPTED

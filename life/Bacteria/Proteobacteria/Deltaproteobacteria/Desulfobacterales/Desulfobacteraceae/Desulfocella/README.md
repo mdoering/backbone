@@ -1,5 +1,4 @@
-Desulfocella Brandt, Patel & Ingvorsen, 1999 GENUS
-=======
+# Desulfocella Brandt, Patel & Ingvorsen, 1999 GENUS
 
 #### Status
 ACCEPTED

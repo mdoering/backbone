@@ -1,5 +1,4 @@
-Atractobolus luteoalbus (Schwein.) Kuntze SPECIES
-=======
+# Atractobolus luteoalbus (Schwein.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

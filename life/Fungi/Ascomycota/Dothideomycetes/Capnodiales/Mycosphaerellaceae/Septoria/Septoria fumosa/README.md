@@ -1,5 +1,4 @@
-Septoria fumosa Peck SPECIES
-=======
+# Septoria fumosa Peck SPECIES
 
 #### Status
 ACCEPTED

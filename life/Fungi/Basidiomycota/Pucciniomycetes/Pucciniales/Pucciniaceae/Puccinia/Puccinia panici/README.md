@@ -1,5 +1,4 @@
-Puccinia panici Dietel & Holw. SPECIES
-=======
+# Puccinia panici Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

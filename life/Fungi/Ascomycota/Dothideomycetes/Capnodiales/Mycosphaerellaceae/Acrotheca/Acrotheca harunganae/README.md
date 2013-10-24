@@ -1,5 +1,4 @@
-Acrotheca harunganae Hansf. SPECIES
-=======
+# Acrotheca harunganae Hansf. SPECIES
 
 #### Status
 ACCEPTED

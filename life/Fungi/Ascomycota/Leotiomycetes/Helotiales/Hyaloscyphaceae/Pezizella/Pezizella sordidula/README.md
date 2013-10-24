@@ -1,5 +1,4 @@
-Pezizella sordidula (Speg.) Sacc. SPECIES
-=======
+# Pezizella sordidula (Speg.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

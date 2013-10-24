@@ -1,5 +1,4 @@
-Flammula ricensis Fr. SPECIES
-=======
+# Flammula ricensis Fr. SPECIES
 
 #### Status
 ACCEPTED

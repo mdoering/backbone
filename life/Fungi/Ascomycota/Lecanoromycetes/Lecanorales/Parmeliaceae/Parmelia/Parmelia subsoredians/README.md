@@ -1,5 +1,4 @@
-Parmelia subsoredians Nyl. SPECIES
-=======
+# Parmelia subsoredians Nyl. SPECIES
 
 #### Status
 ACCEPTED

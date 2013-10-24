@@ -1,5 +1,4 @@
-Graphis porrigens Nyl. SPECIES
-=======
+# Graphis porrigens Nyl. SPECIES
 
 #### Status
 ACCEPTED

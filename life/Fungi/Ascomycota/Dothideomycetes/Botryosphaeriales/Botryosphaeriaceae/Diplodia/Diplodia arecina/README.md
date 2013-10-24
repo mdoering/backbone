@@ -1,5 +1,4 @@
-Diplodia arecina Sacc. SPECIES
-=======
+# Diplodia arecina Sacc. SPECIES
 
 #### Status
 ACCEPTED

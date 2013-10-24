@@ -1,5 +1,4 @@
-Protoperidinium fastum Balech, 1979 SPECIES
-=======
+# Protoperidinium fastum Balech, 1979 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Armillaria mellea subsp. mellea SUBSPECIES
-=======
+# Armillaria mellea (Vahl) P. Kumm., 1871 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Führ. Pilzk. (Zwickau) 134 (1871)
 
 #### Original name
-Armillaria mellea subsp. mellea
+Agaricus melleus Vahl, 1790
 
 ### Remarks
 null

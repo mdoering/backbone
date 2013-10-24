@@ -1,5 +1,4 @@
-Trichothyrites denticulatus (Ramanujam & K.P. Rao) Kalgutkar & Janson. SPECIES
-=======
+# Trichothyrites denticulatus (Ramanujam & K.P. Rao) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

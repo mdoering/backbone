@@ -1,5 +1,4 @@
-Segestria morbosa (Arnold) Dalla Torre & Sarnth. SPECIES
-=======
+# Segestria morbosa (Arnold) Dalla Torre & Sarnth. SPECIES
 
 #### Status
 ACCEPTED

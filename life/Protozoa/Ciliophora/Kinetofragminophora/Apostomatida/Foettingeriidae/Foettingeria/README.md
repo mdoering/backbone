@@ -1,5 +1,4 @@
-Foettingeria Caullery & Mesnil, 1903 GENUS
-=======
+# Foettingeria Caullery & Mesnil, 1903 GENUS
 
 #### Status
 ACCEPTED

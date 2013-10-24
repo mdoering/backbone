@@ -1,5 +1,4 @@
-Bacidia livida (Bagl. & Carestia) SPECIES
-=======
+# Bacidia livida (Bagl. & Carestia) SPECIES
 
 #### Status
 ACCEPTED

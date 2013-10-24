@@ -1,5 +1,4 @@
-Elytroplastron Kofoid & MacLennan, 1932 GENUS
-=======
+# Elytroplastron Kofoid & MacLennan, 1932 GENUS
 
 #### Status
 ACCEPTED

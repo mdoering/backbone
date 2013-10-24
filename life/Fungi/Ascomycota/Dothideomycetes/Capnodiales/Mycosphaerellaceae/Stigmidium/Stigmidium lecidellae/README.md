@@ -1,5 +1,4 @@
-Stigmidium lecidellae Triebel, Cl. Roux & Le Coeur, 1995 SPECIES
-=======
+# Stigmidium lecidellae Triebel, Cl. Roux & Le Coeur, 1995 SPECIES
 
 #### Status
 ACCEPTED

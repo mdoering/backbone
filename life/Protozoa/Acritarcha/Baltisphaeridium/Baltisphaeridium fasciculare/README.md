@@ -1,5 +1,4 @@
-Baltisphaeridium fasciculare Fanderflit in N. Umnova & Fanderflit, 1971 SPECIES
-=======
+# Baltisphaeridium fasciculare Fanderflit in N. Umnova & Fanderflit, 1971 SPECIES
 
 #### Status
 ACCEPTED

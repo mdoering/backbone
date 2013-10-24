@@ -1,5 +1,4 @@
-Peridermium fischeri Kleb. SPECIES
-=======
+# Peridermium fischeri Kleb. SPECIES
 
 #### Status
 ACCEPTED

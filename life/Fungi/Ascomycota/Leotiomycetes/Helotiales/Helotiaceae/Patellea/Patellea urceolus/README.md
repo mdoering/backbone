@@ -1,5 +1,4 @@
-Patellea urceolus (Fuckel) Sacc. SPECIES
-=======
+# Patellea urceolus (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

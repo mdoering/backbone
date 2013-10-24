@@ -1,5 +1,4 @@
-Pseudotryblidium neesii (Flot.) Rehm, 1890 SPECIES
-=======
+# Pseudotryblidium neesii (Flot.) Rehm, 1890 SPECIES
 
 #### Status
 ACCEPTED

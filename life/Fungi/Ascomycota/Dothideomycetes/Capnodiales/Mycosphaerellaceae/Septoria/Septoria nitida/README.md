@@ -1,5 +1,4 @@
-Septoria nitida Ferraris SPECIES
-=======
+# Septoria nitida Ferraris SPECIES
 
 #### Status
 ACCEPTED

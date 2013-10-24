@@ -1,5 +1,4 @@
-Hydnochaete duportii Pat., 1915 SPECIES
-=======
+# Hydnochaete duportii Pat., 1915 SPECIES
 
 #### Status
 ACCEPTED

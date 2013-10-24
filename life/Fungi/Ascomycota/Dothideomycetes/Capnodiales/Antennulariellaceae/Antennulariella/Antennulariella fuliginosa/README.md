@@ -1,14 +1,13 @@
-Wentiomyces fuliginosus (Woron.) E. Müll., 1962 SPECIES
-=======
+# Antennulariella fuliginosa Woron., 1915 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beitr. Kryptfl. Schweiz 11(2): 495 (1962)
+Trudy Byuro Prikl. Bot. 8: (1915)
 
 #### Original name
 Antennulariella fuliginosa Woron., 1915

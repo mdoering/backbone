@@ -1,5 +1,4 @@
-Phyllotus imbricatus Earle SPECIES
-=======
+# Phyllotus imbricatus Earle SPECIES
 
 #### Status
 ACCEPTED

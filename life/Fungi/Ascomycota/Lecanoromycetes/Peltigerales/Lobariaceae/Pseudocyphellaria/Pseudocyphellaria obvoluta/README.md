@@ -1,5 +1,4 @@
-Pseudocyphellaria obvoluta (Ach.) Malme SPECIES
-=======
+# Pseudocyphellaria obvoluta (Ach.) Malme SPECIES
 
 #### Status
 ACCEPTED

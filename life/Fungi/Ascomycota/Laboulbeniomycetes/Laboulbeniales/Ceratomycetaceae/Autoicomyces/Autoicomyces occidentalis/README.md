@@ -1,5 +1,4 @@
-Autoicomyces occidentalis (Thaxt.) I.I. Tav. SPECIES
-=======
+# Autoicomyces occidentalis (Thaxt.) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

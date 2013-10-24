@@ -1,5 +1,4 @@
-Spiloma rubicundum SPECIES
-=======
+# Spiloma rubicundum SPECIES
 
 #### Status
 ACCEPTED

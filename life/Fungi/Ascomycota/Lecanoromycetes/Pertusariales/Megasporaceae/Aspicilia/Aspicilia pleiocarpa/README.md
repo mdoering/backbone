@@ -1,5 +1,4 @@
-Aspicilia pleiocarpa (H. Magn.) Oxner SPECIES
-=======
+# Aspicilia pleiocarpa (H. Magn.) Oxner SPECIES
 
 #### Status
 ACCEPTED

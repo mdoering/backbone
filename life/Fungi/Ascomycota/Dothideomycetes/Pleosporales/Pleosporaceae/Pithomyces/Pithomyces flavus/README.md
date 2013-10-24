@@ -1,5 +1,4 @@
-Pithomyces flavus Berk. & Broome, 1875 SPECIES
-=======
+# Pithomyces flavus Berk. & Broome, 1875 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thaxteriella indica Dharne & E. Müll., 1970 SPECIES
-=======
+# Thaxteriella indica Dharne & E. Müll., 1970 SPECIES
 
 #### Status
 ACCEPTED

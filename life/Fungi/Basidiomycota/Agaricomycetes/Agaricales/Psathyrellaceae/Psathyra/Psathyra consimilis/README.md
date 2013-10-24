@@ -1,5 +1,4 @@
-Psathyra consimilis (Bres. & Henn.) SPECIES
-=======
+# Psathyra consimilis (Bres. & Henn.) SPECIES
 
 #### Status
 ACCEPTED

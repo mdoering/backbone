@@ -1,5 +1,4 @@
-Lanceispora amphibia Nakagiri, Okane, Tad. Ito & Katum., 1997 SPECIES
-=======
+# Lanceispora amphibia Nakagiri, Okane, Tad. Ito & Katum., 1997 SPECIES
 
 #### Status
 ACCEPTED

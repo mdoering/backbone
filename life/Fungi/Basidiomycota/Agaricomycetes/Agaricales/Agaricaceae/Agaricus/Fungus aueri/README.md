@@ -1,5 +1,4 @@
-Fungus aueri (Nees) Kuntze SPECIES
-=======
+# Fungus aueri (Nees) Kuntze SPECIES
 
 #### Status
 ACCEPTED

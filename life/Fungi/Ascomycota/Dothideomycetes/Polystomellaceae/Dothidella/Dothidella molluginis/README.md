@@ -1,5 +1,4 @@
-Dothidella molluginis Höhn. SPECIES
-=======
+# Dothidella molluginis Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Usnea hookeri Motyka SPECIES
-=======
+# Usnea hookeri Motyka SPECIES
 
 #### Status
 ACCEPTED

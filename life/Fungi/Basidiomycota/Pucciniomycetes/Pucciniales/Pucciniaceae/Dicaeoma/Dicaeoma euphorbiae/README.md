@@ -1,5 +1,4 @@
-Dicaeoma euphorbiae (Henn.) Kuntze SPECIES
-=======
+# Dicaeoma euphorbiae (Henn.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

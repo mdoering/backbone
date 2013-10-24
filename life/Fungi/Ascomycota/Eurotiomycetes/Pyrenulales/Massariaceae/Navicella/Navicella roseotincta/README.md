@@ -1,5 +1,4 @@
-Navicella roseotincta (Ellis & Everh.) Kuntze SPECIES
-=======
+# Navicella roseotincta (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

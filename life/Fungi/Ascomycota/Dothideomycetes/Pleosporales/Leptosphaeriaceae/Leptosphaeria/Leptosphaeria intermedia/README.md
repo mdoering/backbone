@@ -1,5 +1,4 @@
-Leptosphaeria intermedia Niessl SPECIES
-=======
+# Leptosphaeria intermedia Niessl SPECIES
 
 #### Status
 ACCEPTED

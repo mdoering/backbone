@@ -1,5 +1,4 @@
-Arthonia phaeophysciae Grube & Matzer SPECIES
-=======
+# Arthonia phaeophysciae Grube & Matzer SPECIES
 
 #### Status
 ACCEPTED

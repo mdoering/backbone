@@ -1,5 +1,4 @@
-Alnicola saliceti (P.D. Orton) Courtec. SPECIES
-=======
+# Alnicola saliceti (P.D. Orton) Courtec. SPECIES
 
 #### Status
 ACCEPTED

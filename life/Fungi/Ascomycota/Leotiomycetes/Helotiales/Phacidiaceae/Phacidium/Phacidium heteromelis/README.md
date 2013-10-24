@@ -1,5 +1,4 @@
-Phacidium heteromelis W. Phillips & Harkn. SPECIES
-=======
+# Phacidium heteromelis W. Phillips & Harkn. SPECIES
 
 #### Status
 ACCEPTED

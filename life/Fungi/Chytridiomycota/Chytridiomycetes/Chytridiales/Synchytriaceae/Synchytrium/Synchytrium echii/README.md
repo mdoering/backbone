@@ -1,5 +1,4 @@
-Synchytrium echii Speg. SPECIES
-=======
+# Synchytrium echii Speg. SPECIES
 
 #### Status
 ACCEPTED

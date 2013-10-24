@@ -1,5 +1,4 @@
-Meliola galeariae Hansf. SPECIES
-=======
+# Meliola galeariae Hansf. SPECIES
 
 #### Status
 ACCEPTED

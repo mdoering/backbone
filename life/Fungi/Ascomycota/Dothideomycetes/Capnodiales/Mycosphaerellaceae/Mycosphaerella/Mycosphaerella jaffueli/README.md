@@ -1,5 +1,4 @@
-Mycosphaerella jaffueli (Speg.) Cash SPECIES
-=======
+# Mycosphaerella jaffueli (Speg.) Cash SPECIES
 
 #### Status
 ACCEPTED

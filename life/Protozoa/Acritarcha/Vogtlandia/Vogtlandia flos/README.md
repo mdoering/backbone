@@ -1,5 +1,4 @@
-Vogtlandia flos Martin in Dean & Martin, 1978 SPECIES
-=======
+# Vogtlandia flos Martin in Dean & Martin, 1978 SPECIES
 
 #### Status
 ACCEPTED

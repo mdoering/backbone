@@ -1,14 +1,13 @@
-Cercospora fusimaculans G.F. Atk., 1892 SPECIES
-=======
+# Passalora fusimaculans (G.F. Atk.) U. Braun & Crous, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Elisha Mitchell scient. Soc. 8(2): 50 (1892)
+in Crous & Braun, CBS Diversity Ser. (Utrecht) 1: 192 (2003)
 
 #### Original name
 Cercospora fusimaculans G.F. Atk., 1892

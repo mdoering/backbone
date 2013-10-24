@@ -1,5 +1,4 @@
-Tretospora shoreae M.K. Khan & Kamal, 1993 SPECIES
-=======
+# Tretospora shoreae M.K. Khan & Kamal, 1993 SPECIES
 
 #### Status
 ACCEPTED

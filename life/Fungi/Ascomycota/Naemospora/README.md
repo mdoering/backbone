@@ -1,5 +1,4 @@
-Naemospora Roth ex Kuntze, 1898 GENUS
-=======
+# Naemospora Roth ex Kuntze, 1898 GENUS
 
 #### Status
 ACCEPTED

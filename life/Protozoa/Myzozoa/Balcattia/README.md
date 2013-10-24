@@ -1,5 +1,4 @@
-Balcattia I.C.Cookson & A.Eisenack GENUS
-=======
+# Balcattia I.C.Cookson & A.Eisenack GENUS
 
 #### Status
 ACCEPTED

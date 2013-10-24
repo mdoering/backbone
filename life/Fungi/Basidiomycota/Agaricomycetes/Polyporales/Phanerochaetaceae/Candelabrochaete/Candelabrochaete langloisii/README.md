@@ -1,14 +1,13 @@
-Pellicularia langloisii (Pat.) D.P. Rogers, 1943 SPECIES
-=======
+# Candelabrochaete langloisii (Pat.) Boidin, 1970 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Farlowia 1(1): 101 (1943)
+Cahiers de La Maboké 8: 24 (1970)
 
 #### Original name
 Hypochnus langloisii Pat., 1908

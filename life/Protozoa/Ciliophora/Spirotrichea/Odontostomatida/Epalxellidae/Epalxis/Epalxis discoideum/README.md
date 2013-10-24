@@ -1,5 +1,4 @@
-Epalxis discoideum SPECIES
-=======
+# Epalxis discoideum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dicellaesporites elongatus P. Kumar SPECIES
-=======
+# Dicellaesporites elongatus P. Kumar SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola pepparaensis Hosag. & T.K. Abraham SPECIES
-=======
+# Meliola pepparaensis Hosag. & T.K. Abraham SPECIES
 
 #### Status
 ACCEPTED

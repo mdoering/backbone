@@ -1,5 +1,4 @@
-Amanita austrostraminea D.A. Reid SPECIES
-=======
+# Amanita austrostraminea D.A. Reid SPECIES
 
 #### Status
 ACCEPTED

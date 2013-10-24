@@ -1,5 +1,4 @@
-Monosporium affine (Sacc. & Schulzer) Sacc. SPECIES
-=======
+# Monosporium affine (Sacc. & Schulzer) Sacc. SPECIES
 
 #### Status
 ACCEPTED

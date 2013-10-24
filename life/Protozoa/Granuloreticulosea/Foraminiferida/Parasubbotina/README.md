@@ -1,5 +1,4 @@
-Parasubbotina Olsson, Hemleben, Berggren & Liu, 1992 GENUS
-=======
+# Parasubbotina Olsson, Hemleben, Berggren & Liu, 1992 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Euplotes extensus Fresenius, 1865 SPECIES
-=======
+# Euplotes extensus Fresenius, 1865 SPECIES
 
 #### Status
 ACCEPTED

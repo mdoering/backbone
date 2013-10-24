@@ -1,5 +1,4 @@
-Sporisorium simile R.G. Shivas & J. Walker SPECIES
-=======
+# Sporisorium simile R.G. Shivas & J. Walker SPECIES
 
 #### Status
 ACCEPTED

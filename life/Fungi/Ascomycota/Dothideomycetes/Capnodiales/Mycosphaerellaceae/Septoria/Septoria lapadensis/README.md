@@ -1,5 +1,4 @@
-Septoria lapadensis Jaap SPECIES
-=======
+# Septoria lapadensis Jaap SPECIES
 
 #### Status
 ACCEPTED

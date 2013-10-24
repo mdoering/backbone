@@ -1,5 +1,4 @@
-Phyllobathelium obtectum (Vain.) H. Mayrhofer SPECIES
-=======
+# Phyllobathelium obtectum (Vain.) H. Mayrhofer SPECIES
 
 #### Status
 ACCEPTED

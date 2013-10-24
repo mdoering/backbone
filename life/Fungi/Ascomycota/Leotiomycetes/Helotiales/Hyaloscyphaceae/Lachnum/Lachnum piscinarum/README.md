@@ -1,5 +1,4 @@
-Lachnum piscinarum Velen. SPECIES
-=======
+# Lachnum piscinarum Velen. SPECIES
 
 #### Status
 ACCEPTED

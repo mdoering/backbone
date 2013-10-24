@@ -1,5 +1,4 @@
-Coelomomyces kellini SPECIES
-=======
+# Coelomomyces kellini SPECIES
 
 #### Status
 ACCEPTED

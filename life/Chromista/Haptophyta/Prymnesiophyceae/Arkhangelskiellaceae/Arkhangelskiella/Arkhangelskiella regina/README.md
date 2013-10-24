@@ -1,5 +1,4 @@
-Arkhangelskiella regina SPECIES
-=======
+# Arkhangelskiella regina SPECIES
 
 #### Status
 ACCEPTED

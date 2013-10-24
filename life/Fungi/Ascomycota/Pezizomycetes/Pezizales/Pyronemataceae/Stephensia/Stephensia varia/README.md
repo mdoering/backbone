@@ -1,5 +1,4 @@
-Stephensia varia Rodway, 1897 SPECIES
-=======
+# Stephensia varia Rodway, 1897 SPECIES
 
 #### Status
 ACCEPTED

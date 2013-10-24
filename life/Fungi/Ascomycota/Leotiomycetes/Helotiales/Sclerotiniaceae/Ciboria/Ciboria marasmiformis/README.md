@@ -1,5 +1,4 @@
-Ciboria marasmiformis Velen. SPECIES
-=======
+# Ciboria marasmiformis Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pluteus squamosopunctus E. Horak SPECIES
-=======
+# Pluteus squamosopunctus E. Horak SPECIES
 
 #### Status
 ACCEPTED

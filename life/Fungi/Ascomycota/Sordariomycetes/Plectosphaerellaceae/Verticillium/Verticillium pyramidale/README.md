@@ -1,5 +1,4 @@
-Verticillium pyramidale Bonord. SPECIES
-=======
+# Verticillium pyramidale Bonord. SPECIES
 
 #### Status
 ACCEPTED

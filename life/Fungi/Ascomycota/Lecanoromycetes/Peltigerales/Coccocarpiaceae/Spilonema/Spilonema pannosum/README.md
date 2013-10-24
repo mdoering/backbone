@@ -1,5 +1,4 @@
-Spilonema pannosum Hy SPECIES
-=======
+# Spilonema pannosum Hy SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rinodina aspicilina Zahlbr. SPECIES
-=======
+# Rinodina aspicilina Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

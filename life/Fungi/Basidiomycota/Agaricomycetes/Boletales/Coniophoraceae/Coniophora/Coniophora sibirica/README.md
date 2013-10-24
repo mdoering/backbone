@@ -1,5 +1,4 @@
-Coniophora sibirica Burt SPECIES
-=======
+# Coniophora sibirica Burt SPECIES
 
 #### Status
 ACCEPTED

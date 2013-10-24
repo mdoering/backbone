@@ -1,5 +1,4 @@
-Heppia urceolata (Schaer.) Nägeli SPECIES
-=======
+# Heppia urceolata (Schaer.) Nägeli SPECIES
 
 #### Status
 ACCEPTED

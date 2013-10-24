@@ -1,5 +1,4 @@
-Cercoseptoria balsaminicola (J.M. Yen & Lim) J.M. Yen SPECIES
-=======
+# Cercoseptoria balsaminicola (J.M. Yen & Lim) J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

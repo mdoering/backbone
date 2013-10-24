@@ -1,5 +1,4 @@
-Verticimonosporium verticale Mu Wang, L.M. Zhang & Xing Z. Liu SPECIES
-=======
+# Verticimonosporium verticale Mu Wang, L.M. Zhang & Xing Z. Liu SPECIES
 
 #### Status
 ACCEPTED

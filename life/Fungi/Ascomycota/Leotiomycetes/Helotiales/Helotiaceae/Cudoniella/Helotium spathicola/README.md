@@ -1,5 +1,4 @@
-Helotium spathicola Henn. SPECIES
-=======
+# Helotium spathicola Henn. SPECIES
 
 #### Status
 ACCEPTED

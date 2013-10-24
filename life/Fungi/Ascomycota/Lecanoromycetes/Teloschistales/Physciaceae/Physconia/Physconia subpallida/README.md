@@ -1,5 +1,4 @@
-Physconia subpallida Essl. SPECIES
-=======
+# Physconia subpallida Essl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stilbella lindaui anon. SPECIES
-=======
+# Stilbella lindaui anon. SPECIES
 
 #### Status
 ACCEPTED

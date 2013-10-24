@@ -1,5 +1,4 @@
-Paratetraploa exappendiculata M.K.M. Wong, Goh & K.D. Hyde, 2002 SPECIES
-=======
+# Paratetraploa exappendiculata M.K.M. Wong, Goh & K.D. Hyde, 2002 SPECIES
 
 #### Status
 ACCEPTED

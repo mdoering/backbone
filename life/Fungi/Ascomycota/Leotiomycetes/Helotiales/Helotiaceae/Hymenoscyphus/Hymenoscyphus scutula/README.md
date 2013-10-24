@@ -1,17 +1,16 @@
-Hymenoscyphus fucatus var. fucatus VARIETY
-=======
+# Hymenoscyphus scutula (Pers.) W. Phillips, 1887 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Man. Brit. Discomyc. (London) 136 (1887)
 
 #### Original name
-Hymenoscyphus fucatus var. fucatus
+null
 
 ### Remarks
 null

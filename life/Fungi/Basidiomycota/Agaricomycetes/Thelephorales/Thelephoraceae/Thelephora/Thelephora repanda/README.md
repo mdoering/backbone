@@ -1,5 +1,4 @@
-Thelephora repanda Fr. SPECIES
-=======
+# Thelephora repanda Fr. SPECIES
 
 #### Status
 ACCEPTED

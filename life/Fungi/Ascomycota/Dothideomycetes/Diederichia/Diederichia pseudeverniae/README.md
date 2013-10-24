@@ -1,14 +1,13 @@
-Macrophomina pseudeverniae Etayo & Diederich, 1996 SPECIES
-=======
+# Diederichia pseudeverniae (Etayo & Diederich) D. Hawksw., 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 60: 419 (1996)
+Lichenologist 35(3): 206 (2003)
 
 #### Original name
 Macrophomina pseudeverniae Etayo & Diederich, 1996

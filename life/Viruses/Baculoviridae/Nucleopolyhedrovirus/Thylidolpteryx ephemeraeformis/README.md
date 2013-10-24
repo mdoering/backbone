@@ -1,5 +1,4 @@
-Thylidolpteryx ephemeraeformis Npv SPECIES
-=======
+# Thylidolpteryx ephemeraeformis Npv SPECIES
 
 #### Status
 ACCEPTED

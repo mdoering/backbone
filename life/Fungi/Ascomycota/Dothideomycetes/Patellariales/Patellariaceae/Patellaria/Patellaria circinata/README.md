@@ -1,5 +1,4 @@
-Patellaria circinata (Pers.) Wallr. SPECIES
-=======
+# Patellaria circinata (Pers.) Wallr. SPECIES
 
 #### Status
 ACCEPTED

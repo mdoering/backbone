@@ -1,5 +1,4 @@
-Systematophora schindewolfii (Alberti, 1961) Downie & Sarjeant SPECIES
-=======
+# Systematophora schindewolfii (Alberti, 1961) Downie & Sarjeant SPECIES
 
 #### Status
 ACCEPTED

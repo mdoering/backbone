@@ -1,5 +1,4 @@
-Hysterium plantarum Schwein. SPECIES
-=======
+# Hysterium plantarum Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola hyptidicola var. hyptidicola VARIETY
-=======
+# Meliola hyptidicola F. Stevens SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Illinois Biol. Monogr. (Urbana) 2: 484 (1916)
 
 #### Original name
-Meliola hyptidicola var. hyptidicola
+Meliola hyptidicola F. Stevens
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Clavulinopsis propera (Bourdot) Corner SPECIES
-=======
+# Clavulinopsis propera (Bourdot) Corner SPECIES
 
 #### Status
 ACCEPTED

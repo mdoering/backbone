@@ -1,5 +1,4 @@
-Leptotrema inclusum Zahlbr. SPECIES
-=======
+# Leptotrema inclusum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

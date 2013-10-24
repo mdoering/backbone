@@ -1,5 +1,4 @@
-Ogataea nakhonphanomensis Limtong, Srisuk, Yongman., Yurim. & Nakase, 2008 SPECIES
-=======
+# Ogataea nakhonphanomensis Limtong, Srisuk, Yongman., Yurim. & Nakase, 2008 SPECIES
 
 #### Status
 ACCEPTED

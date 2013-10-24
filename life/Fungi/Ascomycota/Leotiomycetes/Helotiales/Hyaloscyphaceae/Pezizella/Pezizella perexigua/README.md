@@ -1,5 +1,4 @@
-Pezizella perexigua (J. Schröt.) Sacc. SPECIES
-=======
+# Pezizella perexigua (J. Schröt.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

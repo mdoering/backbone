@@ -1,5 +1,4 @@
-Phlyctidium minimum J. Schröt. SPECIES
-=======
+# Phlyctidium minimum J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

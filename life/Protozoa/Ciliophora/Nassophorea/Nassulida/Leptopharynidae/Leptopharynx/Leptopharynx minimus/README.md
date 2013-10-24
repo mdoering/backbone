@@ -1,5 +1,4 @@
-Leptopharynx minimus Alekperov, 1993 SPECIES
-=======
+# Leptopharynx minimus Alekperov, 1993 SPECIES
 
 #### Status
 ACCEPTED

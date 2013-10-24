@@ -1,5 +1,4 @@
-Moellerodiscus pinicola Y. Otani SPECIES
-=======
+# Moellerodiscus pinicola Y. Otani SPECIES
 
 #### Status
 ACCEPTED

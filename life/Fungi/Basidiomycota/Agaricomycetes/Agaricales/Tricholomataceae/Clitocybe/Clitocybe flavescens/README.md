@@ -1,5 +1,4 @@
-Clitocybe flavescens Petch SPECIES
-=======
+# Clitocybe flavescens Petch SPECIES
 
 #### Status
 ACCEPTED

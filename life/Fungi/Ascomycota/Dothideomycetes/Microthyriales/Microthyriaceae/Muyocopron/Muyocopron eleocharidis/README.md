@@ -1,17 +1,16 @@
-Muyocopron heleocharidis Grove, 1930 SPECIES
-=======
+# Muyocopron eleocharidis Grove, 1930 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. Bot. , London 68: 133 (1930)
 
 #### Original name
-Muyocopron heleocharidis Grove, 1930
+Muyocopron eleocharidis Grove, 1930
 
 ### Remarks
 null

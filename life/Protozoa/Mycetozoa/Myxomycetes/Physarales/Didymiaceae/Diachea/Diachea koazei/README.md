@@ -1,5 +1,4 @@
-Diachea koazei Y. Yamam., 1987 SPECIES
-=======
+# Diachea koazei Y. Yamam., 1987 SPECIES
 
 #### Status
 ACCEPTED

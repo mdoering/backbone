@@ -1,5 +1,4 @@
-Entosthelia miniata var. miniata VARIETY
-=======
+# Entosthelia miniata SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Entosthelia miniata var. miniata
+null
 
 ### Remarks
 null

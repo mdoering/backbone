@@ -1,5 +1,4 @@
-Fusicoccum kunzeanum Sacc. SPECIES
-=======
+# Fusicoccum kunzeanum Sacc. SPECIES
 
 #### Status
 ACCEPTED

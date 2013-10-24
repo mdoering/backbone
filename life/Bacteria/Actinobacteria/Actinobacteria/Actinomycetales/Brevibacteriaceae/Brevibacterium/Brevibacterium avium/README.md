@@ -1,5 +1,4 @@
-Brevibacterium avium Pascual & Collins, 1999 SPECIES
-=======
+# Brevibacterium avium Pascual & Collins, 1999 SPECIES
 
 #### Status
 ACCEPTED

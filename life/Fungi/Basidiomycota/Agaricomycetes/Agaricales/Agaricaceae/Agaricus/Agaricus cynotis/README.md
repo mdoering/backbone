@@ -1,5 +1,4 @@
-Agaricus cynotis Pers. SPECIES
-=======
+# Agaricus cynotis Pers. SPECIES
 
 #### Status
 ACCEPTED

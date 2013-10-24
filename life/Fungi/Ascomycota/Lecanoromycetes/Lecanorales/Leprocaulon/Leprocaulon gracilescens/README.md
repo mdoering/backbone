@@ -1,5 +1,4 @@
-Leprocaulon gracilescens (Nyl.) I. M. Lamb & A. Ward SPECIES
-=======
+# Leprocaulon gracilescens (Nyl.) I. M. Lamb & A. Ward SPECIES
 
 #### Status
 ACCEPTED

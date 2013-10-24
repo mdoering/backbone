@@ -1,5 +1,4 @@
-Trichopeziza planoumbilicata (Grev.) Sacc. SPECIES
-=======
+# Trichopeziza planoumbilicata (Grev.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

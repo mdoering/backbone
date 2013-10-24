@@ -1,5 +1,4 @@
-Cantharellus aggregatus Pat. SPECIES
-=======
+# Cantharellus aggregatus Pat. SPECIES
 
 #### Status
 ACCEPTED

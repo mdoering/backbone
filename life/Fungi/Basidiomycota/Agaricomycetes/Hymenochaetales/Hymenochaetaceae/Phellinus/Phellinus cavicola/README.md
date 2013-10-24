@@ -1,14 +1,13 @@
-Fomitiporella cavicola (Kotl. & Pouzar) T. Wagner & M. Fisch., 2002 SPECIES
-=======
+# Phellinus cavicola Kotl. & Pouzar, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 94(6): 1012 (2002)
+Czech Mycol. 48(2): 155 (1995)
 
 #### Original name
 Phellinus cavicola Kotl. & Pouzar, 1995

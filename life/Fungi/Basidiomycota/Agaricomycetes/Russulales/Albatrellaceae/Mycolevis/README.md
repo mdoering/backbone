@@ -1,5 +1,4 @@
-Mycolevis A.H. Sm. GENUS
-=======
+# Mycolevis A.H. Sm. GENUS
 
 #### Status
 ACCEPTED

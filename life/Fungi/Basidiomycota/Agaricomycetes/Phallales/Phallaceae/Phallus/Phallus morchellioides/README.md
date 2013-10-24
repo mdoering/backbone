@@ -1,5 +1,4 @@
-Phallus morchellioides Despr. SPECIES
-=======
+# Phallus morchellioides Despr. SPECIES
 
 #### Status
 ACCEPTED

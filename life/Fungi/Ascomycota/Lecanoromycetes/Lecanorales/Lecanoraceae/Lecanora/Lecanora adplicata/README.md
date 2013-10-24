@@ -1,5 +1,4 @@
-Lecanora adplicata Kremp. SPECIES
-=======
+# Lecanora adplicata Kremp. SPECIES
 
 #### Status
 ACCEPTED

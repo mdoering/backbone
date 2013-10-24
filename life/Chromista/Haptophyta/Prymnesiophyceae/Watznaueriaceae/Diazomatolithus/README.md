@@ -1,5 +1,4 @@
-Diazomatolithus D.Noël GENUS
-=======
+# Diazomatolithus D.Noël GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza globosa Schumach. SPECIES
-=======
+# Peziza globosa Schumach. SPECIES
 
 #### Status
 ACCEPTED

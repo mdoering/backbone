@@ -1,5 +1,4 @@
-Flammula praecox Peck SPECIES
-=======
+# Flammula praecox Peck SPECIES
 
 #### Status
 ACCEPTED

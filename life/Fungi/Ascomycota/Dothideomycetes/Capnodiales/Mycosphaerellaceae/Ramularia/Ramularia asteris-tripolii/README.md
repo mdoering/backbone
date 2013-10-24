@@ -1,5 +1,4 @@
-Ramularia asteris-tripolii Jaap SPECIES
-=======
+# Ramularia asteris-tripolii Jaap SPECIES
 
 #### Status
 ACCEPTED

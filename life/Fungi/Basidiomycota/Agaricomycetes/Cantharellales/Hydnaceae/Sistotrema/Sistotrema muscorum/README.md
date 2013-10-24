@@ -1,5 +1,4 @@
-Sistotrema muscorum Schwein. SPECIES
-=======
+# Sistotrema muscorum Schwein. SPECIES
 
 #### Status
 ACCEPTED

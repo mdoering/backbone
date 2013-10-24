@@ -1,5 +1,4 @@
-Paenibacillus timonensis Roux & Raoult, 2004 SPECIES
-=======
+# Paenibacillus timonensis Roux & Raoult, 2004 SPECIES
 
 #### Status
 ACCEPTED

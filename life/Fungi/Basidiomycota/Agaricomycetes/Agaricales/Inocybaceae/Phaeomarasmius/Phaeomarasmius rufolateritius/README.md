@@ -1,5 +1,4 @@
-Phaeomarasmius rufolateritius (Bres.) Singer SPECIES
-=======
+# Phaeomarasmius rufolateritius (Bres.) Singer SPECIES
 
 #### Status
 ACCEPTED

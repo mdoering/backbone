@@ -1,14 +1,13 @@
-Didymium nigripes var. eximium (Peck) Lister VARIETY
-=======
+# Didymium eximium Peck, 1879 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monogr. Mycetozoa (London) 98 (1894)
+Ann. Rep. N. Y. St. Mus. nat. Hist. 31: 41 (1878)
 
 #### Original name
 Didymium eximium Peck, 1879

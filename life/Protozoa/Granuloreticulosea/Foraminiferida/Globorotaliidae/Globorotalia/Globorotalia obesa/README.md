@@ -1,5 +1,4 @@
-Globorotalia obesa Bolli SPECIES
-=======
+# Globorotalia obesa Bolli SPECIES
 
 #### Status
 ACCEPTED

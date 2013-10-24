@@ -1,5 +1,4 @@
-Dermocystidium granulosum Sterba & W. Naumann SPECIES
-=======
+# Dermocystidium granulosum Sterba & W. Naumann SPECIES
 
 #### Status
 ACCEPTED

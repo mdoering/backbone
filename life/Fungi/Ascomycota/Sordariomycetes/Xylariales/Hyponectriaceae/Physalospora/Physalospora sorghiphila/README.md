@@ -1,5 +1,4 @@
-Physalospora sorghiphila Saccas SPECIES
-=======
+# Physalospora sorghiphila Saccas SPECIES
 
 #### Status
 ACCEPTED

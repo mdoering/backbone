@@ -1,5 +1,4 @@
-Hypholoma inocybeforme Kauffman SPECIES
-=======
+# Hypholoma inocybeforme Kauffman SPECIES
 
 #### Status
 ACCEPTED

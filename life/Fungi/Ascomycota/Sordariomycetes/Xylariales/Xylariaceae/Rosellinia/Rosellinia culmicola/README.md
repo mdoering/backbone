@@ -1,5 +1,4 @@
-Rosellinia culmicola Teng SPECIES
-=======
+# Rosellinia culmicola Teng SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Camarosporium shahvaricum Petr. SPECIES
-=======
+# Camarosporium shahvaricum Petr. SPECIES
 
 #### Status
 ACCEPTED

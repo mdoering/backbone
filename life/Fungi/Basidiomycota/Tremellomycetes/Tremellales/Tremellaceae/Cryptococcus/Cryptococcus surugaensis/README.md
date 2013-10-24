@@ -1,5 +1,4 @@
-Cryptococcus surugaensis Nagah., Hamam. & Nakase SPECIES
-=======
+# Cryptococcus surugaensis Nagah., Hamam. & Nakase SPECIES
 
 #### Status
 ACCEPTED

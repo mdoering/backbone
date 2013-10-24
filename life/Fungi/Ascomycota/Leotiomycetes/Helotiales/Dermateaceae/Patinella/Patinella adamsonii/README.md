@@ -1,5 +1,4 @@
-Patinella adamsonii (Berk.) Sacc. SPECIES
-=======
+# Patinella adamsonii (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

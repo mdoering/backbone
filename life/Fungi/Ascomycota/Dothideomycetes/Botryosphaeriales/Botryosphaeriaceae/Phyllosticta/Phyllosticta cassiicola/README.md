@@ -1,5 +1,4 @@
-Phyllosticta cassiicola Kellerm. & Swingle SPECIES
-=======
+# Phyllosticta cassiicola Kellerm. & Swingle SPECIES
 
 #### Status
 ACCEPTED

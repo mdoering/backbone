@@ -1,5 +1,4 @@
-Polyporus impuber Pers. SPECIES
-=======
+# Polyporus impuber Pers. SPECIES
 
 #### Status
 ACCEPTED

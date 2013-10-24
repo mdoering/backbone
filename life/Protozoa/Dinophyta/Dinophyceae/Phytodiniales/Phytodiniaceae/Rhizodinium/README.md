@@ -1,5 +1,4 @@
-Rhizodinium Baumeister ex Bourrelly, 1955 GENUS
-=======
+# Rhizodinium Baumeister ex Bourrelly, 1955 GENUS
 
 #### Status
 ACCEPTED

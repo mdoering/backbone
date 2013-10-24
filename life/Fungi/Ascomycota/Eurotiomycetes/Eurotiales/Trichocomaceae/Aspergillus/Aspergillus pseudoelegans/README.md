@@ -1,5 +1,4 @@
-Aspergillus pseudoelegans Frisvad & Samson SPECIES
-=======
+# Aspergillus pseudoelegans Frisvad & Samson SPECIES
 
 #### Status
 ACCEPTED

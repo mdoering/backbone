@@ -1,14 +1,13 @@
-Melanotaenium majus var. melinidis Dennis, 1988 VARIETY
-=======
+# Jamesdicksonia melinidis (Dennis) Vánky, 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 90(3): 471 (1988)
+Mycotaxon 89(1): 106 (2004)
 
 #### Original name
 Melanotaenium majus var. melinidis Dennis, 1988

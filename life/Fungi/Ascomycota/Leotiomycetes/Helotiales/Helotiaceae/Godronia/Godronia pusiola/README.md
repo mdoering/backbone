@@ -1,5 +1,4 @@
-Godronia pusiola P. Karst. SPECIES
-=======
+# Godronia pusiola P. Karst. SPECIES
 
 #### Status
 ACCEPTED

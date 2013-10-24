@@ -1,5 +1,4 @@
-Caloplaca turkuensis (Vain.) Zahlbr. SPECIES
-=======
+# Caloplaca turkuensis (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

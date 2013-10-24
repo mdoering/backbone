@@ -1,5 +1,4 @@
-Pannaria furfurascens Nyl. SPECIES
-=======
+# Pannaria furfurascens Nyl. SPECIES
 
 #### Status
 ACCEPTED

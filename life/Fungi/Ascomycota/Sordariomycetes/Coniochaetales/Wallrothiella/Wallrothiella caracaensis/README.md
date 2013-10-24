@@ -1,5 +1,4 @@
-Wallrothiella caracaensis Rehm SPECIES
-=======
+# Wallrothiella caracaensis Rehm SPECIES
 
 #### Status
 ACCEPTED

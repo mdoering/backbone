@@ -1,5 +1,4 @@
-Perisporiopsis clusiicola (Hansf.) Sivan. SPECIES
-=======
+# Perisporiopsis clusiicola (Hansf.) Sivan. SPECIES
 
 #### Status
 ACCEPTED

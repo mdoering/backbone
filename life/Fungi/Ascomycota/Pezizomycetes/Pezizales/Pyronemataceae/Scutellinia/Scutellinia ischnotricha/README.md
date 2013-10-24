@@ -1,5 +1,4 @@
-Scutellinia ischnotricha Le Gal SPECIES
-=======
+# Scutellinia ischnotricha Le Gal SPECIES
 
 #### Status
 ACCEPTED

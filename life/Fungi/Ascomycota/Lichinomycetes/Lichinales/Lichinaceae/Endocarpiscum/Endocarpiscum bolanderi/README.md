@@ -1,5 +1,4 @@
-Endocarpiscum bolanderi (Nyl.) Tuck. SPECIES
-=======
+# Endocarpiscum bolanderi (Nyl.) Tuck. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oscillatoria natans Kützing SPECIES
-=======
+# Oscillatoria natans Kützing SPECIES
 
 #### Status
 ACCEPTED

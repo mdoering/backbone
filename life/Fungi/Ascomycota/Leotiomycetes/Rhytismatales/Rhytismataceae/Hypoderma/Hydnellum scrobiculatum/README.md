@@ -1,5 +1,4 @@
-Hydnellum scrobiculatum (Fr.) P. Karst., 1880 SPECIES
-=======
+# Hydnellum scrobiculatum (Fr.) P. Karst., 1880 SPECIES
 
 #### Status
 DOUBTFUL

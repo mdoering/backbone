@@ -1,5 +1,4 @@
-Agaricus lucidus Pers. SPECIES
-=======
+# Agaricus lucidus Pers. SPECIES
 
 #### Status
 ACCEPTED

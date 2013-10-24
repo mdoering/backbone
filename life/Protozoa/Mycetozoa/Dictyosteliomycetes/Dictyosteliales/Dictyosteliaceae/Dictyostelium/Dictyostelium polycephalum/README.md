@@ -1,5 +1,4 @@
-Dictyostelium polycephalum Raper, 1956 SPECIES
-=======
+# Dictyostelium polycephalum Raper, 1956 SPECIES
 
 #### Status
 ACCEPTED

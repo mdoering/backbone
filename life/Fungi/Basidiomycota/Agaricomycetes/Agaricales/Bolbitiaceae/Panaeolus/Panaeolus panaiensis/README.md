@@ -1,5 +1,4 @@
-Panaeolus panaiensis Copel. SPECIES
-=======
+# Panaeolus panaiensis Copel. SPECIES
 
 #### Status
 ACCEPTED

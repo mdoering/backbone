@@ -1,5 +1,4 @@
-Cucujomyces reynoldsii Thaxt., 1931 SPECIES
-=======
+# Cucujomyces reynoldsii Thaxt., 1931 SPECIES
 
 #### Status
 ACCEPTED

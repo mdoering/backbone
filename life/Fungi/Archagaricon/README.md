@@ -1,5 +1,4 @@
-Archagaricon A. Hancock & Atthey GENUS
-=======
+# Archagaricon A. Hancock & Atthey GENUS
 
 #### Status
 ACCEPTED

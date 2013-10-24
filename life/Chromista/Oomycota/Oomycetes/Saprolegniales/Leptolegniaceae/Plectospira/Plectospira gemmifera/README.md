@@ -1,5 +1,4 @@
-Plectospira gemmifera Drechsler, 1929 SPECIES
-=======
+# Plectospira gemmifera Drechsler, 1929 SPECIES
 
 #### Status
 ACCEPTED

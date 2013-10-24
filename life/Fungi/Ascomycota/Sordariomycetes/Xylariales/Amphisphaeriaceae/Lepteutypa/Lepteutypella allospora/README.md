@@ -1,5 +1,4 @@
-Lepteutypella allospora (G.H. Otth ex Jacz.) Petr. SPECIES
-=======
+# Lepteutypella allospora (G.H. Otth ex Jacz.) Petr. SPECIES
 
 #### Status
 ACCEPTED

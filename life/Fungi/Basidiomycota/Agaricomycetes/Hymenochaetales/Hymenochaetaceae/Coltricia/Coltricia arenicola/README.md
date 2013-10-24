@@ -1,5 +1,4 @@
-Coltricia arenicola Corner SPECIES
-=======
+# Coltricia arenicola Corner SPECIES
 
 #### Status
 ACCEPTED

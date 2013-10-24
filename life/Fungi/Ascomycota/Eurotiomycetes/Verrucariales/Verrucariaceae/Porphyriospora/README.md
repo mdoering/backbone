@@ -1,5 +1,4 @@
-Porphyriospora GENUS
-=======
+# Porphyriospora GENUS
 
 #### Status
 ACCEPTED

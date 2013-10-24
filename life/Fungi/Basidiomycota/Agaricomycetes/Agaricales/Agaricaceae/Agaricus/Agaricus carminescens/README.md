@@ -1,5 +1,4 @@
-Agaricus carminescens var. carminescens VARIETY
-=======
+# Agaricus carminescens Heinem. & Gooss.-Font. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Agaricus carminescens var. carminescens
+Agaricus carminescens Heinem. & Gooss.-Font.
 
 ### Remarks
 null

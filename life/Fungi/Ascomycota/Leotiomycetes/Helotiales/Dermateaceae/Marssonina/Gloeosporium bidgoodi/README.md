@@ -1,5 +1,4 @@
-Gloeosporium bidgoodi Cooke SPECIES
-=======
+# Gloeosporium bidgoodi Cooke SPECIES
 
 #### Status
 ACCEPTED

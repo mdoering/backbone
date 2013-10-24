@@ -1,5 +1,4 @@
-Puccinia dieteliana P. Syd. & Syd. SPECIES
-=======
+# Puccinia dieteliana P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

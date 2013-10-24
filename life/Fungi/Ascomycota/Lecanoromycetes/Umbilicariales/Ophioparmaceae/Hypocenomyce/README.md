@@ -1,5 +1,4 @@
-Hypocenomyce M. Choisy GENUS
-=======
+# Hypocenomyce M. Choisy GENUS
 
 #### Status
 ACCEPTED

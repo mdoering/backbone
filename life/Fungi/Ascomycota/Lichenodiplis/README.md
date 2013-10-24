@@ -1,5 +1,4 @@
-Lichenodiplis Dyko & D. Hawksw. GENUS
-=======
+# Lichenodiplis Dyko & D. Hawksw. GENUS
 
 #### Status
 ACCEPTED

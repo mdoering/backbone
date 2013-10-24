@@ -1,5 +1,4 @@
-Isochrysis galbana Parke SPECIES
-=======
+# Isochrysis galbana Parke SPECIES
 
 #### Status
 ACCEPTED

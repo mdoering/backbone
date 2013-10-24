@@ -1,5 +1,4 @@
-Pestalotiopsis quadriciliata (Bubák & Dearn.) Bissett SPECIES
-=======
+# Pestalotiopsis quadriciliata (Bubák & Dearn.) Bissett SPECIES
 
 #### Status
 ACCEPTED

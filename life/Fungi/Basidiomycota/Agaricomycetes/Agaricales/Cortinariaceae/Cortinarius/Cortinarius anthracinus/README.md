@@ -1,17 +1,16 @@
-Cortinarius anthracinus subsp. anthracinus SUBSPECIES
-=======
+# Cortinarius anthracinus (Fr.) Sacc., 1887 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Epicr. syst. mycol. (Upsaliae) 288 (1838)
 
 #### Original name
-Cortinarius anthracinus subsp. anthracinus
+Agaricus anthracinus Fr.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Parmelia californica Gyeln. SPECIES
-=======
+# Parmelia californica Gyeln. SPECIES
 
 #### Status
 ACCEPTED

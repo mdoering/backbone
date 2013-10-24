@@ -1,5 +1,4 @@
-Tidwellella Andersen, 1997 GENUS
-=======
+# Tidwellella Andersen, 1997 GENUS
 
 #### Status
 ACCEPTED

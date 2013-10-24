@@ -1,5 +1,4 @@
-Ascochyta betonicae Hollós SPECIES
-=======
+# Ascochyta betonicae Hollós SPECIES
 
 #### Status
 ACCEPTED

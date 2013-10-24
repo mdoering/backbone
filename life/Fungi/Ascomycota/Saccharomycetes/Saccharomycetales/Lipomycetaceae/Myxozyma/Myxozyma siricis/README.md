@@ -1,5 +1,4 @@
-Myxozyma siricis Spaaij & G. Weber, 1992 SPECIES
-=======
+# Myxozyma siricis Spaaij & G. Weber, 1992 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus carminipes A.H. Sm. & Thiers SPECIES
-=======
+# Boletus carminipes A.H. Sm. & Thiers SPECIES
 
 #### Status
 ACCEPTED

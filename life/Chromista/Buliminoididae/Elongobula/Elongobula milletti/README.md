@@ -1,5 +1,4 @@
-Elongobula milletti (Cushman, 1933) SPECIES
-=======
+# Elongobula milletti (Cushman, 1933) SPECIES
 
 #### Status
 ACCEPTED

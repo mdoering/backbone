@@ -1,5 +1,4 @@
-Monilia medoacensis (Sacc.) J.F.H. Beyma SPECIES
-=======
+# Monilia medoacensis (Sacc.) J.F.H. Beyma SPECIES
 
 #### Status
 ACCEPTED

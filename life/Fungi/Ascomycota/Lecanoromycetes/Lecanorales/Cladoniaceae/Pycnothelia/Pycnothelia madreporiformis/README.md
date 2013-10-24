@@ -1,5 +1,4 @@
-Pycnothelia madreporiformis (With.) Dufour SPECIES
-=======
+# Pycnothelia madreporiformis (With.) Dufour SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dimeromyces rhizomorphus Thaxt. SPECIES
-=======
+# Dimeromyces rhizomorphus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

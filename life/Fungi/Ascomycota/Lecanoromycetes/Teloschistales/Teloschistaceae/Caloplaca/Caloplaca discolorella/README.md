@@ -1,5 +1,4 @@
-Caloplaca discolorella Zahlbr. SPECIES
-=======
+# Caloplaca discolorella Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

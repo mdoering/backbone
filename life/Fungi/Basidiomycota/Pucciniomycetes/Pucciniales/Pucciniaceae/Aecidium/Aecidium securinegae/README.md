@@ -1,5 +1,4 @@
-Aecidium securinegae Sawada SPECIES
-=======
+# Aecidium securinegae Sawada SPECIES
 
 #### Status
 ACCEPTED

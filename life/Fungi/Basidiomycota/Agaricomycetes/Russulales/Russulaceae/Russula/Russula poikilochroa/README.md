@@ -1,17 +1,16 @@
-Russula poikilochroa f. poikilochroa FORM
-=======
+# Russula poikilochroa Sarnari SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Riv. Micol. 33(2): 164 (1990)
 
 #### Original name
-null
+Russula metachroa Hongo, 1955
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Catenopyle Dumitrica, 1989 GENUS
-=======
+# Catenopyle Dumitrica, 1989 GENUS
 
 #### Status
 ACCEPTED

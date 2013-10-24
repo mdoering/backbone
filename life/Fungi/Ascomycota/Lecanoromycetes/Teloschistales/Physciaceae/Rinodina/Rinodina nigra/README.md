@@ -1,5 +1,4 @@
-Rinodina nigra Fink SPECIES
-=======
+# Rinodina nigra Fink SPECIES
 
 #### Status
 ACCEPTED

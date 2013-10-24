@@ -1,5 +1,4 @@
-Pyrenula concastroma R. C. Harris SPECIES
-=======
+# Pyrenula concastroma R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

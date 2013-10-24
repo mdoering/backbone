@@ -1,5 +1,4 @@
-Myxomyriangium GENUS
-=======
+# Myxomyriangium GENUS
 
 #### Status
 ACCEPTED

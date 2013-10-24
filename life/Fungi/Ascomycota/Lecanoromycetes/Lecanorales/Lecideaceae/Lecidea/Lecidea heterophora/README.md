@@ -1,5 +1,4 @@
-Lecidea heterophora Nyl. SPECIES
-=======
+# Lecidea heterophora Nyl. SPECIES
 
 #### Status
 ACCEPTED

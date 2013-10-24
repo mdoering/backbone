@@ -1,5 +1,4 @@
-Scaphidiodon Stein, 1859 GENUS
-=======
+# Scaphidiodon Stein, 1859 GENUS
 
 #### Status
 ACCEPTED

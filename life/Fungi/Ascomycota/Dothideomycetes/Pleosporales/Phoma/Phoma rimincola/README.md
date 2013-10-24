@@ -1,5 +1,4 @@
-Phoma rimincola Sacc. SPECIES
-=======
+# Phoma rimincola Sacc. SPECIES
 
 #### Status
 ACCEPTED

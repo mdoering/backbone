@@ -1,5 +1,4 @@
-Lepiota minutula Voglino SPECIES
-=======
+# Lepiota minutula Voglino SPECIES
 
 #### Status
 ACCEPTED

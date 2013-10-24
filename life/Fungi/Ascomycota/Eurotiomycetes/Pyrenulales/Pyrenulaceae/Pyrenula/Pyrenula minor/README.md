@@ -1,5 +1,4 @@
-Pyrenula minor Fée SPECIES
-=======
+# Pyrenula minor Fée SPECIES
 
 #### Status
 ACCEPTED

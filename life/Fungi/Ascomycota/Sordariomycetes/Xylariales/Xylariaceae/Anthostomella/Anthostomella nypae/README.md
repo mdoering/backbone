@@ -1,5 +1,4 @@
-Anthostomella nypae K.D. Hyde, B.S. Lu & Alias, 1999 SPECIES
-=======
+# Anthostomella nypae K.D. Hyde, B.S. Lu & Alias, 1999 SPECIES
 
 #### Status
 ACCEPTED

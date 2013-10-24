@@ -1,5 +1,4 @@
-Tilletia pseudoraphidis R.G. Shivas & McTaggart SPECIES
-=======
+# Tilletia pseudoraphidis R.G. Shivas & McTaggart SPECIES
 
 #### Status
 ACCEPTED

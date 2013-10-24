@@ -1,5 +1,4 @@
-Lecidea saxigena Uloth SPECIES
-=======
+# Lecidea saxigena Uloth SPECIES
 
 #### Status
 ACCEPTED

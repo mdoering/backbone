@@ -1,5 +1,4 @@
-Gloeoskene turfosa Fott SPECIES
-=======
+# Gloeoskene turfosa Fott SPECIES
 
 #### Status
 ACCEPTED

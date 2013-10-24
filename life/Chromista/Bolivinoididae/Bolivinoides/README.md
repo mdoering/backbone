@@ -1,5 +1,4 @@
-Bolivinoides Cushman, 1927 GENUS
-=======
+# Bolivinoides Cushman, 1927 GENUS
 
 #### Status
 ACCEPTED

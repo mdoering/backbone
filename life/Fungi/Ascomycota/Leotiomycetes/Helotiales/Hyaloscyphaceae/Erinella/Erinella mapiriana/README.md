@@ -1,5 +1,4 @@
-Erinella mapiriana Pat. & Gaillard SPECIES
-=======
+# Erinella mapiriana Pat. & Gaillard SPECIES
 
 #### Status
 ACCEPTED

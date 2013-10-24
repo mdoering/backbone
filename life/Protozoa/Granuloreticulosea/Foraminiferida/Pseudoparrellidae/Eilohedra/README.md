@@ -1,5 +1,4 @@
-Eilohedra Lipps, 1965 GENUS
-=======
+# Eilohedra Lipps, 1965 GENUS
 
 #### Status
 ACCEPTED

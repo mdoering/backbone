@@ -1,5 +1,4 @@
-Microdiplodia tanaceti f. tanaceti FORM
-=======
+# Microdiplodia tanaceti (P. Karst. & Har.) Allesch. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 in Rabenhorst, Rabenh. Krypt. -Fl. (Leipzig), Edn 2 1(7): 96 (1901)
 
 #### Original name
-Microdiplodia tanaceti f. tanaceti
+Diplodia tanaceti P. Karst. & Har.
 
 ### Remarks
 null

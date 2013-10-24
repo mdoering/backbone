@@ -1,5 +1,4 @@
-Pleospora hederae Politis SPECIES
-=======
+# Pleospora hederae Politis SPECIES
 
 #### Status
 ACCEPTED

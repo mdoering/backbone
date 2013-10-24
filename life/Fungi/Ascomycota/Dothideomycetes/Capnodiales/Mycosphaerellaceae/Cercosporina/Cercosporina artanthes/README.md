@@ -1,5 +1,4 @@
-Cercosporina artanthes (Henn.) Sacc. SPECIES
-=======
+# Cercosporina artanthes (Henn.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

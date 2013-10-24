@@ -1,5 +1,4 @@
-Sphinctrina piniperda Körb. SPECIES
-=======
+# Sphinctrina piniperda Körb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laboulbenia adunca Thaxt. SPECIES
-=======
+# Laboulbenia adunca Thaxt. SPECIES
 
 #### Status
 ACCEPTED

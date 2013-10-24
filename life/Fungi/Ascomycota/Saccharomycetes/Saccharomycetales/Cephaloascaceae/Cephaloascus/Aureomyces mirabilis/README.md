@@ -1,5 +1,4 @@
-Aureomyces mirabilis Ruokola & Salonen SPECIES
-=======
+# Aureomyces mirabilis Ruokola & Salonen SPECIES
 
 #### Status
 ACCEPTED

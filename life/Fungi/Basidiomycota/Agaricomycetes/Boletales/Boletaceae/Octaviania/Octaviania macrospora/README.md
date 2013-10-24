@@ -1,5 +1,4 @@
-Octaviania macrospora Singer & A.H. Sm. SPECIES
-=======
+# Octaviania macrospora Singer & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

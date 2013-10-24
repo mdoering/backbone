@@ -1,5 +1,4 @@
-Helminthosporium typicum (Speg.) M.B. Ellis SPECIES
-=======
+# Helminthosporium typicum (Speg.) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

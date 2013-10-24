@@ -1,5 +1,4 @@
-Uromyces eulophiae Gjaerum, 1984 SPECIES
-=======
+# Uromyces eulophiae Gjaerum, 1984 SPECIES
 
 #### Status
 ACCEPTED

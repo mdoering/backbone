@@ -1,5 +1,4 @@
-Hymeneliaceae Körb. FAMILY
-=======
+# Hymeneliaceae Körb. FAMILY
 
 #### Status
 ACCEPTED

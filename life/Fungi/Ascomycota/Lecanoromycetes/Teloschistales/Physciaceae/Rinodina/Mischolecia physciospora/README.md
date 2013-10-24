@@ -1,5 +1,4 @@
-Mischolecia physciospora M. Choisy & Werner SPECIES
-=======
+# Mischolecia physciospora M. Choisy & Werner SPECIES
 
 #### Status
 ACCEPTED

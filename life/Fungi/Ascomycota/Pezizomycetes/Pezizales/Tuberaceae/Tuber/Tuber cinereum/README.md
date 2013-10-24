@@ -1,5 +1,4 @@
-Tuber cinereum Tul. {?} SPECIES
-=======
+# Tuber cinereum Tul. {?} SPECIES
 
 #### Status
 ACCEPTED

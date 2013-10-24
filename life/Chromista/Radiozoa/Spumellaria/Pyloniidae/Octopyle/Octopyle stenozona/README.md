@@ -1,5 +1,4 @@
-Octopyle stenozona Haeckel, 1887 SPECIES
-=======
+# Octopyle stenozona Haeckel, 1887 SPECIES
 
 #### Status
 ACCEPTED

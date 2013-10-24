@@ -1,5 +1,4 @@
-Phialea bambusae M.P. Sharma, K.S. Thind & Rawla SPECIES
-=======
+# Phialea bambusae M.P. Sharma, K.S. Thind & Rawla SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Triloculina idae Vella, 1957 SPECIES
-=======
+# Triloculina idae Vella, 1957 SPECIES
 
 #### Status
 ACCEPTED

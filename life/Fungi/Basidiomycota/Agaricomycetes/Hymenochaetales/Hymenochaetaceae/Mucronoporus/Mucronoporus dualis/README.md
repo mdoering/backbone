@@ -1,5 +1,4 @@
-Mucronoporus dualis (Peck) Ellis & Everh. SPECIES
-=======
+# Mucronoporus dualis (Peck) Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

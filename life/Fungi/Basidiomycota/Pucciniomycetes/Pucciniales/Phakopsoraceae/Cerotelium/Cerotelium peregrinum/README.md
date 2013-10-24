@@ -1,5 +1,4 @@
-Cerotelium peregrinum (Syd., P. Syd. & E.J. Butler) Arthur SPECIES
-=======
+# Cerotelium peregrinum (Syd., P. Syd. & E.J. Butler) Arthur SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ionaspis schismatopsis (Nyl.) Hue SPECIES
-=======
+# Ionaspis schismatopsis (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

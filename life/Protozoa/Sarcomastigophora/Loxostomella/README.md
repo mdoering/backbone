@@ -1,5 +1,4 @@
-Loxostomella Saidova, 1975 GENUS
-=======
+# Loxostomella Saidova, 1975 GENUS
 
 #### Status
 ACCEPTED

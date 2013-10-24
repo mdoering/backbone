@@ -1,5 +1,4 @@
-Phaeangella lachnoides (Rehm) Sacc. & D. Sacc. SPECIES
-=======
+# Phaeangella lachnoides (Rehm) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

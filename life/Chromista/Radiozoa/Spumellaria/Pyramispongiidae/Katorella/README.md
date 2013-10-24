@@ -1,5 +1,4 @@
-Katorella GENUS
-=======
+# Katorella GENUS
 
 #### Status
 ACCEPTED

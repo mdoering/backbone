@@ -1,5 +1,4 @@
-Psathyrella helobia (Kalchbr.) Maire SPECIES
-=======
+# Psathyrella helobia (Kalchbr.) Maire SPECIES
 
 #### Status
 ACCEPTED

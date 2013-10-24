@@ -1,5 +1,4 @@
-Cylindrosporella caryae (Ellis & Dearn.) Petr. SPECIES
-=======
+# Cylindrosporella caryae (Ellis & Dearn.) Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Sphaeropsis ephedrae Auersw. SPECIES
-=======
+# Coleoseptoria ephedrae (Auersw.) Petr., 1940 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 38: 225 (1940)
 
 #### Original name
 null

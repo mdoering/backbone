@@ -1,5 +1,4 @@
-Boletus murrayi Berk. & M.A. Curtis SPECIES
-=======
+# Boletus murrayi Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

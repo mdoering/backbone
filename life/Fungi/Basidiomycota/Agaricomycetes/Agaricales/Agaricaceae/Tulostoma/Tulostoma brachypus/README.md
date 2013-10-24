@@ -1,5 +1,4 @@
-Tulostoma brachypus Czern. SPECIES
-=======
+# Tulostoma brachypus Czern. SPECIES
 
 #### Status
 ACCEPTED

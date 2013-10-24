@@ -1,5 +1,4 @@
-Rhipidonematomyces ligulati Cif. & Tomas. SPECIES
-=======
+# Rhipidonematomyces ligulati Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

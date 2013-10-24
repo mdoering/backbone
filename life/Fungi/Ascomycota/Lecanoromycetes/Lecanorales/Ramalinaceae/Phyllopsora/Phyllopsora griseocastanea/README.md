@@ -1,5 +1,4 @@
-Phyllopsora griseocastanea (Vain.) Gotth. Schneid. SPECIES
-=======
+# Phyllopsora griseocastanea (Vain.) Gotth. Schneid. SPECIES
 
 #### Status
 ACCEPTED

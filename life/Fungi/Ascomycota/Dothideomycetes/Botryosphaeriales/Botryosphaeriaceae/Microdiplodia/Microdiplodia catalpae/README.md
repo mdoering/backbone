@@ -1,5 +1,4 @@
-Microdiplodia catalpae Gonz. Frag. SPECIES
-=======
+# Microdiplodia catalpae Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

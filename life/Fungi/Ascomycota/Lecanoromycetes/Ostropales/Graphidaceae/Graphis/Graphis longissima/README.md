@@ -1,17 +1,16 @@
-Graphis longissimea Makhija & Adaw. SPECIES
-=======
+# Graphis longissima Makhija & Adaw. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 91: 377 (2005)
 
 #### Original name
-Graphis longissimea Makhija & Adaw.
+Graphis longissima Makhija & Adaw.
 
 ### Remarks
 null

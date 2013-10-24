@@ -1,5 +1,4 @@
-Sporisorium diplosporum (Ellis & Everh.) Vánky SPECIES
-=======
+# Sporisorium diplosporum (Ellis & Everh.) Vánky SPECIES
 
 #### Status
 ACCEPTED

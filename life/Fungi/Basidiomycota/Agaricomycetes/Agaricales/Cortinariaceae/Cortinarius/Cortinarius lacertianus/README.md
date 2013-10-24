@@ -1,5 +1,4 @@
-Cortinarius lacertianus E. Horak SPECIES
-=======
+# Cortinarius lacertianus E. Horak SPECIES
 
 #### Status
 ACCEPTED

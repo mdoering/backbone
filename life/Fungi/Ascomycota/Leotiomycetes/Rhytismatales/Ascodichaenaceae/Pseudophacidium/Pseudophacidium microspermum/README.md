@@ -1,5 +1,4 @@
-Pseudophacidium microspermum (Fuckel) Rehm, 1888 SPECIES
-=======
+# Pseudophacidium microspermum (Fuckel) Rehm, 1888 SPECIES
 
 #### Status
 ACCEPTED

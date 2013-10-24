@@ -1,17 +1,16 @@
-Bauhinus R.T. Moore GENUS
-=======
+# Microbotryum Léveillé, 1847 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Mycotaxon 45: 98 (1992)
+null
 
 #### Original name
-Bauhinus R.T. Moore
+null
 
 ### Remarks
 null

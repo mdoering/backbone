@@ -1,5 +1,4 @@
-Agaricus sublamellosus G. Mey. SPECIES
-=======
+# Agaricus sublamellosus G. Mey. SPECIES
 
 #### Status
 ACCEPTED

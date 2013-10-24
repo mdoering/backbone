@@ -1,5 +1,4 @@
-Agaricus aeolus Berk. & Broome SPECIES
-=======
+# Agaricus aeolus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

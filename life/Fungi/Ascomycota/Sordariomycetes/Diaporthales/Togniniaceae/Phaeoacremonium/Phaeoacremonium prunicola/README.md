@@ -1,17 +1,16 @@
-Phaeoacremonium prunicolum L. Mostert, Damm & Crous SPECIES
-=======
+# Phaeoacremonium prunicola L. Mostert, Damm & Crous SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Damm, Mostert, Crous & Fourie, Persoonia 20: 94 (2007)
 
 #### Original name
-Phaeoacremonium prunicolum L. Mostert, Damm & Crous
+Phaeoacremonium prunicola L. Mostert, Damm & Crous
 
 ### Remarks
 null

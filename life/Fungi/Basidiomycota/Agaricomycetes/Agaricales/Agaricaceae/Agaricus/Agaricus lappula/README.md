@@ -1,5 +1,4 @@
-Agaricus lappula Fr. SPECIES
-=======
+# Agaricus lappula Fr. SPECIES
 
 #### Status
 ACCEPTED

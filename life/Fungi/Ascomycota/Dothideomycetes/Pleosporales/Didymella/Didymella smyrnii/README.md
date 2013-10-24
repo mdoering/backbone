@@ -1,5 +1,4 @@
-Didymella smyrnii Gonz. Frag. SPECIES
-=======
+# Didymella smyrnii Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

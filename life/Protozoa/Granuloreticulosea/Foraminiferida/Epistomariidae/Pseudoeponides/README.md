@@ -1,14 +1,13 @@
-Epistomariella Kuwano, 1950 GENUS
-=======
+# Pseudoeponides Uchio, 1950 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species
 
 #### Published in
-null
+J. Ass. Petrol. Tech. Japan, 15 (4), 190.
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Uroglenopsis turfosa (Skuja) R.H.Thompson & D.E.Wujek SPECIES
-=======
+# Uroglenopsis turfosa (Skuja) R.H.Thompson & D.E.Wujek SPECIES
 
 #### Status
 ACCEPTED

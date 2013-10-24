@@ -1,5 +1,4 @@
-Bryoria motykana (Bystrek) Bystrek SPECIES
-=======
+# Bryoria motykana (Bystrek) Bystrek SPECIES
 
 #### Status
 ACCEPTED

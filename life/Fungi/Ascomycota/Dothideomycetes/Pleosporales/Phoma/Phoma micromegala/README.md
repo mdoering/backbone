@@ -1,5 +1,4 @@
-Phoma micromegala (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Phoma micromegala (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

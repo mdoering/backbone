@@ -1,5 +1,4 @@
-Sarcographa feei (C.F.W. Meissn.) Müll. Arg. SPECIES
-=======
+# Sarcographa feei (C.F.W. Meissn.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

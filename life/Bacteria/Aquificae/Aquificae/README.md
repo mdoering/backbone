@@ -1,5 +1,4 @@
-Aquificae CLASS
-=======
+# Aquificae CLASS
 
 #### Status
 ACCEPTED

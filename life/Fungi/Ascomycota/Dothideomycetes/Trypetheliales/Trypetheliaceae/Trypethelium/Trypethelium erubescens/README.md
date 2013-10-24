@@ -1,5 +1,4 @@
-Trypethelium erubescens Kunze SPECIES
-=======
+# Trypethelium erubescens Kunze SPECIES
 
 #### Status
 ACCEPTED

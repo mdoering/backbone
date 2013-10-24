@@ -1,5 +1,4 @@
-Euglena pascheri Swirenko SPECIES
-=======
+# Euglena pascheri Swirenko SPECIES
 
 #### Status
 ACCEPTED

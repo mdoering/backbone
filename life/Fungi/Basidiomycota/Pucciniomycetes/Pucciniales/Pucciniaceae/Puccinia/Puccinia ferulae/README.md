@@ -1,5 +1,4 @@
-Puccinia ferulae F. Rudolphi SPECIES
-=======
+# Puccinia ferulae F. Rudolphi SPECIES
 
 #### Status
 ACCEPTED

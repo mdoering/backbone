@@ -1,5 +1,4 @@
-Entoloma fractum (Velen.) Noordel. SPECIES
-=======
+# Entoloma fractum (Velen.) Noordel. SPECIES
 
 #### Status
 ACCEPTED

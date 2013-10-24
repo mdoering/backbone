@@ -1,5 +1,4 @@
-Leukapsis vorax Pascher SPECIES
-=======
+# Leukapsis vorax Pascher SPECIES
 
 #### Status
 ACCEPTED

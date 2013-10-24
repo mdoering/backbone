@@ -1,5 +1,4 @@
-Urceolaria mazarinoides (H. Magn.) Motyka SPECIES
-=======
+# Urceolaria mazarinoides (H. Magn.) Motyka SPECIES
 
 #### Status
 ACCEPTED

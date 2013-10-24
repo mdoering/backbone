@@ -1,5 +1,4 @@
-Arthonia excedens Nyl. SPECIES
-=======
+# Arthonia excedens Nyl. SPECIES
 
 #### Status
 ACCEPTED

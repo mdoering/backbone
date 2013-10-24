@@ -1,5 +1,4 @@
-Aecidium calystegiae Desm. SPECIES
-=======
+# Aecidium calystegiae Desm. SPECIES
 
 #### Status
 ACCEPTED

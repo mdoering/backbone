@@ -1,5 +1,4 @@
-Puccinia stonemanniae Syd. & Pole-Evans SPECIES
-=======
+# Puccinia stonemanniae Syd. & Pole-Evans SPECIES
 
 #### Status
 ACCEPTED

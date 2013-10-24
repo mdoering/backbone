@@ -1,5 +1,4 @@
-Muellerella triseptata Diederich SPECIES
-=======
+# Muellerella triseptata Diederich SPECIES
 
 #### Status
 ACCEPTED

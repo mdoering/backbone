@@ -1,14 +1,13 @@
-Trachylia arthonioides (Ach.) Fr. SPECIES
-=======
+# Arthonia arthonioides (Ach.) A. L. Sm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Monogr. Brit. Lich. 2: 213 (1911)
 
 #### Original name
 Lecidea arthonioides Fée

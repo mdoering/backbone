@@ -1,5 +1,4 @@
-Parafolliculina mirabilis Dons, 1917 SPECIES
-=======
+# Parafolliculina mirabilis Dons, 1917 SPECIES
 
 #### Status
 ACCEPTED

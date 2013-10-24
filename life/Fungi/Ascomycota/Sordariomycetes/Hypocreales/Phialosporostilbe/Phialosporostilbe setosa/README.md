@@ -1,5 +1,4 @@
-Phialosporostilbe setosa Bhat & W.B. Kendr. SPECIES
-=======
+# Phialosporostilbe setosa Bhat & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

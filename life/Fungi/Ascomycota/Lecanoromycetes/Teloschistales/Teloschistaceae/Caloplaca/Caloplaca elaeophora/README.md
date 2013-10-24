@@ -1,5 +1,4 @@
-Caloplaca elaeophora (E.S. Hansen, Poelt & Søchting) Alstrup & E.S. Hansen SPECIES
-=======
+# Caloplaca elaeophora (E.S. Hansen, Poelt & Søchting) Alstrup & E.S. Hansen SPECIES
 
 #### Status
 ACCEPTED

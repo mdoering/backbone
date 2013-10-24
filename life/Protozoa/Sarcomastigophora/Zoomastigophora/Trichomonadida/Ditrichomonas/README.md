@@ -1,5 +1,4 @@
-Ditrichomonas Farmer, 1993 GENUS
-=======
+# Ditrichomonas Farmer, 1993 GENUS
 
 #### Status
 ACCEPTED

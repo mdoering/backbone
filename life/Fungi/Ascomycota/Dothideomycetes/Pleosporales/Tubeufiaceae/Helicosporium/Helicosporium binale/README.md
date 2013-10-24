@@ -1,5 +1,4 @@
-Helicosporium binale (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Helicosporium binale (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

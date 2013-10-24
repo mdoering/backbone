@@ -1,5 +1,4 @@
-Visbysphaera occultata Martin, 1984 SPECIES
-=======
+# Visbysphaera occultata Martin, 1984 SPECIES
 
 #### Status
 ACCEPTED

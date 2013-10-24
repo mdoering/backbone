@@ -1,5 +1,4 @@
-Collybia chrysoropha Berk. & Broome SPECIES
-=======
+# Collybia chrysoropha Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

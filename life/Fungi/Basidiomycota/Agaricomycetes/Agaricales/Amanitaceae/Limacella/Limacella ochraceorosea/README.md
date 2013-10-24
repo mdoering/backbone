@@ -1,5 +1,4 @@
-Limacella ochraceorosea (Béguet & Bon) Neville & Poumarat SPECIES
-=======
+# Limacella ochraceorosea (Béguet & Bon) Neville & Poumarat SPECIES
 
 #### Status
 ACCEPTED

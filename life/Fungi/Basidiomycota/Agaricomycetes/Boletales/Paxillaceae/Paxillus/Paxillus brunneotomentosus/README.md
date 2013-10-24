@@ -1,5 +1,4 @@
-Paxillus brunneotomentosus Heinem. & Rammeloo SPECIES
-=======
+# Paxillus brunneotomentosus Heinem. & Rammeloo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus stadii (Petch) Cash SPECIES
-=======
+# Agaricus stadii (Petch) Cash SPECIES
 
 #### Status
 ACCEPTED

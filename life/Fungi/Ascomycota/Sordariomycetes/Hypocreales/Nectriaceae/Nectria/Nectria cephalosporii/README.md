@@ -1,5 +1,4 @@
-Nectria cephalosporii Hansf. SPECIES
-=======
+# Nectria cephalosporii Hansf. SPECIES
 
 #### Status
 ACCEPTED

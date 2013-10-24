@@ -1,5 +1,4 @@
-Spermatodium riparium (Hepp) Trevis. SPECIES
-=======
+# Spermatodium riparium (Hepp) Trevis. SPECIES
 
 #### Status
 ACCEPTED

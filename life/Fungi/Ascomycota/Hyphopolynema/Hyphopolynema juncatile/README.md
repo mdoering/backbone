@@ -1,5 +1,4 @@
-Hyphopolynema juncatile Kohlm. & Volkm.-Kohlm. SPECIES
-=======
+# Hyphopolynema juncatile Kohlm. & Volkm.-Kohlm. SPECIES
 
 #### Status
 ACCEPTED

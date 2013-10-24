@@ -1,14 +1,13 @@
-Porphyrellus brunneus McNabb, 1967 SPECIES
-=======
+# Tylopilus brunneus (McNabb) Wolfe, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-N. Z. Jl Bot. 5(4): 539 (1967)
+Biblthca Mycol. 69: 86 (1980)
 
 #### Original name
 Porphyrellus brunneus McNabb, 1967

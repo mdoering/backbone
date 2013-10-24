@@ -1,5 +1,4 @@
-Lobaria coralligera Gyeln. SPECIES
-=======
+# Lobaria coralligera Gyeln. SPECIES
 
 #### Status
 ACCEPTED

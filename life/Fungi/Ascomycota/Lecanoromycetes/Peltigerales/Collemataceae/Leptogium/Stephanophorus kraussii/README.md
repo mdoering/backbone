@@ -1,5 +1,4 @@
-Stephanophorus kraussii Flot. SPECIES
-=======
+# Stephanophorus kraussii Flot. SPECIES
 
 #### Status
 ACCEPTED

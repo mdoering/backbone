@@ -1,17 +1,16 @@
-Odontia subirpicoidea Rick SPECIES
-=======
+# Phaneroites subquercinus (Henn.) Hjortstam & Ryvarden, 2010 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Rambo (Ed. ), Iheringia, Sér. Bot. 5: 162 (1959)
+null
 
 #### Original name
-Odontia subirpicoidea Rick
+null
 
 ### Remarks
 null

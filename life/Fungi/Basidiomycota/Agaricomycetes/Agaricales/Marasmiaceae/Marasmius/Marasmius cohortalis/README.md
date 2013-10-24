@@ -1,5 +1,4 @@
-Marasmius cohortalis Berk. SPECIES
-=======
+# Marasmius cohortalis Berk. SPECIES
 
 #### Status
 ACCEPTED

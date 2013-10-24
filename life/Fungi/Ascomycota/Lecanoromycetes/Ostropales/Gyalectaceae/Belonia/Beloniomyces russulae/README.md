@@ -1,5 +1,4 @@
-Beloniomyces russulae Cif. & Tomas. SPECIES
-=======
+# Beloniomyces russulae Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

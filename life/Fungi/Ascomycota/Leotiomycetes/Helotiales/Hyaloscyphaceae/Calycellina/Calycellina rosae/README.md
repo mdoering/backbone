@@ -1,5 +1,4 @@
-Calycellina rosae (Raitv.) Raitv. SPECIES
-=======
+# Calycellina rosae (Raitv.) Raitv. SPECIES
 
 #### Status
 ACCEPTED

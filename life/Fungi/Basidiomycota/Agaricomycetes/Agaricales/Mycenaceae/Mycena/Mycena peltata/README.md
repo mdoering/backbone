@@ -1,5 +1,4 @@
-Mycena peltata (Fr.) Gillet SPECIES
-=======
+# Mycena peltata (Fr.) Gillet SPECIES
 
 #### Status
 ACCEPTED

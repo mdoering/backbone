@@ -1,5 +1,4 @@
-Calathiscus puiggarii Speg. SPECIES
-=======
+# Calathiscus puiggarii Speg. SPECIES
 
 #### Status
 ACCEPTED

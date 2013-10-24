@@ -1,5 +1,4 @@
-Leucogaster foveolatus (Harkn.) Zeller & C.W. Dodge, 1924 SPECIES
-=======
+# Leucogaster foveolatus (Harkn.) Zeller & C.W. Dodge, 1924 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septobasidium scabiosum Couch & Petch SPECIES
-=======
+# Septobasidium scabiosum Couch & Petch SPECIES
 
 #### Status
 ACCEPTED

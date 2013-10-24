@@ -1,5 +1,4 @@
-Acanthoica coronata Lohmann SPECIES
-=======
+# Acanthoica coronata Lohmann SPECIES
 
 #### Status
 ACCEPTED

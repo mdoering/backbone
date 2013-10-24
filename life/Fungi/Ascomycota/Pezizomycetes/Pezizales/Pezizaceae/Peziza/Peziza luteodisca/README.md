@@ -1,5 +1,4 @@
-Peziza luteodisca Peck SPECIES
-=======
+# Peziza luteodisca Peck SPECIES
 
 #### Status
 ACCEPTED

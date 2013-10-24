@@ -1,5 +1,4 @@
-Microsphaera neomexicana U. Braun SPECIES
-=======
+# Microsphaera neomexicana U. Braun SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Boletopsis lutea (L.) Henn., 1900 SPECIES
-=======
+# Suillus luteus (L.) Gray, 1821 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

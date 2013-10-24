@@ -1,5 +1,4 @@
-Rhizocarpon santessonii Timdal SPECIES
-=======
+# Rhizocarpon santessonii Timdal SPECIES
 
 #### Status
 ACCEPTED

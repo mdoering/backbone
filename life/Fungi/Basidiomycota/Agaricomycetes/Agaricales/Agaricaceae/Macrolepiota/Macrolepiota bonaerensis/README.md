@@ -1,14 +1,13 @@
-Macrolepiota bonaërensis (Speg.) Raithelh. SPECIES
-=======
+# Macrolepiota bonaerensis (Speg.) Raithelh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Metrodiana, Sonderheft 2: 13 (1983)
 
 #### Original name
 Lepiota bonaerensis Speg.

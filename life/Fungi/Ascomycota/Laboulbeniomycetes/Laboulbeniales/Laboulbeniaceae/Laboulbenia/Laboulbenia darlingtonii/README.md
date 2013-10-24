@@ -1,8 +1,7 @@
-Laboulbenia darlingtoni Balazuc SPECIES
-=======
+# Laboulbenia darlingtonii Balazuc SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Laboulbenia darlingtoni Balazuc
+Laboulbenia darlingtonii Balazuc
 
 ### Remarks
 null

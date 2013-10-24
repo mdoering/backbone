@@ -1,5 +1,4 @@
-Agaricus magisterium Berk. & Broome SPECIES
-=======
+# Agaricus magisterium Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

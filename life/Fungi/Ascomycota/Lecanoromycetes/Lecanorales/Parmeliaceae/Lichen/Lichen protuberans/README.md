@@ -1,5 +1,4 @@
-Lichen protuberans Wahlb. SPECIES
-=======
+# Lichen protuberans Wahlb. SPECIES
 
 #### Status
 ACCEPTED

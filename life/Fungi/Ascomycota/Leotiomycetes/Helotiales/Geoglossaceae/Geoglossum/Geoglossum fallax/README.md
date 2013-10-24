@@ -1,17 +1,16 @@
-Geoglossum fallax var. proximum (S. Imai & Minakata) S. Imai VARIETY
-=======
+# Geoglossum fallax E.J. Durand, 1908 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Coll. agric. , Hokkaido Imp. Univ. 45: 214 (1941)
+Annls mycol. 6: 428 (1908)
 
 #### Original name
-Geoglossum proximum S. Imai & Minakata
+Geoglossum fallax E.J. Durand, 1908
 
 ### Remarks
 null

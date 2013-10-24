@@ -1,5 +1,4 @@
-Lepiota carphophylla (Berk. & Broome) Sacc. SPECIES
-=======
+# Lepiota carphophylla (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

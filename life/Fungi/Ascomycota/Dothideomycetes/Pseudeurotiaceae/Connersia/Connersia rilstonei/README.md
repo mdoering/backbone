@@ -1,8 +1,7 @@
-Pleuroascus rilstonei (C. Booth) Lodha, 1978 SPECIES
-=======
+# Connersia rilstonei (C. Booth) Malloch, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

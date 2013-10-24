@@ -1,5 +1,4 @@
-Crinipellis megalospora Singer SPECIES
-=======
+# Crinipellis megalospora Singer SPECIES
 
 #### Status
 ACCEPTED

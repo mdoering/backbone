@@ -1,5 +1,4 @@
-Helvella chinensis (Velen.) Nannf. & L. Holm SPECIES
-=======
+# Helvella chinensis (Velen.) Nannf. & L. Holm SPECIES
 
 #### Status
 ACCEPTED

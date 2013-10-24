@@ -1,5 +1,4 @@
-Walkeromyces grewiae Thaung SPECIES
-=======
+# Walkeromyces grewiae Thaung SPECIES
 
 #### Status
 ACCEPTED

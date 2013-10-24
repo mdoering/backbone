@@ -1,17 +1,16 @@
-Chaetocladiaceae FAMILY
-=======
+# Mucoraceae Dumort. FAMILY
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Comment. bot. (Tournay) 69 (1822)
 
 #### Original name
-null
+Mucoraceae Dumort.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Imbricaria cetrarioides (Delise) Arnold SPECIES
-=======
+# Imbricaria cetrarioides (Delise) Arnold SPECIES
 
 #### Status
 ACCEPTED

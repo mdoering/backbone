@@ -1,5 +1,4 @@
-Phyllosticta euonymi Sacc. SPECIES
-=======
+# Phyllosticta euonymi Sacc. SPECIES
 
 #### Status
 ACCEPTED

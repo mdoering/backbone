@@ -1,5 +1,4 @@
-Polyporus hypococcineus Berk. SPECIES
-=======
+# Polyporus hypococcineus Berk. SPECIES
 
 #### Status
 ACCEPTED

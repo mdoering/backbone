@@ -1,5 +1,4 @@
-Cercospora saniculae-europaeae E. Müll. & Arx SPECIES
-=======
+# Cercospora saniculae-europaeae E. Müll. & Arx SPECIES
 
 #### Status
 ACCEPTED

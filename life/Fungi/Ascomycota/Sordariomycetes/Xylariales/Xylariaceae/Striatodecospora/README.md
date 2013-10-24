@@ -1,5 +1,4 @@
-Striatodecospora D.Q. Zhou, K.D. Hyde & B.S. Lu GENUS
-=======
+# Striatodecospora D.Q. Zhou, K.D. Hyde & B.S. Lu GENUS
 
 #### Status
 ACCEPTED

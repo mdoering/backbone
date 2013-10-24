@@ -1,5 +1,4 @@
-Pseudocyphellaria jamesii D. J. Galloway SPECIES
-=======
+# Pseudocyphellaria jamesii D. J. Galloway SPECIES
 
 #### Status
 ACCEPTED

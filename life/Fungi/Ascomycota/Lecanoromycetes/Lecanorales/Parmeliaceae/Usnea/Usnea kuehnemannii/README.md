@@ -1,5 +1,4 @@
-Usnea kuehnemannii Motyka SPECIES
-=======
+# Usnea kuehnemannii Motyka SPECIES
 
 #### Status
 ACCEPTED

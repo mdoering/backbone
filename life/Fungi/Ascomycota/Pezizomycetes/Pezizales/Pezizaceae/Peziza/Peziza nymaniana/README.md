@@ -1,5 +1,4 @@
-Peziza nymaniana (Henn.) Sacc. & P. Syd. SPECIES
-=======
+# Peziza nymaniana (Henn.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

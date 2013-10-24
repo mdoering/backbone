@@ -1,5 +1,4 @@
-Massariella diana Sacc. SPECIES
-=======
+# Massariella diana Sacc. SPECIES
 
 #### Status
 ACCEPTED

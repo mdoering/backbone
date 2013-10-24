@@ -1,5 +1,4 @@
-Bellerochea malleus var. biangulata H. Peragallo & M. Peragallo VARIETY
-=======
+# Bellerochea malleus (Brightwell) Van Heurck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trechispora antipus Trichies & Schultheis, 2002 SPECIES
-=======
+# Trechispora antipus Trichies & Schultheis, 2002 SPECIES
 
 #### Status
 ACCEPTED

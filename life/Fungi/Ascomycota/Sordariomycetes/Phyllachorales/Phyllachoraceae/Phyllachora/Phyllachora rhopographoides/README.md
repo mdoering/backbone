@@ -1,14 +1,13 @@
-Catacauma rhopographioides (G. Winter) Viégas SPECIES
-=======
+# Phyllachora rhopographoides G. Winter, 1887 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Grevillea 15(no. 75): 89 (1887)
 
 #### Original name
 Phyllachora rhopographoides G. Winter, 1887

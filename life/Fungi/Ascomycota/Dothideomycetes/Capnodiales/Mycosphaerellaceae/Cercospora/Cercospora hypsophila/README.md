@@ -1,5 +1,4 @@
-Cercospora hypsophila Syd. SPECIES
-=======
+# Cercospora hypsophila Syd. SPECIES
 
 #### Status
 ACCEPTED

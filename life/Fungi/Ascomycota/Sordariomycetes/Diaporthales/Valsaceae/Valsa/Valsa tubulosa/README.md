@@ -1,5 +1,4 @@
-Valsa tubulosa Cooke SPECIES
-=======
+# Valsa tubulosa Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramularia necans Pass. SPECIES
-=======
+# Ramularia necans Pass. SPECIES
 
 #### Status
 ACCEPTED

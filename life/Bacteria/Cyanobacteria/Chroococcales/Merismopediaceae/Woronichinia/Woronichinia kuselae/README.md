@@ -1,5 +1,4 @@
-Woronichinia kuselae M. Watanabe & Komárek SPECIES
-=======
+# Woronichinia kuselae M. Watanabe & Komárek SPECIES
 
 #### Status
 ACCEPTED

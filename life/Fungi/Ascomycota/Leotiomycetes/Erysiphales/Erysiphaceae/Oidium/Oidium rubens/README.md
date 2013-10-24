@@ -1,5 +1,4 @@
-Oidium rubens Link SPECIES
-=======
+# Oidium rubens Link SPECIES
 
 #### Status
 ACCEPTED

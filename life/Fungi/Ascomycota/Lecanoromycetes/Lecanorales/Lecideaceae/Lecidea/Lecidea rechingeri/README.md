@@ -1,5 +1,4 @@
-Lecidea rechingeri Zahlbr. SPECIES
-=======
+# Lecidea rechingeri Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

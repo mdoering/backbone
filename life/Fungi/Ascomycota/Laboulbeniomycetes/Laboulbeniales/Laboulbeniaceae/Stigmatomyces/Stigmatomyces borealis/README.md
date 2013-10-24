@@ -1,5 +1,4 @@
-Stigmatomyces borealis Thaxt. SPECIES
-=======
+# Stigmatomyces borealis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

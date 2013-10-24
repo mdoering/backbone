@@ -1,5 +1,4 @@
-Oospora sajanica Ogarkov SPECIES
-=======
+# Oospora sajanica Ogarkov SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gliocephalotrichum bulbilium J.J. Ellis & Hesselt., 1962 SPECIES
-=======
+# Gliocephalotrichum bulbilium J.J. Ellis & Hesselt., 1962 SPECIES
 
 #### Status
 ACCEPTED

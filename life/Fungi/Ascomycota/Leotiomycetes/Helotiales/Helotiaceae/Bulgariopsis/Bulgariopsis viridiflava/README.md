@@ -1,5 +1,4 @@
-Bulgariopsis viridiflava Henn. SPECIES
-=======
+# Bulgariopsis viridiflava Henn. SPECIES
 
 #### Status
 ACCEPTED

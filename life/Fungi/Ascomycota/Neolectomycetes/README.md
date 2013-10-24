@@ -1,5 +1,4 @@
-Neolectomycetes O.E. Erikss. & Winka CLASS
-=======
+# Neolectomycetes O.E. Erikss. & Winka CLASS
 
 #### Status
 ACCEPTED

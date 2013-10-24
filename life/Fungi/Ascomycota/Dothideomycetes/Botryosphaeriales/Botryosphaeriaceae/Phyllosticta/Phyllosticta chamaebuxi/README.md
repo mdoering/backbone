@@ -1,5 +1,4 @@
-Phyllosticta chamaebuxi Allesch. SPECIES
-=======
+# Phyllosticta chamaebuxi Allesch. SPECIES
 
 #### Status
 ACCEPTED

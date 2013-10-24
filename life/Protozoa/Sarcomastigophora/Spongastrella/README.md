@@ -1,5 +1,4 @@
-Spongastrella Haeckel, 1887 GENUS
-=======
+# Spongastrella Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

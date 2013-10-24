@@ -1,8 +1,7 @@
-Perisincirra pori Wilbert & Kahan, 1986 SPECIES
-=======
+# Lamtostylides pori (Wilbert & Kahan, 1986) Berger, 2008 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Placynthium arachnoideum Henssen SPECIES
-=======
+# Placynthium arachnoideum Henssen SPECIES
 
 #### Status
 ACCEPTED

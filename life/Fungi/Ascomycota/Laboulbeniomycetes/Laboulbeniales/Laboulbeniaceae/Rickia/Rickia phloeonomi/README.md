@@ -1,5 +1,4 @@
-Rickia phloeonomi Thaxt. SPECIES
-=======
+# Rickia phloeonomi Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramularia malachii Ying X. Wang & Xue Y. Wang SPECIES
-=======
+# Ramularia malachii Ying X. Wang & Xue Y. Wang SPECIES
 
 #### Status
 ACCEPTED

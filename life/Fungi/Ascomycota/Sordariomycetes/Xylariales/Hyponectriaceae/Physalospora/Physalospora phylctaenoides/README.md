@@ -1,5 +1,4 @@
-Physalospora phylctaenoides (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Physalospora phylctaenoides (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

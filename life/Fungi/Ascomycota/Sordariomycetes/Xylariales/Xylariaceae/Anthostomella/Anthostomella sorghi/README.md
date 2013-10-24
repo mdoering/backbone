@@ -1,5 +1,4 @@
-Anthostomella sorghi Saccas SPECIES
-=======
+# Anthostomella sorghi Saccas SPECIES
 
 #### Status
 ACCEPTED

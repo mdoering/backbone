@@ -1,5 +1,4 @@
-Microdiplodia petrakiana (Sacc.) Petr. SPECIES
-=======
+# Microdiplodia petrakiana (Sacc.) Petr. SPECIES
 
 #### Status
 ACCEPTED

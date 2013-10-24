@@ -1,5 +1,4 @@
-Cladosporium trichophilum H.C. Greene SPECIES
-=======
+# Cladosporium trichophilum H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

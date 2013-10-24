@@ -1,5 +1,4 @@
-Sphaeria wrightii Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeria wrightii Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

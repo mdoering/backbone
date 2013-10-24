@@ -1,5 +1,4 @@
-Peronospora trifolii-clypeati Rayss SPECIES
-=======
+# Peronospora trifolii-clypeati Rayss SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Dimorphocystis capitatus Corner SPECIES
-=======
+# Dimorphocystis capitata Corner SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ann. Bot. Mem. 1: 695 (1950)
 
 #### Original name
-Dimorphocystis capitatus Corner
+Dimorphocystis capitata Corner
 
 ### Remarks
 null

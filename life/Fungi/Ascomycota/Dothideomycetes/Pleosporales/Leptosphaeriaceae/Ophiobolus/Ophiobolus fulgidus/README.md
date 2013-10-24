@@ -1,5 +1,4 @@
-Ophiobolus fulgidus (Cooke & Peck) Sacc., 1883 SPECIES
-=======
+# Ophiobolus fulgidus (Cooke & Peck) Sacc., 1883 SPECIES
 
 #### Status
 ACCEPTED

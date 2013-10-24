@@ -1,5 +1,4 @@
-Mollisia myriostylidis Rehm SPECIES
-=======
+# Mollisia myriostylidis Rehm SPECIES
 
 #### Status
 ACCEPTED

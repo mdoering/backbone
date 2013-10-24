@@ -1,17 +1,16 @@
-Candida soosii E.K. Novák, 1964 SPECIES
-=======
+# Pichia occidentalis (Kurtzman, M.J. Smiley & C.J. Johnson) Kurtzman, Robnett & Basehoar-Powers, 2008 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+FEMS Yeast Res. 8(6): 946 (2008)
 
 #### Original name
-null
+Issatchenkia occidentalis Kurtzman, M.J. Smiley & C.J. Johnson, 1980
 
 ### Remarks
 null

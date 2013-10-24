@@ -1,5 +1,4 @@
-Pyxine elixii Kalb SPECIES
-=======
+# Pyxine elixii Kalb SPECIES
 
 #### Status
 ACCEPTED

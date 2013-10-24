@@ -1,5 +1,4 @@
-Myceloderma Ducomet GENUS
-=======
+# Myceloderma Ducomet GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Candelariella calcicola (Galløe) Zahlbr. SPECIES
-=======
+# Candelariella calcicola (Galløe) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

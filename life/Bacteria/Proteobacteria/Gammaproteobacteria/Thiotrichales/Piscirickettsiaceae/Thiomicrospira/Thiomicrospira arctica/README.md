@@ -1,5 +1,4 @@
-Thiomicrospira arctica Knittel et al., 2005 SPECIES
-=======
+# Thiomicrospira arctica Knittel et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

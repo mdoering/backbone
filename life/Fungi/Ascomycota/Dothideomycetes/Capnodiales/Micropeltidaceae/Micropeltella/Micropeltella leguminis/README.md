@@ -1,5 +1,4 @@
-Micropeltella leguminis Bat. & Peres SPECIES
-=======
+# Micropeltella leguminis Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

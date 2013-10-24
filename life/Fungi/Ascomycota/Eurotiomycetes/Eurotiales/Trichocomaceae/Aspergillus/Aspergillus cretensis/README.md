@@ -1,5 +1,4 @@
-Aspergillus cretensis Frisvad & Samson SPECIES
-=======
+# Aspergillus cretensis Frisvad & Samson SPECIES
 
 #### Status
 ACCEPTED

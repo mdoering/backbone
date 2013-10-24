@@ -1,5 +1,4 @@
-Thermoanaerobacterium zeae Cann et al., 2001 SPECIES
-=======
+# Thermoanaerobacterium zeae Cann et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

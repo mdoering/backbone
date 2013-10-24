@@ -1,5 +1,4 @@
-Triblidium leprieurii (Mont.) Duby SPECIES
-=======
+# Triblidium leprieurii (Mont.) Duby SPECIES
 
 #### Status
 ACCEPTED

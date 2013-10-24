@@ -1,5 +1,4 @@
-Gymnopus albus Gray SPECIES
-=======
+# Gymnopus albus Gray SPECIES
 
 #### Status
 ACCEPTED

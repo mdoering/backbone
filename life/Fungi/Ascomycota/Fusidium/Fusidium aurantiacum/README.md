@@ -1,5 +1,4 @@
-Fusidium aurantiacum (Link) Fr. SPECIES
-=======
+# Fusidium aurantiacum (Link) Fr. SPECIES
 
 #### Status
 ACCEPTED

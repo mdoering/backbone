@@ -1,5 +1,4 @@
-Thyridaria acerina Gutner SPECIES
-=======
+# Thyridaria acerina Gutner SPECIES
 
 #### Status
 ACCEPTED

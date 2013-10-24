@@ -1,5 +1,4 @@
-Wanaea digitata Cookson & Eisenack SPECIES
-=======
+# Wanaea digitata Cookson & Eisenack SPECIES
 
 #### Status
 ACCEPTED

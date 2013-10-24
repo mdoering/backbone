@@ -1,5 +1,4 @@
-Lentinus perpusillus Speg. SPECIES
-=======
+# Lentinus perpusillus Speg. SPECIES
 
 #### Status
 ACCEPTED

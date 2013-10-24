@@ -1,5 +1,4 @@
-Termitomyces rabuorii Otieno SPECIES
-=======
+# Termitomyces rabuorii Otieno SPECIES
 
 #### Status
 ACCEPTED

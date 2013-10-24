@@ -1,5 +1,4 @@
-Anabaenopsis milleri Woronichin SPECIES
-=======
+# Anabaenopsis milleri Woronichin SPECIES
 
 #### Status
 ACCEPTED

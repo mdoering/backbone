@@ -1,5 +1,4 @@
-Phomopsis glycines Petr. SPECIES
-=======
+# Phomopsis glycines Petr. SPECIES
 
 #### Status
 ACCEPTED

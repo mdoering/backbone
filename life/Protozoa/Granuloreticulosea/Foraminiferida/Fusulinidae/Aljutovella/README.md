@@ -1,5 +1,4 @@
-Aljutovella Rauser-Chernousova in Rauser-Chernousova, Kireeva, Leontovich, Gryzlova, Safonova & Chernova, 1951 GENUS
-=======
+# Aljutovella Rauser-Chernousova in Rauser-Chernousova, Kireeva, Leontovich, Gryzlova, Safonova & Chernova, 1951 GENUS
 
 #### Status
 ACCEPTED

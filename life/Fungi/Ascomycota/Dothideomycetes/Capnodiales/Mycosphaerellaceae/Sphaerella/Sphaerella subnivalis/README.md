@@ -1,5 +1,4 @@
-Sphaerella subnivalis Rehm SPECIES
-=======
+# Sphaerella subnivalis Rehm SPECIES
 
 #### Status
 ACCEPTED

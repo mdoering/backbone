@@ -1,5 +1,4 @@
-Cheilymenia campestris (P. Crouan & H. Crouan) J. Moravec SPECIES
-=======
+# Cheilymenia campestris (P. Crouan & H. Crouan) J. Moravec SPECIES
 
 #### Status
 ACCEPTED

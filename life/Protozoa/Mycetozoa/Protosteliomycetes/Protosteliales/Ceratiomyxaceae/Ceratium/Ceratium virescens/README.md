@@ -1,5 +1,4 @@
-Ceratium virescens Wallr. SPECIES
-=======
+# Ceratium virescens Wallr. SPECIES
 
 #### Status
 ACCEPTED

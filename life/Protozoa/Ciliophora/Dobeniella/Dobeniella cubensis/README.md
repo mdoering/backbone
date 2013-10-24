@@ -1,8 +1,7 @@
-Tintinnopsella cubensis Furrazola-Bermudez, 1965 SPECIES
-=======
+# Dobeniella cubensis (Furrazola-Bermudez, 1965) Pop, 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

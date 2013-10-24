@@ -1,5 +1,4 @@
-Arcanispira Poag, 1966 GENUS
-=======
+# Arcanispira Poag, 1966 GENUS
 
 #### Status
 ACCEPTED

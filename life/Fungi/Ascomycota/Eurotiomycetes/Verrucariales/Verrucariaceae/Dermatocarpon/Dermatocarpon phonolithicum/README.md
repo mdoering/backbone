@@ -1,5 +1,4 @@
-Dermatocarpon phonolithicum Anders SPECIES
-=======
+# Dermatocarpon phonolithicum Anders SPECIES
 
 #### Status
 ACCEPTED

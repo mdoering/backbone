@@ -1,5 +1,4 @@
-Pythium characearum De Wild. SPECIES
-=======
+# Pythium characearum De Wild. SPECIES
 
 #### Status
 ACCEPTED

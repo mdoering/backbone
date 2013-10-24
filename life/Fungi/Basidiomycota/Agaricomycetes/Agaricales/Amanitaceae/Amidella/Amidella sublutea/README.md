@@ -1,5 +1,4 @@
-Amidella sublutea (Cleland) E.-J. Gilbert SPECIES
-=======
+# Amidella sublutea (Cleland) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

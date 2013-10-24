@@ -1,5 +1,4 @@
-Lasionectria poliosa Ellis & Everh. SPECIES
-=======
+# Lasionectria poliosa Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

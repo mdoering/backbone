@@ -1,5 +1,4 @@
-Cortinarius morrisii Peck SPECIES
-=======
+# Cortinarius morrisii Peck SPECIES
 
 #### Status
 ACCEPTED

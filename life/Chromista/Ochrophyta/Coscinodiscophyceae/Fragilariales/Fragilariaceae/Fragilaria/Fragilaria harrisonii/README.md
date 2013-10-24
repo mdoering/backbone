@@ -1,5 +1,4 @@
-Fragilaria harrisonii var. dubia Grunow VARIETY
-=======
+# Fragilaria harrisonii (W. Smith) Grunow SPECIES
 
 #### Status
 ACCEPTED

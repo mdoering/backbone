@@ -1,5 +1,4 @@
-Diaporthe neilliae Peck, 1885 SPECIES
-=======
+# Diaporthe neilliae Peck, 1885 SPECIES
 
 #### Status
 ACCEPTED

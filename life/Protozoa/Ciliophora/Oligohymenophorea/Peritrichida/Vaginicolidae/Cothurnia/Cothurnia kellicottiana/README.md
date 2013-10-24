@@ -1,5 +1,4 @@
-Cothurnia kellicottiana SPECIES
-=======
+# Cothurnia kellicottiana SPECIES
 
 #### Status
 ACCEPTED

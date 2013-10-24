@@ -1,5 +1,4 @@
-Clisosporium fuegianum (Speg.) Kuntze SPECIES
-=======
+# Clisosporium fuegianum (Speg.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

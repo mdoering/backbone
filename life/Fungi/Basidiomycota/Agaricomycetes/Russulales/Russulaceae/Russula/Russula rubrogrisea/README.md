@@ -1,5 +1,4 @@
-Russula rubrogrisea (Romagn.) Reumaux SPECIES
-=======
+# Russula rubrogrisea (Romagn.) Reumaux SPECIES
 
 #### Status
 ACCEPTED

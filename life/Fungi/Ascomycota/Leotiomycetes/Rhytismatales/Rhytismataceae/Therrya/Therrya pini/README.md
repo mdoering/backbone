@@ -1,17 +1,16 @@
-Xyloma pini Alb. & Schwein., 1805 SPECIES
-=======
+# Therrya pini (Alb. & Schwein. Fr.) Höhn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Consp. fung. (Leipzig) 60 (1805)
+null
 
 #### Original name
-Xyloma pini Alb. & Schwein., 1805
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Geobacter sulfurreducens Caccavo et al., 1995 SPECIES
-=======
+# Geobacter sulfurreducens Caccavo et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

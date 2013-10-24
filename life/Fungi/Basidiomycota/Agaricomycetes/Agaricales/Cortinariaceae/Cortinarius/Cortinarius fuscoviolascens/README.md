@@ -1,5 +1,4 @@
-Cortinarius fuscoviolascens Reumaux SPECIES
-=======
+# Cortinarius fuscoviolascens Reumaux SPECIES
 
 #### Status
 ACCEPTED

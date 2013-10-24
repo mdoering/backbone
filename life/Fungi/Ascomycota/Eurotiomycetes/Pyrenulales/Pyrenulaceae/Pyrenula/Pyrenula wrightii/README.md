@@ -1,5 +1,4 @@
-Pyrenula wrightii (Müll. Arg.) R.C. Harris SPECIES
-=======
+# Pyrenula wrightii (Müll. Arg.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

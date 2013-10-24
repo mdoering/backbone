@@ -1,5 +1,4 @@
-Fuscidea aleutica (Degel.) Fryday SPECIES
-=======
+# Fuscidea aleutica (Degel.) Fryday SPECIES
 
 #### Status
 ACCEPTED

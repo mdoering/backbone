@@ -1,5 +1,4 @@
-Trachelomonas tuberculata Middelhoek SPECIES
-=======
+# Trachelomonas tuberculata Middelhoek SPECIES
 
 #### Status
 ACCEPTED

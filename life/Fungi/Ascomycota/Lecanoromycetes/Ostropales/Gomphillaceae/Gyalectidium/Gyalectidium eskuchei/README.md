@@ -1,5 +1,4 @@
-Gyalectidium eskuchei Sérus. SPECIES
-=======
+# Gyalectidium eskuchei Sérus. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Platyophrya ferroi Grandori & Grandori, 1934 SPECIES
-=======
+# Platyophrya ferroi Grandori & Grandori, 1934 SPECIES
 
 #### Status
 ACCEPTED

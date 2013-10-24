@@ -1,5 +1,4 @@
-Cercospora ononidis (Auersw.) Höhn. SPECIES
-=======
+# Cercospora ononidis (Auersw.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

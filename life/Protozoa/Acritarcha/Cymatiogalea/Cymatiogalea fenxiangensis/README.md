@@ -1,5 +1,4 @@
-Cymatiogalea fenxiangensis Yin Leiming, 1995 SPECIES
-=======
+# Cymatiogalea fenxiangensis Yin Leiming, 1995 SPECIES
 
 #### Status
 ACCEPTED

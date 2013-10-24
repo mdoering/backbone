@@ -1,5 +1,4 @@
-Caloplaca tyleri (C.W. Dodge) SPECIES
-=======
+# Caloplaca tyleri (C.W. Dodge) SPECIES
 
 #### Status
 ACCEPTED

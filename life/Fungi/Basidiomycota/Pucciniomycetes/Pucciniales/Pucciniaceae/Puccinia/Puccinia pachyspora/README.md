@@ -1,5 +1,4 @@
-Puccinia pachyspora Dietel SPECIES
-=======
+# Puccinia pachyspora Dietel SPECIES
 
 #### Status
 ACCEPTED

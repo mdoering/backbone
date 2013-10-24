@@ -1,5 +1,4 @@
-Sphacelotheca cheoana Zundel SPECIES
-=======
+# Sphacelotheca cheoana Zundel SPECIES
 
 #### Status
 ACCEPTED

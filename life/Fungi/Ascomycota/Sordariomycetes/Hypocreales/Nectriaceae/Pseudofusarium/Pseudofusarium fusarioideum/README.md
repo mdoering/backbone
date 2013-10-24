@@ -1,5 +1,4 @@
-Pseudofusarium fusarioideum Matsush. SPECIES
-=======
+# Pseudofusarium fusarioideum Matsush. SPECIES
 
 #### Status
 ACCEPTED

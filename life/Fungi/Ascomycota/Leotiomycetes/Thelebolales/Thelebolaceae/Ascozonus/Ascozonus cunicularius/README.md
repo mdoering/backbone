@@ -1,17 +1,16 @@
-Ascozonus argenteus (Berk. & Broome) Boud., 1907 SPECIES
-=======
+# Ascozonus cunicularius (Boud.) Marchal, 1884 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Soc. R. Bot. Belg. , sér. 2 23: 61 (1884)
 
 #### Original name
-Ryparobius argenteus Berk. & Broome, 1873
+Ascozonus cunicularius (Boud.) Marchal, 1884
 
 ### Remarks
 null

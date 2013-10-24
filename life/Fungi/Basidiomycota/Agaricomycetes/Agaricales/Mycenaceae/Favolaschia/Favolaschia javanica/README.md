@@ -1,5 +1,4 @@
-Favolaschia javanica Holterm. SPECIES
-=======
+# Favolaschia javanica Holterm. SPECIES
 
 #### Status
 ACCEPTED

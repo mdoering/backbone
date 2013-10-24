@@ -1,5 +1,4 @@
-Pyrenopsis sojakii Vezda SPECIES
-=======
+# Pyrenopsis sojakii Vezda SPECIES
 
 #### Status
 ACCEPTED

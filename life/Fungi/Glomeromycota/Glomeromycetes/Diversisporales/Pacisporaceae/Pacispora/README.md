@@ -1,17 +1,16 @@
-Gerdemannia C. Walker, Blaszk., A. Schüssler & Schwarzott GENUS
-=======
+# Pacispora Oehl & E. Sieverd. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Res. 108(6): 716 (2004)
+J. Appl. Bot. , Angew. Bot. 78: 74 (2004)
 
 #### Original name
-Gerdemannia C. Walker, Blaszk., A. Schüssler & Schwarzott
+Pacispora Oehl & E. Sieverd.
 
 ### Remarks
 null

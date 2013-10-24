@@ -1,5 +1,4 @@
-Colletotrichum tetrastigmatis (Keissl.) Petr. SPECIES
-=======
+# Colletotrichum tetrastigmatis (Keissl.) Petr. SPECIES
 
 #### Status
 ACCEPTED

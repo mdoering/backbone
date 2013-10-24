@@ -1,5 +1,4 @@
-Cyanophomella Höhn. GENUS
-=======
+# Cyanophomella Höhn. GENUS
 
 #### Status
 ACCEPTED

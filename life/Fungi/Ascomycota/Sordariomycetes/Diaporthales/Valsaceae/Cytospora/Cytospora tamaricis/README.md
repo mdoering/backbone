@@ -1,5 +1,4 @@
-Cytospora tamaricis Brunaud, 1898 SPECIES
-=======
+# Cytospora tamaricis Brunaud, 1898 SPECIES
 
 #### Status
 ACCEPTED

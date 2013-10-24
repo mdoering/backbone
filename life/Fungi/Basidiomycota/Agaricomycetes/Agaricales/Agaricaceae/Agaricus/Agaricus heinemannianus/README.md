@@ -1,5 +1,4 @@
-Agaricus heinemannianus Esteve-Rav. SPECIES
-=======
+# Agaricus heinemannianus Esteve-Rav. SPECIES
 
 #### Status
 ACCEPTED

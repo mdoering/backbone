@@ -1,5 +1,4 @@
-Collybia radiculosa Cooke SPECIES
-=======
+# Collybia radiculosa Cooke SPECIES
 
 #### Status
 ACCEPTED

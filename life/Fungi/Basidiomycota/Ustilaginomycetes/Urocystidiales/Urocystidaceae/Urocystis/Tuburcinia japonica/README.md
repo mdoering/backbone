@@ -1,5 +1,4 @@
-Tuburcinia japonica (Henn.) Liro SPECIES
-=======
+# Tuburcinia japonica (Henn.) Liro SPECIES
 
 #### Status
 ACCEPTED

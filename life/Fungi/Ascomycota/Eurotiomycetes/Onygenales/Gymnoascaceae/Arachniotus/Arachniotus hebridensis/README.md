@@ -1,5 +1,4 @@
-Arachniotus hebridensis Apinis, 1964 SPECIES
-=======
+# Arachniotus hebridensis Apinis, 1964 SPECIES
 
 #### Status
 ACCEPTED

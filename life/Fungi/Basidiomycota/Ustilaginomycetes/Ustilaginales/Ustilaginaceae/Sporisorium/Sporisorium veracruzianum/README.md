@@ -1,5 +1,4 @@
-Sporisorium veracruzianum (Zundel & Dunlap) M. Piepenbr. SPECIES
-=======
+# Sporisorium veracruzianum (Zundel & Dunlap) M. Piepenbr. SPECIES
 
 #### Status
 ACCEPTED

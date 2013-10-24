@@ -1,5 +1,4 @@
-Dichantharellus Corner GENUS
-=======
+# Dichantharellus Corner GENUS
 
 #### Status
 ACCEPTED

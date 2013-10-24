@@ -1,5 +1,4 @@
-Didymella annulata M. Laur. {?} SPECIES
-=======
+# Didymella annulata M. Laur. {?} SPECIES
 
 #### Status
 ACCEPTED

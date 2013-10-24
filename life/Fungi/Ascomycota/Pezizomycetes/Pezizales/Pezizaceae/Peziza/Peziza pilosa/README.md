@@ -1,5 +1,4 @@
-Peziza pilosa Schumach. SPECIES
-=======
+# Peziza pilosa Schumach. SPECIES
 
 #### Status
 ACCEPTED

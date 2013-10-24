@@ -1,5 +1,4 @@
-Verrucaria crassiuscula Servít SPECIES
-=======
+# Verrucaria crassiuscula Servít SPECIES
 
 #### Status
 ACCEPTED

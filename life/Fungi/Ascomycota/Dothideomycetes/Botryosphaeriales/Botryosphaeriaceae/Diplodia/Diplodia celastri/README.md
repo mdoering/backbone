@@ -1,5 +1,4 @@
-Diplodia celastri Cooke SPECIES
-=======
+# Diplodia celastri Cooke SPECIES
 
 #### Status
 ACCEPTED

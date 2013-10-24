@@ -1,5 +1,4 @@
-Kimagior Sugiyama, 2000 GENUS
-=======
+# Kimagior Sugiyama, 2000 GENUS
 
 #### Status
 ACCEPTED

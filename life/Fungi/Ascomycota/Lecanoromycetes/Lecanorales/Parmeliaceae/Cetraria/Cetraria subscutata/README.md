@@ -1,5 +1,4 @@
-Cetraria subscutata D.C. Linds. SPECIES
-=======
+# Cetraria subscutata D.C. Linds. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetopsina romantica Rambelli & Lunghini SPECIES
-=======
+# Chaetopsina romantica Rambelli & Lunghini SPECIES
 
 #### Status
 ACCEPTED

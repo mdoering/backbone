@@ -1,5 +1,4 @@
-Bacidia nidulans (Stirt.) Zahlbr. SPECIES
-=======
+# Bacidia nidulans (Stirt.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

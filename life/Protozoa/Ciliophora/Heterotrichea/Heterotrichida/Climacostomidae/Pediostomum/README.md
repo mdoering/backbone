@@ -1,5 +1,4 @@
-Pediostomum Kahl, 1932 GENUS
-=======
+# Pediostomum Kahl, 1932 GENUS
 
 #### Status
 ACCEPTED

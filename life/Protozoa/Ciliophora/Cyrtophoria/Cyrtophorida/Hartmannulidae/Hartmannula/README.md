@@ -1,5 +1,4 @@
-Hartmannula Poche, 1913 GENUS
-=======
+# Hartmannula Poche, 1913 GENUS
 
 #### Status
 ACCEPTED

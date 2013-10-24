@@ -1,5 +1,4 @@
-Phaeocyphella GENUS
-=======
+# Phaeocyphella GENUS
 
 #### Status
 ACCEPTED

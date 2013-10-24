@@ -1,5 +1,4 @@
-Asterina japonica Theiss. SPECIES
-=======
+# Asterina japonica Theiss. SPECIES
 
 #### Status
 ACCEPTED

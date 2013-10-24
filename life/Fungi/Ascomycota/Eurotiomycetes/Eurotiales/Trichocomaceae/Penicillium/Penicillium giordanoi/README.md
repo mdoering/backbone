@@ -1,5 +1,4 @@
-Penicillium giordanoi Vuill. SPECIES
-=======
+# Penicillium giordanoi Vuill. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pterula aurantiaca Henn. SPECIES
-=======
+# Pterula aurantiaca Henn. SPECIES
 
 #### Status
 ACCEPTED

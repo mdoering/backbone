@@ -1,5 +1,4 @@
-Pleurotus pardalis (Schulzer) Sacc. SPECIES
-=======
+# Pleurotus pardalis (Schulzer) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymium platypus (Bisch.) Hanzl. {?} SPECIES
-=======
+# Didymium platypus (Bisch.) Hanzl. {?} SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helotium myriadeum P. Karst. SPECIES
-=======
+# Helotium myriadeum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

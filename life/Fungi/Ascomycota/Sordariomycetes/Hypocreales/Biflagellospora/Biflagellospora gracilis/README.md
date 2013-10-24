@@ -1,5 +1,4 @@
-Biflagellospora gracilis Sivichai & Hywel-Jones SPECIES
-=======
+# Biflagellospora gracilis Sivichai & Hywel-Jones SPECIES
 
 #### Status
 ACCEPTED

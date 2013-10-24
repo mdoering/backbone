@@ -1,8 +1,7 @@
-Telotrochidium henneguyi sensu Davidson & Finley, 1972 SPECIES
-=======
+# Opisthonecta dubia Foissner, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

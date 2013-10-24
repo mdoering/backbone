@@ -1,5 +1,4 @@
-Micropeltella phoebes Syd. SPECIES
-=======
+# Micropeltella phoebes Syd. SPECIES
 
 #### Status
 ACCEPTED

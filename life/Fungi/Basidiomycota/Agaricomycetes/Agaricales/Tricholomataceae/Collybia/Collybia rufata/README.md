@@ -1,5 +1,4 @@
-Collybia rufata (Berk.) Manjula SPECIES
-=======
+# Collybia rufata (Berk.) Manjula SPECIES
 
 #### Status
 ACCEPTED

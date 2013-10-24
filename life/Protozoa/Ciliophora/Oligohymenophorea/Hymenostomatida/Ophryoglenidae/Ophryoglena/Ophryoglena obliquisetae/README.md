@@ -1,5 +1,4 @@
-Ophryoglena obliquisetae SPECIES
-=======
+# Ophryoglena obliquisetae SPECIES
 
 #### Status
 ACCEPTED

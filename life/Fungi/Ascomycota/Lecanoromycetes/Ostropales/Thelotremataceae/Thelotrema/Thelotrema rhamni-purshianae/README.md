@@ -1,5 +1,4 @@
-Thelotrema rhamni-purshianae E. Senft SPECIES
-=======
+# Thelotrema rhamni-purshianae E. Senft SPECIES
 
 #### Status
 ACCEPTED

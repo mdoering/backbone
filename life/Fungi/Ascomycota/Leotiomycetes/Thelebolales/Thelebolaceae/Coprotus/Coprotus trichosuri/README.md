@@ -1,17 +1,16 @@
-Coprotus trichosurus A.E. Bell & Kimbr. SPECIES
-=======
+# Coprotus trichosuri A.E. Bell & Kimbr., 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 61(1): 192 (1973)
 
 #### Original name
-Coprotus trichosurus A.E. Bell & Kimbr.
+Coprotus trichosuri A.E. Bell & Kimbr., 1973
 
 ### Remarks
 null

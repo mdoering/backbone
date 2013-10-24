@@ -1,17 +1,16 @@
-Rhizocarpon concretum subsp. concretum SUBSPECIES
-=======
+# Rhizocarpon geminatum Körb. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syst. lich. germ. (Breslau) 259 (1855)
 
 #### Original name
-Rhizocarpon concretum subsp. concretum
+Rhizocarpon geminatum Körb.
 
 ### Remarks
 null

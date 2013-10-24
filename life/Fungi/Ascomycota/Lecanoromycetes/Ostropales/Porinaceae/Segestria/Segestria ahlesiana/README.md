@@ -1,5 +1,4 @@
-Segestria ahlesiana Körb. SPECIES
-=======
+# Segestria ahlesiana Körb. SPECIES
 
 #### Status
 ACCEPTED

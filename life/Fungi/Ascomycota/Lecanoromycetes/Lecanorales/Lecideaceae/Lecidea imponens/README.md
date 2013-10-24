@@ -1,5 +1,4 @@
-Lecidea imponens (Stizenb.) Hue SPECIES
-=======
+# Lecidea imponens (Stizenb.) Hue SPECIES
 
 #### Status
 ACCEPTED

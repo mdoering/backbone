@@ -1,5 +1,4 @@
-Pachyderma GENUS
-=======
+# Pachyderma GENUS
 
 #### Status
 ACCEPTED

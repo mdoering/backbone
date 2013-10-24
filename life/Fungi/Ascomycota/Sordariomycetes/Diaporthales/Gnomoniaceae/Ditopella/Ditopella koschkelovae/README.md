@@ -1,5 +1,4 @@
-Ditopella koschkelovae Frolov SPECIES
-=======
+# Ditopella koschkelovae Frolov SPECIES
 
 #### Status
 ACCEPTED

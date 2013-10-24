@@ -1,5 +1,4 @@
-Camarosporium juglandis Died. SPECIES
-=======
+# Camarosporium juglandis Died. SPECIES
 
 #### Status
 ACCEPTED

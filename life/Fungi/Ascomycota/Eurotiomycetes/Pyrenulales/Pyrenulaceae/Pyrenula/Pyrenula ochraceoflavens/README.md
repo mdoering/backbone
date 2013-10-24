@@ -1,5 +1,4 @@
-Pyrenula ochraceoflavens (Nyl.) R.C. Harris SPECIES
-=======
+# Pyrenula ochraceoflavens (Nyl.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

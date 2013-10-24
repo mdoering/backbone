@@ -1,5 +1,4 @@
-Hysterographium polymorphum P. Karst. SPECIES
-=======
+# Hysterographium polymorphum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

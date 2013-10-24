@@ -1,5 +1,4 @@
-Xitus Pessagno, 1977 GENUS
-=======
+# Xitus Pessagno, 1977 GENUS
 
 #### Status
 ACCEPTED

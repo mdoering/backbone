@@ -1,5 +1,4 @@
-Gerronema candidum Singer SPECIES
-=======
+# Gerronema candidum Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus fibrosolaceratus Britzelm. SPECIES
-=======
+# Agaricus fibrosolaceratus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

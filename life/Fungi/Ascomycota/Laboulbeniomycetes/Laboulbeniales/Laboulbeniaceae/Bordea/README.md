@@ -1,5 +1,4 @@
-Bordea GENUS
-=======
+# Bordea GENUS
 
 #### Status
 ACCEPTED

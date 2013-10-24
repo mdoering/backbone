@@ -1,5 +1,4 @@
-Valsa octospora J.Y. Yuan SPECIES
-=======
+# Valsa octospora J.Y. Yuan SPECIES
 
 #### Status
 ACCEPTED

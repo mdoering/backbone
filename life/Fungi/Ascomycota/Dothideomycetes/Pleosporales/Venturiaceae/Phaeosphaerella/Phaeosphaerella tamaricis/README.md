@@ -1,5 +1,4 @@
-Phaeosphaerella tamaricis (Hollós) Tomilin SPECIES
-=======
+# Phaeosphaerella tamaricis (Hollós) Tomilin SPECIES
 
 #### Status
 ACCEPTED

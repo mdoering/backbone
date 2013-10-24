@@ -1,5 +1,4 @@
-Ascochyta mycoparasitica Cartwr. & R.K. Webster SPECIES
-=======
+# Ascochyta mycoparasitica Cartwr. & R.K. Webster SPECIES
 
 #### Status
 ACCEPTED

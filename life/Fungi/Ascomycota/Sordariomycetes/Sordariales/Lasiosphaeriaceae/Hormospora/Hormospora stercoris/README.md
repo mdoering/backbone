@@ -1,5 +1,4 @@
-Hormospora stercoris Desm. SPECIES
-=======
+# Hormospora stercoris Desm. SPECIES
 
 #### Status
 ACCEPTED

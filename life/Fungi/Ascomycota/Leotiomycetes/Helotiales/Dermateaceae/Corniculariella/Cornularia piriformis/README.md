@@ -1,5 +1,4 @@
-Cornularia piriformis McAlpine SPECIES
-=======
+# Cornularia piriformis McAlpine SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laestadia sparti Pass. SPECIES
-=======
+# Laestadia sparti Pass. SPECIES
 
 #### Status
 ACCEPTED

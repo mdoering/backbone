@@ -1,5 +1,4 @@
-Leptosphaeria colocasiae Unamuno SPECIES
-=======
+# Leptosphaeria colocasiae Unamuno SPECIES
 
 #### Status
 ACCEPTED

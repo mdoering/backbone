@@ -1,5 +1,4 @@
-Clasterosporium microscopicum Schulzer & Sacc. SPECIES
-=======
+# Clasterosporium microscopicum Schulzer & Sacc. SPECIES
 
 #### Status
 ACCEPTED

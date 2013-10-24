@@ -1,5 +1,4 @@
-Bisbullatum hongshiiense Xiaosi Fang SPECIES
-=======
+# Bisbullatum hongshiiense Xiaosi Fang SPECIES
 
 #### Status
 ACCEPTED

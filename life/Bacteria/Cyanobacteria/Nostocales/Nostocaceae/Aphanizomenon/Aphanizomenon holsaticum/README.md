@@ -1,5 +1,4 @@
-Aphanizomenon holsaticum P. Richter SPECIES
-=======
+# Aphanizomenon holsaticum P. Richter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Glugea caulleryi Van Den Berghe SPECIES
-=======
+# Glugea caulleryi Van Den Berghe SPECIES
 
 #### Status
 ACCEPTED

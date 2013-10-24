@@ -1,5 +1,4 @@
-Cruciplacolithus inseadus Perch-Nielsen, 1969 SPECIES
-=======
+# Cruciplacolithus inseadus Perch-Nielsen, 1969 SPECIES
 
 #### Status
 ACCEPTED

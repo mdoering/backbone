@@ -1,17 +1,16 @@
-Macraea Subram. GENUS
-=======
+# Prathigada Subram. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Indian Acad. Sci. , Pl. Sci. 36B: 164 (1953)
+in Subramanian & Ramakrishnan, Journal of Madras Univ. , B 26: 366 (1956)
 
 #### Original name
-Macraea Subram.
+Prathigada Subram.
 
 ### Remarks
 null

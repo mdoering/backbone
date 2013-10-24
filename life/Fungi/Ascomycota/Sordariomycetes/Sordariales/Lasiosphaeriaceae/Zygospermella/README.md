@@ -1,5 +1,4 @@
-Zygospermella Cain GENUS
-=======
+# Zygospermella Cain GENUS
 
 #### Status
 ACCEPTED

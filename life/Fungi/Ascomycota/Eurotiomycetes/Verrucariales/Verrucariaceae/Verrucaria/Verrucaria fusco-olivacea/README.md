@@ -1,5 +1,4 @@
-Verrucaria fusco-olivacea Servít SPECIES
-=======
+# Verrucaria fusco-olivacea Servít SPECIES
 
 #### Status
 ACCEPTED

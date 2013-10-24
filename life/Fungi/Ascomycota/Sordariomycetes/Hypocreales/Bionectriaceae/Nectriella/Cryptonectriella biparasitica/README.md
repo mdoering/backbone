@@ -1,5 +1,4 @@
-Cryptonectriella biparasitica (Höhn.) Weese SPECIES
-=======
+# Cryptonectriella biparasitica (Höhn.) Weese SPECIES
 
 #### Status
 ACCEPTED

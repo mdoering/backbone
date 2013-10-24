@@ -1,17 +1,16 @@
-Septoplaca Petr. GENUS
-=======
+# Piptarthron Mont. ex Höhn. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 17: 271 (1964)
+Hedwigia 60: 202 (1918)
 
 #### Original name
-Septoplaca Petr.
+Piptarthron Mont. ex Höhn.
 
 ### Remarks
 null

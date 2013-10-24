@@ -1,14 +1,13 @@
-Odontotrema concentricum Stirt. SPECIES
-=======
+# Ocellularia concentrica (Stirt.) Sherwood SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-in Knight, Trans. & Proc. New Zealand Inst. 16: 406 (1884)
+Mycotaxon 28(1): 151 (1987)
 
 #### Original name
 Odontotrema concentricum Stirt.

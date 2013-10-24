@@ -1,5 +1,4 @@
-Pionnotes viridis Lechmere SPECIES
-=======
+# Pionnotes viridis Lechmere SPECIES
 
 #### Status
 ACCEPTED

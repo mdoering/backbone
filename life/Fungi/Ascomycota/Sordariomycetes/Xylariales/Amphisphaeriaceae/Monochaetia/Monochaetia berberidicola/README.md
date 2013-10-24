@@ -1,5 +1,4 @@
-Monochaetia berberidicola Vassiljevsky SPECIES
-=======
+# Monochaetia berberidicola Vassiljevsky SPECIES
 
 #### Status
 ACCEPTED

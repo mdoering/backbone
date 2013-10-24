@@ -1,5 +1,4 @@
-Blastenia craspedia (Ach.) B. de Lesd. SPECIES
-=======
+# Blastenia craspedia (Ach.) B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

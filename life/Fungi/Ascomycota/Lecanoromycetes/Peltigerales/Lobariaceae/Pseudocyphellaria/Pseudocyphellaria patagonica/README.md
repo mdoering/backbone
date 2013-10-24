@@ -1,5 +1,4 @@
-Pseudocyphellaria patagonica (Müll. Arg.) I.M. Lamb SPECIES
-=======
+# Pseudocyphellaria patagonica (Müll. Arg.) I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

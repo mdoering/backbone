@@ -1,5 +1,4 @@
-Verrucaria sordidoviridis Erichsen SPECIES
-=======
+# Verrucaria sordidoviridis Erichsen SPECIES
 
 #### Status
 ACCEPTED

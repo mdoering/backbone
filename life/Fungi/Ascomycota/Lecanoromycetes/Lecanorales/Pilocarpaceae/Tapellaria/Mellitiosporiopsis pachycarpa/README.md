@@ -1,5 +1,4 @@
-Mellitiosporiopsis pachycarpa Rehm SPECIES
-=======
+# Mellitiosporiopsis pachycarpa Rehm SPECIES
 
 #### Status
 ACCEPTED

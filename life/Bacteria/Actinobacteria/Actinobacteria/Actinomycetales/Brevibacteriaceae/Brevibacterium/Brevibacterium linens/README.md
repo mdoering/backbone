@@ -1,5 +1,4 @@
-Brevibacterium linens (Wolff, 1910) Breed, 1953 (Approved Lists, 1980) SPECIES
-=======
+# Brevibacterium linens (Wolff, 1910) Breed, 1953 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria streimannii Elix & A.W. Archer SPECIES
-=======
+# Pertusaria streimannii Elix & A.W. Archer SPECIES
 
 #### Status
 ACCEPTED

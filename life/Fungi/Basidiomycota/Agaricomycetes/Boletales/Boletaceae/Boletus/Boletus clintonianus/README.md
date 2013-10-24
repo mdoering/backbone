@@ -1,5 +1,4 @@
-Boletus clintonianus Peck SPECIES
-=======
+# Boletus clintonianus Peck SPECIES
 
 #### Status
 ACCEPTED

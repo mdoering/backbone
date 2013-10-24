@@ -1,5 +1,4 @@
-Huea albidocoerulescens (Müll. Arg.) C.W. Dodge SPECIES
-=======
+# Huea albidocoerulescens (Müll. Arg.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hymenula microsporella P. Karst. SPECIES
-=======
+# Hymenula microsporella P. Karst. SPECIES
 
 #### Status
 ACCEPTED

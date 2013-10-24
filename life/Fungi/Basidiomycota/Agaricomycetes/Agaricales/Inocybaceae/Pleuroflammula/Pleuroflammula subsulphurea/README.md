@@ -1,5 +1,4 @@
-Pleuroflammula subsulphurea (A.H. Sm. & Hesler) E. Horak SPECIES
-=======
+# Pleuroflammula subsulphurea (A.H. Sm. & Hesler) E. Horak SPECIES
 
 #### Status
 ACCEPTED

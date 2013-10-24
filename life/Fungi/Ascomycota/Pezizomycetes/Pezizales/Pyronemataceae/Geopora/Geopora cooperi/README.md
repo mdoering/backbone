@@ -1,17 +1,16 @@
-Geopora cooperi f. gilkeyae Burds. FORM
-=======
+# Geopora cooperi Harkn., 1885 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Calif. Acad. Sci. 1: (1885)
 
 #### Original name
-Geopora cooperi f. gilkeyae Burds.
+Geopora cooperi Harkn., 1885
 
 ### Remarks
 null

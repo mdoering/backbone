@@ -1,5 +1,4 @@
-Ophiotheca circumscissa (Rostaf.) Massee SPECIES
-=======
+# Ophiotheca circumscissa (Rostaf.) Massee SPECIES
 
 #### Status
 ACCEPTED

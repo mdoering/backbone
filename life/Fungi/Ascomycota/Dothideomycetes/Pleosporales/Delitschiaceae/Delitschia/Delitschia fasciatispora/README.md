@@ -1,5 +1,4 @@
-Delitschia fasciatispora K.D. Hyde SPECIES
-=======
+# Delitschia fasciatispora K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dentalina costata Pourtales, 1850 SPECIES
-=======
+# Dentalina costata Pourtales, 1850 SPECIES
 
 #### Status
 ACCEPTED

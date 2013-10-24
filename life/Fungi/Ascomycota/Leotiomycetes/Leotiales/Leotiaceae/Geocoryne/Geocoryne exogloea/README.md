@@ -1,5 +1,4 @@
-Geocoryne exogloea Ram N. Singh & V.P. Tewari, 1978 SPECIES
-=======
+# Geocoryne exogloea Ram N. Singh & V.P. Tewari, 1978 SPECIES
 
 #### Status
 ACCEPTED

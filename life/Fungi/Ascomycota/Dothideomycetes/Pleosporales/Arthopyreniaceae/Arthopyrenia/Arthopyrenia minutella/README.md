@@ -1,5 +1,4 @@
-Arthopyrenia minutella (C. Knight) Müll. Arg. SPECIES
-=======
+# Arthopyrenia minutella (C. Knight) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

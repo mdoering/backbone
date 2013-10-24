@@ -1,5 +1,4 @@
-Puccinia atragenes W. Hausm. SPECIES
-=======
+# Puccinia atragenes W. Hausm. SPECIES
 
 #### Status
 ACCEPTED

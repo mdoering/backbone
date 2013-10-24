@@ -1,5 +1,4 @@
-Microthelia minutissima (C. Knight) Zahlbr. SPECIES
-=======
+# Microthelia minutissima (C. Knight) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

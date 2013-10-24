@@ -1,5 +1,4 @@
-Hendersonia heringeri Bat. & Peres SPECIES
-=======
+# Hendersonia heringeri Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

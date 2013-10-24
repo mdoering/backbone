@@ -1,5 +1,4 @@
-Pseudeurotium ovale var. ovale VARIETY
-=======
+# Pseudeurotium ovale Stolk, 1955 SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-Pseudeurotium ovale var. ovale
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Diplodia thujae G.H. Otth SPECIES
-=======
+# Diplodia thujae G.H. Otth SPECIES
 
 #### Status
 ACCEPTED

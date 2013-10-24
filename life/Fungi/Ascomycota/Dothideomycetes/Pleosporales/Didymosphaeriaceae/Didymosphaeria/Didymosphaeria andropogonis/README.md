@@ -1,5 +1,4 @@
-Didymosphaeria andropogonis Ellis & Langl. SPECIES
-=======
+# Didymosphaeria andropogonis Ellis & Langl. SPECIES
 
 #### Status
 ACCEPTED

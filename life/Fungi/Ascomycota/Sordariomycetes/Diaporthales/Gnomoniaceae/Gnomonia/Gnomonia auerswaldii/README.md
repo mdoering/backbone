@@ -1,5 +1,4 @@
-Gnomonia auerswaldii Fleischh. SPECIES
-=======
+# Gnomonia auerswaldii Fleischh. SPECIES
 
 #### Status
 ACCEPTED

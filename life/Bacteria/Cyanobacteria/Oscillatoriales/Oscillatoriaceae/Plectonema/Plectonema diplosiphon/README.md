@@ -1,5 +1,4 @@
-Plectonema diplosiphon Woronichin SPECIES
-=======
+# Plectonema diplosiphon Woronichin SPECIES
 
 #### Status
 ACCEPTED

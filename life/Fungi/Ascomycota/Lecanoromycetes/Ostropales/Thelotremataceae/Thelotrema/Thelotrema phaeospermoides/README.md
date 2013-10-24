@@ -1,5 +1,4 @@
-Thelotrema phaeospermoides Vain. SPECIES
-=======
+# Thelotrema phaeospermoides Vain. SPECIES
 
 #### Status
 ACCEPTED

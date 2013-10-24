@@ -1,5 +1,4 @@
-Lecudina polymorpha Schrével, 1963 SPECIES
-=======
+# Lecudina polymorpha Schrével, 1963 SPECIES
 
 #### Status
 ACCEPTED

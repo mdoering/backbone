@@ -1,5 +1,4 @@
-Ehrlichia muris Wen et al., 1995 SPECIES
-=======
+# Ehrlichia muris Wen et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

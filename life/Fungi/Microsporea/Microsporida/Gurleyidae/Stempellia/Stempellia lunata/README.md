@@ -1,5 +1,4 @@
-Stempellia lunata E.I. Hazard & K.E. Savage SPECIES
-=======
+# Stempellia lunata E.I. Hazard & K.E. Savage SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xylaria diminuta F. San Martín & J.D. Rogers SPECIES
-=======
+# Xylaria diminuta F. San Martín & J.D. Rogers SPECIES
 
 #### Status
 ACCEPTED

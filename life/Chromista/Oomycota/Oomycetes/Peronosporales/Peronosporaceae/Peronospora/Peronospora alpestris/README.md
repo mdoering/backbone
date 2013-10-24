@@ -1,5 +1,4 @@
-Peronospora alpestris Gäum. SPECIES
-=======
+# Peronospora alpestris Gäum. SPECIES
 
 #### Status
 ACCEPTED

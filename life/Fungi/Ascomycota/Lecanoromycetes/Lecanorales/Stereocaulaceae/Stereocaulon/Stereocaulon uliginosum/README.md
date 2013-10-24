@@ -1,5 +1,4 @@
-Stereocaulon uliginosum I.M. Lamb SPECIES
-=======
+# Stereocaulon uliginosum I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

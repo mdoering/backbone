@@ -1,5 +1,4 @@
-Elaphomyces hirtus Tul. & C. Tul. SPECIES
-=======
+# Elaphomyces hirtus Tul. & C. Tul. SPECIES
 
 #### Status
 ACCEPTED

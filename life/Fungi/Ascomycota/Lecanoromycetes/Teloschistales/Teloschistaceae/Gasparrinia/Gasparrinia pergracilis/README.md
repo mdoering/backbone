@@ -1,5 +1,4 @@
-Gasparrinia pergracilis (Zahlbr.) Follmann SPECIES
-=======
+# Gasparrinia pergracilis (Zahlbr.) Follmann SPECIES
 
 #### Status
 ACCEPTED

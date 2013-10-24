@@ -1,5 +1,4 @@
-Nannoceratopsis pellucida SPECIES
-=======
+# Nannoceratopsis pellucida SPECIES
 
 #### Status
 ACCEPTED

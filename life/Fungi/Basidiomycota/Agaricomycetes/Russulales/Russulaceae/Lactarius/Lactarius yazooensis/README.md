@@ -1,5 +1,4 @@
-Lactarius yazooensis Hesler & A.H. Sm. SPECIES
-=======
+# Lactarius yazooensis Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

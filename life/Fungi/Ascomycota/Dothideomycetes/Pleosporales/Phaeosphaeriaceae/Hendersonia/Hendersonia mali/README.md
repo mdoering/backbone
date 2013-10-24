@@ -1,5 +1,4 @@
-Hendersonia mali Thüm. SPECIES
-=======
+# Hendersonia mali Thüm. SPECIES
 
 #### Status
 ACCEPTED

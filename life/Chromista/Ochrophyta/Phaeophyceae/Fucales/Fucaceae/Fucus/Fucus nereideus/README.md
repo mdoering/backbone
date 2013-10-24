@@ -1,5 +1,4 @@
-Fucus nereideus Lightfoot SPECIES
-=======
+# Fucus nereideus Lightfoot SPECIES
 
 #### Status
 ACCEPTED

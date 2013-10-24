@@ -1,5 +1,4 @@
-Arthopyrenia arnoldii Zahlbr. SPECIES
-=======
+# Arthopyrenia arnoldii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

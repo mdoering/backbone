@@ -1,5 +1,4 @@
-Mycena rhenana Maas Geest. & Winterh., 1985 SPECIES
-=======
+# Mycena rhenana Maas Geest. & Winterh., 1985 SPECIES
 
 #### Status
 ACCEPTED

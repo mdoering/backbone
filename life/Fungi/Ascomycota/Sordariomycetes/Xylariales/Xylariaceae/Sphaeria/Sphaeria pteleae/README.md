@@ -1,5 +1,4 @@
-Sphaeria pteleae Rabenh. SPECIES
-=======
+# Sphaeria pteleae Rabenh. SPECIES
 
 #### Status
 ACCEPTED

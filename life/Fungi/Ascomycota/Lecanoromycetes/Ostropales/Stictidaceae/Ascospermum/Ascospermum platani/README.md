@@ -1,5 +1,4 @@
-Ascospermum platani Schulzer SPECIES
-=======
+# Ascospermum platani Schulzer SPECIES
 
 #### Status
 ACCEPTED

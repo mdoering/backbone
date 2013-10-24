@@ -1,5 +1,4 @@
-Toninia heterophora (Nyl.) Arnold SPECIES
-=======
+# Toninia heterophora (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

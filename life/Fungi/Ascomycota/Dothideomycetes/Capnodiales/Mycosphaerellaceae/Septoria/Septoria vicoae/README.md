@@ -1,5 +1,4 @@
-Septoria vicoae Died. SPECIES
-=======
+# Septoria vicoae Died. SPECIES
 
 #### Status
 ACCEPTED

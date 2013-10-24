@@ -1,5 +1,4 @@
-Rosellinia echinocarpa Saccas SPECIES
-=======
+# Rosellinia echinocarpa Saccas SPECIES
 
 #### Status
 ACCEPTED

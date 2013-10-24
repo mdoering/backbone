@@ -1,5 +1,4 @@
-Myceloblastanon intestinale (Castell.) M. Ota SPECIES
-=======
+# Myceloblastanon intestinale (Castell.) M. Ota SPECIES
 
 #### Status
 ACCEPTED

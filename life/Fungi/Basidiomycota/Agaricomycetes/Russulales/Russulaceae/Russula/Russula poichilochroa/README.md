@@ -1,17 +1,16 @@
-Russula poichilochroa f. eliochroma (Sarnari) Sarnari FORM
-=======
+# Russula poichilochroa Sarnari, 1990 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Riv. Micol. 33(2): 168 (1990)
+Riv. Micol. 33(2): 164 (1990)
 
 #### Original name
-Russula metachroa f. eliochroma Sarnari
+Russula metachroa Hongo, 1955
 
 ### Remarks
 null

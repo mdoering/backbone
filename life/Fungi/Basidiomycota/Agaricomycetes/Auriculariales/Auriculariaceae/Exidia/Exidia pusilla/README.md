@@ -1,5 +1,4 @@
-Exidia pusilla P. Roberts, 1998 SPECIES
-=======
+# Exidia pusilla P. Roberts, 1998 SPECIES
 
 #### Status
 ACCEPTED

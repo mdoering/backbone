@@ -1,5 +1,4 @@
-Sphaerocista robiniae Preuss SPECIES
-=======
+# Sphaerocista robiniae Preuss SPECIES
 
 #### Status
 ACCEPTED

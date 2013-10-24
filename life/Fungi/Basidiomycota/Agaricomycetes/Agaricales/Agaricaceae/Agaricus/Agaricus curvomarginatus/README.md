@@ -1,5 +1,4 @@
-Agaricus curvomarginatus Peck SPECIES
-=======
+# Agaricus curvomarginatus Peck SPECIES
 
 #### Status
 ACCEPTED

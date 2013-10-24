@@ -1,5 +1,4 @@
-Agaricus rufoflavidus Krombh. SPECIES
-=======
+# Agaricus rufoflavidus Krombh. SPECIES
 
 #### Status
 ACCEPTED

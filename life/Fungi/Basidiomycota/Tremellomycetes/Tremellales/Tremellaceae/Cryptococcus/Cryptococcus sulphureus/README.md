@@ -1,17 +1,16 @@
-Cryptococcus sulfureus Beauverie & Lesieur SPECIES
-=======
+# Cryptococcus sulphureus Beauverie & Lesieur SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-J. Physiol. Pathol. Gén. (1912)
+null
 
 #### Original name
-Cryptococcus sulfureus Beauverie & Lesieur
+Cryptococcus sulphureus Beauverie & Lesieur
 
 ### Remarks
 null

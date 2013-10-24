@@ -1,5 +1,4 @@
-Omnidemptus affinis P.F. Cannon & Alcorn, 1994 SPECIES
-=======
+# Omnidemptus affinis P.F. Cannon & Alcorn, 1994 SPECIES
 
 #### Status
 ACCEPTED

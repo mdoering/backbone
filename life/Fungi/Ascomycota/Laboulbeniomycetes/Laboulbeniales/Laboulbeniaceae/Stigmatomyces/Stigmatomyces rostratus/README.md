@@ -1,5 +1,4 @@
-Stigmatomyces rostratus Thaxt. SPECIES
-=======
+# Stigmatomyces rostratus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

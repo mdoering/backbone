@@ -1,5 +1,4 @@
-Peniophora lithargyrina Bourdot & Galzin SPECIES
-=======
+# Peniophora lithargyrina Bourdot & Galzin SPECIES
 
 #### Status
 ACCEPTED

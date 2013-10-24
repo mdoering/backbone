@@ -1,5 +1,4 @@
-Ellipsoplacolithus Kamptner, 1963 GENUS
-=======
+# Ellipsoplacolithus Kamptner, 1963 GENUS
 
 #### Status
 ACCEPTED

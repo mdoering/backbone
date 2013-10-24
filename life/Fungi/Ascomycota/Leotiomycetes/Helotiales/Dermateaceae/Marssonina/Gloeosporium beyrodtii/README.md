@@ -1,5 +1,4 @@
-Gloeosporium beyrodtii Klitzing {?} SPECIES
-=======
+# Gloeosporium beyrodtii Klitzing {?} SPECIES
 
 #### Status
 ACCEPTED

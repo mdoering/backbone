@@ -1,5 +1,4 @@
-Cytospora asterophora f. asterophora FORM
-=======
+# Cytospora asterophora Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cytospora asterophora f. asterophora
+Cytospora asterophora Sacc.
 
 ### Remarks
 null

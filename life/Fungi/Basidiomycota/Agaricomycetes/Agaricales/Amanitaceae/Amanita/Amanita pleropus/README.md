@@ -1,5 +1,4 @@
-Amanita pleropus (Kalchbr. & MacOwan) D.A. Reid SPECIES
-=======
+# Amanita pleropus (Kalchbr. & MacOwan) D.A. Reid SPECIES
 
 #### Status
 ACCEPTED

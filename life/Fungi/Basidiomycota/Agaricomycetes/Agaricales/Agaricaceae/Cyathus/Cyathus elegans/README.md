@@ -1,5 +1,4 @@
-Cyathus elegans Speg. SPECIES
-=======
+# Cyathus elegans Speg. SPECIES
 
 #### Status
 ACCEPTED

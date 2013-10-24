@@ -1,5 +1,4 @@
-Stagonospora hydrophila Briard & Har. SPECIES
-=======
+# Stagonospora hydrophila Briard & Har. SPECIES
 
 #### Status
 ACCEPTED

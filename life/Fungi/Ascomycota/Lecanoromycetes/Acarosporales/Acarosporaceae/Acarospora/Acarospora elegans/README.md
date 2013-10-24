@@ -1,5 +1,4 @@
-Acarospora elegans Brusse SPECIES
-=======
+# Acarospora elegans Brusse SPECIES
 
 #### Status
 ACCEPTED

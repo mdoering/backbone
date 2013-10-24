@@ -1,5 +1,4 @@
-Phyllactinia andrachnes H.S. Gill, Munjal & Chona SPECIES
-=======
+# Phyllactinia andrachnes H.S. Gill, Munjal & Chona SPECIES
 
 #### Status
 ACCEPTED

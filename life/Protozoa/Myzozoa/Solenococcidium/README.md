@@ -1,5 +1,4 @@
-Solenococcidium GENUS
-=======
+# Solenococcidium GENUS
 
 #### Status
 ACCEPTED

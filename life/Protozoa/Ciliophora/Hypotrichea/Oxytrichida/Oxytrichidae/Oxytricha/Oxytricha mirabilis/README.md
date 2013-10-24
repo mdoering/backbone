@@ -1,5 +1,4 @@
-Oxytricha mirabilis Stokes, 1887 SPECIES
-=======
+# Oxytricha mirabilis Stokes, 1887 SPECIES
 
 #### Status
 ACCEPTED

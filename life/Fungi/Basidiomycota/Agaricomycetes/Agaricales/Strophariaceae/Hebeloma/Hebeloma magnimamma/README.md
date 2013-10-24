@@ -1,5 +1,4 @@
-Hebeloma magnimamma (Fr.) P. Karst. SPECIES
-=======
+# Hebeloma magnimamma (Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

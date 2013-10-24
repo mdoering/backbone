@@ -1,5 +1,4 @@
-Verrucaria herculana (Rehm ex Lojka) Lojka SPECIES
-=======
+# Verrucaria herculana (Rehm ex Lojka) Lojka SPECIES
 
 #### Status
 ACCEPTED

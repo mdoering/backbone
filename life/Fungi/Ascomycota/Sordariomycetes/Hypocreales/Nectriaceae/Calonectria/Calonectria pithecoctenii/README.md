@@ -1,5 +1,4 @@
-Calonectria pithecoctenii J.V. Almeida & Sousa da Câmara SPECIES
-=======
+# Calonectria pithecoctenii J.V. Almeida & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

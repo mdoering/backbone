@@ -1,5 +1,4 @@
-Plectania serrata Le Gal SPECIES
-=======
+# Plectania serrata Le Gal SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus exiguus Colenso SPECIES
-=======
+# Polyporus exiguus Colenso SPECIES
 
 #### Status
 ACCEPTED

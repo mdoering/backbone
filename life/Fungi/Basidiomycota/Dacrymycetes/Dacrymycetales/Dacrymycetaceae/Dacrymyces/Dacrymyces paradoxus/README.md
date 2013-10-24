@@ -1,5 +1,4 @@
-Dacrymyces paradoxus P. Karst. SPECIES
-=======
+# Dacrymyces paradoxus P. Karst. SPECIES
 
 #### Status
 ACCEPTED

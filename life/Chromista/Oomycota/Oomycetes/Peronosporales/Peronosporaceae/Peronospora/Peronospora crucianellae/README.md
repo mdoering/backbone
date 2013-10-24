@@ -1,5 +1,4 @@
-Peronospora crucianellae Lindtner SPECIES
-=======
+# Peronospora crucianellae Lindtner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Dasyscypha flavidulus Rehm SPECIES
-=======
+# Dasyscyphus flavidulus Rehm SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Dasyscypha flavidulus Rehm
+Dasyscyphus flavidulus Rehm
 
 ### Remarks
 null

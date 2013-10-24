@@ -1,5 +1,4 @@
-Chaetomium cancroideum Tschudy, 1937 SPECIES
-=======
+# Chaetomium cancroideum Tschudy, 1937 SPECIES
 
 #### Status
 ACCEPTED

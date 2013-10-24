@@ -1,5 +1,4 @@
-Larcospironium Haeckel, 1887 GENUS
-=======
+# Larcospironium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

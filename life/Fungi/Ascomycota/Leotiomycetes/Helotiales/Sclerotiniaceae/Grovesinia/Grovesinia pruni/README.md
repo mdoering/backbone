@@ -1,5 +1,4 @@
-Grovesinia pruni Y. Harada & Noro, 1988 SPECIES
-=======
+# Grovesinia pruni Y. Harada & Noro, 1988 SPECIES
 
 #### Status
 ACCEPTED

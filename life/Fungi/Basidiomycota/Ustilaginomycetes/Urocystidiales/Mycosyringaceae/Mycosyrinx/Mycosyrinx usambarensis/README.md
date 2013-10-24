@@ -1,5 +1,4 @@
-Mycosyrinx usambarensis (Henn.) Vánky, 2005 SPECIES
-=======
+# Mycosyrinx usambarensis (Henn.) Vánky, 2005 SPECIES
 
 #### Status
 ACCEPTED

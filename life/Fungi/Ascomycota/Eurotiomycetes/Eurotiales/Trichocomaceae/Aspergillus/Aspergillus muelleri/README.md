@@ -1,5 +1,4 @@
-Aspergillus muelleri Berk. SPECIES
-=======
+# Aspergillus muelleri Berk. SPECIES
 
 #### Status
 ACCEPTED

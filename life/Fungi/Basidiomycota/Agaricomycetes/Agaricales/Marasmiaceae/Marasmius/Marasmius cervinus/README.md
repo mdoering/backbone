@@ -1,5 +1,4 @@
-Marasmius cervinus Henn. SPECIES
-=======
+# Marasmius cervinus Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ceraceospora M. Kakishima, T. Sato & S. Sato, 1984 GENUS
-=======
+# Ceraceospora M. Kakishima, T. Sato & S. Sato, 1984 GENUS
 
 #### Status
 ACCEPTED

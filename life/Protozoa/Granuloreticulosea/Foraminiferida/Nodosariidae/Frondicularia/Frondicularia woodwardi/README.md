@@ -1,5 +1,4 @@
-Frondicularia woodwardi Howchin SPECIES
-=======
+# Frondicularia woodwardi Howchin SPECIES
 
 #### Status
 ACCEPTED

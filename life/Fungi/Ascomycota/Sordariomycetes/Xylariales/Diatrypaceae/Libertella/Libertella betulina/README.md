@@ -1,17 +1,16 @@
-Libertella betulina var. betulina VARIETY
-=======
+# Libertella betulina Desm., 1830 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Annls Sci. Nat. , Bot. , sér. 1 19: 276 (1830)
 
 #### Original name
-Libertella betulina var. betulina
+Libertella betulina Desm., 1830
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Hexastylus dimensivus Haeckel, 1887 SPECIES
-=======
+# Hexastylus dimensivus Haeckel, 1887 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Actinoteichus pernambucensis Cavalc. SPECIES
-=======
+# Actinoteichus pernambucensis Cavalc. SPECIES
 
 #### Status
 ACCEPTED

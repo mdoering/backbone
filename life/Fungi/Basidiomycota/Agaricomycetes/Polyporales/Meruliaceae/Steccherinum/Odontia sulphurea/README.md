@@ -1,5 +1,4 @@
-Odontia sulphurea (Schwein.) Rea SPECIES
-=======
+# Odontia sulphurea (Schwein.) Rea SPECIES
 
 #### Status
 ACCEPTED

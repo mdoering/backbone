@@ -1,5 +1,4 @@
-Phoma baccicola Richon SPECIES
-=======
+# Phoma baccicola Richon SPECIES
 
 #### Status
 ACCEPTED

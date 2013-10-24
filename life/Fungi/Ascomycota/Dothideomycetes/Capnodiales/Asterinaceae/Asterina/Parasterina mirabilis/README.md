@@ -1,5 +1,4 @@
-Parasterina mirabilis Toro SPECIES
-=======
+# Parasterina mirabilis Toro SPECIES
 
 #### Status
 ACCEPTED

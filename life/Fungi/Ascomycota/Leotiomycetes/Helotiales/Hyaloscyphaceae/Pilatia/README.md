@@ -1,5 +1,4 @@
-Pilatia GENUS
-=======
+# Pilatia GENUS
 
 #### Status
 ACCEPTED

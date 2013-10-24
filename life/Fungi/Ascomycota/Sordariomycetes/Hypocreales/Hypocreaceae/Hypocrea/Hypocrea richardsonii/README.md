@@ -1,17 +1,16 @@
-Hypocrea richardsoni Berk. & Mont. SPECIES
-=======
+# Hypocrea richardsonii Vestergr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Grevillea 4(no. 29): 14 (1875)
 
 #### Original name
-Hypocrea richardsoni Berk. & Mont.
+Hypocrea richardsonii Vestergr.
 
 ### Remarks
 null

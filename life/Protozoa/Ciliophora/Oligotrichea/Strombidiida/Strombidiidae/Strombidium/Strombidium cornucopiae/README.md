@@ -1,5 +1,4 @@
-Strombidium cornucopiae Wailes, 1929 SPECIES
-=======
+# Strombidium cornucopiae Wailes, 1929 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Comatricha rufa (Roth) SPECIES
-=======
+# Comatricha rufa (Roth) SPECIES
 
 #### Status
 ACCEPTED

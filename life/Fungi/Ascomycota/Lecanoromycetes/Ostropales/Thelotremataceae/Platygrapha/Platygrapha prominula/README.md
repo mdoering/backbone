@@ -1,5 +1,4 @@
-Platygrapha prominula Nyl. SPECIES
-=======
+# Platygrapha prominula Nyl. SPECIES
 
 #### Status
 ACCEPTED

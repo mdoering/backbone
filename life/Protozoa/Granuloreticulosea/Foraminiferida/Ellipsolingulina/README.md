@@ -1,5 +1,4 @@
-Ellipsolingulina Silvestri, 1907 GENUS
-=======
+# Ellipsolingulina Silvestri, 1907 GENUS
 
 #### Status
 ACCEPTED

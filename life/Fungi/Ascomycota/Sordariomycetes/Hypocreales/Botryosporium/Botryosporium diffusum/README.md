@@ -1,5 +1,4 @@
-Botryosporium diffusum (Grev.) Corda, 1831 SPECIES
-=======
+# Botryosporium diffusum (Grev.) Corda, 1831 SPECIES
 
 #### Status
 ACCEPTED

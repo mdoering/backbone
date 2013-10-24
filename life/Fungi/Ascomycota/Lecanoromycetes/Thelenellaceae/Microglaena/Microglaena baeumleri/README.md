@@ -1,8 +1,7 @@
-Microglaena bäumleri Zahlbr. SPECIES
-=======
+# Microglaena baeumleri Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Microglaena bäumleri Zahlbr.
+Microglaena baeumleri Zahlbr.
 
 ### Remarks
 null

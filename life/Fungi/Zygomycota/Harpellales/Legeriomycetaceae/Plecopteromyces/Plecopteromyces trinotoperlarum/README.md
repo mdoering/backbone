@@ -1,5 +1,4 @@
-Plecopteromyces trinotoperlarum M.C. Williams & Lichtw., 2005 SPECIES
-=======
+# Plecopteromyces trinotoperlarum M.C. Williams & Lichtw., 2005 SPECIES
 
 #### Status
 ACCEPTED

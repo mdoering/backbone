@@ -1,5 +1,4 @@
-Didymella lettauiana Keissl. SPECIES
-=======
+# Didymella lettauiana Keissl. SPECIES
 
 #### Status
 ACCEPTED

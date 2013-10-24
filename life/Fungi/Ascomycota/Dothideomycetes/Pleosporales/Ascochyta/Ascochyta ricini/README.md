@@ -1,5 +1,4 @@
-Ascochyta ricini (Rodigin) Melnik SPECIES
-=======
+# Ascochyta ricini (Rodigin) Melnik SPECIES
 
 #### Status
 ACCEPTED

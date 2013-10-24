@@ -1,5 +1,4 @@
-Hypholoma minutellum Höhn. SPECIES
-=======
+# Hypholoma minutellum Höhn. SPECIES
 
 #### Status
 ACCEPTED

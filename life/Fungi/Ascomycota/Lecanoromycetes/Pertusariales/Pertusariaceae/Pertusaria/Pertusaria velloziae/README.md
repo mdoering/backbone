@@ -1,5 +1,4 @@
-Pertusaria velloziae (Vain.) A.W. Archer & Elix SPECIES
-=======
+# Pertusaria velloziae (Vain.) A.W. Archer & Elix SPECIES
 
 #### Status
 ACCEPTED

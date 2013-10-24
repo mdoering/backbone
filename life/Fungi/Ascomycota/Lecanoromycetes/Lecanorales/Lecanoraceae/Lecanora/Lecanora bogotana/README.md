@@ -1,5 +1,4 @@
-Lecanora bogotana Nyl. SPECIES
-=======
+# Lecanora bogotana Nyl. SPECIES
 
 #### Status
 ACCEPTED

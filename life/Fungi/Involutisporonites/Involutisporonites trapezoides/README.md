@@ -1,5 +1,4 @@
-Involutisporonites trapezoides Kalgutkar SPECIES
-=======
+# Involutisporonites trapezoides Kalgutkar SPECIES
 
 #### Status
 ACCEPTED

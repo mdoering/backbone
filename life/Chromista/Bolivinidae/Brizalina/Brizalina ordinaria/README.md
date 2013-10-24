@@ -1,5 +1,4 @@
-Brizalina ordinaria (Phleger & Parker, 1952) SPECIES
-=======
+# Brizalina ordinaria (Phleger & Parker, 1952) SPECIES
 
 #### Status
 ACCEPTED

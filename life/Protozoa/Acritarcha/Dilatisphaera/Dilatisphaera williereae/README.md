@@ -1,5 +1,4 @@
-Dilatisphaera williereae (Martin, 1966) Lister, 1970 SPECIES
-=======
+# Dilatisphaera williereae (Martin, 1966) Lister, 1970 SPECIES
 
 #### Status
 ACCEPTED

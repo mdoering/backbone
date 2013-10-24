@@ -1,5 +1,4 @@
-Pyrenocyclus Petr. GENUS
-=======
+# Pyrenocyclus Petr. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophiostoma pingue Starbäck SPECIES
-=======
+# Lophiostoma pingue Starbäck SPECIES
 
 #### Status
 ACCEPTED

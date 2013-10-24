@@ -1,5 +1,4 @@
-Ustilago caulicola Zundel SPECIES
-=======
+# Ustilago caulicola Zundel SPECIES
 
 #### Status
 ACCEPTED

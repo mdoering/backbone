@@ -1,5 +1,4 @@
-Terana suffulta (Berk. & Broome) Kuntze SPECIES
-=======
+# Terana suffulta (Berk. & Broome) Kuntze SPECIES
 
 #### Status
 ACCEPTED

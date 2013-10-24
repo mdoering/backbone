@@ -1,5 +1,4 @@
-Aecidium gymnematis T.S. Ramakr. & Sundaram SPECIES
-=======
+# Aecidium gymnematis T.S. Ramakr. & Sundaram SPECIES
 
 #### Status
 ACCEPTED

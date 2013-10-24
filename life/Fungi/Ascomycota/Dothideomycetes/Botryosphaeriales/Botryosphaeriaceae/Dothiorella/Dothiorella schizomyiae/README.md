@@ -1,5 +1,4 @@
-Dothiorella schizomyiae Petr. SPECIES
-=======
+# Dothiorella schizomyiae Petr. SPECIES
 
 #### Status
 ACCEPTED

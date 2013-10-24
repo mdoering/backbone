@@ -1,5 +1,4 @@
-Lagynion subovatum Prescott SPECIES
-=======
+# Lagynion subovatum Prescott SPECIES
 
 #### Status
 ACCEPTED

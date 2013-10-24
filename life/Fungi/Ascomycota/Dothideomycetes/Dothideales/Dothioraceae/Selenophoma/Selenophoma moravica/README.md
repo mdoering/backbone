@@ -1,5 +1,4 @@
-Selenophoma moravica Petr., 1921 SPECIES
-=======
+# Selenophoma moravica Petr., 1921 SPECIES
 
 #### Status
 ACCEPTED

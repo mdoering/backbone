@@ -1,5 +1,4 @@
-Sordaria apiculifera Speg. SPECIES
-=======
+# Sordaria apiculifera Speg. SPECIES
 
 #### Status
 ACCEPTED

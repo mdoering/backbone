@@ -1,5 +1,4 @@
-Catinula japonica Ts. Kobay. & C. Oishi SPECIES
-=======
+# Catinula japonica Ts. Kobay. & C. Oishi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerulina musae T.Y. Lin & J.M. Yen, 1971 SPECIES
-=======
+# Sphaerulina musae T.Y. Lin & J.M. Yen, 1971 SPECIES
 
 #### Status
 ACCEPTED

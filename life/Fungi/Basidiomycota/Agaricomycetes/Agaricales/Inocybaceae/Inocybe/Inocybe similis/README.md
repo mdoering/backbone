@@ -1,5 +1,4 @@
-Inocybe similis Bres. SPECIES
-=======
+# Inocybe similis Bres. SPECIES
 
 #### Status
 ACCEPTED

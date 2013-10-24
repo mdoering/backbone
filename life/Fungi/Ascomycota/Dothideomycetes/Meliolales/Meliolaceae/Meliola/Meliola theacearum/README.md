@@ -1,5 +1,4 @@
-Meliola theacearum F. Stevens SPECIES
-=======
+# Meliola theacearum F. Stevens SPECIES
 
 #### Status
 ACCEPTED

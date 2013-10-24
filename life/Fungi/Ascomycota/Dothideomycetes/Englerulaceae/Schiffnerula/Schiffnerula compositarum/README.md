@@ -1,5 +1,4 @@
-Schiffnerula compositarum (Theiss.) Petr. SPECIES
-=======
+# Schiffnerula compositarum (Theiss.) Petr. SPECIES
 
 #### Status
 ACCEPTED

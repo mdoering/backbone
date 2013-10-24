@@ -1,5 +1,4 @@
-Pyrenopsis sphaerospora Vain. SPECIES
-=======
+# Pyrenopsis sphaerospora Vain. SPECIES
 
 #### Status
 ACCEPTED

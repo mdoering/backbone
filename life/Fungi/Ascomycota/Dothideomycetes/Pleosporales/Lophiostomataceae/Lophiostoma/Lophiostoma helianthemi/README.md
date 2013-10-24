@@ -1,5 +1,4 @@
-Lophiostoma helianthemi Gucevic SPECIES
-=======
+# Lophiostoma helianthemi Gucevic SPECIES
 
 #### Status
 ACCEPTED

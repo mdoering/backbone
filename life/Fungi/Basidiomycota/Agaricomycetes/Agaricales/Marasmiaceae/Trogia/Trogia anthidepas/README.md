@@ -1,5 +1,4 @@
-Trogia anthidepas var. anthidepas VARIETY
-=======
+# Trogia anthidepas (Berk. & Broome) Corner SPECIES
 
 #### Status
 ACCEPTED

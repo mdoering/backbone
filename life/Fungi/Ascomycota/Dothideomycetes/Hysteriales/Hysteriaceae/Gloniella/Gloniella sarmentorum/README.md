@@ -1,5 +1,4 @@
-Gloniella sarmentorum Rehm SPECIES
-=======
+# Gloniella sarmentorum Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaptchaica P.N. Kolosov, 1975 GENUS
-=======
+# Chaptchaica P.N. Kolosov, 1975 GENUS
 
 #### Status
 ACCEPTED

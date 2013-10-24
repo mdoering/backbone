@@ -1,17 +1,16 @@
-Leptonia pyrospila var. pyrospila VARIETY
-=======
+# Entoloma exile (Fr.) Hesler, 1967 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 43: 298 (1960)
+Nova Hedwigia, Beih. 23: 178 (1967)
 
 #### Original name
-Leptonia pyrospila var. pyrospila
+Agaricus exilis Fr., 1818
 
 ### Remarks
 null

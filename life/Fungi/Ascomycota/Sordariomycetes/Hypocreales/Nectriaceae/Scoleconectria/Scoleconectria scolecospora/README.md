@@ -1,5 +1,4 @@
-Scoleconectria scolecospora (Bref.) Seaver SPECIES
-=======
+# Scoleconectria scolecospora (Bref.) Seaver SPECIES
 
 #### Status
 ACCEPTED

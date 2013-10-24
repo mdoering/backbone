@@ -1,5 +1,4 @@
-Neocallimastix variabilis Y.W. Ho & D.J.S. Barr, 1993 SPECIES
-=======
+# Neocallimastix variabilis Y.W. Ho & D.J.S. Barr, 1993 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypomyces parvisporus (G. Winter) Höhn. ex Weese SPECIES
-=======
+# Hypomyces parvisporus (G. Winter) Höhn. ex Weese SPECIES
 
 #### Status
 ACCEPTED

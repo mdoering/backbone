@@ -1,14 +1,13 @@
-Penicillium sacculum E. Dale, 1927 SPECIES
-=======
+# Eladia saccula (E. Dale) G. Sm., 1961 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 25(1/2): 137 (1927)
+Trans. Br. mycol. Soc. 44: 47 (1961)
 
 #### Original name
 Penicillium sacculum E. Dale, 1927

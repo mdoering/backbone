@@ -1,5 +1,4 @@
-Aegeritoidea ined. GENUS
-=======
+# Aegeritoidea ined. GENUS
 
 #### Status
 ACCEPTED

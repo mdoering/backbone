@@ -1,5 +1,4 @@
-Hematodinium perezii Chatton & Poisson SPECIES
-=======
+# Hematodinium perezii Chatton & Poisson SPECIES
 
 #### Status
 ACCEPTED

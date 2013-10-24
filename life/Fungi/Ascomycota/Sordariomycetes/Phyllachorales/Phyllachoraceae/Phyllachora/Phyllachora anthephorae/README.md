@@ -1,5 +1,4 @@
-Phyllachora anthephorae Syd. & P. Syd., 1915 SPECIES
-=======
+# Phyllachora anthephorae Syd. & P. Syd., 1915 SPECIES
 
 #### Status
 ACCEPTED

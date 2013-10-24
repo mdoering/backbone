@@ -1,5 +1,4 @@
-Cortinarius subgrisescens Bidaud, Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius subgrisescens Bidaud, Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

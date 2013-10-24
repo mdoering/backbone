@@ -1,5 +1,4 @@
-Micropeltis bambusina Höhn. SPECIES
-=======
+# Micropeltis bambusina Höhn. SPECIES
 
 #### Status
 ACCEPTED

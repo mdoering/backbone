@@ -1,5 +1,4 @@
-Diplodia cesarorum Fuckel SPECIES
-=======
+# Diplodia cesarorum Fuckel SPECIES
 
 #### Status
 ACCEPTED

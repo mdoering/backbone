@@ -1,5 +1,4 @@
-Leptosphaeria oreophiloides Sacc. & Penz. SPECIES
-=======
+# Leptosphaeria oreophiloides Sacc. & Penz. SPECIES
 
 #### Status
 ACCEPTED

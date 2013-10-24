@@ -1,5 +1,4 @@
-Cercospora usteriana Speg. SPECIES
-=======
+# Cercospora usteriana Speg. SPECIES
 
 #### Status
 ACCEPTED

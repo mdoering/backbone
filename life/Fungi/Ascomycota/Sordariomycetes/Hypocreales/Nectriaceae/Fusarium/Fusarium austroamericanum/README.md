@@ -1,5 +1,4 @@
-Fusarium austroamericanum T. Aoki, Kistler, Geiser & O'Donnell, 2004 SPECIES
-=======
+# Fusarium austroamericanum T. Aoki, Kistler, Geiser & O'Donnell, 2004 SPECIES
 
 #### Status
 ACCEPTED

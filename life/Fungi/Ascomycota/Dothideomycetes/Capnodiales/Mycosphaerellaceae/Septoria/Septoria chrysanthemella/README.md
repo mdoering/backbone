@@ -1,17 +1,16 @@
-Septoria rostrupii Sacc. & P. Syd., 1899 SPECIES
-=======
+# Septoria chrysanthemella Cavara, 1895 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 14(2): 973 (1899)
+Syll. fung. (Abellini) 11: 542 (1895)
 
 #### Original name
-Septoria rostrupii Sacc. & P. Syd., 1899
+Septoria chrysanthemella Cavara, 1895
 
 ### Remarks
 null

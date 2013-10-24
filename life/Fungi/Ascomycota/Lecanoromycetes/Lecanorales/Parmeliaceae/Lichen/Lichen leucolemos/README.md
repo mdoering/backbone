@@ -1,5 +1,4 @@
-Lichen leucolemos L. SPECIES
-=======
+# Lichen leucolemos L. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aposphaeria sequoiae Lind SPECIES
-=======
+# Aposphaeria sequoiae Lind SPECIES
 
 #### Status
 ACCEPTED

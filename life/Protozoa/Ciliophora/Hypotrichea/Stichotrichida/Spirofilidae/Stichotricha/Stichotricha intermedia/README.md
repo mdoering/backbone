@@ -1,5 +1,4 @@
-Stichotricha intermedia Froud, 1949 SPECIES
-=======
+# Stichotricha intermedia Froud, 1949 SPECIES
 
 #### Status
 ACCEPTED

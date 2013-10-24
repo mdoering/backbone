@@ -1,5 +1,4 @@
-Fusarium lucidum Sherb. SPECIES
-=======
+# Fusarium lucidum Sherb. SPECIES
 
 #### Status
 ACCEPTED

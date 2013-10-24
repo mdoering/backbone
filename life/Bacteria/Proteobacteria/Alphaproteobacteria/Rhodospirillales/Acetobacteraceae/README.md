@@ -1,5 +1,4 @@
-Acetobacteraceae FAMILY
-=======
+# Acetobacteraceae FAMILY
 
 #### Status
 ACCEPTED

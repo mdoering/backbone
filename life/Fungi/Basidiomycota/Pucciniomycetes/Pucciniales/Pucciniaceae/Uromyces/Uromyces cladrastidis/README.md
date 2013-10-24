@@ -1,5 +1,4 @@
-Uromyces cladrastidis Kusano SPECIES
-=======
+# Uromyces cladrastidis Kusano SPECIES
 
 #### Status
 ACCEPTED

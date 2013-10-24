@@ -1,5 +1,4 @@
-Bovista ruizii Herrera {?} SPECIES
-=======
+# Bovista ruizii Herrera {?} SPECIES
 
 #### Status
 ACCEPTED

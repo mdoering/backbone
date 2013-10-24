@@ -1,5 +1,4 @@
-Phyllerium palaeocassiae Ettingsh. SPECIES
-=======
+# Phyllerium palaeocassiae Ettingsh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Strombidinopsis sphaira Lynn, Montagnes, Dale, Gilron & Strom, 1991 SPECIES
-=======
+# Strombidinopsis sphaira Lynn, Montagnes, Dale, Gilron & Strom, 1991 SPECIES
 
 #### Status
 ACCEPTED

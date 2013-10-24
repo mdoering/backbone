@@ -1,5 +1,4 @@
-Uredo leersiae Gjaerum SPECIES
-=======
+# Uredo leersiae Gjaerum SPECIES
 
 #### Status
 ACCEPTED

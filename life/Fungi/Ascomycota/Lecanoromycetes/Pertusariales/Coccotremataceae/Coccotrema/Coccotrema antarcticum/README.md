@@ -1,5 +1,4 @@
-Coccotrema antarcticum Müll. Arg. SPECIES
-=======
+# Coccotrema antarcticum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xylaria hemiglossa Pat. SPECIES
-=======
+# Xylaria hemiglossa Pat. SPECIES
 
 #### Status
 ACCEPTED

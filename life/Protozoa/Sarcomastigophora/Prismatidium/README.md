@@ -1,5 +1,4 @@
-Prismatidium Haeckel, 1881 GENUS
-=======
+# Prismatidium Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

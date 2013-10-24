@@ -1,5 +1,4 @@
-Strobilidium syowaensis Hada, 1970 SPECIES
-=======
+# Strobilidium syowaensis Hada, 1970 SPECIES
 
 #### Status
 ACCEPTED

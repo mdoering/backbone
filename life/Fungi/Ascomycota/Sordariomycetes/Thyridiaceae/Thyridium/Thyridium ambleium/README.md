@@ -1,5 +1,4 @@
-Thyridium ambleium (Cooke & Ellis) Sacc. SPECIES
-=======
+# Thyridium ambleium (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

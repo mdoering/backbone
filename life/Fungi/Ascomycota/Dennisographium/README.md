@@ -1,5 +1,4 @@
-Dennisographium Rifai GENUS
-=======
+# Dennisographium Rifai GENUS
 
 #### Status
 ACCEPTED

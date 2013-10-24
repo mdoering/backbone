@@ -1,5 +1,4 @@
-Pseudocyphellaria hirsutula D.J. Galloway & P. James SPECIES
-=======
+# Pseudocyphellaria hirsutula D.J. Galloway & P. James SPECIES
 
 #### Status
 ACCEPTED

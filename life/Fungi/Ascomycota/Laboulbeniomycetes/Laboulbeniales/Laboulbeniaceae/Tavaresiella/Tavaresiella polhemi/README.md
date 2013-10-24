@@ -1,5 +1,4 @@
-Tavaresiella polhemi R.K. Benj., 1993 SPECIES
-=======
+# Tavaresiella polhemi R.K. Benj., 1993 SPECIES
 
 #### Status
 ACCEPTED

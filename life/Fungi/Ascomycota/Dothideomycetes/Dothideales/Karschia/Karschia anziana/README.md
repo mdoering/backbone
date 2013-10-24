@@ -1,5 +1,4 @@
-Karschia anziana (Rehm) Vouaux SPECIES
-=======
+# Karschia anziana (Rehm) Vouaux SPECIES
 
 #### Status
 ACCEPTED

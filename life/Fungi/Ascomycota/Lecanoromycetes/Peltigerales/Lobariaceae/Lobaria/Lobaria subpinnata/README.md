@@ -1,5 +1,4 @@
-Lobaria subpinnata A.L. Sm. SPECIES
-=======
+# Lobaria subpinnata A.L. Sm. SPECIES
 
 #### Status
 ACCEPTED

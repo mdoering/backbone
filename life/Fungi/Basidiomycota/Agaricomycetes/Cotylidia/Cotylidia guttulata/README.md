@@ -1,17 +1,16 @@
-Cotylidia muscigena f. guttulata (Rémy) P.A. Moreau, Wuilb. & Courtec., 2008 FORM
-=======
+# Cotylidia guttulata L. Remy, 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. trimest. Soc. mycol. Fr. 80(4): 579 (1965)
 
 #### Original name
-null
+Cotylidia guttulata L. Remy, 1965
 
 ### Remarks
 null

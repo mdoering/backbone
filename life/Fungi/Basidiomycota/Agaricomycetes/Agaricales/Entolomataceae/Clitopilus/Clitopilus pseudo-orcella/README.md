@@ -1,5 +1,4 @@
-Clitopilus pseudo-orcella (Fr.) Sacc. SPECIES
-=======
+# Clitopilus pseudo-orcella (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

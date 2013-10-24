@@ -1,5 +1,4 @@
-Tremella miliaria Schrank SPECIES
-=======
+# Tremella miliaria Schrank SPECIES
 
 #### Status
 ACCEPTED

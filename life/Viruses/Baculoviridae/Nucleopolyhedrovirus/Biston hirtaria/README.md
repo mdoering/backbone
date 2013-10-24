@@ -1,5 +1,4 @@
-Biston hirtaria Npv SPECIES
-=======
+# Biston hirtaria Npv SPECIES
 
 #### Status
 ACCEPTED

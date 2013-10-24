@@ -1,5 +1,4 @@
-Lachnea cinerella Rehm SPECIES
-=======
+# Lachnea cinerella Rehm SPECIES
 
 #### Status
 ACCEPTED

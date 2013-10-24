@@ -1,5 +1,4 @@
-Alveosphaera densiporata Priewalder, 1987 SPECIES
-=======
+# Alveosphaera densiporata Priewalder, 1987 SPECIES
 
 #### Status
 ACCEPTED

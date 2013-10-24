@@ -1,5 +1,4 @@
-Lactarius livescens Pass. SPECIES
-=======
+# Lactarius livescens Pass. SPECIES
 
 #### Status
 ACCEPTED

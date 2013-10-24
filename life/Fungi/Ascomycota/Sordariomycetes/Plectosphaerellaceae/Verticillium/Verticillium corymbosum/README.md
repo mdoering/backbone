@@ -1,5 +1,4 @@
-Verticillium corymbosum Lebert SPECIES
-=======
+# Verticillium corymbosum Lebert SPECIES
 
 #### Status
 ACCEPTED

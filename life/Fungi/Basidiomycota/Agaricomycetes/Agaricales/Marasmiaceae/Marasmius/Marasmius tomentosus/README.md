@@ -1,5 +1,4 @@
-Marasmius tomentosus Quél. SPECIES
-=======
+# Marasmius tomentosus Quél. SPECIES
 
 #### Status
 ACCEPTED

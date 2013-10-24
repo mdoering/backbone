@@ -1,5 +1,4 @@
-Pyrenula chlorospila var. chlorospila (Nyl.) Arnold VARIETY
-=======
+# Pyrenula chlorospila (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Flora, Jena 70: 155 (1887)
 
 #### Original name
-Pyrenula chlorospila var. chlorospila (Nyl.) Arnold
+Verrucaria chlorospila Nyl.
 
 ### Remarks
 null

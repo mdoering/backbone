@@ -1,5 +1,4 @@
-Bryopogon sorediosus SPECIES
-=======
+# Bryopogon sorediosus SPECIES
 
 #### Status
 ACCEPTED

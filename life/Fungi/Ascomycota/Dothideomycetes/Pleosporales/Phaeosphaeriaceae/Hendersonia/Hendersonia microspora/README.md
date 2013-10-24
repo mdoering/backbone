@@ -1,5 +1,4 @@
-Hendersonia microspora Massee SPECIES
-=======
+# Hendersonia microspora Massee SPECIES
 
 #### Status
 ACCEPTED

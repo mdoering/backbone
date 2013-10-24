@@ -1,5 +1,4 @@
-Arthonia biformis var. biformis VARIETY
-=======
+# Arthonia biformis (Flörke) Schaer. SPECIES
 
 #### Status
 ACCEPTED

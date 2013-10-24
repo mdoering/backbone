@@ -1,5 +1,4 @@
-Medousapalla Wood & Clendening, 1982 GENUS
-=======
+# Medousapalla Wood & Clendening, 1982 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Epicoccum equiseti Berk., 1860 SPECIES
-=======
+# Epicoccum equiseti Berk., 1860 SPECIES
 
 #### Status
 ACCEPTED

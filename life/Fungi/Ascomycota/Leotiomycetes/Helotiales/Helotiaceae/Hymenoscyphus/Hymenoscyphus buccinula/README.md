@@ -1,5 +1,4 @@
-Hymenoscyphus buccinula (Speg.) Gamundí & Giaiotti SPECIES
-=======
+# Hymenoscyphus buccinula (Speg.) Gamundí & Giaiotti SPECIES
 
 #### Status
 ACCEPTED

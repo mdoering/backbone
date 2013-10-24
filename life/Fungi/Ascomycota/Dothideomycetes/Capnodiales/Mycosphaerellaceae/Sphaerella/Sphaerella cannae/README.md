@@ -1,5 +1,4 @@
-Sphaerella cannae Speg. SPECIES
-=======
+# Sphaerella cannae Speg. SPECIES
 
 #### Status
 ACCEPTED

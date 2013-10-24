@@ -1,5 +1,4 @@
-Asterinula GENUS
-=======
+# Asterinula GENUS
 
 #### Status
 ACCEPTED

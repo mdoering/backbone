@@ -1,5 +1,4 @@
-Phomatospora wistariae Ellis & Everh. SPECIES
-=======
+# Phomatospora wistariae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

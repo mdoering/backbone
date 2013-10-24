@@ -1,5 +1,4 @@
-Psoroma buchananii (C. Knight) Nyl. SPECIES
-=======
+# Psoroma buchananii (C. Knight) Nyl. SPECIES
 
 #### Status
 ACCEPTED

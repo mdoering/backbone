@@ -1,17 +1,16 @@
-Tetrapisispora namnaonensis Sumpr., Limtong, Yongman., H. Kawas. & Tats. Seki SPECIES
-=======
+# Tetrapisispora namnaoensis Sumpr., Limtong, Yongman., H. Kawas. & Tats. Seki, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Int. J. Syst. Evol. Microbiol. 55(4): 1737 (2005)
 
 #### Original name
-Tetrapisispora namnaonensis Sumpr., Limtong, Yongman., H. Kawas. & Tats. Seki
+Tetrapisispora namnaoensis Sumpr., Limtong, Yongman., H. Kawas. & Tats. Seki, 2005
 
 ### Remarks
 null

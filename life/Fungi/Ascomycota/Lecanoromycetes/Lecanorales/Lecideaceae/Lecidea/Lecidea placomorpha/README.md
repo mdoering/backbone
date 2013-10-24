@@ -1,5 +1,4 @@
-Lecidea placomorpha Stirt. SPECIES
-=======
+# Lecidea placomorpha Stirt. SPECIES
 
 #### Status
 ACCEPTED

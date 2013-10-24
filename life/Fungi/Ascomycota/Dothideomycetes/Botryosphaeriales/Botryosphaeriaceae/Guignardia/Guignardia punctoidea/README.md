@@ -1,14 +1,13 @@
-Phyllachora punctoidea (Cooke) Höhn., 1918 SPECIES
-=======
+# Guignardia punctoidea (Cooke) J. Schröt., 1894 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 16(1/2): 47 (1918)
+in Cohn, Krypt. -Fl. Schlesien (Breslau) 3. 2(3): 329 (1894)
 
 #### Original name
 Sphaerella punctoidea Cooke, 1871

@@ -1,5 +1,4 @@
-Pertusaria oleae Zschacke SPECIES
-=======
+# Pertusaria oleae Zschacke SPECIES
 
 #### Status
 ACCEPTED

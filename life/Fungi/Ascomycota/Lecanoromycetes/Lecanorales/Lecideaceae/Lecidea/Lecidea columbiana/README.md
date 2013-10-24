@@ -1,5 +1,4 @@
-Lecidea columbiana H. Magn. SPECIES
-=======
+# Lecidea columbiana H. Magn. SPECIES
 
 #### Status
 ACCEPTED

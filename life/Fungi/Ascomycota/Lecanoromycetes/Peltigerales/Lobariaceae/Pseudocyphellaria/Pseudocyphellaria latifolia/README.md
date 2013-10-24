@@ -1,5 +1,4 @@
-Pseudocyphellaria latifolia (Kremp.) Follmann SPECIES
-=======
+# Pseudocyphellaria latifolia (Kremp.) Follmann SPECIES
 
 #### Status
 ACCEPTED

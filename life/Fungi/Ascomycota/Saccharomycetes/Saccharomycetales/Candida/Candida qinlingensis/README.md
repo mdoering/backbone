@@ -1,5 +1,4 @@
-Candida qinlingensis F.Y. Bai & H.Z. Lu SPECIES
-=======
+# Candida qinlingensis F.Y. Bai & H.Z. Lu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lagenosolenia amoeniformis McCulloch, 1977 SPECIES
-=======
+# Lagenosolenia amoeniformis McCulloch, 1977 SPECIES
 
 #### Status
 ACCEPTED

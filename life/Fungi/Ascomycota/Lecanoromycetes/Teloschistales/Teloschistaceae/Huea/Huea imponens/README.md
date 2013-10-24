@@ -1,5 +1,4 @@
-Huea imponens (Stizenb.) C.W. Dodge SPECIES
-=======
+# Huea imponens (Stizenb.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

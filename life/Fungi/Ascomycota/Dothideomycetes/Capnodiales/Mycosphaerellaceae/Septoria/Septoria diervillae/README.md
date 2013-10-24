@@ -1,5 +1,4 @@
-Septoria diervillae Peck SPECIES
-=======
+# Septoria diervillae Peck SPECIES
 
 #### Status
 ACCEPTED

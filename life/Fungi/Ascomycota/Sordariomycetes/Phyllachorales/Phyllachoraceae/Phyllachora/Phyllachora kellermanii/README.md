@@ -1,14 +1,13 @@
-Phyllachora kellermanni (Rehm) Arx & E. Müll. SPECIES
-=======
+# Phyllachora kellermanii (Rehm) Arx & E. Müll., 1954 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Beitr. Kryptfl. Schweiz 11(no. 1): 224 (1954)
 
 #### Original name
 Physalospora kellermanii Rehm, 1908

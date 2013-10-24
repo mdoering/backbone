@@ -1,17 +1,16 @@
-Puccinia maydis Berenger, 1844 SPECIES
-=======
+# Puccinia sorghi Schwein., 1832 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Atti Ruin. sc. ital. Milano 6: 475 (1844)
+Trans. Am. phil. Soc. , New Series 2(4): 295 (1832)
 
 #### Original name
-Puccinia maydis Berenger, 1844
+Puccinia sorghi Schwein., 1832
 
 ### Remarks
 null

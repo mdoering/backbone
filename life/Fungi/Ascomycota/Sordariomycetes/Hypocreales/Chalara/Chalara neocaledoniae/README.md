@@ -1,14 +1,13 @@
-Thielaviopsis neocaledoniae (Kiffer & Delon) A.E. Paulin, T.C. Harr. & McNew, 2002 SPECIES
-=======
+# Chalara neocaledoniae Dadant ex Kiffer & Delon, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 94(1): 70 (2002)
+Mycotaxon 18(1): 166 (1983)
 
 #### Original name
 Chalara neocaledoniae Dadant ex Kiffer & Delon, 1983

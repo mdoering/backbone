@@ -1,5 +1,4 @@
-Rhytisma seriale Schwein. SPECIES
-=======
+# Rhytisma seriale Schwein. SPECIES
 
 #### Status
 ACCEPTED

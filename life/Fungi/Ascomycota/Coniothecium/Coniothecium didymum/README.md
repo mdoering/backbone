@@ -1,5 +1,4 @@
-Coniothecium didymum Durieu & Mont. SPECIES
-=======
+# Coniothecium didymum Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Maireina amorpha W.B. Cooke SPECIES
-=======
+# Maireina amorpha W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeronaema bustinzae Unamuno SPECIES
-=======
+# Sphaeronaema bustinzae Unamuno SPECIES
 
 #### Status
 ACCEPTED

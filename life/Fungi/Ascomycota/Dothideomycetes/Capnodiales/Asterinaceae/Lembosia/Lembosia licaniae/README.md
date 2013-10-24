@@ -1,5 +1,4 @@
-Lembosia licaniae Bat. & Peres SPECIES
-=======
+# Lembosia licaniae Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

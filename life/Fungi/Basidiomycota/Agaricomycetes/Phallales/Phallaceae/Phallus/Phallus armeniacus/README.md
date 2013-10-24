@@ -1,5 +1,4 @@
-Phallus armeniacus Pat. SPECIES
-=======
+# Phallus armeniacus Pat. SPECIES
 
 #### Status
 ACCEPTED

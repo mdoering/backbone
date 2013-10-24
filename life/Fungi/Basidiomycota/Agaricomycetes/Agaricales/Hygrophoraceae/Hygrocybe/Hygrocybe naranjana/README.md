@@ -1,5 +1,4 @@
-Hygrocybe naranjana Pegler SPECIES
-=======
+# Hygrocybe naranjana Pegler SPECIES
 
 #### Status
 ACCEPTED

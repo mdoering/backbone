@@ -1,8 +1,7 @@
-Blepharisma salinarium Florentin, 1899 SPECIES
-=======
+# Blepharisma salinarum (Florentin, 1899) Kahl, 1932 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

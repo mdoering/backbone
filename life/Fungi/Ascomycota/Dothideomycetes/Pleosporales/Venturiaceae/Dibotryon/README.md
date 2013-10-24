@@ -1,5 +1,4 @@
-Dibotryon Theiss. & Syd. GENUS
-=======
+# Dibotryon Theiss. & Syd. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gomphus okapaensis Corner SPECIES
-=======
+# Gomphus okapaensis Corner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pannaria olivacea P.M. Jørg. SPECIES
-=======
+# Pannaria olivacea P.M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

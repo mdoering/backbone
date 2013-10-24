@@ -1,5 +1,4 @@
-Micropuccinia arechavaletae (Speg.) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia arechavaletae (Speg.) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

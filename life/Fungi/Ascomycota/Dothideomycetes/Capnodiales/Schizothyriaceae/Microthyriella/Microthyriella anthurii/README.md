@@ -1,5 +1,4 @@
-Microthyriella anthurii Bat. & I.H. Lima SPECIES
-=======
+# Microthyriella anthurii Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

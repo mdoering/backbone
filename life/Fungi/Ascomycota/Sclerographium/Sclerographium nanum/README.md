@@ -1,5 +1,4 @@
-Sclerographium nanum J.N. Kapoor & Munjal SPECIES
-=======
+# Sclerographium nanum J.N. Kapoor & Munjal SPECIES
 
 #### Status
 ACCEPTED

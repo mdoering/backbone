@@ -1,5 +1,4 @@
-Russula angustispora Bills SPECIES
-=======
+# Russula angustispora Bills SPECIES
 
 #### Status
 ACCEPTED

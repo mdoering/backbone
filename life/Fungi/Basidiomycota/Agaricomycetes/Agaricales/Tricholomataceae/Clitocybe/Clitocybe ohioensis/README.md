@@ -1,5 +1,4 @@
-Clitocybe ohioensis Mont. SPECIES
-=======
+# Clitocybe ohioensis Mont. SPECIES
 
 #### Status
 ACCEPTED

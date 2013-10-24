@@ -1,5 +1,4 @@
-Padangia Lange, 1925 GENUS
-=======
+# Padangia Lange, 1925 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coprinus umbrinus Cooke & Massee SPECIES
-=======
+# Coprinus umbrinus Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

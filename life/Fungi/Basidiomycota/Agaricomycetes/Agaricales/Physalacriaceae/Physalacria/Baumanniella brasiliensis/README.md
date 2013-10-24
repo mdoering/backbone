@@ -1,5 +1,4 @@
-Baumanniella brasiliensis Rick SPECIES
-=======
+# Baumanniella brasiliensis Rick SPECIES
 
 #### Status
 ACCEPTED

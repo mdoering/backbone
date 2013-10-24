@@ -1,5 +1,4 @@
-Acremoniula sarcinellae (Pat. & Har.) G. Arnaud ex Deighton, 1969 SPECIES
-=======
+# Acremoniula sarcinellae (Pat. & Har.) G. Arnaud ex Deighton, 1969 SPECIES
 
 #### Status
 ACCEPTED

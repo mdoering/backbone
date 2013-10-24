@@ -1,5 +1,4 @@
-Gibberella atrofuliginea Sacc. & Trotter SPECIES
-=======
+# Gibberella atrofuliginea Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

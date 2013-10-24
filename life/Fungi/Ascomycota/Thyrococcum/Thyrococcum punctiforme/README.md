@@ -1,5 +1,4 @@
-Thyrococcum punctiforme (Sacc.) Sacc. SPECIES
-=======
+# Thyrococcum punctiforme (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

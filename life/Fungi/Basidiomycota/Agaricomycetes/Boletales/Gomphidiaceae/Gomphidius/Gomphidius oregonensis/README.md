@@ -1,5 +1,4 @@
-Gomphidius oregonensis Peck SPECIES
-=======
+# Gomphidius oregonensis Peck SPECIES
 
 #### Status
 ACCEPTED

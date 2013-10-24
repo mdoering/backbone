@@ -1,5 +1,4 @@
-Meliola amaraliae Hansf. & Deighton SPECIES
-=======
+# Meliola amaraliae Hansf. & Deighton SPECIES
 
 #### Status
 ACCEPTED

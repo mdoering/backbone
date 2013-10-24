@@ -1,5 +1,4 @@
-Conglomeromonas largomobilis Skerman et al., 1983 SPECIES
-=======
+# Conglomeromonas largomobilis Skerman et al., 1983 SPECIES
 
 #### Status
 ACCEPTED

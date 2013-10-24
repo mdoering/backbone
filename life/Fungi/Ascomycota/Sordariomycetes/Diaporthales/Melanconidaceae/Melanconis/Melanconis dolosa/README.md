@@ -1,5 +1,4 @@
-Melanconis dolosa var. dolosa VARIETY
-=======
+# Melanconis dolosa (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Melanconis dolosa var. dolosa
+Sphaeria dolosa Fr.
 
 ### Remarks
 null

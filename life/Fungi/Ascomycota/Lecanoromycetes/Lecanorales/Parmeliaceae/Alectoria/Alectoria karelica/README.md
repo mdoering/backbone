@@ -1,5 +1,4 @@
-Alectoria karelica Räsänen SPECIES
-=======
+# Alectoria karelica Räsänen SPECIES
 
 #### Status
 ACCEPTED

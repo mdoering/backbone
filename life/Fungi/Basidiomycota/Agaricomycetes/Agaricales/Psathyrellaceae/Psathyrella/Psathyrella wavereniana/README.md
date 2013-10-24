@@ -1,5 +1,4 @@
-Psathyrella wavereniana M. Marchetti SPECIES
-=======
+# Psathyrella wavereniana M. Marchetti SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrophorus troyanus Murrill SPECIES
-=======
+# Hygrophorus troyanus Murrill SPECIES
 
 #### Status
 ACCEPTED

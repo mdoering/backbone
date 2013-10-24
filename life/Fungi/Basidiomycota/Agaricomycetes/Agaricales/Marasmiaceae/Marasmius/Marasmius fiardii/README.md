@@ -1,5 +1,4 @@
-Marasmius fiardii Singer SPECIES
-=======
+# Marasmius fiardii Singer SPECIES
 
 #### Status
 ACCEPTED

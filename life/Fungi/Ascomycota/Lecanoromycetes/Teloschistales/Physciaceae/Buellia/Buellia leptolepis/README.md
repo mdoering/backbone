@@ -1,5 +1,4 @@
-Buellia leptolepis Bagl. SPECIES
-=======
+# Buellia leptolepis Bagl. SPECIES
 
 #### Status
 ACCEPTED

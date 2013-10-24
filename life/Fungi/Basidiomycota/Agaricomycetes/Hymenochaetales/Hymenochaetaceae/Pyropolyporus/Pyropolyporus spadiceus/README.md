@@ -1,5 +1,4 @@
-Pyropolyporus spadiceus (Berk.) Teng SPECIES
-=======
+# Pyropolyporus spadiceus (Berk.) Teng SPECIES
 
 #### Status
 ACCEPTED

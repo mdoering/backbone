@@ -1,5 +1,4 @@
-Eofabiania Küpper, 1955 GENUS
-=======
+# Eofabiania Küpper, 1955 GENUS
 
 #### Status
 ACCEPTED

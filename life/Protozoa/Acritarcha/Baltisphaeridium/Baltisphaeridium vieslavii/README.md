@@ -1,5 +1,4 @@
-Baltisphaeridium vieslavii Górka, 1980 SPECIES
-=======
+# Baltisphaeridium vieslavii Górka, 1980 SPECIES
 
 #### Status
 ACCEPTED

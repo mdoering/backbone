@@ -1,5 +1,4 @@
-Junewangia W.A. Baker & Morgan-Jones GENUS
-=======
+# Junewangia W.A. Baker & Morgan-Jones GENUS
 
 #### Status
 ACCEPTED

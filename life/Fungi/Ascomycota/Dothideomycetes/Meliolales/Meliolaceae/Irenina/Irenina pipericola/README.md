@@ -1,5 +1,4 @@
-Irenina pipericola Hansf. SPECIES
-=======
+# Irenina pipericola Hansf. SPECIES
 
 #### Status
 ACCEPTED

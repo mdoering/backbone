@@ -1,5 +1,4 @@
-Stropholoma rubrococcineum (Balletto) Balletto SPECIES
-=======
+# Stropholoma rubrococcineum (Balletto) Balletto SPECIES
 
 #### Status
 ACCEPTED

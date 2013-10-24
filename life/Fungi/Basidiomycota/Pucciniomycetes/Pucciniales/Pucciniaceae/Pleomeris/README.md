@@ -1,5 +1,4 @@
-Pleomeris GENUS
-=======
+# Pleomeris GENUS
 
 #### Status
 ACCEPTED

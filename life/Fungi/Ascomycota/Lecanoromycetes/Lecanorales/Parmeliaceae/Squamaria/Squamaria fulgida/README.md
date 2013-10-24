@@ -1,5 +1,4 @@
-Squamaria fulgida (Nyl.) H. Olivier SPECIES
-=======
+# Squamaria fulgida (Nyl.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

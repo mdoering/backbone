@@ -1,5 +1,4 @@
-Ampullifera pachyanthicola W.B. Kendr. & R.F. Castañeda SPECIES
-=======
+# Ampullifera pachyanthicola W.B. Kendr. & R.F. Castañeda SPECIES
 
 #### Status
 ACCEPTED

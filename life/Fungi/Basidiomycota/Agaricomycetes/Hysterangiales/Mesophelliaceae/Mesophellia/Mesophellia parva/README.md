@@ -1,5 +1,4 @@
-Mesophellia parva Trappe, Castellano & Malajczuk, 1996 SPECIES
-=======
+# Mesophellia parva Trappe, Castellano & Malajczuk, 1996 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta nepetae Gucevic SPECIES
-=======
+# Phyllosticta nepetae Gucevic SPECIES
 
 #### Status
 ACCEPTED

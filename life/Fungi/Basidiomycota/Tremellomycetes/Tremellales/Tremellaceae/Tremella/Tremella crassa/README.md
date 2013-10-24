@@ -1,5 +1,4 @@
-Tremella crassa Lloyd SPECIES
-=======
+# Tremella crassa Lloyd SPECIES
 
 #### Status
 ACCEPTED

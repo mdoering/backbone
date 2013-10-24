@@ -1,5 +1,4 @@
-Polyporus hystriculus Cooke SPECIES
-=======
+# Polyporus hystriculus Cooke SPECIES
 
 #### Status
 ACCEPTED

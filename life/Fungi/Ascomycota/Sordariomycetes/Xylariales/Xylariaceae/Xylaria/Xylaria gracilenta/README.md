@@ -1,5 +1,4 @@
-Xylaria gracilenta Syd. SPECIES
-=======
+# Xylaria gracilenta Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lagena acuticosta SPECIES
-=======
+# Lagena acuticosta SPECIES
 
 #### Status
 ACCEPTED

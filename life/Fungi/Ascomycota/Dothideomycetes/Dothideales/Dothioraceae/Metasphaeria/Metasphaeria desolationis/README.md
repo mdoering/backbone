@@ -1,5 +1,4 @@
-Metasphaeria desolationis Rehm SPECIES
-=======
+# Metasphaeria desolationis Rehm SPECIES
 
 #### Status
 ACCEPTED

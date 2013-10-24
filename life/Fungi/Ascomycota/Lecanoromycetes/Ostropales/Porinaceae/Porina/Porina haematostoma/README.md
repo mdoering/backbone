@@ -1,5 +1,4 @@
-Porina haematostoma Müll. Arg. SPECIES
-=======
+# Porina haematostoma Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

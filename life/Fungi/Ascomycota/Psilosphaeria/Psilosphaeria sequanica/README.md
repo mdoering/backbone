@@ -1,5 +1,4 @@
-Psilosphaeria sequanica (Sacc. & Malbr.) Cooke SPECIES
-=======
+# Psilosphaeria sequanica (Sacc. & Malbr.) Cooke SPECIES
 
 #### Status
 ACCEPTED

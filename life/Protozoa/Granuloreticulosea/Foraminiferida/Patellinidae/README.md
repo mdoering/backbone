@@ -1,5 +1,4 @@
-Patellinidae FAMILY
-=======
+# Patellinidae FAMILY
 
 #### Status
 ACCEPTED

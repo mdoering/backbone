@@ -1,5 +1,4 @@
-Lachnum radiatum Issh. Tanaka & Hosoya SPECIES
-=======
+# Lachnum radiatum Issh. Tanaka & Hosoya SPECIES
 
 #### Status
 ACCEPTED

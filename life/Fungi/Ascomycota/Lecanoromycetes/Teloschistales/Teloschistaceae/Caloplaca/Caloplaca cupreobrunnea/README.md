@@ -1,5 +1,4 @@
-Caloplaca cupreobrunnea Poelt & Hinter. SPECIES
-=======
+# Caloplaca cupreobrunnea Poelt & Hinter. SPECIES
 
 #### Status
 ACCEPTED

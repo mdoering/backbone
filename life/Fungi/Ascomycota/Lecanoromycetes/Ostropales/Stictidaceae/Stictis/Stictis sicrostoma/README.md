@@ -1,5 +1,4 @@
-Stictis sicrostoma Carmich. SPECIES
-=======
+# Stictis sicrostoma Carmich. SPECIES
 
 #### Status
 ACCEPTED

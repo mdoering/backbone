@@ -1,5 +1,4 @@
-Ptychostomum magnum SPECIES
-=======
+# Ptychostomum magnum SPECIES
 
 #### Status
 ACCEPTED

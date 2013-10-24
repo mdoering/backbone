@@ -1,5 +1,4 @@
-Monoicomyces nigrescens Thaxt., 1900 SPECIES
-=======
+# Monoicomyces nigrescens Thaxt., 1900 SPECIES
 
 #### Status
 ACCEPTED

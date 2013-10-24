@@ -1,5 +1,4 @@
-Heteropatella viburni Dearn. & Bisby SPECIES
-=======
+# Heteropatella viburni Dearn. & Bisby SPECIES
 
 #### Status
 ACCEPTED

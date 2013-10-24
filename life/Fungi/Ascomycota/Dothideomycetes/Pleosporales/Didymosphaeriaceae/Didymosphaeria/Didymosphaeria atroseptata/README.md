@@ -1,5 +1,4 @@
-Didymosphaeria atroseptata Piroz. SPECIES
-=======
+# Didymosphaeria atroseptata Piroz. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora indigoferae Ragunathan & K. Ramakr. SPECIES
-=======
+# Cercospora indigoferae Ragunathan & K. Ramakr. SPECIES
 
 #### Status
 ACCEPTED

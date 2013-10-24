@@ -1,17 +1,16 @@
-Spongospora subterranea f. sp FORM
-=======
+# Spongospora nasturtii M.W. Dick, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 41(4): 498 (1958)
+Straminipilous Fungi (Dordrecht) 387 (2001)
 
 #### Original name
-Spongospora subterranea f. sp
+Spongospora nasturtii M.W. Dick, 2001
 
 ### Remarks
 null

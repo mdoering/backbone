@@ -1,5 +1,4 @@
-Synchytrium batesii Karling SPECIES
-=======
+# Synchytrium batesii Karling SPECIES
 
 #### Status
 ACCEPTED

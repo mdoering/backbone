@@ -1,5 +1,4 @@
-Peronospora anagallidis J. Schröt. SPECIES
-=======
+# Peronospora anagallidis J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

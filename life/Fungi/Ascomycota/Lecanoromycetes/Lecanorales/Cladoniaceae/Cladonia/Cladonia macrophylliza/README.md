@@ -1,5 +1,4 @@
-Cladonia macrophylliza Vain. SPECIES
-=======
+# Cladonia macrophylliza Vain. SPECIES
 
 #### Status
 ACCEPTED

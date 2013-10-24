@@ -1,5 +1,4 @@
-Apioclypea phoenicicola K.D. Hyde, J. Fröhl. & Joanne E. Taylor SPECIES
-=======
+# Apioclypea phoenicicola K.D. Hyde, J. Fröhl. & Joanne E. Taylor SPECIES
 
 #### Status
 ACCEPTED

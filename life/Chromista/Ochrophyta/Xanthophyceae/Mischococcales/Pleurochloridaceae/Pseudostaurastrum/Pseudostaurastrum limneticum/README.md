@@ -1,5 +1,4 @@
-Pseudostaurastrum limneticum (Borge) Chodat SPECIES
-=======
+# Pseudostaurastrum limneticum (Borge) Chodat SPECIES
 
 #### Status
 ACCEPTED

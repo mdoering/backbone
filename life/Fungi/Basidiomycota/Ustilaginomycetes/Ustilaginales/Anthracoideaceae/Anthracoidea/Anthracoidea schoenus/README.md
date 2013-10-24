@@ -1,14 +1,13 @@
-Cintractia schoenus G. Cunn., 1928 SPECIES
-=======
+# Anthracoidea schoenus (G. Cunn.) Vánky, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. New Zealand Inst. 59: 503 (1928)
+Bot. Notiser 132(2): 225 (1979)
 
 #### Original name
 Cintractia schoenus G. Cunn., 1928

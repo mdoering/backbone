@@ -1,5 +1,4 @@
-Macrophoma commelinae Togashi SPECIES
-=======
+# Macrophoma commelinae Togashi SPECIES
 
 #### Status
 ACCEPTED

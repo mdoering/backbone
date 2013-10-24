@@ -1,5 +1,4 @@
-Guignardia quercus-ilicis Traverso SPECIES
-=======
+# Guignardia quercus-ilicis Traverso SPECIES
 
 #### Status
 ACCEPTED

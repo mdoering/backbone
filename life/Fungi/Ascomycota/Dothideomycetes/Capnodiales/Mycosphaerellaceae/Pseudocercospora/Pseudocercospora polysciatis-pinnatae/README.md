@@ -1,5 +1,4 @@
-Pseudocercospora polysciatis-pinnatae U. Braun & Mouch. SPECIES
-=======
+# Pseudocercospora polysciatis-pinnatae U. Braun & Mouch. SPECIES
 
 #### Status
 ACCEPTED

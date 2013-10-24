@@ -1,5 +1,4 @@
-Semilecanora soredians Motyka SPECIES
-=======
+# Semilecanora soredians Motyka SPECIES
 
 #### Status
 ACCEPTED

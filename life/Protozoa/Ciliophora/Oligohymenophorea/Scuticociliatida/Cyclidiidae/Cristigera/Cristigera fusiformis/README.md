@@ -1,5 +1,4 @@
-Cristigera fusiformis Penard SPECIES
-=======
+# Cristigera fusiformis Penard SPECIES
 
 #### Status
 ACCEPTED

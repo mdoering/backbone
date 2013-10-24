@@ -1,5 +1,4 @@
-Microdiplodia prunicola S. Ahmad SPECIES
-=======
+# Microdiplodia prunicola S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

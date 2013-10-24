@@ -1,5 +1,4 @@
-Cercospora cassinopsidis G. Winter SPECIES
-=======
+# Cercospora cassinopsidis G. Winter SPECIES
 
 #### Status
 ACCEPTED

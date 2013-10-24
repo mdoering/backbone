@@ -1,5 +1,4 @@
-Appendicisporonites R.K. Saxena & S. Khare GENUS
-=======
+# Appendicisporonites R.K. Saxena & S. Khare GENUS
 
 #### Status
 ACCEPTED

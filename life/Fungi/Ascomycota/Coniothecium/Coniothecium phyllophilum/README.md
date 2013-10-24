@@ -1,5 +1,4 @@
-Coniothecium phyllophilum Desm. SPECIES
-=======
+# Coniothecium phyllophilum Desm. SPECIES
 
 #### Status
 ACCEPTED

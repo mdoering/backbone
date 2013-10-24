@@ -1,8 +1,7 @@
-Leptosphaeria acorella Cooke, 1885 SPECIES
-=======
+# Metasphaeria acorella (Cooke) Berl. & Voglino, 1886 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

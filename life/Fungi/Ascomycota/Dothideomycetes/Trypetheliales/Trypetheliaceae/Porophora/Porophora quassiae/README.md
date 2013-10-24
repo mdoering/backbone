@@ -1,5 +1,4 @@
-Porophora quassiae (Fée) Spreng. SPECIES
-=======
+# Porophora quassiae (Fée) Spreng. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium macedonicum Syd. & P. Syd. SPECIES
-=======
+# Aecidium macedonicum Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

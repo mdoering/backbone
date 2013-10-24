@@ -1,5 +1,4 @@
-Stilbophoma iliensis (Kravtzev) Frolov SPECIES
-=======
+# Stilbophoma iliensis (Kravtzev) Frolov SPECIES
 
 #### Status
 ACCEPTED

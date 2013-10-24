@@ -1,5 +1,4 @@
-Septotis populiperda (Moesz & Smarods) B. Sutton SPECIES
-=======
+# Septotis populiperda (Moesz & Smarods) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

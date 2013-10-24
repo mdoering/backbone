@@ -1,5 +1,4 @@
-Chaetopotius commistum Bat. SPECIES
-=======
+# Chaetopotius commistum Bat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Omphalia thessala Maire SPECIES
-=======
+# Omphalia thessala Maire SPECIES
 
 #### Status
 ACCEPTED

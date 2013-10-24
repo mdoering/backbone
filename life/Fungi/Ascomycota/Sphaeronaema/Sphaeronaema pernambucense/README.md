@@ -1,17 +1,16 @@
-Sphaeronaema pernambucensis Poroca SPECIES
-=======
+# Sphaeronaema pernambucense Poroca SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Poroca, Bezerra & Leal, Publicações. Instituto de Micologia da Universidade de Pernambuco 683: 31 (1972)
 
 #### Original name
-Sphaeronaema pernambucensis Poroca
+Sphaeronaema pernambucense Poroca
 
 ### Remarks
 null

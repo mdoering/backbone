@@ -1,5 +1,4 @@
-Arthrinium sporophleoides Fuckel SPECIES
-=======
+# Arthrinium sporophleoides Fuckel SPECIES
 
 #### Status
 ACCEPTED

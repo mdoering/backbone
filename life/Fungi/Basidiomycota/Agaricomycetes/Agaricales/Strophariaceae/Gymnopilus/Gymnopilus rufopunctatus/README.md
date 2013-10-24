@@ -1,5 +1,4 @@
-Gymnopilus rufopunctatus (Pat. & Gaillard) Dennis SPECIES
-=======
+# Gymnopilus rufopunctatus (Pat. & Gaillard) Dennis SPECIES
 
 #### Status
 ACCEPTED

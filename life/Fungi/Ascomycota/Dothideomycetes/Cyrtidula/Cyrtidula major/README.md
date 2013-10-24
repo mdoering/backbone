@@ -1,14 +1,13 @@
-Mycoporum ptelaeodes f. majus Nyl., 1873 FORM
-=======
+# Cyrtidula major (Nyl.) Vain., 1921 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Not. Sällsk. Fauna et Fl. Fenn. Förh. 13: 344 (1871)
+Acta Soc. Fauna Flora fenn. 49(no. 2): 224 (1921)
 
 #### Original name
 Mycoporum ptelaeodes f. majus Nyl., 1873

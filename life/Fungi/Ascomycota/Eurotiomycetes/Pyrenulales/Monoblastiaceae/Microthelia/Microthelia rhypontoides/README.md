@@ -1,5 +1,4 @@
-Microthelia rhypontoides (Nyl.) Keissl. SPECIES
-=======
+# Microthelia rhypontoides (Nyl.) Keissl. SPECIES
 
 #### Status
 ACCEPTED

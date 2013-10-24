@@ -1,5 +1,4 @@
-Libertella favacea Traverso SPECIES
-=======
+# Libertella favacea Traverso SPECIES
 
 #### Status
 ACCEPTED

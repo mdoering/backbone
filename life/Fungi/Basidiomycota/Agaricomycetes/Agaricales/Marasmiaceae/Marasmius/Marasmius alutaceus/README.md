@@ -1,5 +1,4 @@
-Marasmius alutaceus Berk. & M.A. Curtis SPECIES
-=======
+# Marasmius alutaceus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

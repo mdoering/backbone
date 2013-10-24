@@ -1,5 +1,4 @@
-Pirottaea microspora E. Bommer, M. Rousseau & Sacc. SPECIES
-=======
+# Pirottaea microspora E. Bommer, M. Rousseau & Sacc. SPECIES
 
 #### Status
 ACCEPTED

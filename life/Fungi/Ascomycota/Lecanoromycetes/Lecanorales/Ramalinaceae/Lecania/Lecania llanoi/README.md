@@ -1,5 +1,4 @@
-Lecania llanoi C.W. Dodge SPECIES
-=======
+# Lecania llanoi C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

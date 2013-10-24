@@ -1,5 +1,4 @@
-Aspicilia nitellina Hue SPECIES
-=======
+# Aspicilia nitellina Hue SPECIES
 
 #### Status
 ACCEPTED

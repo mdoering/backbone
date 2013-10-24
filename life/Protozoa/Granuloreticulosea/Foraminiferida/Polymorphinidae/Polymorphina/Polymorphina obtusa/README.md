@@ -1,5 +1,4 @@
-Polymorphina obtusa d'Orbigny, 1850 SPECIES
-=======
+# Polymorphina obtusa d'Orbigny, 1850 SPECIES
 
 #### Status
 ACCEPTED

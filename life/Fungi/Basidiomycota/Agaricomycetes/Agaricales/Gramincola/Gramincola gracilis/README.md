@@ -1,5 +1,4 @@
-Gramincola gracilis Velen., 1947 SPECIES
-=======
+# Gramincola gracilis Velen., 1947 SPECIES
 
 #### Status
 ACCEPTED

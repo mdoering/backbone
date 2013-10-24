@@ -1,5 +1,4 @@
-Agaricus bicrenatus Berk. SPECIES
-=======
+# Agaricus bicrenatus Berk. SPECIES
 
 #### Status
 ACCEPTED

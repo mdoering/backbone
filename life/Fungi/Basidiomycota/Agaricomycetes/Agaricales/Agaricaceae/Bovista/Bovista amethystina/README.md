@@ -1,5 +1,4 @@
-Bovista amethystina Cooke & Massee SPECIES
-=======
+# Bovista amethystina Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora alni Chupp & H.C. Greene SPECIES
-=======
+# Cercospora alni Chupp & H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

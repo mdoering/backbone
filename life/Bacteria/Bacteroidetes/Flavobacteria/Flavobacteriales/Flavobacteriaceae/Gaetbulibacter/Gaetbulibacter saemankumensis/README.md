@@ -1,5 +1,4 @@
-Gaetbulibacter saemankumensis Jung et al., 2005 SPECIES
-=======
+# Gaetbulibacter saemankumensis Jung et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

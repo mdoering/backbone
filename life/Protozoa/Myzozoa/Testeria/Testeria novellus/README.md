@@ -1,5 +1,4 @@
-Testeria novellus Faust, 2003 SPECIES
-=======
+# Testeria novellus Faust, 2003 SPECIES
 
 #### Status
 ACCEPTED

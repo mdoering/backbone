@@ -1,5 +1,4 @@
-Armillariella melleorubens (Berk. & M.A. Curtis) Singer SPECIES
-=======
+# Armillariella melleorubens (Berk. & M.A. Curtis) Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora blechni SPECIES
-=======
+# Cercospora blechni SPECIES
 
 #### Status
 ACCEPTED

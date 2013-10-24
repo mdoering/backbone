@@ -1,5 +1,4 @@
-Ceratophyton groetlingboensis Hagenfeldt, 1989 SPECIES
-=======
+# Ceratophyton groetlingboensis Hagenfeldt, 1989 SPECIES
 
 #### Status
 ACCEPTED

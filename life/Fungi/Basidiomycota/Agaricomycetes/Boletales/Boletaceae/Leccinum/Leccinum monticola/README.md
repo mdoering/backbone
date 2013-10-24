@@ -1,5 +1,4 @@
-Leccinum monticola Halling & G.M. Muell. SPECIES
-=======
+# Leccinum monticola Halling & G.M. Muell. SPECIES
 
 #### Status
 ACCEPTED

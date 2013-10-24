@@ -1,5 +1,4 @@
-Phaeosphaeria anchiala Kohlm., Volkm.-Kohlm. & K.M. Tsui, 2005 SPECIES
-=======
+# Phaeosphaeria anchiala Kohlm., Volkm.-Kohlm. & K.M. Tsui, 2005 SPECIES
 
 #### Status
 ACCEPTED

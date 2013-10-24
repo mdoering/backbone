@@ -1,5 +1,4 @@
-Ramularia organi N.P. Golovina SPECIES
-=======
+# Ramularia organi N.P. Golovina SPECIES
 
 #### Status
 ACCEPTED

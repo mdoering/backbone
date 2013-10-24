@@ -1,5 +1,4 @@
-Auloceros Haeckel, 1887 GENUS
-=======
+# Auloceros Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

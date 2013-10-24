@@ -1,5 +1,4 @@
-Porina barbifera Lücking SPECIES
-=======
+# Porina barbifera Lücking SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Isaria arachnicida Speg. SPECIES
-=======
+# Isaria arachnicida Speg. SPECIES
 
 #### Status
 ACCEPTED

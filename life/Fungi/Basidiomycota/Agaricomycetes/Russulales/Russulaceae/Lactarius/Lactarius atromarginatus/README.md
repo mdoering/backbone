@@ -1,5 +1,4 @@
-Lactarius atromarginatus Verbeken & E. Horak SPECIES
-=======
+# Lactarius atromarginatus Verbeken & E. Horak SPECIES
 
 #### Status
 ACCEPTED

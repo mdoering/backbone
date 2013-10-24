@@ -1,5 +1,4 @@
-Marasmiellus lassei Noordel. SPECIES
-=======
+# Marasmiellus lassei Noordel. SPECIES
 
 #### Status
 ACCEPTED

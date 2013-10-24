@@ -1,5 +1,4 @@
-Atheloderma Parmasto GENUS
-=======
+# Atheloderma Parmasto GENUS
 
 #### Status
 ACCEPTED

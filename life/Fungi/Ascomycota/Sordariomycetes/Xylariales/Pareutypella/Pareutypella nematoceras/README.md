@@ -1,5 +1,4 @@
-Pareutypella nematoceras Y.M. Ju & J.D. Rogers, 1996 SPECIES
-=======
+# Pareutypella nematoceras Y.M. Ju & J.D. Rogers, 1996 SPECIES
 
 #### Status
 ACCEPTED

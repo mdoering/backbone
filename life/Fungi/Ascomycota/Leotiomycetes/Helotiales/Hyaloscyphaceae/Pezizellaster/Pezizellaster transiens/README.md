@@ -1,5 +1,4 @@
-Pezizellaster transiens Höhn. SPECIES
-=======
+# Pezizellaster transiens Höhn. SPECIES
 
 #### Status
 ACCEPTED

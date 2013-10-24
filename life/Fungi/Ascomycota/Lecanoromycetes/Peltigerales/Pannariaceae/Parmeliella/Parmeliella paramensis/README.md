@@ -1,5 +1,4 @@
-Parmeliella paramensis P.M. Jørg. & Arv. SPECIES
-=======
+# Parmeliella paramensis P.M. Jørg. & Arv. SPECIES
 
 #### Status
 ACCEPTED

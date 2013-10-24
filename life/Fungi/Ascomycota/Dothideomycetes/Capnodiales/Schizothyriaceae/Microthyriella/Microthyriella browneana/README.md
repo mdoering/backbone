@@ -1,5 +1,4 @@
-Microthyriella browneana (Sacc.) Hansf. SPECIES
-=======
+# Microthyriella browneana (Sacc.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

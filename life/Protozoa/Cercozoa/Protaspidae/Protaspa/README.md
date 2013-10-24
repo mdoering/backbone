@@ -1,17 +1,16 @@
-Protaspis Skuja, 1939 GENUS
-=======
+# Protaspa Cavalier-Smith, 2011 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-null
+Protist 162: 345.
 
 #### Original name
-null
+Protaspis Skuja, 1939
 
 ### Remarks
 null

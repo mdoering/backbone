@@ -1,5 +1,4 @@
-Dirinopsis massiliensis De Not. SPECIES
-=======
+# Dirinopsis massiliensis De Not. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria ipirangae Speg. SPECIES
-=======
+# Septoria ipirangae Speg. SPECIES
 
 #### Status
 ACCEPTED

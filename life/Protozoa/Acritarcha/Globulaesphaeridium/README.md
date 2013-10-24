@@ -1,5 +1,4 @@
-Globulaesphaeridium R.S.Tiwari & A.A.Moiz, 1971 GENUS
-=======
+# Globulaesphaeridium R.S.Tiwari & A.A.Moiz, 1971 GENUS
 
 #### Status
 ACCEPTED

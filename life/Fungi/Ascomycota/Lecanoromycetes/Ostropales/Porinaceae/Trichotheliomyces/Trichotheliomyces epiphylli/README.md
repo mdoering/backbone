@@ -1,5 +1,4 @@
-Trichotheliomyces epiphylli Cif. & Tomas. SPECIES
-=======
+# Trichotheliomyces epiphylli Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

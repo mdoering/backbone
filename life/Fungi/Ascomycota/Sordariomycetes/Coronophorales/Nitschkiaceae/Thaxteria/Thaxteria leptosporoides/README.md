@@ -1,5 +1,4 @@
-Thaxteria leptosporoides (G. Winter) Fitzp. SPECIES
-=======
+# Thaxteria leptosporoides (G. Winter) Fitzp. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lituolina irregularis SPECIES
-=======
+# Lituolina irregularis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Catillaria flavicans (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Catillaria flavicans (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Muscinupta laevis (Fr.) Redhead, Lücking & Lawrey, 2009 SPECIES
-=======
+# Cyphellostereum laeve (Fr.) D.A. Reid, 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Beih. Nova Hedwigia 18: 337 (1965)
 
 #### Original name
-null
+Cantharellus laevis Fr., 1821
 
 ### Remarks
 null

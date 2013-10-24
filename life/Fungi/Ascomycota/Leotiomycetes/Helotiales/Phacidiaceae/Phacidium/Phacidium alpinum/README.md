@@ -1,5 +1,4 @@
-Phacidium alpinum (Sacc.) E. Müll. & Arx SPECIES
-=======
+# Phacidium alpinum (Sacc.) E. Müll. & Arx SPECIES
 
 #### Status
 ACCEPTED

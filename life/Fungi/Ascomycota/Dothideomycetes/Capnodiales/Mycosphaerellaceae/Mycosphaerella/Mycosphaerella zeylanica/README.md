@@ -1,5 +1,4 @@
-Mycosphaerella zeylanica Cash SPECIES
-=======
+# Mycosphaerella zeylanica Cash SPECIES
 
 #### Status
 ACCEPTED

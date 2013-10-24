@@ -1,5 +1,4 @@
-Lecidea blepharophora (Bél.) Nyl. SPECIES
-=======
+# Lecidea blepharophora (Bél.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

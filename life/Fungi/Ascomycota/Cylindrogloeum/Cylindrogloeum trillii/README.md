@@ -1,5 +1,4 @@
-Cylindrogloeum trillii (Ellis & Everh.) Arx SPECIES
-=======
+# Cylindrogloeum trillii (Ellis & Everh.) Arx SPECIES
 
 #### Status
 ACCEPTED

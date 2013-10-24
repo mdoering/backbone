@@ -1,5 +1,4 @@
-Discula brunneotingens E.I. Meier SPECIES
-=======
+# Discula brunneotingens E.I. Meier SPECIES
 
 #### Status
 ACCEPTED

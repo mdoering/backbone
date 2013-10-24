@@ -1,5 +1,4 @@
-Ptychostomum campelomae Kozloff, 1960 SPECIES
-=======
+# Ptychostomum campelomae Kozloff, 1960 SPECIES
 
 #### Status
 ACCEPTED

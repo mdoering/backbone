@@ -1,5 +1,4 @@
-Dimerella subfallaciosa Vezda & Farkas SPECIES
-=======
+# Dimerella subfallaciosa Vezda & Farkas SPECIES
 
 #### Status
 ACCEPTED

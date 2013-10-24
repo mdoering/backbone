@@ -1,5 +1,4 @@
-Thrombium punctiforme Wallr. SPECIES
-=======
+# Thrombium punctiforme Wallr. SPECIES
 
 #### Status
 ACCEPTED

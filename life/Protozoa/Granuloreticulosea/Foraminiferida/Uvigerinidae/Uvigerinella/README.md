@@ -1,5 +1,4 @@
-Uvigerinella Cushman, 1926 GENUS
-=======
+# Uvigerinella Cushman, 1926 GENUS
 
 #### Status
 ACCEPTED

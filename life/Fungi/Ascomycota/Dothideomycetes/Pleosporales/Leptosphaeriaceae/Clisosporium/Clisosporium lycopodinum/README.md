@@ -1,5 +1,4 @@
-Clisosporium lycopodinum (Sacc. & Paol.) Kuntze SPECIES
-=======
+# Clisosporium lycopodinum (Sacc. & Paol.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora sugimotoana (Katsuki) Y.L. Guo & X.J. Liu SPECIES
-=======
+# Pseudocercospora sugimotoana (Katsuki) Y.L. Guo & X.J. Liu SPECIES
 
 #### Status
 ACCEPTED

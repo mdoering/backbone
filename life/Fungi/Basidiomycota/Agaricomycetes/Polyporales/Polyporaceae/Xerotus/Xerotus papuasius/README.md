@@ -1,5 +1,4 @@
-Xerotus papuasius Kalchbr. SPECIES
-=======
+# Xerotus papuasius Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

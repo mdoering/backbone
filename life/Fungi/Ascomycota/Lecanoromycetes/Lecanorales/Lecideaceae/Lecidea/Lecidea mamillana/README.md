@@ -1,5 +1,4 @@
-Lecidea mamillana Tuck. SPECIES
-=======
+# Lecidea mamillana Tuck. SPECIES
 
 #### Status
 ACCEPTED

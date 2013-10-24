@@ -1,14 +1,13 @@
-Gibberidea rhododendri (Niessl) Petr., 1934 SPECIES
-=======
+# Cucurbitaria rhododendri Niessl, 1872 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 32: 330 (1934)
+Bolezni rastenii 17(3-4): 165 (1928)
 
 #### Original name
 Cucurbitaria rhododendri Niessl, 1872

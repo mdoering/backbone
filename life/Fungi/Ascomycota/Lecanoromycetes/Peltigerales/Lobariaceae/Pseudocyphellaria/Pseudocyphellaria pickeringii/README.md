@@ -1,17 +1,16 @@
-Sticta flavissima var. simulans Müll. Arg. VARIETY
-=======
+# Pseudocyphellaria pickeringii (Tuck.) D. J. Galloway SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Herb. Boissier 4: 89 (1896)
+Bull. Br. Mus. nat. Hist. , Bot. 17: 218 (1988)
 
 #### Original name
-Sticta flavissima var. simulans Müll. Arg.
+Sticta pickeringii Tuck.
 
 ### Remarks
 null

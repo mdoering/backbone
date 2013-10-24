@@ -1,5 +1,4 @@
-Rigidoporus vinaceus Corner, 1987 SPECIES
-=======
+# Rigidoporus vinaceus Corner, 1987 SPECIES
 
 #### Status
 ACCEPTED

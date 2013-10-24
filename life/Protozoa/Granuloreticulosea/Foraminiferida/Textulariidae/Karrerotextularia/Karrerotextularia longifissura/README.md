@@ -1,5 +1,4 @@
-Karrerotextularia longifissura Zheng & Fu, 2001 SPECIES
-=======
+# Karrerotextularia longifissura Zheng & Fu, 2001 SPECIES
 
 #### Status
 ACCEPTED

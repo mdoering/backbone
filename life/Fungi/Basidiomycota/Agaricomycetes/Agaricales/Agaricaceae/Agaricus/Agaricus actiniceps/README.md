@@ -1,5 +1,4 @@
-Agaricus actiniceps Kalchbr. & Cooke SPECIES
-=======
+# Agaricus actiniceps Kalchbr. & Cooke SPECIES
 
 #### Status
 ACCEPTED

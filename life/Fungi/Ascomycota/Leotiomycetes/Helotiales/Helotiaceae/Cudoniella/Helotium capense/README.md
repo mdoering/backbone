@@ -1,5 +1,4 @@
-Helotium capense Kalchbr. & Cooke SPECIES
-=======
+# Helotium capense Kalchbr. & Cooke SPECIES
 
 #### Status
 ACCEPTED

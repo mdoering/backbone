@@ -1,5 +1,4 @@
-Polyporus dolosus Pers. SPECIES
-=======
+# Polyporus dolosus Pers. SPECIES
 
 #### Status
 ACCEPTED

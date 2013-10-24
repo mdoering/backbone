@@ -1,5 +1,4 @@
-Hymenagaricus ochraceoluteus D.A. Reid & Eicker SPECIES
-=======
+# Hymenagaricus ochraceoluteus D.A. Reid & Eicker SPECIES
 
 #### Status
 ACCEPTED

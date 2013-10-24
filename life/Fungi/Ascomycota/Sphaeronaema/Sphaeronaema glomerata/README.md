@@ -1,5 +1,4 @@
-Sphaeronaema glomerata Berk. & Broome SPECIES
-=======
+# Sphaeronaema glomerata Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

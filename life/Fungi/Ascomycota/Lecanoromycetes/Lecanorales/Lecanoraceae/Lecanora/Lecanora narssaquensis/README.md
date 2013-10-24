@@ -1,5 +1,4 @@
-Lecanora narssaquensis Lynge SPECIES
-=======
+# Lecanora narssaquensis Lynge SPECIES
 
 #### Status
 ACCEPTED

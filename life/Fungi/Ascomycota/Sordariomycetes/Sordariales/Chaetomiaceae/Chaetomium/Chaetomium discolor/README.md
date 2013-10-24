@@ -1,5 +1,4 @@
-Chaetomium discolor Starbäck SPECIES
-=======
+# Chaetomium discolor Starbäck SPECIES
 
 #### Status
 ACCEPTED

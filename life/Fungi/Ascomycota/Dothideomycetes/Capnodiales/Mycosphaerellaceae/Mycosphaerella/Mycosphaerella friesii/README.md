@@ -1,5 +1,4 @@
-Mycosphaerella friesii Tomilin SPECIES
-=======
+# Mycosphaerella friesii Tomilin SPECIES
 
 #### Status
 ACCEPTED

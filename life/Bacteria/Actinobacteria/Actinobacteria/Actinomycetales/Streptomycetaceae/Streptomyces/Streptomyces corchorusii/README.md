@@ -1,5 +1,4 @@
-Streptomyces corchorusii Ahmad and Bhuiyan, 1958 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces corchorusii Ahmad and Bhuiyan, 1958 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phacus carinatus Pochmann SPECIES
-=======
+# Phacus carinatus Pochmann SPECIES
 
 #### Status
 ACCEPTED

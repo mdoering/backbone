@@ -1,5 +1,4 @@
-Rinodina magnussoniana Reichert & Galun SPECIES
-=======
+# Rinodina magnussoniana Reichert & Galun SPECIES
 
 #### Status
 ACCEPTED

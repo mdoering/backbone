@@ -1,8 +1,7 @@
-Podaxon schweinfurthii Pat. SPECIES
-=======
+# Podaxis schweinfurthii Pat. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Podaxon schweinfurthii Pat.
+Podaxis schweinfurthii Pat.
 
 ### Remarks
 null

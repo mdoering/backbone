@@ -1,5 +1,4 @@
-Cyphella rosicola Pilát SPECIES
-=======
+# Cyphella rosicola Pilát SPECIES
 
 #### Status
 ACCEPTED

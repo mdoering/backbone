@@ -1,5 +1,4 @@
-Catenochytridium kevorkianii Sparrow, 1952 SPECIES
-=======
+# Catenochytridium kevorkianii Sparrow, 1952 SPECIES
 
 #### Status
 ACCEPTED

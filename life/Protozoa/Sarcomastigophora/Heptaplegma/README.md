@@ -1,5 +1,4 @@
-Heptaplegma Haeckel, 1887 GENUS
-=======
+# Heptaplegma Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

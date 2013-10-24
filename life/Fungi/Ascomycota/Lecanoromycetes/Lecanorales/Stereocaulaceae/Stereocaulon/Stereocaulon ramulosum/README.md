@@ -1,5 +1,4 @@
-Stereocaulon ramulosum var. ramulosum VARIETY
-=======
+# Stereocaulon ramulosum Räuschel SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Nomenclat. bot. , Edn 3 328 (1797)
 
 #### Original name
-Stereocaulon ramulosum var. ramulosum
+Lichen ramulosus With.
 
 ### Remarks
 null

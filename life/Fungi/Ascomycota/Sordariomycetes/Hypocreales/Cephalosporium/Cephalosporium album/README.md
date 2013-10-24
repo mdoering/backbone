@@ -1,5 +1,4 @@
-Cephalosporium album Preuss SPECIES
-=======
+# Cephalosporium album Preuss SPECIES
 
 #### Status
 ACCEPTED

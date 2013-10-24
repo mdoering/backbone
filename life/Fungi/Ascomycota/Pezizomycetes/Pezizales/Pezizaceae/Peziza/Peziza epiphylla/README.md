@@ -1,5 +1,4 @@
-Peziza epiphylla var. epiphylla Pers. VARIETY
-=======
+# Peziza epiphylla Schumach. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Tent. disp. meth. fung. (Lipsiae) 72 (1797)
+Enum. pl. (Kjbenhavn) 2: 428 (1803)
 
 #### Original name
-Peziza epiphylla var. epiphylla Pers.
+Peziza epiphylla Schumach.
 
 ### Remarks
 null

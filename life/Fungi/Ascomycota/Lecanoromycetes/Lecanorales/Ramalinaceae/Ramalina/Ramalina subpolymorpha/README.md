@@ -1,5 +1,4 @@
-Ramalina subpolymorpha Werner SPECIES
-=======
+# Ramalina subpolymorpha Werner SPECIES
 
 #### Status
 ACCEPTED

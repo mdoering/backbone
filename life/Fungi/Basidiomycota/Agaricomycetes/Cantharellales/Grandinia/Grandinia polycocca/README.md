@@ -1,5 +1,4 @@
-Grandinia polycocca (Mont.) Mont. SPECIES
-=======
+# Grandinia polycocca (Mont.) Mont. SPECIES
 
 #### Status
 ACCEPTED

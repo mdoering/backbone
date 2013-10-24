@@ -1,5 +1,4 @@
-Rutstroemia alni L. Remy SPECIES
-=======
+# Rutstroemia alni L. Remy SPECIES
 
 #### Status
 ACCEPTED

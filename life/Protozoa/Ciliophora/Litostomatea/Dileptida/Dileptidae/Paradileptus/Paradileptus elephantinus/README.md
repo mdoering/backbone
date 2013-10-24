@@ -1,8 +1,7 @@
-Pelagodileptus elephantinus Svec SPECIES
-=======
+# Paradileptus elephantinus (Svec, 1897) Kahl, 1931 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

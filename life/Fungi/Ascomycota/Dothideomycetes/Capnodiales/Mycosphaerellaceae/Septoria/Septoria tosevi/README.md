@@ -1,5 +1,4 @@
-Septoria tosevi Bubák SPECIES
-=======
+# Septoria tosevi Bubák SPECIES
 
 #### Status
 ACCEPTED

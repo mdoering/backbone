@@ -1,5 +1,4 @@
-Uncinula heliciformis Howe SPECIES
-=======
+# Uncinula heliciformis Howe SPECIES
 
 #### Status
 ACCEPTED

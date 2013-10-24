@@ -1,5 +1,4 @@
-Hypoxylon terricola J.H. Mill. SPECIES
-=======
+# Hypoxylon terricola J.H. Mill. SPECIES
 
 #### Status
 ACCEPTED

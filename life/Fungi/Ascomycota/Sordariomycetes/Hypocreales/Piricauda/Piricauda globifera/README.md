@@ -1,5 +1,4 @@
-Piricauda globifera (Berk. & M.A. Curtis) R.T. Moore SPECIES
-=======
+# Piricauda globifera (Berk. & M.A. Curtis) R.T. Moore SPECIES
 
 #### Status
 ACCEPTED

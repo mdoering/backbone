@@ -1,5 +1,4 @@
-Cladonia incerta S. Hammer SPECIES
-=======
+# Cladonia incerta S. Hammer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pithomyces pavgii (V.R. Nath) M.E. Palm, E.L. Stewart & Rossman SPECIES
-=======
+# Pithomyces pavgii (V.R. Nath) M.E. Palm, E.L. Stewart & Rossman SPECIES
 
 #### Status
 ACCEPTED

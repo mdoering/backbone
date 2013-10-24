@@ -1,5 +1,4 @@
-Phyllosticta elaeocarpi Sawada SPECIES
-=======
+# Phyllosticta elaeocarpi Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelotrema saxatile C. Knight SPECIES
-=======
+# Thelotrema saxatile C. Knight SPECIES
 
 #### Status
 ACCEPTED

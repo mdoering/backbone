@@ -1,5 +1,4 @@
-Mycoderma lafarii Janke SPECIES
-=======
+# Mycoderma lafarii Janke SPECIES
 
 #### Status
 ACCEPTED

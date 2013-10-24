@@ -1,5 +1,4 @@
-Helotium subgranulosum Rehm SPECIES
-=======
+# Helotium subgranulosum Rehm SPECIES
 
 #### Status
 ACCEPTED

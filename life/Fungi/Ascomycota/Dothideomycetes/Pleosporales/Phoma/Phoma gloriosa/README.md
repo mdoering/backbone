@@ -1,5 +1,4 @@
-Phoma gloriosa Sacc. SPECIES
-=======
+# Phoma gloriosa Sacc. SPECIES
 
 #### Status
 ACCEPTED

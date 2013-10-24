@@ -1,5 +1,4 @@
-Crocynia mechistarthrica Hue SPECIES
-=======
+# Crocynia mechistarthrica Hue SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria grisea Schwein. SPECIES
-=======
+# Sphaeria grisea Schwein. SPECIES
 
 #### Status
 ACCEPTED

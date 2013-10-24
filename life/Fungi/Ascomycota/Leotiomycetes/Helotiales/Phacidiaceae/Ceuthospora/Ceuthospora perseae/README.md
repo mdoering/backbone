@@ -1,5 +1,4 @@
-Ceuthospora perseae Petr. & Syd. SPECIES
-=======
+# Ceuthospora perseae Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

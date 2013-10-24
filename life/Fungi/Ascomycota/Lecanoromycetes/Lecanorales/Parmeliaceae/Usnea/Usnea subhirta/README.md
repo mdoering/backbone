@@ -1,5 +1,4 @@
-Usnea subhirta (Vain.) Motyka SPECIES
-=======
+# Usnea subhirta (Vain.) Motyka SPECIES
 
 #### Status
 ACCEPTED

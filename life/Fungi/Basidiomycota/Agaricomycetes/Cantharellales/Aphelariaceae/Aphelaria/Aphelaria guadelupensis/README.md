@@ -1,5 +1,4 @@
-Aphelaria guadelupensis (Lév.) Corner SPECIES
-=======
+# Aphelaria guadelupensis (Lév.) Corner SPECIES
 
 #### Status
 ACCEPTED

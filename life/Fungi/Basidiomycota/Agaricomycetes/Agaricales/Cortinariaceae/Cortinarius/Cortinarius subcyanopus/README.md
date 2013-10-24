@@ -1,5 +1,4 @@
-Cortinarius subcyanopus Jul. Schäff. SPECIES
-=======
+# Cortinarius subcyanopus Jul. Schäff. SPECIES
 
 #### Status
 ACCEPTED

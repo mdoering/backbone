@@ -1,5 +1,4 @@
-Gonospora gonadipertha (Djakonov, 1923) SPECIES
-=======
+# Gonospora gonadipertha (Djakonov, 1923) SPECIES
 
 #### Status
 ACCEPTED

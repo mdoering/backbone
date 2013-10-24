@@ -1,5 +1,4 @@
-Patellaria rupicola (L.) Trevis. SPECIES
-=======
+# Patellaria rupicola (L.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

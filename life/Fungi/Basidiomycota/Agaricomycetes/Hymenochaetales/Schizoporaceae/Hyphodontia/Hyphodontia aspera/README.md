@@ -1,17 +1,16 @@
-Odontia arguta aspera (Fr.) Bourdot & Galzin, 1928 INFRASPECIFIC_NAME
-=======
+# Hyphodontia aspera (Fr.) J. Erikss., 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Symb. bot. upsal. 16(no. 1): 104 (1958)
 
 #### Original name
-null
+Grandinia aspera Fr., 1874
 
 ### Remarks
 null

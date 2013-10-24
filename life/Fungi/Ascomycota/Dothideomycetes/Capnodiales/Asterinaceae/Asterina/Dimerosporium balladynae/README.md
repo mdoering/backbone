@@ -1,5 +1,4 @@
-Dimerosporium balladynae Racib. SPECIES
-=======
+# Dimerosporium balladynae Racib. SPECIES
 
 #### Status
 ACCEPTED

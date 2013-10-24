@@ -1,14 +1,13 @@
-Lecanora ceratoniae Ach. SPECIES
-=======
+# Dirina ceratoniae (Ach.) Fr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Lich. univ. (1810)
+null
 
 #### Original name
 Lecanora ceratoniae Ach.

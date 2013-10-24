@@ -1,5 +1,4 @@
-Nesolechia sarothamni Velen. SPECIES
-=======
+# Nesolechia sarothamni Velen. SPECIES
 
 #### Status
 ACCEPTED

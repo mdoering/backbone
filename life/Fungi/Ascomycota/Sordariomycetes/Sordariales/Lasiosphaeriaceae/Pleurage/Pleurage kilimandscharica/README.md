@@ -1,5 +1,4 @@
-Pleurage kilimandscharica (Alf. Schmidt) C. Moreau SPECIES
-=======
+# Pleurage kilimandscharica (Alf. Schmidt) C. Moreau SPECIES
 
 #### Status
 ACCEPTED

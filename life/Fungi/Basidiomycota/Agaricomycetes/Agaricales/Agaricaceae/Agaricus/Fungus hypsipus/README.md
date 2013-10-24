@@ -1,14 +1,13 @@
-Fungus hypsipodus (Fr.) Kuntze SPECIES
-=======
+# Fungus hypsipus (Fr.) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3: 480 (1898)
 
 #### Original name
 Agaricus hypsipus Fr.

@@ -1,5 +1,4 @@
-Sclerotium glumale Ces. SPECIES
-=======
+# Sclerotium glumale Ces. SPECIES
 
 #### Status
 ACCEPTED

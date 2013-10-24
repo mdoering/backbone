@@ -1,5 +1,4 @@
-Asteromella polonica Aa SPECIES
-=======
+# Asteromella polonica Aa SPECIES
 
 #### Status
 ACCEPTED

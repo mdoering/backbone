@@ -1,5 +1,4 @@
-Schizophora Reuss, 1862 GENUS
-=======
+# Schizophora Reuss, 1862 GENUS
 
 #### Status
 ACCEPTED

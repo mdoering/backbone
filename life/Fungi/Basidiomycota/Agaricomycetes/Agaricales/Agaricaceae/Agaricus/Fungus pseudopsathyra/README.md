@@ -1,5 +1,4 @@
-Fungus pseudopsathyra (Berk.) Kuntze SPECIES
-=======
+# Fungus pseudopsathyra (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

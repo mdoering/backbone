@@ -1,17 +1,16 @@
-Microthelia aterrima f. aterrima FORM
-=======
+# Lichenothelia scopularia (Nyl.) D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lichenologist 13(2): 147 (1981)
 
 #### Original name
-Microthelia aterrima f. aterrima
+Verrucaria scopularia Nyl.
 
 ### Remarks
 null

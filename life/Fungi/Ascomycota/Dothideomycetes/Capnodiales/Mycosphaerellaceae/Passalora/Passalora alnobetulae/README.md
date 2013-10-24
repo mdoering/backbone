@@ -1,5 +1,4 @@
-Passalora alnobetulae (Jaap) Jaap SPECIES
-=======
+# Passalora alnobetulae (Jaap) Jaap SPECIES
 
 #### Status
 ACCEPTED

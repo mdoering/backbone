@@ -1,8 +1,7 @@
-Enchelyodon nodosa Berger, Foissner & Adam, 1984 SPECIES
-=======
+# Enchelyodon nodosus Berger, Foissner & Adam, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

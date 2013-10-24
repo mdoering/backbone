@@ -1,5 +1,4 @@
-Opegraphoidea staurothelicola Fink ex J. Hedrick SPECIES
-=======
+# Opegraphoidea staurothelicola Fink ex J. Hedrick SPECIES
 
 #### Status
 ACCEPTED

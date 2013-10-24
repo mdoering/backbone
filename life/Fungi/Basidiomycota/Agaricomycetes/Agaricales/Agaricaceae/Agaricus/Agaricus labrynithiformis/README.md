@@ -1,5 +1,4 @@
-Agaricus labrynithiformis With. SPECIES
-=======
+# Agaricus labrynithiformis With. SPECIES
 
 #### Status
 ACCEPTED

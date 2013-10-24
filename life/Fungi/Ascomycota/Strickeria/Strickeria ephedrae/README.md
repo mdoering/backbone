@@ -1,5 +1,4 @@
-Strickeria ephedrae Golovin SPECIES
-=======
+# Strickeria ephedrae Golovin SPECIES
 
 #### Status
 ACCEPTED

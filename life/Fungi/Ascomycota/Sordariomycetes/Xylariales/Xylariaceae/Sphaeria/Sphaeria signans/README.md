@@ -1,5 +1,4 @@
-Sphaeria signans Wallr. SPECIES
-=======
+# Sphaeria signans Wallr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Proteus columbensis SPECIES
-=======
+# Proteus columbensis SPECIES
 
 #### Status
 ACCEPTED

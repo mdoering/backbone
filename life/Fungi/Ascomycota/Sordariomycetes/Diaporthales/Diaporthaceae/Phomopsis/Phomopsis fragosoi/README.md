@@ -1,5 +1,4 @@
-Phomopsis fragosoi Bubák SPECIES
-=======
+# Phomopsis fragosoi Bubák SPECIES
 
 #### Status
 ACCEPTED

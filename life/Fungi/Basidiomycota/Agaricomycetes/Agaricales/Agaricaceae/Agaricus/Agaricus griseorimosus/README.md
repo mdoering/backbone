@@ -1,5 +1,4 @@
-Agaricus griseorimosus Pegler SPECIES
-=======
+# Agaricus griseorimosus Pegler SPECIES
 
 #### Status
 ACCEPTED

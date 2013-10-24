@@ -1,5 +1,4 @@
-Erysiphe miurae (U. Braun) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe miurae (U. Braun) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

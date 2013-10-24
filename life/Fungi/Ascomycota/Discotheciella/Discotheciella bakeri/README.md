@@ -1,14 +1,13 @@
-Discothecium bakeri Syd. & P. Syd., 1916 SPECIES
-=======
+# Discotheciella bakeri (Syd. & P. Syd.) Syd. & P. Syd., 1917 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 15(3/4): 260 (1917)
 
 #### Original name
 null

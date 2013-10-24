@@ -1,14 +1,13 @@
-Aleurodiscus habgallae (Berk. & Broome) Donk SPECIES
-=======
+# Aleurocystis habgallae (Berk. & Broome) G. Cunn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Persoonia, Suppl. 1: 68 (1959)
+Trans. Roy. Soc. New Zealand 84: 235 (1956)
 
 #### Original name
 null

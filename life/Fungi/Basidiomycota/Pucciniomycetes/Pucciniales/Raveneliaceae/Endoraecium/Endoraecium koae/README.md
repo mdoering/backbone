@@ -1,14 +1,13 @@
-Uromyces koae Arthur, 1925 SPECIES
-=======
+# Endoraecium koae (Arthur) M. Scholler & Aime, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Stevens, Bulletin of the Bernice P. Bishop Museum, Honolulu, Hawaii 19: 118 (1925)
+Mycoscience 47(3): 163 (2006)
 
 #### Original name
 Uromyces koae Arthur, 1925

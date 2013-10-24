@@ -1,5 +1,4 @@
-Kisselovia variabilis J. P. Bujak SPECIES
-=======
+# Kisselovia variabilis J. P. Bujak SPECIES
 
 #### Status
 ACCEPTED

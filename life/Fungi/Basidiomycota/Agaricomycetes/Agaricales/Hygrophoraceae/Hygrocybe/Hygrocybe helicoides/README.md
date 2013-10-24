@@ -1,5 +1,4 @@
-Hygrocybe helicoides A.M. Young SPECIES
-=======
+# Hygrocybe helicoides A.M. Young SPECIES
 
 #### Status
 ACCEPTED

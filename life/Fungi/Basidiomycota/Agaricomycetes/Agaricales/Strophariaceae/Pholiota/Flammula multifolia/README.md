@@ -1,5 +1,4 @@
-Flammula multifolia Peck SPECIES
-=======
+# Flammula multifolia Peck SPECIES
 
 #### Status
 ACCEPTED

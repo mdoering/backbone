@@ -1,17 +1,16 @@
-Hypoxylon vogesiacum var. macrosporum J.H. Mill., 1933 VARIETY
-=======
+# Hypoxylon macrosporum P. Karst., 1873 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 25(4): 325 (1933)
+Bidr. Känn. Finl. Nat. Folk 23: 40 (1873)
 
 #### Original name
-Hypoxylon vogesiacum var. macrosporum J.H. Mill., 1933
+Hypoxylon macrosporum P. Karst., 1873
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Microstroma aleuritidis (Vassiljevsky) W.B. Cooke SPECIES
-=======
+# Microstroma aleuritis (Vassiljevsky) W.B. Cooke SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycopathologia 17(1): 15 (1962)
 
 #### Original name
 Kabatiella aleuritidis Vassiljevsky

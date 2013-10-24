@@ -1,5 +1,4 @@
-Coniosporium zahnii Magnus SPECIES
-=======
+# Coniosporium zahnii Magnus SPECIES
 
 #### Status
 ACCEPTED

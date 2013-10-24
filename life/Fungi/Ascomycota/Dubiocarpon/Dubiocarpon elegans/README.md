@@ -1,5 +1,4 @@
-Dubiocarpon elegans (Will.) S.A. Hutch. SPECIES
-=======
+# Dubiocarpon elegans (Will.) S.A. Hutch. SPECIES
 
 #### Status
 ACCEPTED

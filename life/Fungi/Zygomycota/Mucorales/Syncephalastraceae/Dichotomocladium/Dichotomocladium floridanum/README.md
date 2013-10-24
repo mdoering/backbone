@@ -1,5 +1,4 @@
-Dichotomocladium floridanum Benny & R.K. Benj., 1993 SPECIES
-=======
+# Dichotomocladium floridanum Benny & R.K. Benj., 1993 SPECIES
 
 #### Status
 ACCEPTED

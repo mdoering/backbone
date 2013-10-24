@@ -1,5 +1,4 @@
-Phyllosticta micropuncta Cooke SPECIES
-=======
+# Phyllosticta micropuncta Cooke SPECIES
 
 #### Status
 ACCEPTED

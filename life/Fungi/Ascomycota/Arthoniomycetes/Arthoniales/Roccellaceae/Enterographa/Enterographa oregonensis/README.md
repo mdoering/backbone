@@ -1,5 +1,4 @@
-Enterographa oregonensis Sparrius & Björk SPECIES
-=======
+# Enterographa oregonensis Sparrius & Björk SPECIES
 
 #### Status
 ACCEPTED

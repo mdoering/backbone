@@ -1,5 +1,4 @@
-Jahnula appendiculata Pinruan, K.D. Hyde & E.B.G. Jones SPECIES
-=======
+# Jahnula appendiculata Pinruan, K.D. Hyde & E.B.G. Jones SPECIES
 
 #### Status
 ACCEPTED

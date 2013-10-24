@@ -1,5 +1,4 @@
-Amphithetochitina A.M. Obut & N.M. Zaslavskaya in N.M. Zaslavskaya, A.M. Obut & N.V. Sennikov, 1984 GENUS
-=======
+# Amphithetochitina A.M. Obut & N.M. Zaslavskaya in N.M. Zaslavskaya, A.M. Obut & N.V. Sennikov, 1984 GENUS
 
 #### Status
 ACCEPTED

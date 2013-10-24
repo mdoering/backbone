@@ -1,5 +1,4 @@
-Oidium pulvinatum Berk. & M.A. Curtis SPECIES
-=======
+# Oidium pulvinatum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

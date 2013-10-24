@@ -1,5 +1,4 @@
-Ceratoneis arcus var. linearis Holmboe VARIETY
-=======
+# Ceratoneis arcus Kützing SPECIES
 
 #### Status
 ACCEPTED

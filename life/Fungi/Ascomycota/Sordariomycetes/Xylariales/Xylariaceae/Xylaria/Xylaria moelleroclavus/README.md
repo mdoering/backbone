@@ -1,5 +1,4 @@
-Xylaria moelleroclavus J.D. Rogers, Y.M. Ju & Hemmes SPECIES
-=======
+# Xylaria moelleroclavus J.D. Rogers, Y.M. Ju & Hemmes SPECIES
 
 #### Status
 ACCEPTED

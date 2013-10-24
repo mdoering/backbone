@@ -1,14 +1,13 @@
-Parmelia omphalodes var. discordans (Nyl.) H. Magn. VARIETY
-=======
+# Parmelia discordans Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Fl. over Skandin. busk- och bladlavar 89 (1929)
+Meddn Soc. Fauna Flora fenn. 13: 40 (1886)
 
 #### Original name
 Parmelia discordans Nyl.

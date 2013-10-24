@@ -1,5 +1,4 @@
-Lepiota ochraceoumbonata Beeli SPECIES
-=======
+# Lepiota ochraceoumbonata Beeli SPECIES
 
 #### Status
 ACCEPTED

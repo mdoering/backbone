@@ -1,5 +1,4 @@
-Phyllosticta erythraea Bacc. SPECIES
-=======
+# Phyllosticta erythraea Bacc. SPECIES
 
 #### Status
 ACCEPTED

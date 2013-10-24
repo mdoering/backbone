@@ -1,5 +1,4 @@
-Caloplaca kamtczatica (Savicz) Zahlbr. SPECIES
-=======
+# Caloplaca kamtczatica (Savicz) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

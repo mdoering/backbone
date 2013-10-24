@@ -1,5 +1,4 @@
-Psora scholanderi (Lynge) R.A. Anderson SPECIES
-=======
+# Psora scholanderi (Lynge) R.A. Anderson SPECIES
 
 #### Status
 ACCEPTED

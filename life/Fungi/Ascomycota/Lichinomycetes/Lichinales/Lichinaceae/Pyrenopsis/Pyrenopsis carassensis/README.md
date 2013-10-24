@@ -1,5 +1,4 @@
-Pyrenopsis carassensis Vain. SPECIES
-=======
+# Pyrenopsis carassensis Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helotium pergracile Speg. SPECIES
-=======
+# Helotium pergracile Speg. SPECIES
 
 #### Status
 ACCEPTED

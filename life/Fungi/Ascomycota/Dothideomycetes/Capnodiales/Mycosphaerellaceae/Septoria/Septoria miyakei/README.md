@@ -1,5 +1,4 @@
-Septoria miyakei Sacc. & Traverso SPECIES
-=======
+# Septoria miyakei Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

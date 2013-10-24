@@ -1,5 +1,4 @@
-Sterolibacterium Tarlera & Denner, 2003 GENUS
-=======
+# Sterolibacterium Tarlera & Denner, 2003 GENUS
 
 #### Status
 ACCEPTED

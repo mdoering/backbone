@@ -1,5 +1,4 @@
-Dichosporidium constrictum G. Thor SPECIES
-=======
+# Dichosporidium constrictum G. Thor SPECIES
 
 #### Status
 ACCEPTED

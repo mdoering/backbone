@@ -1,5 +1,4 @@
-Operculinella Yabe, 1918 GENUS
-=======
+# Operculinella Yabe, 1918 GENUS
 
 #### Status
 ACCEPTED

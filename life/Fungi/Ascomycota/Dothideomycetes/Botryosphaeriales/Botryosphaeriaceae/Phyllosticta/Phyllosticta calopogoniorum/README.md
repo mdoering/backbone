@@ -1,5 +1,4 @@
-Phyllosticta calopogoniorum Bat. SPECIES
-=======
+# Phyllosticta calopogoniorum Bat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collybia cupreovirens (Speg.) Singer SPECIES
-=======
+# Collybia cupreovirens (Speg.) Singer SPECIES
 
 #### Status
 ACCEPTED

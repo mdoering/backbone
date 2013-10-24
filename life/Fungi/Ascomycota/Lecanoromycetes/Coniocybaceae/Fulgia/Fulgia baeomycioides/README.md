@@ -1,5 +1,4 @@
-Fulgia baeomycioides Trevis. SPECIES
-=======
+# Fulgia baeomycioides Trevis. SPECIES
 
 #### Status
 ACCEPTED

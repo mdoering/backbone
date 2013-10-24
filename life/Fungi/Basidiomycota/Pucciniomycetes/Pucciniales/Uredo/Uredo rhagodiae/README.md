@@ -1,5 +1,4 @@
-Uredo rhagodiae Cooke & Massee, 1887 SPECIES
-=======
+# Uredo rhagodiae Cooke & Massee, 1887 SPECIES
 
 #### Status
 ACCEPTED

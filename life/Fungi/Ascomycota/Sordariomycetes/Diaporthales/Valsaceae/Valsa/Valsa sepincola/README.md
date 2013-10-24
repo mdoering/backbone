@@ -1,17 +1,16 @@
-Valsa sepincola var. sepincola VARIETY
-=======
+# Valsa sepincola Fuckel SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Jb. nassau. Ver. Naturk. 27-28: 35 (1874)
 
 #### Original name
-null
+Valsa sepincola Fuckel
 
 ### Remarks
 null

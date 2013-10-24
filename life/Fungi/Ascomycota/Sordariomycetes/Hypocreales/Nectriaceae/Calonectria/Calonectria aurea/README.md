@@ -1,5 +1,4 @@
-Calonectria aurea Ade SPECIES
-=======
+# Calonectria aurea Ade SPECIES
 
 #### Status
 ACCEPTED

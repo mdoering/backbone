@@ -1,5 +1,4 @@
-Lecanora parietina Motyka SPECIES
-=======
+# Lecanora parietina Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buccella bella Bandy & Arnal, 1957 SPECIES
-=======
+# Buccella bella Bandy & Arnal, 1957 SPECIES
 
 #### Status
 ACCEPTED

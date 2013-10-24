@@ -1,5 +1,4 @@
-Naucoria denticulata Velen. SPECIES
-=======
+# Naucoria denticulata Velen. SPECIES
 
 #### Status
 ACCEPTED

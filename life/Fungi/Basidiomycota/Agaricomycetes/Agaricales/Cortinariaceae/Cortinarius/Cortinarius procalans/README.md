@@ -1,5 +1,4 @@
-Cortinarius procalans Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius procalans Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

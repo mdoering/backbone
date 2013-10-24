@@ -1,5 +1,4 @@
-Cercospora coronillae-scorpioidis Ferraris SPECIES
-=======
+# Cercospora coronillae-scorpioidis Ferraris SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stenoductus Ramachandran, 1976 GENUS
-=======
+# Stenoductus Ramachandran, 1976 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnozoum glaciale (Fenchel & Lee, 1972) Petz, Song & Wilbert, 1995 SPECIES
-=======
+# Gymnozoum glaciale (Fenchel & Lee, 1972) Petz, Song & Wilbert, 1995 SPECIES
 
 #### Status
 ACCEPTED

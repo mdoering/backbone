@@ -1,5 +1,4 @@
-Micrococcus carneus SPECIES
-=======
+# Micrococcus carneus SPECIES
 
 #### Status
 ACCEPTED

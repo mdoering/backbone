@@ -1,5 +1,4 @@
-Leptosphaeria oreophila Sacc. SPECIES
-=======
+# Leptosphaeria oreophila Sacc. SPECIES
 
 #### Status
 ACCEPTED

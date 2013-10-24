@@ -1,5 +1,4 @@
-Asteromella fuliginosa (C. Massal.) Aa SPECIES
-=======
+# Asteromella fuliginosa (C. Massal.) Aa SPECIES
 
 #### Status
 ACCEPTED

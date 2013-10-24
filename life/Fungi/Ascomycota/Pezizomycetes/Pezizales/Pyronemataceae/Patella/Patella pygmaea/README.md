@@ -1,5 +1,4 @@
-Patella pygmaea (Clem.) Seaver SPECIES
-=======
+# Patella pygmaea (Clem.) Seaver SPECIES
 
 #### Status
 ACCEPTED

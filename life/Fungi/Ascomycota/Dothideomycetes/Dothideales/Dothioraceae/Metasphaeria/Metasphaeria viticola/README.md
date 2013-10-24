@@ -1,5 +1,4 @@
-Metasphaeria viticola Speg. SPECIES
-=======
+# Metasphaeria viticola Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fistulinaceae FAMILY
-=======
+# Fistulinaceae FAMILY
 
 #### Status
 ACCEPTED

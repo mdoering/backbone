@@ -1,5 +1,4 @@
-Macrophyllosticta heterospora M.T. Lucas & Sousa da Câmara SPECIES
-=======
+# Macrophyllosticta heterospora M.T. Lucas & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

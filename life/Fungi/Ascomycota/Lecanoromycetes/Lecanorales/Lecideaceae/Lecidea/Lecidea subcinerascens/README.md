@@ -1,14 +1,13 @@
-Lecidea atrobrunnea subsp. subcinerascens (Nyl.) Nyl. ex Brenner SUBSPECIES
-=======
+# Lecidea subcinerascens Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Flora, Jena 60: 228 (1877)
 
 #### Original name
 Lecidea subcinerascens Nyl.

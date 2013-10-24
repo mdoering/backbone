@@ -1,5 +1,4 @@
-Hydnopsis Tulasne & C. Tulasne, 1865 GENUS
-=======
+# Hydnopsis Tulasne & C. Tulasne, 1865 GENUS
 
 #### Status
 ACCEPTED

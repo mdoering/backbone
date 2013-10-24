@@ -1,5 +1,4 @@
-Lasiothelebolus GENUS
-=======
+# Lasiothelebolus GENUS
 
 #### Status
 ACCEPTED

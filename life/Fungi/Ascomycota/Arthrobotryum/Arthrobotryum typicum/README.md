@@ -1,5 +1,4 @@
-Arthrobotryum typicum Rostr. SPECIES
-=======
+# Arthrobotryum typicum Rostr. SPECIES
 
 #### Status
 ACCEPTED

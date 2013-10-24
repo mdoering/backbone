@@ -1,14 +1,13 @@
-Lecania apiahica (Müll. Arg.) SPECIES
-=======
+# Bacidina apiahica (Müll. Arg.) Vezda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Folia geobot. phytotax. 25(4): 432 (1991)
 
 #### Original name
 null

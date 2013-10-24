@@ -1,5 +1,4 @@
-Planctomycetales ORDER
-=======
+# Planctomycetales ORDER
 
 #### Status
 ACCEPTED

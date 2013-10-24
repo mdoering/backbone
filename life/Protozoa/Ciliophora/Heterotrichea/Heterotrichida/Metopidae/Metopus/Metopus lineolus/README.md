@@ -1,5 +1,4 @@
-Metopus lineolus Dumas, 1930 SPECIES
-=======
+# Metopus lineolus Dumas, 1930 SPECIES
 
 #### Status
 ACCEPTED

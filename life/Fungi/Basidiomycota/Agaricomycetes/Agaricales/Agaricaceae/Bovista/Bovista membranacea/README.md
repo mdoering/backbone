@@ -1,5 +1,4 @@
-Bovista membranacea Lohwag SPECIES
-=======
+# Bovista membranacea Lohwag SPECIES
 
 #### Status
 ACCEPTED

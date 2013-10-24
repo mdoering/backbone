@@ -1,5 +1,4 @@
-Bagnisiella diantherae I.M. Lewis SPECIES
-=======
+# Bagnisiella diantherae I.M. Lewis SPECIES
 
 #### Status
 ACCEPTED

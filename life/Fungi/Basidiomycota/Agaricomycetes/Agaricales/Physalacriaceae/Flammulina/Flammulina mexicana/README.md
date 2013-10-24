@@ -1,5 +1,4 @@
-Flammulina mexicana Redhead, Estrada & R.H. Petersen SPECIES
-=======
+# Flammulina mexicana Redhead, Estrada & R.H. Petersen SPECIES
 
 #### Status
 ACCEPTED

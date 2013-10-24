@@ -1,5 +1,4 @@
-Cortinarius sefendens Rob. Henry SPECIES
-=======
+# Cortinarius sefendens Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

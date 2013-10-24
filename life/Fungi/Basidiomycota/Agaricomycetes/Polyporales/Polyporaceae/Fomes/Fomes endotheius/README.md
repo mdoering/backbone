@@ -1,8 +1,7 @@
-Fomes endothejus (Berk.) Sacc. SPECIES
-=======
+# Fomes endotheius (Berk.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

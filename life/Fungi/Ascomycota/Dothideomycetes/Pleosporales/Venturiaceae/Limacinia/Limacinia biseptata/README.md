@@ -1,5 +1,4 @@
-Limacinia biseptata Sacc. SPECIES
-=======
+# Limacinia biseptata Sacc. SPECIES
 
 #### Status
 ACCEPTED

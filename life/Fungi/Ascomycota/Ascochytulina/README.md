@@ -1,17 +1,16 @@
-Clypeodiplodina F. Stevens GENUS
-=======
+# Ascochytulina Petr. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 19(5): 235 (1927)
+Annls mycol. 20(5/6): 342 (1922)
 
 #### Original name
-Clypeodiplodina F. Stevens
+Ascochytulina Petr.
 
 ### Remarks
 null

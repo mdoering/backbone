@@ -1,5 +1,4 @@
-Dimerella isidiosa Breuss SPECIES
-=======
+# Dimerella isidiosa Breuss SPECIES
 
 #### Status
 ACCEPTED

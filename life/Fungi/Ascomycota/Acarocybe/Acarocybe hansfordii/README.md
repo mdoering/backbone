@@ -1,5 +1,4 @@
-Acarocybe hansfordii Syd., 1937 SPECIES
-=======
+# Acarocybe hansfordii Syd., 1937 SPECIES
 
 #### Status
 ACCEPTED

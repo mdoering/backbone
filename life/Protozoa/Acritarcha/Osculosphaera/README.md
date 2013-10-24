@@ -1,5 +1,4 @@
-Osculosphaera Butterfield in Butterfield, Knoll & Swett, 1994 GENUS
-=======
+# Osculosphaera Butterfield in Butterfield, Knoll & Swett, 1994 GENUS
 
 #### Status
 ACCEPTED

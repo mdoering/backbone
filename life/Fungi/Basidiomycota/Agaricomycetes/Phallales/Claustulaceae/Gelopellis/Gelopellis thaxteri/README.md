@@ -1,14 +1,13 @@
-Hysterangium thaxteri Zeller & C.W. Dodge, 1929 SPECIES
-=======
+# Gelopellis thaxteri (Zeller & C.W. Dodge) Zeller, 1939 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 31: 22 (1939)
 
 #### Original name
 Hysterangium thaxteri Zeller & C.W. Dodge, 1929

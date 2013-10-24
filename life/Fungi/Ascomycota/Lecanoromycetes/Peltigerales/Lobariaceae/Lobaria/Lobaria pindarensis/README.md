@@ -1,5 +1,4 @@
-Lobaria pindarensis Räsänen SPECIES
-=======
+# Lobaria pindarensis Räsänen SPECIES
 
 #### Status
 ACCEPTED

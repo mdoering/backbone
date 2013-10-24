@@ -1,5 +1,4 @@
-Leptosphaeria papyrogena Sacc. SPECIES
-=======
+# Leptosphaeria papyrogena Sacc. SPECIES
 
 #### Status
 ACCEPTED

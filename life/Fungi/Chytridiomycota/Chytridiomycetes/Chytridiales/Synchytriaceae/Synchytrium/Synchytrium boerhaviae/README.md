@@ -1,17 +1,16 @@
-Synchytrium boerhaaviae F. Stevens SPECIES
-=======
+# Synchytrium boerhaviae F. Stevens SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Illinois Biol. Monogr. (Urbana) 11(2): 163 (1927)
 
 #### Original name
-Synchytrium boerhaaviae F. Stevens
+Synchytrium boerhaviae F. Stevens
 
 ### Remarks
 null

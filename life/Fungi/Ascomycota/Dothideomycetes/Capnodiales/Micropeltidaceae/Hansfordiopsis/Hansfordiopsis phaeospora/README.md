@@ -1,5 +1,4 @@
-Hansfordiopsis phaeospora (Hansf.) Bat., 1959 SPECIES
-=======
+# Hansfordiopsis phaeospora (Hansf.) Bat., 1959 SPECIES
 
 #### Status
 ACCEPTED

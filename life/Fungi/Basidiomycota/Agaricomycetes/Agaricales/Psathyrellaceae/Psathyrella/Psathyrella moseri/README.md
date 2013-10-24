@@ -1,5 +1,4 @@
-Psathyrella moseri Singer SPECIES
-=======
+# Psathyrella moseri Singer SPECIES
 
 #### Status
 ACCEPTED

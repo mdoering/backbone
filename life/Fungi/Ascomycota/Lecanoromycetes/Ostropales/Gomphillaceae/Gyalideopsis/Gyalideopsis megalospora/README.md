@@ -1,5 +1,4 @@
-Gyalideopsis megalospora Vezda & Poelt SPECIES
-=======
+# Gyalideopsis megalospora Vezda & Poelt SPECIES
 
 #### Status
 ACCEPTED

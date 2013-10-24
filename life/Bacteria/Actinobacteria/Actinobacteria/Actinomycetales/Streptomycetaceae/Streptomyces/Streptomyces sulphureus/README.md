@@ -1,11 +1,10 @@
-Streptothrix sulphurea (Gasperini, 1894) Caminiti, 1907 SPECIES
-=======
+# Streptomyces sulphureus (Gasperini, 1894) Waksman, 1953 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

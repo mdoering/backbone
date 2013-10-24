@@ -1,8 +1,7 @@
-Coleroa hepaticola Racov. SPECIES
-=======
+# Coleroa hepaticicola Racov. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Coleroa hepaticola Racov.
+Coleroa hepaticicola Racov.
 
 ### Remarks
 null

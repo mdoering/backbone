@@ -1,5 +1,4 @@
-Dimorphomyces ramosus Thaxt. SPECIES
-=======
+# Dimorphomyces ramosus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

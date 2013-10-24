@@ -1,5 +1,4 @@
-Psora limprichtii (Stein) Zahlbr. SPECIES
-=======
+# Psora limprichtii (Stein) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

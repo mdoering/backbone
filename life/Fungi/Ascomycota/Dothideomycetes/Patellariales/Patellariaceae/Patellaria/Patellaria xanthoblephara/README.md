@@ -1,5 +1,4 @@
-Patellaria xanthoblephara Müll. Arg. SPECIES
-=======
+# Patellaria xanthoblephara Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

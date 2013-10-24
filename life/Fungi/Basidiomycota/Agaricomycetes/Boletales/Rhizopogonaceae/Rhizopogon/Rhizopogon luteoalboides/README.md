@@ -1,5 +1,4 @@
-Rhizopogon luteoalboides A.H. Sm. SPECIES
-=======
+# Rhizopogon luteoalboides A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

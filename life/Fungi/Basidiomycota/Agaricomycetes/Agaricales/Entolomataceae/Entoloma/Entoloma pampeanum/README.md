@@ -1,5 +1,4 @@
-Entoloma pampeanum Speg. SPECIES
-=======
+# Entoloma pampeanum Speg. SPECIES
 
 #### Status
 ACCEPTED

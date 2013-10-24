@@ -1,5 +1,4 @@
-Stilbellula pallida Boedijn, 1951 SPECIES
-=======
+# Stilbellula pallida Boedijn, 1951 SPECIES
 
 #### Status
 ACCEPTED

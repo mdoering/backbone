@@ -1,5 +1,4 @@
-Aphanostigme erythrinicola Hansf. SPECIES
-=======
+# Aphanostigme erythrinicola Hansf. SPECIES
 
 #### Status
 ACCEPTED

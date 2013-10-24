@@ -1,14 +1,13 @@
-Entomophthora terrestris Gres & Koval, 1982 SPECIES
-=======
+# Pandora terrestris (Gres & Koval) S. Keller, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mikrobiol. Zh. 44(2): 68 (1982)
+in Keller & Petrini, Sydowia 57(1): 42 (2005)
 
 #### Original name
 Entomophthora terrestris Gres & Koval, 1982

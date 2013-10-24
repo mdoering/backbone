@@ -1,5 +1,4 @@
-Illosporium vagum Sacc. SPECIES
-=======
+# Illosporium vagum Sacc. SPECIES
 
 #### Status
 ACCEPTED

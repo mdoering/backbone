@@ -1,5 +1,4 @@
-Torula proximella Sacc. SPECIES
-=======
+# Torula proximella Sacc. SPECIES
 
 #### Status
 ACCEPTED

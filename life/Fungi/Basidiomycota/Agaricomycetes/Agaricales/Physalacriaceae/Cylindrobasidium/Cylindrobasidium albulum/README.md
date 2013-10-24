@@ -1,5 +1,4 @@
-Cylindrobasidium albulum (G.F. Atk. & Burt) J. Erikss. & Hjortstam SPECIES
-=======
+# Cylindrobasidium albulum (G.F. Atk. & Burt) J. Erikss. & Hjortstam SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Loweporus rufescens Corner, 1989 SPECIES
-=======
+# Loweporus rufescens Corner, 1989 SPECIES
 
 #### Status
 ACCEPTED

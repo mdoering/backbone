@@ -1,5 +1,4 @@
-Merulius tortilis Schumach. SPECIES
-=======
+# Merulius tortilis Schumach. SPECIES
 
 #### Status
 ACCEPTED

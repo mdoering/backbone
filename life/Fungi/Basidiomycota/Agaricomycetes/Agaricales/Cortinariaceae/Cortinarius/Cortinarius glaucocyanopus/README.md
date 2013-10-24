@@ -1,5 +1,4 @@
-Cortinarius glaucocyanopus Rob. Henry SPECIES
-=======
+# Cortinarius glaucocyanopus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

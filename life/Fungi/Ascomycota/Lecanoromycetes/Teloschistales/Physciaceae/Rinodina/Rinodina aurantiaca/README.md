@@ -1,5 +1,4 @@
-Rinodina aurantiaca Sheard SPECIES
-=======
+# Rinodina aurantiaca Sheard SPECIES
 
 #### Status
 ACCEPTED

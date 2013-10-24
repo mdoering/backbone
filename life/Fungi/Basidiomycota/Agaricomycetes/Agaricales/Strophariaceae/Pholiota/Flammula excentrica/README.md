@@ -1,5 +1,4 @@
-Flammula excentrica Cleland & Cheel SPECIES
-=======
+# Flammula excentrica Cleland & Cheel SPECIES
 
 #### Status
 ACCEPTED

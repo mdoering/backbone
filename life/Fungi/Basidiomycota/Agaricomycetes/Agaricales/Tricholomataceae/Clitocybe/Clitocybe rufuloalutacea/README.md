@@ -1,5 +1,4 @@
-Clitocybe rufuloalutacea Métrod ex Bon SPECIES
-=======
+# Clitocybe rufuloalutacea Métrod ex Bon SPECIES
 
 #### Status
 ACCEPTED

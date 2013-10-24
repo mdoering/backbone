@@ -1,5 +1,4 @@
-Hyponectria lonicerae (Dearn. & Barthol.) M.E. Barr SPECIES
-=======
+# Hyponectria lonicerae (Dearn. & Barthol.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

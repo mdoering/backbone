@@ -1,14 +1,13 @@
-Verrucaria berengeriana (Arnold) Nyl. SPECIES
-=======
+# Zwackhiomyces berengerianus (Arnold) Grube & Triebel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Grube & Hafellner, Nova Hedwigia 51(3-4): 308 (1990)
 
 #### Original name
 Endococcus hygrophilus var. berengerianus Arnold

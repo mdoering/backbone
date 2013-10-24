@@ -1,5 +1,4 @@
-Usnea bithynica Motyka SPECIES
-=======
+# Usnea bithynica Motyka SPECIES
 
 #### Status
 ACCEPTED

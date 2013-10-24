@@ -1,5 +1,4 @@
-Phacus textus Pochmann SPECIES
-=======
+# Phacus textus Pochmann SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrophoma artemisiae (Kalchbr. & Cooke) Berl. & Voglino SPECIES
-=======
+# Macrophoma artemisiae (Kalchbr. & Cooke) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

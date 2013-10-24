@@ -1,5 +1,4 @@
-Lobaria montagnei (C. Bab.) Hellb. SPECIES
-=======
+# Lobaria montagnei (C. Bab.) Hellb. SPECIES
 
 #### Status
 ACCEPTED

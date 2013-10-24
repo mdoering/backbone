@@ -1,5 +1,4 @@
-Monoicomyces eleusinus Thaxt. SPECIES
-=======
+# Monoicomyces eleusinus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

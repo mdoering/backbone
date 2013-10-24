@@ -1,5 +1,4 @@
-Xanthoparmelia leonora (Spreng. ex A. Massal.) Hale SPECIES
-=======
+# Xanthoparmelia leonora (Spreng. ex A. Massal.) Hale SPECIES
 
 #### Status
 ACCEPTED

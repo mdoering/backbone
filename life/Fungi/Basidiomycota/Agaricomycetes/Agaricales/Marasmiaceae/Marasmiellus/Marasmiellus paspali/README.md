@@ -1,5 +1,4 @@
-Marasmiellus paspali (Petch) Singer SPECIES
-=======
+# Marasmiellus paspali (Petch) Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Uredo retangulata F.C. Albuq. SPECIES
-=======
+# Uredo rectangulata F.C. Albuq. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Pesquisa agropec. bras. , ser. Agron. 6: 142 (1971)
 
 #### Original name
-Uredo retangulata F.C. Albuq.
+Uredo rectangulata F.C. Albuq.
 
 ### Remarks
 null

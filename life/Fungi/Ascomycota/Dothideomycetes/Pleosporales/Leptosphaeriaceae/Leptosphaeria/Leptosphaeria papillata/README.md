@@ -1,5 +1,4 @@
-Leptosphaeria papillata (Bonord.) Sacc. & Traverso SPECIES
-=======
+# Leptosphaeria papillata (Bonord.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

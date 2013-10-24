@@ -1,14 +1,13 @@
-Incerniculum G. Goy, 1979 in Goy, D. Noël & G. Busson, 1979 GENUS
-=======
+# Calyculus D. Noël, 1973 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Documents Lab. Geol. Fac. Sci. Lyon No. 75: 42.
+Bull. Mus. Natn. Hist. Nat. Paris (Sci. Terre) No. 14: 115.
 
 #### Original name
 null

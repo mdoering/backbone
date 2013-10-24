@@ -1,5 +1,4 @@
-Glonium ruthenicum Petr. SPECIES
-=======
+# Glonium ruthenicum Petr. SPECIES
 
 #### Status
 ACCEPTED

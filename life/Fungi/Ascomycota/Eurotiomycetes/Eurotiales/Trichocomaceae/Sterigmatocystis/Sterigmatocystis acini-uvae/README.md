@@ -1,5 +1,4 @@
-Sterigmatocystis acini-uvae Caball. SPECIES
-=======
+# Sterigmatocystis acini-uvae Caball. SPECIES
 
 #### Status
 ACCEPTED

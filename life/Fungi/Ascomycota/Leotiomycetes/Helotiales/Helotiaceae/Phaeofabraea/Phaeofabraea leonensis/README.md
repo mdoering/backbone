@@ -1,5 +1,4 @@
-Phaeofabraea leonensis Syd. SPECIES
-=======
+# Phaeofabraea leonensis Syd. SPECIES
 
 #### Status
 ACCEPTED

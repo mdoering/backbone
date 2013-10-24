@@ -1,5 +1,4 @@
-Bombardiella caespitosa Höhn., 1909 SPECIES
-=======
+# Bombardiella caespitosa Höhn., 1909 SPECIES
 
 #### Status
 ACCEPTED

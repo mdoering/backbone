@@ -1,17 +1,16 @@
-Mucronoporus callimorphus (Lév.) Zmitr., Malysheva & Spirin, 2006 SPECIES
-=======
+# Fuscoporia callimorpha (Lév.) Groposo, Log.-Leite & Góes-Neto, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 101: 57 (2007)
 
 #### Original name
-null
+Polyporus callimorphus Lév., 1846
 
 ### Remarks
 null

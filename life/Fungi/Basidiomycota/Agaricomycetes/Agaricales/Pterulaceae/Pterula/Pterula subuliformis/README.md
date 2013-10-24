@@ -1,14 +1,13 @@
-Pterula subulaeformis (Berk. & M.A. Curtis) Corner SPECIES
-=======
+# Pterula subuliformis (Berk. & M.A. Curtis) Corner SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ann. Bot. Mem. 1: 523 (1950)
 
 #### Original name
 Typhula subuliformis Berk. & M.A. Curtis

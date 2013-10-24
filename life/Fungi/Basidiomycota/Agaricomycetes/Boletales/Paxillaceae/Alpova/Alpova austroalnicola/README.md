@@ -1,5 +1,4 @@
-Alpova austroalnicola L.S. Domínguez, 2005 SPECIES
-=======
+# Alpova austroalnicola L.S. Domínguez, 2005 SPECIES
 
 #### Status
 ACCEPTED

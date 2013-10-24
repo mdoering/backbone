@@ -1,5 +1,4 @@
-Polyporus silaceus Wettst. SPECIES
-=======
+# Polyporus silaceus Wettst. SPECIES
 
 #### Status
 ACCEPTED

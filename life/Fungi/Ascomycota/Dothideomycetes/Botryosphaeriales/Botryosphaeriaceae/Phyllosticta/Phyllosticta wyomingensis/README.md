@@ -1,5 +1,4 @@
-Phyllosticta wyomingensis Solheim SPECIES
-=======
+# Phyllosticta wyomingensis Solheim SPECIES
 
 #### Status
 ACCEPTED

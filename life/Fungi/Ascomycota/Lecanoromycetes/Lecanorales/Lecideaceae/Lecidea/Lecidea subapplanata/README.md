@@ -1,5 +1,4 @@
-Lecidea subapplanata H. Magn. SPECIES
-=======
+# Lecidea subapplanata H. Magn. SPECIES
 
 #### Status
 ACCEPTED

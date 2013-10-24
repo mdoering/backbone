@@ -1,5 +1,4 @@
-Cyanogranis irregularis van Joosten, 2006 SPECIES
-=======
+# Cyanogranis irregularis van Joosten, 2006 SPECIES
 
 #### Status
 ACCEPTED

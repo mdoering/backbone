@@ -1,5 +1,4 @@
-Cenangella abietina Ellis & Everh. SPECIES
-=======
+# Cenangella abietina Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

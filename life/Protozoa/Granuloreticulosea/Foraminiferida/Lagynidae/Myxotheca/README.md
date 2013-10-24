@@ -1,5 +1,4 @@
-Myxotheca Schaudinn, 1893 GENUS
-=======
+# Myxotheca Schaudinn, 1893 GENUS
 
 #### Status
 ACCEPTED

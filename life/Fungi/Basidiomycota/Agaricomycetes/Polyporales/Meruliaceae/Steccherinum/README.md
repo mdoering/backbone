@@ -1,17 +1,16 @@
-Etheirodon Banker GENUS
-=======
+# Steccherinum Gray, 1821 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Bull. Torrey bot. Club 29: 441 (1902)
+null
 
 #### Original name
-Etheirodon Banker
+null
 
 ### Remarks
 null

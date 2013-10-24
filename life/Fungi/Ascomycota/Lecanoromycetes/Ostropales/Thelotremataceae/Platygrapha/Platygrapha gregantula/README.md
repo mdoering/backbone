@@ -1,5 +1,4 @@
-Platygrapha gregantula Müll. Arg. SPECIES
-=======
+# Platygrapha gregantula Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

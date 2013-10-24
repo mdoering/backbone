@@ -1,5 +1,4 @@
-Inocybe indica Sarwal SPECIES
-=======
+# Inocybe indica Sarwal SPECIES
 
 #### Status
 ACCEPTED

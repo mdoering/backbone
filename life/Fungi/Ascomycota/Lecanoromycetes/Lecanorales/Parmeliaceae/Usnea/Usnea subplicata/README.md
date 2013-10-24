@@ -1,5 +1,4 @@
-Usnea subplicata (Vain.) Motyka SPECIES
-=======
+# Usnea subplicata (Vain.) Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eccilia striaepes Rick SPECIES
-=======
+# Eccilia striaepes Rick SPECIES
 
 #### Status
 ACCEPTED

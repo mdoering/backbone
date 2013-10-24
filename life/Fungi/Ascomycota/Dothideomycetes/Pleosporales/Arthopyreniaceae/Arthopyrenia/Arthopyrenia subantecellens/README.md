@@ -1,5 +1,4 @@
-Arthopyrenia subantecellens Müll. Arg. SPECIES
-=======
+# Arthopyrenia subantecellens Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

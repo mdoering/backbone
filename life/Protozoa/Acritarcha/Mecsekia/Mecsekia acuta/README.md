@@ -1,5 +1,4 @@
-Mecsekia acuta Schrank, 2003 SPECIES
-=======
+# Mecsekia acuta Schrank, 2003 SPECIES
 
 #### Status
 ACCEPTED

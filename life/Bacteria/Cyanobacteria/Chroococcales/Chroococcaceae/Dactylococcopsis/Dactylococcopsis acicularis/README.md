@@ -1,5 +1,4 @@
-Dactylococcopsis acicularis Lemmermann SPECIES
-=======
+# Dactylococcopsis acicularis Lemmermann SPECIES
 
 #### Status
 ACCEPTED

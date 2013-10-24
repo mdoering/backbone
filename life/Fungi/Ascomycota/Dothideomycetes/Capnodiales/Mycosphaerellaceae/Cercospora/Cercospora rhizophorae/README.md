@@ -1,5 +1,4 @@
-Cercospora rhizophorae Creager, 1963 SPECIES
-=======
+# Cercospora rhizophorae Creager, 1963 SPECIES
 
 #### Status
 ACCEPTED

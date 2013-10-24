@@ -1,5 +1,4 @@
-Parvularugoglobigerina Hofker, 1978 GENUS
-=======
+# Parvularugoglobigerina Hofker, 1978 GENUS
 
 #### Status
 ACCEPTED

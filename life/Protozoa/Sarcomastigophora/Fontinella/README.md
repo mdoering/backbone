@@ -1,5 +1,4 @@
-Fontinella Carter, 1993 GENUS
-=======
+# Fontinella Carter, 1993 GENUS
 
 #### Status
 ACCEPTED

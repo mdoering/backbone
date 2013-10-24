@@ -1,5 +1,4 @@
-Baikalophrya Swarczewsky, 1928 GENUS
-=======
+# Baikalophrya Swarczewsky, 1928 GENUS
 
 #### Status
 ACCEPTED

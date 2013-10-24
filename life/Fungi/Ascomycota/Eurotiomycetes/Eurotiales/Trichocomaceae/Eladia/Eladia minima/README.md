@@ -1,5 +1,4 @@
-Eladia minima Y.L. Jiang & T.Y. Zhang SPECIES
-=======
+# Eladia minima Y.L. Jiang & T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dothiorella monsterae (Sacc.) Petr. & Syd. SPECIES
-=======
+# Dothiorella monsterae (Sacc.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

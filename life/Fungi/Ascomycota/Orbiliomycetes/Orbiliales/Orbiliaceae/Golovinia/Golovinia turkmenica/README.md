@@ -1,5 +1,4 @@
-Golovinia turkmenica (Soprunov) Mekht. SPECIES
-=======
+# Golovinia turkmenica (Soprunov) Mekht. SPECIES
 
 #### Status
 ACCEPTED

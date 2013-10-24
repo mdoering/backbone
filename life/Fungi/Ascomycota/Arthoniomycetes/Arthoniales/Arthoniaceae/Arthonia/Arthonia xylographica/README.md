@@ -1,5 +1,4 @@
-Arthonia xylographica Nyl. SPECIES
-=======
+# Arthonia xylographica Nyl. SPECIES
 
 #### Status
 ACCEPTED

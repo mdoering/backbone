@@ -1,5 +1,4 @@
-Bubomorpha hunjiangensis Yin Leiming in Chen Yunyuan et al., 1985 SPECIES
-=======
+# Bubomorpha hunjiangensis Yin Leiming in Chen Yunyuan et al., 1985 SPECIES
 
 #### Status
 ACCEPTED

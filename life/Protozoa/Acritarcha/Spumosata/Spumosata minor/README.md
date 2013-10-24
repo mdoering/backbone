@@ -1,5 +1,4 @@
-Spumosata minor Pykhova, 1966 SPECIES
-=======
+# Spumosata minor Pykhova, 1966 SPECIES
 
 #### Status
 ACCEPTED

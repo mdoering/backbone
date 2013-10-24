@@ -1,5 +1,4 @@
-Stentor introversus Tartar, 1958 SPECIES
-=======
+# Stentor introversus Tartar, 1958 SPECIES
 
 #### Status
 ACCEPTED

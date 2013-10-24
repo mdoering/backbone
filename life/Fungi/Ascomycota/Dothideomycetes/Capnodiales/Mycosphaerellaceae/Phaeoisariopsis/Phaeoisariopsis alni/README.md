@@ -1,5 +1,4 @@
-Phaeoisariopsis alni Deighton SPECIES
-=======
+# Phaeoisariopsis alni Deighton SPECIES
 
 #### Status
 ACCEPTED

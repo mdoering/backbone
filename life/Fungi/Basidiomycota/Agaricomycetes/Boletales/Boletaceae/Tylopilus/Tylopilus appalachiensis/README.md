@@ -1,5 +1,4 @@
-Tylopilus appalachiensis Singer SPECIES
-=======
+# Tylopilus appalachiensis Singer SPECIES
 
 #### Status
 ACCEPTED

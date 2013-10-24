@@ -1,5 +1,4 @@
-Polystictus inversus Lázaro Ibiza SPECIES
-=======
+# Polystictus inversus Lázaro Ibiza SPECIES
 
 #### Status
 ACCEPTED

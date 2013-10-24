@@ -1,5 +1,4 @@
-Eucantharomyces taridii T. Majewski & K. Sugiy. SPECIES
-=======
+# Eucantharomyces taridii T. Majewski & K. Sugiy. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypochnus coronatus Bonord. SPECIES
-=======
+# Hypochnus coronatus Bonord. SPECIES
 
 #### Status
 ACCEPTED

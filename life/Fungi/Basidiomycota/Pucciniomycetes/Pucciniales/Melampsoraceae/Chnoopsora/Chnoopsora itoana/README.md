@@ -1,5 +1,4 @@
-Chnoopsora itoana Hirats. f. SPECIES
-=======
+# Chnoopsora itoana Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

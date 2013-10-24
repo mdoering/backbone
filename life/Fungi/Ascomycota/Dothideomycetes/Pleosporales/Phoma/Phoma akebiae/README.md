@@ -1,5 +1,4 @@
-Phoma akebiae Dearn. SPECIES
-=======
+# Phoma akebiae Dearn. SPECIES
 
 #### Status
 ACCEPTED

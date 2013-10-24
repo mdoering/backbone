@@ -1,5 +1,4 @@
-Neonectria hubeiensis W.Y. Zhuang, Y. Nong & J. Luo SPECIES
-=======
+# Neonectria hubeiensis W.Y. Zhuang, Y. Nong & J. Luo SPECIES
 
 #### Status
 ACCEPTED

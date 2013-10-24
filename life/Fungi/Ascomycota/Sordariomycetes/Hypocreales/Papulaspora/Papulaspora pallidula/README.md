@@ -1,5 +1,4 @@
-Papulaspora pallidula Hotson SPECIES
-=======
+# Papulaspora pallidula Hotson SPECIES
 
 #### Status
 ACCEPTED

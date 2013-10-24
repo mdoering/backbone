@@ -1,5 +1,4 @@
-Cantharomyces exiguus Thaxt. SPECIES
-=======
+# Cantharomyces exiguus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

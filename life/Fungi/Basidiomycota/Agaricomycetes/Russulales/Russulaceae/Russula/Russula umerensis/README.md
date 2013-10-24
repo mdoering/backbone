@@ -1,5 +1,4 @@
-Russula umerensis McNabb, 1973 SPECIES
-=======
+# Russula umerensis McNabb, 1973 SPECIES
 
 #### Status
 ACCEPTED

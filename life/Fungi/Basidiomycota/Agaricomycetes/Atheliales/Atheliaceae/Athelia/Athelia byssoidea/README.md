@@ -1,5 +1,4 @@
-Athelia byssoidea Pers. SPECIES
-=======
+# Athelia byssoidea Pers. SPECIES
 
 #### Status
 ACCEPTED

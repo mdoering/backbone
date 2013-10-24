@@ -1,5 +1,4 @@
-Xanthoria alaskana J.W. Thomson SPECIES
-=======
+# Xanthoria alaskana J.W. Thomson SPECIES
 
 #### Status
 ACCEPTED

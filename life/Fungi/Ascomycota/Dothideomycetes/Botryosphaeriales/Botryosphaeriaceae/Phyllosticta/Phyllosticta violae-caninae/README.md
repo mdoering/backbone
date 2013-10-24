@@ -1,5 +1,4 @@
-Phyllosticta violae-caninae Allesch. SPECIES
-=======
+# Phyllosticta violae-caninae Allesch. SPECIES
 
 #### Status
 ACCEPTED

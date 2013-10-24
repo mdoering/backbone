@@ -1,5 +1,4 @@
-Tremella cavernosa (Forskål) J.F. Gmel. SPECIES
-=======
+# Tremella cavernosa (Forskål) J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

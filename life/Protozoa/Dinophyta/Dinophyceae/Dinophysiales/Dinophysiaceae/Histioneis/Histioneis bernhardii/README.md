@@ -1,5 +1,4 @@
-Histioneis bernhardii Rampi, 1969 SPECIES
-=======
+# Histioneis bernhardii Rampi, 1969 SPECIES
 
 #### Status
 ACCEPTED

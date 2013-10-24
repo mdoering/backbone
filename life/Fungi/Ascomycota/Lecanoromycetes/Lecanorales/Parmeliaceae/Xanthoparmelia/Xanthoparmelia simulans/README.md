@@ -1,5 +1,4 @@
-Xanthoparmelia simulans Hale SPECIES
-=======
+# Xanthoparmelia simulans Hale SPECIES
 
 #### Status
 ACCEPTED

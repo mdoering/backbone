@@ -1,5 +1,4 @@
-Passalora tephrosiicola (S.K. Singh, Bhalla & Kamal) U. Braun & Crous SPECIES
-=======
+# Passalora tephrosiicola (S.K. Singh, Bhalla & Kamal) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

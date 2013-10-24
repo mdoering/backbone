@@ -1,5 +1,4 @@
-Aimia T.N. Hermann in B.S. Sokolov, 1979 GENUS
-=======
+# Aimia T.N. Hermann in B.S. Sokolov, 1979 GENUS
 
 #### Status
 ACCEPTED

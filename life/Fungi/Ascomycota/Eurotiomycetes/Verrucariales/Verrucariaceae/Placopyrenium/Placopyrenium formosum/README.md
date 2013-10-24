@@ -1,5 +1,4 @@
-Placopyrenium formosum Orange SPECIES
-=======
+# Placopyrenium formosum Orange SPECIES
 
 #### Status
 ACCEPTED

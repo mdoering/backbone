@@ -1,5 +1,4 @@
-Nectria variabilis Hara SPECIES
-=======
+# Nectria variabilis Hara SPECIES
 
 #### Status
 ACCEPTED

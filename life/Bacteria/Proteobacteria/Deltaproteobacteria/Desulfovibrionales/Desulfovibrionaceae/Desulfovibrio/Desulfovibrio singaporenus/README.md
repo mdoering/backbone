@@ -1,5 +1,4 @@
-Desulfovibrio singaporenus Sheng, He, Ting & Pehkonen, 2007 SPECIES
-=======
+# Desulfovibrio singaporenus Sheng, He, Ting & Pehkonen, 2007 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clematomyces argentinensis Speg. SPECIES
-=======
+# Clematomyces argentinensis Speg. SPECIES
 
 #### Status
 ACCEPTED

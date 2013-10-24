@@ -1,5 +1,4 @@
-Salpingoeca aggregata Valkanov, 1970 SPECIES
-=======
+# Salpingoeca aggregata Valkanov, 1970 SPECIES
 
 #### Status
 ACCEPTED

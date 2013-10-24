@@ -1,5 +1,4 @@
-Wettsteinina ambigua Petr. SPECIES
-=======
+# Wettsteinina ambigua Petr. SPECIES
 
 #### Status
 ACCEPTED

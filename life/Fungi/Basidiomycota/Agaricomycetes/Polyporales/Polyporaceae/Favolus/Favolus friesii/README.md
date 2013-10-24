@@ -1,5 +1,4 @@
-Favolus friesii Berk. & M.A. Curtis SPECIES
-=======
+# Favolus friesii Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

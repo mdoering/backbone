@@ -1,5 +1,4 @@
-Thirumalachariella Sathe GENUS
-=======
+# Thirumalachariella Sathe GENUS
 
 #### Status
 ACCEPTED

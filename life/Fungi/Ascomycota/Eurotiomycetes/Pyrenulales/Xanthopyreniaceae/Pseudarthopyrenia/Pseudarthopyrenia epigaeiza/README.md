@@ -1,5 +1,4 @@
-Pseudarthopyrenia epigaeiza (Nyl.) Keissl. SPECIES
-=======
+# Pseudarthopyrenia epigaeiza (Nyl.) Keissl. SPECIES
 
 #### Status
 ACCEPTED

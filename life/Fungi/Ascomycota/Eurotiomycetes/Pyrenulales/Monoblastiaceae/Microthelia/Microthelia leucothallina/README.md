@@ -1,5 +1,4 @@
-Microthelia leucothallina Vain. SPECIES
-=======
+# Microthelia leucothallina Vain. SPECIES
 
 #### Status
 ACCEPTED

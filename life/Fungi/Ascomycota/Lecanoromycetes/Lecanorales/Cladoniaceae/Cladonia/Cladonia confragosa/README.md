@@ -1,5 +1,4 @@
-Cladonia confragosa S. Stenroos SPECIES
-=======
+# Cladonia confragosa S. Stenroos SPECIES
 
 #### Status
 ACCEPTED

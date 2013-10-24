@@ -1,5 +1,4 @@
-Pertusaria tjibodana SPECIES
-=======
+# Pertusaria tjibodana SPECIES
 
 #### Status
 ACCEPTED

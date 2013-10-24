@@ -1,5 +1,4 @@
-Branchiomyces demigrans Wundsch, 1929 SPECIES
-=======
+# Branchiomyces demigrans Wundsch, 1929 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Lactarius pisciodorus R. Heim SPECIES
-=======
+# Lactarius pisci R. Heim SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Candollea 7: 380 (1938)
 
 #### Original name
-Lactarius pisciodorus R. Heim
+Lactarius pisci R. Heim
 
 ### Remarks
 null

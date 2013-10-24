@@ -1,5 +1,4 @@
-Cytosporella pittospori A.C. Santos & Sousa da Câmara SPECIES
-=======
+# Cytosporella pittospori A.C. Santos & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

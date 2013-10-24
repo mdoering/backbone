@@ -1,5 +1,4 @@
-Orbitocyclina Vaughan, 1929 GENUS
-=======
+# Orbitocyclina Vaughan, 1929 GENUS
 
 #### Status
 ACCEPTED

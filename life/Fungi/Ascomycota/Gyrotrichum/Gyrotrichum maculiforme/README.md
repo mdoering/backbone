@@ -1,5 +1,4 @@
-Gyrotrichum maculiforme Spreng. SPECIES
-=======
+# Gyrotrichum maculiforme Spreng. SPECIES
 
 #### Status
 ACCEPTED

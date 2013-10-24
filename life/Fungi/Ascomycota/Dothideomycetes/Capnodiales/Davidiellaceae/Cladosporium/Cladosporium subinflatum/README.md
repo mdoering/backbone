@@ -1,5 +1,4 @@
-Cladosporium subinflatum K. Schub., Zalar, Crous & U. Braun SPECIES
-=======
+# Cladosporium subinflatum K. Schub., Zalar, Crous & U. Braun SPECIES
 
 #### Status
 ACCEPTED

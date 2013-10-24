@@ -1,5 +1,4 @@
-Leptothyrium doellingeriae Dearn. & House SPECIES
-=======
+# Leptothyrium doellingeriae Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

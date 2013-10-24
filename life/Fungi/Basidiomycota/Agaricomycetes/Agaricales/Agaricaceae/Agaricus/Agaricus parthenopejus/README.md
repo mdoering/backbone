@@ -1,5 +1,4 @@
-Agaricus parthenopejus Comes SPECIES
-=======
+# Agaricus parthenopejus Comes SPECIES
 
 #### Status
 ACCEPTED

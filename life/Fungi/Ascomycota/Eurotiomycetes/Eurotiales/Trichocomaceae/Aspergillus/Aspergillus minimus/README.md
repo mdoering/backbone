@@ -1,5 +1,4 @@
-Aspergillus minimus Wehmer, 1897 SPECIES
-=======
+# Aspergillus minimus Wehmer, 1897 SPECIES
 
 #### Status
 ACCEPTED

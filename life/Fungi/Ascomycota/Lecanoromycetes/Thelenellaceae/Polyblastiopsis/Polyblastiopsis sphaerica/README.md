@@ -1,5 +1,4 @@
-Polyblastiopsis sphaerica C.W. Dodge SPECIES
-=======
+# Polyblastiopsis sphaerica C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

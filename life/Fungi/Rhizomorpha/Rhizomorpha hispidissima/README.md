@@ -1,5 +1,4 @@
-Rhizomorpha hispidissima Fr. SPECIES
-=======
+# Rhizomorpha hispidissima Fr. SPECIES
 
 #### Status
 ACCEPTED

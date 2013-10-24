@@ -1,5 +1,4 @@
-Zoothamnioides Schödel, 2006 GENUS
-=======
+# Zoothamnioides Schödel, 2006 GENUS
 
 #### Status
 ACCEPTED

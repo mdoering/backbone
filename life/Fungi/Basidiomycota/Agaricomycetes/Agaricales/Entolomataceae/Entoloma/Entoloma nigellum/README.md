@@ -1,14 +1,13 @@
-Eccilia nigella Quél., 1884 SPECIES
-=======
+# Entoloma nigellum (Quél.) Noordel., 1992 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Compt. Rend. Assoc. Franç. Avancem. Sci. 12: 499 (1884)
+Entoloma s. l. (Saronno), Fungi Europaei vol. <b>5</b> 5: 618 (1992)
 
 #### Original name
 Eccilia nigella Quél., 1884

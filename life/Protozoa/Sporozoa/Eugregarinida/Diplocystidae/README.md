@@ -1,5 +1,4 @@
-Diplocystidae FAMILY
-=======
+# Diplocystidae FAMILY
 
 #### Status
 ACCEPTED

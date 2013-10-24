@@ -1,8 +1,7 @@
-Zeora massalongii Körb. SPECIES
-=======
+# Zeora massalongoi Körb. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Zeora massalongii Körb.
+Zeora massalongoi Körb.
 
 ### Remarks
 null

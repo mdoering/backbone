@@ -1,5 +1,4 @@
-Ceratosporella Höhn. GENUS
-=======
+# Ceratosporella Höhn. GENUS
 
 #### Status
 ACCEPTED

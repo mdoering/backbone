@@ -1,5 +1,4 @@
-Fusarium cerealis (Cooke) Sacc. SPECIES
-=======
+# Fusarium cerealis (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

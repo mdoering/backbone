@@ -1,5 +1,4 @@
-Ascochyta rhagodiae Gonz. Frag. SPECIES
-=======
+# Ascochyta rhagodiae Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

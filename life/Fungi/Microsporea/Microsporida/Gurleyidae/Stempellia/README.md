@@ -1,5 +1,4 @@
-Stempellia L. Léger & E. Hesse, 1910 GENUS
-=======
+# Stempellia L. Léger & E. Hesse, 1910 GENUS
 
 #### Status
 ACCEPTED

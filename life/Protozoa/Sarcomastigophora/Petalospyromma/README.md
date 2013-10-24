@@ -1,5 +1,4 @@
-Petalospyromma Haeckel, 1887 GENUS
-=======
+# Petalospyromma Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

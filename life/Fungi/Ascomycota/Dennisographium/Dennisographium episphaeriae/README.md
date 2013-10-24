@@ -1,5 +1,4 @@
-Dennisographium episphaeriae Rifai, 1977 SPECIES
-=======
+# Dennisographium episphaeriae Rifai, 1977 SPECIES
 
 #### Status
 ACCEPTED

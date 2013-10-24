@@ -1,5 +1,4 @@
-Agaricus caesius Vahl SPECIES
-=======
+# Agaricus caesius Vahl SPECIES
 
 #### Status
 ACCEPTED

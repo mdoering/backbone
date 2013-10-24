@@ -1,5 +1,4 @@
-Mycosphaerella balsamorrhizae Earle SPECIES
-=======
+# Mycosphaerella balsamorrhizae Earle SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplographis rufula (Mont.) A. Massal. SPECIES
-=======
+# Diplographis rufula (Mont.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Codonolepsis GENUS
-=======
+# Codonolepsis GENUS
 
 #### Status
 ACCEPTED

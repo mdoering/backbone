@@ -1,5 +1,4 @@
-Sclerophoma sambuci Höhn. SPECIES
-=======
+# Sclerophoma sambuci Höhn. SPECIES
 
 #### Status
 ACCEPTED

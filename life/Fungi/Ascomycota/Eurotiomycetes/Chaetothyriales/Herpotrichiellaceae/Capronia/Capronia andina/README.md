@@ -1,5 +1,4 @@
-Capronia andina Etayo SPECIES
-=======
+# Capronia andina Etayo SPECIES
 
 #### Status
 ACCEPTED

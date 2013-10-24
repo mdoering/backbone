@@ -1,5 +1,4 @@
-Excipula glandicola Schwein. SPECIES
-=======
+# Excipula glandicola Schwein. SPECIES
 
 #### Status
 ACCEPTED

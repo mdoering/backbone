@@ -1,5 +1,4 @@
-Aspicilia calcarea f. calcarea FORM
-=======
+# Aspicilia calcarea (L.) Körb. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Parerga lichenol. (Breslau) 1: 94 (1861)
 
 #### Original name
-Aspicilia calcarea f. calcarea
+Lichen calcareus L.
 
 ### Remarks
 null

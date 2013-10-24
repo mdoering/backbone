@@ -1,5 +1,4 @@
-Actinosporangium Krasil'nikov & Yuan, 1961 (Approved Lists, 1980) GENUS
-=======
+# Actinosporangium Krasil'nikov & Yuan, 1961 (Approved Lists, 1980) GENUS
 
 #### Status
 ACCEPTED

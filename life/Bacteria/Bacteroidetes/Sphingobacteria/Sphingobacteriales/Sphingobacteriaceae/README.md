@@ -1,5 +1,4 @@
-Sphingobacteriaceae Steyn, Segers, Vancanneyt, Sandra, Kersters & Joubert, 1998 FAMILY
-=======
+# Sphingobacteriaceae Steyn, Segers, Vancanneyt, Sandra, Kersters & Joubert, 1998 FAMILY
 
 #### Status
 ACCEPTED

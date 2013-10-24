@@ -1,5 +1,4 @@
-Ilumatobacter Matsumoto, Kasai, Matsuo, Omura, Shizuri & Takahashi, 2009 GENUS
-=======
+# Ilumatobacter Matsumoto, Kasai, Matsuo, Omura, Shizuri & Takahashi, 2009 GENUS
 
 #### Status
 ACCEPTED

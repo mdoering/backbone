@@ -1,5 +1,4 @@
-Oidium alphitodes Griffon & Maubl. SPECIES
-=======
+# Oidium alphitodes Griffon & Maubl. SPECIES
 
 #### Status
 ACCEPTED

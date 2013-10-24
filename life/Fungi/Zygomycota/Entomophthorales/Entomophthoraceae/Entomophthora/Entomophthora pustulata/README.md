@@ -1,5 +1,4 @@
-Entomophthora pustulata (Weiser) D.M. MacLeod & Müll.-Kög. SPECIES
-=======
+# Entomophthora pustulata (Weiser) D.M. MacLeod & Müll.-Kög. SPECIES
 
 #### Status
 ACCEPTED

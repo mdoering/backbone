@@ -1,5 +1,4 @@
-Thyridium macedonicum Petr. SPECIES
-=======
+# Thyridium macedonicum Petr. SPECIES
 
 #### Status
 ACCEPTED

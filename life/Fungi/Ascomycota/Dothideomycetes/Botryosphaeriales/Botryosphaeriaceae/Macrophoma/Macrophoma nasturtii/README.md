@@ -1,5 +1,4 @@
-Macrophoma nasturtii N. Naito SPECIES
-=======
+# Macrophoma nasturtii N. Naito SPECIES
 
 #### Status
 ACCEPTED

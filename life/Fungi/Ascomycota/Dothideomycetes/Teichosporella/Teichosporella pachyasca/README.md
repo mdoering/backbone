@@ -1,5 +1,4 @@
-Teichosporella pachyasca Luc SPECIES
-=======
+# Teichosporella pachyasca Luc SPECIES
 
 #### Status
 ACCEPTED

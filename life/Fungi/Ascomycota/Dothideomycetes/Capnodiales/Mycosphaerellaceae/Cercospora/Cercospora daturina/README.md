@@ -1,5 +1,4 @@
-Cercospora daturina J.M. Yen SPECIES
-=======
+# Cercospora daturina J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

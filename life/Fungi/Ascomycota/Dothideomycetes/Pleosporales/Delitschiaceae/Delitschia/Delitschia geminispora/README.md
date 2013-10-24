@@ -1,5 +1,4 @@
-Delitschia geminispora Sacc. & Flageolet SPECIES
-=======
+# Delitschia geminispora Sacc. & Flageolet SPECIES
 
 #### Status
 ACCEPTED

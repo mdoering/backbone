@@ -1,5 +1,4 @@
-Phoma hoehnelii var. hoehnelii VARIETY
-=======
+# Phoma hoehnelii Kesteren SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Neth. Jl Pl. Path. 78(3): 116 (1972)
 
 #### Original name
-Phoma hoehnelii var. hoehnelii
+Phoma hoehnelii Kesteren
 
 ### Remarks
 null

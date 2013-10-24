@@ -1,5 +1,4 @@
-Midotis floridana Seaver SPECIES
-=======
+# Midotis floridana Seaver SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buellia gainii (Hue) Darb. SPECIES
-=======
+# Buellia gainii (Hue) Darb. SPECIES
 
 #### Status
 ACCEPTED

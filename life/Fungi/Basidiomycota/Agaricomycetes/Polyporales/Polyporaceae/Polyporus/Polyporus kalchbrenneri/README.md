@@ -1,5 +1,4 @@
-Polyporus kalchbrenneri Fr. SPECIES
-=======
+# Polyporus kalchbrenneri Fr. SPECIES
 
 #### Status
 ACCEPTED

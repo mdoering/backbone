@@ -1,5 +1,4 @@
-Telimena domingensis Chardón, 1929 SPECIES
-=======
+# Telimena domingensis Chardón, 1929 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oscillatoria minima Gicklhorn SPECIES
-=======
+# Oscillatoria minima Gicklhorn SPECIES
 
 #### Status
 ACCEPTED

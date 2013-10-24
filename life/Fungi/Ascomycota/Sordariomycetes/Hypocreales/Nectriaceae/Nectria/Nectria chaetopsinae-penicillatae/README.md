@@ -1,17 +1,16 @@
-Chaetopsinectria chaetopsinae-penicillatae (Samuels) J. Luo & W.Y. Zhuang, 2010 SPECIES
-=======
+# Nectria chaetopsinae-penicillatae Samuels, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 22(1): 24 (1985)
 
 #### Original name
-null
+Nectria chaetopsinae-penicillatae Samuels, 1985
 
 ### Remarks
 null

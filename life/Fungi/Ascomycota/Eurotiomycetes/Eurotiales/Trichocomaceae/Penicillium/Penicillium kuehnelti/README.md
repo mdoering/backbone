@@ -1,5 +1,4 @@
-Penicillium kuehnelti Svilv. SPECIES
-=======
+# Penicillium kuehnelti Svilv. SPECIES
 
 #### Status
 ACCEPTED

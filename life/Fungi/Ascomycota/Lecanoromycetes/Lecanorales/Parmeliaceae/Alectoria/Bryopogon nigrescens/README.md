@@ -1,5 +1,4 @@
-Bryopogon nigrescens f. nigrescens FORM
-=======
+# Bryopogon nigrescens (Nyl.) Gyeln. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Bryopogon nigrescens f. nigrescens
+Alectoria chalybeiformis f. nigrescens Nyl.
 
 ### Remarks
 null

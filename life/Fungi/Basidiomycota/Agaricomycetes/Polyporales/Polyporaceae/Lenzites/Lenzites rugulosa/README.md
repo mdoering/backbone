@@ -1,5 +1,4 @@
-Lenzites rugulosa Berk. SPECIES
-=======
+# Lenzites rugulosa Berk. SPECIES
 
 #### Status
 ACCEPTED

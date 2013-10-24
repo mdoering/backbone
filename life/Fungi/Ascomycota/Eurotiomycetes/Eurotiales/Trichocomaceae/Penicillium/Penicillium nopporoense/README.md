@@ -1,17 +1,16 @@
-Penicillium nopporoensum Y. Sasaki & Nakane {?} SPECIES
-=======
+# Penicillium nopporoense Y. Sasaki & Nakane {?} SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. agric. Chem. Soc. Japan 19: 775 (1943)
 
 #### Original name
-Penicillium nopporoensum Y. Sasaki & Nakane {?}
+Penicillium nopporoense Y. Sasaki & Nakane {?}
 
 ### Remarks
 null

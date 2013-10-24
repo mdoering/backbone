@@ -1,5 +1,4 @@
-Algibacter Nedashkovskaya, Kim, Han, Rhee, Lysenko, Rohde, Zhukova, Frolova, Mikhailov & Bae, 2004 GENUS
-=======
+# Algibacter Nedashkovskaya, Kim, Han, Rhee, Lysenko, Rohde, Zhukova, Frolova, Mikhailov & Bae, 2004 GENUS
 
 #### Status
 ACCEPTED

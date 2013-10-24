@@ -1,14 +1,13 @@
-Oospora microsperma (Berk. & Broome) Sacc. & Voglino SPECIES
-=======
+# Arthropsis microsperma (Berk. & Broome) Sigler, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Saccardo, Syll. fung. (Abellini) 4: 22 (1886)
+in Sigler & Carmichael, Mycotaxon 18(2): 496 (1983)
 
 #### Original name
 Oidium microspermum Berk. & Broome, 1873

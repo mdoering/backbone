@@ -1,5 +1,4 @@
-Pyrenidium sporopodiorum Matzer SPECIES
-=======
+# Pyrenidium sporopodiorum Matzer SPECIES
 
 #### Status
 ACCEPTED

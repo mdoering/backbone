@@ -1,14 +1,13 @@
-Hydnum sprucei Mont., 1856 SPECIES
-=======
+# Deflexula sprucei (Mont.) Maas Geest., 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. gen. sp. crypt. (Paris) 173 (1856)
+Persoonia 3(2): 179 (1964)
 
 #### Original name
 Hydnum sprucei Mont., 1856

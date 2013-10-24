@@ -1,5 +1,4 @@
-Capnophialophora fraserae S. Hughes, 1966 SPECIES
-=======
+# Capnophialophora fraserae S. Hughes, 1966 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptodontidium cubense R.F. Castañeda, 1988 SPECIES
-=======
+# Leptodontidium cubense R.F. Castañeda, 1988 SPECIES
 
 #### Status
 ACCEPTED

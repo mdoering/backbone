@@ -1,5 +1,4 @@
-Coniothyrium donacinum Thüm. SPECIES
-=======
+# Coniothyrium donacinum Thüm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dacrymyces corticioides Ellis & Everh. SPECIES
-=======
+# Dacrymyces corticioides Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

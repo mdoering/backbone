@@ -1,5 +1,4 @@
-Colpomella pini Höhn. SPECIES
-=======
+# Colpomella pini Höhn. SPECIES
 
 #### Status
 ACCEPTED

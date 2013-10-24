@@ -1,5 +1,4 @@
-Anaeromyces mucronatus Breton, Bernalier, Dusser, Fonty, B. Gaillard & J. Guillot, 1990 SPECIES
-=======
+# Anaeromyces mucronatus Breton, Bernalier, Dusser, Fonty, B. Gaillard & J. Guillot, 1990 SPECIES
 
 #### Status
 ACCEPTED

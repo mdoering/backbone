@@ -1,5 +1,4 @@
-Florisphaeridium lavidense Cramer & Díez, 1976 SPECIES
-=======
+# Florisphaeridium lavidense Cramer & Díez, 1976 SPECIES
 
 #### Status
 ACCEPTED

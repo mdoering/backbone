@@ -1,5 +1,4 @@
-Pezizella junciseda Velen. SPECIES
-=======
+# Pezizella junciseda Velen. SPECIES
 
 #### Status
 ACCEPTED

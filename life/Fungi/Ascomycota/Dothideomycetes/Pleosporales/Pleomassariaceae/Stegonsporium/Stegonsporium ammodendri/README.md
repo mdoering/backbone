@@ -1,5 +1,4 @@
-Stegonsporium ammodendri Golovin SPECIES
-=======
+# Stegonsporium ammodendri Golovin SPECIES
 
 #### Status
 ACCEPTED

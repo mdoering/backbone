@@ -1,5 +1,4 @@
-Hymenogaster areolatus (J.W. Cribb) A.H. Sm. SPECIES
-=======
+# Hymenogaster areolatus (J.W. Cribb) A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

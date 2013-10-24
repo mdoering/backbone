@@ -1,5 +1,4 @@
-Phyllachora xylostei (Fr.) Fuckel, 1870 SPECIES
-=======
+# Phyllachora xylostei (Fr.) Fuckel, 1870 SPECIES
 
 #### Status
 DOUBTFUL

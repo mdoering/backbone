@@ -1,5 +1,4 @@
-Valsa lindavii Ruhland SPECIES
-=======
+# Valsa lindavii Ruhland SPECIES
 
 #### Status
 ACCEPTED

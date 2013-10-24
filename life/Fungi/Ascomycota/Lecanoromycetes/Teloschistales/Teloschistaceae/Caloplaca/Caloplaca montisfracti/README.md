@@ -1,5 +1,4 @@
-Caloplaca montisfracti S.Y. Kondr. & Kärnefelt SPECIES
-=======
+# Caloplaca montisfracti S.Y. Kondr. & Kärnefelt SPECIES
 
 #### Status
 ACCEPTED

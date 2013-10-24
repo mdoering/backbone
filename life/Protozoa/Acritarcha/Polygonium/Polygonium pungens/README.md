@@ -1,5 +1,4 @@
-Polygonium pungens (Timofeev, 1959 ex Martin, 1969) Albani, 1989 SPECIES
-=======
+# Polygonium pungens (Timofeev, 1959 ex Martin, 1969) Albani, 1989 SPECIES
 
 #### Status
 ACCEPTED

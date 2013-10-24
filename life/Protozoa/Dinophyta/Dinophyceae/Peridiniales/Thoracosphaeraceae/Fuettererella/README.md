@@ -1,5 +1,4 @@
-Fuettererella Kohring, 1993 GENUS
-=======
+# Fuettererella Kohring, 1993 GENUS
 
 #### Status
 ACCEPTED

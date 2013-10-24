@@ -1,5 +1,4 @@
-Vorticella oceanica Zacharias, 1906 SPECIES
-=======
+# Vorticella oceanica Zacharias, 1906 SPECIES
 
 #### Status
 ACCEPTED

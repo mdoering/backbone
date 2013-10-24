@@ -1,5 +1,4 @@
-Arthopyrenia macularis (Wallr.) Mudd SPECIES
-=======
+# Arthopyrenia macularis (Wallr.) Mudd SPECIES
 
 #### Status
 ACCEPTED

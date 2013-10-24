@@ -1,5 +1,4 @@
-Bombyliospora endoleucitis (Stirt.) Zahlbr. SPECIES
-=======
+# Bombyliospora endoleucitis (Stirt.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

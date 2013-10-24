@@ -1,5 +1,4 @@
-Phoma sesami Sawada SPECIES
-=======
+# Phoma sesami Sawada SPECIES
 
 #### Status
 ACCEPTED

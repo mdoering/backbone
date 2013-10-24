@@ -1,5 +1,4 @@
-Buellia hiorami B. de Lesd. SPECIES
-=======
+# Buellia hiorami B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

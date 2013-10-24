@@ -1,5 +1,4 @@
-Histioneis costata Kofoid & Michener, 1911 SPECIES
-=======
+# Histioneis costata Kofoid & Michener, 1911 SPECIES
 
 #### Status
 ACCEPTED

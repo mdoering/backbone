@@ -1,5 +1,4 @@
-Braarudosphaera bigelowi SPECIES
-=======
+# Braarudosphaera bigelowi SPECIES
 
 #### Status
 ACCEPTED

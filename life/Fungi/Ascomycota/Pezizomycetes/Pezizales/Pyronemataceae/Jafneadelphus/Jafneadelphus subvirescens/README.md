@@ -1,5 +1,4 @@
-Jafneadelphus subvirescens (Velen.) Svrcek SPECIES
-=======
+# Jafneadelphus subvirescens (Velen.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

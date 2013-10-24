@@ -1,5 +1,4 @@
-Squamaria subcircinata f. subcircinata FORM
-=======
+# Squamaria subcircinata SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Squamaria subcircinata f. subcircinata
+null
 
 ### Remarks
 null

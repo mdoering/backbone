@@ -1,5 +1,4 @@
-Mycogone rufa Petch SPECIES
-=======
+# Mycogone rufa Petch SPECIES
 
 #### Status
 ACCEPTED

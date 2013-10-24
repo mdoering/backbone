@@ -1,5 +1,4 @@
-Pyrenopeziza kriegeriana (Syd.) Nannf. SPECIES
-=======
+# Pyrenopeziza kriegeriana (Syd.) Nannf. SPECIES
 
 #### Status
 ACCEPTED

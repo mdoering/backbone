@@ -1,5 +1,4 @@
-Pestalotia cliftoniae Tracy & Earle SPECIES
-=======
+# Pestalotia cliftoniae Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

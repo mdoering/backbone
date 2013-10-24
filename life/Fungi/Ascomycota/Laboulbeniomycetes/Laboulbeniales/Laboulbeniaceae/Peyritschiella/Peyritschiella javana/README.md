@@ -1,5 +1,4 @@
-Peyritschiella javana (Thaxt.) I.I. Tav. SPECIES
-=======
+# Peyritschiella javana (Thaxt.) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

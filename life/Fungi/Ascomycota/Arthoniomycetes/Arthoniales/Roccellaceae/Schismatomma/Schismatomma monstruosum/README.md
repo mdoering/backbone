@@ -1,5 +1,4 @@
-Schismatomma monstruosum (B. de Lesd.) Clauzade & Cl. Roux SPECIES
-=======
+# Schismatomma monstruosum (B. de Lesd.) Clauzade & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

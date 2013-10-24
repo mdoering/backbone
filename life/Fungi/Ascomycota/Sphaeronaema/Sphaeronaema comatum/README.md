@@ -1,5 +1,4 @@
-Sphaeronaema comatum Ces. SPECIES
-=======
+# Sphaeronaema comatum Ces. SPECIES
 
 #### Status
 ACCEPTED

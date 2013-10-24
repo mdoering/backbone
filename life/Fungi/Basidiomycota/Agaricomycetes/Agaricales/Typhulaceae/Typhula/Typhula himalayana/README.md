@@ -1,5 +1,4 @@
-Typhula himalayana (Corner) Khurana SPECIES
-=======
+# Typhula himalayana (Corner) Khurana SPECIES
 
 #### Status
 ACCEPTED

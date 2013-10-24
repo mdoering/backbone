@@ -1,5 +1,4 @@
-Chytridium cejpii Fott SPECIES
-=======
+# Chytridium cejpii Fott SPECIES
 
 #### Status
 ACCEPTED

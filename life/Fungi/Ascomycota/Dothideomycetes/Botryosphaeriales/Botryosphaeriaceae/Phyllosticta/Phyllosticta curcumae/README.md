@@ -1,5 +1,4 @@
-Phyllosticta curcumae Sawada SPECIES
-=======
+# Phyllosticta curcumae Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phialea leucopsis (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Phialea leucopsis (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trachylia californica Tuck. SPECIES
-=======
+# Trachylia californica Tuck. SPECIES
 
 #### Status
 ACCEPTED

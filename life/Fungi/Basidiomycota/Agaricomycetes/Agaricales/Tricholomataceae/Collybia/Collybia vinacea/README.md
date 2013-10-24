@@ -1,14 +1,13 @@
-Crinipellis vinacea G. Stev., 1964 SPECIES
-=======
+# Collybia vinacea (G. Stev.) E. Horak, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Kew Bull. 19(1): 44 (1964)
+N. Z. Jl Bot. 9(3): 459 (1971)
 
 #### Original name
 Crinipellis vinacea G. Stev., 1964

@@ -1,5 +1,4 @@
-Balladyna uncinata Syd. & P. Syd. SPECIES
-=======
+# Balladyna uncinata Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

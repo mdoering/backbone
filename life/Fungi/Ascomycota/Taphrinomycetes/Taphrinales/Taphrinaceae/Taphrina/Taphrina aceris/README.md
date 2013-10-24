@@ -1,5 +1,4 @@
-Taphrina aceris (Dearn. & Barthol.) Mix SPECIES
-=======
+# Taphrina aceris (Dearn. & Barthol.) Mix SPECIES
 
 #### Status
 ACCEPTED

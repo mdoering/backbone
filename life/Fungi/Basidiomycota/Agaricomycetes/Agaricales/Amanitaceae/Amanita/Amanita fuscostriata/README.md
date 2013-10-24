@@ -1,5 +1,4 @@
-Amanita fuscostriata Pegler SPECIES
-=======
+# Amanita fuscostriata Pegler SPECIES
 
 #### Status
 ACCEPTED

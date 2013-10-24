@@ -1,5 +1,4 @@
-Hyaloscypha acerina Velen. SPECIES
-=======
+# Hyaloscypha acerina Velen. SPECIES
 
 #### Status
 ACCEPTED

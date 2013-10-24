@@ -1,5 +1,4 @@
-Octospora gemmicola Benkert SPECIES
-=======
+# Octospora gemmicola Benkert SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhodophyllus dimorphocystis Romagn. & Gilles SPECIES
-=======
+# Rhodophyllus dimorphocystis Romagn. & Gilles SPECIES
 
 #### Status
 ACCEPTED

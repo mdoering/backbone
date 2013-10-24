@@ -1,5 +1,4 @@
-Phoma cicatriculae Briosi & Farneti SPECIES
-=======
+# Phoma cicatriculae Briosi & Farneti SPECIES
 
 #### Status
 ACCEPTED

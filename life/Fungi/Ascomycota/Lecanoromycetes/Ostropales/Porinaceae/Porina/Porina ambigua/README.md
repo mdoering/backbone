@@ -1,5 +1,4 @@
-Porina ambigua var. ambigua VARIETY
-=======
+# Porina ambigua Malme SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Porina ambigua var. ambigua
+Porina ambigua Malme
 
 ### Remarks
 null

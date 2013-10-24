@@ -1,5 +1,4 @@
-Phoma calophacae Henn. SPECIES
-=======
+# Phoma calophacae Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fungus xylogenus (Mont.) Kuntze SPECIES
-=======
+# Fungus xylogenus (Mont.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

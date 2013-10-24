@@ -1,5 +1,4 @@
-Lecania stenospora (Hue) Maheu & A. Gillet SPECIES
-=======
+# Lecania stenospora (Hue) Maheu & A. Gillet SPECIES
 
 #### Status
 ACCEPTED

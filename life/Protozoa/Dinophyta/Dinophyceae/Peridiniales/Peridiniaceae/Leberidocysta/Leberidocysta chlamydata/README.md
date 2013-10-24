@@ -1,5 +1,4 @@
-Leberidocysta chlamydata (Cookson & Eisenack, 1962) Stover & Evitt SPECIES
-=======
+# Leberidocysta chlamydata (Cookson & Eisenack, 1962) Stover & Evitt SPECIES
 
 #### Status
 ACCEPTED

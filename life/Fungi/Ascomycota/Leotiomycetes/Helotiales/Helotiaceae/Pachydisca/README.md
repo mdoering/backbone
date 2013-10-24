@@ -1,5 +1,4 @@
-Pachydisca Boud. GENUS
-=======
+# Pachydisca Boud. GENUS
 
 #### Status
 ACCEPTED

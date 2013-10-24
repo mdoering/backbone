@@ -1,5 +1,4 @@
-Stereum hymenoglium Speg., 1921 SPECIES
-=======
+# Stereum hymenoglium Speg., 1921 SPECIES
 
 #### Status
 ACCEPTED

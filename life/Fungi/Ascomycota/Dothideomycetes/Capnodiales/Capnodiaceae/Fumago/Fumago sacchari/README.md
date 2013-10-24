@@ -1,5 +1,4 @@
-Fumago sacchari Speg. SPECIES
-=======
+# Fumago sacchari Speg. SPECIES
 
 #### Status
 ACCEPTED

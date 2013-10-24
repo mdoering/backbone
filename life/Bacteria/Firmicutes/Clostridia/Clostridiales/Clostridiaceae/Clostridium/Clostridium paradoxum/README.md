@@ -1,5 +1,4 @@
-Clostridium paradoxum Li et al., 1993 SPECIES
-=======
+# Clostridium paradoxum Li et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

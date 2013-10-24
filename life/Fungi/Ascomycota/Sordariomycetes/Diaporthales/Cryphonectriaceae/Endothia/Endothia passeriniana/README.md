@@ -1,5 +1,4 @@
-Endothia passeriniana (Cooke) Weese SPECIES
-=======
+# Endothia passeriniana (Cooke) Weese SPECIES
 
 #### Status
 ACCEPTED

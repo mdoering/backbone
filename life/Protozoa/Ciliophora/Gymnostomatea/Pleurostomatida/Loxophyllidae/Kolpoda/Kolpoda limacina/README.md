@@ -1,5 +1,4 @@
-Kolpoda limacina Bory, 1824 SPECIES
-=======
+# Kolpoda limacina Bory, 1824 SPECIES
 
 #### Status
 ACCEPTED

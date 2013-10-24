@@ -1,5 +1,4 @@
-Xeromphalina austroandina Singer SPECIES
-=======
+# Xeromphalina austroandina Singer SPECIES
 
 #### Status
 ACCEPTED

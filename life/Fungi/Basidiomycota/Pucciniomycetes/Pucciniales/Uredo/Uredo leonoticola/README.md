@@ -1,5 +1,4 @@
-Uredo leonoticola Henn. SPECIES
-=======
+# Uredo leonoticola Henn. SPECIES
 
 #### Status
 ACCEPTED

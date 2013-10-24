@@ -1,5 +1,4 @@
-Alternaria guaranitica (Speg.) E.G. Simmons SPECIES
-=======
+# Alternaria guaranitica (Speg.) E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

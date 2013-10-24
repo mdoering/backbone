@@ -1,5 +1,4 @@
-Alboleptonia cylindrocapitata T.J. Baroni & Ovrebo SPECIES
-=======
+# Alboleptonia cylindrocapitata T.J. Baroni & Ovrebo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza gentianae Pers. SPECIES
-=======
+# Peziza gentianae Pers. SPECIES
 
 #### Status
 ACCEPTED

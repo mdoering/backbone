@@ -1,5 +1,4 @@
-Fusicoccum dipsaci Caball. SPECIES
-=======
+# Fusicoccum dipsaci Caball. SPECIES
 
 #### Status
 ACCEPTED

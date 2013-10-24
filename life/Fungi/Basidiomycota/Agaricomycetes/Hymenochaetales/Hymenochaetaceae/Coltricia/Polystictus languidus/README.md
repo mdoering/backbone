@@ -1,5 +1,4 @@
-Polystictus languidus (Fr.) Fr. SPECIES
-=======
+# Polystictus languidus (Fr.) Fr. SPECIES
 
 #### Status
 ACCEPTED

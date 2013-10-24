@@ -1,5 +1,4 @@
-Lobaria dichotomoides (Nyl.) Trevis. SPECIES
-=======
+# Lobaria dichotomoides (Nyl.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

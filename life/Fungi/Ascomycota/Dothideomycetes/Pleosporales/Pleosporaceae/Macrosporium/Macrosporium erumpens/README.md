@@ -1,5 +1,4 @@
-Macrosporium erumpens Cooke SPECIES
-=======
+# Macrosporium erumpens Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Penicillium triverticillatum H.J. Swart SPECIES
-=======
+# Penicillium triverticillatum H.J. Swart SPECIES
 
 #### Status
 ACCEPTED

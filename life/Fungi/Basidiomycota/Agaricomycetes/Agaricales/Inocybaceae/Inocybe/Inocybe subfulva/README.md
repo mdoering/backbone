@@ -1,5 +1,4 @@
-Inocybe subfulva Peck SPECIES
-=======
+# Inocybe subfulva Peck SPECIES
 
 #### Status
 ACCEPTED

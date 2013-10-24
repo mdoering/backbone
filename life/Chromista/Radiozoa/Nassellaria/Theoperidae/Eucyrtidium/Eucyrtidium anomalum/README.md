@@ -1,5 +1,4 @@
-Eucyrtidium anomalum (Haeckel) Haeckel, 1862 SPECIES
-=======
+# Eucyrtidium anomalum (Haeckel) Haeckel, 1862 SPECIES
 
 #### Status
 ACCEPTED

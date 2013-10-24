@@ -1,5 +1,4 @@
-Cercosporella gei Dearn. & Bisby SPECIES
-=======
+# Cercosporella gei Dearn. & Bisby SPECIES
 
 #### Status
 ACCEPTED

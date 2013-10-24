@@ -1,5 +1,4 @@
-Bacidia inconsequens (Nyl.) Zahlbr. SPECIES
-=======
+# Bacidia inconsequens (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

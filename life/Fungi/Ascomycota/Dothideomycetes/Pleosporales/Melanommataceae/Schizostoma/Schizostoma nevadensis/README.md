@@ -1,5 +1,4 @@
-Schizostoma nevadensis Ellis & Everh. SPECIES
-=======
+# Schizostoma nevadensis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

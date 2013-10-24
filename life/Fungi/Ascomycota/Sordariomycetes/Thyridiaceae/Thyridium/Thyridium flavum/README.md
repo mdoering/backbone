@@ -1,5 +1,4 @@
-Thyridium flavum Petch SPECIES
-=======
+# Thyridium flavum Petch SPECIES
 
 #### Status
 ACCEPTED

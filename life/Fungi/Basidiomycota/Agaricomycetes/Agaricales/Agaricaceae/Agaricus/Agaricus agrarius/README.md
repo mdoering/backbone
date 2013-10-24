@@ -1,5 +1,4 @@
-Agaricus agrarius Fr. SPECIES
-=======
+# Agaricus agrarius Fr. SPECIES
 
 #### Status
 ACCEPTED

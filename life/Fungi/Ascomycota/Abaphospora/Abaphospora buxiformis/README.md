@@ -1,5 +1,4 @@
-Abaphospora buxiformis (Berk. & M.A. Curtis) Kirschst. SPECIES
-=======
+# Abaphospora buxiformis (Berk. & M.A. Curtis) Kirschst. SPECIES
 
 #### Status
 ACCEPTED

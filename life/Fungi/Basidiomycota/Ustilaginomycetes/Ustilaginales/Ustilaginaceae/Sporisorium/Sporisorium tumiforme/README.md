@@ -1,5 +1,4 @@
-Sporisorium tumiforme Vánky & R.G. Shivas SPECIES
-=======
+# Sporisorium tumiforme Vánky & R.G. Shivas SPECIES
 
 #### Status
 ACCEPTED

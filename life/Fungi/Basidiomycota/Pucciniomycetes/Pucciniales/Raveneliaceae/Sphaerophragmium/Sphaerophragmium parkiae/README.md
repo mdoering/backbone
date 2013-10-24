@@ -1,5 +1,4 @@
-Sphaerophragmium parkiae Dennis, 1960 SPECIES
-=======
+# Sphaerophragmium parkiae Dennis, 1960 SPECIES
 
 #### Status
 ACCEPTED

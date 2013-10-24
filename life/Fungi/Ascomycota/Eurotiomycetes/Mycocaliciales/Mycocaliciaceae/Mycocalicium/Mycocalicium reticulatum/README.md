@@ -1,5 +1,4 @@
-Mycocalicium reticulatum Nádv. SPECIES
-=======
+# Mycocalicium reticulatum Nádv. SPECIES
 
 #### Status
 ACCEPTED

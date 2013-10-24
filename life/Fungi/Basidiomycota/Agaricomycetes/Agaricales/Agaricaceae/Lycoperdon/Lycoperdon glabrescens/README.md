@@ -1,5 +1,4 @@
-Lycoperdon glabrescens Berk., 1859 SPECIES
-=======
+# Lycoperdon glabrescens Berk., 1859 SPECIES
 
 #### Status
 ACCEPTED

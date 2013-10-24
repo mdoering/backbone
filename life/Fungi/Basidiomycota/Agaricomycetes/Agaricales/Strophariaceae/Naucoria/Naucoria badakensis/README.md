@@ -1,5 +1,4 @@
-Naucoria badakensis Henn. SPECIES
-=======
+# Naucoria badakensis Henn. SPECIES
 
 #### Status
 ACCEPTED

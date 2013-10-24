@@ -1,5 +1,4 @@
-Microbispora rosea subsp. rosea SUBSPECIES
-=======
+# Microbispora rosea Nonomura & Ohara, 1957 SPECIES
 
 #### Status
 ACCEPTED

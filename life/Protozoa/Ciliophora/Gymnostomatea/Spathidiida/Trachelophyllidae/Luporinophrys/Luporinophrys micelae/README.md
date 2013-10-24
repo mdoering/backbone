@@ -1,5 +1,4 @@
-Luporinophrys micelae Foissner, 2005 SPECIES
-=======
+# Luporinophrys micelae Foissner, 2005 SPECIES
 
 #### Status
 ACCEPTED

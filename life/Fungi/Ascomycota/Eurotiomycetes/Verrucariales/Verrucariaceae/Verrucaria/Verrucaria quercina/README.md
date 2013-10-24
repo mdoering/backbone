@@ -1,5 +1,4 @@
-Verrucaria quercina Breuss SPECIES
-=======
+# Verrucaria quercina Breuss SPECIES
 
 #### Status
 ACCEPTED

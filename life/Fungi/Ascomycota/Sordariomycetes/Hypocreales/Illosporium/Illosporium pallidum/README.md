@@ -1,5 +1,4 @@
-Illosporium pallidum Cooke SPECIES
-=======
+# Illosporium pallidum Cooke SPECIES
 
 #### Status
 ACCEPTED

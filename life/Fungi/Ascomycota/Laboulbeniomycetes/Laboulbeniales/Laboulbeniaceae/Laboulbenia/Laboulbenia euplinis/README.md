@@ -1,5 +1,4 @@
-Laboulbenia euplinis Speg. SPECIES
-=======
+# Laboulbenia euplinis Speg. SPECIES
 
 #### Status
 ACCEPTED

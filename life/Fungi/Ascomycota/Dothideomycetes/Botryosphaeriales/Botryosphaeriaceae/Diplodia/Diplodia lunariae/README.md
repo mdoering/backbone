@@ -1,5 +1,4 @@
-Diplodia lunariae Jaap SPECIES
-=======
+# Diplodia lunariae Jaap SPECIES
 
 #### Status
 ACCEPTED

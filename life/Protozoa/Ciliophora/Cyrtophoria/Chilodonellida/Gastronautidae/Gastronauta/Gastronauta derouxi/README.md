@@ -1,5 +1,4 @@
-Gastronauta derouxi Blatterer & Foissner, 1992 SPECIES
-=======
+# Gastronauta derouxi Blatterer & Foissner, 1992 SPECIES
 
 #### Status
 ACCEPTED

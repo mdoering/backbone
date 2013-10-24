@@ -1,17 +1,16 @@
-Echinoplaca incrustatociliata Sérus. SPECIES
-=======
+# Echinoplaca incrustaticiliata Sérus. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Aptroot, Diederich, Sérusiaux & Sipman, Biblthca Lichenol. 64: 58 (1997)
 
 #### Original name
-Echinoplaca incrustatociliata Sérus.
+Echinoplaca incrustaticiliata Sérus.
 
 ### Remarks
 null

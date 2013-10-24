@@ -1,5 +1,4 @@
-Cyphellophora taiwanensis Matsush. SPECIES
-=======
+# Cyphellophora taiwanensis Matsush. SPECIES
 
 #### Status
 ACCEPTED

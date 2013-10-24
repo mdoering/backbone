@@ -1,5 +1,4 @@
-Clintoniella euphorbiae (Pat.) Sacc. & P. Syd. SPECIES
-=======
+# Clintoniella euphorbiae (Pat.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

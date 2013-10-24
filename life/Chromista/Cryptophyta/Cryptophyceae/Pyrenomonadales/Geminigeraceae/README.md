@@ -1,5 +1,4 @@
-Geminigeraceae B.L. Clay, P. Kugrens & R.E. Lee, 1999 FAMILY
-=======
+# Geminigeraceae B.L. Clay, P. Kugrens & R.E. Lee, 1999 FAMILY
 
 #### Status
 ACCEPTED

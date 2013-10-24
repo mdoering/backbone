@@ -1,5 +1,4 @@
-Micrhystridium conigerum Deflandre in Deflandre & Ters, 1966 SPECIES
-=======
+# Micrhystridium conigerum Deflandre in Deflandre & Ters, 1966 SPECIES
 
 #### Status
 ACCEPTED

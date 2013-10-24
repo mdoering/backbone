@@ -1,14 +1,13 @@
-Stereum cristatum Berk. & M.A. Curtis, 1873 SPECIES
-=======
+# Podoscypha cristata (Berk. & M.A. Curtis) D.A. Reid, 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 1(no. 11): 163 (1873)
+Beih. Nova Hedwigia 18: 174 (1965)
 
 #### Original name
 Stereum cristatum Berk. & M.A. Curtis, 1873

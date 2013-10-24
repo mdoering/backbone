@@ -1,5 +1,4 @@
-Ramalina scoriseda Zahlbr. SPECIES
-=======
+# Ramalina scoriseda Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

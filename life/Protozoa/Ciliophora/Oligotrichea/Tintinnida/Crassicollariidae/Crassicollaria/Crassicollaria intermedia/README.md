@@ -1,5 +1,4 @@
-Crassicollaria intermedia Durand Delga, 1957 SPECIES
-=======
+# Crassicollaria intermedia Durand Delga, 1957 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Cercospora thumbergiae Boedijn SPECIES
-=======
+# Cercospora thunbergiae Boedijn SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nova Hedwigia 3(4): 411 (1962)
 
 #### Original name
-Cercospora thumbergiae Boedijn
+Cercospora thunbergiae Boedijn
 
 ### Remarks
 null

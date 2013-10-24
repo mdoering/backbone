@@ -1,5 +1,4 @@
-Sowerbyella Nannfeldt, 1938 GENUS
-=======
+# Sowerbyella Nannfeldt, 1938 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dinopterygium tuberculatum (Eisenack & Cookson, 1960) Stover & Evitt, 1978 SPECIES
-=======
+# Dinopterygium tuberculatum (Eisenack & Cookson, 1960) Stover & Evitt, 1978 SPECIES
 
 #### Status
 ACCEPTED

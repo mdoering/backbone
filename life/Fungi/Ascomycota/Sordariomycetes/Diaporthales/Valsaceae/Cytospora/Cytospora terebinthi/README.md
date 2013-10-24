@@ -1,5 +1,4 @@
-Cytospora terebinthi Bres. SPECIES
-=======
+# Cytospora terebinthi Bres. SPECIES
 
 #### Status
 ACCEPTED

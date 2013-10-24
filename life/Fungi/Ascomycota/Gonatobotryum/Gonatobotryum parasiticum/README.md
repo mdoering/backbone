@@ -1,14 +1,13 @@
-Gonatorrhodiella parasitica Thaxt., 1891 SPECIES
-=======
+# Gonatobotryum parasiticum (Thaxt.) Jane Walker & Minter, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Gaz. 16: 202 (1891)
+Trans. Br. mycol. Soc. 77(2): 310 (1981)
 
 #### Original name
 Gonatorrhodiella parasitica Thaxt., 1891

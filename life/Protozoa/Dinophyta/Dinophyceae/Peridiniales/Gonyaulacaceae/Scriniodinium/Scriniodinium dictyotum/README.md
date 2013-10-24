@@ -1,5 +1,4 @@
-Scriniodinium dictyotum Cookson & Eisenack SPECIES
-=======
+# Scriniodinium dictyotum Cookson & Eisenack SPECIES
 
 #### Status
 ACCEPTED

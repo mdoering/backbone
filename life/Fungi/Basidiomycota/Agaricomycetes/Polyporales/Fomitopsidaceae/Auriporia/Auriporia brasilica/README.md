@@ -1,5 +1,4 @@
-Auriporia brasilica G. Coelho SPECIES
-=======
+# Auriporia brasilica G. Coelho SPECIES
 
 #### Status
 ACCEPTED

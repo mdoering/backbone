@@ -1,5 +1,4 @@
-Exosporium murrayae Henn. SPECIES
-=======
+# Exosporium murrayae Henn. SPECIES
 
 #### Status
 ACCEPTED

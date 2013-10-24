@@ -1,14 +1,13 @@
-Lecanora punicea var. infusca Stirt. VARIETY
-=======
+# Haematomma infuscum (Stirt.) R. W. Rogers SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Bailey, Queensland Agric. J. 5: 38 (1899)
+Lichenologist 14(2): 124 (1982)
 
 #### Original name
 Lecanora punicea var. infusca Stirt.

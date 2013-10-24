@@ -1,5 +1,4 @@
-Coelomomyces madagascaricus Couch & Grjebine SPECIES
-=======
+# Coelomomyces madagascaricus Couch & Grjebine SPECIES
 
 #### Status
 ACCEPTED

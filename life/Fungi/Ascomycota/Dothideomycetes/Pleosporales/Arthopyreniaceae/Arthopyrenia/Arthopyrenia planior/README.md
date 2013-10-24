@@ -1,5 +1,4 @@
-Arthopyrenia planior Müll. Arg. SPECIES
-=======
+# Arthopyrenia planior Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pestalotia corni Allesch. SPECIES
-=======
+# Pestalotia corni Allesch. SPECIES
 
 #### Status
 ACCEPTED

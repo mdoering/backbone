@@ -1,5 +1,4 @@
-Vermicularia effusa Schwein. SPECIES
-=======
+# Vermicularia effusa Schwein. SPECIES
 
 #### Status
 ACCEPTED

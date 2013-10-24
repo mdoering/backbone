@@ -1,5 +1,4 @@
-Clavaria seminicola Henn. SPECIES
-=======
+# Clavaria seminicola Henn. SPECIES
 
 #### Status
 ACCEPTED

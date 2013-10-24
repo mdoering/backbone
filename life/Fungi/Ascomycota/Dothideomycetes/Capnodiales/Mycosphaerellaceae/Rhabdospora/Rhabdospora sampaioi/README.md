@@ -1,5 +1,4 @@
-Rhabdospora sampaioi Gonz. Frag. SPECIES
-=======
+# Rhabdospora sampaioi Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

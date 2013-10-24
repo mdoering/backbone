@@ -1,5 +1,4 @@
-Sargassum densifolium Zanardini SPECIES
-=======
+# Sargassum densifolium Zanardini SPECIES
 
 #### Status
 ACCEPTED

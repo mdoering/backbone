@@ -1,5 +1,4 @@
-Hygrophorus singeri var. singeri VARIETY
-=======
+# Hygrophorus singeri A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Sydowia 8: 331 (1954)
 
 #### Original name
-Hygrophorus singeri var. singeri
+Hygrophorus singeri A.H. Sm. & Hesler
 
 ### Remarks
 null

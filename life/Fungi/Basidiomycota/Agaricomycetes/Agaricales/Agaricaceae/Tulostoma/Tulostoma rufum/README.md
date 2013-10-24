@@ -1,5 +1,4 @@
-Tulostoma rufum Lloyd SPECIES
-=======
+# Tulostoma rufum Lloyd SPECIES
 
 #### Status
 ACCEPTED

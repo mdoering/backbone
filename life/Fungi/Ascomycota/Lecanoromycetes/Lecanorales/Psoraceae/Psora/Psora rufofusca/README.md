@@ -1,5 +1,4 @@
-Psora rufofusca (Anzi) Räsänen SPECIES
-=======
+# Psora rufofusca (Anzi) Räsänen SPECIES
 
 #### Status
 ACCEPTED

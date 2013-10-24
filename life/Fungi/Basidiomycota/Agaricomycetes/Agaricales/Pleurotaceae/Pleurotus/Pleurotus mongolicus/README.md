@@ -1,5 +1,4 @@
-Pleurotus mongolicus (Kalchbr.) Sacc. SPECIES
-=======
+# Pleurotus mongolicus (Kalchbr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

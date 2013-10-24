@@ -1,5 +1,4 @@
-Chiodecton galactinum Zahlbr. SPECIES
-=======
+# Chiodecton galactinum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

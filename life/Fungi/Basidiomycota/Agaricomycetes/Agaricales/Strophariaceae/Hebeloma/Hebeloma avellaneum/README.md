@@ -1,5 +1,4 @@
-Hebeloma avellaneum Kauffman SPECIES
-=======
+# Hebeloma avellaneum Kauffman SPECIES
 
 #### Status
 ACCEPTED

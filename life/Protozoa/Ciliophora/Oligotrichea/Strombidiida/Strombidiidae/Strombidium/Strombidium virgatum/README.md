@@ -1,5 +1,4 @@
-Strombidium virgatum Wulff, 1919 SPECIES
-=======
+# Strombidium virgatum Wulff, 1919 SPECIES
 
 #### Status
 ACCEPTED

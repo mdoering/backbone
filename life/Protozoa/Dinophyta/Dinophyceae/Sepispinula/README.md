@@ -1,5 +1,4 @@
-Sepispinula Islam, 1993 GENUS
-=======
+# Sepispinula Islam, 1993 GENUS
 
 #### Status
 ACCEPTED

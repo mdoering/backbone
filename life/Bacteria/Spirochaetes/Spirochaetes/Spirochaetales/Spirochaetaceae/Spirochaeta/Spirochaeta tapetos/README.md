@@ -1,5 +1,4 @@
-Spirochaeta tapetos SPECIES
-=======
+# Spirochaeta tapetos SPECIES
 
 #### Status
 ACCEPTED

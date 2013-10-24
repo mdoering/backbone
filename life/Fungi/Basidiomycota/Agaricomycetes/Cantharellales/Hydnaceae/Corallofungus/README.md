@@ -1,5 +1,4 @@
-Corallofungus Kobayasi GENUS
-=======
+# Corallofungus Kobayasi GENUS
 
 #### Status
 ACCEPTED

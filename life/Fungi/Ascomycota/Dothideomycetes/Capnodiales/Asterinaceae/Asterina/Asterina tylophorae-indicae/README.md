@@ -1,5 +1,4 @@
-Asterina tylophorae-indicae Hosag., H. Biju & Manojk., 2006 SPECIES
-=======
+# Asterina tylophorae-indicae Hosag., H. Biju & Manojk., 2006 SPECIES
 
 #### Status
 ACCEPTED

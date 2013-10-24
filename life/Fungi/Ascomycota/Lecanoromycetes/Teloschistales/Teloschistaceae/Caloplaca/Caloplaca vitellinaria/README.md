@@ -1,5 +1,4 @@
-Caloplaca vitellinaria Szatala SPECIES
-=======
+# Caloplaca vitellinaria Szatala SPECIES
 
 #### Status
 ACCEPTED

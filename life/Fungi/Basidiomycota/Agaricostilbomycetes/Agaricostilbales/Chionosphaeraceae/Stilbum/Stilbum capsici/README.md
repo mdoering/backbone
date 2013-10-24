@@ -1,5 +1,4 @@
-Stilbum capsici Pat. SPECIES
-=======
+# Stilbum capsici Pat. SPECIES
 
 #### Status
 ACCEPTED

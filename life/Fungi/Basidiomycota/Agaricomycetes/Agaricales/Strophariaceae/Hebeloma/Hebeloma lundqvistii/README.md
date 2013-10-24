@@ -1,5 +1,4 @@
-Hebeloma lundqvistii Vesterh. SPECIES
-=======
+# Hebeloma lundqvistii Vesterh. SPECIES
 
 #### Status
 ACCEPTED

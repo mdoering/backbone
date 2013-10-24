@@ -1,5 +1,4 @@
-Dialonectria myriadea (Ces.) Cooke SPECIES
-=======
+# Dialonectria myriadea (Ces.) Cooke SPECIES
 
 #### Status
 ACCEPTED

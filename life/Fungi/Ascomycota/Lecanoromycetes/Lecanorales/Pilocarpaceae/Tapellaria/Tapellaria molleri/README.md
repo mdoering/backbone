@@ -1,5 +1,4 @@
-Tapellaria molleri (Henriq.) R. Sant. SPECIES
-=======
+# Tapellaria molleri (Henriq.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

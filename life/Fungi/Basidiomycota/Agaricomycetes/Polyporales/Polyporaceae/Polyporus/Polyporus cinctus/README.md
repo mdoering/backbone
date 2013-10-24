@@ -1,5 +1,4 @@
-Polyporus cinctus Berk. SPECIES
-=======
+# Polyporus cinctus Berk. SPECIES
 
 #### Status
 ACCEPTED

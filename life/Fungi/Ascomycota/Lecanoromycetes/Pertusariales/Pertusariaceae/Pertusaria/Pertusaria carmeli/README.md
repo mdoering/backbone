@@ -1,5 +1,4 @@
-Pertusaria carmeli Reichert & Galun SPECIES
-=======
+# Pertusaria carmeli Reichert & Galun SPECIES
 
 #### Status
 ACCEPTED

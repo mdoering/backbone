@@ -1,5 +1,4 @@
-Polyporus ehrenreichii Henn. SPECIES
-=======
+# Polyporus ehrenreichii Henn. SPECIES
 
 #### Status
 ACCEPTED

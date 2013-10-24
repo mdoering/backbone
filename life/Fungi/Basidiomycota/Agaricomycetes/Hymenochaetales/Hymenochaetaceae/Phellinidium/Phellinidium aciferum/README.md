@@ -1,5 +1,4 @@
-Phellinidium aciferum Y.C. Dai SPECIES
-=======
+# Phellinidium aciferum Y.C. Dai SPECIES
 
 #### Status
 ACCEPTED

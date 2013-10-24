@@ -1,5 +1,4 @@
-Tulostoma utahense J.E. Wright SPECIES
-=======
+# Tulostoma utahense J.E. Wright SPECIES
 
 #### Status
 ACCEPTED

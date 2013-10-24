@@ -1,14 +1,13 @@
-Aecidium codiaei Syd., 1939 SPECIES
-=======
+# Dietelia codiaei (Syd. & P. Syd.) Boerema, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 37: 198 (1939)
+Versl. Medsd. Plziektenk. Dienst Wageningen, 1978 16: 153 (1979)
 
 #### Original name
 Aecidium codiaei Syd., 1939

@@ -1,5 +1,4 @@
-Kokia borealis SPECIES
-=======
+# Kokia borealis SPECIES
 
 #### Status
 ACCEPTED

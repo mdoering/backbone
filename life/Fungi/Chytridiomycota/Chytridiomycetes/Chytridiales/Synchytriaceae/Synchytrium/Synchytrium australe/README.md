@@ -1,5 +1,4 @@
-Synchytrium australe Speg., 1881 SPECIES
-=======
+# Synchytrium australe Speg., 1881 SPECIES
 
 #### Status
 ACCEPTED

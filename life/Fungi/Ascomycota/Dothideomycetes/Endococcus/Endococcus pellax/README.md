@@ -1,5 +1,4 @@
-Endococcus pellax Nyl. SPECIES
-=======
+# Endococcus pellax Nyl. SPECIES
 
 #### Status
 ACCEPTED

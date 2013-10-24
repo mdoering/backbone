@@ -1,5 +1,4 @@
-Entoderma Hanula, Andreadis & M. Blackwell, 1991 GENUS
-=======
+# Entoderma Hanula, Andreadis & M. Blackwell, 1991 GENUS
 
 #### Status
 ACCEPTED

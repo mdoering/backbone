@@ -1,5 +1,4 @@
-Caloplaca capitulata H. Magn. SPECIES
-=======
+# Caloplaca capitulata H. Magn. SPECIES
 
 #### Status
 ACCEPTED

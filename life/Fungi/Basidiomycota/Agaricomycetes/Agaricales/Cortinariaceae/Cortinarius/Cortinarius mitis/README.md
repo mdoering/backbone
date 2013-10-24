@@ -1,5 +1,4 @@
-Cortinarius mitis M.M. Moser SPECIES
-=======
+# Cortinarius mitis M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

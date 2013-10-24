@@ -1,5 +1,4 @@
-Psathyrella vestita (Peck) A.H. Sm. SPECIES
-=======
+# Psathyrella vestita (Peck) A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

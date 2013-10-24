@@ -1,5 +1,4 @@
-Ameris GENUS
-=======
+# Ameris GENUS
 
 #### Status
 ACCEPTED

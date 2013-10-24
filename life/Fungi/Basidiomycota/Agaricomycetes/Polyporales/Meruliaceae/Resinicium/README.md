@@ -1,8 +1,7 @@
-Resinicum E. Parmasto, 1968 GENUS
-=======
+# Resinicium Parmasto, 1968 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

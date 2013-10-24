@@ -1,17 +1,16 @@
-Ciliaria hirta var. hirta VARIETY
-=======
+# Scutellinia cejpii (Velen.) Svrcek, 1971 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 9: 112 (1893)
+Ceská Mykol. 25(2): 83 (1971)
 
 #### Original name
-Ciliaria hirta var. hirta
+Hyaloscypha cejpii Velen., 1934
 
 ### Remarks
 null

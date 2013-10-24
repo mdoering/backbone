@@ -1,5 +1,4 @@
-Coniophora deflectens (Bres. & Syd.) Parmasto SPECIES
-=======
+# Coniophora deflectens (Bres. & Syd.) Parmasto SPECIES
 
 #### Status
 ACCEPTED

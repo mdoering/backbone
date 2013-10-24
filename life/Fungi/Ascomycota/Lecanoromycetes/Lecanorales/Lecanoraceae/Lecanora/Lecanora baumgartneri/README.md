@@ -1,5 +1,4 @@
-Lecanora baumgartneri (Zahlbr.) G. Merr. SPECIES
-=======
+# Lecanora baumgartneri (Zahlbr.) G. Merr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Toninia carioni (Grognot) Zahlbr. SPECIES
-=======
+# Toninia carionii (Grognot) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Cat. Lich. Univers. 4: 266 (1926)
 
 #### Original name
 Lecidea carionii Grognot

@@ -1,5 +1,4 @@
-Pestalotia elegans Gucevic SPECIES
-=======
+# Pestalotia elegans Gucevic SPECIES
 
 #### Status
 ACCEPTED

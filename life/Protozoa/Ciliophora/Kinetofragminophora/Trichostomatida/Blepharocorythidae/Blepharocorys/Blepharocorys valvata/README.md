@@ -1,5 +1,4 @@
-Blepharocorys valvata (Fiorentini, 1890) Bundle, 1895 SPECIES
-=======
+# Blepharocorys valvata (Fiorentini, 1890) Bundle, 1895 SPECIES
 
 #### Status
 ACCEPTED

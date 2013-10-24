@@ -1,5 +1,4 @@
-Hormiactina wroblewskii Bubák SPECIES
-=======
+# Hormiactina wroblewskii Bubák SPECIES
 
 #### Status
 ACCEPTED

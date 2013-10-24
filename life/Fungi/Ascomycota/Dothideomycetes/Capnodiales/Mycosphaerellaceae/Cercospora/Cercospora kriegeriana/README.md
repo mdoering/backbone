@@ -1,5 +1,4 @@
-Cercospora kriegeriana Bres. SPECIES
-=======
+# Cercospora kriegeriana Bres. SPECIES
 
 #### Status
 ACCEPTED

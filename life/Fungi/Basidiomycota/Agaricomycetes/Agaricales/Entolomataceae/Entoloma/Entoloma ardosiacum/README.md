@@ -1,5 +1,4 @@
-Entoloma ardosiacum var. ardosiacum VARIETY
-=======
+# Entoloma ardosiacum (Bull.) Cooke SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Entoloma ardosiacum var. ardosiacum
+Agaricus ardosiacus Bull.
 
 ### Remarks
 null

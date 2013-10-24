@@ -1,5 +1,4 @@
-Myriangiaceae Nyl. FAMILY
-=======
+# Myriangiaceae Nyl. FAMILY
 
 #### Status
 ACCEPTED

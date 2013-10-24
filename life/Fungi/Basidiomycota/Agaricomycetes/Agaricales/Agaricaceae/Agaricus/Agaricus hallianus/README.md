@@ -1,5 +1,4 @@
-Agaricus hallianus Peck SPECIES
-=======
+# Agaricus hallianus Peck SPECIES
 
 #### Status
 ACCEPTED

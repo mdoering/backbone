@@ -1,5 +1,4 @@
-Orbilia peltigerae (Fuckel) Sacc. SPECIES
-=======
+# Orbilia peltigerae (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

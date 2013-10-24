@@ -1,5 +1,4 @@
-Protoventuria latispora (M.E. Barr) M.E. Barr SPECIES
-=======
+# Protoventuria latispora (M.E. Barr) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Granomarginata minuta P. K. Maithy SPECIES
-=======
+# Granomarginata minuta P. K. Maithy SPECIES
 
 #### Status
 ACCEPTED

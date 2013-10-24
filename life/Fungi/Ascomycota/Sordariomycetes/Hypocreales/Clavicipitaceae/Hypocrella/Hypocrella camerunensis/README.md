@@ -1,5 +1,4 @@
-Hypocrella camerunensis Henn. SPECIES
-=======
+# Hypocrella camerunensis Henn. SPECIES
 
 #### Status
 ACCEPTED

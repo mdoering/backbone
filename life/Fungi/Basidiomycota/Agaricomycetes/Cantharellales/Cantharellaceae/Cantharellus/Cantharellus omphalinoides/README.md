@@ -1,5 +1,4 @@
-Cantharellus omphalinoides Corner, 1976 SPECIES
-=======
+# Cantharellus omphalinoides Corner, 1976 SPECIES
 
 #### Status
 ACCEPTED

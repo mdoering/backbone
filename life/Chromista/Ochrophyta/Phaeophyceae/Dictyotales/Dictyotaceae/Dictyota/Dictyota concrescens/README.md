@@ -1,5 +1,4 @@
-Dictyota concrescens W.R. Taylor SPECIES
-=======
+# Dictyota concrescens W.R. Taylor SPECIES
 
 #### Status
 ACCEPTED

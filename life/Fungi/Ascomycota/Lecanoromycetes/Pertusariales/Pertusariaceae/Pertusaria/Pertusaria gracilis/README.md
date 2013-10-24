@@ -1,5 +1,4 @@
-Pertusaria gracilis var. heteromera Müll. Arg. VARIETY
-=======
+# Pertusaria gracilis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pertusaria gracilis var. heteromera Müll. Arg.
+Pertusaria gracilis Müll. Arg.
 
 ### Remarks
 null

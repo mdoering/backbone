@@ -1,5 +1,4 @@
-Protohydnum fasciculare (Alb. & Schwein.) Bres. SPECIES
-=======
+# Protohydnum fasciculare (Alb. & Schwein.) Bres. SPECIES
 
 #### Status
 ACCEPTED

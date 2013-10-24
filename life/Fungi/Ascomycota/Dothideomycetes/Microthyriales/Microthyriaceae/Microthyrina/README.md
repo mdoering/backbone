@@ -1,5 +1,4 @@
-Microthyrina GENUS
-=======
+# Microthyrina GENUS
 
 #### Status
 ACCEPTED

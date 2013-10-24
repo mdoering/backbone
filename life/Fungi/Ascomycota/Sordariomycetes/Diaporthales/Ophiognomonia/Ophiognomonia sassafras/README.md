@@ -1,5 +1,4 @@
-Ophiognomonia sassafras (Ellis & Everh.) M. Monod SPECIES
-=======
+# Ophiognomonia sassafras (Ellis & Everh.) M. Monod SPECIES
 
 #### Status
 ACCEPTED

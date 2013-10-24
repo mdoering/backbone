@@ -1,5 +1,4 @@
-Gloeosporium carissae G.P. Agarwal SPECIES
-=======
+# Gloeosporium carissae G.P. Agarwal SPECIES
 
 #### Status
 ACCEPTED

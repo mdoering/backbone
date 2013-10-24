@@ -1,5 +1,4 @@
-Monodictys qaidamensis H.F. Wang & T.Y. Zhang SPECIES
-=======
+# Monodictys qaidamensis H.F. Wang & T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

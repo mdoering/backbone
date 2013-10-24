@@ -1,17 +1,16 @@
-Chiodecton decussans Nyl. SPECIES
-=======
+# Syncesia decussans (Nyl.) Tehler SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fl. Neotrop. , Monogr. 74: 40 (1997)
 
 #### Original name
-null
+Chiodecton decussans Nyl.
 
 ### Remarks
 null

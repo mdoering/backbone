@@ -1,5 +1,4 @@
-Boletus horizontalis Thore SPECIES
-=======
+# Boletus horizontalis Thore SPECIES
 
 #### Status
 ACCEPTED

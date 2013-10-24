@@ -1,5 +1,4 @@
-Stromatinia linhartiana Prill. SPECIES
-=======
+# Stromatinia linhartiana Prill. SPECIES
 
 #### Status
 ACCEPTED

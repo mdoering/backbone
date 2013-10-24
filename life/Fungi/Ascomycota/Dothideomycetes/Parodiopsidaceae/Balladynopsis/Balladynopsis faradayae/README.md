@@ -1,5 +1,4 @@
-Balladynopsis faradayae (W. Yamam.) Sivan. SPECIES
-=======
+# Balladynopsis faradayae (W. Yamam.) Sivan. SPECIES
 
 #### Status
 ACCEPTED

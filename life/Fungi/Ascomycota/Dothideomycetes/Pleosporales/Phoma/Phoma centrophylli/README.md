@@ -1,5 +1,4 @@
-Phoma centrophylli Speg. SPECIES
-=======
+# Phoma centrophylli Speg. SPECIES
 
 #### Status
 ACCEPTED

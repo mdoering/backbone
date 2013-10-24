@@ -1,5 +1,4 @@
-Phyllosticta ragnhildae Solheim SPECIES
-=======
+# Phyllosticta ragnhildae Solheim SPECIES
 
 #### Status
 ACCEPTED

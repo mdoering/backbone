@@ -1,5 +1,4 @@
-Cladosporium versicolor P.A. Dang. SPECIES
-=======
+# Cladosporium versicolor P.A. Dang. SPECIES
 
 #### Status
 ACCEPTED

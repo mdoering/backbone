@@ -1,5 +1,4 @@
-Sticta squamata D. J. Galloway SPECIES
-=======
+# Sticta squamata D. J. Galloway SPECIES
 
 #### Status
 ACCEPTED

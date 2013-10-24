@@ -1,5 +1,4 @@
-Spadicoides aggregata Subram. & Vittal SPECIES
-=======
+# Spadicoides aggregata Subram. & Vittal SPECIES
 
 #### Status
 ACCEPTED

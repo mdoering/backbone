@@ -1,5 +1,4 @@
-Tintinnopsis denticulata Kofoid & Campbell, 1929 SPECIES
-=======
+# Tintinnopsis denticulata Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

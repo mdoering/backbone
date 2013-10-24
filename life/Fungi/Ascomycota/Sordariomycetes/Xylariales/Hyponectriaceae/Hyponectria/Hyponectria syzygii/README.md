@@ -1,5 +1,4 @@
-Hyponectria syzygii Z.Q. Yuan & M.E. Barr SPECIES
-=======
+# Hyponectria syzygii Z.Q. Yuan & M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

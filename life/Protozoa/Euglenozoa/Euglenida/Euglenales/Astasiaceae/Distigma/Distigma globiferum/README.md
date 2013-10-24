@@ -1,5 +1,4 @@
-Distigma globiferum Skuja SPECIES
-=======
+# Distigma globiferum Skuja SPECIES
 
 #### Status
 ACCEPTED

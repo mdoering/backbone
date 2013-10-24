@@ -1,5 +1,4 @@
-Cylindrosporium pruinosum (Zaprom.) Vassiljevsky SPECIES
-=======
+# Cylindrosporium pruinosum (Zaprom.) Vassiljevsky SPECIES
 
 #### Status
 ACCEPTED

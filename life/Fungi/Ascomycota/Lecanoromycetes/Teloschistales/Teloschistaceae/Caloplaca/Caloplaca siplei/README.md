@@ -1,5 +1,4 @@
-Caloplaca siplei (C.W. Dodge & G.E. Baker) Cretz. SPECIES
-=======
+# Caloplaca siplei (C.W. Dodge & G.E. Baker) Cretz. SPECIES
 
 #### Status
 ACCEPTED

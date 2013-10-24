@@ -1,5 +1,4 @@
-Phragmidium fructigenum Schulzer SPECIES
-=======
+# Phragmidium fructigenum Schulzer SPECIES
 
 #### Status
 ACCEPTED

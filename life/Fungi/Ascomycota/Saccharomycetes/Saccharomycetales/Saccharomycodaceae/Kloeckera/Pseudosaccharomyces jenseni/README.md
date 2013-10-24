@@ -1,5 +1,4 @@
-Pseudosaccharomyces jenseni Klöcker SPECIES
-=======
+# Pseudosaccharomyces jenseni Klöcker SPECIES
 
 #### Status
 ACCEPTED

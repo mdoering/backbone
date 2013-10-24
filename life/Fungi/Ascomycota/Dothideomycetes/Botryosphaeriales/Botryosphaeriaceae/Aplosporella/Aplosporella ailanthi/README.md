@@ -1,17 +1,16 @@
-Haplosporella ailanthi Ellis & Everh. SPECIES
-=======
+# Aplosporella ailanthi Ellis & Everh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Mycol. 5(3): 147 (1889)
 
 #### Original name
-Haplosporella ailanthi Ellis & Everh.
+Aplosporella ailanthi Ellis & Everh.
 
 ### Remarks
 null

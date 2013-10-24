@@ -1,5 +1,4 @@
-Russuliopsis nigricans Velen. SPECIES
-=======
+# Russuliopsis nigricans Velen. SPECIES
 
 #### Status
 ACCEPTED

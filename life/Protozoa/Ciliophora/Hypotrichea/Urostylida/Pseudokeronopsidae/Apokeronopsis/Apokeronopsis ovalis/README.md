@@ -1,5 +1,4 @@
-Apokeronopsis ovalis (Kahl, 1932) Shao, Miao, Li, Song, Al-Rasheid, Al-Quraishy & Al-Farray, 2009 SPECIES
-=======
+# Apokeronopsis ovalis (Kahl, 1932) Shao, Miao, Li, Song, Al-Rasheid, Al-Quraishy & Al-Farray, 2009 SPECIES
 
 #### Status
 ACCEPTED

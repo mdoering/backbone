@@ -1,5 +1,4 @@
-Elsinoë panici L.H. Tiffany & Mathre, 1962 SPECIES
-=======
+# Elsinoë panici L.H. Tiffany & Mathre, 1962 SPECIES
 
 #### Status
 ACCEPTED

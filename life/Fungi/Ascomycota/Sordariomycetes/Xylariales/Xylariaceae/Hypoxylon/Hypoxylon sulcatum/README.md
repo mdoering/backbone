@@ -1,5 +1,4 @@
-Hypoxylon sulcatum Starbäck SPECIES
-=======
+# Hypoxylon sulcatum Starbäck SPECIES
 
 #### Status
 ACCEPTED

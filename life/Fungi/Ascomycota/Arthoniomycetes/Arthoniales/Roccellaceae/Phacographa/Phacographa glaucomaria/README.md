@@ -1,17 +1,16 @@
-Opegrapha glaucomaria (Nyl.) Källsten SPECIES
-=======
+# Phacographa glaucomaria (Nyl.) Hafellner SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Santesson, Lichens and Lichenicolous Fungi of Sweden and Norway (Lund) 44: 151 (1993)
+null
 
 #### Original name
-Lecidea glaucomaria Nyl.
+null
 
 ### Remarks
 null

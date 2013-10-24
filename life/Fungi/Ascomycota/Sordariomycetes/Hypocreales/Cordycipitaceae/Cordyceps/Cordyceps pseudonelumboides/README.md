@@ -1,5 +1,4 @@
-Cordyceps pseudonelumboides Kobayasi & Shimizu SPECIES
-=======
+# Cordyceps pseudonelumboides Kobayasi & Shimizu SPECIES
 
 #### Status
 ACCEPTED

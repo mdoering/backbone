@@ -1,5 +1,4 @@
-Tegumentum octiformis SPECIES
-=======
+# Tegumentum octiformis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercosporella solenanthi Vasyag. SPECIES
-=======
+# Cercosporella solenanthi Vasyag. SPECIES
 
 #### Status
 ACCEPTED

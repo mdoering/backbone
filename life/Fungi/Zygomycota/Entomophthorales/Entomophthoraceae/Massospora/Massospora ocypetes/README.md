@@ -1,5 +1,4 @@
-Massospora ocypetes R.S. Soper, 1974 SPECIES
-=======
+# Massospora ocypetes R.S. Soper, 1974 SPECIES
 
 #### Status
 ACCEPTED

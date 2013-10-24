@@ -1,17 +1,16 @@
-Cortinarius rubripurpuratus Soop, 2008 SPECIES
-=======
+# Dermocybe purpurata E. Horak & Gerw. Keller, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Horak, Sydowia 40: 83 (1988)
 
 #### Original name
-null
+Dermocybe purpurata E. Horak & Gerw. Keller, 1988
 
 ### Remarks
 null

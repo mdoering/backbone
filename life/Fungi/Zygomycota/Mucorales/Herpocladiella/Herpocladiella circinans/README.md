@@ -1,5 +1,4 @@
-Herpocladiella circinans J. Schröt. SPECIES
-=======
+# Herpocladiella circinans J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

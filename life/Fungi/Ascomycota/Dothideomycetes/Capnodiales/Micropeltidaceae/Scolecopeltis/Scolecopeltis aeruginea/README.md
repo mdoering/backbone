@@ -1,5 +1,4 @@
-Scolecopeltis aeruginea Zimm. SPECIES
-=======
+# Scolecopeltis aeruginea Zimm. SPECIES
 
 #### Status
 ACCEPTED

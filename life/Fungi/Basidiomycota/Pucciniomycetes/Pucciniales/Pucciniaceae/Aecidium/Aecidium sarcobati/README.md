@@ -1,5 +1,4 @@
-Aecidium sarcobati Peck SPECIES
-=======
+# Aecidium sarcobati Peck SPECIES
 
 #### Status
 ACCEPTED

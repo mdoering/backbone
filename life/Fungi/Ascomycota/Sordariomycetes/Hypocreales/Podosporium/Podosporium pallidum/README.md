@@ -1,5 +1,4 @@
-Podosporium pallidum Pat. SPECIES
-=======
+# Podosporium pallidum Pat. SPECIES
 
 #### Status
 ACCEPTED

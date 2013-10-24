@@ -1,14 +1,13 @@
-Dictyochaeta britannica (M.B. Ellis) Whitton, McKenzie & K.D. Hyde, 2000 SPECIES
-=======
+# Menispora britannica (M.B. Ellis) P.M. Kirk, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fungal Diversity 4: 137 (2000)
+Mycotaxon 23: 334 (1985)
 
 #### Original name
 Codinaea britannica M.B. Ellis, 1976

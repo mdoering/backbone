@@ -1,5 +1,4 @@
-Estiastra improcera Loeblich, 1970 SPECIES
-=======
+# Estiastra improcera Loeblich, 1970 SPECIES
 
 #### Status
 ACCEPTED

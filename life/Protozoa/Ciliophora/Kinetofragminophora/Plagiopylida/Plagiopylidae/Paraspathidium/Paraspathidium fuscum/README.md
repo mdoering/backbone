@@ -1,8 +1,7 @@
-Trachelocerca fusca Kahl, 1928 SPECIES
-=======
+# Paraspathidium fuscum (Kahl, 1928) Fjeld, 1955 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Agaricus anguineus Fr. SPECIES
-=======
+# Agaricus anguineus Fr. SPECIES
 
 #### Status
 ACCEPTED

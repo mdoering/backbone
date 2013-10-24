@@ -1,5 +1,4 @@
-Dendrolimus punctatus Npv SPECIES
-=======
+# Dendrolimus punctatus Npv SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Collema pulcellum Ach. SPECIES
-=======
+# Leptogium pulchellum (Ach.) Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mém. Soc. Imp. Sci. Nat. Cherbourg 5: 90 (1857)
 
 #### Original name
-Collema pulcellum Ach.
+Collema pulchellum
 
 ### Remarks
 null

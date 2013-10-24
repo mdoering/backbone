@@ -1,5 +1,4 @@
-Hypsizygus elongatipes (Peck) H.E. Bigelow SPECIES
-=======
+# Hypsizygus elongatipes (Peck) H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

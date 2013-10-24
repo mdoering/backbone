@@ -1,14 +1,13 @@
-Drechslera dematioideum (Bubák & Wróbl.) Subram. & B.L. Jain SPECIES
-=======
+# Drechslera dematioidea (Bubák & Wróbl.) Subram. & B.L. Jain, 1966 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Curr. Sci. 35: 354 (1966)
 
 #### Original name
 Helminthosporium dematioideum Bubák & Wróbl., 1916

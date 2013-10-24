@@ -1,5 +1,4 @@
-Lecidea densiflorae Vain. SPECIES
-=======
+# Lecidea densiflorae Vain. SPECIES
 
 #### Status
 ACCEPTED

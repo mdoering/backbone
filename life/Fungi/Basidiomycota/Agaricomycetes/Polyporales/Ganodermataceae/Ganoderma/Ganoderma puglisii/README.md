@@ -1,5 +1,4 @@
-Ganoderma puglisii Steyaert, 1972 SPECIES
-=======
+# Ganoderma puglisii Steyaert, 1972 SPECIES
 
 #### Status
 ACCEPTED

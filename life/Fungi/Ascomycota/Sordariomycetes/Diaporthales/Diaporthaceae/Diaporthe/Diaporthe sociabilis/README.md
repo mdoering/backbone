@@ -1,5 +1,4 @@
-Diaporthe sociabilis Nitschke SPECIES
-=======
+# Diaporthe sociabilis Nitschke SPECIES
 
 #### Status
 ACCEPTED

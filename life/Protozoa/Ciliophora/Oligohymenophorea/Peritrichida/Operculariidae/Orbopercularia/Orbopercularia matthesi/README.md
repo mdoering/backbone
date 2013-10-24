@@ -1,8 +1,7 @@
-Orbopyxidiella matthesi (Guhl, 1950) Guhl SPECIES
-=======
+# Orbopercularia matthesi Lust, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

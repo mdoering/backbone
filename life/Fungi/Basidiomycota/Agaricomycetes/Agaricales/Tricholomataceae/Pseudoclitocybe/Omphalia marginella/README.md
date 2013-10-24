@@ -1,5 +1,4 @@
-Omphalia marginella (Pers.) Joss. SPECIES
-=======
+# Omphalia marginella (Pers.) Joss. SPECIES
 
 #### Status
 ACCEPTED

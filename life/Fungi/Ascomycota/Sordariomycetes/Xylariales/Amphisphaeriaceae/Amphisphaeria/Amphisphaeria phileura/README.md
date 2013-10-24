@@ -1,5 +1,4 @@
-Amphisphaeria phileura (Cooke & Peck) Sacc. SPECIES
-=======
+# Amphisphaeria phileura (Cooke & Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

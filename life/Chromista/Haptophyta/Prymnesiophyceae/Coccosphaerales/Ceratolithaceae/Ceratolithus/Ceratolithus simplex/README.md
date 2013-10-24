@@ -1,5 +1,4 @@
-Ceratolithus simplex Bukry, 1979 SPECIES
-=======
+# Ceratolithus simplex Bukry, 1979 SPECIES
 
 #### Status
 ACCEPTED

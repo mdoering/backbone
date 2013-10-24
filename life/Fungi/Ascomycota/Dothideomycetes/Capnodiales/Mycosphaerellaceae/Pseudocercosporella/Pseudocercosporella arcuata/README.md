@@ -1,5 +1,4 @@
-Pseudocercosporella arcuata S.K. Singh, P.N. Singh & Bhalla SPECIES
-=======
+# Pseudocercosporella arcuata S.K. Singh, P.N. Singh & Bhalla SPECIES
 
 #### Status
 ACCEPTED

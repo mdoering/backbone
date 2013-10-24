@@ -1,17 +1,16 @@
-Calyptospora geoppertiana J.G. Kühn SPECIES
-=======
+# Pucciniastrum goeppertianum (Kuehn) Kleb., 1904 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Wirtswechselnde Rostpilze 391 (1904)
 
 #### Original name
-Calyptospora geoppertiana J.G. Kühn
+Calyptospora goeppertiana J.G. Kühn, 1869
 
 ### Remarks
 null

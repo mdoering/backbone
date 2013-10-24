@@ -1,5 +1,4 @@
-Hygrocybe buntii Singer SPECIES
-=======
+# Hygrocybe buntii Singer SPECIES
 
 #### Status
 ACCEPTED

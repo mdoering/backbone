@@ -1,5 +1,4 @@
-Atractiella columbiana Bandoni & Inderb., 2002 SPECIES
-=======
+# Atractiella columbiana Bandoni & Inderb., 2002 SPECIES
 
 #### Status
 ACCEPTED

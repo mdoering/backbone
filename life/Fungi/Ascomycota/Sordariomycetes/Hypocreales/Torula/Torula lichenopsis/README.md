@@ -1,5 +1,4 @@
-Torula lichenopsis Höhn. SPECIES
-=======
+# Torula lichenopsis Höhn. SPECIES
 
 #### Status
 ACCEPTED

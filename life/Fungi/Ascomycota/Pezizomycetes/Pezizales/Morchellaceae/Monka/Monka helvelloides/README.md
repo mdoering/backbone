@@ -1,14 +1,13 @@
-Monka helvellodes (Krombh.) Kuntze SPECIES
-=======
+# Monka helvelloides (Krombh.) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3: 498 (1898)
 
 #### Original name
 Verpa helvelloides Krombh.

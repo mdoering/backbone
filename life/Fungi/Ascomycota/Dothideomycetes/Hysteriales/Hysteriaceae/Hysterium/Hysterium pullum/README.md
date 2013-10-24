@@ -1,5 +1,4 @@
-Hysterium pullum Duby SPECIES
-=======
+# Hysterium pullum Duby SPECIES
 
 #### Status
 ACCEPTED

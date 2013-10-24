@@ -1,5 +1,4 @@
-Ramalina digitellata Nyl. SPECIES
-=======
+# Ramalina digitellata Nyl. SPECIES
 
 #### Status
 ACCEPTED

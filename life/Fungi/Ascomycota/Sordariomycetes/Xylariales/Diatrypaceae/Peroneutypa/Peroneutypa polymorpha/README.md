@@ -1,5 +1,4 @@
-Peroneutypa polymorpha Chevaug. SPECIES
-=======
+# Peroneutypa polymorpha Chevaug. SPECIES
 
 #### Status
 ACCEPTED

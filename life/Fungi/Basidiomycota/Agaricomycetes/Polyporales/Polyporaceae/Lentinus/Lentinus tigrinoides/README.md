@@ -1,5 +1,4 @@
-Lentinus tigrinoides Corner, 1981 SPECIES
-=======
+# Lentinus tigrinoides Corner, 1981 SPECIES
 
 #### Status
 ACCEPTED

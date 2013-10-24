@@ -1,5 +1,4 @@
-Didymophes GENUS
-=======
+# Didymophes GENUS
 
 #### Status
 ACCEPTED

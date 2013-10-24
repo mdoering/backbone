@@ -1,5 +1,4 @@
-Gloeosporium tiliaecola Allesch. SPECIES
-=======
+# Gloeosporium tiliaecola Allesch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stagonospora spiraeae Dearn. SPECIES
-=======
+# Stagonospora spiraeae Dearn. SPECIES
 
 #### Status
 ACCEPTED

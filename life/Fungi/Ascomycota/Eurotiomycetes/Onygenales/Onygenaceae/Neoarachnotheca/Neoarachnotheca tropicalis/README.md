@@ -1,5 +1,4 @@
-Neoarachnotheca tropicalis ined. SPECIES
-=======
+# Neoarachnotheca tropicalis ined. SPECIES
 
 #### Status
 ACCEPTED

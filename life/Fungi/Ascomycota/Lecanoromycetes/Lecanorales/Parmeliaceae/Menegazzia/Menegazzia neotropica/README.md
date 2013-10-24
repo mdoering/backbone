@@ -1,5 +1,4 @@
-Menegazzia neotropica Bjerke SPECIES
-=======
+# Menegazzia neotropica Bjerke SPECIES
 
 #### Status
 ACCEPTED

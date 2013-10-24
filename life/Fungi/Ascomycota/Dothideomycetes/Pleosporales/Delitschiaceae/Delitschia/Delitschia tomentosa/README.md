@@ -1,5 +1,4 @@
-Delitschia tomentosa Luck-Allen & Cain, 1975 SPECIES
-=======
+# Delitschia tomentosa Luck-Allen & Cain, 1975 SPECIES
 
 #### Status
 ACCEPTED

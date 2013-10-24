@@ -1,5 +1,4 @@
-Stephanoeca kentii Ellis, 1930 SPECIES
-=======
+# Stephanoeca kentii Ellis, 1930 SPECIES
 
 #### Status
 ACCEPTED

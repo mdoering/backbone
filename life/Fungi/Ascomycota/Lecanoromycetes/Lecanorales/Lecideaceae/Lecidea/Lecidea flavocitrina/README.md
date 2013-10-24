@@ -1,5 +1,4 @@
-Lecidea flavocitrina (Nyl.) Hue SPECIES
-=======
+# Lecidea flavocitrina (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Strombidium claparedei Kent, 1881 SPECIES
-=======
+# Strombidium claparedei Kent, 1881 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocyphellaria godeffroyi (Kremp.) D.J. Galloway SPECIES
-=======
+# Pseudocyphellaria godeffroyi (Kremp.) D.J. Galloway SPECIES
 
 #### Status
 ACCEPTED

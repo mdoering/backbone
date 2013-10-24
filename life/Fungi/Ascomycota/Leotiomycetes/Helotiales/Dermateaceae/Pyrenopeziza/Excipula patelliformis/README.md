@@ -1,5 +1,4 @@
-Excipula patelliformis Kirchn. SPECIES
-=======
+# Excipula patelliformis Kirchn. SPECIES
 
 #### Status
 ACCEPTED

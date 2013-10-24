@@ -1,5 +1,4 @@
-Phylloporus coccineus Corner SPECIES
-=======
+# Phylloporus coccineus Corner SPECIES
 
 #### Status
 ACCEPTED

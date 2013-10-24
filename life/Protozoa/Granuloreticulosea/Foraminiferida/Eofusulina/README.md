@@ -1,5 +1,4 @@
-Eofusulina GENUS
-=======
+# Eofusulina GENUS
 
 #### Status
 ACCEPTED

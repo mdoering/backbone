@@ -1,5 +1,4 @@
-Trullula bambusae Har. & Pat. SPECIES
-=======
+# Trullula bambusae Har. & Pat. SPECIES
 
 #### Status
 ACCEPTED

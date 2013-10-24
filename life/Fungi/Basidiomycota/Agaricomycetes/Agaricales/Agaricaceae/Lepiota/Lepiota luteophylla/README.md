@@ -1,5 +1,4 @@
-Lepiota luteophylla Sundb. SPECIES
-=======
+# Lepiota luteophylla Sundb. SPECIES
 
 #### Status
 ACCEPTED

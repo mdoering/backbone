@@ -1,5 +1,4 @@
-Diaporthe insularis Nitschke, 1870 SPECIES
-=======
+# Diaporthe insularis Nitschke, 1870 SPECIES
 
 #### Status
 ACCEPTED

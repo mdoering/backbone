@@ -1,14 +1,13 @@
-Terana subsulphurea (P. Karst.) Kuntze, 1891 SPECIES
-=======
+# Amylocorticium subsulphureum (P. Karst.) Pouzar, 1959 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 2: 873 (1891)
+Ceská Mykol. 13: 11 (1959)
 
 #### Original name
 null

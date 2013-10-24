@@ -1,17 +1,16 @@
-Sarocladium attenuatum W. Gams & D. Hawksw., 1976 SPECIES
-=======
+# Sarocladium oryzae (Sawada) W. Gams & D. Hawksw., 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Kavaka 3: 59 (1976)
+Kavaka 3: 58 (1976)
 
 #### Original name
-Sarocladium attenuatum W. Gams & D. Hawksw., 1976
+Acrocylindrium oryzae Sawada, 1922
 
 ### Remarks
 null

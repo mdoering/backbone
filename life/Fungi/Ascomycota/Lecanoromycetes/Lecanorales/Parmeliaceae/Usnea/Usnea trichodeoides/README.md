@@ -1,5 +1,4 @@
-Usnea trichodeoides Motyka SPECIES
-=======
+# Usnea trichodeoides Motyka SPECIES
 
 #### Status
 ACCEPTED

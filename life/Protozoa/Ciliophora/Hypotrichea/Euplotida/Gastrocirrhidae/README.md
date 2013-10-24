@@ -1,5 +1,4 @@
-Gastrocirrhidae Fauré-Fremiet, 1961 FAMILY
-=======
+# Gastrocirrhidae Fauré-Fremiet, 1961 FAMILY
 
 #### Status
 ACCEPTED

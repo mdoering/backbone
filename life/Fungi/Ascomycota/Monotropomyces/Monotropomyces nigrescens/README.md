@@ -1,5 +1,4 @@
-Monotropomyces nigrescens Costantin & Dufour SPECIES
-=======
+# Monotropomyces nigrescens Costantin & Dufour SPECIES
 
 #### Status
 ACCEPTED

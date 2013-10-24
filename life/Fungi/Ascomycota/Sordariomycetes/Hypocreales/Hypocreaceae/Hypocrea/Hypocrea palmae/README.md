@@ -1,5 +1,4 @@
-Hypocrea palmae Berk. & M.A. Curtis SPECIES
-=======
+# Hypocrea palmae Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

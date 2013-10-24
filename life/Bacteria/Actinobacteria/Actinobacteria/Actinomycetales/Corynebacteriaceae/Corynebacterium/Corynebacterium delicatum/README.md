@@ -1,5 +1,4 @@
-Corynebacterium delicatum SPECIES
-=======
+# Corynebacterium delicatum SPECIES
 
 #### Status
 ACCEPTED

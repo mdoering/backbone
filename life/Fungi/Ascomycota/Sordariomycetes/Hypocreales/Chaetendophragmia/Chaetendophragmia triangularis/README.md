@@ -1,17 +1,16 @@
-Chaetendophragmia triangularia Matsush. SPECIES
-=======
+# Chaetendophragmia triangularis Matsush., 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Microfungi of the Solomon Islands and Papua-New Guinea (Osaka) 12 (1971)
 
 #### Original name
-Chaetendophragmia triangularia Matsush.
+Chaetendophragmia triangularis Matsush., 1971
 
 ### Remarks
 null

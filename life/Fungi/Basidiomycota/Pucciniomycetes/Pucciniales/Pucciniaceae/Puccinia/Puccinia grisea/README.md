@@ -1,5 +1,4 @@
-Puccinia grisea (F. Strauss) G. Winter SPECIES
-=======
+# Puccinia grisea (F. Strauss) G. Winter SPECIES
 
 #### Status
 ACCEPTED

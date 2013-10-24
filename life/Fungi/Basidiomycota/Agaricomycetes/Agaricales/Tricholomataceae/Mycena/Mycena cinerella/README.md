@@ -1,5 +1,4 @@
-Mycena cinerella (P. Karst.) P. Karst., 1879 SPECIES
-=======
+# Mycena cinerella (P. Karst.) P. Karst., 1879 SPECIES
 
 #### Status
 ACCEPTED

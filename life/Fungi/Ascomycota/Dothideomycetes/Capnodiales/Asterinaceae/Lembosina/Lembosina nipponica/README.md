@@ -1,5 +1,4 @@
-Lembosina nipponica Katum. SPECIES
-=======
+# Lembosina nipponica Katum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lizonia uleana var. uleana VARIETY
-=======
+# Lizonia uleana Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lizonia uleana var. uleana
+Lizonia uleana Sacc. & P. Syd.
 
 ### Remarks
 null

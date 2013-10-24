@@ -1,5 +1,4 @@
-Catillaria camptotheca (Fée) Zahlbr. SPECIES
-=======
+# Catillaria camptotheca (Fée) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

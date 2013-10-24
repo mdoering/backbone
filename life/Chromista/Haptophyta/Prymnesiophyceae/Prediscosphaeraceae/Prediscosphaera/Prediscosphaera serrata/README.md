@@ -1,5 +1,4 @@
-Prediscosphaera serrata Noël, 1970 SPECIES
-=======
+# Prediscosphaera serrata Noël, 1970 SPECIES
 
 #### Status
 ACCEPTED

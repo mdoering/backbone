@@ -1,5 +1,4 @@
-Tilletia oplismeni-cristati Pat. & Har. ex Durán & G.W. Fisch. SPECIES
-=======
+# Tilletia oplismeni-cristati Pat. & Har. ex Durán & G.W. Fisch. SPECIES
 
 #### Status
 ACCEPTED

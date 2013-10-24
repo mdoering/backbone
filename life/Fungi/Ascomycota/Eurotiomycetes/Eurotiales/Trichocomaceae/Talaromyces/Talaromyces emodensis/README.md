@@ -1,5 +1,4 @@
-Talaromyces emodensis Udagawa, 1993 SPECIES
-=======
+# Talaromyces emodensis Udagawa, 1993 SPECIES
 
 #### Status
 ACCEPTED

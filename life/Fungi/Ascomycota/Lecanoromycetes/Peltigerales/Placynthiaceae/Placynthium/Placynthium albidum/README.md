@@ -1,5 +1,4 @@
-Placynthium albidum Hue SPECIES
-=======
+# Placynthium albidum Hue SPECIES
 
 #### Status
 ACCEPTED

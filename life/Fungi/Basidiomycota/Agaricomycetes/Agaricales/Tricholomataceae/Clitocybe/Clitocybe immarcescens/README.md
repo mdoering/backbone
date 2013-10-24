@@ -1,5 +1,4 @@
-Clitocybe immarcescens (Britzelm.) Sacc. SPECIES
-=======
+# Clitocybe immarcescens (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

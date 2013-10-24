@@ -1,5 +1,4 @@
-Spatoglossum chaudhrianum P.Anand SPECIES
-=======
+# Spatoglossum chaudhrianum P.Anand SPECIES
 
 #### Status
 ACCEPTED

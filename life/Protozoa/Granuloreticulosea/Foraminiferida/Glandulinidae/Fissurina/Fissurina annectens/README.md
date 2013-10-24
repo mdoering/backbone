@@ -1,5 +1,4 @@
-Fissurina annectens SPECIES
-=======
+# Fissurina annectens SPECIES
 
 #### Status
 ACCEPTED

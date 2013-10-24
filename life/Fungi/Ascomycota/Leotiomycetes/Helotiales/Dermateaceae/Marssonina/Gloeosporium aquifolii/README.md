@@ -1,5 +1,4 @@
-Gloeosporium aquifolii Penz. & Sacc. SPECIES
-=======
+# Gloeosporium aquifolii Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

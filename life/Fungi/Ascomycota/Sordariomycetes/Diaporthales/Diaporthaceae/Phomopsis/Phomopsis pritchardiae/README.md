@@ -1,5 +1,4 @@
-Phomopsis pritchardiae var. pritchardiae (Cooke & Harkn.) Sacc. VARIETY
-=======
+# Phomopsis pritchardiae (Cooke & Harkn.) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Syll. fung. (Abellini) 3: 157 (1884)
 
 #### Original name
-Phomopsis pritchardiae var. pritchardiae (Cooke & Harkn.) Sacc.
+Phoma pritchardiae Cooke & Harkn.
 
 ### Remarks
 null

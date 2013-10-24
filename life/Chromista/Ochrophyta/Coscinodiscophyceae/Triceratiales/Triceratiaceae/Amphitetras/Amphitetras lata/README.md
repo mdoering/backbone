@@ -1,5 +1,4 @@
-Amphitetras lata (Greville) De Toni SPECIES
-=======
+# Amphitetras lata (Greville) De Toni SPECIES
 
 #### Status
 ACCEPTED

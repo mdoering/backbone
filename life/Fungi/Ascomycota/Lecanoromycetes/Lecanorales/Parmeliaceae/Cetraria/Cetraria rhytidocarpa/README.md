@@ -1,5 +1,4 @@
-Cetraria rhytidocarpa f. nipponensis Asahina FORM
-=======
+# Cetraria rhytidocarpa Randlane & Saag SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cetraria rhytidocarpa f. nipponensis Asahina
+Cetraria rhytidocarpa Randlane & Saag
 
 ### Remarks
 null

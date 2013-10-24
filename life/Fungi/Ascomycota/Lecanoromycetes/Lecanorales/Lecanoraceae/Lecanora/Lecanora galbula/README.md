@@ -1,5 +1,4 @@
-Lecanora galbula SPECIES
-=======
+# Lecanora galbula SPECIES
 
 #### Status
 ACCEPTED

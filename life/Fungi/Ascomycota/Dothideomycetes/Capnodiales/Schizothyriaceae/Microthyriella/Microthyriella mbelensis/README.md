@@ -1,5 +1,4 @@
-Microthyriella mbelensis Henn. SPECIES
-=======
+# Microthyriella mbelensis Henn. SPECIES
 
 #### Status
 ACCEPTED

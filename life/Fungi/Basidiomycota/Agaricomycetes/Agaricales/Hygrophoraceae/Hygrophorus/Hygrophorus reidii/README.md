@@ -1,5 +1,4 @@
-Hygrophorus reidii (Kühner) SPECIES
-=======
+# Hygrophorus reidii (Kühner) SPECIES
 
 #### Status
 ACCEPTED

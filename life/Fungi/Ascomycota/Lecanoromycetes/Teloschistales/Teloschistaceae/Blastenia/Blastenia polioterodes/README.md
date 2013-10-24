@@ -1,5 +1,4 @@
-Blastenia polioterodes (J. Steiner) Zahlbr. SPECIES
-=======
+# Blastenia polioterodes (J. Steiner) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

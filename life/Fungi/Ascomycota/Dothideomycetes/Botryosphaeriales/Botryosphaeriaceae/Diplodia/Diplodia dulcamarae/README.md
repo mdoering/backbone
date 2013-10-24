@@ -1,5 +1,4 @@
-Diplodia dulcamarae Sacc. SPECIES
-=======
+# Diplodia dulcamarae Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sulcatosphaeridium S.N. Naumova ex N.I. Umnova in N.I. Umnova & B.A. Yakovlev, 1970 GENUS
-=======
+# Sulcatosphaeridium S.N. Naumova ex N.I. Umnova in N.I. Umnova & B.A. Yakovlev, 1970 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Omphalina luteicolor Murrill SPECIES
-=======
+# Omphalina luteicolor Murrill SPECIES
 
 #### Status
 ACCEPTED

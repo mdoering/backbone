@@ -1,5 +1,4 @@
-Symphyonema montanum R.Br. SPECIES
-=======
+# Symphyonema montanum R.Br. SPECIES
 
 #### Status
 ACCEPTED

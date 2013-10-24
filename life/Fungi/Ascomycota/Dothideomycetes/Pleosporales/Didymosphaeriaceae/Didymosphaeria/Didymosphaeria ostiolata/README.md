@@ -1,5 +1,4 @@
-Didymosphaeria ostiolata Kirschst. SPECIES
-=======
+# Didymosphaeria ostiolata Kirschst. SPECIES
 
 #### Status
 ACCEPTED

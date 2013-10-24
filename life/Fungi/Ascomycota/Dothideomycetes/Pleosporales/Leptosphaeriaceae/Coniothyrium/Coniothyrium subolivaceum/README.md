@@ -1,5 +1,4 @@
-Coniothyrium subolivaceum Sacc. SPECIES
-=======
+# Coniothyrium subolivaceum Sacc. SPECIES
 
 #### Status
 ACCEPTED

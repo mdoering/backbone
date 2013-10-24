@@ -1,8 +1,7 @@
-Lecidea prospersa Nyl. SPECIES
-=======
+# Buellia prospersa (Nyl.) Riddle SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Lecidea prospersa Nyl.
 
 ### Remarks
 null

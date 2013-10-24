@@ -1,5 +1,4 @@
-Heterodermia subaquila SPECIES
-=======
+# Heterodermia subaquila SPECIES
 
 #### Status
 ACCEPTED

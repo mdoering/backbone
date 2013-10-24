@@ -1,5 +1,4 @@
-Hendersonia europaea Speg. SPECIES
-=======
+# Hendersonia europaea Speg. SPECIES
 
 #### Status
 ACCEPTED

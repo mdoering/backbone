@@ -1,5 +1,4 @@
-Dothichiza pimprina P.N. Mathur & Thirum. SPECIES
-=======
+# Dothichiza pimprina P.N. Mathur & Thirum. SPECIES
 
 #### Status
 ACCEPTED

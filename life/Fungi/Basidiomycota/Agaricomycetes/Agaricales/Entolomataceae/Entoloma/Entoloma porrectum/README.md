@@ -1,5 +1,4 @@
-Entoloma porrectum E. Horak SPECIES
-=======
+# Entoloma porrectum E. Horak SPECIES
 
 #### Status
 ACCEPTED

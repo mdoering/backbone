@@ -1,5 +1,4 @@
-Otthia quercicola Ellis & Everh. SPECIES
-=======
+# Otthia quercicola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

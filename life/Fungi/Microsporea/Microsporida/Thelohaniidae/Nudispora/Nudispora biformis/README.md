@@ -1,5 +1,4 @@
-Nudispora biformis J.I.R. Larsson SPECIES
-=======
+# Nudispora biformis J.I.R. Larsson SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vermiculariopsiella parvula Nawawi, Kuthub. & B. Sutton SPECIES
-=======
+# Vermiculariopsiella parvula Nawawi, Kuthub. & B. Sutton SPECIES
 
 #### Status
 ACCEPTED

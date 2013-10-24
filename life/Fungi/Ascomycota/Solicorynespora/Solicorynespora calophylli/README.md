@@ -1,14 +1,13 @@
-Corynespora calophylli Hol.-Jech. & R.F. Castañeda, 1986 SPECIES
-=======
+# Solicorynespora calophylli (Hol.-Jech. & R.F. Castañeda) R.F. Castañeda & W.B. Kendr., 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ceská Mykol. 40(2): 83 (1986)
+Univ. Waterloo Biol. Ser. 33: 42 (1990)
 
 #### Original name
 Corynespora calophylli Hol.-Jech. & R.F. Castañeda, 1986

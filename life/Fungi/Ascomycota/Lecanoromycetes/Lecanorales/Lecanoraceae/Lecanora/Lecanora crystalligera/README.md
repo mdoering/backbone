@@ -1,5 +1,4 @@
-Lecanora crystalligera H. Magn. SPECIES
-=======
+# Lecanora crystalligera H. Magn. SPECIES
 
 #### Status
 ACCEPTED

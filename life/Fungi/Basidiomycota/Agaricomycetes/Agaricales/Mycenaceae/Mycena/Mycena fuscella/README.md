@@ -1,5 +1,4 @@
-Mycena fuscella Lasch SPECIES
-=======
+# Mycena fuscella Lasch SPECIES
 
 #### Status
 ACCEPTED

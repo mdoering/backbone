@@ -1,5 +1,4 @@
-Aphanothece salina Elenkin & Danilov SPECIES
-=======
+# Aphanothece salina Elenkin & Danilov SPECIES
 
 #### Status
 ACCEPTED

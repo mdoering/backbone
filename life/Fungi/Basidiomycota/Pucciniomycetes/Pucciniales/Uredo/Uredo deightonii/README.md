@@ -1,5 +1,4 @@
-Uredo deightonii (Syd.) Cummins SPECIES
-=======
+# Uredo deightonii (Syd.) Cummins SPECIES
 
 #### Status
 ACCEPTED

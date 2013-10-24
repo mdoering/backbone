@@ -1,5 +1,4 @@
-Plecopteromyces patagoniensis Lichtw., Ferrington & López-Lastra, 1999 SPECIES
-=======
+# Plecopteromyces patagoniensis Lichtw., Ferrington & López-Lastra, 1999 SPECIES
 
 #### Status
 ACCEPTED

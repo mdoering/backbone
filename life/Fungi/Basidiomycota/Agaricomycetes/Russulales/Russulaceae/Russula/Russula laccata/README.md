@@ -1,17 +1,16 @@
-Russula norvegica var. norvegica VARIETY
-=======
+# Russula laccata Huijsman, 1955 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fungorum Rariorum Icones Coloratae 6: 36 (1972)
+Fungus, Wageningen 25: 40 (1955)
 
 #### Original name
-Russula norvegica var. norvegica
+Russula laccata Huijsman, 1955
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lachnea alboflava (Saut.) Sacc. SPECIES
-=======
+# Lachnea alboflava (Saut.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

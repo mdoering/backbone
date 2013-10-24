@@ -1,5 +1,4 @@
-Leptogium acutisporum P. M. Jørg. SPECIES
-=======
+# Leptogium acutisporum P. M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

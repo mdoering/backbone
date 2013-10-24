@@ -1,8 +1,7 @@
-Cyclodomus aequatoriensis K.D. Hyde, 1996 SPECIES
-=======
+# Maculatifrondes aequatoriensis K.D. Hyde, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 in Hyde, Stanley & Steinke, Mycol. Res. 100(12): 1509 (1996)
 
 #### Original name
-Cyclodomus aequatoriensis K.D. Hyde, 1996
+Maculatifrondes aequatoriensis K.D. Hyde, 1996
 
 ### Remarks
 null

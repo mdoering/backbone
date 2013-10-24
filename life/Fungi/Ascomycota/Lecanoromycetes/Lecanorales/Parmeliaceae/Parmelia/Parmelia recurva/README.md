@@ -1,5 +1,4 @@
-Parmelia recurva Ach. SPECIES
-=======
+# Parmelia recurva Ach. SPECIES
 
 #### Status
 ACCEPTED

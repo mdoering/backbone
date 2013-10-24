@@ -1,5 +1,4 @@
-Pseudovorticella longa Song, 1997 SPECIES
-=======
+# Pseudovorticella longa Song, 1997 SPECIES
 
 #### Status
 ACCEPTED

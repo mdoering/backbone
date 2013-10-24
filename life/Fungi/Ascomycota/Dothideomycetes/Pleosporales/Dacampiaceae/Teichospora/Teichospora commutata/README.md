@@ -1,5 +1,4 @@
-Teichospora commutata Sacc. SPECIES
-=======
+# Teichospora commutata Sacc. SPECIES
 
 #### Status
 ACCEPTED

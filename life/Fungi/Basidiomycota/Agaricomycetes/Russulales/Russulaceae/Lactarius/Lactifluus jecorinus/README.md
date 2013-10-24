@@ -1,5 +1,4 @@
-Lactifluus jecorinus (Fr.) Kuntze SPECIES
-=======
+# Lactifluus jecorinus (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

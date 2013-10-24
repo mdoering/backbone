@@ -1,5 +1,4 @@
-Heterodermia dactyliza f. dactyliza FORM
-=======
+# Heterodermia dactyliza (Nyl.) Swinscow & Krog SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Lichenologist 8: 117 (1976)
 
 #### Original name
-Heterodermia dactyliza f. dactyliza
+Siphula dactyliza Nyl.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Clostridium argentinense Suen et al., 1988 SPECIES
-=======
+# Clostridium argentinense Suen et al., 1988 SPECIES
 
 #### Status
 ACCEPTED

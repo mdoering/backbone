@@ -1,5 +1,4 @@
-Synchytrium myosotidis var. myosotidis VARIETY
-=======
+# Synchytrium myosotidis J.G. Kühn SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Synchytrium myosotidis var. myosotidis
+Synchytrium myosotidis J.G. Kühn
 
 ### Remarks
 null

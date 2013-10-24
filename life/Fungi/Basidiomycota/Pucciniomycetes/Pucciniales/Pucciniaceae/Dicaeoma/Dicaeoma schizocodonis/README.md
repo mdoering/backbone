@@ -1,5 +1,4 @@
-Dicaeoma schizocodonis (Pat.) Kuntze SPECIES
-=======
+# Dicaeoma schizocodonis (Pat.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

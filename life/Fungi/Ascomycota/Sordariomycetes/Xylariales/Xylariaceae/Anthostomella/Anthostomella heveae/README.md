@@ -1,5 +1,4 @@
-Anthostomella heveae Saccas SPECIES
-=======
+# Anthostomella heveae Saccas SPECIES
 
 #### Status
 ACCEPTED

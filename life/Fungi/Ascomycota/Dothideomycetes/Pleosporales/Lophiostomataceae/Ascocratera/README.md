@@ -1,5 +1,4 @@
-Ascocratera Kohlm. GENUS
-=======
+# Ascocratera Kohlm. GENUS
 
 #### Status
 ACCEPTED

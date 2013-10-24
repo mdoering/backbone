@@ -1,5 +1,4 @@
-Condonellopsis americana SPECIES
-=======
+# Condonellopsis americana SPECIES
 
 #### Status
 ACCEPTED

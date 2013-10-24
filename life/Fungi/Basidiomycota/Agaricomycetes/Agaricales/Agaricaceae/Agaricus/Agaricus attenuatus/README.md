@@ -1,5 +1,4 @@
-Agaricus attenuatus DC. SPECIES
-=======
+# Agaricus attenuatus DC. SPECIES
 
 #### Status
 ACCEPTED

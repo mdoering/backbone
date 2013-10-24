@@ -1,5 +1,4 @@
-Lycoperdon himalayense K.S. Thind & I.P.S. Thind SPECIES
-=======
+# Lycoperdon himalayense K.S. Thind & I.P.S. Thind SPECIES
 
 #### Status
 ACCEPTED

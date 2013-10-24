@@ -1,5 +1,4 @@
-Phoma amomi P.K. Chi SPECIES
-=======
+# Phoma amomi P.K. Chi SPECIES
 
 #### Status
 ACCEPTED

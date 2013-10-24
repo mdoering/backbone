@@ -1,5 +1,4 @@
-Hydnangium tuberculatum (R. Hesse) Zeller & C.W. Dodge SPECIES
-=======
+# Hydnangium tuberculatum (R. Hesse) Zeller & C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

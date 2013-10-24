@@ -1,5 +1,4 @@
-Clitocybe subsericella Romagn. SPECIES
-=======
+# Clitocybe subsericella Romagn. SPECIES
 
 #### Status
 ACCEPTED

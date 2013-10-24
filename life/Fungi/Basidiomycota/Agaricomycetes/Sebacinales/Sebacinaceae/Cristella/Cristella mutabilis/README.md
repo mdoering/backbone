@@ -1,17 +1,16 @@
-Cristella mutabilis f. mutabilis FORM
-=======
+# Cristella mutabilis SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
-Eesti NSV Tead. Akad. Toim. , Biol. seer 14(2): 223 (1965)
+null
 
 #### Original name
-Cristella mutabilis f. mutabilis
+null
 
 ### Remarks
 null

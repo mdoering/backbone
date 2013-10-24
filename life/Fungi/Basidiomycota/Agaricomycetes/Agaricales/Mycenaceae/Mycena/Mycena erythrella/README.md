@@ -1,5 +1,4 @@
-Mycena erythrella Mont. SPECIES
-=======
+# Mycena erythrella Mont. SPECIES
 
 #### Status
 ACCEPTED

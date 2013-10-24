@@ -1,5 +1,4 @@
-Marinobacter aquaeolei Nguyen et al., 1999 SPECIES
-=======
+# Marinobacter aquaeolei Nguyen et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

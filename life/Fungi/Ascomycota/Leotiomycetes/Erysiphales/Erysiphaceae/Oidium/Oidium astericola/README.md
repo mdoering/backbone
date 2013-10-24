@@ -1,8 +1,7 @@
-Oidium astericolum Hinô {?} & Y. Katô SPECIES
-=======
+# Oidium astericola Hinô {?} & Y. Katô SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Oidium astericolum Hinô {?} & Y. Katô
+Oidium astericola Hinô {?} & Y. Katô
 
 ### Remarks
 null

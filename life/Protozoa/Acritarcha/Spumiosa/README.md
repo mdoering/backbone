@@ -1,5 +1,4 @@
-Spumiosa S.N. Naumova, 1968 GENUS
-=======
+# Spumiosa S.N. Naumova, 1968 GENUS
 
 #### Status
 ACCEPTED

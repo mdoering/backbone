@@ -1,5 +1,4 @@
-Massaria heterospora G.H. Otth SPECIES
-=======
+# Massaria heterospora G.H. Otth SPECIES
 
 #### Status
 ACCEPTED

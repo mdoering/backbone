@@ -1,5 +1,4 @@
-Physconia sikkimensis (Jatta) D.D. Awasthi SPECIES
-=======
+# Physconia sikkimensis (Jatta) D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

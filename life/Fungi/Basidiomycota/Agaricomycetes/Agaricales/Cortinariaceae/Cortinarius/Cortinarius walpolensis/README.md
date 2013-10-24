@@ -1,5 +1,4 @@
-Cortinarius walpolensis A.A. Francis & Bougher SPECIES
-=======
+# Cortinarius walpolensis A.A. Francis & Bougher SPECIES
 
 #### Status
 ACCEPTED

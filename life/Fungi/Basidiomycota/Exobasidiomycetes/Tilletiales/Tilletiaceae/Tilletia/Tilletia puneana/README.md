@@ -1,5 +1,4 @@
-Tilletia puneana Vánky, 2005 SPECIES
-=======
+# Tilletia puneana Vánky, 2005 SPECIES
 
 #### Status
 ACCEPTED

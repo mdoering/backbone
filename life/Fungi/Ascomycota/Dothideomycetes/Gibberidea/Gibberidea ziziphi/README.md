@@ -1,8 +1,7 @@
-Gibberidea zizyphi Tilak & Jadhav SPECIES
-=======
+# Gibberidea ziziphi Tilak & Jadhav SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Gibberidea zizyphi Tilak & Jadhav
+Gibberidea ziziphi Tilak & Jadhav
 
 ### Remarks
 null

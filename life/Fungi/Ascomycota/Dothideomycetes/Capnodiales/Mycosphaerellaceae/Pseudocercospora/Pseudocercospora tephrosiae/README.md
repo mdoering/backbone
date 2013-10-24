@@ -1,5 +1,4 @@
-Pseudocercospora tephrosiae A.N. Rai & Kamal SPECIES
-=======
+# Pseudocercospora tephrosiae A.N. Rai & Kamal SPECIES
 
 #### Status
 ACCEPTED

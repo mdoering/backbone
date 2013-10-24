@@ -1,5 +1,4 @@
-Cercospora scopariae Lacy & Thirum. SPECIES
-=======
+# Cercospora scopariae Lacy & Thirum. SPECIES
 
 #### Status
 ACCEPTED

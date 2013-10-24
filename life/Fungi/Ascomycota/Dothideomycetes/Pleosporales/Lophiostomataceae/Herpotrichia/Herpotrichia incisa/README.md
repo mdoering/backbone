@@ -1,5 +1,4 @@
-Herpotrichia incisa Ellis & Everh. SPECIES
-=======
+# Herpotrichia incisa Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

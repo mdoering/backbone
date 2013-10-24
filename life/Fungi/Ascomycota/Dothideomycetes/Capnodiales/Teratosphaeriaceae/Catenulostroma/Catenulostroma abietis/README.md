@@ -1,14 +1,13 @@
-Trimmatostroma abietis Butin & Pehl, 1996 SPECIES
-=======
+# Catenulostroma abietis (Butin & Pehl) Crous & U. Braun, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Butin, Pehl, Hoog & Wollenzien, Antonie van Leeuwenhoek 69(3): 204 (1996)
+in Crous, Braun & Groenewald, Stud. Mycol. 58: 15 (2007)
 
 #### Original name
 Trimmatostroma abietis Butin & Pehl, 1996

@@ -1,5 +1,4 @@
-Biatora pinicola Th. Fr. SPECIES
-=======
+# Biatora pinicola Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

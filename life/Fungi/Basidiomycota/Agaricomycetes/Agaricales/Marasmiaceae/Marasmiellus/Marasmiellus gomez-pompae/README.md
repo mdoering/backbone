@@ -1,5 +1,4 @@
-Marasmiellus gomez-pompae Singer SPECIES
-=======
+# Marasmiellus gomez-pompae Singer SPECIES
 
 #### Status
 ACCEPTED

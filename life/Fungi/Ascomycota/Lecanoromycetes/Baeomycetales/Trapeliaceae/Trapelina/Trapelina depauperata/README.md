@@ -1,5 +1,4 @@
-Trapelina depauperata (Leight.) Motyka SPECIES
-=======
+# Trapelina depauperata (Leight.) Motyka SPECIES
 
 #### Status
 ACCEPTED

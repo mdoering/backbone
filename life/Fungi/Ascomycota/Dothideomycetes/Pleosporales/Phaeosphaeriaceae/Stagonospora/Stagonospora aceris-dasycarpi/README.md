@@ -1,5 +1,4 @@
-Stagonospora aceris-dasycarpi Oudem. SPECIES
-=======
+# Stagonospora aceris-dasycarpi Oudem. SPECIES
 
 #### Status
 ACCEPTED

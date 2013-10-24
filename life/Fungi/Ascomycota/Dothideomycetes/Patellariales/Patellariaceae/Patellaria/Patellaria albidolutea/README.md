@@ -1,5 +1,4 @@
-Patellaria albidolutea (Nyl.) Müll. Arg. SPECIES
-=======
+# Patellaria albidolutea (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

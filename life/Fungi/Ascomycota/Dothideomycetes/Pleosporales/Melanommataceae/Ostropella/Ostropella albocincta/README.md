@@ -1,14 +1,13 @@
-Ostropa albocincta Berk. & M.A. Curtis, 1868 SPECIES
-=======
+# Ostropella albocincta (Berk. & M.A. Curtis) Höhn., 1918 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Berkeley, J. Linn. Soc. , Bot. 10(no. 46): 372 (1868)
+Annls mycol. (1918)
 
 #### Original name
 Ostropa albocincta Berk. & M.A. Curtis, 1868

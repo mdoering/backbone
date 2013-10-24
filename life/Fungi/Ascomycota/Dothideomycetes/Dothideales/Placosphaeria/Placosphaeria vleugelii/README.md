@@ -1,5 +1,4 @@
-Placosphaeria vleugelii Bubák SPECIES
-=======
+# Placosphaeria vleugelii Bubák SPECIES
 
 #### Status
 ACCEPTED

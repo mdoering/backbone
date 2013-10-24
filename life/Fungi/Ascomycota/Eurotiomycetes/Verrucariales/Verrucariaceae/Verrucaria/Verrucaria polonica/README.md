@@ -1,5 +1,4 @@
-Verrucaria polonica J. Nowak SPECIES
-=======
+# Verrucaria polonica J. Nowak SPECIES
 
 #### Status
 ACCEPTED

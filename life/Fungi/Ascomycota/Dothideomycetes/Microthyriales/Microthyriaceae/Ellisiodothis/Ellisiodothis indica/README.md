@@ -1,5 +1,4 @@
-Ellisiodothis indica K.V. Rao, K. Gopal & Manohar. SPECIES
-=======
+# Ellisiodothis indica K.V. Rao, K. Gopal & Manohar. SPECIES
 
 #### Status
 ACCEPTED

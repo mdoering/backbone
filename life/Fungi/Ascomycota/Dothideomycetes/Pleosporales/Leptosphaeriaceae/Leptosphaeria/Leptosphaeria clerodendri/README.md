@@ -1,5 +1,4 @@
-Leptosphaeria clerodendri Gucevic SPECIES
-=======
+# Leptosphaeria clerodendri Gucevic SPECIES
 
 #### Status
 ACCEPTED

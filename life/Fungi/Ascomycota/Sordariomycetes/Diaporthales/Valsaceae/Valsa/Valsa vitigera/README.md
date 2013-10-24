@@ -1,5 +1,4 @@
-Valsa vitigera Cooke SPECIES
-=======
+# Valsa vitigera Cooke SPECIES
 
 #### Status
 ACCEPTED

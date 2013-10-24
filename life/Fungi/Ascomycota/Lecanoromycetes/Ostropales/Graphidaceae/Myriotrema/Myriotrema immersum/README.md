@@ -1,5 +1,4 @@
-Myriotrema immersum (Eschw.) Hale SPECIES
-=======
+# Myriotrema immersum (Eschw.) Hale SPECIES
 
 #### Status
 ACCEPTED

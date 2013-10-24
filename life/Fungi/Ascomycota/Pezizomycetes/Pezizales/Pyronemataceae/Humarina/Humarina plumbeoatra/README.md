@@ -1,5 +1,4 @@
-Humarina plumbeoatra E.K. Cash SPECIES
-=======
+# Humarina plumbeoatra E.K. Cash SPECIES
 
 #### Status
 ACCEPTED

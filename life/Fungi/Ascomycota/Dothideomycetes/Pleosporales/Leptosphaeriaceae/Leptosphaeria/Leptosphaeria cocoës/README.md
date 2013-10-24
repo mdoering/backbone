@@ -1,5 +1,4 @@
-Leptosphaeria cocoës J.V. Almeida & Sousa da Câmara SPECIES
-=======
+# Leptosphaeria cocoës J.V. Almeida & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

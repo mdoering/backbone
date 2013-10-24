@@ -1,5 +1,4 @@
-Stelliferidium apertum (Burmann, 1970) Eisenack et al., 1979 SPECIES
-=======
+# Stelliferidium apertum (Burmann, 1970) Eisenack et al., 1979 SPECIES
 
 #### Status
 ACCEPTED

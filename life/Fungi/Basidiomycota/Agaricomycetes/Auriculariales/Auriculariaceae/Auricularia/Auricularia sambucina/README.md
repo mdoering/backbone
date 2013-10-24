@@ -1,5 +1,4 @@
-Auricularia sambucina Mart. SPECIES
-=======
+# Auricularia sambucina Mart. SPECIES
 
 #### Status
 ACCEPTED

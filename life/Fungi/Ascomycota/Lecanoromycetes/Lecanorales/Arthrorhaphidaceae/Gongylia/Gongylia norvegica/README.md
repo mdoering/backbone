@@ -1,5 +1,4 @@
-Gongylia norvegica H. Magn. SPECIES
-=======
+# Gongylia norvegica H. Magn. SPECIES
 
 #### Status
 ACCEPTED

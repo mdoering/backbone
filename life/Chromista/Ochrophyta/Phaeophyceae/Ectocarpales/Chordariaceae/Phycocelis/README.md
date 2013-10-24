@@ -1,5 +1,4 @@
-Phycocelis Strömfelt, 1888 GENUS
-=======
+# Phycocelis Strömfelt, 1888 GENUS
 
 #### Status
 ACCEPTED

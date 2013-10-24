@@ -1,5 +1,4 @@
-Chiastozygus striatus Black, 1971 SPECIES
-=======
+# Chiastozygus striatus Black, 1971 SPECIES
 
 #### Status
 ACCEPTED

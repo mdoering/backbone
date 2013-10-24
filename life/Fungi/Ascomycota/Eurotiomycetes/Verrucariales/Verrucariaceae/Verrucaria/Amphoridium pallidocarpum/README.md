@@ -1,5 +1,4 @@
-Amphoridium pallidocarpum (Servít) Servít SPECIES
-=======
+# Amphoridium pallidocarpum (Servít) Servít SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Strossmayeria ochrospora Iturr., 1990 SPECIES
-=======
+# Strossmayeria ochrospora Iturr., 1990 SPECIES
 
 #### Status
 ACCEPTED

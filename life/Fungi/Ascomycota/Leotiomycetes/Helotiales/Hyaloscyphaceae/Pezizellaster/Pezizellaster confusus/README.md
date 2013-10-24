@@ -1,5 +1,4 @@
-Pezizellaster confusus Höhn. SPECIES
-=======
+# Pezizellaster confusus Höhn. SPECIES
 
 #### Status
 ACCEPTED

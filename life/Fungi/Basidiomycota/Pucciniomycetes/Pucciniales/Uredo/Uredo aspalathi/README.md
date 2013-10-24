@@ -1,5 +1,4 @@
-Uredo aspalathi Mennicken & Oberw. SPECIES
-=======
+# Uredo aspalathi Mennicken & Oberw. SPECIES
 
 #### Status
 ACCEPTED

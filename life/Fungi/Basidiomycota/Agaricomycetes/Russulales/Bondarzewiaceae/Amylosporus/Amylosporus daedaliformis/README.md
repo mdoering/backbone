@@ -1,5 +1,4 @@
-Amylosporus daedaliformis G.Y. Zheng & Z.S. Bi, 1987 SPECIES
-=======
+# Amylosporus daedaliformis G.Y. Zheng & Z.S. Bi, 1987 SPECIES
 
 #### Status
 ACCEPTED

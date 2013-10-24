@@ -1,5 +1,4 @@
-Dicaeoma sidae (Pat.) Kuntze SPECIES
-=======
+# Dicaeoma sidae (Pat.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

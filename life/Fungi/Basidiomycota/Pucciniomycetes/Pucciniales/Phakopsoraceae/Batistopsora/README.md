@@ -1,5 +1,4 @@
-Batistopsora Dianese, R.B. Medeiros & L.T.P. Santos GENUS
-=======
+# Batistopsora Dianese, R.B. Medeiros & L.T.P. Santos GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Exophiala pisciphilus McGinnis & Ajello SPECIES
-=======
+# Exophiala pisciphila McGinnis & Ajello, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 66(3): 518 (1974)
 
 #### Original name
-Exophiala pisciphilus McGinnis & Ajello
+Exophiala pisciphila McGinnis & Ajello, 1974
 
 ### Remarks
 null

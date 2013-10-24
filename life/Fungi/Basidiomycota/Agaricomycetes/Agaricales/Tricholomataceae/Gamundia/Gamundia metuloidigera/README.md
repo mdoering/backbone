@@ -1,14 +1,13 @@
-Fayodia metuloidigera Singer, 1989 SPECIES
-=======
+# Gamundia metuloidigera (Singer) Raithelh., 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fieldiana, Bot. 21: 90 (1989)
+Fl. Mycol. Argentina (Stuttgart), Hongos <b>III</b> 140 (1991)
 
 #### Original name
 Fayodia metuloidigera Singer, 1989

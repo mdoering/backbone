@@ -1,5 +1,4 @@
-Rhizophydium nobile Canter & A. Lund, 1968 SPECIES
-=======
+# Rhizophydium nobile Canter & A. Lund, 1968 SPECIES
 
 #### Status
 ACCEPTED

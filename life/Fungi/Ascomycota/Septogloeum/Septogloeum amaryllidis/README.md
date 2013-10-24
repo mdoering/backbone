@@ -1,5 +1,4 @@
-Septogloeum amaryllidis Gutner SPECIES
-=======
+# Septogloeum amaryllidis Gutner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lentinus cucullatus Bres. SPECIES
-=======
+# Lentinus cucullatus Bres. SPECIES
 
 #### Status
 ACCEPTED

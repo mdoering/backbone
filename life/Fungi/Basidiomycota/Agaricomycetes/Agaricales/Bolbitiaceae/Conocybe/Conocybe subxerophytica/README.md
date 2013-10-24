@@ -1,5 +1,4 @@
-Conocybe subxerophytica Singer & Hauskn. SPECIES
-=======
+# Conocybe subxerophytica Singer & Hauskn. SPECIES
 
 #### Status
 ACCEPTED

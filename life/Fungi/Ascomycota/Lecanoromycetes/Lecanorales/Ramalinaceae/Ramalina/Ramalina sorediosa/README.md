@@ -1,5 +1,4 @@
-Ramalina sorediosa (B. de Lesd.) Landrón SPECIES
-=======
+# Ramalina sorediosa (B. de Lesd.) Landrón SPECIES
 
 #### Status
 ACCEPTED

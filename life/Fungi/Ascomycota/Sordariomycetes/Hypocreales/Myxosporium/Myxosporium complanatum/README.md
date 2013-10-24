@@ -1,5 +1,4 @@
-Myxosporium complanatum (Lib.) Sacc. SPECIES
-=======
+# Myxosporium complanatum (Lib.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ditremis karnatakensis Makhija & Patw. SPECIES
-=======
+# Ditremis karnatakensis Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

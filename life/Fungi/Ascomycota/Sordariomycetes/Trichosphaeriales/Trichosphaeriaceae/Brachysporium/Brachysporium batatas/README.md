@@ -1,8 +1,7 @@
-Brachysporium batatatis Khokhr. & Dyur. SPECIES
-=======
+# Brachysporium batatas Khokhr. & Dyur. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Brachysporium batatatis Khokhr. & Dyur.
+Brachysporium batatas Khokhr. & Dyur.
 
 ### Remarks
 null

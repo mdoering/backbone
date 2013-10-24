@@ -1,5 +1,4 @@
-Dictyosporium mucoideum anon. SPECIES
-=======
+# Dictyosporium mucoideum anon. SPECIES
 
 #### Status
 ACCEPTED

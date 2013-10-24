@@ -1,5 +1,4 @@
-Karschia parasema var. parasema VARIETY
-=======
+# Lecidella parasema (Ach.) Arnold SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Syll. fung. (Abellini) 19: 994 (1910)
+Verh. zool. -bot. Ges. Wein 23: 116 (1873)
 
 #### Original name
-Karschia parasema var. parasema
+Lichen parasemus Ach.
 
 ### Remarks
 null

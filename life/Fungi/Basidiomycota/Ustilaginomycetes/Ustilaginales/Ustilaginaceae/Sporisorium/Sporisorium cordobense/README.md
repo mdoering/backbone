@@ -1,5 +1,4 @@
-Sporisorium cordobense (Speg.) Vánky SPECIES
-=======
+# Sporisorium cordobense (Speg.) Vánky SPECIES
 
 #### Status
 ACCEPTED

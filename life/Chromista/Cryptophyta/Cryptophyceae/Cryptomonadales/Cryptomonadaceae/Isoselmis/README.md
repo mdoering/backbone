@@ -1,5 +1,4 @@
-Isoselmis Butcher, 1967 GENUS
-=======
+# Isoselmis Butcher, 1967 GENUS
 
 #### Status
 ACCEPTED

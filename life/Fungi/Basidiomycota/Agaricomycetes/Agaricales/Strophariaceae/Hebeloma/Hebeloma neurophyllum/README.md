@@ -1,5 +1,4 @@
-Hebeloma neurophyllum G.F. Atk. SPECIES
-=======
+# Hebeloma neurophyllum G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

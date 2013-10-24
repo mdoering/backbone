@@ -1,8 +1,7 @@
-Cladonia coilophylla Müll. Arg. SPECIES
-=======
+# Ramalea coilophylla (Müll. Arg.) Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

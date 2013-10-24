@@ -1,5 +1,4 @@
-Stylonychia mutabunda Dumas, 1930 SPECIES
-=======
+# Stylonychia mutabunda Dumas, 1930 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stagonospora komarovii Ohl SPECIES
-=======
+# Stagonospora komarovii Ohl SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rinodina xanthomelana Müll. Arg. SPECIES
-=======
+# Rinodina xanthomelana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

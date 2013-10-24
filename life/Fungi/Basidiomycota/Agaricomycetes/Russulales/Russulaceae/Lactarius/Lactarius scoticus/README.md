@@ -1,14 +1,13 @@
-Lactarius pubescens var. scoticus (Berk. & Broome) Krieglst., 1991 VARIETY
-=======
+# Lactarius scoticus Berk. & Broome, 1879 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beitr. Kenntn. Pilze Mitteleur. 7: 69 (1991)
+Ann. Mag. nat. Hist. , Ser. 5 3: 208 (1879)
 
 #### Original name
 Lactarius scoticus Berk. & Broome, 1879

@@ -1,5 +1,4 @@
-Pseudocercospora homalanthi Deighton SPECIES
-=======
+# Pseudocercospora homalanthi Deighton SPECIES
 
 #### Status
 ACCEPTED

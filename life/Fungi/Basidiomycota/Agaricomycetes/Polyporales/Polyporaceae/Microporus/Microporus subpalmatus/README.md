@@ -1,5 +1,4 @@
-Microporus subpalmatus (Sacc.) Kuntze SPECIES
-=======
+# Microporus subpalmatus (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

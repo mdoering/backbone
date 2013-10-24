@@ -1,5 +1,4 @@
-Parmelinopsis Elix & Hale GENUS
-=======
+# Parmelinopsis Elix & Hale GENUS
 
 #### Status
 ACCEPTED

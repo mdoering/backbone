@@ -1,5 +1,4 @@
-Lecidea globosa Clemente SPECIES
-=======
+# Lecidea globosa Clemente SPECIES
 
 #### Status
 ACCEPTED

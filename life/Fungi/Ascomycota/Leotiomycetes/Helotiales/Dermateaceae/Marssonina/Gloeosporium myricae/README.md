@@ -1,5 +1,4 @@
-Gloeosporium myricae Dippen. SPECIES
-=======
+# Gloeosporium myricae Dippen. SPECIES
 
 #### Status
 ACCEPTED

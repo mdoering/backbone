@@ -1,5 +1,4 @@
-Uromyces dinteri Mennicken, W. Maier & Oberw., 2005 SPECIES
-=======
+# Uromyces dinteri Mennicken, W. Maier & Oberw., 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Deleya salina Valderrama et al., 1991 SPECIES
-=======
+# Halomonas salina (Valderrama et al., 1991) Dobson & Franzmann, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

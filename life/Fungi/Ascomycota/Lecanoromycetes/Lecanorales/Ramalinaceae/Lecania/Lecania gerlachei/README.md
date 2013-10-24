@@ -1,5 +1,4 @@
-Lecania gerlachei (Vain.) Darb. SPECIES
-=======
+# Lecania gerlachei (Vain.) Darb. SPECIES
 
 #### Status
 ACCEPTED

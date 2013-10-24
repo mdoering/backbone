@@ -1,14 +1,13 @@
-Agapetha Gistl, 1848 GENUS
-=======
+# Loxodes Ehrenberg, 1830 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nat. Thierr. , ix.
+Abh. Preuss. Akad. Wiss. , 1830 (1832), 42.
 
 #### Original name
 null

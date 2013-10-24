@@ -1,5 +1,4 @@
-Acarospora crozalsii B. de Lesd. SPECIES
-=======
+# Acarospora crozalsii B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

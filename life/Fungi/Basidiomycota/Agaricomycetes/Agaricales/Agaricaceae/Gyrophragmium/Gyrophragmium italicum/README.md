@@ -1,5 +1,4 @@
-Gyrophragmium italicum Petri SPECIES
-=======
+# Gyrophragmium italicum Petri SPECIES
 
 #### Status
 ACCEPTED

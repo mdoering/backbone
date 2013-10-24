@@ -1,5 +1,4 @@
-Undulina E.R.Lankester GENUS
-=======
+# Undulina E.R.Lankester GENUS
 
 #### Status
 ACCEPTED

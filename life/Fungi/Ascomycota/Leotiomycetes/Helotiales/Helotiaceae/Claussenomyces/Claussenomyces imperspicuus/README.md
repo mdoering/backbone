@@ -1,5 +1,4 @@
-Claussenomyces imperspicuus (Sacc., E. Bommer & M. Rousseau) Iturr. & Korf SPECIES
-=======
+# Claussenomyces imperspicuus (Sacc., E. Bommer & M. Rousseau) Iturr. & Korf SPECIES
 
 #### Status
 ACCEPTED

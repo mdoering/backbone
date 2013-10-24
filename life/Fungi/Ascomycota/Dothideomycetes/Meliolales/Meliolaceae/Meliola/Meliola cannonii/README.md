@@ -1,5 +1,4 @@
-Meliola cannonii Hosag. SPECIES
-=======
+# Meliola cannonii Hosag. SPECIES
 
 #### Status
 ACCEPTED

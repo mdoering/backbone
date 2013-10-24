@@ -1,5 +1,4 @@
-Phyllachora neolitseae Sivan. & R.G. Shivas, 2002 SPECIES
-=======
+# Phyllachora neolitseae Sivan. & R.G. Shivas, 2002 SPECIES
 
 #### Status
 ACCEPTED

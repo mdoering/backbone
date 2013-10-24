@@ -1,5 +1,4 @@
-Abrothallus stroblii Hafellner SPECIES
-=======
+# Abrothallus stroblii Hafellner SPECIES
 
 #### Status
 ACCEPTED

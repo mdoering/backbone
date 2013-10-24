@@ -1,5 +1,4 @@
-Urceolaria microcelis Ach. SPECIES
-=======
+# Urceolaria microcelis Ach. SPECIES
 
 #### Status
 ACCEPTED

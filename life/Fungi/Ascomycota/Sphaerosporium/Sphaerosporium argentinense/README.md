@@ -1,5 +1,4 @@
-Sphaerosporium argentinense Speg. SPECIES
-=======
+# Sphaerosporium argentinense Speg. SPECIES
 
 #### Status
 ACCEPTED

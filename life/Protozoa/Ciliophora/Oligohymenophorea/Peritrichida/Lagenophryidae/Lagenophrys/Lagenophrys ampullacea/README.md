@@ -1,5 +1,4 @@
-Lagenophrys ampullacea SPECIES
-=======
+# Lagenophrys ampullacea SPECIES
 
 #### Status
 ACCEPTED

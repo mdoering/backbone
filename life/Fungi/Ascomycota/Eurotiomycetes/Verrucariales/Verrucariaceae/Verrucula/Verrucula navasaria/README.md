@@ -1,5 +1,4 @@
-Verrucula navasaria Nav.-Ros. & Cl. Roux SPECIES
-=======
+# Verrucula navasaria Nav.-Ros. & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

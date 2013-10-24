@@ -1,5 +1,4 @@
-Camarosporium helichrysi Pass. SPECIES
-=======
+# Camarosporium helichrysi Pass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria petiolophila Peck SPECIES
-=======
+# Sphaeria petiolophila Peck SPECIES
 
 #### Status
 ACCEPTED

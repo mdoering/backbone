@@ -1,5 +1,4 @@
-Cyphella porioides (Alb. & Schwein.) Quél. SPECIES
-=======
+# Cyphella porioides (Alb. & Schwein.) Quél. SPECIES
 
 #### Status
 ACCEPTED

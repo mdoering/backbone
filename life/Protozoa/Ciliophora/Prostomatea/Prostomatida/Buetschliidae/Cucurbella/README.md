@@ -1,5 +1,4 @@
-Cucurbella Thurston & Grain, 1971 GENUS
-=======
+# Cucurbella Thurston & Grain, 1971 GENUS
 
 #### Status
 ACCEPTED

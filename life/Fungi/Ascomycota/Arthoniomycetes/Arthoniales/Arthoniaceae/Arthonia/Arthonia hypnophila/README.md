@@ -1,5 +1,4 @@
-Arthonia hypnophila Coppins SPECIES
-=======
+# Arthonia hypnophila Coppins SPECIES
 
 #### Status
 ACCEPTED

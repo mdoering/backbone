@@ -1,8 +1,7 @@
-Myrionema saxicolum Kuckuck SPECIES
-=======
+# Compsonema saxicolum (Kuckuck) Kornmann SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

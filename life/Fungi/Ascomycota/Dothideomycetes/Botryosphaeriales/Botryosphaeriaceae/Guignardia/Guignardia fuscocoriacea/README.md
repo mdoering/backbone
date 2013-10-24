@@ -1,5 +1,4 @@
-Guignardia fuscocoriacea Rehm SPECIES
-=======
+# Guignardia fuscocoriacea Rehm SPECIES
 
 #### Status
 ACCEPTED

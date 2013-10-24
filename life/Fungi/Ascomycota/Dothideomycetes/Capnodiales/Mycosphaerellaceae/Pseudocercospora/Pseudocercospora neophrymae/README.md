@@ -1,5 +1,4 @@
-Pseudocercospora neophrymae C. Nakash. & Tak. Kobay. SPECIES
-=======
+# Pseudocercospora neophrymae C. Nakash. & Tak. Kobay. SPECIES
 
 #### Status
 ACCEPTED

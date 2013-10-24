@@ -1,5 +1,4 @@
-Camarosporium chenopodii Ellis & Everh. SPECIES
-=======
+# Camarosporium chenopodii Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

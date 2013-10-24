@@ -1,5 +1,4 @@
-Diplodina matricariae Moesz & Smarods SPECIES
-=======
+# Diplodina matricariae Moesz & Smarods SPECIES
 
 #### Status
 ACCEPTED

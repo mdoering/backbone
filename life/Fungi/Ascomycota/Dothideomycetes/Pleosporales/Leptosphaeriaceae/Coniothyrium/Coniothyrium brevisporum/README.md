@@ -1,5 +1,4 @@
-Coniothyrium brevisporum I. Miyake SPECIES
-=======
+# Coniothyrium brevisporum I. Miyake SPECIES
 
 #### Status
 ACCEPTED

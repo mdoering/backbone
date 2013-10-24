@@ -1,5 +1,4 @@
-Phyllachora pernettyae Syd., 1939 SPECIES
-=======
+# Phyllachora pernettyae Syd., 1939 SPECIES
 
 #### Status
 ACCEPTED

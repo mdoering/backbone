@@ -1,5 +1,4 @@
-Coprinopsis ochraceolanata (Bas) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
-=======
+# Coprinopsis ochraceolanata (Bas) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
 
 #### Status
 ACCEPTED

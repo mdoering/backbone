@@ -1,5 +1,4 @@
-Rhizocarpon nidificum (Hue) Darb. SPECIES
-=======
+# Rhizocarpon nidificum (Hue) Darb. SPECIES
 
 #### Status
 ACCEPTED

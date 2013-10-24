@@ -1,5 +1,4 @@
-Suillellus hypocarycinus (Singer) Murrill SPECIES
-=======
+# Suillellus hypocarycinus (Singer) Murrill SPECIES
 
 #### Status
 ACCEPTED

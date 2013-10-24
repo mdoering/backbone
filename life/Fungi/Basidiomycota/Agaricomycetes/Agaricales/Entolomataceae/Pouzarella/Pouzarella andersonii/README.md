@@ -1,5 +1,4 @@
-Pouzarella andersonii Mazzer SPECIES
-=======
+# Pouzarella andersonii Mazzer SPECIES
 
 #### Status
 ACCEPTED

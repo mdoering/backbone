@@ -1,5 +1,4 @@
-Penicillium ardesiacum Novobr., 1974 SPECIES
-=======
+# Penicillium ardesiacum Novobr., 1974 SPECIES
 
 #### Status
 ACCEPTED

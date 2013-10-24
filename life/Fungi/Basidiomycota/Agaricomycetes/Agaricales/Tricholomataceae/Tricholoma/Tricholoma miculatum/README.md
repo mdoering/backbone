@@ -1,5 +1,4 @@
-Tricholoma miculatum (Secr. ex Fr.) Gillet SPECIES
-=======
+# Tricholoma miculatum (Secr. ex Fr.) Gillet SPECIES
 
 #### Status
 ACCEPTED

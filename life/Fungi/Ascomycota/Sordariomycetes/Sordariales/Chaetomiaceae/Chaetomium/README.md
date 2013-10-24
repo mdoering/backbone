@@ -1,17 +1,16 @@
-Chaetomiotricha Peyronel GENUS
-=======
+# Chaetomium Kunze GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 12: 462 (1914)
+Mykologische Hefte (Leipzig) 1: 15 (1817)
 
 #### Original name
-Chaetomiotricha Peyronel
+Chaetomium Kunze
 
 ### Remarks
 null

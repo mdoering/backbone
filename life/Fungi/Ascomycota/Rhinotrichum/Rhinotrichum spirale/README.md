@@ -1,5 +1,4 @@
-Rhinotrichum spirale (Penz. & Sacc.) Boedijn SPECIES
-=======
+# Rhinotrichum spirale (Penz. & Sacc.) Boedijn SPECIES
 
 #### Status
 ACCEPTED

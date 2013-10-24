@@ -1,5 +1,4 @@
-Hyaloscypha herbarum Velen., 1934 SPECIES
-=======
+# Hyaloscypha herbarum Velen., 1934 SPECIES
 
 #### Status
 ACCEPTED

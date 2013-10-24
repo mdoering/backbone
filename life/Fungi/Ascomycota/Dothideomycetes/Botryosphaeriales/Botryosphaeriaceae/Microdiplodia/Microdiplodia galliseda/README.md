@@ -1,5 +1,4 @@
-Microdiplodia galliseda Sacc. SPECIES
-=======
+# Microdiplodia galliseda Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psilocybe heimii Guzmán SPECIES
-=======
+# Psilocybe heimii Guzmán SPECIES
 
 #### Status
 ACCEPTED

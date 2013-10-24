@@ -1,5 +1,4 @@
-Scleroglossum acrospermum Pers. SPECIES
-=======
+# Scleroglossum acrospermum Pers. SPECIES
 
 #### Status
 ACCEPTED

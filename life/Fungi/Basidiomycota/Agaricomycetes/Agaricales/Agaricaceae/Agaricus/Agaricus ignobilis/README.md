@@ -1,5 +1,4 @@
-Agaricus ignobilis Britzelm., 1890 SPECIES
-=======
+# Agaricus ignobilis Britzelm., 1890 SPECIES
 
 #### Status
 ACCEPTED

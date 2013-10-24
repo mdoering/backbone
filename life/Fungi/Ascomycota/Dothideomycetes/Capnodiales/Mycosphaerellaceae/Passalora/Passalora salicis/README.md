@@ -1,5 +1,4 @@
-Passalora salicis (Deighton, R.A.B. Verma & S.S. Prasad) U. Braun & Crous SPECIES
-=======
+# Passalora salicis (Deighton, R.A.B. Verma & S.S. Prasad) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

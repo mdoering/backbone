@@ -1,5 +1,4 @@
-Pertusaria laeviganda Nyl. SPECIES
-=======
+# Pertusaria laeviganda Nyl. SPECIES
 
 #### Status
 ACCEPTED

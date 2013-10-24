@@ -1,5 +1,4 @@
-Cyathus puiggarii Speg. SPECIES
-=======
+# Cyathus puiggarii Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psilachnum auranticolor Graddon, 1977 SPECIES
-=======
+# Psilachnum auranticolor Graddon, 1977 SPECIES
 
 #### Status
 ACCEPTED

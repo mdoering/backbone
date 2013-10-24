@@ -1,5 +1,4 @@
-Filaspora eupyrena (Sacc. & Thüm.) Kuntze SPECIES
-=======
+# Filaspora eupyrena (Sacc. & Thüm.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

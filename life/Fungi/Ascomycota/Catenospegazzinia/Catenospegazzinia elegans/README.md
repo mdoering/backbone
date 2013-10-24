@@ -1,5 +1,4 @@
-Catenospegazzinia elegans Subram., 1991 SPECIES
-=======
+# Catenospegazzinia elegans Subram., 1991 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius metapolychrous M.M. Moser SPECIES
-=======
+# Cortinarius metapolychrous M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amanita griseofarinosa Hongo SPECIES
-=======
+# Amanita griseofarinosa Hongo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Toninia aggregata Vezda SPECIES
-=======
+# Toninia aggregata Vezda SPECIES
 
 #### Status
 ACCEPTED

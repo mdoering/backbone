@@ -1,5 +1,4 @@
-Delitschia niesslii Oudem., 1885 SPECIES
-=======
+# Delitschia niesslii Oudem., 1885 SPECIES
 
 #### Status
 ACCEPTED

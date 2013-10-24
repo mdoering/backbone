@@ -1,17 +1,16 @@
-Sporidesmium laxusporum R.F. Castañeda SPECIES
-=======
+# Sporidesmium laxisporum R.F. Castañeda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Deuteromycotina de Cuba (La Habana), Hyphomycetes 3: 35 (1985)
 
 #### Original name
-Sporidesmium laxusporum R.F. Castañeda
+Sporidesmium laxisporum R.F. Castañeda
 
 ### Remarks
 null

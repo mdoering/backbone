@@ -1,5 +1,4 @@
-Arthopyrenia vratislaviensis Stein SPECIES
-=======
+# Arthopyrenia vratislaviensis Stein SPECIES
 
 #### Status
 ACCEPTED

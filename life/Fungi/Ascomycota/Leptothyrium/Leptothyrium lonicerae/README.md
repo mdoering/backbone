@@ -1,5 +1,4 @@
-Leptothyrium lonicerae Jørst. SPECIES
-=======
+# Leptothyrium lonicerae Jørst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanactis subcalcarea (Müll. Arg.) Stizenb. SPECIES
-=======
+# Lecanactis subcalcarea (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Amanitaria pantherina f. sp FORM
-=======
+# Amanita pantherina (DC.) Krombh., 1846 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Iconogr. Mycol. 27(Suppl. 1): 77 (1941)
+Naturgetr. Abbild. Beschr. Schwämme (Prague) 29 (1846)
 
 #### Original name
-Amanitaria pantherina f. sp
+Agaricus pantherinus DC., 1815
 
 ### Remarks
 null

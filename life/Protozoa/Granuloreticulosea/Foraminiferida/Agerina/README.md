@@ -1,5 +1,4 @@
-Agerina Farinacci, 1991 GENUS
-=======
+# Agerina Farinacci, 1991 GENUS
 
 #### Status
 ACCEPTED

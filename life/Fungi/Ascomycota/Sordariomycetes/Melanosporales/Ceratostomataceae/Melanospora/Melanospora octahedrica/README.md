@@ -1,5 +1,4 @@
-Melanospora octahedrica Pat. SPECIES
-=======
+# Melanospora octahedrica Pat. SPECIES
 
 #### Status
 ACCEPTED

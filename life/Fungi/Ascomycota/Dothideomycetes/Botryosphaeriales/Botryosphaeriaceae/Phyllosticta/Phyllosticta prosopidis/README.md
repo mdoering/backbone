@@ -1,5 +1,4 @@
-Phyllosticta prosopidis Henn. SPECIES
-=======
+# Phyllosticta prosopidis Henn. SPECIES
 
 #### Status
 ACCEPTED

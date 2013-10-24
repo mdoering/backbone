@@ -1,5 +1,4 @@
-Sporidesmium toruloides Cooke SPECIES
-=======
+# Sporidesmium toruloides Cooke SPECIES
 
 #### Status
 ACCEPTED

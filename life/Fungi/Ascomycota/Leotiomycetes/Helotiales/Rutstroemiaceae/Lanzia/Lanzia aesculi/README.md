@@ -1,5 +1,4 @@
-Lanzia aesculi (Velen.) Svrcek SPECIES
-=======
+# Lanzia aesculi (Velen.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Escherichia bentotensis SPECIES
-=======
+# Escherichia bentotensis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Camarosporium compositarum (Cooke & Harkn.) Sacc. SPECIES
-=======
+# Camarosporium compositarum (Cooke & Harkn.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

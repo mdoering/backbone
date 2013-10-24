@@ -1,5 +1,4 @@
-Dermomycoides Granata GENUS
-=======
+# Dermomycoides Granata GENUS
 
 #### Status
 ACCEPTED

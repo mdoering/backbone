@@ -1,5 +1,4 @@
-Ballistosporomyces Nakase, G. Okada & Sugiy. GENUS
-=======
+# Ballistosporomyces Nakase, G. Okada & Sugiy. GENUS
 
 #### Status
 ACCEPTED

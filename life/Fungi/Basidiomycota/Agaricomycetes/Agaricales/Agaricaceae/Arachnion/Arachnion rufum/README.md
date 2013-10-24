@@ -1,5 +1,4 @@
-Arachnion rufum Lloyd SPECIES
-=======
+# Arachnion rufum Lloyd SPECIES
 
 #### Status
 ACCEPTED

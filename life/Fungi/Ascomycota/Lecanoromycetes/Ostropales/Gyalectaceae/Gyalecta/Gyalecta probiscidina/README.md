@@ -1,5 +1,4 @@
-Gyalecta probiscidina (Nyl.) Nyl. SPECIES
-=======
+# Gyalecta probiscidina (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

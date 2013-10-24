@@ -1,14 +1,13 @@
-Leptosphaeria cinclidoti Racov., 1959 SPECIES
-=======
+# Bryosphaeria cinclidoti (Racov.) Döbbeler, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Mus. natn. Hist. nat. , Paris, Ser. B, N. S. 10: 150 (1959)
+Mitt. bot. StSamml. , Münch. 14: 158 (1978)
 
 #### Original name
 Leptosphaeria cinclidoti Racov., 1959

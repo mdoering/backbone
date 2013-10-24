@@ -1,5 +1,4 @@
-Dimargaris Tiegh. GENUS
-=======
+# Dimargaris Tiegh. GENUS
 
 #### Status
 ACCEPTED

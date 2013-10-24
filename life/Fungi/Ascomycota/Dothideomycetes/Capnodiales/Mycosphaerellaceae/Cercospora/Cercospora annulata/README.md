@@ -1,5 +1,4 @@
-Cercospora annulata Cooke SPECIES
-=======
+# Cercospora annulata Cooke SPECIES
 
 #### Status
 ACCEPTED

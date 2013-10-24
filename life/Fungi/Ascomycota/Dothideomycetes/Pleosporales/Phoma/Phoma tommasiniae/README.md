@@ -1,5 +1,4 @@
-Phoma tommasiniae Bres. SPECIES
-=======
+# Phoma tommasiniae Bres. SPECIES
 
 #### Status
 ACCEPTED

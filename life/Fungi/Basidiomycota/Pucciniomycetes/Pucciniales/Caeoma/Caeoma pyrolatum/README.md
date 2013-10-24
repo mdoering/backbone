@@ -1,5 +1,4 @@
-Caeoma pyrolatum Schwein. SPECIES
-=======
+# Caeoma pyrolatum Schwein. SPECIES
 
 #### Status
 ACCEPTED

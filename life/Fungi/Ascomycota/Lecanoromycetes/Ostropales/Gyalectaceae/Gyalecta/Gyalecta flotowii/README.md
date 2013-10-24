@@ -1,17 +1,16 @@
-Gyalecta flotowii f. flotowii Körb. FORM
-=======
+# Gyalecta flotowii Körb. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syst. lich. germ. (Breslau) 171 (1855)
 
 #### Original name
-Gyalecta flotowii f. flotowii Körb.
+Gyalecta flotowii Körb.
 
 ### Remarks
 null

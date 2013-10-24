@@ -1,5 +1,4 @@
-Lophodermium ramulosum Spooner, 1991 SPECIES
-=======
+# Lophodermium ramulosum Spooner, 1991 SPECIES
 
 #### Status
 ACCEPTED

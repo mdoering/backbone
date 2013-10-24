@@ -1,5 +1,4 @@
-Methylocella Dedysh et al., 2000 GENUS
-=======
+# Methylocella Dedysh et al., 2000 GENUS
 
 #### Status
 ACCEPTED

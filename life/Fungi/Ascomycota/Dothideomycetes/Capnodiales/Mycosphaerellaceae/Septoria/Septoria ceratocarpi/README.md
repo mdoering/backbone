@@ -1,5 +1,4 @@
-Septoria ceratocarpi Kalymb. SPECIES
-=======
+# Septoria ceratocarpi Kalymb. SPECIES
 
 #### Status
 ACCEPTED

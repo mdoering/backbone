@@ -1,5 +1,4 @@
-Claussenomyces salicicola G. Marson SPECIES
-=======
+# Claussenomyces salicicola G. Marson SPECIES
 
 #### Status
 ACCEPTED

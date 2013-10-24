@@ -1,5 +1,4 @@
-Omphalia fenestralis Velen. SPECIES
-=======
+# Omphalia fenestralis Velen. SPECIES
 
 #### Status
 ACCEPTED

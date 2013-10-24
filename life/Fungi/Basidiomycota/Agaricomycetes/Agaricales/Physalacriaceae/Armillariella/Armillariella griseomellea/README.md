@@ -1,5 +1,4 @@
-Armillariella griseomellea Singer SPECIES
-=======
+# Armillariella griseomellea Singer SPECIES
 
 #### Status
 ACCEPTED

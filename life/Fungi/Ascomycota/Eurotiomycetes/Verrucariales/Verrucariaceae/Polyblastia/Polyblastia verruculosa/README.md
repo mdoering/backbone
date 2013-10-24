@@ -1,5 +1,4 @@
-Polyblastia verruculosa Müll. Arg. SPECIES
-=======
+# Polyblastia verruculosa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

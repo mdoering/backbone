@@ -1,8 +1,7 @@
-Gephyrocapsa margarelii Bréherét, 1978 SPECIES
-=======
+# Gephyrocapsa margerelii Bréherét, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

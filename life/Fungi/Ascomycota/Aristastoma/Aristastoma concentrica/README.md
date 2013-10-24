@@ -1,5 +1,4 @@
-Aristastoma concentrica Tehon, 1933 SPECIES
-=======
+# Aristastoma concentrica Tehon, 1933 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporidesmium ellisii Piroz. SPECIES
-=======
+# Sporidesmium ellisii Piroz. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bagliettoa cazzae (Zahlbr.) Vezda & Poelt SPECIES
-=======
+# Bagliettoa cazzae (Zahlbr.) Vezda & Poelt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Euglena subehrenbergii Skuja SPECIES
-=======
+# Euglena subehrenbergii Skuja SPECIES
 
 #### Status
 ACCEPTED

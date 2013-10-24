@@ -1,5 +1,4 @@
-Xiphacanthonia Haeckel, 1887 GENUS
-=======
+# Xiphacanthonia Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

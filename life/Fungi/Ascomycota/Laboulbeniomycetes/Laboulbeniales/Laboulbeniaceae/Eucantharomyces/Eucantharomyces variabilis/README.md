@@ -1,5 +1,4 @@
-Eucantharomyces variabilis T. Majewski & K. Sugiy. SPECIES
-=======
+# Eucantharomyces variabilis T. Majewski & K. Sugiy. SPECIES
 
 #### Status
 ACCEPTED

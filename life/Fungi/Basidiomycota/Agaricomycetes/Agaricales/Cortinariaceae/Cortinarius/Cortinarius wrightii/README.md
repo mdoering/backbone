@@ -1,5 +1,4 @@
-Cortinarius wrightii Berk. & M.A. Curtis SPECIES
-=======
+# Cortinarius wrightii Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

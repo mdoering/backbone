@@ -1,5 +1,4 @@
-Monilia angustior Sacc. SPECIES
-=======
+# Monilia angustior Sacc. SPECIES
 
 #### Status
 ACCEPTED

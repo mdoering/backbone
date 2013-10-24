@@ -1,5 +1,4 @@
-Bactrospora paludicola Kantvilas SPECIES
-=======
+# Bactrospora paludicola Kantvilas SPECIES
 
 #### Status
 ACCEPTED

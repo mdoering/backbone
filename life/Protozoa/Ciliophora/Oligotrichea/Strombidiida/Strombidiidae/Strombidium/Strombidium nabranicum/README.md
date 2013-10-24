@@ -1,5 +1,4 @@
-Strombidium nabranicum Alekperov, Buskey & Snegovaya, 2006 SPECIES
-=======
+# Strombidium nabranicum Alekperov, Buskey & Snegovaya, 2006 SPECIES
 
 #### Status
 ACCEPTED

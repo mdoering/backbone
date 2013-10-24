@@ -1,5 +1,4 @@
-Pseudopyrenula cerei Vain. SPECIES
-=======
+# Pseudopyrenula cerei Vain. SPECIES
 
 #### Status
 ACCEPTED

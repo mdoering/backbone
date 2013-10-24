@@ -1,5 +1,4 @@
-Scopulariopsis bestae (Pollacci) Nann. SPECIES
-=======
+# Scopulariopsis bestae (Pollacci) Nann. SPECIES
 
 #### Status
 ACCEPTED

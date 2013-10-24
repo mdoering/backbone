@@ -1,5 +1,4 @@
-Camarosporium wistariae Tschern. SPECIES
-=======
+# Camarosporium wistariae Tschern. SPECIES
 
 #### Status
 ACCEPTED

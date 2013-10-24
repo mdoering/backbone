@@ -1,5 +1,4 @@
-Marasmiellus albobrunnescens Singer SPECIES
-=======
+# Marasmiellus albobrunnescens Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agyrophora rugifera (Nyl.) SPECIES
-=======
+# Agyrophora rugifera (Nyl.) SPECIES
 
 #### Status
 ACCEPTED

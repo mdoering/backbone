@@ -1,5 +1,4 @@
-Cercosporella triboutiana f. triboutiana FORM
-=======
+# Cercosporella triboutiana Sacc. & Letendre SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cercosporella triboutiana f. triboutiana
+Cercosporella triboutiana Sacc. & Letendre
 
 ### Remarks
 null

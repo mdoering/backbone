@@ -1,5 +1,4 @@
-Trichocladium variosporum Zachariah, Sankaran & M.U. Rahman SPECIES
-=======
+# Trichocladium variosporum Zachariah, Sankaran & M.U. Rahman SPECIES
 
 #### Status
 ACCEPTED

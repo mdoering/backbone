@@ -1,5 +1,4 @@
-Gorgoniceps (P. Karsten) P. Karsten, 1871 GENUS
-=======
+# Gorgoniceps (P. Karsten) P. Karsten, 1871 GENUS
 
 #### Status
 ACCEPTED

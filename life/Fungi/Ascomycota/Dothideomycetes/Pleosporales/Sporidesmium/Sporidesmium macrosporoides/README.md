@@ -1,5 +1,4 @@
-Sporidesmium macrosporoides Ellis & Galloway SPECIES
-=======
+# Sporidesmium macrosporoides Ellis & Galloway SPECIES
 
 #### Status
 ACCEPTED

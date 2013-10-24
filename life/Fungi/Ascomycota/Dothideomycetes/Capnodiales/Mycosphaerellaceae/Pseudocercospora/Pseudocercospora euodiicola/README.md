@@ -1,5 +1,4 @@
-Pseudocercospora euodiicola (Boedijn) P.K. Chi SPECIES
-=======
+# Pseudocercospora euodiicola (Boedijn) P.K. Chi SPECIES
 
 #### Status
 ACCEPTED

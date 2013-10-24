@@ -1,8 +1,7 @@
-Mucosphaera magna (J.H. Belcher) A.J. Dop & Van Beem SPECIES
-=======
+# Hibberdia magna (J.H. Belcher) R.A. Andersen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

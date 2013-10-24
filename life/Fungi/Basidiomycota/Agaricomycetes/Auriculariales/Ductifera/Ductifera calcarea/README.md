@@ -1,5 +1,4 @@
-Ductifera calcarea Lowy SPECIES
-=======
+# Ductifera calcarea Lowy SPECIES
 
 #### Status
 ACCEPTED

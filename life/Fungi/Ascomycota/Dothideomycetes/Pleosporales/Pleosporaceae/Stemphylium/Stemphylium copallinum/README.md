@@ -1,5 +1,4 @@
-Stemphylium copallinum Ellis & Everh. SPECIES
-=======
+# Stemphylium copallinum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

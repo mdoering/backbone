@@ -1,5 +1,4 @@
-Otidea microspora (Kanouse) Harmaja SPECIES
-=======
+# Otidea microspora (Kanouse) Harmaja SPECIES
 
 #### Status
 ACCEPTED

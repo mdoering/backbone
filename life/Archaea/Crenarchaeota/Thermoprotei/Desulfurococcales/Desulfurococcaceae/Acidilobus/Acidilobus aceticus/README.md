@@ -1,5 +1,4 @@
-Acidilobus aceticus Prokofeva et al., 2000 SPECIES
-=======
+# Acidilobus aceticus Prokofeva et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

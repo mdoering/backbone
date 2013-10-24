@@ -1,5 +1,4 @@
-Pouzarella nodospora (G.F. Atk.) Mazzer SPECIES
-=======
+# Pouzarella nodospora (G.F. Atk.) Mazzer SPECIES
 
 #### Status
 ACCEPTED

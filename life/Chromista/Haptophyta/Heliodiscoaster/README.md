@@ -1,5 +1,4 @@
-Heliodiscoaster Sin Hok Tan GENUS
-=======
+# Heliodiscoaster Sin Hok Tan GENUS
 
 #### Status
 ACCEPTED

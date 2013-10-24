@@ -1,5 +1,4 @@
-Leptosphaerulina alpina Crivelli SPECIES
-=======
+# Leptosphaerulina alpina Crivelli SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Herpotrichia millettiae Sivan. SPECIES
-=======
+# Herpotrichia millettiae Sivan. SPECIES
 
 #### Status
 ACCEPTED

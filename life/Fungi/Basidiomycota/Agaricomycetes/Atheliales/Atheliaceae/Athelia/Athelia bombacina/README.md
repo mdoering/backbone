@@ -1,17 +1,16 @@
-Sporotrichum bombacinum Link, 1816 SPECIES
-=======
+# Athelia bombacina (Link) Pers., 1822 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Magazin Ges. naturf. Freunde, Berlin 8: 36 (1816)
+Mycol. eur. (Erlanga) 1: 85 (1822)
 
 #### Original name
-Sporotrichum bombacinum Link, 1816
+Athelia bombacina (Link) Pers., 1822
 
 ### Remarks
 null

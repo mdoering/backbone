@@ -1,5 +1,4 @@
-Galerina mongaensis A.E. Wood SPECIES
-=======
+# Galerina mongaensis A.E. Wood SPECIES
 
 #### Status
 ACCEPTED

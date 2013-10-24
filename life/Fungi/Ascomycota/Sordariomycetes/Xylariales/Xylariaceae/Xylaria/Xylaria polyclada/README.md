@@ -1,5 +1,4 @@
-Xylaria polyclada (Lév.) Fr. SPECIES
-=======
+# Xylaria polyclada (Lév.) Fr. SPECIES
 
 #### Status
 ACCEPTED

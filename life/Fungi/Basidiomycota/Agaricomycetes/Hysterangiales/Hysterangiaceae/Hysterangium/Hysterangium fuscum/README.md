@@ -1,5 +1,4 @@
-Hysterangium fuscum Harkn. SPECIES
-=======
+# Hysterangium fuscum Harkn. SPECIES
 
 #### Status
 ACCEPTED

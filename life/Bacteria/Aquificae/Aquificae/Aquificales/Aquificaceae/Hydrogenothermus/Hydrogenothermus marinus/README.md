@@ -1,5 +1,4 @@
-Hydrogenothermus marinus Stöhr et al., 2001 SPECIES
-=======
+# Hydrogenothermus marinus Stöhr et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

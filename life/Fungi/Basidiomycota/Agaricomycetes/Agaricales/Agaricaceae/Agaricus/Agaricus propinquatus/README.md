@@ -1,5 +1,4 @@
-Agaricus propinquatus Britzelm. SPECIES
-=======
+# Agaricus propinquatus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

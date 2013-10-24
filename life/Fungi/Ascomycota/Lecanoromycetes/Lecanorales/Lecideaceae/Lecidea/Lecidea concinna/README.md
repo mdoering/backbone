@@ -1,5 +1,4 @@
-Lecidea concinna (Th. Fr.) Stizenb. SPECIES
-=======
+# Lecidea concinna (Th. Fr.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

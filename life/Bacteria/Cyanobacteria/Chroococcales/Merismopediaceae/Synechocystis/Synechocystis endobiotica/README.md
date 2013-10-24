@@ -1,8 +1,7 @@
-Aphanocapsa endophytica G.M. Smith SPECIES
-=======
+# Synechocystis endobiotica (Elenkin & Hollerbach) Elenkin SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

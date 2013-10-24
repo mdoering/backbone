@@ -1,5 +1,4 @@
-Tephromela koliensis (Räsänen) Rambold & Triebel SPECIES
-=======
+# Tephromela koliensis (Räsänen) Rambold & Triebel SPECIES
 
 #### Status
 ACCEPTED

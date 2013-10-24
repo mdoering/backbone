@@ -1,5 +1,4 @@
-Sphaerella zeina Pass. SPECIES
-=======
+# Sphaerella zeina Pass. SPECIES
 
 #### Status
 ACCEPTED

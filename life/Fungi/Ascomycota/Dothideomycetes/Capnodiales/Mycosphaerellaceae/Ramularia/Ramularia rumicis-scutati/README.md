@@ -1,5 +1,4 @@
-Ramularia rumicis-scutati Allesch. SPECIES
-=======
+# Ramularia rumicis-scutati Allesch. SPECIES
 
 #### Status
 ACCEPTED

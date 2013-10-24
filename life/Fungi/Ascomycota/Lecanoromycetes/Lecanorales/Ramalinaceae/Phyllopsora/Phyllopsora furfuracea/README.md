@@ -1,17 +1,16 @@
-Lecidea furfuracea var. biatorina Vain. VARIETY
-=======
+# Phyllopsora furfuracea (Pers.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Acad. Sci. fenn. , Ser. A 6(7): 127 (1915)
+in Engler & Prantl, Nat. Pflanzenfam. (Leipzig), Teil. <b>I</b> 1*: 138 (1905)
 
 #### Original name
-Lecidea furfuracea var. biatorina Vain.
+Phyllopsora furfuracea (Pers.) Zahlbr.
 
 ### Remarks
 null

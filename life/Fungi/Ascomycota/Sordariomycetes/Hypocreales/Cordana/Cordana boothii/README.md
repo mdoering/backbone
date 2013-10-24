@@ -1,5 +1,4 @@
-Cordana boothii M.B. Ellis, 1976 SPECIES
-=======
+# Cordana boothii M.B. Ellis, 1976 SPECIES
 
 #### Status
 ACCEPTED

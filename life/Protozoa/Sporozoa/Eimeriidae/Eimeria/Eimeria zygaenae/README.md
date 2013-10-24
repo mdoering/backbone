@@ -1,5 +1,4 @@
-Eimeria zygaenae Mandal & Chakravarty, 1965 SPECIES
-=======
+# Eimeria zygaenae Mandal & Chakravarty, 1965 SPECIES
 
 #### Status
 ACCEPTED

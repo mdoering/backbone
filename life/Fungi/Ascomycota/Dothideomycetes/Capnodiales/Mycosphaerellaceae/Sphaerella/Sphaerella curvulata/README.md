@@ -1,5 +1,4 @@
-Sphaerella curvulata Pass. SPECIES
-=======
+# Sphaerella curvulata Pass. SPECIES
 
 #### Status
 ACCEPTED

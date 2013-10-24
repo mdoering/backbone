@@ -1,5 +1,4 @@
-Phyllachora leptotaeniae Ellis & Everh. ex Cash, 1953 SPECIES
-=======
+# Phyllachora leptotaeniae Ellis & Everh. ex Cash, 1953 SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,17 +1,16 @@
-Tympanis nemopanthis Peck SPECIES
-=======
+# Durandiella nemopanthi (Peck) J.W. Groves, 1937 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 29: 75 (1937)
 
 #### Original name
-Tympanis nemopanthis Peck
+Tympanis nemopanthi Peck, 1884
 
 ### Remarks
 null

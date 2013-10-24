@@ -1,5 +1,4 @@
-Gyalecta tropica Bél. SPECIES
-=======
+# Gyalecta tropica Bél. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Myrioconium maritimum Bubák & Syd. SPECIES
-=======
+# Myrioconium maritimum Bubák & Syd. SPECIES
 
 #### Status
 ACCEPTED

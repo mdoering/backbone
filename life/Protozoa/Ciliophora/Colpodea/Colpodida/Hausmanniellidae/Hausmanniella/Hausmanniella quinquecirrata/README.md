@@ -1,8 +1,7 @@
-Colpoda quinquecirrata Gellert, 1955 SPECIES
-=======
+# Hausmanniella quinquecirrata Gellert, 1955 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

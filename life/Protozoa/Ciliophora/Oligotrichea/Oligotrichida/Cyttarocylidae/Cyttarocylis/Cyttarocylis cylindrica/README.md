@@ -1,5 +1,4 @@
-Cyttarocylis cylindrica SPECIES
-=======
+# Cyttarocylis cylindrica SPECIES
 
 #### Status
 ACCEPTED

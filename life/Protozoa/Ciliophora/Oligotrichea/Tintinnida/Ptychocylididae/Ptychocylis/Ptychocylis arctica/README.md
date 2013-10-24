@@ -1,5 +1,4 @@
-Ptychocylis arctica Brandt, 1896 SPECIES
-=======
+# Ptychocylis arctica Brandt, 1896 SPECIES
 
 #### Status
 ACCEPTED

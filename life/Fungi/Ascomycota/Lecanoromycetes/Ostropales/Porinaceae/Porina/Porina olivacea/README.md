@@ -1,5 +1,4 @@
-Porina olivacea SPECIES
-=======
+# Porina olivacea SPECIES
 
 #### Status
 ACCEPTED

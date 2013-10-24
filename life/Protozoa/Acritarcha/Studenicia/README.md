@@ -1,5 +1,4 @@
-Studenicia E.A. Assejeva in Yu.V. Teslenko, 1982 GENUS
-=======
+# Studenicia E.A. Assejeva in Yu.V. Teslenko, 1982 GENUS
 
 #### Status
 ACCEPTED

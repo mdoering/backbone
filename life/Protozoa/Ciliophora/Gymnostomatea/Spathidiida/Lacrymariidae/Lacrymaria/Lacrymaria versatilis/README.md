@@ -1,5 +1,4 @@
-Lacrymaria versatilis Quennerstedt, 1867 SPECIES
-=======
+# Lacrymaria versatilis Quennerstedt, 1867 SPECIES
 
 #### Status
 ACCEPTED

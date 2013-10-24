@@ -1,5 +1,4 @@
-Clasterosporium sparsum (Fresen.) Sacc. SPECIES
-=======
+# Clasterosporium sparsum (Fresen.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

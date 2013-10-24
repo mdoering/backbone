@@ -1,5 +1,4 @@
-Ceratopycnis clematidis Höhn., 1915 SPECIES
-=======
+# Ceratopycnis clematidis Höhn., 1915 SPECIES
 
 #### Status
 ACCEPTED

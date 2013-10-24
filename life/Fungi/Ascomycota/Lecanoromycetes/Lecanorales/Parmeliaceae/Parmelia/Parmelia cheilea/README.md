@@ -1,5 +1,4 @@
-Parmelia cheilea var. cheilea VARIETY
-=======
+# Parmelia cheilea SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia cheilea var. cheilea
+null
 
 ### Remarks
 null

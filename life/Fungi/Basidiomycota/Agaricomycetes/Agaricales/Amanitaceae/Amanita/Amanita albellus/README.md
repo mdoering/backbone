@@ -1,5 +1,4 @@
-Amanita albellus Scop. SPECIES
-=======
+# Amanita albellus Scop. SPECIES
 
 #### Status
 ACCEPTED

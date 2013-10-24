@@ -1,5 +1,4 @@
-Pseudocercospora maesae (Hansf.) X.J. Liu & Y.L. Guo SPECIES
-=======
+# Pseudocercospora maesae (Hansf.) X.J. Liu & Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia leucanthemi-kurilensis Azbukina SPECIES
-=======
+# Puccinia leucanthemi-kurilensis Azbukina SPECIES
 
 #### Status
 ACCEPTED

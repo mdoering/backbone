@@ -1,5 +1,4 @@
-Neurospora africana L.H. Huang & Backus, 1969 SPECIES
-=======
+# Neurospora africana L.H. Huang & Backus, 1969 SPECIES
 
 #### Status
 ACCEPTED

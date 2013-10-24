@@ -1,14 +1,13 @@
-Asterina comata Berk. & Ravenel, 1875 SPECIES
-=======
+# Trichodothis comata (Berk. & Ravenel) Theiss. & Syd., 1914 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 12: (1914)
 
 #### Original name
 Asterina comata Berk. & Ravenel, 1875

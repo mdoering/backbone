@@ -1,5 +1,4 @@
-Rhinotrichella G. Arnaud GENUS
-=======
+# Rhinotrichella G. Arnaud GENUS
 
 #### Status
 ACCEPTED

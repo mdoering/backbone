@@ -1,14 +1,13 @@
-Lachnella arida (W. Phillips) Seaver, 1951 SPECIES
-=======
+# Lachnellula arida (W. Phillips) Dennis, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-North American Cup-fungi (New York), (Inoperculates) 268 (1951)
+Persoonia 2(2): 183 (1962)
 
 #### Original name
 null

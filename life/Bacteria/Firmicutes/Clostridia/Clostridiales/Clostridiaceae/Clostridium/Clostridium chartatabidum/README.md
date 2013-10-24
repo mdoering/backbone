@@ -1,5 +1,4 @@
-Clostridium chartatabidum Kelly et al., 1996 SPECIES
-=======
+# Clostridium chartatabidum Kelly et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xanthomendoza galericulata L. Lindblom SPECIES
-=======
+# Xanthomendoza galericulata L. Lindblom SPECIES
 
 #### Status
 ACCEPTED

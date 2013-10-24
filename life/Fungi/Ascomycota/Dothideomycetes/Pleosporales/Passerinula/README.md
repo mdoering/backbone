@@ -1,5 +1,4 @@
-Passerinula Sacc. GENUS
-=======
+# Passerinula Sacc. GENUS
 
 #### Status
 ACCEPTED

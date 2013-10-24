@@ -1,5 +1,4 @@
-Inocybe alienella (Britzelm.) Sacc. SPECIES
-=======
+# Inocybe alienella (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

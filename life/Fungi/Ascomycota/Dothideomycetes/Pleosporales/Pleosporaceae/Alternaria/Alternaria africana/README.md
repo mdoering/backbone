@@ -1,5 +1,4 @@
-Alternaria africana E.G. Simmons SPECIES
-=======
+# Alternaria africana E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

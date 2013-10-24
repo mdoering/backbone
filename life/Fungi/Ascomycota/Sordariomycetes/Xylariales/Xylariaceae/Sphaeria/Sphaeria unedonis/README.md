@@ -1,5 +1,4 @@
-Sphaeria unedonis De Not. SPECIES
-=======
+# Sphaeria unedonis De Not. SPECIES
 
 #### Status
 ACCEPTED

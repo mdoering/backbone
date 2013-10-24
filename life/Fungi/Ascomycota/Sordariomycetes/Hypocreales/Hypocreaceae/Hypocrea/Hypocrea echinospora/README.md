@@ -1,5 +1,4 @@
-Hypocrea echinospora Saccas SPECIES
-=======
+# Hypocrea echinospora Saccas SPECIES
 
 #### Status
 ACCEPTED

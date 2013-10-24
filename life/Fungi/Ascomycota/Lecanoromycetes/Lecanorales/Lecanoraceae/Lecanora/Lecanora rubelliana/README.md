@@ -1,5 +1,4 @@
-Lecanora rubelliana Ach. SPECIES
-=======
+# Lecanora rubelliana Ach. SPECIES
 
 #### Status
 ACCEPTED

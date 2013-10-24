@@ -1,5 +1,4 @@
-Phelodinium Stover & Evitt GENUS
-=======
+# Phelodinium Stover & Evitt GENUS
 
 #### Status
 ACCEPTED

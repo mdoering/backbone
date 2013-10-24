@@ -1,5 +1,4 @@
-Microthyrium nebulosum (Speg.) G. Arnaud SPECIES
-=======
+# Microthyrium nebulosum (Speg.) G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

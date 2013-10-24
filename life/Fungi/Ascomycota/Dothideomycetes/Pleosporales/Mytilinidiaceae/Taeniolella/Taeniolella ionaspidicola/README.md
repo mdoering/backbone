@@ -1,5 +1,4 @@
-Taeniolella ionaspidicola Alstrup & E.S. Hansen SPECIES
-=======
+# Taeniolella ionaspidicola Alstrup & E.S. Hansen SPECIES
 
 #### Status
 ACCEPTED

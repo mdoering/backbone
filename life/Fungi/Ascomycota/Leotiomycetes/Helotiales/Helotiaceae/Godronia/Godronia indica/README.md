@@ -1,5 +1,4 @@
-Godronia indica (Tilak & S.B. Kale) M.P. Sharma & Rawla SPECIES
-=======
+# Godronia indica (Tilak & S.B. Kale) M.P. Sharma & Rawla SPECIES
 
 #### Status
 ACCEPTED

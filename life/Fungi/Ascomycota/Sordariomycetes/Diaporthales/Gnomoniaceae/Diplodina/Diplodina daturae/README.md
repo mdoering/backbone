@@ -1,5 +1,4 @@
-Diplodina daturae Bubák & Kabát SPECIES
-=======
+# Diplodina daturae Bubák & Kabát SPECIES
 
 #### Status
 ACCEPTED

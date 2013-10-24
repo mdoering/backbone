@@ -1,5 +1,4 @@
-Sphaeria reptans Sowerby SPECIES
-=======
+# Sphaeria reptans Sowerby SPECIES
 
 #### Status
 ACCEPTED

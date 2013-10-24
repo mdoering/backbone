@@ -1,5 +1,4 @@
-Pestalopezia tsugae A. Funk, 1978 SPECIES
-=======
+# Pestalopezia tsugae A. Funk, 1978 SPECIES
 
 #### Status
 ACCEPTED

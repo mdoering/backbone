@@ -1,5 +1,4 @@
-Placosphaeria genistae Brunaud SPECIES
-=======
+# Placosphaeria genistae Brunaud SPECIES
 
 #### Status
 ACCEPTED

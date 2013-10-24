@@ -1,17 +1,16 @@
-Cytospora zeelkovae Syd. & P. Syd. SPECIES
-=======
+# Cytospora zelkovae Syd. & P. Syd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hedwigia 39: (3) (1900)
 
 #### Original name
-Cytospora zeelkovae Syd. & P. Syd.
+Cytospora zelkovae Syd. & P. Syd.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pyrenula tenella Müll. Arg. SPECIES
-=======
+# Pyrenula tenella Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

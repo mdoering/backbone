@@ -1,5 +1,4 @@
-Lactarius abbotanus K. Das & J.R. Sharma SPECIES
-=======
+# Lactarius abbotanus K. Das & J.R. Sharma SPECIES
 
 #### Status
 ACCEPTED

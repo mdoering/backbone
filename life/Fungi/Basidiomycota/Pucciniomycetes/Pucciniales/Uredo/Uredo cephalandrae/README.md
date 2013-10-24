@@ -1,5 +1,4 @@
-Uredo cephalandrae Thüm. SPECIES
-=======
+# Uredo cephalandrae Thüm. SPECIES
 
 #### Status
 ACCEPTED

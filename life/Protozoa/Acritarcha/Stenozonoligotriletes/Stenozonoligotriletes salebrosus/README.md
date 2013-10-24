@@ -1,5 +1,4 @@
-Stenozonoligotriletes salebrosus Timofeev, 1959 SPECIES
-=======
+# Stenozonoligotriletes salebrosus Timofeev, 1959 SPECIES
 
 #### Status
 ACCEPTED

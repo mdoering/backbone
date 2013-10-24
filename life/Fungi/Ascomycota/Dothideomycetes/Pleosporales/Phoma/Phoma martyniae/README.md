@@ -1,5 +1,4 @@
-Phoma martyniae Tassi SPECIES
-=======
+# Phoma martyniae Tassi SPECIES
 
 #### Status
 ACCEPTED

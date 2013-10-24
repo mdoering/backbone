@@ -1,5 +1,4 @@
-Phyllosticta gentianellae C. Massal. SPECIES
-=======
+# Phyllosticta gentianellae C. Massal. SPECIES
 
 #### Status
 ACCEPTED

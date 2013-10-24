@@ -1,17 +1,16 @@
-Berteromyces Cif. GENUS
-=======
+# Passalora E.M. Fries, 1849 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Sydowia 8: 267 (1954)
+null
 
 #### Original name
-Berteromyces Cif.
+null
 
 ### Remarks
 null

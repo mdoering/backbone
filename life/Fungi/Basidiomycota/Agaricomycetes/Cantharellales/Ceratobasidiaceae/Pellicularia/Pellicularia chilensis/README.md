@@ -1,5 +1,4 @@
-Pellicularia chilensis Speg. SPECIES
-=======
+# Pellicularia chilensis Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micropsalliota bogoriensis Heinem. SPECIES
-=======
+# Micropsalliota bogoriensis Heinem. SPECIES
 
 #### Status
 ACCEPTED

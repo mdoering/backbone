@@ -1,5 +1,4 @@
-Cantharellus stolonifer Berk. & Broome SPECIES
-=======
+# Cantharellus stolonifer Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

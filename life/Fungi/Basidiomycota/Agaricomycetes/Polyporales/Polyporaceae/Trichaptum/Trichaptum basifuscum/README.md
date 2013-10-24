@@ -1,5 +1,4 @@
-Trichaptum basifuscum Corner, 1987 SPECIES
-=======
+# Trichaptum basifuscum Corner, 1987 SPECIES
 
 #### Status
 ACCEPTED

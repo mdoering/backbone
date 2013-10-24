@@ -1,5 +1,4 @@
-Fusarium globosum Rheeder, Marasas & P.E. Nelson, 1996 SPECIES
-=======
+# Fusarium globosum Rheeder, Marasas & P.E. Nelson, 1996 SPECIES
 
 #### Status
 ACCEPTED

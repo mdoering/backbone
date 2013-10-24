@@ -1,5 +1,4 @@
-Collybia acicularis Velen. SPECIES
-=======
+# Collybia acicularis Velen. SPECIES
 
 #### Status
 ACCEPTED

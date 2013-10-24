@@ -1,5 +1,4 @@
-Dicaeoma trollii (P. Karst.) Kuntze SPECIES
-=======
+# Dicaeoma trollii (P. Karst.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

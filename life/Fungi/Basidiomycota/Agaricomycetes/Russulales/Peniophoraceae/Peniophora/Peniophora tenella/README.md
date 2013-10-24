@@ -1,5 +1,4 @@
-Peniophora tenella Burt SPECIES
-=======
+# Peniophora tenella Burt SPECIES
 
 #### Status
 ACCEPTED

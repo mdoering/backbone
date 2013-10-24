@@ -1,5 +1,4 @@
-Opegrapha connivens Fée SPECIES
-=======
+# Opegrapha connivens Fée SPECIES
 
 #### Status
 ACCEPTED

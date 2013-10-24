@@ -1,5 +1,4 @@
-Beltraminia GENUS
-=======
+# Beltraminia GENUS
 
 #### Status
 ACCEPTED

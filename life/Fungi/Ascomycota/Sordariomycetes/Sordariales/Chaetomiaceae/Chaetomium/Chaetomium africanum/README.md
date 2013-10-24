@@ -1,5 +1,4 @@
-Chaetomium africanum L.M. Ames SPECIES
-=======
+# Chaetomium africanum L.M. Ames SPECIES
 
 #### Status
 ACCEPTED

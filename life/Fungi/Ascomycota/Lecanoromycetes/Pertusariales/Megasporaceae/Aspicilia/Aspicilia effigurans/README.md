@@ -1,5 +1,4 @@
-Aspicilia effigurans (Zahlbr.) SPECIES
-=======
+# Aspicilia effigurans (Zahlbr.) SPECIES
 
 #### Status
 ACCEPTED

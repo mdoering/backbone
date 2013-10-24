@@ -1,5 +1,4 @@
-Mesastasia Palienko & Monchenko, 1979 GENUS
-=======
+# Mesastasia Palienko & Monchenko, 1979 GENUS
 
 #### Status
 ACCEPTED

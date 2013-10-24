@@ -1,5 +1,4 @@
-Patinella betulina Velen. SPECIES
-=======
+# Patinella betulina Velen. SPECIES
 
 #### Status
 ACCEPTED

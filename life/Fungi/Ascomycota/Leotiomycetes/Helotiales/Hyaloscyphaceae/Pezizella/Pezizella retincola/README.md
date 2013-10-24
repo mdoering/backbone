@@ -1,5 +1,4 @@
-Pezizella retincola Velen. SPECIES
-=======
+# Pezizella retincola Velen. SPECIES
 
 #### Status
 ACCEPTED

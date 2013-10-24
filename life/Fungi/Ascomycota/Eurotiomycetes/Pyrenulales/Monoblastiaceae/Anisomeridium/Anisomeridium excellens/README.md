@@ -1,5 +1,4 @@
-Anisomeridium excellens (Müll. Arg.) R.C. Harris SPECIES
-=======
+# Anisomeridium excellens (Müll. Arg.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

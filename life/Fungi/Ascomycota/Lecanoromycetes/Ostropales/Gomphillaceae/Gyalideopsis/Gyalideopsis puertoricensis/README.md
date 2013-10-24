@@ -1,5 +1,4 @@
-Gyalideopsis puertoricensis Sipman & Lücking SPECIES
-=======
+# Gyalideopsis puertoricensis Sipman & Lücking SPECIES
 
 #### Status
 ACCEPTED

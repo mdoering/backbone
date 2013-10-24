@@ -1,5 +1,4 @@
-Reophax gibberus Zheng & Fu, 2001 SPECIES
-=======
+# Reophax gibberus Zheng & Fu, 2001 SPECIES
 
 #### Status
 ACCEPTED

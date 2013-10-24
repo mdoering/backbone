@@ -1,5 +1,4 @@
-Mycosphaerella lathyri Potebnia SPECIES
-=======
+# Mycosphaerella lathyri Potebnia SPECIES
 
 #### Status
 ACCEPTED

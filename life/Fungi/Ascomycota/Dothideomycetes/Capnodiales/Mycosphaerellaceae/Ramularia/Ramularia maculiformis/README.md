@@ -1,5 +1,4 @@
-Ramularia maculiformis Unger, 1833 SPECIES
-=======
+# Ramularia maculiformis Unger, 1833 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora entebbeensis Deighton SPECIES
-=======
+# Cercospora entebbeensis Deighton SPECIES
 
 #### Status
 ACCEPTED

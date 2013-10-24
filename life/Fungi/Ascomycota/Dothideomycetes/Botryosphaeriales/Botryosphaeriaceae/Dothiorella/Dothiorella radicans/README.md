@@ -1,5 +1,4 @@
-Dothiorella radicans Ellis & Everh. SPECIES
-=======
+# Dothiorella radicans Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

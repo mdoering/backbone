@@ -1,5 +1,4 @@
-Uredo kabanyoloensis Gjaerum SPECIES
-=======
+# Uredo kabanyoloensis Gjaerum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Massarina thalassioidea K.D. Hyde & Aptroot, 1998 SPECIES
-=======
+# Massarina thalassioidea K.D. Hyde & Aptroot, 1998 SPECIES
 
 #### Status
 ACCEPTED

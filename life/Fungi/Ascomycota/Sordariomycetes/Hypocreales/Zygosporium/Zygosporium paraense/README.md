@@ -1,5 +1,4 @@
-Zygosporium paraense Vincens SPECIES
-=======
+# Zygosporium paraense Vincens SPECIES
 
 #### Status
 ACCEPTED

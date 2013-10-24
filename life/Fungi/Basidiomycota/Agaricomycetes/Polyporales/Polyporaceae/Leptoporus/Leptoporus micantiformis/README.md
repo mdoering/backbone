@@ -1,5 +1,4 @@
-Leptoporus micantiformis Pilát SPECIES
-=======
+# Leptoporus micantiformis Pilát SPECIES
 
 #### Status
 ACCEPTED

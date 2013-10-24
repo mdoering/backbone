@@ -1,5 +1,4 @@
-Tubaria coniophora Berk. SPECIES
-=======
+# Tubaria coniophora Berk. SPECIES
 
 #### Status
 ACCEPTED

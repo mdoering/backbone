@@ -1,5 +1,4 @@
-Polyporus gratzianus Murrill SPECIES
-=======
+# Polyporus gratzianus Murrill SPECIES
 
 #### Status
 ACCEPTED

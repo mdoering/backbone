@@ -1,5 +1,4 @@
-Syracosphaera bannockii (Borsetti & Cati) Cros et al., 2000 SPECIES
-=======
+# Syracosphaera bannockii (Borsetti & Cati) Cros et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

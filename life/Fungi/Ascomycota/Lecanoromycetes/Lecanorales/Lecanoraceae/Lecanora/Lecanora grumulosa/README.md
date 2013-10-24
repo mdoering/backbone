@@ -1,5 +1,4 @@
-Lecanora grumulosa Schaer. SPECIES
-=======
+# Lecanora grumulosa Schaer. SPECIES
 
 #### Status
 ACCEPTED

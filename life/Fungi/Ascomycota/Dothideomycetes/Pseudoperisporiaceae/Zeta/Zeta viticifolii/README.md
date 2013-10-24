@@ -1,5 +1,4 @@
-Zeta viticifolii Bat. & R. Garnier, 1961 SPECIES
-=======
+# Zeta viticifolii Bat. & R. Garnier, 1961 SPECIES
 
 #### Status
 ACCEPTED

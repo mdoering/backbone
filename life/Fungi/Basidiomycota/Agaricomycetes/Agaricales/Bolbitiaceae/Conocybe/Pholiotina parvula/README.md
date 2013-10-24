@@ -1,5 +1,4 @@
-Pholiotina parvula (Døssing & Watling) Bon SPECIES
-=======
+# Pholiotina parvula (Døssing & Watling) Bon SPECIES
 
 #### Status
 ACCEPTED

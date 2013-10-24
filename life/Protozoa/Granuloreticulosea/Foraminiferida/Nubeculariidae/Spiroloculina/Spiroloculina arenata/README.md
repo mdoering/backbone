@@ -1,5 +1,4 @@
-Spiroloculina arenata SPECIES
-=======
+# Spiroloculina arenata SPECIES
 
 #### Status
 ACCEPTED

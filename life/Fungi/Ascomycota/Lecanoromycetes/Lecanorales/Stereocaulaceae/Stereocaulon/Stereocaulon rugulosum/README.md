@@ -1,5 +1,4 @@
-Stereocaulon rugulosum I.M. Lamb SPECIES
-=======
+# Stereocaulon rugulosum I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

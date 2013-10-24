@@ -1,14 +1,13 @@
-Fusicladium kaki Hori & Yoshino, 1905 SPECIES
-=======
+# Hormocladium kaki (Hori & Yoshino) Höhn., 1923 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Zentbl. Bakt. ParasitKde, Abt. II 60: 6 (1923)
 
 #### Original name
 Fusicladium kaki Hori & Yoshino, 1905

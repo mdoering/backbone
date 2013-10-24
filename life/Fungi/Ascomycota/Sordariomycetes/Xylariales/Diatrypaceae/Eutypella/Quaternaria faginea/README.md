@@ -1,5 +1,4 @@
-Quaternaria faginea Petr. SPECIES
-=======
+# Quaternaria faginea Petr. SPECIES
 
 #### Status
 ACCEPTED

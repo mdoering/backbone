@@ -1,5 +1,4 @@
-Acanthostigma heterochaete Syd. & E.J. Butler SPECIES
-=======
+# Acanthostigma heterochaete Syd. & E.J. Butler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stegia discolor Fr. SPECIES
-=======
+# Stegia discolor Fr. SPECIES
 
 #### Status
 ACCEPTED

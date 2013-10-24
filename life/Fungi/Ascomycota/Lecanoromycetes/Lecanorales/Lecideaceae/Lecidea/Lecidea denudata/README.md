@@ -1,5 +1,4 @@
-Lecidea denudata A. Massal. SPECIES
-=======
+# Lecidea denudata A. Massal. SPECIES
 
 #### Status
 ACCEPTED

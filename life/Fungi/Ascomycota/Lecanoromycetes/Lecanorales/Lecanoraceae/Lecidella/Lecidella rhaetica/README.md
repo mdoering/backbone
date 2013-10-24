@@ -1,5 +1,4 @@
-Lecidella rhaetica (Th. Fr.) Körb. SPECIES
-=======
+# Lecidella rhaetica (Th. Fr.) Körb. SPECIES
 
 #### Status
 ACCEPTED

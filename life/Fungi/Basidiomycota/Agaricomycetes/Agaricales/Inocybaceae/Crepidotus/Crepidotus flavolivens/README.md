@@ -1,5 +1,4 @@
-Crepidotus flavolivens Berk. & M.A. Curtis SPECIES
-=======
+# Crepidotus flavolivens Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

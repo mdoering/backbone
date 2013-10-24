@@ -1,17 +1,16 @@
-Lysurus mokusin var. mokusin VARIETY
-=======
+# Lysurus mokusin (L.) Fr., 1823 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syst. mycol. (Lundae) 2(2): 288 (1823)
 
 #### Original name
-null
+Phallus mokusin L., 1782
 
 ### Remarks
 null

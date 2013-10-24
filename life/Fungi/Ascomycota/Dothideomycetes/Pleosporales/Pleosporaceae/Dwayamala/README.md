@@ -1,5 +1,4 @@
-Dwayamala GENUS
-=======
+# Dwayamala GENUS
 
 #### Status
 ACCEPTED

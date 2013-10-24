@@ -1,5 +1,4 @@
-Cordyceps rhizomorpha Möller SPECIES
-=======
+# Cordyceps rhizomorpha Möller SPECIES
 
 #### Status
 ACCEPTED

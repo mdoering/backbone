@@ -1,5 +1,4 @@
-Pythium undulatum (Petersen, 1910) SPECIES
-=======
+# Pythium undulatum (Petersen, 1910) SPECIES
 
 #### Status
 ACCEPTED

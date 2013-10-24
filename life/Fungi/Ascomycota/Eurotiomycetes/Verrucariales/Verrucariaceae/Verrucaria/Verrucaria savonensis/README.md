@@ -1,5 +1,4 @@
-Verrucaria savonensis Servít SPECIES
-=======
+# Verrucaria savonensis Servít SPECIES
 
 #### Status
 ACCEPTED

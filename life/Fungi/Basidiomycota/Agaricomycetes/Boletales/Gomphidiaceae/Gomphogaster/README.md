@@ -1,5 +1,4 @@
-Gomphogaster O.K. Miller, 1973 GENUS
-=======
+# Gomphogaster O.K. Miller, 1973 GENUS
 
 #### Status
 ACCEPTED

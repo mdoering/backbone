@@ -1,5 +1,4 @@
-Phyllosticta martyniae Thüm. SPECIES
-=======
+# Phyllosticta martyniae Thüm. SPECIES
 
 #### Status
 ACCEPTED

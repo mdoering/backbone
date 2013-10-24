@@ -1,5 +1,4 @@
-Tintinnidium mucicola (Claparède & Lachmann, 1858) ? SPECIES
-=======
+# Tintinnidium mucicola (Claparède & Lachmann, 1858) ? SPECIES
 
 #### Status
 ACCEPTED

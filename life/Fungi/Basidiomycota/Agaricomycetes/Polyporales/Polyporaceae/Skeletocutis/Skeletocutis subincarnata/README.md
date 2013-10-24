@@ -1,14 +1,13 @@
-Poria subincarnata (Peck) Murrill, 1921 SPECIES
-=======
+# Skeletocutis subincarnata (Peck) Jean Keller, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 13(2): 86 (1921)
+Persoonia 10(3): 535 (1979)
 
 #### Original name
 Poria attenuata var. subincarnata Peck, 1894

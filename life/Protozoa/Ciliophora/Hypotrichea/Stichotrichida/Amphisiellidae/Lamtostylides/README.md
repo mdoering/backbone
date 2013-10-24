@@ -1,5 +1,4 @@
-Lamtostylides GENUS
-=======
+# Lamtostylides GENUS
 
 #### Status
 ACCEPTED

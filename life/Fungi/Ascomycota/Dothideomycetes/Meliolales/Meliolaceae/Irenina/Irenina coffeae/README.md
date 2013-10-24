@@ -1,5 +1,4 @@
-Irenina coffeae Roger SPECIES
-=======
+# Irenina coffeae Roger SPECIES
 
 #### Status
 ACCEPTED

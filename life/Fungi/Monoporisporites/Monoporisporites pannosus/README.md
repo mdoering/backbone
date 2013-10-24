@@ -1,5 +1,4 @@
-Monoporisporites pannosus (M.G. Parsons & G. Norris) Kalgutkar & Janson. SPECIES
-=======
+# Monoporisporites pannosus (M.G. Parsons & G. Norris) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

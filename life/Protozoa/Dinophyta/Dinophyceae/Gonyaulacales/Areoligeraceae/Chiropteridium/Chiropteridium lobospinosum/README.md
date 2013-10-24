@@ -1,5 +1,4 @@
-Chiropteridium lobospinosum (Gocht in Weiler, 1956) Gocht, 1960 SPECIES
-=======
+# Chiropteridium lobospinosum (Gocht in Weiler, 1956) Gocht, 1960 SPECIES
 
 #### Status
 ACCEPTED

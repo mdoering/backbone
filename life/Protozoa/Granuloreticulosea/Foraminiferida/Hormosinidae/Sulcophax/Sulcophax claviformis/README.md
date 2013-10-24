@@ -1,5 +1,4 @@
-Sulcophax claviformis Rhumbler, 1931 SPECIES
-=======
+# Sulcophax claviformis Rhumbler, 1931 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trypethelium papillosum Ach. SPECIES
-=======
+# Trypethelium papillosum Ach. SPECIES
 
 #### Status
 ACCEPTED

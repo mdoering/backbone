@@ -1,5 +1,4 @@
-Manglicola samuelsii Huhndorf, 1994 SPECIES
-=======
+# Manglicola samuelsii Huhndorf, 1994 SPECIES
 
 #### Status
 ACCEPTED

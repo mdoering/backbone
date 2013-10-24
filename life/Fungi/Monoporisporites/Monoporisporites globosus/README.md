@@ -1,5 +1,4 @@
-Monoporisporites globosus R.T. Clarke SPECIES
-=======
+# Monoporisporites globosus R.T. Clarke SPECIES
 
 #### Status
 ACCEPTED

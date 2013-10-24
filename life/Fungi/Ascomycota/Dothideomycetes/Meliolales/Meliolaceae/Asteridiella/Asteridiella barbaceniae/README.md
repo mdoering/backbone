@@ -1,5 +1,4 @@
-Asteridiella barbaceniae (Hansf.) Hansf. SPECIES
-=======
+# Asteridiella barbaceniae (Hansf.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora diospyri-morrisianae Sawada ex Goh & W.H. Hsieh SPECIES
-=======
+# Pseudocercospora diospyri-morrisianae Sawada ex Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hendersonia platani Richon SPECIES
-=======
+# Hendersonia platani Richon SPECIES
 
 #### Status
 ACCEPTED

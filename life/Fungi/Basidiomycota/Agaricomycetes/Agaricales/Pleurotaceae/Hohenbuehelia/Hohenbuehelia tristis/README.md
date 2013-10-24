@@ -1,5 +1,4 @@
-Hohenbuehelia tristis G. Stev. SPECIES
-=======
+# Hohenbuehelia tristis G. Stev. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xanthoparmelia neoreptans Hale SPECIES
-=======
+# Xanthoparmelia neoreptans Hale SPECIES
 
 #### Status
 ACCEPTED

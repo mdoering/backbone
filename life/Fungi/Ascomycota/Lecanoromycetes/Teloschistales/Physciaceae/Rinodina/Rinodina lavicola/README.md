@@ -1,5 +1,4 @@
-Rinodina lavicola J. Steiner SPECIES
-=======
+# Rinodina lavicola J. Steiner SPECIES
 
 #### Status
 ACCEPTED

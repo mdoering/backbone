@@ -1,14 +1,13 @@
-Lecania spodomela (Nyl.) A.L. Sm. SPECIES
-=======
+# Halecania spodomela (Nyl.) M. Mayrhofer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monogr. Brit. Lich. 1: 346 (1918)
+Herzogia 7(3-4): 402 (1987)
 
 #### Original name
 Lecanora spodomela Nyl.

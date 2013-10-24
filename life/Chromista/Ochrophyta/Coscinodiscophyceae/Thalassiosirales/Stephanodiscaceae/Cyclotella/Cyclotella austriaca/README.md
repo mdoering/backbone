@@ -1,5 +1,4 @@
-Cyclotella austriaca (M. Peragallo, Handmann & Schiedler) Hustedt SPECIES
-=======
+# Cyclotella austriaca (M. Peragallo, Handmann & Schiedler) Hustedt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ceratorhiza anacalospora P. Roberts, 1999 SPECIES
-=======
+# Ceratorhiza anacalospora P. Roberts, 1999 SPECIES
 
 #### Status
 ACCEPTED

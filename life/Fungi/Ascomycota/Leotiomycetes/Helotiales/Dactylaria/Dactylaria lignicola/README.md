@@ -1,5 +1,4 @@
-Dactylaria lignicola W.B. Kendr. & R.F. Castañeda SPECIES
-=======
+# Dactylaria lignicola W.B. Kendr. & R.F. Castañeda SPECIES
 
 #### Status
 ACCEPTED

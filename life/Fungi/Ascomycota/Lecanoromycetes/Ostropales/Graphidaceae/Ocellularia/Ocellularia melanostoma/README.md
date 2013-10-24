@@ -1,14 +1,13 @@
-Ascidium melanostomum Kremp. SPECIES
-=======
+# Ocellularia melanostoma (Kremp.) Kalb SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Flora, Jena 59: 248 (1876)
+Lichenes Neotropici (Neumarkt), Fascicle <b>VII</b> (nos 251-300) no. 284 (1983)
 
 #### Original name
 Ascidium melanostomum Kremp.

@@ -1,5 +1,4 @@
-Lamprospora ovalispora (Svrcek & Kubicka) Eckblad SPECIES
-=======
+# Lamprospora ovalispora (Svrcek & Kubicka) Eckblad SPECIES
 
 #### Status
 ACCEPTED

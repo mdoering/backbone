@@ -1,14 +1,13 @@
-Peniophora segregata Bourdot & Galzin, 1928 SPECIES
-=======
+# Phlebia segregata (Bourdot & Galzin) Parmasto, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hyménomyc. de France (Sceaux) 284 (1928)
+Eesti NSV Tead. Akad. Toim. , Biol. seer 16(4): 393 (1967)
 
 #### Original name
 Peniophora segregata Bourdot & Galzin, 1928

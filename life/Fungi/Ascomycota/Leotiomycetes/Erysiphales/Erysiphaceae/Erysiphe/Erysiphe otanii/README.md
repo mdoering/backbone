@@ -1,5 +1,4 @@
-Erysiphe otanii Y. Nomura SPECIES
-=======
+# Erysiphe otanii Y. Nomura SPECIES
 
 #### Status
 ACCEPTED

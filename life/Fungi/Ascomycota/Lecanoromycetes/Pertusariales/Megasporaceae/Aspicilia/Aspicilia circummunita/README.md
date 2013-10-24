@@ -1,5 +1,4 @@
-Aspicilia circummunita (Nyl.) Flagey SPECIES
-=======
+# Aspicilia circummunita (Nyl.) Flagey SPECIES
 
 #### Status
 ACCEPTED

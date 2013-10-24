@@ -1,5 +1,4 @@
-Cucurbitula syringae (J. Kickx f.) F. Lamb. SPECIES
-=======
+# Cucurbitula syringae (J. Kickx f.) F. Lamb. SPECIES
 
 #### Status
 ACCEPTED

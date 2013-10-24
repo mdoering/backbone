@@ -1,5 +1,4 @@
-Excipula laevigata Fr. SPECIES
-=======
+# Excipula laevigata Fr. SPECIES
 
 #### Status
 ACCEPTED

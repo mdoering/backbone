@@ -1,5 +1,4 @@
-Neonectria vandae (Wahrlich) Wollenw. SPECIES
-=======
+# Neonectria vandae (Wahrlich) Wollenw. SPECIES
 
 #### Status
 ACCEPTED

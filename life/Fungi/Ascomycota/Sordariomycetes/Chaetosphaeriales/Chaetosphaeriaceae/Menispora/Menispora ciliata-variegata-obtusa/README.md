@@ -1,5 +1,4 @@
-Menispora ciliata-variegata-obtusa Preuss SPECIES
-=======
+# Menispora ciliata-variegata-obtusa Preuss SPECIES
 
 #### Status
 ACCEPTED

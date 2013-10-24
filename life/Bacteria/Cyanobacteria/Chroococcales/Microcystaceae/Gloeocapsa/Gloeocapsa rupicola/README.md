@@ -1,5 +1,4 @@
-Gloeocapsa rupicola Kützing SPECIES
-=======
+# Gloeocapsa rupicola Kützing SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Glyphis actinobola Nyl. SPECIES
-=======
+# Glyphis actinobola Nyl. SPECIES
 
 #### Status
 ACCEPTED

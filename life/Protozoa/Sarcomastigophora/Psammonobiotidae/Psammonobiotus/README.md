@@ -1,5 +1,4 @@
-Psammonobiotus Golemansky, 1967 GENUS
-=======
+# Psammonobiotus Golemansky, 1967 GENUS
 
 #### Status
 ACCEPTED

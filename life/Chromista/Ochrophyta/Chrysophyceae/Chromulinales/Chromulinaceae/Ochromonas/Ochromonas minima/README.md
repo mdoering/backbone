@@ -1,5 +1,4 @@
-Ochromonas minima Throndsen SPECIES
-=======
+# Ochromonas minima Throndsen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus watsonii Peck SPECIES
-=======
+# Agaricus watsonii Peck SPECIES
 
 #### Status
 ACCEPTED

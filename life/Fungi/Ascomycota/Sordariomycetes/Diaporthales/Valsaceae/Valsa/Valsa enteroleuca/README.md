@@ -1,5 +1,4 @@
-Valsa enteroleuca (Fr.) Curr. SPECIES
-=======
+# Valsa enteroleuca (Fr.) Curr. SPECIES
 
 #### Status
 ACCEPTED

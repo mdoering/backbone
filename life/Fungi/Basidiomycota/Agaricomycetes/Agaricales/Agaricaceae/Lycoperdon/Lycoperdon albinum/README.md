@@ -1,14 +1,13 @@
-Morganella albina (Cooke) P. Ponce de León, 1969 SPECIES
-=======
+# Lycoperdon albinum Cooke, 1887 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Massee, J. Roy. Microscop. Soc. 23 (1887)
 
 #### Original name
 Lycoperdon albinum Cooke, 1887

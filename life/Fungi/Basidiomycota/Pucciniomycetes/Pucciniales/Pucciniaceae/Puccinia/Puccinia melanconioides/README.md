@@ -1,5 +1,4 @@
-Puccinia melanconioides Ellis & Harkn. SPECIES
-=======
+# Puccinia melanconioides Ellis & Harkn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Periconia jabalpurensis D.P. Tiwari & P.D. Agrawal SPECIES
-=======
+# Periconia jabalpurensis D.P. Tiwari & P.D. Agrawal SPECIES
 
 #### Status
 ACCEPTED

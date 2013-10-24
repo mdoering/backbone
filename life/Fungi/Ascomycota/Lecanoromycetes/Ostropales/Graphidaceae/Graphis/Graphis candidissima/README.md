@@ -1,5 +1,4 @@
-Graphis candidissima Zahlbr. SPECIES
-=======
+# Graphis candidissima Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Characiopsis tuba var. minor L.F. Agujaro VARIETY
-=======
+# Characiopsis tuba Lemmermann SPECIES
 
 #### Status
 ACCEPTED

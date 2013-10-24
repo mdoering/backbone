@@ -1,5 +1,4 @@
-Microsphaeropsis globulosa (Sousa da Câmara) B. Sutton SPECIES
-=======
+# Microsphaeropsis globulosa (Sousa da Câmara) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymosphaeria idaei Feltgen SPECIES
-=======
+# Didymosphaeria idaei Feltgen SPECIES
 
 #### Status
 ACCEPTED

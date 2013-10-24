@@ -1,5 +1,4 @@
-Diplotomma athroum (Ach.) Stein SPECIES
-=======
+# Diplotomma athroum (Ach.) Stein SPECIES
 
 #### Status
 ACCEPTED

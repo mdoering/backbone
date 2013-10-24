@@ -1,5 +1,4 @@
-Leciographa nephromatis Stein SPECIES
-=======
+# Leciographa nephromatis Stein SPECIES
 
 #### Status
 ACCEPTED

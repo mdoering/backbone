@@ -1,5 +1,4 @@
-Rosellinia chordicola Sacc. SPECIES
-=======
+# Rosellinia chordicola Sacc. SPECIES
 
 #### Status
 ACCEPTED

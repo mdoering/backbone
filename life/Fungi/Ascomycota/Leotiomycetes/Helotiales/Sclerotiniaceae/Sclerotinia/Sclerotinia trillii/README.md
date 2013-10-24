@@ -1,5 +1,4 @@
-Sclerotinia trillii Y. Harada & Narumi SPECIES
-=======
+# Sclerotinia trillii Y. Harada & Narumi SPECIES
 
 #### Status
 ACCEPTED

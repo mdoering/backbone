@@ -1,5 +1,4 @@
-Cercospora zinniae Ellis & G. Martin, 1885 SPECIES
-=======
+# Cercospora zinniae Ellis & G. Martin, 1885 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dimeromyces galumnae Thaxt. SPECIES
-=======
+# Dimeromyces galumnae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

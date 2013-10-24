@@ -1,5 +1,4 @@
-Hysterangium spegazzinii Castellano & J.J. Muchovej SPECIES
-=======
+# Hysterangium spegazzinii Castellano & J.J. Muchovej SPECIES
 
 #### Status
 ACCEPTED

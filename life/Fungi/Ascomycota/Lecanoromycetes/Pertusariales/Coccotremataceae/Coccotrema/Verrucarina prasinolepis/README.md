@@ -1,5 +1,4 @@
-Verrucarina prasinolepis SPECIES
-=======
+# Verrucarina prasinolepis SPECIES
 
 #### Status
 ACCEPTED

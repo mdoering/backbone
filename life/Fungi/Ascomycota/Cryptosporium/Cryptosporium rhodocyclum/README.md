@@ -1,5 +1,4 @@
-Cryptosporium rhodocyclum Mont. SPECIES
-=======
+# Cryptosporium rhodocyclum Mont. SPECIES
 
 #### Status
 ACCEPTED

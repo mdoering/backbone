@@ -1,5 +1,4 @@
-Coniophora alboviolacea Rick SPECIES
-=======
+# Coniophora alboviolacea Rick SPECIES
 
 #### Status
 ACCEPTED

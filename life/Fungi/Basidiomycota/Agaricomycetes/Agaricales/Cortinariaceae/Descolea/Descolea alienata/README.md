@@ -1,5 +1,4 @@
-Descolea alienata E. Horak & Desjardin SPECIES
-=======
+# Descolea alienata E. Horak & Desjardin SPECIES
 
 #### Status
 ACCEPTED

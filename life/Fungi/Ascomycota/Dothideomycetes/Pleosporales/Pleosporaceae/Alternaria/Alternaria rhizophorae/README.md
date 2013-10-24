@@ -1,5 +1,4 @@
-Alternaria rhizophorae E.G. Simmons SPECIES
-=======
+# Alternaria rhizophorae E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

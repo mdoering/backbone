@@ -1,5 +1,4 @@
-Thelebolus hirsutus DC. SPECIES
-=======
+# Thelebolus hirsutus DC. SPECIES
 
 #### Status
 ACCEPTED

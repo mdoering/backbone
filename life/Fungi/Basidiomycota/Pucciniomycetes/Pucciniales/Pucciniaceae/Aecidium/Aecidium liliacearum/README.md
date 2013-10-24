@@ -1,5 +1,4 @@
-Aecidium liliacearum Unger SPECIES
-=======
+# Aecidium liliacearum Unger SPECIES
 
 #### Status
 ACCEPTED

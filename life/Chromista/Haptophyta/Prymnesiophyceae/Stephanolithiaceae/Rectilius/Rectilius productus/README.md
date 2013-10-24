@@ -1,5 +1,4 @@
-Rectilius productus Goy in Goy et al., 1979 SPECIES
-=======
+# Rectilius productus Goy in Goy et al., 1979 SPECIES
 
 #### Status
 ACCEPTED

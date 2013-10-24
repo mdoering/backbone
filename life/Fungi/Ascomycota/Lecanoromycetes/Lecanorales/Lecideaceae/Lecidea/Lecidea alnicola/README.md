@@ -1,5 +1,4 @@
-Lecidea alnicola (Anzi) Jatta SPECIES
-=======
+# Lecidea alnicola (Anzi) Jatta SPECIES
 
 #### Status
 ACCEPTED

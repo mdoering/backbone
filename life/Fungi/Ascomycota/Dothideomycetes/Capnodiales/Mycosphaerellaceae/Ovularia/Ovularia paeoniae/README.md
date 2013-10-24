@@ -1,5 +1,4 @@
-Ovularia paeoniae Domashova SPECIES
-=======
+# Ovularia paeoniae Domashova SPECIES
 
 #### Status
 ACCEPTED

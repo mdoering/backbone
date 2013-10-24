@@ -1,5 +1,4 @@
-Trichosporon perieri (Matr. & Antoine) M. Ota SPECIES
-=======
+# Trichosporon perieri (Matr. & Antoine) M. Ota SPECIES
 
 #### Status
 ACCEPTED

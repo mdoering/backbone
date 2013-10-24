@@ -1,5 +1,4 @@
-Hypochnus gardeniae Zimm. SPECIES
-=======
+# Hypochnus gardeniae Zimm. SPECIES
 
 #### Status
 ACCEPTED

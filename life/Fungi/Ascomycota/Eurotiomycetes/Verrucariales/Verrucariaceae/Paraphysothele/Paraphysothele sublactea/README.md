@@ -1,5 +1,4 @@
-Paraphysothele sublactea (Eitner) Zschacke SPECIES
-=======
+# Paraphysothele sublactea (Eitner) Zschacke SPECIES
 
 #### Status
 ACCEPTED

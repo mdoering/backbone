@@ -1,5 +1,4 @@
-Skirgiellia achlyae (Shanor) A. Batko SPECIES
-=======
+# Skirgiellia achlyae (Shanor) A. Batko SPECIES
 
 #### Status
 ACCEPTED

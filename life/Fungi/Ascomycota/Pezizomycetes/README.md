@@ -1,5 +1,4 @@
-Pezizomycetes O.E. Erikss. & Winka CLASS
-=======
+# Pezizomycetes O.E. Erikss. & Winka CLASS
 
 #### Status
 ACCEPTED

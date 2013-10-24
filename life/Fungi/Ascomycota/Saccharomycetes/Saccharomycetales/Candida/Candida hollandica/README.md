@@ -1,5 +1,4 @@
-Candida hollandica Knutsen, V. Robert & M.T. Sm. SPECIES
-=======
+# Candida hollandica Knutsen, V. Robert & M.T. Sm. SPECIES
 
 #### Status
 ACCEPTED

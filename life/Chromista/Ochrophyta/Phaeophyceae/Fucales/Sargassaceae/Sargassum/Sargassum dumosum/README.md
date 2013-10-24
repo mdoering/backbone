@@ -1,5 +1,4 @@
-Sargassum dumosum Greville SPECIES
-=======
+# Sargassum dumosum Greville SPECIES
 
 #### Status
 ACCEPTED

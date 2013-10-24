@@ -1,5 +1,4 @@
-Hypoxylon incrustans (Pers.) Mont. SPECIES
-=======
+# Hypoxylon incrustans (Pers.) Mont. SPECIES
 
 #### Status
 ACCEPTED

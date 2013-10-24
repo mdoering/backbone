@@ -1,5 +1,4 @@
-Inocybe sulcata Moënne-Locc., Poirier & Reumaux SPECIES
-=======
+# Inocybe sulcata Moënne-Locc., Poirier & Reumaux SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peronospora vernalis Gäum., 1923 SPECIES
-=======
+# Peronospora vernalis Gäum., 1923 SPECIES
 
 #### Status
 ACCEPTED

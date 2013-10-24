@@ -1,5 +1,4 @@
-Polymarasmius submulticeps Murrill SPECIES
-=======
+# Polymarasmius submulticeps Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Irenopsis leptonychiae Deighton SPECIES
-=======
+# Irenopsis leptonychiae Deighton SPECIES
 
 #### Status
 ACCEPTED

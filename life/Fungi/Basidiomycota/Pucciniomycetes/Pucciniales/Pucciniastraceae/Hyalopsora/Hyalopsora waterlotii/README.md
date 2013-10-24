@@ -1,5 +1,4 @@
-Hyalopsora waterlotii Pat. SPECIES
-=======
+# Hyalopsora waterlotii Pat. SPECIES
 
 #### Status
 ACCEPTED

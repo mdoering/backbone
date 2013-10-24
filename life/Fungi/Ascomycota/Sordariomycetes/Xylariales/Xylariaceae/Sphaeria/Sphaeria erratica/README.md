@@ -1,5 +1,4 @@
-Sphaeria erratica Cooke & Ellis SPECIES
-=======
+# Sphaeria erratica Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

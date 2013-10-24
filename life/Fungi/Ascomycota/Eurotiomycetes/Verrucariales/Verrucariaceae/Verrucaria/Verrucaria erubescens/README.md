@@ -1,5 +1,4 @@
-Verrucaria erubescens SPECIES
-=======
+# Verrucaria erubescens SPECIES
 
 #### Status
 ACCEPTED

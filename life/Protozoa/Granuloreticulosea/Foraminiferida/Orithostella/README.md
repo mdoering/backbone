@@ -1,5 +1,4 @@
-Orithostella Eicher & Worstell, 1970 GENUS
-=======
+# Orithostella Eicher & Worstell, 1970 GENUS
 
 #### Status
 ACCEPTED

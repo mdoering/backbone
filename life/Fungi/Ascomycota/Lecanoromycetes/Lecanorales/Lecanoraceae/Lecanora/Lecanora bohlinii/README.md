@@ -1,5 +1,4 @@
-Lecanora bohlinii H. Magn. SPECIES
-=======
+# Lecanora bohlinii H. Magn. SPECIES
 
 #### Status
 ACCEPTED

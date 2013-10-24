@@ -1,5 +1,4 @@
-Erysiphe celastri (Y.N. Yu & Y.Q. Lai) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe celastri (Y.N. Yu & Y.Q. Lai) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

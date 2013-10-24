@@ -1,14 +1,13 @@
-Irenina ingaeicola (Speg.) F. Stevens SPECIES
-=======
+# Irenina ingaicola (Speg.) F. Stevens SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 25: 457 (1927)
 
 #### Original name
 Meliola ingicola Speg.

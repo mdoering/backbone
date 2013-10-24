@@ -1,5 +1,4 @@
-Microdiplodia buddleiae Gucevic SPECIES
-=======
+# Microdiplodia buddleiae Gucevic SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodina solani (Oudem.) Allesch. SPECIES
-=======
+# Diplodina solani (Oudem.) Allesch. SPECIES
 
 #### Status
 ACCEPTED

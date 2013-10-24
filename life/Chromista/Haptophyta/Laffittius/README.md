@@ -1,5 +1,4 @@
-Laffittius Noël GENUS
-=======
+# Laffittius Noël GENUS
 
 #### Status
 ACCEPTED

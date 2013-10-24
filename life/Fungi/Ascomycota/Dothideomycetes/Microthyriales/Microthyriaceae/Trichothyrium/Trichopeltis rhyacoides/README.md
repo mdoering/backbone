@@ -1,5 +1,4 @@
-Trichopeltis rhyacoides F. Stevens SPECIES
-=======
+# Trichopeltis rhyacoides F. Stevens SPECIES
 
 #### Status
 ACCEPTED

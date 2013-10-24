@@ -1,5 +1,4 @@
-Cryptothelium diplocarpum (Nyl.) Zahlbr. SPECIES
-=======
+# Cryptothelium diplocarpum (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

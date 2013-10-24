@@ -1,5 +1,4 @@
-Lecidea submarginiflexa Vain. SPECIES
-=======
+# Lecidea submarginiflexa Vain. SPECIES
 
 #### Status
 ACCEPTED

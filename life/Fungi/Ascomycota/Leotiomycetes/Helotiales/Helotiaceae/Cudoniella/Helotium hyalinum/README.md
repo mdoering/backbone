@@ -1,5 +1,4 @@
-Helotium hyalinum P. Karst. SPECIES
-=======
+# Helotium hyalinum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

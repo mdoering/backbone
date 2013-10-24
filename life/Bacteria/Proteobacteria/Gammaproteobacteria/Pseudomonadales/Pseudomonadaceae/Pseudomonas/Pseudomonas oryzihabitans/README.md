@@ -1,8 +1,7 @@
-Flavimonas oryzihabitans (Kodama et al., 1985) Holmes et al., 1987 SPECIES
-=======
+# Pseudomonas oryzihabitans Kodama et al., 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

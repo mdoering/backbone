@@ -1,5 +1,4 @@
-Entoloma lacteonigrum (Singer) E. Horak SPECIES
-=======
+# Entoloma lacteonigrum (Singer) E. Horak SPECIES
 
 #### Status
 ACCEPTED

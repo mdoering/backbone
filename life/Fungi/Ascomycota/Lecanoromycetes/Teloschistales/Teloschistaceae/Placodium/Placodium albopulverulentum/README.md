@@ -1,5 +1,4 @@
-Placodium albopulverulentum (Schaer.) A. Massal. SPECIES
-=======
+# Placodium albopulverulentum (Schaer.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Acanthocystis viscidulus (Berk. & Broome) Singer SPECIES
-=======
+# Pleurotus viscidulus (Berk. & Broome) Cleland, 1934 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Toadstools and Mushrooms and Other Larger Fungi of South Australia (Adelaide) 1: 89 (1934)
 
 #### Original name
 Panus viscidulus Berk. & Broome, 1882

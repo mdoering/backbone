@@ -1,8 +1,7 @@
-Nyctotheroides tejerai (Pinto, 1926) Amaro & Sena, 1968 SPECIES
-=======
+# Aduncuperistomatus tejerai (Pinto, 1926) Amaro & Sena, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

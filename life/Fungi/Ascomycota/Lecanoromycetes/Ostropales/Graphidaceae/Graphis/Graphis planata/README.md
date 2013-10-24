@@ -1,5 +1,4 @@
-Graphis planata Ach. SPECIES
-=======
+# Graphis planata Ach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trametes angulata Berk. SPECIES
-=======
+# Trametes angulata Berk. SPECIES
 
 #### Status
 ACCEPTED

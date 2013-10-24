@@ -1,5 +1,4 @@
-Ascochyta godetiae Riedl SPECIES
-=======
+# Ascochyta godetiae Riedl SPECIES
 
 #### Status
 ACCEPTED

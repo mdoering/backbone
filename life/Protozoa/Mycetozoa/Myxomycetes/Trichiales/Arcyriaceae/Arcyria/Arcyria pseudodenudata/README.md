@@ -1,5 +1,4 @@
-Arcyria pseudodenudata Wichansky, 1962 SPECIES
-=======
+# Arcyria pseudodenudata Wichansky, 1962 SPECIES
 
 #### Status
 ACCEPTED

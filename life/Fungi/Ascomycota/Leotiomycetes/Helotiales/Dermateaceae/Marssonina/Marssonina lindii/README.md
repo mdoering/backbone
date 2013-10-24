@@ -1,5 +1,4 @@
-Marssonina lindii Nannf. SPECIES
-=======
+# Marssonina lindii Nannf. SPECIES
 
 #### Status
 ACCEPTED

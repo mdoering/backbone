@@ -1,5 +1,4 @@
-Eurotium leucocarpum Hadlok & Stolk, 1969 SPECIES
-=======
+# Eurotium leucocarpum Hadlok & Stolk, 1969 SPECIES
 
 #### Status
 ACCEPTED

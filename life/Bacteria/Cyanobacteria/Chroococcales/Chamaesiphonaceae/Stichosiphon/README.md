@@ -1,5 +1,4 @@
-Stichosiphon Geitler, 1931 GENUS
-=======
+# Stichosiphon Geitler, 1931 GENUS
 
 #### Status
 ACCEPTED

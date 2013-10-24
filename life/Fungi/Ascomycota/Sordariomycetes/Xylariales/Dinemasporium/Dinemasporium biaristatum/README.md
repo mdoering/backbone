@@ -1,5 +1,4 @@
-Dinemasporium biaristatum Cooke SPECIES
-=======
+# Dinemasporium biaristatum Cooke SPECIES
 
 #### Status
 ACCEPTED

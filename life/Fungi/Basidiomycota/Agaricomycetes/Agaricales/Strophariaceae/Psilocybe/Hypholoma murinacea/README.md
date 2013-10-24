@@ -1,5 +1,4 @@
-Hypholoma murinacea Beeli SPECIES
-=======
+# Hypholoma murinacea Beeli SPECIES
 
 #### Status
 ACCEPTED

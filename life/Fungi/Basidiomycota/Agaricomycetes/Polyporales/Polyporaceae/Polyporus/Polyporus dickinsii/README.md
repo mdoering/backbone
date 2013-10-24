@@ -1,5 +1,4 @@
-Polyporus dickinsii Berk. SPECIES
-=======
+# Polyporus dickinsii Berk. SPECIES
 
 #### Status
 ACCEPTED

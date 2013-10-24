@@ -1,8 +1,7 @@
-Aphanothece le-jolisii Thuret SPECIES
-=======
+# Aphanocapsa le-jolisii (Thuret) Frémy SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

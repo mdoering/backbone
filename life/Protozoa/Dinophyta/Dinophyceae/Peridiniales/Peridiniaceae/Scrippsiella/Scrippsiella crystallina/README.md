@@ -1,5 +1,4 @@
-Scrippsiella crystallina J. Lewis SPECIES
-=======
+# Scrippsiella crystallina J. Lewis SPECIES
 
 #### Status
 ACCEPTED

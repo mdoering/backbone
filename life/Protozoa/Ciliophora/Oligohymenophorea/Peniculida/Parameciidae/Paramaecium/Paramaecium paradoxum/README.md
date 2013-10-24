@@ -1,5 +1,4 @@
-Paramaecium paradoxum SPECIES
-=======
+# Paramaecium paradoxum SPECIES
 
 #### Status
 ACCEPTED

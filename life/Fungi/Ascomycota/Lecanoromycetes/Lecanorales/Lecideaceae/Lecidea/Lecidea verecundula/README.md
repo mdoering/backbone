@@ -1,5 +1,4 @@
-Lecidea verecundula (Th. Fr.) Stizenb. SPECIES
-=======
+# Lecidea verecundula (Th. Fr.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

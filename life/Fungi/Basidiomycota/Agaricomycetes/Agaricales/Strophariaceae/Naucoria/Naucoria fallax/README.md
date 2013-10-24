@@ -1,5 +1,4 @@
-Naucoria fallax Rick SPECIES
-=======
+# Naucoria fallax Rick SPECIES
 
 #### Status
 ACCEPTED

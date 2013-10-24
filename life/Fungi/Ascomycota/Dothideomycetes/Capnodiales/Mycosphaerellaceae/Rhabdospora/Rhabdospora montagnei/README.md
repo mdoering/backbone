@@ -1,5 +1,4 @@
-Rhabdospora montagnei Sacc. SPECIES
-=======
+# Rhabdospora montagnei Sacc. SPECIES
 
 #### Status
 ACCEPTED

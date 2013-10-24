@@ -1,14 +1,13 @@
-Xyloma velatum Schwein., 1822 SPECIES
-=======
+# Rhytisma velatum (Schwein.) Fr., 1823 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Schr. naturf. Ges. Leipzig 1: 53 (1822)
+Syst. mycol. (Lundae) 2(2): 568 (1823)
 
 #### Original name
 Xyloma velatum Schwein., 1822

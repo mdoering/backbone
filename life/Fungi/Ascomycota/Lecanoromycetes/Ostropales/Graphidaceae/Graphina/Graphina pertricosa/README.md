@@ -1,5 +1,4 @@
-Graphina pertricosa (Kremp.) Redinger SPECIES
-=======
+# Graphina pertricosa (Kremp.) Redinger SPECIES
 
 #### Status
 ACCEPTED

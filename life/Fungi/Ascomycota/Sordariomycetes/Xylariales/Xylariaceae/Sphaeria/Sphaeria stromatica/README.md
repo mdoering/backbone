@@ -1,5 +1,4 @@
-Sphaeria stromatica Spreng. SPECIES
-=======
+# Sphaeria stromatica Spreng. SPECIES
 
 #### Status
 ACCEPTED

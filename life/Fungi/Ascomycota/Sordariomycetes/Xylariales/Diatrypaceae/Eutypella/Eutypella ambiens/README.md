@@ -1,5 +1,4 @@
-Eutypella ambiens (Syd. & P. Syd.) Rappaz SPECIES
-=======
+# Eutypella ambiens (Syd. & P. Syd.) Rappaz SPECIES
 
 #### Status
 ACCEPTED

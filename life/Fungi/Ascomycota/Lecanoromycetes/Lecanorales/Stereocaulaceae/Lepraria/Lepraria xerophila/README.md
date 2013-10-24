@@ -1,5 +1,4 @@
-Lepraria xerophila Tønsberg SPECIES
-=======
+# Lepraria xerophila Tønsberg SPECIES
 
 #### Status
 ACCEPTED

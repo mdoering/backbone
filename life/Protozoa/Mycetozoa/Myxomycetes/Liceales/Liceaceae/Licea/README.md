@@ -1,17 +1,16 @@
-Pleiomorpha (Nann.-Bremek.) Dhillon GENUS
-=======
+# Licea Schrad. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 30(1-6): 2 (1978)
+Nov. gen. pl. (Lipsiae) 16 (1797)
 
 #### Original name
-null
+Licea Schrad.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lyngbya nemuroensis Yoneda SPECIES
-=======
+# Lyngbya nemuroensis Yoneda SPECIES
 
 #### Status
 ACCEPTED

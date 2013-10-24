@@ -1,5 +1,4 @@
-Alectoria albida Räsänen SPECIES
-=======
+# Alectoria albida Räsänen SPECIES
 
 #### Status
 ACCEPTED

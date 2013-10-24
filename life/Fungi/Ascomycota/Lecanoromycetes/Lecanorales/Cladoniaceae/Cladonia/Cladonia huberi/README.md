@@ -1,5 +1,4 @@
-Cladonia huberi Ahti SPECIES
-=======
+# Cladonia huberi Ahti SPECIES
 
 #### Status
 ACCEPTED

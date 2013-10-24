@@ -1,5 +1,4 @@
-Pseudocolaniella Wang, 1966 GENUS
-=======
+# Pseudocolaniella Wang, 1966 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pandora phyllobii (Balazy) S. Keller, 2005 SPECIES
-=======
+# Pandora phyllobii (Balazy) S. Keller, 2005 SPECIES
 
 #### Status
 ACCEPTED

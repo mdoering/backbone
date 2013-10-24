@@ -1,5 +1,4 @@
-Sphaerella acerna Fautrey SPECIES
-=======
+# Sphaerella acerna Fautrey SPECIES
 
 #### Status
 ACCEPTED

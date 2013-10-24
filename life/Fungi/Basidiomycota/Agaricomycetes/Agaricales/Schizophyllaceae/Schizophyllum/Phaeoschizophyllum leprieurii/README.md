@@ -1,5 +1,4 @@
-Phaeoschizophyllum leprieurii (Linder) W.B. Cooke SPECIES
-=======
+# Phaeoschizophyllum leprieurii (Linder) W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

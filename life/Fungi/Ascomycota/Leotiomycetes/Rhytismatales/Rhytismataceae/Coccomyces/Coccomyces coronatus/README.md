@@ -1,17 +1,16 @@
-Coccomyces coronatus f. coronatus FORM
-=======
+# Coccomyces coronatus (Schumach.) De Not., 1859 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Erb. critt. Ital. , Ser. 1 6: no. 256 (1859)
 
 #### Original name
-Coccomyces coronatus f. coronatus
+Ascobolus coronatus Schumach., 1803
 
 ### Remarks
 null

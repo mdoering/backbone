@@ -1,5 +1,4 @@
-Sticta reineckeana (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Sticta reineckeana (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

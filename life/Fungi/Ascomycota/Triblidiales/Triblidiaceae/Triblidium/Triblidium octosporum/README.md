@@ -1,14 +1,13 @@
-Tryblidaria octospora (D. Hawksw. & Coppins) Magnes, 1997 SPECIES
-=======
+# Triblidium octosporum D. Hawksw. & Coppins, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Biblthca Mycol. 165: 138 (1997)
+Trans. Br. mycol. Soc. 61(3): 597 (1973)
 
 #### Original name
 Triblidium octosporum D. Hawksw. & Coppins, 1973

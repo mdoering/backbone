@@ -1,5 +1,4 @@
-Sporigastrum Link GENUS
-=======
+# Sporigastrum Link GENUS
 
 #### Status
 ACCEPTED

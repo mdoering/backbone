@@ -1,5 +1,4 @@
-Verrucaria paupercula (Müll. Arg.) Stizenb. SPECIES
-=======
+# Verrucaria paupercula (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

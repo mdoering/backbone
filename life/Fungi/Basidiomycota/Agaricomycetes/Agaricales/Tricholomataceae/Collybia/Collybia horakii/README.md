@@ -1,5 +1,4 @@
-Collybia horakii Raithelh. SPECIES
-=======
+# Collybia horakii Raithelh. SPECIES
 
 #### Status
 ACCEPTED

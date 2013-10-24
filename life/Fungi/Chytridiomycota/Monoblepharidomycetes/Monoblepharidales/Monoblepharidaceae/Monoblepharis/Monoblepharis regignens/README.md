@@ -1,14 +1,13 @@
-Monoblephariopsis regignens (Lagerh.) Laib., 1927 SPECIES
-=======
+# Monoblepharis regignens Lagerh., 1899 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Jb. wiss. Bot. (1927)
+null
 
 #### Original name
 Monoblepharis regignens Lagerh., 1899

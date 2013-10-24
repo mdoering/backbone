@@ -1,5 +1,4 @@
-Psorotichia ecrustacea Harm. SPECIES
-=======
+# Psorotichia ecrustacea Harm. SPECIES
 
 #### Status
 ACCEPTED

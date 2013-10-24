@@ -1,5 +1,4 @@
-Helminthosporium viticis Syd. {?} SPECIES
-=======
+# Helminthosporium viticis Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

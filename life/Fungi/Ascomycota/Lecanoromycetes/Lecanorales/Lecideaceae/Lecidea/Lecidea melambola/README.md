@@ -1,5 +1,4 @@
-Lecidea melambola Ach. SPECIES
-=======
+# Lecidea melambola Ach. SPECIES
 
 #### Status
 ACCEPTED

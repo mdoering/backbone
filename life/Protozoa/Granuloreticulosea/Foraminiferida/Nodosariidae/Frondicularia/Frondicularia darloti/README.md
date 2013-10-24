@@ -1,5 +1,4 @@
-Frondicularia darloti SPECIES
-=======
+# Frondicularia darloti SPECIES
 
 #### Status
 ACCEPTED

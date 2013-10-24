@@ -1,5 +1,4 @@
-Saccharomyces dairensis H. Nagan. SPECIES
-=======
+# Saccharomyces dairensis H. Nagan. SPECIES
 
 #### Status
 ACCEPTED

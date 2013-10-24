@@ -1,5 +1,4 @@
-Tintinnopsis nana Lohmann, 1908 SPECIES
-=======
+# Tintinnopsis nana Lohmann, 1908 SPECIES
 
 #### Status
 ACCEPTED

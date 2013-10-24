@@ -1,5 +1,4 @@
-Collema subcheileum Harm. SPECIES
-=======
+# Collema subcheileum Harm. SPECIES
 
 #### Status
 ACCEPTED

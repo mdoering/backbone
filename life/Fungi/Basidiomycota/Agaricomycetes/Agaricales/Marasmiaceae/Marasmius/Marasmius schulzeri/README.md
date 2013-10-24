@@ -1,5 +1,4 @@
-Marasmius schulzeri Quél. SPECIES
-=======
+# Marasmius schulzeri Quél. SPECIES
 
 #### Status
 ACCEPTED

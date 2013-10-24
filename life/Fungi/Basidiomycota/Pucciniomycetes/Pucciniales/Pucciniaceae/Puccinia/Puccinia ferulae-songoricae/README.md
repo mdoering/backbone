@@ -1,5 +1,4 @@
-Puccinia ferulae-songoricae Tranzschel & Erem. SPECIES
-=======
+# Puccinia ferulae-songoricae Tranzschel & Erem. SPECIES
 
 #### Status
 ACCEPTED

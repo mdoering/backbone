@@ -1,5 +1,4 @@
-Cantharellus odoratissimus Velen. SPECIES
-=======
+# Cantharellus odoratissimus Velen. SPECIES
 
 #### Status
 ACCEPTED

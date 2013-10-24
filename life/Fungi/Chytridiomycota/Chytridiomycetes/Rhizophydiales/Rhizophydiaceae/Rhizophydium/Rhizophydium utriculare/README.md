@@ -1,5 +1,4 @@
-Rhizophydium utriculare Uebelm., 1956 SPECIES
-=======
+# Rhizophydium utriculare Uebelm., 1956 SPECIES
 
 #### Status
 ACCEPTED

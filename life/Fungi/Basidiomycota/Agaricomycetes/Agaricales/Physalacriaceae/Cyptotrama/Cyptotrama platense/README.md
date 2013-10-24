@@ -1,5 +1,4 @@
-Cyptotrama platense Singer, 1969 SPECIES
-=======
+# Cyptotrama platense Singer, 1969 SPECIES
 
 #### Status
 ACCEPTED

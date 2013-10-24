@@ -1,5 +1,4 @@
-Volvariella striata N.C. Pathak SPECIES
-=======
+# Volvariella striata N.C. Pathak SPECIES
 
 #### Status
 ACCEPTED

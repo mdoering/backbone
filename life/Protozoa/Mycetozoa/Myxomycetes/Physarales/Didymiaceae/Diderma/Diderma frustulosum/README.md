@@ -1,5 +1,4 @@
-Diderma frustulosum (Pat.) Kuntze SPECIES
-=======
+# Diderma frustulosum (Pat.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

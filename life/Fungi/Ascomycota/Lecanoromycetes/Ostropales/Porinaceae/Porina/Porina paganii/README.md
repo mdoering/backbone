@@ -1,5 +1,4 @@
-Porina paganii Malme SPECIES
-=======
+# Porina paganii Malme SPECIES
 
 #### Status
 ACCEPTED

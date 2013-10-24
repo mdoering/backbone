@@ -1,5 +1,4 @@
-Paraconiothyrium fungicola Verkley & Wicklow, 2004 SPECIES
-=======
+# Paraconiothyrium fungicola Verkley & Wicklow, 2004 SPECIES
 
 #### Status
 ACCEPTED

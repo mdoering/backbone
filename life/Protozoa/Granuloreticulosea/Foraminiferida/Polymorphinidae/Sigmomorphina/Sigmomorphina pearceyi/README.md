@@ -1,5 +1,4 @@
-Sigmomorphina pearceyi Cushman & Ozawa, 1930 SPECIES
-=======
+# Sigmomorphina pearceyi Cushman & Ozawa, 1930 SPECIES
 
 #### Status
 ACCEPTED

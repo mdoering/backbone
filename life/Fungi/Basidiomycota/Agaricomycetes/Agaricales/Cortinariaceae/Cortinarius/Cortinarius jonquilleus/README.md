@@ -1,5 +1,4 @@
-Cortinarius jonquilleus Rob. Henry SPECIES
-=======
+# Cortinarius jonquilleus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

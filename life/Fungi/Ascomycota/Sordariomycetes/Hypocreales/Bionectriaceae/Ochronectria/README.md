@@ -1,5 +1,4 @@
-Ochronectria Rossman & Samuels GENUS
-=======
+# Ochronectria Rossman & Samuels GENUS
 
 #### Status
 ACCEPTED

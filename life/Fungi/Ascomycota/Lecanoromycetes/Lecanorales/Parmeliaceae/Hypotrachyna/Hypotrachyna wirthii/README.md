@@ -1,5 +1,4 @@
-Hypotrachyna wirthii Sipman, Elix & T. H. Nash SPECIES
-=======
+# Hypotrachyna wirthii Sipman, Elix & T. H. Nash SPECIES
 
 #### Status
 ACCEPTED

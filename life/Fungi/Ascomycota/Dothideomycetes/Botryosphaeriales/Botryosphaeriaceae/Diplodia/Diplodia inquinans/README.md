@@ -1,5 +1,4 @@
-Diplodia inquinans Ellis & Barthol., 1867 SPECIES
-=======
+# Diplodia inquinans Ellis & Barthol., 1867 SPECIES
 
 #### Status
 ACCEPTED

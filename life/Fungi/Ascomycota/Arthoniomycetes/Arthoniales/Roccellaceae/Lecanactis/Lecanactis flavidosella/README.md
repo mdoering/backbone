@@ -1,5 +1,4 @@
-Lecanactis flavidosella (Nyl.) Tehler SPECIES
-=======
+# Lecanactis flavidosella (Nyl.) Tehler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Torula pais Pollacci SPECIES
-=======
+# Scytalidium thermophilum (Cooney & R. Emers.) Austwick, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+N. Z. Jl agric. Res. 19(1): 29 (1976)
 
 #### Original name
-Torula pais Pollacci
+Torula thermophila Cooney & R. Emers., 1964
 
 ### Remarks
 null

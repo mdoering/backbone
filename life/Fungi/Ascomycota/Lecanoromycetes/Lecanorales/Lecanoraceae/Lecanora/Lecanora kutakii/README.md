@@ -1,5 +1,4 @@
-Lecanora kutakii E. Senft SPECIES
-=======
+# Lecanora kutakii E. Senft SPECIES
 
 #### Status
 ACCEPTED

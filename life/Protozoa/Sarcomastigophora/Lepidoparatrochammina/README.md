@@ -1,5 +1,4 @@
-Lepidoparatrochammina Bronnimann & Whittaker, 1986 GENUS
-=======
+# Lepidoparatrochammina Bronnimann & Whittaker, 1986 GENUS
 
 #### Status
 ACCEPTED

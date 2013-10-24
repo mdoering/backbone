@@ -1,5 +1,4 @@
-Microthelia fumulosa SPECIES
-=======
+# Microthelia fumulosa SPECIES
 
 #### Status
 ACCEPTED

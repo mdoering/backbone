@@ -1,5 +1,4 @@
-Spiromastix Perfil'ev, 1929 GENUS
-=======
+# Spiromastix Perfil'ev, 1929 GENUS
 
 #### Status
 ACCEPTED

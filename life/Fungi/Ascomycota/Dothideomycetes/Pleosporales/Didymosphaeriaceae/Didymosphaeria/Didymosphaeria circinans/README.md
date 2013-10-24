@@ -1,5 +1,4 @@
-Didymosphaeria circinans Harkn. SPECIES
-=======
+# Didymosphaeria circinans Harkn. SPECIES
 
 #### Status
 ACCEPTED

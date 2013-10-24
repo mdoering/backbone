@@ -1,5 +1,4 @@
-Phoma sesamina Sacc. SPECIES
-=======
+# Phoma sesamina Sacc. SPECIES
 
 #### Status
 ACCEPTED

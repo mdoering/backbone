@@ -1,5 +1,4 @@
-Phyllosticta acanthopanacis Syd. SPECIES
-=======
+# Phyllosticta acanthopanacis Syd. SPECIES
 
 #### Status
 ACCEPTED

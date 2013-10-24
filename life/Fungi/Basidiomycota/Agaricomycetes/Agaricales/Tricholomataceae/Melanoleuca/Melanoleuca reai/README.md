@@ -1,11 +1,10 @@
-Melanoleuca reai var. reai VARIETY
-=======
+# Melanoleuca reai SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
 null

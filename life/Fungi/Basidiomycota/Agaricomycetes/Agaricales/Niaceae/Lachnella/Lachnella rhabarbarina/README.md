@@ -1,5 +1,4 @@
-Lachnella rhabarbarina Fr. SPECIES
-=======
+# Lachnella rhabarbarina Fr. SPECIES
 
 #### Status
 ACCEPTED

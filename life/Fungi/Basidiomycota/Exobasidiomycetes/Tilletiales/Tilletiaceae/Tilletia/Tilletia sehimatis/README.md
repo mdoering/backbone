@@ -1,17 +1,16 @@
-Tilletia sehimae A.R. Patil, T.M. Patil & M.S. Patil SPECIES
-=======
+# Tilletia sehimatis A.R. Patil, T.M. Patil & M.S. Patil SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Patil, Indian Phytopath. 59(1): 81 (2006)
 
 #### Original name
-Tilletia sehimae A.R. Patil, T.M. Patil & M.S. Patil
+Tilletia sehimatis A.R. Patil, T.M. Patil & M.S. Patil
 
 ### Remarks
 null

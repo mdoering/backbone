@@ -1,5 +1,4 @@
-Solorina embolina Nyl. SPECIES
-=======
+# Solorina embolina Nyl. SPECIES
 
 #### Status
 ACCEPTED

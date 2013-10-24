@@ -1,5 +1,4 @@
-Sphaerella haematodes Berk. & M.A. Curtis SPECIES
-=======
+# Sphaerella haematodes Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

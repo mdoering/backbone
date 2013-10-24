@@ -1,5 +1,4 @@
-Prediscosphaera microrhabdulina Perch-Nielsen, 1973 SPECIES
-=======
+# Prediscosphaera microrhabdulina Perch-Nielsen, 1973 SPECIES
 
 #### Status
 ACCEPTED

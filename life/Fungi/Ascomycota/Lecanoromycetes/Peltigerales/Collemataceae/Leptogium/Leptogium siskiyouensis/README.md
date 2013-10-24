@@ -1,17 +1,16 @@
-Leptogium sikiyouensis D.F. Stone & Ruchty SPECIES
-=======
+# Leptogium siskiyouensis D.F. Stone & Ruchty SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+N. Amer. Fung. 3(2): 2 (2008)
 
 #### Original name
-Leptogium sikiyouensis D.F. Stone & Ruchty
+Leptogium siskiyouensis D.F. Stone & Ruchty
 
 ### Remarks
 null

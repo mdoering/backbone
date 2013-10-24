@@ -1,5 +1,4 @@
-Homostegia striola Pass. SPECIES
-=======
+# Homostegia striola Pass. SPECIES
 
 #### Status
 ACCEPTED

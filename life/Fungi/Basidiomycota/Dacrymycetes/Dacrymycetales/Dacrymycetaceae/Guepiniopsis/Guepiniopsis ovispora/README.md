@@ -1,17 +1,16 @@
-Guepiniopsis ovisporus B. Liu & L. Fan SPECIES
-=======
+# Guepiniopsis ovispora B. Liu & L. Fan SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Acta Mycol. Sin. 9(1): 12 (1990)
 
 #### Original name
-Guepiniopsis ovisporus B. Liu & L. Fan
+Guepiniopsis ovispora B. Liu & L. Fan
 
 ### Remarks
 null

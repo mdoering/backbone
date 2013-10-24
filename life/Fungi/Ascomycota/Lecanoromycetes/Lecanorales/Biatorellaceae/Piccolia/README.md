@@ -1,5 +1,4 @@
-Piccolia GENUS
-=======
+# Piccolia GENUS
 
 #### Status
 ACCEPTED

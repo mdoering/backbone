@@ -1,5 +1,4 @@
-Russula subsulphurea Murrill SPECIES
-=======
+# Russula subsulphurea Murrill SPECIES
 
 #### Status
 ACCEPTED

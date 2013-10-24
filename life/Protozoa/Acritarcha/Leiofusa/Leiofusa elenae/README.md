@@ -1,5 +1,4 @@
-Leiofusa elenae Cramer, 1964 SPECIES
-=======
+# Leiofusa elenae Cramer, 1964 SPECIES
 
 #### Status
 ACCEPTED

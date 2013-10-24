@@ -1,5 +1,4 @@
-Sphaeria abstrusa Wallr. SPECIES
-=======
+# Sphaeria abstrusa Wallr. SPECIES
 
 #### Status
 ACCEPTED

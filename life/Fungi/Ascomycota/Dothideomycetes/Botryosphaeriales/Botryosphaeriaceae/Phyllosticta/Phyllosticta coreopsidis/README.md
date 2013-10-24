@@ -1,5 +1,4 @@
-Phyllosticta coreopsidis H.C. Greene SPECIES
-=======
+# Phyllosticta coreopsidis H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

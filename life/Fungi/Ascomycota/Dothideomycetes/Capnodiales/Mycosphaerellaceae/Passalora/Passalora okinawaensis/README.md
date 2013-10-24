@@ -1,5 +1,4 @@
-Passalora okinawaensis (Tak. Kobay. & Nishij.) U. Braun & Crous SPECIES
-=======
+# Passalora okinawaensis (Tak. Kobay. & Nishij.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterophora grisea (Bonord.) Sacc. SPECIES
-=======
+# Asterophora grisea (Bonord.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

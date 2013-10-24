@@ -1,5 +1,4 @@
-Asteroscutula Petr. GENUS
-=======
+# Asteroscutula Petr. GENUS
 
 #### Status
 ACCEPTED

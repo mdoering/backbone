@@ -1,5 +1,4 @@
-Hypholoma sincerum Herp. SPECIES
-=======
+# Hypholoma sincerum Herp. SPECIES
 
 #### Status
 ACCEPTED

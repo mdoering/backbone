@@ -1,5 +1,4 @@
-Diatrype celastrina Ellis & Everh. SPECIES
-=======
+# Diatrype celastrina Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

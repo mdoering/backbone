@@ -1,5 +1,4 @@
-Pseudofrondicularia GENUS
-=======
+# Pseudofrondicularia GENUS
 
 #### Status
 ACCEPTED

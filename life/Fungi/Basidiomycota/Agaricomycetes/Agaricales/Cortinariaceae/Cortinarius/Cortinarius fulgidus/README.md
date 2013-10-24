@@ -1,5 +1,4 @@
-Cortinarius fulgidus Reumaux & Ramm SPECIES
-=======
+# Cortinarius fulgidus Reumaux & Ramm SPECIES
 
 #### Status
 ACCEPTED

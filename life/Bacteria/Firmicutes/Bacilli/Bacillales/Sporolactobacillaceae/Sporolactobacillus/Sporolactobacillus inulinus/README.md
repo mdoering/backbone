@@ -1,5 +1,4 @@
-Sporolactobacillus inulinus (Kitahara and Suzuki, 1963) Kitahara and Lai, 1967 (Approved Lists, 1980) SPECIES
-=======
+# Sporolactobacillus inulinus (Kitahara and Suzuki, 1963) Kitahara and Lai, 1967 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

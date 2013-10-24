@@ -1,5 +1,4 @@
-Gephyramoebidae FAMILY
-=======
+# Gephyramoebidae FAMILY
 
 #### Status
 ACCEPTED

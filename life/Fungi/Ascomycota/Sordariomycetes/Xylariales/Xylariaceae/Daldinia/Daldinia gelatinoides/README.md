@@ -1,5 +1,4 @@
-Daldinia gelatinoides Lar.N. Vassiljeva SPECIES
-=======
+# Daldinia gelatinoides Lar.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

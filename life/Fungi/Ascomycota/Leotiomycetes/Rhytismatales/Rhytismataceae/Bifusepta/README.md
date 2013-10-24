@@ -1,5 +1,4 @@
-Bifusepta Darker GENUS
-=======
+# Bifusepta Darker GENUS
 
 #### Status
 ACCEPTED

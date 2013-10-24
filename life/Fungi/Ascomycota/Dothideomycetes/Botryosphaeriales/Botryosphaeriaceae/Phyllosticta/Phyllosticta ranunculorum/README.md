@@ -1,5 +1,4 @@
-Phyllosticta ranunculorum Sacc. & Speg., 1878 SPECIES
-=======
+# Phyllosticta ranunculorum Sacc. & Speg., 1878 SPECIES
 
 #### Status
 ACCEPTED

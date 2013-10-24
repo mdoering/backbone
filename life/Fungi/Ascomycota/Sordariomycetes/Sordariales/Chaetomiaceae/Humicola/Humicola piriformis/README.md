@@ -1,5 +1,4 @@
-Humicola piriformis De Bert. SPECIES
-=======
+# Humicola piriformis De Bert. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhodocephalus aureus Corda SPECIES
-=======
+# Rhodocephalus aureus Corda SPECIES
 
 #### Status
 ACCEPTED

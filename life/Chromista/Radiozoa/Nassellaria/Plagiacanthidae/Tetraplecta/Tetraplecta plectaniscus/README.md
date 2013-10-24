@@ -1,5 +1,4 @@
-Tetraplecta plectaniscus Takahashi, 1991 SPECIES
-=======
+# Tetraplecta plectaniscus Takahashi, 1991 SPECIES
 
 #### Status
 ACCEPTED

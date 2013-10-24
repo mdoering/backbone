@@ -1,5 +1,4 @@
-Passalora campinensis (Chupp & Viégas) Crous, Alfenas & R.W. Barreto SPECIES
-=======
+# Passalora campinensis (Chupp & Viégas) Crous, Alfenas & R.W. Barreto SPECIES
 
 #### Status
 ACCEPTED

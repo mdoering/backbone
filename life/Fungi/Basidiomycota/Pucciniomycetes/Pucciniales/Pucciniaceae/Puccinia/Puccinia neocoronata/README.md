@@ -1,5 +1,4 @@
-Puccinia neocoronata H.C. Greene & Cummins SPECIES
-=======
+# Puccinia neocoronata H.C. Greene & Cummins SPECIES
 
 #### Status
 ACCEPTED

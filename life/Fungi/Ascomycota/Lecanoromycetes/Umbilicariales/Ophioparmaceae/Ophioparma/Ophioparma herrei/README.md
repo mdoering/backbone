@@ -1,5 +1,4 @@
-Ophioparma herrei (Zahlbr.) Kalb & Staiger SPECIES
-=======
+# Ophioparma herrei (Zahlbr.) Kalb & Staiger SPECIES
 
 #### Status
 ACCEPTED

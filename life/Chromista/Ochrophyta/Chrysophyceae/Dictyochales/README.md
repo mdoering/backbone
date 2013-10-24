@@ -1,5 +1,4 @@
-Dictyochales Haeckel, 1894 ORDER
-=======
+# Dictyochales Haeckel, 1894 ORDER
 
 #### Status
 ACCEPTED

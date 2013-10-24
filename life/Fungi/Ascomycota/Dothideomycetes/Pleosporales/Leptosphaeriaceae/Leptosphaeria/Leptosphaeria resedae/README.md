@@ -1,5 +1,4 @@
-Leptosphaeria resedae Pass. SPECIES
-=======
+# Leptosphaeria resedae Pass. SPECIES
 
 #### Status
 ACCEPTED

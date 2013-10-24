@@ -1,5 +1,4 @@
-Nosema granulosis SPECIES
-=======
+# Nosema granulosis SPECIES
 
 #### Status
 ACCEPTED

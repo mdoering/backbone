@@ -1,5 +1,4 @@
-Mycovellosiella greciana (Syd.) L.G. Br. & Morgan-Jones SPECIES
-=======
+# Mycovellosiella greciana (Syd.) L.G. Br. & Morgan-Jones SPECIES
 
 #### Status
 ACCEPTED

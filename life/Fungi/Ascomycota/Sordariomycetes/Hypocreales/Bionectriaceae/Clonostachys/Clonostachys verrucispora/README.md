@@ -1,5 +1,4 @@
-Clonostachys verrucispora Schroers SPECIES
-=======
+# Clonostachys verrucispora Schroers SPECIES
 
 #### Status
 ACCEPTED

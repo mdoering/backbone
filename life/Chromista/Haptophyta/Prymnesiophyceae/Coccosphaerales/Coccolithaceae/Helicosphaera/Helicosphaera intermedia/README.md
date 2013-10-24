@@ -1,5 +1,4 @@
-Helicosphaera intermedia Martini, 1965 SPECIES
-=======
+# Helicosphaera intermedia Martini, 1965 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Restilago capensis Vánky SPECIES
-=======
+# Restilago capensis Vánky SPECIES
 
 #### Status
 ACCEPTED

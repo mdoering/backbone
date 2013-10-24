@@ -1,17 +1,16 @@
-Parmelia tenuirima f. corallina Müll. Arg. FORM
-=======
+# Parmelia erumpens Kurok. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 46: 46 (1863)
+Lichenes Rariores et Critici Exsiccati 2: 74 (1969)
 
 #### Original name
-Parmelia tenuirima f. corallina Müll. Arg.
+Parmelia erumpens Kurok.
 
 ### Remarks
 null

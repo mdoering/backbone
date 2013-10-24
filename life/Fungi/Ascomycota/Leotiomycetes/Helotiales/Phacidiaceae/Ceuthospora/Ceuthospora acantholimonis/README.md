@@ -1,5 +1,4 @@
-Ceuthospora acantholimonis (Henn.) Höhn. SPECIES
-=======
+# Ceuthospora acantholimonis (Henn.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

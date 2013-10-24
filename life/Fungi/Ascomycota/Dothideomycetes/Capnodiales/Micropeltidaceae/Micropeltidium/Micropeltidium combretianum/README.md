@@ -1,5 +1,4 @@
-Micropeltidium combretianum Bat. & I.H. Lima SPECIES
-=======
+# Micropeltidium combretianum Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

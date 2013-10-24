@@ -1,5 +1,4 @@
-Orphella dalhousiensis Strongman & M.M. White, 2006 SPECIES
-=======
+# Orphella dalhousiensis Strongman & M.M. White, 2006 SPECIES
 
 #### Status
 ACCEPTED

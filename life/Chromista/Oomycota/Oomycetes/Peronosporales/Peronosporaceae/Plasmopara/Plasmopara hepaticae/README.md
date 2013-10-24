@@ -1,5 +1,4 @@
-Plasmopara hepaticae (Casp.) C.G. Shaw SPECIES
-=======
+# Plasmopara hepaticae (Casp.) C.G. Shaw SPECIES
 
 #### Status
 ACCEPTED

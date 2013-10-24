@@ -1,5 +1,4 @@
-Cryptothelium amazonum R.C. Harris SPECIES
-=======
+# Cryptothelium amazonum R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

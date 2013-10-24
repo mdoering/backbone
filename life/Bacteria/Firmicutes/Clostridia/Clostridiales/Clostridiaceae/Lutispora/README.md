@@ -1,5 +1,4 @@
-Lutispora Shiratori et al., 2008 GENUS
-=======
+# Lutispora Shiratori et al., 2008 GENUS
 
 #### Status
 ACCEPTED

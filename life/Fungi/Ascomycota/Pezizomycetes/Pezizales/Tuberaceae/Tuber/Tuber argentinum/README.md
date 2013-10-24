@@ -1,5 +1,4 @@
-Tuber argentinum Speg. SPECIES
-=======
+# Tuber argentinum Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta bauhinicola Rangel SPECIES
-=======
+# Phyllosticta bauhinicola Rangel SPECIES
 
 #### Status
 ACCEPTED

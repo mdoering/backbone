@@ -1,5 +1,4 @@
-Geopyxis sordescens (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Geopyxis sordescens (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

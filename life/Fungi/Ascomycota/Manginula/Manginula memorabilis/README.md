@@ -1,5 +1,4 @@
-Manginula memorabilis (Dilcher) R.T. Lange SPECIES
-=======
+# Manginula memorabilis (Dilcher) R.T. Lange SPECIES
 
 #### Status
 ACCEPTED

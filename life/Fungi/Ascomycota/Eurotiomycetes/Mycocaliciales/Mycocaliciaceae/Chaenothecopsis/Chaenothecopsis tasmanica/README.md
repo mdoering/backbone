@@ -1,5 +1,4 @@
-Chaenothecopsis tasmanica Tibell SPECIES
-=======
+# Chaenothecopsis tasmanica Tibell SPECIES
 
 #### Status
 ACCEPTED

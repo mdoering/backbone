@@ -1,5 +1,4 @@
-Fellhanera aurantiaca (Vezda) Vezda SPECIES
-=======
+# Fellhanera aurantiaca (Vezda) Vezda SPECIES
 
 #### Status
 ACCEPTED

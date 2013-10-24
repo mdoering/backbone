@@ -1,5 +1,4 @@
-Corethromyces setiger Thaxt. SPECIES
-=======
+# Corethromyces setiger Thaxt. SPECIES
 
 #### Status
 ACCEPTED

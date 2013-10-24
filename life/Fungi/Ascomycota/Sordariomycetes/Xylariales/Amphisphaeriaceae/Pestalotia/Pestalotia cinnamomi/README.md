@@ -1,17 +1,16 @@
-Pestalozzia cinnamomi Dzhalag. SPECIES
-=======
+# Pestalotia cinnamomi Rahman SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Lich. Foliic. Leg. Beccari 54 (1965)
 
 #### Original name
-Pestalozzia cinnamomi Dzhalag.
+Pestalotia cinnamomi Rahman
 
 ### Remarks
 null

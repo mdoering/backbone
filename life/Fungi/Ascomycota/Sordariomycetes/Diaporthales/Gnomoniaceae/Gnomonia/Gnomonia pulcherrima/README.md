@@ -1,5 +1,4 @@
-Gnomonia pulcherrima Seaver & Waterston SPECIES
-=======
+# Gnomonia pulcherrima Seaver & Waterston SPECIES
 
 #### Status
 ACCEPTED

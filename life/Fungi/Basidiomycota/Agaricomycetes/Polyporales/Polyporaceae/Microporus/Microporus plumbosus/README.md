@@ -1,5 +1,4 @@
-Microporus plumbosus (Fr.) Kuntze SPECIES
-=======
+# Microporus plumbosus (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

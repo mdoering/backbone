@@ -1,5 +1,4 @@
-Entyloma oenotherae Marchal & Sternon SPECIES
-=======
+# Entyloma oenotherae Marchal & Sternon SPECIES
 
 #### Status
 ACCEPTED

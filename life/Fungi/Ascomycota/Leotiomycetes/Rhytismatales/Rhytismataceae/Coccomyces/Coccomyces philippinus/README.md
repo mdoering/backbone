@@ -1,14 +1,13 @@
-Coccomyces quadratus var. philippinus Rehm, 1916 VARIETY
-=======
+# Coccomyces philippinus (Rehm) Sherwood, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Leafl. of Philipp. Bot. 8(117): 2926 (1916)
+Occ. Pap. Farlow Herb. Crypt. Bot. 15: 79 (1980)
 
 #### Original name
 Coccomyces quadratus var. philippinus Rehm, 1916

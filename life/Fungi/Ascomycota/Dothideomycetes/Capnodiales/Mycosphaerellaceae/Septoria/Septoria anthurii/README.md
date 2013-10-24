@@ -1,5 +1,4 @@
-Septoria anthurii Kotthoff, 1941 SPECIES
-=======
+# Septoria anthurii Kotthoff, 1941 SPECIES
 
 #### Status
 ACCEPTED

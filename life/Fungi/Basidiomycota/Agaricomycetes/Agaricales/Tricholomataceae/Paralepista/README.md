@@ -1,5 +1,4 @@
-Paralepista GENUS
-=======
+# Paralepista GENUS
 
 #### Status
 ACCEPTED

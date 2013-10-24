@@ -1,5 +1,4 @@
-Gyrophora canescens Dombr. SPECIES
-=======
+# Gyrophora canescens Dombr. SPECIES
 
 #### Status
 ACCEPTED

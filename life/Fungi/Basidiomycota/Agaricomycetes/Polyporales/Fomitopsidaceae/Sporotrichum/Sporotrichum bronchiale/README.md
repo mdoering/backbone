@@ -1,5 +1,4 @@
-Sporotrichum bronchiale Mont. SPECIES
-=======
+# Sporotrichum bronchiale Mont. SPECIES
 
 #### Status
 ACCEPTED

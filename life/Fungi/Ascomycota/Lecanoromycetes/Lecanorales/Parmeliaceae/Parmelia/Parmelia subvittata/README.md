@@ -1,5 +1,4 @@
-Parmelia subvittata J.D. Zhao SPECIES
-=======
+# Parmelia subvittata J.D. Zhao SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ophryomyces dorci J.C. Léger & R. Hesse SPECIES
-=======
+# Ophryomyces dorci J.C. Léger & R. Hesse SPECIES
 
 #### Status
 ACCEPTED

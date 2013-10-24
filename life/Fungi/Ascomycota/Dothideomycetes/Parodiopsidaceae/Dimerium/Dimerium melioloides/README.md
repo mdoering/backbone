@@ -1,5 +1,4 @@
-Dimerium melioloides (Berk. & M.A. Curtis) Garman SPECIES
-=======
+# Dimerium melioloides (Berk. & M.A. Curtis) Garman SPECIES
 
 #### Status
 ACCEPTED

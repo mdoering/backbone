@@ -1,5 +1,4 @@
-Diaporthe americana Speg., 1879 SPECIES
-=======
+# Diaporthe americana Speg., 1879 SPECIES
 
 #### Status
 ACCEPTED

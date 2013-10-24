@@ -1,5 +1,4 @@
-Thelotrema alboannuliforme Nagarkar, Sethy & Patw. SPECIES
-=======
+# Thelotrema alboannuliforme Nagarkar, Sethy & Patw. SPECIES
 
 #### Status
 ACCEPTED

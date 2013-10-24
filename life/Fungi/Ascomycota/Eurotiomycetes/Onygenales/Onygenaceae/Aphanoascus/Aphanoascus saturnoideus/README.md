@@ -1,5 +1,4 @@
-Aphanoascus saturnoideus Cano & Guarro, 1990 SPECIES
-=======
+# Aphanoascus saturnoideus Cano & Guarro, 1990 SPECIES
 
 #### Status
 ACCEPTED

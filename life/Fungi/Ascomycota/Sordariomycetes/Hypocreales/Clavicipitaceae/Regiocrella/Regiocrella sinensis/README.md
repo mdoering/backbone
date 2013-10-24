@@ -1,5 +1,4 @@
-Regiocrella sinensis Chaverri & K.T. Hodge, 2006 SPECIES
-=======
+# Regiocrella sinensis Chaverri & K.T. Hodge, 2006 SPECIES
 
 #### Status
 ACCEPTED

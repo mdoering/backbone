@@ -1,5 +1,4 @@
-Aleurosporia rosacea (Sabour.) Grigorakis {?} SPECIES
-=======
+# Aleurosporia rosacea (Sabour.) Grigorakis {?} SPECIES
 
 #### Status
 ACCEPTED

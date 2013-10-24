@@ -1,5 +1,4 @@
-Diplodiella oospora (Berk.) Sacc. SPECIES
-=======
+# Diplodiella oospora (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

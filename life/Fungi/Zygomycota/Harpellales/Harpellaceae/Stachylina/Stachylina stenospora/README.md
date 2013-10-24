@@ -1,5 +1,4 @@
-Stachylina stenospora Siri, M.M. White & Lichtw., 2006 SPECIES
-=======
+# Stachylina stenospora Siri, M.M. White & Lichtw., 2006 SPECIES
 
 #### Status
 ACCEPTED

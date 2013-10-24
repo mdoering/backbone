@@ -1,17 +1,16 @@
-Laccaria pumila f. pumila FORM
-=======
+# Laccaria pumila Fayod, 1893 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Annals R. Accad. Agric. Torino 35: 91 (1893)
 
 #### Original name
-Laccaria pumila f. pumila
+Laccaria pumila Fayod, 1893
 
 ### Remarks
 null

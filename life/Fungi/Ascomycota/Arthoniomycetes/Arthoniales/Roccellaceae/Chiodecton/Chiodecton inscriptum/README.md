@@ -1,5 +1,4 @@
-Chiodecton inscriptum (Nyl.) Fink SPECIES
-=======
+# Chiodecton inscriptum (Nyl.) Fink SPECIES
 
 #### Status
 ACCEPTED

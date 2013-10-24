@@ -1,5 +1,4 @@
-Geron amabilis Cramer, 1969 SPECIES
-=======
+# Geron amabilis Cramer, 1969 SPECIES
 
 #### Status
 ACCEPTED

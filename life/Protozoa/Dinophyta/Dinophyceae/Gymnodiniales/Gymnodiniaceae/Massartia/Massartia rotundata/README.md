@@ -1,5 +1,4 @@
-Massartia rotundata SPECIES
-=======
+# Massartia rotundata SPECIES
 
 #### Status
 ACCEPTED

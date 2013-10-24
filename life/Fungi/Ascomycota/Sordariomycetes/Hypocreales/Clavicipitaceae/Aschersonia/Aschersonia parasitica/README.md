@@ -1,5 +1,4 @@
-Aschersonia parasitica Henn. SPECIES
-=======
+# Aschersonia parasitica Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia rimeliicola Diederich SPECIES
-=======
+# Arthonia rimeliicola Diederich SPECIES
 
 #### Status
 ACCEPTED

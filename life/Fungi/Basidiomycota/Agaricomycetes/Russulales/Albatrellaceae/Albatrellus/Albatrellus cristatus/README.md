@@ -1,17 +1,16 @@
-Boletus cristatus var. cristatus VARIETY
-=======
+# Albatrellus cristatus (Schaeff.) Kotl. & Pouzar, 1957 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ceská Mykol. 11(3): 154 (1957)
 
 #### Original name
-null
+Boletus cristatus Schaeff., 1774
 
 ### Remarks
 null

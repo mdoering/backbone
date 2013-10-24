@@ -1,5 +1,4 @@
-Tintinnus pellucidus Cleve, 1899 SPECIES
-=======
+# Tintinnus pellucidus Cleve, 1899 SPECIES
 
 #### Status
 DOUBTFUL

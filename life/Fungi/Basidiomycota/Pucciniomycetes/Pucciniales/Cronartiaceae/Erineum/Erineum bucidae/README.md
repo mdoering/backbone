@@ -1,5 +1,4 @@
-Erineum bucidae Kunze SPECIES
-=======
+# Erineum bucidae Kunze SPECIES
 
 #### Status
 ACCEPTED

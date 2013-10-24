@@ -1,5 +1,4 @@
-Verrucaria sampaiana B. de Lesd. SPECIES
-=======
+# Verrucaria sampaiana B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

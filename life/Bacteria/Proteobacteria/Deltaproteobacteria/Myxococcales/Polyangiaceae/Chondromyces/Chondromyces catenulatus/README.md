@@ -1,5 +1,4 @@
-Chondromyces catenulatus Thaxter, 1904 (Approved Lists, 1980) SPECIES
-=======
+# Chondromyces catenulatus Thaxter, 1904 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

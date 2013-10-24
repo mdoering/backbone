@@ -1,5 +1,4 @@
-Asteridium pilare Moczydlowska, 1998 SPECIES
-=======
+# Asteridium pilare Moczydlowska, 1998 SPECIES
 
 #### Status
 ACCEPTED

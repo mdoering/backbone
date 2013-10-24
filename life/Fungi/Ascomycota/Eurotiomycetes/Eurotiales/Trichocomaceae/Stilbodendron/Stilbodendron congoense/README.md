@@ -1,5 +1,4 @@
-Stilbodendron congoense Hauman SPECIES
-=======
+# Stilbodendron congoense Hauman SPECIES
 
 #### Status
 ACCEPTED

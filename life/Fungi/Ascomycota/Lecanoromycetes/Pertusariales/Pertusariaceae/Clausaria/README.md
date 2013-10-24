@@ -1,5 +1,4 @@
-Clausaria GENUS
-=======
+# Clausaria GENUS
 
 #### Status
 ACCEPTED

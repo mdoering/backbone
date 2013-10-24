@@ -1,5 +1,4 @@
-Schizothyrioma stilbocarpae Spooner SPECIES
-=======
+# Schizothyrioma stilbocarpae Spooner SPECIES
 
 #### Status
 ACCEPTED

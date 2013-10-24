@@ -1,5 +1,4 @@
-Phyllosticta guevinae Allesch. SPECIES
-=======
+# Phyllosticta guevinae Allesch. SPECIES
 
 #### Status
 ACCEPTED

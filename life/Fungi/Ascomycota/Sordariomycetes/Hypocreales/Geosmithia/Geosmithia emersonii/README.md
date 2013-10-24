@@ -1,14 +1,13 @@
-Penicillium emersonii Stolk SPECIES
-=======
+# Geosmithia emersonii (Stolk) Pitt, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Antonie van Leeuwenhoek 31: 262 (1965)
+Can. J. Bot. 57(19): 2027 (1979)
 
 #### Original name
 Penicillium emersonii Stolk

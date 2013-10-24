@@ -1,5 +1,4 @@
-Pleospora thuridonta (Cooke & Ellis) Sacc. SPECIES
-=======
+# Pleospora thuridonta (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

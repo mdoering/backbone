@@ -1,5 +1,4 @@
-Lactarius sulcatus Verbeken & Walleyn SPECIES
-=======
+# Lactarius sulcatus Verbeken & Walleyn SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Henningsomyces escharoides Syd. SPECIES
-=======
+# Henningsomyces escharoides Syd. SPECIES
 
 #### Status
 ACCEPTED

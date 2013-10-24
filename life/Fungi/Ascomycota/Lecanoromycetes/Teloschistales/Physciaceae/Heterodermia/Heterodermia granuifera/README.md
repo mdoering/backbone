@@ -1,5 +1,4 @@
-Heterodermia granuifera SPECIES
-=======
+# Heterodermia granuifera SPECIES
 
 #### Status
 ACCEPTED

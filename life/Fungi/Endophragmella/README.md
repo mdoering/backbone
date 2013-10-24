@@ -1,5 +1,4 @@
-Endophragmella B.C. Sutton, 1973 GENUS
-=======
+# Endophragmella B.C. Sutton, 1973 GENUS
 
 #### Status
 ACCEPTED

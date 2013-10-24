@@ -1,5 +1,4 @@
-Peziza claviformis Göpp. & J.A. Menge SPECIES
-=======
+# Peziza claviformis Göpp. & J.A. Menge SPECIES
 
 #### Status
 ACCEPTED

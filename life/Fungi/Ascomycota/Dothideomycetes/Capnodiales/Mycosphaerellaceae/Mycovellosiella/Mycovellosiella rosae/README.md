@@ -1,5 +1,4 @@
-Mycovellosiella rosae Y.L. Guo & X.J. Liu SPECIES
-=======
+# Mycovellosiella rosae Y.L. Guo & X.J. Liu SPECIES
 
 #### Status
 ACCEPTED

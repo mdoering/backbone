@@ -1,5 +1,4 @@
-Cyclotella mascarenica R. Klee, V. Houk & S. Bielsa SPECIES
-=======
+# Cyclotella mascarenica R. Klee, V. Houk & S. Bielsa SPECIES
 
 #### Status
 ACCEPTED

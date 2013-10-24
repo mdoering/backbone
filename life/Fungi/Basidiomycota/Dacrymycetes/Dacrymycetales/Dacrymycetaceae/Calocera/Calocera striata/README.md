@@ -1,5 +1,4 @@
-Calocera striata (Hoffm.) Fr. SPECIES
-=======
+# Calocera striata (Hoffm.) Fr. SPECIES
 
 #### Status
 ACCEPTED

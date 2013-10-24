@@ -1,5 +1,4 @@
-Actinocyclus niagarae H.L. Smith SPECIES
-=======
+# Actinocyclus niagarae H.L. Smith SPECIES
 
 #### Status
 ACCEPTED

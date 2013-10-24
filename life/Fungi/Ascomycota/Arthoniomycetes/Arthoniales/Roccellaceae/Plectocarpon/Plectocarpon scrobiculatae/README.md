@@ -1,5 +1,4 @@
-Plectocarpon scrobiculatae Diederich & Etayo SPECIES
-=======
+# Plectocarpon scrobiculatae Diederich & Etayo SPECIES
 
 #### Status
 ACCEPTED

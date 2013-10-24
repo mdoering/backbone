@@ -1,5 +1,4 @@
-Oolina apiopleura SPECIES
-=======
+# Oolina apiopleura SPECIES
 
 #### Status
 ACCEPTED

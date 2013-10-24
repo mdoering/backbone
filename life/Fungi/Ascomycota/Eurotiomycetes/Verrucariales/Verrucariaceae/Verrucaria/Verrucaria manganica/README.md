@@ -1,5 +1,4 @@
-Verrucaria manganica O. Behr SPECIES
-=======
+# Verrucaria manganica O. Behr SPECIES
 
 #### Status
 ACCEPTED

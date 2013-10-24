@@ -1,5 +1,4 @@
-Stigmatomyces asteiae M. Bechet & I. Bechet SPECIES
-=======
+# Stigmatomyces asteiae M. Bechet & I. Bechet SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Coriolus planellus Murrill, 1905 SPECIES
-=======
+# Datronia stereoides (Fr.) Ryvarden, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Torrey bot. Club 32(12): 649 (1905)
+Flora over Kjuker 42 (1968)
 
 #### Original name
-Coriolus planellus Murrill, 1905
+Polyporus stereoides Fr., 1818
 
 ### Remarks
 null

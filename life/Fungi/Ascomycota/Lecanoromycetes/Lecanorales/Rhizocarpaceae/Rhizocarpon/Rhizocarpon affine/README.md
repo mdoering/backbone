@@ -1,5 +1,4 @@
-Rhizocarpon affine G. Merr. SPECIES
-=======
+# Rhizocarpon affine G. Merr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Metadiplodia canthiifolia (Cooke & Massee) Zambett. SPECIES
-=======
+# Metadiplodia canthiifolia (Cooke & Massee) Zambett. SPECIES
 
 #### Status
 ACCEPTED

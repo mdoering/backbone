@@ -1,5 +1,4 @@
-Perenniporia variegata Ryvarden & Gilb. SPECIES
-=======
+# Perenniporia variegata Ryvarden & Gilb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stereochlamydomyces horridulae Cif. & Tomas. SPECIES
-=======
+# Stereochlamydomyces horridulae Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

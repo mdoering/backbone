@@ -1,5 +1,4 @@
-Leiosphaerella malaysiana Matsush. SPECIES
-=======
+# Leiosphaerella malaysiana Matsush. SPECIES
 
 #### Status
 ACCEPTED

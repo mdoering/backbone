@@ -1,5 +1,4 @@
-Psalliota alboargillascens A. Pearson SPECIES
-=======
+# Psalliota alboargillascens A. Pearson SPECIES
 
 #### Status
 ACCEPTED

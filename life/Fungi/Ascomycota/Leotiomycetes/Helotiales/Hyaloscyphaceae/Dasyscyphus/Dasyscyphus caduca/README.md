@@ -1,8 +1,7 @@
-Dasyscypha caduca (Rehm) Sacc. SPECIES
-=======
+# Dasyscyphus caduca (Rehm) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

@@ -1,5 +1,4 @@
-Habrostictis carneopallida P. Karst. SPECIES
-=======
+# Habrostictis carneopallida P. Karst. SPECIES
 
 #### Status
 ACCEPTED

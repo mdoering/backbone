@@ -1,5 +1,4 @@
-Platisma cornudamiae Hoffm. SPECIES
-=======
+# Platisma cornudamiae Hoffm. SPECIES
 
 #### Status
 ACCEPTED

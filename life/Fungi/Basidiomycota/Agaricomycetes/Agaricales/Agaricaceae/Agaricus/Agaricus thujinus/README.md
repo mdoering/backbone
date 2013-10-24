@@ -1,5 +1,4 @@
-Agaricus thujinus Peck SPECIES
-=======
+# Agaricus thujinus Peck SPECIES
 
 #### Status
 ACCEPTED

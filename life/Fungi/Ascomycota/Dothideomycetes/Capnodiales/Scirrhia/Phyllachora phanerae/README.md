@@ -1,5 +1,4 @@
-Phyllachora phanerae Racib., 1915 SPECIES
-=======
+# Phyllachora phanerae Racib., 1915 SPECIES
 
 #### Status
 DOUBTFUL

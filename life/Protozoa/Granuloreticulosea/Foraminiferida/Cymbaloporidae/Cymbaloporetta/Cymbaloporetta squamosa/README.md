@@ -1,5 +1,4 @@
-Cymbaloporetta squamosa (d'Orbigny) SPECIES
-=======
+# Cymbaloporetta squamosa (d'Orbigny) SPECIES
 
 #### Status
 ACCEPTED

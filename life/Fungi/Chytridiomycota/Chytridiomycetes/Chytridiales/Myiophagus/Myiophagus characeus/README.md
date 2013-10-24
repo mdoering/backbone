@@ -1,5 +1,4 @@
-Myiophagus characeus Kiran & Dayal, 1997 SPECIES
-=======
+# Myiophagus characeus Kiran & Dayal, 1997 SPECIES
 
 #### Status
 ACCEPTED

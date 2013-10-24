@@ -1,5 +1,4 @@
-Podosordaria copelandii (Henn.) P.M.D. Martin SPECIES
-=======
+# Podosordaria copelandii (Henn.) P.M.D. Martin SPECIES
 
 #### Status
 ACCEPTED

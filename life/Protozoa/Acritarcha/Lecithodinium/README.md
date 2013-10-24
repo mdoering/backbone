@@ -1,5 +1,4 @@
-Lecithodinium Habib & Knapp, 1982 GENUS
-=======
+# Lecithodinium Habib & Knapp, 1982 GENUS
 
 #### Status
 ACCEPTED

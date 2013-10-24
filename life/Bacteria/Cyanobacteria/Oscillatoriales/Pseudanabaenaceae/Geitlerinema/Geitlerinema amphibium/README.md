@@ -1,5 +1,4 @@
-Geitlerinema amphibium (C. Agardh) Anagnostidis SPECIES
-=======
+# Geitlerinema amphibium (C. Agardh) Anagnostidis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Coscinium Endlicher GENUS
-=======
+# Lamproderma Rostafinski, 1873 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Gen. Plant. , 26.
+Vers. Syst. Mycetozoen, 7.
 
 #### Original name
-null
+Lamproderma Rostafinski, 1873
 
 ### Remarks
 null

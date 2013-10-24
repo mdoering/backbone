@@ -1,5 +1,4 @@
-Patellaria vibrisseoides P. Crouan & H. Crouan SPECIES
-=======
+# Patellaria vibrisseoides P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

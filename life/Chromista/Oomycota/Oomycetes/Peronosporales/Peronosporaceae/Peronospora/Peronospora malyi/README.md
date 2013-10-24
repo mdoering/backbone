@@ -1,5 +1,4 @@
-Peronospora malyi Lindtner SPECIES
-=======
+# Peronospora malyi Lindtner SPECIES
 
 #### Status
 ACCEPTED

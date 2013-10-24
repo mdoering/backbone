@@ -1,5 +1,4 @@
-Clitocybe umbrinipes H.E. Bigelow & A.H. Sm. SPECIES
-=======
+# Clitocybe umbrinipes H.E. Bigelow & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

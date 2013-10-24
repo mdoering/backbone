@@ -1,5 +1,4 @@
-Galera subcapreus E.H.L. Krause SPECIES
-=======
+# Galera subcapreus E.H.L. Krause SPECIES
 
 #### Status
 ACCEPTED

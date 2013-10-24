@@ -1,17 +1,16 @@
-Usnea glauca f. glauca FORM
-=======
+# Usnea rigida (Ach.) Motyka SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Usnea glauca f. glauca
+Usnea florida var. rigida Ach.
 
 ### Remarks
 null

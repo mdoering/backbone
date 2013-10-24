@@ -1,5 +1,4 @@
-Microporus striatus (Hook.) Kuntze SPECIES
-=======
+# Microporus striatus (Hook.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

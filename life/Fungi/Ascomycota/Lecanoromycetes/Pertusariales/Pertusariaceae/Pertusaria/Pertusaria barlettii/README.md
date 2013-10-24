@@ -1,5 +1,4 @@
-Pertusaria barlettii A.W. Archer & Elix SPECIES
-=======
+# Pertusaria barlettii A.W. Archer & Elix SPECIES
 
 #### Status
 ACCEPTED

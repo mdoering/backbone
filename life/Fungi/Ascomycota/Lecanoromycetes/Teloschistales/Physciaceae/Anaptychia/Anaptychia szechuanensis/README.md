@@ -1,5 +1,4 @@
-Anaptychia szechuanensis f. szechuanensis FORM
-=======
+# Anaptychia szechuanensis J.D. Zhao, L.W. Hsu & Z.M. Sun SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Acta phytotax. sin. 17(2): 96 (1979)
 
 #### Original name
-Anaptychia szechuanensis f. szechuanensis
+Anaptychia szechuanensis J.D. Zhao, L.W. Hsu & Z.M. Sun
 
 ### Remarks
 null

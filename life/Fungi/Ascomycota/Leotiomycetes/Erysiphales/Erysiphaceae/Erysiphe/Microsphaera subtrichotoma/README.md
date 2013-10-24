@@ -1,5 +1,4 @@
-Microsphaera subtrichotoma U. Braun SPECIES
-=======
+# Microsphaera subtrichotoma U. Braun SPECIES
 
 #### Status
 ACCEPTED

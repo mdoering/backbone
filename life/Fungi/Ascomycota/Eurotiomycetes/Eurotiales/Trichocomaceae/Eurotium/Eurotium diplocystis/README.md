@@ -1,5 +1,4 @@
-Eurotium diplocystis Berk. & Broome SPECIES
-=======
+# Eurotium diplocystis Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

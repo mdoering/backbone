@@ -1,5 +1,4 @@
-Echinobotryum olivaceum Petch SPECIES
-=======
+# Echinobotryum olivaceum Petch SPECIES
 
 #### Status
 ACCEPTED

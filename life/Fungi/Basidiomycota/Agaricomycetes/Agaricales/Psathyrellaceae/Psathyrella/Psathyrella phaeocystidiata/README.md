@@ -1,5 +1,4 @@
-Psathyrella phaeocystidiata Singer SPECIES
-=======
+# Psathyrella phaeocystidiata Singer SPECIES
 
 #### Status
 ACCEPTED

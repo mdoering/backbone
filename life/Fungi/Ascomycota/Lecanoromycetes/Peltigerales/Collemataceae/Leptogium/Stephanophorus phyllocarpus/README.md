@@ -1,5 +1,4 @@
-Stephanophorus phyllocarpus (Pers.) Mont. SPECIES
-=======
+# Stephanophorus phyllocarpus (Pers.) Mont. SPECIES
 
 #### Status
 ACCEPTED

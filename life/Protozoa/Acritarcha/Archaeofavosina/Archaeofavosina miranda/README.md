@@ -1,5 +1,4 @@
-Archaeofavosina miranda Naumova, 1968 SPECIES
-=======
+# Archaeofavosina miranda Naumova, 1968 SPECIES
 
 #### Status
 ACCEPTED

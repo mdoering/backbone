@@ -1,5 +1,4 @@
-Cercospora veronicae Sm. {?} SPECIES
-=======
+# Cercospora veronicae Sm. {?} SPECIES
 
 #### Status
 ACCEPTED

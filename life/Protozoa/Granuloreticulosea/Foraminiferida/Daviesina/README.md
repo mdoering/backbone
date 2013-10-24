@@ -1,5 +1,4 @@
-Daviesina Smout, 1954 GENUS
-=======
+# Daviesina Smout, 1954 GENUS
 
 #### Status
 ACCEPTED

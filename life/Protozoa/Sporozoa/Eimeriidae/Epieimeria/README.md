@@ -1,5 +1,4 @@
-Epieimeria Dyková & Lom, 1981 GENUS
-=======
+# Epieimeria Dyková & Lom, 1981 GENUS
 
 #### Status
 ACCEPTED

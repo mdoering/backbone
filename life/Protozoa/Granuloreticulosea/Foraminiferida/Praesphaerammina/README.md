@@ -1,5 +1,4 @@
-Praesphaerammina Kaminski & Filipescu, 2000 GENUS
-=======
+# Praesphaerammina Kaminski & Filipescu, 2000 GENUS
 
 #### Status
 ACCEPTED

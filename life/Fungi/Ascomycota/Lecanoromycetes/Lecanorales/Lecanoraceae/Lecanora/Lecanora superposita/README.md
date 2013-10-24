@@ -1,5 +1,4 @@
-Lecanora superposita Zahlbr. SPECIES
-=======
+# Lecanora superposita Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

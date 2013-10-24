@@ -1,14 +1,13 @@
-Cercospora phyllanthi Chupp, 1931 SPECIES
-=======
+# Pseudocercospora phyllanthi (Chupp) Deighton, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Toro, J. Dept. Agric. Porto Rico 15: 12 (1931)
+Mycol. Pap. 140: 150 (1976)
 
 #### Original name
 Cercospora phyllanthi Chupp, 1931

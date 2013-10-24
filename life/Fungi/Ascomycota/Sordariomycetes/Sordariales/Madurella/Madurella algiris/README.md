@@ -1,5 +1,4 @@
-Madurella algiris (R. Blanch.) C.W. Dodge SPECIES
-=======
+# Madurella algiris (R. Blanch.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

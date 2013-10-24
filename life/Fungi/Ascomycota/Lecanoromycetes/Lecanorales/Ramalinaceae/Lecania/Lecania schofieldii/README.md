@@ -1,5 +1,4 @@
-Lecania schofieldii C.W. Dodge SPECIES
-=======
+# Lecania schofieldii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

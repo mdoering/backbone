@@ -1,5 +1,4 @@
-Microdiplodia calthae Kirschst. SPECIES
-=======
+# Microdiplodia calthae Kirschst. SPECIES
 
 #### Status
 ACCEPTED

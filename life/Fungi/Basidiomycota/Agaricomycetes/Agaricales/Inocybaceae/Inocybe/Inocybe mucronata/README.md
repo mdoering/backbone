@@ -1,5 +1,4 @@
-Inocybe mucronata R. Heim SPECIES
-=======
+# Inocybe mucronata R. Heim SPECIES
 
 #### Status
 ACCEPTED

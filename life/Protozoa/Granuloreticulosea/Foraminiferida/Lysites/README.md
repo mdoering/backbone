@@ -1,5 +1,4 @@
-Lysites Reitlinger, 1993 GENUS
-=======
+# Lysites Reitlinger, 1993 GENUS
 
 #### Status
 ACCEPTED

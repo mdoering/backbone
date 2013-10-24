@@ -1,5 +1,4 @@
-Phyllosticta kigeliae Died. SPECIES
-=======
+# Phyllosticta kigeliae Died. SPECIES
 
 #### Status
 ACCEPTED

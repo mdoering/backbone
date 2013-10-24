@@ -1,5 +1,4 @@
-Amphidinium filum Böhm, 1976 SPECIES
-=======
+# Amphidinium filum Böhm, 1976 SPECIES
 
 #### Status
 ACCEPTED

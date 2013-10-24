@@ -1,5 +1,4 @@
-Tulasnella rutilans (Johan-Olsen) Juel SPECIES
-=======
+# Tulasnella rutilans (Johan-Olsen) Juel SPECIES
 
 #### Status
 ACCEPTED

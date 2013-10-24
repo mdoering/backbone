@@ -1,5 +1,4 @@
-Agaricus myriophyllus Cooke & Massee SPECIES
-=======
+# Agaricus myriophyllus Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

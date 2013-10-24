@@ -1,5 +1,4 @@
-Chondroderris Maire GENUS
-=======
+# Chondroderris Maire GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Neofuscelia incantata (Essl.) Essl. SPECIES
-=======
+# Xanthoparmelia incantata (Essl.) O. Blanco, A. Crespo, Elix, D. Hawksw. & Lumbsch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 7(1): 50 (1978)
+Taxon 53(4): 968 (2004)
 
 #### Original name
 Parmelia incantata Essl.

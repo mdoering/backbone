@@ -1,17 +1,16 @@
-Hyaloscypha acicularum (Velen.) Baral & Huhtinen, 2009 SPECIES
-=======
+# Fuscoscypha acicularum (Velen.) Svrcek, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 39: 222 (1987)
 
 #### Original name
-null
+Lachnum acicularum Velen., 1934
 
 ### Remarks
 null

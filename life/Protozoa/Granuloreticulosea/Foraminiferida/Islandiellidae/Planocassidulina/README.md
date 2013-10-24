@@ -1,5 +1,4 @@
-Planocassidulina GENUS
-=======
+# Planocassidulina GENUS
 
 #### Status
 ACCEPTED

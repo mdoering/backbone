@@ -1,5 +1,4 @@
-Nyctotherus haranti Grasse, 1926 SPECIES
-=======
+# Nyctotherus haranti Grasse, 1926 SPECIES
 
 #### Status
 ACCEPTED

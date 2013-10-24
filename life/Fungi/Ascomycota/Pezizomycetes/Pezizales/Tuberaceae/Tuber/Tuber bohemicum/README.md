@@ -1,5 +1,4 @@
-Tuber bohemicum Corda SPECIES
-=======
+# Tuber bohemicum Corda SPECIES
 
 #### Status
 ACCEPTED

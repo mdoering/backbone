@@ -1,5 +1,4 @@
-Meliola stipae Mibey SPECIES
-=======
+# Meliola stipae Mibey SPECIES
 
 #### Status
 ACCEPTED

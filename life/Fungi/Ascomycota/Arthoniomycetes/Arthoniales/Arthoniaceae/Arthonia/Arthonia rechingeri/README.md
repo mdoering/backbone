@@ -1,5 +1,4 @@
-Arthonia rechingeri Zahlbr. SPECIES
-=======
+# Arthonia rechingeri Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

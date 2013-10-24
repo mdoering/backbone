@@ -1,8 +1,7 @@
-Methanobacterium thermophilum Laurinavichus et al., 1990 SPECIES
-=======
+# Methanothermobacter thermophilus (Laurinavichus et al., 1990) Boone, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

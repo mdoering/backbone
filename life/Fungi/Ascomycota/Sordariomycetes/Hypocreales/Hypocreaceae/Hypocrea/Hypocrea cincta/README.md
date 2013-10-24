@@ -1,5 +1,4 @@
-Hypocrea cincta Petch SPECIES
-=======
+# Hypocrea cincta Petch SPECIES
 
 #### Status
 ACCEPTED

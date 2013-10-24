@@ -1,5 +1,4 @@
-Micrhystridium flandrianum Stockmans & Willière, 1963 SPECIES
-=======
+# Micrhystridium flandrianum Stockmans & Willière, 1963 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dicaeoma kaernbachii (Henn.) Arthur & Fromme SPECIES
-=======
+# Dicaeoma kaernbachii (Henn.) Arthur & Fromme SPECIES
 
 #### Status
 ACCEPTED

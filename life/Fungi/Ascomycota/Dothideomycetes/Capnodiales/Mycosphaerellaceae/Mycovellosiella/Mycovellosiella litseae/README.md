@@ -1,5 +1,4 @@
-Mycovellosiella litseae Meenu, Bhalla & S.K. Singh SPECIES
-=======
+# Mycovellosiella litseae Meenu, Bhalla & S.K. Singh SPECIES
 
 #### Status
 ACCEPTED

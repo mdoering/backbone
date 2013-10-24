@@ -1,5 +1,4 @@
-Phallus sanguineus Henn. SPECIES
-=======
+# Phallus sanguineus Henn. SPECIES
 
 #### Status
 ACCEPTED

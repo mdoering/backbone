@@ -1,5 +1,4 @@
-Verrucaria lariana (A. Massal.) Garov. SPECIES
-=======
+# Verrucaria lariana (A. Massal.) Garov. SPECIES
 
 #### Status
 ACCEPTED

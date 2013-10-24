@@ -1,5 +1,4 @@
-Micropeltis strophanthi E. Müll. SPECIES
-=======
+# Micropeltis strophanthi E. Müll. SPECIES
 
 #### Status
 ACCEPTED

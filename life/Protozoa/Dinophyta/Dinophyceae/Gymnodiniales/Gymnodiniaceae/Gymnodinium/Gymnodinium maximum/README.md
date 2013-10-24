@@ -1,5 +1,4 @@
-Gymnodinium maximum Nordli, 1951 SPECIES
-=======
+# Gymnodinium maximum Nordli, 1951 SPECIES
 
 #### Status
 ACCEPTED

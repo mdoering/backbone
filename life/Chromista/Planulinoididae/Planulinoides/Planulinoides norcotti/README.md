@@ -1,5 +1,4 @@
-Planulinoides norcotti Hedley, Hurdle & Burdett, 1967 SPECIES
-=======
+# Planulinoides norcotti Hedley, Hurdle & Burdett, 1967 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Actinonema rubi Fuckel SPECIES
-=======
+# Actinonema rubi Fuckel SPECIES
 
 #### Status
 ACCEPTED

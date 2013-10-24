@@ -1,5 +1,4 @@
-Parmelia phyllocarpa G. Mey. SPECIES
-=======
+# Parmelia phyllocarpa G. Mey. SPECIES
 
 #### Status
 ACCEPTED

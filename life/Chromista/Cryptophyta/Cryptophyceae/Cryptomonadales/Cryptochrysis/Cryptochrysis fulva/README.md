@@ -1,5 +1,4 @@
-Cryptochrysis fulva R. W. Butcher SPECIES
-=======
+# Cryptochrysis fulva R. W. Butcher SPECIES
 
 #### Status
 ACCEPTED

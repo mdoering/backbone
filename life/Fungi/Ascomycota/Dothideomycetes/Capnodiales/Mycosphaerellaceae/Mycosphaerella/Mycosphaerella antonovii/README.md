@@ -1,5 +1,4 @@
-Mycosphaerella antonovii Petr. SPECIES
-=======
+# Mycosphaerella antonovii Petr. SPECIES
 
 #### Status
 ACCEPTED

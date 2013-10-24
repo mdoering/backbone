@@ -1,5 +1,4 @@
-Septogloeum tremulae Höhn. SPECIES
-=======
+# Septogloeum tremulae Höhn. SPECIES
 
 #### Status
 ACCEPTED

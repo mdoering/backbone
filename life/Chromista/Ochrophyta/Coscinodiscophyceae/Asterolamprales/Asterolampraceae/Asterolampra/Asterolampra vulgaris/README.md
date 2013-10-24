@@ -1,5 +1,4 @@
-Asterolampra vulgaris var. hyalina A.M. Gombos VARIETY
-=======
+# Asterolampra vulgaris SPECIES
 
 #### Status
 ACCEPTED

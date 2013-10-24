@@ -1,5 +1,4 @@
-Oncomyces mesenterica Klotzsch SPECIES
-=======
+# Oncomyces mesenterica Klotzsch SPECIES
 
 #### Status
 ACCEPTED

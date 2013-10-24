@@ -1,17 +1,16 @@
-Racovitzaia Tucolesco, 1962 GENUS
-=======
+# Racovitzaiella Aescht, 2001 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Annls Spéleol. 17: 96.
+Denisia 1: 139.
 
 #### Original name
-null
+Racovitzaia Tucolesco, 1962
 
 ### Remarks
 null

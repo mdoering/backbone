@@ -1,5 +1,4 @@
-Neomonocystis Geus, 1969 GENUS
-=======
+# Neomonocystis Geus, 1969 GENUS
 
 #### Status
 ACCEPTED

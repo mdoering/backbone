@@ -1,5 +1,4 @@
-Lophidium aromaticum Fabre SPECIES
-=======
+# Lophidium aromaticum Fabre SPECIES
 
 #### Status
 ACCEPTED

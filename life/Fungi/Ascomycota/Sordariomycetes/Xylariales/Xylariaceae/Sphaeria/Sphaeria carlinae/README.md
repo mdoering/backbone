@@ -1,5 +1,4 @@
-Sphaeria carlinae Kirchn. SPECIES
-=======
+# Sphaeria carlinae Kirchn. SPECIES
 
 #### Status
 ACCEPTED

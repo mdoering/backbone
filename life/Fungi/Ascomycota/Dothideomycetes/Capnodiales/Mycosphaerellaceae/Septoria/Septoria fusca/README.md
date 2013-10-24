@@ -1,5 +1,4 @@
-Septoria fusca Peck SPECIES
-=======
+# Septoria fusca Peck SPECIES
 
 #### Status
 ACCEPTED

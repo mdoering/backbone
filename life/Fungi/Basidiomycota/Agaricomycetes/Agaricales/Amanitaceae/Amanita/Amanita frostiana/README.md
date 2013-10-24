@@ -1,5 +1,4 @@
-Amanita frostiana Peck SPECIES
-=======
+# Amanita frostiana Peck SPECIES
 
 #### Status
 ACCEPTED

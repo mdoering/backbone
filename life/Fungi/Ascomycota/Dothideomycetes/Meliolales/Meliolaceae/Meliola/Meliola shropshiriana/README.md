@@ -1,5 +1,4 @@
-Meliola shropshiriana (F. Stevens) Cif. SPECIES
-=======
+# Meliola shropshiriana (F. Stevens) Cif. SPECIES
 
 #### Status
 ACCEPTED

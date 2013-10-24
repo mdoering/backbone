@@ -1,5 +1,4 @@
-Hymenochaetales Oberw. ORDER
-=======
+# Hymenochaetales Oberw. ORDER
 
 #### Status
 ACCEPTED

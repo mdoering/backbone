@@ -1,5 +1,4 @@
-Pholiota sordida Rick SPECIES
-=======
+# Pholiota sordida Rick SPECIES
 
 #### Status
 ACCEPTED

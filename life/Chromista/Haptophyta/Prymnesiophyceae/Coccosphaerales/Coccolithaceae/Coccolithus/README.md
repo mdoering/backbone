@@ -1,14 +1,13 @@
-Cyatholithus Huxley, 1868 GENUS
-=======
+# Coccolithus Schwarz, 1894 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Roy. Micros. Soc, 15: 206.
+Ann. Mag. Nat. Hist. ser. 6. 14: 346.
 
 #### Original name
 null

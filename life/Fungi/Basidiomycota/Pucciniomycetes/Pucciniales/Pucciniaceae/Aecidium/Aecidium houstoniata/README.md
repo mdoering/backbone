@@ -1,5 +1,4 @@
-Aecidium houstoniata Schwein. SPECIES
-=======
+# Aecidium houstoniata Schwein. SPECIES
 
 #### Status
 ACCEPTED

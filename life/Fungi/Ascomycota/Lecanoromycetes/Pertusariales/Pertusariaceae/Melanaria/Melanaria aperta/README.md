@@ -1,5 +1,4 @@
-Melanaria aperta (Stizenb.) Erichsen SPECIES
-=======
+# Melanaria aperta (Stizenb.) Erichsen SPECIES
 
 #### Status
 ACCEPTED

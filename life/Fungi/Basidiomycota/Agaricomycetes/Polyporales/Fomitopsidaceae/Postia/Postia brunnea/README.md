@@ -1,5 +1,4 @@
-Postia brunnea Rajchenb. & P.K. Buchanan, 1996 SPECIES
-=======
+# Postia brunnea Rajchenb. & P.K. Buchanan, 1996 SPECIES
 
 #### Status
 ACCEPTED

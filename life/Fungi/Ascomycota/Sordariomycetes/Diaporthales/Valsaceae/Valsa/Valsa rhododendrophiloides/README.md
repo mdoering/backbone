@@ -1,5 +1,4 @@
-Valsa rhododendrophiloides Sergeeva SPECIES
-=======
+# Valsa rhododendrophiloides Sergeeva SPECIES
 
 #### Status
 ACCEPTED

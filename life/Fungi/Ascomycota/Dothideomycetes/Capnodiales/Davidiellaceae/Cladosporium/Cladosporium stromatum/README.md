@@ -1,5 +1,4 @@
-Cladosporium stromatum Preuss SPECIES
-=======
+# Cladosporium stromatum Preuss SPECIES
 
 #### Status
 ACCEPTED

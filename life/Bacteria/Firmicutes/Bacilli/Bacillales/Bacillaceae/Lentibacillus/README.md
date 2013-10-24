@@ -1,5 +1,4 @@
-Lentibacillus Yoon, Kang & Park, 2002 GENUS
-=======
+# Lentibacillus Yoon, Kang & Park, 2002 GENUS
 
 #### Status
 ACCEPTED

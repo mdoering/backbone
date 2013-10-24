@@ -1,5 +1,4 @@
-Lichen argillaceus Bellardi SPECIES
-=======
+# Lichen argillaceus Bellardi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Erysiphe cichoracearum f. sp FORM
-=======
+# Golovinomyces orontii (Castagne) V.P. Heluta, 1988 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ukr. bot. Zh. 45(5): 63 (1988)
 
 #### Original name
-Erysiphe cichoracearum f. sp
+Erysiphe orontii Castagne, 1851
 
 ### Remarks
 null

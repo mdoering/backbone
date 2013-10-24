@@ -1,5 +1,4 @@
-Olivamonas asiatica (B. V. Skvortzov) B. V. Skvortzov SPECIES
-=======
+# Olivamonas asiatica (B. V. Skvortzov) B. V. Skvortzov SPECIES
 
 #### Status
 ACCEPTED

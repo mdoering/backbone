@@ -1,5 +1,4 @@
-Biscutum dekaenelii SPECIES
-=======
+# Biscutum dekaenelii SPECIES
 
 #### Status
 ACCEPTED

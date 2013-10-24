@@ -1,5 +1,4 @@
-Peltigera laminata G. Merr. ex Plitt SPECIES
-=======
+# Peltigera laminata G. Merr. ex Plitt SPECIES
 
 #### Status
 ACCEPTED

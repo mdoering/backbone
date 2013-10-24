@@ -1,5 +1,4 @@
-Candida tetrigidarum S.O. Suh, N.H. Nguyen & M. Blackw., 2008 SPECIES
-=======
+# Candida tetrigidarum S.O. Suh, N.H. Nguyen & M. Blackw., 2008 SPECIES
 
 #### Status
 ACCEPTED

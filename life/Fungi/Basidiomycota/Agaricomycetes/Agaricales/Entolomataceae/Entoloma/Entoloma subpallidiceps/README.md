@@ -1,5 +1,4 @@
-Entoloma subpallidiceps Hesler SPECIES
-=======
+# Entoloma subpallidiceps Hesler SPECIES
 
 #### Status
 ACCEPTED

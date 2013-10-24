@@ -1,5 +1,4 @@
-Curvibacter Ding & Yokota, 2004 GENUS
-=======
+# Curvibacter Ding & Yokota, 2004 GENUS
 
 #### Status
 ACCEPTED

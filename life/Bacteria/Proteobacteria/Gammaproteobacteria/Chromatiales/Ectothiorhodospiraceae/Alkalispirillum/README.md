@@ -1,5 +1,4 @@
-Alkalispirillum Rijkenberg, Kort, Crielaard & Hellingwerf, 2002 GENUS
-=======
+# Alkalispirillum Rijkenberg, Kort, Crielaard & Hellingwerf, 2002 GENUS
 
 #### Status
 ACCEPTED

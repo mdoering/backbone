@@ -1,5 +1,4 @@
-Corylomyces Stchigel, M. Calduch & Guarro GENUS
-=======
+# Corylomyces Stchigel, M. Calduch & Guarro GENUS
 
 #### Status
 ACCEPTED

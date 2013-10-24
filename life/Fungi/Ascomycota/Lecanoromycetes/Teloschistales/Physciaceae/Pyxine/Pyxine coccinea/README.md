@@ -1,5 +1,4 @@
-Pyxine coccinea (Schaer.) Mont. & Bosch SPECIES
-=======
+# Pyxine coccinea (Schaer.) Mont. & Bosch SPECIES
 
 #### Status
 ACCEPTED

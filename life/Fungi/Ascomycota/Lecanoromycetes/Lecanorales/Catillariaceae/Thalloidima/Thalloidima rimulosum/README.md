@@ -1,5 +1,4 @@
-Thalloidima rimulosum Th. Fr. SPECIES
-=======
+# Thalloidima rimulosum Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizopogon sordidus A.H. Sm. SPECIES
-=======
+# Rhizopogon sordidus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

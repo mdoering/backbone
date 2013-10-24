@@ -1,5 +1,4 @@
-Tuberculina tweediana Speg. SPECIES
-=======
+# Tuberculina tweediana Speg. SPECIES
 
 #### Status
 ACCEPTED

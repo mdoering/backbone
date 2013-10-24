@@ -1,5 +1,4 @@
-Lecanora aureola (Tuck.) Nyl. SPECIES
-=======
+# Lecanora aureola (Tuck.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

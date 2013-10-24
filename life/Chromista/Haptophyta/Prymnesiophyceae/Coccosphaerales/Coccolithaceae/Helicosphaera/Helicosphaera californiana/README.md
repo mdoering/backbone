@@ -1,5 +1,4 @@
-Helicosphaera californiana D. Bukry SPECIES
-=======
+# Helicosphaera californiana D. Bukry SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeocollybia attenuata (A.H. Sm.) Singer SPECIES
-=======
+# Phaeocollybia attenuata (A.H. Sm.) Singer SPECIES
 
 #### Status
 ACCEPTED

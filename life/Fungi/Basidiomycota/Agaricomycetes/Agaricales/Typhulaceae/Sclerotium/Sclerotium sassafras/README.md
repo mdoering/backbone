@@ -1,5 +1,4 @@
-Sclerotium sassafras Schwein. SPECIES
-=======
+# Sclerotium sassafras Schwein. SPECIES
 
 #### Status
 ACCEPTED

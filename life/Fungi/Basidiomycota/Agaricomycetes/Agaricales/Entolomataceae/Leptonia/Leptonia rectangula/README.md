@@ -1,5 +1,4 @@
-Leptonia rectangula Largent SPECIES
-=======
+# Leptonia rectangula Largent SPECIES
 
 #### Status
 ACCEPTED

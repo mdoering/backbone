@@ -1,5 +1,4 @@
-Pterula plumosoides Corner, 1952 SPECIES
-=======
+# Pterula plumosoides Corner, 1952 SPECIES
 
 #### Status
 ACCEPTED

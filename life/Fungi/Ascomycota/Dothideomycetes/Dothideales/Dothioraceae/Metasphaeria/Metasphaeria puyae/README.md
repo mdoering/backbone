@@ -1,5 +1,4 @@
-Metasphaeria puyae Speg. SPECIES
-=======
+# Metasphaeria puyae Speg. SPECIES
 
 #### Status
 ACCEPTED

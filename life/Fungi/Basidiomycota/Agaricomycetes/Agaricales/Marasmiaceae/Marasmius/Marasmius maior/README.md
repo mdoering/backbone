@@ -1,5 +1,4 @@
-Marasmius maior Singer SPECIES
-=======
+# Marasmius maior Singer SPECIES
 
 #### Status
 ACCEPTED

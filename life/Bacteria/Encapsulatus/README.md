@@ -1,5 +1,4 @@
-Encapsulatus GENUS
-=======
+# Encapsulatus GENUS
 
 #### Status
 ACCEPTED

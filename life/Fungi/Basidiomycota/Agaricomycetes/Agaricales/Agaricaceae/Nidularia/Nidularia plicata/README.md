@@ -1,5 +1,4 @@
-Nidularia plicata Fr. SPECIES
-=======
+# Nidularia plicata Fr. SPECIES
 
 #### Status
 ACCEPTED

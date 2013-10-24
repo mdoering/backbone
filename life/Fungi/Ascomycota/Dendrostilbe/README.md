@@ -1,5 +1,4 @@
-Dendrostilbe Dearn. GENUS
-=======
+# Dendrostilbe Dearn. GENUS
 
 #### Status
 ACCEPTED

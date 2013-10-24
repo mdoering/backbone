@@ -1,5 +1,4 @@
-Mucor conoideus Retz. SPECIES
-=======
+# Mucor conoideus Retz. SPECIES
 
 #### Status
 ACCEPTED

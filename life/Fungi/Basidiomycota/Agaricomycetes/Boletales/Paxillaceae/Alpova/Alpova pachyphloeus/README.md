@@ -1,5 +1,4 @@
-Alpova pachyphloeus (Zeller & C.W. Dodge) Trappe SPECIES
-=======
+# Alpova pachyphloeus (Zeller & C.W. Dodge) Trappe SPECIES
 
 #### Status
 ACCEPTED

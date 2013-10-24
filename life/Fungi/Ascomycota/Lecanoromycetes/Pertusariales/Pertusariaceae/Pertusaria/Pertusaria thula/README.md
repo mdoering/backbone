@@ -1,5 +1,4 @@
-Pertusaria thula A. W. Archer SPECIES
-=======
+# Pertusaria thula A. W. Archer SPECIES
 
 #### Status
 ACCEPTED

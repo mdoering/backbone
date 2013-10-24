@@ -1,5 +1,4 @@
-Sporocybe epiphylla (Schwein.) Sacc. SPECIES
-=======
+# Sporocybe epiphylla (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

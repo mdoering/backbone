@@ -1,5 +1,4 @@
-Stagonostroma gigaspora Sousa da Câmara SPECIES
-=======
+# Stagonostroma gigaspora Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

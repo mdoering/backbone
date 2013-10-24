@@ -1,5 +1,4 @@
-Favolaschia papillata (Mont.) Kuntze SPECIES
-=======
+# Favolaschia papillata (Mont.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

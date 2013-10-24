@@ -1,14 +1,13 @@
-Incrustocalyptella pseudopanacis (Agerer) Agerer, 1983 SPECIES
-=======
+# Flagelloscypha pseudopanacis Agerer, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Z. Mykol. 49(2): 163 (1983)
+Sydowia 27: 244 (1975)
 
 #### Original name
 Flagelloscypha pseudopanacis Agerer, 1975

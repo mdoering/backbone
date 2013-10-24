@@ -1,5 +1,4 @@
-Cryptosporium pinicola Linder SPECIES
-=======
+# Cryptosporium pinicola Linder SPECIES
 
 #### Status
 ACCEPTED

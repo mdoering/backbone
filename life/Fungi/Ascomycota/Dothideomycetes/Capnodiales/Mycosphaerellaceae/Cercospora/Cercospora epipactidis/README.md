@@ -1,5 +1,4 @@
-Cercospora epipactidis C. Massal. SPECIES
-=======
+# Cercospora epipactidis C. Massal. SPECIES
 
 #### Status
 ACCEPTED

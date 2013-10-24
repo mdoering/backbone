@@ -1,5 +1,4 @@
-Hornibrookina teuriensis Edwards, 1973 SPECIES
-=======
+# Hornibrookina teuriensis Edwards, 1973 SPECIES
 
 #### Status
 ACCEPTED

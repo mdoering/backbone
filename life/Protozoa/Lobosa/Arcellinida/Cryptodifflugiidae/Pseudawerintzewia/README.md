@@ -1,5 +1,4 @@
-Pseudawerintzewia Bonnet, 1959 GENUS
-=======
+# Pseudawerintzewia Bonnet, 1959 GENUS
 
 #### Status
 ACCEPTED

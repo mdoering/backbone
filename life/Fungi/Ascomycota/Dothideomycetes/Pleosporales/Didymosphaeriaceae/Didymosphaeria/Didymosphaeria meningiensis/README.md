@@ -1,5 +1,4 @@
-Didymosphaeria meningiensis Hansf. SPECIES
-=======
+# Didymosphaeria meningiensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

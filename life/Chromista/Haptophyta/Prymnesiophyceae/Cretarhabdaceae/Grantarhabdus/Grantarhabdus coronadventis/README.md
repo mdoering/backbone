@@ -1,5 +1,4 @@
-Grantarhabdus coronadventis SPECIES
-=======
+# Grantarhabdus coronadventis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus resupinatus Sw. SPECIES
-=======
+# Boletus resupinatus Sw. SPECIES
 
 #### Status
 ACCEPTED

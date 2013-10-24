@@ -1,14 +1,13 @@
-Phallus yunnanensis (M. Zang & R.H. Petersen) Kreisel, 1996 SPECIES
-=======
+# Endophallus yunnanensis M. Zang & R.H. Petersen, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Czech Mycol. 48(4): 276 (1996)
+Mycologia 81(3): 488 (1989)
 
 #### Original name
 Endophallus yunnanensis M. Zang & R.H. Petersen, 1989

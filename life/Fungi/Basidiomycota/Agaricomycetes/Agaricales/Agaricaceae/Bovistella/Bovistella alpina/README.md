@@ -1,5 +1,4 @@
-Bovistella alpina D.A. Reid SPECIES
-=======
+# Bovistella alpina D.A. Reid SPECIES
 
 #### Status
 ACCEPTED

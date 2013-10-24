@@ -1,5 +1,4 @@
-Septoria centaureicola Brunaud SPECIES
-=======
+# Septoria centaureicola Brunaud SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dothidea quercina Berk. SPECIES
-=======
+# Dothidea quercina Berk. SPECIES
 
 #### Status
 ACCEPTED

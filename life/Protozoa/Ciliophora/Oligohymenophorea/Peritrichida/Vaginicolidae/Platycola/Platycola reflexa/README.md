@@ -1,5 +1,4 @@
-Platycola reflexa (Mermod, ?) Kahl, 1932 SPECIES
-=======
+# Platycola reflexa (Mermod, ?) Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cetraria lanata (Neck.) Schaer. SPECIES
-=======
+# Cetraria lanata (Neck.) Schaer. SPECIES
 
 #### Status
 ACCEPTED

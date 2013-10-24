@@ -1,5 +1,4 @@
-Meliola maculosa Ellis SPECIES
-=======
+# Meliola maculosa Ellis SPECIES
 
 #### Status
 ACCEPTED

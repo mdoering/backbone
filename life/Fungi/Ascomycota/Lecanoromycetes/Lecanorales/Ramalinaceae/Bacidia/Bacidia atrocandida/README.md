@@ -1,5 +1,4 @@
-Bacidia atrocandida (Eitner) Lettau SPECIES
-=======
+# Bacidia atrocandida (Eitner) Lettau SPECIES
 
 #### Status
 ACCEPTED

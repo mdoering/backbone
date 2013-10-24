@@ -1,5 +1,4 @@
-Mucor humilis Naumov SPECIES
-=======
+# Mucor humilis Naumov SPECIES
 
 #### Status
 ACCEPTED

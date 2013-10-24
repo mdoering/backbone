@@ -1,5 +1,4 @@
-Lobaria yakusimensis Asahina SPECIES
-=======
+# Lobaria yakusimensis Asahina SPECIES
 
 #### Status
 ACCEPTED

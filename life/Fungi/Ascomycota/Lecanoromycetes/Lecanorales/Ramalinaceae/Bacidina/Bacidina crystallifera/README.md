@@ -1,5 +1,4 @@
-Bacidina crystallifera S. Ekman SPECIES
-=======
+# Bacidina crystallifera S. Ekman SPECIES
 
 #### Status
 ACCEPTED

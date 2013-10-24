@@ -1,17 +1,16 @@
-Chevalieria G. Arnaud GENUS
-=======
+# Chevalieropsis G. Arnaud GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-C. r. hebd. Séanc. Acad. Sci. , Paris 170: 203 (1920)
+Annls Épiphyt. 9: 2 (1923)
 
 #### Original name
-Chevalieria G. Arnaud
+Chevalieropsis G. Arnaud
 
 ### Remarks
 null

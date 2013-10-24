@@ -1,5 +1,4 @@
-Meliola carpolobiicola Hansf. & Deighton SPECIES
-=======
+# Meliola carpolobiicola Hansf. & Deighton SPECIES
 
 #### Status
 ACCEPTED

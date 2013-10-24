@@ -1,5 +1,4 @@
-Dipodomyces Thaxt. GENUS
-=======
+# Dipodomyces Thaxt. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Filaspora campanulae (Fautrey) Kuntze SPECIES
-=======
+# Filaspora campanulae (Fautrey) Kuntze SPECIES
 
 #### Status
 ACCEPTED

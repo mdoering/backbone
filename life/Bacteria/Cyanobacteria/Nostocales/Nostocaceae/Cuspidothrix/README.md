@@ -1,5 +1,4 @@
-Cuspidothrix Rajaniemi, Komárek, Willame, Hrouzek, Ka, 2005 GENUS
-=======
+# Cuspidothrix Rajaniemi, Komárek, Willame, Hrouzek, Ka, 2005 GENUS
 
 #### Status
 ACCEPTED

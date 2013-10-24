@@ -1,5 +1,4 @@
-Tremella cornuta Pers. SPECIES
-=======
+# Tremella cornuta Pers. SPECIES
 
 #### Status
 ACCEPTED

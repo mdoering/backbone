@@ -1,5 +1,4 @@
-Cannopilus quintus D. Bukry & J. H. Foster SPECIES
-=======
+# Cannopilus quintus D. Bukry & J. H. Foster SPECIES
 
 #### Status
 ACCEPTED

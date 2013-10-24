@@ -1,5 +1,4 @@
-Ustilago anhweiana Zundel SPECIES
-=======
+# Ustilago anhweiana Zundel SPECIES
 
 #### Status
 ACCEPTED

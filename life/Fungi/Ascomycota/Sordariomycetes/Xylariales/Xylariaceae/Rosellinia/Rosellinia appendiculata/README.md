@@ -1,5 +1,4 @@
-Rosellinia appendiculata Berl. & Voglino SPECIES
-=======
+# Rosellinia appendiculata Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

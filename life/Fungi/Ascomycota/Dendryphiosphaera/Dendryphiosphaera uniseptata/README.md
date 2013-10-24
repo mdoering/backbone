@@ -1,5 +1,4 @@
-Dendryphiosphaera uniseptata R.F. Castañeda & Guarro SPECIES
-=======
+# Dendryphiosphaera uniseptata R.F. Castañeda & Guarro SPECIES
 
 #### Status
 ACCEPTED

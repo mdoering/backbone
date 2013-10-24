@@ -1,5 +1,4 @@
-Diplodia brachyspora Sacc. SPECIES
-=======
+# Diplodia brachyspora Sacc. SPECIES
 
 #### Status
 ACCEPTED

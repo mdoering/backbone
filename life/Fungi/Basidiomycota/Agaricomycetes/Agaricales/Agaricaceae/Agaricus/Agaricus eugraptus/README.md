@@ -1,5 +1,4 @@
-Agaricus eugraptus Berk. & Broome SPECIES
-=======
+# Agaricus eugraptus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Devriesia shelburniensis N.L. Nick. & Seifert, 2004 SPECIES
-=======
+# Devriesia shelburniensis N.L. Nick. & Seifert, 2004 SPECIES
 
 #### Status
 ACCEPTED

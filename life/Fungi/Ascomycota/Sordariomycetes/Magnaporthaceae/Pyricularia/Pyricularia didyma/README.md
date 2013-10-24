@@ -1,5 +1,4 @@
-Pyricularia didyma M.B. Ellis SPECIES
-=======
+# Pyricularia didyma M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

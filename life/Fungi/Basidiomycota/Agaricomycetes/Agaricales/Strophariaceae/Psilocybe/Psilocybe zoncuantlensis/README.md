@@ -1,5 +1,4 @@
-Psilocybe zoncuantlensis Guzmán & Ram.-Guill. SPECIES
-=======
+# Psilocybe zoncuantlensis Guzmán & Ram.-Guill. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Baggea pachyascus var. macrospora Magnes, Scheuer & Söderh. VARIETY
-=======
+# Baggea pachyascus Auersw., 1866 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 68: 321 (1998)
+Hedwigia 5: (1866)
 
 #### Original name
-Baggea pachyascus var. macrospora Magnes, Scheuer & Söderh.
+Baggea pachyascus Auersw., 1866
 
 ### Remarks
 null

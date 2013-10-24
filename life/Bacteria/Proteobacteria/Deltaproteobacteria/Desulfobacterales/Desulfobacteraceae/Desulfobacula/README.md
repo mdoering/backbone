@@ -1,5 +1,4 @@
-Desulfobacula Rabus et al., 2000 GENUS
-=======
+# Desulfobacula Rabus et al., 2000 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cystothyrium magellanicum Speg. SPECIES
-=======
+# Cystothyrium magellanicum Speg. SPECIES
 
 #### Status
 ACCEPTED

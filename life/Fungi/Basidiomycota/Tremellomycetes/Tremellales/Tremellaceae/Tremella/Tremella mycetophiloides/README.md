@@ -1,5 +1,4 @@
-Tremella mycetophiloides Kobayasi SPECIES
-=======
+# Tremella mycetophiloides Kobayasi SPECIES
 
 #### Status
 ACCEPTED

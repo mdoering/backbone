@@ -1,5 +1,4 @@
-Loriella A. Borzì, 1892 GENUS
-=======
+# Loriella A. Borzì, 1892 GENUS
 
 #### Status
 ACCEPTED

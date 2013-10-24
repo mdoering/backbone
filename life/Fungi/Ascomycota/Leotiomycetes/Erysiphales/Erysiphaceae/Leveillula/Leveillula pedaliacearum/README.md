@@ -1,5 +1,4 @@
-Leveillula pedaliacearum Golovin SPECIES
-=======
+# Leveillula pedaliacearum Golovin SPECIES
 
 #### Status
 ACCEPTED

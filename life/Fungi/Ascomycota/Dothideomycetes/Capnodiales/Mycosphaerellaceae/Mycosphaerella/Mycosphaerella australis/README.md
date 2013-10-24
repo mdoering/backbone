@@ -1,5 +1,4 @@
-Mycosphaerella australis (Speg.) Lindau SPECIES
-=======
+# Mycosphaerella australis (Speg.) Lindau SPECIES
 
 #### Status
 ACCEPTED

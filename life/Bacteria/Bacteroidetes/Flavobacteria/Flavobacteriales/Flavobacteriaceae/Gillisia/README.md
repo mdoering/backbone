@@ -1,5 +1,4 @@
-Gillisia Van Trappen, Vandecandelaere, Mergaert & Swings, 2006 GENUS
-=======
+# Gillisia Van Trappen, Vandecandelaere, Mergaert & Swings, 2006 GENUS
 
 #### Status
 ACCEPTED

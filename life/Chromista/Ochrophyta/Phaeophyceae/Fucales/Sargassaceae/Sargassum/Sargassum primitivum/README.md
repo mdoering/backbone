@@ -1,5 +1,4 @@
-Sargassum primitivum Tseng & Lu SPECIES
-=======
+# Sargassum primitivum Tseng & Lu SPECIES
 
 #### Status
 ACCEPTED

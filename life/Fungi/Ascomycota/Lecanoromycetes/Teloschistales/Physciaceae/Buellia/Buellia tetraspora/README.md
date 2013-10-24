@@ -1,5 +1,4 @@
-Buellia tetraspora (De Not.) Jatta SPECIES
-=======
+# Buellia tetraspora (De Not.) Jatta SPECIES
 
 #### Status
 ACCEPTED

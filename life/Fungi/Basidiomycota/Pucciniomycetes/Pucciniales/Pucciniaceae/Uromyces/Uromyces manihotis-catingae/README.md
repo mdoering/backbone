@@ -1,5 +1,4 @@
-Uromyces manihotis-catingae Henn. SPECIES
-=======
+# Uromyces manihotis-catingae Henn. SPECIES
 
 #### Status
 ACCEPTED

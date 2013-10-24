@@ -1,17 +1,16 @@
-Puccinia tricopterygiphila Gjaerum SPECIES
-=======
+# Puccinia trichopterygiphila Gjaerum SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 31(2): 364 (1988)
 
 #### Original name
-Puccinia tricopterygiphila Gjaerum
+Puccinia trichopterygiphila Gjaerum
 
 ### Remarks
 null

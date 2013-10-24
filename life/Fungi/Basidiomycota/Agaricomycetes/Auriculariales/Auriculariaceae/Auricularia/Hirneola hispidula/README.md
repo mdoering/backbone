@@ -1,5 +1,4 @@
-Hirneola hispidula Berk. SPECIES
-=======
+# Hirneola hispidula Berk. SPECIES
 
 #### Status
 ACCEPTED

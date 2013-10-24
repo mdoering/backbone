@@ -1,5 +1,4 @@
-Pseudophacidium betulae Rehm SPECIES
-=======
+# Pseudophacidium betulae Rehm SPECIES
 
 #### Status
 ACCEPTED

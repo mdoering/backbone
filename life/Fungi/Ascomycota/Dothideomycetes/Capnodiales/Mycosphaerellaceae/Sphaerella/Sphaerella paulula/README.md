@@ -1,5 +1,4 @@
-Sphaerella paulula Cooke SPECIES
-=======
+# Sphaerella paulula Cooke SPECIES
 
 #### Status
 ACCEPTED

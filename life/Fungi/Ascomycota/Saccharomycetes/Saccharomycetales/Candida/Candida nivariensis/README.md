@@ -1,5 +1,4 @@
-Candida nivariensis Alcoba-Flórez, Méndez-Álv., Cano, Guarro, Pérez-Roth & Arévalo SPECIES
-=======
+# Candida nivariensis Alcoba-Flórez, Méndez-Álv., Cano, Guarro, Pérez-Roth & Arévalo SPECIES
 
 #### Status
 ACCEPTED

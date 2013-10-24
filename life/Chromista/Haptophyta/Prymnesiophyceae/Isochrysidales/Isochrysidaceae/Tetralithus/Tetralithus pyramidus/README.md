@@ -1,5 +1,4 @@
-Tetralithus pyramidus Gardet, 1955 SPECIES
-=======
+# Tetralithus pyramidus Gardet, 1955 SPECIES
 
 #### Status
 ACCEPTED

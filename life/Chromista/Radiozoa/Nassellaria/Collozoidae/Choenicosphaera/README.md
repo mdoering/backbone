@@ -1,5 +1,4 @@
-Choenicosphaera Haeckel, 1887 GENUS
-=======
+# Choenicosphaera Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

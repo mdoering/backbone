@@ -1,5 +1,4 @@
-Gloeosporium ligustrinum Sacc. SPECIES
-=======
+# Gloeosporium ligustrinum Sacc. SPECIES
 
 #### Status
 ACCEPTED

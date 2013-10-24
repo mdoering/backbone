@@ -1,5 +1,4 @@
-Cystangium phymatodisporum G.W. Beaton, Pegler & T.W.K. Young, 1984 SPECIES
-=======
+# Cystangium phymatodisporum G.W. Beaton, Pegler & T.W.K. Young, 1984 SPECIES
 
 #### Status
 ACCEPTED

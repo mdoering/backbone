@@ -1,5 +1,4 @@
-Discosia subramanianii Vanev SPECIES
-=======
+# Discosia subramanianii Vanev SPECIES
 
 #### Status
 ACCEPTED

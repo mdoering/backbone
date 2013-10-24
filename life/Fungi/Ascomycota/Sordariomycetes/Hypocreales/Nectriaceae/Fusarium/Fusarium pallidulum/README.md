@@ -1,5 +1,4 @@
-Fusarium pallidulum Sacc. & Trotter SPECIES
-=======
+# Fusarium pallidulum Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

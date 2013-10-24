@@ -1,5 +1,4 @@
-Tunstallia Agnihothrudu, 1961 GENUS
-=======
+# Tunstallia Agnihothrudu, 1961 GENUS
 
 #### Status
 ACCEPTED

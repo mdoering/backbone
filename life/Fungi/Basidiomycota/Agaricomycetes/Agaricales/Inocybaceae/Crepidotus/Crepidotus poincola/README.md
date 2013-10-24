@@ -1,5 +1,4 @@
-Crepidotus poincola Velen. SPECIES
-=======
+# Crepidotus poincola Velen. SPECIES
 
 #### Status
 ACCEPTED

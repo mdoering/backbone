@@ -1,5 +1,4 @@
-Xylaria melanura Lév. SPECIES
-=======
+# Xylaria melanura Lév. SPECIES
 
 #### Status
 ACCEPTED

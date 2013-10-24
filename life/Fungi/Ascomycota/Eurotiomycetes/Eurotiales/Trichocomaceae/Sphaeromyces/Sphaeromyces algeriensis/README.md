@@ -1,5 +1,4 @@
-Sphaeromyces algeriensis Durieu & Mont. SPECIES
-=======
+# Sphaeromyces algeriensis Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Geopyxis harmoge (Berk. & Broome) Sacc. SPECIES
-=======
+# Geopyxis harmoge (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

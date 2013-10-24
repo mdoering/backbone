@@ -1,14 +1,13 @@
-Trullula tropica (Auersw. & Rabenh.) Sacc., 1884 SPECIES
-=======
+# Corynelia tropica (Auersw. & Rabenh.) Starbäck, 1905 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 3: 732 (1884)
+Ark. Bot. 5(7): 20 (1905)
 
 #### Original name
 Endohormidium tropicum Auersw. & Rabenh., 1869

@@ -1,5 +1,4 @@
-Gymnodinium lobularis SPECIES
-=======
+# Gymnodinium lobularis SPECIES
 
 #### Status
 ACCEPTED

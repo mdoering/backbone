@@ -1,5 +1,4 @@
-Huea cretacea (Müll. Arg.) C.W. Dodge SPECIES
-=======
+# Huea cretacea (Müll. Arg.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

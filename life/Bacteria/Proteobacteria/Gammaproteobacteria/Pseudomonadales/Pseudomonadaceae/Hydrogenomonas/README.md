@@ -1,5 +1,4 @@
-Hydrogenomonas GENUS
-=======
+# Hydrogenomonas GENUS
 
 #### Status
 ACCEPTED

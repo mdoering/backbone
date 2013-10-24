@@ -1,5 +1,4 @@
-Capsulospora trachycarpa Joanne E. Taylor, K.D. Hyde & E.B.G. Jones SPECIES
-=======
+# Capsulospora trachycarpa Joanne E. Taylor, K.D. Hyde & E.B.G. Jones SPECIES
 
 #### Status
 ACCEPTED

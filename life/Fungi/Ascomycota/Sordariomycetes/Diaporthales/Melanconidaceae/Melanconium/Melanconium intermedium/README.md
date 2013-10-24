@@ -1,5 +1,4 @@
-Melanconium intermedium Peck SPECIES
-=======
+# Melanconium intermedium Peck SPECIES
 
 #### Status
 ACCEPTED

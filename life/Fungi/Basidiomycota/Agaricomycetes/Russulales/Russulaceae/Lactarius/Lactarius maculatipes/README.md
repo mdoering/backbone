@@ -1,17 +1,16 @@
-Lactaria maculatipes Burl. SPECIES
-=======
+# Lactarius maculatipes Burl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 34(1): 8 (1942)
 
 #### Original name
-Lactaria maculatipes Burl.
+Lactarius maculatipes Burl.
 
 ### Remarks
 null

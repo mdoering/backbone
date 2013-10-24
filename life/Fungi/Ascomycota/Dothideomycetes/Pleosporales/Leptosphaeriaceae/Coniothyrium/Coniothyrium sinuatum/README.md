@@ -1,5 +1,4 @@
-Coniothyrium sinuatum P. Karst. ex Petr. & Syd. SPECIES
-=======
+# Coniothyrium sinuatum P. Karst. ex Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

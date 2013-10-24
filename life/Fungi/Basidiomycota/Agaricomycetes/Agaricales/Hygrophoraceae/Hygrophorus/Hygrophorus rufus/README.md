@@ -1,5 +1,4 @@
-Hygrophorus rufus Petch SPECIES
-=======
+# Hygrophorus rufus Petch SPECIES
 
 #### Status
 ACCEPTED

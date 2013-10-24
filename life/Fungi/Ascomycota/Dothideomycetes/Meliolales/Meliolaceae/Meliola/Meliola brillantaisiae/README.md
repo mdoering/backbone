@@ -1,5 +1,4 @@
-Meliola brillantaisiae Hansf. & Deighton SPECIES
-=======
+# Meliola brillantaisiae Hansf. & Deighton SPECIES
 
 #### Status
 ACCEPTED

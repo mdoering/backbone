@@ -1,5 +1,4 @@
-Multicellaesporites leptaleus P. Ke & Z.Y. Shi SPECIES
-=======
+# Multicellaesporites leptaleus P. Ke & Z.Y. Shi SPECIES
 
 #### Status
 ACCEPTED

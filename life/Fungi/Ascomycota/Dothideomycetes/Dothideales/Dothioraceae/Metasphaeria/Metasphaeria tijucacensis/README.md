@@ -1,5 +1,4 @@
-Metasphaeria tijucacensis Rehm SPECIES
-=======
+# Metasphaeria tijucacensis Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrophorus glanduliformis Berk. & Broome SPECIES
-=======
+# Hygrophorus glanduliformis Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

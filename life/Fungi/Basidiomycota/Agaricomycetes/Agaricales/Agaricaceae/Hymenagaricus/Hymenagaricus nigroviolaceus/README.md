@@ -1,5 +1,4 @@
-Hymenagaricus nigroviolaceus Heinem. SPECIES
-=======
+# Hymenagaricus nigroviolaceus Heinem. SPECIES
 
 #### Status
 ACCEPTED

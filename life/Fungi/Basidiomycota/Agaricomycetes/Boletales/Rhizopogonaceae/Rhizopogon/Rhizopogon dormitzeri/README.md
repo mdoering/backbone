@@ -1,5 +1,4 @@
-Rhizopogon dormitzeri Corda SPECIES
-=======
+# Rhizopogon dormitzeri Corda SPECIES
 
 #### Status
 ACCEPTED

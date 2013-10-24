@@ -1,5 +1,4 @@
-Agaricus xanthoderma var. xanthoderma VARIETY
-=======
+# Agaricus xanthoderma Genev. SPECIES
 
 #### Status
 ACCEPTED

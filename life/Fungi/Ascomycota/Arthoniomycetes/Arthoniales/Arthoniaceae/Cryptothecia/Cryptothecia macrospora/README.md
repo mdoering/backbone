@@ -1,5 +1,4 @@
-Cryptothecia macrospora Makhija & Patw. SPECIES
-=======
+# Cryptothecia macrospora Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

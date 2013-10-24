@@ -1,5 +1,4 @@
-Pleurotus spathulatus Boedijn SPECIES
-=======
+# Pleurotus spathulatus Boedijn SPECIES
 
 #### Status
 ACCEPTED

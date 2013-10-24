@@ -1,5 +1,4 @@
-Hydnellum sanguinarium Banker SPECIES
-=======
+# Hydnellum sanguinarium Banker SPECIES
 
 #### Status
 ACCEPTED

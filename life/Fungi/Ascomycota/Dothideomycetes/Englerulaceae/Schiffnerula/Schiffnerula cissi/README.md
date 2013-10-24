@@ -1,5 +1,4 @@
-Schiffnerula cissi Hansf. SPECIES
-=======
+# Schiffnerula cissi Hansf. SPECIES
 
 #### Status
 ACCEPTED

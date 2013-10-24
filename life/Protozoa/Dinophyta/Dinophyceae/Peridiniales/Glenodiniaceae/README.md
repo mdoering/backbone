@@ -1,5 +1,4 @@
-Glenodiniaceae FAMILY
-=======
+# Glenodiniaceae FAMILY
 
 #### Status
 ACCEPTED

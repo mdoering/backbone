@@ -1,5 +1,4 @@
-Bacidia leucotripta SPECIES
-=======
+# Bacidia leucotripta SPECIES
 
 #### Status
 ACCEPTED

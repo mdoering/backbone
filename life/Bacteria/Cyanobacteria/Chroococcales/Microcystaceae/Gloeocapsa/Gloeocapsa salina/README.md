@@ -1,5 +1,4 @@
-Gloeocapsa salina Hansgirg SPECIES
-=======
+# Gloeocapsa salina Hansgirg SPECIES
 
 #### Status
 ACCEPTED

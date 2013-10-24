@@ -1,5 +1,4 @@
-Coniothyrium rhinanthi Died. SPECIES
-=======
+# Coniothyrium rhinanthi Died. SPECIES
 
 #### Status
 ACCEPTED

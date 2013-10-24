@@ -1,5 +1,4 @@
-Erysiphe fumosa Sacc. SPECIES
-=======
+# Erysiphe fumosa Sacc. SPECIES
 
 #### Status
 ACCEPTED

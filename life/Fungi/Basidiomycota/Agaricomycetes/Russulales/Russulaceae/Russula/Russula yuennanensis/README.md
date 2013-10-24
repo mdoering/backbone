@@ -1,5 +1,4 @@
-Russula yuennanensis (Singer) Singer SPECIES
-=======
+# Russula yuennanensis (Singer) Singer SPECIES
 
 #### Status
 ACCEPTED

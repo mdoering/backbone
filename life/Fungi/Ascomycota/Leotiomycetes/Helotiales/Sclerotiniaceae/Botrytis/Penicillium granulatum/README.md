@@ -1,5 +1,4 @@
-Penicillium granulatum Bainier, 1905 SPECIES
-=======
+# Penicillium granulatum Bainier, 1905 SPECIES
 
 #### Status
 DOUBTFUL

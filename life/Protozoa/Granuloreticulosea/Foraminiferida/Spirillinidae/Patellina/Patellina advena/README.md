@@ -1,5 +1,4 @@
-Patellina advena Cushman SPECIES
-=======
+# Patellina advena Cushman SPECIES
 
 #### Status
 ACCEPTED

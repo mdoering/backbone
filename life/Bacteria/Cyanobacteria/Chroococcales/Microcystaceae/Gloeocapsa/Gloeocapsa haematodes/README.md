@@ -1,5 +1,4 @@
-Gloeocapsa haematodes Kützing SPECIES
-=======
+# Gloeocapsa haematodes Kützing SPECIES
 
 #### Status
 ACCEPTED

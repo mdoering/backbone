@@ -1,14 +1,13 @@
-Discula lineolata (Desm.) Höhn. SPECIES
-=======
+# Phoma lineolata Desm., 1825 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Pl. Crypt. 2: no. 58 (1825)
 
 #### Original name
 Phoma lineolata Desm., 1825

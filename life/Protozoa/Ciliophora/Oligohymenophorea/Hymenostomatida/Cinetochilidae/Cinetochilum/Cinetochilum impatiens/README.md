@@ -1,5 +1,4 @@
-Cinetochilum impatiens Penard, 1922 SPECIES
-=======
+# Cinetochilum impatiens Penard, 1922 SPECIES
 
 #### Status
 ACCEPTED

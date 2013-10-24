@@ -1,5 +1,4 @@
-Triposolenia truncata Kofoid SPECIES
-=======
+# Triposolenia truncata Kofoid SPECIES
 
 #### Status
 ACCEPTED

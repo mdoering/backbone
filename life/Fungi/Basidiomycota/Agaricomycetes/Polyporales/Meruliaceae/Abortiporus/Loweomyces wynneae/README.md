@@ -1,17 +1,16 @@
-Polyporus wynneae f. wynneae FORM
-=======
+# Loweomyces wynneae (Berk. & Broome) Jülich, 1982 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mag. nat. Hist. , Ser. 3 3: 359 (1859)
+Persoonia 11(4): 424 (1982)
 
 #### Original name
-Polyporus wynneae f. wynneae
+Polyporus wynneae Berk. & Broome, 1859
 
 ### Remarks
 null

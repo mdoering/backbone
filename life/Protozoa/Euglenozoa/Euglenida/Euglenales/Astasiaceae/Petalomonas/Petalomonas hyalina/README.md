@@ -1,5 +1,4 @@
-Petalomonas hyalina Christen SPECIES
-=======
+# Petalomonas hyalina Christen SPECIES
 
 #### Status
 ACCEPTED

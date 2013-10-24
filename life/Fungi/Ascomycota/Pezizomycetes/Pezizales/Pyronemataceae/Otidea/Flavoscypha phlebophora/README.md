@@ -1,17 +1,16 @@
-Otidea concinna f. integra Bres., 1898 FORM
-=======
+# Flavoscypha phlebophora (Berk. & Broome) Harmaja, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Karstenia 14: 107 (1974)
 
 #### Original name
-Otidea concinna f. integra Bres., 1898
+Peziza phlebophora Berk. & Broome, 1866
 
 ### Remarks
 null

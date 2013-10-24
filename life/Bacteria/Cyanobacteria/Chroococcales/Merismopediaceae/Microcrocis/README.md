@@ -1,5 +1,4 @@
-Microcrocis Richter, 1892 GENUS
-=======
+# Microcrocis Richter, 1892 GENUS
 
 #### Status
 ACCEPTED

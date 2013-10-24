@@ -1,5 +1,4 @@
-Thyronectria rhodochlora (Mont.) Seeler SPECIES
-=======
+# Thyronectria rhodochlora (Mont.) Seeler SPECIES
 
 #### Status
 ACCEPTED

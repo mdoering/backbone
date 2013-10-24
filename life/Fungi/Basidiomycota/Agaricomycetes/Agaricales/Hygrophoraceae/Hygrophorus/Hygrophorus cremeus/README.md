@@ -1,5 +1,4 @@
-Hygrophorus cremeus (Murrill) Dennis SPECIES
-=======
+# Hygrophorus cremeus (Murrill) Dennis SPECIES
 
 #### Status
 ACCEPTED

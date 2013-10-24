@@ -1,5 +1,4 @@
-Cenangium catervatum Kirschst. SPECIES
-=======
+# Cenangium catervatum Kirschst. SPECIES
 
 #### Status
 ACCEPTED

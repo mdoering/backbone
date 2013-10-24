@@ -1,5 +1,4 @@
-Hydnum balsameum Peck SPECIES
-=======
+# Hydnum balsameum Peck SPECIES
 
 #### Status
 ACCEPTED

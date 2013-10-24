@@ -1,5 +1,4 @@
-Poria hypobrunnea Petch, 1916 SPECIES
-=======
+# Poria hypobrunnea Petch, 1916 SPECIES
 
 #### Status
 ACCEPTED

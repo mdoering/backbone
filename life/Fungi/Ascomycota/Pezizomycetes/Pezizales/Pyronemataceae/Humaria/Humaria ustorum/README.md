@@ -1,5 +1,4 @@
-Humaria ustorum (Berk. & Broome) Sacc. SPECIES
-=======
+# Humaria ustorum (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Pseudocercospora tremicola Kamal, P. Kumar, R.P. Singh & D.N. Shukla SPECIES
-=======
+# Pseudocercospora trematicola Kamal, P. Kumar, R.P. Singh & D.N. Shukla SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Phytopath. 33(1): 56 (1980)
 
 #### Original name
-Pseudocercospora tremicola Kamal, P. Kumar, R.P. Singh & D.N. Shukla
+Pseudocercospora trematicola Kamal, P. Kumar, R.P. Singh & D.N. Shukla
 
 ### Remarks
 null

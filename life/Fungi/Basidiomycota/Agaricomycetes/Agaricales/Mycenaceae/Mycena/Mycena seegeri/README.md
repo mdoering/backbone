@@ -1,5 +1,4 @@
-Mycena seegeri Garrido SPECIES
-=======
+# Mycena seegeri Garrido SPECIES
 
 #### Status
 ACCEPTED

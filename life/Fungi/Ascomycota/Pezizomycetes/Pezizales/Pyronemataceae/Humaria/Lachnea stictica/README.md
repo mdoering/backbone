@@ -1,5 +1,4 @@
-Lachnea stictica (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Lachnea stictica (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

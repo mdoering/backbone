@@ -1,5 +1,4 @@
-Hirneola nigricans (Sw.) Donk SPECIES
-=======
+# Hirneola nigricans (Sw.) Donk SPECIES
 
 #### Status
 ACCEPTED

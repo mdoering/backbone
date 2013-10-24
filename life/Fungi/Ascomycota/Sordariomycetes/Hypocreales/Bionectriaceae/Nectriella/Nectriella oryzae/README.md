@@ -1,5 +1,4 @@
-Nectriella oryzae Hara SPECIES
-=======
+# Nectriella oryzae Hara SPECIES
 
 #### Status
 ACCEPTED

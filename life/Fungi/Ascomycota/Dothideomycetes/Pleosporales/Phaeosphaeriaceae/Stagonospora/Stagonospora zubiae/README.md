@@ -1,5 +1,4 @@
-Stagonospora zubiae Caball. SPECIES
-=======
+# Stagonospora zubiae Caball. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tyromyces tibeticus J.D. Zhao & X.Q. Zhang SPECIES
-=======
+# Tyromyces tibeticus J.D. Zhao & X.Q. Zhang SPECIES
 
 #### Status
 ACCEPTED

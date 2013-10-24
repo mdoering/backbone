@@ -1,5 +1,4 @@
-Involucrothele auruntii (A. Massal.) Servít SPECIES
-=======
+# Involucrothele auruntii (A. Massal.) Servít SPECIES
 
 #### Status
 ACCEPTED

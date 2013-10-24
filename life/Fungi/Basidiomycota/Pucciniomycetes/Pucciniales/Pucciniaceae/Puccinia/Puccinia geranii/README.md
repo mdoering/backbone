@@ -1,5 +1,4 @@
-Puccinia geranii Lév. SPECIES
-=======
+# Puccinia geranii Lév. SPECIES
 
 #### Status
 ACCEPTED

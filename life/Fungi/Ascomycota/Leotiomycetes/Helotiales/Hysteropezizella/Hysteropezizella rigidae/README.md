@@ -1,5 +1,4 @@
-Hysteropezizella rigidae Nannf. SPECIES
-=======
+# Hysteropezizella rigidae Nannf. SPECIES
 
 #### Status
 ACCEPTED

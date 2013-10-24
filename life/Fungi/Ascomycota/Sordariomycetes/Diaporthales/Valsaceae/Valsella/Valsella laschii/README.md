@@ -1,5 +1,4 @@
-Valsella laschii (Nitschke) Sacc. SPECIES
-=======
+# Valsella laschii (Nitschke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

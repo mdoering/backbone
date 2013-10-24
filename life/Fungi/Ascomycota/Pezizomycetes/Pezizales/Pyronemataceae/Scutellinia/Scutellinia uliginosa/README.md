@@ -1,5 +1,4 @@
-Scutellinia uliginosa L.R. Batra SPECIES
-=======
+# Scutellinia uliginosa L.R. Batra SPECIES
 
 #### Status
 ACCEPTED

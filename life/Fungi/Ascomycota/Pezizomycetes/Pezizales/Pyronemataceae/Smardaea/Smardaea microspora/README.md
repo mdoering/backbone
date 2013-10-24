@@ -1,5 +1,4 @@
-Smardaea microspora J.Z. Cao, L. Fan & B. Liu SPECIES
-=======
+# Smardaea microspora J.Z. Cao, L. Fan & B. Liu SPECIES
 
 #### Status
 ACCEPTED

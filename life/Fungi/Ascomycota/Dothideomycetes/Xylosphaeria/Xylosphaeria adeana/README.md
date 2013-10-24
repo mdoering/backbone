@@ -1,5 +1,4 @@
-Xylosphaeria adeana (Rehm) Petr. SPECIES
-=======
+# Xylosphaeria adeana (Rehm) Petr. SPECIES
 
 #### Status
 ACCEPTED

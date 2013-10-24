@@ -1,8 +1,7 @@
-Xyloma arundinaceum DC., 1815 SPECIES
-=======
+# Pyrenopeziza arundinacea (DC.) Boud., 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Xyloma arundinacea DC.
 
 ### Remarks
 null

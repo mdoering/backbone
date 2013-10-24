@@ -1,5 +1,4 @@
-Mycobacterium fortuitum subsp. fortuitum da Costa Cruz, 1938 SUBSPECIES
-=======
+# Mycobacterium fortuitum da Costa Cruz, 1938 SPECIES
 
 #### Status
 ACCEPTED

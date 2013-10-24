@@ -1,5 +1,4 @@
-Gloiogullmia eurystoma Nyholm, 1974 SPECIES
-=======
+# Gloiogullmia eurystoma Nyholm, 1974 SPECIES
 
 #### Status
 ACCEPTED

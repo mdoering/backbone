@@ -1,5 +1,4 @@
-Lecanora portoricensis Fink SPECIES
-=======
+# Lecanora portoricensis Fink SPECIES
 
 #### Status
 ACCEPTED

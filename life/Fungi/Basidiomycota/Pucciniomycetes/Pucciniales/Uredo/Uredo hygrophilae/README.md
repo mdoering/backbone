@@ -1,5 +1,4 @@
-Uredo hygrophilae Syd. & P. Syd. SPECIES
-=======
+# Uredo hygrophilae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

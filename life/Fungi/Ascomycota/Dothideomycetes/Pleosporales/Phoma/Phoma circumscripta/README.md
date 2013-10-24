@@ -1,5 +1,4 @@
-Phoma circumscripta Cooke SPECIES
-=======
+# Phoma circumscripta Cooke SPECIES
 
 #### Status
 ACCEPTED

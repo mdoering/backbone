@@ -1,5 +1,4 @@
-Oxalobacter Allison, Dawson, Mayberry & Foss, 1985 GENUS
-=======
+# Oxalobacter Allison, Dawson, Mayberry & Foss, 1985 GENUS
 
 #### Status
 ACCEPTED

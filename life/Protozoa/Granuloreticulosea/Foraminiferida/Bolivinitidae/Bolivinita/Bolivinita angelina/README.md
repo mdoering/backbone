@@ -1,5 +1,4 @@
-Bolivinita angelina Church, 1928 SPECIES
-=======
+# Bolivinita angelina Church, 1928 SPECIES
 
 #### Status
 ACCEPTED

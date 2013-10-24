@@ -1,5 +1,4 @@
-Pseudanabaena schmidlei Jaag SPECIES
-=======
+# Pseudanabaena schmidlei Jaag SPECIES
 
 #### Status
 ACCEPTED

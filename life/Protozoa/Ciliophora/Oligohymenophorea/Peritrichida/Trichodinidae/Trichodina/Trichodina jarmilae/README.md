@@ -1,5 +1,4 @@
-Trichodina jarmilae Lom & Laird, 1969 SPECIES
-=======
+# Trichodina jarmilae Lom & Laird, 1969 SPECIES
 
 #### Status
 ACCEPTED

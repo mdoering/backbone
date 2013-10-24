@@ -1,5 +1,4 @@
-Stilbum perexiguum Penz. & Sacc. SPECIES
-=======
+# Stilbum perexiguum Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

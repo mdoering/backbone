@@ -1,5 +1,4 @@
-Lecidea brabantica C.W. Dodge SPECIES
-=======
+# Lecidea brabantica C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

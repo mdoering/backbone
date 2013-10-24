@@ -1,5 +1,4 @@
-Erysiphe coriariae (Y. Nomura) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe coriariae (Y. Nomura) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

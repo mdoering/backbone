@@ -1,5 +1,4 @@
-Scolecostigmina beshirii (M.B. Ellis) U. Braun SPECIES
-=======
+# Scolecostigmina beshirii (M.B. Ellis) U. Braun SPECIES
 
 #### Status
 ACCEPTED

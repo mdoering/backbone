@@ -1,5 +1,4 @@
-Aleurodiscus triviale (Speg.) Gresl. SPECIES
-=======
+# Aleurodiscus triviale (Speg.) Gresl. SPECIES
 
 #### Status
 ACCEPTED

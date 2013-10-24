@@ -1,5 +1,4 @@
-Sphaceloma meliae Bitanc. & Jenkins SPECIES
-=======
+# Sphaceloma meliae Bitanc. & Jenkins SPECIES
 
 #### Status
 ACCEPTED

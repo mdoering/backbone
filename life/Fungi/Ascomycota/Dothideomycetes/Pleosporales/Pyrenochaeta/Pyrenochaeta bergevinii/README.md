@@ -1,5 +1,4 @@
-Pyrenochaeta bergevinii Rolland SPECIES
-=======
+# Pyrenochaeta bergevinii Rolland SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Massartia crassifilum Schiller SPECIES
-=======
+# Katodinium fungiforme (Anissimova) A.R. Loeblich Iii SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Collybia coagulata (Berk. & Broome) Sacc. SPECIES
-=======
+# Collybia coagulata (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

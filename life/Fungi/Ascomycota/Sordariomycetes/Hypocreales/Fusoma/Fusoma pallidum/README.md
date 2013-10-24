@@ -1,5 +1,4 @@
-Fusoma pallidum Bonord. SPECIES
-=======
+# Fusoma pallidum Bonord. SPECIES
 
 #### Status
 ACCEPTED

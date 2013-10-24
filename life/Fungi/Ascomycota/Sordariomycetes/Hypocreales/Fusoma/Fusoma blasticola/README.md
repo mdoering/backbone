@@ -1,5 +1,4 @@
-Fusoma blasticola (Rostr.) Sacc. & Traverso SPECIES
-=======
+# Fusoma blasticola (Rostr.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

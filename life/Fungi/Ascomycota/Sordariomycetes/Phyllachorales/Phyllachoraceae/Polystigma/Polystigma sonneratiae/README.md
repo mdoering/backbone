@@ -1,5 +1,4 @@
-Polystigma sonneratiae Petr., 1931 SPECIES
-=======
+# Polystigma sonneratiae Petr., 1931 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllachora espeletiae Syd., 1914 SPECIES
-=======
+# Phyllachora espeletiae Syd., 1914 SPECIES
 
 #### Status
 ACCEPTED

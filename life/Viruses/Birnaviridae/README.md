@@ -1,5 +1,4 @@
-Birnaviridae FAMILY
-=======
+# Birnaviridae FAMILY
 
 #### Status
 ACCEPTED

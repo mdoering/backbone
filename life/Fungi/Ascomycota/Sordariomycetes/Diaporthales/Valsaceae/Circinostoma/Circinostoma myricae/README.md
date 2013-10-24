@@ -1,5 +1,4 @@
-Circinostoma myricae (Cooke & Ellis) House SPECIES
-=======
+# Circinostoma myricae (Cooke & Ellis) House SPECIES
 
 #### Status
 ACCEPTED

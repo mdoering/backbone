@@ -1,5 +1,4 @@
-Exoascus kruchii Vuill. SPECIES
-=======
+# Exoascus kruchii Vuill. SPECIES
 
 #### Status
 ACCEPTED

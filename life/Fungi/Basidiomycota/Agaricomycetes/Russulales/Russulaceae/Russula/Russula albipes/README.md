@@ -1,5 +1,4 @@
-Russula albipes H. Raab SPECIES
-=======
+# Russula albipes H. Raab SPECIES
 
 #### Status
 ACCEPTED

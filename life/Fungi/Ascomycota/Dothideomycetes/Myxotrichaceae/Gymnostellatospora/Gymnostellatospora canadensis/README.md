@@ -1,5 +1,4 @@
-Gymnostellatospora canadensis T.C. Lumley, Sigler & Currah SPECIES
-=======
+# Gymnostellatospora canadensis T.C. Lumley, Sigler & Currah SPECIES
 
 #### Status
 ACCEPTED

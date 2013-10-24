@@ -1,5 +1,4 @@
-Hymenogaster subcaeruleus A.H. Sm. SPECIES
-=======
+# Hymenogaster subcaeruleus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

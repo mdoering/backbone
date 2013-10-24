@@ -1,5 +1,4 @@
-Melampsoridium caprearum (Thüm.) SPECIES
-=======
+# Melampsoridium caprearum (Thüm.) SPECIES
 
 #### Status
 ACCEPTED

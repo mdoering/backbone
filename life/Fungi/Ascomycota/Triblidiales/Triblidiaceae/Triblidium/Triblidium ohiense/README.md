@@ -1,17 +1,16 @@
-Tryblidium ohiense Ellis & Everh. SPECIES
-=======
+# Triblidium ohiense Ellis & Everh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Proc. Acad. nat. Sci. Philad. , 1894 46: 450 (1894)
 
 #### Original name
-Tryblidium ohiense Ellis & Everh.
+Triblidium ohiense Ellis & Everh.
 
 ### Remarks
 null

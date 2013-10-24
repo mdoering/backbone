@@ -1,5 +1,4 @@
-Sphaerophorus tenue Kremp. SPECIES
-=======
+# Sphaerophorus tenue Kremp. SPECIES
 
 #### Status
 ACCEPTED

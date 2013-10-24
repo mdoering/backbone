@@ -1,5 +1,4 @@
-Trypethelium columbianum Nyl. SPECIES
-=======
+# Trypethelium columbianum Nyl. SPECIES
 
 #### Status
 ACCEPTED

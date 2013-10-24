@@ -1,5 +1,4 @@
-Collybia macrosperma Har. Takah. SPECIES
-=======
+# Collybia macrosperma Har. Takah. SPECIES
 
 #### Status
 ACCEPTED

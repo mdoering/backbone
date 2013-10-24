@@ -1,14 +1,13 @@
-Lecanora leprolyta Nyl. SPECIES
-=======
+# Letrouitia leprolyta (Nyl.) Hafellner SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 52: 70 (1869)
+Nova Hedwigia 35(4): 693 (1983)
 
 #### Original name
 Lecanora leprolyta Nyl.

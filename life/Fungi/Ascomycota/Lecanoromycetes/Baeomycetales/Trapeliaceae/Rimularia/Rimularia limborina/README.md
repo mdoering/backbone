@@ -1,17 +1,16 @@
-Lecidea trochodes var. trochodes VARIETY
-=======
+# Rimularia limborina Nyl. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Flora, Jena 51: (1868)
 
 #### Original name
-Lecidea trochodes var. trochodes
+Rimularia limborina Nyl.
 
 ### Remarks
 null

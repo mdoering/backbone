@@ -1,17 +1,16 @@
-Agaricus umbelliferus var. myochrous Fr. VARIETY
-=======
+# Mycena aetites (Fr.) Quél., 1872 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hymenomyc. eur. (Upsaliae) 161 (1874)
+Mém. Soc. Émul. Montbéliard, Sér. 2 5: 242 (1872)
 
 #### Original name
-Agaricus umbelliferus var. myochrous Fr.
+Agaricus aetites Fr., 1838
 
 ### Remarks
 null

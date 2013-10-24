@@ -1,5 +1,4 @@
-Lenzites japonica Berk. & M.A. Curtis SPECIES
-=======
+# Lenzites japonica Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

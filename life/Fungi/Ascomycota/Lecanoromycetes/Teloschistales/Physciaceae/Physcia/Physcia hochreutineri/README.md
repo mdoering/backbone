@@ -1,5 +1,4 @@
-Physcia hochreutineri SPECIES
-=======
+# Physcia hochreutineri SPECIES
 
 #### Status
 ACCEPTED

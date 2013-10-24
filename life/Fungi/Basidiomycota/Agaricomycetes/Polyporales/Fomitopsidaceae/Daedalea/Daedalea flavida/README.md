@@ -1,17 +1,16 @@
-Daedalea flavida f. flavida FORM
-=======
+# Daedalea flavida Lév., 1844 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Annls Sci. Nat. , Bot. , sér. 3 2: 198 (1844)
 
 #### Original name
-Daedalea flavida f. flavida
+Daedalea flavida Lév., 1844
 
 ### Remarks
 null

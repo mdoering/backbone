@@ -1,5 +1,4 @@
-Pygmaea pumila Kuntze SPECIES
-=======
+# Pygmaea pumila Kuntze SPECIES
 
 #### Status
 ACCEPTED

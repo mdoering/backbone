@@ -1,5 +1,4 @@
-Hyalopeziza rapax Huhtinen SPECIES
-=======
+# Hyalopeziza rapax Huhtinen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pluteus rubrotomentosus Singer SPECIES
-=======
+# Pluteus rubrotomentosus Singer SPECIES
 
 #### Status
 ACCEPTED

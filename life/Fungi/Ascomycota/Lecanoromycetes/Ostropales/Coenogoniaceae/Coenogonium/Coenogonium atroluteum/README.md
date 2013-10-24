@@ -1,5 +1,4 @@
-Coenogonium atroluteum (Vain.) Lücking, Aptroot & Sipman SPECIES
-=======
+# Coenogonium atroluteum (Vain.) Lücking, Aptroot & Sipman SPECIES
 
 #### Status
 ACCEPTED

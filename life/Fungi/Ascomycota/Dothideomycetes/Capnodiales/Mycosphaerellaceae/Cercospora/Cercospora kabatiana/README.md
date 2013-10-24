@@ -1,5 +1,4 @@
-Cercospora kabatiana Allesch. SPECIES
-=======
+# Cercospora kabatiana Allesch. SPECIES
 
 #### Status
 ACCEPTED

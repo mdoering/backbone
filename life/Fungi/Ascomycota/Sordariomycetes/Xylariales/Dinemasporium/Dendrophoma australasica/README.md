@@ -1,5 +1,4 @@
-Dendrophoma australasica Speg. SPECIES
-=======
+# Dendrophoma australasica Speg. SPECIES
 
 #### Status
 ACCEPTED

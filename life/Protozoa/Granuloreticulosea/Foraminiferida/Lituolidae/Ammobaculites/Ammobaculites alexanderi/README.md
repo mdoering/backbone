@@ -1,5 +1,4 @@
-Ammobaculites alexanderi Cushman, 1933 SPECIES
-=======
+# Ammobaculites alexanderi Cushman, 1933 SPECIES
 
 #### Status
 ACCEPTED

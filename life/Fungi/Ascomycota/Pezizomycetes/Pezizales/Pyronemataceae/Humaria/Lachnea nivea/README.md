@@ -1,5 +1,4 @@
-Lachnea nivea P. Karst. SPECIES
-=======
+# Lachnea nivea P. Karst. SPECIES
 
 #### Status
 ACCEPTED

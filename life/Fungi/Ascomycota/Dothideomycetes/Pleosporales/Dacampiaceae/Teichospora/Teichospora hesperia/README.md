@@ -1,5 +1,4 @@
-Teichospora hesperia M.E. Barr SPECIES
-=======
+# Teichospora hesperia M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Lactarius aspideoides Kühner, 1975 SPECIES
-=======
+# Lactarius salicis-reticulatae Kühner, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Bull. trimest. Soc. mycol. Fr. 91: 389 (1975)
 
 #### Original name
-Lactarius aspideoides Kühner, 1975
+Lactarius salicis-reticulatae Kühner, 1975
 
 ### Remarks
 null

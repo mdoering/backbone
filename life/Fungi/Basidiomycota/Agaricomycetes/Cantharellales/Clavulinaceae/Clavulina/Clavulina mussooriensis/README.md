@@ -1,5 +1,4 @@
-Clavulina mussooriensis Corner, K.S. Thind & Dev, 1958 SPECIES
-=======
+# Clavulina mussooriensis Corner, K.S. Thind & Dev, 1958 SPECIES
 
 #### Status
 ACCEPTED

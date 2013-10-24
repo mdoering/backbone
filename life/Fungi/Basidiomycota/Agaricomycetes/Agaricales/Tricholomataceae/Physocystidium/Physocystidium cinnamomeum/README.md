@@ -1,14 +1,13 @@
-Pseudohiatula cinnamomea (Dennis) Singer, 1959 SPECIES
-=======
+# Physocystidium cinnamomeum (Dennis) Singer, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 12: 76 (1959)
+Persoonia 2(3): 410 (1962)
 
 #### Original name
 Collybia cinnamomea Dennis, 1951

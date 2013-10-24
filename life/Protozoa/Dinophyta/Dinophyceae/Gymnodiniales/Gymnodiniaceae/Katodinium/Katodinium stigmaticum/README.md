@@ -1,8 +1,7 @@
-Massartia campylops Harris SPECIES
-=======
+# Katodinium stigmaticum (Lindemann) A.R. Loeblich Iii SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

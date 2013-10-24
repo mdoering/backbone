@@ -1,5 +1,4 @@
-Eubacterium fissicatena Taylor, 1972 (Approved Lists, 1980) SPECIES
-=======
+# Eubacterium fissicatena Taylor, 1972 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

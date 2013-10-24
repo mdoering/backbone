@@ -1,5 +1,4 @@
-Cryptococcus dejecticola Thanh, Hai & Lachance SPECIES
-=======
+# Cryptococcus dejecticola Thanh, Hai & Lachance SPECIES
 
 #### Status
 ACCEPTED

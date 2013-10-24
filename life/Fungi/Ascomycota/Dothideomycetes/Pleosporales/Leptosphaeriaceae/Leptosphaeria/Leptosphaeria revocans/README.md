@@ -1,5 +1,4 @@
-Leptosphaeria revocans Sacc. SPECIES
-=======
+# Leptosphaeria revocans Sacc. SPECIES
 
 #### Status
 ACCEPTED

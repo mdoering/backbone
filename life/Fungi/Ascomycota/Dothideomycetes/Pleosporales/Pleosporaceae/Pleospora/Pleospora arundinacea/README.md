@@ -1,5 +1,4 @@
-Pleospora arundinacea Fuckel SPECIES
-=======
+# Pleospora arundinacea Fuckel SPECIES
 
 #### Status
 ACCEPTED

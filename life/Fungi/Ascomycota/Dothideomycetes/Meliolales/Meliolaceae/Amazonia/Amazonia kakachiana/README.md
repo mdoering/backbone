@@ -1,5 +1,4 @@
-Amazonia kakachiana Hosag. SPECIES
-=======
+# Amazonia kakachiana Hosag. SPECIES
 
 #### Status
 ACCEPTED

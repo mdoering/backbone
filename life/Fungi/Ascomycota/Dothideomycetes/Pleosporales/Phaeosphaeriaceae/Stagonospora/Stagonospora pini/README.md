@@ -1,5 +1,4 @@
-Stagonospora pini Grove SPECIES
-=======
+# Stagonospora pini Grove SPECIES
 
 #### Status
 ACCEPTED

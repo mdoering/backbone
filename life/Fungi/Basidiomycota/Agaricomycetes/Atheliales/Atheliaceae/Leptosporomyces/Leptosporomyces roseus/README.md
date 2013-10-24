@@ -1,5 +1,4 @@
-Leptosporomyces roseus Jülich, 1972 SPECIES
-=======
+# Leptosporomyces roseus Jülich, 1972 SPECIES
 
 #### Status
 ACCEPTED

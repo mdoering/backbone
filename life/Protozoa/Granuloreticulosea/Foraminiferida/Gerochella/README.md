@@ -1,5 +1,4 @@
-Gerochella Neagu, 1997 GENUS
-=======
+# Gerochella Neagu, 1997 GENUS
 
 #### Status
 ACCEPTED

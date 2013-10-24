@@ -1,5 +1,4 @@
-Henningsomyces nigrescens (Rehm) Theiss. & Syd. SPECIES
-=======
+# Henningsomyces nigrescens (Rehm) Theiss. & Syd. SPECIES
 
 #### Status
 ACCEPTED

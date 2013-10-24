@@ -1,5 +1,4 @@
-Buellia cinereorufescens B. de Lesd. SPECIES
-=======
+# Buellia cinereorufescens B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

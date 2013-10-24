@@ -1,5 +1,4 @@
-Menoidium gladius Christen SPECIES
-=======
+# Menoidium gladius Christen SPECIES
 
 #### Status
 ACCEPTED

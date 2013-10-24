@@ -1,5 +1,4 @@
-Biatora rufidula (Graewe) S. Ekman & Printzen SPECIES
-=======
+# Biatora rufidula (Graewe) S. Ekman & Printzen SPECIES
 
 #### Status
 ACCEPTED

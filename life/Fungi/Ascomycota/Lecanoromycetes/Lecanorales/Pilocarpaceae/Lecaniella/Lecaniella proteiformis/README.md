@@ -1,5 +1,4 @@
-Lecaniella proteiformis (A. Massal.) Jatta SPECIES
-=======
+# Lecaniella proteiformis (A. Massal.) Jatta SPECIES
 
 #### Status
 ACCEPTED

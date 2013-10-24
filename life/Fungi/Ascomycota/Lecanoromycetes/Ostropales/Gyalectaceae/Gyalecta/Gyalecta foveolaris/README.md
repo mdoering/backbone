@@ -1,17 +1,16 @@
-Gyalecta foveolaris f. foveolaris FORM
-=======
+# Gyalecta foveolaris (Ach.) Schaer. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lich. helv. spicil. 7: 360 (1836)
 
 #### Original name
-Gyalecta foveolaris f. foveolaris
+Urceolaria foveolaris Ach.
 
 ### Remarks
 null

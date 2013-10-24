@@ -1,5 +1,4 @@
-Stereum lagerheimii Pat. SPECIES
-=======
+# Stereum lagerheimii Pat. SPECIES
 
 #### Status
 ACCEPTED

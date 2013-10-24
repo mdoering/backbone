@@ -1,5 +1,4 @@
-Cercospora wulffiae A.S. Mull. & Chupp SPECIES
-=======
+# Cercospora wulffiae A.S. Mull. & Chupp SPECIES
 
 #### Status
 ACCEPTED

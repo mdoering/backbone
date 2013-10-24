@@ -1,5 +1,4 @@
-Bidiscus cruciatus subsp. cruciatus D. Bukry SUBSPECIES
-=======
+# Bidiscus cruciatus SPECIES
 
 #### Status
 ACCEPTED

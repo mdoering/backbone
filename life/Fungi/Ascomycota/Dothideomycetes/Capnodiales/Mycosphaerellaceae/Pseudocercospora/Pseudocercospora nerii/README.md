@@ -1,5 +1,4 @@
-Pseudocercospora nerii H.S.G. Rao, S. Narayan & Bhartiya SPECIES
-=======
+# Pseudocercospora nerii H.S.G. Rao, S. Narayan & Bhartiya SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia papyracea Wallr. SPECIES
-=======
+# Parmelia papyracea Wallr. SPECIES
 
 #### Status
 ACCEPTED

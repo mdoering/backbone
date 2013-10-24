@@ -1,5 +1,4 @@
-Diacilon planicaudatus SPECIES
-=======
+# Diacilon planicaudatus SPECIES
 
 #### Status
 ACCEPTED

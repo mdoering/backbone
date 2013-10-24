@@ -1,5 +1,4 @@
-Colletotrichum salmonicolor O'Gara SPECIES
-=======
+# Colletotrichum salmonicolor O'Gara SPECIES
 
 #### Status
 ACCEPTED

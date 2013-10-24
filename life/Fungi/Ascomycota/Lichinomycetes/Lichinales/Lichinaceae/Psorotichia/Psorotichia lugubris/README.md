@@ -1,5 +1,4 @@
-Psorotichia lugubris SPECIES
-=======
+# Psorotichia lugubris SPECIES
 
 #### Status
 ACCEPTED

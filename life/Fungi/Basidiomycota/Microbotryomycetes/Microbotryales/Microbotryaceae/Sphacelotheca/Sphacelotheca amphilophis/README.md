@@ -1,5 +1,4 @@
-Sphacelotheca amphilophis Syd. SPECIES
-=======
+# Sphacelotheca amphilophis Syd. SPECIES
 
 #### Status
 ACCEPTED

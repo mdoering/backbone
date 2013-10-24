@@ -1,5 +1,4 @@
-Peziza minutispora (Velen.) Svrcek SPECIES
-=======
+# Peziza minutispora (Velen.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

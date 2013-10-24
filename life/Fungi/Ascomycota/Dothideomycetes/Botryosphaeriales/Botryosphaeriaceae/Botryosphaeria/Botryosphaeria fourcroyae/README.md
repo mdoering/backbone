@@ -1,5 +1,4 @@
-Botryosphaeria fourcroyae (Henn.) Theiss. SPECIES
-=======
+# Botryosphaeria fourcroyae (Henn.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

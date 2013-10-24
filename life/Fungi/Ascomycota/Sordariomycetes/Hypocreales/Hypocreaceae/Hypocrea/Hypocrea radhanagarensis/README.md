@@ -1,5 +1,4 @@
-Hypocrea radhanagarensis S.D. Patil & M.S. Patil SPECIES
-=======
+# Hypocrea radhanagarensis S.D. Patil & M.S. Patil SPECIES
 
 #### Status
 ACCEPTED

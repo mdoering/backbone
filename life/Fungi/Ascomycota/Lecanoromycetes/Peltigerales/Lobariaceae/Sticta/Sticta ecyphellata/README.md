@@ -1,5 +1,4 @@
-Sticta ecyphellata (Hav.) Gyeln. SPECIES
-=======
+# Sticta ecyphellata (Hav.) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

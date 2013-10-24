@@ -1,17 +1,16 @@
-Sarcographa leprieurii var. leprieurii VARIETY
-=======
+# Phaeographis leprieurii (Mont.) Staiger SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Biblthca Lichenol. 85: 338 (2002)
 
 #### Original name
-Sarcographa leprieurii var. leprieurii
+Opegrapha leprieurii Mont.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Ophiostoma koreanum Masuya, J.J. Kim & M.J. Wingf. SPECIES
-=======
+# Ophiostoma koreanum Masuya, J.J. Kim & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

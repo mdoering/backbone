@@ -1,5 +1,4 @@
-Cercospora diodiae-virginianae G.F. Atk. SPECIES
-=======
+# Cercospora diodiae-virginianae G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

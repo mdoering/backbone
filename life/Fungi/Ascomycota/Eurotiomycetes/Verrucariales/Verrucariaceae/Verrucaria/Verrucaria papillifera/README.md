@@ -1,5 +1,4 @@
-Verrucaria papillifera Nyl. SPECIES
-=======
+# Verrucaria papillifera Nyl. SPECIES
 
 #### Status
 ACCEPTED

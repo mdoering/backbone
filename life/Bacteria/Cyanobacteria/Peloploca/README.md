@@ -1,5 +1,4 @@
-Peloploca Lauterborn GENUS
-=======
+# Peloploca Lauterborn GENUS
 
 #### Status
 ACCEPTED

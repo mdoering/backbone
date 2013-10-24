@@ -1,5 +1,4 @@
-Graphis hyalinella Müll. Arg. SPECIES
-=======
+# Graphis hyalinella Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

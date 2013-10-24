@@ -1,17 +1,16 @@
-Phyllosticta bucklandii Shreem. SPECIES
-=======
+# Phyllosticta bucklandiae Shreem. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Journal of Mycology and Plant Pathology 3(1): 113 (1974)
 
 #### Original name
-Phyllosticta bucklandii Shreem.
+Phyllosticta bucklandiae Shreem.
 
 ### Remarks
 null

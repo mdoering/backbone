@@ -1,5 +1,4 @@
-Phacus hispidulus (Eichwald) Lemmermann, 1910 SPECIES
-=======
+# Phacus hispidulus (Eichwald) Lemmermann, 1910 SPECIES
 
 #### Status
 ACCEPTED

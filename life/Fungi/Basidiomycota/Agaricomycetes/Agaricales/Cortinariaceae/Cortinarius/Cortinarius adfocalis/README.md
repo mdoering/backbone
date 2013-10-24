@@ -1,5 +1,4 @@
-Cortinarius adfocalis Rob. Henry SPECIES
-=======
+# Cortinarius adfocalis Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

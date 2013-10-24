@@ -1,5 +1,4 @@
-Lecidea macularis Kremp. SPECIES
-=======
+# Lecidea macularis Kremp. SPECIES
 
 #### Status
 ACCEPTED

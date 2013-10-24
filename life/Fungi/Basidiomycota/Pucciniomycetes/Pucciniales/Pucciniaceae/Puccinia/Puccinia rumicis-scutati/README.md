@@ -1,17 +1,16 @@
-Puccinia rumicis-scutati var. rumicis-scutati (DC.) G. Winter VARIETY
-=======
+# Puccinia rumicis-scutati (DC.) G. Winter, 1884 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Pilze 187 (1884)
 
 #### Original name
-Puccinia rumicis-scutati var. rumicis-scutati (DC.) G. Winter
+Uredo rumicis-scutati DC., 1810
 
 ### Remarks
 null

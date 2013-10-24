@@ -1,5 +1,4 @@
-Synechococcus koidzumii Yoneda SPECIES
-=======
+# Synechococcus koidzumii Yoneda SPECIES
 
 #### Status
 ACCEPTED

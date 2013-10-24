@@ -1,5 +1,4 @@
-Dichomitus D.A. Reid, 1965 GENUS
-=======
+# Dichomitus D.A. Reid, 1965 GENUS
 
 #### Status
 ACCEPTED

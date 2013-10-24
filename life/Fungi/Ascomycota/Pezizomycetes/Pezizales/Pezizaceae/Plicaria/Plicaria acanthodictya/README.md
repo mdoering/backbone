@@ -1,5 +1,4 @@
-Plicaria acanthodictya Dissing & Hauerbach SPECIES
-=======
+# Plicaria acanthodictya Dissing & Hauerbach SPECIES
 
 #### Status
 ACCEPTED

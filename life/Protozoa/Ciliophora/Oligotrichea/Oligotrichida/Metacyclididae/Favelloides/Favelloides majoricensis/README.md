@@ -1,5 +1,4 @@
-Favelloides majoricensis SPECIES
-=======
+# Favelloides majoricensis SPECIES
 
 #### Status
 ACCEPTED

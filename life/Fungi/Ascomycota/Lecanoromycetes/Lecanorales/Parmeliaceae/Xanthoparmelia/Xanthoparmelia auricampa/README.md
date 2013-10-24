@@ -1,5 +1,4 @@
-Xanthoparmelia auricampa Elix SPECIES
-=======
+# Xanthoparmelia auricampa Elix SPECIES
 
 #### Status
 ACCEPTED

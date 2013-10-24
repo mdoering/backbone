@@ -1,5 +1,4 @@
-Ascorhombispora aquatica L. Cai & K.D. Hyde, 2007 SPECIES
-=======
+# Ascorhombispora aquatica L. Cai & K.D. Hyde, 2007 SPECIES
 
 #### Status
 ACCEPTED

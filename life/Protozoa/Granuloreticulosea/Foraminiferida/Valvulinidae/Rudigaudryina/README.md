@@ -1,5 +1,4 @@
-Rudigaudryina Cushman & McCulloch, 1939 GENUS
-=======
+# Rudigaudryina Cushman & McCulloch, 1939 GENUS
 
 #### Status
 ACCEPTED

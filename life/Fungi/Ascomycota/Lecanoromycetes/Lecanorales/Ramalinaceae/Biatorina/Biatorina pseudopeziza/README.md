@@ -1,5 +1,4 @@
-Biatorina pseudopeziza SPECIES
-=======
+# Biatorina pseudopeziza SPECIES
 
 #### Status
 ACCEPTED

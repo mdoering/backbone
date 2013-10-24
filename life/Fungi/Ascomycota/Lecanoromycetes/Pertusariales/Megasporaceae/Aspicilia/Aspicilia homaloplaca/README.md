@@ -1,5 +1,4 @@
-Aspicilia homaloplaca (Nyl.) C.W. Dodge SPECIES
-=======
+# Aspicilia homaloplaca (Nyl.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

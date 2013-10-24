@@ -1,5 +1,4 @@
-Sinosphaeria lasiacidis Samuels & Rogerson SPECIES
-=======
+# Sinosphaeria lasiacidis Samuels & Rogerson SPECIES
 
 #### Status
 ACCEPTED

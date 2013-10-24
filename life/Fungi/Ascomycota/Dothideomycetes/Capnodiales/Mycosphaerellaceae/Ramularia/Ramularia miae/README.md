@@ -1,5 +1,4 @@
-Ramularia miae Crous SPECIES
-=======
+# Ramularia miae Crous SPECIES
 
 #### Status
 ACCEPTED

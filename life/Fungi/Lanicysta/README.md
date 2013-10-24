@@ -1,5 +1,4 @@
-Lanicysta Kilochitsky, 1996 GENUS
-=======
+# Lanicysta Kilochitsky, 1996 GENUS
 
 #### Status
 ACCEPTED

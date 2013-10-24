@@ -1,5 +1,4 @@
-Platygrapha gymnophora Nyl. SPECIES
-=======
+# Platygrapha gymnophora Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bagliettoa ocellata C. Knight SPECIES
-=======
+# Bagliettoa ocellata C. Knight SPECIES
 
 #### Status
 ACCEPTED

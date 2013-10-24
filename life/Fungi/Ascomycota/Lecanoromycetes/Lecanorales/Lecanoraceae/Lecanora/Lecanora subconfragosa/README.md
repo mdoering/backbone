@@ -1,5 +1,4 @@
-Lecanora subconfragosa var. subconfragosa VARIETY
-=======
+# Lecanora subconfragosa Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora subconfragosa var. subconfragosa
+Lecanora subconfragosa Nyl.
 
 ### Remarks
 null

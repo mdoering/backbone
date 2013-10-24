@@ -1,5 +1,4 @@
-Micropeltis anibae var. anibae VARIETY
-=======
+# Micropeltis anibae Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Publções Inst. Micol. Recife 56: 68 (1959)
 
 #### Original name
-Micropeltis anibae var. anibae
+Micropeltis anibae Bat. & I.H. Lima
 
 ### Remarks
 null

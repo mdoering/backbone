@@ -1,5 +1,4 @@
-Torula fenestralis (Link) Schwabe SPECIES
-=======
+# Torula fenestralis (Link) Schwabe SPECIES
 
 #### Status
 ACCEPTED

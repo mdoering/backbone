@@ -1,5 +1,4 @@
-Pocillaria papillata (Henn.) Kuntze SPECIES
-=======
+# Pocillaria papillata (Henn.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

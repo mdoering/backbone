@@ -1,17 +1,16 @@
-Hypoxylon semitruncatum J.H. Mill., 1934 SPECIES
-=======
+# Hypoxylon croceum J.H. Mill., 1933 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Chardón & Toro, Monograph Univ. Puerto Rico, Series B 2: 205 (1934)
+Mycologia 25(4): 323 (1933)
 
 #### Original name
-Hypoxylon semitruncatum J.H. Mill., 1934
+Hypoxylon croceum J.H. Mill., 1933
 
 ### Remarks
 null

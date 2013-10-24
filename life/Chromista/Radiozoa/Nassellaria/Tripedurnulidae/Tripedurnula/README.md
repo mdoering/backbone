@@ -1,5 +1,4 @@
-Tripedurnula Dumitrica, 1991 GENUS
-=======
+# Tripedurnula Dumitrica, 1991 GENUS
 
 #### Status
 ACCEPTED

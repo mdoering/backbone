@@ -1,5 +1,4 @@
-Lecidea chudieanana SPECIES
-=======
+# Lecidea chudieanana SPECIES
 
 #### Status
 ACCEPTED

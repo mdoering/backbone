@@ -1,5 +1,4 @@
-Hyphoderma obtusiforme J. Erikss. & Å. Strid, 1975 SPECIES
-=======
+# Hyphoderma obtusiforme J. Erikss. & Å. Strid, 1975 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Arthonia macounii G. Merr. SPECIES
-=======
+# Arthothelium macounii (G. Merr.) W. J. Noble SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ottawa Nat. 30: 36 (1914)
+in Ahti, Brodo & Noble, Mycotaxon 28(1): 91 (1987)
 
 #### Original name
 Arthonia macounii G. Merr.

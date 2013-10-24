@@ -1,5 +1,4 @@
-Panus reticulatus Berk. SPECIES
-=======
+# Panus reticulatus Berk. SPECIES
 
 #### Status
 ACCEPTED

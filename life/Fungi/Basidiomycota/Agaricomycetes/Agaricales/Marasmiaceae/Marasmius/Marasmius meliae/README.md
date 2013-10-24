@@ -1,5 +1,4 @@
-Marasmius meliae J.E. Wright SPECIES
-=======
+# Marasmius meliae J.E. Wright SPECIES
 
 #### Status
 ACCEPTED

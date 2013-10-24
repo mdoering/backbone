@@ -1,17 +1,16 @@
-Elateromyces olivaceus (DC.) Bubák, 1912 SPECIES
-=======
+# Farysia zeylanica Liro, 1939 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Arch. Prírodov. Výzk. Cech. 15(3): 32 (1912)
+J. I. Liro Mycotheca Fennica, Fasc. 16 110 (1939)
 
 #### Original name
-Elateromyces olivaceus (DC.) Bubák, 1912
+Farysia zeylanica Liro, 1939
 
 ### Remarks
 null

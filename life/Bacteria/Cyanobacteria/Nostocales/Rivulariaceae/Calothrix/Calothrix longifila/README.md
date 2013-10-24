@@ -1,5 +1,4 @@
-Calothrix longifila Taylor, 1928 SPECIES
-=======
+# Calothrix longifila Taylor, 1928 SPECIES
 
 #### Status
 ACCEPTED

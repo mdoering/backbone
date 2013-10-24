@@ -1,5 +1,4 @@
-Mycena graciosa Beeli SPECIES
-=======
+# Mycena graciosa Beeli SPECIES
 
 #### Status
 ACCEPTED

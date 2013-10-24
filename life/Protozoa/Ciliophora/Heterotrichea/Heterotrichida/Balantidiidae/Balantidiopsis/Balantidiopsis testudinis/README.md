@@ -1,5 +1,4 @@
-Balantidiopsis testudinis SPECIES
-=======
+# Balantidiopsis testudinis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Hystricula Cooke GENUS
-=======
+# Winterella (Saccardo) Kuntze, 1891 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 12(no. 63): 83 (1884)
+Revis. gen. pl. (Leipzig) 1: 34 (1891)
 
 #### Original name
-Hystricula Cooke
+null
 
 ### Remarks
 null

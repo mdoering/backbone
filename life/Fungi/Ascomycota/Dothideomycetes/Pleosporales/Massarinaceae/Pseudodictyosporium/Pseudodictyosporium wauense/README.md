@@ -1,5 +1,4 @@
-Pseudodictyosporium wauense Matsush., 1971 SPECIES
-=======
+# Pseudodictyosporium wauense Matsush., 1971 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psilocybe nothofagensis Guzmán & E. Horak SPECIES
-=======
+# Psilocybe nothofagensis Guzmán & E. Horak SPECIES
 
 #### Status
 ACCEPTED

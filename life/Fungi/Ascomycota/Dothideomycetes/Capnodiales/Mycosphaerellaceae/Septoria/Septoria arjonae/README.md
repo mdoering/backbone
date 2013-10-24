@@ -1,5 +1,4 @@
-Septoria arjonae Speg. SPECIES
-=======
+# Septoria arjonae Speg. SPECIES
 
 #### Status
 ACCEPTED

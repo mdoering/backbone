@@ -1,5 +1,4 @@
-Aleurina imaii (Korf) W.Y. Zhuang & Korf SPECIES
-=======
+# Aleurina imaii (Korf) W.Y. Zhuang & Korf SPECIES
 
 #### Status
 ACCEPTED

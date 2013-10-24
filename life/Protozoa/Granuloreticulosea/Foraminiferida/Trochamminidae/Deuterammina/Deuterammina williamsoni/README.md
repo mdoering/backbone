@@ -1,5 +1,4 @@
-Deuterammina williamsoni Brönnimann & Whittaker, 1988 SPECIES
-=======
+# Deuterammina williamsoni Brönnimann & Whittaker, 1988 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oospora pezizicola Speg. SPECIES
-=======
+# Oospora pezizicola Speg. SPECIES
 
 #### Status
 ACCEPTED

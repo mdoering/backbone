@@ -1,5 +1,4 @@
-Podosordaria elephantis J.D. Rogers & Y.M. Ju SPECIES
-=======
+# Podosordaria elephantis J.D. Rogers & Y.M. Ju SPECIES
 
 #### Status
 ACCEPTED

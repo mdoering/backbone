@@ -1,5 +1,4 @@
-Sphaeria papilla Schwein. SPECIES
-=======
+# Sphaeria papilla Schwein. SPECIES
 
 #### Status
 ACCEPTED

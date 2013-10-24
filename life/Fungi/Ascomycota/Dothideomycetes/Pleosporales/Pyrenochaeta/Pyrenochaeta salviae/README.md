@@ -1,5 +1,4 @@
-Pyrenochaeta salviae Annal. SPECIES
-=======
+# Pyrenochaeta salviae Annal. SPECIES
 
 #### Status
 ACCEPTED

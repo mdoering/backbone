@@ -1,5 +1,4 @@
-Puccinia cuneata Dietel SPECIES
-=======
+# Puccinia cuneata Dietel SPECIES
 
 #### Status
 ACCEPTED

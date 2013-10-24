@@ -1,5 +1,4 @@
-Naucoria argillosa Berk. & M.A. Curtis SPECIES
-=======
+# Naucoria argillosa Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entyloma asterisci Savul. & Rayss SPECIES
-=======
+# Entyloma asterisci Savul. & Rayss SPECIES
 
 #### Status
 ACCEPTED

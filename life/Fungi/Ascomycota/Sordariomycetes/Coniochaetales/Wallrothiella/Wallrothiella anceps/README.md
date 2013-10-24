@@ -1,5 +1,4 @@
-Wallrothiella anceps Höhn. SPECIES
-=======
+# Wallrothiella anceps Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Synchytrium asterum M.T. Cook SPECIES
-=======
+# Synchytrium asterum M.T. Cook SPECIES
 
 #### Status
 ACCEPTED

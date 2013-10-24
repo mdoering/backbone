@@ -1,5 +1,4 @@
-Skeletonia variabilis Gooday, Kamenskaya & Cedhagen, 2007 SPECIES
-=======
+# Skeletonia variabilis Gooday, Kamenskaya & Cedhagen, 2007 SPECIES
 
 #### Status
 ACCEPTED

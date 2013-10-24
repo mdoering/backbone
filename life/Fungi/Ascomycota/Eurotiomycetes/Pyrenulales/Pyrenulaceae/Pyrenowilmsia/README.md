@@ -1,5 +1,4 @@
-Pyrenowilmsia R.C. Harris & Aptroot GENUS
-=======
+# Pyrenowilmsia R.C. Harris & Aptroot GENUS
 
 #### Status
 ACCEPTED

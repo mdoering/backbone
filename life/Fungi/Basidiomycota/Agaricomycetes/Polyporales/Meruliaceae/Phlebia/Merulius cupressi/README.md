@@ -1,5 +1,4 @@
-Merulius cupressi Schwein. SPECIES
-=======
+# Merulius cupressi Schwein. SPECIES
 
 #### Status
 ACCEPTED

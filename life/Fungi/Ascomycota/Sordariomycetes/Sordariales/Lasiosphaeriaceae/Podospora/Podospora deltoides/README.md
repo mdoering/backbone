@@ -1,5 +1,4 @@
-Podospora deltoides R.S. Khan & J.C. Krug SPECIES
-=======
+# Podospora deltoides R.S. Khan & J.C. Krug SPECIES
 
 #### Status
 ACCEPTED

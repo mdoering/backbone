@@ -1,5 +1,4 @@
-Lepiota camporum (Speg.) Speg. SPECIES
-=======
+# Lepiota camporum (Speg.) Speg. SPECIES
 
 #### Status
 ACCEPTED

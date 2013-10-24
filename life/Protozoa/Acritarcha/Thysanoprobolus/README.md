@@ -1,5 +1,4 @@
-Thysanoprobolus A.R. Loeblich Jr. & H. Tappan, 1970 GENUS
-=======
+# Thysanoprobolus A.R. Loeblich Jr. & H. Tappan, 1970 GENUS
 
 #### Status
 ACCEPTED

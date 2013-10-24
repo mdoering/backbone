@@ -1,5 +1,4 @@
-Caloplaca trilocularis Zahlbr. SPECIES
-=======
+# Caloplaca trilocularis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

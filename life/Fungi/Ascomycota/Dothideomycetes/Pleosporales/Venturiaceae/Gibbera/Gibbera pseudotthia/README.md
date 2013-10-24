@@ -1,5 +1,4 @@
-Gibbera pseudotthia E. Müll. & Arx SPECIES
-=======
+# Gibbera pseudotthia E. Müll. & Arx SPECIES
 
 #### Status
 ACCEPTED

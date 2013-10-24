@@ -1,5 +1,4 @@
-Botryoconis Sydow & P. Sydow, 1906 GENUS
-=======
+# Botryoconis Sydow & P. Sydow, 1906 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena limonispora Raithelh. SPECIES
-=======
+# Mycena limonispora Raithelh. SPECIES
 
 #### Status
 ACCEPTED

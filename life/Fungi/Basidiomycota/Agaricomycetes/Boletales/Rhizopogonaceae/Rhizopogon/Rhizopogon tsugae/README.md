@@ -1,5 +1,4 @@
-Rhizopogon tsugae A.H. Sm. SPECIES
-=======
+# Rhizopogon tsugae A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

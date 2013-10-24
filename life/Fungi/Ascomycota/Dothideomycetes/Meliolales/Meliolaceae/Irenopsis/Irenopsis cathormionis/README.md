@@ -1,5 +1,4 @@
-Irenopsis cathormionis Hansf. & Deighton SPECIES
-=======
+# Irenopsis cathormionis Hansf. & Deighton SPECIES
 
 #### Status
 ACCEPTED

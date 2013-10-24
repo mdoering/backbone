@@ -1,5 +1,4 @@
-Coniosporium chusqueae Speg. SPECIES
-=======
+# Coniosporium chusqueae Speg. SPECIES
 
 #### Status
 ACCEPTED

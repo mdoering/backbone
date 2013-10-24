@@ -1,5 +1,4 @@
-Stellifera Léman GENUS
-=======
+# Stellifera Léman GENUS
 
 #### Status
 ACCEPTED

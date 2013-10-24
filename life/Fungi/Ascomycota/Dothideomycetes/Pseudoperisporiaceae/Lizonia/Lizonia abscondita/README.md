@@ -1,5 +1,4 @@
-Lizonia abscondita Johanson SPECIES
-=======
+# Lizonia abscondita Johanson SPECIES
 
 #### Status
 ACCEPTED

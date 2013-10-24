@@ -1,5 +1,4 @@
-Russula subbrunneipes Murrill SPECIES
-=======
+# Russula subbrunneipes Murrill SPECIES
 
 #### Status
 ACCEPTED

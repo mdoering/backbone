@@ -1,5 +1,4 @@
-Ostracoblabe Bornet & Flahault GENUS
-=======
+# Ostracoblabe Bornet & Flahault GENUS
 
 #### Status
 ACCEPTED

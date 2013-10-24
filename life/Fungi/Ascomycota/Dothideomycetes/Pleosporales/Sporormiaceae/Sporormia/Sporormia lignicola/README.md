@@ -1,5 +1,4 @@
-Sporormia lignicola W. Phillips & Plowr., 1877 SPECIES
-=======
+# Sporormia lignicola W. Phillips & Plowr., 1877 SPECIES
 
 #### Status
 ACCEPTED

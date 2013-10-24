@@ -1,5 +1,4 @@
-Marasmius virginianus Singer SPECIES
-=======
+# Marasmius virginianus Singer SPECIES
 
 #### Status
 ACCEPTED

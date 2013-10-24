@@ -1,5 +1,4 @@
-Pyxidium aselli subsp. aselli SUBSPECIES
-=======
+# Pyxidium aselli Penard, 1922 SPECIES
 
 #### Status
 ACCEPTED

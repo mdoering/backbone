@@ -1,5 +1,4 @@
-Sphaeronaema tenuirostre Cooke SPECIES
-=======
+# Sphaeronaema tenuirostre Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pestalotia cibotii R.P. White SPECIES
-=======
+# Pestalotia cibotii R.P. White SPECIES
 
 #### Status
 ACCEPTED

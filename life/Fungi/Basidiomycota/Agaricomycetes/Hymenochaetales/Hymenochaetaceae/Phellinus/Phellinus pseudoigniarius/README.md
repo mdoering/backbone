@@ -1,5 +1,4 @@
-Phellinus pseudoigniarius Y.C. Dai & Fan Yang SPECIES
-=======
+# Phellinus pseudoigniarius Y.C. Dai & Fan Yang SPECIES
 
 #### Status
 ACCEPTED

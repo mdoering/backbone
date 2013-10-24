@@ -1,5 +1,4 @@
-Septoria signalensis Solheim SPECIES
-=======
+# Septoria signalensis Solheim SPECIES
 
 #### Status
 ACCEPTED

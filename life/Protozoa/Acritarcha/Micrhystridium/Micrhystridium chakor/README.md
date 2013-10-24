@@ -1,5 +1,4 @@
-Micrhystridium chakor (Vanguestaine & van Looy, 1983) Sarjeant & Vavrdová, 1997 SPECIES
-=======
+# Micrhystridium chakor (Vanguestaine & van Looy, 1983) Sarjeant & Vavrdová, 1997 SPECIES
 
 #### Status
 ACCEPTED

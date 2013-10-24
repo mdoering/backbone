@@ -1,5 +1,4 @@
-Sphaeria vagabunda Desm. SPECIES
-=======
+# Sphaeria vagabunda Desm. SPECIES
 
 #### Status
 ACCEPTED

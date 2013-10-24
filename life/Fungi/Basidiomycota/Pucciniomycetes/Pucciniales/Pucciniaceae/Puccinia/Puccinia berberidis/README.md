@@ -1,5 +1,4 @@
-Puccinia berberidis var. berberidis VARIETY
-=======
+# Puccinia berberidis Mont. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Puccinia berberidis var. berberidis
+Puccinia berberidis Mont.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lecidea comptonii A.L. Sm. SPECIES
-=======
+# Lecidea comptonii A.L. Sm. SPECIES
 
 #### Status
 ACCEPTED

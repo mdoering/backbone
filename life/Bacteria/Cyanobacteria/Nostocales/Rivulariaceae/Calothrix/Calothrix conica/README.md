@@ -1,5 +1,4 @@
-Calothrix conica Garner SPECIES
-=======
+# Calothrix conica Garner SPECIES
 
 #### Status
 ACCEPTED

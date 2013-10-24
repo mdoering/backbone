@@ -1,5 +1,4 @@
-Dothiorella cedrelae Pat. SPECIES
-=======
+# Dothiorella cedrelae Pat. SPECIES
 
 #### Status
 ACCEPTED

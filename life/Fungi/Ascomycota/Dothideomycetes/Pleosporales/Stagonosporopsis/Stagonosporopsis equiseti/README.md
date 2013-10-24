@@ -1,5 +1,4 @@
-Stagonosporopsis equiseti Died., 1912 SPECIES
-=======
+# Stagonosporopsis equiseti Died., 1912 SPECIES
 
 #### Status
 ACCEPTED

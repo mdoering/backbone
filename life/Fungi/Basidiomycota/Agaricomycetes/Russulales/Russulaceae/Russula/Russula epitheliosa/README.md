@@ -1,5 +1,4 @@
-Russula epitheliosa Singer SPECIES
-=======
+# Russula epitheliosa Singer SPECIES
 
 #### Status
 ACCEPTED

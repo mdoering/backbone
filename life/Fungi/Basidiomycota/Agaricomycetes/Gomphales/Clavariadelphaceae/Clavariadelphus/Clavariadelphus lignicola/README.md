@@ -1,5 +1,4 @@
-Clavariadelphus lignicola R.H. Petersen, 1974 SPECIES
-=======
+# Clavariadelphus lignicola R.H. Petersen, 1974 SPECIES
 
 #### Status
 ACCEPTED

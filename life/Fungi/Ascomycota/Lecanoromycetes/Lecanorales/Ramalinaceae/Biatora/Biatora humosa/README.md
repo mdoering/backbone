@@ -1,5 +1,4 @@
-Biatora humosa SPECIES
-=======
+# Biatora humosa SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Toninia tabacina var. tabacina VARIETY
-=======
+# Toninia tabacina (DC.) Flagey SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Toninia tabacina var. tabacina
+null
 
 ### Remarks
 null

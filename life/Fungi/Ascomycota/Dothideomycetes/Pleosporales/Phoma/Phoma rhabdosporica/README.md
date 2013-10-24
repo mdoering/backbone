@@ -1,5 +1,4 @@
-Phoma rhabdosporica J.V. Almeida & Sousa da Câmara SPECIES
-=======
+# Phoma rhabdosporica J.V. Almeida & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

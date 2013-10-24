@@ -1,5 +1,4 @@
-Lopadium microglaenoides Th. Fr. SPECIES
-=======
+# Lopadium microglaenoides Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

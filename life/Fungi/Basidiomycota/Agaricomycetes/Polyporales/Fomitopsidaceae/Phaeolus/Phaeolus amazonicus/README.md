@@ -1,5 +1,4 @@
-Phaeolus amazonicus De Jesus & Ryvarden, 2010 SPECIES
-=======
+# Phaeolus amazonicus De Jesus & Ryvarden, 2010 SPECIES
 
 #### Status
 ACCEPTED

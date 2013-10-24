@@ -1,5 +1,4 @@
-Wickerhamomyces alni (Phaff, M.W. Mill. & M. Miranda) Kurtzman, Robnett & Basehoar-Powers, 2008 SPECIES
-=======
+# Wickerhamomyces alni (Phaff, M.W. Mill. & M. Miranda) Kurtzman, Robnett & Basehoar-Powers, 2008 SPECIES
 
 #### Status
 ACCEPTED

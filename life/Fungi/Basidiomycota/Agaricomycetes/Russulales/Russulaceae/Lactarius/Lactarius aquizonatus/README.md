@@ -1,5 +1,4 @@
-Lactarius aquizonatus Kytöv., 1984 SPECIES
-=======
+# Lactarius aquizonatus Kytöv., 1984 SPECIES
 
 #### Status
 ACCEPTED

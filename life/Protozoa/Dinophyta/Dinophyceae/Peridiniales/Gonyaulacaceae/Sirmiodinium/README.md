@@ -1,5 +1,4 @@
-Sirmiodinium G. Alberti, 1961 GENUS
-=======
+# Sirmiodinium G. Alberti, 1961 GENUS
 
 #### Status
 ACCEPTED

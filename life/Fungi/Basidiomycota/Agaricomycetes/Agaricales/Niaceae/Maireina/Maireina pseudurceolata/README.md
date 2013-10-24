@@ -1,5 +1,4 @@
-Maireina pseudurceolata W.B. Cooke SPECIES
-=======
+# Maireina pseudurceolata W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

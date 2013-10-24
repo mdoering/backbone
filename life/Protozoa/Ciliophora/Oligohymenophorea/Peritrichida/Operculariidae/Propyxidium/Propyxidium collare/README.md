@@ -1,5 +1,4 @@
-Propyxidium collare SPECIES
-=======
+# Propyxidium collare SPECIES
 
 #### Status
 ACCEPTED

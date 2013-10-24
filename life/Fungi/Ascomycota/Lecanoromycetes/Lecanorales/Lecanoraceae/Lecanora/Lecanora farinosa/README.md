@@ -1,5 +1,4 @@
-Lecanora farinosa var. farinosa VARIETY
-=======
+# Lecanora farinosa (Flörke) Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora farinosa var. farinosa
+Urceolaria calcarea var. farinosa Flörke
 
 ### Remarks
 null

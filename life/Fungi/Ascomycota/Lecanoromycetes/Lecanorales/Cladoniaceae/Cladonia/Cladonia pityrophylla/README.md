@@ -1,5 +1,4 @@
-Cladonia pityrophylla Nyl. SPECIES
-=======
+# Cladonia pityrophylla Nyl. SPECIES
 
 #### Status
 ACCEPTED

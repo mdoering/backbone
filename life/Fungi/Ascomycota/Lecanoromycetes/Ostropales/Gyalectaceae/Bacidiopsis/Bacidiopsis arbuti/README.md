@@ -1,5 +1,4 @@
-Bacidiopsis arbuti Bagl. SPECIES
-=======
+# Bacidiopsis arbuti Bagl. SPECIES
 
 #### Status
 ACCEPTED

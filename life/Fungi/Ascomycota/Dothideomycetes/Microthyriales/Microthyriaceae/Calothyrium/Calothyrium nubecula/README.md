@@ -1,5 +1,4 @@
-Calothyrium nubecula (Berk. & M.A. Curtis) Theiss. SPECIES
-=======
+# Calothyrium nubecula (Berk. & M.A. Curtis) Theiss. SPECIES
 
 #### Status
 ACCEPTED

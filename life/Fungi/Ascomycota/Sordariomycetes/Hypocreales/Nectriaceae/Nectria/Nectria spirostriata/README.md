@@ -1,5 +1,4 @@
-Nectria spirostriata Rossman, 1983 SPECIES
-=======
+# Nectria spirostriata Rossman, 1983 SPECIES
 
 #### Status
 ACCEPTED

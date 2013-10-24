@@ -1,5 +1,4 @@
-Ustilago kweichowensis Y.C. Wang SPECIES
-=======
+# Ustilago kweichowensis Y.C. Wang SPECIES
 
 #### Status
 ACCEPTED

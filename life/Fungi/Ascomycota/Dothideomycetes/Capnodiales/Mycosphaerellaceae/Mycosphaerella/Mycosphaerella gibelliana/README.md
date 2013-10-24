@@ -1,5 +1,4 @@
-Mycosphaerella gibelliana (Pass.) Jacz. SPECIES
-=======
+# Mycosphaerella gibelliana (Pass.) Jacz. SPECIES
 
 #### Status
 ACCEPTED

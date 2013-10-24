@@ -1,5 +1,4 @@
-Pezizella fairmanii (Nyl.) Rehm SPECIES
-=======
+# Pezizella fairmanii (Nyl.) Rehm SPECIES
 
 #### Status
 ACCEPTED

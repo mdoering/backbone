@@ -1,5 +1,4 @@
-Coniothyrium ossis (Preuss) Jacz. SPECIES
-=======
+# Coniothyrium ossis (Preuss) Jacz. SPECIES
 
 #### Status
 ACCEPTED

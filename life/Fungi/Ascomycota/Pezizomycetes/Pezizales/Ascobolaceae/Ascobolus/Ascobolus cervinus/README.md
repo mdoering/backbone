@@ -1,5 +1,4 @@
-Ascobolus cervinus Berk. & Broome, 1873 SPECIES
-=======
+# Ascobolus cervinus Berk. & Broome, 1873 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria rimicola (G.H. Otth) Sacc. SPECIES
-=======
+# Leptosphaeria rimicola (G.H. Otth) Sacc. SPECIES
 
 #### Status
 ACCEPTED

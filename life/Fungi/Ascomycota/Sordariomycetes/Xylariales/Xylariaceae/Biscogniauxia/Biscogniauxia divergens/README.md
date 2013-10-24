@@ -1,17 +1,16 @@
-Hypoxylon divergens var. divergens (Theiss.) J.H. Mill. ex Dennis VARIETY
-=======
+# Biscogniauxia divergens (Theiss.) Whalley & Laessøe, 1990 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Dennis, Kew Bull. 14(3): 450 (1960)
+in Whalley, Laessøe & Kile, Mycol. Res. 94(2): 239 (1990)
 
 #### Original name
-Hypoxylon divergens var. divergens (Theiss.) J.H. Mill. ex Dennis
+Nummularia divergens Theiss., 1908
 
 ### Remarks
 null

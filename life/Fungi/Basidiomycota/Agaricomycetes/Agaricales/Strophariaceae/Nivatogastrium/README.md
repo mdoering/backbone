@@ -1,5 +1,4 @@
-Nivatogastrium Singer & A.H. Sm. GENUS
-=======
+# Nivatogastrium Singer & A.H. Sm. GENUS
 
 #### Status
 ACCEPTED

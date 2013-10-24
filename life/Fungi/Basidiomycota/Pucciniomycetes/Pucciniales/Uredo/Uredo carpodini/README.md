@@ -1,5 +1,4 @@
-Uredo carpodini Henn. SPECIES
-=======
+# Uredo carpodini Henn. SPECIES
 
 #### Status
 ACCEPTED

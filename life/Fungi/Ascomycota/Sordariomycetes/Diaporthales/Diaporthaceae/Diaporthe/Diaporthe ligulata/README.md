@@ -1,5 +1,4 @@
-Diaporthe ligulata Nitschke, 1870 SPECIES
-=======
+# Diaporthe ligulata Nitschke, 1870 SPECIES
 
 #### Status
 ACCEPTED

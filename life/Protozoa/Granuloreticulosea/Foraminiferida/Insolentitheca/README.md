@@ -1,5 +1,4 @@
-Insolentitheca Vachard in Bensaid, Termier, Termier & Vachard, 1979 GENUS
-=======
+# Insolentitheca Vachard in Bensaid, Termier, Termier & Vachard, 1979 GENUS
 
 #### Status
 ACCEPTED

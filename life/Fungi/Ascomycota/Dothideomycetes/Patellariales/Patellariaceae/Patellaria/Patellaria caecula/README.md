@@ -1,5 +1,4 @@
-Patellaria caecula P. Karst. SPECIES
-=======
+# Patellaria caecula P. Karst. SPECIES
 
 #### Status
 ACCEPTED

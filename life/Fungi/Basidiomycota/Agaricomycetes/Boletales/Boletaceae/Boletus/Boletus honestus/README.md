@@ -1,5 +1,4 @@
-Boletus honestus Corner SPECIES
-=======
+# Boletus honestus Corner SPECIES
 
 #### Status
 ACCEPTED

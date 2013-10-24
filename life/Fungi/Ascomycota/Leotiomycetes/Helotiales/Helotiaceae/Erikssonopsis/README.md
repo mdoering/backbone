@@ -1,5 +1,4 @@
-Erikssonopsis M. Morelet GENUS
-=======
+# Erikssonopsis M. Morelet GENUS
 
 #### Status
 ACCEPTED

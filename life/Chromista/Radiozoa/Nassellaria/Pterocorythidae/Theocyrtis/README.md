@@ -1,5 +1,4 @@
-Theocyrtis Haeckel, 1887 GENUS
-=======
+# Theocyrtis Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

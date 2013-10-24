@@ -1,5 +1,4 @@
-Aleurodiscus sendaiensis Yasuda SPECIES
-=======
+# Aleurodiscus sendaiensis Yasuda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aposphaeria cladoniae f. cladoniae Allesch. FORM
-=======
+# Aposphaeria cladoniae Allesch. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Aposphaeria cladoniae f. cladoniae Allesch.
+Aposphaeria cladoniae Allesch.
 
 ### Remarks
 null

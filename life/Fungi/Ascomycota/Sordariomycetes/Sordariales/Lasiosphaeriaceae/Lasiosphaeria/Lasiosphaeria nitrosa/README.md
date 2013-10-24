@@ -1,5 +1,4 @@
-Lasiosphaeria nitrosa (Wallr.) Sacc. SPECIES
-=======
+# Lasiosphaeria nitrosa (Wallr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

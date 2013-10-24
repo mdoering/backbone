@@ -1,5 +1,4 @@
-Sedimenticola Narasingarao & Häggblom, 2006 GENUS
-=======
+# Sedimenticola Narasingarao & Häggblom, 2006 GENUS
 
 #### Status
 ACCEPTED

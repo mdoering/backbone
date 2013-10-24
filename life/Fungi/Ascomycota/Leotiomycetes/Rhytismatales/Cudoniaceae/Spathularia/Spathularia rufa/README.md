@@ -1,5 +1,4 @@
-Spathularia rufa var. rufa VARIETY
-=======
+# Spathularia rufa Nees SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Ic. Anal. Pl. tab. 50: 1 (1776)
 
 #### Original name
-Spathularia rufa var. rufa
+Spathularia rufa Nees
 
 ### Remarks
 null

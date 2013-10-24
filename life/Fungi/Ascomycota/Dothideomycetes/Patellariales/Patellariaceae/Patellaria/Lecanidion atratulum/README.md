@@ -1,5 +1,4 @@
-Lecanidion atratulum (P. Karst.) Sacc. SPECIES
-=======
+# Lecanidion atratulum (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

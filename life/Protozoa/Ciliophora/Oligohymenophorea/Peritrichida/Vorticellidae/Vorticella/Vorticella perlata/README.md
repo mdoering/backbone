@@ -1,5 +1,4 @@
-Vorticella perlata Kahl, 1933 SPECIES
-=======
+# Vorticella perlata Kahl, 1933 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psathyrella tristis Singer SPECIES
-=======
+# Psathyrella tristis Singer SPECIES
 
 #### Status
 ACCEPTED

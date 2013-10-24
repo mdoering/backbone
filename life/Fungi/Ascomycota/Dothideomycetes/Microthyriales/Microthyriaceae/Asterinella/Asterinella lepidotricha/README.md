@@ -1,5 +1,4 @@
-Asterinella lepidotricha Theiss. SPECIES
-=======
+# Asterinella lepidotricha Theiss. SPECIES
 
 #### Status
 ACCEPTED

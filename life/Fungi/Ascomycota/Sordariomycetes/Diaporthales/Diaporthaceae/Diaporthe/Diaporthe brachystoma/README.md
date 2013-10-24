@@ -1,5 +1,4 @@
-Diaporthe brachystoma Sacc. & Malbr. SPECIES
-=======
+# Diaporthe brachystoma Sacc. & Malbr. SPECIES
 
 #### Status
 ACCEPTED

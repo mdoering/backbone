@@ -1,5 +1,4 @@
-Uredo homeriae Bubák SPECIES
-=======
+# Uredo homeriae Bubák SPECIES
 
 #### Status
 ACCEPTED

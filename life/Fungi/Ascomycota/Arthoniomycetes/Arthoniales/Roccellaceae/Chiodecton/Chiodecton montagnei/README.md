@@ -1,5 +1,4 @@
-Chiodecton montagnei Tuck. SPECIES
-=======
+# Chiodecton montagnei Tuck. SPECIES
 
 #### Status
 ACCEPTED

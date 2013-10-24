@@ -1,5 +1,4 @@
-Uredo pterocarpi T.S. Ramakr. SPECIES
-=======
+# Uredo pterocarpi T.S. Ramakr. SPECIES
 
 #### Status
 ACCEPTED

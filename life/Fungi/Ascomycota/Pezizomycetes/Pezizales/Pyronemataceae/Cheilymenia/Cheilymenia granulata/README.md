@@ -1,17 +1,16 @@
-Coprobia granulata var. granulata VARIETY
-=======
+# Cheilymenia granulata (Bull.) J. Moravec, 1990 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hist. Class. Discom. Eur. (Paris) 1: 69 (1907)
+Mycotaxon 38: 474 (1990)
 
 #### Original name
-Coprobia granulata var. granulata
+Peziza granulata Bull., 1790
 
 ### Remarks
 null

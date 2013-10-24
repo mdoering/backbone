@@ -1,5 +1,4 @@
-Gloeosporium darlingtoniae Kleb. SPECIES
-=======
+# Gloeosporium darlingtoniae Kleb. SPECIES
 
 #### Status
 ACCEPTED

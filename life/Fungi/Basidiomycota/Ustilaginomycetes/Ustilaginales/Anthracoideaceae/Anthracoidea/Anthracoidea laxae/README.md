@@ -1,5 +1,4 @@
-Anthracoidea laxae Kukkonen SPECIES
-=======
+# Anthracoidea laxae Kukkonen SPECIES
 
 #### Status
 ACCEPTED

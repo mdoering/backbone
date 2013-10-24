@@ -1,17 +1,16 @@
-Leptolegniella angulare Karling SPECIES
-=======
+# Leptolegniella angularis Karling, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nova Hedwigia 45(3-4): 434 (1987)
 
 #### Original name
-Leptolegniella angulare Karling
+Leptolegniella angularis Karling, 1987
 
 ### Remarks
 null

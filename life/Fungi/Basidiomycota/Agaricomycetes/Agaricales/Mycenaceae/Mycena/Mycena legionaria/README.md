@@ -1,5 +1,4 @@
-Mycena legionaria Velen. SPECIES
-=======
+# Mycena legionaria Velen. SPECIES
 
 #### Status
 ACCEPTED

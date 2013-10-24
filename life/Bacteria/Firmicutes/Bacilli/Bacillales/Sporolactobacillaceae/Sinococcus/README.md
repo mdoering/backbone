@@ -1,5 +1,4 @@
-Sinococcus GENUS
-=======
+# Sinococcus GENUS
 
 #### Status
 ACCEPTED

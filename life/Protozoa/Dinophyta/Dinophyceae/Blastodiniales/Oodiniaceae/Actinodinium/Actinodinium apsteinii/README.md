@@ -1,5 +1,4 @@
-Actinodinium apsteinii Chatton & Hovasse SPECIES
-=======
+# Actinodinium apsteinii Chatton & Hovasse SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia jogashimensis Hirats. f. & Kaneko {?} SPECIES
-=======
+# Puccinia jogashimensis Hirats. f. & Kaneko {?} SPECIES
 
 #### Status
 ACCEPTED

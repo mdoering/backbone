@@ -1,5 +1,4 @@
-Patellaria verbasci Schwein. SPECIES
-=======
+# Patellaria verbasci Schwein. SPECIES
 
 #### Status
 ACCEPTED

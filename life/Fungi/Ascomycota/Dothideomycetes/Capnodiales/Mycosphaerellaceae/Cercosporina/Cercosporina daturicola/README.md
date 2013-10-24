@@ -1,5 +1,4 @@
-Cercosporina daturicola Speg. SPECIES
-=======
+# Cercosporina daturicola Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hexalithus lecaliae Gardet, 1955 SPECIES
-=======
+# Hexalithus lecaliae Gardet, 1955 SPECIES
 
 #### Status
 ACCEPTED

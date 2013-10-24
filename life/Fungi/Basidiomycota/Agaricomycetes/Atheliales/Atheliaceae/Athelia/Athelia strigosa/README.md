@@ -1,5 +1,4 @@
-Athelia strigosa (Pers.) Pers. SPECIES
-=======
+# Athelia strigosa (Pers.) Pers. SPECIES
 
 #### Status
 ACCEPTED

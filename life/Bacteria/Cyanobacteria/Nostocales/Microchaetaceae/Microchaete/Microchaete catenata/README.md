@@ -1,5 +1,4 @@
-Microchaete catenata Lemmermann SPECIES
-=======
+# Microchaete catenata Lemmermann SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coleophoma drimydis Petr. SPECIES
-=======
+# Coleophoma drimydis Petr. SPECIES
 
 #### Status
 ACCEPTED

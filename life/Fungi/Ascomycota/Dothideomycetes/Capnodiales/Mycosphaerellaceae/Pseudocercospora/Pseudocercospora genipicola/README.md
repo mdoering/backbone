@@ -1,5 +1,4 @@
-Pseudocercospora genipicola U. Braun & F.O. Freire SPECIES
-=======
+# Pseudocercospora genipicola U. Braun & F.O. Freire SPECIES
 
 #### Status
 ACCEPTED

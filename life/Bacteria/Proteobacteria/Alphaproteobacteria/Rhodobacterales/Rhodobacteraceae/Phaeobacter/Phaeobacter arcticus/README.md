@@ -1,5 +1,4 @@
-Phaeobacter arcticus Zhang, Li, Xin, Liu, Chi, Zhou & Yu, 2008 SPECIES
-=======
+# Phaeobacter arcticus Zhang, Li, Xin, Liu, Chi, Zhou & Yu, 2008 SPECIES
 
 #### Status
 ACCEPTED

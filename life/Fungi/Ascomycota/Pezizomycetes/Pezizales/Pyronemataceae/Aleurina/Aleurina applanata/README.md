@@ -1,5 +1,4 @@
-Aleurina applanata (Rabenh. & Gonn.) Sacc. & P. Syd. SPECIES
-=======
+# Aleurina applanata (Rabenh. & Gonn.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

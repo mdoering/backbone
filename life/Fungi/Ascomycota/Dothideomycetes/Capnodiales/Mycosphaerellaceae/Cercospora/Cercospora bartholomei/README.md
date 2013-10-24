@@ -1,8 +1,7 @@
-Cercospora bartholomaei Ellis & Kellerm. SPECIES
-=======
+# Cercospora bartholomei Ellis & Kellerm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cercospora bartholomaei Ellis & Kellerm.
+Cercospora bartholomei Ellis & Kellerm.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Meliola peleae F. Stevens SPECIES
-=======
+# Meliola peleae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

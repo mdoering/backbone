@@ -1,5 +1,4 @@
-Phoma secalina Jancz. SPECIES
-=======
+# Phoma secalina Jancz. SPECIES
 
 #### Status
 ACCEPTED

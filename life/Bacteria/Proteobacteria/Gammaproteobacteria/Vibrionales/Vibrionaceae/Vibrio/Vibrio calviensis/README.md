@@ -1,5 +1,4 @@
-Vibrio calviensis Denner et al., 2002 SPECIES
-=======
+# Vibrio calviensis Denner et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

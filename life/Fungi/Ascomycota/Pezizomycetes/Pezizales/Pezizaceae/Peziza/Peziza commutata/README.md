@@ -1,5 +1,4 @@
-Peziza commutata Pers. SPECIES
-=======
+# Peziza commutata Pers. SPECIES
 
 #### Status
 ACCEPTED

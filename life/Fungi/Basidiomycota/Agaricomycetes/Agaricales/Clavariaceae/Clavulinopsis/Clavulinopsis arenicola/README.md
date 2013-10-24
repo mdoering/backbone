@@ -1,5 +1,4 @@
-Clavulinopsis arenicola Corner, 1950 SPECIES
-=======
+# Clavulinopsis arenicola Corner, 1950 SPECIES
 
 #### Status
 ACCEPTED

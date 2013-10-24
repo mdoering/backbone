@@ -1,14 +1,13 @@
-Cintractia capensis (Reess) Cif., 1931 SPECIES
-=======
+# Bauerago capensis (Reess) Vánky, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 29: 72 (1931)
+Mycotaxon 70: 44 (1999)
 
 #### Original name
 Ustilago capensis Reess

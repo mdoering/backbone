@@ -1,5 +1,4 @@
-Psychroflexus tropicus Donachie et al., 2004 SPECIES
-=======
+# Psychroflexus tropicus Donachie et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

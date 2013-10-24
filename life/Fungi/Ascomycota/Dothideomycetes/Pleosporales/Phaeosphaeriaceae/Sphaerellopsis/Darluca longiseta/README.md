@@ -1,5 +1,4 @@
-Darluca longiseta Henn. SPECIES
-=======
+# Darluca longiseta Henn. SPECIES
 
 #### Status
 ACCEPTED

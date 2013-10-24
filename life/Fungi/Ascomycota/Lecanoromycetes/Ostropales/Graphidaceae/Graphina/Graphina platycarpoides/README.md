@@ -1,5 +1,4 @@
-Graphina platycarpoides (Vain.) Zahlbr. SPECIES
-=======
+# Graphina platycarpoides (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

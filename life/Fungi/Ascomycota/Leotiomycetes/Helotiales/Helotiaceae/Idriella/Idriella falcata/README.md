@@ -1,5 +1,4 @@
-Idriella falcata (B. Sutton & Hodges) Arx SPECIES
-=======
+# Idriella falcata (B. Sutton & Hodges) Arx SPECIES
 
 #### Status
 ACCEPTED

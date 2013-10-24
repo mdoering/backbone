@@ -1,5 +1,4 @@
-Battarrea franciscana Copel. SPECIES
-=======
+# Battarrea franciscana Copel. SPECIES
 
 #### Status
 ACCEPTED

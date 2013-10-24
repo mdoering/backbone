@@ -1,5 +1,4 @@
-Physcia turgida (A. Massal.) Linds. SPECIES
-=======
+# Physcia turgida (A. Massal.) Linds. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeopeltis GENUS
-=======
+# Phaeopeltis GENUS
 
 #### Status
 ACCEPTED

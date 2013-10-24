@@ -1,5 +1,4 @@
-Chlorociboria musae Dennis SPECIES
-=======
+# Chlorociboria musae Dennis SPECIES
 
 #### Status
 ACCEPTED

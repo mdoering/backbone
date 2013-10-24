@@ -1,5 +1,4 @@
-Crepidotus schusteri Singer SPECIES
-=======
+# Crepidotus schusteri Singer SPECIES
 
 #### Status
 ACCEPTED

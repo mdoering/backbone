@@ -1,5 +1,4 @@
-Ilytheomyces simplex Thaxt. SPECIES
-=======
+# Ilytheomyces simplex Thaxt. SPECIES
 
 #### Status
 ACCEPTED

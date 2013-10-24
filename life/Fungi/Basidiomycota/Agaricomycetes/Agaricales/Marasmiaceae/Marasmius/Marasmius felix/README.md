@@ -1,5 +1,4 @@
-Marasmius felix Morgan SPECIES
-=======
+# Marasmius felix Morgan SPECIES
 
 #### Status
 ACCEPTED

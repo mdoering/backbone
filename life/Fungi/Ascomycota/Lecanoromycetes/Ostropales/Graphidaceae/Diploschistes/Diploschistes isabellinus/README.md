@@ -1,5 +1,4 @@
-Diploschistes isabellinus Zahlbr. SPECIES
-=======
+# Diploschistes isabellinus Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

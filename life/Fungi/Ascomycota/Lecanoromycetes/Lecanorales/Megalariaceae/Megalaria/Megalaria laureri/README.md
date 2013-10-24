@@ -1,17 +1,16 @@
-Biatora intermixta SPECIES
-=======
+# Megalaria laureri (Hepp ex Th. Fr.) Hafellner SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Lichens of Italy. An Annotated Catalogue (Torino), Monografia XII, Museo Regionale di Scienze Naturali, Torino 429 (1993)
 
 #### Original name
-Biatora intermixta
+Catillaria laureri Hepp ex Th. Fr.
 
 ### Remarks
 null

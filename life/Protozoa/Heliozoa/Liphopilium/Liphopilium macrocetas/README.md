@@ -1,5 +1,4 @@
-Liphopilium macrocetas Popofsky SPECIES
-=======
+# Liphopilium macrocetas Popofsky SPECIES
 
 #### Status
 ACCEPTED

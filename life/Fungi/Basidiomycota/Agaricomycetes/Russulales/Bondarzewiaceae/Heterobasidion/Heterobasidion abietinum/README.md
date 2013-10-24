@@ -1,5 +1,4 @@
-Heterobasidion abietinum Niemelä & Korhonen, 1998 SPECIES
-=======
+# Heterobasidion abietinum Niemelä & Korhonen, 1998 SPECIES
 
 #### Status
 ACCEPTED

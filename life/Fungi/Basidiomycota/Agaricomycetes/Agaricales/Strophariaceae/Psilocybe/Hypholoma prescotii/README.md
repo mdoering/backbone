@@ -1,17 +1,16 @@
-Hypholoma prescottii Weinm. SPECIES
-=======
+# Hypholoma prescotii Weinm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hym. à Gast. Imp. Ross. Obs. (Petropoli) 249 (1836)
 
 #### Original name
-Hypholoma prescottii Weinm.
+Hypholoma prescotii Weinm.
 
 ### Remarks
 null

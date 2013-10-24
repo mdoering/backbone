@@ -1,5 +1,4 @@
-Paramecium rostratum Dumas, 1930 SPECIES
-=======
+# Paramecium rostratum Dumas, 1930 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta americana Gucevic SPECIES
-=======
+# Phyllosticta americana Gucevic SPECIES
 
 #### Status
 ACCEPTED

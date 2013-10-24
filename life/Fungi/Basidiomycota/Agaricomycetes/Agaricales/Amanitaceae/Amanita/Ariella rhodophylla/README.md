@@ -1,5 +1,4 @@
-Ariella rhodophylla (Beeli) E.-J. Gilbert SPECIES
-=======
+# Ariella rhodophylla (Beeli) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

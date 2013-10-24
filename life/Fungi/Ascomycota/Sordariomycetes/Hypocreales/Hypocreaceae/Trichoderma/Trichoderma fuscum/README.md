@@ -1,5 +1,4 @@
-Trichoderma fuscum Schumach. SPECIES
-=======
+# Trichoderma fuscum Schumach. SPECIES
 
 #### Status
 ACCEPTED

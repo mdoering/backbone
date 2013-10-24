@@ -1,5 +1,4 @@
-Cortinarius hydrozonatus Rob. Henry SPECIES
-=======
+# Cortinarius hydrozonatus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

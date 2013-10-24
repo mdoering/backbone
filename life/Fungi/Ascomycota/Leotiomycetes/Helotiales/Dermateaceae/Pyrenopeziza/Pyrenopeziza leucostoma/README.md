@@ -1,5 +1,4 @@
-Pyrenopeziza leucostoma (P. Karst.) Nannf. SPECIES
-=======
+# Pyrenopeziza leucostoma (P. Karst.) Nannf. SPECIES
 
 #### Status
 ACCEPTED

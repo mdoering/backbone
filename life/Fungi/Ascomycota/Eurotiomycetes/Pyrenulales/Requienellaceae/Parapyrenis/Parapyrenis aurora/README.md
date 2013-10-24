@@ -1,14 +1,13 @@
-Microthelia aurora Zahlbr. SPECIES
-=======
+# Parapyrenis aurora (Zahlbr.) Aptroot SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biblthca Lichenol. 44: 97 (1991)
 
 #### Original name
 Microthelia aurora Zahlbr.

@@ -1,5 +1,4 @@
-Dacryoscyphus chrysochilus R. Kirschner & Zhu L. Yang, 2005 SPECIES
-=======
+# Dacryoscyphus chrysochilus R. Kirschner & Zhu L. Yang, 2005 SPECIES
 
 #### Status
 ACCEPTED

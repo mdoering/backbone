@@ -1,5 +1,4 @@
-Valsa arcuata Curr. SPECIES
-=======
+# Valsa arcuata Curr. SPECIES
 
 #### Status
 ACCEPTED

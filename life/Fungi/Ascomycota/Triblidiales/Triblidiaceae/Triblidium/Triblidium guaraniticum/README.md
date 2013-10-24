@@ -1,5 +1,4 @@
-Triblidium guaraniticum Speg. SPECIES
-=======
+# Triblidium guaraniticum Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Safrodina GENUS
-=======
+# Safrodina GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mollisia scirpina (Peck) Sacc. SPECIES
-=======
+# Mollisia scirpina (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

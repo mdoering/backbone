@@ -1,5 +1,4 @@
-Hexaconarium Haeckel, 1887 GENUS
-=======
+# Hexaconarium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

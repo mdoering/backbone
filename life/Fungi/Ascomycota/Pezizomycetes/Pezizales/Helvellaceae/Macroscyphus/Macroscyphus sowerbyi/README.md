@@ -1,5 +1,4 @@
-Macroscyphus sowerbyi (Pers.) Gray SPECIES
-=======
+# Macroscyphus sowerbyi (Pers.) Gray SPECIES
 
 #### Status
 ACCEPTED

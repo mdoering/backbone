@@ -1,5 +1,4 @@
-Bulimina nipponica Asano SPECIES
-=======
+# Bulimina nipponica Asano SPECIES
 
 #### Status
 ACCEPTED

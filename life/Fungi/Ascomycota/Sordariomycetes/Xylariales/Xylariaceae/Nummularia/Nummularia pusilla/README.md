@@ -1,5 +1,4 @@
-Nummularia pusilla Sacc. SPECIES
-=======
+# Nummularia pusilla Sacc. SPECIES
 
 #### Status
 ACCEPTED

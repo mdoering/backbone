@@ -1,5 +1,4 @@
-Buellia confervoides Rabenh. SPECIES
-=======
+# Buellia confervoides Rabenh. SPECIES
 
 #### Status
 ACCEPTED

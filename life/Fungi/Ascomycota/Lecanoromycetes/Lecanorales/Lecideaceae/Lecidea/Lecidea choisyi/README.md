@@ -1,5 +1,4 @@
-Lecidea choisyi Werner SPECIES
-=======
+# Lecidea choisyi Werner SPECIES
 
 #### Status
 ACCEPTED

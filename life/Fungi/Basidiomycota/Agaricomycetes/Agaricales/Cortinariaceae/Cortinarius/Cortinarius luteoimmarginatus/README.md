@@ -1,5 +1,4 @@
-Cortinarius luteoimmarginatus Rob. Henry SPECIES
-=======
+# Cortinarius luteoimmarginatus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

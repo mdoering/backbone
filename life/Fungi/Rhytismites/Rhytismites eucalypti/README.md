@@ -1,5 +1,4 @@
-Rhytismites eucalypti Ettingsh. & Garden {?} SPECIES
-=======
+# Rhytismites eucalypti Ettingsh. & Garden {?} SPECIES
 
 #### Status
 ACCEPTED

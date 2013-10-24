@@ -1,5 +1,4 @@
-Dasyspora geranii-silvatici Arthur SPECIES
-=======
+# Dasyspora geranii-silvatici Arthur SPECIES
 
 #### Status
 ACCEPTED

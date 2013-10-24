@@ -1,5 +1,4 @@
-Acrothecium (Corda) Preuss, 1851 GENUS
-=======
+# Acrothecium (Corda) Preuss, 1851 GENUS
 
 #### Status
 ACCEPTED

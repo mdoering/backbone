@@ -1,5 +1,4 @@
-Uncinia salicina Velen. SPECIES
-=======
+# Uncinia salicina Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placosphaeria minutula Sacc. SPECIES
-=======
+# Placosphaeria minutula Sacc. SPECIES
 
 #### Status
 ACCEPTED

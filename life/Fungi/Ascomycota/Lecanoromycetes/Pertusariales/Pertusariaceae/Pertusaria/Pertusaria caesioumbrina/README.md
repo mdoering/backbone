@@ -1,5 +1,4 @@
-Pertusaria caesioumbrina Eitner SPECIES
-=======
+# Pertusaria caesioumbrina Eitner SPECIES
 
 #### Status
 ACCEPTED

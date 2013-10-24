@@ -1,5 +1,4 @@
-Dacrymyces san-augustinii Kobayasi SPECIES
-=======
+# Dacrymyces san-augustinii Kobayasi SPECIES
 
 #### Status
 ACCEPTED

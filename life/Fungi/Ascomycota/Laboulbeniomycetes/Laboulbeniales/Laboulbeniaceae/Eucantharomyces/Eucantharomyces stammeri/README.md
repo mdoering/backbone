@@ -1,5 +1,4 @@
-Eucantharomyces stammeri Scheloske SPECIES
-=======
+# Eucantharomyces stammeri Scheloske SPECIES
 
 #### Status
 ACCEPTED

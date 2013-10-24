@@ -1,5 +1,4 @@
-Porina epimelaena Vain. ex Redinger SPECIES
-=======
+# Porina epimelaena Vain. ex Redinger SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius tephrophyllus M.M. Moser SPECIES
-=======
+# Cortinarius tephrophyllus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

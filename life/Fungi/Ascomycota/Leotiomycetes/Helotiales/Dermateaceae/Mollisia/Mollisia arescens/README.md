@@ -1,5 +1,4 @@
-Mollisia arescens Rehm SPECIES
-=======
+# Mollisia arescens Rehm SPECIES
 
 #### Status
 ACCEPTED

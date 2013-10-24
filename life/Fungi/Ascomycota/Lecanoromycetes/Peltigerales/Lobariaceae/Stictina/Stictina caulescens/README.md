@@ -1,5 +1,4 @@
-Stictina caulescens (De Not.) Räsänen SPECIES
-=======
+# Stictina caulescens (De Not.) Räsänen SPECIES
 
 #### Status
 ACCEPTED

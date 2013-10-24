@@ -1,5 +1,4 @@
-Kalmykoviella Ektova, 1989 GENUS
-=======
+# Kalmykoviella Ektova, 1989 GENUS
 
 #### Status
 ACCEPTED

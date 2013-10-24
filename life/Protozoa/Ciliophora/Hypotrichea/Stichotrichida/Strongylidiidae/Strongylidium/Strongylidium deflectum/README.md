@@ -1,5 +1,4 @@
-Strongylidium deflectum (Tucolesco, 1962) ? SPECIES
-=======
+# Strongylidium deflectum (Tucolesco, 1962) ? SPECIES
 
 #### Status
 ACCEPTED

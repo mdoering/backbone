@@ -1,5 +1,4 @@
-Phomopsis durionis Syd. SPECIES
-=======
+# Phomopsis durionis Syd. SPECIES
 
 #### Status
 ACCEPTED

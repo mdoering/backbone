@@ -1,5 +1,4 @@
-Trichodina chelidonichthys Fantham, 1930 SPECIES
-=======
+# Trichodina chelidonichthys Fantham, 1930 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudopeziza simulata (Berk. & Broome) Massee SPECIES
-=======
+# Pseudopeziza simulata (Berk. & Broome) Massee SPECIES
 
 #### Status
 ACCEPTED

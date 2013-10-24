@@ -1,5 +1,4 @@
-Cenangium repandum Fr. SPECIES
-=======
+# Cenangium repandum Fr. SPECIES
 
 #### Status
 ACCEPTED

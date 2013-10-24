@@ -1,5 +1,4 @@
-Gymnoglossum stipitatum Massee, 1891 SPECIES
-=======
+# Gymnoglossum stipitatum Massee, 1891 SPECIES
 
 #### Status
 ACCEPTED

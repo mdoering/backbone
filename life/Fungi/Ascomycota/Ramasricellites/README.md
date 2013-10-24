@@ -1,5 +1,4 @@
-Ramasricellites Kalgutkar & Janson. GENUS
-=======
+# Ramasricellites Kalgutkar & Janson. GENUS
 
 #### Status
 ACCEPTED

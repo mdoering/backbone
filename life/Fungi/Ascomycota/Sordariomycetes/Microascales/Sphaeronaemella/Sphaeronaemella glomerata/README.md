@@ -1,5 +1,4 @@
-Sphaeronaemella glomerata Grove SPECIES
-=======
+# Sphaeronaemella glomerata Grove SPECIES
 
 #### Status
 ACCEPTED

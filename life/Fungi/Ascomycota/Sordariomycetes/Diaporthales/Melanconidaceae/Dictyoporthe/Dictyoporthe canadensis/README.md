@@ -1,5 +1,4 @@
-Dictyoporthe canadensis (Ellis & Everh.) M.E. Barr SPECIES
-=======
+# Dictyoporthe canadensis (Ellis & Everh.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

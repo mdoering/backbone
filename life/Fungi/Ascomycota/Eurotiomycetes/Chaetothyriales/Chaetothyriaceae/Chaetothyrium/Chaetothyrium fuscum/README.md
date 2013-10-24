@@ -1,5 +1,4 @@
-Chaetothyrium fuscum L.R. Fraser SPECIES
-=======
+# Chaetothyrium fuscum L.R. Fraser SPECIES
 
 #### Status
 ACCEPTED

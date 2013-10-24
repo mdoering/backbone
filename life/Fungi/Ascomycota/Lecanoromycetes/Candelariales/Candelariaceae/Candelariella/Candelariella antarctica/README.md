@@ -1,5 +1,4 @@
-Candelariella antarctica Filson SPECIES
-=======
+# Candelariella antarctica Filson SPECIES
 
 #### Status
 ACCEPTED

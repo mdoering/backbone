@@ -1,5 +1,4 @@
-Mycovellosiella antidesmatis Bhalla, S.K. Singh & A.K. Srivast. SPECIES
-=======
+# Mycovellosiella antidesmatis Bhalla, S.K. Singh & A.K. Srivast. SPECIES
 
 #### Status
 ACCEPTED

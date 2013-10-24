@@ -1,5 +1,4 @@
-Celloniella Pascher, 1929 GENUS
-=======
+# Celloniella Pascher, 1929 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ceriomyces aureissimus Murrill SPECIES
-=======
+# Ceriomyces aureissimus Murrill SPECIES
 
 #### Status
 ACCEPTED

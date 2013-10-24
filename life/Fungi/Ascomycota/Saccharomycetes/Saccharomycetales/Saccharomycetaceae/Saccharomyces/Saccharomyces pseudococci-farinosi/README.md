@@ -1,5 +1,4 @@
-Saccharomyces pseudococci-farinosi ulc SPECIES
-=======
+# Saccharomyces pseudococci-farinosi ulc SPECIES
 
 #### Status
 ACCEPTED

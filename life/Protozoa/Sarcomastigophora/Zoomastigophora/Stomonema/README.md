@@ -1,5 +1,4 @@
-Stomonema Fromentel, 1874 GENUS
-=======
+# Stomonema Fromentel, 1874 GENUS
 
 #### Status
 ACCEPTED

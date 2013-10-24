@@ -1,5 +1,4 @@
-Endomycopsis montevidensis L.A. Queiroz SPECIES
-=======
+# Endomycopsis montevidensis L.A. Queiroz SPECIES
 
 #### Status
 ACCEPTED

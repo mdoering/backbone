@@ -1,5 +1,4 @@
-Jattaea leucospermi Marincowitz, M.J. Wingf. & Crous SPECIES
-=======
+# Jattaea leucospermi Marincowitz, M.J. Wingf. & Crous SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phormidium endospongeliae I. Umezaki SPECIES
-=======
+# Phormidium endospongeliae I. Umezaki SPECIES
 
 #### Status
 ACCEPTED

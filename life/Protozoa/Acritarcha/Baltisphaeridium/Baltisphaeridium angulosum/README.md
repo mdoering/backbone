@@ -1,5 +1,4 @@
-Baltisphaeridium angulosum Heisecke, 1970 SPECIES
-=======
+# Baltisphaeridium angulosum Heisecke, 1970 SPECIES
 
 #### Status
 ACCEPTED

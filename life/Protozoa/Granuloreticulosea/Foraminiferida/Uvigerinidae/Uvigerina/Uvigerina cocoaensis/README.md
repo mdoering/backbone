@@ -1,5 +1,4 @@
-Uvigerina cocoaensis Cushman SPECIES
-=======
+# Uvigerina cocoaensis Cushman SPECIES
 
 #### Status
 ACCEPTED

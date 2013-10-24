@@ -1,5 +1,4 @@
-Peziza illota Berk. & M.A. Curtis SPECIES
-=======
+# Peziza illota Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

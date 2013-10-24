@@ -1,5 +1,4 @@
-Zygosphaera Kamptner, 1937 GENUS
-=======
+# Zygosphaera Kamptner, 1937 GENUS
 
 #### Status
 ACCEPTED

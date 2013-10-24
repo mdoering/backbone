@@ -1,5 +1,4 @@
-Hypochnus quercinus De Not. & Bagl. SPECIES
-=======
+# Hypochnus quercinus De Not. & Bagl. SPECIES
 
 #### Status
 ACCEPTED

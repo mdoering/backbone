@@ -1,5 +1,4 @@
-Russula sancti-ramonensis L.D. Gómez, Alfaro & Singer SPECIES
-=======
+# Russula sancti-ramonensis L.D. Gómez, Alfaro & Singer SPECIES
 
 #### Status
 ACCEPTED

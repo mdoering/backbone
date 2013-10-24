@@ -1,8 +1,7 @@
-Trachelomonas eurystoma var. banatica Szabados VARIETY
-=======
+# Trachelomonas banatica (Szabados) Huber-PeStalozzi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

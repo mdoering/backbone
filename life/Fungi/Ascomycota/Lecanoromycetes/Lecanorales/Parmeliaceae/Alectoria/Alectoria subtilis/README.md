@@ -1,5 +1,4 @@
-Alectoria subtilis Motyka SPECIES
-=======
+# Alectoria subtilis Motyka SPECIES
 
 #### Status
 ACCEPTED

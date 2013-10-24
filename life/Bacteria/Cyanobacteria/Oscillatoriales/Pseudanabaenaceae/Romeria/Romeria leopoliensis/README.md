@@ -1,5 +1,4 @@
-Romeria leopoliensis (Raciborski) Koczwara SPECIES
-=======
+# Romeria leopoliensis (Raciborski) Koczwara SPECIES
 
 #### Status
 ACCEPTED

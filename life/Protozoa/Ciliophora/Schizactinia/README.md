@@ -1,5 +1,4 @@
-Schizactinia GENUS
-=======
+# Schizactinia GENUS
 
 #### Status
 ACCEPTED

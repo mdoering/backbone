@@ -1,5 +1,4 @@
-Dicheirinia guianensis Cummins, 1937 SPECIES
-=======
+# Dicheirinia guianensis Cummins, 1937 SPECIES
 
 #### Status
 ACCEPTED

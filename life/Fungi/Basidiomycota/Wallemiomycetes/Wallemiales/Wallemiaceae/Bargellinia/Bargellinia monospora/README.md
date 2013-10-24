@@ -1,5 +1,4 @@
-Bargellinia monospora Borzí SPECIES
-=======
+# Bargellinia monospora Borzí SPECIES
 
 #### Status
 ACCEPTED

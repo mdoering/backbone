@@ -1,5 +1,4 @@
-Graphis intexta Nyl. SPECIES
-=======
+# Graphis intexta Nyl. SPECIES
 
 #### Status
 ACCEPTED

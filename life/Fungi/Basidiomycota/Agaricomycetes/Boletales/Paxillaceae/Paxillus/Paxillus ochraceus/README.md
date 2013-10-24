@@ -1,5 +1,4 @@
-Paxillus ochraceus T.H. Li & Watling SPECIES
-=======
+# Paxillus ochraceus T.H. Li & Watling SPECIES
 
 #### Status
 ACCEPTED

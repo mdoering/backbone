@@ -1,5 +1,4 @@
-Buellia lecideina Stein SPECIES
-=======
+# Buellia lecideina Stein SPECIES
 
 #### Status
 ACCEPTED

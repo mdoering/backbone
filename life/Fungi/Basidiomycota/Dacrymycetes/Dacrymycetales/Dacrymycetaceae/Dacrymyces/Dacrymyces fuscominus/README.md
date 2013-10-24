@@ -1,5 +1,4 @@
-Dacrymyces fuscominus var. fuscominus VARIETY
-=======
+# Dacrymyces fuscominus Coker SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+J. Elisha Mitchell scient. Soc. 35: 35 (1920)
 
 #### Original name
-Dacrymyces fuscominus var. fuscominus
+Dacrymyces fuscominus Coker
 
 ### Remarks
 null

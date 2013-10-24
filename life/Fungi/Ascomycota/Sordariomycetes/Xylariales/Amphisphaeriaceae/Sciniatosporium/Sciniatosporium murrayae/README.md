@@ -1,5 +1,4 @@
-Sciniatosporium murrayae (Henn.) Morgan-Jones SPECIES
-=======
+# Sciniatosporium murrayae (Henn.) Morgan-Jones SPECIES
 
 #### Status
 ACCEPTED

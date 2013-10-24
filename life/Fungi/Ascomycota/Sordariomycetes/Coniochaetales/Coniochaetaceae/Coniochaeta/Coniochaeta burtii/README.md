@@ -1,5 +1,4 @@
-Coniochaeta burtii M.J. Richardson SPECIES
-=======
+# Coniochaeta burtii M.J. Richardson SPECIES
 
 #### Status
 ACCEPTED

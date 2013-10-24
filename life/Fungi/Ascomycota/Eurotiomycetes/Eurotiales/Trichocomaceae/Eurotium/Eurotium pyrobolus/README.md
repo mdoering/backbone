@@ -1,5 +1,4 @@
-Eurotium pyrobolus Fr. SPECIES
-=======
+# Eurotium pyrobolus Fr. SPECIES
 
 #### Status
 ACCEPTED

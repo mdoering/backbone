@@ -1,5 +1,4 @@
-Meliola shillongensis Hosag., J. Thomas & P.J. Robin SPECIES
-=======
+# Meliola shillongensis Hosag., J. Thomas & P.J. Robin SPECIES
 
 #### Status
 ACCEPTED

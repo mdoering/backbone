@@ -1,5 +1,4 @@
-Stereopsis reidii Losi & A. Gennari, 1997 SPECIES
-=======
+# Stereopsis reidii Losi & A. Gennari, 1997 SPECIES
 
 #### Status
 ACCEPTED

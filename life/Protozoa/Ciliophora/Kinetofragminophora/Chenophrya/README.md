@@ -1,5 +1,4 @@
-Chenophrya Dovgal, 2002 GENUS
-=======
+# Chenophrya Dovgal, 2002 GENUS
 
 #### Status
 ACCEPTED

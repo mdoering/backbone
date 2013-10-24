@@ -1,14 +1,13 @@
-Tricholoma titans H.E. Bigelow & Kimbr., 1980 SPECIES
-=======
+# Macrocybe titans (H.E. Bigelow & Kimbr.) Pegler, Lodge & Nakasone, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 11(2): 426 (1980)
+Mycologia 90(3): 500 (1998)
 
 #### Original name
 Tricholoma titans H.E. Bigelow & Kimbr., 1980

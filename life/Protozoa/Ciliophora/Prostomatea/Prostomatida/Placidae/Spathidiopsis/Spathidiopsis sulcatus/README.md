@@ -1,5 +1,4 @@
-Spathidiopsis sulcatus (Mansfeld, 1923) Corliss, 1979 SPECIES
-=======
+# Spathidiopsis sulcatus (Mansfeld, 1923) Corliss, 1979 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lobaria tinctoria Hoffm. SPECIES
-=======
+# Lobaria tinctoria Hoffm. SPECIES
 
 #### Status
 ACCEPTED

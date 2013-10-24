@@ -1,5 +1,4 @@
-Astropolithon Dawson, 1878 GENUS
-=======
+# Astropolithon Dawson, 1878 GENUS
 
 #### Status
 ACCEPTED

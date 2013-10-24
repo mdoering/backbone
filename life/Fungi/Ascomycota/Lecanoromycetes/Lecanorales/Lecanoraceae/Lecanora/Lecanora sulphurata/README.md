@@ -1,5 +1,4 @@
-Lecanora sulphurata (Ach.) Nyl. SPECIES
-=======
+# Lecanora sulphurata (Ach.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

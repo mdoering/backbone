@@ -1,5 +1,4 @@
-Lepraria farinosa (Hoffm.) Ach. SPECIES
-=======
+# Lepraria farinosa (Hoffm.) Ach. SPECIES
 
 #### Status
 ACCEPTED

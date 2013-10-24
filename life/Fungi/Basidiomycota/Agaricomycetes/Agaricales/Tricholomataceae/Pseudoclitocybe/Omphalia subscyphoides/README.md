@@ -1,5 +1,4 @@
-Omphalia subscyphoides (Murrill) Murrill SPECIES
-=======
+# Omphalia subscyphoides (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

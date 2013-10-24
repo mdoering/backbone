@@ -1,5 +1,4 @@
-Hypholoma janus (Berk. & Broome) Petch SPECIES
-=======
+# Hypholoma janus (Berk. & Broome) Petch SPECIES
 
 #### Status
 ACCEPTED

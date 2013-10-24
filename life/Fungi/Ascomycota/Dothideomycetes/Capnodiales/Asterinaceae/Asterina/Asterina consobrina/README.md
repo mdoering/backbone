@@ -1,5 +1,4 @@
-Asterina consobrina Syd., 1927 SPECIES
-=======
+# Asterina consobrina Syd., 1927 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenula acutispora Kalb & Hafellner SPECIES
-=======
+# Pyrenula acutispora Kalb & Hafellner SPECIES
 
 #### Status
 ACCEPTED

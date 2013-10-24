@@ -1,17 +1,16 @@
-Graphis elegans f. elegans (Borrer ex Sm.) Ach. FORM
-=======
+# Graphis elegans (Borrer ex Sm.) Ach. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Syn. meth. lich. 85 (1814)
 
 #### Original name
-Graphis elegans f. elegans (Borrer ex Sm.) Ach.
+Opegrapha elegans Borrer ex Sm.
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Peronospora hesperidis Gäum., 1918 SPECIES
-=======
+# Hyaloperonospora hesperidis (Gäum.) Göker, Riethm., Voglmayr, Weiss & Oberw., 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beih. bot. Zbl. , Abt. 1 35(1): 525 (1918)
+Mycol. Progr. 3(2): 89 (2004)
 
 #### Original name
 Peronospora hesperidis Gäum., 1918

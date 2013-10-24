@@ -1,5 +1,4 @@
-Hendersonia pontica Petr. SPECIES
-=======
+# Hendersonia pontica Petr. SPECIES
 
 #### Status
 ACCEPTED

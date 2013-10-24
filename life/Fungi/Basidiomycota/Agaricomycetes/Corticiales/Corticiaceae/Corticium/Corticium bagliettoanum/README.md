@@ -1,5 +1,4 @@
-Corticium bagliettoanum Fr. SPECIES
-=======
+# Corticium bagliettoanum Fr. SPECIES
 
 #### Status
 ACCEPTED

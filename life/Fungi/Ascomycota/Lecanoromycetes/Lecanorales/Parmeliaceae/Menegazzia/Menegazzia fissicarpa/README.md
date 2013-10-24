@@ -1,5 +1,4 @@
-Menegazzia fissicarpa P. James SPECIES
-=======
+# Menegazzia fissicarpa P. James SPECIES
 
 #### Status
 ACCEPTED

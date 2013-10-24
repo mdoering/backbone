@@ -1,5 +1,4 @@
-Entomophthora israelensis Ben Ze'ev & Zelig, 1984 SPECIES
-=======
+# Entomophthora israelensis Ben Ze'ev & Zelig, 1984 SPECIES
 
 #### Status
 ACCEPTED

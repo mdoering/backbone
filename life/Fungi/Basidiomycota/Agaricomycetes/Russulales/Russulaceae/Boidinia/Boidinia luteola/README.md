@@ -1,5 +1,4 @@
-Boidinia luteola Sheng H. Wu, 1996 SPECIES
-=======
+# Boidinia luteola Sheng H. Wu, 1996 SPECIES
 
 #### Status
 ACCEPTED

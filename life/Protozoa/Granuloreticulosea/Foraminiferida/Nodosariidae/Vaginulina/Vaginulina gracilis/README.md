@@ -1,5 +1,4 @@
-Vaginulina gracilis Plummer SPECIES
-=======
+# Vaginulina gracilis Plummer SPECIES
 
 #### Status
 ACCEPTED

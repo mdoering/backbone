@@ -1,14 +1,13 @@
-Pezizella fuscescens Rehm, 1907 SPECIES
-=======
+# Pyrenopeziza fuscescens (Rehm) Défago, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 21: 64 (1968)
 
 #### Original name
 Pezizella fuscescens Rehm, 1907

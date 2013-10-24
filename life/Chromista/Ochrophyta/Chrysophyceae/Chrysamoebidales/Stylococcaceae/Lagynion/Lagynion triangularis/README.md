@@ -1,5 +1,4 @@
-Lagynion triangularis SPECIES
-=======
+# Lagynion triangularis SPECIES
 
 #### Status
 ACCEPTED

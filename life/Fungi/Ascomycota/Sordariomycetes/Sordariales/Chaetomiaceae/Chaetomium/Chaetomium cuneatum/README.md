@@ -1,5 +1,4 @@
-Chaetomium cuneatum Sörgel SPECIES
-=======
+# Chaetomium cuneatum Sörgel SPECIES
 
 #### Status
 ACCEPTED

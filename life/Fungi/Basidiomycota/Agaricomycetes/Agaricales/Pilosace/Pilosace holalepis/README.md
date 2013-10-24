@@ -1,5 +1,4 @@
-Pilosace holalepis Fr. SPECIES
-=======
+# Pilosace holalepis Fr. SPECIES
 
 #### Status
 ACCEPTED

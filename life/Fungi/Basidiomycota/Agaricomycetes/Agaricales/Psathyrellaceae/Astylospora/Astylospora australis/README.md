@@ -1,17 +1,16 @@
-Atylospora australis Murrill SPECIES
-=======
+# Astylospora australis Murrill SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 14(5): 266 (1922)
 
 #### Original name
-Atylospora australis Murrill
+Astylospora australis Murrill
 
 ### Remarks
 null

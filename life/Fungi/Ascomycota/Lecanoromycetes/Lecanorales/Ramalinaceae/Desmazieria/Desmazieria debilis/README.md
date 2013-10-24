@@ -1,14 +1,13 @@
-Desmazieria desmaziera (Müll. Arg.) C.W. Dodge SPECIES
-=======
+# Desmazieria debilis (Müll. Arg.) C.W. Dodge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Beih. Nova Hedwigia 38: 52 (1971)
 
 #### Original name
 Ramalina debilis Müll. Arg.

@@ -1,5 +1,4 @@
-Coniothyrium maticola Speg. SPECIES
-=======
+# Coniothyrium maticola Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tentaculomonas B.V. Skvortzov & M. Noda, 1969 GENUS
-=======
+# Tentaculomonas B.V. Skvortzov & M. Noda, 1969 GENUS
 
 #### Status
 ACCEPTED

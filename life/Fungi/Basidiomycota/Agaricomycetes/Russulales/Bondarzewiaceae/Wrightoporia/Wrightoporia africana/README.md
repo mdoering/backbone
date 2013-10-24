@@ -1,5 +1,4 @@
-Wrightoporia africana I. Johans. & Ryvarden, 1979 SPECIES
-=======
+# Wrightoporia africana I. Johans. & Ryvarden, 1979 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Macrophoma zizyphina S. Ahmad SPECIES
-=======
+# Macrophoma ziziphina S. Ahmad SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Macrophoma zizyphina S. Ahmad
+Macrophoma ziziphina S. Ahmad
 
 ### Remarks
 null

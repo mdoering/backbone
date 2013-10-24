@@ -1,5 +1,4 @@
-Didymaster myrtaciicola Bat. & H. Maia SPECIES
-=======
+# Didymaster myrtaciicola Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

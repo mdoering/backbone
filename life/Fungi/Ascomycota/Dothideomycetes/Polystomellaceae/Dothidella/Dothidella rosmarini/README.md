@@ -1,5 +1,4 @@
-Dothidella rosmarini Urries SPECIES
-=======
+# Dothidella rosmarini Urries SPECIES
 
 #### Status
 ACCEPTED

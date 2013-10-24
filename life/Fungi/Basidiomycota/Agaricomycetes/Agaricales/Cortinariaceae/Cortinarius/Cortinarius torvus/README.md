@@ -1,17 +1,16 @@
-Cortinarius torvus var. torvus (Fr.) Fr. VARIETY
-=======
+# Cortinarius torvus (Fr.) Fr., 1838 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Epicr. syst. mycol. (Upsaliae) 293 (1838)
 
 #### Original name
-Cortinarius torvus var. torvus (Fr.) Fr.
+Agaricus torvus Fr., 1818
 
 ### Remarks
 null

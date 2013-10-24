@@ -1,5 +1,4 @@
-Derxomyces boninensis (Sugita, Cañ.-Gib., M. Takash. & Nakase) F.Y. Bai & Q.M. Wang SPECIES
-=======
+# Derxomyces boninensis (Sugita, Cañ.-Gib., M. Takash. & Nakase) F.Y. Bai & Q.M. Wang SPECIES
 
 #### Status
 ACCEPTED

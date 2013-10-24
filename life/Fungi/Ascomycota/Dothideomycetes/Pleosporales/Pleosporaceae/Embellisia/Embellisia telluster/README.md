@@ -1,5 +1,4 @@
-Embellisia telluster E.G. Simmons SPECIES
-=======
+# Embellisia telluster E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

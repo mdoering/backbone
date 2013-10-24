@@ -1,11 +1,10 @@
-Phycopteris Kützing, 1843 GENUS
-=======
+# Zonaria C.A. Agardh, 1817 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

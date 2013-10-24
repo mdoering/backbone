@@ -1,5 +1,4 @@
-Lachnocladium pallens Bres. SPECIES
-=======
+# Lachnocladium pallens Bres. SPECIES
 
 #### Status
 ACCEPTED

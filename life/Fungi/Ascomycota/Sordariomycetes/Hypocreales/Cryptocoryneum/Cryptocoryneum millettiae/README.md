@@ -1,5 +1,4 @@
-Cryptocoryneum millettiae Sawada SPECIES
-=======
+# Cryptocoryneum millettiae Sawada SPECIES
 
 #### Status
 ACCEPTED

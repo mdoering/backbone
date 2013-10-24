@@ -1,5 +1,4 @@
-Boletus magnificus var. magnificus VARIETY
-=======
+# Boletus magnificus W.F. Chiu SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Mycologia 40: 221 (1948)
 
 #### Original name
-Boletus magnificus var. magnificus
+Boletus magnificus W.F. Chiu
 
 ### Remarks
 null

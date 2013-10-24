@@ -1,5 +1,4 @@
-Polyporus asperi Jungh. SPECIES
-=======
+# Polyporus asperi Jungh. SPECIES
 
 #### Status
 ACCEPTED

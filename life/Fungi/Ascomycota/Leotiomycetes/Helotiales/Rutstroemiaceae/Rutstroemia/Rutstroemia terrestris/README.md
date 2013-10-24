@@ -1,5 +1,4 @@
-Rutstroemia terrestris Velen. SPECIES
-=======
+# Rutstroemia terrestris Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acystis Schiffner, 1934 GENUS
-=======
+# Acystis Schiffner, 1934 GENUS
 
 #### Status
 ACCEPTED

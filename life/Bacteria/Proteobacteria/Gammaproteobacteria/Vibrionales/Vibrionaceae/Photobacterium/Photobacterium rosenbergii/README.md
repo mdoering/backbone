@@ -1,5 +1,4 @@
-Photobacterium rosenbergii Thompson et al., 2005 SPECIES
-=======
+# Photobacterium rosenbergii Thompson et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

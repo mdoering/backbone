@@ -1,5 +1,4 @@
-Syracorhabdus fertii J. Lecal SPECIES
-=======
+# Syracorhabdus fertii J. Lecal SPECIES
 
 #### Status
 ACCEPTED

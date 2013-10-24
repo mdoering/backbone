@@ -1,5 +1,4 @@
-Salpingacantha caudata Kofoid & Campbell, 1929 SPECIES
-=======
+# Salpingacantha caudata Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

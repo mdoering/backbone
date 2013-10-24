@@ -1,5 +1,4 @@
-Chaenothecopsis faginea Nádv. SPECIES
-=======
+# Chaenothecopsis faginea Nádv. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus phaeton Cooke & Massee SPECIES
-=======
+# Agaricus phaeton Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

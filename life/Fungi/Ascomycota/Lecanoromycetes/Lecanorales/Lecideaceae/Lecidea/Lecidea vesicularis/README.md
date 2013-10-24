@@ -1,5 +1,4 @@
-Lecidea vesicularis (Hoffm.) Ach. SPECIES
-=======
+# Lecidea vesicularis (Hoffm.) Ach. SPECIES
 
 #### Status
 ACCEPTED

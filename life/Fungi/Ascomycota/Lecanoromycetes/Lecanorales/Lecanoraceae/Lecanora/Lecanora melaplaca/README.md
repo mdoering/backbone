@@ -1,5 +1,4 @@
-Lecanora melaplaca Nyl. SPECIES
-=======
+# Lecanora melaplaca Nyl. SPECIES
 
 #### Status
 ACCEPTED

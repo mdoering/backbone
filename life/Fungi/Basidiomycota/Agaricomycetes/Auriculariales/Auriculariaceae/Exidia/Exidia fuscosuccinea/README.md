@@ -1,5 +1,4 @@
-Exidia fuscosuccinea Mont. SPECIES
-=======
+# Exidia fuscosuccinea Mont. SPECIES
 
 #### Status
 ACCEPTED

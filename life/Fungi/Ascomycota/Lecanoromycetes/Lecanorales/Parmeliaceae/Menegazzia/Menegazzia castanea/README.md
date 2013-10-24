@@ -1,5 +1,4 @@
-Menegazzia castanea P. James & D. J. Galloway SPECIES
-=======
+# Menegazzia castanea P. James & D. J. Galloway SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caudosporidae FAMILY
-=======
+# Caudosporidae FAMILY
 
 #### Status
 ACCEPTED

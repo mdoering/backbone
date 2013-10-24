@@ -1,5 +1,4 @@
-Thyridium syringae Ellis & Everh. SPECIES
-=======
+# Thyridium syringae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

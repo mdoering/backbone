@@ -1,5 +1,4 @@
-Hygrophorus gentilitius Britzelm. SPECIES
-=======
+# Hygrophorus gentilitius Britzelm. SPECIES
 
 #### Status
 ACCEPTED

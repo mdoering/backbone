@@ -1,14 +1,13 @@
-Foveostroma dahlie (Died.) Hosag. & N.P. Balakr. SPECIES
-=======
+# Foveostroma dahliae (Died.) Hosag. & N.P. Balakr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Econ. Taxon. Bot. 15(2): 477 (1991)
 
 #### Original name
 Micropera dahliae Died.

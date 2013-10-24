@@ -1,5 +1,4 @@
-Phytophthora polonica Belbahri, Moralejo, Calmin & Oszako SPECIES
-=======
+# Phytophthora polonica Belbahri, Moralejo, Calmin & Oszako SPECIES
 
 #### Status
 ACCEPTED

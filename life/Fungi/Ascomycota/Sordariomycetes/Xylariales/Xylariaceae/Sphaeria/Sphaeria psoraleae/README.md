@@ -1,5 +1,4 @@
-Sphaeria psoraleae Castagne SPECIES
-=======
+# Sphaeria psoraleae Castagne SPECIES
 
 #### Status
 ACCEPTED

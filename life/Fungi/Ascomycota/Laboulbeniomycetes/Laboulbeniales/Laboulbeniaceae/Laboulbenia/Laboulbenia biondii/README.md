@@ -1,5 +1,4 @@
-Laboulbenia biondii W. Rossi & Cesari SPECIES
-=======
+# Laboulbenia biondii W. Rossi & Cesari SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria guazumae Gonz. Frag. & Cif. SPECIES
-=======
+# Leptosphaeria guazumae Gonz. Frag. & Cif. SPECIES
 
 #### Status
 ACCEPTED

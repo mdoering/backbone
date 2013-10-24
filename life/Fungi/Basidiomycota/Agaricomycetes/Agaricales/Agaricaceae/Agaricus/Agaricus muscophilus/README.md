@@ -1,5 +1,4 @@
-Agaricus muscophilus Pers. SPECIES
-=======
+# Agaricus muscophilus Pers. SPECIES
 
 #### Status
 ACCEPTED

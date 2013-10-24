@@ -1,17 +1,16 @@
-Polyporus chaperi (Pat.) Lloyd, 1912 SPECIES
-=======
+# Amauroderma praetervisum (Pat.) Torrend, 1920 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Writ. 3 (Syn. Stip. Polyporoids) 112 (1912)
+Brotéria, sér. bot. 18: 131 (1920)
 
 #### Original name
-Ganoderma chaperi Pat., 1890
+Ganoderma praetervisum Pat., 1889
 
 ### Remarks
 null

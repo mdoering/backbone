@@ -1,17 +1,16 @@
-Hypomyces bresadolianus Möller SPECIES
-=======
+# Hypomyces bresadolanus Möller SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bot. Mitt. Trop. 9: 294 (1901)
 
 #### Original name
-Hypomyces bresadolianus Möller
+Hypomyces bresadolanus Möller
 
 ### Remarks
 null

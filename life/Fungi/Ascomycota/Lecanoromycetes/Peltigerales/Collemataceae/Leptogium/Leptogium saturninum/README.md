@@ -1,17 +1,16 @@
-Collema saturninum var. saturninum (Dicks.) DC. & Lam. VARIETY
-=======
+# Leptogium saturninum (Dicks.) Nyl. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Act. Soc. linn. Bordeaux 21: 272 (1856)
 
 #### Original name
-Collema saturninum var. saturninum (Dicks.) DC. & Lam.
+Lichen saturninus Dicks.
 
 ### Remarks
 null

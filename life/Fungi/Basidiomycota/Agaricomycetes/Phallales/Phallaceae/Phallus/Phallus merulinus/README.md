@@ -1,5 +1,4 @@
-Phallus merulinus (Berk.) Cooke SPECIES
-=======
+# Phallus merulinus (Berk.) Cooke SPECIES
 
 #### Status
 ACCEPTED

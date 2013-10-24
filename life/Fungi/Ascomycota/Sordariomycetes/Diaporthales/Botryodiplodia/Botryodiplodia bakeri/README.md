@@ -1,5 +1,4 @@
-Botryodiplodia bakeri (Syd.) Syd. SPECIES
-=======
+# Botryodiplodia bakeri (Syd.) Syd. SPECIES
 
 #### Status
 ACCEPTED

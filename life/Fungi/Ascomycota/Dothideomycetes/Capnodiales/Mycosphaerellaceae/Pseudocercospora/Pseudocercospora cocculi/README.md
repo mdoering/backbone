@@ -1,5 +1,4 @@
-Pseudocercospora cocculi (Syd.) Deighton SPECIES
-=======
+# Pseudocercospora cocculi (Syd.) Deighton SPECIES
 
 #### Status
 ACCEPTED

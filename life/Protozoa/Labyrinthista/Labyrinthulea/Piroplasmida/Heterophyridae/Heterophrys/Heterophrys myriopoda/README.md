@@ -1,5 +1,4 @@
-Heterophrys myriopoda SPECIES
-=======
+# Heterophrys myriopoda SPECIES
 
 #### Status
 ACCEPTED

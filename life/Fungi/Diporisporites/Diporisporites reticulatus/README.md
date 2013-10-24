@@ -1,5 +1,4 @@
-Diporisporites reticulatus (C.P. Varma & Rawat) Elsik SPECIES
-=======
+# Diporisporites reticulatus (C.P. Varma & Rawat) Elsik SPECIES
 
 #### Status
 ACCEPTED

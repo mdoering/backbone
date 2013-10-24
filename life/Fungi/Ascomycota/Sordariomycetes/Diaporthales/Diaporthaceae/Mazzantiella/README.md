@@ -1,5 +1,4 @@
-Mazzantiella GENUS
-=======
+# Mazzantiella GENUS
 
 #### Status
 ACCEPTED

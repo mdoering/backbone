@@ -1,5 +1,4 @@
-Mycena umbrinovinosa Maas Geest. SPECIES
-=======
+# Mycena umbrinovinosa Maas Geest. SPECIES
 
 #### Status
 ACCEPTED

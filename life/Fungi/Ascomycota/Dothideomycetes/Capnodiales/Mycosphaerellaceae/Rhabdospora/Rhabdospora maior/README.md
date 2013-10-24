@@ -1,5 +1,4 @@
-Rhabdospora maior Strasser SPECIES
-=======
+# Rhabdospora maior Strasser SPECIES
 
 #### Status
 ACCEPTED

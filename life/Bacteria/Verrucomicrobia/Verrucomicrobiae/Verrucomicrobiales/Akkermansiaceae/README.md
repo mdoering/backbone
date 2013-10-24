@@ -1,5 +1,4 @@
-Akkermansiaceae FAMILY
-=======
+# Akkermansiaceae FAMILY
 
 #### Status
 ACCEPTED

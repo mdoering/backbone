@@ -1,5 +1,4 @@
-Calonectria bambusina Rolland SPECIES
-=======
+# Calonectria bambusina Rolland SPECIES
 
 #### Status
 ACCEPTED

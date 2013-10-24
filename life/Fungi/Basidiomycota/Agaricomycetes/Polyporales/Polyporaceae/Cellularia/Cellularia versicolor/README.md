@@ -1,5 +1,4 @@
-Cellularia versicolor (J.J. Planer) Kuntze SPECIES
-=======
+# Cellularia versicolor (J.J. Planer) Kuntze SPECIES
 
 #### Status
 ACCEPTED

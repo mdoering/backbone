@@ -1,5 +1,4 @@
-Guignardia humulina Bubák SPECIES
-=======
+# Guignardia humulina Bubák SPECIES
 
 #### Status
 ACCEPTED

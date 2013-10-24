@@ -1,14 +1,13 @@
-Anthostomella tomicum var. leptospora Sacc., 1882 VARIETY
-=======
+# Anthostomella leptospora (Sacc.) S.M. Francis, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 1: 282 (1882)
+Mycol. Pap. 139: 24 (1975)
 
 #### Original name
 Anthostomella tomicum var. leptospora Sacc., 1882

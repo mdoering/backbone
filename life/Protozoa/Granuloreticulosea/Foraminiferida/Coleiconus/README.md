@@ -1,5 +1,4 @@
-Coleiconus Hottinger & Drobne, 1980 GENUS
-=======
+# Coleiconus Hottinger & Drobne, 1980 GENUS
 
 #### Status
 ACCEPTED

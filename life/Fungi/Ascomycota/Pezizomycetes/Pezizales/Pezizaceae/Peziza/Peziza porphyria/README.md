@@ -1,5 +1,4 @@
-Peziza porphyria Batsch SPECIES
-=======
+# Peziza porphyria Batsch SPECIES
 
 #### Status
 ACCEPTED

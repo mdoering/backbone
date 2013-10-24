@@ -1,5 +1,4 @@
-Pelagicoccus Yoon, Yasumoto-Hirose, Matsuo, Nozawa, Matsuda, Kasai & Yokota, 2007 GENUS
-=======
+# Pelagicoccus Yoon, Yasumoto-Hirose, Matsuo, Nozawa, Matsuda, Kasai & Yokota, 2007 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochytites Barlinge & Paradkar, 1982 GENUS
-=======
+# Ascochytites Barlinge & Paradkar, 1982 GENUS
 
 #### Status
 ACCEPTED

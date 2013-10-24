@@ -1,5 +1,4 @@
-Urceolaria glaucopis (Flörke) Schaer. SPECIES
-=======
+# Urceolaria glaucopis (Flörke) Schaer. SPECIES
 
 #### Status
 ACCEPTED

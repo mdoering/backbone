@@ -1,5 +1,4 @@
-Anteholosticha longissima Dragesco & Dragesco-Kernéis, 1986 SPECIES
-=======
+# Anteholosticha longissima Dragesco & Dragesco-Kernéis, 1986 SPECIES
 
 #### Status
 ACCEPTED

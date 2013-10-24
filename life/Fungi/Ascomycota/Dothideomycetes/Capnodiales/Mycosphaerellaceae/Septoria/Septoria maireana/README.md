@@ -1,5 +1,4 @@
-Septoria maireana Politis SPECIES
-=======
+# Septoria maireana Politis SPECIES
 
 #### Status
 ACCEPTED

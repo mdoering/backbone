@@ -1,5 +1,4 @@
-Sopianella Nagy, 1989 GENUS
-=======
+# Sopianella Nagy, 1989 GENUS
 
 #### Status
 ACCEPTED

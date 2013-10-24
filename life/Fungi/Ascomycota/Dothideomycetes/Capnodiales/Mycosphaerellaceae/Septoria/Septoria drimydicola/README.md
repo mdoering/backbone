@@ -1,17 +1,16 @@
-Septoria drymidicola Speg. SPECIES
-=======
+# Septoria drimydicola Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revta Mus. La Plata 15(2): 37 (1908)
 
 #### Original name
-Septoria drymidicola Speg.
+Septoria drimydicola Speg.
 
 ### Remarks
 null

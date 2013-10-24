@@ -1,5 +1,4 @@
-Phoma avellanae Brunaud SPECIES
-=======
+# Phoma avellanae Brunaud SPECIES
 
 #### Status
 ACCEPTED

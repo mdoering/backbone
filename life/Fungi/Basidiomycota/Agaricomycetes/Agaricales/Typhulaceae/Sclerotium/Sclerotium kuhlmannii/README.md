@@ -1,5 +1,4 @@
-Sclerotium kuhlmannii Rangel SPECIES
-=======
+# Sclerotium kuhlmannii Rangel SPECIES
 
 #### Status
 ACCEPTED

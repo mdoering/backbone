@@ -1,5 +1,4 @@
-Amoebophyra stycholonchae Koeppen SPECIES
-=======
+# Amoebophyra stycholonchae Koeppen SPECIES
 
 #### Status
 ACCEPTED

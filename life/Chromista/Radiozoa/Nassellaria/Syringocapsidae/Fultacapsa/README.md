@@ -1,5 +1,4 @@
-Fultacapsa Ozvoldova in Ozvoldova & Frantova, 1997 GENUS
-=======
+# Fultacapsa Ozvoldova in Ozvoldova & Frantova, 1997 GENUS
 
 #### Status
 ACCEPTED

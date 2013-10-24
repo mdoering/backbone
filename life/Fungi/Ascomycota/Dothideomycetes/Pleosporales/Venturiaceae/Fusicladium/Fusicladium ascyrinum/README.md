@@ -1,5 +1,4 @@
-Fusicladium ascyrinum Ellis & Everh. SPECIES
-=======
+# Fusicladium ascyrinum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

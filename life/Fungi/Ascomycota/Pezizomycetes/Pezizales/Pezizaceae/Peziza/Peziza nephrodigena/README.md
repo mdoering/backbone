@@ -1,5 +1,4 @@
-Peziza nephrodigena W. Phillips SPECIES
-=======
+# Peziza nephrodigena W. Phillips SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Myxosporium olivaceum Corda SPECIES
-=======
+# Myxosporium olivaceum Corda SPECIES
 
 #### Status
 ACCEPTED

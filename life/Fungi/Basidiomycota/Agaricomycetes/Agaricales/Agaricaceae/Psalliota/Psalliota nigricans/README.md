@@ -1,5 +1,4 @@
-Psalliota nigricans Velen. SPECIES
-=======
+# Psalliota nigricans Velen. SPECIES
 
 #### Status
 ACCEPTED

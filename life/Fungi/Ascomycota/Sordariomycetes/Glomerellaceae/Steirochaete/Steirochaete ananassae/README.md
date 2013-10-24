@@ -1,5 +1,4 @@
-Steirochaete ananassae Sacc. SPECIES
-=======
+# Steirochaete ananassae Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lycoperdon estonicum Demoulin SPECIES
-=======
+# Lycoperdon estonicum Demoulin SPECIES
 
 #### Status
 ACCEPTED

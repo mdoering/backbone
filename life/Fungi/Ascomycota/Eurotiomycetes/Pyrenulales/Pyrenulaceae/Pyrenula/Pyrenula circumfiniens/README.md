@@ -1,5 +1,4 @@
-Pyrenula circumfiniens Vain. SPECIES
-=======
+# Pyrenula circumfiniens Vain. SPECIES
 
 #### Status
 ACCEPTED

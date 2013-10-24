@@ -1,5 +1,4 @@
-Microdiplodia hedericola (Sacc.) Allesch., 1903 SPECIES
-=======
+# Microdiplodia hedericola (Sacc.) Allesch., 1903 SPECIES
 
 #### Status
 ACCEPTED

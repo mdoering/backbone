@@ -1,5 +1,4 @@
-Graphis obtrita (Fée) Nyl. SPECIES
-=======
+# Graphis obtrita (Fée) Nyl. SPECIES
 
 #### Status
 ACCEPTED

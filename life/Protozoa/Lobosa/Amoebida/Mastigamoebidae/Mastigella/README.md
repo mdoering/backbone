@@ -1,5 +1,4 @@
-Mastigella Frenzel, 1892 GENUS
-=======
+# Mastigella Frenzel, 1892 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leucoconis Theiss. & Syd. GENUS
-=======
+# Leucoconis Theiss. & Syd. GENUS
 
 #### Status
 ACCEPTED

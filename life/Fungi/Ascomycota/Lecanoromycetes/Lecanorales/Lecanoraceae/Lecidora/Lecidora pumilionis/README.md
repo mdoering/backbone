@@ -1,5 +1,4 @@
-Lecidora pumilionis (Rehm) Motyka SPECIES
-=======
+# Lecidora pumilionis (Rehm) Motyka SPECIES
 
 #### Status
 ACCEPTED

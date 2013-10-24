@@ -1,5 +1,4 @@
-Gloeocapsa dubia Wartmann SPECIES
-=======
+# Gloeocapsa dubia Wartmann SPECIES
 
 #### Status
 ACCEPTED

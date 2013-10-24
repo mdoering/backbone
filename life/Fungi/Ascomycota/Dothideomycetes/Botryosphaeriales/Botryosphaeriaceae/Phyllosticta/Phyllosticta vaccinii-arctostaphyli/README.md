@@ -1,5 +1,4 @@
-Phyllosticta vaccinii-arctostaphyli Woron. SPECIES
-=======
+# Phyllosticta vaccinii-arctostaphyli Woron. SPECIES
 
 #### Status
 ACCEPTED

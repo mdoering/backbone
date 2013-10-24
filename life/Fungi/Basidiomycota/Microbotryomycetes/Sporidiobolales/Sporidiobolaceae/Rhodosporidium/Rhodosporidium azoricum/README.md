@@ -1,5 +1,4 @@
-Rhodosporidium azoricum Samp. & Gadanho, 2001 SPECIES
-=======
+# Rhodosporidium azoricum Samp. & Gadanho, 2001 SPECIES
 
 #### Status
 ACCEPTED

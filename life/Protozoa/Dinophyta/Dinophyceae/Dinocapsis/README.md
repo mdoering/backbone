@@ -1,5 +1,4 @@
-Dinocapsis Hardy & Sagebiel, 1975 GENUS
-=======
+# Dinocapsis Hardy & Sagebiel, 1975 GENUS
 
 #### Status
 ACCEPTED

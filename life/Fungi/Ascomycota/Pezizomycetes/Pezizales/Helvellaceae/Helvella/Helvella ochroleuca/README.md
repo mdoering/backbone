@@ -1,5 +1,4 @@
-Helvella ochroleuca var. ochroleuca Schaeff. VARIETY
-=======
+# Helvella ochroleuca Schaeff. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Helvella ochroleuca var. ochroleuca Schaeff.
+Helvella ochroleuca Schaeff.
 
 ### Remarks
 null

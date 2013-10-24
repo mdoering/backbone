@@ -1,5 +1,4 @@
-Siphogenerina elegans (Hantken) SPECIES
-=======
+# Siphogenerina elegans (Hantken) SPECIES
 
 #### Status
 ACCEPTED

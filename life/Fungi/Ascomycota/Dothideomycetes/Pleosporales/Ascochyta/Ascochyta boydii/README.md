@@ -1,5 +1,4 @@
-Ascochyta boydii Grove SPECIES
-=======
+# Ascochyta boydii Grove SPECIES
 
 #### Status
 ACCEPTED

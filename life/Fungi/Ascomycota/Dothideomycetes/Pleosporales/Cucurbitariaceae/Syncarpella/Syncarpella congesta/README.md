@@ -1,5 +1,4 @@
-Syncarpella congesta (Cooke) Boise SPECIES
-=======
+# Syncarpella congesta (Cooke) Boise SPECIES
 
 #### Status
 ACCEPTED

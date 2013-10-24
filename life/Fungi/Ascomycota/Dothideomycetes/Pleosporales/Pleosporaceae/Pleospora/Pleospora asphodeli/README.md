@@ -1,5 +1,4 @@
-Pleospora asphodeli Rabenh. SPECIES
-=======
+# Pleospora asphodeli Rabenh. SPECIES
 
 #### Status
 ACCEPTED

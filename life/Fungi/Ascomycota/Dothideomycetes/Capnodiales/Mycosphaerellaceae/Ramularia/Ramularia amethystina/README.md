@@ -1,5 +1,4 @@
-Ramularia amethystina Holmsk. SPECIES
-=======
+# Ramularia amethystina Holmsk. SPECIES
 
 #### Status
 ACCEPTED

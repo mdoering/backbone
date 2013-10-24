@@ -1,5 +1,4 @@
-Xanthoparmelia salamphixantha Hale SPECIES
-=======
+# Xanthoparmelia salamphixantha Hale SPECIES
 
 #### Status
 ACCEPTED

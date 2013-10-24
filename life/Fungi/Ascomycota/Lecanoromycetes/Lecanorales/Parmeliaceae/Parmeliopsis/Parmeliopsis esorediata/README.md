@@ -1,5 +1,4 @@
-Parmeliopsis esorediata (Degel.) Nordnes SPECIES
-=======
+# Parmeliopsis esorediata (Degel.) Nordnes SPECIES
 
 #### Status
 ACCEPTED

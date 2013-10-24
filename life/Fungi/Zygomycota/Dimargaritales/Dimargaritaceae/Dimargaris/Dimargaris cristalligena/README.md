@@ -1,5 +1,4 @@
-Dimargaris cristalligena Tiegh., 1875 SPECIES
-=======
+# Dimargaris cristalligena Tiegh., 1875 SPECIES
 
 #### Status
 ACCEPTED

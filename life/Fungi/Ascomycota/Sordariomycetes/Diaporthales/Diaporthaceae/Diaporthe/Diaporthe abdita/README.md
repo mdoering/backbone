@@ -1,5 +1,4 @@
-Diaporthe abdita Sacc. & Speg., 1878 SPECIES
-=======
+# Diaporthe abdita Sacc. & Speg., 1878 SPECIES
 
 #### Status
 ACCEPTED

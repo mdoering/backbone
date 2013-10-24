@@ -1,5 +1,4 @@
-Dicaeoma anisacanthi (Peck) Arthur SPECIES
-=======
+# Dicaeoma anisacanthi (Peck) Arthur SPECIES
 
 #### Status
 ACCEPTED

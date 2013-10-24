@@ -1,5 +1,4 @@
-Glaxoa P.F. Cannon GENUS
-=======
+# Glaxoa P.F. Cannon GENUS
 
 #### Status
 ACCEPTED

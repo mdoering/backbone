@@ -1,5 +1,4 @@
-Marasmius pulchellus Berk. SPECIES
-=======
+# Marasmius pulchellus Berk. SPECIES
 
 #### Status
 ACCEPTED

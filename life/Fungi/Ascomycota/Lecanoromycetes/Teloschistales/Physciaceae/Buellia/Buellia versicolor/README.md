@@ -1,5 +1,4 @@
-Buellia versicolor Müll. Arg. SPECIES
-=======
+# Buellia versicolor Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

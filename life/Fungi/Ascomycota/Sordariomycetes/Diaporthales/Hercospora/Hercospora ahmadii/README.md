@@ -1,5 +1,4 @@
-Hercospora ahmadii Petr. SPECIES
-=======
+# Hercospora ahmadii Petr. SPECIES
 
 #### Status
 ACCEPTED

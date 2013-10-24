@@ -1,5 +1,4 @@
-Usnea hakonensis f. hakonensis FORM
-=======
+# Usnea hakonensis Asahina SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Usnea hakonensis f. hakonensis
+Usnea hakonensis Asahina
 
 ### Remarks
 null

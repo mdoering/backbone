@@ -1,5 +1,4 @@
-Gavelinopsis hamatus Vella, 1957 SPECIES
-=======
+# Gavelinopsis hamatus Vella, 1957 SPECIES
 
 #### Status
 ACCEPTED

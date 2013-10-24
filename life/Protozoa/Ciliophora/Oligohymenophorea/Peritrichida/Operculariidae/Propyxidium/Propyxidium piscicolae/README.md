@@ -1,5 +1,4 @@
-Propyxidium piscicolae SPECIES
-=======
+# Propyxidium piscicolae SPECIES
 
 #### Status
 ACCEPTED

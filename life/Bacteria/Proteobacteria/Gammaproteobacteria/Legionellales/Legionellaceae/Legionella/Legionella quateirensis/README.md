@@ -1,5 +1,4 @@
-Legionella quateirensis Dennis et al., 1993 SPECIES
-=======
+# Legionella quateirensis Dennis et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

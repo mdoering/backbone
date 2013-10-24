@@ -1,5 +1,4 @@
-Anteholosticha vuxgracilis Berger, 2005 SPECIES
-=======
+# Anteholosticha vuxgracilis Berger, 2005 SPECIES
 
 #### Status
 ACCEPTED

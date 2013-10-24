@@ -1,5 +1,4 @@
-Pleospora chlamydospora Sacc. SPECIES
-=======
+# Pleospora chlamydospora Sacc. SPECIES
 
 #### Status
 ACCEPTED

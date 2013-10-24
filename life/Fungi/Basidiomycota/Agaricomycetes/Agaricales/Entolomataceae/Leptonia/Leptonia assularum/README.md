@@ -1,5 +1,4 @@
-Leptonia assularum Berk. & M.A. Curtis SPECIES
-=======
+# Leptonia assularum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

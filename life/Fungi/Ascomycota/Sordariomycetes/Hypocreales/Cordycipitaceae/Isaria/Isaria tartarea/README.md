@@ -1,5 +1,4 @@
-Isaria tartarea Wallr. SPECIES
-=======
+# Isaria tartarea Wallr. SPECIES
 
 #### Status
 ACCEPTED

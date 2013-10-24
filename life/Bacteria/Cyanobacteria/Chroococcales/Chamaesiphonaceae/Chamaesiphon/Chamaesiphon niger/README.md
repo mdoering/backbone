@@ -1,8 +1,7 @@
-Chroococcus niger Starmach SPECIES
-=======
+# Chamaesiphon niger (Starmach) Golubic SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

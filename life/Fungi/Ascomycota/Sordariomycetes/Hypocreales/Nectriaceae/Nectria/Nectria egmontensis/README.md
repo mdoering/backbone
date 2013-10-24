@@ -1,5 +1,4 @@
-Nectria egmontensis Dingley, 1956 SPECIES
-=======
+# Nectria egmontensis Dingley, 1956 SPECIES
 
 #### Status
 ACCEPTED

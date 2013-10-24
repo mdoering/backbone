@@ -1,17 +1,16 @@
-Helminthosporium cynodontis Marignoni, 1909 SPECIES
-=======
+# Cochliobolus cynodontis R.R. Nelson, 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Micromiceti di Schio 27 (1909)
+Mycologia 56(1): 67 (1964)
 
 #### Original name
-Helminthosporium cynodontis Marignoni, 1909
+Cochliobolus cynodontis R.R. Nelson, 1964
 
 ### Remarks
 null

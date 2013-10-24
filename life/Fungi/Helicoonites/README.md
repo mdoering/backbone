@@ -1,5 +1,4 @@
-Helicoonites Kalgutkar & Sigler, 1995 GENUS
-=======
+# Helicoonites Kalgutkar & Sigler, 1995 GENUS
 
 #### Status
 ACCEPTED

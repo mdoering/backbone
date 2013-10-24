@@ -1,5 +1,4 @@
-Euglena chlorophoenica Schmarda SPECIES
-=======
+# Euglena chlorophoenica Schmarda SPECIES
 
 #### Status
 ACCEPTED

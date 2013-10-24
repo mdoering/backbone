@@ -1,5 +1,4 @@
-Puccinia urbaniana Henn. SPECIES
-=======
+# Puccinia urbaniana Henn. SPECIES
 
 #### Status
 ACCEPTED

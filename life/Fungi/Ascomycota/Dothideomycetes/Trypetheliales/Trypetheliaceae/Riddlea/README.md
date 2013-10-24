@@ -1,5 +1,4 @@
-Riddlea GENUS
-=======
+# Riddlea GENUS
 
 #### Status
 ACCEPTED

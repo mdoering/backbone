@@ -1,5 +1,4 @@
-Entoloma griseoxanthopus Courtec. SPECIES
-=======
+# Entoloma griseoxanthopus Courtec. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phomopsis gloriosa (Sacc.) Traverso SPECIES
-=======
+# Phomopsis gloriosa (Sacc.) Traverso SPECIES
 
 #### Status
 ACCEPTED

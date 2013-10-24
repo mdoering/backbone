@@ -1,5 +1,4 @@
-Trogia papillata Corner SPECIES
-=======
+# Trogia papillata Corner SPECIES
 
 #### Status
 ACCEPTED

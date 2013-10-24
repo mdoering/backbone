@@ -1,5 +1,4 @@
-Teichospora infuscans Ellis & Everh. SPECIES
-=======
+# Teichospora infuscans Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

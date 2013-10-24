@@ -1,5 +1,4 @@
-Clavaria pinophila Peck SPECIES
-=======
+# Clavaria pinophila Peck SPECIES
 
 #### Status
 ACCEPTED

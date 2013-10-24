@@ -1,5 +1,4 @@
-Diporisporites maximus Z.C. Song & H.C. Luo SPECIES
-=======
+# Diporisporites maximus Z.C. Song & H.C. Luo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pycnodermina tenuis Petr., 1954 SPECIES
-=======
+# Pycnodermina tenuis Petr., 1954 SPECIES
 
 #### Status
 ACCEPTED

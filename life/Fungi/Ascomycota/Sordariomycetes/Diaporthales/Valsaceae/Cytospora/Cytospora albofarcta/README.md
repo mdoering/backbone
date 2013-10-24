@@ -1,5 +1,4 @@
-Cytospora albofarcta (Schwein.) Starbäck SPECIES
-=======
+# Cytospora albofarcta (Schwein.) Starbäck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Panus brunneipes Corner SPECIES
-=======
+# Panus brunneipes Corner SPECIES
 
 #### Status
 ACCEPTED

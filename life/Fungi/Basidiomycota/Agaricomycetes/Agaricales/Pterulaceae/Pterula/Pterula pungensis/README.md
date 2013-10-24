@@ -1,5 +1,4 @@
-Pterula pungensis Khurana SPECIES
-=======
+# Pterula pungensis Khurana SPECIES
 
 #### Status
 ACCEPTED

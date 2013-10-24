@@ -1,5 +1,4 @@
-Agaricus venifer Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus venifer Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

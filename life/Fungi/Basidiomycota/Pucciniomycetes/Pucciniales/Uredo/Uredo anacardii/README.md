@@ -1,5 +1,4 @@
-Uredo anacardii Mains SPECIES
-=======
+# Uredo anacardii Mains SPECIES
 
 #### Status
 ACCEPTED

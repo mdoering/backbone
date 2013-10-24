@@ -1,5 +1,4 @@
-Peltidea leucorhiza Flörke SPECIES
-=======
+# Peltidea leucorhiza Flörke SPECIES
 
 #### Status
 ACCEPTED

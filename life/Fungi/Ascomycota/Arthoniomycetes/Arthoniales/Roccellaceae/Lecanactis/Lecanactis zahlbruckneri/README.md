@@ -1,5 +1,4 @@
-Lecanactis zahlbruckneri Herre SPECIES
-=======
+# Lecanactis zahlbruckneri Herre SPECIES
 
 #### Status
 ACCEPTED

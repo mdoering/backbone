@@ -1,5 +1,4 @@
-Sepedonium natans Tiesenh. SPECIES
-=======
+# Sepedonium natans Tiesenh. SPECIES
 
 #### Status
 ACCEPTED

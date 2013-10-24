@@ -1,5 +1,4 @@
-Placothea Syd. GENUS
-=======
+# Placothea Syd. GENUS
 
 #### Status
 ACCEPTED

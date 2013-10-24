@@ -1,5 +1,4 @@
-Biatora conspersa (Th. Fr.) Th. Fr. SPECIES
-=======
+# Biatora conspersa (Th. Fr.) Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

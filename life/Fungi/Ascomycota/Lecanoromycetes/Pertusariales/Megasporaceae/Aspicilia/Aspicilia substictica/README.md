@@ -1,5 +1,4 @@
-Aspicilia substictica Owe-Larss. & A. Nordin SPECIES
-=======
+# Aspicilia substictica Owe-Larss. & A. Nordin SPECIES
 
 #### Status
 ACCEPTED

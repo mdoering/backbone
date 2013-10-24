@@ -1,14 +1,13 @@
-Thelotrema phlyctideum Nyl. SPECIES
-=======
+# Ocellularia phlyctidea (Nyl.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 4 11: 222 (1859)
+Cat. Lich. Univers. 2: 598 (1923)
 
 #### Original name
 Thelotrema phlyctideum Nyl.

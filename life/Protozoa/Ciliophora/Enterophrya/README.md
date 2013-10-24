@@ -1,5 +1,4 @@
-Enterophrya Hasselmann, 1918 GENUS
-=======
+# Enterophrya Hasselmann, 1918 GENUS
 
 #### Status
 ACCEPTED

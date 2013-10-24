@@ -1,5 +1,4 @@
-Ombrophila subspadicea Rehm SPECIES
-=======
+# Ombrophila subspadicea Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chroodiscus rutilus (Stirt.) Müll. Arg. SPECIES
-=======
+# Chroodiscus rutilus (Stirt.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

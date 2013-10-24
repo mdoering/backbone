@@ -1,5 +1,4 @@
-Hippocrepina oblonga Pearcey, 1900 SPECIES
-=======
+# Hippocrepina oblonga Pearcey, 1900 SPECIES
 
 #### Status
 ACCEPTED

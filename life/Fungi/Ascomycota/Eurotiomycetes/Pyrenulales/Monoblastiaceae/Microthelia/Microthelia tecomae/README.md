@@ -1,5 +1,4 @@
-Microthelia tecomae (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Microthelia tecomae (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spongurantha Haeckel, 1887 GENUS
-=======
+# Spongurantha Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

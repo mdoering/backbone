@@ -1,17 +1,16 @@
-Clavaria stricta var. stricta VARIETY
-=======
+# Ramaria stricta (Pers.) Quél., 1888 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fl. mycol. (Paris) 464 (1888)
 
 #### Original name
-Clavaria stricta var. stricta
+Clavaria stricta Pers., 1797
 
 ### Remarks
 null

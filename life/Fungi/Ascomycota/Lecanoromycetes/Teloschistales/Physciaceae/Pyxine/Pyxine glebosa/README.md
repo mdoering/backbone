@@ -1,5 +1,4 @@
-Pyxine glebosa SPECIES
-=======
+# Pyxine glebosa SPECIES
 
 #### Status
 ACCEPTED

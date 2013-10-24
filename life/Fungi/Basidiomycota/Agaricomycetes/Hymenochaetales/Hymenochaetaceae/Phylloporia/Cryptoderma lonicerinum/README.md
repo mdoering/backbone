@@ -1,5 +1,4 @@
-Cryptoderma lonicerinum (Bondartsev) Imazeki SPECIES
-=======
+# Cryptoderma lonicerinum (Bondartsev) Imazeki SPECIES
 
 #### Status
 ACCEPTED

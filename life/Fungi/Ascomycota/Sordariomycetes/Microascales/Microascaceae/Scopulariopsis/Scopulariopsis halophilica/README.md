@@ -1,17 +1,16 @@
-Basipetospora halophila (J.F.H. Beyma) Pitt & A.D. Hocking, 1985 SPECIES
-=======
+# Scopulariopsis halophilica Tubaki, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 22(1): 198 (1985)
+Trans. Mycol. Soc. Japan 14(4): 367 (1973)
 
 #### Original name
-null
+Scopulariopsis halophilica Tubaki, 1973
 
 ### Remarks
 null

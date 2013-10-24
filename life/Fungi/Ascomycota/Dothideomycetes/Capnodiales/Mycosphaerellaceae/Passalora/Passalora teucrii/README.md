@@ -1,5 +1,4 @@
-Passalora teucrii (Schwein.) U. Braun & Crous SPECIES
-=======
+# Passalora teucrii (Schwein.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

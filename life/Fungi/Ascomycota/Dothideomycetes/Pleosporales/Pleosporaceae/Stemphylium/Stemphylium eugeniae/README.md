@@ -1,5 +1,4 @@
-Stemphylium eugeniae Verwoerd & du Plessis SPECIES
-=======
+# Stemphylium eugeniae Verwoerd & du Plessis SPECIES
 
 #### Status
 ACCEPTED

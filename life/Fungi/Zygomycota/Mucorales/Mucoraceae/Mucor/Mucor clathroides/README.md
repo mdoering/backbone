@@ -1,5 +1,4 @@
-Mucor clathroides Scop. SPECIES
-=======
+# Mucor clathroides Scop. SPECIES
 
 #### Status
 ACCEPTED

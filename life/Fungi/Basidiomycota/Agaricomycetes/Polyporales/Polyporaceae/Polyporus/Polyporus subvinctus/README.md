@@ -1,5 +1,4 @@
-Polyporus subvinctus Berk. & Broome SPECIES
-=======
+# Polyporus subvinctus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

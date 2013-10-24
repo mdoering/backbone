@@ -1,5 +1,4 @@
-Stigmochora chloroxyli R.C. Rajak & A.K. Pandey, 1986 SPECIES
-=======
+# Stigmochora chloroxyli R.C. Rajak & A.K. Pandey, 1986 SPECIES
 
 #### Status
 ACCEPTED

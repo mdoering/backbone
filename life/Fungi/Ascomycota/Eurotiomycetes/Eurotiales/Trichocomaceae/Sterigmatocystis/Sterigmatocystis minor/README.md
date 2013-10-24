@@ -1,5 +1,4 @@
-Sterigmatocystis minor Bainier SPECIES
-=======
+# Sterigmatocystis minor Bainier SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agyrophora lecanocarpoides (Nyl.) SPECIES
-=======
+# Agyrophora lecanocarpoides (Nyl.) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psora subconcava (H. Magn.) Bredkina SPECIES
-=======
+# Psora subconcava (H. Magn.) Bredkina SPECIES
 
 #### Status
 ACCEPTED

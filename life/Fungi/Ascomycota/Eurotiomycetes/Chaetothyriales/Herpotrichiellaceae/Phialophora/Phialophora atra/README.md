@@ -1,5 +1,4 @@
-Phialophora atra J.F.H. Beyma SPECIES
-=======
+# Phialophora atra J.F.H. Beyma SPECIES
 
 #### Status
 ACCEPTED

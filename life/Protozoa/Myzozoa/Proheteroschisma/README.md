@@ -1,5 +1,4 @@
-Proheteroschisma Tai & Skogsberg GENUS
-=======
+# Proheteroschisma Tai & Skogsberg GENUS
 
 #### Status
 ACCEPTED

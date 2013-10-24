@@ -1,5 +1,4 @@
-Cercospora caracasensis Chupp & A.S. Mull. SPECIES
-=======
+# Cercospora caracasensis Chupp & A.S. Mull. SPECIES
 
 #### Status
 ACCEPTED

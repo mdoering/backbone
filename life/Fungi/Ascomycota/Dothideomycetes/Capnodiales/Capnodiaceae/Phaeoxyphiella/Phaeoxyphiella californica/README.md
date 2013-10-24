@@ -1,5 +1,4 @@
-Phaeoxyphiella californica Bat., Cif. & Nascim. SPECIES
-=======
+# Phaeoxyphiella californica Bat., Cif. & Nascim. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Roscoffia minor Horiguchi & Kubo SPECIES
-=======
+# Roscoffia minor Horiguchi & Kubo SPECIES
 
 #### Status
 ACCEPTED

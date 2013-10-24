@@ -1,5 +1,4 @@
-Oxydothis daemonoropis (Syd.) Syd. & P. Syd. SPECIES
-=======
+# Oxydothis daemonoropis (Syd.) Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

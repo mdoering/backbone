@@ -1,5 +1,4 @@
-Agaricus alboflavescens Sommerf. SPECIES
-=======
+# Agaricus alboflavescens Sommerf. SPECIES
 
 #### Status
 ACCEPTED

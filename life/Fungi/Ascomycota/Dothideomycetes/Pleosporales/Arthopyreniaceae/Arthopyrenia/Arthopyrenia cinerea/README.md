@@ -1,5 +1,4 @@
-Arthopyrenia cinerea Arnold SPECIES
-=======
+# Arthopyrenia cinerea Arnold SPECIES
 
 #### Status
 ACCEPTED

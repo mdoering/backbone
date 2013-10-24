@@ -1,5 +1,4 @@
-Sphaerella valeppensis (Rehm) Sacc. & Trotter SPECIES
-=======
+# Sphaerella valeppensis (Rehm) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

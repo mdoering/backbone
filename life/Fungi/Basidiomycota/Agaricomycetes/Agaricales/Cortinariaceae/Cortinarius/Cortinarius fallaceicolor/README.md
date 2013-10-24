@@ -1,17 +1,16 @@
-Cortinarius fallacecolor Rob. Henry SPECIES
-=======
+# Cortinarius fallaceicolor Rob. Henry SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. trimest. Soc. mycol. Fr. 97(3): 166 (1981)
 
 #### Original name
-Cortinarius fallacecolor Rob. Henry
+Cortinarius fallaceicolor Rob. Henry
 
 ### Remarks
 null

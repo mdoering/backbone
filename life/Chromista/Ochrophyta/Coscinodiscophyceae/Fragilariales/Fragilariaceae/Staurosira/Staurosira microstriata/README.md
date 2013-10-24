@@ -1,5 +1,4 @@
-Staurosira microstriata (Marciniak) Lange-Bertalot SPECIES
-=======
+# Staurosira microstriata (Marciniak) Lange-Bertalot SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladonia cornucopioides var. cornucopioides (L.) Hoffm. VARIETY
-=======
+# Cladonia cornucopioides (L.) Hoffm. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Deutschl. Fl. (Erlangen), Zweiter Theil 128 (1796)
 
 #### Original name
-Cladonia cornucopioides var. cornucopioides (L.) Hoffm.
+Lichen cornucopioides L.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Halegrapha kenyana Kalb & Lücking SPECIES
-=======
+# Halegrapha kenyana Kalb & Lücking SPECIES
 
 #### Status
 ACCEPTED

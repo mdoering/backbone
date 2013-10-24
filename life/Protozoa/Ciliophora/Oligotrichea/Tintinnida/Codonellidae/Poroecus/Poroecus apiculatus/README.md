@@ -1,5 +1,4 @@
-Poroecus apiculatus (Cleve, 1899) Cleve, 1902 SPECIES
-=======
+# Poroecus apiculatus (Cleve, 1899) Cleve, 1902 SPECIES
 
 #### Status
 ACCEPTED

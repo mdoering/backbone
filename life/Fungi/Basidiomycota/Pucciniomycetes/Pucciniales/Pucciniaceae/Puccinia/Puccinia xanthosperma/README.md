@@ -1,5 +1,4 @@
-Puccinia xanthosperma Syd. & P. Syd. SPECIES
-=======
+# Puccinia xanthosperma Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

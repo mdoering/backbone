@@ -1,5 +1,4 @@
-Microdiplodia corni Hollós SPECIES
-=======
+# Microdiplodia corni Hollós SPECIES
 
 #### Status
 ACCEPTED

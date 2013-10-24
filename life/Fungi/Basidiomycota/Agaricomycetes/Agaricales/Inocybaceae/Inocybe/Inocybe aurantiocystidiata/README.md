@@ -1,5 +1,4 @@
-Inocybe aurantiocystidiata E. Turnbull & Watling SPECIES
-=======
+# Inocybe aurantiocystidiata E. Turnbull & Watling SPECIES
 
 #### Status
 ACCEPTED

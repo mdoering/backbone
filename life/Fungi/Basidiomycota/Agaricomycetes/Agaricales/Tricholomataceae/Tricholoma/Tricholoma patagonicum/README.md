@@ -1,5 +1,4 @@
-Tricholoma patagonicum Singer SPECIES
-=======
+# Tricholoma patagonicum Singer SPECIES
 
 #### Status
 ACCEPTED

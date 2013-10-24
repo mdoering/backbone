@@ -1,5 +1,4 @@
-Laestadia illicicola Tracy & Earle SPECIES
-=======
+# Laestadia illicicola Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

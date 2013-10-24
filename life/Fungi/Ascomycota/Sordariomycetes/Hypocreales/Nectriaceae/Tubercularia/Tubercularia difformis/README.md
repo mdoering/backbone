@@ -1,5 +1,4 @@
-Tubercularia difformis Schwein. SPECIES
-=======
+# Tubercularia difformis Schwein. SPECIES
 
 #### Status
 ACCEPTED

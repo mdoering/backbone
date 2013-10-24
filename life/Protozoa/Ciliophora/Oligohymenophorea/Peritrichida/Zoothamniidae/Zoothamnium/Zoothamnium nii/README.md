@@ -1,5 +1,4 @@
-Zoothamnium nii Ji, Song & Warren, 2005 SPECIES
-=======
+# Zoothamnium nii Ji, Song & Warren, 2005 SPECIES
 
 #### Status
 ACCEPTED

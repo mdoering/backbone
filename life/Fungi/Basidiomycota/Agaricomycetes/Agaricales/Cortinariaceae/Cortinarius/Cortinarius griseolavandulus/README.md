@@ -1,5 +1,4 @@
-Cortinarius griseolavandulus Reumaux SPECIES
-=======
+# Cortinarius griseolavandulus Reumaux SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cantharellus diminutivus Corner SPECIES
-=======
+# Cantharellus diminutivus Corner SPECIES
 
 #### Status
 ACCEPTED

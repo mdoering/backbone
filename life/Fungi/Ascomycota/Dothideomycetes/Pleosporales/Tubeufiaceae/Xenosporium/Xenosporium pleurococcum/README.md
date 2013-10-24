@@ -1,14 +1,13 @@
-Xenosporella pleurococca Höhn., 1923 SPECIES
-=======
+# Xenosporium pleurococcum (Höhn.) Piroz., 1966 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Zentbl. Bakt. ParasitKde, Abt. II 60: 17 (1923)
+in Deighton & Pirozynski, Mycol. Pap. 105: 27 (1966)
 
 #### Original name
 Xenosporella pleurococca Höhn., 1923

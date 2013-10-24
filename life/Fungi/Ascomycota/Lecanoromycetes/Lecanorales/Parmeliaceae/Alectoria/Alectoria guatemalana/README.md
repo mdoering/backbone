@@ -1,5 +1,4 @@
-Alectoria guatemalana Gyeln. SPECIES
-=======
+# Alectoria guatemalana Gyeln. SPECIES
 
 #### Status
 ACCEPTED

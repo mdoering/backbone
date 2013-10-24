@@ -1,5 +1,4 @@
-Marasmius albofuscus Berk. & M.A. Curtis SPECIES
-=======
+# Marasmius albofuscus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

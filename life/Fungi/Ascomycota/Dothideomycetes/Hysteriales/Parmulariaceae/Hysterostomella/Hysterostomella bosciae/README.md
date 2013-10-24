@@ -1,17 +1,16 @@
-Cyclotheca bosciae Doidge, 1924 SPECIES
-=======
+# Hysterostomella bosciae (Doidge) Doidge, 1948 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bothalia 4(4): 869 (1948)
 
 #### Original name
-null
+Cyclotheca bosciae Doidge, 1924
 
 ### Remarks
 null

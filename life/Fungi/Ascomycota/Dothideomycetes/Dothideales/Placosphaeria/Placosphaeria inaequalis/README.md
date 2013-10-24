@@ -1,5 +1,4 @@
-Placosphaeria inaequalis F. Sacc. SPECIES
-=======
+# Placosphaeria inaequalis F. Sacc. SPECIES
 
 #### Status
 ACCEPTED

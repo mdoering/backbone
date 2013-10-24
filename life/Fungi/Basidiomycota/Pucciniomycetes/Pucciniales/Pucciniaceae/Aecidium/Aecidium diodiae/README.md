@@ -1,5 +1,4 @@
-Aecidium diodiae Burrill SPECIES
-=======
+# Aecidium diodiae Burrill SPECIES
 
 #### Status
 ACCEPTED

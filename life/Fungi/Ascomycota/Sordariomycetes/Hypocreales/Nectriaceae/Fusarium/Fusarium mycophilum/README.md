@@ -1,5 +1,4 @@
-Fusarium mycophilum (P. Karst.) Sacc. SPECIES
-=======
+# Fusarium mycophilum (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

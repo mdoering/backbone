@@ -1,5 +1,4 @@
-Diplodia calami Niessl SPECIES
-=======
+# Diplodia calami Niessl SPECIES
 
 #### Status
 ACCEPTED

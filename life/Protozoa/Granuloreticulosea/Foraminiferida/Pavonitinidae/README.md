@@ -1,5 +1,4 @@
-Pavonitinidae Loeblich & Tappan, 1961 FAMILY
-=======
+# Pavonitinidae Loeblich & Tappan, 1961 FAMILY
 
 #### Status
 ACCEPTED

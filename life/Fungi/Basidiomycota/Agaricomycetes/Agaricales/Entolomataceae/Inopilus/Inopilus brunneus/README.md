@@ -1,5 +1,4 @@
-Inopilus brunneus (Petch) Pegler SPECIES
-=======
+# Inopilus brunneus (Petch) Pegler SPECIES
 
 #### Status
 ACCEPTED

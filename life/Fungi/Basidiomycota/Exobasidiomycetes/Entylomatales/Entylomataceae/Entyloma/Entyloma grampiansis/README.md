@@ -1,5 +1,4 @@
-Entyloma grampiansis Vánky & R.G. Shivas, 2003 SPECIES
-=======
+# Entyloma grampiansis Vánky & R.G. Shivas, 2003 SPECIES
 
 #### Status
 ACCEPTED

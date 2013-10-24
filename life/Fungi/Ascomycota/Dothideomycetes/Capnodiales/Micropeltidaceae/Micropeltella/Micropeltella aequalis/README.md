@@ -1,5 +1,4 @@
-Micropeltella aequalis (Sacc.) F. Stevens & Manter SPECIES
-=======
+# Micropeltella aequalis (Sacc.) F. Stevens & Manter SPECIES
 
 #### Status
 ACCEPTED

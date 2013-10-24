@@ -1,5 +1,4 @@
-Hydnum argillae R. Ludw. SPECIES
-=======
+# Hydnum argillae R. Ludw. SPECIES
 
 #### Status
 ACCEPTED

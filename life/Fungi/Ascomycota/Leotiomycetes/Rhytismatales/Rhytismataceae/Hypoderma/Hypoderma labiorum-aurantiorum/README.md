@@ -1,5 +1,4 @@
-Hypoderma labiorum-aurantiorum H.C. Evans & Minter, 1986 SPECIES
-=======
+# Hypoderma labiorum-aurantiorum H.C. Evans & Minter, 1986 SPECIES
 
 #### Status
 ACCEPTED

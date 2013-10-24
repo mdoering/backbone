@@ -1,5 +1,4 @@
-Agaricus turbinipes Kalchbr. SPECIES
-=======
+# Agaricus turbinipes Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

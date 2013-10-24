@@ -1,5 +1,4 @@
-Dangeardia echinulata A. Batko SPECIES
-=======
+# Dangeardia echinulata A. Batko SPECIES
 
 #### Status
 ACCEPTED

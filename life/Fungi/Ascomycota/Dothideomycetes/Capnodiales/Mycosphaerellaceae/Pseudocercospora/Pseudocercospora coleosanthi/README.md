@@ -1,5 +1,4 @@
-Pseudocercospora coleosanthi (Ellis & Everh.) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora coleosanthi (Ellis & Everh.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

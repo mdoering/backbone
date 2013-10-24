@@ -1,5 +1,4 @@
-Hypoxylon asphalatum (Link & Fr.) Mont. SPECIES
-=======
+# Hypoxylon asphalatum (Link & Fr.) Mont. SPECIES
 
 #### Status
 ACCEPTED

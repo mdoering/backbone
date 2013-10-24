@@ -1,5 +1,4 @@
-Psilocybe formosa Y.S. Chang & A.K. Mills SPECIES
-=======
+# Psilocybe formosa Y.S. Chang & A.K. Mills SPECIES
 
 #### Status
 ACCEPTED

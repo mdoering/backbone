@@ -1,5 +1,4 @@
-Hemidiscus hardmannianus (Greville) Mann SPECIES
-=======
+# Hemidiscus hardmannianus (Greville) Mann SPECIES
 
 #### Status
 ACCEPTED

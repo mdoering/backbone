@@ -1,5 +1,4 @@
-Perisporina rehmii (Syd.) Sacc. & D. Sacc. SPECIES
-=======
+# Perisporina rehmii (Syd.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

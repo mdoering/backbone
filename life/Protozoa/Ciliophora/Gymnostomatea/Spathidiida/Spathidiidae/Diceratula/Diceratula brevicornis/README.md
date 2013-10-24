@@ -1,5 +1,4 @@
-Diceratula brevicornis Kahl, 1930 SPECIES
-=======
+# Diceratula brevicornis Kahl, 1930 SPECIES
 
 #### Status
 ACCEPTED

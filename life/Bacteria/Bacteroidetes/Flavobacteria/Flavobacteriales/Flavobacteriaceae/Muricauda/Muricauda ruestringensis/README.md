@@ -1,5 +1,4 @@
-Muricauda ruestringensis Bruns et al., 2001 SPECIES
-=======
+# Muricauda ruestringensis Bruns et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

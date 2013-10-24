@@ -1,5 +1,4 @@
-Lophiostoma liberum (Tode) Sacc. SPECIES
-=======
+# Lophiostoma liberum (Tode) Sacc. SPECIES
 
 #### Status
 ACCEPTED

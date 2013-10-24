@@ -1,5 +1,4 @@
-Rhabdospora anthericicola Hollós SPECIES
-=======
+# Rhabdospora anthericicola Hollós SPECIES
 
 #### Status
 ACCEPTED

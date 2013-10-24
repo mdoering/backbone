@@ -1,5 +1,4 @@
-Botryozyma Shann & M.T. Sm. GENUS
-=======
+# Botryozyma Shann & M.T. Sm. GENUS
 
 #### Status
 ACCEPTED

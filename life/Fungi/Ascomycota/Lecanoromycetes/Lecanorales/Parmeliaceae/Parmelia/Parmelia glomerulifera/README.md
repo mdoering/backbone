@@ -1,5 +1,4 @@
-Parmelia glomerulifera (Hoffm.) Ach. SPECIES
-=======
+# Parmelia glomerulifera (Hoffm.) Ach. SPECIES
 
 #### Status
 ACCEPTED

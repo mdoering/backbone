@@ -1,5 +1,4 @@
-Lecanora fruticulosa f. fruticulosa FORM
-=======
+# Lecanora fruticulosa Eversm. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora fruticulosa f. fruticulosa
+Lecanora fruticulosa Eversm.
 
 ### Remarks
 null

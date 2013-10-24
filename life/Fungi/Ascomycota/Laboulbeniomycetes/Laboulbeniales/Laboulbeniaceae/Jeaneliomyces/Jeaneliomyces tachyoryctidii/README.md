@@ -1,5 +1,4 @@
-Jeaneliomyces tachyoryctidii Lepesme SPECIES
-=======
+# Jeaneliomyces tachyoryctidii Lepesme SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudothis Theiss. & Syd. GENUS
-=======
+# Pseudothis Theiss. & Syd. GENUS
 
 #### Status
 ACCEPTED

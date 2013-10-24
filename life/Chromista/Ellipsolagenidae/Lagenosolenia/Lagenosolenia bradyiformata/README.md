@@ -1,11 +1,10 @@
-Lagenosolenia bradyiformata subsp. bradyiformata SUBSPECIES
-=======
+# Lagenosolenia bradyiformata McCulloch, 1977 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+World Register of Marine Species
 
 #### Published in
 null

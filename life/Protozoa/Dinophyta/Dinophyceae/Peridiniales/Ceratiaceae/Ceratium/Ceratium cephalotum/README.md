@@ -1,5 +1,4 @@
-Ceratium cephalotum (Lemmermann, 1899) Jörgensen, 1911 SPECIES
-=======
+# Ceratium cephalotum (Lemmermann, 1899) Jörgensen, 1911 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Platyomus GENUS
-=======
+# Platyomus GENUS
 
 #### Status
 ACCEPTED

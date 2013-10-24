@@ -1,14 +1,13 @@
-Fomitopsis scorteus (Corner) T. Hatt. SPECIES
-=======
+# Fomitopsis scortea (Corner) T. Hatt. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycoscience 44(4): 274 (2003)
 
 #### Original name
 Tyromyces scorteus Corner

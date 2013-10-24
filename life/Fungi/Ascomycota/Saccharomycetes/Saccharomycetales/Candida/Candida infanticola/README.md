@@ -1,5 +1,4 @@
-Candida infanticola Kurtzman SPECIES
-=======
+# Candida infanticola Kurtzman SPECIES
 
 #### Status
 ACCEPTED

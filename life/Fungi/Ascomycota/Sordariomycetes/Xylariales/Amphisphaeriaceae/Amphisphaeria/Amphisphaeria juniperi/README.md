@@ -1,5 +1,4 @@
-Amphisphaeria juniperi Tracy & Earle SPECIES
-=======
+# Amphisphaeria juniperi Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

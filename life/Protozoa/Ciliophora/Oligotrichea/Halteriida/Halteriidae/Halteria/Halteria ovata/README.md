@@ -1,5 +1,4 @@
-Halteria ovata Fromentel, 1876 SPECIES
-=======
+# Halteria ovata Fromentel, 1876 SPECIES
 
 #### Status
 ACCEPTED

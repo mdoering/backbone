@@ -1,5 +1,4 @@
-Collema galactinum (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Collema galactinum (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

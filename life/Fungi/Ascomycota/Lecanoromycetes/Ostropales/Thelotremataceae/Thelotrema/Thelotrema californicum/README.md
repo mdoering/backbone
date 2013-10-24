@@ -1,14 +1,13 @@
-Phaeotrema californicum (Tuck.) Zahlbr. SPECIES
-=======
+# Thelotrema californicum Tuck. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Cat. Lich. Univers. 2: 605 (1923)
+Proc. Amer. Acad. Arts & Sci. 12: 177 (1877)
 
 #### Original name
 Thelotrema californicum Tuck.

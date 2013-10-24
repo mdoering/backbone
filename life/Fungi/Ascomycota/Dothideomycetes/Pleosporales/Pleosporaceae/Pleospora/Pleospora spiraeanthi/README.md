@@ -1,5 +1,4 @@
-Pleospora spiraeanthi Schwarzman SPECIES
-=======
+# Pleospora spiraeanthi Schwarzman SPECIES
 
 #### Status
 ACCEPTED

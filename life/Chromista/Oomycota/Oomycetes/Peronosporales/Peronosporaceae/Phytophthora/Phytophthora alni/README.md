@@ -1,17 +1,16 @@
-Phytophthora alni subsp. alni SUBSPECIES
-=======
+# Phytophthora alni SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Brasier, Kirk, Delcan, Cooke, Jung & Man in't Veld, Mycol. Res. 108(10): 1174 (2004)
+null
 
 #### Original name
-Phytophthora alni subsp. alni
+null
 
 ### Remarks
 null

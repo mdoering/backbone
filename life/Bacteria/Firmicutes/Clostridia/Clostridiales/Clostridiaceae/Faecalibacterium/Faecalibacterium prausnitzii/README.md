@@ -1,11 +1,10 @@
-Bacteroides praussnitzii Hauduroy et al., 1937 SPECIES
-=======
+# Faecalibacterium prausnitzii (Hauduroy et al., 1937) Duncan et al., 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

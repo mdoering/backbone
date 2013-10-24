@@ -1,5 +1,4 @@
-Hypomyces corticiicola K. Põldmaa SPECIES
-=======
+# Hypomyces corticiicola K. Põldmaa SPECIES
 
 #### Status
 ACCEPTED

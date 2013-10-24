@@ -1,5 +1,4 @@
-Bacillus smithii Nakamura et al., 1988 SPECIES
-=======
+# Bacillus smithii Nakamura et al., 1988 SPECIES
 
 #### Status
 ACCEPTED

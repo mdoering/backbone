@@ -1,5 +1,4 @@
-Furia fujiana Y.J. Huang & Z.Z. Li, 1993 SPECIES
-=======
+# Furia fujiana Y.J. Huang & Z.Z. Li, 1993 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sclerotium rhizogonum Pers. SPECIES
-=======
+# Sclerotium rhizogonum Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heterochaete flavida Pat. SPECIES
-=======
+# Heterochaete flavida Pat. SPECIES
 
 #### Status
 ACCEPTED

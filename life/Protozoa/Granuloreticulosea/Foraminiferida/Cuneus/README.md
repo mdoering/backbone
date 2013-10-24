@@ -1,5 +1,4 @@
-Cuneus Voloshina, 1974 GENUS
-=======
+# Cuneus Voloshina, 1974 GENUS
 
 #### Status
 ACCEPTED

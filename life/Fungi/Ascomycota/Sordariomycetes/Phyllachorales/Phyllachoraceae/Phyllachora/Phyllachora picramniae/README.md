@@ -1,17 +1,16 @@
-Dothidella picramniae Syd. & P. Syd., 1913 SPECIES
-=======
+# Phyllachora picramniae F. Stevens, 1927 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 11(3): 266 (1913)
+Illinois Biol. Monogr. (Urbana) 11(2): 190 (1927)
 
 #### Original name
-Dothidella picramniae Syd. & P. Syd., 1913
+Phyllachora picramniae F. Stevens, 1927
 
 ### Remarks
 null

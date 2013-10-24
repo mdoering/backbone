@@ -1,5 +1,4 @@
-Cylindrosporium smilacis Ellis & Everh. SPECIES
-=======
+# Cylindrosporium smilacis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

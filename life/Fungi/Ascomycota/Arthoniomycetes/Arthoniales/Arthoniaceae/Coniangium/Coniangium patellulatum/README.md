@@ -1,5 +1,4 @@
-Coniangium patellulatum Th. Fr. SPECIES
-=======
+# Coniangium patellulatum Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

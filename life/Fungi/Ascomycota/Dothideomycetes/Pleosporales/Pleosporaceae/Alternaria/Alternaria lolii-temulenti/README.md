@@ -1,5 +1,4 @@
-Alternaria lolii-temulenti A. Agostini SPECIES
-=======
+# Alternaria lolii-temulenti A. Agostini SPECIES
 
 #### Status
 ACCEPTED

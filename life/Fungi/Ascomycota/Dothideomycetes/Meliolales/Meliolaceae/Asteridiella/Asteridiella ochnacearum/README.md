@@ -1,5 +1,4 @@
-Asteridiella ochnacearum (Cif.) Hansf. SPECIES
-=======
+# Asteridiella ochnacearum (Cif.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

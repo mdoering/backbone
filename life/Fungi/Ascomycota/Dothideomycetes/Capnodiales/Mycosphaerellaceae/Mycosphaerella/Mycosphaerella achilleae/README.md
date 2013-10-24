@@ -1,5 +1,4 @@
-Mycosphaerella achilleae Novoss. SPECIES
-=======
+# Mycosphaerella achilleae Novoss. SPECIES
 
 #### Status
 ACCEPTED

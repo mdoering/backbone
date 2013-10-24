@@ -1,5 +1,4 @@
-Patellaria angulosa (Schreb.) Wibel SPECIES
-=======
+# Patellaria angulosa (Schreb.) Wibel SPECIES
 
 #### Status
 ACCEPTED

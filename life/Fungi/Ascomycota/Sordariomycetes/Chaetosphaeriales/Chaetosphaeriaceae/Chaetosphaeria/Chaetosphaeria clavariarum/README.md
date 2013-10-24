@@ -1,5 +1,4 @@
-Chaetosphaeria clavariarum (Desm.) SPECIES
-=======
+# Chaetosphaeria clavariarum (Desm.) SPECIES
 
 #### Status
 ACCEPTED

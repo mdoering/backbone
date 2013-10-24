@@ -1,5 +1,4 @@
-Gliotrichum fuligo (Schwein.) Fr. SPECIES
-=======
+# Gliotrichum fuligo (Schwein.) Fr. SPECIES
 
 #### Status
 ACCEPTED

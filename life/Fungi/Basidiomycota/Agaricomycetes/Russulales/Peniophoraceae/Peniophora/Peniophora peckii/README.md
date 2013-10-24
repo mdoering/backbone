@@ -1,5 +1,4 @@
-Peniophora peckii Burt SPECIES
-=======
+# Peniophora peckii Burt SPECIES
 
 #### Status
 ACCEPTED

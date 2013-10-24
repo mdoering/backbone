@@ -1,5 +1,4 @@
-Discorbis araucana SPECIES
-=======
+# Discorbis araucana SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Limacinia anacardii Hansf. SPECIES
-=======
+# Limacinia anacardii Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporidesmium campiniae Rambelli, 1958 SPECIES
-=======
+# Sporidesmium campiniae Rambelli, 1958 SPECIES
 
 #### Status
 ACCEPTED

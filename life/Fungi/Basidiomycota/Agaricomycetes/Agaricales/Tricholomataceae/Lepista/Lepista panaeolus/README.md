@@ -1,17 +1,16 @@
-Tricholoma panaeolum var. panaeolum VARIETY
-=======
+# Lepista panaeolus (Fr.) P. Karst., 1879 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Rysslands, Finlands och den Skandinaviska Halföns. Hattsvampar 481 (1879)
 
 #### Original name
-null
+Agaricus panaeolus Fr., 1838
 
 ### Remarks
 null

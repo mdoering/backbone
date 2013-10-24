@@ -1,5 +1,4 @@
-Rinodina agavicola Erichsen SPECIES
-=======
+# Rinodina agavicola Erichsen SPECIES
 
 #### Status
 ACCEPTED

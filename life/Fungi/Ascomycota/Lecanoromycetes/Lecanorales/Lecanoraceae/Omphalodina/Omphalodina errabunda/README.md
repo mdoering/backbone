@@ -1,5 +1,4 @@
-Omphalodina errabunda (Hue) C.W. Dodge SPECIES
-=======
+# Omphalodina errabunda (Hue) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

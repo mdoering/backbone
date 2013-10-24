@@ -1,5 +1,4 @@
-Aecidium terminaliae T.S. Ramakr. & K. Ramakr. SPECIES
-=======
+# Aecidium terminaliae T.S. Ramakr. & K. Ramakr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizamoeba Page, 1972 GENUS
-=======
+# Rhizamoeba Page, 1972 GENUS
 
 #### Status
 ACCEPTED

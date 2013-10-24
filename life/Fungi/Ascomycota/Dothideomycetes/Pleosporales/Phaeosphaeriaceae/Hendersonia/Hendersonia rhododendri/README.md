@@ -1,5 +1,4 @@
-Hendersonia rhododendri Thüm. SPECIES
-=======
+# Hendersonia rhododendri Thüm. SPECIES
 
 #### Status
 ACCEPTED

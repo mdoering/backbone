@@ -1,17 +1,16 @@
-Gyalidea hyalinescens var. hyalinescens VARIETY
-=======
+# Gyalidea hyalinescens (Nyl.) Vezda SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Folia geobot. phytotax. bohemoslov. 1: 321 (1966)
 
 #### Original name
-Gyalidea hyalinescens var. hyalinescens
+Lecidea hyalinescens (Müll. Arg.) R.W. Rogers
 
 ### Remarks
 null

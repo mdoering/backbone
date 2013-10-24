@@ -1,5 +1,4 @@
-Agaricus arundinaceus Bull. SPECIES
-=======
+# Agaricus arundinaceus Bull. SPECIES
 
 #### Status
 ACCEPTED

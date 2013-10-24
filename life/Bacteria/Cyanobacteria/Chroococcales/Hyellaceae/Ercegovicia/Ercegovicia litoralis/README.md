@@ -1,8 +1,7 @@
-Brachynema litorale Ercegovic SPECIES
-=======
+# Ercegovicia litoralis (Ercegovic) de Toni SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Cryptosporium hippocastani Cooke SPECIES
-=======
+# Cryptosporium hippocastani Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psalliota exannulata Velen. SPECIES
-=======
+# Psalliota exannulata Velen. SPECIES
 
 #### Status
 ACCEPTED

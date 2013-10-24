@@ -1,5 +1,4 @@
-Hyalotiastrum salvadorae Abbas, B. Sutton, Ghaffar & Al. Abbas, 2003 SPECIES
-=======
+# Hyalotiastrum salvadorae Abbas, B. Sutton, Ghaffar & Al. Abbas, 2003 SPECIES
 
 #### Status
 ACCEPTED

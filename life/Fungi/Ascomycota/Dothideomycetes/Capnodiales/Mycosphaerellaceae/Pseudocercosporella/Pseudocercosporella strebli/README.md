@@ -1,5 +1,4 @@
-Pseudocercosporella strebli R.P. Singh SPECIES
-=======
+# Pseudocercosporella strebli R.P. Singh SPECIES
 
 #### Status
 ACCEPTED

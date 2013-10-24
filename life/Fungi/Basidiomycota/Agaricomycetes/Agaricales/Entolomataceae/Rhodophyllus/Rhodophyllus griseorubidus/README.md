@@ -1,5 +1,4 @@
-Rhodophyllus griseorubidus Kühner SPECIES
-=======
+# Rhodophyllus griseorubidus Kühner SPECIES
 
 #### Status
 ACCEPTED

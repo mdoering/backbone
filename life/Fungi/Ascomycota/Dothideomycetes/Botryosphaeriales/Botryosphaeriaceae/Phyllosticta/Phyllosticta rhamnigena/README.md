@@ -1,14 +1,13 @@
-Phyllostictella rhamnigena (Sacc.) Tassi, 1901 SPECIES
-=======
+# Phyllosticta rhamnigena Sacc., 1878 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bulletin Labor. Orto Bot. de R. Univ. Siena 4: 4 (1901)
+Michelia 1(no. 2): 156 (1878)
 
 #### Original name
 Phyllosticta rhamnigena Sacc., 1878

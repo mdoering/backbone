@@ -1,5 +1,4 @@
-Birsteiniolla Maier, 1974 GENUS
-=======
+# Birsteiniolla Maier, 1974 GENUS
 
 #### Status
 ACCEPTED

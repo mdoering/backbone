@@ -1,5 +1,4 @@
-Russula alutaceiformis Murrill SPECIES
-=======
+# Russula alutaceiformis Murrill SPECIES
 
 #### Status
 ACCEPTED

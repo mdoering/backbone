@@ -1,5 +1,4 @@
-Dicaeoma digitatum (Ellis & Harkn.) Kuntze SPECIES
-=======
+# Dicaeoma digitatum (Ellis & Harkn.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

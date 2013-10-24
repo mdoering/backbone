@@ -1,5 +1,4 @@
-Cercosporidium caespitosum (Petr. & Cif.) Deighton SPECIES
-=======
+# Cercosporidium caespitosum (Petr. & Cif.) Deighton SPECIES
 
 #### Status
 ACCEPTED

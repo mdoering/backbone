@@ -1,17 +1,16 @@
-Cortinarius suillo-nigrescens Rob. Henry ex Reumaux SPECIES
-=======
+# Cortinarius suillonigrescens Rob. Henry SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Bidaud, Carteret, Eyssartier, Moënne-Loccoz & Reumaux, Atlas des Cortinaires (Meyzieu) 12: 694 (2002)
 
 #### Original name
-Cortinarius suillo-nigrescens Rob. Henry ex Reumaux
+Cortinarius suillonigrescens Rob. Henry
 
 ### Remarks
 null

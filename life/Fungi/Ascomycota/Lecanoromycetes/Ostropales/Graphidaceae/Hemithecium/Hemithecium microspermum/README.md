@@ -1,5 +1,4 @@
-Hemithecium microspermum Chitale, Makhija B.O. Sharma SPECIES
-=======
+# Hemithecium microspermum Chitale, Makhija B.O. Sharma SPECIES
 
 #### Status
 ACCEPTED

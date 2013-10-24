@@ -1,5 +1,4 @@
-Absidia picta Gmelin, 1789 SPECIES
-=======
+# Absidia picta Gmelin, 1789 SPECIES
 
 #### Status
 ACCEPTED

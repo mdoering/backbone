@@ -1,5 +1,4 @@
-Puccinia hyalomitra Dietel & Holw. SPECIES
-=======
+# Puccinia hyalomitra Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

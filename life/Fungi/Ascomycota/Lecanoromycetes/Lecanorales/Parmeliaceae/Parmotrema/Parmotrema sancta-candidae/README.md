@@ -1,5 +1,4 @@
-Parmotrema sancta-candidae Eliasaro SPECIES
-=======
+# Parmotrema sancta-candidae Eliasaro SPECIES
 
 #### Status
 ACCEPTED

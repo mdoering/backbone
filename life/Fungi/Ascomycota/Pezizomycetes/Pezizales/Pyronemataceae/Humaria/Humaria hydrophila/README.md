@@ -1,5 +1,4 @@
-Humaria hydrophila (Peck) Sacc. SPECIES
-=======
+# Humaria hydrophila (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

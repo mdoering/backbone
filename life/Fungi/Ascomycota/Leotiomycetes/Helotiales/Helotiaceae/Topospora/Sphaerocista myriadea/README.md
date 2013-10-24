@@ -1,5 +1,4 @@
-Sphaerocista myriadea Preuss SPECIES
-=======
+# Sphaerocista myriadea Preuss SPECIES
 
 #### Status
 ACCEPTED

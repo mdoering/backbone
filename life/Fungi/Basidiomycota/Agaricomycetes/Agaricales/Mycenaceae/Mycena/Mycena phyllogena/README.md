@@ -1,14 +1,13 @@
-Agaricus phyllogena Pers., 1828 SPECIES
-=======
+# Mycena phyllogena (Pers.) Singer, 1961 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. eur. (Erlanga) 3: 242 (1828)
+Persoonia 2(1): 38 (1961)
 
 #### Original name
 Agaricus phyllogena Pers., 1828

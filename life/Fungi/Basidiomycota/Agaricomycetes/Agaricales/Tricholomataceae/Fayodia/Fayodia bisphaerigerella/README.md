@@ -1,5 +1,4 @@
-Fayodia bisphaerigerella (M. Lange) M. Lange & Sivertsen SPECIES
-=======
+# Fayodia bisphaerigerella (M. Lange) M. Lange & Sivertsen SPECIES
 
 #### Status
 ACCEPTED

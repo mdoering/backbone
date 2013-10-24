@@ -1,5 +1,4 @@
-Placynthium tremniacum f. tremniacum FORM
-=======
+# Placynthium tremniacum (A. Massal.) Jatta SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Sylloge Lich. Ital. 38 (1900)
 
 #### Original name
-Placynthium tremniacum f. tremniacum
+Racoblenna tremniaca A. Massal.
 
 ### Remarks
 null

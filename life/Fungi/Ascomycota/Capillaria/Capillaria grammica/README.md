@@ -1,5 +1,4 @@
-Capillaria grammica Pers. SPECIES
-=======
+# Capillaria grammica Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hispidoconidioma GENUS
-=======
+# Hispidoconidioma GENUS
 
 #### Status
 ACCEPTED

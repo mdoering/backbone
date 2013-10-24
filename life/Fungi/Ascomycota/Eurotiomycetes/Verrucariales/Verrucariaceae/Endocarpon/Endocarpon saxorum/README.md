@@ -1,5 +1,4 @@
-Endocarpon saxorum Chaillet SPECIES
-=======
+# Endocarpon saxorum Chaillet SPECIES
 
 #### Status
 ACCEPTED

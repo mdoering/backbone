@@ -1,5 +1,4 @@
-Parmelia marmorea (Scop.) Ach. SPECIES
-=======
+# Parmelia marmorea (Scop.) Ach. SPECIES
 
 #### Status
 ACCEPTED

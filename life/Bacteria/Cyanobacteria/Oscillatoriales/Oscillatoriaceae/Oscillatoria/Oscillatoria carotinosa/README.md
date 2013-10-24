@@ -1,5 +1,4 @@
-Oscillatoria carotinosa Geitler SPECIES
-=======
+# Oscillatoria carotinosa Geitler SPECIES
 
 #### Status
 ACCEPTED

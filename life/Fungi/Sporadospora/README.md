@@ -1,5 +1,4 @@
-Sporadospora Reinsch GENUS
-=======
+# Sporadospora Reinsch GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Dasyscyphus fascicularis (Velen.) Le Gal, 1939 SPECIES
-=======
+# Lachnum fasciculare Velen., 1934 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revue Mycol. , Paris 4: 37 (1939)
+Monogr. Discom. Bohem. (Prague) 247 (1934)
 
 #### Original name
 Lachnum fasciculare Velen., 1934

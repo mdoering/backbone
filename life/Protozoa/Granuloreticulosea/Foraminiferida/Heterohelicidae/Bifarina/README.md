@@ -1,5 +1,4 @@
-Bifarina Parker & Jones, 1872 GENUS
-=======
+# Bifarina Parker & Jones, 1872 GENUS
 
 #### Status
 ACCEPTED

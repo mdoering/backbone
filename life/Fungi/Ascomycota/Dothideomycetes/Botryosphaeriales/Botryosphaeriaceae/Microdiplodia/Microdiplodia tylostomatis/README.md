@@ -1,5 +1,4 @@
-Microdiplodia tylostomatis (Pat.) Tassi SPECIES
-=======
+# Microdiplodia tylostomatis (Pat.) Tassi SPECIES
 
 #### Status
 ACCEPTED

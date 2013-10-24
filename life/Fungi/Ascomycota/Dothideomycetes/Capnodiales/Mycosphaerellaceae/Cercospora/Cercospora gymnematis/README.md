@@ -1,17 +1,16 @@
-Cercospora gymnemae Togashi & Onuma SPECIES
-=======
+# Cercospora gymnematis Togashi & Onuma SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Trans. Sapporo nat. Hist. Soc. 17: 99 (1942)
 
 #### Original name
-Cercospora gymnemae Togashi & Onuma
+Cercospora gymnematis Togashi & Onuma
 
 ### Remarks
 null

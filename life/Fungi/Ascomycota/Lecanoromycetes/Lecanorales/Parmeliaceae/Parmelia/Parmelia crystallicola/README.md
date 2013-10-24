@@ -1,5 +1,4 @@
-Parmelia crystallicola Kalb & Hale SPECIES
-=======
+# Parmelia crystallicola Kalb & Hale SPECIES
 
 #### Status
 ACCEPTED

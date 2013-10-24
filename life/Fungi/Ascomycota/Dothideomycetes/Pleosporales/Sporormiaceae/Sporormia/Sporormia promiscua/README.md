@@ -1,5 +1,4 @@
-Sporormia promiscua Carestia SPECIES
-=======
+# Sporormia promiscua Carestia SPECIES
 
 #### Status
 ACCEPTED

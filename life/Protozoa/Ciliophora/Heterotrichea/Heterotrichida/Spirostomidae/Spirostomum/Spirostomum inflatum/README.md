@@ -1,5 +1,4 @@
-Spirostomum inflatum Kahl, 1932 SPECIES
-=======
+# Spirostomum inflatum Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

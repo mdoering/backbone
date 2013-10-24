@@ -1,5 +1,4 @@
-Polysphondylium violaceum Bref., 1884 SPECIES
-=======
+# Polysphondylium violaceum Bref., 1884 SPECIES
 
 #### Status
 ACCEPTED

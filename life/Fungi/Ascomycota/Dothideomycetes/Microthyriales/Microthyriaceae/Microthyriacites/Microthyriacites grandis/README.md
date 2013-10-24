@@ -1,5 +1,4 @@
-Microthyriacites grandis Cookson SPECIES
-=======
+# Microthyriacites grandis Cookson SPECIES
 
 #### Status
 ACCEPTED

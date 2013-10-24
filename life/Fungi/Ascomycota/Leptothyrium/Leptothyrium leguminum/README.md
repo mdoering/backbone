@@ -1,5 +1,4 @@
-Leptothyrium leguminum (Cooke) Sacc. SPECIES
-=======
+# Leptothyrium leguminum (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

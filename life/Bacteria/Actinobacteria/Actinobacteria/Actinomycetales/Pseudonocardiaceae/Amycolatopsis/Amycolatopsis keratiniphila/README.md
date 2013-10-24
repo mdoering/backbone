@@ -1,5 +1,4 @@
-Amycolatopsis keratiniphila subsp. keratiniphila SUBSPECIES
-=======
+# Amycolatopsis keratiniphila Al-Musallam et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

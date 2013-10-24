@@ -1,5 +1,4 @@
-Eocercomonas Karpov, Bass, Mylnikov & Cavalier-Smith, 2006 GENUS
-=======
+# Eocercomonas Karpov, Bass, Mylnikov & Cavalier-Smith, 2006 GENUS
 
 #### Status
 ACCEPTED

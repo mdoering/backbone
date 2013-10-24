@@ -1,5 +1,4 @@
-Verticillium minutissimum Corda SPECIES
-=======
+# Verticillium minutissimum Corda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Colletotrichum rumicicola Sawada SPECIES
-=======
+# Colletotrichum rumicicola Sawada SPECIES
 
 #### Status
 ACCEPTED

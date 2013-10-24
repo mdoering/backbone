@@ -1,5 +1,4 @@
-Macrophoma lini Sousa da Câmara SPECIES
-=======
+# Macrophoma lini Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

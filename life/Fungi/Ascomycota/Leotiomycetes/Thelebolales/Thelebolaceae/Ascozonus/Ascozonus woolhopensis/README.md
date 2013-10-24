@@ -1,14 +1,13 @@
-Streptotheca woolhopensis (Renny) Seaver, 1928 SPECIES
-=======
+# Ascozonus woolhopensis (Renny) Renny, 1874 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-North American Cup-fungi (New York), (Operculates) 143 (1928)
+J. Bot. , London 12: 356 (1874)
 
 #### Original name
 Ryparobius woolhopensis Renny, 1873

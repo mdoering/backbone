@@ -1,5 +1,4 @@
-Leptosphaeria solanicola Sacc. SPECIES
-=======
+# Leptosphaeria solanicola Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidia paulensis Zahlbr. SPECIES
-=======
+# Bacidia paulensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

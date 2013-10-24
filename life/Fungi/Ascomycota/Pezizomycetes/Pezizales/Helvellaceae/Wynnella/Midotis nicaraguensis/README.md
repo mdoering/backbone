@@ -1,5 +1,4 @@
-Midotis nicaraguensis (E.J. Durand) Seaver SPECIES
-=======
+# Midotis nicaraguensis (E.J. Durand) Seaver SPECIES
 
 #### Status
 ACCEPTED

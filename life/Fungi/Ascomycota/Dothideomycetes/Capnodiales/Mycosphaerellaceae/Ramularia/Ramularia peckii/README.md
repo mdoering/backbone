@@ -1,5 +1,4 @@
-Ramularia peckii Sacc. & P. Syd. SPECIES
-=======
+# Ramularia peckii Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

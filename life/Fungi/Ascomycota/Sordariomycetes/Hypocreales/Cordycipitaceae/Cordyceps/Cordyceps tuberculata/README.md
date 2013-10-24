@@ -1,17 +1,16 @@
-Torrubia sphingum Tul. & C. Tul., 1865 SPECIES
-=======
+# Cordyceps tuberculata (Lebert) Maire, 1917 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Selecta Fungorum Carpologia: Nectriei- Phacidiei- Pezizei 3: 12 (1865)
+Bull. Soc. Hist. nat. Afr. N. 8: 165 (1917)
 
 #### Original name
-Torrubia sphingum Tul. & C. Tul., 1865
+Akrophyton tuberculatum Lebert, 1858
 
 ### Remarks
 null

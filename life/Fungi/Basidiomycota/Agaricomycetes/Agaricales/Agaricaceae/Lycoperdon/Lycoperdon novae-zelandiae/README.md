@@ -1,5 +1,4 @@
-Lycoperdon novae-zelandiae Lév. SPECIES
-=======
+# Lycoperdon novae-zelandiae Lév. SPECIES
 
 #### Status
 ACCEPTED

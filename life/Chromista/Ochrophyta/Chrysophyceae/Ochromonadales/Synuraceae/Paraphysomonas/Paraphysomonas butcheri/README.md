@@ -1,5 +1,4 @@
-Paraphysomonas butcheri Pennick & Clarke SPECIES
-=======
+# Paraphysomonas butcheri Pennick & Clarke SPECIES
 
 #### Status
 ACCEPTED

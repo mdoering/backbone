@@ -1,5 +1,4 @@
-Ascocalathium stipitatum Eidam ex J. Schröt., 1893 SPECIES
-=======
+# Ascocalathium stipitatum Eidam ex J. Schröt., 1893 SPECIES
 
 #### Status
 ACCEPTED

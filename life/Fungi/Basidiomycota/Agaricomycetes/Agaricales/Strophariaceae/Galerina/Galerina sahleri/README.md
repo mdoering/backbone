@@ -1,5 +1,4 @@
-Galerina sahleri (Quél.) Kühner SPECIES
-=======
+# Galerina sahleri (Quél.) Kühner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ricasolia kunthii Linds. SPECIES
-=======
+# Ricasolia kunthii Linds. SPECIES
 
 #### Status
 ACCEPTED

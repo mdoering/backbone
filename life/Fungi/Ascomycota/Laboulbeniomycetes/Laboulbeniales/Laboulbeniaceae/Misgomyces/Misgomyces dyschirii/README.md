@@ -1,5 +1,4 @@
-Misgomyces dyschirii Thaxt., 1900 SPECIES
-=======
+# Misgomyces dyschirii Thaxt., 1900 SPECIES
 
 #### Status
 ACCEPTED

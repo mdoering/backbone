@@ -1,5 +1,4 @@
-Pseudocercosporella nicolai (Bubák) U. Braun SPECIES
-=======
+# Pseudocercosporella nicolai (Bubák) U. Braun SPECIES
 
 #### Status
 ACCEPTED

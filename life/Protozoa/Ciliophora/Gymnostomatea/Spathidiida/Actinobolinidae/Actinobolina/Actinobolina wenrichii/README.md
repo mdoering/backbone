@@ -1,8 +1,7 @@
-Balantidium wenrichi Hegner, 1934 SPECIES
-=======
+# Actinobolina wenrichii Wang & Nie, 1933 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

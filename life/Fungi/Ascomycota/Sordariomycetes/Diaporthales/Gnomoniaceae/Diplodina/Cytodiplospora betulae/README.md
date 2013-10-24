@@ -1,5 +1,4 @@
-Cytodiplospora betulae Oudem. SPECIES
-=======
+# Cytodiplospora betulae Oudem. SPECIES
 
 #### Status
 ACCEPTED

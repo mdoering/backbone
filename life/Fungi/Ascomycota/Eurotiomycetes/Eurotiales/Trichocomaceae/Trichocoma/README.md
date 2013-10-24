@@ -1,5 +1,4 @@
-Trichocoma Junghuhn, 1838 GENUS
-=======
+# Trichocoma Junghuhn, 1838 GENUS
 
 #### Status
 ACCEPTED

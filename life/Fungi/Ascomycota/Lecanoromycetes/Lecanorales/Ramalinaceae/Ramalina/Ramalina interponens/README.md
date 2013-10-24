@@ -1,5 +1,4 @@
-Ramalina interponens Nyl. SPECIES
-=======
+# Ramalina interponens Nyl. SPECIES
 
 #### Status
 ACCEPTED

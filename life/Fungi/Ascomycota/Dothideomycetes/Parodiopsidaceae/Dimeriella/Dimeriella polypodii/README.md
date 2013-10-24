@@ -1,5 +1,4 @@
-Dimeriella polypodii Samuels & Rogerson SPECIES
-=======
+# Dimeriella polypodii Samuels & Rogerson SPECIES
 
 #### Status
 ACCEPTED

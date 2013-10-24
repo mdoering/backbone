@@ -1,5 +1,4 @@
-Cellularia corrugata (Klotzsch) Kuntze SPECIES
-=======
+# Cellularia corrugata (Klotzsch) Kuntze SPECIES
 
 #### Status
 ACCEPTED

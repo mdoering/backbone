@@ -1,5 +1,4 @@
-Candida maritima (Siepmann) Uden & H.R. Buckley, 1983 SPECIES
-=======
+# Candida maritima (Siepmann) Uden & H.R. Buckley, 1983 SPECIES
 
 #### Status
 ACCEPTED

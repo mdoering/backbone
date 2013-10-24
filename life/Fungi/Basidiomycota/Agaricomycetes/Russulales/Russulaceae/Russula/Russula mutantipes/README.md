@@ -1,5 +1,4 @@
-Russula mutantipes Murrill SPECIES
-=======
+# Russula mutantipes Murrill SPECIES
 
 #### Status
 ACCEPTED

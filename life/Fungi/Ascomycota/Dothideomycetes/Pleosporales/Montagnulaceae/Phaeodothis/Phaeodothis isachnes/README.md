@@ -1,5 +1,4 @@
-Phaeodothis isachnes Petch SPECIES
-=======
+# Phaeodothis isachnes Petch SPECIES
 
 #### Status
 ACCEPTED

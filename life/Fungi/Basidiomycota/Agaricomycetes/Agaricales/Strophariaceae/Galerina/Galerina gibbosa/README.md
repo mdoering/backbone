@@ -1,5 +1,4 @@
-Galerina gibbosa J. Favre SPECIES
-=======
+# Galerina gibbosa J. Favre SPECIES
 
 #### Status
 ACCEPTED

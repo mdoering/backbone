@@ -1,5 +1,4 @@
-Cladonia squamosa var. squamosa VARIETY
-=======
+# Cladonia squamosa (Scop.) Hoffm. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Deutschl. Fl. (Erlangen), Zweiter Theil 125 (1796)
 
 #### Original name
-Cladonia squamosa var. squamosa
+Cladonia squamosa (Scop.) Hoffm.
 
 ### Remarks
 null

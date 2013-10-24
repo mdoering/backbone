@@ -1,5 +1,4 @@
-Gloeocapsa minutula Gardner SPECIES
-=======
+# Gloeocapsa minutula Gardner SPECIES
 
 #### Status
 ACCEPTED

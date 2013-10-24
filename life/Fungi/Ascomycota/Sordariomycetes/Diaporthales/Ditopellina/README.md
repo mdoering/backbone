@@ -1,5 +1,4 @@
-Ditopellina J. Reid & C. Booth GENUS
-=======
+# Ditopellina J. Reid & C. Booth GENUS
 
 #### Status
 ACCEPTED

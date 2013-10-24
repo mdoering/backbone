@@ -1,5 +1,4 @@
-Clitocybe tortipes (Cleland) Grgur. SPECIES
-=======
+# Clitocybe tortipes (Cleland) Grgur. SPECIES
 
 #### Status
 ACCEPTED

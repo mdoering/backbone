@@ -1,5 +1,4 @@
-Dothiorella pericarpica Sacc. SPECIES
-=======
+# Dothiorella pericarpica Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycoglaena alni (Dearn. & House) M.E. Barr SPECIES
-=======
+# Mycoglaena alni (Dearn. & House) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

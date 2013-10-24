@@ -1,5 +1,4 @@
-Septoria calycicola Petr. SPECIES
-=======
+# Septoria calycicola Petr. SPECIES
 
 #### Status
 ACCEPTED

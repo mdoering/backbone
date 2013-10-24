@@ -1,5 +1,4 @@
-Rhomboaster spineus (Shafik & Stradner, 1971) Perch-Nielsen, 1984 SPECIES
-=======
+# Rhomboaster spineus (Shafik & Stradner, 1971) Perch-Nielsen, 1984 SPECIES
 
 #### Status
 ACCEPTED

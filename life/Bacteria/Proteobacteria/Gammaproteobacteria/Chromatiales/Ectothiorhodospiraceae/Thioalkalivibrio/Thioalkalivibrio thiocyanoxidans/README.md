@@ -1,5 +1,4 @@
-Thioalkalivibrio thiocyanoxidans Sorokin et al., 2002 SPECIES
-=======
+# Thioalkalivibrio thiocyanoxidans Sorokin et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

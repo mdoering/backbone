@@ -1,5 +1,4 @@
-Verrucaria convelata Kremp. SPECIES
-=======
+# Verrucaria convelata Kremp. SPECIES
 
 #### Status
 ACCEPTED

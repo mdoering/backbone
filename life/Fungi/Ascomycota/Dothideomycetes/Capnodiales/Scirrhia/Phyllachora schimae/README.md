@@ -1,5 +1,4 @@
-Phyllachora schimae Chi Y. Chen & W.H. Hsieh, 1996 SPECIES
-=======
+# Phyllachora schimae Chi Y. Chen & W.H. Hsieh, 1996 SPECIES
 
 #### Status
 DOUBTFUL

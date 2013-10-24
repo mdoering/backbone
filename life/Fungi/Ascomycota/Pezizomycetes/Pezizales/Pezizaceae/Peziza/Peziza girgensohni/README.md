@@ -1,5 +1,4 @@
-Peziza girgensohni A. Dietr. SPECIES
-=======
+# Peziza girgensohni A. Dietr. SPECIES
 
 #### Status
 ACCEPTED

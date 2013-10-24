@@ -1,5 +1,4 @@
-Cercidospora lupini (Cooke & Harkn.) Kuntze SPECIES
-=======
+# Cercidospora lupini (Cooke & Harkn.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

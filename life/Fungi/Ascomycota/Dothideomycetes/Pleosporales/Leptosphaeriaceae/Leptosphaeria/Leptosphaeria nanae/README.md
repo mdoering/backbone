@@ -1,5 +1,4 @@
-Leptosphaeria nanae Shoemaker SPECIES
-=======
+# Leptosphaeria nanae Shoemaker SPECIES
 
 #### Status
 ACCEPTED

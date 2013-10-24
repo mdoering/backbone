@@ -1,5 +1,4 @@
-Euplotoides aediculatus SPECIES
-=======
+# Euplotoides aediculatus SPECIES
 
 #### Status
 ACCEPTED

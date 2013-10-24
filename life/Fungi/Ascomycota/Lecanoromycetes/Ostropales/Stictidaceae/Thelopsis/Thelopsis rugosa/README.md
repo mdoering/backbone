@@ -1,5 +1,4 @@
-Thelopsis rugosa (Anzi) Jatta SPECIES
-=======
+# Thelopsis rugosa (Anzi) Jatta SPECIES
 
 #### Status
 ACCEPTED

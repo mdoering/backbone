@@ -1,5 +1,4 @@
-Caldicellulosiruptor saccharolyticus Rainey et al., 1995 SPECIES
-=======
+# Caldicellulosiruptor saccharolyticus Rainey et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

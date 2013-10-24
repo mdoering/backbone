@@ -1,5 +1,4 @@
-Grandiniochaete Rick GENUS
-=======
+# Grandiniochaete Rick GENUS
 
 #### Status
 ACCEPTED

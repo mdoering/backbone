@@ -1,5 +1,4 @@
-Peziza cinereonigra Berk. & Broome SPECIES
-=======
+# Peziza cinereonigra Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

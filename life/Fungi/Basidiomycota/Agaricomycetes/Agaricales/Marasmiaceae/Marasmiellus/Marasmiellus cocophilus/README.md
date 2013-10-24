@@ -1,5 +1,4 @@
-Marasmiellus cocophilus Pegler, 1969 SPECIES
-=======
+# Marasmiellus cocophilus Pegler, 1969 SPECIES
 
 #### Status
 ACCEPTED

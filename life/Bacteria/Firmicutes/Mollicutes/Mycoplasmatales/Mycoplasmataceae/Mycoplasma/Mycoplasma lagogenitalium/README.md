@@ -1,5 +1,4 @@
-Mycoplasma lagogenitalium Kobayashi et al., 1997 SPECIES
-=======
+# Mycoplasma lagogenitalium Kobayashi et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

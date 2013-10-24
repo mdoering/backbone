@@ -1,5 +1,4 @@
-Galerina longispora Raithelh. SPECIES
-=======
+# Galerina longispora Raithelh. SPECIES
 
 #### Status
 ACCEPTED

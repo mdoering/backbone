@@ -1,5 +1,4 @@
-Apiospora shiraiana (I. Miyake & Hara) Hara SPECIES
-=======
+# Apiospora shiraiana (I. Miyake & Hara) Hara SPECIES
 
 #### Status
 ACCEPTED

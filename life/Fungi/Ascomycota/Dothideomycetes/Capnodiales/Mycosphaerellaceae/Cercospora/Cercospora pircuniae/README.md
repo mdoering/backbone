@@ -1,5 +1,4 @@
-Cercospora pircuniae Speg. SPECIES
-=======
+# Cercospora pircuniae Speg. SPECIES
 
 #### Status
 ACCEPTED

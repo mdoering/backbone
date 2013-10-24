@@ -1,17 +1,16 @@
-Septoria rosae var. rosae VARIETY
-=======
+# Sphaerulina rehmiana Jaap, 1910 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Pl. Crypt. Nord France, Edn 1 no. 535 (1831)
+Abhandl. Botan. Ver. Prov. Brandenburg 52: 10 (extr. ) (1910)
 
 #### Original name
-Septoria rosae var. rosae
+Sphaerulina rehmiana Jaap, 1910
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Boletus formosus Corner SPECIES
-=======
+# Boletus formosus Corner SPECIES
 
 #### Status
 ACCEPTED

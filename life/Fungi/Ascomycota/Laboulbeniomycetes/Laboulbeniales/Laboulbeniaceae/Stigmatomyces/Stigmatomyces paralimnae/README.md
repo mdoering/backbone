@@ -1,5 +1,4 @@
-Stigmatomyces paralimnae Thaxt. SPECIES
-=======
+# Stigmatomyces paralimnae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

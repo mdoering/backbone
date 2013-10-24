@@ -1,5 +1,4 @@
-Asterostromella sulphurea Rick SPECIES
-=======
+# Asterostromella sulphurea Rick SPECIES
 
 #### Status
 ACCEPTED

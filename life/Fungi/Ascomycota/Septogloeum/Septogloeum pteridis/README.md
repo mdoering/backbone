@@ -1,5 +1,4 @@
-Septogloeum pteridis (Ellis & Everh.) Wollenw. SPECIES
-=======
+# Septogloeum pteridis (Ellis & Everh.) Wollenw. SPECIES
 
 #### Status
 ACCEPTED

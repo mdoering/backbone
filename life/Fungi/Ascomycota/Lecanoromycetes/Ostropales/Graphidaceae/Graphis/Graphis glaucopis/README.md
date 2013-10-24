@@ -1,5 +1,4 @@
-Graphis glaucopis M. Wirth & Hale SPECIES
-=======
+# Graphis glaucopis M. Wirth & Hale SPECIES
 
 #### Status
 ACCEPTED

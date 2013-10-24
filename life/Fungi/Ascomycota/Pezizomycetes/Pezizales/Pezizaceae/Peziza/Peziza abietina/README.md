@@ -1,5 +1,4 @@
-Peziza abietina subsp. abietina SUBSPECIES
-=======
+# Peziza abietina Pers. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Neues Mag. Bot. 1: 113 (1794)
 
 #### Original name
-Peziza abietina subsp. abietina
+Peziza abietina Pers.
 
 ### Remarks
 null

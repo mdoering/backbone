@@ -1,5 +1,4 @@
-Lecidea uniseptata var. uniseptata Nyl. VARIETY
-=======
+# Lecidea uniseptata Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea uniseptata var. uniseptata Nyl.
+Lecidea uniseptata Nyl.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Flavobacterium acidificum Steinhaus, 1941 (Approved Lists, 1980) SPECIES
-=======
+# Flavobacterium acidificum Steinhaus, 1941 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

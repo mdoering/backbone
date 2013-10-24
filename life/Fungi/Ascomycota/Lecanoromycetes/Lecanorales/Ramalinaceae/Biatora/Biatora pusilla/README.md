@@ -1,5 +1,4 @@
-Biatora pusilla Mont. SPECIES
-=======
+# Biatora pusilla Mont. SPECIES
 
 #### Status
 ACCEPTED

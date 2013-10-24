@@ -1,5 +1,4 @@
-Cercospora berkeleyi Cooke SPECIES
-=======
+# Cercospora berkeleyi Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fumago pannosa Berk. SPECIES
-=======
+# Fumago pannosa Berk. SPECIES
 
 #### Status
 ACCEPTED

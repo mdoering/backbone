@@ -1,8 +1,7 @@
-Laboulbenia okumurai Sugiy. SPECIES
-=======
+# Laboulbenia okumurae Sugiy. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Laboulbenia okumurai Sugiy.
+Laboulbenia okumurae Sugiy.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Coryne cinereoalba (Rehm) Rick SPECIES
-=======
+# Coryne cinereoalba (Rehm) Rick SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lasiosphaeria rufula (Penz. & Sacc.) Rossman SPECIES
-=======
+# Lasiosphaeria rufula (Penz. & Sacc.) Rossman SPECIES
 
 #### Status
 ACCEPTED

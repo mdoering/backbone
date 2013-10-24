@@ -1,5 +1,4 @@
-Globorotalia peripheroranda SPECIES
-=======
+# Globorotalia peripheroranda SPECIES
 
 #### Status
 ACCEPTED

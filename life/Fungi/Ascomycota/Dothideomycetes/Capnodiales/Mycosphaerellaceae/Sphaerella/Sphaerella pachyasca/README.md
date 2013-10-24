@@ -1,5 +1,4 @@
-Sphaerella pachyasca var. pachyasca VARIETY
-=======
+# Sphaerella pachyasca Rostr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Meddr Grønland, Biosc. 3: 552 (1888)
 
 #### Original name
-Sphaerella pachyasca var. pachyasca
+Sphaerella pachyasca Rostr.
 
 ### Remarks
 null

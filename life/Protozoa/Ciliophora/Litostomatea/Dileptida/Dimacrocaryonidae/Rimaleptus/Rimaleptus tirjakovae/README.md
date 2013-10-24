@@ -1,8 +1,7 @@
-Dileptus tirjakovae Vdacny & Foissner, 2008 SPECIES
-=======
+# Rimaleptus tirjakovae (Vdacny & Foissner, 2008) Vdacny & Foissner, 2011 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

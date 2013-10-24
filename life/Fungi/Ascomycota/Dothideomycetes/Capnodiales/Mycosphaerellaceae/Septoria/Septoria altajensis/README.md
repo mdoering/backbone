@@ -1,5 +1,4 @@
-Septoria altajensis Murashk. SPECIES
-=======
+# Septoria altajensis Murashk. SPECIES
 
 #### Status
 ACCEPTED

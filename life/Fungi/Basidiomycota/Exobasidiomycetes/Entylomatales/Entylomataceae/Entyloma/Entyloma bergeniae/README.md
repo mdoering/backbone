@@ -1,5 +1,4 @@
-Entyloma bergeniae Vánky & Döbbeler, 2005 SPECIES
-=======
+# Entyloma bergeniae Vánky & Döbbeler, 2005 SPECIES
 
 #### Status
 ACCEPTED

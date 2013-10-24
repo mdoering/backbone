@@ -1,5 +1,4 @@
-Cortinarius rufobrunneus M.M. Moser SPECIES
-=======
+# Cortinarius rufobrunneus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

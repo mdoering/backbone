@@ -1,5 +1,4 @@
-Mycosphaerella alni-viridis (De Not.) Tomilin SPECIES
-=======
+# Mycosphaerella alni-viridis (De Not.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

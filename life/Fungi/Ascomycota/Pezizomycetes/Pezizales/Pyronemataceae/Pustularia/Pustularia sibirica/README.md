@@ -1,5 +1,4 @@
-Pustularia sibirica P. Karst. SPECIES
-=======
+# Pustularia sibirica P. Karst. SPECIES
 
 #### Status
 ACCEPTED

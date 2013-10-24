@@ -1,5 +1,4 @@
-Phyllosticta veronicae Cooke SPECIES
-=======
+# Phyllosticta veronicae Cooke SPECIES
 
 #### Status
 ACCEPTED

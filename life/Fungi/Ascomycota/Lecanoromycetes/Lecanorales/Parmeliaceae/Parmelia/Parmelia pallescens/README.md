@@ -1,5 +1,4 @@
-Parmelia pallescens SPECIES
-=======
+# Parmelia pallescens SPECIES
 
 #### Status
 ACCEPTED

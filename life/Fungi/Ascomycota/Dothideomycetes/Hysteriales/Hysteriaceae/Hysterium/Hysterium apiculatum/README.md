@@ -1,5 +1,4 @@
-Hysterium apiculatum Starbäck SPECIES
-=======
+# Hysterium apiculatum Starbäck SPECIES
 
 #### Status
 ACCEPTED

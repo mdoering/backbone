@@ -1,5 +1,4 @@
-Psoroma reuteri (Trevis.) Flagey SPECIES
-=======
+# Psoroma reuteri (Trevis.) Flagey SPECIES
 
 #### Status
 ACCEPTED

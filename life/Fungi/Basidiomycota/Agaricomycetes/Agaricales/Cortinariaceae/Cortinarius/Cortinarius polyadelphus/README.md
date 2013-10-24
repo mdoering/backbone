@@ -1,5 +1,4 @@
-Cortinarius polyadelphus M.M. Moser SPECIES
-=======
+# Cortinarius polyadelphus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

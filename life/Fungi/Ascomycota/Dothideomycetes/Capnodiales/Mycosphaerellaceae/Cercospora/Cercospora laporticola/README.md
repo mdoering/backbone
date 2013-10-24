@@ -1,5 +1,4 @@
-Cercospora laporticola Sarbajna & Chattopadh. SPECIES
-=======
+# Cercospora laporticola Sarbajna & Chattopadh. SPECIES
 
 #### Status
 ACCEPTED

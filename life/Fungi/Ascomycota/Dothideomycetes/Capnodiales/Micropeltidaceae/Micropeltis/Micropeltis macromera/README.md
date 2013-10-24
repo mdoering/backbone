@@ -1,5 +1,4 @@
-Micropeltis macromera Syd. SPECIES
-=======
+# Micropeltis macromera Syd. SPECIES
 
 #### Status
 ACCEPTED

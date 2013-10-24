@@ -1,5 +1,4 @@
-Melanocarpus Arx GENUS
-=======
+# Melanocarpus Arx GENUS
 
 #### Status
 ACCEPTED

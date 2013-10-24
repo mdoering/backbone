@@ -1,5 +1,4 @@
-Seynesia disciformis Pat. SPECIES
-=======
+# Seynesia disciformis Pat. SPECIES
 
 #### Status
 ACCEPTED

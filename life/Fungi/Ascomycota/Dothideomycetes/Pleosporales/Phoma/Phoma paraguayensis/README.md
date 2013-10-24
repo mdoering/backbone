@@ -1,5 +1,4 @@
-Phoma paraguayensis Speg. SPECIES
-=======
+# Phoma paraguayensis Speg. SPECIES
 
 #### Status
 ACCEPTED

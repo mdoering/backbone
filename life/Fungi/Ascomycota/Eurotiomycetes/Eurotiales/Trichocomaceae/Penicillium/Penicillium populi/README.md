@@ -1,5 +1,4 @@
-Penicillium populi J.F.H. Beyma SPECIES
-=======
+# Penicillium populi J.F.H. Beyma SPECIES
 
 #### Status
 ACCEPTED

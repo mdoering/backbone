@@ -1,5 +1,4 @@
-Marasmiellus subinodermatoides Singer SPECIES
-=======
+# Marasmiellus subinodermatoides Singer SPECIES
 
 #### Status
 ACCEPTED

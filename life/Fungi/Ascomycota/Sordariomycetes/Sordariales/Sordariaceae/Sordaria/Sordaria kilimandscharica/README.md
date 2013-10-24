@@ -1,5 +1,4 @@
-Sordaria kilimandscharica Alf. Schmidt SPECIES
-=======
+# Sordaria kilimandscharica Alf. Schmidt SPECIES
 
 #### Status
 ACCEPTED

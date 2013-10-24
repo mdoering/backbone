@@ -1,5 +1,4 @@
-Sordaria allahabadensis M.P. Srivast., Tandon, Bhargava & A.K. Ghosh SPECIES
-=======
+# Sordaria allahabadensis M.P. Srivast., Tandon, Bhargava & A.K. Ghosh SPECIES
 
 #### Status
 ACCEPTED

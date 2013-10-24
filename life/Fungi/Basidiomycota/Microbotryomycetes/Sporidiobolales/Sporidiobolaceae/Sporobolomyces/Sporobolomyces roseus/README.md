@@ -1,17 +1,16 @@
-Sporobolomyces roseus var. roseus VARIETY
-=======
+# Sporobolomyces roseus Kluyver & C.B. Niel, 1924 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Zentbl. Bakt. ParasitKde, Abt. II 63: 19 (1924)
 
 #### Original name
-Sporobolomyces roseus var. roseus
+Sporobolomyces roseus Kluyver & C.B. Niel, 1924
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lecidea lecideola (Bagl.) Jatta SPECIES
-=======
+# Lecidea lecideola (Bagl.) Jatta SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmulina Pénard, 1902 GENUS
-=======
+# Parmulina Pénard, 1902 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dentocorticium sinapicolor Boidin, Gilles & Duhem SPECIES
-=======
+# Dentocorticium sinapicolor Boidin, Gilles & Duhem SPECIES
 
 #### Status
 ACCEPTED

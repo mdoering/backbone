@@ -1,5 +1,4 @@
-Parmelia paradoxa Hale SPECIES
-=======
+# Parmelia paradoxa Hale SPECIES
 
 #### Status
 ACCEPTED

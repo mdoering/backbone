@@ -1,17 +1,16 @@
-Athelia macrospora var. macrospora VARIETY
-=======
+# Athelia teutoburgensis (Brinkmann) Jülich, 1973 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Dansk bot. Ark. 19(no. 2): 46 (1960)
+Persoonia 7(3): 383 (1973)
 
 #### Original name
-Athelia macrospora var. macrospora
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Eurycheilostoma Loeblich & Tappan, 1957 GENUS
-=======
+# Eurycheilostoma Loeblich & Tappan, 1957 GENUS
 
 #### Status
 ACCEPTED

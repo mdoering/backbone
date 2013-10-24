@@ -1,5 +1,4 @@
-Corticiruptor Wedin & Hafellner GENUS
-=======
+# Corticiruptor Wedin & Hafellner GENUS
 
 #### Status
 ACCEPTED

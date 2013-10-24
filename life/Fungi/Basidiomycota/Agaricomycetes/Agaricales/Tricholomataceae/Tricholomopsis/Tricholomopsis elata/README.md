@@ -1,5 +1,4 @@
-Tricholomopsis elata Hongo SPECIES
-=======
+# Tricholomopsis elata Hongo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Pholiota aeruginosa Peck, 1890 SPECIES
-=======
+# Gymnopilus aeruginosus (Peck) Singer, 1951 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lilloa 22: 560 (1951)
 
 #### Original name
 Pholiota aeruginosa Peck, 1890

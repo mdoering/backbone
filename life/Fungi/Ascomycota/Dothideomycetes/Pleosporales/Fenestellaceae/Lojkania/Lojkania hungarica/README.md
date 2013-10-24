@@ -1,5 +1,4 @@
-Lojkania hungarica Rehm, 1905 SPECIES
-=======
+# Lojkania hungarica Rehm, 1905 SPECIES
 
 #### Status
 ACCEPTED

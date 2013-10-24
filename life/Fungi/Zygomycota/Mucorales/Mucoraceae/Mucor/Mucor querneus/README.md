@@ -1,17 +1,16 @@
-Mucor quernea Sowerby SPECIES
-=======
+# Mucor querneus Sowerby SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Col. fig. Engl. Fung. Mushr. (London) 3: pl. 378:12 (1803)
 
 #### Original name
-Mucor quernea Sowerby
+Mucor querneus Sowerby
 
 ### Remarks
 null

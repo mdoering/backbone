@@ -1,5 +1,4 @@
-Skierka philippinensis Mains, 1939 SPECIES
-=======
+# Skierka philippinensis Mains, 1939 SPECIES
 
 #### Status
 ACCEPTED

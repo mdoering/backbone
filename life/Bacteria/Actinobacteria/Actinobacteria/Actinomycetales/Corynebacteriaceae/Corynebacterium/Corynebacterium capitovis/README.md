@@ -1,5 +1,4 @@
-Corynebacterium capitovis Collins et al., 2001 SPECIES
-=======
+# Corynebacterium capitovis Collins et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

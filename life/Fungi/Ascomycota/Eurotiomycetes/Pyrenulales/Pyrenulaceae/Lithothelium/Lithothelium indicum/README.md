@@ -1,5 +1,4 @@
-Lithothelium indicum Ajay Singh SPECIES
-=======
+# Lithothelium indicum Ajay Singh SPECIES
 
 #### Status
 ACCEPTED

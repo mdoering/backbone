@@ -1,17 +1,16 @@
-Thelephora caerulea var. fumosa (Fr.) VARIETY
-=======
+# Terana caerulea (Lam.) Kuntze, 1891 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 2: 872 (1891)
 
 #### Original name
-Hypochnus fumosus Fr., 1818
+Byssus caerulea Lam., 1779
 
 ### Remarks
 null

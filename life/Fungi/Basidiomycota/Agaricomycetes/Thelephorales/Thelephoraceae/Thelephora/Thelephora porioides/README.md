@@ -1,5 +1,4 @@
-Thelephora porioides Pers. SPECIES
-=======
+# Thelephora porioides Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe viscidula R. Heim SPECIES
-=======
+# Inocybe viscidula R. Heim SPECIES
 
 #### Status
 ACCEPTED

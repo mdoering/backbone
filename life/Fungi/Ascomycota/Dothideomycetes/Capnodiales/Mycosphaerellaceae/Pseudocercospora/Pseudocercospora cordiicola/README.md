@@ -1,5 +1,4 @@
-Pseudocercospora cordiicola (J.M. Yen) J.M. Yen SPECIES
-=======
+# Pseudocercospora cordiicola (J.M. Yen) J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

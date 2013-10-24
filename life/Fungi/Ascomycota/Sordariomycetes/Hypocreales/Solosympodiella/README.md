@@ -1,5 +1,4 @@
-Solosympodiella Matsush. GENUS
-=======
+# Solosympodiella Matsush. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Seiridiella GENUS
-=======
+# Seiridiella GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trypethelium leucotrypum Nyl. SPECIES
-=======
+# Trypethelium leucotrypum Nyl. SPECIES
 
 #### Status
 ACCEPTED

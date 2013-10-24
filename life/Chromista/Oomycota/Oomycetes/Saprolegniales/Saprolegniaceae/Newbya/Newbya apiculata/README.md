@@ -1,17 +1,16 @@
-Achlya apiculata var. apiculata de Bary VARIETY
-=======
+# Newbya apiculata (de Bary) M.W. Dick & Mark A. Spencer, 2002 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Ztg. 46(40): 635 (1888)
+in Spencer, Vick & Dick, Mycol. Res. 106(5): 559 (2002)
 
 #### Original name
-Achlya apiculata var. apiculata de Bary
+Achlya apiculata de Bary, 1888
 
 ### Remarks
 null

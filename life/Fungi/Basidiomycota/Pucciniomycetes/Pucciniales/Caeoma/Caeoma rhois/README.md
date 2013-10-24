@@ -1,5 +1,4 @@
-Caeoma rhois Henn. SPECIES
-=======
+# Caeoma rhois Henn. SPECIES
 
 #### Status
 ACCEPTED

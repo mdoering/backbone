@@ -1,5 +1,4 @@
-Cryptosporella ampelopsidis (Ellis) Sacc. SPECIES
-=======
+# Cryptosporella ampelopsidis (Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

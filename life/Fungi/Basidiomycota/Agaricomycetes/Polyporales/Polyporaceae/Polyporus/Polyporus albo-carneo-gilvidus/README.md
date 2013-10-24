@@ -1,5 +1,4 @@
-Polyporus albo-carneo-gilvidus Romell SPECIES
-=======
+# Polyporus albo-carneo-gilvidus Romell SPECIES
 
 #### Status
 ACCEPTED

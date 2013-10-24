@@ -1,5 +1,4 @@
-Birkelundia jugata (Perch-Nielsen, 1967) Perch-Nielsen, 1971 SPECIES
-=======
+# Birkelundia jugata (Perch-Nielsen, 1967) Perch-Nielsen, 1971 SPECIES
 
 #### Status
 ACCEPTED

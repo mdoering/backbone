@@ -1,5 +1,4 @@
-Porina affinis f. fusca (B. de Lesd.) Keissl. FORM
-=======
+# Porina affinis F. Schill. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Hedwigia 67: 287 (1927)
 
 #### Original name
-Porina carpinea f. fusca B. de Lesd.
+Porina affinis F. Schill.
 
 ### Remarks
 null

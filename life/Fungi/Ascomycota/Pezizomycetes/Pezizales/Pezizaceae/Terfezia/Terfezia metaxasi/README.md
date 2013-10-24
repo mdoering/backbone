@@ -1,5 +1,4 @@
-Terfezia metaxasi Chatin SPECIES
-=======
+# Terfezia metaxasi Chatin SPECIES
 
 #### Status
 ACCEPTED

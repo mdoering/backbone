@@ -1,5 +1,4 @@
-Saccharomyces keiskeanus K. Yabe SPECIES
-=======
+# Saccharomyces keiskeanus K. Yabe SPECIES
 
 #### Status
 ACCEPTED

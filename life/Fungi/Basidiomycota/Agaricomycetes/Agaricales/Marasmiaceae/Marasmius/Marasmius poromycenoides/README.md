@@ -1,5 +1,4 @@
-Marasmius poromycenoides Singer SPECIES
-=======
+# Marasmius poromycenoides Singer SPECIES
 
 #### Status
 ACCEPTED

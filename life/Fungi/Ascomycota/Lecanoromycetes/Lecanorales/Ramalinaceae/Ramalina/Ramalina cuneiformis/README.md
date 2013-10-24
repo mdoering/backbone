@@ -1,5 +1,4 @@
-Ramalina cuneiformis SPECIES
-=======
+# Ramalina cuneiformis SPECIES
 
 #### Status
 ACCEPTED

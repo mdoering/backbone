@@ -1,5 +1,4 @@
-Polyedryxium vermiculata Colbath, 1990 SPECIES
-=======
+# Polyedryxium vermiculata Colbath, 1990 SPECIES
 
 #### Status
 ACCEPTED

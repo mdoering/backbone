@@ -1,5 +1,4 @@
-Erineum pyracanthae DC. SPECIES
-=======
+# Erineum pyracanthae DC. SPECIES
 
 #### Status
 ACCEPTED

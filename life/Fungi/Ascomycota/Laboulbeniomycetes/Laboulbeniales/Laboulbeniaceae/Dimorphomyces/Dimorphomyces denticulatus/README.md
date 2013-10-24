@@ -1,5 +1,4 @@
-Dimorphomyces denticulatus Thaxt., 1893 SPECIES
-=======
+# Dimorphomyces denticulatus Thaxt., 1893 SPECIES
 
 #### Status
 ACCEPTED

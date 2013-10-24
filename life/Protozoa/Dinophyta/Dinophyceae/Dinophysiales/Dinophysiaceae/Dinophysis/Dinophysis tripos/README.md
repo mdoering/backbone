@@ -1,14 +1,13 @@
-Dinophysis caudata var. tripos (Gourret) Gail VARIETY
-=======
+# Dinophysis tripos Gourret SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Gourret P. 1883. Sur les Péridiniens du Golfe de Marseille. Ann. Mus. Hist. Nat. Marseille, Zool. 1 (8): 1-114.
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Tribrachia Schubert, 1912 GENUS
-=======
+# Tribrachia Schubert, 1912 GENUS
 
 #### Status
 ACCEPTED

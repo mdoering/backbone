@@ -1,5 +1,4 @@
-Rhabdospora thysselini Henn. SPECIES
-=======
+# Rhabdospora thysselini Henn. SPECIES
 
 #### Status
 ACCEPTED

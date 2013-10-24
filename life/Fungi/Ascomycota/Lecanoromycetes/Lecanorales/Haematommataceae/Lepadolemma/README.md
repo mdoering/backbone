@@ -1,5 +1,4 @@
-Lepadolemma GENUS
-=======
+# Lepadolemma GENUS
 
 #### Status
 ACCEPTED

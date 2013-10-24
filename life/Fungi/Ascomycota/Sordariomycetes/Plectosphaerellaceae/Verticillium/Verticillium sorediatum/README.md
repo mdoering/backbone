@@ -1,5 +1,4 @@
-Verticillium sorediatum Berk. & M.A. Curtis SPECIES
-=======
+# Verticillium sorediatum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

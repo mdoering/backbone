@@ -1,5 +1,4 @@
-Botrytis pyogenes Fayod SPECIES
-=======
+# Botrytis pyogenes Fayod SPECIES
 
 #### Status
 ACCEPTED

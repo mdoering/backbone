@@ -1,5 +1,4 @@
-Lactarius eburneus var. eburneus VARIETY
-=======
+# Lactarius eburneus Z. Schaef. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Ceská Mykol. 33: 4 (1979)
 
 #### Original name
-Lactarius eburneus var. eburneus
+Lactarius eburneus Z. Schaef.
 
 ### Remarks
 null

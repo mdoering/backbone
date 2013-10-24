@@ -1,5 +1,4 @@
-Verrucaria subtrahens Nyl. SPECIES
-=======
+# Verrucaria subtrahens Nyl. SPECIES
 
 #### Status
 ACCEPTED

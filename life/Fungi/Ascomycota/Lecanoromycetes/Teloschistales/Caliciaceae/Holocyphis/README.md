@@ -1,5 +1,4 @@
-Holocyphis GENUS
-=======
+# Holocyphis GENUS
 
 #### Status
 ACCEPTED

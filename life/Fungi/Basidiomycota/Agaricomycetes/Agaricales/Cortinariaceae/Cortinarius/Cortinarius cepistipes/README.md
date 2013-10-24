@@ -1,5 +1,4 @@
-Cortinarius cepistipes A. Favre & P.-A. Moreau SPECIES
-=======
+# Cortinarius cepistipes A. Favre & P.-A. Moreau SPECIES
 
 #### Status
 ACCEPTED

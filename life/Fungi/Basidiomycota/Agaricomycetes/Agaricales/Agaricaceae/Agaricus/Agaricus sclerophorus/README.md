@@ -1,5 +1,4 @@
-Agaricus sclerophorus Korth. {?} SPECIES
-=======
+# Agaricus sclerophorus Korth. {?} SPECIES
 
 #### Status
 ACCEPTED

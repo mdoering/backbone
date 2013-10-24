@@ -1,5 +1,4 @@
-Leptoxyphium lanosum Bat. & Cavalc. SPECIES
-=======
+# Leptoxyphium lanosum Bat. & Cavalc. SPECIES
 
 #### Status
 ACCEPTED

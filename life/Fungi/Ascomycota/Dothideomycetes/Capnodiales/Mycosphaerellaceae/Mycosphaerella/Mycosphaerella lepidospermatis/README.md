@@ -1,5 +1,4 @@
-Mycosphaerella lepidospermatis Hansf. SPECIES
-=======
+# Mycosphaerella lepidospermatis Hansf. SPECIES
 
 #### Status
 ACCEPTED

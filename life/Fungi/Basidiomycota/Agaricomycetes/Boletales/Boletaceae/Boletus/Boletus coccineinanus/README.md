@@ -1,5 +1,4 @@
-Boletus coccineinanus Corner SPECIES
-=======
+# Boletus coccineinanus Corner SPECIES
 
 #### Status
 ACCEPTED

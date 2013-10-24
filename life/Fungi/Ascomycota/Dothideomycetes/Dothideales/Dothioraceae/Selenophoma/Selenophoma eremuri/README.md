@@ -1,5 +1,4 @@
-Selenophoma eremuri Koshk. SPECIES
-=======
+# Selenophoma eremuri Koshk. SPECIES
 
 #### Status
 ACCEPTED

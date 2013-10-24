@@ -1,5 +1,4 @@
-Lecanora caesiopallens Vain. SPECIES
-=======
+# Lecanora caesiopallens Vain. SPECIES
 
 #### Status
 ACCEPTED

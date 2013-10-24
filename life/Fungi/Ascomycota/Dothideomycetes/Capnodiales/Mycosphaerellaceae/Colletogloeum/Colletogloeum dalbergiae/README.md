@@ -1,5 +1,4 @@
-Colletogloeum dalbergiae (S. Ahmad) Petr. SPECIES
-=======
+# Colletogloeum dalbergiae (S. Ahmad) Petr. SPECIES
 
 #### Status
 ACCEPTED

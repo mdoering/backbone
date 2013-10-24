@@ -1,5 +1,4 @@
-Agaricus anax Berk. SPECIES
-=======
+# Agaricus anax Berk. SPECIES
 
 #### Status
 ACCEPTED

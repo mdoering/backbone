@@ -1,5 +1,4 @@
-Diplodina amorphae Allesch. SPECIES
-=======
+# Diplodina amorphae Allesch. SPECIES
 
 #### Status
 ACCEPTED

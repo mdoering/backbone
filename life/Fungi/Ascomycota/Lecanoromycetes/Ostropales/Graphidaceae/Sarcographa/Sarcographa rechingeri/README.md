@@ -1,5 +1,4 @@
-Sarcographa rechingeri Zahlbr. SPECIES
-=======
+# Sarcographa rechingeri Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

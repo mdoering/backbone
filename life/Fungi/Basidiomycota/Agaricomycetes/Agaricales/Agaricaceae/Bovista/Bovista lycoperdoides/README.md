@@ -1,5 +1,4 @@
-Bovista lycoperdoides (Cooke) S. Ahmad SPECIES
-=======
+# Bovista lycoperdoides (Cooke) S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

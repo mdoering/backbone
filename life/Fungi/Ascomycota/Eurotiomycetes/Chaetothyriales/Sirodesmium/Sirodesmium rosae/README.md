@@ -1,5 +1,4 @@
-Sirodesmium rosae Bubák SPECIES
-=======
+# Sirodesmium rosae Bubák SPECIES
 
 #### Status
 ACCEPTED

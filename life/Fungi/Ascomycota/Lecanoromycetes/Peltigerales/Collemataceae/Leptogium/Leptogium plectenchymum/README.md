@@ -1,5 +1,4 @@
-Leptogium plectenchymum Fink SPECIES
-=======
+# Leptogium plectenchymum Fink SPECIES
 
 #### Status
 ACCEPTED

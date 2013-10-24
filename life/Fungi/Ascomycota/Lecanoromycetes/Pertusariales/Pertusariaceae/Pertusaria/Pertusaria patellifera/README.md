@@ -1,5 +1,4 @@
-Pertusaria patellifera A. W. Archer SPECIES
-=======
+# Pertusaria patellifera A. W. Archer SPECIES
 
 #### Status
 ACCEPTED

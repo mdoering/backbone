@@ -1,5 +1,4 @@
-Penicillium aphodii (Vuill.) Biourge SPECIES
-=======
+# Penicillium aphodii (Vuill.) Biourge SPECIES
 
 #### Status
 ACCEPTED

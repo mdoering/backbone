@@ -1,17 +1,16 @@
-Tofispora G. Langer GENUS
-=======
+# Thanatephorus Donk, 1956 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Biblthca Mycol. 158: 32 (1994)
+null
 
 #### Original name
-Tofispora G. Langer
+null
 
 ### Remarks
 null

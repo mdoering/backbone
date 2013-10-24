@@ -1,5 +1,4 @@
-Cyclotella wolterecki Hustedt SPECIES
-=======
+# Cyclotella wolterecki Hustedt SPECIES
 
 #### Status
 ACCEPTED

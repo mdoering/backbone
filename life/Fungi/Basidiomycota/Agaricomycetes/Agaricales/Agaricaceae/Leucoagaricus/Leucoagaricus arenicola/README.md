@@ -1,5 +1,4 @@
-Leucoagaricus arenicola (Menier) Bon & Boiffard SPECIES
-=======
+# Leucoagaricus arenicola (Menier) Bon & Boiffard SPECIES
 
 #### Status
 ACCEPTED

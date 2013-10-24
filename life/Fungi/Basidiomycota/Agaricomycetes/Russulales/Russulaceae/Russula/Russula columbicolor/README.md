@@ -1,5 +1,4 @@
-Russula columbicolor Jurkeit & Herches SPECIES
-=======
+# Russula columbicolor Jurkeit & Herches SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium cerastii G.H. Otth SPECIES
-=======
+# Aecidium cerastii G.H. Otth SPECIES
 
 #### Status
 ACCEPTED

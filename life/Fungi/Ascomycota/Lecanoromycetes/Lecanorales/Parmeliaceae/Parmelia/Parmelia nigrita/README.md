@@ -1,5 +1,4 @@
-Parmelia nigrita f. nigrita FORM
-=======
+# Parmelia nigrita (Flot.) Hillmann SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia nigrita f. nigrita
+Parmelia centrifuga var. nigrita Flot.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Dyocibicides primitiva Vella, 1957 SPECIES
-=======
+# Dyocibicides primitiva Vella, 1957 SPECIES
 
 #### Status
 ACCEPTED

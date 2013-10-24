@@ -1,5 +1,4 @@
-Methylarcula marina Doronina et al., 2000 SPECIES
-=======
+# Methylarcula marina Doronina et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

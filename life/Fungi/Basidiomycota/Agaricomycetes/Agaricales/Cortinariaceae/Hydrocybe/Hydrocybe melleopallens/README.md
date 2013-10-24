@@ -1,5 +1,4 @@
-Hydrocybe melleopallens (Fr.) M.M. Moser SPECIES
-=======
+# Hydrocybe melleopallens (Fr.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

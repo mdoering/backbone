@@ -1,5 +1,4 @@
-Ramularia stachydis-alpinae Allesch. SPECIES
-=======
+# Ramularia stachydis-alpinae Allesch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Acantometra Wesenberg-Lund, 1904 GENUS
-=======
+# Acanthometra J. Müller, 1856 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
-Bull. Résult. Conseil Int. Mer, 1903-04, no. 2, D, 70.
+MonatsBer. Akad. Wiss. Berlin, 1855, 248.
 
 #### Original name
 null

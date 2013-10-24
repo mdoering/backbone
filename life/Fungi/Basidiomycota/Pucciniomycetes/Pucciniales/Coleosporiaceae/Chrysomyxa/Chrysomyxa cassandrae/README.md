@@ -1,5 +1,4 @@
-Chrysomyxa cassandrae (Gobi) Tranzschel SPECIES
-=======
+# Chrysomyxa cassandrae (Gobi) Tranzschel SPECIES
 
 #### Status
 ACCEPTED

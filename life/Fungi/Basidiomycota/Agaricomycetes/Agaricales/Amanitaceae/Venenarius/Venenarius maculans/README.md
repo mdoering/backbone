@@ -1,5 +1,4 @@
-Venenarius maculans Murrill SPECIES
-=======
+# Venenarius maculans Murrill SPECIES
 
 #### Status
 ACCEPTED

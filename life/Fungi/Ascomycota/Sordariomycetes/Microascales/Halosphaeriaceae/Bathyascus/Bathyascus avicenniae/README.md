@@ -1,5 +1,4 @@
-Bathyascus avicenniae Kohlm., 1980 SPECIES
-=======
+# Bathyascus avicenniae Kohlm., 1980 SPECIES
 
 #### Status
 ACCEPTED

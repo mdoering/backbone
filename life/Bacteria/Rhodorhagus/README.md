@@ -1,5 +1,4 @@
-Rhodorhagus GENUS
-=======
+# Rhodorhagus GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyanostylon sinense Chu SPECIES
-=======
+# Cyanostylon sinense Chu SPECIES
 
 #### Status
 ACCEPTED

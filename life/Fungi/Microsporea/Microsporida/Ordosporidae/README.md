@@ -1,5 +1,4 @@
-Ordosporidae FAMILY
-=======
+# Ordosporidae FAMILY
 
 #### Status
 ACCEPTED

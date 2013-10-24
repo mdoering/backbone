@@ -1,5 +1,4 @@
-Calyptella cylindrospora D.A. Reid SPECIES
-=======
+# Calyptella cylindrospora D.A. Reid SPECIES
 
 #### Status
 ACCEPTED

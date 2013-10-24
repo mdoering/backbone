@@ -1,5 +1,4 @@
-Stictina thouarsii f. thouarsii FORM
-=======
+# Stictina thouarsii (Delise) Hav. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Stictina thouarsii f. thouarsii
+Sticta thouarsii Delise
 
 ### Remarks
 null

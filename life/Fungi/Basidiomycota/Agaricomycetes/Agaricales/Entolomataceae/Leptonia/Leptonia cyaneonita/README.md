@@ -1,5 +1,4 @@
-Leptonia cyaneonita Largent SPECIES
-=======
+# Leptonia cyaneonita Largent SPECIES
 
 #### Status
 ACCEPTED

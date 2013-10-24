@@ -1,5 +1,4 @@
-Pythium nanningense C.Y. Lai & G.Q. Yuan SPECIES
-=======
+# Pythium nanningense C.Y. Lai & G.Q. Yuan SPECIES
 
 #### Status
 ACCEPTED

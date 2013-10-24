@@ -1,5 +1,4 @@
-Lamprospora chopraiana L.R. Batra SPECIES
-=======
+# Lamprospora chopraiana L.R. Batra SPECIES
 
 #### Status
 ACCEPTED

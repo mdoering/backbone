@@ -1,5 +1,4 @@
-Harpocephalum dematioides G.F. Atk. SPECIES
-=======
+# Harpocephalum dematioides G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

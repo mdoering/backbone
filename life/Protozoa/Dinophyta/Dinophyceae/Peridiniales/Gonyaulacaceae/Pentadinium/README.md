@@ -1,14 +1,13 @@
-Toenisbergia P.N. von Benedek, Gocht & Sarjeant, 1982 GENUS
-=======
+# Pentadinium Gerlach, 1961 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+IRMNG Homonym List
 
 #### Published in
-Neues Jb. Geol. Palaont. Abh. 162 (3): 279.
+Neues Jb. Geol. Paläont. Abh. 112: 164.
 
 #### Original name
 null

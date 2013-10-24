@@ -1,5 +1,4 @@
-Cordyceps glaziovii Henn. SPECIES
-=======
+# Cordyceps glaziovii Henn. SPECIES
 
 #### Status
 ACCEPTED

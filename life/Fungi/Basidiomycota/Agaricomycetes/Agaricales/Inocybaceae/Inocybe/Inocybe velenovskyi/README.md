@@ -1,5 +1,4 @@
-Inocybe velenovskyi Boursier & Kühner SPECIES
-=======
+# Inocybe velenovskyi Boursier & Kühner SPECIES
 
 #### Status
 ACCEPTED

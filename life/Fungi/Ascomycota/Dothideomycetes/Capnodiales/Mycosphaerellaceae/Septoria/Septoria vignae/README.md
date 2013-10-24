@@ -1,17 +1,16 @@
-Septoria vignicola V.G. Rao, 1963 SPECIES
-=======
+# Septoria vignae Henn., 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Curr. Sci. 32(8): 367 (1963)
+Annals de Musée du Congo, Botanique Série 5 2(2): 102 (1907)
 
 #### Original name
-Septoria vignicola V.G. Rao, 1963
+Septoria vignae Henn., 1907
 
 ### Remarks
 null

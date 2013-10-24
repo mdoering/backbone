@@ -1,5 +1,4 @@
-Stalagmochaetia basilisca Bat., Cif. & Nascim., 1963 SPECIES
-=======
+# Stalagmochaetia basilisca Bat., Cif. & Nascim., 1963 SPECIES
 
 #### Status
 ACCEPTED

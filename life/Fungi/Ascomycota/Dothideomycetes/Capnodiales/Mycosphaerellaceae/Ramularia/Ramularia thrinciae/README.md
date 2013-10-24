@@ -1,5 +1,4 @@
-Ramularia thrinciae Sacc. & Berl. SPECIES
-=======
+# Ramularia thrinciae Sacc. & Berl. SPECIES
 
 #### Status
 ACCEPTED

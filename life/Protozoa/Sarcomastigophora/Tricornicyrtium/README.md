@@ -1,5 +1,4 @@
-Tricornicyrtium Tekin, 1999 GENUS
-=======
+# Tricornicyrtium Tekin, 1999 GENUS
 
 #### Status
 ACCEPTED

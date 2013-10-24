@@ -1,5 +1,4 @@
-Gloeocystidiellum kenyense Hjortstam, 1987 SPECIES
-=======
+# Gloeocystidiellum kenyense Hjortstam, 1987 SPECIES
 
 #### Status
 ACCEPTED

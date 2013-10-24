@@ -1,5 +1,4 @@
-Graphium coryneoides (Ellis & Everh.) Sacc. SPECIES
-=======
+# Graphium coryneoides (Ellis & Everh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

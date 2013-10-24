@@ -1,14 +1,13 @@
-Radulomyces submolaris Parmasto, 1968 SPECIES
-=======
+# Cerocorticium submolare (Parmasto) Jülich & Stalpers, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Consp. System. Corticiac. (Tartu) 224 (1968)
+Verh. K. ned. Akad. Wet. , 2 Sectie 74: 72 (1980)
 
 #### Original name
 Radulomyces submolaris Parmasto, 1968

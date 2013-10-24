@@ -1,17 +1,16 @@
-Arachnoscypha boudierii V.G. Rao & Subhedar SPECIES
-=======
+# Arachnoscypha boudieri V.G. Rao & Subhedar SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Journal of Mycology and Plant Pathology 9(2): 258 (1980)
 
 #### Original name
-Arachnoscypha boudierii V.G. Rao & Subhedar
+Arachnoscypha boudieri V.G. Rao & Subhedar
 
 ### Remarks
 null

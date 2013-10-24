@@ -1,5 +1,4 @@
-Rhizocarpon vernicomoideum Fink SPECIES
-=======
+# Rhizocarpon vernicomoideum Fink SPECIES
 
 #### Status
 ACCEPTED

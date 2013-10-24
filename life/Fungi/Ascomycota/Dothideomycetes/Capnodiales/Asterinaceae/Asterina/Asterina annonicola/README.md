@@ -1,8 +1,7 @@
-Asterina anonicola Henn. SPECIES
-=======
+# Asterina annonicola Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Asterina anonicola Henn.
+Asterina annonicola Henn.
 
 ### Remarks
 null

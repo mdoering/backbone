@@ -1,5 +1,4 @@
-Didymium columbinum Berk. SPECIES
-=======
+# Didymium columbinum Berk. SPECIES
 
 #### Status
 ACCEPTED

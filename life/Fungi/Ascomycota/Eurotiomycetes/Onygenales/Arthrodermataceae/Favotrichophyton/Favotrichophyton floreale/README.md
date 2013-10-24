@@ -1,5 +1,4 @@
-Favotrichophyton floreale (Cazalbou) C.W. Dodge SPECIES
-=======
+# Favotrichophyton floreale (Cazalbou) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

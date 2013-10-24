@@ -1,5 +1,4 @@
-Aposphaeria glaziovii Allesch. SPECIES
-=======
+# Aposphaeria glaziovii Allesch. SPECIES
 
 #### Status
 ACCEPTED

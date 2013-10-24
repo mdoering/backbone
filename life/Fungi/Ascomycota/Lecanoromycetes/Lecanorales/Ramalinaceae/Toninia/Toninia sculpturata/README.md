@@ -1,17 +1,16 @@
-Catillaria sculpturata H. Magn. SPECIES
-=======
+# Toninia sculpturata (H. Magn.) Timdal SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Op. bot. 110: 92 (1991)
 
 #### Original name
-null
+Catillaria sculpturata H. Magn.
 
 ### Remarks
 null

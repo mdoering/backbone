@@ -1,5 +1,4 @@
-Aphelaria ceracea Corner SPECIES
-=======
+# Aphelaria ceracea Corner SPECIES
 
 #### Status
 ACCEPTED

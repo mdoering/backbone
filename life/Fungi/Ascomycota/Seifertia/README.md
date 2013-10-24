@@ -1,5 +1,4 @@
-Seifertia Partr. & Morgan-Jones GENUS
-=======
+# Seifertia Partr. & Morgan-Jones GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria thurgoviensis E. Müll. SPECIES
-=======
+# Leptosphaeria thurgoviensis E. Müll. SPECIES
 
 #### Status
 ACCEPTED

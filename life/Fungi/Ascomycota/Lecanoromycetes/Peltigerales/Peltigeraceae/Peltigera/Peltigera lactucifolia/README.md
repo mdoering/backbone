@@ -1,14 +1,13 @@
-Lichen lactucifolius With. SPECIES
-=======
+# Peltigera lactucifolia (With.) J.R. Laundon SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Bot. arr. veg. Gr. Brit. 2: 718 (1776)
+Lichenologist 16(3): 221 (1984)
 
 #### Original name
 Lichen lactucifolius With.

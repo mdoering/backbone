@@ -1,5 +1,4 @@
-Linospora carpini J. Schröt. SPECIES
-=======
+# Linospora carpini J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

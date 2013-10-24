@@ -1,5 +1,4 @@
-Aleurodiscus andinus Núñez & Ryvarden SPECIES
-=======
+# Aleurodiscus andinus Núñez & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

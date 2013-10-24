@@ -1,17 +1,16 @@
-Boletus appendiculatus subsp. appendiculatus SUBSPECIES
-=======
+# Boletus appendiculatus Schaeff., 1763 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fung. Bavar. Palat. 2: tab. 130 (1763)
+Bull. Torrey bot. Club 23: 418 (1896)
 
 #### Original name
-Boletus appendiculatus subsp. appendiculatus
+Boletus appendiculatus Schaeff., 1763
 
 ### Remarks
 null

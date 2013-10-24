@@ -1,5 +1,4 @@
-Acholeplasma morum Rose et al., 1980 SPECIES
-=======
+# Acholeplasma morum Rose et al., 1980 SPECIES
 
 #### Status
 ACCEPTED

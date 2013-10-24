@@ -1,5 +1,4 @@
-Sporotrichum sagenae Szembel SPECIES
-=======
+# Sporotrichum sagenae Szembel SPECIES
 
 #### Status
 ACCEPTED

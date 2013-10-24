@@ -1,5 +1,4 @@
-Meliola alocasiae Syd. SPECIES
-=======
+# Meliola alocasiae Syd. SPECIES
 
 #### Status
 ACCEPTED

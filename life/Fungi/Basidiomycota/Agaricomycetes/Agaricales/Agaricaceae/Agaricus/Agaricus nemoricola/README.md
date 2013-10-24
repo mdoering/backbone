@@ -1,5 +1,4 @@
-Agaricus nemoricola Speg. SPECIES
-=======
+# Agaricus nemoricola Speg. SPECIES
 
 #### Status
 ACCEPTED

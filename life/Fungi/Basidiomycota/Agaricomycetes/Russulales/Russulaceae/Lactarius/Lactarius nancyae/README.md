@@ -1,5 +1,4 @@
-Lactarius nancyae Hesler & A.H. Sm. SPECIES
-=======
+# Lactarius nancyae Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

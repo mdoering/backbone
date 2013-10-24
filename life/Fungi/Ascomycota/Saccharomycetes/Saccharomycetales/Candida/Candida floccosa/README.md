@@ -1,5 +1,4 @@
-Candida floccosa G. Péter, Dlauchy & Tornai-Leh. SPECIES
-=======
+# Candida floccosa G. Péter, Dlauchy & Tornai-Leh. SPECIES
 
 #### Status
 ACCEPTED

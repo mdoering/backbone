@@ -1,5 +1,4 @@
-Cercospora udagawana Katsuki SPECIES
-=======
+# Cercospora udagawana Katsuki SPECIES
 
 #### Status
 ACCEPTED

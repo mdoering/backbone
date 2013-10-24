@@ -1,5 +1,4 @@
-Phoma metasequoiae Gucevic SPECIES
-=======
+# Phoma metasequoiae Gucevic SPECIES
 
 #### Status
 ACCEPTED

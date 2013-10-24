@@ -1,17 +1,16 @@
-Phyllosticta capparidis-hyneanae da Costa {?} & Mundk. SPECIES
-=======
+# Phyllosticta capparis-heyneanae da Costa {?} & Mundk. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Proc. natn. Acad. Sci. India, Sect. B, Biol. Sci. 14: 57 (1948)
 
 #### Original name
-Phyllosticta capparidis-hyneanae da Costa {?} & Mundk.
+Phyllosticta capparis-heyneanae da Costa {?} & Mundk.
 
 ### Remarks
 null

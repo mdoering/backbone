@@ -1,5 +1,4 @@
-Ceriporia lacerata N. Maek., Suhara & R. Kondo SPECIES
-=======
+# Ceriporia lacerata N. Maek., Suhara & R. Kondo SPECIES
 
 #### Status
 ACCEPTED

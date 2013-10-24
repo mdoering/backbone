@@ -1,5 +1,4 @@
-Lecidora convexula (Arnold) Motyka SPECIES
-=======
+# Lecidora convexula (Arnold) Motyka SPECIES
 
 #### Status
 ACCEPTED

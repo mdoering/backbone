@@ -1,5 +1,4 @@
-Valvulina d'Orbigny, 1826 GENUS
-=======
+# Valvulina d'Orbigny, 1826 GENUS
 
 #### Status
 ACCEPTED

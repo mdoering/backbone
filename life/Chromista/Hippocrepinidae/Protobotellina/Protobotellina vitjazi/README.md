@@ -1,5 +1,4 @@
-Protobotellina vitjazi Saidova, 1970 SPECIES
-=======
+# Protobotellina vitjazi Saidova, 1970 SPECIES
 
 #### Status
 ACCEPTED

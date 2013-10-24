@@ -1,5 +1,4 @@
-Coscinodiscus granii Gough, 1905 SPECIES
-=======
+# Coscinodiscus granii Gough, 1905 SPECIES
 
 #### Status
 ACCEPTED

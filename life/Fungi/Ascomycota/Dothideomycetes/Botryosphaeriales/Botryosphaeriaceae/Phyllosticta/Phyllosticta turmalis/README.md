@@ -1,5 +1,4 @@
-Phyllosticta turmalis Ellis & Everh. SPECIES
-=======
+# Phyllosticta turmalis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

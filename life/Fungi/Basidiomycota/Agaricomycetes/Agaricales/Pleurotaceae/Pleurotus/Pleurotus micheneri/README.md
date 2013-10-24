@@ -1,5 +1,4 @@
-Pleurotus micheneri (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Pleurotus micheneri (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

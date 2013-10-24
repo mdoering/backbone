@@ -1,5 +1,4 @@
-Cladonia hypoxantha Tuck. SPECIES
-=======
+# Cladonia hypoxantha Tuck. SPECIES
 
 #### Status
 ACCEPTED

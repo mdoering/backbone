@@ -1,5 +1,4 @@
-Asteromphalus moronensis (Greville, 1863) Rattray, 1876 SPECIES
-=======
+# Asteromphalus moronensis (Greville, 1863) Rattray, 1876 SPECIES
 
 #### Status
 ACCEPTED

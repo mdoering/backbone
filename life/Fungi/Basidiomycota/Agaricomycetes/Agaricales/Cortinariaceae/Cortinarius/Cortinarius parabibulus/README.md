@@ -1,5 +1,4 @@
-Cortinarius parabibulus M.M. Moser SPECIES
-=======
+# Cortinarius parabibulus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

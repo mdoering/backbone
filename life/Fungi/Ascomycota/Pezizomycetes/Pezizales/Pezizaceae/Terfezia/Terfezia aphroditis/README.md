@@ -1,5 +1,4 @@
-Terfezia aphroditis Chatin SPECIES
-=======
+# Terfezia aphroditis Chatin SPECIES
 
 #### Status
 ACCEPTED

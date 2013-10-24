@@ -1,5 +1,4 @@
-Podospora seminuda (Griffiths) Mirza & Cain SPECIES
-=======
+# Podospora seminuda (Griffiths) Mirza & Cain SPECIES
 
 #### Status
 ACCEPTED

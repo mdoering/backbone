@@ -1,5 +1,4 @@
-Agrocybe smithii Watling & H.E. Bigelow SPECIES
-=======
+# Agrocybe smithii Watling & H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

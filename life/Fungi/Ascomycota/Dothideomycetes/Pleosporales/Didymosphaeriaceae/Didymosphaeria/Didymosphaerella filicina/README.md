@@ -1,5 +1,4 @@
-Didymosphaerella filicina Cooke SPECIES
-=======
+# Didymosphaerella filicina Cooke SPECIES
 
 #### Status
 ACCEPTED

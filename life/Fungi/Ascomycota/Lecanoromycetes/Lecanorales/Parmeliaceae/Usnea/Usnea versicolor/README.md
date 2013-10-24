@@ -1,5 +1,4 @@
-Usnea versicolor Motyka SPECIES
-=======
+# Usnea versicolor Motyka SPECIES
 
 #### Status
 ACCEPTED

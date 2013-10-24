@@ -1,5 +1,4 @@
-Debaryomyces yarrowii Santa María & C. García SPECIES
-=======
+# Debaryomyces yarrowii Santa María & C. García SPECIES
 
 #### Status
 ACCEPTED

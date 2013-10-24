@@ -1,5 +1,4 @@
-Entoloma tengii W.M. Zhang & T.H. Li SPECIES
-=======
+# Entoloma tengii W.M. Zhang & T.H. Li SPECIES
 
 #### Status
 ACCEPTED

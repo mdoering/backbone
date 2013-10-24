@@ -1,5 +1,4 @@
-Dinophysis capitulata Balech, 1967 SPECIES
-=======
+# Dinophysis capitulata Balech, 1967 SPECIES
 
 #### Status
 ACCEPTED

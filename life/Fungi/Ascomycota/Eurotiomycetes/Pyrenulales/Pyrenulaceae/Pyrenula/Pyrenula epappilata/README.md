@@ -1,5 +1,4 @@
-Pyrenula epappilata Fée SPECIES
-=======
+# Pyrenula epappilata Fée SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Balbiania Stiles, 1893 GENUS
-=======
+# Sarcocystis Lankester, 1882 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-null
+Quart. J. Micr. Sci. , (N. S. ) 22, 54, 60.
 
 #### Original name
 null

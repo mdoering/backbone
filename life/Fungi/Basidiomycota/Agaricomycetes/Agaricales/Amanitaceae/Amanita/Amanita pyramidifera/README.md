@@ -1,5 +1,4 @@
-Amanita pyramidifera D.A. Reid SPECIES
-=======
+# Amanita pyramidifera D.A. Reid SPECIES
 
 #### Status
 ACCEPTED

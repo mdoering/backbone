@@ -1,5 +1,4 @@
-Cnemidospora Schneider, 1882 GENUS
-=======
+# Cnemidospora Schneider, 1882 GENUS
 
 #### Status
 ACCEPTED

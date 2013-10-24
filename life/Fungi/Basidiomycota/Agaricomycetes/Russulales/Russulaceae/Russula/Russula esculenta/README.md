@@ -1,5 +1,4 @@
-Russula esculenta Pers. SPECIES
-=======
+# Russula esculenta Pers. SPECIES
 
 #### Status
 ACCEPTED

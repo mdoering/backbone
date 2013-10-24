@@ -1,5 +1,4 @@
-Polyblastia gotlandica (Servít) R. Sant. SPECIES
-=======
+# Polyblastia gotlandica (Servít) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

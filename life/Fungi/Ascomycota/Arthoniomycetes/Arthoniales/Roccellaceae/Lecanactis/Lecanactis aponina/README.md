@@ -1,5 +1,4 @@
-Lecanactis aponina (A. Massal.) Arnold SPECIES
-=======
+# Lecanactis aponina (A. Massal.) Arnold SPECIES
 
 #### Status
 ACCEPTED

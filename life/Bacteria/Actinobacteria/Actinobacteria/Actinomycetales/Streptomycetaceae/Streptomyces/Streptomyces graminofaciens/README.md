@@ -1,5 +1,4 @@
-Streptomyces graminofaciens Charney et al., 1953 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces graminofaciens Charney et al., 1953 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

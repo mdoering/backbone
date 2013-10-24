@@ -1,5 +1,4 @@
-Eutypella leptocarpa Sacc. SPECIES
-=======
+# Eutypella leptocarpa Sacc. SPECIES
 
 #### Status
 ACCEPTED

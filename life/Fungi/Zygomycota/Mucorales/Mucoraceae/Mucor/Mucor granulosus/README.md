@@ -1,5 +1,4 @@
-Mucor granulosus Bull. SPECIES
-=======
+# Mucor granulosus Bull. SPECIES
 
 #### Status
 ACCEPTED

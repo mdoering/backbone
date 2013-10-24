@@ -1,5 +1,4 @@
-Monocystis Stein, 1848 GENUS
-=======
+# Monocystis Stein, 1848 GENUS
 
 #### Status
 ACCEPTED

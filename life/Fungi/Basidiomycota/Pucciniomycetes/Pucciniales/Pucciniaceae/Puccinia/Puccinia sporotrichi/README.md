@@ -1,5 +1,4 @@
-Puccinia sporotrichi Corda SPECIES
-=======
+# Puccinia sporotrichi Corda SPECIES
 
 #### Status
 ACCEPTED

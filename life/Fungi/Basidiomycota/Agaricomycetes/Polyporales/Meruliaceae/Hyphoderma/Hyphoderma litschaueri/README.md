@@ -1,14 +1,13 @@
-Corticium litschaueri Burt, 1926 SPECIES
-=======
+# Hyphoderma litschaueri (Burt) J. Erikss. & Å. Strid, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mo. bot. Gdn 13(3): 259 (1926)
+in Eriksson & Ryvarden, Cortic. N. Eur. (Oslo), <b>3</b> Coronicium-Hyphoderma 3: 481 (1975)
 
 #### Original name
 Corticium litschaueri Burt, 1926

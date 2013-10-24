@@ -1,5 +1,4 @@
-Schulzeria mammosa Rick SPECIES
-=======
+# Schulzeria mammosa Rick SPECIES
 
 #### Status
 ACCEPTED

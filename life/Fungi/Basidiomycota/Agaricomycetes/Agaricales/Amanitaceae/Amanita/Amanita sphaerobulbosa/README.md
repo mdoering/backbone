@@ -1,5 +1,4 @@
-Amanita sphaerobulbosa Hongo SPECIES
-=======
+# Amanita sphaerobulbosa Hongo SPECIES
 
 #### Status
 ACCEPTED

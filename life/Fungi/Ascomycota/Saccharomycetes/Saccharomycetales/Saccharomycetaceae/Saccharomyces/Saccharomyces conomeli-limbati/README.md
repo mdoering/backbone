@@ -1,5 +1,4 @@
-Saccharomyces conomeli-limbati ulc SPECIES
-=======
+# Saccharomyces conomeli-limbati ulc SPECIES
 
 #### Status
 ACCEPTED

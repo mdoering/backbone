@@ -1,5 +1,4 @@
-Phyllosticta hoveniae Gucevic SPECIES
-=======
+# Phyllosticta hoveniae Gucevic SPECIES
 
 #### Status
 ACCEPTED

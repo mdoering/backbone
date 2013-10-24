@@ -1,5 +1,4 @@
-Hebeloma versipelle f. versipelle FORM
-=======
+# Hebeloma versipelle (Fr.) Gillet SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Hyménomycètes (Alençon) 524 (1876)
 
 #### Original name
-Hebeloma versipelle f. versipelle
+Agaricus versipellis Fr.
 
 ### Remarks
 null

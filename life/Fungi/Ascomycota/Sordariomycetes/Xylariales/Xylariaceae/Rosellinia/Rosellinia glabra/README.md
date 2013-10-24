@@ -1,5 +1,4 @@
-Rosellinia glabra (Fuckel) L.E. Petrini SPECIES
-=======
+# Rosellinia glabra (Fuckel) L.E. Petrini SPECIES
 
 #### Status
 ACCEPTED

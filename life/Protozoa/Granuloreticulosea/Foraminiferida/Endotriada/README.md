@@ -1,5 +1,4 @@
-Endotriada Vachard, Martini, Rettori & Zaninetti, 1994 GENUS
-=======
+# Endotriada Vachard, Martini, Rettori & Zaninetti, 1994 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina hamata Syd. SPECIES
-=======
+# Asterina hamata Syd. SPECIES
 
 #### Status
 ACCEPTED

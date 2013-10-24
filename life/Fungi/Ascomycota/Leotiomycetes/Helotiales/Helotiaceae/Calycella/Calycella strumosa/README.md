@@ -1,5 +1,4 @@
-Calycella strumosa (Ellis & Everh.) Dennis SPECIES
-=======
+# Calycella strumosa (Ellis & Everh.) Dennis SPECIES
 
 #### Status
 ACCEPTED

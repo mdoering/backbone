@@ -1,8 +1,7 @@
-Toweius craticulus Hay & Mohler, 1967 SPECIES
-=======
+# Toweius pertusus (Sullivan, 1965) Romein, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

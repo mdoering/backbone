@@ -1,5 +1,4 @@
-Phyllosticta lamii Sacc. SPECIES
-=======
+# Phyllosticta lamii Sacc. SPECIES
 
 #### Status
 ACCEPTED

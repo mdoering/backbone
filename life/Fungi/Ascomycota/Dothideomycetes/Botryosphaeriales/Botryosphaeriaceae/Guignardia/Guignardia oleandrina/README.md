@@ -1,5 +1,4 @@
-Guignardia oleandrina (Curzi & Barbaini) Arx & E. Müll. SPECIES
-=======
+# Guignardia oleandrina (Curzi & Barbaini) Arx & E. Müll. SPECIES
 
 #### Status
 ACCEPTED

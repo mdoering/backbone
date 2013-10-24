@@ -1,14 +1,13 @@
-Podoconis parva S. Hughes, 1953 SPECIES
-=======
+# Penzigomyces parvus (S. Hughes) Subram., 1992 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 50: 59 (1953)
+Proc. Indian natn Sci. Acad. , Part B. Biol. Sci. 58(4): 187 (1992)
 
 #### Original name
 Podoconis parva S. Hughes, 1953

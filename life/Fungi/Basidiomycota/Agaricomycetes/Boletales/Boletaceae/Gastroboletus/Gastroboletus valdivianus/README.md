@@ -1,5 +1,4 @@
-Gastroboletus valdivianus E. Horak, 1977 SPECIES
-=======
+# Gastroboletus valdivianus E. Horak, 1977 SPECIES
 
 #### Status
 ACCEPTED

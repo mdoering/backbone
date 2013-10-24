@@ -1,17 +1,16 @@
-Recticoma D. Scheer GENUS
-=======
+# Enterobryus Leidy GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Zoologischer Anzeiger 109: 268 (1935)
+Proc. Acad. nat. Sci. Philad. 4: 225 (1850)
 
 #### Original name
-Recticoma D. Scheer
+Enterobryus Leidy
 
 ### Remarks
 null

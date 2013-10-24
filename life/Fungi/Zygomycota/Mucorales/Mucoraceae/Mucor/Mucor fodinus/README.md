@@ -1,5 +1,4 @@
-Mucor fodinus Link SPECIES
-=======
+# Mucor fodinus Link SPECIES
 
 #### Status
 ACCEPTED

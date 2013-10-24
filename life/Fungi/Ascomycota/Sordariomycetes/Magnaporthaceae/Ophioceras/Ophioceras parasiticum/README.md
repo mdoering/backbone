@@ -1,5 +1,4 @@
-Ophioceras parasiticum Teng SPECIES
-=======
+# Ophioceras parasiticum Teng SPECIES
 
 #### Status
 ACCEPTED

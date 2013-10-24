@@ -1,5 +1,4 @@
-Aecidium conorum-piceae R.G. Rees SPECIES
-=======
+# Aecidium conorum-piceae R.G. Rees SPECIES
 
 #### Status
 ACCEPTED

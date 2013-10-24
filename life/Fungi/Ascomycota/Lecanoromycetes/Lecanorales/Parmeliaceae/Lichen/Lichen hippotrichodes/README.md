@@ -1,5 +1,4 @@
-Lichen hippotrichodes Weber SPECIES
-=======
+# Lichen hippotrichodes Weber SPECIES
 
 #### Status
 ACCEPTED

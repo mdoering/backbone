@@ -1,5 +1,4 @@
-Merulius succineus Lloyd SPECIES
-=======
+# Merulius succineus Lloyd SPECIES
 
 #### Status
 ACCEPTED

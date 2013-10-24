@@ -1,5 +1,4 @@
-Polyporus stillativus Britzelm. SPECIES
-=======
+# Polyporus stillativus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

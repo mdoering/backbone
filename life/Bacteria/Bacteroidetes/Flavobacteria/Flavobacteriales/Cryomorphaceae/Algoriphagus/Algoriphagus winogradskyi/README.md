@@ -1,5 +1,4 @@
-Algoriphagus winogradskyi Nedashkovskaya et al., 2004 SPECIES
-=======
+# Algoriphagus winogradskyi Nedashkovskaya et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Corticium cyatheae S. Ito & S. Imai, 1940 SPECIES
-=======
+# Leptocorticium cyatheae (S. Ito & S. Imai) Hjortstam & Ryvarden, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Sapporo nat. Hist. Soc. 16: 143 (1940)
+Syn. Fung. (Oslo) 15: 23 (2002)
 
 #### Original name
 Corticium cyatheae S. Ito & S. Imai, 1940

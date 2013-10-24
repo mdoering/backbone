@@ -1,5 +1,4 @@
-Polyporus dialeptus Fr. SPECIES
-=======
+# Polyporus dialeptus Fr. SPECIES
 
 #### Status
 ACCEPTED

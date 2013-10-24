@@ -1,5 +1,4 @@
-Pleosphaerulina setariae Lobik SPECIES
-=======
+# Pleosphaerulina setariae Lobik SPECIES
 
 #### Status
 ACCEPTED

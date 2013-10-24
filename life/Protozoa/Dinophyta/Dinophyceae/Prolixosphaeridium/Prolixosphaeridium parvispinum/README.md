@@ -1,5 +1,4 @@
-Prolixosphaeridium parvispinum (Deflandre, 1937) Davey, Downie, Sarjeant & Williams, 1969 SPECIES
-=======
+# Prolixosphaeridium parvispinum (Deflandre, 1937) Davey, Downie, Sarjeant & Williams, 1969 SPECIES
 
 #### Status
 ACCEPTED

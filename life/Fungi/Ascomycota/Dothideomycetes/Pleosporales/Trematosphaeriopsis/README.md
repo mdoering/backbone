@@ -1,5 +1,4 @@
-Trematosphaeriopsis GENUS
-=======
+# Trematosphaeriopsis GENUS
 
 #### Status
 ACCEPTED

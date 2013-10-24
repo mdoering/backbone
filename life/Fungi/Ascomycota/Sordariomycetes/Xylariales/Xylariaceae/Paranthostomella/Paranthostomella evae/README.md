@@ -1,5 +1,4 @@
-Paranthostomella evae Tóth SPECIES
-=======
+# Paranthostomella evae Tóth SPECIES
 
 #### Status
 ACCEPTED

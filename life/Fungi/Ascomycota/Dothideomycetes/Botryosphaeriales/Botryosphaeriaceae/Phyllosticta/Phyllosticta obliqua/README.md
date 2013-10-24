@@ -1,5 +1,4 @@
-Phyllosticta obliqua Tassi SPECIES
-=======
+# Phyllosticta obliqua Tassi SPECIES
 
 #### Status
 ACCEPTED

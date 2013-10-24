@@ -1,5 +1,4 @@
-Coriolus radiatorugosus (Bres.) D.A. Reid SPECIES
-=======
+# Coriolus radiatorugosus (Bres.) D.A. Reid SPECIES
 
 #### Status
 ACCEPTED

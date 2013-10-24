@@ -1,5 +1,4 @@
-Abaphospora obtusa (P. Karst.) Kirschst. SPECIES
-=======
+# Abaphospora obtusa (P. Karst.) Kirschst. SPECIES
 
 #### Status
 ACCEPTED

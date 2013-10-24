@@ -1,5 +1,4 @@
-Tremella hydnoidea Jacq. SPECIES
-=======
+# Tremella hydnoidea Jacq. SPECIES
 
 #### Status
 ACCEPTED

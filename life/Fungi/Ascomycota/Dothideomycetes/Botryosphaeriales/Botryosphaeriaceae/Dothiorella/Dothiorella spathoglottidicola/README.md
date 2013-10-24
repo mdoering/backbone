@@ -1,17 +1,16 @@
-Dothiorella spathoglottiicola D. Gupta, Chowdhry & Padhi SPECIES
-=======
+# Dothiorella spathoglottidicola D. Gupta, Chowdhry & Padhi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Phytopath. 34(2): 210 (1981)
 
 #### Original name
-Dothiorella spathoglottiicola D. Gupta, Chowdhry & Padhi
+Dothiorella spathoglottidicola D. Gupta, Chowdhry & Padhi
 
 ### Remarks
 null

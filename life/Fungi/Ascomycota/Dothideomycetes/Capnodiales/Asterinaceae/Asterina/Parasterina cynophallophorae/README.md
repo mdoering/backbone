@@ -1,5 +1,4 @@
-Parasterina cynophallophorae var. cynophallophorae VARIETY
-=======
+# Parasterina cynophallophorae Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parasterina cynophallophorae var. cynophallophorae
+Parasterina cynophallophorae Bat. & H. Maia
 
 ### Remarks
 null

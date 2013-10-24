@@ -1,5 +1,4 @@
-Phyllosticta bonariensis Speg. SPECIES
-=======
+# Phyllosticta bonariensis Speg. SPECIES
 
 #### Status
 ACCEPTED

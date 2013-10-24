@@ -1,5 +1,4 @@
-Arthonia rhizophorae Vain. SPECIES
-=======
+# Arthonia rhizophorae Vain. SPECIES
 
 #### Status
 ACCEPTED

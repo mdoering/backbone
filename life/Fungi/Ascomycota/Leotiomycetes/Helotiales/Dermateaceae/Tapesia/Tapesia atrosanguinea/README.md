@@ -1,5 +1,4 @@
-Tapesia atrosanguinea Fuckel SPECIES
-=======
+# Tapesia atrosanguinea Fuckel SPECIES
 
 #### Status
 ACCEPTED

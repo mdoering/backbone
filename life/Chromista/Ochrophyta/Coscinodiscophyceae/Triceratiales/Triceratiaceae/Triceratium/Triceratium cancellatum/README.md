@@ -1,5 +1,4 @@
-Triceratium cancellatum Greville SPECIES
-=======
+# Triceratium cancellatum Greville SPECIES
 
 #### Status
 ACCEPTED

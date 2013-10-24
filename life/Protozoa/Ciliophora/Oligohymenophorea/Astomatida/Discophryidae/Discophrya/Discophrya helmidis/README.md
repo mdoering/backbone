@@ -1,5 +1,4 @@
-Discophrya helmidis Matthes, 1954 SPECIES
-=======
+# Discophrya helmidis Matthes, 1954 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia australis (Zahlbr.) C.W. Dodge SPECIES
-=======
+# Arthonia australis (Zahlbr.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

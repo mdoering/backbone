@@ -1,5 +1,4 @@
-Phyllosticta grisea Peck SPECIES
-=======
+# Phyllosticta grisea Peck SPECIES
 
 #### Status
 ACCEPTED

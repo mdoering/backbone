@@ -1,5 +1,4 @@
-Resigia quadrata Loeblich & Tappan, 1994 SPECIES
-=======
+# Resigia quadrata Loeblich & Tappan, 1994 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora gnaphalii Harkn. SPECIES
-=======
+# Cercospora gnaphalii Harkn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coronifera oceanica Cookson & Eisenack SPECIES
-=======
+# Coronifera oceanica Cookson & Eisenack SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Urceolaria kukriensis (Räsänen) Motyka SPECIES
-=======
+# Urceolaria kukriensis (Räsänen) Motyka SPECIES
 
 #### Status
 ACCEPTED

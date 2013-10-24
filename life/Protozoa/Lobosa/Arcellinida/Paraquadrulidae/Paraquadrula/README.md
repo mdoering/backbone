@@ -1,5 +1,4 @@
-Paraquadrula Deflandre, 1932 GENUS
-=======
+# Paraquadrula Deflandre, 1932 GENUS
 
 #### Status
 ACCEPTED

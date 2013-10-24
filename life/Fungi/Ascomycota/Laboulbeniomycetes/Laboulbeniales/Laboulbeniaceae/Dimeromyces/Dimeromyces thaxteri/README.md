@@ -1,5 +1,4 @@
-Dimeromyces thaxteri Maire SPECIES
-=======
+# Dimeromyces thaxteri Maire SPECIES
 
 #### Status
 ACCEPTED

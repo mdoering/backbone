@@ -1,5 +1,4 @@
-Meliola notabilis Petr. SPECIES
-=======
+# Meliola notabilis Petr. SPECIES
 
 #### Status
 ACCEPTED

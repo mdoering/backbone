@@ -1,5 +1,4 @@
-Dasygloea Thwaites ex Gomont, 1892 GENUS
-=======
+# Dasygloea Thwaites ex Gomont, 1892 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphiloma aurantiacum (Pers.) Müll. Arg. SPECIES
-=======
+# Amphiloma aurantiacum (Pers.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lichen tubulosus Vill. SPECIES
-=======
+# Lichen tubulosus Vill. SPECIES
 
 #### Status
 ACCEPTED

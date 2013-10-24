@@ -1,5 +1,4 @@
-Hypocrea fomitopsis P.G. Liu & Yoshim. Doi SPECIES
-=======
+# Hypocrea fomitopsis P.G. Liu & Yoshim. Doi SPECIES
 
 #### Status
 ACCEPTED

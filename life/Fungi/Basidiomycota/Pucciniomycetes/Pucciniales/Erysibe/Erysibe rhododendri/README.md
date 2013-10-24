@@ -1,5 +1,4 @@
-Erysibe rhododendri Wallr. SPECIES
-=======
+# Erysibe rhododendri Wallr. SPECIES
 
 #### Status
 ACCEPTED

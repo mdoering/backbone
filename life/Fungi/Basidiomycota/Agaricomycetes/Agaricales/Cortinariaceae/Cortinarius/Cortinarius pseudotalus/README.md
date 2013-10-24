@@ -1,5 +1,4 @@
-Cortinarius pseudotalus Rob. Henry ex Bidaud & Reumaux SPECIES
-=======
+# Cortinarius pseudotalus Rob. Henry ex Bidaud & Reumaux SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acineta ligulata Stein, 1859 SPECIES
-=======
+# Acineta ligulata Stein, 1859 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Miracella Borgert, 1911 GENUS
-=======
+# Miracella Borgert, 1911 GENUS
 
 #### Status
 ACCEPTED

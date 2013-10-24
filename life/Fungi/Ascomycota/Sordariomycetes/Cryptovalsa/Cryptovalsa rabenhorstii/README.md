@@ -1,5 +1,4 @@
-Cryptovalsa rabenhorstii var. rabenhorstii VARIETY
-=======
+# Cryptovalsa rabenhorstii (Nitschke) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cryptovalsa rabenhorstii var. rabenhorstii
+Valsa rabenhorstii Nitschke
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Sarcodon scabrosus var. scabrosus (Fr.) P. Karst. VARIETY
-=======
+# Sarcodon scabrosus (Fr.) P. Karst., 1881 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Revue mycol. , Toulouse 3(9): 20 (1881)
 
 #### Original name
-Sarcodon scabrosus var. scabrosus (Fr.) P. Karst.
+Hydnum scabrosum Fr., 1836
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Entoloma longipes Massee SPECIES
-=======
+# Entoloma longipes Massee SPECIES
 
 #### Status
 ACCEPTED

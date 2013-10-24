@@ -1,5 +1,4 @@
-Phoma berberidicola Vestergr. SPECIES
-=======
+# Phoma berberidicola Vestergr. SPECIES
 
 #### Status
 ACCEPTED

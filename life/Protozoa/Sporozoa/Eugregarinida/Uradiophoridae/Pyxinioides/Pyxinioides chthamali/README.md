@@ -1,5 +1,4 @@
-Pyxinioides chthamali (Léger & Duboscq, 1909) Trégouboff, 1912 SPECIES
-=======
+# Pyxinioides chthamali (Léger & Duboscq, 1909) Trégouboff, 1912 SPECIES
 
 #### Status
 ACCEPTED

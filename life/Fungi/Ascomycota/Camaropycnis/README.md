@@ -1,5 +1,4 @@
-Camaropycnis E.K. Cash GENUS
-=======
+# Camaropycnis E.K. Cash GENUS
 
 #### Status
 ACCEPTED

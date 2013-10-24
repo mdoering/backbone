@@ -1,5 +1,4 @@
-Sporotrichum latebrarum (Ach.) Link SPECIES
-=======
+# Sporotrichum latebrarum (Ach.) Link SPECIES
 
 #### Status
 ACCEPTED

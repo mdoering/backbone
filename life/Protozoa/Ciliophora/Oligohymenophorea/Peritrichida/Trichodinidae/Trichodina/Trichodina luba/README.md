@@ -1,5 +1,4 @@
-Trichodina luba Basson, Van As & Fishelson, 1990 SPECIES
-=======
+# Trichodina luba Basson, Van As & Fishelson, 1990 SPECIES
 
 #### Status
 ACCEPTED

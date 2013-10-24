@@ -1,5 +1,4 @@
-Arborispora dolichovirga K. Ando SPECIES
-=======
+# Arborispora dolichovirga K. Ando SPECIES
 
 #### Status
 ACCEPTED

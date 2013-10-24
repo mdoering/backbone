@@ -1,5 +1,4 @@
-Polystictus swartzianus (Lév.) Cooke SPECIES
-=======
+# Polystictus swartzianus (Lév.) Cooke SPECIES
 
 #### Status
 ACCEPTED

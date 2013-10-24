@@ -1,5 +1,4 @@
-Calathinus bourdotii Quél. SPECIES
-=======
+# Calathinus bourdotii Quél. SPECIES
 
 #### Status
 ACCEPTED

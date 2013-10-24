@@ -1,5 +1,4 @@
-Pestalotia briardii Lendn. SPECIES
-=======
+# Pestalotia briardii Lendn. SPECIES
 
 #### Status
 ACCEPTED

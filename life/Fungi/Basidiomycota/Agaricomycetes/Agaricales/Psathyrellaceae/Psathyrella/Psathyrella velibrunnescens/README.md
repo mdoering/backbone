@@ -1,5 +1,4 @@
-Psathyrella velibrunnescens A.H. Sm. SPECIES
-=======
+# Psathyrella velibrunnescens A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

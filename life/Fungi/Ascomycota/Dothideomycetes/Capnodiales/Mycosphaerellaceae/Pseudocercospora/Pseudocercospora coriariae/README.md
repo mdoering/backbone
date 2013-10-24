@@ -1,5 +1,4 @@
-Pseudocercospora coriariae A.N. Shukla & S.N. Mukerji SPECIES
-=======
+# Pseudocercospora coriariae A.N. Shukla & S.N. Mukerji SPECIES
 
 #### Status
 ACCEPTED

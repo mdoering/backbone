@@ -1,5 +1,4 @@
-Xanthothecium Arx & Samson, 1973 GENUS
-=======
+# Xanthothecium Arx & Samson, 1973 GENUS
 
 #### Status
 ACCEPTED

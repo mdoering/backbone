@@ -1,5 +1,4 @@
-Macrophoma alni Woron. SPECIES
-=======
+# Macrophoma alni Woron. SPECIES
 
 #### Status
 ACCEPTED

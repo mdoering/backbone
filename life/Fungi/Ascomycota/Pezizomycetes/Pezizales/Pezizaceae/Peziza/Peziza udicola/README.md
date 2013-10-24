@@ -1,5 +1,4 @@
-Peziza udicola Svrcek SPECIES
-=======
+# Peziza udicola Svrcek SPECIES
 
 #### Status
 ACCEPTED

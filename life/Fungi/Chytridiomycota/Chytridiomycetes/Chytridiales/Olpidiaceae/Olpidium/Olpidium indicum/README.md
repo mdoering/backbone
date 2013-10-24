@@ -1,5 +1,4 @@
-Olpidium indicum Turner SPECIES
-=======
+# Olpidium indicum Turner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Piptocephalis sphaerospora Tiegh., 1875 SPECIES
-=======
+# Piptocephalis sphaerospora Tiegh., 1875 SPECIES
 
 #### Status
 ACCEPTED

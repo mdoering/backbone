@@ -1,17 +1,16 @@
-Lecidea grisella var. grisella VARIETY
-=======
+# Lecidea fuscoatra (L.) Ach. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Method. Lich. 44 (1803)
 
 #### Original name
-Lecidea grisella var. grisella
+Lichen fuscoater K.G. Hagen
 
 ### Remarks
 null

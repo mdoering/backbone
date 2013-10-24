@@ -1,5 +1,4 @@
-Collybia alumna (Fr.) Gillet SPECIES
-=======
+# Collybia alumna (Fr.) Gillet SPECIES
 
 #### Status
 ACCEPTED

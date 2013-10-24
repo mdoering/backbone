@@ -1,5 +1,4 @@
-Calicium acaule Eitner SPECIES
-=======
+# Calicium acaule Eitner SPECIES
 
 #### Status
 ACCEPTED

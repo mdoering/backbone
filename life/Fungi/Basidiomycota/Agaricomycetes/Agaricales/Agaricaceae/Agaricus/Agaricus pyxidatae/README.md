@@ -1,5 +1,4 @@
-Agaricus pyxidatae Fr. SPECIES
-=======
+# Agaricus pyxidatae Fr. SPECIES
 
 #### Status
 ACCEPTED

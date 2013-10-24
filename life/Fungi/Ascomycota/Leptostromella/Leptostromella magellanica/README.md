@@ -1,5 +1,4 @@
-Leptostromella magellanica Speg. SPECIES
-=======
+# Leptostromella magellanica Speg. SPECIES
 
 #### Status
 ACCEPTED

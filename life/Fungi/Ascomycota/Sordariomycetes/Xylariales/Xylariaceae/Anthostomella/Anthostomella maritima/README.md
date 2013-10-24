@@ -1,5 +1,4 @@
-Anthostomella maritima Nann. SPECIES
-=======
+# Anthostomella maritima Nann. SPECIES
 
 #### Status
 ACCEPTED

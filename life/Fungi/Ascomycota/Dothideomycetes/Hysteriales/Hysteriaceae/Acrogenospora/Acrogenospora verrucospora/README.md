@@ -1,5 +1,4 @@
-Acrogenospora verrucospora Hong Zhu, L. Cai & K.Q. Zhang SPECIES
-=======
+# Acrogenospora verrucospora Hong Zhu, L. Cai & K.Q. Zhang SPECIES
 
 #### Status
 ACCEPTED

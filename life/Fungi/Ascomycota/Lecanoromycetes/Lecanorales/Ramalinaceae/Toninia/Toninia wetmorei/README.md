@@ -1,5 +1,4 @@
-Toninia wetmorei Timdal SPECIES
-=======
+# Toninia wetmorei Timdal SPECIES
 
 #### Status
 ACCEPTED

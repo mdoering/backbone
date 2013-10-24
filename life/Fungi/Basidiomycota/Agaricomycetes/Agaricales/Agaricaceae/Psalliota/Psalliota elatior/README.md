@@ -1,5 +1,4 @@
-Psalliota elatior (Cooke & Massee) Cleland & Cheel SPECIES
-=======
+# Psalliota elatior (Cooke & Massee) Cleland & Cheel SPECIES
 
 #### Status
 ACCEPTED

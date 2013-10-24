@@ -1,17 +1,16 @@
-Leptogium tremelloides f. tremelloides FORM
-=======
+# Leptogium tremelloides (L. f.) Gray SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Leptogium tremelloides f. tremelloides
+Leptogium tremelloides (L. f.) Gray
 
 ### Remarks
 null

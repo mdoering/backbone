@@ -1,17 +1,16 @@
-Pichia scolyti (Phaff & Yoney.) Kreger-van Rij, 1964 SPECIES
-=======
+# Yamadazyma scolyti (Phaff & Yoney.) Billon-Grand, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 35(2): 203 (1989)
 
 #### Original name
-null
+Endomycopsis scolyti Phaff & Yoney., 1961
 
 ### Remarks
 null

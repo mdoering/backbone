@@ -1,14 +1,13 @@
-Amphisphaerella petrakii Mhaskar & V.G. Rao, 1973 SPECIES
-=======
+# Fasciatispora petrakii (Mhaskar & V.G. Rao) K.D. Hyde, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Curr. Sci. 42(1): 28 (1973)
+Nova Hedwigia 61(1-2): 255 (1995)
 
 #### Original name
 Amphisphaerella petrakii Mhaskar & V.G. Rao, 1973

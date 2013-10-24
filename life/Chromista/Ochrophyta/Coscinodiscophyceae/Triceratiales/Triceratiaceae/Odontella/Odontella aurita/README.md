@@ -1,11 +1,10 @@
-Odontella aurita var. minima VARIETY
-=======
+# Odontella aurita (Lyngbye) C. A. Agardh SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

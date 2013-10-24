@@ -1,5 +1,4 @@
-Acarospora tenuis (Vain.) H. Magn. SPECIES
-=======
+# Acarospora tenuis (Vain.) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

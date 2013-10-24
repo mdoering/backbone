@@ -1,5 +1,4 @@
-Xylodon schweinitzii (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Xylodon schweinitzii (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

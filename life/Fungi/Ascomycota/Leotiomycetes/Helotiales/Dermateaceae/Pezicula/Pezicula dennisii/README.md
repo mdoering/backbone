@@ -1,14 +1,13 @@
-Calycina dennisii (D. Hawksw.) Verkley, 1999 SPECIES
-=======
+# Pezicula dennisii D. Hawksw., 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Stud. Mycol. 44: 144 (1999)
+in Hawksworth & Sivanesan, Trans. Br. mycol. Soc. 67(1): 45 (1976)
 
 #### Original name
 Pezicula dennisii D. Hawksw., 1976

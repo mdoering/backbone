@@ -1,5 +1,4 @@
-Binucleospora elongata A.M. Bronnvall & J.I.R. Larsson SPECIES
-=======
+# Binucleospora elongata A.M. Bronnvall & J.I.R. Larsson SPECIES
 
 #### Status
 ACCEPTED

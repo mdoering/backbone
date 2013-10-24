@@ -1,5 +1,4 @@
-Myxosporium salicis Marchal & Sternon SPECIES
-=======
+# Myxosporium salicis Marchal & Sternon SPECIES
 
 #### Status
 ACCEPTED

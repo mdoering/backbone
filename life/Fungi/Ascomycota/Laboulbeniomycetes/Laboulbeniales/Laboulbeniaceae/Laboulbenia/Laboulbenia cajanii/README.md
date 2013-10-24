@@ -1,5 +1,4 @@
-Laboulbenia cajanii W. Rossi & Cesari SPECIES
-=======
+# Laboulbenia cajanii W. Rossi & Cesari SPECIES
 
 #### Status
 ACCEPTED

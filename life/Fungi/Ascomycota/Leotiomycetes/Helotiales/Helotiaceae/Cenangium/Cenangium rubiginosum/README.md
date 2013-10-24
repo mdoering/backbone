@@ -1,5 +1,4 @@
-Cenangium rubiginosum (Fr.) Sacc. SPECIES
-=======
+# Cenangium rubiginosum (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

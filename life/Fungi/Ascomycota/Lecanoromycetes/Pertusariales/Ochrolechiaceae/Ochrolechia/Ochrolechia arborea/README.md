@@ -1,17 +1,16 @@
-Pertusaria arborea f. arborea FORM
-=======
+# Ochrolechia arborea (Kreyer) Almb. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Pertusaria arborea f. arborea
+Variolaria lactea var. arborea Kreyer
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Gloeosporium holstii Henn. SPECIES
-=======
+# Gloeosporium holstii Henn. SPECIES
 
 #### Status
 ACCEPTED

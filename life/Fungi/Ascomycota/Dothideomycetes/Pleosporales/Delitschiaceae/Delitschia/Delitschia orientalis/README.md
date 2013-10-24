@@ -1,5 +1,4 @@
-Delitschia orientalis Furuya & Udagawa SPECIES
-=======
+# Delitschia orientalis Furuya & Udagawa SPECIES
 
 #### Status
 ACCEPTED

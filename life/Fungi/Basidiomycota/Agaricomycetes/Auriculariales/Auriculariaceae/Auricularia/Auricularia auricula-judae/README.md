@@ -1,17 +1,16 @@
-Auricularia auricula f. auricula FORM
-=======
+# Auricularia auricula-judae (Bull.) Quél., 1886 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mem. Torrey bot. Club 12: 15 (1902)
+Enchir. fung. (Paris) 207 (1886)
 
 #### Original name
-Auricularia auricula f. auricula
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Scyphidia inclinans sensu Kent, 1881 SPECIES
-=======
+# Scyphidia inclinans sensu Kent, 1881 SPECIES
 
 #### Status
 ACCEPTED

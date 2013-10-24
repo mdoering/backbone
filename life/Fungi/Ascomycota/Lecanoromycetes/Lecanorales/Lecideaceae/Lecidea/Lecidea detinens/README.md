@@ -1,5 +1,4 @@
-Lecidea detinens Nyl. SPECIES
-=======
+# Lecidea detinens Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rectuvigerina nicoli Mathews, 1945 SPECIES
-=======
+# Rectuvigerina nicoli Mathews, 1945 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Baltisphaeridium ramusculosum SPECIES
-=======
+# Baltisphaeridium ramusculosum SPECIES
 
 #### Status
 ACCEPTED

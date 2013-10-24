@@ -1,17 +1,16 @@
-Diaporthe orthoceras f. orthoceras FORM
-=======
+# Diaporthe orthoceras (Fr.) Nitschke, 1870 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Pyrenomycetes Germanici 2: 270 (1870)
 
 #### Original name
-Diaporthe orthoceras f. orthoceras
+Sphaeria orthoceras Fr., 1828
 
 ### Remarks
 null

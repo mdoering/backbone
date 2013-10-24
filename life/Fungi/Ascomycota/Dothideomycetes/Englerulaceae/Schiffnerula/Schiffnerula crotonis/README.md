@@ -1,5 +1,4 @@
-Schiffnerula crotonis Hansf. SPECIES
-=======
+# Schiffnerula crotonis Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea subdeclinata Nyl. SPECIES
-=======
+# Lecidea subdeclinata Nyl. SPECIES
 
 #### Status
 ACCEPTED

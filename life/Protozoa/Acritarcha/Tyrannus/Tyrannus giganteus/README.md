@@ -1,5 +1,4 @@
-Tyrannus giganteus (Jardiné, Combaz, Magloire, Peniguel & Vachey, 1974) Wood & Tekbali, 1987 SPECIES
-=======
+# Tyrannus giganteus (Jardiné, Combaz, Magloire, Peniguel & Vachey, 1974) Wood & Tekbali, 1987 SPECIES
 
 #### Status
 ACCEPTED

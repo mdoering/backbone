@@ -1,5 +1,4 @@
-Coniothyrinula GENUS
-=======
+# Coniothyrinula GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Porina coralloidea P. James SPECIES
-=======
+# Porina coralloidea P. James SPECIES
 
 #### Status
 ACCEPTED

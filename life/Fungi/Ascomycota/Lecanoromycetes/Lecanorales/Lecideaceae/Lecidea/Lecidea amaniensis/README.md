@@ -1,5 +1,4 @@
-Lecidea amaniensis Zahlbr. SPECIES
-=======
+# Lecidea amaniensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

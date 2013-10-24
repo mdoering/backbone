@@ -1,5 +1,4 @@
-Trinacria tristictia G.D. Hanna SPECIES
-=======
+# Trinacria tristictia G.D. Hanna SPECIES
 
 #### Status
 ACCEPTED

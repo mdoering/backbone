@@ -1,5 +1,4 @@
-Pertusaria variolina Nyl. SPECIES
-=======
+# Pertusaria variolina Nyl. SPECIES
 
 #### Status
 ACCEPTED

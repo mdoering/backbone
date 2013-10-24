@@ -1,5 +1,4 @@
-Parmelia microdactyla Hale SPECIES
-=======
+# Parmelia microdactyla Hale SPECIES
 
 #### Status
 ACCEPTED

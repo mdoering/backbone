@@ -1,5 +1,4 @@
-Moelleriella javanica (Penz. & Sacc.) Chaverri & K.T. Hodge SPECIES
-=======
+# Moelleriella javanica (Penz. & Sacc.) Chaverri & K.T. Hodge SPECIES
 
 #### Status
 ACCEPTED

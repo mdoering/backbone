@@ -1,5 +1,4 @@
-Gyalidea pacifica H. Harada & Vezda SPECIES
-=======
+# Gyalidea pacifica H. Harada & Vezda SPECIES
 
 #### Status
 ACCEPTED

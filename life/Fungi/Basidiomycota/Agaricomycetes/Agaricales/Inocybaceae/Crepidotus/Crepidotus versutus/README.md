@@ -1,17 +1,16 @@
-Crepidotus versutus var. versutus (Peck) Sacc. VARIETY
-=======
+# Crepidotus versutus (Peck) Sacc., 1887 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 5: 888 (1887)
+Ann. Rep. N. Y. St. Mus. nat. Hist. 39: 72 (1887)
 
 #### Original name
-Crepidotus versutus var. versutus (Peck) Sacc.
+Crepidotus versutus (Peck) Sacc., 1887
 
 ### Remarks
 null

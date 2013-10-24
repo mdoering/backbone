@@ -1,5 +1,4 @@
-Caloplaca tingitana Werner SPECIES
-=======
+# Caloplaca tingitana Werner SPECIES
 
 #### Status
 ACCEPTED

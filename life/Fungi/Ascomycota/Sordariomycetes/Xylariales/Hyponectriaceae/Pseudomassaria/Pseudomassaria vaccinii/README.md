@@ -1,5 +1,4 @@
-Pseudomassaria vaccinii Dennis, 1974 SPECIES
-=======
+# Pseudomassaria vaccinii Dennis, 1974 SPECIES
 
 #### Status
 ACCEPTED

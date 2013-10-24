@@ -1,5 +1,4 @@
-Chaetomium cumingii (Lév.) Sacc. SPECIES
-=======
+# Chaetomium cumingii (Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

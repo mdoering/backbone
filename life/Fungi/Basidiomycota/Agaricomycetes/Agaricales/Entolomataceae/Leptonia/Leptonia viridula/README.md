@@ -1,5 +1,4 @@
-Leptonia viridula Henn. SPECIES
-=======
+# Leptonia viridula Henn. SPECIES
 
 #### Status
 ACCEPTED

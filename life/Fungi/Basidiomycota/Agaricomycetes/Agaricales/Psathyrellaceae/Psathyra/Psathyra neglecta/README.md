@@ -1,5 +1,4 @@
-Psathyra neglecta Massee SPECIES
-=======
+# Psathyra neglecta Massee SPECIES
 
 #### Status
 ACCEPTED

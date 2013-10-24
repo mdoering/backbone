@@ -1,5 +1,4 @@
-Chaetomium deustum Bat. & Pontual SPECIES
-=======
+# Chaetomium deustum Bat. & Pontual SPECIES
 
 #### Status
 ACCEPTED

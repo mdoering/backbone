@@ -1,17 +1,16 @@
-Coccodea Palisot de Beauvois in Desvaux, 1808 GENUS
-=======
+# Lichenomphalia Redhead, Lutzoni, Moncalvo & Vilgalys GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 83: 38 (2002)
 
 #### Original name
-null
+Lichenomphalia Redhead, Lutzoni, Moncalvo & Vilgalys
 
 ### Remarks
 null

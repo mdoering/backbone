@@ -1,5 +1,4 @@
-Byssoloma usambarense Vezda SPECIES
-=======
+# Byssoloma usambarense Vezda SPECIES
 
 #### Status
 ACCEPTED

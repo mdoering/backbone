@@ -1,8 +1,7 @@
-Pterygellus polymorphus var. polymorphus Corner, 1966 VARIETY
-=======
+# Pterygellus polymorphus Corner, 1966 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Monogr. Cantharelloid Fungi 169 (1966)
 
 #### Original name
-Pterygellus polymorphus var. polymorphus Corner, 1966
+Pterygellus polymorphus Corner, 1966
 
 ### Remarks
 null

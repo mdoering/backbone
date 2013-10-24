@@ -1,5 +1,4 @@
-Anabaena azotica Ley, 1959 SPECIES
-=======
+# Anabaena azotica Ley, 1959 SPECIES
 
 #### Status
 ACCEPTED

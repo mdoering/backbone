@@ -1,5 +1,4 @@
-Pestalotia grandis Berk. SPECIES
-=======
+# Pestalotia grandis Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aggregatibacter Norskov-Lauritsen & Kilian, 2006 GENUS
-=======
+# Aggregatibacter Norskov-Lauritsen & Kilian, 2006 GENUS
 
 #### Status
 ACCEPTED

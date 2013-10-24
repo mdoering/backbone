@@ -1,5 +1,4 @@
-Marasmius brunneospermus Har. Takah. SPECIES
-=======
+# Marasmius brunneospermus Har. Takah. SPECIES
 
 #### Status
 ACCEPTED

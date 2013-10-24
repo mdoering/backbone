@@ -1,17 +1,16 @@
-Sphaeria emperigonia Auersw. SPECIES
-=======
+# Lizonia empirigonia (Auersw.) De Not., 1863 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sfer. Ital. 72 (1863)
 
 #### Original name
-Sphaeria emperigonia Auersw.
+Sphaeria empirigonia Auersw., 1858
 
 ### Remarks
 null

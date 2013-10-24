@@ -1,17 +1,16 @@
-Anthostoma palmicola (Auersw. ex Rabenh.) Höhn., 1923 SPECIES
-=======
+# Phaeochora steinheilii (Mont.) E. Müll., 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Keissler, Annln naturh. Mus. Wien 36: 78 (1923)
+Sydowia 18: 88 (1965)
 
 #### Original name
-Sordaria palmicola Auersw., 1867
+Sphaeria steinheilii Mont., 1834
 
 ### Remarks
 null

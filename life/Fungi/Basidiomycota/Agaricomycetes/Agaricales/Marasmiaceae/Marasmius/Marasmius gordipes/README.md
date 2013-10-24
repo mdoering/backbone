@@ -1,5 +1,4 @@
-Marasmius gordipes Sacc. & Paol. SPECIES
-=======
+# Marasmius gordipes Sacc. & Paol. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidella glaucopa (Hook. f. & Taylor) Kalb SPECIES
-=======
+# Lecidella glaucopa (Hook. f. & Taylor) Kalb SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladonia iberica Burgaz & Ahti SPECIES
-=======
+# Cladonia iberica Burgaz & Ahti SPECIES
 
 #### Status
 ACCEPTED

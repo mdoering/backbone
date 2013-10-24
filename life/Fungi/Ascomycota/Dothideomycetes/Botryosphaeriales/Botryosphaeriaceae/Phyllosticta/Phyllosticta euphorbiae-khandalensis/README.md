@@ -1,5 +1,4 @@
-Phyllosticta euphorbiae-khandalensis V.G. Rao, S.S. Kelkar, A. Pande & V.P. Bhide SPECIES
-=======
+# Phyllosticta euphorbiae-khandalensis V.G. Rao, S.S. Kelkar, A. Pande & V.P. Bhide SPECIES
 
 #### Status
 ACCEPTED

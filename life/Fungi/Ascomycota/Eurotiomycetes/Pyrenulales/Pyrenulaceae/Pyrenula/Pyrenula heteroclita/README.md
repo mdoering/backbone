@@ -1,5 +1,4 @@
-Pyrenula heteroclita Ach. SPECIES
-=======
+# Pyrenula heteroclita Ach. SPECIES
 
 #### Status
 ACCEPTED

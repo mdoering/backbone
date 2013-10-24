@@ -1,14 +1,13 @@
-Taphria populina Fr., 1815 SPECIES
-=======
+# Taphrina populina (Fr.) Fr., 1832 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Observ. mycol. (Lipsiae) 1: 217 (1815)
+Syst. mycol. (Lundae) 3(2): 520 (1832)
 
 #### Original name
 Taphria populina Fr., 1815

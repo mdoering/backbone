@@ -1,5 +1,4 @@
-Macmillanina GENUS
-=======
+# Macmillanina GENUS
 
 #### Status
 ACCEPTED

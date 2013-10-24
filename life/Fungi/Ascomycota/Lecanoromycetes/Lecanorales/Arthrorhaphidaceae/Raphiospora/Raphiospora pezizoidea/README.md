@@ -1,5 +1,4 @@
-Raphiospora pezizoidea (Naegeli) Arnold SPECIES
-=======
+# Raphiospora pezizoidea (Naegeli) Arnold SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leiosphaeridia marcovensis Faizulina in Akulcheva et al., 1981 SPECIES
-=======
+# Leiosphaeridia marcovensis Faizulina in Akulcheva et al., 1981 SPECIES
 
 #### Status
 ACCEPTED

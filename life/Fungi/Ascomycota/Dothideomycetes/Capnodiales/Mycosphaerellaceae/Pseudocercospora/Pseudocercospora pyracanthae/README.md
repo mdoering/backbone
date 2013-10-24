@@ -1,5 +1,4 @@
-Pseudocercospora pyracanthae (Katsuki) C. Nakash. & Tak. Kobay. SPECIES
-=======
+# Pseudocercospora pyracanthae (Katsuki) C. Nakash. & Tak. Kobay. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria lactucarum Schwein. SPECIES
-=======
+# Sphaeria lactucarum Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora thalictricola Miura SPECIES
-=======
+# Cercospora thalictricola Miura SPECIES
 
 #### Status
 ACCEPTED

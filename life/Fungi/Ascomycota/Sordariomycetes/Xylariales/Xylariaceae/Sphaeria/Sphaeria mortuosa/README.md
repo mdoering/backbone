@@ -1,5 +1,4 @@
-Sphaeria mortuosa Ellis SPECIES
-=======
+# Sphaeria mortuosa Ellis SPECIES
 
 #### Status
 ACCEPTED

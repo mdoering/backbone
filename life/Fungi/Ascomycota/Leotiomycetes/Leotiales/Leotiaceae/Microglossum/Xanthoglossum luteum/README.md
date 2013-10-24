@@ -1,5 +1,4 @@
-Xanthoglossum luteum (Peck) Kuntze SPECIES
-=======
+# Xanthoglossum luteum (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

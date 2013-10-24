@@ -1,5 +1,4 @@
-Penicillium caseifulvum (Lund, Filt. & Frisvad) SPECIES
-=======
+# Penicillium caseifulvum (Lund, Filt. & Frisvad) SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Meliola cabellensis Syd. SPECIES
-=======
+# Meliola cabellensis Syd. SPECIES
 
 #### Status
 ACCEPTED

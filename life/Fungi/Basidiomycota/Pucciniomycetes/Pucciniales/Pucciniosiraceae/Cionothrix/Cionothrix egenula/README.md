@@ -1,17 +1,16 @@
-Cronartium egenulum Syd. & P. Syd. SPECIES
-=======
+# Cionothrix egenula (Syd. & P. Syd.) Syd. & P. Syd., 1919 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 16: 243 (1919)
 
 #### Original name
-Cronartium egenulum Syd. & P. Syd.
+Cronartium egenula Syd. & P. Syd., 1912
 
 ### Remarks
 null

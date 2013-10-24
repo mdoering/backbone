@@ -1,5 +1,4 @@
-Mycosphaerella galatea (Sacc.) Jacz. SPECIES
-=======
+# Mycosphaerella galatea (Sacc.) Jacz. SPECIES
 
 #### Status
 ACCEPTED

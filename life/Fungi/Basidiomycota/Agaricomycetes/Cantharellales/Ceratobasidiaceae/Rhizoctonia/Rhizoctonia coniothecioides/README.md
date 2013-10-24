@@ -1,5 +1,4 @@
-Rhizoctonia coniothecioides Sappa & Mosca SPECIES
-=======
+# Rhizoctonia coniothecioides Sappa & Mosca SPECIES
 
 #### Status
 ACCEPTED

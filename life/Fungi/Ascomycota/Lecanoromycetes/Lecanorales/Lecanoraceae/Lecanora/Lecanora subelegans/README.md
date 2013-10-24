@@ -1,5 +1,4 @@
-Lecanora subelegans Nyl. SPECIES
-=======
+# Lecanora subelegans Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Architricha Gupta, Kamra & Sapra, 2006 GENUS
-=======
+# Architricha Gupta, Kamra & Sapra, 2006 GENUS
 
 #### Status
 ACCEPTED

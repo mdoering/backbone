@@ -1,5 +1,4 @@
-Psathyrella ploddensis Kits van Wav., 1987 SPECIES
-=======
+# Psathyrella ploddensis Kits van Wav., 1987 SPECIES
 
 #### Status
 ACCEPTED

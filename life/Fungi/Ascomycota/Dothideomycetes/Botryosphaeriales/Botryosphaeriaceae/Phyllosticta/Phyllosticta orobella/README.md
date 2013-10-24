@@ -1,5 +1,4 @@
-Phyllosticta orobella Sacc. SPECIES
-=======
+# Phyllosticta orobella Sacc. SPECIES
 
 #### Status
 ACCEPTED

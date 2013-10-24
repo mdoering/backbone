@@ -1,17 +1,16 @@
-Coccomyces brasiliensis Speg., 1889 SPECIES
-=======
+# Coccomyces spegazzinii Sacc., 1889 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Boletín de la Academia Nacional de Ciencias de Córdoba 11(4): 593 (1889)
+Syll. fung. (Abellini) 8: 747 (1889)
 
 #### Original name
-Coccomyces brasiliensis Speg., 1889
+Coccomyces spegazzinii Sacc., 1889
 
 ### Remarks
 null

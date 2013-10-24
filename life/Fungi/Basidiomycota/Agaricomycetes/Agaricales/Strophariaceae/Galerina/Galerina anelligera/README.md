@@ -1,5 +1,4 @@
-Galerina anelligera A.H. Sm. & Singer SPECIES
-=======
+# Galerina anelligera A.H. Sm. & Singer SPECIES
 
 #### Status
 ACCEPTED

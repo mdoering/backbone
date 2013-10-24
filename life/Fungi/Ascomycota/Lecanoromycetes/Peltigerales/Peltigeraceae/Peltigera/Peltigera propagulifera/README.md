@@ -1,5 +1,4 @@
-Peltigera propagulifera (Körb.) Stein SPECIES
-=======
+# Peltigera propagulifera (Körb.) Stein SPECIES
 
 #### Status
 ACCEPTED

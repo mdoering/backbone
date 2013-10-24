@@ -1,5 +1,4 @@
-Ocellaria betuli var. betuli VARIETY
-=======
+# Ocellaria betuli (Alb. & Schwein.) Rehm SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ocellaria betuli var. betuli
+Peziza betuli Pers.
 
 ### Remarks
 null

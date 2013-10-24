@@ -1,5 +1,4 @@
-Umbilicaria discolor (Th. Fr.) Vain. SPECIES
-=======
+# Umbilicaria discolor (Th. Fr.) Vain. SPECIES
 
 #### Status
 ACCEPTED

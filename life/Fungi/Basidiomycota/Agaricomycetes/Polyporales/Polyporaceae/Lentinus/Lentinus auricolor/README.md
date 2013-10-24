@@ -1,5 +1,4 @@
-Lentinus auricolor (F. Brig.) Fr. SPECIES
-=======
+# Lentinus auricolor (F. Brig.) Fr. SPECIES
 
 #### Status
 ACCEPTED

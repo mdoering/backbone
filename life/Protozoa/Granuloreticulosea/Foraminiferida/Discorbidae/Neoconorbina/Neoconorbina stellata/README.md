@@ -1,5 +1,4 @@
-Neoconorbina stellata SPECIES
-=======
+# Neoconorbina stellata SPECIES
 
 #### Status
 ACCEPTED

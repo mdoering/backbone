@@ -1,5 +1,4 @@
-Hypocrea corrugata Yoshim. Doi, P.G. Liu & Tamura SPECIES
-=======
+# Hypocrea corrugata Yoshim. Doi, P.G. Liu & Tamura SPECIES
 
 #### Status
 ACCEPTED

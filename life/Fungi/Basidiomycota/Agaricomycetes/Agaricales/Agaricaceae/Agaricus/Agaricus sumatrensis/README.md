@@ -1,5 +1,4 @@
-Agaricus sumatrensis Lév. SPECIES
-=======
+# Agaricus sumatrensis Lév. SPECIES
 
 #### Status
 ACCEPTED

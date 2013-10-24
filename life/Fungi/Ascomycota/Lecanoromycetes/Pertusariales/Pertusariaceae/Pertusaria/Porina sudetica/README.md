@@ -1,8 +1,7 @@
-Verrucaria sudetica Körb., 1852 SPECIES
-=======
+# Porina sudetica (Körb.) Lettau, 1912 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

@@ -1,17 +1,16 @@
-Colletotrichum nymphicola Kelkar SPECIES
-=======
+# Colletotrichum nymphaeicola Kelkar SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Maharashtra Vidnyan Mandir, Patrika 7(1-2): 47 (1972)
 
 #### Original name
-Colletotrichum nymphicola Kelkar
+Colletotrichum nymphaeicola Kelkar
 
 ### Remarks
 null

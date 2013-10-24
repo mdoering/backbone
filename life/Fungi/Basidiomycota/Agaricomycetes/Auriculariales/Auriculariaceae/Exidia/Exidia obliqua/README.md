@@ -1,5 +1,4 @@
-Exidia obliqua Berk. & M.A. Curtis SPECIES
-=======
+# Exidia obliqua Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

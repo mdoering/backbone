@@ -1,5 +1,4 @@
-Stylentodiscus Haeckel, 1887 GENUS
-=======
+# Stylentodiscus Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

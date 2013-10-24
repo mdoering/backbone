@@ -1,8 +1,7 @@
-Stagonospora brachypodicola (Brunaud) E. Castell. & Germano SPECIES
-=======
+# Stagonospora brachypodiicola (Brunaud) E. Castell. & Germano SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

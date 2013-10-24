@@ -1,5 +1,4 @@
-Xylaria olobapha Berk. SPECIES
-=======
+# Xylaria olobapha Berk. SPECIES
 
 #### Status
 ACCEPTED

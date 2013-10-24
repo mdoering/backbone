@@ -1,5 +1,4 @@
-Meliola caymanensis Ellis & Everh. SPECIES
-=======
+# Meliola caymanensis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

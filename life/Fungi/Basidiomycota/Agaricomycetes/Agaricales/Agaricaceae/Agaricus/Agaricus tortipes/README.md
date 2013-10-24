@@ -1,5 +1,4 @@
-Agaricus tortipes Mont. SPECIES
-=======
+# Agaricus tortipes Mont. SPECIES
 
 #### Status
 ACCEPTED

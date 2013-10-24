@@ -1,5 +1,4 @@
-Degelia crustacea P. M. Jørg. & D. J. Galloway SPECIES
-=======
+# Degelia crustacea P. M. Jørg. & D. J. Galloway SPECIES
 
 #### Status
 ACCEPTED

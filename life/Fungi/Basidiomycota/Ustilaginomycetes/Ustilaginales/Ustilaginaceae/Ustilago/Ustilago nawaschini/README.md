@@ -1,5 +1,4 @@
-Ustilago nawaschini Racib. SPECIES
-=======
+# Ustilago nawaschini Racib. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Porospora grassei Théodoridès, 1962 SPECIES
-=======
+# Nematopsis grassei Théodoridès, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

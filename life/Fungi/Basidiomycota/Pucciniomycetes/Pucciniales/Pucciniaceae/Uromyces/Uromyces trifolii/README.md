@@ -1,17 +1,16 @@
-Coeomurus trifolii (R. Hedw. ex DC.) Gray, 1821 SPECIES
-=======
+# Uromyces trifolii (R. Hedw.) Lév., 1847 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls Sci. Nat. , Bot. , sér. 3 8: 371 (1847)
 
 #### Original name
-null
+Puccinia trifolii R. Hedw., 1805
 
 ### Remarks
 null

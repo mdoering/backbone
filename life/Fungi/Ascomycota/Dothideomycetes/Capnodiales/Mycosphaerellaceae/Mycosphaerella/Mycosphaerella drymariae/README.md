@@ -1,5 +1,4 @@
-Mycosphaerella drymariae Syd. SPECIES
-=======
+# Mycosphaerella drymariae Syd. SPECIES
 
 #### Status
 ACCEPTED

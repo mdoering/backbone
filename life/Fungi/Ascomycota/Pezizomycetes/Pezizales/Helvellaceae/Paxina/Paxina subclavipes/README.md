@@ -1,5 +1,4 @@
-Paxina subclavipes (W. Phillips & Ellis) Seaver SPECIES
-=======
+# Paxina subclavipes (W. Phillips & Ellis) Seaver SPECIES
 
 #### Status
 ACCEPTED

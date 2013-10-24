@@ -1,5 +1,4 @@
-Sphaerella solidaginea Ellis & Kellerm. SPECIES
-=======
+# Sphaerella solidaginea Ellis & Kellerm. SPECIES
 
 #### Status
 ACCEPTED

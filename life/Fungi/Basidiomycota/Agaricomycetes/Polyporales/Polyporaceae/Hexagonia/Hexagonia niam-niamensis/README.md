@@ -1,14 +1,13 @@
-Scenidium niam-niamense (Henn.) Kuntze, 1898 SPECIES
-=======
+# Hexagonia niam-niamensis Henn., 1891 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3(2): 516 (1898)
+Bot. Jb. 14: 348 (1892)
 
 #### Original name
 Hexagonia niam-niamensis Henn., 1891

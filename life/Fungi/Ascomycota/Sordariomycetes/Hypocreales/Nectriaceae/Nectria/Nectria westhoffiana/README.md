@@ -1,5 +1,4 @@
-Nectria westhoffiana Henn. & Lindau SPECIES
-=======
+# Nectria westhoffiana Henn. & Lindau SPECIES
 
 #### Status
 ACCEPTED

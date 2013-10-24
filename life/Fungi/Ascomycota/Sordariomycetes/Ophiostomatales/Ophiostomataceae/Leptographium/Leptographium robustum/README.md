@@ -1,5 +1,4 @@
-Leptographium robustum (Rob.-Jeffr. & R.W. Davidson) M.J. Wingf. SPECIES
-=======
+# Leptographium robustum (Rob.-Jeffr. & R.W. Davidson) M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

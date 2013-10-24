@@ -1,5 +1,4 @@
-Carterinidae FAMILY
-=======
+# Carterinidae FAMILY
 
 #### Status
 ACCEPTED

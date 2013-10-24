@@ -1,5 +1,4 @@
-Plicaria chlorophysa Clem. SPECIES
-=======
+# Plicaria chlorophysa Clem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia clusii Gäum. SPECIES
-=======
+# Puccinia clusii Gäum. SPECIES
 
 #### Status
 ACCEPTED

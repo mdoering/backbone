@@ -1,5 +1,4 @@
-Russula subfurcata Reumaux SPECIES
-=======
+# Russula subfurcata Reumaux SPECIES
 
 #### Status
 ACCEPTED

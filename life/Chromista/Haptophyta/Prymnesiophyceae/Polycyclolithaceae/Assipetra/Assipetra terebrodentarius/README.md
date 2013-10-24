@@ -1,5 +1,4 @@
-Assipetra terebrodentarius subsp. terebrodentarius SUBSPECIES
-=======
+# Assipetra terebrodentarius SPECIES
 
 #### Status
 ACCEPTED

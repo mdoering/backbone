@@ -1,5 +1,4 @@
-Ochrolechia madeirensis Verseghy SPECIES
-=======
+# Ochrolechia madeirensis Verseghy SPECIES
 
 #### Status
 ACCEPTED

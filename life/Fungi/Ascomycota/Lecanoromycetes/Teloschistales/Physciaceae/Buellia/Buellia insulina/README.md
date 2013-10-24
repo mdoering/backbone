@@ -1,5 +1,4 @@
-Buellia insulina Müll. Arg. SPECIES
-=======
+# Buellia insulina Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pronectria fissuriprodiens Etayo, 1996 SPECIES
-=======
+# Pronectria fissuriprodiens Etayo, 1996 SPECIES
 
 #### Status
 ACCEPTED

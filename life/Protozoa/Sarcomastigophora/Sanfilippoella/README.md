@@ -1,5 +1,4 @@
-Sanfilippoella Kozur & Mostler, 1979 GENUS
-=======
+# Sanfilippoella Kozur & Mostler, 1979 GENUS
 
 #### Status
 ACCEPTED

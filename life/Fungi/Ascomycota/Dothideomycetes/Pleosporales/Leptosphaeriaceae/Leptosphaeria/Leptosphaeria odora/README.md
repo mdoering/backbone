@@ -1,5 +1,4 @@
-Leptosphaeria odora (Cooke & Harkn.) Berl. & Voglino SPECIES
-=======
+# Leptosphaeria odora (Cooke & Harkn.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

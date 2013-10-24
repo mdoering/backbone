@@ -1,5 +1,4 @@
-Kalometopia perronnei Bramy, 1962 SPECIES
-=======
+# Kalometopia perronnei Bramy, 1962 SPECIES
 
 #### Status
 ACCEPTED

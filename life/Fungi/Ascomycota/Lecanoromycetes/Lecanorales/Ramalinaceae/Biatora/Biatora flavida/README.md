@@ -1,5 +1,4 @@
-Biatora flavida Hepp ex Hartung {?} SPECIES
-=======
+# Biatora flavida Hepp ex Hartung {?} SPECIES
 
 #### Status
 ACCEPTED

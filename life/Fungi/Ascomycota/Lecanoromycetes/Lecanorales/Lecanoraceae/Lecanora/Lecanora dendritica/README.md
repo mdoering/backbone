@@ -1,5 +1,4 @@
-Lecanora dendritica (Ach.) Röhl. SPECIES
-=======
+# Lecanora dendritica (Ach.) Röhl. SPECIES
 
 #### Status
 ACCEPTED

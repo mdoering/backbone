@@ -1,5 +1,4 @@
-Thelidium calcareum (C. Knight) Hellb. SPECIES
-=======
+# Thelidium calcareum (C. Knight) Hellb. SPECIES
 
 #### Status
 ACCEPTED

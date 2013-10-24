@@ -1,5 +1,4 @@
-Arthonia albopulverea Nyl. SPECIES
-=======
+# Arthonia albopulverea Nyl. SPECIES
 
 #### Status
 ACCEPTED

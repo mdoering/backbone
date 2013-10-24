@@ -1,5 +1,4 @@
-Lecania fuscina Flagey SPECIES
-=======
+# Lecania fuscina Flagey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buellia ceylanensis Zahlbr. SPECIES
-=======
+# Buellia ceylanensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

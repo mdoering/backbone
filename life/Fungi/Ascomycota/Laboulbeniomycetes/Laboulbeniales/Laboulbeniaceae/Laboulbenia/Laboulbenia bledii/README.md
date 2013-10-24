@@ -1,5 +1,4 @@
-Laboulbenia bledii Thaxt. SPECIES
-=======
+# Laboulbenia bledii Thaxt. SPECIES
 
 #### Status
 ACCEPTED

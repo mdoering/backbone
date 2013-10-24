@@ -1,5 +1,4 @@
-Phomopsis crataegicola Petr. SPECIES
-=======
+# Phomopsis crataegicola Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphis glaucocaesia Müll. Arg. SPECIES
-=======
+# Graphis glaucocaesia Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

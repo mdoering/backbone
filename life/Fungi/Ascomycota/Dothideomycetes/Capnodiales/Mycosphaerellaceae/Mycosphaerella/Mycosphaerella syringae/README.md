@@ -1,5 +1,4 @@
-Mycosphaerella syringae Cruchet SPECIES
-=======
+# Mycosphaerella syringae Cruchet SPECIES
 
 #### Status
 ACCEPTED

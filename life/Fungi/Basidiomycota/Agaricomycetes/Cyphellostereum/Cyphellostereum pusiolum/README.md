@@ -1,17 +1,16 @@
-Stereophyllum pallens P. Karst., 1889 SPECIES
-=======
+# Cyphellostereum pusiolum (Berk. & M.A. Curtis) D.A. Reid, 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 28: 191 (1889)
+Beih. Nova Hedwigia 18: 342 (1965)
 
 #### Original name
-Stereophyllum pallens P. Karst., 1889
+Stereum pusiolum Berk. & M.A. Curtis, 1868
 
 ### Remarks
 null

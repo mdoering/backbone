@@ -1,5 +1,4 @@
-Splanchnomyces cordaeanus Zobel SPECIES
-=======
+# Splanchnomyces cordaeanus Zobel SPECIES
 
 #### Status
 ACCEPTED

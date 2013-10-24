@@ -1,5 +1,4 @@
-Pholiota abietis A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota abietis A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

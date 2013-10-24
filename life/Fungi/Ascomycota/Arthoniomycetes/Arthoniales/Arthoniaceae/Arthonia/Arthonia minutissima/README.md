@@ -1,5 +1,4 @@
-Arthonia minutissima (Ach.) Nyl. SPECIES
-=======
+# Arthonia minutissima (Ach.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

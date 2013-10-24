@@ -1,5 +1,4 @@
-Ramalina flaccidissima Bory SPECIES
-=======
+# Ramalina flaccidissima Bory SPECIES
 
 #### Status
 ACCEPTED

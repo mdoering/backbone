@@ -1,5 +1,4 @@
-Trochospirillina Mityanina, 1957 GENUS
-=======
+# Trochospirillina Mityanina, 1957 GENUS
 
 #### Status
 ACCEPTED

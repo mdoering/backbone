@@ -1,5 +1,4 @@
-Russula cinerella Pat. SPECIES
-=======
+# Russula cinerella Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Archaeosphaeridium G. Deflandre, 1932 GENUS
-=======
+# Archaeosphaeridium G. Deflandre, 1932 GENUS
 
 #### Status
 ACCEPTED

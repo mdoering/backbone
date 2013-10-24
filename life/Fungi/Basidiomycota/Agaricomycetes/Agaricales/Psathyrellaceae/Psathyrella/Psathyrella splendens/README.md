@@ -1,5 +1,4 @@
-Psathyrella splendens Corner SPECIES
-=======
+# Psathyrella splendens Corner SPECIES
 
 #### Status
 ACCEPTED

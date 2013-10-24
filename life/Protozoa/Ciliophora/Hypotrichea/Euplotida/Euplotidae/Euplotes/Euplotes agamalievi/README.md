@@ -1,5 +1,4 @@
-Euplotes agamalievi SPECIES
-=======
+# Euplotes agamalievi SPECIES
 
 #### Status
 ACCEPTED

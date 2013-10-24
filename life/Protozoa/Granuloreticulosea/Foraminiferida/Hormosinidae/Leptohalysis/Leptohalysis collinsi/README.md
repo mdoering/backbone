@@ -1,5 +1,4 @@
-Leptohalysis collinsi Bell, 1996 SPECIES
-=======
+# Leptohalysis collinsi Bell, 1996 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphis erythraea Kremp. SPECIES
-=======
+# Graphis erythraea Kremp. SPECIES
 
 #### Status
 ACCEPTED

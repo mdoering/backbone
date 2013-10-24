@@ -1,5 +1,4 @@
-Pulveroboletus atrocoerulescens Heinem. SPECIES
-=======
+# Pulveroboletus atrocoerulescens Heinem. SPECIES
 
 #### Status
 ACCEPTED

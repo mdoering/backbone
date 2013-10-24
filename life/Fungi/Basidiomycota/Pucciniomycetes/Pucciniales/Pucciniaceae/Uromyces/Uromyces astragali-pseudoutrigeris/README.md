@@ -1,5 +1,4 @@
-Uromyces astragali-pseudoutrigeris Gjaerum, 1991 SPECIES
-=======
+# Uromyces astragali-pseudoutrigeris Gjaerum, 1991 SPECIES
 
 #### Status
 ACCEPTED

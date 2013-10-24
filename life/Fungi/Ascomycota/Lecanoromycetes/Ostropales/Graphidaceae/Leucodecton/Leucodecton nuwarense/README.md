@@ -1,14 +1,13 @@
-Myriotrema nuwarense Hale SPECIES
-=======
+# Leucodecton nuwarense (Hale) Frisch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Bull. Br. Mus. nat. Hist. , Bot. 8(3): 289 (1981)
+Biblthca Lichenol. 92: 155 (2006)
 
 #### Original name
 Myriotrema nuwarense Hale

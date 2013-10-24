@@ -1,5 +1,4 @@
-Polystictus oblectabilis Lloyd SPECIES
-=======
+# Polystictus oblectabilis Lloyd SPECIES
 
 #### Status
 ACCEPTED

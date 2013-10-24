@@ -1,5 +1,4 @@
-Lagenosolenia anterostrata Albani & Yassini, 1989 SPECIES
-=======
+# Lagenosolenia anterostrata Albani & Yassini, 1989 SPECIES
 
 #### Status
 ACCEPTED

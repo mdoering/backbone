@@ -1,5 +1,4 @@
-Phaeocollybia neosimilis Singer SPECIES
-=======
+# Phaeocollybia neosimilis Singer SPECIES
 
 #### Status
 ACCEPTED

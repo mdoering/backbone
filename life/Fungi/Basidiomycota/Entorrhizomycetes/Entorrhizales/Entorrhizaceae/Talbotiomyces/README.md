@@ -1,5 +1,4 @@
-Talbotiomyces Vánky, R. Bauer & Begerow GENUS
-=======
+# Talbotiomyces Vánky, R. Bauer & Begerow GENUS
 
 #### Status
 ACCEPTED

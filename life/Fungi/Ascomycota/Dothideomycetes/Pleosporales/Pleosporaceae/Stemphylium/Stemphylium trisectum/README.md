@@ -1,5 +1,4 @@
-Stemphylium trisectum (A. Raabe) E.G. Simmons SPECIES
-=======
+# Stemphylium trisectum (A. Raabe) E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

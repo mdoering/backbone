@@ -1,5 +1,4 @@
-Antromycopsis filiformis Pat. SPECIES
-=======
+# Antromycopsis filiformis Pat. SPECIES
 
 #### Status
 ACCEPTED

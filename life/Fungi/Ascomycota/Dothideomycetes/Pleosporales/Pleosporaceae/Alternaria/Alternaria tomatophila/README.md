@@ -1,5 +1,4 @@
-Alternaria tomatophila E.G. Simmons, 2000 SPECIES
-=======
+# Alternaria tomatophila E.G. Simmons, 2000 SPECIES
 
 #### Status
 ACCEPTED

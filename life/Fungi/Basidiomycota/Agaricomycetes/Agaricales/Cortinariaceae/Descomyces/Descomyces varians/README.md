@@ -1,5 +1,4 @@
-Descomyces varians Trappe & Claridge SPECIES
-=======
+# Descomyces varians Trappe & Claridge SPECIES
 
 #### Status
 ACCEPTED

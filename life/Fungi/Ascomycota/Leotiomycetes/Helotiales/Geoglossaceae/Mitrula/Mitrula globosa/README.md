@@ -1,5 +1,4 @@
-Mitrula globosa Sommerf. SPECIES
-=======
+# Mitrula globosa Sommerf. SPECIES
 
 #### Status
 ACCEPTED

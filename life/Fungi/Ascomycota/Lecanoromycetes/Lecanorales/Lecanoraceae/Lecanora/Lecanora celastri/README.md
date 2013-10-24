@@ -1,5 +1,4 @@
-Lecanora celastri Lynge SPECIES
-=======
+# Lecanora celastri Lynge SPECIES
 
 #### Status
 ACCEPTED

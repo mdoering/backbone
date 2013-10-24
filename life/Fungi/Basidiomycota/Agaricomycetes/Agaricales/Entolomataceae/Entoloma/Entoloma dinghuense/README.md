@@ -1,5 +1,4 @@
-Entoloma dinghuense T.H. Li & C.H. Li SPECIES
-=======
+# Entoloma dinghuense T.H. Li & C.H. Li SPECIES
 
 #### Status
 ACCEPTED

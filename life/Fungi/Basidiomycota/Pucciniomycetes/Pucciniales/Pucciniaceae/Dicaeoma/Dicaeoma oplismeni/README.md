@@ -1,5 +1,4 @@
-Dicaeoma oplismeni (Syd. & P. Syd.) Syd. SPECIES
-=======
+# Dicaeoma oplismeni (Syd. & P. Syd.) Syd. SPECIES
 
 #### Status
 ACCEPTED

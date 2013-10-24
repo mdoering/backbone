@@ -1,5 +1,4 @@
-Pyrenochaeta magnusioides Stolk SPECIES
-=======
+# Pyrenochaeta magnusioides Stolk SPECIES
 
 #### Status
 ACCEPTED

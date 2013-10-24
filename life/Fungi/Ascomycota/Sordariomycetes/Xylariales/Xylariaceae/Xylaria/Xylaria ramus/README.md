@@ -1,5 +1,4 @@
-Xylaria ramus Lloyd SPECIES
-=======
+# Xylaria ramus Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleuropedium tricladioides Marvanová & S.H. Iqbal, 1973 SPECIES
-=======
+# Pleuropedium tricladioides Marvanová & S.H. Iqbal, 1973 SPECIES
 
 #### Status
 ACCEPTED

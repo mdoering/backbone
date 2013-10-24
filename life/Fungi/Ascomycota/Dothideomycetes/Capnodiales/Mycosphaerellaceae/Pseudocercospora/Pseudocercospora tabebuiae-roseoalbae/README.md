@@ -1,5 +1,4 @@
-Pseudocercospora tabebuiae-roseoalbae Inácio & Dianese SPECIES
-=======
+# Pseudocercospora tabebuiae-roseoalbae Inácio & Dianese SPECIES
 
 #### Status
 ACCEPTED

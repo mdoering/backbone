@@ -1,5 +1,4 @@
-Cyclidium curvata SPECIES
-=======
+# Cyclidium curvata SPECIES
 
 #### Status
 ACCEPTED

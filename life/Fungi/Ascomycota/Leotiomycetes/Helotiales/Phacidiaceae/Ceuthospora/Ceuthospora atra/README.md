@@ -1,5 +1,4 @@
-Ceuthospora atra Lind SPECIES
-=======
+# Ceuthospora atra Lind SPECIES
 
 #### Status
 ACCEPTED

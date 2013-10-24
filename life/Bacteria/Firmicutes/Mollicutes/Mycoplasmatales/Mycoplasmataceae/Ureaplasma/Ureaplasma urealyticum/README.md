@@ -1,5 +1,4 @@
-Ureaplasma urealyticum Shepard et al., 1974 (Approved Lists, 1980) SPECIES
-=======
+# Ureaplasma urealyticum Shepard et al., 1974 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

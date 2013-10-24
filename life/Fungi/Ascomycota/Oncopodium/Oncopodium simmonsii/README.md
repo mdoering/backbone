@@ -1,5 +1,4 @@
-Oncopodium simmonsii B. Sutton SPECIES
-=======
+# Oncopodium simmonsii B. Sutton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eupoikilofusa striata (Staplin, Jansonius & Pocock, 1965) Eisenack et al., 1976 SPECIES
-=======
+# Eupoikilofusa striata (Staplin, Jansonius & Pocock, 1965) Eisenack et al., 1976 SPECIES
 
 #### Status
 ACCEPTED

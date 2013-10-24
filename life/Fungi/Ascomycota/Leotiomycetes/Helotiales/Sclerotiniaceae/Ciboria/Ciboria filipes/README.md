@@ -1,5 +1,4 @@
-Ciboria filipes Henn. SPECIES
-=======
+# Ciboria filipes Henn. SPECIES
 
 #### Status
 ACCEPTED

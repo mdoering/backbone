@@ -1,5 +1,4 @@
-Cryptothecia malmei Redinger SPECIES
-=======
+# Cryptothecia malmei Redinger SPECIES
 
 #### Status
 ACCEPTED

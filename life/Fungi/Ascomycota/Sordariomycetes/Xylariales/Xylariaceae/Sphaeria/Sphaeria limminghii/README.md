@@ -1,5 +1,4 @@
-Sphaeria limminghii Westend. SPECIES
-=======
+# Sphaeria limminghii Westend. SPECIES
 
 #### Status
 ACCEPTED

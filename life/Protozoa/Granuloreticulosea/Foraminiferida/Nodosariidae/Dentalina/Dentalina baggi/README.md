@@ -1,5 +1,4 @@
-Dentalina baggi Galloway & Wissler, 1927 SPECIES
-=======
+# Dentalina baggi Galloway & Wissler, 1927 SPECIES
 
 #### Status
 ACCEPTED

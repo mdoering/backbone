@@ -1,5 +1,4 @@
-Hexagonia burchellii Lloyd SPECIES
-=======
+# Hexagonia burchellii Lloyd SPECIES
 
 #### Status
 ACCEPTED

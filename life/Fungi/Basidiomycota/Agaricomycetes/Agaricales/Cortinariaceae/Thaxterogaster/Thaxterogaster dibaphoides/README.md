@@ -1,5 +1,4 @@
-Thaxterogaster dibaphoides E. Horak SPECIES
-=======
+# Thaxterogaster dibaphoides E. Horak SPECIES
 
 #### Status
 ACCEPTED

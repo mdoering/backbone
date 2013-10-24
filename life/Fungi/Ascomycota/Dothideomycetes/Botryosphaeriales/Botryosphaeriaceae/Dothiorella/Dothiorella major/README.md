@@ -1,5 +1,4 @@
-Dothiorella major Ellis & Everh. SPECIES
-=======
+# Dothiorella major Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

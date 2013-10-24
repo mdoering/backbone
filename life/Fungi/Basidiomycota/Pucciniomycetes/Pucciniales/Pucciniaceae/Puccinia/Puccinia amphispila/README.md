@@ -1,5 +1,4 @@
-Puccinia amphispila Dietel & Holw. SPECIES
-=======
+# Puccinia amphispila Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

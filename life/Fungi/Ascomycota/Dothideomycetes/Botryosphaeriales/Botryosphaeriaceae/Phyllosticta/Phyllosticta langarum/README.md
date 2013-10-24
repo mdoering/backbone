@@ -1,5 +1,4 @@
-Phyllosticta langarum Ferraris SPECIES
-=======
+# Phyllosticta langarum Ferraris SPECIES
 
 #### Status
 ACCEPTED

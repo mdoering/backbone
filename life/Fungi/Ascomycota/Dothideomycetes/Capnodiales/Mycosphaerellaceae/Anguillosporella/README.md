@@ -1,5 +1,4 @@
-Anguillosporella U. Braun GENUS
-=======
+# Anguillosporella U. Braun GENUS
 
 #### Status
 ACCEPTED

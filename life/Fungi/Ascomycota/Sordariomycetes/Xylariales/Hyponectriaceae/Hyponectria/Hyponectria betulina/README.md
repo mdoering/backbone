@@ -1,5 +1,4 @@
-Hyponectria betulina M.E. Barr SPECIES
-=======
+# Hyponectria betulina M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

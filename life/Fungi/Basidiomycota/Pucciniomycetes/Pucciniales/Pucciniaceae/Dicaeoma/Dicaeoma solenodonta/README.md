@@ -1,5 +1,4 @@
-Dicaeoma solenodonta (G.H. Otth) Kuntze SPECIES
-=======
+# Dicaeoma solenodonta (G.H. Otth) Kuntze SPECIES
 
 #### Status
 ACCEPTED

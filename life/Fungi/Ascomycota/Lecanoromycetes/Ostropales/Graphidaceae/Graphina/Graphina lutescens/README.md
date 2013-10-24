@@ -1,5 +1,4 @@
-Graphina lutescens (Kremp.) Müll. Arg. SPECIES
-=======
+# Graphina lutescens (Kremp.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vanderbeekia Brönnimann & Wirz, 1962 GENUS
-=======
+# Vanderbeekia Brönnimann & Wirz, 1962 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Staurothele mediana (Nyl.) Zahlbr. SPECIES
-=======
+# Staurothele mediana (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

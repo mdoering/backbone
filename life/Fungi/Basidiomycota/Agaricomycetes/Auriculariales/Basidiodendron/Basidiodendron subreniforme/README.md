@@ -1,5 +1,4 @@
-Basidiodendron subreniforme Luck-Allen SPECIES
-=======
+# Basidiodendron subreniforme Luck-Allen SPECIES
 
 #### Status
 ACCEPTED

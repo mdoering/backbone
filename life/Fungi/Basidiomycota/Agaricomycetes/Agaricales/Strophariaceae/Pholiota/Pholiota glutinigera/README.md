@@ -1,5 +1,4 @@
-Pholiota glutinigera Singer SPECIES
-=======
+# Pholiota glutinigera Singer SPECIES
 
 #### Status
 ACCEPTED

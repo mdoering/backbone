@@ -1,5 +1,4 @@
-Graphina acrophaea f. acrophaea FORM
-=======
+# Graphina acrophaea Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Bull. Herb. Boissier 3: 46 (1895)
 
 #### Original name
-Graphina acrophaea f. acrophaea
+Graphina acrophaea Müll. Arg.
 
 ### Remarks
 null

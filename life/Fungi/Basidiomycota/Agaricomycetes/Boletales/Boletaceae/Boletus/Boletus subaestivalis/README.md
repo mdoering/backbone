@@ -1,5 +1,4 @@
-Boletus subaestivalis Sagar & T.N. Lakh. SPECIES
-=======
+# Boletus subaestivalis Sagar & T.N. Lakh. SPECIES
 
 #### Status
 ACCEPTED

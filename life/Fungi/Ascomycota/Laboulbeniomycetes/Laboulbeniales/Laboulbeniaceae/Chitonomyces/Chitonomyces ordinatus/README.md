@@ -1,5 +1,4 @@
-Chitonomyces ordinatus Thaxt. SPECIES
-=======
+# Chitonomyces ordinatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eponides trochus SPECIES
-=======
+# Eponides trochus SPECIES
 
 #### Status
 ACCEPTED

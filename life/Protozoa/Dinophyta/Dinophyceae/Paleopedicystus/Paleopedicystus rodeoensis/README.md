@@ -1,5 +1,4 @@
-Paleopedicystus rodeoensis Staplin, 1961 SPECIES
-=======
+# Paleopedicystus rodeoensis Staplin, 1961 SPECIES
 
 #### Status
 ACCEPTED

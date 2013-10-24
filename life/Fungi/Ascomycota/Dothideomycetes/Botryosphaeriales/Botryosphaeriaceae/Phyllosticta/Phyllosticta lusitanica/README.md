@@ -1,5 +1,4 @@
-Phyllosticta lusitanica Unamuno SPECIES
-=======
+# Phyllosticta lusitanica Unamuno SPECIES
 
 #### Status
 ACCEPTED

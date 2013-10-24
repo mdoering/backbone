@@ -1,5 +1,4 @@
-Heterosporium xanthosomatis Gonz. Frag. & Cif. SPECIES
-=======
+# Heterosporium xanthosomatis Gonz. Frag. & Cif. SPECIES
 
 #### Status
 ACCEPTED

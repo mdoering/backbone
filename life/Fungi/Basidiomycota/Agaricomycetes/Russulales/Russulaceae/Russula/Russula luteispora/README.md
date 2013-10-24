@@ -1,5 +1,4 @@
-Russula luteispora Murrill SPECIES
-=======
+# Russula luteispora Murrill SPECIES
 
 #### Status
 ACCEPTED

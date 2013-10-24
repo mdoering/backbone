@@ -1,5 +1,4 @@
-Tricholoma opiparum (Fr.) Bigeard & H. Guill. SPECIES
-=======
+# Tricholoma opiparum (Fr.) Bigeard & H. Guill. SPECIES
 
 #### Status
 ACCEPTED

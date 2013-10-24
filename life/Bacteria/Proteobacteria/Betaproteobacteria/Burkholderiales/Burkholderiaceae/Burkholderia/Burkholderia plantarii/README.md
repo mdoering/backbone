@@ -1,8 +1,7 @@
-Pseudomonas plantarii Azegami et al., 1987 SPECIES
-=======
+# Burkholderia plantarii (Azegami et al., 1987) Urakami et al., 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

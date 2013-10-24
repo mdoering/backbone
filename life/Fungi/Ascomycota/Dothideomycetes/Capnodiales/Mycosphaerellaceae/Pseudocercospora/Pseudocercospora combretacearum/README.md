@@ -1,5 +1,4 @@
-Pseudocercospora combretacearum B. Sutton SPECIES
-=======
+# Pseudocercospora combretacearum B. Sutton SPECIES
 
 #### Status
 ACCEPTED

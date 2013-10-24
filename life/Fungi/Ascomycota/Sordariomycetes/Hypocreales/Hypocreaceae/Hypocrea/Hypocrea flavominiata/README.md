@@ -1,5 +1,4 @@
-Hypocrea flavominiata Bres. SPECIES
-=======
+# Hypocrea flavominiata Bres. SPECIES
 
 #### Status
 ACCEPTED

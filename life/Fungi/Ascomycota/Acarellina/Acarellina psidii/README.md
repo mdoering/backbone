@@ -1,5 +1,4 @@
-Acarellina psidii Bat. & H. Maia, 1960 SPECIES
-=======
+# Acarellina psidii Bat. & H. Maia, 1960 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Urceolaria discina Müller SPECIES
-=======
+# Urceolaria discina Müller SPECIES
 
 #### Status
 ACCEPTED

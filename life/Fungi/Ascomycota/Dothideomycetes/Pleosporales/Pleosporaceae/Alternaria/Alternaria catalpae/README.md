@@ -1,5 +1,4 @@
-Alternaria catalpae (Ellis & Mont.) P. Joly SPECIES
-=======
+# Alternaria catalpae (Ellis & Mont.) P. Joly SPECIES
 
 #### Status
 ACCEPTED

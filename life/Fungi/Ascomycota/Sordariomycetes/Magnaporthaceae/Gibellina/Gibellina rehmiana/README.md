@@ -1,5 +1,4 @@
-Gibellina rehmiana Rick, 1933 SPECIES
-=======
+# Gibellina rehmiana Rick, 1933 SPECIES
 
 #### Status
 ACCEPTED

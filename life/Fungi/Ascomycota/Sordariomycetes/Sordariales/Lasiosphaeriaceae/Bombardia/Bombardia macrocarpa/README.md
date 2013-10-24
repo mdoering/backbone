@@ -1,5 +1,4 @@
-Bombardia macrocarpa G.C. Carroll & Munk SPECIES
-=======
+# Bombardia macrocarpa G.C. Carroll & Munk SPECIES
 
 #### Status
 ACCEPTED

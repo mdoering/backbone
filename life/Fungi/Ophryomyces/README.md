@@ -1,5 +1,4 @@
-Ophryomyces L. Léger & E. Hesse GENUS
-=======
+# Ophryomyces L. Léger & E. Hesse GENUS
 
 #### Status
 ACCEPTED

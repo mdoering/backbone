@@ -1,5 +1,4 @@
-Pseudolabrys Kämpfer et al., 2006 GENUS
-=======
+# Pseudolabrys Kämpfer et al., 2006 GENUS
 
 #### Status
 ACCEPTED

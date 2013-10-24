@@ -1,5 +1,4 @@
-Stachybotrys thermotolerans McKenzie SPECIES
-=======
+# Stachybotrys thermotolerans McKenzie SPECIES
 
 #### Status
 ACCEPTED

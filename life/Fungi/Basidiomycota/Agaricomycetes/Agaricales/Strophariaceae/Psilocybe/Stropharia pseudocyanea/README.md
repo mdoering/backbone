@@ -1,17 +1,16 @@
-Psilocybe pseudocyanea f. pseudocyanea FORM
-=======
+# Stropharia pseudocyanea (Desm.) Morgan, 1908 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Persoonia 16(1): 129 (1995)
+J. Mycol. 14: 74 (1908)
 
 #### Original name
-Psilocybe pseudocyanea f. pseudocyanea
+Agaricus pseudocyaneus Desm., 1823
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cyllamyces Ozkose, B.J. Thomas, D.R. Davies, G.W. Griff. & Theodorou GENUS
-=======
+# Cyllamyces Ozkose, B.J. Thomas, D.R. Davies, G.W. Griff. & Theodorou GENUS
 
 #### Status
 ACCEPTED

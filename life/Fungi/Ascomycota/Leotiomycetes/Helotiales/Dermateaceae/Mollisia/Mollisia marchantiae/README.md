@@ -1,5 +1,4 @@
-Mollisia marchantiae Naumov SPECIES
-=======
+# Mollisia marchantiae Naumov SPECIES
 
 #### Status
 ACCEPTED

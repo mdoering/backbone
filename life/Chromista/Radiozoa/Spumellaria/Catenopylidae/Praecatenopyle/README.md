@@ -1,5 +1,4 @@
-Praecatenopyle Dumitrica, 1989 GENUS
-=======
+# Praecatenopyle Dumitrica, 1989 GENUS
 
 #### Status
 ACCEPTED

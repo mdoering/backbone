@@ -1,5 +1,4 @@
-Phaeographis angulosa Müll. Arg. SPECIES
-=======
+# Phaeographis angulosa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

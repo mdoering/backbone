@@ -1,5 +1,4 @@
-Claudopus GENUS
-=======
+# Claudopus GENUS
 
 #### Status
 ACCEPTED

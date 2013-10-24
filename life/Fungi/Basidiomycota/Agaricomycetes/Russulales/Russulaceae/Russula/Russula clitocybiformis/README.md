@@ -1,5 +1,4 @@
-Russula clitocybiformis Murrill SPECIES
-=======
+# Russula clitocybiformis Murrill SPECIES
 
 #### Status
 ACCEPTED

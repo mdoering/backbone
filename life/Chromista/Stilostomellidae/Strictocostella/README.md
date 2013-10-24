@@ -1,5 +1,4 @@
-Strictocostella Patterson, 1987 GENUS
-=======
+# Strictocostella Patterson, 1987 GENUS
 
 #### Status
 ACCEPTED

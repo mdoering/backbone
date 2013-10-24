@@ -1,17 +1,16 @@
-Penicillium crustaceum var. crustaceum VARIETY
-=======
+# Penicillium expansum Link, 1809 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Magazin Ges. naturf. Freunde, Berlin 3(1-2): 554 (1809)
 
 #### Original name
-null
+Penicillium expansum Link, 1809
 
 ### Remarks
 null

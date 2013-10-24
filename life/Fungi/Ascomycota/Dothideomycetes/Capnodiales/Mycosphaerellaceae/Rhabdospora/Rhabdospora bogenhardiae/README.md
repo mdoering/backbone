@@ -1,5 +1,4 @@
-Rhabdospora bogenhardiae Bat. SPECIES
-=======
+# Rhabdospora bogenhardiae Bat. SPECIES
 
 #### Status
 ACCEPTED

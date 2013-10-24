@@ -1,5 +1,4 @@
-Aecidium carbonaceum W.T. Dale SPECIES
-=======
+# Aecidium carbonaceum W.T. Dale SPECIES
 
 #### Status
 ACCEPTED

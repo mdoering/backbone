@@ -1,5 +1,4 @@
-Graphis formosana Zahlbr. SPECIES
-=======
+# Graphis formosana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

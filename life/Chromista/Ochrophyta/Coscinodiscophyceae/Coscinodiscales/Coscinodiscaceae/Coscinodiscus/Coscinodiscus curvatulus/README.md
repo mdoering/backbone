@@ -1,5 +1,4 @@
-Coscinodiscus curvatulus var. inermis Grunow VARIETY
-=======
+# Coscinodiscus curvatulus Grunow ex A. Schmidt, 1878 SPECIES
 
 #### Status
 ACCEPTED

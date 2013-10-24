@@ -1,5 +1,4 @@
-Cantharomyces flagellatus anon. SPECIES
-=======
+# Cantharomyces flagellatus anon. SPECIES
 
 #### Status
 ACCEPTED

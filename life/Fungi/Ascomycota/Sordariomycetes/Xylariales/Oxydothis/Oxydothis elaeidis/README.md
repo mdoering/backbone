@@ -1,5 +1,4 @@
-Oxydothis elaeidis (Beeli) Sivan. SPECIES
-=======
+# Oxydothis elaeidis (Beeli) Sivan. SPECIES
 
 #### Status
 ACCEPTED

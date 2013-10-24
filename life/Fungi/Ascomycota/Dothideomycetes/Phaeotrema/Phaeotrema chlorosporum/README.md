@@ -1,5 +1,4 @@
-Phaeotrema chlorosporum Zahlbr., 1928 SPECIES
-=======
+# Phaeotrema chlorosporum Zahlbr., 1928 SPECIES
 
 #### Status
 ACCEPTED

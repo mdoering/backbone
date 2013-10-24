@@ -1,5 +1,4 @@
-Irene trachylaena Syd. SPECIES
-=======
+# Irene trachylaena Syd. SPECIES
 
 #### Status
 ACCEPTED

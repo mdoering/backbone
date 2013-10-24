@@ -1,5 +1,4 @@
-Leptodontidium elatius var. elatius VARIETY
-=======
+# Leptodontidium elatius (F. Mangenot) de Hoog, 1979 SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Taxon 28(4): 348 (1979)
+null
 
 #### Original name
-Leptodontidium elatius var. elatius
+null
 
 ### Remarks
 null

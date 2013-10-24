@@ -1,5 +1,4 @@
-Muyocopron ovatisporum Katum. SPECIES
-=======
+# Muyocopron ovatisporum Katum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhachomyces pyrenaeus Santam. SPECIES
-=======
+# Rhachomyces pyrenaeus Santam. SPECIES
 
 #### Status
 ACCEPTED

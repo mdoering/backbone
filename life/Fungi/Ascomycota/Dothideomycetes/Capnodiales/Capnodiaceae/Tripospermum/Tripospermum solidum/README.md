@@ -1,5 +1,4 @@
-Tripospermum solidum R.F. Castañeda & W.B. Kendr. SPECIES
-=======
+# Tripospermum solidum R.F. Castañeda & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

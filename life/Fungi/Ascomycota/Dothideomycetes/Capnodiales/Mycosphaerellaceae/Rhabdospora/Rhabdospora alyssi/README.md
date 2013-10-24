@@ -1,5 +1,4 @@
-Rhabdospora alyssi A.L. Guyot SPECIES
-=======
+# Rhabdospora alyssi A.L. Guyot SPECIES
 
 #### Status
 ACCEPTED

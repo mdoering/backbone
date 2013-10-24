@@ -1,5 +1,4 @@
-Leptogiomyces hildebrandii E.A. Thomas ex Cif. & Tomas. SPECIES
-=======
+# Leptogiomyces hildebrandii E.A. Thomas ex Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

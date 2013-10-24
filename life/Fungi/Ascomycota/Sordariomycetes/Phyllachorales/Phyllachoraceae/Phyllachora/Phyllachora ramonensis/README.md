@@ -1,5 +1,4 @@
-Phyllachora ramonensis Syd., 1925 SPECIES
-=======
+# Phyllachora ramonensis Syd., 1925 SPECIES
 
 #### Status
 ACCEPTED

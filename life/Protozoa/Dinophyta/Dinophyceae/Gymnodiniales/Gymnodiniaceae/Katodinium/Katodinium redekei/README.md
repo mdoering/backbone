@@ -1,5 +1,4 @@
-Katodinium redekei (Conrad & Kufferath) Loeblich SPECIES
-=======
+# Katodinium redekei (Conrad & Kufferath) Loeblich SPECIES
 
 #### Status
 ACCEPTED

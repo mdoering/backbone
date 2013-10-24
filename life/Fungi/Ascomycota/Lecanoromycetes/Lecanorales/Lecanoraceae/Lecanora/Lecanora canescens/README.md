@@ -1,5 +1,4 @@
-Lecanora canescens Motyka SPECIES
-=======
+# Lecanora canescens Motyka SPECIES
 
 #### Status
 ACCEPTED

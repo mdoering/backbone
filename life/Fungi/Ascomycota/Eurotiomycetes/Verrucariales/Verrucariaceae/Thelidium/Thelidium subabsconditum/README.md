@@ -1,5 +1,4 @@
-Thelidium subabsconditum Eitner SPECIES
-=======
+# Thelidium subabsconditum Eitner SPECIES
 
 #### Status
 ACCEPTED

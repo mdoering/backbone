@@ -1,5 +1,4 @@
-Rhipidocephalum bicolor Trail SPECIES
-=======
+# Rhipidocephalum bicolor Trail SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dictyosporium micronesicum Matsush. SPECIES
-=======
+# Dictyosporium micronesicum Matsush. SPECIES
 
 #### Status
 ACCEPTED

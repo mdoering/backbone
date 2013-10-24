@@ -1,5 +1,4 @@
-Pectinatus portalensis Gonzalez et al., 2005 SPECIES
-=======
+# Pectinatus portalensis Gonzalez et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verticillium phyllostictoides Speg. SPECIES
-=======
+# Verticillium phyllostictoides Speg. SPECIES
 
 #### Status
 ACCEPTED

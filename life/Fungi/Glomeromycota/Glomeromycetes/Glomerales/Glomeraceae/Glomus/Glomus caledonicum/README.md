@@ -1,5 +1,4 @@
-Glomus caledonicum (Nicol. & Gerd.) Gerd. & Trapp SPECIES
-=======
+# Glomus caledonicum (Nicol. & Gerd.) Gerd. & Trapp SPECIES
 
 #### Status
 ACCEPTED

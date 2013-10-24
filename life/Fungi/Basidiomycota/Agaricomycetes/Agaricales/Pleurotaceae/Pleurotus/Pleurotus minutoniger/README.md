@@ -1,5 +1,4 @@
-Pleurotus minutoniger Lloyd SPECIES
-=======
+# Pleurotus minutoniger Lloyd SPECIES
 
 #### Status
 ACCEPTED

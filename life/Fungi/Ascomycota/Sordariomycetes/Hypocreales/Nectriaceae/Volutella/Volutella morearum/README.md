@@ -1,5 +1,4 @@
-Volutella morearum Rolland SPECIES
-=======
+# Volutella morearum Rolland SPECIES
 
 #### Status
 ACCEPTED

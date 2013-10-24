@@ -1,5 +1,4 @@
-Cantharellus carneoalbus R. Heim SPECIES
-=======
+# Cantharellus carneoalbus R. Heim SPECIES
 
 #### Status
 ACCEPTED

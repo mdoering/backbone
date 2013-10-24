@@ -1,8 +1,7 @@
-Brizalina spinescens (Cushman, 1911) SPECIES
-=======
+# Brizalina subspinescens (Cushman, 1922) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

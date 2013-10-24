@@ -1,5 +1,4 @@
-Cladonia balfourii f. balfourii FORM
-=======
+# Cladonia balfourii SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cladonia balfourii f. balfourii
+null
 
 ### Remarks
 null

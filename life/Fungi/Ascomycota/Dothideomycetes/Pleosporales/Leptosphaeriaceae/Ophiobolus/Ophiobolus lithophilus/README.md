@@ -1,5 +1,4 @@
-Ophiobolus lithophilus Gucevic SPECIES
-=======
+# Ophiobolus lithophilus Gucevic SPECIES
 
 #### Status
 ACCEPTED

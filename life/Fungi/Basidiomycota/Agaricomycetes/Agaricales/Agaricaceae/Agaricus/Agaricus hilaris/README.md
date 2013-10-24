@@ -1,5 +1,4 @@
-Agaricus hilaris Fr. SPECIES
-=======
+# Agaricus hilaris Fr. SPECIES
 
 #### Status
 ACCEPTED

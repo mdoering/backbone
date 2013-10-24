@@ -1,5 +1,4 @@
-Agaricus olivaesporus Ellis & Everh. SPECIES
-=======
+# Agaricus olivaesporus Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

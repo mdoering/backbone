@@ -1,5 +1,4 @@
-Streptosporangium nondiastaticum Nonomura and Ohara, 1969 (Approved Lists, 1980) SPECIES
-=======
+# Streptosporangium nondiastaticum Nonomura and Ohara, 1969 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

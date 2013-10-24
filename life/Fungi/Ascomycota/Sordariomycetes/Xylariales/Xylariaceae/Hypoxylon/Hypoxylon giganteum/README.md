@@ -1,5 +1,4 @@
-Hypoxylon giganteum (Ellis & Everh.) P.M.D. Martin SPECIES
-=======
+# Hypoxylon giganteum (Ellis & Everh.) P.M.D. Martin SPECIES
 
 #### Status
 ACCEPTED

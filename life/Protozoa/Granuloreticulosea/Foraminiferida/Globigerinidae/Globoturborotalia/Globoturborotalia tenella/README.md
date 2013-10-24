@@ -1,5 +1,4 @@
-Globoturborotalia tenella (Parker, 1958) SPECIES
-=======
+# Globoturborotalia tenella (Parker, 1958) SPECIES
 
 #### Status
 ACCEPTED

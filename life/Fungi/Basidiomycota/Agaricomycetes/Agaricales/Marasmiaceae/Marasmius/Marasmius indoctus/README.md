@@ -1,5 +1,4 @@
-Marasmius indoctus Corner SPECIES
-=======
+# Marasmius indoctus Corner SPECIES
 
 #### Status
 ACCEPTED

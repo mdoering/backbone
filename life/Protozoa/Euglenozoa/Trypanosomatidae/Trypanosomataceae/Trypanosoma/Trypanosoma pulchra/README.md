@@ -1,5 +1,4 @@
-Trypanosoma pulchra Mackerras & Mackerras, 1925 SPECIES
-=======
+# Trypanosoma pulchra Mackerras & Mackerras, 1925 SPECIES
 
 #### Status
 ACCEPTED

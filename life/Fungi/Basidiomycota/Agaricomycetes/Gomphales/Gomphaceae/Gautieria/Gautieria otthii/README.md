@@ -1,14 +1,13 @@
-Gautieria graveolens var. otthii (Trog) Zeller & C.W. Dodge, 1934 VARIETY
-=======
+# Gautieria otthii Trog, 1857 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mo. bot. Gdn 21: 695 (1934)
+Mitt. naturf. Ges. Bern 43 (1857)
 
 #### Original name
 Gautieria otthii Trog, 1857

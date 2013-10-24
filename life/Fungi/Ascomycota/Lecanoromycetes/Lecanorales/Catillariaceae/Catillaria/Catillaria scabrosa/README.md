@@ -1,5 +1,4 @@
-Catillaria scabrosa SPECIES
-=======
+# Catillaria scabrosa SPECIES
 
 #### Status
 ACCEPTED

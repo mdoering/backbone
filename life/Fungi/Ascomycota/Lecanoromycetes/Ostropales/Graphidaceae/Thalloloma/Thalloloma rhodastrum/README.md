@@ -1,5 +1,4 @@
-Thalloloma rhodastrum (Redinger) Staiger SPECIES
-=======
+# Thalloloma rhodastrum (Redinger) Staiger SPECIES
 
 #### Status
 ACCEPTED

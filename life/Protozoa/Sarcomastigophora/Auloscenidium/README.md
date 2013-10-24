@@ -1,5 +1,4 @@
-Auloscenidium Haeckel, 1887 GENUS
-=======
+# Auloscenidium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

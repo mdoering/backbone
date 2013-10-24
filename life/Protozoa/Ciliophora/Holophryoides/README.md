@@ -1,5 +1,4 @@
-Holophryoides Gasskovsky, 1919 GENUS
-=======
+# Holophryoides Gasskovsky, 1919 GENUS
 
 #### Status
 ACCEPTED

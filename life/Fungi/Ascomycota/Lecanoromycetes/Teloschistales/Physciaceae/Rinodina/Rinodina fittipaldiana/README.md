@@ -1,5 +1,4 @@
-Rinodina fittipaldiana SPECIES
-=======
+# Rinodina fittipaldiana SPECIES
 
 #### Status
 ACCEPTED

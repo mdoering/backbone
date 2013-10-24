@@ -1,17 +1,16 @@
-Agaricus umbratilis ambustus Fr., 1821 INFRASPECIFIC_NAME
-=======
+# Tephrocybe ambusta (Fr.) Donk, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nova Hedwigia, Beih. 5: 284 (1962)
 
 #### Original name
-null
+Agaricus umbratilis Fr., 1821
 
 ### Remarks
 null

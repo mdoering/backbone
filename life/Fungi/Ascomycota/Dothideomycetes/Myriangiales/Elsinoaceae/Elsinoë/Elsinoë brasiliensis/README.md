@@ -1,17 +1,16 @@
-Elsinoë jatrophae Bitanc. & Jenkins, 1951 SPECIES
-=======
+# Elsinoë brasiliensis Bitanc. & Jenkins, 1942 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Archos Inst. biol. , S Paulo 20: 13 (1951)
+Proc. Amer Sci. Congr. Washington, 1941 161 (1942)
 
 #### Original name
-Elsinoë jatrophae Bitanc. & Jenkins, 1951
+Elsinoë brasiliensis Bitanc. & Jenkins, 1942
 
 ### Remarks
 null

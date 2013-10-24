@@ -1,5 +1,4 @@
-Gloeosporium allescherianum (Henn.) Wollenw. SPECIES
-=======
+# Gloeosporium allescherianum (Henn.) Wollenw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Streptomyces africanus Meyers et al., 2004 SPECIES
-=======
+# Streptomyces africanus Meyers et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Trochaminella GENUS
-=======
+# Trochamminella Cushman, 1943 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
-null
+Contr. Cushman Lab. Foraminif. , 19, 95.
 
 #### Original name
 null

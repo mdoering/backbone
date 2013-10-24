@@ -1,5 +1,4 @@
-Cercospora hyptidis Ellis & Everh. SPECIES
-=======
+# Cercospora hyptidis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

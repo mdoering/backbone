@@ -1,5 +1,4 @@
-Discosporiella GENUS
-=======
+# Discosporiella GENUS
 
 #### Status
 ACCEPTED

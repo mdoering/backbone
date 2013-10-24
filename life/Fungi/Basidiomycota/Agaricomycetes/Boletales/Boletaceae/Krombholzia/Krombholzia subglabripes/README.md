@@ -1,5 +1,4 @@
-Krombholzia subglabripes (Peck) Singer SPECIES
-=======
+# Krombholzia subglabripes (Peck) Singer SPECIES
 
 #### Status
 ACCEPTED

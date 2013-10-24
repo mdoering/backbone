@@ -1,5 +1,4 @@
-Corethromyces hernandoi Santam. SPECIES
-=======
+# Corethromyces hernandoi Santam. SPECIES
 
 #### Status
 ACCEPTED

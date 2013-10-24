@@ -1,5 +1,4 @@
-Luscinasphaera indistincta Wicander & Wood, 1997 SPECIES
-=======
+# Luscinasphaera indistincta Wicander & Wood, 1997 SPECIES
 
 #### Status
 ACCEPTED

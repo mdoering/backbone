@@ -1,5 +1,4 @@
-Pseudocercospora mulleri Deighton SPECIES
-=======
+# Pseudocercospora mulleri Deighton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria amphibola Sacc. SPECIES
-=======
+# Leptosphaeria amphibola Sacc. SPECIES
 
 #### Status
 ACCEPTED

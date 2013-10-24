@@ -1,5 +1,4 @@
-Penicillium mycetogenum G.P. Martelli & C.L. Negri SPECIES
-=======
+# Penicillium mycetogenum G.P. Martelli & C.L. Negri SPECIES
 
 #### Status
 ACCEPTED

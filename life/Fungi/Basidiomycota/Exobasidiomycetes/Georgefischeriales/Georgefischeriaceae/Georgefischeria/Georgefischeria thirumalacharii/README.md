@@ -1,5 +1,4 @@
-Georgefischeria thirumalacharii Gandhe & K. Gandhe, 2004 SPECIES
-=======
+# Georgefischeria thirumalacharii Gandhe & K. Gandhe, 2004 SPECIES
 
 #### Status
 ACCEPTED

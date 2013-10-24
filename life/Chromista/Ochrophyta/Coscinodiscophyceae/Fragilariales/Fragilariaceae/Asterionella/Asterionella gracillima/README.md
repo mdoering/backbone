@@ -1,5 +1,4 @@
-Asterionella gracillima (Hantzsch) Heiberg SPECIES
-=======
+# Asterionella gracillima (Hantzsch) Heiberg SPECIES
 
 #### Status
 ACCEPTED

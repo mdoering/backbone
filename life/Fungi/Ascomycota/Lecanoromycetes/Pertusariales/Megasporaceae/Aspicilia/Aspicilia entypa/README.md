@@ -1,5 +1,4 @@
-Aspicilia entypa (Kremp.) Hue SPECIES
-=======
+# Aspicilia entypa (Kremp.) Hue SPECIES
 
 #### Status
 ACCEPTED

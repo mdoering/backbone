@@ -1,5 +1,4 @@
-Phyllosticta bougainvilleae Cejp SPECIES
-=======
+# Phyllosticta bougainvilleae Cejp SPECIES
 
 #### Status
 ACCEPTED

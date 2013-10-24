@@ -1,8 +1,7 @@
-Monilia kartulisi (M. Ota) Nann. SPECIES
-=======
+# Monilia kartulisii (M. Ota) Nann. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

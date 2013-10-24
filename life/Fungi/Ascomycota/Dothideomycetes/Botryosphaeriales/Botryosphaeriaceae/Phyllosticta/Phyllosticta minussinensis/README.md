@@ -1,5 +1,4 @@
-Phyllosticta minussinensis Thüm. SPECIES
-=======
+# Phyllosticta minussinensis Thüm. SPECIES
 
 #### Status
 ACCEPTED

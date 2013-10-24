@@ -1,5 +1,4 @@
-Leptogium filiforme Malbr. SPECIES
-=======
+# Leptogium filiforme Malbr. SPECIES
 
 #### Status
 ACCEPTED

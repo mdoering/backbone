@@ -1,5 +1,4 @@
-Kribbella solani Song et al., 2004 SPECIES
-=======
+# Kribbella solani Song et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

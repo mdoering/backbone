@@ -1,5 +1,4 @@
-Septoria lunariae Ellis & Dearn., 1893 SPECIES
-=======
+# Septoria lunariae Ellis & Dearn., 1893 SPECIES
 
 #### Status
 ACCEPTED

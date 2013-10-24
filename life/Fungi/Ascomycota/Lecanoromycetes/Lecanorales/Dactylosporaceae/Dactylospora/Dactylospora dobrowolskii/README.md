@@ -1,5 +1,4 @@
-Dactylospora dobrowolskii Olech & Alstrup SPECIES
-=======
+# Dactylospora dobrowolskii Olech & Alstrup SPECIES
 
 #### Status
 ACCEPTED

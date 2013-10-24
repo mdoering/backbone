@@ -1,5 +1,4 @@
-Cladobotryum longiramosum R.F. Castañeda, 1986 SPECIES
-=======
+# Cladobotryum longiramosum R.F. Castañeda, 1986 SPECIES
 
 #### Status
 ACCEPTED

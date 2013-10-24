@@ -1,5 +1,4 @@
-Xanthoparmelia tsekensis Hale SPECIES
-=======
+# Xanthoparmelia tsekensis Hale SPECIES
 
 #### Status
 ACCEPTED

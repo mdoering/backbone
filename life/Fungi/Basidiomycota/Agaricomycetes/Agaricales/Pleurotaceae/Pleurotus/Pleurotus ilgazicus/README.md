@@ -1,5 +1,4 @@
-Pleurotus ilgazicus Pilát SPECIES
-=======
+# Pleurotus ilgazicus Pilát SPECIES
 
 #### Status
 ACCEPTED

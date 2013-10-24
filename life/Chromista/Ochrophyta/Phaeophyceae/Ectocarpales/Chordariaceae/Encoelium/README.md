@@ -1,5 +1,4 @@
-Encoelium C.A. Agardh, 1820 GENUS
-=======
+# Encoelium C.A. Agardh, 1820 GENUS
 
 #### Status
 ACCEPTED

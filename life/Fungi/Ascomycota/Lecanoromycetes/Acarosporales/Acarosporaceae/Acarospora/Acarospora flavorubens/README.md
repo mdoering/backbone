@@ -1,5 +1,4 @@
-Acarospora flavorubens Bagl. & Carestia SPECIES
-=======
+# Acarospora flavorubens Bagl. & Carestia SPECIES
 
 #### Status
 ACCEPTED

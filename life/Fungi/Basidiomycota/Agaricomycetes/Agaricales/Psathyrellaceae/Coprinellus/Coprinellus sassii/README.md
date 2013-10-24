@@ -1,17 +1,16 @@
-Coprinus ephemerus f. bisporus Sass FORM
-=======
+# Coprinellus sassii (M. Lange & A.H. Sm.) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Redhead, Vilgalys, Moncalvo, Johnson & Hopple, Taxon 50(1): 234 (2001)
 
 #### Original name
-null
+Coprinus sassii M. Lange & A.H. Sm., 1953
 
 ### Remarks
 null

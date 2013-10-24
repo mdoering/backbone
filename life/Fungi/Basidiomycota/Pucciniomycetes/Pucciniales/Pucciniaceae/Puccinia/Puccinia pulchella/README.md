@@ -1,5 +1,4 @@
-Puccinia pulchella Y. Ono & Kakish. SPECIES
-=======
+# Puccinia pulchella Y. Ono & Kakish. SPECIES
 
 #### Status
 ACCEPTED

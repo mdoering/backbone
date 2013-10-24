@@ -1,5 +1,4 @@
-Venenarius cylindrisporus (Beardslee) Murrill SPECIES
-=======
+# Venenarius cylindrisporus (Beardslee) Murrill SPECIES
 
 #### Status
 ACCEPTED

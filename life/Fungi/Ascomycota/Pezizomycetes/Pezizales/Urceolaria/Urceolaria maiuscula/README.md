@@ -1,5 +1,4 @@
-Urceolaria maiuscula Motyka SPECIES
-=======
+# Urceolaria maiuscula Motyka SPECIES
 
 #### Status
 ACCEPTED

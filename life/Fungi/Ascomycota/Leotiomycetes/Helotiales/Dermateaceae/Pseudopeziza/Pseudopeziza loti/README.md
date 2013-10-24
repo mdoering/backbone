@@ -1,5 +1,4 @@
-Pseudopeziza loti Boud. SPECIES
-=======
+# Pseudopeziza loti Boud. SPECIES
 
 #### Status
 ACCEPTED

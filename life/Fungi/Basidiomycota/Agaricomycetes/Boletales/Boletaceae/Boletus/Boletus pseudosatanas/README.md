@@ -1,5 +1,4 @@
-Boletus pseudosatanas J. Blum SPECIES
-=======
+# Boletus pseudosatanas J. Blum SPECIES
 
 #### Status
 ACCEPTED

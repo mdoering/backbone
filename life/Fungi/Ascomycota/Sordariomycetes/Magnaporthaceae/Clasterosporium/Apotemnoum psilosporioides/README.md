@@ -1,5 +1,4 @@
-Apotemnoum psilosporioides Schulzer SPECIES
-=======
+# Apotemnoum psilosporioides Schulzer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichocicinnus tecomae Chardón SPECIES
-=======
+# Trichocicinnus tecomae Chardón SPECIES
 
 #### Status
 ACCEPTED

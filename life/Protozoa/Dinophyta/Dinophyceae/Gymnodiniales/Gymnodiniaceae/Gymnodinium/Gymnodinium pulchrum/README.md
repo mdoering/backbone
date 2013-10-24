@@ -1,5 +1,4 @@
-Gymnodinium pulchrum Schiller SPECIES
-=======
+# Gymnodinium pulchrum Schiller SPECIES
 
 #### Status
 ACCEPTED

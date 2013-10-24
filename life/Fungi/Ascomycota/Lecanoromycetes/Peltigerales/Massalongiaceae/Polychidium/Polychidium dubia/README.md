@@ -1,5 +1,4 @@
-Polychidium dubia (H. Magn.) Vezda SPECIES
-=======
+# Polychidium dubia (H. Magn.) Vezda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectriopsis hyperbiota Samuels, 1988 SPECIES
-=======
+# Nectriopsis hyperbiota Samuels, 1988 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Staurolithites stradneri SPECIES
-=======
+# Staurolithites stradneri SPECIES
 
 #### Status
 ACCEPTED

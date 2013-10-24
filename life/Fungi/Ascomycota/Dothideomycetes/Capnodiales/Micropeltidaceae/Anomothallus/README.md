@@ -1,5 +1,4 @@
-Anomothallus F. Stevens GENUS
-=======
+# Anomothallus F. Stevens GENUS
 
 #### Status
 ACCEPTED

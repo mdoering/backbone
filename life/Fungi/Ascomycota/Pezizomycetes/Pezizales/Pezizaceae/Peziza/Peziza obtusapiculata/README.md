@@ -1,5 +1,4 @@
-Peziza obtusapiculata J. Moravec SPECIES
-=======
+# Peziza obtusapiculata J. Moravec SPECIES
 
 #### Status
 ACCEPTED

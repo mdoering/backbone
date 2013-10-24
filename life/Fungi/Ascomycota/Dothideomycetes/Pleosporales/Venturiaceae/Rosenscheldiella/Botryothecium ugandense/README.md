@@ -1,5 +1,4 @@
-Botryothecium ugandense Syd. SPECIES
-=======
+# Botryothecium ugandense Syd. SPECIES
 
 #### Status
 ACCEPTED

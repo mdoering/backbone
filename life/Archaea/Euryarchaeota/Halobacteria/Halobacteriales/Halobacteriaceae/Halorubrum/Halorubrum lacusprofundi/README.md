@@ -1,8 +1,7 @@
-Halorubrobacterium lacusprofundi (Franzmann et al., 1989) Kamekura & Dyall-Smith, 1996 SPECIES
-=======
+# Halorubrum lacusprofundi (Franzmann et al., 1989) McGenity & Grant, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

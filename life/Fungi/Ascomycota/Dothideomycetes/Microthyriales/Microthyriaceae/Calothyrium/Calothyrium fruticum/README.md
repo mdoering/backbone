@@ -1,5 +1,4 @@
-Calothyrium fruticum Kirschst. SPECIES
-=======
+# Calothyrium fruticum Kirschst. SPECIES
 
 #### Status
 ACCEPTED

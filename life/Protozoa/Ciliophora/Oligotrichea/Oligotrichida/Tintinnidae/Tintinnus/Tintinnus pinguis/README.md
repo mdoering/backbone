@@ -1,5 +1,4 @@
-Tintinnus pinguis Kofoid & Campbell, 1929 SPECIES
-=======
+# Tintinnus pinguis Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

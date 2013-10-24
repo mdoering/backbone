@@ -1,5 +1,4 @@
-Micropsalliota roseovinaceus Pegler SPECIES
-=======
+# Micropsalliota roseovinaceus Pegler SPECIES
 
 #### Status
 ACCEPTED

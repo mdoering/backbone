@@ -1,17 +1,16 @@
-Polyporus vulgaris subsp. vulgaris SUBSPECIES
-=======
+# Cinereomyces vulgaris (Fr.) Spirin, 2005 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Karstenia 45(2): 106 (2005)
 
 #### Original name
-null
+Polyporus vulgaris Fr., 1821
 
 ### Remarks
 null

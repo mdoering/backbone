@@ -1,5 +1,4 @@
-Zanclospora austroamericana B. Sutton & Hodges, 1975 SPECIES
-=======
+# Zanclospora austroamericana B. Sutton & Hodges, 1975 SPECIES
 
 #### Status
 ACCEPTED

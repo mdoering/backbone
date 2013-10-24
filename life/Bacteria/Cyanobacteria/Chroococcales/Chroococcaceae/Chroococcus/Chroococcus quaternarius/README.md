@@ -1,5 +1,4 @@
-Chroococcus quaternarius Zalessky SPECIES
-=======
+# Chroococcus quaternarius Zalessky SPECIES
 
 #### Status
 ACCEPTED

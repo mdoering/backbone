@@ -1,5 +1,4 @@
-Erysiphe verruculosa (Y.N. Yu & Y.Q. Lai) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe verruculosa (Y.N. Yu & Y.Q. Lai) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

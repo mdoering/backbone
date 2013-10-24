@@ -1,5 +1,4 @@
-Baltisphaeridium stipiforme Timofeev, 1959 ex Fensome et al., 1990 SPECIES
-=======
+# Baltisphaeridium stipiforme Timofeev, 1959 ex Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

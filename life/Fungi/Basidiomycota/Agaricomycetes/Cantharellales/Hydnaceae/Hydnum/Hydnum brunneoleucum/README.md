@@ -1,5 +1,4 @@
-Hydnum brunneoleucum Berk. & M.A. Curtis SPECIES
-=======
+# Hydnum brunneoleucum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

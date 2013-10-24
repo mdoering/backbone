@@ -1,5 +1,4 @@
-Patellaria rubricosa Müll. Arg. SPECIES
-=======
+# Patellaria rubricosa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

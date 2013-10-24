@@ -1,5 +1,4 @@
-Cortinarius furfurellus Peck SPECIES
-=======
+# Cortinarius furfurellus Peck SPECIES
 
 #### Status
 ACCEPTED

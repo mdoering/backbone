@@ -1,5 +1,4 @@
-Sporotrichopsis terrestris (Schulzer) Stalpers, 2000 SPECIES
-=======
+# Sporotrichopsis terrestris (Schulzer) Stalpers, 2000 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus pini-sylvestris J. Otto SPECIES
-=======
+# Agaricus pini-sylvestris J. Otto SPECIES
 
 #### Status
 ACCEPTED

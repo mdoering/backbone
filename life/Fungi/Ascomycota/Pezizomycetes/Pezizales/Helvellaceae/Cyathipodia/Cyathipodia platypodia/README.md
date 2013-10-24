@@ -1,5 +1,4 @@
-Cyathipodia platypodia Boud. SPECIES
-=======
+# Cyathipodia platypodia Boud. SPECIES
 
 #### Status
 ACCEPTED

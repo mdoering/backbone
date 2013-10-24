@@ -1,17 +1,16 @@
-Volvaria media var. media (Fr.) Gillet VARIETY
-=======
+# Volvariella media (Schumach.) Singer, 1951 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lilloa 22: 401 (1951)
 
 #### Original name
-Volvaria media var. media (Fr.) Gillet
+Agaricus medius Schumach., 1803
 
 ### Remarks
 null

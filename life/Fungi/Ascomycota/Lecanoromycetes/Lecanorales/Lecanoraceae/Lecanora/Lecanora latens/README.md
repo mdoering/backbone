@@ -1,5 +1,4 @@
-Lecanora latens Printzen SPECIES
-=======
+# Lecanora latens Printzen SPECIES
 
 #### Status
 ACCEPTED

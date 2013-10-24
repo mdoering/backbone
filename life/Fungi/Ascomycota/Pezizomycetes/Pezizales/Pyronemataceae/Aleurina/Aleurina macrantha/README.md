@@ -1,5 +1,4 @@
-Aleurina macrantha Banh. SPECIES
-=======
+# Aleurina macrantha Banh. SPECIES
 
 #### Status
 ACCEPTED

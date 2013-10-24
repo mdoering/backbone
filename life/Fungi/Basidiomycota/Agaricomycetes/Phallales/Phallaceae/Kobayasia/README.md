@@ -1,5 +1,4 @@
-Kobayasia S. Imai & A. Kawam., 1958 GENUS
-=======
+# Kobayasia S. Imai & A. Kawam., 1958 GENUS
 
 #### Status
 ACCEPTED

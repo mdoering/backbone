@@ -1,5 +1,4 @@
-Clavaria rubrofiliformis S. Imai SPECIES
-=======
+# Clavaria rubrofiliformis S. Imai SPECIES
 
 #### Status
 ACCEPTED

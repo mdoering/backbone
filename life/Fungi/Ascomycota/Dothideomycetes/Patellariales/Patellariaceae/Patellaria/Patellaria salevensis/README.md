@@ -1,5 +1,4 @@
-Patellaria salevensis (Müll. Arg.) SPECIES
-=======
+# Patellaria salevensis (Müll. Arg.) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Fusarium falciforme (G. Carrión) Summerb. & Schroers, 2002 SPECIES
-=======
+# Acremonium falciforme (Carrion) W. Gams, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Clin. Microbiol. 40(8): 2872 (2002)
+Cephalosporium-artige Schimmelpilze (Stuttgart) 139 (1971)
 
 #### Original name
 Cephalosporium falciforme G. Carrión, 1951

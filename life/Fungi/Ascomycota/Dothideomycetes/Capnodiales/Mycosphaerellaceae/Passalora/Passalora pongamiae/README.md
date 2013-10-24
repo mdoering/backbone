@@ -1,5 +1,4 @@
-Passalora pongamiae (Syd.) Subram. SPECIES
-=======
+# Passalora pongamiae (Syd.) Subram. SPECIES
 
 #### Status
 ACCEPTED

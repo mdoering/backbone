@@ -1,5 +1,4 @@
-Pyrenopeziza comari Velen. SPECIES
-=======
+# Pyrenopeziza comari Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Hyphoderma insusitata (H.S. Jacks. & Dearden) Ginns SPECIES
-=======
+# Hyphoderma inusitatum (H.S. Jacks. & Dearden) Ginns, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 21: 327 (1984)
 
 #### Original name
 Peniophora inusitata H.S. Jacks. & Dearden, 1949

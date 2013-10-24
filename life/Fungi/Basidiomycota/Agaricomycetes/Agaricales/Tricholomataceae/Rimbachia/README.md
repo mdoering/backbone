@@ -1,8 +1,7 @@
-Mniopetalum Donk & Singer, 1962 GENUS
-=======
+# Rimbachia Patouillard, 1891 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

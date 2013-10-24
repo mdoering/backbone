@@ -1,11 +1,10 @@
-Micrococcus mucilaginosus Migula, 1900 SPECIES
-=======
+# Rothia mucilaginosa (Bergan & Kocur, 1982) Collins et al., 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

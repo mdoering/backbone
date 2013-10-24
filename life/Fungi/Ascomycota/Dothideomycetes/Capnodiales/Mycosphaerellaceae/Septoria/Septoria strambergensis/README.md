@@ -1,5 +1,4 @@
-Septoria strambergensis Picb. SPECIES
-=======
+# Septoria strambergensis Picb. SPECIES
 
 #### Status
 ACCEPTED

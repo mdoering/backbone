@@ -1,5 +1,4 @@
-Thelidium litorale (Leight.) Keissl. SPECIES
-=======
+# Thelidium litorale (Leight.) Keissl. SPECIES
 
 #### Status
 ACCEPTED

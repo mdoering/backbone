@@ -1,5 +1,4 @@
-Rhizocarpon inimicum Poelt & Vezda SPECIES
-=======
+# Rhizocarpon inimicum Poelt & Vezda SPECIES
 
 #### Status
 ACCEPTED

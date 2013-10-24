@@ -1,5 +1,4 @@
-Textularia recta Cushman, 1923 SPECIES
-=======
+# Textularia recta Cushman, 1923 SPECIES
 
 #### Status
 ACCEPTED

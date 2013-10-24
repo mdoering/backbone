@@ -1,5 +1,4 @@
-Anellaria atramentaria Speg. SPECIES
-=======
+# Anellaria atramentaria Speg. SPECIES
 
 #### Status
 ACCEPTED

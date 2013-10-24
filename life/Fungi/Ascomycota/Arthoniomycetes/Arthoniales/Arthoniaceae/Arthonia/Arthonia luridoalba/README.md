@@ -1,5 +1,4 @@
-Arthonia luridoalba Nyl. SPECIES
-=======
+# Arthonia luridoalba Nyl. SPECIES
 
 #### Status
 ACCEPTED

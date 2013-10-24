@@ -1,5 +1,4 @@
-Dactylella pseudoclavata Z.Q. Miao & Xing Z. Liu SPECIES
-=======
+# Dactylella pseudoclavata Z.Q. Miao & Xing Z. Liu SPECIES
 
 #### Status
 ACCEPTED

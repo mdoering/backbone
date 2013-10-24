@@ -1,5 +1,4 @@
-Ditiola obliqua (Massee) Rea SPECIES
-=======
+# Ditiola obliqua (Massee) Rea SPECIES
 
 #### Status
 ACCEPTED

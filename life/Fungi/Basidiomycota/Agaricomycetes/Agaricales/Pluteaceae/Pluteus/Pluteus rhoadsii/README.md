@@ -1,5 +1,4 @@
-Pluteus rhoadsii Murrill SPECIES
-=======
+# Pluteus rhoadsii Murrill SPECIES
 
 #### Status
 ACCEPTED

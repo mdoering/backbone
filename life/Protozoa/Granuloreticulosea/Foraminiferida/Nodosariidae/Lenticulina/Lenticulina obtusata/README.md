@@ -1,5 +1,4 @@
-Lenticulina obtusata SPECIES
-=======
+# Lenticulina obtusata SPECIES
 
 #### Status
 ACCEPTED

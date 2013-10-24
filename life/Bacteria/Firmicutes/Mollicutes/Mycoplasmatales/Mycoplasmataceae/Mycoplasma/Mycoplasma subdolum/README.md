@@ -1,5 +1,4 @@
-Mycoplasma subdolum Lemcke and Kirchhoff, 1979 (Approved Lists, 1980) SPECIES
-=======
+# Mycoplasma subdolum Lemcke and Kirchhoff, 1979 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

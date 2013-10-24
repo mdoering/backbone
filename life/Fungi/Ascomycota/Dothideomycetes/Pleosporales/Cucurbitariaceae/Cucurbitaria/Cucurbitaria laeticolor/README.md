@@ -1,5 +1,4 @@
-Cucurbitaria laeticolor (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Cucurbitaria laeticolor (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

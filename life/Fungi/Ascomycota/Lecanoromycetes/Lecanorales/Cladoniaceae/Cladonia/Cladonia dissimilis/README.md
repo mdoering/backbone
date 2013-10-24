@@ -1,5 +1,4 @@
-Cladonia dissimilis Asahina SPECIES
-=======
+# Cladonia dissimilis Asahina SPECIES
 
 #### Status
 ACCEPTED

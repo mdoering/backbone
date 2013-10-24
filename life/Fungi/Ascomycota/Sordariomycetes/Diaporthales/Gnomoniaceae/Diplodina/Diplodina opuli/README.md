@@ -1,5 +1,4 @@
-Diplodina opuli (Oudem.) Allesch. SPECIES
-=======
+# Diplodina opuli (Oudem.) Allesch. SPECIES
 
 #### Status
 ACCEPTED

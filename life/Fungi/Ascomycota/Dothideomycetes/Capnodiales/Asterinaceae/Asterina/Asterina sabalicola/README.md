@@ -1,5 +1,4 @@
-Asterina sabalicola Earle SPECIES
-=======
+# Asterina sabalicola Earle SPECIES
 
 #### Status
 ACCEPTED

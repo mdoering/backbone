@@ -1,5 +1,4 @@
-Wettsteinina luzulae Shoemaker & C.E. Babc. SPECIES
-=======
+# Wettsteinina luzulae Shoemaker & C.E. Babc. SPECIES
 
 #### Status
 ACCEPTED

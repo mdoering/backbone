@@ -1,5 +1,4 @@
-Stenotrophomonas africana Drancourt et al., 1997 SPECIES
-=======
+# Stenotrophomonas africana Drancourt et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

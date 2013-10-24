@@ -1,5 +1,4 @@
-Neoerysiphe hiratae V.P. Heluta & S. Takam., 2010 SPECIES
-=======
+# Neoerysiphe hiratae V.P. Heluta & S. Takam., 2010 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lentinia wetzelii (Morgenroth, 1966) Bujak in Bujak et al. SPECIES
-=======
+# Lentinia wetzelii (Morgenroth, 1966) Bujak in Bujak et al. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Monomastix Diesing, 1848 GENUS
-=======
+# Monomastix Diesing, 1848 GENUS
 
 #### Status
 ACCEPTED

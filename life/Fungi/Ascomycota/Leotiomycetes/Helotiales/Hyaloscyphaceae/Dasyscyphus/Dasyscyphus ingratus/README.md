@@ -1,17 +1,16 @@
-Dasyscypha ingratus Velen. SPECIES
-=======
+# Dasyscyphus ingratus Velen. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Monogr. Discom. Bohem. (Prague) 409 (1934)
 
 #### Original name
-Dasyscypha ingratus Velen.
+Dasyscyphus ingratus Velen.
 
 ### Remarks
 null

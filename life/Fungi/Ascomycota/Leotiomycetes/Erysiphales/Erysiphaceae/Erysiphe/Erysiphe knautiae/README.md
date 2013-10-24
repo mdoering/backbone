@@ -1,5 +1,4 @@
-Erysiphe knautiae Duby, 1830 SPECIES
-=======
+# Erysiphe knautiae Duby, 1830 SPECIES
 
 #### Status
 ACCEPTED

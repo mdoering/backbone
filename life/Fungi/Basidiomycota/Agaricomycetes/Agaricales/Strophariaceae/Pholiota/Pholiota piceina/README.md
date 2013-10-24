@@ -1,5 +1,4 @@
-Pholiota piceina (Murrill) A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota piceina (Murrill) A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

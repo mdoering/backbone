@@ -1,5 +1,4 @@
-Opegrapha phoenicicola (Jatta) Jatta SPECIES
-=======
+# Opegrapha phoenicicola (Jatta) Jatta SPECIES
 
 #### Status
 ACCEPTED

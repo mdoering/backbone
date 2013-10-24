@@ -1,14 +1,13 @@
-Camposporium aquaticum Dudka, 1966 SPECIES
-=======
+# Xylomyces aquaticus (Dudka) K.D. Hyde & Goh, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ukr. bot. Zh. 23: 91 (1966)
+Mycol. Res. 103(12): 1573 (1999)
 
 #### Original name
 Camposporium aquaticum Dudka, 1966

@@ -1,5 +1,4 @@
-Aleuria quitensis Pat. SPECIES
-=======
+# Aleuria quitensis Pat. SPECIES
 
 #### Status
 ACCEPTED

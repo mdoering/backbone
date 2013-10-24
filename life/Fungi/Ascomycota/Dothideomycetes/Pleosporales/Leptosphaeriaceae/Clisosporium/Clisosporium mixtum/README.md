@@ -1,5 +1,4 @@
-Clisosporium mixtum (Fuckel) Kuntze SPECIES
-=======
+# Clisosporium mixtum (Fuckel) Kuntze SPECIES
 
 #### Status
 ACCEPTED

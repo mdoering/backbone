@@ -1,5 +1,4 @@
-Sphaerella subalpina Sacc. SPECIES
-=======
+# Sphaerella subalpina Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stagonospora erythrinae Sawada SPECIES
-=======
+# Stagonospora erythrinae Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phymatotrichum gossypinum Bres. SPECIES
-=======
+# Phymatotrichum gossypinum Bres. SPECIES
 
 #### Status
 ACCEPTED

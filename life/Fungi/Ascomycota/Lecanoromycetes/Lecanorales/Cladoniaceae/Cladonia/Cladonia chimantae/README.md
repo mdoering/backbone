@@ -1,5 +1,4 @@
-Cladonia chimantae Ahti SPECIES
-=======
+# Cladonia chimantae Ahti SPECIES
 
 #### Status
 ACCEPTED

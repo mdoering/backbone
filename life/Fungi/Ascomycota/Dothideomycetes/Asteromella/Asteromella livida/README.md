@@ -1,5 +1,4 @@
-Asteromella livida (Ellis & Everh.) Petr. SPECIES
-=======
+# Asteromella livida (Ellis & Everh.) Petr. SPECIES
 
 #### Status
 ACCEPTED

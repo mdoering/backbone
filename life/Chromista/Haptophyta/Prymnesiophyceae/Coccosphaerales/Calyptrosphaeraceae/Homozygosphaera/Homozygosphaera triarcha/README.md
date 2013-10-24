@@ -1,5 +1,4 @@
-Homozygosphaera triarcha Halldal & Markali SPECIES
-=======
+# Homozygosphaera triarcha Halldal & Markali SPECIES
 
 #### Status
 ACCEPTED

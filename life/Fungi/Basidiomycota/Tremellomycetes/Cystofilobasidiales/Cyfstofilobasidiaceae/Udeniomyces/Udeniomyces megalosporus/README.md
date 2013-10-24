@@ -1,14 +1,13 @@
-Bullera megalospora Nakase & M. Suzuki, 1986 SPECIES
-=======
+# Udeniomyces megalosporus (Nakase & M. Suzuki) Nakase & Takem., 1992 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. gen. appl. Microbiol. , Tokyo 32(3): 235 (1986)
+FEMS Microbiol. Lett. 100(1-3): 499 (1992)
 
 #### Original name
 Bullera megalospora Nakase & M. Suzuki, 1986

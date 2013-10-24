@@ -1,5 +1,4 @@
-Buellia hypoleuca H. Magn. SPECIES
-=======
+# Buellia hypoleuca H. Magn. SPECIES
 
 #### Status
 ACCEPTED

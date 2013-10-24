@@ -1,5 +1,4 @@
-Gloniopsis macrospora N. Amano SPECIES
-=======
+# Gloniopsis macrospora N. Amano SPECIES
 
 #### Status
 ACCEPTED

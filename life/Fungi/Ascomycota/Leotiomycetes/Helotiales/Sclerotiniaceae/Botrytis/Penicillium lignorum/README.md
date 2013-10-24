@@ -1,5 +1,4 @@
-Penicillium lignorum Stolk, 1969 SPECIES
-=======
+# Penicillium lignorum Stolk, 1969 SPECIES
 
 #### Status
 DOUBTFUL

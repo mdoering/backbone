@@ -1,5 +1,4 @@
-Camarosporium pseudacaciae Brunaud SPECIES
-=======
+# Camarosporium pseudacaciae Brunaud SPECIES
 
 #### Status
 ACCEPTED

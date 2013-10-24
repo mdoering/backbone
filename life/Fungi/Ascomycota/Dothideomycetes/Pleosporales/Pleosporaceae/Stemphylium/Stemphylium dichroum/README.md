@@ -1,5 +1,4 @@
-Stemphylium dichroum Petr. SPECIES
-=======
+# Stemphylium dichroum Petr. SPECIES
 
 #### Status
 ACCEPTED

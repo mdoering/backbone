@@ -1,5 +1,4 @@
-Gloeotromera pululahuana (Pat.) Ervin SPECIES
-=======
+# Gloeotromera pululahuana (Pat.) Ervin SPECIES
 
 #### Status
 ACCEPTED

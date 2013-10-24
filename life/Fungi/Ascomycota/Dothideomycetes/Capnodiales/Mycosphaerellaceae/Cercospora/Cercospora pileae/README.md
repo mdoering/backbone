@@ -1,5 +1,4 @@
-Cercospora pileae T.L. Tai SPECIES
-=======
+# Cercospora pileae T.L. Tai SPECIES
 
 #### Status
 ACCEPTED

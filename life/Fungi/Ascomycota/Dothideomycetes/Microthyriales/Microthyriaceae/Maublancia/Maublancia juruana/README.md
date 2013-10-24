@@ -1,5 +1,4 @@
-Maublancia juruana (Henn.) G. Arnaud SPECIES
-=======
+# Maublancia juruana (Henn.) G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

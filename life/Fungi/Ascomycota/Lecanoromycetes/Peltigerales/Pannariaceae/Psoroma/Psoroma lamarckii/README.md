@@ -1,5 +1,4 @@
-Psoroma lamarckii (DC.) Körb. SPECIES
-=======
+# Psoroma lamarckii (DC.) Körb. SPECIES
 
 #### Status
 ACCEPTED

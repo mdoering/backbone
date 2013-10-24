@@ -1,5 +1,4 @@
-Didymosphaeria tonavalensis Sathe & K.M. Mogarkar SPECIES
-=======
+# Didymosphaeria tonavalensis Sathe & K.M. Mogarkar SPECIES
 
 #### Status
 ACCEPTED

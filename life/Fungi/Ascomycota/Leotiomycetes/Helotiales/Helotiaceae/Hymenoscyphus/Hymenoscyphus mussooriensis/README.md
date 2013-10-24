@@ -1,5 +1,4 @@
-Hymenoscyphus mussooriensis (K.S. Thind & Saini) K.S. Thind & M.P. Sharma SPECIES
-=======
+# Hymenoscyphus mussooriensis (K.S. Thind & Saini) K.S. Thind & M.P. Sharma SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma rancidissimum E. Horak SPECIES
-=======
+# Entoloma rancidissimum E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniosporium fructigenum Corda SPECIES
-=======
+# Coniosporium fructigenum Corda SPECIES
 
 #### Status
 ACCEPTED

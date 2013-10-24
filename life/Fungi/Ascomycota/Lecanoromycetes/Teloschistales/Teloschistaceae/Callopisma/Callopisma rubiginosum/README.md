@@ -1,5 +1,4 @@
-Callopisma rubiginosum (Kremp.) SPECIES
-=======
+# Callopisma rubiginosum (Kremp.) SPECIES
 
 #### Status
 ACCEPTED

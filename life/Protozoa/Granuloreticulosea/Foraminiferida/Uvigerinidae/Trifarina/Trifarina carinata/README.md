@@ -1,11 +1,10 @@
-Angulogerina carinata Cushman, 1927 SPECIES
-=======
+# Trifarina carinata (Cushman, 1923) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

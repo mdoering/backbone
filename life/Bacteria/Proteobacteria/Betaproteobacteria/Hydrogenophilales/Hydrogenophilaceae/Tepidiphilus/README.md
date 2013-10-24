@@ -1,5 +1,4 @@
-Tepidiphilus Manaia, Nogales & Nunes, 2003 GENUS
-=======
+# Tepidiphilus Manaia, Nogales & Nunes, 2003 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hebeloma albidulum Peck SPECIES
-=======
+# Hebeloma albidulum Peck SPECIES
 
 #### Status
 ACCEPTED

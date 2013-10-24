@@ -1,5 +1,4 @@
-Sigmoidella bacomensis Yabe & Asano SPECIES
-=======
+# Sigmoidella bacomensis Yabe & Asano SPECIES
 
 #### Status
 ACCEPTED

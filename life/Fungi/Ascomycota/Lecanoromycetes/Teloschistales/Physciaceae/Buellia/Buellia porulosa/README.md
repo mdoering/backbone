@@ -1,5 +1,4 @@
-Buellia porulosa Müll. Arg. SPECIES
-=======
+# Buellia porulosa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

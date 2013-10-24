@@ -1,5 +1,4 @@
-Rhabdospora elettariae Penz. & Sacc. SPECIES
-=======
+# Rhabdospora elettariae Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Valsa oleifera Tul. & C. Tul. SPECIES
-=======
+# Valsa oleifera Tul. & C. Tul. SPECIES
 
 #### Status
 ACCEPTED

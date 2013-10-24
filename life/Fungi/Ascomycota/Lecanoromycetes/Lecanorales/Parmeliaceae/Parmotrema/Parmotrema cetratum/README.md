@@ -1,5 +1,4 @@
-Parmotrema cetratum subsp. cetratum SUBSPECIES
-=======
+# Parmotrema cetratum SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Phytologia 28: 335 (1974)
+null
 
 #### Original name
-Parmotrema cetratum subsp. cetratum
+null
 
 ### Remarks
 null

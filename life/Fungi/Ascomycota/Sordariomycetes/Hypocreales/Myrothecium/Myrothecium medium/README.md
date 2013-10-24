@@ -1,5 +1,4 @@
-Myrothecium medium Sacc. & G. Winter SPECIES
-=======
+# Myrothecium medium Sacc. & G. Winter SPECIES
 
 #### Status
 ACCEPTED

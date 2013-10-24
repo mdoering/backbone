@@ -1,5 +1,4 @@
-Pterygiopsis concordatula (Nyl.) P.M. Jørg. SPECIES
-=======
+# Pterygiopsis concordatula (Nyl.) P.M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

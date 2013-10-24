@@ -1,5 +1,4 @@
-Ductifera pululahuana (Pat.) Donk SPECIES
-=======
+# Ductifera pululahuana (Pat.) Donk SPECIES
 
 #### Status
 ACCEPTED

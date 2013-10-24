@@ -1,5 +1,4 @@
-Streptomyces violaceorubidus Terekhova, 1986 SPECIES
-=======
+# Streptomyces violaceorubidus Terekhova, 1986 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyedryxium sarjeantii Slavíková, 1968 SPECIES
-=======
+# Polyedryxium sarjeantii Slavíková, 1968 SPECIES
 
 #### Status
 ACCEPTED

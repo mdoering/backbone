@@ -1,14 +1,13 @@
-Poikiloderma bufonium (Berk. & Broome) Füisting, 1868 SPECIES
-=======
+# Amphisphaeria bufonia (Berk. & Broome) Ces. & De Not., 1863 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Ztg. 26: 369 (1868)
+Comm. Soc. crittog. Ital. 1: 224 (1863)
 
 #### Original name
 Sphaeria bufonia Berk. & Broome, 1852

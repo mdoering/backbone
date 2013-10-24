@@ -1,5 +1,4 @@
-Rhodocybe reticulata (Cleland) E. Horak SPECIES
-=======
+# Rhodocybe reticulata (Cleland) E. Horak SPECIES
 
 #### Status
 ACCEPTED

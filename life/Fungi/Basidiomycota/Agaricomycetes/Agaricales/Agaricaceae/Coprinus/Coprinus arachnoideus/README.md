@@ -1,5 +1,4 @@
-Coprinus arachnoideus Bogart SPECIES
-=======
+# Coprinus arachnoideus Bogart SPECIES
 
 #### Status
 ACCEPTED

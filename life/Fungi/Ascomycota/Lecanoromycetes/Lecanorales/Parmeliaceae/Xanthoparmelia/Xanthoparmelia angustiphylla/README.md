@@ -1,5 +1,4 @@
-Xanthoparmelia angustiphylla (Gyeln.) Hale SPECIES
-=======
+# Xanthoparmelia angustiphylla (Gyeln.) Hale SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Plectania infundibulum Hazsl. SPECIES
-=======
+# Plectania infundibulum Hazsl. SPECIES
 
 #### Status
 ACCEPTED

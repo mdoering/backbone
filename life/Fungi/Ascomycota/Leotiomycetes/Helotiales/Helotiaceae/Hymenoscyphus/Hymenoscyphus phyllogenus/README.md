@@ -1,14 +1,13 @@
-Helotium phyllogenum Rehm, 1885 SPECIES
-=======
+# Hymenoscyphus phyllogenus (Rehm) Kuntze, 1898 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ascomyceten 16: 7 & no. 768 (1885)
+Revis. gen. pl. (Leipzig) 3(2): 486 (1898)
 
 #### Original name
 Helotium phyllogenum Rehm, 1885

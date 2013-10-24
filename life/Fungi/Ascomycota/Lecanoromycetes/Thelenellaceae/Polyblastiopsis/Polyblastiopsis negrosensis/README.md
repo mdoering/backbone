@@ -1,5 +1,4 @@
-Polyblastiopsis negrosensis Herre SPECIES
-=======
+# Polyblastiopsis negrosensis Herre SPECIES
 
 #### Status
 ACCEPTED

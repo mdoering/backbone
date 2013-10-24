@@ -1,5 +1,4 @@
-Collybia pruni Podzimek {?} SPECIES
-=======
+# Collybia pruni Podzimek {?} SPECIES
 
 #### Status
 ACCEPTED

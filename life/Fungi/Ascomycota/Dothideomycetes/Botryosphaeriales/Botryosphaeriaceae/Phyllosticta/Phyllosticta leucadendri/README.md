@@ -1,5 +1,4 @@
-Phyllosticta leucadendri Henn. SPECIES
-=======
+# Phyllosticta leucadendri Henn. SPECIES
 
 #### Status
 ACCEPTED

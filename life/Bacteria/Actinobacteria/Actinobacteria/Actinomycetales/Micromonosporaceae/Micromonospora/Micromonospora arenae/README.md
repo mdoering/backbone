@@ -1,5 +1,4 @@
-Micromonospora arenae Kirby & Meyers, 2007 SPECIES
-=======
+# Micromonospora arenae Kirby & Meyers, 2007 SPECIES
 
 #### Status
 ACCEPTED

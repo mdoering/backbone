@@ -1,5 +1,4 @@
-Phloeospora phyllarthri Tassi SPECIES
-=======
+# Phloeospora phyllarthri Tassi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cribraria macrospora Nowotny & H. Neubert, 1993 SPECIES
-=======
+# Cribraria macrospora Nowotny & H. Neubert, 1993 SPECIES
 
 #### Status
 ACCEPTED

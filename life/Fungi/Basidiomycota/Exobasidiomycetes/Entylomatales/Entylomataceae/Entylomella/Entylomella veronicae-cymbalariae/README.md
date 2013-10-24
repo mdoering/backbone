@@ -1,5 +1,4 @@
-Entylomella veronicae-cymbalariae U. Braun & Chevassut SPECIES
-=======
+# Entylomella veronicae-cymbalariae U. Braun & Chevassut SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Colletotrichum domingense Cash SPECIES
-=======
+# Colletotrichum domingense Cash SPECIES
 
 #### Status
 ACCEPTED

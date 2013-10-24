@@ -1,5 +1,4 @@
-Merismopedia gardneri (Collins) Setchell SPECIES
-=======
+# Merismopedia gardneri (Collins) Setchell SPECIES
 
 #### Status
 ACCEPTED

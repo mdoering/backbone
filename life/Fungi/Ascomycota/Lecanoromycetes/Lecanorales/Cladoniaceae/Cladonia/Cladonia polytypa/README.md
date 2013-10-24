@@ -1,5 +1,4 @@
-Cladonia polytypa Vain. SPECIES
-=======
+# Cladonia polytypa Vain. SPECIES
 
 #### Status
 ACCEPTED

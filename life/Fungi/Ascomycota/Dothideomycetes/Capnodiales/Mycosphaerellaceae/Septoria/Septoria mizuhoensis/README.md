@@ -1,5 +1,4 @@
-Septoria mizuhoensis Sawada SPECIES
-=======
+# Septoria mizuhoensis Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endodermophyton mansonii (Castell.) Brumpt SPECIES
-=======
+# Endodermophyton mansonii (Castell.) Brumpt SPECIES
 
 #### Status
 ACCEPTED

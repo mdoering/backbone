@@ -1,5 +1,4 @@
-Leptosphaeria tornatospora Petch SPECIES
-=======
+# Leptosphaeria tornatospora Petch SPECIES
 
 #### Status
 ACCEPTED

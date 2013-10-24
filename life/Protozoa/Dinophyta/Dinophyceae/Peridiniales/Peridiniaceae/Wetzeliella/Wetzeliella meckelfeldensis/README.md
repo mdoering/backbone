@@ -1,5 +1,4 @@
-Wetzeliella meckelfeldensis Gocht, 1969 SPECIES
-=======
+# Wetzeliella meckelfeldensis Gocht, 1969 SPECIES
 
 #### Status
 ACCEPTED

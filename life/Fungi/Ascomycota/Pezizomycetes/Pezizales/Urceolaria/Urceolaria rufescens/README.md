@@ -1,5 +1,4 @@
-Urceolaria rufescens (Ach.) Hook. SPECIES
-=======
+# Urceolaria rufescens (Ach.) Hook. SPECIES
 
 #### Status
 ACCEPTED

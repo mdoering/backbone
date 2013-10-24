@@ -1,5 +1,4 @@
-Trichosphaeria erythrella (Wallr.) Fuckel SPECIES
-=======
+# Trichosphaeria erythrella (Wallr.) Fuckel SPECIES
 
 #### Status
 ACCEPTED

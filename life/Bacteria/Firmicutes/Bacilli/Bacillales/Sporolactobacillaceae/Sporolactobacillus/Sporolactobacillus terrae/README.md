@@ -1,5 +1,4 @@
-Sporolactobacillus terrae Yanagida et al., 1997 SPECIES
-=======
+# Sporolactobacillus terrae Yanagida et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

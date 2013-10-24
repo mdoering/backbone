@@ -1,5 +1,4 @@
-Cortinarius lignarius Peck SPECIES
-=======
+# Cortinarius lignarius Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula multicolor J. Blum ex Bon SPECIES
-=======
+# Russula multicolor J. Blum ex Bon SPECIES
 
 #### Status
 ACCEPTED

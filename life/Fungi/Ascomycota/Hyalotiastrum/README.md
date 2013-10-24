@@ -1,5 +1,4 @@
-Hyalotiastrum Abbas, B. Sutton, Ghaffar & Abbas GENUS
-=======
+# Hyalotiastrum Abbas, B. Sutton, Ghaffar & Abbas GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Wahlenbergiella GENUS
-=======
+# Wahlenbergiella GENUS
 
 #### Status
 ACCEPTED

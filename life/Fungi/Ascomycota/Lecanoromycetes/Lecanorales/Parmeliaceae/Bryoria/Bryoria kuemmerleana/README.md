@@ -1,5 +1,4 @@
-Bryoria kuemmerleana (Gyeln.) Brodo & D. Hawksw. SPECIES
-=======
+# Bryoria kuemmerleana (Gyeln.) Brodo & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

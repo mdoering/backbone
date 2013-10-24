@@ -1,5 +1,4 @@
-Isaria odora Raf. SPECIES
-=======
+# Isaria odora Raf. SPECIES
 
 #### Status
 ACCEPTED

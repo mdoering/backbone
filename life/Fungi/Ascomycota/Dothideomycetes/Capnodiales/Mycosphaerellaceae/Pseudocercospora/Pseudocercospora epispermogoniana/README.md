@@ -1,5 +1,4 @@
-Pseudocercospora epispermogoniana Crous & M.J. Wingf. SPECIES
-=======
+# Pseudocercospora epispermogoniana Crous & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

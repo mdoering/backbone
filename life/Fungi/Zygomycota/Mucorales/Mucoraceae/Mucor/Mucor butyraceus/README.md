@@ -1,5 +1,4 @@
-Mucor butyraceus Schaeff. SPECIES
-=======
+# Mucor butyraceus Schaeff. SPECIES
 
 #### Status
 ACCEPTED

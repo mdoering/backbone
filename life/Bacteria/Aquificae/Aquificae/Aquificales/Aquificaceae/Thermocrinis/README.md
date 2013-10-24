@@ -1,5 +1,4 @@
-Thermocrinis Huber et al., 1999 GENUS
-=======
+# Thermocrinis Huber et al., 1999 GENUS
 
 #### Status
 ACCEPTED

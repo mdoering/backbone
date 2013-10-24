@@ -1,5 +1,4 @@
-Cassidulinoides Cushman, 1927 GENUS
-=======
+# Cassidulinoides Cushman, 1927 GENUS
 
 #### Status
 ACCEPTED

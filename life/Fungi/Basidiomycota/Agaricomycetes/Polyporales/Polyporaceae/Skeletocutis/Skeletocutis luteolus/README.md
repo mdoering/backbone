@@ -1,5 +1,4 @@
-Skeletocutis luteolus B.K. Cui & Y.C. Dai SPECIES
-=======
+# Skeletocutis luteolus B.K. Cui & Y.C. Dai SPECIES
 
 #### Status
 ACCEPTED

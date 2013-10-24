@@ -1,5 +1,4 @@
-Coprinus lugubris Risso SPECIES
-=======
+# Coprinus lugubris Risso SPECIES
 
 #### Status
 ACCEPTED

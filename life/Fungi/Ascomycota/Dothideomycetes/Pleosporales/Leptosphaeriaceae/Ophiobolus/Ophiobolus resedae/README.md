@@ -1,5 +1,4 @@
-Ophiobolus resedae Pass. SPECIES
-=======
+# Ophiobolus resedae Pass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spiniferites cingulatus (O. Wetzel, 1933) Sarjeant SPECIES
-=======
+# Spiniferites cingulatus (O. Wetzel, 1933) Sarjeant SPECIES
 
 #### Status
 ACCEPTED

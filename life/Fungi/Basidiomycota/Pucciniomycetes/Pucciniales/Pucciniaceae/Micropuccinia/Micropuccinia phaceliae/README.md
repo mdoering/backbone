@@ -1,5 +1,4 @@
-Micropuccinia phaceliae (P. Syd., Syd. & Holw.) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia phaceliae (P. Syd., Syd. & Holw.) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

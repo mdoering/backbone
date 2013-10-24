@@ -1,5 +1,4 @@
-Rhizoplaca glaucophana (Hasse) W. A. Weber SPECIES
-=======
+# Rhizoplaca glaucophana (Hasse) W. A. Weber SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pomatodinium Cochon & Cochon-Enjumet, 1966 GENUS
-=======
+# Pomatodinium Cochon & Cochon-Enjumet, 1966 GENUS
 
 #### Status
 ACCEPTED

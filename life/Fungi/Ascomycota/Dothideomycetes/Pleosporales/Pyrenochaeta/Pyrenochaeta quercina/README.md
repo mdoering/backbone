@@ -1,5 +1,4 @@
-Pyrenochaeta quercina Kabát & Bubák, 1912 SPECIES
-=======
+# Pyrenochaeta quercina Kabát & Bubák, 1912 SPECIES
 
 #### Status
 ACCEPTED

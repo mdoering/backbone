@@ -1,5 +1,4 @@
-Trichaegum culmorum Cooke SPECIES
-=======
+# Trichaegum culmorum Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Merisma angustatum Lév. SPECIES
-=======
+# Merisma angustatum Lév. SPECIES
 
 #### Status
 ACCEPTED

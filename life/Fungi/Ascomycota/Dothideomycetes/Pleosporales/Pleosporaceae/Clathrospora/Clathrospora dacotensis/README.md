@@ -1,5 +1,4 @@
-Clathrospora dacotensis (Rehm) Höhn. SPECIES
-=======
+# Clathrospora dacotensis (Rehm) Höhn. SPECIES
 
 #### Status
 ACCEPTED

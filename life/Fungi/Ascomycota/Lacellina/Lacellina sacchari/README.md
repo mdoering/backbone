@@ -1,5 +1,4 @@
-Lacellina sacchari Bat. SPECIES
-=======
+# Lacellina sacchari Bat. SPECIES
 
 #### Status
 ACCEPTED

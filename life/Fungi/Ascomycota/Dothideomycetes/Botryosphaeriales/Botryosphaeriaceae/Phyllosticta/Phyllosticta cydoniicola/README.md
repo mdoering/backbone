@@ -1,17 +1,16 @@
-Phyllosticta cydoniaecola Allesch. SPECIES
-=======
+# Phyllosticta cydoniicola Allesch. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hedwigia 41: 114 (1902)
 
 #### Original name
-Phyllosticta cydoniaecola Allesch.
+Phyllosticta cydoniicola Allesch.
 
 ### Remarks
 null

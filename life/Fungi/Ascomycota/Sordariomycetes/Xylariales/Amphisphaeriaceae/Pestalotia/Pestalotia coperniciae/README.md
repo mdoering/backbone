@@ -1,5 +1,4 @@
-Pestalotia coperniciae Speg. SPECIES
-=======
+# Pestalotia coperniciae Speg. SPECIES
 
 #### Status
 ACCEPTED

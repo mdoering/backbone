@@ -1,5 +1,4 @@
-Bryopogon abietinus Bystrek SPECIES
-=======
+# Bryopogon abietinus Bystrek SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Oidium bullatum Berk. & Broome, 1855 SPECIES
-=======
+# Taphrina bullata (Berk. & Broome) Tul., 1866 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. hort. Soc. , London 48 (1855)
+Annls Sci. Nat. , Bot. , sér. 5 5: 122 (1866)
 
 #### Original name
-Oidium bullatum Berk. & Broome, 1855
+Ascomyces bullatus Berk., 1857
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Placodium peruvianum Müll. Arg. SPECIES
-=======
+# Placodium peruvianum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

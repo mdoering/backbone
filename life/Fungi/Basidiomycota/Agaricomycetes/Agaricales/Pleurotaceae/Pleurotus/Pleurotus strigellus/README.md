@@ -1,5 +1,4 @@
-Pleurotus strigellus (Berk.) Sacc. SPECIES
-=======
+# Pleurotus strigellus (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psathyrella fagetorum A.H. Sm. SPECIES
-=======
+# Psathyrella fagetorum A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

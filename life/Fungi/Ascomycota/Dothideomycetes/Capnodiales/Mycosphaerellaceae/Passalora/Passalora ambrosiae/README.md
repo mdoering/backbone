@@ -1,5 +1,4 @@
-Passalora ambrosiae (Chupp) Crous & U. Braun SPECIES
-=======
+# Passalora ambrosiae (Chupp) Crous & U. Braun SPECIES
 
 #### Status
 ACCEPTED

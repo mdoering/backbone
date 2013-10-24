@@ -1,5 +1,4 @@
-Cylindrospermum trichotosporum Fremy SPECIES
-=======
+# Cylindrospermum trichotosporum Fremy SPECIES
 
 #### Status
 ACCEPTED

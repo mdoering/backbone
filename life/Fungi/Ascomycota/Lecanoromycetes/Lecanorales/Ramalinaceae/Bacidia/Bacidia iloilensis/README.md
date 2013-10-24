@@ -1,5 +1,4 @@
-Bacidia iloilensis (Vain.) SPECIES
-=======
+# Bacidia iloilensis (Vain.) SPECIES
 
 #### Status
 ACCEPTED

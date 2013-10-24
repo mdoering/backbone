@@ -1,8 +1,7 @@
-Phyllachora donacina Rehm, 1914 SPECIES
-=======
+# Phyllachora atrofigurans Rehm, 1913 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

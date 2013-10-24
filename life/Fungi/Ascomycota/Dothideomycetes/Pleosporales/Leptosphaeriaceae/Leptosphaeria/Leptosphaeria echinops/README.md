@@ -1,5 +1,4 @@
-Leptosphaeria echinops (Hazsl.) Sacc. SPECIES
-=======
+# Leptosphaeria echinops (Hazsl.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

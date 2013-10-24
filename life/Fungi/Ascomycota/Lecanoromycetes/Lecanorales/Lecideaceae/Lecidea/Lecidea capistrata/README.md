@@ -1,5 +1,4 @@
-Lecidea capistrata Darb. SPECIES
-=======
+# Lecidea capistrata Darb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Sphaerophragmium fimbriatum var. fimbriatum Mains, 1935 VARIETY
-=======
+# Sphaerophragmium fimbriatum Mains, 1935 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Carnegie Inst. Wash. Publ. 461: 96 (1935)
 
 #### Original name
-Sphaerophragmium fimbriatum var. fimbriatum Mains, 1935
+Sphaerophragmium fimbriatum Mains, 1935
 
 ### Remarks
 null

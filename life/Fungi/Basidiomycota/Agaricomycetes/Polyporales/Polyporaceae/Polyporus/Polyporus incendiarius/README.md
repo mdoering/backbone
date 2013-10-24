@@ -1,14 +1,13 @@
-Polyporellus brumalis var. incendiarius (Bong.) Pilát, 1936 VARIETY
-=======
+# Polyporus incendiarius (Bong.) Fr., 1838 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 51(3-4): 352 (1936)
+in Weinmann, Epicr. syst. mycol. (Upsaliae) 431 (1838)
 
 #### Original name
 Polyporus brumalis var. incendiarius Bong., 1836

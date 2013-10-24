@@ -1,5 +1,4 @@
-Phyllachora pappiana Bacc., 1907 SPECIES
-=======
+# Phyllachora pappiana Bacc., 1907 SPECIES
 
 #### Status
 ACCEPTED

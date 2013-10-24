@@ -1,5 +1,4 @@
-Anthostomella zongluensis K.D. Hyde, 1996 SPECIES
-=======
+# Anthostomella zongluensis K.D. Hyde, 1996 SPECIES
 
 #### Status
 ACCEPTED

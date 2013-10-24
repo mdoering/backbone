@@ -1,5 +1,4 @@
-Lateriramulosa ainflata Matsushima SPECIES
-=======
+# Lateriramulosa ainflata Matsushima SPECIES
 
 #### Status
 ACCEPTED

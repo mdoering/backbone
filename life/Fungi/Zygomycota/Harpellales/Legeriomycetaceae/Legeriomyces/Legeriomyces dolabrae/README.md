@@ -1,5 +1,4 @@
-Legeriomyces dolabrae L.G. Valle, 2007 SPECIES
-=======
+# Legeriomyces dolabrae L.G. Valle, 2007 SPECIES
 
 #### Status
 ACCEPTED

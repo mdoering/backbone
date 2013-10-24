@@ -1,5 +1,4 @@
-Septoria conii Dietel & P. Syd. SPECIES
-=======
+# Septoria conii Dietel & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Phoma elliptica Peck, 1875 SPECIES
-=======
+# Phomopsis elliptica (Peck) Grove, 1935 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Rep. N. Y. St. Mus. nat. Hist. 27: 101 (1875)
+British Stem- and Leaf-Fungi (Coelomycetes) (Cambridge) 1: 189 (1935)
 
 #### Original name
 Phoma elliptica Peck, 1875

@@ -1,5 +1,4 @@
-Wawelia regia Namysl., 1908 SPECIES
-=======
+# Wawelia regia Namysl., 1908 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stachylina paucispora Lichtw., 2003 SPECIES
-=======
+# Stachylina paucispora Lichtw., 2003 SPECIES
 
 #### Status
 ACCEPTED

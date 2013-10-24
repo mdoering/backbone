@@ -1,5 +1,4 @@
-Graphiothecium maculicola P. Karst. SPECIES
-=======
+# Graphiothecium maculicola P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melanophora cercocarpi (Ellis & Everh.) Arx SPECIES
-=======
+# Melanophora cercocarpi (Ellis & Everh.) Arx SPECIES
 
 #### Status
 ACCEPTED

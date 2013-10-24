@@ -1,5 +1,4 @@
-Rhizophydium achnanthis Friedmann SPECIES
-=======
+# Rhizophydium achnanthis Friedmann SPECIES
 
 #### Status
 ACCEPTED

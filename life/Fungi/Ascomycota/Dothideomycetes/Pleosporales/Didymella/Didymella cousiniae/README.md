@@ -1,5 +1,4 @@
-Didymella cousiniae Petr. SPECIES
-=======
+# Didymella cousiniae Petr. SPECIES
 
 #### Status
 ACCEPTED

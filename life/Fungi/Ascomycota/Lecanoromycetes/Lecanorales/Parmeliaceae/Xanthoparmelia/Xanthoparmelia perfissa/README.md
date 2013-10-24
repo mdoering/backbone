@@ -1,17 +1,16 @@
-Paraparmelia perfissa (J. Steiner & Zahlbr.) Elix SPECIES
-=======
+# Xanthoparmelia perfissa (J. Steiner & Zahlbr.) Elix SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 87: 400 (2003)
 
 #### Original name
-null
+Parmelia perfissa J. Steiner & Zahlbr.
 
 ### Remarks
 null

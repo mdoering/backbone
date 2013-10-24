@@ -1,5 +1,4 @@
-Urceolaria isidiata (H. Magn.) Motyka SPECIES
-=======
+# Urceolaria isidiata (H. Magn.) Motyka SPECIES
 
 #### Status
 ACCEPTED

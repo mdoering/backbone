@@ -1,5 +1,4 @@
-Radiospirillina Blau & Wernli, 1999 GENUS
-=======
+# Radiospirillina Blau & Wernli, 1999 GENUS
 
 #### Status
 ACCEPTED

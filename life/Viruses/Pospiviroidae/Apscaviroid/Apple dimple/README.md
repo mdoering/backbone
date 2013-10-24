@@ -1,5 +1,4 @@
-Apple dimple SPECIES
-=======
+# Apple dimple SPECIES
 
 #### Status
 ACCEPTED

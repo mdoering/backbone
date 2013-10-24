@@ -1,5 +1,4 @@
-Usnea lutescens Stirt. SPECIES
-=======
+# Usnea lutescens Stirt. SPECIES
 
 #### Status
 ACCEPTED

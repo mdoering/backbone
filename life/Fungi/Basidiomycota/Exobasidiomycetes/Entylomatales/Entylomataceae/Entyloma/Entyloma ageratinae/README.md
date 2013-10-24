@@ -1,5 +1,4 @@
-Entyloma ageratinae R.W. Barreto & H.C. Evans, 1988 SPECIES
-=======
+# Entyloma ageratinae R.W. Barreto & H.C. Evans, 1988 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vermicularia longiseta Penz. & Sacc. SPECIES
-=======
+# Vermicularia longiseta Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

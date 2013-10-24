@@ -1,5 +1,4 @@
-Hydrocybe naucoriaeformis Velen. SPECIES
-=======
+# Hydrocybe naucoriaeformis Velen. SPECIES
 
 #### Status
 ACCEPTED

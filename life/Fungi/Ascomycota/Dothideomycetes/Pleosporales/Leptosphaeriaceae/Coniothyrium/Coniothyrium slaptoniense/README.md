@@ -1,5 +1,4 @@
-Coniothyrium slaptoniense D. Hawksw. & Punith., 1975 SPECIES
-=======
+# Coniothyrium slaptoniense D. Hawksw. & Punith., 1975 SPECIES
 
 #### Status
 ACCEPTED

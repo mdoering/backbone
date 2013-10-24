@@ -1,14 +1,13 @@
-Nectria xanthostroma Penz. & Sacc., 1897 SPECIES
-=======
+# Polystigma xanthostroma (Penz. & Sacc.) Gola, 1930 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Malpighia 11: 514 (1897)
+L'Erbario Micologico di P. A. Saccardo 159 (1930)
 
 #### Original name
 Nectria xanthostroma Penz. & Sacc., 1897

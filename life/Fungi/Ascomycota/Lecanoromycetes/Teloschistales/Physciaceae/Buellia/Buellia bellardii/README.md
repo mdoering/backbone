@@ -1,5 +1,4 @@
-Buellia bellardii Sipman SPECIES
-=======
+# Buellia bellardii Sipman SPECIES
 
 #### Status
 ACCEPTED

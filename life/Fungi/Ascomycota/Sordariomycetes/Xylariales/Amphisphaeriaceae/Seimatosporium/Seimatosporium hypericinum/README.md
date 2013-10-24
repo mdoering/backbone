@@ -1,14 +1,13 @@
-Diploceras hypericinum (Ces.) Died., 1915 SPECIES
-=======
+# Seimatosporium hypericinum (Ces.) B. Sutton, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Krypt. -Fl. Brandenburg (Leipzig) 9: 887 (1915)
+Trans. Br. mycol. Soc. 64(3): 483 (1975)
 
 #### Original name
 Pestalotia hypericina Ces., 1855

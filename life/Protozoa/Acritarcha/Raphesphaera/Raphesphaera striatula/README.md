@@ -1,5 +1,4 @@
-Raphesphaera striatula Volkova, 1993 SPECIES
-=======
+# Raphesphaera striatula Volkova, 1993 SPECIES
 
 #### Status
 ACCEPTED

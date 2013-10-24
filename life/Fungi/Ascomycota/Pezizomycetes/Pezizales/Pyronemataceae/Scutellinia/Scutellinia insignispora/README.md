@@ -1,5 +1,4 @@
-Scutellinia insignispora Svrcek & J. Moravec SPECIES
-=======
+# Scutellinia insignispora Svrcek & J. Moravec SPECIES
 
 #### Status
 ACCEPTED

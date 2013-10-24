@@ -1,5 +1,4 @@
-Agaricus incommiscibilis Berk. SPECIES
-=======
+# Agaricus incommiscibilis Berk. SPECIES
 
 #### Status
 ACCEPTED

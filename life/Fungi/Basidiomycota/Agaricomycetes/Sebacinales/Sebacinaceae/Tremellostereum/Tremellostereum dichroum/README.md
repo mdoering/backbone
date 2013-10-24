@@ -1,14 +1,13 @@
-Stereum dichroum Lloyd, 1922 SPECIES
-=======
+# Tremellostereum dichroum (Lloyd) Ryvarden, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Writ. 7: 1158 (1922)
+Mycotaxon 27: 323 (1986)
 
 #### Original name
 Stereum dichroum Lloyd, 1922

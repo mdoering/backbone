@@ -1,5 +1,4 @@
-Hendersonia galii-silvestris Urries SPECIES
-=======
+# Hendersonia galii-silvestris Urries SPECIES
 
 #### Status
 ACCEPTED

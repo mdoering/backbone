@@ -1,5 +1,4 @@
-Trichosphaeria pycnotrichia Saccas SPECIES
-=======
+# Trichosphaeria pycnotrichia Saccas SPECIES
 
 #### Status
 ACCEPTED

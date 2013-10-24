@@ -1,5 +1,4 @@
-Tricholoma sulphurellum Rick SPECIES
-=======
+# Tricholoma sulphurellum Rick SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Saturniforma Pessagno, 1970 GENUS
-=======
+# Saturniforma Pessagno, 1970 GENUS
 
 #### Status
 ACCEPTED

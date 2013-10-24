@@ -1,14 +1,13 @@
-Achaetomium purpurascens Udagawa & Y. Sugiy., 1982 SPECIES
-=======
+# Chaetomium purpurascens (Udagawa & Y. Sugiy.) Arx, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Reports on the Cryptogamic Study in Nepal (Tokyo) 13 (1982)
+Proc. Indian Acad. Sci. , Pl. Sci. 94(2-3): 344 (1985)
 
 #### Original name
 Achaetomium purpurascens Udagawa & Y. Sugiy., 1982

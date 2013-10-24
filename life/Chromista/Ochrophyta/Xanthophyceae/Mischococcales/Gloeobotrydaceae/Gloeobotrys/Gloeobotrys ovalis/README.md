@@ -1,5 +1,4 @@
-Gloeobotrys ovalis Reisigl SPECIES
-=======
+# Gloeobotrys ovalis Reisigl SPECIES
 
 #### Status
 ACCEPTED

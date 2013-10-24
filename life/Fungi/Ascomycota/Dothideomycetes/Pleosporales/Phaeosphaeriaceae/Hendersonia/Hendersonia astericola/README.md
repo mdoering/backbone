@@ -1,5 +1,4 @@
-Hendersonia astericola S. Ahmad SPECIES
-=======
+# Hendersonia astericola S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

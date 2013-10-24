@@ -1,5 +1,4 @@
-Hainesia palmarum Keissl. SPECIES
-=======
+# Hainesia palmarum Keissl. SPECIES
 
 #### Status
 ACCEPTED

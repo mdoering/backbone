@@ -1,5 +1,4 @@
-Ellipsaletes F.H. Cramer, 1966 GENUS
-=======
+# Ellipsaletes F.H. Cramer, 1966 GENUS
 
 #### Status
 ACCEPTED

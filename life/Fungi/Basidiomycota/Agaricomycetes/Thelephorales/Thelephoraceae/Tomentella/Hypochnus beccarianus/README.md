@@ -1,5 +1,4 @@
-Hypochnus beccarianus Pass. SPECIES
-=======
+# Hypochnus beccarianus Pass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Streptomyces bangladeshensis Al-Bari et al., 2005 SPECIES
-=======
+# Streptomyces bangladeshensis Al-Bari et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

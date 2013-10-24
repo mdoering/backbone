@@ -1,14 +1,13 @@
-Chaetendophragmiopsis pulchra B. Sutton & Hodges, 1978 SPECIES
-=======
+# Endophragmiella pulchra (B. Sutton & Hodges) P.M. Kirk, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Hedwigia 29(3-4): 598 (1978)
+Trans. Br. mycol. Soc. 78(2): 298 (1982)
 
 #### Original name
 Chaetendophragmiopsis pulchra B. Sutton & Hodges, 1978

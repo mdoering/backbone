@@ -1,5 +1,4 @@
-Heterogloea Pascher, 1930 GENUS
-=======
+# Heterogloea Pascher, 1930 GENUS
 
 #### Status
 ACCEPTED

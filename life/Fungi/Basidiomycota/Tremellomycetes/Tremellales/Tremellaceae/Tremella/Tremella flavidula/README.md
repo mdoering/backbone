@@ -1,5 +1,4 @@
-Tremella flavidula Lloyd SPECIES
-=======
+# Tremella flavidula Lloyd SPECIES
 
 #### Status
 ACCEPTED

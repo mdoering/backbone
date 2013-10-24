@@ -1,5 +1,4 @@
-Gasparrinia ferruginea (Huds.) Tornab. SPECIES
-=======
+# Gasparrinia ferruginea (Huds.) Tornab. SPECIES
 
 #### Status
 ACCEPTED

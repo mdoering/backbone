@@ -1,5 +1,4 @@
-Chytridium nodulosum Sparrow SPECIES
-=======
+# Chytridium nodulosum Sparrow SPECIES
 
 #### Status
 ACCEPTED

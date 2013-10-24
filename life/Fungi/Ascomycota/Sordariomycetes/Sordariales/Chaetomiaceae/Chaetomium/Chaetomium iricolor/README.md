@@ -1,5 +1,4 @@
-Chaetomium iricolor L.M. Ames SPECIES
-=======
+# Chaetomium iricolor L.M. Ames SPECIES
 
 #### Status
 ACCEPTED

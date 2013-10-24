@@ -1,5 +1,4 @@
-Polyporus cremeotomentosus (Henn.) Lloyd SPECIES
-=======
+# Polyporus cremeotomentosus (Henn.) Lloyd SPECIES
 
 #### Status
 ACCEPTED

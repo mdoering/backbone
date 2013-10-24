@@ -1,5 +1,4 @@
-Anisomeridium truncatum (Müll. Arg.) R.C. Harris SPECIES
-=======
+# Anisomeridium truncatum (Müll. Arg.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Euuvigerina schwageri (Brady, 1884) SPECIES
-=======
+# Uvigerina schwageri Brady, 1884 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

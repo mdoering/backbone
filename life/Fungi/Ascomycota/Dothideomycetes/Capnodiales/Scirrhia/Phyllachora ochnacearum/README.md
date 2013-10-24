@@ -1,5 +1,4 @@
-Phyllachora ochnacearum Bat. & J.L. Bezerra, 1962 SPECIES
-=======
+# Phyllachora ochnacearum Bat. & J.L. Bezerra, 1962 SPECIES
 
 #### Status
 DOUBTFUL

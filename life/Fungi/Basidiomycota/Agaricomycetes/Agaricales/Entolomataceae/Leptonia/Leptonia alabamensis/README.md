@@ -1,5 +1,4 @@
-Leptonia alabamensis Murrill SPECIES
-=======
+# Leptonia alabamensis Murrill SPECIES
 
 #### Status
 ACCEPTED

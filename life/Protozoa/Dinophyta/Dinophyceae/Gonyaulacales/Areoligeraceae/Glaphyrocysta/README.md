@@ -1,5 +1,4 @@
-Glaphyrocysta L.E.Stover & W.R.Evitt, 1978 GENUS
-=======
+# Glaphyrocysta L.E.Stover & W.R.Evitt, 1978 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eulinderina Barker & Grimsdale, 1936 GENUS
-=======
+# Eulinderina Barker & Grimsdale, 1936 GENUS
 
 #### Status
 ACCEPTED

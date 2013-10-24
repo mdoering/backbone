@@ -1,5 +1,4 @@
-Paecilomyces curticatenatus Z.Q. Liang & Y.F. Han SPECIES
-=======
+# Paecilomyces curticatenatus Z.Q. Liang & Y.F. Han SPECIES
 
 #### Status
 ACCEPTED

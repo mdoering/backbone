@@ -1,5 +1,4 @@
-Thelidium sordidum Th. Fr. SPECIES
-=======
+# Thelidium sordidum Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Dentiscutata biornata (Spain, Sieverd. & S. Toro) Sieverd., F.A. Souza & Oehl, 2008 SPECIES
-=======
+# Scutellospora biornata Spain, Sieverd. & S. Toro, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 35(2): 220 (1989)
 
 #### Original name
-null
+Scutellospora biornata Spain, Sieverd. & S. Toro, 1989
 
 ### Remarks
 null

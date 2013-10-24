@@ -1,5 +1,4 @@
-Stilbum burmense Mains SPECIES
-=======
+# Stilbum burmense Mains SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrophorus velatus Hesler & A.H. Sm. SPECIES
-=======
+# Hygrophorus velatus Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

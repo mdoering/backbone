@@ -1,14 +1,13 @@
-Conida epiphyscia (Nyl.) Zopf SPECIES
-=======
+# Arthonia epiphyscia Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Flora, Jena 58: 361 (1875)
 
 #### Original name
 Arthonia epiphyscia Nyl.

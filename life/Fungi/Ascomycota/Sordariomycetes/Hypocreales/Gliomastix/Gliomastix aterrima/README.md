@@ -1,5 +1,4 @@
-Gliomastix aterrima (Massee) Subram. SPECIES
-=======
+# Gliomastix aterrima (Massee) Subram. SPECIES
 
 #### Status
 ACCEPTED

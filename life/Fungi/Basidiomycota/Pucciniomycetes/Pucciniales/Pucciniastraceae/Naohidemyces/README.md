@@ -1,5 +1,4 @@
-Naohidemyces S. Sato, Katsuya & Y. Hirats. GENUS
-=======
+# Naohidemyces S. Sato, Katsuya & Y. Hirats. GENUS
 
 #### Status
 ACCEPTED

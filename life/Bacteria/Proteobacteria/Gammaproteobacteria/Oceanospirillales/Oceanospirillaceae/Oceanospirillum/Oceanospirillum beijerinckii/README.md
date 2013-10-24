@@ -1,8 +1,7 @@
-Oceanospirillum pelagicum (Terasaki, 1973) Terasaki, 1979 (Approved Lists, 1980) SPECIES
-=======
+# Oceanospirillum beijerinckii Hylemon, Wells, Krieg & Jannasch, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

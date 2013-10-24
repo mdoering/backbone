@@ -1,5 +1,4 @@
-Deichmannia Alstrup & D. Hawksworth, 1990 GENUS
-=======
+# Deichmannia Alstrup & D. Hawksworth, 1990 GENUS
 
 #### Status
 ACCEPTED

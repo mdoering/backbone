@@ -1,5 +1,4 @@
-Usnea pseudorubescens var. pseudorubescens VARIETY
-=======
+# Usnea pseudorubescens Asahina SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Usnea pseudorubescens var. pseudorubescens
+Usnea pseudorubescens Asahina
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Puccinia mayerhansi Mayor SPECIES
-=======
+# Puccinia mayerhansii Mayor SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mém. Soc. Sci. Nat. Neuchâtel 5: 521 (1913)
 
 #### Original name
-Puccinia mayerhansi Mayor
+Puccinia mayerhansii Mayor
 
 ### Remarks
 null

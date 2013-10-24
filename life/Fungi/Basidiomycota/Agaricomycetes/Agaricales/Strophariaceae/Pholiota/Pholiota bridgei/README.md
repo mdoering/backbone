@@ -1,5 +1,4 @@
-Pholiota bridgei A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota bridgei A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

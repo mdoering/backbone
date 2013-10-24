@@ -1,5 +1,4 @@
-Meliola hippocrateicola Hansf. & Deighton SPECIES
-=======
+# Meliola hippocrateicola Hansf. & Deighton SPECIES
 
 #### Status
 ACCEPTED

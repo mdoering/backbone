@@ -1,5 +1,4 @@
-Dileptus beersi Jones, 1956 SPECIES
-=======
+# Dileptus beersi Jones, 1956 SPECIES
 
 #### Status
 ACCEPTED

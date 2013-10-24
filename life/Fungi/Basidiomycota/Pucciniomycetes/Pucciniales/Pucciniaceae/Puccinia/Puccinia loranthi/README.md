@@ -1,5 +1,4 @@
-Puccinia loranthi Speg. SPECIES
-=======
+# Puccinia loranthi Speg. SPECIES
 
 #### Status
 ACCEPTED

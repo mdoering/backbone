@@ -1,5 +1,4 @@
-Paecilomyces tenuis Y.F. Han & Z.Q. Liang SPECIES
-=======
+# Paecilomyces tenuis Y.F. Han & Z.Q. Liang SPECIES
 
 #### Status
 ACCEPTED

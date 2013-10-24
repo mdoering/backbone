@@ -1,5 +1,4 @@
-Sargassum albermarlense Taylor SPECIES
-=======
+# Sargassum albermarlense Taylor SPECIES
 
 #### Status
 ACCEPTED

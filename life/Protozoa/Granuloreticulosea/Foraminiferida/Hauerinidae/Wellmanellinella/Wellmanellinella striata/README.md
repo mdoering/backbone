@@ -1,5 +1,4 @@
-Wellmanellinella striata (Sidebottom, 1904) SPECIES
-=======
+# Wellmanellinella striata (Sidebottom, 1904) SPECIES
 
 #### Status
 ACCEPTED

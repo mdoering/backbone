@@ -1,5 +1,4 @@
-Pseudocercospora osmanthi-asiatici Sawada ex Goh & W.H. Hsieh SPECIES
-=======
+# Pseudocercospora osmanthi-asiatici Sawada ex Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

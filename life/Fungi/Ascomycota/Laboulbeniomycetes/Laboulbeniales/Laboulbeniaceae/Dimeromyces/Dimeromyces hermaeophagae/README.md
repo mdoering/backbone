@@ -1,5 +1,4 @@
-Dimeromyces hermaeophagae Thaxt. SPECIES
-=======
+# Dimeromyces hermaeophagae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

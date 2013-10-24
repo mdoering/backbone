@@ -1,5 +1,4 @@
-Pseudocercospora ailanthigena H.S. Rao, Arch. Singh & Kamal SPECIES
-=======
+# Pseudocercospora ailanthigena H.S. Rao, Arch. Singh & Kamal SPECIES
 
 #### Status
 ACCEPTED

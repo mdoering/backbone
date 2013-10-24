@@ -1,5 +1,4 @@
-Kuettlingeria GENUS
-=======
+# Kuettlingeria GENUS
 
 #### Status
 ACCEPTED

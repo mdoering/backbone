@@ -1,5 +1,4 @@
-Rhabdospora bituminosa Bubák SPECIES
-=======
+# Rhabdospora bituminosa Bubák SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptonia tridentina (Bres.) Kühner & Romagn. SPECIES
-=======
+# Leptonia tridentina (Bres.) Kühner & Romagn. SPECIES
 
 #### Status
 ACCEPTED

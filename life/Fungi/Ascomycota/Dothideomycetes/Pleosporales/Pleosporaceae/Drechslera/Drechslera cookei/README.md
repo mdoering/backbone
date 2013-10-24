@@ -1,5 +1,4 @@
-Drechslera cookei (Sacc.) Subram. & B.L. Jain SPECIES
-=======
+# Drechslera cookei (Sacc.) Subram. & B.L. Jain SPECIES
 
 #### Status
 ACCEPTED

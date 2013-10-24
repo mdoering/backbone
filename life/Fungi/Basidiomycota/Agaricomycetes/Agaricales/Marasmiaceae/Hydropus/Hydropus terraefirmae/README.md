@@ -1,5 +1,4 @@
-Hydropus terraefirmae Singer SPECIES
-=======
+# Hydropus terraefirmae Singer SPECIES
 
 #### Status
 ACCEPTED

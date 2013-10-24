@@ -1,5 +1,4 @@
-Botrytis rufa Schwabe SPECIES
-=======
+# Botrytis rufa Schwabe SPECIES
 
 #### Status
 ACCEPTED

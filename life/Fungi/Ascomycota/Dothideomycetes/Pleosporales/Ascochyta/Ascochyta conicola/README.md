@@ -1,5 +1,4 @@
-Ascochyta conicola Dearn. & House SPECIES
-=======
+# Ascochyta conicola Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

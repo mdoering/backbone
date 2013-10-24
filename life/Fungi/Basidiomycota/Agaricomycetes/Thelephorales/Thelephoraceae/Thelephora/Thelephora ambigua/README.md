@@ -1,5 +1,4 @@
-Thelephora ambigua Bres. SPECIES
-=======
+# Thelephora ambigua Bres. SPECIES
 
 #### Status
 ACCEPTED

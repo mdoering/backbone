@@ -1,5 +1,4 @@
-Marasmius aporpohyphes Singer SPECIES
-=======
+# Marasmius aporpohyphes Singer SPECIES
 
 #### Status
 ACCEPTED

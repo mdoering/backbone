@@ -1,5 +1,4 @@
-Crepidotus smithii Hesler SPECIES
-=======
+# Crepidotus smithii Hesler SPECIES
 
 #### Status
 ACCEPTED

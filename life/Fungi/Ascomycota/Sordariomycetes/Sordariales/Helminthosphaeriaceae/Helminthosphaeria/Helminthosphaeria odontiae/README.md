@@ -1,5 +1,4 @@
-Helminthosphaeria odontiae Höhn. SPECIES
-=======
+# Helminthosphaeria odontiae Höhn. SPECIES
 
 #### Status
 ACCEPTED

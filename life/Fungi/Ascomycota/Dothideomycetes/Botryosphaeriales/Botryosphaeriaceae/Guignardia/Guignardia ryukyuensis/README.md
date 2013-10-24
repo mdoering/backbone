@@ -1,5 +1,4 @@
-Guignardia ryukyuensis I. Hino & Katum. SPECIES
-=======
+# Guignardia ryukyuensis I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

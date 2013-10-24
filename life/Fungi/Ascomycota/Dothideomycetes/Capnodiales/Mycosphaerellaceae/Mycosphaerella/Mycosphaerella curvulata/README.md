@@ -1,5 +1,4 @@
-Mycosphaerella curvulata (Pass.) Tomilin SPECIES
-=======
+# Mycosphaerella curvulata (Pass.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

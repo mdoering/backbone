@@ -1,5 +1,4 @@
-Mycobacterium gilvum Stanford and Gunthorpe, 1971 (Approved Lists, 1980) SPECIES
-=======
+# Mycobacterium gilvum Stanford and Gunthorpe, 1971 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

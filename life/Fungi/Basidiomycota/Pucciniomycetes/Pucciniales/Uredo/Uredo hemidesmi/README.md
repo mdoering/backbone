@@ -1,5 +1,4 @@
-Uredo hemidesmi Petch SPECIES
-=======
+# Uredo hemidesmi Petch SPECIES
 
 #### Status
 ACCEPTED

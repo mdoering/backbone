@@ -1,5 +1,4 @@
-Muricoglobigerina Blow, 1979 GENUS
-=======
+# Muricoglobigerina Blow, 1979 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus rufidulus Kalchbr. SPECIES
-=======
+# Agaricus rufidulus Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

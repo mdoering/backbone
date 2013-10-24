@@ -1,11 +1,10 @@
-Actinomyces lavendofoliae Kuchaeva et al., 1961 SPECIES
-=======
+# Streptomyces lavendofoliae (Kuchaeva et al., 1961) Pridham, 1970 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

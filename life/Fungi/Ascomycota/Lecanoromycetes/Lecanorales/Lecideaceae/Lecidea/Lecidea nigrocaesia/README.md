@@ -1,5 +1,4 @@
-Lecidea nigrocaesia Nyl. SPECIES
-=======
+# Lecidea nigrocaesia Nyl. SPECIES
 
 #### Status
 ACCEPTED

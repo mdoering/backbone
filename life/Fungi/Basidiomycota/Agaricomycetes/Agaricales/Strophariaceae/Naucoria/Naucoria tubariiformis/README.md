@@ -1,5 +1,4 @@
-Naucoria tubariiformis Murrill SPECIES
-=======
+# Naucoria tubariiformis Murrill SPECIES
 
 #### Status
 ACCEPTED

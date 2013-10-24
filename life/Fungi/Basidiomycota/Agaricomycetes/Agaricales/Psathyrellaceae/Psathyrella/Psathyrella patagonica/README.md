@@ -1,5 +1,4 @@
-Psathyrella patagonica Singer SPECIES
-=======
+# Psathyrella patagonica Singer SPECIES
 
 #### Status
 ACCEPTED

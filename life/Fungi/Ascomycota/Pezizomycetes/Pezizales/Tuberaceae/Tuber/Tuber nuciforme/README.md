@@ -1,5 +1,4 @@
-Tuber nuciforme var. nuciforme VARIETY
-=======
+# Tuber nuciforme Corda SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Tuber nuciforme var. nuciforme
+Tuber nuciforme Corda
 
 ### Remarks
 null

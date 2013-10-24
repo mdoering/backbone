@@ -1,5 +1,4 @@
-Tricholoma kavinae Pilát & Veselý SPECIES
-=======
+# Tricholoma kavinae Pilát & Veselý SPECIES
 
 #### Status
 ACCEPTED

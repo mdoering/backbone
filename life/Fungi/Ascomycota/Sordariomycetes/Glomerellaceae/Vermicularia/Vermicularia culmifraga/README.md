@@ -1,5 +1,4 @@
-Vermicularia culmifraga Fr. SPECIES
-=======
+# Vermicularia culmifraga Fr. SPECIES
 
 #### Status
 ACCEPTED

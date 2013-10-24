@@ -1,5 +1,4 @@
-Diplodia gossypii Zimm. SPECIES
-=======
+# Diplodia gossypii Zimm. SPECIES
 
 #### Status
 ACCEPTED

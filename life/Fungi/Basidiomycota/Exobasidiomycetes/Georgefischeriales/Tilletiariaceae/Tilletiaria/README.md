@@ -1,5 +1,4 @@
-Tilletiaria Bandoni & B.N. Johri GENUS
-=======
+# Tilletiaria Bandoni & B.N. Johri GENUS
 
 #### Status
 ACCEPTED

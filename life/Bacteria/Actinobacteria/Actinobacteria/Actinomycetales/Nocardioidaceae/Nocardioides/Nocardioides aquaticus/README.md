@@ -1,5 +1,4 @@
-Nocardioides aquaticus Lawson et al., 2000 SPECIES
-=======
+# Nocardioides aquaticus Lawson et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria cistula Wallr. SPECIES
-=======
+# Sphaeria cistula Wallr. SPECIES
 
 #### Status
 ACCEPTED

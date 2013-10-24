@@ -1,14 +1,13 @@
-Ascidium melanosporum C. Knight SPECIES
-=======
+# Leptotrema melanosporum (C. Knight) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Trans. New Zealand Inst. 7: 363 (1875)
+Cat. Lich. Univers. 2: 637 (1923)
 
 #### Original name
 Ascidium melanosporum C. Knight

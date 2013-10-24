@@ -1,5 +1,4 @@
-Cochliophilus depressus Kozloff, 1945 SPECIES
-=======
+# Cochliophilus depressus Kozloff, 1945 SPECIES
 
 #### Status
 ACCEPTED

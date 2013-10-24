@@ -1,17 +1,16 @@
-Hygrophorus mucronellus f. mucronellus FORM
-=======
+# Hygrocybe mucronella (Fr.) P. Karst., 1879 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Epicr. syst. mycol. (Upsaliae) 331 (1838)
+Bidr. Känn. Finl. Nat. Folk 32: 235 (1879)
 
 #### Original name
-Hygrophorus mucronellus f. mucronellus
+Hygrophorus mucronellus Fr., 1838
 
 ### Remarks
 null

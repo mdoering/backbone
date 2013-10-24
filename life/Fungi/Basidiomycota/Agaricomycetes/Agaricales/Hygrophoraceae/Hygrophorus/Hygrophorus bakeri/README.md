@@ -1,5 +1,4 @@
-Hygrophorus bakeri Dennis SPECIES
-=======
+# Hygrophorus bakeri Dennis SPECIES
 
 #### Status
 ACCEPTED

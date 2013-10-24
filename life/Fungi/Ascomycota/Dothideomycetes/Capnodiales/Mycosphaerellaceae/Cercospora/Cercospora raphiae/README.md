@@ -1,5 +1,4 @@
-Cercospora raphiae Deighton SPECIES
-=======
+# Cercospora raphiae Deighton SPECIES
 
 #### Status
 ACCEPTED

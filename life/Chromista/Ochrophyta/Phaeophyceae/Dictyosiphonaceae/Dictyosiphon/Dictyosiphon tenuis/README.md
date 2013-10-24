@@ -1,5 +1,4 @@
-Dictyosiphon tenuis Setchell & N.L. Gardner SPECIES
-=======
+# Dictyosiphon tenuis Setchell & N.L. Gardner SPECIES
 
 #### Status
 ACCEPTED

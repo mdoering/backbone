@@ -1,5 +1,4 @@
-Pannaria pallida (Nyl.) Hue SPECIES
-=======
+# Pannaria pallida (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

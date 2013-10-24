@@ -1,5 +1,4 @@
-Cladosporidium GENUS
-=======
+# Cladosporidium GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniosporium fusidii (Fuckel) Sacc. SPECIES
-=======
+# Coniosporium fusidii (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

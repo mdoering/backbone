@@ -1,5 +1,4 @@
-Cortinarius sciophyllus Fr. SPECIES
-=======
+# Cortinarius sciophyllus Fr. SPECIES
 
 #### Status
 ACCEPTED

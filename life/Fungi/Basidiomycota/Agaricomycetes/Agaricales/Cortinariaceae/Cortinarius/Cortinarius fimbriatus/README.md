@@ -1,17 +1,16 @@
-Cortinaria fimbriata Murrill SPECIES
-=======
+# Cortinarius fimbriatus Murrill SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Lloydia 7(4): 317 (1945)
 
 #### Original name
-Cortinaria fimbriata Murrill
+Cortinarius fimbriatus Murrill
 
 ### Remarks
 null

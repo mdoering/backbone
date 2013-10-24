@@ -1,5 +1,4 @@
-Reticularia ungulina Fr. SPECIES
-=======
+# Reticularia ungulina Fr. SPECIES
 
 #### Status
 ACCEPTED

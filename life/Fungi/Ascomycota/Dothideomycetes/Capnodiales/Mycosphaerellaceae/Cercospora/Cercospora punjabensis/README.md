@@ -1,5 +1,4 @@
-Cercospora punjabensis var. punjabensis Syd. VARIETY
-=======
+# Cercospora punjabensis Syd. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Annals Cryptog. Exot. 2: 268 (1929)
 
 #### Original name
-Cercospora punjabensis var. punjabensis Syd.
+Cercospora punjabensis Syd.
 
 ### Remarks
 null

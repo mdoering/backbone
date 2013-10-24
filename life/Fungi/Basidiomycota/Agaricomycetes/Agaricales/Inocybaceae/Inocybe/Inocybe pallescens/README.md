@@ -1,5 +1,4 @@
-Inocybe pallescens Velen. SPECIES
-=======
+# Inocybe pallescens Velen. SPECIES
 
 #### Status
 ACCEPTED

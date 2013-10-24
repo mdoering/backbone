@@ -1,5 +1,4 @@
-Camanchaca ligulata Peine & Follmann SPECIES
-=======
+# Camanchaca ligulata Peine & Follmann SPECIES
 
 #### Status
 ACCEPTED

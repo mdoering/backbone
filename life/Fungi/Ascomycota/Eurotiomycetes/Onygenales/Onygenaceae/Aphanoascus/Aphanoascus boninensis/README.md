@@ -1,5 +1,4 @@
-Aphanoascus boninensis Udagawa & Uchiy. SPECIES
-=======
+# Aphanoascus boninensis Udagawa & Uchiy. SPECIES
 
 #### Status
 ACCEPTED

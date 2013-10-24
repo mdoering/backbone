@@ -1,5 +1,4 @@
-Stereum hilare Kalchbr. SPECIES
-=======
+# Stereum hilare Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

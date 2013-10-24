@@ -1,5 +1,4 @@
-Verrucaria varigottiana B. de Lesd. SPECIES
-=======
+# Verrucaria varigottiana B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

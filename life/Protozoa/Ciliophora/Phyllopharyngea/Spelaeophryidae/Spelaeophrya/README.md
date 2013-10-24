@@ -1,5 +1,4 @@
-Spelaeophrya Stammer, 1935 GENUS
-=======
+# Spelaeophrya Stammer, 1935 GENUS
 
 #### Status
 ACCEPTED

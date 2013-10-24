@@ -1,5 +1,4 @@
-Anthostomella lingue Speg. SPECIES
-=======
+# Anthostomella lingue Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vermicularia wallrothii Sacc. SPECIES
-=======
+# Vermicularia wallrothii Sacc. SPECIES
 
 #### Status
 ACCEPTED

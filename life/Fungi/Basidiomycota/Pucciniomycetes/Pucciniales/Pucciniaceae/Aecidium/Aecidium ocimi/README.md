@@ -1,5 +1,4 @@
-Aecidium ocimi Henn. SPECIES
-=======
+# Aecidium ocimi Henn. SPECIES
 
 #### Status
 ACCEPTED

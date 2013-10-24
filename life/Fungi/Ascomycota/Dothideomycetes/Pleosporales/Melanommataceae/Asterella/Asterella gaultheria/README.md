@@ -1,5 +1,4 @@
-Asterella gaultheria (M.A. Curtis) Sacc. SPECIES
-=======
+# Asterella gaultheria (M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hapalophragmium millettiae-rhodanthae Vienn.-Bourg., 1952 SPECIES
-=======
+# Hapalophragmium millettiae-rhodanthae Vienn.-Bourg., 1952 SPECIES
 
 #### Status
 ACCEPTED

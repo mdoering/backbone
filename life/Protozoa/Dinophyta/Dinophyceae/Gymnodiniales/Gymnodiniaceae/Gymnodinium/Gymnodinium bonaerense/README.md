@@ -1,5 +1,4 @@
-Gymnodinium bonaerense Akselman, 1985 SPECIES
-=======
+# Gymnodinium bonaerense Akselman, 1985 SPECIES
 
 #### Status
 ACCEPTED

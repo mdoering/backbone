@@ -1,5 +1,4 @@
-Xerocomus flavus Singer & Kuthan SPECIES
-=======
+# Xerocomus flavus Singer & Kuthan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Distromium didymothrix Allender & Kraft SPECIES
-=======
+# Distromium didymothrix Allender & Kraft SPECIES
 
 #### Status
 ACCEPTED

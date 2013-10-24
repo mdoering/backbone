@@ -1,17 +1,16 @@
-Anthostoma polaris K. Holm & L. Holm SPECIES
-=======
+# Anthostoma polare K. Holm & L. Holm SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biblthca Mycol. 150: 55 (1993)
 
 #### Original name
-Anthostoma polaris K. Holm & L. Holm
+Anthostoma polare K. Holm & L. Holm
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Uromyces superfluus P. Syd. & Syd. SPECIES
-=======
+# Uromyces superfluus P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

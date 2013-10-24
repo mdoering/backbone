@@ -1,5 +1,4 @@
-Lecanora griseomurina SPECIES
-=======
+# Lecanora griseomurina SPECIES
 
 #### Status
 ACCEPTED

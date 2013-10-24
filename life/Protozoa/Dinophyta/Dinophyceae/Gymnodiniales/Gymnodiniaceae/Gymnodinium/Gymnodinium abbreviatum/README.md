@@ -1,5 +1,4 @@
-Gymnodinium abbreviatum Kofoid & Swezy SPECIES
-=======
+# Gymnodinium abbreviatum Kofoid & Swezy SPECIES
 
 #### Status
 ACCEPTED

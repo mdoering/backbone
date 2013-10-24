@@ -1,5 +1,4 @@
-Diplodia humuli Fuckel SPECIES
-=======
+# Diplodia humuli Fuckel SPECIES
 
 #### Status
 ACCEPTED

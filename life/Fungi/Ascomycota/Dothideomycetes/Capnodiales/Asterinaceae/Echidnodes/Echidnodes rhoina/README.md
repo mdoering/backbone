@@ -1,5 +1,4 @@
-Echidnodes rhoina Doidge SPECIES
-=======
+# Echidnodes rhoina Doidge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria hysteriformis Schumach. SPECIES
-=======
+# Sphaeria hysteriformis Schumach. SPECIES
 
 #### Status
 ACCEPTED

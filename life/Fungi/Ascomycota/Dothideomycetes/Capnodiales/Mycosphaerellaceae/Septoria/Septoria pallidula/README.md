@@ -1,5 +1,4 @@
-Septoria pallidula Dearn. & House SPECIES
-=======
+# Septoria pallidula Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

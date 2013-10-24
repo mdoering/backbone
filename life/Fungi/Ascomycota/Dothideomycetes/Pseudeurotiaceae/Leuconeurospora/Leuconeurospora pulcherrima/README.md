@@ -1,14 +1,13 @@
-Leuconeurospora pulcherrimum (G. Winter) Malloch & Cain SPECIES
-=======
+# Leuconeurospora pulcherrima (G. Winter) Malloch & Cain, 1970 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Can. J. Bot. 48(10): 1820 (1970)
 
 #### Original name
 Eurotium pulcherrimum G. Winter, 1876

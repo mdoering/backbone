@@ -1,5 +1,4 @@
-Naemospora decipiens Berk. & Ravenel SPECIES
-=======
+# Naemospora decipiens Berk. & Ravenel SPECIES
 
 #### Status
 ACCEPTED

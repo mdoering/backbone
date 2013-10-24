@@ -1,5 +1,4 @@
-Resupinammina scotiaensis Brönnimann & Whittaker, 1988 SPECIES
-=======
+# Resupinammina scotiaensis Brönnimann & Whittaker, 1988 SPECIES
 
 #### Status
 ACCEPTED

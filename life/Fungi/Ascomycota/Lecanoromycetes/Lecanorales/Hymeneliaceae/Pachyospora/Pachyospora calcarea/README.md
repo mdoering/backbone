@@ -1,5 +1,4 @@
-Pachyospora calcarea f. calcarea FORM
-=======
+# Pachyospora calcarea A. Massal. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Ric. auton. lich. crost. (Verona) 42 (1852)
 
 #### Original name
-Pachyospora calcarea f. calcarea
+Pachyospora calcarea A. Massal.
 
 ### Remarks
 null

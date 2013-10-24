@@ -1,5 +1,4 @@
-Gloniella xerotis Henn. SPECIES
-=======
+# Gloniella xerotis Henn. SPECIES
 
 #### Status
 ACCEPTED

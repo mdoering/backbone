@@ -1,5 +1,4 @@
-Meliola swieteniicola Hosag., Kaver., Raghu & Goos SPECIES
-=======
+# Meliola swieteniicola Hosag., Kaver., Raghu & Goos SPECIES
 
 #### Status
 ACCEPTED

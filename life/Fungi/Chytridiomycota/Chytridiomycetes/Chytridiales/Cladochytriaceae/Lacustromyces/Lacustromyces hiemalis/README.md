@@ -1,5 +1,4 @@
-Lacustromyces hiemalis Longcore, 1993 SPECIES
-=======
+# Lacustromyces hiemalis Longcore, 1993 SPECIES
 
 #### Status
 ACCEPTED

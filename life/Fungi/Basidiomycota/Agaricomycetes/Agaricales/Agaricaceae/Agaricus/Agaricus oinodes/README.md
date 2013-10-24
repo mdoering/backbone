@@ -1,5 +1,4 @@
-Agaricus oinodes Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus oinodes Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

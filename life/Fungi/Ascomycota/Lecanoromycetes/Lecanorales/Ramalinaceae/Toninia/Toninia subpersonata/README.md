@@ -1,5 +1,4 @@
-Toninia subpersonata Malme SPECIES
-=======
+# Toninia subpersonata Malme SPECIES
 
 #### Status
 ACCEPTED

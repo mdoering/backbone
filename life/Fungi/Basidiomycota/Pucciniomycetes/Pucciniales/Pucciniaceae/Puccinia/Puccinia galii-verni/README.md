@@ -1,17 +1,16 @@
-Puccinia vaillantiae SPECIES
-=======
+# Puccinia galii-verni Ces., 1846 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bot. Ztg. 4: 879 (1846)
 
 #### Original name
-null
+Puccinia galii-verni Ces., 1846
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Dirinaria palmarum (Vain.) C.W. Dodge SPECIES
-=======
+# Dirinaria palmarum (Vain.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

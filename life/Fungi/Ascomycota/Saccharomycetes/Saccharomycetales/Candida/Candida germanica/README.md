@@ -1,5 +1,4 @@
-Candida germanica Kurtzman, Robnett & Yarrow, 2001 SPECIES
-=======
+# Candida germanica Kurtzman, Robnett & Yarrow, 2001 SPECIES
 
 #### Status
 ACCEPTED

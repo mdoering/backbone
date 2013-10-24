@@ -1,5 +1,4 @@
-Asteridiella ekebergiae var. ekebergiae VARIETY
-=======
+# Asteridiella ekebergiae (Doidge) Hansf. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Beih. Sydowia 2: 403 (1961)
 
 #### Original name
-Asteridiella ekebergiae var. ekebergiae
+Irene ekebergiae Doidge
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Neoveryhachium neocarminae Cramer & Díez, 1972 ex Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Neoveryhachium neocarminae Cramer & Díez, 1972 ex Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

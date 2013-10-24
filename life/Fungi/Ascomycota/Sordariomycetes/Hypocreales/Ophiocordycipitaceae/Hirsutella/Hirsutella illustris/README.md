@@ -1,5 +1,4 @@
-Hirsutella illustris Minter & B.L. Brady SPECIES
-=======
+# Hirsutella illustris Minter & B.L. Brady SPECIES
 
 #### Status
 ACCEPTED

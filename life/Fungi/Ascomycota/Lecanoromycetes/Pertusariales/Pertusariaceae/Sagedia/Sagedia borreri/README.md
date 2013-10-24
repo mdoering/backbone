@@ -1,5 +1,4 @@
-Sagedia borreri Nägeli SPECIES
-=======
+# Sagedia borreri Nägeli SPECIES
 
 #### Status
 ACCEPTED

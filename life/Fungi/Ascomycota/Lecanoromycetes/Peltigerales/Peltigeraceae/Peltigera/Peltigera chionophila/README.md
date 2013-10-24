@@ -1,5 +1,4 @@
-Peltigera chionophila Goward & Goffinet SPECIES
-=======
+# Peltigera chionophila Goward & Goffinet SPECIES
 
 #### Status
 ACCEPTED

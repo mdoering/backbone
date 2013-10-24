@@ -1,5 +1,4 @@
-Verruculopsis flavescentaria Gueidan, Nav.-Ros. & Cl. Roux SPECIES
-=======
+# Verruculopsis flavescentaria Gueidan, Nav.-Ros. & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

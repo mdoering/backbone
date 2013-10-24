@@ -1,5 +1,4 @@
-Sporisorium nervosum Vánky, C. Vánky & R.G. Shivas, 2001 SPECIES
-=======
+# Sporisorium nervosum Vánky, C. Vánky & R.G. Shivas, 2001 SPECIES
 
 #### Status
 ACCEPTED

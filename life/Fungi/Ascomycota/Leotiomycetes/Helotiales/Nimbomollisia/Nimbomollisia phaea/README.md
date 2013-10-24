@@ -1,5 +1,4 @@
-Nimbomollisia phaea (Rehm) SPECIES
-=======
+# Nimbomollisia phaea (Rehm) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Synedra gracilis Kützing SPECIES
-=======
+# Synedra gracilis Kützing SPECIES
 
 #### Status
 ACCEPTED

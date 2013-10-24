@@ -1,5 +1,4 @@
-Entoloma atroenigmaticum Noordel. & Hauskn. SPECIES
-=======
+# Entoloma atroenigmaticum Noordel. & Hauskn. SPECIES
 
 #### Status
 ACCEPTED

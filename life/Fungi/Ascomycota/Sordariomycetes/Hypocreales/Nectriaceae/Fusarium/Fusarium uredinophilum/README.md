@@ -1,5 +1,4 @@
-Fusarium uredinophilum Speg. SPECIES
-=======
+# Fusarium uredinophilum Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniothyrium colliculosum (Fr.) Sacc. SPECIES
-=======
+# Coniothyrium colliculosum (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

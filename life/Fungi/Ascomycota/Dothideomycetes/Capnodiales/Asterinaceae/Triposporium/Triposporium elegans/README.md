@@ -1,5 +1,4 @@
-Triposporium elegans Corda, 1837 SPECIES
-=======
+# Triposporium elegans Corda, 1837 SPECIES
 
 #### Status
 ACCEPTED

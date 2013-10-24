@@ -1,5 +1,4 @@
-Diderma gigantocolumellae M.L. Farr, 1971 SPECIES
-=======
+# Diderma gigantocolumellae M.L. Farr, 1971 SPECIES
 
 #### Status
 ACCEPTED

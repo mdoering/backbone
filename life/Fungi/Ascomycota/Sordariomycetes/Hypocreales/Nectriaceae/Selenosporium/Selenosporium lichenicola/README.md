@@ -1,5 +1,4 @@
-Selenosporium lichenicola Speg. SPECIES
-=======
+# Selenosporium lichenicola Speg. SPECIES
 
 #### Status
 ACCEPTED

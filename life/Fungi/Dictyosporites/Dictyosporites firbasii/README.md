@@ -1,5 +1,4 @@
-Dictyosporites firbasii (Hammen) Kalgutkar & Janson. SPECIES
-=======
+# Dictyosporites firbasii (Hammen) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

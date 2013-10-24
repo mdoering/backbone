@@ -1,5 +1,4 @@
-Schismatomma planissimum (Kremp.) Zahlbr. SPECIES
-=======
+# Schismatomma planissimum (Kremp.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta galegae Maire SPECIES
-=======
+# Phyllosticta galegae Maire SPECIES
 
 #### Status
 ACCEPTED

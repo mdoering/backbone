@@ -1,5 +1,4 @@
-Amycolatopsis eurytherma Kim et al., 2002 SPECIES
-=======
+# Amycolatopsis eurytherma Kim et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

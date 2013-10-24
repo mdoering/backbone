@@ -1,5 +1,4 @@
-Gonatobotrys radians J. Kickx f. SPECIES
-=======
+# Gonatobotrys radians J. Kickx f. SPECIES
 
 #### Status
 ACCEPTED

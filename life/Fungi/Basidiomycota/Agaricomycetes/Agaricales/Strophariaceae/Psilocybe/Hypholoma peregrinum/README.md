@@ -1,5 +1,4 @@
-Hypholoma peregrinum Massee, 1907 SPECIES
-=======
+# Hypholoma peregrinum Massee, 1907 SPECIES
 
 #### Status
 ACCEPTED

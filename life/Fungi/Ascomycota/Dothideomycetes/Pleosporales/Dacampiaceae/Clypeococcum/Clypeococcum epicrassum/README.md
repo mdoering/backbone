@@ -1,14 +1,13 @@
-Buellia epicrassa H. Olivier SPECIES
-=======
+# Clypeococcum epicrassum (H. Olivier) Hafellner & Nav.-Ros. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Bull. Acad. Intern. Géogr. Bot. 15: 281 (1905)
+in Navarro-Rosinés, Roux & Llimona, Flechten Follmann (Cologne), Contributions to Lichenology in Honour of Gerhard Follmann 423 (1994)
 
 #### Original name
 Buellia epicrassa H. Olivier

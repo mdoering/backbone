@@ -1,5 +1,4 @@
-Lecidea labradorica Arnold SPECIES
-=======
+# Lecidea labradorica Arnold SPECIES
 
 #### Status
 ACCEPTED

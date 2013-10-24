@@ -1,5 +1,4 @@
-Verrucaria pantaleoni Servít SPECIES
-=======
+# Verrucaria pantaleoni Servít SPECIES
 
 #### Status
 ACCEPTED

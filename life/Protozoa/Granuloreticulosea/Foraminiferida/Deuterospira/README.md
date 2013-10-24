@@ -1,5 +1,4 @@
-Deuterospira Hamaoui, 1979 GENUS
-=======
+# Deuterospira Hamaoui, 1979 GENUS
 
 #### Status
 ACCEPTED

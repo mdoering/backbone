@@ -1,5 +1,4 @@
-Acanthostigma multiseptatum Promputtha & A.N. Mill., 2010 SPECIES
-=======
+# Acanthostigma multiseptatum Promputtha & A.N. Mill., 2010 SPECIES
 
 #### Status
 ACCEPTED

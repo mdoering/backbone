@@ -1,5 +1,4 @@
-Nyctotherus baueri SPECIES
-=======
+# Nyctotherus baueri SPECIES
 
 #### Status
 ACCEPTED

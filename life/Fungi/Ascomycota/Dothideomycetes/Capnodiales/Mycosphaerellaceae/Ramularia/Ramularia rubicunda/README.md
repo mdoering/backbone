@@ -1,5 +1,4 @@
-Ramularia rubicunda Bres. SPECIES
-=======
+# Ramularia rubicunda Bres. SPECIES
 
 #### Status
 ACCEPTED

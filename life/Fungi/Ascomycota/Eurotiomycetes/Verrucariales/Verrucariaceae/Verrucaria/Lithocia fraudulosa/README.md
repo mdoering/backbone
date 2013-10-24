@@ -1,5 +1,4 @@
-Lithocia fraudulosa Nyl. SPECIES
-=======
+# Lithocia fraudulosa Nyl. SPECIES
 
 #### Status
 ACCEPTED

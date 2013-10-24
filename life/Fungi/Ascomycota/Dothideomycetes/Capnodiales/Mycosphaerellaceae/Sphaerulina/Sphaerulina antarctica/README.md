@@ -1,5 +1,4 @@
-Sphaerulina antarctica (Speg.) J. Walker SPECIES
-=======
+# Sphaerulina antarctica (Speg.) J. Walker SPECIES
 
 #### Status
 ACCEPTED

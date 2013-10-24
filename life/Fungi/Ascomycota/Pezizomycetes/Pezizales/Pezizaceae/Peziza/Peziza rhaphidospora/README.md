@@ -1,5 +1,4 @@
-Peziza rhaphidospora Ellis SPECIES
-=======
+# Peziza rhaphidospora Ellis SPECIES
 
 #### Status
 ACCEPTED

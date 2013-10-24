@@ -1,5 +1,4 @@
-Archaeofavosina bella Lopukhin, 1974 SPECIES
-=======
+# Archaeofavosina bella Lopukhin, 1974 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Mesogloia intestinalis Harvey SPECIES
-=======
+# Myriogloea intenstinalis (Harvey) Lindaeur SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Pseudovalsa tubulosa (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Pseudovalsa tubulosa (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

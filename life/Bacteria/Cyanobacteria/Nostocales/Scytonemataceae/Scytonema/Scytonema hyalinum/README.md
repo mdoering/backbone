@@ -1,5 +1,4 @@
-Scytonema hyalinum Gardner SPECIES
-=======
+# Scytonema hyalinum Gardner SPECIES
 
 #### Status
 ACCEPTED

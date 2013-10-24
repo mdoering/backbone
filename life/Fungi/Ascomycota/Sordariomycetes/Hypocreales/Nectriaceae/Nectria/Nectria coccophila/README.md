@@ -1,17 +1,16 @@
-Microcera coccophila var. coccophila VARIETY
-=======
+# Nectria coccophila (Tul. & C. Tul.) Wollenw. & Reinking, 1935 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 3 10: 539 (1848)
+Die Fusarien 34 (1935)
 
 #### Original name
-Microcera coccophila var. coccophila
+Sphaerostilbe coccophila Tul. & C. Tul., 1865
 
 ### Remarks
 null

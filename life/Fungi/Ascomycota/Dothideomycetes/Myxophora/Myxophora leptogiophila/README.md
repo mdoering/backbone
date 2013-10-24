@@ -1,14 +1,13 @@
-Leptorhaphis leptogiophila Minks ex G. Winter, 1877 SPECIES
-=======
+# Myxophora leptogiophila (Minks ex G. Winter) Nik. Hoffm. & Hafellner, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 60: 211 (1877)
+Biblthca Lichenol. 77: 65 (2000)
 
 #### Original name
 Leptorhaphis leptogiophila Minks ex G. Winter, 1877

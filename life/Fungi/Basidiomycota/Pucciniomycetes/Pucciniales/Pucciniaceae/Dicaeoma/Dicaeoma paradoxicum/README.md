@@ -1,5 +1,4 @@
-Dicaeoma paradoxicum (Ricker) Arthur SPECIES
-=======
+# Dicaeoma paradoxicum (Ricker) Arthur SPECIES
 
 #### Status
 ACCEPTED

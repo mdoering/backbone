@@ -1,5 +1,4 @@
-Crassoascus Checa, Barrasa & A.T. Martínez GENUS
-=======
+# Crassoascus Checa, Barrasa & A.T. Martínez GENUS
 
 #### Status
 ACCEPTED

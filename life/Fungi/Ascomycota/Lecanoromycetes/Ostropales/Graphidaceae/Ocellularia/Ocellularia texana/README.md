@@ -1,14 +1,13 @@
-Thelotrema texanum Willey SPECIES
-=======
+# Ocellularia texana (Willey) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Acta Soc. Sci. fenn. 26(10): 17 (1900)
+Cat. Lich. Univers. 2: 602 (1923)
 
 #### Original name
 Thelotrema texanum Willey

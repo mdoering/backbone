@@ -1,5 +1,4 @@
-Ciborinia gentianae I. Saito & Kaji SPECIES
-=======
+# Ciborinia gentianae I. Saito & Kaji SPECIES
 
 #### Status
 ACCEPTED

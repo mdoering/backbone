@@ -1,5 +1,4 @@
-Pseudoprotomyces cinnamomea Thüm. & P.C. Bolle SPECIES
-=======
+# Pseudoprotomyces cinnamomea Thüm. & P.C. Bolle SPECIES
 
 #### Status
 ACCEPTED

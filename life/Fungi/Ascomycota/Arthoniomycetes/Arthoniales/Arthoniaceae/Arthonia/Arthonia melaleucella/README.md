@@ -1,5 +1,4 @@
-Arthonia melaleucella Nyl. SPECIES
-=======
+# Arthonia melaleucella Nyl. SPECIES
 
 #### Status
 ACCEPTED

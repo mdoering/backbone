@@ -1,5 +1,4 @@
-Parmelia joannis-simae Gyeln. SPECIES
-=======
+# Parmelia joannis-simae Gyeln. SPECIES
 
 #### Status
 ACCEPTED

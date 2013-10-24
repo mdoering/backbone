@@ -1,5 +1,4 @@
-Mycena cortinarioides Speg. SPECIES
-=======
+# Mycena cortinarioides Speg. SPECIES
 
 #### Status
 ACCEPTED

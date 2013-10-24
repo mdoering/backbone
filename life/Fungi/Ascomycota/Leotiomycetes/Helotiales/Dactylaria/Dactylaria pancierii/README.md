@@ -1,5 +1,4 @@
-Dactylaria pancierii Sacc. SPECIES
-=======
+# Dactylaria pancierii Sacc. SPECIES
 
 #### Status
 ACCEPTED

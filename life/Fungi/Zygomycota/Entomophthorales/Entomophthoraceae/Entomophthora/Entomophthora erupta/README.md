@@ -1,14 +1,13 @@
-Empusa erupta Dustan, 1924 SPECIES
-=======
+# Entomophthora erupta (Dustan) I.M. Hall, 1959 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Acad. Entomol. Soc. 9: 31 (1924)
+Journal of Insect Pathology 1: 48 (1959)
 
 #### Original name
 Empusa erupta Dustan, 1924

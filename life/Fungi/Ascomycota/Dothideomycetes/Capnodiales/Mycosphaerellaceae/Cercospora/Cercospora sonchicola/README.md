@@ -1,5 +1,4 @@
-Cercospora sonchicola S. Narayan, P.N. Singh & G.P. Rao SPECIES
-=======
+# Cercospora sonchicola S. Narayan, P.N. Singh & G.P. Rao SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizopogon exiguus Zeller SPECIES
-=======
+# Rhizopogon exiguus Zeller SPECIES
 
 #### Status
 ACCEPTED

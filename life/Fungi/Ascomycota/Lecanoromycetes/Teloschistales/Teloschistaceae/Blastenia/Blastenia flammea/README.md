@@ -1,5 +1,4 @@
-Blastenia flammea (Anzi) Lattau SPECIES
-=======
+# Blastenia flammea (Anzi) Lattau SPECIES
 
 #### Status
 ACCEPTED

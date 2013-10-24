@@ -1,5 +1,4 @@
-Pseudocyphellaria pubescens (Müll. Arg.) D.J. Galloway & P. James SPECIES
-=======
+# Pseudocyphellaria pubescens (Müll. Arg.) D.J. Galloway & P. James SPECIES
 
 #### Status
 ACCEPTED

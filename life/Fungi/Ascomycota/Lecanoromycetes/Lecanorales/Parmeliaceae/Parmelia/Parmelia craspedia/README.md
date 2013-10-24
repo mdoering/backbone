@@ -1,5 +1,4 @@
-Parmelia craspedia (Ach.) Ach. SPECIES
-=======
+# Parmelia craspedia (Ach.) Ach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactarius paludinellus Peck SPECIES
-=======
+# Lactarius paludinellus Peck SPECIES
 
 #### Status
 ACCEPTED

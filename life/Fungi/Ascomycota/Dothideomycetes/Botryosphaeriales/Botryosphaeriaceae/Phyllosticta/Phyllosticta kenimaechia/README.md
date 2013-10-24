@@ -1,5 +1,4 @@
-Phyllosticta kenimaechia Golovin SPECIES
-=======
+# Phyllosticta kenimaechia Golovin SPECIES
 
 #### Status
 ACCEPTED

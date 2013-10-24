@@ -1,14 +1,13 @@
-Pleuroceras tenella (Ellis & Everh.) M.E. Barr SPECIES
-=======
+# Pleuroceras tenellum (Ellis & Everh.) M.E. Barr SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycol. Mem. 7: 122 (1978)
 
 #### Original name
 Gnomoniella tenella Ellis & Everh.

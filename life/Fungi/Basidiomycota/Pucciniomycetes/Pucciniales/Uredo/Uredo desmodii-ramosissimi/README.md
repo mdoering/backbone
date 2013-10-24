@@ -1,5 +1,4 @@
-Uredo desmodii-ramosissimi Gjaerum SPECIES
-=======
+# Uredo desmodii-ramosissimi Gjaerum SPECIES
 
 #### Status
 ACCEPTED

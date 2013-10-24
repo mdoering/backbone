@@ -1,5 +1,4 @@
-Crepidotus eucalyptorum Cleland SPECIES
-=======
+# Crepidotus eucalyptorum Cleland SPECIES
 
 #### Status
 ACCEPTED

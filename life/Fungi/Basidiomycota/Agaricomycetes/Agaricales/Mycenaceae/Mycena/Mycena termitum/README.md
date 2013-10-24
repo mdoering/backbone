@@ -1,5 +1,4 @@
-Mycena termitum Beeli SPECIES
-=======
+# Mycena termitum Beeli SPECIES
 
 #### Status
 ACCEPTED

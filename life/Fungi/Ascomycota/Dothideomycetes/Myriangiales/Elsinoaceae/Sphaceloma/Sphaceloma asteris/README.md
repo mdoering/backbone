@@ -1,5 +1,4 @@
-Sphaceloma asteris Sawada SPECIES
-=======
+# Sphaceloma asteris Sawada SPECIES
 
 #### Status
 ACCEPTED

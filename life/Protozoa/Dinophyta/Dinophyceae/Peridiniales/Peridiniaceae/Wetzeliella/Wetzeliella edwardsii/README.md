@@ -1,5 +1,4 @@
-Wetzeliella edwardsii G. J. Wilson SPECIES
-=======
+# Wetzeliella edwardsii G. J. Wilson SPECIES
 
 #### Status
 ACCEPTED

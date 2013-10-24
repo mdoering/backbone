@@ -1,5 +1,4 @@
-Macrophoma luzonensis Ts. Kobay. SPECIES
-=======
+# Macrophoma luzonensis Ts. Kobay. SPECIES
 
 #### Status
 ACCEPTED

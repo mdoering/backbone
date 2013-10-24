@@ -1,5 +1,4 @@
-Clavaria jacquemontii Lév. SPECIES
-=======
+# Clavaria jacquemontii Lév. SPECIES
 
 #### Status
 ACCEPTED

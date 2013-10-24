@@ -1,5 +1,4 @@
-Durella ligustrina Velen. SPECIES
-=======
+# Durella ligustrina Velen. SPECIES
 
 #### Status
 ACCEPTED

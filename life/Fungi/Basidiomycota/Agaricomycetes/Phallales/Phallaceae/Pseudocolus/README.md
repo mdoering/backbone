@@ -1,5 +1,4 @@
-Pseudocolus Lloyd GENUS
-=======
+# Pseudocolus Lloyd GENUS
 
 #### Status
 ACCEPTED

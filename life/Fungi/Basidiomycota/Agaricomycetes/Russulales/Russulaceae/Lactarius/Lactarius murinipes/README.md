@@ -1,5 +1,4 @@
-Lactarius murinipes Pegler SPECIES
-=======
+# Lactarius murinipes Pegler SPECIES
 
 #### Status
 ACCEPTED

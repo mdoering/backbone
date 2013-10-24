@@ -1,5 +1,4 @@
-Spadicoides canadensis S. Hughes SPECIES
-=======
+# Spadicoides canadensis S. Hughes SPECIES
 
 #### Status
 ACCEPTED

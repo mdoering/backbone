@@ -1,5 +1,4 @@
-Sarcinella hughesii Hosag. & Venkanna SPECIES
-=======
+# Sarcinella hughesii Hosag. & Venkanna SPECIES
 
 #### Status
 ACCEPTED

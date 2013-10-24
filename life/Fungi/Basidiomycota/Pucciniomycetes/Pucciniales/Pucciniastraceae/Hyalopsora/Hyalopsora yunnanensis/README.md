@@ -1,5 +1,4 @@
-Hyalopsora yunnanensis B. Li SPECIES
-=======
+# Hyalopsora yunnanensis B. Li SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia contortuplicata Ach. SPECIES
-=======
+# Parmelia contortuplicata Ach. SPECIES
 
 #### Status
 ACCEPTED

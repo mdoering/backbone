@@ -1,14 +1,13 @@
-Microthyrium microscopicum var. macrosporum (Sacc.) J.P. Ellis, 1977 VARIETY
-=======
+# Microthyrium macrosporum (Sacc.) Höhn., 1919 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 67(3): 383 (1976)
+Ber. dt. bot. Ges. 36: 110 (1919)
 
 #### Original name
 Microthyrium microscopicum f. macrosporum Sacc., 1883

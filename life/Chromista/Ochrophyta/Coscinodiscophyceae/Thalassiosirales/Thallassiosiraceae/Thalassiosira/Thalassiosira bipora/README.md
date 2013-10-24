@@ -1,5 +1,4 @@
-Thalassiosira bipora M. Shiono SPECIES
-=======
+# Thalassiosira bipora M. Shiono SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Geisleria xylophila Vezda SPECIES
-=======
+# Geisleria xylophila Vezda SPECIES
 
 #### Status
 ACCEPTED

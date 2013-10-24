@@ -1,5 +1,4 @@
-Trametes gilvoides Lloyd SPECIES
-=======
+# Trametes gilvoides Lloyd SPECIES
 
 #### Status
 ACCEPTED

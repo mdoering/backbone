@@ -1,5 +1,4 @@
-Collosphaera huxleyi Mueller, 1855 SPECIES
-=======
+# Collosphaera huxleyi Mueller, 1855 SPECIES
 
 #### Status
 ACCEPTED

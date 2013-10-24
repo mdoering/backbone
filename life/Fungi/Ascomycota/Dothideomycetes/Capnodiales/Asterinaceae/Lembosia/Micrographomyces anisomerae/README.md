@@ -1,5 +1,4 @@
-Micrographomyces anisomerae Cif. & Tomas. SPECIES
-=======
+# Micrographomyces anisomerae Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

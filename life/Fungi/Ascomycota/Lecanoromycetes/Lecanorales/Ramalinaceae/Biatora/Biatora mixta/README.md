@@ -1,5 +1,4 @@
-Biatora mixta Mont. SPECIES
-=======
+# Biatora mixta Mont. SPECIES
 
 #### Status
 ACCEPTED

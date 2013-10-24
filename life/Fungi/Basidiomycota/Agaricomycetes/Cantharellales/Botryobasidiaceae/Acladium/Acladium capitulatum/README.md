@@ -1,5 +1,4 @@
-Acladium capitulatum Jasevoli SPECIES
-=======
+# Acladium capitulatum Jasevoli SPECIES
 
 #### Status
 ACCEPTED

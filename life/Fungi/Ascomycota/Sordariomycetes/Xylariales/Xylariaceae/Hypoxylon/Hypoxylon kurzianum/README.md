@@ -1,5 +1,4 @@
-Hypoxylon kurzianum Curr. ex Sacc. SPECIES
-=======
+# Hypoxylon kurzianum Curr. ex Sacc. SPECIES
 
 #### Status
 ACCEPTED

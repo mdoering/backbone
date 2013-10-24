@@ -1,5 +1,4 @@
-Valsa sartwelli Berk. & M.A. Curtis SPECIES
-=======
+# Valsa sartwelli Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

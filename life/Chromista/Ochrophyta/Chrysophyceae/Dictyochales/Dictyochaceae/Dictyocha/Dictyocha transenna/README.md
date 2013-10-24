@@ -1,5 +1,4 @@
-Dictyocha transenna D. Bukry SPECIES
-=======
+# Dictyocha transenna D. Bukry SPECIES
 
 #### Status
 ACCEPTED

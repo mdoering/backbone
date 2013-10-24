@@ -1,5 +1,4 @@
-Diaporthe characiae Fabre SPECIES
-=======
+# Diaporthe characiae Fabre SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peronospora syreniae-cuspidatae Oescu & Radul. SPECIES
-=======
+# Peronospora syreniae-cuspidatae Oescu & Radul. SPECIES
 
 #### Status
 ACCEPTED

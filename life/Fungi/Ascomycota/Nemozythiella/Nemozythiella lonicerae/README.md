@@ -1,14 +1,13 @@
-Cytosporina lonicerae (Died.) Sacc., 1931 SPECIES
-=======
+# Nemozythiella lonicerae (Died.) Höhn., 1925 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Krypt. -Fl. Brandenburg (Leipzig) 9: 548 (1914)
+Mitt. bot. Inst. tech. Hochsch. Wien (1925)
 
 #### Original name
 Cytosporina lonicerae (Died.) Sacc., 1931

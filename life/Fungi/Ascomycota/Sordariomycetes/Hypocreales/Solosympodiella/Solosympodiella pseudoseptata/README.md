@@ -1,5 +1,4 @@
-Solosympodiella pseudoseptata Matsush. SPECIES
-=======
+# Solosympodiella pseudoseptata Matsush. SPECIES
 
 #### Status
 ACCEPTED

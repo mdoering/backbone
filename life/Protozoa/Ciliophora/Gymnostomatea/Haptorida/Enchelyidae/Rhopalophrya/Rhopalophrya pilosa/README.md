@@ -1,5 +1,4 @@
-Rhopalophrya pilosa (Penard, 1922) Kahl, 1926 SPECIES
-=======
+# Rhopalophrya pilosa (Penard, 1922) Kahl, 1926 SPECIES
 
 #### Status
 ACCEPTED

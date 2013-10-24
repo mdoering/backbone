@@ -1,5 +1,4 @@
-Diplodina celastri Syd. SPECIES
-=======
+# Diplodina celastri Syd. SPECIES
 
 #### Status
 ACCEPTED

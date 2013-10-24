@@ -1,5 +1,4 @@
-Cladina galapagosensis (Ahti) W.A. Weber SPECIES
-=======
+# Cladina galapagosensis (Ahti) W.A. Weber SPECIES
 
 #### Status
 ACCEPTED

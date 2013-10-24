@@ -1,5 +1,4 @@
-Palaeohydrococcus P.K.Misra & P.K.Maithy, 1984 GENUS
-=======
+# Palaeohydrococcus P.K.Misra & P.K.Maithy, 1984 GENUS
 
 #### Status
 ACCEPTED

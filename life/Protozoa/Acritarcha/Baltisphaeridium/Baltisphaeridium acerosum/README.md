@@ -1,5 +1,4 @@
-Baltisphaeridium acerosum Jankauskas & Posti, 1976 SPECIES
-=======
+# Baltisphaeridium acerosum Jankauskas & Posti, 1976 SPECIES
 
 #### Status
 ACCEPTED

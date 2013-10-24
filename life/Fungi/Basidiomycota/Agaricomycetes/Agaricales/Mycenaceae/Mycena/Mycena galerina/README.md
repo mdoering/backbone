@@ -1,5 +1,4 @@
-Mycena galerina Corner SPECIES
-=======
+# Mycena galerina Corner SPECIES
 
 #### Status
 ACCEPTED

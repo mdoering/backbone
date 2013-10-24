@@ -1,5 +1,4 @@
-Hydnobolites Tul. & C. Tul. GENUS
-=======
+# Hydnobolites Tul. & C. Tul. GENUS
 
 #### Status
 ACCEPTED

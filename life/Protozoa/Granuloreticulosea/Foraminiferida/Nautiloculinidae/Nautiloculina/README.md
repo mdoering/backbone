@@ -1,5 +1,4 @@
-Nautiloculina Mohler, 1938 GENUS
-=======
+# Nautiloculina Mohler, 1938 GENUS
 
 #### Status
 ACCEPTED

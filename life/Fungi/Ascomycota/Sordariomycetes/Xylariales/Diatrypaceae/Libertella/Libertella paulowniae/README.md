@@ -1,5 +1,4 @@
-Libertella paulowniae Hollós SPECIES
-=======
+# Libertella paulowniae Hollós SPECIES
 
 #### Status
 ACCEPTED

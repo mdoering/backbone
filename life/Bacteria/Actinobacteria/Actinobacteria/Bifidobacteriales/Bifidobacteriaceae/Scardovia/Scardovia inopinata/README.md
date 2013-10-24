@@ -1,8 +1,7 @@
-Bifidobacterium inopinatum Crociani et al., 1996 SPECIES
-=======
+# Scardovia inopinata (Crociani et al., 1996) Jian & Dong, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

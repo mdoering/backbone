@@ -1,5 +1,4 @@
-Pilosace obtusus (Pers.) Kuntze SPECIES
-=======
+# Pilosace obtusus (Pers.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

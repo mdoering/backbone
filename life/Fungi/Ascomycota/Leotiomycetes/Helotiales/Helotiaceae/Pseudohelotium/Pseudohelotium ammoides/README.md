@@ -1,5 +1,4 @@
-Pseudohelotium ammoides Sacc. SPECIES
-=======
+# Pseudohelotium ammoides Sacc. SPECIES
 
 #### Status
 ACCEPTED

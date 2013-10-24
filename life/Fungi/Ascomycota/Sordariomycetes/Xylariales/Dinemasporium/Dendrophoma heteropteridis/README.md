@@ -1,5 +1,4 @@
-Dendrophoma heteropteridis Tassi SPECIES
-=======
+# Dendrophoma heteropteridis Tassi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fragilaria riesgoviensis Schauderna SPECIES
-=======
+# Fragilaria riesgoviensis Schauderna SPECIES
 
 #### Status
 ACCEPTED

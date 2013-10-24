@@ -1,5 +1,4 @@
-Lactobacillus lindneri (ex Henneberg, 1901) Back et al., 1997 SPECIES
-=======
+# Lactobacillus lindneri (ex Henneberg, 1901) Back et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

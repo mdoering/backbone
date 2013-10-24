@@ -1,5 +1,4 @@
-Sepedonium ampullosporum Damon, 1952 SPECIES
-=======
+# Sepedonium ampullosporum Damon, 1952 SPECIES
 
 #### Status
 ACCEPTED

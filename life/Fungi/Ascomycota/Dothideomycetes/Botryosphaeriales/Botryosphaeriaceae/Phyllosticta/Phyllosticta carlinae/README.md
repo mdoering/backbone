@@ -1,5 +1,4 @@
-Phyllosticta carlinae Unamuno SPECIES
-=======
+# Phyllosticta carlinae Unamuno SPECIES
 
 #### Status
 ACCEPTED

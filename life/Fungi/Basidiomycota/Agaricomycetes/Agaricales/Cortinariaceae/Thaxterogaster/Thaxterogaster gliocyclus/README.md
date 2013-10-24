@@ -1,5 +1,4 @@
-Thaxterogaster gliocyclus E. Horak SPECIES
-=======
+# Thaxterogaster gliocyclus E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placodium melaloma (Ach.) SPECIES
-=======
+# Placodium melaloma (Ach.) SPECIES
 
 #### Status
 ACCEPTED

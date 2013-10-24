@@ -1,5 +1,4 @@
-Hypoxylon canariense J. Fourn., M. Stadler & Beltrán SPECIES
-=======
+# Hypoxylon canariense J. Fourn., M. Stadler & Beltrán SPECIES
 
 #### Status
 ACCEPTED

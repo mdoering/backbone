@@ -1,5 +1,4 @@
-Elsinoë pruni Jenkins SPECIES
-=======
+# Elsinoë pruni Jenkins SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus praetorius Fr. SPECIES
-=======
+# Agaricus praetorius Fr. SPECIES
 
 #### Status
 ACCEPTED

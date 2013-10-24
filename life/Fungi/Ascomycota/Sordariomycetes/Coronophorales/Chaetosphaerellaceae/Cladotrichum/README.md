@@ -1,5 +1,4 @@
-Cladotrichum GENUS
-=======
+# Cladotrichum GENUS
 
 #### Status
 ACCEPTED

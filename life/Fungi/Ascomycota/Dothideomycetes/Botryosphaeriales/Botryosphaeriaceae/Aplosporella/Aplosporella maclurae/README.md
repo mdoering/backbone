@@ -1,5 +1,4 @@
-Aplosporella maclurae (Cooke) Petr. & Syd. SPECIES
-=======
+# Aplosporella maclurae (Cooke) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

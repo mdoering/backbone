@@ -1,5 +1,4 @@
-Amycolatopsis taiwanensis Tseng et al., 2006 SPECIES
-=======
+# Amycolatopsis taiwanensis Tseng et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

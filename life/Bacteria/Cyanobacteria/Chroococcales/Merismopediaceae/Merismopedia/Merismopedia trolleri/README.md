@@ -1,5 +1,4 @@
-Merismopedia trolleri Bachmann SPECIES
-=======
+# Merismopedia trolleri Bachmann SPECIES
 
 #### Status
 ACCEPTED

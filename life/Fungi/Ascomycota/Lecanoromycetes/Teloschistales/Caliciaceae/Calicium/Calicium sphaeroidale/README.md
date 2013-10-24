@@ -1,5 +1,4 @@
-Calicium sphaeroidale Ach. SPECIES
-=======
+# Calicium sphaeroidale Ach. SPECIES
 
 #### Status
 ACCEPTED

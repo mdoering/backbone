@@ -1,17 +1,16 @@
-Peridermium piriforme Peck SPECIES
-=======
+# Cronartium comandrae Peck, 1879 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bot. Gaz. 4: 128 (1879)
 
 #### Original name
-Peridermium piriforme Peck
+Cronartium comandrae Peck, 1879
 
 ### Remarks
 null

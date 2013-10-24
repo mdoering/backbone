@@ -1,5 +1,4 @@
-Bagnisiella uncariae (Racib.) Sacc. & Trotter SPECIES
-=======
+# Bagnisiella uncariae (Racib.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

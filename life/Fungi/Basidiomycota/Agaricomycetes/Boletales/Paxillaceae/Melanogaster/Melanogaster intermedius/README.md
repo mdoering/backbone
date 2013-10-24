@@ -1,14 +1,13 @@
-Melanogaster ambiguus var. intermedius Berk., 1844 VARIETY
-=======
+# Melanogaster intermedius (Berk.) Zeller & C.W. Dodge, 1936 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mag. nat. Hist. , Ser. 1 13: 354 (1844)
+Ann. Mo. bot. Gdn 23: 645 (1936)
 
 #### Original name
 Melanogaster ambiguus var. intermedius Berk., 1844

@@ -1,5 +1,4 @@
-Asteridiella ugandensis var. ugandensis VARIETY
-=======
+# Asteridiella ugandensis (Hansf.) Hansf. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Sydowia 10: 51 (1957)
 
 #### Original name
-Asteridiella ugandensis var. ugandensis
+Irene ugandensis Hansf.
 
 ### Remarks
 null

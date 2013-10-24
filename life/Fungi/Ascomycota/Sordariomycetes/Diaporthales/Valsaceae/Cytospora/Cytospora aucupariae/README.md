@@ -1,5 +1,4 @@
-Cytospora aucupariae Lib. SPECIES
-=======
+# Cytospora aucupariae Lib. SPECIES
 
 #### Status
 ACCEPTED

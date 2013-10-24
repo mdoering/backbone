@@ -1,5 +1,4 @@
-Bacidia compacta (Körb.) Jatta SPECIES
-=======
+# Bacidia compacta (Körb.) Jatta SPECIES
 
 #### Status
 ACCEPTED

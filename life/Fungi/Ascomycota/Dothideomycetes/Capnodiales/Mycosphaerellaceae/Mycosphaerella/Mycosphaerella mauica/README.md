@@ -1,5 +1,4 @@
-Mycosphaerella mauica Petr. SPECIES
-=======
+# Mycosphaerella mauica Petr. SPECIES
 
 #### Status
 ACCEPTED

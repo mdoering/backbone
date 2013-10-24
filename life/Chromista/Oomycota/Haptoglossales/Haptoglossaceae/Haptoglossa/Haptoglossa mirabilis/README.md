@@ -1,5 +1,4 @@
-Haptoglossa mirabilis G.L. Barron, 1981 SPECIES
-=======
+# Haptoglossa mirabilis G.L. Barron, 1981 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Massaria hoffmanni (Fr.) Sacc. SPECIES
-=======
+# Massaria hoffmannii (Fr.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hedwigia 2: 53 (1861)
 
 #### Original name
 Sphaeria hoffmannii Fr.

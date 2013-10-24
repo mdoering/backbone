@@ -1,5 +1,4 @@
-Endodermophyton africanum C.W. Dodge SPECIES
-=======
+# Endodermophyton africanum C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

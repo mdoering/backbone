@@ -1,5 +1,4 @@
-Habrostictis diaphana Rehm SPECIES
-=======
+# Habrostictis diaphana Rehm SPECIES
 
 #### Status
 ACCEPTED

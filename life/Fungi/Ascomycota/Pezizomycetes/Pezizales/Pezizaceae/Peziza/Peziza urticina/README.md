@@ -1,5 +1,4 @@
-Peziza urticina Peck SPECIES
-=======
+# Peziza urticina Peck SPECIES
 
 #### Status
 ACCEPTED

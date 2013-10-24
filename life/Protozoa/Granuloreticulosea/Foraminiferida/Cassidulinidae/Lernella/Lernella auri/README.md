@@ -1,5 +1,4 @@
-Lernella auri Saidova, 1975 SPECIES
-=======
+# Lernella auri Saidova, 1975 SPECIES
 
 #### Status
 ACCEPTED

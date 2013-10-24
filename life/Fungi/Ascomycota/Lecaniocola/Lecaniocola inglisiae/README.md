@@ -1,5 +1,4 @@
-Lecaniocola inglisiae Brain SPECIES
-=======
+# Lecaniocola inglisiae Brain SPECIES
 
 #### Status
 ACCEPTED

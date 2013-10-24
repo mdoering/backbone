@@ -1,5 +1,4 @@
-Pseudomonas geniculata (Wright, 1895) Chester, 1901 (Approved Lists, 1980) SPECIES
-=======
+# Pseudomonas geniculata (Wright, 1895) Chester, 1901 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inoloma muricinum (Fr.) Ricken SPECIES
-=======
+# Inoloma muricinum (Fr.) Ricken SPECIES
 
 #### Status
 ACCEPTED

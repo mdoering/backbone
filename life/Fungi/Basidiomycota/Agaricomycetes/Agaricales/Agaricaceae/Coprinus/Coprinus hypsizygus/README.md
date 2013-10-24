@@ -1,5 +1,4 @@
-Coprinus hypsizygus Singer SPECIES
-=======
+# Coprinus hypsizygus Singer SPECIES
 
 #### Status
 ACCEPTED

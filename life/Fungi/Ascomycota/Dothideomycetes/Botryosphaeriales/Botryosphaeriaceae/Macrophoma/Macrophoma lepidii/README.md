@@ -1,5 +1,4 @@
-Macrophoma lepidii Politis SPECIES
-=======
+# Macrophoma lepidii Politis SPECIES
 
 #### Status
 ACCEPTED

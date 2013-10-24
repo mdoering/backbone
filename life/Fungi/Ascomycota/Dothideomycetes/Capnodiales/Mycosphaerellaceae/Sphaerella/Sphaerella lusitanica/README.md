@@ -1,5 +1,4 @@
-Sphaerella lusitanica Auersw. SPECIES
-=======
+# Sphaerella lusitanica Auersw. SPECIES
 
 #### Status
 ACCEPTED

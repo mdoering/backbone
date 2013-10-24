@@ -1,5 +1,4 @@
-Selenomonas flueggei Moore et al., 1987 SPECIES
-=======
+# Selenomonas flueggei Moore et al., 1987 SPECIES
 
 #### Status
 ACCEPTED

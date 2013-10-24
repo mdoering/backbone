@@ -1,5 +1,4 @@
-Lecidea transvaalica SPECIES
-=======
+# Lecidea transvaalica SPECIES
 
 #### Status
 ACCEPTED

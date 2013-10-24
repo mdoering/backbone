@@ -1,5 +1,4 @@
-Trametes levicensis Cetto SPECIES
-=======
+# Trametes levicensis Cetto SPECIES
 
 #### Status
 ACCEPTED

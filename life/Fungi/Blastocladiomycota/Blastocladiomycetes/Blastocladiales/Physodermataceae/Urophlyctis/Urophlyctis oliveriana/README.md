@@ -1,5 +1,4 @@
-Urophlyctis oliveriana Magnus SPECIES
-=======
+# Urophlyctis oliveriana Magnus SPECIES
 
 #### Status
 ACCEPTED

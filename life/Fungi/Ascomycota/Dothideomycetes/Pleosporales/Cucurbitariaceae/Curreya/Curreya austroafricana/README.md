@@ -1,5 +1,4 @@
-Curreya austroafricana Marinc., M.J. Wingf. & Crous, 2008 SPECIES
-=======
+# Curreya austroafricana Marinc., M.J. Wingf. & Crous, 2008 SPECIES
 
 #### Status
 ACCEPTED

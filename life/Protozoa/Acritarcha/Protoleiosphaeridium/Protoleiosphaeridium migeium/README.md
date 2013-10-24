@@ -1,5 +1,4 @@
-Protoleiosphaeridium migeium Timofeev, 1963 SPECIES
-=======
+# Protoleiosphaeridium migeium Timofeev, 1963 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmotrema erhizinosum (D. D. Awasthi) Hale ex DePriest & B.W. Hale SPECIES
-=======
+# Parmotrema erhizinosum (D. D. Awasthi) Hale ex DePriest & B.W. Hale SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllachora scleriae Rehm, 1900 SPECIES
-=======
+# Phyllachora scleriae Rehm, 1900 SPECIES
 
 #### Status
 DOUBTFUL

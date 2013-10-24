@@ -1,5 +1,4 @@
-Granulopyrenis seawardii Aptroot & Sipman SPECIES
-=======
+# Granulopyrenis seawardii Aptroot & Sipman SPECIES
 
 #### Status
 ACCEPTED

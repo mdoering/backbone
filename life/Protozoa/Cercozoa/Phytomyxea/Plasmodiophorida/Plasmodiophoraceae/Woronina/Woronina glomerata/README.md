@@ -1,8 +1,7 @@
-Chytridium glomeratum Cornu SPECIES
-=======
+# Woronina glomerata (Cornu) A. Fisch., 1892 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Macrophoma edulis J.V. Almeida SPECIES
-=======
+# Macrophoma edulis J.V. Almeida SPECIES
 
 #### Status
 ACCEPTED

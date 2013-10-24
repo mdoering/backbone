@@ -1,5 +1,4 @@
-Catillaria subfraudulenta Zahlbr. SPECIES
-=======
+# Catillaria subfraudulenta Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

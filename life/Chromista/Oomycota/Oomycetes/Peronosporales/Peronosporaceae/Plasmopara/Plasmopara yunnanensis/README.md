@@ -1,5 +1,4 @@
-Plasmopara yunnanensis J.F. Tao & Y. Qin SPECIES
-=======
+# Plasmopara yunnanensis J.F. Tao & Y. Qin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dacrymyces coryneoides (Henn.) McNabb SPECIES
-=======
+# Dacrymyces coryneoides (Henn.) McNabb SPECIES
 
 #### Status
 ACCEPTED

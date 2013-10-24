@@ -1,5 +1,4 @@
-Megalospora castanocarpa A.L. Sm. SPECIES
-=======
+# Megalospora castanocarpa A.L. Sm. SPECIES
 
 #### Status
 ACCEPTED

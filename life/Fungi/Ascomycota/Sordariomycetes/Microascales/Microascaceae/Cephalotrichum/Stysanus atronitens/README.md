@@ -1,5 +1,4 @@
-Stysanus atronitens Sacc. SPECIES
-=======
+# Stysanus atronitens Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecudina longissima Tugawa (H Hoshide), 1944 SPECIES
-=======
+# Lecudina longissima Tugawa (H Hoshide), 1944 SPECIES
 
 #### Status
 ACCEPTED

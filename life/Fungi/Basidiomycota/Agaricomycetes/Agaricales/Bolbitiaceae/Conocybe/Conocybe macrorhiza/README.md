@@ -1,5 +1,4 @@
-Conocybe macrorhiza (Speg.) Singer SPECIES
-=======
+# Conocybe macrorhiza (Speg.) Singer SPECIES
 
 #### Status
 ACCEPTED

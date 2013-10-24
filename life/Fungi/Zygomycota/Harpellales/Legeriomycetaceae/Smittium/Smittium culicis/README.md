@@ -1,17 +1,16 @@
-Rubetella culicis Tuzet, Rioux & Manier, 1961 SPECIES
-=======
+# Smittium culicis Tuzet & Manier ex Kobayasi, 1969 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Vie Milieu 12: 180 (1961)
+in Kobayasi, Hiratsuka, Otani, Tubaki, Udagawa & Soneda, Bull. natn. Sci. Mus. , Tokyo 12: 322 (1969)
 
 #### Original name
-Rubetella culicis Tuzet, Rioux & Manier, 1961
+Smittium culicis Tuzet & Manier ex Kobayasi, 1969
 
 ### Remarks
 null

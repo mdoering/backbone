@@ -1,5 +1,4 @@
-Clavaria exigua Peck SPECIES
-=======
+# Clavaria exigua Peck SPECIES
 
 #### Status
 ACCEPTED

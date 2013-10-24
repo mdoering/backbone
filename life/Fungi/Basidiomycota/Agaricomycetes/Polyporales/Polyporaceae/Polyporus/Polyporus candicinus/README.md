@@ -1,5 +1,4 @@
-Polyporus candicinus SPECIES
-=======
+# Polyporus candicinus SPECIES
 
 #### Status
 ACCEPTED

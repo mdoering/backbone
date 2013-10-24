@@ -1,5 +1,4 @@
-Pseudoparmelia hypomilta (Fée) Hale SPECIES
-=======
+# Pseudoparmelia hypomilta (Fée) Hale SPECIES
 
 #### Status
 ACCEPTED

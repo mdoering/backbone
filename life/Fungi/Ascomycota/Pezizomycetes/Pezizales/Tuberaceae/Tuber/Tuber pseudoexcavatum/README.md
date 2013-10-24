@@ -1,5 +1,4 @@
-Tuber pseudoexcavatum Y. Wang, G. Moreno, Riousset, Manjón & G. Riousset SPECIES
-=======
+# Tuber pseudoexcavatum Y. Wang, G. Moreno, Riousset, Manjón & G. Riousset SPECIES
 
 #### Status
 ACCEPTED

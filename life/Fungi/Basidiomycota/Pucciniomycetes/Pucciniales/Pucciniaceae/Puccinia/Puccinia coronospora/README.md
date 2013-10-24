@@ -1,5 +1,4 @@
-Puccinia coronospora Cummins SPECIES
-=======
+# Puccinia coronospora Cummins SPECIES
 
 #### Status
 ACCEPTED

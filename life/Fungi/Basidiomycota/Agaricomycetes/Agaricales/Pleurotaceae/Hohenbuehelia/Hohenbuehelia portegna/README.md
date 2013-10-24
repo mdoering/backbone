@@ -1,5 +1,4 @@
-Hohenbuehelia portegna (Speg.) Singer SPECIES
-=======
+# Hohenbuehelia portegna (Speg.) Singer SPECIES
 
 #### Status
 ACCEPTED

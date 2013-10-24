@@ -1,8 +1,7 @@
-Chainia kunmingensis Ruan et al., 1985 SPECIES
-=======
+# Streptomyces kunmingensis (Ruan et al., 1985) Goodfellow et al., 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Agaricus dolosus Pers. SPECIES
-=======
+# Agaricus dolosus Pers. SPECIES
 
 #### Status
 ACCEPTED

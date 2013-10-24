@@ -1,5 +1,4 @@
-Polyporus ustus Rick SPECIES
-=======
+# Polyporus ustus Rick SPECIES
 
 #### Status
 ACCEPTED

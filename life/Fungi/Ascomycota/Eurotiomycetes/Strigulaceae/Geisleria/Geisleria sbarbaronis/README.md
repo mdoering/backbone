@@ -1,5 +1,4 @@
-Geisleria sbarbaronis Servít SPECIES
-=======
+# Geisleria sbarbaronis Servít SPECIES
 
 #### Status
 ACCEPTED

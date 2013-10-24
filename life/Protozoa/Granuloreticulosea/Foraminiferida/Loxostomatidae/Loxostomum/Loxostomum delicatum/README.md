@@ -1,5 +1,4 @@
-Loxostomum delicatum Cushman SPECIES
-=======
+# Loxostomum delicatum Cushman SPECIES
 
 #### Status
 ACCEPTED

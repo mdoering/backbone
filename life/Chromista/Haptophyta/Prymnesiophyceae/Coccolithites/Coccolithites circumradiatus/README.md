@@ -1,5 +1,4 @@
-Coccolithites circumradiatus L.E. Stover SPECIES
-=======
+# Coccolithites circumradiatus L.E. Stover SPECIES
 
 #### Status
 ACCEPTED

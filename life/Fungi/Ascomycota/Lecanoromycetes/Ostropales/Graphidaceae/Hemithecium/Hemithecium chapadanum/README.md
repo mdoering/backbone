@@ -1,5 +1,4 @@
-Hemithecium chapadanum (Redinger) Staiger SPECIES
-=======
+# Hemithecium chapadanum (Redinger) Staiger SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hyponectria flavonitens Sacc. & Speg. SPECIES
-=======
+# Hyponectria flavonitens Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

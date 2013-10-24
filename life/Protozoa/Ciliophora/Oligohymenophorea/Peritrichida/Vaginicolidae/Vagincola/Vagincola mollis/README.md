@@ -1,5 +1,4 @@
-Vagincola mollis Fromentel, 1876 SPECIES
-=======
+# Vagincola mollis Fromentel, 1876 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phlyctorhiza endogena A.M. Hanson, 1946 SPECIES
-=======
+# Phlyctorhiza endogena A.M. Hanson, 1946 SPECIES
 
 #### Status
 ACCEPTED

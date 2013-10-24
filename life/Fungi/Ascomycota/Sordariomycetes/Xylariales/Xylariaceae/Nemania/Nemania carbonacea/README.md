@@ -1,14 +1,13 @@
-Hypoxylon carbonaceum (Pouzar) L.E. Petrini & J.D. Rogers, 1986 SPECIES
-=======
+# Nemania carbonacea Pouzar, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 26: 409 (1986)
+Ceská Mykol. 39(1): 22 (1985)
 
 #### Original name
 Nemania carbonacea Pouzar, 1985

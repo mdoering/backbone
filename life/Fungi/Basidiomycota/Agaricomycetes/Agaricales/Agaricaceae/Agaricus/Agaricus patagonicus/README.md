@@ -1,5 +1,4 @@
-Agaricus patagonicus Speg. SPECIES
-=======
+# Agaricus patagonicus Speg. SPECIES
 
 #### Status
 ACCEPTED

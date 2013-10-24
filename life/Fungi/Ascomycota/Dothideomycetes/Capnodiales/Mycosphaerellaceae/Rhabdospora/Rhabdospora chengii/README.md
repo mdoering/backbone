@@ -1,5 +1,4 @@
-Rhabdospora chengii Gucevic SPECIES
-=======
+# Rhabdospora chengii Gucevic SPECIES
 
 #### Status
 ACCEPTED

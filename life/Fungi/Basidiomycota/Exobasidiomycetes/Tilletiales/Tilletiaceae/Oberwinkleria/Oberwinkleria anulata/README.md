@@ -1,5 +1,4 @@
-Oberwinkleria anulata Vánky & C. Vánky, 1995 SPECIES
-=======
+# Oberwinkleria anulata Vánky & C. Vánky, 1995 SPECIES
 
 #### Status
 ACCEPTED

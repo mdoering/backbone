@@ -1,17 +1,16 @@
-Dictyostelium aureum var. luteolum Cavender, Worley & Raper VARIETY
-=======
+# Dictyostelium aureum Olive, 1901 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Am. J. Bot. 68(3): 376 (1981)
+Proc. Amer. Acad. Arts & Sci. 37(12): 340 (1901)
 
 #### Original name
-Dictyostelium aureum var. luteolum Cavender, Worley & Raper
+Dictyostelium aureum Olive, 1901
 
 ### Remarks
 null

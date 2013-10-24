@@ -1,5 +1,4 @@
-Albigo phytoptophila (Kellerm. & Swingle) Kuntze SPECIES
-=======
+# Albigo phytoptophila (Kellerm. & Swingle) Kuntze SPECIES
 
 #### Status
 ACCEPTED

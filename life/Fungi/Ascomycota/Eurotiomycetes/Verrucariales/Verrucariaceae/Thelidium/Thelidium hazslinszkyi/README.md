@@ -1,5 +1,4 @@
-Thelidium hazslinszkyi Szatala SPECIES
-=======
+# Thelidium hazslinszkyi Szatala SPECIES
 
 #### Status
 ACCEPTED

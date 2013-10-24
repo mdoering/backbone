@@ -1,5 +1,4 @@
-Uromyces niteroyensis Rangel SPECIES
-=======
+# Uromyces niteroyensis Rangel SPECIES
 
 #### Status
 ACCEPTED

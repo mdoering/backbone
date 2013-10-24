@@ -1,5 +1,4 @@
-Tulostoma sinense J.E. Wright SPECIES
-=======
+# Tulostoma sinense J.E. Wright SPECIES
 
 #### Status
 ACCEPTED

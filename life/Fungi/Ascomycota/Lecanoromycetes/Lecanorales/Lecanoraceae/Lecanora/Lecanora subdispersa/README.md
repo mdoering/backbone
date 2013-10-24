@@ -1,5 +1,4 @@
-Lecanora subdispersa Nyl. SPECIES
-=======
+# Lecanora subdispersa Nyl. SPECIES
 
 #### Status
 ACCEPTED

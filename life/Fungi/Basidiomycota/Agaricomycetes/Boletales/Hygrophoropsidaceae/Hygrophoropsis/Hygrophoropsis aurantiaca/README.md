@@ -1,14 +1,13 @@
-Clitocybe aurantiaca var. aurantiaca VARIETY
-=======
+# Hygrophoropsis aurantiaca (Wulfen) Maire, 1921 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia, Beibl. 39: 6 (1900)
+L'Empoisonnem. Champ. 99 (1921)
 
 #### Original name
 Agaricus aurantiacus Wulfen, 1781

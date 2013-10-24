@@ -1,5 +1,4 @@
-Sphaeria trichostroma Kunze SPECIES
-=======
+# Sphaeria trichostroma Kunze SPECIES
 
 #### Status
 ACCEPTED

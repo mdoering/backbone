@@ -1,5 +1,4 @@
-Dictyosporites ovoideus Sal.-Cheb. & Locq. SPECIES
-=======
+# Dictyosporites ovoideus Sal.-Cheb. & Locq. SPECIES
 
 #### Status
 ACCEPTED

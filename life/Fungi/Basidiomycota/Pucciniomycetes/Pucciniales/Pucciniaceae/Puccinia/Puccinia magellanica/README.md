@@ -1,5 +1,4 @@
-Puccinia magellanica (Berk.) Sacc. SPECIES
-=======
+# Puccinia magellanica (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

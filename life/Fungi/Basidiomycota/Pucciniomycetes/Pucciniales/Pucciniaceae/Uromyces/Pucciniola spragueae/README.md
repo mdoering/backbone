@@ -1,5 +1,4 @@
-Pucciniola spragueae (Harkn.) Arthur SPECIES
-=======
+# Pucciniola spragueae (Harkn.) Arthur SPECIES
 
 #### Status
 ACCEPTED

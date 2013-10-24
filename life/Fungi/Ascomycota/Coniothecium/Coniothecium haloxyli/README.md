@@ -1,5 +1,4 @@
-Coniothecium haloxyli Kravtzev SPECIES
-=======
+# Coniothecium haloxyli Kravtzev SPECIES
 
 #### Status
 ACCEPTED

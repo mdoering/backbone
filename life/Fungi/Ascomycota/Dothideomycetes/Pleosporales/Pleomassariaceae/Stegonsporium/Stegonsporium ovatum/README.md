@@ -1,14 +1,13 @@
-Melanconium ovatum (Pers.) Link SPECIES
-=======
+# Stegonsporium ovatum (Pers.) S. Hughes SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Special Publication College of Agriculture, National Taiwan University 6: 89 (1825)
+Can. J. Bot. 36: 813 (1958)
 
 #### Original name
 Stilbospora ovata

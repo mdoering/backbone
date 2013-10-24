@@ -1,5 +1,4 @@
-Saccharomonospora xinjiangensis Jin et al., 1998 SPECIES
-=======
+# Saccharomonospora xinjiangensis Jin et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

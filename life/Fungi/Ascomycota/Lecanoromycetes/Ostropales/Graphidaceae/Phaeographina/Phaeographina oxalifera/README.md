@@ -1,5 +1,4 @@
-Phaeographina oxalifera Redinger SPECIES
-=======
+# Phaeographina oxalifera Redinger SPECIES
 
 #### Status
 ACCEPTED

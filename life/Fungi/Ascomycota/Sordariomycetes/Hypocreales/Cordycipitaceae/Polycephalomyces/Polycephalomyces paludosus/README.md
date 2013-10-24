@@ -1,5 +1,4 @@
-Polycephalomyces paludosus Mains SPECIES
-=======
+# Polycephalomyces paludosus Mains SPECIES
 
 #### Status
 ACCEPTED

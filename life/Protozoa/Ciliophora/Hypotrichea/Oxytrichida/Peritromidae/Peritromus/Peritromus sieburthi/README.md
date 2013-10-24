@@ -1,5 +1,4 @@
-Peritromus sieburthi Small & Lynn, 1985 SPECIES
-=======
+# Peritromus sieburthi Small & Lynn, 1985 SPECIES
 
 #### Status
 ACCEPTED

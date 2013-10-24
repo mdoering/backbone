@@ -1,17 +1,16 @@
-Microsphaeropsis caffera Matsush. SPECIES
-=======
+# Microsphaeropsis caffra Matsush. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Matsush. Mycol. Mem. 9: 16 (1996)
 
 #### Original name
-Microsphaeropsis caffera Matsush.
+Microsphaeropsis caffra Matsush.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Sphaerotheca veronicae (Jacz.) Bunkina SPECIES
-=======
+# Sphaerotheca veronicae (Jacz.) Bunkina SPECIES
 
 #### Status
 ACCEPTED

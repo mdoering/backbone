@@ -1,5 +1,4 @@
-Mortierella sarnyensis Milko, 1973 SPECIES
-=======
+# Mortierella sarnyensis Milko, 1973 SPECIES
 
 #### Status
 ACCEPTED

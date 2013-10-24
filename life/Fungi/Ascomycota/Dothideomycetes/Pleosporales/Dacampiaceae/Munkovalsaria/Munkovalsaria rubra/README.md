@@ -1,5 +1,4 @@
-Munkovalsaria rubra Aptroot, Aa & Petrini SPECIES
-=======
+# Munkovalsaria rubra Aptroot, Aa & Petrini SPECIES
 
 #### Status
 ACCEPTED

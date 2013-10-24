@@ -1,5 +1,4 @@
-Bovista miniata Dill. SPECIES
-=======
+# Bovista miniata Dill. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptogium resupinans Nyl. SPECIES
-=======
+# Leptogium resupinans Nyl. SPECIES
 
 #### Status
 ACCEPTED

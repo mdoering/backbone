@@ -1,5 +1,4 @@
-Peziza pileocrocata P. Crouan & H. Crouan SPECIES
-=======
+# Peziza pileocrocata P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteridiella ohiana var. ohiana VARIETY
-=======
+# Asteridiella ohiana (F. Stevens) Hansf. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Beih. Sydowia 2: 138 (1961)
 
 #### Original name
-Asteridiella ohiana var. ohiana
+Amazonia ohiana F. Stevens
 
 ### Remarks
 null

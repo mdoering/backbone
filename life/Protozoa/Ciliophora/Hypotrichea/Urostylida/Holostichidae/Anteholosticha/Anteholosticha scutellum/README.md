@@ -1,5 +1,4 @@
-Anteholosticha scutellum (Cohn, 1866) Berger, 2003 SPECIES
-=======
+# Anteholosticha scutellum (Cohn, 1866) Berger, 2003 SPECIES
 
 #### Status
 ACCEPTED

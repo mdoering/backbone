@@ -1,17 +1,16 @@
-Gnomonia carpinicola (Höhn.) Sogonov, 2008 SPECIES
-=======
+# Apioplagiostoma carpinicola (Höhn.) M.E. Barr, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Mem. 7: 103 (1978)
 
 #### Original name
-null
+Plagiostomella carpinicola Höhn., 1920
 
 ### Remarks
 null

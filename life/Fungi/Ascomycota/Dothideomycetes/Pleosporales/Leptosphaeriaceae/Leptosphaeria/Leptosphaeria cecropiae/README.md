@@ -1,5 +1,4 @@
-Leptosphaeria cecropiae Chardón SPECIES
-=======
+# Leptosphaeria cecropiae Chardón SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Staurolithites laffittei Caratini, 1963 SPECIES
-=======
+# Staurolithites laffittei Caratini, 1963 SPECIES
 
 #### Status
 ACCEPTED

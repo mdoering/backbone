@@ -1,17 +1,16 @@
-Hodophilus R. Heim GENUS
-=======
+# Camarophyllopsis Herink, 1958 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Revue Mycol. , Paris 30(4): 231 (1965)
+null
 
 #### Original name
-Hodophilus R. Heim
+null
 
 ### Remarks
 null

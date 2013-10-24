@@ -1,5 +1,4 @@
-Psora michoacanensis B. de Lesd. SPECIES
-=======
+# Psora michoacanensis B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

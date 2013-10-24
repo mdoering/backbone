@@ -1,5 +1,4 @@
-Symphytocarpus impexus Ing & Nann.-Bremek., 1967 SPECIES
-=======
+# Symphytocarpus impexus Ing & Nann.-Bremek., 1967 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptostromella hirtellaqe Henn. SPECIES
-=======
+# Leptostromella hirtellaqe Henn. SPECIES
 
 #### Status
 ACCEPTED

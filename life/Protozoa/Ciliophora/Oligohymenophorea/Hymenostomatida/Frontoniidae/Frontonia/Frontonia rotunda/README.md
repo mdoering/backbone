@@ -1,5 +1,4 @@
-Frontonia rotunda subsp. depressa SUBSPECIES
-=======
+# Frontonia rotunda Gelei, 1954 SPECIES
 
 #### Status
 ACCEPTED

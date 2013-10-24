@@ -1,5 +1,4 @@
-Valsella nigroannulata Fuckel SPECIES
-=======
+# Valsella nigroannulata Fuckel SPECIES
 
 #### Status
 ACCEPTED

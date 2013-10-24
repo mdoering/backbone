@@ -1,5 +1,4 @@
-Saccharomyces theobromae H. Will SPECIES
-=======
+# Saccharomyces theobromae H. Will SPECIES
 
 #### Status
 ACCEPTED

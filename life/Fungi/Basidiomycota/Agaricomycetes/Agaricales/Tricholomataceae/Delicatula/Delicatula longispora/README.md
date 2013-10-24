@@ -1,5 +1,4 @@
-Delicatula longispora Velen. SPECIES
-=======
+# Delicatula longispora Velen. SPECIES
 
 #### Status
 ACCEPTED

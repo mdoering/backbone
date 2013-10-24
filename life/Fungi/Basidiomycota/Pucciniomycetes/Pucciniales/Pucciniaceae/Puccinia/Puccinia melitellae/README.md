@@ -1,5 +1,4 @@
-Puccinia melitellae Pantidou & D.M. Hend. SPECIES
-=======
+# Puccinia melitellae Pantidou & D.M. Hend. SPECIES
 
 #### Status
 ACCEPTED

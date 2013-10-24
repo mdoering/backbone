@@ -1,5 +1,4 @@
-Agaricus plumbarius Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus plumbarius Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

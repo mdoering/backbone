@@ -1,5 +1,4 @@
-Loxophyllum grande Entz, 1879 SPECIES
-=======
+# Loxophyllum grande Entz, 1879 SPECIES
 
 #### Status
 ACCEPTED

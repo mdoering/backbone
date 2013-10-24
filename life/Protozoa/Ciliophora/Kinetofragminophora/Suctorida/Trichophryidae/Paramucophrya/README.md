@@ -1,5 +1,4 @@
-Paramucophrya Chen, Song & Hu, 2005 GENUS
-=======
+# Paramucophrya Chen, Song & Hu, 2005 GENUS
 
 #### Status
 ACCEPTED

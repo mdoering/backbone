@@ -1,5 +1,4 @@
-Peteinosphaeridium granulatum Uutela & Tynni, 1991 SPECIES
-=======
+# Peteinosphaeridium granulatum Uutela & Tynni, 1991 SPECIES
 
 #### Status
 ACCEPTED

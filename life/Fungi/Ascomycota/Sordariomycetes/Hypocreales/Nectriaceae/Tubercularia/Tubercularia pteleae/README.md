@@ -1,5 +1,4 @@
-Tubercularia pteleae Oudem. SPECIES
-=======
+# Tubercularia pteleae Oudem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cucujomyces gonicoeli Thaxt., 1931 SPECIES
-=======
+# Cucujomyces gonicoeli Thaxt., 1931 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trachelomonas zuberi var. nepos Drezepolski VARIETY
-=======
+# Trachelomonas zuberi Koczwara SPECIES
 
 #### Status
 ACCEPTED

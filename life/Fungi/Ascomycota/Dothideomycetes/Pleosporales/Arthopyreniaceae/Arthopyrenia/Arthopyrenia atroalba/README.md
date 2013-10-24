@@ -1,5 +1,4 @@
-Arthopyrenia atroalba Vain. SPECIES
-=======
+# Arthopyrenia atroalba Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena arcifolia Kühner SPECIES
-=======
+# Mycena arcifolia Kühner SPECIES
 
 #### Status
 ACCEPTED

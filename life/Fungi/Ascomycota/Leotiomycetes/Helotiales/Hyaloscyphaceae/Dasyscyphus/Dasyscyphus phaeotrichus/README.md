@@ -1,8 +1,7 @@
-Dasyscypha phaeotrichus (Durieu & Lév.) Sacc. SPECIES
-=======
+# Dasyscyphus phaeotrichus (Durieu & Lév.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

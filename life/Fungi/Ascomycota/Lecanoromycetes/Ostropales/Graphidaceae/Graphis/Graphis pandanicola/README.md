@@ -1,5 +1,4 @@
-Graphis pandanicola M. Nakan. & H. Harada SPECIES
-=======
+# Graphis pandanicola M. Nakan. & H. Harada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lapugyina Popescu in Popescu, Cicha & Rogl, 1998 GENUS
-=======
+# Lapugyina Popescu in Popescu, Cicha & Rogl, 1998 GENUS
 
 #### Status
 ACCEPTED

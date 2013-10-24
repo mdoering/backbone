@@ -1,5 +1,4 @@
-Chrysochromulina mactra Manton SPECIES
-=======
+# Chrysochromulina mactra Manton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oscillatoria peronides Skuja SPECIES
-=======
+# Oscillatoria peronides Skuja SPECIES
 
 #### Status
 ACCEPTED

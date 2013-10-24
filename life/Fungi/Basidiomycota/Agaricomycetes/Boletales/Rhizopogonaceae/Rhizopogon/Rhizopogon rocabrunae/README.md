@@ -1,5 +1,4 @@
-Rhizopogon rocabrunae M.P. Martín, 1996 SPECIES
-=======
+# Rhizopogon rocabrunae M.P. Martín, 1996 SPECIES
 
 #### Status
 ACCEPTED

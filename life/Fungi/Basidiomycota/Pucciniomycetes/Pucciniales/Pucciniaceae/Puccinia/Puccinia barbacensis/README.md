@@ -1,5 +1,4 @@
-Puccinia barbacensis Rangel SPECIES
-=======
+# Puccinia barbacensis Rangel SPECIES
 
 #### Status
 ACCEPTED

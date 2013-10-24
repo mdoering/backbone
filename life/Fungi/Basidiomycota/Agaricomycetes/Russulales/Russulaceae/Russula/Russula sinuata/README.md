@@ -1,5 +1,4 @@
-Russula sinuata T. Lebel SPECIES
-=======
+# Russula sinuata T. Lebel SPECIES
 
 #### Status
 ACCEPTED

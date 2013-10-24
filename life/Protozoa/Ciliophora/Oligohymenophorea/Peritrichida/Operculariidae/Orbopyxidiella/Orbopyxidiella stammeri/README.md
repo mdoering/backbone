@@ -1,8 +1,7 @@
-Pyxidium stammeri Lust, 1950 SPECIES
-=======
+# Orbopyxidiella stammeri (Lust, 1950) Guhl, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

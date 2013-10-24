@@ -1,5 +1,4 @@
-Tarichium sphaericum Balazy & J. Wisn. SPECIES
-=======
+# Tarichium sphaericum Balazy & J. Wisn. SPECIES
 
 #### Status
 ACCEPTED

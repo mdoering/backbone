@@ -1,5 +1,4 @@
-Heterosporiopsis Petr. GENUS
-=======
+# Heterosporiopsis Petr. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Villosacapsula leintwardinensis (Dorning, 1981) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Villosacapsula leintwardinensis (Dorning, 1981) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

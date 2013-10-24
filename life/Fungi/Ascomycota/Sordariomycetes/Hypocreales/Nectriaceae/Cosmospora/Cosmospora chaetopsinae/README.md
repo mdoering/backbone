@@ -1,17 +1,16 @@
-Chaetopsinectria chaetopsinae (Samuels) J. Luo & W.Y. Zhuang, 2010 SPECIES
-=======
+# Cosmospora chaetopsinae (Samuels) Rossman & Samuels, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Rossman, Samuels, Rogerson & Lowen, Stud. Mycol. 42: 119 (1999)
 
 #### Original name
-null
+Nectria chaetopsinae Samuels, 1985
 
 ### Remarks
 null

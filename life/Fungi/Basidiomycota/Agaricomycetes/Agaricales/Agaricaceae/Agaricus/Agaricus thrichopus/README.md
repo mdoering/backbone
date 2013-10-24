@@ -1,5 +1,4 @@
-Agaricus thrichopus Pers. SPECIES
-=======
+# Agaricus thrichopus Pers. SPECIES
 
 #### Status
 ACCEPTED

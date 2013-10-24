@@ -1,5 +1,4 @@
-Dothiorella glandaria (Sacc.) Petr. & Syd. SPECIES
-=======
+# Dothiorella glandaria (Sacc.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

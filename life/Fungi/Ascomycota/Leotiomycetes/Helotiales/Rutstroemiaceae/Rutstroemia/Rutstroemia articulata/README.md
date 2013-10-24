@@ -1,5 +1,4 @@
-Rutstroemia articulata Velen. SPECIES
-=======
+# Rutstroemia articulata Velen. SPECIES
 
 #### Status
 ACCEPTED

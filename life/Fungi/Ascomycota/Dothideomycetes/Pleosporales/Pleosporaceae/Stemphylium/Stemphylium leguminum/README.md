@@ -1,5 +1,4 @@
-Stemphylium leguminum Sacc. SPECIES
-=======
+# Stemphylium leguminum Sacc. SPECIES
 
 #### Status
 ACCEPTED

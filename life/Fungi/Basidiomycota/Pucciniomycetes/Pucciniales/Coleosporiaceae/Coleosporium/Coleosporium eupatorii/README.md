@@ -1,5 +1,4 @@
-Coleosporium eupatorii Arthur, 1906 SPECIES
-=======
+# Coleosporium eupatorii Arthur, 1906 SPECIES
 
 #### Status
 ACCEPTED

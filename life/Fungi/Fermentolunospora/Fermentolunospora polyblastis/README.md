@@ -1,5 +1,4 @@
-Fermentolunospora polyblastis anon. SPECIES
-=======
+# Fermentolunospora polyblastis anon. SPECIES
 
 #### Status
 ACCEPTED

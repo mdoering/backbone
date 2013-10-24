@@ -1,5 +1,4 @@
-Heterochaete gillesii Paéz SPECIES
-=======
+# Heterochaete gillesii Paéz SPECIES
 
 #### Status
 ACCEPTED

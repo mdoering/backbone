@@ -1,5 +1,4 @@
-Omphalopsis centenaria (Berk. & M.A. Curtis) Murrill SPECIES
-=======
+# Omphalopsis centenaria (Berk. & M.A. Curtis) Murrill SPECIES
 
 #### Status
 ACCEPTED

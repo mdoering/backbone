@@ -1,5 +1,4 @@
-Cladonia darwinii S. Hammer SPECIES
-=======
+# Cladonia darwinii S. Hammer SPECIES
 
 #### Status
 ACCEPTED

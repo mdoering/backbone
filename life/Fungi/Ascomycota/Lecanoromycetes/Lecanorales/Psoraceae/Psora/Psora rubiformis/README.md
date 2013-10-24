@@ -1,14 +1,13 @@
-Lepidoma rubiforme (Wahlenb. ex Ach.) Gray SPECIES
-=======
+# Psora rubiformis (Ach.) Hook. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nat. Arr. Brit. Pl. (London) 1: (1821)
+Engler's Flora 5: 197 (1844)
 
 #### Original name
 Baeomyces rubiformis Wahlenb. ex Ach.

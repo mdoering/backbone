@@ -1,5 +1,4 @@
-Paraphaeosphaeria microspora (Ellis & Everh.) Shoemaker & C.E. Babc. SPECIES
-=======
+# Paraphaeosphaeria microspora (Ellis & Everh.) Shoemaker & C.E. Babc. SPECIES
 
 #### Status
 ACCEPTED

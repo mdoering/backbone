@@ -1,5 +1,4 @@
-Hendersonia stipae-pennatae Fautrey SPECIES
-=======
+# Hendersonia stipae-pennatae Fautrey SPECIES
 
 #### Status
 ACCEPTED

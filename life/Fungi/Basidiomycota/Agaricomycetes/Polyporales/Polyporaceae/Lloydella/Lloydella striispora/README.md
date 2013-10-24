@@ -1,5 +1,4 @@
-Lloydella striispora (Rick) Rick SPECIES
-=======
+# Lloydella striispora (Rick) Rick SPECIES
 
 #### Status
 ACCEPTED

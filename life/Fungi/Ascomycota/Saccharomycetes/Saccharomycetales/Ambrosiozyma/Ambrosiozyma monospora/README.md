@@ -1,17 +1,16 @@
-Pichia crossotarsi L.R. Batra, 1971 SPECIES
-=======
+# Ambrosiozyma monospora (Saito) Van der Walt, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycopath. Mycol. appl. 46(4): 308 (1972)
 
 #### Original name
-null
+Endomycopsis monosporus Saito, 1932
 
 ### Remarks
 null

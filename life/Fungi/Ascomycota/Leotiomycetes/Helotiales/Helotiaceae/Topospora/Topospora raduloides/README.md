@@ -1,5 +1,4 @@
-Topospora raduloides (Sacc. & Scalia) Verkley SPECIES
-=======
+# Topospora raduloides (Sacc. & Scalia) Verkley SPECIES
 
 #### Status
 ACCEPTED

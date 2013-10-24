@@ -1,5 +1,4 @@
-Stachybotrys indica P.C. Misra SPECIES
-=======
+# Stachybotrys indica P.C. Misra SPECIES
 
 #### Status
 ACCEPTED

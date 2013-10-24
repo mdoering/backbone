@@ -1,5 +1,4 @@
-Bolacotricha GENUS
-=======
+# Bolacotricha GENUS
 
 #### Status
 ACCEPTED

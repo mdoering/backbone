@@ -1,5 +1,4 @@
-Passalora lomaensis (Deighton) U. Braun & Crous SPECIES
-=======
+# Passalora lomaensis (Deighton) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

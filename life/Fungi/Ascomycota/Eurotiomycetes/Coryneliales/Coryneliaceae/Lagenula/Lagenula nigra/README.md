@@ -1,5 +1,4 @@
-Lagenula nigra (Schrad.) G. Arnaud SPECIES
-=======
+# Lagenula nigra (Schrad.) G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

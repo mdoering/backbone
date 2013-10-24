@@ -1,5 +1,4 @@
-Spirochona gnathopodialis Jankowski, 1973 SPECIES
-=======
+# Spirochona gnathopodialis Jankowski, 1973 SPECIES
 
 #### Status
 ACCEPTED

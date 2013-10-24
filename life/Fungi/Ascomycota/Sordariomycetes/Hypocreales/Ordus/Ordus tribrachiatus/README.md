@@ -1,5 +1,4 @@
-Ordus tribrachiatus K. Ando & Tubaki, 1983 SPECIES
-=======
+# Ordus tribrachiatus K. Ando & Tubaki, 1983 SPECIES
 
 #### Status
 ACCEPTED

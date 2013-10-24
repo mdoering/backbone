@@ -1,5 +1,4 @@
-Clostridium sordellii (Hall and Scott, 1927) Prévot, 1938 (Approved Lists, 1980) SPECIES
-=======
+# Clostridium sordellii (Hall and Scott, 1927) Prévot, 1938 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria borealis var. borealis VARIETY
-=======
+# Leptosphaeria borealis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Leptosphaeria borealis var. borealis
+Leptosphaeria borealis Ellis & Everh.
 
 ### Remarks
 null

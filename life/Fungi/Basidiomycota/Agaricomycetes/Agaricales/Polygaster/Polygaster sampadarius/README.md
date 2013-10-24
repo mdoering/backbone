@@ -1,5 +1,4 @@
-Polygaster sampadarius Fr., 1823 SPECIES
-=======
+# Polygaster sampadarius Fr., 1823 SPECIES
 
 #### Status
 ACCEPTED

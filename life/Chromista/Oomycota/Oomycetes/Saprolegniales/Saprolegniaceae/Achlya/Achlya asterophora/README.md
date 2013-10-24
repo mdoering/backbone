@@ -1,5 +1,4 @@
-Achlya asterophora Minden SPECIES
-=======
+# Achlya asterophora Minden SPECIES
 
 #### Status
 ACCEPTED

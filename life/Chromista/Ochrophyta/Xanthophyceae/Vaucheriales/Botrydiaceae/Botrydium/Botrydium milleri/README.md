@@ -1,5 +1,4 @@
-Botrydium milleri Wodenitscharov SPECIES
-=======
+# Botrydium milleri Wodenitscharov SPECIES
 
 #### Status
 ACCEPTED

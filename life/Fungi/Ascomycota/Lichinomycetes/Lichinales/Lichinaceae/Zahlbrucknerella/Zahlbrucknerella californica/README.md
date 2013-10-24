@@ -1,5 +1,4 @@
-Zahlbrucknerella californica Henssen SPECIES
-=======
+# Zahlbrucknerella californica Henssen SPECIES
 
 #### Status
 ACCEPTED

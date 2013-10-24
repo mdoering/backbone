@@ -1,5 +1,4 @@
-Fomitiporella langloisiana Murrill SPECIES
-=======
+# Fomitiporella langloisiana Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Zundelula fimbristylidis Thirum. & Naras., 1952 SPECIES
-=======
+# Dermatosorus fimbristylidis (Thirum. & Naras.) Langdon, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 6(5-6): 410 (1952)
+Trans. Br. mycol. Soc. 68(3): 450 (1977)
 
 #### Original name
 Zundelula fimbristylidis Thirum. & Naras., 1952

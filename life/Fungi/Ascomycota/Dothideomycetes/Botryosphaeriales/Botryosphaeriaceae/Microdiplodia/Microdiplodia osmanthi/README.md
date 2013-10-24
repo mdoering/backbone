@@ -1,5 +1,4 @@
-Microdiplodia osmanthi (Traverso) Traverso SPECIES
-=======
+# Microdiplodia osmanthi (Traverso) Traverso SPECIES
 
 #### Status
 ACCEPTED

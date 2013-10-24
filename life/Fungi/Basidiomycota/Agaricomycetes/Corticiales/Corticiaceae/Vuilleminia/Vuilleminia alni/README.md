@@ -1,14 +1,13 @@
-Vuilleminia coryli var. alni (Boidin, Lanq. & Gilles) Krieglst., 1999 VARIETY
-=======
+# Vuilleminia alni Boidin, Lanq. & Gilles, 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beitr. Kenntn. Pilze Mitteleur. 12: 46 (1999)
+Bull. trimest. Soc. mycol. Fr. 110(2): 95 (1994)
 
 #### Original name
 Vuilleminia alni Boidin, Lanq. & Gilles, 1994

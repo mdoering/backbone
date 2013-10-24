@@ -1,5 +1,4 @@
-Peltostromellina atra Bat. & A.F. Vital, 1959 SPECIES
-=======
+# Peltostromellina atra Bat. & A.F. Vital, 1959 SPECIES
 
 #### Status
 ACCEPTED

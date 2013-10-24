@@ -1,5 +1,4 @@
-Ramboldia haematites (Fée) Kalb, Lumbsch & Elix SPECIES
-=======
+# Ramboldia haematites (Fée) Kalb, Lumbsch & Elix SPECIES
 
 #### Status
 ACCEPTED

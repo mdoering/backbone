@@ -1,17 +1,16 @@
-Agaricus evernius var. evernius VARIETY
-=======
+# Cortinarius evernius (Fr.) Fr., 1838 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Epicr. syst. mycol. (Upsaliae) 294 (1838)
 
 #### Original name
-null
+Agaricus evernius Fr., 1818
 
 ### Remarks
 null

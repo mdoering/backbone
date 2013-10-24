@@ -1,5 +1,4 @@
-Waksmania H. Lechev. & M.P. Lechev. GENUS
-=======
+# Waksmania H. Lechev. & M.P. Lechev. GENUS
 
 #### Status
 ACCEPTED

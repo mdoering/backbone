@@ -1,5 +1,4 @@
-Asteridiella escharoides (Syd.) Hansf. SPECIES
-=======
+# Asteridiella escharoides (Syd.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

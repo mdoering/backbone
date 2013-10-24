@@ -1,5 +1,4 @@
-Dicaeoma malvacearum Kuntze SPECIES
-=======
+# Dicaeoma malvacearum Kuntze SPECIES
 
 #### Status
 ACCEPTED

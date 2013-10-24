@@ -1,5 +1,4 @@
-Mirandina flagelliformis Matsush. SPECIES
-=======
+# Mirandina flagelliformis Matsush. SPECIES
 
 #### Status
 ACCEPTED

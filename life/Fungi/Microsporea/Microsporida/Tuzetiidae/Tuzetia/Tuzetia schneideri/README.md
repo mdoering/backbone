@@ -1,5 +1,4 @@
-Tuzetia schneideri SPECIES
-=======
+# Tuzetia schneideri SPECIES
 
 #### Status
 ACCEPTED

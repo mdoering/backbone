@@ -1,5 +1,4 @@
-Hydrocybe bicolor (Cooke) M.M. Moser SPECIES
-=======
+# Hydrocybe bicolor (Cooke) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

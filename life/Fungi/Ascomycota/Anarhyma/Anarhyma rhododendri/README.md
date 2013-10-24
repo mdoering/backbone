@@ -1,5 +1,4 @@
-Anarhyma rhododendri M.H. Pei & Z.W. Yuan, 1986 SPECIES
-=======
+# Anarhyma rhododendri M.H. Pei & Z.W. Yuan, 1986 SPECIES
 
 #### Status
 ACCEPTED

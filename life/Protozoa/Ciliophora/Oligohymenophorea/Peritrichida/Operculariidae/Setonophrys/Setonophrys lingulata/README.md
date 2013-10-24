@@ -1,5 +1,4 @@
-Setonophrys lingulata (Kane, 1965) Clamp, 1991 SPECIES
-=======
+# Setonophrys lingulata (Kane, 1965) Clamp, 1991 SPECIES
 
 #### Status
 ACCEPTED

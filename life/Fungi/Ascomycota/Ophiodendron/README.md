@@ -1,5 +1,4 @@
-Ophiodendron G. Arnaud GENUS
-=======
+# Ophiodendron G. Arnaud GENUS
 
 #### Status
 ACCEPTED

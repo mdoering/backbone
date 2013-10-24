@@ -1,5 +1,4 @@
-Trematosphaeria friesii Rehm SPECIES
-=======
+# Trematosphaeria friesii Rehm SPECIES
 
 #### Status
 ACCEPTED

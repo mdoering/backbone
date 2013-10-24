@@ -1,5 +1,4 @@
-Physcidia squamulosa Tuck. SPECIES
-=======
+# Physcidia squamulosa Tuck. SPECIES
 
 #### Status
 ACCEPTED

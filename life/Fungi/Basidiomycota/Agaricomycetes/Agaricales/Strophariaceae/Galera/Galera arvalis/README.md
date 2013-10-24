@@ -1,5 +1,4 @@
-Galera arvalis SPECIES
-=======
+# Galera arvalis SPECIES
 
 #### Status
 ACCEPTED

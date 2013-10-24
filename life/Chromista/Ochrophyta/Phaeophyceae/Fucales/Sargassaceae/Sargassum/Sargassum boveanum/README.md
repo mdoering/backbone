@@ -1,5 +1,4 @@
-Sargassum boveanum var. somalense De Toni VARIETY
-=======
+# Sargassum boveanum J. Agardh SPECIES
 
 #### Status
 ACCEPTED

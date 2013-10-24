@@ -1,5 +1,4 @@
-Pseudocercospora holarrhenae (Thirum. & Chupp) Deighton SPECIES
-=======
+# Pseudocercospora holarrhenae (Thirum. & Chupp) Deighton SPECIES
 
 #### Status
 ACCEPTED

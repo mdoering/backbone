@@ -1,5 +1,4 @@
-Blastocladiella variabilis (Harder & Sörgel) Harder & Sörgel SPECIES
-=======
+# Blastocladiella variabilis (Harder & Sörgel) Harder & Sörgel SPECIES
 
 #### Status
 ACCEPTED

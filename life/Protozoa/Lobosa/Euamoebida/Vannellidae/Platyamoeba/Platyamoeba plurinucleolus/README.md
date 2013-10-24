@@ -1,5 +1,4 @@
-Platyamoeba plurinucleolus Page, 1974 SPECIES
-=======
+# Platyamoeba plurinucleolus Page, 1974 SPECIES
 
 #### Status
 ACCEPTED

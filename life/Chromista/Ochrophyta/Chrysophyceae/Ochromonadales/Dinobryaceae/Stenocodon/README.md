@@ -1,5 +1,4 @@
-Stenocodon Pascher, 1942 GENUS
-=======
+# Stenocodon Pascher, 1942 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rickia macrochelis Thaxt. SPECIES
-=======
+# Rickia macrochelis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

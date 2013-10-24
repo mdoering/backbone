@@ -1,5 +1,4 @@
-Aspicilia plumbeocaesia (Zahlbr.) H. Magn. SPECIES
-=======
+# Aspicilia plumbeocaesia (Zahlbr.) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

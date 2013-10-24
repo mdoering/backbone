@@ -1,14 +1,13 @@
-Chaconia baphiae (Cummins) Thirum. & Cummins, 1948 SPECIES
-=======
+# Ypsilospora baphiae Cummins, 1941 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 40(4): 421 (1948)
+Bull. Torrey bot. Club 68: 47 (1941)
 
 #### Original name
 Ypsilospora baphiae Cummins, 1941

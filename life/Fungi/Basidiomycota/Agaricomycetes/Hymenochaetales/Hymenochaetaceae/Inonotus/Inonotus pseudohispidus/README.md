@@ -1,5 +1,4 @@
-Inonotus pseudohispidus Kravtzev SPECIES
-=======
+# Inonotus pseudohispidus Kravtzev SPECIES
 
 #### Status
 ACCEPTED

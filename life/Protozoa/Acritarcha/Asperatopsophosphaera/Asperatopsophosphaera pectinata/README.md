@@ -1,5 +1,4 @@
-Asperatopsophosphaera pectinata (Naumova in Nikitina & Ogurzova, 1971) Fensome et al., 1990 SPECIES
-=======
+# Asperatopsophosphaera pectinata (Naumova in Nikitina & Ogurzova, 1971) Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Haplodothis chaenostoma (Sacc.) Theiss. SPECIES
-=======
+# Haplodothis chaenostoma (Sacc.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

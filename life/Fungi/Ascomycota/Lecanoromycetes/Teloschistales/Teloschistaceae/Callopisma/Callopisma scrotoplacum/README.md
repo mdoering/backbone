@@ -1,5 +1,4 @@
-Callopisma scrotoplacum SPECIES
-=======
+# Callopisma scrotoplacum SPECIES
 
 #### Status
 ACCEPTED

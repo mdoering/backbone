@@ -1,5 +1,4 @@
-Pebrilla Giard, 1888 GENUS
-=======
+# Pebrilla Giard, 1888 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bubakia argentinensis Speg. SPECIES
-=======
+# Bubakia argentinensis Speg. SPECIES
 
 #### Status
 ACCEPTED

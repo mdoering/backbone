@@ -1,5 +1,4 @@
-Puccinia madiae P. Syd. & Syd. SPECIES
-=======
+# Puccinia madiae P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

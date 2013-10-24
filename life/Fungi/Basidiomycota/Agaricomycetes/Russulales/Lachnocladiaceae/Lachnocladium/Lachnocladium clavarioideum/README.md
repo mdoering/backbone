@@ -1,5 +1,4 @@
-Lachnocladium clavarioideum Pat. SPECIES
-=======
+# Lachnocladium clavarioideum Pat. SPECIES
 
 #### Status
 ACCEPTED

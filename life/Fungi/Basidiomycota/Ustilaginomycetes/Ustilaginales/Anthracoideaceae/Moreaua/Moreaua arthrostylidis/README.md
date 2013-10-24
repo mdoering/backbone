@@ -1,5 +1,4 @@
-Moreaua arthrostylidis Vánky & R.G. Shivas, 2001 SPECIES
-=======
+# Moreaua arthrostylidis Vánky & R.G. Shivas, 2001 SPECIES
 
 #### Status
 ACCEPTED

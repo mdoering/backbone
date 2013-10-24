@@ -1,5 +1,4 @@
-Helcococcus kunzii Collins et al., 1993 SPECIES
-=======
+# Helcococcus kunzii Collins et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

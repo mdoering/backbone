@@ -1,5 +1,4 @@
-Spilocaea opuntiae Rabenh. SPECIES
-=======
+# Spilocaea opuntiae Rabenh. SPECIES
 
 #### Status
 ACCEPTED

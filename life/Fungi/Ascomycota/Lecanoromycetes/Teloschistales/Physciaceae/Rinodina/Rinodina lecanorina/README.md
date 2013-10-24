@@ -1,17 +1,16 @@
-Rinodina ocellata var. ocellata VARIETY
-=======
+# Rinodina lecanorina (A. Massal.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Geneac. Lich. 19 (1854)
 
 #### Original name
-Rinodina ocellata var. ocellata
+Mischoblastia lecanorina A. Massal.
 
 ### Remarks
 null

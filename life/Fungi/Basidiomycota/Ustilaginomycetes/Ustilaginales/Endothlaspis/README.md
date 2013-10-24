@@ -1,5 +1,4 @@
-Endothlaspis Sorokin GENUS
-=======
+# Endothlaspis Sorokin GENUS
 
 #### Status
 ACCEPTED

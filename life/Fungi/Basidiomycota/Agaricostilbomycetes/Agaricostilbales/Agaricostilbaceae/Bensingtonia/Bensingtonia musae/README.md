@@ -1,5 +1,4 @@
-Bensingtonia musae M. Takash., S.O. Suh & Nakase SPECIES
-=======
+# Bensingtonia musae M. Takash., S.O. Suh & Nakase SPECIES
 
 #### Status
 ACCEPTED

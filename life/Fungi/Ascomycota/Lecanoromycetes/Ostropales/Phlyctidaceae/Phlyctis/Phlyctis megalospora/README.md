@@ -1,5 +1,4 @@
-Phlyctis megalospora (P. James) D.J. Galloway & Guzmán SPECIES
-=======
+# Phlyctis megalospora (P. James) D.J. Galloway & Guzmán SPECIES
 
 #### Status
 ACCEPTED

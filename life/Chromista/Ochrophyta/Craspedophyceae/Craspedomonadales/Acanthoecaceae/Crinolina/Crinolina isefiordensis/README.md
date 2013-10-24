@@ -1,5 +1,4 @@
-Crinolina isefiordensis Thomsen SPECIES
-=======
+# Crinolina isefiordensis Thomsen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Botrytis compacta (Pat.) Sacc. SPECIES
-=======
+# Botrytis compacta (Pat.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

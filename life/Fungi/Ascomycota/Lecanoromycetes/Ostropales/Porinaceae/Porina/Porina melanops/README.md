@@ -1,5 +1,4 @@
-Porina melanops Malme SPECIES
-=======
+# Porina melanops Malme SPECIES
 
 #### Status
 ACCEPTED

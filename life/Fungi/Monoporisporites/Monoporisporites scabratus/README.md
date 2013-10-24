@@ -1,5 +1,4 @@
-Monoporisporites scabratus (Z.C. Song & Liu Cao) Kalgutkar & Janson. SPECIES
-=======
+# Monoporisporites scabratus (Z.C. Song & Liu Cao) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gnomoniella spilota (Lév.) Sacc. SPECIES
-=======
+# Gnomoniella spilota (Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

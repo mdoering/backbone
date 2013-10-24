@@ -1,5 +1,4 @@
-Cercosporidium fasciculatum (Cooke & Ellis) Höhn. SPECIES
-=======
+# Cercosporidium fasciculatum (Cooke & Ellis) Höhn. SPECIES
 
 #### Status
 ACCEPTED

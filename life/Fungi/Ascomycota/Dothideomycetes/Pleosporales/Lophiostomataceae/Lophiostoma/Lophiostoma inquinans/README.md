@@ -1,5 +1,4 @@
-Lophiostoma inquinans (Rehm) O.E. Erikss. SPECIES
-=======
+# Lophiostoma inquinans (Rehm) O.E. Erikss. SPECIES
 
 #### Status
 ACCEPTED

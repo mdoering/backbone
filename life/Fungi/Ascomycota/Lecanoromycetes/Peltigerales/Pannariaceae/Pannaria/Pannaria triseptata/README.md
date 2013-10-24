@@ -1,5 +1,4 @@
-Pannaria triseptata (Nyl.) A. Rich. SPECIES
-=======
+# Pannaria triseptata (Nyl.) A. Rich. SPECIES
 
 #### Status
 ACCEPTED

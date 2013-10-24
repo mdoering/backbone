@@ -1,5 +1,4 @@
-Graphina sulcatula Müll. Arg. SPECIES
-=======
+# Graphina sulcatula Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

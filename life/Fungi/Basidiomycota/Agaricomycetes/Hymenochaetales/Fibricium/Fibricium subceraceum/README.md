@@ -1,14 +1,13 @@
-Fibrodontia subceracea Hallenb., 1978 SPECIES
-=======
+# Fibricium subceraceum (Hallenb.) Bernicchia, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Iranian Journal of Plant Pathology 14: 54 (1978)
+in Hjortstam & Ryvarden, Mycotaxon 25(2): 551 (1986)
 
 #### Original name
 Fibrodontia subceracea Hallenb., 1978

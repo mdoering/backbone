@@ -1,5 +1,4 @@
-Diderma cor-rubrum T. Macbr., 1922 SPECIES
-=======
+# Diderma cor-rubrum T. Macbr., 1922 SPECIES
 
 #### Status
 ACCEPTED

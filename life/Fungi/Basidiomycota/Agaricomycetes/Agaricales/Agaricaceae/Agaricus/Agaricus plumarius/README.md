@@ -1,5 +1,4 @@
-Agaricus plumarius Berk. & Broome SPECIES
-=======
+# Agaricus plumarius Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

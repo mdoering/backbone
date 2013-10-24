@@ -1,5 +1,4 @@
-Dendrosarcus contrarius (Kalchb.) Kuntze SPECIES
-=======
+# Dendrosarcus contrarius (Kalchb.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pithomyces prolatus Hol.-Jech. & R.F. Castañeda SPECIES
-=======
+# Pithomyces prolatus Hol.-Jech. & R.F. Castañeda SPECIES
 
 #### Status
 ACCEPTED

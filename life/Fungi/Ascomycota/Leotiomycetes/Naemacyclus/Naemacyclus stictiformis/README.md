@@ -1,5 +1,4 @@
-Naemacyclus stictiformis Petr., 1951 SPECIES
-=======
+# Naemacyclus stictiformis Petr., 1951 SPECIES
 
 #### Status
 ACCEPTED

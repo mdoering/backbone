@@ -1,5 +1,4 @@
-Scyphosphaera penna Kamptner, 1955 SPECIES
-=======
+# Scyphosphaera penna Kamptner, 1955 SPECIES
 
 #### Status
 ACCEPTED

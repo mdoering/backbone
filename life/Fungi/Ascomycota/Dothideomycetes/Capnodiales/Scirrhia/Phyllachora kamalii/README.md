@@ -1,5 +1,4 @@
-Phyllachora kamalii Seshadri, 1968 SPECIES
-=======
+# Phyllachora kamalii Seshadri, 1968 SPECIES
 
 #### Status
 DOUBTFUL

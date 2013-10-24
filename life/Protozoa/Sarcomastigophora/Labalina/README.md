@@ -1,5 +1,4 @@
-Labalina Azbel, 1988 GENUS
-=======
+# Labalina Azbel, 1988 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Zignoëlla lichenoides (Rehm) Sacc. SPECIES
-=======
+# Zignoëlla lichenoides (Rehm) Sacc. SPECIES
 
 #### Status
 ACCEPTED

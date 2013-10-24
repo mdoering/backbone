@@ -1,5 +1,4 @@
-Terana irrigata (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Terana irrigata (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

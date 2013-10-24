@@ -1,5 +1,4 @@
-Peniophora subglebulosa Höhn. & Litsch. SPECIES
-=======
+# Peniophora subglebulosa Höhn. & Litsch. SPECIES
 
 #### Status
 ACCEPTED

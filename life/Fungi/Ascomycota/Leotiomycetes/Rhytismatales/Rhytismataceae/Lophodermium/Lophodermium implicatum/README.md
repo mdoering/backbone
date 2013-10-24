@@ -1,5 +1,4 @@
-Lophodermium implicatum Y.R. Lin & Z.S. Xu, 2001 SPECIES
-=======
+# Lophodermium implicatum Y.R. Lin & Z.S. Xu, 2001 SPECIES
 
 #### Status
 ACCEPTED

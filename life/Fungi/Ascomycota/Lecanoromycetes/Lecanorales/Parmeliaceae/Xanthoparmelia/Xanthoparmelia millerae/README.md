@@ -1,5 +1,4 @@
-Xanthoparmelia millerae Elix SPECIES
-=======
+# Xanthoparmelia millerae Elix SPECIES
 
 #### Status
 ACCEPTED

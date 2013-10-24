@@ -1,5 +1,4 @@
-Heterococcus granulatus Pitschmann SPECIES
-=======
+# Heterococcus granulatus Pitschmann SPECIES
 
 #### Status
 ACCEPTED

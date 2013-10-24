@@ -1,5 +1,4 @@
-Tricholoma sublatum Murrill SPECIES
-=======
+# Tricholoma sublatum Murrill SPECIES
 
 #### Status
 ACCEPTED

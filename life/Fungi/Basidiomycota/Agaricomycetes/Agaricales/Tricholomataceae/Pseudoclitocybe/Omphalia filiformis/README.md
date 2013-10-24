@@ -1,5 +1,4 @@
-Omphalia filiformis Herp. SPECIES
-=======
+# Omphalia filiformis Herp. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Usnea horrida Motyka SPECIES
-=======
+# Usnea horrida Motyka SPECIES
 
 #### Status
 ACCEPTED

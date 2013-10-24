@@ -1,5 +1,4 @@
-Lagenidium Schenk GENUS
-=======
+# Lagenidium Schenk GENUS
 
 #### Status
 ACCEPTED

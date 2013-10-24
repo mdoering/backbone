@@ -1,5 +1,4 @@
-Neoclitocybe microspora Singer SPECIES
-=======
+# Neoclitocybe microspora Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Neolinocarpon globosicarpum K.D. Hyde, 1992 SPECIES
-=======
+# Neolinocarpon globosicarpum K.D. Hyde, 1992 SPECIES
 
 #### Status
 ACCEPTED

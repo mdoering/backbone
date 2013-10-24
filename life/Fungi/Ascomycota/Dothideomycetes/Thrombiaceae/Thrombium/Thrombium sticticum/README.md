@@ -1,5 +1,4 @@
-Thrombium sticticum (Ach.) Schaer. SPECIES
-=======
+# Thrombium sticticum (Ach.) Schaer. SPECIES
 
 #### Status
 ACCEPTED

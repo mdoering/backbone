@@ -1,17 +1,16 @@
-Glomus citricolum D.Z. Tang & M. Zang SPECIES
-=======
+# Glomus citricola D.Z. Tang & M. Zang, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Acta bot. Yunn. 6(3): 301 (1984)
 
 #### Original name
-Glomus citricolum D.Z. Tang & M. Zang
+Glomus citricola D.Z. Tang & M. Zang, 1984
 
 ### Remarks
 null

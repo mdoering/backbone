@@ -1,5 +1,4 @@
-Urocystis phlei-alpini Terrier SPECIES
-=======
+# Urocystis phlei-alpini Terrier SPECIES
 
 #### Status
 ACCEPTED

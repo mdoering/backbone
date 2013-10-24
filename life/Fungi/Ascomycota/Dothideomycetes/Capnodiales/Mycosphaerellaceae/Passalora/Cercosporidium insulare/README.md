@@ -1,17 +1,16 @@
-Cercosporidium insularie Tak. Kobay. & Tokash. SPECIES
-=======
+# Cercosporidium insulare Tak. Kobay. & Tokash. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ann. phytopath. Soc. Japan 61(1): 50 (1995)
 
 #### Original name
-Cercosporidium insularie Tak. Kobay. & Tokash.
+Cercosporidium insulare Tak. Kobay. & Tokash.
 
 ### Remarks
 null

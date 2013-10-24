@@ -1,5 +1,4 @@
-Pluricellaesporites informis P. Ke & Z.Y. Shi SPECIES
-=======
+# Pluricellaesporites informis P. Ke & Z.Y. Shi SPECIES
 
 #### Status
 ACCEPTED

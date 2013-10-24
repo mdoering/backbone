@@ -1,5 +1,4 @@
-Laestadia nebulosa (De Not.) Sacc. SPECIES
-=======
+# Laestadia nebulosa (De Not.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

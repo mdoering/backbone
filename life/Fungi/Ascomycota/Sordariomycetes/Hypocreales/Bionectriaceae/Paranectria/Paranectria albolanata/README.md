@@ -1,5 +1,4 @@
-Paranectria albolanata Speg. SPECIES
-=======
+# Paranectria albolanata Speg. SPECIES
 
 #### Status
 ACCEPTED

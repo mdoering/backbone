@@ -1,5 +1,4 @@
-Sorosporium hansfordii Ainsw. SPECIES
-=======
+# Sorosporium hansfordii Ainsw. SPECIES
 
 #### Status
 ACCEPTED

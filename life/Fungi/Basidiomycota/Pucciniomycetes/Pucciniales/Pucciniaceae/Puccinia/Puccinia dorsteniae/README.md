@@ -1,5 +1,4 @@
-Puccinia dorsteniae Lagerh. SPECIES
-=======
+# Puccinia dorsteniae Lagerh. SPECIES
 
 #### Status
 ACCEPTED

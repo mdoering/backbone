@@ -1,5 +1,4 @@
-Sclerodon sajanensis P. Karst. SPECIES
-=======
+# Sclerodon sajanensis P. Karst. SPECIES
 
 #### Status
 ACCEPTED

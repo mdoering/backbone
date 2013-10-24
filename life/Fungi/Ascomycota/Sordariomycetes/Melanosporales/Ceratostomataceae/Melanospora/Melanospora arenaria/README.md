@@ -1,5 +1,4 @@
-Melanospora arenaria Mont. SPECIES
-=======
+# Melanospora arenaria Mont. SPECIES
 
 #### Status
 ACCEPTED

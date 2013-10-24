@@ -1,5 +1,4 @@
-Scolecopeltidium myrtacearum Bat. & O.M. Fonseca SPECIES
-=======
+# Scolecopeltidium myrtacearum Bat. & O.M. Fonseca SPECIES
 
 #### Status
 ACCEPTED

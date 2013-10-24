@@ -1,5 +1,4 @@
-Lecidea swartzioidea var. swartzioidea Nyl. VARIETY
-=======
+# Lecidea swartzioidea Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Not. Sallsk. Faun. Fl. Fenn. Forhandl. , Ny Ser. 1: 240 (1859)
 
 #### Original name
-Lecidea swartzioidea var. swartzioidea Nyl.
+Lecidea swartzioidea Nyl.
 
 ### Remarks
 null

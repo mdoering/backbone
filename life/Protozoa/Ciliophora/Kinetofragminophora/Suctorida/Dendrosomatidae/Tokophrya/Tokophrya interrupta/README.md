@@ -1,5 +1,4 @@
-Tokophrya interrupta SPECIES
-=======
+# Tokophrya interrupta SPECIES
 
 #### Status
 ACCEPTED

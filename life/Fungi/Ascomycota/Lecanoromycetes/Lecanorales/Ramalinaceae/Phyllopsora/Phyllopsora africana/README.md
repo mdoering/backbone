@@ -1,5 +1,4 @@
-Phyllopsora africana Timdal & Krog SPECIES
-=======
+# Phyllopsora africana Timdal & Krog SPECIES
 
 #### Status
 ACCEPTED

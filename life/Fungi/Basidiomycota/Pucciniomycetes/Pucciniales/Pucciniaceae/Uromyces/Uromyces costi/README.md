@@ -1,5 +1,4 @@
-Uromyces costi Henn. SPECIES
-=======
+# Uromyces costi Henn. SPECIES
 
 #### Status
 ACCEPTED

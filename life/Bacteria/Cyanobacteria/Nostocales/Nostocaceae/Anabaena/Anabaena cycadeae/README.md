@@ -1,5 +1,4 @@
-Anabaena cycadeae Reinke ex Tilden SPECIES
-=======
+# Anabaena cycadeae Reinke ex Tilden SPECIES
 
 #### Status
 ACCEPTED

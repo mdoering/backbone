@@ -1,8 +1,7 @@
-Fucus abies-marinus S.G. Gmelin SPECIES
-=======
+# Cystoseira abies-marina (S.G. Gmelin) C. Agardh SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

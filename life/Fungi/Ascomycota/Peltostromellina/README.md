@@ -1,5 +1,4 @@
-Peltostromellina Bat. & A.F. Vital GENUS
-=======
+# Peltostromellina Bat. & A.F. Vital GENUS
 
 #### Status
 ACCEPTED

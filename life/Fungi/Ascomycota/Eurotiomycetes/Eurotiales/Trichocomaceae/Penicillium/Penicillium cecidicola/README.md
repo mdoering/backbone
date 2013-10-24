@@ -1,5 +1,4 @@
-Penicillium cecidicola Seifert, Hoekstra & Frisvad SPECIES
-=======
+# Penicillium cecidicola Seifert, Hoekstra & Frisvad SPECIES
 
 #### Status
 ACCEPTED

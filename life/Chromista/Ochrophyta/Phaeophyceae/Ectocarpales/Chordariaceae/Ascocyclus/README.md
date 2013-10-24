@@ -1,5 +1,4 @@
-Ascocyclus Magnus, 1874 GENUS
-=======
+# Ascocyclus Magnus, 1874 GENUS
 
 #### Status
 ACCEPTED

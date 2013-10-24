@@ -1,5 +1,4 @@
-Belonophrya André, 1914 GENUS
-=======
+# Belonophrya André, 1914 GENUS
 
 #### Status
 ACCEPTED

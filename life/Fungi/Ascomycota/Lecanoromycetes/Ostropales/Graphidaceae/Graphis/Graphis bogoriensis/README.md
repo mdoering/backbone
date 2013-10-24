@@ -1,5 +1,4 @@
-Graphis bogoriensis Zahlbr. SPECIES
-=======
+# Graphis bogoriensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

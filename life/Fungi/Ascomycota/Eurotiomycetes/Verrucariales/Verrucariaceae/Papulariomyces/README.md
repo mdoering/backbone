@@ -1,5 +1,4 @@
-Papulariomyces GENUS
-=======
+# Papulariomyces GENUS
 
 #### Status
 ACCEPTED

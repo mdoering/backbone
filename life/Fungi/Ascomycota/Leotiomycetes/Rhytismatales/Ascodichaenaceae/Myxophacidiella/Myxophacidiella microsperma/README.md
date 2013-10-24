@@ -1,5 +1,4 @@
-Myxophacidiella microsperma (Berk. & Broome) Höhn. SPECIES
-=======
+# Myxophacidiella microsperma (Berk. & Broome) Höhn. SPECIES
 
 #### Status
 ACCEPTED

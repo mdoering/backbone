@@ -1,5 +1,4 @@
-Entoloma putidum Hesler SPECIES
-=======
+# Entoloma putidum Hesler SPECIES
 
 #### Status
 ACCEPTED

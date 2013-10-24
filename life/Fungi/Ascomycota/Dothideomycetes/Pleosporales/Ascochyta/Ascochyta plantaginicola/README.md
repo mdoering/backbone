@@ -1,5 +1,4 @@
-Ascochyta plantaginicola Melnik, 1970 SPECIES
-=======
+# Ascochyta plantaginicola Melnik, 1970 SPECIES
 
 #### Status
 ACCEPTED

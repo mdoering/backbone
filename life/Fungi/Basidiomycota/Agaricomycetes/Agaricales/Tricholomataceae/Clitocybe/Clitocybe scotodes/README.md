@@ -1,5 +1,4 @@
-Clitocybe scotodes (Berk. & Broome) Petch SPECIES
-=======
+# Clitocybe scotodes (Berk. & Broome) Petch SPECIES
 
 #### Status
 ACCEPTED

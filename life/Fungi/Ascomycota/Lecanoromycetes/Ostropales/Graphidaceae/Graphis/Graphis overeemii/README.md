@@ -1,5 +1,4 @@
-Graphis overeemii Zahlbr. SPECIES
-=======
+# Graphis overeemii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

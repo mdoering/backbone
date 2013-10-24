@@ -1,5 +1,4 @@
-Penzigia silcharii Narula & Prashar SPECIES
-=======
+# Penzigia silcharii Narula & Prashar SPECIES
 
 #### Status
 ACCEPTED

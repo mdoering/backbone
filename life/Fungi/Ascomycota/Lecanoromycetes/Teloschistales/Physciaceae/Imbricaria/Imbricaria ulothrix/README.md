@@ -1,5 +1,4 @@
-Imbricaria ulothrix (Ach.) DC. SPECIES
-=======
+# Imbricaria ulothrix (Ach.) DC. SPECIES
 
 #### Status
 ACCEPTED

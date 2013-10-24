@@ -1,5 +1,4 @@
-Placorhombus ziveriae Young & Geisen in Young et al., 2003 SPECIES
-=======
+# Placorhombus ziveriae Young & Geisen in Young et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

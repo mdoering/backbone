@@ -1,5 +1,4 @@
-Hypoxylonites africanus Sal.-Cheb. SPECIES
-=======
+# Hypoxylonites africanus Sal.-Cheb. SPECIES
 
 #### Status
 ACCEPTED

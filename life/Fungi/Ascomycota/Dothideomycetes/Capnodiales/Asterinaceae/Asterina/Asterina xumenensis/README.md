@@ -1,17 +1,16 @@
-Asterina xumensis Doidge SPECIES
-=======
+# Asterina xumenensis Doidge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bothalia 4(2): 337 (1942)
 
 #### Original name
-Asterina xumensis Doidge
+Asterina xumenensis Doidge
 
 ### Remarks
 null

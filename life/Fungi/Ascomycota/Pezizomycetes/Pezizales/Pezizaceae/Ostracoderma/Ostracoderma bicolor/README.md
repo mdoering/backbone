@@ -1,5 +1,4 @@
-Ostracoderma bicolor Berk. & Broome SPECIES
-=======
+# Ostracoderma bicolor Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

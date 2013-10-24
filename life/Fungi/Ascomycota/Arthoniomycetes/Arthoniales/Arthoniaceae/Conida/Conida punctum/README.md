@@ -1,5 +1,4 @@
-Conida punctum Woron. SPECIES
-=======
+# Conida punctum Woron. SPECIES
 
 #### Status
 ACCEPTED

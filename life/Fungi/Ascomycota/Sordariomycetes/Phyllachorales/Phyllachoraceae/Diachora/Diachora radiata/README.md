@@ -1,5 +1,4 @@
-Diachora radiata G. Lister & Petch SPECIES
-=======
+# Diachora radiata G. Lister & Petch SPECIES
 
 #### Status
 ACCEPTED

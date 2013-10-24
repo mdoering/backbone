@@ -1,5 +1,4 @@
-Agaricus confertifolius Britzelm. SPECIES
-=======
+# Agaricus confertifolius Britzelm. SPECIES
 
 #### Status
 ACCEPTED

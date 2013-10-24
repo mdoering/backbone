@@ -1,5 +1,4 @@
-Galiella amurensis (Lj.N. Vassiljeva) Raitv. SPECIES
-=======
+# Galiella amurensis (Lj.N. Vassiljeva) Raitv. SPECIES
 
 #### Status
 ACCEPTED

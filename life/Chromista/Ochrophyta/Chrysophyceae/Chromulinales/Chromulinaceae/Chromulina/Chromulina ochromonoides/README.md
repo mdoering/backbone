@@ -1,5 +1,4 @@
-Chromulina ochromonoides SPECIES
-=======
+# Chromulina ochromonoides SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nitrosomonas mobilis SPECIES
-=======
+# Nitrosomonas mobilis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Coleps fusus Claparède & Lachmann, 1859 SPECIES
-=======
+# Tiarina fusus (Claparède & Lachmann, 1859) Bergh, 1881 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

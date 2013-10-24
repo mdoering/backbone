@@ -1,17 +1,16 @@
-Akanthomyces coleopteri Koval SPECIES
-=======
+# Akanthomyces coleopterorum Koval SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nov. sist. Niz. Rast. 13: 203 (1977)
 
 #### Original name
-Akanthomyces coleopteri Koval
+Akanthomyces coleopterorum Koval
 
 ### Remarks
 null

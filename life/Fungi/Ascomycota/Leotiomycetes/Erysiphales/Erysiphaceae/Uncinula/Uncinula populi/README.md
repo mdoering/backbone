@@ -1,5 +1,4 @@
-Uncinula populi A.K. Sharma SPECIES
-=======
+# Uncinula populi A.K. Sharma SPECIES
 
 #### Status
 ACCEPTED

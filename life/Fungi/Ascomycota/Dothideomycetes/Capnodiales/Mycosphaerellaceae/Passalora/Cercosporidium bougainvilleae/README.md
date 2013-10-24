@@ -1,14 +1,13 @@
-Passalora bougainvilleae (Munt.-Cvetk.) R.F. Castañeda & U. Braun, 1991 SPECIES
-=======
+# Cercosporidium bougainvilleae (Munt.-Cvetk.) Sobers & C.P. Seym., 1969 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Braun & Castañeda Ruiz, Cryptog. bot. 2(2-3): 291 (1991)
+Proc. Fla St. hort. Soc. 81: 398 (1969)
 
 #### Original name
 Cercospora bougainvilleae P.N. Rao, 1962

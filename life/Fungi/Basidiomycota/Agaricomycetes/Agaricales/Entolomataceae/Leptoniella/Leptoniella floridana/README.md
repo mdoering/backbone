@@ -1,5 +1,4 @@
-Leptoniella floridana Murrill SPECIES
-=======
+# Leptoniella floridana Murrill SPECIES
 
 #### Status
 ACCEPTED

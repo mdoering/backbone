@@ -1,5 +1,4 @@
-Diphasiosphaera S. Duxbury, 1980 GENUS
-=======
+# Diphasiosphaera S. Duxbury, 1980 GENUS
 
 #### Status
 ACCEPTED

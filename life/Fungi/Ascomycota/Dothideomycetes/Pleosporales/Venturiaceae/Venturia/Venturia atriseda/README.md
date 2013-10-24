@@ -1,5 +1,4 @@
-Venturia atriseda Rehm, 1882 SPECIES
-=======
+# Venturia atriseda Rehm, 1882 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusobacterium equinum Dorsch et al., 2001 SPECIES
-=======
+# Fusobacterium equinum Dorsch et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

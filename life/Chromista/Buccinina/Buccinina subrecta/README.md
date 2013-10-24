@@ -1,5 +1,4 @@
-Buccinina subrecta Costa, 1861 SPECIES
-=======
+# Buccinina subrecta Costa, 1861 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta vitea Sacc. SPECIES
-=======
+# Phyllosticta vitea Sacc. SPECIES
 
 #### Status
 ACCEPTED

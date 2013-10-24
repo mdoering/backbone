@@ -1,8 +1,7 @@
-Oidium leuckarti H. Hoffm. SPECIES
-=======
+# Oidium leuckartii H. Hoffm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Oidium leuckarti H. Hoffm.
+Oidium leuckartii H. Hoffm.
 
 ### Remarks
 null

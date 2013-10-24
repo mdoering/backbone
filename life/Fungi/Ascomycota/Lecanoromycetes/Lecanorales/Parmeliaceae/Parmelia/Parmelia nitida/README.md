@@ -1,5 +1,4 @@
-Parmelia nitida Clemente SPECIES
-=======
+# Parmelia nitida Clemente SPECIES
 
 #### Status
 ACCEPTED

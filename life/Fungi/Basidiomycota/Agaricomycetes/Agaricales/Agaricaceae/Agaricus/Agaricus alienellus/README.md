@@ -1,5 +1,4 @@
-Agaricus alienellus Britzelm. SPECIES
-=======
+# Agaricus alienellus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

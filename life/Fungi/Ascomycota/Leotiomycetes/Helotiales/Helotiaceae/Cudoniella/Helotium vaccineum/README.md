@@ -1,8 +1,7 @@
-Calycina vaccinea (Schumach.) Kuntze SPECIES
-=======
+# Helotium vaccineum (Schumach.) Fr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

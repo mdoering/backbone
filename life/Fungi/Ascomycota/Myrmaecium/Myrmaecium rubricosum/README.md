@@ -1,5 +1,4 @@
-Myrmaecium rubricosum Tul. {?} SPECIES
-=======
+# Myrmaecium rubricosum Tul. {?} SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Magnusiella cladoniae Bachm. SPECIES
-=======
+# Magnusiella cladoniae Bachm. SPECIES
 
 #### Status
 ACCEPTED

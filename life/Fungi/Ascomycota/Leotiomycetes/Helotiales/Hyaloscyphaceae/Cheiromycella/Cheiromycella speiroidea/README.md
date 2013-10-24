@@ -1,8 +1,7 @@
-Cheiromycella speiroides (Höhn.) Höhn., 1910 SPECIES
-=======
+# Cheiromycella speiroidea (Höhn.) Höhn., 1910 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

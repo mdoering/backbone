@@ -1,5 +1,4 @@
-Alternaria levis Gambogi ex E.G. Simmons SPECIES
-=======
+# Alternaria levis Gambogi ex E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Subulicystidium Parmasto, 1968 GENUS
-=======
+# Subulicystidium Parmasto, 1968 GENUS
 
 #### Status
 ACCEPTED

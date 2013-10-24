@@ -1,5 +1,4 @@
-Brasiliomyces entadae Marasas & Rabie, 1966 SPECIES
-=======
+# Brasiliomyces entadae Marasas & Rabie, 1966 SPECIES
 
 #### Status
 ACCEPTED

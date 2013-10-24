@@ -1,5 +1,4 @@
-Lecanora heteroplaca var. heteroplaca VARIETY
-=======
+# Lecanora heteroplaca Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora heteroplaca var. heteroplaca
+Lecanora heteroplaca Zahlbr.
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Discorehmia tumidula (Roberge ex Desm.) Kirschst., 1936 SPECIES
-=======
+# Hyalinia tumidula (Roberge ex Desm.) Boud., 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 34: 204 (1936)
+null
 
 #### Original name
 null

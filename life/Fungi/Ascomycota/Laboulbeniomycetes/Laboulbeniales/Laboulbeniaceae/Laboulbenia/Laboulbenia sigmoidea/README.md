@@ -1,5 +1,4 @@
-Laboulbenia sigmoidea subsp. sigmoidea SUBSPECIES
-=======
+# Laboulbenia sigmoidea Speg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Laboulbenia sigmoidea subsp. sigmoidea
+Laboulbenia sigmoidea Speg.
 
 ### Remarks
 null

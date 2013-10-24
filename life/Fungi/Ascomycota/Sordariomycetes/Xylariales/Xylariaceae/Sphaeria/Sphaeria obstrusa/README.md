@@ -1,5 +1,4 @@
-Sphaeria obstrusa Rabenh. SPECIES
-=======
+# Sphaeria obstrusa Rabenh. SPECIES
 
 #### Status
 ACCEPTED

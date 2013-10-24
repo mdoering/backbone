@@ -1,5 +1,4 @@
-Meionomyces Thaxt. GENUS
-=======
+# Meionomyces Thaxt. GENUS
 
 #### Status
 ACCEPTED

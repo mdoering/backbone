@@ -1,8 +1,7 @@
-Discella capparidis Pat. & Har. SPECIES
-=======
+# Discella capparis Pat. & Har. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Discella capparidis Pat. & Har.
+Discella capparis Pat. & Har.
 
 ### Remarks
 null

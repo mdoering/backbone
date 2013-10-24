@@ -1,5 +1,4 @@
-Stachybotrys asperula Massee SPECIES
-=======
+# Stachybotrys asperula Massee SPECIES
 
 #### Status
 ACCEPTED

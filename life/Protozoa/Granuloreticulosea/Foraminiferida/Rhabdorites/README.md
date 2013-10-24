@@ -1,5 +1,4 @@
-Rhabdorites Fleury, 1996 GENUS
-=======
+# Rhabdorites Fleury, 1996 GENUS
 
 #### Status
 ACCEPTED

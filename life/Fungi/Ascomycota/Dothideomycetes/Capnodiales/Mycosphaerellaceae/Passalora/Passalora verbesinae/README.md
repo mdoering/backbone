@@ -1,5 +1,4 @@
-Passalora verbesinae (Munt.-Cvetk.) U. Braun & Crous SPECIES
-=======
+# Passalora verbesinae (Munt.-Cvetk.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

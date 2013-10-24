@@ -1,8 +1,7 @@
-Penicillium griseopurpureum G. Sm., 1965 SPECIES
-=======
+# Penicillium melinii Thom, 1930 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

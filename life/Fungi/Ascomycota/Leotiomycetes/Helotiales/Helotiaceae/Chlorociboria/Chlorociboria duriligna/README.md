@@ -1,5 +1,4 @@
-Chlorociboria duriligna P.R. Johnst., 2005 SPECIES
-=======
+# Chlorociboria duriligna P.R. Johnst., 2005 SPECIES
 
 #### Status
 ACCEPTED

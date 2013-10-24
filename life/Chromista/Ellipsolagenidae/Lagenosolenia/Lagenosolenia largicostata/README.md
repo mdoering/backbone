@@ -1,5 +1,4 @@
-Lagenosolenia largicostata Albani & Yassini, 1989 SPECIES
-=======
+# Lagenosolenia largicostata Albani & Yassini, 1989 SPECIES
 
 #### Status
 ACCEPTED

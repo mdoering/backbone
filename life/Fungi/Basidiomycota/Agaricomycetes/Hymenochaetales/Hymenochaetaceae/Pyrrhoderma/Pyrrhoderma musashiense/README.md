@@ -1,5 +1,4 @@
-Pyrrhoderma musashiense (Henn.) Imazeki SPECIES
-=======
+# Pyrrhoderma musashiense (Henn.) Imazeki SPECIES
 
 #### Status
 ACCEPTED

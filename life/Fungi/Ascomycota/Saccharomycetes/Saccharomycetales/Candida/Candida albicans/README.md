@@ -1,17 +1,16 @@
-Parasaccharomyces oosporoides var. oosporoides VARIETY
-=======
+# Candida albicans (C.P. Robin) Berkhout, 1923 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+De Schimmelgesl. Monilia, Oidium, Oospora en Torula, Disset. Ultrecht 44 (1923)
 
 #### Original name
-null
+Oidium albicans C.P. Robin, 1853
 
 ### Remarks
 null

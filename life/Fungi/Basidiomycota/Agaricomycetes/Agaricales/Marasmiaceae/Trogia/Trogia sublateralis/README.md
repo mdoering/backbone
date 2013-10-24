@@ -1,5 +1,4 @@
-Trogia sublateralis Corner SPECIES
-=======
+# Trogia sublateralis Corner SPECIES
 
 #### Status
 ACCEPTED

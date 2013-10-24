@@ -1,5 +1,4 @@
-Crocynia lactea B. de Lesd. SPECIES
-=======
+# Crocynia lactea B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

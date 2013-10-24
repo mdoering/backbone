@@ -1,5 +1,4 @@
-Heterostegina ocalana Cushman, 1921 SPECIES
-=======
+# Heterostegina ocalana Cushman, 1921 SPECIES
 
 #### Status
 ACCEPTED

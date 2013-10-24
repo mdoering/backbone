@@ -1,5 +1,4 @@
-Helicoverpa subflexa Npv SPECIES
-=======
+# Helicoverpa subflexa Npv SPECIES
 
 #### Status
 ACCEPTED

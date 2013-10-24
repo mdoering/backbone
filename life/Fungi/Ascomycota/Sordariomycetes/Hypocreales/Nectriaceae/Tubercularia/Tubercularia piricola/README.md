@@ -1,5 +1,4 @@
-Tubercularia piricola Ellis & Marchal SPECIES
-=======
+# Tubercularia piricola Ellis & Marchal SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Guignardia dioscoreae-bulbiferae A. Pande, 2008 SPECIES
-=======
+# Guignardia dioscoreae A.K. Pande, 1969 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. Jap. Bot. 40: 193 (1965)
 
 #### Original name
-null
+Guignardia dioscoreae A.K. Pande, 1969
 
 ### Remarks
 null

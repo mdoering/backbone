@@ -1,5 +1,4 @@
-Alysidium placentiforme (Corda) Kuntze SPECIES
-=======
+# Alysidium placentiforme (Corda) Kuntze SPECIES
 
 #### Status
 ACCEPTED

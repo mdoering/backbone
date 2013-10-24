@@ -1,5 +1,4 @@
-Thyriochaetum ficinum Frolov SPECIES
-=======
+# Thyriochaetum ficinum Frolov SPECIES
 
 #### Status
 ACCEPTED

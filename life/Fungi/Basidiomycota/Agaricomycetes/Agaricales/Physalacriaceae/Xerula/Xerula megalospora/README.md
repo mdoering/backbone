@@ -1,17 +1,16 @@
-Oudemansiella megalospora (Clem.) Zhu L. Yang, G.M. Muell., G. Kost & Rexer, 2009 SPECIES
-=======
+# Xerula megalospora (Clem.) Redhead, Ginns & Shoemaker, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 30: 374 (1987)
 
 #### Original name
-null
+Clitocybe megalospora Clem., 1896
 
 ### Remarks
 null

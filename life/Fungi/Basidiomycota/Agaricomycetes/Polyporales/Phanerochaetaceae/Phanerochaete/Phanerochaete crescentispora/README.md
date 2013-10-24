@@ -1,5 +1,4 @@
-Phanerochaete crescentispora Gilb. & Hemmes, 2001 SPECIES
-=======
+# Phanerochaete crescentispora Gilb. & Hemmes, 2001 SPECIES
 
 #### Status
 ACCEPTED

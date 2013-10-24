@@ -1,5 +1,4 @@
-Sphaeria intonsa Schwein. SPECIES
-=======
+# Sphaeria intonsa Schwein. SPECIES
 
 #### Status
 ACCEPTED

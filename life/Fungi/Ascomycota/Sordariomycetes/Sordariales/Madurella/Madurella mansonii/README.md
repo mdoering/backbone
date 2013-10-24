@@ -1,5 +1,4 @@
-Madurella mansonii (Brumpt) Vuill. SPECIES
-=======
+# Madurella mansonii (Brumpt) Vuill. SPECIES
 
 #### Status
 ACCEPTED

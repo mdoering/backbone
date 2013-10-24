@@ -1,5 +1,4 @@
-Gerronema versatile (Berk. & Mont.) Singer SPECIES
-=======
+# Gerronema versatile (Berk. & Mont.) Singer SPECIES
 
 #### Status
 ACCEPTED

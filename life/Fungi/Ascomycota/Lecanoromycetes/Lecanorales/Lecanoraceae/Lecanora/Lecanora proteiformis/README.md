@@ -1,5 +1,4 @@
-Lecanora proteiformis (A. Massal.) Nyl. SPECIES
-=======
+# Lecanora proteiformis (A. Massal.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

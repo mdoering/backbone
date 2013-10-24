@@ -1,5 +1,4 @@
-Pezizella citrinella (Schwein.) Sacc. SPECIES
-=======
+# Pezizella citrinella (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

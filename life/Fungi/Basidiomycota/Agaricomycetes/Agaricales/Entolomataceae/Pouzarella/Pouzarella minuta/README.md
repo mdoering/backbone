@@ -1,14 +1,13 @@
-Entoloma horakii Courtec., 1984 SPECIES
-=======
+# Pouzarella minuta (E. Horak) E. Horak, 2008 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Docums Mycol. 14(nos 54-55): 85 (1984)
+Fungi of New Zealand, Nga Harore o Aotearoa 5: 99 (2008)
 
 #### Original name
 Pouzaromyces minutus E. Horak, 1973

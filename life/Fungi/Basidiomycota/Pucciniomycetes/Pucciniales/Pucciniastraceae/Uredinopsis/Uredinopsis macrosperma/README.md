@@ -1,14 +1,13 @@
-Milesia macrosperma (Cooke) Buriticá, 1996 SPECIES
-=======
+# Uredinopsis macrosperma (Cooke) Magnus, 1904 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Buriticá & Pardo-Cardona, Revta Acad. colomb. cienc. exact. fís. nat. 20(no. 77): 234 (1996)
+Hedwigia 43: 122 (1904)
 
 #### Original name
 Uredo macrosperma Cooke, 1879

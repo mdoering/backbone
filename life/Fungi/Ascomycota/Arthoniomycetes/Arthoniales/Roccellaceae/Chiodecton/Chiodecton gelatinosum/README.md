@@ -1,5 +1,4 @@
-Chiodecton gelatinosum (Stirt.) Müll. Arg. SPECIES
-=======
+# Chiodecton gelatinosum (Stirt.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

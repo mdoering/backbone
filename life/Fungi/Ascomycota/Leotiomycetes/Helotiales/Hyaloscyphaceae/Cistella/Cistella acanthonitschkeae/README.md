@@ -1,5 +1,4 @@
-Cistella acanthonitschkeae (E.K. Cash & R.W. Davidson) Dennis SPECIES
-=======
+# Cistella acanthonitschkeae (E.K. Cash & R.W. Davidson) Dennis SPECIES
 
 #### Status
 ACCEPTED

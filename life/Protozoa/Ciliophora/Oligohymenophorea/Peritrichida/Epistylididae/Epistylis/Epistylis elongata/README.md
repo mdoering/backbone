@@ -1,5 +1,4 @@
-Epistylis elongata Stokes, 1889 SPECIES
-=======
+# Epistylis elongata Stokes, 1889 SPECIES
 
 #### Status
 ACCEPTED

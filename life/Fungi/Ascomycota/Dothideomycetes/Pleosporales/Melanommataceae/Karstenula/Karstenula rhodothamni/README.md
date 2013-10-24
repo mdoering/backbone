@@ -1,5 +1,4 @@
-Karstenula rhodothamni Petr. SPECIES
-=======
+# Karstenula rhodothamni Petr. SPECIES
 
 #### Status
 ACCEPTED

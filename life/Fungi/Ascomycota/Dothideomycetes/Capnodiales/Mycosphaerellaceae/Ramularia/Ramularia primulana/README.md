@@ -1,14 +1,13 @@
-Ovularia primulana P. Karst. SPECIES
-=======
+# Ramularia primulana (P. Karst.) anon., 1884 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hedwigia 23(1): 7 (1884)
 
 #### Original name
 Ovularia primulana P. Karst.

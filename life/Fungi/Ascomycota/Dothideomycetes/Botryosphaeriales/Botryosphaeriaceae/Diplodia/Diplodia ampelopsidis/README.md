@@ -1,5 +1,4 @@
-Diplodia ampelopsidis Brunaud SPECIES
-=======
+# Diplodia ampelopsidis Brunaud SPECIES
 
 #### Status
 ACCEPTED

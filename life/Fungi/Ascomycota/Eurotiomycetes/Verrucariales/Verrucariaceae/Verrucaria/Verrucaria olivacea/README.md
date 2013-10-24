@@ -1,5 +1,4 @@
-Verrucaria olivacea SPECIES
-=======
+# Verrucaria olivacea SPECIES
 
 #### Status
 ACCEPTED

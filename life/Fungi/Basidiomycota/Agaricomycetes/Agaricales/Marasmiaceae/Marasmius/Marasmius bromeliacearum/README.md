@@ -1,5 +1,4 @@
-Marasmius bromeliacearum Singer SPECIES
-=======
+# Marasmius bromeliacearum Singer SPECIES
 
 #### Status
 ACCEPTED

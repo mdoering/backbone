@@ -1,17 +1,16 @@
-Myxarium sublilacinum (G.W. Martin) Raitv., 1967 SPECIES
-=======
+# Stypella subhyalina (A. Pearson) P. Roberts, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Opr. Getero. Grib. SSSR 66 (1967)
+Mycotaxon 69: 234 (1998)
 
 #### Original name
-Sebacina sublilacina G.W. Martin, 1934
+Sebacina subhyalina A. Pearson, 1928
 
 ### Remarks
 null

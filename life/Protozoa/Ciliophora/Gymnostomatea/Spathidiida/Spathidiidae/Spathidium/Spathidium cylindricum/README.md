@@ -1,5 +1,4 @@
-Spathidium cylindricum Kahl, 1930 SPECIES
-=======
+# Spathidium cylindricum Kahl, 1930 SPECIES
 
 #### Status
 ACCEPTED

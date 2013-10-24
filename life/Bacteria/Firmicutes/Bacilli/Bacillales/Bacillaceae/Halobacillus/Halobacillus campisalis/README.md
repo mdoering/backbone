@@ -1,5 +1,4 @@
-Halobacillus campisalis Yoon, Kang, Jung & Oh, 2007 SPECIES
-=======
+# Halobacillus campisalis Yoon, Kang, Jung & Oh, 2007 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lermontovaephycaceae FAMILY
-=======
+# Lermontovaephycaceae FAMILY
 
 #### Status
 ACCEPTED

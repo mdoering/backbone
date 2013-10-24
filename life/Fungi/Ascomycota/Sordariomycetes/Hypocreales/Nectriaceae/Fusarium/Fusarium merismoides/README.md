@@ -1,5 +1,4 @@
-Fusarium merismoides var. merismoides VARIETY
-=======
+# Fusarium merismoides Corda SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Icon. fung. (Prague) 2: 4 (1838)
 
 #### Original name
-Fusarium merismoides var. merismoides
+Fusarium merismoides Corda
 
 ### Remarks
 null

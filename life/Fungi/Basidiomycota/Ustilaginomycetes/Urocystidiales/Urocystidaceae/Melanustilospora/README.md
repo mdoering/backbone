@@ -1,5 +1,4 @@
-Melanustilospora Denchev GENUS
-=======
+# Melanustilospora Denchev GENUS
 
 #### Status
 ACCEPTED

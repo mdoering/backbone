@@ -1,14 +1,13 @@
-Arthonia nephromiaria var. stereocaulina Ohlert VARIETY
-=======
+# Arthonia stereocaulina (Ohlert) R. Sant. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Schrift. phys. okon. Gesellschaft Konigsberg 11: 49 (1870)
+Lichens and Lichenicolous Fungi of Sweden and Norway (Lund) 18 (1993)
 
 #### Original name
 Arthonia nephromiaria var. stereocaulina Ohlert

@@ -1,5 +1,4 @@
-Osangularielloides Ujiie, 1995 GENUS
-=======
+# Osangularielloides Ujiie, 1995 GENUS
 
 #### Status
 ACCEPTED

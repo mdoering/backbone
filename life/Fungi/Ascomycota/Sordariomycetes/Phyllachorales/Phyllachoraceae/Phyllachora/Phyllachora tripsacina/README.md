@@ -1,5 +1,4 @@
-Phyllachora tripsacina Petr. & Cif., 1932 SPECIES
-=======
+# Phyllachora tripsacina Petr. & Cif., 1932 SPECIES
 
 #### Status
 ACCEPTED

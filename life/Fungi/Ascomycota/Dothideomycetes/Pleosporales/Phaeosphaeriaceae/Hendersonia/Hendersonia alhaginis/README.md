@@ -1,5 +1,4 @@
-Hendersonia alhaginis Lobik SPECIES
-=======
+# Hendersonia alhaginis Lobik SPECIES
 
 #### Status
 ACCEPTED

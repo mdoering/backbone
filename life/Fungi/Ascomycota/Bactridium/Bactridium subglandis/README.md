@@ -1,5 +1,4 @@
-Bactridium subglandis Tubaki SPECIES
-=======
+# Bactridium subglandis Tubaki SPECIES
 
 #### Status
 ACCEPTED

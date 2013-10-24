@@ -1,5 +1,4 @@
-Hypoxylon fulvo-ochraceum Rehm SPECIES
-=======
+# Hypoxylon fulvo-ochraceum Rehm SPECIES
 
 #### Status
 ACCEPTED

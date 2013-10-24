@@ -1,8 +1,7 @@
-Bodo angusta sensu Haenel, 1979 SPECIES
-=======
+# Bodo saliens Larsen & Patterson, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

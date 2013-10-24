@@ -1,5 +1,4 @@
-Septoria fagicola Speg. SPECIES
-=======
+# Septoria fagicola Speg. SPECIES
 
 #### Status
 ACCEPTED

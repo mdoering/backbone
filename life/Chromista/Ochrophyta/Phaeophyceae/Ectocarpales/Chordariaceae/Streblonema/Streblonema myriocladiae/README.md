@@ -1,8 +1,7 @@
-Ectocarpus myriocladiae P.L. Crouan & H.M. Crouan SPECIES
-=======
+# Streblonema myriocladiae (P.L. Crouan & H.M. Crouan) G.R. South & Tittley SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

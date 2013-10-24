@@ -1,5 +1,4 @@
-Epalxis flagellatum SPECIES
-=======
+# Epalxis flagellatum SPECIES
 
 #### Status
 ACCEPTED

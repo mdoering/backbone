@@ -1,5 +1,4 @@
-Naetrocymbe quassiaecola (Fée) R.C. Harris SPECIES
-=======
+# Naetrocymbe quassiaecola (Fée) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

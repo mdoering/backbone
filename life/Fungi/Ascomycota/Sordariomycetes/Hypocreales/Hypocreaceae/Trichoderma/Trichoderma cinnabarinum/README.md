@@ -1,5 +1,4 @@
-Trichoderma cinnabarinum Wallr. SPECIES
-=======
+# Trichoderma cinnabarinum Wallr. SPECIES
 
 #### Status
 ACCEPTED

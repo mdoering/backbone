@@ -1,5 +1,4 @@
-Nectria furfuracea Kalchbr. & Cooke SPECIES
-=======
+# Nectria furfuracea Kalchbr. & Cooke SPECIES
 
 #### Status
 ACCEPTED

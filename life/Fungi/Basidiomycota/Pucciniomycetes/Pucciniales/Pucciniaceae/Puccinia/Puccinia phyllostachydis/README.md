@@ -1,5 +1,4 @@
-Puccinia phyllostachydis Kusano SPECIES
-=======
+# Puccinia phyllostachydis Kusano SPECIES
 
 #### Status
 ACCEPTED

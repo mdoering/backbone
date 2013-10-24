@@ -1,5 +1,4 @@
-Lobaria subinterversans Gyeln. SPECIES
-=======
+# Lobaria subinterversans Gyeln. SPECIES
 
 #### Status
 ACCEPTED

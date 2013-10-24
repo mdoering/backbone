@@ -1,5 +1,4 @@
-Polykrikos barnegatensis SPECIES
-=======
+# Polykrikos barnegatensis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scolecopeltidium liciniae F. Stevens & Manter SPECIES
-=======
+# Scolecopeltidium liciniae F. Stevens & Manter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stigmidium californicum K. Knudsen & Kocourková, 2010 SPECIES
-=======
+# Stigmidium californicum K. Knudsen & Kocourková, 2010 SPECIES
 
 #### Status
 ACCEPTED

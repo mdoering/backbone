@@ -1,5 +1,4 @@
-Agaricus griseoscabrosus Peck SPECIES
-=======
+# Agaricus griseoscabrosus Peck SPECIES
 
 #### Status
 ACCEPTED

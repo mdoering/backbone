@@ -1,5 +1,4 @@
-Lenzites nummularia Lohwag SPECIES
-=======
+# Lenzites nummularia Lohwag SPECIES
 
 #### Status
 ACCEPTED

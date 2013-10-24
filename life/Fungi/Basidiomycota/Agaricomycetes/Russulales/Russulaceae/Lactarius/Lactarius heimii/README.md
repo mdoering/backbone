@@ -1,5 +1,4 @@
-Lactarius heimii Verbeken SPECIES
-=======
+# Lactarius heimii Verbeken SPECIES
 
 #### Status
 ACCEPTED

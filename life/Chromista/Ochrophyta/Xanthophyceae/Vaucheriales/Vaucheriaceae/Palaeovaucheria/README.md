@@ -1,5 +1,4 @@
-Palaeovaucheria T.N. Hermann, 1981 GENUS
-=======
+# Palaeovaucheria T.N. Hermann, 1981 GENUS
 
 #### Status
 ACCEPTED

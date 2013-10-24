@@ -1,5 +1,4 @@
-Lecidea reticulata (Dufour) Nyl. SPECIES
-=======
+# Lecidea reticulata (Dufour) Nyl. SPECIES
 
 #### Status
 ACCEPTED

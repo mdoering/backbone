@@ -1,5 +1,4 @@
-Vermicularia leptosperma Speg., 1921 SPECIES
-=======
+# Vermicularia leptosperma Speg., 1921 SPECIES
 
 #### Status
 ACCEPTED

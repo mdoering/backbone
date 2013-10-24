@@ -1,5 +1,4 @@
-Bolliella adamsi (Banner & Blow) SPECIES
-=======
+# Bolliella adamsi (Banner & Blow) SPECIES
 
 #### Status
 ACCEPTED

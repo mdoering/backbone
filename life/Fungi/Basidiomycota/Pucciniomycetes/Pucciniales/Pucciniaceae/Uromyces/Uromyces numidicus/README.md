@@ -1,5 +1,4 @@
-Uromyces numidicus Maire SPECIES
-=======
+# Uromyces numidicus Maire SPECIES
 
 #### Status
 ACCEPTED

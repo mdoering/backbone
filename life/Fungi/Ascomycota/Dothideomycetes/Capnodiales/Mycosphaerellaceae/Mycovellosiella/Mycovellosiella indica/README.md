@@ -1,5 +1,4 @@
-Mycovellosiella indica P. Kumar & Kamal SPECIES
-=======
+# Mycovellosiella indica P. Kumar & Kamal SPECIES
 
 #### Status
 ACCEPTED

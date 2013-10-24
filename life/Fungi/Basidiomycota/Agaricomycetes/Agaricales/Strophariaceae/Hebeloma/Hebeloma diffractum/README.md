@@ -1,5 +1,4 @@
-Hebeloma diffractum (Fr.) Gillet SPECIES
-=======
+# Hebeloma diffractum (Fr.) Gillet SPECIES
 
 #### Status
 ACCEPTED

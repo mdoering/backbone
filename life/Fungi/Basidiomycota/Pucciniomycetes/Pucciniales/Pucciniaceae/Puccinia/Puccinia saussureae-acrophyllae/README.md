@@ -1,5 +1,4 @@
-Puccinia saussureae-acrophyllae Y.C. Wang SPECIES
-=======
+# Puccinia saussureae-acrophyllae Y.C. Wang SPECIES
 
 #### Status
 ACCEPTED

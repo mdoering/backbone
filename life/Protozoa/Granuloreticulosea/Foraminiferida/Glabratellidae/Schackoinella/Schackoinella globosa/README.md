@@ -1,8 +1,7 @@
-Discorbina imperatoria var. globosa Millett, 1903 VARIETY
-=======
+# Schackoinella globosa (Millett, 1903) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

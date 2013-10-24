@@ -1,5 +1,4 @@
-Austrella P.M. Jørgensen, 2004 GENUS
-=======
+# Austrella P.M. Jørgensen, 2004 GENUS
 
 #### Status
 ACCEPTED

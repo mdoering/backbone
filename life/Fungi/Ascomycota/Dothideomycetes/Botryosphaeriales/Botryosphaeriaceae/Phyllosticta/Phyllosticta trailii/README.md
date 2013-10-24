@@ -1,5 +1,4 @@
-Phyllosticta trailii Sacc. SPECIES
-=======
+# Phyllosticta trailii Sacc. SPECIES
 
 #### Status
 ACCEPTED

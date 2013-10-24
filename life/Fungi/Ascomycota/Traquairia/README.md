@@ -1,5 +1,4 @@
-Traquairia Carruthers, 1873 GENUS
-=======
+# Traquairia Carruthers, 1873 GENUS
 
 #### Status
 ACCEPTED

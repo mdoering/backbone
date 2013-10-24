@@ -1,5 +1,4 @@
-Uromyces ermelensis Doidge SPECIES
-=======
+# Uromyces ermelensis Doidge SPECIES
 
 #### Status
 ACCEPTED

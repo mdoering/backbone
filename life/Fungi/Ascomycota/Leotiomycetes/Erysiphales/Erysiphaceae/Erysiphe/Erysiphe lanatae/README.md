@@ -1,5 +1,4 @@
-Erysiphe lanatae Magnus SPECIES
-=======
+# Erysiphe lanatae Magnus SPECIES
 
 #### Status
 ACCEPTED

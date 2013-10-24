@@ -1,5 +1,4 @@
-Pleospora tiliae Feltgen SPECIES
-=======
+# Pleospora tiliae Feltgen SPECIES
 
 #### Status
 ACCEPTED

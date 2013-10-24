@@ -1,5 +1,4 @@
-Squamaria reuteri (Trevis.) Nyl. SPECIES
-=======
+# Squamaria reuteri (Trevis.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

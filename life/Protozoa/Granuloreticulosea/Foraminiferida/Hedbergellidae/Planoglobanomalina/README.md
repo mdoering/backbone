@@ -1,5 +1,4 @@
-Planoglobanomalina Olsson & Hemleben, 2006 GENUS
-=======
+# Planoglobanomalina Olsson & Hemleben, 2006 GENUS
 
 #### Status
 ACCEPTED

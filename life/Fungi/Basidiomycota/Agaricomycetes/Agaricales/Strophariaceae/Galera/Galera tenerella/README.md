@@ -1,5 +1,4 @@
-Galera tenerella G.F. Atk. SPECIES
-=======
+# Galera tenerella G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

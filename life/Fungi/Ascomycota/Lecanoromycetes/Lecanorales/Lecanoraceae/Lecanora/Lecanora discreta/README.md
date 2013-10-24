@@ -1,5 +1,4 @@
-Lecanora discreta Ach. SPECIES
-=======
+# Lecanora discreta Ach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramonia copellina Vezda SPECIES
-=======
+# Ramonia copellina Vezda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Wallodinium anglicum (Cookson & Hughes, 1964) Lentin & Williams, 1973 SPECIES
-=======
+# Wallodinium anglicum (Cookson & Hughes, 1964) Lentin & Williams, 1973 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diaporthe yerbae Speg. SPECIES
-=======
+# Diaporthe yerbae Speg. SPECIES
 
 #### Status
 ACCEPTED

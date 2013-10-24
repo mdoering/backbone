@@ -1,5 +1,4 @@
-Lepiota rubiginosa Pegler SPECIES
-=======
+# Lepiota rubiginosa Pegler SPECIES
 
 #### Status
 ACCEPTED

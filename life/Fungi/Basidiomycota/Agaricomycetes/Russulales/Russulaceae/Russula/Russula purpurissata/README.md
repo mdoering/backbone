@@ -1,5 +1,4 @@
-Russula purpurissata f. purpurissata FORM
-=======
+# Russula purpurissata Reumaux SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 in Reumaux, Bidaud & Moënne-Loccoz, Russules Rares ou Méconnues (Marlioz) 288 (1996)
 
 #### Original name
-Russula purpurissata f. purpurissata
+Russula purpurissata Reumaux
 
 ### Remarks
 null

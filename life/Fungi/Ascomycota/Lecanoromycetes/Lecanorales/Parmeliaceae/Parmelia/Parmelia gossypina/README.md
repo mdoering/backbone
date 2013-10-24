@@ -1,5 +1,4 @@
-Parmelia gossypina Mont. SPECIES
-=======
+# Parmelia gossypina Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tremella culmorum Cooke SPECIES
-=======
+# Tremella culmorum Cooke SPECIES
 
 #### Status
 ACCEPTED

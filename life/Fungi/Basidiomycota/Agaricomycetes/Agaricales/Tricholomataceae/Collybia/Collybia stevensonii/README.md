@@ -1,5 +1,4 @@
-Collybia stevensonii Berk. & Broome SPECIES
-=======
+# Collybia stevensonii Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

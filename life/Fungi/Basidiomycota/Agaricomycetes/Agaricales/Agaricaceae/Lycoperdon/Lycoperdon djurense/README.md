@@ -1,5 +1,4 @@
-Lycoperdon djurense Henn. SPECIES
-=======
+# Lycoperdon djurense Henn. SPECIES
 
 #### Status
 ACCEPTED

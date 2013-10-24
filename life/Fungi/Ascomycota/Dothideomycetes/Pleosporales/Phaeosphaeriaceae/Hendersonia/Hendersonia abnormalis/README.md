@@ -1,5 +1,4 @@
-Hendersonia abnormalis Peck SPECIES
-=======
+# Hendersonia abnormalis Peck SPECIES
 
 #### Status
 ACCEPTED

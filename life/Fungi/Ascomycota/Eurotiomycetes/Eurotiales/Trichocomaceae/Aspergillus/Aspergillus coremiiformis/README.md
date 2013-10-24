@@ -1,5 +1,4 @@
-Aspergillus coremiiformis Bartoli & Maggi, 1979 SPECIES
-=======
+# Aspergillus coremiiformis Bartoli & Maggi, 1979 SPECIES
 
 #### Status
 ACCEPTED

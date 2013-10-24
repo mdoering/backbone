@@ -1,5 +1,4 @@
-Aspergillus fennelliae Kwon-Chung & S.J. Kim, 1974 SPECIES
-=======
+# Aspergillus fennelliae Kwon-Chung & S.J. Kim, 1974 SPECIES
 
 #### Status
 ACCEPTED

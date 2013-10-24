@@ -1,5 +1,4 @@
-Scutellinia hrabanovii (Velen.) Svrcek SPECIES
-=======
+# Scutellinia hrabanovii (Velen.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anthracoidea kobresiae (Mundk.) Kukkonen SPECIES
-=======
+# Anthracoidea kobresiae (Mundk.) Kukkonen SPECIES
 
 #### Status
 ACCEPTED

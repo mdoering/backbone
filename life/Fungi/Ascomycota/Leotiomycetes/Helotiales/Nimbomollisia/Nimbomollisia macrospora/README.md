@@ -1,14 +1,13 @@
-Trochila macrospora (P. Karst.) P. Karst., 1871 SPECIES
-=======
+# Nimbomollisia macrospora (P. Karst.) Nannf., 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycoth. fenn. (Helsinki) 1: 247 (1871)
+Mycologia 75(2): 302 (1983)
 
 #### Original name
 Phacidium macrospora P. Karst., 1870

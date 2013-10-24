@@ -1,5 +1,4 @@
-Gloeothece kriegeri Frémy SPECIES
-=======
+# Gloeothece kriegeri Frémy SPECIES
 
 #### Status
 ACCEPTED

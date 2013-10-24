@@ -1,17 +1,16 @@
-Calicium pusiolum f. pusiolum FORM
-=======
+# Chaenothecopsis pusiola (Ach.) Vain. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Acta Soc. Fauna Flora fenn. 57(no. 1): 70 (1927)
 
 #### Original name
-Calicium pusiolum f. pusiolum
+Calicium pusiolum Ach.
 
 ### Remarks
 null

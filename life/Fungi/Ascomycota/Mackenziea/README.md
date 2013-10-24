@@ -1,5 +1,4 @@
-Mackenziea Yanna & K.D. Hyde, 2002 GENUS
-=======
+# Mackenziea Yanna & K.D. Hyde, 2002 GENUS
 
 #### Status
 ACCEPTED

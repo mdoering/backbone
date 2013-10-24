@@ -1,5 +1,4 @@
-Cryptovalsa planiuscula Syd. & E.J. Butler SPECIES
-=======
+# Cryptovalsa planiuscula Syd. & E.J. Butler SPECIES
 
 #### Status
 ACCEPTED

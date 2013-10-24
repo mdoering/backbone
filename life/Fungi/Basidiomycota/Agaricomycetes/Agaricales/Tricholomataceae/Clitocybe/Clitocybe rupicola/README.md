@@ -1,5 +1,4 @@
-Clitocybe rupicola Massee SPECIES
-=======
+# Clitocybe rupicola Massee SPECIES
 
 #### Status
 ACCEPTED

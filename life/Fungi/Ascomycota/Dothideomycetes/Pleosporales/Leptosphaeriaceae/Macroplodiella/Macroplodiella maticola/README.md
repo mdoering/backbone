@@ -1,5 +1,4 @@
-Macroplodiella maticola Speg. SPECIES
-=======
+# Macroplodiella maticola Speg. SPECIES
 
 #### Status
 ACCEPTED

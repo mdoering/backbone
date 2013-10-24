@@ -1,5 +1,4 @@
-Dactylaria obclavata R.F. Castañeda, Guarro & Cano SPECIES
-=======
+# Dactylaria obclavata R.F. Castañeda, Guarro & Cano SPECIES
 
 #### Status
 ACCEPTED

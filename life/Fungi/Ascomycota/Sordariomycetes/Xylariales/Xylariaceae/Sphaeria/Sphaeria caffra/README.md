@@ -1,5 +1,4 @@
-Sphaeria caffra Kalchbr. & Cooke SPECIES
-=======
+# Sphaeria caffra Kalchbr. & Cooke SPECIES
 
 #### Status
 ACCEPTED

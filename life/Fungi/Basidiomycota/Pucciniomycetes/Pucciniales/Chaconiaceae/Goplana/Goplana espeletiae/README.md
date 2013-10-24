@@ -1,5 +1,4 @@
-Goplana espeletiae Dennis, 1965 SPECIES
-=======
+# Goplana espeletiae Dennis, 1965 SPECIES
 
 #### Status
 ACCEPTED

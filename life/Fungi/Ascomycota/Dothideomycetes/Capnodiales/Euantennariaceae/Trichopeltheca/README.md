@@ -1,5 +1,4 @@
-Trichopeltheca Bat., C.A.A. Costa & Cif. GENUS
-=======
+# Trichopeltheca Bat., C.A.A. Costa & Cif. GENUS
 
 #### Status
 ACCEPTED

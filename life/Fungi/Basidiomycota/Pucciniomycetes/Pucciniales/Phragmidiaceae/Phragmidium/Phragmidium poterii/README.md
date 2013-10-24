@@ -1,5 +1,4 @@
-Phragmidium poterii Fuckel SPECIES
-=======
+# Phragmidium poterii Fuckel SPECIES
 
 #### Status
 ACCEPTED

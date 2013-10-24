@@ -1,5 +1,4 @@
-Stagonospora ulicis Celotti SPECIES
-=======
+# Stagonospora ulicis Celotti SPECIES
 
 #### Status
 ACCEPTED

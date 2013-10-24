@@ -1,5 +1,4 @@
-Pelosina fusiformis Earland, 1933 SPECIES
-=======
+# Pelosina fusiformis Earland, 1933 SPECIES
 
 #### Status
 ACCEPTED

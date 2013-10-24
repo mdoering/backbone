@@ -1,8 +1,7 @@
-Sulfobacillus disulfidooxidans Dufresne et al., 1996 SPECIES
-=======
+# Alicyclobacillus disulfidooxydans SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

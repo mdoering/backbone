@@ -1,5 +1,4 @@
-Lecidea arenacea Müll. Arg. SPECIES
-=======
+# Lecidea arenacea Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

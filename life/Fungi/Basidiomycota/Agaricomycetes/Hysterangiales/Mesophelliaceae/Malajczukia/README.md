@@ -1,5 +1,4 @@
-Malajczukia Trappe & Castellano GENUS
-=======
+# Malajczukia Trappe & Castellano GENUS
 
 #### Status
 ACCEPTED

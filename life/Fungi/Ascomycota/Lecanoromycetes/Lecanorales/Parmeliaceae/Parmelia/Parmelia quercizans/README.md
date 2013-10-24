@@ -1,5 +1,4 @@
-Parmelia quercizans Ach. SPECIES
-=======
+# Parmelia quercizans Ach. SPECIES
 
 #### Status
 ACCEPTED

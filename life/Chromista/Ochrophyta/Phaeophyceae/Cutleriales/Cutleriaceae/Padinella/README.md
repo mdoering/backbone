@@ -1,5 +1,4 @@
-Padinella Areschoug, 1843 GENUS
-=======
+# Padinella Areschoug, 1843 GENUS
 
 #### Status
 ACCEPTED

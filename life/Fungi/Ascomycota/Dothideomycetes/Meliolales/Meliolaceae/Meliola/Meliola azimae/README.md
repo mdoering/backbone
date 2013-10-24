@@ -1,5 +1,4 @@
-Meliola azimae Doidge SPECIES
-=======
+# Meliola azimae Doidge SPECIES
 
 #### Status
 ACCEPTED

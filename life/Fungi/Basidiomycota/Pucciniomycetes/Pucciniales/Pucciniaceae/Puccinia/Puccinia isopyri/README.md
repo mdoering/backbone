@@ -1,5 +1,4 @@
-Puccinia isopyri Tranzschel SPECIES
-=======
+# Puccinia isopyri Tranzschel SPECIES
 
 #### Status
 ACCEPTED

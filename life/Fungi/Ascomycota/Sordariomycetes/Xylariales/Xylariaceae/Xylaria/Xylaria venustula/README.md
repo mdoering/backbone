@@ -1,5 +1,4 @@
-Xylaria venustula Sacc. SPECIES
-=======
+# Xylaria venustula Sacc. SPECIES
 
 #### Status
 ACCEPTED

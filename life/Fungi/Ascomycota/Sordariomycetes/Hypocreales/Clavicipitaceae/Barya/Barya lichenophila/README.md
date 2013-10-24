@@ -1,5 +1,4 @@
-Barya lichenophila Ferd. & Winge SPECIES
-=======
+# Barya lichenophila Ferd. & Winge SPECIES
 
 #### Status
 ACCEPTED

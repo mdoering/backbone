@@ -1,5 +1,4 @@
-Cercospora stevensonii Chupp SPECIES
-=======
+# Cercospora stevensonii Chupp SPECIES
 
 #### Status
 ACCEPTED

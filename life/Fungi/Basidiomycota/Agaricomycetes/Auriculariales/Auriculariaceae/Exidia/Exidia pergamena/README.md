@@ -1,5 +1,4 @@
-Exidia pergamena Lowy SPECIES
-=======
+# Exidia pergamena Lowy SPECIES
 
 #### Status
 ACCEPTED

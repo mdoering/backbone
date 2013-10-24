@@ -1,5 +1,4 @@
-Macrosporium diversisporum Thüm. SPECIES
-=======
+# Macrosporium diversisporum Thüm. SPECIES
 
 #### Status
 ACCEPTED

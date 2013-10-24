@@ -1,5 +1,4 @@
-Multicellaesporites spindlus Z.C. Song, Qian & Y.H. Zheng SPECIES
-=======
+# Multicellaesporites spindlus Z.C. Song, Qian & Y.H. Zheng SPECIES
 
 #### Status
 ACCEPTED

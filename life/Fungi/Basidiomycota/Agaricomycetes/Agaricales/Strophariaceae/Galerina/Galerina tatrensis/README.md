@@ -1,5 +1,4 @@
-Galerina tatrensis Singer SPECIES
-=======
+# Galerina tatrensis Singer SPECIES
 
 #### Status
 ACCEPTED

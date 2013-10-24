@@ -1,5 +1,4 @@
-Hymenula areolata Wallr. SPECIES
-=======
+# Hymenula areolata Wallr. SPECIES
 
 #### Status
 ACCEPTED

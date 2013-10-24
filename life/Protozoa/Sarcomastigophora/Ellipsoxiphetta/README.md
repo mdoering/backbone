@@ -1,5 +1,4 @@
-Ellipsoxiphetta Haeckel, 1887 GENUS
-=======
+# Ellipsoxiphetta Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

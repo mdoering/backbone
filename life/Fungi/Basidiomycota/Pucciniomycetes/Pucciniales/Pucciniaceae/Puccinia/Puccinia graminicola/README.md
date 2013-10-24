@@ -1,5 +1,4 @@
-Puccinia graminicola Burrill SPECIES
-=======
+# Puccinia graminicola Burrill SPECIES
 
 #### Status
 ACCEPTED

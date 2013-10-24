@@ -1,5 +1,4 @@
-Peniophora albofarcta Burt SPECIES
-=======
+# Peniophora albofarcta Burt SPECIES
 
 #### Status
 ACCEPTED

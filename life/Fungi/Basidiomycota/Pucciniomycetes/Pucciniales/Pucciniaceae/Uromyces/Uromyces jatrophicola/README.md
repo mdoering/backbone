@@ -1,5 +1,4 @@
-Uromyces jatrophicola Henn. SPECIES
-=======
+# Uromyces jatrophicola Henn. SPECIES
 
 #### Status
 ACCEPTED

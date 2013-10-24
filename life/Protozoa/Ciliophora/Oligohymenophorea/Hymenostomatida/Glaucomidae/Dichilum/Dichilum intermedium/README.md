@@ -1,5 +1,4 @@
-Dichilum intermedium Gajevskaja, 1927 SPECIES
-=======
+# Dichilum intermedium Gajevskaja, 1927 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Halosarpheia retorquens Shearer & J.L. Crane, 1981 SPECIES
-=======
+# Natantispora retorquens (Shearer & J.L. Crane) J. Campb., J.L. Anderson & Shearer, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Mar. 23: 608 (1981)
+Mycologia 95(3): 543 (2003)
 
 #### Original name
 Halosarpheia retorquens Shearer & J.L. Crane, 1981

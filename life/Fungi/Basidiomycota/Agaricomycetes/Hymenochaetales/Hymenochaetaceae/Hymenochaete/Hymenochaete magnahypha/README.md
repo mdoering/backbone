@@ -1,5 +1,4 @@
-Hymenochaete magnahypha G. Cunn., 1957 SPECIES
-=======
+# Hymenochaete magnahypha G. Cunn., 1957 SPECIES
 
 #### Status
 ACCEPTED

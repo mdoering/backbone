@@ -1,14 +1,13 @@
-Pleosphaeria echinata (Ellis & Everh.) J.H. Mill., 1941 SPECIES
-=======
+# Cucurbitaria echinata Ellis & Everh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 33: 78 (1941)
+null
 
 #### Original name
 Cucurbitaria echinata Ellis & Everh.

@@ -1,5 +1,4 @@
-Corticium farinellum (P. Karst.) Sacc. SPECIES
-=======
+# Corticium farinellum (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

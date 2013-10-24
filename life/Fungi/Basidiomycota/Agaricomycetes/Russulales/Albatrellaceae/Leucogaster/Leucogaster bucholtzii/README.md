@@ -1,5 +1,4 @@
-Leucogaster bucholtzii Mattir. SPECIES
-=======
+# Leucogaster bucholtzii Mattir. SPECIES
 
 #### Status
 ACCEPTED

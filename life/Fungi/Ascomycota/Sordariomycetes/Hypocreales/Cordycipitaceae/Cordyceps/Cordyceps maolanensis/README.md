@@ -1,5 +1,4 @@
-Cordyceps maolanensis Zuo Y. Liu & Z.Q. Liang SPECIES
-=======
+# Cordyceps maolanensis Zuo Y. Liu & Z.Q. Liang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psathyrella tahomensis A.H. Sm. SPECIES
-=======
+# Psathyrella tahomensis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

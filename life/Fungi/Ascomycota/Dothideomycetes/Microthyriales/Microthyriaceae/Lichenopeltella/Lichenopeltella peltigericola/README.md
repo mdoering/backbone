@@ -1,14 +1,13 @@
-Actinopeltis peltigericola D. Hawksw., 1982 SPECIES
-=======
+# Lichenopeltella peltigericola (D. Hawksw.) R. Sant., 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Notes R. bot. Gdn Edinb. 40(2): 375 (1982)
+Lichens and Lichenicolous Fungi of Sweden and Norway (Lund) 131 (1993)
 
 #### Original name
 Actinopeltis peltigericola D. Hawksw., 1982

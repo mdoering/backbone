@@ -1,5 +1,4 @@
-Phyllosticta silenes Lobik SPECIES
-=======
+# Phyllosticta silenes Lobik SPECIES
 
 #### Status
 ACCEPTED

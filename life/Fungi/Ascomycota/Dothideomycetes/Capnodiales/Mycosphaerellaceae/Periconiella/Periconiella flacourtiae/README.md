@@ -1,5 +1,4 @@
-Periconiella flacourtiae Bat. & J.A. Lima SPECIES
-=======
+# Periconiella flacourtiae Bat. & J.A. Lima SPECIES
 
 #### Status
 ACCEPTED

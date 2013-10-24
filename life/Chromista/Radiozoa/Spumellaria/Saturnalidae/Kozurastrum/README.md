@@ -1,5 +1,4 @@
-Kozurastrum de Wever, 1984 GENUS
-=======
+# Kozurastrum de Wever, 1984 GENUS
 
 #### Status
 ACCEPTED

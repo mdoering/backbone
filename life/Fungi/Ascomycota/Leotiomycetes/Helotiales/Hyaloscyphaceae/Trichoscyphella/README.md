@@ -1,5 +1,4 @@
-Trichoscyphella GENUS
-=======
+# Trichoscyphella GENUS
 
 #### Status
 ACCEPTED

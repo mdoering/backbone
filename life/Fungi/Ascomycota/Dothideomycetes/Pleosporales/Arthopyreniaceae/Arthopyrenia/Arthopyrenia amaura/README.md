@@ -1,5 +1,4 @@
-Arthopyrenia amaura SPECIES
-=======
+# Arthopyrenia amaura SPECIES
 
 #### Status
 ACCEPTED

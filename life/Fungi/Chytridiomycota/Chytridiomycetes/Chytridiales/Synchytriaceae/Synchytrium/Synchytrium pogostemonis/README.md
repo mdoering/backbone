@@ -1,5 +1,4 @@
-Synchytrium pogostemonis S.D. Patil & Mahab. SPECIES
-=======
+# Synchytrium pogostemonis S.D. Patil & Mahab. SPECIES
 
 #### Status
 ACCEPTED

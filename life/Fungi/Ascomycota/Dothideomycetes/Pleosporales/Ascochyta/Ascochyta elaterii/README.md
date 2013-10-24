@@ -1,5 +1,4 @@
-Ascochyta elaterii Sacc. SPECIES
-=======
+# Ascochyta elaterii Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Opegrapha subabnormis Fink SPECIES
-=======
+# Opegrapha subabnormis Fink SPECIES
 
 #### Status
 ACCEPTED

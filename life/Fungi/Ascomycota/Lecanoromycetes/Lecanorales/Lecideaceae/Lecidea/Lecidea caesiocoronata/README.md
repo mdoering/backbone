@@ -1,5 +1,4 @@
-Lecidea caesiocoronata J. Lowe SPECIES
-=======
+# Lecidea caesiocoronata J. Lowe SPECIES
 
 #### Status
 ACCEPTED

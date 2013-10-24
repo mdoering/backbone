@@ -1,5 +1,4 @@
-Belonopsis sordidula (P. Karst.) Sacc. & P. Syd. SPECIES
-=======
+# Belonopsis sordidula (P. Karst.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

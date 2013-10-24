@@ -1,17 +1,16 @@
-Pleospora hepaticola Walt. Watson SPECIES
-=======
+# Pleostigma jungermannicola (C. Massal.) Kirschst., 1939 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 37: 91 (1939)
 
 #### Original name
-Pleospora hepaticola Walt. Watson
+Strickeria jungermannicola C. Massal., 1895
 
 ### Remarks
 null

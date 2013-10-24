@@ -1,5 +1,4 @@
-Lasioloma appendiculata Breuss SPECIES
-=======
+# Lasioloma appendiculata Breuss SPECIES
 
 #### Status
 ACCEPTED

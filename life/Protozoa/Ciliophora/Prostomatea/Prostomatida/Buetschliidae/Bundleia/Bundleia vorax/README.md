@@ -1,5 +1,4 @@
-Bundleia vorax Strelkow, 1939 SPECIES
-=======
+# Bundleia vorax Strelkow, 1939 SPECIES
 
 #### Status
 ACCEPTED

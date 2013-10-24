@@ -1,5 +1,4 @@
-Omphalia viridilutea Rick SPECIES
-=======
+# Omphalia viridilutea Rick SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Haploravenelia microspora (Dietel) Syd. SPECIES
-=======
+# Haploravenelia microspora (Dietel) Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Megalospora occidentalis Kantvilas SPECIES
-=======
+# Megalospora occidentalis Kantvilas SPECIES
 
 #### Status
 ACCEPTED

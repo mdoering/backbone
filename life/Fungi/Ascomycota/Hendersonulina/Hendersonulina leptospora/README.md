@@ -1,5 +1,4 @@
-Hendersonulina leptospora (Trail) Tassi SPECIES
-=======
+# Hendersonulina leptospora (Trail) Tassi SPECIES
 
 #### Status
 ACCEPTED

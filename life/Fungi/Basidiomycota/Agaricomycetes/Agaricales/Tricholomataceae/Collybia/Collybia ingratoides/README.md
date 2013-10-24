@@ -1,5 +1,4 @@
-Collybia ingratoides var. ingratoides VARIETY
-=======
+# Collybia ingratoides Raithelh. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Metrodiana, Sonderheft 1: 10 (1972)
 
 #### Original name
-Collybia ingratoides var. ingratoides
+Collybia ingratoides Raithelh.
 
 ### Remarks
 null

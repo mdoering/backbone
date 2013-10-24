@@ -1,5 +1,4 @@
-Cercospora spinosae Chupp SPECIES
-=======
+# Cercospora spinosae Chupp SPECIES
 
 #### Status
 ACCEPTED

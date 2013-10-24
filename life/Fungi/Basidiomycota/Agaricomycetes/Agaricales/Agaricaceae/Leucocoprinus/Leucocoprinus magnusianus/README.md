@@ -1,5 +1,4 @@
-Leucocoprinus magnusianus (Henn.) Singer SPECIES
-=======
+# Leucocoprinus magnusianus (Henn.) Singer SPECIES
 
 #### Status
 ACCEPTED

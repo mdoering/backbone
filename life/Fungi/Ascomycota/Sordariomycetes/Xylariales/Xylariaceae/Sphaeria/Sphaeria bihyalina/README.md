@@ -1,5 +1,4 @@
-Sphaeria bihyalina Berk. & Broome SPECIES
-=======
+# Sphaeria bihyalina Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

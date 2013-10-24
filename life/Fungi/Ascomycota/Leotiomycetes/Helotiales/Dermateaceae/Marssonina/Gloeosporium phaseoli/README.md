@@ -1,5 +1,4 @@
-Gloeosporium phaseoli Richon SPECIES
-=======
+# Gloeosporium phaseoli Richon SPECIES
 
 #### Status
 ACCEPTED

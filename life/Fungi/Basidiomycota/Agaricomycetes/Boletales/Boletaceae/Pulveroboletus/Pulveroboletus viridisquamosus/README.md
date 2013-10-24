@@ -1,17 +1,16 @@
-Pulveroboletus viridosquamosus Watling, E. Turnbull & S.S. Lee SPECIES
-=======
+# Pulveroboletus viridisquamosus Watling, E. Turnbull & S.S. Lee SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Watling, Lee & Turnbull, Bull. Soc. mycol. Fr. 122(4): 340 (2007)
 
 #### Original name
-Pulveroboletus viridosquamosus Watling, E. Turnbull & S.S. Lee
+Pulveroboletus viridisquamosus Watling, E. Turnbull & S.S. Lee
 
 ### Remarks
 null

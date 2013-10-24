@@ -1,14 +1,13 @@
-Lepiota tenera P.D. Orton, 1960 SPECIES
-=======
+# Leucoagaricus tener (P.D. Orton) Bon, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 43(2): 288 (1960)
+Docums Mycol. 7(nos 27-28): 54 (1977)
 
 #### Original name
 Lepiota tenera P.D. Orton, 1960

@@ -1,8 +1,7 @@
-Salpingoeca longipes Kent, 1882 SPECIES
-=======
+# Salpingoeca infusionum Kent, 1880 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

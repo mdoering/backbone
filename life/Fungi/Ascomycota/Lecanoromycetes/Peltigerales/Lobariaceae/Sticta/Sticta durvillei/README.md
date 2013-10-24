@@ -1,5 +1,4 @@
-Sticta durvillei SPECIES
-=======
+# Sticta durvillei SPECIES
 
 #### Status
 ACCEPTED

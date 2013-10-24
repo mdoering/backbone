@@ -1,5 +1,4 @@
-Dictyospyrissa Haeckel, 1887 GENUS
-=======
+# Dictyospyrissa Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Hypholoma aelopus (Fr.) Sacc. SPECIES
-=======
+# Hypholoma aelopum (Fr.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 5: 1031 (1887)
 
 #### Original name
 Agaricus aellopum Fr.

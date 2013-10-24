@@ -1,5 +1,4 @@
-Mycenastrum dugesii De Seynes SPECIES
-=======
+# Mycenastrum dugesii De Seynes SPECIES
 
 #### Status
 ACCEPTED

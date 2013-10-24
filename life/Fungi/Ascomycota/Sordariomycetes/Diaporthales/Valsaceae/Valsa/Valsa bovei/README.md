@@ -1,5 +1,4 @@
-Valsa bovei Speg. SPECIES
-=======
+# Valsa bovei Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia capensis (L. f.) Ach. SPECIES
-=======
+# Parmelia capensis (L. f.) Ach. SPECIES
 
 #### Status
 ACCEPTED

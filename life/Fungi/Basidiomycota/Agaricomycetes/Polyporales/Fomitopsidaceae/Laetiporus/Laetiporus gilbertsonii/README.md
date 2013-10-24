@@ -1,5 +1,4 @@
-Laetiporus gilbertsonii var. gilbertsonii VARIETY
-=======
+# Laetiporus gilbertsonii Burds. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+in Burdsall & Banik, Harvard Pap. Bot. 6(1): 48 (2001)
 
 #### Original name
-Laetiporus gilbertsonii var. gilbertsonii
+Laetiporus gilbertsonii Burds.
 
 ### Remarks
 null

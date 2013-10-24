@@ -1,5 +1,4 @@
-Ascochyta dictamni Krusch. SPECIES
-=======
+# Ascochyta dictamni Krusch. SPECIES
 
 #### Status
 ACCEPTED

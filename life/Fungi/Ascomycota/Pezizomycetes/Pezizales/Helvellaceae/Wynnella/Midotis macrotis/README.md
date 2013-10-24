@@ -1,5 +1,4 @@
-Midotis macrotis (Berk.) Sacc. SPECIES
-=======
+# Midotis macrotis (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Milesina intermedia (Faull) Hirats. SPECIES
-=======
+# Milesina intermedia (Faull) Hirats. SPECIES
 
 #### Status
 ACCEPTED

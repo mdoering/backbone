@@ -1,5 +1,4 @@
-Phaeocollybia singularis E. Horak & Halling SPECIES
-=======
+# Phaeocollybia singularis E. Horak & Halling SPECIES
 
 #### Status
 ACCEPTED

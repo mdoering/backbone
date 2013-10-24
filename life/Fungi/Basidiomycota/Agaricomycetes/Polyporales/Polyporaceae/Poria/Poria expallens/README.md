@@ -1,5 +1,4 @@
-Poria expallens P. Karst. SPECIES
-=======
+# Poria expallens P. Karst. SPECIES
 
 #### Status
 ACCEPTED

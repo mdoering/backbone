@@ -1,5 +1,4 @@
-Lachnea dispora (Clem.) Sacc. & D. Sacc. SPECIES
-=======
+# Lachnea dispora (Clem.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

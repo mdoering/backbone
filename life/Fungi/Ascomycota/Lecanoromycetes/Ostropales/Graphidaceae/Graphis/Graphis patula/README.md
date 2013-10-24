@@ -1,5 +1,4 @@
-Graphis patula A.W. Archer SPECIES
-=======
+# Graphis patula A.W. Archer SPECIES
 
 #### Status
 ACCEPTED

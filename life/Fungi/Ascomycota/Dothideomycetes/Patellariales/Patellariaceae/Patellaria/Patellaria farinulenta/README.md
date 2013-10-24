@@ -1,5 +1,4 @@
-Patellaria farinulenta Müll. Arg. SPECIES
-=======
+# Patellaria farinulenta Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

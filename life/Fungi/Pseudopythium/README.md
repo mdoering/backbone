@@ -1,5 +1,4 @@
-Pseudopythium Sideris GENUS
-=======
+# Pseudopythium Sideris GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria desciscens Oudem., 1902 SPECIES
-=======
+# Leptosphaeria desciscens Oudem., 1902 SPECIES
 
 #### Status
 ACCEPTED

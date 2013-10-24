@@ -1,5 +1,4 @@
-Nectria submersa Kobayasi SPECIES
-=======
+# Nectria submersa Kobayasi SPECIES
 
 #### Status
 ACCEPTED

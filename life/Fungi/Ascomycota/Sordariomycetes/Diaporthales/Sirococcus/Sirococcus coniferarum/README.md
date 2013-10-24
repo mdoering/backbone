@@ -1,5 +1,4 @@
-Sirococcus coniferarum Vestergr. SPECIES
-=======
+# Sirococcus coniferarum Vestergr. SPECIES
 
 #### Status
 ACCEPTED

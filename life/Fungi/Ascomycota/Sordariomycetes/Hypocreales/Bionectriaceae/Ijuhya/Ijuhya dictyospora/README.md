@@ -1,5 +1,4 @@
-Ijuhya dictyospora (Rossman) Rossman & Samuels SPECIES
-=======
+# Ijuhya dictyospora (Rossman) Rossman & Samuels SPECIES
 
 #### Status
 ACCEPTED

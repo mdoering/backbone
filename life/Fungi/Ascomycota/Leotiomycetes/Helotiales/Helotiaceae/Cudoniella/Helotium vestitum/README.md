@@ -1,5 +1,4 @@
-Helotium vestitum Quél. SPECIES
-=======
+# Helotium vestitum Quél. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anisomyces papilloideoseptatus (Henn.) Theiss. & Syd., 1914 SPECIES
-=======
+# Anisomyces papilloideoseptatus (Henn.) Theiss. & Syd., 1914 SPECIES
 
 #### Status
 ACCEPTED

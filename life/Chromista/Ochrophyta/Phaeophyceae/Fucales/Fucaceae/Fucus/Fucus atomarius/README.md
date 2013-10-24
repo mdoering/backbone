@@ -1,5 +1,4 @@
-Fucus atomarius S.G. Gmelin SPECIES
-=======
+# Fucus atomarius S.G. Gmelin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dysteria oblongnucleata SPECIES
-=======
+# Dysteria oblongnucleata SPECIES
 
 #### Status
 ACCEPTED

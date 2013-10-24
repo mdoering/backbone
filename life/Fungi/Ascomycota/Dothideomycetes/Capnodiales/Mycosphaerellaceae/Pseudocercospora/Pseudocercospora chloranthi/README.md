@@ -1,5 +1,4 @@
-Pseudocercospora chloranthi (Togashi & Katsuki) X.J. Liu & Y.L. Guo SPECIES
-=======
+# Pseudocercospora chloranthi (Togashi & Katsuki) X.J. Liu & Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

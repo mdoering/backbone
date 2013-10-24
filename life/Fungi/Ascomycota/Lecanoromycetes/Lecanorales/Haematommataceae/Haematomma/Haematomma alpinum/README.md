@@ -1,5 +1,4 @@
-Haematomma alpinum R. W. Rogers SPECIES
-=======
+# Haematomma alpinum R. W. Rogers SPECIES
 
 #### Status
 ACCEPTED

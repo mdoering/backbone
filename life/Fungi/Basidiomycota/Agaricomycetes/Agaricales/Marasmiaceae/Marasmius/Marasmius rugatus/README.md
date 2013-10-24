@@ -1,5 +1,4 @@
-Marasmius rugatus Mont. SPECIES
-=======
+# Marasmius rugatus Mont. SPECIES
 
 #### Status
 ACCEPTED

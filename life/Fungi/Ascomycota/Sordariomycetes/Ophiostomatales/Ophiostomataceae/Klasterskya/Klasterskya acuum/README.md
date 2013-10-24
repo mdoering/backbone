@@ -1,17 +1,16 @@
-Gnomonia needhami Massee & Crossl. SPECIES
-=======
+# Klasterskya acuum (Mouton) Petr., 1940 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 38(2/4): 227 (1940)
 
 #### Original name
-Gnomonia needhami Massee & Crossl.
+Lentomita acuum Mouton, 1887
 
 ### Remarks
 null

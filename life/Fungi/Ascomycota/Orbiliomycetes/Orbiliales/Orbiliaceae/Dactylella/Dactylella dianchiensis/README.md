@@ -1,5 +1,4 @@
-Dactylella dianchiensis Y. Hao & K.Q. Zhang SPECIES
-=======
+# Dactylella dianchiensis Y. Hao & K.Q. Zhang SPECIES
 
 #### Status
 ACCEPTED

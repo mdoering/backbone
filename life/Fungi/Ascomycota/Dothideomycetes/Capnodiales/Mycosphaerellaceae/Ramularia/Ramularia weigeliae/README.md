@@ -1,5 +1,4 @@
-Ramularia weigeliae Speg. SPECIES
-=======
+# Ramularia weigeliae Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeosporium hysterioideum Dearn. & Barthol. SPECIES
-=======
+# Gloeosporium hysterioideum Dearn. & Barthol. SPECIES
 
 #### Status
 ACCEPTED

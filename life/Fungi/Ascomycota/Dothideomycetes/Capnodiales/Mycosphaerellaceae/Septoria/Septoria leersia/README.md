@@ -1,5 +1,4 @@
-Septoria leersia Pass. SPECIES
-=======
+# Septoria leersia Pass. SPECIES
 
 #### Status
 ACCEPTED

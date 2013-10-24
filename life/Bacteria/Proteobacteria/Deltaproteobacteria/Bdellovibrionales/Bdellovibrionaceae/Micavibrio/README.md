@@ -1,5 +1,4 @@
-Micavibrio Lambina et al., 1989 GENUS
-=======
+# Micavibrio Lambina et al., 1989 GENUS
 
 #### Status
 ACCEPTED

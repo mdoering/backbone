@@ -1,5 +1,4 @@
-Schizoxylon pratense Sherwood SPECIES
-=======
+# Schizoxylon pratense Sherwood SPECIES
 
 #### Status
 ACCEPTED

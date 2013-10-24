@@ -1,5 +1,4 @@
-Papilionospora V.G. Rao & B. Sutton GENUS
-=======
+# Papilionospora V.G. Rao & B. Sutton GENUS
 
 #### Status
 ACCEPTED

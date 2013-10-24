@@ -1,5 +1,4 @@
-Izhella Antropov GENUS
-=======
+# Izhella Antropov GENUS
 
 #### Status
 ACCEPTED

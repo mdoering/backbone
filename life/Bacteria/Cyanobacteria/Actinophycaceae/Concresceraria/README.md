@@ -1,5 +1,4 @@
-Concresceraria A.G. Vologdin, 1962 GENUS
-=======
+# Concresceraria A.G. Vologdin, 1962 GENUS
 
 #### Status
 ACCEPTED

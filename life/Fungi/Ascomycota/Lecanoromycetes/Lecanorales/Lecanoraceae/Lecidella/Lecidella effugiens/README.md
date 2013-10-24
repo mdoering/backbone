@@ -1,17 +1,16 @@
-Lecidea incongruella var. incongruella VARIETY
-=======
+# Lecidella effugiens (Nilson) Knoph & Hertel SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Lecidea incongruella var. incongruella
+null
 
 ### Remarks
 null

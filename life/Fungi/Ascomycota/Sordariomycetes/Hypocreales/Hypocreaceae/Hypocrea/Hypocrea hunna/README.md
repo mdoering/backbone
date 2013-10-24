@@ -1,5 +1,4 @@
-Hypocrea hunna SPECIES
-=======
+# Hypocrea hunna SPECIES
 
 #### Status
 ACCEPTED

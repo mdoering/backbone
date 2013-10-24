@@ -1,14 +1,13 @@
-Exosporium armillatum (S.C. Jong & E.F. Morris) Deighton, 1990 SPECIES
-=======
+# Poroisariopsis armillata (S.C. Jong & E.F. Morris) M. Morelet, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Res. 94(8): 1100 (1990)
+Bulletin de la Société des Sciences naturelles et d'Archéologie de Toulon et du Var 195: 7 (1971)
 
 #### Original name
 Phaeoisariopsis armillata S.C. Jong & E.F. Morris, 1968

@@ -1,5 +1,4 @@
-Nitrobacteraceae FAMILY
-=======
+# Nitrobacteraceae FAMILY
 
 #### Status
 ACCEPTED

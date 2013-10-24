@@ -1,5 +1,4 @@
-Cladonia confusa f. confusa R. Sant. FORM
-=======
+# Cladonia confusa R. Sant. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-Cladonia confusa f. confusa R. Sant.
+null
 
 ### Remarks
 null

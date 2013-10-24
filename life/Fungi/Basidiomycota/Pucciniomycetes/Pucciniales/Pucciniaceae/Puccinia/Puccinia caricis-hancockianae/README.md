@@ -1,5 +1,4 @@
-Puccinia caricis-hancockianae J.Y. Zhuang & S.X. Wei SPECIES
-=======
+# Puccinia caricis-hancockianae J.Y. Zhuang & S.X. Wei SPECIES
 
 #### Status
 ACCEPTED

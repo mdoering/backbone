@@ -1,5 +1,4 @@
-Stereum levigatum f. levigatum FORM
-=======
+# Stereum levigatum Speg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Anal. Soc. cient. argent. 10: 130 (1880)
 
 #### Original name
-Stereum levigatum f. levigatum
+Stereum levigatum Speg.
 
 ### Remarks
 null

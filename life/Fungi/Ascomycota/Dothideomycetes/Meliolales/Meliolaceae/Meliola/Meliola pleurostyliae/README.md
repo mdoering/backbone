@@ -1,5 +1,4 @@
-Meliola pleurostyliae (Berk. & Broome) Höhn. SPECIES
-=======
+# Meliola pleurostyliae (Berk. & Broome) Höhn. SPECIES
 
 #### Status
 ACCEPTED

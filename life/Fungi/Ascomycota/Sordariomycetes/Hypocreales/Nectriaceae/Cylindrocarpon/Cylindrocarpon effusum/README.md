@@ -1,5 +1,4 @@
-Cylindrocarpon effusum Bugnic., 1939 SPECIES
-=======
+# Cylindrocarpon effusum Bugnic., 1939 SPECIES
 
 #### Status
 ACCEPTED

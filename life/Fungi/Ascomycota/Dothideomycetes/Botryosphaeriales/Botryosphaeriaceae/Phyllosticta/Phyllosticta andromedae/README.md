@@ -1,5 +1,4 @@
-Phyllosticta andromedae Westend. SPECIES
-=======
+# Phyllosticta andromedae Westend. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizomorpha ochreata Ach. SPECIES
-=======
+# Rhizomorpha ochreata Ach. SPECIES
 
 #### Status
 ACCEPTED

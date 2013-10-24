@@ -1,5 +1,4 @@
-Sclerotinia confundens Whetzel SPECIES
-=======
+# Sclerotinia confundens Whetzel SPECIES
 
 #### Status
 ACCEPTED

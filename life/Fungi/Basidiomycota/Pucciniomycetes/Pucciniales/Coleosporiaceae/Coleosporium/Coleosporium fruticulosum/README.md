@@ -1,5 +1,4 @@
-Coleosporium fruticulosum Link SPECIES
-=======
+# Coleosporium fruticulosum Link SPECIES
 
 #### Status
 ACCEPTED

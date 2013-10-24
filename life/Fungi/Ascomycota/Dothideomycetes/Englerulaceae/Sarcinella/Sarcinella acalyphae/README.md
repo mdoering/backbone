@@ -1,5 +1,4 @@
-Sarcinella acalyphae Syd. SPECIES
-=======
+# Sarcinella acalyphae Syd. SPECIES
 
 #### Status
 ACCEPTED

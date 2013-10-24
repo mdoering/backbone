@@ -1,5 +1,4 @@
-Guignardia alyxiae F. Stevens SPECIES
-=======
+# Guignardia alyxiae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

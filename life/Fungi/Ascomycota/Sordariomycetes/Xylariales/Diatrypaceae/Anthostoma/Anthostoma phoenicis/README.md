@@ -1,5 +1,4 @@
-Anthostoma phoenicis S.J. Kaur SPECIES
-=======
+# Anthostoma phoenicis S.J. Kaur SPECIES
 
 #### Status
 ACCEPTED

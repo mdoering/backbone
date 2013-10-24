@@ -1,5 +1,4 @@
-Porothelium Eschw. GENUS
-=======
+# Porothelium Eschw. GENUS
 
 #### Status
 ACCEPTED

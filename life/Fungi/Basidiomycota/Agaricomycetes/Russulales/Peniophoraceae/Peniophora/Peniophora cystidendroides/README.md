@@ -1,5 +1,4 @@
-Peniophora cystidendroides Rick SPECIES
-=======
+# Peniophora cystidendroides Rick SPECIES
 
 #### Status
 ACCEPTED

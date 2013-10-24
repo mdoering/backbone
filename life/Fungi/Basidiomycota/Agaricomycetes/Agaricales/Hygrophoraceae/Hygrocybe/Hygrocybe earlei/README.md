@@ -1,5 +1,4 @@
-Hygrocybe earlei (Murrill) Pegler SPECIES
-=======
+# Hygrocybe earlei (Murrill) Pegler SPECIES
 
 #### Status
 ACCEPTED

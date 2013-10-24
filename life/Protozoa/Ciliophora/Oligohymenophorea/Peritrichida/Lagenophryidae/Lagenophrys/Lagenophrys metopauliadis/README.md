@@ -1,5 +1,4 @@
-Lagenophrys metopauliadis Corliss & Brough, 1965 SPECIES
-=======
+# Lagenophrys metopauliadis Corliss & Brough, 1965 SPECIES
 
 #### Status
 ACCEPTED

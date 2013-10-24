@@ -1,5 +1,4 @@
-Sorodiscus radicicola Ivimey Cook, 1931 SPECIES
-=======
+# Sorodiscus radicicola Ivimey Cook, 1931 SPECIES
 
 #### Status
 ACCEPTED

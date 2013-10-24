@@ -1,17 +1,16 @@
-Corticium syringae (Fuckel) G. Winter, 1884 SPECIES
-=======
+# Schizophyllum amplum (Lév.) Nakasone, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 88(5): 771 (1996)
 
 #### Original name
-null
+Cyphella ampla Lév., 1848
 
 ### Remarks
 null

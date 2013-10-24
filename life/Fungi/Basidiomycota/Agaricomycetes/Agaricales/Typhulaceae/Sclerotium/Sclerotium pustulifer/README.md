@@ -1,5 +1,4 @@
-Sclerotium pustulifer Heer SPECIES
-=======
+# Sclerotium pustulifer Heer SPECIES
 
 #### Status
 ACCEPTED

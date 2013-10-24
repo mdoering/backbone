@@ -1,5 +1,4 @@
-Anthracothecium goniostomum Müll. Arg. SPECIES
-=======
+# Anthracothecium goniostomum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

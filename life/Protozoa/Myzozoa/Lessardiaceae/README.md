@@ -1,5 +1,4 @@
-Lessardiaceae Carbonell-Moore, 2004 FAMILY
-=======
+# Lessardiaceae Carbonell-Moore, 2004 FAMILY
 
 #### Status
 ACCEPTED

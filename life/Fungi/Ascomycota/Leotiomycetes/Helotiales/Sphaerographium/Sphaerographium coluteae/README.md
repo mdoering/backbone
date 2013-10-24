@@ -1,5 +1,4 @@
-Sphaerographium coluteae Richon SPECIES
-=======
+# Sphaerographium coluteae Richon SPECIES
 
 #### Status
 ACCEPTED

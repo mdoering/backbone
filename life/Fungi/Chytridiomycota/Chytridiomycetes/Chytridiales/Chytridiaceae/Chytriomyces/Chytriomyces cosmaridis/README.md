@@ -1,17 +1,16 @@
-Chytriomyces cosmarii Karling SPECIES
-=======
+# Chytriomyces cosmaridis Karling, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 20: 119 (1968)
 
 #### Original name
-Chytriomyces cosmarii Karling
+Chytriomyces cosmaridis Karling, 1968
 
 ### Remarks
 null

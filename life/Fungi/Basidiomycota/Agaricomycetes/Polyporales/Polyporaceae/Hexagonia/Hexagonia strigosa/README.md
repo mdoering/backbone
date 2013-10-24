@@ -1,5 +1,4 @@
-Hexagonia strigosa Cooke SPECIES
-=======
+# Hexagonia strigosa Cooke SPECIES
 
 #### Status
 ACCEPTED

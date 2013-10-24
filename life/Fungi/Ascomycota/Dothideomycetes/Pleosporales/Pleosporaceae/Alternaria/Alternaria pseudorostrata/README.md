@@ -1,5 +1,4 @@
-Alternaria pseudorostrata E.G. Simmons, 1996 SPECIES
-=======
+# Alternaria pseudorostrata E.G. Simmons, 1996 SPECIES
 
 #### Status
 ACCEPTED

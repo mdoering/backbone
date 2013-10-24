@@ -1,5 +1,4 @@
-Schizodinium E.Chatton GENUS
-=======
+# Schizodinium E.Chatton GENUS
 
 #### Status
 ACCEPTED

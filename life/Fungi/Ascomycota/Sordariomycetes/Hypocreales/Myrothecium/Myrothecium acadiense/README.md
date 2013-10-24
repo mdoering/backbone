@@ -1,5 +1,4 @@
-Myrothecium acadiense Seifert & G. Sampson SPECIES
-=======
+# Myrothecium acadiense Seifert & G. Sampson SPECIES
 
 #### Status
 ACCEPTED

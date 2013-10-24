@@ -1,5 +1,4 @@
-Heterillina Munier-Chalmas & Schlumberger in Schlumberger, 1905 GENUS
-=======
+# Heterillina Munier-Chalmas & Schlumberger in Schlumberger, 1905 GENUS
 
 #### Status
 ACCEPTED

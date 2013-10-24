@@ -1,5 +1,4 @@
-Asteridiella hedycaryae (Hansf.) Hansf. SPECIES
-=======
+# Asteridiella hedycaryae (Hansf.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

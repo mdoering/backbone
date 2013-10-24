@@ -1,5 +1,4 @@
-Lagerheima GENUS
-=======
+# Lagerheima GENUS
 
 #### Status
 ACCEPTED

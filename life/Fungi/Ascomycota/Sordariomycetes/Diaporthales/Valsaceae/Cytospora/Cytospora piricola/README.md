@@ -1,5 +1,4 @@
-Cytospora piricola Westend. SPECIES
-=======
+# Cytospora piricola Westend. SPECIES
 
 #### Status
 ACCEPTED

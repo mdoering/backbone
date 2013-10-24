@@ -1,5 +1,4 @@
-Physcia glauca (L.) DC. SPECIES
-=======
+# Physcia glauca (L.) DC. SPECIES
 
 #### Status
 ACCEPTED

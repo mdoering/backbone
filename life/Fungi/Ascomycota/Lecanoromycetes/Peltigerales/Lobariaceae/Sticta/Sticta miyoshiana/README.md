@@ -1,5 +1,4 @@
-Sticta miyoshiana Müll. Arg. SPECIES
-=======
+# Sticta miyoshiana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

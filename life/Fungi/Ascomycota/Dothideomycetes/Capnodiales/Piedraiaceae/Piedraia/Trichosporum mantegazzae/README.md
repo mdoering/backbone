@@ -1,5 +1,4 @@
-Trichosporum mantegazzae Pollacci, 1922 SPECIES
-=======
+# Trichosporum mantegazzae Pollacci, 1922 SPECIES
 
 #### Status
 ACCEPTED

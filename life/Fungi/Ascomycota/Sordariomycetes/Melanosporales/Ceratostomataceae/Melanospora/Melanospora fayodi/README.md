@@ -1,5 +1,4 @@
-Melanospora fayodi Vuill. SPECIES
-=======
+# Melanospora fayodi Vuill. SPECIES
 
 #### Status
 ACCEPTED

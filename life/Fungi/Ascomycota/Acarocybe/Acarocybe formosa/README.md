@@ -1,5 +1,4 @@
-Acarocybe formosa (Bat. & J.L. Bezerra) M.B. Ellis SPECIES
-=======
+# Acarocybe formosa (Bat. & J.L. Bezerra) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

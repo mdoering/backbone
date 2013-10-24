@@ -1,14 +1,13 @@
-Gnomonia avellanae (J.C. Schmidt) Cooke SPECIES
-=======
+# Gnomoniella avellanae (J.C. Schmidt) Sacc., 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 1: 414 (1882)
 
 #### Original name
 Sphaeria avellanae J.C. Schmidt, 1817

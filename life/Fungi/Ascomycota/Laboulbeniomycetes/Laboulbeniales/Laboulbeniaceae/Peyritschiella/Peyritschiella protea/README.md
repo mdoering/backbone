@@ -1,5 +1,4 @@
-Peyritschiella protea Thaxt., 1900 SPECIES
-=======
+# Peyritschiella protea Thaxt., 1900 SPECIES
 
 #### Status
 ACCEPTED

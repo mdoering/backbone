@@ -1,5 +1,4 @@
-Catapyrenium analogicum Breuss SPECIES
-=======
+# Catapyrenium analogicum Breuss SPECIES
 
 #### Status
 ACCEPTED

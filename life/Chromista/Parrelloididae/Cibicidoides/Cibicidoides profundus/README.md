@@ -1,5 +1,4 @@
-Cibicidoides profundus Saidova, 1975 SPECIES
-=======
+# Cibicidoides profundus Saidova, 1975 SPECIES
 
 #### Status
 ACCEPTED

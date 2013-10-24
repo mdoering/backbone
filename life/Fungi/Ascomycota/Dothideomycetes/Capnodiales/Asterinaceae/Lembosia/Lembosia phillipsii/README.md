@@ -1,5 +1,4 @@
-Lembosia phillipsii (Doidge) Doidge SPECIES
-=======
+# Lembosia phillipsii (Doidge) Doidge SPECIES
 
 #### Status
 ACCEPTED

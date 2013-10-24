@@ -1,5 +1,4 @@
-Meliola bersamicola Hansf. SPECIES
-=======
+# Meliola bersamicola Hansf. SPECIES
 
 #### Status
 ACCEPTED

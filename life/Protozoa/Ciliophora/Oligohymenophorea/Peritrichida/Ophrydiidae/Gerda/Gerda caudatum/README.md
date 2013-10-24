@@ -1,5 +1,4 @@
-Gerda caudatum SPECIES
-=======
+# Gerda caudatum SPECIES
 
 #### Status
 ACCEPTED

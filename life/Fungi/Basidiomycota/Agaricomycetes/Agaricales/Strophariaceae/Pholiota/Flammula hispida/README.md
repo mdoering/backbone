@@ -1,5 +1,4 @@
-Flammula hispida Massee SPECIES
-=======
+# Flammula hispida Massee SPECIES
 
 #### Status
 ACCEPTED

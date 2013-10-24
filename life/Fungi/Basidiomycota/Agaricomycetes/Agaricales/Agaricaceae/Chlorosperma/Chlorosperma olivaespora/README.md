@@ -1,5 +1,4 @@
-Chlorosperma olivaespora (Ellis & Everh.) Murrill SPECIES
-=======
+# Chlorosperma olivaespora (Ellis & Everh.) Murrill SPECIES
 
 #### Status
 ACCEPTED

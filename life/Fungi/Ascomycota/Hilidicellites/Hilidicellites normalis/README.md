@@ -1,5 +1,4 @@
-Hilidicellites normalis (Sheffy & Dilcher) Kalgutkar & Janson. SPECIES
-=======
+# Hilidicellites normalis (Sheffy & Dilcher) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

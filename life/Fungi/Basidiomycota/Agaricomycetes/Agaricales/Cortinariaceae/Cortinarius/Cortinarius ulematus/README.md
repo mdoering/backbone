@@ -1,5 +1,4 @@
-Cortinarius ulematus Gasparini SPECIES
-=======
+# Cortinarius ulematus Gasparini SPECIES
 
 #### Status
 ACCEPTED

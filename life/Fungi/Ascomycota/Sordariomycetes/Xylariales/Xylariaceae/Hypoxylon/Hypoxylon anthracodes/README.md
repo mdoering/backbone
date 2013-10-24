@@ -1,5 +1,4 @@
-Hypoxylon anthracodes (Fr.) Mont. ex Sacc. SPECIES
-=======
+# Hypoxylon anthracodes (Fr.) Mont. ex Sacc. SPECIES
 
 #### Status
 ACCEPTED

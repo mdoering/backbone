@@ -1,5 +1,4 @@
-Yersinia van Loghem, 1944 GENUS
-=======
+# Yersinia van Loghem, 1944 GENUS
 
 #### Status
 ACCEPTED

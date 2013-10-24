@@ -1,5 +1,4 @@
-Diatrypella platensis Speg. SPECIES
-=======
+# Diatrypella platensis Speg. SPECIES
 
 #### Status
 ACCEPTED

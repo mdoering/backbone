@@ -1,5 +1,4 @@
-Phomatospora magellanica Speg. SPECIES
-=======
+# Phomatospora magellanica Speg. SPECIES
 
 #### Status
 ACCEPTED

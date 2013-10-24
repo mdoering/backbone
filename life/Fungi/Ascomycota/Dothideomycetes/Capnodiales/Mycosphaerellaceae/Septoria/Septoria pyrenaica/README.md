@@ -1,5 +1,4 @@
-Septoria pyrenaica Durrieu SPECIES
-=======
+# Septoria pyrenaica Durrieu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Wellheimia pfeifferi Pascher SPECIES
-=======
+# Wellheimia pfeifferi Pascher SPECIES
 
 #### Status
 ACCEPTED

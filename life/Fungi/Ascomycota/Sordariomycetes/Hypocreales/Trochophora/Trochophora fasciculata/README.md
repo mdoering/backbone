@@ -1,14 +1,13 @@
-Trochophora fasciculatum (Berk. & M.A. Curtis) Goos SPECIES
-=======
+# Trochophora fasciculata (Berk. & M.A. Curtis) Goos, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 78(5): 759 (1986)
 
 #### Original name
 Helicoma fasciculatum Berk. & M.A. Curtis, 1856

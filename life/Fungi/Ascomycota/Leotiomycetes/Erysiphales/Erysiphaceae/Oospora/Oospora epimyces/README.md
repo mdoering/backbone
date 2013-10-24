@@ -1,5 +1,4 @@
-Oospora epimyces (Corda) Sacc. & Voglino SPECIES
-=======
+# Oospora epimyces (Corda) Sacc. & Voglino SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xiphothecaella longicaudata SPECIES
-=======
+# Xiphothecaella longicaudata SPECIES
 
 #### Status
 ACCEPTED

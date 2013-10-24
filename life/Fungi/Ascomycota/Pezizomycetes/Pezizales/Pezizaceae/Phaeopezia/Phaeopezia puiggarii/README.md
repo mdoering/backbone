@@ -1,5 +1,4 @@
-Phaeopezia puiggarii Speg. SPECIES
-=======
+# Phaeopezia puiggarii Speg. SPECIES
 
 #### Status
 ACCEPTED

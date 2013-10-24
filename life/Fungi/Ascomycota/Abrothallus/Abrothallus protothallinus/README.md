@@ -1,5 +1,4 @@
-Abrothallus protothallinus Anzi SPECIES
-=======
+# Abrothallus protothallinus Anzi SPECIES
 
 #### Status
 ACCEPTED

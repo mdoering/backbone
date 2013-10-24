@@ -1,5 +1,4 @@
-Methanosaetaceae FAMILY
-=======
+# Methanosaetaceae FAMILY
 
 #### Status
 ACCEPTED

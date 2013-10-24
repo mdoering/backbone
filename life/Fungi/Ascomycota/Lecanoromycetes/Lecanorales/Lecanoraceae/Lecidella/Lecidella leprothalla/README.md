@@ -1,5 +1,4 @@
-Lecidella leprothalla (Zahlbr.) Knoph & Leuckert SPECIES
-=======
+# Lecidella leprothalla (Zahlbr.) Knoph & Leuckert SPECIES
 
 #### Status
 ACCEPTED

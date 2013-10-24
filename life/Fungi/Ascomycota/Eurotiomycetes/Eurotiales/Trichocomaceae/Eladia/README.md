@@ -1,5 +1,4 @@
-Eladia G. Smith, 1961 GENUS
-=======
+# Eladia G. Smith, 1961 GENUS
 
 #### Status
 ACCEPTED

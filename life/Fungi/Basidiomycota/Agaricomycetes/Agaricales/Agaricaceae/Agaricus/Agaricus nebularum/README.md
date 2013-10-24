@@ -1,5 +1,4 @@
-Agaricus nebularum Singer SPECIES
-=======
+# Agaricus nebularum Singer SPECIES
 
 #### Status
 ACCEPTED

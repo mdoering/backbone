@@ -1,8 +1,7 @@
-Mycosphaerella mangini Savul. & R.S. Sandu SPECIES
-=======
+# Mycosphaerella manginii Savul. & R.S. Sandu SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Mycosphaerella mangini Savul. & R.S. Sandu
+Mycosphaerella manginii Savul. & R.S. Sandu
 
 ### Remarks
 null

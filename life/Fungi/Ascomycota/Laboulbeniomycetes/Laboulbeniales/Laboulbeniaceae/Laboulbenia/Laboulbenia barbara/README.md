@@ -1,5 +1,4 @@
-Laboulbenia barbara Middelh. & Boelens SPECIES
-=======
+# Laboulbenia barbara Middelh. & Boelens SPECIES
 
 #### Status
 ACCEPTED

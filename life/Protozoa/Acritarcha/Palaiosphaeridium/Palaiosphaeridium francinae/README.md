@@ -1,5 +1,4 @@
-Palaiosphaeridium francinae H. Górka SPECIES
-=======
+# Palaiosphaeridium francinae H. Górka SPECIES
 
 #### Status
 ACCEPTED

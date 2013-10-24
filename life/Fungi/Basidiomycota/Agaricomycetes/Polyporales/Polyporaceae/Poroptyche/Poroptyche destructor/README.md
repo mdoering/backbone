@@ -1,5 +1,4 @@
-Poroptyche destructor (Schrad.) Teixeira SPECIES
-=======
+# Poroptyche destructor (Schrad.) Teixeira SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cantharellus fulvocaerulescens Valenti SPECIES
-=======
+# Cantharellus fulvocaerulescens Valenti SPECIES
 
 #### Status
 ACCEPTED

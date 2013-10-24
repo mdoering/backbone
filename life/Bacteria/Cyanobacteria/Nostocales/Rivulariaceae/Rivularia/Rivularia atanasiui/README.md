@@ -1,5 +1,4 @@
-Rivularia atanasiui (O. Dragastan) O. Dragastan SPECIES
-=======
+# Rivularia atanasiui (O. Dragastan) O. Dragastan SPECIES
 
 #### Status
 ACCEPTED

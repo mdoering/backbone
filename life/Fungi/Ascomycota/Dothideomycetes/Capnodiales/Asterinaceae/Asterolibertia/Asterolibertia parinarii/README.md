@@ -1,5 +1,4 @@
-Asterolibertia parinarii (Syd.) Hansf. SPECIES
-=======
+# Asterolibertia parinarii (Syd.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

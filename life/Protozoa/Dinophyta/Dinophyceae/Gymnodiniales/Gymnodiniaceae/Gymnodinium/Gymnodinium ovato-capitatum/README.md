@@ -1,5 +1,4 @@
-Gymnodinium ovato-capitatum van Meel, 1969 SPECIES
-=======
+# Gymnodinium ovato-capitatum van Meel, 1969 SPECIES
 
 #### Status
 ACCEPTED

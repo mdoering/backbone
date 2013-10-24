@@ -1,5 +1,4 @@
-Lycoperdon duthiei Bottomley SPECIES
-=======
+# Lycoperdon duthiei Bottomley SPECIES
 
 #### Status
 ACCEPTED

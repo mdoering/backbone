@@ -1,5 +1,4 @@
-Cercospora calonchobae Viégas SPECIES
-=======
+# Cercospora calonchobae Viégas SPECIES
 
 #### Status
 ACCEPTED

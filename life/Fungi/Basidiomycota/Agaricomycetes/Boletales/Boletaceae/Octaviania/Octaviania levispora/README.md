@@ -1,5 +1,4 @@
-Octaviania levispora Rodway SPECIES
-=======
+# Octaviania levispora Rodway SPECIES
 
 #### Status
 ACCEPTED

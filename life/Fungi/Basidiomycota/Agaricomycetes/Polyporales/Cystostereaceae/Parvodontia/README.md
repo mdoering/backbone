@@ -1,5 +1,4 @@
-Parvodontia Hjortstam & Ryvarden GENUS
-=======
+# Parvodontia Hjortstam & Ryvarden GENUS
 
 #### Status
 ACCEPTED

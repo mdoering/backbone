@@ -1,5 +1,4 @@
-Alternaria astragali Wangeline & E.G. Simmons SPECIES
-=======
+# Alternaria astragali Wangeline & E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

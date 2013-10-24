@@ -1,5 +1,4 @@
-Microsphaera helwingiae Sawada SPECIES
-=======
+# Microsphaera helwingiae Sawada SPECIES
 
 #### Status
 ACCEPTED

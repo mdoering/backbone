@@ -1,5 +1,4 @@
-Coolia tropicalis M. A. Faust SPECIES
-=======
+# Coolia tropicalis M. A. Faust SPECIES
 
 #### Status
 ACCEPTED

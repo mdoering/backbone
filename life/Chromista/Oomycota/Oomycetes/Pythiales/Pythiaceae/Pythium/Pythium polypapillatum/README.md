@@ -1,5 +1,4 @@
-Pythium polypapillatum T. Itô SPECIES
-=======
+# Pythium polypapillatum T. Itô SPECIES
 
 #### Status
 ACCEPTED

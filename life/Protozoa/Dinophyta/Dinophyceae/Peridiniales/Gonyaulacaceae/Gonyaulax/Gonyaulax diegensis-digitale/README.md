@@ -1,5 +1,4 @@
-Gonyaulax diegensis-digitale SPECIES
-=======
+# Gonyaulax diegensis-digitale SPECIES
 
 #### Status
 ACCEPTED

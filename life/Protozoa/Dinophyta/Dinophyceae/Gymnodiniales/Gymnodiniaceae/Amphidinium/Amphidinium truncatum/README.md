@@ -1,5 +1,4 @@
-Amphidinium truncatum Kofoid & Swezy, 1921 SPECIES
-=======
+# Amphidinium truncatum Kofoid & Swezy, 1921 SPECIES
 
 #### Status
 ACCEPTED

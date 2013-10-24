@@ -1,5 +1,4 @@
-Agaricus tetricus Pers. SPECIES
-=======
+# Agaricus tetricus Pers. SPECIES
 
 #### Status
 ACCEPTED

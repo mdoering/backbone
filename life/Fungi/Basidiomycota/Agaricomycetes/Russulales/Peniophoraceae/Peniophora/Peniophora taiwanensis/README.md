@@ -1,5 +1,4 @@
-Peniophora taiwanensis Sheng H. Wu SPECIES
-=======
+# Peniophora taiwanensis Sheng H. Wu SPECIES
 
 #### Status
 ACCEPTED

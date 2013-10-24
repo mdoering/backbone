@@ -1,5 +1,4 @@
-Hypoxylon vandervekenii Van der Gucht, Y.M. Ju & J.D. Rogers, 1997 SPECIES
-=======
+# Hypoxylon vandervekenii Van der Gucht, Y.M. Ju & J.D. Rogers, 1997 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tricarinella GENUS
-=======
+# Tricarinella GENUS
 
 #### Status
 ACCEPTED

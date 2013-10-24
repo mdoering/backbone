@@ -1,5 +1,4 @@
-Hendersonia coronaria Brunaud SPECIES
-=======
+# Hendersonia coronaria Brunaud SPECIES
 
 #### Status
 ACCEPTED

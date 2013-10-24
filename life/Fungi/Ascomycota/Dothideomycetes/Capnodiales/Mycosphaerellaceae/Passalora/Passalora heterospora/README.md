@@ -1,5 +1,4 @@
-Passalora heterospora (Höhn.) Höhn. SPECIES
-=======
+# Passalora heterospora (Höhn.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria gibberulosa Nyl. SPECIES
-=======
+# Pertusaria gibberulosa Nyl. SPECIES
 
 #### Status
 ACCEPTED

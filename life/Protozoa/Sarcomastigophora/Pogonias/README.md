@@ -1,5 +1,4 @@
-Pogonias O'Dogherty, 1994 GENUS
-=======
+# Pogonias O'Dogherty, 1994 GENUS
 
 #### Status
 ACCEPTED

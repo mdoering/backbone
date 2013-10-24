@@ -1,5 +1,4 @@
-Allotelium mirabile Syd., 1939 SPECIES
-=======
+# Allotelium mirabile Syd., 1939 SPECIES
 
 #### Status
 ACCEPTED

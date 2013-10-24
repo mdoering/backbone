@@ -1,17 +1,16 @@
-Diderma donkii var. echinosporum Buyck VARIETY
-=======
+# Diderma donkii Nann.-Bremek., 1973 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Jard. Bot. Nat. Belg. 52(1/2): 184 (1982)
+Proc. K. Ned. Akad. Wet. , Ser. C, Biol. Med. Sci. 76: 482 (1973)
 
 #### Original name
-Diderma donkii var. echinosporum Buyck
+Diderma donkii Nann.-Bremek., 1973
 
 ### Remarks
 null

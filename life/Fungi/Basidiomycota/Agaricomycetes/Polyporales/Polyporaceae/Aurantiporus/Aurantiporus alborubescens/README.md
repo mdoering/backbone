@@ -1,14 +1,13 @@
-Phaeolus albosordescens subsp. alborubescens Bourdot & Galzin SUBSPECIES
-=======
+# Aurantiporus alborubescens (Bourdot & Galzin) H. Jahn, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 41: 136 (1925)
+Westfälische Pilzbriefe 9(6-7): 99 (1973)
 
 #### Original name
 Phaeolus albosordescens subsp. alborubescens Bourdot & Galzin

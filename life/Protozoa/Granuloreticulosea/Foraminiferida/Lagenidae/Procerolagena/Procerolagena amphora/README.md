@@ -1,5 +1,4 @@
-Procerolagena amphora (Williamson, 1848) SPECIES
-=======
+# Procerolagena amphora (Williamson, 1848) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichophyton rosacea Sabour. SPECIES
-=======
+# Trichophyton rosacea Sabour. SPECIES
 
 #### Status
 ACCEPTED

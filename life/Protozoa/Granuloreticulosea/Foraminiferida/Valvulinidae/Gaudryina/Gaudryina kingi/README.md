@@ -1,5 +1,4 @@
-Gaudryina kingi Parr SPECIES
-=======
+# Gaudryina kingi Parr SPECIES
 
 #### Status
 ACCEPTED

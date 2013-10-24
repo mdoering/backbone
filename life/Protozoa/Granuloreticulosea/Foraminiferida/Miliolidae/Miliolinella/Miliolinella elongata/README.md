@@ -1,5 +1,4 @@
-Miliolinella elongata Kruit, 1955 SPECIES
-=======
+# Miliolinella elongata Kruit, 1955 SPECIES
 
 #### Status
 ACCEPTED

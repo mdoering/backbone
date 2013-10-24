@@ -1,5 +1,4 @@
-Dinemasporium lanatum Nag Raj & R.F. Castañeda SPECIES
-=======
+# Dinemasporium lanatum Nag Raj & R.F. Castañeda SPECIES
 
 #### Status
 ACCEPTED

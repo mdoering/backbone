@@ -1,5 +1,4 @@
-Isaria rosea (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Isaria rosea (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

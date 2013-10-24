@@ -1,5 +1,4 @@
-Polyblastia valloreinensis (Croz.) Zschacke SPECIES
-=======
+# Polyblastia valloreinensis (Croz.) Zschacke SPECIES
 
 #### Status
 ACCEPTED

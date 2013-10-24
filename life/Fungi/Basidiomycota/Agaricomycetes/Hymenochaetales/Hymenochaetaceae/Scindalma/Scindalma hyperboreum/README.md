@@ -1,5 +1,4 @@
-Scindalma hyperboreum (Berk.) Kuntze SPECIES
-=======
+# Scindalma hyperboreum (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

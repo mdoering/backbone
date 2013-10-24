@@ -1,11 +1,10 @@
-Podangium alboraceum Peterson, 1959 SPECIES
-=======
+# Melittangium alboraceum (Peterson, 1959) McCurdy, 1971 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

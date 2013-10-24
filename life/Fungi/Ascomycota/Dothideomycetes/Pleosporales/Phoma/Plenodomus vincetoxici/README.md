@@ -1,5 +1,4 @@
-Plenodomus vincetoxici Petr. SPECIES
-=======
+# Plenodomus vincetoxici Petr. SPECIES
 
 #### Status
 ACCEPTED

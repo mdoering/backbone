@@ -1,5 +1,4 @@
-Spongosphaera Won, 1997 GENUS
-=======
+# Spongosphaera Won, 1997 GENUS
 
 #### Status
 ACCEPTED

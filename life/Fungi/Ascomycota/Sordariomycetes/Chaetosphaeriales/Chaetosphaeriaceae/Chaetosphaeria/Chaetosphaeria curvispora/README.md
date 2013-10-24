@@ -1,5 +1,4 @@
-Chaetosphaeria curvispora Réblová, 2004 SPECIES
-=======
+# Chaetosphaeria curvispora Réblová, 2004 SPECIES
 
 #### Status
 ACCEPTED

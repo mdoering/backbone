@@ -1,5 +1,4 @@
-Peziza rosella Ehrenb. SPECIES
-=======
+# Peziza rosella Ehrenb. SPECIES
 
 #### Status
 ACCEPTED

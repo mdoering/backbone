@@ -1,5 +1,4 @@
-Ilumomonas Khan, Nakagawa & Harayama, 2007 GENUS
-=======
+# Ilumomonas Khan, Nakagawa & Harayama, 2007 GENUS
 
 #### Status
 ACCEPTED

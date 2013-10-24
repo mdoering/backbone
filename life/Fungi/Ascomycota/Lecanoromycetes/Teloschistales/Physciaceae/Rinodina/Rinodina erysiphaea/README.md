@@ -1,5 +1,4 @@
-Rinodina erysiphaea (Nyl.) Zahlbr. SPECIES
-=======
+# Rinodina erysiphaea (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

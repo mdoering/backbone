@@ -1,5 +1,4 @@
-Marasmius pleurotellulus Corner SPECIES
-=======
+# Marasmius pleurotellulus Corner SPECIES
 
 #### Status
 ACCEPTED

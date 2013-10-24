@@ -1,5 +1,4 @@
-Sclerospora indica E.J. Butler SPECIES
-=======
+# Sclerospora indica E.J. Butler SPECIES
 
 #### Status
 ACCEPTED

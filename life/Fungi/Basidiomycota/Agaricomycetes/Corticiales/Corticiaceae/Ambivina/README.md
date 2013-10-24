@@ -1,5 +1,4 @@
-Ambivina Katz GENUS
-=======
+# Ambivina Katz GENUS
 
 #### Status
 ACCEPTED

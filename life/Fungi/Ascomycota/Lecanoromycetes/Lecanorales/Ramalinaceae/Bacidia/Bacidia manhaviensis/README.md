@@ -1,5 +1,4 @@
-Bacidia manhaviensis Zahlbr. SPECIES
-=======
+# Bacidia manhaviensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

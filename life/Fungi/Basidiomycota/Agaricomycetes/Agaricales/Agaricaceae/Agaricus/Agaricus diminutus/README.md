@@ -1,5 +1,4 @@
-Agaricus diminutus Berk. & Broome SPECIES
-=======
+# Agaricus diminutus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

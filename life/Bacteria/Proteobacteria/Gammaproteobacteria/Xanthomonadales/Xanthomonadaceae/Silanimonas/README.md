@@ -1,5 +1,4 @@
-Silanimonas Lee et al., 2005 GENUS
-=======
+# Silanimonas Lee et al., 2005 GENUS
 
 #### Status
 ACCEPTED

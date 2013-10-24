@@ -1,5 +1,4 @@
-Hyella caespitosa var. arbuscula Al-Thukair & Golubic VARIETY
-=======
+# Hyella caespitosa Bornet & Flahault SPECIES
 
 #### Status
 ACCEPTED

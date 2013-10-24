@@ -1,5 +1,4 @@
-Exiguobacterium aestuarii Kim et al., 2005 SPECIES
-=======
+# Exiguobacterium aestuarii Kim et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

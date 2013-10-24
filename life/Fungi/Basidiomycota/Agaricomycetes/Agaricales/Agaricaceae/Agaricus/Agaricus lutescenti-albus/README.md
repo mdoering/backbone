@@ -1,5 +1,4 @@
-Agaricus lutescenti-albus Britzelm. SPECIES
-=======
+# Agaricus lutescenti-albus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

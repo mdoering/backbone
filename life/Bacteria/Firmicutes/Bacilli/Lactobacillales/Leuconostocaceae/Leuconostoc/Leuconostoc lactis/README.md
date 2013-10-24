@@ -1,5 +1,4 @@
-Leuconostoc lactis Garvie, 1960 (Approved Lists, 1980) SPECIES
-=======
+# Leuconostoc lactis Garvie, 1960 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

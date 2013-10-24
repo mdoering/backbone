@@ -1,5 +1,4 @@
-Arthopyrenia persicina (Körb.) Boistel SPECIES
-=======
+# Arthopyrenia persicina (Körb.) Boistel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scyphosphaera cantharellus Kamptner, 1955 SPECIES
-=======
+# Scyphosphaera cantharellus Kamptner, 1955 SPECIES
 
 #### Status
 ACCEPTED

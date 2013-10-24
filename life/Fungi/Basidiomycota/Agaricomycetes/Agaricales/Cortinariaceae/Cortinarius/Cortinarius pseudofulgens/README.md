@@ -1,5 +1,4 @@
-Cortinarius pseudofulgens Rob. Henry SPECIES
-=======
+# Cortinarius pseudofulgens Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

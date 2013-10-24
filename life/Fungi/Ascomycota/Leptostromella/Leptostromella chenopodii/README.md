@@ -1,5 +1,4 @@
-Leptostromella chenopodii Dearn. & House SPECIES
-=======
+# Leptostromella chenopodii Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

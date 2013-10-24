@@ -1,5 +1,4 @@
-Plicaturopsis D.A. Reid, 1964 GENUS
-=======
+# Plicaturopsis D.A. Reid, 1964 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Albotricha fagicola Yas. Ono & Hosoya SPECIES
-=======
+# Albotricha fagicola Yas. Ono & Hosoya SPECIES
 
 #### Status
 ACCEPTED

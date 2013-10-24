@@ -1,5 +1,4 @@
-Gnomoniella asparagina Rehm SPECIES
-=======
+# Gnomoniella asparagina Rehm SPECIES
 
 #### Status
 ACCEPTED

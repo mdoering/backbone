@@ -1,5 +1,4 @@
-Thiorhodococcus kakinadensis Anil Kumar, Sasi Jyothsna, Srinivas, Sasikala, Ramana & Imhoff, 2007 SPECIES
-=======
+# Thiorhodococcus kakinadensis Anil Kumar, Sasi Jyothsna, Srinivas, Sasikala, Ramana & Imhoff, 2007 SPECIES
 
 #### Status
 ACCEPTED

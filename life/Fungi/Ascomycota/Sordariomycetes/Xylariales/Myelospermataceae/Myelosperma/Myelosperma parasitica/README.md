@@ -1,5 +1,4 @@
-Myelosperma parasitica K.D. Hyde & Steinke, 1996 SPECIES
-=======
+# Myelosperma parasitica K.D. Hyde & Steinke, 1996 SPECIES
 
 #### Status
 ACCEPTED

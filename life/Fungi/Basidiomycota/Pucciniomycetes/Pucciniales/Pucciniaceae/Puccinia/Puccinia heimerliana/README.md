@@ -1,5 +1,4 @@
-Puccinia heimerliana var. heimerliana Bubák VARIETY
-=======
+# Puccinia heimerliana Bubák SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 5: 40 (1907)
 
 #### Original name
-Puccinia heimerliana var. heimerliana Bubák
+Puccinia heimerliana Bubák
 
 ### Remarks
 null

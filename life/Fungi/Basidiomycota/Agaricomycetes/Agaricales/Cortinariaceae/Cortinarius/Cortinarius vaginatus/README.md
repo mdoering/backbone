@@ -1,5 +1,4 @@
-Cortinarius vaginatus E. Horak & M.M. Moser SPECIES
-=======
+# Cortinarius vaginatus E. Horak & M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

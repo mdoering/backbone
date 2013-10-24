@@ -1,5 +1,4 @@
-Conocybe diemii Singer SPECIES
-=======
+# Conocybe diemii Singer SPECIES
 
 #### Status
 ACCEPTED

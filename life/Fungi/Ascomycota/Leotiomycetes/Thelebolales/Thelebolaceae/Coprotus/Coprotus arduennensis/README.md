@@ -1,5 +1,4 @@
-Coprotus arduennensis J.R. De Sloover SPECIES
-=======
+# Coprotus arduennensis J.R. De Sloover SPECIES
 
 #### Status
 ACCEPTED

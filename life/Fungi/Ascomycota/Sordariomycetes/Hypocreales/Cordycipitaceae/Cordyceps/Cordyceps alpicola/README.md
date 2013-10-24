@@ -1,5 +1,4 @@
-Cordyceps alpicola Kobayasi SPECIES
-=======
+# Cordyceps alpicola Kobayasi SPECIES
 
 #### Status
 ACCEPTED

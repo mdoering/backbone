@@ -1,14 +1,13 @@
-Discella coronata (Fuckel) Petr. SPECIES
-=======
+# Phacostromella coronata (Fuckel) Petr., 1955 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 19: 180 (1921)
+Sydowia 9: 480 (1955)
 
 #### Original name
 Cryptosporium coronatum Fuckel, 1870

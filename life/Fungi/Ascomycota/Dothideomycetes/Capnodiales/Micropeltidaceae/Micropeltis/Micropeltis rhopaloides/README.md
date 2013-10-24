@@ -1,5 +1,4 @@
-Micropeltis rhopaloides Syd. SPECIES
-=======
+# Micropeltis rhopaloides Syd. SPECIES
 
 #### Status
 ACCEPTED

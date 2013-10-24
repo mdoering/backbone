@@ -1,5 +1,4 @@
-Peniophora livescens Bres. SPECIES
-=======
+# Peniophora livescens Bres. SPECIES
 
 #### Status
 ACCEPTED

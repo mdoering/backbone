@@ -1,5 +1,4 @@
-Rhabdospora conii F. Lamb. & Fautrey SPECIES
-=======
+# Rhabdospora conii F. Lamb. & Fautrey SPECIES
 
 #### Status
 ACCEPTED

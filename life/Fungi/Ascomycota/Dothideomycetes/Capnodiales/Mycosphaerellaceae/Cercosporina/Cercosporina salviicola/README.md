@@ -1,5 +1,4 @@
-Cercosporina salviicola (Tharp) Sacc. SPECIES
-=======
+# Cercosporina salviicola (Tharp) Sacc. SPECIES
 
 #### Status
 ACCEPTED

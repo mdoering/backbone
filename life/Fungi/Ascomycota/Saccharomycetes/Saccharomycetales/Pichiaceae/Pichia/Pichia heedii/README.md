@@ -1,5 +1,4 @@
-Pichia heedii Phaff, Starmer, M. Miranda & M.W. Mill., 1978 SPECIES
-=======
+# Pichia heedii Phaff, Starmer, M. Miranda & M.W. Mill., 1978 SPECIES
 
 #### Status
 ACCEPTED

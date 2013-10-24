@@ -1,5 +1,4 @@
-Diplodia alaterni Grognot SPECIES
-=======
+# Diplodia alaterni Grognot SPECIES
 
 #### Status
 ACCEPTED

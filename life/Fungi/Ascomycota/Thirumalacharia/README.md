@@ -1,5 +1,4 @@
-Thirumalacharia Rathaiah GENUS
-=======
+# Thirumalacharia Rathaiah GENUS
 
 #### Status
 ACCEPTED

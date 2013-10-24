@@ -1,5 +1,4 @@
-Corynebacterium mallei SPECIES
-=======
+# Corynebacterium mallei SPECIES
 
 #### Status
 ACCEPTED

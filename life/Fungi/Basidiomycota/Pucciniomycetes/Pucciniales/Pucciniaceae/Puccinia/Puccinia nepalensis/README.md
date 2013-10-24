@@ -1,5 +1,4 @@
-Puccinia nepalensis Barclay & Dietel, 1890 SPECIES
-=======
+# Puccinia nepalensis Barclay & Dietel, 1890 SPECIES
 
 #### Status
 ACCEPTED

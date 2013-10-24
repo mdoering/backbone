@@ -1,5 +1,4 @@
-Verrucaria peregrina Flot. SPECIES
-=======
+# Verrucaria peregrina Flot. SPECIES
 
 #### Status
 ACCEPTED

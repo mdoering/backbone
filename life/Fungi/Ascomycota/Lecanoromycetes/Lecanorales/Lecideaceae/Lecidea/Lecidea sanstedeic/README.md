@@ -1,5 +1,4 @@
-Lecidea sanstedeic SPECIES
-=======
+# Lecidea sanstedeic SPECIES
 
 #### Status
 ACCEPTED

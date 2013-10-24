@@ -1,5 +1,4 @@
-Cladosporium brunneoatrum McAlpine, 1899 SPECIES
-=======
+# Cladosporium brunneoatrum McAlpine, 1899 SPECIES
 
 #### Status
 ACCEPTED

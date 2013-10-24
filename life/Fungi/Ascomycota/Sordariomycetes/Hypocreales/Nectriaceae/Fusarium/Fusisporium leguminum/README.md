@@ -1,5 +1,4 @@
-Fusisporium leguminum Cooke SPECIES
-=======
+# Fusisporium leguminum Cooke SPECIES
 
 #### Status
 ACCEPTED

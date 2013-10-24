@@ -1,5 +1,4 @@
-Septoria setariicola Punith. SPECIES
-=======
+# Septoria setariicola Punith. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ustilago bungeana W.Y. Yen SPECIES
-=======
+# Ustilago bungeana W.Y. Yen SPECIES
 
 #### Status
 ACCEPTED

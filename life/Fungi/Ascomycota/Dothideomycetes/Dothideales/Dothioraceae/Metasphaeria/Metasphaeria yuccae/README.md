@@ -1,5 +1,4 @@
-Metasphaeria yuccae Earle SPECIES
-=======
+# Metasphaeria yuccae Earle SPECIES
 
 #### Status
 ACCEPTED

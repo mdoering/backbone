@@ -1,5 +1,4 @@
-Harknessia antarctica Speg. SPECIES
-=======
+# Harknessia antarctica Speg. SPECIES
 
 #### Status
 ACCEPTED

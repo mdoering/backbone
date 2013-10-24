@@ -1,5 +1,4 @@
-Uredo trigoniae Mains SPECIES
-=======
+# Uredo trigoniae Mains SPECIES
 
 #### Status
 ACCEPTED

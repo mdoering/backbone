@@ -1,5 +1,4 @@
-Massaria ulmi Fuckel SPECIES
-=======
+# Massaria ulmi Fuckel SPECIES
 
 #### Status
 ACCEPTED

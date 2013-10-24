@@ -1,5 +1,4 @@
-Chytridium schenkii (P.A. Dang.) Scherff. SPECIES
-=======
+# Chytridium schenkii (P.A. Dang.) Scherff. SPECIES
 
 #### Status
 ACCEPTED

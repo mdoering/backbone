@@ -1,5 +1,4 @@
-Clarkeinda coprinus (Fr.) Kuntze SPECIES
-=======
+# Clarkeinda coprinus (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

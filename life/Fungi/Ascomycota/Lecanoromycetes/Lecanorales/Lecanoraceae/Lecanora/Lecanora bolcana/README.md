@@ -1,5 +1,4 @@
-Lecanora bolcana (Pollich) Poelt SPECIES
-=======
+# Lecanora bolcana (Pollich) Poelt SPECIES
 
 #### Status
 ACCEPTED

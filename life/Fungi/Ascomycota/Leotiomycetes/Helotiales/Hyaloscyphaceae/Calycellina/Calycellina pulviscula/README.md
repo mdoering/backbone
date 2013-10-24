@@ -1,5 +1,4 @@
-Calycellina pulviscula (Cooke) Dennis SPECIES
-=======
+# Calycellina pulviscula (Cooke) Dennis SPECIES
 
 #### Status
 ACCEPTED

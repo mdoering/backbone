@@ -1,5 +1,4 @@
-Stigmatomyces elongatus W. Rossi SPECIES
-=======
+# Stigmatomyces elongatus W. Rossi SPECIES
 
 #### Status
 ACCEPTED

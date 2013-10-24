@@ -1,5 +1,4 @@
-Coniothyrium innatum P. Karst. SPECIES
-=======
+# Coniothyrium innatum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

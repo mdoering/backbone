@@ -1,5 +1,4 @@
-Globulina erisyphoides Speg. SPECIES
-=======
+# Globulina erisyphoides Speg. SPECIES
 
 #### Status
 ACCEPTED

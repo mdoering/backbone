@@ -1,5 +1,4 @@
-Dinophysis pulchra (Kofoid & Michener) Balech SPECIES
-=======
+# Dinophysis pulchra (Kofoid & Michener) Balech SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Botryodiplodia rubiae Urries SPECIES
-=======
+# Botryodiplodia rubiae Urries SPECIES
 
 #### Status
 ACCEPTED

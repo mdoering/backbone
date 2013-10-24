@@ -1,5 +1,4 @@
-Nothospora ambigua Peyronel, 1913 SPECIES
-=======
+# Nothospora ambigua Peyronel, 1913 SPECIES
 
 #### Status
 ACCEPTED

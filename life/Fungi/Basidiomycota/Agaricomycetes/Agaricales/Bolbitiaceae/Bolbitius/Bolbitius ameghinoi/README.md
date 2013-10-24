@@ -1,5 +1,4 @@
-Bolbitius ameghinoi Speg. SPECIES
-=======
+# Bolbitius ameghinoi Speg. SPECIES
 
 #### Status
 ACCEPTED

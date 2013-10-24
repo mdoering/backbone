@@ -1,5 +1,4 @@
-Serenomyces virginiae M.E. Barr, Ohr, Ferrin & Mundo-Ocampo, 1997 SPECIES
-=======
+# Serenomyces virginiae M.E. Barr, Ohr, Ferrin & Mundo-Ocampo, 1997 SPECIES
 
 #### Status
 ACCEPTED

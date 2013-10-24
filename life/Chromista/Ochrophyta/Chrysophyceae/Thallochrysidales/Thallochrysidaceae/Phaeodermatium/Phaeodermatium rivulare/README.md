@@ -1,5 +1,4 @@
-Phaeodermatium rivulare Hansgirg SPECIES
-=======
+# Phaeodermatium rivulare Hansgirg SPECIES
 
 #### Status
 ACCEPTED

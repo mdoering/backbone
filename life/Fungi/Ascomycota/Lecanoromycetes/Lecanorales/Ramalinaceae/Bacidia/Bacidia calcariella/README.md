@@ -1,5 +1,4 @@
-Bacidia calcariella (Nyl.) Zahlbr. SPECIES
-=======
+# Bacidia calcariella (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

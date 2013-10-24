@@ -1,5 +1,4 @@
-Graphis spilota Stirt. SPECIES
-=======
+# Graphis spilota Stirt. SPECIES
 
 #### Status
 ACCEPTED

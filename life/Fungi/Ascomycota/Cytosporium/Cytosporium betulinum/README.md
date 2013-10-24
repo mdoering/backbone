@@ -1,5 +1,4 @@
-Cytosporium betulinum Rostr. SPECIES
-=======
+# Cytosporium betulinum Rostr. SPECIES
 
 #### Status
 ACCEPTED

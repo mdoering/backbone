@@ -1,5 +1,4 @@
-Boletus bouriqueti R. Heim SPECIES
-=======
+# Boletus bouriqueti R. Heim SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dicaeoma polliniae-quadrinervis (Dietel) Syd. SPECIES
-=======
+# Dicaeoma polliniae-quadrinervis (Dietel) Syd. SPECIES
 
 #### Status
 ACCEPTED

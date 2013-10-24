@@ -1,5 +1,4 @@
-Scleroderma callostoma Pers. SPECIES
-=======
+# Scleroderma callostoma Pers. SPECIES
 
 #### Status
 ACCEPTED

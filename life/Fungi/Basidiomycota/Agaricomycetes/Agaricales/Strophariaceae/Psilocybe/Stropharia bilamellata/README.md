@@ -1,5 +1,4 @@
-Stropharia bilamellata var. bilamellata VARIETY
-=======
+# Stropharia bilamellata (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,7 +7,7 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 11: VII (1895)
 
 #### Original name
 Agaricus bilamellatus Peck

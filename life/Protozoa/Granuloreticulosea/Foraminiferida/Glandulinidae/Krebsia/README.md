@@ -1,5 +1,4 @@
-Krebsia McCulloch, 1977 GENUS
-=======
+# Krebsia McCulloch, 1977 GENUS
 
 #### Status
 ACCEPTED

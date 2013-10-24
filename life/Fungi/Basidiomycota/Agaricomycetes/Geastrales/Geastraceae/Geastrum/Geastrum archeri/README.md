@@ -1,8 +1,7 @@
-Geaster archeri Berk. SPECIES
-=======
+# Geastrum archeri Berk. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Geaster archeri Berk.
+Geastrum archeri Berk.
 
 ### Remarks
 null

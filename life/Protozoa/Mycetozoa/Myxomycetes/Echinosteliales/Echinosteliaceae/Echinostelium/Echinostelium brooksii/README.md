@@ -1,5 +1,4 @@
-Echinostelium brooksii K.D. Whitney, 1980 SPECIES
-=======
+# Echinostelium brooksii K.D. Whitney, 1980 SPECIES
 
 #### Status
 ACCEPTED

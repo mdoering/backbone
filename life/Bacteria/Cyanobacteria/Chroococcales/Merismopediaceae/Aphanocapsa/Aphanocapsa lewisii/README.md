@@ -1,5 +1,4 @@
-Aphanocapsa lewisii Keefe SPECIES
-=======
+# Aphanocapsa lewisii Keefe SPECIES
 
 #### Status
 ACCEPTED

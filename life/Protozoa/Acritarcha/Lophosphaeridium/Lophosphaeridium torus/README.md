@@ -1,5 +1,4 @@
-Lophosphaeridium torus Loeblich & Wicander, 1976 SPECIES
-=======
+# Lophosphaeridium torus Loeblich & Wicander, 1976 SPECIES
 
 #### Status
 ACCEPTED

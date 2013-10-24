@@ -1,5 +1,4 @@
-Amplariella bella (S. Imai) E.-J. Gilbert SPECIES
-=======
+# Amplariella bella (S. Imai) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Hymenogaster javanicus Höhn., 1908 SPECIES
-=======
+# Descomyces javanicus (Höhn.) Bougher & Castellano, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 117: 1017 (1908)
+Mycologia 85(2): 283 (1993)
 
 #### Original name
 Hymenogaster javanicus Höhn., 1908

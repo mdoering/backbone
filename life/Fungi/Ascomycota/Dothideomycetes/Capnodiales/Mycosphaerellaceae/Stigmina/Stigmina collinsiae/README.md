@@ -1,5 +1,4 @@
-Stigmina collinsiae U. Braun & Rogerson SPECIES
-=======
+# Stigmina collinsiae U. Braun & Rogerson SPECIES
 
 #### Status
 ACCEPTED

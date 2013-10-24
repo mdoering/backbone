@@ -1,5 +1,4 @@
-Diophrys irmgard Mansfeld, 1923 SPECIES
-=======
+# Diophrys irmgard Mansfeld, 1923 SPECIES
 
 #### Status
 ACCEPTED

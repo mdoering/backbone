@@ -1,5 +1,4 @@
-Lenzites flabelliformis L.M. Dufour SPECIES
-=======
+# Lenzites flabelliformis L.M. Dufour SPECIES
 
 #### Status
 ACCEPTED

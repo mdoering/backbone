@@ -1,5 +1,4 @@
-Stentorella coeruleus Ehrenberg SPECIES
-=======
+# Stentorella coeruleus Ehrenberg SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Phaeosphaeria fautreyi Shoemaker & C.E. Babc. SPECIES
-=======
+# Phaeosphaeria fautreyi Shoemaker & C.E. Babc. SPECIES
 
 #### Status
 ACCEPTED

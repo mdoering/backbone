@@ -1,5 +1,4 @@
-Russula viridicans Carteret & Reumaux SPECIES
-=======
+# Russula viridicans Carteret & Reumaux SPECIES
 
 #### Status
 ACCEPTED

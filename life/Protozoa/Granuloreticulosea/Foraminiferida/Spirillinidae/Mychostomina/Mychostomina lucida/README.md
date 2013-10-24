@@ -1,5 +1,4 @@
-Mychostomina lucida (Sidebottom, 1908) SPECIES
-=======
+# Mychostomina lucida (Sidebottom, 1908) SPECIES
 
 #### Status
 ACCEPTED

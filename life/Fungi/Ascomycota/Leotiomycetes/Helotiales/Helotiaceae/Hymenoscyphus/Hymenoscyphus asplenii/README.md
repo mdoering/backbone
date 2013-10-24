@@ -1,8 +1,7 @@
-Hymenoscypha asplenii Racib. SPECIES
-=======
+# Hymenoscyphus asplenii Racib. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Hymenoscypha asplenii Racib.
+Hymenoscyphus asplenii Racib.
 
 ### Remarks
 null

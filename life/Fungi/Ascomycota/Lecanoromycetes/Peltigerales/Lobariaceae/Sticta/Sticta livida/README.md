@@ -1,5 +1,4 @@
-Sticta livida Kremp. SPECIES
-=======
+# Sticta livida Kremp. SPECIES
 
 #### Status
 ACCEPTED

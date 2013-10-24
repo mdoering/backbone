@@ -1,5 +1,4 @@
-Psathyra tytha (Berk. & Broome) Sacc. SPECIES
-=======
+# Psathyra tytha (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Absidia griseola H. Nagan. & Hirahara, 1970 SPECIES
-=======
+# Absidia griseola H. Nagan. & Hirahara, 1970 SPECIES
 
 #### Status
 ACCEPTED

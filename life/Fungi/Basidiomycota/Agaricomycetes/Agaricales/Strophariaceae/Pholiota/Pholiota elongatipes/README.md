@@ -1,5 +1,4 @@
-Pholiota elongatipes (Peck) A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota elongatipes (Peck) A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

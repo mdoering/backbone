@@ -1,5 +1,4 @@
-Duportella tristiculoides Sheng H. Wu & Z.C. Chen, 1993 SPECIES
-=======
+# Duportella tristiculoides Sheng H. Wu & Z.C. Chen, 1993 SPECIES
 
 #### Status
 ACCEPTED

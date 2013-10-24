@@ -1,5 +1,4 @@
-Stigmatomyces distortus Thaxt. SPECIES
-=======
+# Stigmatomyces distortus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

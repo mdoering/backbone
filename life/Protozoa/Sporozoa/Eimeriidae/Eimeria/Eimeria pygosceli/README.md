@@ -1,5 +1,4 @@
-Eimeria pygosceli SPECIES
-=======
+# Eimeria pygosceli SPECIES
 
 #### Status
 ACCEPTED

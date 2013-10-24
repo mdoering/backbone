@@ -1,17 +1,16 @@
-Phellinus ferrugineofuscus var. ferrugineofuscus VARIETY
-=======
+# Phellinidium ferrugineofuscum (P. Karst.) Fiasson & Niemelä, 1984 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 48: 228 (1932)
+Karstenia 24(1): 26 (1984)
 
 #### Original name
-Phellinus ferrugineofuscus var. ferrugineofuscus
+Poria ferrugineofusca P. Karst., 1887
 
 ### Remarks
 null

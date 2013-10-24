@@ -1,17 +1,16 @@
-Septoria exotica var. exotica VARIETY
-=======
+# Septoria exotica Speg., 1880 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Anal. Soc. cient. argent. 10: 31 (1880)
 
 #### Original name
-Septoria exotica var. exotica
+Septoria exotica Speg., 1880
 
 ### Remarks
 null

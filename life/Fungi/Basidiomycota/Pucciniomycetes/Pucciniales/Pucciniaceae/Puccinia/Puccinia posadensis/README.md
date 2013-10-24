@@ -1,5 +1,4 @@
-Puccinia posadensis Sacc. & Trotter SPECIES
-=======
+# Puccinia posadensis Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oscillatoria uncinata Emoto & Hirose SPECIES
-=======
+# Oscillatoria uncinata Emoto & Hirose SPECIES
 
 #### Status
 ACCEPTED

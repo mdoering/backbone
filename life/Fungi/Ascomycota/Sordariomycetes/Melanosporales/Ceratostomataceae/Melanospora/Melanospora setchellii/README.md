@@ -1,5 +1,4 @@
-Melanospora setchellii (Harkn.) Sacc. & P. Syd. SPECIES
-=======
+# Melanospora setchellii (Harkn.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

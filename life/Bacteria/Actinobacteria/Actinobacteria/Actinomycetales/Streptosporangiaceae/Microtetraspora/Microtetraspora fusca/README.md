@@ -1,5 +1,4 @@
-Microtetraspora fusca Thiemann et al., 1968 (Approved Lists, 1980) SPECIES
-=======
+# Microtetraspora fusca Thiemann et al., 1968 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

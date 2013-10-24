@@ -1,5 +1,4 @@
-Metadiplodia agrostidis f. agrostidis FORM
-=======
+# Metadiplodia agrostidis (Sacc.) Zambett. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Bull. Soc. mycol. Fr. 70(3): 297 (1955)
 
 #### Original name
-Metadiplodia agrostidis f. agrostidis
+Diplodia agrostidis Sacc.
 
 ### Remarks
 null

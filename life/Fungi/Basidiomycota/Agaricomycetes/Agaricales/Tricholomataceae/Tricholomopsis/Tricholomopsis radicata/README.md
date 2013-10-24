@@ -1,5 +1,4 @@
-Tricholomopsis radicata (Peck) Singer SPECIES
-=======
+# Tricholomopsis radicata (Peck) Singer SPECIES
 
 #### Status
 ACCEPTED

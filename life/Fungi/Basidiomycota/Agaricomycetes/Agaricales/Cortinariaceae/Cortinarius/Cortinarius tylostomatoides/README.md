@@ -1,5 +1,4 @@
-Cortinarius tylostomatoides (Singer) Peintner & M.M. Moser SPECIES
-=======
+# Cortinarius tylostomatoides (Singer) Peintner & M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

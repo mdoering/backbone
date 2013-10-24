@@ -1,5 +1,4 @@
-Exobasidium kishianum Nagao & Ezuka, 2006 SPECIES
-=======
+# Exobasidium kishianum Nagao & Ezuka, 2006 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora coleicola Chupp & A.S. Mull., 1954 SPECIES
-=======
+# Cercospora coleicola Chupp & A.S. Mull., 1954 SPECIES
 
 #### Status
 ACCEPTED

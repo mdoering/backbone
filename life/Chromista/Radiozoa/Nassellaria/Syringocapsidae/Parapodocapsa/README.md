@@ -1,5 +1,4 @@
-Parapodocapsa Steiger, 1992 GENUS
-=======
+# Parapodocapsa Steiger, 1992 GENUS
 
 #### Status
 ACCEPTED

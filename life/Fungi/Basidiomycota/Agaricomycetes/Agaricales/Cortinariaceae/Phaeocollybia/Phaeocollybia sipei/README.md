@@ -1,5 +1,4 @@
-Phaeocollybia sipei A.H. Sm. SPECIES
-=======
+# Phaeocollybia sipei A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

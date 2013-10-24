@@ -1,5 +1,4 @@
-Hymenoscyphus ligustri (Velen.) Svrcek SPECIES
-=======
+# Hymenoscyphus ligustri (Velen.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Valsella melastoma (Fr.) Sacc. SPECIES
-=======
+# Valsella melastoma (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteridiella manca (Ellis & G. Martin) Hansf. SPECIES
-=======
+# Asteridiella manca (Ellis & G. Martin) Hansf. SPECIES
 
 #### Status
 ACCEPTED

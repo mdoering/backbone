@@ -1,5 +1,4 @@
-Septocylindrium tapeinosporum Sacc. SPECIES
-=======
+# Septocylindrium tapeinosporum Sacc. SPECIES
 
 #### Status
 ACCEPTED

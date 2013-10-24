@@ -1,5 +1,4 @@
-Stereum mirabile Velen. SPECIES
-=======
+# Stereum mirabile Velen. SPECIES
 
 #### Status
 ACCEPTED

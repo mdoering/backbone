@@ -1,5 +1,4 @@
-Buellia capitis-regum W. A. Weber SPECIES
-=======
+# Buellia capitis-regum W. A. Weber SPECIES
 
 #### Status
 ACCEPTED

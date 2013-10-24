@@ -1,5 +1,4 @@
-Inocybe suaveolens D.E. Stuntz SPECIES
-=======
+# Inocybe suaveolens D.E. Stuntz SPECIES
 
 #### Status
 ACCEPTED

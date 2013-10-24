@@ -1,5 +1,4 @@
-Placodium epigaeum (Ach.) Gray SPECIES
-=======
+# Placodium epigaeum (Ach.) Gray SPECIES
 
 #### Status
 ACCEPTED

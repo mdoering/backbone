@@ -1,5 +1,4 @@
-Rhizopogon idahoensis A.H. Sm. SPECIES
-=======
+# Rhizopogon idahoensis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

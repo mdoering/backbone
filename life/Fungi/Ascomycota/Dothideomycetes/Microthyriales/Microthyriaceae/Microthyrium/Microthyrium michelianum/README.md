@@ -1,5 +1,4 @@
-Microthyrium michelianum Tognini SPECIES
-=======
+# Microthyrium michelianum Tognini SPECIES
 
 #### Status
 ACCEPTED

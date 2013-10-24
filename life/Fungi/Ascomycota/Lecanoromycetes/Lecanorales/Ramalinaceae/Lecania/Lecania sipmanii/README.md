@@ -1,5 +1,4 @@
-Lecania sipmanii van den Boom & Zedda SPECIES
-=======
+# Lecania sipmanii van den Boom & Zedda SPECIES
 
 #### Status
 ACCEPTED

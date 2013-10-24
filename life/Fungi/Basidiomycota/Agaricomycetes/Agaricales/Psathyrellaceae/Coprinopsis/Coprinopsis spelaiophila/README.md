@@ -1,17 +1,16 @@
-Coprinopsis extinctoria (Fr.) Redhead, Vilgalys & Moncalvo SPECIES
-=======
+# Coprinopsis spelaiophila (Bas & Uljé) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Redhead, Vilgalys, Moncalvo, Johnson & Hopple, Taxon 50(1): 231 (2001)
 
 #### Original name
-Agaricus extinctorius Bull.
+Coprinus spelaiophilus Bas & Uljé, 1999
 
 ### Remarks
 null

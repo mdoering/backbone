@@ -1,5 +1,4 @@
-Thecaphora maireanae R.G. Shivas & Vánky SPECIES
-=======
+# Thecaphora maireanae R.G. Shivas & Vánky SPECIES
 
 #### Status
 ACCEPTED

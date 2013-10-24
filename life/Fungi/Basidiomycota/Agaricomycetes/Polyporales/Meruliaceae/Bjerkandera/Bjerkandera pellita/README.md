@@ -1,5 +1,4 @@
-Bjerkandera pellita P. Karst. SPECIES
-=======
+# Bjerkandera pellita P. Karst. SPECIES
 
 #### Status
 ACCEPTED

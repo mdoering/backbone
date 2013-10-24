@@ -1,5 +1,4 @@
-Sphaeria thoracella Rostr. SPECIES
-=======
+# Sphaeria thoracella Rostr. SPECIES
 
 #### Status
 ACCEPTED

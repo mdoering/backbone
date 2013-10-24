@@ -1,14 +1,13 @@
-Crumenula ericae (Fr.) W. Phillips, 1887 SPECIES
-=======
+# Erikssonopsis ericae (Fr.) M. Morelet, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Man. Brit. Discomyc. (London) 357 (1887)
+Annales de la Société des Sciences Naturelles et d'Archéologie de Toulon et du Var 195: 7 (1971)
 
 #### Original name
 Cenangium ericae Niessl, 1870

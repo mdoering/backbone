@@ -1,5 +1,4 @@
-Hygrocybe arechavaletae (Speg.) Singer SPECIES
-=======
+# Hygrocybe arechavaletae (Speg.) Singer SPECIES
 
 #### Status
 ACCEPTED

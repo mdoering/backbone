@@ -1,5 +1,4 @@
-Gloeosporium impatientis Petch SPECIES
-=======
+# Gloeosporium impatientis Petch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lichenodiplis crespoae Pérez-Ortega & V. Atienza SPECIES
-=======
+# Lichenodiplis crespoae Pérez-Ortega & V. Atienza SPECIES
 
 #### Status
 ACCEPTED

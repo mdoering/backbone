@@ -1,5 +1,4 @@
-Phyllosticta theae Speschnew SPECIES
-=======
+# Phyllosticta theae Speschnew SPECIES
 
 #### Status
 ACCEPTED

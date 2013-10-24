@@ -1,5 +1,4 @@
-Uredo erigerontis (Syd. & P. Syd.) Hirats. f. SPECIES
-=======
+# Uredo erigerontis (Syd. & P. Syd.) Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrophorus igneus Velen. SPECIES
-=======
+# Hygrophorus igneus Velen. SPECIES
 
 #### Status
 ACCEPTED

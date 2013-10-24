@@ -1,5 +1,4 @@
-Dicaeoma heteropteridis (Thüm.) Kuntze SPECIES
-=======
+# Dicaeoma heteropteridis (Thüm.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

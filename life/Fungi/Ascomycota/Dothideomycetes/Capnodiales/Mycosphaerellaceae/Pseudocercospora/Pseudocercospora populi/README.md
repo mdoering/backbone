@@ -1,5 +1,4 @@
-Pseudocercospora populi U. Braun & M. Morelet SPECIES
-=======
+# Pseudocercospora populi U. Braun & M. Morelet SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora violamaculans Fukui SPECIES
-=======
+# Cercospora violamaculans Fukui SPECIES
 
 #### Status
 ACCEPTED

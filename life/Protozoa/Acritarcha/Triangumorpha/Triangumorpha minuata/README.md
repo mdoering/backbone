@@ -1,5 +1,4 @@
-Triangumorpha minuata Tian Chuanrong, 1983 SPECIES
-=======
+# Triangumorpha minuata Tian Chuanrong, 1983 SPECIES
 
 #### Status
 ACCEPTED

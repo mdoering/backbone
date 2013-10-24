@@ -1,5 +1,4 @@
-Urocystis oryzae Hallier SPECIES
-=======
+# Urocystis oryzae Hallier SPECIES
 
 #### Status
 ACCEPTED

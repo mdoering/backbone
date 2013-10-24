@@ -1,5 +1,4 @@
-Tilletia wilcoxiana Griffiths SPECIES
-=======
+# Tilletia wilcoxiana Griffiths SPECIES
 
 #### Status
 ACCEPTED

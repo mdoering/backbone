@@ -1,5 +1,4 @@
-Sanguibacter Fernandez-Garayzabal et al., 1995 GENUS
-=======
+# Sanguibacter Fernandez-Garayzabal et al., 1995 GENUS
 
 #### Status
 ACCEPTED

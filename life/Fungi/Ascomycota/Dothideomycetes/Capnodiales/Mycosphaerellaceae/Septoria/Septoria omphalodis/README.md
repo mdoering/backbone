@@ -1,5 +1,4 @@
-Septoria omphalodis N. Naito SPECIES
-=======
+# Septoria omphalodis N. Naito SPECIES
 
 #### Status
 ACCEPTED

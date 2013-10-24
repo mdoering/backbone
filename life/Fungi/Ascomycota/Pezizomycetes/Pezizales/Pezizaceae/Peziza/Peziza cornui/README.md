@@ -1,5 +1,4 @@
-Peziza cornui (Boud.) Korf SPECIES
-=======
+# Peziza cornui (Boud.) Korf SPECIES
 
 #### Status
 ACCEPTED

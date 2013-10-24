@@ -1,5 +1,4 @@
-Heimiochrysis actinotrichia Bourrelly SPECIES
-=======
+# Heimiochrysis actinotrichia Bourrelly SPECIES
 
 #### Status
 ACCEPTED

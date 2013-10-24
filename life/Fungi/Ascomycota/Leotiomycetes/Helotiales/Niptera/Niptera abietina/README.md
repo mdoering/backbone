@@ -1,5 +1,4 @@
-Niptera abietina Kirschst. SPECIES
-=======
+# Niptera abietina Kirschst. SPECIES
 
 #### Status
 ACCEPTED

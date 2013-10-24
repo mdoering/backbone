@@ -1,5 +1,4 @@
-Sesia rugulosa (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Sesia rugulosa (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

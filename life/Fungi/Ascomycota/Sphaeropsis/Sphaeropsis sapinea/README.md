@@ -1,17 +1,16 @@
-Diplodia pinea f. sp FORM
-=======
+# Sphaeropsis sapinea (Fr.) Dyko & B. Sutton, 1980 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Pl. Path. 9(2): 117 (1987)
+null
 
 #### Original name
-Diplodia pinea f. sp
+null
 
 ### Remarks
 null

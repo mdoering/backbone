@@ -1,5 +1,4 @@
-Lophiostoma vicinum Sacc. SPECIES
-=======
+# Lophiostoma vicinum Sacc. SPECIES
 
 #### Status
 ACCEPTED

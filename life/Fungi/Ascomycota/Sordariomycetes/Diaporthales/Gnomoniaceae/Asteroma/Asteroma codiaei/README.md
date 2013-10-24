@@ -1,5 +1,4 @@
-Asteroma codiaei Allesch. SPECIES
-=======
+# Asteroma codiaei Allesch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tricholoma nigrum Shanks & Ovrebo SPECIES
-=======
+# Tricholoma nigrum Shanks & Ovrebo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Alaria pylaiei var. membranacea (J.Agardh) Rosenvinge, 1893 VARIETY
-=======
+# Alaria pylaiei (Bory de Saint-Vincent) Greville, 1830 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

@@ -1,5 +1,4 @@
-Microdiplodia constrictula var. constrictula VARIETY
-=======
+# Microdiplodia constrictula Bubák SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 14: 152 (1916)
 
 #### Original name
-Microdiplodia constrictula var. constrictula
+Microdiplodia constrictula Bubák
 
 ### Remarks
 null

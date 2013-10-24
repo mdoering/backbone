@@ -1,5 +1,4 @@
-Pleospora phlei E. Müll. SPECIES
-=======
+# Pleospora phlei E. Müll. SPECIES
 
 #### Status
 ACCEPTED

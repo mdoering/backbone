@@ -1,11 +1,10 @@
-Debaryomyces fluxuum Phaff & E.P. Knapp, 1956 SPECIES
-=======
+# Kregervanrija fluxuum (Phaff & E.P. Knapp) Kurtzman, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

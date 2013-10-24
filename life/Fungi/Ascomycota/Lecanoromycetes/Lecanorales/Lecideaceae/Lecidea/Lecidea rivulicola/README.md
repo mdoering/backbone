@@ -1,5 +1,4 @@
-Lecidea rivulicola Vain. SPECIES
-=======
+# Lecidea rivulicola Vain. SPECIES
 
 #### Status
 ACCEPTED

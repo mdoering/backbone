@@ -1,5 +1,4 @@
-Diatoma minimum Ralfs SPECIES
-=======
+# Diatoma minimum Ralfs SPECIES
 
 #### Status
 ACCEPTED

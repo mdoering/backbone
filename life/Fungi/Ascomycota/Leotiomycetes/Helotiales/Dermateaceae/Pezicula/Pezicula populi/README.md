@@ -1,5 +1,4 @@
-Pezicula populi (G.E. Thomps.) Seaver SPECIES
-=======
+# Pezicula populi (G.E. Thomps.) Seaver SPECIES
 
 #### Status
 ACCEPTED

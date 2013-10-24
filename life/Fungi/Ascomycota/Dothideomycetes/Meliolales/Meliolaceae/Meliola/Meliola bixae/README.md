@@ -1,5 +1,4 @@
-Meliola bixae Hansf. SPECIES
-=======
+# Meliola bixae Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hydropus albus Singer SPECIES
-=======
+# Hydropus albus Singer SPECIES
 
 #### Status
 ACCEPTED

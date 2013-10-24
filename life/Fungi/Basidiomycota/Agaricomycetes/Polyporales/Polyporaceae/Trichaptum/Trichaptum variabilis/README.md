@@ -1,5 +1,4 @@
-Trichaptum variabilis Ryvarden & Iturr., 2003 SPECIES
-=======
+# Trichaptum variabilis Ryvarden & Iturr., 2003 SPECIES
 
 #### Status
 ACCEPTED

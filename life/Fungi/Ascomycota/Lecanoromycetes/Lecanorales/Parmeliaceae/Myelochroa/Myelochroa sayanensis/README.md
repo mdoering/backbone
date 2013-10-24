@@ -1,5 +1,4 @@
-Myelochroa sayanensis Otnyukova, Stepanov & Elix SPECIES
-=======
+# Myelochroa sayanensis Otnyukova, Stepanov & Elix SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia subglandulifera Hue SPECIES
-=======
+# Parmelia subglandulifera Hue SPECIES
 
 #### Status
 ACCEPTED

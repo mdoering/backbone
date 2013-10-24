@@ -1,5 +1,4 @@
-Diplocladium penicilloides Sacc. SPECIES
-=======
+# Diplocladium penicilloides Sacc. SPECIES
 
 #### Status
 ACCEPTED

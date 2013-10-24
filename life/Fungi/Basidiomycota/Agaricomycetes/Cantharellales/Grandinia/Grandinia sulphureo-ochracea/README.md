@@ -1,5 +1,4 @@
-Grandinia sulphureo-ochracea Henn. SPECIES
-=======
+# Grandinia sulphureo-ochracea Henn. SPECIES
 
 #### Status
 ACCEPTED

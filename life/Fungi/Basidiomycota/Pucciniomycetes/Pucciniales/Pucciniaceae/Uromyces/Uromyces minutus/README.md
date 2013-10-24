@@ -1,5 +1,4 @@
-Uromyces minutus Dietel SPECIES
-=======
+# Uromyces minutus Dietel SPECIES
 
 #### Status
 ACCEPTED

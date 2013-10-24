@@ -1,5 +1,4 @@
-Phoma fourcroyae Thüm. SPECIES
-=======
+# Phoma fourcroyae Thüm. SPECIES
 
 #### Status
 ACCEPTED

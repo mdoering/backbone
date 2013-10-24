@@ -1,5 +1,4 @@
-Arachnoidiscus ornatus Ehrenberg SPECIES
-=======
+# Arachnoidiscus ornatus Ehrenberg SPECIES
 
 #### Status
 ACCEPTED

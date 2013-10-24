@@ -1,5 +1,4 @@
-Graphina byrsonimae P.M. Jørg. SPECIES
-=======
+# Graphina byrsonimae P.M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

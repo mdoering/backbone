@@ -1,5 +1,4 @@
-Pseudocercospora cybistacis (Henn.) X.J. Liu & Y.L. Guo SPECIES
-=======
+# Pseudocercospora cybistacis (Henn.) X.J. Liu & Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

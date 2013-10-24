@@ -1,5 +1,4 @@
-Favososphaeridium jixianense Yin Leiming, 1985 SPECIES
-=======
+# Favososphaeridium jixianense Yin Leiming, 1985 SPECIES
 
 #### Status
 ACCEPTED

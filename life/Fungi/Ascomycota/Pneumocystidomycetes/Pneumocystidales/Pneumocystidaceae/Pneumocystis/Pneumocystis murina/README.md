@@ -1,5 +1,4 @@
-Pneumocystis murina Keely, J.M. Fisch., Cushion & Stringer SPECIES
-=======
+# Pneumocystis murina Keely, J.M. Fisch., Cushion & Stringer SPECIES
 
 #### Status
 ACCEPTED

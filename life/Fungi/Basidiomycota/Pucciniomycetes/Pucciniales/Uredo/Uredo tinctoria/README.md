@@ -1,5 +1,4 @@
-Uredo tinctoria Speg. SPECIES
-=======
+# Uredo tinctoria Speg. SPECIES
 
 #### Status
 ACCEPTED

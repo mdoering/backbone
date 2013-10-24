@@ -1,5 +1,4 @@
-Diplodina melanocraspeda Bathgate, M.E. Barr & B.L. Shearer SPECIES
-=======
+# Diplodina melanocraspeda Bathgate, M.E. Barr & B.L. Shearer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Catacauma schotiae Doidge, 1922 SPECIES
-=======
+# Phyllachora schotiae (Doidge) Doidge, 1942 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bothalia 1(2): 65 (1922)
+Bothalia 4: 447 (1942)
 
 #### Original name
 Catacauma schotiae Doidge, 1922

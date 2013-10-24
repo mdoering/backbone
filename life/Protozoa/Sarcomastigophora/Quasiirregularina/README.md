@@ -1,5 +1,4 @@
-Quasiirregularina Sabirov, 1978 GENUS
-=======
+# Quasiirregularina Sabirov, 1978 GENUS
 
 #### Status
 ACCEPTED

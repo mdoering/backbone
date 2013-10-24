@@ -1,5 +1,4 @@
-Lachnum belanense Svrcek SPECIES
-=======
+# Lachnum belanense Svrcek SPECIES
 
 #### Status
 ACCEPTED

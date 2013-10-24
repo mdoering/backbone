@@ -1,5 +1,4 @@
-Caryospora masonii D. Hawksw. SPECIES
-=======
+# Caryospora masonii D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

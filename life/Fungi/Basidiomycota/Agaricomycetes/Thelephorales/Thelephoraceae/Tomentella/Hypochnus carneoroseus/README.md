@@ -1,5 +1,4 @@
-Hypochnus carneoroseus Rick SPECIES
-=======
+# Hypochnus carneoroseus Rick SPECIES
 
 #### Status
 ACCEPTED

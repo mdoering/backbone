@@ -1,5 +1,4 @@
-Drechslera wirreganensis Wallwork, Lichon & Sivan., 1992 SPECIES
-=======
+# Drechslera wirreganensis Wallwork, Lichon & Sivan., 1992 SPECIES
 
 #### Status
 ACCEPTED

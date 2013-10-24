@@ -1,11 +1,10 @@
-Pseudomonas marinoglutinosa Berland et al., 1969 SPECIES
-=======
+# Pseudoalteromonas mariniglutinosa (ex Berland et al., 1969) Romanenko et al., 2003, corrig. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

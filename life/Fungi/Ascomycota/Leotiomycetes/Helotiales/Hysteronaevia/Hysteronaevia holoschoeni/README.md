@@ -1,14 +1,13 @@
-Gloniella holoschoeni (De Not.) Rehm ex Berl. & Voglino, 1886 SPECIES
-=======
+# Hysteronaevia holoschoeni (De Not.) Nannf., 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nordic Jl Bot. 4(2): 236 (1984)
 
 #### Original name
 Propolis holoschoeni De Not., 1871

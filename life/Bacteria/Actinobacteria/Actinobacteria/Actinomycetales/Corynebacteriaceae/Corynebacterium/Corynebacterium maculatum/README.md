@@ -1,5 +1,4 @@
-Corynebacterium maculatum SPECIES
-=======
+# Corynebacterium maculatum SPECIES
 
 #### Status
 ACCEPTED

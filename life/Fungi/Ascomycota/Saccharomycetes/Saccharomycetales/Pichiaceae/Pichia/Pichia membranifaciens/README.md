@@ -1,17 +1,16 @@
-Zygopichia chevalieri var. chevalieri VARIETY
-=======
+# Pichia membranifaciens (E.C. Hansen) E.C. Hansen, 1904 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Zentbl. Bakt. ParasitKde, Abt. II 538 (1904)
 
 #### Original name
-null
+Saccharomyces membranifaciens E.C. Hansen, 1888
 
 ### Remarks
 null

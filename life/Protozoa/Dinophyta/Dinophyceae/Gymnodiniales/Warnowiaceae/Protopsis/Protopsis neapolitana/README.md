@@ -1,5 +1,4 @@
-Protopsis neapolitana Kofoid in Kofoid & Swezy, 1921 SPECIES
-=======
+# Protopsis neapolitana Kofoid in Kofoid & Swezy, 1921 SPECIES
 
 #### Status
 ACCEPTED

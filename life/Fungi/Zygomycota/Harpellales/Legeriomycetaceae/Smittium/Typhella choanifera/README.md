@@ -1,5 +1,4 @@
-Typhella choanifera Tuzet & Manier ex Manier & Mathiez SPECIES
-=======
+# Typhella choanifera Tuzet & Manier ex Manier & Mathiez SPECIES
 
 #### Status
 ACCEPTED

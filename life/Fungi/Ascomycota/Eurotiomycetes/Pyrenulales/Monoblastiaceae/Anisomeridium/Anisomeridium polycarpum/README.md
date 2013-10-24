@@ -1,5 +1,4 @@
-Anisomeridium polycarpum (Müll. Arg.) R.C. Harris SPECIES
-=======
+# Anisomeridium polycarpum (Müll. Arg.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

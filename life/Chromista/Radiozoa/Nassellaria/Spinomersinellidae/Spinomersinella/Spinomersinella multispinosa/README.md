@@ -1,5 +1,4 @@
-Spinomersinella multispinosa SPECIES
-=======
+# Spinomersinella multispinosa SPECIES
 
 #### Status
 ACCEPTED

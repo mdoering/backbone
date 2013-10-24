@@ -1,5 +1,4 @@
-Cistella calafiae Raitv. & R. Galán SPECIES
-=======
+# Cistella calafiae Raitv. & R. Galán SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endopyrenium cinereorufescens (Vain.) Oxner SPECIES
-=======
+# Endopyrenium cinereorufescens (Vain.) Oxner SPECIES
 
 #### Status
 ACCEPTED

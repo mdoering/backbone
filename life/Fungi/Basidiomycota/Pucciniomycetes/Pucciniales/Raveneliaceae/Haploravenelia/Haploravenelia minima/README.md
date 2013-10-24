@@ -1,5 +1,4 @@
-Haploravenelia minima (Cooke) Dietel SPECIES
-=======
+# Haploravenelia minima (Cooke) Dietel SPECIES
 
 #### Status
 ACCEPTED

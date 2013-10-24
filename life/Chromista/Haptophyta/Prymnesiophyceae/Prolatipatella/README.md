@@ -1,5 +1,4 @@
-Prolatipatella Gartner GENUS
-=======
+# Prolatipatella Gartner GENUS
 
 #### Status
 ACCEPTED

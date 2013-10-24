@@ -1,5 +1,4 @@
-Mollisia miltophthalma Berk. & M.A. Curtis SPECIES
-=======
+# Mollisia miltophthalma Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

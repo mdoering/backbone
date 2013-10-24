@@ -1,5 +1,4 @@
-Physcia confluens (Fr.) Nyl. SPECIES
-=======
+# Physcia confluens (Fr.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

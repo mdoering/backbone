@@ -1,5 +1,4 @@
-Helicoma hyalonema G.Z. Zhao, Xing Z. Liu & W.P. Wu SPECIES
-=======
+# Helicoma hyalonema G.Z. Zhao, Xing Z. Liu & W.P. Wu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphidinium salinum Ruinen SPECIES
-=======
+# Amphidinium salinum Ruinen SPECIES
 
 #### Status
 ACCEPTED

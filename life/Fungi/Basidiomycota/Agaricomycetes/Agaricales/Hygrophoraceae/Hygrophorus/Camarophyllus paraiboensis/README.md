@@ -1,5 +1,4 @@
-Camarophyllus paraiboensis Singer SPECIES
-=======
+# Camarophyllus paraiboensis Singer SPECIES
 
 #### Status
 ACCEPTED

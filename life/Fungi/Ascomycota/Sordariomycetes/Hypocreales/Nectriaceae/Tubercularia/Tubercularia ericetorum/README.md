@@ -1,5 +1,4 @@
-Tubercularia ericetorum Weber ex F.H. Wigg. SPECIES
-=======
+# Tubercularia ericetorum Weber ex F.H. Wigg. SPECIES
 
 #### Status
 ACCEPTED

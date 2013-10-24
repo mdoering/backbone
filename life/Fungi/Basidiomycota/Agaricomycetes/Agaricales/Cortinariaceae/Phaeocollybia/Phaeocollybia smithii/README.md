@@ -1,5 +1,4 @@
-Phaeocollybia smithii Bandala & Montoya SPECIES
-=======
+# Phaeocollybia smithii Bandala & Montoya SPECIES
 
 #### Status
 ACCEPTED

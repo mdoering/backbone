@@ -1,5 +1,4 @@
-Urocystis macularis (Berk. & Broome) E. Fisch. SPECIES
-=======
+# Urocystis macularis (Berk. & Broome) E. Fisch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sterigmatocystis alborosea Sartory, R. Sartory & J. Mey. SPECIES
-=======
+# Sterigmatocystis alborosea Sartory, R. Sartory & J. Mey. SPECIES
 
 #### Status
 ACCEPTED

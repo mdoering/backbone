@@ -1,5 +1,4 @@
-Hebeloma naviculosporum Heykoop, G. Moreno & Esteve-Rav. SPECIES
-=======
+# Hebeloma naviculosporum Heykoop, G. Moreno & Esteve-Rav. SPECIES
 
 #### Status
 ACCEPTED

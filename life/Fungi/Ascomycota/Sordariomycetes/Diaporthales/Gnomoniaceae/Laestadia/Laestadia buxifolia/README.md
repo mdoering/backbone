@@ -1,5 +1,4 @@
-Laestadia buxifolia (Cooke) Sacc. SPECIES
-=======
+# Laestadia buxifolia (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

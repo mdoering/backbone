@@ -1,5 +1,4 @@
-Mucor paniceus Sowerby SPECIES
-=======
+# Mucor paniceus Sowerby SPECIES
 
 #### Status
 ACCEPTED

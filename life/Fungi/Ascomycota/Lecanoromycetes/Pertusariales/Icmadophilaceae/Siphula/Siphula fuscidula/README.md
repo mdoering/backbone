@@ -1,5 +1,4 @@
-Siphula fuscidula Zahlbr. SPECIES
-=======
+# Siphula fuscidula Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

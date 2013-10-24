@@ -1,17 +1,16 @@
-Cortinarius dilutus subsp. dilutus (Pers.) Fr. SUBSPECIES
-=======
+# Cortinarius illuminus Fr., 1838 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Epicr. syst. mycol. (Upsaliae) 305 (1838)
 
 #### Original name
-Cortinarius dilutus subsp. dilutus (Pers.) Fr.
+Cortinarius illuminus Fr., 1838
 
 ### Remarks
 null

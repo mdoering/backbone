@@ -1,5 +1,4 @@
-Agaricus blockii Murrill SPECIES
-=======
+# Agaricus blockii Murrill SPECIES
 
 #### Status
 ACCEPTED

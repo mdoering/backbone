@@ -1,5 +1,4 @@
-Ramularia serratulina Chevassut SPECIES
-=======
+# Ramularia serratulina Chevassut SPECIES
 
 #### Status
 ACCEPTED

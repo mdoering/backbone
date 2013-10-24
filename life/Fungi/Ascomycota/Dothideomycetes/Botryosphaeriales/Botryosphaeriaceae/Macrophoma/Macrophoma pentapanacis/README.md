@@ -1,5 +1,4 @@
-Macrophoma pentapanacis Speg. SPECIES
-=======
+# Macrophoma pentapanacis Speg. SPECIES
 
 #### Status
 ACCEPTED

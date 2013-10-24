@@ -1,5 +1,4 @@
-Rhizoplecta trithyris Freguelli SPECIES
-=======
+# Rhizoplecta trithyris Freguelli SPECIES
 
 #### Status
 ACCEPTED

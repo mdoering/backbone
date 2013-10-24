@@ -1,5 +1,4 @@
-Lecanora variolascens Nyl. SPECIES
-=======
+# Lecanora variolascens Nyl. SPECIES
 
 #### Status
 ACCEPTED

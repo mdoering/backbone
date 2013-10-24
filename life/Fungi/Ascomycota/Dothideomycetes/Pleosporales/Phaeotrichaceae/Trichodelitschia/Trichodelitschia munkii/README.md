@@ -1,5 +1,4 @@
-Trichodelitschia munkii N. Lundq., 1964 SPECIES
-=======
+# Trichodelitschia munkii N. Lundq., 1964 SPECIES
 
 #### Status
 ACCEPTED

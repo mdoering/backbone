@@ -1,5 +1,4 @@
-Stereum nigrum Britzelm. SPECIES
-=======
+# Stereum nigrum Britzelm. SPECIES
 
 #### Status
 ACCEPTED

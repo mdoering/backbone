@@ -1,5 +1,4 @@
-Kellicotta Curds, 1985 GENUS
-=======
+# Kellicotta Curds, 1985 GENUS
 
 #### Status
 ACCEPTED

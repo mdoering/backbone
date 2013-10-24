@@ -1,5 +1,4 @@
-Hirneola lancicula Mont. SPECIES
-=======
+# Hirneola lancicula Mont. SPECIES
 
 #### Status
 ACCEPTED

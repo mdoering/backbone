@@ -1,5 +1,4 @@
-Sphaerella hordei P. Karst. SPECIES
-=======
+# Sphaerella hordei P. Karst. SPECIES
 
 #### Status
 ACCEPTED

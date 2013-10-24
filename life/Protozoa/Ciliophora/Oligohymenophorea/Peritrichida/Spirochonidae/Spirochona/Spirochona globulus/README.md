@@ -1,5 +1,4 @@
-Spirochona globulus Swarczewsky, 1928 SPECIES
-=======
+# Spirochona globulus Swarczewsky, 1928 SPECIES
 
 #### Status
 ACCEPTED

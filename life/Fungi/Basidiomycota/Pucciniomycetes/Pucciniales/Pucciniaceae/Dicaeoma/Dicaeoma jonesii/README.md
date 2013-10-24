@@ -1,5 +1,4 @@
-Dicaeoma jonesii (Peck) Kuntze SPECIES
-=======
+# Dicaeoma jonesii (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

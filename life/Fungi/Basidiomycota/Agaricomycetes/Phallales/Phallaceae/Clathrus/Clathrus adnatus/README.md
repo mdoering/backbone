@@ -1,5 +1,4 @@
-Clathrus adnatus Batsch SPECIES
-=======
+# Clathrus adnatus Batsch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora koerberi J. Steiner SPECIES
-=======
+# Lecanora koerberi J. Steiner SPECIES
 
 #### Status
 ACCEPTED

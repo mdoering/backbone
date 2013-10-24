@@ -1,5 +1,4 @@
-Sphaerella weinmanniae Cooke, 1886 SPECIES
-=======
+# Sphaerella weinmanniae Cooke, 1886 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmiellus pseudoramealis (Hauskn. & Noordel.) Hauskn. & Noordel. SPECIES
-=======
+# Marasmiellus pseudoramealis (Hauskn. & Noordel.) Hauskn. & Noordel. SPECIES
 
 #### Status
 ACCEPTED

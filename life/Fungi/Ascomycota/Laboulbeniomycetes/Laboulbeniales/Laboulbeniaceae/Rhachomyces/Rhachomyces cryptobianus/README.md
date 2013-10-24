@@ -1,5 +1,4 @@
-Rhachomyces cryptobianus Thaxt. SPECIES
-=======
+# Rhachomyces cryptobianus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena acuminata Métrod SPECIES
-=======
+# Mycena acuminata Métrod SPECIES
 
 #### Status
 ACCEPTED

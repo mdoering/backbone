@@ -1,5 +1,4 @@
-Calonectria avesiculata T.S. Schub., El-Gholl, Alfieri & Schoult. SPECIES
-=======
+# Calonectria avesiculata T.S. Schub., El-Gholl, Alfieri & Schoult. SPECIES
 
 #### Status
 ACCEPTED

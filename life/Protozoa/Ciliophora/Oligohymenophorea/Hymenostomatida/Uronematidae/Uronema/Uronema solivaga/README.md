@@ -1,5 +1,4 @@
-Uronema solivaga Kahl, 1926 SPECIES
-=======
+# Uronema solivaga Kahl, 1926 SPECIES
 
 #### Status
 ACCEPTED

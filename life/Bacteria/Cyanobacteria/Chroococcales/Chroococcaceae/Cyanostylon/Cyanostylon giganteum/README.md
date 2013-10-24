@@ -1,5 +1,4 @@
-Cyanostylon giganteum Liang SPECIES
-=======
+# Cyanostylon giganteum Liang SPECIES
 
 #### Status
 ACCEPTED

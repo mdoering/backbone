@@ -1,5 +1,4 @@
-Amphiloma ochraceofulvum Müll. Arg. SPECIES
-=======
+# Amphiloma ochraceofulvum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

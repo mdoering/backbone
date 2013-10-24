@@ -1,5 +1,4 @@
-Sepedonium epimeliola Cif. SPECIES
-=======
+# Sepedonium epimeliola Cif. SPECIES
 
 #### Status
 ACCEPTED

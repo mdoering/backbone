@@ -1,5 +1,4 @@
-Parmelia pellita Ach. SPECIES
-=======
+# Parmelia pellita Ach. SPECIES
 
 #### Status
 ACCEPTED

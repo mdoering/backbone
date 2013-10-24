@@ -1,5 +1,4 @@
-Asterina penicillata Pat. SPECIES
-=======
+# Asterina penicillata Pat. SPECIES
 
 #### Status
 ACCEPTED

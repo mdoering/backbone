@@ -1,5 +1,4 @@
-Hormiscium callisporum Grove SPECIES
-=======
+# Hormiscium callisporum Grove SPECIES
 
 #### Status
 ACCEPTED

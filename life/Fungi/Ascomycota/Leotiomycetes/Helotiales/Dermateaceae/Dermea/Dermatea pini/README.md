@@ -1,5 +1,4 @@
-Dermatea pini W. Phillips & Harkn. SPECIES
-=======
+# Dermatea pini W. Phillips & Harkn. SPECIES
 
 #### Status
 ACCEPTED

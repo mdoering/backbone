@@ -1,5 +1,4 @@
-Tremella roseolutescens Bandoni & J. Carranza SPECIES
-=======
+# Tremella roseolutescens Bandoni & J. Carranza SPECIES
 
 #### Status
 ACCEPTED

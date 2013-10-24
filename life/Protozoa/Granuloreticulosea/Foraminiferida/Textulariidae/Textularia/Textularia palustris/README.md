@@ -1,5 +1,4 @@
-Textularia palustris Warren, 1957 SPECIES
-=======
+# Textularia palustris Warren, 1957 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Petractis leucaspis (Kremp. ex A. Massal.) Hazsl. SPECIES
-=======
+# Petractis leucaspis (Kremp. ex A. Massal.) Hazsl. SPECIES
 
 #### Status
 ACCEPTED

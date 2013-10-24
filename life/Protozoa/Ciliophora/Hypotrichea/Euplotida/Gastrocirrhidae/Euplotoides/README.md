@@ -1,5 +1,4 @@
-Euplotoides Borror & Hill, 1995 GENUS
-=======
+# Euplotoides Borror & Hill, 1995 GENUS
 
 #### Status
 ACCEPTED

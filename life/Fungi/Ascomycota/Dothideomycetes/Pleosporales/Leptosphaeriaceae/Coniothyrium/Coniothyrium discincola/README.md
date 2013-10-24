@@ -1,5 +1,4 @@
-Coniothyrium discincola (Ellis & Everh.) Keissl. SPECIES
-=======
+# Coniothyrium discincola (Ellis & Everh.) Keissl. SPECIES
 
 #### Status
 ACCEPTED

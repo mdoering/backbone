@@ -1,5 +1,4 @@
-Sporothrix globuligera K. Matsush. & Matsush. SPECIES
-=======
+# Sporothrix globuligera K. Matsush. & Matsush. SPECIES
 
 #### Status
 ACCEPTED

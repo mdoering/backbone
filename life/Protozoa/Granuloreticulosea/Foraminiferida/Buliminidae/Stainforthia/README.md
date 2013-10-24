@@ -1,5 +1,4 @@
-Stainforthia Hofker, 1956 GENUS
-=======
+# Stainforthia Hofker, 1956 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lentinus tumescens Fr. SPECIES
-=======
+# Lentinus tumescens Fr. SPECIES
 
 #### Status
 ACCEPTED

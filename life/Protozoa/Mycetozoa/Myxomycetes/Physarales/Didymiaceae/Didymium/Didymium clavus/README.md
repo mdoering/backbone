@@ -1,14 +1,13 @@
-Didymium melanopus var. clavus (Alb. & Schwein.) Wallr. VARIETY
-=======
+# Didymium clavus (Alb. & Schwein.) Rabenh., 1844 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syst. mycol. (Lundae) 3(1): 114 (1829)
+Deutschl. Krypt. -Fl. (Leipzig) 1: 280 (1844)
 
 #### Original name
 Physarum clavus Alb. & Schwein., 1805

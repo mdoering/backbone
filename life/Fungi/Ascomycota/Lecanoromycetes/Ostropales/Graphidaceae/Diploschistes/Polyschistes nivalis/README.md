@@ -1,5 +1,4 @@
-Polyschistes nivalis (Bagl. & Carestia) Keissl. SPECIES
-=======
+# Polyschistes nivalis (Bagl. & Carestia) Keissl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia papulosa (Anzi) Vain. SPECIES
-=======
+# Parmelia papulosa (Anzi) Vain. SPECIES
 
 #### Status
 ACCEPTED

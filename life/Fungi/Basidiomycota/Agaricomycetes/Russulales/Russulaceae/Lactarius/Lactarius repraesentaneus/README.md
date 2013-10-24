@@ -1,17 +1,16 @@
-Lactarius repraesentaneus subsp. speciosus (Burl.) Singer SUBSPECIES
-=======
+# Lactarius repraesentaneus Britzelm., 1885 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 40: 117 (1942)
+Ber. naturw. Augsburg 28: 136 (1885)
 
 #### Original name
-Lactarius speciosus (J.E. Lange) Romagn., 1957
+Lactarius repraesentaneus Britzelm., 1885
 
 ### Remarks
 null

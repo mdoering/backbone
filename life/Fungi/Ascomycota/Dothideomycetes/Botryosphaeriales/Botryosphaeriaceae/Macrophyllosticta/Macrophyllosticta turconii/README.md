@@ -1,5 +1,4 @@
-Macrophyllosticta turconii (Trinchieri) Sousa da Câmara SPECIES
-=======
+# Macrophyllosticta turconii (Trinchieri) Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

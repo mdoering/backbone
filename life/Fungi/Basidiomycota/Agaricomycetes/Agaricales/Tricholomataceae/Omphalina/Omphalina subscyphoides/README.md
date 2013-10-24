@@ -1,5 +1,4 @@
-Omphalina subscyphoides Murrill SPECIES
-=======
+# Omphalina subscyphoides Murrill SPECIES
 
 #### Status
 ACCEPTED

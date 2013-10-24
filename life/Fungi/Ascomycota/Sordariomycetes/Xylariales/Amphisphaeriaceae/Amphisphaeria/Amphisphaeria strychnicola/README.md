@@ -1,5 +1,4 @@
-Amphisphaeria strychnicola Pat. SPECIES
-=======
+# Amphisphaeria strychnicola Pat. SPECIES
 
 #### Status
 ACCEPTED

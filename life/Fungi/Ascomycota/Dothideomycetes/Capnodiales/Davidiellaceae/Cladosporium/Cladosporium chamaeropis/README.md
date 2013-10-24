@@ -1,5 +1,4 @@
-Cladosporium chamaeropis (Unamuno) K. Schub. SPECIES
-=======
+# Cladosporium chamaeropis (Unamuno) K. Schub. SPECIES
 
 #### Status
 ACCEPTED

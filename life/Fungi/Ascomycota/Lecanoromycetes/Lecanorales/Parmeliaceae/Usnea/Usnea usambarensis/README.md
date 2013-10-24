@@ -1,5 +1,4 @@
-Usnea usambarensis Motyka SPECIES
-=======
+# Usnea usambarensis Motyka SPECIES
 
 #### Status
 ACCEPTED

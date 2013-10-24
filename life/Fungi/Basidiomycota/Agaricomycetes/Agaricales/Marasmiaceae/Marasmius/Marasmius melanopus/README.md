@@ -1,5 +1,4 @@
-Marasmius melanopus Morgan SPECIES
-=======
+# Marasmius melanopus Morgan SPECIES
 
 #### Status
 ACCEPTED

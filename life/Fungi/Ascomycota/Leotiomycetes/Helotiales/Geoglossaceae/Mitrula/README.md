@@ -1,5 +1,4 @@
-Mitrula E.M. Fries, 1821 GENUS
-=======
+# Mitrula E.M. Fries, 1821 GENUS
 
 #### Status
 ACCEPTED

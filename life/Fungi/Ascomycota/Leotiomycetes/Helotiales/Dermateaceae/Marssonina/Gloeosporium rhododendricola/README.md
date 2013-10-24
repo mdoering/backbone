@@ -1,5 +1,4 @@
-Gloeosporium rhododendricola Hollós SPECIES
-=======
+# Gloeosporium rhododendricola Hollós SPECIES
 
 #### Status
 ACCEPTED

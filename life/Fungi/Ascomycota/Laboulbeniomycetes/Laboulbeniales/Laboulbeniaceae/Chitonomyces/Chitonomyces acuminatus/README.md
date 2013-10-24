@@ -1,5 +1,4 @@
-Chitonomyces acuminatus Thaxt. SPECIES
-=======
+# Chitonomyces acuminatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

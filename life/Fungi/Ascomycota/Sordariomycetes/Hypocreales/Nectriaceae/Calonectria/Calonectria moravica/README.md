@@ -1,5 +1,4 @@
-Calonectria moravica Petr. SPECIES
-=======
+# Calonectria moravica Petr. SPECIES
 
 #### Status
 ACCEPTED

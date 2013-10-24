@@ -1,5 +1,4 @@
-Hypocopra hippica Sacc. SPECIES
-=======
+# Hypocopra hippica Sacc. SPECIES
 
 #### Status
 ACCEPTED

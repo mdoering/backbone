@@ -1,5 +1,4 @@
-Pyronema thuemenii (P. Karst.) P. Karst. SPECIES
-=======
+# Pyronema thuemenii (P. Karst.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

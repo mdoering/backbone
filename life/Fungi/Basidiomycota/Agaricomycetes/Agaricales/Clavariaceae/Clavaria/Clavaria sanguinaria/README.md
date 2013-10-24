@@ -1,5 +1,4 @@
-Clavaria sanguinaria R. Heim SPECIES
-=======
+# Clavaria sanguinaria R. Heim SPECIES
 
 #### Status
 ACCEPTED

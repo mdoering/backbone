@@ -1,5 +1,4 @@
-Sporidesmium closterisporium Corda SPECIES
-=======
+# Sporidesmium closterisporium Corda SPECIES
 
 #### Status
 ACCEPTED

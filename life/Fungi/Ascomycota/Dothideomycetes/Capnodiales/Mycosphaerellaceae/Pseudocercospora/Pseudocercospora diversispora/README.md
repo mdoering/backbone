@@ -1,5 +1,4 @@
-Pseudocercospora diversispora Goh & W.H. Hsieh SPECIES
-=======
+# Pseudocercospora diversispora Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Velutaria hyperici J. Schröt. SPECIES
-=======
+# Velutaria hyperici J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

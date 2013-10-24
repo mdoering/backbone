@@ -1,5 +1,4 @@
-Buellia lavicola (Zahlbr.) H. Magn. SPECIES
-=======
+# Buellia lavicola (Zahlbr.) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

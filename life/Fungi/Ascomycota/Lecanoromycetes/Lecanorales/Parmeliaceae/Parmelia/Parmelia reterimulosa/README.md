@@ -1,5 +1,4 @@
-Parmelia reterimulosa J. Steiner & Zahlbr. SPECIES
-=======
+# Parmelia reterimulosa J. Steiner & Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

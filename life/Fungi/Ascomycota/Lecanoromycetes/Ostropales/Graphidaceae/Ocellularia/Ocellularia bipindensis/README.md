@@ -1,5 +1,4 @@
-Ocellularia bipindensis Frisch SPECIES
-=======
+# Ocellularia bipindensis Frisch SPECIES
 
 #### Status
 ACCEPTED

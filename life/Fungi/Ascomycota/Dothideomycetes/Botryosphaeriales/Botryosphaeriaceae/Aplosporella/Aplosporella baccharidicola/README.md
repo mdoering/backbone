@@ -1,5 +1,4 @@
-Aplosporella baccharidicola (Dearn.) Petr. & Syd. SPECIES
-=======
+# Aplosporella baccharidicola (Dearn.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

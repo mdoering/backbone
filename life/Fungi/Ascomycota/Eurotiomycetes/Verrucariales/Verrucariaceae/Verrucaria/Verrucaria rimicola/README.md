@@ -1,5 +1,4 @@
-Verrucaria rimicola Zschacke SPECIES
-=======
+# Verrucaria rimicola Zschacke SPECIES
 
 #### Status
 ACCEPTED

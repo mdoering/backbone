@@ -1,5 +1,4 @@
-Laurera elegans (Vain.) Zahlbr. SPECIES
-=======
+# Laurera elegans (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

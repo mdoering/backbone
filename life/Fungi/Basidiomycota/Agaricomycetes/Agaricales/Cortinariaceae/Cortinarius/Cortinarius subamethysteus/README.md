@@ -1,5 +1,4 @@
-Cortinarius subamethysteus Rob. Henry SPECIES
-=======
+# Cortinarius subamethysteus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

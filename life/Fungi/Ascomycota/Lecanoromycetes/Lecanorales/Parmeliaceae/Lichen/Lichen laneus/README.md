@@ -1,5 +1,4 @@
-Lichen laneus (Hoffm.) Ehrh. SPECIES
-=======
+# Lichen laneus (Hoffm.) Ehrh. SPECIES
 
 #### Status
 ACCEPTED

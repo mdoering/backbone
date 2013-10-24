@@ -1,14 +1,13 @@
-Helvella infundibuliformis Schaeff., 1774 SPECIES
-=======
+# Leotia infundibuliformis (Schaeff.) Fr., 1818 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fung. Bavar. Palat. 4: 110 (1774)
+Observ. mycol. (Havniae) 2: 299 (1818)
 
 #### Original name
 Helvella infundibuliformis Schaeff., 1774

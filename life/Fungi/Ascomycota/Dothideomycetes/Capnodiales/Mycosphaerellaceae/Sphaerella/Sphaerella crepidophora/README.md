@@ -1,5 +1,4 @@
-Sphaerella crepidophora (Mont.) Sacc. SPECIES
-=======
+# Sphaerella crepidophora (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

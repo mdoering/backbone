@@ -1,5 +1,4 @@
-Lactarius edulis Verbeken & Buyck SPECIES
-=======
+# Lactarius edulis Verbeken & Buyck SPECIES
 
 #### Status
 ACCEPTED

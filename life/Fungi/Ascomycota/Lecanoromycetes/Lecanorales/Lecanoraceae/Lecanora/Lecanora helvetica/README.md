@@ -1,5 +1,4 @@
-Lecanora helvetica (Hue) Zahlbr. SPECIES
-=======
+# Lecanora helvetica (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

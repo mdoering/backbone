@@ -1,5 +1,4 @@
-Pseudodiplodia polygonicola (Kabát & Bubák) Petr. SPECIES
-=======
+# Pseudodiplodia polygonicola (Kabát & Bubák) Petr. SPECIES
 
 #### Status
 ACCEPTED

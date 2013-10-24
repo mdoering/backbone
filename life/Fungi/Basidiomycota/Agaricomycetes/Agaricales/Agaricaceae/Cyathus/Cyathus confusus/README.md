@@ -1,5 +1,4 @@
-Cyathus confusus Tai {?} & Hung {?} SPECIES
-=======
+# Cyathus confusus Tai {?} & Hung {?} SPECIES
 
 #### Status
 ACCEPTED

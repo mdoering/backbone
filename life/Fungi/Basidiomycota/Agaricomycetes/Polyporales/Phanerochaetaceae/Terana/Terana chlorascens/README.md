@@ -1,5 +1,4 @@
-Terana chlorascens (Berk. & Broome) Kuntze SPECIES
-=======
+# Terana chlorascens (Berk. & Broome) Kuntze SPECIES
 
 #### Status
 ACCEPTED

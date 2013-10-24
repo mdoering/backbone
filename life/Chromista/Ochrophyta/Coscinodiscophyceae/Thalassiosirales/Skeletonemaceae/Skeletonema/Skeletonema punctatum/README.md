@@ -1,5 +1,4 @@
-Skeletonema punctatum SPECIES
-=======
+# Skeletonema punctatum SPECIES
 
 #### Status
 ACCEPTED

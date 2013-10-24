@@ -1,5 +1,4 @@
-Bacidia coralloidea Coppins SPECIES
-=======
+# Bacidia coralloidea Coppins SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus ridleyi Massee SPECIES
-=======
+# Polyporus ridleyi Massee SPECIES
 
 #### Status
 ACCEPTED

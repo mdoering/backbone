@@ -1,5 +1,4 @@
-Macrodiplodia aquifolii Westend. SPECIES
-=======
+# Macrodiplodia aquifolii Westend. SPECIES
 
 #### Status
 ACCEPTED

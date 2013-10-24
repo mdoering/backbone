@@ -1,14 +1,13 @@
-Clisosporium sphaerospermum (Fuckel) Kuntze, 1898 SPECIES
-=======
+# Coniothyrium sphaerospermum Fuckel, 1870 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 458 (1898)
+Jb. nassau. Ver. Naturk. 23-24: 377 (1870)
 
 #### Original name
 Coniothyrium sphaerospermum Fuckel, 1870

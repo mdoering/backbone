@@ -1,5 +1,4 @@
-Sphaerella tamaricis Hollós SPECIES
-=======
+# Sphaerella tamaricis Hollós SPECIES
 
 #### Status
 ACCEPTED

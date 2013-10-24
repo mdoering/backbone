@@ -1,5 +1,4 @@
-Tubercularia subpedicellata Schwein. SPECIES
-=======
+# Tubercularia subpedicellata Schwein. SPECIES
 
 #### Status
 ACCEPTED

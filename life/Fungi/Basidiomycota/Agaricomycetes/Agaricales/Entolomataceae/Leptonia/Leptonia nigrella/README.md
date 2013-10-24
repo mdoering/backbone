@@ -1,5 +1,4 @@
-Leptonia nigrella Velen. SPECIES
-=======
+# Leptonia nigrella Velen. SPECIES
 
 #### Status
 ACCEPTED

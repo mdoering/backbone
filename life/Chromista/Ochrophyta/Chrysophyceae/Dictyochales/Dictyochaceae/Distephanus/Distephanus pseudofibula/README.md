@@ -1,5 +1,4 @@
-Distephanus pseudofibula (P. Schulz) D. Bukry SPECIES
-=======
+# Distephanus pseudofibula (P. Schulz) D. Bukry SPECIES
 
 #### Status
 ACCEPTED

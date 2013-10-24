@@ -1,5 +1,4 @@
-Pyrenula sessilis H. Magn. SPECIES
-=======
+# Pyrenula sessilis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

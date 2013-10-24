@@ -1,5 +1,4 @@
-Lecanora polanensis Motyka SPECIES
-=======
+# Lecanora polanensis Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophidium thyridioides Sacc. & Speg. SPECIES
-=======
+# Lophidium thyridioides Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

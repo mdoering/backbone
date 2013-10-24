@@ -1,5 +1,4 @@
-Pocillaria arsenaria (Mont.) Kuntze SPECIES
-=======
+# Pocillaria arsenaria (Mont.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

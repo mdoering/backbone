@@ -1,5 +1,4 @@
-Psalliota pratensis (Schaeff.) Gillet SPECIES
-=======
+# Psalliota pratensis (Schaeff.) Gillet SPECIES
 
 #### Status
 ACCEPTED

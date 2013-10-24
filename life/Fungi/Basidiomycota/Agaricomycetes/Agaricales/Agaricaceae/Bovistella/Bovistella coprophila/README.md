@@ -1,5 +1,4 @@
-Bovistella coprophila (Cooke & Massee) G. Cunn. SPECIES
-=======
+# Bovistella coprophila (Cooke & Massee) G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

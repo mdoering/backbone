@@ -1,5 +1,4 @@
-Sulfitobacter marinus Yoon, Kang & Oh, 2007 SPECIES
-=======
+# Sulfitobacter marinus Yoon, Kang & Oh, 2007 SPECIES
 
 #### Status
 ACCEPTED

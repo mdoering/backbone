@@ -1,5 +1,4 @@
-Acremonites Pia GENUS
-=======
+# Acremonites Pia GENUS
 
 #### Status
 ACCEPTED

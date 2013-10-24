@@ -1,17 +1,16 @@
-Clypeococcum placopsiiphilus Øvstedal & D. Hawksw. SPECIES
-=======
+# Clypeococcum placopsiiphilum Øvstedal & D. Hawksw. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Norsk Polarinstitutt Skrifter 57 (1986)
 
 #### Original name
-Clypeococcum placopsiiphilus Øvstedal & D. Hawksw.
+Clypeococcum placopsiiphilum Øvstedal & D. Hawksw.
 
 ### Remarks
 null

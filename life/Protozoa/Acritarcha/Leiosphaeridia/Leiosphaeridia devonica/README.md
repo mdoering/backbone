@@ -1,5 +1,4 @@
-Leiosphaeridia devonica Tiwari & Schaarschmidt, 1975 SPECIES
-=======
+# Leiosphaeridia devonica Tiwari & Schaarschmidt, 1975 SPECIES
 
 #### Status
 ACCEPTED

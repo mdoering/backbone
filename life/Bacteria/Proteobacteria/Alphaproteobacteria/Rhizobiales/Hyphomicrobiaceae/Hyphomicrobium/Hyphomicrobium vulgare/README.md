@@ -1,5 +1,4 @@
-Hyphomicrobium vulgare Stutzer and Hartleb, 1898 (Approved Lists, 1980) SPECIES
-=======
+# Hyphomicrobium vulgare Stutzer and Hartleb, 1898 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

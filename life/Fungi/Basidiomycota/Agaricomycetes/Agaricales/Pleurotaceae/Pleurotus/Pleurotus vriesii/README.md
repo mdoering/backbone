@@ -1,5 +1,4 @@
-Pleurotus vriesii (Lév.) Sacc. SPECIES
-=======
+# Pleurotus vriesii (Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

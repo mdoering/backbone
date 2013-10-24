@@ -1,5 +1,4 @@
-Phaeoseptoria eucalypti Hansf., 1957 SPECIES
-=======
+# Phaeoseptoria eucalypti Hansf., 1957 SPECIES
 
 #### Status
 ACCEPTED

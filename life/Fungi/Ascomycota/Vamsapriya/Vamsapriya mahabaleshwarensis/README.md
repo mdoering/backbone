@@ -1,5 +1,4 @@
-Vamsapriya mahabaleshwarensis Pratibha & Bhat SPECIES
-=======
+# Vamsapriya mahabaleshwarensis Pratibha & Bhat SPECIES
 
 #### Status
 ACCEPTED

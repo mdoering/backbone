@@ -1,5 +1,4 @@
-Monoporisporites elongatus (Hammen) Kalgutkar & Janson. SPECIES
-=======
+# Monoporisporites elongatus (Hammen) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

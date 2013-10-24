@@ -1,5 +1,4 @@
-Ophiobolus subolivaceus Peck SPECIES
-=======
+# Ophiobolus subolivaceus Peck SPECIES
 
 #### Status
 ACCEPTED

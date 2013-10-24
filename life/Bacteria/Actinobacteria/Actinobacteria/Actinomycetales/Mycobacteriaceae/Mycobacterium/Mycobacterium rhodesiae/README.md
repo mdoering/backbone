@@ -1,5 +1,4 @@
-Mycobacterium rhodesiae (ex Tsukamura et al., 1971) Tsukamura, 1981 SPECIES
-=======
+# Mycobacterium rhodesiae (ex Tsukamura et al., 1971) Tsukamura, 1981 SPECIES
 
 #### Status
 ACCEPTED

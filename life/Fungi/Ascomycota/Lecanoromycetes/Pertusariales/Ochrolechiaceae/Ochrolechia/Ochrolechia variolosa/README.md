@@ -1,5 +1,4 @@
-Ochrolechia variolosa (Flot.) Sandst. SPECIES
-=======
+# Ochrolechia variolosa (Flot.) Sandst. SPECIES
 
 #### Status
 ACCEPTED

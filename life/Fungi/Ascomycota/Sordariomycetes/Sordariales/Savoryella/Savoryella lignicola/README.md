@@ -1,5 +1,4 @@
-Savoryella lignicola E.B.G. Jones & R.A. Eaton, 1969 SPECIES
-=======
+# Savoryella lignicola E.B.G. Jones & R.A. Eaton, 1969 SPECIES
 
 #### Status
 ACCEPTED

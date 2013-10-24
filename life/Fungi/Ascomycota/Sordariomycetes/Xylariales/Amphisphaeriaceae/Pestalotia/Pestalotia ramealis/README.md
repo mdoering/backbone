@@ -1,5 +1,4 @@
-Pestalotia ramealis Fr. SPECIES
-=======
+# Pestalotia ramealis Fr. SPECIES
 
 #### Status
 ACCEPTED

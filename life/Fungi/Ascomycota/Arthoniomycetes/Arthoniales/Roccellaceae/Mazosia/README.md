@@ -1,5 +1,4 @@
-Mazosia A. Massal. GENUS
-=======
+# Mazosia A. Massal. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Megalospora marginiflexoides Asahina SPECIES
-=======
+# Megalospora marginiflexoides Asahina SPECIES
 
 #### Status
 ACCEPTED

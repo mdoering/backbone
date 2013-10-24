@@ -1,5 +1,4 @@
-Aspicilia pseudosquamata Motyka SPECIES
-=======
+# Aspicilia pseudosquamata Motyka SPECIES
 
 #### Status
 ACCEPTED

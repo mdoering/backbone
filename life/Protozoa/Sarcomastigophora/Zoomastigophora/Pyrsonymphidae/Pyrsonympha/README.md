@@ -1,5 +1,4 @@
-Pyrsonympha J.Leidy GENUS
-=======
+# Pyrsonympha J.Leidy GENUS
 
 #### Status
 ACCEPTED

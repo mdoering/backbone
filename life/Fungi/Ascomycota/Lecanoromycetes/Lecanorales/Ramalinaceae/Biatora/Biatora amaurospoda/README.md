@@ -1,5 +1,4 @@
-Biatora amaurospoda Anzi SPECIES
-=======
+# Biatora amaurospoda Anzi SPECIES
 
 #### Status
 ACCEPTED

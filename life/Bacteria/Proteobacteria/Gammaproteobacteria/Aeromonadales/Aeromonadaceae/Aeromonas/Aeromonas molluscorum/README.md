@@ -1,5 +1,4 @@
-Aeromonas molluscorum Miñana-Galbis et al., 2004 SPECIES
-=======
+# Aeromonas molluscorum Miñana-Galbis et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

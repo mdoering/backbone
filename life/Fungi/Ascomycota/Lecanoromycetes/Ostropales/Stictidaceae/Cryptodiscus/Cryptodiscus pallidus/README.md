@@ -1,14 +1,13 @@
-Gyalecta pallida (Pers.) Boistel SPECIES
-=======
+# Cryptodiscus pallidus (Pers.) Corda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Icones 2: 37 (1838)
 
 #### Original name
 Stictis pallida Speg. & W. Phillips

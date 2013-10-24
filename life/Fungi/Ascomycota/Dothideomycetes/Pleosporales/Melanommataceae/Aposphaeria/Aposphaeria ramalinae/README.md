@@ -1,5 +1,4 @@
-Aposphaeria ramalinae Vouaux SPECIES
-=======
+# Aposphaeria ramalinae Vouaux SPECIES
 
 #### Status
 ACCEPTED

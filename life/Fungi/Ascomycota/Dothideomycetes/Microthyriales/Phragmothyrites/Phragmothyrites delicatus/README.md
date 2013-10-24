@@ -1,5 +1,4 @@
-Phragmothyrites delicatus Selkirk SPECIES
-=======
+# Phragmothyrites delicatus Selkirk SPECIES
 
 #### Status
 ACCEPTED

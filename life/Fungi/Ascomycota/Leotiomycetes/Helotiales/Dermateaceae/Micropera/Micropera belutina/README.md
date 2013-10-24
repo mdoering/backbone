@@ -1,5 +1,4 @@
-Micropera belutina SPECIES
-=======
+# Micropera belutina SPECIES
 
 #### Status
 ACCEPTED

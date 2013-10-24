@@ -1,5 +1,4 @@
-Trilocularena Loeblich & Tappan, 1955 GENUS
-=======
+# Trilocularena Loeblich & Tappan, 1955 GENUS
 
 #### Status
 ACCEPTED

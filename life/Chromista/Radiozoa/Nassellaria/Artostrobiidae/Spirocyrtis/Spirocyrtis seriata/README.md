@@ -1,5 +1,4 @@
-Spirocyrtis seriata Joergensen SPECIES
-=======
+# Spirocyrtis seriata Joergensen SPECIES
 
 #### Status
 DOUBTFUL

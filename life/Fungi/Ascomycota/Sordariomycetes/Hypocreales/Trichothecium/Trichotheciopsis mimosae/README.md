@@ -1,5 +1,4 @@
-Trichotheciopsis mimosae J.M. Yen SPECIES
-=======
+# Trichotheciopsis mimosae J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

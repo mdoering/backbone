@@ -1,5 +1,4 @@
-Centropyxis acureata Stein SPECIES
-=======
+# Centropyxis acureata Stein SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lentinus divisus R. Schulz SPECIES
-=======
+# Lentinus divisus R. Schulz SPECIES
 
 #### Status
 ACCEPTED

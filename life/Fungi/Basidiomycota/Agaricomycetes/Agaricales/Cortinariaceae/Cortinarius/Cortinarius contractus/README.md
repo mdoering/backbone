@@ -1,5 +1,4 @@
-Cortinarius contractus Rob. Henry SPECIES
-=======
+# Cortinarius contractus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bipolaris tropicalis Sivan., 1985 SPECIES
-=======
+# Bipolaris tropicalis Sivan., 1985 SPECIES
 
 #### Status
 ACCEPTED

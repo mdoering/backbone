@@ -1,5 +1,4 @@
-Ocellularia kanneliyensis Hale SPECIES
-=======
+# Ocellularia kanneliyensis Hale SPECIES
 
 #### Status
 ACCEPTED

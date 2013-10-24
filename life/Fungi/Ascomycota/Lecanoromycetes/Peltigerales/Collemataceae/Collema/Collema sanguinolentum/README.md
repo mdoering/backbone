@@ -1,5 +1,4 @@
-Collema sanguinolentum (Kremp.) Stizenb. SPECIES
-=======
+# Collema sanguinolentum (Kremp.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

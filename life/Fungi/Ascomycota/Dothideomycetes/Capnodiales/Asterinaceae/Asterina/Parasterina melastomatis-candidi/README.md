@@ -1,5 +1,4 @@
-Parasterina melastomatis-candidi Bat. ex Poroca, J.L. Bezerra & F.B. Leal SPECIES
-=======
+# Parasterina melastomatis-candidi Bat. ex Poroca, J.L. Bezerra & F.B. Leal SPECIES
 
 #### Status
 ACCEPTED

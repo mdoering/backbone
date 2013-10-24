@@ -1,5 +1,4 @@
-Marasmiellus usambarensis Desjardin & R.H. Petersen SPECIES
-=======
+# Marasmiellus usambarensis Desjardin & R.H. Petersen SPECIES
 
 #### Status
 ACCEPTED

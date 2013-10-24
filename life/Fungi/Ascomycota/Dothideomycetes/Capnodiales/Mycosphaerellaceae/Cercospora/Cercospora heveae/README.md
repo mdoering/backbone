@@ -1,5 +1,4 @@
-Cercospora heveae Vincens SPECIES
-=======
+# Cercospora heveae Vincens SPECIES
 
 #### Status
 ACCEPTED

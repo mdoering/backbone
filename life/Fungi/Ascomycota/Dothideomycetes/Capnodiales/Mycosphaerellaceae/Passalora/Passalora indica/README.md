@@ -1,5 +1,4 @@
-Passalora indica P.Rag. Rao SPECIES
-=======
+# Passalora indica P.Rag. Rao SPECIES
 
 #### Status
 ACCEPTED

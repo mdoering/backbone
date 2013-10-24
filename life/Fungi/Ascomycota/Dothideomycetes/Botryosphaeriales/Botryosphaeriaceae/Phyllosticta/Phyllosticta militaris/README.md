@@ -1,5 +1,4 @@
-Phyllosticta militaris Oudem. SPECIES
-=======
+# Phyllosticta militaris Oudem. SPECIES
 
 #### Status
 ACCEPTED

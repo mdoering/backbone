@@ -1,5 +1,4 @@
-Spinodiscorbis Taylor, 1986 GENUS
-=======
+# Spinodiscorbis Taylor, 1986 GENUS
 
 #### Status
 ACCEPTED

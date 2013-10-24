@@ -1,5 +1,4 @@
-Fluviicola O'Sullivan, Rinna, Humphreys, Weightman & Fry, 2005 GENUS
-=======
+# Fluviicola O'Sullivan, Rinna, Humphreys, Weightman & Fry, 2005 GENUS
 
 #### Status
 ACCEPTED

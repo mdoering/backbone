@@ -1,5 +1,4 @@
-Lachnum elatius P. Karst. SPECIES
-=======
+# Lachnum elatius P. Karst. SPECIES
 
 #### Status
 ACCEPTED

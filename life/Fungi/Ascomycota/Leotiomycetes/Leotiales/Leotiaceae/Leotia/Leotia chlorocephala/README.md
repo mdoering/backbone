@@ -1,17 +1,16 @@
-Leotia chlorocephala subsp. chlorocephala Schwein. SUBSPECIES
-=======
+# Leotia chlorocephala Schwein., 1822 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Schr. naturf. Ges. Leipzig 1: 114 (1822)
 
 #### Original name
-Leotia chlorocephala subsp. chlorocephala Schwein.
+Leotia chlorocephala Schwein., 1822
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Chrysosporium pollaceii J.J. Taylor SPECIES
-=======
+# Chrysosporium pollaceii J.J. Taylor SPECIES
 
 #### Status
 ACCEPTED

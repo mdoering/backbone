@@ -1,5 +1,4 @@
-Puccinia invelata H.S. Jacks. SPECIES
-=======
+# Puccinia invelata H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

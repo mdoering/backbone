@@ -1,5 +1,4 @@
-Naucoria devia (Singer) Raithelh. SPECIES
-=======
+# Naucoria devia (Singer) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

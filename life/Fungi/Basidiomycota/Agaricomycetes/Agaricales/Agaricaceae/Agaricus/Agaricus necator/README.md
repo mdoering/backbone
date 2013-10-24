@@ -1,5 +1,4 @@
-Agaricus necator Bull. SPECIES
-=======
+# Agaricus necator Bull. SPECIES
 
 #### Status
 ACCEPTED

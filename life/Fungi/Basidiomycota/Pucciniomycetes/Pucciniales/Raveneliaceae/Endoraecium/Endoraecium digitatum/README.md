@@ -1,17 +1,16 @@
-Pileolaria phyllodiorum (Berk. & Broome) Dietel, 1921 SPECIES
-=======
+# Endoraecium digitatum (G. Winter) M. Scholler & Aime, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 19: 302 (1921)
+Mycoscience 47(3): 163 (2006)
 
 #### Original name
-Uromyces phyllodiorum Berk. & Broome, 1886
+Uromyces digitatus Halst., 1887
 
 ### Remarks
 null

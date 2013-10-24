@@ -1,5 +1,4 @@
-Patellaria aggregata Mathieu SPECIES
-=======
+# Patellaria aggregata Mathieu SPECIES
 
 #### Status
 ACCEPTED

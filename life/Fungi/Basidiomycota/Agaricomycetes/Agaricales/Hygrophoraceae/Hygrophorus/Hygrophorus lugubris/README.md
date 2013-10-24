@@ -1,5 +1,4 @@
-Hygrophorus lugubris Rick SPECIES
-=======
+# Hygrophorus lugubris Rick SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmiellus delicatellus (Peck) Singer SPECIES
-=======
+# Marasmiellus delicatellus (Peck) Singer SPECIES
 
 #### Status
 ACCEPTED

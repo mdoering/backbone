@@ -1,5 +1,4 @@
-Psathyrella nitens A.H. Sm. SPECIES
-=======
+# Psathyrella nitens A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

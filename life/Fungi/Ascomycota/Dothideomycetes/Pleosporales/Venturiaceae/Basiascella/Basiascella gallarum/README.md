@@ -1,5 +1,4 @@
-Basiascella gallarum Bubák SPECIES
-=======
+# Basiascella gallarum Bubák SPECIES
 
 #### Status
 ACCEPTED

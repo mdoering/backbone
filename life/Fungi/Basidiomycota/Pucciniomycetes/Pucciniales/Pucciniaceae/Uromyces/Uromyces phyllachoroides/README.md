@@ -1,5 +1,4 @@
-Uromyces phyllachoroides Henn. SPECIES
-=======
+# Uromyces phyllachoroides Henn. SPECIES
 
 #### Status
 ACCEPTED

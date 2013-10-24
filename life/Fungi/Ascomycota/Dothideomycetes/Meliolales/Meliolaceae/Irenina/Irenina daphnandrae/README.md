@@ -1,5 +1,4 @@
-Irenina daphnandrae Hansf. SPECIES
-=======
+# Irenina daphnandrae Hansf. SPECIES
 
 #### Status
 ACCEPTED

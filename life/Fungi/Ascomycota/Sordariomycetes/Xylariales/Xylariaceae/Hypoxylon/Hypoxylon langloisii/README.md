@@ -1,5 +1,4 @@
-Hypoxylon langloisii (Ellis & Everh.) P.M.D. Martin SPECIES
-=======
+# Hypoxylon langloisii (Ellis & Everh.) P.M.D. Martin SPECIES
 
 #### Status
 ACCEPTED

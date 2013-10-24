@@ -1,5 +1,4 @@
-Pseudosaccatina GENUS
-=======
+# Pseudosaccatina GENUS
 
 #### Status
 ACCEPTED

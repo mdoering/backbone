@@ -1,17 +1,16 @@
-Clitopilus piperatus (G. Stev.) Noordel. & Co-David, 2009 SPECIES
-=======
+# Rhodocybe piperata (G. Stev.) E. Horak, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+N. Z. Jl Bot. 9(3): 446 (1971)
 
 #### Original name
-null
+Lepista piperita G. Stev.
 
 ### Remarks
 null

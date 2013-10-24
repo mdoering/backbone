@@ -1,5 +1,4 @@
-Pseudocercospora spinosae (Chupp) Deighton SPECIES
-=======
+# Pseudocercospora spinosae (Chupp) Deighton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudohydnotrya carnea Harkn. SPECIES
-=======
+# Pseudohydnotrya carnea Harkn. SPECIES
 
 #### Status
 ACCEPTED

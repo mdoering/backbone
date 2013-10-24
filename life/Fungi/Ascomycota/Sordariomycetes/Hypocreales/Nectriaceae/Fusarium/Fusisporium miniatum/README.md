@@ -1,5 +1,4 @@
-Fusisporium miniatum Berk. & M.A. Curtis SPECIES
-=======
+# Fusisporium miniatum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

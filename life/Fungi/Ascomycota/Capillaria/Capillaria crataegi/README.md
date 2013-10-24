@@ -1,5 +1,4 @@
-Capillaria crataegi Link SPECIES
-=======
+# Capillaria crataegi Link SPECIES
 
 #### Status
 ACCEPTED

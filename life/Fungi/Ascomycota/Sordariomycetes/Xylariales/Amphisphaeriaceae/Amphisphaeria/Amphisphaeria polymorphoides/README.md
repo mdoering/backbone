@@ -1,5 +1,4 @@
-Amphisphaeria polymorphoides Teng & S.H. Ou SPECIES
-=======
+# Amphisphaeria polymorphoides Teng & S.H. Ou SPECIES
 
 #### Status
 ACCEPTED

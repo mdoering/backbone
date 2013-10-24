@@ -1,5 +1,4 @@
-Porina leucostoma (Ach.) Ach. SPECIES
-=======
+# Porina leucostoma (Ach.) Ach. SPECIES
 
 #### Status
 ACCEPTED

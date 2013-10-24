@@ -1,5 +1,4 @@
-Pyrenula atrofuscescens Vain. SPECIES
-=======
+# Pyrenula atrofuscescens Vain. SPECIES
 
 #### Status
 ACCEPTED

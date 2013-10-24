@@ -1,5 +1,4 @@
-Chrysomoron Skuja, 1956 GENUS
-=======
+# Chrysomoron Skuja, 1956 GENUS
 
 #### Status
 SYNONYM

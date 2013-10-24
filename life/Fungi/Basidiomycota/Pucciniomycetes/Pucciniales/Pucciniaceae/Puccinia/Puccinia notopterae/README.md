@@ -1,5 +1,4 @@
-Puccinia notopterae Arthur SPECIES
-=======
+# Puccinia notopterae Arthur SPECIES
 
 #### Status
 ACCEPTED

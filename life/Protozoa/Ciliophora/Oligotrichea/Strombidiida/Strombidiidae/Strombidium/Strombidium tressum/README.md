@@ -1,5 +1,4 @@
-Strombidium tressum Lynn, Montagnes & Small, 1988 SPECIES
-=======
+# Strombidium tressum Lynn, Montagnes & Small, 1988 SPECIES
 
 #### Status
 ACCEPTED

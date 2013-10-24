@@ -1,8 +1,7 @@
-Gonyaulax paulsenii Gaarder, 1954 SPECIES
-=======
+# Gonyaulax brevisulcata P. Dangeard, 1927 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

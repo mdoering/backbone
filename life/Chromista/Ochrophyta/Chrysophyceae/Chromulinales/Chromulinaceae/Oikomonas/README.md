@@ -1,14 +1,13 @@
-Eucomonas Moroff, 1903 GENUS
-=======
+# Oikomonas Kent, 1880 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Arch. Protistenk. , 3, 81.
+Man. Infus. , 1, 250.
 
 #### Original name
 null

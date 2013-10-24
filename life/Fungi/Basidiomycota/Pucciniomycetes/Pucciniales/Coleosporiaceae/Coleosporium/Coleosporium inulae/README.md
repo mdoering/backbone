@@ -1,5 +1,4 @@
-Coleosporium inulae Rabenh. SPECIES
-=======
+# Coleosporium inulae Rabenh. SPECIES
 
 #### Status
 ACCEPTED

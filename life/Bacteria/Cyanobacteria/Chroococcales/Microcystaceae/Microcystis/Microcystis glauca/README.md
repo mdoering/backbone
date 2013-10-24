@@ -1,5 +1,4 @@
-Microcystis glauca (Wolle) Dr. & Dailey SPECIES
-=======
+# Microcystis glauca (Wolle) Dr. & Dailey SPECIES
 
 #### Status
 ACCEPTED

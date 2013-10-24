@@ -1,5 +1,4 @@
-Erysiphe lata (Y. Nomura & Tanda) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe lata (Y. Nomura & Tanda) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

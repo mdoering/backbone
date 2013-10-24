@@ -1,5 +1,4 @@
-Questieriella terminaliae Hosag. & D.K. Agarwal SPECIES
-=======
+# Questieriella terminaliae Hosag. & D.K. Agarwal SPECIES
 
 #### Status
 ACCEPTED

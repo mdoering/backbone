@@ -1,5 +1,4 @@
-Puccinia heliopsidis Schwein. SPECIES
-=======
+# Puccinia heliopsidis Schwein. SPECIES
 
 #### Status
 ACCEPTED

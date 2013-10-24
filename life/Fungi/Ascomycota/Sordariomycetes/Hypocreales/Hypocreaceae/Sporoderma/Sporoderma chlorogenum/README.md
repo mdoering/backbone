@@ -1,17 +1,16 @@
-Sporoderma chlorogena Mont. SPECIES
-=======
+# Sporoderma chlorogenum Mont. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. gen. sp. crypt. (Paris) (1856)
 
 #### Original name
-Sporoderma chlorogena Mont.
+Sporoderma chlorogenum Mont.
 
 ### Remarks
 null

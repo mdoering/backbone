@@ -1,5 +1,4 @@
-Russula terenopus Romagn. SPECIES
-=======
+# Russula terenopus Romagn. SPECIES
 
 #### Status
 ACCEPTED

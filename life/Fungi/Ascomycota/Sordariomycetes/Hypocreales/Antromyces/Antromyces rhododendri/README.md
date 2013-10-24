@@ -1,5 +1,4 @@
-Antromyces rhododendri Sousa da Câmara & Luz SPECIES
-=======
+# Antromyces rhododendri Sousa da Câmara & Luz SPECIES
 
 #### Status
 ACCEPTED

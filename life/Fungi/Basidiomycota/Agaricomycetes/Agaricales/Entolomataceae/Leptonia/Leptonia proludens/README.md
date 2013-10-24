@@ -1,5 +1,4 @@
-Leptonia proludens (Britzelm.) Sacc. SPECIES
-=======
+# Leptonia proludens (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

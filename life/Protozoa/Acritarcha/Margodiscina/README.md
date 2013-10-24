@@ -1,5 +1,4 @@
-Margodiscina GENUS
-=======
+# Margodiscina GENUS
 
 #### Status
 ACCEPTED

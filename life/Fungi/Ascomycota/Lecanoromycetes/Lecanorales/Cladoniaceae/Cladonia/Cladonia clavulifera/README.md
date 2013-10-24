@@ -1,5 +1,4 @@
-Cladonia clavulifera Vain. SPECIES
-=======
+# Cladonia clavulifera Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Erysiphe togashiana var. togashiana VARIETY
-=======
+# Erysiphe togashiana (U. Braun) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Schlechtendalia 4: 24 (2000)
 
 #### Original name
-Erysiphe togashiana var. togashiana
+Uncinula togashiana U. Braun
 
 ### Remarks
 null

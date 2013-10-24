@@ -1,5 +1,4 @@
-Bipolaris melinidis Alcorn SPECIES
-=======
+# Bipolaris melinidis Alcorn SPECIES
 
 #### Status
 ACCEPTED

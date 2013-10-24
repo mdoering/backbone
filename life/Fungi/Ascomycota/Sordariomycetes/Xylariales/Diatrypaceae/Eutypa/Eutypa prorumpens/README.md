@@ -1,14 +1,13 @@
-Valsa prorumpens (Wallr.) Nitschke, 1867 SPECIES
-=======
+# Eutypa prorumpens (Wallr.) Sacc., 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 1: 172 (1882)
 
 #### Original name
 Sphaeria prorumpens Wallr., 1823

@@ -1,5 +1,4 @@
-Lycoperdon lignigenum Henn. & E. Nyman SPECIES
-=======
+# Lycoperdon lignigenum Henn. & E. Nyman SPECIES
 
 #### Status
 ACCEPTED

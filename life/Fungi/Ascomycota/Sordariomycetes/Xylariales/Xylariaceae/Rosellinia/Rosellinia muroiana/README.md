@@ -1,5 +1,4 @@
-Rosellinia muroiana I. Hino & Katum. SPECIES
-=======
+# Rosellinia muroiana I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

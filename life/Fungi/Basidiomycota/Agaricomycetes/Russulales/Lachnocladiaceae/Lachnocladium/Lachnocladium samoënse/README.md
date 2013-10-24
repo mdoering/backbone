@@ -1,5 +1,4 @@
-Lachnocladium samoënse Henn. SPECIES
-=======
+# Lachnocladium samoënse Henn. SPECIES
 
 #### Status
 ACCEPTED

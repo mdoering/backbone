@@ -1,5 +1,4 @@
-Tremella turbinata Schumach. SPECIES
-=======
+# Tremella turbinata Schumach. SPECIES
 
 #### Status
 ACCEPTED

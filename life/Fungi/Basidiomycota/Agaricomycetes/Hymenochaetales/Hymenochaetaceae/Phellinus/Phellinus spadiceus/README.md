@@ -1,5 +1,4 @@
-Phellinus spadiceus (Berk.) G. Cunn. SPECIES
-=======
+# Phellinus spadiceus (Berk.) G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

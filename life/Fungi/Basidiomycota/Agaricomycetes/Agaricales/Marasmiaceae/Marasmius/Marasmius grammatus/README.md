@@ -1,5 +1,4 @@
-Marasmius grammatus Pat. SPECIES
-=======
+# Marasmius grammatus Pat. SPECIES
 
 #### Status
 ACCEPTED

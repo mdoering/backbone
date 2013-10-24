@@ -1,5 +1,4 @@
-Arthopyrenia nigrofurfuracea B. de Lesd. SPECIES
-=======
+# Arthopyrenia nigrofurfuracea B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Crepidotus payettensis Hesler & A.H. Sm. SPECIES
-=======
+# Crepidotus payettensis Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

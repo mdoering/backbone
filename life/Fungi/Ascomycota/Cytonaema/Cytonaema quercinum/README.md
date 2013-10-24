@@ -1,5 +1,4 @@
-Cytonaema quercinum Potl. SPECIES
-=======
+# Cytonaema quercinum Potl. SPECIES
 
 #### Status
 ACCEPTED

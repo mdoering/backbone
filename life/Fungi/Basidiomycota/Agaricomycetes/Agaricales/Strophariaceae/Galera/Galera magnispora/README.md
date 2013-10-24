@@ -1,5 +1,4 @@
-Galera magnispora (Murrill) Murrill SPECIES
-=======
+# Galera magnispora (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

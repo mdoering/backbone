@@ -1,5 +1,4 @@
-Calonectria pteridis Crous, M.J. Wingf. & Alfenas, 1993 SPECIES
-=======
+# Calonectria pteridis Crous, M.J. Wingf. & Alfenas, 1993 SPECIES
 
 #### Status
 ACCEPTED

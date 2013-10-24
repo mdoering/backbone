@@ -1,5 +1,4 @@
-Hilidicellites oblongatus (P. Ke & Z.Y. Shi) Kalgutkar & Janson. SPECIES
-=======
+# Hilidicellites oblongatus (P. Ke & Z.Y. Shi) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

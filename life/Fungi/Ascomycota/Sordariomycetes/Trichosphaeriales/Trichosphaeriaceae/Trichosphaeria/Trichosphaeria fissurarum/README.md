@@ -1,5 +1,4 @@
-Trichosphaeria fissurarum (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Trichosphaeria fissurarum (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

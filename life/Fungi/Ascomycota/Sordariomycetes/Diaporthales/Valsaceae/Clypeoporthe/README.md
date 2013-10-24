@@ -1,5 +1,4 @@
-Clypeoporthe Höhn. GENUS
-=======
+# Clypeoporthe Höhn. GENUS
 
 #### Status
 ACCEPTED

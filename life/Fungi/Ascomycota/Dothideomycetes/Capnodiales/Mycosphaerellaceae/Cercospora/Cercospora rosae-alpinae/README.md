@@ -1,5 +1,4 @@
-Cercospora rosae-alpinae C. Massal. SPECIES
-=======
+# Cercospora rosae-alpinae C. Massal. SPECIES
 
 #### Status
 ACCEPTED

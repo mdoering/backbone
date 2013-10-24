@@ -1,5 +1,4 @@
-Sphaeronaema talcahuanense Speg. SPECIES
-=======
+# Sphaeronaema talcahuanense Speg. SPECIES
 
 #### Status
 ACCEPTED

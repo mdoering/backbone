@@ -1,5 +1,4 @@
-Urocystis parallela (Berk.) A.A. Fisch. Waldh. SPECIES
-=======
+# Urocystis parallela (Berk.) A.A. Fisch. Waldh. SPECIES
 
 #### Status
 ACCEPTED

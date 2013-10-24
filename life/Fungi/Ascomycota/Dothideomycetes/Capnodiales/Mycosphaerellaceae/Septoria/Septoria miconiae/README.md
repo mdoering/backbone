@@ -1,5 +1,4 @@
-Septoria miconiae Rangel SPECIES
-=======
+# Septoria miconiae Rangel SPECIES
 
 #### Status
 ACCEPTED

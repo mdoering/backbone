@@ -1,5 +1,4 @@
-Chamaeceras bombycorhizus (Berk. & Cooke) Kuntze SPECIES
-=======
+# Chamaeceras bombycorhizus (Berk. & Cooke) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Terfezia oligosperma Tul. & C. Tul. SPECIES
-=======
+# Terfezia oligosperma Tul. & C. Tul. SPECIES
 
 #### Status
 ACCEPTED

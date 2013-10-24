@@ -1,5 +1,4 @@
-Epicymatia microspora Speg. SPECIES
-=======
+# Epicymatia microspora Speg. SPECIES
 
 #### Status
 ACCEPTED

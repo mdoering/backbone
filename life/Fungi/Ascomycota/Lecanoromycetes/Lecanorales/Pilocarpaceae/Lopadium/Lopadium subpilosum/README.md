@@ -1,5 +1,4 @@
-Lopadium subpilosum (Vain.) Zahlbr. SPECIES
-=======
+# Lopadium subpilosum (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

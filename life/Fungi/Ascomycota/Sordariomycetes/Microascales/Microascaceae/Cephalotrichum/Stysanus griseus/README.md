@@ -1,5 +1,4 @@
-Stysanus griseus (Corda) Bonord. SPECIES
-=======
+# Stysanus griseus (Corda) Bonord. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora zederbaueri J. Steiner SPECIES
-=======
+# Lecanora zederbaueri J. Steiner SPECIES
 
 #### Status
 ACCEPTED

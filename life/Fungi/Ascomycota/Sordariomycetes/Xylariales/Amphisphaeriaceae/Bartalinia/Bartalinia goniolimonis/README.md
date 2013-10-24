@@ -1,5 +1,4 @@
-Bartalinia goniolimonis Andrian. & Minter SPECIES
-=======
+# Bartalinia goniolimonis Andrian. & Minter SPECIES
 
 #### Status
 ACCEPTED

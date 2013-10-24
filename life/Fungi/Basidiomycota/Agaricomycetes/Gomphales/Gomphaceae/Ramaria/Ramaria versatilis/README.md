@@ -1,5 +1,4 @@
-Ramaria versatilis var. latispora R.H. Petersen VARIETY
-=======
+# Ramaria versatilis Quél. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Sydowia 40: 220 (1988)
+Compt. Rend. Assoc. Franç. Avancem. Sci. 21: 6 (1893)
 
 #### Original name
-Ramaria versatilis var. latispora R.H. Petersen
+Ramaria versatilis Quél.
 
 ### Remarks
 null

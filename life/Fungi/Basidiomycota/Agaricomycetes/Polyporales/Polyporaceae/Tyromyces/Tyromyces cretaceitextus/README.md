@@ -1,5 +1,4 @@
-Tyromyces cretaceitextus Corner SPECIES
-=======
+# Tyromyces cretaceitextus Corner SPECIES
 
 #### Status
 ACCEPTED

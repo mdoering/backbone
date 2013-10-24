@@ -1,5 +1,4 @@
-Agaricus aimatospermus Bull. SPECIES
-=======
+# Agaricus aimatospermus Bull. SPECIES
 
 #### Status
 ACCEPTED

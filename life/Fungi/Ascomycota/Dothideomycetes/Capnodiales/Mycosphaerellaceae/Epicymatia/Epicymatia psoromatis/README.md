@@ -1,5 +1,4 @@
-Epicymatia psoromatis (C. Massal.) Sacc. SPECIES
-=======
+# Epicymatia psoromatis (C. Massal.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

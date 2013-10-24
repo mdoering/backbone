@@ -1,5 +1,4 @@
-Arthroderma benhamiae Ajello & S.L. Cheng, 1967 SPECIES
-=======
+# Arthroderma benhamiae Ajello & S.L. Cheng, 1967 SPECIES
 
 #### Status
 ACCEPTED

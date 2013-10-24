@@ -1,17 +1,16 @@
-Leptostroma osmundicolum Bubák & Syd. SPECIES
-=======
+# Leptostroma osmundicola Bubák & Syd., 1915 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Leptostroma osmundicolum Bubák & Syd.
+Leptostroma osmundicola Bubák & Syd., 1915
 
 ### Remarks
 null

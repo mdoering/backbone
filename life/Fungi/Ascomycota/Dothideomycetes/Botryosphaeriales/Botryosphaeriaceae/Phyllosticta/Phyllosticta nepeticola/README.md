@@ -1,5 +1,4 @@
-Phyllosticta nepeticola Melnik SPECIES
-=======
+# Phyllosticta nepeticola Melnik SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Magnentactinia Won, 1997 GENUS
-=======
+# Magnentactinia Won, 1997 GENUS
 
 #### Status
 ACCEPTED

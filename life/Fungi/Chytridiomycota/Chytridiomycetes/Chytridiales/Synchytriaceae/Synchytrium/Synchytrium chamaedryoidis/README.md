@@ -1,5 +1,4 @@
-Synchytrium chamaedryoidis Karling SPECIES
-=======
+# Synchytrium chamaedryoidis Karling SPECIES
 
 #### Status
 ACCEPTED

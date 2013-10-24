@@ -1,5 +1,4 @@
-Bacisphaeridium granulatum Uutela & Tynni, 1991 SPECIES
-=======
+# Bacisphaeridium granulatum Uutela & Tynni, 1991 SPECIES
 
 #### Status
 ACCEPTED

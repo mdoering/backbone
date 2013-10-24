@@ -1,5 +1,4 @@
-Didymosporium radicicola Ts. Kobay. & C. Oishi SPECIES
-=======
+# Didymosporium radicicola Ts. Kobay. & C. Oishi SPECIES
 
 #### Status
 ACCEPTED

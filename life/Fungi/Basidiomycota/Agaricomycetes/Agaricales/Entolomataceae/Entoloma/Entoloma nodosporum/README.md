@@ -1,5 +1,4 @@
-Entoloma nodosporum (G.F. Atk.) Noordel. SPECIES
-=======
+# Entoloma nodosporum (G.F. Atk.) Noordel. SPECIES
 
 #### Status
 ACCEPTED

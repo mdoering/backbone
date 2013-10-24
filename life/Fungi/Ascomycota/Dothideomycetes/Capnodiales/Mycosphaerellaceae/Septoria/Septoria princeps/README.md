@@ -1,5 +1,4 @@
-Septoria princeps Berk. & Broome SPECIES
-=======
+# Septoria princeps Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

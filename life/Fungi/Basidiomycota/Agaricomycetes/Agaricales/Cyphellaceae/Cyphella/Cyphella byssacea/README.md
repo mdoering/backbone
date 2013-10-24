@@ -1,5 +1,4 @@
-Cyphella byssacea Henn. & E. Nyman SPECIES
-=======
+# Cyphella byssacea Henn. & E. Nyman SPECIES
 
 #### Status
 ACCEPTED

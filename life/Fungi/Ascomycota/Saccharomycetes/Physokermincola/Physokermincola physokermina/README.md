@@ -1,5 +1,4 @@
-Physokermincola physokermina (ulc) Brain SPECIES
-=======
+# Physokermincola physokermina (ulc) Brain SPECIES
 
 #### Status
 ACCEPTED

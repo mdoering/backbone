@@ -1,5 +1,4 @@
-Encoeliopsis Kirschstein, 1935 GENUS
-=======
+# Encoeliopsis Kirschstein, 1935 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora bupleurina Lobik SPECIES
-=======
+# Cercospora bupleurina Lobik SPECIES
 
 #### Status
 ACCEPTED

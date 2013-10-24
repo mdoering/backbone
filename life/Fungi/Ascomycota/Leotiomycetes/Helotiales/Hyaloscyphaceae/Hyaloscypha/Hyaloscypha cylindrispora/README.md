@@ -1,5 +1,4 @@
-Hyaloscypha cylindrispora var. cylindrispora Velen. VARIETY
-=======
+# Hyaloscypha cylindrispora Velen. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Monogr. Discom. Bohem. (Prague) 276 (1934)
 
 #### Original name
-Hyaloscypha cylindrispora var. cylindrispora Velen.
+Hyaloscypha cylindrispora Velen.
 
 ### Remarks
 null

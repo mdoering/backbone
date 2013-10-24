@@ -1,5 +1,4 @@
-Amphisphaeria deutziae (E. Müll.) J.C. Krug SPECIES
-=======
+# Amphisphaeria deutziae (E. Müll.) J.C. Krug SPECIES
 
 #### Status
 ACCEPTED

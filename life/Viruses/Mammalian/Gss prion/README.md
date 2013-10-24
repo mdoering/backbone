@@ -1,5 +1,4 @@
-Gss prion (Gerstmann-Sträussler-Scheinker syndrome) SPECIES
-=======
+# Gss prion (Gerstmann-Sträussler-Scheinker syndrome) SPECIES
 
 #### Status
 ACCEPTED

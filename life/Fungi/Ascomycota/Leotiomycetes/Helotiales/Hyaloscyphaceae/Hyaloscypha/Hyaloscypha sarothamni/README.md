@@ -1,5 +1,4 @@
-Hyaloscypha sarothamni Velen. SPECIES
-=======
+# Hyaloscypha sarothamni Velen. SPECIES
 
 #### Status
 ACCEPTED

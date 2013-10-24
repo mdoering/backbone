@@ -1,5 +1,4 @@
-Gonospora mercieri Cuénot, 1912 SPECIES
-=======
+# Gonospora mercieri Cuénot, 1912 SPECIES
 
 #### Status
 ACCEPTED

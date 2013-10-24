@@ -1,5 +1,4 @@
-Auriculoscypha anacardiicola D.A. Reid & Manim., 1985 SPECIES
-=======
+# Auriculoscypha anacardiicola D.A. Reid & Manim., 1985 SPECIES
 
 #### Status
 ACCEPTED

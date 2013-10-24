@@ -1,5 +1,4 @@
-Baltisphaerosum R.E. Turner, 1984 GENUS
-=======
+# Baltisphaerosum R.E. Turner, 1984 GENUS
 
 #### Status
 ACCEPTED

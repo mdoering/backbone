@@ -1,5 +1,4 @@
-Cytospora simplex Höhn. SPECIES
-=======
+# Cytospora simplex Höhn. SPECIES
 
 #### Status
 ACCEPTED

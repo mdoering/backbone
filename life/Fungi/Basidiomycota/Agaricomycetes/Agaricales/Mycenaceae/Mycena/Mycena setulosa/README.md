@@ -1,5 +1,4 @@
-Mycena setulosa Joss. & A.H. Sm. SPECIES
-=======
+# Mycena setulosa Joss. & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

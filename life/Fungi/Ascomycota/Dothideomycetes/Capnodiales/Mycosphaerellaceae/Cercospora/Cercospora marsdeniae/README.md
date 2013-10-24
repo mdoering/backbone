@@ -1,5 +1,4 @@
-Cercospora marsdeniae Hansf. SPECIES
-=======
+# Cercospora marsdeniae Hansf. SPECIES
 
 #### Status
 ACCEPTED

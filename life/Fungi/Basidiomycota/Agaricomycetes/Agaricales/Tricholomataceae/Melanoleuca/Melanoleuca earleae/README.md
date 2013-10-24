@@ -1,5 +1,4 @@
-Melanoleuca earleae Murrill SPECIES
-=======
+# Melanoleuca earleae Murrill SPECIES
 
 #### Status
 ACCEPTED

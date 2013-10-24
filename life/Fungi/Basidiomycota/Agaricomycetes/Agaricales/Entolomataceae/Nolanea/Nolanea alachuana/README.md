@@ -1,5 +1,4 @@
-Nolanea alachuana Murrill SPECIES
-=======
+# Nolanea alachuana Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amerosporium rhodospermum McAlpine SPECIES
-=======
+# Amerosporium rhodospermum McAlpine SPECIES
 
 #### Status
 ACCEPTED

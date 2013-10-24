@@ -1,5 +1,4 @@
-Fusarium funicola Tassi SPECIES
-=======
+# Fusarium funicola Tassi SPECIES
 
 #### Status
 ACCEPTED

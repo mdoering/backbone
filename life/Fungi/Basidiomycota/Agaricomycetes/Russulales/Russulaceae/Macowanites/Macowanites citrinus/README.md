@@ -1,5 +1,4 @@
-Macowanites citrinus Singer & A.H. Sm. SPECIES
-=======
+# Macowanites citrinus Singer & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

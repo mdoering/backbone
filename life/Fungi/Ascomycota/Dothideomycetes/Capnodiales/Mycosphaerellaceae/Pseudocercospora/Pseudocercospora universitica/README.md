@@ -1,5 +1,4 @@
-Pseudocercospora universitica C.D. Sharma & A.N. Rai SPECIES
-=======
+# Pseudocercospora universitica C.D. Sharma & A.N. Rai SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectria neogrammicospora Samuels, 1988 SPECIES
-=======
+# Nectria neogrammicospora Samuels, 1988 SPECIES
 
 #### Status
 ACCEPTED

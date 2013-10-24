@@ -1,5 +1,4 @@
-Merulius viridis (Schwein.) Kuntze SPECIES
-=======
+# Merulius viridis (Schwein.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

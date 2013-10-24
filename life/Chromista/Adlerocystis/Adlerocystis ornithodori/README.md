@@ -1,5 +1,4 @@
-Adlerocystis ornithodori Feldm.-Muhs. & Havivi SPECIES
-=======
+# Adlerocystis ornithodori Feldm.-Muhs. & Havivi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidia crozalsiana (H. Olivier) Zahlbr. SPECIES
-=======
+# Bacidia crozalsiana (H. Olivier) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

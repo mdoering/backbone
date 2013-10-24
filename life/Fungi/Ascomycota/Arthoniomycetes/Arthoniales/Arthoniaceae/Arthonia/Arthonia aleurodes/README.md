@@ -1,5 +1,4 @@
-Arthonia aleurodes Nyl. SPECIES
-=======
+# Arthonia aleurodes Nyl. SPECIES
 
 #### Status
 ACCEPTED

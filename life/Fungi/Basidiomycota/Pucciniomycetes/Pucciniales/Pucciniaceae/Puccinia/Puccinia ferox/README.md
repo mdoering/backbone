@@ -1,5 +1,4 @@
-Puccinia ferox Dietel & Holw. SPECIES
-=======
+# Puccinia ferox Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

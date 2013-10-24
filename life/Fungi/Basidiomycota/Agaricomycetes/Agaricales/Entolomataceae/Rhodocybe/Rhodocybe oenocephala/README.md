@@ -1,5 +1,4 @@
-Rhodocybe oenocephala Raithelh. SPECIES
-=======
+# Rhodocybe oenocephala Raithelh. SPECIES
 
 #### Status
 ACCEPTED

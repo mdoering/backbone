@@ -1,8 +1,7 @@
-Leptosphaeria haszlinszkyi Sacc., 1883 SPECIES
-=======
+# Leptosphaeria hazslinszkii Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Leptosphaeria hazslinszkii Sacc., 1883
 
 ### Remarks
 null

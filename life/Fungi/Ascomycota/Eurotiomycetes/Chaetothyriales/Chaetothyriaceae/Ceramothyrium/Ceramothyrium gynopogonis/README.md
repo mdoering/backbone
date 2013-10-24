@@ -1,5 +1,4 @@
-Ceramothyrium gynopogonis (Keissl.) Bat. & Cif. SPECIES
-=======
+# Ceramothyrium gynopogonis (Keissl.) Bat. & Cif. SPECIES
 
 #### Status
 ACCEPTED

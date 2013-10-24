@@ -1,5 +1,4 @@
-Achroomyces insignis Hauerslev, 1993 SPECIES
-=======
+# Achroomyces insignis Hauerslev, 1993 SPECIES
 
 #### Status
 ACCEPTED

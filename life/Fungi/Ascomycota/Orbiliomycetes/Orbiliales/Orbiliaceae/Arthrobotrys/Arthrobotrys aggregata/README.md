@@ -1,5 +1,4 @@
-Arthrobotrys aggregata Mekht. SPECIES
-=======
+# Arthrobotrys aggregata Mekht. SPECIES
 
 #### Status
 ACCEPTED

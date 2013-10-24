@@ -1,5 +1,4 @@
-Didymostilbe australiensis Goh & K.D. Hyde SPECIES
-=======
+# Didymostilbe australiensis Goh & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Uredo labiatarum var. menthae VARIETY
-=======
+# Uredo menthae Schumach. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+Index Fungorum
 
 #### Published in
-null
+Enum. pl. (Kjbenhavn) 2: 233 (1803)
 
 #### Original name
-null
+Uredo menthae Schumach.
 
 ### Remarks
 null

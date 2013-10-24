@@ -1,5 +1,4 @@
-Comasphaeridium densispinosum Vidal in Vidal & Peel, 1993 SPECIES
-=======
+# Comasphaeridium densispinosum Vidal in Vidal & Peel, 1993 SPECIES
 
 #### Status
 ACCEPTED

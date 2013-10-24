@@ -1,5 +1,4 @@
-Darbyella Howe & Wallace, 1933 GENUS
-=======
+# Darbyella Howe & Wallace, 1933 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physosporella transversalis (Syd.) Höhn. SPECIES
-=======
+# Physosporella transversalis (Syd.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

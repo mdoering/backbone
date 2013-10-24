@@ -1,5 +1,4 @@
-Gyalidea japonica H. Harada & Vezda SPECIES
-=======
+# Gyalidea japonica H. Harada & Vezda SPECIES
 
 #### Status
 ACCEPTED

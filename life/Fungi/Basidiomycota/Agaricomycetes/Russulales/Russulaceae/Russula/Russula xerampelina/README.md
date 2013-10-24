@@ -1,17 +1,16 @@
-Agaricus rubellus subsp. rubellus Scop. SUBSPECIES
-=======
+# Russula xerampelina (Schaeff.) Fr., 1838 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Epicr. syst. mycol. (Upsaliae) 356 (1838)
 
 #### Original name
-Agaricus rubellus subsp. rubellus Scop.
+Agaricus xerampelinus Schaeff., 1770
 
 ### Remarks
 null

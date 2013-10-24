@@ -1,5 +1,4 @@
-Pyronema tapesioides var. tapesioides VARIETY
-=======
+# Pyronema tapesioides Rehm SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pyronema tapesioides var. tapesioides
+Pyronema tapesioides Rehm
 
 ### Remarks
 null

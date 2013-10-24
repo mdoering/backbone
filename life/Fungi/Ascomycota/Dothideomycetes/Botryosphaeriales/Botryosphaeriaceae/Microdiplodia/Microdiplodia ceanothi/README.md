@@ -1,5 +1,4 @@
-Microdiplodia ceanothi Dearn. & House SPECIES
-=======
+# Microdiplodia ceanothi Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

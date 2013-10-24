@@ -1,5 +1,4 @@
-Leptosphaeria meridionalis D. Sacc. SPECIES
-=======
+# Leptosphaeria meridionalis D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

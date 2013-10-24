@@ -1,5 +1,4 @@
-Opegrapha septemseptata Vain. SPECIES
-=======
+# Opegrapha septemseptata Vain. SPECIES
 
 #### Status
 ACCEPTED

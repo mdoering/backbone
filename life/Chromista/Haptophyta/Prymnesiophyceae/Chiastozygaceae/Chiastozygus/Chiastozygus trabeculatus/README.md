@@ -1,5 +1,4 @@
-Chiastozygus trabeculatus (H. Górka) J.B. Risatti SPECIES
-=======
+# Chiastozygus trabeculatus (H. Górka) J.B. Risatti SPECIES
 
 #### Status
 ACCEPTED

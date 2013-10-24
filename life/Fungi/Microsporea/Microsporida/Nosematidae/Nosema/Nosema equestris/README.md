@@ -1,5 +1,4 @@
-Nosema equestris SPECIES
-=======
+# Nosema equestris SPECIES
 
 #### Status
 ACCEPTED

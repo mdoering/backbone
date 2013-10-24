@@ -1,5 +1,4 @@
-Xanthoparmelia neocumberlandia T. H. Nash & Elix SPECIES
-=======
+# Xanthoparmelia neocumberlandia T. H. Nash & Elix SPECIES
 
 #### Status
 ACCEPTED

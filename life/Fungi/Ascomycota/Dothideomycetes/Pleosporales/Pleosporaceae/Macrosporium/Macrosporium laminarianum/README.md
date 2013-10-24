@@ -1,5 +1,4 @@
-Macrosporium laminarianum G.K. Sutherl. SPECIES
-=======
+# Macrosporium laminarianum G.K. Sutherl. SPECIES
 
 #### Status
 ACCEPTED

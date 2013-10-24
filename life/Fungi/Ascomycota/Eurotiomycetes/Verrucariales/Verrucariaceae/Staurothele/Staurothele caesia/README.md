@@ -1,17 +1,16 @@
-Staurothele caesia f. caesia FORM
-=======
+# Staurothele caesia (Arnold) Arnold SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Flora, Jena 68: 154 (1885)
 
 #### Original name
-Staurothele caesia f. caesia
+Polyblastia caesia Arnold
 
 ### Remarks
 null

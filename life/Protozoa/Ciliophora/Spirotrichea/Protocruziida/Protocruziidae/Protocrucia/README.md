@@ -1,5 +1,4 @@
-Protocrucia GENUS
-=======
+# Protocrucia GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amerosporium geranii Cooke & Harkn. SPECIES
-=======
+# Amerosporium geranii Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

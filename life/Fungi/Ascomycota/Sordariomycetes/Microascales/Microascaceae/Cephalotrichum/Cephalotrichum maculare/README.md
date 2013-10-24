@@ -1,5 +1,4 @@
-Cephalotrichum maculare (Schwein.) Kuntze SPECIES
-=======
+# Cephalotrichum maculare (Schwein.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

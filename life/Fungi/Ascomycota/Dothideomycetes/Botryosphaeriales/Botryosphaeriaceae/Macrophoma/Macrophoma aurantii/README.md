@@ -1,5 +1,4 @@
-Macrophoma aurantii Scalia SPECIES
-=======
+# Macrophoma aurantii Scalia SPECIES
 
 #### Status
 ACCEPTED

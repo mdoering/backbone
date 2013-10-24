@@ -1,5 +1,4 @@
-Flavobacterium resinovorum Delaporte and Daste, 1956 (Approved Lists, 1980) SPECIES
-=======
+# Flavobacterium resinovorum Delaporte and Daste, 1956 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

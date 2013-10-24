@@ -1,5 +1,4 @@
-Clitocybe testaceoflava Murrill SPECIES
-=======
+# Clitocybe testaceoflava Murrill SPECIES
 
 #### Status
 ACCEPTED

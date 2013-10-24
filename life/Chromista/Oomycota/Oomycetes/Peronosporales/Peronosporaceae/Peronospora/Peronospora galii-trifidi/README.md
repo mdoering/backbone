@@ -1,5 +1,4 @@
-Peronospora galii-trifidi S. Ito & Tokun. SPECIES
-=======
+# Peronospora galii-trifidi S. Ito & Tokun. SPECIES
 
 #### Status
 ACCEPTED

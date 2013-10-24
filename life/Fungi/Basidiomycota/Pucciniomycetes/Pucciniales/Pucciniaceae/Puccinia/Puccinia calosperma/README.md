@@ -1,5 +1,4 @@
-Puccinia calosperma Syd., P. Syd. & E.J. Butler, 1906 SPECIES
-=======
+# Puccinia calosperma Syd., P. Syd. & E.J. Butler, 1906 SPECIES
 
 #### Status
 ACCEPTED

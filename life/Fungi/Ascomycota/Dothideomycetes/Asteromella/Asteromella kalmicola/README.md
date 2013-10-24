@@ -1,5 +1,4 @@
-Asteromella kalmicola (Schwein.) Petr. SPECIES
-=======
+# Asteromella kalmicola (Schwein.) Petr. SPECIES
 
 #### Status
 ACCEPTED

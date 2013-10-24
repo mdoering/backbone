@@ -1,5 +1,4 @@
-Polyporus putidus Fr. SPECIES
-=======
+# Polyporus putidus Fr. SPECIES
 
 #### Status
 ACCEPTED

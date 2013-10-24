@@ -1,5 +1,4 @@
-Macrophoma vincae (Curr.) Berl. & Voglino SPECIES
-=======
+# Macrophoma vincae (Curr.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

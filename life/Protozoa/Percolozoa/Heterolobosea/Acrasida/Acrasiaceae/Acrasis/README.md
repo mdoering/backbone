@@ -1,17 +1,16 @@
-Acrasia GENUS
-=======
+# Acrasis Tiegh. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Soc. bot. Fr. 27: 318 (1880)
 
 #### Original name
-null
+Acrasis Tiegh.
 
 ### Remarks
 null

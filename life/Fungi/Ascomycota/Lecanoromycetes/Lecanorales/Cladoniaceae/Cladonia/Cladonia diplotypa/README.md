@@ -1,5 +1,4 @@
-Cladonia diplotypa Nyl. SPECIES
-=======
+# Cladonia diplotypa Nyl. SPECIES
 
 #### Status
 ACCEPTED

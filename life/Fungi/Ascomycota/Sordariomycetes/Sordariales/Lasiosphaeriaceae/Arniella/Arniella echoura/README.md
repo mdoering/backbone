@@ -1,5 +1,4 @@
-Arniella echoura Jeng & J.C. Krug, 1977 SPECIES
-=======
+# Arniella echoura Jeng & J.C. Krug, 1977 SPECIES
 
 #### Status
 ACCEPTED

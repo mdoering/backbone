@@ -1,5 +1,4 @@
-Lachnea nuda Velen. SPECIES
-=======
+# Lachnea nuda Velen. SPECIES
 
 #### Status
 ACCEPTED

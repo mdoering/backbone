@@ -1,5 +1,4 @@
-Helotium phacidioides Sacc. SPECIES
-=======
+# Helotium phacidioides Sacc. SPECIES
 
 #### Status
 ACCEPTED

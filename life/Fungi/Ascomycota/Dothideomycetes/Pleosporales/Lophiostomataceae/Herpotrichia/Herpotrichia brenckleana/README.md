@@ -1,5 +1,4 @@
-Herpotrichia brenckleana Petr. SPECIES
-=======
+# Herpotrichia brenckleana Petr. SPECIES
 
 #### Status
 ACCEPTED

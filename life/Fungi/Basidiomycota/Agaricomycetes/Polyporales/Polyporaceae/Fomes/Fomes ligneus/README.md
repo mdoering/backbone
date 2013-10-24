@@ -1,5 +1,4 @@
-Fomes ligneus Murrill SPECIES
-=======
+# Fomes ligneus Murrill SPECIES
 
 #### Status
 ACCEPTED

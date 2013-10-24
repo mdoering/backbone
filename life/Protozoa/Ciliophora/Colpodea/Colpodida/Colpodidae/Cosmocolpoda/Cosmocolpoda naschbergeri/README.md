@@ -1,5 +1,4 @@
-Cosmocolpoda naschbergeri Foissner, 1993 SPECIES
-=======
+# Cosmocolpoda naschbergeri Foissner, 1993 SPECIES
 
 #### Status
 ACCEPTED

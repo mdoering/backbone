@@ -1,5 +1,4 @@
-Penicillium convolutum Udagawa SPECIES
-=======
+# Penicillium convolutum Udagawa SPECIES
 
 #### Status
 ACCEPTED

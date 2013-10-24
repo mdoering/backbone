@@ -1,5 +1,4 @@
-Minakatellaceae Nann.-Bremek. FAMILY
-=======
+# Minakatellaceae Nann.-Bremek. FAMILY
 
 #### Status
 ACCEPTED

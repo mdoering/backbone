@@ -1,5 +1,4 @@
-Ocellularia diplotrema (Nyl.) Zahlbr. SPECIES
-=======
+# Ocellularia diplotrema (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

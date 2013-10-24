@@ -1,5 +1,4 @@
-Stilbella capillamentosa (Preuss) Lindau SPECIES
-=======
+# Stilbella capillamentosa (Preuss) Lindau SPECIES
 
 #### Status
 ACCEPTED

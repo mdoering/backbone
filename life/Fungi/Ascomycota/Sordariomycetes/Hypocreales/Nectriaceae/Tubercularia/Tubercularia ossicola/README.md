@@ -1,5 +1,4 @@
-Tubercularia ossicola Sacc. SPECIES
-=======
+# Tubercularia ossicola Sacc. SPECIES
 
 #### Status
 ACCEPTED

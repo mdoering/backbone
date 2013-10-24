@@ -1,5 +1,4 @@
-Xylomites pistaciae Ettingsh. SPECIES
-=======
+# Xylomites pistaciae Ettingsh. SPECIES
 
 #### Status
 ACCEPTED

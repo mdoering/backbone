@@ -1,5 +1,4 @@
-Agostaea nigra (F. Stevens) Jenkins & Thirum. SPECIES
-=======
+# Agostaea nigra (F. Stevens) Jenkins & Thirum. SPECIES
 
 #### Status
 ACCEPTED

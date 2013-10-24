@@ -1,8 +1,7 @@
-Ectocarpus geminatus J.D. Hooker & Harvey SPECIES
-=======
+# Geminocarpus geminatus (J.D. Hooker & Harvey) Skottsberg SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Cylindrosporella smilacina (Bubák) Arx SPECIES
-=======
+# Cylindrosporella smilacina (Bubák) Arx SPECIES
 
 #### Status
 ACCEPTED

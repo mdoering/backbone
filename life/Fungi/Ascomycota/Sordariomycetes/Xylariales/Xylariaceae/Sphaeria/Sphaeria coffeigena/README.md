@@ -1,5 +1,4 @@
-Sphaeria coffeigena Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeria coffeigena Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza sphagni Bong. SPECIES
-=======
+# Peziza sphagni Bong. SPECIES
 
 #### Status
 ACCEPTED

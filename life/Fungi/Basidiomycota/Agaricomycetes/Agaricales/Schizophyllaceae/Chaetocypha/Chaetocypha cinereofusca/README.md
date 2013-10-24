@@ -1,5 +1,4 @@
-Chaetocypha cinereofusca (Schwein.) Kuntze SPECIES
-=======
+# Chaetocypha cinereofusca (Schwein.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

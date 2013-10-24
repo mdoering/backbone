@@ -1,5 +1,4 @@
-Lactarius adscitus Britzelm. SPECIES
-=======
+# Lactarius adscitus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

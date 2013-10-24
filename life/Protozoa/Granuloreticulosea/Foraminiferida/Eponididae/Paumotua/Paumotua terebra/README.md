@@ -1,8 +1,7 @@
-Eponides terebra Cushman, 1933 SPECIES
-=======
+# Paumotua terebra (Cushman, 1930) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

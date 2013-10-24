@@ -1,5 +1,4 @@
-Exochoderma triangulata Wicander & Wood, 1981 SPECIES
-=======
+# Exochoderma triangulata Wicander & Wood, 1981 SPECIES
 
 #### Status
 ACCEPTED

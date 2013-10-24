@@ -1,5 +1,4 @@
-Dimeromyces decipiens Thaxt. SPECIES
-=======
+# Dimeromyces decipiens Thaxt. SPECIES
 
 #### Status
 ACCEPTED

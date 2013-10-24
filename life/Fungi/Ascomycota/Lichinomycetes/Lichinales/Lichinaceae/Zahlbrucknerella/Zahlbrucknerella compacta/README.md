@@ -1,5 +1,4 @@
-Zahlbrucknerella compacta Henssen SPECIES
-=======
+# Zahlbrucknerella compacta Henssen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Multifurca Buyck & V. Hofstetter GENUS
-=======
+# Multifurca Buyck & V. Hofstetter GENUS
 
 #### Status
 ACCEPTED

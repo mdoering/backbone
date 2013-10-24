@@ -1,5 +1,4 @@
-Belonidium spilogenum Syd. SPECIES
-=======
+# Belonidium spilogenum Syd. SPECIES
 
 #### Status
 ACCEPTED

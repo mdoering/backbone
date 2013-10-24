@@ -1,5 +1,4 @@
-Anomomyces Höhn. GENUS
-=======
+# Anomomyces Höhn. GENUS
 
 #### Status
 ACCEPTED

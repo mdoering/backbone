@@ -1,5 +1,4 @@
-Septoria valerianellae Miles SPECIES
-=======
+# Septoria valerianellae Miles SPECIES
 
 #### Status
 ACCEPTED

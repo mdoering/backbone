@@ -1,14 +1,13 @@
-Lecidora stenotropa (Nyl.) Motyka SPECIES
-=======
+# Lecanora stenotropa Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Porosty (Lichenes). <b>2</b> (Lublin), Rodzina <i>Lecanoraceae</i>. <i>Pinacisca</i>, <i>Lecidorina</i>, <i>Urceolaria</i>, <i>Semilecanora</i>, <i>Paraplacodium</i>, <i>Koerberiella</i>, <i>Lecidora</i>, <i>Pseudoplacodium</i>, <i>Tephromela</i> 458 (1996)
+Flora, Jena 55: 251 (1872)
 
 #### Original name
 Lecanora stenotropa Nyl.

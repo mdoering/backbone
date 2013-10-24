@@ -1,5 +1,4 @@
-Ionaspis epulotica f. epulotica FORM
-=======
+# Ionaspis epulotica (Ach.) Blomb. & Forssell SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ionaspis epulotica f. epulotica
+null
 
 ### Remarks
 null

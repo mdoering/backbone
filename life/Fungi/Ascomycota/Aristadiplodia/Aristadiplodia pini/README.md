@@ -1,5 +1,4 @@
-Aristadiplodia pini Shirai SPECIES
-=======
+# Aristadiplodia pini Shirai SPECIES
 
 #### Status
 ACCEPTED

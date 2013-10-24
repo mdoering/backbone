@@ -1,5 +1,4 @@
-Albugo mysorensis (Thirum. & Safeeulla) Vasudeva SPECIES
-=======
+# Albugo mysorensis (Thirum. & Safeeulla) Vasudeva SPECIES
 
 #### Status
 ACCEPTED

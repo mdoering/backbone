@@ -1,5 +1,4 @@
-Hemimycena subnigricans (Murrill) Singer SPECIES
-=======
+# Hemimycena subnigricans (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

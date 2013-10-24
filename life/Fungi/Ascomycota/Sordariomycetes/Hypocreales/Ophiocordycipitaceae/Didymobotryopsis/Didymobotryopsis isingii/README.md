@@ -1,5 +1,4 @@
-Didymobotryopsis isingii Hansf. SPECIES
-=======
+# Didymobotryopsis isingii Hansf. SPECIES
 
 #### Status
 ACCEPTED

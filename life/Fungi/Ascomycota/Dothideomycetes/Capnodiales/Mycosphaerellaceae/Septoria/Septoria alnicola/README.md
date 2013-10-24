@@ -1,5 +1,4 @@
-Septoria alnicola Cooke, 1871 SPECIES
-=======
+# Septoria alnicola Cooke, 1871 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Bacillus peoriae Montefusco et al., 1993 SPECIES
-=======
+# Paenibacillus peoriae (Montefusco et al., 1993) Heyndrickx et al., 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

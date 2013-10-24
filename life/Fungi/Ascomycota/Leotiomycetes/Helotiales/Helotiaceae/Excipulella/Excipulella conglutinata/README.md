@@ -1,5 +1,4 @@
-Excipulella conglutinata (Ellis & Everh.) Wehm. SPECIES
-=======
+# Excipulella conglutinata (Ellis & Everh.) Wehm. SPECIES
 
 #### Status
 ACCEPTED

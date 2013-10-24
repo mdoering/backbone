@@ -1,5 +1,4 @@
-Pseudocercospora lindenbergiae P.N. Singh, M.S. Tripathi, A.N. Singh bis & R.K. Chaudhary SPECIES
-=======
+# Pseudocercospora lindenbergiae P.N. Singh, M.S. Tripathi, A.N. Singh bis & R.K. Chaudhary SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta paratropiae Sacc. SPECIES
-=======
+# Phyllosticta paratropiae Sacc. SPECIES
 
 #### Status
 ACCEPTED

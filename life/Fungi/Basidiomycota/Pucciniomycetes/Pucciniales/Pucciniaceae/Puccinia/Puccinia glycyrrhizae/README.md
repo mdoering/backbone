@@ -1,17 +1,16 @@
-Puccinia glycyrhizae F.L. Tai SPECIES
-=======
+# Puccinia glycyrrhizae Rabenh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Farlowia 3: 125 (1947)
 
 #### Original name
-Puccinia glycyrhizae F.L. Tai
+Puccinia glycyrrhizae Rabenh.
 
 ### Remarks
 null

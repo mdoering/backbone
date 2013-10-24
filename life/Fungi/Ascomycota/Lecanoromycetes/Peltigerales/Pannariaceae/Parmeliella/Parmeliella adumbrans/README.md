@@ -1,5 +1,4 @@
-Parmeliella adumbrans f. adumbrans FORM
-=======
+# Parmeliella adumbrans (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Flora, Jena 71: 539 (1888)
 
 #### Original name
-Parmeliella adumbrans f. adumbrans
+Lecidea adumbrans Nyl.
 
 ### Remarks
 null

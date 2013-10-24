@@ -1,5 +1,4 @@
-Piggotia nothofagi P.R. Johnst., 1999 SPECIES
-=======
+# Piggotia nothofagi P.R. Johnst., 1999 SPECIES
 
 #### Status
 ACCEPTED

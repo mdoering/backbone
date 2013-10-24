@@ -1,5 +1,4 @@
-Fissurina rugosa C. Knight SPECIES
-=======
+# Fissurina rugosa C. Knight SPECIES
 
 #### Status
 ACCEPTED

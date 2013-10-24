@@ -1,5 +1,4 @@
-Lyophyllum capniocephalum (Bull.) Kühner SPECIES
-=======
+# Lyophyllum capniocephalum (Bull.) Kühner SPECIES
 
 #### Status
 ACCEPTED

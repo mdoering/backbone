@@ -1,5 +1,4 @@
-Caliciopsis ellisii Sacc. SPECIES
-=======
+# Caliciopsis ellisii Sacc. SPECIES
 
 #### Status
 ACCEPTED

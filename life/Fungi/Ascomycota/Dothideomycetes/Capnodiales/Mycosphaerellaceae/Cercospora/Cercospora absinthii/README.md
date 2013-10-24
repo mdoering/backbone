@@ -1,5 +1,4 @@
-Cercospora absinthii (Peck) Sacc. SPECIES
-=======
+# Cercospora absinthii (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

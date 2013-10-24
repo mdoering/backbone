@@ -1,5 +1,4 @@
-Dictyochora gambellii Fairm. SPECIES
-=======
+# Dictyochora gambellii Fairm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stilbum humanum P. Karst. SPECIES
-=======
+# Stilbum humanum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

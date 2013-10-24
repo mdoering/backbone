@@ -1,5 +1,4 @@
-Botrytis bifurcata J.H. Mill., Giddens & A.A. Foster, 1958 SPECIES
-=======
+# Botrytis bifurcata J.H. Mill., Giddens & A.A. Foster, 1958 SPECIES
 
 #### Status
 ACCEPTED

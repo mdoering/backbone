@@ -1,5 +1,4 @@
-Hypholoma tetricum Herp. SPECIES
-=======
+# Hypholoma tetricum Herp. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lobotheca ambigua (Burmann, 1970) Vavrdová, 1986 SPECIES
-=======
+# Lobotheca ambigua (Burmann, 1970) Vavrdová, 1986 SPECIES
 
 #### Status
 ACCEPTED

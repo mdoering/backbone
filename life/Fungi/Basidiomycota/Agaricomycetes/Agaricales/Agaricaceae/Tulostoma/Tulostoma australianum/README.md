@@ -1,5 +1,4 @@
-Tulostoma australianum Lloyd SPECIES
-=======
+# Tulostoma australianum Lloyd SPECIES
 
 #### Status
 ACCEPTED

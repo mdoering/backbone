@@ -1,5 +1,4 @@
-Geogemma pacifica Kashefi, Holmes & Lovley, 2006 SPECIES
-=======
+# Geogemma pacifica Kashefi, Holmes & Lovley, 2006 SPECIES
 
 #### Status
 ACCEPTED

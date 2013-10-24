@@ -1,5 +1,4 @@
-Methanosaeta thermoacetophila (Nozhevnikova & Chudina, 1988) Patel & Sprott, 1990 SPECIES
-=======
+# Methanosaeta thermoacetophila (Nozhevnikova & Chudina, 1988) Patel & Sprott, 1990 SPECIES
 
 #### Status
 ACCEPTED

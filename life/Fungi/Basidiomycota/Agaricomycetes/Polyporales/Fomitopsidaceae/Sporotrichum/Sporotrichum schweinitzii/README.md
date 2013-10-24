@@ -1,5 +1,4 @@
-Sporotrichum schweinitzii Sacc. SPECIES
-=======
+# Sporotrichum schweinitzii Sacc. SPECIES
 
 #### Status
 ACCEPTED

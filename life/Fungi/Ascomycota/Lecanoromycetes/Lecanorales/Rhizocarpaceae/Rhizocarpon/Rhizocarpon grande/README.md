@@ -1,17 +1,16 @@
-Rhizocarpon grande var. grande (Flörke ex Flot.) Arnold VARIETY
-=======
+# Rhizocarpon grande (Flörke) Arnold SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Flora, Jena 54: 149 (1871)
 
 #### Original name
-Rhizocarpon grande var. grande (Flörke ex Flot.) Arnold
+Lecidea petraea f. grande Flörke ex Flot.
 
 ### Remarks
 null

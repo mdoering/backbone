@@ -1,5 +1,4 @@
-Tremella annulata Willd. SPECIES
-=======
+# Tremella annulata Willd. SPECIES
 
 #### Status
 ACCEPTED

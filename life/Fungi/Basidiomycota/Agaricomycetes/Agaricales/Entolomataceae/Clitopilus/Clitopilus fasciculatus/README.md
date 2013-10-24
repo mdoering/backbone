@@ -1,5 +1,4 @@
-Clitopilus fasciculatus Noordel. SPECIES
-=======
+# Clitopilus fasciculatus Noordel. SPECIES
 
 #### Status
 ACCEPTED

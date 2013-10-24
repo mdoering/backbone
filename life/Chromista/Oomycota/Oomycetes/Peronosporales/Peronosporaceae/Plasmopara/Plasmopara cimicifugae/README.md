@@ -1,5 +1,4 @@
-Plasmopara cimicifugae S. Ito & Tokun. SPECIES
-=======
+# Plasmopara cimicifugae S. Ito & Tokun. SPECIES
 
 #### Status
 ACCEPTED

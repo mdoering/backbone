@@ -1,5 +1,4 @@
-Hysterium corrugatum Fr. SPECIES
-=======
+# Hysterium corrugatum Fr. SPECIES
 
 #### Status
 ACCEPTED

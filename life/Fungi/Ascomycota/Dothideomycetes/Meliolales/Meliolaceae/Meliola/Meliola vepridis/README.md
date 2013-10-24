@@ -1,5 +1,4 @@
-Meliola vepridis Hosag., Kaver., Raghu & Goos SPECIES
-=======
+# Meliola vepridis Hosag., Kaver., Raghu & Goos SPECIES
 
 #### Status
 ACCEPTED

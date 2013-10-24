@@ -1,5 +1,4 @@
-Smittium brevisporum L.G. Valle & Santam., 2004 SPECIES
-=======
+# Smittium brevisporum L.G. Valle & Santam., 2004 SPECIES
 
 #### Status
 ACCEPTED

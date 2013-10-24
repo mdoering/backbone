@@ -1,5 +1,4 @@
-Laboulbenia stomonaxi Thaxt. SPECIES
-=======
+# Laboulbenia stomonaxi Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Cenophaera Ehrenberg, 1854 GENUS
-=======
+# Cenosphaera Ehrenberg, 1854 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monatsber. Akad. Berlin, 1854, tab. post 66, 70 (as Cenosphaera; also as Cenophaera p. 237).
+Monatsber. Akad. Berlin, 1854, tab. post 66, 70 (as Cenophaera p. 237).
 
 #### Original name
 null

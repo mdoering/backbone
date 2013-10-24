@@ -1,5 +1,4 @@
-Ascochyta aspidistrae Massee SPECIES
-=======
+# Ascochyta aspidistrae Massee SPECIES
 
 #### Status
 ACCEPTED

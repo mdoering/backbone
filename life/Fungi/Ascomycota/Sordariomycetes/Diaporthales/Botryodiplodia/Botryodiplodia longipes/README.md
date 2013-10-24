@@ -1,5 +1,4 @@
-Botryodiplodia longipes Penz. & Sacc. SPECIES
-=======
+# Botryodiplodia longipes Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

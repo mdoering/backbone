@@ -1,5 +1,4 @@
-Lactarius austrozonarius H.T. Le & Verbeken SPECIES
-=======
+# Lactarius austrozonarius H.T. Le & Verbeken SPECIES
 
 #### Status
 ACCEPTED

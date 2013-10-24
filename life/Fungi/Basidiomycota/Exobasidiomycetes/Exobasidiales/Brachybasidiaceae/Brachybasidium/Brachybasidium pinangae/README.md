@@ -1,17 +1,16 @@
-Kordyana pinangae Racib., 1900 SPECIES
-=======
+# Brachybasidium pinangae (Racib.) Gäum., 1922 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 20(5/6): 270 (1922)
 
 #### Original name
-null
+Kordyana pinangue Racib.
 
 ### Remarks
 null

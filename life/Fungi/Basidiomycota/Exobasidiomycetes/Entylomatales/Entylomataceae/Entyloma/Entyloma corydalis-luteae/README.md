@@ -1,5 +1,4 @@
-Entyloma corydalis-luteae Voglino SPECIES
-=======
+# Entyloma corydalis-luteae Voglino SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria tabebuiae Petr. & Cif. SPECIES
-=======
+# Septoria tabebuiae Petr. & Cif. SPECIES
 
 #### Status
 ACCEPTED

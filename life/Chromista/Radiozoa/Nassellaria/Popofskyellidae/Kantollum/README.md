@@ -1,5 +1,4 @@
-Kantollum Cheng, 1986 GENUS
-=======
+# Kantollum Cheng, 1986 GENUS
 
 #### Status
 ACCEPTED

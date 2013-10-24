@@ -1,5 +1,4 @@
-Polyporus aurantius Trog SPECIES
-=======
+# Polyporus aurantius Trog SPECIES
 
 #### Status
 ACCEPTED

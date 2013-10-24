@@ -1,5 +1,4 @@
-Cortinarius clintonianus Peck SPECIES
-=======
+# Cortinarius clintonianus Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peronospora hepaticae Casp. SPECIES
-=======
+# Peronospora hepaticae Casp. SPECIES
 
 #### Status
 ACCEPTED

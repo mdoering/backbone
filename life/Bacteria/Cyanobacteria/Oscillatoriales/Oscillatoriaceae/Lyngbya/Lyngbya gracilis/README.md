@@ -1,5 +1,4 @@
-Lyngbya gracilis var. monilis (Setchell & N.L. Gardner) Drouet VARIETY
-=======
+# Lyngbya gracilis (Meneghini) Rabenhorst SPECIES
 
 #### Status
 ACCEPTED

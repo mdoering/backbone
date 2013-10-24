@@ -1,5 +1,4 @@
-Erinella bicolor Pat. SPECIES
-=======
+# Erinella bicolor Pat. SPECIES
 
 #### Status
 ACCEPTED

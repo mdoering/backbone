@@ -1,5 +1,4 @@
-Xylaria aerea Mont. SPECIES
-=======
+# Xylaria aerea Mont. SPECIES
 
 #### Status
 ACCEPTED

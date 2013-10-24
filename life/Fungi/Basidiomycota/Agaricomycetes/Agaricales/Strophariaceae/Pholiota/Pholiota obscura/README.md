@@ -1,5 +1,4 @@
-Pholiota obscura A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota obscura A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo striolata Speg. SPECIES
-=======
+# Uredo striolata Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phlyctidomyces agelaeae E.A. Thomas ex Cif. & Tomas. SPECIES
-=======
+# Phlyctidomyces agelaeae E.A. Thomas ex Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

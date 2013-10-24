@@ -1,5 +1,4 @@
-Rhynchomyces Willkomm, 1866 GENUS
-=======
+# Rhynchomyces Willkomm, 1866 GENUS
 
 #### Status
 ACCEPTED

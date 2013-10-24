@@ -1,5 +1,4 @@
-Hendersonia polymorpha ß rutae Sacc. SPECIES
-=======
+# Hendersonia polymorpha ß rutae Sacc. SPECIES
 
 #### Status
 ACCEPTED

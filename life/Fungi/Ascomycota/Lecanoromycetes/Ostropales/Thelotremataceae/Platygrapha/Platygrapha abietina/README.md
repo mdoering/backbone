@@ -1,5 +1,4 @@
-Platygrapha abietina (Schaer.) Arnold SPECIES
-=======
+# Platygrapha abietina (Schaer.) Arnold SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Phyllachora aggregatula Syd. & P. Syd., 1910 SPECIES
-=======
+# Rehmiodothis osbeckiae (Berk. & Broome) Theiss. & Syd., 1914 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 8(1): 38 (1910)
+Annls mycol. 12(2): 192 (1914)
 
 #### Original name
-Phyllachora aggregatula Syd. & P. Syd., 1910
+Dothidea osbeckiae Berk. & Broome, 1875
 
 ### Remarks
 null

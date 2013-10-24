@@ -1,5 +1,4 @@
-Paragonyaulacysta Johnson & Hills, 1973 GENUS
-=======
+# Paragonyaulacysta Johnson & Hills, 1973 GENUS
 
 #### Status
 ACCEPTED

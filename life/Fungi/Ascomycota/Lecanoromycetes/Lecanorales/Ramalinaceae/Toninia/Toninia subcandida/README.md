@@ -1,5 +1,4 @@
-Toninia subcandida B. de Lesd. SPECIES
-=======
+# Toninia subcandida B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

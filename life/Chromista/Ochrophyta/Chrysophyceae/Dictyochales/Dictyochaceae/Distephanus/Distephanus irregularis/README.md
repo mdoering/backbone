@@ -1,5 +1,4 @@
-Distephanus irregularis Hanna SPECIES
-=======
+# Distephanus irregularis Hanna SPECIES
 
 #### Status
 ACCEPTED

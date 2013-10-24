@@ -1,5 +1,4 @@
-Cyclotella unipunctata Haakansson & Carter SPECIES
-=======
+# Cyclotella unipunctata Haakansson & Carter SPECIES
 
 #### Status
 ACCEPTED

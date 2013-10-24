@@ -1,5 +1,4 @@
-Epichloë elymi Schardl & Leuchtm. SPECIES
-=======
+# Epichloë elymi Schardl & Leuchtm. SPECIES
 
 #### Status
 ACCEPTED

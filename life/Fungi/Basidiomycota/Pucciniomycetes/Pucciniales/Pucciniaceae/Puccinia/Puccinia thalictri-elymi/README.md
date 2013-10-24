@@ -1,5 +1,4 @@
-Puccinia thalictri-elymi Westend. SPECIES
-=======
+# Puccinia thalictri-elymi Westend. SPECIES
 
 #### Status
 ACCEPTED

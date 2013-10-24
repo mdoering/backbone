@@ -1,5 +1,4 @@
-Strickeria halimodendri Gucevic SPECIES
-=======
+# Strickeria halimodendri Gucevic SPECIES
 
 #### Status
 ACCEPTED

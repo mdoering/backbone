@@ -1,5 +1,4 @@
-Gloeosporium trifoliorum Rothers SPECIES
-=======
+# Gloeosporium trifoliorum Rothers SPECIES
 
 #### Status
 ACCEPTED

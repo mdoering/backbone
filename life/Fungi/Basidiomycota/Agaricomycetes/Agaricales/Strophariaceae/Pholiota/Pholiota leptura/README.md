@@ -1,5 +1,4 @@
-Pholiota leptura Kalchbr. SPECIES
-=======
+# Pholiota leptura Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

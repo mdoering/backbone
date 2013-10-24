@@ -1,5 +1,4 @@
-Ophiocapnodium GENUS
-=======
+# Ophiocapnodium GENUS
 
 #### Status
 ACCEPTED

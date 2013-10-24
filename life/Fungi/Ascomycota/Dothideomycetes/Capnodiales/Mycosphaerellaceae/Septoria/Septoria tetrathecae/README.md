@@ -1,5 +1,4 @@
-Septoria tetrathecae B. Sutton & Pascoe SPECIES
-=======
+# Septoria tetrathecae B. Sutton & Pascoe SPECIES
 
 #### Status
 ACCEPTED

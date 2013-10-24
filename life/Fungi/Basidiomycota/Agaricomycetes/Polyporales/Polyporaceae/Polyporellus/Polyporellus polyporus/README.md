@@ -1,5 +1,4 @@
-Polyporellus polyporus (Retz.) Murrill SPECIES
-=======
+# Polyporellus polyporus (Retz.) Murrill SPECIES
 
 #### Status
 ACCEPTED

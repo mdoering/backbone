@@ -1,5 +1,4 @@
-Pleistophora gadi Polyansky, 1955 SPECIES
-=======
+# Pleistophora gadi Polyansky, 1955 SPECIES
 
 #### Status
 ACCEPTED

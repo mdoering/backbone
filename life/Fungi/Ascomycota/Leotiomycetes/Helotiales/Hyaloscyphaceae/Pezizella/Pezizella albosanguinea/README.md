@@ -1,14 +1,13 @@
-Eubelonis albosanguinea Höhn., 1926 SPECIES
-=======
+# Pezizella albosanguinea (Höhn.) Graddon SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mitt. bot. Inst. tech. Hochsch. Wien 3(3): 106 (1926)
+null
 
 #### Original name
 Eubelonis albosanguinea Höhn., 1926

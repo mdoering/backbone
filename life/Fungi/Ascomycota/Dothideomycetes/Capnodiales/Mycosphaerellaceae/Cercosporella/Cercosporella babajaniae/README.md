@@ -1,5 +1,4 @@
-Cercosporella babajaniae Osipian SPECIES
-=======
+# Cercosporella babajaniae Osipian SPECIES
 
 #### Status
 ACCEPTED

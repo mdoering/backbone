@@ -1,5 +1,4 @@
-Callopisma pallidior (Nyl.) Müll. Arg. SPECIES
-=======
+# Callopisma pallidior (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

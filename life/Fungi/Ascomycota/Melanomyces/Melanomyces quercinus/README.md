@@ -1,5 +1,4 @@
-Melanomyces quercinus Syd. & P. Syd. SPECIES
-=======
+# Melanomyces quercinus Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

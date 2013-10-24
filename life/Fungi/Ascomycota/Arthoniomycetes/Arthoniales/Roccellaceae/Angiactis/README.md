@@ -1,5 +1,4 @@
-Angiactis Aptroot & Sparrius GENUS
-=======
+# Angiactis Aptroot & Sparrius GENUS
 
 #### Status
 ACCEPTED

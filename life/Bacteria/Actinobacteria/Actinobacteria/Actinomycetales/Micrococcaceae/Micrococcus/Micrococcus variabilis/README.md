@@ -1,5 +1,4 @@
-Micrococcus variabilis SPECIES
-=======
+# Micrococcus variabilis SPECIES
 
 #### Status
 ACCEPTED

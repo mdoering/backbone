@@ -1,5 +1,4 @@
-Lecanora tephroeceta Hue SPECIES
-=======
+# Lecanora tephroeceta Hue SPECIES
 
 #### Status
 ACCEPTED

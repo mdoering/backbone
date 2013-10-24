@@ -1,5 +1,4 @@
-Saturnispora mendoncae Kurtzman, 2006 SPECIES
-=======
+# Saturnispora mendoncae Kurtzman, 2006 SPECIES
 
 #### Status
 ACCEPTED

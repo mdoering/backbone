@@ -1,5 +1,4 @@
-Lichen perpusillus Schrank SPECIES
-=======
+# Lichen perpusillus Schrank SPECIES
 
 #### Status
 ACCEPTED

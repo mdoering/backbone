@@ -1,5 +1,4 @@
-Leptostroma fructigenum Schwein. SPECIES
-=======
+# Leptostroma fructigenum Schwein. SPECIES
 
 #### Status
 ACCEPTED

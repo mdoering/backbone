@@ -1,14 +1,13 @@
-Skepperia carpatica Pilát, 1927 SPECIES
-=======
+# Cotylidia carpatica (Pilát) Huijsman, 1954 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 43: 52 (1927)
+Bull. trimest. Soc. mycol. Fr. 70: 57 (1954)
 
 #### Original name
 Skepperia carpatica Pilát, 1927

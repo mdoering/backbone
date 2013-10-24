@@ -1,17 +1,16 @@
-Eriocorys Quél. GENUS
-=======
+# Strobilomyces Berkeley, 1851 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Enchir. fung. (Paris) 163 (1886)
+null
 
 #### Original name
-Eriocorys Quél.
+null
 
 ### Remarks
 null

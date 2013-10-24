@@ -1,5 +1,4 @@
-Paucibacter toxinivorans Rapala et al., 2005 SPECIES
-=======
+# Paucibacter toxinivorans Rapala et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

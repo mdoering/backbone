@@ -1,5 +1,4 @@
-Rhizogaster Reinsch GENUS
-=======
+# Rhizogaster Reinsch GENUS
 
 #### Status
 ACCEPTED

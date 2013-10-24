@@ -1,5 +1,4 @@
-Delitschia polyspora Griffiths SPECIES
-=======
+# Delitschia polyspora Griffiths SPECIES
 
 #### Status
 ACCEPTED

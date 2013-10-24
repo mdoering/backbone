@@ -1,5 +1,4 @@
-Mollisinopsis aurantiaca Arendh. & R. Sharma, 1986 SPECIES
-=======
+# Mollisinopsis aurantiaca Arendh. & R. Sharma, 1986 SPECIES
 
 #### Status
 ACCEPTED

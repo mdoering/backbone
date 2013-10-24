@@ -1,5 +1,4 @@
-Arthrobacter sulfonivorans Borodina et al., 2002 SPECIES
-=======
+# Arthrobacter sulfonivorans Borodina et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Astrosphaeriella aquatica K.D. Hyde SPECIES
-=======
+# Astrosphaeriella aquatica K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

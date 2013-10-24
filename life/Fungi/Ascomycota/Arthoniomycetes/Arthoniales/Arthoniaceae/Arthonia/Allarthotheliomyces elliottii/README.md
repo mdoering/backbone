@@ -1,5 +1,4 @@
-Allarthotheliomyces elliottii Cif. & Tomas. SPECIES
-=======
+# Allarthotheliomyces elliottii Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

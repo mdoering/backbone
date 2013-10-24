@@ -1,5 +1,4 @@
-Peniophora molesta Boidin, Lanq. & Gilles, 1991 SPECIES
-=======
+# Peniophora molesta Boidin, Lanq. & Gilles, 1991 SPECIES
 
 #### Status
 ACCEPTED

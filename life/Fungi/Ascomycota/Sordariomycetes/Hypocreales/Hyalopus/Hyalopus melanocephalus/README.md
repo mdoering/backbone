@@ -1,5 +1,4 @@
-Hyalopus melanocephalus (Corda) Corda SPECIES
-=======
+# Hyalopus melanocephalus (Corda) Corda SPECIES
 
 #### Status
 ACCEPTED

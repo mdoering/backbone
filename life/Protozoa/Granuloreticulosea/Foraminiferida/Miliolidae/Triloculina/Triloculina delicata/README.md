@@ -1,5 +1,4 @@
-Triloculina delicata Sun, 1993 SPECIES
-=======
+# Triloculina delicata Sun, 1993 SPECIES
 
 #### Status
 ACCEPTED

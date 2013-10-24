@@ -1,5 +1,4 @@
-Conocybe grisea M.M. Moser SPECIES
-=======
+# Conocybe grisea M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helicobacter pametensis Dewhirst et al., 1994 SPECIES
-=======
+# Helicobacter pametensis Dewhirst et al., 1994 SPECIES
 
 #### Status
 ACCEPTED

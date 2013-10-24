@@ -1,5 +1,4 @@
-Phyllosticta nasturtii Sawada SPECIES
-=======
+# Phyllosticta nasturtii Sawada SPECIES
 
 #### Status
 ACCEPTED

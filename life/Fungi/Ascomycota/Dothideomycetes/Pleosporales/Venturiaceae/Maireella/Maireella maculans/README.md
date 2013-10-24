@@ -1,5 +1,4 @@
-Maireella maculans Syd. SPECIES
-=======
+# Maireella maculans Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Myrmaecium hoehnelianum (Rick) Sacc. & Traverso SPECIES
-=======
+# Myrmaecium hoehnelianum (Rick) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

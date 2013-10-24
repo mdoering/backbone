@@ -1,5 +1,4 @@
-Coscinodiscus kolbei A.P. Jousé SPECIES
-=======
+# Coscinodiscus kolbei A.P. Jousé SPECIES
 
 #### Status
 ACCEPTED

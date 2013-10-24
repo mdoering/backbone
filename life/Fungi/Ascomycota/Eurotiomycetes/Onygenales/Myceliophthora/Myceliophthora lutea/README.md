@@ -1,17 +1,16 @@
-Myceliophthora lutea var. macrospora A. Pande & Ghate VARIETY
-=======
+# Myceliophthora lutea Costantin, 1892 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Biovigyanam 11(1): 114 (1985)
+C. r. hebd. Séanc. Acad. Sci. , Paris 114: 2 (1892)
 
 #### Original name
-Myceliophthora lutea var. macrospora A. Pande & Ghate
+Myceliophthora lutea Costantin, 1892
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Actinocatenispora thailandica Thawai et al., 2006 SPECIES
-=======
+# Actinocatenispora thailandica Thawai et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

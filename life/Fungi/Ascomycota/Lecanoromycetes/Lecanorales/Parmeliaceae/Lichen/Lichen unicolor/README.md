@@ -1,5 +1,4 @@
-Lichen unicolor Ach. SPECIES
-=======
+# Lichen unicolor Ach. SPECIES
 
 #### Status
 ACCEPTED

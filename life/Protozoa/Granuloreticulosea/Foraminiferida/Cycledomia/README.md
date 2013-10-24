@@ -1,5 +1,4 @@
-Cycledomia Hamaoui, 1964 GENUS
-=======
+# Cycledomia Hamaoui, 1964 GENUS
 
 #### Status
 ACCEPTED

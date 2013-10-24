@@ -1,5 +1,4 @@
-Leptosphaeria mikaniae Bat. & Peres SPECIES
-=======
+# Leptosphaeria mikaniae Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

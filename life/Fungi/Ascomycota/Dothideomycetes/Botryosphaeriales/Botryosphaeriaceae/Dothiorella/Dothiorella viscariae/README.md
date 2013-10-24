@@ -1,5 +1,4 @@
-Dothiorella viscariae P. Karst. SPECIES
-=======
+# Dothiorella viscariae P. Karst. SPECIES
 
 #### Status
 ACCEPTED

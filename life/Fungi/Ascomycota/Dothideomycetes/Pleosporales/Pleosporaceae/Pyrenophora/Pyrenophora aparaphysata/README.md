@@ -1,5 +1,4 @@
-Pyrenophora aparaphysata (Therry) Berl. & Voglino SPECIES
-=======
+# Pyrenophora aparaphysata (Therry) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

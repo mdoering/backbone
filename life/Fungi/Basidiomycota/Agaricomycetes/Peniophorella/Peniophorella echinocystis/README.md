@@ -1,14 +1,13 @@
-Hyphoderma echinocystis J. Erikss. & Å. Strid, 1975 SPECIES
-=======
+# Peniophorella echinocystis (J. Erikss. & Å. Strid) K.H. Larss., 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Eriksson & Ryvarden, Cortic. N. Eur. (Oslo), <b>3</b> Coronicium-Hyphoderma 3: 471 (1975)
+Mycol. Res. 111(2): 191 (2007)
 
 #### Original name
 Hyphoderma echinocystis J. Erikss. & Å. Strid, 1975

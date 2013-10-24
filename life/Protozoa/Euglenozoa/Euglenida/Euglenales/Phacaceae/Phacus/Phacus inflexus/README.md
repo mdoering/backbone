@@ -1,5 +1,4 @@
-Phacus inflexus (I. Kisselev) Pochmann SPECIES
-=======
+# Phacus inflexus (I. Kisselev) Pochmann SPECIES
 
 #### Status
 ACCEPTED

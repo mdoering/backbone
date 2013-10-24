@@ -1,5 +1,4 @@
-Spongocorina Haeckel, 1887 GENUS
-=======
+# Spongocorina Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

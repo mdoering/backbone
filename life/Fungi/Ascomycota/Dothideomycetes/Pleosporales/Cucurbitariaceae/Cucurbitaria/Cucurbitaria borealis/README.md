@@ -1,5 +1,4 @@
-Cucurbitaria borealis Ellis & Everh. SPECIES
-=======
+# Cucurbitaria borealis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

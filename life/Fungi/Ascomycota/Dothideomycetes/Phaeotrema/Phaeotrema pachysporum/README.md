@@ -1,5 +1,4 @@
-Phaeotrema pachysporum (Nyl.) Zahlbr. SPECIES
-=======
+# Phaeotrema pachysporum (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

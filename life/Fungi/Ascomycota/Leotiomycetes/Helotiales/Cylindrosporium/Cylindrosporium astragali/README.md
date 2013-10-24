@@ -1,5 +1,4 @@
-Cylindrosporium astragali Rostr. SPECIES
-=======
+# Cylindrosporium astragali Rostr. SPECIES
 
 #### Status
 ACCEPTED

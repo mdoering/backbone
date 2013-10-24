@@ -1,5 +1,4 @@
-Rhodophyllus coprinoides Romagn. SPECIES
-=======
+# Rhodophyllus coprinoides Romagn. SPECIES
 
 #### Status
 ACCEPTED

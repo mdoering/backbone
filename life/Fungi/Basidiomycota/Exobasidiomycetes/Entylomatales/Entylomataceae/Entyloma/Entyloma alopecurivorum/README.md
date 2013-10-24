@@ -1,5 +1,4 @@
-Entyloma alopecurivorum Lavrov SPECIES
-=======
+# Entyloma alopecurivorum Lavrov SPECIES
 
 #### Status
 ACCEPTED

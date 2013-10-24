@@ -1,5 +1,4 @@
-Anthurceolaria Jankowski, 1980 GENUS
-=======
+# Anthurceolaria Jankowski, 1980 GENUS
 
 #### Status
 ACCEPTED

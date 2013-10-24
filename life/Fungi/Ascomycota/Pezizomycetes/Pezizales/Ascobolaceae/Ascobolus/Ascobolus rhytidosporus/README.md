@@ -1,5 +1,4 @@
-Ascobolus rhytidosporus Brumm., 1979 SPECIES
-=======
+# Ascobolus rhytidosporus Brumm., 1979 SPECIES
 
 #### Status
 ACCEPTED

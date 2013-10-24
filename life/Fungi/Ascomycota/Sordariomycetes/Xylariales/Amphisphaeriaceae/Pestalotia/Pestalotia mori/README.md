@@ -1,5 +1,4 @@
-Pestalotia mori (Castagne) Mont. SPECIES
-=======
+# Pestalotia mori (Castagne) Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septomyrothecium Matsush. GENUS
-=======
+# Septomyrothecium Matsush. GENUS
 
 #### Status
 ACCEPTED

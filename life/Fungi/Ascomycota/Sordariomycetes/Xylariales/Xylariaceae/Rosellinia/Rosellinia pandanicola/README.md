@@ -1,5 +1,4 @@
-Rosellinia pandanicola (Berk. & Broome) Sacc. SPECIES
-=======
+# Rosellinia pandanicola (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coccolithus gigas M. N. Bramlette & F. R. Sullivan SPECIES
-=======
+# Coccolithus gigas M. N. Bramlette & F. R. Sullivan SPECIES
 
 #### Status
 ACCEPTED

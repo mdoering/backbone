@@ -1,5 +1,4 @@
-Taphrina occidentalis W.W. Ray SPECIES
-=======
+# Taphrina occidentalis W.W. Ray SPECIES
 
 #### Status
 ACCEPTED

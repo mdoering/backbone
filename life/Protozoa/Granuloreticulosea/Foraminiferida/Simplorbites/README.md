@@ -1,5 +1,4 @@
-Simplorbites Gregorio, 1882 GENUS
-=======
+# Simplorbites Gregorio, 1882 GENUS
 
 #### Status
 ACCEPTED

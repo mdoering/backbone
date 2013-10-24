@@ -1,14 +1,13 @@
-Aspergillus acanthosporus Udagawa & Takada, 1971 SPECIES
-=======
+# Neocarpenteles acanthosporum (Udagawa & Takada) Udagawa & Uchiy., 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Kobayasi et al. , Bull. natn. Sci. Mus. , Tokyo 14(3): 503 (1971)
+Mycoscience 43(1): 4 (2002)
 
 #### Original name
 Aspergillus acanthosporus Udagawa & Takada, 1971

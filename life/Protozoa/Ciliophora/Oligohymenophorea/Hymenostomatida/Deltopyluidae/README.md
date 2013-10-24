@@ -1,5 +1,4 @@
-Deltopyluidae FAMILY
-=======
+# Deltopyluidae FAMILY
 
 #### Status
 ACCEPTED

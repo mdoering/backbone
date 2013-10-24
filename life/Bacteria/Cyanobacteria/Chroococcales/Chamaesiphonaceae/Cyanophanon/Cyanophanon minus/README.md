@@ -1,5 +1,4 @@
-Cyanophanon minus Geitler SPECIES
-=======
+# Cyanophanon minus Geitler SPECIES
 
 #### Status
 ACCEPTED

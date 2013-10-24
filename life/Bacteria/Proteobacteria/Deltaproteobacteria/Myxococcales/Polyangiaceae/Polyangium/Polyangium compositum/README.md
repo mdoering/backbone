@@ -1,5 +1,4 @@
-Polyangium compositum Thaxt. SPECIES
-=======
+# Polyangium compositum Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora rumicis-obtusifolii U. Braun SPECIES
-=======
+# Cercospora rumicis-obtusifolii U. Braun SPECIES
 
 #### Status
 ACCEPTED

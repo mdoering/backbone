@@ -1,5 +1,4 @@
-Maupasella algeriana Puytorac, 1954 SPECIES
-=======
+# Maupasella algeriana Puytorac, 1954 SPECIES
 
 #### Status
 ACCEPTED

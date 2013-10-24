@@ -1,5 +1,4 @@
-Bacillus bogoriensis Vargas et al., 2005 SPECIES
-=======
+# Bacillus bogoriensis Vargas et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

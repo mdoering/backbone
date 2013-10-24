@@ -1,5 +1,4 @@
-Clavaria tjibodensis Henn. SPECIES
-=======
+# Clavaria tjibodensis Henn. SPECIES
 
 #### Status
 ACCEPTED

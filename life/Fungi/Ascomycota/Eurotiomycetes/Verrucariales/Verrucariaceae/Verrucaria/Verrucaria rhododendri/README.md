@@ -1,5 +1,4 @@
-Verrucaria rhododendri (Bagl.) Stizenb. SPECIES
-=======
+# Verrucaria rhododendri (Bagl.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

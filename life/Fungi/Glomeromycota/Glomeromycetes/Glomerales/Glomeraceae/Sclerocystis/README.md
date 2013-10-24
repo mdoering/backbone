@@ -1,17 +1,16 @@
-Xenomyces Ces. GENUS
-=======
+# Sclerocystis Berk. & Broome GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Atti Accad. Sci. fis. mat. Napoli 8(3): 26 (1879)
+J. Linn. Soc. , Bot. 14(2): 137 (1875)
 
 #### Original name
-Xenomyces Ces.
+Sclerocystis Berk. & Broome
 
 ### Remarks
 null

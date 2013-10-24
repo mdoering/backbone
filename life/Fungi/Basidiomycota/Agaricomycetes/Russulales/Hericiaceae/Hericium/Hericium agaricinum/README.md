@@ -1,5 +1,4 @@
-Hericium agaricinum Hoffm. SPECIES
-=======
+# Hericium agaricinum Hoffm. SPECIES
 
 #### Status
 ACCEPTED

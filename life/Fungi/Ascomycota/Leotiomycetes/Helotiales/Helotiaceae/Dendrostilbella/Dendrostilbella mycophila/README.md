@@ -1,14 +1,13 @@
-Cephalosporium mycophilum (Corda) Tubaki, 1955 SPECIES
-=======
+# Dendrostilbella mycophila (Pers.) Seifert, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nagaoa 5: 15 (1955)
+Stud. Mycol. 27: 185 (1985)
 
 #### Original name
 null

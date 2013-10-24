@@ -1,5 +1,4 @@
-Passalora phellodendricola (F.X. Chao & P.K. Chi) U. Braun & Crous SPECIES
-=======
+# Passalora phellodendricola (F.X. Chao & P.K. Chi) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

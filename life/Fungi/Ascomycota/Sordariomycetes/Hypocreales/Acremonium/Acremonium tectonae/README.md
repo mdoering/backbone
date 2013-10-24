@@ -1,5 +1,4 @@
-Acremonium tectonae R.F. Castañeda, 1987 SPECIES
-=======
+# Acremonium tectonae R.F. Castañeda, 1987 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diatrype microspora Ellis SPECIES
-=======
+# Diatrype microspora Ellis SPECIES
 
 #### Status
 ACCEPTED

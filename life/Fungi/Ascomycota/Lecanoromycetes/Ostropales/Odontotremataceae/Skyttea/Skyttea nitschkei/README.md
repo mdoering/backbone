@@ -1,14 +1,13 @@
-Beloniella nitschkei (Körb.) Rehm SPECIES
-=======
+# Skyttea nitschkei (Körb.) Sherwood, D. Hawksw. & Coppins SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Ber. bayer. bot. Ges. 13: 182 (1912)
+Trans. Br. mycol. Soc. 75(3): 488 (1981)
 
 #### Original name
 Nesolechia nitschkei Körb.

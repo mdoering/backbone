@@ -1,5 +1,4 @@
-Odoribacter Hardham, King, Dreier, Wong, Strietzel, Eversole, Sfintescu & Evans, 2008 GENUS
-=======
+# Odoribacter Hardham, King, Dreier, Wong, Strietzel, Eversole, Sfintescu & Evans, 2008 GENUS
 
 #### Status
 ACCEPTED

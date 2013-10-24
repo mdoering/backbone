@@ -1,5 +1,4 @@
-Psilocybe caespiticia Berk. SPECIES
-=======
+# Psilocybe caespiticia Berk. SPECIES
 
 #### Status
 ACCEPTED

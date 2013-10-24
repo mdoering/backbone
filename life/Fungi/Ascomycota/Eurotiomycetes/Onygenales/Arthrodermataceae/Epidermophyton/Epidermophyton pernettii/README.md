@@ -1,5 +1,4 @@
-Epidermophyton pernettii Castell. SPECIES
-=======
+# Epidermophyton pernettii Castell. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pelagicola Kim, Hwang & Cho, 2008 GENUS
-=======
+# Pelagicola Kim, Hwang & Cho, 2008 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Snowella septentrionalis Komárek & Hindák SPECIES
-=======
+# Snowella septentrionalis Komárek & Hindák SPECIES
 
 #### Status
 ACCEPTED

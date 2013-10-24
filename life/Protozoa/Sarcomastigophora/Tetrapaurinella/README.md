@@ -1,5 +1,4 @@
-Tetrapaurinella Kozur & Mostler, 1994 GENUS
-=======
+# Tetrapaurinella Kozur & Mostler, 1994 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rogersonia Samuels & Lodge GENUS
-=======
+# Rogersonia Samuels & Lodge GENUS
 
 #### Status
 ACCEPTED

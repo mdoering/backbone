@@ -1,5 +1,4 @@
-Pythium catenulatum V.D. Matthews, 1931 SPECIES
-=======
+# Pythium catenulatum V.D. Matthews, 1931 SPECIES
 
 #### Status
 ACCEPTED

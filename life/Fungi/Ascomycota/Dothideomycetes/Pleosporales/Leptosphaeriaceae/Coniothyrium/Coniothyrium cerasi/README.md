@@ -1,5 +1,4 @@
-Coniothyrium cerasi Pass. SPECIES
-=======
+# Coniothyrium cerasi Pass. SPECIES
 
 #### Status
 ACCEPTED

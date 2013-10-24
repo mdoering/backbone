@@ -1,5 +1,4 @@
-Naumoviella oleaginosa Tatarenko SPECIES
-=======
+# Naumoviella oleaginosa Tatarenko SPECIES
 
 #### Status
 ACCEPTED

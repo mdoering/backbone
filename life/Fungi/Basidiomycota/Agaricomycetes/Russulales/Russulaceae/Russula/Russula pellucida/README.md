@@ -1,5 +1,4 @@
-Russula pellucida (Gooss.-Font. & R. Heim) Buyck SPECIES
-=======
+# Russula pellucida (Gooss.-Font. & R. Heim) Buyck SPECIES
 
 #### Status
 ACCEPTED

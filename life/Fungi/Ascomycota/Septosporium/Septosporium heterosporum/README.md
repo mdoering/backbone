@@ -1,5 +1,4 @@
-Septosporium heterosporum Ellis & Galloway SPECIES
-=======
+# Septosporium heterosporum Ellis & Galloway SPECIES
 
 #### Status
 ACCEPTED

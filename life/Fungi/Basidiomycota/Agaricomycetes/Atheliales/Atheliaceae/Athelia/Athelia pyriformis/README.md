@@ -1,17 +1,16 @@
-Eonema pyriforme (M.P. Christ.) Redhead, Lücking & Lawrey, 2009 SPECIES
-=======
+# Athelia pyriformis (M.P. Christ.) Jülich, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Willdenowia, Beih. 7: 110 (1972)
 
 #### Original name
-null
+Xenasma pyriforme M.P. Christ., 1960
 
 ### Remarks
 null

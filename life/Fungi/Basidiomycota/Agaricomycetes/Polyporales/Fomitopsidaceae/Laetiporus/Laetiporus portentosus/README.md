@@ -1,17 +1,16 @@
-Ungulina spermolepidis var. pandani Pat. VARIETY
-=======
+# Laetiporus portentosus (Berk.) Rajchenb., 1995 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 22: 51 (1906)
+Nordic Jl Bot. 15(1): 114 (1995)
 
 #### Original name
-Ungulina spermolepidis var. pandani Pat.
+Polyporus portentosus Berk., 1844
 
 ### Remarks
 null

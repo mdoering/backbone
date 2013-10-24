@@ -1,5 +1,4 @@
-Parmeliopsis chlorolecanorica Elix SPECIES
-=======
+# Parmeliopsis chlorolecanorica Elix SPECIES
 
 #### Status
 ACCEPTED

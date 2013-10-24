@@ -1,5 +1,4 @@
-Mycosphaerella camphorosmae Lobik SPECIES
-=======
+# Mycosphaerella camphorosmae Lobik SPECIES
 
 #### Status
 ACCEPTED

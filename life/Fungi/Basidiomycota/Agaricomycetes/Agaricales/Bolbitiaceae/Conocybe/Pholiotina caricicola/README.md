@@ -1,5 +1,4 @@
-Pholiotina caricicola Singer SPECIES
-=======
+# Pholiotina caricicola Singer SPECIES
 
 #### Status
 ACCEPTED

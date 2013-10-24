@@ -1,5 +1,4 @@
-Uromyces solidaginis (Sommerf.) Niessl SPECIES
-=======
+# Uromyces solidaginis (Sommerf.) Niessl SPECIES
 
 #### Status
 ACCEPTED

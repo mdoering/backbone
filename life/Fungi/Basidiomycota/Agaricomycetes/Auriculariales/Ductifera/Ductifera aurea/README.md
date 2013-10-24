@@ -1,5 +1,4 @@
-Ductifera aurea Lowy SPECIES
-=======
+# Ductifera aurea Lowy SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza virgultorum var. virgultorum VARIETY
-=======
+# Peziza virgultorum F.H. Wigg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Prim. fl. holsat. (Kiliae) 106 (1780)
 
 #### Original name
-Peziza virgultorum var. virgultorum
+Peziza virgultorum F.H. Wigg.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lecanidion esfandiarii Riedl & Ershad SPECIES
-=======
+# Lecanidion esfandiarii Riedl & Ershad SPECIES
 
 #### Status
 ACCEPTED

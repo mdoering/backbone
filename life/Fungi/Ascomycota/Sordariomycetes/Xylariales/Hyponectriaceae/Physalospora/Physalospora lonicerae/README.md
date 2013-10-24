@@ -1,5 +1,4 @@
-Physalospora lonicerae Grove, 1930 SPECIES
-=======
+# Physalospora lonicerae Grove, 1930 SPECIES
 
 #### Status
 ACCEPTED

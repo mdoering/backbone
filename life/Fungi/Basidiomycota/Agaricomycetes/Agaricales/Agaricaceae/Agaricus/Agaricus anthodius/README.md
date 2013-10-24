@@ -1,5 +1,4 @@
-Agaricus anthodius var. anthodius VARIETY
-=======
+# Agaricus anthodius Pers. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Agaricus anthodius var. anthodius
+Agaricus anthodius Pers.
 
 ### Remarks
 null

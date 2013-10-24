@@ -1,5 +1,4 @@
-Biatorina schistidii (Anzi) Flagey SPECIES
-=======
+# Biatorina schistidii (Anzi) Flagey SPECIES
 
 #### Status
 ACCEPTED

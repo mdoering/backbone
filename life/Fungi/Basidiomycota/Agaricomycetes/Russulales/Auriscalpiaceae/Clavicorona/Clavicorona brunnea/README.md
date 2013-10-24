@@ -1,5 +1,4 @@
-Clavicorona brunnea Corner SPECIES
-=======
+# Clavicorona brunnea Corner SPECIES
 
 #### Status
 ACCEPTED

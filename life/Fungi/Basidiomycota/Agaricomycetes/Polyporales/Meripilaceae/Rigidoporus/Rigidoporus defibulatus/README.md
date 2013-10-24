@@ -1,14 +1,13 @@
-Microporellus defibulatus D.A. Reid, 1975 SPECIES
-=======
+# Rigidoporus defibulatus (D.A. Reid) Corner, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Microscopy 32: 452 (1975)
+Beih. Nova Hedwigia 86: 159 (1987)
 
 #### Original name
 Microporellus defibulatus D.A. Reid, 1975

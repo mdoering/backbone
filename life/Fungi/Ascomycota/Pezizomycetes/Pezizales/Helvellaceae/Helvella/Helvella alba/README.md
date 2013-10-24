@@ -1,5 +1,4 @@
-Helvella alba Schumach. SPECIES
-=======
+# Helvella alba Schumach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sargassum skottsbergii Sjöestedt SPECIES
-=======
+# Sargassum skottsbergii Sjöestedt SPECIES
 
 #### Status
 ACCEPTED

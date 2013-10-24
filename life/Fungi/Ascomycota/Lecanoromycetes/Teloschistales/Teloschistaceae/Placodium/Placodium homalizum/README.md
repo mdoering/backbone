@@ -1,5 +1,4 @@
-Placodium homalizum (Ach.) Körb. SPECIES
-=======
+# Placodium homalizum (Ach.) Körb. SPECIES
 
 #### Status
 ACCEPTED

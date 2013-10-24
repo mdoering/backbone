@@ -1,5 +1,4 @@
-Cladosporium arthropodii K. Schub. & C.F. Hill, 2006 SPECIES
-=======
+# Cladosporium arthropodii K. Schub. & C.F. Hill, 2006 SPECIES
 
 #### Status
 ACCEPTED

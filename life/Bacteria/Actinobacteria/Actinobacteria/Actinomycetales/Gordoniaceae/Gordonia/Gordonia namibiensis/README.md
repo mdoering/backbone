@@ -1,5 +1,4 @@
-Gordonia namibiensis Brandão et al., 2002 SPECIES
-=======
+# Gordonia namibiensis Brandão et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

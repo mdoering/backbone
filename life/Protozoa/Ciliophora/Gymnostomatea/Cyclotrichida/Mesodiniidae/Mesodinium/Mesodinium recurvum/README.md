@@ -1,8 +1,7 @@
-Mesodinium recurva Kellicott, 1885 SPECIES
-=======
+# Mesodinium recurvum Kellicott, 1885 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

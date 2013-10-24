@@ -1,5 +1,4 @@
-Endosporella diopsidis Thaxt. SPECIES
-=======
+# Endosporella diopsidis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

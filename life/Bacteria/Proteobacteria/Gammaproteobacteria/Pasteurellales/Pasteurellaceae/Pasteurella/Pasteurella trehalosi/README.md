@@ -1,5 +1,4 @@
-Pasteurella trehalosi Sneath & Stevens, 1990 SPECIES
-=======
+# Pasteurella trehalosi Sneath & Stevens, 1990 SPECIES
 
 #### Status
 ACCEPTED

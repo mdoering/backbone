@@ -1,5 +1,4 @@
-Verrucaria symbalanoides Nyl. SPECIES
-=======
+# Verrucaria symbalanoides Nyl. SPECIES
 
 #### Status
 ACCEPTED

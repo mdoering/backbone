@@ -1,5 +1,4 @@
-Phoma caraganigena Kabát & Bubák SPECIES
-=======
+# Phoma caraganigena Kabát & Bubák SPECIES
 
 #### Status
 ACCEPTED

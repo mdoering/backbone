@@ -1,5 +1,4 @@
-Peziza cyphelloides Ellis & Everh. SPECIES
-=======
+# Peziza cyphelloides Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

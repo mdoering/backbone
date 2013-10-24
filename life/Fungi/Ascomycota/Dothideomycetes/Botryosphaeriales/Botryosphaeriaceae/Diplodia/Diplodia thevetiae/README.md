@@ -1,5 +1,4 @@
-Diplodia thevetiae Tassi SPECIES
-=======
+# Diplodia thevetiae Tassi SPECIES
 
 #### Status
 ACCEPTED

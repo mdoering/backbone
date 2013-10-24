@@ -1,5 +1,4 @@
-Aecidium erigerontis F. Kern & Whetzel SPECIES
-=======
+# Aecidium erigerontis F. Kern & Whetzel SPECIES
 
 #### Status
 ACCEPTED

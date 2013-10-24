@@ -1,5 +1,4 @@
-Sphaerulina maroccana Gonz. Frag. SPECIES
-=======
+# Sphaerulina maroccana Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

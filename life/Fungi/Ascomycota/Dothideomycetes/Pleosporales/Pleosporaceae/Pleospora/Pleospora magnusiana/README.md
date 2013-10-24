@@ -1,5 +1,4 @@
-Pleospora magnusiana Berl. SPECIES
-=======
+# Pleospora magnusiana Berl. SPECIES
 
 #### Status
 ACCEPTED

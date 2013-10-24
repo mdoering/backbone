@@ -1,5 +1,4 @@
-Penicillium albocinerascens Chalab. SPECIES
-=======
+# Penicillium albocinerascens Chalab. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliolinopsis iquitosensis (Henn.) Beeli SPECIES
-=======
+# Meliolinopsis iquitosensis (Henn.) Beeli SPECIES
 
 #### Status
 ACCEPTED

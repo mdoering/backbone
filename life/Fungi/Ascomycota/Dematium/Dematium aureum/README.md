@@ -1,5 +1,4 @@
-Dematium aureum var. aureum VARIETY
-=======
+# Dematium aureum (Roth) Rebent. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Enum. pl. (Kjbenhavn) 2: 444 (1803)
+Prodr. fl. neomarch. 395 (1804)
 
 #### Original name
-Dematium aureum var. aureum
+Byssus aurea L., 1763
 
 ### Remarks
 null

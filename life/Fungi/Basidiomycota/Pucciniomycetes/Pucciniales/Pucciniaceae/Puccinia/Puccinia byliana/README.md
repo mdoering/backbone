@@ -1,8 +1,7 @@
-Puccinia bylianum Dippen. SPECIES
-=======
+# Puccinia byliana Dippen. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Puccinia bylianum Dippen.
+Puccinia byliana Dippen.
 
 ### Remarks
 null

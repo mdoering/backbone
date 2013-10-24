@@ -1,5 +1,4 @@
-Atelosaccharomyces catanei C.W. Dodge SPECIES
-=======
+# Atelosaccharomyces catanei C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

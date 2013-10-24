@@ -1,5 +1,4 @@
-Eufolliculina ampullacea (Laakmann, 1910) Hadzi, 1951 SPECIES
-=======
+# Eufolliculina ampullacea (Laakmann, 1910) Hadzi, 1951 SPECIES
 
 #### Status
 ACCEPTED

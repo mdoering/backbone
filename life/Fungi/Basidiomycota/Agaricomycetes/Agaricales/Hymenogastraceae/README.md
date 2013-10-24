@@ -1,17 +1,16 @@
-Hymenogasteraceae Vittad. FAMILY
-=======
+# Hymenogastraceae Vittad. FAMILY
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Monogr. Tuberac. (Milano) 11 (1831)
 
 #### Original name
-Hymenogasteraceae Vittad.
+Hymenogastraceae Vittad.
 
 ### Remarks
 null

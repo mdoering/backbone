@@ -1,8 +1,7 @@
-Gloeothece rupestris var. tepidariorum (A. Braun) Hansgrig VARIETY
-=======
+# Gloeothece tepidariorum (A. Braun) Lagerheim SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

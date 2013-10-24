@@ -1,5 +1,4 @@
-Buellia multispora Kalb & Vezda SPECIES
-=======
+# Buellia multispora Kalb & Vezda SPECIES
 
 #### Status
 ACCEPTED

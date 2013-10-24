@@ -1,5 +1,4 @@
-Diplodia ficophila var. ficophila VARIETY
-=======
+# Diplodia ficophila Schulzer SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Verh. zool. -bot. Ges. Wein 20: 654 (1870)
 
 #### Original name
-Diplodia ficophila var. ficophila
+Diplodia ficophila Schulzer
 
 ### Remarks
 null

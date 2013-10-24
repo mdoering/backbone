@@ -1,5 +1,4 @@
-Helminthosporium corniculatum Schwein. SPECIES
-=======
+# Helminthosporium corniculatum Schwein. SPECIES
 
 #### Status
 ACCEPTED

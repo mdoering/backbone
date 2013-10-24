@@ -1,5 +1,4 @@
-Metasphaeria silphii Ellis & Everh. SPECIES
-=======
+# Metasphaeria silphii Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

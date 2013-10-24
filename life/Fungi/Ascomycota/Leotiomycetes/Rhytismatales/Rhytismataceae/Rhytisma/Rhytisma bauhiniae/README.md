@@ -1,5 +1,4 @@
-Rhytisma bauhiniae Nees SPECIES
-=======
+# Rhytisma bauhiniae Nees SPECIES
 
 #### Status
 ACCEPTED

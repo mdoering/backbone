@@ -1,5 +1,4 @@
-Uromyces viciae-urijugae SPECIES
-=======
+# Uromyces viciae-urijugae SPECIES
 
 #### Status
 ACCEPTED

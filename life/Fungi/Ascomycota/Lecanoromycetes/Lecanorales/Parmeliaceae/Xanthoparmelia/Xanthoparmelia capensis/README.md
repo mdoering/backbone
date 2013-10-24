@@ -1,5 +1,4 @@
-Xanthoparmelia capensis Hale SPECIES
-=======
+# Xanthoparmelia capensis Hale SPECIES
 
 #### Status
 ACCEPTED

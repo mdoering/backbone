@@ -1,5 +1,4 @@
-Stereocaulon pachycephalum Vain. SPECIES
-=======
+# Stereocaulon pachycephalum Vain. SPECIES
 
 #### Status
 ACCEPTED

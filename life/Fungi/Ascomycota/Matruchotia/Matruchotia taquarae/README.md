@@ -1,5 +1,4 @@
-Matruchotia taquarae Rick, 1934 SPECIES
-=======
+# Matruchotia taquarae Rick, 1934 SPECIES
 
 #### Status
 ACCEPTED

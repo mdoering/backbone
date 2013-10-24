@@ -1,5 +1,4 @@
-Agaricus lanaripes Cooke SPECIES
-=======
+# Agaricus lanaripes Cooke SPECIES
 
 #### Status
 ACCEPTED

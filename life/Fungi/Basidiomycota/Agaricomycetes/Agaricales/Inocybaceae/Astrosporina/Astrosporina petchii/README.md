@@ -1,5 +1,4 @@
-Astrosporina petchii (Boedijn) E. Horak SPECIES
-=======
+# Astrosporina petchii (Boedijn) E. Horak SPECIES
 
 #### Status
 ACCEPTED

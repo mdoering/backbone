@@ -1,5 +1,4 @@
-Phylloporus ampliporus Heinem. & Rammeloo SPECIES
-=======
+# Phylloporus ampliporus Heinem. & Rammeloo SPECIES
 
 #### Status
 ACCEPTED

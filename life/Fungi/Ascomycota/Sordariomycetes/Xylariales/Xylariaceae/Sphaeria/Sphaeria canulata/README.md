@@ -1,5 +1,4 @@
-Sphaeria canulata Preuss SPECIES
-=======
+# Sphaeria canulata Preuss SPECIES
 
 #### Status
 ACCEPTED

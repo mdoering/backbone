@@ -1,5 +1,4 @@
-Entoloma aripoanum Dennis SPECIES
-=======
+# Entoloma aripoanum Dennis SPECIES
 
 #### Status
 ACCEPTED

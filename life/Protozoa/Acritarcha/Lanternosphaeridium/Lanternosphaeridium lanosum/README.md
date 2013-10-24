@@ -1,5 +1,4 @@
-Lanternosphaeridium lanosum Morgenroth, 1966 SPECIES
-=======
+# Lanternosphaeridium lanosum Morgenroth, 1966 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ptychogaster corruscans Fr. SPECIES
-=======
+# Ptychogaster corruscans Fr. SPECIES
 
 #### Status
 ACCEPTED

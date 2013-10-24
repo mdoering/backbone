@@ -1,5 +1,4 @@
-Agrocybe procera var. procera Singer VARIETY
-=======
+# Agrocybe procera Singer SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Nova Hedwigia, Beih. 29: 224 (1969)
 
 #### Original name
-Agrocybe procera var. procera Singer
+Agrocybe procera Singer
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Pocillaria detonsa (Fr.) Kuntze, 1891 SPECIES
-=======
+# Lentinula boryana (Berk. & Mont.) Pegler, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 2: 866 (1891)
+Kavaka 3: 19 (1976)
 
 #### Original name
-Lentinus detonsus Fr., 1851
+Agaricus boryanus Berk. & Mont., 1849
 
 ### Remarks
 null

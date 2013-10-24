@@ -1,11 +1,10 @@
-Podaxis pistillaris var. pistillaris (L.) Fr. VARIETY
-=======
+# Podaxis pistillaris (L.) Fr., 1829 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Syst. mycol. (Lundae) 3(1): 63 (1829)

@@ -1,5 +1,4 @@
-Thalloloma isidiosum Staiger SPECIES
-=======
+# Thalloloma isidiosum Staiger SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Protoperidinium gainii (Dangeard) Balech SPECIES
-=======
+# Protoperidinium divaricatum (Meunier) Parke & Dodge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Pertusaria bokluensis Jariangpr. SPECIES
-=======
+# Pertusaria bokluensis Jariangpr. SPECIES
 
 #### Status
 ACCEPTED

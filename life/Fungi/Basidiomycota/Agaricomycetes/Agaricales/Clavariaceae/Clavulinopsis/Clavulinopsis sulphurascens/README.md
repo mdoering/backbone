@@ -1,5 +1,4 @@
-Clavulinopsis sulphurascens (Schwein.) Corner SPECIES
-=======
+# Clavulinopsis sulphurascens (Schwein.) Corner SPECIES
 
 #### Status
 ACCEPTED

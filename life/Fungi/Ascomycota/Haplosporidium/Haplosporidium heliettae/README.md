@@ -1,5 +1,4 @@
-Haplosporidium heliettae (Speg.) Speg., 1912 SPECIES
-=======
+# Haplosporidium heliettae (Speg.) Speg., 1912 SPECIES
 
 #### Status
 ACCEPTED

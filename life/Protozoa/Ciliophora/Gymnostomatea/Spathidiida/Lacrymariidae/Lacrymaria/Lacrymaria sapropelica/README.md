@@ -1,5 +1,4 @@
-Lacrymaria sapropelica Kahl, 1927 SPECIES
-=======
+# Lacrymaria sapropelica Kahl, 1927 SPECIES
 
 #### Status
 ACCEPTED

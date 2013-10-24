@@ -1,5 +1,4 @@
-Cothurnia corrugata SPECIES
-=======
+# Cothurnia corrugata SPECIES
 
 #### Status
 ACCEPTED

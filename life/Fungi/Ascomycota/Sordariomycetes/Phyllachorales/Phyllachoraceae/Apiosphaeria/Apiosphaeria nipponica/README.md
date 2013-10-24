@@ -1,5 +1,4 @@
-Apiosphaeria nipponica I. Hino & Katum., 1966 SPECIES
-=======
+# Apiosphaeria nipponica I. Hino & Katum., 1966 SPECIES
 
 #### Status
 ACCEPTED

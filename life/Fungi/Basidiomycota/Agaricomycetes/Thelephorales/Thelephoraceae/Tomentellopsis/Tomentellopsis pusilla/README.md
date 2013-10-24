@@ -1,5 +1,4 @@
-Tomentellopsis pusilla Hjortstam, 1974 SPECIES
-=======
+# Tomentellopsis pusilla Hjortstam, 1974 SPECIES
 
 #### Status
 ACCEPTED

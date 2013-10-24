@@ -1,5 +1,4 @@
-Paratrichodina globonuclea Lom, 1963 SPECIES
-=======
+# Paratrichodina globonuclea Lom, 1963 SPECIES
 
 #### Status
 ACCEPTED

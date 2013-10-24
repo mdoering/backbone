@@ -1,5 +1,4 @@
-Tomentella sparsa (Burt) Bourdot & Galzin SPECIES
-=======
+# Tomentella sparsa (Burt) Bourdot & Galzin SPECIES
 
 #### Status
 ACCEPTED

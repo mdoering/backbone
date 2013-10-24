@@ -1,5 +1,4 @@
-Phoma densiuscula Sacc. & Roum. SPECIES
-=======
+# Phoma densiuscula Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

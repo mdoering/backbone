@@ -1,5 +1,4 @@
-Russula helodes Melzer, 1929 SPECIES
-=======
+# Russula helodes Melzer, 1929 SPECIES
 
 #### Status
 ACCEPTED

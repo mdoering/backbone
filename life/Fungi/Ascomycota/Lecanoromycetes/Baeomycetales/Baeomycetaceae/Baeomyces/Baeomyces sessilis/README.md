@@ -1,5 +1,4 @@
-Baeomyces sessilis DC. SPECIES
-=======
+# Baeomyces sessilis DC. SPECIES
 
 #### Status
 ACCEPTED

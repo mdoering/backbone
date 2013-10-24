@@ -1,5 +1,4 @@
-Leifsonia poae Evtushenko et al., 2000 SPECIES
-=======
+# Leifsonia poae Evtushenko et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

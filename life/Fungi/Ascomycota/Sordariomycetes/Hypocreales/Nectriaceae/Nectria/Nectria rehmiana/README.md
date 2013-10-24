@@ -1,5 +1,4 @@
-Nectria rehmiana (Kirschst.) Rossman SPECIES
-=======
+# Nectria rehmiana (Kirschst.) Rossman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buellia parvula (H. Mayrhofer & Poelt) H. Mayrhofer & Scheid. SPECIES
-=======
+# Buellia parvula (H. Mayrhofer & Poelt) H. Mayrhofer & Scheid. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Myxotrichum patulum Fr. SPECIES
-=======
+# Myxotrichum patulum Fr. SPECIES
 
 #### Status
 ACCEPTED

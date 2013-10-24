@@ -1,17 +1,16 @@
-Stysanus stemonites var. fimetarius P. Karst. VARIETY
-=======
+# Stysanus fimetarius (P. Karst.) Massee & E.S. Salmon, 1902 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ann. Bot. , Lond. 16: 86 (1902)
 
 #### Original name
-Stysanus stemonites var. fimetarius P. Karst.
+Stysanus stemonitis var. fimetarius P. Karst., 1887
 
 ### Remarks
 null

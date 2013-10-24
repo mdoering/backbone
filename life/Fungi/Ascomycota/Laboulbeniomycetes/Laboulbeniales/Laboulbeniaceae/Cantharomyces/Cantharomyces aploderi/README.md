@@ -1,5 +1,4 @@
-Cantharomyces aploderi Huldén SPECIES
-=======
+# Cantharomyces aploderi Huldén SPECIES
 
 #### Status
 ACCEPTED

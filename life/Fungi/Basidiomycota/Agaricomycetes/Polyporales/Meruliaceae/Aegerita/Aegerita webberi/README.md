@@ -1,14 +1,13 @@
-Tompetchia webberi (H.S. Fawc.) Subram., 1985 SPECIES
-=======
+# Aegerita webberi H.S. Fawc., 1910 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Kavaka 12(2): 66 (1985)
+Mycologia 2(4): 167 (1910)
 
 #### Original name
 Aegerita webberi H.S. Fawc., 1910

@@ -1,5 +1,4 @@
-Myxosporium latvicense A.F. Vital, Cif. & Bat. SPECIES
-=======
+# Myxosporium latvicense A.F. Vital, Cif. & Bat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collema rottleri Ach. SPECIES
-=======
+# Collema rottleri Ach. SPECIES
 
 #### Status
 ACCEPTED

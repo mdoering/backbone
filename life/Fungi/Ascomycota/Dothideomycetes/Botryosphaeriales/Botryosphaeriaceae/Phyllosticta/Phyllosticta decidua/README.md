@@ -1,5 +1,4 @@
-Phyllosticta decidua var. decidua VARIETY
-=======
+# Phyllosticta decidua Ellis & Kellerm. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Am. Nat. 17: 1165 (1883)
 
 #### Original name
-Phyllosticta decidua var. decidua
+Phyllosticta decidua Ellis & Kellerm.
 
 ### Remarks
 null

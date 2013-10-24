@@ -1,5 +1,4 @@
-Dicellaesporites inaequalis (Y.N.R. Varma & R.S. Patil) Kalgutkar & Janson. SPECIES
-=======
+# Dicellaesporites inaequalis (Y.N.R. Varma & R.S. Patil) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hymenoscyphus electrinus (W. Phillips & Plowr.) SPECIES
-=======
+# Hymenoscyphus electrinus (W. Phillips & Plowr.) SPECIES
 
 #### Status
 ACCEPTED

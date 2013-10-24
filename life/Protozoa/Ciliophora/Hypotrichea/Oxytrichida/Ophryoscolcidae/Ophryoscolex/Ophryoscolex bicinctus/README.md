@@ -1,5 +1,4 @@
-Ophryoscolex bicinctus Dogiel, 1927 SPECIES
-=======
+# Ophryoscolex bicinctus Dogiel, 1927 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudoalteromonas ulvae Egan et al., 2001 SPECIES
-=======
+# Pseudoalteromonas ulvae Egan et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

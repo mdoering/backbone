@@ -1,5 +1,4 @@
-Planctomyces guttaeformis (ex Hortobágyi, 1965) Starr & Schmidt, 1984 SPECIES
-=======
+# Planctomyces guttaeformis (ex Hortobágyi, 1965) Starr & Schmidt, 1984 SPECIES
 
 #### Status
 ACCEPTED

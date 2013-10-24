@@ -1,5 +1,4 @@
-Arthonia mangiferae Müll. Arg. SPECIES
-=======
+# Arthonia mangiferae Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

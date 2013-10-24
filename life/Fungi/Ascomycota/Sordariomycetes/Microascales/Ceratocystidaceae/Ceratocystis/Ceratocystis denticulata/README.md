@@ -1,5 +1,4 @@
-Ceratocystis denticulata R.W. Davidson SPECIES
-=======
+# Ceratocystis denticulata R.W. Davidson SPECIES
 
 #### Status
 ACCEPTED

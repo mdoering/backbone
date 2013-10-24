@@ -1,5 +1,4 @@
-Irpex hydnoides Y.W. Lim & H.S. Jung SPECIES
-=======
+# Irpex hydnoides Y.W. Lim & H.S. Jung SPECIES
 
 #### Status
 ACCEPTED

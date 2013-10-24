@@ -1,5 +1,4 @@
-Sanguibacter marinus Huang et al., 2005 SPECIES
-=======
+# Sanguibacter marinus Huang et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physalospora subsimplex (Schwein.) Sacc. SPECIES
-=======
+# Physalospora subsimplex (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

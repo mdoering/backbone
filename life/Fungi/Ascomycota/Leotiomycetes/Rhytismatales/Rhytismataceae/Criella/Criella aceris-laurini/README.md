@@ -1,5 +1,4 @@
-Criella aceris-laurini (Pat.) Sacc. & P. Syd. SPECIES
-=======
+# Criella aceris-laurini (Pat.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

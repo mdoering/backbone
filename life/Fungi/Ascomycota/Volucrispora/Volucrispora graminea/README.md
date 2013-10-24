@@ -1,14 +1,13 @@
-Ypsilina graminea (Ingold, P.J. McDougall & Dann) Descals, J. Webster & Marvanová, 1999 SPECIES
-=======
+# Volucrispora graminea Ingold, P.J. McDougall & Dann, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Descals, Marvanová & Webster, Can. J. Bot. 76(9): 1659 (1999)
+Trans. Br. mycol. Soc. 51(2): 325 (1968)
 
 #### Original name
 Volucrispora graminea Ingold, P.J. McDougall & Dann, 1968

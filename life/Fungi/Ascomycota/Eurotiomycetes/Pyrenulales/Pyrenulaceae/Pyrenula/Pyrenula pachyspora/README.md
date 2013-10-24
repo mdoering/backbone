@@ -1,5 +1,4 @@
-Pyrenula pachyspora SPECIES
-=======
+# Pyrenula pachyspora SPECIES
 
 #### Status
 ACCEPTED

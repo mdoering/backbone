@@ -1,5 +1,4 @@
-Cladosporium stercorarium Corda SPECIES
-=======
+# Cladosporium stercorarium Corda SPECIES
 
 #### Status
 ACCEPTED

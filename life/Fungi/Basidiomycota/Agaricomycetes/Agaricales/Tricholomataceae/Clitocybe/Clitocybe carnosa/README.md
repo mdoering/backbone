@@ -1,5 +1,4 @@
-Clitocybe carnosa Massee SPECIES
-=======
+# Clitocybe carnosa Massee SPECIES
 
 #### Status
 ACCEPTED

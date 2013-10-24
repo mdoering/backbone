@@ -1,5 +1,4 @@
-Pyrobaculum organotrophum Huber et al., 1988 SPECIES
-=======
+# Pyrobaculum organotrophum Huber et al., 1988 SPECIES
 
 #### Status
 ACCEPTED

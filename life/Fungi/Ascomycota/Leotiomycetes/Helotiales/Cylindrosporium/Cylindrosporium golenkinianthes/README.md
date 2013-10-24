@@ -1,5 +1,4 @@
-Cylindrosporium golenkinianthes Annal. SPECIES
-=======
+# Cylindrosporium golenkinianthes Annal. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola melanochylae Hansf. SPECIES
-=======
+# Meliola melanochylae Hansf. SPECIES
 
 #### Status
 ACCEPTED

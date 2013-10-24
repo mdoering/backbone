@@ -1,5 +1,4 @@
-Delitschia kriegeriana Kirschst. SPECIES
-=======
+# Delitschia kriegeriana Kirschst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clonostachys lasiacidis Schroers SPECIES
-=======
+# Clonostachys lasiacidis Schroers SPECIES
 
 #### Status
 ACCEPTED

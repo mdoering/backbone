@@ -1,5 +1,4 @@
-Dichomyces thyreocephali Thaxt. SPECIES
-=======
+# Dichomyces thyreocephali Thaxt. SPECIES
 
 #### Status
 ACCEPTED

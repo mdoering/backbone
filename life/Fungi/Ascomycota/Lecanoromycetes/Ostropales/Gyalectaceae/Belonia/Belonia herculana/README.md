@@ -1,5 +1,4 @@
-Belonia herculana (Rehm ex Lojka) Hazsl. SPECIES
-=======
+# Belonia herculana (Rehm ex Lojka) Hazsl. SPECIES
 
 #### Status
 ACCEPTED

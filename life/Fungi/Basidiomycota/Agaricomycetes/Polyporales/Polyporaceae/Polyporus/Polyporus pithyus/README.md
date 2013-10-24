@@ -1,5 +1,4 @@
-Polyporus pithyus Chaillet SPECIES
-=======
+# Polyporus pithyus Chaillet SPECIES
 
 #### Status
 ACCEPTED

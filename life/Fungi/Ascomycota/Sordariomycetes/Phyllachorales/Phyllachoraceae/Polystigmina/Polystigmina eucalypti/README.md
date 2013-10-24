@@ -1,5 +1,4 @@
-Polystigmina eucalypti Cooke & Massee SPECIES
-=======
+# Polystigmina eucalypti Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

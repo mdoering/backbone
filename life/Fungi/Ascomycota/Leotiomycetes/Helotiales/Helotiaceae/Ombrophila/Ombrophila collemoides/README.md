@@ -1,5 +1,4 @@
-Ombrophila collemoides (Rehm) Sacc. SPECIES
-=======
+# Ombrophila collemoides (Rehm) Sacc. SPECIES
 
 #### Status
 ACCEPTED

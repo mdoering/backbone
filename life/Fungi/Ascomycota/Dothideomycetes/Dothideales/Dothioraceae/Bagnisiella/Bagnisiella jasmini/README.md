@@ -1,17 +1,16 @@
-Bagnisiella jasminii Sathe & Vaidya SPECIES
-=======
+# Bagnisiella jasmini Sathe & Vaidya SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Vaidya, Biovigyanam 6(1): 80 (1980)
 
 #### Original name
-Bagnisiella jasminii Sathe & Vaidya
+Bagnisiella jasmini Sathe & Vaidya
 
 ### Remarks
 null

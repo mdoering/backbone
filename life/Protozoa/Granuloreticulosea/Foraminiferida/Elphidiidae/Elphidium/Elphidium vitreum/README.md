@@ -1,5 +1,4 @@
-Elphidium vitreum Collins, 1974 SPECIES
-=======
+# Elphidium vitreum Collins, 1974 SPECIES
 
 #### Status
 ACCEPTED

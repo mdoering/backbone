@@ -1,5 +1,4 @@
-Hortaea Nishim. & Miyaji GENUS
-=======
+# Hortaea Nishim. & Miyaji GENUS
 
 #### Status
 ACCEPTED

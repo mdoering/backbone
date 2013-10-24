@@ -1,17 +1,16 @@
-Stenella heterophragmae Seema Misra, N. Srivast. & A.K. Srivast. SPECIES
-=======
+# Stenella heterophragmatis Seema Misra, N. Srivast. & A.K. Srivast. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycol. Res. 101(3): 278 (1997)
 
 #### Original name
-Stenella heterophragmae Seema Misra, N. Srivast. & A.K. Srivast.
+Stenella heterophragmatis Seema Misra, N. Srivast. & A.K. Srivast.
 
 ### Remarks
 null

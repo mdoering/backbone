@@ -1,5 +1,4 @@
-Weddellomyces aspiciicola Alstrup SPECIES
-=======
+# Weddellomyces aspiciicola Alstrup SPECIES
 
 #### Status
 ACCEPTED

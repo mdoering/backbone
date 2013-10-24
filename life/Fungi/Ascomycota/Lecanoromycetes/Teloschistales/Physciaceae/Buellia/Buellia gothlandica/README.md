@@ -1,5 +1,4 @@
-Buellia gothlandica J.J. Steiner {?} SPECIES
-=======
+# Buellia gothlandica J.J. Steiner {?} SPECIES
 
 #### Status
 ACCEPTED

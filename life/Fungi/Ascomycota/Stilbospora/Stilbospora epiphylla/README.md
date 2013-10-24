@@ -1,5 +1,4 @@
-Stilbospora epiphylla Schwein. SPECIES
-=======
+# Stilbospora epiphylla Schwein. SPECIES
 
 #### Status
 ACCEPTED

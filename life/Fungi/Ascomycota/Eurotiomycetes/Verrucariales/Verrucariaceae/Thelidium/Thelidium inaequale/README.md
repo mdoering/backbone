@@ -1,5 +1,4 @@
-Thelidium inaequale C.W. Dodge & G.E. Baker SPECIES
-=======
+# Thelidium inaequale C.W. Dodge & G.E. Baker SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rutilaria tenuis N. V. Anissimowa SPECIES
-=======
+# Rutilaria tenuis N. V. Anissimowa SPECIES
 
 #### Status
 ACCEPTED

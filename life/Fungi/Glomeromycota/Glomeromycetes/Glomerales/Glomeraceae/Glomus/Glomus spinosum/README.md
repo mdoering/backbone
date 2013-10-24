@@ -1,5 +1,4 @@
-Glomus spinosum H.T. Hu, 2002 SPECIES
-=======
+# Glomus spinosum H.T. Hu, 2002 SPECIES
 
 #### Status
 ACCEPTED

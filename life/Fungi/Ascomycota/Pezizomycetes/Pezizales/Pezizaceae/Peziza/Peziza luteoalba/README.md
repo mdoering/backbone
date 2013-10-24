@@ -1,5 +1,4 @@
-Peziza luteoalba Schwein. SPECIES
-=======
+# Peziza luteoalba Schwein. SPECIES
 
 #### Status
 ACCEPTED

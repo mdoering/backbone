@@ -1,14 +1,13 @@
-Corticium cremeoalbum Höhn. & Litsch., 1908 SPECIES
-=======
+# Hyphoderma cremeoalbum (Höhn. & Litsch.) Jülich, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Wiesner Festschrift (Wien) 63 (1908)
+Persoonia 8(1): 80 (1974)
 
 #### Original name
 Corticium cremeoalbum Höhn. & Litsch., 1908

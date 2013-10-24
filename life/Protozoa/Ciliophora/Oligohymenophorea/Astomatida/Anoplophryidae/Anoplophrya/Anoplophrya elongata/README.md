@@ -1,5 +1,4 @@
-Anoplophrya elongata SPECIES
-=======
+# Anoplophrya elongata SPECIES
 
 #### Status
 ACCEPTED

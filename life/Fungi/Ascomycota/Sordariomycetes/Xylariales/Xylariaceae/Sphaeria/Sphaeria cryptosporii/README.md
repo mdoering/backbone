@@ -1,5 +1,4 @@
-Sphaeria cryptosporii Curr. SPECIES
-=======
+# Sphaeria cryptosporii Curr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Clavaria delicia Berk., 1856 SPECIES
-=======
+# Clavulina delicia (Berk.) Corner, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hooker's J. Bot. Kew Gard. Misc. 8: 274 (1856)
+Ann. Bot. Mem. 1: 323 (1950)
 
 #### Original name
 Clavaria delicia Berk., 1856

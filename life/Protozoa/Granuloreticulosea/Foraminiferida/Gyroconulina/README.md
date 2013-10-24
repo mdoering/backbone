@@ -1,5 +1,4 @@
-Gyroconulina Schroeder & Darmoian, 1977 GENUS
-=======
+# Gyroconulina Schroeder & Darmoian, 1977 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psorella janeirensis Zahlbr. SPECIES
-=======
+# Psorella janeirensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

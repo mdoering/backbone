@@ -1,5 +1,4 @@
-Mycosphaerella minabensis Petr. SPECIES
-=======
+# Mycosphaerella minabensis Petr. SPECIES
 
 #### Status
 ACCEPTED

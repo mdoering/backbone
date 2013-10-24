@@ -1,5 +1,4 @@
-Phyllosticta phillyrina Thüm. SPECIES
-=======
+# Phyllosticta phillyrina Thüm. SPECIES
 
 #### Status
 ACCEPTED

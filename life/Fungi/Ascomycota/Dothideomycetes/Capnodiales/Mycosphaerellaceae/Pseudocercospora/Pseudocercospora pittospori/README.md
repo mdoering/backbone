@@ -1,5 +1,4 @@
-Pseudocercospora pittospori (Plakidas) Y.L. Guo & X.J. Liu SPECIES
-=======
+# Pseudocercospora pittospori (Plakidas) Y.L. Guo & X.J. Liu SPECIES
 
 #### Status
 ACCEPTED

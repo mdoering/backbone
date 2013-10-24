@@ -1,17 +1,16 @@
-Ascochyta glechomatis Sandu & Mítítíuc SPECIES
-=======
+# Ascochyta glechomae (Sacc.) Baudy & Picb. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Feddes Repert. , Sp. Nov. , Beih. 81(8-9): 626 (1971)
 
 #### Original name
-Ascochyta glechomatis Sandu & Mítítíuc
+Phyllosticta glechomae Sacc.
 
 ### Remarks
 null

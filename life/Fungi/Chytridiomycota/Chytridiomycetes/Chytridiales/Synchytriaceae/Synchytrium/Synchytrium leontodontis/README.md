@@ -1,5 +1,4 @@
-Synchytrium leontodontis Karling, 1968 SPECIES
-=======
+# Synchytrium leontodontis Karling, 1968 SPECIES
 
 #### Status
 ACCEPTED

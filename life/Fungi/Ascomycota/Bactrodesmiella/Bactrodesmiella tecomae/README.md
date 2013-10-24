@@ -1,5 +1,4 @@
-Bactrodesmiella tecomae Bat. & Peres SPECIES
-=======
+# Bactrodesmiella tecomae Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

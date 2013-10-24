@@ -1,5 +1,4 @@
-Aplosporella beaumontiana S. Ahmad SPECIES
-=======
+# Aplosporella beaumontiana S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

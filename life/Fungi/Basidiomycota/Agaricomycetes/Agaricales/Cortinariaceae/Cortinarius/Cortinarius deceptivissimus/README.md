@@ -1,5 +1,4 @@
-Cortinarius deceptivissimus Reumaux SPECIES
-=======
+# Cortinarius deceptivissimus Reumaux SPECIES
 
 #### Status
 ACCEPTED

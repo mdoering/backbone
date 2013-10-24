@@ -1,5 +1,4 @@
-Psathyrella hydrophiloides Kits van Wav. SPECIES
-=======
+# Psathyrella hydrophiloides Kits van Wav. SPECIES
 
 #### Status
 ACCEPTED

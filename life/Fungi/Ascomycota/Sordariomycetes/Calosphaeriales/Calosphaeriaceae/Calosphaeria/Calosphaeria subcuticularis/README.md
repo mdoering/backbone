@@ -1,5 +1,4 @@
-Calosphaeria subcuticularis (Cooke & Ellis) Ellis & Everh. SPECIES
-=======
+# Calosphaeria subcuticularis (Cooke & Ellis) Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

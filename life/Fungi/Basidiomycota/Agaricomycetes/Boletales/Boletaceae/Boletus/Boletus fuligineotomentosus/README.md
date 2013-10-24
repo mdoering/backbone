@@ -1,5 +1,4 @@
-Boletus fuligineotomentosus Singer SPECIES
-=======
+# Boletus fuligineotomentosus Singer SPECIES
 
 #### Status
 ACCEPTED

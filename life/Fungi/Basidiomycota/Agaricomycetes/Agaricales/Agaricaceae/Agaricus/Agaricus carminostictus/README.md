@@ -1,5 +1,4 @@
-Agaricus carminostictus Heinem. SPECIES
-=======
+# Agaricus carminostictus Heinem. SPECIES
 
 #### Status
 ACCEPTED

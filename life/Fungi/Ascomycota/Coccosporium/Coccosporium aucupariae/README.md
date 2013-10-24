@@ -1,5 +1,4 @@
-Coccosporium aucupariae Jørst. SPECIES
-=======
+# Coccosporium aucupariae Jørst. SPECIES
 
 #### Status
 ACCEPTED

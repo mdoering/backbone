@@ -1,5 +1,4 @@
-Mycena blechnophila Singer SPECIES
-=======
+# Mycena blechnophila Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodina alchemillae Kuhnh.-Lord. SPECIES
-=======
+# Diplodina alchemillae Kuhnh.-Lord. SPECIES
 
 #### Status
 ACCEPTED

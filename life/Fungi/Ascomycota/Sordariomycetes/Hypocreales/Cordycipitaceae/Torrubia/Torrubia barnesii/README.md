@@ -1,5 +1,4 @@
-Torrubia barnesii (Thwaites) Ces. SPECIES
-=======
+# Torrubia barnesii (Thwaites) Ces. SPECIES
 
 #### Status
 ACCEPTED

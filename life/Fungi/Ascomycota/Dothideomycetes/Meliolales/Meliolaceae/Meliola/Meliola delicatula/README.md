@@ -1,5 +1,4 @@
-Meliola delicatula Speg. SPECIES
-=======
+# Meliola delicatula Speg. SPECIES
 
 #### Status
 ACCEPTED

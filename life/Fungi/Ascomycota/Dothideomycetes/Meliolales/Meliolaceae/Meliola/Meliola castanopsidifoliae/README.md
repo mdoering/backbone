@@ -1,14 +1,13 @@
-Meliola castanopsisifolia (W. Yamam.) Cif. SPECIES
-=======
+# Meliola castanopsidifoliae (W. Yamam.) Cif. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycopath. Mycol. appl. 7: 88 (1954)
 
 #### Original name
 Irene castanopsidifoliae W. Yamam.

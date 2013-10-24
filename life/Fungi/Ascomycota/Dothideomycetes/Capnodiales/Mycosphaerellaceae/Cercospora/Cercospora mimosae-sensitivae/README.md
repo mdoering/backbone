@@ -1,5 +1,4 @@
-Cercospora mimosae-sensitivae A. Hern. Gut. & Dianese SPECIES
-=======
+# Cercospora mimosae-sensitivae A. Hern. Gut. & Dianese SPECIES
 
 #### Status
 ACCEPTED

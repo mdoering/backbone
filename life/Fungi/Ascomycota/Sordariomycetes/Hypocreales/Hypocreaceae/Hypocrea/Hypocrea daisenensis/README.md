@@ -1,5 +1,4 @@
-Hypocrea daisenensis (Yoshim. Doi & Uchiy.) H.L. Chamb. SPECIES
-=======
+# Hypocrea daisenensis (Yoshim. Doi & Uchiy.) H.L. Chamb. SPECIES
 
 #### Status
 ACCEPTED

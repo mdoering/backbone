@@ -1,5 +1,4 @@
-Pterula fulvescens Bres. SPECIES
-=======
+# Pterula fulvescens Bres. SPECIES
 
 #### Status
 ACCEPTED

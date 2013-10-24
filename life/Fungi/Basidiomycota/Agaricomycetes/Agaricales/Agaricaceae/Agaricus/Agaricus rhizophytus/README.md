@@ -1,5 +1,4 @@
-Agaricus rhizophytus J. Otto SPECIES
-=======
+# Agaricus rhizophytus J. Otto SPECIES
 
 #### Status
 ACCEPTED

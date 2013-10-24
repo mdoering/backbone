@@ -1,5 +1,4 @@
-Paleoserenomyces allenbyensis Currah, Stockey & B.A. LePage SPECIES
-=======
+# Paleoserenomyces allenbyensis Currah, Stockey & B.A. LePage SPECIES
 
 #### Status
 ACCEPTED

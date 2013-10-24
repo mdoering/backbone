@@ -1,5 +1,4 @@
-Coscinodiscus pellucidus Grunow SPECIES
-=======
+# Coscinodiscus pellucidus Grunow SPECIES
 
 #### Status
 ACCEPTED

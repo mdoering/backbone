@@ -1,5 +1,4 @@
-Sphaeromphale hazslinszkyi Körb. SPECIES
-=======
+# Sphaeromphale hazslinszkyi Körb. SPECIES
 
 #### Status
 ACCEPTED

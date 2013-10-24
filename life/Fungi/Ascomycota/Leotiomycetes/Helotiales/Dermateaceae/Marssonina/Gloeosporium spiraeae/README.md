@@ -1,5 +1,4 @@
-Gloeosporium spiraeae Bres. SPECIES
-=======
+# Gloeosporium spiraeae Bres. SPECIES
 
 #### Status
 ACCEPTED

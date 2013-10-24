@@ -1,5 +1,4 @@
-Flammula arenariobulbosa Cleland SPECIES
-=======
+# Flammula arenariobulbosa Cleland SPECIES
 
 #### Status
 ACCEPTED

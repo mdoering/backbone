@@ -1,5 +1,4 @@
-Morchella pseudorigida Jacquet. SPECIES
-=======
+# Morchella pseudorigida Jacquet. SPECIES
 
 #### Status
 ACCEPTED

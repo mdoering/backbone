@@ -1,5 +1,4 @@
-Flabellophora squamosa Corner, 1987 SPECIES
-=======
+# Flabellophora squamosa Corner, 1987 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Comminutispora agavaciensis A.W. Ramaley, 1996 SPECIES
-=======
+# Comminutispora agavacearum A.W. Ramaley, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 88(1): 133 (1996)
 
 #### Original name
-Comminutispora agavaciensis A.W. Ramaley, 1996
+Comminutispora agavacearum A.W. Ramaley, 1996
 
 ### Remarks
 null

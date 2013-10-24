@@ -1,5 +1,4 @@
-Corynebacterium thomssenii Zimmermann et al., 1998 SPECIES
-=======
+# Corynebacterium thomssenii Zimmermann et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

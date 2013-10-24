@@ -1,5 +1,4 @@
-Graphis cirrhata Stirt. SPECIES
-=======
+# Graphis cirrhata Stirt. SPECIES
 
 #### Status
 ACCEPTED

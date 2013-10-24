@@ -1,5 +1,4 @@
-Candida chilensis Grinb. & Yarrow, 1970 SPECIES
-=======
+# Candida chilensis Grinb. & Yarrow, 1970 SPECIES
 
 #### Status
 ACCEPTED

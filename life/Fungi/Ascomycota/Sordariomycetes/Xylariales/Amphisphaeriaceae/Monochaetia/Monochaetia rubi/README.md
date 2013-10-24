@@ -1,5 +1,4 @@
-Monochaetia rubi Lebezh. SPECIES
-=======
+# Monochaetia rubi Lebezh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecothecium inspersum SPECIES
-=======
+# Lecothecium inspersum SPECIES
 
 #### Status
 ACCEPTED

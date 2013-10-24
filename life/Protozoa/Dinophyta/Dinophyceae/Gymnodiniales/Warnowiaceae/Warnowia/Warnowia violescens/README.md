@@ -1,5 +1,4 @@
-Warnowia violescens (Kofoid & Swezy) Lindemann, 1928 SPECIES
-=======
+# Warnowia violescens (Kofoid & Swezy) Lindemann, 1928 SPECIES
 
 #### Status
 ACCEPTED

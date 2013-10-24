@@ -1,5 +1,4 @@
-Auricularia cristatum Schumach. SPECIES
-=======
+# Auricularia cristatum Schumach. SPECIES
 
 #### Status
 ACCEPTED

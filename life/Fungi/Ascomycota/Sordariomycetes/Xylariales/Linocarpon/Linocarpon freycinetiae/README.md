@@ -1,5 +1,4 @@
-Linocarpon freycinetiae (Rehm) K.D. Hyde SPECIES
-=======
+# Linocarpon freycinetiae (Rehm) K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

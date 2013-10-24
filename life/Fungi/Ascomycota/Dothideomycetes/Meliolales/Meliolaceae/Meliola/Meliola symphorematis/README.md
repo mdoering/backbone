@@ -1,5 +1,4 @@
-Meliola symphorematis Petr. SPECIES
-=======
+# Meliola symphorematis Petr. SPECIES
 
 #### Status
 ACCEPTED

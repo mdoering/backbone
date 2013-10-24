@@ -1,5 +1,4 @@
-Ganoderma manoutchehrii Steyaert, 1972 SPECIES
-=======
+# Ganoderma manoutchehrii Steyaert, 1972 SPECIES
 
 #### Status
 ACCEPTED

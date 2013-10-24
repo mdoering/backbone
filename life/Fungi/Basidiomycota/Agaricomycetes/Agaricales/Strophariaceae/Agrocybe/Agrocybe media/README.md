@@ -1,5 +1,4 @@
-Agrocybe media Hongo SPECIES
-=======
+# Agrocybe media Hongo SPECIES
 
 #### Status
 ACCEPTED

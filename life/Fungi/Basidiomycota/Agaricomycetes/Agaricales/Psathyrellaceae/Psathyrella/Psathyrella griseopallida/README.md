@@ -1,5 +1,4 @@
-Psathyrella griseopallida Thiers & A.H. Sm. SPECIES
-=======
+# Psathyrella griseopallida Thiers & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

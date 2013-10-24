@@ -1,5 +1,4 @@
-Camaroglobulus resinae Speer, 1986 SPECIES
-=======
+# Camaroglobulus resinae Speer, 1986 SPECIES
 
 #### Status
 ACCEPTED

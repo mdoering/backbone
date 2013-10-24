@@ -1,5 +1,4 @@
-Dicaeoma oryzopsidis (Syd., P. Syd. & E.J. Butler) Syd. SPECIES
-=======
+# Dicaeoma oryzopsidis (Syd., P. Syd. & E.J. Butler) Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius jucundus Melot SPECIES
-=======
+# Cortinarius jucundus Melot SPECIES
 
 #### Status
 ACCEPTED

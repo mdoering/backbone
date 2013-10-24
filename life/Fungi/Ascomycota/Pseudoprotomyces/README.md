@@ -1,5 +1,4 @@
-Pseudoprotomyces GENUS
-=======
+# Pseudoprotomyces GENUS
 
 #### Status
 ACCEPTED

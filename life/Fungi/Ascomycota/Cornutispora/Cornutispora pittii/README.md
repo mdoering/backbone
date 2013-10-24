@@ -1,5 +1,4 @@
-Cornutispora pittii D. Hawksw. & Punith. SPECIES
-=======
+# Cornutispora pittii D. Hawksw. & Punith. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeocystidiellum bisporum Boidin, Lanq. & Gilles, 1997 SPECIES
-=======
+# Gloeocystidiellum bisporum Boidin, Lanq. & Gilles, 1997 SPECIES
 
 #### Status
 ACCEPTED

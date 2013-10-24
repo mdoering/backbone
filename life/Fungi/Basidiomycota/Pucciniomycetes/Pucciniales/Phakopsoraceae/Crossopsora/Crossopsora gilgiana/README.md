@@ -1,14 +1,13 @@
-Cronartium gilgianum Henn., 1895 SPECIES
-=======
+# Crossopsora gilgiana (Henn.) Buriticá & J.F. Hennen, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Engler's Bot. Jahrb. 22: 83 (1895)
+Fl. Neotrop. , Monogr. 24: 20 (1980)
 
 #### Original name
 Cronartium gilgianum Henn., 1895

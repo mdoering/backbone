@@ -1,8 +1,7 @@
-Dileptus breviproboscis Foissner, 1981 SPECIES
-=======
+# Microdileptus breviproboscis (Foissner, 1981) Vdacny & Foissner, 2011 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Acanthamoeba palestinensis (Reich, 1933) SPECIES
-=======
+# Acanthamoeba palestinensis (Reich, 1933) SPECIES
 
 #### Status
 ACCEPTED

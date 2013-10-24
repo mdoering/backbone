@@ -1,5 +1,4 @@
-Sargassum leptopodum Sonder SPECIES
-=======
+# Sargassum leptopodum Sonder SPECIES
 
 #### Status
 ACCEPTED

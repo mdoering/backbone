@@ -1,17 +1,16 @@
-Hysterographium rousselii (De Not.) Sacc. SPECIES
-=======
+# Hysterobrevium mori (Schwein.) E. Boehm & C.L. Schoch, 2009 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 2: 779 (1883)
+null
 
 #### Original name
-Hysterium rousselii De Not.
+null
 
 ### Remarks
 null

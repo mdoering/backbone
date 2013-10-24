@@ -1,5 +1,4 @@
-Mycosphaerella shimadae Sawada SPECIES
-=======
+# Mycosphaerella shimadae Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Zygodiscus sigmoides Bramlette & Sullivan, 1961 SPECIES
-=======
+# Placozygus sigmoides (Bramlette & Sullivan, 1961) Romein, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

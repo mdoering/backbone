@@ -1,5 +1,4 @@
-Placopsis brevilobata (Zahlbr.) I.M. Lamb SPECIES
-=======
+# Placopsis brevilobata (Zahlbr.) I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

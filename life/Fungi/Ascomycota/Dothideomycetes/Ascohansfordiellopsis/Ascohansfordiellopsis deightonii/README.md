@@ -1,5 +1,4 @@
-Ascohansfordiellopsis deightonii D. Hawksw. SPECIES
-=======
+# Ascohansfordiellopsis deightonii D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

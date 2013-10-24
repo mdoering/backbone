@@ -1,5 +1,4 @@
-Tylopilus cyanescens T.H. Li & Watling SPECIES
-=======
+# Tylopilus cyanescens T.H. Li & Watling SPECIES
 
 #### Status
 ACCEPTED

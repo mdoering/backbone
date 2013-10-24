@@ -1,5 +1,4 @@
-Dendrosarcus obfuscescens (Berk.) Kuntze SPECIES
-=======
+# Dendrosarcus obfuscescens (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

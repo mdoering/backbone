@@ -1,5 +1,4 @@
-Coniophyllum GENUS
-=======
+# Coniophyllum GENUS
 
 #### Status
 ACCEPTED

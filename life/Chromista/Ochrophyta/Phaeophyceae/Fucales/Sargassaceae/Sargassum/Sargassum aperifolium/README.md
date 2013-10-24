@@ -1,5 +1,4 @@
-Sargassum aperifolium Hering & G. Martens ex J. Agardh SPECIES
-=======
+# Sargassum aperifolium Hering & G. Martens ex J. Agardh SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cellularia torrida (Kalchbr.) Kuntze SPECIES
-=======
+# Cellularia torrida (Kalchbr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

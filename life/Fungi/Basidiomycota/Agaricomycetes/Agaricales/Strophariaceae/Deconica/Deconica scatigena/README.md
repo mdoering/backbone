@@ -1,5 +1,4 @@
-Deconica scatigena (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Deconica scatigena (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

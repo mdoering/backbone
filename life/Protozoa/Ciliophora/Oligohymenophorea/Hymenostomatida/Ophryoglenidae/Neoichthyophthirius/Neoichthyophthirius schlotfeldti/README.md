@@ -1,8 +1,7 @@
-Ichthyophthirius schlotfeldti Yunchis, 1997 SPECIES
-=======
+# Neoichthyophthirius schlotfeldti (Yunchis, 1997) Bauer & Yunchis, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

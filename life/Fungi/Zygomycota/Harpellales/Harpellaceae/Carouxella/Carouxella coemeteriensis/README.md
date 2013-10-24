@@ -1,5 +1,4 @@
-Carouxella coemeteriensis Lichtw., López-Lastra & Ferrington, 1999 SPECIES
-=======
+# Carouxella coemeteriensis Lichtw., López-Lastra & Ferrington, 1999 SPECIES
 
 #### Status
 ACCEPTED

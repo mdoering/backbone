@@ -1,5 +1,4 @@
-Roccella endochrocea SPECIES
-=======
+# Roccella endochrocea SPECIES
 
 #### Status
 ACCEPTED

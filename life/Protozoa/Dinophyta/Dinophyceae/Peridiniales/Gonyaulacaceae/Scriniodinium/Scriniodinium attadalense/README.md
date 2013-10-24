@@ -1,5 +1,4 @@
-Scriniodinium attadalense Cookson & Eisenack SPECIES
-=======
+# Scriniodinium attadalense Cookson & Eisenack SPECIES
 
 #### Status
 ACCEPTED

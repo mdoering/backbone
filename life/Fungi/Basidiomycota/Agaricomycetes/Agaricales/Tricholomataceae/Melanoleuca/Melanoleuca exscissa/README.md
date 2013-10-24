@@ -1,17 +1,16 @@
-Melanoleuca exscissa f. exscissa FORM
-=======
+# Melanoleuca exscissa (Fr. Fr.) Singer SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Contr. Inst. bot. Univ. Montreal 7: 125 (1935)
+null
 
 #### Original name
-Melanoleuca exscissa f. exscissa
+null
 
 ### Remarks
 null

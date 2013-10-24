@@ -1,5 +1,4 @@
-Ramaria velocimutans Marr & D.E. Stuntz, 1974 SPECIES
-=======
+# Ramaria velocimutans Marr & D.E. Stuntz, 1974 SPECIES
 
 #### Status
 ACCEPTED

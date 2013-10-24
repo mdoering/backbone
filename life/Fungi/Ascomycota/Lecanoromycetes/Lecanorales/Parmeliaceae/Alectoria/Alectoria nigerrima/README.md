@@ -1,5 +1,4 @@
-Alectoria nigerrima Hue SPECIES
-=======
+# Alectoria nigerrima Hue SPECIES
 
 #### Status
 ACCEPTED

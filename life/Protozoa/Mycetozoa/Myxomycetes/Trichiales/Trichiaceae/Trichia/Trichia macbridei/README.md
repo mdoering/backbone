@@ -1,5 +1,4 @@
-Trichia macbridei M. Peck apud Peck & H.C. Gilbert, 1932 SPECIES
-=======
+# Trichia macbridei M. Peck apud Peck & H.C. Gilbert, 1932 SPECIES
 
 #### Status
 ACCEPTED

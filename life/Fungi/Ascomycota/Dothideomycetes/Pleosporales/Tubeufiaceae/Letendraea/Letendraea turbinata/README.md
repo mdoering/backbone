@@ -1,5 +1,4 @@
-Letendraea turbinata (Fuckel) Sacc. SPECIES
-=======
+# Letendraea turbinata (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

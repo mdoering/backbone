@@ -1,5 +1,4 @@
-Pyrenochaeta vexans Syd. SPECIES
-=======
+# Pyrenochaeta vexans Syd. SPECIES
 
 #### Status
 ACCEPTED

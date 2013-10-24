@@ -1,5 +1,4 @@
-Micromonospora coerulea Jensen, 1932 (Approved Lists, 1980) SPECIES
-=======
+# Micromonospora coerulea Jensen, 1932 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

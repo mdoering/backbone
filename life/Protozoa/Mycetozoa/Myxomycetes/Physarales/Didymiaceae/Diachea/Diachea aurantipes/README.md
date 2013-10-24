@@ -1,5 +1,4 @@
-Diachea aurantipes Nann.-Bremek. & Y. Yamam., 1983 SPECIES
-=======
+# Diachea aurantipes Nann.-Bremek. & Y. Yamam., 1983 SPECIES
 
 #### Status
 ACCEPTED

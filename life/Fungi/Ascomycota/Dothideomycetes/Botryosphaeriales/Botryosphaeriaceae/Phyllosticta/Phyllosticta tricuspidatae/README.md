@@ -1,5 +1,4 @@
-Phyllosticta tricuspidatae Miura SPECIES
-=======
+# Phyllosticta tricuspidatae Miura SPECIES
 
 #### Status
 ACCEPTED

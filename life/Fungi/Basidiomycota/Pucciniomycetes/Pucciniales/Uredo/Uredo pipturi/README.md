@@ -1,5 +1,4 @@
-Uredo pipturi (Syd.) Hirats. f. SPECIES
-=======
+# Uredo pipturi (Syd.) Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

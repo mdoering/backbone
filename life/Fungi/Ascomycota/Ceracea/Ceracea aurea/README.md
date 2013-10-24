@@ -1,5 +1,4 @@
-Ceracea aurea Rick SPECIES
-=======
+# Ceracea aurea Rick SPECIES
 
 #### Status
 ACCEPTED

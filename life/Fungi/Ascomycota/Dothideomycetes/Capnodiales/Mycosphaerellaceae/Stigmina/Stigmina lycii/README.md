@@ -1,5 +1,4 @@
-Stigmina lycii (Kalchbr.) B. Sutton SPECIES
-=======
+# Stigmina lycii (Kalchbr.) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sclerotium orobanches Schwein. SPECIES
-=======
+# Sclerotium orobanches Schwein. SPECIES
 
 #### Status
 ACCEPTED

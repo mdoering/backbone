@@ -1,5 +1,4 @@
-Derxomyces wuzhishanensis F.Y. Bai & Q.M. Wang SPECIES
-=======
+# Derxomyces wuzhishanensis F.Y. Bai & Q.M. Wang SPECIES
 
 #### Status
 ACCEPTED

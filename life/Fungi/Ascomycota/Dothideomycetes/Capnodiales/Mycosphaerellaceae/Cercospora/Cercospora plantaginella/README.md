@@ -1,5 +1,4 @@
-Cercospora plantaginella Tehon SPECIES
-=======
+# Cercospora plantaginella Tehon SPECIES
 
 #### Status
 ACCEPTED

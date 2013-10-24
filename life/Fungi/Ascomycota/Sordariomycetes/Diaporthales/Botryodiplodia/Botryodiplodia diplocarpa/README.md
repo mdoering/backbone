@@ -1,5 +1,4 @@
-Botryodiplodia diplocarpa Ellis & Everh. SPECIES
-=======
+# Botryodiplodia diplocarpa Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

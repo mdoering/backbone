@@ -1,5 +1,4 @@
-Penicillium incoloratum L.Q. Huang & Z.T. Qi, 1994 SPECIES
-=======
+# Penicillium incoloratum L.Q. Huang & Z.T. Qi, 1994 SPECIES
 
 #### Status
 ACCEPTED

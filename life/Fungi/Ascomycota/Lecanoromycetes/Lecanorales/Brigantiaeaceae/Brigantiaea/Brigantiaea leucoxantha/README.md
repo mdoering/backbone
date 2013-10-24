@@ -1,14 +1,13 @@
-Heterothecium leucoxanthum (Spreng.) A. Massal. SPECIES
-=======
+# Brigantiaea leucoxantha (Spreng.) R. Sant. & Hafellner SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Miscell. Lich. 39 (1856)
+in Hafellner & Bellemère, Nova Hedwigia 35(2 & 3): 246 (1982)
 
 #### Original name
 Lecidea leucoxantha Spreng.

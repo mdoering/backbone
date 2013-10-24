@@ -1,5 +1,4 @@
-Polystictus pavonius (Hook.) Fr. SPECIES
-=======
+# Polystictus pavonius (Hook.) Fr. SPECIES
 
 #### Status
 ACCEPTED

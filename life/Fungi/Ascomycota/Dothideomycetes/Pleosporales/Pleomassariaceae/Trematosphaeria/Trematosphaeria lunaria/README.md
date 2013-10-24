@@ -1,5 +1,4 @@
-Trematosphaeria lunaria Curr. SPECIES
-=======
+# Trematosphaeria lunaria Curr. SPECIES
 
 #### Status
 ACCEPTED

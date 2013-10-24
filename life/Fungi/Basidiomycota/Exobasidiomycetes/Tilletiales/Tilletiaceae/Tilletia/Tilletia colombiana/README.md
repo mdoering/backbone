@@ -1,5 +1,4 @@
-Tilletia colombiana Vánky, 1995 SPECIES
-=======
+# Tilletia colombiana Vánky, 1995 SPECIES
 
 #### Status
 ACCEPTED

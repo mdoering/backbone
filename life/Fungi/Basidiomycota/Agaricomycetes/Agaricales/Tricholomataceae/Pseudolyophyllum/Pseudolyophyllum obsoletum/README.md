@@ -1,5 +1,4 @@
-Pseudolyophyllum obsoletum var. obsoletum VARIETY
-=======
+# Pseudolyophyllum obsoletum (Fr.) Quél. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Metrodiana 13(1-2): 10 (1986)
 
 #### Original name
-Pseudolyophyllum obsoletum var. obsoletum
+Agaricus obsoletus Batsch
 
 ### Remarks
 null

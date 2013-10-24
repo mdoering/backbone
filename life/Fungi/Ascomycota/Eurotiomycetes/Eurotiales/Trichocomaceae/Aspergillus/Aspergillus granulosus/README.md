@@ -1,5 +1,4 @@
-Aspergillus granulosus Raper & Thom, 1944 SPECIES
-=======
+# Aspergillus granulosus Raper & Thom, 1944 SPECIES
 
 #### Status
 ACCEPTED

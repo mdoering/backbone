@@ -1,5 +1,4 @@
-Actinomyces bowdenii Pascual et al., 1999 SPECIES
-=======
+# Actinomyces bowdenii Pascual et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

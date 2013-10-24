@@ -1,8 +1,7 @@
-Geaster pusillus Fr. SPECIES
-=======
+# Geastrum pusillus Fr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Geaster pusillus Fr.
+Geastrum pusillus Fr.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Arthrorhaphis olivaceae R. Sant. & Tønsberg SPECIES
-=======
+# Arthrorhaphis olivaceae R. Sant. & Tønsberg SPECIES
 
 #### Status
 ACCEPTED

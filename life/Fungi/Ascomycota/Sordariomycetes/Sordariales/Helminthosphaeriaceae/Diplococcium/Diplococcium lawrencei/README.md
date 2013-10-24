@@ -1,5 +1,4 @@
-Diplococcium lawrencei B. Sutton, 1973 SPECIES
-=======
+# Diplococcium lawrencei B. Sutton, 1973 SPECIES
 
 #### Status
 ACCEPTED

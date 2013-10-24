@@ -1,5 +1,4 @@
-Lecidea plicata Clemente SPECIES
-=======
+# Lecidea plicata Clemente SPECIES
 
 #### Status
 ACCEPTED

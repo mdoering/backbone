@@ -1,5 +1,4 @@
-Penicillium quadrifidum G. Salisb. SPECIES
-=======
+# Penicillium quadrifidum G. Salisb. SPECIES
 
 #### Status
 ACCEPTED

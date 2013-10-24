@@ -1,5 +1,4 @@
-Phomopsis marsdeniae Petr. SPECIES
-=======
+# Phomopsis marsdeniae Petr. SPECIES
 
 #### Status
 ACCEPTED

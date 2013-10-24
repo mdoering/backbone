@@ -1,5 +1,4 @@
-Psathyra griseobadia Pat. SPECIES
-=======
+# Psathyra griseobadia Pat. SPECIES
 
 #### Status
 ACCEPTED

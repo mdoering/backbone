@@ -1,5 +1,4 @@
-Eubacterium callanderi Mountfort et al., 1988 SPECIES
-=======
+# Eubacterium callanderi Mountfort et al., 1988 SPECIES
 
 #### Status
 ACCEPTED

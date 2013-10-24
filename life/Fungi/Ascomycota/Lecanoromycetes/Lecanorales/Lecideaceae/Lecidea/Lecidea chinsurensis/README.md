@@ -1,5 +1,4 @@
-Lecidea chinsurensis Stirt. SPECIES
-=======
+# Lecidea chinsurensis Stirt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trachyhystrichosphaera vidalii Knoll, 1984 SPECIES
-=======
+# Trachyhystrichosphaera vidalii Knoll, 1984 SPECIES
 
 #### Status
 ACCEPTED

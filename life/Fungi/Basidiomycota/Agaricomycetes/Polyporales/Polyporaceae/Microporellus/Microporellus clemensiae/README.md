@@ -1,17 +1,16 @@
-Polyporus sembilanii Lloyd, 1923 SPECIES
-=======
+# Microporellus clemensiae (Murrill) Ryvarden, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Writ. 7: 1223 (1923)
+Mycotaxon 23: 171 (1985)
 
 #### Original name
-Polyporus sembilanii Lloyd, 1923
+Amauroderma clemensiae Murrill, 1908
 
 ### Remarks
 null

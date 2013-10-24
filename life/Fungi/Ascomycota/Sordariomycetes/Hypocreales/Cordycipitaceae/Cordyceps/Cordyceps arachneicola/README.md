@@ -1,5 +1,4 @@
-Cordyceps arachneicola Kobayasi SPECIES
-=======
+# Cordyceps arachneicola Kobayasi SPECIES
 
 #### Status
 ACCEPTED

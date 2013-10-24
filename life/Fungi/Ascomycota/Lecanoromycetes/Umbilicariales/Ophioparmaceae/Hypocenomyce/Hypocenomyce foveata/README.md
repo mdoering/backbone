@@ -1,5 +1,4 @@
-Hypocenomyce foveata Timdal SPECIES
-=======
+# Hypocenomyce foveata Timdal SPECIES
 
 #### Status
 ACCEPTED

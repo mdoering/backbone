@@ -1,5 +1,4 @@
-Buellia contrerasii B. de Lesd. SPECIES
-=======
+# Buellia contrerasii B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

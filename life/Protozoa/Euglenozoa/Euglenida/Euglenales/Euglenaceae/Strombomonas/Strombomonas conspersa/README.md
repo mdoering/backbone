@@ -1,5 +1,4 @@
-Strombomonas conspersa (Pascher) Tell & Conforti SPECIES
-=======
+# Strombomonas conspersa (Pascher) Tell & Conforti SPECIES
 
 #### Status
 ACCEPTED

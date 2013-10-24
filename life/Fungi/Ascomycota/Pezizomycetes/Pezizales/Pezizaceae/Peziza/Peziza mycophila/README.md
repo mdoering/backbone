@@ -1,5 +1,4 @@
-Peziza mycophila Fr. SPECIES
-=======
+# Peziza mycophila Fr. SPECIES
 
 #### Status
 ACCEPTED

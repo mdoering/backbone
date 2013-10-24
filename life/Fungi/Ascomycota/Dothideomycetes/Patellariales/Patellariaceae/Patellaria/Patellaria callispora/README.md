@@ -1,5 +1,4 @@
-Patellaria callispora Penz. & Sacc. SPECIES
-=======
+# Patellaria callispora Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

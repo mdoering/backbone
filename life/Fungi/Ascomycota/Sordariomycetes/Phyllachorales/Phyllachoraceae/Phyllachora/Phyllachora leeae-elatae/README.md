@@ -1,17 +1,16 @@
-Phyllachora leea-elatae A.K. Kar & Maity SPECIES
-=======
+# Phyllachora leeae-elatae A.K. Kar & Maity, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 63(5): 1024 (1971)
 
 #### Original name
-Phyllachora leea-elatae A.K. Kar & Maity
+Phyllachora leeae-elatae A.K. Kar & Maity, 1971
 
 ### Remarks
 null

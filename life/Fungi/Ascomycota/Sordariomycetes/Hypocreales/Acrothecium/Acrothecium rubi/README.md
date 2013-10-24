@@ -1,5 +1,4 @@
-Acrothecium rubi Sawada SPECIES
-=======
+# Acrothecium rubi Sawada SPECIES
 
 #### Status
 ACCEPTED

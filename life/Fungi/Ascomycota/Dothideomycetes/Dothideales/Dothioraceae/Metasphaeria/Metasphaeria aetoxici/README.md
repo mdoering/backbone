@@ -1,5 +1,4 @@
-Metasphaeria aetoxici Speg. SPECIES
-=======
+# Metasphaeria aetoxici Speg. SPECIES
 
 #### Status
 ACCEPTED

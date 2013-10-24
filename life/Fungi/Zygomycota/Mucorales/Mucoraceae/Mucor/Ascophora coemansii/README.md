@@ -1,5 +1,4 @@
-Ascophora coemansii Bonord. SPECIES
-=======
+# Ascophora coemansii Bonord. SPECIES
 
 #### Status
 ACCEPTED

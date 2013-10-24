@@ -1,5 +1,4 @@
-Lecanora dominiana Servít SPECIES
-=======
+# Lecanora dominiana Servít SPECIES
 
 #### Status
 ACCEPTED

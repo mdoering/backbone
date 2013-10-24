@@ -1,17 +1,16 @@
-Helmisporium acuum P. Karst. SPECIES
-=======
+# Helminthosporium acuum P. Karst. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hedwigia 31: 295 (1892)
 
 #### Original name
-Helmisporium acuum P. Karst.
+Helminthosporium acuum P. Karst.
 
 ### Remarks
 null

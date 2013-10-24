@@ -1,17 +1,16 @@
-Ustilago arthuri H.H. Hume SPECIES
-=======
+# Ustilago arthurii H.H. Hume SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Proc. Iowa Acad. Sci. 9: 233 (1902)
 
 #### Original name
-Ustilago arthuri H.H. Hume
+Ustilago arthurii H.H. Hume
 
 ### Remarks
 null

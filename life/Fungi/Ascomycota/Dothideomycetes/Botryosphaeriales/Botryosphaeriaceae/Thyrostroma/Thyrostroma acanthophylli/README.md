@@ -1,5 +1,4 @@
-Thyrostroma acanthophylli Esfand. SPECIES
-=======
+# Thyrostroma acanthophylli Esfand. SPECIES
 
 #### Status
 ACCEPTED

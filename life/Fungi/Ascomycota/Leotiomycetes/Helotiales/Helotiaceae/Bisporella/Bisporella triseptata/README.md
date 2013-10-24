@@ -1,5 +1,4 @@
-Bisporella triseptata (Dennis) S.E. Carp. & Dumont SPECIES
-=======
+# Bisporella triseptata (Dennis) S.E. Carp. & Dumont SPECIES
 
 #### Status
 ACCEPTED

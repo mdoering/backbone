@@ -1,5 +1,4 @@
-Haplocystis Sorokin, 1874 GENUS
-=======
+# Haplocystis Sorokin, 1874 GENUS
 
 #### Status
 ACCEPTED

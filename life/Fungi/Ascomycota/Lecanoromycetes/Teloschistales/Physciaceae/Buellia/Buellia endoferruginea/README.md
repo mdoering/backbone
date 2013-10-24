@@ -1,5 +1,4 @@
-Buellia endoferruginea Bungartz SPECIES
-=======
+# Buellia endoferruginea Bungartz SPECIES
 
 #### Status
 ACCEPTED

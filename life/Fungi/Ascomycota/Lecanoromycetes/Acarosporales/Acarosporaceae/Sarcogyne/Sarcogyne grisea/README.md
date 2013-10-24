@@ -1,5 +1,4 @@
-Sarcogyne grisea C.W. Dodge & G.E. Baker SPECIES
-=======
+# Sarcogyne grisea C.W. Dodge & G.E. Baker SPECIES
 
 #### Status
 ACCEPTED

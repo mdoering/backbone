@@ -1,5 +1,4 @@
-Cladosporites fasciculatus E.W. Berry SPECIES
-=======
+# Cladosporites fasciculatus E.W. Berry SPECIES
 
 #### Status
 ACCEPTED

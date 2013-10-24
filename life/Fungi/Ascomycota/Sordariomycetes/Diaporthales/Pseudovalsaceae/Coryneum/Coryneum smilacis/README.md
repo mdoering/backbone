@@ -1,5 +1,4 @@
-Coryneum smilacis Schwein. SPECIES
-=======
+# Coryneum smilacis Schwein. SPECIES
 
 #### Status
 ACCEPTED

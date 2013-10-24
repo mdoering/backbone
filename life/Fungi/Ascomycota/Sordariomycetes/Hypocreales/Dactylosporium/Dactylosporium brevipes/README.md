@@ -1,5 +1,4 @@
-Dactylosporium brevipes Grove SPECIES
-=======
+# Dactylosporium brevipes Grove SPECIES
 
 #### Status
 ACCEPTED

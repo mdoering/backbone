@@ -1,5 +1,4 @@
-Gyalideopsis confluens Kalb & Vezda SPECIES
-=======
+# Gyalideopsis confluens Kalb & Vezda SPECIES
 
 #### Status
 ACCEPTED

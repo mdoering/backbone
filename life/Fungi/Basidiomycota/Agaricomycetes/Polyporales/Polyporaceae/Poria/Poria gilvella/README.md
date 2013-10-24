@@ -1,5 +1,4 @@
-Poria gilvella Pilát SPECIES
-=======
+# Poria gilvella Pilát SPECIES
 
 #### Status
 ACCEPTED

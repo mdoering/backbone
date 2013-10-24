@@ -1,5 +1,4 @@
-Gontrania lubrica Sauvageau SPECIES
-=======
+# Gontrania lubrica Sauvageau SPECIES
 
 #### Status
 ACCEPTED

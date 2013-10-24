@@ -1,5 +1,4 @@
-Psathyra weberi Murrill SPECIES
-=======
+# Psathyra weberi Murrill SPECIES
 
 #### Status
 ACCEPTED

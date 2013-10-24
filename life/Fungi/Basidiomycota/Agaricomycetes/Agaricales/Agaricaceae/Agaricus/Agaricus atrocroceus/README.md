@@ -1,5 +1,4 @@
-Agaricus atrocroceus Massee SPECIES
-=======
+# Agaricus atrocroceus Massee SPECIES
 
 #### Status
 ACCEPTED

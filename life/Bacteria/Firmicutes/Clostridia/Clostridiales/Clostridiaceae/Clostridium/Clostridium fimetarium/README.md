@@ -1,5 +1,4 @@
-Clostridium fimetarium Kotsyurbenko et al., 1997 SPECIES
-=======
+# Clostridium fimetarium Kotsyurbenko et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

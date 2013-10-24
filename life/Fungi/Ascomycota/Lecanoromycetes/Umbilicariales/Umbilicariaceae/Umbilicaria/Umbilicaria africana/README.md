@@ -1,5 +1,4 @@
-Umbilicaria africana (Jatta) Krog & Swinscow SPECIES
-=======
+# Umbilicaria africana (Jatta) Krog & Swinscow SPECIES
 
 #### Status
 ACCEPTED

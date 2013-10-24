@@ -1,5 +1,4 @@
-Lachnum calosporum (Pat. & Gaillard) J.H. Haines & Dumont SPECIES
-=======
+# Lachnum calosporum (Pat. & Gaillard) J.H. Haines & Dumont SPECIES
 
 #### Status
 ACCEPTED

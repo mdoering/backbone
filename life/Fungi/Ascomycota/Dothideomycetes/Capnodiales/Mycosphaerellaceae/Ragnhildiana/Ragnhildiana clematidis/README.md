@@ -1,5 +1,4 @@
-Ragnhildiana clematidis Golovin SPECIES
-=======
+# Ragnhildiana clematidis Golovin SPECIES
 
 #### Status
 ACCEPTED

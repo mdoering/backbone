@@ -1,5 +1,4 @@
-Pleonectria vagans Speg. SPECIES
-=======
+# Pleonectria vagans Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Synchytrium millingtoniicola Safeeulla & Govindu SPECIES
-=======
+# Synchytrium millingtoniicola Safeeulla & Govindu SPECIES
 
 #### Status
 ACCEPTED

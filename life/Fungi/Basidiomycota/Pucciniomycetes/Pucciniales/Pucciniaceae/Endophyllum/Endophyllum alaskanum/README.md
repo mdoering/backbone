@@ -1,5 +1,4 @@
-Endophyllum alaskanum Savile SPECIES
-=======
+# Endophyllum alaskanum Savile SPECIES
 
 #### Status
 ACCEPTED

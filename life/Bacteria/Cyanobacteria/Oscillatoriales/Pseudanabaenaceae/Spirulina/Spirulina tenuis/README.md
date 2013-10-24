@@ -1,5 +1,4 @@
-Spirulina tenuis (Brühl & Biswas) Geitler SPECIES
-=======
+# Spirulina tenuis (Brühl & Biswas) Geitler SPECIES
 
 #### Status
 ACCEPTED

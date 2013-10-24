@@ -1,5 +1,4 @@
-Tristylospyris Haeckel, 1881 GENUS
-=======
+# Tristylospyris Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

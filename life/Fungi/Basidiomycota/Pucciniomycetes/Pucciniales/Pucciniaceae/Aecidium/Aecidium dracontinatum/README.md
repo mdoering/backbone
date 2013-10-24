@@ -1,5 +1,4 @@
-Aecidium dracontinatum Schwein. SPECIES
-=======
+# Aecidium dracontinatum Schwein. SPECIES
 
 #### Status
 ACCEPTED

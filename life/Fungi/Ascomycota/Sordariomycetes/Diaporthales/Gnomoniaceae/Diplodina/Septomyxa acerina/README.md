@@ -1,5 +1,4 @@
-Septomyxa acerina (Westend.) Höhn. SPECIES
-=======
+# Septomyxa acerina (Westend.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

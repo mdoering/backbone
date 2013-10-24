@@ -1,5 +1,4 @@
-Ombrophila juglandis Velen. SPECIES
-=======
+# Ombrophila juglandis Velen. SPECIES
 
 #### Status
 ACCEPTED

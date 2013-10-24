@@ -1,5 +1,4 @@
-Meliola caseariicola Hansf. SPECIES
-=======
+# Meliola caseariicola Hansf. SPECIES
 
 #### Status
 ACCEPTED

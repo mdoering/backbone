@@ -1,5 +1,4 @@
-Scytonema capitatum Gardner SPECIES
-=======
+# Scytonema capitatum Gardner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella vacciniicola Ade SPECIES
-=======
+# Mycosphaerella vacciniicola Ade SPECIES
 
 #### Status
 ACCEPTED

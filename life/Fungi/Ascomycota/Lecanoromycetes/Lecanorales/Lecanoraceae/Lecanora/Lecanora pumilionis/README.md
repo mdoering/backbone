@@ -1,5 +1,4 @@
-Lecanora pumilionis (Arnold) Arnold SPECIES
-=======
+# Lecanora pumilionis (Arnold) Arnold SPECIES
 
 #### Status
 ACCEPTED

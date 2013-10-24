@@ -1,5 +1,4 @@
-Leucocoprinus minutulus Singer SPECIES
-=======
+# Leucocoprinus minutulus Singer SPECIES
 
 #### Status
 ACCEPTED

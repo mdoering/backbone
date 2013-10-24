@@ -1,5 +1,4 @@
-Ardhachandra aequilatera Matsush. SPECIES
-=======
+# Ardhachandra aequilatera Matsush. SPECIES
 
 #### Status
 ACCEPTED

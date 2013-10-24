@@ -1,5 +1,4 @@
-Calocybe africana Singer SPECIES
-=======
+# Calocybe africana Singer SPECIES
 
 #### Status
 ACCEPTED

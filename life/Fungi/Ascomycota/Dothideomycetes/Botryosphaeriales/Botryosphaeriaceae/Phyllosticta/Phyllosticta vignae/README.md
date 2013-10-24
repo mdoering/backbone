@@ -1,5 +1,4 @@
-Phyllosticta vignae Speg. SPECIES
-=======
+# Phyllosticta vignae Speg. SPECIES
 
 #### Status
 ACCEPTED

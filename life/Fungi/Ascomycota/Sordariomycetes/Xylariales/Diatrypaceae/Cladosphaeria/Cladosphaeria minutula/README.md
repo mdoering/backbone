@@ -1,5 +1,4 @@
-Cladosphaeria minutula G.H. Otth SPECIES
-=======
+# Cladosphaeria minutula G.H. Otth SPECIES
 
 #### Status
 ACCEPTED

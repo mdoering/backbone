@@ -1,5 +1,4 @@
-Campylobacter upsaliensis Sandstedt & Ursing, 1991 SPECIES
-=======
+# Campylobacter upsaliensis Sandstedt & Ursing, 1991 SPECIES
 
 #### Status
 ACCEPTED

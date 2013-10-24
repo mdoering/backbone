@@ -1,5 +1,4 @@
-Hypocopra pachyolax J.C. Krug & Cain SPECIES
-=======
+# Hypocopra pachyolax J.C. Krug & Cain SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psathyrella acutissima Singer SPECIES
-=======
+# Psathyrella acutissima Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptothyrium petiolorum (Cooke & Ellis) Sacc. SPECIES
-=======
+# Leptothyrium petiolorum (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

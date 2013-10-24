@@ -1,5 +1,4 @@
-Asteridiella portoricensis (Toro) Hansf. SPECIES
-=======
+# Asteridiella portoricensis (Toro) Hansf. SPECIES
 
 #### Status
 ACCEPTED

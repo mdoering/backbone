@@ -1,5 +1,4 @@
-Hygrocybe ovinoides Lodge, S.A. Cantrell & Baroni SPECIES
-=======
+# Hygrocybe ovinoides Lodge, S.A. Cantrell & Baroni SPECIES
 
 #### Status
 ACCEPTED

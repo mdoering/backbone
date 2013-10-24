@@ -1,5 +1,4 @@
-Phloeospora lunelliana (Sacc.) Solheim SPECIES
-=======
+# Phloeospora lunelliana (Sacc.) Solheim SPECIES
 
 #### Status
 ACCEPTED

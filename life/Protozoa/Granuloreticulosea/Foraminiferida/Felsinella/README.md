@@ -1,5 +1,4 @@
-Felsinella Conata, 1964 GENUS
-=======
+# Felsinella Conata, 1964 GENUS
 
 #### Status
 ACCEPTED

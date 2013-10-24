@@ -1,5 +1,4 @@
-Favolaschia manipularis (Berk.) Teng SPECIES
-=======
+# Favolaschia manipularis (Berk.) Teng SPECIES
 
 #### Status
 ACCEPTED

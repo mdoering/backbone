@@ -1,5 +1,4 @@
-Cortinarius lacustris Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius lacustris Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

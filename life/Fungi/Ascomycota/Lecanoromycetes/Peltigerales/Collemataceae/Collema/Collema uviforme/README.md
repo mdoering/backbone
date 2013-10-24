@@ -1,5 +1,4 @@
-Collema uviforme Hue SPECIES
-=======
+# Collema uviforme Hue SPECIES
 
 #### Status
 ACCEPTED

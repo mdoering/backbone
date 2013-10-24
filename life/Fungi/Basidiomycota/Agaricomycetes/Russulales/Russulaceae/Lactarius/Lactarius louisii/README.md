@@ -1,5 +1,4 @@
-Lactarius louisii Homola SPECIES
-=======
+# Lactarius louisii Homola SPECIES
 
 #### Status
 ACCEPTED

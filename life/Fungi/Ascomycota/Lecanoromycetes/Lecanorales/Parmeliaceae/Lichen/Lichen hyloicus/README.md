@@ -1,5 +1,4 @@
-Lichen hyloicus Ach. SPECIES
-=======
+# Lichen hyloicus Ach. SPECIES
 
 #### Status
 ACCEPTED

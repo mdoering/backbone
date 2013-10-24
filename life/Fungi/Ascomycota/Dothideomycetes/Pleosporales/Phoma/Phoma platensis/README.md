@@ -1,5 +1,4 @@
-Phoma platensis Cordo & Merlo SPECIES
-=======
+# Phoma platensis Cordo & Merlo SPECIES
 
 #### Status
 ACCEPTED

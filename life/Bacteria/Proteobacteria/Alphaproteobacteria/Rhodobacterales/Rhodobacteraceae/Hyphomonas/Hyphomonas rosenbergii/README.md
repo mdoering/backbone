@@ -1,5 +1,4 @@
-Hyphomonas rosenbergii Weiner et al., 2000 SPECIES
-=======
+# Hyphomonas rosenbergii Weiner et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

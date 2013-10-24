@@ -1,5 +1,4 @@
-Aranidium granulatum Welsch, 1986 SPECIES
-=======
+# Aranidium granulatum Welsch, 1986 SPECIES
 
 #### Status
 ACCEPTED

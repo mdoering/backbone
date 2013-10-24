@@ -1,5 +1,4 @@
-Rhizomorpha cirrhosa Ach. SPECIES
-=======
+# Rhizomorpha cirrhosa Ach. SPECIES
 
 #### Status
 ACCEPTED

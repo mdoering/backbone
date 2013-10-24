@@ -1,5 +1,4 @@
-Pyrenula mollis Fée SPECIES
-=======
+# Pyrenula mollis Fée SPECIES
 
 #### Status
 ACCEPTED

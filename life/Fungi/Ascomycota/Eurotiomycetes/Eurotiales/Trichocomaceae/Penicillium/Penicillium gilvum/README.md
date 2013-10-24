@@ -1,5 +1,4 @@
-Penicillium gilvum Sopp SPECIES
-=======
+# Penicillium gilvum Sopp SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus callosus var. callosus VARIETY
-=======
+# Agaricus callosus Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Observ. mycol. (Havniae) 2: 180 (1818)
 
 #### Original name
-Agaricus callosus var. callosus
+Agaricus callosus Fr.
 
 ### Remarks
 null

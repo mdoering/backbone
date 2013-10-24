@@ -1,5 +1,4 @@
-Tilletia gigacellularis Vánky, 2004 SPECIES
-=======
+# Tilletia gigacellularis Vánky, 2004 SPECIES
 
 #### Status
 ACCEPTED

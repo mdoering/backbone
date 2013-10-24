@@ -1,5 +1,4 @@
-Diploicia latemarginata (Darb.) C.W. Dodge SPECIES
-=======
+# Diploicia latemarginata (Darb.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Delpinoella insignis Sacc. & Trotter, 1899 SPECIES
-=======
+# Delpinoella insignis Sacc. & Trotter, 1899 SPECIES
 
 #### Status
 ACCEPTED

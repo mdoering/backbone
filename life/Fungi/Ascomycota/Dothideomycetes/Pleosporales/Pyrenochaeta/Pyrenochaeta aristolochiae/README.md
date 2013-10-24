@@ -1,5 +1,4 @@
-Pyrenochaeta aristolochiae Speg. SPECIES
-=======
+# Pyrenochaeta aristolochiae Speg. SPECIES
 
 #### Status
 ACCEPTED

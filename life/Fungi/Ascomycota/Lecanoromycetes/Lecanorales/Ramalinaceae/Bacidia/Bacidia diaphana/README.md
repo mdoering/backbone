@@ -1,5 +1,4 @@
-Bacidia diaphana SPECIES
-=======
+# Bacidia diaphana SPECIES
 
 #### Status
 ACCEPTED

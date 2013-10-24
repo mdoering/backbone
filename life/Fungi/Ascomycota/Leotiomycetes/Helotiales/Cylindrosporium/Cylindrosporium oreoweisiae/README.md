@@ -1,5 +1,4 @@
-Cylindrosporium oreoweisiae Gonz. Frag. SPECIES
-=======
+# Cylindrosporium oreoweisiae Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

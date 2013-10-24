@@ -1,5 +1,4 @@
-Exoascus decipiens G.F. Atk. SPECIES
-=======
+# Exoascus decipiens G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

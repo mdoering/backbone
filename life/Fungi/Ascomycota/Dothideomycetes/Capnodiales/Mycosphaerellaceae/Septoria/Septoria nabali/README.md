@@ -1,5 +1,4 @@
-Septoria nabali Berk. & M.A. Curtis SPECIES
-=======
+# Septoria nabali Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

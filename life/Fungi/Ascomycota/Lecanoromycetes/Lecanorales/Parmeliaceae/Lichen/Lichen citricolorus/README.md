@@ -1,5 +1,4 @@
-Lichen citricolorus G.F. Gmel. SPECIES
-=======
+# Lichen citricolorus G.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

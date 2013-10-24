@@ -1,8 +1,7 @@
-Polymorphina gutta d’Orbigny, 1826 SPECIES
-=======
+# Pyrulina gutta (d’Orbigny, 1839) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

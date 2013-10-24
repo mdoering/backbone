@@ -1,5 +1,4 @@
-Biatora fraudulenta Hepp SPECIES
-=======
+# Biatora fraudulenta Hepp SPECIES
 
 #### Status
 ACCEPTED

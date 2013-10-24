@@ -1,5 +1,4 @@
-Rhabdospora xylostei F. Lamb. & Fautrey SPECIES
-=======
+# Rhabdospora xylostei F. Lamb. & Fautrey SPECIES
 
 #### Status
 ACCEPTED

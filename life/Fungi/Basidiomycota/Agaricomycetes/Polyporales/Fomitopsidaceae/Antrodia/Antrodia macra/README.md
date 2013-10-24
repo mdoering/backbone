@@ -1,17 +1,16 @@
-Coriolellus salicinus var. salicinus VARIETY
-=======
+# Antrodia macra (Sommerf.) Niemelä, 1985 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-The Bracket Fungi of the European Part of the U. S. S. R. and the Caucasus 515 (1953)
+Karstenia 25(1): 38 (1985)
 
 #### Original name
-Coriolellus salicinus var. salicinus
+Polyporus macer Sommerf., 1826
 
 ### Remarks
 null

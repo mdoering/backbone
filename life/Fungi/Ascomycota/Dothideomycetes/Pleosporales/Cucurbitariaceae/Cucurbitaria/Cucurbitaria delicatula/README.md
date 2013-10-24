@@ -1,5 +1,4 @@
-Cucurbitaria delicatula (Fr.) Kuntze SPECIES
-=======
+# Cucurbitaria delicatula (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

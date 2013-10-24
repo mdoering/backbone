@@ -1,5 +1,4 @@
-Peziza roseoalba Schwein. SPECIES
-=======
+# Peziza roseoalba Schwein. SPECIES
 
 #### Status
 ACCEPTED

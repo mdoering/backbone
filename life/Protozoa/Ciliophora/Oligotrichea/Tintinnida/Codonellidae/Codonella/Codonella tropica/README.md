@@ -1,5 +1,4 @@
-Codonella tropica Kofoid & Campbell, 1929 SPECIES
-=======
+# Codonella tropica Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

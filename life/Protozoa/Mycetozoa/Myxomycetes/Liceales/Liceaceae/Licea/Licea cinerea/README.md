@@ -1,5 +1,4 @@
-Licea cinerea D.W. Mitch. SPECIES
-=======
+# Licea cinerea D.W. Mitch. SPECIES
 
 #### Status
 ACCEPTED

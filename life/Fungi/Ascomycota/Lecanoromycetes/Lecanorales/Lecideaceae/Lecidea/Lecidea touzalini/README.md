@@ -1,5 +1,4 @@
-Lecidea touzalini Harm. ex Croz. SPECIES
-=======
+# Lecidea touzalini Harm. ex Croz. SPECIES
 
 #### Status
 ACCEPTED

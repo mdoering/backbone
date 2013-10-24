@@ -1,5 +1,4 @@
-Merulius glaucus (Batsch) Kuntze SPECIES
-=======
+# Merulius glaucus (Batsch) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stephanoporos scherffelii A.Pascher SPECIES
-=======
+# Stephanoporos scherffelii A.Pascher SPECIES
 
 #### Status
 ACCEPTED

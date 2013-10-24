@@ -1,5 +1,4 @@
-Flabellites oblongus SPECIES
-=======
+# Flabellites oblongus SPECIES
 
 #### Status
 ACCEPTED

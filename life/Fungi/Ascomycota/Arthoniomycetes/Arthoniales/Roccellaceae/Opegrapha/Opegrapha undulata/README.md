@@ -1,5 +1,4 @@
-Opegrapha undulata Stirt. SPECIES
-=======
+# Opegrapha undulata Stirt. SPECIES
 
 #### Status
 ACCEPTED

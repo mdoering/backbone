@@ -1,8 +1,7 @@
-Stagonosporopsis astragali (Cooke & Harkn.) Aveskamp, Gruyter & Verkley, 2010 SPECIES
-=======
+# Phoma astragali Cooke & Harkn., 1885 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Phoma astragali Cooke & Harkn., 1885
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Physcia ulothrix f. ulothrix (Ach.) Nyl. FORM
-=======
+# Physcia ulothrix (Ach.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

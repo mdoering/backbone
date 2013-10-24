@@ -1,5 +1,4 @@
-Tilletia berkeleyi Massee SPECIES
-=======
+# Tilletia berkeleyi Massee SPECIES
 
 #### Status
 ACCEPTED

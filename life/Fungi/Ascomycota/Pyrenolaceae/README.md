@@ -1,5 +1,4 @@
-Pyrenolaceae FAMILY
-=======
+# Pyrenolaceae FAMILY
 
 #### Status
 ACCEPTED

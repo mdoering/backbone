@@ -1,5 +1,4 @@
-Peltigera argentina Gyeln. SPECIES
-=======
+# Peltigera argentina Gyeln. SPECIES
 
 #### Status
 ACCEPTED

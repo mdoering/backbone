@@ -1,5 +1,4 @@
-Puccinia estcourtensis Gjaerum SPECIES
-=======
+# Puccinia estcourtensis Gjaerum SPECIES
 
 #### Status
 ACCEPTED

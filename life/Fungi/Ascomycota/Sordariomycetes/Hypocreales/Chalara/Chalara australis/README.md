@@ -1,5 +1,4 @@
-Chalara australis J. Walker & Kile, 1987 SPECIES
-=======
+# Chalara australis J. Walker & Kile, 1987 SPECIES
 
 #### Status
 ACCEPTED

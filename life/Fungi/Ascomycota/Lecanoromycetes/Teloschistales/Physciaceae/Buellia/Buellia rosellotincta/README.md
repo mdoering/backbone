@@ -1,14 +1,13 @@
-Lecidea disciformis var. rosellotincta Nyl. VARIETY
-=======
+# Buellia rosellotincta (Nyl.) Vain. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Hiern, Cat. Welwitsch Afric. Pl. 2(2): 413 (1901)
 
 #### Original name
 Lecidea disciformis var. rosellotincta Nyl.

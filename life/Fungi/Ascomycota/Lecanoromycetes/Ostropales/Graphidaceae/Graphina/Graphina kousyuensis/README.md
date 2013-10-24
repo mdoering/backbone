@@ -1,5 +1,4 @@
-Graphina kousyuensis Horik. & M. Nakan. SPECIES
-=======
+# Graphina kousyuensis Horik. & M. Nakan. SPECIES
 
 #### Status
 ACCEPTED

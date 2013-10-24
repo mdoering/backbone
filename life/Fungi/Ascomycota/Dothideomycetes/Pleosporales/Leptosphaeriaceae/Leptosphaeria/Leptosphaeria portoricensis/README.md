@@ -1,5 +1,4 @@
-Leptosphaeria portoricensis Álv. García SPECIES
-=======
+# Leptosphaeria portoricensis Álv. García SPECIES
 
 #### Status
 ACCEPTED

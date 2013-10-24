@@ -1,5 +1,4 @@
-Tympanis kmetiana D. Sacc. SPECIES
-=======
+# Tympanis kmetiana D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

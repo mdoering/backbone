@@ -1,5 +1,4 @@
-Notothyrites dictyozamiticola Krassilov SPECIES
-=======
+# Notothyrites dictyozamiticola Krassilov SPECIES
 
 #### Status
 ACCEPTED

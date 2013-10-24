@@ -1,5 +1,4 @@
-Hemithecium rufopallidum (Vain.) Staiger SPECIES
-=======
+# Hemithecium rufopallidum (Vain.) Staiger SPECIES
 
 #### Status
 ACCEPTED

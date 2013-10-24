@@ -1,5 +1,4 @@
-Acanthostigmella orthoseta Höhn., 1909 SPECIES
-=======
+# Acanthostigmella orthoseta Höhn., 1909 SPECIES
 
 #### Status
 ACCEPTED

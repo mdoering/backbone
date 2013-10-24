@@ -1,5 +1,4 @@
-Asterella naumovii Gucevic SPECIES
-=======
+# Asterella naumovii Gucevic SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tintinnus cinctus Claparède & Lachmann, 1858 SPECIES
-=======
+# Tintinnus cinctus Claparède & Lachmann, 1858 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stictis ceracea Schwein. SPECIES
-=======
+# Stictis ceracea Schwein. SPECIES
 
 #### Status
 ACCEPTED

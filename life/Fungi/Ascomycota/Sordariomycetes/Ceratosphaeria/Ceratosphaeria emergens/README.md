@@ -1,5 +1,4 @@
-Ceratosphaeria emergens Rick SPECIES
-=======
+# Ceratosphaeria emergens Rick SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stachybotryna excentrica Gené, M. Calduch, Abdullah & Guarro SPECIES
-=======
+# Stachybotryna excentrica Gené, M. Calduch, Abdullah & Guarro SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Passalora moringae (Thirum. & Govindu) J.N. Kapoor & Munjal SPECIES
-=======
+# Passalora moringae (Thirum. & Govindu) J.N. Kapoor & Munjal SPECIES
 
 #### Status
 ACCEPTED

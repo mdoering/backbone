@@ -1,5 +1,4 @@
-Sivanesania rubi W.H. Hsieh & Chi Y. Chen, 1996 SPECIES
-=======
+# Sivanesania rubi W.H. Hsieh & Chi Y. Chen, 1996 SPECIES
 
 #### Status
 ACCEPTED

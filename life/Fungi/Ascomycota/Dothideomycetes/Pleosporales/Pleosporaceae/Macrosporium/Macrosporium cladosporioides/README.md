@@ -1,5 +1,4 @@
-Macrosporium cladosporioides Desm. SPECIES
-=======
+# Macrosporium cladosporioides Desm. SPECIES
 
 #### Status
 ACCEPTED

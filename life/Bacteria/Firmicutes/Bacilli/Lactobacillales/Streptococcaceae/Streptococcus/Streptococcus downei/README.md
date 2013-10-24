@@ -1,5 +1,4 @@
-Streptococcus downei Whiley et al., 1988 SPECIES
-=======
+# Streptococcus downei Whiley et al., 1988 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Porostylon Pascher, 1940 GENUS
-=======
+# Porostylon Pascher, 1940 GENUS
 
 #### Status
 ACCEPTED

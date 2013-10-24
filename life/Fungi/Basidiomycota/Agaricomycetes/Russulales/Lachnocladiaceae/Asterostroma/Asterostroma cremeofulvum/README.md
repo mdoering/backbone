@@ -1,5 +1,4 @@
-Asterostroma cremeofulvum Parmasto, 1970 SPECIES
-=======
+# Asterostroma cremeofulvum Parmasto, 1970 SPECIES
 
 #### Status
 ACCEPTED

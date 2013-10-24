@@ -1,5 +1,4 @@
-Phyllachora arechavaletae Speg., 1889 SPECIES
-=======
+# Phyllachora arechavaletae Speg., 1889 SPECIES
 
 #### Status
 ACCEPTED

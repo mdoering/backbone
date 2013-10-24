@@ -1,5 +1,4 @@
-Trametes kansensis Cragin SPECIES
-=======
+# Trametes kansensis Cragin SPECIES
 
 #### Status
 ACCEPTED

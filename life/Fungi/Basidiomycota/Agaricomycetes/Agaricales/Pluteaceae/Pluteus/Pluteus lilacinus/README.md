@@ -1,5 +1,4 @@
-Pluteus lilacinus (Mont.) Singer SPECIES
-=======
+# Pluteus lilacinus (Mont.) Singer SPECIES
 
 #### Status
 ACCEPTED

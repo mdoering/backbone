@@ -1,17 +1,16 @@
-Monilia vaccinii-corymbosi J.M. Reade, 1908 SPECIES
-=======
+# Monilinia vaccinii-corymbosi (J.M. Reade) Honey, 1936 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Am. J. Bot. 23: 105 (1936)
 
 #### Original name
-Monilia vaccinii-corymbosi J.M. Reade, 1908
+Sclerotinia vaccinii-corymbosi J.M. Reade, 1908
 
 ### Remarks
 null

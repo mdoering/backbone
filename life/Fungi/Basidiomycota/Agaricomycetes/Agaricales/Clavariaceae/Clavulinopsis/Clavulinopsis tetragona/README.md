@@ -1,5 +1,4 @@
-Clavulinopsis tetragona (Schwein.) Corner SPECIES
-=======
+# Clavulinopsis tetragona (Schwein.) Corner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stictis atrovirens Fr. SPECIES
-=======
+# Stictis atrovirens Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Usnea esthonica Räsänen SPECIES
-=======
+# Usnea esthonica Räsänen SPECIES
 
 #### Status
 ACCEPTED

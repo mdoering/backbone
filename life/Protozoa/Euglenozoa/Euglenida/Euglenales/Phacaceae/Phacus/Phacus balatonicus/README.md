@@ -1,5 +1,4 @@
-Phacus balatonicus Hortobágyi SPECIES
-=======
+# Phacus balatonicus Hortobágyi SPECIES
 
 #### Status
 ACCEPTED

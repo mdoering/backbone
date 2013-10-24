@@ -1,5 +1,4 @@
-Septobasidium alni Torrend SPECIES
-=======
+# Septobasidium alni Torrend SPECIES
 
 #### Status
 ACCEPTED

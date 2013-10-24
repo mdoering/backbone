@@ -1,5 +1,4 @@
-Anisomeridium viridescens (Coppins) R. C. Harris SPECIES
-=======
+# Anisomeridium viridescens (Coppins) R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

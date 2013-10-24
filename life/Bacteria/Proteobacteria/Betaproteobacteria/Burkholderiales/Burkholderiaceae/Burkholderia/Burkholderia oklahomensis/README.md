@@ -1,5 +1,4 @@
-Burkholderia oklahomensis Glass et al., 2006 SPECIES
-=======
+# Burkholderia oklahomensis Glass et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

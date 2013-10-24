@@ -1,5 +1,4 @@
-Ectocarpaceae C. Agardh, 1828 FAMILY
-=======
+# Ectocarpaceae C. Agardh, 1828 FAMILY
 
 #### Status
 ACCEPTED

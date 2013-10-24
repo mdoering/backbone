@@ -1,5 +1,4 @@
-Synedra nyansae G.S. West SPECIES
-=======
+# Synedra nyansae G.S. West SPECIES
 
 #### Status
 ACCEPTED

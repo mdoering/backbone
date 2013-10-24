@@ -1,5 +1,4 @@
-Badhamiopsis T.E. Brooks & H.W. Keller GENUS
-=======
+# Badhamiopsis T.E. Brooks & H.W. Keller GENUS
 
 #### Status
 ACCEPTED

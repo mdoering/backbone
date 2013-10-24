@@ -1,5 +1,4 @@
-Gloeosporium calotropidis Pat. & Har. SPECIES
-=======
+# Gloeosporium calotropidis Pat. & Har. SPECIES
 
 #### Status
 ACCEPTED

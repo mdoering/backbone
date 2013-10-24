@@ -1,5 +1,4 @@
-Naucoria tabacina var. tabacina VARIETY
-=======
+# Naucoria tabacina (DC.) Gillet SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Hyménomycètes (Alençon) 574 (1878)
 
 #### Original name
-Naucoria tabacina var. tabacina
+Agaricus tabacinus DC. ex Fr.
 
 ### Remarks
 null

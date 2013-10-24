@@ -1,5 +1,4 @@
-Graphis pseudanaloga Vain. SPECIES
-=======
+# Graphis pseudanaloga Vain. SPECIES
 
 #### Status
 ACCEPTED

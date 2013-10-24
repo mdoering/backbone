@@ -1,5 +1,4 @@
-Galera tremens Velen. SPECIES
-=======
+# Galera tremens Velen. SPECIES
 
 #### Status
 ACCEPTED

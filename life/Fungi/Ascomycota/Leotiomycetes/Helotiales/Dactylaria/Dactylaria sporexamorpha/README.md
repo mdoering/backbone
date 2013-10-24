@@ -1,17 +1,16 @@
-Dactylaria pyriforma Tzean, J.L. Chen, L.S. Hsieh & J.C. Peng, 1990 SPECIES
-=======
+# Dactylaria sporexamorpha Glockling, 1992 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fourth International Mycological Congress Abstracts (Regensburg) 59 (1990)
+Mycotaxon 43: 295 (1992)
 
 #### Original name
-Dactylaria pyriforma Tzean, J.L. Chen, L.S. Hsieh & J.C. Peng, 1990
+Dactylaria pyriformis Juniper, 1954
 
 ### Remarks
 null

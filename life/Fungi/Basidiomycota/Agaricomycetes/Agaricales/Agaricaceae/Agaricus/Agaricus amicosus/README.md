@@ -1,5 +1,4 @@
-Agaricus amicosus Kerrigan SPECIES
-=======
+# Agaricus amicosus Kerrigan SPECIES
 
 #### Status
 ACCEPTED

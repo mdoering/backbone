@@ -1,5 +1,4 @@
-Synechoblastus cyrtaspis (Tuck.) Fink SPECIES
-=======
+# Synechoblastus cyrtaspis (Tuck.) Fink SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Streptomyces melanogenes Sugawara and Onuma, 1957 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces melanogenes Sugawara and Onuma, 1957 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cylindrosporium thalictrinum Woron. SPECIES
-=======
+# Cylindrosporium thalictrinum Woron. SPECIES
 
 #### Status
 ACCEPTED

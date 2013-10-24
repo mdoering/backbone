@@ -1,5 +1,4 @@
-Erineum polycephalum Corda SPECIES
-=======
+# Erineum polycephalum Corda SPECIES
 
 #### Status
 ACCEPTED

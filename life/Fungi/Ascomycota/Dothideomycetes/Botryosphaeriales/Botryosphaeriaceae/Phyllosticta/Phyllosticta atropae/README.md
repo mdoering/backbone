@@ -1,5 +1,4 @@
-Phyllosticta atropae Tassi SPECIES
-=======
+# Phyllosticta atropae Tassi SPECIES
 
 #### Status
 ACCEPTED

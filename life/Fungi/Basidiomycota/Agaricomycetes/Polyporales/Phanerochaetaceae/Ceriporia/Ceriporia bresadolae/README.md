@@ -1,5 +1,4 @@
-Ceriporia bresadolae (Bourdot & Galzin) Bondartsev & Singer SPECIES
-=======
+# Ceriporia bresadolae (Bourdot & Galzin) Bondartsev & Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parodiopsis megalospora (Sacc. & Berl.) G. Arnaud SPECIES
-=======
+# Parodiopsis megalospora (Sacc. & Berl.) G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

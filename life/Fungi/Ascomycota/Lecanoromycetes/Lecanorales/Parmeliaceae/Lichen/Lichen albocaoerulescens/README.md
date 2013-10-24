@@ -1,5 +1,4 @@
-Lichen albocaoerulescens Mudd SPECIES
-=======
+# Lichen albocaoerulescens Mudd SPECIES
 
 #### Status
 ACCEPTED

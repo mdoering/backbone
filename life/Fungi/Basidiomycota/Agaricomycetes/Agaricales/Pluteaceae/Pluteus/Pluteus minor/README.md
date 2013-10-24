@@ -1,17 +1,16 @@
-Pluteus minor var. quercuum Singer VARIETY
-=======
+# Pluteus minor G. Stev., 1962 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beih. Sydowia 7: 64 (1973)
+Kew Bull. 72 (1962)
 
 #### Original name
-Pluteus minor var. quercuum Singer
+Pluteus minor G. Stev., 1962
 
 ### Remarks
 null

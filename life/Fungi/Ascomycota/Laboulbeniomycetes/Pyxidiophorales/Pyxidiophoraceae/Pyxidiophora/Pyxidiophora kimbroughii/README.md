@@ -1,5 +1,4 @@
-Pyxidiophora kimbroughii M. Blackw. & T.J. Perry SPECIES
-=======
+# Pyxidiophora kimbroughii M. Blackw. & T.J. Perry SPECIES
 
 #### Status
 ACCEPTED

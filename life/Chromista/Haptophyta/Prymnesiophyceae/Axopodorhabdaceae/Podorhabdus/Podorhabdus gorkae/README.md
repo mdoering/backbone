@@ -1,5 +1,4 @@
-Podorhabdus gorkae P. Reinhardt SPECIES
-=======
+# Podorhabdus gorkae P. Reinhardt SPECIES
 
 #### Status
 ACCEPTED

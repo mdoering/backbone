@@ -1,5 +1,4 @@
-Catillaria sigmoidea (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Catillaria sigmoidea (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

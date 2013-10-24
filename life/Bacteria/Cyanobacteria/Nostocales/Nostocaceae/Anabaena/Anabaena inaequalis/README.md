@@ -1,8 +1,7 @@
-Anabaena californica Borge SPECIES
-=======
+# Anabaena inaequalis (Kützing) Bornet & Flahault SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

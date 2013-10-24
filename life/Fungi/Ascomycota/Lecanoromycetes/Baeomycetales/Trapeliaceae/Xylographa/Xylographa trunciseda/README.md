@@ -1,14 +1,13 @@
-Lecidea trunciseda Th. Fr. SPECIES
-=======
+# Xylographa trunciseda (Th. Fr.) Minks ex Redinger SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lich. Scand. (Uppsala) 1: 467 (1874)
+Rabenhorst's Kryptogamenflora (Leipzig) 9(2,1): 216 (1938)
 
 #### Original name
 Lecidea trunciseda Th. Fr.

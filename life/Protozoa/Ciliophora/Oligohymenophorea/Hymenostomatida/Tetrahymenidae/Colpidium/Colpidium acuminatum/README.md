@@ -1,5 +1,4 @@
-Colpidium acuminatum Vuxanovici, 1962 SPECIES
-=======
+# Colpidium acuminatum Vuxanovici, 1962 SPECIES
 
 #### Status
 ACCEPTED

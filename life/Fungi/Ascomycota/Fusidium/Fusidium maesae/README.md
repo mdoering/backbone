@@ -1,5 +1,4 @@
-Fusidium maesae Henn. SPECIES
-=======
+# Fusidium maesae Henn. SPECIES
 
 #### Status
 ACCEPTED

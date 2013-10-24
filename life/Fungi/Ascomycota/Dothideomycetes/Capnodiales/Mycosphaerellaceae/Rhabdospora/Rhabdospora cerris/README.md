@@ -1,5 +1,4 @@
-Rhabdospora cerris Vestergr. SPECIES
-=======
+# Rhabdospora cerris Vestergr. SPECIES
 
 #### Status
 ACCEPTED

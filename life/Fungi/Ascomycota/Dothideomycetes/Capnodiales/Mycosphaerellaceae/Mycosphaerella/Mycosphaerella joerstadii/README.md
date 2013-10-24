@@ -1,5 +1,4 @@
-Mycosphaerella joerstadii Arx SPECIES
-=======
+# Mycosphaerella joerstadii Arx SPECIES
 
 #### Status
 ACCEPTED

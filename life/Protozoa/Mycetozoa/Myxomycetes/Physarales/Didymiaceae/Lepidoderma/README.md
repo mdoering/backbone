@@ -1,17 +1,16 @@
-Lepidodermopsis Wilczek & Meylan, 1934 GENUS
-=======
+# Lepidoderma Rostafinski, 1873 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 118: 439 (1909)
+Versuch. Syst. Mycetoz. , 13.
 
 #### Original name
-Lepidodermopsis Wilczek & Meylan, 1934
+Lepidoderma Rostafinski, 1873
 
 ### Remarks
 null

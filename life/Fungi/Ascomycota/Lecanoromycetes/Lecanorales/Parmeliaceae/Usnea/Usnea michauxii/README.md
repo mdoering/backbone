@@ -1,5 +1,4 @@
-Usnea michauxii I.I. Tav. SPECIES
-=======
+# Usnea michauxii I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniosporium subcorticale Dearn. & Barthol. SPECIES
-=======
+# Coniosporium subcorticale Dearn. & Barthol. SPECIES
 
 #### Status
 ACCEPTED

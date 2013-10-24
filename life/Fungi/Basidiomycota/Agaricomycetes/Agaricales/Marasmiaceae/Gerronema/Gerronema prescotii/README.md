@@ -1,14 +1,13 @@
-Cantharellus prescotii Weinm., 1832 SPECIES
-=======
+# Gerronema prescotii (Weinm.) Redhead, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 9(no. 29): 452 (1832)
+Can. J. Bot. 62(5): 884 (1984)
 
 #### Original name
 Cantharellus prescotii Weinm., 1832

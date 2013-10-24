@@ -1,5 +1,4 @@
-Microthyriacites cunninghamiae Givul. SPECIES
-=======
+# Microthyriacites cunninghamiae Givul. SPECIES
 
 #### Status
 ACCEPTED

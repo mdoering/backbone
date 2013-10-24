@@ -1,5 +1,4 @@
-Phoma adonidicola Yan Li, Q. Wang & G.Z. Lu SPECIES
-=======
+# Phoma adonidicola Yan Li, Q. Wang & G.Z. Lu SPECIES
 
 #### Status
 ACCEPTED

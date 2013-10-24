@@ -1,5 +1,4 @@
-Usnea quercina Bystrek & Gorzynska {?} SPECIES
-=======
+# Usnea quercina Bystrek & Gorzynska {?} SPECIES
 
 #### Status
 ACCEPTED

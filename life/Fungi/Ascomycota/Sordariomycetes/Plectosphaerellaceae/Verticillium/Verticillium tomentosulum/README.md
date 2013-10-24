@@ -1,5 +1,4 @@
-Verticillium tomentosulum Speg. SPECIES
-=======
+# Verticillium tomentosulum Speg. SPECIES
 
 #### Status
 ACCEPTED

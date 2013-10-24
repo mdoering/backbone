@@ -1,5 +1,4 @@
-Hygrocybe subovina (Hesler & A.H. Sm.) Roody SPECIES
-=======
+# Hygrocybe subovina (Hesler & A.H. Sm.) Roody SPECIES
 
 #### Status
 ACCEPTED

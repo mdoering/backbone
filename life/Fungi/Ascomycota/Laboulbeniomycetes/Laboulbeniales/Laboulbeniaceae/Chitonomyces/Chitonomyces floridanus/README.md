@@ -1,5 +1,4 @@
-Chitonomyces floridanus Thaxt. SPECIES
-=======
+# Chitonomyces floridanus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

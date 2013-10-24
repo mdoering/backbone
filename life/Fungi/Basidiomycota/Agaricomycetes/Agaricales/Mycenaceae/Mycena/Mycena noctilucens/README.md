@@ -1,5 +1,4 @@
-Mycena noctilucens Corner SPECIES
-=======
+# Mycena noctilucens Corner SPECIES
 
 #### Status
 ACCEPTED

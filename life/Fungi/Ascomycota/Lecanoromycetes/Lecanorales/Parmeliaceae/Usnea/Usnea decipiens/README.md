@@ -1,5 +1,4 @@
-Usnea decipiens var. decipiens Motyka VARIETY
-=======
+# Usnea decipiens Motyka SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Usnea decipiens var. decipiens Motyka
+Usnea decipiens Motyka
 
 ### Remarks
 null

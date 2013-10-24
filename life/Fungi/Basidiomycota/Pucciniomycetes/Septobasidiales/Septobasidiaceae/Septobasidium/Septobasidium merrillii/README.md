@@ -1,5 +1,4 @@
-Septobasidium merrillii Bres. SPECIES
-=======
+# Septobasidium merrillii Bres. SPECIES
 
 #### Status
 ACCEPTED

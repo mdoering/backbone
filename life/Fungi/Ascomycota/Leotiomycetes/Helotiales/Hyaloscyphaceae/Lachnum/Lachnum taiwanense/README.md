@@ -1,5 +1,4 @@
-Lachnum taiwanense J.H. Haines, M.L. Wu & Yei Z. Wang SPECIES
-=======
+# Lachnum taiwanense J.H. Haines, M.L. Wu & Yei Z. Wang SPECIES
 
 #### Status
 ACCEPTED

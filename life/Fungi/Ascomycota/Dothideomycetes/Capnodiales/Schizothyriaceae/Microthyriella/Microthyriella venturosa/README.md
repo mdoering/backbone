@@ -1,5 +1,4 @@
-Microthyriella venturosa Bat. & I.H. Lima SPECIES
-=======
+# Microthyriella venturosa Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hymenochaete tomentosa Berk. & M.A. Curtis SPECIES
-=======
+# Hymenochaete tomentosa Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

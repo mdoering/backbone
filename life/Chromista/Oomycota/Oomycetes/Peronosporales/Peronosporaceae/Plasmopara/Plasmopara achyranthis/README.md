@@ -1,17 +1,16 @@
-Plasmopara achyrantis J.F. Tao & Y. Qin SPECIES
-=======
+# Plasmopara achyranthis J.F. Tao & Y. Qin SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Acta Mycol. Sin. 2(2): 86 (1983)
 
 #### Original name
-Plasmopara achyrantis J.F. Tao & Y. Qin
+Plasmopara achyranthis J.F. Tao & Y. Qin
 
 ### Remarks
 null

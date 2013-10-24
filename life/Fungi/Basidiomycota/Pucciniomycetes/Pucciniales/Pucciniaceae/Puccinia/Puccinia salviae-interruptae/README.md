@@ -1,5 +1,4 @@
-Puccinia salviae-interruptae Maire SPECIES
-=======
+# Puccinia salviae-interruptae Maire SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ustilago digitariicola Speg. SPECIES
-=======
+# Ustilago digitariicola Speg. SPECIES
 
 #### Status
 ACCEPTED

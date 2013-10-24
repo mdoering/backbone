@@ -1,14 +1,13 @@
-Catacauma goyazense (Henn.) Theiss. & Syd., 1915 SPECIES
-=======
+# Phyllachora goyazensis Henn., 1895 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 13(3/4): 396 (1915)
+Hedwigia 34: 110 (1895)
 
 #### Original name
 Phyllachora goyazensis Henn., 1895

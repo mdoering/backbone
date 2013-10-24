@@ -1,5 +1,4 @@
-Parmelia muralis SPECIES
-=======
+# Parmelia muralis SPECIES
 
 #### Status
 ACCEPTED

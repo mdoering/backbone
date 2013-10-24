@@ -1,5 +1,4 @@
-Cortinarius pulcher Peck SPECIES
-=======
+# Cortinarius pulcher Peck SPECIES
 
 #### Status
 ACCEPTED

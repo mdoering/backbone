@@ -1,5 +1,4 @@
-Cladonia delessertii var. delessertii VARIETY
-=======
+# Cladonia delessertii Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Monogr. Cladon. 1: 397 (1887)
 
 #### Original name
-Cladonia delessertii var. delessertii
+Cladonia delessertii Vain.
 
 ### Remarks
 null

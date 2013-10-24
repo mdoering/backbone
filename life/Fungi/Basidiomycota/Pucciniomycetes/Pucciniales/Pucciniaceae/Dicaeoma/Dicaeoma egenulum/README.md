@@ -1,5 +1,4 @@
-Dicaeoma egenulum (Arthur) Arthur & Fromme SPECIES
-=======
+# Dicaeoma egenulum (Arthur) Arthur & Fromme SPECIES
 
 #### Status
 ACCEPTED

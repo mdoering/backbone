@@ -1,5 +1,4 @@
-Psalliota aurantioviolacea R. Heim SPECIES
-=======
+# Psalliota aurantioviolacea R. Heim SPECIES
 
 #### Status
 ACCEPTED

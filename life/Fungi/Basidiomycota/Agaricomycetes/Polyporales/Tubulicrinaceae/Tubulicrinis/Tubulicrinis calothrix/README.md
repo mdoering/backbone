@@ -1,5 +1,4 @@
-Tubulicrinis calothrix var. calothrix VARIETY
-=======
+# Tubulicrinis calothrix (Pat.) Donk SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Fungus, Wageningen 26(1-4): 14 (1956)
 
 #### Original name
-Tubulicrinis calothrix var. calothrix
+Corticium calothrix Pat.
 
 ### Remarks
 null

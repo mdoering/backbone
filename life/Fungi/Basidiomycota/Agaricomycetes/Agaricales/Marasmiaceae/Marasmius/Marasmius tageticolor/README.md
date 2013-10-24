@@ -1,5 +1,4 @@
-Marasmius tageticolor Berk. SPECIES
-=======
+# Marasmius tageticolor Berk. SPECIES
 
 #### Status
 ACCEPTED

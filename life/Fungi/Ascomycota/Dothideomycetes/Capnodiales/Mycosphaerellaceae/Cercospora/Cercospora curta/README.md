@@ -1,5 +1,4 @@
-Cercospora curta Syd. SPECIES
-=======
+# Cercospora curta Syd. SPECIES
 
 #### Status
 ACCEPTED

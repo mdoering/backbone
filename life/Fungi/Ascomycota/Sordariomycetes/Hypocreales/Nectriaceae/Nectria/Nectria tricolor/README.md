@@ -1,5 +1,4 @@
-Nectria tricolor Höhn. SPECIES
-=======
+# Nectria tricolor Höhn. SPECIES
 
 #### Status
 ACCEPTED

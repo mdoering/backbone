@@ -1,5 +1,4 @@
-Anatolinites claibornensis Elsik, V.S. Ediger & Bati SPECIES
-=======
+# Anatolinites claibornensis Elsik, V.S. Ediger & Bati SPECIES
 
 #### Status
 ACCEPTED

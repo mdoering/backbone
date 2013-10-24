@@ -1,8 +1,7 @@
-Porospora nephropis Léger & Dubosq, 1915 SPECIES
-=======
+# Cephaloidophora nephropis Tuzet & Ormières, 1961 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

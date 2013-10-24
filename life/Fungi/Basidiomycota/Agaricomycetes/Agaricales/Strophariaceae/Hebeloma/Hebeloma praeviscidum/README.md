@@ -1,5 +1,4 @@
-Hebeloma praeviscidum Murrill SPECIES
-=======
+# Hebeloma praeviscidum Murrill SPECIES
 
 #### Status
 ACCEPTED

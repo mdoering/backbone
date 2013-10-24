@@ -1,5 +1,4 @@
-Guignardia pedrosensis Bubák & Gonz. Frag. SPECIES
-=======
+# Guignardia pedrosensis Bubák & Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

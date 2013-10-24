@@ -1,5 +1,4 @@
-Calonectria callorioides Penz. & Sacc. SPECIES
-=======
+# Calonectria callorioides Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

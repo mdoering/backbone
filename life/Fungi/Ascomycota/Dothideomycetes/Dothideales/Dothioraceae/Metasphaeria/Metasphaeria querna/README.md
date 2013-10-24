@@ -1,5 +1,4 @@
-Metasphaeria querna Dearn. & Bisby SPECIES
-=======
+# Metasphaeria querna Dearn. & Bisby SPECIES
 
 #### Status
 ACCEPTED

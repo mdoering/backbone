@@ -1,5 +1,4 @@
-Synchytrium trichodesmatis Lingappa SPECIES
-=======
+# Synchytrium trichodesmatis Lingappa SPECIES
 
 #### Status
 ACCEPTED

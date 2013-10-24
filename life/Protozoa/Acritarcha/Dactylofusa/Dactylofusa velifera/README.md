@@ -1,5 +1,4 @@
-Dactylofusa velifera SPECIES
-=======
+# Dactylofusa velifera SPECIES
 
 #### Status
 ACCEPTED

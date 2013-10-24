@@ -1,5 +1,4 @@
-Cortinarius radicatoviolaceus Rob. Henry SPECIES
-=======
+# Cortinarius radicatoviolaceus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

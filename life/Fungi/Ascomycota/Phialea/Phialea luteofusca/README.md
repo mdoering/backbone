@@ -1,5 +1,4 @@
-Phialea luteofusca Feltgen SPECIES
-=======
+# Phialea luteofusca Feltgen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tricholomopsis ornata (Fr.) Singer SPECIES
-=======
+# Tricholomopsis ornata (Fr.) Singer SPECIES
 
 #### Status
 ACCEPTED

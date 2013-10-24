@@ -1,5 +1,4 @@
-Cryptoblabes lariciana Npv SPECIES
-=======
+# Cryptoblabes lariciana Npv SPECIES
 
 #### Status
 ACCEPTED

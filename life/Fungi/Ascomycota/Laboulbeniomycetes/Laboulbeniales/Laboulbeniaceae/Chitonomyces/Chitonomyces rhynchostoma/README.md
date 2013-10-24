@@ -1,5 +1,4 @@
-Chitonomyces rhynchostoma Thaxt. SPECIES
-=======
+# Chitonomyces rhynchostoma Thaxt. SPECIES
 
 #### Status
 ACCEPTED

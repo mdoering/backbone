@@ -1,5 +1,4 @@
-Uromyces bornmuelleri Magnus SPECIES
-=======
+# Uromyces bornmuelleri Magnus SPECIES
 
 #### Status
 ACCEPTED

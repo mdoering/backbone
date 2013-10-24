@@ -1,5 +1,4 @@
-Leptogium crozalsianum Harm. SPECIES
-=======
+# Leptogium crozalsianum Harm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporidesmium irregulare Cooke SPECIES
-=======
+# Sporidesmium irregulare Cooke SPECIES
 
 #### Status
 ACCEPTED

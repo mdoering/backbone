@@ -1,5 +1,4 @@
-Parmelia insinuatula Zahlbr. SPECIES
-=======
+# Parmelia insinuatula Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

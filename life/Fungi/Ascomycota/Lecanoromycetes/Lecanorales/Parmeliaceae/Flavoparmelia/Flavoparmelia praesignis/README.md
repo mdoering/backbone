@@ -1,5 +1,4 @@
-Flavoparmelia praesignis (Nyl.) Hale SPECIES
-=======
+# Flavoparmelia praesignis (Nyl.) Hale SPECIES
 
 #### Status
 ACCEPTED

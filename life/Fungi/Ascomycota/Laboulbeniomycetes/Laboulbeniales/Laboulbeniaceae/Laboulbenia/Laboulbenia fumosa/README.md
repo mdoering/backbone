@@ -1,5 +1,4 @@
-Laboulbenia fumosa Thaxt. SPECIES
-=======
+# Laboulbenia fumosa Thaxt. SPECIES
 
 #### Status
 ACCEPTED

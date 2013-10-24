@@ -1,5 +1,4 @@
-Parmotrema demethylmicrophyllinicum Elix SPECIES
-=======
+# Parmotrema demethylmicrophyllinicum Elix SPECIES
 
 #### Status
 ACCEPTED

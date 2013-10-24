@@ -1,5 +1,4 @@
-Boletus rubrescens Trog SPECIES
-=======
+# Boletus rubrescens Trog SPECIES
 
 #### Status
 ACCEPTED

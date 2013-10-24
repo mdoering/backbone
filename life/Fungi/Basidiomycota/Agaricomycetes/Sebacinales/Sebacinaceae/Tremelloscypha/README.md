@@ -1,5 +1,4 @@
-Tremelloscypha D.A. Reid GENUS
-=======
+# Tremelloscypha D.A. Reid GENUS
 
 #### Status
 ACCEPTED

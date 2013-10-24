@@ -1,17 +1,16 @@
-Cocconema L. Léger & E. Hesse GENUS
-=======
+# Coccospora Kudo, 1925 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 IRMNG Homonym List
 
 #### Published in
-C. R. Acad. Sci. Paris, 173, 1419.
+Science, N. Y. , 61, 366.
 
 #### Original name
-null
+Coccospora Kudo, 1925
 
 ### Remarks
 null

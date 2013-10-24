@@ -1,5 +1,4 @@
-Platytrichotus Stokes, 1886 GENUS
-=======
+# Platytrichotus Stokes, 1886 GENUS
 
 #### Status
 ACCEPTED

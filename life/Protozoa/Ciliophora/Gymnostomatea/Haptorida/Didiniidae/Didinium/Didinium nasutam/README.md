@@ -1,5 +1,4 @@
-Didinium nasutam (Müller) Kahl SPECIES
-=======
+# Didinium nasutam (Müller) Kahl SPECIES
 
 #### Status
 ACCEPTED

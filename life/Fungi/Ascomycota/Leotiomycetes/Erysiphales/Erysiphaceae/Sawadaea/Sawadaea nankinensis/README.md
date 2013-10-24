@@ -1,5 +1,4 @@
-Sawadaea nankinensis (F.L. Tai) S. Takam. & U. Braun SPECIES
-=======
+# Sawadaea nankinensis (F.L. Tai) S. Takam. & U. Braun SPECIES
 
 #### Status
 ACCEPTED

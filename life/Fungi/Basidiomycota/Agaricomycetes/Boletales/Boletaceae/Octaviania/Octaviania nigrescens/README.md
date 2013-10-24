@@ -1,14 +1,13 @@
-Octavianina nigrescens (Zeller) Singer & A.H. Sm. SPECIES
-=======
+# Octaviania nigrescens (Zeller) Singer & A.H. Sm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mem. Torrey bot. Club 21(3): 11 (1960)
 
 #### Original name
 Hydnangium nigrescens Zeller

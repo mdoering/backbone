@@ -1,5 +1,4 @@
-Elasmomyces alpinus (Zeller) Zeller SPECIES
-=======
+# Elasmomyces alpinus (Zeller) Zeller SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthopyrenia subfallax (Nyl.) Müll. Arg. SPECIES
-=======
+# Arthopyrenia subfallax (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

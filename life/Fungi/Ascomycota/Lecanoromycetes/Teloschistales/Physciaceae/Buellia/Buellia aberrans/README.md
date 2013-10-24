@@ -1,5 +1,4 @@
-Buellia aberrans Kremp. SPECIES
-=======
+# Buellia aberrans Kremp. SPECIES
 
 #### Status
 ACCEPTED

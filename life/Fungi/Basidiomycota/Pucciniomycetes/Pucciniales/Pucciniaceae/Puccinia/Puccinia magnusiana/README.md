@@ -1,17 +1,16 @@
-Aecidium ranunculacearum f. ranunculacearum FORM
-=======
+# Puccinia magnusiana Körn., 1876 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in de Candolle & Lamarck, Fl. franç. (Paris), Edn 3 5/6: 97 (1815)
+Hedwigia 15: 179 (1876)
 
 #### Original name
-Aecidium ranunculacearum f. ranunculacearum
+Puccinia magnusiana Körn., 1876
 
 ### Remarks
 null

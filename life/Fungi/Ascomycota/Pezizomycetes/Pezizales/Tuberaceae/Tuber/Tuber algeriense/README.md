@@ -1,5 +1,4 @@
-Tuber algeriense Mont. SPECIES
-=======
+# Tuber algeriense Mont. SPECIES
 
 #### Status
 ACCEPTED

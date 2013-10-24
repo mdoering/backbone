@@ -1,5 +1,4 @@
-Collybia subcoracina (Berk. & M.A. Curtis) Dennis SPECIES
-=======
+# Collybia subcoracina (Berk. & M.A. Curtis) Dennis SPECIES
 
 #### Status
 ACCEPTED

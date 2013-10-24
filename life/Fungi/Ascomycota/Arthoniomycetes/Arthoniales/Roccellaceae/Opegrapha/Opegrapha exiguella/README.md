@@ -1,5 +1,4 @@
-Opegrapha exiguella Zahlbr. SPECIES
-=======
+# Opegrapha exiguella Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

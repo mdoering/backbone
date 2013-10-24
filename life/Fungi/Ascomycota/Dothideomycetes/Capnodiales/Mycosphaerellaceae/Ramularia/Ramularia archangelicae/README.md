@@ -1,5 +1,4 @@
-Ramularia archangelicae Lindr., 1902 SPECIES
-=======
+# Ramularia archangelicae Lindr., 1902 SPECIES
 
 #### Status
 ACCEPTED

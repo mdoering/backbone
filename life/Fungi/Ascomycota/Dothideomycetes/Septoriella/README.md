@@ -1,17 +1,16 @@
-Septosporiella Oudem. GENUS
-=======
+# Septoriella Oudem. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ned. kruidk. Archf, 2 sér. 5: 52 (1889)
 
 #### Original name
-Septosporiella Oudem.
+Septoriella Oudem.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Arthonia madreana Egea & Torrente SPECIES
-=======
+# Arthonia madreana Egea & Torrente SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetomium brevipilum L.M. Ames SPECIES
-=======
+# Chaetomium brevipilum L.M. Ames SPECIES
 
 #### Status
 ACCEPTED

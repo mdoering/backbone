@@ -1,5 +1,4 @@
-Phymatotrichum fungicola Zeller SPECIES
-=======
+# Phymatotrichum fungicola Zeller SPECIES
 
 #### Status
 ACCEPTED

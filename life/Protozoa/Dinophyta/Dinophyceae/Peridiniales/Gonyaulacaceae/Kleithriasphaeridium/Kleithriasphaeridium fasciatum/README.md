@@ -1,5 +1,4 @@
-Kleithriasphaeridium fasciatum (R. J. Davey & G. L. Williams) R. J. Davey SPECIES
-=======
+# Kleithriasphaeridium fasciatum (R. J. Davey & G. L. Williams) R. J. Davey SPECIES
 
 #### Status
 ACCEPTED

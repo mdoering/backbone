@@ -1,5 +1,4 @@
-Ustilago simii Henn. & Pole-Evans SPECIES
-=======
+# Ustilago simii Henn. & Pole-Evans SPECIES
 
 #### Status
 ACCEPTED

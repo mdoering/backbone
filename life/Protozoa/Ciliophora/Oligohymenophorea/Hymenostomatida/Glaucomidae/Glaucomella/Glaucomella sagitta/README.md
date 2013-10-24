@@ -1,8 +1,7 @@
-Glaucoma sagitta Kahl, 1926 SPECIES
-=======
+# Glaucomella sagitta (Kahl, 1926) Grolière, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

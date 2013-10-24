@@ -1,5 +1,4 @@
-Blastotrichum aranearum Petch SPECIES
-=======
+# Blastotrichum aranearum Petch SPECIES
 
 #### Status
 ACCEPTED

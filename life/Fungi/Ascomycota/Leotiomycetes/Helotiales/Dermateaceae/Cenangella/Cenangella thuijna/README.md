@@ -1,5 +1,4 @@
-Cenangella thuijna SPECIES
-=======
+# Cenangella thuijna SPECIES
 
 #### Status
 ACCEPTED

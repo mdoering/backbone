@@ -1,5 +1,4 @@
-Asterina tuberculata McAlpine SPECIES
-=======
+# Asterina tuberculata McAlpine SPECIES
 
 #### Status
 ACCEPTED

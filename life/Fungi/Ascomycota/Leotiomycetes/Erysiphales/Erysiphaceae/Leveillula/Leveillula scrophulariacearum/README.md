@@ -1,5 +1,4 @@
-Leveillula scrophulariacearum Golovin SPECIES
-=======
+# Leveillula scrophulariacearum Golovin SPECIES
 
 #### Status
 ACCEPTED

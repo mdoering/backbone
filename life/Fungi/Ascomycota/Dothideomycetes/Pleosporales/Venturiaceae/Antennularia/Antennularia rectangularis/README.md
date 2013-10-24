@@ -1,5 +1,4 @@
-Antennularia rectangularis (Sacc.) Farl. SPECIES
-=======
+# Antennularia rectangularis (Sacc.) Farl. SPECIES
 
 #### Status
 ACCEPTED

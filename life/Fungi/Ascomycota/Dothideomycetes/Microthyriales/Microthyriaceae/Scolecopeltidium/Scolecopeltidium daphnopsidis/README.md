@@ -1,5 +1,4 @@
-Scolecopeltidium daphnopsidis Bat. & I.H. Lima SPECIES
-=======
+# Scolecopeltidium daphnopsidis Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

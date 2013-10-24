@@ -1,5 +1,4 @@
-Lecidea montana H. Magn. SPECIES
-=======
+# Lecidea montana H. Magn. SPECIES
 
 #### Status
 ACCEPTED

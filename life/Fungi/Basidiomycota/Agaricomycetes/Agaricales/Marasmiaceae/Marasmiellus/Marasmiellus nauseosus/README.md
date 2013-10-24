@@ -1,5 +1,4 @@
-Marasmiellus nauseosus (Rick) Singer SPECIES
-=======
+# Marasmiellus nauseosus (Rick) Singer SPECIES
 
 #### Status
 ACCEPTED

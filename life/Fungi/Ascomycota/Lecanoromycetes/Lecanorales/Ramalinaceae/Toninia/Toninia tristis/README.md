@@ -1,5 +1,4 @@
-Toninia tristis subsp. tristis SUBSPECIES
-=======
+# Toninia tristis (Th. Fr.) Th. Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lich. Scand. (Uppsala) 1: 341 (1874)
 
 #### Original name
-Toninia tristis subsp. tristis
+Lecanora tristicolor Th. Fr.
 
 ### Remarks
 null

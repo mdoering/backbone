@@ -1,5 +1,4 @@
-Rhynchostoma badium (Preuss) Sacc. SPECIES
-=======
+# Rhynchostoma badium (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

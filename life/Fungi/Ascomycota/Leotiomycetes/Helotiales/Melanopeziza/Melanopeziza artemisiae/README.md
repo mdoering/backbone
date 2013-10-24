@@ -1,5 +1,4 @@
-Melanopeziza artemisiae Velen., 1939 SPECIES
-=======
+# Melanopeziza artemisiae Velen., 1939 SPECIES
 
 #### Status
 ACCEPTED

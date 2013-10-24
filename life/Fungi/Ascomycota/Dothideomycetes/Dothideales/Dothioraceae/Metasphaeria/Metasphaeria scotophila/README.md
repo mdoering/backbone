@@ -1,5 +1,4 @@
-Metasphaeria scotophila var. scotophila VARIETY
-=======
+# Metasphaeria scotophila (Durieu & Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Metasphaeria scotophila var. scotophila
+Sphaeria scotophila Durieu & Mont.
 
 ### Remarks
 null

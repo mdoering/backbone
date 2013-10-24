@@ -1,5 +1,4 @@
-Thalassococcus halodurans Lee, Tsoi, Li, Wong & Qian, 2007 SPECIES
-=======
+# Thalassococcus halodurans Lee, Tsoi, Li, Wong & Qian, 2007 SPECIES
 
 #### Status
 ACCEPTED

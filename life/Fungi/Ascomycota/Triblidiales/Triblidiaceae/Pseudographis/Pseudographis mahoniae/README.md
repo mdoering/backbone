@@ -1,5 +1,4 @@
-Pseudographis mahoniae Feltgen SPECIES
-=======
+# Pseudographis mahoniae Feltgen SPECIES
 
 #### Status
 ACCEPTED

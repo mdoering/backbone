@@ -1,5 +1,4 @@
-Cryptonectriopsis biparasitica (Höhn.) Höhn. SPECIES
-=======
+# Cryptonectriopsis biparasitica (Höhn.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

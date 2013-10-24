@@ -1,5 +1,4 @@
-Zelamarkina Collen, 1972 GENUS
-=======
+# Zelamarkina Collen, 1972 GENUS
 
 #### Status
 ACCEPTED

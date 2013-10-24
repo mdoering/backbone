@@ -1,5 +1,4 @@
-Asterina omphaleae Petr. SPECIES
-=======
+# Asterina omphaleae Petr. SPECIES
 
 #### Status
 ACCEPTED

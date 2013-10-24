@@ -1,5 +1,4 @@
-Syncephalis trispora B.S. Mehrotra & R. Prasad SPECIES
-=======
+# Syncephalis trispora B.S. Mehrotra & R. Prasad SPECIES
 
 #### Status
 ACCEPTED

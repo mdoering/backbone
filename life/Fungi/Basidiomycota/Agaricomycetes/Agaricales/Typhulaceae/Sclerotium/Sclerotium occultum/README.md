@@ -1,5 +1,4 @@
-Sclerotium occultum Hoffm. SPECIES
-=======
+# Sclerotium occultum Hoffm. SPECIES
 
 #### Status
 ACCEPTED

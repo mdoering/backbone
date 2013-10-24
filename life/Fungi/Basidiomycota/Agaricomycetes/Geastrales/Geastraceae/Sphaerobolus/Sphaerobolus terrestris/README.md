@@ -1,5 +1,4 @@
-Sphaerobolus terrestris (Alb. & Schwein.) W.G. Sm. SPECIES
-=======
+# Sphaerobolus terrestris (Alb. & Schwein.) W.G. Sm. SPECIES
 
 #### Status
 ACCEPTED

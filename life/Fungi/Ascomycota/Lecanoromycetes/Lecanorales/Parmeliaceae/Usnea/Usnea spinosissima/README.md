@@ -1,5 +1,4 @@
-Usnea spinosissima Vain. SPECIES
-=======
+# Usnea spinosissima Vain. SPECIES
 
 #### Status
 ACCEPTED

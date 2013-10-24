@@ -1,5 +1,4 @@
-Porinopsis geminipara Malme SPECIES
-=======
+# Porinopsis geminipara Malme SPECIES
 
 #### Status
 ACCEPTED

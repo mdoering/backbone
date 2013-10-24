@@ -1,5 +1,4 @@
-Isariopsis fuckelii (Thüm.) du Plessis SPECIES
-=======
+# Isariopsis fuckelii (Thüm.) du Plessis SPECIES
 
 #### Status
 ACCEPTED

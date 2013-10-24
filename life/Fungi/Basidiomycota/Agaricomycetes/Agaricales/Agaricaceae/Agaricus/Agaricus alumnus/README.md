@@ -1,5 +1,4 @@
-Agaricus alumnus Bolton SPECIES
-=======
+# Agaricus alumnus Bolton SPECIES
 
 #### Status
 ACCEPTED

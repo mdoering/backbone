@@ -1,5 +1,4 @@
-Xanthoparmelia elevata Elix SPECIES
-=======
+# Xanthoparmelia elevata Elix SPECIES
 
 #### Status
 ACCEPTED

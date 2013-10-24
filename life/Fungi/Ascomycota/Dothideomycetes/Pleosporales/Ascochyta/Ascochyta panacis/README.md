@@ -1,5 +1,4 @@
-Ascochyta panacis Melnik SPECIES
-=======
+# Ascochyta panacis Melnik SPECIES
 
 #### Status
 ACCEPTED

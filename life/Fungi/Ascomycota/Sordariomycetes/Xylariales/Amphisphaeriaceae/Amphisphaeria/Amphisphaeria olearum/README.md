@@ -1,5 +1,4 @@
-Amphisphaeria olearum De Not. & Ces. SPECIES
-=======
+# Amphisphaeria olearum De Not. & Ces. SPECIES
 
 #### Status
 ACCEPTED

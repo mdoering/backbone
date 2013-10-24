@@ -1,17 +1,16 @@
-Phaeographis inscripta f. inscripta FORM
-=======
+# Halegrapha mucronata (Stirt.) Lücking SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 65: 504 (1882)
+null
 
 #### Original name
-Phaeographis inscripta f. inscripta
+null
 
 ### Remarks
 null

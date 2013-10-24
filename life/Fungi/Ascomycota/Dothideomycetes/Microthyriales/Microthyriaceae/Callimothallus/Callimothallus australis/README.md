@@ -1,5 +1,4 @@
-Callimothallus australis R.T. Lange SPECIES
-=======
+# Callimothallus australis R.T. Lange SPECIES
 
 #### Status
 ACCEPTED

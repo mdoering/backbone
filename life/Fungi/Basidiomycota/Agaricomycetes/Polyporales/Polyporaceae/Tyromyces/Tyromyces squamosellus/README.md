@@ -1,5 +1,4 @@
-Tyromyces squamosellus Núñez & Ryvarden SPECIES
-=======
+# Tyromyces squamosellus Núñez & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

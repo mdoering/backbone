@@ -1,5 +1,4 @@
-Uredo kigeziensis Cummins SPECIES
-=======
+# Uredo kigeziensis Cummins SPECIES
 
 #### Status
 ACCEPTED

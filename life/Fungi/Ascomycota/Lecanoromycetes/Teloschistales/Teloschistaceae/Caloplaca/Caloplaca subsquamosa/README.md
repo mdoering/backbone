@@ -1,5 +1,4 @@
-Caloplaca subsquamosa (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Caloplaca subsquamosa (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

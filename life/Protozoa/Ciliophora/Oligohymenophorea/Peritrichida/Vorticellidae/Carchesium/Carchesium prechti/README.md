@@ -1,5 +1,4 @@
-Carchesium prechti SPECIES
-=======
+# Carchesium prechti SPECIES
 
 #### Status
 ACCEPTED

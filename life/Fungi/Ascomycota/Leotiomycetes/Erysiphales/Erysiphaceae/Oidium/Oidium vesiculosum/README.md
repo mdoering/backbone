@@ -1,5 +1,4 @@
-Oidium vesiculosum Linder SPECIES
-=======
+# Oidium vesiculosum Linder SPECIES
 
 #### Status
 ACCEPTED

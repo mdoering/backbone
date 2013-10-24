@@ -1,5 +1,4 @@
-Uredo evolvuli Speg. SPECIES
-=======
+# Uredo evolvuli Speg. SPECIES
 
 #### Status
 ACCEPTED

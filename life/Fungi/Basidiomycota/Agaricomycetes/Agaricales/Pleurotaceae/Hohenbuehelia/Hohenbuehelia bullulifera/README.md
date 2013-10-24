@@ -1,5 +1,4 @@
-Hohenbuehelia bullulifera Singer SPECIES
-=======
+# Hohenbuehelia bullulifera Singer SPECIES
 
 #### Status
 ACCEPTED

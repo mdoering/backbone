@@ -1,14 +1,13 @@
-Calodon putidus (G.F. Atk.) S. Ito, 1955 SPECIES
-=======
+# Phellodon putidus (G.F. Atk.) Banker, 1906 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Fl. Japan 2(4): 180 (1955)
+Bull. Torrey bot. Club 12: 170 (1906)
 
 #### Original name
 Hydnum putidum G.F. Atk., 1900

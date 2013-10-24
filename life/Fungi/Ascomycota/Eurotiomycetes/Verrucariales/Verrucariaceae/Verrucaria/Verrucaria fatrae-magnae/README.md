@@ -1,5 +1,4 @@
-Verrucaria fatrae-magnae Servít SPECIES
-=======
+# Verrucaria fatrae-magnae Servít SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Protoblastenia szaferi J. Nowak SPECIES
-=======
+# Protoblastenia szaferi J. Nowak SPECIES
 
 #### Status
 ACCEPTED

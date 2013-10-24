@@ -1,5 +1,4 @@
-Lycoperdon endotephrum Pat. SPECIES
-=======
+# Lycoperdon endotephrum Pat. SPECIES
 
 #### Status
 ACCEPTED

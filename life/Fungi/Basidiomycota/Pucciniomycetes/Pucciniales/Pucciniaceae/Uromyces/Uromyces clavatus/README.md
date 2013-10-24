@@ -1,5 +1,4 @@
-Uromyces clavatus Dietel SPECIES
-=======
+# Uromyces clavatus Dietel SPECIES
 
 #### Status
 ACCEPTED

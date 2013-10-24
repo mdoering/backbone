@@ -1,5 +1,4 @@
-Homoeostrichus J.G. Agardh, 1894 GENUS
-=======
+# Homoeostrichus J.G. Agardh, 1894 GENUS
 
 #### Status
 ACCEPTED

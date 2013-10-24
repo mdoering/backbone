@@ -1,5 +1,4 @@
-Xylaria protea Fr. SPECIES
-=======
+# Xylaria protea Fr. SPECIES
 
 #### Status
 ACCEPTED

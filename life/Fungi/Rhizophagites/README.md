@@ -1,5 +1,4 @@
-Rhizophagites Rosend. GENUS
-=======
+# Rhizophagites Rosend. GENUS
 
 #### Status
 ACCEPTED

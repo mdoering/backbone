@@ -1,5 +1,4 @@
-Kineosporia rhizophila Kudo et al., 1998 SPECIES
-=======
+# Kineosporia rhizophila Kudo et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

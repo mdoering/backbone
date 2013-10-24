@@ -1,5 +1,4 @@
-Lecidea caulescens (Anzi) SPECIES
-=======
+# Lecidea caulescens (Anzi) SPECIES
 
 #### Status
 ACCEPTED

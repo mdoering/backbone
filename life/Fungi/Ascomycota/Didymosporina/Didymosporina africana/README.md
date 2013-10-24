@@ -1,5 +1,4 @@
-Didymosporina africana Syd. SPECIES
-=======
+# Didymosporina africana Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Armillariella fellea Hongo SPECIES
-=======
+# Armillariella fellea Hongo SPECIES
 
 #### Status
 ACCEPTED

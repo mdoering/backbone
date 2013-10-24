@@ -1,5 +1,4 @@
-Stomoloculina Ho, Hu & Wang, 1965 GENUS
-=======
+# Stomoloculina Ho, Hu & Wang, 1965 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymella daphnis Vain. SPECIES
-=======
+# Didymella daphnis Vain. SPECIES
 
 #### Status
 ACCEPTED

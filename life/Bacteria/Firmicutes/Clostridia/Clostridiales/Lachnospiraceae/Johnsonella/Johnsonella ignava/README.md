@@ -1,5 +1,4 @@
-Johnsonella ignava Moore & Moore, 1994 SPECIES
-=======
+# Johnsonella ignava Moore & Moore, 1994 SPECIES
 
 #### Status
 ACCEPTED

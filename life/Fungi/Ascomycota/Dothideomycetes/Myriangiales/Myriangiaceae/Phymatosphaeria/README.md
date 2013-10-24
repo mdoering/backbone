@@ -1,5 +1,4 @@
-Phymatosphaeria GENUS
-=======
+# Phymatosphaeria GENUS
 
 #### Status
 ACCEPTED

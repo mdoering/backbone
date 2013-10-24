@@ -1,5 +1,4 @@
-Discomyces brasiliensis Lindenberg {?} SPECIES
-=======
+# Discomyces brasiliensis Lindenberg {?} SPECIES
 
 #### Status
 ACCEPTED

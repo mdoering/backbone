@@ -1,5 +1,4 @@
-Leptosphaeria woroninii Docea & Negru SPECIES
-=======
+# Leptosphaeria woroninii Docea & Negru SPECIES
 
 #### Status
 ACCEPTED

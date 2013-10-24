@@ -1,17 +1,16 @@
-Charon Jameson, 1925 GENUS
-=======
+# Charonina Strand, 1928 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Parasitology, 17, 403, 405.
+Arch. Naturgesch. , 92, 1926, A8, 62.
 
 #### Original name
-null
+Charon Jameson, 1925
 
 ### Remarks
 null

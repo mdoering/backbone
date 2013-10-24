@@ -1,5 +1,4 @@
-Fuckelia atrofusca Berk. & M.A. Curtis ex Cooke SPECIES
-=======
+# Fuckelia atrofusca Berk. & M.A. Curtis ex Cooke SPECIES
 
 #### Status
 ACCEPTED

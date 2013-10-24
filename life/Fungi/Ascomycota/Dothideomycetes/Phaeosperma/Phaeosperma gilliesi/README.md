@@ -1,5 +1,4 @@
-Phaeosperma gilliesi Speg. SPECIES
-=======
+# Phaeosperma gilliesi Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endochaetophora J.F. White & T.N. Taylor GENUS
-=======
+# Endochaetophora J.F. White & T.N. Taylor GENUS
 
 #### Status
 ACCEPTED

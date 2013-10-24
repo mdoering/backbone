@@ -1,5 +1,4 @@
-Perezia dichroplusae Lange SPECIES
-=======
+# Perezia dichroplusae Lange SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Protoventuria maculosa (Ellis) M.E. Barr SPECIES
-=======
+# Protoventuria maculosa (Ellis) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

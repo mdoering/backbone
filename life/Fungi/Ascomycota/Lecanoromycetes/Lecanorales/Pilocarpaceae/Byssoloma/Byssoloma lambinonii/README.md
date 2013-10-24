@@ -1,5 +1,4 @@
-Byssoloma lambinonii (Sérus.) Sérus. SPECIES
-=======
+# Byssoloma lambinonii (Sérus.) Sérus. SPECIES
 
 #### Status
 ACCEPTED

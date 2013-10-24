@@ -1,5 +1,4 @@
-Methylobacterium nodulans Jourand et al., 2004 SPECIES
-=======
+# Methylobacterium nodulans Jourand et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parareichelina GENUS
-=======
+# Parareichelina GENUS
 
 #### Status
 ACCEPTED

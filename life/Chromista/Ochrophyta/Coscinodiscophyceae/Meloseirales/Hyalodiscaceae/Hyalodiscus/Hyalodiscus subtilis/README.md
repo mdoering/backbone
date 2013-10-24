@@ -1,5 +1,4 @@
-Hyalodiscus subtilis J.W. Bailey SPECIES
-=======
+# Hyalodiscus subtilis J.W. Bailey SPECIES
 
 #### Status
 ACCEPTED

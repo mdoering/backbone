@@ -1,5 +1,4 @@
-Usnea geissleriana P. Clerc SPECIES
-=======
+# Usnea geissleriana P. Clerc SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola dichapetali Hansf. & Thirum. SPECIES
-=======
+# Meliola dichapetali Hansf. & Thirum. SPECIES
 
 #### Status
 ACCEPTED

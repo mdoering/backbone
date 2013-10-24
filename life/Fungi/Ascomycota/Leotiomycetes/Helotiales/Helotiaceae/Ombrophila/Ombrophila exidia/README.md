@@ -1,5 +1,4 @@
-Ombrophila exidia Speg. SPECIES
-=======
+# Ombrophila exidia Speg. SPECIES
 
 #### Status
 ACCEPTED

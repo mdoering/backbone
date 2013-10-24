@@ -1,5 +1,4 @@
-Koordersiella deightonii (D. Hawksw.) D. Hawksw. & O.E. Erikss. SPECIES
-=======
+# Koordersiella deightonii (D. Hawksw.) D. Hawksw. & O.E. Erikss. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Methanofollis aquaemaris Lai & Chen, 2001 SPECIES
-=======
+# Methanofollis aquaemaris Lai & Chen, 2001 SPECIES
 
 #### Status
 ACCEPTED

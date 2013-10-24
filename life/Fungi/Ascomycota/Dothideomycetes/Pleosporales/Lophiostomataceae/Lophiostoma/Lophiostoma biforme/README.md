@@ -1,5 +1,4 @@
-Lophiostoma biforme Nitschke SPECIES
-=======
+# Lophiostoma biforme Nitschke SPECIES
 
 #### Status
 ACCEPTED

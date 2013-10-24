@@ -1,5 +1,4 @@
-Coniochaeta sphaeroidea Lar.N. Vassiljeva SPECIES
-=======
+# Coniochaeta sphaeroidea Lar.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

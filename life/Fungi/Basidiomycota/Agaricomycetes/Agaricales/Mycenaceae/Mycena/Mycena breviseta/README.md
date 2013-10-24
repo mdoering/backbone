@@ -1,5 +1,4 @@
-Mycena breviseta Höhn. SPECIES
-=======
+# Mycena breviseta Höhn. SPECIES
 
 #### Status
 ACCEPTED

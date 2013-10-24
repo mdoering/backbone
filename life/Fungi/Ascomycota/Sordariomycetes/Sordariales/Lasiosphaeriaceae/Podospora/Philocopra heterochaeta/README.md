@@ -1,5 +1,4 @@
-Philocopra heterochaeta (Griffiths) Sacc. & D. Sacc. SPECIES
-=======
+# Philocopra heterochaeta (Griffiths) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria pseudolivacea Nyl. SPECIES
-=======
+# Verrucaria pseudolivacea Nyl. SPECIES
 
 #### Status
 ACCEPTED

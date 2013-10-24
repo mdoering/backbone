@@ -1,5 +1,4 @@
-Phyllachora ixorae Theiss. & Syd., 1915 SPECIES
-=======
+# Phyllachora ixorae Theiss. & Syd., 1915 SPECIES
 
 #### Status
 ACCEPTED

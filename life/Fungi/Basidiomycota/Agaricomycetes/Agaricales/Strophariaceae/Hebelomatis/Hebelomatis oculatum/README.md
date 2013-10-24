@@ -1,5 +1,4 @@
-Hebelomatis oculatum (Bruchet) Locq. SPECIES
-=======
+# Hebelomatis oculatum (Bruchet) Locq. SPECIES
 
 #### Status
 ACCEPTED

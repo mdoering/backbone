@@ -1,5 +1,4 @@
-Delicatula crataegi Velen. SPECIES
-=======
+# Delicatula crataegi Velen. SPECIES
 
 #### Status
 ACCEPTED

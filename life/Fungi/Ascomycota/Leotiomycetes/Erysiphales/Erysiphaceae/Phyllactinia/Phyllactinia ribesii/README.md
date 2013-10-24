@@ -1,5 +1,4 @@
-Phyllactinia ribesii (Jacz.) Z.Y. Zhao SPECIES
-=======
+# Phyllactinia ribesii (Jacz.) Z.Y. Zhao SPECIES
 
 #### Status
 ACCEPTED

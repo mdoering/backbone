@@ -1,5 +1,4 @@
-Meliola jamaicensis Hansf. SPECIES
-=======
+# Meliola jamaicensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

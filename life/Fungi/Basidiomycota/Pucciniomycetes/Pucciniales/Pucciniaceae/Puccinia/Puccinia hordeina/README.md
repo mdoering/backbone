@@ -1,5 +1,4 @@
-Puccinia hordeina Lavrov SPECIES
-=======
+# Puccinia hordeina Lavrov SPECIES
 
 #### Status
 ACCEPTED

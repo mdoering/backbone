@@ -1,5 +1,4 @@
-Russula inquinata McNabb, 1973 SPECIES
-=======
+# Russula inquinata McNabb, 1973 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collema melaenum var. melaenum VARIETY
-=======
+# Collema melaenum SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Lich. univ. (1810)
+null
 
 #### Original name
-Collema melaenum var. melaenum
+null
 
 ### Remarks
 null

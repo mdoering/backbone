@@ -1,5 +1,4 @@
-Cantharomyces aquaticus Thaxt. SPECIES
-=======
+# Cantharomyces aquaticus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

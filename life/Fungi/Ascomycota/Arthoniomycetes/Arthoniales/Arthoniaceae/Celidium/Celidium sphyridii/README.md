@@ -1,5 +1,4 @@
-Celidium sphyridii (J. Steiner) Keissl. SPECIES
-=======
+# Celidium sphyridii (J. Steiner) Keissl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Podospora nerii Schulzer & Sacc. SPECIES
-=======
+# Podospora nerii Schulzer & Sacc. SPECIES
 
 #### Status
 ACCEPTED

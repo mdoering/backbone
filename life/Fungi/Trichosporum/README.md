@@ -1,5 +1,4 @@
-Trichosporum E.M. Fries, 1825 GENUS
-=======
+# Trichosporum E.M. Fries, 1825 GENUS
 
 #### Status
 ACCEPTED

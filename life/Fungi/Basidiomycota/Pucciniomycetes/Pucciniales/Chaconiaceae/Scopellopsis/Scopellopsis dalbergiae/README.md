@@ -1,5 +1,4 @@
-Scopellopsis dalbergiae T.S. Ramakr. & K. Ramakr. SPECIES
-=======
+# Scopellopsis dalbergiae T.S. Ramakr. & K. Ramakr. SPECIES
 
 #### Status
 ACCEPTED

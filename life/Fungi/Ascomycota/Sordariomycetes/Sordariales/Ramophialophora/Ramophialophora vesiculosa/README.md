@@ -1,5 +1,4 @@
-Ramophialophora vesiculosa M. Calduch, Stchigel, Gené & Guarro, 2004 SPECIES
-=======
+# Ramophialophora vesiculosa M. Calduch, Stchigel, Gené & Guarro, 2004 SPECIES
 
 #### Status
 ACCEPTED

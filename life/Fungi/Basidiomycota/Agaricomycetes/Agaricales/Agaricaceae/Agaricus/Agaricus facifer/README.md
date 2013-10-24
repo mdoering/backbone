@@ -1,5 +1,4 @@
-Agaricus facifer Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus facifer Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeomarasmius myrceugenellae Singer SPECIES
-=======
+# Phaeomarasmius myrceugenellae Singer SPECIES
 
 #### Status
 ACCEPTED

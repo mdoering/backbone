@@ -1,5 +1,4 @@
-Polyporus arenatus Lloyd ex Overeem SPECIES
-=======
+# Polyporus arenatus Lloyd ex Overeem SPECIES
 
 #### Status
 ACCEPTED

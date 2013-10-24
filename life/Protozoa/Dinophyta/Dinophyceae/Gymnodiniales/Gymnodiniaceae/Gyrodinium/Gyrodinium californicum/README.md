@@ -1,5 +1,4 @@
-Gyrodinium californicum Bursa, 1962 SPECIES
-=======
+# Gyrodinium californicum Bursa, 1962 SPECIES
 
 #### Status
 ACCEPTED

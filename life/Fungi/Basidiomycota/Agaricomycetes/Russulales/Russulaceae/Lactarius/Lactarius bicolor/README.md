@@ -1,5 +1,4 @@
-Lactarius bicolor Massee SPECIES
-=======
+# Lactarius bicolor Massee SPECIES
 
 #### Status
 ACCEPTED

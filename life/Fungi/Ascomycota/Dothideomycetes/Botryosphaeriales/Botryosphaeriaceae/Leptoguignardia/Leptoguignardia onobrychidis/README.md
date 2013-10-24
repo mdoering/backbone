@@ -1,5 +1,4 @@
-Leptoguignardia onobrychidis E. Müll., 1955 SPECIES
-=======
+# Leptoguignardia onobrychidis E. Müll., 1955 SPECIES
 
 #### Status
 ACCEPTED

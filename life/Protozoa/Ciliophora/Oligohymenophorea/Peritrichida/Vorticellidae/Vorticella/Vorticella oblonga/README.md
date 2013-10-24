@@ -1,5 +1,4 @@
-Vorticella oblonga Kirk, 1887 SPECIES
-=======
+# Vorticella oblonga Kirk, 1887 SPECIES
 
 #### Status
 ACCEPTED

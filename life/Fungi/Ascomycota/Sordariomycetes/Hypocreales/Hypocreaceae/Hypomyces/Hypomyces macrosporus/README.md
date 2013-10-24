@@ -1,5 +1,4 @@
-Hypomyces macrosporus Seaver SPECIES
-=======
+# Hypomyces macrosporus Seaver SPECIES
 
 #### Status
 ACCEPTED

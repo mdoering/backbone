@@ -1,5 +1,4 @@
-Mystrosporiella prolifica Matsush. SPECIES
-=======
+# Mystrosporiella prolifica Matsush. SPECIES
 
 #### Status
 ACCEPTED

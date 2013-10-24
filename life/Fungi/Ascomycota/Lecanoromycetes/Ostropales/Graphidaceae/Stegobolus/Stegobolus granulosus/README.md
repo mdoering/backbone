@@ -1,17 +1,16 @@
-Thelotrema efformatum Kremp. SPECIES
-=======
+# Stegobolus granulosus (Tuck.) Frisch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Frisch & Kalb, Biblthca Lichenol. 92: 460 (2006)
 
 #### Original name
-null
+Thelotrema granulosum Tuck.
 
 ### Remarks
 null

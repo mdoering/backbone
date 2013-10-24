@@ -1,17 +1,16 @@
-Balansia sclerotica var. sclerotica VARIETY
-=======
+# Nigrocornus scleroticus (Pat.) Ryley, 2003 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 120: 449 (1911)
+Mycology Series (New York) 19: 267 (2003)
 
 #### Original name
-Balansia sclerotica var. sclerotica
+Epichloë sclerotica Pat., 1890
 
 ### Remarks
 null

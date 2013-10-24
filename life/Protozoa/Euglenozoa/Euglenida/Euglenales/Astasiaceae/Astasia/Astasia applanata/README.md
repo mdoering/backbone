@@ -1,5 +1,4 @@
-Astasia applanata E.G. Pringsheim SPECIES
-=======
+# Astasia applanata E.G. Pringsheim SPECIES
 
 #### Status
 ACCEPTED

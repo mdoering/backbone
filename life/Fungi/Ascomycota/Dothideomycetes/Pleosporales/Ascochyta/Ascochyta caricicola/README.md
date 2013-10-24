@@ -1,5 +1,4 @@
-Ascochyta caricicola Melnik SPECIES
-=======
+# Ascochyta caricicola Melnik SPECIES
 
 #### Status
 ACCEPTED

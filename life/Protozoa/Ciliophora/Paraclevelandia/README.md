@@ -1,5 +1,4 @@
-Paraclevelandia Kidder, 1937 GENUS
-=======
+# Paraclevelandia Kidder, 1937 GENUS
 
 #### Status
 ACCEPTED

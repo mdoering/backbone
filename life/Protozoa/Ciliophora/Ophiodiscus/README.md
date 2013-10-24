@@ -1,5 +1,4 @@
-Ophiodiscus Yankovskii, 1976 GENUS
-=======
+# Ophiodiscus Yankovskii, 1976 GENUS
 
 #### Status
 ACCEPTED

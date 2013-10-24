@@ -1,5 +1,4 @@
-Lepiota guatopoensis Dennis SPECIES
-=======
+# Lepiota guatopoensis Dennis SPECIES
 
 #### Status
 ACCEPTED

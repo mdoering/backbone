@@ -1,5 +1,4 @@
-Thyridium americanum Ellis & Everh. SPECIES
-=======
+# Thyridium americanum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

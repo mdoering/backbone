@@ -1,8 +1,7 @@
-Bacidia egenuloides Fink SPECIES
-=======
+# Bacidia egenuloidea Fink SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Bacidia egenuloides Fink
+Bacidia egenuloidea Fink
 
 ### Remarks
 null

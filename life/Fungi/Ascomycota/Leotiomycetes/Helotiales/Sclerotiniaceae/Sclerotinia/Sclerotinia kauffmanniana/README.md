@@ -1,5 +1,4 @@
-Sclerotinia kauffmanniana (Tikhom.) Sacc. SPECIES
-=======
+# Sclerotinia kauffmanniana (Tikhom.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

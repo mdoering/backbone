@@ -1,5 +1,4 @@
-Chaetotyphula montana Singer, 1977 SPECIES
-=======
+# Chaetotyphula montana Singer, 1977 SPECIES
 
 #### Status
 ACCEPTED

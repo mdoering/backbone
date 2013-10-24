@@ -1,5 +1,4 @@
-Marasmius edwallianus Henn. SPECIES
-=======
+# Marasmius edwallianus Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Strossmayeria notabilis Iturr., 1990 SPECIES
-=======
+# Strossmayeria notabilis Iturr., 1990 SPECIES
 
 #### Status
 ACCEPTED

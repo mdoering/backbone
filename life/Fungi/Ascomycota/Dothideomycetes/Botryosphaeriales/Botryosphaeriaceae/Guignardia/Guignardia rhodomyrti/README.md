@@ -1,5 +1,4 @@
-Guignardia rhodomyrti Sawada SPECIES
-=======
+# Guignardia rhodomyrti Sawada SPECIES
 
 #### Status
 ACCEPTED

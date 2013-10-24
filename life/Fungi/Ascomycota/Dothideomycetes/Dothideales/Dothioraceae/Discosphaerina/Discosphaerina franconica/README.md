@@ -1,5 +1,4 @@
-Discosphaerina franconica Petr. SPECIES
-=======
+# Discosphaerina franconica Petr. SPECIES
 
 #### Status
 ACCEPTED

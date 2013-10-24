@@ -1,5 +1,4 @@
-Pterula mannii Lloyd SPECIES
-=======
+# Pterula mannii Lloyd SPECIES
 
 #### Status
 ACCEPTED

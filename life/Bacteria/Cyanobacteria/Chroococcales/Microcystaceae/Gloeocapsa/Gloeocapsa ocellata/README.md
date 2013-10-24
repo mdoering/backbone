@@ -1,5 +1,4 @@
-Gloeocapsa ocellata Rabenhorst SPECIES
-=======
+# Gloeocapsa ocellata Rabenhorst SPECIES
 
 #### Status
 ACCEPTED

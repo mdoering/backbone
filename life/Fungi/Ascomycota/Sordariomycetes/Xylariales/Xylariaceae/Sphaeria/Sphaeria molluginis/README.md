@@ -1,5 +1,4 @@
-Sphaeria molluginis Mont. SPECIES
-=======
+# Sphaeria molluginis Mont. SPECIES
 
 #### Status
 ACCEPTED

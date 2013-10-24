@@ -1,17 +1,16 @@
-Calathella erucaeformis var. microspora (W.B. Cooke) Ginns & M.N.L. Lefebvre VARIETY
-=======
+# Calathella eruciformis (P. Micheli ex Batsch) D.A. Reid, 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Persoonia 3(1): 123 (1964)
 
 #### Original name
-Lachnella eruciformis var. microspora W.B. Cooke, 1961
+Peziza eruciformis P. Micheli ex Batsch, 1783
 
 ### Remarks
 null

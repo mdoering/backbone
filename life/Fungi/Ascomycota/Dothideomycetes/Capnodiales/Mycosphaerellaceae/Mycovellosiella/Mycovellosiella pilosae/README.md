@@ -1,5 +1,4 @@
-Mycovellosiella pilosae (T.S. Ramakr.) Deighton SPECIES
-=======
+# Mycovellosiella pilosae (T.S. Ramakr.) Deighton SPECIES
 
 #### Status
 ACCEPTED

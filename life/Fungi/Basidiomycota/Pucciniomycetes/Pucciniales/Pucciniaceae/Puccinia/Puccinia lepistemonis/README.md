@@ -1,5 +1,4 @@
-Puccinia lepistemonis Henn. SPECIES
-=======
+# Puccinia lepistemonis Henn. SPECIES
 
 #### Status
 ACCEPTED

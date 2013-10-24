@@ -1,17 +1,16 @@
-Xylodon tuberculatus (Kotir. & Saaren.) Hjortstam & Ryvarden, 2009 SPECIES
-=======
+# Hyphodontia tuberculata Kotir. & Saaren., 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ann. bot. fenn. 37(4): 272 (2000)
 
 #### Original name
-null
+Hyphodontia tuberculata Kotir. & Saaren., 2000
 
 ### Remarks
 null

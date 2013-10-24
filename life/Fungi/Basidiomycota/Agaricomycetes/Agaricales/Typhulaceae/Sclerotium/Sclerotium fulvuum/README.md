@@ -1,5 +1,4 @@
-Sclerotium fulvuum Fr. SPECIES
-=======
+# Sclerotium fulvuum Fr. SPECIES
 
 #### Status
 ACCEPTED

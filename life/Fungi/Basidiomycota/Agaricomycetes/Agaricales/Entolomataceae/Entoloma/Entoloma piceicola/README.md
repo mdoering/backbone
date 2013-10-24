@@ -1,5 +1,4 @@
-Entoloma piceicola Noordel. SPECIES
-=======
+# Entoloma piceicola Noordel. SPECIES
 
 #### Status
 ACCEPTED

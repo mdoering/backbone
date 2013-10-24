@@ -1,5 +1,4 @@
-Phomatospora striatigera Scheuer SPECIES
-=======
+# Phomatospora striatigera Scheuer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lambertella lasseri (Dennis) Dumont SPECIES
-=======
+# Lambertella lasseri (Dennis) Dumont SPECIES
 
 #### Status
 ACCEPTED

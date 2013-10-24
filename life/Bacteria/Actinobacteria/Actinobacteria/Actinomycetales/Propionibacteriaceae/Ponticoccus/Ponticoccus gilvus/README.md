@@ -1,5 +1,4 @@
-Ponticoccus gilvus Lee & Lee, 2008 SPECIES
-=======
+# Ponticoccus gilvus Lee & Lee, 2008 SPECIES
 
 #### Status
 ACCEPTED

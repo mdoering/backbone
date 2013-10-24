@@ -1,17 +1,16 @@
-Dermatella livida subsp. livida SUBSPECIES
-=======
+# Pezicula livida (Berk. & Broome) Rehm, 1881 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 8: 490 (1889)
+Ascomycetes no. 462 (1881)
 
 #### Original name
-Dermatella livida subsp. livida
+null
 
 ### Remarks
 null

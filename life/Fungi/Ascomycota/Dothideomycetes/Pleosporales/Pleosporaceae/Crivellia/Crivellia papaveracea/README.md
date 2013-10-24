@@ -1,17 +1,16 @@
-Brachycladium penicillatum Corda, 1838 SPECIES
-=======
+# Crivellia papaveracea (De Not.) Shoemaker & Inderb., 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Icon. fung. (Prague) 2: 14 (1838)
+in Inderbitzin, Shoemaker, O'Neill, Turgeon & Berbee, Can. J. Bot. 84(8): 1308 (2006)
 
 #### Original name
-Brachycladium penicillatum Corda, 1838
+Cucurbitaria papaveracea De Not., 1863
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Spathularia alpestris (Rehm) Rahm SPECIES
-=======
+# Spathularia alpestris (Rehm) Rahm SPECIES
 
 #### Status
 ACCEPTED

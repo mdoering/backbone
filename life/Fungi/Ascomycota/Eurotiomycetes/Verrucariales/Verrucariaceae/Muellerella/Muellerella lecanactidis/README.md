@@ -1,5 +1,4 @@
-Muellerella lecanactidis Diederich & van den Boom SPECIES
-=======
+# Muellerella lecanactidis Diederich & van den Boom SPECIES
 
 #### Status
 ACCEPTED

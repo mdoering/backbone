@@ -1,5 +1,4 @@
-Parapithomyces Thaung GENUS
-=======
+# Parapithomyces Thaung GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Camarosporium ellipticum Cooke & Harkn. SPECIES
-=======
+# Camarosporium ellipticum Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pestalozzina celastri Tassi SPECIES
-=======
+# Pestalozzina celastri Tassi SPECIES
 
 #### Status
 ACCEPTED

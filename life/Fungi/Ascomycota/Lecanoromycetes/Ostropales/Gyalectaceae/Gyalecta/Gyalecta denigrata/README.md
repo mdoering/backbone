@@ -1,5 +1,4 @@
-Gyalecta denigrata (J. Steiner) Zahlbr. SPECIES
-=======
+# Gyalecta denigrata (J. Steiner) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

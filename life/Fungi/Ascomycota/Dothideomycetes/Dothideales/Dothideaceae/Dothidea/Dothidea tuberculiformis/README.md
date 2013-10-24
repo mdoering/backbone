@@ -1,5 +1,4 @@
-Dothidea tuberculiformis Ellis SPECIES
-=======
+# Dothidea tuberculiformis Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Rhodosporidium dacryoideum Fell, I.L. Hunter & Tallman, 1973 SPECIES
-=======
+# Sakaguchia dacryoidea (Fell, I.L. Hunter & Tallman) Y. Yamada, K. Maeda & Mikata, 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Biosc. , Biotechn. , Biochem. 58(1): 102 (1994)
 
 #### Original name
-null
+Rhodosporidium dacryoidum Fell, I.L. Hunter & Tallman
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Spongolonche Haeckel, 1881 GENUS
-=======
+# Spongolonche Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

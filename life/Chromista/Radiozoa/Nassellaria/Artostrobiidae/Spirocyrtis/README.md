@@ -1,5 +1,4 @@
-Spirocyrtis Haeckel, 1881 GENUS
-=======
+# Spirocyrtis Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

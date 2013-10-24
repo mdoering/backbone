@@ -1,5 +1,4 @@
-Arthopyrenia persoonii f. persoonii FORM
-=======
+# Arthopyrenia persoonii A. Massal. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Arthopyrenia persoonii f. persoonii
+Arthopyrenia persoonii A. Massal.
 
 ### Remarks
 null

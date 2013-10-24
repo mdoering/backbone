@@ -1,5 +1,4 @@
-Cortinarius intermedius Rea SPECIES
-=======
+# Cortinarius intermedius Rea SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clavaria nigra Lév. SPECIES
-=======
+# Clavaria nigra Lév. SPECIES
 
 #### Status
 ACCEPTED

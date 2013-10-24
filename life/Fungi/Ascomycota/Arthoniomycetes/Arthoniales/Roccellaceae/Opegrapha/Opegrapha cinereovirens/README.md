@@ -1,5 +1,4 @@
-Opegrapha cinereovirens Kremp. SPECIES
-=======
+# Opegrapha cinereovirens Kremp. SPECIES
 
 #### Status
 ACCEPTED

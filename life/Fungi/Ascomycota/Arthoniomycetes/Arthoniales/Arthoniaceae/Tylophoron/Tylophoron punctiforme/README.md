@@ -1,5 +1,4 @@
-Tylophoron punctiforme Stirt. SPECIES
-=======
+# Tylophoron punctiforme Stirt. SPECIES
 
 #### Status
 ACCEPTED

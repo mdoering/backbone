@@ -1,5 +1,4 @@
-Xylaria piliceps Berk. SPECIES
-=======
+# Xylaria piliceps Berk. SPECIES
 
 #### Status
 ACCEPTED

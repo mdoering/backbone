@@ -1,14 +1,13 @@
-Pithoascina langeronii (Arx) Valmaseda, A.T. Martínez & Barrasa, 1987 SPECIES
-=======
+# Pithoascus langeronii Arx, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 65(9): 1805 (1987)
+Persoonia 10(1): 24 (1978)
 
 #### Original name
 Pithoascus langeronii Arx, 1978

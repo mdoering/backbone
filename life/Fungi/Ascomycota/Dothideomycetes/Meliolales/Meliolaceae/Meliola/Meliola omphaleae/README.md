@@ -1,5 +1,4 @@
-Meliola omphaleae (Hansf.) Cif. SPECIES
-=======
+# Meliola omphaleae (Hansf.) Cif. SPECIES
 
 #### Status
 ACCEPTED

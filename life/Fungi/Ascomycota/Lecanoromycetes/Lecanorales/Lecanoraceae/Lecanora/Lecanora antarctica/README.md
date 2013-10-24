@@ -1,5 +1,4 @@
-Lecanora antarctica (Müll. Arg.) Müll. Arg. SPECIES
-=======
+# Lecanora antarctica (Müll. Arg.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

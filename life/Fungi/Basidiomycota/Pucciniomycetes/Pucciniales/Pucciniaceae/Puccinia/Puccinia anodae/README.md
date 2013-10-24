@@ -1,5 +1,4 @@
-Puccinia anodae P. Syd. & Syd. SPECIES
-=======
+# Puccinia anodae P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

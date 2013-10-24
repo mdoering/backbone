@@ -1,5 +1,4 @@
-Xylaria candelabrum Bat. & A.F. Vital SPECIES
-=======
+# Xylaria candelabrum Bat. & A.F. Vital SPECIES
 
 #### Status
 ACCEPTED

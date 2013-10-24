@@ -1,5 +1,4 @@
-Peziza flexuosa Pers. SPECIES
-=======
+# Peziza flexuosa Pers. SPECIES
 
 #### Status
 ACCEPTED

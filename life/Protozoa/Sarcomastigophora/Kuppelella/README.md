@@ -1,5 +1,4 @@
-Kuppelella Empson-Morin, 1981 GENUS
-=======
+# Kuppelella Empson-Morin, 1981 GENUS
 
 #### Status
 ACCEPTED

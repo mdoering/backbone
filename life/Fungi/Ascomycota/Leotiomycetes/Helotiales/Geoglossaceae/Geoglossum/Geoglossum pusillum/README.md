@@ -1,5 +1,4 @@
-Geoglossum pusillum F.L. Tai SPECIES
-=======
+# Geoglossum pusillum F.L. Tai SPECIES
 
 #### Status
 ACCEPTED

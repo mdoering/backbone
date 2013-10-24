@@ -1,5 +1,4 @@
-Biatora toensbergii Holien & Printzen SPECIES
-=======
+# Biatora toensbergii Holien & Printzen SPECIES
 
 #### Status
 ACCEPTED

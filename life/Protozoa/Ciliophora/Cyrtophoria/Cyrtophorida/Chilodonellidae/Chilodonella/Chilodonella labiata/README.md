@@ -1,8 +1,7 @@
-Chilodon labiatus Stokes, 1891 SPECIES
-=======
+# Chilodonella labiata (Stokes, 1891) Kahl, 1931 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Russula clavipes Velen., 1920 SPECIES
-=======
+# Russula clavipes Velen., 1920 SPECIES
 
 #### Status
 ACCEPTED

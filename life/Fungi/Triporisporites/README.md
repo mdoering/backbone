@@ -1,5 +1,4 @@
-Triporisporites Hammen GENUS
-=======
+# Triporisporites Hammen GENUS
 
 #### Status
 ACCEPTED

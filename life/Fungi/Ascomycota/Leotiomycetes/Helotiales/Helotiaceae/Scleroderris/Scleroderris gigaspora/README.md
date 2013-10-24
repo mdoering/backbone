@@ -1,5 +1,4 @@
-Scleroderris gigaspora Massee SPECIES
-=======
+# Scleroderris gigaspora Massee SPECIES
 
 #### Status
 ACCEPTED

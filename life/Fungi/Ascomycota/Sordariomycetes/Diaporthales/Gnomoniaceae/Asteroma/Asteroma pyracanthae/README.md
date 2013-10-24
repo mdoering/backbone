@@ -1,5 +1,4 @@
-Asteroma pyracanthae Desm. SPECIES
-=======
+# Asteroma pyracanthae Desm. SPECIES
 
 #### Status
 ACCEPTED

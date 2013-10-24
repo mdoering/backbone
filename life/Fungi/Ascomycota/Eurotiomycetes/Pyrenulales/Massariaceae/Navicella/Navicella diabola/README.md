@@ -1,5 +1,4 @@
-Navicella diabola Aptroot SPECIES
-=======
+# Navicella diabola Aptroot SPECIES
 
 #### Status
 ACCEPTED

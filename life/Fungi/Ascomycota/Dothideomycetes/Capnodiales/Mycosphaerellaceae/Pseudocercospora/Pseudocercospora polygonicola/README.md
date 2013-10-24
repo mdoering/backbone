@@ -1,5 +1,4 @@
-Pseudocercospora polygonicola (A.K. Kar & M. Mandal) Deighton SPECIES
-=======
+# Pseudocercospora polygonicola (A.K. Kar & M. Mandal) Deighton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius rhaebopus (M.M. Moser) M.M. Moser SPECIES
-=======
+# Cortinarius rhaebopus (M.M. Moser) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

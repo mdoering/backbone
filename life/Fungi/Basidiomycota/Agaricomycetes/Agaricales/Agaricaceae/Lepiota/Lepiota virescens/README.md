@@ -1,5 +1,4 @@
-Lepiota virescens (Speg.) Morgan SPECIES
-=======
+# Lepiota virescens (Speg.) Morgan SPECIES
 
 #### Status
 ACCEPTED

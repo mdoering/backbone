@@ -1,5 +1,4 @@
-Dictyothyrium giganteum Syd. SPECIES
-=======
+# Dictyothyrium giganteum Syd. SPECIES
 
 #### Status
 ACCEPTED

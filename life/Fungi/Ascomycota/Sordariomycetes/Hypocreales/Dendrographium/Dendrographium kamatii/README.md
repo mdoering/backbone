@@ -1,5 +1,4 @@
-Dendrographium kamatii V.G. Rao SPECIES
-=======
+# Dendrographium kamatii V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

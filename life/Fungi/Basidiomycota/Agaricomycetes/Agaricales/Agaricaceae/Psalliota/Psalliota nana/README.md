@@ -1,5 +1,4 @@
-Psalliota nana Massee SPECIES
-=======
+# Psalliota nana Massee SPECIES
 
 #### Status
 ACCEPTED

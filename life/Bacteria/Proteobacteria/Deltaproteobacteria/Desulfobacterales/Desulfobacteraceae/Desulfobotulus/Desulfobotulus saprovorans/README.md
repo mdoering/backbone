@@ -1,5 +1,4 @@
-Desulfobotulus saprovorans SPECIES
-=======
+# Desulfobotulus saprovorans SPECIES
 
 #### Status
 ACCEPTED

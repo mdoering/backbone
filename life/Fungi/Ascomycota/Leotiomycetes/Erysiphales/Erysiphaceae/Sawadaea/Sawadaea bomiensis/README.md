@@ -1,5 +1,4 @@
-Sawadaea bomiensis R.Y. Zheng & G.Q. Chen SPECIES
-=======
+# Sawadaea bomiensis R.Y. Zheng & G.Q. Chen SPECIES
 
 #### Status
 ACCEPTED

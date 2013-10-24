@@ -1,5 +1,4 @@
-Guignardia coronillae Sibilia SPECIES
-=======
+# Guignardia coronillae Sibilia SPECIES
 
 #### Status
 ACCEPTED

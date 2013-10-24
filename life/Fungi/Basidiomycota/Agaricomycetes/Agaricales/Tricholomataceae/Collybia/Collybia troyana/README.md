@@ -1,5 +1,4 @@
-Collybia troyana (Murrill) Dennis SPECIES
-=======
+# Collybia troyana (Murrill) Dennis SPECIES
 
 #### Status
 ACCEPTED

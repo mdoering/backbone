@@ -1,5 +1,4 @@
-Melanoleuca jalapensis Murrill SPECIES
-=======
+# Melanoleuca jalapensis Murrill SPECIES
 
 #### Status
 ACCEPTED

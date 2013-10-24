@@ -1,5 +1,4 @@
-Vertebralina d’Orbigny, 1826 GENUS
-=======
+# Vertebralina d’Orbigny, 1826 GENUS
 
 #### Status
 ACCEPTED

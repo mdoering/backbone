@@ -1,5 +1,4 @@
-Kalmusia brevispora (Nagas. & Y. Otani) Yin. Zhang, Kaz. Tanaka & C.L. Schoch, 2009 SPECIES
-=======
+# Kalmusia brevispora (Nagas. & Y. Otani) Yin. Zhang, Kaz. Tanaka & C.L. Schoch, 2009 SPECIES
 
 #### Status
 ACCEPTED

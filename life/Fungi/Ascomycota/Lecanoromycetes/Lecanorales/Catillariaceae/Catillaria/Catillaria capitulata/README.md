@@ -1,5 +1,4 @@
-Catillaria capitulata Th. Fr. SPECIES
-=======
+# Catillaria capitulata Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

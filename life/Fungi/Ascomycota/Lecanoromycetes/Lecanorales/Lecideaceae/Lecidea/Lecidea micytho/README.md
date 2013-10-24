@@ -1,5 +1,4 @@
-Lecidea micytho Tuck. SPECIES
-=======
+# Lecidea micytho Tuck. SPECIES
 
 #### Status
 ACCEPTED

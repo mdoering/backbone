@@ -1,5 +1,4 @@
-Sedecula pulvinata Zeller, 1941 SPECIES
-=======
+# Sedecula pulvinata Zeller, 1941 SPECIES
 
 #### Status
 ACCEPTED

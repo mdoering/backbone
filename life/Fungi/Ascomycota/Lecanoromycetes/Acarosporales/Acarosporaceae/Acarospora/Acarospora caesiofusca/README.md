@@ -1,5 +1,4 @@
-Acarospora caesiofusca (Müll. Arg.) H. Magn. SPECIES
-=======
+# Acarospora caesiofusca (Müll. Arg.) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

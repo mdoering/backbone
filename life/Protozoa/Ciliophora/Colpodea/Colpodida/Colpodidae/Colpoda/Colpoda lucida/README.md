@@ -1,5 +1,4 @@
-Colpoda lucida Greeff, 1888 SPECIES
-=======
+# Colpoda lucida Greeff, 1888 SPECIES
 
 #### Status
 ACCEPTED

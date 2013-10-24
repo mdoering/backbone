@@ -1,5 +1,4 @@
-Nicklithus I. Raffi, J. Backman & D. Rio, 1998 GENUS
-=======
+# Nicklithus I. Raffi, J. Backman & D. Rio, 1998 GENUS
 
 #### Status
 ACCEPTED

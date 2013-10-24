@@ -1,11 +1,10 @@
-Amylobacter navicula (Reinke & Berthold, 1879) Wehmer, 1898 SPECIES
-=======
+# Clostridium butyricum Prazmowski, 1880 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

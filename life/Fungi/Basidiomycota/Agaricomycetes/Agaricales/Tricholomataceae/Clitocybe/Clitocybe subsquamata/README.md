@@ -1,5 +1,4 @@
-Clitocybe subsquamata Murrill SPECIES
-=======
+# Clitocybe subsquamata Murrill SPECIES
 
 #### Status
 ACCEPTED

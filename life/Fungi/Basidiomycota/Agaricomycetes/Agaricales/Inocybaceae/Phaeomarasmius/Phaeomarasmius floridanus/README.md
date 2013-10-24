@@ -1,5 +1,4 @@
-Phaeomarasmius floridanus Singer SPECIES
-=======
+# Phaeomarasmius floridanus Singer SPECIES
 
 #### Status
 ACCEPTED

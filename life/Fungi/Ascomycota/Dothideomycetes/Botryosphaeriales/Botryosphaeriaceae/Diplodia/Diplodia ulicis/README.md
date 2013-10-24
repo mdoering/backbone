@@ -1,5 +1,4 @@
-Diplodia ulicis Sacc. & Speg., 1878 SPECIES
-=======
+# Diplodia ulicis Sacc. & Speg., 1878 SPECIES
 
 #### Status
 ACCEPTED

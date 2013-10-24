@@ -1,5 +1,4 @@
-Lecidea albinea (Müll. Arg.) Sitzenb. SPECIES
-=======
+# Lecidea albinea (Müll. Arg.) Sitzenb. SPECIES
 
 #### Status
 ACCEPTED

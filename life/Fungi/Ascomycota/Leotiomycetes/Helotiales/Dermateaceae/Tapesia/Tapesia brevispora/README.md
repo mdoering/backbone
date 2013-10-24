@@ -1,5 +1,4 @@
-Tapesia brevispora Velen. SPECIES
-=======
+# Tapesia brevispora Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycomalus bambusinus Möller, 1901 SPECIES
-=======
+# Mycomalus bambusinus Möller, 1901 SPECIES
 
 #### Status
 ACCEPTED

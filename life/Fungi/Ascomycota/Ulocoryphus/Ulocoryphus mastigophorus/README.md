@@ -1,5 +1,4 @@
-Ulocoryphus mastigophorus Michaelides, L. Hunter & W.B. Kendr., 1982 SPECIES
-=======
+# Ulocoryphus mastigophorus Michaelides, L. Hunter & W.B. Kendr., 1982 SPECIES
 
 #### Status
 ACCEPTED

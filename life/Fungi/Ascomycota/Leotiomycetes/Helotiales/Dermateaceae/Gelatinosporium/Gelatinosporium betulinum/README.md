@@ -1,5 +1,4 @@
-Gelatinosporium betulinum Peck, 1873 SPECIES
-=======
+# Gelatinosporium betulinum Peck, 1873 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acremonium thermophilum W. Gams & J. Lacey, 1972 SPECIES
-=======
+# Acremonium thermophilum W. Gams & J. Lacey, 1972 SPECIES
 
 #### Status
 ACCEPTED

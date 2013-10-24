@@ -1,5 +1,4 @@
-Coltricia mowryana Murrill SPECIES
-=======
+# Coltricia mowryana Murrill SPECIES
 
 #### Status
 ACCEPTED

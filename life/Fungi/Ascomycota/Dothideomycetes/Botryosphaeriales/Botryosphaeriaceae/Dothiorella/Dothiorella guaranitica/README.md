@@ -1,5 +1,4 @@
-Dothiorella guaranitica Speg. SPECIES
-=======
+# Dothiorella guaranitica Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus salignus J.F. Gmel. SPECIES
-=======
+# Boletus salignus J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

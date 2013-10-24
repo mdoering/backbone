@@ -1,5 +1,4 @@
-Clavaria borealis R.H. Petersen, 1986 SPECIES
-=======
+# Clavaria borealis R.H. Petersen, 1986 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus angulatus var. angulatus VARIETY
-=======
+# Polyporus angulatus (Schumach.) Pers. SPECIES
 
 #### Status
 ACCEPTED

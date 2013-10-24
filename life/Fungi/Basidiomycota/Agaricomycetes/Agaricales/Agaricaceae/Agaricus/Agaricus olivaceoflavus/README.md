@@ -1,17 +1,16 @@
-Agaricus olivaceoflava Kalchbr. & MacOwan SPECIES
-=======
+# Agaricus olivaceoflavus Kalchbr. & MacOwan SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Grevillea 9(no. 52): 131 (1881)
 
 #### Original name
-Agaricus olivaceoflava Kalchbr. & MacOwan
+Agaricus olivaceoflavus Kalchbr. & MacOwan
 
 ### Remarks
 null

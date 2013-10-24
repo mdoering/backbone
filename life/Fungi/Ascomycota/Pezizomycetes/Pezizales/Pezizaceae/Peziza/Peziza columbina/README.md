@@ -1,5 +1,4 @@
-Peziza columbina Kalchbr. & Cooke SPECIES
-=======
+# Peziza columbina Kalchbr. & Cooke SPECIES
 
 #### Status
 ACCEPTED

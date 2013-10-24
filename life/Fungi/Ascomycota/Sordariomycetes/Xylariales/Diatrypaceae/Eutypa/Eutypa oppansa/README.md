@@ -1,5 +1,4 @@
-Eutypa oppansa (Fr.) Cooke SPECIES
-=======
+# Eutypa oppansa (Fr.) Cooke SPECIES
 
 #### Status
 ACCEPTED

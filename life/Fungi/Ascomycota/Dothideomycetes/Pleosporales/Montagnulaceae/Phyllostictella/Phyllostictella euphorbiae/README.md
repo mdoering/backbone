@@ -1,5 +1,4 @@
-Phyllostictella euphorbiae (Roum.) Tassi SPECIES
-=======
+# Phyllostictella euphorbiae (Roum.) Tassi SPECIES
 
 #### Status
 ACCEPTED

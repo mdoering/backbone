@@ -1,17 +1,16 @@
-Rinodina confragosa var. confragosa VARIETY
-=======
+# Rinodina confragosa (Ach.) Körb. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Syst. lich. germ. (Breslau) 125 (1855)
 
 #### Original name
-Rinodina confragosa var. confragosa
+Parmelia confragosa Ach.
 
 ### Remarks
 null

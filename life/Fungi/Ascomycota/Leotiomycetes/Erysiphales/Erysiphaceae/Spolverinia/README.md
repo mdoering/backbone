@@ -1,5 +1,4 @@
-Spolverinia GENUS
-=======
+# Spolverinia GENUS
 
 #### Status
 ACCEPTED

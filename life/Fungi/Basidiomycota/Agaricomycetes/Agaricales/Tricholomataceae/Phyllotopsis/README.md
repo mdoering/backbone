@@ -1,17 +1,16 @@
-Tilotus Kalchbr. GENUS
-=======
+# Phyllotopsis E.-J. Gilbert & Donk ex Singer GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 9(no. 52): 137 (1881)
+Beih. bot. Zbl. 56: 143 (1936)
 
 #### Original name
-Tilotus Kalchbr.
+Phyllotopsis E.-J. Gilbert & Donk ex Singer
 
 ### Remarks
 null

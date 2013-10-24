@@ -1,5 +1,4 @@
-Hyphasma glandiferum J. Kickx f. SPECIES
-=======
+# Hyphasma glandiferum J. Kickx f. SPECIES
 
 #### Status
 ACCEPTED

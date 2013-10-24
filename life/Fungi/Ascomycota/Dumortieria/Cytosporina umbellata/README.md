@@ -1,5 +1,4 @@
-Cytosporina umbellata (Vestergr.) Höhn. SPECIES
-=======
+# Cytosporina umbellata (Vestergr.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

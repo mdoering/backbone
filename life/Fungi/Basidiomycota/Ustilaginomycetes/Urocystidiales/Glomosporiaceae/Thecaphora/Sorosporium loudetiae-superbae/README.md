@@ -1,5 +1,4 @@
-Sorosporium loudetiae-superbae L. Ling SPECIES
-=======
+# Sorosporium loudetiae-superbae L. Ling SPECIES
 
 #### Status
 ACCEPTED

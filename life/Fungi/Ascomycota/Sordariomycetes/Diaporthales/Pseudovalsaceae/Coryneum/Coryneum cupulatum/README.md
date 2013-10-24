@@ -1,5 +1,4 @@
-Coryneum cupulatum Ellis & Everh. SPECIES
-=======
+# Coryneum cupulatum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

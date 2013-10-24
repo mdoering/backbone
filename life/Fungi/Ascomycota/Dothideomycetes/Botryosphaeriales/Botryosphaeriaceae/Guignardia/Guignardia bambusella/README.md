@@ -1,5 +1,4 @@
-Guignardia bambusella Sacc. SPECIES
-=======
+# Guignardia bambusella Sacc. SPECIES
 
 #### Status
 ACCEPTED

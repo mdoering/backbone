@@ -1,5 +1,4 @@
-Exosporium fructicola Sacc. SPECIES
-=======
+# Exosporium fructicola Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrophyllosticta sardoa (Pass.) Sousa da Câmara SPECIES
-=======
+# Macrophyllosticta sardoa (Pass.) Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

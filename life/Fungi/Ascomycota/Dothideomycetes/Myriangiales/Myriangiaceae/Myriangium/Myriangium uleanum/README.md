@@ -1,5 +1,4 @@
-Myriangium uleanum (Henn.) Höhn. SPECIES
-=======
+# Myriangium uleanum (Henn.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

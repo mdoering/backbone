@@ -1,5 +1,4 @@
-Sporhelminthium argentinense Speg. SPECIES
-=======
+# Sporhelminthium argentinense Speg. SPECIES
 
 #### Status
 ACCEPTED

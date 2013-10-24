@@ -1,14 +1,13 @@
-Dinobryum Agassiz, 1846 GENUS
-=======
+# Dinobryon Ehrenberg, 1834 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nomen Zool. Index Univ.
+Abh. Preuss. Akad. Wiss. , 1833 (1835), 279.
 
 #### Original name
 null

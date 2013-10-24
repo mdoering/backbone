@@ -1,17 +1,16 @@
-Stereum diaphanum var. diaphanum (Schwein.) Cooke VARIETY
-=======
+# Cotylidia diaphana (Schwein.) Lentz, 1955 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 6: 558 (1888)
+Agric. Monogr. U. S. D. A. 24: 12 (1955)
 
 #### Original name
-Stereum diaphanum var. diaphanum (Schwein.) Cooke
+Thelephora diaphana Schwein., 1794
 
 ### Remarks
 null

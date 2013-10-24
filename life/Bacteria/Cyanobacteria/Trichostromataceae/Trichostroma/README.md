@@ -1,5 +1,4 @@
-Trichostroma A.G. Vologdin, 1962 GENUS
-=======
+# Trichostroma A.G. Vologdin, 1962 GENUS
 
 #### Status
 ACCEPTED

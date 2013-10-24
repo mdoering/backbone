@@ -1,5 +1,4 @@
-Misgomyces digitatus (F. Picard) Thaxt. SPECIES
-=======
+# Misgomyces digitatus (F. Picard) Thaxt. SPECIES
 
 #### Status
 ACCEPTED

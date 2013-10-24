@@ -1,5 +1,4 @@
-Lambertella acuminata Dumont SPECIES
-=======
+# Lambertella acuminata Dumont SPECIES
 
 #### Status
 ACCEPTED

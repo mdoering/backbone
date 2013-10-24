@@ -1,5 +1,4 @@
-Tricholoma coryphaeum (Fr.) Gillet SPECIES
-=======
+# Tricholoma coryphaeum (Fr.) Gillet SPECIES
 
 #### Status
 ACCEPTED

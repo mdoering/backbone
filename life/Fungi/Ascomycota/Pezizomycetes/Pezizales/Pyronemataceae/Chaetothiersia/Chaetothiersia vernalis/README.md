@@ -1,5 +1,4 @@
-Chaetothiersia vernalis B.A. Perry & Pfister, 2008 SPECIES
-=======
+# Chaetothiersia vernalis B.A. Perry & Pfister, 2008 SPECIES
 
 #### Status
 ACCEPTED

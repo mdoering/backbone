@@ -1,5 +1,4 @@
-Physalospora caricicola P. Karst. SPECIES
-=======
+# Physalospora caricicola P. Karst. SPECIES
 
 #### Status
 ACCEPTED

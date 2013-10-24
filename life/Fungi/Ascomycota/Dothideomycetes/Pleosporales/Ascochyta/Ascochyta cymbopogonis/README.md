@@ -1,5 +1,4 @@
-Ascochyta cymbopogonis Punith. SPECIES
-=======
+# Ascochyta cymbopogonis Punith. SPECIES
 
 #### Status
 ACCEPTED

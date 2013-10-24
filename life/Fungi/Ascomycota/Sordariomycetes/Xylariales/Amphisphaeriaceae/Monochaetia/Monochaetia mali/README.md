@@ -1,5 +1,4 @@
-Monochaetia mali (Ellis & Everh.) Sacc. & D. Sacc. SPECIES
-=======
+# Monochaetia mali (Ellis & Everh.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

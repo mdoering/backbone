@@ -1,5 +1,4 @@
-Stellechinatum granulatum (Cookson & Eisenack, 1982) Sarjent & Stancliffe, 1994 SPECIES
-=======
+# Stellechinatum granulatum (Cookson & Eisenack, 1982) Sarjent & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius umbrinolutescens Reumaux SPECIES
-=======
+# Cortinarius umbrinolutescens Reumaux SPECIES
 
 #### Status
 ACCEPTED

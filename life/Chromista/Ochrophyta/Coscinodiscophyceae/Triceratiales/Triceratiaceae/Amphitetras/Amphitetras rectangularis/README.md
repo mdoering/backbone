@@ -1,5 +1,4 @@
-Amphitetras rectangularis (Grove & Sturt) De Toni SPECIES
-=======
+# Amphitetras rectangularis (Grove & Sturt) De Toni SPECIES
 
 #### Status
 ACCEPTED

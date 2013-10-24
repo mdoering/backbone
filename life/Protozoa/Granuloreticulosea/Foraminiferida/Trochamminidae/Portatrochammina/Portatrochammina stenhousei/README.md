@@ -1,5 +1,4 @@
-Portatrochammina stenhousei Brönnimann & Whittaker, 1988 SPECIES
-=======
+# Portatrochammina stenhousei Brönnimann & Whittaker, 1988 SPECIES
 
 #### Status
 ACCEPTED

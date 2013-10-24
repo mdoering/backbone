@@ -1,5 +1,4 @@
-Warkallisporonites denticulatus Ramanujam & K.P. Rao SPECIES
-=======
+# Warkallisporonites denticulatus Ramanujam & K.P. Rao SPECIES
 
 #### Status
 ACCEPTED

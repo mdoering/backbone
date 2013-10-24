@@ -1,5 +1,4 @@
-Corticium dealbans Tunstall & Sarmah SPECIES
-=======
+# Corticium dealbans Tunstall & Sarmah SPECIES
 
 #### Status
 ACCEPTED

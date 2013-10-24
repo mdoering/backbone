@@ -1,5 +1,4 @@
-Puccinia ceanothi Arthur SPECIES
-=======
+# Puccinia ceanothi Arthur SPECIES
 
 #### Status
 ACCEPTED

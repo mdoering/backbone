@@ -1,17 +1,16 @@
-Clavaria novo-zealandica R.H. Petersen SPECIES
-=======
+# Clavaria novozealandica R.H. Petersen, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+DSIR Bulletin 236: 29 (1988)
 
 #### Original name
-Clavaria novo-zealandica R.H. Petersen
+Clavaria novozealandica R.H. Petersen, 1988
 
 ### Remarks
 null

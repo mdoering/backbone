@@ -1,5 +1,4 @@
-Phyllachora pouteriae Bat. & Peres, 1967 SPECIES
-=======
+# Phyllachora pouteriae Bat. & Peres, 1967 SPECIES
 
 #### Status
 ACCEPTED

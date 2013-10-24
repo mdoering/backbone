@@ -1,5 +1,4 @@
-Doguetia styracina Bat. & J.A. Lima SPECIES
-=======
+# Doguetia styracina Bat. & J.A. Lima SPECIES
 
 #### Status
 ACCEPTED

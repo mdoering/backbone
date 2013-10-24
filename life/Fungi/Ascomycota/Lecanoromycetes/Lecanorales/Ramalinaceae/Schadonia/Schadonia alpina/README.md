@@ -1,5 +1,4 @@
-Schadonia alpina Körb. SPECIES
-=======
+# Schadonia alpina Körb. SPECIES
 
 #### Status
 ACCEPTED

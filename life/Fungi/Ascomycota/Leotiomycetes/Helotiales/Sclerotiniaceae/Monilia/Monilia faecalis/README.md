@@ -1,14 +1,13 @@
-Monilia faecilis (Castell.) Castell. & Chalm. SPECIES
-=======
+# Monilia faecalis (Castell.) Castell. & Chalm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Manual of tropical medicine (London), Edn 2 827 (1913)
 
 #### Original name
 Endomyces faecalis Castell., 1912

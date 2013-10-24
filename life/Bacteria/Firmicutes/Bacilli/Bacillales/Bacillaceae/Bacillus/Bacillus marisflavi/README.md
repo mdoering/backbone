@@ -1,5 +1,4 @@
-Bacillus marisflavi Yoon et al., 2003 SPECIES
-=======
+# Bacillus marisflavi Yoon et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

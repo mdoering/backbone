@@ -1,5 +1,4 @@
-Naematelia quercina Coker SPECIES
-=======
+# Naematelia quercina Coker SPECIES
 
 #### Status
 ACCEPTED

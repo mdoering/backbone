@@ -1,5 +1,4 @@
-Rhabdospora tragopogonis Richon SPECIES
-=======
+# Rhabdospora tragopogonis Richon SPECIES
 
 #### Status
 ACCEPTED

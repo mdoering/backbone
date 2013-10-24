@@ -1,5 +1,4 @@
-Peziza epidermidis Opiz SPECIES
-=======
+# Peziza epidermidis Opiz SPECIES
 
 #### Status
 ACCEPTED

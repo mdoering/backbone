@@ -1,5 +1,4 @@
-Phyllosticta podagrariae Oudem. SPECIES
-=======
+# Phyllosticta podagrariae Oudem. SPECIES
 
 #### Status
 ACCEPTED

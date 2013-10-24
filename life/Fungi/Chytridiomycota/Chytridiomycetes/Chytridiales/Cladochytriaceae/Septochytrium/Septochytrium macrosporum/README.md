@@ -1,5 +1,4 @@
-Septochytrium macrosporum Karling SPECIES
-=======
+# Septochytrium macrosporum Karling SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calocera delicata Fr. SPECIES
-=======
+# Calocera delicata Fr. SPECIES
 
 #### Status
 ACCEPTED

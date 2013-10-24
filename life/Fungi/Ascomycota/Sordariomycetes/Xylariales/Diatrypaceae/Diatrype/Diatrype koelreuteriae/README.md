@@ -1,5 +1,4 @@
-Diatrype koelreuteriae Savul. & Sandu SPECIES
-=======
+# Diatrype koelreuteriae Savul. & Sandu SPECIES
 
 #### Status
 ACCEPTED

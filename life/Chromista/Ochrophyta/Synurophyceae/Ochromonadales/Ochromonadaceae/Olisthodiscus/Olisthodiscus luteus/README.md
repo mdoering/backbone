@@ -1,5 +1,4 @@
-Olisthodiscus luteus N. Carter SPECIES
-=======
+# Olisthodiscus luteus N. Carter SPECIES
 
 #### Status
 ACCEPTED

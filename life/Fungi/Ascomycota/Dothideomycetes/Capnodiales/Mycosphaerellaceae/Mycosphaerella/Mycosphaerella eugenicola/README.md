@@ -1,5 +1,4 @@
-Mycosphaerella eugenicola Crous, Alfenas & R.W. Barreto SPECIES
-=======
+# Mycosphaerella eugenicola Crous, Alfenas & R.W. Barreto SPECIES
 
 #### Status
 ACCEPTED

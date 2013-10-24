@@ -1,5 +1,4 @@
-Moriola resinae Norman SPECIES
-=======
+# Moriola resinae Norman SPECIES
 
 #### Status
 ACCEPTED

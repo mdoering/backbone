@@ -1,5 +1,4 @@
-Xerocomus piperatus (Bull.) SPECIES
-=======
+# Xerocomus piperatus (Bull.) SPECIES
 
 #### Status
 ACCEPTED

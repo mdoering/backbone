@@ -1,5 +1,4 @@
-Macrophoma lentiscina (Maire) Sacc. SPECIES
-=======
+# Macrophoma lentiscina (Maire) Sacc. SPECIES
 
 #### Status
 ACCEPTED

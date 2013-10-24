@@ -1,5 +1,4 @@
-Caloplaca subnigricans H. Magn. SPECIES
-=======
+# Caloplaca subnigricans H. Magn. SPECIES
 
 #### Status
 ACCEPTED

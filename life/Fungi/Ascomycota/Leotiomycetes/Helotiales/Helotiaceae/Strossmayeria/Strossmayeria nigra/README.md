@@ -1,5 +1,4 @@
-Strossmayeria nigra Iturr., 1990 SPECIES
-=======
+# Strossmayeria nigra Iturr., 1990 SPECIES
 
 #### Status
 ACCEPTED

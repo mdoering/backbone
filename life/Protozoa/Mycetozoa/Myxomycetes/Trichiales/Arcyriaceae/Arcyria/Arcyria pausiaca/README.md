@@ -1,5 +1,4 @@
-Arcyria pausiaca H.W. Keller & Bub.-Zurey, 1986 SPECIES
-=======
+# Arcyria pausiaca H.W. Keller & Bub.-Zurey, 1986 SPECIES
 
 #### Status
 ACCEPTED

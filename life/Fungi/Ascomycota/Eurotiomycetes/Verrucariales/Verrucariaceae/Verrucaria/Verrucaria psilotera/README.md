@@ -1,5 +1,4 @@
-Verrucaria psilotera Nyl. SPECIES
-=======
+# Verrucaria psilotera Nyl. SPECIES
 
 #### Status
 ACCEPTED

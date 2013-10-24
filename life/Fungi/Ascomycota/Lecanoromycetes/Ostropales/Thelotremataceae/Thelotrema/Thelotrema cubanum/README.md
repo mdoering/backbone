@@ -1,14 +1,13 @@
-Leptotrema cubanum (Tuck.) Zahlbr. SPECIES
-=======
+# Thelotrema cubanum Tuck. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Cat. Lich. Univers. 2: 633 (1923)
+Proc. Amer. Acad. Arts 5: 407 (1862)
 
 #### Original name
 Thelotrema cubanum Tuck.

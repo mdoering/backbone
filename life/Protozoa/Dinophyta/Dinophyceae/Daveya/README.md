@@ -1,5 +1,4 @@
-Daveya Monteil, 1996 GENUS
-=======
+# Daveya Monteil, 1996 GENUS
 
 #### Status
 ACCEPTED

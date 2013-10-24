@@ -1,17 +1,16 @@
-Cortinarius parvannulatus f. parvannulatus FORM
-=======
+# Cortinarius parvannulatus Kühner, 1955 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Bull. mens. Soc. linn. Lyon 24(2): 40 (1955)
 
 #### Original name
-Cortinarius parvannulatus f. parvannulatus
+Cortinarius parvannulatus Kühner, 1955
 
 ### Remarks
 null

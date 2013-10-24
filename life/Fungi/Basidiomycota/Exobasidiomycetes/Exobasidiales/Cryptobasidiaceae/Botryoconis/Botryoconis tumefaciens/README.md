@@ -1,5 +1,4 @@
-Botryoconis tumefaciens (G. Winter) Syd. & P. Syd. SPECIES
-=======
+# Botryoconis tumefaciens (G. Winter) Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

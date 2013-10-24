@@ -1,5 +1,4 @@
-Exobasidium aequatorianum L.D. Gómez & Kisim.-Hor., 1998 SPECIES
-=======
+# Exobasidium aequatorianum L.D. Gómez & Kisim.-Hor., 1998 SPECIES
 
 #### Status
 ACCEPTED

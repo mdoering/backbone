@@ -1,5 +1,4 @@
-Afrophrya GENUS
-=======
+# Afrophrya GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thiorhodovibrio winogradskyi Overmann et al., 1993 SPECIES
-=======
+# Thiorhodovibrio winogradskyi Overmann et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vibrio owensii Cano-Gomez, Goulden, Owens & Hoj, 2009 SPECIES
-=======
+# Vibrio owensii Cano-Gomez, Goulden, Owens & Hoj, 2009 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hydnum roseum Saut. SPECIES
-=======
+# Hydnum roseum Saut. SPECIES
 
 #### Status
 ACCEPTED

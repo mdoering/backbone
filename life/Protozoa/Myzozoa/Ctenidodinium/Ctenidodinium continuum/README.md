@@ -1,5 +1,4 @@
-Ctenidodinium continuum Gocht, 1970 SPECIES
-=======
+# Ctenidodinium continuum Gocht, 1970 SPECIES
 
 #### Status
 ACCEPTED

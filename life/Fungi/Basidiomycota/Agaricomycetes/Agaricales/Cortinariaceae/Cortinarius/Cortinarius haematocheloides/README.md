@@ -1,5 +1,4 @@
-Cortinarius haematocheloides Chevassut & Rob. Henry SPECIES
-=======
+# Cortinarius haematocheloides Chevassut & Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

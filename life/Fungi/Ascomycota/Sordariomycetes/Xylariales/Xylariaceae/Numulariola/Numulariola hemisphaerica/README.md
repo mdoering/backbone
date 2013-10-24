@@ -1,5 +1,4 @@
-Numulariola hemisphaerica (J.H. Mill.) P.M.D. Martin SPECIES
-=======
+# Numulariola hemisphaerica (J.H. Mill.) P.M.D. Martin SPECIES
 
 #### Status
 ACCEPTED

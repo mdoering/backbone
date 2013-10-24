@@ -1,5 +1,4 @@
-Caloplaca coralloidea B. de Lesd. SPECIES
-=======
+# Caloplaca coralloidea B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

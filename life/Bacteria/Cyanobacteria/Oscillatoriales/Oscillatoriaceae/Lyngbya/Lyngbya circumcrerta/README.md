@@ -1,5 +1,4 @@
-Lyngbya circumcrerta G. S. West SPECIES
-=======
+# Lyngbya circumcrerta G. S. West SPECIES
 
 #### Status
 ACCEPTED

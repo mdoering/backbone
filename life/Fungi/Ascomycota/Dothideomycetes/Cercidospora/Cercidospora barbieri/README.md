@@ -1,5 +1,4 @@
-Cercidospora barbieri (Sacc.) Kuntze SPECIES
-=======
+# Cercidospora barbieri (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

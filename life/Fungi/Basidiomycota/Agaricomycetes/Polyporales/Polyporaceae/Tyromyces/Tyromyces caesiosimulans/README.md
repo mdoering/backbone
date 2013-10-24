@@ -1,5 +1,4 @@
-Tyromyces caesiosimulans G.F. Atk. SPECIES
-=======
+# Tyromyces caesiosimulans G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

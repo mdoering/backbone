@@ -1,5 +1,4 @@
-Stigonema pluviale Bory SPECIES
-=======
+# Stigonema pluviale Bory SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptodiaporthe curvata Z.Q. Yuan SPECIES
-=======
+# Cryptodiaporthe curvata Z.Q. Yuan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ryparobius oligoascus (Heimerl) Sacc. SPECIES
-=======
+# Ryparobius oligoascus (Heimerl) Sacc. SPECIES
 
 #### Status
 ACCEPTED

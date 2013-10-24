@@ -1,5 +1,4 @@
-Teichospora populina Ellis & Everh. SPECIES
-=======
+# Teichospora populina Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidia isidiocheila Vain. SPECIES
-=======
+# Bacidia isidiocheila Vain. SPECIES
 
 #### Status
 ACCEPTED

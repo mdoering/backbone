@@ -1,5 +1,4 @@
-Lichen stratus Vill. SPECIES
-=======
+# Lichen stratus Vill. SPECIES
 
 #### Status
 ACCEPTED

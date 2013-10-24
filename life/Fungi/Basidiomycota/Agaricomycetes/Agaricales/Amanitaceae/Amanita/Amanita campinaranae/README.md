@@ -1,5 +1,4 @@
-Amanita campinaranae Bas SPECIES
-=======
+# Amanita campinaranae Bas SPECIES
 
 #### Status
 ACCEPTED

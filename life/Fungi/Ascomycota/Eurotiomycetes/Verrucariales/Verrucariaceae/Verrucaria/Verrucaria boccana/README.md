@@ -1,5 +1,4 @@
-Verrucaria boccana Servít SPECIES
-=======
+# Verrucaria boccana Servít SPECIES
 
 #### Status
 ACCEPTED

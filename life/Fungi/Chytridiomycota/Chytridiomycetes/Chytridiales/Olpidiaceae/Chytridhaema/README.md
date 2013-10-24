@@ -1,5 +1,4 @@
-Chytridhaema Moniez GENUS
-=======
+# Chytridhaema Moniez GENUS
 
 #### Status
 ACCEPTED

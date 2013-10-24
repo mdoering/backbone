@@ -1,5 +1,4 @@
-Leucophra pupella Bory, 1824 SPECIES
-=======
+# Leucophra pupella Bory, 1824 SPECIES
 
 #### Status
 ACCEPTED

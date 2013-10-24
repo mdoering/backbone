@@ -1,5 +1,4 @@
-Laccaria violaceibasis Contu & Fernández Sas. SPECIES
-=======
+# Laccaria violaceibasis Contu & Fernández Sas. SPECIES
 
 #### Status
 ACCEPTED

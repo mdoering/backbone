@@ -1,5 +1,4 @@
-Hyaloscypha hyperici Velen. SPECIES
-=======
+# Hyaloscypha hyperici Velen. SPECIES
 
 #### Status
 ACCEPTED

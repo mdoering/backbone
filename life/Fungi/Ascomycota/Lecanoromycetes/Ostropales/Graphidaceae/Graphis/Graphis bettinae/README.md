@@ -1,5 +1,4 @@
-Graphis bettinae Lücking, Umaña, Chaves & Sipman SPECIES
-=======
+# Graphis bettinae Lücking, Umaña, Chaves & Sipman SPECIES
 
 #### Status
 ACCEPTED

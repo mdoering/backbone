@@ -1,5 +1,4 @@
-Peridermium terebinthinaceae Hedgc. & N.R. Hunt SPECIES
-=======
+# Peridermium terebinthinaceae Hedgc. & N.R. Hunt SPECIES
 
 #### Status
 ACCEPTED

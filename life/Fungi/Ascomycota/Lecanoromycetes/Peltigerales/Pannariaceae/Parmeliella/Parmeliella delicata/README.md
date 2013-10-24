@@ -1,5 +1,4 @@
-Parmeliella delicata P.M. Jørg. & Arv. SPECIES
-=======
+# Parmeliella delicata P.M. Jørg. & Arv. SPECIES
 
 #### Status
 ACCEPTED

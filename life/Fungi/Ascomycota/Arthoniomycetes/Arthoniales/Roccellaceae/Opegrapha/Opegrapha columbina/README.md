@@ -1,5 +1,4 @@
-Opegrapha columbina Riddle SPECIES
-=======
+# Opegrapha columbina Riddle SPECIES
 
 #### Status
 ACCEPTED

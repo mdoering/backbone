@@ -1,5 +1,4 @@
-Sphaeronaema viticola Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeronaema viticola Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

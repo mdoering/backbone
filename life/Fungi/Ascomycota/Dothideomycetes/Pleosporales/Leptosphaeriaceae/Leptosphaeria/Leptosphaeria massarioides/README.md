@@ -1,5 +1,4 @@
-Leptosphaeria massarioides Sacc. & Speg. SPECIES
-=======
+# Leptosphaeria massarioides Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

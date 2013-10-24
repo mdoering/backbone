@@ -1,5 +1,4 @@
-Barlaeina recurva (Berk.) Sacc. & Traverso SPECIES
-=======
+# Barlaeina recurva (Berk.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladonia madroporiformis SPECIES
-=======
+# Cladonia madroporiformis SPECIES
 
 #### Status
 ACCEPTED

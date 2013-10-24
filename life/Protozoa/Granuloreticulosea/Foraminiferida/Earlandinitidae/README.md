@@ -1,5 +1,4 @@
-Earlandinitidae Loeblich & Tappan, 1988 FAMILY
-=======
+# Earlandinitidae Loeblich & Tappan, 1988 FAMILY
 
 #### Status
 ACCEPTED

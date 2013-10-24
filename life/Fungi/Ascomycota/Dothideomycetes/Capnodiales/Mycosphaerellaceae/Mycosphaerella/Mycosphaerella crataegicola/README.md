@@ -1,5 +1,4 @@
-Mycosphaerella crataegicola Bondartsev & Tranzschel SPECIES
-=======
+# Mycosphaerella crataegicola Bondartsev & Tranzschel SPECIES
 
 #### Status
 ACCEPTED

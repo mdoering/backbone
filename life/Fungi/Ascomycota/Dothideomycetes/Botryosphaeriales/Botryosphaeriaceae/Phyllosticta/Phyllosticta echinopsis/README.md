@@ -1,5 +1,4 @@
-Phyllosticta echinopsis Bond.-Mont. ex Aksel SPECIES
-=======
+# Phyllosticta echinopsis Bond.-Mont. ex Aksel SPECIES
 
 #### Status
 ACCEPTED

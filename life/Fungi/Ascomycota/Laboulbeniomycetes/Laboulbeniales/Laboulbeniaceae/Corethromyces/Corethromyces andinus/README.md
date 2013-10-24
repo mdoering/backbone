@@ -1,5 +1,4 @@
-Corethromyces andinus (Speg.) Thaxt. SPECIES
-=======
+# Corethromyces andinus (Speg.) Thaxt. SPECIES
 
 #### Status
 ACCEPTED

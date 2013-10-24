@@ -1,5 +1,4 @@
-Graphis sandalon Meyen & Flot. SPECIES
-=======
+# Graphis sandalon Meyen & Flot. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Opegrapha ochroplaca Redinger SPECIES
-=======
+# Opegrapha ochroplaca Redinger SPECIES
 
 #### Status
 ACCEPTED

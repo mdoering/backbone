@@ -1,5 +1,4 @@
-Sterigmatocystis veneta C. Massal. SPECIES
-=======
+# Sterigmatocystis veneta C. Massal. SPECIES
 
 #### Status
 ACCEPTED

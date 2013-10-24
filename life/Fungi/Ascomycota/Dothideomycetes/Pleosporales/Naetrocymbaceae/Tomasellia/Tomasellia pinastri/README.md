@@ -1,5 +1,4 @@
-Tomasellia pinastri (Rehm) Cretz. SPECIES
-=======
+# Tomasellia pinastri (Rehm) Cretz. SPECIES
 
 #### Status
 ACCEPTED

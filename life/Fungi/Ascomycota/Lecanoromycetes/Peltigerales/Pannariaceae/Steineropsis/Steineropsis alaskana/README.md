@@ -1,5 +1,4 @@
-Steineropsis alaskana T. Sprib. & Muggia SPECIES
-=======
+# Steineropsis alaskana T. Sprib. & Muggia SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula cupreoaffinis Sarnari SPECIES
-=======
+# Russula cupreoaffinis Sarnari SPECIES
 
 #### Status
 ACCEPTED

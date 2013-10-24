@@ -1,5 +1,4 @@
-Lecidea spilota var. caesia Anzi VARIETY
-=======
+# Lecidea spilota Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Catalogus lichenum quos in provincia sondriensi et circa Novum-Comum collegit et in ordinem systematicum digessit 80 (1866)
+null
 
 #### Original name
-Lecidea spilota var. caesia Anzi
+Lecidea spilota Fr.
 
 ### Remarks
 null

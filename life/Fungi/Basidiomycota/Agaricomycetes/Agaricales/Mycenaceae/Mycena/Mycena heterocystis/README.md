@@ -1,5 +1,4 @@
-Mycena heterocystis Velen. SPECIES
-=======
+# Mycena heterocystis Velen. SPECIES
 
 #### Status
 ACCEPTED

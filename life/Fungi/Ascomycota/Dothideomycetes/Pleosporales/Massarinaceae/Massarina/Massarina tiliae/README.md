@@ -1,5 +1,4 @@
-Massarina tiliae (W. Phillips & Plowr.) Sacc., 1883 SPECIES
-=======
+# Massarina tiliae (W. Phillips & Plowr.) Sacc., 1883 SPECIES
 
 #### Status
 ACCEPTED

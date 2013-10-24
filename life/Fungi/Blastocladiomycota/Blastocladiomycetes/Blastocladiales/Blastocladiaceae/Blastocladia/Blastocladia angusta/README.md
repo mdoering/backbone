@@ -1,5 +1,4 @@
-Blastocladia angusta A. Lund SPECIES
-=======
+# Blastocladia angusta A. Lund SPECIES
 
 #### Status
 ACCEPTED

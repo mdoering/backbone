@@ -1,5 +1,4 @@
-Arthothelium thoraciferum (Vain.) Zahlbr. SPECIES
-=======
+# Arthothelium thoraciferum (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo gnaphalii Speg. SPECIES
-=======
+# Uredo gnaphalii Speg. SPECIES
 
 #### Status
 ACCEPTED

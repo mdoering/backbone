@@ -1,5 +1,4 @@
-Eutypella euphorbiae Urries SPECIES
-=======
+# Eutypella euphorbiae Urries SPECIES
 
 #### Status
 ACCEPTED

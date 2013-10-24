@@ -1,5 +1,4 @@
-Pholiota ochropallida (Romagn.) M.M. Moser SPECIES
-=======
+# Pholiota ochropallida (Romagn.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

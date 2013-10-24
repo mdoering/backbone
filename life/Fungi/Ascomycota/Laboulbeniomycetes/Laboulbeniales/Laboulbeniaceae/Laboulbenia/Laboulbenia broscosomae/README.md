@@ -1,5 +1,4 @@
-Laboulbenia broscosomae Huldén SPECIES
-=======
+# Laboulbenia broscosomae Huldén SPECIES
 
 #### Status
 ACCEPTED

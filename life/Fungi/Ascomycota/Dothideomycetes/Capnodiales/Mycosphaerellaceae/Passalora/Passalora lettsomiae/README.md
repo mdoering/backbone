@@ -1,5 +1,4 @@
-Passalora lettsomiae (Thirum. & Chupp) Crous & U. Braun SPECIES
-=======
+# Passalora lettsomiae (Thirum. & Chupp) Crous & U. Braun SPECIES
 
 #### Status
 ACCEPTED

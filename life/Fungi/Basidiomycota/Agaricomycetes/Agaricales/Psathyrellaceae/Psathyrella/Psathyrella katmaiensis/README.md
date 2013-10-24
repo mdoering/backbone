@@ -1,5 +1,4 @@
-Psathyrella katmaiensis V.L. Wells, Kempton & A.H. Sm. SPECIES
-=======
+# Psathyrella katmaiensis V.L. Wells, Kempton & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

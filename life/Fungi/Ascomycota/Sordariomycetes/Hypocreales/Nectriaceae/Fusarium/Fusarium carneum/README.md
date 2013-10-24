@@ -1,5 +1,4 @@
-Fusarium carneum Mont. SPECIES
-=======
+# Fusarium carneum Mont. SPECIES
 
 #### Status
 ACCEPTED

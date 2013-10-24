@@ -1,5 +1,4 @@
-Caulerpites lycopodioides SPECIES
-=======
+# Caulerpites lycopodioides SPECIES
 
 #### Status
 ACCEPTED

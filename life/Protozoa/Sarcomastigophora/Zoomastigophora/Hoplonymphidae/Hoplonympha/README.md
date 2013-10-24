@@ -1,5 +1,4 @@
-Hoplonympha Light, 1926 GENUS
-=======
+# Hoplonympha Light, 1926 GENUS
 
 #### Status
 ACCEPTED

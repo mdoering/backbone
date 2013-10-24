@@ -1,5 +1,4 @@
-Tympanis viticola Fr. SPECIES
-=======
+# Tympanis viticola Fr. SPECIES
 
 #### Status
 ACCEPTED

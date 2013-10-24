@@ -1,5 +1,4 @@
-Sclerotinia helvelloidea Henn. SPECIES
-=======
+# Sclerotinia helvelloidea Henn. SPECIES
 
 #### Status
 ACCEPTED

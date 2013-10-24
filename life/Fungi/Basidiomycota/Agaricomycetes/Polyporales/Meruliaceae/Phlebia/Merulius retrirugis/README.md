@@ -1,5 +1,4 @@
-Merulius retrirugis Schumach. SPECIES
-=======
+# Merulius retrirugis Schumach. SPECIES
 
 #### Status
 ACCEPTED

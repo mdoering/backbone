@@ -1,5 +1,4 @@
-Pleospora cereicola f. cereicola FORM
-=======
+# Pleospora cereicola Speg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Revta Fac. Agron. Vet. Univ. nac. La Plata 6(1): 85 (1910)
 
 #### Original name
-Pleospora cereicola f. cereicola
+Pleospora cereicola Speg.
 
 ### Remarks
 null

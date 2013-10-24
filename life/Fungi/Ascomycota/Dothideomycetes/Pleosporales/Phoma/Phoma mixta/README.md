@@ -1,5 +1,4 @@
-Phoma mixta Berk. & M.A. Curtis SPECIES
-=======
+# Phoma mixta Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

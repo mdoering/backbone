@@ -1,5 +1,4 @@
-Podospora inflatula Cain, 1962 SPECIES
-=======
+# Podospora inflatula Cain, 1962 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptostroma avellanense Tognini SPECIES
-=======
+# Leptostroma avellanense Tognini SPECIES
 
 #### Status
 ACCEPTED

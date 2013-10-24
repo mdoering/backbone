@@ -1,5 +1,4 @@
-Sphaerella calopogonii Gonz. Frag. & Cif. SPECIES
-=======
+# Sphaerella calopogonii Gonz. Frag. & Cif. SPECIES
 
 #### Status
 ACCEPTED

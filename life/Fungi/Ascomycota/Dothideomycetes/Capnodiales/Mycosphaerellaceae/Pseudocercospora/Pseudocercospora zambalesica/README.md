@@ -1,14 +1,13 @@
-Cercospora zambalesica Petr., 1957 SPECIES
-=======
+# Pseudocercospora zambalesica (Petr.) U. Braun, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 10: 127 (1957)
+Sydowia 48(2): 214 (1996)
 
 #### Original name
 Cercospora zambalesica Petr., 1957

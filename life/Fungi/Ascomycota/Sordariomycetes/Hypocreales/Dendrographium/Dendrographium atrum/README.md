@@ -1,5 +1,4 @@
-Dendrographium atrum Massee, 1892 SPECIES
-=======
+# Dendrographium atrum Massee, 1892 SPECIES
 
 #### Status
 ACCEPTED

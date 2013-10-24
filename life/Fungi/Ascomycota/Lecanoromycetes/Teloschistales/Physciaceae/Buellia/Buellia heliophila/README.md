@@ -1,5 +1,4 @@
-Buellia heliophila Llimona SPECIES
-=======
+# Buellia heliophila Llimona SPECIES
 
 #### Status
 ACCEPTED

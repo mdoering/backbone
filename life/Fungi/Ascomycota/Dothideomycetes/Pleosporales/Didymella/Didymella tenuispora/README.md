@@ -1,5 +1,4 @@
-Didymella tenuispora I. Hino & Katum. SPECIES
-=======
+# Didymella tenuispora I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

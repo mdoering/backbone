@@ -1,5 +1,4 @@
-Psorotichia minuta H. Magn. SPECIES
-=======
+# Psorotichia minuta H. Magn. SPECIES
 
 #### Status
 ACCEPTED

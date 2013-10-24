@@ -1,5 +1,4 @@
-Buellia cretacea Müll. Arg. SPECIES
-=======
+# Buellia cretacea Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

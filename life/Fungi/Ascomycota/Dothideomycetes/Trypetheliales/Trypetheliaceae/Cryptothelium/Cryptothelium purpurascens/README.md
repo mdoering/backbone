@@ -1,5 +1,4 @@
-Cryptothelium purpurascens (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Cryptothelium purpurascens (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

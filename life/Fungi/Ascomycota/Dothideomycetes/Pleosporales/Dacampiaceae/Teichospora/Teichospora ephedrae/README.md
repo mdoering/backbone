@@ -1,5 +1,4 @@
-Teichospora ephedrae Esfand. SPECIES
-=======
+# Teichospora ephedrae Esfand. SPECIES
 
 #### Status
 ACCEPTED

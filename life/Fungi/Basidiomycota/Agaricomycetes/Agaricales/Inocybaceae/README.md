@@ -1,17 +1,16 @@
-Inocybe maculata subsp. fastigiella (G.F. Atk.) Kühner & Romagn. SUBSPECIES
-=======
+# Inocybaceae Jülich FAMILY
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Biblthca Mycol. 85: 374 (1982)
 
 #### Original name
-Inocybe fastigiella
+Inocybaceae Jülich
 
 ### Remarks
 null

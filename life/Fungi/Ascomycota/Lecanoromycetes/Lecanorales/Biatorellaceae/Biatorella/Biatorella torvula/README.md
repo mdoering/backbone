@@ -1,5 +1,4 @@
-Biatorella torvula (Nyl.) Blomb. & Forssell SPECIES
-=======
+# Biatorella torvula (Nyl.) Blomb. & Forssell SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Delitschia leporina Griffiths SPECIES
-=======
+# Delitschia leporina Griffiths SPECIES
 
 #### Status
 ACCEPTED

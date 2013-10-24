@@ -1,5 +1,4 @@
-Lachnum sarmentorum Velen. SPECIES
-=======
+# Lachnum sarmentorum Velen. SPECIES
 
 #### Status
 ACCEPTED

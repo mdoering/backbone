@@ -1,5 +1,4 @@
-Ramaria terrea Schild, 1990 SPECIES
-=======
+# Ramaria terrea Schild, 1990 SPECIES
 
 #### Status
 ACCEPTED

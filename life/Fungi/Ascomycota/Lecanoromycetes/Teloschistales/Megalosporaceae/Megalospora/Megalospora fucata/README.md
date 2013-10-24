@@ -1,5 +1,4 @@
-Megalospora fucata (Stirt.) H. Olivier SPECIES
-=======
+# Megalospora fucata (Stirt.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius fasciatus Penn. SPECIES
-=======
+# Marasmius fasciatus Penn. SPECIES
 
 #### Status
 ACCEPTED

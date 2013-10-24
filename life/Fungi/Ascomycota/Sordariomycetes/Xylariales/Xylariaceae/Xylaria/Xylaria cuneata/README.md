@@ -1,5 +1,4 @@
-Xylaria cuneata Lloyd SPECIES
-=======
+# Xylaria cuneata Lloyd SPECIES
 
 #### Status
 ACCEPTED

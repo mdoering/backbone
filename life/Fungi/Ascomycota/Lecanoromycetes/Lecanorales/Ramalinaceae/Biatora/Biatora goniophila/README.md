@@ -1,5 +1,4 @@
-Biatora goniophila (Flörke) Hepp SPECIES
-=======
+# Biatora goniophila (Flörke) Hepp SPECIES
 
 #### Status
 ACCEPTED

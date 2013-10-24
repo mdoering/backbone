@@ -1,5 +1,4 @@
-Systematophora vestita (Deflandre) R. J. Davey SPECIES
-=======
+# Systematophora vestita (Deflandre) R. J. Davey SPECIES
 
 #### Status
 ACCEPTED

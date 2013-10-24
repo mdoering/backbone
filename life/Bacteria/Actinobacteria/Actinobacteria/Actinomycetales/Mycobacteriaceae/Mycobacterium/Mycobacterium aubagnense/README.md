@@ -1,5 +1,4 @@
-Mycobacterium aubagnense Adékambi et al., 2006 SPECIES
-=======
+# Mycobacterium aubagnense Adékambi et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

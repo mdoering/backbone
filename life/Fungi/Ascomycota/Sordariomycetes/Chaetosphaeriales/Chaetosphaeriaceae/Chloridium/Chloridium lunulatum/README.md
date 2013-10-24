@@ -1,5 +1,4 @@
-Chloridium lunulatum Ces. SPECIES
-=======
+# Chloridium lunulatum Ces. SPECIES
 
 #### Status
 ACCEPTED

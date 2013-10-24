@@ -1,5 +1,4 @@
-Pseudopyrenula porinoides (Nyl.) Müll. Arg. SPECIES
-=======
+# Pseudopyrenula porinoides (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

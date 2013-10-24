@@ -1,5 +1,4 @@
-Malonomonas rubra Dehning & Schink, 1990 SPECIES
-=======
+# Malonomonas rubra Dehning & Schink, 1990 SPECIES
 
 #### Status
 ACCEPTED

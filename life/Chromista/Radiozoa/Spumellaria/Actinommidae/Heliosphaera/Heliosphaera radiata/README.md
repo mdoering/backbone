@@ -1,5 +1,4 @@
-Heliosphaera radiata Popofsky, 1912 SPECIES
-=======
+# Heliosphaera radiata Popofsky, 1912 SPECIES
 
 #### Status
 ACCEPTED

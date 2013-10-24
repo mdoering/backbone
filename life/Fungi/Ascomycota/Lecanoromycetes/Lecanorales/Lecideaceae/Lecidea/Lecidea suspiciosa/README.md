@@ -1,5 +1,4 @@
-Lecidea suspiciosa (Nyl.) Hue SPECIES
-=======
+# Lecidea suspiciosa (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

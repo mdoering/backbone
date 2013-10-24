@@ -1,5 +1,4 @@
-Uvigerina peregina Cushman SPECIES
-=======
+# Uvigerina peregina Cushman SPECIES
 
 #### Status
 ACCEPTED

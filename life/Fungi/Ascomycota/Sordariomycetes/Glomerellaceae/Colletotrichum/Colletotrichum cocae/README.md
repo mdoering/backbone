@@ -1,5 +1,4 @@
-Colletotrichum cocae Speg. SPECIES
-=======
+# Colletotrichum cocae Speg. SPECIES
 
 #### Status
 ACCEPTED

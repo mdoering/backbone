@@ -1,5 +1,4 @@
-Trapelia rediviva Brusse SPECIES
-=======
+# Trapelia rediviva Brusse SPECIES
 
 #### Status
 ACCEPTED

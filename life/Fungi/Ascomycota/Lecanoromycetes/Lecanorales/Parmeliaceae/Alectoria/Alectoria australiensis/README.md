@@ -1,5 +1,4 @@
-Alectoria australiensis C. Knight SPECIES
-=======
+# Alectoria australiensis C. Knight SPECIES
 
 #### Status
 ACCEPTED

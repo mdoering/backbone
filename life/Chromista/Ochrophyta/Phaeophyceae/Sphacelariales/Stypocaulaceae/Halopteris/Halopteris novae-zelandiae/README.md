@@ -1,5 +1,4 @@
-Halopteris novae-zelandiae Sauvageau SPECIES
-=======
+# Halopteris novae-zelandiae Sauvageau SPECIES
 
 #### Status
 ACCEPTED

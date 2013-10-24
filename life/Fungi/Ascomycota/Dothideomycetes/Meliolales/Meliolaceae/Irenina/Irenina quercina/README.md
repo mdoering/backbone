@@ -1,5 +1,4 @@
-Irenina quercina Hansf. SPECIES
-=======
+# Irenina quercina Hansf. SPECIES
 
 #### Status
 ACCEPTED

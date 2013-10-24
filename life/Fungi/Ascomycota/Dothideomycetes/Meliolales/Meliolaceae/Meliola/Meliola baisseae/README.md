@@ -1,5 +1,4 @@
-Meliola baisseae Deighton SPECIES
-=======
+# Meliola baisseae Deighton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina stomatophora Ellis & G.W. Martin SPECIES
-=======
+# Asterina stomatophora Ellis & G.W. Martin SPECIES
 
 #### Status
 ACCEPTED

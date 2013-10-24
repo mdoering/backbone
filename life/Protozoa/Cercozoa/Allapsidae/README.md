@@ -1,5 +1,4 @@
-Allapsidae Howe, Bass, Vickerman & Cavalier-Smith, 2009 FAMILY
-=======
+# Allapsidae Howe, Bass, Vickerman & Cavalier-Smith, 2009 FAMILY
 
 #### Status
 ACCEPTED

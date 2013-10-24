@@ -1,5 +1,4 @@
-Discoaster diastypus Bramlette & Sullivan, 1961 SPECIES
-=======
+# Discoaster diastypus Bramlette & Sullivan, 1961 SPECIES
 
 #### Status
 ACCEPTED

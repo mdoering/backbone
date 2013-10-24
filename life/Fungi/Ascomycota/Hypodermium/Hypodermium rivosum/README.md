@@ -1,5 +1,4 @@
-Hypodermium rivosum Link SPECIES
-=======
+# Hypodermium rivosum Link SPECIES
 
 #### Status
 ACCEPTED

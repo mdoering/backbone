@@ -1,5 +1,4 @@
-Metallogenium Perfil'ev & Gabe, 1961 GENUS
-=======
+# Metallogenium Perfil'ev & Gabe, 1961 GENUS
 
 #### Status
 ACCEPTED

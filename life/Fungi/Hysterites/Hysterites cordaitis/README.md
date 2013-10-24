@@ -1,5 +1,4 @@
-Hysterites cordaitis Grand'Eury SPECIES
-=======
+# Hysterites cordaitis Grand'Eury SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius glebigenus Fr. SPECIES
-=======
+# Marasmius glebigenus Fr. SPECIES
 
 #### Status
 ACCEPTED

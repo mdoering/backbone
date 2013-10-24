@@ -1,5 +1,4 @@
-Xylaria emerici Berk. SPECIES
-=======
+# Xylaria emerici Berk. SPECIES
 
 #### Status
 ACCEPTED

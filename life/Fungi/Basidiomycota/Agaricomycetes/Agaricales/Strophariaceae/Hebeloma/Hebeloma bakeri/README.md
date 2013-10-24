@@ -1,5 +1,4 @@
-Hebeloma bakeri Earle SPECIES
-=======
+# Hebeloma bakeri Earle SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Catillaria leucophaeotera (Nyl.) Zahlbr. SPECIES
-=======
+# Catillaria leucophaeotera (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Myxosporium macrosporum Durieu & Mont. SPECIES
-=======
+# Myxosporium macrosporum Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

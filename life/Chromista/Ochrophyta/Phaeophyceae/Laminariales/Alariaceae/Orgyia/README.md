@@ -1,5 +1,4 @@
-Orgyia Stackhouse, 1816 GENUS
-=======
+# Orgyia Stackhouse, 1816 GENUS
 
 #### Status
 ACCEPTED

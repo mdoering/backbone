@@ -1,5 +1,4 @@
-Stemonitis recutita J.F. Gmel. SPECIES
-=======
+# Stemonitis recutita J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

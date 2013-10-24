@@ -1,5 +1,4 @@
-Phoma majanthemi Peck SPECIES
-=======
+# Phoma majanthemi Peck SPECIES
 
 #### Status
 ACCEPTED

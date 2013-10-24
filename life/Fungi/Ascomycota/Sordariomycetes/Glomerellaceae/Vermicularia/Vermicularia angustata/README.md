@@ -1,5 +1,4 @@
-Vermicularia angustata Schwein. SPECIES
-=======
+# Vermicularia angustata Schwein. SPECIES
 
 #### Status
 ACCEPTED

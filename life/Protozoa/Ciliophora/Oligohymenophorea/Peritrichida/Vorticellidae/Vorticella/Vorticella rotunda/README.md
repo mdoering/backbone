@@ -1,5 +1,4 @@
-Vorticella rotunda subsp. rotunda SUBSPECIES
-=======
+# Vorticella rotunda Nenninger, 1948 SPECIES
 
 #### Status
 ACCEPTED

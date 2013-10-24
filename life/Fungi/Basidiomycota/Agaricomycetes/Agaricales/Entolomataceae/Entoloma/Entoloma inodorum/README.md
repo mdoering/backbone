@@ -1,5 +1,4 @@
-Entoloma inodorum (Velen.) Noordel. SPECIES
-=======
+# Entoloma inodorum (Velen.) Noordel. SPECIES
 
 #### Status
 ACCEPTED

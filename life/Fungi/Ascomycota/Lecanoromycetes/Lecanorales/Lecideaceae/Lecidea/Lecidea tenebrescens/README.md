@@ -1,5 +1,4 @@
-Lecidea tenebrescens Nyl. SPECIES
-=======
+# Lecidea tenebrescens Nyl. SPECIES
 
 #### Status
 ACCEPTED

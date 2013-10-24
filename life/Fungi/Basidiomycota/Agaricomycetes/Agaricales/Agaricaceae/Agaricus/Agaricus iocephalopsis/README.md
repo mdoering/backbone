@@ -1,17 +1,16 @@
-Agaricus iocephalusiopsis Zhu L. Yang SPECIES
-=======
+# Agaricus iocephalopsis Zhu L. Yang SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 75: 433 (2000)
 
 #### Original name
-Agaricus iocephalusiopsis Zhu L. Yang
+Agaricus iocephalus Berk. & M.A. Curtis
 
 ### Remarks
 null

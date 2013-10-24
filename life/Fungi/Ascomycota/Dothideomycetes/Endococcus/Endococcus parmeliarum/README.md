@@ -1,5 +1,4 @@
-Endococcus parmeliarum Etayo, 2008 SPECIES
-=======
+# Endococcus parmeliarum Etayo, 2008 SPECIES
 
 #### Status
 ACCEPTED

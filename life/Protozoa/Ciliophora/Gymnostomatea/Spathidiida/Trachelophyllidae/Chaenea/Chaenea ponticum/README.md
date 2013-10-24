@@ -1,5 +1,4 @@
-Chaenea ponticum Lepsi, 1964 SPECIES
-=======
+# Chaenea ponticum Lepsi, 1964 SPECIES
 
 #### Status
 ACCEPTED

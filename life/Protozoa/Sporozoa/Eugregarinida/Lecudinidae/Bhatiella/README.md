@@ -1,14 +1,13 @@
-Cotyloepimeritus GENUS
-=======
+# Bhatiella Setna, 1931 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species
 
 #### Published in
-null
+Rec. Indian Mus. , 33, 203.
 
 #### Original name
 null

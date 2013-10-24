@@ -1,5 +1,4 @@
-Agaricus viticola R. Schulz SPECIES
-=======
+# Agaricus viticola R. Schulz SPECIES
 
 #### Status
 ACCEPTED

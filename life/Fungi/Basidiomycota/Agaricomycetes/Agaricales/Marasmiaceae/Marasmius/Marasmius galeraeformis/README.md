@@ -1,5 +1,4 @@
-Marasmius galeraeformis Velen. SPECIES
-=======
+# Marasmius galeraeformis Velen. SPECIES
 
 #### Status
 ACCEPTED

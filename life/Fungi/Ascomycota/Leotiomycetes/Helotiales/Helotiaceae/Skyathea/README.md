@@ -1,5 +1,4 @@
-Skyathea Spooner & Dennis GENUS
-=======
+# Skyathea Spooner & Dennis GENUS
 
 #### Status
 ACCEPTED

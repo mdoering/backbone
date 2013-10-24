@@ -1,5 +1,4 @@
-Metasphaeria ericina Tubeuf SPECIES
-=======
+# Metasphaeria ericina Tubeuf SPECIES
 
 #### Status
 ACCEPTED

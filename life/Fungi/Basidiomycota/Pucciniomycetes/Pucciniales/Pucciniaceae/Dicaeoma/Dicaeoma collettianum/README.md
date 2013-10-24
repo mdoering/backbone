@@ -1,5 +1,4 @@
-Dicaeoma collettianum (Barclay) Kuntze SPECIES
-=======
+# Dicaeoma collettianum (Barclay) Kuntze SPECIES
 
 #### Status
 ACCEPTED

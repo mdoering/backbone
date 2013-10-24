@@ -1,17 +1,16 @@
-Cryptococcus uniguttulatus (Wolfram & Zach) Phaff & Fell, 1970 SPECIES
-=======
+# Filobasidium uniguttulatum Kwon-Chung, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Lodder (ed. ), Yeasts, a taxonomic study (Amsterdam), 2nd Edn 1140 (1970)
+Int. J. Syst. Bacteriol. 27(3): 293 (1977)
 
 #### Original name
-Eutorulopsis uniguttulata Wolfram & Zach, 1934
+Filobasidium uniguttulatum Kwon-Chung, 1977
 
 ### Remarks
 null

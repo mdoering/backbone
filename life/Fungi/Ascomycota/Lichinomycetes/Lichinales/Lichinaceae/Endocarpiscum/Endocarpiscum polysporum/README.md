@@ -1,5 +1,4 @@
-Endocarpiscum polysporum Fink SPECIES
-=======
+# Endocarpiscum polysporum Fink SPECIES
 
 #### Status
 ACCEPTED

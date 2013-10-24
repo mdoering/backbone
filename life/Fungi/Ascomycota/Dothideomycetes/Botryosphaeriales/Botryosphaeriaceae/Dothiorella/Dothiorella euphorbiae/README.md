@@ -1,5 +1,4 @@
-Dothiorella euphorbiae Jaap SPECIES
-=======
+# Dothiorella euphorbiae Jaap SPECIES
 
 #### Status
 ACCEPTED

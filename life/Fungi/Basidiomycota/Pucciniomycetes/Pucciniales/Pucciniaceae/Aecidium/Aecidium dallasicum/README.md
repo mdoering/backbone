@@ -1,5 +1,4 @@
-Aecidium dallasicum Petr. SPECIES
-=======
+# Aecidium dallasicum Petr. SPECIES
 
 #### Status
 ACCEPTED

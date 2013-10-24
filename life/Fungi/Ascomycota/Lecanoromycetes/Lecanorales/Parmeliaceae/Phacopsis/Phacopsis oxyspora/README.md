@@ -1,5 +1,4 @@
-Lecidea oxyspora var. oxyspora VARIETY
-=======
+# Phacopsis oxyspora (Tul.) Triebel & Rambold SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Nova Hedwigia 47(3-4): 300 (1988)
 
 #### Original name
-Lecidea oxyspora var. oxyspora
+Abrothallus oxysporus Tul.
 
 ### Remarks
 null

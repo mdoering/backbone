@@ -1,14 +1,13 @@
-Renodinium Baumeister in Popovsky & Pfiester, 1990 GENUS
-=======
+# Cystodinium G.A. Klebs, 1912 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Verh. Ver. Heidelberg, (N. S. ) 11 (4), 376, 441.
 
 #### Original name
 null

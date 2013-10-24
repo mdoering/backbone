@@ -1,5 +1,4 @@
-Erineum pseudosuberis Corda SPECIES
-=======
+# Erineum pseudosuberis Corda SPECIES
 
 #### Status
 ACCEPTED

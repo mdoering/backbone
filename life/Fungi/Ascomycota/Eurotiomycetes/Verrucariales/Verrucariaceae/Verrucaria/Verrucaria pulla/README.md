@@ -1,5 +1,4 @@
-Verrucaria pulla Ach. SPECIES
-=======
+# Verrucaria pulla Ach. SPECIES
 
 #### Status
 ACCEPTED

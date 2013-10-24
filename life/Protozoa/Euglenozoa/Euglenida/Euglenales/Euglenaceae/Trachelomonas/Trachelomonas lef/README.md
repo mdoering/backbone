@@ -1,5 +1,4 @@
-Trachelomonas lefã¨vrei Deflandre SPECIES
-=======
+# Trachelomonas lefã¨vrei Deflandre SPECIES
 
 #### Status
 ACCEPTED

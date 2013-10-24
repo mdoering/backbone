@@ -1,17 +1,16 @@
-Conorbis Hofker, 1951 GENUS
-=======
+# Conorboides Thalmann, 1952 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Siboga Exped. Monogr. , 4a, 418.
+Contr. Cushman Fdn, 3, (1), 14.
 
 #### Original name
-null
+Conorbis Hofker, 1951
 
 ### Remarks
 null

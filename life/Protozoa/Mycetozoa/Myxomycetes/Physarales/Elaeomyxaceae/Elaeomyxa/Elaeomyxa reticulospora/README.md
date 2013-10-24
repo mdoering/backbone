@@ -1,5 +1,4 @@
-Elaeomyxa reticulospora (Gilert) G. Moreno, H. Singer & S.L. Stephenson, 2008 SPECIES
-=======
+# Elaeomyxa reticulospora (Gilert) G. Moreno, H. Singer & S.L. Stephenson, 2008 SPECIES
 
 #### Status
 ACCEPTED

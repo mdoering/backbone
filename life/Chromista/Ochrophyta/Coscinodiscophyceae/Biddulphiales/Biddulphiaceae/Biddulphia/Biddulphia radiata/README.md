@@ -1,5 +1,4 @@
-Biddulphia radiata Roper SPECIES
-=======
+# Biddulphia radiata Roper SPECIES
 
 #### Status
 ACCEPTED

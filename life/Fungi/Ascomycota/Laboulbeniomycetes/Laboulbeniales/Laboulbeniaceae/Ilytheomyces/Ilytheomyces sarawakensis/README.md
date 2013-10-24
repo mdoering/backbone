@@ -1,5 +1,4 @@
-Ilytheomyces sarawakensis Thaxt. SPECIES
-=======
+# Ilytheomyces sarawakensis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

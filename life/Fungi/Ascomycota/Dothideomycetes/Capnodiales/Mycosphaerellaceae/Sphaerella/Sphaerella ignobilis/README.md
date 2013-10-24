@@ -1,5 +1,4 @@
-Sphaerella ignobilis f. ignobilis FORM
-=======
+# Sphaerella ignobilis Auersw. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sphaerella ignobilis f. ignobilis
+Sphaerella ignobilis Auersw.
 
 ### Remarks
 null

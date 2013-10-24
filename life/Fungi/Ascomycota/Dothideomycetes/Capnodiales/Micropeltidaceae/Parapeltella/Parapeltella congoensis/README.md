@@ -1,5 +1,4 @@
-Parapeltella congoensis (Beeli) Bat. SPECIES
-=======
+# Parapeltella congoensis (Beeli) Bat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo ecteinanthi Kalchbr. SPECIES
-=======
+# Uredo ecteinanthi Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

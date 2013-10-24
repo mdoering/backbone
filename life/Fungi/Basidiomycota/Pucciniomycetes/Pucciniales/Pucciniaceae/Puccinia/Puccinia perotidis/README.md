@@ -1,5 +1,4 @@
-Puccinia perotidis Cummins SPECIES
-=======
+# Puccinia perotidis Cummins SPECIES
 
 #### Status
 ACCEPTED

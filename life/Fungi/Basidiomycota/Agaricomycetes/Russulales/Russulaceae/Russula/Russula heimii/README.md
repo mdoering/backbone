@@ -1,5 +1,4 @@
-Russula heimii Singer SPECIES
-=======
+# Russula heimii Singer SPECIES
 
 #### Status
 ACCEPTED

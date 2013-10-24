@@ -1,5 +1,4 @@
-Cantharomyces pusillus Thaxt. SPECIES
-=======
+# Cantharomyces pusillus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

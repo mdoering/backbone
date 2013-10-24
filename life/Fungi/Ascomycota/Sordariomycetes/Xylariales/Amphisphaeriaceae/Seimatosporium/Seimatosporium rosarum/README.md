@@ -1,14 +1,13 @@
-Coryneum rosarum Henn., 1904 SPECIES
-=======
+# Seimatosporium rosarum (Henn.) B. Sutton, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Pap. 138: 168 (1975)
 
 #### Original name
 Coryneum rosarum Henn., 1904

@@ -1,5 +1,4 @@
-Spheconisca littoralis SPECIES
-=======
+# Spheconisca littoralis SPECIES
 
 #### Status
 ACCEPTED

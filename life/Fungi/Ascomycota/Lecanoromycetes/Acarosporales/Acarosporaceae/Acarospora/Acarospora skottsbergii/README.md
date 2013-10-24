@@ -1,5 +1,4 @@
-Acarospora skottsbergii Zahlbr. SPECIES
-=======
+# Acarospora skottsbergii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

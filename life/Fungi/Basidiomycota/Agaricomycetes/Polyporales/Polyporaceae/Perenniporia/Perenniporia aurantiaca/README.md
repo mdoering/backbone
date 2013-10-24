@@ -1,14 +1,13 @@
-Pyrofomes aurantiacus A. David & Rajchenb., 1985 SPECIES
-=======
+# Perenniporia aurantiaca (A. David & Rajchenb.) Decock & Ryvarden, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 22(2): 312 (1985)
+Mycol. Res. 103(9): 1140 (1999)
 
 #### Original name
 Pyrofomes aurantiacus A. David & Rajchenb., 1985

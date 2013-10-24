@@ -1,5 +1,4 @@
-Stilbechrysomyxa M.M. Chen GENUS
-=======
+# Stilbechrysomyxa M.M. Chen GENUS
 
 #### Status
 ACCEPTED

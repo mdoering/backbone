@@ -1,8 +1,7 @@
-Chlamydonella polonica Foissner, Czapik & Wiackowski, 1981 SPECIES
-=======
+# Chlamydonellopsis polonica (Foissner, Czapik & Wiackowski, 1981) Blatterer & Foissner, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

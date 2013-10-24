@@ -1,5 +1,4 @@
-Corynelia bispora Fitzp. SPECIES
-=======
+# Corynelia bispora Fitzp. SPECIES
 
 #### Status
 ACCEPTED

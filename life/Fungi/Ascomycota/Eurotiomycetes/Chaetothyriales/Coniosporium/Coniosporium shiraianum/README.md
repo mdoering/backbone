@@ -1,5 +1,4 @@
-Coniosporium shiraianum (Syd.) Bubák SPECIES
-=======
+# Coniosporium shiraianum (Syd.) Bubák SPECIES
 
 #### Status
 ACCEPTED

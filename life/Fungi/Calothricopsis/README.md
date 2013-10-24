@@ -1,5 +1,4 @@
-Calothricopsis Vainio, 1890 GENUS
-=======
+# Calothricopsis Vainio, 1890 GENUS
 
 #### Status
 ACCEPTED

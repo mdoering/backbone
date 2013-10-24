@@ -1,5 +1,4 @@
-Ciboria chlorophana (M. Rousseau & De Not.) Sacc. SPECIES
-=======
+# Ciboria chlorophana (M. Rousseau & De Not.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

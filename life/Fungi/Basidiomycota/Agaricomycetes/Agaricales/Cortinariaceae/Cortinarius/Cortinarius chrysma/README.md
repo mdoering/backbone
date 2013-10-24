@@ -1,5 +1,4 @@
-Cortinarius chrysma Soop, 1998 SPECIES
-=======
+# Cortinarius chrysma Soop, 1998 SPECIES
 
 #### Status
 ACCEPTED

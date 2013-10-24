@@ -1,5 +1,4 @@
-Monacrosporium ellipsospora Drechsler SPECIES
-=======
+# Monacrosporium ellipsospora Drechsler SPECIES
 
 #### Status
 ACCEPTED

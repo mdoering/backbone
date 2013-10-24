@@ -1,5 +1,4 @@
-Septoria munroae Ellis & Barthol. SPECIES
-=======
+# Septoria munroae Ellis & Barthol. SPECIES
 
 #### Status
 ACCEPTED

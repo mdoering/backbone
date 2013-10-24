@@ -1,8 +1,7 @@
-Melanopsamma cupressinum Ellis & Everh. SPECIES
-=======
+# Melanopsamma cupressina Ellis & Everh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Melanopsamma cupressinum Ellis & Everh.
+Melanopsamma cupressina Ellis & Everh.
 
 ### Remarks
 null

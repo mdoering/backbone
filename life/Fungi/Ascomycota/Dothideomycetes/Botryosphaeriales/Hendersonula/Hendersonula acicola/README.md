@@ -1,5 +1,4 @@
-Hendersonula acicola anon. SPECIES
-=======
+# Hendersonula acicola anon. SPECIES
 
 #### Status
 ACCEPTED

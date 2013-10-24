@@ -1,8 +1,7 @@
-Lignydium newtonii (T. Macbr.) Kuntze, 1898 SPECIES
-=======
+# Physarum newtonii T. Macbr., 1893 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Physarum newtonii T. Macbr., 1893
 
 ### Remarks
 null

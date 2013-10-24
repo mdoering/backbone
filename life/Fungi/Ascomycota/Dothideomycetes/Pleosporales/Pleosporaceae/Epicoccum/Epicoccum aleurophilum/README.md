@@ -1,5 +1,4 @@
-Epicoccum aleurophilum Sacc. SPECIES
-=======
+# Epicoccum aleurophilum Sacc. SPECIES
 
 #### Status
 ACCEPTED

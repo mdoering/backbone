@@ -1,5 +1,4 @@
-Cercospora asteris Naito SPECIES
-=======
+# Cercospora asteris Naito SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kymadiscus J. Kohlm. & E. Kohlm., 1971 GENUS
-=======
+# Kymadiscus J. Kohlm. & E. Kohlm., 1971 GENUS
 
 #### Status
 ACCEPTED

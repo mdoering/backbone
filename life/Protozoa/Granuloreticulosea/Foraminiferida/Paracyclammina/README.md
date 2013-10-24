@@ -1,5 +1,4 @@
-Paracyclammina Yabe, 1946 GENUS
-=======
+# Paracyclammina Yabe, 1946 GENUS
 
 #### Status
 ACCEPTED

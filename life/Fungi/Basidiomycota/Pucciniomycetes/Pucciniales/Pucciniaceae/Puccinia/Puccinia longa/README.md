@@ -1,5 +1,4 @@
-Puccinia longa Jørst. SPECIES
-=======
+# Puccinia longa Jørst. SPECIES
 
 #### Status
 ACCEPTED

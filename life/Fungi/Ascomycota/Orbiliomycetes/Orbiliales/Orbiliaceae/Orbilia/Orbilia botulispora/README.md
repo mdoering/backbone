@@ -1,5 +1,4 @@
-Orbilia botulispora Höhn. SPECIES
-=======
+# Orbilia botulispora Höhn. SPECIES
 
 #### Status
 ACCEPTED

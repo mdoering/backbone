@@ -1,5 +1,4 @@
-Arthoniomyces punctiformis Cif. & Tomas. SPECIES
-=======
+# Arthoniomyces punctiformis Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kutkanella Bensh, 1987 GENUS
-=======
+# Kutkanella Bensh, 1987 GENUS
 
 #### Status
 ACCEPTED

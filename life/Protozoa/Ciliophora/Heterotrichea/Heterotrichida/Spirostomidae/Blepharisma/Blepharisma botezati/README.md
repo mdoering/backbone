@@ -1,5 +1,4 @@
-Blepharisma botezati (Lepsi, 1926) Kahl, 1932 SPECIES
-=======
+# Blepharisma botezati (Lepsi, 1926) Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Astrothelium floridanum Zahlbr. ex M. Choisy SPECIES
-=======
+# Astrothelium floridanum Zahlbr. ex M. Choisy SPECIES
 
 #### Status
 ACCEPTED

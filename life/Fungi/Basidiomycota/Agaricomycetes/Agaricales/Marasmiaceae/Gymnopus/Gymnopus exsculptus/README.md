@@ -1,17 +1,16 @@
-Agaricus exculptus Fr. SPECIES
-=======
+# Gymnopus exsculptus (Fr.) J.L. Mata, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Mata, Hughes & Petersen, Sydowia 58(2): 289 (2006)
 
 #### Original name
-Agaricus exculptus Fr.
+Agaricus exsculptus Fr., 1838
 
 ### Remarks
 null

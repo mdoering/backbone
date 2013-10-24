@@ -1,5 +1,4 @@
-Tympanis magnoliae J.W. Groves SPECIES
-=======
+# Tympanis magnoliae J.W. Groves SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Glutinium laevatum (Fr.) Starbäck SPECIES
-=======
+# Glutinium laevatum (Fr.) Starbäck SPECIES
 
 #### Status
 ACCEPTED

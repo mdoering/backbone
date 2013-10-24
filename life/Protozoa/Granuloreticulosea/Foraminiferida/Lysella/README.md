@@ -1,5 +1,4 @@
-Lysella Bozorgnia, 1973 GENUS
-=======
+# Lysella Bozorgnia, 1973 GENUS
 
 #### Status
 ACCEPTED

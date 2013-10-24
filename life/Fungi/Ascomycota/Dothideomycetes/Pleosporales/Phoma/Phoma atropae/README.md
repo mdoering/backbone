@@ -1,5 +1,4 @@
-Phoma atropae Roum. SPECIES
-=======
+# Phoma atropae Roum. SPECIES
 
 #### Status
 ACCEPTED

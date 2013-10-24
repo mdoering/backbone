@@ -1,5 +1,4 @@
-Verrucaria astata C. Knight SPECIES
-=======
+# Verrucaria astata C. Knight SPECIES
 
 #### Status
 ACCEPTED

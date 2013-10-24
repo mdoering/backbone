@@ -1,5 +1,4 @@
-Agaricus leptomeleagris Heinem. SPECIES
-=======
+# Agaricus leptomeleagris Heinem. SPECIES
 
 #### Status
 ACCEPTED

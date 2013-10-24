@@ -1,5 +1,4 @@
-Ramularia pseudococcinea Lindr. SPECIES
-=======
+# Ramularia pseudococcinea Lindr. SPECIES
 
 #### Status
 ACCEPTED

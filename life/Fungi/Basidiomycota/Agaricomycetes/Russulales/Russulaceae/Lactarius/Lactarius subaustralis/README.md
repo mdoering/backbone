@@ -1,5 +1,4 @@
-Lactarius subaustralis Hesler SPECIES
-=======
+# Lactarius subaustralis Hesler SPECIES
 
 #### Status
 ACCEPTED

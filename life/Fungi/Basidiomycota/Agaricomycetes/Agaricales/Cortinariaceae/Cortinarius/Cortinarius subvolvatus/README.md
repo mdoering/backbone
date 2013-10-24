@@ -1,5 +1,4 @@
-Cortinarius subvolvatus (Fayod) Sacc. & D. Sacc. SPECIES
-=======
+# Cortinarius subvolvatus (Fayod) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

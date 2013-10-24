@@ -1,5 +1,4 @@
-Phyllachora collaeae subsp. collaeae SUBSPECIES
-=======
+# Phyllachora collaeae SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Hedwigia 36: 369 (1897)
+null
 
 #### Original name
-Phyllachora collaeae subsp. collaeae
+null
 
 ### Remarks
 null

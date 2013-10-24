@@ -1,5 +1,4 @@
-Mycoleptodon tropicalis Pat. SPECIES
-=======
+# Mycoleptodon tropicalis Pat. SPECIES
 
 #### Status
 ACCEPTED

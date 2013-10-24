@@ -1,5 +1,4 @@
-Usnea alectoroides Mont. SPECIES
-=======
+# Usnea alectoroides Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Staurothele rugosa J.W. Thomson SPECIES
-=======
+# Staurothele rugosa J.W. Thomson SPECIES
 
 #### Status
 ACCEPTED

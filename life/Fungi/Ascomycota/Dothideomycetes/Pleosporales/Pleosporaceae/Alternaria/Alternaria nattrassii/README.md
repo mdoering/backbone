@@ -1,5 +1,4 @@
-Alternaria nattrassii E.G. Simmons SPECIES
-=======
+# Alternaria nattrassii E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichoderma lateritioroseum Lib. SPECIES
-=======
+# Trichoderma lateritioroseum Lib. SPECIES
 
 #### Status
 ACCEPTED

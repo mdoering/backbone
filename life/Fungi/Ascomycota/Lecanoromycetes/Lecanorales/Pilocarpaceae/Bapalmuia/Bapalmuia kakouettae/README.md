@@ -1,14 +1,13 @@
-Byssoloma kakouettae (Sérus.) Lücking & Sérus. SPECIES
-=======
+# Bapalmuia kakouettae Sérus. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-in Sérusiaux, E. ; Gómez-Bolea, A. ; Longán & Lücking, Lichenologist 34(3): 187 (2002)
+Nordic Jl Bot. 13(4): 449 (1993)
 
 #### Original name
 Bapalmuia kakouettae Sérus.

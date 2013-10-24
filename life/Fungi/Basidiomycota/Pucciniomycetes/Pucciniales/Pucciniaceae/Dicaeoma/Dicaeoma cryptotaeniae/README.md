@@ -1,5 +1,4 @@
-Dicaeoma cryptotaeniae (Peck) Kuntze SPECIES
-=======
+# Dicaeoma cryptotaeniae (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

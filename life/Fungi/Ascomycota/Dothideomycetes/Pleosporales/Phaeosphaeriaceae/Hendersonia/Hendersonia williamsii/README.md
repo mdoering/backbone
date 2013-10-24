@@ -1,5 +1,4 @@
-Hendersonia williamsii Hansf. SPECIES
-=======
+# Hendersonia williamsii Hansf. SPECIES
 
 #### Status
 ACCEPTED

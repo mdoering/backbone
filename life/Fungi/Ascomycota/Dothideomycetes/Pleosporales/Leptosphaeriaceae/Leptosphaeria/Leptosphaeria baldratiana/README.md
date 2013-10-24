@@ -1,5 +1,4 @@
-Leptosphaeria baldratiana Bacc. SPECIES
-=======
+# Leptosphaeria baldratiana Bacc. SPECIES
 
 #### Status
 ACCEPTED

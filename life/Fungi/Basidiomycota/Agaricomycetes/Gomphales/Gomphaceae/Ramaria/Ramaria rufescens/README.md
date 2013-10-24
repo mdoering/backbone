@@ -1,5 +1,4 @@
-Ramaria rufescens (Schaeff.) Corner SPECIES
-=======
+# Ramaria rufescens (Schaeff.) Corner SPECIES
 
 #### Status
 ACCEPTED

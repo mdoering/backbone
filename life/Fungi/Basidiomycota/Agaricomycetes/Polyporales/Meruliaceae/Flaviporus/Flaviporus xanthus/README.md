@@ -1,5 +1,4 @@
-Flaviporus xanthus A. David & Rajchenb., 1992 SPECIES
-=======
+# Flaviporus xanthus A. David & Rajchenb., 1992 SPECIES
 
 #### Status
 ACCEPTED

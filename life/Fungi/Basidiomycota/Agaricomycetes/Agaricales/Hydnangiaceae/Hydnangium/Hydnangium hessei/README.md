@@ -1,5 +1,4 @@
-Hydnangium hessei (Kuntze) Zeller & C.W. Dodge SPECIES
-=======
+# Hydnangium hessei (Kuntze) Zeller & C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

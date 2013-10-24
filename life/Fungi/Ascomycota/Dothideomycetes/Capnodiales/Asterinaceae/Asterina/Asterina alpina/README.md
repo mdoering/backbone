@@ -1,5 +1,4 @@
-Asterina alpina Racib. SPECIES
-=======
+# Asterina alpina Racib. SPECIES
 
 #### Status
 ACCEPTED

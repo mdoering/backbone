@@ -1,5 +1,4 @@
-Pirostoma nyssae Tehon SPECIES
-=======
+# Pirostoma nyssae Tehon SPECIES
 
 #### Status
 ACCEPTED

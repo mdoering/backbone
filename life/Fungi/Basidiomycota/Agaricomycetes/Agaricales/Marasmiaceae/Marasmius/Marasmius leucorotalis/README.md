@@ -1,5 +1,4 @@
-Marasmius leucorotalis var. leucorotalis VARIETY
-=======
+# Marasmius leucorotalis Singer SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Marasmius leucorotalis var. leucorotalis
+Marasmius leucorotalis Singer
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Stromatinia secalincola (Rehm) Boud. SPECIES
-=======
+# Stromatinia secalincola (Rehm) Boud. SPECIES
 
 #### Status
 ACCEPTED

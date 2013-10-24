@@ -1,5 +1,4 @@
-Arenosiphon Grubbs, 1939 GENUS
-=======
+# Arenosiphon Grubbs, 1939 GENUS
 
 #### Status
 ACCEPTED

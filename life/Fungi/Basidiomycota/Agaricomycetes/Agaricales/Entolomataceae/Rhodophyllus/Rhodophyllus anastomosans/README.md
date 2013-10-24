@@ -1,5 +1,4 @@
-Rhodophyllus anastomosans (Rick) Singer SPECIES
-=======
+# Rhodophyllus anastomosans (Rick) Singer SPECIES
 
 #### Status
 ACCEPTED

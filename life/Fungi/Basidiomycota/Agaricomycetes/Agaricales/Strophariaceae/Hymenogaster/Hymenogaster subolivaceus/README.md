@@ -1,5 +1,4 @@
-Hymenogaster subolivaceus A.H. Sm. SPECIES
-=======
+# Hymenogaster subolivaceus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

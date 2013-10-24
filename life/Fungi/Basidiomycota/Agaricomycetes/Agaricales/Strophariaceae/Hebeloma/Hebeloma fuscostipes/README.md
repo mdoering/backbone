@@ -1,5 +1,4 @@
-Hebeloma fuscostipes A.H. Sm., V.S. Evenson & Mitchel SPECIES
-=======
+# Hebeloma fuscostipes A.H. Sm., V.S. Evenson & Mitchel SPECIES
 
 #### Status
 ACCEPTED

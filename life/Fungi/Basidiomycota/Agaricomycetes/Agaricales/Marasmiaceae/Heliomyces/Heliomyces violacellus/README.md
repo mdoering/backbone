@@ -1,5 +1,4 @@
-Heliomyces violacellus (Speg.) Speg. SPECIES
-=======
+# Heliomyces violacellus (Speg.) Speg. SPECIES
 
 #### Status
 ACCEPTED

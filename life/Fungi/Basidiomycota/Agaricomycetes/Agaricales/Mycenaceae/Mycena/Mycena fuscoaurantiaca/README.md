@@ -1,5 +1,4 @@
-Mycena fuscoaurantiaca Har. Takah. SPECIES
-=======
+# Mycena fuscoaurantiaca Har. Takah. SPECIES
 
 #### Status
 ACCEPTED

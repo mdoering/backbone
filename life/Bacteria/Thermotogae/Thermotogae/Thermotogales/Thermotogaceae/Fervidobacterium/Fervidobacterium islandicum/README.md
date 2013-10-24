@@ -1,5 +1,4 @@
-Fervidobacterium islandicum Huber et al., 1991 SPECIES
-=======
+# Fervidobacterium islandicum Huber et al., 1991 SPECIES
 
 #### Status
 ACCEPTED

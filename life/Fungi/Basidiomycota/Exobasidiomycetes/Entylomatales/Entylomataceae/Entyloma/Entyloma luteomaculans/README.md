@@ -1,5 +1,4 @@
-Entyloma luteomaculans H.H. Hume SPECIES
-=======
+# Entyloma luteomaculans H.H. Hume SPECIES
 
 #### Status
 ACCEPTED

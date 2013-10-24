@@ -1,5 +1,4 @@
-Verrucaria submucosa B. de Lesd. SPECIES
-=======
+# Verrucaria submucosa B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

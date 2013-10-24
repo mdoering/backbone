@@ -1,5 +1,4 @@
-Micropeltis portoricensis (Speg.) H.D. Gómez & A. López SPECIES
-=======
+# Micropeltis portoricensis (Speg.) H.D. Gómez & A. López SPECIES
 
 #### Status
 ACCEPTED

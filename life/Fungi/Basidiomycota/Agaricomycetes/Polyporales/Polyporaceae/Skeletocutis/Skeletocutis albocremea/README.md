@@ -1,5 +1,4 @@
-Skeletocutis albocremea A. David, 1982 SPECIES
-=======
+# Skeletocutis albocremea A. David, 1982 SPECIES
 
 #### Status
 ACCEPTED

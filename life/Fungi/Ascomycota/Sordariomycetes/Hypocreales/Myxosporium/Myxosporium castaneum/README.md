@@ -1,5 +1,4 @@
-Myxosporium castaneum var. castaneum VARIETY
-=======
+# Myxosporium castaneum (Wallr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Myxosporium castaneum var. castaneum
+Myxosporium castaneum (Wallr.) Sacc.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Biatora byssoides SPECIES
-=======
+# Biatora byssoides SPECIES
 
 #### Status
 ACCEPTED

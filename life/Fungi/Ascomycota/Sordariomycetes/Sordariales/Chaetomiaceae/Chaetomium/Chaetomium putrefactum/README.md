@@ -1,17 +1,16 @@
-Chaetomium putrefactus R. Gupta & Mukerji SPECIES
-=======
+# Chaetomium putrefactum R. Gupta & Mukerji SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Acta Mycologica, Warszawa 19(1): 73 (1984)
 
 #### Original name
-Chaetomium putrefactus R. Gupta & Mukerji
+Chaetomium putrefactum R. Gupta & Mukerji
 
 ### Remarks
 null

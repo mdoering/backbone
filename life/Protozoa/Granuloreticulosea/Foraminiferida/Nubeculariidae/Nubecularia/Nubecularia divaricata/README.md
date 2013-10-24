@@ -1,5 +1,4 @@
-Nubecularia divaricata SPECIES
-=======
+# Nubecularia divaricata SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Usnea carneola Motyka SPECIES
-=======
+# Usnea carneola Motyka SPECIES
 
 #### Status
 ACCEPTED

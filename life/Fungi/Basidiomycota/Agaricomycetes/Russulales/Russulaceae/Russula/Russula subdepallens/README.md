@@ -1,5 +1,4 @@
-Russula subdepallens Peck SPECIES
-=======
+# Russula subdepallens Peck SPECIES
 
 #### Status
 ACCEPTED

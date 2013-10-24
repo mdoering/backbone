@@ -1,5 +1,4 @@
-Phyllosticta liliicola Sacc. SPECIES
-=======
+# Phyllosticta liliicola Sacc. SPECIES
 
 #### Status
 ACCEPTED

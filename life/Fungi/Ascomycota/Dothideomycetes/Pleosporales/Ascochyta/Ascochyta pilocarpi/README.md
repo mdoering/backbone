@@ -1,5 +1,4 @@
-Ascochyta pilocarpi Tassi SPECIES
-=======
+# Ascochyta pilocarpi Tassi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Collema nigrescens var. subnigrescens VARIETY
-=======
+# Collema subnigrescens Degel. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Symb. bot. upsal. 13(no. 2): 413 (1954)
 
 #### Original name
 Collema subnigrescens Degel.

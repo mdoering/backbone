@@ -1,5 +1,4 @@
-Strigula griseonitens R. C. Harris SPECIES
-=======
+# Strigula griseonitens R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

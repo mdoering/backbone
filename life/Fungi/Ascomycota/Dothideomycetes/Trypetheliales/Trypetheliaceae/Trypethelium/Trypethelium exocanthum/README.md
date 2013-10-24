@@ -1,5 +1,4 @@
-Trypethelium exocanthum Tuck. SPECIES
-=======
+# Trypethelium exocanthum Tuck. SPECIES
 
 #### Status
 ACCEPTED

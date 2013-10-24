@@ -1,5 +1,4 @@
-Trichosporon loboi Bat., Campos & Sem. Oliveira SPECIES
-=======
+# Trichosporon loboi Bat., Campos & Sem. Oliveira SPECIES
 
 #### Status
 ACCEPTED

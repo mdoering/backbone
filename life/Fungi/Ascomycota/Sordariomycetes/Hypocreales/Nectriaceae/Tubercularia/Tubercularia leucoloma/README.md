@@ -1,5 +1,4 @@
-Tubercularia leucoloma Durieu & Mont. SPECIES
-=======
+# Tubercularia leucoloma Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

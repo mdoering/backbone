@@ -1,5 +1,4 @@
-Bovista bicolor Lév. SPECIES
-=======
+# Bovista bicolor Lév. SPECIES
 
 #### Status
 ACCEPTED

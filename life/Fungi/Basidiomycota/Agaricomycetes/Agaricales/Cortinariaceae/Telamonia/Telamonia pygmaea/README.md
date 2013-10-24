@@ -1,5 +1,4 @@
-Telamonia pygmaea Velen. SPECIES
-=======
+# Telamonia pygmaea Velen. SPECIES
 
 #### Status
 ACCEPTED

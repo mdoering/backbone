@@ -1,5 +1,4 @@
-Phaeoramularia senecionis Deighton SPECIES
-=======
+# Phaeoramularia senecionis Deighton SPECIES
 
 #### Status
 ACCEPTED

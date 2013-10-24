@@ -1,5 +1,4 @@
-Coprinus albidofloccosus Locq. SPECIES
-=======
+# Coprinus albidofloccosus Locq. SPECIES
 
 #### Status
 ACCEPTED

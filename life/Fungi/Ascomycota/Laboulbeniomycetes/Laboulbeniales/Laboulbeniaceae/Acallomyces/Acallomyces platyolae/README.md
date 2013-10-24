@@ -1,5 +1,4 @@
-Acallomyces platyolae Thaxt., 1931 SPECIES
-=======
+# Acallomyces platyolae Thaxt., 1931 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lycogalopsis solmsii E. Fisch., 1886 SPECIES
-=======
+# Lycogalopsis solmsii E. Fisch., 1886 SPECIES
 
 #### Status
 ACCEPTED

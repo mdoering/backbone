@@ -1,5 +1,4 @@
-Clavaria rhacorhiza Pers. SPECIES
-=======
+# Clavaria rhacorhiza Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Lentinellus pallidealutaceus (Henn.) Singer SPECIES
-=======
+# Lentinellus pallidoalutaceus (Henn.) Singer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

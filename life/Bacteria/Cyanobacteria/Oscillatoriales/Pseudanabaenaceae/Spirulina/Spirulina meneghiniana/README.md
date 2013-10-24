@@ -1,5 +1,4 @@
-Spirulina meneghiniana Zanard. SPECIES
-=======
+# Spirulina meneghiniana Zanard. SPECIES
 
 #### Status
 ACCEPTED

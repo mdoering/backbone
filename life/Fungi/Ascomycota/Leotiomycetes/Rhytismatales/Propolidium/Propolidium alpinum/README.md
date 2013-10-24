@@ -1,5 +1,4 @@
-Propolidium alpinum Gremmen SPECIES
-=======
+# Propolidium alpinum Gremmen SPECIES
 
 #### Status
 ACCEPTED

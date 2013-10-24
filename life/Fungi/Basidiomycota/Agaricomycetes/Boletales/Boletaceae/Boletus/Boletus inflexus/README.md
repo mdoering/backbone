@@ -1,5 +1,4 @@
-Boletus inflexus Peck SPECIES
-=======
+# Boletus inflexus Peck SPECIES
 
 #### Status
 ACCEPTED

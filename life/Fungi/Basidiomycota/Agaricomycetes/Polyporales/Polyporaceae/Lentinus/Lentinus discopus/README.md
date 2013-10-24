@@ -1,5 +1,4 @@
-Lentinus discopus Pat. SPECIES
-=======
+# Lentinus discopus Pat. SPECIES
 
 #### Status
 ACCEPTED

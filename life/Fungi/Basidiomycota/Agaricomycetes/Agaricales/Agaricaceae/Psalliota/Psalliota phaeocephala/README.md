@@ -1,5 +1,4 @@
-Psalliota phaeocephala Beck SPECIES
-=======
+# Psalliota phaeocephala Beck SPECIES
 
 #### Status
 ACCEPTED

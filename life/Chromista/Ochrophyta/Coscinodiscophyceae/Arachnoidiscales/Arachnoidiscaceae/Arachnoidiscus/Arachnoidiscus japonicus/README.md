@@ -1,5 +1,4 @@
-Arachnoidiscus japonicus G. Shadboldt ex A. Prtichard SPECIES
-=======
+# Arachnoidiscus japonicus G. Shadboldt ex A. Prtichard SPECIES
 
 #### Status
 ACCEPTED

@@ -1,11 +1,10 @@
-Oolithotus fragilis subsp. fragilis SUBSPECIES
-=======
+# Oolithotus fragilis (Lohmann, 1912) Reinhardt, 1972 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Integrated Taxonomic Information System
 
 #### Published in
 null

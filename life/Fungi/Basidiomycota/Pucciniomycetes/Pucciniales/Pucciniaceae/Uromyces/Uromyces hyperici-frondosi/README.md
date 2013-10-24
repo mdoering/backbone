@@ -1,5 +1,4 @@
-Uromyces hyperici-frondosi (Schwein.) Arthur SPECIES
-=======
+# Uromyces hyperici-frondosi (Schwein.) Arthur SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coprinus nigrostriatus R. Heim SPECIES
-=======
+# Coprinus nigrostriatus R. Heim SPECIES
 
 #### Status
 ACCEPTED

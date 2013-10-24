@@ -1,5 +1,4 @@
-Cucurbitaria daldiniana (De Not.) Kuntze SPECIES
-=======
+# Cucurbitaria daldiniana (De Not.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

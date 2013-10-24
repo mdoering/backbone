@@ -1,5 +1,4 @@
-Cytospora euonymi Cooke, 1885 SPECIES
-=======
+# Cytospora euonymi Cooke, 1885 SPECIES
 
 #### Status
 ACCEPTED

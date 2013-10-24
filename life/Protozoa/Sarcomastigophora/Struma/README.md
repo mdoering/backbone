@@ -1,5 +1,4 @@
-Struma Tikhomirova, 1989 GENUS
-=======
+# Struma Tikhomirova, 1989 GENUS
 
 #### Status
 ACCEPTED

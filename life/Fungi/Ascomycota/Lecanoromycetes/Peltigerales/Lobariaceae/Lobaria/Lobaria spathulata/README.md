@@ -1,5 +1,4 @@
-Lobaria spathulata (Inumaru) Yoshim. SPECIES
-=======
+# Lobaria spathulata (Inumaru) Yoshim. SPECIES
 
 #### Status
 ACCEPTED

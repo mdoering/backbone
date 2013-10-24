@@ -1,5 +1,4 @@
-Heimatomyces lichanophorus Thaxt. SPECIES
-=======
+# Heimatomyces lichanophorus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptonia alboserrulata Rick SPECIES
-=======
+# Leptonia alboserrulata Rick SPECIES
 
 #### Status
 ACCEPTED

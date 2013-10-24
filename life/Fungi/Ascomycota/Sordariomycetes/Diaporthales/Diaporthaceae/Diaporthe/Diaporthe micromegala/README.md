@@ -1,5 +1,4 @@
-Diaporthe micromegala Ellis & Everh. SPECIES
-=======
+# Diaporthe micromegala Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

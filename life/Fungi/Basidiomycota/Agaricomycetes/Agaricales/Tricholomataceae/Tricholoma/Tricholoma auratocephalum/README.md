@@ -1,5 +1,4 @@
-Tricholoma auratocephalum (Ellis) Singer SPECIES
-=======
+# Tricholoma auratocephalum (Ellis) Singer SPECIES
 
 #### Status
 ACCEPTED

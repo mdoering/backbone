@@ -1,5 +1,4 @@
-Sporidesmium campanulae Oudem. SPECIES
-=======
+# Sporidesmium campanulae Oudem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredinites Velen. GENUS
-=======
+# Uredinites Velen. GENUS
 
 #### Status
 ACCEPTED

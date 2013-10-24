@@ -1,5 +1,4 @@
-Microporus scariosus (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Microporus scariosus (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

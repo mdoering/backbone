@@ -1,5 +1,4 @@
-Lecanora straminescens Harm. SPECIES
-=======
+# Lecanora straminescens Harm. SPECIES
 
 #### Status
 ACCEPTED

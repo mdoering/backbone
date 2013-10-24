@@ -1,5 +1,4 @@
-Cercospora krugiana A.S. Mull. & Chupp, 1936 SPECIES
-=======
+# Cercospora krugiana A.S. Mull. & Chupp, 1936 SPECIES
 
 #### Status
 ACCEPTED

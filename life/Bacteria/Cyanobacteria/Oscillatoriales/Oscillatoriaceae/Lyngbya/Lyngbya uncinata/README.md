@@ -1,5 +1,4 @@
-Lyngbya uncinata (C. Agardh ex Gomont) Compere SPECIES
-=======
+# Lyngbya uncinata (C. Agardh ex Gomont) Compere SPECIES
 
 #### Status
 ACCEPTED

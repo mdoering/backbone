@@ -1,5 +1,4 @@
-Paramecium subradiatum Dumas, 1929 SPECIES
-=======
+# Paramecium subradiatum Dumas, 1929 SPECIES
 
 #### Status
 ACCEPTED

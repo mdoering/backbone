@@ -1,5 +1,4 @@
-Helotium episphaerium House SPECIES
-=======
+# Helotium episphaerium House SPECIES
 
 #### Status
 ACCEPTED

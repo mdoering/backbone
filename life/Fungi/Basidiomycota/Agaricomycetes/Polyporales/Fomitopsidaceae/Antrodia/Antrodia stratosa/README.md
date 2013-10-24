@@ -1,14 +1,13 @@
-Poria stratosa J.E. Wright & J.R. Deschamps, 1972 SPECIES
-=======
+# Antrodia stratosa (J.E. Wright & J.R. Deschamps) Rajchenb., 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Rev. Invest. Agrop. INTA V, Pat. Veg. 9 151 (1972)
+Boln Soc. argent. Bot. 22(1-4): 42 (1983)
 
 #### Original name
 Poria stratosa J.E. Wright & J.R. Deschamps, 1972

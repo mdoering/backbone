@@ -1,5 +1,4 @@
-Bagnisiella gossypii Sathe & Vaidya SPECIES
-=======
+# Bagnisiella gossypii Sathe & Vaidya SPECIES
 
 #### Status
 ACCEPTED

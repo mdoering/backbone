@@ -1,5 +1,4 @@
-Lecidea opalina Stizenb. SPECIES
-=======
+# Lecidea opalina Stizenb. SPECIES
 
 #### Status
 ACCEPTED

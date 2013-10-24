@@ -1,11 +1,10 @@
-Sargassum cylindrocystum var. levianum Grunow, 1888 VARIETY
-=======
+# Sargassum cylindrocystum Figari & De Notaris, 1853 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

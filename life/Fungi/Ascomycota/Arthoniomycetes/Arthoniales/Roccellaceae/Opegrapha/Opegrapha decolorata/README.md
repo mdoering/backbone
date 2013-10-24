@@ -1,5 +1,4 @@
-Opegrapha decolorata Behlen SPECIES
-=======
+# Opegrapha decolorata Behlen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetoceros convexicorne SPECIES
-=======
+# Chaetoceros convexicorne SPECIES
 
 #### Status
 ACCEPTED

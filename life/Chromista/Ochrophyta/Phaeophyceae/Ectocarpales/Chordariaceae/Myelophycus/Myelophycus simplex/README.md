@@ -1,8 +1,7 @@
-Chordaria simplex Harvey SPECIES
-=======
+# Myelophycus simplex (Harvey) Papenfuss SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

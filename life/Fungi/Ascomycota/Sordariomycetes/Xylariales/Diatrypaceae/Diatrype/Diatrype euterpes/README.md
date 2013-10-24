@@ -1,5 +1,4 @@
-Diatrype euterpes (Henn.) Rappaz SPECIES
-=======
+# Diatrype euterpes (Henn.) Rappaz SPECIES
 
 #### Status
 ACCEPTED

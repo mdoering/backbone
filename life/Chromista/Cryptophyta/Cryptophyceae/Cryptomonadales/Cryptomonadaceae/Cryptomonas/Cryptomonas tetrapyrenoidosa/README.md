@@ -1,5 +1,4 @@
-Cryptomonas tetrapyrenoidosa Skuja, 1948 SPECIES
-=======
+# Cryptomonas tetrapyrenoidosa Skuja, 1948 SPECIES
 
 #### Status
 ACCEPTED

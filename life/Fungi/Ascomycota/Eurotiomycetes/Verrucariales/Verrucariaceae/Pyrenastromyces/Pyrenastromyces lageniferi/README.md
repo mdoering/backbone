@@ -1,5 +1,4 @@
-Pyrenastromyces lageniferi Cif. & Tomas. SPECIES
-=======
+# Pyrenastromyces lageniferi Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

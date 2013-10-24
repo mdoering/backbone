@@ -1,5 +1,4 @@
-Paraeofusulina Pumrya, 1956 GENUS
-=======
+# Paraeofusulina Pumrya, 1956 GENUS
 
 #### Status
 ACCEPTED

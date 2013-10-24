@@ -1,17 +1,16 @@
-Septomyrothecium setiramosum (R.F. Castañeda) Decock, 2008 SPECIES
-=======
+# Myrothecium setiramosum R.F. Castañeda, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Deuteromycotina de Cuba (La Habana), Hyphomycetes IV 10 (1986)
 
 #### Original name
-null
+Myrothecium setiramosum R.F. Castañeda, 1986
 
 ### Remarks
 null

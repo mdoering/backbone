@@ -1,5 +1,4 @@
-Edwardsiella GENUS
-=======
+# Edwardsiella GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Robillarda celtidis Scalia SPECIES
-=======
+# Robillarda celtidis Scalia SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplocystis mollis (Czern.) De Toni SPECIES
-=======
+# Diplocystis mollis (Czern.) De Toni SPECIES
 
 #### Status
 ACCEPTED

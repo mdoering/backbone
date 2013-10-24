@@ -1,14 +1,13 @@
-Alternaria alternantherae Holcomb & Antonop., 1976 SPECIES
-=======
+# Nimbya alternantherae (Holcomb & Antonop.) E.G. Simmons & Alcorn, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 68(5): 1126 (1976)
+in Simmons, Mycotaxon 55: 142 (1995)
 
 #### Original name
 Alternaria alternantherae Holcomb & Antonop., 1976

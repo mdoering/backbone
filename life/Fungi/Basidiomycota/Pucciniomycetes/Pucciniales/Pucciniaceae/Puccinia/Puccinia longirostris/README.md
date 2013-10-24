@@ -1,5 +1,4 @@
-Puccinia longirostris Kom. SPECIES
-=======
+# Puccinia longirostris Kom. SPECIES
 
 #### Status
 ACCEPTED

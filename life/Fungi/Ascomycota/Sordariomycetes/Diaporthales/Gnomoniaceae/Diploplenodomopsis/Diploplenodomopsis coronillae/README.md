@@ -1,5 +1,4 @@
-Diploplenodomopsis coronillae Petr. SPECIES
-=======
+# Diploplenodomopsis coronillae Petr. SPECIES
 
 #### Status
 ACCEPTED

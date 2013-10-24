@@ -1,5 +1,4 @@
-Buellia ambuta (Stizenb.) Zahlbr. SPECIES
-=======
+# Buellia ambuta (Stizenb.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

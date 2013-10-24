@@ -1,5 +1,4 @@
-Cyathus setosus H.J. Brodie SPECIES
-=======
+# Cyathus setosus H.J. Brodie SPECIES
 
 #### Status
 ACCEPTED

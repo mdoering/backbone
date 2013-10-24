@@ -1,5 +1,4 @@
-Didymium nigrisporum Nann.-Bremek., K.G. Mukerji & Pasricha, 1984 SPECIES
-=======
+# Didymium nigrisporum Nann.-Bremek., K.G. Mukerji & Pasricha, 1984 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Capnocytophaga granulosa Yamamoto et al., 1994 SPECIES
-=======
+# Capnocytophaga granulosa Yamamoto et al., 1994 SPECIES
 
 #### Status
 ACCEPTED

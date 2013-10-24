@@ -1,5 +1,4 @@
-Lactarius subtorminosus Coker SPECIES
-=======
+# Lactarius subtorminosus Coker SPECIES
 
 #### Status
 ACCEPTED

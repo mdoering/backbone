@@ -1,5 +1,4 @@
-Dendryphion nodulosum Sacc., 1877 SPECIES
-=======
+# Dendryphion nodulosum Sacc., 1877 SPECIES
 
 #### Status
 ACCEPTED

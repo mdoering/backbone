@@ -1,5 +1,4 @@
-Discoaster monstratus Martini, 1961 SPECIES
-=======
+# Discoaster monstratus Martini, 1961 SPECIES
 
 #### Status
 ACCEPTED

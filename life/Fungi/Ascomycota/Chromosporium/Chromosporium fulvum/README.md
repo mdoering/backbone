@@ -1,5 +1,4 @@
-Chromosporium fulvum (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Chromosporium fulvum (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

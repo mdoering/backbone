@@ -1,5 +1,4 @@
-Sol F.H. Cramer, 1964 GENUS
-=======
+# Sol F.H. Cramer, 1964 GENUS
 
 #### Status
 ACCEPTED

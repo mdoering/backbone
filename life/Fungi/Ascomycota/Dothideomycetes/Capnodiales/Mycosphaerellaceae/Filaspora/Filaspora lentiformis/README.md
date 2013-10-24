@@ -1,5 +1,4 @@
-Filaspora lentiformis (Sacc. & Schulzer) Kuntze SPECIES
-=======
+# Filaspora lentiformis (Sacc. & Schulzer) Kuntze SPECIES
 
 #### Status
 ACCEPTED

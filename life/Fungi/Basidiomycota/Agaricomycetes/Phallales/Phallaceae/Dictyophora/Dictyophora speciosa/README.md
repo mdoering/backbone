@@ -1,5 +1,4 @@
-Dictyophora speciosa Meyen SPECIES
-=======
+# Dictyophora speciosa Meyen SPECIES
 
 #### Status
 ACCEPTED

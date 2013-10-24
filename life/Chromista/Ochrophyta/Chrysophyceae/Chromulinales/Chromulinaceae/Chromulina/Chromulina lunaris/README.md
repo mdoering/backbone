@@ -1,5 +1,4 @@
-Chromulina lunaris N. Carter SPECIES
-=======
+# Chromulina lunaris N. Carter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacteriodes GENUS
-=======
+# Bacteriodes GENUS
 
 #### Status
 ACCEPTED

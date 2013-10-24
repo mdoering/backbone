@@ -1,14 +1,13 @@
-Dicaeoma macowani (G. Winter) Kuntze SPECIES
-=======
+# Dicaeoma macowanii (G. Winter) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3: 469 (1898)
 
 #### Original name
 Puccinia macowanii G. Winter

@@ -1,5 +1,4 @@
-Palaeomycelites Bystrov GENUS
-=======
+# Palaeomycelites Bystrov GENUS
 
 #### Status
 ACCEPTED

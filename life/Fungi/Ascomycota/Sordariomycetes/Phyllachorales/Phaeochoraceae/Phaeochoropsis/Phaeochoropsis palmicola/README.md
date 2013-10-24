@@ -1,17 +1,16 @@
-Phyllachora sabalicola (Chardón) Cif. SPECIES
-=======
+# Phaeochoropsis palmicola (F. Stevens) K.D. Hyde & P.F. Cannon, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Pap. 175: 38 (1999)
 
 #### Original name
-Catacauma sabal Chardón, 1946
+Catacauma palmicola F. Stevens, 1920
 
 ### Remarks
 null

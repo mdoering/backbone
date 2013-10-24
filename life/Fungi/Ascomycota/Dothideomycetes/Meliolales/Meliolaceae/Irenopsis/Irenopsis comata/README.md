@@ -1,5 +1,4 @@
-Irenopsis comata (Doidge) F. Stevens SPECIES
-=======
+# Irenopsis comata (Doidge) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

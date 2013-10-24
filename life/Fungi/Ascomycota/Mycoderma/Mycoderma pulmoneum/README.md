@@ -1,5 +1,4 @@
-Mycoderma pulmoneum (J.H. Bennet) Vuill. SPECIES
-=======
+# Mycoderma pulmoneum (J.H. Bennet) Vuill. SPECIES
 
 #### Status
 ACCEPTED

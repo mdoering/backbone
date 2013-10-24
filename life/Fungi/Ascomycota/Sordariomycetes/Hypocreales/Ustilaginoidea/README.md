@@ -1,17 +1,16 @@
-Dubiomyces Lloyd GENUS
-=======
+# Ustilaginoidea Bref. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Writ. 6: 1034 (1921)
+Unters. Gesammtgeb. Mykol. 12: 194 (1895)
 
 #### Original name
-Dubiomyces Lloyd
+Ustilaginoidea Bref.
 
 ### Remarks
 null

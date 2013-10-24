@@ -1,5 +1,4 @@
-Sarcopodium vanillae (Petch) B. Sutton, 1981 SPECIES
-=======
+# Sarcopodium vanillae (Petch) B. Sutton, 1981 SPECIES
 
 #### Status
 ACCEPTED

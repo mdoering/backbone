@@ -1,5 +1,4 @@
-Telamonia reisneri Velen. SPECIES
-=======
+# Telamonia reisneri Velen. SPECIES
 
 #### Status
 ACCEPTED

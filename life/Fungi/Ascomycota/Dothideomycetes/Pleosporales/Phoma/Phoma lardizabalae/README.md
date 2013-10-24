@@ -1,5 +1,4 @@
-Phoma lardizabalae Speg. SPECIES
-=======
+# Phoma lardizabalae Speg. SPECIES
 
 #### Status
 ACCEPTED

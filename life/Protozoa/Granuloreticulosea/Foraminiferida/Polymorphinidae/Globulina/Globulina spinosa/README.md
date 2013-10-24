@@ -1,5 +1,4 @@
-Globulina spinosa d'Orbigny SPECIES
-=======
+# Globulina spinosa d'Orbigny SPECIES
 
 #### Status
 ACCEPTED

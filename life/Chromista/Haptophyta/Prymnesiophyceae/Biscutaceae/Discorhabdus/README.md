@@ -1,5 +1,4 @@
-Discorhabdus Noël GENUS
-=======
+# Discorhabdus Noël GENUS
 
 #### Status
 ACCEPTED

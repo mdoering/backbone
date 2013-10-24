@@ -1,5 +1,4 @@
-Galeropsis polytrichoides (Zeller) Zeller, 1943 SPECIES
-=======
+# Galeropsis polytrichoides (Zeller) Zeller, 1943 SPECIES
 
 #### Status
 ACCEPTED

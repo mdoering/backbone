@@ -1,5 +1,4 @@
-Amphisphaeria helvetica H. Wegelin SPECIES
-=======
+# Amphisphaeria helvetica H. Wegelin SPECIES
 
 #### Status
 ACCEPTED

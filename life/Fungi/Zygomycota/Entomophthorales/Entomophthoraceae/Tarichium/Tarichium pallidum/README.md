@@ -1,5 +1,4 @@
-Tarichium pallidum Roiv. SPECIES
-=======
+# Tarichium pallidum Roiv. SPECIES
 
 #### Status
 ACCEPTED

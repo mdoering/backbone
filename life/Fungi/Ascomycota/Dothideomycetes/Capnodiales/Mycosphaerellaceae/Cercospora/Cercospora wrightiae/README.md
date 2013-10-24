@@ -1,5 +1,4 @@
-Cercospora wrightiae Thirum. & Chupp SPECIES
-=======
+# Cercospora wrightiae Thirum. & Chupp SPECIES
 
 #### Status
 ACCEPTED

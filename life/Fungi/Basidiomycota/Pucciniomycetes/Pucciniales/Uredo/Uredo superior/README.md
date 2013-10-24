@@ -1,5 +1,4 @@
-Uredo superior Arthur SPECIES
-=======
+# Uredo superior Arthur SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Neottiella hoehneliana Rehm SPECIES
-=======
+# Neottiella hoehneliana Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Squamaria valesiaca SPECIES
-=======
+# Squamaria valesiaca SPECIES
 
 #### Status
 ACCEPTED

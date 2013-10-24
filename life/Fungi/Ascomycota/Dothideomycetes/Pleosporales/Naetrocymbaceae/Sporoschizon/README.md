@@ -1,5 +1,4 @@
-Sporoschizon Riedl GENUS
-=======
+# Sporoschizon Riedl GENUS
 
 #### Status
 ACCEPTED

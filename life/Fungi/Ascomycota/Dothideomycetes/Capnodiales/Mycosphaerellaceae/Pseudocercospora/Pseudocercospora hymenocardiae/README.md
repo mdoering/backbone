@@ -1,5 +1,4 @@
-Pseudocercospora hymenocardiae Deighton SPECIES
-=======
+# Pseudocercospora hymenocardiae Deighton SPECIES
 
 #### Status
 ACCEPTED

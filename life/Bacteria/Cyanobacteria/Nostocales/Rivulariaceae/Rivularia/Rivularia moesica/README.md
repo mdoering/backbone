@@ -1,5 +1,4 @@
-Rivularia moesica (O. Dragastan & I. Bucur) O. Dragastan SPECIES
-=======
+# Rivularia moesica (O. Dragastan & I. Bucur) O. Dragastan SPECIES
 
 #### Status
 ACCEPTED

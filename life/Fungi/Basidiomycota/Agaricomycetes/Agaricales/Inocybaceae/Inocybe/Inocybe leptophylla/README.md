@@ -1,17 +1,16 @@
-Inocybe casimiri var. casimiri VARIETY
-=======
+# Inocybe leptophylla G.F. Atk., 1918 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ceské Houby 2: 369 (1920)
+Am. J. Bot. 5: 212 (1918)
 
 #### Original name
-Inocybe casimiri var. casimiri
+Inocybe leptophylla G.F. Atk., 1918
 
 ### Remarks
 null

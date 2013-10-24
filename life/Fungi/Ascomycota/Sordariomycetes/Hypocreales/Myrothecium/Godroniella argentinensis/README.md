@@ -1,5 +1,4 @@
-Godroniella argentinensis Speg. SPECIES
-=======
+# Godroniella argentinensis Speg. SPECIES
 
 #### Status
 ACCEPTED

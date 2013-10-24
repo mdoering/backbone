@@ -1,5 +1,4 @@
-Calloriopsis herpotricha (Berk.) R. Sant. SPECIES
-=======
+# Calloriopsis herpotricha (Berk.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trogia diminutiva Corner SPECIES
-=======
+# Trogia diminutiva Corner SPECIES
 
 #### Status
 ACCEPTED

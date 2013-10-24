@@ -1,5 +1,4 @@
-Tubaria egestosa Herp. SPECIES
-=======
+# Tubaria egestosa Herp. SPECIES
 
 #### Status
 ACCEPTED

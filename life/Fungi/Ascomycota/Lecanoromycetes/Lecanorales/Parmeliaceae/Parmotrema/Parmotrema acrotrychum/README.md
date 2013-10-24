@@ -1,14 +1,13 @@
-Parmelia acrotrycha Kurok. SPECIES
-=======
+# Parmotrema acrotrychum (Kurok.) Streimann SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Studies on Cryptogams of Papua New Guinea (Tokyo) 126 (1979)
+Biblthca Lichenol. 22: 92 (1986)
 
 #### Original name
 Parmelia acrotrycha Kurok.

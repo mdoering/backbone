@@ -1,14 +1,13 @@
-Belonidium flavofuligineum (Alb. & Schwein.) Raitv., 1970 SPECIES
-=======
+# Lachnum flavofuligineum (Alb. & Schwein.) Rehm, 1921 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Akad. Nauk Estonskoi S. S. R. , Inst. Zool. Bot. , Tartu 49 (1970)
+Beih. bot. Zbl. 38: (1921)
 
 #### Original name
 null

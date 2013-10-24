@@ -1,5 +1,4 @@
-Peltigera schimperi C.W. Dodge SPECIES
-=======
+# Peltigera schimperi C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

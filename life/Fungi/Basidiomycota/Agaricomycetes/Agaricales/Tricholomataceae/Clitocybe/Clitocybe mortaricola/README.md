@@ -1,5 +1,4 @@
-Clitocybe mortaricola H.E. Bigelow SPECIES
-=======
+# Clitocybe mortaricola H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

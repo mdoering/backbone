@@ -1,5 +1,4 @@
-Hendersonia lathyri-latifolii A.L. Guyot SPECIES
-=======
+# Hendersonia lathyri-latifolii A.L. Guyot SPECIES
 
 #### Status
 ACCEPTED

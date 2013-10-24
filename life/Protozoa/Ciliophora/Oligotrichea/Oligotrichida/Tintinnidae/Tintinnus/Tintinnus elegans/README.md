@@ -1,5 +1,4 @@
-Tintinnus elegans Jörgensen, 1924 SPECIES
-=======
+# Tintinnus elegans Jörgensen, 1924 SPECIES
 
 #### Status
 ACCEPTED

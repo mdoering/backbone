@@ -1,17 +1,16 @@
-Leptosphaeria puniciae A.K. Kar & Maity SPECIES
-=======
+# Leptosphaeria punicae A.K. Kar & Maity SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Can. J. Bot. 48(7): 1302 (1970)
 
 #### Original name
-Leptosphaeria puniciae A.K. Kar & Maity
+Leptosphaeria punicae A.K. Kar & Maity
 
 ### Remarks
 null

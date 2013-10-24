@@ -1,5 +1,4 @@
-Lecanora palanderi Vain. SPECIES
-=======
+# Lecanora palanderi Vain. SPECIES
 
 #### Status
 ACCEPTED

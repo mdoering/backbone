@@ -1,5 +1,4 @@
-Fusarium polyphialidicum Marasas, P.E. Nelson, Toussoun & P.S. van Wyk, 1986 SPECIES
-=======
+# Fusarium polyphialidicum Marasas, P.E. Nelson, Toussoun & P.S. van Wyk, 1986 SPECIES
 
 #### Status
 ACCEPTED

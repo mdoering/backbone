@@ -1,5 +1,4 @@
-Platygrapha byssiseda (Fée) Müll. Arg. SPECIES
-=======
+# Platygrapha byssiseda (Fée) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

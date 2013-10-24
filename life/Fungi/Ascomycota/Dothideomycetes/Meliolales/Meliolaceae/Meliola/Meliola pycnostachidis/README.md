@@ -1,5 +1,4 @@
-Meliola pycnostachidis Hansf. SPECIES
-=======
+# Meliola pycnostachidis Hansf. SPECIES
 
 #### Status
 ACCEPTED

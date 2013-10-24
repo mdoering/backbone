@@ -1,5 +1,4 @@
-Lachnum belonidioides Raitv. SPECIES
-=======
+# Lachnum belonidioides Raitv. SPECIES
 
 #### Status
 ACCEPTED

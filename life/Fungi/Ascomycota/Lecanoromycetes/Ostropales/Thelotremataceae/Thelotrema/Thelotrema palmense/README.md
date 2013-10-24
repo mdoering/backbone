@@ -1,5 +1,4 @@
-Thelotrema palmense Vain. SPECIES
-=======
+# Thelotrema palmense Vain. SPECIES
 
 #### Status
 ACCEPTED

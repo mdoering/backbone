@@ -1,5 +1,4 @@
-Ploioderma cedri Suj. Singh, S.N. Khan & B.M. Misra, 1987 SPECIES
-=======
+# Ploioderma cedri Suj. Singh, S.N. Khan & B.M. Misra, 1987 SPECIES
 
 #### Status
 ACCEPTED

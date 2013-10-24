@@ -1,5 +1,4 @@
-Rhizionella Baudoin, 1971 GENUS
-=======
+# Rhizionella Baudoin, 1971 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amerodiscosiella M.L. Farr GENUS
-=======
+# Amerodiscosiella M.L. Farr GENUS
 
 #### Status
 ACCEPTED

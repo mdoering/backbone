@@ -1,5 +1,4 @@
-Polymyces GENUS
-=======
+# Polymyces GENUS
 
 #### Status
 ACCEPTED

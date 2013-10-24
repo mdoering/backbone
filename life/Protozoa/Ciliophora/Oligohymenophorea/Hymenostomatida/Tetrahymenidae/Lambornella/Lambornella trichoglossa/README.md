@@ -1,5 +1,4 @@
-Lambornella trichoglossa Foissner, 2003 SPECIES
-=======
+# Lambornella trichoglossa Foissner, 2003 SPECIES
 
 #### Status
 ACCEPTED

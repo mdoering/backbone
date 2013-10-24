@@ -1,5 +1,4 @@
-Amphritea balenae Miyazaki, Nogi, Fujiwara, Kawato, Nagahama, Kubokawa & Horikoshi, 2008 SPECIES
-=======
+# Amphritea balenae Miyazaki, Nogi, Fujiwara, Kawato, Nagahama, Kubokawa & Horikoshi, 2008 SPECIES
 
 #### Status
 ACCEPTED

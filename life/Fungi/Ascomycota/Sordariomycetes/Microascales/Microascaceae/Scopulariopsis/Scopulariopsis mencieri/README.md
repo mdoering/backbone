@@ -1,5 +1,4 @@
-Scopulariopsis mencieri C.W. Dodge SPECIES
-=======
+# Scopulariopsis mencieri C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

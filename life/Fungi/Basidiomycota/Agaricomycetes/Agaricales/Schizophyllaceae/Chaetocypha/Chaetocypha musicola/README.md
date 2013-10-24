@@ -1,5 +1,4 @@
-Chaetocypha musicola (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Chaetocypha musicola (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

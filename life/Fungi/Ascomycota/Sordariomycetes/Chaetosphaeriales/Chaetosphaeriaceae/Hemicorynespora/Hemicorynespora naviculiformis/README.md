@@ -1,5 +1,4 @@
-Hemicorynespora naviculiformis Matsush. SPECIES
-=======
+# Hemicorynespora naviculiformis Matsush. SPECIES
 
 #### Status
 ACCEPTED

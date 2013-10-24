@@ -1,5 +1,4 @@
-Pyronema campestre P. Crouan & H. Crouan SPECIES
-=======
+# Pyronema campestre P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

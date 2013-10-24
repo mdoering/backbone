@@ -1,5 +1,4 @@
-Clitocybe pallescens H.E. Bigelow SPECIES
-=======
+# Clitocybe pallescens H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

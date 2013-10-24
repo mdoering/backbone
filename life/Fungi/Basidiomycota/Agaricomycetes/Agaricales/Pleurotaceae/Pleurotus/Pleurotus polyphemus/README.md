@@ -1,5 +1,4 @@
-Pleurotus polyphemus (Cooke & Massee) Sacc. SPECIES
-=======
+# Pleurotus polyphemus (Cooke & Massee) Sacc. SPECIES
 
 #### Status
 ACCEPTED

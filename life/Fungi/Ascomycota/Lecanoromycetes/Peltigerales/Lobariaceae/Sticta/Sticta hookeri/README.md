@@ -1,5 +1,4 @@
-Sticta hookeri var. hookeri VARIETY
-=======
+# Sticta hookeri C. Bab. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sticta hookeri var. hookeri
+Sticta hookeri C. Bab.
 
 ### Remarks
 null

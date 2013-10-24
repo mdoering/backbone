@@ -1,5 +1,4 @@
-Quinqueloculina riveroae SPECIES
-=======
+# Quinqueloculina riveroae SPECIES
 
 #### Status
 ACCEPTED

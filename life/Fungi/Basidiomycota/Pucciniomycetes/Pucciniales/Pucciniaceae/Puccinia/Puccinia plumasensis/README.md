@@ -1,5 +1,4 @@
-Puccinia plumasensis J.F. Hennen SPECIES
-=======
+# Puccinia plumasensis J.F. Hennen SPECIES
 
 #### Status
 ACCEPTED

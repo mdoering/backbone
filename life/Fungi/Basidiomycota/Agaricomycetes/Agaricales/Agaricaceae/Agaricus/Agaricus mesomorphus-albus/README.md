@@ -1,5 +1,4 @@
-Agaricus mesomorphus-albus Pass. SPECIES
-=======
+# Agaricus mesomorphus-albus Pass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aegerita ovulum Schwein. SPECIES
-=======
+# Aegerita ovulum Schwein. SPECIES
 
 #### Status
 ACCEPTED

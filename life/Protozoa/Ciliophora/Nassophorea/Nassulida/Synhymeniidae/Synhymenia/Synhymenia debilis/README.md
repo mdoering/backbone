@@ -1,5 +1,4 @@
-Synhymenia debilis (Alekperov, 1984) Jankowski, 1992 SPECIES
-=======
+# Synhymenia debilis (Alekperov, 1984) Jankowski, 1992 SPECIES
 
 #### Status
 ACCEPTED

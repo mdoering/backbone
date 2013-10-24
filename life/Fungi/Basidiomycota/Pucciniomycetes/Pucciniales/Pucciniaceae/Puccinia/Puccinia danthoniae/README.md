@@ -1,5 +1,4 @@
-Puccinia danthoniae Korbonsk. SPECIES
-=======
+# Puccinia danthoniae Korbonsk. SPECIES
 
 #### Status
 ACCEPTED

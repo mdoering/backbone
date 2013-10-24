@@ -1,5 +1,4 @@
-Lecaniella atypica Vain. SPECIES
-=======
+# Lecaniella atypica Vain. SPECIES
 
 #### Status
 ACCEPTED

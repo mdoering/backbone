@@ -1,5 +1,4 @@
-Hormiscium saccharicola Reichert SPECIES
-=======
+# Hormiscium saccharicola Reichert SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelephora infundibuliformis Hook. SPECIES
-=======
+# Thelephora infundibuliformis Hook. SPECIES
 
 #### Status
 ACCEPTED

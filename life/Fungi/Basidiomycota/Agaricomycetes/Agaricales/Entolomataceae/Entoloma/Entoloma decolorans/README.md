@@ -1,5 +1,4 @@
-Entoloma decolorans E. Horak SPECIES
-=======
+# Entoloma decolorans E. Horak SPECIES
 
 #### Status
 ACCEPTED

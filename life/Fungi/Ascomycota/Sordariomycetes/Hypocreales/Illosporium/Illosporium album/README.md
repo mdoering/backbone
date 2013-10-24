@@ -1,17 +1,16 @@
-Epicoccum album G.H. Otth, 1869 SPECIES
-=======
+# Illosporium album (G.H. Otth) Sacc., 1895 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mitt. naturf. Ges. Bern 63 (1869)
+Syll. fung. (Abellini) 11: 647 (1895)
 
 #### Original name
-Epicoccum album G.H. Otth, 1869
+Illosporium album (G.H. Otth) Sacc., 1895
 
 ### Remarks
 null

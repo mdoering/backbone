@@ -1,5 +1,4 @@
-Blastocladia strangulata Barrett SPECIES
-=======
+# Blastocladia strangulata Barrett SPECIES
 
 #### Status
 ACCEPTED

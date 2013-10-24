@@ -1,5 +1,4 @@
-Ganoderma neojaponicum Imazeki, 1939 SPECIES
-=======
+# Ganoderma neojaponicum Imazeki, 1939 SPECIES
 
 #### Status
 ACCEPTED

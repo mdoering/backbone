@@ -1,5 +1,4 @@
-Sclerophytonomyces Ciferri & Tomaselli ex Sparrius, 2004 GENUS
-=======
+# Sclerophytonomyces Ciferri & Tomaselli ex Sparrius, 2004 GENUS
 
 #### Status
 ACCEPTED

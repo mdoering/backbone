@@ -1,5 +1,4 @@
-Clathrella camerunensis (Henn.) E. Fisch. SPECIES
-=======
+# Clathrella camerunensis (Henn.) E. Fisch. SPECIES
 
 #### Status
 ACCEPTED

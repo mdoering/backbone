@@ -1,5 +1,4 @@
-Puccinia bankatensis J.C.F. Hopkins SPECIES
-=======
+# Puccinia bankatensis J.C.F. Hopkins SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bulgariella foliacea Starbäck SPECIES
-=======
+# Bulgariella foliacea Starbäck SPECIES
 
 #### Status
 ACCEPTED

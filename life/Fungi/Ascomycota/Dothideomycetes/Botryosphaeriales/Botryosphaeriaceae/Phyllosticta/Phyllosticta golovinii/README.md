@@ -1,5 +1,4 @@
-Phyllosticta golovinii Mekht. SPECIES
-=======
+# Phyllosticta golovinii Mekht. SPECIES
 
 #### Status
 ACCEPTED

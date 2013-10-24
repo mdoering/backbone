@@ -1,8 +1,7 @@
-Cystoseira robusta J. Agardh SPECIES
-=======
+# Acrocarpia robusta Womersley SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

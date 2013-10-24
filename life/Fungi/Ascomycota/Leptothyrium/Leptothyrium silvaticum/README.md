@@ -1,5 +1,4 @@
-Leptothyrium silvaticum Kabát & Bubák SPECIES
-=======
+# Leptothyrium silvaticum Kabát & Bubák SPECIES
 
 #### Status
 ACCEPTED

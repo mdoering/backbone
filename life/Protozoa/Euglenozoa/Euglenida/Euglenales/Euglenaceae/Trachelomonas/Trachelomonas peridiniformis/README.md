@@ -1,5 +1,4 @@
-Trachelomonas peridiniformis Skvortzov SPECIES
-=======
+# Trachelomonas peridiniformis Skvortzov SPECIES
 
 #### Status
 ACCEPTED

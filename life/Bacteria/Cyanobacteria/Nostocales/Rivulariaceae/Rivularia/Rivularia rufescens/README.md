@@ -1,5 +1,4 @@
-Rivularia rufescens Nägeli SPECIES
-=======
+# Rivularia rufescens Nägeli SPECIES
 
 #### Status
 ACCEPTED

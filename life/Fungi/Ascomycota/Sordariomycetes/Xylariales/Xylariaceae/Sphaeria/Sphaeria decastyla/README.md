@@ -1,5 +1,4 @@
-Sphaeria decastyla Cooke SPECIES
-=======
+# Sphaeria decastyla Cooke SPECIES
 
 #### Status
 ACCEPTED

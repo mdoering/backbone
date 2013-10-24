@@ -1,5 +1,4 @@
-Neoveryhachium distinctum Sinha, Prasad & Srivastava, 1998 SPECIES
-=======
+# Neoveryhachium distinctum Sinha, Prasad & Srivastava, 1998 SPECIES
 
 #### Status
 ACCEPTED

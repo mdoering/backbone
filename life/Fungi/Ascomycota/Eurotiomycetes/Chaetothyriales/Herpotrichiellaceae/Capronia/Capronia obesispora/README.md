@@ -1,5 +1,4 @@
-Capronia obesispora Réblová SPECIES
-=======
+# Capronia obesispora Réblová SPECIES
 
 #### Status
 ACCEPTED

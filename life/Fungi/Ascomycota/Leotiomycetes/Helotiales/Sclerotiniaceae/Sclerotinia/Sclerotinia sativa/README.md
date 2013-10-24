@@ -1,5 +1,4 @@
-Sclerotinia sativa Drayton & J.W. Groves, 1943 SPECIES
-=======
+# Sclerotinia sativa Drayton & J.W. Groves, 1943 SPECIES
 
 #### Status
 ACCEPTED

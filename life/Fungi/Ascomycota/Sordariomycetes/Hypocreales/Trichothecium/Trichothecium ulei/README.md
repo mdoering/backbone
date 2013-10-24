@@ -1,5 +1,4 @@
-Trichothecium ulei SPECIES
-=======
+# Trichothecium ulei SPECIES
 
 #### Status
 ACCEPTED

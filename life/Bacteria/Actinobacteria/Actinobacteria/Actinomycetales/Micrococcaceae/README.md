@@ -1,5 +1,4 @@
-Micrococcaceae Pribram, 1929 FAMILY
-=======
+# Micrococcaceae Pribram, 1929 FAMILY
 
 #### Status
 ACCEPTED

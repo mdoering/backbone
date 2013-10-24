@@ -1,5 +1,4 @@
-Dinophysis rudgei Murray & Whitting, 1899 SPECIES
-=======
+# Dinophysis rudgei Murray & Whitting, 1899 SPECIES
 
 #### Status
 ACCEPTED

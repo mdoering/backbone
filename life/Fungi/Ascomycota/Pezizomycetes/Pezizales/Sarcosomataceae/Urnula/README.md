@@ -1,17 +1,16 @@
-Dacrina E.M. Fries, 1832 GENUS
-=======
+# Urnula E.M. Fries, 1849 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syst. mycol. (Lundae) 3(2): 291 (1832)
+Summa veg. Scand. (Stockholm), Section Post. 364 (1849)
 
 #### Original name
-Dacrina E.M. Fries, 1832
+Urnula E.M. Fries, 1849
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Vulcanisphaera eodigitata (Fombella, 1978) Sarjeant & Vavrdová, 1997 SPECIES
-=======
+# Vulcanisphaera eodigitata (Fombella, 1978) Sarjeant & Vavrdová, 1997 SPECIES
 
 #### Status
 ACCEPTED

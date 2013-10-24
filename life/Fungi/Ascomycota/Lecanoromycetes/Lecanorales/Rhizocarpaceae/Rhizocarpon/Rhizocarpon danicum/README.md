@@ -1,5 +1,4 @@
-Rhizocarpon danicum Galløe SPECIES
-=======
+# Rhizocarpon danicum Galløe SPECIES
 
 #### Status
 ACCEPTED

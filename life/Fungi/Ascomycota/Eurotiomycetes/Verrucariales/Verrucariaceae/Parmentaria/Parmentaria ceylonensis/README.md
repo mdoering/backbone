@@ -1,17 +1,16 @@
-Parmentaria ceylonense Upreti & Ajay Singh SPECIES
-=======
+# Parmentaria ceylonensis Upreti & Ajay Singh SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Candollea 43(1): 116 (1988)
 
 #### Original name
-Parmentaria ceylonense Upreti & Ajay Singh
+Parmentaria ceylonensis Upreti & Ajay Singh
 
 ### Remarks
 null

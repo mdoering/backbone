@@ -1,5 +1,4 @@
-Sporobolomyces kluyveri-nielii Van der Walt SPECIES
-=======
+# Sporobolomyces kluyveri-nielii Van der Walt SPECIES
 
 #### Status
 ACCEPTED

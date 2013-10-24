@@ -1,5 +1,4 @@
-Choanophrya crassipes SPECIES
-=======
+# Choanophrya crassipes SPECIES
 
 #### Status
 ACCEPTED

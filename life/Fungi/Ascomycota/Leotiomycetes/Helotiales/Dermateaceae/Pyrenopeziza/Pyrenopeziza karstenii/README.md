@@ -1,17 +1,16 @@
-Pyrenopeziza karstenii var. karstenii VARIETY
-=======
+# Pyrenopeziza karstenii Sacc., 1889 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 8: 367 (1889)
 
 #### Original name
-Pyrenopeziza karstenii var. karstenii
+Pyrenopeziza karstenii Sacc., 1889
 
 ### Remarks
 null

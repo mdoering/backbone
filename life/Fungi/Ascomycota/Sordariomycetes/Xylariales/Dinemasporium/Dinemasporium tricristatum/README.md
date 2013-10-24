@@ -1,5 +1,4 @@
-Dinemasporium tricristatum Pat. SPECIES
-=======
+# Dinemasporium tricristatum Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dictyopeltis lucumae Bat. SPECIES
-=======
+# Dictyopeltis lucumae Bat. SPECIES
 
 #### Status
 ACCEPTED

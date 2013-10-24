@@ -1,5 +1,4 @@
-Tricholoma rufenum P. Donati SPECIES
-=======
+# Tricholoma rufenum P. Donati SPECIES
 
 #### Status
 ACCEPTED

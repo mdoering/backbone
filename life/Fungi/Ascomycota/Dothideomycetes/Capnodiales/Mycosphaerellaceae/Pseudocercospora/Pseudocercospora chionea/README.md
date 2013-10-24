@@ -1,5 +1,4 @@
-Pseudocercospora chionea (Ellis & Everh.) X.J. Liu & Y.L. Guo SPECIES
-=======
+# Pseudocercospora chionea (Ellis & Everh.) X.J. Liu & Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

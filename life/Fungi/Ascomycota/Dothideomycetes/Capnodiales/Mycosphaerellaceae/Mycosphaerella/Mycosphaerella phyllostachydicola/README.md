@@ -1,5 +1,4 @@
-Mycosphaerella phyllostachydicola Tomilin SPECIES
-=======
+# Mycosphaerella phyllostachydicola Tomilin SPECIES
 
 #### Status
 ACCEPTED

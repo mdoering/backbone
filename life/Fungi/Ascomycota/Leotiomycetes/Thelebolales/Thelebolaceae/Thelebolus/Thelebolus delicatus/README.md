@@ -1,5 +1,4 @@
-Thelebolus delicatus Fr. SPECIES
-=======
+# Thelebolus delicatus Fr. SPECIES
 
 #### Status
 ACCEPTED

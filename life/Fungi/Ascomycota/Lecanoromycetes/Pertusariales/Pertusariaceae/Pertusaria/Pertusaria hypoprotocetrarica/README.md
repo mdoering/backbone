@@ -1,5 +1,4 @@
-Pertusaria hypoprotocetrarica A.W. Archer & Elix SPECIES
-=======
+# Pertusaria hypoprotocetrarica A.W. Archer & Elix SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mecsekia curvispina Schrank, 2003 SPECIES
-=======
+# Mecsekia curvispina Schrank, 2003 SPECIES
 
 #### Status
 ACCEPTED

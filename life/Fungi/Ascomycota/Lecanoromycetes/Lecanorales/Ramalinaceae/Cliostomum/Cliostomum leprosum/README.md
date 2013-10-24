@@ -1,14 +1,13 @@
-Catillaria leprosa Räsänen SPECIES
-=======
+# Cliostomum leprosum (Räsänen) Holien & Tønsberg SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Lich. Fenn. Exs. no. 492 (1939)
+Sommerfeltia 14: 131 (1992)
 
 #### Original name
 Catillaria leprosa Räsänen

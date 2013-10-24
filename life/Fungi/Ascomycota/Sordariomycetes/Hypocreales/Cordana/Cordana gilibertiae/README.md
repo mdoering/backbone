@@ -1,5 +1,4 @@
-Cordana gilibertiae Togashi & Katsuki SPECIES
-=======
+# Cordana gilibertiae Togashi & Katsuki SPECIES
 
 #### Status
 ACCEPTED

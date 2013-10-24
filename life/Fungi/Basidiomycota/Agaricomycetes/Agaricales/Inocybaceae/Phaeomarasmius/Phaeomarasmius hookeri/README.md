@@ -1,5 +1,4 @@
-Phaeomarasmius hookeri (Speg.) E. Horak SPECIES
-=======
+# Phaeomarasmius hookeri (Speg.) E. Horak SPECIES
 
 #### Status
 ACCEPTED

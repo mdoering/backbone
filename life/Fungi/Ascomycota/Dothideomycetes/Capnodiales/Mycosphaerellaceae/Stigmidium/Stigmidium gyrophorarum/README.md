@@ -1,14 +1,13 @@
-Didymosphaeria gyrophorae (Arnold) Sacc. & D. Sacc. SPECIES
-=======
+# Stigmidium gyrophorarum (Arnold) D. Hawksw., 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Kew Bull. , Addit. Ser. 30(1): 201 (1975)
 
 #### Original name
 Arthopyrenia gyrophorarum Arnold, 1896

@@ -1,5 +1,4 @@
-Hygrocybe virescens (Hesler & A.H. Sm.) Montoya & Bandala SPECIES
-=======
+# Hygrocybe virescens (Hesler & A.H. Sm.) Montoya & Bandala SPECIES
 
 #### Status
 ACCEPTED

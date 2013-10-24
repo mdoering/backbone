@@ -1,5 +1,4 @@
-Licea mysorensis Agnihothr. SPECIES
-=======
+# Licea mysorensis Agnihothr. SPECIES
 
 #### Status
 ACCEPTED

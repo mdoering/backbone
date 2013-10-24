@@ -1,5 +1,4 @@
-Globotruncanidae Brotzen, 1942 FAMILY
-=======
+# Globotruncanidae Brotzen, 1942 FAMILY
 
 #### Status
 ACCEPTED

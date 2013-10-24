@@ -1,5 +1,4 @@
-Aecidium hippocrepidis DC. SPECIES
-=======
+# Aecidium hippocrepidis DC. SPECIES
 
 #### Status
 ACCEPTED

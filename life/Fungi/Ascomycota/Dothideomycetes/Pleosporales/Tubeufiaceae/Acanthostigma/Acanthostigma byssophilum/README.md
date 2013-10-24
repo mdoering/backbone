@@ -1,5 +1,4 @@
-Acanthostigma byssophilum (Rehm) Sacc. SPECIES
-=======
+# Acanthostigma byssophilum (Rehm) Sacc. SPECIES
 
 #### Status
 ACCEPTED

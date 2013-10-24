@@ -1,5 +1,4 @@
-Lactarius duplicatus A.H. Sm. SPECIES
-=======
+# Lactarius duplicatus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

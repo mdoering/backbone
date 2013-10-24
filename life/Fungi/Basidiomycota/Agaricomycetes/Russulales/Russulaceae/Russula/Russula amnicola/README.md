@@ -1,5 +1,4 @@
-Russula amnicola Singer SPECIES
-=======
+# Russula amnicola Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mucosetospora M. Morelet GENUS
-=======
+# Mucosetospora M. Morelet GENUS
 
 #### Status
 ACCEPTED

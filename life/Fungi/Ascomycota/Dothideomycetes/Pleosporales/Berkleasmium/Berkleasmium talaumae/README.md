@@ -1,5 +1,4 @@
-Berkleasmium talaumae Bat. & Cavalc. SPECIES
-=======
+# Berkleasmium talaumae Bat. & Cavalc. SPECIES
 
 #### Status
 ACCEPTED

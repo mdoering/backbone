@@ -1,5 +1,4 @@
-Hygrophoropsis tapinia Singer SPECIES
-=======
+# Hygrophoropsis tapinia Singer SPECIES
 
 #### Status
 ACCEPTED

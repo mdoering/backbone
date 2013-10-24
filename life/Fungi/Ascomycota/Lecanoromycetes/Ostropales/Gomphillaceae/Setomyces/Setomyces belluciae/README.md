@@ -1,5 +1,4 @@
-Setomyces belluciae Bat. & Peres SPECIES
-=======
+# Setomyces belluciae Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

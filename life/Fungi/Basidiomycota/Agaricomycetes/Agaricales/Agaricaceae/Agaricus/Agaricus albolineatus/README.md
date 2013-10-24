@@ -1,5 +1,4 @@
-Agaricus albolineatus Berk. & Broome SPECIES
-=======
+# Agaricus albolineatus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

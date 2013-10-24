@@ -1,5 +1,4 @@
-Coelocaulon palustris SPECIES
-=======
+# Coelocaulon palustris SPECIES
 
 #### Status
 ACCEPTED

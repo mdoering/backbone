@@ -1,5 +1,4 @@
-Pestalotia stellata Berk. & M.A. Curtis SPECIES
-=======
+# Pestalotia stellata Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anaerobacter Duda, Lebedinsky, Mushegjan & Mitjushina, 1996 GENUS
-=======
+# Anaerobacter Duda, Lebedinsky, Mushegjan & Mitjushina, 1996 GENUS
 
 #### Status
 ACCEPTED

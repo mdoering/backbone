@@ -1,5 +1,4 @@
-Smittium gracilis L.G. Valle & Santam. SPECIES
-=======
+# Smittium gracilis L.G. Valle & Santam. SPECIES
 
 #### Status
 ACCEPTED

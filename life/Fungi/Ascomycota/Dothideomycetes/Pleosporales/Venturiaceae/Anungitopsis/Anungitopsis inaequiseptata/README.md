@@ -1,5 +1,4 @@
-Anungitopsis inaequiseptata W.B. Kendr. & R.F. Castañeda SPECIES
-=======
+# Anungitopsis inaequiseptata W.B. Kendr. & R.F. Castañeda SPECIES
 
 #### Status
 ACCEPTED

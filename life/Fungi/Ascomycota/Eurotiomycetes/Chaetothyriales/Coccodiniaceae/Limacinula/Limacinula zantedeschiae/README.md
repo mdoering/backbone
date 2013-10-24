@@ -1,5 +1,4 @@
-Limacinula zantedeschiae Bat. & Cif. SPECIES
-=======
+# Limacinula zantedeschiae Bat. & Cif. SPECIES
 
 #### Status
 ACCEPTED

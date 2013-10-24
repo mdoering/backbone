@@ -1,5 +1,4 @@
-Asterogloea gelatinosa Pascher SPECIES
-=======
+# Asterogloea gelatinosa Pascher SPECIES
 
 #### Status
 ACCEPTED

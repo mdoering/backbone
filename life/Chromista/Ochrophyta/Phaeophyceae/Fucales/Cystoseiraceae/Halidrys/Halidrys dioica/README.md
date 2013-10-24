@@ -1,5 +1,4 @@
-Halidrys dioica N.L. Gardner SPECIES
-=======
+# Halidrys dioica N.L. Gardner SPECIES
 
 #### Status
 ACCEPTED

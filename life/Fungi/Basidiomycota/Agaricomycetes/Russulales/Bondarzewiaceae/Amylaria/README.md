@@ -1,5 +1,4 @@
-Amylaria Corner GENUS
-=======
+# Amylaria Corner GENUS
 
 #### Status
 ACCEPTED

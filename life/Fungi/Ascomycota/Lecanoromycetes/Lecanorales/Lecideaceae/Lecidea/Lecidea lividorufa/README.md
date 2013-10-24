@@ -1,5 +1,4 @@
-Lecidea lividorufa Vain. SPECIES
-=======
+# Lecidea lividorufa Vain. SPECIES
 
 #### Status
 ACCEPTED

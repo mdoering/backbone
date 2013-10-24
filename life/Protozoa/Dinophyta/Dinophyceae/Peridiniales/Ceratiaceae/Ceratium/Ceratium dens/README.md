@@ -1,5 +1,4 @@
-Ceratium dens Ostenfeld & Schmidt, 1901 SPECIES
-=======
+# Ceratium dens Ostenfeld & Schmidt, 1901 SPECIES
 
 #### Status
 ACCEPTED

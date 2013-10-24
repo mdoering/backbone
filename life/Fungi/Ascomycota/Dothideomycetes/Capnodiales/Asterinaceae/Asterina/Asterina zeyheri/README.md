@@ -1,5 +1,4 @@
-Asterina zeyheri Doidge SPECIES
-=======
+# Asterina zeyheri Doidge SPECIES
 
 #### Status
 ACCEPTED

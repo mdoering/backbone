@@ -1,5 +1,4 @@
-Ustilago bromi-erecti Cif. SPECIES
-=======
+# Ustilago bromi-erecti Cif. SPECIES
 
 #### Status
 ACCEPTED

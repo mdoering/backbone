@@ -1,5 +1,4 @@
-Pluteus atrotometosus (Fr.) Fr. SPECIES
-=======
+# Pluteus atrotometosus (Fr.) Fr. SPECIES
 
 #### Status
 ACCEPTED

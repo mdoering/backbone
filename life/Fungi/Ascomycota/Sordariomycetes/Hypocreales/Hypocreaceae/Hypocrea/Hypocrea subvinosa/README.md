@@ -1,5 +1,4 @@
-Hypocrea subvinosa Yoshim. Doi SPECIES
-=======
+# Hypocrea subvinosa Yoshim. Doi SPECIES
 
 #### Status
 ACCEPTED

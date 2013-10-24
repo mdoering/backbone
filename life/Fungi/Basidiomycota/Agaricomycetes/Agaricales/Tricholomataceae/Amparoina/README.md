@@ -1,5 +1,4 @@
-Amparoina Singer GENUS
-=======
+# Amparoina Singer GENUS
 
 #### Status
 ACCEPTED

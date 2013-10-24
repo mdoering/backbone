@@ -1,5 +1,4 @@
-Lecanora hioramii anon. SPECIES
-=======
+# Lecanora hioramii anon. SPECIES
 
 #### Status
 ACCEPTED

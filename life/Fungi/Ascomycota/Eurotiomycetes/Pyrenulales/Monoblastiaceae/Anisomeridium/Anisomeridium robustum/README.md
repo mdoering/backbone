@@ -1,5 +1,4 @@
-Anisomeridium robustum Orange, Coppins & Aptroot SPECIES
-=======
+# Anisomeridium robustum Orange, Coppins & Aptroot SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus clarus Berk. & Broome SPECIES
-=======
+# Agaricus clarus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Trametes hemitephra var. hemitephra VARIETY
-=======
+# Fomes hemitephrus (Berk.) Cooke, 1885 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Grevillea 14(no. 69): 21 (1885)
 
 #### Original name
-null
+Polyporus hemitephrus Berk., 1855
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pleurotus roseocinereus Allesch. SPECIES
-=======
+# Pleurotus roseocinereus Allesch. SPECIES
 
 #### Status
 ACCEPTED

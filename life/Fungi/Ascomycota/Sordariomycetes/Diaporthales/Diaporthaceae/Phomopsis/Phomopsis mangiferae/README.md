@@ -1,5 +1,4 @@
-Phomopsis mangiferae S. Ahmad, 1954 SPECIES
-=======
+# Phomopsis mangiferae S. Ahmad, 1954 SPECIES
 
 #### Status
 ACCEPTED

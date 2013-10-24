@@ -1,5 +1,4 @@
-Gymnosporangium tremelloides R. Hartig, 1882 SPECIES
-=======
+# Gymnosporangium tremelloides R. Hartig, 1882 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Apioporthe bavarica (Petr.) Wehm., 1923 SPECIES
-=======
+# Apioporthella bavarica Petr., 1929 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 27(5/6): 401 (1929)
 
 #### Original name
 Apioporthella bavarica Petr., 1929

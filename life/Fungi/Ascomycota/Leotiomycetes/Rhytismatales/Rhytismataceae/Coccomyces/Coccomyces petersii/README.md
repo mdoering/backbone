@@ -1,14 +1,13 @@
-Hypoderma petersii (Berk. & M.A. Curtis) Kuntze, 1898 SPECIES
-=======
+# Coccomyces petersii (Berk. & M.A. Curtis) Sherwood, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3(2): 487 (1898)
+Occ. Pap. Farlow Herb. Crypt. Bot. 15: 78 (1980)
 
 #### Original name
 Hysterium petersii Berk. & M.A. Curtis, 1875

@@ -1,17 +1,16 @@
-Hemiarcyria Rostafinski, 1875 GENUS
-=======
+# Hemitrichia Rostafinski, 1873 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monograph 261 (1875)
+Vers. Syst. Mycetozoen, 14.
 
 #### Original name
-Hemiarcyria Rostafinski, 1875
+Hemitrichia Rostafinski, 1873
 
 ### Remarks
 null

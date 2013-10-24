@@ -1,5 +1,4 @@
-Prillieuxina clavispora (Rehm) R.W. Ryan SPECIES
-=======
+# Prillieuxina clavispora (Rehm) R.W. Ryan SPECIES
 
 #### Status
 ACCEPTED

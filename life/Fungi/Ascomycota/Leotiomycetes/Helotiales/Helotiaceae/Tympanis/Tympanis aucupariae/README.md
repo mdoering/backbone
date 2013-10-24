@@ -1,17 +1,16 @@
-Sphaeria aucupariae var. aucupariae VARIETY
-=======
+# Tympanis aucupariae (Pers.) Wallr., 1831 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fl. crypt. Germ. (Nürnberg) 1: no. 2348 (1831)
 
 #### Original name
-null
+Sphaeria aucupariae Pers., 1801
 
 ### Remarks
 null

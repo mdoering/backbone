@@ -1,5 +1,4 @@
-Buellia rhombispora Marbach SPECIES
-=======
+# Buellia rhombispora Marbach SPECIES
 
 #### Status
 ACCEPTED

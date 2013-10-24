@@ -1,5 +1,4 @@
-Clavaria saccardoi Syd. SPECIES
-=======
+# Clavaria saccardoi Syd. SPECIES
 
 #### Status
 ACCEPTED

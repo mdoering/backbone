@@ -1,5 +1,4 @@
-Cladonia kriegeri (Ahti & S. Stenroos) Ahti & DePriest SPECIES
-=======
+# Cladonia kriegeri (Ahti & S. Stenroos) Ahti & DePriest SPECIES
 
 #### Status
 ACCEPTED

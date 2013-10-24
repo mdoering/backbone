@@ -1,5 +1,4 @@
-Teratomyces insignis Thaxt., 1901 SPECIES
-=======
+# Teratomyces insignis Thaxt., 1901 SPECIES
 
 #### Status
 ACCEPTED

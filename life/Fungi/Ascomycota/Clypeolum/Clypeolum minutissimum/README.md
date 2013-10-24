@@ -1,5 +1,4 @@
-Clypeolum minutissimum Speg. SPECIES
-=======
+# Clypeolum minutissimum Speg. SPECIES
 
 #### Status
 ACCEPTED

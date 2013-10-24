@@ -1,5 +1,4 @@
-Diplodia inocarpi Sacc. SPECIES
-=======
+# Diplodia inocarpi Sacc. SPECIES
 
 #### Status
 ACCEPTED

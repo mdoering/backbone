@@ -1,5 +1,4 @@
-Chaetosphaeronema galii (Petr.) Petr. SPECIES
-=======
+# Chaetosphaeronema galii (Petr.) Petr. SPECIES
 
 #### Status
 ACCEPTED

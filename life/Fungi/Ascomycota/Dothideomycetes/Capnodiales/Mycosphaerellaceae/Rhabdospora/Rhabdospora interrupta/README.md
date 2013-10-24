@@ -1,5 +1,4 @@
-Rhabdospora interrupta (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Rhabdospora interrupta (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

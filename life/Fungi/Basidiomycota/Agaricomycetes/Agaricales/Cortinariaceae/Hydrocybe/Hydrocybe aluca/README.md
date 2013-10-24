@@ -1,5 +1,4 @@
-Hydrocybe aluca M.M. Moser SPECIES
-=======
+# Hydrocybe aluca M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

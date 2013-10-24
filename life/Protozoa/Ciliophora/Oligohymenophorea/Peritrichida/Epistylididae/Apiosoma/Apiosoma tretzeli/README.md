@@ -1,5 +1,4 @@
-Apiosoma tretzeli SPECIES
-=======
+# Apiosoma tretzeli SPECIES
 
 #### Status
 ACCEPTED

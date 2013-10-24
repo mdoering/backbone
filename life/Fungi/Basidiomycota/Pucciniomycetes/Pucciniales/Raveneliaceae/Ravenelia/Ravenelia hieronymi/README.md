@@ -1,17 +1,16 @@
-Ravenelia deformans (Maubl.) Dietel, 1906 SPECIES
-=======
+# Ravenelia hieronymi Speg., 1881 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beih. bot. Zbl. 20(2): 404 (1906)
+Anal. Soc. cient. argent. 12: 66 (1881)
 
 #### Original name
-Pleoravenelia deformans Maubl., 1906
+Ravenelia hieronymi Speg., 1881
 
 ### Remarks
 null

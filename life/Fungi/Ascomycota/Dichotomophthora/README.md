@@ -1,5 +1,4 @@
-Dichotomophthora Mehrlich & Fitzpatrick, 1935 GENUS
-=======
+# Dichotomophthora Mehrlich & Fitzpatrick, 1935 GENUS
 
 #### Status
 ACCEPTED

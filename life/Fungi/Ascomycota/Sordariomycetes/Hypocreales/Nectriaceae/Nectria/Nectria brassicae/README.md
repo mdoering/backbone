@@ -1,5 +1,4 @@
-Nectria brassicae Ellis & Sacc., 1881 SPECIES
-=======
+# Nectria brassicae Ellis & Sacc., 1881 SPECIES
 
 #### Status
 ACCEPTED

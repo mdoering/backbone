@@ -1,5 +1,4 @@
-Scheplelevia scita Aristova, 1971 SPECIES
-=======
+# Scheplelevia scita Aristova, 1971 SPECIES
 
 #### Status
 ACCEPTED

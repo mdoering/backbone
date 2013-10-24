@@ -1,5 +1,4 @@
-Lecanora strigata Nyl. SPECIES
-=======
+# Lecanora strigata Nyl. SPECIES
 
 #### Status
 ACCEPTED

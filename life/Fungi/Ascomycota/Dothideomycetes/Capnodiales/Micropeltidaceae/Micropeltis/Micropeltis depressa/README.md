@@ -1,5 +1,4 @@
-Micropeltis depressa Cooke & Massee SPECIES
-=======
+# Micropeltis depressa Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

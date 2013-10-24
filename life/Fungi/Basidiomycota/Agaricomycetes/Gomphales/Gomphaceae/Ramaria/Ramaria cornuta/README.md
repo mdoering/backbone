@@ -1,5 +1,4 @@
-Ramaria cornuta Velen. SPECIES
-=======
+# Ramaria cornuta Velen. SPECIES
 
 #### Status
 ACCEPTED

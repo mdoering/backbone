@@ -1,5 +1,4 @@
-Lepropinacia GENUS
-=======
+# Lepropinacia GENUS
 
 #### Status
 ACCEPTED

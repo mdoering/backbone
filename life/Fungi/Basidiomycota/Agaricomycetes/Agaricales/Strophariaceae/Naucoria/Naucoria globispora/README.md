@@ -1,5 +1,4 @@
-Naucoria globispora Velen. SPECIES
-=======
+# Naucoria globispora Velen. SPECIES
 
 #### Status
 ACCEPTED

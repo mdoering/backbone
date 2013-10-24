@@ -1,5 +1,4 @@
-Myxosporium mori Schulzer SPECIES
-=======
+# Myxosporium mori Schulzer SPECIES
 
 #### Status
 ACCEPTED

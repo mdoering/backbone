@@ -1,5 +1,4 @@
-Thamnolia charcotii (Hue) Gyeln. SPECIES
-=======
+# Thamnolia charcotii (Hue) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ophiostoma aurorae X.D. Zhou & M.J. Wingf. SPECIES
-=======
+# Ophiostoma aurorae X.D. Zhou & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

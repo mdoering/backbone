@@ -1,5 +1,4 @@
-Peziza conformis Nyl. SPECIES
-=======
+# Peziza conformis Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius laticlavatus Wannathes, Desjardin & Lumyong SPECIES
-=======
+# Marasmius laticlavatus Wannathes, Desjardin & Lumyong SPECIES
 
 #### Status
 ACCEPTED

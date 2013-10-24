@@ -1,5 +1,4 @@
-Sphaeronaema levirostre (P. Karst.) Berl. & Voglino SPECIES
-=======
+# Sphaeronaema levirostre (P. Karst.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

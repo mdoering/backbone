@@ -1,5 +1,4 @@
-Cercospora macutensis Syd. SPECIES
-=======
+# Cercospora macutensis Syd. SPECIES
 
 #### Status
 ACCEPTED

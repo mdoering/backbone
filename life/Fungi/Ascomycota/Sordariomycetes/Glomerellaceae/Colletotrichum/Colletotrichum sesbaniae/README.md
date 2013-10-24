@@ -1,5 +1,4 @@
-Colletotrichum sesbaniae Pavgi & U.P. Singh SPECIES
-=======
+# Colletotrichum sesbaniae Pavgi & U.P. Singh SPECIES
 
 #### Status
 ACCEPTED

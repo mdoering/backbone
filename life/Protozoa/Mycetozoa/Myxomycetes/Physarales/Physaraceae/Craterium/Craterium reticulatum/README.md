@@ -1,5 +1,4 @@
-Craterium reticulatum Nann.-Bremek. & Y. Yamam., 1987 SPECIES
-=======
+# Craterium reticulatum Nann.-Bremek. & Y. Yamam., 1987 SPECIES
 
 #### Status
 ACCEPTED

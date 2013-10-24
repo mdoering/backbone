@@ -1,5 +1,4 @@
-Guepinia simplex Fr. SPECIES
-=======
+# Guepinia simplex Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uvigerina scrobiculata Cushman, 1921 SPECIES
-=======
+# Uvigerina scrobiculata Cushman, 1921 SPECIES
 
 #### Status
 ACCEPTED

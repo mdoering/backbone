@@ -1,5 +1,4 @@
-Opegrapha arengae Vain. SPECIES
-=======
+# Opegrapha arengae Vain. SPECIES
 
 #### Status
 ACCEPTED

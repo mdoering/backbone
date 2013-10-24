@@ -1,14 +1,13 @@
-Lecidea asbolodes Nyl. SPECIES
-=======
+# Fuscidea asbolodes (Nyl.) Hertel & V. Wirth SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Crombie, J. Bot. , London 14: 21 (1876)
+in Hertel, Beih. Nova Hedwigia 79: 454 (1984)
 
 #### Original name
 Lecidea asbolodes Nyl.

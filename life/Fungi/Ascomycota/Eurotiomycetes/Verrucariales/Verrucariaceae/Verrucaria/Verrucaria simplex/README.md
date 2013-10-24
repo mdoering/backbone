@@ -1,5 +1,4 @@
-Verrucaria simplex P. M. McCarthy SPECIES
-=======
+# Verrucaria simplex P. M. McCarthy SPECIES
 
 #### Status
 ACCEPTED

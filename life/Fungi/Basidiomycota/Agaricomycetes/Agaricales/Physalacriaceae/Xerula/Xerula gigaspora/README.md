@@ -1,5 +1,4 @@
-Xerula gigaspora (Cooke & Massee) R.H. Petersen SPECIES
-=======
+# Xerula gigaspora (Cooke & Massee) R.H. Petersen SPECIES
 
 #### Status
 ACCEPTED

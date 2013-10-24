@@ -1,5 +1,4 @@
-Marasmius perplexus Desjardin, Retn. & E. Horak SPECIES
-=======
+# Marasmius perplexus Desjardin, Retn. & E. Horak SPECIES
 
 #### Status
 ACCEPTED

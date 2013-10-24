@@ -1,5 +1,4 @@
-Vulcanisphaera fermosa Fombella Blanco, 1977 SPECIES
-=======
+# Vulcanisphaera fermosa Fombella Blanco, 1977 SPECIES
 
 #### Status
 ACCEPTED

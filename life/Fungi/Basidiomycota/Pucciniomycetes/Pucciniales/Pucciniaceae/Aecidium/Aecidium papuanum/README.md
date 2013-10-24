@@ -1,5 +1,4 @@
-Aecidium papuanum Cummins SPECIES
-=======
+# Aecidium papuanum Cummins SPECIES
 
 #### Status
 ACCEPTED

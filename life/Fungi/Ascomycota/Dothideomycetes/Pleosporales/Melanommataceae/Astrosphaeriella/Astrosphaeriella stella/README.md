@@ -1,5 +1,4 @@
-Astrosphaeriella stella (Pat.) Sacc. SPECIES
-=======
+# Astrosphaeriella stella (Pat.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

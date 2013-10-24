@@ -1,5 +1,4 @@
-Gymnopus monticola Murrill SPECIES
-=======
+# Gymnopus monticola Murrill SPECIES
 
 #### Status
 ACCEPTED

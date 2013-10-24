@@ -1,5 +1,4 @@
-Chaetoceros imbricatus Mangin, 1912 SPECIES
-=======
+# Chaetoceros imbricatus Mangin, 1912 SPECIES
 
 #### Status
 ACCEPTED

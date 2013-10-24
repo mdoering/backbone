@@ -1,5 +1,4 @@
-Septoria cocculi Khokhr. SPECIES
-=======
+# Septoria cocculi Khokhr. SPECIES
 
 #### Status
 ACCEPTED

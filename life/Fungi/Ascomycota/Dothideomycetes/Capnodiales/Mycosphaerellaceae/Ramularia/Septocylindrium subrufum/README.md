@@ -1,5 +1,4 @@
-Septocylindrium subrufum (Ellis & Holw.) Pound & Clem. SPECIES
-=======
+# Septocylindrium subrufum (Ellis & Holw.) Pound & Clem. SPECIES
 
 #### Status
 ACCEPTED

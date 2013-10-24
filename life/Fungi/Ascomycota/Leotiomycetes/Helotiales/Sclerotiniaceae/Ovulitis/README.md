@@ -1,5 +1,4 @@
-Ovulitis N.F. Buchw. GENUS
-=======
+# Ovulitis N.F. Buchw. GENUS
 
 #### Status
 ACCEPTED

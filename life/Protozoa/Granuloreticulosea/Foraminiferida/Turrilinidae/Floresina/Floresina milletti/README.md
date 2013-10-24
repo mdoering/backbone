@@ -1,8 +1,7 @@
-Nodogenerina milletti Cushman, 1933 SPECIES
-=======
+# Floresina milletti (Cushman, 1933) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

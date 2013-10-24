@@ -1,5 +1,4 @@
-Leptosphaeria submodesta E. Müll. SPECIES
-=======
+# Leptosphaeria submodesta E. Müll. SPECIES
 
 #### Status
 ACCEPTED

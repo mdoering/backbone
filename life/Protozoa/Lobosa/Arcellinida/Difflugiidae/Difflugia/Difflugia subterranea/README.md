@@ -1,8 +1,7 @@
-Difflugia subterranea f. circularis Chardez, 1971 FORM
-=======
+# Difflugia subterranea Golemansky, 1970 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

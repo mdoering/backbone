@@ -1,5 +1,4 @@
-Mycena parmula Corner SPECIES
-=======
+# Mycena parmula Corner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma olivarum Thüm. SPECIES
-=======
+# Phoma olivarum Thüm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria congestula Stirt. ex Cromb. SPECIES
-=======
+# Verrucaria congestula Stirt. ex Cromb. SPECIES
 
 #### Status
 ACCEPTED

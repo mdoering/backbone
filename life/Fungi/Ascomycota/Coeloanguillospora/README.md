@@ -1,5 +1,4 @@
-Coeloanguillospora GENUS
-=======
+# Coeloanguillospora GENUS
 
 #### Status
 ACCEPTED

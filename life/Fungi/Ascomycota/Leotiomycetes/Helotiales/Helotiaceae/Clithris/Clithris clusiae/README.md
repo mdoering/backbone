@@ -1,5 +1,4 @@
-Clithris clusiae Tehon SPECIES
-=======
+# Clithris clusiae Tehon SPECIES
 
 #### Status
 ACCEPTED

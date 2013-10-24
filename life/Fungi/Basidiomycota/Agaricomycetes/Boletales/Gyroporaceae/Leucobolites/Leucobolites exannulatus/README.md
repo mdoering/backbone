@@ -1,5 +1,4 @@
-Leucobolites exannulatus (Britzelm.) Beck SPECIES
-=======
+# Leucobolites exannulatus (Britzelm.) Beck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corticium compactum Berk. & M.A. Curtis ex Cooke SPECIES
-=======
+# Corticium compactum Berk. & M.A. Curtis ex Cooke SPECIES
 
 #### Status
 ACCEPTED

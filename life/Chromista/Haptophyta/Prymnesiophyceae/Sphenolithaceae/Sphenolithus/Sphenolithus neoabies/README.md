@@ -1,5 +1,4 @@
-Sphenolithus neoabies SPECIES
-=======
+# Sphenolithus neoabies SPECIES
 
 #### Status
 ACCEPTED

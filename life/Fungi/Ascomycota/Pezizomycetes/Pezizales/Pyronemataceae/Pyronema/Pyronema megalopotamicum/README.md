@@ -1,5 +1,4 @@
-Pyronema megalopotamicum Speg. SPECIES
-=======
+# Pyronema megalopotamicum Speg. SPECIES
 
 #### Status
 ACCEPTED

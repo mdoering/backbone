@@ -1,5 +1,4 @@
-Aecidium esculentum Barclay SPECIES
-=======
+# Aecidium esculentum Barclay SPECIES
 
 #### Status
 ACCEPTED

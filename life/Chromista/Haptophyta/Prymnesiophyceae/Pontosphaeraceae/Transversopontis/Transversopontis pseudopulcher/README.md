@@ -1,5 +1,4 @@
-Transversopontis pseudopulcher Perch-Nielsen, 1967 SPECIES
-=======
+# Transversopontis pseudopulcher Perch-Nielsen, 1967 SPECIES
 
 #### Status
 ACCEPTED

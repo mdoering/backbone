@@ -1,5 +1,4 @@
-Rhizocarpon oxydatum Fryday SPECIES
-=======
+# Rhizocarpon oxydatum Fryday SPECIES
 
 #### Status
 ACCEPTED

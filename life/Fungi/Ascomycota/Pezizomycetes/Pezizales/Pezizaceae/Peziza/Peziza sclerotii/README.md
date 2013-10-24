@@ -1,5 +1,4 @@
-Peziza sclerotii Fuckel SPECIES
-=======
+# Peziza sclerotii Fuckel SPECIES
 
 #### Status
 ACCEPTED

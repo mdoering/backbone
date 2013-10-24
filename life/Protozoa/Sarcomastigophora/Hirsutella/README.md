@@ -1,5 +1,4 @@
-Hirsutella Bandy, 1972 GENUS
-=======
+# Hirsutella Bandy, 1972 GENUS
 
 #### Status
 ACCEPTED

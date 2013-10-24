@@ -1,5 +1,4 @@
-Septonema alba Preuss SPECIES
-=======
+# Septonema alba Preuss SPECIES
 
 #### Status
 ACCEPTED

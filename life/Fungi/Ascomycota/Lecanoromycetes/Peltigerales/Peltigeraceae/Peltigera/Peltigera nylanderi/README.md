@@ -1,5 +1,4 @@
-Peltigera nylanderi Gyeln. SPECIES
-=======
+# Peltigera nylanderi Gyeln. SPECIES
 
 #### Status
 ACCEPTED

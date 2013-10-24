@@ -1,5 +1,4 @@
-Psathyrella romagnesiana Bon SPECIES
-=======
+# Psathyrella romagnesiana Bon SPECIES
 
 #### Status
 ACCEPTED

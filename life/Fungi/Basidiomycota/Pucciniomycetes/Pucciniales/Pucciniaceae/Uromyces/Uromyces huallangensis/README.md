@@ -1,5 +1,4 @@
-Uromyces huallangensis Henn. SPECIES
-=======
+# Uromyces huallangensis Henn. SPECIES
 
 #### Status
 ACCEPTED

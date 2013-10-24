@@ -1,14 +1,13 @@
-Sphaeria padina Pers., 1826 SPECIES
-=======
+# Micropera padina (Pers.) Sacc., 1880 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Mougeot & Nestler, Exsicc. no. 667 (1826)
+Michelia 2(no. 6): 104 (1880)
 
 #### Original name
 Sphaeria padina Pers., 1826

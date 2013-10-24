@@ -1,5 +1,4 @@
-Sphaeria sardoa De Not. SPECIES
-=======
+# Sphaeria sardoa De Not. SPECIES
 
 #### Status
 ACCEPTED

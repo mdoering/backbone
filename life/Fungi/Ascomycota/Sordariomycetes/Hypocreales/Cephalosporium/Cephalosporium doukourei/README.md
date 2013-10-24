@@ -1,5 +1,4 @@
-Cephalosporium doukourei H. Bouchet SPECIES
-=======
+# Cephalosporium doukourei H. Bouchet SPECIES
 
 #### Status
 ACCEPTED

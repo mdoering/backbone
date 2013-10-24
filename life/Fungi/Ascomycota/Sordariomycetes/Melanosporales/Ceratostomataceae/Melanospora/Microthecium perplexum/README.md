@@ -1,5 +1,4 @@
-Microthecium perplexum D. Hawksw. SPECIES
-=======
+# Microthecium perplexum D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

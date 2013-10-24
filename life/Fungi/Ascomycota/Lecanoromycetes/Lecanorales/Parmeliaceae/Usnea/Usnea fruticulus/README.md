@@ -1,5 +1,4 @@
-Usnea fruticulus Motyka SPECIES
-=======
+# Usnea fruticulus Motyka SPECIES
 
 #### Status
 ACCEPTED

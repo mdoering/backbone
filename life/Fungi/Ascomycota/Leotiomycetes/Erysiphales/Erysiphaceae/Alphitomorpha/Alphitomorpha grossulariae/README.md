@@ -1,5 +1,4 @@
-Alphitomorpha grossulariae Wallr. SPECIES
-=======
+# Alphitomorpha grossulariae Wallr. SPECIES
 
 #### Status
 ACCEPTED

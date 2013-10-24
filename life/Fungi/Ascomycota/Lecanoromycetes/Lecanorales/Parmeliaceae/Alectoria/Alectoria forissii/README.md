@@ -1,5 +1,4 @@
-Alectoria forissii Gyeln. SPECIES
-=======
+# Alectoria forissii Gyeln. SPECIES
 
 #### Status
 ACCEPTED

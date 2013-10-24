@@ -1,5 +1,4 @@
-Lecania insularis (Hepp ex Arnold) M. Mayrhofer SPECIES
-=======
+# Lecania insularis (Hepp ex Arnold) M. Mayrhofer SPECIES
 
 #### Status
 ACCEPTED

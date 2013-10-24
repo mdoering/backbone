@@ -1,5 +1,4 @@
-Tetraedrospora Tschudovskaia, 1928 GENUS
-=======
+# Tetraedrospora Tschudovskaia, 1928 GENUS
 
 #### Status
 ACCEPTED

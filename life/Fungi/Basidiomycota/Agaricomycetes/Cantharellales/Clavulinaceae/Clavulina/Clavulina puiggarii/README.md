@@ -1,14 +1,13 @@
-Clavaria puiggarii Speg., 1881 SPECIES
-=======
+# Clavulina puiggarii (Speg.) Corner, 1957 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Anal. Soc. cient. argent. 12: 29 (1881)
+Darwiniana 11: 196 (1957)
 
 #### Original name
 Clavaria puiggarii Speg., 1881

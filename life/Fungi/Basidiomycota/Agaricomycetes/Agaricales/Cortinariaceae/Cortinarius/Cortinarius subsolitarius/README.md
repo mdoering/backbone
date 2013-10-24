@@ -1,5 +1,4 @@
-Cortinarius subsolitarius A.H. Sm. SPECIES
-=======
+# Cortinarius subsolitarius A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

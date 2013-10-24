@@ -1,5 +1,4 @@
-Cypheliomyces GENUS
-=======
+# Cypheliomyces GENUS
 
 #### Status
 ACCEPTED

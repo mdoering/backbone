@@ -1,5 +1,4 @@
-Austroboletus eburneus Watling & N.M. Greg. SPECIES
-=======
+# Austroboletus eburneus Watling & N.M. Greg. SPECIES
 
 #### Status
 ACCEPTED

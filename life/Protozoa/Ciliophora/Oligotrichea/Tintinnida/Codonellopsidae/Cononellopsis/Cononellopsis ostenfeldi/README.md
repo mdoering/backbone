@@ -1,5 +1,4 @@
-Cononellopsis ostenfeldi (Schmidt) Kofoid & Campbell SPECIES
-=======
+# Cononellopsis ostenfeldi (Schmidt) Kofoid & Campbell SPECIES
 
 #### Status
 ACCEPTED

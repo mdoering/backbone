@@ -1,5 +1,4 @@
-Cantharellus caucasicus Nahutzr. SPECIES
-=======
+# Cantharellus caucasicus Nahutzr. SPECIES
 
 #### Status
 ACCEPTED

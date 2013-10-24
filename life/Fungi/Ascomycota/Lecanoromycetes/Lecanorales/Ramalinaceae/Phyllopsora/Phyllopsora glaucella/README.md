@@ -1,5 +1,4 @@
-Phyllopsora glaucella (Vain.) Timdal SPECIES
-=======
+# Phyllopsora glaucella (Vain.) Timdal SPECIES
 
 #### Status
 ACCEPTED

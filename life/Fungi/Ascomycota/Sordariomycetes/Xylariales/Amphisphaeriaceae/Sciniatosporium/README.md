@@ -1,5 +1,4 @@
-Sciniatosporium GENUS
-=======
+# Sciniatosporium GENUS
 
 #### Status
 ACCEPTED

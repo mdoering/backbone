@@ -1,5 +1,4 @@
-Bpp-1-like viruses GENUS
-=======
+# Bpp-1-like viruses GENUS
 
 #### Status
 ACCEPTED

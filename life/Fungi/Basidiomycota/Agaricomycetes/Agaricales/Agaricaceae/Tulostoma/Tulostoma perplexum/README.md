@@ -1,5 +1,4 @@
-Tulostoma perplexum Long & S. Ahmad SPECIES
-=======
+# Tulostoma perplexum Long & S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

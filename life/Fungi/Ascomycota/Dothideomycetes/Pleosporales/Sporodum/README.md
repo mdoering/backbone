@@ -1,5 +1,4 @@
-Sporodum GENUS
-=======
+# Sporodum GENUS
 
 #### Status
 ACCEPTED

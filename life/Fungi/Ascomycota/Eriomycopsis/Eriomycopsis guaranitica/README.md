@@ -1,5 +1,4 @@
-Eriomycopsis guaranitica (Speg.) U. Braun SPECIES
-=======
+# Eriomycopsis guaranitica (Speg.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

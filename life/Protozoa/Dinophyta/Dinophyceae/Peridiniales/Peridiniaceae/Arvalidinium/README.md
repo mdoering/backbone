@@ -1,5 +1,4 @@
-Arvalidinium J.K. Lentin & T.F. Vozzhennikova, 1990 GENUS
-=======
+# Arvalidinium J.K. Lentin & T.F. Vozzhennikova, 1990 GENUS
 
 #### Status
 ACCEPTED

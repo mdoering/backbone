@@ -1,5 +1,4 @@
-Asteridiella laeta (Theiss.) Hansf. SPECIES
-=======
+# Asteridiella laeta (Theiss.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

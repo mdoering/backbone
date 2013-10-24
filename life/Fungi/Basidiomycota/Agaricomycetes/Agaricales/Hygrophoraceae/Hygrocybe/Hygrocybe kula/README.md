@@ -1,5 +1,4 @@
-Hygrocybe kula Grgur. SPECIES
-=======
+# Hygrocybe kula Grgur. SPECIES
 
 #### Status
 ACCEPTED

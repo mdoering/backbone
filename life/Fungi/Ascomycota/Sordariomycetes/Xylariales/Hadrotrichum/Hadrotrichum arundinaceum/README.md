@@ -1,5 +1,4 @@
-Hadrotrichum arundinaceum Cooke & Massee SPECIES
-=======
+# Hadrotrichum arundinaceum Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

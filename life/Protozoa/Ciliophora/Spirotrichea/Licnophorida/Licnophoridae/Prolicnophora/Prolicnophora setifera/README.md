@@ -1,8 +1,7 @@
-Licnophora setifera Maskell, 1886 SPECIES
-=======
+# Prolicnophora setifera (Maskell, 1886) Jankowski, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Septobasidium burtii var. burtii VARIETY
-=======
+# Septobasidium burtii Lloyd SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Septobasidium burtii var. burtii
+Septobasidium burtii Lloyd
 
 ### Remarks
 null

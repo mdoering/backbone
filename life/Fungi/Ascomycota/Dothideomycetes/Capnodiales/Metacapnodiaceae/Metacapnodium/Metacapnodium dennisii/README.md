@@ -1,5 +1,4 @@
-Metacapnodium dennisii S. Hughes, 1977 SPECIES
-=======
+# Metacapnodium dennisii S. Hughes, 1977 SPECIES
 
 #### Status
 ACCEPTED

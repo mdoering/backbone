@@ -1,5 +1,4 @@
-Gloeothece fuscolutea Naegeli SPECIES
-=======
+# Gloeothece fuscolutea Naegeli SPECIES
 
 #### Status
 ACCEPTED

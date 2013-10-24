@@ -1,5 +1,4 @@
-Exobasidium sakishimaense Otani SPECIES
-=======
+# Exobasidium sakishimaense Otani SPECIES
 
 #### Status
 ACCEPTED

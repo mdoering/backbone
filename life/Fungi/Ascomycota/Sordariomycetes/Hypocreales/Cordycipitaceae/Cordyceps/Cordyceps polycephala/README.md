@@ -1,5 +1,4 @@
-Cordyceps polycephala Kobayasi & Shimizu SPECIES
-=======
+# Cordyceps polycephala Kobayasi & Shimizu SPECIES
 
 #### Status
 ACCEPTED

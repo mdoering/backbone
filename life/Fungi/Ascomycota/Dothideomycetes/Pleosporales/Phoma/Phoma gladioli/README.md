@@ -1,5 +1,4 @@
-Phoma gladioli (Cooke) Sacc. SPECIES
-=======
+# Phoma gladioli (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

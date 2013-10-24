@@ -1,5 +1,4 @@
-Sphaeria rhodogramma Fr. SPECIES
-=======
+# Sphaeria rhodogramma Fr. SPECIES
 
 #### Status
 ACCEPTED

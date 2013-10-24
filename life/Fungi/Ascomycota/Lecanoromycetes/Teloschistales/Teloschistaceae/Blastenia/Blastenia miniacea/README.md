@@ -1,5 +1,4 @@
-Blastenia miniacea (Tuck.) C.W. Dodge SPECIES
-=======
+# Blastenia miniacea (Tuck.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

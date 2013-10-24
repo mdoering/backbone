@@ -1,8 +1,7 @@
-Cladopyxis bacillifera Schiller SPECIES
-=======
+# Micracanthodinium bacilliferum (Schiller, 1937) Deflandre, 1937 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

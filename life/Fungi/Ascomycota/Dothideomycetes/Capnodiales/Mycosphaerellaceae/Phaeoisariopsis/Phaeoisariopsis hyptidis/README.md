@@ -1,5 +1,4 @@
-Phaeoisariopsis hyptidis (Speg.) U. Braun SPECIES
-=======
+# Phaeoisariopsis hyptidis (Speg.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

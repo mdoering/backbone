@@ -1,5 +1,4 @@
-Cornularia sphaeroidea (Ellis) Sacc. SPECIES
-=======
+# Cornularia sphaeroidea (Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetoceros rostratus Lauder SPECIES
-=======
+# Chaetoceros rostratus Lauder SPECIES
 
 #### Status
 ACCEPTED

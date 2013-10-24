@@ -1,5 +1,4 @@
-Lecanora rugulosa (Nyl.) Nyl. SPECIES
-=======
+# Lecanora rugulosa (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

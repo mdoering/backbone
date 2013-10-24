@@ -1,5 +1,4 @@
-Sphaerothyrium complanatum Moug. & Nestl. SPECIES
-=======
+# Sphaerothyrium complanatum Moug. & Nestl. SPECIES
 
 #### Status
 ACCEPTED

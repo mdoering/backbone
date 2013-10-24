@@ -1,5 +1,4 @@
-Chamaeceras olneyi (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Chamaeceras olneyi (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

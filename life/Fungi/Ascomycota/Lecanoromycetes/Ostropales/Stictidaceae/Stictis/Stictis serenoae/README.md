@@ -1,5 +1,4 @@
-Stictis serenoae Cash SPECIES
-=======
+# Stictis serenoae Cash SPECIES
 
 #### Status
 ACCEPTED

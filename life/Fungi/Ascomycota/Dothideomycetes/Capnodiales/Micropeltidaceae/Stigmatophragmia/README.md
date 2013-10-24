@@ -1,5 +1,4 @@
-Stigmatophragmia Tehon & G.L. Stout GENUS
-=======
+# Stigmatophragmia Tehon & G.L. Stout GENUS
 
 #### Status
 ACCEPTED

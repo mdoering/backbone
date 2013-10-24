@@ -1,5 +1,4 @@
-Placosphaerina Maire GENUS
-=======
+# Placosphaerina Maire GENUS
 
 #### Status
 ACCEPTED

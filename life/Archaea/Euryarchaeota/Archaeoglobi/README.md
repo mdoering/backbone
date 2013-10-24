@@ -1,5 +1,4 @@
-Archaeoglobi CLASS
-=======
+# Archaeoglobi CLASS
 
 #### Status
 ACCEPTED

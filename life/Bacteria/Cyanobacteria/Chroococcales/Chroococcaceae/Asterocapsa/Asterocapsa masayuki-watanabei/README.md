@@ -1,5 +1,4 @@
-Asterocapsa masayuki-watanabei J. Komárek SPECIES
-=======
+# Asterocapsa masayuki-watanabei J. Komárek SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ustilago aegopogonis Henn. SPECIES
-=======
+# Ustilago aegopogonis Henn. SPECIES
 
 #### Status
 ACCEPTED

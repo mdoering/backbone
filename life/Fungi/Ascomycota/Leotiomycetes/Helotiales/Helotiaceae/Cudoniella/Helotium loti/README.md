@@ -1,5 +1,4 @@
-Helotium loti var. coronillae Velen. VARIETY
-=======
+# Helotium loti Velen. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Monogr. Discom. Bohem. (Prague) 191 (1934)
 
 #### Original name
-Helotium loti var. coronillae Velen.
+Helotium loti Velen.
 
 ### Remarks
 null

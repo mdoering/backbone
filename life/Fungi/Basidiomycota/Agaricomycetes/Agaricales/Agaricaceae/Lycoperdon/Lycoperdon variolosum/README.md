@@ -1,5 +1,4 @@
-Lycoperdon variolosum L. SPECIES
-=======
+# Lycoperdon variolosum L. SPECIES
 
 #### Status
 ACCEPTED

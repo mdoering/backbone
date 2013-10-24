@@ -1,5 +1,4 @@
-Polyscytalum Riess, 1853 GENUS
-=======
+# Polyscytalum Riess, 1853 GENUS
 
 #### Status
 ACCEPTED

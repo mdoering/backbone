@@ -1,5 +1,4 @@
-Strigula amblyoloba Müll. Arg. SPECIES
-=======
+# Strigula amblyoloba Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

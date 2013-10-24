@@ -1,5 +1,4 @@
-Dicaeoma triptilii (Mont.) Kuntze SPECIES
-=======
+# Dicaeoma triptilii (Mont.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

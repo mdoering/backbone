@@ -1,5 +1,4 @@
-Flammula scorpioides (Fr.) Singer SPECIES
-=======
+# Flammula scorpioides (Fr.) Singer SPECIES
 
 #### Status
 ACCEPTED

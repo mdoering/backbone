@@ -1,5 +1,4 @@
-Pseudocercospora squalidula (Peck) Y.L. Guo & X.J. Liu SPECIES
-=======
+# Pseudocercospora squalidula (Peck) Y.L. Guo & X.J. Liu SPECIES
 
 #### Status
 ACCEPTED

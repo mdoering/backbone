@@ -1,5 +1,4 @@
-Penicillium cyanosporum Warcup SPECIES
-=======
+# Penicillium cyanosporum Warcup SPECIES
 
 #### Status
 ACCEPTED

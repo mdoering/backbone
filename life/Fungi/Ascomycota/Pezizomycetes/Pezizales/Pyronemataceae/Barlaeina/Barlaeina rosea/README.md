@@ -1,5 +1,4 @@
-Barlaeina rosea Kirschst. SPECIES
-=======
+# Barlaeina rosea Kirschst. SPECIES
 
 #### Status
 ACCEPTED

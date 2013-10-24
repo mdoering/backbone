@@ -1,5 +1,4 @@
-Leptothyrium bakerianum Sacc. SPECIES
-=======
+# Leptothyrium bakerianum Sacc. SPECIES
 
 #### Status
 ACCEPTED

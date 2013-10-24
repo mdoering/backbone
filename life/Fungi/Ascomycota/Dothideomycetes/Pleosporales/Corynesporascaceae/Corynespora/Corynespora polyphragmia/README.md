@@ -1,5 +1,4 @@
-Corynespora polyphragmia (Syd.) M.B. Ellis SPECIES
-=======
+# Corynespora polyphragmia (Syd.) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

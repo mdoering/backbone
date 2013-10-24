@@ -1,5 +1,4 @@
-Phyllosticta ranunculi Sacc. & Speg. SPECIES
-=======
+# Phyllosticta ranunculi Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

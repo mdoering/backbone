@@ -1,14 +1,13 @@
-Pleurotellus passeckerianus (Pilát) Konrad & Maubl., 1937 SPECIES
-=======
+# Clitopilus passeckerianus (Pilát) Singer, 1946 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Icon. Select. Fung. 6: 361 (1937)
+Farlowia 2: 560 (1946)
 
 #### Original name
 Pleurotus passeckerianus Pilát, 1935

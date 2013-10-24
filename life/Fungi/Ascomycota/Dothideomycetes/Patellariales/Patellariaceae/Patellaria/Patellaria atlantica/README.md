@@ -1,5 +1,4 @@
-Patellaria atlantica (Müll. Arg.) SPECIES
-=======
+# Patellaria atlantica (Müll. Arg.) SPECIES
 
 #### Status
 ACCEPTED

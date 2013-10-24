@@ -1,5 +1,4 @@
-Dalmatella polyformis Ercegovic SPECIES
-=======
+# Dalmatella polyformis Ercegovic SPECIES
 
 #### Status
 ACCEPTED

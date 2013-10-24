@@ -1,5 +1,4 @@
-Acarocybiopsis cubitaensis J. Mena, A. Hern. Gut. & Mercado, 1999 SPECIES
-=======
+# Acarocybiopsis cubitaensis J. Mena, A. Hern. Gut. & Mercado, 1999 SPECIES
 
 #### Status
 ACCEPTED

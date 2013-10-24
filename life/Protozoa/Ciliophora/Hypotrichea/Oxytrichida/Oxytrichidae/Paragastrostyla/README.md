@@ -1,5 +1,4 @@
-Paragastrostyla Hemberger, 1985 GENUS
-=======
+# Paragastrostyla Hemberger, 1985 GENUS
 
 #### Status
 ACCEPTED

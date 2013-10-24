@@ -1,5 +1,4 @@
-Tuscarusa Haeckel, 1887 GENUS
-=======
+# Tuscarusa Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Valsa acerina Peck, 1876 SPECIES
-=======
+# Diaporthe acerina (Peck) Sacc., 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Rep. N. Y. St. Mus. nat. Hist. 28: 73 (1876)
+Syll. fung. (Abellini) 1: 611 (1882)
 
 #### Original name
 Valsa acerina Peck, 1876

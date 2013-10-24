@@ -1,5 +1,4 @@
-Scutularia leucochaete (Ellis & Everh.) Sacc. SPECIES
-=======
+# Scutularia leucochaete (Ellis & Everh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

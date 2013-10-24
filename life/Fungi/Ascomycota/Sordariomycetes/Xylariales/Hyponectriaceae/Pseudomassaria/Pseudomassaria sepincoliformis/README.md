@@ -1,14 +1,13 @@
-Apiosporella sepincolaeformis (De Not.) Theiss. SPECIES
-=======
+# Pseudomassaria sepincoliformis (De Not.) Arx, 1952 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ber. schweiz. bot. Ges. 62: 350 (1952)
 
 #### Original name
 null

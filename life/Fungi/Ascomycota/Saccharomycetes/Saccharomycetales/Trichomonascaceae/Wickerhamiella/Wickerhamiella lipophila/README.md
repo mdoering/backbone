@@ -1,5 +1,4 @@
-Wickerhamiella lipophila Lachance, J.M. Bowles, Carm. Muell. & Starmer, 1999 SPECIES
-=======
+# Wickerhamiella lipophila Lachance, J.M. Bowles, Carm. Muell. & Starmer, 1999 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnopilus micromegas (Berk.) Manjula SPECIES
-=======
+# Gymnopilus micromegas (Berk.) Manjula SPECIES
 
 #### Status
 ACCEPTED

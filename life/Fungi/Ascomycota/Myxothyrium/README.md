@@ -1,5 +1,4 @@
-Myxothyrium Bubák & Kabát GENUS
-=======
+# Myxothyrium Bubák & Kabát GENUS
 
 #### Status
 ACCEPTED

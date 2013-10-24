@@ -1,5 +1,4 @@
-Alternaria ulmi (Fuckel) E.G. Simmons SPECIES
-=======
+# Alternaria ulmi (Fuckel) E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

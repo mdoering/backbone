@@ -1,5 +1,4 @@
-Eopyrenula grandicula Coppins SPECIES
-=======
+# Eopyrenula grandicula Coppins SPECIES
 
 #### Status
 ACCEPTED

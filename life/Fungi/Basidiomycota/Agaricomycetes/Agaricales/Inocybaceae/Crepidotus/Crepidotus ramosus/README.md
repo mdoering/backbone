@@ -1,5 +1,4 @@
-Crepidotus ramosus Hesler & A.H. Sm. SPECIES
-=======
+# Crepidotus ramosus Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

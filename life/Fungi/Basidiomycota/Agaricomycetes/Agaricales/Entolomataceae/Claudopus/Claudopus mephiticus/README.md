@@ -1,5 +1,4 @@
-Claudopus mephiticus Murrill SPECIES
-=======
+# Claudopus mephiticus Murrill SPECIES
 
 #### Status
 ACCEPTED

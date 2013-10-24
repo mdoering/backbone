@@ -1,5 +1,4 @@
-Solenotryma ichikawai SPECIES
-=======
+# Solenotryma ichikawai SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Zahlbrucknerella maxima Henssen SPECIES
-=======
+# Zahlbrucknerella maxima Henssen SPECIES
 
 #### Status
 ACCEPTED

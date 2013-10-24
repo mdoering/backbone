@@ -1,5 +1,4 @@
-Patellaria permutata (Stirt.) Müll. Arg. SPECIES
-=======
+# Patellaria permutata (Stirt.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

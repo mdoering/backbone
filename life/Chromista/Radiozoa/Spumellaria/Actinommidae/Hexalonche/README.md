@@ -1,5 +1,4 @@
-Hexalonche Haeckel, 1881 GENUS
-=======
+# Hexalonche Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

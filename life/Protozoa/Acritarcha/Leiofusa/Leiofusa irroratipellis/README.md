@@ -1,5 +1,4 @@
-Leiofusa irroratipellis Loeblich, 1970 SPECIES
-=======
+# Leiofusa irroratipellis Loeblich, 1970 SPECIES
 
 #### Status
 ACCEPTED

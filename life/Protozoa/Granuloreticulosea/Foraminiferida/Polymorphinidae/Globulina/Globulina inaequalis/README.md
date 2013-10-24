@@ -1,5 +1,4 @@
-Globulina inaequalis SPECIES
-=======
+# Globulina inaequalis SPECIES
 
 #### Status
 ACCEPTED

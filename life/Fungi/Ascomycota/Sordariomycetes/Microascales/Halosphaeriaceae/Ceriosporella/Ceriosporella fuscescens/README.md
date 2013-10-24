@@ -1,5 +1,4 @@
-Ceriosporella fuscescens (Niessl) Berl. SPECIES
-=======
+# Ceriosporella fuscescens (Niessl) Berl. SPECIES
 
 #### Status
 ACCEPTED

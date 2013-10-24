@@ -1,5 +1,4 @@
-Asterina scabiosae Richon SPECIES
-=======
+# Asterina scabiosae Richon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pycnostysanus resinae Lindau SPECIES
-=======
+# Pycnostysanus resinae Lindau SPECIES
 
 #### Status
 ACCEPTED

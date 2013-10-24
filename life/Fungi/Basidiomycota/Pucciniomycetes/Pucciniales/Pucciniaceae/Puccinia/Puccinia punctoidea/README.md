@@ -1,5 +1,4 @@
-Puccinia punctoidea P. Syd. & Syd. SPECIES
-=======
+# Puccinia punctoidea P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

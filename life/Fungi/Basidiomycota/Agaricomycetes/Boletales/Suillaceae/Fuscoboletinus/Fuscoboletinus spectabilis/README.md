@@ -1,5 +1,4 @@
-Fuscoboletinus spectabilis (Peck) Pomerl. & A.H. Sm. SPECIES
-=======
+# Fuscoboletinus spectabilis (Peck) Pomerl. & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

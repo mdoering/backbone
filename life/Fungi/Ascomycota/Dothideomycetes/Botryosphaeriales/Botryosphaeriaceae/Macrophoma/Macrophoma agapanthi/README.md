@@ -1,5 +1,4 @@
-Macrophoma agapanthi Traverso & Spessa SPECIES
-=======
+# Macrophoma agapanthi Traverso & Spessa SPECIES
 
 #### Status
 ACCEPTED

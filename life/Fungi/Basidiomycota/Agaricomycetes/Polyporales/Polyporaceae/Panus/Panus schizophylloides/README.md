@@ -1,5 +1,4 @@
-Panus schizophylloides Klotzsch SPECIES
-=======
+# Panus schizophylloides Klotzsch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sarcogyne distinguenda Th. Fr. SPECIES
-=======
+# Sarcogyne distinguenda Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

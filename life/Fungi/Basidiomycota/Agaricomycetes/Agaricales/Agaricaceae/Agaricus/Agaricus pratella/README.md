@@ -1,5 +1,4 @@
-Agaricus pratella J. Otto SPECIES
-=======
+# Agaricus pratella J. Otto SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Usnea robusta Stirt. SPECIES
-=======
+# Usnea robusta Stirt. SPECIES
 
 #### Status
 ACCEPTED

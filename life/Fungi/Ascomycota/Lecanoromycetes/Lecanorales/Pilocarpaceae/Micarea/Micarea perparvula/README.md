@@ -1,5 +1,4 @@
-Micarea perparvula (Nyl.) Coppins & Printzen SPECIES
-=======
+# Micarea perparvula (Nyl.) Coppins & Printzen SPECIES
 
 #### Status
 ACCEPTED

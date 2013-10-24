@@ -1,5 +1,4 @@
-Lecidea floridensis Nyl. SPECIES
-=======
+# Lecidea floridensis Nyl. SPECIES
 
 #### Status
 ACCEPTED

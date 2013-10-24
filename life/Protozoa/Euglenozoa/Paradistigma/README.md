@@ -1,5 +1,4 @@
-Paradistigma I. Wita, 1974 GENUS
-=======
+# Paradistigma I. Wita, 1974 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerostilbella (Hennings) Saccardo & D. Saccardo, 1905 GENUS
-=======
+# Sphaerostilbella (Hennings) Saccardo & D. Saccardo, 1905 GENUS
 
 #### Status
 ACCEPTED

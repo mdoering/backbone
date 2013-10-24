@@ -1,5 +1,4 @@
-Micrhystridium plurispinum Baltes, 1969 SPECIES
-=======
+# Micrhystridium plurispinum Baltes, 1969 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora scorzonerae (Höhn.) U. Braun SPECIES
-=======
+# Cercospora scorzonerae (Höhn.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

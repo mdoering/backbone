@@ -1,5 +1,4 @@
-Polyalacorys Haeckel, 1887 GENUS
-=======
+# Polyalacorys Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

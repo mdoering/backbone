@@ -1,5 +1,4 @@
-Blastosporella zonata T.J. Baroni & Franco-Mol., 2007 SPECIES
-=======
+# Blastosporella zonata T.J. Baroni & Franco-Mol., 2007 SPECIES
 
 #### Status
 ACCEPTED

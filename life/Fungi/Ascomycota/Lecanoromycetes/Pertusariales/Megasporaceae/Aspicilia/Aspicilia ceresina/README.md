@@ -1,5 +1,4 @@
-Aspicilia ceresina SPECIES
-=======
+# Aspicilia ceresina SPECIES
 
 #### Status
 ACCEPTED

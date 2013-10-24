@@ -1,5 +1,4 @@
-Asterina platypoda Syd. & P. Syd. SPECIES
-=======
+# Asterina platypoda Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

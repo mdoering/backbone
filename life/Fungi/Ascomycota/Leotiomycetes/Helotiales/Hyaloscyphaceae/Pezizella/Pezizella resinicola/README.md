@@ -1,5 +1,4 @@
-Pezizella resinicola Rehm SPECIES
-=======
+# Pezizella resinicola Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenopsidium terrigenum (Th. Fr.) Forssell SPECIES
-=======
+# Pyrenopsidium terrigenum (Th. Fr.) Forssell SPECIES
 
 #### Status
 ACCEPTED

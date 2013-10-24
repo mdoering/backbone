@@ -1,5 +1,4 @@
-Fusicladium transversum Sacc. SPECIES
-=======
+# Fusicladium transversum Sacc. SPECIES
 
 #### Status
 ACCEPTED

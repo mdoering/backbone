@@ -1,5 +1,4 @@
-Solenopezia dorcas (Berk. & Broome) Sacc. SPECIES
-=======
+# Solenopezia dorcas (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

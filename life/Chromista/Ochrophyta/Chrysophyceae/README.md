@@ -1,5 +1,4 @@
-Chrysophyceae CLASS
-=======
+# Chrysophyceae CLASS
 
 #### Status
 ACCEPTED

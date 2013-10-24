@@ -1,5 +1,4 @@
-Cercospora urariae Sawada SPECIES
-=======
+# Cercospora urariae Sawada SPECIES
 
 #### Status
 ACCEPTED

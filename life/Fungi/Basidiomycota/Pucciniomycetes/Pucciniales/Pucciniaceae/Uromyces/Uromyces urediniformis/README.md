@@ -1,5 +1,4 @@
-Uromyces urediniformis (Müll. Hal.) Dietel SPECIES
-=======
+# Uromyces urediniformis (Müll. Hal.) Dietel SPECIES
 
 #### Status
 ACCEPTED

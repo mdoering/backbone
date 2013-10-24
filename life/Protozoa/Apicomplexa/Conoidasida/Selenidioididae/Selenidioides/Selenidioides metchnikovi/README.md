@@ -1,8 +1,7 @@
-Selenidium metchnikovi Léger & Dubosq, 1917 SPECIES
-=======
+# Selenidioides metchnikovi Léger & Dubosq, 1917 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

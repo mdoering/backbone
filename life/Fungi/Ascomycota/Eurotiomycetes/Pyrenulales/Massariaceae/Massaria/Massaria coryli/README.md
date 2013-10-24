@@ -1,5 +1,4 @@
-Massaria coryli P. Karst. SPECIES
-=======
+# Massaria coryli P. Karst. SPECIES
 
 #### Status
 ACCEPTED

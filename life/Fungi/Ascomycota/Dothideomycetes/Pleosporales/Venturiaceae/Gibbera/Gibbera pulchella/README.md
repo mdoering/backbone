@@ -1,14 +1,13 @@
-Venturia pulchella Cooke & Peck, 1873 SPECIES
-=======
+# Gibbera pulchella (Cooke & Peck) Petr., 1947 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Rep. Reg. Univ. St. N. Y. 25: 106 (1873)
+Sydowia 1(4-6): 200 (1947)
 
 #### Original name
 Venturia pulchella Cooke & Peck, 1873

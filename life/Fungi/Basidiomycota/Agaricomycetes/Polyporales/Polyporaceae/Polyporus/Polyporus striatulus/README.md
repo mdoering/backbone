@@ -1,5 +1,4 @@
-Polyporus striatulus (Lloyd) Imazeki SPECIES
-=======
+# Polyporus striatulus (Lloyd) Imazeki SPECIES
 
 #### Status
 ACCEPTED

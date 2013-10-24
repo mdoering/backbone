@@ -1,5 +1,4 @@
-Nannizziopsis mirabilis Uchiy., Kamiya & Udagawa SPECIES
-=======
+# Nannizziopsis mirabilis Uchiy., Kamiya & Udagawa SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Zoophthora tachypori Balazy, 1993 SPECIES
-=======
+# Zoophthora tachypori Balazy, 1993 SPECIES
 
 #### Status
 ACCEPTED

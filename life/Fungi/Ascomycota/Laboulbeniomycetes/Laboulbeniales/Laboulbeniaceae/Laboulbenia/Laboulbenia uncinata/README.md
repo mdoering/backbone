@@ -1,5 +1,4 @@
-Laboulbenia uncinata Thaxt. SPECIES
-=======
+# Laboulbenia uncinata Thaxt. SPECIES
 
 #### Status
 ACCEPTED

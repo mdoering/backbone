@@ -1,5 +1,4 @@
-Sporormiella schotteriana (Breton & Faurel) S.I. Ahmed & Cain SPECIES
-=======
+# Sporormiella schotteriana (Breton & Faurel) S.I. Ahmed & Cain SPECIES
 
 #### Status
 ACCEPTED

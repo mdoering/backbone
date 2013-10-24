@@ -1,5 +1,4 @@
-Meliola catubigensis H.S. Yates SPECIES
-=======
+# Meliola catubigensis H.S. Yates SPECIES
 
 #### Status
 ACCEPTED

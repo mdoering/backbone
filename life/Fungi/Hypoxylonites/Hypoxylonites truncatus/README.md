@@ -1,5 +1,4 @@
-Hypoxylonites truncatus Elsik SPECIES
-=======
+# Hypoxylonites truncatus Elsik SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma fuegiana Speg. SPECIES
-=======
+# Phoma fuegiana Speg. SPECIES
 
 #### Status
 ACCEPTED

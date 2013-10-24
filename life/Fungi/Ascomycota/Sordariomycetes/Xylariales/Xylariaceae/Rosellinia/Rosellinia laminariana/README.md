@@ -1,5 +1,4 @@
-Rosellinia laminariana G.K. Sutherl., 1916 SPECIES
-=======
+# Rosellinia laminariana G.K. Sutherl., 1916 SPECIES
 
 #### Status
 ACCEPTED

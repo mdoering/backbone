@@ -1,17 +1,16 @@
-Cylomyces Clem. GENUS
-=======
+# Listeromyces Penz. & Sacc. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Clements & Shear, Gen. fung. (Minneapolis), Edn 2 404 (1931)
+Malpighia 15: 258 (1901)
 
 #### Original name
-Cylomyces Clem.
+Listeromyces Penz. & Sacc.
 
 ### Remarks
 null

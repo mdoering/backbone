@@ -1,5 +1,4 @@
-Ramularia saximontanensis Solheim SPECIES
-=======
+# Ramularia saximontanensis Solheim SPECIES
 
 #### Status
 ACCEPTED

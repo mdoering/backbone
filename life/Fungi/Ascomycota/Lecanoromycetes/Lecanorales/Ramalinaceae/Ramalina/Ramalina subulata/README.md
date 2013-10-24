@@ -1,5 +1,4 @@
-Ramalina subulata Mont. SPECIES
-=======
+# Ramalina subulata Mont. SPECIES
 
 #### Status
 ACCEPTED

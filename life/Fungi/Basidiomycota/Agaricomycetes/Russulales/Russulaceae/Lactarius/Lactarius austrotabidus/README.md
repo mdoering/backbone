@@ -1,5 +1,4 @@
-Lactarius austrotabidus Verbeken & E. Horak SPECIES
-=======
+# Lactarius austrotabidus Verbeken & E. Horak SPECIES
 
 #### Status
 ACCEPTED

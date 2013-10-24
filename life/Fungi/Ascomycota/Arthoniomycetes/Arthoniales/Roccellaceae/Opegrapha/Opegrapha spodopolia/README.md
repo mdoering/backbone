@@ -1,5 +1,4 @@
-Opegrapha spodopolia Nyl. SPECIES
-=======
+# Opegrapha spodopolia Nyl. SPECIES
 
 #### Status
 ACCEPTED

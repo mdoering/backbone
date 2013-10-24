@@ -1,5 +1,4 @@
-Linocarpon verminosum (Mont.) K.D. Hyde SPECIES
-=======
+# Linocarpon verminosum (Mont.) K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

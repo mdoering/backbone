@@ -1,5 +1,4 @@
-Sporidesmium populinum Bres. SPECIES
-=======
+# Sporidesmium populinum Bres. SPECIES
 
 #### Status
 ACCEPTED

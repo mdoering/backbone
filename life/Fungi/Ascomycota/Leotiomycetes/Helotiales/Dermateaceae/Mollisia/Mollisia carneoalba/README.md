@@ -1,5 +1,4 @@
-Mollisia carneoalba Rodway SPECIES
-=======
+# Mollisia carneoalba Rodway SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Perisincirra Yankovskij, 1978 GENUS
-=======
+# Perisincirra Yankovskij, 1978 GENUS
 
 #### Status
 ACCEPTED

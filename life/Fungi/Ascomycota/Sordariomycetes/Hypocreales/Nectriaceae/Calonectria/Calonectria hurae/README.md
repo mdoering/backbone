@@ -1,5 +1,4 @@
-Calonectria hurae (Linder & Whetzel) L. Lombard, M.J. Wingf. & Crous, 2010 SPECIES
-=======
+# Calonectria hurae (Linder & Whetzel) L. Lombard, M.J. Wingf. & Crous, 2010 SPECIES
 
 #### Status
 ACCEPTED

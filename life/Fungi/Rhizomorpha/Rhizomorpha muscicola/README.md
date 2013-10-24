@@ -1,5 +1,4 @@
-Rhizomorpha muscicola var. muscicola VARIETY
-=======
+# Rhizomorpha muscicola Ach. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 K. Vetensk-Acad. Handl. 229 (1814)
 
 #### Original name
-Rhizomorpha muscicola var. muscicola
+Rhizomorpha muscicola Ach.
 
 ### Remarks
 null

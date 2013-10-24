@@ -1,5 +1,4 @@
-Coelothamnus Haeckel, 1887 GENUS
-=======
+# Coelothamnus Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

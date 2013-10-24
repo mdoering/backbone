@@ -1,5 +1,4 @@
-Biatora castanearum Jatta SPECIES
-=======
+# Biatora castanearum Jatta SPECIES
 
 #### Status
 ACCEPTED

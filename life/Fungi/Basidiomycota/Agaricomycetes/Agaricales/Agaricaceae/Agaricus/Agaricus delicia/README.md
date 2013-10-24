@@ -1,5 +1,4 @@
-Agaricus delicia Berk. & Broome SPECIES
-=======
+# Agaricus delicia Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

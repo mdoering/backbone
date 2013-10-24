@@ -1,5 +1,4 @@
-Dialonectria bambusae (Berk. & Broome) Cooke SPECIES
-=======
+# Dialonectria bambusae (Berk. & Broome) Cooke SPECIES
 
 #### Status
 ACCEPTED

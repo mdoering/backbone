@@ -1,5 +1,4 @@
-Aspergillus pseudocarbonarius Mosseray SPECIES
-=======
+# Aspergillus pseudocarbonarius Mosseray SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cylindrosympodium cryptocaryae B.C. Paulus, Gadek & K.D. Hyde SPECIES
-=======
+# Cylindrosympodium cryptocaryae B.C. Paulus, Gadek & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

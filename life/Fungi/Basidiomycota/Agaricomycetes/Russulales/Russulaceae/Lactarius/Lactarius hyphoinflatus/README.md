@@ -1,5 +1,4 @@
-Lactarius hyphoinflatus R.W. Rayner, 2003 SPECIES
-=======
+# Lactarius hyphoinflatus R.W. Rayner, 2003 SPECIES
 
 #### Status
 ACCEPTED

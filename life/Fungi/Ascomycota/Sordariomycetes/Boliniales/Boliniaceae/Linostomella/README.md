@@ -1,5 +1,4 @@
-Linostomella GENUS
-=======
+# Linostomella GENUS
 
 #### Status
 ACCEPTED

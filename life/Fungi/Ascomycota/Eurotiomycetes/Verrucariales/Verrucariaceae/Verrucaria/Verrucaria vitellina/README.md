@@ -1,5 +1,4 @@
-Verrucaria vitellina Stizenb. SPECIES
-=======
+# Verrucaria vitellina Stizenb. SPECIES
 
 #### Status
 ACCEPTED

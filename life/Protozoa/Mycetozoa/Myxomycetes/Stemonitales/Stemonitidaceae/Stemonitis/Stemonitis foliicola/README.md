@@ -1,5 +1,4 @@
-Stemonitis foliicola Ing, 1967 SPECIES
-=======
+# Stemonitis foliicola Ing, 1967 SPECIES
 
 #### Status
 ACCEPTED

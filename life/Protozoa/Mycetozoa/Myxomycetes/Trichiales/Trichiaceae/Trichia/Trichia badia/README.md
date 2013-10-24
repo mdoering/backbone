@@ -1,5 +1,4 @@
-Trichia badia Fr. SPECIES
-=======
+# Trichia badia Fr. SPECIES
 
 #### Status
 ACCEPTED

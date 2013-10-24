@@ -1,5 +1,4 @@
-Kendrickiella K. Jacobs & M.J. Wingf. GENUS
-=======
+# Kendrickiella K. Jacobs & M.J. Wingf. GENUS
 
 #### Status
 ACCEPTED

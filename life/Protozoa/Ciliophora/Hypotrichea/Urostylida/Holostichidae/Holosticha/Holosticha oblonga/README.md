@@ -1,5 +1,4 @@
-Holosticha oblonga Schewiakoff, 1893 SPECIES
-=======
+# Holosticha oblonga Schewiakoff, 1893 SPECIES
 
 #### Status
 ACCEPTED

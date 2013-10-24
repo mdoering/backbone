@@ -1,5 +1,4 @@
-Lecanora steropea (Ach.) Nyl. SPECIES
-=======
+# Lecanora steropea (Ach.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

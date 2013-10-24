@@ -1,5 +1,4 @@
-Ellipsaletes punctatus Sah, Maithy & Bhargava, 1977 SPECIES
-=======
+# Ellipsaletes punctatus Sah, Maithy & Bhargava, 1977 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Drepanomonas sphagni Kahl, 1931 SPECIES
-=======
+# Drepanomonas sphagni Kahl, 1931 SPECIES
 
 #### Status
 ACCEPTED

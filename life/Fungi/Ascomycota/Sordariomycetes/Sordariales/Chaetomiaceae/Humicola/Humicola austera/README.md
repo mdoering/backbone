@@ -1,5 +1,4 @@
-Humicola austera De Bert. SPECIES
-=======
+# Humicola austera De Bert. SPECIES
 
 #### Status
 ACCEPTED

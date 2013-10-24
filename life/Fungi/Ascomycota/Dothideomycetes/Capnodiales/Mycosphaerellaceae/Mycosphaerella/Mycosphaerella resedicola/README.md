@@ -1,5 +1,4 @@
-Mycosphaerella resedicola Ade SPECIES
-=======
+# Mycosphaerella resedicola Ade SPECIES
 
 #### Status
 ACCEPTED

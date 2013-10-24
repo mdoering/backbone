@@ -1,8 +1,7 @@
-Uredo aloes Cooke, 1891 SPECIES
-=======
+# Uromyces aloes (Cooke) Magnus, 1892 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

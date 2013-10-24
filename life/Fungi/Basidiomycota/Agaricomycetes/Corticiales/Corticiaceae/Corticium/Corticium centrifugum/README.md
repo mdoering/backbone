@@ -1,5 +1,4 @@
-Corticium centrifugum var. centrifugum VARIETY
-=======
+# Corticium centrifugum (Weinm.) Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Hymenomyc. eur. (Upsaliae) 658 (1874)
 
 #### Original name
-Corticium centrifugum var. centrifugum
+Thelephora centrifuga Weinm.
 
 ### Remarks
 null

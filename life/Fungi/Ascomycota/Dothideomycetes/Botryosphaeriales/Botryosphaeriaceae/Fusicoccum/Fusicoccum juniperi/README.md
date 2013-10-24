@@ -1,5 +1,4 @@
-Fusicoccum juniperi (Fr.) P. Karst. SPECIES
-=======
+# Fusicoccum juniperi (Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

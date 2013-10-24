@@ -1,5 +1,4 @@
-Psilosphaera plicata Sah & Kar, 1974 SPECIES
-=======
+# Psilosphaera plicata Sah & Kar, 1974 SPECIES
 
 #### Status
 ACCEPTED

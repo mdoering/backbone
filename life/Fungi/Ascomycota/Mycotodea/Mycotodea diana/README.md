@@ -1,5 +1,4 @@
-Mycotodea diana (Sacc. & Speg.) Kirschst. SPECIES
-=======
+# Mycotodea diana (Sacc. & Speg.) Kirschst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gelatinopsis septata Aptroot, Cand. & Verkley SPECIES
-=======
+# Gelatinopsis septata Aptroot, Cand. & Verkley SPECIES
 
 #### Status
 ACCEPTED

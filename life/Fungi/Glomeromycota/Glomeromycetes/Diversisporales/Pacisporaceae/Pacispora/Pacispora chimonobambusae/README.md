@@ -1,14 +1,13 @@
-Glomus chimonobambusae C.G. Wu & Y.S. Liu, 1995 SPECIES
-=======
+# Pacispora chimonobambusae (C.G. Wu & Y.S. Liu) Sieverd. & Oehl ex C. Walker, Vestberg & A. Schüssler, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Wu, Liu, Hwuang, Wang & Chao, Mycotaxon 53: 284 (1995)
+in Walker, Vestberg & Schüssler, Mycol. Res. 111(3): 255 (2007)
 
 #### Original name
 Glomus chimonobambusae C.G. Wu & Y.S. Liu, 1995

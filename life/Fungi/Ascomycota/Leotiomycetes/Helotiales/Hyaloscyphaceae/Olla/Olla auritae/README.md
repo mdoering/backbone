@@ -1,5 +1,4 @@
-Olla auritae Velen. SPECIES
-=======
+# Olla auritae Velen. SPECIES
 
 #### Status
 ACCEPTED

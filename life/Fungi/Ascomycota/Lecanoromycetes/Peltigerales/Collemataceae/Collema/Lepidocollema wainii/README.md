@@ -1,5 +1,4 @@
-Lepidocollema wainii Zukal SPECIES
-=======
+# Lepidocollema wainii Zukal SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bullaria arthmiana (H.S. Jacks.) Arthur & Mains SPECIES
-=======
+# Bullaria arthmiana (H.S. Jacks.) Arthur & Mains SPECIES
 
 #### Status
 ACCEPTED

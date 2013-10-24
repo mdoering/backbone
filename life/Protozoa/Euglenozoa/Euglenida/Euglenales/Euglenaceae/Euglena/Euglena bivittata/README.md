@@ -1,5 +1,4 @@
-Euglena bivittata Conrad SPECIES
-=======
+# Euglena bivittata Conrad SPECIES
 
 #### Status
 ACCEPTED

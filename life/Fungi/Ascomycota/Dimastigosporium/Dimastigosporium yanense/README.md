@@ -1,5 +1,4 @@
-Dimastigosporium yanense S.K. Yadav & Bhat SPECIES
-=======
+# Dimastigosporium yanense S.K. Yadav & Bhat SPECIES
 
 #### Status
 ACCEPTED

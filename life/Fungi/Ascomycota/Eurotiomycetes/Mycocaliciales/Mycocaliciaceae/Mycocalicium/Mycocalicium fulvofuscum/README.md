@@ -1,5 +1,4 @@
-Mycocalicium fulvofuscum (F. Wilson ex F.M. Bailey) Tibell SPECIES
-=======
+# Mycocalicium fulvofuscum (F. Wilson ex F.M. Bailey) Tibell SPECIES
 
 #### Status
 ACCEPTED

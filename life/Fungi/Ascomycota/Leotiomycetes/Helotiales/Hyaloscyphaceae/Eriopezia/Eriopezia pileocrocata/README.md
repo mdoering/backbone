@@ -1,5 +1,4 @@
-Eriopezia pileocrocata (P. Crouan & H. Crouan) Rehm SPECIES
-=======
+# Eriopezia pileocrocata (P. Crouan & H. Crouan) Rehm SPECIES
 
 #### Status
 ACCEPTED

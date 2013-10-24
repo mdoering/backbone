@@ -1,5 +1,4 @@
-Pluricellaesporites minusculus Sheffy & Dilcher SPECIES
-=======
+# Pluricellaesporites minusculus Sheffy & Dilcher SPECIES
 
 #### Status
 ACCEPTED

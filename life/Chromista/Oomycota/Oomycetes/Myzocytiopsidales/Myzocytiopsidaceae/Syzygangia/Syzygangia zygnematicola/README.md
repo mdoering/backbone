@@ -1,5 +1,4 @@
-Syzygangia zygnematicola M.W. Dick, 1997 SPECIES
-=======
+# Syzygangia zygnematicola M.W. Dick, 1997 SPECIES
 
 #### Status
 ACCEPTED

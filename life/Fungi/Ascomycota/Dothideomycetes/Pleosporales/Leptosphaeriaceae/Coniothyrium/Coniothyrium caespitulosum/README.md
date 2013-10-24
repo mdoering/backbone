@@ -1,17 +1,16 @@
-Cytoplea caespitulosa f. caespitulosa FORM
-=======
+# Coniothyrium caespitulosum Sacc., 1878 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Michelia 1(no. 2): 206 (1878)
 
 #### Original name
-Cytoplea caespitulosa f. caespitulosa
+Coniothyrium caespitulosum Sacc., 1878
 
 ### Remarks
 null

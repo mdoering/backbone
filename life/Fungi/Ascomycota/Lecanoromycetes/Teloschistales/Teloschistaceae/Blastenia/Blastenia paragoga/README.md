@@ -1,5 +1,4 @@
-Blastenia paragoga Körb. SPECIES
-=======
+# Blastenia paragoga Körb. SPECIES
 
 #### Status
 ACCEPTED

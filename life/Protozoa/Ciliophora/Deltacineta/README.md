@@ -1,5 +1,4 @@
-Deltacineta Jankowski, 1981 GENUS
-=======
+# Deltacineta Jankowski, 1981 GENUS
 
 #### Status
 ACCEPTED

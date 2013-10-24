@@ -1,5 +1,4 @@
-Trachysphaeridium rude Sin & Liu in Wang & Chen, 1987 SPECIES
-=======
+# Trachysphaeridium rude Sin & Liu in Wang & Chen, 1987 SPECIES
 
 #### Status
 ACCEPTED

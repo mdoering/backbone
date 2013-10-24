@@ -1,5 +1,4 @@
-Parmelia fragilis Lynge SPECIES
-=======
+# Parmelia fragilis Lynge SPECIES
 
 #### Status
 ACCEPTED

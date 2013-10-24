@@ -1,5 +1,4 @@
-Porina communis (DC.) Chev. SPECIES
-=======
+# Porina communis (DC.) Chev. SPECIES
 
 #### Status
 ACCEPTED

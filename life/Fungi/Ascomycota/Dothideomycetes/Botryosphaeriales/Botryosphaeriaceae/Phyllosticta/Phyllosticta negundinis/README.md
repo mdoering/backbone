@@ -1,5 +1,4 @@
-Phyllosticta negundinis Sacc. & Speg. SPECIES
-=======
+# Phyllosticta negundinis Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

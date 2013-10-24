@@ -1,5 +1,4 @@
-Phyllosticta berolinensis Henn. SPECIES
-=======
+# Phyllosticta berolinensis Henn. SPECIES
 
 #### Status
 ACCEPTED

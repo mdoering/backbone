@@ -1,5 +1,4 @@
-Psathyra cubispora Mont. SPECIES
-=======
+# Psathyra cubispora Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma berberidella Sacc. & P. Syd. SPECIES
-=======
+# Phoma berberidella Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramularia eximia Bubák SPECIES
-=======
+# Ramularia eximia Bubák SPECIES
 
 #### Status
 ACCEPTED

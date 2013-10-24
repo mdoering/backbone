@@ -1,5 +1,4 @@
-Cercozoa Desportes & Ginsburger-Vogel, 1977 PHYLUM
-=======
+# Cercozoa Desportes & Ginsburger-Vogel, 1977 PHYLUM
 
 #### Status
 ACCEPTED

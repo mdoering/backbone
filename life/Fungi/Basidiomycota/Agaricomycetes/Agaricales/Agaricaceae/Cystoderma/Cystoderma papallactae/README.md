@@ -1,5 +1,4 @@
-Cystoderma papallactae I. Saar & Laessøe SPECIES
-=======
+# Cystoderma papallactae I. Saar & Laessøe SPECIES
 
 #### Status
 ACCEPTED

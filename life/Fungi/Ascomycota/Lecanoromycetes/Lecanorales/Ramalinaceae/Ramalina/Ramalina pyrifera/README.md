@@ -1,5 +1,4 @@
-Ramalina pyrifera (Nyl.) Motyka SPECIES
-=======
+# Ramalina pyrifera (Nyl.) Motyka SPECIES
 
 #### Status
 ACCEPTED

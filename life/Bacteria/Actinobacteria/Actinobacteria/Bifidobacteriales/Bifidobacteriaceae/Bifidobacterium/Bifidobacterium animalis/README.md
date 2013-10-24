@@ -1,8 +1,7 @@
-Bifidobacterium lactis Meile et al., 1997 SPECIES
-=======
+# Bifidobacterium animalis (Mitsuoka, 1969) Scardovi & Trovatelli, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

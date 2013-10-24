@@ -1,5 +1,4 @@
-Tricholoma gravabile (Britzelm.) Sacc. SPECIES
-=======
+# Tricholoma gravabile (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

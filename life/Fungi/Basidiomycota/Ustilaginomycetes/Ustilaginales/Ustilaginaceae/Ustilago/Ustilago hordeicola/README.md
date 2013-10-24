@@ -1,5 +1,4 @@
-Ustilago hordeicola Speg. SPECIES
-=======
+# Ustilago hordeicola Speg. SPECIES
 
 #### Status
 ACCEPTED

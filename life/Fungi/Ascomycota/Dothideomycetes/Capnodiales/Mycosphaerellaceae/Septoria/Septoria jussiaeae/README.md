@@ -1,5 +1,4 @@
-Septoria jussiaeae Ellis & Everh. SPECIES
-=======
+# Septoria jussiaeae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

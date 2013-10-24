@@ -1,5 +1,4 @@
-Trichopeziza pollinaria (Cooke) Sacc. SPECIES
-=======
+# Trichopeziza pollinaria (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

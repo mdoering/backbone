@@ -1,5 +1,4 @@
-Trypethelium luridum Zahlbr. SPECIES
-=======
+# Trypethelium luridum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

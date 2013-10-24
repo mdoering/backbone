@@ -1,5 +1,4 @@
-Parmelia fahlunensis var. fahlunensis VARIETY
-=======
+# Parmelia fahlunensis (L.) Ach. SPECIES
 
 #### Status
 ACCEPTED

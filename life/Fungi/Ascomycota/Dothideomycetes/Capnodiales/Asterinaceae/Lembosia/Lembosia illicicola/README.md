@@ -1,5 +1,4 @@
-Lembosia illicicola Tracy & Earle SPECIES
-=======
+# Lembosia illicicola Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

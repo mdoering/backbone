@@ -1,17 +1,16 @@
-Lindauomyces Koord. GENUS
-=======
+# Arthrobotryum Cesati, 1854 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Verh. K. Akad. Wet. , tweede sect. 13: 240 (1907)
+Hedwigia 1: post p. 26, ad tab. 4 (1854)
 
 #### Original name
-Lindauomyces Koord.
+Arthrobotryum Cesati, 1854
 
 ### Remarks
 null

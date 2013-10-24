@@ -1,5 +1,4 @@
-Eubelonis ocoteae Van der Byl SPECIES
-=======
+# Eubelonis ocoteae Van der Byl SPECIES
 
 #### Status
 ACCEPTED

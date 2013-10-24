@@ -1,5 +1,4 @@
-Refractohilum peltigerae (Keissl.) D. Hawksw. SPECIES
-=======
+# Refractohilum peltigerae (Keissl.) D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

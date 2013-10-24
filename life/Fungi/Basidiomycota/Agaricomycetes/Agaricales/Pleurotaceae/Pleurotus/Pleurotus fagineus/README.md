@@ -1,5 +1,4 @@
-Pleurotus fagineus Velen. SPECIES
-=======
+# Pleurotus fagineus Velen. SPECIES
 
 #### Status
 ACCEPTED

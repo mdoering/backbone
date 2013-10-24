@@ -1,5 +1,4 @@
-Belemnospora fuliginea B. Sutton, Nawawi & Kuthub. SPECIES
-=======
+# Belemnospora fuliginea B. Sutton, Nawawi & Kuthub. SPECIES
 
 #### Status
 ACCEPTED

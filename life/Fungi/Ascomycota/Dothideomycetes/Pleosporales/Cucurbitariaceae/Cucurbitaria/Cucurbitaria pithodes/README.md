@@ -1,5 +1,4 @@
-Cucurbitaria pithodes (Ellis & Everh.) Kuntze SPECIES
-=======
+# Cucurbitaria pithodes (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Hemitrichia clavata montana (Morgan) Meyl., 1921 INFRASPECIFIC_NAME
-=======
+# Hemitrichia montana (Morgan) T. Macbr., 1899 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+N. Amer. Slime-Moulds (New York) 208 (1899)
 
 #### Original name
-null
+Hemiarcyria montana Morgan, 1895
 
 ### Remarks
 null

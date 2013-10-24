@@ -1,5 +1,4 @@
-Buellia desertorum Müll. Arg. SPECIES
-=======
+# Buellia desertorum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

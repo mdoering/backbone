@@ -1,5 +1,4 @@
-Phyllosticta phellodendri Bunkina & Koval SPECIES
-=======
+# Phyllosticta phellodendri Bunkina & Koval SPECIES
 
 #### Status
 ACCEPTED

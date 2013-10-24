@@ -1,14 +1,13 @@
-Parmelia dahlii (Hale) Ajay Singh SPECIES
-=======
+# Relicinopsis dahlii (Hale) Elix & Verdon SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Lichenology in the Indian Subcontinent 1966-77 (Lucknow) 2 (1980)
+in Elix, Johnston & Verdon, Mycotaxon 27: 281 (1986)
 
 #### Original name
 Pseudoparmelia dahlii Hale

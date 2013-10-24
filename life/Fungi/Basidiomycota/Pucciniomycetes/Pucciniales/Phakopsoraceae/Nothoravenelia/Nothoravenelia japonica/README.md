@@ -1,5 +1,4 @@
-Nothoravenelia japonica Dietel, 1910 SPECIES
-=======
+# Nothoravenelia japonica Dietel, 1910 SPECIES
 
 #### Status
 ACCEPTED

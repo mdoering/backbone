@@ -1,5 +1,4 @@
-Phyllachora spartinae Orton, 1944 SPECIES
-=======
+# Phyllachora spartinae Orton, 1944 SPECIES
 
 #### Status
 ACCEPTED

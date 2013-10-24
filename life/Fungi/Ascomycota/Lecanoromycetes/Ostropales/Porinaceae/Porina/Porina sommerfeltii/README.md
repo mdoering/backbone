@@ -1,5 +1,4 @@
-Porina sommerfeltii Sommerf. SPECIES
-=======
+# Porina sommerfeltii Sommerf. SPECIES
 
 #### Status
 ACCEPTED

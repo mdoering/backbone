@@ -1,5 +1,4 @@
-Amphisphaeria hesperidum Penz. SPECIES
-=======
+# Amphisphaeria hesperidum Penz. SPECIES
 
 #### Status
 ACCEPTED

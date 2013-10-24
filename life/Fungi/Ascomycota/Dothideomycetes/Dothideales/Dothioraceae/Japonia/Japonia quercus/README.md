@@ -1,5 +1,4 @@
-Japonia quercus Höhn., 1909 SPECIES
-=======
+# Japonia quercus Höhn., 1909 SPECIES
 
 #### Status
 ACCEPTED

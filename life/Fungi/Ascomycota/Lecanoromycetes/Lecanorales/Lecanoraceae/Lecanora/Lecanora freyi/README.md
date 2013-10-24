@@ -1,5 +1,4 @@
-Lecanora freyi Poelt SPECIES
-=======
+# Lecanora freyi Poelt SPECIES
 
 #### Status
 ACCEPTED

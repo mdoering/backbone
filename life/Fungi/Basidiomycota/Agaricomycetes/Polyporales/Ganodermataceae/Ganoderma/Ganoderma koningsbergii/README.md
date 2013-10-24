@@ -1,5 +1,4 @@
-Ganoderma koningsbergii (Lloyd) Teng SPECIES
-=======
+# Ganoderma koningsbergii (Lloyd) Teng SPECIES
 
 #### Status
 ACCEPTED

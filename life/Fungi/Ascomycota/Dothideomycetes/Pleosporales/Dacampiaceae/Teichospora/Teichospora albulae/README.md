@@ -1,5 +1,4 @@
-Teichospora albulae E. Müll. SPECIES
-=======
+# Teichospora albulae E. Müll. SPECIES
 
 #### Status
 ACCEPTED

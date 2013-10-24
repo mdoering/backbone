@@ -1,5 +1,4 @@
-Spirillum carteri SPECIES
-=======
+# Spirillum carteri SPECIES
 
 #### Status
 ACCEPTED

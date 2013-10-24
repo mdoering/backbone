@@ -1,5 +1,4 @@
-Discoaster tanii Bramlette & Riedel, 1954 SPECIES
-=======
+# Discoaster tanii Bramlette & Riedel, 1954 SPECIES
 
 #### Status
 ACCEPTED

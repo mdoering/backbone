@@ -1,5 +1,4 @@
-Hirsutella vermicola M.C. Xiang & Xing Z. Liu SPECIES
-=======
+# Hirsutella vermicola M.C. Xiang & Xing Z. Liu SPECIES
 
 #### Status
 ACCEPTED

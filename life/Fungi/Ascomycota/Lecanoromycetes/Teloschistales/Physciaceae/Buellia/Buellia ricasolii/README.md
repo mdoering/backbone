@@ -1,5 +1,4 @@
-Buellia ricasolii (A. Massal.) A. Massal. SPECIES
-=======
+# Buellia ricasolii (A. Massal.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

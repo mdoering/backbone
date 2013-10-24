@@ -1,5 +1,4 @@
-Fomes bomfimensis Henn. SPECIES
-=======
+# Fomes bomfimensis Henn. SPECIES
 
 #### Status
 ACCEPTED

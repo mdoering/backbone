@@ -1,5 +1,4 @@
-Aplosporella enterolobii Bat. & Ram {?} SPECIES
-=======
+# Aplosporella enterolobii Bat. & Ram {?} SPECIES
 
 #### Status
 ACCEPTED

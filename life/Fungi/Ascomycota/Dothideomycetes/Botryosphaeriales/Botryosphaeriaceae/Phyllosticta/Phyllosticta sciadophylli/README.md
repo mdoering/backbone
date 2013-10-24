@@ -1,5 +1,4 @@
-Phyllosticta sciadophylli Tassi SPECIES
-=======
+# Phyllosticta sciadophylli Tassi SPECIES
 
 #### Status
 ACCEPTED

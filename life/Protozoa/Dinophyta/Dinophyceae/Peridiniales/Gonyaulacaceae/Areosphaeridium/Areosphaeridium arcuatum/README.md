@@ -1,5 +1,4 @@
-Areosphaeridium arcuatum Eaton, 1971 SPECIES
-=======
+# Areosphaeridium arcuatum Eaton, 1971 SPECIES
 
 #### Status
 ACCEPTED

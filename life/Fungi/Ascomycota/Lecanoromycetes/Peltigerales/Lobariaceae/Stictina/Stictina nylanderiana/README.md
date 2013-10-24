@@ -1,5 +1,4 @@
-Stictina nylanderiana (Zahlbr.) C.W. Dodge SPECIES
-=======
+# Stictina nylanderiana (Zahlbr.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

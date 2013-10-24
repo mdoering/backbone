@@ -1,5 +1,4 @@
-Venturia bellotae Speg. SPECIES
-=======
+# Venturia bellotae Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acleistomyces anibae Bat. SPECIES
-=======
+# Acleistomyces anibae Bat. SPECIES
 
 #### Status
 ACCEPTED

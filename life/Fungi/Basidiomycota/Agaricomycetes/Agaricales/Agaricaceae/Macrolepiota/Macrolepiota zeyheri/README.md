@@ -1,5 +1,4 @@
-Macrolepiota zeyheri (Berk. & Singer) Heinem. SPECIES
-=======
+# Macrolepiota zeyheri (Berk. & Singer) Heinem. SPECIES
 
 #### Status
 ACCEPTED

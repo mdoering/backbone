@@ -1,5 +1,4 @@
-Pestalotiopsis calophylli (Henn.) Y.X. Chen SPECIES
-=======
+# Pestalotiopsis calophylli (Henn.) Y.X. Chen SPECIES
 
 #### Status
 ACCEPTED

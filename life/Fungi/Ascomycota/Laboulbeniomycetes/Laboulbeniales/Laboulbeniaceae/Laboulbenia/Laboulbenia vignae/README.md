@@ -1,5 +1,4 @@
-Laboulbenia vignae W. Rossi SPECIES
-=======
+# Laboulbenia vignae W. Rossi SPECIES
 
 #### Status
 ACCEPTED

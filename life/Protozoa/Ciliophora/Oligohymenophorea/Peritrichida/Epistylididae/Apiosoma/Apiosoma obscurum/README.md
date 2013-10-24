@@ -1,5 +1,4 @@
-Apiosoma obscurum SPECIES
-=======
+# Apiosoma obscurum SPECIES
 
 #### Status
 ACCEPTED

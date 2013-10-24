@@ -1,5 +1,4 @@
-Stereum cotyledoneum Fr. SPECIES
-=======
+# Stereum cotyledoneum Fr. SPECIES
 
 #### Status
 ACCEPTED

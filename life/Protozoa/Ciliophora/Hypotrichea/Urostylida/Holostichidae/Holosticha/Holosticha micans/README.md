@@ -1,5 +1,4 @@
-Holosticha micans SPECIES
-=======
+# Holosticha micans SPECIES
 
 #### Status
 ACCEPTED

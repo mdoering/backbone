@@ -1,5 +1,4 @@
-Biatora atomaria (Th. Fr.) J. Stein SPECIES
-=======
+# Biatora atomaria (Th. Fr.) J. Stein SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clitopilus filifer (Speg.) Singer SPECIES
-=======
+# Clitopilus filifer (Speg.) Singer SPECIES
 
 #### Status
 ACCEPTED

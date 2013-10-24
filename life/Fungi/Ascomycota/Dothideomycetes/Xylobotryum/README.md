@@ -1,17 +1,16 @@
-Xyloceras A.L. Sm. GENUS
-=======
+# Xylobotryum Pat. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Linn. Soc. , Bot. 35: 16 (1901)
+Bull. Herb. Boissier 3: 69 (1895)
 
 #### Original name
-Xyloceras A.L. Sm.
+Xylobotryum Pat.
 
 ### Remarks
 null

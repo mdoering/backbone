@@ -1,5 +1,4 @@
-Buellia mozambica (Vain.) C.W. Dodge SPECIES
-=======
+# Buellia mozambica (Vain.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

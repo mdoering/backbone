@@ -1,5 +1,4 @@
-Vampyrellidae FAMILY
-=======
+# Vampyrellidae FAMILY
 
 #### Status
 ACCEPTED

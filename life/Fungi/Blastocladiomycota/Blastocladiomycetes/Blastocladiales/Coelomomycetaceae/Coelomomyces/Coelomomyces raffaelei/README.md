@@ -1,5 +1,4 @@
-Coelomomyces raffaelei var. raffaelei VARIETY
-=======
+# Coelomomyces raffaelei Coluzzi & Rioux SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Coelomomyces raffaelei var. raffaelei
+Coelomomyces raffaelei Coluzzi & Rioux
 
 ### Remarks
 null

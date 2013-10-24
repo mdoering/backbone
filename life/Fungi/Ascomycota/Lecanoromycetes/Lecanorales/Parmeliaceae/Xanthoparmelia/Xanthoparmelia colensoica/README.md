@@ -1,5 +1,4 @@
-Xanthoparmelia colensoica T. H. Nash, Elix & J. Johnst. SPECIES
-=======
+# Xanthoparmelia colensoica T. H. Nash, Elix & J. Johnst. SPECIES
 
 #### Status
 ACCEPTED

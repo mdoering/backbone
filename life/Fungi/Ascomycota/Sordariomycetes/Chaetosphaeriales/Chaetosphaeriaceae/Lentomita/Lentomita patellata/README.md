@@ -1,5 +1,4 @@
-Lentomita patellata (Penz. & Sacc.) Höhn. SPECIES
-=======
+# Lentomita patellata (Penz. & Sacc.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

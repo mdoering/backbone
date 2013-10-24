@@ -1,5 +1,4 @@
-Nectriopsis leptogii Diederich SPECIES
-=======
+# Nectriopsis leptogii Diederich SPECIES
 
 #### Status
 ACCEPTED

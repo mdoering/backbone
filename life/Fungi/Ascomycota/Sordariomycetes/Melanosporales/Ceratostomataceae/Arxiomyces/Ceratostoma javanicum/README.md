@@ -1,5 +1,4 @@
-Ceratostoma javanicum Henn. & E. Nyman SPECIES
-=======
+# Ceratostoma javanicum Henn. & E. Nyman SPECIES
 
 #### Status
 ACCEPTED

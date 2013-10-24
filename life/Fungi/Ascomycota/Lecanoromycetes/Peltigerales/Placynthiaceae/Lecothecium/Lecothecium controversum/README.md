@@ -1,5 +1,4 @@
-Lecothecium controversum Anzi SPECIES
-=======
+# Lecothecium controversum Anzi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea concolor Nyl. SPECIES
-=======
+# Lecidea concolor Nyl. SPECIES
 
 #### Status
 ACCEPTED

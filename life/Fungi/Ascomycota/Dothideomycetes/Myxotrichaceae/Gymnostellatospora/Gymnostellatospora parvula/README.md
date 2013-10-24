@@ -1,5 +1,4 @@
-Gymnostellatospora parvula Udagawa & Uchiy. SPECIES
-=======
+# Gymnostellatospora parvula Udagawa & Uchiy. SPECIES
 
 #### Status
 ACCEPTED

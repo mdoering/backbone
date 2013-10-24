@@ -1,5 +1,4 @@
-Psoromidium Stirt. GENUS
-=======
+# Psoromidium Stirt. GENUS
 
 #### Status
 ACCEPTED

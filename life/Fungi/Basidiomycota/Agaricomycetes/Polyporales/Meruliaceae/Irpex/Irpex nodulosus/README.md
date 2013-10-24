@@ -1,5 +1,4 @@
-Irpex nodulosus Peck SPECIES
-=======
+# Irpex nodulosus Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula davisii Burl. SPECIES
-=======
+# Russula davisii Burl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora elaeoplaca SPECIES
-=======
+# Lecanora elaeoplaca SPECIES
 
 #### Status
 ACCEPTED

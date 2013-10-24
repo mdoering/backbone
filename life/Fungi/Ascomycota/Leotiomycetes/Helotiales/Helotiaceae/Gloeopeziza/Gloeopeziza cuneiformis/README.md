@@ -1,5 +1,4 @@
-Gloeopeziza cuneiformis Döbbeler SPECIES
-=======
+# Gloeopeziza cuneiformis Döbbeler SPECIES
 
 #### Status
 ACCEPTED

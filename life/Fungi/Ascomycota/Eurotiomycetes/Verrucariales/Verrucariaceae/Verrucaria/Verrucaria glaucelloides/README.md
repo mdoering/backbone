@@ -1,5 +1,4 @@
-Verrucaria glaucelloides Hepp SPECIES
-=======
+# Verrucaria glaucelloides Hepp SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria calami Nees SPECIES
-=======
+# Sphaeria calami Nees SPECIES
 
 #### Status
 ACCEPTED

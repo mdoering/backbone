@@ -1,5 +1,4 @@
-Buellia cingulata Zahlbr. SPECIES
-=======
+# Buellia cingulata Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Poria bourdotii Pilát SPECIES
-=======
+# Poria bourdotii Pilát SPECIES
 
 #### Status
 ACCEPTED

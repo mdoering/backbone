@@ -1,5 +1,4 @@
-Isaria sphaerocephala Petch SPECIES
-=======
+# Isaria sphaerocephala Petch SPECIES
 
 #### Status
 ACCEPTED

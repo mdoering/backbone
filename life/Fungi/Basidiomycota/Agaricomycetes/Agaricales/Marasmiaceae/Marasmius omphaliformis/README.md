@@ -1,5 +1,4 @@
-Marasmius omphaliformis SPECIES
-=======
+# Marasmius omphaliformis SPECIES
 
 #### Status
 ACCEPTED

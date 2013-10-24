@@ -1,5 +1,4 @@
-Schizochlamydella capsulata (R.R.L. Guillard, H.C. Bold & F.J. MacEntee) S. Watanabe SPECIES
-=======
+# Schizochlamydella capsulata (R.R.L. Guillard, H.C. Bold & F.J. MacEntee) S. Watanabe SPECIES
 
 #### Status
 ACCEPTED

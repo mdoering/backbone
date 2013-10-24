@@ -1,5 +1,4 @@
-Gomphidius pseudoflavipes O.K. Mill. & F.J. Camacho, 2003 SPECIES
-=======
+# Gomphidius pseudoflavipes O.K. Mill. & F.J. Camacho, 2003 SPECIES
 
 #### Status
 ACCEPTED

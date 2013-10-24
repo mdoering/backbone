@@ -1,5 +1,4 @@
-Leptomeliola scapaniae Racov. SPECIES
-=======
+# Leptomeliola scapaniae Racov. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coprinus incrassatus Britzelm. SPECIES
-=======
+# Coprinus incrassatus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

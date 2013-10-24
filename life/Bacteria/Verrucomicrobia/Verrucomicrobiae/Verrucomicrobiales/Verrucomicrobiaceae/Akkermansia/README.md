@@ -1,5 +1,4 @@
-Akkermansia Derrien, Vaughan, Plugge & de Vos, 2004 GENUS
-=======
+# Akkermansia Derrien, Vaughan, Plugge & de Vos, 2004 GENUS
 
 #### Status
 ACCEPTED

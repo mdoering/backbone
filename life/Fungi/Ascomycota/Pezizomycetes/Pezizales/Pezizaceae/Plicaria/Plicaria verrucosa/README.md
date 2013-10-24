@@ -1,5 +1,4 @@
-Plicaria verrucosa Velen. SPECIES
-=======
+# Plicaria verrucosa Velen. SPECIES
 
 #### Status
 ACCEPTED

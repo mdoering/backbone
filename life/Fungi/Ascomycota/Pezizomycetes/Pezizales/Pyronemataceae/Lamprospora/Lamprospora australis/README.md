@@ -1,5 +1,4 @@
-Lamprospora australis (McLennan & Cookson) Rifai SPECIES
-=======
+# Lamprospora australis (McLennan & Cookson) Rifai SPECIES
 
 #### Status
 ACCEPTED

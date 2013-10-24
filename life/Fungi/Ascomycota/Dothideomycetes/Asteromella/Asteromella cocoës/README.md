@@ -1,5 +1,4 @@
-Asteromella cocoës Bat. & J.L. Bezerra SPECIES
-=======
+# Asteromella cocoës Bat. & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

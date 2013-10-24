@@ -1,14 +1,13 @@
-Phaeosphaeria orae-maris (Linder) Khashn. & Shearer, 1996 SPECIES
-=======
+# Leptosphaeria orae-maris Linder, 1944 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Res. 100(11): 1351 (1996)
+Farlowia 1: 413 (1944)
 
 #### Original name
 Leptosphaeria orae-maris Linder, 1944

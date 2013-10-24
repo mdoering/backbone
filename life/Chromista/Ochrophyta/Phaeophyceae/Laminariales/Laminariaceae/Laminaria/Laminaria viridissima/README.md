@@ -1,5 +1,4 @@
-Laminaria viridissima Bory de St.-Vincent SPECIES
-=======
+# Laminaria viridissima Bory de St.-Vincent SPECIES
 
 #### Status
 ACCEPTED

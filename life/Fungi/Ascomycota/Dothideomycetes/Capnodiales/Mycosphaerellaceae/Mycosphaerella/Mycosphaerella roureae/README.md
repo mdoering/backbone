@@ -1,5 +1,4 @@
-Mycosphaerella roureae Syd. SPECIES
-=======
+# Mycosphaerella roureae Syd. SPECIES
 
 #### Status
 ACCEPTED

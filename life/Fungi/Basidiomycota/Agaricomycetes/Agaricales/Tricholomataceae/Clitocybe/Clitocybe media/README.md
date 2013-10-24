@@ -1,5 +1,4 @@
-Clitocybe media Peck SPECIES
-=======
+# Clitocybe media Peck SPECIES
 
 #### Status
 ACCEPTED

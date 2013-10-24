@@ -1,5 +1,4 @@
-Aspicilia breuteliana (A. Massal.) C.W. Dodge SPECIES
-=======
+# Aspicilia breuteliana (A. Massal.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

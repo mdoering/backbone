@@ -1,5 +1,4 @@
-Agaricus acus W.G. Sm. SPECIES
-=======
+# Agaricus acus W.G. Sm. SPECIES
 
 #### Status
 ACCEPTED

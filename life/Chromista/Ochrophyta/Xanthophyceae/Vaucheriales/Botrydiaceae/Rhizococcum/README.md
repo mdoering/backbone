@@ -1,5 +1,4 @@
-Rhizococcum Desmazières, 1831 GENUS
-=======
+# Rhizococcum Desmazières, 1831 GENUS
 
 #### Status
 ACCEPTED

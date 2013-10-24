@@ -1,17 +1,16 @@
-Bacidia marci B. de Lesd. SPECIES
-=======
+# Pseudopannaria marcii (B. de Lesd.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Cat. Lich. Univers. 2: 686 (1924)
 
 #### Original name
-Bacidia marci B. de Lesd.
+Bacidia marcii B. de Lesd.
 
 ### Remarks
 null

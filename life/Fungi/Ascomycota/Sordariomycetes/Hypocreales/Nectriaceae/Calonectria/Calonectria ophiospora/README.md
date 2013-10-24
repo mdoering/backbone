@@ -1,5 +1,4 @@
-Calonectria ophiospora Rossman SPECIES
-=======
+# Calonectria ophiospora Rossman SPECIES
 
 #### Status
 ACCEPTED

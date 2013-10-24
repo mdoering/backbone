@@ -1,5 +1,4 @@
-Diplodina negundinis Oudem. SPECIES
-=======
+# Diplodina negundinis Oudem. SPECIES
 
 #### Status
 ACCEPTED

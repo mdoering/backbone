@@ -1,5 +1,4 @@
-Boletus albipes Pat. SPECIES
-=======
+# Boletus albipes Pat. SPECIES
 
 #### Status
 ACCEPTED

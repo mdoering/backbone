@@ -1,5 +1,4 @@
-Platystomum purpurascens (Mouton) Sacc. & D. Sacc. SPECIES
-=======
+# Platystomum purpurascens (Mouton) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

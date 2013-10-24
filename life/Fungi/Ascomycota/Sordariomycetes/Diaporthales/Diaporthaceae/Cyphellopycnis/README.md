@@ -1,5 +1,4 @@
-Cyphellopycnis GENUS
-=======
+# Cyphellopycnis GENUS
 
 #### Status
 ACCEPTED

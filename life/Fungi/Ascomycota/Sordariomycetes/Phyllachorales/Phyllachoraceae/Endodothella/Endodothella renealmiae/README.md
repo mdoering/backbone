@@ -1,14 +1,13 @@
-Dothidella renealmiae Rehm, 1897 SPECIES
-=======
+# Endodothella renealmiae (Rehm) Theiss. & Syd., 1915 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 36: 377 (1897)
+Annls mycol. 13(5/6): 587 (1915)
 
 #### Original name
 Dothidella renealmiae Rehm, 1897

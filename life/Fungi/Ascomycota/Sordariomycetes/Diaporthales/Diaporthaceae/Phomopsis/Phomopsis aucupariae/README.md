@@ -1,5 +1,4 @@
-Phomopsis aucupariae (Pass.) Petr. SPECIES
-=======
+# Phomopsis aucupariae (Pass.) Petr. SPECIES
 
 #### Status
 ACCEPTED

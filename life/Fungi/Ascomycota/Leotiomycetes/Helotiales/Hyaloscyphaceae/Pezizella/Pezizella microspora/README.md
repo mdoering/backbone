@@ -1,5 +1,4 @@
-Pezizella microspora Velen. SPECIES
-=======
+# Pezizella microspora Velen. SPECIES
 
 #### Status
 ACCEPTED

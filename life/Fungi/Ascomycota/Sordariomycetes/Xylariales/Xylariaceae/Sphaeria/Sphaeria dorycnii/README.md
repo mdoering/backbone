@@ -1,5 +1,4 @@
-Sphaeria dorycnii Mont. SPECIES
-=======
+# Sphaeria dorycnii Mont. SPECIES
 
 #### Status
 ACCEPTED

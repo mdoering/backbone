@@ -1,5 +1,4 @@
-Pertusaria achroiza Nyl. SPECIES
-=======
+# Pertusaria achroiza Nyl. SPECIES
 
 #### Status
 ACCEPTED

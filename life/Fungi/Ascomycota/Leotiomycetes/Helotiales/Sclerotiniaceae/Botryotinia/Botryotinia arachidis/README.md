@@ -1,5 +1,4 @@
-Botryotinia arachidis (I. Hino) W. Yamam. SPECIES
-=======
+# Botryotinia arachidis (I. Hino) W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

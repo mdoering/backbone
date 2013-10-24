@@ -1,5 +1,4 @@
-Aecidium ceanothi Ellis & Kellerm. SPECIES
-=======
+# Aecidium ceanothi Ellis & Kellerm. SPECIES
 
 #### Status
 ACCEPTED

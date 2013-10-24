@@ -1,5 +1,4 @@
-Exidia strigosa P. Karst. SPECIES
-=======
+# Exidia strigosa P. Karst. SPECIES
 
 #### Status
 ACCEPTED

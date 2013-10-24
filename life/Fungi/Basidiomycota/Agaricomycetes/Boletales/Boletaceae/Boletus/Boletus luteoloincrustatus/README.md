@@ -1,5 +1,4 @@
-Boletus luteoloincrustatus R. Flores & Simonini SPECIES
-=======
+# Boletus luteoloincrustatus R. Flores & Simonini SPECIES
 
 #### Status
 ACCEPTED

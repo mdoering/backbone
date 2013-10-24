@@ -1,5 +1,4 @@
-Phomopsis bakeri Syd. SPECIES
-=======
+# Phomopsis bakeri Syd. SPECIES
 
 #### Status
 ACCEPTED

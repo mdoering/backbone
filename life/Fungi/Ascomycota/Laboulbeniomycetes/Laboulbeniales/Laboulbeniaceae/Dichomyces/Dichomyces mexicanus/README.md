@@ -1,5 +1,4 @@
-Dichomyces mexicanus Thaxt. SPECIES
-=======
+# Dichomyces mexicanus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

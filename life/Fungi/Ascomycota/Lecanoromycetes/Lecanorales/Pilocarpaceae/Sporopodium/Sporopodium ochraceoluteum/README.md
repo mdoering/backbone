@@ -1,5 +1,4 @@
-Sporopodium ochraceoluteum Vain. SPECIES
-=======
+# Sporopodium ochraceoluteum Vain. SPECIES
 
 #### Status
 ACCEPTED

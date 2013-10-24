@@ -1,5 +1,4 @@
-Marasmius castellanoi Singer SPECIES
-=======
+# Marasmius castellanoi Singer SPECIES
 
 #### Status
 ACCEPTED

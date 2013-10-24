@@ -1,17 +1,16 @@
-Cistella tapesioides (Starbäck) Nannf., 1936 SPECIES
-=======
+# Arachnopeziza cornuta (Ellis) Korf, 1952 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Svensk bot. Tidskr. 30: 298 (1936)
+Lloydia 14: 158 (1952)
 
 #### Original name
-Arachnopeziza tapesioides Starbäck, 1909
+null
 
 ### Remarks
 null

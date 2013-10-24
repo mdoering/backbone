@@ -1,5 +1,4 @@
-Caliciopsis symploci Fitzp. SPECIES
-=======
+# Caliciopsis symploci Fitzp. SPECIES
 
 #### Status
 ACCEPTED

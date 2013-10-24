@@ -1,5 +1,4 @@
-Dothiorella caseariae Speg. SPECIES
-=======
+# Dothiorella caseariae Speg. SPECIES
 
 #### Status
 ACCEPTED

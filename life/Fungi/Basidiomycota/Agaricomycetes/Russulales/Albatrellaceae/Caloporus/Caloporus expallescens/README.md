@@ -1,17 +1,16 @@
-Caloporus expallescens var. expallescens VARIETY
-=======
+# Caloporus expallescens SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
-Meddn Soc. Fauna Flora fenn. 9: 110 (1883)
+null
 
 #### Original name
-Caloporus expallescens var. expallescens
+null
 
 ### Remarks
 null

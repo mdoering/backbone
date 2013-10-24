@@ -1,5 +1,4 @@
-Antrodia sandaliae Bernicchia & Ryvarden, 2001 SPECIES
-=======
+# Antrodia sandaliae Bernicchia & Ryvarden, 2001 SPECIES
 
 #### Status
 ACCEPTED

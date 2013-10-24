@@ -1,5 +1,4 @@
-Trematosphaeria alexii Vouaux SPECIES
-=======
+# Trematosphaeria alexii Vouaux SPECIES
 
 #### Status
 ACCEPTED

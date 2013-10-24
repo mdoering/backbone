@@ -1,5 +1,4 @@
-Meliola desmodii-triangularis Gawande & D.K. Agarwal SPECIES
-=======
+# Meliola desmodii-triangularis Gawande & D.K. Agarwal SPECIES
 
 #### Status
 ACCEPTED

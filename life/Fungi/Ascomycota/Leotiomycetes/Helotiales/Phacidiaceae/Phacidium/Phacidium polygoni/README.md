@@ -1,5 +1,4 @@
-Phacidium polygoni Rostr. SPECIES
-=======
+# Phacidium polygoni Rostr. SPECIES
 
 #### Status
 ACCEPTED

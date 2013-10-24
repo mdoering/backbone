@@ -1,5 +1,4 @@
-Licea nannengae Pando & Lado, 1988 SPECIES
-=======
+# Licea nannengae Pando & Lado, 1988 SPECIES
 
 #### Status
 ACCEPTED

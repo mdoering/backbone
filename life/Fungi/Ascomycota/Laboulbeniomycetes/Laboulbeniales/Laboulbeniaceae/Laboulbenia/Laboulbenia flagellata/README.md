@@ -1,17 +1,16 @@
-Laboulbenia flagellata var. flagellata VARIETY
-=======
+# Laboulbenia flagellata Peyr., 1873 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 68: 247 (1873)
 
 #### Original name
-Laboulbenia flagellata var. flagellata
+Laboulbenia flagellata Peyr., 1873
 
 ### Remarks
 null

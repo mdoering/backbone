@@ -1,5 +1,4 @@
-Penicillium guttulosum J.C. Gilman & E.V. Abbott SPECIES
-=======
+# Penicillium guttulosum J.C. Gilman & E.V. Abbott SPECIES
 
 #### Status
 ACCEPTED

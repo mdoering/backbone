@@ -1,5 +1,4 @@
-Phyllopsora pannosa Müll. Arg. SPECIES
-=======
+# Phyllopsora pannosa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

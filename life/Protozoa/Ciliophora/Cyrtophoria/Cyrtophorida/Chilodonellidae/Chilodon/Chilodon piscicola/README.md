@@ -1,5 +1,4 @@
-Chilodon piscicola SPECIES
-=======
+# Chilodon piscicola SPECIES
 
 #### Status
 ACCEPTED

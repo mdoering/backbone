@@ -1,5 +1,4 @@
-Phlyctella ruwenzorii (Jatta) Zahlbr. SPECIES
-=======
+# Phlyctella ruwenzorii (Jatta) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

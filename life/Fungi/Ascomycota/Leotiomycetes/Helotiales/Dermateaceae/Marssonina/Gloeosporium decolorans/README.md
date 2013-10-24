@@ -1,5 +1,4 @@
-Gloeosporium decolorans Ellis & Everh. SPECIES
-=======
+# Gloeosporium decolorans Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

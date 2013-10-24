@@ -1,5 +1,4 @@
-Hendersonia tiliae Lév. SPECIES
-=======
+# Hendersonia tiliae Lév. SPECIES
 
 #### Status
 ACCEPTED

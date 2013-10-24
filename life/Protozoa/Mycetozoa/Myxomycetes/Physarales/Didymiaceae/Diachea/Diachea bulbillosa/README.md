@@ -1,17 +1,16 @@
-Diachea bulbillosa var. splendens (Peck) G. Lister VARIETY
-=======
+# Diachea bulbillosa (Berk. & Broome) Lister, 1898 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monogr. Mycetozoa, Edn 2 103 (1925)
+in Penzig, Myxomyc. Fl. Buitenzorg 47 (1898)
 
 #### Original name
-Diachea splendens Peck, 1878
+Didymium bulbillosum Berk. & Broome, 1873
 
 ### Remarks
 null

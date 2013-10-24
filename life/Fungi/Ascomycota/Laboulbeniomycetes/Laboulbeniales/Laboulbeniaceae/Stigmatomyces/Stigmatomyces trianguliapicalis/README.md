@@ -1,5 +1,4 @@
-Stigmatomyces trianguliapicalis T. Majewski SPECIES
-=======
+# Stigmatomyces trianguliapicalis T. Majewski SPECIES
 
 #### Status
 ACCEPTED

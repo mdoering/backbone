@@ -1,5 +1,4 @@
-Coryneum eurotiae Byzova SPECIES
-=======
+# Coryneum eurotiae Byzova SPECIES
 
 #### Status
 ACCEPTED

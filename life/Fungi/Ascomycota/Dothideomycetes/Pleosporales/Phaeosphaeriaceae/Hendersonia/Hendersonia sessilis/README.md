@@ -1,5 +1,4 @@
-Hendersonia sessilis f. sessilis FORM
-=======
+# Hendersonia sessilis Mont. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Hendersonia sessilis f. sessilis
+Hendersonia sessilis Mont.
 
 ### Remarks
 null

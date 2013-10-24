@@ -1,5 +1,4 @@
-Hypholoma quercinum Velen. SPECIES
-=======
+# Hypholoma quercinum Velen. SPECIES
 
 #### Status
 ACCEPTED

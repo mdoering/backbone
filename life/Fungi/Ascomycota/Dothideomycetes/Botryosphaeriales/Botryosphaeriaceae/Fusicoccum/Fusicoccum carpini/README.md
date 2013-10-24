@@ -1,5 +1,4 @@
-Fusicoccum carpini Sacc. SPECIES
-=======
+# Fusicoccum carpini Sacc. SPECIES
 
 #### Status
 ACCEPTED

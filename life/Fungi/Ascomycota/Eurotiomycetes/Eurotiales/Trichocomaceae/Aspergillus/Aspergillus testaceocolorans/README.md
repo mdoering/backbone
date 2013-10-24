@@ -1,17 +1,16 @@
-Aspergillus testaceo-colorans Novobr. SPECIES
-=======
+# Aspergillus testaceocolorans Novobr., 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nov. sist. Niz. Rast. 9: 173 (1972)
 
 #### Original name
-Aspergillus testaceo-colorans Novobr.
+Aspergillus testaceocolorans Novobr., 1972
 
 ### Remarks
 null

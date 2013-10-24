@@ -1,5 +1,4 @@
-Dicaeoma mesomegalum (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Dicaeoma mesomegalum (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

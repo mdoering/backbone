@@ -1,5 +1,4 @@
-Cordyceps rostrata Henn. SPECIES
-=======
+# Cordyceps rostrata Henn. SPECIES
 
 #### Status
 ACCEPTED

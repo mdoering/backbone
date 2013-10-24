@@ -1,5 +1,4 @@
-Vorticella limosa Bory SPECIES
-=======
+# Vorticella limosa Bory SPECIES
 
 #### Status
 ACCEPTED

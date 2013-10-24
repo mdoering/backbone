@@ -1,5 +1,4 @@
-Phlyctochytrium rhizopenicillium J.S. Knox SPECIES
-=======
+# Phlyctochytrium rhizopenicillium J.S. Knox SPECIES
 
 #### Status
 ACCEPTED

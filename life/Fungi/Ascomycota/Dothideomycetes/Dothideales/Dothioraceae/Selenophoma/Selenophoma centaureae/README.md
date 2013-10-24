@@ -1,5 +1,4 @@
-Selenophoma centaureae Pisareva & Philimonova SPECIES
-=======
+# Selenophoma centaureae Pisareva & Philimonova SPECIES
 
 #### Status
 ACCEPTED

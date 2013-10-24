@@ -1,17 +1,16 @@
-Mucor philippovi Naumov SPECIES
-=======
+# Mucor philippovii Naumov SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Opred. Mukor. , Edn 2 43 (1935)
 
 #### Original name
-Mucor philippovi Naumov
+Mucor philippovii Naumov
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Thelephora mesenteriformis Vahl SPECIES
-=======
+# Thelephora mesenteriformis Vahl SPECIES
 
 #### Status
 ACCEPTED

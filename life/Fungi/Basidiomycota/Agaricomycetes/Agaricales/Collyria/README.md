@@ -1,5 +1,4 @@
-Collyria E.M. Fries, 1849 GENUS
-=======
+# Collyria E.M. Fries, 1849 GENUS
 
 #### Status
 ACCEPTED

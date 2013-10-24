@@ -1,5 +1,4 @@
-Sphaeria cryptica P. Karst. SPECIES
-=======
+# Sphaeria cryptica P. Karst. SPECIES
 
 #### Status
 ACCEPTED

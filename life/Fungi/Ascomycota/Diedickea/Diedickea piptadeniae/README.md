@@ -1,5 +1,4 @@
-Diedickea piptadeniae Deighton SPECIES
-=======
+# Diedickea piptadeniae Deighton SPECIES
 
 #### Status
 ACCEPTED

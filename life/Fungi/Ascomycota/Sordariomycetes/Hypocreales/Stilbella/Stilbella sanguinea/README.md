@@ -1,5 +1,4 @@
-Stilbella sanguinea (Oudem.) Lindau SPECIES
-=======
+# Stilbella sanguinea (Oudem.) Lindau SPECIES
 
 #### Status
 ACCEPTED

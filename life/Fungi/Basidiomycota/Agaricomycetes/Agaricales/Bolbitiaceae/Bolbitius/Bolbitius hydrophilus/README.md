@@ -1,5 +1,4 @@
-Bolbitius hydrophilus Fr. SPECIES
-=======
+# Bolbitius hydrophilus Fr. SPECIES
 
 #### Status
 ACCEPTED

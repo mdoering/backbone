@@ -1,5 +1,4 @@
-Phyllosticta capsulicola Sacc. & Speg. SPECIES
-=======
+# Phyllosticta capsulicola Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe iterata (Britzelm.) Sacc. SPECIES
-=======
+# Inocybe iterata (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

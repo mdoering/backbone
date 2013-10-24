@@ -1,5 +1,4 @@
-Mortierella antarctica Linnem., 1969 SPECIES
-=======
+# Mortierella antarctica Linnem., 1969 SPECIES
 
 #### Status
 ACCEPTED

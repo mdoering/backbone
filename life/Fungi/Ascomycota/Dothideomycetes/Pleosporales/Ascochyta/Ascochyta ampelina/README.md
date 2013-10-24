@@ -1,5 +1,4 @@
-Ascochyta ampelina var. ampelina VARIETY
-=======
+# Ascochyta ampelina Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ascochyta ampelina var. ampelina
+Ascochyta ampelina Sacc.
 
 ### Remarks
 null

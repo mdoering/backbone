@@ -1,5 +1,4 @@
-Dimerella chiodectonoides Kalb SPECIES
-=======
+# Dimerella chiodectonoides Kalb SPECIES
 
 #### Status
 ACCEPTED

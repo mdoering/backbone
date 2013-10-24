@@ -1,5 +1,4 @@
-Hymenella vulgaris Fr., 1822 SPECIES
-=======
+# Hymenella vulgaris Fr., 1822 SPECIES
 
 #### Status
 ACCEPTED

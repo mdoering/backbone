@@ -1,5 +1,4 @@
-Myriococcum E.M. Fries, 1823 GENUS
-=======
+# Myriococcum E.M. Fries, 1823 GENUS
 
 #### Status
 ACCEPTED

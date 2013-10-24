@@ -1,5 +1,4 @@
-Amaurascopsis Guarro, Gené & De Vroey GENUS
-=======
+# Amaurascopsis Guarro, Gené & De Vroey GENUS
 
 #### Status
 ACCEPTED

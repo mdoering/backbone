@@ -1,5 +1,4 @@
-Paratrichodina obliqua Lom, 1963 SPECIES
-=======
+# Paratrichodina obliqua Lom, 1963 SPECIES
 
 #### Status
 ACCEPTED

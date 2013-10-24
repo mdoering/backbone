@@ -1,5 +1,4 @@
-Puccinia tenuis (Schwein.) Burrill SPECIES
-=======
+# Puccinia tenuis (Schwein.) Burrill SPECIES
 
 #### Status
 ACCEPTED

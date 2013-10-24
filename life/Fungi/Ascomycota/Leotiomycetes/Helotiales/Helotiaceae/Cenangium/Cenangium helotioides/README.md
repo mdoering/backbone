@@ -1,5 +1,4 @@
-Cenangium helotioides Mouton & Sacc. SPECIES
-=======
+# Cenangium helotioides Mouton & Sacc. SPECIES
 
 #### Status
 ACCEPTED

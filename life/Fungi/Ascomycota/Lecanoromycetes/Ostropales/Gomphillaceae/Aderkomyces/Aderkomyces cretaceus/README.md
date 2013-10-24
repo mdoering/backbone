@@ -1,5 +1,4 @@
-Aderkomyces cretaceus (Vezda) Lücking, Sérus. & Vezda SPECIES
-=======
+# Aderkomyces cretaceus (Vezda) Lücking, Sérus. & Vezda SPECIES
 
 #### Status
 ACCEPTED

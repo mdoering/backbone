@@ -1,5 +1,4 @@
-Lecania toninioides Zahlbr. SPECIES
-=======
+# Lecania toninioides Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

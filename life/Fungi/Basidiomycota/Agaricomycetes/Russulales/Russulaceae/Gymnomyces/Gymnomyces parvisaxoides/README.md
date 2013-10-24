@@ -1,5 +1,4 @@
-Gymnomyces parvisaxoides T. Lebel, 2002 SPECIES
-=======
+# Gymnomyces parvisaxoides T. Lebel, 2002 SPECIES
 
 #### Status
 ACCEPTED

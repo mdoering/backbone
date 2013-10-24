@@ -1,5 +1,4 @@
-Liebusella soldanii SPECIES
-=======
+# Liebusella soldanii SPECIES
 
 #### Status
 ACCEPTED

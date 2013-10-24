@@ -1,5 +1,4 @@
-Thelotrema butuanum Vain. SPECIES
-=======
+# Thelotrema butuanum Vain. SPECIES
 
 #### Status
 ACCEPTED

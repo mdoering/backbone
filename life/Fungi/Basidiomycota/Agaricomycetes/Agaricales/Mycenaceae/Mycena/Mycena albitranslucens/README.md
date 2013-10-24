@@ -1,5 +1,4 @@
-Mycena albitranslucens Corner SPECIES
-=======
+# Mycena albitranslucens Corner SPECIES
 
 #### Status
 ACCEPTED

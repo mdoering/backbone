@@ -1,5 +1,4 @@
-Membranicola tamari Foissner, Berger & Schaumburg, 1999 SPECIES
-=======
+# Membranicola tamari Foissner, Berger & Schaumburg, 1999 SPECIES
 
 #### Status
 ACCEPTED

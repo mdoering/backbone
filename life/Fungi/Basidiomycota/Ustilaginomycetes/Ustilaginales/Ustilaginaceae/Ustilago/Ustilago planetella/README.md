@@ -1,5 +1,4 @@
-Ustilago planetella Vánky & R.G. Shivas SPECIES
-=======
+# Ustilago planetella Vánky & R.G. Shivas SPECIES
 
 #### Status
 ACCEPTED

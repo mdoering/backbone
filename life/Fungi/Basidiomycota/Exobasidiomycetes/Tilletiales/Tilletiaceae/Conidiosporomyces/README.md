@@ -1,5 +1,4 @@
-Conidiosporomyces Vánky GENUS
-=======
+# Conidiosporomyces Vánky GENUS
 
 #### Status
 ACCEPTED

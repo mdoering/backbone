@@ -1,5 +1,4 @@
-Drepanopeziza foliicola (Desm.) Höhn. SPECIES
-=======
+# Drepanopeziza foliicola (Desm.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

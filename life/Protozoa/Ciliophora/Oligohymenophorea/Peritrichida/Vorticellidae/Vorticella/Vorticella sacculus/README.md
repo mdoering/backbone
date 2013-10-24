@@ -1,5 +1,4 @@
-Vorticella sacculus Müller, 1786 SPECIES
-=======
+# Vorticella sacculus Müller, 1786 SPECIES
 
 #### Status
 ACCEPTED

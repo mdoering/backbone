@@ -1,5 +1,4 @@
-Marasmius subviolaceus Henn. SPECIES
-=======
+# Marasmius subviolaceus Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Ophiobolus robustus (Strasser) Shoemaker, 1976 SPECIES
-=======
+# Leptosphaeria robusta (Strasser) E. Müll., 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 54(20): 2389 (1976)
+Sydowia 4: 298 (1950)
 
 #### Original name
 Leptosphaeria derasa f. robusta Strasser, 1907

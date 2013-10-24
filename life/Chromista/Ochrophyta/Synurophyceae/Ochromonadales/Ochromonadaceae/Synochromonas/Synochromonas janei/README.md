@@ -1,5 +1,4 @@
-Synochromonas janei Bourelly SPECIES
-=======
+# Synochromonas janei Bourelly SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycothyridium flavum (Petch) Petr. SPECIES
-=======
+# Mycothyridium flavum (Petch) Petr. SPECIES
 
 #### Status
 ACCEPTED

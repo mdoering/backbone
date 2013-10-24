@@ -1,5 +1,4 @@
-Sphaeria trichiacea Fr. SPECIES
-=======
+# Sphaeria trichiacea Fr. SPECIES
 
 #### Status
 ACCEPTED

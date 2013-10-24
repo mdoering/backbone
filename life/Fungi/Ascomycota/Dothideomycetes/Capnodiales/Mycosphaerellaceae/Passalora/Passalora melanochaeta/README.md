@@ -1,5 +1,4 @@
-Passalora melanochaeta (Ellis & Everh.) U. Braun SPECIES
-=======
+# Passalora melanochaeta (Ellis & Everh.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

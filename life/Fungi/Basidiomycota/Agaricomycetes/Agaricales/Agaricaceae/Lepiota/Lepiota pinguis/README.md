@@ -1,5 +1,4 @@
-Lepiota pinguis (Fr.) Fr. SPECIES
-=======
+# Lepiota pinguis (Fr.) Fr. SPECIES
 
 #### Status
 ACCEPTED

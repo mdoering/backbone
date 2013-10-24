@@ -1,5 +1,4 @@
-Schizostoma montellicum Sacc., 1878 SPECIES
-=======
+# Schizostoma montellicum Sacc., 1878 SPECIES
 
 #### Status
 ACCEPTED

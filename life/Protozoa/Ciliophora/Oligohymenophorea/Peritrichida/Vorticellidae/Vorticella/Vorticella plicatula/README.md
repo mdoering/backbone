@@ -1,5 +1,4 @@
-Vorticella plicatula Dumas, 1929 SPECIES
-=======
+# Vorticella plicatula Dumas, 1929 SPECIES
 
 #### Status
 ACCEPTED

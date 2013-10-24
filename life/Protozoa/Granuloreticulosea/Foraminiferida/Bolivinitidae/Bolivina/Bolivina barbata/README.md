@@ -1,5 +1,4 @@
-Bolivina barbata SPECIES
-=======
+# Bolivina barbata SPECIES
 
 #### Status
 ACCEPTED

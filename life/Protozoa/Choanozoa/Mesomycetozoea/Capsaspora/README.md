@@ -1,5 +1,4 @@
-Capsaspora Hertel, Bayne & Loker, 2002 GENUS
-=======
+# Capsaspora Hertel, Bayne & Loker, 2002 GENUS
 
 #### Status
 ACCEPTED

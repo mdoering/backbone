@@ -1,5 +1,4 @@
-Hyperphyscia plinthiza (Ach.) Nyl. SPECIES
-=======
+# Hyperphyscia plinthiza (Ach.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

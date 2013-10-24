@@ -1,5 +1,4 @@
-Clitocybe font-queri R. Heim SPECIES
-=======
+# Clitocybe font-queri R. Heim SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Indomyces microtuberculatus Stchigel & Guarro SPECIES
-=======
+# Indomyces microtuberculatus Stchigel & Guarro SPECIES
 
 #### Status
 ACCEPTED

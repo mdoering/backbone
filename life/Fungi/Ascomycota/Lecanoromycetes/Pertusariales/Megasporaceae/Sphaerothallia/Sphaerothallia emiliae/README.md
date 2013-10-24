@@ -1,5 +1,4 @@
-Sphaerothallia emiliae (Tomin) Follmann & A. Crespo SPECIES
-=======
+# Sphaerothallia emiliae (Tomin) Follmann & A. Crespo SPECIES
 
 #### Status
 ACCEPTED

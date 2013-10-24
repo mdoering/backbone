@@ -1,5 +1,4 @@
-Solorina fuegiensis C.W. Dodge SPECIES
-=======
+# Solorina fuegiensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

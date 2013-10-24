@@ -1,5 +1,4 @@
-Rhabdospora groenlandica Lind SPECIES
-=======
+# Rhabdospora groenlandica Lind SPECIES
 
 #### Status
 ACCEPTED

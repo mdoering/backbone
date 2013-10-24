@@ -1,5 +1,4 @@
-Rhynchomeliola licaniae Bat. & J.L. Bezerra SPECIES
-=======
+# Rhynchomeliola licaniae Bat. & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

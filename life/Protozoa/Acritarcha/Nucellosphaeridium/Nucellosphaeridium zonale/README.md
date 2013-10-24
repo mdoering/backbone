@@ -1,5 +1,4 @@
-Nucellosphaeridium zonale Xing Yusheng & Liu Kuizhih, 1973 SPECIES
-=======
+# Nucellosphaeridium zonale Xing Yusheng & Liu Kuizhih, 1973 SPECIES
 
 #### Status
 ACCEPTED

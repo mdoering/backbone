@@ -1,5 +1,4 @@
-Pleurotrema karnatakense (Makhija & Patw.) D.D. Awasthi SPECIES
-=======
+# Pleurotrema karnatakense (Makhija & Patw.) D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

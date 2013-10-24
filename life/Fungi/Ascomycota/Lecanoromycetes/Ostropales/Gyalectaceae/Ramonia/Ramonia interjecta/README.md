@@ -1,5 +1,4 @@
-Ramonia interjecta Coppins SPECIES
-=======
+# Ramonia interjecta Coppins SPECIES
 
 #### Status
 ACCEPTED

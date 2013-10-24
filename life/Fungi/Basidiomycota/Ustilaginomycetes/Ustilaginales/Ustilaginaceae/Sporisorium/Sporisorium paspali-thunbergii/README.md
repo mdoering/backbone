@@ -1,5 +1,4 @@
-Sporisorium paspali-thunbergii (Henn.) Vánky SPECIES
-=======
+# Sporisorium paspali-thunbergii (Henn.) Vánky SPECIES
 
 #### Status
 ACCEPTED

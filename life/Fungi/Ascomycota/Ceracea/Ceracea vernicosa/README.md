@@ -1,5 +1,4 @@
-Ceracea vernicosa Cragin, 1885 SPECIES
-=======
+# Ceracea vernicosa Cragin, 1885 SPECIES
 
 #### Status
 ACCEPTED

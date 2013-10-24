@@ -1,5 +1,4 @@
-Phragmidium sikangense Petr. SPECIES
-=======
+# Phragmidium sikangense Petr. SPECIES
 
 #### Status
 ACCEPTED

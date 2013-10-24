@@ -1,5 +1,4 @@
-Crepidotus eucalypticola Singer SPECIES
-=======
+# Crepidotus eucalypticola Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mastigocladium minimum Zach SPECIES
-=======
+# Mastigocladium minimum Zach SPECIES
 
 #### Status
 ACCEPTED

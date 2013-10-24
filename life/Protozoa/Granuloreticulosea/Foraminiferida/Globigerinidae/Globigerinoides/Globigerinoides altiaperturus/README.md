@@ -1,5 +1,4 @@
-Globigerinoides altiaperturus SPECIES
-=======
+# Globigerinoides altiaperturus SPECIES
 
 #### Status
 ACCEPTED

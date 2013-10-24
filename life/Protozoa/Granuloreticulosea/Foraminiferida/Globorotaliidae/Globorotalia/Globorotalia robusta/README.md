@@ -1,5 +1,4 @@
-Globorotalia robusta Bolli SPECIES
-=======
+# Globorotalia robusta Bolli SPECIES
 
 #### Status
 ACCEPTED

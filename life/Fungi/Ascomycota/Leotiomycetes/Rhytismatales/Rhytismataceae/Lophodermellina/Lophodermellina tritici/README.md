@@ -1,5 +1,4 @@
-Lophodermellina tritici (Roum.) Tehon SPECIES
-=======
+# Lophodermellina tritici (Roum.) Tehon SPECIES
 
 #### Status
 ACCEPTED

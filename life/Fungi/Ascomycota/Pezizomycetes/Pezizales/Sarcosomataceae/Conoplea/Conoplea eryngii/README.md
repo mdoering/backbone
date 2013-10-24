@@ -1,5 +1,4 @@
-Conoplea eryngii Pers. SPECIES
-=======
+# Conoplea eryngii Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia kondeensis Gjaerum SPECIES
-=======
+# Puccinia kondeensis Gjaerum SPECIES
 
 #### Status
 ACCEPTED

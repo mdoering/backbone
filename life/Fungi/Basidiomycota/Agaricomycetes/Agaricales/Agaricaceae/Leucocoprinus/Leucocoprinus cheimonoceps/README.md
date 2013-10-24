@@ -1,5 +1,4 @@
-Leucocoprinus cheimonoceps (Berk. & M.A. Curtis) D.A. Reid SPECIES
-=======
+# Leucocoprinus cheimonoceps (Berk. & M.A. Curtis) D.A. Reid SPECIES
 
 #### Status
 ACCEPTED

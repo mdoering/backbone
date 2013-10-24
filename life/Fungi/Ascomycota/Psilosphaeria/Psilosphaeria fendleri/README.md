@@ -1,5 +1,4 @@
-Psilosphaeria fendleri (Tracy & Earle) Cooke SPECIES
-=======
+# Psilosphaeria fendleri (Tracy & Earle) Cooke SPECIES
 
 #### Status
 ACCEPTED

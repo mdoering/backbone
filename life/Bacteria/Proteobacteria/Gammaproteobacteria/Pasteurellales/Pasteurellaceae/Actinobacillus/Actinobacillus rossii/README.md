@@ -1,5 +1,4 @@
-Actinobacillus rossii Sneath & Stevens, 1990 SPECIES
-=======
+# Actinobacillus rossii Sneath & Stevens, 1990 SPECIES
 
 #### Status
 ACCEPTED

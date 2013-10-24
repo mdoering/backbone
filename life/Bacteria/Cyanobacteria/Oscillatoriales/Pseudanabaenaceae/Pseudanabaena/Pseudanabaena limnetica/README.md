@@ -1,5 +1,4 @@
-Pseudanabaena limnetica (Lemmermann) Komárek, 1974 SPECIES
-=======
+# Pseudanabaena limnetica (Lemmermann) Komárek, 1974 SPECIES
 
 #### Status
 ACCEPTED

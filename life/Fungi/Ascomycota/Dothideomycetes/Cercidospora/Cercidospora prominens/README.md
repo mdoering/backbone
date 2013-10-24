@@ -1,5 +1,4 @@
-Cercidospora prominens (Ellis & Everh.) Kuntze SPECIES
-=======
+# Cercidospora prominens (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

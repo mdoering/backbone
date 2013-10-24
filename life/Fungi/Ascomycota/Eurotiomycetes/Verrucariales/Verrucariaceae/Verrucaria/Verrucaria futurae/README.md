@@ -1,5 +1,4 @@
-Verrucaria futurae Kremp. SPECIES
-=======
+# Verrucaria futurae Kremp. SPECIES
 
 #### Status
 ACCEPTED

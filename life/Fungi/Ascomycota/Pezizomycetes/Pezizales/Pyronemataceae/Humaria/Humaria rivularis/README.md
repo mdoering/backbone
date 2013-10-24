@@ -1,5 +1,4 @@
-Humaria rivularis (P. Crouan & H. Crouan) Sacc. SPECIES
-=======
+# Humaria rivularis (P. Crouan & H. Crouan) Sacc. SPECIES
 
 #### Status
 ACCEPTED

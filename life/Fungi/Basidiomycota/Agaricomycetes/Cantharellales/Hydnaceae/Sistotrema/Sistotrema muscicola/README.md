@@ -1,17 +1,16 @@
-Odontia limonicolor (Berk. & Broome) Sacc., 1886 SPECIES
-=======
+# Sistotrema muscicola (Pers.) S. Lundell, 1947 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 4: 194 (1886)
+Fungi Exsiccati Suecici 29-30: 11 (1947)
 
 #### Original name
-Hydnum limonicolor Berk. & Broome, 1878
+Hydnum muscicola Pers., 1825
 
 ### Remarks
 null

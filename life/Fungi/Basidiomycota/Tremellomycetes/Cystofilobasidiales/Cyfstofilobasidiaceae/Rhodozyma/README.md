@@ -1,5 +1,4 @@
-Rhodozyma Phaff, M.W. Mill., Yoney. & Soneda GENUS
-=======
+# Rhodozyma Phaff, M.W. Mill., Yoney. & Soneda GENUS
 
 #### Status
 ACCEPTED

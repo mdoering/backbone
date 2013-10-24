@@ -1,5 +1,4 @@
-Peronospora sakamotoi S. Ito & Tokun. SPECIES
-=======
+# Peronospora sakamotoi S. Ito & Tokun. SPECIES
 
 #### Status
 ACCEPTED

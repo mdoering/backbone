@@ -1,5 +1,4 @@
-Derventina Neagu, 1968 GENUS
-=======
+# Derventina Neagu, 1968 GENUS
 
 #### Status
 ACCEPTED

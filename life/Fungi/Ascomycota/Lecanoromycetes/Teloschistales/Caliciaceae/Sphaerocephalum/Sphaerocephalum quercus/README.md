@@ -1,5 +1,4 @@
-Sphaerocephalum quercus F.H. Wigg. SPECIES
-=======
+# Sphaerocephalum quercus F.H. Wigg. SPECIES
 
 #### Status
 ACCEPTED

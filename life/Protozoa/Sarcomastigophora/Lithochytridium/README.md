@@ -1,5 +1,4 @@
-Lithochytridium Haeckel, 1887 GENUS
-=======
+# Lithochytridium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

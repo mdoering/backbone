@@ -1,5 +1,4 @@
-Sullivania gigas Bramlette (& F. R. Sullivan) O. Varol SPECIES
-=======
+# Sullivania gigas Bramlette (& F. R. Sullivan) O. Varol SPECIES
 
 #### Status
 ACCEPTED

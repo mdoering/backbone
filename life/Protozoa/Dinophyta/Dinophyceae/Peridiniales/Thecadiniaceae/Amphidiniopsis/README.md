@@ -1,5 +1,4 @@
-Amphidiniopsis Woloszynska, 1929 GENUS
-=======
+# Amphidiniopsis Woloszynska, 1929 GENUS
 
 #### Status
 ACCEPTED

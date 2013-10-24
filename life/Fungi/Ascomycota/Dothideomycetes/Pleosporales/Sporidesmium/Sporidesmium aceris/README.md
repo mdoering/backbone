@@ -1,5 +1,4 @@
-Sporidesmium aceris Y.L. Guo SPECIES
-=======
+# Sporidesmium aceris Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

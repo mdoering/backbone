@@ -1,5 +1,4 @@
-Stereum earlei Burt SPECIES
-=======
+# Stereum earlei Burt SPECIES
 
 #### Status
 ACCEPTED

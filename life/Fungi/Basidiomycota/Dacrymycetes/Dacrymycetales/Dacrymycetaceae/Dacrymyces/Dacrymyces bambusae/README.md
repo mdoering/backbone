@@ -1,5 +1,4 @@
-Dacrymyces bambusae Rick SPECIES
-=======
+# Dacrymyces bambusae Rick SPECIES
 
 #### Status
 ACCEPTED

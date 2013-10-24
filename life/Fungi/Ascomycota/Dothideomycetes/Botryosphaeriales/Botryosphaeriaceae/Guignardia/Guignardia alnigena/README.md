@@ -1,5 +1,4 @@
-Guignardia alnigena Y. Nisik. & Watan. {?} SPECIES
-=======
+# Guignardia alnigena Y. Nisik. & Watan. {?} SPECIES
 
 #### Status
 ACCEPTED

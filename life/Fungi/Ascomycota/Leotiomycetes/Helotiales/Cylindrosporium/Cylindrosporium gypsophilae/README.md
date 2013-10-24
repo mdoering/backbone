@@ -1,5 +1,4 @@
-Cylindrosporium gypsophilae Annal. SPECIES
-=======
+# Cylindrosporium gypsophilae Annal. SPECIES
 
 #### Status
 ACCEPTED

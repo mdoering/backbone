@@ -1,5 +1,4 @@
-Amanitopsis lepiotoides (Barla) Sacc. SPECIES
-=======
+# Amanitopsis lepiotoides (Barla) Sacc. SPECIES
 
 #### Status
 ACCEPTED

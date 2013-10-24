@@ -1,5 +1,4 @@
-Agaricus spododes J. Otto SPECIES
-=======
+# Agaricus spododes J. Otto SPECIES
 
 #### Status
 ACCEPTED

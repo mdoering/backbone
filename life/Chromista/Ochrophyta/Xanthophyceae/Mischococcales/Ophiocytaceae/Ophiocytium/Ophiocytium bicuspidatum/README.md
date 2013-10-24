@@ -1,5 +1,4 @@
-Ophiocytium bicuspidatum (Borge) Lemmermann SPECIES
-=======
+# Ophiocytium bicuspidatum (Borge) Lemmermann SPECIES
 
 #### Status
 ACCEPTED

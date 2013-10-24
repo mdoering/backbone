@@ -1,5 +1,4 @@
-Cannopilus miltiadei P. Dumitrica SPECIES
-=======
+# Cannopilus miltiadei P. Dumitrica SPECIES
 
 #### Status
 ACCEPTED

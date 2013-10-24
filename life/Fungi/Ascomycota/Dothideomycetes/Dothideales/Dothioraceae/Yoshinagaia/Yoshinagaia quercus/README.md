@@ -1,17 +1,16 @@
-Yoshinagamyces quercus Hara, 1912 SPECIES
-=======
+# Yoshinagaia quercus Henn., 1904 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hedwigia 43: 143 (1904)
 
 #### Original name
-null
+Yoshinagaia quercus Henn., 1904
 
 ### Remarks
 null

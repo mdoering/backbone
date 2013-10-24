@@ -1,5 +1,4 @@
-Phaeosphaerobolus alpinus D. Hawksw. & Hafellner SPECIES
-=======
+# Phaeosphaerobolus alpinus D. Hawksw. & Hafellner SPECIES
 
 #### Status
 ACCEPTED

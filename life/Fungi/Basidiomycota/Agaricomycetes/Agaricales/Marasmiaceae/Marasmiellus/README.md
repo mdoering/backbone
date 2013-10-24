@@ -1,5 +1,4 @@
-Marasmiellus Murrill, 1915 GENUS
-=======
+# Marasmiellus Murrill, 1915 GENUS
 
 #### Status
 ACCEPTED

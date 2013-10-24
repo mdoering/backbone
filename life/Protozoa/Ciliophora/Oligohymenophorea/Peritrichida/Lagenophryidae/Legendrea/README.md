@@ -1,5 +1,4 @@
-Legendrea Fauré-Fremiet, 1908 GENUS
-=======
+# Legendrea Fauré-Fremiet, 1908 GENUS
 
 #### Status
 ACCEPTED

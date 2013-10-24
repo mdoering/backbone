@@ -1,5 +1,4 @@
-Platismatia tuckermanii (Oakes) W. L. Culb. & C. F. Culb. SPECIES
-=======
+# Platismatia tuckermanii (Oakes) W. L. Culb. & C. F. Culb. SPECIES
 
 #### Status
 ACCEPTED

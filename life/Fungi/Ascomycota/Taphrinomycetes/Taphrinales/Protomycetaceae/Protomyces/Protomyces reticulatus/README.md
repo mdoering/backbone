@@ -1,5 +1,4 @@
-Protomyces reticulatus Sacc. SPECIES
-=======
+# Protomyces reticulatus Sacc. SPECIES
 
 #### Status
 ACCEPTED

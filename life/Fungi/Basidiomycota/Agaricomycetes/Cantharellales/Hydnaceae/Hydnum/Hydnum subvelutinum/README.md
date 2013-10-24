@@ -1,5 +1,4 @@
-Hydnum subvelutinum Berk. & M.A. Curtis SPECIES
-=======
+# Hydnum subvelutinum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca albidoaurantiaca (Hue) Zahlbr. SPECIES
-=======
+# Caloplaca albidoaurantiaca (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

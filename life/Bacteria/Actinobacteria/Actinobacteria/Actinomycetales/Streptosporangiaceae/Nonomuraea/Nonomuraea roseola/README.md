@@ -1,5 +1,4 @@
-Nonomuraea roseola (Lavrova & Preobrazhenskaya, 1975) Zhang et al., 1998 SPECIES
-=======
+# Nonomuraea roseola (Lavrova & Preobrazhenskaya, 1975) Zhang et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

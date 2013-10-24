@@ -1,5 +1,4 @@
-Choiromyces castaneus Quél. SPECIES
-=======
+# Choiromyces castaneus Quél. SPECIES
 
 #### Status
 ACCEPTED

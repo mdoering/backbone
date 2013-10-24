@@ -1,5 +1,4 @@
-Caloplaca franciscae Werner SPECIES
-=======
+# Caloplaca franciscae Werner SPECIES
 
 #### Status
 ACCEPTED

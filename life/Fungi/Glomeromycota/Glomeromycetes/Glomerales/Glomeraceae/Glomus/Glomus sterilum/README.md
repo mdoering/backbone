@@ -1,17 +1,16 @@
-Glomus sterile V.S. Mehrotra & Baijal SPECIES
-=======
+# Glomus sterilum V.S. Mehrotra & Baijal SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Philipp. J. Sci. , C, Bot. 121(3): 306 (1992)
 
 #### Original name
-Glomus sterile V.S. Mehrotra & Baijal
+Glomus sterilum V.S. Mehrotra & Baijal
 
 ### Remarks
 null

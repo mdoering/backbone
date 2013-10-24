@@ -1,5 +1,4 @@
-Vorticella ephemerae Kahl, 1935 SPECIES
-=======
+# Vorticella ephemerae Kahl, 1935 SPECIES
 
 #### Status
 ACCEPTED

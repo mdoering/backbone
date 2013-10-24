@@ -1,5 +1,4 @@
-Sympodina GENUS
-=======
+# Sympodina GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lasallia mayebarae (M. Satô) Asahina SPECIES
-=======
+# Lasallia mayebarae (M. Satô) Asahina SPECIES
 
 #### Status
 ACCEPTED

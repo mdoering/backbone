@@ -1,5 +1,4 @@
-Gloeocystidium mollius Rick SPECIES
-=======
+# Gloeocystidium mollius Rick SPECIES
 
 #### Status
 ACCEPTED

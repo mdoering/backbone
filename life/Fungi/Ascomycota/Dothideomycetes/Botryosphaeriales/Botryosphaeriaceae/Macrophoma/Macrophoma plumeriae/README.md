@@ -1,5 +1,4 @@
-Macrophoma plumeriae R.C. Rajak SPECIES
-=======
+# Macrophoma plumeriae R.C. Rajak SPECIES
 
 #### Status
 ACCEPTED

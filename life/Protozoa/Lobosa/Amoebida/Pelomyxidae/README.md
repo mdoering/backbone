@@ -1,5 +1,4 @@
-Pelomyxidae FAMILY
-=======
+# Pelomyxidae FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aulacantha Haeckel, 1861 GENUS
-=======
+# Aulacantha Haeckel, 1861 GENUS
 
 #### Status
 ACCEPTED

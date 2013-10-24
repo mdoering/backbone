@@ -1,5 +1,4 @@
-Eucollema furvum f. furvum FORM
-=======
+# Eucollema furvum (Ach.) Horw. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Eucollema furvum f. furvum
+Lichen furvus Ach.
 
 ### Remarks
 null

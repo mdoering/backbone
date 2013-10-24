@@ -1,5 +1,4 @@
-Discogloeum comari (Allesch.) Arx SPECIES
-=======
+# Discogloeum comari (Allesch.) Arx SPECIES
 
 #### Status
 ACCEPTED

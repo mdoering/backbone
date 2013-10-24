@@ -1,17 +1,16 @@
-Grebneckiella Bhatia, 1938 GENUS
-=======
+# Grebnickiella Bhatia, 1938 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Fauna Brit. India, Sporozoa, 108.
+null
 
 #### Original name
-Nina Grebnicki, 1873
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Rinodina novomexicana f. novomexicana FORM
-=======
+# Rinodina novomexicana B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Rinodina novomexicana f. novomexicana
+Rinodina novomexicana B. de Lesd.
 
 ### Remarks
 null

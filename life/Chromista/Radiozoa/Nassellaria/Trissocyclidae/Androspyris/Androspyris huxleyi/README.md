@@ -1,5 +1,4 @@
-Androspyris huxleyi (Haeckel) Goll, 1980 SPECIES
-=======
+# Androspyris huxleyi (Haeckel) Goll, 1980 SPECIES
 
 #### Status
 ACCEPTED

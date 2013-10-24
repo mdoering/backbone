@@ -1,5 +1,4 @@
-Cortinarius leubae Rob. Henry SPECIES
-=======
+# Cortinarius leubae Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

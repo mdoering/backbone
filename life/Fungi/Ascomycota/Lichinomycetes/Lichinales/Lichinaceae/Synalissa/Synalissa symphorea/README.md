@@ -1,14 +1,13 @@
-Collema symphoreum (Ach.) DC. SPECIES
-=======
+# Synalissa symphorea (Ach.) Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fl. franç. (Paris), Edn 3 2: 382 (1805)
+Bull. Soc. linn. Bordeaux 21: 264 (1856)
 
 #### Original name
 Lichen symphoreus Ach.

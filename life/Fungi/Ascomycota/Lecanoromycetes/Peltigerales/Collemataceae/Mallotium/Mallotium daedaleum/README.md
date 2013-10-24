@@ -1,5 +1,4 @@
-Mallotium daedaleum (Flot.) A. Massal. SPECIES
-=======
+# Mallotium daedaleum (Flot.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

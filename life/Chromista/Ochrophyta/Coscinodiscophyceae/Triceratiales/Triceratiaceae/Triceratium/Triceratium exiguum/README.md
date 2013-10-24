@@ -1,5 +1,4 @@
-Triceratium exiguum W. Smith SPECIES
-=======
+# Triceratium exiguum W. Smith SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clavaticystis septatus Schrank, 2003 SPECIES
-=======
+# Clavaticystis septatus Schrank, 2003 SPECIES
 
 #### Status
 ACCEPTED

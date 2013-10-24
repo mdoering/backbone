@@ -1,5 +1,4 @@
-Hymenoscyphus carneoroseus (Cooke & Harkn.) Kuntze SPECIES
-=======
+# Hymenoscyphus carneoroseus (Cooke & Harkn.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

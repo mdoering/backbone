@@ -1,5 +1,4 @@
-Phaeocollybia fallax A.H. Sm. SPECIES
-=======
+# Phaeocollybia fallax A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

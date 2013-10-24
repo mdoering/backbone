@@ -1,5 +1,4 @@
-Buliminella elonglobula SPECIES
-=======
+# Buliminella elonglobula SPECIES
 
 #### Status
 ACCEPTED

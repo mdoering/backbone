@@ -1,17 +1,16 @@
-Conocybe macrocephala var. macrocephala VARIETY
-=======
+# Conocybe macrocephala Kühner ex Singer, 1959 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Mycologia 51(3): 395 (1959)
 
 #### Original name
-Conocybe macrocephala var. macrocephala
+Conocybe macrocephala Kühner ex Singer, 1959
 
 ### Remarks
 null

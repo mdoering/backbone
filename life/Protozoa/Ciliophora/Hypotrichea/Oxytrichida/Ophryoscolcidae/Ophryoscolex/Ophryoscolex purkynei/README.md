@@ -1,5 +1,4 @@
-Ophryoscolex purkynei Stein, 1859 SPECIES
-=======
+# Ophryoscolex purkynei Stein, 1859 SPECIES
 
 #### Status
 ACCEPTED

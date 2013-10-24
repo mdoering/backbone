@@ -1,14 +1,13 @@
-Sporisorium cymbopogonis-colorati (Mundk. & Thirum.) Kakish. & Y. Ono, 1993 SPECIES
-=======
+# Sphacelotheca cymbopogonis-colorati Mundk. & Thirum., 1951 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Cryptogamic Flora of Pakistan (Tokyo), Vol. <b>2</b> 189 (1993)
+Mycol. Pap. 40: 3 (1951)
 
 #### Original name
 Sphacelotheca cymbopogonis-colorati Mundk. & Thirum., 1951

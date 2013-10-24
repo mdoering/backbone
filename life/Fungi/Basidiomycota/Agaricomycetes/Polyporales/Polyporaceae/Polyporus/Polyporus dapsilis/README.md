@@ -1,5 +1,4 @@
-Polyporus dapsilis Britzelm. SPECIES
-=======
+# Polyporus dapsilis Britzelm. SPECIES
 
 #### Status
 ACCEPTED

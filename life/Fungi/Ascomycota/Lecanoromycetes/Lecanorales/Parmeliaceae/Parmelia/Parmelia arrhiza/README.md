@@ -1,5 +1,4 @@
-Parmelia arrhiza (Meyen & Flot.) J.D. Zhao SPECIES
-=======
+# Parmelia arrhiza (Meyen & Flot.) J.D. Zhao SPECIES
 
 #### Status
 ACCEPTED

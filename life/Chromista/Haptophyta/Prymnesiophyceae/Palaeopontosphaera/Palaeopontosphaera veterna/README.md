@@ -1,5 +1,4 @@
-Palaeopontosphaera veterna B. Prins ex A.P. Rood, W.W. Hay & T. Barnard SPECIES
-=======
+# Palaeopontosphaera veterna B. Prins ex A.P. Rood, W.W. Hay & T. Barnard SPECIES
 
 #### Status
 ACCEPTED

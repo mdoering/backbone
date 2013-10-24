@@ -1,5 +1,4 @@
-Leioligotriletes ochroleucus Timofeev, 1959 SPECIES
-=======
+# Leioligotriletes ochroleucus Timofeev, 1959 SPECIES
 
 #### Status
 ACCEPTED

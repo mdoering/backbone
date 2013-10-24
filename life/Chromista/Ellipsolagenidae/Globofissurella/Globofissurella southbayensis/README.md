@@ -1,5 +1,4 @@
-Globofissurella southbayensis (McCulloch, 1977) SPECIES
-=======
+# Globofissurella southbayensis (McCulloch, 1977) SPECIES
 
 #### Status
 ACCEPTED

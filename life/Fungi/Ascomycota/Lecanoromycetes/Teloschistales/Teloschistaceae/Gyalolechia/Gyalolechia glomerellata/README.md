@@ -1,5 +1,4 @@
-Gyalolechia glomerellata (Harm.) M. Choisy SPECIES
-=======
+# Gyalolechia glomerellata (Harm.) M. Choisy SPECIES
 
 #### Status
 ACCEPTED

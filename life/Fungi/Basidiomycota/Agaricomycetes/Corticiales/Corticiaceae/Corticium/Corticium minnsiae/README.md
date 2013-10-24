@@ -1,17 +1,16 @@
-Aleurodiscus minnsiae H.S. Jacks., 1950 SPECIES
-=======
+# Corticium minnsiae (H.S. Jacks.) Boidin & Lanq., 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Canadian Journal of Research, Section C 28: 67 (1950)
+null
 
 #### Original name
-Aleurodiscus minnsiae H.S. Jacks., 1950
+null
 
 ### Remarks
 null

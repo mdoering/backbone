@@ -1,5 +1,4 @@
-Didymella celastri Brunaud SPECIES
-=======
+# Didymella celastri Brunaud SPECIES
 
 #### Status
 ACCEPTED

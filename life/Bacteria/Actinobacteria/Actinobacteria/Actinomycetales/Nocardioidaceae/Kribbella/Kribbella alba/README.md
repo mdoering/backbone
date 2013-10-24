@@ -1,5 +1,4 @@
-Kribbella alba Li et al., 2006 SPECIES
-=======
+# Kribbella alba Li et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

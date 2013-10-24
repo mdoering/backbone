@@ -1,5 +1,4 @@
-Pulveroboletus bembaensis Degreef & De Kesel SPECIES
-=======
+# Pulveroboletus bembaensis Degreef & De Kesel SPECIES
 
 #### Status
 ACCEPTED

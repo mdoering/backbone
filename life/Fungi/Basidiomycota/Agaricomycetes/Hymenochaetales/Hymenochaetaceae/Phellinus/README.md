@@ -1,17 +1,16 @@
-Mison Adans. GENUS
-=======
+# Phellinus Quél. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fam. Pl. 2: 10, 578 (1763)
+Enchir. fung. (Paris) 172 (1886)
 
 #### Original name
-Mison Adans.
+Phellinus Quél.
 
 ### Remarks
 null

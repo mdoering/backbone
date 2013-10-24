@@ -1,5 +1,4 @@
-Comoclathris extrema Shoemaker & C.E. Babc. SPECIES
-=======
+# Comoclathris extrema Shoemaker & C.E. Babc. SPECIES
 
 #### Status
 ACCEPTED

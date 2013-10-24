@@ -1,5 +1,4 @@
-Erythricium J. Eriksson & Hjortstam, 1970 GENUS
-=======
+# Erythricium J. Eriksson & Hjortstam, 1970 GENUS
 
 #### Status
 ACCEPTED

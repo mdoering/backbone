@@ -1,5 +1,4 @@
-Bryophytomyces Cif. GENUS
-=======
+# Bryophytomyces Cif. GENUS
 
 #### Status
 ACCEPTED

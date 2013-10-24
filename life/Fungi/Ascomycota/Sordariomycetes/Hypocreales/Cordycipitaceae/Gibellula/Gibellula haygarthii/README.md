@@ -1,8 +1,7 @@
-Gibellula haygarthis Van der Byl SPECIES
-=======
+# Gibellula haygarthii Van der Byl SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Gibellula haygarthis Van der Byl
+Gibellula haygarthii Van der Byl
 
 ### Remarks
 null

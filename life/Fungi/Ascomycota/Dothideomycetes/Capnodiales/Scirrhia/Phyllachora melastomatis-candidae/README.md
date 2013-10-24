@@ -1,5 +1,4 @@
-Phyllachora melastomatis-candidae Sawada, 1942 SPECIES
-=======
+# Phyllachora melastomatis-candidae Sawada, 1942 SPECIES
 
 #### Status
 DOUBTFUL

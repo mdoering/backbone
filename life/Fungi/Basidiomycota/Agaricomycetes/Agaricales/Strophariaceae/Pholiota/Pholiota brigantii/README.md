@@ -1,5 +1,4 @@
-Pholiota brigantii (Fr.) Sacc. SPECIES
-=======
+# Pholiota brigantii (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

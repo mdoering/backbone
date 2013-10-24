@@ -1,5 +1,4 @@
-Multisporascus Marincowitz, M.J. Wingf. & Crous GENUS
-=======
+# Multisporascus Marincowitz, M.J. Wingf. & Crous GENUS
 
 #### Status
 ACCEPTED

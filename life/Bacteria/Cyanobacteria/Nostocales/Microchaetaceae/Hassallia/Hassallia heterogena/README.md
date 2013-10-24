@@ -1,5 +1,4 @@
-Hassallia heterogena Gardner SPECIES
-=======
+# Hassallia heterogena Gardner SPECIES
 
 #### Status
 ACCEPTED

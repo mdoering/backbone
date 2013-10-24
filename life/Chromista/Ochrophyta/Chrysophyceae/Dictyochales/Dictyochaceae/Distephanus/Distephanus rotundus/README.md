@@ -1,5 +1,4 @@
-Distephanus rotundus SPECIES
-=======
+# Distephanus rotundus SPECIES
 
 #### Status
 ACCEPTED

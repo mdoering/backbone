@@ -1,8 +1,7 @@
-Gonyaulax depressum (Gaarder) Balech, 1979 SPECIES
-=======
+# Alexandrium depressum (Gaarder, 1954) Balech & Tangen, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

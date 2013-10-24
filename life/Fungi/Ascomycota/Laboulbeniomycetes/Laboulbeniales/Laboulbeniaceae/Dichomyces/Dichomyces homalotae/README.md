@@ -1,5 +1,4 @@
-Dichomyces homalotae Thaxt. SPECIES
-=======
+# Dichomyces homalotae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

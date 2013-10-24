@@ -1,5 +1,4 @@
-Xylaria cordovensiformis Bat. & A.F. Vital SPECIES
-=======
+# Xylaria cordovensiformis Bat. & A.F. Vital SPECIES
 
 #### Status
 ACCEPTED

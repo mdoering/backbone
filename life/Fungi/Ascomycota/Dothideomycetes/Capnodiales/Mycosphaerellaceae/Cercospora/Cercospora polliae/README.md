@@ -1,5 +1,4 @@
-Cercospora polliae Sawada SPECIES
-=======
+# Cercospora polliae Sawada SPECIES
 
 #### Status
 ACCEPTED

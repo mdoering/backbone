@@ -1,5 +1,4 @@
-Puccinia vittadiniae McAlpine, 1906 SPECIES
-=======
+# Puccinia vittadiniae McAlpine, 1906 SPECIES
 
 #### Status
 ACCEPTED

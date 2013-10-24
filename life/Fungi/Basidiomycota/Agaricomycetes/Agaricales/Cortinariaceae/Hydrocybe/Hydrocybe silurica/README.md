@@ -1,5 +1,4 @@
-Hydrocybe silurica Velen. SPECIES
-=======
+# Hydrocybe silurica Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spathidium aciculare Foissner, Agatha & Berger, 2002 SPECIES
-=======
+# Spathidium aciculare Foissner, Agatha & Berger, 2002 SPECIES
 
 #### Status
 ACCEPTED

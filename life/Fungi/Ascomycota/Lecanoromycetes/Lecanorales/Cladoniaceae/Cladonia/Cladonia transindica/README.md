@@ -1,5 +1,4 @@
-Cladonia transindica Ahti SPECIES
-=======
+# Cladonia transindica Ahti SPECIES
 
 #### Status
 ACCEPTED

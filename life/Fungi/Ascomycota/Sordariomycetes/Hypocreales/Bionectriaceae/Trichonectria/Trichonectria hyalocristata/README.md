@@ -1,5 +1,4 @@
-Trichonectria hyalocristata Scheuer, 1988 SPECIES
-=======
+# Trichonectria hyalocristata Scheuer, 1988 SPECIES
 
 #### Status
 ACCEPTED

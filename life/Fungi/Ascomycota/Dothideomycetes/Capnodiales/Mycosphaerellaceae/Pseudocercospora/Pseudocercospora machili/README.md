@@ -1,17 +1,16 @@
-Pseudocercospora machill Sawada ex Goh & W.H. Hsieh SPECIES
-=======
+# Pseudocercospora machili Sawada ex Goh & W.H. Hsieh SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Trans. Mycol. Soc. Rep. China 2(2): 132 (1987)
 
 #### Original name
-Pseudocercospora machill Sawada ex Goh & W.H. Hsieh
+Pseudocercospora machili Sawada ex Goh & W.H. Hsieh
 
 ### Remarks
 null

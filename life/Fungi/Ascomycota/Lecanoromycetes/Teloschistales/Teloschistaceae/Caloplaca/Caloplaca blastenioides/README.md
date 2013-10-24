@@ -1,5 +1,4 @@
-Caloplaca blastenioides Zahlbr. SPECIES
-=======
+# Caloplaca blastenioides Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

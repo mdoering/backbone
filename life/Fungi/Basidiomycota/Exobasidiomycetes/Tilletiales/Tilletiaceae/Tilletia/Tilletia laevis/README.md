@@ -1,17 +1,16 @@
-Ustilago foetens Berk. & M.A. Curtis, 1860 SPECIES
-=======
+# Tilletia laevis J.G. Kühn, 1873 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Rabenhorst's Fungi europ. exsicc. no. 1697 (1873)
 
 #### Original name
-Ustilago foetens Berk. & M.A. Curtis, 1860
+Tilletia laevis J.G. Kühn, 1873
 
 ### Remarks
 null

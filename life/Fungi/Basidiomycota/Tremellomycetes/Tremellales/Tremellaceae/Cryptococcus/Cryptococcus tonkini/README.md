@@ -1,5 +1,4 @@
-Cryptococcus tonkini (J. Legendre) Castell. & Chalm. SPECIES
-=======
+# Cryptococcus tonkini (J. Legendre) Castell. & Chalm. SPECIES
 
 #### Status
 ACCEPTED

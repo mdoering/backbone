@@ -1,5 +1,4 @@
-Lachnum subauratum (Ellis) Raitv. SPECIES
-=======
+# Lachnum subauratum (Ellis) Raitv. SPECIES
 
 #### Status
 ACCEPTED

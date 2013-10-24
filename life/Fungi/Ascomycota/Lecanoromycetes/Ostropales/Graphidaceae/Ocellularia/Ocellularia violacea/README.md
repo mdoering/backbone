@@ -1,5 +1,4 @@
-Ocellularia violacea Räsänen SPECIES
-=======
+# Ocellularia violacea Räsänen SPECIES
 
 #### Status
 ACCEPTED

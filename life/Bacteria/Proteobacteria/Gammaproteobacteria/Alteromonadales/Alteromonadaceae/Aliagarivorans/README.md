@@ -1,5 +1,4 @@
-Aliagarivorans Jean, Huang, Liu, Chen & Shieh, 2009 GENUS
-=======
+# Aliagarivorans Jean, Huang, Liu, Chen & Shieh, 2009 GENUS
 
 #### Status
 ACCEPTED

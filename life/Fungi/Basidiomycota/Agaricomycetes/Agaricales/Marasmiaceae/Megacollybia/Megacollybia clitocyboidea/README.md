@@ -1,5 +1,4 @@
-Megacollybia clitocyboidea R.H. Petersen, Takehashi & Nagas. SPECIES
-=======
+# Megacollybia clitocyboidea R.H. Petersen, Takehashi & Nagas. SPECIES
 
 #### Status
 ACCEPTED

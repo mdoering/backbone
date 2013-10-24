@@ -1,5 +1,4 @@
-Stachybotrys eucylindrospora D.W. Li, 2007 SPECIES
-=======
+# Stachybotrys eucylindrospora D.W. Li, 2007 SPECIES
 
 #### Status
 ACCEPTED

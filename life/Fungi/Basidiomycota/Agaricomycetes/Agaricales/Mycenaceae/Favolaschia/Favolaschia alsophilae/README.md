@@ -1,5 +1,4 @@
-Favolaschia alsophilae Singer, 1974 SPECIES
-=======
+# Favolaschia alsophilae Singer, 1974 SPECIES
 
 #### Status
 ACCEPTED

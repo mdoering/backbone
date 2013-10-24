@@ -1,5 +1,4 @@
-Lecanora cinerescens (Harm.) Ozenda & Clauzade SPECIES
-=======
+# Lecanora cinerescens (Harm.) Ozenda & Clauzade SPECIES
 
 #### Status
 ACCEPTED

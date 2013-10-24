@@ -1,5 +1,4 @@
-Crepidotus stratosus Hesler & A.H. Sm. SPECIES
-=======
+# Crepidotus stratosus Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

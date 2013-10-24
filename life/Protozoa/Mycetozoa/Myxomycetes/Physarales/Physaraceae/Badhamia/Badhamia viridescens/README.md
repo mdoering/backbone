@@ -1,5 +1,4 @@
-Badhamia viridescens Meyl., 1921 SPECIES
-=======
+# Badhamia viridescens Meyl., 1921 SPECIES
 
 #### Status
 ACCEPTED

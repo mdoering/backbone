@@ -1,8 +1,7 @@
-Endospora rubra Gardner SPECIES
-=======
+# Myxosarcina rubra (Gardner) Bourrelly SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

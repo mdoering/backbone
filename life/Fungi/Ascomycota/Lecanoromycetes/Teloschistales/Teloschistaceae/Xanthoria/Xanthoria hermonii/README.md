@@ -1,5 +1,4 @@
-Xanthoria hermonii S.Y. Kondr. SPECIES
-=======
+# Xanthoria hermonii S.Y. Kondr. SPECIES
 
 #### Status
 ACCEPTED

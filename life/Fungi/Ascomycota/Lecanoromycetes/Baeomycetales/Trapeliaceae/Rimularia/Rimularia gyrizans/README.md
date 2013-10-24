@@ -1,5 +1,4 @@
-Rimularia gyrizans (Nyl.) Hertel & Rambold SPECIES
-=======
+# Rimularia gyrizans (Nyl.) Hertel & Rambold SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clavariadelphus subfastigiatus V.L. Wells & Kempton, 1968 SPECIES
-=======
+# Clavariadelphus subfastigiatus V.L. Wells & Kempton, 1968 SPECIES
 
 #### Status
 ACCEPTED

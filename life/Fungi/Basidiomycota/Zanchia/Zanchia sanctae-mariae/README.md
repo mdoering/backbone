@@ -1,5 +1,4 @@
-Zanchia sanctae-mariae Rick, 1958 SPECIES
-=======
+# Zanchia sanctae-mariae Rick, 1958 SPECIES
 
 #### Status
 ACCEPTED

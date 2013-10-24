@@ -1,5 +1,4 @@
-Sphaerotrichia sadoensis Noda SPECIES
-=======
+# Sphaerotrichia sadoensis Noda SPECIES
 
 #### Status
 ACCEPTED

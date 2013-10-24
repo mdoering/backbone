@@ -1,5 +1,4 @@
-Agaricus aerugineus Lam. SPECIES
-=======
+# Agaricus aerugineus Lam. SPECIES
 
 #### Status
 ACCEPTED

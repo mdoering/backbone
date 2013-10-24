@@ -1,5 +1,4 @@
-Trichosporum densum P. Karst. SPECIES
-=======
+# Trichosporum densum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

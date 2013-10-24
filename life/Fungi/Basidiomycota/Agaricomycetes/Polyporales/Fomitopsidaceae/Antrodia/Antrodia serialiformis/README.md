@@ -1,5 +1,4 @@
-Antrodia serialiformis Kout & Vlasák SPECIES
-=======
+# Antrodia serialiformis Kout & Vlasák SPECIES
 
 #### Status
 ACCEPTED

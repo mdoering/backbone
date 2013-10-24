@@ -1,5 +1,4 @@
-Hyalotiella americana (Speg.) Nag Raj SPECIES
-=======
+# Hyalotiella americana (Speg.) Nag Raj SPECIES
 
 #### Status
 ACCEPTED

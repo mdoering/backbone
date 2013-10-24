@@ -1,5 +1,4 @@
-Verrucaria nigrolimitata H. Magn. SPECIES
-=======
+# Verrucaria nigrolimitata H. Magn. SPECIES
 
 #### Status
 ACCEPTED

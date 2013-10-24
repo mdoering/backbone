@@ -1,5 +1,4 @@
-Uredo armeriae Duby SPECIES
-=======
+# Uredo armeriae Duby SPECIES
 
 #### Status
 ACCEPTED

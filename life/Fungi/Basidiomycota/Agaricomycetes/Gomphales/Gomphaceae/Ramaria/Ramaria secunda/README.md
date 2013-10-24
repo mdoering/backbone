@@ -1,17 +1,16 @@
-Clavaria crassipes Peck, 1903 SPECIES
-=======
+# Ramaria secunda (Berk.) Corner, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Rep. N. Y. St. Mus. 67: 27 (1903)
+Monograph of Clavaria and allied Genera (Annals of Botany Memoirs No. 1) 620 (1950)
 
 #### Original name
-Clavaria crassipes Peck, 1903
+Clavaria secunda Berk., 1873
 
 ### Remarks
 null

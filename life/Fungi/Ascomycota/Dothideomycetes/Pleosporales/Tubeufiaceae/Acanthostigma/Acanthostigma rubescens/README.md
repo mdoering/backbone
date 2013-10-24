@@ -1,5 +1,4 @@
-Acanthostigma rubescens Rehm SPECIES
-=======
+# Acanthostigma rubescens Rehm SPECIES
 
 #### Status
 ACCEPTED

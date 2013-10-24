@@ -1,5 +1,4 @@
-Micromphale badia Murrill SPECIES
-=======
+# Micromphale badia Murrill SPECIES
 
 #### Status
 ACCEPTED

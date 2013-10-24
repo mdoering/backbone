@@ -1,5 +1,4 @@
-Sporidesmium coffeicola M.B. Ellis SPECIES
-=======
+# Sporidesmium coffeicola M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

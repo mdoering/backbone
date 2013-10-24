@@ -1,5 +1,4 @@
-Corollasphaeridium normalisum Yin Leiming, 1986 SPECIES
-=======
+# Corollasphaeridium normalisum Yin Leiming, 1986 SPECIES
 
 #### Status
 ACCEPTED

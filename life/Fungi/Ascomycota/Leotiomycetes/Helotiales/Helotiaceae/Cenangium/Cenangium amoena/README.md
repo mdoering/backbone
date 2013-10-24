@@ -1,5 +1,4 @@
-Cenangium amoena (Tul. & C. Tul.) SPECIES
-=======
+# Cenangium amoena (Tul. & C. Tul.) SPECIES
 
 #### Status
 ACCEPTED

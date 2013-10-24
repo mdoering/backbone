@@ -1,5 +1,4 @@
-Erysiphe parvula (Cooke & Peck) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe parvula (Cooke & Peck) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

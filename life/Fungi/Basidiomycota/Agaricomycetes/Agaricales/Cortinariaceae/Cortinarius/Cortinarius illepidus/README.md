@@ -1,5 +1,4 @@
-Cortinarius illepidus Britzelm. SPECIES
-=======
+# Cortinarius illepidus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

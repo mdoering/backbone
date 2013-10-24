@@ -1,5 +1,4 @@
-Urceolaria spinicola Beers, 1964 SPECIES
-=======
+# Urceolaria spinicola Beers, 1964 SPECIES
 
 #### Status
 ACCEPTED

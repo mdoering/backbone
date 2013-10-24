@@ -1,5 +1,4 @@
-Deflexula major Corner, 1952 SPECIES
-=======
+# Deflexula major Corner, 1952 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius brevisporus M.M. Moser SPECIES
-=======
+# Cortinarius brevisporus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

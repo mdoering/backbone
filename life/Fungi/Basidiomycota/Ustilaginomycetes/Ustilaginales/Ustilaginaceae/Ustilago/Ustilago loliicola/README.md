@@ -1,5 +1,4 @@
-Ustilago loliicola Cif. SPECIES
-=======
+# Ustilago loliicola Cif. SPECIES
 
 #### Status
 ACCEPTED

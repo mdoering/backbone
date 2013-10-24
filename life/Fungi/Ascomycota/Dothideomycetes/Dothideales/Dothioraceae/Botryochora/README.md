@@ -1,5 +1,4 @@
-Botryochora Torrend GENUS
-=======
+# Botryochora Torrend GENUS
 
 #### Status
 ACCEPTED

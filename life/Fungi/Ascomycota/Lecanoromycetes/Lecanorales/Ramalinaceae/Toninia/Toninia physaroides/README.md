@@ -1,14 +1,13 @@
-Thalloidima physaroides Opiz SPECIES
-=======
+# Toninia physaroides (Opiz) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Lotos 6: 158 (1856)
+Cat. Lich. Univers. 4: 275 (1926)
 
 #### Original name
 Thalloidima physaroides Opiz

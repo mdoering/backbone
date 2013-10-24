@@ -1,5 +1,4 @@
-Torulomyces macrosporus Matsush. SPECIES
-=======
+# Torulomyces macrosporus Matsush. SPECIES
 
 #### Status
 ACCEPTED

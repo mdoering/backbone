@@ -1,5 +1,4 @@
-Diplochytridium cejpii (Fott) Karling SPECIES
-=======
+# Diplochytridium cejpii (Fott) Karling SPECIES
 
 #### Status
 ACCEPTED

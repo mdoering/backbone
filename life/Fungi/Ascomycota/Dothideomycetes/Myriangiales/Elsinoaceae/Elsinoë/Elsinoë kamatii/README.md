@@ -1,5 +1,4 @@
-Elsinoë kamatii Tewari {?} SPECIES
-=======
+# Elsinoë kamatii Tewari {?} SPECIES
 
 #### Status
 ACCEPTED

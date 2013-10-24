@@ -1,5 +1,4 @@
-Cystolepiota sacchariolens Nonis SPECIES
-=======
+# Cystolepiota sacchariolens Nonis SPECIES
 
 #### Status
 ACCEPTED

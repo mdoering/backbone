@@ -1,5 +1,4 @@
-Pseudonectriella GENUS
-=======
+# Pseudonectriella GENUS
 
 #### Status
 ACCEPTED

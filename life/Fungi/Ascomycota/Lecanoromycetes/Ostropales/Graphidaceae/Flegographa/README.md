@@ -1,5 +1,4 @@
-Flegographa GENUS
-=======
+# Flegographa GENUS
 
 #### Status
 ACCEPTED

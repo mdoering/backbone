@@ -1,5 +1,4 @@
-Pyrenotea maresii SPECIES
-=======
+# Pyrenotea maresii SPECIES
 
 #### Status
 ACCEPTED

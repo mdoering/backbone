@@ -1,5 +1,4 @@
-Hygrocybe striatolutea E. Horak, 1973 SPECIES
-=======
+# Hygrocybe striatolutea E. Horak, 1973 SPECIES
 
 #### Status
 ACCEPTED

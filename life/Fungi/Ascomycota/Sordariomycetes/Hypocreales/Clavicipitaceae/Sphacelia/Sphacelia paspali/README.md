@@ -1,5 +1,4 @@
-Sphacelia paspali Bornet SPECIES
-=======
+# Sphacelia paspali Bornet SPECIES
 
 #### Status
 ACCEPTED

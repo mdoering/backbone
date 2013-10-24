@@ -1,5 +1,4 @@
-Puccinia excelsa Barclay SPECIES
-=======
+# Puccinia excelsa Barclay SPECIES
 
 #### Status
 ACCEPTED

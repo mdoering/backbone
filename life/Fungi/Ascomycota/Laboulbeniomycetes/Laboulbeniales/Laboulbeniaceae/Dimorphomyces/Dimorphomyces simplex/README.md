@@ -1,5 +1,4 @@
-Dimorphomyces simplex Thaxt. SPECIES
-=======
+# Dimorphomyces simplex Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius praegrandispermus Singer SPECIES
-=======
+# Marasmius praegrandispermus Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Granuloreticulosea CLASS
-=======
+# Granuloreticulosea CLASS
 
 #### Status
 ACCEPTED

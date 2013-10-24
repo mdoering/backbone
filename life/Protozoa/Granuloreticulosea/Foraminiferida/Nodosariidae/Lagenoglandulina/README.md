@@ -1,5 +1,4 @@
-Lagenoglandulina Silvestri, 1923 GENUS
-=======
+# Lagenoglandulina Silvestri, 1923 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fursenkoina schreibersiana SPECIES
-=======
+# Fursenkoina schreibersiana SPECIES
 
 #### Status
 ACCEPTED

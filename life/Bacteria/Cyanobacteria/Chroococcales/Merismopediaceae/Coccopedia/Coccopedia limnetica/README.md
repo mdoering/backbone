@@ -1,5 +1,4 @@
-Coccopedia limnetica Troickaja SPECIES
-=======
+# Coccopedia limnetica Troickaja SPECIES
 
 #### Status
 ACCEPTED

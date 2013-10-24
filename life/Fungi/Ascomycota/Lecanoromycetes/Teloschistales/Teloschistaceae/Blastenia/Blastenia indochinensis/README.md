@@ -1,5 +1,4 @@
-Blastenia indochinensis Zahlbr. SPECIES
-=======
+# Blastenia indochinensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

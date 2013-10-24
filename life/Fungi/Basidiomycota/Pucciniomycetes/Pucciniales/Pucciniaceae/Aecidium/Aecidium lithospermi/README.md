@@ -1,5 +1,4 @@
-Aecidium lithospermi Thüm. SPECIES
-=======
+# Aecidium lithospermi Thüm. SPECIES
 
 #### Status
 ACCEPTED

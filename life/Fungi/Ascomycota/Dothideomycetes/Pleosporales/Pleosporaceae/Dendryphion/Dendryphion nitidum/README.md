@@ -1,5 +1,4 @@
-Dendryphion nitidum P. Karst., 1888 SPECIES
-=======
+# Dendryphion nitidum P. Karst., 1888 SPECIES
 
 #### Status
 ACCEPTED

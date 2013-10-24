@@ -1,5 +1,4 @@
-Cercosporula uncinata R.F. Castañeda SPECIES
-=======
+# Cercosporula uncinata R.F. Castañeda SPECIES
 
 #### Status
 ACCEPTED

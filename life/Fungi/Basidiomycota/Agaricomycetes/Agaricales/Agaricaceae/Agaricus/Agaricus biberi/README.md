@@ -1,5 +1,4 @@
-Agaricus biberi Hlavácek SPECIES
-=======
+# Agaricus biberi Hlavácek SPECIES
 
 #### Status
 ACCEPTED

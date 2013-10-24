@@ -1,5 +1,4 @@
-Dermatocarpon lyngei Servít SPECIES
-=======
+# Dermatocarpon lyngei Servít SPECIES
 
 #### Status
 ACCEPTED

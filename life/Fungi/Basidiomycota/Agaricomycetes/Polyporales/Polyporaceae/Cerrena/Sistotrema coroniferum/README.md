@@ -1,5 +1,4 @@
-Sistotrema coroniferum (Höhn. & Litsch.) D.P. Rogers & H.S. Jacks., 1943 SPECIES
-=======
+# Sistotrema coroniferum (Höhn. & Litsch.) D.P. Rogers & H.S. Jacks., 1943 SPECIES
 
 #### Status
 DOUBTFUL

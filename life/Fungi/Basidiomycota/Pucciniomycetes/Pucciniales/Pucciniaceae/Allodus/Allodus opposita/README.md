@@ -1,5 +1,4 @@
-Allodus opposita Orton SPECIES
-=======
+# Allodus opposita Orton SPECIES
 
 #### Status
 ACCEPTED

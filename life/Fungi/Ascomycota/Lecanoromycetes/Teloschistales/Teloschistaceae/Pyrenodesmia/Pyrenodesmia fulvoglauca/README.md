@@ -1,5 +1,4 @@
-Pyrenodesmia fulvoglauca (Flagey) Flagey SPECIES
-=======
+# Pyrenodesmia fulvoglauca (Flagey) Flagey SPECIES
 
 #### Status
 ACCEPTED

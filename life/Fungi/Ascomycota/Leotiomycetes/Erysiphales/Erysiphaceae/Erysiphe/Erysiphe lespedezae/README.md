@@ -1,5 +1,4 @@
-Erysiphe lespedezae R.Y. Zheng & U. Braun SPECIES
-=======
+# Erysiphe lespedezae R.Y. Zheng & U. Braun SPECIES
 
 #### Status
 ACCEPTED

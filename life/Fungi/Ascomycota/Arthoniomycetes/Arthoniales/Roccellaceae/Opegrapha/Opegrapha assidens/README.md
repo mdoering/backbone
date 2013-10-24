@@ -1,5 +1,4 @@
-Opegrapha assidens Nyl. SPECIES
-=======
+# Opegrapha assidens Nyl. SPECIES
 
 #### Status
 ACCEPTED

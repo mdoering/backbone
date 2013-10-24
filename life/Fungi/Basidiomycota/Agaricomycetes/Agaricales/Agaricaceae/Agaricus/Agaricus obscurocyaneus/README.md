@@ -1,5 +1,4 @@
-Agaricus obscurocyaneus Secr. SPECIES
-=======
+# Agaricus obscurocyaneus Secr. SPECIES
 
 #### Status
 ACCEPTED

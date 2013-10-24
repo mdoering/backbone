@@ -1,5 +1,4 @@
-Trichobotrys ipomoeae Sawada SPECIES
-=======
+# Trichobotrys ipomoeae Sawada SPECIES
 
 #### Status
 ACCEPTED

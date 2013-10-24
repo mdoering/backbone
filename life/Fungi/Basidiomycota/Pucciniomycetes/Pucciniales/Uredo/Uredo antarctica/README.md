@@ -1,5 +1,4 @@
-Uredo antarctica J.M. Hook SPECIES
-=======
+# Uredo antarctica J.M. Hook SPECIES
 
 #### Status
 ACCEPTED

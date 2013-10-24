@@ -1,14 +1,13 @@
-Trabutia merrillii (Ricker) Theiss. & Syd., 1917 SPECIES
-=======
+# Phyllachora merrillii Ricker, 1906 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 14(6): 446 (1917)
+Philipp. J. Sci. , C, Bot. 1: 280 (1906)
 
 #### Original name
 Phyllachora merrillii Ricker, 1906

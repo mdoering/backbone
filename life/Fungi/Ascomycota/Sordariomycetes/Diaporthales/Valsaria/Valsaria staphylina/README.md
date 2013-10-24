@@ -1,5 +1,4 @@
-Valsaria staphylina Ellis & Everh. SPECIES
-=======
+# Valsaria staphylina Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Helmisporium filicicola Henn. SPECIES
-=======
+# Helminthosporium filicicola Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Beih. Nova Hedwigia 44: 71 (1905)
 
 #### Original name
-Helmisporium filicicola Henn.
+Helminthosporium filicicola Henn.
 
 ### Remarks
 null

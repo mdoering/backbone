@@ -1,5 +1,4 @@
-Lyophyllum calabrum Lavorato & Contu SPECIES
-=======
+# Lyophyllum calabrum Lavorato & Contu SPECIES
 
 #### Status
 ACCEPTED

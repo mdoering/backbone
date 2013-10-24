@@ -1,5 +1,4 @@
-Tetraplektron torsum var. longispinum Y. Thérézien VARIETY
-=======
+# Tetraplektron torsum (Skuja) Dedus. SPECIES
 
 #### Status
 ACCEPTED

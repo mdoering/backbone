@@ -1,5 +1,4 @@
-Polystictus phocinus (Berk. & Broome) Cooke SPECIES
-=======
+# Polystictus phocinus (Berk. & Broome) Cooke SPECIES
 
 #### Status
 ACCEPTED

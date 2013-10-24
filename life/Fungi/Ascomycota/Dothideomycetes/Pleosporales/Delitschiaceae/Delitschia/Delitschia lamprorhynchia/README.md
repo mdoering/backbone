@@ -1,5 +1,4 @@
-Delitschia lamprorhynchia Luck-Allen & Cain SPECIES
-=======
+# Delitschia lamprorhynchia Luck-Allen & Cain SPECIES
 
 #### Status
 ACCEPTED

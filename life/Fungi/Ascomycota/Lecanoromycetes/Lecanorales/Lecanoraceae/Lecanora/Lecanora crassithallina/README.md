@@ -1,5 +1,4 @@
-Lecanora crassithallina van den Boom SPECIES
-=======
+# Lecanora crassithallina van den Boom SPECIES
 
 #### Status
 ACCEPTED

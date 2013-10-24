@@ -1,5 +1,4 @@
-Niptera vaginalis (Arendh. & R. Sharma) M.P. Sharma SPECIES
-=======
+# Niptera vaginalis (Arendh. & R. Sharma) M.P. Sharma SPECIES
 
 #### Status
 ACCEPTED

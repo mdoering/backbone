@@ -1,5 +1,4 @@
-Lichen polygonius Vill. SPECIES
-=======
+# Lichen polygonius Vill. SPECIES
 
 #### Status
 ACCEPTED

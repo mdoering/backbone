@@ -1,11 +1,10 @@
-Prorodon discolor subsp. discolor SUBSPECIES
-=======
+# Prorodon discolor (Schewiakoff, 1892) ? SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

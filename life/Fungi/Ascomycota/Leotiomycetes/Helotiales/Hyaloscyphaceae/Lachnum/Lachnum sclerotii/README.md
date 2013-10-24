@@ -1,5 +1,4 @@
-Lachnum sclerotii var. sclerotii VARIETY
-=======
+# Lachnum sclerotii (A.L. Sm.) J.H. Haines & Dumont SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 19: 17 (1984)
 
 #### Original name
-Lachnum sclerotii var. sclerotii
+Belonidium sclerotii A.L. Sm.
 
 ### Remarks
 null

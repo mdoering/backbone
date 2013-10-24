@@ -1,5 +1,4 @@
-Cephalosporium repens Sorokin SPECIES
-=======
+# Cephalosporium repens Sorokin SPECIES
 
 #### Status
 ACCEPTED

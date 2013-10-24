@@ -1,5 +1,4 @@
-Penicillium verticillifeum SPECIES
-=======
+# Penicillium verticillifeum SPECIES
 
 #### Status
 ACCEPTED

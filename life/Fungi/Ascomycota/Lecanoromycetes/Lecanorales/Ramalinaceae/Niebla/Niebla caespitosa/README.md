@@ -1,5 +1,4 @@
-Niebla caespitosa Spjut SPECIES
-=======
+# Niebla caespitosa Spjut SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Parmelia farinacea var. farinacea VARIETY
-=======
+# Ramalina farinacea (L.) Ach. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lich. univ. 606 (1810)
 
 #### Original name
-null
+Lichen farinaceus L.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Arthonia nebulosa Willey SPECIES
-=======
+# Arthonia nebulosa Willey SPECIES
 
 #### Status
 ACCEPTED

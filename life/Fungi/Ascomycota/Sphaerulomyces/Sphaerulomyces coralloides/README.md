@@ -1,5 +1,4 @@
-Sphaerulomyces coralloides Marvanová, 1977 SPECIES
-=======
+# Sphaerulomyces coralloides Marvanová, 1977 SPECIES
 
 #### Status
 ACCEPTED

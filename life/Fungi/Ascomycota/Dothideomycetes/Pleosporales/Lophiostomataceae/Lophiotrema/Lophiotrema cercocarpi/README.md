@@ -1,5 +1,4 @@
-Lophiotrema cercocarpi (Tracy & Earle) Sacc. SPECIES
-=======
+# Lophiotrema cercocarpi (Tracy & Earle) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oligotrichea CLASS
-=======
+# Oligotrichea CLASS
 
 #### Status
 ACCEPTED

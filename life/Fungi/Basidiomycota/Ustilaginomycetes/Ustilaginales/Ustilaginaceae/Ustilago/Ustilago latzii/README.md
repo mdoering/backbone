@@ -1,5 +1,4 @@
-Ustilago latzii Vánky SPECIES
-=======
+# Ustilago latzii Vánky SPECIES
 
 #### Status
 ACCEPTED

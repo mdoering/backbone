@@ -1,5 +1,4 @@
-Klebsiella Trevisan GENUS
-=======
+# Klebsiella Trevisan GENUS
 
 #### Status
 ACCEPTED

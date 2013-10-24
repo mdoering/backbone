@@ -1,5 +1,4 @@
-Dothiorella fici Tilak SPECIES
-=======
+# Dothiorella fici Tilak SPECIES
 
 #### Status
 ACCEPTED

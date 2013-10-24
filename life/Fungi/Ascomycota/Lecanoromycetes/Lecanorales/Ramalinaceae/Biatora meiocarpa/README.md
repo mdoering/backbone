@@ -1,17 +1,16 @@
-Biatora meiocarpa var. meiocarpa VARIETY
-=======
+# Biatora meiocarpa (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
 null
 
 #### Original name
-null
+Lecidea meiocarpa Nyl.
 
 ### Remarks
 null

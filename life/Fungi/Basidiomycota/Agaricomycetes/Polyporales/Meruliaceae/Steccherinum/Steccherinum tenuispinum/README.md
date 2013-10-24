@@ -1,5 +1,4 @@
-Steccherinum tenuispinum Spirin, Zmitr. & Malysheva SPECIES
-=======
+# Steccherinum tenuispinum Spirin, Zmitr. & Malysheva SPECIES
 
 #### Status
 ACCEPTED

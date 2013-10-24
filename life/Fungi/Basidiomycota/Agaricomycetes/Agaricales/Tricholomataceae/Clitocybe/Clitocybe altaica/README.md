@@ -1,5 +1,4 @@
-Clitocybe altaica Singer SPECIES
-=======
+# Clitocybe altaica Singer SPECIES
 
 #### Status
 ACCEPTED

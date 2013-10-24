@@ -1,5 +1,4 @@
-Microchaete pulchella (Humboldt, Bonpland, Kunth) Benth SPECIES
-=======
+# Microchaete pulchella (Humboldt, Bonpland, Kunth) Benth SPECIES
 
 #### Status
 ACCEPTED

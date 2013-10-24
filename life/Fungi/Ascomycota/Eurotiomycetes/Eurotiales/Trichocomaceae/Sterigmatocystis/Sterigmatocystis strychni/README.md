@@ -1,5 +1,4 @@
-Sterigmatocystis strychni (Lind) Sacc. & D. Sacc. SPECIES
-=======
+# Sterigmatocystis strychni (Lind) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

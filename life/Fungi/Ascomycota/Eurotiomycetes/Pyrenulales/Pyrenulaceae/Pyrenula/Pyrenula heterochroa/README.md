@@ -1,5 +1,4 @@
-Pyrenula heterochroa (Mont.) Trevis. SPECIES
-=======
+# Pyrenula heterochroa (Mont.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

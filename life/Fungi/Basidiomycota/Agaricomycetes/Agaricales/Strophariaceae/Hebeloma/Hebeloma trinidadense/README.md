@@ -1,5 +1,4 @@
-Hebeloma trinidadense A.H. Sm., V.S. Evenson & Mitchel SPECIES
-=======
+# Hebeloma trinidadense A.H. Sm., V.S. Evenson & Mitchel SPECIES
 
 #### Status
 ACCEPTED

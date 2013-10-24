@@ -1,5 +1,4 @@
-Diplodia paulowniae Cooke SPECIES
-=======
+# Diplodia paulowniae Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Pleuroceras lobelii Narendra & V.G. Rao SPECIES
-=======
+# Pleuroceras lobeliae Narendra & V.G. Rao SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Curr. Sci. 44(8): 281 (1975)
 
 #### Original name
-Pleuroceras lobelii Narendra & V.G. Rao
+Pleuroceras lobeliae Narendra & V.G. Rao
 
 ### Remarks
 null

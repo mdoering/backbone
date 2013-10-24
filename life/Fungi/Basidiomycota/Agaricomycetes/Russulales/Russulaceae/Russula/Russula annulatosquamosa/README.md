@@ -1,5 +1,4 @@
-Russula annulatosquamosa Beeli SPECIES
-=======
+# Russula annulatosquamosa Beeli SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mitrophora caroliniana Lév. SPECIES
-=======
+# Mitrophora caroliniana Lév. SPECIES
 
 #### Status
 ACCEPTED

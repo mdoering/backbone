@@ -1,5 +1,4 @@
-Macrosporium culmorum Cooke & Harkn. SPECIES
-=======
+# Macrosporium culmorum Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

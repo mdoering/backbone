@@ -1,5 +1,4 @@
-Haeuslerella hoeglundi SPECIES
-=======
+# Haeuslerella hoeglundi SPECIES
 
 #### Status
 ACCEPTED

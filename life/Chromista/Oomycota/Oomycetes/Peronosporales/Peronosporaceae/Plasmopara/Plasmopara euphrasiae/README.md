@@ -1,5 +1,4 @@
-Plasmopara euphrasiae Voglmayr & Constant. SPECIES
-=======
+# Plasmopara euphrasiae Voglmayr & Constant. SPECIES
 
 #### Status
 ACCEPTED

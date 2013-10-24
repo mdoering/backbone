@@ -1,14 +1,13 @@
-Cintractia lidii Liro, 1935 SPECIES
-=======
+# Stegocintractia lidii (Liro) M. Piepenbr., 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. I. Liro Mycotheca Fennica, Fasc. 16 45 (1939)
+Nova Hedwigia 70(3-4): 323 (2000)
 
 #### Original name
 Cintractia lidii Liro, 1935

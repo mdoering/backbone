@@ -1,11 +1,10 @@
-Sargassum coriifolium var. bicuspidatum (Grunow) Grunow, 1915 VARIETY
-=======
+# Sargassum odontocarpum Sonder SPECIES
 
 #### Status
-DOUBTFUL
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

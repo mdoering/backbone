@@ -1,5 +1,4 @@
-Hebeloma monticola Vesterh. SPECIES
-=======
+# Hebeloma monticola Vesterh. SPECIES
 
 #### Status
 ACCEPTED

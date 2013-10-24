@@ -1,5 +1,4 @@
-Canningia colliveri Cookson & Eisenack SPECIES
-=======
+# Canningia colliveri Cookson & Eisenack SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia perangusta Stirt. SPECIES
-=======
+# Arthonia perangusta Stirt. SPECIES
 
 #### Status
 ACCEPTED

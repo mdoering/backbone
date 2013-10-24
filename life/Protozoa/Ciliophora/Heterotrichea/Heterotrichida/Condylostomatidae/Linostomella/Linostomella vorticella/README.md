@@ -1,8 +1,7 @@
-Condylostoma vorticella Ehrenberg, 1834 SPECIES
-=======
+# Linostomella vorticella (Ehrenberg, 1834) Aescht in Foissner, Berger & Schaumburg, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

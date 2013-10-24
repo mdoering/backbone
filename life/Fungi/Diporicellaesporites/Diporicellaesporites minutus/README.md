@@ -1,5 +1,4 @@
-Diporicellaesporites minutus Zhong Y. Zhang SPECIES
-=======
+# Diporicellaesporites minutus Zhong Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

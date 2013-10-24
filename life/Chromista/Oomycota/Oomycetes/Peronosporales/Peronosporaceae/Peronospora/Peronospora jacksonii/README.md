@@ -1,5 +1,4 @@
-Peronospora jacksonii C.G. Shaw, 1951 SPECIES
-=======
+# Peronospora jacksonii C.G. Shaw, 1951 SPECIES
 
 #### Status
 ACCEPTED

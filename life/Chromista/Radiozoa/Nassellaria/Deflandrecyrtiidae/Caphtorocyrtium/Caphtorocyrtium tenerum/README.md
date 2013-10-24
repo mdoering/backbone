@@ -1,5 +1,4 @@
-Caphtorocyrtium tenerum SPECIES
-=======
+# Caphtorocyrtium tenerum SPECIES
 
 #### Status
 ACCEPTED

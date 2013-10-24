@@ -1,5 +1,4 @@
-Phormidium truncicola S. L. Ghose SPECIES
-=======
+# Phormidium truncicola S. L. Ghose SPECIES
 
 #### Status
 ACCEPTED

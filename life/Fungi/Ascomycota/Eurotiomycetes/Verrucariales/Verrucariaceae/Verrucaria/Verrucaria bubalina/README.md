@@ -1,5 +1,4 @@
-Verrucaria bubalina H. Mayrhofer & P.M. McCarthy SPECIES
-=======
+# Verrucaria bubalina H. Mayrhofer & P.M. McCarthy SPECIES
 
 #### Status
 ACCEPTED

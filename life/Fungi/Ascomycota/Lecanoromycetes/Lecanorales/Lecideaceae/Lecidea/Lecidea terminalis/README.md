@@ -1,5 +1,4 @@
-Lecidea terminalis Ach. SPECIES
-=======
+# Lecidea terminalis Ach. SPECIES
 
 #### Status
 ACCEPTED

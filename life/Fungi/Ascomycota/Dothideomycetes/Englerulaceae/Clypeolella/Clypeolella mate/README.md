@@ -1,5 +1,4 @@
-Clypeolella mate (Speg.) Theiss. SPECIES
-=======
+# Clypeolella mate (Speg.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

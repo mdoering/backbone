@@ -1,5 +1,4 @@
-Heliospermopsis Nagy GENUS
-=======
+# Heliospermopsis Nagy GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Entomophthora henrici Molliard SPECIES
-=======
+# Erynia henricii (Molliard) Humber & Ben Ze'ev, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 13(3): 509 (1981)
 
 #### Original name
-Entomophthora henrici Molliard
+Entomophthora henricii Molliard, 1918
 
 ### Remarks
 null

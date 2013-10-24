@@ -1,5 +1,4 @@
-Irenopsis trompilliana Toro SPECIES
-=======
+# Irenopsis trompilliana Toro SPECIES
 
 #### Status
 ACCEPTED

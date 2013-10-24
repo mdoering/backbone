@@ -1,5 +1,4 @@
-Encyothalia Harvey, 1859 GENUS
-=======
+# Encyothalia Harvey, 1859 GENUS
 
 #### Status
 ACCEPTED

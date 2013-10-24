@@ -1,5 +1,4 @@
-Parmelia glaziovii Müll. Arg. SPECIES
-=======
+# Parmelia glaziovii Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

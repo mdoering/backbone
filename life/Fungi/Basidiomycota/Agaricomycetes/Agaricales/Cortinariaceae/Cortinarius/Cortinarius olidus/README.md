@@ -1,17 +1,16 @@
-Cortinarius olidus var. olidus VARIETY
-=======
+# Cortinarius olidus J.E. Lange, 1935 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Dansk bot. Ark. 8(no. 7): 19 (1935)
 
 #### Original name
-Cortinarius olidus var. olidus
+Cortinarius olidus J.E. Lange, 1935
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Boletus rostrupii Syd. & P. Syd. SPECIES
-=======
+# Boletus rostrupii Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

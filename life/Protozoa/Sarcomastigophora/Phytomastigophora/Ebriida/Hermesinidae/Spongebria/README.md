@@ -1,5 +1,4 @@
-Spongebria Deflandre, 1950 GENUS
-=======
+# Spongebria Deflandre, 1950 GENUS
 
 #### Status
 ACCEPTED

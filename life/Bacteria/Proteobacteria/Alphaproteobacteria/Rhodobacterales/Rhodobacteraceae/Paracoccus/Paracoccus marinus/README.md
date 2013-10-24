@@ -1,5 +1,4 @@
-Paracoccus marinus Khan, Takaichi & Harayama, 2008 SPECIES
-=======
+# Paracoccus marinus Khan, Takaichi & Harayama, 2008 SPECIES
 
 #### Status
 ACCEPTED

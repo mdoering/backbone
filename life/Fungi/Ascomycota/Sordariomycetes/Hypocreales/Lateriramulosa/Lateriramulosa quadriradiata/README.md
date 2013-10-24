@@ -1,5 +1,4 @@
-Lateriramulosa quadriradiata K. Miura & Okano, 1979 SPECIES
-=======
+# Lateriramulosa quadriradiata K. Miura & Okano, 1979 SPECIES
 
 #### Status
 ACCEPTED

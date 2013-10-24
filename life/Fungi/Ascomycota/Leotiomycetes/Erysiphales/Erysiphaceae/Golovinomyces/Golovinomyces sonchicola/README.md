@@ -1,5 +1,4 @@
-Golovinomyces sonchicola U. Braun & R.T.A. Cook SPECIES
-=======
+# Golovinomyces sonchicola U. Braun & R.T.A. Cook SPECIES
 
 #### Status
 ACCEPTED

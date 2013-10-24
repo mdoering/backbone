@@ -1,5 +1,4 @@
-Lecidea carolinae (A. Massal.) Stizenb. SPECIES
-=======
+# Lecidea carolinae (A. Massal.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

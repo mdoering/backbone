@@ -1,8 +1,7 @@
-Sargassum horneri var. densum C. Agardh VARIETY
-=======
+# Sargassum horneri (Turner) C. Agardh SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

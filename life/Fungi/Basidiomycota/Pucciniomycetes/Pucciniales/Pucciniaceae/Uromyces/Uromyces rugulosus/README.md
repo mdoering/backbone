@@ -1,5 +1,4 @@
-Uromyces rugulosus Pat. SPECIES
-=======
+# Uromyces rugulosus Pat. SPECIES
 
 #### Status
 ACCEPTED

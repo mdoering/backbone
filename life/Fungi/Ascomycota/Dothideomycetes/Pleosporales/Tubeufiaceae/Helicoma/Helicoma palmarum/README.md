@@ -1,5 +1,4 @@
-Helicoma palmarum G.Z. Zhao, Xing Z. Liu & W.P. Wu SPECIES
-=======
+# Helicoma palmarum G.Z. Zhao, Xing Z. Liu & W.P. Wu SPECIES
 
 #### Status
 ACCEPTED

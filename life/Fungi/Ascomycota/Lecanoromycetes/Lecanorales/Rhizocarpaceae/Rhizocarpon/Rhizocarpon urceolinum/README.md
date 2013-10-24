@@ -1,5 +1,4 @@
-Rhizocarpon urceolinum C.W. Dodge SPECIES
-=======
+# Rhizocarpon urceolinum C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

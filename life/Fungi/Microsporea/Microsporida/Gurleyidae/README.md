@@ -1,5 +1,4 @@
-Gurleyidae Sprague, 1977 FAMILY
-=======
+# Gurleyidae Sprague, 1977 FAMILY
 
 #### Status
 ACCEPTED

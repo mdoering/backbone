@@ -1,5 +1,4 @@
-Discorehmia gregaria Kirschst. SPECIES
-=======
+# Discorehmia gregaria Kirschst. SPECIES
 
 #### Status
 ACCEPTED

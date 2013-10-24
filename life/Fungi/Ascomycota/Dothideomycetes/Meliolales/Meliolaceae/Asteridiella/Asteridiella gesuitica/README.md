@@ -1,5 +1,4 @@
-Asteridiella gesuitica (Speg.) Hansf. SPECIES
-=======
+# Asteridiella gesuitica (Speg.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

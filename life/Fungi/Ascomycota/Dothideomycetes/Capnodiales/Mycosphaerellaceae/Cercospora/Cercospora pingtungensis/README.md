@@ -1,5 +1,4 @@
-Cercospora pingtungensis T.Y. Lin & J.M. Yen SPECIES
-=======
+# Cercospora pingtungensis T.Y. Lin & J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

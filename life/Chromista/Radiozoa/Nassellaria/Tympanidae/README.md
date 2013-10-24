@@ -1,5 +1,4 @@
-Tympanidae FAMILY
-=======
+# Tympanidae FAMILY
 
 #### Status
 ACCEPTED

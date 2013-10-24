@@ -1,5 +1,4 @@
-Macrophoma trichostomi Seaver & Waterston SPECIES
-=======
+# Macrophoma trichostomi Seaver & Waterston SPECIES
 
 #### Status
 ACCEPTED

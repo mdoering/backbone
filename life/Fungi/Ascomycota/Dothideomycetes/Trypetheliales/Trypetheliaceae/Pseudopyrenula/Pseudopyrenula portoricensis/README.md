@@ -1,5 +1,4 @@
-Pseudopyrenula portoricensis J. Hedrick SPECIES
-=======
+# Pseudopyrenula portoricensis J. Hedrick SPECIES
 
 #### Status
 ACCEPTED

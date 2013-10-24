@@ -1,5 +1,4 @@
-Meliola alibertiae F. Stevens SPECIES
-=======
+# Meliola alibertiae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

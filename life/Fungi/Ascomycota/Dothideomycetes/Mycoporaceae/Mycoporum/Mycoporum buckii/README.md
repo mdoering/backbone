@@ -1,5 +1,4 @@
-Mycoporum buckii R. C. Harris SPECIES
-=======
+# Mycoporum buckii R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

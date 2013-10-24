@@ -1,5 +1,4 @@
-Oidium bonplandiani Hosag. SPECIES
-=======
+# Oidium bonplandiani Hosag. SPECIES
 
 #### Status
 ACCEPTED

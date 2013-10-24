@@ -1,5 +1,4 @@
-Diplochorella melicyti (Syd. & P. Syd.) Syd. SPECIES
-=======
+# Diplochorella melicyti (Syd. & P. Syd.) Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercidospora nemoralis (Sacc.) Kuntze SPECIES
-=======
+# Cercidospora nemoralis (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Lecanora carnella Nyl. SPECIES
-=======
+# Blastenia carnella (Nyl.) Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Lich. Fueg. Patag. 7 (1888)
+Nuovo Giorn. Bot. Ital. 21: 48 (1889)
 
 #### Original name
 Lecanora carnella Nyl.

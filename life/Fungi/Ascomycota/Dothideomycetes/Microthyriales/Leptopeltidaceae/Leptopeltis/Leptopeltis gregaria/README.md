@@ -1,14 +1,13 @@
-Moeszopeltis gregaria Petr., 1947 SPECIES
-=======
+# Leptopeltis gregaria (Petr.) L. Holm & K. Holm, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 1: 241 (1947)
+Bot. Notiser 130(2): 223 (1977)
 
 #### Original name
 Moeszopeltis gregaria Petr., 1947

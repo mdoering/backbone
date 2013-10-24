@@ -1,5 +1,4 @@
-Lingulosigmomorphina Saidova, 1975 GENUS
-=======
+# Lingulosigmomorphina Saidova, 1975 GENUS
 
 #### Status
 ACCEPTED

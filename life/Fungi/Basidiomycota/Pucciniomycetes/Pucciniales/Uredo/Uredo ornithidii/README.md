@@ -1,5 +1,4 @@
-Uredo ornithidii F. Kern, Cif. & Thurst. SPECIES
-=======
+# Uredo ornithidii F. Kern, Cif. & Thurst. SPECIES
 
 #### Status
 ACCEPTED

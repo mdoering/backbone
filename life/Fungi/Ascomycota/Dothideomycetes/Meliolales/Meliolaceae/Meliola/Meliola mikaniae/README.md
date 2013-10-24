@@ -1,5 +1,4 @@
-Meliola mikaniae Gaillard SPECIES
-=======
+# Meliola mikaniae Gaillard SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecania berica (A. Massal.) Müll. Arg. SPECIES
-=======
+# Lecania berica (A. Massal.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

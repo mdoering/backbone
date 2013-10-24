@@ -1,5 +1,4 @@
-Arthonia leucographella Nyl. SPECIES
-=======
+# Arthonia leucographella Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea protracta Darb. SPECIES
-=======
+# Lecidea protracta Darb. SPECIES
 
 #### Status
 ACCEPTED

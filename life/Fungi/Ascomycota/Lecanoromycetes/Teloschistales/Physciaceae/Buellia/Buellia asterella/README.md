@@ -1,5 +1,4 @@
-Buellia asterella Poelt & Sulzer SPECIES
-=======
+# Buellia asterella Poelt & Sulzer SPECIES
 
 #### Status
 ACCEPTED

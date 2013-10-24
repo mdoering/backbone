@@ -1,5 +1,4 @@
-Lepiota confusa Rick SPECIES
-=======
+# Lepiota confusa Rick SPECIES
 
 #### Status
 ACCEPTED

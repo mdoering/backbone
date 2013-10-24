@@ -1,5 +1,4 @@
-Helotium blechni P. Crouan & H. Crouan SPECIES
-=======
+# Helotium blechni P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

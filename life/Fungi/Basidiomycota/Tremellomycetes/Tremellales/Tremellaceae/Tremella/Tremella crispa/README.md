@@ -1,5 +1,4 @@
-Tremella crispa Schreb. SPECIES
-=======
+# Tremella crispa Schreb. SPECIES
 
 #### Status
 ACCEPTED

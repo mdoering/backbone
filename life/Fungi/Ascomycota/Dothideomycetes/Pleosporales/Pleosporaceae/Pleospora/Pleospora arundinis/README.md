@@ -1,5 +1,4 @@
-Pleospora arundinis Mariani SPECIES
-=======
+# Pleospora arundinis Mariani SPECIES
 
 #### Status
 ACCEPTED

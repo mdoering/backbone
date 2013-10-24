@@ -1,14 +1,13 @@
-Corollospora tubulata Kohlm., 1968 SPECIES
-=======
+# Kohlmeyeriella tubulata (Kohlm.) E.B.G. Jones, R.G. Johnson & S.T. Moss, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ber. dt. bot. Ges. 81: 53 (1968)
+J. Linn. Soc. , Bot. 87(2): 210 (1983)
 
 #### Original name
 Corollospora tubulata Kohlm., 1968

@@ -1,5 +1,4 @@
-Xylaria apiculata Cooke, 1879 SPECIES
-=======
+# Xylaria apiculata Cooke, 1879 SPECIES
 
 #### Status
 ACCEPTED

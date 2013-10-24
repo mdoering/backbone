@@ -1,14 +1,13 @@
-Piricauda byrsonimae Bat. & Peres, 1962 SPECIES
-=======
+# Trichomatomyces byrsonimae (Bat. & Peres) Dorn.-Silva & Dianese, 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Publções Inst. Micol. Recife 343: 14 (1962)
+Mycologia 96(4): 879 (2004)
 
 #### Original name
 Piricauda byrsonimae Bat. & Peres, 1962

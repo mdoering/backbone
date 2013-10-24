@@ -1,5 +1,4 @@
-Diplococcium strictum (Sacc.) Sacc. SPECIES
-=======
+# Diplococcium strictum (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

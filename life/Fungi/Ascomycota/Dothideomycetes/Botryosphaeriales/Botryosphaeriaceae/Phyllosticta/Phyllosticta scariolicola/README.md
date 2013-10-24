@@ -1,5 +1,4 @@
-Phyllosticta scariolicola Tehon SPECIES
-=======
+# Phyllosticta scariolicola Tehon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora cercidicola var. cercidicola Ellis VARIETY
-=======
+# Cercospora cercidicola Ellis SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Am. Nat. 16: 810 (1882)
 
 #### Original name
-Cercospora cercidicola var. cercidicola Ellis
+Cercospora cercidicola Ellis
 
 ### Remarks
 null

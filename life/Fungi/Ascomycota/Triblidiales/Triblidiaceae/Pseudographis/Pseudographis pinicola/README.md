@@ -1,14 +1,13 @@
-Hysterium pinicola Nyl. SPECIES
-=======
+# Pseudographis pinicola (Nyl.) Rehm, 1888 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Rabenhorst, Rabenh. Krypt. -Fl. (Leipzig) 1(3): 99 (1888)
 
 #### Original name
 Hysterium pinicola Nyl.

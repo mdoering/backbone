@@ -1,5 +1,4 @@
-Inocybe cinerascentipes Huijsman SPECIES
-=======
+# Inocybe cinerascentipes Huijsman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Olla tirolensis var. tirolensis VARIETY
-=======
+# Olla tirolensis (Rehm ex Höhn.) Velen. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Olla tirolensis var. tirolensis
+Pezizella tirolensis Rehm ex Höhn.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Asterigerinita Seiglie & Bermudez, 1966 GENUS
-=======
+# Asterigerinita Seiglie & Bermudez, 1966 GENUS
 
 #### Status
 ACCEPTED

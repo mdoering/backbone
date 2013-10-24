@@ -1,5 +1,4 @@
-Multicellaesporites songii (Z.C. Song) Kalgutkar & Janson. SPECIES
-=======
+# Multicellaesporites songii (Z.C. Song) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

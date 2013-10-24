@@ -1,5 +1,4 @@
-Ramaria cettoi Schild, 1984 SPECIES
-=======
+# Ramaria cettoi Schild, 1984 SPECIES
 
 #### Status
 ACCEPTED

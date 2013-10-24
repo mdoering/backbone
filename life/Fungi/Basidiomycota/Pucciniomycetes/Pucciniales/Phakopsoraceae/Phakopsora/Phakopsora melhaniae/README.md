@@ -1,5 +1,4 @@
-Phakopsora melhaniae R. Berndt & A. R. Wood SPECIES
-=======
+# Phakopsora melhaniae R. Berndt & A. R. Wood SPECIES
 
 #### Status
 ACCEPTED

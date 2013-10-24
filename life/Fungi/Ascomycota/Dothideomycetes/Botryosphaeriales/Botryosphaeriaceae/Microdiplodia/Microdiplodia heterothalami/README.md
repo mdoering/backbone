@@ -1,5 +1,4 @@
-Microdiplodia heterothalami Syd. {?} SPECIES
-=======
+# Microdiplodia heterothalami Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

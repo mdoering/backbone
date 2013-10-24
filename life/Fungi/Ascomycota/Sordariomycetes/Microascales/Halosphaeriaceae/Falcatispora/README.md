@@ -1,5 +1,4 @@
-Falcatispora K.L. Pang & E.B.G. Jones GENUS
-=======
+# Falcatispora K.L. Pang & E.B.G. Jones GENUS
 
 #### Status
 ACCEPTED

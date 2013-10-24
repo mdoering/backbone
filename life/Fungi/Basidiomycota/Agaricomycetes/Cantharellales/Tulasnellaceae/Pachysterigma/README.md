@@ -1,5 +1,4 @@
-Pachysterigma GENUS
-=======
+# Pachysterigma GENUS
 
 #### Status
 ACCEPTED

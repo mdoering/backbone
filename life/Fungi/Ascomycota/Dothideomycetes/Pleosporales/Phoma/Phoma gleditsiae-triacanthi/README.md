@@ -1,5 +1,4 @@
-Phoma gleditsiae-triacanthi Vörös SPECIES
-=======
+# Phoma gleditsiae-triacanthi Vörös SPECIES
 
 #### Status
 ACCEPTED

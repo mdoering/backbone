@@ -1,5 +1,4 @@
-Phacidium punctiforme Wallr. SPECIES
-=======
+# Phacidium punctiforme Wallr. SPECIES
 
 #### Status
 ACCEPTED

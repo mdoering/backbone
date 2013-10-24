@@ -1,5 +1,4 @@
-Flagelloscypha Donk, 1951 GENUS
-=======
+# Flagelloscypha Donk, 1951 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma engadinum (E. Horak) Noordel. SPECIES
-=======
+# Entoloma engadinum (E. Horak) Noordel. SPECIES
 
 #### Status
 ACCEPTED

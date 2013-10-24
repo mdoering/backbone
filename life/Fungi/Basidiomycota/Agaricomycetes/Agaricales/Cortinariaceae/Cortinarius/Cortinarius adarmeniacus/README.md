@@ -1,5 +1,4 @@
-Cortinarius adarmeniacus Rob. Henry SPECIES
-=======
+# Cortinarius adarmeniacus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

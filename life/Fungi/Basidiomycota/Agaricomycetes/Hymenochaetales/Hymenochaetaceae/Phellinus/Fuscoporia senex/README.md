@@ -1,17 +1,16 @@
-Polyporus sclerodes Berk. & M.A. Curtis SPECIES
-=======
+# Fuscoporia senex (Nees & Mont.) Ghob.-Nejh., 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Ghobad-Nejhad & Dai, Mycotaxon 101: 208 (2007)
 
 #### Original name
-Polyporus sclerodes Berk. & M.A. Curtis
+Polyporus senex Nees & Mont., 1836
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Belonopeziza GENUS
-=======
+# Belonopeziza GENUS
 
 #### Status
 ACCEPTED

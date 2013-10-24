@@ -1,5 +1,4 @@
-Cubosphaera Haeckel, 1887 GENUS
-=======
+# Cubosphaera Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

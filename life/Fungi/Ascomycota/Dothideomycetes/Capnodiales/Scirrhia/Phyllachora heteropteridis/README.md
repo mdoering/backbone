@@ -1,8 +1,7 @@
-Phyllachora macrosiphoniae Henn., 1904 SPECIES
-=======
+# Phyllachora heteropteridis Henn., 1902 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

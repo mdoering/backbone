@@ -1,5 +1,4 @@
-Lecidea freyi H. Magn. SPECIES
-=======
+# Lecidea freyi H. Magn. SPECIES
 
 #### Status
 ACCEPTED

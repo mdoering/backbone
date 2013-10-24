@@ -1,5 +1,4 @@
-Leptogium algeriense (Mont.) Zahlbr. SPECIES
-=======
+# Leptogium algeriense (Mont.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius largodelibutus Rob. Henry SPECIES
-=======
+# Cortinarius largodelibutus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

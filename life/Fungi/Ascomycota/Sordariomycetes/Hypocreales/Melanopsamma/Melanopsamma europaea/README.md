@@ -1,5 +1,4 @@
-Melanopsamma europaea Speg. SPECIES
-=======
+# Melanopsamma europaea Speg. SPECIES
 
 #### Status
 ACCEPTED

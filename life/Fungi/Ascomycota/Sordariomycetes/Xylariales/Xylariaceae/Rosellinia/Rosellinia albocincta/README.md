@@ -1,5 +1,4 @@
-Rosellinia albocincta Petch SPECIES
-=======
+# Rosellinia albocincta Petch SPECIES
 
 #### Status
 ACCEPTED

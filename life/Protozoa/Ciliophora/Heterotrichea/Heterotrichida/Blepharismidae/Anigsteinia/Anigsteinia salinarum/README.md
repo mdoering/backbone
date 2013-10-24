@@ -1,5 +1,4 @@
-Anigsteinia salinarum SPECIES
-=======
+# Anigsteinia salinarum SPECIES
 
 #### Status
 ACCEPTED

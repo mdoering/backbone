@@ -1,5 +1,4 @@
-Aphanothece biceps Skuja SPECIES
-=======
+# Aphanothece biceps Skuja SPECIES
 
 #### Status
 ACCEPTED

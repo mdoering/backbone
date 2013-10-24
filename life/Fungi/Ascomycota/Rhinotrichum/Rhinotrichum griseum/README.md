@@ -1,5 +1,4 @@
-Rhinotrichum griseum Sacc. SPECIES
-=======
+# Rhinotrichum griseum Sacc. SPECIES
 
 #### Status
 ACCEPTED

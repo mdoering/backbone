@@ -1,14 +1,13 @@
-Dicaeoma helianthii (Schwein.) Kuntze, 1898 SPECIES
-=======
+# Puccinia helianthi Schwein., 1822 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 469 (1898)
+Schr. naturf. Ges. Leipzig 1: 73 (1822)
 
 #### Original name
 Puccinia helianthi Schwein., 1822

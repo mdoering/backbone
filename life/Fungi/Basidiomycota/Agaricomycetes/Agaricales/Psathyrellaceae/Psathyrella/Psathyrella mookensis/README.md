@@ -1,5 +1,4 @@
-Psathyrella mookensis Kits van Wav. SPECIES
-=======
+# Psathyrella mookensis Kits van Wav. SPECIES
 
 #### Status
 ACCEPTED

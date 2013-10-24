@@ -1,5 +1,4 @@
-Excipula majuscula Schwein. SPECIES
-=======
+# Excipula majuscula Schwein. SPECIES
 
 #### Status
 ACCEPTED

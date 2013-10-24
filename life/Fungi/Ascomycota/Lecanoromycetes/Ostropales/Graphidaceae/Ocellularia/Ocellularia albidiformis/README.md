@@ -1,5 +1,4 @@
-Ocellularia albidiformis (Leight.) Zahlbr. SPECIES
-=======
+# Ocellularia albidiformis (Leight.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polystictus xalapensis Berk. SPECIES
-=======
+# Polystictus xalapensis Berk. SPECIES
 
 #### Status
 ACCEPTED

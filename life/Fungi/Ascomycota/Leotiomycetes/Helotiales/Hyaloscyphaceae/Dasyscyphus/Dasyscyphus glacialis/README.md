@@ -1,8 +1,7 @@
-Dasyscypha glacialis Rehm SPECIES
-=======
+# Dasyscyphus glacialis Rehm SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Dasyscypha glacialis Rehm
+Dasyscyphus glacialis Rehm
 
 ### Remarks
 null

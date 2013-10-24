@@ -1,5 +1,4 @@
-Daedalea acanthoides Sacc. SPECIES
-=======
+# Daedalea acanthoides Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parodiellina manaosensis (Henn.) G. Arnaud SPECIES
-=======
+# Parodiellina manaosensis (Henn.) G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

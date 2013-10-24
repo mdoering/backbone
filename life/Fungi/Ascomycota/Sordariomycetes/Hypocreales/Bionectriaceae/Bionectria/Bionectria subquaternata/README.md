@@ -1,17 +1,16 @@
-Nectria subquaternata f. subquaternata FORM
-=======
+# Bionectria subquaternata (Berk. & Broome) Schroers & Samuels, 2001 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Linn. Soc. , Bot. 14(2): 116 (1875)
+Stud. Mycol. 46: 162 (2001)
 
 #### Original name
-Nectria subquaternata f. subquaternata
+Nectria subquaternata Berk. & Broome, 1875
 
 ### Remarks
 null

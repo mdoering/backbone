@@ -1,5 +1,4 @@
-Scleroderris arundinariae G.F. Atk. SPECIES
-=======
+# Scleroderris arundinariae G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

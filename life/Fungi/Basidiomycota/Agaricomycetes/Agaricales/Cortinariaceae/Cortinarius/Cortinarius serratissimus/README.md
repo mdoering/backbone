@@ -1,5 +1,4 @@
-Cortinarius serratissimus M.M. Moser SPECIES
-=======
+# Cortinarius serratissimus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora leoni Savul. & Rayss SPECIES
-=======
+# Cercospora leoni Savul. & Rayss SPECIES
 
 #### Status
 ACCEPTED

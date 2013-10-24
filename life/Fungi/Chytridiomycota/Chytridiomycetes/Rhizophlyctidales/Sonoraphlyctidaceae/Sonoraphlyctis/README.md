@@ -1,5 +1,4 @@
-Sonoraphlyctis Letcher GENUS
-=======
+# Sonoraphlyctis Letcher GENUS
 
 #### Status
 ACCEPTED

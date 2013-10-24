@@ -1,5 +1,4 @@
-Dermatina pycnocarpoides (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Dermatina pycnocarpoides (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

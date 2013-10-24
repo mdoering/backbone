@@ -1,5 +1,4 @@
-Arrhenia goossensiae Beeli SPECIES
-=======
+# Arrhenia goossensiae Beeli SPECIES
 
 #### Status
 ACCEPTED

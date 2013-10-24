@@ -1,5 +1,4 @@
-Uredo varia Dietel SPECIES
-=======
+# Uredo varia Dietel SPECIES
 
 #### Status
 ACCEPTED

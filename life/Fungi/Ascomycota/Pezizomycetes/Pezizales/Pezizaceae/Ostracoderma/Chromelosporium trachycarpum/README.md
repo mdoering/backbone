@@ -1,5 +1,4 @@
-Chromelosporium trachycarpum Hennebert SPECIES
-=======
+# Chromelosporium trachycarpum Hennebert SPECIES
 
 #### Status
 ACCEPTED

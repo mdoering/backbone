@@ -1,5 +1,4 @@
-Mycogalopsis Gjurasin, 1925 GENUS
-=======
+# Mycogalopsis Gjurasin, 1925 GENUS
 
 #### Status
 ACCEPTED

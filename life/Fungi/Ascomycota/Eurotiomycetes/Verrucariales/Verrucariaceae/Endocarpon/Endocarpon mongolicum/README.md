@@ -1,5 +1,4 @@
-Endocarpon mongolicum H. Magn. SPECIES
-=======
+# Endocarpon mongolicum H. Magn. SPECIES
 
 #### Status
 ACCEPTED

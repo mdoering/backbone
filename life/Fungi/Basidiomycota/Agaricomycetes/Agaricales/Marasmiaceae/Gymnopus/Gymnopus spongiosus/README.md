@@ -1,5 +1,4 @@
-Gymnopus spongiosus (Berk. & M.A. Curtis) Halling SPECIES
-=======
+# Gymnopus spongiosus (Berk. & M.A. Curtis) Halling SPECIES
 
 #### Status
 ACCEPTED

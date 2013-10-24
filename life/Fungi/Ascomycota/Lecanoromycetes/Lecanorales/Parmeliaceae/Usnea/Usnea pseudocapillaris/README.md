@@ -1,5 +1,4 @@
-Usnea pseudocapillaris F.J. Walker SPECIES
-=======
+# Usnea pseudocapillaris F.J. Walker SPECIES
 
 #### Status
 ACCEPTED

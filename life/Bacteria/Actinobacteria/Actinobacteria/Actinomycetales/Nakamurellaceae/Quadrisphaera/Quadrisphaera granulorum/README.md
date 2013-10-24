@@ -1,5 +1,4 @@
-Quadrisphaera granulorum Maszenan et al., 2005 SPECIES
-=======
+# Quadrisphaera granulorum Maszenan et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

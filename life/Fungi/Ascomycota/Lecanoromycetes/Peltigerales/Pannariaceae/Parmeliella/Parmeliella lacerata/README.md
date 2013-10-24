@@ -1,5 +1,4 @@
-Parmeliella lacerata P. M. Jørg. SPECIES
-=======
+# Parmeliella lacerata P. M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

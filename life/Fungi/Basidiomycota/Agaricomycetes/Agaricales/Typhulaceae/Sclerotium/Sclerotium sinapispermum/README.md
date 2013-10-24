@@ -1,5 +1,4 @@
-Sclerotium sinapispermum Westend. SPECIES
-=======
+# Sclerotium sinapispermum Westend. SPECIES
 
 #### Status
 ACCEPTED

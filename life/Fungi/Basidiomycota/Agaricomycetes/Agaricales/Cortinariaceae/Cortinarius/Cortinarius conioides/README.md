@@ -1,5 +1,4 @@
-Cortinarius conioides Peintner & M.M. Moser SPECIES
-=======
+# Cortinarius conioides Peintner & M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

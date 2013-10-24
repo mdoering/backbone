@@ -1,5 +1,4 @@
-Candelabrum spinulosum Beverw., 1951 SPECIES
-=======
+# Candelabrum spinulosum Beverw., 1951 SPECIES
 
 #### Status
 ACCEPTED

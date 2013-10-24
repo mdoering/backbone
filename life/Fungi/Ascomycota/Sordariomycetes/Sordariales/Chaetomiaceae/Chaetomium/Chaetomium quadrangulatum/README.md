@@ -1,5 +1,4 @@
-Chaetomium quadrangulatum Chivers, 1912 SPECIES
-=======
+# Chaetomium quadrangulatum Chivers, 1912 SPECIES
 
 #### Status
 ACCEPTED

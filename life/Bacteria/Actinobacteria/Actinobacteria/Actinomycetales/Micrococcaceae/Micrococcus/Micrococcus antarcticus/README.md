@@ -1,5 +1,4 @@
-Micrococcus antarcticus Liu et al., 2000 SPECIES
-=======
+# Micrococcus antarcticus Liu et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Salpingoeca gracilis SPECIES
-=======
+# Salpingoeca gracilis SPECIES
 
 #### Status
 ACCEPTED

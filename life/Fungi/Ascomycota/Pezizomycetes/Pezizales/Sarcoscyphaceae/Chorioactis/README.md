@@ -1,5 +1,4 @@
-Chorioactis Kupfer, 1902 GENUS
-=======
+# Chorioactis Kupfer, 1902 GENUS
 
 #### Status
 ACCEPTED

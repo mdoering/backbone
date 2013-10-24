@@ -1,5 +1,4 @@
-Nectria flava Bonord. SPECIES
-=======
+# Nectria flava Bonord. SPECIES
 
 #### Status
 ACCEPTED

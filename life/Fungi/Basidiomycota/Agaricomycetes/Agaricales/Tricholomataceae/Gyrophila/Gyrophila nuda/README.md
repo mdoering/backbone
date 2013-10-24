@@ -1,5 +1,4 @@
-Gyrophila nuda SPECIES
-=======
+# Gyrophila nuda SPECIES
 
 #### Status
 ACCEPTED

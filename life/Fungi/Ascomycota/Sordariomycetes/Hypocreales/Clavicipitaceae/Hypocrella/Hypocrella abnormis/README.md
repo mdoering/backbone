@@ -1,5 +1,4 @@
-Hypocrella abnormis Henn. SPECIES
-=======
+# Hypocrella abnormis Henn. SPECIES
 
 #### Status
 ACCEPTED

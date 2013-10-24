@@ -1,5 +1,4 @@
-Ramalina leptocarpha Tuck. SPECIES
-=======
+# Ramalina leptocarpha Tuck. SPECIES
 
 #### Status
 ACCEPTED

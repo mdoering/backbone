@@ -1,5 +1,4 @@
-Gymnopus inexpectatus Cons., Vizzini, Antonín & Contu SPECIES
-=======
+# Gymnopus inexpectatus Cons., Vizzini, Antonín & Contu SPECIES
 
 #### Status
 ACCEPTED

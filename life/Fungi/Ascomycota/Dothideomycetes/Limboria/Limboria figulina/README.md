@@ -1,5 +1,4 @@
-Limboria figulina Norman SPECIES
-=======
+# Limboria figulina Norman SPECIES
 
 #### Status
 ACCEPTED

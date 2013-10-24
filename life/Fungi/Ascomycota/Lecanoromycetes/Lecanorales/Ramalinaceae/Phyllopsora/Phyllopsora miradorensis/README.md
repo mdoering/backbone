@@ -1,5 +1,4 @@
-Phyllopsora miradorensis (Vain.) Gotth. Schneid. SPECIES
-=======
+# Phyllopsora miradorensis (Vain.) Gotth. Schneid. SPECIES
 
 #### Status
 ACCEPTED

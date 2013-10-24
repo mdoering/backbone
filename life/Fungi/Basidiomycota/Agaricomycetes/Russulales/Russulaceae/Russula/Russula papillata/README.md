@@ -1,5 +1,4 @@
-Russula papillata R. Heim & Gilles SPECIES
-=======
+# Russula papillata R. Heim & Gilles SPECIES
 
 #### Status
 ACCEPTED

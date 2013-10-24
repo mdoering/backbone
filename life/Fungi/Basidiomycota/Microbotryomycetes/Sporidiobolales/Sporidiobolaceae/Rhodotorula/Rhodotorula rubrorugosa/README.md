@@ -1,5 +1,4 @@
-Rhodotorula rubrorugosa (Castell.) Krassiln. SPECIES
-=======
+# Rhodotorula rubrorugosa (Castell.) Krassiln. SPECIES
 
 #### Status
 ACCEPTED

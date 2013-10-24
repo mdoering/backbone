@@ -1,5 +1,4 @@
-Dothidea heliopsidis Schwein. SPECIES
-=======
+# Dothidea heliopsidis Schwein. SPECIES
 
 #### Status
 ACCEPTED

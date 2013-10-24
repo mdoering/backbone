@@ -1,5 +1,4 @@
-Lophiotrema vestitum Peck SPECIES
-=======
+# Lophiotrema vestitum Peck SPECIES
 
 #### Status
 ACCEPTED

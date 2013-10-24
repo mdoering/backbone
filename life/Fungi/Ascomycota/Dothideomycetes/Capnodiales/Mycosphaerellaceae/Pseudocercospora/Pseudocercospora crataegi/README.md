@@ -1,5 +1,4 @@
-Pseudocercospora crataegi (Sacc. & C. Massal.) Y.L. Guo & X.J. Liu SPECIES
-=======
+# Pseudocercospora crataegi (Sacc. & C. Massal.) Y.L. Guo & X.J. Liu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius petalocladus De Seynes SPECIES
-=======
+# Marasmius petalocladus De Seynes SPECIES
 
 #### Status
 ACCEPTED

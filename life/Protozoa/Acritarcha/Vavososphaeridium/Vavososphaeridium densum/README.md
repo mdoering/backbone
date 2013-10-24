@@ -1,5 +1,4 @@
-Vavososphaeridium densum Maithy, 1975 SPECIES
-=======
+# Vavososphaeridium densum Maithy, 1975 SPECIES
 
 #### Status
 ACCEPTED

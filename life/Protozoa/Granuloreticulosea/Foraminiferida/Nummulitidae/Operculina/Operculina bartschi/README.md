@@ -1,5 +1,4 @@
-Operculina bartschi SPECIES
-=======
+# Operculina bartschi SPECIES
 
 #### Status
 ACCEPTED

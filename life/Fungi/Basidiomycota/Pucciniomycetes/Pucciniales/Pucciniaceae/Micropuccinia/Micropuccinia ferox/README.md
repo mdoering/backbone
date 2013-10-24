@@ -1,5 +1,4 @@
-Micropuccinia ferox (Dietel & Holw.) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia ferox (Dietel & Holw.) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

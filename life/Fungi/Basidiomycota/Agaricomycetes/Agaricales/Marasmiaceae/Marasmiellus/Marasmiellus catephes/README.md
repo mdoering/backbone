@@ -1,5 +1,4 @@
-Marasmiellus catephes (Berk.) Singer SPECIES
-=======
+# Marasmiellus catephes (Berk.) Singer SPECIES
 
 #### Status
 ACCEPTED

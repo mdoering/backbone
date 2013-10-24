@@ -1,5 +1,4 @@
-Leptomitus aureostannicus Kütz. SPECIES
-=======
+# Leptomitus aureostannicus Kütz. SPECIES
 
 #### Status
 ACCEPTED

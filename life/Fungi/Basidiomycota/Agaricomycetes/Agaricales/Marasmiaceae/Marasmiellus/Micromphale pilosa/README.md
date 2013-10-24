@@ -1,5 +1,4 @@
-Micromphale pilosa (Dennis) Dennis SPECIES
-=======
+# Micromphale pilosa (Dennis) Dennis SPECIES
 
 #### Status
 ACCEPTED

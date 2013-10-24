@@ -1,17 +1,16 @@
-Porina praestantior var. praestantior VARIETY
-=======
+# Porina internigrans (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 65: 400 (1882)
+Rep. Meetings Australs. Assoc. Advancem. Sci. 452 (1895)
 
 #### Original name
-Porina praestantior var. praestantior
+null
 
 ### Remarks
 null

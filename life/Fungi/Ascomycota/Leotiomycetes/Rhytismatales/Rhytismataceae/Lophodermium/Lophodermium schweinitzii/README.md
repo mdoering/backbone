@@ -1,14 +1,13 @@
-Hysterium rhododendri Schwein., 1832 SPECIES
-=======
+# Lophodermium schweinitzii M. Wilson & N.F. Robertson, 1947 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Am. phil. Soc. , New Series 4(2): 246 (1832)
+Trans. R. Soc. Edinb. 61: 527 (1947)
 
 #### Original name
 Hysterium rhododendri Schwein., 1832

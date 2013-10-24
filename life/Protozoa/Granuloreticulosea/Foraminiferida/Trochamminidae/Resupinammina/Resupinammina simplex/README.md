@@ -1,5 +1,4 @@
-Resupinammina simplex Brönnimann & Whittaker, 1988 SPECIES
-=======
+# Resupinammina simplex Brönnimann & Whittaker, 1988 SPECIES
 
 #### Status
 ACCEPTED

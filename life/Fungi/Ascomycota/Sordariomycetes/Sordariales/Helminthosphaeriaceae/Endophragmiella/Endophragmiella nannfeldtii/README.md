@@ -1,5 +1,4 @@
-Endophragmiella nannfeldtii anon. SPECIES
-=======
+# Endophragmiella nannfeldtii anon. SPECIES
 
 #### Status
 ACCEPTED

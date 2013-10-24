@@ -1,17 +1,16 @@
-Allescherina Berl. GENUS
-=======
+# Cryptovalsa Ces. & De Not. ex Fuckel GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Abbado, Malpighia 16: 300 (1902)
+Jb. nassau. Ver. Naturk. 23-24: 212 (1870)
 
 #### Original name
-Allescherina Berl.
+Cryptovalsa Ces. & De Not. ex Fuckel
 
 ### Remarks
 null

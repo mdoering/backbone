@@ -1,5 +1,4 @@
-Isthmoplea rupincola Foslie SPECIES
-=======
+# Isthmoplea rupincola Foslie SPECIES
 
 #### Status
 ACCEPTED

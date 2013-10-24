@@ -1,5 +1,4 @@
-Phoma delphiniicola Tracy & Earle SPECIES
-=======
+# Phoma delphiniicola Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

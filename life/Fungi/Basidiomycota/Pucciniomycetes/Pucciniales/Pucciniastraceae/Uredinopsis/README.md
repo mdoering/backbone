@@ -1,5 +1,4 @@
-Uredinopsis Magnus GENUS
-=======
+# Uredinopsis Magnus GENUS
 
 #### Status
 ACCEPTED

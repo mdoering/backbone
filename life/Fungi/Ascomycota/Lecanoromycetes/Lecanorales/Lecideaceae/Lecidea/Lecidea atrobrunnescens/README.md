@@ -1,5 +1,4 @@
-Lecidea atrobrunnescens Nyl. SPECIES
-=======
+# Lecidea atrobrunnescens Nyl. SPECIES
 
 #### Status
 ACCEPTED

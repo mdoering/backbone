@@ -1,5 +1,4 @@
-Pleospora oblongata var. oblongata VARIETY
-=======
+# Pleospora oblongata Niessl SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Verh. nat. Ver. Brünn 14: 177 (1876)
 
 #### Original name
-Pleospora oblongata var. oblongata
+Pleospora oblongata Niessl
 
 ### Remarks
 null

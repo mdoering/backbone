@@ -1,5 +1,4 @@
-Pyramispongia Pessagno, 1973 GENUS
-=======
+# Pyramispongia Pessagno, 1973 GENUS
 
 #### Status
 ACCEPTED

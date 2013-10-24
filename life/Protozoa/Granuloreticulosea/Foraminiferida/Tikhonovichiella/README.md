@@ -1,5 +1,4 @@
-Tikhonovichiella Solovieva, 1996 GENUS
-=======
+# Tikhonovichiella Solovieva, 1996 GENUS
 
 #### Status
 ACCEPTED

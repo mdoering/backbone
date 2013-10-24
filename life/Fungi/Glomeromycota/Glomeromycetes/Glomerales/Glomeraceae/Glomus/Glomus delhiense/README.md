@@ -1,5 +1,4 @@
-Glomus delhiense Mukerji, Bhattacharjee & J.P. Tewari SPECIES
-=======
+# Glomus delhiense Mukerji, Bhattacharjee & J.P. Tewari SPECIES
 
 #### Status
 ACCEPTED

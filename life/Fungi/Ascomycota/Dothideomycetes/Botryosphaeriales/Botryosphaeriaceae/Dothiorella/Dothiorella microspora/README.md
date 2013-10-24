@@ -1,5 +1,4 @@
-Dothiorella microspora McAlpine SPECIES
-=======
+# Dothiorella microspora McAlpine SPECIES
 
 #### Status
 ACCEPTED

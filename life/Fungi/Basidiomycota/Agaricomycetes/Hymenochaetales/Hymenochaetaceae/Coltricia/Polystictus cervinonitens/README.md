@@ -1,5 +1,4 @@
-Polystictus cervinonitens Schwein. SPECIES
-=======
+# Polystictus cervinonitens Schwein. SPECIES
 
 #### Status
 ACCEPTED

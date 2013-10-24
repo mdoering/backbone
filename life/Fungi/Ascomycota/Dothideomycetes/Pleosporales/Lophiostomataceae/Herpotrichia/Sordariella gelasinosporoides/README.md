@@ -1,17 +1,16 @@
-Sordariella gelasinosporioides J.N. Kapoor, S.P. Lal & Bahl SPECIES
-=======
+# Sordariella gelasinosporoides J.N. Kapoor, S.P. Lal & Bahl SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Phytopath. 27(4): 660 (1975)
 
 #### Original name
-Sordariella gelasinosporioides J.N. Kapoor, S.P. Lal & Bahl
+Sordariella gelasinosporoides J.N. Kapoor, S.P. Lal & Bahl
 
 ### Remarks
 null

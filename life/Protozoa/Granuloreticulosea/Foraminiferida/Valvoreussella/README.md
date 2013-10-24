@@ -1,5 +1,4 @@
-Valvoreussella Hofker, 1957 GENUS
-=======
+# Valvoreussella Hofker, 1957 GENUS
 
 #### Status
 ACCEPTED

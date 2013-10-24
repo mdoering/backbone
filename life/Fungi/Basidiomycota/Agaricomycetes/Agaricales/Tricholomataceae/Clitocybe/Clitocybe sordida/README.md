@@ -1,5 +1,4 @@
-Clitocybe sordida Velen. SPECIES
-=======
+# Clitocybe sordida Velen. SPECIES
 
 #### Status
 ACCEPTED

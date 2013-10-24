@@ -1,14 +1,13 @@
-Phoma sarothamni Thüm., 1874 SPECIES
-=======
+# Coniothyrium sarothamni (Thüm.) Sacc., 1884 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotheca universalis no. 576 (1874)
+Syll. fung. (Abellini) 3: 308 (1884)
 
 #### Original name
 Phoma sarothamni Thüm., 1874

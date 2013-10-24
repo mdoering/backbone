@@ -1,5 +1,4 @@
-Photobacterium histaminum Okuzumi et al., 1994 SPECIES
-=======
+# Photobacterium histaminum Okuzumi et al., 1994 SPECIES
 
 #### Status
 ACCEPTED

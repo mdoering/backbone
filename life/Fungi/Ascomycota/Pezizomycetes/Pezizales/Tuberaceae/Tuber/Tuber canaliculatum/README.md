@@ -1,5 +1,4 @@
-Tuber canaliculatum Gilkey SPECIES
-=======
+# Tuber canaliculatum Gilkey SPECIES
 
 #### Status
 ACCEPTED

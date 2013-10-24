@@ -1,5 +1,4 @@
-Agaricus subditus Britzelm. SPECIES
-=======
+# Agaricus subditus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

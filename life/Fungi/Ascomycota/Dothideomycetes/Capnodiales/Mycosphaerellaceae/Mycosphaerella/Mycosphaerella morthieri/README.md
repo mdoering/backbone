@@ -1,5 +1,4 @@
-Mycosphaerella morthieri (Fuckel) Petr. SPECIES
-=======
+# Mycosphaerella morthieri (Fuckel) Petr. SPECIES
 
 #### Status
 ACCEPTED

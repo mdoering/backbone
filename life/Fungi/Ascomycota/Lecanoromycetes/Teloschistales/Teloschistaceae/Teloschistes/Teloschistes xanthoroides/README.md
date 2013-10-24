@@ -1,5 +1,4 @@
-Teloschistes xanthoroides J.S. Murray SPECIES
-=======
+# Teloschistes xanthoroides J.S. Murray SPECIES
 
 #### Status
 ACCEPTED

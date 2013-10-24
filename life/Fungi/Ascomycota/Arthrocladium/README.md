@@ -1,5 +1,4 @@
-Arthrocladium Papendorf, 1969 GENUS
-=======
+# Arthrocladium Papendorf, 1969 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Palaeoactinosphaera Noble, 1994 GENUS
-=======
+# Palaeoactinosphaera Noble, 1994 GENUS
 
 #### Status
 ACCEPTED

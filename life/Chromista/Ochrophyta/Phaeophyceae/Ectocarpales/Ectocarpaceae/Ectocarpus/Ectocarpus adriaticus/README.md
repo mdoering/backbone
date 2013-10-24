@@ -1,5 +1,4 @@
-Ectocarpus adriaticus Ercegovic SPECIES
-=======
+# Ectocarpus adriaticus Ercegovic SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Galera marasmiformis Velen. SPECIES
-=======
+# Galera marasmiformis Velen. SPECIES
 
 #### Status
 ACCEPTED

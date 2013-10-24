@@ -1,5 +1,4 @@
-Hypocrea protocitrinoides Yoshim. Doi SPECIES
-=======
+# Hypocrea protocitrinoides Yoshim. Doi SPECIES
 
 #### Status
 ACCEPTED

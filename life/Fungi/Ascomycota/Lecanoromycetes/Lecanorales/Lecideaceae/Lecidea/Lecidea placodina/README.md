@@ -1,5 +1,4 @@
-Lecidea placodina Nyl. SPECIES
-=======
+# Lecidea placodina Nyl. SPECIES
 
 #### Status
 ACCEPTED

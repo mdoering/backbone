@@ -1,5 +1,4 @@
-Scindalma levissimum (Fr.) Kuntze SPECIES
-=======
+# Scindalma levissimum (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

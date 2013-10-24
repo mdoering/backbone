@@ -1,5 +1,4 @@
-Phaeohygrocybe zenkeri Henn. SPECIES
-=======
+# Phaeohygrocybe zenkeri Henn. SPECIES
 
 #### Status
 ACCEPTED

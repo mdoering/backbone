@@ -1,5 +1,4 @@
-Helvella truncata Scop. SPECIES
-=======
+# Helvella truncata Scop. SPECIES
 
 #### Status
 ACCEPTED

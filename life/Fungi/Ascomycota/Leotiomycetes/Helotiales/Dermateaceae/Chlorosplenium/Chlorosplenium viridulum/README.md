@@ -1,14 +1,13 @@
-Lachnum viridulum Massee & Morgan, 1902 SPECIES
-=======
+# Chlorosplenium viridulum (Massee & Morgan) Dennis, 1963 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Mycol. 8(4): 187 (1902)
+Kew Bull. 17(2): 376 (1963)
 
 #### Original name
 Lachnum viridulum Massee & Morgan, 1902

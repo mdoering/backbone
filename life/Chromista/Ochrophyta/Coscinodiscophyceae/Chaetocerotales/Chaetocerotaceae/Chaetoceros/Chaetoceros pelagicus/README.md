@@ -1,5 +1,4 @@
-Chaetoceros pelagicus P.T. Cleve, 1873 SPECIES
-=======
+# Chaetoceros pelagicus P.T. Cleve, 1873 SPECIES
 
 #### Status
 ACCEPTED

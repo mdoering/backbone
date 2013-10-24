@@ -1,5 +1,4 @@
-Armenina Miklukho-Maklai, 1955 GENUS
-=======
+# Armenina Miklukho-Maklai, 1955 GENUS
 
 #### Status
 ACCEPTED

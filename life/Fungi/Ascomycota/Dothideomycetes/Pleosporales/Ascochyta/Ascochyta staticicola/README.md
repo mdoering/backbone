@@ -1,5 +1,4 @@
-Ascochyta staticicola Unamuno SPECIES
-=======
+# Ascochyta staticicola Unamuno SPECIES
 
 #### Status
 ACCEPTED

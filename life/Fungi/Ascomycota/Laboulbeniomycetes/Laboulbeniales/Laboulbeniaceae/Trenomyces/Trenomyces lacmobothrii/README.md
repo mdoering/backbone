@@ -1,5 +1,4 @@
-Trenomyces lacmobothrii Thaxt. SPECIES
-=======
+# Trenomyces lacmobothrii Thaxt. SPECIES
 
 #### Status
 ACCEPTED

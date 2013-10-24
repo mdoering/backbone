@@ -1,5 +1,4 @@
-Chamaeceras galericola (Ces.) Kuntze SPECIES
-=======
+# Chamaeceras galericola (Ces.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

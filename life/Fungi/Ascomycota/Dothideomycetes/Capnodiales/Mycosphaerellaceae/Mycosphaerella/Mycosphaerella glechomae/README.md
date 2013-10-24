@@ -1,8 +1,7 @@
-Mycosphaerella glechomatis (Sacc. & Flageolet) Tomilin SPECIES
-=======
+# Mycosphaerella glechomae (Sacc. & Flageolet) Tomilin SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

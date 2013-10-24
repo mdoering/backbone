@@ -1,17 +1,16 @@
-Calicium lenticulare var. lenticulare VARIETY
-=======
+# Calicium lenticulare Ach. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+K. Vetensk-Acad. Nya Handl. 262 (1816)
 
 #### Original name
-Calicium lenticulare var. lenticulare
+Trichia lenticularis Hoffm.
 
 ### Remarks
 null

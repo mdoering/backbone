@@ -1,5 +1,4 @@
-Cercosporidium selini-gmelinii (Sacc. & Scalia) Katsuki SPECIES
-=======
+# Cercosporidium selini-gmelinii (Sacc. & Scalia) Katsuki SPECIES
 
 #### Status
 ACCEPTED

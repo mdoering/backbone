@@ -1,5 +1,4 @@
-Kineosporia aurantiaca Pagani and Parenti, 1978 (Approved Lists, 1980) SPECIES
-=======
+# Kineosporia aurantiaca Pagani and Parenti, 1978 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

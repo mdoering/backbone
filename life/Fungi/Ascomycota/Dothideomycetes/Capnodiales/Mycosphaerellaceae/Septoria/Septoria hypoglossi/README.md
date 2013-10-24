@@ -1,5 +1,4 @@
-Septoria hypoglossi C. Massal. SPECIES
-=======
+# Septoria hypoglossi C. Massal. SPECIES
 
 #### Status
 ACCEPTED

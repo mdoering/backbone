@@ -1,5 +1,4 @@
-Cladonia stenophyllodes Vain. SPECIES
-=======
+# Cladonia stenophyllodes Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Colletotrichum yunnanense Xiao Ying Liu & W.P. Wu SPECIES
-=======
+# Colletotrichum yunnanense Xiao Ying Liu & W.P. Wu SPECIES
 
 #### Status
 ACCEPTED

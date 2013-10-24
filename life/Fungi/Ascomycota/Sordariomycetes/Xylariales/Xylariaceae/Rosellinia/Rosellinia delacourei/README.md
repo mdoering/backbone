@@ -1,5 +1,4 @@
-Rosellinia delacourei Fabre SPECIES
-=======
+# Rosellinia delacourei Fabre SPECIES
 
 #### Status
 ACCEPTED

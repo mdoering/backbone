@@ -1,5 +1,4 @@
-Coccotrichum dichotomum Preuss SPECIES
-=======
+# Coccotrichum dichotomum Preuss SPECIES
 
 #### Status
 ACCEPTED

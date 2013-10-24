@@ -1,5 +1,4 @@
-Polycephalomyces cylindrosporus Samson & H.C. Evans SPECIES
-=======
+# Polycephalomyces cylindrosporus Samson & H.C. Evans SPECIES
 
 #### Status
 ACCEPTED

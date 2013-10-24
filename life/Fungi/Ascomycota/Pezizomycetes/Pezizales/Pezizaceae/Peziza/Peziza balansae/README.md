@@ -1,5 +1,4 @@
-Peziza balansae Speg. SPECIES
-=======
+# Peziza balansae Speg. SPECIES
 
 #### Status
 ACCEPTED

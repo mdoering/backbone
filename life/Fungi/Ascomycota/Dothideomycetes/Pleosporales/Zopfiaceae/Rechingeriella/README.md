@@ -1,17 +1,16 @@
-Unamunoa Urries GENUS
-=======
+# Rechingeriella Petr. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-An. Jard. bot. Madr. 2: 158 (1942)
+in Rechinger et al. , Annln naturh. Mus. Wien 50: 465 (1940)
 
 #### Original name
-Unamunoa Urries
+Rechingeriella Petr.
 
 ### Remarks
 null

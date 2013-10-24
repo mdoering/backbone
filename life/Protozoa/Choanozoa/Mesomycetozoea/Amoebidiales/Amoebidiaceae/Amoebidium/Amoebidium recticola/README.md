@@ -1,5 +1,4 @@
-Amoebidium recticola Chatton, 1906 SPECIES
-=======
+# Amoebidium recticola Chatton, 1906 SPECIES
 
 #### Status
 ACCEPTED

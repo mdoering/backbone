@@ -1,5 +1,4 @@
-Prorocentrum rotundatum Schiller SPECIES
-=======
+# Prorocentrum rotundatum Schiller SPECIES
 
 #### Status
 ACCEPTED

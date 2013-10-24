@@ -1,5 +1,4 @@
-Stemphylium xanthosomatis B. Huguenin, 1966 SPECIES
-=======
+# Stemphylium xanthosomatis B. Huguenin, 1966 SPECIES
 
 #### Status
 ACCEPTED

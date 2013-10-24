@@ -1,5 +1,4 @@
-Plenodomus aconiti Petr. SPECIES
-=======
+# Plenodomus aconiti Petr. SPECIES
 
 #### Status
 ACCEPTED

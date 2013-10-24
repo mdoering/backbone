@@ -1,5 +1,4 @@
-Puccinia arthraxonis (Henn.) Syd., P. Syd. & E.J. Butler SPECIES
-=======
+# Puccinia arthraxonis (Henn.) Syd., P. Syd. & E.J. Butler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus harrisonii A.H. Sm. & Thiers SPECIES
-=======
+# Boletus harrisonii A.H. Sm. & Thiers SPECIES
 
 #### Status
 ACCEPTED

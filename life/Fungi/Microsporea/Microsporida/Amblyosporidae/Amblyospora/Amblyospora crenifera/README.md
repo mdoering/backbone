@@ -1,5 +1,4 @@
-Amblyospora crenifera SPECIES
-=======
+# Amblyospora crenifera SPECIES
 
 #### Status
 ACCEPTED

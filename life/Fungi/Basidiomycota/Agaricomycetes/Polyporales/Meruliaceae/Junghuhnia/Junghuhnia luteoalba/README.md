@@ -1,14 +1,13 @@
-Poria luteoalba (P. Karst.) Sacc., 1888 SPECIES
-=======
+# Junghuhnia luteoalba (P. Karst.) Ryvarden, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 6: 928 (1888)
+Persoonia 7(1): 18 (1972)
 
 #### Original name
 Physisporus luteoalbus P. Karst., 1887

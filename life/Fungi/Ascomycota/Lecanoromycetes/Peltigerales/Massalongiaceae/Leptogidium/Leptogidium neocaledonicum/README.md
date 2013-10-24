@@ -1,5 +1,4 @@
-Leptogidium neocaledonicum (Vain.) Zahlbr. SPECIES
-=======
+# Leptogidium neocaledonicum (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

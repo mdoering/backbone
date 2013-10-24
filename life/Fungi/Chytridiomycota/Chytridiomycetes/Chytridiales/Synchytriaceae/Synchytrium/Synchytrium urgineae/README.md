@@ -1,17 +1,16 @@
-Synchytrium urginiae M.S. Patil SPECIES
-=======
+# Synchytrium urgineae M.S. Patil SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Botanique, Nagpur 9(1-4): 204 (1980)
 
 #### Original name
-Synchytrium urginiae M.S. Patil
+Synchytrium urgineae M.S. Patil
 
 ### Remarks
 null

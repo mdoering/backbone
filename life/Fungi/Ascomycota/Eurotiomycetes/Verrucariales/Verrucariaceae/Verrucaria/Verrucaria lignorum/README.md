@@ -1,5 +1,4 @@
-Verrucaria lignorum Servít SPECIES
-=======
+# Verrucaria lignorum Servít SPECIES
 
 #### Status
 ACCEPTED

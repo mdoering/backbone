@@ -1,5 +1,4 @@
-Blastobotrys elegans de Hoog, Rant.-Leht. & M.T. Sm., 1985 SPECIES
-=======
+# Blastobotrys elegans de Hoog, Rant.-Leht. & M.T. Sm., 1985 SPECIES
 
 #### Status
 ACCEPTED

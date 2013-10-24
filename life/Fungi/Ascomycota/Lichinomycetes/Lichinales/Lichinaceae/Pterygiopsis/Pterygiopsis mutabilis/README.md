@@ -1,5 +1,4 @@
-Pterygiopsis mutabilis M. Schultz SPECIES
-=======
+# Pterygiopsis mutabilis M. Schultz SPECIES
 
 #### Status
 ACCEPTED

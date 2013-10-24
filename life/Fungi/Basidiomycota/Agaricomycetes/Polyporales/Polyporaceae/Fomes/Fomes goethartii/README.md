@@ -1,5 +1,4 @@
-Fomes goethartii Bres. SPECIES
-=======
+# Fomes goethartii Bres. SPECIES
 
 #### Status
 ACCEPTED

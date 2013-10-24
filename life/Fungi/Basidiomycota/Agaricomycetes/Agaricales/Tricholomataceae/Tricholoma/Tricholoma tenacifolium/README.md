@@ -1,5 +1,4 @@
-Tricholoma tenacifolium Corner SPECIES
-=======
+# Tricholoma tenacifolium Corner SPECIES
 
 #### Status
 ACCEPTED

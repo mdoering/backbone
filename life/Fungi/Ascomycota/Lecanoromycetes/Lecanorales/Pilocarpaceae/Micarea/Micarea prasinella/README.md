@@ -1,14 +1,13 @@
-Biatorina prasinella Jatta SPECIES
-=======
+# Micarea prasinella (Jatta) I.M. Lamb SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Boll. Soc. bot. ital. 257 (1911)
+Lilloa 26: 413 (1953)
 
 #### Original name
 Biatorina prasinella Jatta

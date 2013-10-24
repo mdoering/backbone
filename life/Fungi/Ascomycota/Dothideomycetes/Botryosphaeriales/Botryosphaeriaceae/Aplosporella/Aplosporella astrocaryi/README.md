@@ -1,17 +1,16 @@
-Aplosporella asterocaryi Henn. SPECIES
-=======
+# Aplosporella astrocaryi Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hedwigia 43: 92 (1904)
 
 #### Original name
-Aplosporella asterocaryi Henn.
+Aplosporella astrocaryi Henn.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Uleomycina rubescens Petr., 1954 SPECIES
-=======
+# Uleomycina rubescens Petr., 1954 SPECIES
 
 #### Status
 ACCEPTED

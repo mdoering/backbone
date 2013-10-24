@@ -1,5 +1,4 @@
-Thyrea cernohorskyi Servít SPECIES
-=======
+# Thyrea cernohorskyi Servít SPECIES
 
 #### Status
 ACCEPTED

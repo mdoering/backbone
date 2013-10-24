@@ -1,5 +1,4 @@
-Ephelidium heardense C.W. Dodge & E.D. Rudolph, 1955 SPECIES
-=======
+# Ephelidium heardense C.W. Dodge & E.D. Rudolph, 1955 SPECIES
 
 #### Status
 ACCEPTED

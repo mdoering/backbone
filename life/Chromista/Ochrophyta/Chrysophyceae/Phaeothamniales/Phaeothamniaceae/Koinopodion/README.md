@@ -1,5 +1,4 @@
-Koinopodion Pascher, 1943 GENUS
-=======
+# Koinopodion Pascher, 1943 GENUS
 
 #### Status
 ACCEPTED

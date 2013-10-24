@@ -1,5 +1,4 @@
-Thelephora styraciflua Schwein. SPECIES
-=======
+# Thelephora styraciflua Schwein. SPECIES
 
 #### Status
 ACCEPTED

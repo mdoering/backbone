@@ -1,5 +1,4 @@
-Uleomyces comedens Syd., 1926 SPECIES
-=======
+# Uleomyces comedens Syd., 1926 SPECIES
 
 #### Status
 ACCEPTED

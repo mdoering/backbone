@@ -1,5 +1,4 @@
-Meliola decora Syd. SPECIES
-=======
+# Meliola decora Syd. SPECIES
 
 #### Status
 ACCEPTED

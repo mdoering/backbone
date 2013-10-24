@@ -1,5 +1,4 @@
-Asterostomella gallica Bourdot & Galzin SPECIES
-=======
+# Asterostomella gallica Bourdot & Galzin SPECIES
 
 #### Status
 ACCEPTED

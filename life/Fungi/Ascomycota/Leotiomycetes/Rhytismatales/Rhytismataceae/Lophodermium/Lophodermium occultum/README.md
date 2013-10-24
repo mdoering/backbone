@@ -1,5 +1,4 @@
-Lophodermium occultum Petr. SPECIES
-=======
+# Lophodermium occultum Petr. SPECIES
 
 #### Status
 ACCEPTED

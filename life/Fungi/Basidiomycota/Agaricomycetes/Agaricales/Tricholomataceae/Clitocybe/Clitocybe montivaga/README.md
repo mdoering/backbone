@@ -1,5 +1,4 @@
-Clitocybe montivaga Singer SPECIES
-=======
+# Clitocybe montivaga Singer SPECIES
 
 #### Status
 ACCEPTED

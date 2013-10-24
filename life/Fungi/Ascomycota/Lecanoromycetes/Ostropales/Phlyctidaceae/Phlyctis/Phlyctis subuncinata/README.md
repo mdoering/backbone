@@ -1,5 +1,4 @@
-Phlyctis subuncinata Stirt. SPECIES
-=======
+# Phlyctis subuncinata Stirt. SPECIES
 
 #### Status
 ACCEPTED

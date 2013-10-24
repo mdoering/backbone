@@ -1,5 +1,4 @@
-Micrometula hyalostriata Nyholm, 1952 SPECIES
-=======
+# Micrometula hyalostriata Nyholm, 1952 SPECIES
 
 #### Status
 ACCEPTED

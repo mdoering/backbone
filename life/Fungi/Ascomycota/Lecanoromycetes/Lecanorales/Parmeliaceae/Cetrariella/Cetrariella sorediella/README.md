@@ -1,5 +1,4 @@
-Cetrariella sorediella (Lettau) V. J. Rico & A. Thell SPECIES
-=======
+# Cetrariella sorediella (Lettau) V. J. Rico & A. Thell SPECIES
 
 #### Status
 ACCEPTED

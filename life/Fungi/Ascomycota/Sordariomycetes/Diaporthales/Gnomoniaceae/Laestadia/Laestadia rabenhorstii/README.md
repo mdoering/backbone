@@ -1,5 +1,4 @@
-Laestadia rabenhorstii (Ces. & De Not.) Sacc. SPECIES
-=======
+# Laestadia rabenhorstii (Ces. & De Not.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

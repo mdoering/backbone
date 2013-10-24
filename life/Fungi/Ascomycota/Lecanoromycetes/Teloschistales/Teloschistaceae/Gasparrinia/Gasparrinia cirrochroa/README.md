@@ -1,5 +1,4 @@
-Gasparrinia cirrochroa f. cirrochroa FORM
-=======
+# Gasparrinia cirrochroa SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Gasparrinia cirrochroa f. cirrochroa
+null
 
 ### Remarks
 null

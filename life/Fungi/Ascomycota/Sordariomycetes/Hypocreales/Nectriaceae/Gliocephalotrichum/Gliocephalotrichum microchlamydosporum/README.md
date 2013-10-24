@@ -1,14 +1,13 @@
-Cylindrocladium simplex var. microchlamydosporum J.A. Mey., 1959 VARIETY
-=======
+# Gliocephalotrichum microchlamydosporum (J.A. Mey.) B.J. Wiley & E.G. Simmons, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Publ. Inst. nat. Étude agron. Congo belge, Sér. sci. 75: 148 (1959)
+Mycologia 63(3): 580 (1971)
 
 #### Original name
 Cylindrocladium simplex var. microchlamydosporum J.A. Mey., 1959

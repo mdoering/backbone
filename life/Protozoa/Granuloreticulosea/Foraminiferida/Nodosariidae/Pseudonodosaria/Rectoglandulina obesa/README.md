@@ -1,5 +1,4 @@
-Rectoglandulina obesa Loeblich & Tappan, 1955 SPECIES
-=======
+# Rectoglandulina obesa Loeblich & Tappan, 1955 SPECIES
 
 #### Status
 DOUBTFUL

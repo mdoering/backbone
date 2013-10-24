@@ -1,5 +1,4 @@
-Acanthostigmella von Höhnel, 1905 GENUS
-=======
+# Acanthostigmella von Höhnel, 1905 GENUS
 
 #### Status
 ACCEPTED

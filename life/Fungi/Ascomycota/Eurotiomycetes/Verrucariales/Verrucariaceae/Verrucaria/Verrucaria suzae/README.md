@@ -1,5 +1,4 @@
-Verrucaria suzae Servít SPECIES
-=======
+# Verrucaria suzae Servít SPECIES
 
 #### Status
 ACCEPTED

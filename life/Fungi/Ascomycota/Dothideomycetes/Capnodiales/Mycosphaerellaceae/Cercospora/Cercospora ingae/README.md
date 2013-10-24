@@ -1,5 +1,4 @@
-Cercospora ingae Obreg.-Bot. SPECIES
-=======
+# Cercospora ingae Obreg.-Bot. SPECIES
 
 #### Status
 ACCEPTED

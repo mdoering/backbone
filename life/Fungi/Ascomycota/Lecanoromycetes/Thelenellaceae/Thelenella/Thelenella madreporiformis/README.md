@@ -1,5 +1,4 @@
-Thelenella madreporiformis (Eschw.) Vain. SPECIES
-=======
+# Thelenella madreporiformis (Eschw.) Vain. SPECIES
 
 #### Status
 ACCEPTED

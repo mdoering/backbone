@@ -1,5 +1,4 @@
-Leptorhaphis patzaltii Poetsch SPECIES
-=======
+# Leptorhaphis patzaltii Poetsch SPECIES
 
 #### Status
 ACCEPTED

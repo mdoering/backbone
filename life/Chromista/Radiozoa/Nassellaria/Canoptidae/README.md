@@ -1,5 +1,4 @@
-Canoptidae Pessagno, 1979 FAMILY
-=======
+# Canoptidae Pessagno, 1979 FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanidion subatratum (Rehm) Sacc. & P. Syd. SPECIES
-=======
+# Lecanidion subatratum (Rehm) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

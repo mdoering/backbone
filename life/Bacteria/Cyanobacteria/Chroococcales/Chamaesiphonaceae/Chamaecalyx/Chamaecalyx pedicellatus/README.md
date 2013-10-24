@@ -1,8 +1,7 @@
-Dermocarpella pedicellata J. Feldmann & G. Feldmann SPECIES
-=======
+# Chamaecalyx pedicellatus (J. Feldmann & G. Feldmann) Komárek & Anagnostidis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

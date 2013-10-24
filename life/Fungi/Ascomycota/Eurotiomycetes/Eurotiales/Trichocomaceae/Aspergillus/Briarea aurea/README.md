@@ -1,5 +1,4 @@
-Briarea aurea Fuckel SPECIES
-=======
+# Briarea aurea Fuckel SPECIES
 
 #### Status
 ACCEPTED

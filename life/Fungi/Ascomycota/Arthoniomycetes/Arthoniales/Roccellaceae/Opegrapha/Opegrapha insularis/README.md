@@ -1,5 +1,4 @@
-Opegrapha insularis Vain. SPECIES
-=======
+# Opegrapha insularis Vain. SPECIES
 
 #### Status
 ACCEPTED

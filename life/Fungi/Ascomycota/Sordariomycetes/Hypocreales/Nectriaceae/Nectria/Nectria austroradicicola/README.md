@@ -1,5 +1,4 @@
-Nectria austroradicicola Samuels & Brayford, 1990 SPECIES
-=======
+# Nectria austroradicicola Samuels & Brayford, 1990 SPECIES
 
 #### Status
 ACCEPTED

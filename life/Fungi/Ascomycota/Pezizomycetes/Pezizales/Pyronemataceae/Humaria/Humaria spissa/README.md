@@ -1,5 +1,4 @@
-Humaria spissa (Berk.) Sacc. SPECIES
-=======
+# Humaria spissa (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

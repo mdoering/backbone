@@ -1,5 +1,4 @@
-Stereum corruge Lloyd SPECIES
-=======
+# Stereum corruge Lloyd SPECIES
 
 #### Status
 ACCEPTED

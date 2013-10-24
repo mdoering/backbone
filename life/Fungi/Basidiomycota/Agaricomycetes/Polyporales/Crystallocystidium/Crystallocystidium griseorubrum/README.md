@@ -1,5 +1,4 @@
-Crystallocystidium griseorubrum Rick SPECIES
-=======
+# Crystallocystidium griseorubrum Rick SPECIES
 
 #### Status
 ACCEPTED

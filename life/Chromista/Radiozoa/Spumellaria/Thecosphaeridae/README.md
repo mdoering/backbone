@@ -1,5 +1,4 @@
-Thecosphaeridae FAMILY
-=======
+# Thecosphaeridae FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cordyceps myosuroides Henn. SPECIES
-=======
+# Cordyceps myosuroides Henn. SPECIES
 
 #### Status
 ACCEPTED

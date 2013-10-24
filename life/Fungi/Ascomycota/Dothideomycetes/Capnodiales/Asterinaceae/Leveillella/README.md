@@ -1,5 +1,4 @@
-Leveillella Theiss. & Syd. GENUS
-=======
+# Leveillella Theiss. & Syd. GENUS
 
 #### Status
 ACCEPTED

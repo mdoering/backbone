@@ -1,5 +1,4 @@
-Sphaeria aperta Fr. SPECIES
-=======
+# Sphaeria aperta Fr. SPECIES
 
 #### Status
 ACCEPTED

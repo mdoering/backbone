@@ -1,8 +1,7 @@
-Camarosporium penzigi Sacc. SPECIES
-=======
+# Camarosporium penzigii Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Camarosporium penzigi Sacc.
+Camarosporium penzigii Sacc.
 
 ### Remarks
 null

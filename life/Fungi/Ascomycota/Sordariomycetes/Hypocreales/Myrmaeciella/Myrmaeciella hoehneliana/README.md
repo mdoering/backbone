@@ -1,5 +1,4 @@
-Myrmaeciella hoehneliana Rick SPECIES
-=======
+# Myrmaeciella hoehneliana Rick SPECIES
 
 #### Status
 ACCEPTED

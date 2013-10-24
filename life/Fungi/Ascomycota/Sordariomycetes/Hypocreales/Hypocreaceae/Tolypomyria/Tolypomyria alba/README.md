@@ -1,5 +1,4 @@
-Tolypomyria alba Preuss SPECIES
-=======
+# Tolypomyria alba Preuss SPECIES
 
 #### Status
 ACCEPTED

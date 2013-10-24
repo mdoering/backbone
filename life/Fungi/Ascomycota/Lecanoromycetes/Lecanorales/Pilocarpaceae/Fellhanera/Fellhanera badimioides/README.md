@@ -1,5 +1,4 @@
-Fellhanera badimioides Lücking, Lumbsch & Elix SPECIES
-=======
+# Fellhanera badimioides Lücking, Lumbsch & Elix SPECIES
 
 #### Status
 ACCEPTED

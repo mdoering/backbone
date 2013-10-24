@@ -1,17 +1,16 @@
-Tricholoma sphagnicolum Hruby SPECIES
-=======
+# Tricholoma sphagnicola Hruby SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hedwigia 70: 343 (1930)
 
 #### Original name
-Tricholoma sphagnicolum Hruby
+Tricholoma sphagnicola Hruby
 
 ### Remarks
 null

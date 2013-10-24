@@ -1,5 +1,4 @@
-Farysia venezuelana Zundel SPECIES
-=======
+# Farysia venezuelana Zundel SPECIES
 
 #### Status
 ACCEPTED

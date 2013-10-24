@@ -1,5 +1,4 @@
-Actinomadura recticatena Terekhova et al., 1987 SPECIES
-=======
+# Actinomadura recticatena Terekhova et al., 1987 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heppia azurea Vain. SPECIES
-=======
+# Heppia azurea Vain. SPECIES
 
 #### Status
 ACCEPTED

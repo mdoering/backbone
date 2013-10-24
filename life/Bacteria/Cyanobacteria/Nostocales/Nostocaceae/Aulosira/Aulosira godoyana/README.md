@@ -1,5 +1,4 @@
-Aulosira godoyana P. González SPECIES
-=======
+# Aulosira godoyana P. González SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Favotrichophyton singulare (Cazalbou) C.W. Dodge SPECIES
-=======
+# Favotrichophyton singulare (Cazalbou) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

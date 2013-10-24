@@ -1,5 +1,4 @@
-Zythia muscicola Höhn. SPECIES
-=======
+# Zythia muscicola Höhn. SPECIES
 
 #### Status
 ACCEPTED

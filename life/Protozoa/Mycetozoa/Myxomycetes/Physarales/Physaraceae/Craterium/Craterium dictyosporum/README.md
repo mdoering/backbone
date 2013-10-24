@@ -1,14 +1,13 @@
-Badhamia obovata var. dictyospora (Rostaf.) Lister ex Nann.-Bremek. VARIETY
-=======
+# Craterium dictyosporum (Rostaf.) H. Neubert, Nowotny & K. Baumann, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nederlandse Myxomyceten (Amsterdam) 273 (1975)
+Die Myxomyceten Deutschlands und des angrenzenden Alpenraumes unter besonderer Berücksichtigung Österreichs (Gomaringen), <b>2</b>. Physarales 2: 194 (1995)
 
 #### Original name
 Badhamia dictyospora Rostaf., 1876

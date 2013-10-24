@@ -1,5 +1,4 @@
-Microsphaera ferruginea Erikss. SPECIES
-=======
+# Microsphaera ferruginea Erikss. SPECIES
 
 #### Status
 ACCEPTED

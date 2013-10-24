@@ -1,5 +1,4 @@
-Leptothyrium brunnichiae Tehon SPECIES
-=======
+# Leptothyrium brunnichiae Tehon SPECIES
 
 #### Status
 ACCEPTED

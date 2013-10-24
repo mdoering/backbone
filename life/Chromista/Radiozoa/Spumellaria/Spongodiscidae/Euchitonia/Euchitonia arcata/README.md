@@ -1,5 +1,4 @@
-Euchitonia arcata SPECIES
-=======
+# Euchitonia arcata SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Smyrnella pseudoluculenta Saidova, 1975 SPECIES
-=======
+# Smyrnella pseudoluculenta Saidova, 1975 SPECIES
 
 #### Status
 DOUBTFUL

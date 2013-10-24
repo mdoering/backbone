@@ -1,5 +1,4 @@
-Parmelia flavicans (Tuck.) Tuck. SPECIES
-=======
+# Parmelia flavicans (Tuck.) Tuck. SPECIES
 
 #### Status
 ACCEPTED

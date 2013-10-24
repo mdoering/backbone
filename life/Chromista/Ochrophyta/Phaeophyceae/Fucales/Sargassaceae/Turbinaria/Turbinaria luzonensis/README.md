@@ -1,5 +1,4 @@
-Turbinaria luzonensis W.R. Taylor SPECIES
-=======
+# Turbinaria luzonensis W.R. Taylor SPECIES
 
 #### Status
 ACCEPTED

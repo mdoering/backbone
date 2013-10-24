@@ -1,5 +1,4 @@
-Lepista polygonarum (Laursen, O.K. Mill. & H.E. Bigelow) Harmaja SPECIES
-=======
+# Lepista polygonarum (Laursen, O.K. Mill. & H.E. Bigelow) Harmaja SPECIES
 
 #### Status
 ACCEPTED

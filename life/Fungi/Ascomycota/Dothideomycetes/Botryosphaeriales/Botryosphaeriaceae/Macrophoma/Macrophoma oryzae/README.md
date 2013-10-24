@@ -1,5 +1,4 @@
-Macrophoma oryzae Hara SPECIES
-=======
+# Macrophoma oryzae Hara SPECIES
 
 #### Status
 ACCEPTED

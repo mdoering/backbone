@@ -1,5 +1,4 @@
-Thalloidima verrucosum A. Massal. SPECIES
-=======
+# Thalloidima verrucosum A. Massal. SPECIES
 
 #### Status
 ACCEPTED

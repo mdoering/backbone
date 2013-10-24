@@ -1,5 +1,4 @@
-Septogloeum potentillae Allesch. SPECIES
-=======
+# Septogloeum potentillae Allesch. SPECIES
 
 #### Status
 ACCEPTED

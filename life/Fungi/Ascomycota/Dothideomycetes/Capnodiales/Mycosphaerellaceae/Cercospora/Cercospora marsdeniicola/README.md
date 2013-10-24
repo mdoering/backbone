@@ -1,5 +1,4 @@
-Cercospora marsdeniicola A.K. Kar & M. Mandal SPECIES
-=======
+# Cercospora marsdeniicola A.K. Kar & M. Mandal SPECIES
 
 #### Status
 ACCEPTED

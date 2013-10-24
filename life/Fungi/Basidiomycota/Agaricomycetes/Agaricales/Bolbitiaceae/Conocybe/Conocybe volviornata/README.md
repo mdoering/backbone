@@ -1,5 +1,4 @@
-Conocybe volviornata E. Horak, Hauskn. & Desjardin SPECIES
-=======
+# Conocybe volviornata E. Horak, Hauskn. & Desjardin SPECIES
 
 #### Status
 ACCEPTED

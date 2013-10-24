@@ -1,5 +1,4 @@
-Septoria persicariae O'Gara, 1917 SPECIES
-=======
+# Septoria persicariae O'Gara, 1917 SPECIES
 
 #### Status
 ACCEPTED

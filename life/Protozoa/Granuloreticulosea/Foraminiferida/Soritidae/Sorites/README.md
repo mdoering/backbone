@@ -1,5 +1,4 @@
-Sorites Ehrenberg, 1839 GENUS
-=======
+# Sorites Ehrenberg, 1839 GENUS
 
 #### Status
 ACCEPTED

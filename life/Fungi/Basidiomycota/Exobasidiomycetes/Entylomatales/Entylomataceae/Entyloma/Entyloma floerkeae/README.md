@@ -1,5 +1,4 @@
-Entyloma floerkeae Holw. SPECIES
-=======
+# Entyloma floerkeae Holw. SPECIES
 
 #### Status
 ACCEPTED

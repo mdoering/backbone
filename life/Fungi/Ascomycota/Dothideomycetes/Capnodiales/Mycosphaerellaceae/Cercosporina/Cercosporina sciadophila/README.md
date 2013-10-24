@@ -1,5 +1,4 @@
-Cercosporina sciadophila Speg. SPECIES
-=======
+# Cercosporina sciadophila Speg. SPECIES
 
 #### Status
 ACCEPTED

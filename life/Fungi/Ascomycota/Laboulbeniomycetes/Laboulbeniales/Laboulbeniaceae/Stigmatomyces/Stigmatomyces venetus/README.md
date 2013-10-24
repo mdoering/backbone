@@ -1,5 +1,4 @@
-Stigmatomyces venetus W. Rossi SPECIES
-=======
+# Stigmatomyces venetus W. Rossi SPECIES
 
 #### Status
 ACCEPTED

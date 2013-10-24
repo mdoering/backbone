@@ -1,17 +1,16 @@
-Parmelia subteres var. subteres Bitter VARIETY
-=======
+# Hypogymnia tubularis (Taylor) Elix SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 40: 265 (1901)
+Brunonia 2(2): 233 (1980)
 
 #### Original name
-Parmelia subteres var. subteres Bitter
+Parmelia tubularis Taylor
 
 ### Remarks
 null

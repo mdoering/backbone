@@ -1,8 +1,7 @@
-Marthasterites tribrachiatus (Bramlette & Riedel, 1954) Deflandre, 1959 SPECIES
-=======
+# Tribrachiatus orthostylus Shamral, 1963 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

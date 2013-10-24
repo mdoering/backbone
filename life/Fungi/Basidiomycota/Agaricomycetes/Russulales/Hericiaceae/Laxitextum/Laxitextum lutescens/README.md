@@ -1,5 +1,4 @@
-Laxitextum lutescens Hjortstam & Ryvarden, 1981 SPECIES
-=======
+# Laxitextum lutescens Hjortstam & Ryvarden, 1981 SPECIES
 
 #### Status
 ACCEPTED

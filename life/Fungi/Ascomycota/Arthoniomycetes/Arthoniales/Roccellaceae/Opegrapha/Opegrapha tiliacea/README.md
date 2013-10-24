@@ -1,5 +1,4 @@
-Opegrapha tiliacea Chevall. SPECIES
-=======
+# Opegrapha tiliacea Chevall. SPECIES
 
 #### Status
 ACCEPTED

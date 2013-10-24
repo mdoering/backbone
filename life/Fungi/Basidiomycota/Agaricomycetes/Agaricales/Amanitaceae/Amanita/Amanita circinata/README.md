@@ -1,5 +1,4 @@
-Amanita circinata O.K. Mill. & Lodge SPECIES
-=======
+# Amanita circinata O.K. Mill. & Lodge SPECIES
 
 #### Status
 ACCEPTED

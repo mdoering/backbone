@@ -1,5 +1,4 @@
-Daedalea vorax Harkn. SPECIES
-=======
+# Daedalea vorax Harkn. SPECIES
 
 #### Status
 ACCEPTED

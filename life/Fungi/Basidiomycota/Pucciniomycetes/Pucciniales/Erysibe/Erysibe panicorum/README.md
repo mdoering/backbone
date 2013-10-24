@@ -1,5 +1,4 @@
-Erysibe panicorum SPECIES
-=======
+# Erysibe panicorum SPECIES
 
 #### Status
 ACCEPTED

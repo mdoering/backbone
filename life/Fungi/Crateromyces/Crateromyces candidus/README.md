@@ -1,5 +1,4 @@
-Crateromyces candidus Corda SPECIES
-=======
+# Crateromyces candidus Corda SPECIES
 
 #### Status
 ACCEPTED

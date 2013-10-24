@@ -1,5 +1,4 @@
-Rabenhorstia personata Fr. SPECIES
-=======
+# Rabenhorstia personata Fr. SPECIES
 
 #### Status
 ACCEPTED

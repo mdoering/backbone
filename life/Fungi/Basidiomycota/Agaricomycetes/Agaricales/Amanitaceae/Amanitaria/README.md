@@ -1,5 +1,4 @@
-Amanitaria GENUS
-=======
+# Amanitaria GENUS
 
 #### Status
 ACCEPTED

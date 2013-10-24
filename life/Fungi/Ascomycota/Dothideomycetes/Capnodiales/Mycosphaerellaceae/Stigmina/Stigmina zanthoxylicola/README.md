@@ -1,8 +1,7 @@
-Stigmina xanthoxylicola Speg. SPECIES
-=======
+# Stigmina zanthoxylicola Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Stigmina xanthoxylicola Speg.
+Stigmina zanthoxylicola Speg.
 
 ### Remarks
 null

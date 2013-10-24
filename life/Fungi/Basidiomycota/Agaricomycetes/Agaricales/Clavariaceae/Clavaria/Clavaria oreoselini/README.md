@@ -1,5 +1,4 @@
-Clavaria oreoselini Velen. SPECIES
-=======
+# Clavaria oreoselini Velen. SPECIES
 
 #### Status
 ACCEPTED

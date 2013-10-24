@@ -1,5 +1,4 @@
-Syracosphaera cordiformis Schiller, 1913 SPECIES
-=======
+# Syracosphaera cordiformis Schiller, 1913 SPECIES
 
 #### Status
 ACCEPTED

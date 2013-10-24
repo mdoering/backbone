@@ -1,5 +1,4 @@
-Neottiopezis GENUS
-=======
+# Neottiopezis GENUS
 
 #### Status
 ACCEPTED

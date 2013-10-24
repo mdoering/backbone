@@ -1,5 +1,4 @@
-Brachybasidium kordyana SPECIES
-=======
+# Brachybasidium kordyana SPECIES
 
 #### Status
 ACCEPTED

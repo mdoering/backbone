@@ -1,5 +1,4 @@
-Stemonitis sulphurea Roth SPECIES
-=======
+# Stemonitis sulphurea Roth SPECIES
 
 #### Status
 ACCEPTED

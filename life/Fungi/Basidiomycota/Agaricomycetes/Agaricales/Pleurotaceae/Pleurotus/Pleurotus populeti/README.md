@@ -1,5 +1,4 @@
-Pleurotus populeti (Britzelm.) Sacc. SPECIES
-=======
+# Pleurotus populeti (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

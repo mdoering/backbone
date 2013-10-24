@@ -1,5 +1,4 @@
-Uromyces collinus J.F. Hennen & Cummins SPECIES
-=======
+# Uromyces collinus J.F. Hennen & Cummins SPECIES
 
 #### Status
 ACCEPTED

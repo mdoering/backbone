@@ -1,5 +1,4 @@
-Stropharia caesifolia (Peck) Sacc. SPECIES
-=======
+# Stropharia caesifolia (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

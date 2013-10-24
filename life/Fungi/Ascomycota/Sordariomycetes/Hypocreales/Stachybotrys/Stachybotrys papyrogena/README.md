@@ -1,5 +1,4 @@
-Stachybotrys papyrogena (Sacc.) Sacc. SPECIES
-=======
+# Stachybotrys papyrogena (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

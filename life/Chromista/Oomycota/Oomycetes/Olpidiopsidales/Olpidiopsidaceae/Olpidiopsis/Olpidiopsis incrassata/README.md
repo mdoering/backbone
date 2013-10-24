@@ -1,17 +1,16 @@
-Olpidiopsis major Maurizio, 1895 SPECIES
-=======
+# Olpidiopsis incrassata Cornu, 1872 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls Sci. Nat. , Bot. , sér. 5 15: 146 (1872)
 
 #### Original name
-Olpidiopsis major Maurizio, 1895
+Olpidiopsis incrassata Cornu, 1872
 
 ### Remarks
 null

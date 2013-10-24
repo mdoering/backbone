@@ -1,5 +1,4 @@
-Anabaena luteola Schmidle SPECIES
-=======
+# Anabaena luteola Schmidle SPECIES
 
 #### Status
 ACCEPTED

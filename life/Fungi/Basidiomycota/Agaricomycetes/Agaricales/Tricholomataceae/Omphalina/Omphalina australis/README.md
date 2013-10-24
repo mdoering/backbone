@@ -1,5 +1,4 @@
-Omphalina australis Murrill SPECIES
-=======
+# Omphalina australis Murrill SPECIES
 
 #### Status
 ACCEPTED

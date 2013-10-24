@@ -1,5 +1,4 @@
-Caldalkalibacillus Xue, Zhang, Zhou, Zhao, Cowa, Heaphy, Grant, Jones, Ventosa & Ma, 2006 GENUS
-=======
+# Caldalkalibacillus Xue, Zhang, Zhou, Zhao, Cowa, Heaphy, Grant, Jones, Ventosa & Ma, 2006 GENUS
 
 #### Status
 ACCEPTED

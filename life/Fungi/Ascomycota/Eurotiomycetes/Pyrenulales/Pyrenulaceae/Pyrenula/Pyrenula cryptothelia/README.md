@@ -1,5 +1,4 @@
-Pyrenula cryptothelia (Müll. Arg.) Aptroot & Etayo SPECIES
-=======
+# Pyrenula cryptothelia (Müll. Arg.) Aptroot & Etayo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria jurineae Fuckel SPECIES
-=======
+# Sphaeria jurineae Fuckel SPECIES
 
 #### Status
 ACCEPTED

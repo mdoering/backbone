@@ -1,5 +1,4 @@
-Autoicomyces helechoralis Thaxt. SPECIES
-=======
+# Autoicomyces helechoralis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Quasiearlandia Brazhnikova in Brazhnikova & Vdovenko, 1973 GENUS
-=======
+# Quasiearlandia Brazhnikova in Brazhnikova & Vdovenko, 1973 GENUS
 
 #### Status
 ACCEPTED

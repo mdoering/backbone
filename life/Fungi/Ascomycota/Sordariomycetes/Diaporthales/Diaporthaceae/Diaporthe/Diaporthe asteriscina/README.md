@@ -1,5 +1,4 @@
-Diaporthe asteriscina Speg. SPECIES
-=======
+# Diaporthe asteriscina Speg. SPECIES
 
 #### Status
 ACCEPTED

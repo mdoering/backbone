@@ -1,5 +1,4 @@
-Galera schoeniphila Velen. SPECIES
-=======
+# Galera schoeniphila Velen. SPECIES
 
 #### Status
 ACCEPTED

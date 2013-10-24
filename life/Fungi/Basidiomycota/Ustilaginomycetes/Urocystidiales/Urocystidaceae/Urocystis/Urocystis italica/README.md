@@ -1,5 +1,4 @@
-Urocystis italica (Sacc. & Speg.) De Toni SPECIES
-=======
+# Urocystis italica (Sacc. & Speg.) De Toni SPECIES
 
 #### Status
 ACCEPTED

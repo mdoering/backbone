@@ -1,5 +1,4 @@
-Rutstroemia dzhapharovii Raitv. SPECIES
-=======
+# Rutstroemia dzhapharovii Raitv. SPECIES
 
 #### Status
 ACCEPTED

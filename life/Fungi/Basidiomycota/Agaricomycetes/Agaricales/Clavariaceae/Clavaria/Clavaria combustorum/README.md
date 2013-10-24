@@ -1,5 +1,4 @@
-Clavaria combustorum Velen. SPECIES
-=======
+# Clavaria combustorum Velen. SPECIES
 
 #### Status
 ACCEPTED

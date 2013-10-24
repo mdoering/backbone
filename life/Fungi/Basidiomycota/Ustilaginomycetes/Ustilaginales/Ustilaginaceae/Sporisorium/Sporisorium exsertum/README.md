@@ -1,5 +1,4 @@
-Sporisorium exsertum (McAlpine) L. Guo SPECIES
-=======
+# Sporisorium exsertum (McAlpine) L. Guo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aposphaeria rhododendri (Schwein.) Sacc. SPECIES
-=======
+# Aposphaeria rhododendri (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

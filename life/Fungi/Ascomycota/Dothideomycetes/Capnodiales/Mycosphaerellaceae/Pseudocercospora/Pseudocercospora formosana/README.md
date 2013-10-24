@@ -1,17 +1,16 @@
-Pseudocercospora formosana subsp. formosana SUBSPECIES
-=======
+# Pseudocercospora formosana (W. Yamam.) Deighton, 1976 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Pap. 140: 144 (1976)
 
 #### Original name
-null
+Cercospora formosana W. Yamam., 1934
 
 ### Remarks
 null

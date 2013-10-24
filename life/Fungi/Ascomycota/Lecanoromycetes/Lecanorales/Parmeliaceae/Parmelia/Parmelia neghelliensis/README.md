@@ -1,5 +1,4 @@
-Parmelia neghelliensis (Sambo) C.W. Dodge SPECIES
-=======
+# Parmelia neghelliensis (Sambo) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

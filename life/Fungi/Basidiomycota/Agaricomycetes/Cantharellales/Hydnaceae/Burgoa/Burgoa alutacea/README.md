@@ -1,5 +1,4 @@
-Burgoa alutacea Goid. SPECIES
-=======
+# Burgoa alutacea Goid. SPECIES
 
 #### Status
 ACCEPTED

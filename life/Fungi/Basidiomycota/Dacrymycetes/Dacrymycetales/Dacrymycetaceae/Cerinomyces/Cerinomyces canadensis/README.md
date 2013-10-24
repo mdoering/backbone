@@ -1,14 +1,13 @@
-Ceracea canadensis H.S. Jacks. & G.W. Martin, 1940 SPECIES
-=======
+# Cerinomyces canadensis (H.S. Jacks. & G.W. Martin) G.W. Martin, 1949 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 32(6): 693 (1940)
+Mycologia 41(1): 85 (1949)
 
 #### Original name
 Ceracea canadensis H.S. Jacks. & G.W. Martin, 1940

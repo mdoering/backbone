@@ -1,5 +1,4 @@
-Pustularia micropus Fuckel SPECIES
-=======
+# Pustularia micropus Fuckel SPECIES
 
 #### Status
 ACCEPTED

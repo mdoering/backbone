@@ -1,5 +1,4 @@
-Poetschia caerulescens (Hafellner) Kutorga & D. Hawksw. SPECIES
-=======
+# Poetschia caerulescens (Hafellner) Kutorga & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

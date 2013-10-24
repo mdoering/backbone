@@ -1,5 +1,4 @@
-Graphis oryzoides Leight. SPECIES
-=======
+# Graphis oryzoides Leight. SPECIES
 
 #### Status
 ACCEPTED

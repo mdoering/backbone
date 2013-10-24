@@ -1,5 +1,4 @@
-Clausophrya Naidenova & Zaika, 1969 GENUS
-=======
+# Clausophrya Naidenova & Zaika, 1969 GENUS
 
 #### Status
 ACCEPTED

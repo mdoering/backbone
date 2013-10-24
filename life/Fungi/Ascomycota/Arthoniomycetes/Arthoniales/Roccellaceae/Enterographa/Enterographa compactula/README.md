@@ -1,5 +1,4 @@
-Enterographa compactula (Nyl.) Redinger SPECIES
-=======
+# Enterographa compactula (Nyl.) Redinger SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Opegrapha martii Nyl. SPECIES
-=======
+# Opegrapha martii Nyl. SPECIES
 
 #### Status
 ACCEPTED

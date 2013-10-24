@@ -1,5 +1,4 @@
-Dicaeoma substriatum Arthur SPECIES
-=======
+# Dicaeoma substriatum Arthur SPECIES
 
 #### Status
 ACCEPTED

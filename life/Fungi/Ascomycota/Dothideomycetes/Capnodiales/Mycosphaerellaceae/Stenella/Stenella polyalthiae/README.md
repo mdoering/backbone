@@ -1,17 +1,16 @@
-Stenella polylathiae S. Chaudhary, N. Sharma & Kamal SPECIES
-=======
+# Stenella polyalthiae S. Chaudhary, N. Sharma & Kamal SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Phytopath. 55(1): 58 (2002)
 
 #### Original name
-Stenella polylathiae S. Chaudhary, N. Sharma & Kamal
+Stenella polyalthiae S. Chaudhary, N. Sharma & Kamal
 
 ### Remarks
 null

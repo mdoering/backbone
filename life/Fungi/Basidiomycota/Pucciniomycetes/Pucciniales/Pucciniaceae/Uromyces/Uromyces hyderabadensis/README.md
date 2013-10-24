@@ -1,5 +1,4 @@
-Uromyces hyderabadensis Ramachar, K.N. Rao & Bagyan. SPECIES
-=======
+# Uromyces hyderabadensis Ramachar, K.N. Rao & Bagyan. SPECIES
 
 #### Status
 ACCEPTED

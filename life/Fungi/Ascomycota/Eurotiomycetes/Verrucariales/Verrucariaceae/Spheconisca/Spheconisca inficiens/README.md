@@ -1,5 +1,4 @@
-Spheconisca inficiens Norman SPECIES
-=======
+# Spheconisca inficiens Norman SPECIES
 
 #### Status
 ACCEPTED

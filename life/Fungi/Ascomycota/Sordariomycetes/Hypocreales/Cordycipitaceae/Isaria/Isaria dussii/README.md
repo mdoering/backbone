@@ -1,5 +1,4 @@
-Isaria dussii Pat. SPECIES
-=======
+# Isaria dussii Pat. SPECIES
 
 #### Status
 ACCEPTED

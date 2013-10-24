@@ -1,5 +1,4 @@
-Stictis insculpta Wallr. SPECIES
-=======
+# Stictis insculpta Wallr. SPECIES
 
 #### Status
 ACCEPTED

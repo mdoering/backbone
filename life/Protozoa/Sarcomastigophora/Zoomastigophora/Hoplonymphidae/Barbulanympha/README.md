@@ -1,14 +1,13 @@
-Barbulonympha GENUS
-=======
+# Barbulanympha Cleveland, Hall, Sanders & Collier GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
-null
+Mem. Amer. Acad. Arts Sci. , 17, 158.
 
 #### Original name
 null

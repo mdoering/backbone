@@ -1,5 +1,4 @@
-Puccinia sparganioidis Ellis & Barthol. SPECIES
-=======
+# Puccinia sparganioidis Ellis & Barthol. SPECIES
 
 #### Status
 ACCEPTED

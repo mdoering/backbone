@@ -1,5 +1,4 @@
-Stagonospora abietis Rolland & Fautrey SPECIES
-=======
+# Stagonospora abietis Rolland & Fautrey SPECIES
 
 #### Status
 ACCEPTED

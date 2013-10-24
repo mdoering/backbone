@@ -1,5 +1,4 @@
-Gymnodinium hulburtii P.H. Campbell, 1973 SPECIES
-=======
+# Gymnodinium hulburtii P.H. Campbell, 1973 SPECIES
 
 #### Status
 ACCEPTED

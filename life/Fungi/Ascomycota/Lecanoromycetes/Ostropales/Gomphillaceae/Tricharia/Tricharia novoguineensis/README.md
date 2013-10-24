@@ -1,5 +1,4 @@
-Tricharia novoguineensis Sérus. SPECIES
-=======
+# Tricharia novoguineensis Sérus. SPECIES
 
 #### Status
 ACCEPTED

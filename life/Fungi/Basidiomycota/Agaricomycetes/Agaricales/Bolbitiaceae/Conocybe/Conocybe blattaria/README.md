@@ -1,14 +1,13 @@
-Togaria blattaria (Fr.) W.G. Sm., 1908 SPECIES
-=======
+# Conocybe blattaria (Fr.) Kühner, 1935 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syn. Brit. Basidiomyc. 123 (1908)
+Encyclop. Mycol. 7: 150 (1935)
 
 #### Original name
 Agaricus blattarius Fr., 1821

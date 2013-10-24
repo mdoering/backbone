@@ -1,5 +1,4 @@
-Acarospora terricola H. Magn. SPECIES
-=======
+# Acarospora terricola H. Magn. SPECIES
 
 #### Status
 ACCEPTED

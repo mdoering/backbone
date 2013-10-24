@@ -1,5 +1,4 @@
-Phlyctochytrium bryopsidis Kobayasi & M. Ôkubo, 1954 SPECIES
-=======
+# Phlyctochytrium bryopsidis Kobayasi & M. Ôkubo, 1954 SPECIES
 
 #### Status
 ACCEPTED

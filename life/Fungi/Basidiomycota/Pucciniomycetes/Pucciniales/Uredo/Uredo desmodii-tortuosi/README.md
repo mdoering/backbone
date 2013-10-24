@@ -1,5 +1,4 @@
-Uredo desmodii-tortuosi Henn. SPECIES
-=======
+# Uredo desmodii-tortuosi Henn. SPECIES
 
 #### Status
 ACCEPTED

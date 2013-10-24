@@ -1,17 +1,16 @@
-Thamnolia papelillo var. papelillo VARIETY
-=======
+# Thamnolia papelillo R. Sant. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Symb. bot. upsal. 34(1): 393 (2004)
 
 #### Original name
-null
+Thamnolia papelillo R. Sant.
 
 ### Remarks
 null

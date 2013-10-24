@@ -1,5 +1,4 @@
-Nannoceratopsis radiatus A. Kumar SPECIES
-=======
+# Nannoceratopsis radiatus A. Kumar SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nodosaria timorensis Loeblich & Tappan, 1994 SPECIES
-=======
+# Nodosaria timorensis Loeblich & Tappan, 1994 SPECIES
 
 #### Status
 ACCEPTED

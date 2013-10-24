@@ -1,5 +1,4 @@
-Pilacre poricola Richon SPECIES
-=======
+# Pilacre poricola Richon SPECIES
 
 #### Status
 ACCEPTED

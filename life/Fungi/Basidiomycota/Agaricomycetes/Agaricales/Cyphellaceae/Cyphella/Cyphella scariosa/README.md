@@ -1,5 +1,4 @@
-Cyphella scariosa Ces. SPECIES
-=======
+# Cyphella scariosa Ces. SPECIES
 
 #### Status
 ACCEPTED

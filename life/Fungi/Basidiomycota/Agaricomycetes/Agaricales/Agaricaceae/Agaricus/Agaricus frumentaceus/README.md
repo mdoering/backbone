@@ -1,5 +1,4 @@
-Agaricus frumentaceus Weinm. SPECIES
-=======
+# Agaricus frumentaceus Weinm. SPECIES
 
 #### Status
 ACCEPTED

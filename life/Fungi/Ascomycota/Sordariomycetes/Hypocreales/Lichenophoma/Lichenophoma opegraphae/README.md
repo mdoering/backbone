@@ -1,5 +1,4 @@
-Lichenophoma opegraphae Vouaux SPECIES
-=======
+# Lichenophoma opegraphae Vouaux SPECIES
 
 #### Status
 ACCEPTED

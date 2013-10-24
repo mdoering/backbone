@@ -1,5 +1,4 @@
-Apiospora phyllostachydicola I. Hino & Katum. SPECIES
-=======
+# Apiospora phyllostachydicola I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

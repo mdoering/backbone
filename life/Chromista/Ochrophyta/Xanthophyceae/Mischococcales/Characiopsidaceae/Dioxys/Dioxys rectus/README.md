@@ -1,5 +1,4 @@
-Dioxys rectus Pascher, 1932 SPECIES
-=======
+# Dioxys rectus Pascher, 1932 SPECIES
 
 #### Status
 ACCEPTED

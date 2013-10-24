@@ -1,5 +1,4 @@
-Lachnea grisea (Clem.) Sacc. & P. Syd. SPECIES
-=======
+# Lachnea grisea (Clem.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

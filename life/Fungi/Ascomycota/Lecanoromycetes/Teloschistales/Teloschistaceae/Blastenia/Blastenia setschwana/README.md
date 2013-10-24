@@ -1,5 +1,4 @@
-Blastenia setschwana SPECIES
-=======
+# Blastenia setschwana SPECIES
 
 #### Status
 ACCEPTED

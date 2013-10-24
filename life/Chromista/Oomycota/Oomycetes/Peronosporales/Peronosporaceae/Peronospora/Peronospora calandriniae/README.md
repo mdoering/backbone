@@ -1,5 +1,4 @@
-Peronospora calandriniae Speg. SPECIES
-=======
+# Peronospora calandriniae Speg. SPECIES
 
 #### Status
 ACCEPTED

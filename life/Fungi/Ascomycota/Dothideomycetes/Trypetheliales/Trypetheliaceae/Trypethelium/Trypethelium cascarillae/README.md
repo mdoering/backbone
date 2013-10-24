@@ -1,5 +1,4 @@
-Trypethelium cascarillae Müll. Arg. SPECIES
-=======
+# Trypethelium cascarillae Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

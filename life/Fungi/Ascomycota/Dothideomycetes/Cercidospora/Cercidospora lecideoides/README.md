@@ -1,5 +1,4 @@
-Cercidospora lecideoides (Anzi) Arnold SPECIES
-=======
+# Cercidospora lecideoides (Anzi) Arnold SPECIES
 
 #### Status
 ACCEPTED

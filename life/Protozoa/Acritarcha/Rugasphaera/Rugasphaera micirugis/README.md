@@ -1,5 +1,4 @@
-Rugasphaera micirugis Jiabo, 1978 SPECIES
-=======
+# Rugasphaera micirugis Jiabo, 1978 SPECIES
 
 #### Status
 ACCEPTED

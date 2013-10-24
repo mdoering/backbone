@@ -1,14 +1,13 @@
-Cladonia cupulifera Vain. SPECIES
-=======
+# Caloplaca cupulifera (Vain.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Cat. Lich. Univers. 7: 226 (1931)
 
 #### Original name
 Cladonia cupulifera Vain.

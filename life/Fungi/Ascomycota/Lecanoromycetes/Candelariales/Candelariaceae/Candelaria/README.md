@@ -1,5 +1,4 @@
-Candelaria A. Massalongo, 1852 GENUS
-=======
+# Candelaria A. Massalongo, 1852 GENUS
 
 #### Status
 ACCEPTED

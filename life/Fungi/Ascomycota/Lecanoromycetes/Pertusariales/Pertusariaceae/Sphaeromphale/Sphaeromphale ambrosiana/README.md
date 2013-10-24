@@ -1,5 +1,4 @@
-Sphaeromphale ambrosiana (A. Massal.) Trevis. SPECIES
-=======
+# Sphaeromphale ambrosiana (A. Massal.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

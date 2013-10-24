@@ -1,5 +1,4 @@
-Pleurosticta lichenicola Petr. SPECIES
-=======
+# Pleurosticta lichenicola Petr. SPECIES
 
 #### Status
 ACCEPTED

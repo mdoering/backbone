@@ -1,5 +1,4 @@
-Tuckermanopsis orbata (Nyl.) M.J. Lai SPECIES
-=======
+# Tuckermanopsis orbata (Nyl.) M.J. Lai SPECIES
 
 #### Status
 ACCEPTED

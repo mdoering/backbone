@@ -1,5 +1,4 @@
-Lecidea vallesiaca Schaer. SPECIES
-=======
+# Lecidea vallesiaca Schaer. SPECIES
 
 #### Status
 ACCEPTED

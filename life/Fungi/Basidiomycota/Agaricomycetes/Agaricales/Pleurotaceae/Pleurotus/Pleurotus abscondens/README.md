@@ -1,5 +1,4 @@
-Pleurotus abscondens (Peck) Sacc. SPECIES
-=======
+# Pleurotus abscondens (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

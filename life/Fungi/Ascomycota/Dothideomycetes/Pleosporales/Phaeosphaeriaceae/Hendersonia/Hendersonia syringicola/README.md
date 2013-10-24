@@ -1,8 +1,7 @@
-Hendersonia syringaecola Brunaud SPECIES
-=======
+# Hendersonia syringicola Brunaud SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Hendersonia syringaecola Brunaud
+Hendersonia syringicola Brunaud
 
 ### Remarks
 null

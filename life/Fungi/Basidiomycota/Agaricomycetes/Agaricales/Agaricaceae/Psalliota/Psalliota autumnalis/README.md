@@ -1,5 +1,4 @@
-Psalliota autumnalis Velen. SPECIES
-=======
+# Psalliota autumnalis Velen. SPECIES
 
 #### Status
 ACCEPTED

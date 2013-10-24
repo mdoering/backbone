@@ -1,17 +1,16 @@
-Sporidesmium matsutakashiae Subram. SPECIES
-=======
+# Sporidesmium matsutakashii Subram. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Proc. Indian natn Sci. Acad. , Part B. Biol. Sci. 58(4): 182 (1992)
 
 #### Original name
-Sporidesmium matsutakashiae Subram.
+Sporidesmium matsutakashii Subram.
 
 ### Remarks
 null

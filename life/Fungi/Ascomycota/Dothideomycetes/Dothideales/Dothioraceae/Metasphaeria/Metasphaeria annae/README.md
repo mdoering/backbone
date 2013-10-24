@@ -1,5 +1,4 @@
-Metasphaeria annae Oudem. SPECIES
-=======
+# Metasphaeria annae Oudem. SPECIES
 
 #### Status
 ACCEPTED

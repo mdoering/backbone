@@ -1,5 +1,4 @@
-Hemieutreptia antiqua Y. Hahda SPECIES
-=======
+# Hemieutreptia antiqua Y. Hahda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptococcus brunneus Kütz. SPECIES
-=======
+# Cryptococcus brunneus Kütz. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alveolaria duguetiae Viégas SPECIES
-=======
+# Alveolaria duguetiae Viégas SPECIES
 
 #### Status
 ACCEPTED

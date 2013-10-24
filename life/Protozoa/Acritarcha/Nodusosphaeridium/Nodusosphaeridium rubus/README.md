@@ -1,5 +1,4 @@
-Nodusosphaeridium rubus Uutela, 1989 SPECIES
-=======
+# Nodusosphaeridium rubus Uutela, 1989 SPECIES
 
 #### Status
 ACCEPTED

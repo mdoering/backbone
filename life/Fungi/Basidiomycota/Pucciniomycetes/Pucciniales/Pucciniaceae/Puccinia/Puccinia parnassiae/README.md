@@ -1,5 +1,4 @@
-Puccinia parnassiae Arthur SPECIES
-=======
+# Puccinia parnassiae Arthur SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria perexigua Lév. SPECIES
-=======
+# Sphaeria perexigua Lév. SPECIES
 
 #### Status
 ACCEPTED

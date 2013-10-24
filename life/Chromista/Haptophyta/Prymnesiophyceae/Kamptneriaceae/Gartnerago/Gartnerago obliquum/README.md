@@ -1,5 +1,4 @@
-Gartnerago obliquum (Stradner, 1963) Noël, 1970 or Reinhardt, 1970 SPECIES
-=======
+# Gartnerago obliquum (Stradner, 1963) Noël, 1970 or Reinhardt, 1970 SPECIES
 
 #### Status
 ACCEPTED

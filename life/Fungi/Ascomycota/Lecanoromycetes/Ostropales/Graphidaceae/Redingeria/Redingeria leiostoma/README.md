@@ -1,14 +1,13 @@
-Myriotrema leiostomum (Tuck.) Hale SPECIES
-=======
+# Redingeria leiostoma (Tuck.) Frisch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 11(1): 134 (1980)
+in Frisch & Kalb, Biblthca Lichenol. 92: 416 (2006)
 
 #### Original name
 Thelotrema leiostomum Tuck.

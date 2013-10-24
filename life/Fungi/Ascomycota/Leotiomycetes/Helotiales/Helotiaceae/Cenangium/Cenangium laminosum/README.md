@@ -1,5 +1,4 @@
-Cenangium laminosum Kunze SPECIES
-=======
+# Cenangium laminosum Kunze SPECIES
 
 #### Status
 ACCEPTED

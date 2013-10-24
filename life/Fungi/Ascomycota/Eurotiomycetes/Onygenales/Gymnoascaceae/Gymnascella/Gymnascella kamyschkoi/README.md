@@ -1,5 +1,4 @@
-Gymnascella kamyschkoi G.F. Orr, G.R. Ghosh & K. Roy SPECIES
-=======
+# Gymnascella kamyschkoi G.F. Orr, G.R. Ghosh & K. Roy SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia heufleri Schulzer SPECIES
-=======
+# Diplodia heufleri Schulzer SPECIES
 
 #### Status
 ACCEPTED

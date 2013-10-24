@@ -1,5 +1,4 @@
-Glaukolithus compactus (Bukry, 1969) Perch-Nielsen, 1984 SPECIES
-=======
+# Glaukolithus compactus (Bukry, 1969) Perch-Nielsen, 1984 SPECIES
 
 #### Status
 DOUBTFUL

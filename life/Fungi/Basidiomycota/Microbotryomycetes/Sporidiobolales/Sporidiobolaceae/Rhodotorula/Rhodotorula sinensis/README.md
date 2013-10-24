@@ -1,5 +1,4 @@
-Rhodotorula sinensis M.H. Lee SPECIES
-=======
+# Rhodotorula sinensis M.H. Lee SPECIES
 
 #### Status
 ACCEPTED

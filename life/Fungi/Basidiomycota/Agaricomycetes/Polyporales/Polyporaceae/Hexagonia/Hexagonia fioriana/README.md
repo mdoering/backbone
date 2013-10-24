@@ -1,5 +1,4 @@
-Hexagonia fioriana Sacc. SPECIES
-=======
+# Hexagonia fioriana Sacc. SPECIES
 
 #### Status
 ACCEPTED

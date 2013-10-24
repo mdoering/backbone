@@ -1,5 +1,4 @@
-Marasmius subvenosus Peck SPECIES
-=======
+# Marasmius subvenosus Peck SPECIES
 
 #### Status
 ACCEPTED

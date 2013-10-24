@@ -1,5 +1,4 @@
-Condylostoma oxyoura SPECIES
-=======
+# Condylostoma oxyoura SPECIES
 
 #### Status
 ACCEPTED

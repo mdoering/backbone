@@ -1,5 +1,4 @@
-Afipia Brenner, Hollis, Moss, English, Hall, Vincent, Radosevic, Birkness, Bibb, Quinn, Swaminathan, Weaver, Reeves, O'Connor, Hayes, Tenover, Steigerwalt, Perkins, Daneshvar, Hill, Washington, Woods, Hunter, Hadfield, Ajello, Kaufmann, Wear & Wenger, 1992 GENUS
-=======
+# Afipia Brenner, Hollis, Moss, English, Hall, Vincent, Radosevic, Birkness, Bibb, Quinn, Swaminathan, Weaver, Reeves, O'Connor, Hayes, Tenover, Steigerwalt, Perkins, Daneshvar, Hill, Washington, Woods, Hunter, Hadfield, Ajello, Kaufmann, Wear & Wenger, 1992 GENUS
 
 #### Status
 ACCEPTED

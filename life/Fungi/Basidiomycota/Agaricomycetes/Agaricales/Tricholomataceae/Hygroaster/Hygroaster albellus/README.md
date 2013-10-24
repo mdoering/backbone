@@ -1,5 +1,4 @@
-Hygroaster albellus Singer SPECIES
-=======
+# Hygroaster albellus Singer SPECIES
 
 #### Status
 ACCEPTED

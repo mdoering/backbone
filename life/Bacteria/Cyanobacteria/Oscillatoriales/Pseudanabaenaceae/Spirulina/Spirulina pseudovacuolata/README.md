@@ -1,5 +1,4 @@
-Spirulina pseudovacuolata Utermöhl SPECIES
-=======
+# Spirulina pseudovacuolata Utermöhl SPECIES
 
 #### Status
 ACCEPTED

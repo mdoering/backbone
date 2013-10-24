@@ -1,5 +1,4 @@
-Actinomyces dermatonomus Bull {?} SPECIES
-=======
+# Actinomyces dermatonomus Bull {?} SPECIES
 
 #### Status
 ACCEPTED

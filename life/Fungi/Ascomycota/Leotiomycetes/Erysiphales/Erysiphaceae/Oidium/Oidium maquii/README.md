@@ -1,5 +1,4 @@
-Oidium maquii Havryl. & U. Braun SPECIES
-=======
+# Oidium maquii Havryl. & U. Braun SPECIES
 
 #### Status
 ACCEPTED

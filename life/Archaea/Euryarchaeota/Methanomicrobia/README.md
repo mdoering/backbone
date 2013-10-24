@@ -1,5 +1,4 @@
-Methanomicrobia CLASS
-=======
+# Methanomicrobia CLASS
 
 #### Status
 ACCEPTED

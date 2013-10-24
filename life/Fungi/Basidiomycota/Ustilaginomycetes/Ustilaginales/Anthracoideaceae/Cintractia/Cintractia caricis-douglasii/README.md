@@ -1,5 +1,4 @@
-Cintractia caricis-douglasii (Shear) Cif. SPECIES
-=======
+# Cintractia caricis-douglasii (Shear) Cif. SPECIES
 
 #### Status
 ACCEPTED

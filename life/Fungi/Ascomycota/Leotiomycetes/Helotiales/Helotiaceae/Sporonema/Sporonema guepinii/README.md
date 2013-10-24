@@ -1,5 +1,4 @@
-Sporonema guepinii (Mont.) Sacc. SPECIES
-=======
+# Sporonema guepinii (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

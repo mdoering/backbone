@@ -1,5 +1,4 @@
-Pseudocercospora oyedaeae (Syd.) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora oyedaeae (Syd.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

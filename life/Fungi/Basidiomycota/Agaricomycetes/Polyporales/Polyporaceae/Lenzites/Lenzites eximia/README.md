@@ -1,5 +1,4 @@
-Lenzites eximia Berk. & M.A. Curtis SPECIES
-=======
+# Lenzites eximia Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

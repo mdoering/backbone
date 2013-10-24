@@ -1,5 +1,4 @@
-Mycena eucystidiata Höhn. SPECIES
-=======
+# Mycena eucystidiata Höhn. SPECIES
 
 #### Status
 ACCEPTED

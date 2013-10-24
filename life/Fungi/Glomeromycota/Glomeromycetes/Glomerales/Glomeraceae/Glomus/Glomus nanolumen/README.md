@@ -1,5 +1,4 @@
-Glomus nanolumen Koske & Gemma, 1990 SPECIES
-=======
+# Glomus nanolumen Koske & Gemma, 1990 SPECIES
 
 #### Status
 ACCEPTED

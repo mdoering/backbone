@@ -1,14 +1,13 @@
-Callopisma aurantiacum var. coronatum Kremp. ex Körb. VARIETY
-=======
+# Caloplaca coronata (Kremp. ex Körb.) J. Steiner SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Parerga lichenol. (Breslau) 66 (1859)
+Verh. zool. -bot. Ges. Wien 69: 71 (1919)
 
 #### Original name
 Callopisma aurantiacum var. coronatum Kremp. ex Körb.

@@ -1,5 +1,4 @@
-Russula salmoneolutea Landa & R. Fellner SPECIES
-=======
+# Russula salmoneolutea Landa & R. Fellner SPECIES
 
 #### Status
 ACCEPTED

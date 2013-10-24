@@ -1,5 +1,4 @@
-Ophiostoma ainoae H. Solheim, 1986 SPECIES
-=======
+# Ophiostoma ainoae H. Solheim, 1986 SPECIES
 
 #### Status
 ACCEPTED

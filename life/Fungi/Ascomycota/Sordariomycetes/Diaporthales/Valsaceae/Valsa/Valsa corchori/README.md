@@ -1,8 +1,7 @@
-Valsa corchorii Syd. & E.J. Butler SPECIES
-=======
+# Valsa corchori Syd. & E.J. Butler SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Valsa corchorii Syd. & E.J. Butler
+Valsa corchori Syd. & E.J. Butler
 
 ### Remarks
 null

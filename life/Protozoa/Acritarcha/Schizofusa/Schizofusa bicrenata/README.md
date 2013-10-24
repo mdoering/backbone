@@ -1,5 +1,4 @@
-Schizofusa bicrenata Yan Yuzhong, 1985 SPECIES
-=======
+# Schizofusa bicrenata Yan Yuzhong, 1985 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymascina GENUS
-=======
+# Didymascina GENUS
 
 #### Status
 ACCEPTED

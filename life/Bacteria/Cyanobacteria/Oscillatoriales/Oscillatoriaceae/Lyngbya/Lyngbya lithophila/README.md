@@ -1,5 +1,4 @@
-Lyngbya lithophila Ercegovic, 1932 SPECIES
-=======
+# Lyngbya lithophila Ercegovic, 1932 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Infundibulomyces Plaingam, Somrith. & E.B.G. Jones GENUS
-=======
+# Infundibulomyces Plaingam, Somrith. & E.B.G. Jones GENUS
 
 #### Status
 ACCEPTED

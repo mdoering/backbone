@@ -1,5 +1,4 @@
-Alectoria intricata Hue SPECIES
-=======
+# Alectoria intricata Hue SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Cercospora sorghi f. sorghi Ellis & Everh. FORM
-=======
+# Cercospora sorghi Ellis & Everh., 1887 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 J. Mycol. 3(2): 15 (1887)
 
 #### Original name
-Cercospora sorghi f. sorghi Ellis & Everh.
+Cercospora sorghi Ellis & Everh., 1887
 
 ### Remarks
 null

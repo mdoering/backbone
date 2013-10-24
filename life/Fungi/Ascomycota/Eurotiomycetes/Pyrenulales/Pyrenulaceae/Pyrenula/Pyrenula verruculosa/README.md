@@ -1,5 +1,4 @@
-Pyrenula verruculosa Upreti & Ajay Singh SPECIES
-=======
+# Pyrenula verruculosa Upreti & Ajay Singh SPECIES
 
 #### Status
 ACCEPTED

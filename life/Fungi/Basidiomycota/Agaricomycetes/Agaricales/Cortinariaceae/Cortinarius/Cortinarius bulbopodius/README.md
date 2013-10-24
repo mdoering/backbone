@@ -1,5 +1,4 @@
-Cortinarius bulbopodius (Chevassut & Rob. Henry) Bidaud & Reumaux SPECIES
-=======
+# Cortinarius bulbopodius (Chevassut & Rob. Henry) Bidaud & Reumaux SPECIES
 
 #### Status
 ACCEPTED

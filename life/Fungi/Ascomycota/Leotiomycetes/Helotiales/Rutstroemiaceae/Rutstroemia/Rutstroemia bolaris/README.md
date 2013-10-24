@@ -1,14 +1,13 @@
-Calycina bolaris (Batsch) Seaver, 1934 SPECIES
-=======
+# Rutstroemia bolaris (Batsch) Rehm, 1893 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 26(4): 346 (1934)
+Discom. Deutschl. 765 (1893)
 
 #### Original name
 null

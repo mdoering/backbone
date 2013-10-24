@@ -1,5 +1,4 @@
-Flammula alutiphylla Berk. & Broome SPECIES
-=======
+# Flammula alutiphylla Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria clausa Schumach. SPECIES
-=======
+# Sphaeria clausa Schumach. SPECIES
 
 #### Status
 ACCEPTED

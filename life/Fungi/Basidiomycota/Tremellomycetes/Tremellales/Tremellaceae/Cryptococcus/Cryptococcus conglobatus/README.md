@@ -1,5 +1,4 @@
-Cryptococcus conglobatus (Redaelli) Pollacci & Nann. SPECIES
-=======
+# Cryptococcus conglobatus (Redaelli) Pollacci & Nann. SPECIES
 
 #### Status
 ACCEPTED

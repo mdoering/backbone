@@ -1,5 +1,4 @@
-Pachybasidiella GENUS
-=======
+# Pachybasidiella GENUS
 
 #### Status
 ACCEPTED

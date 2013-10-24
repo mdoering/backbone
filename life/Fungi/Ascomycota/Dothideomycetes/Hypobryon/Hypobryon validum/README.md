@@ -1,5 +1,4 @@
-Hypobryon validum Döbbeler, 1983 SPECIES
-=======
+# Hypobryon validum Döbbeler, 1983 SPECIES
 
 #### Status
 ACCEPTED

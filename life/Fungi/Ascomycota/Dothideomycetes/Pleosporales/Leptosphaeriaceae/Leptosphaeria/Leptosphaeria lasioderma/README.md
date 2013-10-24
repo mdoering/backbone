@@ -1,5 +1,4 @@
-Leptosphaeria lasioderma Ellis & Everh. SPECIES
-=======
+# Leptosphaeria lasioderma Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

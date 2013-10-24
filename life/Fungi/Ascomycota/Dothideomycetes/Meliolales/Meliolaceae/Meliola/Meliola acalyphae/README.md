@@ -1,5 +1,4 @@
-Meliola acalyphae Rehm SPECIES
-=======
+# Meliola acalyphae Rehm SPECIES
 
 #### Status
 ACCEPTED

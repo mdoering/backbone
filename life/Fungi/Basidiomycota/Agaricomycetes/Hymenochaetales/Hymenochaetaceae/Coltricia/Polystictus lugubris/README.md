@@ -1,5 +1,4 @@
-Polystictus lugubris (Kalchbr.) Cooke SPECIES
-=======
+# Polystictus lugubris (Kalchbr.) Cooke SPECIES
 
 #### Status
 ACCEPTED

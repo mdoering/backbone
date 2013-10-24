@@ -1,5 +1,4 @@
-Vermicularia crassipila P. Karst. SPECIES
-=======
+# Vermicularia crassipila P. Karst. SPECIES
 
 #### Status
 ACCEPTED

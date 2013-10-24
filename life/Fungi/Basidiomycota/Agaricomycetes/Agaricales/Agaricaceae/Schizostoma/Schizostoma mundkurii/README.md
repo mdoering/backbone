@@ -1,14 +1,13 @@
-Schizostoma mundkuri (S. Ahmad) Long & Stouffer SPECIES
-=======
+# Schizostoma mundkurii (S. Ahmad) Long & Stouffer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 35(1): 27 (1943)
 
 #### Original name
 Queletia mundkurii S. Ahmad

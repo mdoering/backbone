@@ -1,5 +1,4 @@
-Octaviania moravica Velen. SPECIES
-=======
+# Octaviania moravica Velen. SPECIES
 
 #### Status
 ACCEPTED

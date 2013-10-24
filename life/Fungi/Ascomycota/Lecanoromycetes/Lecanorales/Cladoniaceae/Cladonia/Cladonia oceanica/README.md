@@ -1,5 +1,4 @@
-Cladonia oceanica Vain. SPECIES
-=======
+# Cladonia oceanica Vain. SPECIES
 
 #### Status
 ACCEPTED

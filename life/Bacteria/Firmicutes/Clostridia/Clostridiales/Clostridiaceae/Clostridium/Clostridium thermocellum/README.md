@@ -1,5 +1,4 @@
-Clostridium thermocellum Viljoen et al., 1926 (Approved Lists, 1980) SPECIES
-=======
+# Clostridium thermocellum Viljoen et al., 1926 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

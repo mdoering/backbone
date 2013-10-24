@@ -1,17 +1,16 @@
-Cercospora canavaliiana J.M. Yen & Lim SPECIES
-=======
+# Cercospora canavaliana J.M. Yen & Lim SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Cahiers Pacif. 14: 95 (1970)
 
 #### Original name
-Cercospora canavaliiana J.M. Yen & Lim
+Cercospora canavaliana J.M. Yen & Lim
 
 ### Remarks
 null

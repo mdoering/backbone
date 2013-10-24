@@ -1,5 +1,4 @@
-Tuber taiyuanense B. Liu SPECIES
-=======
+# Tuber taiyuanense B. Liu SPECIES
 
 #### Status
 ACCEPTED

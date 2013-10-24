@@ -1,5 +1,4 @@
-Amanita umbrinella E.-J. Gilbert & Cleland SPECIES
-=======
+# Amanita umbrinella E.-J. Gilbert & Cleland SPECIES
 
 #### Status
 ACCEPTED

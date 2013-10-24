@@ -1,5 +1,4 @@
-Cymatiogalea gemmata Vavrdová, 1978 SPECIES
-=======
+# Cymatiogalea gemmata Vavrdová, 1978 SPECIES
 
 #### Status
 ACCEPTED

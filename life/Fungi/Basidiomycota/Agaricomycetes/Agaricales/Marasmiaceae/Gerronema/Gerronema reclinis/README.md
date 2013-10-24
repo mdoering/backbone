@@ -1,5 +1,4 @@
-Gerronema reclinis (Fr.) Clémençon SPECIES
-=======
+# Gerronema reclinis (Fr.) Clémençon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochyta cynosuricola Punith., 1979 SPECIES
-=======
+# Ascochyta cynosuricola Punith., 1979 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteridiella irregularis (F. Stevens) Hansf. SPECIES
-=======
+# Asteridiella irregularis (F. Stevens) Hansf. SPECIES
 
 #### Status
 ACCEPTED

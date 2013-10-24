@@ -1,5 +1,4 @@
-Acia dryina (Lév.) Pat. SPECIES
-=======
+# Acia dryina (Lév.) Pat. SPECIES
 
 #### Status
 ACCEPTED

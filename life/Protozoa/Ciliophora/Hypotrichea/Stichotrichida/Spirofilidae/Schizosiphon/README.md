@@ -1,5 +1,4 @@
-Schizosiphon Kent, 1882 GENUS
-=======
+# Schizosiphon Kent, 1882 GENUS
 
 #### Status
 ACCEPTED

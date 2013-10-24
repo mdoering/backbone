@@ -1,5 +1,4 @@
-Xylobotryum coralloides Syd. SPECIES
-=======
+# Xylobotryum coralloides Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cytosporina pircuniae Speg. SPECIES
-=======
+# Cytosporina pircuniae Speg. SPECIES
 
 #### Status
 ACCEPTED

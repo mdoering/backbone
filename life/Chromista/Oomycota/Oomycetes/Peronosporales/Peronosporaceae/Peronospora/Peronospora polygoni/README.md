@@ -1,5 +1,4 @@
-Peronospora polygoni Halst., 1919 SPECIES
-=======
+# Peronospora polygoni Halst., 1919 SPECIES
 
 #### Status
 ACCEPTED

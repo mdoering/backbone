@@ -1,5 +1,4 @@
-Pareutypella Y.M. Ju & J.D. Rogers GENUS
-=======
+# Pareutypella Y.M. Ju & J.D. Rogers GENUS
 
 #### Status
 ACCEPTED

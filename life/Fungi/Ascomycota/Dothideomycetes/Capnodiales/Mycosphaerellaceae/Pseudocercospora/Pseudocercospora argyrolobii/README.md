@@ -1,5 +1,4 @@
-Pseudocercospora argyrolobii (Chupp & Doidge) Deighton SPECIES
-=======
+# Pseudocercospora argyrolobii (Chupp & Doidge) Deighton SPECIES
 
 #### Status
 ACCEPTED

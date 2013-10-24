@@ -1,5 +1,4 @@
-Pannaria vischii C.W. Dodge SPECIES
-=======
+# Pannaria vischii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Caeoma conigenum Pat., 1896 SPECIES
-=======
+# Peridermium conigenum (Pat.) R.S. Peterson, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Bot. , Paris 10: 386 (1896)
+null
 
 #### Original name
 Caeoma conigenum Pat., 1896

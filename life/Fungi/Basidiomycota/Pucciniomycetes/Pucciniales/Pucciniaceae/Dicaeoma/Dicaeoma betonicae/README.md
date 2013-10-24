@@ -1,5 +1,4 @@
-Dicaeoma betonicae Nees SPECIES
-=======
+# Dicaeoma betonicae Nees SPECIES
 
 #### Status
 ACCEPTED

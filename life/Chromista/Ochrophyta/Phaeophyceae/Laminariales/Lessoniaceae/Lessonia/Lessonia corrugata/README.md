@@ -1,5 +1,4 @@
-Lessonia corrugata Lucas SPECIES
-=======
+# Lessonia corrugata Lucas SPECIES
 
 #### Status
 ACCEPTED

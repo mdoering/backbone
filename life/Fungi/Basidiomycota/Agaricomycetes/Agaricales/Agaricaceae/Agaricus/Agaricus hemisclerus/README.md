@@ -1,5 +1,4 @@
-Agaricus hemisclerus Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus hemisclerus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

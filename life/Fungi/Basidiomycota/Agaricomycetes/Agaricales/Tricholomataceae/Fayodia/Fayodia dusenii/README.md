@@ -1,5 +1,4 @@
-Fayodia dusenii (Bres.) Singer SPECIES
-=======
+# Fayodia dusenii (Bres.) Singer SPECIES
 
 #### Status
 ACCEPTED

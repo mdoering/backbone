@@ -1,5 +1,4 @@
-Bertia querceti Rehm SPECIES
-=======
+# Bertia querceti Rehm SPECIES
 
 #### Status
 ACCEPTED

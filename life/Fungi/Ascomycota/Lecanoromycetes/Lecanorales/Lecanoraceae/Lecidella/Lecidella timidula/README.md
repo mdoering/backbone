@@ -1,5 +1,4 @@
-Lecidella timidula (Th. Fr. & Almq. ex Th. Fr.) R. Sant. SPECIES
-=======
+# Lecidella timidula (Th. Fr. & Almq. ex Th. Fr.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

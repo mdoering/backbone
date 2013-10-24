@@ -1,5 +1,4 @@
-Arenariomyces salina Meyers SPECIES
-=======
+# Arenariomyces salina Meyers SPECIES
 
 #### Status
 ACCEPTED

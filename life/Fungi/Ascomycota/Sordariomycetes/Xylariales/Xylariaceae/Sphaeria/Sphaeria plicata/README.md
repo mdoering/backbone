@@ -1,5 +1,4 @@
-Sphaeria plicata Preuss SPECIES
-=======
+# Sphaeria plicata Preuss SPECIES
 
 #### Status
 ACCEPTED

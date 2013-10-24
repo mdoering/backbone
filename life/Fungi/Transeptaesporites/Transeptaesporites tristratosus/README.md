@@ -1,5 +1,4 @@
-Transeptaesporites tristratosus (Sheffy & Dilcher) V.S. Ediger SPECIES
-=======
+# Transeptaesporites tristratosus (Sheffy & Dilcher) V.S. Ediger SPECIES
 
 #### Status
 ACCEPTED

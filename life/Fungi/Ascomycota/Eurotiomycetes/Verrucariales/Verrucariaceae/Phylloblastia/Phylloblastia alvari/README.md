@@ -1,5 +1,4 @@
-Phylloblastia alvari (Herrera-Camp. & Lücking) Lücking SPECIES
-=======
+# Phylloblastia alvari (Herrera-Camp. & Lücking) Lücking SPECIES
 
 #### Status
 ACCEPTED

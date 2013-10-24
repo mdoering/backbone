@@ -1,5 +1,4 @@
-Coniothyrium marisci Tehon SPECIES
-=======
+# Coniothyrium marisci Tehon SPECIES
 
 #### Status
 ACCEPTED

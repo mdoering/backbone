@@ -1,5 +1,4 @@
-Marasmius putredinus Berk. & M.A. Curtis SPECIES
-=======
+# Marasmius putredinus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

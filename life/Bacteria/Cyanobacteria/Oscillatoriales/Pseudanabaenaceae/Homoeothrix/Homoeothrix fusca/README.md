@@ -1,5 +1,4 @@
-Homoeothrix fusca Starmach SPECIES
-=======
+# Homoeothrix fusca Starmach SPECIES
 
 #### Status
 ACCEPTED

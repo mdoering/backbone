@@ -1,5 +1,4 @@
-Mycena atropurpurea Mont. SPECIES
-=======
+# Mycena atropurpurea Mont. SPECIES
 
 #### Status
 ACCEPTED

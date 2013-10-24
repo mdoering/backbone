@@ -1,5 +1,4 @@
-Cortinarius exlugubris Soop, 2001 SPECIES
-=======
+# Cortinarius exlugubris Soop, 2001 SPECIES
 
 #### Status
 ACCEPTED

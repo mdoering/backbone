@@ -1,5 +1,4 @@
-Myxosporium piri Fuckel SPECIES
-=======
+# Myxosporium piri Fuckel SPECIES
 
 #### Status
 ACCEPTED

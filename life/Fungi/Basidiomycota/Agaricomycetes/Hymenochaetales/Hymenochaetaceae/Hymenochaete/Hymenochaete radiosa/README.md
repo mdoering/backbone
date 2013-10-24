@@ -1,5 +1,4 @@
-Hymenochaete radiosa Henn. SPECIES
-=======
+# Hymenochaete radiosa Henn. SPECIES
 
 #### Status
 ACCEPTED

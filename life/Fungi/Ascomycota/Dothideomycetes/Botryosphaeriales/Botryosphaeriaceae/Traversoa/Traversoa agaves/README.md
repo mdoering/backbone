@@ -1,5 +1,4 @@
-Traversoa agaves Petr. SPECIES
-=======
+# Traversoa agaves Petr. SPECIES
 
 #### Status
 ACCEPTED

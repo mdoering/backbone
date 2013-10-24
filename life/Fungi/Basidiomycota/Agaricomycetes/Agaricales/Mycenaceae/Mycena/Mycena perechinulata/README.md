@@ -1,5 +1,4 @@
-Mycena perechinulata Corner SPECIES
-=======
+# Mycena perechinulata Corner SPECIES
 
 #### Status
 ACCEPTED

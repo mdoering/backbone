@@ -1,5 +1,4 @@
-Haplotrichum GENUS
-=======
+# Haplotrichum GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteroma punctiforme Berk. SPECIES
-=======
+# Asteroma punctiforme Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Camuralithus de Kaenel & Villa, 1996 GENUS
-=======
+# Camuralithus de Kaenel & Villa, 1996 GENUS
 
 #### Status
 ACCEPTED

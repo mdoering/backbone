@@ -1,5 +1,4 @@
-Epithelopsis Jülich GENUS
-=======
+# Epithelopsis Jülich GENUS
 
 #### Status
 ACCEPTED

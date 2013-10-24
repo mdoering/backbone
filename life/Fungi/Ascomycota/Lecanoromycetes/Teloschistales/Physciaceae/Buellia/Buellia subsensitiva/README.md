@@ -1,5 +1,4 @@
-Buellia subsensitiva Imshaug SPECIES
-=======
+# Buellia subsensitiva Imshaug SPECIES
 
 #### Status
 ACCEPTED

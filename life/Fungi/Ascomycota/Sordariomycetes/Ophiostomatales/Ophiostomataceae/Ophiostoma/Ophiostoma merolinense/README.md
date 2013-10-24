@@ -1,5 +1,4 @@
-Ophiostoma merolinense (Georgev.) Nannf. SPECIES
-=======
+# Ophiostoma merolinense (Georgev.) Nannf. SPECIES
 
 #### Status
 ACCEPTED

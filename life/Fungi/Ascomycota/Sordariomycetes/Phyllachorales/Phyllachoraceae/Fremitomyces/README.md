@@ -1,5 +1,4 @@
-Fremitomyces P.F. Cannon & H.C. Evans GENUS
-=======
+# Fremitomyces P.F. Cannon & H.C. Evans GENUS
 
 #### Status
 ACCEPTED

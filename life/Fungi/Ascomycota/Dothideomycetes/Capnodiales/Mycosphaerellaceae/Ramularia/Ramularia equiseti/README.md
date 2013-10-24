@@ -1,5 +1,4 @@
-Ramularia equiseti C. Massal. SPECIES
-=======
+# Ramularia equiseti C. Massal. SPECIES
 
 #### Status
 ACCEPTED

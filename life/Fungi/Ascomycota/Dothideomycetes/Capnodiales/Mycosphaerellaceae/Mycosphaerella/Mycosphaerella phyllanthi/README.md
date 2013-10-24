@@ -1,5 +1,4 @@
-Mycosphaerella phyllanthi Dennis SPECIES
-=======
+# Mycosphaerella phyllanthi Dennis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corticium subtestaceum Bourdot SPECIES
-=======
+# Corticium subtestaceum Bourdot SPECIES
 
 #### Status
 ACCEPTED

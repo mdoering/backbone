@@ -1,5 +1,4 @@
-Chardezia Golemansky, 1970 GENUS
-=======
+# Chardezia Golemansky, 1970 GENUS
 
 #### Status
 ACCEPTED

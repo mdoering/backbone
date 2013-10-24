@@ -1,5 +1,4 @@
-Ophiovalsa theae (Hara) Kobayasi SPECIES
-=======
+# Ophiovalsa theae (Hara) Kobayasi SPECIES
 
 #### Status
 ACCEPTED

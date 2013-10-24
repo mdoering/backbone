@@ -1,5 +1,4 @@
-Micropeltella exilis (Schulzer) F. Stevens & Manter SPECIES
-=======
+# Micropeltella exilis (Schulzer) F. Stevens & Manter SPECIES
 
 #### Status
 ACCEPTED

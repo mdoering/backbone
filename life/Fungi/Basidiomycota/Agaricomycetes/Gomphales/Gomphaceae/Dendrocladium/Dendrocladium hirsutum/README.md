@@ -1,5 +1,4 @@
-Dendrocladium hirsutum (Henn.) Lloyd SPECIES
-=======
+# Dendrocladium hirsutum (Henn.) Lloyd SPECIES
 
 #### Status
 ACCEPTED

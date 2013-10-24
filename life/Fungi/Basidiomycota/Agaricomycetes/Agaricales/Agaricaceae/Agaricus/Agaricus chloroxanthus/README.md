@@ -1,5 +1,4 @@
-Agaricus chloroxanthus Pers. SPECIES
-=======
+# Agaricus chloroxanthus Pers. SPECIES
 
 #### Status
 ACCEPTED

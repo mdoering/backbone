@@ -1,8 +1,7 @@
-Discorbina harmeri Heron-Allen & Earland, 1922 SPECIES
-=======
+# Pileolina harmeri (Heron-Allen & Earland, 1922) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

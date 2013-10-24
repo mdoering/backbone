@@ -1,5 +1,4 @@
-Clavaria parasitica var. parasitica VARIETY
-=======
+# Clavaria parasitica Willd. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Fl. Berol. Prodr. 405 (1787)
 
 #### Original name
-Clavaria parasitica var. parasitica
+Clavaria parasitica Willd.
 
 ### Remarks
 null

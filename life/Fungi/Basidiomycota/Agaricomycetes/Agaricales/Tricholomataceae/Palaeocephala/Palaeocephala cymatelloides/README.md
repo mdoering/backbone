@@ -1,14 +1,13 @@
-Marasmius cymatelloides Dennis & D.A. Reid, 1957 SPECIES
-=======
+# Palaeocephala cymatelloides (Dennis & D.A. Reid) Singer, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Kew Bull. 292 (1957)
+Sydowia 15: 60 (1962)
 
 #### Original name
 Marasmius cymatelloides Dennis & D.A. Reid, 1957

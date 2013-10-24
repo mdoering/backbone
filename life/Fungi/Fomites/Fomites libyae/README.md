@@ -1,5 +1,4 @@
-Fomites libyae Locq. & Koeniguer SPECIES
-=======
+# Fomites libyae Locq. & Koeniguer SPECIES
 
 #### Status
 ACCEPTED

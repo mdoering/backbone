@@ -1,14 +1,13 @@
-Merulius fusisporus Romell, 1911 SPECIES
-=======
+# Merulicium fusisporum (Romell) J. Erikss. & Ryvarden, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ark. Bot. , Ser. 2 2(3): 27 (1911)
+Cortic. N. Eur. (Oslo) 4: 861 (1976)
 
 #### Original name
 Merulius fusisporus Romell, 1911

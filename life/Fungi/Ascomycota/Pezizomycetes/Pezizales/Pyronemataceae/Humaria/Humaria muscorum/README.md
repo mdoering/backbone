@@ -1,5 +1,4 @@
-Humaria muscorum (Holmsk.) Sacc. SPECIES
-=======
+# Humaria muscorum (Holmsk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

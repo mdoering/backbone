@@ -1,5 +1,4 @@
-Pyrenophora pileata Volkart SPECIES
-=======
+# Pyrenophora pileata Volkart SPECIES
 
 #### Status
 ACCEPTED

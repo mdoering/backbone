@@ -1,5 +1,4 @@
-Ceratocystis laricina ined. SPECIES
-=======
+# Ceratocystis laricina ined. SPECIES
 
 #### Status
 ACCEPTED

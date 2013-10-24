@@ -1,5 +1,4 @@
-Oudemansiella fraudulenta (Métrod) M.M. Moser SPECIES
-=======
+# Oudemansiella fraudulenta (Métrod) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tripodiscinus Haeckel, 1887 GENUS
-=======
+# Tripodiscinus Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

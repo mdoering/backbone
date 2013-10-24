@@ -1,5 +1,4 @@
-Cortinarius scriptor Kühner SPECIES
-=======
+# Cortinarius scriptor Kühner SPECIES
 
 #### Status
 ACCEPTED

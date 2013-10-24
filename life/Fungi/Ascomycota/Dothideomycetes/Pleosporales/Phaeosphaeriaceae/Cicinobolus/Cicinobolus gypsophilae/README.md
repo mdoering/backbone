@@ -1,8 +1,7 @@
-Cicinnobolus gypsophilae Vasyag. SPECIES
-=======
+# Cicinobolus gypsophilae Vasyag. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cicinnobolus gypsophilae Vasyag.
+Cicinobolus gypsophilae Vasyag.
 
 ### Remarks
 null

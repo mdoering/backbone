@@ -1,5 +1,4 @@
-Naucoria rubicunda Velen. SPECIES
-=======
+# Naucoria rubicunda Velen. SPECIES
 
 #### Status
 ACCEPTED

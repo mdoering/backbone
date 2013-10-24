@@ -1,5 +1,4 @@
-Pittostroma Kowalski & T.N. Sieber GENUS
-=======
+# Pittostroma Kowalski & T.N. Sieber GENUS
 
 #### Status
 ACCEPTED

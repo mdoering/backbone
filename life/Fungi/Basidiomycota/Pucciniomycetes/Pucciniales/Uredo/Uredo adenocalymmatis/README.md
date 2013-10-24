@@ -1,5 +1,4 @@
-Uredo adenocalymmatis Henn. SPECIES
-=======
+# Uredo adenocalymmatis Henn. SPECIES
 
 #### Status
 ACCEPTED

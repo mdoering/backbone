@@ -1,17 +1,16 @@
-Fusarium udum f. sp FORM
-=======
+# Gibberella indica B. Rai & R.S. Upadhyay, 1982 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Booth, The Genus Fusarium 114 (1971)
+Mycologia 74(2): 343 (1982)
 
 #### Original name
-Fusarium udum f. sp
+Gibberella indica B. Rai & R.S. Upadhyay, 1982
 
 ### Remarks
 null

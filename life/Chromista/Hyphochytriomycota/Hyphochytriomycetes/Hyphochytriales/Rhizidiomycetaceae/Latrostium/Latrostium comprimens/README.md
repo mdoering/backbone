@@ -1,5 +1,4 @@
-Latrostium comprimens Zopf, 1894 SPECIES
-=======
+# Latrostium comprimens Zopf, 1894 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria brachyspora Sacc. SPECIES
-=======
+# Septoria brachyspora Sacc. SPECIES
 
 #### Status
 ACCEPTED

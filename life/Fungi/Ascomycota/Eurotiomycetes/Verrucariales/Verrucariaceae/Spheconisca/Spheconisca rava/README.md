@@ -1,5 +1,4 @@
-Spheconisca rava Norman SPECIES
-=======
+# Spheconisca rava Norman SPECIES
 
 #### Status
 ACCEPTED

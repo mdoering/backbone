@@ -1,5 +1,4 @@
-Peziza anthracina Cooke SPECIES
-=======
+# Peziza anthracina Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micropeltidium alchorneae (Hansf.) Bat. SPECIES
-=======
+# Micropeltidium alchorneae (Hansf.) Bat. SPECIES
 
 #### Status
 ACCEPTED

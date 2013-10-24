@@ -1,5 +1,4 @@
-Monostichella indica B. Sutton SPECIES
-=======
+# Monostichella indica B. Sutton SPECIES
 
 #### Status
 ACCEPTED

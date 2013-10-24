@@ -1,5 +1,4 @@
-Microthyrium browneanum Sacc. SPECIES
-=======
+# Microthyrium browneanum Sacc. SPECIES
 
 #### Status
 ACCEPTED

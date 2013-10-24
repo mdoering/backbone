@@ -1,5 +1,4 @@
-Protoperidinium remotum (Karsten) Balech, 1974 SPECIES
-=======
+# Protoperidinium remotum (Karsten) Balech, 1974 SPECIES
 
 #### Status
 ACCEPTED

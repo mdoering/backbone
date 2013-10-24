@@ -1,5 +1,4 @@
-Rosellinia bakeriana Sacc. SPECIES
-=======
+# Rosellinia bakeriana Sacc. SPECIES
 
 #### Status
 ACCEPTED

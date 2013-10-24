@@ -1,5 +1,4 @@
-Aecidium auriculae Magnus SPECIES
-=======
+# Aecidium auriculae Magnus SPECIES
 
 #### Status
 ACCEPTED

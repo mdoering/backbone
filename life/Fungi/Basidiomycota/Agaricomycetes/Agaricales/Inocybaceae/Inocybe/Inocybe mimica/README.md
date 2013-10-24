@@ -1,5 +1,4 @@
-Inocybe mimica Massee, 1904 SPECIES
-=======
+# Inocybe mimica Massee, 1904 SPECIES
 
 #### Status
 ACCEPTED

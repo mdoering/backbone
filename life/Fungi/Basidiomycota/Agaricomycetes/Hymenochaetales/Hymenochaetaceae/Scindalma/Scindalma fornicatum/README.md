@@ -1,5 +1,4 @@
-Scindalma fornicatum (Fr.) Kuntze SPECIES
-=======
+# Scindalma fornicatum (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

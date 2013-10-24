@@ -1,5 +1,4 @@
-Gnomoniella dimorphospora A.I. Romero & Samuels SPECIES
-=======
+# Gnomoniella dimorphospora A.I. Romero & Samuels SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dactylaria palmae Pinnoi, E.B.G. Jones, McKenzie & K.D. Hyde SPECIES
-=======
+# Dactylaria palmae Pinnoi, E.B.G. Jones, McKenzie & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

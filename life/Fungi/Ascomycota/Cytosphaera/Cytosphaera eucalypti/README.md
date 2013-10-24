@@ -1,5 +1,4 @@
-Cytosphaera eucalypti N.D. Sharma SPECIES
-=======
+# Cytosphaera eucalypti N.D. Sharma SPECIES
 
 #### Status
 ACCEPTED

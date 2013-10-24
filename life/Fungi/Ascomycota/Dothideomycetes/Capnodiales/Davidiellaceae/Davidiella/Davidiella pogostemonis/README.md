@@ -1,5 +1,4 @@
-Davidiella pogostemonis (Khokhr.) Aptroot, 2006 SPECIES
-=======
+# Davidiella pogostemonis (Khokhr.) Aptroot, 2006 SPECIES
 
 #### Status
 ACCEPTED

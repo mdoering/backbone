@@ -1,5 +1,4 @@
-Inocybe cryptocystis D.E. Stuntz, 1954 SPECIES
-=======
+# Inocybe cryptocystis D.E. Stuntz, 1954 SPECIES
 
 #### Status
 ACCEPTED

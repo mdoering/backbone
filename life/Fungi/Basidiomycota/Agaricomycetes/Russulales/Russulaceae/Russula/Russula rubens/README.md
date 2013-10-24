@@ -1,5 +1,4 @@
-Russula rubens R. Heim, 1938 SPECIES
-=======
+# Russula rubens R. Heim, 1938 SPECIES
 
 #### Status
 ACCEPTED

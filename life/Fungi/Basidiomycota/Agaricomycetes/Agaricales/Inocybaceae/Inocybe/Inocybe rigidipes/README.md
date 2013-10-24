@@ -1,5 +1,4 @@
-Inocybe rigidipes Peck SPECIES
-=======
+# Inocybe rigidipes Peck SPECIES
 
 #### Status
 ACCEPTED

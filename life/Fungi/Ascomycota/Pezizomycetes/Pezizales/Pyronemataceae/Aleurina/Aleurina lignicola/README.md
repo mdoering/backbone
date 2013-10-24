@@ -1,5 +1,4 @@
-Aleurina lignicola (Rostr.) Sacc. & P. Syd. SPECIES
-=======
+# Aleurina lignicola (Rostr.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

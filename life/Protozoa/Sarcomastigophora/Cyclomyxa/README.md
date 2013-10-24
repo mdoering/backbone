@@ -1,5 +1,4 @@
-Cyclomyxa Cruraeyrolles, 1967 GENUS
-=======
+# Cyclomyxa Cruraeyrolles, 1967 GENUS
 
 #### Status
 ACCEPTED

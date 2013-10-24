@@ -1,5 +1,4 @@
-Bacillus atrophaeus Nakamura, 1989 SPECIES
-=======
+# Bacillus atrophaeus Nakamura, 1989 SPECIES
 
 #### Status
 ACCEPTED

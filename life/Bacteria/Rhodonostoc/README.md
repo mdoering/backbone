@@ -1,5 +1,4 @@
-Rhodonostoc GENUS
-=======
+# Rhodonostoc GENUS
 
 #### Status
 ACCEPTED

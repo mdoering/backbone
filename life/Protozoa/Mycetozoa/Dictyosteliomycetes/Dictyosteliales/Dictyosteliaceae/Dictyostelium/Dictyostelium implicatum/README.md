@@ -1,5 +1,4 @@
-Dictyostelium implicatum H. Hagiw., 1984 SPECIES
-=======
+# Dictyostelium implicatum H. Hagiw., 1984 SPECIES
 
 #### Status
 ACCEPTED

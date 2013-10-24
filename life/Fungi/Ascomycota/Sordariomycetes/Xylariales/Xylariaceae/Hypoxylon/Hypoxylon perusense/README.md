@@ -1,5 +1,4 @@
-Hypoxylon perusense (Henn.) P.M.D. Martin SPECIES
-=======
+# Hypoxylon perusense (Henn.) P.M.D. Martin SPECIES
 
 #### Status
 ACCEPTED

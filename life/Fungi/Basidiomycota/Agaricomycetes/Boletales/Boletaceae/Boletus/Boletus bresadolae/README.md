@@ -1,5 +1,4 @@
-Boletus bresadolae Schulzer SPECIES
-=======
+# Boletus bresadolae Schulzer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gibberella gaditjirri Phan, L.W. Burgess & Summerell SPECIES
-=======
+# Gibberella gaditjirri Phan, L.W. Burgess & Summerell SPECIES
 
 #### Status
 ACCEPTED

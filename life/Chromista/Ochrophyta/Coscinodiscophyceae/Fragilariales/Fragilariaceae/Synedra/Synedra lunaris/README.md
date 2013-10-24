@@ -1,5 +1,4 @@
-Synedra lunaris var. capitata Grunow VARIETY
-=======
+# Synedra lunaris Ehrenberg SPECIES
 
 #### Status
 ACCEPTED

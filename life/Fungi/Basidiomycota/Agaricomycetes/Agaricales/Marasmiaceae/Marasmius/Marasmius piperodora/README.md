@@ -1,5 +1,4 @@
-Marasmius piperodora Beeli SPECIES
-=======
+# Marasmius piperodora Beeli SPECIES
 
 #### Status
 ACCEPTED

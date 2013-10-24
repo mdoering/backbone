@@ -1,5 +1,4 @@
-Septonema intercalare E.K. Cash & A.M.J. Watson SPECIES
-=======
+# Septonema intercalare E.K. Cash & A.M.J. Watson SPECIES
 
 #### Status
 ACCEPTED

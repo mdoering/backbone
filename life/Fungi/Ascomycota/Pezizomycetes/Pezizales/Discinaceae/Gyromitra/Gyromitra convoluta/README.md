@@ -1,5 +1,4 @@
-Gyromitra convoluta (Seaver) Van Vooren SPECIES
-=======
+# Gyromitra convoluta (Seaver) Van Vooren SPECIES
 
 #### Status
 ACCEPTED

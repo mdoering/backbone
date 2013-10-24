@@ -1,5 +1,4 @@
-Porphyrobacter neustonensis Fuerst et al., 1993 SPECIES
-=======
+# Porphyrobacter neustonensis Fuerst et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

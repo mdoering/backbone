@@ -1,5 +1,4 @@
-Neoarcangelia citrophthora Naumov SPECIES
-=======
+# Neoarcangelia citrophthora Naumov SPECIES
 
 #### Status
 ACCEPTED

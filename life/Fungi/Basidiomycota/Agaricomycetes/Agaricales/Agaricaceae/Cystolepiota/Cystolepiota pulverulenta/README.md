@@ -1,17 +1,16 @@
-Leucoagaricus pulverulentus var. pulverulentus VARIETY
-=======
+# Cystolepiota pulverulenta (Huijsman) Vellinga, 1992 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Docums Mycol. 8(nos 30-31): 70 (1978)
+Persoonia 14(4): 407 (1992)
 
 #### Original name
-Leucoagaricus pulverulentus var. pulverulentus
+Lepiota pulverulenta Huijsman, 1960
 
 ### Remarks
 null

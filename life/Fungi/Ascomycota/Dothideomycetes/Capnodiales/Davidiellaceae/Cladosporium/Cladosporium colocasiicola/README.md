@@ -1,5 +1,4 @@
-Cladosporium colocasiicola Sawada, 1959 SPECIES
-=======
+# Cladosporium colocasiicola Sawada, 1959 SPECIES
 
 #### Status
 ACCEPTED

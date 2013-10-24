@@ -1,5 +1,4 @@
-Sphaeria cannabis Schwein. SPECIES
-=======
+# Sphaeria cannabis Schwein. SPECIES
 
 #### Status
 ACCEPTED

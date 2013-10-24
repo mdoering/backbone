@@ -1,5 +1,4 @@
-Cordana andinopatagonica Gamundí & Aramb. SPECIES
-=======
+# Cordana andinopatagonica Gamundí & Aramb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporonema oxycocci Shear SPECIES
-=======
+# Sporonema oxycocci Shear SPECIES
 
 #### Status
 ACCEPTED

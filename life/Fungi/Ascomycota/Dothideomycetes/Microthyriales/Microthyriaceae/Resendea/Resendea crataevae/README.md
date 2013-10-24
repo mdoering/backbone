@@ -1,5 +1,4 @@
-Resendea crataevae Bat. SPECIES
-=======
+# Resendea crataevae Bat. SPECIES
 
 #### Status
 ACCEPTED

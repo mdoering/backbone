@@ -1,5 +1,4 @@
-Lecanora basaltica Lynge SPECIES
-=======
+# Lecanora basaltica Lynge SPECIES
 
 #### Status
 ACCEPTED

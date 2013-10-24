@@ -1,5 +1,4 @@
-Micrhystridium verber Colbath, 1979 SPECIES
-=======
+# Micrhystridium verber Colbath, 1979 SPECIES
 
 #### Status
 ACCEPTED

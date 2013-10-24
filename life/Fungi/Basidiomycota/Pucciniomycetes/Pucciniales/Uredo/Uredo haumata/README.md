@@ -1,5 +1,4 @@
-Uredo haumata G. Cunn. SPECIES
-=======
+# Uredo haumata G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

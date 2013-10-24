@@ -1,5 +1,4 @@
-Kirramyces caffer Matsush. SPECIES
-=======
+# Kirramyces caffer Matsush. SPECIES
 
 #### Status
 ACCEPTED

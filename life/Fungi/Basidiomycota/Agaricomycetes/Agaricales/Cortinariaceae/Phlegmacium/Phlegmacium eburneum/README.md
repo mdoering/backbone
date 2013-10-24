@@ -1,5 +1,4 @@
-Phlegmacium eburneum Velen. SPECIES
-=======
+# Phlegmacium eburneum Velen. SPECIES
 
 #### Status
 ACCEPTED

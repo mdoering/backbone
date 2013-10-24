@@ -1,5 +1,4 @@
-Tricholoma malodorum (Murrill) Murrill SPECIES
-=======
+# Tricholoma malodorum (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

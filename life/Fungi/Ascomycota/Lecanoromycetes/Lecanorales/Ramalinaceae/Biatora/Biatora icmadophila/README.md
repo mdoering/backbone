@@ -1,17 +1,16 @@
-Biatora icmadophila var. icmadophila VARIETY
-=======
+# Biatora icmadophila SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
 null
 
 #### Original name
-Biatora icmadophila var. icmadophila
+null
 
 ### Remarks
 null

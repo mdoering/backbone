@@ -1,5 +1,4 @@
-Lecanorella sophodopsis (Nyl.) Motyka SPECIES
-=======
+# Lecanorella sophodopsis (Nyl.) Motyka SPECIES
 
 #### Status
 ACCEPTED

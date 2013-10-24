@@ -1,5 +1,4 @@
-Dicaeoma ortonii (H.S. Jacks.) Arthur SPECIES
-=======
+# Dicaeoma ortonii (H.S. Jacks.) Arthur SPECIES
 
 #### Status
 ACCEPTED

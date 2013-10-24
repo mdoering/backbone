@@ -1,5 +1,4 @@
-Isaria plumosa Cooke SPECIES
-=======
+# Isaria plumosa Cooke SPECIES
 
 #### Status
 ACCEPTED

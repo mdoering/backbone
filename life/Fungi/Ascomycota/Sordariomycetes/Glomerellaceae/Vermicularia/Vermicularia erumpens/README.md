@@ -1,5 +1,4 @@
-Vermicularia erumpens Sacc. SPECIES
-=======
+# Vermicularia erumpens Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepiota missionis var. missionis VARIETY
-=======
+# Lepiota missionis Berk. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lepiota missionis var. missionis
+Lepiota missionis Berk.
 
 ### Remarks
 null

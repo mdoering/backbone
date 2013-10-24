@@ -1,5 +1,4 @@
-Tubercularia geranii Cooke & Harkn. SPECIES
-=======
+# Tubercularia geranii Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

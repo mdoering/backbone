@@ -1,5 +1,4 @@
-Quinqueloculina lamarckiana SPECIES
-=======
+# Quinqueloculina lamarckiana SPECIES
 
 #### Status
 ACCEPTED

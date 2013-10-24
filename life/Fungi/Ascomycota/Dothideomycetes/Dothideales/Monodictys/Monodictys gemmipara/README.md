@@ -1,5 +1,4 @@
-Monodictys gemmipara V. Rao & de Hoog SPECIES
-=======
+# Monodictys gemmipara V. Rao & de Hoog SPECIES
 
 #### Status
 ACCEPTED

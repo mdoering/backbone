@@ -1,5 +1,4 @@
-Dimerosporium apertum Syd. {?} SPECIES
-=======
+# Dimerosporium apertum Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

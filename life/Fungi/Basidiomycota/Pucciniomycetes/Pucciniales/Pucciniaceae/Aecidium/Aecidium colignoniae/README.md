@@ -1,5 +1,4 @@
-Aecidium colignoniae Henn. SPECIES
-=======
+# Aecidium colignoniae Henn. SPECIES
 
 #### Status
 ACCEPTED

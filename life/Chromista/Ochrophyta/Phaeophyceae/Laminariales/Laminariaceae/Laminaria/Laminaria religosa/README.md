@@ -1,5 +1,4 @@
-Laminaria religosa Miyabe SPECIES
-=======
+# Laminaria religosa Miyabe SPECIES
 
 #### Status
 ACCEPTED

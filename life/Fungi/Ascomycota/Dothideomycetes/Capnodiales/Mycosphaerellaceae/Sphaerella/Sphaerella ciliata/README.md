@@ -1,5 +1,4 @@
-Sphaerella ciliata Ellis & Everh. SPECIES
-=======
+# Sphaerella ciliata Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

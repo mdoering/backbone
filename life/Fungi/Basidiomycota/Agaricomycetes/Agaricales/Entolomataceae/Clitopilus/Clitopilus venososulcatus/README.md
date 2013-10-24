@@ -1,5 +1,4 @@
-Clitopilus venososulcatus Singer SPECIES
-=======
+# Clitopilus venososulcatus Singer SPECIES
 
 #### Status
 ACCEPTED

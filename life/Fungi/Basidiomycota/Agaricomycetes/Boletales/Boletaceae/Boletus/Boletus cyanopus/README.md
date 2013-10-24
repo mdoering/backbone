@@ -1,5 +1,4 @@
-Boletus cyanopus Pat. & C.F. Baker SPECIES
-=======
+# Boletus cyanopus Pat. & C.F. Baker SPECIES
 
 #### Status
 ACCEPTED

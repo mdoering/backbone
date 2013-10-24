@@ -1,5 +1,4 @@
-Brachybacterium paraconglomeratum Takeuchi et al., 1995 SPECIES
-=======
+# Brachybacterium paraconglomeratum Takeuchi et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

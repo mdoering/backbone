@@ -1,5 +1,4 @@
-Skirgiellia allomycis (F.K. Faust) A. Batko SPECIES
-=======
+# Skirgiellia allomycis (F.K. Faust) A. Batko SPECIES
 
 #### Status
 ACCEPTED

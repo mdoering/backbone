@@ -1,5 +1,4 @@
-Tripoclyclia GENUS
-=======
+# Tripoclyclia GENUS
 
 #### Status
 ACCEPTED

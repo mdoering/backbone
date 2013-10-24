@@ -1,5 +1,4 @@
-Arthonia verrucarioides Ach. SPECIES
-=======
+# Arthonia verrucarioides Ach. SPECIES
 
 #### Status
 ACCEPTED

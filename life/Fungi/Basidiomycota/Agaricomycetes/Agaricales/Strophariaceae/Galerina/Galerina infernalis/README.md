@@ -1,5 +1,4 @@
-Galerina infernalis Singer SPECIES
-=======
+# Galerina infernalis Singer SPECIES
 
 #### Status
 ACCEPTED

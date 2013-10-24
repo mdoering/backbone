@@ -1,5 +1,4 @@
-Metopus darwini Kahl, 1927 SPECIES
-=======
+# Metopus darwini Kahl, 1927 SPECIES
 
 #### Status
 ACCEPTED

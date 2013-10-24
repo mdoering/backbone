@@ -1,5 +1,4 @@
-Lecidea ocellata subsp. ocellata SUBSPECIES
-=======
+# Lecidea ocellata SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea ocellata subsp. ocellata
+null
 
 ### Remarks
 null

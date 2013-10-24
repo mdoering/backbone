@@ -1,5 +1,4 @@
-Ocellularia depressa Müll. Arg. SPECIES
-=======
+# Ocellularia depressa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stysanus macrocarpus P. Karst. SPECIES
-=======
+# Stysanus macrocarpus P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pluteus yungensis Singer SPECIES
-=======
+# Pluteus yungensis Singer SPECIES
 
 #### Status
 ACCEPTED

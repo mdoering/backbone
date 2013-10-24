@@ -1,5 +1,4 @@
-Agaricus spongodes Berk. & Broome SPECIES
-=======
+# Agaricus spongodes Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

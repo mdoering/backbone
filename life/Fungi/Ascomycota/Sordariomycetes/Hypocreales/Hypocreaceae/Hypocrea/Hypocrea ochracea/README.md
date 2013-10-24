@@ -1,5 +1,4 @@
-Hypocrea ochracea Pat. SPECIES
-=======
+# Hypocrea ochracea Pat. SPECIES
 
 #### Status
 ACCEPTED

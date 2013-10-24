@@ -1,5 +1,4 @@
-Hapalophragmium kawakamii Hirats. f. & Hashioka, 1935 SPECIES
-=======
+# Hapalophragmium kawakamii Hirats. f. & Hashioka, 1935 SPECIES
 
 #### Status
 ACCEPTED

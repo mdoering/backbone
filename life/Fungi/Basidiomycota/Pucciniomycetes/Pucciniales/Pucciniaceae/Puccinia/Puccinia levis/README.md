@@ -1,17 +1,16 @@
-Puccinia levis subsp. levis SUBSPECIES
-=======
+# Puccinia levis (Sacc. & Bizz.) Magnus SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Ber. dt. bot. Ges. 9: 190 (1891)
 
 #### Original name
-null
+Diorchidium laeve Sacc. & Bizz.
 
 ### Remarks
 null

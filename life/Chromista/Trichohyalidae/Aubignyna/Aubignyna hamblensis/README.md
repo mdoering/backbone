@@ -1,5 +1,4 @@
-Aubignyna hamblensis Murray, Whittaker & Alve, 2000 SPECIES
-=======
+# Aubignyna hamblensis Murray, Whittaker & Alve, 2000 SPECIES
 
 #### Status
 ACCEPTED

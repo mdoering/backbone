@@ -1,8 +1,7 @@
-Porospora petiti Théodoridès, 1962 SPECIES
-=======
+# Nematopsis petiti (Théodoridès, 1962) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

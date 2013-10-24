@@ -1,5 +1,4 @@
-Orygmatosphaeridium ruminatum Timofeev, 1959 SPECIES
-=======
+# Orygmatosphaeridium ruminatum Timofeev, 1959 SPECIES
 
 #### Status
 ACCEPTED

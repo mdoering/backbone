@@ -1,5 +1,4 @@
-Aleuria labessiana Boud. SPECIES
-=======
+# Aleuria labessiana Boud. SPECIES
 
 #### Status
 ACCEPTED

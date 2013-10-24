@@ -1,5 +1,4 @@
-Ozonium texanum Neal & R.E. Webster SPECIES
-=======
+# Ozonium texanum Neal & R.E. Webster SPECIES
 
 #### Status
 ACCEPTED

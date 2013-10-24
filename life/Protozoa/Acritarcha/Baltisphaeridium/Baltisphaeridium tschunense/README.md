@@ -1,5 +1,4 @@
-Baltisphaeridium tschunense (Timofeev, 1962) Downie & Sarjeant, 1965 SPECIES
-=======
+# Baltisphaeridium tschunense (Timofeev, 1962) Downie & Sarjeant, 1965 SPECIES
 
 #### Status
 ACCEPTED

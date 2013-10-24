@@ -1,5 +1,4 @@
-Phaeographis imparilis (Kremp.) Müll. Arg. SPECIES
-=======
+# Phaeographis imparilis (Kremp.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

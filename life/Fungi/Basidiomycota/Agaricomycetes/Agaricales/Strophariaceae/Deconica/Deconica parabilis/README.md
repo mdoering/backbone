@@ -1,5 +1,4 @@
-Deconica parabilis Britzelm. SPECIES
-=======
+# Deconica parabilis Britzelm. SPECIES
 
 #### Status
 ACCEPTED

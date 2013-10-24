@@ -1,5 +1,4 @@
-Lalaria farlowii R.T. Moore SPECIES
-=======
+# Lalaria farlowii R.T. Moore SPECIES
 
 #### Status
 ACCEPTED

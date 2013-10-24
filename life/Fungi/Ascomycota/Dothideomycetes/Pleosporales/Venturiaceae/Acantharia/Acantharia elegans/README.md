@@ -1,5 +1,4 @@
-Acantharia elegans (Syd. & P. Syd.) Arx, 1954 SPECIES
-=======
+# Acantharia elegans (Syd. & P. Syd.) Arx, 1954 SPECIES
 
 #### Status
 ACCEPTED

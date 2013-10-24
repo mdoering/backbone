@@ -1,8 +1,7 @@
-Hypocoma patellarum Lichtenstein, 1921 SPECIES
-=======
+# Hypocomina patellarum (Lichtenstein, 1921) Chatton & Lwoff, 1924 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

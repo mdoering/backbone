@@ -1,5 +1,4 @@
-Codosiga botrytis (Ehrenberg) Kent SPECIES
-=======
+# Codosiga botrytis (Ehrenberg) Kent SPECIES
 
 #### Status
 ACCEPTED

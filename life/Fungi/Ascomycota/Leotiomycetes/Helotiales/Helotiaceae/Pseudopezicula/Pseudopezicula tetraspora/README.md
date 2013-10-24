@@ -1,5 +1,4 @@
-Pseudopezicula tetraspora Korf, R.C. Pearson & W.Y. Zhuang, 1986 SPECIES
-=======
+# Pseudopezicula tetraspora Korf, R.C. Pearson & W.Y. Zhuang, 1986 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloebotrydaceae FAMILY
-=======
+# Gloebotrydaceae FAMILY
 
 #### Status
 ACCEPTED

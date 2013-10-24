@@ -1,5 +1,4 @@
-Diplochytrium luxurians Tomaschek SPECIES
-=======
+# Diplochytrium luxurians Tomaschek SPECIES
 
 #### Status
 ACCEPTED

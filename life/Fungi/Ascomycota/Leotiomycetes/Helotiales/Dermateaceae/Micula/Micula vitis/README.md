@@ -1,5 +1,4 @@
-Micula vitis Prots. SPECIES
-=======
+# Micula vitis Prots. SPECIES
 
 #### Status
 ACCEPTED

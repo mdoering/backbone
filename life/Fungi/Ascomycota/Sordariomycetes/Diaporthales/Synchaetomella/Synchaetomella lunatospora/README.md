@@ -1,5 +1,4 @@
-Synchaetomella lunatospora Decock, G. Delgado & Seifert, 2005 SPECIES
-=======
+# Synchaetomella lunatospora Decock, G. Delgado & Seifert, 2005 SPECIES
 
 #### Status
 ACCEPTED

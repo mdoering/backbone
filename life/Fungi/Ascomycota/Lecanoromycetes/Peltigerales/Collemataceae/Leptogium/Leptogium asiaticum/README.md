@@ -1,5 +1,4 @@
-Leptogium asiaticum P. M. Jørg. SPECIES
-=======
+# Leptogium asiaticum P. M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

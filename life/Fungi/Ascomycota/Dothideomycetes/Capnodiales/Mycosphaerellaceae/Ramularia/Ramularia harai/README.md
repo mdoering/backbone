@@ -1,5 +1,4 @@
-Ramularia harai Henn. SPECIES
-=======
+# Ramularia harai Henn. SPECIES
 
 #### Status
 ACCEPTED

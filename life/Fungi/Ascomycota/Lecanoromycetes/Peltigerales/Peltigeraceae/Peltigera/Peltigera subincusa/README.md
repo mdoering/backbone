@@ -1,5 +1,4 @@
-Peltigera subincusa (Gyeln.) Inumaru SPECIES
-=======
+# Peltigera subincusa (Gyeln.) Inumaru SPECIES
 
 #### Status
 ACCEPTED

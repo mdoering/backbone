@@ -1,5 +1,4 @@
-Buellia lyperiza (Stirt.) A.L. Sm. SPECIES
-=======
+# Buellia lyperiza (Stirt.) A.L. Sm. SPECIES
 
 #### Status
 ACCEPTED

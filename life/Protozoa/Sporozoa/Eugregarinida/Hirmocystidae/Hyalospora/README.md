@@ -1,5 +1,4 @@
-Hyalospora Schneider, 1875 GENUS
-=======
+# Hyalospora Schneider, 1875 GENUS
 
 #### Status
 ACCEPTED

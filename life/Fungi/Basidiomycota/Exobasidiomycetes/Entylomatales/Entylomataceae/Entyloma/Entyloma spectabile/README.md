@@ -1,5 +1,4 @@
-Entyloma spectabile P. Karst. SPECIES
-=======
+# Entyloma spectabile P. Karst. SPECIES
 
 #### Status
 ACCEPTED

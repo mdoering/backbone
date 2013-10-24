@@ -1,14 +1,13 @@
-Helminthocarpon pervarians var. macgregorii Vain. VARIETY
-=======
+# Diorygma macgregorii (Vain.) Kalb, Staiger & Elix SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Symb. bot. upsal. 34(1): 159 (2004)
 
 #### Original name
 Helminthocarpon pervarians var. macgregorii Vain.

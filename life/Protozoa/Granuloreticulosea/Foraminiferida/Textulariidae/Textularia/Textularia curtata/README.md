@@ -1,5 +1,4 @@
-Textularia curtata Zheng, 1988 SPECIES
-=======
+# Textularia curtata Zheng, 1988 SPECIES
 
 #### Status
 ACCEPTED

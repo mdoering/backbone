@@ -1,8 +1,7 @@
-Protoperidinium quinquecorne (Abé) Balech, 1974 SPECIES
-=======
+# Peridinium quinquecorne Abé, 1927 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Integrated Taxonomic Information System

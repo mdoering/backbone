@@ -1,5 +1,4 @@
-Laboulbenia asiatica Thaxt. SPECIES
-=======
+# Laboulbenia asiatica Thaxt. SPECIES
 
 #### Status
 ACCEPTED

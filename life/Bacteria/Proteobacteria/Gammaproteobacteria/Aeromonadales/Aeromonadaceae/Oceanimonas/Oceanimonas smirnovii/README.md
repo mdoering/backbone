@@ -1,5 +1,4 @@
-Oceanimonas smirnovii Ivanova et al., 2005 SPECIES
-=======
+# Oceanimonas smirnovii Ivanova et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gonohymenia terrestris Makryi SPECIES
-=======
+# Gonohymenia terrestris Makryi SPECIES
 
 #### Status
 ACCEPTED

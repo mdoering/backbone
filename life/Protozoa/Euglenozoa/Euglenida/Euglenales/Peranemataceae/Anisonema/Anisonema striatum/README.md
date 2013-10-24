@@ -1,5 +1,4 @@
-Anisonema striatum Klebs SPECIES
-=======
+# Anisonema striatum Klebs SPECIES
 
 #### Status
 ACCEPTED

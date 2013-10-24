@@ -1,5 +1,4 @@
-Septoria rhodotypi Hollós SPECIES
-=======
+# Septoria rhodotypi Hollós SPECIES
 
 #### Status
 ACCEPTED

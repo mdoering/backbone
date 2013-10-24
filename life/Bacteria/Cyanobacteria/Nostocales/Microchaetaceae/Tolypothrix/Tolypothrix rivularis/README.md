@@ -1,5 +1,4 @@
-Tolypothrix rivularis Hansgirg SPECIES
-=======
+# Tolypothrix rivularis Hansgirg SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophodermium pini-sibiricae C.L. Hou & S.Q. Liu SPECIES
-=======
+# Lophodermium pini-sibiricae C.L. Hou & S.Q. Liu SPECIES
 
 #### Status
 ACCEPTED

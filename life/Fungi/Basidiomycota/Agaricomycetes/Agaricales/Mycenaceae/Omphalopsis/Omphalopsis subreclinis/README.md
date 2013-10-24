@@ -1,5 +1,4 @@
-Omphalopsis subreclinis Murrill SPECIES
-=======
+# Omphalopsis subreclinis Murrill SPECIES
 
 #### Status
 ACCEPTED

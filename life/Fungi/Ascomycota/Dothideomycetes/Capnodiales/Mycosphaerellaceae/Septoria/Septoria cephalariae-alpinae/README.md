@@ -1,5 +1,4 @@
-Septoria cephalariae-alpinae Roum. SPECIES
-=======
+# Septoria cephalariae-alpinae Roum. SPECIES
 
 #### Status
 ACCEPTED

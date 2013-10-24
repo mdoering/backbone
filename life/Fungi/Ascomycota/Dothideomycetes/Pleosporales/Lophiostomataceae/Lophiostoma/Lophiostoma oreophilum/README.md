@@ -1,5 +1,4 @@
-Lophiostoma oreophilum Speg. SPECIES
-=======
+# Lophiostoma oreophilum Speg. SPECIES
 
 #### Status
 ACCEPTED

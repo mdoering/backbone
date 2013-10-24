@@ -1,5 +1,4 @@
-Myxormia indica Morgan-Jones & Ponnappa SPECIES
-=======
+# Myxormia indica Morgan-Jones & Ponnappa SPECIES
 
 #### Status
 ACCEPTED

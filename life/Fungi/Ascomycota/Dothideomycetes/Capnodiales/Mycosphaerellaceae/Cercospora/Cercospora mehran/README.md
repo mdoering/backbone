@@ -1,5 +1,4 @@
-Cercospora mehran S.A. Khan & M. Kamal SPECIES
-=======
+# Cercospora mehran S.A. Khan & M. Kamal SPECIES
 
 #### Status
 ACCEPTED

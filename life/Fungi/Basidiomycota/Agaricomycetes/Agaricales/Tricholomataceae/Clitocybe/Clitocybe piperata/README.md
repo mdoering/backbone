@@ -1,5 +1,4 @@
-Clitocybe piperata A.H. Sm. SPECIES
-=======
+# Clitocybe piperata A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

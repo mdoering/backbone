@@ -1,5 +1,4 @@
-Hendersonia daphniphylli Dzhalag. SPECIES
-=======
+# Hendersonia daphniphylli Dzhalag. SPECIES
 
 #### Status
 ACCEPTED

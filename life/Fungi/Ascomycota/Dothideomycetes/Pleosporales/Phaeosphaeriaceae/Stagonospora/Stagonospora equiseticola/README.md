@@ -1,5 +1,4 @@
-Stagonospora equiseticola Hollós SPECIES
-=======
+# Stagonospora equiseticola Hollós SPECIES
 
 #### Status
 ACCEPTED

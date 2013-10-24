@@ -1,5 +1,4 @@
-Agaricus leveillianus Dozy & Molk. SPECIES
-=======
+# Agaricus leveillianus Dozy & Molk. SPECIES
 
 #### Status
 ACCEPTED

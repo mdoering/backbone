@@ -1,5 +1,4 @@
-Graddonidiscus Raitv. & R. Galán GENUS
-=======
+# Graddonidiscus Raitv. & R. Galán GENUS
 
 #### Status
 ACCEPTED

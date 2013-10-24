@@ -1,5 +1,4 @@
-Lophiostoma excipuliforme var. excipuliforme VARIETY
-=======
+# Navicella pileata (Tode) Fabre SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Schem. di Classif. Sferiacei 45 (1863)
+Annls Sci. Nat. , Bot. , sér. 6 9: (1879)
 
 #### Original name
-Lophiostoma excipuliforme var. excipuliforme
+Sphaeria pileata Tode
 
 ### Remarks
 null

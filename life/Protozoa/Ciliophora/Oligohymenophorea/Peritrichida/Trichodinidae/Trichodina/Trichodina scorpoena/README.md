@@ -1,5 +1,4 @@
-Trichodina scorpoena SPECIES
-=======
+# Trichodina scorpoena SPECIES
 
 #### Status
 ACCEPTED

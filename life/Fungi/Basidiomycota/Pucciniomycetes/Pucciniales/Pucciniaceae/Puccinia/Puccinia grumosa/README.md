@@ -1,5 +1,4 @@
-Puccinia grumosa P. Syd., Syd. & Holw. SPECIES
-=======
+# Puccinia grumosa P. Syd., Syd. & Holw. SPECIES
 
 #### Status
 ACCEPTED

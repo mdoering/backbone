@@ -1,5 +1,4 @@
-Septoria alnifolia Ellis & Everh. SPECIES
-=======
+# Septoria alnifolia Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

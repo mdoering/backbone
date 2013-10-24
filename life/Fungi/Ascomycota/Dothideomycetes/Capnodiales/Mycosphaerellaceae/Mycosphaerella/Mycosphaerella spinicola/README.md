@@ -1,5 +1,4 @@
-Mycosphaerella spinicola (Pass.) Tomilin SPECIES
-=======
+# Mycosphaerella spinicola (Pass.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Balsamia fagiformis Tul. SPECIES
-=======
+# Balsamia fagiformis Tul. SPECIES
 
 #### Status
 ACCEPTED

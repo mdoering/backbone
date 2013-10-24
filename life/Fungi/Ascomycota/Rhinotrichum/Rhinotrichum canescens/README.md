@@ -1,5 +1,4 @@
-Rhinotrichum canescens var. canescens VARIETY
-=======
+# Rhinotrichum canescens (Speg.) Speg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Anal. Soc. cient. argent. 22: 207 (1886)
 
 #### Original name
-Rhinotrichum canescens var. canescens
+Sporotrichum canescens Pers.
 
 ### Remarks
 null

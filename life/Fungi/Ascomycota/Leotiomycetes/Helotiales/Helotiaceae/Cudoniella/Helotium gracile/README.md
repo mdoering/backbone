@@ -1,5 +1,4 @@
-Helotium gracile Cooke & Peck SPECIES
-=======
+# Helotium gracile Cooke & Peck SPECIES
 
 #### Status
 ACCEPTED

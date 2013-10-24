@@ -1,17 +1,16 @@
-Arcyriidae FAMILY
-=======
+# Arcyriaceae Rostaf. ex Cooke FAMILY
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Contr. Mycol. Brit. 69 (1877)
 
 #### Original name
-null
+Arcyriaceae Rostaf. ex Cooke
 
 ### Remarks
 null

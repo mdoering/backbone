@@ -1,5 +1,4 @@
-Clostridium scindens Morris et al., 1985 SPECIES
-=======
+# Clostridium scindens Morris et al., 1985 SPECIES
 
 #### Status
 ACCEPTED

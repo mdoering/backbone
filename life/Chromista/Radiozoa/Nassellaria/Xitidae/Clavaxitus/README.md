@@ -1,5 +1,4 @@
-Clavaxitus Dumitrica in Dumitrica, Immenhauser & Dumitrica-Jud, 1997 GENUS
-=======
+# Clavaxitus Dumitrica in Dumitrica, Immenhauser & Dumitrica-Jud, 1997 GENUS
 
 #### Status
 ACCEPTED

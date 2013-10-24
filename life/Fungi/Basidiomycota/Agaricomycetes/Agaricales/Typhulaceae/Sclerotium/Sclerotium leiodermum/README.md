@@ -1,8 +1,7 @@
-Sclerotium lejodermum Roberge SPECIES
-=======
+# Sclerotium leiodermum Roberge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sclerotium lejodermum Roberge
+Sclerotium leiodermum Roberge
 
 ### Remarks
 null

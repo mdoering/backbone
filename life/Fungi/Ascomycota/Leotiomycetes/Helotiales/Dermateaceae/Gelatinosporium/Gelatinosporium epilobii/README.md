@@ -1,5 +1,4 @@
-Gelatinosporium epilobii Lagerh. SPECIES
-=======
+# Gelatinosporium epilobii Lagerh. SPECIES
 
 #### Status
 ACCEPTED

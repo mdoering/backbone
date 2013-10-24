@@ -1,5 +1,4 @@
-Polystomella umbilicatula Williamson, 1858 SPECIES
-=======
+# Polystomella umbilicatula Williamson, 1858 SPECIES
 
 #### Status
 ACCEPTED

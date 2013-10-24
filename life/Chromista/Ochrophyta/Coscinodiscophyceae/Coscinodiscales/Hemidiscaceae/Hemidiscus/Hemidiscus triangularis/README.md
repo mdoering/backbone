@@ -1,5 +1,4 @@
-Hemidiscus triangularis D.M. Harwood & T. Maruyama SPECIES
-=======
+# Hemidiscus triangularis D.M. Harwood & T. Maruyama SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paramecium jankowskii Dragesco, 1972 SPECIES
-=======
+# Paramecium jankowskii Dragesco, 1972 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dipodascus australiensis Arx & J.S.F. Barker, 1978 SPECIES
-=======
+# Dipodascus australiensis Arx & J.S.F. Barker, 1978 SPECIES
 
 #### Status
 ACCEPTED

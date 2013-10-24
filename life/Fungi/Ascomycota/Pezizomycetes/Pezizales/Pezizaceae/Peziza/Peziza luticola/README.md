@@ -1,5 +1,4 @@
-Peziza luticola Donadini SPECIES
-=======
+# Peziza luticola Donadini SPECIES
 
 #### Status
 ACCEPTED

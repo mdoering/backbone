@@ -1,5 +1,4 @@
-Hystrichosphaeridium siphoniphorum Cookson & Eisenack SPECIES
-=======
+# Hystrichosphaeridium siphoniphorum Cookson & Eisenack SPECIES
 
 #### Status
 ACCEPTED

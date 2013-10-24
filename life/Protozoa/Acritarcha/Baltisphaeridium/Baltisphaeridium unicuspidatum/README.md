@@ -1,5 +1,4 @@
-Baltisphaeridium unicuspidatum Timofeev in Timofeev et al., 1976 SPECIES
-=======
+# Baltisphaeridium unicuspidatum Timofeev in Timofeev et al., 1976 SPECIES
 
 #### Status
 ACCEPTED

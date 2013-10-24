@@ -1,5 +1,4 @@
-Phaeographis fractuosum (Leight.) Patw. & Makhija SPECIES
-=======
+# Phaeographis fractuosum (Leight.) Patw. & Makhija SPECIES
 
 #### Status
 ACCEPTED

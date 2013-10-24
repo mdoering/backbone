@@ -1,5 +1,4 @@
-Amphoridium saprophilum A. Massal. SPECIES
-=======
+# Amphoridium saprophilum A. Massal. SPECIES
 
 #### Status
 ACCEPTED

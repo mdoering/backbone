@@ -1,5 +1,4 @@
-Gnomonia vallesiaca M. Monod SPECIES
-=======
+# Gnomonia vallesiaca M. Monod SPECIES
 
 #### Status
 ACCEPTED

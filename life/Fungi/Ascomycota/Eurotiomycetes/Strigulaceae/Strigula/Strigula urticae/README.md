@@ -1,5 +1,4 @@
-Strigula urticae Bonord. SPECIES
-=======
+# Strigula urticae Bonord. SPECIES
 
 #### Status
 ACCEPTED

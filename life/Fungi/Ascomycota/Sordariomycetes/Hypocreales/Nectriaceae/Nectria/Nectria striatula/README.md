@@ -1,5 +1,4 @@
-Nectria striatula H.S. Yates SPECIES
-=======
+# Nectria striatula H.S. Yates SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lichen fahlunensis L. SPECIES
-=======
+# Lichen fahlunensis L. SPECIES
 
 #### Status
 ACCEPTED

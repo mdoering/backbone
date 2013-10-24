@@ -1,5 +1,4 @@
-Leiogramma sericeum Eschw. SPECIES
-=======
+# Leiogramma sericeum Eschw. SPECIES
 
 #### Status
 ACCEPTED

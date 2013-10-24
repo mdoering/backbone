@@ -1,5 +1,4 @@
-Laboea conica Lohmann, 1908 SPECIES
-=======
+# Laboea conica Lohmann, 1908 SPECIES
 
 #### Status
 ACCEPTED

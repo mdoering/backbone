@@ -1,5 +1,4 @@
-Anthracobia humana (Velen.) Svrcek SPECIES
-=======
+# Anthracobia humana (Velen.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

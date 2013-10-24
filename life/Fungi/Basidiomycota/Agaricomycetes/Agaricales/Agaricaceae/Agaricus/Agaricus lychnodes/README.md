@@ -1,5 +1,4 @@
-Agaricus lychnodes Berk. & Broome SPECIES
-=======
+# Agaricus lychnodes Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

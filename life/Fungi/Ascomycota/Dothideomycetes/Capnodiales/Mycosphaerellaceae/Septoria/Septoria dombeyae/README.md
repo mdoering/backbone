@@ -1,5 +1,4 @@
-Septoria dombeyae Petr. SPECIES
-=======
+# Septoria dombeyae Petr. SPECIES
 
 #### Status
 ACCEPTED

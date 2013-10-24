@@ -1,5 +1,4 @@
-Astrosporina olivaceonigra f. olivaceonigra E. Horak FORM
-=======
+# Astrosporina olivaceonigra E. Horak SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Persoonia 10(2): 194 (1979)
 
 #### Original name
-Astrosporina olivaceonigra f. olivaceonigra E. Horak
+Astrosporina olivaceonigra E. Horak
 
 ### Remarks
 null

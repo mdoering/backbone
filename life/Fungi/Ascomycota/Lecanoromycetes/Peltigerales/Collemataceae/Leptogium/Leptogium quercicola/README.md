@@ -1,5 +1,4 @@
-Leptogium quercicola Otálora, Aragón, I. Martínez & M. C. Molina SPECIES
-=======
+# Leptogium quercicola Otálora, Aragón, I. Martínez & M. C. Molina SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ionomidotis fuscobrunnea (Pat. & Gaillard) Dennis SPECIES
-=======
+# Ionomidotis fuscobrunnea (Pat. & Gaillard) Dennis SPECIES
 
 #### Status
 ACCEPTED

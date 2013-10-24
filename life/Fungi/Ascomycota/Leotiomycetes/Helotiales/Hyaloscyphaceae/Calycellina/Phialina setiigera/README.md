@@ -1,5 +1,4 @@
-Phialina setiigera Huhtinen SPECIES
-=======
+# Phialina setiigera Huhtinen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Cortinaria privigniformis Murrill SPECIES
-=======
+# Cortinarius privigniformis Rob. Henry SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Lloydia 7(4): 319 (1945)
 
 #### Original name
-Cortinaria privigniformis Murrill
+Cortinarius privigniformis Rob. Henry
 
 ### Remarks
 null

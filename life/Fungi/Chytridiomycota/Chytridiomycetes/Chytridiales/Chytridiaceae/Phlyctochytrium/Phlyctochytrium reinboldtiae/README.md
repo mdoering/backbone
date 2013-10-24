@@ -1,5 +1,4 @@
-Phlyctochytrium reinboldtiae Persiel, 1959 SPECIES
-=======
+# Phlyctochytrium reinboldtiae Persiel, 1959 SPECIES
 
 #### Status
 ACCEPTED

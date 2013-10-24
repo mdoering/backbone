@@ -1,5 +1,4 @@
-Verticillium epiphytum Hansf., 1943 SPECIES
-=======
+# Verticillium epiphytum Hansf., 1943 SPECIES
 
 #### Status
 ACCEPTED

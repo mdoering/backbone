@@ -1,5 +1,4 @@
-Thylacidium GENUS
-=======
+# Thylacidium GENUS
 
 #### Status
 ACCEPTED

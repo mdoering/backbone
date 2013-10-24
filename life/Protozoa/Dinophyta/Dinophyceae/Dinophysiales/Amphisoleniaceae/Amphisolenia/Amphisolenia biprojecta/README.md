@@ -1,5 +1,4 @@
-Amphisolenia biprojecta Saifullah & Hassan, 1973 SPECIES
-=======
+# Amphisolenia biprojecta Saifullah & Hassan, 1973 SPECIES
 
 #### Status
 ACCEPTED

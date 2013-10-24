@@ -1,5 +1,4 @@
-Sirodothis populnea (Thüm.) B. Sutton & A. Funk SPECIES
-=======
+# Sirodothis populnea (Thüm.) B. Sutton & A. Funk SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectria mycetophila Peck SPECIES
-=======
+# Nectria mycetophila Peck SPECIES
 
 #### Status
 ACCEPTED

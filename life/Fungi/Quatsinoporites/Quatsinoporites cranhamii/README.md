@@ -1,5 +1,4 @@
-Quatsinoporites cranhamii S.Y. Sm., Currah & Stockey SPECIES
-=======
+# Quatsinoporites cranhamii S.Y. Sm., Currah & Stockey SPECIES
 
 #### Status
 ACCEPTED

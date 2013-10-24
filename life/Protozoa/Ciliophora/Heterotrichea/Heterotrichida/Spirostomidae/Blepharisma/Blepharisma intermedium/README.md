@@ -1,5 +1,4 @@
-Blepharisma intermedium Bhandary, 1962 SPECIES
-=======
+# Blepharisma intermedium Bhandary, 1962 SPECIES
 
 #### Status
 ACCEPTED

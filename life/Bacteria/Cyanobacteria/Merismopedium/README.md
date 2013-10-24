@@ -1,5 +1,4 @@
-Merismopedium GENUS
-=======
+# Merismopedium GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria afflata Schwein. SPECIES
-=======
+# Sphaeria afflata Schwein. SPECIES
 
 #### Status
 ACCEPTED

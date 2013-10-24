@@ -1,5 +1,4 @@
-Phyllosticta abietis Bissett & M.E. Palm, 1989 SPECIES
-=======
+# Phyllosticta abietis Bissett & M.E. Palm, 1989 SPECIES
 
 #### Status
 ACCEPTED

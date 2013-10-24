@@ -1,5 +1,4 @@
-Cassianopapillaria di Bari & Rettori, 1998 GENUS
-=======
+# Cassianopapillaria di Bari & Rettori, 1998 GENUS
 
 #### Status
 ACCEPTED

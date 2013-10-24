@@ -1,5 +1,4 @@
-Chalara intermedia W.P. Wu SPECIES
-=======
+# Chalara intermedia W.P. Wu SPECIES
 
 #### Status
 ACCEPTED

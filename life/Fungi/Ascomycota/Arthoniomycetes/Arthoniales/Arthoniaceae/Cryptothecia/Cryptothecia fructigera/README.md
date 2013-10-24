@@ -1,5 +1,4 @@
-Cryptothecia fructigera Groenh. SPECIES
-=======
+# Cryptothecia fructigera Groenh. SPECIES
 
 #### Status
 ACCEPTED

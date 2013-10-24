@@ -1,14 +1,13 @@
-Heppia clavata (Kremp.) Vain. SPECIES
-=======
+# Peltula clavata (Kremp.) Wetmore SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ann. Mo. bot. Gdn 57: 181 (1971)
 
 #### Original name
 Heterina clavata Kremp.

@@ -1,5 +1,4 @@
-Synchytrium stereospermi Lacy SPECIES
-=======
+# Synchytrium stereospermi Lacy SPECIES
 
 #### Status
 ACCEPTED

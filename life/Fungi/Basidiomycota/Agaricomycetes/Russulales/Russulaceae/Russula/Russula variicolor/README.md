@@ -1,5 +1,4 @@
-Russula variicolor Murrill SPECIES
-=======
+# Russula variicolor Murrill SPECIES
 
 #### Status
 ACCEPTED

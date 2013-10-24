@@ -1,5 +1,4 @@
-Catillaria circumpallescens (Nyl.) Zahlbr. SPECIES
-=======
+# Catillaria circumpallescens (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerographium coryli Richon SPECIES
-=======
+# Sphaerographium coryli Richon SPECIES
 
 #### Status
 ACCEPTED

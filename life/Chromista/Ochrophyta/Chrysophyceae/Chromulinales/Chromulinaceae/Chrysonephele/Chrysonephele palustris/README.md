@@ -1,5 +1,4 @@
-Chrysonephele palustris L.D. Pipes, P.A. Tyler & G.F. Leedale SPECIES
-=======
+# Chrysonephele palustris L.D. Pipes, P.A. Tyler & G.F. Leedale SPECIES
 
 #### Status
 ACCEPTED

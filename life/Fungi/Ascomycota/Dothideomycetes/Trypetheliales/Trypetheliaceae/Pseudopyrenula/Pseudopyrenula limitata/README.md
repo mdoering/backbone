@@ -1,5 +1,4 @@
-Pseudopyrenula limitata Szatala SPECIES
-=======
+# Pseudopyrenula limitata Szatala SPECIES
 
 #### Status
 ACCEPTED

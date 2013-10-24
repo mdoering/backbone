@@ -1,5 +1,4 @@
-Menispora obtusata Preuss SPECIES
-=======
+# Menispora obtusata Preuss SPECIES
 
 #### Status
 ACCEPTED

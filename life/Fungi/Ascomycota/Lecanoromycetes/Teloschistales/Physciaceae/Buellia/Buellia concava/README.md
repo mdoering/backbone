@@ -1,5 +1,4 @@
-Buellia concava Müll. Arg. SPECIES
-=======
+# Buellia concava Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

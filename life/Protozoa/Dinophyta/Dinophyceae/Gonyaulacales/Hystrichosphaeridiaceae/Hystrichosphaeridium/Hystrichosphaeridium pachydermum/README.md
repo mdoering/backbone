@@ -1,5 +1,4 @@
-Hystrichosphaeridium pachydermum Cookson & Eisenack SPECIES
-=======
+# Hystrichosphaeridium pachydermum Cookson & Eisenack SPECIES
 
 #### Status
 ACCEPTED

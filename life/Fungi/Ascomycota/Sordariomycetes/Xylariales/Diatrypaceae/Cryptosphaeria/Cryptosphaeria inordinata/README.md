@@ -1,5 +1,4 @@
-Cryptosphaeria inordinata (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Cryptosphaeria inordinata (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Strombidium pulchrum Leegaard, 1915 SPECIES
-=======
+# Spirostrombidium pulchrum (Leegaard, 1915) Agatha, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

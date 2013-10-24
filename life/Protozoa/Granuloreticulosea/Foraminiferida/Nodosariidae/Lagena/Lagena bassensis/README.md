@@ -1,5 +1,4 @@
-Lagena bassensis Collins, 1974 SPECIES
-=======
+# Lagena bassensis Collins, 1974 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Geopyxis alba Velen. SPECIES
-=======
+# Geopyxis alba Velen. SPECIES
 
 #### Status
 ACCEPTED

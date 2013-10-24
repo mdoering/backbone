@@ -1,5 +1,4 @@
-Palaeopericonia fritzschei C.G. Ibáñez & Zamuner SPECIES
-=======
+# Palaeopericonia fritzschei C.G. Ibáñez & Zamuner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Stagonosporopsis acteae (Allesch.) Died. SPECIES
-=======
+# Stagonosporopsis actaeae (Allesch.) Died. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 10: 142 (1912)
 
 #### Original name
 Actinonema actaeae Allesch.

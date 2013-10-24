@@ -1,5 +1,4 @@
-Stictina neocaledonica Müll. Arg. SPECIES
-=======
+# Stictina neocaledonica Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

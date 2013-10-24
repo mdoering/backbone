@@ -1,5 +1,4 @@
-Helminthosporium rhododendri Rostr. SPECIES
-=======
+# Helminthosporium rhododendri Rostr. SPECIES
 
 #### Status
 ACCEPTED

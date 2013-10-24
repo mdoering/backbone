@@ -1,5 +1,4 @@
-Xylaria subtrachelina Henn. SPECIES
-=======
+# Xylaria subtrachelina Henn. SPECIES
 
 #### Status
 ACCEPTED

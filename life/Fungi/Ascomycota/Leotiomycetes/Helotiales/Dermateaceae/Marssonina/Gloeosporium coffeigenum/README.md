@@ -1,5 +1,4 @@
-Gloeosporium coffeigenum Av.-Saccá SPECIES
-=======
+# Gloeosporium coffeigenum Av.-Saccá SPECIES
 
 #### Status
 ACCEPTED

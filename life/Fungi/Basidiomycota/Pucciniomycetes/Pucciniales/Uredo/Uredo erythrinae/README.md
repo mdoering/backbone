@@ -1,5 +1,4 @@
-Uredo erythrinae Henn. SPECIES
-=======
+# Uredo erythrinae Henn. SPECIES
 
 #### Status
 ACCEPTED

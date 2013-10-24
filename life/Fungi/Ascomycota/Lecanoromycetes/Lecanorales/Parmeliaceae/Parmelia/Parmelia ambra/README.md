@@ -1,5 +1,4 @@
-Parmelia ambra Poinar, E.B. Peterson & Platt SPECIES
-=======
+# Parmelia ambra Poinar, E.B. Peterson & Platt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporomusa rhizae Gössner et al., 2006 SPECIES
-=======
+# Sporomusa rhizae Gössner et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

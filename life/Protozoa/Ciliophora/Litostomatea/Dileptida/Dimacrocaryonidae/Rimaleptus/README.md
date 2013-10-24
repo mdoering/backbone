@@ -1,5 +1,4 @@
-Rimaleptus Foissner, 1984 GENUS
-=======
+# Rimaleptus Foissner, 1984 GENUS
 
 #### Status
 ACCEPTED

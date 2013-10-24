@@ -1,5 +1,4 @@
-Hypogymnia macrospora (J.D. Zhao) J.C. Wei SPECIES
-=======
+# Hypogymnia macrospora (J.D. Zhao) J.C. Wei SPECIES
 
 #### Status
 ACCEPTED

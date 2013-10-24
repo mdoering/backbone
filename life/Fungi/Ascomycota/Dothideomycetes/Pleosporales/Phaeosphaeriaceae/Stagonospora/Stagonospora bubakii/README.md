@@ -1,5 +1,4 @@
-Stagonospora bubakii Picb. SPECIES
-=======
+# Stagonospora bubakii Picb. SPECIES
 
 #### Status
 ACCEPTED

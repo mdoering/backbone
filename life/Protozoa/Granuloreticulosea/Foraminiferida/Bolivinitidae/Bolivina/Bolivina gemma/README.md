@@ -1,5 +1,4 @@
-Bolivina gemma Cushman SPECIES
-=======
+# Bolivina gemma Cushman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gibberella bolusiellae Sivan. SPECIES
-=======
+# Gibberella bolusiellae Sivan. SPECIES
 
 #### Status
 ACCEPTED

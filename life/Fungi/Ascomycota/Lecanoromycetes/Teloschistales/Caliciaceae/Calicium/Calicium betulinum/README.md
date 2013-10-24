@@ -1,5 +1,4 @@
-Calicium betulinum (Nyl.) Zahlbr. SPECIES
-=======
+# Calicium betulinum (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

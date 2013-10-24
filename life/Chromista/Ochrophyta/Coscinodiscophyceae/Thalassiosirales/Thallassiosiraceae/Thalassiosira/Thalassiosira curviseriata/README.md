@@ -1,5 +1,4 @@
-Thalassiosira curviseriata Takano SPECIES
-=======
+# Thalassiosira curviseriata Takano SPECIES
 
 #### Status
 ACCEPTED

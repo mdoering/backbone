@@ -1,5 +1,4 @@
-Phlyctema phomatella ß phomatella Sacc. SPECIES
-=======
+# Phlyctema phomatella ß phomatella Sacc. SPECIES
 
 #### Status
 ACCEPTED

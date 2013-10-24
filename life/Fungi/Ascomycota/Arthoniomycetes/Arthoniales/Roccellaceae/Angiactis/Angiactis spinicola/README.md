@@ -1,5 +1,4 @@
-Angiactis spinicola Aptroot & Sparrius SPECIES
-=======
+# Angiactis spinicola Aptroot & Sparrius SPECIES
 
 #### Status
 ACCEPTED

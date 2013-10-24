@@ -1,5 +1,4 @@
-Allonema roseum (Grove) Syd., 1934 SPECIES
-=======
+# Allonema roseum (Grove) Syd., 1934 SPECIES
 
 #### Status
 ACCEPTED

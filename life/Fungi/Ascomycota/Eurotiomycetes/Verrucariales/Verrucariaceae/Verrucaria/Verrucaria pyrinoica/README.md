@@ -1,5 +1,4 @@
-Verrucaria pyrinoica Ach. SPECIES
-=======
+# Verrucaria pyrinoica Ach. SPECIES
 
 #### Status
 ACCEPTED

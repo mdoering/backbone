@@ -1,5 +1,4 @@
-Lasiosphaeria stictochaetophora (Fairm.) Sacc. & Traverso SPECIES
-=======
+# Lasiosphaeria stictochaetophora (Fairm.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus cyathoides Sw. SPECIES
-=======
+# Boletus cyathoides Sw. SPECIES
 
 #### Status
 ACCEPTED

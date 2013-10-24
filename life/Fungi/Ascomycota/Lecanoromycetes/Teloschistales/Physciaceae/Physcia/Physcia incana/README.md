@@ -1,5 +1,4 @@
-Physcia incana Stirt. SPECIES
-=======
+# Physcia incana Stirt. SPECIES
 
 #### Status
 ACCEPTED

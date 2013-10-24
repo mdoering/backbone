@@ -1,5 +1,4 @@
-Colomiellia GENUS
-=======
+# Colomiellia GENUS
 
 #### Status
 ACCEPTED

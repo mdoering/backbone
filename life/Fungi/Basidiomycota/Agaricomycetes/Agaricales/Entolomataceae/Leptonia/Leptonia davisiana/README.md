@@ -1,5 +1,4 @@
-Leptonia davisiana Peck SPECIES
-=======
+# Leptonia davisiana Peck SPECIES
 
 #### Status
 ACCEPTED

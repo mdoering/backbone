@@ -1,14 +1,13 @@
-Cribricatillus M. Black, 1973 GENUS
-=======
+# Gartnerago Bukry, 1969 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-British Lower Cretaceous coccoliths. 1. Gault Clay. Palaeontogr. Soc. (Monogr. ) 127 (537): 59.
+Paleont. Contr. Univ. Kans. 51: 24.
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Megacollybia texensis R.H. Petersen & D.P. Lewis SPECIES
-=======
+# Megacollybia texensis R.H. Petersen & D.P. Lewis SPECIES
 
 #### Status
 ACCEPTED

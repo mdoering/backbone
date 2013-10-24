@@ -1,5 +1,4 @@
-Astractura Haeckel, 1881 GENUS
-=======
+# Astractura Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

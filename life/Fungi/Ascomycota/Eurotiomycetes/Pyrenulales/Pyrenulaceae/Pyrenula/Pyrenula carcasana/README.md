@@ -1,5 +1,4 @@
-Pyrenula carcasana Müll. Arg. SPECIES
-=======
+# Pyrenula carcasana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

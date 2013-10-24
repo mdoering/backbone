@@ -1,5 +1,4 @@
-Clitopilus orcellarius Ces. SPECIES
-=======
+# Clitopilus orcellarius Ces. SPECIES
 
 #### Status
 ACCEPTED

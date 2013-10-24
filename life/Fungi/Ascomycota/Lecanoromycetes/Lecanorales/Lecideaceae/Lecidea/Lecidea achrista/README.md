@@ -1,5 +1,4 @@
-Lecidea achrista (Sommerf.) Britzelm. SPECIES
-=======
+# Lecidea achrista (Sommerf.) Britzelm. SPECIES
 
 #### Status
 ACCEPTED

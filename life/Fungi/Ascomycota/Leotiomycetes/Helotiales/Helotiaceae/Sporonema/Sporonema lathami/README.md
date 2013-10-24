@@ -1,5 +1,4 @@
-Sporonema lathami (Dearn.) Arx SPECIES
-=======
+# Sporonema lathami (Dearn.) Arx SPECIES
 
 #### Status
 ACCEPTED

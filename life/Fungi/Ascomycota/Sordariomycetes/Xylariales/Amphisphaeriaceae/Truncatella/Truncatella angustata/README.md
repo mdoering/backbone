@@ -1,5 +1,4 @@
-Truncatella angustata (Pers.) S. Hughes, 1958 SPECIES
-=======
+# Truncatella angustata (Pers.) S. Hughes, 1958 SPECIES
 
 #### Status
 ACCEPTED

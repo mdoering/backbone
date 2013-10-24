@@ -1,5 +1,4 @@
-Flammula laetilamellata A. Pearson SPECIES
-=======
+# Flammula laetilamellata A. Pearson SPECIES
 
 #### Status
 ACCEPTED

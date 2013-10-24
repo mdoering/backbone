@@ -1,5 +1,4 @@
-Cytospora philadelphi Pisareva SPECIES
-=======
+# Cytospora philadelphi Pisareva SPECIES
 
 #### Status
 ACCEPTED

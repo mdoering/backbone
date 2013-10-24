@@ -1,5 +1,4 @@
-Phyllosticta boerhaviae Speg. SPECIES
-=======
+# Phyllosticta boerhaviae Speg. SPECIES
 
 #### Status
 ACCEPTED

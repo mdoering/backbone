@@ -1,5 +1,4 @@
-Polystictus subflabellum Henn. SPECIES
-=======
+# Polystictus subflabellum Henn. SPECIES
 
 #### Status
 ACCEPTED

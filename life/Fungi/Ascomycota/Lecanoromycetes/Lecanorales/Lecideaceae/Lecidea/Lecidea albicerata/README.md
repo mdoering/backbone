@@ -1,5 +1,4 @@
-Lecidea albicerata Kremp. SPECIES
-=======
+# Lecidea albicerata Kremp. SPECIES
 
 #### Status
 ACCEPTED

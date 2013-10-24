@@ -1,5 +1,4 @@
-Panaeolus leucophanes (Berk. & Broome) Sacc. SPECIES
-=======
+# Panaeolus leucophanes (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

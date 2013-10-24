@@ -1,5 +1,4 @@
-Acineta bifaria Stokes, 1887 SPECIES
-=======
+# Acineta bifaria Stokes, 1887 SPECIES
 
 #### Status
 ACCEPTED

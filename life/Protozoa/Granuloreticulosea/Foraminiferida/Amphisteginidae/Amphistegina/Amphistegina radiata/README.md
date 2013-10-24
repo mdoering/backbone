@@ -1,8 +1,7 @@
-Nautilus radiatus Fichtel & Moll, 1798 SPECIES
-=======
+# Amphistegina radiata (Fichtel & Moll, 1798) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

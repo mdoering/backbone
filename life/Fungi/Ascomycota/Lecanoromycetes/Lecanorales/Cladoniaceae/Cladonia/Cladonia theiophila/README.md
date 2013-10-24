@@ -1,5 +1,4 @@
-Cladonia theiophila Asahina SPECIES
-=======
+# Cladonia theiophila Asahina SPECIES
 
 #### Status
 ACCEPTED

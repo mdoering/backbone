@@ -1,5 +1,4 @@
-Catillaria flavidosorediata Zahlbr. SPECIES
-=======
+# Catillaria flavidosorediata Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

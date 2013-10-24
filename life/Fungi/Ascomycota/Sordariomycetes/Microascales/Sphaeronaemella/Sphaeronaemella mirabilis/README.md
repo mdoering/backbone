@@ -1,5 +1,4 @@
-Sphaeronaemella mirabilis Speg. SPECIES
-=======
+# Sphaeronaemella mirabilis Speg. SPECIES
 
 #### Status
 ACCEPTED

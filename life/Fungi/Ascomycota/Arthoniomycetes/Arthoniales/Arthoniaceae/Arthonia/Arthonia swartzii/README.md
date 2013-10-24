@@ -1,5 +1,4 @@
-Arthonia swartzii Chevall. SPECIES
-=======
+# Arthonia swartzii Chevall. SPECIES
 
 #### Status
 ACCEPTED

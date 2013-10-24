@@ -1,5 +1,4 @@
-Thalassogena sphaerica Kohlm. & Volkm.-Kohlm., 1987 SPECIES
-=======
+# Thalassogena sphaerica Kohlm. & Volkm.-Kohlm., 1987 SPECIES
 
 #### Status
 ACCEPTED

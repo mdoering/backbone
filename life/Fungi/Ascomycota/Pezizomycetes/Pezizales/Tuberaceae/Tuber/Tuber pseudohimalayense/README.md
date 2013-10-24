@@ -1,5 +1,4 @@
-Tuber pseudohimalayense G. Moreno, Manjón, J. Díez & García-Mont. SPECIES
-=======
+# Tuber pseudohimalayense G. Moreno, Manjón, J. Díez & García-Mont. SPECIES
 
 #### Status
 ACCEPTED

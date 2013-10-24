@@ -1,17 +1,16 @@
-Coprinus ephemerus var. ephemerus VARIETY
-=======
+# Coprinellus ephemerus (Bull.) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Epicr. syst. mycol. (Upsaliae) 252 (1838)
+in Redhead, Vilgalys, Moncalvo, Johnson & Hopple, Taxon 50(1): 233 (2001)
 
 #### Original name
-Coprinus ephemerus var. ephemerus
+Agaricus ephemerus Bull., 1786
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Phaeocollybia redheadii Norvell SPECIES
-=======
+# Phaeocollybia redheadii Norvell SPECIES
 
 #### Status
 ACCEPTED

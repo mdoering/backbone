@@ -1,5 +1,4 @@
-Torula marginata L.W.R. Jacks. SPECIES
-=======
+# Torula marginata L.W.R. Jacks. SPECIES
 
 #### Status
 ACCEPTED

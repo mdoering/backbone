@@ -1,5 +1,4 @@
-Hypocrea scutata Cooke SPECIES
-=======
+# Hypocrea scutata Cooke SPECIES
 
 #### Status
 ACCEPTED

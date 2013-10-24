@@ -1,5 +1,4 @@
-Catillaria opacata (Stizenb.) Zahlbr. SPECIES
-=======
+# Catillaria opacata (Stizenb.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

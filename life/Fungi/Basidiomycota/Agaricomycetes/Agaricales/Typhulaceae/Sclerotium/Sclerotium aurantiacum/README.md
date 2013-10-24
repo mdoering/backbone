@@ -1,5 +1,4 @@
-Sclerotium aurantiacum Lasch SPECIES
-=======
+# Sclerotium aurantiacum Lasch SPECIES
 
 #### Status
 ACCEPTED

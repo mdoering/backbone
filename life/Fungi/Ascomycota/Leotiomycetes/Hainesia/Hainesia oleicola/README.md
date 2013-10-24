@@ -1,5 +1,4 @@
-Hainesia oleicola Speg. SPECIES
-=======
+# Hainesia oleicola Speg. SPECIES
 
 #### Status
 ACCEPTED

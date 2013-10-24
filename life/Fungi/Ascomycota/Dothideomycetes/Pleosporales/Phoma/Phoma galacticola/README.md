@@ -1,5 +1,4 @@
-Phoma galacticola Henn. SPECIES
-=======
+# Phoma galacticola Henn. SPECIES
 
 #### Status
 ACCEPTED

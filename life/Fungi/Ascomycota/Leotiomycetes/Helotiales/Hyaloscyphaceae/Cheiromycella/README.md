@@ -1,5 +1,4 @@
-Cheiromycella von Höhnel, 1910 GENUS
-=======
+# Cheiromycella von Höhnel, 1910 GENUS
 
 #### Status
 ACCEPTED

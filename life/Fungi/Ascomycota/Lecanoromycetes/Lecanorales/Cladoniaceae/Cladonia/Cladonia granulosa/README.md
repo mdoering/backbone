@@ -1,5 +1,4 @@
-Cladonia granulosa (Vain.) Ahti SPECIES
-=======
+# Cladonia granulosa (Vain.) Ahti SPECIES
 
 #### Status
 ACCEPTED

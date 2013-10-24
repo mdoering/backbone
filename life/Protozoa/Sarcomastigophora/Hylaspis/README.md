@@ -1,5 +1,4 @@
-Hylaspis Haeckel, 1887 GENUS
-=======
+# Hylaspis Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

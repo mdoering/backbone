@@ -1,5 +1,4 @@
-Lecanora ramulorum Motyka SPECIES
-=======
+# Lecanora ramulorum Motyka SPECIES
 
 #### Status
 ACCEPTED

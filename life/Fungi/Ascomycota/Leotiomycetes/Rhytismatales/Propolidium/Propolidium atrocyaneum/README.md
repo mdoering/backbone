@@ -1,5 +1,4 @@
-Propolidium atrocyaneum Rehm SPECIES
-=======
+# Propolidium atrocyaneum Rehm SPECIES
 
 #### Status
 ACCEPTED

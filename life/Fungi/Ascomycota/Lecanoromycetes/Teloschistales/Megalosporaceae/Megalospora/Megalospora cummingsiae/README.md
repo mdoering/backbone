@@ -1,5 +1,4 @@
-Megalospora cummingsiae Riddle SPECIES
-=======
+# Megalospora cummingsiae Riddle SPECIES
 
 #### Status
 ACCEPTED

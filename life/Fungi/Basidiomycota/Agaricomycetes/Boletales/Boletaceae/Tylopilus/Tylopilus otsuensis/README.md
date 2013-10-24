@@ -1,5 +1,4 @@
-Tylopilus otsuensis Hongo SPECIES
-=======
+# Tylopilus otsuensis Hongo SPECIES
 
 #### Status
 ACCEPTED

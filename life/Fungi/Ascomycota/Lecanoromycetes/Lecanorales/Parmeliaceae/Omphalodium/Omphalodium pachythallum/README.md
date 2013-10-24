@@ -1,5 +1,4 @@
-Omphalodium pachythallum (Nyl.) C.W. Dodge SPECIES
-=======
+# Omphalodium pachythallum (Nyl.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

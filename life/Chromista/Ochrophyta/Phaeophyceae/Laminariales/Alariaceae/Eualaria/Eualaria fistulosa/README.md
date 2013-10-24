@@ -1,5 +1,4 @@
-Eualaria fistulosa (Postels & Ruprecht) M.J.Wynne, 2009 SPECIES
-=======
+# Eualaria fistulosa (Postels & Ruprecht) M.J.Wynne, 2009 SPECIES
 
 #### Status
 ACCEPTED

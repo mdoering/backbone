@@ -1,5 +1,4 @@
-Entoloma aurantipes E. Horak SPECIES
-=======
+# Entoloma aurantipes E. Horak SPECIES
 
 #### Status
 ACCEPTED

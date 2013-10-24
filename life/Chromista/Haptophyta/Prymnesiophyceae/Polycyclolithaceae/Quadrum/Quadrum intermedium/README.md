@@ -1,5 +1,4 @@
-Quadrum intermedium SPECIES
-=======
+# Quadrum intermedium SPECIES
 
 #### Status
 ACCEPTED

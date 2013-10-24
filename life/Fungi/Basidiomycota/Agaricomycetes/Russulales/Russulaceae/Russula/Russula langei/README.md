@@ -1,17 +1,16 @@
-Russula langei var. cutefractoides Bon & Ramm VARIETY
-=======
+# Russula langei Bon, 1970 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Docums Mycol. 33(no. 131): 48 (2004)
+Revue Mycol. , Paris 35(4): 240 (1970)
 
 #### Original name
-Russula langei var. cutefractoides Bon & Ramm
+Russula langei Bon, 1970
 
 ### Remarks
 null

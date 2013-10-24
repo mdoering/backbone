@@ -1,5 +1,4 @@
-Lecidella cyanea (Flörke) Stein SPECIES
-=======
+# Lecidella cyanea (Flörke) Stein SPECIES
 
 #### Status
 ACCEPTED

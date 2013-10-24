@@ -1,5 +1,4 @@
-Repetobasidium intermedium Oberw., 1989 SPECIES
-=======
+# Repetobasidium intermedium Oberw., 1989 SPECIES
 
 #### Status
 ACCEPTED

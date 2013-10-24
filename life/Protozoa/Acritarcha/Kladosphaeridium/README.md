@@ -1,5 +1,4 @@
-Kladosphaeridium Vavrdová, 1990 GENUS
-=======
+# Kladosphaeridium Vavrdová, 1990 GENUS
 
 #### Status
 ACCEPTED

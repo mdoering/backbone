@@ -1,5 +1,4 @@
-Puccinia wurmbeae Cooke & Massee SPECIES
-=======
+# Puccinia wurmbeae Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

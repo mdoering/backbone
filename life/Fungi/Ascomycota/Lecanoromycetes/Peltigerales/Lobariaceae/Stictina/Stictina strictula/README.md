@@ -1,5 +1,4 @@
-Stictina strictula Delise SPECIES
-=======
+# Stictina strictula Delise SPECIES
 
 #### Status
 ACCEPTED

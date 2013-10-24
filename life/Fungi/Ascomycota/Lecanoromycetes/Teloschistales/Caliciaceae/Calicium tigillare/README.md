@@ -1,5 +1,4 @@
-Calicium tigillare (Berk. & Broome) Sacc. SPECIES
-=======
+# Calicium tigillare (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

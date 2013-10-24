@@ -1,5 +1,4 @@
-Spongostaurus Haeckel, 1881 GENUS
-=======
+# Spongostaurus Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

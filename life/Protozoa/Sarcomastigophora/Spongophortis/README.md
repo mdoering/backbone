@@ -1,5 +1,4 @@
-Spongophortis Haeckel, 1881 GENUS
-=======
+# Spongophortis Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

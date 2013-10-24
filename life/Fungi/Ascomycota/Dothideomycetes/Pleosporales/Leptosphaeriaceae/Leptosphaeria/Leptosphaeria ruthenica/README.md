@@ -1,5 +1,4 @@
-Leptosphaeria ruthenica Petr. SPECIES
-=======
+# Leptosphaeria ruthenica Petr. SPECIES
 
 #### Status
 ACCEPTED

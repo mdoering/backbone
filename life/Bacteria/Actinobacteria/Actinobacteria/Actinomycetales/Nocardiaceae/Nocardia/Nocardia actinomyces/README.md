@@ -1,5 +1,4 @@
-Nocardia actinomyces Trevis. SPECIES
-=======
+# Nocardia actinomyces Trevis. SPECIES
 
 #### Status
 ACCEPTED

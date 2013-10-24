@@ -1,5 +1,4 @@
-Galeropsis plantaginiformis (Lebedeva) Singer, 1937 SPECIES
-=======
+# Galeropsis plantaginiformis (Lebedeva) Singer, 1937 SPECIES
 
 #### Status
 ACCEPTED

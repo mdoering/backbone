@@ -1,5 +1,4 @@
-Psathyrella nahuelbutensis Garrido SPECIES
-=======
+# Psathyrella nahuelbutensis Garrido SPECIES
 
 #### Status
 ACCEPTED

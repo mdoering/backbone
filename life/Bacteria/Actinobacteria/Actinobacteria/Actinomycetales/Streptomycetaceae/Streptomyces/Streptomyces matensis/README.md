@@ -1,5 +1,4 @@
-Streptomyces matensis Margalith et al., 1959 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces matensis Margalith et al., 1959 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Pleurage hispidula (Speg.) C. Moreau, 1954 SPECIES
-=======
+# Schizothecium hispidulum (Speg.) N. Lundq., 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Encyclop. Mycol. 25: 259 (1954)
+Symb. bot. upsal. 20(no. 1): 254 (1972)
 
 #### Original name
 Sordaria hispidula Speg., 1898

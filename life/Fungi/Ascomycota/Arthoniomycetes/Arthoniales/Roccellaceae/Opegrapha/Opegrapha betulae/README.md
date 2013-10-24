@@ -1,5 +1,4 @@
-Opegrapha betulae DC. SPECIES
-=======
+# Opegrapha betulae DC. SPECIES
 
 #### Status
 ACCEPTED

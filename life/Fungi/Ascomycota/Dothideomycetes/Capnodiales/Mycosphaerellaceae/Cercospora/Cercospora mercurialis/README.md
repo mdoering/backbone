@@ -1,17 +1,16 @@
-Cercospora mercurialis var. multisepta Savul. & Sandu, 1936 VARIETY
-=======
+# Cercospora mercurialis Pass., 1877 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotheca universalis no. 783 (1877)
 
 #### Original name
-null
+Cercospora mercurialis Pass., 1877
 
 ### Remarks
 null

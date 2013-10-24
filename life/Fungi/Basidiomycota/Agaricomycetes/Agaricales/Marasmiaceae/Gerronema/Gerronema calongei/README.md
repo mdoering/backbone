@@ -1,5 +1,4 @@
-Gerronema calongei Singer SPECIES
-=======
+# Gerronema calongei Singer SPECIES
 
 #### Status
 ACCEPTED

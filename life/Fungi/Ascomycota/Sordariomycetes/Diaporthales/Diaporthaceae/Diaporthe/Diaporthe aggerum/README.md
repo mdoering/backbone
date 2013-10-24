@@ -1,5 +1,4 @@
-Diaporthe aggerum Sacc. & Speg. SPECIES
-=======
+# Diaporthe aggerum Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

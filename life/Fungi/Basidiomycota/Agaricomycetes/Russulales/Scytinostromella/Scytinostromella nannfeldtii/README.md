@@ -1,14 +1,13 @@
-Gloeocystidiellum nannfeldtii J. Erikss., 1958 SPECIES
-=======
+# Scytinostromella nannfeldtii (J. Erikss.) G.W. Freeman & R.H. Petersen, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Svensk bot. Tidskr. 52(1): 14 (1958)
+Mycologia 71(1): 90 (1979)
 
 #### Original name
 Gloeocystidiellum nannfeldtii J. Erikss., 1958

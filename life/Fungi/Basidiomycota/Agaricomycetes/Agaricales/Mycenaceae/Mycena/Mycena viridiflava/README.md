@@ -1,5 +1,4 @@
-Mycena viridiflava Rick SPECIES
-=======
+# Mycena viridiflava Rick SPECIES
 
 #### Status
 ACCEPTED

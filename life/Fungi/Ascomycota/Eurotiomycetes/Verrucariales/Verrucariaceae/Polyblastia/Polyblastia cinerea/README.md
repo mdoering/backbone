@@ -1,5 +1,4 @@
-Polyblastia cinerea (A. Massal.) Jatta SPECIES
-=======
+# Polyblastia cinerea (A. Massal.) Jatta SPECIES
 
 #### Status
 ACCEPTED

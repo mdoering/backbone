@@ -1,17 +1,16 @@
-Fulminaria mucophila Gobi, 1900 SPECIES
-=======
+# Harpochytrium hyalothecae Lagerh., 1890 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Zap. 15: 283-292 (1900)
+Hedwigia 29: 142 (1890)
 
 #### Original name
-Fulminaria mucophila Gobi, 1900
+Harpochytrium hyalothecae Lagerh., 1890
 
 ### Remarks
 null

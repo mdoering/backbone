@@ -1,5 +1,4 @@
-Lalaria caerulescens R.T. Moore SPECIES
-=======
+# Lalaria caerulescens R.T. Moore SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Metasphaeria culmifida var. culmifida VARIETY
-=======
+# Keissleriella culmifida (P. Karst.) S.K. Bose, 1961 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 2: 174 (1883)
+Phytopath. Z. 41: 188 (1961)
 
 #### Original name
-Metasphaeria culmifida var. culmifida
+Leptosphaeria culmifida P. Karst., 1873
 
 ### Remarks
 null

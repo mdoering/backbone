@@ -1,5 +1,4 @@
-Giardia Künstler, 1882 GENUS
-=======
+# Giardia Künstler, 1882 GENUS
 
 #### Status
 ACCEPTED

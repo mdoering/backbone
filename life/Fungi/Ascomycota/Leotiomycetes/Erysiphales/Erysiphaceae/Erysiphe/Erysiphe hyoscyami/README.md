@@ -1,5 +1,4 @@
-Erysiphe hyoscyami R.Y. Zheng & G.Q. Chen SPECIES
-=======
+# Erysiphe hyoscyami R.Y. Zheng & G.Q. Chen SPECIES
 
 #### Status
 ACCEPTED

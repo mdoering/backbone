@@ -1,5 +1,4 @@
-Muricularia eurotioides Sacc. SPECIES
-=======
+# Muricularia eurotioides Sacc. SPECIES
 
 #### Status
 ACCEPTED

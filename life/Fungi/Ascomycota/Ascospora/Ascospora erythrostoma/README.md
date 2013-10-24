@@ -1,5 +1,4 @@
-Ascospora erythrostoma Durieu & Mont. SPECIES
-=======
+# Ascospora erythrostoma Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

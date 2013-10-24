@@ -1,5 +1,4 @@
-Stigmatomyces borbori Thaxt. SPECIES
-=======
+# Stigmatomyces borbori Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,11 +1,10 @@
-Chaetoceros compressus var. hirtisetus J.E.B. Rines & P.E. Hargraves, 1990 VARIETY
-=======
+# Chaetoceros compressus Lauder SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-World Register of Marine Species
+Integrated Taxonomic Information System
 
 #### Published in
 null

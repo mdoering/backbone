@@ -1,5 +1,4 @@
-Phloeospora capronii Allesch. SPECIES
-=======
+# Phloeospora capronii Allesch. SPECIES
 
 #### Status
 ACCEPTED

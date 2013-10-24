@@ -1,5 +1,4 @@
-Gaudryina rugosa d'Orbigny SPECIES
-=======
+# Gaudryina rugosa d'Orbigny SPECIES
 
 #### Status
 ACCEPTED

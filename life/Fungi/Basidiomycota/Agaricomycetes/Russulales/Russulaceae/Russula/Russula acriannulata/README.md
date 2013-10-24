@@ -1,5 +1,4 @@
-Russula acriannulata Buyck, 1993 SPECIES
-=======
+# Russula acriannulata Buyck, 1993 SPECIES
 
 #### Status
 ACCEPTED

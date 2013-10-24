@@ -1,5 +1,4 @@
-Paraceratocladium triseptata Dulym., W.P. Wu & Peerally SPECIES
-=======
+# Paraceratocladium triseptata Dulym., W.P. Wu & Peerally SPECIES
 
 #### Status
 ACCEPTED

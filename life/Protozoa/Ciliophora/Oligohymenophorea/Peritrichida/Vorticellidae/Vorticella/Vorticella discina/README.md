@@ -1,5 +1,4 @@
-Vorticella discina Müller, 1786 SPECIES
-=======
+# Vorticella discina Müller, 1786 SPECIES
 
 #### Status
 ACCEPTED

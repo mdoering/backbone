@@ -1,5 +1,4 @@
-Septoria garryae f. garryae FORM
-=======
+# Septoria garryae Roum. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Septoria garryae f. garryae
+Septoria garryae Roum.
 
 ### Remarks
 null

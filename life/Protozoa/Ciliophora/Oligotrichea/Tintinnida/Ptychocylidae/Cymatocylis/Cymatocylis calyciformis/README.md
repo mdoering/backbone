@@ -1,5 +1,4 @@
-Cymatocylis calyciformis (Laackmann, 1907) Laackmann, 1910 SPECIES
-=======
+# Cymatocylis calyciformis (Laackmann, 1907) Laackmann, 1910 SPECIES
 
 #### Status
 ACCEPTED

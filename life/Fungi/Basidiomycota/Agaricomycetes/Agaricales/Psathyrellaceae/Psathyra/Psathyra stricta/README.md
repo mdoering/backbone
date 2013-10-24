@@ -1,5 +1,4 @@
-Psathyra stricta Trog SPECIES
-=======
+# Psathyra stricta Trog SPECIES
 
 #### Status
 ACCEPTED

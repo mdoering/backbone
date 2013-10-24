@@ -1,5 +1,4 @@
-Pezizella gemmata (Lorton) Sacc. SPECIES
-=======
+# Pezizella gemmata (Lorton) Sacc. SPECIES
 
 #### Status
 ACCEPTED

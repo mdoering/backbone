@@ -1,5 +1,4 @@
-Diplodina malcolmiae Tassi SPECIES
-=======
+# Diplodina malcolmiae Tassi SPECIES
 
 #### Status
 ACCEPTED

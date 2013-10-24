@@ -1,5 +1,4 @@
-Pseliodinium vaubanii Soumia SPECIES
-=======
+# Pseliodinium vaubanii Soumia SPECIES
 
 #### Status
 ACCEPTED

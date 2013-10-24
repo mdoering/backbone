@@ -1,5 +1,4 @@
-Russula singaporensis Singer SPECIES
-=======
+# Russula singaporensis Singer SPECIES
 
 #### Status
 ACCEPTED

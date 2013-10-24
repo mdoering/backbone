@@ -1,5 +1,4 @@
-Thelenella cervina Vain. SPECIES
-=======
+# Thelenella cervina Vain. SPECIES
 
 #### Status
 ACCEPTED

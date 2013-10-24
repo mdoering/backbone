@@ -1,17 +1,16 @@
-Usnea scabrata var. scabrata VARIETY
-=======
+# Usnea scabrata Nyl. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Flora, Jena 58: 103 (1875)
 
 #### Original name
-Usnea scabrata var. scabrata
+Usnea scabrata Nyl.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Venenarius subsolitarius Murrill SPECIES
-=======
+# Venenarius subsolitarius Murrill SPECIES
 
 #### Status
 ACCEPTED

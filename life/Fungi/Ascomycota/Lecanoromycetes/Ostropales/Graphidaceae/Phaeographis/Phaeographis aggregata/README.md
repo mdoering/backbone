@@ -1,5 +1,4 @@
-Phaeographis aggregata Redinger SPECIES
-=======
+# Phaeographis aggregata Redinger SPECIES
 
 #### Status
 ACCEPTED

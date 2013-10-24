@@ -1,5 +1,4 @@
-Umbilicaria corrugata var. corrugata VARIETY
-=======
+# Umbilicaria corrugata Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Umbilicaria corrugata var. corrugata
+Umbilicaria corrugata Nyl.
 
 ### Remarks
 null

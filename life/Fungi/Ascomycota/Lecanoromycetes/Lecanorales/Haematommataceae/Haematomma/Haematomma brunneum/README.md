@@ -1,5 +1,4 @@
-Haematomma brunneum (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Haematomma brunneum (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

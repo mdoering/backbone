@@ -1,5 +1,4 @@
-Bellotia eriophorum Harvey SPECIES
-=======
+# Bellotia eriophorum Harvey SPECIES
 
 #### Status
 ACCEPTED

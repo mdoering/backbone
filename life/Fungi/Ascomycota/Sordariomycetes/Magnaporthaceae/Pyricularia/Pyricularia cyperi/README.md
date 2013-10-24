@@ -1,5 +1,4 @@
-Pyricularia cyperi Siwasin & Giatgong SPECIES
-=======
+# Pyricularia cyperi Siwasin & Giatgong SPECIES
 
 #### Status
 ACCEPTED

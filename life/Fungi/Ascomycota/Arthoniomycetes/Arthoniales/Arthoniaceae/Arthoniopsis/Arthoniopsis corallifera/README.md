@@ -1,5 +1,4 @@
-Arthoniopsis corallifera (Vain.) Zahlbr. SPECIES
-=======
+# Arthoniopsis corallifera (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

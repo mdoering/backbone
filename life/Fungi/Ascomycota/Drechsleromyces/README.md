@@ -1,5 +1,4 @@
-Drechsleromyces Subram. GENUS
-=======
+# Drechsleromyces Subram. GENUS
 
 #### Status
 ACCEPTED

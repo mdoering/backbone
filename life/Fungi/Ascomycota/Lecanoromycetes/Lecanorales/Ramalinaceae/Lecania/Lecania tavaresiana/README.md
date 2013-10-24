@@ -1,5 +1,4 @@
-Lecania tavaresiana Clauzade & Vezda SPECIES
-=======
+# Lecania tavaresiana Clauzade & Vezda SPECIES
 
 #### Status
 ACCEPTED

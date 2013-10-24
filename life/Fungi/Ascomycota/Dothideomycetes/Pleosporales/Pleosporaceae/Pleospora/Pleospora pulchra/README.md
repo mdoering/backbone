@@ -1,5 +1,4 @@
-Pleospora pulchra Kirschst. SPECIES
-=======
+# Pleospora pulchra Kirschst. SPECIES
 
 #### Status
 ACCEPTED

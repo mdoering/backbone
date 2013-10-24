@@ -1,5 +1,4 @@
-Procerolagena implicata (Cushman & McCulloch, 1950) SPECIES
-=======
+# Procerolagena implicata (Cushman & McCulloch, 1950) SPECIES
 
 #### Status
 ACCEPTED

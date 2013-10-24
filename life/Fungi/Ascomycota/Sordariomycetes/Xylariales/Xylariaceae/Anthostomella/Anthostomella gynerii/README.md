@@ -1,5 +1,4 @@
-Anthostomella gynerii Tassi SPECIES
-=======
+# Anthostomella gynerii Tassi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pilidiella eucalyptorum Crous & M.J. Wingf. SPECIES
-=======
+# Pilidiella eucalyptorum Crous & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

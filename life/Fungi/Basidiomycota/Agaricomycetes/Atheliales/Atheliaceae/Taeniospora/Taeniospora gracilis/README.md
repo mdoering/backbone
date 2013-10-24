@@ -1,5 +1,4 @@
-Taeniospora gracilis var. gracilis Marvanová, 1977 VARIETY
-=======
+# Taeniospora gracilis Marvanová SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Trans. Br. mycol. Soc. 69(1): 146 (1977)
 
 #### Original name
-Taeniospora gracilis var. gracilis Marvanová, 1977
+Taeniospora gracilis Marvanová
 
 ### Remarks
 null

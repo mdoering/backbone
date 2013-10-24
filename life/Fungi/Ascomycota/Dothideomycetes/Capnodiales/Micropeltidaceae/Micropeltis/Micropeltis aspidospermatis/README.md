@@ -1,5 +1,4 @@
-Micropeltis aspidospermatis Bat. & A.F. Vital SPECIES
-=======
+# Micropeltis aspidospermatis Bat. & A.F. Vital SPECIES
 
 #### Status
 ACCEPTED

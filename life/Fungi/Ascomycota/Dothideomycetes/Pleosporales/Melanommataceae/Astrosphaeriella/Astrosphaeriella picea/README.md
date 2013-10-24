@@ -1,5 +1,4 @@
-Astrosphaeriella picea (Shirley) Aptroot SPECIES
-=======
+# Astrosphaeriella picea (Shirley) Aptroot SPECIES
 
 #### Status
 ACCEPTED

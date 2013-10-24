@@ -1,5 +1,4 @@
-Planopulvinulina Schubert, 1920 GENUS
-=======
+# Planopulvinulina Schubert, 1920 GENUS
 
 #### Status
 ACCEPTED

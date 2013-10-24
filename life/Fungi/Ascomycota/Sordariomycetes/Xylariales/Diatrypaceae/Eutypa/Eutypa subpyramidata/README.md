@@ -1,5 +1,4 @@
-Eutypa subpyramidata Berk. & M.A. Curtis SPECIES
-=======
+# Eutypa subpyramidata Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

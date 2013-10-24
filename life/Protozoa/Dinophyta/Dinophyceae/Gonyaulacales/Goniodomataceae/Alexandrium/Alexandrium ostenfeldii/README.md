@@ -1,8 +1,7 @@
-Triadinium ostenfeldii (Paulsen) Dodge SPECIES
-=======
+# Alexandrium ostenfeldii (Paulsen) Balech & Tangen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Pythium megacarpum B. Paul SPECIES
-=======
+# Pythium megacarpum B. Paul SPECIES
 
 #### Status
 ACCEPTED

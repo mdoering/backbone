@@ -1,5 +1,4 @@
-Helvella affinis Velen. SPECIES
-=======
+# Helvella affinis Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius flammeus Berk. SPECIES
-=======
+# Cortinarius flammeus Berk. SPECIES
 
 #### Status
 ACCEPTED

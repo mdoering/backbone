@@ -1,5 +1,4 @@
-Polyporus polychromus Copel. SPECIES
-=======
+# Polyporus polychromus Copel. SPECIES
 
 #### Status
 ACCEPTED

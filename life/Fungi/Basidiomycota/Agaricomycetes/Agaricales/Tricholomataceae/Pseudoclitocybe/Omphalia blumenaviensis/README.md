@@ -1,5 +1,4 @@
-Omphalia blumenaviensis Henn. SPECIES
-=======
+# Omphalia blumenaviensis Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cintractia holci anon. SPECIES
-=======
+# Cintractia holci anon. SPECIES
 
 #### Status
 ACCEPTED

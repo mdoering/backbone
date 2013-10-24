@@ -1,5 +1,4 @@
-Dragescoa Yankovskii, 1974 GENUS
-=======
+# Dragescoa Yankovskii, 1974 GENUS
 
 #### Status
 ACCEPTED

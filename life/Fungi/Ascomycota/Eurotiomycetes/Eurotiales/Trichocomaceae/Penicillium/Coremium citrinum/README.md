@@ -1,5 +1,4 @@
-Coremium citrinum Pers. SPECIES
-=======
+# Coremium citrinum Pers. SPECIES
 
 #### Status
 ACCEPTED

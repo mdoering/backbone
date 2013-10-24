@@ -1,5 +1,4 @@
-Cryptophaeella trematosphaeriicola Frolov SPECIES
-=======
+# Cryptophaeella trematosphaeriicola Frolov SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia hansfordii Wakef. SPECIES
-=======
+# Puccinia hansfordii Wakef. SPECIES
 
 #### Status
 ACCEPTED

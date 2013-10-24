@@ -1,5 +1,4 @@
-Reimnitzia Kalb GENUS
-=======
+# Reimnitzia Kalb GENUS
 
 #### Status
 ACCEPTED

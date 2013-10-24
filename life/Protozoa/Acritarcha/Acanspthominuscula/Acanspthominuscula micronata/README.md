@@ -1,5 +1,4 @@
-Acanspthominuscula micronata Pykhova, 1966 SPECIES
-=======
+# Acanspthominuscula micronata Pykhova, 1966 SPECIES
 
 #### Status
 ACCEPTED

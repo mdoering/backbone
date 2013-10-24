@@ -1,5 +1,4 @@
-Septoria schembelii Melnik SPECIES
-=======
+# Septoria schembelii Melnik SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora lividocarpa Motyka SPECIES
-=======
+# Lecanora lividocarpa Motyka SPECIES
 
 #### Status
 ACCEPTED

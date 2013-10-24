@@ -1,5 +1,4 @@
-Placodium configuratum f. configuratum FORM
-=======
+# Placodium configuratum (Nyl.) Lojka ex Oxner SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Placodium configuratum f. configuratum
+Lecanora configurata Nyl.
 
 ### Remarks
 null

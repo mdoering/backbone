@@ -1,5 +1,4 @@
-Skvortzovia Bononi & Hjortstam GENUS
-=======
+# Skvortzovia Bononi & Hjortstam GENUS
 
 #### Status
 ACCEPTED

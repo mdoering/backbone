@@ -1,5 +1,4 @@
-Typhula stolonifera Quél. SPECIES
-=======
+# Typhula stolonifera Quél. SPECIES
 
 #### Status
 ACCEPTED

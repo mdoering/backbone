@@ -1,5 +1,4 @@
-Pyrenotrichaceae Zahlbr., 1926 FAMILY
-=======
+# Pyrenotrichaceae Zahlbr., 1926 FAMILY
 
 #### Status
 ACCEPTED

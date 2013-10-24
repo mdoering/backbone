@@ -1,5 +1,4 @@
-Ceratocystis miniata Olchow. & J. Reid SPECIES
-=======
+# Ceratocystis miniata Olchow. & J. Reid SPECIES
 
 #### Status
 ACCEPTED

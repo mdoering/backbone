@@ -1,5 +1,4 @@
-Athenagalea J.G.Hattner & S.W.Wise Jr., 1980 GENUS
-=======
+# Athenagalea J.G.Hattner & S.W.Wise Jr., 1980 GENUS
 
 #### Status
 ACCEPTED

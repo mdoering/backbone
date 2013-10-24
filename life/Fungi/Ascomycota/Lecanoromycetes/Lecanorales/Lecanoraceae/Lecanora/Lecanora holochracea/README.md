@@ -1,5 +1,4 @@
-Lecanora holochracea Nyl. SPECIES
-=======
+# Lecanora holochracea Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleoravenelia tephrosiae (Kalchbr.) Long SPECIES
-=======
+# Pleoravenelia tephrosiae (Kalchbr.) Long SPECIES
 
 #### Status
 ACCEPTED

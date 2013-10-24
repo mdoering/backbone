@@ -1,5 +1,4 @@
-Mycena fuligineipapillata Robich SPECIES
-=======
+# Mycena fuligineipapillata Robich SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia guineae Unamuno SPECIES
-=======
+# Diplodia guineae Unamuno SPECIES
 
 #### Status
 ACCEPTED

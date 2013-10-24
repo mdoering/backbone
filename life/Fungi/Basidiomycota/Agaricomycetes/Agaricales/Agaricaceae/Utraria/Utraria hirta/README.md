@@ -1,5 +1,4 @@
-Utraria hirta Quél. SPECIES
-=======
+# Utraria hirta Quél. SPECIES
 
 #### Status
 ACCEPTED

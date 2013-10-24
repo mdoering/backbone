@@ -1,5 +1,4 @@
-Heterosporium asperatum Massee SPECIES
-=======
+# Heterosporium asperatum Massee SPECIES
 
 #### Status
 ACCEPTED

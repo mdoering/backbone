@@ -1,17 +1,16 @@
-Asteridiella capparidigena Hosag. SPECIES
-=======
+# Asteridiella capparigena Hosag. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Hosagoudar, Biju & Appaiah, Journal of Mycopathological Research 44(1): 3 (2006)
 
 #### Original name
-Asteridiella capparidigena Hosag.
+Asteridiella capparigena Hosag.
 
 ### Remarks
 null

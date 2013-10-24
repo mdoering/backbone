@@ -1,5 +1,4 @@
-Aecidium puspa Racib. SPECIES
-=======
+# Aecidium puspa Racib. SPECIES
 
 #### Status
 ACCEPTED

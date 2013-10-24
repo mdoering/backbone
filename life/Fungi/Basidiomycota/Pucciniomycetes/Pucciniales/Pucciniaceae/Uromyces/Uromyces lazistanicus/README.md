@@ -1,5 +1,4 @@
-Uromyces lazistanicus Petr. SPECIES
-=======
+# Uromyces lazistanicus Petr. SPECIES
 
 #### Status
 ACCEPTED

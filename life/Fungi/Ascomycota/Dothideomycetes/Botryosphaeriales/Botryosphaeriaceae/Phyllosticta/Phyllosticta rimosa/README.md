@@ -1,5 +1,4 @@
-Phyllosticta rimosa (Westend.) Oudem. SPECIES
-=======
+# Phyllosticta rimosa (Westend.) Oudem. SPECIES
 
 #### Status
 ACCEPTED

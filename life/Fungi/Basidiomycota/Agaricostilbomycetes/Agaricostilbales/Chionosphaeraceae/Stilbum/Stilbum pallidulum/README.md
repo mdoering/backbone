@@ -1,5 +1,4 @@
-Stilbum pallidulum Penz. & Sacc. SPECIES
-=======
+# Stilbum pallidulum Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

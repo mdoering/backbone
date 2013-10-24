@@ -1,5 +1,4 @@
-Aecidium sarcinatum Lindr. SPECIES
-=======
+# Aecidium sarcinatum Lindr. SPECIES
 
 #### Status
 ACCEPTED

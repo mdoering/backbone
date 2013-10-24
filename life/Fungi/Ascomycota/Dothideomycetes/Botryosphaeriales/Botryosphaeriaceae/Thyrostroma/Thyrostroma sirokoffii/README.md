@@ -1,5 +1,4 @@
-Thyrostroma sirokoffii (Bubák) Höhn. SPECIES
-=======
+# Thyrostroma sirokoffii (Bubák) Höhn. SPECIES
 
 #### Status
 ACCEPTED

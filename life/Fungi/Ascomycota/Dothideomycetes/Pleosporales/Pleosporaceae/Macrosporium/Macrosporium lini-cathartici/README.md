@@ -1,5 +1,4 @@
-Macrosporium lini-cathartici Unamuno SPECIES
-=======
+# Macrosporium lini-cathartici Unamuno SPECIES
 
 #### Status
 ACCEPTED

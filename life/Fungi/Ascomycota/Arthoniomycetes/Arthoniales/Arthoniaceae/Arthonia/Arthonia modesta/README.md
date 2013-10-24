@@ -1,5 +1,4 @@
-Arthonia modesta C.W. Dodge SPECIES
-=======
+# Arthonia modesta C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

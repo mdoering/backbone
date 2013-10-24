@@ -1,5 +1,4 @@
-Asteroma loefgrenii Rangel SPECIES
-=======
+# Asteroma loefgrenii Rangel SPECIES
 
 #### Status
 ACCEPTED

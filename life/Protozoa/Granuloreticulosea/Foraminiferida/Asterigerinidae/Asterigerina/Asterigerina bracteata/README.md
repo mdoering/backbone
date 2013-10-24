@@ -1,5 +1,4 @@
-Asterigerina bracteata Cushman, 1929 SPECIES
-=======
+# Asterigerina bracteata Cushman, 1929 SPECIES
 
 #### Status
 ACCEPTED

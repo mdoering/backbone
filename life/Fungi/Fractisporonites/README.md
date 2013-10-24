@@ -1,5 +1,4 @@
-Fractisporonites R.T. Clarke GENUS
-=======
+# Fractisporonites R.T. Clarke GENUS
 
 #### Status
 ACCEPTED

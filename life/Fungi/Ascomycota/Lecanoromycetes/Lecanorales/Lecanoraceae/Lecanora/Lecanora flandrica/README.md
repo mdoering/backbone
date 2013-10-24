@@ -1,5 +1,4 @@
-Lecanora flandrica B. de Lesd. SPECIES
-=======
+# Lecanora flandrica B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

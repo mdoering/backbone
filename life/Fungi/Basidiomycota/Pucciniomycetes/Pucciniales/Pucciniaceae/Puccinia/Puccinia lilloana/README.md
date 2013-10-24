@@ -1,5 +1,4 @@
-Puccinia lilloana J.C. Lindq. SPECIES
-=======
+# Puccinia lilloana J.C. Lindq. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laminaria cordata E.Y.Dawson, 1950 SPECIES
-=======
+# Laminaria cordata E.Y.Dawson, 1950 SPECIES
 
 #### Status
 ACCEPTED

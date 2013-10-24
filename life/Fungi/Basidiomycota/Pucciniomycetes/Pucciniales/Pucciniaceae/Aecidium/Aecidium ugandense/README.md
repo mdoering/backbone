@@ -1,5 +1,4 @@
-Aecidium ugandense Syd. & P. Syd. SPECIES
-=======
+# Aecidium ugandense Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

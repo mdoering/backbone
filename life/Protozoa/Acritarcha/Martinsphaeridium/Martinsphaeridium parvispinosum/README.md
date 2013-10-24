@@ -1,5 +1,4 @@
-Martinsphaeridium parvispinosum (Uutela & Tynni, 1991) Sarjeant & Vavrdová, 1997 SPECIES
-=======
+# Martinsphaeridium parvispinosum (Uutela & Tynni, 1991) Sarjeant & Vavrdová, 1997 SPECIES
 
 #### Status
 ACCEPTED

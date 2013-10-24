@@ -1,5 +1,4 @@
-Lecanora umbricolor H. Magn. SPECIES
-=======
+# Lecanora umbricolor H. Magn. SPECIES
 
 #### Status
 ACCEPTED

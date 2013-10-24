@@ -1,5 +1,4 @@
-Peziza gallinacea Peck SPECIES
-=======
+# Peziza gallinacea Peck SPECIES
 
 #### Status
 ACCEPTED

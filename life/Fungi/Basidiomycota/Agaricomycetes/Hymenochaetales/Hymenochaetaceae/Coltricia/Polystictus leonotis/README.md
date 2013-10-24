@@ -1,5 +1,4 @@
-Polystictus leonotis (Kalchbr.) Cooke SPECIES
-=======
+# Polystictus leonotis (Kalchbr.) Cooke SPECIES
 
 #### Status
 ACCEPTED

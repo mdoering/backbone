@@ -1,5 +1,4 @@
-Lecidea centralis Malme SPECIES
-=======
+# Lecidea centralis Malme SPECIES
 
 #### Status
 ACCEPTED

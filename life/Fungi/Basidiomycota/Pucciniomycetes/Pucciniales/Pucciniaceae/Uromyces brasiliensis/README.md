@@ -1,5 +1,4 @@
-Uromyces brasiliensis Trotter SPECIES
-=======
+# Uromyces brasiliensis Trotter SPECIES
 
 #### Status
 ACCEPTED

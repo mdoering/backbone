@@ -1,14 +1,13 @@
-Microspatha glauca P. Karst. SPECIES
-=======
+# Gyalideopsis glauca (P. Karst.) Lücking, Sérus. & Vezda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Revue mycol. , Toulouse 11: (1889)
+Lichenologist 37(2): 164 (2005)
 
 #### Original name
 Microspatha glauca P. Karst.

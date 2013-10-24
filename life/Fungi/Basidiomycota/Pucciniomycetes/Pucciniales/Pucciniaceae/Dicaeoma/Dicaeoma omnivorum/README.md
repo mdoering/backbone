@@ -1,5 +1,4 @@
-Dicaeoma omnivorum (Ellis & Everh.) Kuntze SPECIES
-=======
+# Dicaeoma omnivorum (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

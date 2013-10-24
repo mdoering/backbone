@@ -1,17 +1,16 @@
-Ascochyta coronariae Ellis & Davis, 1903 SPECIES
-=======
+# Diplocarpon mali Y. Harada & Sawamura, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Harada, Sawamura & Konno, Ann. phytopath. Soc. Japan 40(5): 415 (1974)
 
 #### Original name
-null
+Diplocarpon mali Y. Harada & Sawamura, 1974
 
 ### Remarks
 null

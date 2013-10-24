@@ -1,5 +1,4 @@
-Stropharia viridula (Schaeff.) Morgan SPECIES
-=======
+# Stropharia viridula (Schaeff.) Morgan SPECIES
 
 #### Status
 ACCEPTED

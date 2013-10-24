@@ -1,5 +1,4 @@
-Uredinopsis intermedia Kamei SPECIES
-=======
+# Uredinopsis intermedia Kamei SPECIES
 
 #### Status
 ACCEPTED

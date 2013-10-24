@@ -1,5 +1,4 @@
-Coriolus rubritinctus Murrill SPECIES
-=======
+# Coriolus rubritinctus Murrill SPECIES
 
 #### Status
 ACCEPTED

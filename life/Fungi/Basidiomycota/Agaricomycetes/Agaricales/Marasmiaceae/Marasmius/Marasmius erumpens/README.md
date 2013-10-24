@@ -1,5 +1,4 @@
-Marasmius erumpens Massee SPECIES
-=======
+# Marasmius erumpens Massee SPECIES
 
 #### Status
 ACCEPTED

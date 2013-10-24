@@ -1,17 +1,16 @@
-Coleroa casaresi var. plagiochilae Gonz. Frag. VARIETY
-=======
+# Epibryon plagiochilae (Gonz. Frag.) Döbbeler, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mitt. bot. StSamml. , Münch. 14: 293 (1978)
 
 #### Original name
-Coleroa casaresi var. plagiochilae Gonz. Frag.
+Coleroa casaresii var. plagiochilae Gonz. Frag., 1919
 
 ### Remarks
 null

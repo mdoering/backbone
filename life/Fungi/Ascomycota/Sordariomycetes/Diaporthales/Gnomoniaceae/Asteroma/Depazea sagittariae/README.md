@@ -1,5 +1,4 @@
-Depazea sagittariae Rabenh. SPECIES
-=======
+# Depazea sagittariae Rabenh. SPECIES
 
 #### Status
 ACCEPTED

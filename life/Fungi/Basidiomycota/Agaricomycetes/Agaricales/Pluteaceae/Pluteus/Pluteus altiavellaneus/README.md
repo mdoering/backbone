@@ -1,5 +1,4 @@
-Pluteus altiavellaneus Murrill SPECIES
-=======
+# Pluteus altiavellaneus Murrill SPECIES
 
 #### Status
 ACCEPTED

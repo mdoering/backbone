@@ -1,5 +1,4 @@
-Tolypothrix foreaui Fremy SPECIES
-=======
+# Tolypothrix foreaui Fremy SPECIES
 
 #### Status
 ACCEPTED

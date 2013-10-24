@@ -1,5 +1,4 @@
-Involutisporonites wilcoxii Elsik SPECIES
-=======
+# Involutisporonites wilcoxii Elsik SPECIES
 
 #### Status
 ACCEPTED

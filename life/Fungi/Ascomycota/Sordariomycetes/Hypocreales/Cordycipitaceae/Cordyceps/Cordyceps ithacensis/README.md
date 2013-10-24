@@ -1,5 +1,4 @@
-Cordyceps ithacensis Balazy & Bujak. SPECIES
-=======
+# Cordyceps ithacensis Balazy & Bujak. SPECIES
 
 #### Status
 ACCEPTED

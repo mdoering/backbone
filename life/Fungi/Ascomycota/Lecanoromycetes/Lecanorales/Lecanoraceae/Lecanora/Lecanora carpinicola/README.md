@@ -1,5 +1,4 @@
-Lecanora carpinicola Motyka SPECIES
-=======
+# Lecanora carpinicola Motyka SPECIES
 
 #### Status
 ACCEPTED

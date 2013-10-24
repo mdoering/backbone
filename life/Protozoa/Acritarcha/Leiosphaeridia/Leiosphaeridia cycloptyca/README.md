@@ -1,5 +1,4 @@
-Leiosphaeridia cycloptyca (Yin Leiming, 1980) Fensome et al., 1990 SPECIES
-=======
+# Leiosphaeridia cycloptyca (Yin Leiming, 1980) Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula kivuensis Buyck SPECIES
-=======
+# Russula kivuensis Buyck SPECIES
 
 #### Status
 ACCEPTED

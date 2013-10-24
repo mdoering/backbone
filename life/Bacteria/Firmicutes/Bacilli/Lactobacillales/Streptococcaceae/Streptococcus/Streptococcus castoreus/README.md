@@ -1,5 +1,4 @@
-Streptococcus castoreus Lawson et al., 2005 SPECIES
-=======
+# Streptococcus castoreus Lawson et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

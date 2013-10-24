@@ -1,5 +1,4 @@
-Humaria purpurea Schumach. SPECIES
-=======
+# Humaria purpurea Schumach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia achilleicola Petr. SPECIES
-=======
+# Puccinia achilleicola Petr. SPECIES
 
 #### Status
 ACCEPTED

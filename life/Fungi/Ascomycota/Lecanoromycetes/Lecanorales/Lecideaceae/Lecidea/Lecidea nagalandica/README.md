@@ -1,5 +1,4 @@
-Lecidea nagalandica G.P. Sinha & Kr.P. Singh SPECIES
-=======
+# Lecidea nagalandica G.P. Sinha & Kr.P. Singh SPECIES
 
 #### Status
 ACCEPTED

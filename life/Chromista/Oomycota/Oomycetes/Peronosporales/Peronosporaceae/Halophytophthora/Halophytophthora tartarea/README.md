@@ -1,5 +1,4 @@
-Halophytophthora tartarea Nakagiri & S.Y. Newell, 1994 SPECIES
-=======
+# Halophytophthora tartarea Nakagiri & S.Y. Newell, 1994 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Secotium malinvernianum Ces. SPECIES
-=======
+# Secotium malinvernianum Ces. SPECIES
 
 #### Status
 ACCEPTED

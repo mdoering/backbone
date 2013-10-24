@@ -1,5 +1,4 @@
-Aschersonia minutispora Hywel-Jones & Mongkolsamrit SPECIES
-=======
+# Aschersonia minutispora Hywel-Jones & Mongkolsamrit SPECIES
 
 #### Status
 ACCEPTED

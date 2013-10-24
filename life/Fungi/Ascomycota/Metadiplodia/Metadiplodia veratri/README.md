@@ -1,5 +1,4 @@
-Metadiplodia veratri (Earle) Zambett. SPECIES
-=======
+# Metadiplodia veratri (Earle) Zambett. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeronaema rhinanthi Lib. SPECIES
-=======
+# Sphaeronaema rhinanthi Lib. SPECIES
 
 #### Status
 ACCEPTED

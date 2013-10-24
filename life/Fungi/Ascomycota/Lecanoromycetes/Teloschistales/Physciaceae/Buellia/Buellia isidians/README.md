@@ -1,5 +1,4 @@
-Buellia isidians (Nyl.) Zahlbr. SPECIES
-=======
+# Buellia isidians (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

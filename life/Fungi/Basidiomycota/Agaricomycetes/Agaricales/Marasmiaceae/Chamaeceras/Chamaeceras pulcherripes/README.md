@@ -1,5 +1,4 @@
-Chamaeceras pulcherripes (Peck) Kuntze SPECIES
-=======
+# Chamaeceras pulcherripes (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Retecapsa octofenestrata SPECIES
-=======
+# Retecapsa octofenestrata SPECIES
 
 #### Status
 ACCEPTED

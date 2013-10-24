@@ -1,5 +1,4 @@
-Discosia potentillae Tehon SPECIES
-=======
+# Discosia potentillae Tehon SPECIES
 
 #### Status
 ACCEPTED

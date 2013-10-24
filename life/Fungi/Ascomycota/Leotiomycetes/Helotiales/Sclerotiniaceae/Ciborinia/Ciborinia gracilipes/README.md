@@ -1,5 +1,4 @@
-Ciborinia gracilipes (Cooke) Seaver SPECIES
-=======
+# Ciborinia gracilipes (Cooke) Seaver SPECIES
 
 #### Status
 ACCEPTED

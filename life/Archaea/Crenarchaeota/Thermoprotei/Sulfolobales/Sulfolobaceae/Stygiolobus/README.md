@@ -1,5 +1,4 @@
-Stygiolobus Segerer et al., 1991 GENUS
-=======
+# Stygiolobus Segerer et al., 1991 GENUS
 
 #### Status
 ACCEPTED

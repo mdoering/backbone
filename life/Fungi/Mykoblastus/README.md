@@ -1,5 +1,4 @@
-Mykoblastus Norman, 1853 GENUS
-=======
+# Mykoblastus Norman, 1853 GENUS
 
 #### Status
 ACCEPTED

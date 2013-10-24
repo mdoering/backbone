@@ -1,5 +1,4 @@
-Pertusaria hypostictica Jariangpr. SPECIES
-=======
+# Pertusaria hypostictica Jariangpr. SPECIES
 
 #### Status
 ACCEPTED

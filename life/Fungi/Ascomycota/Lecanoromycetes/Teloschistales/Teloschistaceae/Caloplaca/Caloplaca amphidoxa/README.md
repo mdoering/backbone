@@ -1,5 +1,4 @@
-Caloplaca amphidoxa (Stizenb.) Zahlbr. SPECIES
-=======
+# Caloplaca amphidoxa (Stizenb.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

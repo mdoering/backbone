@@ -1,5 +1,4 @@
-Leptogium marcii Harm. SPECIES
-=======
+# Leptogium marcii Harm. SPECIES
 
 #### Status
 ACCEPTED

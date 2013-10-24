@@ -1,5 +1,4 @@
-Leptinia GENUS
-=======
+# Leptinia GENUS
 
 #### Status
 ACCEPTED

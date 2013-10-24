@@ -1,5 +1,4 @@
-Puccinia okatamaensis S. Ito SPECIES
-=======
+# Puccinia okatamaensis S. Ito SPECIES
 
 #### Status
 ACCEPTED

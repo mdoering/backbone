@@ -1,5 +1,4 @@
-Rutilaria hannae subsp. hannae SUBSPECIES
-=======
+# Rutilaria hannae SPECIES
 
 #### Status
 ACCEPTED

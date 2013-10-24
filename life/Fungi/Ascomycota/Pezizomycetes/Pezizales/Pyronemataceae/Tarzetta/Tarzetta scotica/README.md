@@ -1,14 +1,13 @@
-Pustularia scotica Rea, 1928 SPECIES
-=======
+# Tarzetta scotica (Rea) Y.J. Yao & Spooner, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 13: 258 (1928)
+Mycol. Res. 106(10): 1245 (2002)
 
 #### Original name
 Pustularia scotica Rea, 1928

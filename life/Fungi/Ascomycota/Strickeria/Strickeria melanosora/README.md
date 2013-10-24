@@ -1,5 +1,4 @@
-Strickeria melanosora Kirschst. SPECIES
-=======
+# Strickeria melanosora Kirschst. SPECIES
 
 #### Status
 ACCEPTED

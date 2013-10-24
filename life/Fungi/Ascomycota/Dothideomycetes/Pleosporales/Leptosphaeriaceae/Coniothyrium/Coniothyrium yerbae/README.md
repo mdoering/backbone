@@ -1,5 +1,4 @@
-Coniothyrium yerbae Speg. SPECIES
-=======
+# Coniothyrium yerbae Speg. SPECIES
 
 #### Status
 ACCEPTED

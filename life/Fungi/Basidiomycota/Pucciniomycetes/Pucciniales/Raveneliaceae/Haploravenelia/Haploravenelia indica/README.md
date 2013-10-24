@@ -1,5 +1,4 @@
-Haploravenelia indica (Berk.) Syd. SPECIES
-=======
+# Haploravenelia indica (Berk.) Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizophydium stipitatum Sparrow, 1957 SPECIES
-=======
+# Rhizophydium stipitatum Sparrow, 1957 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microthyriella anthuriifolii Bat. & Nascim. SPECIES
-=======
+# Microthyriella anthuriifolii Bat. & Nascim. SPECIES
 
 #### Status
 ACCEPTED

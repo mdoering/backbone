@@ -1,5 +1,4 @@
-Endocarpon lundardii B. de Lesd. SPECIES
-=======
+# Endocarpon lundardii B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

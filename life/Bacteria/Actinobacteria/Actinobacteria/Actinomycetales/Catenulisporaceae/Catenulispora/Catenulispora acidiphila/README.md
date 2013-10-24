@@ -1,5 +1,4 @@
-Catenulispora acidiphila Busti et al., 2006 SPECIES
-=======
+# Catenulispora acidiphila Busti et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

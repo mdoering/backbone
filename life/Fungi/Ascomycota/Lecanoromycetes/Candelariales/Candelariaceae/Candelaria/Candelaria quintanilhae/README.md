@@ -1,5 +1,4 @@
-Candelaria quintanilhae Tav. SPECIES
-=======
+# Candelaria quintanilhae Tav. SPECIES
 
 #### Status
 ACCEPTED

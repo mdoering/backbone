@@ -1,5 +1,4 @@
-Buellia perspersa J. Steiner SPECIES
-=======
+# Buellia perspersa J. Steiner SPECIES
 
 #### Status
 ACCEPTED

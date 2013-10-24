@@ -1,5 +1,4 @@
-Diaporthe mattfeldii Petr. SPECIES
-=======
+# Diaporthe mattfeldii Petr. SPECIES
 
 #### Status
 ACCEPTED

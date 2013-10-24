@@ -1,5 +1,4 @@
-Puccinia persica Wettst. SPECIES
-=======
+# Puccinia persica Wettst. SPECIES
 
 #### Status
 ACCEPTED

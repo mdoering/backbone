@@ -1,5 +1,4 @@
-Follmanniella Peine & B. Werner GENUS
-=======
+# Follmanniella Peine & B. Werner GENUS
 
 #### Status
 ACCEPTED

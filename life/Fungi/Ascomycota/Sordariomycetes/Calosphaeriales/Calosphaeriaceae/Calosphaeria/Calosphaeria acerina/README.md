@@ -1,5 +1,4 @@
-Calosphaeria acerina Ellis & Everh. SPECIES
-=======
+# Calosphaeria acerina Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pestalotia veronicae Herrera {?} SPECIES
-=======
+# Pestalotia veronicae Herrera {?} SPECIES
 
 #### Status
 ACCEPTED

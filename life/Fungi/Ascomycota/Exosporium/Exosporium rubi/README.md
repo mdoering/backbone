@@ -1,5 +1,4 @@
-Exosporium rubi Nees SPECIES
-=======
+# Exosporium rubi Nees SPECIES
 
 #### Status
 ACCEPTED

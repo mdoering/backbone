@@ -1,5 +1,4 @@
-Aquaspirillum itersonii subsp. itersonii SUBSPECIES
-=======
+# Aquaspirillum itersonii (Giesberger, 1936) Hylemon et al., 1973 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leccinum disarticulatum A.H. Sm. & Thiers SPECIES
-=======
+# Leccinum disarticulatum A.H. Sm. & Thiers SPECIES
 
 #### Status
 ACCEPTED

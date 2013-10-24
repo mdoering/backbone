@@ -1,5 +1,4 @@
-Mycena yuulongicola Grgur. SPECIES
-=======
+# Mycena yuulongicola Grgur. SPECIES
 
 #### Status
 ACCEPTED

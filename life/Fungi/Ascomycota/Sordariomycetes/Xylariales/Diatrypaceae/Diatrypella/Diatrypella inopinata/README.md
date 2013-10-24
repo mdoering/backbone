@@ -1,5 +1,4 @@
-Diatrypella inopinata Lar.N. Vassiljeva SPECIES
-=======
+# Diatrypella inopinata Lar.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

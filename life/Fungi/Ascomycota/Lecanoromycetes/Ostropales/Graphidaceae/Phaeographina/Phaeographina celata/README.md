@@ -1,5 +1,4 @@
-Phaeographina celata A.W. Archer SPECIES
-=======
+# Phaeographina celata A.W. Archer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia sidalceae Holw. SPECIES
-=======
+# Puccinia sidalceae Holw. SPECIES
 
 #### Status
 ACCEPTED

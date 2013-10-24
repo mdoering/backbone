@@ -1,5 +1,4 @@
-Uncinuliella rosae var. rosae R.Y. Zheng & G.Q. Chen VARIETY
-=======
+# Uncinuliella rosae R.Y. Zheng & G.Q. Chen SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Acta microbiol. sin. 19(3): 284 (1979)
 
 #### Original name
-Uncinuliella rosae var. rosae R.Y. Zheng & G.Q. Chen
+Uncinuliella rosae R.Y. Zheng & G.Q. Chen
 
 ### Remarks
 null

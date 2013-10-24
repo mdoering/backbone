@@ -1,5 +1,4 @@
-Clitopilus submicropus Rick SPECIES
-=======
+# Clitopilus submicropus Rick SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dendrosarcus schultzii (Kalchbr.) Kuntze SPECIES
-=======
+# Dendrosarcus schultzii (Kalchbr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parasterinopsis Bat. GENUS
-=======
+# Parasterinopsis Bat. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophiostoma erosum Ellis & Everh. SPECIES
-=======
+# Lophiostoma erosum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

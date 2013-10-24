@@ -1,5 +1,4 @@
-Peziza emarginata Berk. & Broome SPECIES
-=======
+# Peziza emarginata Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

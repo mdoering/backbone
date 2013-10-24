@@ -1,5 +1,4 @@
-Cercospora portilloi Unamuno SPECIES
-=======
+# Cercospora portilloi Unamuno SPECIES
 
 #### Status
 ACCEPTED

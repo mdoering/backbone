@@ -1,5 +1,4 @@
-Dioszegia catarinoi Á. Fonseca, J. Inácio & Spenc.-Mart. SPECIES
-=======
+# Dioszegia catarinoi Á. Fonseca, J. Inácio & Spenc.-Mart. SPECIES
 
 #### Status
 ACCEPTED

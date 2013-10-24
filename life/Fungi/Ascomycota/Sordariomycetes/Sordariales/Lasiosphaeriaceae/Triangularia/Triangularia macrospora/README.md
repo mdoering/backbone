@@ -1,5 +1,4 @@
-Triangularia macrospora Rikhy & Mukerji SPECIES
-=======
+# Triangularia macrospora Rikhy & Mukerji SPECIES
 
 #### Status
 ACCEPTED

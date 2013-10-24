@@ -1,5 +1,4 @@
-Skeletonema japonicum Zingone & Sarno, 2005 SPECIES
-=======
+# Skeletonema japonicum Zingone & Sarno, 2005 SPECIES
 
 #### Status
 ACCEPTED

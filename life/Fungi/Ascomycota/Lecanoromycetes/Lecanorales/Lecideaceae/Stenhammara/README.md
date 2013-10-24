@@ -1,5 +1,4 @@
-Stenhammara GENUS
-=======
+# Stenhammara GENUS
 
 #### Status
 ACCEPTED

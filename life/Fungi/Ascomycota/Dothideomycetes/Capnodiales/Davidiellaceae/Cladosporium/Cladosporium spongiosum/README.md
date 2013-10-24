@@ -1,14 +1,13 @@
-Helminthosporium spongiosum (Berk. & M.A. Curtis) Cif., 1962 SPECIES
-=======
+# Cladosporium spongiosum Berk. & M.A. Curtis, 1868 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Atti Ist. bot. Univ. Lab. crittog. Pavia, Sér. 5 19: 109 (1962)
+in Berkeley, J. Linn. Soc. , Bot. 10(no. 46): 362 (1868)
 
 #### Original name
 Cladosporium spongiosum Berk. & M.A. Curtis, 1868

@@ -1,5 +1,4 @@
-Anthostoma bicinctum (Syd. & P. Syd.) S. Ahmad SPECIES
-=======
+# Anthostoma bicinctum (Syd. & P. Syd.) S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

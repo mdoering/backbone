@@ -1,5 +1,4 @@
-Lecidea atrolutescens Nyl. SPECIES
-=======
+# Lecidea atrolutescens Nyl. SPECIES
 
 #### Status
 ACCEPTED

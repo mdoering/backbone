@@ -1,5 +1,4 @@
-Septoria autumnalis Speg. SPECIES
-=======
+# Septoria autumnalis Speg. SPECIES
 
 #### Status
 ACCEPTED

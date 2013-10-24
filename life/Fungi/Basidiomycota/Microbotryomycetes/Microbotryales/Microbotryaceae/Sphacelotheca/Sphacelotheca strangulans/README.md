@@ -1,5 +1,4 @@
-Sphacelotheca strangulans (Issatsch.) Moesz SPECIES
-=======
+# Sphacelotheca strangulans (Issatsch.) Moesz SPECIES
 
 #### Status
 ACCEPTED

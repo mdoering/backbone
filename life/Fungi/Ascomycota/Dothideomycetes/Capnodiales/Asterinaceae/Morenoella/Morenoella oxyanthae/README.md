@@ -1,5 +1,4 @@
-Morenoella oxyanthae Doidge SPECIES
-=======
+# Morenoella oxyanthae Doidge SPECIES
 
 #### Status
 ACCEPTED

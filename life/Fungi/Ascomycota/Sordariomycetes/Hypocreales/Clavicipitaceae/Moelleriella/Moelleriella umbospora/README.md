@@ -1,5 +1,4 @@
-Moelleriella umbospora P. Chaverri & K.T. Hodge SPECIES
-=======
+# Moelleriella umbospora P. Chaverri & K.T. Hodge SPECIES
 
 #### Status
 ACCEPTED

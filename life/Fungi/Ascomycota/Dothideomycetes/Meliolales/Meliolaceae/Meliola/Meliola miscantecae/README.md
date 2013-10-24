@@ -1,5 +1,4 @@
-Meliola miscantecae Hansf. SPECIES
-=======
+# Meliola miscantecae Hansf. SPECIES
 
 #### Status
 ACCEPTED

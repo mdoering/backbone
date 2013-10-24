@@ -1,5 +1,4 @@
-Phaeolus subbulbipes (Henn.) O. Fidalgo & M. Fidalgo SPECIES
-=======
+# Phaeolus subbulbipes (Henn.) O. Fidalgo & M. Fidalgo SPECIES
 
 #### Status
 ACCEPTED

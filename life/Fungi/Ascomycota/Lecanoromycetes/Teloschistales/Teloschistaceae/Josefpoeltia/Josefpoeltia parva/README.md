@@ -1,14 +1,13 @@
-Xanthoria parva Räsänen SPECIES
-=======
+# Josefpoeltia parva (Räsänen) Frödén & L. Lindblom SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bryologist 106(3): 447 (2003)
 
 #### Original name
 Xanthoria parva Räsänen

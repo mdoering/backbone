@@ -1,5 +1,4 @@
-Uredo susica Maire SPECIES
-=======
+# Uredo susica Maire SPECIES
 
 #### Status
 ACCEPTED

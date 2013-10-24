@@ -1,5 +1,4 @@
-Hemiaulus tenuicornis Greville SPECIES
-=======
+# Hemiaulus tenuicornis Greville SPECIES
 
 #### Status
 ACCEPTED

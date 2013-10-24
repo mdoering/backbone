@@ -1,5 +1,4 @@
-Gloeosporium ochrostictum Sacc. SPECIES
-=======
+# Gloeosporium ochrostictum Sacc. SPECIES
 
 #### Status
 ACCEPTED

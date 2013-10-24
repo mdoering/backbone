@@ -1,14 +1,13 @@
-Biatora turfosa A. Massal. SPECIES
-=======
+# Micarea turfosa (A. Massal.) Du Rietz SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ric. auton. lich. crost. (Verona) 128 (1852)
+Svensk bot. Tidskr. 17: 94 (1923)
 
 #### Original name
 Biatora turfosa A. Massal.

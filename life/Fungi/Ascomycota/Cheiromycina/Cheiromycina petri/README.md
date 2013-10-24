@@ -1,5 +1,4 @@
-Cheiromycina petri D. Hawksw. & Poelt SPECIES
-=======
+# Cheiromycina petri D. Hawksw. & Poelt SPECIES
 
 #### Status
 ACCEPTED

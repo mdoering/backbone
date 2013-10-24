@@ -1,5 +1,4 @@
-Gymnodinium halophilum Biecheler SPECIES
-=======
+# Gymnodinium halophilum Biecheler SPECIES
 
 #### Status
 ACCEPTED

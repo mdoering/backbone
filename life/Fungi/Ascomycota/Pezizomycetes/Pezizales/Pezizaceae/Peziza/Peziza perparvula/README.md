@@ -1,5 +1,4 @@
-Peziza perparvula anon. SPECIES
-=======
+# Peziza perparvula anon. SPECIES
 
 #### Status
 ACCEPTED

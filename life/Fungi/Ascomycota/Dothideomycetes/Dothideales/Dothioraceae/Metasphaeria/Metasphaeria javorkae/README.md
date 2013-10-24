@@ -1,5 +1,4 @@
-Metasphaeria javorkae Moesz SPECIES
-=======
+# Metasphaeria javorkae Moesz SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnozoum sympagicum Petz, Song & Wilbert, 1995 SPECIES
-=======
+# Gymnozoum sympagicum Petz, Song & Wilbert, 1995 SPECIES
 
 #### Status
 ACCEPTED

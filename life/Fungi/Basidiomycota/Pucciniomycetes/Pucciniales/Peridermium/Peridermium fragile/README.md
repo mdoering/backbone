@@ -1,5 +1,4 @@
-Peridermium fragile Hedgc. & N.R. Hunt SPECIES
-=======
+# Peridermium fragile Hedgc. & N.R. Hunt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chrysothrix occidentalis Elix & Kantvilas SPECIES
-=======
+# Chrysothrix occidentalis Elix & Kantvilas SPECIES
 
 #### Status
 ACCEPTED

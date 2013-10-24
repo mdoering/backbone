@@ -1,14 +1,13 @@
-Coelomonas F. Stein, 1878 GENUS
-=======
+# Vacuolaria Cienkowski, 1870 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Organ. Infus. , 3, Abt. 1, pl. 13.
+Arch. mikr. Anat. , 6, 426.
 
 #### Original name
 null

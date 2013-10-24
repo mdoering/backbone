@@ -1,5 +1,4 @@
-Ascobolus bistisii Gamundí & Ranalli, 1966 SPECIES
-=======
+# Ascobolus bistisii Gamundí & Ranalli, 1966 SPECIES
 
 #### Status
 ACCEPTED

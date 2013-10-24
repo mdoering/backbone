@@ -1,5 +1,4 @@
-Puccinia chaetochloae Arthur, 1907 SPECIES
-=======
+# Puccinia chaetochloae Arthur, 1907 SPECIES
 
 #### Status
 ACCEPTED

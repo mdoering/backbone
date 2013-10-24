@@ -1,5 +1,4 @@
-Uromyces silenes-ponticae Const. SPECIES
-=======
+# Uromyces silenes-ponticae Const. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tylophoron orientale (Zahlbr.) M. Satô SPECIES
-=======
+# Tylophoron orientale (Zahlbr.) M. Satô SPECIES
 
 #### Status
 ACCEPTED

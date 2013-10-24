@@ -1,5 +1,4 @@
-Darkera parca H.S. Whitney, J. Reid & Piroz., 1975 SPECIES
-=======
+# Darkera parca H.S. Whitney, J. Reid & Piroz., 1975 SPECIES
 
 #### Status
 ACCEPTED

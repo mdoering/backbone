@@ -1,5 +1,4 @@
-Agaricus poetschii Schulzer SPECIES
-=======
+# Agaricus poetschii Schulzer SPECIES
 
 #### Status
 ACCEPTED

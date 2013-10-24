@@ -1,5 +1,4 @@
-Placodiplodia parinarii Zambett. SPECIES
-=======
+# Placodiplodia parinarii Zambett. SPECIES
 
 #### Status
 ACCEPTED

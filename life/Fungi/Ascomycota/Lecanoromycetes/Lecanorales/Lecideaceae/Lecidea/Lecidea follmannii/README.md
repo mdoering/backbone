@@ -1,5 +1,4 @@
-Lecidea follmannii Riedl SPECIES
-=======
+# Lecidea follmannii Riedl SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trappea pinyonensis States, 1991 SPECIES
-=======
+# Trappea pinyonensis States, 1991 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trochilia pusilla (Claparède & Lachmann, 1859) Diesing, 1866 SPECIES
-=======
+# Trochilia pusilla (Claparède & Lachmann, 1859) Diesing, 1866 SPECIES
 
 #### Status
 ACCEPTED

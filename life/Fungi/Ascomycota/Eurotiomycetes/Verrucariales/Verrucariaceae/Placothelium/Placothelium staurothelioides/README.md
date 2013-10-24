@@ -1,5 +1,4 @@
-Placothelium staurothelioides Müll. Arg. SPECIES
-=======
+# Placothelium staurothelioides Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

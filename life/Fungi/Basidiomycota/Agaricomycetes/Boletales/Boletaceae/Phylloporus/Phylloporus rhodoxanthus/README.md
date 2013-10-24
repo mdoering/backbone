@@ -1,17 +1,16 @@
-Phylloporus rhodoxanthus subsp. rhodoxanthus SUBSPECIES
-=======
+# Phylloporus rhodoxanthus (Schwein.) Bres., 1900 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fung. trident. 2(14): 95 (1900)
+Bull. Jard. Bot. État 25(2): 174 (1955)
 
 #### Original name
-Phylloporus rhodoxanthus subsp. rhodoxanthus
+Phylloporus rhodoxanthus (Schwein.) Bres., 1900
 
 ### Remarks
 null

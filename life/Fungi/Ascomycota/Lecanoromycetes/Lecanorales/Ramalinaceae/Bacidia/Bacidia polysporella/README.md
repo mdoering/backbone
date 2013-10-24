@@ -1,5 +1,4 @@
-Bacidia polysporella (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Bacidia polysporella (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

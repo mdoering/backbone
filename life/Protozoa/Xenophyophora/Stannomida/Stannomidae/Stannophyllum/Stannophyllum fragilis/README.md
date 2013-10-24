@@ -1,5 +1,4 @@
-Stannophyllum fragilis Tendal, 1972 SPECIES
-=======
+# Stannophyllum fragilis Tendal, 1972 SPECIES
 
 #### Status
 ACCEPTED

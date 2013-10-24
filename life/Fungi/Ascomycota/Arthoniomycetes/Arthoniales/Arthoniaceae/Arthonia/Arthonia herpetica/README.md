@@ -1,5 +1,4 @@
-Arthonia herpetica G. Mey. SPECIES
-=======
+# Arthonia herpetica G. Mey. SPECIES
 
 #### Status
 ACCEPTED

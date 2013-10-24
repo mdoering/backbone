@@ -1,17 +1,16 @@
-Rhipidonema puiggari Speg. SPECIES
-=======
+# Rhipidonema puiggarii Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Boletín de la Soc. Ciencias de Córdoba 23(3-4): 70 [reprint] (1919)
 
 #### Original name
-Rhipidonema puiggari Speg.
+Rhipidonema puiggarii Speg.
 
 ### Remarks
 null

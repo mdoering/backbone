@@ -1,5 +1,4 @@
-Coleosporium begoniae Arthur SPECIES
-=======
+# Coleosporium begoniae Arthur SPECIES
 
 #### Status
 ACCEPTED

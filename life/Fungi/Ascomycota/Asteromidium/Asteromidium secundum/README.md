@@ -1,5 +1,4 @@
-Asteromidium secundum Bat. & Peres SPECIES
-=======
+# Asteromidium secundum Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

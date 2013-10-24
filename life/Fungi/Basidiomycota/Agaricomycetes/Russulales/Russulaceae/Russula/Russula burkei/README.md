@@ -1,5 +1,4 @@
-Russula burkei Burl. SPECIES
-=======
+# Russula burkei Burl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetomium fusisporum G. Sm., 1961 SPECIES
-=======
+# Chaetomium fusisporum G. Sm., 1961 SPECIES
 
 #### Status
 ACCEPTED

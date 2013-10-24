@@ -1,5 +1,4 @@
-Agaricus lepidocephalus J. Otto SPECIES
-=======
+# Agaricus lepidocephalus J. Otto SPECIES
 
 #### Status
 ACCEPTED

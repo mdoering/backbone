@@ -1,5 +1,4 @@
-Candida rhoi (Castell. & Chalm.) F.P. Almeida SPECIES
-=======
+# Candida rhoi (Castell. & Chalm.) F.P. Almeida SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gemmatimonadaceae FAMILY
-=======
+# Gemmatimonadaceae FAMILY
 
 #### Status
 ACCEPTED

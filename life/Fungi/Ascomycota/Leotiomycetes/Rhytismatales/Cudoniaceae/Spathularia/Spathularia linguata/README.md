@@ -1,5 +1,4 @@
-Spathularia linguata A.E. Johnson SPECIES
-=======
+# Spathularia linguata A.E. Johnson SPECIES
 
 #### Status
 ACCEPTED

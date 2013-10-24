@@ -1,5 +1,4 @@
-Bacidia multiseptata (Shirley) Zahlbr. SPECIES
-=======
+# Bacidia multiseptata (Shirley) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

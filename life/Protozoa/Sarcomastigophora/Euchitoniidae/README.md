@@ -1,5 +1,4 @@
-Euchitoniidae FAMILY
-=======
+# Euchitoniidae FAMILY
 
 #### Status
 ACCEPTED

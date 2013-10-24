@@ -1,5 +1,4 @@
-Gloiogullmia Nyholm, 1974 GENUS
-=======
+# Gloiogullmia Nyholm, 1974 GENUS
 
 #### Status
 ACCEPTED

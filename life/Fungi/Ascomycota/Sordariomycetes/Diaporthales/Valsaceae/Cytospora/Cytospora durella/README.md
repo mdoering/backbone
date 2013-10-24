@@ -1,5 +1,4 @@
-Cytospora durella Sacc. SPECIES
-=======
+# Cytospora durella Sacc. SPECIES
 
 #### Status
 ACCEPTED

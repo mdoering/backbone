@@ -1,14 +1,13 @@
-Coleosporium crowellii Cummins, 1938 SPECIES
-=======
+# Gallowaya crowellii (Cummins) Thirum., 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Phytopathology 28: 522 (1938)
+Indian Phytopath. 2: 204 (1949)
 
 #### Original name
 Coleosporium crowellii Cummins, 1938

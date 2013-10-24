@@ -1,5 +1,4 @@
-Usnea furfurosula (Zahlbr.) Motyka SPECIES
-=======
+# Usnea furfurosula (Zahlbr.) Motyka SPECIES
 
 #### Status
 ACCEPTED

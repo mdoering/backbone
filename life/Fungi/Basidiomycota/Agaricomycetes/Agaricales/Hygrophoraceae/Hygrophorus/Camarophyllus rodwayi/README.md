@@ -1,5 +1,4 @@
-Camarophyllus rodwayi (Massee) Monks & A.K. Mills SPECIES
-=======
+# Camarophyllus rodwayi (Massee) Monks & A.K. Mills SPECIES
 
 #### Status
 ACCEPTED

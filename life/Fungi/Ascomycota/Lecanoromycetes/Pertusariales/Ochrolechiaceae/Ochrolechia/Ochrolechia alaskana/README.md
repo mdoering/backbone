@@ -1,5 +1,4 @@
-Ochrolechia alaskana (Verseghy) Kukwa SPECIES
-=======
+# Ochrolechia alaskana (Verseghy) Kukwa SPECIES
 
 #### Status
 ACCEPTED

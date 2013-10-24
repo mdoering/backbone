@@ -1,5 +1,4 @@
-Entomophthora aphrophorae Rostr., 1896 SPECIES
-=======
+# Entomophthora aphrophorae Rostr., 1896 SPECIES
 
 #### Status
 ACCEPTED

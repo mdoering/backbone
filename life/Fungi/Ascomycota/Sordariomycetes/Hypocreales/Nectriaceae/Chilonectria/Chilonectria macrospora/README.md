@@ -1,5 +1,4 @@
-Chilonectria macrospora Penz. & Sacc. SPECIES
-=======
+# Chilonectria macrospora Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

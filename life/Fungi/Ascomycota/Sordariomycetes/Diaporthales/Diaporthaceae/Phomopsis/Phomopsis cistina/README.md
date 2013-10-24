@@ -1,5 +1,4 @@
-Phomopsis cistina (Cooke) Grove SPECIES
-=======
+# Phomopsis cistina (Cooke) Grove SPECIES
 
 #### Status
 ACCEPTED

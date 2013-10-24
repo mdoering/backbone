@@ -1,5 +1,4 @@
-Marasmius borealis Gilliam SPECIES
-=======
+# Marasmius borealis Gilliam SPECIES
 
 #### Status
 ACCEPTED

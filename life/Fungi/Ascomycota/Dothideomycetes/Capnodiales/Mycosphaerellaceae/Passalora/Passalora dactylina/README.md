@@ -1,5 +1,4 @@
-Passalora dactylina Pass. SPECIES
-=======
+# Passalora dactylina Pass. SPECIES
 
 #### Status
 ACCEPTED

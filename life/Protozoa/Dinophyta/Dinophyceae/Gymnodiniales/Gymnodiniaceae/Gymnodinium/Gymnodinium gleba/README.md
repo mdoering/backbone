@@ -1,5 +1,4 @@
-Gymnodinium gleba Schott SPECIES
-=======
+# Gymnodinium gleba Schott SPECIES
 
 #### Status
 ACCEPTED

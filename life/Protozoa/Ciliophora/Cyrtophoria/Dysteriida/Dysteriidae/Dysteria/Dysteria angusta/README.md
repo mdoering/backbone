@@ -1,5 +1,4 @@
-Dysteria angusta SPECIES
-=======
+# Dysteria angusta SPECIES
 
 #### Status
 ACCEPTED

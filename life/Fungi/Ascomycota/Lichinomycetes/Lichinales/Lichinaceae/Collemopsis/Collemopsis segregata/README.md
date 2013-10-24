@@ -1,5 +1,4 @@
-Collemopsis segregata Nyl. SPECIES
-=======
+# Collemopsis segregata Nyl. SPECIES
 
 #### Status
 ACCEPTED

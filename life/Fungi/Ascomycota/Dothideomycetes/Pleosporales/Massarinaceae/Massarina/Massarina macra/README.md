@@ -1,5 +1,4 @@
-Massarina macra Vestergr. SPECIES
-=======
+# Massarina macra Vestergr. SPECIES
 
 #### Status
 ACCEPTED

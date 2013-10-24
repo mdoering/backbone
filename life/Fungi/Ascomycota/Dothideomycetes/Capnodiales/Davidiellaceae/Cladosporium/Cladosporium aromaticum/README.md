@@ -1,14 +1,13 @@
-Fusicladium aromaticum (Ellis & Everh.) K. Schub. & U. Braun, 2005 SPECIES
-=======
+# Cladosporium aromaticum Ellis & Everh., 1895 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fungal Diversity 20: 192 (2005)
+Proc. Acad. nat. Sci. Philad. 47: 439 (1895)
 
 #### Original name
 Cladosporium aromaticum Ellis & Everh., 1895

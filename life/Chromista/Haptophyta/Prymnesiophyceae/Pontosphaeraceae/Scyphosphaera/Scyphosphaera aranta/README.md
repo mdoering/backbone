@@ -1,5 +1,4 @@
-Scyphosphaera aranta Kamptner, 1967 SPECIES
-=======
+# Scyphosphaera aranta Kamptner, 1967 SPECIES
 
 #### Status
 ACCEPTED

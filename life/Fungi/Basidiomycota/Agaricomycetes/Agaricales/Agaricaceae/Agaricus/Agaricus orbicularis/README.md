@@ -1,5 +1,4 @@
-Agaricus orbicularis Fr. SPECIES
-=======
+# Agaricus orbicularis Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria desquamescens (Fée) Nyl. SPECIES
-=======
+# Verrucaria desquamescens (Fée) Nyl. SPECIES
 
 #### Status
 ACCEPTED

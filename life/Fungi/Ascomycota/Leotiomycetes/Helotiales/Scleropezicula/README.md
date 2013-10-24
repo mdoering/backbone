@@ -1,5 +1,4 @@
-Scleropezicula Verkley GENUS
-=======
+# Scleropezicula Verkley GENUS
 
 #### Status
 ACCEPTED

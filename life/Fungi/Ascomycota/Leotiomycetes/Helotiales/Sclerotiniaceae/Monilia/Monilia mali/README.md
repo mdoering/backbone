@@ -1,5 +1,4 @@
-Monilia mali anon. SPECIES
-=======
+# Monilia mali anon. SPECIES
 
 #### Status
 ACCEPTED

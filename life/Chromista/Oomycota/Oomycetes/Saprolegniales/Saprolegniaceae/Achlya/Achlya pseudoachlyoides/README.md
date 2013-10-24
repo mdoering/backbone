@@ -1,5 +1,4 @@
-Achlya pseudoachlyoides (Beneke) T.W. Johnson & R.L. Seym. SPECIES
-=======
+# Achlya pseudoachlyoides (Beneke) T.W. Johnson & R.L. Seym. SPECIES
 
 #### Status
 ACCEPTED

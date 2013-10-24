@@ -1,5 +1,4 @@
-Mycomicrothelia leuckertii D. Hawksw. & J. C. David SPECIES
-=======
+# Mycomicrothelia leuckertii D. Hawksw. & J. C. David SPECIES
 
 #### Status
 ACCEPTED

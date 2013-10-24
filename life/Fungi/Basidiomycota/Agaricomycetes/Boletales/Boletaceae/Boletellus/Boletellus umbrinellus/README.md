@@ -1,5 +1,4 @@
-Boletellus umbrinellus (Pat. & C.F. Baker) Singer SPECIES
-=======
+# Boletellus umbrinellus (Pat. & C.F. Baker) Singer SPECIES
 
 #### Status
 ACCEPTED

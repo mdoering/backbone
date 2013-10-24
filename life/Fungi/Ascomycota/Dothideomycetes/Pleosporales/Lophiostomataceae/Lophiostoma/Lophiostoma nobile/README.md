@@ -1,5 +1,4 @@
-Lophiostoma nobile Sacc. SPECIES
-=======
+# Lophiostoma nobile Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Subdoligranulum variabile Holmstrøm et al., 2004 SPECIES
-=======
+# Subdoligranulum variabile Holmstrøm et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

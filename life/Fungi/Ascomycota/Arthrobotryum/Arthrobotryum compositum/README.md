@@ -1,5 +1,4 @@
-Arthrobotryum compositum (Ellis) Pound & Clem. SPECIES
-=======
+# Arthrobotryum compositum (Ellis) Pound & Clem. SPECIES
 
 #### Status
 ACCEPTED

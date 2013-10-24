@@ -1,5 +1,4 @@
-Lecidea perigrapta Stizenb. SPECIES
-=======
+# Lecidea perigrapta Stizenb. SPECIES
 
 #### Status
 ACCEPTED

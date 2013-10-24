@@ -1,5 +1,4 @@
-Fusidium albidum Pers. SPECIES
-=======
+# Fusidium albidum Pers. SPECIES
 
 #### Status
 ACCEPTED

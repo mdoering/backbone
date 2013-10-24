@@ -1,5 +1,4 @@
-Micropuccinia cruciferarum (F. Rudolphi) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia cruciferarum (F. Rudolphi) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

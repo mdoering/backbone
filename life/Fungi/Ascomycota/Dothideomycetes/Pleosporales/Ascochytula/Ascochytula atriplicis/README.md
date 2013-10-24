@@ -1,5 +1,4 @@
-Ascochytula atriplicis Died., 1912 SPECIES
-=======
+# Ascochytula atriplicis Died., 1912 SPECIES
 
 #### Status
 ACCEPTED

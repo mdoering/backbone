@@ -1,5 +1,4 @@
-Stilbum pseudomortierella (Danysz & Wize) Sacc. & D. Sacc. SPECIES
-=======
+# Stilbum pseudomortierella (Danysz & Wize) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

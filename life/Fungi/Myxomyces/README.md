@@ -1,5 +1,4 @@
-Myxomyces Salimbeni GENUS
-=======
+# Myxomyces Salimbeni GENUS
 
 #### Status
 ACCEPTED

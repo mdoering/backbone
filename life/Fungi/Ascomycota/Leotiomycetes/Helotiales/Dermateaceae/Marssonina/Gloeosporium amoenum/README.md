@@ -1,5 +1,4 @@
-Gloeosporium amoenum Sacc. SPECIES
-=======
+# Gloeosporium amoenum Sacc. SPECIES
 
 #### Status
 ACCEPTED

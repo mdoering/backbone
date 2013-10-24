@@ -1,5 +1,4 @@
-Verrucaria gypsophila Zschacke SPECIES
-=======
+# Verrucaria gypsophila Zschacke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria prosopidis F. Stevens & N. Pierce SPECIES
-=======
+# Septoria prosopidis F. Stevens & N. Pierce SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lichen rostratus Scop. SPECIES
-=======
+# Lichen rostratus Scop. SPECIES
 
 #### Status
 ACCEPTED

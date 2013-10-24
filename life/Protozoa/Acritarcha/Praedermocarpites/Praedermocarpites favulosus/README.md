@@ -1,5 +1,4 @@
-Praedermocarpites favulosus Ouyang Shu et al., 1974 SPECIES
-=======
+# Praedermocarpites favulosus Ouyang Shu et al., 1974 SPECIES
 
 #### Status
 ACCEPTED

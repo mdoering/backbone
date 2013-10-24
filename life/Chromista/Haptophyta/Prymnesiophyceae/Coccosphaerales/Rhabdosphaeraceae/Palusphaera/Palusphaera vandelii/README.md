@@ -1,5 +1,4 @@
-Palusphaera vandelii J. Lecal SPECIES
-=======
+# Palusphaera vandelii J. Lecal SPECIES
 
 #### Status
 ACCEPTED

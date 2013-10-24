@@ -1,5 +1,4 @@
-Meliola ocoteicola F. Stevens SPECIES
-=======
+# Meliola ocoteicola F. Stevens SPECIES
 
 #### Status
 ACCEPTED

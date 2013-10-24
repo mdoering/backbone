@@ -1,5 +1,4 @@
-Ascochyta asparagina (Petr.) P.K. Buchanan SPECIES
-=======
+# Ascochyta asparagina (Petr.) P.K. Buchanan SPECIES
 
 #### Status
 ACCEPTED

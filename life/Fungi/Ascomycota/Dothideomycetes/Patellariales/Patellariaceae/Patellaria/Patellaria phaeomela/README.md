@@ -1,5 +1,4 @@
-Patellaria phaeomela (Nyl.) Müll. Arg. SPECIES
-=======
+# Patellaria phaeomela (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Passalora helleri Earle SPECIES
-=======
+# Passalora helleri Earle SPECIES
 
 #### Status
 ACCEPTED

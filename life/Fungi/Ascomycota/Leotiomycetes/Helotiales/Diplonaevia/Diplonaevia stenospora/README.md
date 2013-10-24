@@ -1,5 +1,4 @@
-Diplonaevia stenospora (Sacc.) B. Hein SPECIES
-=======
+# Diplonaevia stenospora (Sacc.) B. Hein SPECIES
 
 #### Status
 ACCEPTED

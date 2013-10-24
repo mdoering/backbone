@@ -1,5 +1,4 @@
-Belonia americana Fink ex J. Hedrick SPECIES
-=======
+# Belonia americana Fink ex J. Hedrick SPECIES
 
 #### Status
 ACCEPTED

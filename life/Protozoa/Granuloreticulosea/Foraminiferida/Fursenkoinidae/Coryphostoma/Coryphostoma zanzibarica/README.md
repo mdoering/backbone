@@ -1,5 +1,4 @@
-Coryphostoma zanzibarica (Cushman, 1936) SPECIES
-=======
+# Coryphostoma zanzibarica (Cushman, 1936) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buellia olivicolor (Hue) Zahlbr. SPECIES
-=======
+# Buellia olivicolor (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

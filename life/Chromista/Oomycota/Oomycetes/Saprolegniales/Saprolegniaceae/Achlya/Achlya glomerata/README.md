@@ -1,5 +1,4 @@
-Achlya glomerata Coker, 1912 SPECIES
-=======
+# Achlya glomerata Coker, 1912 SPECIES
 
 #### Status
 ACCEPTED

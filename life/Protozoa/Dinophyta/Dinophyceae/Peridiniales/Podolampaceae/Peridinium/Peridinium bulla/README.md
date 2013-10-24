@@ -1,8 +1,7 @@
-Protoperidinium bulla SPECIES
-=======
+# Peridinium bulla SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Integrated Taxonomic Information System

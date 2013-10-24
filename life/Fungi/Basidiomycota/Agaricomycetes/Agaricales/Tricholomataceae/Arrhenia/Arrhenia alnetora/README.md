@@ -1,14 +1,13 @@
-Leptoglossum alnetorum Singer, 1970 SPECIES
-=======
+# Arrhenia alnetora (Singer) Redhead, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fl. Neotrop. , Monogr. 3: 75 (1970)
+Can. J. Bot. 62(5): 875 (1984)
 
 #### Original name
 Leptoglossum alnetorum Singer, 1970

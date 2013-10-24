@@ -1,5 +1,4 @@
-Bacteroides nordii Song et al., 2005 SPECIES
-=======
+# Bacteroides nordii Song et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tyromyces pusillicaesius Corner SPECIES
-=======
+# Tyromyces pusillicaesius Corner SPECIES
 
 #### Status
 ACCEPTED

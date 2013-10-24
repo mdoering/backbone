@@ -1,5 +1,4 @@
-Trichosporum purpureum Massee SPECIES
-=======
+# Trichosporum purpureum Massee SPECIES
 
 #### Status
 ACCEPTED

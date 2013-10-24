@@ -1,5 +1,4 @@
-Sethoconus Haeckel, 1887 GENUS
-=======
+# Sethoconus Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stichotricha cornuta Claparède & Lachmann SPECIES
-=======
+# Stichotricha cornuta Claparède & Lachmann SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Florilus (Pseudononion) limbatostriatus (Cushman) SPECIES
-=======
+# Florilus (Pseudononion) limbatostriatus (Cushman) SPECIES
 
 #### Status
 ACCEPTED

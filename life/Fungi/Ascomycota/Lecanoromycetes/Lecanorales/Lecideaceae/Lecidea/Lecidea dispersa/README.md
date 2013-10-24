@@ -1,5 +1,4 @@
-Lecidea dispersa (Eckfeldt) Zahlbr. SPECIES
-=======
+# Lecidea dispersa (Eckfeldt) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

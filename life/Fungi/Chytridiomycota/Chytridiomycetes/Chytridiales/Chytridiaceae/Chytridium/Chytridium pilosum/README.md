@@ -1,5 +1,4 @@
-Chytridium pilosum Kobayasi & K. Konno SPECIES
-=======
+# Chytridium pilosum Kobayasi & K. Konno SPECIES
 
 #### Status
 ACCEPTED

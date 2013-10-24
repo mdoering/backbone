@@ -1,5 +1,4 @@
-Isidium madreporiforme (With.) Chevall. SPECIES
-=======
+# Isidium madreporiforme (With.) Chevall. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calycina amoena (Fautrey) Kuntze SPECIES
-=======
+# Calycina amoena (Fautrey) Kuntze SPECIES
 
 #### Status
 ACCEPTED

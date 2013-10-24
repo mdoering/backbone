@@ -1,5 +1,4 @@
-Agaricus achimenes Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus achimenes Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus comptus Simonini SPECIES
-=======
+# Boletus comptus Simonini SPECIES
 
 #### Status
 ACCEPTED

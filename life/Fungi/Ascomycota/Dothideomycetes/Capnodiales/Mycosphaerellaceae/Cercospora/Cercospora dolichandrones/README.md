@@ -1,5 +1,4 @@
-Cercospora dolichandrones Chupp SPECIES
-=======
+# Cercospora dolichandrones Chupp SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Synchytrium lagenariae Mhatre & Mundk. SPECIES
-=======
+# Synchytrium lagenariae Mhatre & Mundk. SPECIES
 
 #### Status
 ACCEPTED

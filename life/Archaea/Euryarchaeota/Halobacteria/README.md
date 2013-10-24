@@ -1,5 +1,4 @@
-Halobacteria CLASS
-=======
+# Halobacteria CLASS
 
 #### Status
 ACCEPTED

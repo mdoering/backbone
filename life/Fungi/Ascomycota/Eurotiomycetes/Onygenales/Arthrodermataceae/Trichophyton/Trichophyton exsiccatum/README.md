@@ -1,5 +1,4 @@
-Trichophyton exsiccatum Uriburu SPECIES
-=======
+# Trichophyton exsiccatum Uriburu SPECIES
 
 #### Status
 ACCEPTED

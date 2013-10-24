@@ -1,14 +1,13 @@
-Cercospora cladosporioides Sacc., 1882 SPECIES
-=======
+# Pseudocercospora cladosporioides (Sacc.) U. Braun, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Michelia 2(no. 8): 556 (1882)
+Mycotaxon 48: 282 (1993)
 
 #### Original name
 Cercospora cladosporioides Sacc., 1882

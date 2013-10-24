@@ -1,17 +1,16 @@
-Uncinula clandestina var. clandestina VARIETY
-=======
+# Erysiphe clandestina Biv., 1815 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Stirp. Rar. Sic. 3: 20 (1815)
 
 #### Original name
-Uncinula clandestina var. clandestina
+Erysiphe clandestina Biv., 1815
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Buchnerina Jones, 1984 GENUS
-=======
+# Buchnerina Jones, 1984 GENUS
 
 #### Status
 ACCEPTED

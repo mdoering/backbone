@@ -1,5 +1,4 @@
-Ooidium bicorne Timofeev, 1957 SPECIES
-=======
+# Ooidium bicorne Timofeev, 1957 SPECIES
 
 #### Status
 ACCEPTED

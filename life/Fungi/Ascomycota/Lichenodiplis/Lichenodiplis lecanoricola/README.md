@@ -1,5 +1,4 @@
-Lichenodiplis lecanoricola (M.S. Cole & D. Hawksw.) Diederich SPECIES
-=======
+# Lichenodiplis lecanoricola (M.S. Cole & D. Hawksw.) Diederich SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collema coccophyllizum Zahlbr. SPECIES
-=======
+# Collema coccophyllizum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

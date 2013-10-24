@@ -1,5 +1,4 @@
-Cortinarius praesignis Britzelm. SPECIES
-=======
+# Cortinarius praesignis Britzelm. SPECIES
 
 #### Status
 ACCEPTED

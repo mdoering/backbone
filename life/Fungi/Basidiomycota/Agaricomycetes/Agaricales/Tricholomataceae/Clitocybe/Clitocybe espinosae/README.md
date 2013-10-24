@@ -1,5 +1,4 @@
-Clitocybe espinosae Singer SPECIES
-=======
+# Clitocybe espinosae Singer SPECIES
 
 #### Status
 ACCEPTED

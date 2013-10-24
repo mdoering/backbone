@@ -1,5 +1,4 @@
-Planomicrobium koreense Yoon et al., 2001 SPECIES
-=======
+# Planomicrobium koreense Yoon et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Humaria atroviolacea (Bres.) Sacc. SPECIES
-=======
+# Humaria atroviolacea (Bres.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

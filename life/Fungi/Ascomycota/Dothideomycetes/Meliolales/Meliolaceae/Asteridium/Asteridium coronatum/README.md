@@ -1,5 +1,4 @@
-Asteridium coronatum Speg. SPECIES
-=======
+# Asteridium coronatum Speg. SPECIES
 
 #### Status
 ACCEPTED

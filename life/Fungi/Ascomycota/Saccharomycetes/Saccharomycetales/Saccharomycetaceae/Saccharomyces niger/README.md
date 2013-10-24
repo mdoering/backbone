@@ -1,5 +1,4 @@
-Saccharomyces niger Marpmann SPECIES
-=======
+# Saccharomyces niger Marpmann SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mucor cupressiformis Scop. SPECIES
-=======
+# Mucor cupressiformis Scop. SPECIES
 
 #### Status
 ACCEPTED

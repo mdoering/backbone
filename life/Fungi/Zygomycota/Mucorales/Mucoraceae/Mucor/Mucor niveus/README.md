@@ -1,5 +1,4 @@
-Mucor niveus Leers SPECIES
-=======
+# Mucor niveus Leers SPECIES
 
 #### Status
 ACCEPTED

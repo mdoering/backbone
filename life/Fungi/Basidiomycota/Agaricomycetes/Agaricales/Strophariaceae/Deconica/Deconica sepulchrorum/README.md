@@ -1,5 +1,4 @@
-Deconica sepulchrorum Zoll. SPECIES
-=======
+# Deconica sepulchrorum Zoll. SPECIES
 
 #### Status
 ACCEPTED

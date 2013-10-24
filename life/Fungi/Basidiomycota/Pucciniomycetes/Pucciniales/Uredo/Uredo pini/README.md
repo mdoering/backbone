@@ -1,5 +1,4 @@
-Uredo pini Spreng. SPECIES
-=======
+# Uredo pini Spreng. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scolicotrichum fasciculatum (Cooke & Ellis) Shear SPECIES
-=======
+# Scolicotrichum fasciculatum (Cooke & Ellis) Shear SPECIES
 
 #### Status
 ACCEPTED

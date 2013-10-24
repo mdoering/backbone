@@ -1,5 +1,4 @@
-Leptogium schiffneri Zahlbr. SPECIES
-=======
+# Leptogium schiffneri Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

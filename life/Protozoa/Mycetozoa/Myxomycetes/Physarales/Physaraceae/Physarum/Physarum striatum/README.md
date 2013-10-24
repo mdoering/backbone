@@ -1,5 +1,4 @@
-Physarum striatum var. striatum Fuckel VARIETY
-=======
+# Physarum striatum Fuckel SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Physarum striatum var. striatum Fuckel
+Physarum striatum Fuckel
 
 ### Remarks
 null

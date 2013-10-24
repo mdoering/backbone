@@ -1,5 +1,4 @@
-Meliola canthii-angustifolii Hosag. SPECIES
-=======
+# Meliola canthii-angustifolii Hosag. SPECIES
 
 #### Status
 ACCEPTED

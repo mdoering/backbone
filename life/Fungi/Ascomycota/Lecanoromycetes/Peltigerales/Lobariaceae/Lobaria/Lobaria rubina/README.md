@@ -1,5 +1,4 @@
-Lobaria rubina (Vill.) Räuschel SPECIES
-=======
+# Lobaria rubina (Vill.) Räuschel SPECIES
 
 #### Status
 ACCEPTED

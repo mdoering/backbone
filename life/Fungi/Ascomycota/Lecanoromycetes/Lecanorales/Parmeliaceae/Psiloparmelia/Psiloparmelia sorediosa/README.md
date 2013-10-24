@@ -1,5 +1,4 @@
-Psiloparmelia sorediosa Elix & T.H. Nash SPECIES
-=======
+# Psiloparmelia sorediosa Elix & T.H. Nash SPECIES
 
 #### Status
 ACCEPTED

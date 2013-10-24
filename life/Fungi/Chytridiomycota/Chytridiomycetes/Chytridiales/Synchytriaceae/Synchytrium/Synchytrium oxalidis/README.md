@@ -1,5 +1,4 @@
-Synchytrium oxalidis M.T. Cook SPECIES
-=======
+# Synchytrium oxalidis M.T. Cook SPECIES
 
 #### Status
 ACCEPTED

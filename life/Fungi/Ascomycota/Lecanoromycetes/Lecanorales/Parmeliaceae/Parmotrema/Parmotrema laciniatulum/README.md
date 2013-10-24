@@ -1,5 +1,4 @@
-Parmotrema laciniatulum Krog SPECIES
-=======
+# Parmotrema laciniatulum Krog SPECIES
 
 #### Status
 ACCEPTED

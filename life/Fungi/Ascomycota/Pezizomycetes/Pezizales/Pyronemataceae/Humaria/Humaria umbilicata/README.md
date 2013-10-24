@@ -1,5 +1,4 @@
-Humaria umbilicata Penz. & Sacc. SPECIES
-=======
+# Humaria umbilicata Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

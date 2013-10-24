@@ -1,5 +1,4 @@
-Geitlerinema jasorvense (Vouk) Anagnostidis SPECIES
-=======
+# Geitlerinema jasorvense (Vouk) Anagnostidis SPECIES
 
 #### Status
 ACCEPTED

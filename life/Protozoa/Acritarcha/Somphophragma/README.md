@@ -1,5 +1,4 @@
-Somphophragma Playford in Playford & Dring, 1981 GENUS
-=======
+# Somphophragma Playford in Playford & Dring, 1981 GENUS
 
 #### Status
 ACCEPTED

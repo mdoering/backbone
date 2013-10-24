@@ -1,5 +1,4 @@
-Caloplaca inordinata (Hue) Zahlbr. SPECIES
-=======
+# Caloplaca inordinata (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

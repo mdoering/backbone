@@ -1,5 +1,4 @@
-Heliomycopsis G. Arnaud GENUS
-=======
+# Heliomycopsis G. Arnaud GENUS
 
 #### Status
 ACCEPTED

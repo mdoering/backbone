@@ -1,5 +1,4 @@
-Poteriospumella Boenigk & Findenig, 2010 GENUS
-=======
+# Poteriospumella Boenigk & Findenig, 2010 GENUS
 
 #### Status
 ACCEPTED

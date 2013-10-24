@@ -1,5 +1,4 @@
-Navisolenia Lecal, 1965 GENUS
-=======
+# Navisolenia Lecal, 1965 GENUS
 
 #### Status
 ACCEPTED

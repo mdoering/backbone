@@ -1,5 +1,4 @@
-Thelephora luteotincta Berk. SPECIES
-=======
+# Thelephora luteotincta Berk. SPECIES
 
 #### Status
 ACCEPTED

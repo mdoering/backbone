@@ -1,5 +1,4 @@
-Asteromella isopyri (Thüm.) Petr. & Syd. SPECIES
-=======
+# Asteromella isopyri (Thüm.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

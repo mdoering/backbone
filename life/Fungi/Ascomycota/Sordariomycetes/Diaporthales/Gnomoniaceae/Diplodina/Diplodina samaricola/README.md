@@ -1,5 +1,4 @@
-Diplodina samaricola Died. SPECIES
-=======
+# Diplodina samaricola Died. SPECIES
 
 #### Status
 ACCEPTED

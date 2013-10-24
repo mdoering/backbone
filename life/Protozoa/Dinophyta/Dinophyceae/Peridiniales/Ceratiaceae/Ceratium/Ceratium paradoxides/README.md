@@ -1,5 +1,4 @@
-Ceratium paradoxides Cleve SPECIES
-=======
+# Ceratium paradoxides Cleve SPECIES
 
 #### Status
 ACCEPTED

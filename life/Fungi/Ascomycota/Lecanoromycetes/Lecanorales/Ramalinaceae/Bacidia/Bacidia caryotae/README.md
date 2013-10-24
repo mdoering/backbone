@@ -1,5 +1,4 @@
-Bacidia caryotae (Vain.) SPECIES
-=======
+# Bacidia caryotae (Vain.) SPECIES
 
 #### Status
 ACCEPTED

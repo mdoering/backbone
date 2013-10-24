@@ -1,5 +1,4 @@
-Peziza stizenbergeri Rabenh. SPECIES
-=======
+# Peziza stizenbergeri Rabenh. SPECIES
 
 #### Status
 ACCEPTED

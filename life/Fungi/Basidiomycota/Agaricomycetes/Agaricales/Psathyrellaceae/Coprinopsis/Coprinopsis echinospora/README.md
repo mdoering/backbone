@@ -1,17 +1,16 @@
-Coprinus echinosporus var. echinosporus VARIETY
-=======
+# Coprinopsis echinospora (Buller) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 6(4): 363 (1920)
+in Redhead, Vilgalys, Moncalvo, Johnson & Hopple, Taxon 50(1): 227 (2001)
 
 #### Original name
-Coprinus echinosporus var. echinosporus
+Coprinus echinosporus Buller, 1920
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cuticularia ilicis Ducomet, 1907 SPECIES
-=======
+# Cuticularia ilicis Ducomet, 1907 SPECIES
 
 #### Status
 ACCEPTED

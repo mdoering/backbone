@@ -1,5 +1,4 @@
-Russula sulcatipes Murrill SPECIES
-=======
+# Russula sulcatipes Murrill SPECIES
 
 #### Status
 ACCEPTED

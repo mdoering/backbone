@@ -1,5 +1,4 @@
-Meripilus maculatus Corner, 1984 SPECIES
-=======
+# Meripilus maculatus Corner, 1984 SPECIES
 
 #### Status
 ACCEPTED

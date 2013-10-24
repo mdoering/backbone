@@ -1,5 +1,4 @@
-Sandersoniomyces divaricatus R.K. Benj., 1968 SPECIES
-=======
+# Sandersoniomyces divaricatus R.K. Benj., 1968 SPECIES
 
 #### Status
 ACCEPTED

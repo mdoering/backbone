@@ -1,8 +1,7 @@
-Geaster dubius Berk. SPECIES
-=======
+# Geastrum dubius Berk. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Geaster dubius Berk.
+Geastrum dubius Berk.
 
 ### Remarks
 null

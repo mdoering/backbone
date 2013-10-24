@@ -1,5 +1,4 @@
-Cortinarius concrescens Secr. ex Bidaud, Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius concrescens Secr. ex Bidaud, Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

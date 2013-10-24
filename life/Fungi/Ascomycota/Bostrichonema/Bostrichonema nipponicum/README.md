@@ -1,5 +1,4 @@
-Bostrichonema nipponicum Matsush. SPECIES
-=======
+# Bostrichonema nipponicum Matsush. SPECIES
 
 #### Status
 ACCEPTED

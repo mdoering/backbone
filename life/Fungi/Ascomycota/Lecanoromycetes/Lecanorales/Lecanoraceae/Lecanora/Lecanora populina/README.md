@@ -1,5 +1,4 @@
-Lecanora populina Chevall. SPECIES
-=======
+# Lecanora populina Chevall. SPECIES
 
 #### Status
 ACCEPTED

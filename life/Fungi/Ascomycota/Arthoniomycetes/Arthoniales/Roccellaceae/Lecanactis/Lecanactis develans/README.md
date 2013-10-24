@@ -1,5 +1,4 @@
-Lecanactis develans Nyl. SPECIES
-=======
+# Lecanactis develans Nyl. SPECIES
 
 #### Status
 ACCEPTED

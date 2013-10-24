@@ -1,5 +1,4 @@
-Catillaria chloroticella (Nyl.) Zahlbr. SPECIES
-=======
+# Catillaria chloroticella (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

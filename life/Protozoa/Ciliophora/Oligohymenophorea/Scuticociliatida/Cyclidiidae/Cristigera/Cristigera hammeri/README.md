@@ -1,5 +1,4 @@
-Cristigera hammeri SPECIES
-=======
+# Cristigera hammeri SPECIES
 
 #### Status
 ACCEPTED

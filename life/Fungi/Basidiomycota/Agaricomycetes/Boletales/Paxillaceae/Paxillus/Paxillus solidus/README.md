@@ -1,5 +1,4 @@
-Paxillus solidus Ravenel SPECIES
-=======
+# Paxillus solidus Ravenel SPECIES
 
 #### Status
 ACCEPTED

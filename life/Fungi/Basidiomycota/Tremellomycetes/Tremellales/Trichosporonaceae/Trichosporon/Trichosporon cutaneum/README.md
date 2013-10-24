@@ -1,17 +1,16 @@
-Trichosporon minor Leão, 1941 SPECIES
-=======
+# Trichosporon cutaneum (Beurm., Gougerot & Vaucher bis) M. Ota, 1926 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls Parasit. hum. comp. 4: 12 (1926)
 
 #### Original name
-null
+Oidium cutaneum Beurm., Gougerot & Vaucher bis, 1910
 
 ### Remarks
 null

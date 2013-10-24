@@ -1,17 +1,16 @@
-Pseudoclitocybe indicus Rawla & S. Arya SPECIES
-=======
+# Pseudoclitocybe indica Rawla & S. Arya SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Fourth International Mycological Congress Abstracts (Regensburg) 48 (1990)
 
 #### Original name
-Pseudoclitocybe indicus Rawla & S. Arya
+Pseudoclitocybe indica Rawla & S. Arya
 
 ### Remarks
 null

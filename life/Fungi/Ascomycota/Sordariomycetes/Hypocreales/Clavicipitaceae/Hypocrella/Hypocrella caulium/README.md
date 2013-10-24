@@ -1,5 +1,4 @@
-Hypocrella caulium (Berk. & M.A. Curtis) Pat. SPECIES
-=======
+# Hypocrella caulium (Berk. & M.A. Curtis) Pat. SPECIES
 
 #### Status
 ACCEPTED

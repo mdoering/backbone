@@ -1,5 +1,4 @@
-Chaetosphaeria meliolicola Syd. & P. Syd. SPECIES
-=======
+# Chaetosphaeria meliolicola Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

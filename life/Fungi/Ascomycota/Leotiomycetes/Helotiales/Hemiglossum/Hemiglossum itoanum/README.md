@@ -1,5 +1,4 @@
-Hemiglossum itoanum S. Imai SPECIES
-=======
+# Hemiglossum itoanum S. Imai SPECIES
 
 #### Status
 ACCEPTED

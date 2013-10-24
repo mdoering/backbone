@@ -1,17 +1,16 @@
-Melanconium bicolor var. bicolor Nees VARIETY
-=======
+# Melanconium bicolor Nees, 1816 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Syst. Pilze (Würzburg) 32 (1816)
 
 #### Original name
-Melanconium bicolor var. bicolor Nees
+Melanconium bicolor Nees, 1816
 
 ### Remarks
 null

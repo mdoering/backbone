@@ -1,5 +1,4 @@
-Sphaerulina musicola J.M. Yen SPECIES
-=======
+# Sphaerulina musicola J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Biatora furfuracea Kremp. SPECIES
-=======
+# Biatora furfuracea Kremp. SPECIES
 
 #### Status
 ACCEPTED

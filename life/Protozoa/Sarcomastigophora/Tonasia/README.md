@@ -1,5 +1,4 @@
-Tonasia Gorbachik, 1968 GENUS
-=======
+# Tonasia Gorbachik, 1968 GENUS
 
 #### Status
 ACCEPTED

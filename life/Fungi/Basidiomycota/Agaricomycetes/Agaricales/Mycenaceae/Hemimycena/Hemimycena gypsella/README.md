@@ -1,14 +1,13 @@
-Helotium gypsellum (Kühner) Redhead, 1982 SPECIES
-=======
+# Hemimycena gypsella (Kühner) Elborne & Laessøe, 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 60(10): 2005 (1982)
+in Knudsen & Hansen, Nordic Jl Bot. 11(4): 478 (1991)
 
 #### Original name
 Mycena gypsella Kühner, 1972

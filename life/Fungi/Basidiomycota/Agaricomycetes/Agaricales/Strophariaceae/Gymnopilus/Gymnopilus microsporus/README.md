@@ -1,5 +1,4 @@
-Gymnopilus microsporus (Singer) Singer SPECIES
-=======
+# Gymnopilus microsporus (Singer) Singer SPECIES
 
 #### Status
 ACCEPTED

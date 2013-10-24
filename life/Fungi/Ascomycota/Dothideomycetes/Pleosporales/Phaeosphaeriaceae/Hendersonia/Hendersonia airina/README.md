@@ -1,5 +1,4 @@
-Hendersonia airina Petr. SPECIES
-=======
+# Hendersonia airina Petr. SPECIES
 
 #### Status
 ACCEPTED

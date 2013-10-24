@@ -1,5 +1,4 @@
-Marasmius tenebrarum Berk. & M.A. Curtis SPECIES
-=======
+# Marasmius tenebrarum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

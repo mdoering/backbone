@@ -1,5 +1,4 @@
-Apyrenium armeniacum Berk. & Broome SPECIES
-=======
+# Apyrenium armeniacum Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

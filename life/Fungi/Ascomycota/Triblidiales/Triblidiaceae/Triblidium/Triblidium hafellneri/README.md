@@ -1,5 +1,4 @@
-Triblidium hafellneri Magnes SPECIES
-=======
+# Triblidium hafellneri Magnes SPECIES
 
 #### Status
 ACCEPTED

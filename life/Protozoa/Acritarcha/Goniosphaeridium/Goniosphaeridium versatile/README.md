@@ -1,5 +1,4 @@
-Goniosphaeridium versatile Le Hérissé, Al-Tayyar & van der Eem, 1995 SPECIES
-=======
+# Goniosphaeridium versatile Le Hérissé, Al-Tayyar & van der Eem, 1995 SPECIES
 
 #### Status
 ACCEPTED

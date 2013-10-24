@@ -1,5 +1,4 @@
-Urocystis dioscoreae Syd. SPECIES
-=======
+# Urocystis dioscoreae Syd. SPECIES
 
 #### Status
 ACCEPTED

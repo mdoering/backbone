@@ -1,5 +1,4 @@
-Laboulbenia obesula Speg. SPECIES
-=======
+# Laboulbenia obesula Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochyta rhamni Lebedeva SPECIES
-=======
+# Ascochyta rhamni Lebedeva SPECIES
 
 #### Status
 ACCEPTED

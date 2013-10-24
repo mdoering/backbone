@@ -1,5 +1,4 @@
-Ruesticyrtium lobatum SPECIES
-=======
+# Ruesticyrtium lobatum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrosporium pinguedinis Berk. SPECIES
-=======
+# Macrosporium pinguedinis Berk. SPECIES
 
 #### Status
 ACCEPTED

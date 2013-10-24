@@ -1,5 +1,4 @@
-Druppulidae FAMILY
-=======
+# Druppulidae FAMILY
 
 #### Status
 ACCEPTED

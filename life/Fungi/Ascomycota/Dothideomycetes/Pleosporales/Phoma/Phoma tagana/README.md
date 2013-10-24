@@ -1,5 +1,4 @@
-Phoma tagana Thüm. SPECIES
-=======
+# Phoma tagana Thüm. SPECIES
 
 #### Status
 ACCEPTED

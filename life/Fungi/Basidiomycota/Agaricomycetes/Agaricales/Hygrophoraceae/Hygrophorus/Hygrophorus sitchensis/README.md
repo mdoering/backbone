@@ -1,5 +1,4 @@
-Hygrophorus sitchensis Largent SPECIES
-=======
+# Hygrophorus sitchensis Largent SPECIES
 
 #### Status
 ACCEPTED

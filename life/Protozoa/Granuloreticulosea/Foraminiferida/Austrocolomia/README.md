@@ -1,5 +1,4 @@
-Austrocolomia Oberhauser, 1960 GENUS
-=======
+# Austrocolomia Oberhauser, 1960 GENUS
 
 #### Status
 ACCEPTED

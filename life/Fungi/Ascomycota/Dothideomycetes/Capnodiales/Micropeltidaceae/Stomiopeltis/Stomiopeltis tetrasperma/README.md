@@ -1,5 +1,4 @@
-Stomiopeltis tetrasperma Bat., J.L. Bezerra & N.R. Moura SPECIES
-=======
+# Stomiopeltis tetrasperma Bat., J.L. Bezerra & N.R. Moura SPECIES
 
 #### Status
 ACCEPTED

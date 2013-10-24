@@ -1,5 +1,4 @@
-Eutypella indica (P.G. Sathe & Vaidya) Rappaz SPECIES
-=======
+# Eutypella indica (P.G. Sathe & Vaidya) Rappaz SPECIES
 
 #### Status
 ACCEPTED

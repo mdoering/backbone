@@ -1,5 +1,4 @@
-Mycena eburnea Maas Geest. SPECIES
-=======
+# Mycena eburnea Maas Geest. SPECIES
 
 #### Status
 ACCEPTED

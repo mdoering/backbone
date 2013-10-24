@@ -1,5 +1,4 @@
-Rinodina maculans (Kremp.) Müll. Arg. SPECIES
-=======
+# Rinodina maculans (Kremp.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina sponiae Racib., 1900 SPECIES
-=======
+# Asterina sponiae Racib., 1900 SPECIES
 
 #### Status
 ACCEPTED

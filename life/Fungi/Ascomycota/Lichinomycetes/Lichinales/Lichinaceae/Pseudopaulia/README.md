@@ -1,5 +1,4 @@
-Pseudopaulia M. Schultz GENUS
-=======
+# Pseudopaulia M. Schultz GENUS
 
 #### Status
 ACCEPTED

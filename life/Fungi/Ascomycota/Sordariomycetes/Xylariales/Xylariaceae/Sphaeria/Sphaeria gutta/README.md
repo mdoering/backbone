@@ -1,5 +1,4 @@
-Sphaeria gutta Sowerby SPECIES
-=======
+# Sphaeria gutta Sowerby SPECIES
 
 #### Status
 ACCEPTED

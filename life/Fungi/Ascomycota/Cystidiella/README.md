@@ -1,5 +1,4 @@
-Cystidiella Malan GENUS
-=======
+# Cystidiella Malan GENUS
 
 #### Status
 ACCEPTED

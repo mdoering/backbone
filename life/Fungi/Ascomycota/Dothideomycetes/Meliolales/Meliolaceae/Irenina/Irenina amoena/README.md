@@ -1,5 +1,4 @@
-Irenina amoena (Syd.) F. Stevens SPECIES
-=======
+# Irenina amoena (Syd.) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

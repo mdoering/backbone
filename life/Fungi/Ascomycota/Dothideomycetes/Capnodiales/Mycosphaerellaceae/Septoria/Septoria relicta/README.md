@@ -1,5 +1,4 @@
-Septoria relicta Bubák SPECIES
-=======
+# Septoria relicta Bubák SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Niebla tesselata Spjut SPECIES
-=======
+# Niebla tesselata Spjut SPECIES
 
 #### Status
 ACCEPTED

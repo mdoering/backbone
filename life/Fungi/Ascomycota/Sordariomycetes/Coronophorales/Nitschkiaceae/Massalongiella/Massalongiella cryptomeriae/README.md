@@ -1,5 +1,4 @@
-Massalongiella cryptomeriae Sawada SPECIES
-=======
+# Massalongiella cryptomeriae Sawada SPECIES
 
 #### Status
 ACCEPTED

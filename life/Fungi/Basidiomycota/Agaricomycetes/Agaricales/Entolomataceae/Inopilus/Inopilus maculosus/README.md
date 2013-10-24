@@ -1,5 +1,4 @@
-Inopilus maculosus Pegler SPECIES
-=======
+# Inopilus maculosus Pegler SPECIES
 
 #### Status
 ACCEPTED

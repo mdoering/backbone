@@ -1,5 +1,4 @@
-Leptocucurthis quadrata Aptroot SPECIES
-=======
+# Leptocucurthis quadrata Aptroot SPECIES
 
 #### Status
 ACCEPTED

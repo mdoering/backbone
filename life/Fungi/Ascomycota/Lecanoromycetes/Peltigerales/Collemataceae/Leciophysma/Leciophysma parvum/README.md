@@ -1,5 +1,4 @@
-Leciophysma parvum Øvstedal SPECIES
-=======
+# Leciophysma parvum Øvstedal SPECIES
 
 #### Status
 ACCEPTED

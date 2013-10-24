@@ -1,5 +1,4 @@
-Pseudocercospora xenoannonicola Crous & Bench. SPECIES
-=======
+# Pseudocercospora xenoannonicola Crous & Bench. SPECIES
 
 #### Status
 ACCEPTED

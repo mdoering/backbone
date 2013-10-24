@@ -1,5 +1,4 @@
-Elsinoë heveae Bitanc. & Jenkins, 1956 SPECIES
-=======
+# Elsinoë heveae Bitanc. & Jenkins, 1956 SPECIES
 
 #### Status
 ACCEPTED

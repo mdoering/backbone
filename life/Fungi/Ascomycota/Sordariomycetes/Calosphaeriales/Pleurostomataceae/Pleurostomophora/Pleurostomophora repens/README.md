@@ -1,14 +1,13 @@
-Phialophora repens (R.W. Davidson) Conant, 1937 SPECIES
-=======
+# Pleurostomophora repens (R.W. Davidson) L. Mostert, W. Gams & Crous, 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 29(5): 598 (1937)
+in Vijaykrishna, Mostert, Jeewon, Gams, Hyde & Crous, Stud. Mycol. 50(2): 392 (2004)
 
 #### Original name
 Cadophora repens R.W. Davidson, 1935

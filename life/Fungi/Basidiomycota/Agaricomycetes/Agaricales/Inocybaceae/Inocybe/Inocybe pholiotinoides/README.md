@@ -1,5 +1,4 @@
-Inocybe pholiotinoides Romagn. SPECIES
-=======
+# Inocybe pholiotinoides Romagn. SPECIES
 
 #### Status
 ACCEPTED

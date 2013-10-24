@@ -1,5 +1,4 @@
-Panus viscidus Mont. SPECIES
-=======
+# Panus viscidus Mont. SPECIES
 
 #### Status
 ACCEPTED

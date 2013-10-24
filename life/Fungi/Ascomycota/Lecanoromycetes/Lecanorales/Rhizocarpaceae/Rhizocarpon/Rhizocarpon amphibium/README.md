@@ -1,5 +1,4 @@
-Rhizocarpon amphibium (Fr.) Th. Fr. SPECIES
-=======
+# Rhizocarpon amphibium (Fr.) Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

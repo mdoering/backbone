@@ -1,5 +1,4 @@
-Drosophila badiophylla var. badiophylla VARIETY
-=======
+# Drosophila badiophylla Romagn. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bull. mens. Soc. linn. Lyon 21: 155 (1952)
 
 #### Original name
-Drosophila badiophylla var. badiophylla
+Drosophila badiophylla Romagn.
 
 ### Remarks
 null

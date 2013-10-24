@@ -1,5 +1,4 @@
-Prismatella Pascher, 1939 GENUS
-=======
+# Prismatella Pascher, 1939 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeosphaerella syringae Syd. SPECIES
-=======
+# Phaeosphaerella syringae Syd. SPECIES
 
 #### Status
 ACCEPTED

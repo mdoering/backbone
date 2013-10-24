@@ -1,5 +1,4 @@
-Gymnodinium galesianum P.H.Campbell, 1973 SPECIES
-=======
+# Gymnodinium galesianum P.H.Campbell, 1973 SPECIES
 
 #### Status
 ACCEPTED

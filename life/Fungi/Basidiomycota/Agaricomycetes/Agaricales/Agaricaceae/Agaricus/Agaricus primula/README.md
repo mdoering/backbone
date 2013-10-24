@@ -1,5 +1,4 @@
-Agaricus primula With. SPECIES
-=======
+# Agaricus primula With. SPECIES
 
 #### Status
 ACCEPTED

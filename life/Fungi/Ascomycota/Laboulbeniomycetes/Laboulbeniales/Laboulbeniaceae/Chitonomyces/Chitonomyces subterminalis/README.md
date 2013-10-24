@@ -1,5 +1,4 @@
-Chitonomyces subterminalis Thaxt. SPECIES
-=======
+# Chitonomyces subterminalis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

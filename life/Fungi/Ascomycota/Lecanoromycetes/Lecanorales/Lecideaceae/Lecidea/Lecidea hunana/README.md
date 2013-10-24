@@ -1,5 +1,4 @@
-Lecidea hunana Zahlbr. SPECIES
-=======
+# Lecidea hunana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

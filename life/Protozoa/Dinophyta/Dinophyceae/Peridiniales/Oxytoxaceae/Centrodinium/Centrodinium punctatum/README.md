@@ -1,11 +1,10 @@
-Murrayella splendida Rampi, 1941 SPECIES
-=======
+# Centrodinium punctatum (Cleve, 1900) Taylor, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+Integrated Taxonomic Information System
 
 #### Published in
 null

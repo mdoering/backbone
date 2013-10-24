@@ -1,5 +1,4 @@
-Phakopsora cubana Y. Ono, Buriticá & J.F. Hennen SPECIES
-=======
+# Phakopsora cubana Y. Ono, Buriticá & J.F. Hennen SPECIES
 
 #### Status
 ACCEPTED

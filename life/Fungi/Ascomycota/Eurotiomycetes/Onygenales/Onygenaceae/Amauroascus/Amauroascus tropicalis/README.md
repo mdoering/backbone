@@ -1,5 +1,4 @@
-Amauroascus tropicalis Cano, Guarro & R.F. Castañeda, 1996 SPECIES
-=======
+# Amauroascus tropicalis Cano, Guarro & R.F. Castañeda, 1996 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta rondeletiae Tassi SPECIES
-=======
+# Phyllosticta rondeletiae Tassi SPECIES
 
 #### Status
 ACCEPTED

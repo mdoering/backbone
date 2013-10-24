@@ -1,5 +1,4 @@
-Ciliaria rubicunda Quél. SPECIES
-=======
+# Ciliaria rubicunda Quél. SPECIES
 
 #### Status
 ACCEPTED

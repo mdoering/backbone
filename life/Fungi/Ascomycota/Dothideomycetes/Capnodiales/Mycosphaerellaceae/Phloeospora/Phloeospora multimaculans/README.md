@@ -1,5 +1,4 @@
-Phloeospora multimaculans Heald & F.A. Wolf SPECIES
-=======
+# Phloeospora multimaculans Heald & F.A. Wolf SPECIES
 
 #### Status
 ACCEPTED

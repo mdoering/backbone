@@ -1,5 +1,4 @@
-Trichoglossum rasum Pat., 1909 SPECIES
-=======
+# Trichoglossum rasum Pat., 1909 SPECIES
 
 #### Status
 ACCEPTED

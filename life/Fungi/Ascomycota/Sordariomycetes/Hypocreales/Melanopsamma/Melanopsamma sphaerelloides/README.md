@@ -1,5 +1,4 @@
-Melanopsamma sphaerelloides H. Wegelin SPECIES
-=======
+# Melanopsamma sphaerelloides H. Wegelin SPECIES
 
 #### Status
 ACCEPTED

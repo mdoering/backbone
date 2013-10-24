@@ -1,5 +1,4 @@
-Inocybe neoumbrina Kobayasi SPECIES
-=======
+# Inocybe neoumbrina Kobayasi SPECIES
 
 #### Status
 ACCEPTED

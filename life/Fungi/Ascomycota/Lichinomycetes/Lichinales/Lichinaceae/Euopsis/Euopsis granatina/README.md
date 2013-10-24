@@ -1,14 +1,13 @@
-Pyrenopsis granatina (Sommerf.) Nyl. SPECIES
-=======
+# Euopsis granatina (Sommerf.) Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Not. Sällsk. Fauna et Fl. Fenn. Förh. 8: 104 (1866)
+Flora, Jena 58: 363 (1875)
 
 #### Original name
 Lecanora granatina Sommerf.

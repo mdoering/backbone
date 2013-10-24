@@ -1,5 +1,4 @@
-Pseudocercospora bernardiae (F. Stevens) U. Braun SPECIES
-=======
+# Pseudocercospora bernardiae (F. Stevens) U. Braun SPECIES
 
 #### Status
 ACCEPTED

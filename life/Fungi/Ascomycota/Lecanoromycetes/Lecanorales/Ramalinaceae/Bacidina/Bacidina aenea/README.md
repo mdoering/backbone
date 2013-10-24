@@ -1,5 +1,4 @@
-Bacidina aenea S. Ekman SPECIES
-=======
+# Bacidina aenea S. Ekman SPECIES
 
 #### Status
 ACCEPTED

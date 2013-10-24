@@ -1,5 +1,4 @@
-Coniothecium sarcosporioides (Ellis & F.W. Anderson) Pound & Clem. SPECIES
-=======
+# Coniothecium sarcosporioides (Ellis & F.W. Anderson) Pound & Clem. SPECIES
 
 #### Status
 ACCEPTED

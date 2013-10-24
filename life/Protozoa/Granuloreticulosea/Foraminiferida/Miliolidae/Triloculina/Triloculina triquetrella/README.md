@@ -1,5 +1,4 @@
-Triloculina triquetrella Loeblich & Tappan, 1994 SPECIES
-=======
+# Triloculina triquetrella Loeblich & Tappan, 1994 SPECIES
 
 #### Status
 ACCEPTED

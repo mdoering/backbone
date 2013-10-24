@@ -1,5 +1,4 @@
-Muscodor albus Worapong, Strobel & W.M. Hess, 2001 SPECIES
-=======
+# Muscodor albus Worapong, Strobel & W.M. Hess, 2001 SPECIES
 
 #### Status
 ACCEPTED

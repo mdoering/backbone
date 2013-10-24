@@ -1,5 +1,4 @@
-Lipomyces tetrasporus Krassiln., Babeva & Meavahd ex Nieuwdorp, P. Bos & Slooff, 1974 SPECIES
-=======
+# Lipomyces tetrasporus Krassiln., Babeva & Meavahd ex Nieuwdorp, P. Bos & Slooff, 1974 SPECIES
 
 #### Status
 ACCEPTED

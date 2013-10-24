@@ -1,5 +1,4 @@
-Cladonia nylanderi f. nylanderi FORM
-=======
+# Cladonia nylanderi SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cladonia nylanderi f. nylanderi
+null
 
 ### Remarks
 null

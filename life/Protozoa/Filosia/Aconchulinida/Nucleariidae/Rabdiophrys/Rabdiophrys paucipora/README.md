@@ -1,5 +1,4 @@
-Rabdiophrys paucipora (Thomsen) Roijackers & Siemensma, 1988 SPECIES
-=======
+# Rabdiophrys paucipora (Thomsen) Roijackers & Siemensma, 1988 SPECIES
 
 #### Status
 ACCEPTED

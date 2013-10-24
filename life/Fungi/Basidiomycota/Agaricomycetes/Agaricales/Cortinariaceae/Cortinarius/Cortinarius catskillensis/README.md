@@ -1,5 +1,4 @@
-Cortinarius catskillensis Peck SPECIES
-=======
+# Cortinarius catskillensis Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeosporiella Cavara GENUS
-=======
+# Gloeosporiella Cavara GENUS
 
 #### Status
 ACCEPTED

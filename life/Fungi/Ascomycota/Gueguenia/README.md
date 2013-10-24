@@ -1,5 +1,4 @@
-Gueguenia GENUS
-=======
+# Gueguenia GENUS
 
 #### Status
 ACCEPTED

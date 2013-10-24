@@ -1,5 +1,4 @@
-Uromyces doricus Maire SPECIES
-=======
+# Uromyces doricus Maire SPECIES
 
 #### Status
 ACCEPTED

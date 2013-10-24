@@ -1,5 +1,4 @@
-Samara frondosa King ex Gamble SPECIES
-=======
+# Samara frondosa King ex Gamble SPECIES
 
 #### Status
 ACCEPTED

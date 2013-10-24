@@ -1,5 +1,4 @@
-Sphaeria trochiformis Preuss SPECIES
-=======
+# Sphaeria trochiformis Preuss SPECIES
 
 #### Status
 ACCEPTED

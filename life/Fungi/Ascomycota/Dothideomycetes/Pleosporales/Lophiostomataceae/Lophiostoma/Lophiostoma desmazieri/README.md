@@ -1,5 +1,4 @@
-Lophiostoma desmazieri Sacc. & Speg., 1878 SPECIES
-=======
+# Lophiostoma desmazieri Sacc. & Speg., 1878 SPECIES
 
 #### Status
 ACCEPTED

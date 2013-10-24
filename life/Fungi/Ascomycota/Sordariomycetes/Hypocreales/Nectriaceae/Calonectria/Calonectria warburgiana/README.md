@@ -1,5 +1,4 @@
-Calonectria warburgiana Henn. SPECIES
-=======
+# Calonectria warburgiana Henn. SPECIES
 
 #### Status
 ACCEPTED

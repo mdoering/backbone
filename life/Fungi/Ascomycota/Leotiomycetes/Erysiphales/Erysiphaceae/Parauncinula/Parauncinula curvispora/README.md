@@ -1,14 +1,13 @@
-Uncinula septata var. curvispora Hara, 1915 VARIETY
-=======
+# Parauncinula curvispora (Hara) S. Takam. & U. Braun, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycoscience 46(1): 15 (2005)
 
 #### Original name
 Uncinula septata var. curvispora Hara, 1915

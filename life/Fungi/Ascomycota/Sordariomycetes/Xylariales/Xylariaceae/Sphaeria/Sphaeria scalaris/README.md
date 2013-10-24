@@ -1,5 +1,4 @@
-Sphaeria scalaris Durieu & Mont. SPECIES
-=======
+# Sphaeria scalaris Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

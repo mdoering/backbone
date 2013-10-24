@@ -1,5 +1,4 @@
-Phoma colpomatis Richon SPECIES
-=======
+# Phoma colpomatis Richon SPECIES
 
 #### Status
 ACCEPTED

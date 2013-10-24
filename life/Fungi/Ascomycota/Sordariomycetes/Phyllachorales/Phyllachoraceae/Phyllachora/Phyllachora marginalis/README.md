@@ -1,5 +1,4 @@
-Phyllachora marginalis Pat., 1892 SPECIES
-=======
+# Phyllachora marginalis Pat., 1892 SPECIES
 
 #### Status
 ACCEPTED

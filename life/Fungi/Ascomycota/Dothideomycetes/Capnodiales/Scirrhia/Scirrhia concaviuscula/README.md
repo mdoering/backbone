@@ -1,5 +1,4 @@
-Scirrhia concaviuscula (Ellis & Everh.) M.E. Barr SPECIES
-=======
+# Scirrhia concaviuscula (Ellis & Everh.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

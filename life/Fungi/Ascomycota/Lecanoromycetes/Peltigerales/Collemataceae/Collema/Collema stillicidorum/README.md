@@ -1,5 +1,4 @@
-Collema stillicidorum Harm. SPECIES
-=======
+# Collema stillicidorum Harm. SPECIES
 
 #### Status
 ACCEPTED

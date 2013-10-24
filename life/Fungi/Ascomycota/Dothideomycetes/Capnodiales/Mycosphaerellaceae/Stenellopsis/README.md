@@ -1,5 +1,4 @@
-Stenellopsis B. Huguenin, 1966 GENUS
-=======
+# Stenellopsis B. Huguenin, 1966 GENUS
 
 #### Status
 ACCEPTED

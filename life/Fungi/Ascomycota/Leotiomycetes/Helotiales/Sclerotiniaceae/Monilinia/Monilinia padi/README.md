@@ -1,17 +1,16 @@
-Monilinia padi f. sp FORM
-=======
+# Monilinia padi (Woronin) Honey, 1936 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mikol. Fitopatol. 6(5): 397 (1972)
+Am. J. Bot. 23: 105 (1936)
 
 #### Original name
-Monilinia padi f. sp
+Sclerotinia padi Woronin, 1895
 
 ### Remarks
 null

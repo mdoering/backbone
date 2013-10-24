@@ -1,5 +1,4 @@
-Thecaphora deformans Durieu & Mont., 1847 SPECIES
-=======
+# Thecaphora deformans Durieu & Mont., 1847 SPECIES
 
 #### Status
 ACCEPTED

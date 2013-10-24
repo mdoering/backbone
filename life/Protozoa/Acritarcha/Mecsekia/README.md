@@ -1,5 +1,4 @@
-Mecsekia M. Hajós, 1966 GENUS
-=======
+# Mecsekia M. Hajós, 1966 GENUS
 
 #### Status
 ACCEPTED

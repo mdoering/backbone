@@ -1,5 +1,4 @@
-Micropeltis ekmanii Petr. & Cif. SPECIES
-=======
+# Micropeltis ekmanii Petr. & Cif. SPECIES
 
 #### Status
 ACCEPTED

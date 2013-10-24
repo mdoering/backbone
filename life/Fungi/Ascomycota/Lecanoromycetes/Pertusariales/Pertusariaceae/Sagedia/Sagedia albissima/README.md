@@ -1,5 +1,4 @@
-Sagedia albissima (Fée) A. Massal. SPECIES
-=======
+# Sagedia albissima (Fée) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

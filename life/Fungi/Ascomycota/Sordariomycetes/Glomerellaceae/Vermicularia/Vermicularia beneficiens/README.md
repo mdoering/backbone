@@ -1,5 +1,4 @@
-Vermicularia beneficiens Peck SPECIES
-=======
+# Vermicularia beneficiens Peck SPECIES
 
 #### Status
 ACCEPTED

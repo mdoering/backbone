@@ -1,5 +1,4 @@
-Eotikhinella Pronina in Petrova & Pronina, 1980 GENUS
-=======
+# Eotikhinella Pronina in Petrova & Pronina, 1980 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coelosphaeria andina Speg. SPECIES
-=======
+# Coelosphaeria andina Speg. SPECIES
 
 #### Status
 ACCEPTED

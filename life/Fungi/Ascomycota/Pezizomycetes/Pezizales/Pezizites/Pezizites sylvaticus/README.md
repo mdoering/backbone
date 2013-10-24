@@ -1,5 +1,4 @@
-Pezizites sylvaticus Kalgutkar & Janson. SPECIES
-=======
+# Pezizites sylvaticus Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

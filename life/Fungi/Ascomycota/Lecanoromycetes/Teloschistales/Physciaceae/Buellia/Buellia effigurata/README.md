@@ -1,5 +1,4 @@
-Buellia effigurata Anzi SPECIES
-=======
+# Buellia effigurata Anzi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Dasyscypha tuberculiformis Ellis & Everh. SPECIES
-=======
+# Dasyscyphus tuberculiformis Ellis & Everh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Dasyscypha tuberculiformis Ellis & Everh.
+Dasyscyphus tuberculiformis Ellis & Everh.
 
 ### Remarks
 null

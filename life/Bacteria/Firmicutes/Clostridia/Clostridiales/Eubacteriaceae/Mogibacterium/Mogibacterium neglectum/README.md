@@ -1,5 +1,4 @@
-Mogibacterium neglectum Nakazawa et al., 2002 SPECIES
-=======
+# Mogibacterium neglectum Nakazawa et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

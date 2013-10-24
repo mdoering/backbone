@@ -1,5 +1,4 @@
-Lachnodochium Marchal GENUS
-=======
+# Lachnodochium Marchal GENUS
 
 #### Status
 ACCEPTED

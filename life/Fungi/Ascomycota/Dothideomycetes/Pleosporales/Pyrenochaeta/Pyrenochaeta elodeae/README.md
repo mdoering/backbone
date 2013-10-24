@@ -1,5 +1,4 @@
-Pyrenochaeta elodeae Orshansk. SPECIES
-=======
+# Pyrenochaeta elodeae Orshansk. SPECIES
 
 #### Status
 ACCEPTED

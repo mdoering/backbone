@@ -1,5 +1,4 @@
-Coniothyrium arthurianum Sacc. & Berl. SPECIES
-=======
+# Coniothyrium arthurianum Sacc. & Berl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Carpoglossum angustifolium (Sonder) J. Agardh SPECIES
-=======
+# Platythalia angustifolia Sonder SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Halofolliculina Hadzi, 1951 GENUS
-=======
+# Halofolliculina Hadzi, 1951 GENUS
 
 #### Status
 ACCEPTED

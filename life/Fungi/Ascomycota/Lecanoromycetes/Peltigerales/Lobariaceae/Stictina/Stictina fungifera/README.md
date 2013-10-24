@@ -1,5 +1,4 @@
-Stictina fungifera Räsänen SPECIES
-=======
+# Stictina fungifera Räsänen SPECIES
 
 #### Status
 ACCEPTED

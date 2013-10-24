@@ -1,5 +1,4 @@
-Pleurocybomyces GENUS
-=======
+# Pleurocybomyces GENUS
 
 #### Status
 ACCEPTED

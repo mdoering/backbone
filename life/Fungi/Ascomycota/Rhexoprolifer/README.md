@@ -1,5 +1,4 @@
-Rhexoprolifer Matsush. GENUS
-=======
+# Rhexoprolifer Matsush. GENUS
 
 #### Status
 ACCEPTED

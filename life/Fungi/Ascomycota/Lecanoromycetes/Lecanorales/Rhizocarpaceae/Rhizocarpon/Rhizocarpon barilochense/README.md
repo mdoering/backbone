@@ -1,5 +1,4 @@
-Rhizocarpon barilochense Räsänen SPECIES
-=======
+# Rhizocarpon barilochense Räsänen SPECIES
 
 #### Status
 ACCEPTED

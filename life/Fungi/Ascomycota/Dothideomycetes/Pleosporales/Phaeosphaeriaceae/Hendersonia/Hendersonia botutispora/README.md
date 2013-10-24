@@ -1,5 +1,4 @@
-Hendersonia botutispora Teng SPECIES
-=======
+# Hendersonia botutispora Teng SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cylindrosporium leonuri Sorokin SPECIES
-=======
+# Cylindrosporium leonuri Sorokin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectria microspora Cooke & Ellis SPECIES
-=======
+# Nectria microspora Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

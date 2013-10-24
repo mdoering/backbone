@@ -1,5 +1,4 @@
-Hormographiella aspergillata Guarro, Gené & De Vroey, 1992 SPECIES
-=======
+# Hormographiella aspergillata Guarro, Gené & De Vroey, 1992 SPECIES
 
 #### Status
 ACCEPTED

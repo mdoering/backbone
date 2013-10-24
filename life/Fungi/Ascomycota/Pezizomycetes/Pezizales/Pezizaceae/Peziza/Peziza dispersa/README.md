@@ -1,5 +1,4 @@
-Peziza dispersa Wallr. SPECIES
-=======
+# Peziza dispersa Wallr. SPECIES
 
 #### Status
 ACCEPTED

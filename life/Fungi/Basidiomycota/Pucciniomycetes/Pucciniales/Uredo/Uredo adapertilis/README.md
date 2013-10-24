@@ -1,5 +1,4 @@
-Uredo adapertilis Cummins SPECIES
-=======
+# Uredo adapertilis Cummins SPECIES
 
 #### Status
 ACCEPTED

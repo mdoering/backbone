@@ -1,5 +1,4 @@
-Lagenidium elegans (Perronc.) Cif. SPECIES
-=======
+# Lagenidium elegans (Perronc.) Cif. SPECIES
 
 #### Status
 ACCEPTED

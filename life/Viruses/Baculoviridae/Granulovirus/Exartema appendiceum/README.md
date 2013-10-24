@@ -1,5 +1,4 @@
-Exartema appendiceum GV SPECIES
-=======
+# Exartema appendiceum GV SPECIES
 
 #### Status
 ACCEPTED

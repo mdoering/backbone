@@ -1,11 +1,10 @@
-Miraltia throndsenii Marino, Montresor & Zingone, 1987 SPECIES
-=======
+# Chaetoceros throndsenii (D. Marino, M. Montresor, & A. Zingone) D. Marino, M. Montresor & A. Zingone SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

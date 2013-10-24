@@ -1,5 +1,4 @@
-Cercosporella pouzolziae Sawada SPECIES
-=======
+# Cercosporella pouzolziae Sawada SPECIES
 
 #### Status
 ACCEPTED

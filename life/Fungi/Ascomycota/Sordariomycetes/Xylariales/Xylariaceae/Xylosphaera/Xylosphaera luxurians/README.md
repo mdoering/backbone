@@ -1,5 +1,4 @@
-Xylosphaera luxurians (Rehm) Dennis SPECIES
-=======
+# Xylosphaera luxurians (Rehm) Dennis SPECIES
 
 #### Status
 ACCEPTED

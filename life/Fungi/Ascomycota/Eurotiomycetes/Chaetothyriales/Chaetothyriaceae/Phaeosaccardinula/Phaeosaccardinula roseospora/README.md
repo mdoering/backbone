@@ -1,5 +1,4 @@
-Phaeosaccardinula roseospora (Höhn.) Theiss. & Syd. SPECIES
-=======
+# Phaeosaccardinula roseospora (Höhn.) Theiss. & Syd. SPECIES
 
 #### Status
 ACCEPTED

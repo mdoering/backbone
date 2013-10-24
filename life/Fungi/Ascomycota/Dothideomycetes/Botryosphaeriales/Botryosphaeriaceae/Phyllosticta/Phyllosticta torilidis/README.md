@@ -1,5 +1,4 @@
-Phyllosticta torilidis Cejp SPECIES
-=======
+# Phyllosticta torilidis Cejp SPECIES
 
 #### Status
 ACCEPTED

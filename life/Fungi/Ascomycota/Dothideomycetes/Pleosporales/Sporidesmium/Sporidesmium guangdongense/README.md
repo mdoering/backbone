@@ -1,5 +1,4 @@
-Sporidesmium guangdongense W.P. Wu SPECIES
-=======
+# Sporidesmium guangdongense W.P. Wu SPECIES
 
 #### Status
 ACCEPTED

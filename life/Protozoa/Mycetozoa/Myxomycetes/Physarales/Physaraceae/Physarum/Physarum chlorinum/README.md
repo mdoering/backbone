@@ -1,5 +1,4 @@
-Physarum chlorinum Cooke SPECIES
-=======
+# Physarum chlorinum Cooke SPECIES
 
 #### Status
 ACCEPTED

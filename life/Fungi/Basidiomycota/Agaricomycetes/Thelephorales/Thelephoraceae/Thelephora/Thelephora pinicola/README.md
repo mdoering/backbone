@@ -1,5 +1,4 @@
-Thelephora pinicola Britzelm. SPECIES
-=======
+# Thelephora pinicola Britzelm. SPECIES
 
 #### Status
 ACCEPTED

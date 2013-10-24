@@ -1,5 +1,4 @@
-Xylaria entosulphurea J.D. Rogers, F. San Martín & Y.M. Ju SPECIES
-=======
+# Xylaria entosulphurea J.D. Rogers, F. San Martín & Y.M. Ju SPECIES
 
 #### Status
 ACCEPTED

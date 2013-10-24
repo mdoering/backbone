@@ -1,5 +1,4 @@
-Groenhiella lignoarenosa E.B.G. Jones SPECIES
-=======
+# Groenhiella lignoarenosa E.B.G. Jones SPECIES
 
 #### Status
 ACCEPTED

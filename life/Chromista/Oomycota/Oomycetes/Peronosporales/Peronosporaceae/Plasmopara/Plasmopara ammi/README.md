@@ -1,5 +1,4 @@
-Plasmopara ammi Constant. SPECIES
-=======
+# Plasmopara ammi Constant. SPECIES
 
 #### Status
 ACCEPTED

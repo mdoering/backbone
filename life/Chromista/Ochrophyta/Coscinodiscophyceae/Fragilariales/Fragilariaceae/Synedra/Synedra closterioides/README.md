@@ -1,5 +1,4 @@
-Synedra closterioides Grunow SPECIES
-=======
+# Synedra closterioides Grunow SPECIES
 
 #### Status
 ACCEPTED

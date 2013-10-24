@@ -1,5 +1,4 @@
-Opegrapha stictoides Desm. SPECIES
-=======
+# Opegrapha stictoides Desm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calicium italicum (Sacc.) Gola SPECIES
-=======
+# Calicium italicum (Sacc.) Gola SPECIES
 
 #### Status
 ACCEPTED

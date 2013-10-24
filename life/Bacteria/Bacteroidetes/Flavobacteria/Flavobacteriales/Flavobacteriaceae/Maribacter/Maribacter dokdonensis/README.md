@@ -1,5 +1,4 @@
-Maribacter dokdonensis Yoon et al., 2005 SPECIES
-=======
+# Maribacter dokdonensis Yoon et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

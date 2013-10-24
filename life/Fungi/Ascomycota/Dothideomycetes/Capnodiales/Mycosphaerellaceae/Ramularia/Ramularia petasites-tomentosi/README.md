@@ -1,5 +1,4 @@
-Ramularia petasites-tomentosi Savul. & Sandu SPECIES
-=======
+# Ramularia petasites-tomentosi Savul. & Sandu SPECIES
 
 #### Status
 ACCEPTED

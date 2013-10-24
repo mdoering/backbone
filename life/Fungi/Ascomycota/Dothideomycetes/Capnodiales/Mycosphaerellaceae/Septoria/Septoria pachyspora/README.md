@@ -1,5 +1,4 @@
-Septoria pachyspora Ellis & Holw. SPECIES
-=======
+# Septoria pachyspora Ellis & Holw. SPECIES
 
 #### Status
 ACCEPTED

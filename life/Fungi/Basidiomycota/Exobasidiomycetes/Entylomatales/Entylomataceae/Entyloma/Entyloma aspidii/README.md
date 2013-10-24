@@ -1,5 +1,4 @@
-Entyloma aspidii (Bres.) Höhn. SPECIES
-=======
+# Entyloma aspidii (Bres.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Rhodophyllus hypoporphyrius (Berk. & M.A. Curtis) Pat. SPECIES
-=======
+# Rhodophyllus hypoporphyrus (Berk. & M.A. Curtis) Pat. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Duss, Enum. Champ. Guadeloupe (Lons-le-Saunier) 53 (1903)
 
 #### Original name
 Agaricus hypoporphyrus Berk. & M.A. Curtis

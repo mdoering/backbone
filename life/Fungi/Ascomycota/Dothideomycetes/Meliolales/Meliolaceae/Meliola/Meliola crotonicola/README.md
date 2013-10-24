@@ -1,5 +1,4 @@
-Meliola crotonicola F. Stevens SPECIES
-=======
+# Meliola crotonicola F. Stevens SPECIES
 
 #### Status
 ACCEPTED

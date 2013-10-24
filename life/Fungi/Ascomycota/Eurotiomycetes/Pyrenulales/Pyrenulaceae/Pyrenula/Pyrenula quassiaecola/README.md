@@ -1,17 +1,16 @@
-Pyrenula verrucaria Baileyi C. Knight SPECIES
-=======
+# Pyrenula quassiaecola Fée SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Essai Crypt. Exot. (Paris), Suppl. 79 (1837)
 
 #### Original name
-null
+Pyrenula quassiaecola Fée
 
 ### Remarks
 null

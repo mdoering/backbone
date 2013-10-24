@@ -1,14 +1,13 @@
-Helminthosporium subolivaceum Ellis & Everh., 1888 SPECIES
-=======
+# Endophragmiella subolivacea (Ellis & Everh.) S. Hughes, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Mycol. 4(4-5): 44 (1888)
+Fungi Canadenses, Ottawa 129: no. 129 (1978)
 
 #### Original name
 Helminthosporium subolivaceum Ellis & Everh., 1888

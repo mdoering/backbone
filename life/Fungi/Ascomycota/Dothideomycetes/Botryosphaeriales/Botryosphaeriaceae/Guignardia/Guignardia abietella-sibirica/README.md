@@ -1,5 +1,4 @@
-Guignardia abietella-sibirica (Schwarzman & Tartenova) Vasyag. SPECIES
-=======
+# Guignardia abietella-sibirica (Schwarzman & Tartenova) Vasyag. SPECIES
 
 #### Status
 ACCEPTED

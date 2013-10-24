@@ -1,5 +1,4 @@
-Gloeocapsa paroliniana Wille SPECIES
-=======
+# Gloeocapsa paroliniana Wille SPECIES
 
 #### Status
 ACCEPTED

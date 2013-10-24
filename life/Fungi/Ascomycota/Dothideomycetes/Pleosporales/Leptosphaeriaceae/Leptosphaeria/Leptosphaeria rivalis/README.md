@@ -1,5 +1,4 @@
-Leptosphaeria rivalis Feltgen SPECIES
-=======
+# Leptosphaeria rivalis Feltgen SPECIES
 
 #### Status
 ACCEPTED

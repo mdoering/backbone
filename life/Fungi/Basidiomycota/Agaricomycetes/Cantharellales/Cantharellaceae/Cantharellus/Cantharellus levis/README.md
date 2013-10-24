@@ -1,5 +1,4 @@
-Cantharellus levis Fr. SPECIES
-=======
+# Cantharellus levis Fr. SPECIES
 
 #### Status
 ACCEPTED

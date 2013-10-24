@@ -1,5 +1,4 @@
-Lentinus barguirmiensis Pat. & Har. SPECIES
-=======
+# Lentinus barguirmiensis Pat. & Har. SPECIES
 
 #### Status
 ACCEPTED

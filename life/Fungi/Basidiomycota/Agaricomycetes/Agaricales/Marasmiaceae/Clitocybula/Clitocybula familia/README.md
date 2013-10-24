@@ -1,17 +1,16 @@
-Collybia familia var. familia VARIETY
-=======
+# Clitocybula familia (Peck) Singer, 1954 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 8: 110 (1954)
 
 #### Original name
-Collybia familia var. familia
+Collybia familia Peck
 
 ### Remarks
 null

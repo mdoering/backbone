@@ -1,5 +1,4 @@
-Cytospora seselis Moesz SPECIES
-=======
+# Cytospora seselis Moesz SPECIES
 
 #### Status
 ACCEPTED

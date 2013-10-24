@@ -1,5 +1,4 @@
-Verrucaria submacrostoma Roussard SPECIES
-=======
+# Verrucaria submacrostoma Roussard SPECIES
 
 #### Status
 ACCEPTED

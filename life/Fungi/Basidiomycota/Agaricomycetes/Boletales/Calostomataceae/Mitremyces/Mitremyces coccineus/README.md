@@ -1,5 +1,4 @@
-Mitremyces coccineus Berk. SPECIES
-=======
+# Mitremyces coccineus Berk. SPECIES
 
 #### Status
 ACCEPTED

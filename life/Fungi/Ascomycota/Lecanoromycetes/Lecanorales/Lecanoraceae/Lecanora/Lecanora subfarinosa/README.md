@@ -1,5 +1,4 @@
-Lecanora subfarinosa J. Steiner SPECIES
-=======
+# Lecanora subfarinosa J. Steiner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma jodinae Speg. SPECIES
-=======
+# Phoma jodinae Speg. SPECIES
 
 #### Status
 ACCEPTED

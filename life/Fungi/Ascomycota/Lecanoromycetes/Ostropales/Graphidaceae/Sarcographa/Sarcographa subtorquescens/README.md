@@ -1,5 +1,4 @@
-Sarcographa subtorquescens (Nyl.) Zahlbr. SPECIES
-=======
+# Sarcographa subtorquescens (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

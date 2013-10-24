@@ -1,14 +1,13 @@
-Dicaeoma acocantherae (Henn.) Kuntze SPECIES
-=======
+# Dicaeoma acokantherae (Henn.) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3: 467 (1898)
 
 #### Original name
 Puccinia acokantherae Henn.

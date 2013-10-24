@@ -1,5 +1,4 @@
-Phaeographis aequabilis (Nyl.) Zahlbr. SPECIES
-=======
+# Phaeographis aequabilis (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

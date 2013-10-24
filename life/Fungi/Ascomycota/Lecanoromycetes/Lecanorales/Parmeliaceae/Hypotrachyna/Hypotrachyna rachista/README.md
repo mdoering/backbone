@@ -1,5 +1,4 @@
-Hypotrachyna rachista (Hale) Hale SPECIES
-=======
+# Hypotrachyna rachista (Hale) Hale SPECIES
 
 #### Status
 ACCEPTED

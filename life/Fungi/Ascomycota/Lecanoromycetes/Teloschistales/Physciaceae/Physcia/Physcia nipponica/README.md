@@ -1,5 +1,4 @@
-Physcia nipponica Asahina SPECIES
-=======
+# Physcia nipponica Asahina SPECIES
 
 #### Status
 ACCEPTED

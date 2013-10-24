@@ -1,5 +1,4 @@
-Lecanora louisianae B. de Lesd. SPECIES
-=======
+# Lecanora louisianae B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

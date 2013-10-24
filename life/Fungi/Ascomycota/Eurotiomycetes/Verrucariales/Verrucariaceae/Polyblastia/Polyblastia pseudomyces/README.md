@@ -1,5 +1,4 @@
-Polyblastia pseudomyces (Norman) Th. Fr. SPECIES
-=======
+# Polyblastia pseudomyces (Norman) Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melanoleuca niveipes (Peck) Murrill SPECIES
-=======
+# Melanoleuca niveipes (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

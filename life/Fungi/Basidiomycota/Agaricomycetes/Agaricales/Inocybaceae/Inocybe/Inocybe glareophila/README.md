@@ -1,5 +1,4 @@
-Inocybe glareophila Bidaud & Fillion SPECIES
-=======
+# Inocybe glareophila Bidaud & Fillion SPECIES
 
 #### Status
 ACCEPTED

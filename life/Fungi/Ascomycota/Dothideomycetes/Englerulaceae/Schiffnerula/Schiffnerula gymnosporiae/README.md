@@ -1,5 +1,4 @@
-Schiffnerula gymnosporiae Hansf. SPECIES
-=======
+# Schiffnerula gymnosporiae Hansf. SPECIES
 
 #### Status
 ACCEPTED

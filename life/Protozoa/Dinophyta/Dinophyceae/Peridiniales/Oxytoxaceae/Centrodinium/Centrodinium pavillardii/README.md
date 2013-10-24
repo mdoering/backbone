@@ -1,5 +1,4 @@
-Centrodinium pavillardii F.J.R. Taylor, 1976 SPECIES
-=======
+# Centrodinium pavillardii F.J.R. Taylor, 1976 SPECIES
 
 #### Status
 ACCEPTED

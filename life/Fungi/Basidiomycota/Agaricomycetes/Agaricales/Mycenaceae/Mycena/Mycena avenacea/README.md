@@ -1,17 +1,16 @@
-Agaricus avenaceus var. avenaceus Fr. VARIETY
-=======
+# Mycena avenacea (Fr.) Quél., 1872 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syst. mycol. (Lundae) 1: 150 (1821)
+Mém. Soc. Émul. Montbéliard, Sér. 2 5: 241 (1872)
 
 #### Original name
-Agaricus avenaceus var. avenaceus Fr.
+Agaricus avenaceus Fr., 1821
 
 ### Remarks
 null

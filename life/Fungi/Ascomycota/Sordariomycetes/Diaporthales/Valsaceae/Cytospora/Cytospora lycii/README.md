@@ -1,5 +1,4 @@
-Cytospora lycii Died. SPECIES
-=======
+# Cytospora lycii Died. SPECIES
 
 #### Status
 ACCEPTED

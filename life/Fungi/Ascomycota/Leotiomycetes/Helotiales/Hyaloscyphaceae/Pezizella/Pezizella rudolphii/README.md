@@ -1,17 +1,16 @@
-Pezizella rudolphi Velen. SPECIES
-=======
+# Pezizella rudolphii Velen. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Monogr. Discom. Bohem. (Prague) 171 (1934)
 
 #### Original name
-Pezizella rudolphi Velen.
+Pezizella rudolphii Velen.
 
 ### Remarks
 null

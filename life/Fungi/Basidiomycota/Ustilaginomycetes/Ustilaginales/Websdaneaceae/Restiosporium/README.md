@@ -1,5 +1,4 @@
-Restiosporium Vánky GENUS
-=======
+# Restiosporium Vánky GENUS
 
 #### Status
 ACCEPTED

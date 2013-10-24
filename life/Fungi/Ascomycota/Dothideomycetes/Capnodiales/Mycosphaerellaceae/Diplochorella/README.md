@@ -1,5 +1,4 @@
-Diplochorella GENUS
-=======
+# Diplochorella GENUS
 
 #### Status
 ACCEPTED

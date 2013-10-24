@@ -1,14 +1,13 @@
-Sphaerulina codiicola Dowson SPECIES
-=======
+# Pontogeneia codiicola (Dowson) Kohlm. & E. Kohlm., 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Occ. Pap. Allan Hancock Fdn 8: 20 (1949)
+Marine Mycology, the Higher Fungi (London) 350 (1979)
 
 #### Original name
 Sphaerulina codiicola Dowson

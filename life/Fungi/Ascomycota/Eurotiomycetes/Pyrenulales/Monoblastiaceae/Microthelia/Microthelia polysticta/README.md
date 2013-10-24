@@ -1,5 +1,4 @@
-Microthelia polysticta (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Microthelia polysticta (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

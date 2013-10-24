@@ -1,5 +1,4 @@
-Agaricus atrosquamosus Batsch SPECIES
-=======
+# Agaricus atrosquamosus Batsch SPECIES
 
 #### Status
 ACCEPTED

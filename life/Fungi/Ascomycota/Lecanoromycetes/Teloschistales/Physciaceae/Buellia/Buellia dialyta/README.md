@@ -1,14 +1,13 @@
-Chrismofulvea dialyta (Nyl.) Marbach SPECIES
-=======
+# Buellia dialyta (Nyl.) Tuck. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Biblthca Lichenol. 74: 152 (2000)
+Geneac. Lich. 187 (1872)
 
 #### Original name
 Lecidea dialyta Nyl.

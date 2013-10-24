@@ -1,5 +1,4 @@
-Phyllosticta viburni-opuli Miura SPECIES
-=======
+# Phyllosticta viburni-opuli Miura SPECIES
 
 #### Status
 ACCEPTED

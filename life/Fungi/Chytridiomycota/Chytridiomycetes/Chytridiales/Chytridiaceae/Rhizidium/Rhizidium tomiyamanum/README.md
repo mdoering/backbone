@@ -1,5 +1,4 @@
-Rhizidium tomiyamanum K. Konno SPECIES
-=======
+# Rhizidium tomiyamanum K. Konno SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramularia wisconsina H.C. Greene SPECIES
-=======
+# Ramularia wisconsina H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

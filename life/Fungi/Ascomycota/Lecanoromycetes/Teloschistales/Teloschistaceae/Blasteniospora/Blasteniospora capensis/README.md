@@ -1,5 +1,4 @@
-Blasteniospora capensis (L. f.) Trevis. SPECIES
-=======
+# Blasteniospora capensis (L. f.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

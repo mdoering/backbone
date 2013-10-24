@@ -1,5 +1,4 @@
-Zeugrhabdotus praesigmoides SPECIES
-=======
+# Zeugrhabdotus praesigmoides SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria cerastii Roberge ex Desm., 1849 SPECIES
-=======
+# Septoria cerastii Roberge ex Desm., 1849 SPECIES
 
 #### Status
 ACCEPTED

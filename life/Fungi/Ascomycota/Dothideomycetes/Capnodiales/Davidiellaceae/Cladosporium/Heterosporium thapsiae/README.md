@@ -1,5 +1,4 @@
-Heterosporium thapsiae Petr. SPECIES
-=======
+# Heterosporium thapsiae Petr. SPECIES
 
 #### Status
 ACCEPTED

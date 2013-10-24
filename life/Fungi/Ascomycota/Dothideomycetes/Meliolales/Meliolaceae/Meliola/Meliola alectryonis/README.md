@@ -1,5 +1,4 @@
-Meliola alectryonis Hansf. SPECIES
-=======
+# Meliola alectryonis Hansf. SPECIES
 
 #### Status
 ACCEPTED

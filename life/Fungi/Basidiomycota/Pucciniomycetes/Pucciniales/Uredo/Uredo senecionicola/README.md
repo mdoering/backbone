@@ -1,5 +1,4 @@
-Uredo senecionicola H.S. Jacks. & Holw. SPECIES
-=======
+# Uredo senecionicola H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

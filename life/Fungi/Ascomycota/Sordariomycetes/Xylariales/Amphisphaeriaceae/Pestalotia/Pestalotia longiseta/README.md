@@ -1,5 +1,4 @@
-Pestalotia longiseta Speg. SPECIES
-=======
+# Pestalotia longiseta Speg. SPECIES
 
 #### Status
 ACCEPTED

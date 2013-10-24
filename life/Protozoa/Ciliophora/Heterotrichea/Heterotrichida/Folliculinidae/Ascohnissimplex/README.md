@@ -1,5 +1,4 @@
-Ascohnissimplex GENUS
-=======
+# Ascohnissimplex GENUS
 
 #### Status
 ACCEPTED

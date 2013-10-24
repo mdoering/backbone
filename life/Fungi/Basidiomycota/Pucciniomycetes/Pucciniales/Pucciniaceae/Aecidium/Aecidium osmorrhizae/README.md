@@ -1,5 +1,4 @@
-Aecidium osmorrhizae Peck SPECIES
-=======
+# Aecidium osmorrhizae Peck SPECIES
 
 #### Status
 ACCEPTED

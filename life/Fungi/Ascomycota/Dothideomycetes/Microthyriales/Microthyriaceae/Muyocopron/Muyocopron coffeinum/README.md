@@ -1,5 +1,4 @@
-Muyocopron coffeinum (Ces.) Sacc. SPECIES
-=======
+# Muyocopron coffeinum (Ces.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

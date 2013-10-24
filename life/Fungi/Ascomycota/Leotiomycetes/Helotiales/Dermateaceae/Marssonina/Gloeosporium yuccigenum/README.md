@@ -1,17 +1,16 @@
-Gloeosporium yuccogenum Ellis & Everh. SPECIES
-=======
+# Gloeosporium yuccigenum Ellis & Everh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Mycol. 3(2): 21 (1887)
 
 #### Original name
-Gloeosporium yuccogenum Ellis & Everh.
+Gloeosporium yuccigenum Ellis & Everh.
 
 ### Remarks
 null

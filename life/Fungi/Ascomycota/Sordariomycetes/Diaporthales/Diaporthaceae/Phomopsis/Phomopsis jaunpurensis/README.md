@@ -1,5 +1,4 @@
-Phomopsis jaunpurensis R.C. Srivast. SPECIES
-=======
+# Phomopsis jaunpurensis R.C. Srivast. SPECIES
 
 #### Status
 ACCEPTED

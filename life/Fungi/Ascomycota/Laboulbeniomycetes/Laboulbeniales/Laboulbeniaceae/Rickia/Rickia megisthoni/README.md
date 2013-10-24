@@ -1,5 +1,4 @@
-Rickia megisthoni var. megisthoni VARIETY
-=======
+# Rickia megisthoni Thaxt. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Rickia megisthoni var. megisthoni
+Rickia megisthoni Thaxt.
 
 ### Remarks
 null

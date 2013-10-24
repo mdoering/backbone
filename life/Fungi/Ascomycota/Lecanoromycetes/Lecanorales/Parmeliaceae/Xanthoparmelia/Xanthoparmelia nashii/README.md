@@ -1,5 +1,4 @@
-Xanthoparmelia nashii Elix & J. Johnst. SPECIES
-=======
+# Xanthoparmelia nashii Elix & J. Johnst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusarium pyrinum Schwein. SPECIES
-=======
+# Fusarium pyrinum Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lembosina canthii (Hansf.) Arx SPECIES
-=======
+# Lembosina canthii (Hansf.) Arx SPECIES
 
 #### Status
 ACCEPTED

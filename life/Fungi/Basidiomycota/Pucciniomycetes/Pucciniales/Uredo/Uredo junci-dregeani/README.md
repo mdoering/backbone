@@ -1,5 +1,4 @@
-Uredo junci-dregeani Gjaerum SPECIES
-=======
+# Uredo junci-dregeani Gjaerum SPECIES
 
 #### Status
 ACCEPTED

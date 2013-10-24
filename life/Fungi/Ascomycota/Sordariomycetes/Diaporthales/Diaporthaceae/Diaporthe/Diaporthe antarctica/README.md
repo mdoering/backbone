@@ -1,5 +1,4 @@
-Diaporthe antarctica Speg. SPECIES
-=======
+# Diaporthe antarctica Speg. SPECIES
 
 #### Status
 ACCEPTED

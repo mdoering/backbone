@@ -1,5 +1,4 @@
-Peyritschiella japonica (Terada) I.I. Tav. SPECIES
-=======
+# Peyritschiella japonica (Terada) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

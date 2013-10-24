@@ -1,5 +1,4 @@
-Lecanora personata Leight. SPECIES
-=======
+# Lecanora personata Leight. SPECIES
 
 #### Status
 ACCEPTED

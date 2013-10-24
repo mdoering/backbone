@@ -1,5 +1,4 @@
-Phaeotrichum circinatum Cain SPECIES
-=======
+# Phaeotrichum circinatum Cain SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterosporium betulinum Peck, 1883 SPECIES
-=======
+# Asterosporium betulinum Peck, 1883 SPECIES
 
 #### Status
 ACCEPTED

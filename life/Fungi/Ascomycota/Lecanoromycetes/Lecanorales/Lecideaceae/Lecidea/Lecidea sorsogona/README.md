@@ -1,5 +1,4 @@
-Lecidea sorsogona Vain. SPECIES
-=======
+# Lecidea sorsogona Vain. SPECIES
 
 #### Status
 ACCEPTED

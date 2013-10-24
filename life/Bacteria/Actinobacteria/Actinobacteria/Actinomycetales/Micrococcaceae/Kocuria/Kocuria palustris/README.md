@@ -1,5 +1,4 @@
-Kocuria palustris Kovács et al., 1999 SPECIES
-=======
+# Kocuria palustris Kovács et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

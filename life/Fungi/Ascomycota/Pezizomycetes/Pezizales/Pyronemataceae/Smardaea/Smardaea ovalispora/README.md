@@ -1,5 +1,4 @@
-Smardaea ovalispora (Grelet) Van Vooren SPECIES
-=======
+# Smardaea ovalispora (Grelet) Van Vooren SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetosphaeria bihyalina (Berk. & Broome) Sacc. SPECIES
-=======
+# Chaetosphaeria bihyalina (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

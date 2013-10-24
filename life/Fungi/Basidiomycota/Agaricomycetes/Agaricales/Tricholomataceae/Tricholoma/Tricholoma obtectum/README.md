@@ -1,5 +1,4 @@
-Tricholoma obtectum (Jungh.) SPECIES
-=======
+# Tricholoma obtectum (Jungh.) SPECIES
 
 #### Status
 ACCEPTED

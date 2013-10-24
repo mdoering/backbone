@@ -1,5 +1,4 @@
-Mycobacterium Aronson GENUS
-=======
+# Mycobacterium Aronson GENUS
 
 #### Status
 ACCEPTED

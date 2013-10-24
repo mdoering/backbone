@@ -1,5 +1,4 @@
-Ethmodiscaceae Round FAMILY
-=======
+# Ethmodiscaceae Round FAMILY
 
 #### Status
 ACCEPTED

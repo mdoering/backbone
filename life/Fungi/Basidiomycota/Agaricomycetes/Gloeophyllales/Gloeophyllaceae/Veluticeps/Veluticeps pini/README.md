@@ -1,14 +1,13 @@
-Hymenochaete pini (Pat.) Sacc. & Trotter, 1912 SPECIES
-=======
+# Veluticeps pini Pat., 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 21: 404 (1912)
+Bull. Soc. mycol. Fr. 22: 72 (1907)
 
 #### Original name
 Veluticeps pini Pat., 1907

@@ -1,5 +1,4 @@
-Pezizales J. Schröt. ORDER
-=======
+# Pezizales J. Schröt. ORDER
 
 #### Status
 ACCEPTED

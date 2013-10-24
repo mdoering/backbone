@@ -1,5 +1,4 @@
-Cryptodiscus melanocinctus Rehm SPECIES
-=======
+# Cryptodiscus melanocinctus Rehm SPECIES
 
 #### Status
 ACCEPTED

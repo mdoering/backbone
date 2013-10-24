@@ -1,5 +1,4 @@
-Karschia leptolepis (Bagl.) Müll. Arg. SPECIES
-=======
+# Karschia leptolepis (Bagl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella pachysandrae (Hemmi) Katum. & Y. Harada SPECIES
-=======
+# Mycosphaerella pachysandrae (Hemmi) Katum. & Y. Harada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gyalecta lamprospora Nyl. SPECIES
-=======
+# Gyalecta lamprospora Nyl. SPECIES
 
 #### Status
 ACCEPTED

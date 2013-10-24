@@ -1,8 +1,7 @@
-Mycobacterium chelonae subsp. abscessus SUBSPECIES
-=======
+# Mycobacterium abscessus (Moore & Frerichs, 1953) Kusunoki & Ezaki, 1992 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

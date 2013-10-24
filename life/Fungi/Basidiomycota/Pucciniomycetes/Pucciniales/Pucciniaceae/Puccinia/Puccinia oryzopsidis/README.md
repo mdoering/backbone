@@ -1,5 +1,4 @@
-Puccinia oryzopsidis Syd., P. Syd. & E.J. Butler SPECIES
-=======
+# Puccinia oryzopsidis Syd., P. Syd. & E.J. Butler SPECIES
 
 #### Status
 ACCEPTED

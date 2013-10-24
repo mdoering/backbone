@@ -1,5 +1,4 @@
-Lachnum subglabrum Rehm SPECIES
-=======
+# Lachnum subglabrum Rehm SPECIES
 
 #### Status
 ACCEPTED

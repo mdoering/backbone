@@ -1,5 +1,4 @@
-Lithomelissa setosa Joergensen, 1905 SPECIES
-=======
+# Lithomelissa setosa Joergensen, 1905 SPECIES
 
 #### Status
 ACCEPTED

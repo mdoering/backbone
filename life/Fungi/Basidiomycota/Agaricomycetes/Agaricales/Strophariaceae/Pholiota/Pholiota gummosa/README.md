@@ -1,17 +1,16 @@
-Flammula gummosa var. rufobrunnea P. Karst. VARIETY
-=======
+# Pholiota gummosa (Lasch) Singer, 1951 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bidr. Känn. Finl. Nat. Folk 32: 74 (1879)
+Lilloa 22: 517 (1951)
 
 #### Original name
-Flammula gummosa var. rufobrunnea P. Karst.
+Agaricus gummosus Lasch, 1828
 
 ### Remarks
 null

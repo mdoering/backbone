@@ -1,5 +1,4 @@
-Naucoria tepeitensis Murrill SPECIES
-=======
+# Naucoria tepeitensis Murrill SPECIES
 
 #### Status
 ACCEPTED

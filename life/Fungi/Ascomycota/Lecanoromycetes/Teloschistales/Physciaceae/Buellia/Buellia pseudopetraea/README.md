@@ -1,5 +1,4 @@
-Buellia pseudopetraea SPECIES
-=======
+# Buellia pseudopetraea SPECIES
 
 #### Status
 ACCEPTED

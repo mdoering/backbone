@@ -1,5 +1,4 @@
-Paragonospora Lang, 1954 GENUS
-=======
+# Paragonospora Lang, 1954 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buellia lambii C.W. Dodge SPECIES
-=======
+# Buellia lambii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

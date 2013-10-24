@@ -1,5 +1,4 @@
-Mycosphaerella tiliae Naumov SPECIES
-=======
+# Mycosphaerella tiliae Naumov SPECIES
 
 #### Status
 ACCEPTED

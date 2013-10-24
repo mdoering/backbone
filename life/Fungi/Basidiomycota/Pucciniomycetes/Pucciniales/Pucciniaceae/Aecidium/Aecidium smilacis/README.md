@@ -1,5 +1,4 @@
-Aecidium smilacis Schwein. SPECIES
-=======
+# Aecidium smilacis Schwein. SPECIES
 
 #### Status
 ACCEPTED

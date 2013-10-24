@@ -1,5 +1,4 @@
-Himantia rubiginosum Pers. SPECIES
-=======
+# Himantia rubiginosum Pers. SPECIES
 
 #### Status
 ACCEPTED

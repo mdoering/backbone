@@ -1,5 +1,4 @@
-Rinodina freyi H. Magn. SPECIES
-=======
+# Rinodina freyi H. Magn. SPECIES
 
 #### Status
 ACCEPTED

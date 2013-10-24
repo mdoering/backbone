@@ -1,5 +1,4 @@
-Phyllosticta pleurothallidis Keissl. SPECIES
-=======
+# Phyllosticta pleurothallidis Keissl. SPECIES
 
 #### Status
 ACCEPTED

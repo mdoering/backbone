@@ -1,5 +1,4 @@
-Gloeosporium sisymbrii Moesz SPECIES
-=======
+# Gloeosporium sisymbrii Moesz SPECIES
 
 #### Status
 ACCEPTED

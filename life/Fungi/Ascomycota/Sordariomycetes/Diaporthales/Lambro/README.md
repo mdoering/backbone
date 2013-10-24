@@ -1,5 +1,4 @@
-Lambro Raciborski, 1900 GENUS
-=======
+# Lambro Raciborski, 1900 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Passalora lateritia (Ellis & Halst.) U. Braun & Crous SPECIES
-=======
+# Passalora lateritia (Ellis & Halst.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

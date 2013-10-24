@@ -1,5 +1,4 @@
-Graphium malorum Kidd & Beaumont SPECIES
-=======
+# Graphium malorum Kidd & Beaumont SPECIES
 
 #### Status
 ACCEPTED

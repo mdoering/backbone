@@ -1,5 +1,4 @@
-Lambertella chromoflava (Rick) Dumont SPECIES
-=======
+# Lambertella chromoflava (Rick) Dumont SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Roseospira Imhoff et al., 1998 GENUS
-=======
+# Roseospira Imhoff et al., 1998 GENUS
 
 #### Status
 ACCEPTED

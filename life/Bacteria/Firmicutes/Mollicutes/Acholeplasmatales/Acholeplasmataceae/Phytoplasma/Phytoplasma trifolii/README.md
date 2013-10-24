@@ -1,5 +1,4 @@
-Phytoplasma trifolii Hiruki and Wang, 2004. SPECIES
-=======
+# Phytoplasma trifolii Hiruki and Wang, 2004. SPECIES
 
 #### Status
 ACCEPTED

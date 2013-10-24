@@ -1,5 +1,4 @@
-Involucrothele puteana Servít SPECIES
-=======
+# Involucrothele puteana Servít SPECIES
 
 #### Status
 ACCEPTED

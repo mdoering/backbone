@@ -1,5 +1,4 @@
-Pyrenula oleosa R. C. Harris SPECIES
-=======
+# Pyrenula oleosa R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

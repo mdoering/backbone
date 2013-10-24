@@ -1,5 +1,4 @@
-Lecanora brebissonii var. brebissonii VARIETY
-=======
+# Lecanora brebissonii (Fée) Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,7 +7,7 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Mém. Soc. Imp. Sci. Nat. Cherbourg 5: 112 (1857)
 
 #### Original name
 Lecidea brebissonii Fée

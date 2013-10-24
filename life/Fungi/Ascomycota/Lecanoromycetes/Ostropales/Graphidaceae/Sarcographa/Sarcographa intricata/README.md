@@ -1,5 +1,4 @@
-Sarcographa intricata Fée SPECIES
-=======
+# Sarcographa intricata Fée SPECIES
 
 #### Status
 ACCEPTED

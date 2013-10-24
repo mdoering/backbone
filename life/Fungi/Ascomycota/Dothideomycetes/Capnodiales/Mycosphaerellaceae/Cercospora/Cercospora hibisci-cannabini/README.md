@@ -1,5 +1,4 @@
-Cercospora hibisci-cannabini Sawada SPECIES
-=======
+# Cercospora hibisci-cannabini Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycotorula turbidans Will. SPECIES
-=======
+# Mycotorula turbidans Will. SPECIES
 
 #### Status
 ACCEPTED

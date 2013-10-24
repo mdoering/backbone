@@ -1,5 +1,4 @@
-Lactarius xanthophyllus (P. Karst.) P. Karst. SPECIES
-=======
+# Lactarius xanthophyllus (P. Karst.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

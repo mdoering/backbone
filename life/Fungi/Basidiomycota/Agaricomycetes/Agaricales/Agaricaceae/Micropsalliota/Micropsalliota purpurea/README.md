@@ -1,5 +1,4 @@
-Micropsalliota purpurea Singer SPECIES
-=======
+# Micropsalliota purpurea Singer SPECIES
 
 #### Status
 ACCEPTED

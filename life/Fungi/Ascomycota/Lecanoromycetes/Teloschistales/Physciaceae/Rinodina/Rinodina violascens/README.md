@@ -1,5 +1,4 @@
-Rinodina violascens H. Magn. SPECIES
-=======
+# Rinodina violascens H. Magn. SPECIES
 
 #### Status
 ACCEPTED

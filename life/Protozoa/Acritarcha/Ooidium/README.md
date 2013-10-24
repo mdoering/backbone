@@ -1,5 +1,4 @@
-Ooidium B.V. Timofeev, 1957 GENUS
-=======
+# Ooidium B.V. Timofeev, 1957 GENUS
 
 #### Status
 ACCEPTED

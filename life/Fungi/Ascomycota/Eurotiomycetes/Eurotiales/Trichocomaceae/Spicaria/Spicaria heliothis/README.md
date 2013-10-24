@@ -1,5 +1,4 @@
-Spicaria heliothis Charles SPECIES
-=======
+# Spicaria heliothis Charles SPECIES
 
 #### Status
 ACCEPTED

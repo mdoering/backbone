@@ -1,5 +1,4 @@
-Oxyporus cinnamomeus Núñez & Ryvarden, 1999 SPECIES
-=======
+# Oxyporus cinnamomeus Núñez & Ryvarden, 1999 SPECIES
 
 #### Status
 ACCEPTED

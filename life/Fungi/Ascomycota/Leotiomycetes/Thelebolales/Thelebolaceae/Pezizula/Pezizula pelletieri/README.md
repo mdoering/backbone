@@ -1,5 +1,4 @@
-Pezizula pelletieri Speg. SPECIES
-=======
+# Pezizula pelletieri Speg. SPECIES
 
 #### Status
 ACCEPTED

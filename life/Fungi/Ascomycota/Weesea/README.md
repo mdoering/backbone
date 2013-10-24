@@ -1,5 +1,4 @@
-Weesea Höhn. GENUS
-=======
+# Weesea Höhn. GENUS
 
 #### Status
 ACCEPTED

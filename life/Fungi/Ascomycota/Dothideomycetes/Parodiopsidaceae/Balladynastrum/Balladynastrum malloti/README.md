@@ -1,5 +1,4 @@
-Balladynastrum malloti Sawada & W. Yamam. SPECIES
-=======
+# Balladynastrum malloti Sawada & W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

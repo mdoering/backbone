@@ -1,5 +1,4 @@
-Chloridium junci (Corda) Sacc. SPECIES
-=======
+# Chloridium junci (Corda) Sacc. SPECIES
 
 #### Status
 ACCEPTED

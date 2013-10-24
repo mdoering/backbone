@@ -1,5 +1,4 @@
-Lecanora rupestris (Scop.) Nyl. SPECIES
-=======
+# Lecanora rupestris (Scop.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

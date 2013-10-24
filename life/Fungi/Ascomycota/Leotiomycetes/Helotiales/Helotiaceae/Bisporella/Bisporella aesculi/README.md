@@ -1,17 +1,16 @@
-Bisporella aescula Arendh. & R. Sharma SPECIES
-=======
+# Bisporella aesculi Arendh. & R. Sharma SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 17: 481 (1983)
 
 #### Original name
-Bisporella aescula Arendh. & R. Sharma
+Bisporella aesculi Arendh. & R. Sharma
 
 ### Remarks
 null

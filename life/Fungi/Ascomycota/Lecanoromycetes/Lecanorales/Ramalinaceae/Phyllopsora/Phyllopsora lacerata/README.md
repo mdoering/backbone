@@ -1,5 +1,4 @@
-Phyllopsora lacerata Timdal SPECIES
-=======
+# Phyllopsora lacerata Timdal SPECIES
 
 #### Status
 ACCEPTED

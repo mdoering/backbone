@@ -1,5 +1,4 @@
-Graphis irradians (Fée) Kremp. SPECIES
-=======
+# Graphis irradians (Fée) Kremp. SPECIES
 
 #### Status
 ACCEPTED

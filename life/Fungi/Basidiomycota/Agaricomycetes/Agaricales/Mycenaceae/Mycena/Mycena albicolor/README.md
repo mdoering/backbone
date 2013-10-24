@@ -1,5 +1,4 @@
-Mycena albicolor A.H. Sm. SPECIES
-=======
+# Mycena albicolor A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

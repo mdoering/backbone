@@ -1,14 +1,13 @@
-Sphaerella zelkowae (Syd. & Hara) Sacc. SPECIES
-=======
+# Sphaerella zelkovae (Syd. & Hara) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 24(2): 891 (1928)
 
 #### Original name
 Mycosphaerella zelkowae Syd. & Hara

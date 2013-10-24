@@ -1,5 +1,4 @@
-Ascochyta ludwigiana (Petr.) P.K. Buchanan SPECIES
-=======
+# Ascochyta ludwigiana (Petr.) P.K. Buchanan SPECIES
 
 #### Status
 ACCEPTED

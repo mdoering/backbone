@@ -1,5 +1,4 @@
-Cladosiphon Kützing, 1843 GENUS
-=======
+# Cladosiphon Kützing, 1843 GENUS
 
 #### Status
 ACCEPTED

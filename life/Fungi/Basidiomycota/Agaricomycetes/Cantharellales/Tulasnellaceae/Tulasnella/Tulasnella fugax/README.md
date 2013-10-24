@@ -1,5 +1,4 @@
-Tulasnella fugax (Johan-Olsen) Juel SPECIES
-=======
+# Tulasnella fugax (Johan-Olsen) Juel SPECIES
 
 #### Status
 ACCEPTED

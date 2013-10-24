@@ -1,5 +1,4 @@
-Autophagomyces tiwaiensis W. Rossi SPECIES
-=======
+# Autophagomyces tiwaiensis W. Rossi SPECIES
 
 #### Status
 ACCEPTED

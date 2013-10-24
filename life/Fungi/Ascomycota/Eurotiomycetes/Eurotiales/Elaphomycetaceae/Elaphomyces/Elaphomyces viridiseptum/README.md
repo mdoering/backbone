@@ -1,5 +1,4 @@
-Elaphomyces viridiseptum Trappe & Kimbr., 1972 SPECIES
-=======
+# Elaphomyces viridiseptum Trappe & Kimbr., 1972 SPECIES
 
 #### Status
 ACCEPTED

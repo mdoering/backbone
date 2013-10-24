@@ -1,14 +1,13 @@
-Linochora phyllachoroidea (Speg.) Höhn., 1910 SPECIES
-=======
+# Melophia phyllachoroidea Speg., 1886 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 119: 638 (1910)
+Anal. Soc. cient. argent. 22(4): 200 (1886)
 
 #### Original name
 Melophia phyllachoroidea Speg., 1886

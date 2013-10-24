@@ -1,5 +1,4 @@
-Nodosaria latejugata var. carolinensis Cushman, 1933 VARIETY
-=======
+# Nodosaria latejugata SPECIES
 
 #### Status
 ACCEPTED

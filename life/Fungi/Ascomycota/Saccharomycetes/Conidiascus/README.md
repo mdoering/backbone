@@ -1,5 +1,4 @@
-Conidiascus Holterm. GENUS
-=======
+# Conidiascus Holterm. GENUS
 
 #### Status
 ACCEPTED

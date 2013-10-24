@@ -1,5 +1,4 @@
-Phialocephala compacta Kowalski & Kehr, 1995 SPECIES
-=======
+# Phialocephala compacta Kowalski & Kehr, 1995 SPECIES
 
 #### Status
 ACCEPTED

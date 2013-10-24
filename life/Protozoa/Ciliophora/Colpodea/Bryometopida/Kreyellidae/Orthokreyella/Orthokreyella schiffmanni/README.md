@@ -1,5 +1,4 @@
-Orthokreyella schiffmanni Foissner, 1984 SPECIES
-=======
+# Orthokreyella schiffmanni Foissner, 1984 SPECIES
 
 #### Status
 ACCEPTED

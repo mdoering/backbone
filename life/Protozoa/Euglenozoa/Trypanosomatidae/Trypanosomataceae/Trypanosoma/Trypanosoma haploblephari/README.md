@@ -1,5 +1,4 @@
-Trypanosoma haploblephari Yeld & Smith, 2006 SPECIES
-=======
+# Trypanosoma haploblephari Yeld & Smith, 2006 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhodotorula pinicola F.Y. Bai, L.D. Guo & J.H. Zhao SPECIES
-=======
+# Rhodotorula pinicola F.Y. Bai, L.D. Guo & J.H. Zhao SPECIES
 
 #### Status
 ACCEPTED

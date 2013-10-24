@@ -1,17 +1,16 @@
-Lecanora verrucigera f. verrucigera FORM
-=======
+# Aspicilia verrucigera Hue SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nouvelles archives du Museum d'Histoire Naturelle, Paris, 5 Série 2: 48 (1912)
 
 #### Original name
-Lecanora verrucigera f. verrucigera
+Aspicilia verrucigera Hue
 
 ### Remarks
 null

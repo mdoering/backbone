@@ -1,5 +1,4 @@
-Tylopilus subcellulosus Singer & J. García SPECIES
-=======
+# Tylopilus subcellulosus Singer & J. García SPECIES
 
 #### Status
 ACCEPTED

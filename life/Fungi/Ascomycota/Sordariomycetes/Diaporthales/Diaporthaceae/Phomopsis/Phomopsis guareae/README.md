@@ -1,5 +1,4 @@
-Phomopsis guareae (Henn.) Aa SPECIES
-=======
+# Phomopsis guareae (Henn.) Aa SPECIES
 
 #### Status
 ACCEPTED

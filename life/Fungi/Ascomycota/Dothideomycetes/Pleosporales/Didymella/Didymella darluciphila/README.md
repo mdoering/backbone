@@ -1,5 +1,4 @@
-Didymella darluciphila Speg. SPECIES
-=======
+# Didymella darluciphila Speg. SPECIES
 
 #### Status
 ACCEPTED

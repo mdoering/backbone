@@ -1,5 +1,4 @@
-Amphisolenia palaeotheroides Kofoid, 1907 SPECIES
-=======
+# Amphisolenia palaeotheroides Kofoid, 1907 SPECIES
 
 #### Status
 ACCEPTED

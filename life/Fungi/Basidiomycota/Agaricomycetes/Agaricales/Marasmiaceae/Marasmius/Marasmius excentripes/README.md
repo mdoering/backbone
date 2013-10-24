@@ -1,5 +1,4 @@
-Marasmius excentripes S. Ito & S. Imai SPECIES
-=======
+# Marasmius excentripes S. Ito & S. Imai SPECIES
 
 #### Status
 ACCEPTED

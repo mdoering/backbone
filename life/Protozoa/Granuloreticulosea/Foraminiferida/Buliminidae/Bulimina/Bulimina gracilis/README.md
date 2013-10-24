@@ -1,5 +1,4 @@
-Bulimina gracilis Cushman SPECIES
-=======
+# Bulimina gracilis Cushman SPECIES
 
 #### Status
 ACCEPTED

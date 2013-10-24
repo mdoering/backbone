@@ -1,5 +1,4 @@
-Septoria centellae Cif. SPECIES
-=======
+# Septoria centellae Cif. SPECIES
 
 #### Status
 ACCEPTED

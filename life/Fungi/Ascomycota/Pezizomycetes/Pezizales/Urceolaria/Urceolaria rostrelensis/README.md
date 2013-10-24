@@ -1,5 +1,4 @@
-Urceolaria rostrelensis (B. de Lesd.) Motyka SPECIES
-=======
+# Urceolaria rostrelensis (B. de Lesd.) Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyblastia gyelnikiana Servít SPECIES
-=======
+# Polyblastia gyelnikiana Servít SPECIES
 
 #### Status
 ACCEPTED

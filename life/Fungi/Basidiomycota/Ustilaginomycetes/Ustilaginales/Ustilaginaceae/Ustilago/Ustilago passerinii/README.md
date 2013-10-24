@@ -1,5 +1,4 @@
-Ustilago passerinii A.A. Fisch. Waldh. SPECIES
-=======
+# Ustilago passerinii A.A. Fisch. Waldh. SPECIES
 
 #### Status
 ACCEPTED

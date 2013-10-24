@@ -1,14 +1,13 @@
-Heteroporus roseus D.A. Reid, 1975 SPECIES
-=======
+# Abortiporus roseus (D.A. Reid) Masuka & Ryvarden, 1992 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Microscopy 32: 449 (1975)
+Mycotaxon 44(1): 246 (1992)
 
 #### Original name
 Heteroporus roseus D.A. Reid, 1975

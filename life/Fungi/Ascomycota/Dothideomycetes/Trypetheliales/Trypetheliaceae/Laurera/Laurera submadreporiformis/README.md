@@ -1,5 +1,4 @@
-Laurera submadreporiformis Abbayes SPECIES
-=======
+# Laurera submadreporiformis Abbayes SPECIES
 
 #### Status
 ACCEPTED

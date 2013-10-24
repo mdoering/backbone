@@ -1,5 +1,4 @@
-Amphiblistrum hypochnoides Corda SPECIES
-=======
+# Amphiblistrum hypochnoides Corda SPECIES
 
 #### Status
 ACCEPTED

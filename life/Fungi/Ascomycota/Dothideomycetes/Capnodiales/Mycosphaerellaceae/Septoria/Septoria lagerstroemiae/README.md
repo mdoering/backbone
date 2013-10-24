@@ -1,5 +1,4 @@
-Septoria lagerstroemiae Sacc. & Scalia SPECIES
-=======
+# Septoria lagerstroemiae Sacc. & Scalia SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bibradya Strank, 1983 GENUS
-=======
+# Bibradya Strank, 1983 GENUS
 
 #### Status
 ACCEPTED

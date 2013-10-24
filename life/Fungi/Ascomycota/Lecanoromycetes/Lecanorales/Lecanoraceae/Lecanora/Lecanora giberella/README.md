@@ -1,5 +1,4 @@
-Lecanora giberella Nyl. SPECIES
-=======
+# Lecanora giberella Nyl. SPECIES
 
 #### Status
 ACCEPTED

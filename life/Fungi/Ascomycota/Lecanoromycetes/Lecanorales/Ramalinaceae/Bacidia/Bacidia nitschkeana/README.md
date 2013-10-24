@@ -1,5 +1,4 @@
-Bacidia nitschkeana SPECIES
-=======
+# Bacidia nitschkeana SPECIES
 
 #### Status
 ACCEPTED

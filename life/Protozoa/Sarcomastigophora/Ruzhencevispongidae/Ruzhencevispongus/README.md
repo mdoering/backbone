@@ -1,5 +1,4 @@
-Ruzhencevispongus Dumitrica, Kozur & Mostler, 1980 GENUS
-=======
+# Ruzhencevispongus Dumitrica, Kozur & Mostler, 1980 GENUS
 
 #### Status
 ACCEPTED

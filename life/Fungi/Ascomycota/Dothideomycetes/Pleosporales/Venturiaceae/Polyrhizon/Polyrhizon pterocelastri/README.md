@@ -1,5 +1,4 @@
-Polyrhizon pterocelastri Doidge SPECIES
-=======
+# Polyrhizon pterocelastri Doidge SPECIES
 
 #### Status
 ACCEPTED

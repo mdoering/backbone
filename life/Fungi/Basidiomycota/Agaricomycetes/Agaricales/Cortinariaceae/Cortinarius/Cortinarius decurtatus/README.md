@@ -1,5 +1,4 @@
-Cortinarius decurtatus Rob. Henry SPECIES
-=======
+# Cortinarius decurtatus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

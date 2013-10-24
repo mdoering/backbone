@@ -1,5 +1,4 @@
-Tolyposporium andropogonis Patel & N.B. Kulk. SPECIES
-=======
+# Tolyposporium andropogonis Patel & N.B. Kulk. SPECIES
 
 #### Status
 ACCEPTED

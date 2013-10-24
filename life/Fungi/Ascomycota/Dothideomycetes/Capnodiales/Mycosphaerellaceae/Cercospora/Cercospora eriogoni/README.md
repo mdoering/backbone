@@ -1,5 +1,4 @@
-Cercospora eriogoni Ellis & Everh. SPECIES
-=======
+# Cercospora eriogoni Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

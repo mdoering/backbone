@@ -1,5 +1,4 @@
-Lepiota euconiata (Berk. & Broome) Sacc. SPECIES
-=======
+# Lepiota euconiata (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

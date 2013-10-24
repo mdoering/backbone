@@ -1,5 +1,4 @@
-Tilachlidium cinnabarinum Kidd & Beaumont SPECIES
-=======
+# Tilachlidium cinnabarinum Kidd & Beaumont SPECIES
 
 #### Status
 ACCEPTED

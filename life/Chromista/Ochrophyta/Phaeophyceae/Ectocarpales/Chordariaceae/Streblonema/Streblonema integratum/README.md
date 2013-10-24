@@ -1,5 +1,4 @@
-Streblonema integratum P. Dangeard SPECIES
-=======
+# Streblonema integratum P. Dangeard SPECIES
 
 #### Status
 ACCEPTED

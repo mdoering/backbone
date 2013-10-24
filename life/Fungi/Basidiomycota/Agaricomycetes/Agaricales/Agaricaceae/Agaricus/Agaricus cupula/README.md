@@ -1,5 +1,4 @@
-Agaricus cupula SPECIES
-=======
+# Agaricus cupula SPECIES
 
 #### Status
 ACCEPTED

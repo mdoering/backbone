@@ -1,5 +1,4 @@
-Scleropleella primulicola (G. Winter) Höhn. SPECIES
-=======
+# Scleropleella primulicola (G. Winter) Höhn. SPECIES
 
 #### Status
 ACCEPTED

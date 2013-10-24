@@ -1,5 +1,4 @@
-Laboulbenia eudaliae Thaxt. SPECIES
-=======
+# Laboulbenia eudaliae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mapletonia B. Sutton GENUS
-=======
+# Mapletonia B. Sutton GENUS
 
 #### Status
 ACCEPTED

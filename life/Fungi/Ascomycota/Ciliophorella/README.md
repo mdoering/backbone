@@ -1,5 +1,4 @@
-Ciliophorella Petr. GENUS
-=======
+# Ciliophorella Petr. GENUS
 
 #### Status
 ACCEPTED

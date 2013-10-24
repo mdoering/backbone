@@ -1,5 +1,4 @@
-Lecanora tjibodasensis Zahlbr. SPECIES
-=======
+# Lecanora tjibodasensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

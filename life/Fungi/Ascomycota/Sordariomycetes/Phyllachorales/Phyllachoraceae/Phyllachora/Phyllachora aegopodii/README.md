@@ -1,5 +1,4 @@
-Phyllachora aegopodii Fuckel, 1870 SPECIES
-=======
+# Phyllachora aegopodii Fuckel, 1870 SPECIES
 
 #### Status
 ACCEPTED

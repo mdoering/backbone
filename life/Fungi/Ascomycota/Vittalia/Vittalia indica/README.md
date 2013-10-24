@@ -1,5 +1,4 @@
-Vittalia indica Gawas & Bhat, 2007 SPECIES
-=======
+# Vittalia indica Gawas & Bhat, 2007 SPECIES
 
 #### Status
 ACCEPTED

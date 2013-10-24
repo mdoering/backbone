@@ -1,5 +1,4 @@
-Agaricus albonudus Beeli SPECIES
-=======
+# Agaricus albonudus Beeli SPECIES
 
 #### Status
 ACCEPTED

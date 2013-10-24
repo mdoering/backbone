@@ -1,5 +1,4 @@
-Puccinia jurineae-humilis Maire SPECIES
-=======
+# Puccinia jurineae-humilis Maire SPECIES
 
 #### Status
 ACCEPTED

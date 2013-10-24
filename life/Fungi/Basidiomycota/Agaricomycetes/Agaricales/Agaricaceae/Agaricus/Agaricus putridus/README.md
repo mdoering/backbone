@@ -1,5 +1,4 @@
-Agaricus putridus Scop. SPECIES
-=======
+# Agaricus putridus Scop. SPECIES
 
 #### Status
 ACCEPTED

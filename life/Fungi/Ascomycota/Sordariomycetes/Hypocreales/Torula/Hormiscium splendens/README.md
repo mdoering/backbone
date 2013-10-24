@@ -1,5 +1,4 @@
-Hormiscium splendens (Cooke) Sacc. SPECIES
-=======
+# Hormiscium splendens (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

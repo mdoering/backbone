@@ -1,5 +1,4 @@
-Nidulispora Nawawi & Kuthub. GENUS
-=======
+# Nidulispora Nawawi & Kuthub. GENUS
 
 #### Status
 ACCEPTED

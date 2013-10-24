@@ -1,5 +1,4 @@
-Euglena longicaulis Prescott SPECIES
-=======
+# Euglena longicaulis Prescott SPECIES
 
 #### Status
 ACCEPTED

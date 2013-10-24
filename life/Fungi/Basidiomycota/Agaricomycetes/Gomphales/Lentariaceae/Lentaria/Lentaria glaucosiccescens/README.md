@@ -1,5 +1,4 @@
-Lentaria glaucosiccescens R.H. Petersen, 2000 SPECIES
-=======
+# Lentaria glaucosiccescens R.H. Petersen, 2000 SPECIES
 
 #### Status
 ACCEPTED

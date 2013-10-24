@@ -1,5 +1,4 @@
-Obtectodiscus E. Müll., Petrini & Samuels GENUS
-=======
+# Obtectodiscus E. Müll., Petrini & Samuels GENUS
 
 #### Status
 ACCEPTED

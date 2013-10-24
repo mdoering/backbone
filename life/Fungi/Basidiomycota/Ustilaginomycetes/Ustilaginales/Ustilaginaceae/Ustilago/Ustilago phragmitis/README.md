@@ -1,5 +1,4 @@
-Ustilago phragmitis L. Ling SPECIES
-=======
+# Ustilago phragmitis L. Ling SPECIES
 
 #### Status
 ACCEPTED

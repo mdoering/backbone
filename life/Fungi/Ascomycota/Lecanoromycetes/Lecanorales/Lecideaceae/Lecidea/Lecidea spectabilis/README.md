@@ -1,5 +1,4 @@
-Lecidea spectabilis Flörke SPECIES
-=======
+# Lecidea spectabilis Flörke SPECIES
 
 #### Status
 ACCEPTED

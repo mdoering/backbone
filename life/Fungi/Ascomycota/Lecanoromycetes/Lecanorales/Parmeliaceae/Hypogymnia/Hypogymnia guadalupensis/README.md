@@ -1,5 +1,4 @@
-Hypogymnia guadalupensis McCune SPECIES
-=======
+# Hypogymnia guadalupensis McCune SPECIES
 
 #### Status
 ACCEPTED

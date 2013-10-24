@@ -1,5 +1,4 @@
-Boletus silvaticus Thiers SPECIES
-=======
+# Boletus silvaticus Thiers SPECIES
 
 #### Status
 ACCEPTED

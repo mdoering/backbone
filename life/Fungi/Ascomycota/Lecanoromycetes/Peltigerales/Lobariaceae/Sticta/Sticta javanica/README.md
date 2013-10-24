@@ -1,5 +1,4 @@
-Sticta javanica SPECIES
-=======
+# Sticta javanica SPECIES
 
 #### Status
 ACCEPTED

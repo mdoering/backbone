@@ -1,5 +1,4 @@
-Haplographium graminum Cooke & Massee SPECIES
-=======
+# Haplographium graminum Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

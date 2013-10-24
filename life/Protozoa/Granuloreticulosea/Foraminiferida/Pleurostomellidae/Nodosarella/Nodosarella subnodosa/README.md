@@ -1,5 +1,4 @@
-Nodosarella subnodosa (Guppy) SPECIES
-=======
+# Nodosarella subnodosa (Guppy) SPECIES
 
 #### Status
 ACCEPTED

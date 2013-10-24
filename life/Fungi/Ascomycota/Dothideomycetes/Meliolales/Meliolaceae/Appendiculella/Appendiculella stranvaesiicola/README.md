@@ -1,5 +1,4 @@
-Appendiculella stranvaesiicola (W. Yamam.) Hansf. SPECIES
-=======
+# Appendiculella stranvaesiicola (W. Yamam.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

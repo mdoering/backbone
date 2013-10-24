@@ -1,5 +1,4 @@
-Haptoglossa erumpens Glockling, 2000 SPECIES
-=======
+# Haptoglossa erumpens Glockling, 2000 SPECIES
 
 #### Status
 ACCEPTED

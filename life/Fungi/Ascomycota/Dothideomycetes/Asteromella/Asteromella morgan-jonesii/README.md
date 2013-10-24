@@ -1,5 +1,4 @@
-Asteromella morgan-jonesii N.D. Sharma SPECIES
-=======
+# Asteromella morgan-jonesii N.D. Sharma SPECIES
 
 #### Status
 ACCEPTED

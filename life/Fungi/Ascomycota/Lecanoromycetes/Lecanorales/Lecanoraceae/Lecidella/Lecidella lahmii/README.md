@@ -1,5 +1,4 @@
-Lecidella lahmii (Hepp) Körb. SPECIES
-=======
+# Lecidella lahmii (Hepp) Körb. SPECIES
 
 #### Status
 ACCEPTED

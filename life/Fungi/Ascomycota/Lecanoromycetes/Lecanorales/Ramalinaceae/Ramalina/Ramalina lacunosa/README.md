@@ -1,5 +1,4 @@
-Ramalina lacunosa Rupr. SPECIES
-=======
+# Ramalina lacunosa Rupr. SPECIES
 
 #### Status
 ACCEPTED

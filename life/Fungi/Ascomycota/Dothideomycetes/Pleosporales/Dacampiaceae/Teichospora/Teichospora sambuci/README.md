@@ -1,5 +1,4 @@
-Teichospora sambuci (Earle) M.E. Barr SPECIES
-=======
+# Teichospora sambuci (Earle) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

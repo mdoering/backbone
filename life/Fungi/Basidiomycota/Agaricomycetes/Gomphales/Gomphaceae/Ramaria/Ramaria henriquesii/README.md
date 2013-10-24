@@ -1,14 +1,13 @@
-Clavaria henriquesii Bres. & Roum., 1890 SPECIES
-=======
+# Ramaria henriquesii (Bres. & Roum.) Corner, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revue mycol. , Toulouse 12: 36 (1890)
+Monograph of Clavaria and allied Genera (Annals of Botany Memoirs No. 1) 596 (1950)
 
 #### Original name
 Clavaria henriquesii Bres. & Roum., 1890

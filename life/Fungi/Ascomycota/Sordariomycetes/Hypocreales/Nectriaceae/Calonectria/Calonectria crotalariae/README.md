@@ -1,8 +1,7 @@
-Cylindrocladium crotalariae (Loos) D.K. Bell & Sobers, 1966 SPECIES
-=======
+# Calonectria crotalariae (Loos) D.K. Bell & Sobers, 1966 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

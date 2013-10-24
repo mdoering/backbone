@@ -1,5 +1,4 @@
-Kondylostoma marinum SPECIES
-=======
+# Kondylostoma marinum SPECIES
 
 #### Status
 ACCEPTED

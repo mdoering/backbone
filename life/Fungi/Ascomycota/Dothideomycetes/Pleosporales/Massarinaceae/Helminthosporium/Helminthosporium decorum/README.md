@@ -1,5 +1,4 @@
-Helminthosporium decorum Ces. SPECIES
-=======
+# Helminthosporium decorum Ces. SPECIES
 
 #### Status
 ACCEPTED

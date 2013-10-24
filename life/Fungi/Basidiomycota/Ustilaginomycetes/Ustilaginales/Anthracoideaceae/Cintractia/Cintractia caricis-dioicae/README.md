@@ -1,5 +1,4 @@
-Cintractia caricis-dioicae Lehtola SPECIES
-=======
+# Cintractia caricis-dioicae Lehtola SPECIES
 
 #### Status
 ACCEPTED

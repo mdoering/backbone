@@ -1,5 +1,4 @@
-Melanconis platystroma Wehm. SPECIES
-=======
+# Melanconis platystroma Wehm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella formosana T.Y. Lin & J.M. Yen SPECIES
-=======
+# Mycosphaerella formosana T.Y. Lin & J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

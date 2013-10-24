@@ -1,5 +1,4 @@
-Vibrio nigripulchritudo (Baumann et al., 1971) Baumann et al., 1981 SPECIES
-=======
+# Vibrio nigripulchritudo (Baumann et al., 1971) Baumann et al., 1981 SPECIES
 
 #### Status
 ACCEPTED

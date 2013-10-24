@@ -1,14 +1,13 @@
-Acolium hawaiiense Tuck. SPECIES
-=======
+# Nadvornikia hawaiiensis (Tuck.) Tibell SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Beih. Nova Hedwigia 79: 672 (1984)
 
 #### Original name
 Acolium hawaiiense Tuck.

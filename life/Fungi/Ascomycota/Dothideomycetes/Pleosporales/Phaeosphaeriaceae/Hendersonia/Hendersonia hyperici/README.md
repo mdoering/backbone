@@ -1,5 +1,4 @@
-Hendersonia hyperici Richon SPECIES
-=======
+# Hendersonia hyperici Richon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pezizella rufula (Schwein.) Sacc. SPECIES
-=======
+# Pezizella rufula (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

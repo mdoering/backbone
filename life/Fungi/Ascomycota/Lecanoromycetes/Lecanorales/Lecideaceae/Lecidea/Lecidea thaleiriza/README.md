@@ -1,5 +1,4 @@
-Lecidea thaleiriza Nyl. SPECIES
-=======
+# Lecidea thaleiriza Nyl. SPECIES
 
 #### Status
 ACCEPTED

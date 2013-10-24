@@ -1,5 +1,4 @@
-Pluricellaesporites subcapsilaris Sheffy & Dilcher SPECIES
-=======
+# Pluricellaesporites subcapsilaris Sheffy & Dilcher SPECIES
 
 #### Status
 ACCEPTED

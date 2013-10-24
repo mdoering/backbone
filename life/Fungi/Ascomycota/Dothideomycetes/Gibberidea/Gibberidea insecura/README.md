@@ -1,5 +1,4 @@
-Gibberidea insecura (Ellis) Kuntze SPECIES
-=======
+# Gibberidea insecura (Ellis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stereum suberosum (Durieu & Lév.) Sacc. SPECIES
-=======
+# Stereum suberosum (Durieu & Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

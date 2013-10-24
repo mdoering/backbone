@@ -1,5 +1,4 @@
-Holosticha oculata Mereschkowsky, 1877 SPECIES
-=======
+# Holosticha oculata Mereschkowsky, 1877 SPECIES
 
 #### Status
 ACCEPTED

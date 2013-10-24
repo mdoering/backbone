@@ -1,5 +1,4 @@
-Gymnopilus njalaensis (Beeli) Pegler SPECIES
-=======
+# Gymnopilus njalaensis (Beeli) Pegler SPECIES
 
 #### Status
 ACCEPTED

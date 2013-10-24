@@ -1,5 +1,4 @@
-Cortinarius caesionigrellus Lamoure SPECIES
-=======
+# Cortinarius caesionigrellus Lamoure SPECIES
 
 #### Status
 ACCEPTED

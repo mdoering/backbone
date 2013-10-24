@@ -1,5 +1,4 @@
-Caloplaca dolomiticola f. dolomiticola FORM
-=======
+# Caloplaca dolomiticola SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Caloplaca dolomiticola f. dolomiticola
+null
 
 ### Remarks
 null

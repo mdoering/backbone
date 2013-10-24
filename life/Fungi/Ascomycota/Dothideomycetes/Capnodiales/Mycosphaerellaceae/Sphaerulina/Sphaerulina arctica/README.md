@@ -1,5 +1,4 @@
-Sphaerulina arctica (Rostr.) Lind SPECIES
-=======
+# Sphaerulina arctica (Rostr.) Lind SPECIES
 
 #### Status
 ACCEPTED

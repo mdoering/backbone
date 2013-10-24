@@ -1,5 +1,4 @@
-Intranstylum gammari SPECIES
-=======
+# Intranstylum gammari SPECIES
 
 #### Status
 ACCEPTED

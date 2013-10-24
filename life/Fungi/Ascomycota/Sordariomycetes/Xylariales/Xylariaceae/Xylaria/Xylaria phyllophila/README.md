@@ -1,5 +1,4 @@
-Xylaria phyllophila Ces. SPECIES
-=======
+# Xylaria phyllophila Ces. SPECIES
 
 #### Status
 ACCEPTED

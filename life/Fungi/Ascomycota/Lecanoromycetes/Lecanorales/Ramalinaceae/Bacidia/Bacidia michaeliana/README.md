@@ -1,5 +1,4 @@
-Bacidia michaeliana Sérus. SPECIES
-=======
+# Bacidia michaeliana Sérus. SPECIES
 
 #### Status
 ACCEPTED

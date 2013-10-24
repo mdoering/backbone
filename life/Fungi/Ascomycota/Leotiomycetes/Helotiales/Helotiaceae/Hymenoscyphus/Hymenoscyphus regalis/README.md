@@ -1,5 +1,4 @@
-Hymenoscyphus regalis (Cooke & Ellis) Kuntze SPECIES
-=======
+# Hymenoscyphus regalis (Cooke & Ellis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

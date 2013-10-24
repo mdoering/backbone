@@ -1,5 +1,4 @@
-Sagenomella oligospora W. Gams & Luiten, 1978 SPECIES
-=======
+# Sagenomella oligospora W. Gams & Luiten, 1978 SPECIES
 
 #### Status
 ACCEPTED

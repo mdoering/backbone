@@ -1,14 +1,13 @@
-Mycosphaerella eryngiicola (Speg.) Tomilin SPECIES
-=======
+# Mycosphaerella eryngicola (Speg.) Tomilin SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycol. Pap. 123: 203 (1970)
 
 #### Original name
 Sphaerella eryngicola Speg.

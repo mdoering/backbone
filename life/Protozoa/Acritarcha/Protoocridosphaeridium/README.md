@@ -1,5 +1,4 @@
-Protoocridosphaeridium B.V. Timofeev, 1962 GENUS
-=======
+# Protoocridosphaeridium B.V. Timofeev, 1962 GENUS
 
 #### Status
 ACCEPTED

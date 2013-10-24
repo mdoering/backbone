@@ -1,5 +1,4 @@
-Leptotrema lithophila Oxner SPECIES
-=======
+# Leptotrema lithophila Oxner SPECIES
 
 #### Status
 ACCEPTED

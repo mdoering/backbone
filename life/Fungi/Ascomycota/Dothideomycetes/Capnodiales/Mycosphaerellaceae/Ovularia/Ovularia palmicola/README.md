@@ -1,5 +1,4 @@
-Ovularia palmicola E. Pantan. SPECIES
-=======
+# Ovularia palmicola E. Pantan. SPECIES
 
 #### Status
 ACCEPTED

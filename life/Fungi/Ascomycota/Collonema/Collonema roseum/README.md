@@ -1,5 +1,4 @@
-Collonema roseum Höhn. SPECIES
-=======
+# Collonema roseum Höhn. SPECIES
 
 #### Status
 ACCEPTED

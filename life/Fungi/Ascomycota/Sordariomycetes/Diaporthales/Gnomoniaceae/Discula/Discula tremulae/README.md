@@ -1,5 +1,4 @@
-Discula tremulae (Sacc. & Roum.) Höhn. SPECIES
-=======
+# Discula tremulae (Sacc. & Roum.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

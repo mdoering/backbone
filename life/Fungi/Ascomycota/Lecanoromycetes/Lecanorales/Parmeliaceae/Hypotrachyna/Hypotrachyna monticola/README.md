@@ -1,5 +1,4 @@
-Hypotrachyna monticola Louwhoff & Elix SPECIES
-=======
+# Hypotrachyna monticola Louwhoff & Elix SPECIES
 
 #### Status
 ACCEPTED

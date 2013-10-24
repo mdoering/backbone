@@ -1,5 +1,4 @@
-Laevidentalina mucronata (Neugeboren, 1856) SPECIES
-=======
+# Laevidentalina mucronata (Neugeboren, 1856) SPECIES
 
 #### Status
 ACCEPTED

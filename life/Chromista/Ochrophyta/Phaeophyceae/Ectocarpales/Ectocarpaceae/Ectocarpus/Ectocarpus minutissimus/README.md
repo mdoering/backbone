@@ -1,5 +1,4 @@
-Ectocarpus minutissimus Skottsberg & Levring, 1941 SPECIES
-=======
+# Ectocarpus minutissimus Skottsberg & Levring, 1941 SPECIES
 
 #### Status
 ACCEPTED

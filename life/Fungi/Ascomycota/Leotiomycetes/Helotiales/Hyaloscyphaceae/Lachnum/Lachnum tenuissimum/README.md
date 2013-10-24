@@ -1,17 +1,16 @@
-Erinella pudicella Quél., 1885 SPECIES
-=======
+# Lachnum tenuissimum (Quél.) Korf & W.Y. Zhuang, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 22(2): 501 (1985)
 
 #### Original name
-Erinella pudicella Quél., 1885
+null
 
 ### Remarks
 null

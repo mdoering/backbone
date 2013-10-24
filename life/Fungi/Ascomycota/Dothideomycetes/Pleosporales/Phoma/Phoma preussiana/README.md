@@ -1,5 +1,4 @@
-Phoma preussiana Sacc. SPECIES
-=======
+# Phoma preussiana Sacc. SPECIES
 
 #### Status
 ACCEPTED

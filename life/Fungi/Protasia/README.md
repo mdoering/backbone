@@ -1,5 +1,4 @@
-Protasia Raciborski, 1900 GENUS
-=======
+# Protasia Raciborski, 1900 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Capnokyma corticola S. Hughes, 1975 SPECIES
-=======
+# Capnokyma corticola S. Hughes, 1975 SPECIES
 
 #### Status
 ACCEPTED

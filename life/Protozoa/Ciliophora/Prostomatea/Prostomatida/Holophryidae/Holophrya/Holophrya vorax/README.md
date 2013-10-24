@@ -1,5 +1,4 @@
-Holophrya vorax Dragesco, 1960 SPECIES
-=======
+# Holophrya vorax Dragesco, 1960 SPECIES
 
 #### Status
 ACCEPTED

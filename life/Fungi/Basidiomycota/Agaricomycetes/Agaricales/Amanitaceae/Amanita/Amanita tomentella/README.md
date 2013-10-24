@@ -1,5 +1,4 @@
-Amanita tomentella Krombh. SPECIES
-=======
+# Amanita tomentella Krombh. SPECIES
 
 #### Status
 ACCEPTED

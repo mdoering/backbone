@@ -1,5 +1,4 @@
-Phaeocollybia dissiliens A.H. Sm. & Trappe SPECIES
-=======
+# Phaeocollybia dissiliens A.H. Sm. & Trappe SPECIES
 
 #### Status
 ACCEPTED

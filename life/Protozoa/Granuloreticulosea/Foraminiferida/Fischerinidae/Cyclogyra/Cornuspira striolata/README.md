@@ -1,5 +1,4 @@
-Cornuspira striolata Brady SPECIES
-=======
+# Cornuspira striolata Brady SPECIES
 
 #### Status
 DOUBTFUL

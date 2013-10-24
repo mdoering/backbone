@@ -1,5 +1,4 @@
-Agaricus theiodes J. Otto SPECIES
-=======
+# Agaricus theiodes J. Otto SPECIES
 
 #### Status
 ACCEPTED

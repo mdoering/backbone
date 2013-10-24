@@ -1,5 +1,4 @@
-Collema aphaneum (Ach.) Röhl. SPECIES
-=======
+# Collema aphaneum (Ach.) Röhl. SPECIES
 
 #### Status
 ACCEPTED

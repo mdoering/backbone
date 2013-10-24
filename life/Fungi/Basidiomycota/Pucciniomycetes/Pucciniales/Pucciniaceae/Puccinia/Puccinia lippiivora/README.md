@@ -1,5 +1,4 @@
-Puccinia lippiivora Syd. SPECIES
-=======
+# Puccinia lippiivora Syd. SPECIES
 
 #### Status
 ACCEPTED

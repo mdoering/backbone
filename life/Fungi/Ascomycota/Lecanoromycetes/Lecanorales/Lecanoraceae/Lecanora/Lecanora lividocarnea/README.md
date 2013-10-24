@@ -1,5 +1,4 @@
-Lecanora lividocarnea Vain. SPECIES
-=======
+# Lecanora lividocarnea Vain. SPECIES
 
 #### Status
 ACCEPTED

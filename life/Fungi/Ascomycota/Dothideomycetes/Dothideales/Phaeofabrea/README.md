@@ -1,5 +1,4 @@
-Phaeofabrea GENUS
-=======
+# Phaeofabrea GENUS
 
 #### Status
 ACCEPTED

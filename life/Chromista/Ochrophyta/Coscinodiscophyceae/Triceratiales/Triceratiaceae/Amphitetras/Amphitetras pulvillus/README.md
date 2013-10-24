@@ -1,5 +1,4 @@
-Amphitetras pulvillus (Castracane) De Toni SPECIES
-=======
+# Amphitetras pulvillus (Castracane) De Toni SPECIES
 
 #### Status
 ACCEPTED

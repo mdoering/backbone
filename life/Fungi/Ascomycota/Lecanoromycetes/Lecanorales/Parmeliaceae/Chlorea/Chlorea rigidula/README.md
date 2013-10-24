@@ -1,5 +1,4 @@
-Chlorea rigidula Stirt. SPECIES
-=======
+# Chlorea rigidula Stirt. SPECIES
 
 #### Status
 ACCEPTED

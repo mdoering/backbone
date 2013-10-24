@@ -1,5 +1,4 @@
-Lactarius umerensis McNabb, 1971 SPECIES
-=======
+# Lactarius umerensis McNabb, 1971 SPECIES
 
 #### Status
 ACCEPTED

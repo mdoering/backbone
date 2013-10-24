@@ -1,5 +1,4 @@
-Bacidia chapadensis Malme SPECIES
-=======
+# Bacidia chapadensis Malme SPECIES
 
 #### Status
 ACCEPTED

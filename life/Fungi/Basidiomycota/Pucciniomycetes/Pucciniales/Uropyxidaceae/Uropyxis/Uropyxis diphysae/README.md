@@ -1,14 +1,13 @@
-Calliospora diphysae Arthur, 1905 SPECIES
-=======
+# Uropyxis diphysae (Arthur) Cummins, 1943 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Gaz. 39: 391 (1905)
+Bull. Torrey bot. Club 70: 81 (1943)
 
 #### Original name
 Calliospora diphysae Arthur, 1905

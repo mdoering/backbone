@@ -1,5 +1,4 @@
-Plicaria reniformis Velen. SPECIES
-=======
+# Plicaria reniformis Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Patellaria atrovirens (L.) Wallr. SPECIES
-=======
+# Patellaria atrovirens (L.) Wallr. SPECIES
 
 #### Status
 ACCEPTED

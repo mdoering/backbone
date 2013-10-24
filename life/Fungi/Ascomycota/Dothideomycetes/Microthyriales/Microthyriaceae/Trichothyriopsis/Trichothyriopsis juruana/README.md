@@ -1,5 +1,4 @@
-Trichothyriopsis juruana Theiss., 1919 SPECIES
-=======
+# Trichothyriopsis juruana Theiss., 1919 SPECIES
 
 #### Status
 ACCEPTED

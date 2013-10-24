@@ -1,5 +1,4 @@
-Loricophrya tulipa (Maskell, 1887) Matthes, 1956 SPECIES
-=======
+# Loricophrya tulipa (Maskell, 1887) Matthes, 1956 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Haplophragmoides planissimus SPECIES
-=======
+# Haplophragmoides planissimus SPECIES
 
 #### Status
 ACCEPTED

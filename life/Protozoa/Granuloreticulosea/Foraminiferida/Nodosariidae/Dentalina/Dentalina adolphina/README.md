@@ -1,5 +1,4 @@
-Dentalina adolphina d'Orbigny SPECIES
-=======
+# Dentalina adolphina d'Orbigny SPECIES
 
 #### Status
 ACCEPTED

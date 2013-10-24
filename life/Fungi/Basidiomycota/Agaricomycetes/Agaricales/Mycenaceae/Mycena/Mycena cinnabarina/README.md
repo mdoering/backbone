@@ -1,5 +1,4 @@
-Mycena cinnabarina Maas Geest. SPECIES
-=======
+# Mycena cinnabarina Maas Geest. SPECIES
 
 #### Status
 ACCEPTED

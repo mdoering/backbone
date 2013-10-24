@@ -1,5 +1,4 @@
-Bryopogon vancouverensis Gyeln. SPECIES
-=======
+# Bryopogon vancouverensis Gyeln. SPECIES
 
 #### Status
 ACCEPTED

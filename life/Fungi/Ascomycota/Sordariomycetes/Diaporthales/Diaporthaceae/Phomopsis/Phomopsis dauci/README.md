@@ -1,5 +1,4 @@
-Phomopsis dauci Arx, 1951 SPECIES
-=======
+# Phomopsis dauci Arx, 1951 SPECIES
 
 #### Status
 ACCEPTED

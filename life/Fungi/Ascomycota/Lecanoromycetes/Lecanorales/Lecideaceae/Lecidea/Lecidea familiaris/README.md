@@ -1,5 +1,4 @@
-Lecidea familiaris Nyl. SPECIES
-=======
+# Lecidea familiaris Nyl. SPECIES
 
 #### Status
 ACCEPTED

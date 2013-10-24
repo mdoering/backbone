@@ -1,5 +1,4 @@
-Graphis persulcata Stirt. SPECIES
-=======
+# Graphis persulcata Stirt. SPECIES
 
 #### Status
 ACCEPTED

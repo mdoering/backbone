@@ -1,5 +1,4 @@
-Mitrula minuta (Sowerby) Fr. SPECIES
-=======
+# Mitrula minuta (Sowerby) Fr. SPECIES
 
 #### Status
 ACCEPTED

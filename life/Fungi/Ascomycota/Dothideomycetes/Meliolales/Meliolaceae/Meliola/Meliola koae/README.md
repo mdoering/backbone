@@ -1,5 +1,4 @@
-Meliola koae F. Stevens SPECIES
-=======
+# Meliola koae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

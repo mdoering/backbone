@@ -1,5 +1,4 @@
-Desulfovibrio bastinii Magot et al., 2004 SPECIES
-=======
+# Desulfovibrio bastinii Magot et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

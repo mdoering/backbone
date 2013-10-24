@@ -1,5 +1,4 @@
-Teichospora scharifii Petr. SPECIES
-=======
+# Teichospora scharifii Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Humaria apiahyna (Speg.) Sacc. SPECIES
-=======
+# Humaria apiahyna (Speg.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

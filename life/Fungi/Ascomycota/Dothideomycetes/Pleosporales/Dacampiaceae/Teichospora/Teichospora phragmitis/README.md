@@ -1,5 +1,4 @@
-Teichospora phragmitis Pass. SPECIES
-=======
+# Teichospora phragmitis Pass. SPECIES
 
 #### Status
 ACCEPTED

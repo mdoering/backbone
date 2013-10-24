@@ -1,5 +1,4 @@
-Phialea panici Höhn. SPECIES
-=======
+# Phialea panici Höhn. SPECIES
 
 #### Status
 ACCEPTED

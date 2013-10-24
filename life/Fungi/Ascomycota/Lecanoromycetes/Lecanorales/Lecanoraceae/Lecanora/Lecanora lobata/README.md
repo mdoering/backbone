@@ -1,5 +1,4 @@
-Lecanora lobata Fée SPECIES
-=======
+# Lecanora lobata Fée SPECIES
 
 #### Status
 ACCEPTED

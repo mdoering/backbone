@@ -1,5 +1,4 @@
-Ceratopycnis muscorum Racov. SPECIES
-=======
+# Ceratopycnis muscorum Racov. SPECIES
 
 #### Status
 ACCEPTED

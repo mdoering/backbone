@@ -1,5 +1,4 @@
-Phyllosticta statices-gmelinii Lobik SPECIES
-=======
+# Phyllosticta statices-gmelinii Lobik SPECIES
 
 #### Status
 ACCEPTED

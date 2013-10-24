@@ -1,5 +1,4 @@
-Spirulina ardissoni Cohn SPECIES
-=======
+# Spirulina ardissoni Cohn SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cylindrochytridium johnstonii Karling, 1941 SPECIES
-=======
+# Cylindrochytridium johnstonii Karling, 1941 SPECIES
 
 #### Status
 ACCEPTED

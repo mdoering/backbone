@@ -1,5 +1,4 @@
-Schiffnerula allophyli Hansf. SPECIES
-=======
+# Schiffnerula allophyli Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xylaria terminaliae-crenulatae A. Pande & Waing. SPECIES
-=======
+# Xylaria terminaliae-crenulatae A. Pande & Waing. SPECIES
 
 #### Status
 ACCEPTED

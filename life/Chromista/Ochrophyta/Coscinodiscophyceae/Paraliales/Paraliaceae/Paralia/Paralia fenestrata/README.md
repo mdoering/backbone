@@ -1,5 +1,4 @@
-Paralia fenestrata Sawai & Nagumo, 2005 SPECIES
-=======
+# Paralia fenestrata Sawai & Nagumo, 2005 SPECIES
 
 #### Status
 ACCEPTED

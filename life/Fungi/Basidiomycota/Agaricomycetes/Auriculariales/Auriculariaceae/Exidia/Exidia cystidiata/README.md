@@ -1,5 +1,4 @@
-Exidia cystidiata Olive SPECIES
-=======
+# Exidia cystidiata Olive SPECIES
 
 #### Status
 ACCEPTED

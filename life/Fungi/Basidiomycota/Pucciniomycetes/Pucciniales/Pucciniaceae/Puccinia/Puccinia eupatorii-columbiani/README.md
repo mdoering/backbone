@@ -1,5 +1,4 @@
-Puccinia eupatorii-columbiani Mayor SPECIES
-=======
+# Puccinia eupatorii-columbiani Mayor SPECIES
 
 #### Status
 ACCEPTED

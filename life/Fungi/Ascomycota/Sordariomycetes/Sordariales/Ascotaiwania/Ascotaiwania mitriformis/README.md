@@ -1,5 +1,4 @@
-Ascotaiwania mitriformis Ranghoo & K.D. Hyde, 1998 SPECIES
-=======
+# Ascotaiwania mitriformis Ranghoo & K.D. Hyde, 1998 SPECIES
 
 #### Status
 ACCEPTED

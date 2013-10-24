@@ -1,5 +1,4 @@
-Oceanimonas Brown, Sutcliffe & Cummings, 2005 GENUS
-=======
+# Oceanimonas Brown, Sutcliffe & Cummings, 2005 GENUS
 
 #### Status
 ACCEPTED

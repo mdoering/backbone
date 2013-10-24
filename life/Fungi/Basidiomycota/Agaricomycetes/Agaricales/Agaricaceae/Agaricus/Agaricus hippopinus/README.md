@@ -1,5 +1,4 @@
-Agaricus hippopinus With. SPECIES
-=======
+# Agaricus hippopinus With. SPECIES
 
 #### Status
 ACCEPTED

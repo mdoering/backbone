@@ -1,5 +1,4 @@
-Cladothele J.D.Hooker & Harvey, 1845 GENUS
-=======
+# Cladothele J.D.Hooker & Harvey, 1845 GENUS
 
 #### Status
 ACCEPTED

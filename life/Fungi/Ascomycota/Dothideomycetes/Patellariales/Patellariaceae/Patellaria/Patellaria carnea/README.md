@@ -1,5 +1,4 @@
-Patellaria carnea P. Crouan & H. Crouan SPECIES
-=======
+# Patellaria carnea P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

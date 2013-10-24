@@ -1,14 +1,13 @@
-Sclerospora butleri W. Weston, 1933 SPECIES
-=======
+# Sclerophthora butleri (W. Weston) Thirum., C.G. Shaw & Naras., 1953 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Phytopathology 23: 592 (1933)
+null
 
 #### Original name
 Sclerospora butleri W. Weston, 1933

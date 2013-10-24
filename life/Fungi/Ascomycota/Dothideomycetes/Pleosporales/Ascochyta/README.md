@@ -1,5 +1,4 @@
-Ascochyta Lib. GENUS
-=======
+# Ascochyta Lib. GENUS
 
 #### Status
 ACCEPTED

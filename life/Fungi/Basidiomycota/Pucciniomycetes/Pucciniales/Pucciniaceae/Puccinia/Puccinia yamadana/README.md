@@ -1,5 +1,4 @@
-Puccinia yamadana Togashi & Onuma SPECIES
-=======
+# Puccinia yamadana Togashi & Onuma SPECIES
 
 #### Status
 ACCEPTED

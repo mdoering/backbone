@@ -1,14 +1,13 @@
-Hypochnus cinereoumbrinus Bres., 1926 SPECIES
-=======
+# Tomentella cinereoumbrina (Bres.) Stalpers, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Stud. Trent. , A 7: 62 (1926)
+Stud. Mycol. 35: 26 (1993)
 
 #### Original name
 Hypochnus cinereoumbrinus Bres., 1926

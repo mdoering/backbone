@@ -1,14 +1,13 @@
-Verrucaria bacilligera (Arnold) Hue SPECIES
-=======
+# Staurothele bacilligera (Arnold) Arnold SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Flora, Jena 68: 154 (1885)
 
 #### Original name
 Polyblastia bacilligera Arnold

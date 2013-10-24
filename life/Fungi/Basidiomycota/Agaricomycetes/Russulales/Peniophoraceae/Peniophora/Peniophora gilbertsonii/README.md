@@ -1,5 +1,4 @@
-Peniophora gilbertsonii Boidin, 1994 SPECIES
-=======
+# Peniophora gilbertsonii Boidin, 1994 SPECIES
 
 #### Status
 ACCEPTED

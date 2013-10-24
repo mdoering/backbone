@@ -1,5 +1,4 @@
-Parmelia amabilis var. amabilis VARIETY
-=======
+# Parmelia amabilis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia amabilis var. amabilis
+Parmelia amabilis Zahlbr.
 
 ### Remarks
 null

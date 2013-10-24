@@ -1,17 +1,16 @@
-Parasclerophoma Petr. GENUS
-=======
+# Dothichiza Libert ex Roumeguère, 1880 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Annls mycol. 22(1/2): 53 (1924)
+null
 
 #### Original name
-Parasclerophoma Petr.
+null
 
 ### Remarks
 null

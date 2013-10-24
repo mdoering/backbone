@@ -1,5 +1,4 @@
-Borodinia Hanzawa, 1940 GENUS
-=======
+# Borodinia Hanzawa, 1940 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhodophyllus ambiguus Romagn. & Gilles SPECIES
-=======
+# Rhodophyllus ambiguus Romagn. & Gilles SPECIES
 
 #### Status
 ACCEPTED

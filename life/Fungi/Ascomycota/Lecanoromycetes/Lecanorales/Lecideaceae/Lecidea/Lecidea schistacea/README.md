@@ -1,5 +1,4 @@
-Lecidea schistacea C. Knight SPECIES
-=======
+# Lecidea schistacea C. Knight SPECIES
 
 #### Status
 ACCEPTED

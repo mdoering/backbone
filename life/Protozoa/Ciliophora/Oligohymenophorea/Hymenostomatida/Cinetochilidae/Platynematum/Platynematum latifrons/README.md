@@ -1,5 +1,4 @@
-Platynematum latifrons (Gourret & Roeser, 1888) Foissner, Berger & Kohmann, 1994 SPECIES
-=======
+# Platynematum latifrons (Gourret & Roeser, 1888) Foissner, Berger & Kohmann, 1994 SPECIES
 
 #### Status
 ACCEPTED

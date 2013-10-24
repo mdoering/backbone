@@ -1,5 +1,4 @@
-Puccinia picridis-strigosae var. picridis-strigosae VARIETY
-=======
+# Puccinia picridis-strigosae P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Puccinia picridis-strigosae var. picridis-strigosae
+Puccinia picridis-strigosae P. Syd. & Syd.
 
 ### Remarks
 null

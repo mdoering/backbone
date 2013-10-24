@@ -1,17 +1,16 @@
-Polyporus montagnei var. montagnei Fr. VARIETY
-=======
+# Coltricia montagnei (Fr.) Murrill, 1920 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 2 1: 341 (1836)
+Mycologia 12(1): 13 (1920)
 
 #### Original name
-Polyporus montagnei var. montagnei Fr.
+Polyporus montagnei Fr., 1836
 
 ### Remarks
 null

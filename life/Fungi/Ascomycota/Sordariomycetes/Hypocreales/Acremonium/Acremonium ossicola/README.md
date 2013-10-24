@@ -1,17 +1,16 @@
-Acremonium ossicolum Cif. & Redaelli SPECIES
-=======
+# Acremonium ossicola Cif. & Redaelli, 1943 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Atti Ist. bot. Univ. Lab. crittog. Pavia, Sér. 5 3: 12 (1943)
 
 #### Original name
-Acremonium ossicolum Cif. & Redaelli
+Acremonium ossicola Cif. & Redaelli, 1943
 
 ### Remarks
 null

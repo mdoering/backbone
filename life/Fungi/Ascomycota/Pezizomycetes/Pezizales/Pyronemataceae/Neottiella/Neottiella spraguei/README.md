@@ -1,5 +1,4 @@
-Neottiella spraguei (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Neottiella spraguei (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

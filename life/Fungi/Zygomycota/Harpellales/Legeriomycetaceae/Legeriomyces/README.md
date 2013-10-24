@@ -1,5 +1,4 @@
-Legeriomyces Pouzar GENUS
-=======
+# Legeriomyces Pouzar GENUS
 
 #### Status
 ACCEPTED

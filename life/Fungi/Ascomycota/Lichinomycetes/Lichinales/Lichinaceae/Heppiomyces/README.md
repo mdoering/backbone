@@ -1,5 +1,4 @@
-Heppiomyces GENUS
-=======
+# Heppiomyces GENUS
 
 #### Status
 ACCEPTED

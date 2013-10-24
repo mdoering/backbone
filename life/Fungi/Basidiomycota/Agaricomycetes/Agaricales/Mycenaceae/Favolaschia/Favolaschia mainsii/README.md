@@ -1,5 +1,4 @@
-Favolaschia mainsii Singer, 1974 SPECIES
-=======
+# Favolaschia mainsii Singer, 1974 SPECIES
 
 #### Status
 ACCEPTED

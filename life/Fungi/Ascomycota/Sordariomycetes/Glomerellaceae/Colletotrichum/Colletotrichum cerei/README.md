@@ -1,5 +1,4 @@
-Colletotrichum cerei Earle SPECIES
-=======
+# Colletotrichum cerei Earle SPECIES
 
 #### Status
 ACCEPTED

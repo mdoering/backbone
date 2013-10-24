@@ -1,5 +1,4 @@
-Dennisiomyces fuscoalbus Singer, 1989 SPECIES
-=======
+# Dennisiomyces fuscoalbus Singer, 1989 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleuropus underwoodii (Peck) Murrill SPECIES
-=======
+# Pleuropus underwoodii (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leucoporus virgatus (Berk. & M.A. Curtis) Pat. SPECIES
-=======
+# Leucoporus virgatus (Berk. & M.A. Curtis) Pat. SPECIES
 
 #### Status
 ACCEPTED

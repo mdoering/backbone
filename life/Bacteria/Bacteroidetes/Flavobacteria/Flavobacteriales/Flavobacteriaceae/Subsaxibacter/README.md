@@ -1,5 +1,4 @@
-Subsaxibacter Bowman & Nichols, 2005 GENUS
-=======
+# Subsaxibacter Bowman & Nichols, 2005 GENUS
 
 #### Status
 ACCEPTED

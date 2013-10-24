@@ -1,5 +1,4 @@
-Entoloma chelone Noordel. & E. Horak SPECIES
-=======
+# Entoloma chelone Noordel. & E. Horak SPECIES
 
 #### Status
 ACCEPTED

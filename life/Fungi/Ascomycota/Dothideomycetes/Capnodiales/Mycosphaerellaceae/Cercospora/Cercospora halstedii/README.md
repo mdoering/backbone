@@ -1,5 +1,4 @@
-Cercospora halstedii Ellis & Everh. SPECIES
-=======
+# Cercospora halstedii Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

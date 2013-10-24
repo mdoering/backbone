@@ -1,5 +1,4 @@
-Helminthosporium schelkownikowii Woron. SPECIES
-=======
+# Helminthosporium schelkownikowii Woron. SPECIES
 
 #### Status
 ACCEPTED

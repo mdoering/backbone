@@ -1,5 +1,4 @@
-Crinipellis substipitaria G. Stev., 1964 SPECIES
-=======
+# Crinipellis substipitaria G. Stev., 1964 SPECIES
 
 #### Status
 ACCEPTED

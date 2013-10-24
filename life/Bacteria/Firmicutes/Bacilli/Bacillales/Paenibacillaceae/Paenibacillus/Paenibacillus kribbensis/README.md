@@ -1,5 +1,4 @@
-Paenibacillus kribbensis Yoon et al., 2003 SPECIES
-=======
+# Paenibacillus kribbensis Yoon et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

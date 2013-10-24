@@ -1,17 +1,16 @@
-Dasyscypha myrtilli Velen. SPECIES
-=======
+# Dasyscyphus myrtilli Velen. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Monogr. Discom. Bohem. (Prague) 239 (1934)
 
 #### Original name
-Dasyscypha myrtilli Velen.
+Dasyscyphus myrtilli Velen.
 
 ### Remarks
 null

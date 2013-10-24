@@ -1,5 +1,4 @@
-Phoma californica Ellis & Everh. SPECIES
-=======
+# Phoma californica Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

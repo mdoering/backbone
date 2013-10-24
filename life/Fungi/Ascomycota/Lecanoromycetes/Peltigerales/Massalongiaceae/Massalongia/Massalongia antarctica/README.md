@@ -1,5 +1,4 @@
-Massalongia antarctica C.W. Dodge SPECIES
-=======
+# Massalongia antarctica C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

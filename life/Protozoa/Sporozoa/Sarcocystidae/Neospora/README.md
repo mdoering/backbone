@@ -1,5 +1,4 @@
-Neospora Dubey, Carpenter, Speer, Topper & Uggla, 1988 GENUS
-=======
+# Neospora Dubey, Carpenter, Speer, Topper & Uggla, 1988 GENUS
 
 #### Status
 ACCEPTED

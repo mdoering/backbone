@@ -1,5 +1,4 @@
-Eleutheroschizon duboscqi Brasil, 1906 SPECIES
-=======
+# Eleutheroschizon duboscqi Brasil, 1906 SPECIES
 
 #### Status
 ACCEPTED

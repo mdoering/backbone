@@ -1,5 +1,4 @@
-Phakopsora itoana Hirats. f. SPECIES
-=======
+# Phakopsora itoana Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

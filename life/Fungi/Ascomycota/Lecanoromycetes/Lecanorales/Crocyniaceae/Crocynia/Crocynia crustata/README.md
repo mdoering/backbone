@@ -1,5 +1,4 @@
-Crocynia crustata Hue SPECIES
-=======
+# Crocynia crustata Hue SPECIES
 
 #### Status
 ACCEPTED

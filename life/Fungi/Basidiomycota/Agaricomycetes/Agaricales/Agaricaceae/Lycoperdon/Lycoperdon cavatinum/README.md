@@ -1,5 +1,4 @@
-Lycoperdon cavatinum Afzel. SPECIES
-=======
+# Lycoperdon cavatinum Afzel. SPECIES
 
 #### Status
 ACCEPTED

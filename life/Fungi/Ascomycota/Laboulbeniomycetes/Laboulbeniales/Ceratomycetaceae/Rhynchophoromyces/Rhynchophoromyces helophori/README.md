@@ -1,5 +1,4 @@
-Rhynchophoromyces helophori Santam., 1999 SPECIES
-=======
+# Rhynchophoromyces helophori Santam., 1999 SPECIES
 
 #### Status
 ACCEPTED

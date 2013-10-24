@@ -1,8 +1,7 @@
-Aspergillus hiratsukae Udagawa, Tsub. & Y. Horie, 1991 SPECIES
-=======
+# Neosartorya hiratsukae Udagawa, Tsub. & Y. Horie, 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Trans. Mycol. Soc. Japan 32(1): 23 (1991)
 
 #### Original name
-Aspergillus hiratsukae Udagawa, Tsub. & Y. Horie, 1991
+Neosartorya hiratsukae Udagawa, Tsub. & Y. Horie, 1991
 
 ### Remarks
 null

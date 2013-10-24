@@ -1,5 +1,4 @@
-Volvariella minutella Courtec. SPECIES
-=======
+# Volvariella minutella Courtec. SPECIES
 
 #### Status
 ACCEPTED

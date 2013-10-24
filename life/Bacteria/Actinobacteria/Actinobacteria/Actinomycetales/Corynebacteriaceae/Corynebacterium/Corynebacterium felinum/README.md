@@ -1,5 +1,4 @@
-Corynebacterium felinum Collins et al., 2001 SPECIES
-=======
+# Corynebacterium felinum Collins et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

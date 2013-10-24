@@ -1,5 +1,4 @@
-Laboulbenia giardi Cépède & F. Picard, 1908 SPECIES
-=======
+# Laboulbenia giardi Cépède & F. Picard, 1908 SPECIES
 
 #### Status
 ACCEPTED

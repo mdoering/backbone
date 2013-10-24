@@ -1,5 +1,4 @@
-Lepiota dumetorum Velen. SPECIES
-=======
+# Lepiota dumetorum Velen. SPECIES
 
 #### Status
 ACCEPTED

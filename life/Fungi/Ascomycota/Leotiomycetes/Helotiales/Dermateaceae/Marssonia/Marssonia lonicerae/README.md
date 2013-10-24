@@ -1,5 +1,4 @@
-Marssonia lonicerae Harkn. SPECIES
-=======
+# Marssonia lonicerae Harkn. SPECIES
 
 #### Status
 ACCEPTED

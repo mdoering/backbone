@@ -1,5 +1,4 @@
-Aecidium collinsiae Ellis & Everh. SPECIES
-=======
+# Aecidium collinsiae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

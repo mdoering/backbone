@@ -1,5 +1,4 @@
-Micropuccinia pulsatillae (Kalchbr.) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia pulsatillae (Kalchbr.) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

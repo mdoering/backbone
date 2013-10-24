@@ -1,5 +1,4 @@
-Neopeckia bambusae Höhn. SPECIES
-=======
+# Neopeckia bambusae Höhn. SPECIES
 
 #### Status
 ACCEPTED

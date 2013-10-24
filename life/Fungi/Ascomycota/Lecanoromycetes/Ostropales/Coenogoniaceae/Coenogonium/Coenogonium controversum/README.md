@@ -1,5 +1,4 @@
-Coenogonium controversum Pers. SPECIES
-=======
+# Coenogonium controversum Pers. SPECIES
 
 #### Status
 ACCEPTED

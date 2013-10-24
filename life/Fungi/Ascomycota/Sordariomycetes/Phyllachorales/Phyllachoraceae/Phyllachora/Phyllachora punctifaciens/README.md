@@ -1,17 +1,16 @@
-Plectosphaera manaosensis (Henn.) Theiss., 1917 SPECIES
-=======
+# Phyllachora punctifaciens Petr., 1934 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 14(6): 414 (1917)
+Annls mycol. 32: 401 (1934)
 
 #### Original name
-Physalospora manaosensis Henn., 1905
+Phyllachora punctifaciens Petr., 1934
 
 ### Remarks
 null

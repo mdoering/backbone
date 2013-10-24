@@ -1,5 +1,4 @@
-Glugea atherinae Berrebi, 1979 SPECIES
-=======
+# Glugea atherinae Berrebi, 1979 SPECIES
 
 #### Status
 ACCEPTED

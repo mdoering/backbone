@@ -1,5 +1,4 @@
-Lactarius pseudoscrobiculatus Basso, Neville & Poumarat SPECIES
-=======
+# Lactarius pseudoscrobiculatus Basso, Neville & Poumarat SPECIES
 
 #### Status
 ACCEPTED

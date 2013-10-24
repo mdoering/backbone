@@ -1,5 +1,4 @@
-Stictina robillardii C.W. Dodge SPECIES
-=======
+# Stictina robillardii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus putredinis anon. SPECIES
-=======
+# Agaricus putredinis anon. SPECIES
 
 #### Status
 ACCEPTED

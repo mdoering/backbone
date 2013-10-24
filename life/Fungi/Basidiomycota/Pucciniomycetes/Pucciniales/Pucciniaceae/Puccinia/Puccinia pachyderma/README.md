@@ -1,5 +1,4 @@
-Puccinia pachyderma Wettst. SPECIES
-=======
+# Puccinia pachyderma Wettst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ostreionella fusispora Seaver SPECIES
-=======
+# Ostreionella fusispora Seaver SPECIES
 
 #### Status
 ACCEPTED

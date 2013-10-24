@@ -1,5 +1,4 @@
-Trichoderma taxi Chu L. Zhang, F.C. Lin & C.P. Kubicek SPECIES
-=======
+# Trichoderma taxi Chu L. Zhang, F.C. Lin & C.P. Kubicek SPECIES
 
 #### Status
 ACCEPTED

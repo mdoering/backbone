@@ -1,5 +1,4 @@
-Stereocaulon prostratum Zahlbr. SPECIES
-=======
+# Stereocaulon prostratum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

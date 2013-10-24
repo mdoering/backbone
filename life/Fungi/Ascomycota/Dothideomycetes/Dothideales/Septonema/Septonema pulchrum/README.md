@@ -1,5 +1,4 @@
-Septonema pulchrum Glezer SPECIES
-=======
+# Septonema pulchrum Glezer SPECIES
 
 #### Status
 ACCEPTED

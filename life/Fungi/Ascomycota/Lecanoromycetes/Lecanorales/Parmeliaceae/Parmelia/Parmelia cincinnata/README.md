@@ -1,5 +1,4 @@
-Parmelia cincinnata Ach. SPECIES
-=======
+# Parmelia cincinnata Ach. SPECIES
 
 #### Status
 ACCEPTED

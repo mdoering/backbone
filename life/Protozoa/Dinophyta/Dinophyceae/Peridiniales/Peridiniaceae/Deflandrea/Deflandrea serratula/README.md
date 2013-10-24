@@ -1,5 +1,4 @@
-Deflandrea serratula Cookson & Eisenack SPECIES
-=======
+# Deflandrea serratula Cookson & Eisenack SPECIES
 
 #### Status
 ACCEPTED

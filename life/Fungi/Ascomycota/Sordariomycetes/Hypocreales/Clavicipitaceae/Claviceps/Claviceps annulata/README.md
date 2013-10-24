@@ -1,5 +1,4 @@
-Claviceps annulata Langdon SPECIES
-=======
+# Claviceps annulata Langdon SPECIES
 
 #### Status
 ACCEPTED

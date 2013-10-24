@@ -1,5 +1,4 @@
-Hygrocybe transformabilis Singer SPECIES
-=======
+# Hygrocybe transformabilis Singer SPECIES
 
 #### Status
 ACCEPTED

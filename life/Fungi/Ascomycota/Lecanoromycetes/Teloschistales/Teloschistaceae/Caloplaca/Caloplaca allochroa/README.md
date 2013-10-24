@@ -1,5 +1,4 @@
-Caloplaca allochroa Y. Joshi, Vondrák & Hur SPECIES
-=======
+# Caloplaca allochroa Y. Joshi, Vondrák & Hur SPECIES
 
 #### Status
 ACCEPTED

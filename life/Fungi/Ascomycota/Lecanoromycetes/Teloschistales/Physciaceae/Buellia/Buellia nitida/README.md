@@ -1,5 +1,4 @@
-Buellia nitida Eitner SPECIES
-=======
+# Buellia nitida Eitner SPECIES
 
 #### Status
 ACCEPTED

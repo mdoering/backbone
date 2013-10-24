@@ -1,5 +1,4 @@
-Barria piceae Z.Q. Yuan, 1994 SPECIES
-=======
+# Barria piceae Z.Q. Yuan, 1994 SPECIES
 
 #### Status
 ACCEPTED

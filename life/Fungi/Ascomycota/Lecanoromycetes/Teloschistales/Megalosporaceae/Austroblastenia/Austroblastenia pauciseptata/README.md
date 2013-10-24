@@ -1,14 +1,13 @@
-Heterothecium pauciseptatum Shirley SPECIES
-=======
+# Austroblastenia pauciseptata (Shirley) Sipman SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Pap. Proc. R. Soc. Tasm. 218 (1894)
+Biblthca Lichenol. 18: 82 (1983)
 
 #### Original name
 Heterothecium pauciseptatum Shirley

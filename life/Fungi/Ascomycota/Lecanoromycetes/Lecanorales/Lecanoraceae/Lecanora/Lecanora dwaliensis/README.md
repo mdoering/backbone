@@ -1,5 +1,4 @@
-Lecanora dwaliensis (Räsänen) D.D. Awasthi SPECIES
-=======
+# Lecanora dwaliensis (Räsänen) D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

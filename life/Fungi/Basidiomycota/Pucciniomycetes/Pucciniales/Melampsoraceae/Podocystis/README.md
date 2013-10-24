@@ -1,5 +1,4 @@
-Podocystis GENUS
-=======
+# Podocystis GENUS
 
 #### Status
 ACCEPTED

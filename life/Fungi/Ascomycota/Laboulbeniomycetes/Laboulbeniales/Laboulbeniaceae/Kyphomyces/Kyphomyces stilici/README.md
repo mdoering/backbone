@@ -1,5 +1,4 @@
-Kyphomyces stilici (Thaxt.) I.I. Tav. SPECIES
-=======
+# Kyphomyces stilici (Thaxt.) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

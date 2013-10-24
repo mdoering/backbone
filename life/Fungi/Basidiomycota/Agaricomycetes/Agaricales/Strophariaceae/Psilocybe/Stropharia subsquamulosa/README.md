@@ -1,5 +1,4 @@
-Stropharia subsquamulosa Mitchel & A.H. Sm. SPECIES
-=======
+# Stropharia subsquamulosa Mitchel & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stegonsporium brasilianum Speg. SPECIES
-=======
+# Stegonsporium brasilianum Speg. SPECIES
 
 #### Status
 ACCEPTED

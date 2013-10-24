@@ -1,5 +1,4 @@
-Marasmius restrictus Corner SPECIES
-=======
+# Marasmius restrictus Corner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pluteolus stramineus Murrill SPECIES
-=======
+# Pluteolus stramineus Murrill SPECIES
 
 #### Status
 ACCEPTED

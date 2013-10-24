@@ -1,5 +1,4 @@
-Arthroderma ciferrii Varsavsky & Ajello, 1964 SPECIES
-=======
+# Arthroderma ciferrii Varsavsky & Ajello, 1964 SPECIES
 
 #### Status
 ACCEPTED

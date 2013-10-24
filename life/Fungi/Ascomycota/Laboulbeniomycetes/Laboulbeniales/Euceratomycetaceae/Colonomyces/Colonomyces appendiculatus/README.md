@@ -1,5 +1,4 @@
-Colonomyces appendiculatus R.K. Benj., 1955 SPECIES
-=======
+# Colonomyces appendiculatus R.K. Benj., 1955 SPECIES
 
 #### Status
 ACCEPTED

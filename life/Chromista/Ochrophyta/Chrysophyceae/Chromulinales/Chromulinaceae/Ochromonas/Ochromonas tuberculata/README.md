@@ -1,5 +1,4 @@
-Ochromonas tuberculata D.J. Hibberd SPECIES
-=======
+# Ochromonas tuberculata D.J. Hibberd SPECIES
 
 #### Status
 ACCEPTED

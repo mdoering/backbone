@@ -1,14 +1,13 @@
-Ophiobolus vermisporus (Ellis) Shoemaker, 1976 SPECIES
-=======
+# Lophionema vermisporum (Ellis) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 54(20): 2393 (1976)
+Syll. fung. (Abellini) 2: 717 (1883)
 
 #### Original name
 Lophiostoma vermispora Ellis, 1882

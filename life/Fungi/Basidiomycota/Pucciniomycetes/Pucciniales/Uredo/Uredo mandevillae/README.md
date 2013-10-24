@@ -1,5 +1,4 @@
-Uredo mandevillae Mayor SPECIES
-=======
+# Uredo mandevillae Mayor SPECIES
 
 #### Status
 ACCEPTED

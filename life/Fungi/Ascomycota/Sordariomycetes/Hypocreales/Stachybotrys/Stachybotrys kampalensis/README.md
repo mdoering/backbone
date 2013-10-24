@@ -1,5 +1,4 @@
-Stachybotrys kampalensis Hansf., 1943 SPECIES
-=======
+# Stachybotrys kampalensis Hansf., 1943 SPECIES
 
 #### Status
 ACCEPTED

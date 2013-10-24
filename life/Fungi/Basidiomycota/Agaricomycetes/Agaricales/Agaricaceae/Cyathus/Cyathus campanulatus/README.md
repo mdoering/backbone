@@ -1,5 +1,4 @@
-Cyathus campanulatus Corda SPECIES
-=======
+# Cyathus campanulatus Corda SPECIES
 
 #### Status
 ACCEPTED

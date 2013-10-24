@@ -1,5 +1,4 @@
-Anixiella GENUS
-=======
+# Anixiella GENUS
 
 #### Status
 ACCEPTED

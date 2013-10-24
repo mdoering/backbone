@@ -1,5 +1,4 @@
-Ciboriopsis uleana (Rehm) Dennis SPECIES
-=======
+# Ciboriopsis uleana (Rehm) Dennis SPECIES
 
 #### Status
 ACCEPTED

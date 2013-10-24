@@ -1,5 +1,4 @@
-Terana miniata (Cooke) Kuntze SPECIES
-=======
+# Terana miniata (Cooke) Kuntze SPECIES
 
 #### Status
 ACCEPTED

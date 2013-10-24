@@ -1,5 +1,4 @@
-Hypholoma rigidipes Peck SPECIES
-=======
+# Hypholoma rigidipes Peck SPECIES
 
 #### Status
 ACCEPTED

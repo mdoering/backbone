@@ -1,5 +1,4 @@
-Pyrenochaeta leptospora Sacc. & Briard SPECIES
-=======
+# Pyrenochaeta leptospora Sacc. & Briard SPECIES
 
 #### Status
 ACCEPTED

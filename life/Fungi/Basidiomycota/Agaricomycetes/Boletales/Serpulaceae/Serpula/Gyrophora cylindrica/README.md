@@ -1,17 +1,16 @@
-Gyrophora cylindrica var. cylindrica VARIETY
-=======
+# Gyrophora cylindrica SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
 null
 
 #### Original name
-Gyrophora cylindrica var. cylindrica
+null
 
 ### Remarks
 null

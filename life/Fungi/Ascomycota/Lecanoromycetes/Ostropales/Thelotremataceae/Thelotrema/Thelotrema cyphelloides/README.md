@@ -1,5 +1,4 @@
-Thelotrema cyphelloides Müll. Arg. SPECIES
-=======
+# Thelotrema cyphelloides Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

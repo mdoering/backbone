@@ -1,5 +1,4 @@
-Arbusculina Marvanová & Descals GENUS
-=======
+# Arbusculina Marvanová & Descals GENUS
 
 #### Status
 ACCEPTED

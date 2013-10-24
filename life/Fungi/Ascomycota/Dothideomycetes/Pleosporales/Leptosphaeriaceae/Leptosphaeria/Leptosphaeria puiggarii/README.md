@@ -1,5 +1,4 @@
-Leptosphaeria puiggarii Speg. SPECIES
-=======
+# Leptosphaeria puiggarii Speg. SPECIES
 
 #### Status
 ACCEPTED

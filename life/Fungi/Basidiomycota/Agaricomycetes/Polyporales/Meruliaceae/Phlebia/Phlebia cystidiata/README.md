@@ -1,5 +1,4 @@
-Phlebia cystidiata H.S. Jacks. ex W.B. Cooke SPECIES
-=======
+# Phlebia cystidiata H.S. Jacks. ex W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

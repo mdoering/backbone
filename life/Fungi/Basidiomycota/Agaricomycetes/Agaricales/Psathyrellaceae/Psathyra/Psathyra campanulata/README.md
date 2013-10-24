@@ -1,5 +1,4 @@
-Psathyra campanulata Massee SPECIES
-=======
+# Psathyra campanulata Massee SPECIES
 
 #### Status
 ACCEPTED

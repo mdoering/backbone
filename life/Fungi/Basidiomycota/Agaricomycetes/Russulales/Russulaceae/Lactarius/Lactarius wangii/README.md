@@ -1,5 +1,4 @@
-Lactarius wangii J.Z. Ying & H.A. Wen SPECIES
-=======
+# Lactarius wangii J.Z. Ying & H.A. Wen SPECIES
 
 #### Status
 ACCEPTED

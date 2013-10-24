@@ -1,5 +1,4 @@
-Cylindrobasidium parasiticum D.A. Reid, 1988 SPECIES
-=======
+# Cylindrobasidium parasiticum D.A. Reid, 1988 SPECIES
 
 #### Status
 ACCEPTED

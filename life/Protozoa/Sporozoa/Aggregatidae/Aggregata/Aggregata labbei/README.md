@@ -1,5 +1,4 @@
-Aggregata labbei Moroff, 1908 SPECIES
-=======
+# Aggregata labbei Moroff, 1908 SPECIES
 
 #### Status
 ACCEPTED

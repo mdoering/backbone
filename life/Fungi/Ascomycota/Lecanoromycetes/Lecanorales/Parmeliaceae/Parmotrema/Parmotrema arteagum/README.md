@@ -1,5 +1,4 @@
-Parmotrema arteagum Egan SPECIES
-=======
+# Parmotrema arteagum Egan SPECIES
 
 #### Status
 ACCEPTED

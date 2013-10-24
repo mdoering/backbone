@@ -1,5 +1,4 @@
-Tremella elliptica Pers. SPECIES
-=======
+# Tremella elliptica Pers. SPECIES
 
 #### Status
 ACCEPTED

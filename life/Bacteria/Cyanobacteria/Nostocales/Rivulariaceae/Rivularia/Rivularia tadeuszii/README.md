@@ -1,5 +1,4 @@
-Rivularia tadeuszii O. Dragastan SPECIES
-=======
+# Rivularia tadeuszii O. Dragastan SPECIES
 
 #### Status
 ACCEPTED

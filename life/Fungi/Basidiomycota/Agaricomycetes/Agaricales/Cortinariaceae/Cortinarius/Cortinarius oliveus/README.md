@@ -1,5 +1,4 @@
-Cortinarius oliveus Quél. SPECIES
-=======
+# Cortinarius oliveus Quél. SPECIES
 
 #### Status
 ACCEPTED

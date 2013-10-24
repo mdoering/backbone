@@ -1,5 +1,4 @@
-Gymnodinium adriaticum (Schmarda) Kofoid & Swezy SPECIES
-=======
+# Gymnodinium adriaticum (Schmarda) Kofoid & Swezy SPECIES
 
 #### Status
 ACCEPTED

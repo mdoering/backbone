@@ -1,17 +1,16 @@
-Helminthosporium hoffmanni Berk. SPECIES
-=======
+# Cochliobolus ravenelii Alcorn, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 13(2): 341 (1981)
 
 #### Original name
-Helminthosporium hoffmanni Berk.
+Cochliobolus ravenelii Alcorn, 1981
 
 ### Remarks
 null

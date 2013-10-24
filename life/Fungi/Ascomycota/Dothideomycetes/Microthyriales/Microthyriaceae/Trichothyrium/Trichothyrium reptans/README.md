@@ -1,14 +1,13 @@
-Trichopeltis reptans (Berk. & M.A. Curtis) Speg., 1889 SPECIES
-=======
+# Trichothyrium reptans (Berk. & M.A. Curtis) S. Hughes, 1953 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Boletín de la Academia Nacional de Ciencias de Córdoba 11: 571 (1889)
+Mycol. Pap. 50: 96 (1953)
 
 #### Original name
 Asterina reptans Berk. & M.A. Curtis, 1868

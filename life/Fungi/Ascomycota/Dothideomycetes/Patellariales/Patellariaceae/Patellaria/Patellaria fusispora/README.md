@@ -1,5 +1,4 @@
-Patellaria fusispora Cooke & Peck SPECIES
-=======
+# Patellaria fusispora Cooke & Peck SPECIES
 
 #### Status
 ACCEPTED

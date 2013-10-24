@@ -1,5 +1,4 @@
-Cercophora coprogena (Speg.) N. Lundq. SPECIES
-=======
+# Cercophora coprogena (Speg.) N. Lundq. SPECIES
 
 #### Status
 ACCEPTED

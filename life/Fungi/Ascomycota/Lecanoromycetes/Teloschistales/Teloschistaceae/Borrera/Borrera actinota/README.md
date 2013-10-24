@@ -1,5 +1,4 @@
-Borrera actinota SPECIES
-=======
+# Borrera actinota SPECIES
 
 #### Status
 ACCEPTED

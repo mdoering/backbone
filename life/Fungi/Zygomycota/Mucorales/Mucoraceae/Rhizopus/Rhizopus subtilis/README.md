@@ -1,5 +1,4 @@
-Rhizopus subtilis Bonord. SPECIES
-=======
+# Rhizopus subtilis Bonord. SPECIES
 
 #### Status
 ACCEPTED

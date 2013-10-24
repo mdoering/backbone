@@ -1,5 +1,4 @@
-Clavariella GENUS
-=======
+# Clavariella GENUS
 
 #### Status
 ACCEPTED

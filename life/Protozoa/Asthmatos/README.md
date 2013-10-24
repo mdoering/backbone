@@ -1,5 +1,4 @@
-Asthmatos J.H.Salisbury GENUS
-=======
+# Asthmatos J.H.Salisbury GENUS
 
 #### Status
 ACCEPTED

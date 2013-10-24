@@ -1,5 +1,4 @@
-Lachnella aeruginosa (Sacc. & Speg.) Sacc. SPECIES
-=======
+# Lachnella aeruginosa (Sacc. & Speg.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

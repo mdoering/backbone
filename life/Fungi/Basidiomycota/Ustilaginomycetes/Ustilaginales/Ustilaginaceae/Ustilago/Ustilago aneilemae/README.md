@@ -1,5 +1,4 @@
-Ustilago aneilemae S. Ito SPECIES
-=======
+# Ustilago aneilemae S. Ito SPECIES
 
 #### Status
 ACCEPTED

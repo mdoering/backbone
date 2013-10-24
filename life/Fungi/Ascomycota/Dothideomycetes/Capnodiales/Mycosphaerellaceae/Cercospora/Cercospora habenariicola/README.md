@@ -1,5 +1,4 @@
-Cercospora habenariicola Meeboon, Hidayat & C. Nakash. SPECIES
-=======
+# Cercospora habenariicola Meeboon, Hidayat & C. Nakash. SPECIES
 
 #### Status
 ACCEPTED

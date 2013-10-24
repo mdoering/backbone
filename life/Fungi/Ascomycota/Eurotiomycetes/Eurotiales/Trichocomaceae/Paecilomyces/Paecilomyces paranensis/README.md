@@ -1,5 +1,4 @@
-Paecilomyces paranensis (Marchion.) Gunth. Müll. SPECIES
-=======
+# Paecilomyces paranensis (Marchion.) Gunth. Müll. SPECIES
 
 #### Status
 ACCEPTED

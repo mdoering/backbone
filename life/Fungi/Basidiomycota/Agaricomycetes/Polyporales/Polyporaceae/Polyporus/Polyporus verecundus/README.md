@@ -1,5 +1,4 @@
-Polyporus verecundus Berk. & M.A. Curtis SPECIES
-=======
+# Polyporus verecundus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

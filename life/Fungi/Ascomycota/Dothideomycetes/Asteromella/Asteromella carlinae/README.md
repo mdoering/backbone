@@ -1,5 +1,4 @@
-Asteromella carlinae Petr. SPECIES
-=======
+# Asteromella carlinae Petr. SPECIES
 
 #### Status
 ACCEPTED

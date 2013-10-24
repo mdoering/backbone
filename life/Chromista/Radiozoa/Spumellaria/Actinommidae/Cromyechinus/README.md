@@ -1,14 +1,13 @@
-Chromyechinus Jørgensen in Nordgaard & Joergensen, 1905 GENUS
-=======
+# Cromyechinus Haeckel, 1881 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Nordgaard & Joergensen, Bergens Mus. Hydrogr. Invest. , 117.
+Jena. Z. , 15, 454.
 
 #### Original name
 null

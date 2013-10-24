@@ -1,5 +1,4 @@
-Camarosporium sarothamni Sousa da Câmara SPECIES
-=======
+# Camarosporium sarothamni Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

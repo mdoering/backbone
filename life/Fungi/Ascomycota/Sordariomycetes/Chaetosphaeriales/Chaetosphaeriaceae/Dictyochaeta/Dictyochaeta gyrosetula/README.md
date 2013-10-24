@@ -1,5 +1,4 @@
-Dictyochaeta gyrosetula Kuthub., Nawawi & G.M. Liew SPECIES
-=======
+# Dictyochaeta gyrosetula Kuthub., Nawawi & G.M. Liew SPECIES
 
 #### Status
 ACCEPTED

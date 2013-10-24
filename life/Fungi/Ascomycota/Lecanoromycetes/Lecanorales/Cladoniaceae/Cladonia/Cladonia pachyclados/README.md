@@ -1,5 +1,4 @@
-Cladonia pachyclados (Vain.) Ahti SPECIES
-=======
+# Cladonia pachyclados (Vain.) Ahti SPECIES
 
 #### Status
 ACCEPTED

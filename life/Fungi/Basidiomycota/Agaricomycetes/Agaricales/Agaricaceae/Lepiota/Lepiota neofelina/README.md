@@ -1,5 +1,4 @@
-Lepiota neofelina Locq. SPECIES
-=======
+# Lepiota neofelina Locq. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lyngbya nordgaardii Wille, 1918 SPECIES
-=======
+# Lyngbya nordgaardii Wille, 1918 SPECIES
 
 #### Status
 ACCEPTED

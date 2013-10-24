@@ -1,5 +1,4 @@
-Halicalyptra depressa Ehrenberg SPECIES
-=======
+# Halicalyptra depressa Ehrenberg SPECIES
 
 #### Status
 ACCEPTED

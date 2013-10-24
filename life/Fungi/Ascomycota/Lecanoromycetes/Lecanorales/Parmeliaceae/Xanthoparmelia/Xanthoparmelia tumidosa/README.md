@@ -1,5 +1,4 @@
-Xanthoparmelia tumidosa Hale SPECIES
-=======
+# Xanthoparmelia tumidosa Hale SPECIES
 
 #### Status
 ACCEPTED

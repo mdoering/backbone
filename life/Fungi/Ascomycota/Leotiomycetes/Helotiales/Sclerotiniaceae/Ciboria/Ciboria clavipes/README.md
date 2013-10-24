@@ -1,5 +1,4 @@
-Ciboria clavipes Hazsl. SPECIES
-=======
+# Ciboria clavipes Hazsl. SPECIES
 
 #### Status
 ACCEPTED

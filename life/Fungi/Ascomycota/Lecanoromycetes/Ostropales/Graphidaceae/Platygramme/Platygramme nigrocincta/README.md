@@ -1,5 +1,4 @@
-Platygramme nigrocincta Fée SPECIES
-=======
+# Platygramme nigrocincta Fée SPECIES
 
 #### Status
 ACCEPTED

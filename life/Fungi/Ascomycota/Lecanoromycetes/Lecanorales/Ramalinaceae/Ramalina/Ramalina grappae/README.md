@@ -1,5 +1,4 @@
-Ramalina grappae Sambo SPECIES
-=======
+# Ramalina grappae Sambo SPECIES
 
 #### Status
 ACCEPTED

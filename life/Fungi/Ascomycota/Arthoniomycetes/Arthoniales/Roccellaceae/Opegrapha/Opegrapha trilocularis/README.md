@@ -1,5 +1,4 @@
-Opegrapha trilocularis Müll. Arg. SPECIES
-=======
+# Opegrapha trilocularis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe mariluanensis (Speg.) Singer SPECIES
-=======
+# Inocybe mariluanensis (Speg.) Singer SPECIES
 
 #### Status
 ACCEPTED

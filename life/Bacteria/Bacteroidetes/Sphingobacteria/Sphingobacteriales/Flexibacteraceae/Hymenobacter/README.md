@@ -1,5 +1,4 @@
-Hymenobacter Hirsch, Ludwig, Hethke, Sittig, Hoffmann & Gallikowski, 1999 GENUS
-=======
+# Hymenobacter Hirsch, Ludwig, Hethke, Sittig, Hoffmann & Gallikowski, 1999 GENUS
 
 #### Status
 ACCEPTED

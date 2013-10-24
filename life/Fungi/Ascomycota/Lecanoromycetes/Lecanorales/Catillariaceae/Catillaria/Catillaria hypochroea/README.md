@@ -1,5 +1,4 @@
-Catillaria hypochroea (Vain.) Zahlbr. SPECIES
-=======
+# Catillaria hypochroea (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

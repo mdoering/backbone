@@ -1,5 +1,4 @@
-Aecidium trigonotidis Syd. & P. Syd. SPECIES
-=======
+# Aecidium trigonotidis Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

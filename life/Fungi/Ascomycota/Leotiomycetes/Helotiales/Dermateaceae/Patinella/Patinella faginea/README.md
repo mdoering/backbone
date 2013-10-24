@@ -1,5 +1,4 @@
-Patinella faginea Velen. SPECIES
-=======
+# Patinella faginea Velen. SPECIES
 
 #### Status
 ACCEPTED

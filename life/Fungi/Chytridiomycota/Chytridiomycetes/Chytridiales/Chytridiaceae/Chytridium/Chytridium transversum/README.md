@@ -1,5 +1,4 @@
-Chytridium transversum A. Braun SPECIES
-=======
+# Chytridium transversum A. Braun SPECIES
 
 #### Status
 ACCEPTED

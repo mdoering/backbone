@@ -1,5 +1,4 @@
-Cortinarius leiocastaneus Niskanen, Liimatainen & Soop SPECIES
-=======
+# Cortinarius leiocastaneus Niskanen, Liimatainen & Soop SPECIES
 
 #### Status
 ACCEPTED

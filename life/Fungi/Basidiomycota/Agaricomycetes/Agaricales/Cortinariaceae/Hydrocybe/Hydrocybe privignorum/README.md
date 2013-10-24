@@ -1,5 +1,4 @@
-Hydrocybe privignorum (Rob. Henry) M.M. Moser SPECIES
-=======
+# Hydrocybe privignorum (Rob. Henry) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

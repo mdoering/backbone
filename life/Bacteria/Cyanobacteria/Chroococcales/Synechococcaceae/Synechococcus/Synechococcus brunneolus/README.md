@@ -1,5 +1,4 @@
-Synechococcus brunneolus Rabenhorst SPECIES
-=======
+# Synechococcus brunneolus Rabenhorst SPECIES
 
 #### Status
 ACCEPTED

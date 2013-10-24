@@ -1,5 +1,4 @@
-Verrucaria caduca Fée SPECIES
-=======
+# Verrucaria caduca Fée SPECIES
 
 #### Status
 ACCEPTED

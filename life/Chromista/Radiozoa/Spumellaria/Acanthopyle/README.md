@@ -1,5 +1,4 @@
-Acanthopyle Vinassa de Regny, 1898 GENUS
-=======
+# Acanthopyle Vinassa de Regny, 1898 GENUS
 
 #### Status
 ACCEPTED

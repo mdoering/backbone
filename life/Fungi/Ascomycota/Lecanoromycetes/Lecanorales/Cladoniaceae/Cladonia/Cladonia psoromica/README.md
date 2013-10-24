@@ -1,5 +1,4 @@
-Cladonia psoromica J.P. Dey SPECIES
-=======
+# Cladonia psoromica J.P. Dey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenula gahavisukana Aptroot SPECIES
-=======
+# Pyrenula gahavisukana Aptroot SPECIES
 
 #### Status
 ACCEPTED

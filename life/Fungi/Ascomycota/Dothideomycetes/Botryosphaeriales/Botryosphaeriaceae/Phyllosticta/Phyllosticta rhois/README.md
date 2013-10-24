@@ -1,5 +1,4 @@
-Phyllosticta rhois Westend. SPECIES
-=======
+# Phyllosticta rhois Westend. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lachnum alneum Velen. SPECIES
-=======
+# Lachnum alneum Velen. SPECIES
 
 #### Status
 ACCEPTED

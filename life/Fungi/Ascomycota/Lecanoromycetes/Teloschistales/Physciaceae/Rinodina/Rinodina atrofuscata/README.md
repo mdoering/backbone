@@ -1,5 +1,4 @@
-Rinodina atrofuscata (Vain.) Aptroot SPECIES
-=======
+# Rinodina atrofuscata (Vain.) Aptroot SPECIES
 
 #### Status
 ACCEPTED

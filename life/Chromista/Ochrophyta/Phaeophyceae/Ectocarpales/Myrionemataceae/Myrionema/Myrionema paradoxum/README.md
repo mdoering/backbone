@@ -1,5 +1,4 @@
-Myrionema paradoxum Reinsch SPECIES
-=======
+# Myrionema paradoxum Reinsch SPECIES
 
 #### Status
 ACCEPTED

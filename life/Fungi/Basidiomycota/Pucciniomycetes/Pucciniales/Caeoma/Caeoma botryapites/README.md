@@ -1,5 +1,4 @@
-Caeoma botryapites Schwein. SPECIES
-=======
+# Caeoma botryapites Schwein. SPECIES
 
 #### Status
 ACCEPTED

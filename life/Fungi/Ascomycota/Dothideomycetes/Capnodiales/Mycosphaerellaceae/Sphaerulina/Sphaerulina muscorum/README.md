@@ -1,5 +1,4 @@
-Sphaerulina muscorum Wolf {?} SPECIES
-=======
+# Sphaerulina muscorum Wolf {?} SPECIES
 
 #### Status
 ACCEPTED

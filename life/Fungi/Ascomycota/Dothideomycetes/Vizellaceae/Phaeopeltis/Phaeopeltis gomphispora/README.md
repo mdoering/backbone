@@ -1,5 +1,4 @@
-Phaeopeltis gomphispora (Berk. & Broome) Petch SPECIES
-=======
+# Phaeopeltis gomphispora (Berk. & Broome) Petch SPECIES
 
 #### Status
 ACCEPTED

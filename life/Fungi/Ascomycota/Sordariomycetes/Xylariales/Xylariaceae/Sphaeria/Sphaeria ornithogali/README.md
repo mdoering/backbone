@@ -1,5 +1,4 @@
-Sphaeria ornithogali Grognot SPECIES
-=======
+# Sphaeria ornithogali Grognot SPECIES
 
 #### Status
 ACCEPTED

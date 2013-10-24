@@ -1,5 +1,4 @@
-Clavaria tuberculosa Pers. SPECIES
-=======
+# Clavaria tuberculosa Pers. SPECIES
 
 #### Status
 ACCEPTED

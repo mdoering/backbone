@@ -1,5 +1,4 @@
-Lecanora neoalbomarginata H. Magn. SPECIES
-=======
+# Lecanora neoalbomarginata H. Magn. SPECIES
 
 #### Status
 ACCEPTED

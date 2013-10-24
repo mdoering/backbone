@@ -1,5 +1,4 @@
-Phyllosticta moquiniae Viégas SPECIES
-=======
+# Phyllosticta moquiniae Viégas SPECIES
 
 #### Status
 ACCEPTED

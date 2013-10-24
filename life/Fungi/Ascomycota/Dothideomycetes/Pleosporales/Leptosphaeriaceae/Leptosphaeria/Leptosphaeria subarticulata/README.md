@@ -1,5 +1,4 @@
-Leptosphaeria subarticulata SPECIES
-=======
+# Leptosphaeria subarticulata SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Cerinosterus cyanescens (de Hoog & G.A. de Vries) R.T. Moore, 1987 SPECIES
-=======
+# Quambalaria cyanescens (de Hoog & G.A. de Vries) Z.W. de Beer, Begerow & R. Bauer, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Stud. Mycol. 30: 216 (1987)
+in de Beer, Begerow, Bauer, Pegg, Crous & Wingfield, Stud. Mycol. 55: 295 (2006)
 
 #### Original name
 Sporothrix cyanescens de Hoog & G.A. de Vries, 1973

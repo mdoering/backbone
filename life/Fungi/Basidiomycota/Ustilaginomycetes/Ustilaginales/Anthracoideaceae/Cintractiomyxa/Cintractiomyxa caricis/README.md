@@ -1,5 +1,4 @@
-Cintractiomyxa caricis Golovin SPECIES
-=======
+# Cintractiomyxa caricis Golovin SPECIES
 
 #### Status
 ACCEPTED

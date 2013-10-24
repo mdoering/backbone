@@ -1,14 +1,13 @@
-Marasmius scandens Massee, 1910 SPECIES
-=======
+# Marasmiellus scandens (Massee) Dennis & D.A. Reid, 1957 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Kew Bull. 289 (1957)
 
 #### Original name
 Marasmius scandens Massee, 1910

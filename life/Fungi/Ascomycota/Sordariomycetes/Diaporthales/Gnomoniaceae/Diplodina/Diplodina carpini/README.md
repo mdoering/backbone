@@ -1,5 +1,4 @@
-Diplodina carpini Mitrosh. SPECIES
-=======
+# Diplodina carpini Mitrosh. SPECIES
 
 #### Status
 ACCEPTED

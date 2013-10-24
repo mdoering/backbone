@@ -1,5 +1,4 @@
-Arthonia tremellosa Eschw. SPECIES
-=======
+# Arthonia tremellosa Eschw. SPECIES
 
 #### Status
 ACCEPTED

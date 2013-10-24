@@ -1,5 +1,4 @@
-Zoothamnium parasita Stein, 1854 SPECIES
-=======
+# Zoothamnium parasita Stein, 1854 SPECIES
 
 #### Status
 ACCEPTED

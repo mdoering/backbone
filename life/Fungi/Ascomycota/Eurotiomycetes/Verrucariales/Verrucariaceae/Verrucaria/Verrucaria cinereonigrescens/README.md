@@ -1,5 +1,4 @@
-Verrucaria cinereonigrescens Stirt. SPECIES
-=======
+# Verrucaria cinereonigrescens Stirt. SPECIES
 
 #### Status
 ACCEPTED

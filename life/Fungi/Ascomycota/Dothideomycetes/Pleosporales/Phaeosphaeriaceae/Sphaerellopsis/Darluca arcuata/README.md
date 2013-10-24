@@ -1,5 +1,4 @@
-Darluca arcuata Ellis & Everh. SPECIES
-=======
+# Darluca arcuata Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

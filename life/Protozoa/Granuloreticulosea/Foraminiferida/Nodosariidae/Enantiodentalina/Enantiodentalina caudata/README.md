@@ -1,8 +1,7 @@
-Dentalina caudata d'Orbigny, 1852 SPECIES
-=======
+# Enantiodentalina caudata (d'Orbigny, 1852) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

@@ -1,5 +1,4 @@
-Opegrapha spuria SPECIES
-=======
+# Opegrapha spuria SPECIES
 
 #### Status
 ACCEPTED

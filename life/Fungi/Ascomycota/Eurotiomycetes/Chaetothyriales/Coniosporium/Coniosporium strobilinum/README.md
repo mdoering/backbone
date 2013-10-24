@@ -1,5 +1,4 @@
-Coniosporium strobilinum Schwein. SPECIES
-=======
+# Coniosporium strobilinum Schwein. SPECIES
 
 #### Status
 ACCEPTED

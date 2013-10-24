@@ -1,5 +1,4 @@
-Incrustocalyptella hapuuae Desjardin, 1994 SPECIES
-=======
+# Incrustocalyptella hapuuae Desjardin, 1994 SPECIES
 
 #### Status
 ACCEPTED

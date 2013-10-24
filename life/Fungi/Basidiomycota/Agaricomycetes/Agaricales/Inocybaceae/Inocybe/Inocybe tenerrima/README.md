@@ -1,5 +1,4 @@
-Inocybe tenerrima G.F. Atk. SPECIES
-=======
+# Inocybe tenerrima G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pullospora tetrachaeta Faurel & Schotter, 1965 SPECIES
-=======
+# Pullospora tetrachaeta Faurel & Schotter, 1965 SPECIES
 
 #### Status
 ACCEPTED

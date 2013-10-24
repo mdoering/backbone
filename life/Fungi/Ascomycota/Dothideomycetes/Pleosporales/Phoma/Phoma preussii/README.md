@@ -1,5 +1,4 @@
-Phoma preussii Sacc. SPECIES
-=======
+# Phoma preussii Sacc. SPECIES
 
 #### Status
 ACCEPTED

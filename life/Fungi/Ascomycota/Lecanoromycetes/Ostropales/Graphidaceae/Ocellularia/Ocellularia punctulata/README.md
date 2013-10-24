@@ -1,5 +1,4 @@
-Ocellularia punctulata (Leight.) Zahlbr. SPECIES
-=======
+# Ocellularia punctulata (Leight.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

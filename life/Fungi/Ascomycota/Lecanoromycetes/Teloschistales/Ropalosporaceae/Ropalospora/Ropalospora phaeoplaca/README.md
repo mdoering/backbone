@@ -1,5 +1,4 @@
-Ropalospora phaeoplaca (Zahlbr.) S. Ekman SPECIES
-=======
+# Ropalospora phaeoplaca (Zahlbr.) S. Ekman SPECIES
 
 #### Status
 ACCEPTED

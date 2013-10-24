@@ -1,5 +1,4 @@
-Dermocybe paludosa (Fr.) Hlavácek SPECIES
-=======
+# Dermocybe paludosa (Fr.) Hlavácek SPECIES
 
 #### Status
 ACCEPTED

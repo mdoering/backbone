@@ -1,5 +1,4 @@
-Bolbitius apicalis W.G. Sm. SPECIES
-=======
+# Bolbitius apicalis W.G. Sm. SPECIES
 
 #### Status
 ACCEPTED

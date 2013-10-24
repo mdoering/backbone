@@ -1,5 +1,4 @@
-Lactarius varius Peck SPECIES
-=======
+# Lactarius varius Peck SPECIES
 
 #### Status
 ACCEPTED

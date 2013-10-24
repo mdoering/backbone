@@ -1,5 +1,4 @@
-Russula pseudoraoultii Ayel & Bidaud SPECIES
-=======
+# Russula pseudoraoultii Ayel & Bidaud SPECIES
 
 #### Status
 ACCEPTED

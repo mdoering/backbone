@@ -1,5 +1,4 @@
-Cenangium craterium Fr. SPECIES
-=======
+# Cenangium craterium Fr. SPECIES
 
 #### Status
 ACCEPTED

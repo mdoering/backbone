@@ -1,5 +1,4 @@
-Cyathicula caulicola anon. SPECIES
-=======
+# Cyathicula caulicola anon. SPECIES
 
 #### Status
 ACCEPTED

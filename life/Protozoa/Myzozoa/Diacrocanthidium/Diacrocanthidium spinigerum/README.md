@@ -1,5 +1,4 @@
-Diacrocanthidium spinigerum de Coninck, 1969 ex Lentin & Williams, 1973 SPECIES
-=======
+# Diacrocanthidium spinigerum de Coninck, 1969 ex Lentin & Williams, 1973 SPECIES
 
 #### Status
 ACCEPTED

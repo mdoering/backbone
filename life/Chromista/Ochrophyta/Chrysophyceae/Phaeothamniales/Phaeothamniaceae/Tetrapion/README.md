@@ -1,5 +1,4 @@
-Tetrapion Pascher, 1943 GENUS
-=======
+# Tetrapion Pascher, 1943 GENUS
 
 #### Status
 ACCEPTED

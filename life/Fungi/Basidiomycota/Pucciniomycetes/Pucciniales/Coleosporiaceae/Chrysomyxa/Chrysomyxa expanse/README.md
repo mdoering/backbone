@@ -1,5 +1,4 @@
-Chrysomyxa expanse Diet. SPECIES
-=======
+# Chrysomyxa expanse Diet. SPECIES
 
 #### Status
 ACCEPTED

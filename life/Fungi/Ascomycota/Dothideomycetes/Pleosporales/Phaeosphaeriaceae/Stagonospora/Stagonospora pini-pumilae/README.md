@@ -1,5 +1,4 @@
-Stagonospora pini-pumilae Togashi SPECIES
-=======
+# Stagonospora pini-pumilae Togashi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thecaphora lagenophorae (McAlpine) McAlpine SPECIES
-=======
+# Thecaphora lagenophorae (McAlpine) McAlpine SPECIES
 
 #### Status
 ACCEPTED

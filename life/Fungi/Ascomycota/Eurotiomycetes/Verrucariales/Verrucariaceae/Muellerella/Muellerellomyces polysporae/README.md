@@ -1,5 +1,4 @@
-Muellerellomyces polysporae Cif. & Tomas. SPECIES
-=======
+# Muellerellomyces polysporae Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

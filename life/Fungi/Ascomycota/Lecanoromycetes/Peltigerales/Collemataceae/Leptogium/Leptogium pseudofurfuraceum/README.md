@@ -1,5 +1,4 @@
-Leptogium pseudofurfuraceum P. M. Jørg. & Wallace SPECIES
-=======
+# Leptogium pseudofurfuraceum P. M. Jørg. & Wallace SPECIES
 
 #### Status
 ACCEPTED

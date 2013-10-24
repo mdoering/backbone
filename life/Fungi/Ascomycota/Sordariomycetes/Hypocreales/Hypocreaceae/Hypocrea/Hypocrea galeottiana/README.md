@@ -1,5 +1,4 @@
-Hypocrea galeottiana (J. Kickx f.) Sacc. SPECIES
-=======
+# Hypocrea galeottiana (J. Kickx f.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

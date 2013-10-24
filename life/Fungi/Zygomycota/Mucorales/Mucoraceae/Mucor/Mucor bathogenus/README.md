@@ -1,5 +1,4 @@
-Mucor bathogenus Dyr SPECIES
-=======
+# Mucor bathogenus Dyr SPECIES
 
 #### Status
 ACCEPTED

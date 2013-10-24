@@ -1,5 +1,4 @@
-Gymnopus menehune Desjardin, Halling & Hemmes SPECIES
-=======
+# Gymnopus menehune Desjardin, Halling & Hemmes SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Flexithrix GENUS
-=======
+# Flexithrix GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Passalora ahmadii (Petr.) U. Braun & Crous SPECIES
-=======
+# Passalora ahmadii (Petr.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

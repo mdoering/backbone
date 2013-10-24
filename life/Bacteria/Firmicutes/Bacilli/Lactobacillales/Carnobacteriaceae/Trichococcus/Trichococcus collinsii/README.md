@@ -1,5 +1,4 @@
-Trichococcus collinsii Liu et al., 2002 SPECIES
-=======
+# Trichococcus collinsii Liu et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

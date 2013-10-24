@@ -1,5 +1,4 @@
-Agaricus crispatus Schumach. SPECIES
-=======
+# Agaricus crispatus Schumach. SPECIES
 
 #### Status
 ACCEPTED

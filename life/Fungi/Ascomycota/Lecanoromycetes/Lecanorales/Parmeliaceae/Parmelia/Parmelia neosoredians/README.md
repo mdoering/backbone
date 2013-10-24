@@ -1,5 +1,4 @@
-Parmelia neosoredians Gyeln. SPECIES
-=======
+# Parmelia neosoredians Gyeln. SPECIES
 
 #### Status
 ACCEPTED

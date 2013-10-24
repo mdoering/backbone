@@ -1,5 +1,4 @@
-Desulfovibrio halophilus Caumette et al., 1991 SPECIES
-=======
+# Desulfovibrio halophilus Caumette et al., 1991 SPECIES
 
 #### Status
 ACCEPTED

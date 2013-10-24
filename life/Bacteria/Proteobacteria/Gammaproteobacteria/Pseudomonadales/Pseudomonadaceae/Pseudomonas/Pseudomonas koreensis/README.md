@@ -1,5 +1,4 @@
-Pseudomonas koreensis Kwon et al., 2003 SPECIES
-=======
+# Pseudomonas koreensis Kwon et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

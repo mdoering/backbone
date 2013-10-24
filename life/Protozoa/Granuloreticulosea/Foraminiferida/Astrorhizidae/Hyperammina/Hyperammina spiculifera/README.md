@@ -1,5 +1,4 @@
-Hyperammina spiculifera SPECIES
-=======
+# Hyperammina spiculifera SPECIES
 
 #### Status
 ACCEPTED

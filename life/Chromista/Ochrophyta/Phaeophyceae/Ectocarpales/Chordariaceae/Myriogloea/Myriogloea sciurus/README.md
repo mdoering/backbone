@@ -1,8 +1,7 @@
-Myriocladia sciurus Harvey SPECIES
-=======
+# Myriogloea sciurus (Harvey) Kuckuck ex Oltmanns SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Diplodina rhachidicola Bubák SPECIES
-=======
+# Diplodina rhachidicola Bubák SPECIES
 
 #### Status
 ACCEPTED

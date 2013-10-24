@@ -1,5 +1,4 @@
-Heliobacterium undosum Bryantseva et al., 2001 SPECIES
-=======
+# Heliobacterium undosum Bryantseva et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

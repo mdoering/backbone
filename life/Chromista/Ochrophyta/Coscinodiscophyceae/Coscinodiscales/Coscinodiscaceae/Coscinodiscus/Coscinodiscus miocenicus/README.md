@@ -1,5 +1,4 @@
-Coscinodiscus miocenicus H.J. Schrader SPECIES
-=======
+# Coscinodiscus miocenicus H.J. Schrader SPECIES
 
 #### Status
 ACCEPTED

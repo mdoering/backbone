@@ -1,5 +1,4 @@
-Asterina olacis B. Song SPECIES
-=======
+# Asterina olacis B. Song SPECIES
 
 #### Status
 ACCEPTED

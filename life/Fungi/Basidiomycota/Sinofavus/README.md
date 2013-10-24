@@ -1,5 +1,4 @@
-Sinofavus W.Y. Zhuang GENUS
-=======
+# Sinofavus W.Y. Zhuang GENUS
 
 #### Status
 ACCEPTED

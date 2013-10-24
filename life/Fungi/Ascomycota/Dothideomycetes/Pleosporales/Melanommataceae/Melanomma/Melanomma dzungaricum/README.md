@@ -1,14 +1,13 @@
-Melanomma dzungarica (Kravtzev) Vasyag., Byzova & Tartenova SPECIES
-=======
+# Melanomma dzungaricum (Kravtzev) Vasyag., Byzova & Tartenova SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Flora Sporovykh Rastenii Kazakhstana (Alma-Ata), Sumchatye. Griby Lokuloaskomitsety (Loculoascomycetes) 106 (1987)
 
 #### Original name
 Trematosphaeria dzungarica Kravtzev

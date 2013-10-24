@@ -1,5 +1,4 @@
-Zoothamnium chlamydis Hu & Song, 2001 SPECIES
-=======
+# Zoothamnium chlamydis Hu & Song, 2001 SPECIES
 
 #### Status
 ACCEPTED

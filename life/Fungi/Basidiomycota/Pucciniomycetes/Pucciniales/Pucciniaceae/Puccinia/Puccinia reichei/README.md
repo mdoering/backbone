@@ -1,5 +1,4 @@
-Puccinia reichei Dietel & Neger SPECIES
-=======
+# Puccinia reichei Dietel & Neger SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrocybe wilsonensis A.M. Young SPECIES
-=======
+# Hygrocybe wilsonensis A.M. Young SPECIES
 
 #### Status
 ACCEPTED

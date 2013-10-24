@@ -1,5 +1,4 @@
-Lecanora sommervellii Paulson SPECIES
-=======
+# Lecanora sommervellii Paulson SPECIES
 
 #### Status
 ACCEPTED

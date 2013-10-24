@@ -1,5 +1,4 @@
-Polystictus proteus Berk. SPECIES
-=======
+# Polystictus proteus Berk. SPECIES
 
 #### Status
 ACCEPTED

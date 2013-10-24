@@ -1,5 +1,4 @@
-Actinospira GENUS
-=======
+# Actinospira GENUS
 
 #### Status
 ACCEPTED

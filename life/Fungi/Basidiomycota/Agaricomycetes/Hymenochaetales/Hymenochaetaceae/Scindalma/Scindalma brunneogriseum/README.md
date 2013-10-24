@@ -1,5 +1,4 @@
-Scindalma brunneogriseum (Pat. & Gaillard) Kuntze SPECIES
-=======
+# Scindalma brunneogriseum (Pat. & Gaillard) Kuntze SPECIES
 
 #### Status
 ACCEPTED

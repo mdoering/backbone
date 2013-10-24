@@ -1,5 +1,4 @@
-Heliocephala V.G. Rao, K.A. Reddy & de Hoog GENUS
-=======
+# Heliocephala V.G. Rao, K.A. Reddy & de Hoog GENUS
 
 #### Status
 ACCEPTED

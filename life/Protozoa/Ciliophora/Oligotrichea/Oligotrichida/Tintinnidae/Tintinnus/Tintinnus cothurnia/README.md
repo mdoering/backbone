@@ -1,5 +1,4 @@
-Tintinnus cothurnia Ehr, 011, 201 SPECIES
-=======
+# Tintinnus cothurnia Ehr, 011, 201 SPECIES
 
 #### Status
 ACCEPTED

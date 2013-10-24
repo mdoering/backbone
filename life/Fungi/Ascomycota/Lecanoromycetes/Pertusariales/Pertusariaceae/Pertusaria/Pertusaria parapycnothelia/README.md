@@ -1,5 +1,4 @@
-Pertusaria parapycnothelia Q. Ren & Z. T. Zhao SPECIES
-=======
+# Pertusaria parapycnothelia Q. Ren & Z. T. Zhao SPECIES
 
 #### Status
 ACCEPTED

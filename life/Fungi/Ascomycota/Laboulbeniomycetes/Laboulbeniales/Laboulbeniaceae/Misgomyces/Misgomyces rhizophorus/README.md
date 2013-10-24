@@ -1,5 +1,4 @@
-Misgomyces rhizophorus Thaxt. SPECIES
-=======
+# Misgomyces rhizophorus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

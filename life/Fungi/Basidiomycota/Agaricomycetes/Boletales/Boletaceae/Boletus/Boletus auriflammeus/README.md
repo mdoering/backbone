@@ -1,5 +1,4 @@
-Boletus auriflammeus Berk. & M.A. Curtis SPECIES
-=======
+# Boletus auriflammeus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

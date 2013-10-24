@@ -1,5 +1,4 @@
-Sphaeria russellii Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeria russellii Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Leptoglossum alveolatum (E.J. Durand) Rehm, 1904 SPECIES
-=======
+# Geoglossum alveolatum (E.J. Durand ex Rehm) E.J. Durand, 1908 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 6: 432 (1908)
 
 #### Original name
-null
+Mitrula alveolata E.J. Durand, 1902
 
 ### Remarks
 null

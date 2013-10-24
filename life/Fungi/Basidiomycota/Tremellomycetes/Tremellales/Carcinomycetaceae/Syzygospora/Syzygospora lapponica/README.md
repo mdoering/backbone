@@ -1,5 +1,4 @@
-Syzygospora lapponica Miettinen & Kotir., 2006 SPECIES
-=======
+# Syzygospora lapponica Miettinen & Kotir., 2006 SPECIES
 
 #### Status
 ACCEPTED

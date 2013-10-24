@@ -1,5 +1,4 @@
-Septobasidium parlatoriae Sawada SPECIES
-=======
+# Septobasidium parlatoriae Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sticta isidalia Gyeln. SPECIES
-=======
+# Sticta isidalia Gyeln. SPECIES
 
 #### Status
 ACCEPTED

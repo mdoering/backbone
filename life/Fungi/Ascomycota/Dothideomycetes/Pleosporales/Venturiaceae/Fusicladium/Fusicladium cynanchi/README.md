@@ -1,5 +1,4 @@
-Fusicladium cynanchi Reichert SPECIES
-=======
+# Fusicladium cynanchi Reichert SPECIES
 
 #### Status
 ACCEPTED

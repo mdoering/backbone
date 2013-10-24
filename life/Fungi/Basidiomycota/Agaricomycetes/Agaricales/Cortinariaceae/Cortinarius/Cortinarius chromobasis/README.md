@@ -1,5 +1,4 @@
-Cortinarius chromobasis Høil. & Watling SPECIES
-=======
+# Cortinarius chromobasis Høil. & Watling SPECIES
 
 #### Status
 ACCEPTED

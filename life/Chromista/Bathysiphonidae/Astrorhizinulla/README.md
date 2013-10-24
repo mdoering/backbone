@@ -1,5 +1,4 @@
-Astrorhizinulla Saidova, 1975 GENUS
-=======
+# Astrorhizinulla Saidova, 1975 GENUS
 
 #### Status
 ACCEPTED

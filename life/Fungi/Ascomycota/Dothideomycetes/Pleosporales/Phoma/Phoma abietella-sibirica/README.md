@@ -1,5 +1,4 @@
-Phoma abietella-sibirica Schwarzman SPECIES
-=======
+# Phoma abietella-sibirica Schwarzman SPECIES
 
 #### Status
 ACCEPTED

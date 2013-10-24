@@ -1,5 +1,4 @@
-Puccinia kozukensis Dietel SPECIES
-=======
+# Puccinia kozukensis Dietel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Methylocystis rosea Wartiainen et al., 2006 SPECIES
-=======
+# Methylocystis rosea Wartiainen et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

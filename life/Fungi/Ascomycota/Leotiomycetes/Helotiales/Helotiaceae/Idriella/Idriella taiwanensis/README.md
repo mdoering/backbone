@@ -1,5 +1,4 @@
-Idriella taiwanensis Matsush. SPECIES
-=======
+# Idriella taiwanensis Matsush. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cetraria stenophylla (Tuck.) G. Merr. SPECIES
-=======
+# Cetraria stenophylla (Tuck.) G. Merr. SPECIES
 
 #### Status
 ACCEPTED

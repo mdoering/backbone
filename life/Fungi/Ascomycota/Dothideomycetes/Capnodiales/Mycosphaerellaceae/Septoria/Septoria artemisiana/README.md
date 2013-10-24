@@ -1,5 +1,4 @@
-Septoria artemisiana Garb. SPECIES
-=======
+# Septoria artemisiana Garb. SPECIES
 
 #### Status
 ACCEPTED

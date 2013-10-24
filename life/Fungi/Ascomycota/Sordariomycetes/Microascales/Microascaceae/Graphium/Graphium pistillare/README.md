@@ -1,5 +1,4 @@
-Graphium pistillare (Lév.) Sacc. SPECIES
-=======
+# Graphium pistillare (Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

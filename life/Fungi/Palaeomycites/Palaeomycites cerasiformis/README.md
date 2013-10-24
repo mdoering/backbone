@@ -1,5 +1,4 @@
-Palaeomycites cerasiformis (G. Norris) Kalgutkar & Janson. SPECIES
-=======
+# Palaeomycites cerasiformis (G. Norris) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

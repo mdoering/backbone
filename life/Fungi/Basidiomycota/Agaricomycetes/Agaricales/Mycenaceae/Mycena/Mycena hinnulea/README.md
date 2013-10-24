@@ -1,5 +1,4 @@
-Mycena hinnulea Maas Geest. & E. Horak SPECIES
-=======
+# Mycena hinnulea Maas Geest. & E. Horak SPECIES
 
 #### Status
 ACCEPTED

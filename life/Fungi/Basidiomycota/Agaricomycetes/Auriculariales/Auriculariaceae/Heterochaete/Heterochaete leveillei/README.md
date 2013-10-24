@@ -1,5 +1,4 @@
-Heterochaete leveillei Pat., 1894 SPECIES
-=======
+# Heterochaete leveillei Pat., 1894 SPECIES
 
 #### Status
 ACCEPTED

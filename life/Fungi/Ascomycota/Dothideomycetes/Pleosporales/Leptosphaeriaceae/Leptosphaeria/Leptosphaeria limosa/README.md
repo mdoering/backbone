@@ -1,5 +1,4 @@
-Leptosphaeria limosa Fautrey SPECIES
-=======
+# Leptosphaeria limosa Fautrey SPECIES
 
 #### Status
 ACCEPTED

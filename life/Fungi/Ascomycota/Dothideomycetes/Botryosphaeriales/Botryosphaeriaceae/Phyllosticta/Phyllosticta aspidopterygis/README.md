@@ -1,5 +1,4 @@
-Phyllosticta aspidopterygis Ananthan. SPECIES
-=======
+# Phyllosticta aspidopterygis Ananthan. SPECIES
 
 #### Status
 ACCEPTED

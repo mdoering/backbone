@@ -1,5 +1,4 @@
-Cercospora bonjeaniae-rectae Caball. SPECIES
-=======
+# Cercospora bonjeaniae-rectae Caball. SPECIES
 
 #### Status
 ACCEPTED

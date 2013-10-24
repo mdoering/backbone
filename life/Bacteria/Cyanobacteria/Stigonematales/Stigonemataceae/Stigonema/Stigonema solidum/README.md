@@ -1,5 +1,4 @@
-Stigonema solidum (Bornet) Kütz. SPECIES
-=======
+# Stigonema solidum (Bornet) Kütz. SPECIES
 
 #### Status
 ACCEPTED

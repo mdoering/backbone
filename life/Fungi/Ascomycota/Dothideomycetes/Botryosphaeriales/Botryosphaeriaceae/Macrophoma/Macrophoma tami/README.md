@@ -1,5 +1,4 @@
-Macrophoma tami Hollós SPECIES
-=======
+# Macrophoma tami Hollós SPECIES
 
 #### Status
 ACCEPTED

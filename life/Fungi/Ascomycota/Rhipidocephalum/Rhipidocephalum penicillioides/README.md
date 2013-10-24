@@ -1,5 +1,4 @@
-Rhipidocephalum penicillioides (Fautrey) SPECIES
-=======
+# Rhipidocephalum penicillioides (Fautrey) SPECIES
 
 #### Status
 ACCEPTED

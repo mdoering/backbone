@@ -1,17 +1,16 @@
-Septocladia Coker & F.A. Grant GENUS
-=======
+# Allomyces E.J. Butler GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Elisha Mitchell scient. Soc. 37: 180 (1922)
+Ann. Bot. , Lond. 25: 1027 (1911)
 
 #### Original name
-Septocladia Coker & F.A. Grant
+Allomyces E.J. Butler
 
 ### Remarks
 null

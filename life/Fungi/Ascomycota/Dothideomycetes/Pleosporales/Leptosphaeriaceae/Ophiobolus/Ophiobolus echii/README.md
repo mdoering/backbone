@@ -1,5 +1,4 @@
-Ophiobolus echii Rehm SPECIES
-=======
+# Ophiobolus echii Rehm SPECIES
 
 #### Status
 ACCEPTED

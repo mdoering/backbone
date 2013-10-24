@@ -1,5 +1,4 @@
-Crepidotus stercorarius Singer SPECIES
-=======
+# Crepidotus stercorarius Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora vincentina Nyl. SPECIES
-=======
+# Lecanora vincentina Nyl. SPECIES
 
 #### Status
 ACCEPTED

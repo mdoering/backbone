@@ -1,5 +1,4 @@
-Physalospora paulowniae S. Ito & Kobayasi SPECIES
-=======
+# Physalospora paulowniae S. Ito & Kobayasi SPECIES
 
 #### Status
 ACCEPTED

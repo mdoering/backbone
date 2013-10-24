@@ -1,5 +1,4 @@
-Pleospora halophila J. Webster, 1984 SPECIES
-=======
+# Pleospora halophila J. Webster, 1984 SPECIES
 
 #### Status
 ACCEPTED

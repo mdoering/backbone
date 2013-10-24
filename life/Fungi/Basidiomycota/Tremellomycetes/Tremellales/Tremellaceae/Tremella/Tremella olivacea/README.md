@@ -1,5 +1,4 @@
-Tremella olivacea (Fr.) SPECIES
-=======
+# Tremella olivacea (Fr.) SPECIES
 
 #### Status
 ACCEPTED

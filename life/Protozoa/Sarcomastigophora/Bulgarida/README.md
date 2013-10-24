@@ -1,5 +1,4 @@
-Bulgarida Tikhomirova, 1989 GENUS
-=======
+# Bulgarida Tikhomirova, 1989 GENUS
 
 #### Status
 ACCEPTED

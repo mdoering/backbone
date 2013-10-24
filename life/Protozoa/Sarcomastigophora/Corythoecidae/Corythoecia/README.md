@@ -1,5 +1,4 @@
-Corythoecia Foreman, 1963 GENUS
-=======
+# Corythoecia Foreman, 1963 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Myriotrema santessonii (Hale) Hale SPECIES
-=======
+# Myriotrema santessonii (Hale) Hale SPECIES
 
 #### Status
 ACCEPTED

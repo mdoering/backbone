@@ -1,5 +1,4 @@
-Bipolaris eragrostiellae (A.P. Misra & R.A. Singh) Sivan. SPECIES
-=======
+# Bipolaris eragrostiellae (A.P. Misra & R.A. Singh) Sivan. SPECIES
 
 #### Status
 ACCEPTED

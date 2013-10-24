@@ -1,5 +1,4 @@
-Rhodococcus tukisamuensis Matsuyama et al., 2003 SPECIES
-=======
+# Rhodococcus tukisamuensis Matsuyama et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

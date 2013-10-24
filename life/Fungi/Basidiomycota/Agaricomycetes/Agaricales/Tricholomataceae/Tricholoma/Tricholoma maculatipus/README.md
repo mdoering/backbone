@@ -1,5 +1,4 @@
-Tricholoma maculatipus Hongo SPECIES
-=======
+# Tricholoma maculatipus Hongo SPECIES
 
 #### Status
 ACCEPTED

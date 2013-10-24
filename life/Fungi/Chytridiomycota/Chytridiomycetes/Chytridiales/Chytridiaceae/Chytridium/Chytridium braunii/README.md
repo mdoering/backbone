@@ -1,5 +1,4 @@
-Chytridium braunii P.A. Dang. SPECIES
-=======
+# Chytridium braunii P.A. Dang. SPECIES
 
 #### Status
 ACCEPTED

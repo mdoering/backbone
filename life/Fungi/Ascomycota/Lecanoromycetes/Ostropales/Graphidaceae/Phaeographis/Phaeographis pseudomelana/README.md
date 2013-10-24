@@ -1,5 +1,4 @@
-Phaeographis pseudomelana Müll. Arg. SPECIES
-=======
+# Phaeographis pseudomelana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

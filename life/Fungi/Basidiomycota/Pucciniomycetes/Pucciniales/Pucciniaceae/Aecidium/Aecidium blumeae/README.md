@@ -1,5 +1,4 @@
-Aecidium blumeae Henn. SPECIES
-=======
+# Aecidium blumeae Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Myxosporium dolosum Sacc. SPECIES
-=======
+# Myxosporium dolosum Sacc. SPECIES
 
 #### Status
 ACCEPTED

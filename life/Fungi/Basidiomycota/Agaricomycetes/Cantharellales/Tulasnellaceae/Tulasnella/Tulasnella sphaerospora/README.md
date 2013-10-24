@@ -1,5 +1,4 @@
-Tulasnella sphaerospora G.W. Martin SPECIES
-=======
+# Tulasnella sphaerospora G.W. Martin SPECIES
 
 #### Status
 ACCEPTED

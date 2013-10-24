@@ -1,5 +1,4 @@
-Astasia harrisii E.G. Pringsheim SPECIES
-=======
+# Astasia harrisii E.G. Pringsheim SPECIES
 
 #### Status
 ACCEPTED

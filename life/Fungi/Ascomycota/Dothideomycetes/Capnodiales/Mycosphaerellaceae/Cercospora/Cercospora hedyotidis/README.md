@@ -1,17 +1,16 @@
-Cercospora hedyotis Suj. Singh SPECIES
-=======
+# Cercospora hedyotidis Suj. Singh SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Journal of Mycology and Plant Pathology 10(2): 166 (1980)
 
 #### Original name
-Cercospora hedyotis Suj. Singh
+Cercospora hedyotidis Suj. Singh
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Macalpinomyces digitariae A.R. Patil, T.M. Patil & M.S. Patil, 2004 SPECIES
-=======
+# Macalpinomyces patilorum Vánky & A.R. Patil, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Journal of Mycology and Plant Pathology 34(3): 838 (2004)
+in Vánky, Mycotaxon 99: 47 (2007)
 
 #### Original name
 Macalpinomyces digitariae A.R. Patil, T.M. Patil & M.S. Patil, 2004

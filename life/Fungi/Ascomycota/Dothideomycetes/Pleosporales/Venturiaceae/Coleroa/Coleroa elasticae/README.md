@@ -1,5 +1,4 @@
-Coleroa elasticae Koord. SPECIES
-=======
+# Coleroa elasticae Koord. SPECIES
 
 #### Status
 ACCEPTED

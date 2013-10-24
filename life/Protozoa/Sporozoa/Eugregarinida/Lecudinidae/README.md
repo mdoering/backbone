@@ -1,5 +1,4 @@
-Lecudinidae Kamm, 1922 FAMILY
-=======
+# Lecudinidae Kamm, 1922 FAMILY
 
 #### Status
 ACCEPTED

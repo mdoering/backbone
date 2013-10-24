@@ -1,17 +1,16 @@
-Marasmius mulanjensis Antonín SPECIES
-=======
+# Marasmius mulanjeensis Antonín SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 88: 61 (2003)
 
 #### Original name
-Marasmius mulanjensis Antonín
+Marasmius mulanjeensis Antonín
 
 ### Remarks
 null

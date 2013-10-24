@@ -1,5 +1,4 @@
-Phyllosticta aurantiaca Bat. & Cavalc. SPECIES
-=======
+# Phyllosticta aurantiaca Bat. & Cavalc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptophiale insularis McKenzie, 1993 SPECIES
-=======
+# Cryptophiale insularis McKenzie, 1993 SPECIES
 
 #### Status
 ACCEPTED

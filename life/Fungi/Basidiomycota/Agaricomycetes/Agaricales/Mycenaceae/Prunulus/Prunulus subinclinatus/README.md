@@ -1,5 +1,4 @@
-Prunulus subinclinatus Murrill SPECIES
-=======
+# Prunulus subinclinatus Murrill SPECIES
 
 #### Status
 ACCEPTED

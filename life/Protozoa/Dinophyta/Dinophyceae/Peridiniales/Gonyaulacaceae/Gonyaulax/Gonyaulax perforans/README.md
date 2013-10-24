@@ -1,5 +1,4 @@
-Gonyaulax perforans Cookson & Eisenack SPECIES
-=======
+# Gonyaulax perforans Cookson & Eisenack SPECIES
 
 #### Status
 ACCEPTED

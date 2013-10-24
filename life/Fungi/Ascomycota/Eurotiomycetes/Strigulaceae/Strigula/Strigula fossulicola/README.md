@@ -1,5 +1,4 @@
-Strigula fossulicola P. M. McCarthy, Streimann & Elix SPECIES
-=======
+# Strigula fossulicola P. M. McCarthy, Streimann & Elix SPECIES
 
 #### Status
 ACCEPTED

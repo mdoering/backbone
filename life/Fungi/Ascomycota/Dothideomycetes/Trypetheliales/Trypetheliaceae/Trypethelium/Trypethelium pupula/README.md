@@ -1,5 +1,4 @@
-Trypethelium pupula (Ach.) R. C. Harris SPECIES
-=======
+# Trypethelium pupula (Ach.) R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

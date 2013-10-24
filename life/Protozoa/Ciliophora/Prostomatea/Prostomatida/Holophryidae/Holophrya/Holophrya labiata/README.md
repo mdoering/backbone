@@ -1,5 +1,4 @@
-Holophrya labiata Dumas, 1937 SPECIES
-=======
+# Holophrya labiata Dumas, 1937 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Usnea inanis Motyka SPECIES
-=======
+# Usnea inanis Motyka SPECIES
 
 #### Status
 ACCEPTED

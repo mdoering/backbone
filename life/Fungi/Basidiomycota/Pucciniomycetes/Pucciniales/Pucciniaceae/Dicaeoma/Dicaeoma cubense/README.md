@@ -1,5 +1,4 @@
-Dicaeoma cubense (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Dicaeoma cubense (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

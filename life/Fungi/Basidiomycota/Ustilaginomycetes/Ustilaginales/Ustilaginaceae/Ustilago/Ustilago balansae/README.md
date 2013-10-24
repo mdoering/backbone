@@ -1,5 +1,4 @@
-Ustilago balansae Speg. SPECIES
-=======
+# Ustilago balansae Speg. SPECIES
 
 #### Status
 ACCEPTED

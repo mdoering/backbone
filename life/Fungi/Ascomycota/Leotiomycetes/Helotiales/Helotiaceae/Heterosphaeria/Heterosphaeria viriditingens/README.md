@@ -1,5 +1,4 @@
-Heterosphaeria viriditingens Petr. SPECIES
-=======
+# Heterosphaeria viriditingens Petr. SPECIES
 
 #### Status
 ACCEPTED

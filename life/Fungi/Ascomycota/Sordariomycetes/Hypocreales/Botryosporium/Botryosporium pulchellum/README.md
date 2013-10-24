@@ -1,5 +1,4 @@
-Botryosporium pulchellum Maire SPECIES
-=======
+# Botryosporium pulchellum Maire SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Candelariaceae Hakul. FAMILY
-=======
+# Candelariaceae Hakul. FAMILY
 
 #### Status
 ACCEPTED

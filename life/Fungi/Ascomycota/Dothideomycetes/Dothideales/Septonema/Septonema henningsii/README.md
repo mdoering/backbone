@@ -1,5 +1,4 @@
-Septonema henningsii Bres. SPECIES
-=======
+# Septonema henningsii Bres. SPECIES
 
 #### Status
 ACCEPTED

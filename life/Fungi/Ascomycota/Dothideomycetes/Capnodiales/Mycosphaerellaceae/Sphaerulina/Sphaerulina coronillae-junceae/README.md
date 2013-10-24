@@ -1,5 +1,4 @@
-Sphaerulina coronillae-junceae Bubák & Gonz. Frag. SPECIES
-=======
+# Sphaerulina coronillae-junceae Bubák & Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

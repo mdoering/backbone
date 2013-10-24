@@ -1,5 +1,4 @@
-Porosphaerella setosa A.I. Romero & Samuels, 1991 SPECIES
-=======
+# Porosphaerella setosa A.I. Romero & Samuels, 1991 SPECIES
 
 #### Status
 ACCEPTED

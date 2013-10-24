@@ -1,5 +1,4 @@
-Rickettsiales ORDER
-=======
+# Rickettsiales ORDER
 
 #### Status
 ACCEPTED

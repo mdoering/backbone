@@ -1,5 +1,4 @@
-Psychrobacter cibarius Jung et al., 2005 SPECIES
-=======
+# Psychrobacter cibarius Jung et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

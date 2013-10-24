@@ -1,5 +1,4 @@
-Thrombium incrustans Wallr. SPECIES
-=======
+# Thrombium incrustans Wallr. SPECIES
 
 #### Status
 ACCEPTED

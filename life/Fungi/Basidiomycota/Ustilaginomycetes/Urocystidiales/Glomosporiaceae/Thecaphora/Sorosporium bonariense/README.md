@@ -1,5 +1,4 @@
-Sorosporium bonariense (Speg.) Zundel SPECIES
-=======
+# Sorosporium bonariense (Speg.) Zundel SPECIES
 
 #### Status
 ACCEPTED

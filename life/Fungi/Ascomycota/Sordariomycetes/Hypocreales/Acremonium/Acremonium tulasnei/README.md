@@ -1,14 +1,13 @@
-Cladobotryum tulasnei (G.R.W. Arnold) Helfer, 1991 SPECIES
-=======
+# Acremonium tulasnei G.R.W. Arnold, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Pilze auf Pilzfruchtkörpern. Untersuchungen zur Ökologie, Systematik und Chemie. Libri Botanici 1: 36 (1991)
+Nov. sist. Niz. Rast. 8: 129 (1971)
 
 #### Original name
 Acremonium tulasnei G.R.W. Arnold, 1971

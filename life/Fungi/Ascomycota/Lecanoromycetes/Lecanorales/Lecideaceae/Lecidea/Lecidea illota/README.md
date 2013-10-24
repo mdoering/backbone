@@ -1,5 +1,4 @@
-Lecidea illota Sandst. SPECIES
-=======
+# Lecidea illota Sandst. SPECIES
 
 #### Status
 ACCEPTED

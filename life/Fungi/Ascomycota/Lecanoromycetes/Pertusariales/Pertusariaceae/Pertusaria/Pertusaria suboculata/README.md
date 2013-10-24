@@ -1,5 +1,4 @@
-Pertusaria suboculata Brodo & Dibben SPECIES
-=======
+# Pertusaria suboculata Brodo & Dibben SPECIES
 
 #### Status
 ACCEPTED

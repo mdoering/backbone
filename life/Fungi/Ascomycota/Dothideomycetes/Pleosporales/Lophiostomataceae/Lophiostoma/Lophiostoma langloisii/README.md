@@ -1,5 +1,4 @@
-Lophiostoma langloisii Ellis & Everh. SPECIES
-=======
+# Lophiostoma langloisii Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

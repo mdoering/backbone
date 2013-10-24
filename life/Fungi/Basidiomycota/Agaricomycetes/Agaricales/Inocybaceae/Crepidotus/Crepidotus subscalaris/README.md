@@ -1,5 +1,4 @@
-Crepidotus subscalaris (Britzelm.) Sacc. SPECIES
-=======
+# Crepidotus subscalaris (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cintractia atratae Savile SPECIES
-=======
+# Cintractia atratae Savile SPECIES
 
 #### Status
 ACCEPTED

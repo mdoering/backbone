@@ -1,5 +1,4 @@
-Sclerotinia riograndensis Rick SPECIES
-=======
+# Sclerotinia riograndensis Rick SPECIES
 
 #### Status
 ACCEPTED

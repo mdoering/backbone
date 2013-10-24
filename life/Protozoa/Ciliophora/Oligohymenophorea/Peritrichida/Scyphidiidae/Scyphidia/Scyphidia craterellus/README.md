@@ -1,5 +1,4 @@
-Scyphidia craterellus Dumas, 1930 SPECIES
-=======
+# Scyphidia craterellus Dumas, 1930 SPECIES
 
 #### Status
 ACCEPTED

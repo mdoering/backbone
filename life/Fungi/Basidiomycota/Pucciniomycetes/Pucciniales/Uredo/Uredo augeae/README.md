@@ -1,5 +1,4 @@
-Uredo augeae Pole-Evans SPECIES
-=======
+# Uredo augeae Pole-Evans SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Strigula smaragdula Fr. SPECIES
-=======
+# Strigula smaragdula Fr. SPECIES
 
 #### Status
 ACCEPTED

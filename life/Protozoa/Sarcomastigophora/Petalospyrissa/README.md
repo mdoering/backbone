@@ -1,5 +1,4 @@
-Petalospyrissa Haeckel, 1887 GENUS
-=======
+# Petalospyrissa Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

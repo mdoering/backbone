@@ -1,5 +1,4 @@
-Aposphaeria haloxyli Kravtzev SPECIES
-=======
+# Aposphaeria haloxyli Kravtzev SPECIES
 
 #### Status
 ACCEPTED

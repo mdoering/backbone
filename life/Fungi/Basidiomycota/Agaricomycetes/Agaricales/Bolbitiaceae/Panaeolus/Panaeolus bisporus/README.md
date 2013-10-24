@@ -1,5 +1,4 @@
-Panaeolus bisporus (Malençon & Bertault) Ew. Gerhardt SPECIES
-=======
+# Panaeolus bisporus (Malençon & Bertault) Ew. Gerhardt SPECIES
 
 #### Status
 ACCEPTED

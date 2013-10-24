@@ -1,5 +1,4 @@
-Areschougia Meneghini, 1844 GENUS
-=======
+# Areschougia Meneghini, 1844 GENUS
 
 #### Status
 ACCEPTED

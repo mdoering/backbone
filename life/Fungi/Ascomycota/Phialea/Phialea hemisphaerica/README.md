@@ -1,5 +1,4 @@
-Phialea hemisphaerica Rick SPECIES
-=======
+# Phialea hemisphaerica Rick SPECIES
 
 #### Status
 ACCEPTED

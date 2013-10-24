@@ -1,5 +1,4 @@
-Leptoxyphium axillatum (Cooke) S. Hughes SPECIES
-=======
+# Leptoxyphium axillatum (Cooke) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

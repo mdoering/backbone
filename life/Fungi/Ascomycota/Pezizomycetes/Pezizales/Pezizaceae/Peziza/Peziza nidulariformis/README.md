@@ -1,5 +1,4 @@
-Peziza nidulariformis (Rea) Dennis, 1972 SPECIES
-=======
+# Peziza nidulariformis (Rea) Dennis, 1972 SPECIES
 
 #### Status
 ACCEPTED

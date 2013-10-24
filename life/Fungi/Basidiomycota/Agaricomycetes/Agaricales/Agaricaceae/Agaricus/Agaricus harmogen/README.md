@@ -1,5 +1,4 @@
-Agaricus harmogen Sacc. SPECIES
-=======
+# Agaricus harmogen Sacc. SPECIES
 
 #### Status
 ACCEPTED

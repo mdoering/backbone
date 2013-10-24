@@ -1,5 +1,4 @@
-Hendersonia graminicola Lév. SPECIES
-=======
+# Hendersonia graminicola Lév. SPECIES
 
 #### Status
 ACCEPTED

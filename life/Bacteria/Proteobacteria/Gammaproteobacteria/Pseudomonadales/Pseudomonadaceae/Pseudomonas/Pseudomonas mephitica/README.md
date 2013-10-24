@@ -1,5 +1,4 @@
-Pseudomonas mephitica Claydon and Hammer, 1939 (Approved Lists, 1980) SPECIES
-=======
+# Pseudomonas mephitica Claydon and Hammer, 1939 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

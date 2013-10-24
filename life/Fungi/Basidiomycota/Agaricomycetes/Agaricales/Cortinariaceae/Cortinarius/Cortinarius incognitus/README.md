@@ -1,5 +1,4 @@
-Cortinarius incognitus Ammirati & A.H. Sm. SPECIES
-=======
+# Cortinarius incognitus Ammirati & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

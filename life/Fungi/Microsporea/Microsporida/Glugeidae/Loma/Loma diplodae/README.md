@@ -1,5 +1,4 @@
-Loma diplodae M. Bekhti & G. Bouix SPECIES
-=======
+# Loma diplodae M. Bekhti & G. Bouix SPECIES
 
 #### Status
 ACCEPTED

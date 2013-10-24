@@ -1,5 +1,4 @@
-Leptogium caesiellum Tuck. SPECIES
-=======
+# Leptogium caesiellum Tuck. SPECIES
 
 #### Status
 ACCEPTED

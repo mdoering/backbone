@@ -1,5 +1,4 @@
-Ocellularia rhicnopora Hale SPECIES
-=======
+# Ocellularia rhicnopora Hale SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Harknessia rhabdosphaera Crous & Summerell SPECIES
-=======
+# Harknessia rhabdosphaera Crous & Summerell SPECIES
 
 #### Status
 ACCEPTED

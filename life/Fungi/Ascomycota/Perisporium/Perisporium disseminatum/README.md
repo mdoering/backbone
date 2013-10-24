@@ -1,5 +1,4 @@
-Perisporium disseminatum Fr. SPECIES
-=======
+# Perisporium disseminatum Fr. SPECIES
 
 #### Status
 ACCEPTED

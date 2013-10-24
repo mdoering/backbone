@@ -1,5 +1,4 @@
-Nolanea maialis (Fr.) Konrad SPECIES
-=======
+# Nolanea maialis (Fr.) Konrad SPECIES
 
 #### Status
 ACCEPTED

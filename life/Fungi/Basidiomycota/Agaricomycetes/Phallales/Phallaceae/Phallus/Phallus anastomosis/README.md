@@ -1,5 +1,4 @@
-Phallus anastomosis J.F. Gmel. SPECIES
-=======
+# Phallus anastomosis J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

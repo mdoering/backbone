@@ -1,5 +1,4 @@
-Peronospora phyteumatis Fuckel SPECIES
-=======
+# Peronospora phyteumatis Fuckel SPECIES
 
 #### Status
 ACCEPTED

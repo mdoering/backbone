@@ -1,5 +1,4 @@
-Fracchiaea intermedia Speer SPECIES
-=======
+# Fracchiaea intermedia Speer SPECIES
 
 #### Status
 ACCEPTED

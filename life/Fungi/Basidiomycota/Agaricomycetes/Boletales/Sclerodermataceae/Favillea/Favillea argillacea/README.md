@@ -1,5 +1,4 @@
-Favillea argillacea Fr., 1848 SPECIES
-=======
+# Favillea argillacea Fr., 1848 SPECIES
 
 #### Status
 ACCEPTED

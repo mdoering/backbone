@@ -1,5 +1,4 @@
-Rhabdospora oleina Gonz. Frag. SPECIES
-=======
+# Rhabdospora oleina Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

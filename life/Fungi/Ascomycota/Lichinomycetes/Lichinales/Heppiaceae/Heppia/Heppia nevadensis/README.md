@@ -1,5 +1,4 @@
-Heppia nevadensis Werner SPECIES
-=======
+# Heppia nevadensis Werner SPECIES
 
 #### Status
 ACCEPTED

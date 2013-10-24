@@ -1,5 +1,4 @@
-Holophrya latericollaris Wang, 1930 SPECIES
-=======
+# Holophrya latericollaris Wang, 1930 SPECIES
 
 #### Status
 ACCEPTED

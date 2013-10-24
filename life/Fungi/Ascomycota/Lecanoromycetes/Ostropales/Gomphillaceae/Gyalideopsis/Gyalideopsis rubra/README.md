@@ -1,5 +1,4 @@
-Gyalideopsis rubra Lücking SPECIES
-=======
+# Gyalideopsis rubra Lücking SPECIES
 
 #### Status
 ACCEPTED

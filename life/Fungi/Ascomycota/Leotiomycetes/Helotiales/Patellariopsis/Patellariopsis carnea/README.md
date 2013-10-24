@@ -1,5 +1,4 @@
-Patellariopsis carnea G.W. Beaton, 1978 SPECIES
-=======
+# Patellariopsis carnea G.W. Beaton, 1978 SPECIES
 
 #### Status
 ACCEPTED

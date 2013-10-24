@@ -1,5 +1,4 @@
-Spathidium cyclidium SPECIES
-=======
+# Spathidium cyclidium SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bulbobaculites Maync, 1952 GENUS
-=======
+# Bulbobaculites Maync, 1952 GENUS
 
 #### Status
 ACCEPTED

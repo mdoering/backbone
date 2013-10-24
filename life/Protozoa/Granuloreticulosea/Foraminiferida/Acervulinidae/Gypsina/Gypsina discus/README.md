@@ -1,5 +1,4 @@
-Gypsina discus SPECIES
-=======
+# Gypsina discus SPECIES
 
 #### Status
 ACCEPTED

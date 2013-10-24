@@ -1,5 +1,4 @@
-Hexagonia polygramma (Mont.) Fr. SPECIES
-=======
+# Hexagonia polygramma (Mont.) Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psilosphaeria squalida (Cooke & Peck) Cooke SPECIES
-=======
+# Psilosphaeria squalida (Cooke & Peck) Cooke SPECIES
 
 #### Status
 ACCEPTED

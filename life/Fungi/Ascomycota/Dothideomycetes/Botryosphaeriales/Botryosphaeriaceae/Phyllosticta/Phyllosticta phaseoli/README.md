@@ -1,5 +1,4 @@
-Phyllosticta phaseoli anon. SPECIES
-=======
+# Phyllosticta phaseoli anon. SPECIES
 
 #### Status
 ACCEPTED

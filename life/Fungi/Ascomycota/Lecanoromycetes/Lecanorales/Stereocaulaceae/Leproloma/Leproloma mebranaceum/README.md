@@ -1,5 +1,4 @@
-Leproloma mebranaceum anon. SPECIES
-=======
+# Leproloma mebranaceum anon. SPECIES
 
 #### Status
 ACCEPTED

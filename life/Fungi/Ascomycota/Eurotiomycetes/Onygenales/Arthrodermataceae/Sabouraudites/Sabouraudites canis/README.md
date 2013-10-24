@@ -1,5 +1,4 @@
-Sabouraudites canis (E. Bodin ex Guég.) Langeron SPECIES
-=======
+# Sabouraudites canis (E. Bodin ex Guég.) Langeron SPECIES
 
 #### Status
 ACCEPTED

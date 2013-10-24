@@ -1,5 +1,4 @@
-Biatora phacodoides Anzi SPECIES
-=======
+# Biatora phacodoides Anzi SPECIES
 
 #### Status
 ACCEPTED

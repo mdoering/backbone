@@ -1,5 +1,4 @@
-Polychidium urceolata (Anzi) SPECIES
-=======
+# Polychidium urceolata (Anzi) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerella drobnjakensis var. drobnjakensis VARIETY
-=======
+# Sphaerella drobnjakensis Bubák SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sphaerella drobnjakensis var. drobnjakensis
+Sphaerella drobnjakensis Bubák
 
 ### Remarks
 null
