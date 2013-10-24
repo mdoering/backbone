@@ -1,5 +1,4 @@
-Anisomeridium quaternarium (R.C. Harris) R.C. Harris SPECIES
-=======
+# Anisomeridium quaternarium (R.C. Harris) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

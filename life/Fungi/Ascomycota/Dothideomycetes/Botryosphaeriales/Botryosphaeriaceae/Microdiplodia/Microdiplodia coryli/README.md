@@ -1,5 +1,4 @@
-Microdiplodia coryli Died. SPECIES
-=======
+# Microdiplodia coryli Died. SPECIES
 
 #### Status
 ACCEPTED

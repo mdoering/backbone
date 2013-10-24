@@ -1,5 +1,4 @@
-Sagedia tenebricosa (A. Massal.) Jatta SPECIES
-=======
+# Sagedia tenebricosa (A. Massal.) Jatta SPECIES
 
 #### Status
 ACCEPTED

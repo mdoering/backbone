@@ -1,5 +1,4 @@
-Physalospora adeana (Rehm) Arx & E. Müll. SPECIES
-=======
+# Physalospora adeana (Rehm) Arx & E. Müll. SPECIES
 
 #### Status
 ACCEPTED

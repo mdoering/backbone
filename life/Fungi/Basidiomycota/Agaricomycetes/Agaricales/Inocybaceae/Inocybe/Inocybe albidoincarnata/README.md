@@ -1,5 +1,4 @@
-Inocybe albidoincarnata (Britzelm.) Sacc. SPECIES
-=======
+# Inocybe albidoincarnata (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterinella bredemeyerae Orejuela SPECIES
-=======
+# Asterinella bredemeyerae Orejuela SPECIES
 
 #### Status
 ACCEPTED

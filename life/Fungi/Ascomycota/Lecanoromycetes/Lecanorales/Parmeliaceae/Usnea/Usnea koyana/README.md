@@ -1,5 +1,4 @@
-Usnea koyana Asahina SPECIES
-=======
+# Usnea koyana Asahina SPECIES
 
 #### Status
 ACCEPTED

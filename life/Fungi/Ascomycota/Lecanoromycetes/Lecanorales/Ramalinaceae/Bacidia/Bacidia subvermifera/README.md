@@ -1,5 +1,4 @@
-Bacidia subvermifera (Nyl.) Zahlbr. SPECIES
-=======
+# Bacidia subvermifera (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phomopsis landolphiae Novoss., 1936 SPECIES
-=======
+# Phomopsis landolphiae Novoss., 1936 SPECIES
 
 #### Status
 ACCEPTED

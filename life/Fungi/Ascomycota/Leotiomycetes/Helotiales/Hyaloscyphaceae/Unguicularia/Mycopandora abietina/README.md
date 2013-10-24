@@ -1,5 +1,4 @@
-Mycopandora abietina Velen. SPECIES
-=======
+# Mycopandora abietina Velen. SPECIES
 
 #### Status
 ACCEPTED

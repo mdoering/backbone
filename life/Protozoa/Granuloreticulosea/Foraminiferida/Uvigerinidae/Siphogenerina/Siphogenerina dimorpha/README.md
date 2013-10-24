@@ -1,5 +1,4 @@
-Siphogenerina dimorpha SPECIES
-=======
+# Siphogenerina dimorpha SPECIES
 
 #### Status
 ACCEPTED

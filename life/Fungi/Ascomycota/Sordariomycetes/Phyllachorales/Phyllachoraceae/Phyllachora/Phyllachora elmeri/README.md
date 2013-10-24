@@ -1,14 +1,13 @@
-Catacauma elmeri (Syd. & P. Syd.) Theiss. & Syd., 1915 SPECIES
-=======
+# Phyllachora elmeri Syd. & P. Syd., 1911 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Theissen & Sydow, Annls mycol. 13(3/4): 378 (1915)
+Leafl. of Philipp. Bot. 4: 1157 (1911)
 
 #### Original name
 Phyllachora elmeri Syd. & P. Syd., 1911

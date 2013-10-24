@@ -1,5 +1,4 @@
-Ustilago polytocae Mundk. SPECIES
-=======
+# Ustilago polytocae Mundk. SPECIES
 
 #### Status
 ACCEPTED

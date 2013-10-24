@@ -1,5 +1,4 @@
-Stereocaulon japonicum var. japonicum VARIETY
-=======
+# Stereocaulon japonicum Th. Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Stereocaulon japonicum var. japonicum
+Stereocaulon japonicum Th. Fr.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Elaphocephala iocularis Pouzar, 1983 SPECIES
-=======
+# Elaphocephala iocularis Pouzar, 1983 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marssonina carthami (Fukui) Karak. SPECIES
-=======
+# Marssonina carthami (Fukui) Karak. SPECIES
 
 #### Status
 ACCEPTED

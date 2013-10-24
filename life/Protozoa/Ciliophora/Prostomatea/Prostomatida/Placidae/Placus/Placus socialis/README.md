@@ -1,5 +1,4 @@
-Placus socialis Fabre-Domergue, 1889 SPECIES
-=======
+# Placus socialis Fabre-Domergue, 1889 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodina mali Koshk. SPECIES
-=======
+# Diplodina mali Koshk. SPECIES
 
 #### Status
 ACCEPTED

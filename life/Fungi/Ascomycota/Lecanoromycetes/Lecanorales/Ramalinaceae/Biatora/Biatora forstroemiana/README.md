@@ -1,8 +1,7 @@
-Biatora forströmiana (Ach.) Fr. SPECIES
-=======
+# Biatora forstroemiana (Ach.) Fr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

@@ -1,5 +1,4 @@
-Ascochyta salicis Bonar SPECIES
-=======
+# Ascochyta salicis Bonar SPECIES
 
 #### Status
 ACCEPTED

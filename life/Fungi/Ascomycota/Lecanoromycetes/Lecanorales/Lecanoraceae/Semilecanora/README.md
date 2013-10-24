@@ -1,5 +1,4 @@
-Semilecanora GENUS
-=======
+# Semilecanora GENUS
 
 #### Status
 ACCEPTED

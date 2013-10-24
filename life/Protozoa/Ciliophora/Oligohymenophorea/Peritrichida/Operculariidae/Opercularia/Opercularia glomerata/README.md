@@ -1,5 +1,4 @@
-Opercularia glomerata Roux, 1901 SPECIES
-=======
+# Opercularia glomerata Roux, 1901 SPECIES
 
 #### Status
 ACCEPTED

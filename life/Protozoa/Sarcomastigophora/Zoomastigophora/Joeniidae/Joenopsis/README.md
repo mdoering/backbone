@@ -1,5 +1,4 @@
-Joenopsis Cutler GENUS
-=======
+# Joenopsis Cutler GENUS
 
 #### Status
 ACCEPTED

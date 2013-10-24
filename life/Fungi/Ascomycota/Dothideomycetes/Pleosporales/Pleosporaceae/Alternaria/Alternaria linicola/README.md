@@ -1,5 +1,4 @@
-Alternaria linicola J.W. Groves & Skolko, 1944 SPECIES
-=======
+# Alternaria linicola J.W. Groves & Skolko, 1944 SPECIES
 
 #### Status
 ACCEPTED

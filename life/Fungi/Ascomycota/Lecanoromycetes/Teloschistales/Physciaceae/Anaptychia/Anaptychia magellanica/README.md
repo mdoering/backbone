@@ -1,5 +1,4 @@
-Anaptychia magellanica f. magellanica FORM
-=======
+# Anaptychia magellanica Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 K. svenska Vetensk-Akad. Handl. 57(6): 54 (1917)
 
 #### Original name
-Anaptychia magellanica f. magellanica
+Anaptychia magellanica Zahlbr.
 
 ### Remarks
 null

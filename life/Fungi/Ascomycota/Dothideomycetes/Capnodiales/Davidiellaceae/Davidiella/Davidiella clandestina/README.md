@@ -1,14 +1,13 @@
-Sphaerella clandestina Niessl, 1872 SPECIES
-=======
+# Davidiella clandestina (Niessl) Aptroot, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycosphaerella and its anamorphs: 2. Conspectus of Mycosphaerella 63 (2006)
 
 #### Original name
 Sphaerella clandestina Niessl, 1872

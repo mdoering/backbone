@@ -1,5 +1,4 @@
-Fragilaria tenera (W. Smith) Lange-Bertalot SPECIES
-=======
+# Fragilaria tenera (W. Smith) Lange-Bertalot SPECIES
 
 #### Status
 ACCEPTED

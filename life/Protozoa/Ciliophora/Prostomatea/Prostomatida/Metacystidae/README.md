@@ -1,5 +1,4 @@
-Metacystidae Kahl, 1926 FAMILY
-=======
+# Metacystidae Kahl, 1926 FAMILY
 
 #### Status
 ACCEPTED

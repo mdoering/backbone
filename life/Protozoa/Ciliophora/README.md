@@ -1,5 +1,4 @@
-Ciliophora Doflein, 1901 PHYLUM
-=======
+# Ciliophora Doflein, 1901 PHYLUM
 
 #### Status
 ACCEPTED

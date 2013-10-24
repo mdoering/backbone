@@ -1,5 +1,4 @@
-Hydnum cervinum Pers. SPECIES
-=======
+# Hydnum cervinum Pers. SPECIES
 
 #### Status
 ACCEPTED

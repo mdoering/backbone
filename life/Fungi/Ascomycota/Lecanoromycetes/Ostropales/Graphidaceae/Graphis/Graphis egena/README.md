@@ -1,5 +1,4 @@
-Graphis egena Nyl. SPECIES
-=======
+# Graphis egena Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Phyllosticta aetylis Speg. SPECIES
-=======
+# Phyllosticta aethilis Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Anal. Mus. nac. B. Aires, Ser. 2 6: 313 (1899)
 
 #### Original name
-Phyllosticta aetylis Speg.
+Phyllosticta aethilis Speg.
 
 ### Remarks
 null

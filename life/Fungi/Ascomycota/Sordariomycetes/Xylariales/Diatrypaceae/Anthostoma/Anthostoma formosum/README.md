@@ -1,5 +1,4 @@
-Anthostoma formosum Ellis & Everh. SPECIES
-=======
+# Anthostoma formosum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

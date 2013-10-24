@@ -1,5 +1,4 @@
-Phaeomarasmius distans (Peck) Singer SPECIES
-=======
+# Phaeomarasmius distans (Peck) Singer SPECIES
 
 #### Status
 ACCEPTED

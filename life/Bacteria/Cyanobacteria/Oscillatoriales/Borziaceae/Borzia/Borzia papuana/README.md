@@ -1,5 +1,4 @@
-Borzia papuana L. Hoffmann & V. Demoulin SPECIES
-=======
+# Borzia papuana L. Hoffmann & V. Demoulin SPECIES
 
 #### Status
 ACCEPTED

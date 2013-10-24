@@ -1,5 +1,4 @@
-Peronospora vincae J. Schröt. SPECIES
-=======
+# Peronospora vincae J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

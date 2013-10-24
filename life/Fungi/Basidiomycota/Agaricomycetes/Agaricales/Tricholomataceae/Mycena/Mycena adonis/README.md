@@ -1,11 +1,10 @@
-Mycena clavus sensu Rea (1922) SPECIES
-=======
+# Mycena adonis (Bull. Fr.) S.F. Gray SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+Belgian Species List
 
 #### Published in
 null

@@ -1,5 +1,4 @@
-Ammopalmula Lindenberg, 1966 GENUS
-=======
+# Ammopalmula Lindenberg, 1966 GENUS
 
 #### Status
 ACCEPTED

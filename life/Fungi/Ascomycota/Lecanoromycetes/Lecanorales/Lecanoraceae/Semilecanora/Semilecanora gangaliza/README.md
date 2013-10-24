@@ -1,5 +1,4 @@
-Semilecanora gangaliza (Nyl.) Motyka SPECIES
-=======
+# Semilecanora gangaliza (Nyl.) Motyka SPECIES
 
 #### Status
 ACCEPTED

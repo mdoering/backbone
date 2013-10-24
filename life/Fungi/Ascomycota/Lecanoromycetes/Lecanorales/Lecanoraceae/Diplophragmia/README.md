@@ -1,5 +1,4 @@
-Diplophragmia GENUS
-=======
+# Diplophragmia GENUS
 
 #### Status
 ACCEPTED

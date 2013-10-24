@@ -1,5 +1,4 @@
-Lichen hemisphaericus K.G. Hagen SPECIES
-=======
+# Lichen hemisphaericus K.G. Hagen SPECIES
 
 #### Status
 ACCEPTED

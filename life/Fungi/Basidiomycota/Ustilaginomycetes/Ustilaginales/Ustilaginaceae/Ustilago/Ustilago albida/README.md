@@ -1,5 +1,4 @@
-Ustilago albida Bubák SPECIES
-=======
+# Ustilago albida Bubák SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Perichaena microcarpa J. Schröt. SPECIES
-=======
+# Perichaena microcarpa J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

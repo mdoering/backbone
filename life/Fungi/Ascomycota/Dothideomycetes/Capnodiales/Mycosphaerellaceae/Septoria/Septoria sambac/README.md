@@ -1,5 +1,4 @@
-Septoria sambac Pass. SPECIES
-=======
+# Septoria sambac Pass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heterosporium sambuci Earle SPECIES
-=======
+# Heterosporium sambuci Earle SPECIES
 
 #### Status
 ACCEPTED

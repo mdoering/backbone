@@ -1,5 +1,4 @@
-Anaptychia fulvescens var. fulvescens VARIETY
-=======
+# Anaptychia fulvescens (Vain.) Kurok. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Anaptychia fulvescens var. fulvescens
+Anaptychia hypoleuca var. fulvescens Vain.
 
 ### Remarks
 null

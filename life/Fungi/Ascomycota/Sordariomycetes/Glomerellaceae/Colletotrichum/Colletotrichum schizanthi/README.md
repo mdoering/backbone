@@ -1,5 +1,4 @@
-Colletotrichum schizanthi C.N. Jensen & V.B. Stewart SPECIES
-=======
+# Colletotrichum schizanthi C.N. Jensen & V.B. Stewart SPECIES
 
 #### Status
 ACCEPTED

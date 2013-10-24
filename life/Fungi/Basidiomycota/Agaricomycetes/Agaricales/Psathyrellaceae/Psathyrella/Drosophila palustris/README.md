@@ -1,5 +1,4 @@
-Drosophila palustris Romagn. SPECIES
-=======
+# Drosophila palustris Romagn. SPECIES
 
 #### Status
 ACCEPTED

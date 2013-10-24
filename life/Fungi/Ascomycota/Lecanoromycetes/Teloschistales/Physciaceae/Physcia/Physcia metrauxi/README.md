@@ -1,5 +1,4 @@
-Physcia metrauxi B. de Lesd. SPECIES
-=======
+# Physcia metrauxi B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

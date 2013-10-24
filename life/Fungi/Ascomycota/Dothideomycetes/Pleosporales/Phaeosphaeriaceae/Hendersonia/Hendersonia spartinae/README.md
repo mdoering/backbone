@@ -1,5 +1,4 @@
-Hendersonia spartinae H.C. Greene SPECIES
-=======
+# Hendersonia spartinae H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

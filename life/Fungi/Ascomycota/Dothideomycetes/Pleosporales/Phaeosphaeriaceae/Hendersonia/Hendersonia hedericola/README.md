@@ -1,5 +1,4 @@
-Hendersonia hedericola Fautrey SPECIES
-=======
+# Hendersonia hedericola Fautrey SPECIES
 
 #### Status
 ACCEPTED

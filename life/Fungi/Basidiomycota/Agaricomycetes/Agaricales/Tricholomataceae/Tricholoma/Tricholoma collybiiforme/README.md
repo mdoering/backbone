@@ -1,5 +1,4 @@
-Tricholoma collybiiforme Murrill SPECIES
-=======
+# Tricholoma collybiiforme Murrill SPECIES
 
 #### Status
 ACCEPTED

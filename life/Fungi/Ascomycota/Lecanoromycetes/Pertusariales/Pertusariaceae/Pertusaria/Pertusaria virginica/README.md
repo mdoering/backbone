@@ -1,5 +1,4 @@
-Pertusaria virginica Müll. Arg. SPECIES
-=======
+# Pertusaria virginica Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

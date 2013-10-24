@@ -1,17 +1,16 @@
-Stictis coccolobii Seaver & Waterston SPECIES
-=======
+# Stictis coccolobae Seaver & Waterston SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 32(3): 399 (1940)
 
 #### Original name
-Stictis coccolobii Seaver & Waterston
+Stictis coccolobae Seaver & Waterston
 
 ### Remarks
 null

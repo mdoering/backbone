@@ -1,5 +1,4 @@
-Anabaena laxa var. hortensis Playfair VARIETY
-=======
+# Anabaena laxa (Rabenhorst) A. Braun SPECIES
 
 #### Status
 ACCEPTED

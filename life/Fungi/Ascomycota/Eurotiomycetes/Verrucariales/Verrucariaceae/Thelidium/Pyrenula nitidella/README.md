@@ -1,5 +1,4 @@
-Pyrenula nitidella (Flörke ex Schaer.) Müll. Arg., 1885 SPECIES
-=======
+# Pyrenula nitidella (Flörke ex Schaer.) Müll. Arg., 1885 SPECIES
 
 #### Status
 ACCEPTED

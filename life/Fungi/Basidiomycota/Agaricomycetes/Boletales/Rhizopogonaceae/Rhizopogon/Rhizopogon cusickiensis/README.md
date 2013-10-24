@@ -1,5 +1,4 @@
-Rhizopogon cusickiensis A.H. Sm. SPECIES
-=======
+# Rhizopogon cusickiensis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

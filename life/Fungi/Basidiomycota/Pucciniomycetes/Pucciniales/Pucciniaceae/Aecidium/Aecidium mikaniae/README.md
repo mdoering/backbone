@@ -1,5 +1,4 @@
-Aecidium mikaniae Henn. SPECIES
-=======
+# Aecidium mikaniae Henn. SPECIES
 
 #### Status
 ACCEPTED

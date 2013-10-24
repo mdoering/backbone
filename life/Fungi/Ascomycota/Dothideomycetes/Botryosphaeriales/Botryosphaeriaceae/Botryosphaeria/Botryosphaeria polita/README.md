@@ -1,5 +1,4 @@
-Botryosphaeria polita (Fr.) Sacc. SPECIES
-=======
+# Botryosphaeria polita (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

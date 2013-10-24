@@ -1,5 +1,4 @@
-Merocystis Dakin, 1911 GENUS
-=======
+# Merocystis Dakin, 1911 GENUS
 
 #### Status
 ACCEPTED

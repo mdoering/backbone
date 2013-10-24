@@ -1,5 +1,4 @@
-Lactarius brunellus S.L. Mill., Aime & T.W. Henkel SPECIES
-=======
+# Lactarius brunellus S.L. Mill., Aime & T.W. Henkel SPECIES
 
 #### Status
 ACCEPTED

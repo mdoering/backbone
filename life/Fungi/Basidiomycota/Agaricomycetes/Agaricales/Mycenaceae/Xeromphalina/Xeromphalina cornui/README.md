@@ -1,14 +1,13 @@
-Omphalia cornui Quél., 1877 SPECIES
-=======
+# Xeromphalina cornui (Quél.) J. Favre, 1936 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. bot. Fr. 24: 319 (1877)
+Bull. trimest. Soc. mycol. Fr. 52: 131 (1936)
 
 #### Original name
 Omphalia cornui Quél., 1877

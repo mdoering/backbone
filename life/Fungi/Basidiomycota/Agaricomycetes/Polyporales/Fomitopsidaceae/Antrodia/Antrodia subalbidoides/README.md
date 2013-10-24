@@ -1,5 +1,4 @@
-Antrodia subalbidoides A. David & Dequatre, 1985 SPECIES
-=======
+# Antrodia subalbidoides A. David & Dequatre, 1985 SPECIES
 
 #### Status
 ACCEPTED

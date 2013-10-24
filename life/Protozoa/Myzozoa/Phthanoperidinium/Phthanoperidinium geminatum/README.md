@@ -1,5 +1,4 @@
-Phthanoperidinium geminatum Bujak in Bujak, Downie, Eaton & Williams, 1980 SPECIES
-=======
+# Phthanoperidinium geminatum Bujak in Bujak, Downie, Eaton & Williams, 1980 SPECIES
 
 #### Status
 ACCEPTED

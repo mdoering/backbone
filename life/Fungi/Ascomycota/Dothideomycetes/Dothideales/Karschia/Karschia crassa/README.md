@@ -1,5 +1,4 @@
-Karschia crassa Fairm. SPECIES
-=======
+# Karschia crassa Fairm. SPECIES
 
 #### Status
 ACCEPTED

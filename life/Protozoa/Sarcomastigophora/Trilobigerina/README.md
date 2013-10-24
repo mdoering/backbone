@@ -1,5 +1,4 @@
-Trilobigerina Popescu, 1987 GENUS
-=======
+# Trilobigerina Popescu, 1987 GENUS
 
 #### Status
 ACCEPTED

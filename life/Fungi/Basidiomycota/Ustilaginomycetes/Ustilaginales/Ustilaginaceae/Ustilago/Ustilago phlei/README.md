@@ -1,5 +1,4 @@
-Ustilago phlei Lavrov SPECIES
-=======
+# Ustilago phlei Lavrov SPECIES
 
 #### Status
 ACCEPTED

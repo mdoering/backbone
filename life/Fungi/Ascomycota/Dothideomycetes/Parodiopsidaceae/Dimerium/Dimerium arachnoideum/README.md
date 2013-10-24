@@ -1,5 +1,4 @@
-Dimerium arachnoideum Speg. SPECIES
-=======
+# Dimerium arachnoideum Speg. SPECIES
 
 #### Status
 ACCEPTED

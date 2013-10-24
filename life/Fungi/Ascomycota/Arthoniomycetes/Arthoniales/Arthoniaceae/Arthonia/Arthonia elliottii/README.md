@@ -1,5 +1,4 @@
-Arthonia elliottii Vain. SPECIES
-=======
+# Arthonia elliottii Vain. SPECIES
 
 #### Status
 ACCEPTED

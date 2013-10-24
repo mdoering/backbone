@@ -1,5 +1,4 @@
-Agaricus ignotus J. Otto SPECIES
-=======
+# Agaricus ignotus J. Otto SPECIES
 
 #### Status
 ACCEPTED

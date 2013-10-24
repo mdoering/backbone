@@ -1,5 +1,4 @@
-Pertusaria contraria H. Magn. SPECIES
-=======
+# Pertusaria contraria H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria malyi Picb. SPECIES
-=======
+# Septoria malyi Picb. SPECIES
 
 #### Status
 ACCEPTED

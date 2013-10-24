@@ -1,5 +1,4 @@
-Helvella oblongispora Harmaja SPECIES
-=======
+# Helvella oblongispora Harmaja SPECIES
 
 #### Status
 ACCEPTED

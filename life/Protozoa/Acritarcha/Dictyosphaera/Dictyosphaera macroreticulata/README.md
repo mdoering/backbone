@@ -1,5 +1,4 @@
-Dictyosphaera macroreticulata Xing Yusheng & Liu Kuizhih, 1973 SPECIES
-=======
+# Dictyosphaera macroreticulata Xing Yusheng & Liu Kuizhih, 1973 SPECIES
 
 #### Status
 ACCEPTED

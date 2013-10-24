@@ -1,5 +1,4 @@
-Biporisporites praestigiatus G. Norris SPECIES
-=======
+# Biporisporites praestigiatus G. Norris SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Passalora ziziae (Ellis & Everh.) U. Braun & Crous SPECIES
-=======
+# Passalora ziziae (Ellis & Everh.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

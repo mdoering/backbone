@@ -1,17 +1,16 @@
-Hendersonia fraseri Hansf. SPECIES
-=======
+# Hendersonia fraserae Hansf. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Proc. Linn. Soc. N. S. W. 79(3/4): 135 (1954)
 
 #### Original name
-Hendersonia fraseri Hansf.
+Hendersonia fraserae Hansf.
 
 ### Remarks
 null

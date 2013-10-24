@@ -1,5 +1,4 @@
-Clathrodiscus mandouli (Sauvageau) G. Hamel SPECIES
-=======
+# Clathrodiscus mandouli (Sauvageau) G. Hamel SPECIES
 
 #### Status
 ACCEPTED

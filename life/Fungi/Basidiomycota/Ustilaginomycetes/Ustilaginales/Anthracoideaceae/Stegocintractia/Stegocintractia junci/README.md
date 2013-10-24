@@ -1,17 +1,16 @@
-Cintractia junci f. junci FORM
-=======
+# Stegocintractia junci (Schwein.) M. Piepenbr., 2000 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nova Hedwigia 70(3-4): 321 (2000)
 
 #### Original name
-Cintractia junci f. junci
+Caeoma junci Schwein., 1834
 
 ### Remarks
 null

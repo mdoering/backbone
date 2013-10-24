@@ -1,5 +1,4 @@
-Phomatospora sandwicensis Petr. SPECIES
-=======
+# Phomatospora sandwicensis Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Catillaria anaglyptica (Kremp.) Zahlbr. SPECIES
-=======
+# Catillaria anaglyptica (Kremp.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

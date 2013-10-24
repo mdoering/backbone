@@ -1,5 +1,4 @@
-Mucor sinensis Milko & Beliakova, 1971 SPECIES
-=======
+# Mucor sinensis Milko & Beliakova, 1971 SPECIES
 
 #### Status
 ACCEPTED

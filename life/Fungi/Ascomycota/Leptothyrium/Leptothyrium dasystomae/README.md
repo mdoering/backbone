@@ -1,5 +1,4 @@
-Leptothyrium dasystomae Dearn. & House SPECIES
-=======
+# Leptothyrium dasystomae Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

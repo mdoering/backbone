@@ -1,5 +1,4 @@
-Ustalia GENUS
-=======
+# Ustalia GENUS
 
 #### Status
 ACCEPTED

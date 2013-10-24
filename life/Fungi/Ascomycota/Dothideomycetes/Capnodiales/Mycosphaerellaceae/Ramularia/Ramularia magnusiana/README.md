@@ -1,5 +1,4 @@
-Ramularia magnusiana (Sacc.) Lindau, 1906 SPECIES
-=======
+# Ramularia magnusiana (Sacc.) Lindau, 1906 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Feuerbornia Jung, 1942 GENUS
-=======
+# Feuerbornia Jung, 1942 GENUS
 
 #### Status
 ACCEPTED

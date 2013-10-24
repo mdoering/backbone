@@ -1,5 +1,4 @@
-Ramonia absconsa (Tuck.) Vezda SPECIES
-=======
+# Ramonia absconsa (Tuck.) Vezda SPECIES
 
 #### Status
 ACCEPTED

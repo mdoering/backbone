@@ -1,5 +1,4 @@
-Graphis elixiana A. W. Archer SPECIES
-=======
+# Graphis elixiana A. W. Archer SPECIES
 
 #### Status
 ACCEPTED

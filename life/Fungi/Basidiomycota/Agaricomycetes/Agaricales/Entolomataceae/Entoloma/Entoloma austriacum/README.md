@@ -1,5 +1,4 @@
-Entoloma austriacum Courtec. SPECIES
-=======
+# Entoloma austriacum Courtec. SPECIES
 
 #### Status
 ACCEPTED

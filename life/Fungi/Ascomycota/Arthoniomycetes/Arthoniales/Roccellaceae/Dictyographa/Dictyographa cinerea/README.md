@@ -1,5 +1,4 @@
-Dictyographa cinerea (C. Knight & Mitt.) Müll. Arg. SPECIES
-=======
+# Dictyographa cinerea (C. Knight & Mitt.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterotrema parasiticum Müll. Arg. SPECIES
-=======
+# Asterotrema parasiticum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

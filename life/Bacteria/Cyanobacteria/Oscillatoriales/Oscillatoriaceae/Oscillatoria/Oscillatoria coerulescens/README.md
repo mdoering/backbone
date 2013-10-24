@@ -1,5 +1,4 @@
-Oscillatoria coerulescens Gicklhorn SPECIES
-=======
+# Oscillatoria coerulescens Gicklhorn SPECIES
 
 #### Status
 ACCEPTED

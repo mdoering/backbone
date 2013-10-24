@@ -1,5 +1,4 @@
-Usnea leioclada (Zahlbr.) Motyka SPECIES
-=======
+# Usnea leioclada (Zahlbr.) Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acidobacteriaceae FAMILY
-=======
+# Acidobacteriaceae FAMILY
 
 #### Status
 ACCEPTED

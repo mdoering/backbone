@@ -1,5 +1,4 @@
-Lobaria submultiseriata Yoshim. SPECIES
-=======
+# Lobaria submultiseriata Yoshim. SPECIES
 
 #### Status
 ACCEPTED

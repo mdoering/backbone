@@ -1,5 +1,4 @@
-Macrophoma gloeosporioides (Sacc.) Berl. & Voglino SPECIES
-=======
+# Macrophoma gloeosporioides (Sacc.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

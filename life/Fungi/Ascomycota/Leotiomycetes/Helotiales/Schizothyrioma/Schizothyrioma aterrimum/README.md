@@ -1,14 +1,13 @@
-Fabraea aterrima P. Karst., 1885 SPECIES
-=======
+# Schizothyrioma aterrimum (P. Karst.) L. Holm, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 24: 73 (1885)
+Svensk bot. Tidskr. 65(2): 211 (1971)
 
 #### Original name
 Fabraea aterrima P. Karst., 1885

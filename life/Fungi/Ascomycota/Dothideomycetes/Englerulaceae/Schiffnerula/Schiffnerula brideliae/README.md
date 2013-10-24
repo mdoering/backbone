@@ -1,5 +1,4 @@
-Schiffnerula brideliae Hansf. SPECIES
-=======
+# Schiffnerula brideliae Hansf. SPECIES
 
 #### Status
 ACCEPTED

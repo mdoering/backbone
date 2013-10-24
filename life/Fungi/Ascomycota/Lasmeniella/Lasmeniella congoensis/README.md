@@ -1,5 +1,4 @@
-Lasmeniella congoensis (Har. & Pat.) Petr. & Syd. SPECIES
-=======
+# Lasmeniella congoensis (Har. & Pat.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

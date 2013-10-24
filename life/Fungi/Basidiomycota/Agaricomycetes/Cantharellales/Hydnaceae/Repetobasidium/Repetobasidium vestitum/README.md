@@ -1,5 +1,4 @@
-Repetobasidium vestitum J. Erikss. & Hjortstam, 1981 SPECIES
-=======
+# Repetobasidium vestitum J. Erikss. & Hjortstam, 1981 SPECIES
 
 #### Status
 ACCEPTED

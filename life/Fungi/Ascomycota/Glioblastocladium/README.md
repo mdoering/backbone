@@ -1,5 +1,4 @@
-Glioblastocladium Matsush. GENUS
-=======
+# Glioblastocladium Matsush. GENUS
 
 #### Status
 ACCEPTED

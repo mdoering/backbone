@@ -1,5 +1,4 @@
-Heufleria chlorogastrica Müll. Arg. SPECIES
-=======
+# Heufleria chlorogastrica Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycothele Jülich GENUS
-=======
+# Mycothele Jülich GENUS
 
 #### Status
 ACCEPTED

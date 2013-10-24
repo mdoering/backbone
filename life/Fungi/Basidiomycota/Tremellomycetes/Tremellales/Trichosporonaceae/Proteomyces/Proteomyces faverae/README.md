@@ -1,5 +1,4 @@
-Proteomyces faverae C.W. Dodge SPECIES
-=======
+# Proteomyces faverae C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

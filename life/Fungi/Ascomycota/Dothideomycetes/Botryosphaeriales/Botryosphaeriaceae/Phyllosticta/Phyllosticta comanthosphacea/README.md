@@ -1,5 +1,4 @@
-Phyllosticta comanthosphacea Hara SPECIES
-=======
+# Phyllosticta comanthosphacea Hara SPECIES
 
 #### Status
 ACCEPTED

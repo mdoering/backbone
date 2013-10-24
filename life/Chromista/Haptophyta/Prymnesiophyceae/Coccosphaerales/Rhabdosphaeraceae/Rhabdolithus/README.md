@@ -1,5 +1,4 @@
-Rhabdolithus Kamptner ex Deflandre, 1952 GENUS
-=======
+# Rhabdolithus Kamptner ex Deflandre, 1952 GENUS
 
 #### Status
 ACCEPTED

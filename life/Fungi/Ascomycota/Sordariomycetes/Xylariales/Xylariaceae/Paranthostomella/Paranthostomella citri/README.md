@@ -1,5 +1,4 @@
-Paranthostomella citri Bat. & J.L. Bezerra SPECIES
-=======
+# Paranthostomella citri Bat. & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

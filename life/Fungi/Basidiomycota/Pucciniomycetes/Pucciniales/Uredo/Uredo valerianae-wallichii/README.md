@@ -1,5 +1,4 @@
-Uredo valerianae-wallichii Dietel SPECIES
-=======
+# Uredo valerianae-wallichii Dietel SPECIES
 
 #### Status
 ACCEPTED

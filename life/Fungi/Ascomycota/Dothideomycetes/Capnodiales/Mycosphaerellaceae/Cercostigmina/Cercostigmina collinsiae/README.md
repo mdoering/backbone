@@ -1,5 +1,4 @@
-Cercostigmina collinsiae (U. Braun & Rogerson) U. Braun & Rogerson SPECIES
-=======
+# Cercostigmina collinsiae (U. Braun & Rogerson) U. Braun & Rogerson SPECIES
 
 #### Status
 ACCEPTED

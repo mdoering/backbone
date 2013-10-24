@@ -1,5 +1,4 @@
-Mycena borellae Robich SPECIES
-=======
+# Mycena borellae Robich SPECIES
 
 #### Status
 ACCEPTED

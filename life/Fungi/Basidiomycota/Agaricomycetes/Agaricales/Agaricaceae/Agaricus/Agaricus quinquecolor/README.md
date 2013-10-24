@@ -1,5 +1,4 @@
-Agaricus quinquecolor Cooke & Massee SPECIES
-=======
+# Agaricus quinquecolor Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

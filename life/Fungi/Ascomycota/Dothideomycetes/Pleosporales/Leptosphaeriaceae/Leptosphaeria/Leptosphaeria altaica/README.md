@@ -1,5 +1,4 @@
-Leptosphaeria altaica Nann. SPECIES
-=======
+# Leptosphaeria altaica Nann. SPECIES
 
 #### Status
 ACCEPTED

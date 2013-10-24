@@ -1,5 +1,4 @@
-Chaetocypha disseminata (Berk. & Broome) Kuntze SPECIES
-=======
+# Chaetocypha disseminata (Berk. & Broome) Kuntze SPECIES
 
 #### Status
 ACCEPTED

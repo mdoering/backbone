@@ -1,5 +1,4 @@
-Lichen decorus Sm. SPECIES
-=======
+# Lichen decorus Sm. SPECIES
 
 #### Status
 ACCEPTED

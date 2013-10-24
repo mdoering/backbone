@@ -1,5 +1,4 @@
-Phacopsis falcispora Triebel & Rambold SPECIES
-=======
+# Phacopsis falcispora Triebel & Rambold SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrophoma elongata (Berk. & M.A. Curtis) Berl. & Voglino SPECIES
-=======
+# Macrophoma elongata (Berk. & M.A. Curtis) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

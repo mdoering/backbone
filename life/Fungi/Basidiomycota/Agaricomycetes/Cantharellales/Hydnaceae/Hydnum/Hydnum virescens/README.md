@@ -1,5 +1,4 @@
-Hydnum virescens Alb. & Schwein. SPECIES
-=======
+# Hydnum virescens Alb. & Schwein. SPECIES
 
 #### Status
 ACCEPTED

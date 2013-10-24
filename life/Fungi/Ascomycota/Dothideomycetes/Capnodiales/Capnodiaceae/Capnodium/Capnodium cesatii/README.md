@@ -1,5 +1,4 @@
-Capnodium cesatii Mont. SPECIES
-=======
+# Capnodium cesatii Mont. SPECIES
 
 #### Status
 ACCEPTED

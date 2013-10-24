@@ -1,5 +1,4 @@
-Amanita bella S. Imai SPECIES
-=======
+# Amanita bella S. Imai SPECIES
 
 #### Status
 ACCEPTED

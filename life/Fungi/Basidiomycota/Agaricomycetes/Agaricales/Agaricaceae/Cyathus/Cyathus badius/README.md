@@ -1,5 +1,4 @@
-Cyathus badius Kobayasi SPECIES
-=======
+# Cyathus badius Kobayasi SPECIES
 
 #### Status
 ACCEPTED

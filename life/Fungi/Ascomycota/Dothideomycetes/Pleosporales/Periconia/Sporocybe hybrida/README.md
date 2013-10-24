@@ -1,5 +1,4 @@
-Sporocybe hybrida E.W. Mason, 1941 SPECIES
-=======
+# Sporocybe hybrida E.W. Mason, 1941 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetocypha peckii (Sacc.) Kuntze SPECIES
-=======
+# Chaetocypha peckii (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

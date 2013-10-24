@@ -1,5 +1,4 @@
-Graphis alloafzelii A.W. Archer SPECIES
-=======
+# Graphis alloafzelii A.W. Archer SPECIES
 
 #### Status
 ACCEPTED

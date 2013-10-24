@@ -1,5 +1,4 @@
-Gnomonia alni Plowr. SPECIES
-=======
+# Gnomonia alni Plowr. SPECIES
 
 #### Status
 ACCEPTED

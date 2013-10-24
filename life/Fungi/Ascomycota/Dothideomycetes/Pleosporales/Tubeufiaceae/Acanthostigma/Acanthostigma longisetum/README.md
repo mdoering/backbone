@@ -1,5 +1,4 @@
-Acanthostigma longisetum P. Karst. SPECIES
-=======
+# Acanthostigma longisetum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

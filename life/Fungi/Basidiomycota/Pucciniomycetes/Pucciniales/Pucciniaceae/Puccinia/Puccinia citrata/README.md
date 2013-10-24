@@ -1,5 +1,4 @@
-Puccinia citrata Syd. & P. Syd. SPECIES
-=======
+# Puccinia citrata Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

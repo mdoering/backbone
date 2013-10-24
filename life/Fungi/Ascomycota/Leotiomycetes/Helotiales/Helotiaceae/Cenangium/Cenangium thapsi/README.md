@@ -1,5 +1,4 @@
-Cenangium thapsi Saut. SPECIES
-=======
+# Cenangium thapsi Saut. SPECIES
 
 #### Status
 ACCEPTED

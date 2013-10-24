@@ -1,5 +1,4 @@
-Psathyrella subaustralis A.H. Sm. SPECIES
-=======
+# Psathyrella subaustralis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

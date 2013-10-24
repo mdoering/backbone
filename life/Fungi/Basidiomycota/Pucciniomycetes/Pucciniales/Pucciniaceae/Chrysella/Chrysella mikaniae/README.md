@@ -1,5 +1,4 @@
-Chrysella mikaniae Syd., 1927 SPECIES
-=======
+# Chrysella mikaniae Syd., 1927 SPECIES
 
 #### Status
 ACCEPTED

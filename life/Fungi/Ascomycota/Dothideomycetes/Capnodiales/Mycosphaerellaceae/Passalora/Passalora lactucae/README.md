@@ -1,14 +1,13 @@
-Cercospora lactucae Henn., 1902 SPECIES
-=======
+# Passalora lactucae (Henn.) U. Braun & Crous, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Jb. 31: 742 (1902)
+in Crous & Braun, CBS Diversity Ser. (Utrecht) 240 (2003)
 
 #### Original name
 Cercospora lactucae Henn., 1902

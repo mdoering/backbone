@@ -1,5 +1,4 @@
-Cercospora dontostemonicola Nelen SPECIES
-=======
+# Cercospora dontostemonicola Nelen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus gryphaeformis Berk. SPECIES
-=======
+# Polyporus gryphaeformis Berk. SPECIES
 
 #### Status
 ACCEPTED

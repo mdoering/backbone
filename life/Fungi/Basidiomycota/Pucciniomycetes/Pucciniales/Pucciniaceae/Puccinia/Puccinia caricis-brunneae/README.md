@@ -1,5 +1,4 @@
-Puccinia caricis-brunneae Dietel SPECIES
-=======
+# Puccinia caricis-brunneae Dietel SPECIES
 
 #### Status
 ACCEPTED

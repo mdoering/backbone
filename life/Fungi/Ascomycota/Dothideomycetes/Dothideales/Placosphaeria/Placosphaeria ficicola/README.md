@@ -1,5 +1,4 @@
-Placosphaeria ficicola (Lév.) Sacc. SPECIES
-=======
+# Placosphaeria ficicola (Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

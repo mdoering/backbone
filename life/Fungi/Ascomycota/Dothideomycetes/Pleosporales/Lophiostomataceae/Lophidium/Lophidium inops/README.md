@@ -1,5 +1,4 @@
-Lophidium inops Pass. SPECIES
-=======
+# Lophidium inops Pass. SPECIES
 
 #### Status
 ACCEPTED

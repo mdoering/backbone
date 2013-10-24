@@ -1,5 +1,4 @@
-Ebria Borgert, 1891 GENUS
-=======
+# Ebria Borgert, 1891 GENUS
 
 #### Status
 ACCEPTED

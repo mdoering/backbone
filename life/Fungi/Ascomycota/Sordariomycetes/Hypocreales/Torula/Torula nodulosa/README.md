@@ -1,5 +1,4 @@
-Torula nodulosa (Sappa & Mosca) E. Castell. SPECIES
-=======
+# Torula nodulosa (Sappa & Mosca) E. Castell. SPECIES
 
 #### Status
 ACCEPTED

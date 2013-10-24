@@ -1,5 +1,4 @@
-Padina fernandeziana Skottsberg & Levring, 1941 SPECIES
-=======
+# Padina fernandeziana Skottsberg & Levring, 1941 SPECIES
 
 #### Status
 ACCEPTED

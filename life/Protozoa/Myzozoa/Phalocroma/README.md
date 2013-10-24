@@ -1,5 +1,4 @@
-Phalocroma GENUS
-=======
+# Phalocroma GENUS
 
 #### Status
 ACCEPTED

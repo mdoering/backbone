@@ -1,5 +1,4 @@
-Bottaria epapillata (Nyl.) Vain. SPECIES
-=======
+# Bottaria epapillata (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

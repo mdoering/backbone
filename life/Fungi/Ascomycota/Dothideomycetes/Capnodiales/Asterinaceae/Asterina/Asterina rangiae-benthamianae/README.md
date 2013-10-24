@@ -1,5 +1,4 @@
-Asterina rangiae-benthamianae Hansf. SPECIES
-=======
+# Asterina rangiae-benthamianae Hansf. SPECIES
 
 #### Status
 ACCEPTED

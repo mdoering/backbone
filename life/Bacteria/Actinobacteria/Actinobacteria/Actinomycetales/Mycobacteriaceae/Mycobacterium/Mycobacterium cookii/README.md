@@ -1,5 +1,4 @@
-Mycobacterium cookii Kazda et al., 1990 SPECIES
-=======
+# Mycobacterium cookii Kazda et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

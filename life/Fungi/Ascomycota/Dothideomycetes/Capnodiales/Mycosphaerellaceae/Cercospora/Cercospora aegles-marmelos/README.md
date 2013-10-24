@@ -1,17 +1,16 @@
-Cercospora aegle-marmoli R.S. Mathur, L.S. Chauhan & S.C. Verma SPECIES
-=======
+# Cercospora aegles-marmelos R.S. Mathur, L.S. Chauhan & S.C. Verma SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycopath. Mycol. appl. 27: 148 (1965)
 
 #### Original name
-Cercospora aegle-marmoli R.S. Mathur, L.S. Chauhan & S.C. Verma
+Cercospora aegles-marmelos R.S. Mathur, L.S. Chauhan & S.C. Verma
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cercospora pareirae Speg. SPECIES
-=======
+# Cercospora pareirae Speg. SPECIES
 
 #### Status
 ACCEPTED

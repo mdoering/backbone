@@ -1,5 +1,4 @@
-Patellea suecica Starbäck SPECIES
-=======
+# Patellea suecica Starbäck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cytospora australiae Speg. SPECIES
-=======
+# Cytospora australiae Speg. SPECIES
 
 #### Status
 ACCEPTED

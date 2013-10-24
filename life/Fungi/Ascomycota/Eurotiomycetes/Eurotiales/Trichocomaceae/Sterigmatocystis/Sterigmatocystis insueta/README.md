@@ -1,5 +1,4 @@
-Sterigmatocystis insueta Bainier SPECIES
-=======
+# Sterigmatocystis insueta Bainier SPECIES
 
 #### Status
 ACCEPTED

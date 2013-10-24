@@ -1,5 +1,4 @@
-Schizothecium cervinum (Cain) N. Lundq. SPECIES
-=======
+# Schizothecium cervinum (Cain) N. Lundq. SPECIES
 
 #### Status
 ACCEPTED

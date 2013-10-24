@@ -1,5 +1,4 @@
-Gloeotulasnella traumatica Bourdot & Galzin SPECIES
-=======
+# Gloeotulasnella traumatica Bourdot & Galzin SPECIES
 
 #### Status
 ACCEPTED

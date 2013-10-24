@@ -1,5 +1,4 @@
-Trichasterina popowiae (Doidge) Doidge SPECIES
-=======
+# Trichasterina popowiae (Doidge) Doidge SPECIES
 
 #### Status
 ACCEPTED

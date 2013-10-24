@@ -1,17 +1,16 @@
-Pistillaria fruticum (P. Karst.) Sacc., 1888 SPECIES
-=======
+# Typhula fruticum P. Karst., 1889 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 6: (1888)
+Bidr. Känn. Finl. Nat. Folk 48: 386 (1889)
 
 #### Original name
-Clavaria fruticum P. Karst., 1882
+Typhula fruticum P. Karst., 1889
 
 ### Remarks
 null

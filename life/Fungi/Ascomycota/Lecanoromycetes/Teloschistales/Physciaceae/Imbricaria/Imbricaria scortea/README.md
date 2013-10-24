@@ -1,5 +1,4 @@
-Imbricaria scortea (Ach.) Jatta SPECIES
-=======
+# Imbricaria scortea (Ach.) Jatta SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Imimyces pseudobambusae (P.M. Kirk) A. Hern. Gut. & B. Sutton, 1997 SPECIES
-=======
+# Sporidesmium pseudobambusae P.M. Kirk, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Res. 101(2): 207 (1997)
+Trans. Br. mycol. Soc. 76(1): 84 (1981)
 
 #### Original name
 Sporidesmium pseudobambusae P.M. Kirk, 1981

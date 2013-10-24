@@ -1,5 +1,4 @@
-Tubercularia atra Pass. SPECIES
-=======
+# Tubercularia atra Pass. SPECIES
 
 #### Status
 ACCEPTED

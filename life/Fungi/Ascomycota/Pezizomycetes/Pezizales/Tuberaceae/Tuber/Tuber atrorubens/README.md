@@ -1,5 +1,4 @@
-Tuber atrorubens (Wallr.) Tul. {?} SPECIES
-=======
+# Tuber atrorubens (Wallr.) Tul. {?} SPECIES
 
 #### Status
 ACCEPTED

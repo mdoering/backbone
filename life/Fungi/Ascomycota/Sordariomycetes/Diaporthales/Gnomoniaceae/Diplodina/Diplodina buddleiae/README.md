@@ -1,5 +1,4 @@
-Diplodina buddleiae C. Moreau SPECIES
-=======
+# Diplodina buddleiae C. Moreau SPECIES
 
 #### Status
 ACCEPTED

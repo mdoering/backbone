@@ -1,5 +1,4 @@
-Agaricus stellatosporus Peck SPECIES
-=======
+# Agaricus stellatosporus Peck SPECIES
 
 #### Status
 ACCEPTED

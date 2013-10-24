@@ -1,5 +1,4 @@
-Meristaulax W.A.S. Sarjeant, 1984 GENUS
-=======
+# Meristaulax W.A.S. Sarjeant, 1984 GENUS
 
 #### Status
 ACCEPTED

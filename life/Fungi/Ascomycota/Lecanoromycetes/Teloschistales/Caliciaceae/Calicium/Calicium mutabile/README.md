@@ -1,5 +1,4 @@
-Calicium mutabile Ach. SPECIES
-=======
+# Calicium mutabile Ach. SPECIES
 
 #### Status
 ACCEPTED

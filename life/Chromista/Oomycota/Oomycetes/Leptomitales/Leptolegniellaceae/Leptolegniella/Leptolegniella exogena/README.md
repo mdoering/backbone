@@ -1,5 +1,4 @@
-Leptolegniella exogena Karling, 1987 SPECIES
-=======
+# Leptolegniella exogena Karling, 1987 SPECIES
 
 #### Status
 ACCEPTED

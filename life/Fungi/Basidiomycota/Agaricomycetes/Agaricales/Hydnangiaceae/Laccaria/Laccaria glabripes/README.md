@@ -1,5 +1,4 @@
-Laccaria glabripes McNabb, 1972 SPECIES
-=======
+# Laccaria glabripes McNabb, 1972 SPECIES
 
 #### Status
 ACCEPTED

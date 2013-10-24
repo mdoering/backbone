@@ -1,5 +1,4 @@
-Bulgaria prunicola Syd. {?} SPECIES
-=======
+# Bulgaria prunicola Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xylochoeras GENUS
-=======
+# Xylochoeras GENUS
 
 #### Status
 ACCEPTED

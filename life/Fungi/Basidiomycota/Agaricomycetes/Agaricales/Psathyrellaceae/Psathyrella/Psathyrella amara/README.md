@@ -1,5 +1,4 @@
-Psathyrella amara J.E. Ward & J.C. McDonald SPECIES
-=======
+# Psathyrella amara J.E. Ward & J.C. McDonald SPECIES
 
 #### Status
 ACCEPTED

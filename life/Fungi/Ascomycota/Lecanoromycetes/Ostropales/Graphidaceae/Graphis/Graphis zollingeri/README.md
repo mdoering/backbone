@@ -1,5 +1,4 @@
-Graphis zollingeri SPECIES
-=======
+# Graphis zollingeri SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella thalictri (Ellis & Everh.) Lindau SPECIES
-=======
+# Mycosphaerella thalictri (Ellis & Everh.) Lindau SPECIES
 
 #### Status
 ACCEPTED

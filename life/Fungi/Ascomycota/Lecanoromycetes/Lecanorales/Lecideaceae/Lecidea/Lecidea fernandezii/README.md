@@ -1,5 +1,4 @@
-Lecidea fernandezii Cromb. SPECIES
-=======
+# Lecidea fernandezii Cromb. SPECIES
 
 #### Status
 ACCEPTED

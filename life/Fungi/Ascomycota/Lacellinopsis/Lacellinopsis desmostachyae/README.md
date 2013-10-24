@@ -1,5 +1,4 @@
-Lacellinopsis desmostachyae R.Y. Roy, R.S. Dwivedi SPECIES
-=======
+# Lacellinopsis desmostachyae R.Y. Roy, R.S. Dwivedi SPECIES
 
 #### Status
 ACCEPTED

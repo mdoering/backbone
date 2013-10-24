@@ -1,5 +1,4 @@
-Nectria asakawaensis Ts. Watan. SPECIES
-=======
+# Nectria asakawaensis Ts. Watan. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peniophora aurantica (Bres.) Höhn. & Litsch., 1960 SPECIES
-=======
+# Peniophora aurantica (Bres.) Höhn. & Litsch., 1960 SPECIES
 
 #### Status
 ACCEPTED

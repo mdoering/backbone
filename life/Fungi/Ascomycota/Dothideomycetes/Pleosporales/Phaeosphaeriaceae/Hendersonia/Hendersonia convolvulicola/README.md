@@ -1,5 +1,4 @@
-Hendersonia convolvulicola Koshk. & Frolov SPECIES
-=======
+# Hendersonia convolvulicola Koshk. & Frolov SPECIES
 
 #### Status
 ACCEPTED

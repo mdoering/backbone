@@ -1,5 +1,4 @@
-Polyporus croceoleucus Pat. SPECIES
-=======
+# Polyporus croceoleucus Pat. SPECIES
 
 #### Status
 ACCEPTED

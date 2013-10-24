@@ -1,5 +1,4 @@
-Hygrophorus rubropunctus Peck SPECIES
-=======
+# Hygrophorus rubropunctus Peck SPECIES
 
 #### Status
 ACCEPTED

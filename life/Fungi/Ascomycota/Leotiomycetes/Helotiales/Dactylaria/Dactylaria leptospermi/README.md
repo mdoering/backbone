@@ -1,5 +1,4 @@
-Dactylaria leptospermi J.A. Cooper, 2005 SPECIES
-=======
+# Dactylaria leptospermi J.A. Cooper, 2005 SPECIES
 
 #### Status
 ACCEPTED

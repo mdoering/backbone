@@ -1,5 +1,4 @@
-Stagonospora mali Delacr. SPECIES
-=======
+# Stagonospora mali Delacr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia thesii-decurrentis Dietel SPECIES
-=======
+# Puccinia thesii-decurrentis Dietel SPECIES
 
 #### Status
 ACCEPTED

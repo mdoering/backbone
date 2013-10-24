@@ -1,5 +1,4 @@
-Thrombium corticola SPECIES
-=======
+# Thrombium corticola SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta panici-miliacei Savul. & Sandu SPECIES
-=======
+# Phyllosticta panici-miliacei Savul. & Sandu SPECIES
 
 #### Status
 ACCEPTED

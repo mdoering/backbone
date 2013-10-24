@@ -1,5 +1,4 @@
-Hypholoma subfusisporum (F.H. Møller) M.M. Moser SPECIES
-=======
+# Hypholoma subfusisporum (F.H. Møller) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

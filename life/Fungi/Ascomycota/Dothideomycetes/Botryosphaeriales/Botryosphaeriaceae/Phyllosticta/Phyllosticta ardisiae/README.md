@@ -1,5 +1,4 @@
-Phyllosticta ardisiae Trinchieri SPECIES
-=======
+# Phyllosticta ardisiae Trinchieri SPECIES
 
 #### Status
 ACCEPTED

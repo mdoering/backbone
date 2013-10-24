@@ -1,5 +1,4 @@
-Aspicilia recessa Motyka SPECIES
-=======
+# Aspicilia recessa Motyka SPECIES
 
 #### Status
 ACCEPTED

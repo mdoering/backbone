@@ -1,5 +1,4 @@
-Syncesia rhizomorpha Tehler SPECIES
-=======
+# Syncesia rhizomorpha Tehler SPECIES
 
 #### Status
 ACCEPTED

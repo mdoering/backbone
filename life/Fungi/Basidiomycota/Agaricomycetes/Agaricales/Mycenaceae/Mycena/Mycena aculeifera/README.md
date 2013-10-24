@@ -1,5 +1,4 @@
-Mycena aculeifera Petch SPECIES
-=======
+# Mycena aculeifera Petch SPECIES
 
 #### Status
 ACCEPTED

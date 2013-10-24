@@ -1,5 +1,4 @@
-Rhynchosphaeria fagarae Doidge SPECIES
-=======
+# Rhynchosphaeria fagarae Doidge SPECIES
 
 #### Status
 ACCEPTED

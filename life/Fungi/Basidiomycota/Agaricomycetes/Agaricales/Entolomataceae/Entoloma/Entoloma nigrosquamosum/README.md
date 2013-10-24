@@ -1,5 +1,4 @@
-Entoloma nigrosquamosum Hesler SPECIES
-=======
+# Entoloma nigrosquamosum Hesler SPECIES
 
 #### Status
 ACCEPTED

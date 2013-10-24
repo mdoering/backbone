@@ -1,5 +1,4 @@
-Endocarpon robustum P. M. McCarthy SPECIES
-=======
+# Endocarpon robustum P. M. McCarthy SPECIES
 
 #### Status
 ACCEPTED

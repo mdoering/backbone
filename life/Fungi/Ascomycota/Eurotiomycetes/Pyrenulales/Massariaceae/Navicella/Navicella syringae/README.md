@@ -1,5 +1,4 @@
-Navicella syringae (Fabre) Kuntze SPECIES
-=======
+# Navicella syringae (Fabre) Kuntze SPECIES
 
 #### Status
 ACCEPTED

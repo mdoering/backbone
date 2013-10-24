@@ -1,8 +1,7 @@
-Phoma eryngiicola Brunaud SPECIES
-=======
+# Phoma eryngicola Brunaud SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phoma eryngiicola Brunaud
+Phoma eryngicola Brunaud
 
 ### Remarks
 null

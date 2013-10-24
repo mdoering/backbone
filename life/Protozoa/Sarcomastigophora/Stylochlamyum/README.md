@@ -1,5 +1,4 @@
-Stylochlamyum Haeckel, 1887 GENUS
-=======
+# Stylochlamyum Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

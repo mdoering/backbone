@@ -1,5 +1,4 @@
-Ascochyta grabowskiae Tassi SPECIES
-=======
+# Ascochyta grabowskiae Tassi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acineta corophii Collin, 1912 SPECIES
-=======
+# Acineta corophii Collin, 1912 SPECIES
 
 #### Status
 ACCEPTED

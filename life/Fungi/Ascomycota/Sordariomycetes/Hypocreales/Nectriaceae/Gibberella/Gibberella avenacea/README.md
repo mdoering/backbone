@@ -1,17 +1,16 @@
-Fusarium avenaceum var. avenaceum VARIETY
-=======
+# Gibberella avenacea R.J. Cook, 1967 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Phytopathology 57: 735 (1967)
 
 #### Original name
-null
+Gibberella avenacea R.J. Cook, 1967
 
 ### Remarks
 null

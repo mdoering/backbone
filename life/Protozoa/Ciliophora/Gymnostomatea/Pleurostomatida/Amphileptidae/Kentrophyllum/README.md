@@ -1,5 +1,4 @@
-Kentrophyllum Petz, Song & Wilbert, 1995 GENUS
-=======
+# Kentrophyllum Petz, Song & Wilbert, 1995 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaenothecomyces albidae Cif. & Tomas. SPECIES
-=======
+# Chaenothecomyces albidae Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

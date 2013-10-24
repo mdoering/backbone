@@ -1,5 +1,4 @@
-Setosporella Mustafa & Abdul-Wahid GENUS
-=======
+# Setosporella Mustafa & Abdul-Wahid GENUS
 
 #### Status
 ACCEPTED

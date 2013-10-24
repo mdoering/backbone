@@ -1,5 +1,4 @@
-Tubercularia insignis Cooke & Harkn. SPECIES
-=======
+# Tubercularia insignis Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

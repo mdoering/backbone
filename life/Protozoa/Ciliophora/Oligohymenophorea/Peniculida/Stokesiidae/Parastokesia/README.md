@@ -1,5 +1,4 @@
-Parastokesia Jankowski, 1967 GENUS
-=======
+# Parastokesia Jankowski, 1967 GENUS
 
 #### Status
 ACCEPTED

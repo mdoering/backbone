@@ -1,5 +1,4 @@
-Plectostaffella Reitlinger, 1971 GENUS
-=======
+# Plectostaffella Reitlinger, 1971 GENUS
 
 #### Status
 ACCEPTED

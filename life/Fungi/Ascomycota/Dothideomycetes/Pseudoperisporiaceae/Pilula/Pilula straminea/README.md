@@ -1,5 +1,4 @@
-Pilula straminea Massee SPECIES
-=======
+# Pilula straminea Massee SPECIES
 
 #### Status
 ACCEPTED

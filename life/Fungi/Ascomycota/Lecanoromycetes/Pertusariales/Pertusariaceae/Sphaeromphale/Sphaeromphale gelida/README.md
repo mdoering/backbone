@@ -1,5 +1,4 @@
-Sphaeromphale gelida Trevis. SPECIES
-=======
+# Sphaeromphale gelida Trevis. SPECIES
 
 #### Status
 ACCEPTED

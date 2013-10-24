@@ -1,5 +1,4 @@
-Boletus romagnesianus Hlavácek SPECIES
-=======
+# Boletus romagnesianus Hlavácek SPECIES
 
 #### Status
 ACCEPTED

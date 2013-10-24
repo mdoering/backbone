@@ -1,5 +1,4 @@
-Septoria corni-controversae Sawada SPECIES
-=======
+# Septoria corni-controversae Sawada SPECIES
 
 #### Status
 ACCEPTED

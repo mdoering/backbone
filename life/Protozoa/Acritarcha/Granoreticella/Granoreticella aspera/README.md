@@ -1,5 +1,4 @@
-Granoreticella aspera Jiabo, 1978 SPECIES
-=======
+# Granoreticella aspera Jiabo, 1978 SPECIES
 
 #### Status
 ACCEPTED

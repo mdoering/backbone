@@ -1,5 +1,4 @@
-Agaricus jejunus Fr. SPECIES
-=======
+# Agaricus jejunus Fr. SPECIES
 
 #### Status
 ACCEPTED

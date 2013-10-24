@@ -1,5 +1,4 @@
-Stomiopeltis leguminosae Bat. & H. Maia SPECIES
-=======
+# Stomiopeltis leguminosae Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buellia natalensis Vain. SPECIES
-=======
+# Buellia natalensis Vain. SPECIES
 
 #### Status
 ACCEPTED

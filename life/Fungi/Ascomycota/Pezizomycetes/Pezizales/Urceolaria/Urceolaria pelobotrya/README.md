@@ -1,5 +1,4 @@
-Urceolaria pelobotrya SPECIES
-=======
+# Urceolaria pelobotrya SPECIES
 
 #### Status
 ACCEPTED

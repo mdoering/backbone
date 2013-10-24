@@ -1,5 +1,4 @@
-Melaspilea symplecta Stirt. SPECIES
-=======
+# Melaspilea symplecta Stirt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella piperis Sawada ex Aptroot, 2006 SPECIES
-=======
+# Mycosphaerella piperis Sawada ex Aptroot, 2006 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Usnea maculata Stirt. SPECIES
-=======
+# Usnea maculata Stirt. SPECIES
 
 #### Status
 ACCEPTED

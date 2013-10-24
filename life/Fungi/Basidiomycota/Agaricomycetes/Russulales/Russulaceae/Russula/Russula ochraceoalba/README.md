@@ -1,5 +1,4 @@
-Russula ochraceoalba Britzelm. SPECIES
-=======
+# Russula ochraceoalba Britzelm. SPECIES
 
 #### Status
 ACCEPTED

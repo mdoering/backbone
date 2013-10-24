@@ -1,14 +1,13 @@
-Sporocadus glandigena (Bubák & Gonz. Frag.) M. Morelet SPECIES
-=======
+# Seimatosporium glandigenum (Bubák & Gonz. Frag.) B. Sutton, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Pap. 138: 112 (1975)
 
 #### Original name
 Coryneum glandigenum Bubák & Gonz. Frag., 1915

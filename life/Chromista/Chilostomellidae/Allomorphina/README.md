@@ -1,5 +1,4 @@
-Allomorphina Reuss, 1849 GENUS
-=======
+# Allomorphina Reuss, 1849 GENUS
 
 #### Status
 ACCEPTED

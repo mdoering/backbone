@@ -1,5 +1,4 @@
-Endocoenobium Ingold GENUS
-=======
+# Endocoenobium Ingold GENUS
 
 #### Status
 ACCEPTED

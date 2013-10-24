@@ -1,5 +1,4 @@
-Pertusaria basaltica Zahlbr. SPECIES
-=======
+# Pertusaria basaltica Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

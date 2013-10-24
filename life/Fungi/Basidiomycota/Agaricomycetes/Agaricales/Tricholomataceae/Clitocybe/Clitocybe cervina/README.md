@@ -1,5 +1,4 @@
-Clitocybe cervina (Hoffm.) Sacc. SPECIES
-=======
+# Clitocybe cervina (Hoffm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

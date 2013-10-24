@@ -1,5 +1,4 @@
-Geinitzia Ozawa, 1927 GENUS
-=======
+# Geinitzia Ozawa, 1927 GENUS
 
 #### Status
 ACCEPTED

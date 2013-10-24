@@ -1,5 +1,4 @@
-Verrucaria submicrospora Nyl. SPECIES
-=======
+# Verrucaria submicrospora Nyl. SPECIES
 
 #### Status
 ACCEPTED

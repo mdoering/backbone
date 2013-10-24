@@ -1,5 +1,4 @@
-Erimophrya sylvatica Foissner, Berger, Xu & Zechmeister-Boltenstern, 2005 SPECIES
-=======
+# Erimophrya sylvatica Foissner, Berger, Xu & Zechmeister-Boltenstern, 2005 SPECIES
 
 #### Status
 ACCEPTED

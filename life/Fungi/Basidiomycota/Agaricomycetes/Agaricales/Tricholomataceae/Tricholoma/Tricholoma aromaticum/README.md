@@ -1,5 +1,4 @@
-Tricholoma aromaticum (Murrill) Sacc. & Trotter SPECIES
-=======
+# Tricholoma aromaticum (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

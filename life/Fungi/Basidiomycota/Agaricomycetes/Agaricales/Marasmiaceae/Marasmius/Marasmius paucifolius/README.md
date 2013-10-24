@@ -1,5 +1,4 @@
-Marasmius paucifolius Murrill SPECIES
-=======
+# Marasmius paucifolius Murrill SPECIES
 
 #### Status
 ACCEPTED

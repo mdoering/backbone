@@ -1,5 +1,4 @@
-Coremium cinereoalbum (Bonord.) Sacc. SPECIES
-=======
+# Coremium cinereoalbum (Bonord.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alternaria calycipyricola R.G. Roberts SPECIES
-=======
+# Alternaria calycipyricola R.G. Roberts SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Sphaeropsis obscurans (Ellis & Everh.) Kuntze, 1898 SPECIES
-=======
+# Phomopsis obscurans (Ellis & Everh.) B. Sutton, 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3(2): (1898)
+Trans. Br. mycol. Soc. 48: 615 (1965)
 
 #### Original name
 Phoma obscurans Ellis & Everh., 1894

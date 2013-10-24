@@ -1,5 +1,4 @@
-Trametes turpis Corner SPECIES
-=======
+# Trametes turpis Corner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caeoma pavoniae Dietel SPECIES
-=======
+# Caeoma pavoniae Dietel SPECIES
 
 #### Status
 ACCEPTED

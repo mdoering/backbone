@@ -1,5 +1,4 @@
-Tokophrya sphaerifera SPECIES
-=======
+# Tokophrya sphaerifera SPECIES
 
 #### Status
 ACCEPTED

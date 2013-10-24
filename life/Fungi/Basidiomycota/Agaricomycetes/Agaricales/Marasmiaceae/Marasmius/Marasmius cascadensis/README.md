@@ -1,5 +1,4 @@
-Marasmius cascadensis Garrido SPECIES
-=======
+# Marasmius cascadensis Garrido SPECIES
 
 #### Status
 ACCEPTED

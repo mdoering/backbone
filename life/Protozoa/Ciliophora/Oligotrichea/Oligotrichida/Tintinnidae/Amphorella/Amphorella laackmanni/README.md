@@ -1,5 +1,4 @@
-Amphorella laackmanni Jörgensen, 1924 SPECIES
-=======
+# Amphorella laackmanni Jörgensen, 1924 SPECIES
 
 #### Status
 ACCEPTED

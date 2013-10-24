@@ -1,5 +1,4 @@
-Bacidia semiusta (Stirt.) Zahlbr. SPECIES
-=======
+# Bacidia semiusta (Stirt.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

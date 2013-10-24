@@ -1,5 +1,4 @@
-Bovistella nigrica Lloyd SPECIES
-=======
+# Bovistella nigrica Lloyd SPECIES
 
 #### Status
 ACCEPTED

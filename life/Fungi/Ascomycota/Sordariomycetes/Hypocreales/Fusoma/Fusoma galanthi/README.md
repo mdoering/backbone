@@ -1,5 +1,4 @@
-Fusoma galanthi Oudem. SPECIES
-=======
+# Fusoma galanthi Oudem. SPECIES
 
 #### Status
 ACCEPTED

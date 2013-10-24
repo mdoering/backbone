@@ -1,17 +1,16 @@
-Peyronellaea pinodella (L.K. Jones) Aveskamp, Gruyter & Verkley, 2010 SPECIES
-=======
+# Phoma pinodella (L.K. Jones) Morgan-Jones & K.B. Burch, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 29: 485 (1987)
 
 #### Original name
-null
+Ascochyta pinodella L.K. Jones, 1927
 
 ### Remarks
 null

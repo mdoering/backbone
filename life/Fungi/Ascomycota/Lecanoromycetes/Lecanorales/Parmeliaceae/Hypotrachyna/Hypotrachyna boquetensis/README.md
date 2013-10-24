@@ -1,17 +1,16 @@
-Parmelia boquetensis Hale SPECIES
-=======
+# Hypotrachyna boquetensis (Hale) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Smithson. Contr. bot. 25: 25 (1975)
 
 #### Original name
-null
+Parmelia boquetensis Hale
 
 ### Remarks
 null

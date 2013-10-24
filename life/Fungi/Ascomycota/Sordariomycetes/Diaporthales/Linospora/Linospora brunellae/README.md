@@ -1,5 +1,4 @@
-Linospora brunellae Ellis & Everh. SPECIES
-=======
+# Linospora brunellae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

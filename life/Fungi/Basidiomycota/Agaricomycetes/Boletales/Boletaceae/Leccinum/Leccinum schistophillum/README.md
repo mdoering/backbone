@@ -1,5 +1,4 @@
-Leccinum schistophillum Bon SPECIES
-=======
+# Leccinum schistophillum Bon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea chalybeiodes (Malme) SPECIES
-=======
+# Lecidea chalybeiodes (Malme) SPECIES
 
 #### Status
 ACCEPTED

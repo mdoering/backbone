@@ -1,5 +1,4 @@
-Toninia hercegovinica Zahlbr. SPECIES
-=======
+# Toninia hercegovinica Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

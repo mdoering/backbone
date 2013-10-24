@@ -1,5 +1,4 @@
-Uromyces aegopogonis Dietel & Holw. SPECIES
-=======
+# Uromyces aegopogonis Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

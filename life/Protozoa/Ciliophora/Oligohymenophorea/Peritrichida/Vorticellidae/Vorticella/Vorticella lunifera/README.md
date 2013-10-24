@@ -1,5 +1,4 @@
-Vorticella lunifera Müller, 1786 SPECIES
-=======
+# Vorticella lunifera Müller, 1786 SPECIES
 
 #### Status
 ACCEPTED

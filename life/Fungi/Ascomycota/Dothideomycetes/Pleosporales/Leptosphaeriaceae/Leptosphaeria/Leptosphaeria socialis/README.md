@@ -1,5 +1,4 @@
-Leptosphaeria socialis Berl. SPECIES
-=======
+# Leptosphaeria socialis Berl. SPECIES
 
 #### Status
 ACCEPTED

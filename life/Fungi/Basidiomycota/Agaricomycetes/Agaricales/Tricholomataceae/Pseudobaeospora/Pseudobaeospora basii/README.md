@@ -1,5 +1,4 @@
-Pseudobaeospora basii Adamcík & Ripková SPECIES
-=======
+# Pseudobaeospora basii Adamcík & Ripková SPECIES
 
 #### Status
 ACCEPTED

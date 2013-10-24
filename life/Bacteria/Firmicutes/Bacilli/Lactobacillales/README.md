@@ -1,5 +1,4 @@
-Lactobacillales ORDER
-=======
+# Lactobacillales ORDER
 
 #### Status
 ACCEPTED

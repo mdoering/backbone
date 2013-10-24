@@ -1,17 +1,16 @@
-Lobaca Vezda GENUS
-=======
+# Fellhanera Vezda GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Folia geobot. phytotax. 21(2): 200 (1986)
 
 #### Original name
-Lobaca Vezda
+Fellhanera Vezda
 
 ### Remarks
 null

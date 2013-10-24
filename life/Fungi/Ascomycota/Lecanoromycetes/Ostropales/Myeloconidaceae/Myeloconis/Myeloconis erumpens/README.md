@@ -1,5 +1,4 @@
-Myeloconis erumpens P. M. McCarthy & Elix SPECIES
-=======
+# Myeloconis erumpens P. M. McCarthy & Elix SPECIES
 
 #### Status
 ACCEPTED

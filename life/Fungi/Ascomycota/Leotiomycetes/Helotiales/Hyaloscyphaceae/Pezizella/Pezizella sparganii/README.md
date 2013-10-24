@@ -1,5 +1,4 @@
-Pezizella sparganii Velen. SPECIES
-=======
+# Pezizella sparganii Velen. SPECIES
 
 #### Status
 ACCEPTED

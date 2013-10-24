@@ -1,5 +1,4 @@
-Clathrosphaerina ellisii Purohit, Panwar & N.L.Vyas SPECIES
-=======
+# Clathrosphaerina ellisii Purohit, Panwar & N.L.Vyas SPECIES
 
 #### Status
 ACCEPTED

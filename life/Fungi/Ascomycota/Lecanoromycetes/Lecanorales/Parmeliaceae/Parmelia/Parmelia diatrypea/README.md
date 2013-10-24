@@ -1,5 +1,4 @@
-Parmelia diatrypea (Ach.) Ach. SPECIES
-=======
+# Parmelia diatrypea (Ach.) Ach. SPECIES
 
 #### Status
 ACCEPTED

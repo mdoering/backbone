@@ -1,5 +1,4 @@
-Leptographium engelmannii R.W. Davidson SPECIES
-=======
+# Leptographium engelmannii R.W. Davidson SPECIES
 
 #### Status
 ACCEPTED

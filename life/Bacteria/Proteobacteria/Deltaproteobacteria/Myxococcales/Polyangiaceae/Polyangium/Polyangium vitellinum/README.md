@@ -1,17 +1,16 @@
-Polyangium vitellinum var. vitellinum Link VARIETY
-=======
+# Polyangium vitellinum Link, 1809 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Magazin Ges. naturf. Freunde, Berlin 3(1-2): (1809)
 
 #### Original name
-Polyangium vitellinum var. vitellinum Link
+Polyangium vitellinum Link, 1809 (Approved Lists, 1980)
 
 ### Remarks
 null

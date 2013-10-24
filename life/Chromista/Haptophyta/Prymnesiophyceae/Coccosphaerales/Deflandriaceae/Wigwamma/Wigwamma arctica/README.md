@@ -1,5 +1,4 @@
-Wigwamma arctica I. Manton, J. Sutherland & K. Oates SPECIES
-=======
+# Wigwamma arctica I. Manton, J. Sutherland & K. Oates SPECIES
 
 #### Status
 ACCEPTED

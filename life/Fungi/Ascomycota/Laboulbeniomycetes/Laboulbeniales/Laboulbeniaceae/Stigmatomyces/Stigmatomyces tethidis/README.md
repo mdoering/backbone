@@ -1,5 +1,4 @@
-Stigmatomyces tethidis W. Rossi SPECIES
-=======
+# Stigmatomyces tethidis W. Rossi SPECIES
 
 #### Status
 ACCEPTED

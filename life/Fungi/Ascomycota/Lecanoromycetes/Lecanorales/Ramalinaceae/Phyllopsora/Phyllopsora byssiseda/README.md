@@ -1,5 +1,4 @@
-Phyllopsora byssiseda (Nyl. ex Hue) Zahlbr. SPECIES
-=======
+# Phyllopsora byssiseda (Nyl. ex Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

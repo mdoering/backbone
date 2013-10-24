@@ -1,5 +1,4 @@
-Protochrysalidina Sinni, 2000 GENUS
-=======
+# Protochrysalidina Sinni, 2000 GENUS
 
 #### Status
 ACCEPTED

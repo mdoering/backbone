@@ -1,14 +1,13 @@
-Phaeotrema rockii Zahlbr. SPECIES
-=======
+# Thelotrema rockii (Zahlbr.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 11(1): 132 (1980)
 
 #### Original name
 Phaeotrema rockii Zahlbr.

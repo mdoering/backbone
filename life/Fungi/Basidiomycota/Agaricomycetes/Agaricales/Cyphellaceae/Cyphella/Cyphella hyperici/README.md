@@ -1,5 +1,4 @@
-Cyphella hyperici Velen. SPECIES
-=======
+# Cyphella hyperici Velen. SPECIES
 
 #### Status
 ACCEPTED

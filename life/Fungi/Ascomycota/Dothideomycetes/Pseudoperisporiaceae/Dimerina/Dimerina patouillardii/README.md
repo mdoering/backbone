@@ -1,5 +1,4 @@
-Dimerina patouillardii Theiss. SPECIES
-=======
+# Dimerina patouillardii Theiss. SPECIES
 
 #### Status
 ACCEPTED

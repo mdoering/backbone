@@ -1,5 +1,4 @@
-Koskinotextularia Eickhoff, 1968 GENUS
-=======
+# Koskinotextularia Eickhoff, 1968 GENUS
 
 #### Status
 ACCEPTED

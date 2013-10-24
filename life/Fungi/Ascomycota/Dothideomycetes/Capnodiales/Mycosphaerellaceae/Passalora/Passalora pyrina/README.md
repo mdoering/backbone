@@ -1,5 +1,4 @@
-Passalora pyrina (Lib.) Sacc. SPECIES
-=======
+# Passalora pyrina (Lib.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

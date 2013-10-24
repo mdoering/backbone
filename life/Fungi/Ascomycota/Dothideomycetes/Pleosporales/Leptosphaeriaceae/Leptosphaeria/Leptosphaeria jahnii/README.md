@@ -1,5 +1,4 @@
-Leptosphaeria jahnii Chardón SPECIES
-=======
+# Leptosphaeria jahnii Chardón SPECIES
 
 #### Status
 ACCEPTED

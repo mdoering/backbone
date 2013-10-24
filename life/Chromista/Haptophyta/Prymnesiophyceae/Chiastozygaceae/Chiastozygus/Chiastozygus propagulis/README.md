@@ -1,5 +1,4 @@
-Chiastozygus propagulis SPECIES
-=======
+# Chiastozygus propagulis SPECIES
 
 #### Status
 ACCEPTED

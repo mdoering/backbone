@@ -1,14 +1,13 @@
-Russula luteirosa (Bougher) T. Lebel, 2007 SPECIES
-=======
+# Macowanites luteiroseus Bougher, 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Lebel & Tonkin, Aust. Syst. Bot. 20(4): 378 (2007)
+Mycotaxon 63: 38 (1997)
 
 #### Original name
 Macowanites luteiroseus Bougher, 1997

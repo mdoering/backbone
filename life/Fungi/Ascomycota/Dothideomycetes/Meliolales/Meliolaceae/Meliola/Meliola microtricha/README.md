@@ -1,5 +1,4 @@
-Meliola microtricha Syd. & P. Syd. SPECIES
-=======
+# Meliola microtricha Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

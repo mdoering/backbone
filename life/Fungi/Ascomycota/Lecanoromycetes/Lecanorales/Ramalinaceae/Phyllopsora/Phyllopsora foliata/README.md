@@ -1,17 +1,16 @@
-Lecidea foliata var. foliata Stirt. VARIETY
-=======
+# Phyllopsora foliata (Stirt.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. & Proc. Roy. Soc. Victoria 17: 71 (1881)
+Biblthca Lichenol. 13: 171 (1980)
 
 #### Original name
-Lecidea foliata var. foliata Stirt.
+Lecidea foliata Stirt.
 
 ### Remarks
 null

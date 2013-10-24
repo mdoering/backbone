@@ -1,5 +1,4 @@
-Helminthosporium longirostratum Subram. SPECIES
-=======
+# Helminthosporium longirostratum Subram. SPECIES
 
 #### Status
 ACCEPTED

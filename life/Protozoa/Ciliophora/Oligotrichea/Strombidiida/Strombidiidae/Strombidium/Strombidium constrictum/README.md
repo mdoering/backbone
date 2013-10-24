@@ -1,5 +1,4 @@
-Strombidium constrictum Meunier, 1907 SPECIES
-=======
+# Strombidium constrictum Meunier, 1907 SPECIES
 
 #### Status
 ACCEPTED

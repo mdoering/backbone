@@ -1,5 +1,4 @@
-Calycomonas globosa Lohmann SPECIES
-=======
+# Calycomonas globosa Lohmann SPECIES
 
 #### Status
 ACCEPTED

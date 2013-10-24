@@ -1,5 +1,4 @@
-Loborhiza A.M. Hanson, 1944 GENUS
-=======
+# Loborhiza A.M. Hanson, 1944 GENUS
 
 #### Status
 ACCEPTED

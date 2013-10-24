@@ -1,5 +1,4 @@
-Pseudocercospora ixoricola (J.M. Yen) J.M. Yen SPECIES
-=======
+# Pseudocercospora ixoricola (J.M. Yen) J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypocrella engleriana Koord. SPECIES
-=======
+# Hypocrella engleriana Koord. SPECIES
 
 #### Status
 ACCEPTED

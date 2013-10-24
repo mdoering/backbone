@@ -1,5 +1,4 @@
-Lichen salazinus Bory SPECIES
-=======
+# Lichen salazinus Bory SPECIES
 
 #### Status
 ACCEPTED

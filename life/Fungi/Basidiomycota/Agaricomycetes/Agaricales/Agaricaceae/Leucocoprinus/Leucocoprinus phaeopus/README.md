@@ -1,5 +1,4 @@
-Leucocoprinus phaeopus (Rick) Raithelh. SPECIES
-=======
+# Leucocoprinus phaeopus (Rick) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

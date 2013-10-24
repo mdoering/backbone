@@ -1,5 +1,4 @@
-Buliminella carseyae Plummer SPECIES
-=======
+# Buliminella carseyae Plummer SPECIES
 
 #### Status
 ACCEPTED

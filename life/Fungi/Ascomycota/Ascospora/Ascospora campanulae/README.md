@@ -1,5 +1,4 @@
-Ascospora campanulae Lév. SPECIES
-=======
+# Ascospora campanulae Lév. SPECIES
 
 #### Status
 ACCEPTED

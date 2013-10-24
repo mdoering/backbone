@@ -1,5 +1,4 @@
-Didymosporium convolvuli-persici M. Bechet & N. Coman SPECIES
-=======
+# Didymosporium convolvuli-persici M. Bechet & N. Coman SPECIES
 
 #### Status
 ACCEPTED

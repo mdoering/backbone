@@ -1,5 +1,4 @@
-Stilbospora capensis Marincowitz, M.J. Wingf. & Crous SPECIES
-=======
+# Stilbospora capensis Marincowitz, M.J. Wingf. & Crous SPECIES
 
 #### Status
 ACCEPTED

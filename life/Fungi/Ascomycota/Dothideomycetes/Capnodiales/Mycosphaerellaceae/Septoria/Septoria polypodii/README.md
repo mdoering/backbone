@@ -1,5 +1,4 @@
-Septoria polypodii Grove SPECIES
-=======
+# Septoria polypodii Grove SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ustilaginoidella oedipigera Essed SPECIES
-=======
+# Ustilaginoidella oedipigera Essed SPECIES
 
 #### Status
 ACCEPTED

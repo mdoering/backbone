@@ -1,5 +1,4 @@
-Penicillium griseolum G. Sm., 1957 SPECIES
-=======
+# Penicillium griseolum G. Sm., 1957 SPECIES
 
 #### Status
 ACCEPTED

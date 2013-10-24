@@ -1,5 +1,4 @@
-Starbaeckiella bakeriana (Rehm) Syd. SPECIES
-=======
+# Starbaeckiella bakeriana (Rehm) Syd. SPECIES
 
 #### Status
 ACCEPTED

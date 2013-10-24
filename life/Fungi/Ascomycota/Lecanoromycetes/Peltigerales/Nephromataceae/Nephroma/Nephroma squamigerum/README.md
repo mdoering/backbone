@@ -1,5 +1,4 @@
-Nephroma squamigerum Inumaru SPECIES
-=======
+# Nephroma squamigerum Inumaru SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collostroma Petr. GENUS
-=======
+# Collostroma Petr. GENUS
 
 #### Status
 ACCEPTED

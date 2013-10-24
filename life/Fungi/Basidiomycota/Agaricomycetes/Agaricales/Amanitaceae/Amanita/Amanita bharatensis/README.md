@@ -1,5 +1,4 @@
-Amanita bharatensis Sathe & J.T. Daniel SPECIES
-=======
+# Amanita bharatensis Sathe & J.T. Daniel SPECIES
 
 #### Status
 ACCEPTED

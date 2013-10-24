@@ -1,5 +1,4 @@
-Hypocrea variabilis Curr. SPECIES
-=======
+# Hypocrea variabilis Curr. SPECIES
 
 #### Status
 ACCEPTED

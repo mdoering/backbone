@@ -1,5 +1,4 @@
-Tulostoma costatum B. Liu SPECIES
-=======
+# Tulostoma costatum B. Liu SPECIES
 
 #### Status
 ACCEPTED

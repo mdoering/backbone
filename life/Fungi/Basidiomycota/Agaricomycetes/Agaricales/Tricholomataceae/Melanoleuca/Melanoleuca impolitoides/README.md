@@ -1,5 +1,4 @@
-Melanoleuca impolitoides (Peck) Murrill SPECIES
-=======
+# Melanoleuca impolitoides (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

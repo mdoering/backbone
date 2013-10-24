@@ -1,5 +1,4 @@
-Torula indica De Kruyff SPECIES
-=======
+# Torula indica De Kruyff SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Crepidotus tirolensis Pilát SPECIES
-=======
+# Crepidotus tirolensis Pilát SPECIES
 
 #### Status
 ACCEPTED

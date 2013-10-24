@@ -1,17 +1,16 @@
-Diplodia cydoniae var. libera Schulzer & Sacc. VARIETY
-=======
+# Diplodia cydoniae Sacc., 1881 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Micromyc. Slavon. no. 32 (1884)
+Michelia 2(no. 7): 269 (1881)
 
 #### Original name
-Diplodia cydoniae var. libera Schulzer & Sacc.
+Diplodia cydoniae Sacc., 1881
 
 ### Remarks
 null

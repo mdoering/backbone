@@ -1,5 +1,4 @@
-Lichen icelandicus With. SPECIES
-=======
+# Lichen icelandicus With. SPECIES
 
 #### Status
 ACCEPTED

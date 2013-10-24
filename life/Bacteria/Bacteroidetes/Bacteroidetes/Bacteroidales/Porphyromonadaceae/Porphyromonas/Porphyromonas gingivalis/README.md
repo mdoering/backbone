@@ -1,8 +1,7 @@
-Bacteroides gingivalis Coykendall et al., 1980 SPECIES
-=======
+# Porphyromonas gingivalis (Coykendall et al., 1980) Shah & Collins, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

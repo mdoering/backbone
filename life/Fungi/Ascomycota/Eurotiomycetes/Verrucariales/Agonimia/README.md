@@ -1,17 +1,16 @@
-Agonimiella H. Harada GENUS
-=======
+# Agonimia Zahlbruckner, 1909 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Nova Hedwigia 57(3-4): 503 (1993)
+null
 
 #### Original name
-Agonimiella H. Harada
+null
 
 ### Remarks
 null

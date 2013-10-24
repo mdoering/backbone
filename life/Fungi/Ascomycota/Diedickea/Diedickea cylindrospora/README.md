@@ -1,5 +1,4 @@
-Diedickea cylindrospora Petr. & Cif., 1932 SPECIES
-=======
+# Diedickea cylindrospora Petr. & Cif., 1932 SPECIES
 
 #### Status
 ACCEPTED

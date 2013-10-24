@@ -1,14 +1,13 @@
-Fomes fici (Pat.) Sacc., 1899 SPECIES
-=======
+# Ganoderma fici Pat., 1892 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 14(1): 184 (1899)
+Expl. sci. Tunisie 4: 4 (1892)
 
 #### Original name
 Ganoderma fici Pat., 1892

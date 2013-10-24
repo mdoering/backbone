@@ -1,5 +1,4 @@
-Micromonospora stanfordense Goodwin, Kirby & Meyers, 2004 SPECIES
-=======
+# Micromonospora stanfordense Goodwin, Kirby & Meyers, 2004 SPECIES
 
 #### Status
 ACCEPTED

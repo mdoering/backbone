@@ -1,5 +1,4 @@
-Amandinea isabellina (Hue) Søchting & Øvstedal SPECIES
-=======
+# Amandinea isabellina (Hue) Søchting & Øvstedal SPECIES
 
 #### Status
 ACCEPTED

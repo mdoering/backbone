@@ -1,5 +1,4 @@
-Dictyosporites garciabarrigae (Hammen) Kalgutkar & Janson. SPECIES
-=======
+# Dictyosporites garciabarrigae (Hammen) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

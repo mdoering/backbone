@@ -1,5 +1,4 @@
-Limacium vitellum (Alb. & Schwein.) J. Schröt. SPECIES
-=======
+# Limacium vitellum (Alb. & Schwein.) J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

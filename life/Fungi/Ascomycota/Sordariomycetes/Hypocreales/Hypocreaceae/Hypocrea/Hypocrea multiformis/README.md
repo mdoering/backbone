@@ -1,5 +1,4 @@
-Hypocrea multiformis Berk. & Broome SPECIES
-=======
+# Hypocrea multiformis Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

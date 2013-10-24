@@ -1,5 +1,4 @@
-Cercospora tuberculella Davis SPECIES
-=======
+# Cercospora tuberculella Davis SPECIES
 
 #### Status
 ACCEPTED

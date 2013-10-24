@@ -1,5 +1,4 @@
-Cetraria siberica SPECIES
-=======
+# Cetraria siberica SPECIES
 
 #### Status
 ACCEPTED

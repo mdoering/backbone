@@ -1,14 +1,13 @@
-Lecania ralfsii (Salwey) A.L. Sm. SPECIES
-=======
+# Halecania ralfsii (Salwey) M. Mayrhofer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monogr. Brit. Lich. 1: 342 (1918)
+Herzogia 7(3-4): 399 (1987)
 
 #### Original name
 Lecidea ralfsii Salwey

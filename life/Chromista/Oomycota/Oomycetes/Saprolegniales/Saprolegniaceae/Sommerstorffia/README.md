@@ -1,5 +1,4 @@
-Sommerstorffia Arnautov GENUS
-=======
+# Sommerstorffia Arnautov GENUS
 
 #### Status
 ACCEPTED

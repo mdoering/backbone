@@ -1,5 +1,4 @@
-Foliotortus spinosus SPECIES
-=======
+# Foliotortus spinosus SPECIES
 
 #### Status
 ACCEPTED

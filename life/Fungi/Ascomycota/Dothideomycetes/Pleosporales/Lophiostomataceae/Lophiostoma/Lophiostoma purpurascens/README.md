@@ -1,5 +1,4 @@
-Lophiostoma purpurascens (K.D. Hyde & Aptroot) Aptroot & K.D. Hyde SPECIES
-=======
+# Lophiostoma purpurascens (K.D. Hyde & Aptroot) Aptroot & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

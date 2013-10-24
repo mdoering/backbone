@@ -1,5 +1,4 @@
-Ochrolechia californica f. californica FORM
-=======
+# Ochrolechia californica Verseghy SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ochrolechia californica f. californica
+Ochrolechia californica Verseghy
 
 ### Remarks
 null

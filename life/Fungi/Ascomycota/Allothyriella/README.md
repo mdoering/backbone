@@ -1,5 +1,4 @@
-Allothyriella Bat., Cif. & Nascim. GENUS
-=======
+# Allothyriella Bat., Cif. & Nascim. GENUS
 
 #### Status
 ACCEPTED

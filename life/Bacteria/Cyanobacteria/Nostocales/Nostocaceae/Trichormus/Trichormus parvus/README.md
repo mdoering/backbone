@@ -1,5 +1,4 @@
-Trichormus parvus (P. J. Philson) J. Komárek & K. Anagnostidis SPECIES
-=======
+# Trichormus parvus (P. J. Philson) J. Komárek & K. Anagnostidis SPECIES
 
 #### Status
 ACCEPTED

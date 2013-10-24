@@ -1,5 +1,4 @@
-Leptosphaeria matisiae Henn. SPECIES
-=======
+# Leptosphaeria matisiae Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amanita longipes Bas ex Tulloss & D.T. Jenkins SPECIES
-=======
+# Amanita longipes Bas ex Tulloss & D.T. Jenkins SPECIES
 
 #### Status
 ACCEPTED

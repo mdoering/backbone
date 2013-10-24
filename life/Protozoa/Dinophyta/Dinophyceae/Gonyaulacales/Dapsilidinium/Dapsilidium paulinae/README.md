@@ -1,5 +1,4 @@
-Dapsilidium paulinae (Valensi, 1953) Lentin & Williams, 1981 SPECIES
-=======
+# Dapsilidium paulinae (Valensi, 1953) Lentin & Williams, 1981 SPECIES
 
 #### Status
 DOUBTFUL

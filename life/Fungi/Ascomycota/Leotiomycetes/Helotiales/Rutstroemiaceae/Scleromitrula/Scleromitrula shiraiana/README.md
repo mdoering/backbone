@@ -1,14 +1,13 @@
-Scleroglossum shiraianum (Henn.) Hara, 1948 SPECIES
-=======
+# Scleromitrula shiraiana (Henn.) S. Imai, 1941 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. Coll. agric. , Hokkaido Imp. Univ. 45: 177 (1941)
 
 #### Original name
 Microglossum shiraianum Henn., 1902

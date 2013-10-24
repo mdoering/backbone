@@ -1,5 +1,4 @@
-Dictyotrichiella potentillae E. Müll. SPECIES
-=======
+# Dictyotrichiella potentillae E. Müll. SPECIES
 
 #### Status
 ACCEPTED

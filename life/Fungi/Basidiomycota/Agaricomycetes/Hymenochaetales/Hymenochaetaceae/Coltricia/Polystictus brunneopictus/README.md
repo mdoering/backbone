@@ -1,5 +1,4 @@
-Polystictus brunneopictus Berk. SPECIES
-=======
+# Polystictus brunneopictus Berk. SPECIES
 
 #### Status
 ACCEPTED

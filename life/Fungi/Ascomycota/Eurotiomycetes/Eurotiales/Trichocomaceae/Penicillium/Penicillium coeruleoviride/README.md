@@ -1,5 +1,4 @@
-Penicillium coeruleoviride G. Sm., 1965 SPECIES
-=======
+# Penicillium coeruleoviride G. Sm., 1965 SPECIES
 
 #### Status
 ACCEPTED

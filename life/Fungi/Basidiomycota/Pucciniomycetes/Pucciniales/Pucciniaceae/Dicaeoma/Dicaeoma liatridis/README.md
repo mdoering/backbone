@@ -1,5 +1,4 @@
-Dicaeoma liatridis (Ellis & H.W. Anderson) Arthur SPECIES
-=======
+# Dicaeoma liatridis (Ellis & H.W. Anderson) Arthur SPECIES
 
 #### Status
 ACCEPTED

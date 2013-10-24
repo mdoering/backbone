@@ -1,5 +1,4 @@
-Sphaeria cryptoderis Lév. SPECIES
-=======
+# Sphaeria cryptoderis Lév. SPECIES
 
 #### Status
 ACCEPTED

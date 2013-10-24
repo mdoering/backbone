@@ -1,5 +1,4 @@
-Naetrocymbe fraxini (A. Massal.) R. C. Harris SPECIES
-=======
+# Naetrocymbe fraxini (A. Massal.) R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Volutella festucae (Lib.) Sacc. SPECIES
-=======
+# Volutella festucae (Lib.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lamprospora insignispora (Boud.) Sacc. SPECIES
-=======
+# Lamprospora insignispora (Boud.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

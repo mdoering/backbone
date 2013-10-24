@@ -1,5 +1,4 @@
-Hyalinsphaeridia hyalina (Deflandre, 1941) Bernier & Courtinat, 1979 SPECIES
-=======
+# Hyalinsphaeridia hyalina (Deflandre, 1941) Bernier & Courtinat, 1979 SPECIES
 
 #### Status
 ACCEPTED

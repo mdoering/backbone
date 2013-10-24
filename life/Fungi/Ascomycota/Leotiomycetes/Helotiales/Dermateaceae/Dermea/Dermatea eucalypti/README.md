@@ -1,5 +1,4 @@
-Dermatea eucalypti Cooke & Harkn. SPECIES
-=======
+# Dermatea eucalypti Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

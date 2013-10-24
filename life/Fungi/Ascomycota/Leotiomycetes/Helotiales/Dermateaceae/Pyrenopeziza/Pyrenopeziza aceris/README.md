@@ -1,5 +1,4 @@
-Pyrenopeziza aceris Nannf. SPECIES
-=======
+# Pyrenopeziza aceris Nannf. SPECIES
 
 #### Status
 ACCEPTED

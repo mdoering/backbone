@@ -1,17 +1,16 @@
-Parmelia viridiflava Hale SPECIES
-=======
+# Parmotrema viridiflavum (Hale) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Phytologia 28(4): 339 (1974)
 
 #### Original name
-null
+Parmelia viridiflava Hale
 
 ### Remarks
 null

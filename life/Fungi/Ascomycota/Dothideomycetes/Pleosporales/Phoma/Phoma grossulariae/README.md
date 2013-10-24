@@ -1,5 +1,4 @@
-Phoma grossulariae Schulzer & Sacc., 1884 SPECIES
-=======
+# Phoma grossulariae Schulzer & Sacc., 1884 SPECIES
 
 #### Status
 ACCEPTED

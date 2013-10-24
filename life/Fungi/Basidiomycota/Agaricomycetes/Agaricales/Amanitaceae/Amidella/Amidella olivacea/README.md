@@ -1,5 +1,4 @@
-Amidella olivacea (Beeli) E.-J. Gilbert SPECIES
-=======
+# Amidella olivacea (Beeli) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

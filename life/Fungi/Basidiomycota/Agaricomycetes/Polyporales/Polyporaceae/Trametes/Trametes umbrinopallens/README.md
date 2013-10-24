@@ -1,5 +1,4 @@
-Trametes umbrinopallens Corner SPECIES
-=======
+# Trametes umbrinopallens Corner SPECIES
 
 #### Status
 ACCEPTED

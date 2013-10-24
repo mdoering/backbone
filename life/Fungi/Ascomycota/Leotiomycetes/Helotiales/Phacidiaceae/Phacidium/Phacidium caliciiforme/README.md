@@ -1,5 +1,4 @@
-Phacidium caliciiforme Fr. SPECIES
-=======
+# Phacidium caliciiforme Fr. SPECIES
 
 #### Status
 ACCEPTED

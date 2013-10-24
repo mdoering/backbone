@@ -1,5 +1,4 @@
-Collybia collybiiformis (Murrill) Singer SPECIES
-=======
+# Collybia collybiiformis (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

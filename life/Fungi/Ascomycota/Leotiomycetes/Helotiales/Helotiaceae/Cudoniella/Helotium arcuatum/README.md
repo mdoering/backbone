@@ -1,5 +1,4 @@
-Helotium arcuatum Velen. SPECIES
-=======
+# Helotium arcuatum Velen. SPECIES
 
 #### Status
 ACCEPTED

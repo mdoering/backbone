@@ -1,5 +1,4 @@
-Rimula Velenovský, 1934 GENUS
-=======
+# Rimula Velenovský, 1934 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Valsa binoculata Ellis SPECIES
-=======
+# Valsa binoculata Ellis SPECIES
 
 #### Status
 ACCEPTED

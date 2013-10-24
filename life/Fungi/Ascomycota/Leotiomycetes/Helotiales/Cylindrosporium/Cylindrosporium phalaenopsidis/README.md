@@ -1,5 +1,4 @@
-Cylindrosporium phalaenopsidis Sawada SPECIES
-=======
+# Cylindrosporium phalaenopsidis Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhodophyllus subdepluens (Fitzp.) S. Ito SPECIES
-=======
+# Rhodophyllus subdepluens (Fitzp.) S. Ito SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Septoria rubra var. rubra VARIETY
-=======
+# Septoria rubra SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 2 19: 343 (1843)
+null
 
 #### Original name
-Septoria rubra var. rubra
+null
 
 ### Remarks
 null

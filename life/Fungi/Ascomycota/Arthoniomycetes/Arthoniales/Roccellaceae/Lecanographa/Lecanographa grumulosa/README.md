@@ -1,17 +1,16 @@
-Lecanactis monstrosa subsp. monstrosa SUBSPECIES
-=======
+# Lecanographa grumulosa (Dufour) Egea & Torrente SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Biblthca Lichenol. 54: 134 (1994)
 
 #### Original name
-Lecanactis monstrosa subsp. monstrosa
+Opegrapha grumulosa Dufour
 
 ### Remarks
 null

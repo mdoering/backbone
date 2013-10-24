@@ -1,5 +1,4 @@
-Sphaerocista merizophila Preuss SPECIES
-=======
+# Sphaerocista merizophila Preuss SPECIES
 
 #### Status
 ACCEPTED

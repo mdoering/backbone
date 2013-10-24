@@ -1,5 +1,4 @@
-Cortinarius pardinus Reumaux SPECIES
-=======
+# Cortinarius pardinus Reumaux SPECIES
 
 #### Status
 ACCEPTED

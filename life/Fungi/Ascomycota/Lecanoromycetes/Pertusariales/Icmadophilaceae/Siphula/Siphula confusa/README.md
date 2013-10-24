@@ -1,5 +1,4 @@
-Siphula confusa R. Sant. SPECIES
-=======
+# Siphula confusa R. Sant. SPECIES
 
 #### Status
 ACCEPTED

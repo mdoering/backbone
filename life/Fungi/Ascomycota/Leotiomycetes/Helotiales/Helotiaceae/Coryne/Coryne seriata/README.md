@@ -1,5 +1,4 @@
-Coryne seriata Pers. SPECIES
-=======
+# Coryne seriata Pers. SPECIES
 
 #### Status
 ACCEPTED

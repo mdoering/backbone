@@ -1,5 +1,4 @@
-Lecidea septentrionalis Th. Fr. SPECIES
-=======
+# Lecidea septentrionalis Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fomes obesus (Pat.) Sacc. & Trotter SPECIES
-=======
+# Fomes obesus (Pat.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

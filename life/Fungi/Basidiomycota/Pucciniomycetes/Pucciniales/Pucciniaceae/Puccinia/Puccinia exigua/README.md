@@ -1,5 +1,4 @@
-Puccinia exigua Dietel SPECIES
-=======
+# Puccinia exigua Dietel SPECIES
 
 #### Status
 ACCEPTED

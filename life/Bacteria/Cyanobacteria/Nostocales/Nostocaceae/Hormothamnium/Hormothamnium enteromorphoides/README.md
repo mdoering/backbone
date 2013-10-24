@@ -1,5 +1,4 @@
-Hormothamnium enteromorphoides Grunow SPECIES
-=======
+# Hormothamnium enteromorphoides Grunow SPECIES
 
 #### Status
 ACCEPTED

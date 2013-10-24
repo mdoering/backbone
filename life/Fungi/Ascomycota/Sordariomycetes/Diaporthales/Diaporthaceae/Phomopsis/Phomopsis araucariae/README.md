@@ -1,5 +1,4 @@
-Phomopsis araucariae Grove, 1935 SPECIES
-=======
+# Phomopsis araucariae Grove, 1935 SPECIES
 
 #### Status
 ACCEPTED

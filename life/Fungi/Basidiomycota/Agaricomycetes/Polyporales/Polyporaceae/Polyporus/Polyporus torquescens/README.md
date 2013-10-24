@@ -1,5 +1,4 @@
-Polyporus torquescens M. Sass & Bres. SPECIES
-=======
+# Polyporus torquescens M. Sass & Bres. SPECIES
 
 #### Status
 ACCEPTED

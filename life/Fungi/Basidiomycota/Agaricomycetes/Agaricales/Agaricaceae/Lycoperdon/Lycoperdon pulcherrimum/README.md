@@ -1,5 +1,4 @@
-Lycoperdon pulcherrimum Berk. & M.A. Curtis SPECIES
-=======
+# Lycoperdon pulcherrimum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

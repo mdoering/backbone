@@ -1,5 +1,4 @@
-Dendrosarcus tiliae (G.H. Otth) Kuntze SPECIES
-=======
+# Dendrosarcus tiliae (G.H. Otth) Kuntze SPECIES
 
 #### Status
 ACCEPTED

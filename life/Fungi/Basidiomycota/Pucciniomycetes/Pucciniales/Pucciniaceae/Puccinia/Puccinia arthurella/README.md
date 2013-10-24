@@ -1,5 +1,4 @@
-Puccinia arthurella Trotter SPECIES
-=======
+# Puccinia arthurella Trotter SPECIES
 
 #### Status
 ACCEPTED

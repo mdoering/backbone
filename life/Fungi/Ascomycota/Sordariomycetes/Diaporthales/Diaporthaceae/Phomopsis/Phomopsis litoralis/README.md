@@ -1,5 +1,4 @@
-Phomopsis litoralis Petr., 1931 SPECIES
-=======
+# Phomopsis litoralis Petr., 1931 SPECIES
 
 #### Status
 ACCEPTED

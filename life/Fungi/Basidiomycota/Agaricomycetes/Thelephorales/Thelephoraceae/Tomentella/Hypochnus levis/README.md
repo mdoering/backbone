@@ -1,5 +1,4 @@
-Hypochnus levis Bonord. SPECIES
-=======
+# Hypochnus levis Bonord. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calicium constrictum Tibell SPECIES
-=======
+# Calicium constrictum Tibell SPECIES
 
 #### Status
 ACCEPTED

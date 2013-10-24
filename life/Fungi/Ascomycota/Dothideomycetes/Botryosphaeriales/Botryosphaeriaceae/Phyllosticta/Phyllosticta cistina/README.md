@@ -1,5 +1,4 @@
-Phyllosticta cistina Thüm. SPECIES
-=======
+# Phyllosticta cistina Thüm. SPECIES
 
 #### Status
 ACCEPTED

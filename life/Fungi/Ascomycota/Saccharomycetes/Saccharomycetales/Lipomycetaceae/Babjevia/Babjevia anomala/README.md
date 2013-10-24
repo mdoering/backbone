@@ -1,14 +1,13 @@
-Dipodascopsis anomala (Babeva & Gorin) Kurtzman, Albertyn & Basehoar-Powers, 2007 SPECIES
-=======
+# Babjevia anomala (Babeva & Gorin) Van der Walt & M.T. Sm., 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-FEMS Yeast Res. 7(6): 1032 (2007)
+Antonie van Leeuwenhoek 67(2): 178 (1995)
 
 #### Original name
 Lipomyces anomalus Babeva & Gorin, 1975

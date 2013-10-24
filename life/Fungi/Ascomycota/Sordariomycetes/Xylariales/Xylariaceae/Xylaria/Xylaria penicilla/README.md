@@ -1,5 +1,4 @@
-Xylaria penicilla Lloyd SPECIES
-=======
+# Xylaria penicilla Lloyd SPECIES
 
 #### Status
 ACCEPTED

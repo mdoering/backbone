@@ -1,5 +1,4 @@
-Stigmina maclurae (Thüm.) Pound & Clem. SPECIES
-=======
+# Stigmina maclurae (Thüm.) Pound & Clem. SPECIES
 
 #### Status
 ACCEPTED

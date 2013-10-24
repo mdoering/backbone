@@ -1,5 +1,4 @@
-Bombardia musae (Maire) C. Moreau SPECIES
-=======
+# Bombardia musae (Maire) C. Moreau SPECIES
 
 #### Status
 ACCEPTED

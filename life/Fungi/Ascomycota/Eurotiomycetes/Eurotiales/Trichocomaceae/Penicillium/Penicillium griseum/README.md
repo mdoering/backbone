@@ -1,5 +1,4 @@
-Penicillium griseum Bonord. SPECIES
-=======
+# Penicillium griseum Bonord. SPECIES
 
 #### Status
 ACCEPTED

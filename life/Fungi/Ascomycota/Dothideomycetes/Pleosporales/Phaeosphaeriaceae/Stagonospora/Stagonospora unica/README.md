@@ -1,5 +1,4 @@
-Stagonospora unica (Cooke) Sacc. SPECIES
-=======
+# Stagonospora unica (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

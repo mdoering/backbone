@@ -1,14 +1,13 @@
-Parmelia congensis J. Steiner SPECIES
-=======
+# Xanthoparmelia congensis (J. Steiner) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Jber. schles. Ges. vaterl. Kultur 66: 140 (1889)
+Phytologia 28(5): 486 (1974)
 
 #### Original name
 Parmelia congensis J. Steiner

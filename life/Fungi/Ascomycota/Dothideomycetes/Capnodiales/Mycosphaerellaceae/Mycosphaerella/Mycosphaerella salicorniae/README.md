@@ -1,8 +1,7 @@
-Pleospora herbarum f. salicorniae Rabenh., 1873 FORM
-=======
+# Mycosphaerella salicorniae (Rabenh.) Lindau, 1903 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Sphaerella salicorniae (Rabenh.) Auersw., 1869
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Arthopyrenia pyrenuloides (Fée) Zahlbr. SPECIES
-=======
+# Arthopyrenia pyrenuloides (Fée) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

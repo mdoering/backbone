@@ -1,5 +1,4 @@
-Oscillatoria obtusa Gardner SPECIES
-=======
+# Oscillatoria obtusa Gardner SPECIES
 
 #### Status
 ACCEPTED

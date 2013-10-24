@@ -1,5 +1,4 @@
-Verrucaria approximans Kremp. SPECIES
-=======
+# Verrucaria approximans Kremp. SPECIES
 
 #### Status
 ACCEPTED

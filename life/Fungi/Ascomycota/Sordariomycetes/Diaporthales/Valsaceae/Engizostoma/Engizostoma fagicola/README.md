@@ -1,5 +1,4 @@
-Engizostoma fagicola (Ellis & Everh.) Kuntze SPECIES
-=======
+# Engizostoma fagicola (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

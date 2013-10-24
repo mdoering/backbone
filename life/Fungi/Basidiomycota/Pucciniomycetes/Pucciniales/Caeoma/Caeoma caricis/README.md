@@ -1,5 +1,4 @@
-Caeoma caricis Link SPECIES
-=======
+# Caeoma caricis Link SPECIES
 
 #### Status
 ACCEPTED

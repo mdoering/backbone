@@ -1,5 +1,4 @@
-Allescherina clematidis (Briard & Har.) Berl. SPECIES
-=======
+# Allescherina clematidis (Briard & Har.) Berl. SPECIES
 
 #### Status
 ACCEPTED

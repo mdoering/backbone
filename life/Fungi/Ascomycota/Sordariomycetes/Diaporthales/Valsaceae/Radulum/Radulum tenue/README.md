@@ -1,5 +1,4 @@
-Radulum tenue Rick SPECIES
-=======
+# Radulum tenue Rick SPECIES
 
 #### Status
 ACCEPTED

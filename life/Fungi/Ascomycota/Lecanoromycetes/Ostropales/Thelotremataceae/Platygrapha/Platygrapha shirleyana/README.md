@@ -1,5 +1,4 @@
-Platygrapha shirleyana Müll. Arg. SPECIES
-=======
+# Platygrapha shirleyana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

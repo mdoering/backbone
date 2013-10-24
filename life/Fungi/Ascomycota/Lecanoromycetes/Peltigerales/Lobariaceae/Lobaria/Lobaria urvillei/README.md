@@ -1,5 +1,4 @@
-Lobaria urvillei (C. Bab.) Trevis. SPECIES
-=======
+# Lobaria urvillei (C. Bab.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

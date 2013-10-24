@@ -1,5 +1,4 @@
-Nectria vandae Wahrlich SPECIES
-=======
+# Nectria vandae Wahrlich SPECIES
 
 #### Status
 ACCEPTED

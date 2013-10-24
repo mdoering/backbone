@@ -1,5 +1,4 @@
-Hyphochytriales E.A. Bessey ex P.M. Kirk, P.F. Cannon & J.C. David ORDER
-=======
+# Hyphochytriales E.A. Bessey ex P.M. Kirk, P.F. Cannon & J.C. David ORDER
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coprinus coffeicola Massee SPECIES
-=======
+# Coprinus coffeicola Massee SPECIES
 
 #### Status
 ACCEPTED

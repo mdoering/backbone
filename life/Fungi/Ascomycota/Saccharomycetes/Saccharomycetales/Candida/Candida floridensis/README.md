@@ -1,5 +1,4 @@
-Candida floridensis Kurtzman, 2007 SPECIES
-=======
+# Candida floridensis Kurtzman, 2007 SPECIES
 
 #### Status
 ACCEPTED

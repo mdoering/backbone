@@ -1,5 +1,4 @@
-Graphium guttuliferum Pidopl. SPECIES
-=======
+# Graphium guttuliferum Pidopl. SPECIES
 
 #### Status
 ACCEPTED

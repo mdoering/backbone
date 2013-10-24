@@ -1,5 +1,4 @@
-Anthracoidea americana (Nannf. & B. Lindeb.) Kukkonen SPECIES
-=======
+# Anthracoidea americana (Nannf. & B. Lindeb.) Kukkonen SPECIES
 
 #### Status
 ACCEPTED

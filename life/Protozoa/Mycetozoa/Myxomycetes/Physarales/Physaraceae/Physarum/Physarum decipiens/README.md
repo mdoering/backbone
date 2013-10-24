@@ -1,17 +1,16 @@
-Physarum chrysotrichum Berk. & M.A. Curtis, 1873 SPECIES
-=======
+# Physarum decipiens M.A. Curtis, 1848 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Amer. J. Sci. Arts, Ser. 2 6: 352 (1848)
 
 #### Original name
-null
+Physarum decipiens M.A. Curtis, 1848
 
 ### Remarks
 null

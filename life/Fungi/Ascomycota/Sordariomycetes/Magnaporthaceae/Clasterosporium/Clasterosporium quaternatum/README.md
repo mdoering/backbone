@@ -1,5 +1,4 @@
-Clasterosporium quaternatum (Berk. & M.A. Curtis) E.W. Mason & S. Hughes SPECIES
-=======
+# Clasterosporium quaternatum (Berk. & M.A. Curtis) E.W. Mason & S. Hughes SPECIES
 
 #### Status
 ACCEPTED

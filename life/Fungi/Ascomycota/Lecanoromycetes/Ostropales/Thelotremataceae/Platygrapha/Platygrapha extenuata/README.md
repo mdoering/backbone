@@ -1,5 +1,4 @@
-Platygrapha extenuata Nyl. SPECIES
-=======
+# Platygrapha extenuata Nyl. SPECIES
 
 #### Status
 ACCEPTED

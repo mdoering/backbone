@@ -1,5 +1,4 @@
-Aecidium griffithiae Henn. SPECIES
-=======
+# Aecidium griffithiae Henn. SPECIES
 
 #### Status
 ACCEPTED

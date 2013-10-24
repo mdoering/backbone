@@ -1,5 +1,4 @@
-Lachnum crataegi var. crataegi VARIETY
-=======
+# Lachnum crataegi Velen. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Monogr. Discom. Bohem. (Prague) 248 (1934)
 
 #### Original name
-Lachnum crataegi var. crataegi
+Lachnum crataegi Velen.
 
 ### Remarks
 null

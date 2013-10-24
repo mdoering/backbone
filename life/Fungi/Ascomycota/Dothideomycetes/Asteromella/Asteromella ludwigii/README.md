@@ -1,5 +1,4 @@
-Asteromella ludwigii Petr., 1923 SPECIES
-=======
+# Asteromella ludwigii Petr., 1923 SPECIES
 
 #### Status
 ACCEPTED

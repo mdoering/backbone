@@ -1,5 +1,4 @@
-Macroplodia lupini (Cooke & Harkn.) Kuntze SPECIES
-=======
+# Macroplodia lupini (Cooke & Harkn.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

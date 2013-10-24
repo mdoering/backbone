@@ -1,5 +1,4 @@
-Helminthosporium cucumerinum Garb. SPECIES
-=======
+# Helminthosporium cucumerinum Garb. SPECIES
 
 #### Status
 ACCEPTED

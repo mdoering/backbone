@@ -1,5 +1,4 @@
-Lecanora rabdotoides Guderley SPECIES
-=======
+# Lecanora rabdotoides Guderley SPECIES
 
 #### Status
 ACCEPTED

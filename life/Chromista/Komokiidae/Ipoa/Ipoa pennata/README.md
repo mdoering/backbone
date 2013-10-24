@@ -1,5 +1,4 @@
-Ipoa pennata Gooday, Kamenskaya & Cedhagen, 2007 SPECIES
-=======
+# Ipoa pennata Gooday, Kamenskaya & Cedhagen, 2007 SPECIES
 
 #### Status
 ACCEPTED

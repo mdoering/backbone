@@ -1,5 +1,4 @@
-Verrucaria fuscescens (Servít) Servít SPECIES
-=======
+# Verrucaria fuscescens (Servít) Servít SPECIES
 
 #### Status
 ACCEPTED

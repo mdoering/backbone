@@ -1,5 +1,4 @@
-Laestadia asarifolia (Cooke) Sacc. SPECIES
-=======
+# Laestadia asarifolia (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

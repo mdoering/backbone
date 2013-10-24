@@ -1,5 +1,4 @@
-Parmelia ethiopica C.W. Dodge SPECIES
-=======
+# Parmelia ethiopica C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

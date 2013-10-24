@@ -1,5 +1,4 @@
-Capnodium minimum Bubák SPECIES
-=======
+# Capnodium minimum Bubák SPECIES
 
 #### Status
 ACCEPTED

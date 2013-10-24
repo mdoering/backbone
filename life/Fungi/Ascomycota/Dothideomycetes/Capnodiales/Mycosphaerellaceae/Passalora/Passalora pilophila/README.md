@@ -1,5 +1,4 @@
-Passalora pilophila (Jacz. ex Vassiljevsky & Karak.) U. Braun & Crous SPECIES
-=======
+# Passalora pilophila (Jacz. ex Vassiljevsky & Karak.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

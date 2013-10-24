@@ -1,5 +1,4 @@
-Baltisphaeridium eypense Wall, 1965 SPECIES
-=======
+# Baltisphaeridium eypense Wall, 1965 SPECIES
 
 #### Status
 ACCEPTED

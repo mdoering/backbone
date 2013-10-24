@@ -1,5 +1,4 @@
-Cryptostictis paeoniae Tehon & E.Y. Daniels SPECIES
-=======
+# Cryptostictis paeoniae Tehon & E.Y. Daniels SPECIES
 
 #### Status
 ACCEPTED

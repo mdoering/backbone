@@ -1,5 +1,4 @@
-Chaetomium hexagonosporum A. Carter & Malloch, 1982 SPECIES
-=======
+# Chaetomium hexagonosporum A. Carter & Malloch, 1982 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Varicosporium badium Descals SPECIES
-=======
+# Varicosporium badium Descals SPECIES
 
 #### Status
 ACCEPTED

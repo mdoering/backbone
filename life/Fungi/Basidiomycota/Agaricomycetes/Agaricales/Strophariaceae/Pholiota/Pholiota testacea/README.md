@@ -1,5 +1,4 @@
-Pholiota testacea Rick SPECIES
-=======
+# Pholiota testacea Rick SPECIES
 
 #### Status
 ACCEPTED

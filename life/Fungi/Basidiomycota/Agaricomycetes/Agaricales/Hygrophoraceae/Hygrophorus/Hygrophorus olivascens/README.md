@@ -1,5 +1,4 @@
-Hygrophorus olivascens A.H. Sm. & Hesler SPECIES
-=======
+# Hygrophorus olivascens A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

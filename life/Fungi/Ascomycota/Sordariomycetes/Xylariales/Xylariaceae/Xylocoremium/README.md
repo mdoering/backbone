@@ -1,5 +1,4 @@
-Xylocoremium J.D. Rogers GENUS
-=======
+# Xylocoremium J.D. Rogers GENUS
 
 #### Status
 ACCEPTED

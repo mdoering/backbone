@@ -1,5 +1,4 @@
-Sclerotium udum Fr. SPECIES
-=======
+# Sclerotium udum Fr. SPECIES
 
 #### Status
 ACCEPTED

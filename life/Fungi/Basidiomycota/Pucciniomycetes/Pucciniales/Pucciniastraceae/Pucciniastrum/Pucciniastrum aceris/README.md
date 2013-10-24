@@ -1,5 +1,4 @@
-Pucciniastrum aceris Syd. SPECIES
-=======
+# Pucciniastrum aceris Syd. SPECIES
 
 #### Status
 ACCEPTED

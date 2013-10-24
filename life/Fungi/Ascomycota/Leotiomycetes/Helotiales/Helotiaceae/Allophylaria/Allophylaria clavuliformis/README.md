@@ -1,14 +1,13 @@
-Hyaloscypha clavuliformis (P. Karst.) Boud., 1907 SPECIES
-=======
+# Allophylaria clavuliformis (P. Karst.) P. Karst., 1878 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hist. Class. Discom. Eur. (Paris) 127 (1907)
+Symb. mycol. fenn. 3: 243 (1878)
 
 #### Original name
 null

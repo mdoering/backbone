@@ -1,5 +1,4 @@
-Mycena petiolorum (Berk. & M.A. Curtis) Dennis SPECIES
-=======
+# Mycena petiolorum (Berk. & M.A. Curtis) Dennis SPECIES
 
 #### Status
 ACCEPTED

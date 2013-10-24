@@ -1,5 +1,4 @@
-Spatoglossum dichotomum C.K.Tseng & Lu SPECIES
-=======
+# Spatoglossum dichotomum C.K.Tseng & Lu SPECIES
 
 #### Status
 ACCEPTED

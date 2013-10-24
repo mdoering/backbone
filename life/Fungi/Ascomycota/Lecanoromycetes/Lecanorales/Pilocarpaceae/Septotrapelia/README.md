@@ -1,5 +1,4 @@
-Septotrapelia Aptroot & Chaves GENUS
-=======
+# Septotrapelia Aptroot & Chaves GENUS
 
 #### Status
 ACCEPTED

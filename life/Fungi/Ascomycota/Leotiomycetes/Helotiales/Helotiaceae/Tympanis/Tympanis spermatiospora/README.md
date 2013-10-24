@@ -1,14 +1,13 @@
-Cenangium spermatiosporum (Nyl.) Sacc., 1889 SPECIES
-=======
+# Tympanis spermatiospora (Nyl.) Nyl., 1869 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 8: 560 (1889)
+Not. Sällsk. Fauna et Fl. Fenn. Förh. 10: 70 (1869)
 
 #### Original name
 null

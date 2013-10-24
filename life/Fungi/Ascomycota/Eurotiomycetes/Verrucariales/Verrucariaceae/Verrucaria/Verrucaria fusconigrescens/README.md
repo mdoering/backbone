@@ -1,17 +1,16 @@
-Verrucaria fusconigricans Nyl. SPECIES
-=======
+# Verrucaria fusconigrescens Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Soc. linn. Normandie 6: 313 (1872)
 
 #### Original name
-Verrucaria fusconigricans Nyl.
+Verrucaria fusconigrescens Nyl.
 
 ### Remarks
 null

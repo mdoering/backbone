@@ -1,5 +1,4 @@
-Lancettopsis lanceolata Mädler, 1963 SPECIES
-=======
+# Lancettopsis lanceolata Mädler, 1963 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria durietzii I.M. Lamb SPECIES
-=======
+# Verrucaria durietzii I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

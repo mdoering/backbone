@@ -1,5 +1,4 @@
-Chroococcus consociatus Hariot SPECIES
-=======
+# Chroococcus consociatus Hariot SPECIES
 
 #### Status
 ACCEPTED

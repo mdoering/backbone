@@ -1,5 +1,4 @@
-Valsa albopruinosa (Schwein.) O. Kuntze SPECIES
-=======
+# Valsa albopruinosa (Schwein.) O. Kuntze SPECIES
 
 #### Status
 ACCEPTED

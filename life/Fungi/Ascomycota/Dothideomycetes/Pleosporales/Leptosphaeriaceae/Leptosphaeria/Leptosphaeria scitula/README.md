@@ -1,14 +1,13 @@
-Melanomma scitulum (Syd.) L. Holm, 1957 SPECIES
-=======
+# Leptosphaeria scitula Syd., 1938 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Symb. bot. upsal. 14(no. 3): 66 (1957)
+Annls mycol. 36: 321 (1938)
 
 #### Original name
 Leptosphaeria scitula Syd., 1938

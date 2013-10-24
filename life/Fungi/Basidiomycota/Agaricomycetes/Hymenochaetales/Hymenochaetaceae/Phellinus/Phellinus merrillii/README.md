@@ -1,17 +1,16 @@
-Fulvifomes merrillii (Murrill) Baltazar & Gibertoni, 2010 SPECIES
-=======
+# Phellinus merrillii (Murrill) Ryvarden, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Norw. Jl Bot. 19: 234 (1972)
 
 #### Original name
-null
+Pyropolyporus merrillii Murrill, 1907
 
 ### Remarks
 null

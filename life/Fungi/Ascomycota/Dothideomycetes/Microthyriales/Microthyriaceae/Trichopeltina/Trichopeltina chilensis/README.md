@@ -1,5 +1,4 @@
-Trichopeltina chilensis (Speg.) Theiss. SPECIES
-=======
+# Trichopeltina chilensis (Speg.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lycoperdon reticulatum Berk. SPECIES
-=======
+# Lycoperdon reticulatum Berk. SPECIES
 
 #### Status
 ACCEPTED

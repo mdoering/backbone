@@ -1,5 +1,4 @@
-Mycena fuscoradiata Maas Geest. & Hauskn. SPECIES
-=======
+# Mycena fuscoradiata Maas Geest. & Hauskn. SPECIES
 
 #### Status
 ACCEPTED

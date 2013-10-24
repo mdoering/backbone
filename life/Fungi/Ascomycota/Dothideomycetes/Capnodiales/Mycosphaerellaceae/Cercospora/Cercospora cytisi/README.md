@@ -1,5 +1,4 @@
-Cercospora cytisi Chupp SPECIES
-=======
+# Cercospora cytisi Chupp SPECIES
 
 #### Status
 ACCEPTED

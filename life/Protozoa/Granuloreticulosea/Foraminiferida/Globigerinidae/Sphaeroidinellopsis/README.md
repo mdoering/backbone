@@ -1,5 +1,4 @@
-Sphaeroidinellopsis Banner & Blow, 1959 GENUS
-=======
+# Sphaeroidinellopsis Banner & Blow, 1959 GENUS
 
 #### Status
 ACCEPTED

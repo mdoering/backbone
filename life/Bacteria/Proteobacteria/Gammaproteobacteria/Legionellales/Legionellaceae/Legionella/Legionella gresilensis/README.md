@@ -1,5 +1,4 @@
-Legionella gresilensis Lo Presti et al., 2001 SPECIES
-=======
+# Legionella gresilensis Lo Presti et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

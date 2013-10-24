@@ -1,5 +1,4 @@
-Opegrapha hyoteriiformis Nyl. SPECIES
-=======
+# Opegrapha hyoteriiformis Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerella castagnei Har. & Briard SPECIES
-=======
+# Sphaerella castagnei Har. & Briard SPECIES
 
 #### Status
 ACCEPTED

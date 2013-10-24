@@ -1,5 +1,4 @@
-Calonectria pseudonaviculata (Crous, J.Z. Groenew. & C.F. Hill) L. Lombard, M.J. Wingf. & Crous, 2010 SPECIES
-=======
+# Calonectria pseudonaviculata (Crous, J.Z. Groenew. & C.F. Hill) L. Lombard, M.J. Wingf. & Crous, 2010 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gracilisphaeridium A. Eisenack & Cramer in Eisenack et al., 1973 GENUS
-=======
+# Gracilisphaeridium A. Eisenack & Cramer in Eisenack et al., 1973 GENUS
 
 #### Status
 ACCEPTED

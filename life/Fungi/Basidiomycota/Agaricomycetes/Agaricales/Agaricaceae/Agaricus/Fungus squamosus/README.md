@@ -1,5 +1,4 @@
-Fungus squamosus (Bull.) Kuntze SPECIES
-=======
+# Fungus squamosus (Bull.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

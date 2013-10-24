@@ -1,5 +1,4 @@
-Pyropilus rotundatus Cushman, 1934 SPECIES
-=======
+# Pyropilus rotundatus Cushman, 1934 SPECIES
 
 #### Status
 ACCEPTED

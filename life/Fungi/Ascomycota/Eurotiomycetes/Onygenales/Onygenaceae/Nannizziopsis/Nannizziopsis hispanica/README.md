@@ -1,5 +1,4 @@
-Nannizziopsis hispanica Cano & Guarro SPECIES
-=======
+# Nannizziopsis hispanica Cano & Guarro SPECIES
 
 #### Status
 ACCEPTED

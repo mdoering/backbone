@@ -1,5 +1,4 @@
-Delitschia marchalii Berl. & Voglino, 1886 SPECIES
-=======
+# Delitschia marchalii Berl. & Voglino, 1886 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Haemogregarina mugili Carini, 1939 SPECIES
-=======
+# Desseria mugili (Carini, 1939) Siddall, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

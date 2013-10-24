@@ -1,5 +1,4 @@
-Diaporthe catalpae Ellis & Everh. SPECIES
-=======
+# Diaporthe catalpae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

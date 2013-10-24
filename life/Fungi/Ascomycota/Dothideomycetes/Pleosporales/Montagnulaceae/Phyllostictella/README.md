@@ -1,5 +1,4 @@
-Phyllostictella GENUS
-=======
+# Phyllostictella GENUS
 
 #### Status
 ACCEPTED

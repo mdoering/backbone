@@ -1,5 +1,4 @@
-Marasmiellus couleu Singer SPECIES
-=======
+# Marasmiellus couleu Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepiota cepaestipes (Fr. Fr.) Kummer SPECIES
-=======
+# Lepiota cepaestipes (Fr. Fr.) Kummer SPECIES
 
 #### Status
 ACCEPTED

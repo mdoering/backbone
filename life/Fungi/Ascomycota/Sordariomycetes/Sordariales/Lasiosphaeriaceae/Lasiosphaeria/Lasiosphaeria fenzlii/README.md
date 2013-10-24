@@ -1,5 +1,4 @@
-Lasiosphaeria fenzlii Rchb. SPECIES
-=======
+# Lasiosphaeria fenzlii Rchb. SPECIES
 
 #### Status
 ACCEPTED

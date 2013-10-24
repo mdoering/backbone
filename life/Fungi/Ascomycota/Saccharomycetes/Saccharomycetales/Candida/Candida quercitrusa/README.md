@@ -1,17 +1,16 @@
-Candida parapsilosis var. quercus Uden & Carmo Souza, 1959 VARIETY
-=======
+# Candida quercitrusa S.A. Mey. & Phaff, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Portug. acta biol. , Sér. B 6(3): 246 (1959)
+null
 
 #### Original name
-Candida parapsilosis var. quercus Uden & Carmo Souza, 1959
+null
 
 ### Remarks
 null

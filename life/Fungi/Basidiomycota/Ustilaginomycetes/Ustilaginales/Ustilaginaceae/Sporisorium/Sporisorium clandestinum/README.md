@@ -1,5 +1,4 @@
-Sporisorium clandestinum R.G. Shivas, Vánky & Athip., 2006 SPECIES
-=======
+# Sporisorium clandestinum R.G. Shivas, Vánky & Athip., 2006 SPECIES
 
 #### Status
 ACCEPTED

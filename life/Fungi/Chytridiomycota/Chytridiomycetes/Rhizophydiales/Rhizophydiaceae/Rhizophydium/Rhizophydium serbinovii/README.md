@@ -1,5 +1,4 @@
-Rhizophydium serbinovii Jacz. SPECIES
-=======
+# Rhizophydium serbinovii Jacz. SPECIES
 
 #### Status
 ACCEPTED

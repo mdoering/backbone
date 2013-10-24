@@ -1,5 +1,4 @@
-Meliola arrabidaeae var. arrabidaeae VARIETY
-=======
+# Meliola arrabidaeae Hansf. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Sydowia (1957)
+Beih. Sydowia 1: 99 (1957)
 
 #### Original name
-Meliola arrabidaeae var. arrabidaeae
+Meliola arrabidaeae Hansf.
 
 ### Remarks
 null

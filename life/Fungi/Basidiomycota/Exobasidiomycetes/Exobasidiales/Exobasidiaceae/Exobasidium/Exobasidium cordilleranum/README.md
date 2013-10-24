@@ -1,5 +1,4 @@
-Exobasidium cordilleranum var. cordilleranum VARIETY
-=======
+# Exobasidium cordilleranum Savile SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Exobasidium cordilleranum var. cordilleranum
+Exobasidium cordilleranum Savile
 
 ### Remarks
 null

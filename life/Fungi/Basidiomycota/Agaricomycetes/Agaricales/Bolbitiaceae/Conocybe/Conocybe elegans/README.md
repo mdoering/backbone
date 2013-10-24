@@ -1,5 +1,4 @@
-Conocybe elegans Watling SPECIES
-=======
+# Conocybe elegans Watling SPECIES
 
 #### Status
 ACCEPTED

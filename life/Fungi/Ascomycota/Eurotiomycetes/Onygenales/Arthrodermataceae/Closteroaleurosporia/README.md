@@ -1,5 +1,4 @@
-Closteroaleurosporia GENUS
-=======
+# Closteroaleurosporia GENUS
 
 #### Status
 ACCEPTED

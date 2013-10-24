@@ -1,5 +1,4 @@
-Xylaria cornu-dorcas Lloyd SPECIES
-=======
+# Xylaria cornu-dorcas Lloyd SPECIES
 
 #### Status
 ACCEPTED

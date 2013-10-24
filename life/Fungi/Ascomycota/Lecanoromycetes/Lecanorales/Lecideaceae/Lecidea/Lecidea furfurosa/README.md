@@ -1,5 +1,4 @@
-Lecidea furfurosa Tuck. SPECIES
-=======
+# Lecidea furfurosa Tuck. SPECIES
 
 #### Status
 ACCEPTED

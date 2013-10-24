@@ -1,5 +1,4 @@
-Agaricus subrepandus Secr. ex Pers. SPECIES
-=======
+# Agaricus subrepandus Secr. ex Pers. SPECIES
 
 #### Status
 ACCEPTED

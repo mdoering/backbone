@@ -1,5 +1,4 @@
-Peptostreptococcus Kluyver & van Niel, 1936 GENUS
-=======
+# Peptostreptococcus Kluyver & van Niel, 1936 GENUS
 
 #### Status
 ACCEPTED

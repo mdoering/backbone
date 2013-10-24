@@ -1,5 +1,4 @@
-Trematosphaeria subcollapsa (Ellis & Everh.) Ellis & Everh. SPECIES
-=======
+# Trematosphaeria subcollapsa (Ellis & Everh.) Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

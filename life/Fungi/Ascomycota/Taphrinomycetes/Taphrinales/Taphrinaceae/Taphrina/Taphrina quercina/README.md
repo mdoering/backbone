@@ -1,5 +1,4 @@
-Taphrina quercina J.C. Schmidt SPECIES
-=======
+# Taphrina quercina J.C. Schmidt SPECIES
 
 #### Status
 ACCEPTED

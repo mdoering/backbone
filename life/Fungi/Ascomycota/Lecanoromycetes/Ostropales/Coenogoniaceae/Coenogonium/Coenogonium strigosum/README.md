@@ -1,5 +1,4 @@
-Coenogonium strigosum Rivas Plata, Lücking & Chaves SPECIES
-=======
+# Coenogonium strigosum Rivas Plata, Lücking & Chaves SPECIES
 
 #### Status
 ACCEPTED

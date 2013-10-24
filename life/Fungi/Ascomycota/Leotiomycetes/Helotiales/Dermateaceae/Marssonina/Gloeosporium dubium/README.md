@@ -1,5 +1,4 @@
-Gloeosporium dubium Bäumler SPECIES
-=======
+# Gloeosporium dubium Bäumler SPECIES
 
 #### Status
 ACCEPTED

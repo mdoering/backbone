@@ -1,5 +1,4 @@
-Citromyces tuberifer O. Rostr. SPECIES
-=======
+# Citromyces tuberifer O. Rostr. SPECIES
 
 #### Status
 ACCEPTED

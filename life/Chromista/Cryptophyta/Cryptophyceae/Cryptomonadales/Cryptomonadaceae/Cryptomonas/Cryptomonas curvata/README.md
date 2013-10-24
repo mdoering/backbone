@@ -1,5 +1,4 @@
-Cryptomonas curvata Ehrenberg ex Penard SPECIES
-=======
+# Cryptomonas curvata Ehrenberg ex Penard SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe albofibrillosa Stangl & Schmid-Heckel SPECIES
-=======
+# Inocybe albofibrillosa Stangl & Schmid-Heckel SPECIES
 
 #### Status
 ACCEPTED

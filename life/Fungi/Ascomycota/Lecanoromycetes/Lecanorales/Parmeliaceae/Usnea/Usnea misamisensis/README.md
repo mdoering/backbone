@@ -1,5 +1,4 @@
-Usnea misamisensis SPECIES
-=======
+# Usnea misamisensis SPECIES
 
 #### Status
 ACCEPTED

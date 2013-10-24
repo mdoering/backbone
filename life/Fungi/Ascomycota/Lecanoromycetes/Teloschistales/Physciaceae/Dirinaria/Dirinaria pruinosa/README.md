@@ -1,5 +1,4 @@
-Dirinaria pruinosa Kalb SPECIES
-=======
+# Dirinaria pruinosa Kalb SPECIES
 
 #### Status
 ACCEPTED

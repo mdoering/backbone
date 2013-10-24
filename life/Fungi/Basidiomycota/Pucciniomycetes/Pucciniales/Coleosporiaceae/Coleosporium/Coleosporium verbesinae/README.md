@@ -1,5 +1,4 @@
-Coleosporium verbesinae Dietel & Holw. SPECIES
-=======
+# Coleosporium verbesinae Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

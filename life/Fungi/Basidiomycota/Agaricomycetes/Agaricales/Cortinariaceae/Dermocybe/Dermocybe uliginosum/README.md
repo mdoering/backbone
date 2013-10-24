@@ -1,5 +1,4 @@
-Dermocybe uliginosum anon. SPECIES
-=======
+# Dermocybe uliginosum anon. SPECIES
 
 #### Status
 ACCEPTED

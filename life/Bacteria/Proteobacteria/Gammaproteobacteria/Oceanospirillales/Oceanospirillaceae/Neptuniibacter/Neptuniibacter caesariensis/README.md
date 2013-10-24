@@ -1,5 +1,4 @@
-Neptuniibacter caesariensis Arahal, Lekunberri, Gonzalez, Pascual, Pujalte, Pedros-Alio & Pinhassi, 2007 SPECIES
-=======
+# Neptuniibacter caesariensis Arahal, Lekunberri, Gonzalez, Pascual, Pujalte, Pedros-Alio & Pinhassi, 2007 SPECIES
 
 #### Status
 ACCEPTED

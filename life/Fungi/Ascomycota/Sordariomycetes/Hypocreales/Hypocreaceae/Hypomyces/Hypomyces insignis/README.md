@@ -1,5 +1,4 @@
-Hypomyces insignis Berk. & M.A. Curtis SPECIES
-=======
+# Hypomyces insignis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

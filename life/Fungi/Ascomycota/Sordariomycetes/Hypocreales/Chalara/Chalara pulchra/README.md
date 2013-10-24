@@ -1,5 +1,4 @@
-Chalara pulchra Nag Raj & S. Hughes, 1974 SPECIES
-=======
+# Chalara pulchra Nag Raj & S. Hughes, 1974 SPECIES
 
 #### Status
 ACCEPTED

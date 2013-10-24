@@ -1,5 +1,4 @@
-Asterostomopora Bat. & H. Maia GENUS
-=======
+# Asterostomopora Bat. & H. Maia GENUS
 
 #### Status
 ACCEPTED

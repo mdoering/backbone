@@ -1,5 +1,4 @@
-Cladonia galapagosensis Ahti SPECIES
-=======
+# Cladonia galapagosensis Ahti SPECIES
 
 #### Status
 ACCEPTED

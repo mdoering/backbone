@@ -1,5 +1,4 @@
-Helvella javanica Penz. & Sacc. SPECIES
-=======
+# Helvella javanica Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

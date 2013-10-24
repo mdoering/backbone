@@ -1,5 +1,4 @@
-Didymella physocarpi Ellis & Everh. SPECIES
-=======
+# Didymella physocarpi Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

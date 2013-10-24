@@ -1,5 +1,4 @@
-Uredo amomi Petch SPECIES
-=======
+# Uredo amomi Petch SPECIES
 
 #### Status
 ACCEPTED

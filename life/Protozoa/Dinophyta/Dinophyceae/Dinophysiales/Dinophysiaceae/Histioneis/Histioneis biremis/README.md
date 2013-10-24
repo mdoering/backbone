@@ -1,5 +1,4 @@
-Histioneis biremis Stein, 1883 SPECIES
-=======
+# Histioneis biremis Stein, 1883 SPECIES
 
 #### Status
 ACCEPTED

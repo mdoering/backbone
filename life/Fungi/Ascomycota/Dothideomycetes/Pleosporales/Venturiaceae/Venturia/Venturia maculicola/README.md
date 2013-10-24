@@ -1,5 +1,4 @@
-Venturia maculicola Schembel SPECIES
-=======
+# Venturia maculicola Schembel SPECIES
 
 #### Status
 ACCEPTED

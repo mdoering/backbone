@@ -1,5 +1,4 @@
-Lophosphaeridium asketum Colbath, 1990 SPECIES
-=======
+# Lophosphaeridium asketum Colbath, 1990 SPECIES
 
 #### Status
 ACCEPTED

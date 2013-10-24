@@ -1,5 +1,4 @@
-Anthostoma cavarica Petr. SPECIES
-=======
+# Anthostoma cavarica Petr. SPECIES
 
 #### Status
 ACCEPTED

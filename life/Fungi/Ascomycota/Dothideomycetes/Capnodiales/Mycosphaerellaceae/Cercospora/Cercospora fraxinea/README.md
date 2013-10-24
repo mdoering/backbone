@@ -1,5 +1,4 @@
-Cercospora fraxinea Ellis & Everh. SPECIES
-=======
+# Cercospora fraxinea Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

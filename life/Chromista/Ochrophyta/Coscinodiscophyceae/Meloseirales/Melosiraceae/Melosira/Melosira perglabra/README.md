@@ -1,5 +1,4 @@
-Melosira perglabra var. floriniae Camburn VARIETY
-=======
+# Melosira perglabra Østrup SPECIES
 
 #### Status
 ACCEPTED

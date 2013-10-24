@@ -1,5 +1,4 @@
-Caloplaca aspera (Savicz) Zahlbr. SPECIES
-=======
+# Caloplaca aspera (Savicz) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

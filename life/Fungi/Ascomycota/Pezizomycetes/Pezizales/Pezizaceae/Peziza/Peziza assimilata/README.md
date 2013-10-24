@@ -1,8 +1,7 @@
-Aleuria umbrina var. assimilata (P. Karst.) Boud., 1907 VARIETY
-=======
+# Peziza assimilata P. Karst., 1869 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

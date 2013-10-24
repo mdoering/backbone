@@ -1,5 +1,4 @@
-Crinipellis commixta Singer SPECIES
-=======
+# Crinipellis commixta Singer SPECIES
 
 #### Status
 ACCEPTED

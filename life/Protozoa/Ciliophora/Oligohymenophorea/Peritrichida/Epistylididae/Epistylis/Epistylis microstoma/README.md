@@ -1,5 +1,4 @@
-Epistylis microstoma SPECIES
-=======
+# Epistylis microstoma SPECIES
 
 #### Status
 ACCEPTED

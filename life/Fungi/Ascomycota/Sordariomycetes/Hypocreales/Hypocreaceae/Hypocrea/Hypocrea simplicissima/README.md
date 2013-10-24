@@ -1,5 +1,4 @@
-Hypocrea simplicissima Rick & Theiss. SPECIES
-=======
+# Hypocrea simplicissima Rick & Theiss. SPECIES
 
 #### Status
 ACCEPTED

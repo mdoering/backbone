@@ -1,5 +1,4 @@
-Leptonia guatopoana Dennis SPECIES
-=======
+# Leptonia guatopoana Dennis SPECIES
 
 #### Status
 ACCEPTED

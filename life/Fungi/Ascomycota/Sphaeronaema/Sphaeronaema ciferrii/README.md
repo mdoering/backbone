@@ -1,5 +1,4 @@
-Sphaeronaema ciferrii Trotter SPECIES
-=======
+# Sphaeronaema ciferrii Trotter SPECIES
 
 #### Status
 ACCEPTED

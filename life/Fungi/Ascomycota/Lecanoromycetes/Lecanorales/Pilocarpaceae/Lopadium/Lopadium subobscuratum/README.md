@@ -1,5 +1,4 @@
-Lopadium subobscuratum (Vain.) Zahlbr. SPECIES
-=======
+# Lopadium subobscuratum (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

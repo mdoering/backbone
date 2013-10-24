@@ -1,5 +1,4 @@
-Inocybe hirtelloides Stangl & J. Veselský SPECIES
-=======
+# Inocybe hirtelloides Stangl & J. Veselský SPECIES
 
 #### Status
 ACCEPTED

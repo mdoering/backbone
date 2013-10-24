@@ -1,5 +1,4 @@
-Rinodina varia (Ehrh.) Gray SPECIES
-=======
+# Rinodina varia (Ehrh.) Gray SPECIES
 
 #### Status
 ACCEPTED

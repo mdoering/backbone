@@ -1,5 +1,4 @@
-Eccilia hyalodepas (Berk. & Broome) SPECIES
-=======
+# Eccilia hyalodepas (Berk. & Broome) SPECIES
 
 #### Status
 ACCEPTED

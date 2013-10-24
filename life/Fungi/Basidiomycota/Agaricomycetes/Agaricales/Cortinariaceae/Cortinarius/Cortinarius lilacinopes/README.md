@@ -1,8 +1,7 @@
-Cortinarius lilacinipes Britzelm. SPECIES
-=======
+# Cortinarius lilacinopes Britzelm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cortinarius lilacinipes Britzelm.
+Cortinarius lilacinopes Britzelm.
 
 ### Remarks
 null

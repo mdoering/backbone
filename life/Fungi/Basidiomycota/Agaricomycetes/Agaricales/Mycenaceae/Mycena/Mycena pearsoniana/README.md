@@ -1,5 +1,4 @@
-Mycena pearsoniana Dennis ex Singer, 1959 SPECIES
-=======
+# Mycena pearsoniana Dennis ex Singer, 1959 SPECIES
 
 #### Status
 ACCEPTED

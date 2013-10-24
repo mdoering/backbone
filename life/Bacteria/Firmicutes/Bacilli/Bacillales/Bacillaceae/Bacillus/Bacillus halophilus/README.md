@@ -1,5 +1,4 @@
-Bacillus halophilus Ventosa et al., 1990 SPECIES
-=======
+# Bacillus halophilus Ventosa et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

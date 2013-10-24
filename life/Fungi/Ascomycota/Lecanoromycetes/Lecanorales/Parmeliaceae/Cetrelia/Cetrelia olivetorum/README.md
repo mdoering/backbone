@@ -1,17 +1,16 @@
-Parmelia cetrarioides var. rubescens (Th. Fr.) Du Rietz VARIETY
-=======
+# Cetrelia olivetorum (Nyl.) W.L. Culb. & C.F. Culb. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Nytt Mag. Natur. 62: 73 (1924)
+Contr. U. S. natnl. Herb. 34: 515 (1968)
 
 #### Original name
-Parmelia perlata (Huds.) Ach.
+Parmelia olivetorum
 
 ### Remarks
 null

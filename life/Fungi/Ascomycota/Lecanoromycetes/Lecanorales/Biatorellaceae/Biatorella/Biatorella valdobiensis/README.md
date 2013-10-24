@@ -1,5 +1,4 @@
-Biatorella valdobiensis (Bagl. & Carestia) Zahlbr. SPECIES
-=======
+# Biatorella valdobiensis (Bagl. & Carestia) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

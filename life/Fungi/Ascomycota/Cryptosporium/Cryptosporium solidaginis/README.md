@@ -1,5 +1,4 @@
-Cryptosporium solidaginis Cooke & Ellis SPECIES
-=======
+# Cryptosporium solidaginis Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

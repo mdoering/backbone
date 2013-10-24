@@ -1,5 +1,4 @@
-Puccinia illatabilis H.S. Jacks. & Holw. SPECIES
-=======
+# Puccinia illatabilis H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

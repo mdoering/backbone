@@ -1,5 +1,4 @@
-Barakella felix Cramer & Díez, 1977 SPECIES
-=======
+# Barakella felix Cramer & Díez, 1977 SPECIES
 
 #### Status
 ACCEPTED

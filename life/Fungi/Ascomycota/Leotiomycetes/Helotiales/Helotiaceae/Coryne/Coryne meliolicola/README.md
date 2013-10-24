@@ -1,5 +1,4 @@
-Coryne meliolicola (Henn.) Höhn. SPECIES
-=======
+# Coryne meliolicola (Henn.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

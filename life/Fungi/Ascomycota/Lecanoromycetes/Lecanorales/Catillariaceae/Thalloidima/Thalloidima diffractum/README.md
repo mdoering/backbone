@@ -1,5 +1,4 @@
-Thalloidima diffractum A. Massal. SPECIES
-=======
+# Thalloidima diffractum A. Massal. SPECIES
 
 #### Status
 ACCEPTED

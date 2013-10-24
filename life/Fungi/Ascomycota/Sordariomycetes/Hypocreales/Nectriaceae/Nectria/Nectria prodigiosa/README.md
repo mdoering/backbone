@@ -1,5 +1,4 @@
-Nectria prodigiosa Syd. SPECIES
-=======
+# Nectria prodigiosa Syd. SPECIES
 
 #### Status
 ACCEPTED

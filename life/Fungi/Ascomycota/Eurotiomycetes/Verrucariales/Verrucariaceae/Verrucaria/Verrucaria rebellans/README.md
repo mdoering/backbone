@@ -1,5 +1,4 @@
-Verrucaria rebellans Zahlbr. SPECIES
-=======
+# Verrucaria rebellans Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

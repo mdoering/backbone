@@ -1,5 +1,4 @@
-Calloria aegiphilae Rehm SPECIES
-=======
+# Calloria aegiphilae Rehm SPECIES
 
 #### Status
 ACCEPTED

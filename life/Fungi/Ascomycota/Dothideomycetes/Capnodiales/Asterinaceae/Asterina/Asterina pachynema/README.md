@@ -1,5 +1,4 @@
-Asterina pachynema Syd. SPECIES
-=======
+# Asterina pachynema Syd. SPECIES
 
 #### Status
 ACCEPTED

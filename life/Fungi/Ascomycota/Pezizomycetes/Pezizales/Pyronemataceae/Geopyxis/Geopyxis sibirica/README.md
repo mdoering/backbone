@@ -1,5 +1,4 @@
-Geopyxis sibirica P. Karst. SPECIES
-=======
+# Geopyxis sibirica P. Karst. SPECIES
 
 #### Status
 ACCEPTED

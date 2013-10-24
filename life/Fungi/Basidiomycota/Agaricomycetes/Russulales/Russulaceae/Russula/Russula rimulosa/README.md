@@ -1,5 +1,4 @@
-Russula rimulosa Pennycook, 2003 SPECIES
-=======
+# Russula rimulosa Pennycook, 2003 SPECIES
 
 #### Status
 ACCEPTED

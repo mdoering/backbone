@@ -1,5 +1,4 @@
-Royoporus A.B. De, 1996 GENUS
-=======
+# Royoporus A.B. De, 1996 GENUS
 
 #### Status
 ACCEPTED

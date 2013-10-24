@@ -1,5 +1,4 @@
-Galerina lacustris A.H. Sm. SPECIES
-=======
+# Galerina lacustris A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

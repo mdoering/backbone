@@ -1,5 +1,4 @@
-Camarosporium salsolae Golovin SPECIES
-=======
+# Camarosporium salsolae Golovin SPECIES
 
 #### Status
 ACCEPTED

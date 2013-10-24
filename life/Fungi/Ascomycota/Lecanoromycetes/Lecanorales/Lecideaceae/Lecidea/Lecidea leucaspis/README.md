@@ -1,5 +1,4 @@
-Lecidea leucaspis (Kremp. ex A. Massal.) Nyl. SPECIES
-=======
+# Lecidea leucaspis (Kremp. ex A. Massal.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

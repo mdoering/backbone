@@ -1,5 +1,4 @@
-Phomopsis isorae S.M. Singh SPECIES
-=======
+# Phomopsis isorae S.M. Singh SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lachnocladium carbonarium (Mont.) Pat. SPECIES
-=======
+# Lachnocladium carbonarium (Mont.) Pat. SPECIES
 
 #### Status
 ACCEPTED

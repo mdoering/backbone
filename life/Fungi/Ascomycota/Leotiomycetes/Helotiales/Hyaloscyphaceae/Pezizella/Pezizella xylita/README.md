@@ -1,5 +1,4 @@
-Pezizella xylita P. Karst. SPECIES
-=======
+# Pezizella xylita P. Karst. SPECIES
 
 #### Status
 ACCEPTED

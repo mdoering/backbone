@@ -1,5 +1,4 @@
-Hypoxylon asperatum (Massee) P.M.D. Martin SPECIES
-=======
+# Hypoxylon asperatum (Massee) P.M.D. Martin SPECIES
 
 #### Status
 ACCEPTED

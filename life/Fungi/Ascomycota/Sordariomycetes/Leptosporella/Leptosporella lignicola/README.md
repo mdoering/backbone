@@ -1,5 +1,4 @@
-Leptosporella lignicola Chardón SPECIES
-=======
+# Leptosporella lignicola Chardón SPECIES
 
 #### Status
 ACCEPTED

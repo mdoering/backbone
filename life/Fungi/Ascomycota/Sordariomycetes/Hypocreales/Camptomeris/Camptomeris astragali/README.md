@@ -1,5 +1,4 @@
-Camptomeris astragali E.A. Bessey SPECIES
-=======
+# Camptomeris astragali E.A. Bessey SPECIES
 
 #### Status
 ACCEPTED

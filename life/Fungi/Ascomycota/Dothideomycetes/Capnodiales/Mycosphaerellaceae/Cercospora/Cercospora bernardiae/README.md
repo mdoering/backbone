@@ -1,5 +1,4 @@
-Cercospora bernardiae F. Stevens SPECIES
-=======
+# Cercospora bernardiae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

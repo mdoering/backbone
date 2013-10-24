@@ -1,5 +1,4 @@
-Laboulbenia chlaeniicola Speg. SPECIES
-=======
+# Laboulbenia chlaeniicola Speg. SPECIES
 
 #### Status
 ACCEPTED

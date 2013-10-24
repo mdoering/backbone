@@ -1,5 +1,4 @@
-Mycena aconquijensis Singer SPECIES
-=======
+# Mycena aconquijensis Singer SPECIES
 
 #### Status
 ACCEPTED

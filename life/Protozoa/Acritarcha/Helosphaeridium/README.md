@@ -1,5 +1,4 @@
-Helosphaeridium T.R. Lister, 1970 GENUS
-=======
+# Helosphaeridium T.R. Lister, 1970 GENUS
 
 #### Status
 ACCEPTED

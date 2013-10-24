@@ -1,5 +1,4 @@
-Lichen griseus (Willd.) Willd. SPECIES
-=======
+# Lichen griseus (Willd.) Willd. SPECIES
 
 #### Status
 ACCEPTED

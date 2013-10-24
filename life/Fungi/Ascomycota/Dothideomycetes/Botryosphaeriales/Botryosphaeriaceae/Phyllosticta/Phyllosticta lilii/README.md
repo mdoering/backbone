@@ -1,5 +1,4 @@
-Phyllosticta lilii Ellis & Dearn. SPECIES
-=======
+# Phyllosticta lilii Ellis & Dearn. SPECIES
 
 #### Status
 ACCEPTED

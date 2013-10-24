@@ -1,5 +1,4 @@
-Phragmothyrium fimbriatum Höhn. SPECIES
-=======
+# Phragmothyrium fimbriatum Höhn. SPECIES
 
 #### Status
 ACCEPTED

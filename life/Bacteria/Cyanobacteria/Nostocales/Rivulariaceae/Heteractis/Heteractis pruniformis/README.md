@@ -1,5 +1,4 @@
-Heteractis pruniformis Kützing SPECIES
-=======
+# Heteractis pruniformis Kützing SPECIES
 
 #### Status
 ACCEPTED

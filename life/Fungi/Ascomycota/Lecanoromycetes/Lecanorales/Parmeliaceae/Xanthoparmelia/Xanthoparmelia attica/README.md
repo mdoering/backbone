@@ -1,5 +1,4 @@
-Xanthoparmelia attica (Leuckert, Poelt & B. Schwarz) O. Blanco, A. Crespo, Elix, D. Hawksw. & Lumbsch SPECIES
-=======
+# Xanthoparmelia attica (Leuckert, Poelt & B. Schwarz) O. Blanco, A. Crespo, Elix, D. Hawksw. & Lumbsch SPECIES
 
 #### Status
 ACCEPTED

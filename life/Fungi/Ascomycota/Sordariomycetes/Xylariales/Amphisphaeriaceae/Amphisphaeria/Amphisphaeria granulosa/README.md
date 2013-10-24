@@ -1,5 +1,4 @@
-Amphisphaeria granulosa Ellis & Everh. SPECIES
-=======
+# Amphisphaeria granulosa Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

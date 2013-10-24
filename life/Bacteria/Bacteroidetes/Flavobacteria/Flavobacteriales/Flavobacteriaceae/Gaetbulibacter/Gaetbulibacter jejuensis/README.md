@@ -1,5 +1,4 @@
-Gaetbulibacter jejuensis Oh, Lim, Kahng, Yoon, Oh, Joa & Lee, 2010 SPECIES
-=======
+# Gaetbulibacter jejuensis Oh, Lim, Kahng, Yoon, Oh, Joa & Lee, 2010 SPECIES
 
 #### Status
 ACCEPTED

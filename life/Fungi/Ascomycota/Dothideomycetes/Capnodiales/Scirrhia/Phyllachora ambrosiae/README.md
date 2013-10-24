@@ -1,8 +1,7 @@
-Phyllachora physalosporoides Rehm, 1897 SPECIES
-=======
+# Phyllachora ambrosiae (Berk. & M.A. Curtis) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

@@ -1,5 +1,4 @@
-Ellisembia vaginata McKenzie, 1995 SPECIES
-=======
+# Ellisembia vaginata McKenzie, 1995 SPECIES
 
 #### Status
 ACCEPTED

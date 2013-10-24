@@ -1,5 +1,4 @@
-Gaillardiella caryocana Viégas SPECIES
-=======
+# Gaillardiella caryocana Viégas SPECIES
 
 #### Status
 ACCEPTED

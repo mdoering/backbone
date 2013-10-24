@@ -1,5 +1,4 @@
-Hydnum ridleyi Massee SPECIES
-=======
+# Hydnum ridleyi Massee SPECIES
 
 #### Status
 ACCEPTED

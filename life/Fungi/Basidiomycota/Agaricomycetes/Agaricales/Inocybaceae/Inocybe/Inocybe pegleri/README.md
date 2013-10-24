@@ -1,17 +1,16 @@
-Inocybe peglerii Sarwal SPECIES
-=======
+# Inocybe pegleri Sarwal SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biblthca Mycol. 91: 536 (1983)
 
 #### Original name
-Inocybe peglerii Sarwal
+Inocybe pegleri Sarwal
 
 ### Remarks
 null

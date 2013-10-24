@@ -1,5 +1,4 @@
-Alternaria protenta E.G. Simmons SPECIES
-=======
+# Alternaria protenta E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

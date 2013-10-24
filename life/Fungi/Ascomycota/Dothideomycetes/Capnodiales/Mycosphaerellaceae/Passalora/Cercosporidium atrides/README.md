@@ -1,5 +1,4 @@
-Cercosporidium atrides (Syd. & P. Syd.) Goh & W.H. Hsieh SPECIES
-=======
+# Cercosporidium atrides (Syd. & P. Syd.) Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

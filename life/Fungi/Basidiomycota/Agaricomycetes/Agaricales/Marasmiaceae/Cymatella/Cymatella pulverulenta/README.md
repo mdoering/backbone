@@ -1,5 +1,4 @@
-Cymatella pulverulenta (Berk. & M.A. Curtis) Pat. SPECIES
-=======
+# Cymatella pulverulenta (Berk. & M.A. Curtis) Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hemitrichia imperialis Lister SPECIES
-=======
+# Hemitrichia imperialis Lister SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus discordabilis Britzelm. SPECIES
-=======
+# Agaricus discordabilis Britzelm. SPECIES
 
 #### Status
 ACCEPTED

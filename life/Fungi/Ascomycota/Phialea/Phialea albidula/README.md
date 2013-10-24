@@ -1,5 +1,4 @@
-Phialea albidula (Hedw.) P. Karst. SPECIES
-=======
+# Phialea albidula (Hedw.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

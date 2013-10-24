@@ -1,5 +1,4 @@
-Corynespora heterospora J.M. Yen SPECIES
-=======
+# Corynespora heterospora J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

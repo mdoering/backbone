@@ -1,5 +1,4 @@
-Puccinia ipomoeae Cooke SPECIES
-=======
+# Puccinia ipomoeae Cooke SPECIES
 
 #### Status
 ACCEPTED

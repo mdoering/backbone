@@ -1,5 +1,4 @@
-Asterina nigerrima Ellis SPECIES
-=======
+# Asterina nigerrima Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tetracolium tuberculariae Link SPECIES
-=======
+# Tetracolium tuberculariae Link SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnosporangium tsingchenense C.T. Wei, 1947 SPECIES
-=======
+# Gymnosporangium tsingchenense C.T. Wei, 1947 SPECIES
 
 #### Status
 ACCEPTED

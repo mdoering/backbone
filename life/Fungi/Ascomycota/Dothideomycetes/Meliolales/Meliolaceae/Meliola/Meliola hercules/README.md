@@ -1,5 +1,4 @@
-Meliola hercules Höhn. SPECIES
-=======
+# Meliola hercules Höhn. SPECIES
 
 #### Status
 ACCEPTED

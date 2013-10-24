@@ -1,5 +1,4 @@
-Uredo merremiae Berndt SPECIES
-=======
+# Uredo merremiae Berndt SPECIES
 
 #### Status
 ACCEPTED

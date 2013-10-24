@@ -1,5 +1,4 @@
-Parmotrema yunnanum (Sheng L. Wang, J. B. Chen & Elix) Marcelli & Benatti SPECIES
-=======
+# Parmotrema yunnanum (Sheng L. Wang, J. B. Chen & Elix) Marcelli & Benatti SPECIES
 
 #### Status
 ACCEPTED

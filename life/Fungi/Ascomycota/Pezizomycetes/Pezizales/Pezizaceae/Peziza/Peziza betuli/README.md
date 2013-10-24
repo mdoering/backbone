@@ -1,5 +1,4 @@
-Peziza betuli Pers. SPECIES
-=======
+# Peziza betuli Pers. SPECIES
 
 #### Status
 ACCEPTED

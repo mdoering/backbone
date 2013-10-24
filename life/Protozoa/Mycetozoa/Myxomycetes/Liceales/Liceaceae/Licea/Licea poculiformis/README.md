@@ -1,5 +1,4 @@
-Licea poculiformis Ukkola, 1998 SPECIES
-=======
+# Licea poculiformis Ukkola, 1998 SPECIES
 
 #### Status
 ACCEPTED

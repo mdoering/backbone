@@ -1,5 +1,4 @@
-Hysterangium areolatum D.P. Tiwari, Harsch & B.K. Rai SPECIES
-=======
+# Hysterangium areolatum D.P. Tiwari, Harsch & B.K. Rai SPECIES
 
 #### Status
 ACCEPTED

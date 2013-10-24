@@ -1,5 +1,4 @@
-Katagnymene Lemmermann, 1899 GENUS
-=======
+# Katagnymene Lemmermann, 1899 GENUS
 
 #### Status
 ACCEPTED

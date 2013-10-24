@@ -1,5 +1,4 @@
-Byssolecania fumosonigricans (Müll. Arg.) R. Sant. SPECIES
-=======
+# Byssolecania fumosonigricans (Müll. Arg.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

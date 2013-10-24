@@ -1,5 +1,4 @@
-Ammodiscus arenaceus SPECIES
-=======
+# Ammodiscus arenaceus SPECIES
 
 #### Status
 ACCEPTED

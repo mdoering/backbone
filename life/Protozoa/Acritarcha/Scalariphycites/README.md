@@ -1,5 +1,4 @@
-Scalariphycites Ou-yang, Yin & Li, 1974 GENUS
-=======
+# Scalariphycites Ou-yang, Yin & Li, 1974 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entyloma kundmanniae Malençon & Massenot SPECIES
-=======
+# Entyloma kundmanniae Malençon & Massenot SPECIES
 
 #### Status
 ACCEPTED

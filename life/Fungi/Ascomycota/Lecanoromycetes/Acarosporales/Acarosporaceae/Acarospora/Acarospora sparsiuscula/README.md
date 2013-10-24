@@ -1,5 +1,4 @@
-Acarospora sparsiuscula H. Magn. SPECIES
-=======
+# Acarospora sparsiuscula H. Magn. SPECIES
 
 #### Status
 ACCEPTED

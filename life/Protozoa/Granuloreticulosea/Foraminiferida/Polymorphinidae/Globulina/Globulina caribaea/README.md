@@ -1,5 +1,4 @@
-Globulina caribaea SPECIES
-=======
+# Globulina caribaea SPECIES
 
 #### Status
 ACCEPTED

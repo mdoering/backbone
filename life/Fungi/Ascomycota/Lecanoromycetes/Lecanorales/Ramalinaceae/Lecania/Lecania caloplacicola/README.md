@@ -1,5 +1,4 @@
-Lecania caloplacicola B. D. Ryan & van den Boom SPECIES
-=======
+# Lecania caloplacicola B. D. Ryan & van den Boom SPECIES
 
 #### Status
 ACCEPTED

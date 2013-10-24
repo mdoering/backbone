@@ -1,5 +1,4 @@
-Boletus phaeocephalus Pat. & C.F. Baker SPECIES
-=======
+# Boletus phaeocephalus Pat. & C.F. Baker SPECIES
 
 #### Status
 ACCEPTED

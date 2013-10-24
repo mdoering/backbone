@@ -1,5 +1,4 @@
-Autoicomyces costaricensis (Thaxt.) I.I. Tav. SPECIES
-=======
+# Autoicomyces costaricensis (Thaxt.) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

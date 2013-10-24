@@ -1,5 +1,4 @@
-Schizoxylon graecum Höhn. SPECIES
-=======
+# Schizoxylon graecum Höhn. SPECIES
 
 #### Status
 ACCEPTED

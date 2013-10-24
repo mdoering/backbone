@@ -1,5 +1,4 @@
-Cortinarius pangloius M.M. Moser SPECIES
-=======
+# Cortinarius pangloius M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

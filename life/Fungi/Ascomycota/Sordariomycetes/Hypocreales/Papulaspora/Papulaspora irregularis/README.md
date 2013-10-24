@@ -1,5 +1,4 @@
-Papulaspora irregularis Hotson, 1912 SPECIES
-=======
+# Papulaspora irregularis Hotson, 1912 SPECIES
 
 #### Status
 ACCEPTED

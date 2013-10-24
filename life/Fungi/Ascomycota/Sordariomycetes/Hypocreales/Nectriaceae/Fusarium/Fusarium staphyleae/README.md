@@ -1,5 +1,4 @@
-Fusarium staphyleae Samuels & Rogerson SPECIES
-=======
+# Fusarium staphyleae Samuels & Rogerson SPECIES
 
 #### Status
 ACCEPTED

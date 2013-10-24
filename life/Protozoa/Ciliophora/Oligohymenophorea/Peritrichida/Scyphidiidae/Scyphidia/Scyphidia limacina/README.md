@@ -1,8 +1,7 @@
-Vorticella limacina Muller, 1773 SPECIES
-=======
+# Scyphidia limacina (Müller, 1773) Lachmann, 1856 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

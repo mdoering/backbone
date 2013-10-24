@@ -1,5 +1,4 @@
-Ascochyta allii-cepae Punith., Gladders & McKeown, 1985 SPECIES
-=======
+# Ascochyta allii-cepae Punith., Gladders & McKeown, 1985 SPECIES
 
 #### Status
 ACCEPTED

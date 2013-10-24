@@ -1,5 +1,4 @@
-Conidiobolus brefeldianus Couch, 1939 SPECIES
-=======
+# Conidiobolus brefeldianus Couch, 1939 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Exidiopsis macroacantha K. Wells SPECIES
-=======
+# Exidiopsis macroacantha K. Wells SPECIES
 
 #### Status
 ACCEPTED

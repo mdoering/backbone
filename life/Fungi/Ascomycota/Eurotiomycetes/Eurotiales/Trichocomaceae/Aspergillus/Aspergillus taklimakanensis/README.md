@@ -1,5 +1,4 @@
-Aspergillus taklimakanensis Abliz & Y. Horie SPECIES
-=======
+# Aspergillus taklimakanensis Abliz & Y. Horie SPECIES
 
 #### Status
 ACCEPTED

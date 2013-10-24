@@ -1,5 +1,4 @@
-Euglena laciniata Pringsheim SPECIES
-=======
+# Euglena laciniata Pringsheim SPECIES
 
 #### Status
 ACCEPTED

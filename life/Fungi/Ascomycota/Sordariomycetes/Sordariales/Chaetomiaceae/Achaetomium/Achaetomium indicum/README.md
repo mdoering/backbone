@@ -1,5 +1,4 @@
-Achaetomium indicum J.N. Rai & H.J. Chowdhery SPECIES
-=======
+# Achaetomium indicum J.N. Rai & H.J. Chowdhery SPECIES
 
 #### Status
 ACCEPTED

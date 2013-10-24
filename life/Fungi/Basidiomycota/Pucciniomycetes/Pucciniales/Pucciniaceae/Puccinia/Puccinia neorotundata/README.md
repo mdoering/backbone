@@ -1,5 +1,4 @@
-Puccinia neorotundata Cummins SPECIES
-=======
+# Puccinia neorotundata Cummins SPECIES
 
 #### Status
 ACCEPTED

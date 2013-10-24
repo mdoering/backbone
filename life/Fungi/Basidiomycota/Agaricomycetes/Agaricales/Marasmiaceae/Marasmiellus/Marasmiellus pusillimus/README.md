@@ -1,5 +1,4 @@
-Marasmiellus pusillimus Redhead & B. Liu SPECIES
-=======
+# Marasmiellus pusillimus Redhead & B. Liu SPECIES
 
 #### Status
 ACCEPTED

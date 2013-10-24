@@ -1,5 +1,4 @@
-Paramecium sinuosum Dumas, 1929 SPECIES
-=======
+# Paramecium sinuosum Dumas, 1929 SPECIES
 
 #### Status
 ACCEPTED

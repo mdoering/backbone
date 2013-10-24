@@ -1,5 +1,4 @@
-Psathyrella subumbrina Kits van Wav. & Örstadius SPECIES
-=======
+# Psathyrella subumbrina Kits van Wav. & Örstadius SPECIES
 
 #### Status
 ACCEPTED

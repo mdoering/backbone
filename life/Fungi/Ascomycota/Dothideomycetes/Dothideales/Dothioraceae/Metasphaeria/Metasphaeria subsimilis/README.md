@@ -1,5 +1,4 @@
-Metasphaeria subsimilis Schulzer & Sacc. SPECIES
-=======
+# Metasphaeria subsimilis Schulzer & Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora pereskiae O.L. Pereira & R.W. Barreto SPECIES
-=======
+# Pseudocercospora pereskiae O.L. Pereira & R.W. Barreto SPECIES
 
 #### Status
 ACCEPTED

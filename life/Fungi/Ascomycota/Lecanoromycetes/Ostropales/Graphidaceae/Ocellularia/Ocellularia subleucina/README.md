@@ -1,5 +1,4 @@
-Ocellularia subleucina Homchant. & Coppins SPECIES
-=======
+# Ocellularia subleucina Homchant. & Coppins SPECIES
 
 #### Status
 ACCEPTED

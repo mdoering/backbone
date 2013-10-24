@@ -1,5 +1,4 @@
-Lecidea atropallens Fr. SPECIES
-=======
+# Lecidea atropallens Fr. SPECIES
 
 #### Status
 ACCEPTED

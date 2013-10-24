@@ -1,5 +1,4 @@
-Parmelia regis-matthiae Gyeln. SPECIES
-=======
+# Parmelia regis-matthiae Gyeln. SPECIES
 
 #### Status
 ACCEPTED

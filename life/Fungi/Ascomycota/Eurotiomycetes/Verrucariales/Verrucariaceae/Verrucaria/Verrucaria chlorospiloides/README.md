@@ -1,5 +1,4 @@
-Verrucaria chlorospiloides Nyl. SPECIES
-=======
+# Verrucaria chlorospiloides Nyl. SPECIES
 
 #### Status
 ACCEPTED

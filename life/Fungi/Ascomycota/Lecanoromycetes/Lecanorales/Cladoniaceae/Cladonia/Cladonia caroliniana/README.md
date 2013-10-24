@@ -1,5 +1,4 @@
-Cladonia caroliniana f. caroliniana FORM
-=======
+# Cladonia caroliniana (Schwein.) Tuck. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Cat. Lich. Univers. 4: 458
+null
 
 #### Original name
-Cladonia caroliniana f. caroliniana
+null
 
 ### Remarks
 null

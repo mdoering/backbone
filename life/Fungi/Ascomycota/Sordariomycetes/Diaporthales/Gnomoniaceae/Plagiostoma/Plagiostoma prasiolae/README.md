@@ -1,5 +1,4 @@
-Plagiostoma prasiolae (G. Winter) Clauzade, Diederich & Cl. Roux SPECIES
-=======
+# Plagiostoma prasiolae (G. Winter) Clauzade, Diederich & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

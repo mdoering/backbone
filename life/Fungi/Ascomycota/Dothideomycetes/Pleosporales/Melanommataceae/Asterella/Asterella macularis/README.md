@@ -1,5 +1,4 @@
-Asterella macularis Syd. SPECIES
-=======
+# Asterella macularis Syd. SPECIES
 
 #### Status
 ACCEPTED

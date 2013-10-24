@@ -1,5 +1,4 @@
-Asteridiella malloticola (W. Yamam.) Hansf. SPECIES
-=======
+# Asteridiella malloticola (W. Yamam.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

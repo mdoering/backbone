@@ -1,5 +1,4 @@
-Amphileptus fusiformis SPECIES
-=======
+# Amphileptus fusiformis SPECIES
 
 #### Status
 ACCEPTED

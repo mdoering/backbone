@@ -1,5 +1,4 @@
-Uredo frankeniae Mont. SPECIES
-=======
+# Uredo frankeniae Mont. SPECIES
 
 #### Status
 ACCEPTED

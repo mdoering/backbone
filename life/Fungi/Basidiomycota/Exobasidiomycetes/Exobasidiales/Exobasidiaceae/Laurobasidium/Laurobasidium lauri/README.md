@@ -1,14 +1,13 @@
-Exobasidium lauri Geyl., 1874 SPECIES
-=======
+# Laurobasidium lauri (Geyl.) Jülich, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Ztg. (1874)
+Int. J. Mycol. Lichenol. 1(1): 118 (1982)
 
 #### Original name
 Exobasidium lauri Geyl., 1874

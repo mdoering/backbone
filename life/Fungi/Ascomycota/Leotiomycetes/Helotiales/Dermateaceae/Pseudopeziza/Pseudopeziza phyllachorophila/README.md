@@ -1,5 +1,4 @@
-Pseudopeziza phyllachorophila Speg. SPECIES
-=======
+# Pseudopeziza phyllachorophila Speg. SPECIES
 
 #### Status
 ACCEPTED

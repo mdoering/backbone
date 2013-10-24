@@ -1,5 +1,4 @@
-Irenina myricicola Hansf. SPECIES
-=======
+# Irenina myricicola Hansf. SPECIES
 
 #### Status
 ACCEPTED

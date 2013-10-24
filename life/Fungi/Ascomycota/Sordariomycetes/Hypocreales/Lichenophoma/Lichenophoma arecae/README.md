@@ -1,5 +1,4 @@
-Lichenophoma arecae Sawada SPECIES
-=======
+# Lichenophoma arecae Sawada SPECIES
 
 #### Status
 ACCEPTED

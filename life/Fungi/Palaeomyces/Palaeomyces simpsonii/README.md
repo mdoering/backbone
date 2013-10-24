@@ -1,17 +1,16 @@
-Palaeomyces simpsoni Kidst. & W.H. Lang SPECIES
-=======
+# Palaeomyces simpsonii Kidst. & W.H. Lang SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Trans. R. Soc. Edinb. 52(4): 869 + pl. 4, figs 45-47 (1921)
 
 #### Original name
-Palaeomyces simpsoni Kidst. & W.H. Lang
+Palaeomyces simpsonii Kidst. & W.H. Lang
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Meliola melicopes Petr. SPECIES
-=======
+# Meliola melicopes Petr. SPECIES
 
 #### Status
 ACCEPTED

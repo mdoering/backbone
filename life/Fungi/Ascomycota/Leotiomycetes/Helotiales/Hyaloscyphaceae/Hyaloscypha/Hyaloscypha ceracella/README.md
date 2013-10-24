@@ -1,5 +1,4 @@
-Hyaloscypha ceracella (Fr.) Boud. SPECIES
-=======
+# Hyaloscypha ceracella (Fr.) Boud. SPECIES
 
 #### Status
 ACCEPTED

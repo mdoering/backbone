@@ -1,5 +1,4 @@
-Cladonia subsetacea Robbins ex A. Evans SPECIES
-=======
+# Cladonia subsetacea Robbins ex A. Evans SPECIES
 
 #### Status
 ACCEPTED

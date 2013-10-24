@@ -1,5 +1,4 @@
-Rhizoctonia aerea Burgeff SPECIES
-=======
+# Rhizoctonia aerea Burgeff SPECIES
 
 #### Status
 ACCEPTED

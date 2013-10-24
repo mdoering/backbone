@@ -1,5 +1,4 @@
-Puccinia isoderma Lindr. SPECIES
-=======
+# Puccinia isoderma Lindr. SPECIES
 
 #### Status
 ACCEPTED

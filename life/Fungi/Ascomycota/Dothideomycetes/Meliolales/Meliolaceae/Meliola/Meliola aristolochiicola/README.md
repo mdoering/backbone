@@ -1,5 +1,4 @@
-Meliola aristolochiicola F. Stevens SPECIES
-=======
+# Meliola aristolochiicola F. Stevens SPECIES
 
 #### Status
 ACCEPTED

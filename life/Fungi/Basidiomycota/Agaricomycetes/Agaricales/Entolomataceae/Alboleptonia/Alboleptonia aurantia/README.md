@@ -1,5 +1,4 @@
-Alboleptonia aurantia Manim. & Leelav. SPECIES
-=======
+# Alboleptonia aurantia Manim. & Leelav. SPECIES
 
 #### Status
 ACCEPTED

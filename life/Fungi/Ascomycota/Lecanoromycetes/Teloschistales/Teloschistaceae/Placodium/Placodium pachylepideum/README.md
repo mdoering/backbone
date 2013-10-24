@@ -1,5 +1,4 @@
-Placodium pachylepideum (Hellb.) Hellb. SPECIES
-=======
+# Placodium pachylepideum (Hellb.) Hellb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Wuestneia campanulata Z.Q. Yuan SPECIES
-=======
+# Wuestneia campanulata Z.Q. Yuan SPECIES
 
 #### Status
 ACCEPTED

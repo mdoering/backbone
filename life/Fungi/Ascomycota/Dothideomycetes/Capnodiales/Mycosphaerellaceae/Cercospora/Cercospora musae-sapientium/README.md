@@ -1,17 +1,16 @@
-Cercospora musae-sapienti A.K. Kar & M. Mandal SPECIES
-=======
+# Cercospora musae-sapientium A.K. Kar & M. Mandal SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Norw. Jl Bot. 22(2): 105 (1975)
 
 #### Original name
-Cercospora musae-sapienti A.K. Kar & M. Mandal
+Cercospora musae-sapientium A.K. Kar & M. Mandal
 
 ### Remarks
 null

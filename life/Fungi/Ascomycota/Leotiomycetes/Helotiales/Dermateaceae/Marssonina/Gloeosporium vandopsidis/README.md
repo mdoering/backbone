@@ -1,5 +1,4 @@
-Gloeosporium vandopsidis Keissl. SPECIES
-=======
+# Gloeosporium vandopsidis Keissl. SPECIES
 
 #### Status
 ACCEPTED

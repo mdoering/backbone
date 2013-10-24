@@ -1,5 +1,4 @@
-Pseudokeronopsis ovata SPECIES
-=======
+# Pseudokeronopsis ovata SPECIES
 
 #### Status
 ACCEPTED

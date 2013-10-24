@@ -1,5 +1,4 @@
-Coprinus cupulatus Jacobashch SPECIES
-=======
+# Coprinus cupulatus Jacobashch SPECIES
 
 #### Status
 ACCEPTED

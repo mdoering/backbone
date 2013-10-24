@@ -1,5 +1,4 @@
-Coryne glomerata Velen. SPECIES
-=======
+# Coryne glomerata Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stereum amigenatska Henn. SPECIES
-=======
+# Stereum amigenatska Henn. SPECIES
 
 #### Status
 ACCEPTED

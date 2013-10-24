@@ -1,5 +1,4 @@
-Periconiella santaloidis M.B. Ellis SPECIES
-=======
+# Periconiella santaloidis M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

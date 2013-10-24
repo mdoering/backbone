@@ -1,5 +1,4 @@
-Laboulbenia heimansii Jeekel SPECIES
-=======
+# Laboulbenia heimansii Jeekel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeronaema oxysporum Berk. SPECIES
-=======
+# Sphaeronaema oxysporum Berk. SPECIES
 
 #### Status
 ACCEPTED

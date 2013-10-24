@@ -1,5 +1,4 @@
-Septoria flammulae Pass. SPECIES
-=======
+# Septoria flammulae Pass. SPECIES
 
 #### Status
 ACCEPTED

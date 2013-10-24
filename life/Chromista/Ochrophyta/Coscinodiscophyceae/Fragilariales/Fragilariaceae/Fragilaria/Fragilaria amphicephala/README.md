@@ -1,5 +1,4 @@
-Fragilaria amphicephala (Kützing) Lange-Bertalot in Krammer & Lange-Bertalot SPECIES
-=======
+# Fragilaria amphicephala (Kützing) Lange-Bertalot in Krammer & Lange-Bertalot SPECIES
 
 #### Status
 ACCEPTED

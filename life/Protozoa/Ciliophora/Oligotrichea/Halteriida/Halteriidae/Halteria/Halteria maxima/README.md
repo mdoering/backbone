@@ -1,5 +1,4 @@
-Halteria maxima Szabó, 1934 SPECIES
-=======
+# Halteria maxima Szabó, 1934 SPECIES
 
 #### Status
 ACCEPTED

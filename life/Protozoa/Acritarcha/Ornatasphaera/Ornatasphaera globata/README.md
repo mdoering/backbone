@@ -1,5 +1,4 @@
-Ornatasphaera globata Saxena et al., 1982 SPECIES
-=======
+# Ornatasphaera globata Saxena et al., 1982 SPECIES
 
 #### Status
 ACCEPTED

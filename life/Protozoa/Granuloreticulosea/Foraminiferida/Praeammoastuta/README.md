@@ -1,5 +1,4 @@
-Praeammoastuta Bursch, 1952 GENUS
-=======
+# Praeammoastuta Bursch, 1952 GENUS
 
 #### Status
 ACCEPTED

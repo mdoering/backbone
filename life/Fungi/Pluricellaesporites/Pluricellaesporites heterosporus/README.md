@@ -1,5 +1,4 @@
-Pluricellaesporites heterosporus (Sal.-Cheb. & Locq.) Kalgutkar & Janson. SPECIES
-=======
+# Pluricellaesporites heterosporus (Sal.-Cheb. & Locq.) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

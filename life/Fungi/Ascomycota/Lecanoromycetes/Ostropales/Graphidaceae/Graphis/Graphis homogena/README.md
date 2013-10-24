@@ -1,5 +1,4 @@
-Graphis homogena Nyl. SPECIES
-=======
+# Graphis homogena Nyl. SPECIES
 
 #### Status
 ACCEPTED

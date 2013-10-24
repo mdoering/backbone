@@ -1,5 +1,4 @@
-Calicium fagineum Schumach. SPECIES
-=======
+# Calicium fagineum Schumach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clavaria baileyi Massee SPECIES
-=======
+# Clavaria baileyi Massee SPECIES
 
 #### Status
 ACCEPTED

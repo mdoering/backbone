@@ -1,5 +1,4 @@
-Passalora lobeliae-cardinalis (Schwein.) U. Braun & Crous SPECIES
-=======
+# Passalora lobeliae-cardinalis (Schwein.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

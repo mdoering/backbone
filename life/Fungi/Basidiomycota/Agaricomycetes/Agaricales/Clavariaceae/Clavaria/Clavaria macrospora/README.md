@@ -1,5 +1,4 @@
-Clavaria macrospora Britzelm. SPECIES
-=======
+# Clavaria macrospora Britzelm. SPECIES
 
 #### Status
 ACCEPTED

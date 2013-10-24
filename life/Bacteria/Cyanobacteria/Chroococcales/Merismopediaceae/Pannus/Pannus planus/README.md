@@ -1,5 +1,4 @@
-Pannus planus F. Hindák SPECIES
-=======
+# Pannus planus F. Hindák SPECIES
 
 #### Status
 ACCEPTED

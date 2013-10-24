@@ -1,5 +1,4 @@
-Lanzia huangshanica f. huangshanica FORM
-=======
+# Lanzia huangshanica W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Mycosystema 7: 13 (1995)
 
 #### Original name
-Lanzia huangshanica f. huangshanica
+Lanzia huangshanica W.Y. Zhuang
 
 ### Remarks
 null

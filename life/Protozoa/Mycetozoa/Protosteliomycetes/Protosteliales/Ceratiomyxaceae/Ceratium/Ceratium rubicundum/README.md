@@ -1,5 +1,4 @@
-Ceratium rubicundum Ehrenb. SPECIES
-=======
+# Ceratium rubicundum Ehrenb. SPECIES
 
 #### Status
 ACCEPTED

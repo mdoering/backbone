@@ -1,5 +1,4 @@
-Sphaerella radiata Ranoj. SPECIES
-=======
+# Sphaerella radiata Ranoj. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeronaema rhamni Sacc. SPECIES
-=======
+# Sphaeronaema rhamni Sacc. SPECIES
 
 #### Status
 ACCEPTED

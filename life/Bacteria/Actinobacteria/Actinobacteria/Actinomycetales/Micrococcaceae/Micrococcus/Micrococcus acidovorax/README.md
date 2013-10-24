@@ -1,5 +1,4 @@
-Micrococcus acidovorax SPECIES
-=======
+# Micrococcus acidovorax SPECIES
 
 #### Status
 ACCEPTED

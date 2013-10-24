@@ -1,5 +1,4 @@
-Dermatocarpon tenue (Müll. Arg.) Heiðmarsson SPECIES
-=======
+# Dermatocarpon tenue (Müll. Arg.) Heiðmarsson SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aschersonia simplex Petch SPECIES
-=======
+# Aschersonia simplex Petch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Crocynia cerebrina Hue SPECIES
-=======
+# Crocynia cerebrina Hue SPECIES
 
 #### Status
 ACCEPTED

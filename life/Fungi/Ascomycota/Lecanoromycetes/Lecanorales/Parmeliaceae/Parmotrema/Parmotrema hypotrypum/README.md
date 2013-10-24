@@ -1,17 +1,16 @@
-Parmelia hypotrypa var. hypotrypa Nyl. VARIETY
-=======
+# Parmotrema hypotrypum (Nyl.) Hale SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Parmelia hypotrypa var. hypotrypa Nyl.
+null
 
 ### Remarks
 null

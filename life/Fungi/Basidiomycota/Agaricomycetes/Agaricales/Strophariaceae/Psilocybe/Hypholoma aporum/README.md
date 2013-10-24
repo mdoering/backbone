@@ -1,5 +1,4 @@
-Hypholoma aporum Pegler SPECIES
-=======
+# Hypholoma aporum Pegler SPECIES
 
 #### Status
 ACCEPTED

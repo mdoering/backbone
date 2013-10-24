@@ -1,5 +1,4 @@
-Pyrenula hagmannii Redinger SPECIES
-=======
+# Pyrenula hagmannii Redinger SPECIES
 
 #### Status
 ACCEPTED

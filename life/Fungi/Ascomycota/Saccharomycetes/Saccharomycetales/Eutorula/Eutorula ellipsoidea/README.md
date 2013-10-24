@@ -1,5 +1,4 @@
-Eutorula ellipsoidea Preyer SPECIES
-=======
+# Eutorula ellipsoidea Preyer SPECIES
 
 #### Status
 ACCEPTED

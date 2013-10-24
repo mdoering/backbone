@@ -1,5 +1,4 @@
-Phoma speschnevii Frolov SPECIES
-=======
+# Phoma speschnevii Frolov SPECIES
 
 #### Status
 ACCEPTED

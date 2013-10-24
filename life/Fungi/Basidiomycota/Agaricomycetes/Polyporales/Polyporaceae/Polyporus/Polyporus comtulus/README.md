@@ -1,5 +1,4 @@
-Polyporus comtulus (Berk.) Sacc. SPECIES
-=======
+# Polyporus comtulus (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

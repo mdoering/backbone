@@ -1,17 +1,16 @@
-Molleriella erlangeae Hansf. SPECIES
-=======
+# Moelleriella erlangeae Hansf. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Proc. Linn. Soc. London 158: 28 (1947)
 
 #### Original name
-Molleriella erlangeae Hansf.
+Moelleriella erlangeae Hansf.
 
 ### Remarks
 null

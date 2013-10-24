@@ -1,5 +1,4 @@
-Coccostromopsis bumbusae Sawada SPECIES
-=======
+# Coccostromopsis bumbusae Sawada SPECIES
 
 #### Status
 ACCEPTED

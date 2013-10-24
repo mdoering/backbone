@@ -1,5 +1,4 @@
-Bacillus psychrosaccharolyticus (ex Larkin & Stokes, 1967) Priest et al., 1989 SPECIES
-=======
+# Bacillus psychrosaccharolyticus (ex Larkin & Stokes, 1967) Priest et al., 1989 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepiota brinkmannii Rick SPECIES
-=======
+# Lepiota brinkmannii Rick SPECIES
 
 #### Status
 ACCEPTED

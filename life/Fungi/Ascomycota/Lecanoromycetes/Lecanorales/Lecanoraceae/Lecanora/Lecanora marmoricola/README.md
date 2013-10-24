@@ -1,5 +1,4 @@
-Lecanora marmoricola (Hue) Zahlbr. SPECIES
-=======
+# Lecanora marmoricola (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

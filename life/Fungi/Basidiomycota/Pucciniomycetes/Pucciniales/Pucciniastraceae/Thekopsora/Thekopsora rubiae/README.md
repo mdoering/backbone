@@ -1,5 +1,4 @@
-Thekopsora rubiae Kom. SPECIES
-=======
+# Thekopsora rubiae Kom. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta erodii Speg. SPECIES
-=======
+# Phyllosticta erodii Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichosporum stelligerum Speg. SPECIES
-=======
+# Trichosporum stelligerum Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia macbrideana Cummins SPECIES
-=======
+# Puccinia macbrideana Cummins SPECIES
 
 #### Status
 ACCEPTED

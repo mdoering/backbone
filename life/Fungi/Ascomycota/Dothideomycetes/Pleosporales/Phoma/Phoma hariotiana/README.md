@@ -1,5 +1,4 @@
-Phoma hariotiana G. Winter SPECIES
-=======
+# Phoma hariotiana G. Winter SPECIES
 
 #### Status
 ACCEPTED

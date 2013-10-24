@@ -1,5 +1,4 @@
-Diplodia arengocarpa Sacc. SPECIES
-=======
+# Diplodia arengocarpa Sacc. SPECIES
 
 #### Status
 ACCEPTED

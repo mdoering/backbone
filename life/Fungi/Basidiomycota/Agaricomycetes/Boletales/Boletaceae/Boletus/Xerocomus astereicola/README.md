@@ -1,5 +1,4 @@
-Xerocomus astereicola SPECIES
-=======
+# Xerocomus astereicola SPECIES
 
 #### Status
 ACCEPTED

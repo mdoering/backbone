@@ -1,5 +1,4 @@
-Buellia subfrigida May. Inoue SPECIES
-=======
+# Buellia subfrigida May. Inoue SPECIES
 
 #### Status
 ACCEPTED

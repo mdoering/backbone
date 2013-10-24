@@ -1,5 +1,4 @@
-Speiropsis hyalospora Subram. & Lodha SPECIES
-=======
+# Speiropsis hyalospora Subram. & Lodha SPECIES
 
 #### Status
 ACCEPTED

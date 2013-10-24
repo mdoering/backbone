@@ -1,5 +1,4 @@
-Fusarium fuscum (Bonord.) Sacc. SPECIES
-=======
+# Fusarium fuscum (Bonord.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

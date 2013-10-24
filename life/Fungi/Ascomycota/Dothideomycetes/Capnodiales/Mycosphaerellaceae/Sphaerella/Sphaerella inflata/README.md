@@ -1,5 +1,4 @@
-Sphaerella inflata Penz. SPECIES
-=======
+# Sphaerella inflata Penz. SPECIES
 
 #### Status
 ACCEPTED

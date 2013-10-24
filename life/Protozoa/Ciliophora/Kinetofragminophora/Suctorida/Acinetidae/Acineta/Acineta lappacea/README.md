@@ -1,5 +1,4 @@
-Acineta lappacea Stokes, 1885 SPECIES
-=======
+# Acineta lappacea Stokes, 1885 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Janetia refugia B. Sutton & Pascoe SPECIES
-=======
+# Janetia refugia B. Sutton & Pascoe SPECIES
 
 #### Status
 ACCEPTED

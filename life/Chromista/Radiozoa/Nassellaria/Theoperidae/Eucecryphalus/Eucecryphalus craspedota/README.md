@@ -1,5 +1,4 @@
-Eucecryphalus craspedota (Joergensen) Petrushevskaya & Bjoerklund, 1974 SPECIES
-=======
+# Eucecryphalus craspedota (Joergensen) Petrushevskaya & Bjoerklund, 1974 SPECIES
 
 #### Status
 ACCEPTED

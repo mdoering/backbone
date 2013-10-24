@@ -1,5 +1,4 @@
-Striatotheca sanduensis Xu Wanhong, 1996 SPECIES
-=======
+# Striatotheca sanduensis Xu Wanhong, 1996 SPECIES
 
 #### Status
 ACCEPTED

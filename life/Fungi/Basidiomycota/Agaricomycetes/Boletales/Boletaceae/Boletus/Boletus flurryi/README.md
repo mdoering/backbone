@@ -1,5 +1,4 @@
-Boletus flurryi (Huijsman) SPECIES
-=======
+# Boletus flurryi (Huijsman) SPECIES
 
 #### Status
 ACCEPTED

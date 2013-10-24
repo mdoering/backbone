@@ -1,5 +1,4 @@
-Hebeloma tomoeae S. Imai SPECIES
-=======
+# Hebeloma tomoeae S. Imai SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Euplotes margherensis SPECIES
-=======
+# Euplotes margherensis SPECIES
 
 #### Status
 ACCEPTED

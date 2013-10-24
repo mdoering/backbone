@@ -1,5 +1,4 @@
-Compsomyces stilicopsis Thaxt., 1931 SPECIES
-=======
+# Compsomyces stilicopsis Thaxt., 1931 SPECIES
 
 #### Status
 ACCEPTED

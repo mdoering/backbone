@@ -1,5 +1,4 @@
-Nannoconus vocontiensis Deres & Achéritéguy, 1980 SPECIES
-=======
+# Nannoconus vocontiensis Deres & Achéritéguy, 1980 SPECIES
 
 #### Status
 ACCEPTED

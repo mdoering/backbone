@@ -1,5 +1,4 @@
-Lachnum corylinum Velen. SPECIES
-=======
+# Lachnum corylinum Velen. SPECIES
 
 #### Status
 ACCEPTED

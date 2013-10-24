@@ -1,5 +1,4 @@
-Phoma triacanthi Oudem. SPECIES
-=======
+# Phoma triacanthi Oudem. SPECIES
 
 #### Status
 ACCEPTED

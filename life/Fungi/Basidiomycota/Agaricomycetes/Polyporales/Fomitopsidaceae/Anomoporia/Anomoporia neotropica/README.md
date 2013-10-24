@@ -1,5 +1,4 @@
-Anomoporia neotropica Ryvarden SPECIES
-=======
+# Anomoporia neotropica Ryvarden SPECIES
 
 #### Status
 ACCEPTED

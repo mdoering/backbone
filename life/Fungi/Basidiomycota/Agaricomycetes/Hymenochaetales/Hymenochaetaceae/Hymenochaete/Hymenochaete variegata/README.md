@@ -1,14 +1,13 @@
-Stereum variegatum (Bres.) Lloyd, 1925 SPECIES
-=======
+# Hymenochaete variegata Bres., 1915 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Writ. 7: 1337 (1925)
+Hedwigia, Beibl. 56: 301 (1915)
 
 #### Original name
 Hymenochaete variegata Bres., 1915

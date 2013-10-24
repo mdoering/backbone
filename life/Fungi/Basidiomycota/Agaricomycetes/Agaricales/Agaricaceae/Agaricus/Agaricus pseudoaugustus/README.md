@@ -1,5 +1,4 @@
-Agaricus pseudoaugustus Raithelh. SPECIES
-=======
+# Agaricus pseudoaugustus Raithelh. SPECIES
 
 #### Status
 ACCEPTED

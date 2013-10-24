@@ -1,5 +1,4 @@
-Arthrobotryum ingae Henn. SPECIES
-=======
+# Arthrobotryum ingae Henn. SPECIES
 
 #### Status
 ACCEPTED

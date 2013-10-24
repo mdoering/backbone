@@ -1,5 +1,4 @@
-Rimularia caeca (J. Lowe) Rambold & Printzen SPECIES
-=======
+# Rimularia caeca (J. Lowe) Rambold & Printzen SPECIES
 
 #### Status
 ACCEPTED

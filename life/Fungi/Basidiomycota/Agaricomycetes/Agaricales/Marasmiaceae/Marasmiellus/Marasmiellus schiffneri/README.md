@@ -1,5 +1,4 @@
-Marasmiellus schiffneri (Bres.) Singer SPECIES
-=======
+# Marasmiellus schiffneri (Bres.) Singer SPECIES
 
 #### Status
 ACCEPTED

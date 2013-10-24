@@ -1,5 +1,4 @@
-Fumagospora G. Arnaud GENUS
-=======
+# Fumagospora G. Arnaud GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parathalmanninella Lipson-Benitah, 2008 GENUS
-=======
+# Parathalmanninella Lipson-Benitah, 2008 GENUS
 
 #### Status
 ACCEPTED

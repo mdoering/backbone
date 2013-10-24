@@ -1,5 +1,4 @@
-Botryobasidium asterosporum G. Langer, 1994 SPECIES
-=======
+# Botryobasidium asterosporum G. Langer, 1994 SPECIES
 
 #### Status
 ACCEPTED

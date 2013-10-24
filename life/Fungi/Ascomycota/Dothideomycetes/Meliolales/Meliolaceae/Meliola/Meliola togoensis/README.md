@@ -1,5 +1,4 @@
-Meliola togoensis S. Hughes SPECIES
-=======
+# Meliola togoensis S. Hughes SPECIES
 
 #### Status
 ACCEPTED

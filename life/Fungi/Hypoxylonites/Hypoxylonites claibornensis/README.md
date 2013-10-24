@@ -1,5 +1,4 @@
-Hypoxylonites claibornensis Elsik SPECIES
-=======
+# Hypoxylonites claibornensis Elsik SPECIES
 
 #### Status
 ACCEPTED

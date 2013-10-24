@@ -1,14 +1,13 @@
-Polyporus palustris Berk. & M.A. Curtis, 1872 SPECIES
-=======
+# Fomitopsis palustris (Berk. & M.A. Curtis) Gilb. & Ryvarden, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Berkeley, Grevillea 1(no. 4): 51 (1872)
+Mycotaxon 22(2): 364 (1985)
 
 #### Original name
 Polyporus palustris Berk. & M.A. Curtis, 1872

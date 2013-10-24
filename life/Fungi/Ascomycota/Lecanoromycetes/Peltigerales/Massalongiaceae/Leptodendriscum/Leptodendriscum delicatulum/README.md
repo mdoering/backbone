@@ -1,5 +1,4 @@
-Leptodendriscum delicatulum Vain. SPECIES
-=======
+# Leptodendriscum delicatulum Vain. SPECIES
 
 #### Status
 ACCEPTED

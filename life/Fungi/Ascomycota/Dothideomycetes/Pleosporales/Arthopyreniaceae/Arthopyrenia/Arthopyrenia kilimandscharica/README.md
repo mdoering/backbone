@@ -1,5 +1,4 @@
-Arthopyrenia kilimandscharica Zahlbr. SPECIES
-=======
+# Arthopyrenia kilimandscharica Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

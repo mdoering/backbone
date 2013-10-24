@@ -1,5 +1,4 @@
-Reticularia angulata Pers. SPECIES
-=======
+# Reticularia angulata Pers. SPECIES
 
 #### Status
 ACCEPTED

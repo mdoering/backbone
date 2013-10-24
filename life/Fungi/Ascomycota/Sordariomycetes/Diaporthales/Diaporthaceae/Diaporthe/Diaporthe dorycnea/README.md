@@ -1,5 +1,4 @@
-Diaporthe dorycnea Fabre SPECIES
-=======
+# Diaporthe dorycnea Fabre SPECIES
 
 #### Status
 ACCEPTED

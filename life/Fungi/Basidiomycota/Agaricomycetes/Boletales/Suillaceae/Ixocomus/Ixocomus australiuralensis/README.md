@@ -1,5 +1,4 @@
-Ixocomus australiuralensis Vassilkov SPECIES
-=======
+# Ixocomus australiuralensis Vassilkov SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora mandira S. Chowdhury SPECIES
-=======
+# Cercospora mandira S. Chowdhury SPECIES
 
 #### Status
 ACCEPTED

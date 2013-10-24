@@ -1,5 +1,4 @@
-Clathrococcum GENUS
-=======
+# Clathrococcum GENUS
 
 #### Status
 ACCEPTED

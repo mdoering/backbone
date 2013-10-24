@@ -1,5 +1,4 @@
-Rhabdolithus rudis Bramlette & Sullivan, 1961 SPECIES
-=======
+# Rhabdolithus rudis Bramlette & Sullivan, 1961 SPECIES
 
 #### Status
 ACCEPTED

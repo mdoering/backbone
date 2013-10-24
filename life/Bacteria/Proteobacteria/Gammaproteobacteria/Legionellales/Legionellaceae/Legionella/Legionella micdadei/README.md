@@ -1,8 +1,7 @@
-Tatlockia micdadei Garrity et al., 1980 SPECIES
-=======
+# Legionella micdadei Hébert et al., 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

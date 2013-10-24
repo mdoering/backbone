@@ -1,5 +1,4 @@
-Hypogymnia pruinosa J.C. Wei & Y.M. Jiang SPECIES
-=======
+# Hypogymnia pruinosa J.C. Wei & Y.M. Jiang SPECIES
 
 #### Status
 ACCEPTED

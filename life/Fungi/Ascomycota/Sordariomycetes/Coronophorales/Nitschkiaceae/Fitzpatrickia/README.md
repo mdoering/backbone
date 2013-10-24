@@ -1,5 +1,4 @@
-Fitzpatrickia GENUS
-=======
+# Fitzpatrickia GENUS
 
 #### Status
 ACCEPTED

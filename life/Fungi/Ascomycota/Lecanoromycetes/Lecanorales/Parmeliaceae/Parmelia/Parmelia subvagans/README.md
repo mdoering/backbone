@@ -1,5 +1,4 @@
-Parmelia subvagans Gyeln. SPECIES
-=======
+# Parmelia subvagans Gyeln. SPECIES
 
 #### Status
 ACCEPTED

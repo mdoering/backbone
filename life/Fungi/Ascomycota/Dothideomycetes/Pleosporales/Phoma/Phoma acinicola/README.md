@@ -1,5 +1,4 @@
-Phoma acinicola Speg. SPECIES
-=======
+# Phoma acinicola Speg. SPECIES
 
 #### Status
 ACCEPTED

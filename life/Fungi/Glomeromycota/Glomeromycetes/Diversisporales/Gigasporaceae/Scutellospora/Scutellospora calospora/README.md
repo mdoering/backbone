@@ -1,14 +1,13 @@
-Gigaspora calospora (T.H. Nicolson & Gerd.) Gerd. & Trappe, 1974 SPECIES
-=======
+# Scutellospora calospora (T.H. Nicolson & Gerd.) C. Walker & F.E. Sanders, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Mem. 5: 28 (1974)
+Mycotaxon 27: 180 (1986)
 
 #### Original name
 Endogone calospora T.H. Nicolson & Gerd., 1968

@@ -1,5 +1,4 @@
-Septoria pingrae Speg. SPECIES
-=======
+# Septoria pingrae Speg. SPECIES
 
 #### Status
 ACCEPTED

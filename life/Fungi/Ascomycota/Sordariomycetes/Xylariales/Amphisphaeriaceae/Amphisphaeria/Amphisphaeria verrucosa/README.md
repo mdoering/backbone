@@ -1,5 +1,4 @@
-Amphisphaeria verrucosa Urries SPECIES
-=======
+# Amphisphaeria verrucosa Urries SPECIES
 
 #### Status
 ACCEPTED

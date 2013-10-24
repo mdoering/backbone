@@ -1,5 +1,4 @@
-Biatorella leptospora (Nyl.) Zahlbr. SPECIES
-=======
+# Biatorella leptospora (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

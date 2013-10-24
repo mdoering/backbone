@@ -1,5 +1,4 @@
-Micropuccinia andina (Dietel & Neger) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia andina (Dietel & Neger) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

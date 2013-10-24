@@ -1,5 +1,4 @@
-Cortinarius arcanus G. Moreno, Heykoop & E. Horak SPECIES
-=======
+# Cortinarius arcanus G. Moreno, Heykoop & E. Horak SPECIES
 
 #### Status
 ACCEPTED

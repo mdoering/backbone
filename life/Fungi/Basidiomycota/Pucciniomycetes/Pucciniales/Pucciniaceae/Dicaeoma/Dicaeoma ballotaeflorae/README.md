@@ -1,5 +1,4 @@
-Dicaeoma ballotaeflorae (Long) Arthur SPECIES
-=======
+# Dicaeoma ballotaeflorae (Long) Arthur SPECIES
 
 #### Status
 ACCEPTED

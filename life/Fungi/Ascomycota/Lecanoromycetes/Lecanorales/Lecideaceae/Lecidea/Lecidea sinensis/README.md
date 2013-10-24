@@ -1,5 +1,4 @@
-Lecidea sinensis H. Magn. SPECIES
-=======
+# Lecidea sinensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hystrichosphaera furcata (Ehrenberg) O. Wetzel, 1933 SPECIES
-=======
+# Hystrichosphaera furcata (Ehrenberg) O. Wetzel, 1933 SPECIES
 
 #### Status
 DOUBTFUL

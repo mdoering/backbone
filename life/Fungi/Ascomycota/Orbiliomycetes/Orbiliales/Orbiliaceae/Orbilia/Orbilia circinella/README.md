@@ -1,5 +1,4 @@
-Orbilia circinella (Pat.) Sacc. SPECIES
-=======
+# Orbilia circinella (Pat.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

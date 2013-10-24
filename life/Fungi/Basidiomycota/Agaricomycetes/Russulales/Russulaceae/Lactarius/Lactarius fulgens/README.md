@@ -1,5 +1,4 @@
-Lactarius fulgens var. fulgens VARIETY
-=======
+# Lactarius fulgens R. Heim SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Candollea 7: 377 (1938)
 
 #### Original name
-Lactarius fulgens var. fulgens
+Lactarius fulgens R. Heim
 
 ### Remarks
 null

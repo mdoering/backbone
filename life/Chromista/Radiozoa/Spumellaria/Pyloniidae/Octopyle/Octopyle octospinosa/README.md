@@ -1,5 +1,4 @@
-Octopyle octospinosa Tan & Tchang SPECIES
-=======
+# Octopyle octospinosa Tan & Tchang SPECIES
 
 #### Status
 ACCEPTED

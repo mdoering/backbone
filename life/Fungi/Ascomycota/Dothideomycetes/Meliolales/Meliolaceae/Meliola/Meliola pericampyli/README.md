@@ -1,5 +1,4 @@
-Meliola pericampyli var. pericampyli VARIETY
-=======
+# Meliola pericampyli W. Yamam. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Meliola pericampyli var. pericampyli
+Meliola pericampyli W. Yamam.
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Pleiomorpha belmontiana (Nann.-Bremek.) Dhillon SPECIES
-=======
+# Licea belmontiana Nann.-Bremek., 1966 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 30(1-6): 4 (1978)
+Proc. K. Ned. Akad. Wet. , Ser. C, Biol. Med. Sci. 69: 337 (1966)
 
 #### Original name
 Licea belmontiana Nann.-Bremek., 1966

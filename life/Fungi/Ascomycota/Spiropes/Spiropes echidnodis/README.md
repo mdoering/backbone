@@ -1,5 +1,4 @@
-Spiropes echidnodis M.B. Ellis SPECIES
-=======
+# Spiropes echidnodis M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

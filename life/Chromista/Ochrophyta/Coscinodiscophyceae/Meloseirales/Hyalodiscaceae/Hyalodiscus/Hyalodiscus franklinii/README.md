@@ -1,5 +1,4 @@
-Hyalodiscus franklinii (Ehrenberg) Cleve SPECIES
-=======
+# Hyalodiscus franklinii (Ehrenberg) Cleve SPECIES
 
 #### Status
 ACCEPTED

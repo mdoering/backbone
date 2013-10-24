@@ -1,5 +1,4 @@
-Septobasidium minutulum Syd. & P. Syd. SPECIES
-=======
+# Septobasidium minutulum Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

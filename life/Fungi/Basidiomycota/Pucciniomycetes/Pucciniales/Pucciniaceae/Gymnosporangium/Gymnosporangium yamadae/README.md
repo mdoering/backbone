@@ -1,5 +1,4 @@
-Gymnosporangium yamadae Miyabe ex G. Yamada, 1904 SPECIES
-=======
+# Gymnosporangium yamadae Miyabe ex G. Yamada, 1904 SPECIES
 
 #### Status
 ACCEPTED

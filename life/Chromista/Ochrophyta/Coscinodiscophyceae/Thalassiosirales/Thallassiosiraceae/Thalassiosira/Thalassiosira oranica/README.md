@@ -1,5 +1,4 @@
-Thalassiosira oranica G. R. Hasle SPECIES
-=======
+# Thalassiosira oranica G. R. Hasle SPECIES
 
 #### Status
 ACCEPTED

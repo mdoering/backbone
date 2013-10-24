@@ -1,5 +1,4 @@
-Didymella ilicis P. Larsen SPECIES
-=======
+# Didymella ilicis P. Larsen SPECIES
 
 #### Status
 ACCEPTED

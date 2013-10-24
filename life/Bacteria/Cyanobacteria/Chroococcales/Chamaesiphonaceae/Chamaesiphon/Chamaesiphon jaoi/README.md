@@ -1,8 +1,7 @@
-Chamaesiphon clavatus Setchell & Gardner SPECIES
-=======
+# Chamaesiphon jaoi G. Hällfors SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

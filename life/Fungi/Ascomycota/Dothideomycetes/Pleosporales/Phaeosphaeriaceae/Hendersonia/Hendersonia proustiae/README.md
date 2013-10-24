@@ -1,5 +1,4 @@
-Hendersonia proustiae Speg. SPECIES
-=======
+# Hendersonia proustiae Speg. SPECIES
 
 #### Status
 ACCEPTED

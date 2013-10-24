@@ -1,5 +1,4 @@
-Sabouraudites persicolor (Sabour.) M. Ota & Langeron SPECIES
-=======
+# Sabouraudites persicolor (Sabour.) M. Ota & Langeron SPECIES
 
 #### Status
 ACCEPTED

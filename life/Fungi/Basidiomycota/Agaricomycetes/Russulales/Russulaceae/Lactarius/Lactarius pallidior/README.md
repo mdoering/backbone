@@ -1,5 +1,4 @@
-Lactarius pallidior Stubbe & Verbeken SPECIES
-=======
+# Lactarius pallidior Stubbe & Verbeken SPECIES
 
 #### Status
 ACCEPTED

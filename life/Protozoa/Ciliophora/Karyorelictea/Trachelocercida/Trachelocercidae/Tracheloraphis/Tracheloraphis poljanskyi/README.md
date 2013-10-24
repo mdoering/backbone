@@ -1,8 +1,7 @@
-Trachelonema poljanskyi Raikov, 1962 SPECIES
-=======
+# Tracheloraphis poljanskyi Raikov, 1963 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

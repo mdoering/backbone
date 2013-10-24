@@ -1,5 +1,4 @@
-Puccinia adesmiae Henn. SPECIES
-=======
+# Puccinia adesmiae Henn. SPECIES
 
 #### Status
 ACCEPTED

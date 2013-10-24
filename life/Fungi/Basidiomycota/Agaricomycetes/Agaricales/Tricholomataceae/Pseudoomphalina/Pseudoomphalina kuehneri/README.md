@@ -1,5 +1,4 @@
-Pseudoomphalina kuehneri Bon SPECIES
-=======
+# Pseudoomphalina kuehneri Bon SPECIES
 
 #### Status
 ACCEPTED

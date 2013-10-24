@@ -1,5 +1,4 @@
-Otidea formicarum Harmaja SPECIES
-=======
+# Otidea formicarum Harmaja SPECIES
 
 #### Status
 ACCEPTED

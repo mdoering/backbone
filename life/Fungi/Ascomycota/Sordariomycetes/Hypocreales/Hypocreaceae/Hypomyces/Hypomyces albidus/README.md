@@ -1,5 +1,4 @@
-Hypomyces albidus Rehm SPECIES
-=======
+# Hypomyces albidus Rehm SPECIES
 
 #### Status
 ACCEPTED

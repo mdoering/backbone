@@ -1,5 +1,4 @@
-Alexandrium taylorii Balech SPECIES
-=======
+# Alexandrium taylorii Balech SPECIES
 
 #### Status
 ACCEPTED

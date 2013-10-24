@@ -1,5 +1,4 @@
-Bacidia mammifera Herre SPECIES
-=======
+# Bacidia mammifera Herre SPECIES
 
 #### Status
 ACCEPTED

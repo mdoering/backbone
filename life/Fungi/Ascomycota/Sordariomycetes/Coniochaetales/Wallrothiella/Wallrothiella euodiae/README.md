@@ -1,17 +1,16 @@
-Wallrothiella evodiae Sawada SPECIES
-=======
+# Wallrothiella euodiae Sawada SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Special Publication College of Agriculture, National Taiwan University 8: 70 (1959)
 
 #### Original name
-Wallrothiella evodiae Sawada
+Wallrothiella euodiae Sawada
 
 ### Remarks
 null

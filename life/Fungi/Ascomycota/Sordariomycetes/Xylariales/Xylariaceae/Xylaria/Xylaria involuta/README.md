@@ -1,5 +1,4 @@
-Xylaria involuta var. involuta VARIETY
-=======
+# Xylaria involuta Klotzsch SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Xylaria involuta var. involuta
+Xylaria involuta Klotzsch
 
 ### Remarks
 null

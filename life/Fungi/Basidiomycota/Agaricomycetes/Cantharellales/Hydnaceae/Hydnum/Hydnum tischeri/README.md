@@ -1,5 +1,4 @@
-Hydnum tischeri Opiz SPECIES
-=======
+# Hydnum tischeri Opiz SPECIES
 
 #### Status
 ACCEPTED

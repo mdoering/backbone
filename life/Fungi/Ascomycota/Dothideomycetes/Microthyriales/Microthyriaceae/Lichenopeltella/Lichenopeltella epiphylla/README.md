@@ -1,5 +1,4 @@
-Lichenopeltella epiphylla R. Sant., 1988 SPECIES
-=======
+# Lichenopeltella epiphylla R. Sant., 1988 SPECIES
 
 #### Status
 ACCEPTED

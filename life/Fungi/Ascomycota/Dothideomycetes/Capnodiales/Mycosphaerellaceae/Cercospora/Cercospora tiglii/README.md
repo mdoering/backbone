@@ -1,5 +1,4 @@
-Cercospora tiglii Henn. SPECIES
-=======
+# Cercospora tiglii Henn. SPECIES
 
 #### Status
 ACCEPTED

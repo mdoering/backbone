@@ -1,5 +1,4 @@
-Verrucaria nuoljae (H. Magn.) R. Sant. SPECIES
-=======
+# Verrucaria nuoljae (H. Magn.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

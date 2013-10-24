@@ -1,5 +1,4 @@
-Entoloma nigrodiscum Hesler SPECIES
-=======
+# Entoloma nigrodiscum Hesler SPECIES
 
 #### Status
 ACCEPTED

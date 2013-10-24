@@ -1,5 +1,4 @@
-Navicella stenostoma (Ellis & Everh.) Kuntze SPECIES
-=======
+# Navicella stenostoma (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

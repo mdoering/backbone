@@ -1,5 +1,4 @@
-Calycina maculosa (Ellis & G. Martin) Kuntze SPECIES
-=======
+# Calycina maculosa (Ellis & G. Martin) Kuntze SPECIES
 
 #### Status
 ACCEPTED

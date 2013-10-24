@@ -1,5 +1,4 @@
-Pestalotiopsis ardisiae (Henn.) X.A. Sun & Q.X. Ge SPECIES
-=======
+# Pestalotiopsis ardisiae (Henn.) X.A. Sun & Q.X. Ge SPECIES
 
 #### Status
 ACCEPTED

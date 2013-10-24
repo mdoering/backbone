@@ -1,5 +1,4 @@
-Dicaeoma betulinum (Wallr.) Bonord. SPECIES
-=======
+# Dicaeoma betulinum (Wallr.) Bonord. SPECIES
 
 #### Status
 ACCEPTED

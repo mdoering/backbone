@@ -1,5 +1,4 @@
-Cantharellus connatus Velen. SPECIES
-=======
+# Cantharellus connatus Velen. SPECIES
 
 #### Status
 ACCEPTED

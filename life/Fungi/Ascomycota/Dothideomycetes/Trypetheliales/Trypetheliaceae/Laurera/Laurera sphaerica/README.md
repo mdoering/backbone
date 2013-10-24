@@ -1,5 +1,4 @@
-Laurera sphaerica (C.W. Dodge) Letr.-Gal. SPECIES
-=======
+# Laurera sphaerica (C.W. Dodge) Letr.-Gal. SPECIES
 
 #### Status
 ACCEPTED

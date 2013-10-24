@@ -1,5 +1,4 @@
-Stylodothis Arx & E. Müller, 1975 GENUS
-=======
+# Stylodothis Arx & E. Müller, 1975 GENUS
 
 #### Status
 ACCEPTED

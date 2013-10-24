@@ -1,5 +1,4 @@
-Tremella flava Chee J. Chen SPECIES
-=======
+# Tremella flava Chee J. Chen SPECIES
 
 #### Status
 ACCEPTED

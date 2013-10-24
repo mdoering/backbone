@@ -1,5 +1,4 @@
-Tarichium tenuisculpturatum Balazy & J. Wisn. SPECIES
-=======
+# Tarichium tenuisculpturatum Balazy & J. Wisn. SPECIES
 
 #### Status
 ACCEPTED

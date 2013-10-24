@@ -1,5 +1,4 @@
-Ascochyta alstoniae Henn. SPECIES
-=======
+# Ascochyta alstoniae Henn. SPECIES
 
 #### Status
 ACCEPTED

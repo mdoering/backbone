@@ -1,5 +1,4 @@
-Ascobolus michaudii Boud., 1907 SPECIES
-=======
+# Ascobolus michaudii Boud., 1907 SPECIES
 
 #### Status
 ACCEPTED

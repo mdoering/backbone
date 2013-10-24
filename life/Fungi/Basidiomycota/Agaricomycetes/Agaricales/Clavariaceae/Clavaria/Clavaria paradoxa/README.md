@@ -1,5 +1,4 @@
-Clavaria paradoxa P. Karst. SPECIES
-=======
+# Clavaria paradoxa P. Karst. SPECIES
 
 #### Status
 ACCEPTED

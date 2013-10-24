@@ -1,5 +1,4 @@
-Aplosporella cydoniaecola (Pass.) Savul. & Sandu SPECIES
-=======
+# Aplosporella cydoniaecola (Pass.) Savul. & Sandu SPECIES
 
 #### Status
 ACCEPTED

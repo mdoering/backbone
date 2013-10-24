@@ -1,5 +1,4 @@
-Phyllosticta sterculiae G. Winter SPECIES
-=======
+# Phyllosticta sterculiae G. Winter SPECIES
 
 #### Status
 ACCEPTED

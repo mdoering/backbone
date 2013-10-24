@@ -1,5 +1,4 @@
-Dictyochaeta matsushimae (Hewings & J.L. Crane) Aramb. & Cabello SPECIES
-=======
+# Dictyochaeta matsushimae (Hewings & J.L. Crane) Aramb. & Cabello SPECIES
 
 #### Status
 ACCEPTED

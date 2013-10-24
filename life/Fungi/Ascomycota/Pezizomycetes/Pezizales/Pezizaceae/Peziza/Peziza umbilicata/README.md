@@ -1,5 +1,4 @@
-Peziza umbilicata P. Karst. SPECIES
-=======
+# Peziza umbilicata P. Karst. SPECIES
 
 #### Status
 ACCEPTED

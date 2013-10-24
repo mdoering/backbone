@@ -1,5 +1,4 @@
-Chaenotheca confusa Tibell SPECIES
-=======
+# Chaenotheca confusa Tibell SPECIES
 
 #### Status
 ACCEPTED

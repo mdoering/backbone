@@ -1,5 +1,4 @@
-Psorotichia arnoldii Körb. SPECIES
-=======
+# Psorotichia arnoldii Körb. SPECIES
 
 #### Status
 ACCEPTED

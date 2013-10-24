@@ -1,5 +1,4 @@
-Cortinarius magnivelatus Morse ex Thiers & A.H. Sm. SPECIES
-=======
+# Cortinarius magnivelatus Morse ex Thiers & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

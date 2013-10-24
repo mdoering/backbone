@@ -1,5 +1,4 @@
-Australohydnum Jülich GENUS
-=======
+# Australohydnum Jülich GENUS
 
 #### Status
 ACCEPTED

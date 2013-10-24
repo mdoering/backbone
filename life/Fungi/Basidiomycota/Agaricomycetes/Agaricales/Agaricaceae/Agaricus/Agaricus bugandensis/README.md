@@ -1,5 +1,4 @@
-Agaricus bugandensis Pegler SPECIES
-=======
+# Agaricus bugandensis Pegler SPECIES
 
 #### Status
 ACCEPTED

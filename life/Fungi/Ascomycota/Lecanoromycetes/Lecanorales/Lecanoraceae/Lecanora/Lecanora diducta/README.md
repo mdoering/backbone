@@ -1,5 +1,4 @@
-Lecanora diducta Nyl. SPECIES
-=======
+# Lecanora diducta Nyl. SPECIES
 
 #### Status
 ACCEPTED

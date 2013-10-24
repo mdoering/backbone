@@ -1,5 +1,4 @@
-Saccharomyces passularum Beij. SPECIES
-=======
+# Saccharomyces passularum Beij. SPECIES
 
 #### Status
 ACCEPTED

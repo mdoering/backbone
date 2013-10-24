@@ -1,5 +1,4 @@
-Puccinia premnae Henn. SPECIES
-=======
+# Puccinia premnae Henn. SPECIES
 
 #### Status
 ACCEPTED

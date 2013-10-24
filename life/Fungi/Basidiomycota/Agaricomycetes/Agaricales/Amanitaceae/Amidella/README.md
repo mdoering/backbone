@@ -1,5 +1,4 @@
-Amidella GENUS
-=======
+# Amidella GENUS
 
 #### Status
 ACCEPTED

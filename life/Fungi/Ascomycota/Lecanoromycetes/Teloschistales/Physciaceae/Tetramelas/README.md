@@ -1,5 +1,4 @@
-Tetramelas GENUS
-=======
+# Tetramelas GENUS
 
 #### Status
 ACCEPTED

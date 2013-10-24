@@ -1,5 +1,4 @@
-Sphaerophrya hydrostatica SPECIES
-=======
+# Sphaerophrya hydrostatica SPECIES
 
 #### Status
 ACCEPTED

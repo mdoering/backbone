@@ -1,8 +1,7 @@
-Uredo trabuti Pat. SPECIES
-=======
+# Uredo trabutii Pat. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Uredo trabuti Pat.
+Uredo trabutii Pat.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Schillingia coerulea (Conrad) J. Schiller SPECIES
-=======
+# Schillingia coerulea (Conrad) J. Schiller SPECIES
 
 #### Status
 ACCEPTED

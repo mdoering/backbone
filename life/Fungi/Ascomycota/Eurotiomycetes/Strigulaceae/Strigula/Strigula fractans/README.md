@@ -1,5 +1,4 @@
-Strigula fractans P. M. McCarthy SPECIES
-=======
+# Strigula fractans P. M. McCarthy SPECIES
 
 #### Status
 ACCEPTED

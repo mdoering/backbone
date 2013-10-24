@@ -1,5 +1,4 @@
-Roselliniopsis palicei Etayo SPECIES
-=======
+# Roselliniopsis palicei Etayo SPECIES
 
 #### Status
 ACCEPTED

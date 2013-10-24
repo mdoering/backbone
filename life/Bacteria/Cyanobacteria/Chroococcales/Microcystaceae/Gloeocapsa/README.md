@@ -1,14 +1,13 @@
-Monocapsa H. Itzigsohn in L. Rabenhorst, 1853 GENUS
-=======
+# Gloeocapsa Kuetzing, 1843 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Alg. exsicc. , Dec. 27: 263.
+Phycol. Gen. , p. 173.
 
 #### Original name
 null

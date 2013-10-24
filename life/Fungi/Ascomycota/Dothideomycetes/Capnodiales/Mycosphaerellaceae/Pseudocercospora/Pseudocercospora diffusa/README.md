@@ -1,5 +1,4 @@
-Pseudocercospora diffusa (Ellis & Everh.) Y.L. Guo & X.J. Liu SPECIES
-=======
+# Pseudocercospora diffusa (Ellis & Everh.) Y.L. Guo & X.J. Liu SPECIES
 
 #### Status
 ACCEPTED

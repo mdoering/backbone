@@ -1,5 +1,4 @@
-Sporisorium barcinonense (Riofrio) Vánky SPECIES
-=======
+# Sporisorium barcinonense (Riofrio) Vánky SPECIES
 
 #### Status
 ACCEPTED

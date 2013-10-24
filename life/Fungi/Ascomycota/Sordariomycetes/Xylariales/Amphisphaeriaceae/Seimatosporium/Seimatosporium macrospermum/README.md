@@ -1,14 +1,13 @@
-Sporocadus macrospermum (Berk. & Broome) M. Morelet SPECIES
-=======
+# Seimatosporium macrospermum (Berk. & Broome) B. Sutton, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Pap. 138: 130 (1975)
 
 #### Original name
 Coryneum macrospermum Berk. & Broome, 1861

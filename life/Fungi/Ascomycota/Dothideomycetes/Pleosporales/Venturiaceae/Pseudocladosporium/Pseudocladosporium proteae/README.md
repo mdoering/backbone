@@ -1,5 +1,4 @@
-Pseudocladosporium proteae (Viljoen & Crous) Crous SPECIES
-=======
+# Pseudocladosporium proteae (Viljoen & Crous) Crous SPECIES
 
 #### Status
 ACCEPTED

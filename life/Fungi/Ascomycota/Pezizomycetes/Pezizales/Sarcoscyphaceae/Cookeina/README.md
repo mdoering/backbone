@@ -1,5 +1,4 @@
-Cookeina Kuntze GENUS
-=======
+# Cookeina Kuntze GENUS
 
 #### Status
 ACCEPTED

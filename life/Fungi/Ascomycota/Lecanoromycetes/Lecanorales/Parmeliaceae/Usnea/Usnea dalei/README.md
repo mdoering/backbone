@@ -1,5 +1,4 @@
-Usnea dalei C.W. Dodge SPECIES
-=======
+# Usnea dalei C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

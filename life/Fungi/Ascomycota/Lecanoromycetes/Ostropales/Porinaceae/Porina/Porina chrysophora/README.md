@@ -1,14 +1,13 @@
-Phylloporina chrysophora (Stirt.) Müll. Arg. SPECIES
-=======
+# Porina chrysophora (Stirt.) R. Sant. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Bull. Herb. Boissier 2(App. 1): 92 (1894)
+Symb. bot. upsal. 12(no. 1): 222 (1952)
 
 #### Original name
 null

@@ -1,17 +1,16 @@
-Bacidia egenula var. crassiuscula Erichsen VARIETY
-=======
+# Bacidina egenula (Nyl.) Vezda SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Bacidia egenula var. crassiuscula Erichsen
+null
 
 ### Remarks
 null

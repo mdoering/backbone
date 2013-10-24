@@ -1,5 +1,4 @@
-Thelenella scopularis Vain. SPECIES
-=======
+# Thelenella scopularis Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleurotus viscidus Harmaja SPECIES
-=======
+# Pleurotus viscidus Harmaja SPECIES
 
 #### Status
 ACCEPTED

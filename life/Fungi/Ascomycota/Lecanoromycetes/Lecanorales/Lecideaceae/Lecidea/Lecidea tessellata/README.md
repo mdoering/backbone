@@ -1,17 +1,16 @@
-Lecidea tessellata var. tessellata VARIETY
-=======
+# Lecidea tessellata Flörke SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Deutsche Lich. no. 64 (1821)
 
 #### Original name
-Lecidea tessellata var. tessellata
+Lecidea tessellata Flörke
 
 ### Remarks
 null

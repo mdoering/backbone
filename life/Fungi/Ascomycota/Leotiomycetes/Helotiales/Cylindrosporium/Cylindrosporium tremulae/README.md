@@ -1,5 +1,4 @@
-Cylindrosporium tremulae (Höhn.) Vassiljevsky SPECIES
-=======
+# Cylindrosporium tremulae (Höhn.) Vassiljevsky SPECIES
 
 #### Status
 ACCEPTED

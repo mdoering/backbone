@@ -1,5 +1,4 @@
-Dichomera strobilina (E. Bommer, M. Rousseau & Sacc.) B. Sutton SPECIES
-=======
+# Dichomera strobilina (E. Bommer, M. Rousseau & Sacc.) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

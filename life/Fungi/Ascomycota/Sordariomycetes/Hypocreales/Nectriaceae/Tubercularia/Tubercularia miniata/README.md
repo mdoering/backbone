@@ -1,5 +1,4 @@
-Tubercularia miniata Tracy & Earle SPECIES
-=======
+# Tubercularia miniata Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

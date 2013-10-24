@@ -1,5 +1,4 @@
-Micropeltis myrtacearum Bat. & I.H. Lima SPECIES
-=======
+# Micropeltis myrtacearum Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

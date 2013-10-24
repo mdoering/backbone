@@ -1,5 +1,4 @@
-Sargassum fuscifolium Tseng & Lu SPECIES
-=======
+# Sargassum fuscifolium Tseng & Lu SPECIES
 
 #### Status
 ACCEPTED

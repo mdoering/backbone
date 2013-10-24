@@ -1,8 +1,7 @@
-Nostoc hederulae Meneghini SPECIES
-=======
+# Nostoc punctiforme (Kützing) Hariot SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

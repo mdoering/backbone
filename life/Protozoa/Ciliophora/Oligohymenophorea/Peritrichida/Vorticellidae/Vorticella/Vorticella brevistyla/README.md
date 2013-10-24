@@ -1,5 +1,4 @@
-Vorticella brevistyla D'Udekem, 1864 SPECIES
-=======
+# Vorticella brevistyla D'Udekem, 1864 SPECIES
 
 #### Status
 ACCEPTED

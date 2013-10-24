@@ -1,5 +1,4 @@
-Efibulobasidium K. Wells, 1975 GENUS
-=======
+# Efibulobasidium K. Wells, 1975 GENUS
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Dasyscypha trichophilus Syd. SPECIES
-=======
+# Dasyscyphus trichophilus Syd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Dasyscypha trichophilus Syd.
+Dasyscyphus trichophilus Syd.
 
 ### Remarks
 null

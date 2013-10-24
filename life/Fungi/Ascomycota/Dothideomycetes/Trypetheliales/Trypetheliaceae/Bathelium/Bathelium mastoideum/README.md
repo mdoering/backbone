@@ -1,5 +1,4 @@
-Bathelium mastoideum Afzel. ex Ach. SPECIES
-=======
+# Bathelium mastoideum Afzel. ex Ach. SPECIES
 
 #### Status
 ACCEPTED

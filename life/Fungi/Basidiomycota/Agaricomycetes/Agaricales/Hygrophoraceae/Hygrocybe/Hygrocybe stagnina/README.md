@@ -1,5 +1,4 @@
-Hygrocybe stagnina Hongo SPECIES
-=======
+# Hygrocybe stagnina Hongo SPECIES
 
 #### Status
 ACCEPTED

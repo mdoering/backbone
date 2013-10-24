@@ -1,5 +1,4 @@
-Puccinia tupistrae L. Guo SPECIES
-=======
+# Puccinia tupistrae L. Guo SPECIES
 
 #### Status
 ACCEPTED

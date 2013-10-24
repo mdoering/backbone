@@ -1,5 +1,4 @@
-Gastroboletus citrinobrunneus Thiers, 1979 SPECIES
-=======
+# Gastroboletus citrinobrunneus Thiers, 1979 SPECIES
 
 #### Status
 ACCEPTED

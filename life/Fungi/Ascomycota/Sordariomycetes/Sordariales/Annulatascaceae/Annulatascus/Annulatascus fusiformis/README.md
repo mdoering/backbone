@@ -1,5 +1,4 @@
-Annulatascus fusiformis K.D. Hyde & S.W. Wong SPECIES
-=======
+# Annulatascus fusiformis K.D. Hyde & S.W. Wong SPECIES
 
 #### Status
 ACCEPTED

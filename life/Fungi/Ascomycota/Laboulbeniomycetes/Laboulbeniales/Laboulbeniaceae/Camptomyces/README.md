@@ -1,5 +1,4 @@
-Camptomyces Thaxt. GENUS
-=======
+# Camptomyces Thaxt. GENUS
 
 #### Status
 ACCEPTED

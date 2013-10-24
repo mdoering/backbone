@@ -1,5 +1,4 @@
-Thecaphora melandrii (Syd.) Vánky & M. Lutz SPECIES
-=======
+# Thecaphora melandrii (Syd.) Vánky & M. Lutz SPECIES
 
 #### Status
 ACCEPTED

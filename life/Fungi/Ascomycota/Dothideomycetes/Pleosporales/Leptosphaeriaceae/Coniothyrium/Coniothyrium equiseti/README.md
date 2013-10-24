@@ -1,5 +1,4 @@
-Coniothyrium equiseti Lambotte & Fautrey, 1896 SPECIES
-=======
+# Coniothyrium equiseti Lambotte & Fautrey, 1896 SPECIES
 
 #### Status
 ACCEPTED

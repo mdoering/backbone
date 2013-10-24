@@ -1,5 +1,4 @@
-Stoeckeria H.J. Jeong, J.S. Kim, J.Y. Park et al., 2005 GENUS
-=======
+# Stoeckeria H.J. Jeong, J.S. Kim, J.Y. Park et al., 2005 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelidium bermudanum Riddle SPECIES
-=======
+# Thelidium bermudanum Riddle SPECIES
 
 #### Status
 ACCEPTED

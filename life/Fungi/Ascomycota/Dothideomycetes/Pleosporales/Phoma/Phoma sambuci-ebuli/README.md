@@ -1,5 +1,4 @@
-Phoma sambuci-ebuli Politis SPECIES
-=======
+# Phoma sambuci-ebuli Politis SPECIES
 
 #### Status
 ACCEPTED

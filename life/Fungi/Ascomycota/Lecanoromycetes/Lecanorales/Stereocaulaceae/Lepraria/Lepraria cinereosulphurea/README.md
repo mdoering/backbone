@@ -1,5 +1,4 @@
-Lepraria cinereosulphurea Flörke SPECIES
-=======
+# Lepraria cinereosulphurea Flörke SPECIES
 
 #### Status
 ACCEPTED

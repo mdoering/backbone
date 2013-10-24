@@ -1,5 +1,4 @@
-Erineum celastrinum Schltdl. SPECIES
-=======
+# Erineum celastrinum Schltdl. SPECIES
 
 #### Status
 ACCEPTED

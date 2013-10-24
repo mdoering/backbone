@@ -1,5 +1,4 @@
-Pseudocercospora aethiopicae Deighton SPECIES
-=======
+# Pseudocercospora aethiopicae Deighton SPECIES
 
 #### Status
 ACCEPTED

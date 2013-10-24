@@ -1,5 +1,4 @@
-Sphaerella molluginis Rehm SPECIES
-=======
+# Sphaerella molluginis Rehm SPECIES
 
 #### Status
 ACCEPTED

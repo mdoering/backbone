@@ -1,5 +1,4 @@
-Rhagadolobium cubensis anon. SPECIES
-=======
+# Rhagadolobium cubensis anon. SPECIES
 
 #### Status
 ACCEPTED

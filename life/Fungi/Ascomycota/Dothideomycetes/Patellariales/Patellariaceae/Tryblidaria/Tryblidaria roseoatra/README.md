@@ -1,5 +1,4 @@
-Tryblidaria roseoatra Höhn. SPECIES
-=======
+# Tryblidaria roseoatra Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Odonticium Parmasto GENUS
-=======
+# Odonticium Parmasto GENUS
 
 #### Status
 ACCEPTED

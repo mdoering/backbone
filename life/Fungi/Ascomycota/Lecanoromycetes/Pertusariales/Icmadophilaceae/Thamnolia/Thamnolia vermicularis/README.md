@@ -1,17 +1,16 @@
-Thamnolia vermicularis f. vermicularis FORM
-=======
+# Thamnolia vermicularis (Sw.) Ach. ex Schaer. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Enum. critic. lich. europ. (Bern) 243 (1850)
+null
 
 #### Original name
-Thamnolia vermicularis f. vermicularis
+null
 
 ### Remarks
 null

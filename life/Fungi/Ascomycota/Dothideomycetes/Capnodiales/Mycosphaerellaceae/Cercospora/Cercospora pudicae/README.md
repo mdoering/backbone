@@ -1,5 +1,4 @@
-Cercospora pudicae J.M. Yen, 1964 SPECIES
-=======
+# Cercospora pudicae J.M. Yen, 1964 SPECIES
 
 #### Status
 ACCEPTED

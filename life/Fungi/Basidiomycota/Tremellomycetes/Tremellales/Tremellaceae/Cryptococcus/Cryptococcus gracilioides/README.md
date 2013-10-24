@@ -1,5 +1,4 @@
-Cryptococcus gracilioides Castell. SPECIES
-=======
+# Cryptococcus gracilioides Castell. SPECIES
 
 #### Status
 ACCEPTED

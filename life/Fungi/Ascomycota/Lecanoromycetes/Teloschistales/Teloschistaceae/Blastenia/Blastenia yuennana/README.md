@@ -1,8 +1,7 @@
-Blastenia yünnana Zahlbr. SPECIES
-=======
+# Blastenia yuennana Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Blastenia yünnana Zahlbr.
+Blastenia yuennana Zahlbr.
 
 ### Remarks
 null

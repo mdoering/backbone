@@ -1,5 +1,4 @@
-Chalara dracophylli McKenzie, 1997 SPECIES
-=======
+# Chalara dracophylli McKenzie, 1997 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hemileia ancylanthi P. Syd. & Syd. SPECIES
-=======
+# Hemileia ancylanthi P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

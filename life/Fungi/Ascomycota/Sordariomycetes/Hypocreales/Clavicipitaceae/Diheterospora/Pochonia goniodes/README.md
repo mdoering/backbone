@@ -1,17 +1,16 @@
-Acrostalagmus gonioides Drechsler SPECIES
-=======
+# Pochonia goniodes (Drechsler) Zare & W. Gams, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nova Hedwigia 73(1-2): 72 (2001)
 
 #### Original name
-Acrostalagmus gonioides Drechsler
+Acrostalagmus goniodes Drechsler, 1942
 
 ### Remarks
 null

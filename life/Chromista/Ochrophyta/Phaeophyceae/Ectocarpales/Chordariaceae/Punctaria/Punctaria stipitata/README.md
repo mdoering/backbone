@@ -1,5 +1,4 @@
-Punctaria stipitata F.S.Collins SPECIES
-=======
+# Punctaria stipitata F.S.Collins SPECIES
 
 #### Status
 ACCEPTED

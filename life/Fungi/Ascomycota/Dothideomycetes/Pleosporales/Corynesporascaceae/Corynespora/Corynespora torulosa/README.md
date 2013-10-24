@@ -1,5 +1,4 @@
-Corynespora torulosa (Syd.) SPECIES
-=======
+# Corynespora torulosa (Syd.) SPECIES
 
 #### Status
 ACCEPTED

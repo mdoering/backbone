@@ -1,5 +1,4 @@
-Valsa prunicola Peck SPECIES
-=======
+# Valsa prunicola Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Leptothyrium pinastri var. maiorosporum K.M. Zalessky, Domanski & Wojc. VARIETY
-=======
+# Leptothyrium pinastri P. Karst., 1887 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Acta microbiol. pol. 19(1): 137 (1948)
+Meddn Soc. Fauna Flora fenn. 20: 96 (1887)
 
 #### Original name
-Leptothyrium pinastri var. maiorosporum K.M. Zalessky, Domanski & Wojc.
+Leptothyrium pinastri P. Karst., 1887
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Helminthosporium bataticola Khokhr. & Dyur. SPECIES
-=======
+# Helminthosporium bataticola Khokhr. & Dyur. SPECIES
 
 #### Status
 ACCEPTED

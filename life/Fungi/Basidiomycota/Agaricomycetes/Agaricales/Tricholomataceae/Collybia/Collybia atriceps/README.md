@@ -1,5 +1,4 @@
-Collybia atriceps (Murrill) Murrill SPECIES
-=======
+# Collybia atriceps (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

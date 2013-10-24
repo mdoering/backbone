@@ -1,5 +1,4 @@
-Stanjemonium ochroroseum W. Gams, Schroers & M. Chr., 1999 SPECIES
-=======
+# Stanjemonium ochroroseum W. Gams, Schroers & M. Chr., 1999 SPECIES
 
 #### Status
 ACCEPTED

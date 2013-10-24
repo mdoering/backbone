@@ -1,5 +1,4 @@
-Entamoeba histolytica Schaudinn, 1903 SPECIES
-=======
+# Entamoeba histolytica Schaudinn, 1903 SPECIES
 
 #### Status
 ACCEPTED

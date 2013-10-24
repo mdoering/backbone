@@ -1,5 +1,4 @@
-Buehringa antarcticum SPECIES
-=======
+# Buehringa antarcticum SPECIES
 
 #### Status
 ACCEPTED

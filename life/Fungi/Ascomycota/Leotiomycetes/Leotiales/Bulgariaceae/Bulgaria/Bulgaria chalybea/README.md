@@ -1,5 +1,4 @@
-Bulgaria chalybea (Berk.) Cooke & Massee SPECIES
-=======
+# Bulgaria chalybea (Berk.) Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

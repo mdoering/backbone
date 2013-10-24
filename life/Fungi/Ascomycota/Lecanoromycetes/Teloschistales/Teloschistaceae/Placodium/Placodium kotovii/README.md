@@ -1,5 +1,4 @@
-Placodium kotovii Oxner SPECIES
-=======
+# Placodium kotovii Oxner SPECIES
 
 #### Status
 ACCEPTED

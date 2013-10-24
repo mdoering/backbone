@@ -1,5 +1,4 @@
-Lecanora fuscellina (Müll. Arg.) Stizenb. SPECIES
-=======
+# Lecanora fuscellina (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

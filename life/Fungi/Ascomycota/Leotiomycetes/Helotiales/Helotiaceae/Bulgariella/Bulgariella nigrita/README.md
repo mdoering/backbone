@@ -1,5 +1,4 @@
-Bulgariella nigrita Fr. SPECIES
-=======
+# Bulgariella nigrita Fr. SPECIES
 
 #### Status
 ACCEPTED

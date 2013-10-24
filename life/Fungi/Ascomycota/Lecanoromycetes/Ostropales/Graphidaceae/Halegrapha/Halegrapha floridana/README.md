@@ -1,5 +1,4 @@
-Halegrapha floridana Common & Lücking SPECIES
-=======
+# Halegrapha floridana Common & Lücking SPECIES
 
 #### Status
 ACCEPTED

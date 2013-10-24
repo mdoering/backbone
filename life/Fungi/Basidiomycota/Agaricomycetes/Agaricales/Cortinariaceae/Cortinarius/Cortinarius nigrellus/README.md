@@ -1,5 +1,4 @@
-Cortinarius nigrellus Peck SPECIES
-=======
+# Cortinarius nigrellus Peck SPECIES
 
 #### Status
 ACCEPTED

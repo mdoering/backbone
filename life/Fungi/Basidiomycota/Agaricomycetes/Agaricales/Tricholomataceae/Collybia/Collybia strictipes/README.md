@@ -1,5 +1,4 @@
-Collybia strictipes Peck SPECIES
-=======
+# Collybia strictipes Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spermatodium arenarium (Hepp) Trevis. SPECIES
-=======
+# Spermatodium arenarium (Hepp) Trevis. SPECIES
 
 #### Status
 ACCEPTED

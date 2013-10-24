@@ -1,5 +1,4 @@
-Peziza globularis Pers. SPECIES
-=======
+# Peziza globularis Pers. SPECIES
 
 #### Status
 ACCEPTED

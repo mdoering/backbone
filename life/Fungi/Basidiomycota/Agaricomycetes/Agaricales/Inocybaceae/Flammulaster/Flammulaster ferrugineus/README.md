@@ -1,14 +1,13 @@
-Tubaria ferruginea (Maire) Maire, 1957 SPECIES
-=======
+# Flammulaster ferrugineus (Maire ex Kühner) Watling, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. nat. Oyonnax, Suppl. Mém. hors sér. No. 2 10-11(Suppl. ): 6 (1957)
+Notes R. bot. Gdn Edinb. 28(1): 66 (1967)
 
 #### Original name
 Naucoria ferruginea Maire, 1957

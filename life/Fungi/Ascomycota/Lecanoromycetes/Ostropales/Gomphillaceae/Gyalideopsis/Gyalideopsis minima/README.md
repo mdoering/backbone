@@ -1,5 +1,4 @@
-Gyalideopsis minima Vezda SPECIES
-=======
+# Gyalideopsis minima Vezda SPECIES
 
 #### Status
 ACCEPTED

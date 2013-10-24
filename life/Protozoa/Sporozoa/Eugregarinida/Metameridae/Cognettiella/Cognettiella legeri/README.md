@@ -1,5 +1,4 @@
-Cognettiella legeri Pizl, Chalupský & Levine, 1983 SPECIES
-=======
+# Cognettiella legeri Pizl, Chalupský & Levine, 1983 SPECIES
 
 #### Status
 ACCEPTED

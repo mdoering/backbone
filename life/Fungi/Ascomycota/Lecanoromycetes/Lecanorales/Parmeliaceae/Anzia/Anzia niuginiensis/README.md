@@ -1,5 +1,4 @@
-Anzia niuginiensis Elix SPECIES
-=======
+# Anzia niuginiensis Elix SPECIES
 
 #### Status
 ACCEPTED

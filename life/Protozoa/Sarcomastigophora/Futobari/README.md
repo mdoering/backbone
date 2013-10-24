@@ -1,5 +1,4 @@
-Futobari Furutani, 1990 GENUS
-=======
+# Futobari Furutani, 1990 GENUS
 
 #### Status
 ACCEPTED

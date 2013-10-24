@@ -1,5 +1,4 @@
-Psathyrella fuegiana E. Horak SPECIES
-=======
+# Psathyrella fuegiana E. Horak SPECIES
 
 #### Status
 ACCEPTED

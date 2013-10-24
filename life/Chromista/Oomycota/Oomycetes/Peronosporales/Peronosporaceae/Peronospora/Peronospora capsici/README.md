@@ -1,5 +1,4 @@
-Peronospora capsici J.F. Tao & T.J. Li SPECIES
-=======
+# Peronospora capsici J.F. Tao & T.J. Li SPECIES
 
 #### Status
 ACCEPTED

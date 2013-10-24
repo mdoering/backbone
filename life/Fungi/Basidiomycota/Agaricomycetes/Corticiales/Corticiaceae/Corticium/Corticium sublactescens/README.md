@@ -1,5 +1,4 @@
-Corticium sublactescens Rick SPECIES
-=======
+# Corticium sublactescens Rick SPECIES
 
 #### Status
 ACCEPTED

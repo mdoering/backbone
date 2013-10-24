@@ -1,5 +1,4 @@
-Boletus borneensis Corner SPECIES
-=======
+# Boletus borneensis Corner SPECIES
 
 #### Status
 ACCEPTED

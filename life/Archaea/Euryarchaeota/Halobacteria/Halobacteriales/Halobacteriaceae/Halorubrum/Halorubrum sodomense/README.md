@@ -1,8 +1,7 @@
-Halorubrobacterium sodomense (Oren, 1983) Kamekura & Dyall-Smith, 1996 SPECIES
-=======
+# Halorubrum sodomense (Oren, 1983) McGenity & Grant, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Phyllachora guanacastica P.F. Cannon, 1991 SPECIES
-=======
+# Phyllachora guanacastica P.F. Cannon, 1991 SPECIES
 
 #### Status
 ACCEPTED

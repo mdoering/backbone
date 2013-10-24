@@ -1,14 +1,13 @@
-Collybia johnstoni (Murrill) Dennis SPECIES
-=======
+# Collybia johnstonii (Murrill) Dennis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 34: 437 (1951)
 
 #### Original name
 Marasmius johnstonii Murrill

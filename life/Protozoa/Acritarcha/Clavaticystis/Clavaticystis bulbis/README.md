@@ -1,5 +1,4 @@
-Clavaticystis bulbis Habib & Knapp, 1982 SPECIES
-=======
+# Clavaticystis bulbis Habib & Knapp, 1982 SPECIES
 
 #### Status
 ACCEPTED

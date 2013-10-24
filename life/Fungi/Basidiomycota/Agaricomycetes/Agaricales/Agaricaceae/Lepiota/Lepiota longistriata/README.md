@@ -1,5 +1,4 @@
-Lepiota longistriata Peck SPECIES
-=======
+# Lepiota longistriata Peck SPECIES
 
 #### Status
 ACCEPTED

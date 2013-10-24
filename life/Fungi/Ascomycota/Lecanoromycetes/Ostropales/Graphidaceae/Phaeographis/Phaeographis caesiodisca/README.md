@@ -1,5 +1,4 @@
-Phaeographis caesiodisca Staiger SPECIES
-=======
+# Phaeographis caesiodisca Staiger SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca scabrosa Søchting, Lorentsen & Arup SPECIES
-=======
+# Caloplaca scabrosa Søchting, Lorentsen & Arup SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Multiplicisphaeridium verrucarum Wicander, 1974 SPECIES
-=======
+# Multiplicisphaeridium verrucarum Wicander, 1974 SPECIES
 
 #### Status
 ACCEPTED

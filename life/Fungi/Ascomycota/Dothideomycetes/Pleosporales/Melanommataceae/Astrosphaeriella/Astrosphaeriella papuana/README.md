@@ -1,5 +1,4 @@
-Astrosphaeriella papuana Aptroot, 1995 SPECIES
-=======
+# Astrosphaeriella papuana Aptroot, 1995 SPECIES
 
 #### Status
 ACCEPTED

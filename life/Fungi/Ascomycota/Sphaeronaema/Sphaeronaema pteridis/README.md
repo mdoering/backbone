@@ -1,5 +1,4 @@
-Sphaeronaema pteridis (Alb. & Schwein.) Fr. SPECIES
-=======
+# Sphaeronaema pteridis (Alb. & Schwein.) Fr. SPECIES
 
 #### Status
 ACCEPTED

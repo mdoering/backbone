@@ -1,5 +1,4 @@
-Sphaeria conseptata Schwein. SPECIES
-=======
+# Sphaeria conseptata Schwein. SPECIES
 
 #### Status
 ACCEPTED

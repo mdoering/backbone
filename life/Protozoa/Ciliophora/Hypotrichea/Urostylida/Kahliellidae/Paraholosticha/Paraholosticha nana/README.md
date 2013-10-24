@@ -1,5 +1,4 @@
-Paraholosticha nana Gellert, 1955 SPECIES
-=======
+# Paraholosticha nana Gellert, 1955 SPECIES
 
 #### Status
 ACCEPTED

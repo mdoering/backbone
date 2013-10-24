@@ -1,5 +1,4 @@
-Stomiopeltis betulae J.P. Ellis, 1977 SPECIES
-=======
+# Stomiopeltis betulae J.P. Ellis, 1977 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidiolum marianum Gonz. Frag. SPECIES
-=======
+# Aecidiolum marianum Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

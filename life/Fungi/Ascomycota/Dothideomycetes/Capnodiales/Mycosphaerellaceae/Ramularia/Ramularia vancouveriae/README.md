@@ -1,5 +1,4 @@
-Ramularia vancouveriae (Ellis & Everh.) R. Sprague SPECIES
-=======
+# Ramularia vancouveriae (Ellis & Everh.) R. Sprague SPECIES
 
 #### Status
 ACCEPTED

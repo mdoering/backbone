@@ -1,5 +1,4 @@
-Xanthomendoza pruinosa (Hillmann) Søchting, Kärnefelt & S.Y. Kondr. SPECIES
-=======
+# Xanthomendoza pruinosa (Hillmann) Søchting, Kärnefelt & S.Y. Kondr. SPECIES
 
 #### Status
 ACCEPTED

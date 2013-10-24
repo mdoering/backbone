@@ -1,5 +1,4 @@
-Phyllosticta ficina S. Ahmad SPECIES
-=======
+# Phyllosticta ficina S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

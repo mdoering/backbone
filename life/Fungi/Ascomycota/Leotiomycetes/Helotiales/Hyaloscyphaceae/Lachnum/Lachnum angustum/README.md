@@ -1,5 +1,4 @@
-Lachnum angustum W.Y. Zhuang & M. Ye SPECIES
-=======
+# Lachnum angustum W.Y. Zhuang & M. Ye SPECIES
 
 #### Status
 ACCEPTED

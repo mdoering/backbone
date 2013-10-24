@@ -1,17 +1,16 @@
-Ostreola bunchaana Tilak & Talde SPECIES
-=======
+# Ostreola buchananiae Tilak & Talde SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biovigyanam 3(2): 243 (1978)
 
 #### Original name
-Ostreola bunchaana Tilak & Talde
+Ostreola buchananiae Tilak & Talde
 
 ### Remarks
 null

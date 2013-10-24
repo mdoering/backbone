@@ -1,5 +1,4 @@
-Scleroderris vacciniorum Rehm SPECIES
-=======
+# Scleroderris vacciniorum Rehm SPECIES
 
 #### Status
 ACCEPTED

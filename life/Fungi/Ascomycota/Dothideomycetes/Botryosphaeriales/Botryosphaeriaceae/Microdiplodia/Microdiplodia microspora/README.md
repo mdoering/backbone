@@ -1,17 +1,16 @@
-Diplodia microspora var. microspora VARIETY
-=======
+# Microdiplodia microspora (Berk. & M.A. Curtis) Tassi, 1902 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mitt. naturf. Ges. Bern 59 (1868)
+Bulletin Labor. Orto Bot. de R. Univ. Siena 5: 35 (1902)
 
 #### Original name
-Diplodia microspora var. microspora
+Diplodia microspora Berk. & M.A. Curtis, 1874
 
 ### Remarks
 null

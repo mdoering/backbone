@@ -1,5 +1,4 @@
-Melanomma afflatum (Schwein.) Shear SPECIES
-=======
+# Melanomma afflatum (Schwein.) Shear SPECIES
 
 #### Status
 ACCEPTED

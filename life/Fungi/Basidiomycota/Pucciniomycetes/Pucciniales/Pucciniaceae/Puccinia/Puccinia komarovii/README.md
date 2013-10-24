@@ -1,5 +1,4 @@
-Puccinia komarovii Tranzschel, 1936 SPECIES
-=======
+# Puccinia komarovii Tranzschel, 1936 SPECIES
 
 #### Status
 ACCEPTED

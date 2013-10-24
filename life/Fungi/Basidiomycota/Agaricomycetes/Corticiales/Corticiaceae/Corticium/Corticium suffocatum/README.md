@@ -1,5 +1,4 @@
-Corticium suffocatum Bourdot & Galzin SPECIES
-=======
+# Corticium suffocatum Bourdot & Galzin SPECIES
 
 #### Status
 ACCEPTED

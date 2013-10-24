@@ -1,5 +1,4 @@
-Pholiotella atroumbonata Rick SPECIES
-=======
+# Pholiotella atroumbonata Rick SPECIES
 
 #### Status
 ACCEPTED

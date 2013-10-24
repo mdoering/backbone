@@ -1,5 +1,4 @@
-Uncinula bischofiae C.T. Wei SPECIES
-=======
+# Uncinula bischofiae C.T. Wei SPECIES
 
 #### Status
 ACCEPTED

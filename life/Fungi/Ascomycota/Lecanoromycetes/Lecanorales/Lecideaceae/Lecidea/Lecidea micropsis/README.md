@@ -1,5 +1,4 @@
-Lecidea micropsis A. Massal. SPECIES
-=======
+# Lecidea micropsis A. Massal. SPECIES
 
 #### Status
 ACCEPTED

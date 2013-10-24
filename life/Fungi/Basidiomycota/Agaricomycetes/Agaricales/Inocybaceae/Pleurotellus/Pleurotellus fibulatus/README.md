@@ -1,5 +1,4 @@
-Pleurotellus fibulatus Singer SPECIES
-=======
+# Pleurotellus fibulatus Singer SPECIES
 
 #### Status
 ACCEPTED

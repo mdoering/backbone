@@ -1,5 +1,4 @@
-Lecidea symmicteroides Erichsen SPECIES
-=======
+# Lecidea symmicteroides Erichsen SPECIES
 
 #### Status
 ACCEPTED

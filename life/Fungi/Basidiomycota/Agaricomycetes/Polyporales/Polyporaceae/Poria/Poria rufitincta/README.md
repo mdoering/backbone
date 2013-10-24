@@ -1,5 +1,4 @@
-Poria rufitincta (Berk. & M.A. Curtis ex Cooke) Sacc. SPECIES
-=======
+# Poria rufitincta (Berk. & M.A. Curtis ex Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

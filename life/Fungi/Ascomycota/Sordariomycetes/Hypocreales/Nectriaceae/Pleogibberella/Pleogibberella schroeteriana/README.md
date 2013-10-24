@@ -1,5 +1,4 @@
-Pleogibberella schroeteriana Rehm SPECIES
-=======
+# Pleogibberella schroeteriana Rehm SPECIES
 
 #### Status
 ACCEPTED

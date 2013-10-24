@@ -1,5 +1,4 @@
-Westerdykella ornata Stolk, 1955 SPECIES
-=======
+# Westerdykella ornata Stolk, 1955 SPECIES
 
 #### Status
 ACCEPTED

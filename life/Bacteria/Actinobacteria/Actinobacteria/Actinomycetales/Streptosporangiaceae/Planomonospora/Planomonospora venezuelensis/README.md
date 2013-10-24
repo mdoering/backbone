@@ -1,5 +1,4 @@
-Planomonospora venezuelensis Thiemann, 1967 (Approved Lists, 1980) SPECIES
-=======
+# Planomonospora venezuelensis Thiemann, 1967 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

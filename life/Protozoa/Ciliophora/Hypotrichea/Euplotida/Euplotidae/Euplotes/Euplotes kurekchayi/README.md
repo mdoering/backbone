@@ -1,5 +1,4 @@
-Euplotes kurekchayi SPECIES
-=======
+# Euplotes kurekchayi SPECIES
 
 #### Status
 ACCEPTED

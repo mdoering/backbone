@@ -1,5 +1,4 @@
-Melanoleuca aromatica Murrill SPECIES
-=======
+# Melanoleuca aromatica Murrill SPECIES
 
 #### Status
 ACCEPTED

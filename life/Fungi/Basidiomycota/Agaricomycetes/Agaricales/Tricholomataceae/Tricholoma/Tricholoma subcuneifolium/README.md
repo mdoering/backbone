@@ -1,5 +1,4 @@
-Tricholoma subcuneifolium Corner SPECIES
-=======
+# Tricholoma subcuneifolium Corner SPECIES
 
 #### Status
 ACCEPTED

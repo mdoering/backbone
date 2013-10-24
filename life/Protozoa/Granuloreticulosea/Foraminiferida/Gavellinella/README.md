@@ -1,5 +1,4 @@
-Gavellinella GENUS
-=======
+# Gavellinella GENUS
 
 #### Status
 ACCEPTED

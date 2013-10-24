@@ -1,5 +1,4 @@
-Lucasella Goy, Noël & Busson, 1979 GENUS
-=======
+# Lucasella Goy, Noël & Busson, 1979 GENUS
 
 #### Status
 ACCEPTED

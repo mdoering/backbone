@@ -1,5 +1,4 @@
-Leiosphaeridia maculata Sheshegova, 1984 SPECIES
-=======
+# Leiosphaeridia maculata Sheshegova, 1984 SPECIES
 
 #### Status
 ACCEPTED

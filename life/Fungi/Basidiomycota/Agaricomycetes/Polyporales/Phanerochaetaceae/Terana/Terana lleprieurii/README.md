@@ -1,5 +1,4 @@
-Terana lleprieurii (Mont.) Kuntze SPECIES
-=======
+# Terana lleprieurii (Mont.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

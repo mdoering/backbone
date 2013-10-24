@@ -1,5 +1,4 @@
-Candida fragi M. Suzuki, Nakase & Fukaz., 1991 SPECIES
-=======
+# Candida fragi M. Suzuki, Nakase & Fukaz., 1991 SPECIES
 
 #### Status
 ACCEPTED

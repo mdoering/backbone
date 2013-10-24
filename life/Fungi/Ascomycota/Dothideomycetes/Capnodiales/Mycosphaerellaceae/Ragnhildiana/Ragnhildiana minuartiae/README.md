@@ -1,5 +1,4 @@
-Ragnhildiana minuartiae Annal. SPECIES
-=======
+# Ragnhildiana minuartiae Annal. SPECIES
 
 #### Status
 ACCEPTED

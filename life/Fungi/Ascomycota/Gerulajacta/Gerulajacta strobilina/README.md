@@ -1,5 +1,4 @@
-Gerulajacta strobilina Preuss SPECIES
-=======
+# Gerulajacta strobilina Preuss SPECIES
 
 #### Status
 ACCEPTED

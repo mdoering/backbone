@@ -1,5 +1,4 @@
-Daljanella Saltovskaya, 1981 GENUS
-=======
+# Daljanella Saltovskaya, 1981 GENUS
 
 #### Status
 ACCEPTED

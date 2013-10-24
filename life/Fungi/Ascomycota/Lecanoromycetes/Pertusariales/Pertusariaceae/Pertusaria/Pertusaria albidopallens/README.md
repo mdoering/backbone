@@ -1,5 +1,4 @@
-Pertusaria albidopallens Nyl. SPECIES
-=======
+# Pertusaria albidopallens Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Glenodinium edax Schilling SPECIES
-=======
+# Peridiniopsis edax (Schilling) Bourrelly SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

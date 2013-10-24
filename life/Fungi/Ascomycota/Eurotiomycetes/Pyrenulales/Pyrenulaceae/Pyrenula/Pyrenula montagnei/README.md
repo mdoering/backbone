@@ -1,5 +1,4 @@
-Pyrenula montagnei Müll. Arg. SPECIES
-=======
+# Pyrenula montagnei Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

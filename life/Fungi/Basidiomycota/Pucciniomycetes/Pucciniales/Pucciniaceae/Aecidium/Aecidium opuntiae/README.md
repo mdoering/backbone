@@ -1,5 +1,4 @@
-Aecidium opuntiae Magnus SPECIES
-=======
+# Aecidium opuntiae Magnus SPECIES
 
 #### Status
 ACCEPTED

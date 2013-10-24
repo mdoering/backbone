@@ -1,5 +1,4 @@
-Conida destruens f. destruens FORM
-=======
+# Conida destruens Rehm SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Conida destruens f. destruens
+Conida destruens Rehm
 
 ### Remarks
 null

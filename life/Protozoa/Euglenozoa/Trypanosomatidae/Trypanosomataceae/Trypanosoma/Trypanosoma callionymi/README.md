@@ -1,5 +1,4 @@
-Trypanosoma callionymi Brumpt & Lebailly, 1904 SPECIES
-=======
+# Trypanosoma callionymi Brumpt & Lebailly, 1904 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Segestrella alpina Bagl. & Carestia SPECIES
-=======
+# Segestrella alpina Bagl. & Carestia SPECIES
 
 #### Status
 ACCEPTED

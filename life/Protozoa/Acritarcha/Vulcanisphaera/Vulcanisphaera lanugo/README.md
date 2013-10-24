@@ -1,5 +1,4 @@
-Vulcanisphaera lanugo Martin in Martin & Dean, 1988 SPECIES
-=======
+# Vulcanisphaera lanugo Martin in Martin & Dean, 1988 SPECIES
 
 #### Status
 ACCEPTED

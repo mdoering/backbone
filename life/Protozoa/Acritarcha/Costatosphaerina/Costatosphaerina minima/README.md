@@ -1,5 +1,4 @@
-Costatosphaerina minima Lopukhin, 1974 SPECIES
-=======
+# Costatosphaerina minima Lopukhin, 1974 SPECIES
 
 #### Status
 ACCEPTED

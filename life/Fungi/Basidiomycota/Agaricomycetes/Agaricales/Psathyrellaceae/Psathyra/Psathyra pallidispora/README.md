@@ -1,5 +1,4 @@
-Psathyra pallidispora Murrill SPECIES
-=======
+# Psathyra pallidispora Murrill SPECIES
 
 #### Status
 ACCEPTED

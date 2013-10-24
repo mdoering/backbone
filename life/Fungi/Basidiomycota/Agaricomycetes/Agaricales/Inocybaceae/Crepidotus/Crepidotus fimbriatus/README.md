@@ -1,5 +1,4 @@
-Crepidotus fimbriatus Hesler & A.H. Sm. SPECIES
-=======
+# Crepidotus fimbriatus Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

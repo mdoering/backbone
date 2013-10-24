@@ -1,17 +1,16 @@
-Chagasia Léger, 1911 GENUS
-=======
+# Chagasella Machado, 1912 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Arch. Protistenk. , 22, 85.
+Bull. Soc. Path. Exot. , 4, 616.
 
 #### Original name
-null
+Chagasia Léger, 1911
 
 ### Remarks
 null

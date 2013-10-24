@@ -1,5 +1,4 @@
-Marasmius tenuiparietalis Singer, 1969 SPECIES
-=======
+# Marasmius tenuiparietalis Singer, 1969 SPECIES
 
 #### Status
 ACCEPTED

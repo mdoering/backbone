@@ -1,5 +1,4 @@
-Trichostroma axonopi Tehon SPECIES
-=======
+# Trichostroma axonopi Tehon SPECIES
 
 #### Status
 ACCEPTED

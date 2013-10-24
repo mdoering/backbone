@@ -1,5 +1,4 @@
-Xylaria holmbergi Speg. SPECIES
-=======
+# Xylaria holmbergi Speg. SPECIES
 
 #### Status
 ACCEPTED

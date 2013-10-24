@@ -1,5 +1,4 @@
-Uredopeltis Henn. GENUS
-=======
+# Uredopeltis Henn. GENUS
 
 #### Status
 ACCEPTED

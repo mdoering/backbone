@@ -1,5 +1,4 @@
-Leptoniella albida Murrill SPECIES
-=======
+# Leptoniella albida Murrill SPECIES
 
 #### Status
 ACCEPTED

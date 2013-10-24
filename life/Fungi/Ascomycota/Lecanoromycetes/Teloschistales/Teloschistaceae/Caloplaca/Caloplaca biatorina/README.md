@@ -1,5 +1,4 @@
-Caloplaca biatorina subsp. biatorina SUBSPECIES
-=======
+# Caloplaca biatorina (Trevis.) J. Steiner SPECIES
 
 #### Status
 ACCEPTED

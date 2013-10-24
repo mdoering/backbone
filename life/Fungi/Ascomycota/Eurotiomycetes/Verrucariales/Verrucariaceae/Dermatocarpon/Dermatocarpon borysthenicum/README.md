@@ -1,5 +1,4 @@
-Dermatocarpon borysthenicum (Oxner) Oxner SPECIES
-=======
+# Dermatocarpon borysthenicum (Oxner) Oxner SPECIES
 
 #### Status
 ACCEPTED

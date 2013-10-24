@@ -1,8 +1,7 @@
-Pleurotricha variabilis Reuter, 1961 SPECIES
-=======
+# Allotricha mollis Sterki, 1878 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

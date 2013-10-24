@@ -1,5 +1,4 @@
-Mycena squamulosa Singer SPECIES
-=======
+# Mycena squamulosa Singer SPECIES
 
 #### Status
 ACCEPTED

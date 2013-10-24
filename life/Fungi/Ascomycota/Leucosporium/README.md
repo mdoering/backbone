@@ -1,17 +1,16 @@
-Phymatostroma Corda GENUS
-=======
+# Leucosporium Corda GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Icon. fung. (Prague) 1: 5 (1837)
+in Sturm, Deutschl. Fl. , 3 Abt. (Pilze Deutschl. ) 3(13): 67 (1833)
 
 #### Original name
-Phymatostroma Corda
+Leucosporium Corda
 
 ### Remarks
 null

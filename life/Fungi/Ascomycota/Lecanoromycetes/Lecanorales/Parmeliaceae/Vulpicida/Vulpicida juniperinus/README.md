@@ -1,17 +1,16 @@
-Lichen juniperinus var. juniperinus VARIETY
-=======
+# Vulpicida juniperinus (L.) J.-E. Mattsson & M. J. Lai SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sp. pl. 2: 1147 (1753)
+Mycotaxon 46: 427 (1993)
 
 #### Original name
-Lichen juniperinus var. juniperinus
+Lichen juniperinus L.
 
 ### Remarks
 null

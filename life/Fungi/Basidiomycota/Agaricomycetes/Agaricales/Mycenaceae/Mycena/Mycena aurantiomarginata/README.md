@@ -1,17 +1,16 @@
-Mycena elegans var. elegans VARIETY
-=======
+# Mycena aurantiomarginata (Fr.) Quél., 1872 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Führ. Pilzk. (Zwickau) 109 (1871)
+Mém. Soc. Émul. Montbéliard, Sér. 2 5: 240 (1872)
 
 #### Original name
-Mycena elegans var. elegans
+Agaricus aurantiomarginatus Fr., 1821
 
 ### Remarks
 null

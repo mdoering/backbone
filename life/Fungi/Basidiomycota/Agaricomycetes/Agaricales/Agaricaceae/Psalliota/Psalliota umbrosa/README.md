@@ -1,5 +1,4 @@
-Psalliota umbrosa Velen. SPECIES
-=======
+# Psalliota umbrosa Velen. SPECIES
 
 #### Status
 ACCEPTED

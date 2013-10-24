@@ -1,5 +1,4 @@
-Glandulina koreana McCulloch, 1977 SPECIES
-=======
+# Glandulina koreana McCulloch, 1977 SPECIES
 
 #### Status
 ACCEPTED

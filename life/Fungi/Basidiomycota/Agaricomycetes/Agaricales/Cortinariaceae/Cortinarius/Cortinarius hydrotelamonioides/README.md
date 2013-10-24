@@ -1,5 +1,4 @@
-Cortinarius hydrotelamonioides Rob. Henry SPECIES
-=======
+# Cortinarius hydrotelamonioides Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

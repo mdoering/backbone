@@ -1,5 +1,4 @@
-Lophiostoma herbarum (Wehm.) Shoemaker & C.E. Babc. SPECIES
-=======
+# Lophiostoma herbarum (Wehm.) Shoemaker & C.E. Babc. SPECIES
 
 #### Status
 ACCEPTED

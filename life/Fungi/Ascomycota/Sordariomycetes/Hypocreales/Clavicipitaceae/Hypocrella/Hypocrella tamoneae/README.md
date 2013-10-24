@@ -1,5 +1,4 @@
-Hypocrella tamoneae Earle SPECIES
-=======
+# Hypocrella tamoneae Earle SPECIES
 
 #### Status
 ACCEPTED

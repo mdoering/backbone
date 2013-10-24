@@ -1,5 +1,4 @@
-Manginella oblongispora M.L. Farr SPECIES
-=======
+# Manginella oblongispora M.L. Farr SPECIES
 
 #### Status
 ACCEPTED

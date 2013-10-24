@@ -1,5 +1,4 @@
-Polyporus rubripes Rostk. SPECIES
-=======
+# Polyporus rubripes Rostk. SPECIES
 
 #### Status
 ACCEPTED

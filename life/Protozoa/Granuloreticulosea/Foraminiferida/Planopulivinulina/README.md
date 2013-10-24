@@ -1,5 +1,4 @@
-Planopulivinulina GENUS
-=======
+# Planopulivinulina GENUS
 
 #### Status
 ACCEPTED

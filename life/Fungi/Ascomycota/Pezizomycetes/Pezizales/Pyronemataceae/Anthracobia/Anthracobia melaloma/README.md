@@ -1,17 +1,16 @@
-Lachnea melaloma var. melaloma VARIETY
-=======
+# Anthracobia melaloma (Alb. & Schwein.) Arnould, 1893 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 8: 181 (1889)
+Bull. Soc. mycol. Fr. 9: 112 (1893)
 
 #### Original name
-Lachnea melaloma var. melaloma
+Peziza melaloma Alb. & Schwein., 1805
 
 ### Remarks
 null

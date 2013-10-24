@@ -1,5 +1,4 @@
-Caeoma pingue (DC.) Link SPECIES
-=======
+# Caeoma pingue (DC.) Link SPECIES
 
 #### Status
 ACCEPTED

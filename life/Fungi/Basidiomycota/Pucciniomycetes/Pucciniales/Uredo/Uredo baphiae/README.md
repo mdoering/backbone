@@ -1,5 +1,4 @@
-Uredo baphiae Henn. SPECIES
-=======
+# Uredo baphiae Henn. SPECIES
 
 #### Status
 ACCEPTED

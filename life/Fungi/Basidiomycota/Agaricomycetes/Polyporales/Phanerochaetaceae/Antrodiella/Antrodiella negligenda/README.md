@@ -1,5 +1,4 @@
-Antrodiella negligenda (Corner) T. Hatt. SPECIES
-=======
+# Antrodiella negligenda (Corner) T. Hatt. SPECIES
 
 #### Status
 ACCEPTED

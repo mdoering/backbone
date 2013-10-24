@@ -1,5 +1,4 @@
-Phoma fructus-pandani Verona SPECIES
-=======
+# Phoma fructus-pandani Verona SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochyta ducometii Fourmont, 1938 SPECIES
-=======
+# Ascochyta ducometii Fourmont, 1938 SPECIES
 
 #### Status
 ACCEPTED

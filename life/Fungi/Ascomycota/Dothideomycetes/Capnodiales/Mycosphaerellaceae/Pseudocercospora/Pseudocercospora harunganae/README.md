@@ -1,5 +1,4 @@
-Pseudocercospora harunganae Deighton SPECIES
-=======
+# Pseudocercospora harunganae Deighton SPECIES
 
 #### Status
 ACCEPTED

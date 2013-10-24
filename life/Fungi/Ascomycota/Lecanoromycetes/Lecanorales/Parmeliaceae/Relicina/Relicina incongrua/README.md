@@ -1,5 +1,4 @@
-Relicina incongrua Hale SPECIES
-=======
+# Relicina incongrua Hale SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleurotus kotlabae Pilát SPECIES
-=======
+# Pleurotus kotlabae Pilát SPECIES
 
 #### Status
 ACCEPTED

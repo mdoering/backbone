@@ -1,5 +1,4 @@
-Leptostroma artemisiae Dearn. & House SPECIES
-=======
+# Leptostroma artemisiae Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

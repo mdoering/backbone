@@ -1,5 +1,4 @@
-Bipolaris obclavata Sivan. SPECIES
-=======
+# Bipolaris obclavata Sivan. SPECIES
 
 #### Status
 ACCEPTED

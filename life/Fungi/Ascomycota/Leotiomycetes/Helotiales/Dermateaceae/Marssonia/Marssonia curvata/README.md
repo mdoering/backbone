@@ -1,5 +1,4 @@
-Marssonia curvata Bubák & Kabát SPECIES
-=======
+# Marssonia curvata Bubák & Kabát SPECIES
 
 #### Status
 ACCEPTED

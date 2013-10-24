@@ -1,5 +1,4 @@
-Parmelia cribellata Taylor SPECIES
-=======
+# Parmelia cribellata Taylor SPECIES
 
 #### Status
 ACCEPTED

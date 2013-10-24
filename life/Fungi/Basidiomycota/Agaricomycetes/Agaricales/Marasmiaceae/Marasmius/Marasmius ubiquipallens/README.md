@@ -1,5 +1,4 @@
-Marasmius ubiquipallens Desjardin & E. Horak SPECIES
-=======
+# Marasmius ubiquipallens Desjardin & E. Horak SPECIES
 
 #### Status
 ACCEPTED

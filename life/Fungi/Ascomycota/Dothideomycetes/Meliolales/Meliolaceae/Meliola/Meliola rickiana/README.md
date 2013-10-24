@@ -1,5 +1,4 @@
-Meliola rickiana var. rickiana Hansf. VARIETY
-=======
+# Meliola rickiana Hansf. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Sydowia 9: 24 (1955)
 
 #### Original name
-Meliola rickiana var. rickiana Hansf.
+Meliola rickiana Hansf.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Helvella cinereocandida Hazsl. SPECIES
-=======
+# Helvella cinereocandida Hazsl. SPECIES
 
 #### Status
 ACCEPTED

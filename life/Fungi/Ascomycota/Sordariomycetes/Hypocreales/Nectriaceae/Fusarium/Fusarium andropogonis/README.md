@@ -1,5 +1,4 @@
-Fusarium andropogonis Cooke SPECIES
-=======
+# Fusarium andropogonis Cooke SPECIES
 
 #### Status
 ACCEPTED

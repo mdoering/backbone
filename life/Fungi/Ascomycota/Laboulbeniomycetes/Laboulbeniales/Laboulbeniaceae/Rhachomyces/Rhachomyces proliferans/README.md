@@ -1,5 +1,4 @@
-Rhachomyces proliferans Lepesme SPECIES
-=======
+# Rhachomyces proliferans Lepesme SPECIES
 
 #### Status
 ACCEPTED

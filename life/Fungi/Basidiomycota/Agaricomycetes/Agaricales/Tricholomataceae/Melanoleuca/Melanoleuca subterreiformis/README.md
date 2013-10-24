@@ -1,5 +1,4 @@
-Melanoleuca subterreiformis Murrill SPECIES
-=======
+# Melanoleuca subterreiformis Murrill SPECIES
 
 #### Status
 ACCEPTED

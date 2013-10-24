@@ -1,5 +1,4 @@
-Diporicellaesporites attenuatus Ramanujam & Srisailam SPECIES
-=======
+# Diporicellaesporites attenuatus Ramanujam & Srisailam SPECIES
 
 #### Status
 ACCEPTED

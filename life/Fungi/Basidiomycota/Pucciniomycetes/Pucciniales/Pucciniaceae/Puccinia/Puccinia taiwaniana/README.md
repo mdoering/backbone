@@ -1,5 +1,4 @@
-Puccinia taiwaniana Hirats. f. & Hashioka SPECIES
-=======
+# Puccinia taiwaniana Hirats. f. & Hashioka SPECIES
 
 #### Status
 ACCEPTED

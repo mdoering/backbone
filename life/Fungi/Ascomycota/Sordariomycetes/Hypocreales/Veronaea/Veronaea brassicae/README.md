@@ -1,5 +1,4 @@
-Veronaea brassicae M.B. Ellis SPECIES
-=======
+# Veronaea brassicae M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

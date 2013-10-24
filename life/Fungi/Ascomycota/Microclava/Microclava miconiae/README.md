@@ -1,17 +1,16 @@
-Microclava miconia F. Stevens SPECIES
-=======
+# Microclava miconiae F. Stevens, 1917 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Ill. St. Acad. Sci. 10: 206 (1917)
 
 #### Original name
-Microclava miconia F. Stevens
+Microclava miconiae F. Stevens, 1917
 
 ### Remarks
 null

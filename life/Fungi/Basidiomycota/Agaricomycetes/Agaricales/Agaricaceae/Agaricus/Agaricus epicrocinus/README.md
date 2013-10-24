@@ -1,5 +1,4 @@
-Agaricus epicrocinus Berk. & Broome SPECIES
-=======
+# Agaricus epicrocinus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clostridium quinii Svensson et al., 1995 SPECIES
-=======
+# Clostridium quinii Svensson et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

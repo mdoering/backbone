@@ -1,5 +1,4 @@
-Peniophora investiens Burt SPECIES
-=======
+# Peniophora investiens Burt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplomastigamoeba J. Massart, 1901 GENUS
-=======
+# Diplomastigamoeba J. Massart, 1901 GENUS
 
 #### Status
 ACCEPTED

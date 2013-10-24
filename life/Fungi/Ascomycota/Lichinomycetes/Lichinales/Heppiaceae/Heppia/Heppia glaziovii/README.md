@@ -1,5 +1,4 @@
-Heppia glaziovii (Hue) Zahlbr. SPECIES
-=======
+# Heppia glaziovii (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

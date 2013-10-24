@@ -1,5 +1,4 @@
-Chaetophiophoma tremae Speg. SPECIES
-=======
+# Chaetophiophoma tremae Speg. SPECIES
 
 #### Status
 ACCEPTED

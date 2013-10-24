@@ -1,5 +1,4 @@
-Russula lutescentifolia Murrill SPECIES
-=======
+# Russula lutescentifolia Murrill SPECIES
 
 #### Status
 ACCEPTED

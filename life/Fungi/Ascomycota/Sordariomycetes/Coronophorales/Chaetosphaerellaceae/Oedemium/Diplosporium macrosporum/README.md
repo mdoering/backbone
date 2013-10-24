@@ -1,5 +1,4 @@
-Diplosporium macrosporum Speg. SPECIES
-=======
+# Diplosporium macrosporum Speg. SPECIES
 
 #### Status
 ACCEPTED

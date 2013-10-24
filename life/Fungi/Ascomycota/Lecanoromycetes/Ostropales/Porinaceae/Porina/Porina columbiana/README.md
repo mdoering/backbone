@@ -1,5 +1,4 @@
-Porina columbiana H. Magn. SPECIES
-=======
+# Porina columbiana H. Magn. SPECIES
 
 #### Status
 ACCEPTED

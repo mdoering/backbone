@@ -1,5 +1,4 @@
-Cyphella sarothamni Pilát SPECIES
-=======
+# Cyphella sarothamni Pilát SPECIES
 
 #### Status
 ACCEPTED

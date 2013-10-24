@@ -1,5 +1,4 @@
-Rickia minuta Paoli SPECIES
-=======
+# Rickia minuta Paoli SPECIES
 
 #### Status
 ACCEPTED

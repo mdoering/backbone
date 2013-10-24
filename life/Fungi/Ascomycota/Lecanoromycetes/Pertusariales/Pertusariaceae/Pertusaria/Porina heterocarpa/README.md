@@ -1,5 +1,4 @@
-Porina heterocarpa P.M. McCarthy, 1993 SPECIES
-=======
+# Porina heterocarpa P.M. McCarthy, 1993 SPECIES
 
 #### Status
 DOUBTFUL

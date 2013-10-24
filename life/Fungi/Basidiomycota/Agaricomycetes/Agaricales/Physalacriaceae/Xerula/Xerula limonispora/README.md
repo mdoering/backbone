@@ -1,5 +1,4 @@
-Xerula limonispora R.H. Petersen SPECIES
-=======
+# Xerula limonispora R.H. Petersen SPECIES
 
 #### Status
 ACCEPTED

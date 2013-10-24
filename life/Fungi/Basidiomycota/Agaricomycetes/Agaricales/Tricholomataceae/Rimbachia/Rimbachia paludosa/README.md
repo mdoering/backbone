@@ -1,5 +1,4 @@
-Rimbachia paludosa Redhead, 1984 SPECIES
-=======
+# Rimbachia paludosa Redhead, 1984 SPECIES
 
 #### Status
 ACCEPTED

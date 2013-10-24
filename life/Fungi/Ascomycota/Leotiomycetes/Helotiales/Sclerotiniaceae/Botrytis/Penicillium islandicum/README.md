@@ -1,5 +1,4 @@
-Penicillium islandicum Sopp, 1912 SPECIES
-=======
+# Penicillium islandicum Sopp, 1912 SPECIES
 
 #### Status
 DOUBTFUL

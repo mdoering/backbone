@@ -1,5 +1,4 @@
-Amanita brunneolocularis Tulloss, Ovrebo & Halling SPECIES
-=======
+# Amanita brunneolocularis Tulloss, Ovrebo & Halling SPECIES
 
 #### Status
 ACCEPTED

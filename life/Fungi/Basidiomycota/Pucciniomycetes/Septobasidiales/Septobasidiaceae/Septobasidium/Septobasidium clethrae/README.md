@@ -1,5 +1,4 @@
-Septobasidium clethrae Couch ex L.D. Gómez & Henk SPECIES
-=======
+# Septobasidium clethrae Couch ex L.D. Gómez & Henk SPECIES
 
 #### Status
 ACCEPTED

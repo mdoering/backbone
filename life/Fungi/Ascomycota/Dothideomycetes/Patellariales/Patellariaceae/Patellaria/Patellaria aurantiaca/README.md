@@ -1,5 +1,4 @@
-Patellaria aurantiaca (Lightf.) DC. SPECIES
-=======
+# Patellaria aurantiaca (Lightf.) DC. SPECIES
 
 #### Status
 ACCEPTED

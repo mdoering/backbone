@@ -1,5 +1,4 @@
-Magnifolliculina Uhlig, 1964 GENUS
-=======
+# Magnifolliculina Uhlig, 1964 GENUS
 
 #### Status
 ACCEPTED

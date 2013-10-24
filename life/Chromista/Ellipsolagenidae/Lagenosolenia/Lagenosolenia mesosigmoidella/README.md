@@ -1,5 +1,4 @@
-Lagenosolenia mesosigmoidella McCulloch, 1977 SPECIES
-=======
+# Lagenosolenia mesosigmoidella McCulloch, 1977 SPECIES
 
 #### Status
 ACCEPTED

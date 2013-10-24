@@ -1,5 +1,4 @@
-Penicillium matris-meae K.M. Zalessky SPECIES
-=======
+# Penicillium matris-meae K.M. Zalessky SPECIES
 
 #### Status
 ACCEPTED

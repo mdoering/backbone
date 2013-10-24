@@ -1,5 +1,4 @@
-Amanitopsis pudica Beeli SPECIES
-=======
+# Amanitopsis pudica Beeli SPECIES
 
 #### Status
 ACCEPTED

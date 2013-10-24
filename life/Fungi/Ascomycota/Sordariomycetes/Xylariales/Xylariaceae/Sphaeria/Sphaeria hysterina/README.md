@@ -1,5 +1,4 @@
-Sphaeria hysterina Wallr. SPECIES
-=======
+# Sphaeria hysterina Wallr. SPECIES
 
 #### Status
 ACCEPTED

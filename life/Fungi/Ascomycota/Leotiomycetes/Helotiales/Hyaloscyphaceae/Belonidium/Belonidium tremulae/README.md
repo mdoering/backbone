@@ -1,5 +1,4 @@
-Belonidium tremulae var. tremulae VARIETY
-=======
+# Belonidium tremulae Velen. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Monogr. Discom. Bohem. (Prague) 128 (1934)
 
 #### Original name
-Belonidium tremulae var. tremulae
+Belonidium tremulae Velen.
 
 ### Remarks
 null

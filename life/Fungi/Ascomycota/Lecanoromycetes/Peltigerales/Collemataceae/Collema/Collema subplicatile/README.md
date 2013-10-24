@@ -1,5 +1,4 @@
-Collema subplicatile Nyl. SPECIES
-=======
+# Collema subplicatile Nyl. SPECIES
 
 #### Status
 ACCEPTED

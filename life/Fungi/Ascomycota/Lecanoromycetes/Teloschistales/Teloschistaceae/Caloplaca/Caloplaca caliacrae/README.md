@@ -1,5 +1,4 @@
-Caloplaca caliacrae Cretiou SPECIES
-=======
+# Caloplaca caliacrae Cretiou SPECIES
 
 #### Status
 ACCEPTED

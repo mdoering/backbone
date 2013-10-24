@@ -1,5 +1,4 @@
-Chiodecton bracei Riddle SPECIES
-=======
+# Chiodecton bracei Riddle SPECIES
 
 #### Status
 ACCEPTED

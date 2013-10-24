@@ -1,5 +1,4 @@
-Diplodina verbenacea Har. & Briard SPECIES
-=======
+# Diplodina verbenacea Har. & Briard SPECIES
 
 #### Status
 ACCEPTED

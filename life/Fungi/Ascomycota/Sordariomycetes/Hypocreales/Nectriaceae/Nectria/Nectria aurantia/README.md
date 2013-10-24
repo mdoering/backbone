@@ -1,5 +1,4 @@
-Nectria aurantia Fr. SPECIES
-=======
+# Nectria aurantia Fr. SPECIES
 
 #### Status
 ACCEPTED

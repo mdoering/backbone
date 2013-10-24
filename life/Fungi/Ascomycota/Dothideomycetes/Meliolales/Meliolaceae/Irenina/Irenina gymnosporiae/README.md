@@ -1,5 +1,4 @@
-Irenina gymnosporiae (Syd.) F. Stevens SPECIES
-=======
+# Irenina gymnosporiae (Syd.) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochyta rudbeckae (Ellis & Everh.) H.C. Greene SPECIES
-=======
+# Ascochyta rudbeckae (Ellis & Everh.) H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

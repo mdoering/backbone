@@ -1,5 +1,4 @@
-Pterula carpophila Corner, 1966 SPECIES
-=======
+# Pterula carpophila Corner, 1966 SPECIES
 
 #### Status
 ACCEPTED

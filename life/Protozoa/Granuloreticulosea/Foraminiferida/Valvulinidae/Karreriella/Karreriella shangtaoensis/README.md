@@ -1,5 +1,4 @@
-Karreriella shangtaoensis Chang SPECIES
-=======
+# Karreriella shangtaoensis Chang SPECIES
 
 #### Status
 ACCEPTED

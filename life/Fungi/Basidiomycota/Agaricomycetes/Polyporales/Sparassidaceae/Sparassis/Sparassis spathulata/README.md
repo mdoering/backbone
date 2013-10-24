@@ -1,14 +1,13 @@
-Merisma spathulatum Schwein., 1822 SPECIES
-=======
+# Sparassis spathulata (Schwein.) Fr., 1828 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Schr. naturf. Ges. Leipzig 1: 110 (1822)
+Elench. fung. (Greifswald) 1: 227 (1828)
 
 #### Original name
 Merisma spathulatum Schwein., 1822

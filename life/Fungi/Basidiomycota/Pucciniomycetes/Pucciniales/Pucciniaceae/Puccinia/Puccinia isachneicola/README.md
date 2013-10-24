@@ -1,17 +1,16 @@
-Puccinia isachnicola Pardo-Card. SPECIES
-=======
+# Puccinia isachneicola Pardo-Card. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Caldasia 25(2): 287 (2003)
 
 #### Original name
-Puccinia isachnicola Pardo-Card.
+Puccinia isachneicola Pardo-Card.
 
 ### Remarks
 null

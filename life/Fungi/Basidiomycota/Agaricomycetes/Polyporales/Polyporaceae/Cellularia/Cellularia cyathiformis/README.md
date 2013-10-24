@@ -1,5 +1,4 @@
-Cellularia cyathiformis Bull. SPECIES
-=======
+# Cellularia cyathiformis Bull. SPECIES
 
 #### Status
 ACCEPTED

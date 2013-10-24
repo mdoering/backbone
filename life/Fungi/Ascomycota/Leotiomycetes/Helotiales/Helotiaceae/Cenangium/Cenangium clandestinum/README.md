@@ -1,5 +1,4 @@
-Cenangium clandestinum var. clandestinum VARIETY
-=======
+# Cenangium clandestinum Rehm SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cenangium clandestinum var. clandestinum
+Cenangium clandestinum Rehm
 
 ### Remarks
 null

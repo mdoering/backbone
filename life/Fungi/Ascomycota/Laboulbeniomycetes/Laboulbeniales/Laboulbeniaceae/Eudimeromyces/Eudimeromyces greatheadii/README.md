@@ -1,17 +1,16 @@
-Eudimeromyces greatheadi Balazuc SPECIES
-=======
+# Eudimeromyces greatheadii Balazuc SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revue mycol. , Toulouse 37(5): 253 (1973)
 
 #### Original name
-Eudimeromyces greatheadi Balazuc
+Eudimeromyces greatheadii Balazuc
 
 ### Remarks
 null

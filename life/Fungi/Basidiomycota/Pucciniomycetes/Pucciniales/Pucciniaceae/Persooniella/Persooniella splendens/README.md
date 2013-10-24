@@ -1,5 +1,4 @@
-Persooniella splendens (Vize) Syd. SPECIES
-=======
+# Persooniella splendens (Vize) Syd. SPECIES
 
 #### Status
 ACCEPTED

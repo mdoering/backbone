@@ -1,5 +1,4 @@
-Ramalina prolifera Taylor SPECIES
-=======
+# Ramalina prolifera Taylor SPECIES
 
 #### Status
 ACCEPTED

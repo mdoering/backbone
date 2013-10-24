@@ -1,5 +1,4 @@
-Uromyces rhynchosporicola Henn. SPECIES
-=======
+# Uromyces rhynchosporicola Henn. SPECIES
 
 #### Status
 ACCEPTED

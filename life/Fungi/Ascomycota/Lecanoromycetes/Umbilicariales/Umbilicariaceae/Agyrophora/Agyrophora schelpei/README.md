@@ -1,8 +1,7 @@
-Agyrophora schelphei (Frey) Llano SPECIES
-=======
+# Agyrophora schelpei (Frey) Llano SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

@@ -1,5 +1,4 @@
-Isaria phalangiophila Link SPECIES
-=======
+# Isaria phalangiophila Link SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeographina platycarpa var. platycarpa VARIETY
-=======
+# Phaeographina platycarpa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phaeographina platycarpa var. platycarpa
+Phaeographina platycarpa Müll. Arg.
 
 ### Remarks
 null

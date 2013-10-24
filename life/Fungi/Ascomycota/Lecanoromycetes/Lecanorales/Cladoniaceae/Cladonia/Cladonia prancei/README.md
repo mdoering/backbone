@@ -1,5 +1,4 @@
-Cladonia prancei Ahti SPECIES
-=======
+# Cladonia prancei Ahti SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Jahnula Kirschst. GENUS
-=======
+# Jahnula Kirschst. GENUS
 
 #### Status
 ACCEPTED

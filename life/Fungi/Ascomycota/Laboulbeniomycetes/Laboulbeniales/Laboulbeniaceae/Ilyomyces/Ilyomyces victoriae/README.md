@@ -1,5 +1,4 @@
-Ilyomyces victoriae A. Weir, 1995 SPECIES
-=======
+# Ilyomyces victoriae A. Weir, 1995 SPECIES
 
 #### Status
 ACCEPTED

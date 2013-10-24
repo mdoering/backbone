@@ -1,5 +1,4 @@
-Leptonia crenulata Largent SPECIES
-=======
+# Leptonia crenulata Largent SPECIES
 
 #### Status
 ACCEPTED

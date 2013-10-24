@@ -1,5 +1,4 @@
-Stagonospora arrhenatheri A.L. Sm., 1916 SPECIES
-=======
+# Stagonospora arrhenatheri A.L. Sm., 1916 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora fructuosa Stizenb. SPECIES
-=======
+# Lecanora fructuosa Stizenb. SPECIES
 
 #### Status
 ACCEPTED

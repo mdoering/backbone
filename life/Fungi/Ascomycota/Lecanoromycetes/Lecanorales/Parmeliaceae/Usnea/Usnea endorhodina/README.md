@@ -1,5 +1,4 @@
-Usnea endorhodina (Vain.) Zahlbr. SPECIES
-=======
+# Usnea endorhodina (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

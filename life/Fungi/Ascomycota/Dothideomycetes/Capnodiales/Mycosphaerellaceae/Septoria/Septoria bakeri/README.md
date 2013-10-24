@@ -1,5 +1,4 @@
-Septoria bakeri Syd. SPECIES
-=======
+# Septoria bakeri Syd. SPECIES
 
 #### Status
 ACCEPTED

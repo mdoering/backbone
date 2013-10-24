@@ -1,5 +1,4 @@
-Rinodina conizaea (Ach.) Nyl. SPECIES
-=======
+# Rinodina conizaea (Ach.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

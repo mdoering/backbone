@@ -1,5 +1,4 @@
-Hystrichosphaera buccina R. J. Davey & G. L. Williams SPECIES
-=======
+# Hystrichosphaera buccina R. J. Davey & G. L. Williams SPECIES
 
 #### Status
 ACCEPTED

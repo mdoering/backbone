@@ -1,5 +1,4 @@
-Cryptomonas testacea SPECIES
-=======
+# Cryptomonas testacea SPECIES
 
 #### Status
 ACCEPTED

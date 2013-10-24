@@ -1,5 +1,4 @@
-Plectania adusta (Schulzer) Sacc. SPECIES
-=======
+# Plectania adusta (Schulzer) Sacc. SPECIES
 
 #### Status
 ACCEPTED

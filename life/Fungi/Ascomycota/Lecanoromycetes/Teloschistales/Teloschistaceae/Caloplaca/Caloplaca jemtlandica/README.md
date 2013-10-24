@@ -1,5 +1,4 @@
-Caloplaca jemtlandica var. jemtlandica VARIETY
-=======
+# Caloplaca jemtlandica H. Magn. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Caloplaca jemtlandica var. jemtlandica
+Caloplaca jemtlandica H. Magn.
 
 ### Remarks
 null

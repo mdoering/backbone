@@ -1,8 +1,7 @@
-Aspicilia mulleri (J. Steiner) Hue SPECIES
-=======
+# Aspicilia muelleri (J. Steiner) Hue SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

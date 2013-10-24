@@ -1,5 +1,4 @@
-Entoloma maldea G.M. Gates & Noordel. SPECIES
-=======
+# Entoloma maldea G.M. Gates & Noordel. SPECIES
 
 #### Status
 ACCEPTED

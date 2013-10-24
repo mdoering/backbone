@@ -1,5 +1,4 @@
-Cortinarius chrysophaeus E. Horak SPECIES
-=======
+# Cortinarius chrysophaeus E. Horak SPECIES
 
 #### Status
 ACCEPTED

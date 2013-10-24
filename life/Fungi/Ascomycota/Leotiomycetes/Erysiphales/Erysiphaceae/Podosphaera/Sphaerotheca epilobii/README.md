@@ -1,14 +1,13 @@
-Albigo epilobii (Link) Kuntze, 1898 SPECIES
-=======
+# Sphaerotheca epilobii (Link) de Bary, 1871 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 442 (1898)
+Hedwigia 10: 68 (1871)
 
 #### Original name
 Erysiphe epilobii Link, 1824

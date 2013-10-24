@@ -1,5 +1,4 @@
-Secotium ochraceum Rodway, 1920 SPECIES
-=======
+# Secotium ochraceum Rodway, 1920 SPECIES
 
 #### Status
 ACCEPTED

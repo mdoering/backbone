@@ -1,5 +1,4 @@
-Leucogaster badius Mattir. SPECIES
-=======
+# Leucogaster badius Mattir. SPECIES
 
 #### Status
 ACCEPTED

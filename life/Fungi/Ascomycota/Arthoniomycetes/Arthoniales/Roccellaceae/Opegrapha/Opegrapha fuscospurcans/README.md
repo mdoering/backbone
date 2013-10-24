@@ -1,5 +1,4 @@
-Opegrapha fuscospurcans Nyl. SPECIES
-=======
+# Opegrapha fuscospurcans Nyl. SPECIES
 
 #### Status
 ACCEPTED

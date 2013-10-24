@@ -1,5 +1,4 @@
-Cithariplana Srivastava, 1984 GENUS
-=======
+# Cithariplana Srivastava, 1984 GENUS
 
 #### Status
 ACCEPTED

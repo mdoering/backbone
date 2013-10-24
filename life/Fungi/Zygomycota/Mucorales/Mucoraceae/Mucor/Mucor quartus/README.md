@@ -1,5 +1,4 @@
-Mucor quartus Schaeff. SPECIES
-=======
+# Mucor quartus Schaeff. SPECIES
 
 #### Status
 ACCEPTED

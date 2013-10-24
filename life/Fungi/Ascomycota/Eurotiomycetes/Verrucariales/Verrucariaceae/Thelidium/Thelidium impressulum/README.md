@@ -1,5 +1,4 @@
-Thelidium impressulum Zschacke SPECIES
-=======
+# Thelidium impressulum Zschacke SPECIES
 
 #### Status
 ACCEPTED

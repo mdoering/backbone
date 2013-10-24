@@ -1,5 +1,4 @@
-Hymenoscyphus gratus (Berk.) Dennis SPECIES
-=======
+# Hymenoscyphus gratus (Berk.) Dennis SPECIES
 
 #### Status
 ACCEPTED

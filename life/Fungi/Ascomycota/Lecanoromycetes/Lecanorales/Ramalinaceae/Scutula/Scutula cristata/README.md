@@ -1,5 +1,4 @@
-Scutula cristata (Leight.) Sacc. & D. Sacc., 1906 SPECIES
-=======
+# Scutula cristata (Leight.) Sacc. & D. Sacc., 1906 SPECIES
 
 #### Status
 ACCEPTED

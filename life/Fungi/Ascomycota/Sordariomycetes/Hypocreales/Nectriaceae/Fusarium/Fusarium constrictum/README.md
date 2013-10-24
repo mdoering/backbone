@@ -1,5 +1,4 @@
-Fusarium constrictum Penz. SPECIES
-=======
+# Fusarium constrictum Penz. SPECIES
 
 #### Status
 ACCEPTED

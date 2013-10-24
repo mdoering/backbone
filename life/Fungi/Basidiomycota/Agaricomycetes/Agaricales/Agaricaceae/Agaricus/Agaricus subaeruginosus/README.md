@@ -1,5 +1,4 @@
-Agaricus subaeruginosus Berk. & Broome SPECIES
-=======
+# Agaricus subaeruginosus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

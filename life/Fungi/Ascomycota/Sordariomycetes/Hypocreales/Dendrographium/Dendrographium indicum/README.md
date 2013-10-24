@@ -1,5 +1,4 @@
-Dendrographium indicum Sathe SPECIES
-=======
+# Dendrographium indicum Sathe SPECIES
 
 #### Status
 ACCEPTED

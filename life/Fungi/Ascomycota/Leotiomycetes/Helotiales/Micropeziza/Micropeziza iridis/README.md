@@ -1,5 +1,4 @@
-Micropeziza iridis Rehm SPECIES
-=======
+# Micropeziza iridis Rehm SPECIES
 
 #### Status
 ACCEPTED

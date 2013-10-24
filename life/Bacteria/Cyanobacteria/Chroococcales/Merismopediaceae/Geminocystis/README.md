@@ -1,5 +1,4 @@
-Geminocystis Korelusová, Kastovský & Komárek, 2009 GENUS
-=======
+# Geminocystis Korelusová, Kastovský & Komárek, 2009 GENUS
 
 #### Status
 ACCEPTED

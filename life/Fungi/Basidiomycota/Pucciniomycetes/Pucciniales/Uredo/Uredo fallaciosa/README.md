@@ -1,5 +1,4 @@
-Uredo fallaciosa Arthur SPECIES
-=======
+# Uredo fallaciosa Arthur SPECIES
 
 #### Status
 ACCEPTED

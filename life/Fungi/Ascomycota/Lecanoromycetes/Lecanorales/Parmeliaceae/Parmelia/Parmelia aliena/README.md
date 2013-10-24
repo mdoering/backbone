@@ -1,5 +1,4 @@
-Parmelia aliena Kurok. SPECIES
-=======
+# Parmelia aliena Kurok. SPECIES
 
 #### Status
 ACCEPTED

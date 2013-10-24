@@ -1,5 +1,4 @@
-Phyllosticta neurospilea Sacc. & Berl. SPECIES
-=======
+# Phyllosticta neurospilea Sacc. & Berl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Zymonema histosporocellularis Haberf. SPECIES
-=======
+# Zymonema histosporocellulare Haberf. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Granuloma Ganglionar Maligno de origem 'Blastomycetica' 86 (1919)
 
 #### Original name
-Zymonema histosporocellularis Haberf.
+Zymonema histosporocellulare Haberf.
 
 ### Remarks
 null

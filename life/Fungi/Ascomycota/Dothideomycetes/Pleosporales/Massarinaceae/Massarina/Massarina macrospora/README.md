@@ -1,5 +1,4 @@
-Massarina macrospora (Sacc.) O.E. Erikss. & J.Z. Yue SPECIES
-=======
+# Massarina macrospora (Sacc.) O.E. Erikss. & J.Z. Yue SPECIES
 
 #### Status
 ACCEPTED

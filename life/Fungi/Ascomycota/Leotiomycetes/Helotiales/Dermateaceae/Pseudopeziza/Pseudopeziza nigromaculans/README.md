@@ -1,5 +1,4 @@
-Pseudopeziza nigromaculans Rehm SPECIES
-=======
+# Pseudopeziza nigromaculans Rehm SPECIES
 
 #### Status
 ACCEPTED

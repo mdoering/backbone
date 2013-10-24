@@ -1,5 +1,4 @@
-Graphis decussata Kremp. SPECIES
-=======
+# Graphis decussata Kremp. SPECIES
 
 #### Status
 ACCEPTED

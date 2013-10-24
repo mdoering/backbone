@@ -1,5 +1,4 @@
-Elhasaella Hamam, 1976 GENUS
-=======
+# Elhasaella Hamam, 1976 GENUS
 
 #### Status
 ACCEPTED

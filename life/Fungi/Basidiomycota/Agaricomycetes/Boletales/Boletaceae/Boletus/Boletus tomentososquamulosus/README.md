@@ -1,5 +1,4 @@
-Boletus tomentososquamulosus Lj.N. Vassiljeva SPECIES
-=======
+# Boletus tomentososquamulosus Lj.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

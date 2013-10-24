@@ -1,5 +1,4 @@
-Tromera sarcogynoides A. Massal. SPECIES
-=======
+# Tromera sarcogynoides A. Massal. SPECIES
 
 #### Status
 ACCEPTED

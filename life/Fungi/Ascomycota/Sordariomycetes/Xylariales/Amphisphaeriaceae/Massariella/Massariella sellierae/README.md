@@ -1,5 +1,4 @@
-Massariella sellierae Tassi SPECIES
-=======
+# Massariella sellierae Tassi SPECIES
 
 #### Status
 ACCEPTED

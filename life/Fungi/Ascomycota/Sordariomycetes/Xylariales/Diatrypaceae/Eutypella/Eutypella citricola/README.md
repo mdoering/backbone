@@ -1,5 +1,4 @@
-Eutypella citricola Speg. SPECIES
-=======
+# Eutypella citricola Speg. SPECIES
 
 #### Status
 ACCEPTED

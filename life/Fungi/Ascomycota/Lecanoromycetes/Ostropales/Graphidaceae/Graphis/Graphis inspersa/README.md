@@ -1,5 +1,4 @@
-Graphis inspersa Redinger SPECIES
-=======
+# Graphis inspersa Redinger SPECIES
 
 #### Status
 ACCEPTED

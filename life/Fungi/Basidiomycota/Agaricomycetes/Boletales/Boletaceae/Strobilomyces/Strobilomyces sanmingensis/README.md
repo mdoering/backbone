@@ -1,5 +1,4 @@
-Strobilomyces sanmingensis N.L. Huang SPECIES
-=======
+# Strobilomyces sanmingensis N.L. Huang SPECIES
 
 #### Status
 ACCEPTED

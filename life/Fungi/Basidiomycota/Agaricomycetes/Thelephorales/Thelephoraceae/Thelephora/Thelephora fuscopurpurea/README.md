@@ -1,5 +1,4 @@
-Thelephora fuscopurpurea Pers. SPECIES
-=======
+# Thelephora fuscopurpurea Pers. SPECIES
 
 #### Status
 ACCEPTED

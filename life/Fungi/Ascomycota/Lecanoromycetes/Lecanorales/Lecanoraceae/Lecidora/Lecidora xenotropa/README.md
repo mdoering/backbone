@@ -1,5 +1,4 @@
-Lecidora xenotropa Motyka SPECIES
-=======
+# Lecidora xenotropa Motyka SPECIES
 
 #### Status
 ACCEPTED

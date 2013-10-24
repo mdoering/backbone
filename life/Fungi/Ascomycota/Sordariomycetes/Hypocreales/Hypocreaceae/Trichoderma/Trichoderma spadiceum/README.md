@@ -1,5 +1,4 @@
-Trichoderma spadiceum Schwein. SPECIES
-=======
+# Trichoderma spadiceum Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepiota oncopoda Berk. & Broome SPECIES
-=======
+# Lepiota oncopoda Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

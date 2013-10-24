@@ -1,5 +1,4 @@
-Ocellularia bicavata (Nyl.) Müll. Arg. SPECIES
-=======
+# Ocellularia bicavata (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

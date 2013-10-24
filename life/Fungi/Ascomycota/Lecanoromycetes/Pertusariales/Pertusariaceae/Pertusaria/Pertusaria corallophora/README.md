@@ -1,5 +1,4 @@
-Pertusaria corallophora Vain. SPECIES
-=======
+# Pertusaria corallophora Vain. SPECIES
 
 #### Status
 ACCEPTED

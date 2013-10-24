@@ -1,5 +1,4 @@
-Acarospora discurrens Zahlbr. SPECIES
-=======
+# Acarospora discurrens Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

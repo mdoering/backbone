@@ -1,5 +1,4 @@
-Baltisphaeridium spitiense Khanna, 1984 SPECIES
-=======
+# Baltisphaeridium spitiense Khanna, 1984 SPECIES
 
 #### Status
 ACCEPTED

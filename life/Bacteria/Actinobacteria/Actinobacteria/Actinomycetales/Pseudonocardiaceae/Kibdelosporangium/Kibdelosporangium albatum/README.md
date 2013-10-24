@@ -1,5 +1,4 @@
-Kibdelosporangium albatum Tomita et al., 1993 SPECIES
-=======
+# Kibdelosporangium albatum Tomita et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

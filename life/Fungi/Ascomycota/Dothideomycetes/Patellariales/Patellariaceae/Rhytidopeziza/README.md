@@ -1,5 +1,4 @@
-Rhytidopeziza GENUS
-=======
+# Rhytidopeziza GENUS
 
 #### Status
 ACCEPTED

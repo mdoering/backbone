@@ -1,5 +1,4 @@
-Aecidium aposeridis Namysl. SPECIES
-=======
+# Aecidium aposeridis Namysl. SPECIES
 
 #### Status
 ACCEPTED

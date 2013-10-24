@@ -1,5 +1,4 @@
-Actinomyces fumosus Krassiln. SPECIES
-=======
+# Actinomyces fumosus Krassiln. SPECIES
 
 #### Status
 ACCEPTED

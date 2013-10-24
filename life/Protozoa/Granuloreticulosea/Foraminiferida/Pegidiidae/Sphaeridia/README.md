@@ -1,5 +1,4 @@
-Sphaeridia Heron-Allen & Earland, 1928 GENUS
-=======
+# Sphaeridia Heron-Allen & Earland, 1928 GENUS
 
 #### Status
 ACCEPTED

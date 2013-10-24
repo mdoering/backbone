@@ -1,14 +1,13 @@
-Melanotaenium hypogenum (Tul. & C. Tul.) Schellenb., 1911 SPECIES
-=======
+# Melanotaenium hypogaeum (Tul. & C. Tul.) Schellenb., 1911 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. linn. Normandie, sér. 9 108 (1911)
+Beitr. Kryptfl. Schweiz 3: 108 (1911)
 
 #### Original name
 Ustilago hypogaea Tul. & C. Tul., 1851

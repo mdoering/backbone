@@ -1,5 +1,4 @@
-Bacidia albidoprasina C. Knight SPECIES
-=======
+# Bacidia albidoprasina C. Knight SPECIES
 
 #### Status
 ACCEPTED

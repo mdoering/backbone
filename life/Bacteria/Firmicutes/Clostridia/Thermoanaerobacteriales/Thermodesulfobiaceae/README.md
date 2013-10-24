@@ -1,5 +1,4 @@
-Thermodesulfobiaceae FAMILY
-=======
+# Thermodesulfobiaceae FAMILY
 
 #### Status
 ACCEPTED

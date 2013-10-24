@@ -1,5 +1,4 @@
-Hyphoderma laplata Lindsey SPECIES
-=======
+# Hyphoderma laplata Lindsey SPECIES
 
 #### Status
 ACCEPTED

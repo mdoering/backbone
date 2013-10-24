@@ -1,5 +1,4 @@
-Ammobaculites foliaceus SPECIES
-=======
+# Ammobaculites foliaceus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Epidermophyton clypeiforme MacCarthy SPECIES
-=======
+# Epidermophyton clypeiforme MacCarthy SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanidion pusillum (Peck) Sacc. SPECIES
-=======
+# Lecanidion pusillum (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Niebla juncosa Spjut SPECIES
-=======
+# Niebla juncosa Spjut SPECIES
 
 #### Status
 ACCEPTED

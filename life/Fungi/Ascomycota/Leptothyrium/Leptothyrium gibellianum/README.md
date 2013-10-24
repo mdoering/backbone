@@ -1,5 +1,4 @@
-Leptothyrium gibellianum Cavara SPECIES
-=======
+# Leptothyrium gibellianum Cavara SPECIES
 
 #### Status
 ACCEPTED

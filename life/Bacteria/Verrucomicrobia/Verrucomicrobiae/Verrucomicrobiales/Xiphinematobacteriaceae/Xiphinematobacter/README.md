@@ -1,5 +1,4 @@
-Xiphinematobacter Vandekerckhove et al., 2000 GENUS
-=======
+# Xiphinematobacter Vandekerckhove et al., 2000 GENUS
 
 #### Status
 ACCEPTED

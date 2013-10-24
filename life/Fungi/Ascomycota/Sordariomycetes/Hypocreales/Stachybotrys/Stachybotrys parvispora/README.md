@@ -1,5 +1,4 @@
-Stachybotrys parvispora S. Hughes, 1952 SPECIES
-=======
+# Stachybotrys parvispora S. Hughes, 1952 SPECIES
 
 #### Status
 ACCEPTED

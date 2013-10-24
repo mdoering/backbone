@@ -1,14 +1,13 @@
-Aplosporella punctum (Cooke & Ellis) Petr. SPECIES
-=======
+# Aplosporella puncta (Cooke & Ellis) Petr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 7(1-4): 129 (1953)
 
 #### Original name
 null

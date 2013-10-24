@@ -1,5 +1,4 @@
-Psilocybe canorubra Berk. & Broome SPECIES
-=======
+# Psilocybe canorubra Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chitonomyces introversus Thaxt. SPECIES
-=======
+# Chitonomyces introversus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

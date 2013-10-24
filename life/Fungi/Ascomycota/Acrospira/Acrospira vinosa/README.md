@@ -1,5 +1,4 @@
-Acrospira vinosa P. Crouan & H. Crouan SPECIES
-=======
+# Acrospira vinosa P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

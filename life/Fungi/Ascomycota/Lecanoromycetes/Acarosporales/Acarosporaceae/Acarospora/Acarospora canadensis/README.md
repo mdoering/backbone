@@ -1,5 +1,4 @@
-Acarospora canadensis H. Magn. SPECIES
-=======
+# Acarospora canadensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

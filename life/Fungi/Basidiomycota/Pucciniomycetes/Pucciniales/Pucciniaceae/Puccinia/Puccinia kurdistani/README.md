@@ -1,5 +1,4 @@
-Puccinia kurdistani Cooke SPECIES
-=======
+# Puccinia kurdistani Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramularia equinosa Unger SPECIES
-=======
+# Ramularia equinosa Unger SPECIES
 
 #### Status
 ACCEPTED

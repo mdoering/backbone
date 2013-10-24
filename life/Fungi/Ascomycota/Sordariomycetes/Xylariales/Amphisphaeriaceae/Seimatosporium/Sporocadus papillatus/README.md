@@ -1,5 +1,4 @@
-Sporocadus papillatus Preuss SPECIES
-=======
+# Sporocadus papillatus Preuss SPECIES
 
 #### Status
 ACCEPTED

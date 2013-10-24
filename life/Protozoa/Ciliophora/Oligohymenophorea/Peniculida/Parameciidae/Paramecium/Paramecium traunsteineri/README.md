@@ -1,5 +1,4 @@
-Paramecium traunsteineri Baumeister in Kahl, 1931 SPECIES
-=======
+# Paramecium traunsteineri Baumeister in Kahl, 1931 SPECIES
 
 #### Status
 ACCEPTED

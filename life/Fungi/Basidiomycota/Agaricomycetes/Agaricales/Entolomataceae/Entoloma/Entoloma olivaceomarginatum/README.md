@@ -1,5 +1,4 @@
-Entoloma olivaceomarginatum Hesler SPECIES
-=======
+# Entoloma olivaceomarginatum Hesler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ocellularia groenhartii Hale SPECIES
-=======
+# Ocellularia groenhartii Hale SPECIES
 
 #### Status
 ACCEPTED

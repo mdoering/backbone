@@ -1,5 +1,4 @@
-Triceromyces poissonii (R.K. Benj.) R.K. Benj. SPECIES
-=======
+# Triceromyces poissonii (R.K. Benj.) R.K. Benj. SPECIES
 
 #### Status
 ACCEPTED

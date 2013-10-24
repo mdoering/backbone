@@ -1,5 +1,4 @@
-Splanchnomyces rabenhorstii Corda SPECIES
-=======
+# Splanchnomyces rabenhorstii Corda SPECIES
 
 #### Status
 ACCEPTED

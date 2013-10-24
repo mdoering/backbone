@@ -1,5 +1,4 @@
-Polyporus abruptus Berk. SPECIES
-=======
+# Polyporus abruptus Berk. SPECIES
 
 #### Status
 ACCEPTED

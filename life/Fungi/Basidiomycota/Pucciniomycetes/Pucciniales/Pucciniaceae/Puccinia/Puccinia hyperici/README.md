@@ -1,5 +1,4 @@
-Puccinia hyperici Doidge SPECIES
-=======
+# Puccinia hyperici Doidge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria dolosa (Syd.) Died. SPECIES
-=======
+# Septoria dolosa (Syd.) Died. SPECIES
 
 #### Status
 ACCEPTED

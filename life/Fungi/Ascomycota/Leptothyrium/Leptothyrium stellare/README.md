@@ -1,5 +1,4 @@
-Leptothyrium stellare Bubák SPECIES
-=======
+# Leptothyrium stellare Bubák SPECIES
 
 #### Status
 ACCEPTED

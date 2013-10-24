@@ -1,5 +1,4 @@
-Tetracorethra tetracorethra Haeckel, 1887 SPECIES
-=======
+# Tetracorethra tetracorethra Haeckel, 1887 SPECIES
 
 #### Status
 ACCEPTED

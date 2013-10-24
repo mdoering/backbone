@@ -1,5 +1,4 @@
-Calyptella Quélet, 1886 GENUS
-=======
+# Calyptella Quélet, 1886 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ceratostomella defectiva Naumov {?} SPECIES
-=======
+# Ceratostomella defectiva Naumov {?} SPECIES
 
 #### Status
 ACCEPTED

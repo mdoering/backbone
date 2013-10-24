@@ -1,5 +1,4 @@
-Entyloma gaillardiae (Speg.) Speg. SPECIES
-=======
+# Entyloma gaillardiae (Speg.) Speg. SPECIES
 
 #### Status
 ACCEPTED

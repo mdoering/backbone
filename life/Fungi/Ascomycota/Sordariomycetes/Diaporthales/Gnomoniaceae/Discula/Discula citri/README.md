@@ -1,5 +1,4 @@
-Discula citri (Cooke) Sacc. SPECIES
-=======
+# Discula citri (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

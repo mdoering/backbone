@@ -1,5 +1,4 @@
-Patellea glandicola Schwein. SPECIES
-=======
+# Patellea glandicola Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Colletotrichum hibisci-cannabini Sawada SPECIES
-=======
+# Colletotrichum hibisci-cannabini Sawada SPECIES
 
 #### Status
 ACCEPTED

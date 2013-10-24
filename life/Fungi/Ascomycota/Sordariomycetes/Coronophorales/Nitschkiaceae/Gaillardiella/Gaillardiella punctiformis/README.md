@@ -1,5 +1,4 @@
-Gaillardiella punctiformis (Henn.) Theiss. SPECIES
-=======
+# Gaillardiella punctiformis (Henn.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

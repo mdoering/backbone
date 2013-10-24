@@ -1,14 +1,13 @@
-Boudierella coronata Costantin, 1897 SPECIES
-=======
+# Conidiobolus coronatus (Costantin) A. Batko, 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 13: 40 (1897)
+Entomophaga, Mémoires hors série 2: 129 (1964)
 
 #### Original name
 Boudierella coronata Costantin, 1897

@@ -1,5 +1,4 @@
-Coleophoma rhododendri Syd., 1936 SPECIES
-=======
+# Coleophoma rhododendri Syd., 1936 SPECIES
 
 #### Status
 ACCEPTED

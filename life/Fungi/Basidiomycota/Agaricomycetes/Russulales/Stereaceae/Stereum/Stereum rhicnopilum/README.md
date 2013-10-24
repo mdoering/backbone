@@ -1,5 +1,4 @@
-Stereum rhicnopilum (Lév.) Sacc. SPECIES
-=======
+# Stereum rhicnopilum (Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

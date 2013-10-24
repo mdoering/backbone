@@ -1,5 +1,4 @@
-Haemogregarina acanthoclini Laird, 1953 SPECIES
-=======
+# Haemogregarina acanthoclini Laird, 1953 SPECIES
 
 #### Status
 ACCEPTED

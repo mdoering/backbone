@@ -1,5 +1,4 @@
-Panaeolus alveolatus Peck SPECIES
-=======
+# Panaeolus alveolatus Peck SPECIES
 
 #### Status
 ACCEPTED

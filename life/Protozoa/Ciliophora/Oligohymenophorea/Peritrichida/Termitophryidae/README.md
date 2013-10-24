@@ -1,5 +1,4 @@
-Termitophryidae FAMILY
-=======
+# Termitophryidae FAMILY
 
 #### Status
 ACCEPTED

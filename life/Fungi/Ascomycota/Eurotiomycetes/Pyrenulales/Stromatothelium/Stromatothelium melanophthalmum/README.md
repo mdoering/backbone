@@ -1,5 +1,4 @@
-Stromatothelium melanophthalmum (Mont.) Trevis. SPECIES
-=======
+# Stromatothelium melanophthalmum (Mont.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

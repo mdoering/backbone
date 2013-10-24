@@ -1,5 +1,4 @@
-Colwellia polaris De-Chao, Yong, Yu-Hua, Hong-Can, Pei-Jin, Yu-Guang, 2008 SPECIES
-=======
+# Colwellia polaris De-Chao, Yong, Yu-Hua, Hong-Can, Pei-Jin, Yu-Guang, 2008 SPECIES
 
 #### Status
 ACCEPTED

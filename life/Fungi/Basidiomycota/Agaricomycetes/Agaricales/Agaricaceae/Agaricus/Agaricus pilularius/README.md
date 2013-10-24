@@ -1,5 +1,4 @@
-Agaricus pilularius Mont. SPECIES
-=======
+# Agaricus pilularius Mont. SPECIES
 
 #### Status
 ACCEPTED

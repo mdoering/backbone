@@ -1,5 +1,4 @@
-Crepidotus kauffmanii Hesler & A.H. Sm. SPECIES
-=======
+# Crepidotus kauffmanii Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

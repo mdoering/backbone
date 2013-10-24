@@ -1,5 +1,4 @@
-Zimmermannella Lin et al., 2004 GENUS
-=======
+# Zimmermannella Lin et al., 2004 GENUS
 
 #### Status
 ACCEPTED

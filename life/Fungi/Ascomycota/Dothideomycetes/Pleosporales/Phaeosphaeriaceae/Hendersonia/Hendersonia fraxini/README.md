@@ -1,5 +1,4 @@
-Hendersonia fraxini Ellis & Barthol. SPECIES
-=======
+# Hendersonia fraxini Ellis & Barthol. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Helmisporium melanosporum Berk. & M.A. Curtis SPECIES
-=======
+# Helminthosporium melanosporum Berk. & M.A. Curtis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Berkeley, Grevillea 3(no. 27): 104 (1875)
 
 #### Original name
-Helmisporium melanosporum Berk. & M.A. Curtis
+Helminthosporium melanosporum Berk. & M.A. Curtis
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Placodium benguellense (Nyl.) Vain. SPECIES
-=======
+# Placodium benguellense (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

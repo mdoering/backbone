@@ -1,5 +1,4 @@
-Agaricus albertinii Fr. SPECIES
-=======
+# Agaricus albertinii Fr. SPECIES
 
 #### Status
 ACCEPTED

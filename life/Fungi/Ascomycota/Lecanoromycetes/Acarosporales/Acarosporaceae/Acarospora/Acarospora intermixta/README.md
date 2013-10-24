@@ -1,5 +1,4 @@
-Acarospora intermixta H. Magn. SPECIES
-=======
+# Acarospora intermixta H. Magn. SPECIES
 
 #### Status
 ACCEPTED

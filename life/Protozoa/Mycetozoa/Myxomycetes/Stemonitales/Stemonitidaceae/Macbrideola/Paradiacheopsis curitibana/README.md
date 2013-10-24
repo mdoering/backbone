@@ -1,17 +1,16 @@
-Paradiacheopsis curitabana Hertel SPECIES
-=======
+# Paradiacheopsis curitibana Hertel, 1954 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Dusenia 5: 192 (1954)
 
 #### Original name
-Paradiacheopsis curitabana Hertel
+Paradiacheopsis curitibana Hertel, 1954
 
 ### Remarks
 null

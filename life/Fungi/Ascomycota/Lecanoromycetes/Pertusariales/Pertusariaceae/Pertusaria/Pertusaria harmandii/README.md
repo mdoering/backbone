@@ -1,5 +1,4 @@
-Pertusaria harmandii SPECIES
-=======
+# Pertusaria harmandii SPECIES
 
 #### Status
 ACCEPTED

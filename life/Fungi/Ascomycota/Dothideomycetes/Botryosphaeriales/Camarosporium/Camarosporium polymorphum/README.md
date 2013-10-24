@@ -1,5 +1,4 @@
-Camarosporium polymorphum var. jasmini Traverso VARIETY
-=======
+# Camarosporium polymorphum (De Not.) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Michelia 1(no. 2): 208 (1878)
 
 #### Original name
-Camarosporium polymorphum var. jasmini Traverso
+Diplodia polymorpha De Not.
 
 ### Remarks
 null

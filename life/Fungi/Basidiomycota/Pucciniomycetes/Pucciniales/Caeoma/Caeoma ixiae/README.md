@@ -1,5 +1,4 @@
-Caeoma ixiae F. Rudolphi SPECIES
-=======
+# Caeoma ixiae F. Rudolphi SPECIES
 
 #### Status
 ACCEPTED

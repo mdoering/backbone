@@ -1,5 +1,4 @@
-Lecanora nubilata Motyka SPECIES
-=======
+# Lecanora nubilata Motyka SPECIES
 
 #### Status
 ACCEPTED

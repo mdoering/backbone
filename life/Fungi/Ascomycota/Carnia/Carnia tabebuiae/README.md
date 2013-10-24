@@ -1,5 +1,4 @@
-Carnia tabebuiae Bat. & Peres, 1960 SPECIES
-=======
+# Carnia tabebuiae Bat. & Peres, 1960 SPECIES
 
 #### Status
 ACCEPTED

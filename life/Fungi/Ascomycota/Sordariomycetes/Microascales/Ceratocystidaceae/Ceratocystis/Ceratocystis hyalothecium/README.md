@@ -1,5 +1,4 @@
-Ceratocystis hyalothecium R.W. Davidson SPECIES
-=======
+# Ceratocystis hyalothecium R.W. Davidson SPECIES
 
 #### Status
 ACCEPTED

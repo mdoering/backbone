@@ -1,5 +1,4 @@
-Sporodiniella umbellata Boedijn, 1959 SPECIES
-=======
+# Sporodiniella umbellata Boedijn, 1959 SPECIES
 
 #### Status
 ACCEPTED

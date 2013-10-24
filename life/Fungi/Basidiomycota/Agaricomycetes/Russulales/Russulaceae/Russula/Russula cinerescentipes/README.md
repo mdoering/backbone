@@ -1,5 +1,4 @@
-Russula cinerescentipes Moënne-Locc. SPECIES
-=======
+# Russula cinerescentipes Moënne-Locc. SPECIES
 
 #### Status
 ACCEPTED

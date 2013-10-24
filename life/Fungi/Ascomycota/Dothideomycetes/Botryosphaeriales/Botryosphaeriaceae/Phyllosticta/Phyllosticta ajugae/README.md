@@ -1,5 +1,4 @@
-Phyllosticta ajugae Sacc. & Speg., 1878 SPECIES
-=======
+# Phyllosticta ajugae Sacc. & Speg., 1878 SPECIES
 
 #### Status
 ACCEPTED

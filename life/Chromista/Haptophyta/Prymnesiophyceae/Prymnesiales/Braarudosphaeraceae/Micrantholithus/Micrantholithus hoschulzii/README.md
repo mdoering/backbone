@@ -1,8 +1,7 @@
-Braarudosphaera hoschulzii Reinhardt, 1966 SPECIES
-=======
+# Micrantholithus hoschulzii (Reinhardt, 1966) Thierstein, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

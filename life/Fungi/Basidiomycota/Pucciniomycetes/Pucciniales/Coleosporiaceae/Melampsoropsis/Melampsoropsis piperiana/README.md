@@ -1,5 +1,4 @@
-Melampsoropsis piperiana Arthur SPECIES
-=======
+# Melampsoropsis piperiana Arthur SPECIES
 
 #### Status
 ACCEPTED

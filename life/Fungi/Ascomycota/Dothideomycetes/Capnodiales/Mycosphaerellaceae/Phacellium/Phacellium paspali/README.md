@@ -1,5 +1,4 @@
-Phacellium paspali (Syd.) U. Braun SPECIES
-=======
+# Phacellium paspali (Syd.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

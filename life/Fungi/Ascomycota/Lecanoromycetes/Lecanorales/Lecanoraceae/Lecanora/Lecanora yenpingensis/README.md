@@ -1,5 +1,4 @@
-Lecanora yenpingensis Zahlbr. SPECIES
-=======
+# Lecanora yenpingensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

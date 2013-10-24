@@ -1,5 +1,4 @@
-Guignardia sawadae Tak. Kobay., 1975 SPECIES
-=======
+# Guignardia sawadae Tak. Kobay., 1975 SPECIES
 
 #### Status
 ACCEPTED

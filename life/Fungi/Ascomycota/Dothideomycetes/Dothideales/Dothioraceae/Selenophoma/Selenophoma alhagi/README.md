@@ -1,5 +1,4 @@
-Selenophoma alhagi Vasyag. SPECIES
-=======
+# Selenophoma alhagi Vasyag. SPECIES
 
 #### Status
 ACCEPTED

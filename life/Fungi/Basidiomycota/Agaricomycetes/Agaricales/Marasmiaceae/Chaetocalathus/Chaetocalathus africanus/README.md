@@ -1,5 +1,4 @@
-Chaetocalathus africanus (Pat.) Singer SPECIES
-=======
+# Chaetocalathus africanus (Pat.) Singer SPECIES
 
 #### Status
 ACCEPTED

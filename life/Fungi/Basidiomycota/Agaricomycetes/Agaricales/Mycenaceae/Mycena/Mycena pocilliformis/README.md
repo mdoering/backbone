@@ -1,5 +1,4 @@
-Mycena pocilliformis Corner SPECIES
-=======
+# Mycena pocilliformis Corner SPECIES
 
 #### Status
 ACCEPTED

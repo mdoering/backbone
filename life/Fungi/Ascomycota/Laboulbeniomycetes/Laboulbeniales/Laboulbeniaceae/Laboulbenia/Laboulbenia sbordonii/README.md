@@ -1,5 +1,4 @@
-Laboulbenia sbordonii W. Rossi & Cesari SPECIES
-=======
+# Laboulbenia sbordonii W. Rossi & Cesari SPECIES
 
 #### Status
 ACCEPTED

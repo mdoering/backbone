@@ -1,5 +1,4 @@
-Septosporium agerati Marchal & Steyaert SPECIES
-=======
+# Septosporium agerati Marchal & Steyaert SPECIES
 
 #### Status
 ACCEPTED

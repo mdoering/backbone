@@ -1,17 +1,16 @@
-Pleurage minuta f. tetraspora C. Moreau FORM
-=======
+# Podospora tetraspora (G. Winter) Cain, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Can. J. Bot. 40: 460 (1962)
 
 #### Original name
-null
+Sordaria tetraspora G. Winter, 1872
 
 ### Remarks
 null

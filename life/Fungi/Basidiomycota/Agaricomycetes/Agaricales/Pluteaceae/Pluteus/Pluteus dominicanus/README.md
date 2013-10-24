@@ -1,5 +1,4 @@
-Pluteus dominicanus Singer SPECIES
-=======
+# Pluteus dominicanus Singer SPECIES
 
 #### Status
 ACCEPTED

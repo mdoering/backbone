@@ -1,5 +1,4 @@
-Verrucaria sprucei Bab. SPECIES
-=======
+# Verrucaria sprucei Bab. SPECIES
 
 #### Status
 ACCEPTED

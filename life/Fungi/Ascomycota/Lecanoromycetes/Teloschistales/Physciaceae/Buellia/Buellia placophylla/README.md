@@ -1,5 +1,4 @@
-Buellia placophylla (Anzi) Jatta SPECIES
-=======
+# Buellia placophylla (Anzi) Jatta SPECIES
 
 #### Status
 ACCEPTED

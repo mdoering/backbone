@@ -1,8 +1,7 @@
-Dasyscypha chamaeleontina (Peck) Sacc. SPECIES
-=======
+# Dasyscyphus chamaeleontina (Peck) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

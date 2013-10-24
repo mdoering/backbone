@@ -1,5 +1,4 @@
-Puccinia wendelboi Jørst. SPECIES
-=======
+# Puccinia wendelboi Jørst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hydrocybe suburacea M.M. Moser SPECIES
-=======
+# Hydrocybe suburacea M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

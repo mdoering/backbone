@@ -1,5 +1,4 @@
-Anabaena elegans C. L. Sant'Anna SPECIES
-=======
+# Anabaena elegans C. L. Sant'Anna SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Trabutia lagerheimiana (Rehm) Theiss. & Syd., 1915 SPECIES
-=======
+# Phyllachora lagerheimiana Rehm, 1891 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 13(3/4): 349 (1915)
+Hedwigia 30: 255 (1891)
 
 #### Original name
 Phyllachora lagerheimiana Rehm, 1891

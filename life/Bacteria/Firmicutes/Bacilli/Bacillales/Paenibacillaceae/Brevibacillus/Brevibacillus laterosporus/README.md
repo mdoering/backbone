@@ -1,8 +1,7 @@
-Bacillus laterosporus Laubach, 1916 (Approved Lists, 1980) SPECIES
-=======
+# Brevibacillus laterosporus (Laubach, 1916) Shida et al., 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

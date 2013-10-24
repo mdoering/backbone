@@ -1,5 +1,4 @@
-Phlebomarasmius pilosus R. Heim SPECIES
-=======
+# Phlebomarasmius pilosus R. Heim SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Valsaria coloradensis Ellis & Everh. SPECIES
-=======
+# Valsaria coloradensis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

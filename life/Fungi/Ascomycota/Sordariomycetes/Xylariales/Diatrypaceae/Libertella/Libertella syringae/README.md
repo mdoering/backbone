@@ -1,5 +1,4 @@
-Libertella syringae Oudem. SPECIES
-=======
+# Libertella syringae Oudem. SPECIES
 
 #### Status
 ACCEPTED

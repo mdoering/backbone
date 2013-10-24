@@ -1,5 +1,4 @@
-Agaricus lanuginosus Vahl SPECIES
-=======
+# Agaricus lanuginosus Vahl SPECIES
 
 #### Status
 ACCEPTED

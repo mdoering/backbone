@@ -1,5 +1,4 @@
-Chlamydophila abortus Everett et al., 1999 SPECIES
-=======
+# Chlamydophila abortus Everett et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

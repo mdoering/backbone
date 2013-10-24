@@ -1,5 +1,4 @@
-Chlamydomucor GENUS
-=======
+# Chlamydomucor GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloniella arthonioides Rehm SPECIES
-=======
+# Gloniella arthonioides Rehm SPECIES
 
 #### Status
 ACCEPTED

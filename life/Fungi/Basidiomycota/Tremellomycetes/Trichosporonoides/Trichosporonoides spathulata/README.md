@@ -1,17 +1,16 @@
-Moniliella spathulata (de Hoog) Rosa & Lachance, 2009 SPECIES
-=======
+# Trichosporonoides spathulata de Hoog, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Stud. Mycol. 19: 23 (1979)
 
 #### Original name
-null
+Trichosporonoides spathulata de Hoog, 1979
 
 ### Remarks
 null

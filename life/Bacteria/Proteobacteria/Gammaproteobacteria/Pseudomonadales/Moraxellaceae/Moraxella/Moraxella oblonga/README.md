@@ -1,5 +1,4 @@
-Moraxella oblonga Xie & Yokota, 2005 SPECIES
-=======
+# Moraxella oblonga Xie & Yokota, 2005 SPECIES
 
 #### Status
 ACCEPTED

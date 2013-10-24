@@ -1,5 +1,4 @@
-Eponides punctulatus (d'Orbigny, 1839) SPECIES
-=======
+# Eponides punctulatus (d'Orbigny, 1839) SPECIES
 
 #### Status
 ACCEPTED

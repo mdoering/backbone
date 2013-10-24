@@ -1,5 +1,4 @@
-Trichodina japonica Imai, Miyazaki & Nomura, 1991 SPECIES
-=======
+# Trichodina japonica Imai, Miyazaki & Nomura, 1991 SPECIES
 
 #### Status
 ACCEPTED

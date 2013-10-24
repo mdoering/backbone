@@ -1,5 +1,4 @@
-Puccinia caricis-trichostylis Dietel SPECIES
-=======
+# Puccinia caricis-trichostylis Dietel SPECIES
 
 #### Status
 ACCEPTED

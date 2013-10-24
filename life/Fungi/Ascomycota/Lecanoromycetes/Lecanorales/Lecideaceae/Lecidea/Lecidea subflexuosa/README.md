@@ -1,5 +1,4 @@
-Lecidea subflexuosa Nyl. SPECIES
-=======
+# Lecidea subflexuosa Nyl. SPECIES
 
 #### Status
 ACCEPTED

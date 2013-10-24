@@ -1,5 +1,4 @@
-Massariothea scotica B. Sutton & Rizwi, 1980 SPECIES
-=======
+# Massariothea scotica B. Sutton & Rizwi, 1980 SPECIES
 
 #### Status
 ACCEPTED

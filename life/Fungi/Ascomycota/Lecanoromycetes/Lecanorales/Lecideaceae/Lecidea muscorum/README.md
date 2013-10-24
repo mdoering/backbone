@@ -1,5 +1,4 @@
-Lecidea muscorum var. muscorum Ach. VARIETY
-=======
+# Lecidea muscorum (Wulfen) Dalla Torre & Sarnth. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea muscorum var. muscorum Ach.
+Lichen muscorum Wulfen
 
 ### Remarks
 null

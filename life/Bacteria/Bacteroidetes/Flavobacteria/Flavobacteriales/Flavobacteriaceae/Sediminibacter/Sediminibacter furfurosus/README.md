@@ -1,5 +1,4 @@
-Sediminibacter furfurosus Khan, Nakagawa & Harayama, 2007 SPECIES
-=======
+# Sediminibacter furfurosus Khan, Nakagawa & Harayama, 2007 SPECIES
 
 #### Status
 ACCEPTED

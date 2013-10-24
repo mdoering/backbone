@@ -1,5 +1,4 @@
-Leucogramma GENUS
-=======
+# Leucogramma GENUS
 
 #### Status
 ACCEPTED

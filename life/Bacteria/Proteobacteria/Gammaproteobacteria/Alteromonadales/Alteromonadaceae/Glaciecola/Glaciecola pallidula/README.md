@@ -1,5 +1,4 @@
-Glaciecola pallidula Bowman et al., 1998 SPECIES
-=======
+# Glaciecola pallidula Bowman et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

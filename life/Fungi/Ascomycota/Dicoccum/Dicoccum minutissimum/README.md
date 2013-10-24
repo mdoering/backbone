@@ -1,5 +1,4 @@
-Dicoccum minutissimum Corda SPECIES
-=======
+# Dicoccum minutissimum Corda SPECIES
 
 #### Status
 ACCEPTED

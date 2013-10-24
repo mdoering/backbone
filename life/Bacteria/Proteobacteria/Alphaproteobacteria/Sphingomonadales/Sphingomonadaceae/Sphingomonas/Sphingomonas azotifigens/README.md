@@ -1,5 +1,4 @@
-Sphingomonas azotifigens Xie & Yokota, 2006 SPECIES
-=======
+# Sphingomonas azotifigens Xie & Yokota, 2006 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Pseudocercospora solonacea (B.K. Gupta & Kamal) U. Braun SPECIES
-=======
+# Pseudocercospora solanacea (B.K. Gupta & Kamal) U. Braun SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Monogr. Cercosporella, Ramularia Allied Genera (Phytopath. Hyphom. ) 1: 198 (1995)
 
 #### Original name
 Pseudocercosporella solanacea B.K. Gupta & Kamal

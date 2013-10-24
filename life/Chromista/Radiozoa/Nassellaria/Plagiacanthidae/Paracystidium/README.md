@@ -1,5 +1,4 @@
-Paracystidium GENUS
-=======
+# Paracystidium GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Morchella rotunda f. rotunda FORM
-=======
+# Morchella esculenta (L.) Pers., 1801 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syn. meth. fung. (Göttingen) 2: 618 (1801)
 
 #### Original name
-Morchella rotunda f. rotunda
+Phallus esculentus L., 1753
 
 ### Remarks
 null

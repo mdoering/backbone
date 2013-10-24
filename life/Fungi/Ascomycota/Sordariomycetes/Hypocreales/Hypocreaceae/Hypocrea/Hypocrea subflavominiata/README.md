@@ -1,5 +1,4 @@
-Hypocrea subflavominiata Yoshim. Doi SPECIES
-=======
+# Hypocrea subflavominiata Yoshim. Doi SPECIES
 
 #### Status
 ACCEPTED

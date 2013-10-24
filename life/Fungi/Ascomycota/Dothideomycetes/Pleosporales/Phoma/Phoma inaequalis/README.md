@@ -1,5 +1,4 @@
-Phoma inaequalis Speg. SPECIES
-=======
+# Phoma inaequalis Speg. SPECIES
 
 #### Status
 ACCEPTED

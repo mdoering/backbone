@@ -1,5 +1,4 @@
-Morchella ceracea Krombh. SPECIES
-=======
+# Morchella ceracea Krombh. SPECIES
 
 #### Status
 ACCEPTED

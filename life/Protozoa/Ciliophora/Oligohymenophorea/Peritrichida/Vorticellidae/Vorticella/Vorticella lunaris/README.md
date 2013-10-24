@@ -1,5 +1,4 @@
-Vorticella lunaris Muller, 1773 SPECIES
-=======
+# Vorticella lunaris Muller, 1773 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercosporina jatrophicola Speg. SPECIES
-=======
+# Cercosporina jatrophicola Speg. SPECIES
 
 #### Status
 ACCEPTED

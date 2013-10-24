@@ -1,5 +1,4 @@
-Pseudogirvanella cretacea O. Dragastan SPECIES
-=======
+# Pseudogirvanella cretacea O. Dragastan SPECIES
 
 #### Status
 ACCEPTED

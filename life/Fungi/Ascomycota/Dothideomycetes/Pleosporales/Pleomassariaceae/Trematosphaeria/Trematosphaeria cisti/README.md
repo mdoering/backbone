@@ -1,5 +1,4 @@
-Trematosphaeria cisti Naumov & Dobrozr. SPECIES
-=======
+# Trematosphaeria cisti Naumov & Dobrozr. SPECIES
 
 #### Status
 ACCEPTED

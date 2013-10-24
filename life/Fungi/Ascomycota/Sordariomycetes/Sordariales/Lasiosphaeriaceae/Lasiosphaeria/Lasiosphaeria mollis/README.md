@@ -1,5 +1,4 @@
-Lasiosphaeria mollis Rehm SPECIES
-=======
+# Lasiosphaeria mollis Rehm SPECIES
 
 #### Status
 ACCEPTED

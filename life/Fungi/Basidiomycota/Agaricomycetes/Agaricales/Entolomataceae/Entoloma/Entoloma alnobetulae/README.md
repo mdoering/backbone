@@ -1,5 +1,4 @@
-Entoloma alnobetulae (Kühner) Noordel. SPECIES
-=======
+# Entoloma alnobetulae (Kühner) Noordel. SPECIES
 
 #### Status
 ACCEPTED

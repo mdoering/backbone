@@ -1,5 +1,4 @@
-Hemiophrya truncata Kent, 1882 SPECIES
-=======
+# Hemiophrya truncata Kent, 1882 SPECIES
 
 #### Status
 ACCEPTED

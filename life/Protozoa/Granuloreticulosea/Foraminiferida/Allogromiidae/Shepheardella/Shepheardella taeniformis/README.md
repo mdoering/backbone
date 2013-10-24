@@ -1,5 +1,4 @@
-Shepheardella taeniformis Siddall, 1880 SPECIES
-=======
+# Shepheardella taeniformis Siddall, 1880 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Labyrinthomyxa marina (Mackin, H.M. Owen & Collier) Mackin & S.M. Ray, 1966 SPECIES
-=======
+# Perkinsus marinus (Mackin, H.M. Owen & Collier) Levine, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Invert. Path. 8: 544 (1966)
+J. Parasit. 64: 549 (1978)
 
 #### Original name
 Dermocystidium marinum Mackin, H.M. Owen & Collier, 1950

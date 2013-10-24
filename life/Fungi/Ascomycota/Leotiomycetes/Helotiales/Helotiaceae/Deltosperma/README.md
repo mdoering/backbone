@@ -1,5 +1,4 @@
-Deltosperma W.Y. Zhuang GENUS
-=======
+# Deltosperma W.Y. Zhuang GENUS
 
 #### Status
 ACCEPTED

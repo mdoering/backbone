@@ -1,5 +1,4 @@
-Westiellopsis Janet, 1941 GENUS
-=======
+# Westiellopsis Janet, 1941 GENUS
 
 #### Status
 ACCEPTED

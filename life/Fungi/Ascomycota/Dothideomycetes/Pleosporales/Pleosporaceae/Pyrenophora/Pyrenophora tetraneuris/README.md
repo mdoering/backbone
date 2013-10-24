@@ -1,5 +1,4 @@
-Pyrenophora tetraneuris Earle SPECIES
-=======
+# Pyrenophora tetraneuris Earle SPECIES
 
 #### Status
 ACCEPTED

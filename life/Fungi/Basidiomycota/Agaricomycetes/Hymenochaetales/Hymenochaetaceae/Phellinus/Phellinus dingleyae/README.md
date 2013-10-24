@@ -1,5 +1,4 @@
-Phellinus dingleyae P.K. Buchanan & Ryvarden, 2000 SPECIES
-=======
+# Phellinus dingleyae P.K. Buchanan & Ryvarden, 2000 SPECIES
 
 #### Status
 ACCEPTED

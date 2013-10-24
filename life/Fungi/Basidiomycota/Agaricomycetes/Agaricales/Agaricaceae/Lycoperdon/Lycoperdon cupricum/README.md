@@ -1,5 +1,4 @@
-Lycoperdon cupricum f. cupricum FORM
-=======
+# Lycoperdon cupricum Bonord. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lycoperdon cupricum f. cupricum
+Lycoperdon cupricum Bonord.
 
 ### Remarks
 null

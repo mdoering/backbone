@@ -1,14 +1,13 @@
-Cyathicula multicuspidata Rodway, 1921 SPECIES
-=======
+# Crocicreas multicuspidatum (Rodway) S.E. Carp., 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Pap. Proc. R. Soc. Tasm. 154 (1921)
+Brittonia 32(2): 271 (1980)
 
 #### Original name
 Cyathicula multicuspidata Rodway, 1921

@@ -1,5 +1,4 @@
-Spongodinium G. Deflandre, 1936 GENUS
-=======
+# Spongodinium G. Deflandre, 1936 GENUS
 
 #### Status
 ACCEPTED

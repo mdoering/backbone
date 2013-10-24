@@ -1,5 +1,4 @@
-Cuphophyllus umbrinus (Dennis) Courtec. SPECIES
-=======
+# Cuphophyllus umbrinus (Dennis) Courtec. SPECIES
 
 #### Status
 ACCEPTED

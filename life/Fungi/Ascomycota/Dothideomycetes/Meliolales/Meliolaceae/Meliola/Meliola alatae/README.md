@@ -1,5 +1,4 @@
-Meliola alatae Mibey SPECIES
-=======
+# Meliola alatae Mibey SPECIES
 
 #### Status
 ACCEPTED

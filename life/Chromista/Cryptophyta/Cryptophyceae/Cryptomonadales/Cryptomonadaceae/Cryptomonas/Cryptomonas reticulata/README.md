@@ -1,5 +1,4 @@
-Cryptomonas reticulata I. A. N. Lucas SPECIES
-=======
+# Cryptomonas reticulata I. A. N. Lucas SPECIES
 
 #### Status
 ACCEPTED

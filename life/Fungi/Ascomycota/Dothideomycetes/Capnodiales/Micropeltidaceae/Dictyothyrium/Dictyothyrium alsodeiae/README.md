@@ -1,5 +1,4 @@
-Dictyothyrium alsodeiae (Henn.) Bat. SPECIES
-=======
+# Dictyothyrium alsodeiae (Henn.) Bat. SPECIES
 
 #### Status
 ACCEPTED

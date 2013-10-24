@@ -1,5 +1,4 @@
-Sclerotium rhizodes Auersw., 1849 SPECIES
-=======
+# Sclerotium rhizodes Auersw., 1849 SPECIES
 
 #### Status
 ACCEPTED

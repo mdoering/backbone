@@ -1,5 +1,4 @@
-Uromyces lasiocorydis Henn. SPECIES
-=======
+# Uromyces lasiocorydis Henn. SPECIES
 
 #### Status
 ACCEPTED

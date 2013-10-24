@@ -1,8 +1,7 @@
-Aecidium holboelli Hornem. SPECIES
-=======
+# Aecidium holboellii Hornem. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Aecidium holboelli Hornem.
+Aecidium holboellii Hornem.
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Hemitrichia stipata fusca Z. Moravec, 1968 INFRASPECIFIC_NAME
-=======
+# Trichia brunnea J.J. Cox, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 73(4): 741 (1981)
 
 #### Original name
-null
+Trichia brunnea J.J. Cox, 1981
 
 ### Remarks
 null

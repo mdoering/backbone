@@ -1,5 +1,4 @@
-Philaster Fabre-Domergue, 1885 GENUS
-=======
+# Philaster Fabre-Domergue, 1885 GENUS
 
 #### Status
 ACCEPTED

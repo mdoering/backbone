@@ -1,5 +1,4 @@
-Bozorgniella Rahaghi, 1973 GENUS
-=======
+# Bozorgniella Rahaghi, 1973 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lachnum vantschense (Raitv.) Raitv. SPECIES
-=======
+# Lachnum vantschense (Raitv.) Raitv. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chlamydophila caviae Everett et al., 1999 SPECIES
-=======
+# Chlamydophila caviae Everett et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

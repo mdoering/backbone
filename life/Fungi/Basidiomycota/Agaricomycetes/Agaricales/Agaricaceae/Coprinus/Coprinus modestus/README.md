@@ -1,5 +1,4 @@
-Coprinus modestus Berk. & M.A. Curtis SPECIES
-=======
+# Coprinus modestus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

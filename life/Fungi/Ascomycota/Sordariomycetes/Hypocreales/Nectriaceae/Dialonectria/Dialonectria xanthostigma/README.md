@@ -1,5 +1,4 @@
-Dialonectria xanthostigma (Berk. & Cooke) Cooke SPECIES
-=======
+# Dialonectria xanthostigma (Berk. & Cooke) Cooke SPECIES
 
 #### Status
 ACCEPTED

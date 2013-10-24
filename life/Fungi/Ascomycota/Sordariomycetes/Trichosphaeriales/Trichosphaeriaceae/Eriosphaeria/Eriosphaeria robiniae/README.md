@@ -1,5 +1,4 @@
-Eriosphaeria robiniae Beeli SPECIES
-=======
+# Eriosphaeria robiniae Beeli SPECIES
 
 #### Status
 ACCEPTED

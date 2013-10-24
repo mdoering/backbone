@@ -1,5 +1,4 @@
-Discella effusa Berk. & Broome SPECIES
-=======
+# Discella effusa Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Panus byrsonimae Pat. & Gaillard SPECIES
-=======
+# Panus byrsonimae Pat. & Gaillard SPECIES
 
 #### Status
 ACCEPTED

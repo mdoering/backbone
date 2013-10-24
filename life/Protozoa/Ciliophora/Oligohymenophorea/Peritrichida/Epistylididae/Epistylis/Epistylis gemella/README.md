@@ -1,5 +1,4 @@
-Epistylis gemella Dumas, 1930 SPECIES
-=======
+# Epistylis gemella Dumas, 1930 SPECIES
 
 #### Status
 ACCEPTED

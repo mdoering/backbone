@@ -1,5 +1,4 @@
-Pithyella hamata Chenant. SPECIES
-=======
+# Pithyella hamata Chenant. SPECIES
 
 #### Status
 ACCEPTED

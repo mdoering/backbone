@@ -1,5 +1,4 @@
-Phlebopus cystidiosus Heinem. & Rammeloo, 1982 SPECIES
-=======
+# Phlebopus cystidiosus Heinem. & Rammeloo, 1982 SPECIES
 
 #### Status
 ACCEPTED

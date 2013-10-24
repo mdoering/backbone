@@ -1,5 +1,4 @@
-Opegrapha aurita (Eschw.) Mont. SPECIES
-=======
+# Opegrapha aurita (Eschw.) Mont. SPECIES
 
 #### Status
 ACCEPTED

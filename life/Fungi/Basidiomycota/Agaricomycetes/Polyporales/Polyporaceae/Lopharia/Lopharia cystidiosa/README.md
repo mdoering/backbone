@@ -1,14 +1,13 @@
-Peniophora cystidiosa Rehill & B.K. Bakshi, 1965 SPECIES
-=======
+# Lopharia cystidiosa (Rehill & B.K. Bakshi) Boidin, 1969 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Forest Bull. , Dehra Dunn, n. s. 242: 4 (1965)
+Revue Mycol. , Paris 34(2-3): 191 (1969)
 
 #### Original name
 Peniophora cystidiosa Rehill & B.K. Bakshi, 1965

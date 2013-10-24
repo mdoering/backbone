@@ -1,5 +1,4 @@
-Stereum spegazzinianum Sacc. & Mancini SPECIES
-=======
+# Stereum spegazzinianum Sacc. & Mancini SPECIES
 
 #### Status
 ACCEPTED

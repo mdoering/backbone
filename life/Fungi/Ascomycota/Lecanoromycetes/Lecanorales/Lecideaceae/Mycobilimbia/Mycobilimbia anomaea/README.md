@@ -1,5 +1,4 @@
-Mycobilimbia anomaea Sacc. & D. Sacc. SPECIES
-=======
+# Mycobilimbia anomaea Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

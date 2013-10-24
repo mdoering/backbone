@@ -1,17 +1,16 @@
-Arthonia dispersa f. dispersa FORM
-=======
+# Arthonia dispersa (Schrad.) Nyl. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lich. Scand. (Uppsala) 261 (1861)
 
 #### Original name
-Arthonia dispersa f. dispersa
+Arthonia dispersa (Schrad.) Nyl.
 
 ### Remarks
 null

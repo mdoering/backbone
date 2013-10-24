@@ -1,5 +1,4 @@
-Plagiostigme clypeata Petr. SPECIES
-=======
+# Plagiostigme clypeata Petr. SPECIES
 
 #### Status
 ACCEPTED

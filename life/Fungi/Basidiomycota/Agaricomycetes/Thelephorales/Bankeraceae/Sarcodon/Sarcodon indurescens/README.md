@@ -1,5 +1,4 @@
-Sarcodon indurescens (D. Hall & D.E. Stuntz) Stalpers SPECIES
-=======
+# Sarcodon indurescens (D. Hall & D.E. Stuntz) Stalpers SPECIES
 
 #### Status
 ACCEPTED

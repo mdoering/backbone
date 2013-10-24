@@ -1,5 +1,4 @@
-Dimerosporium albomarginatum Sacc. SPECIES
-=======
+# Dimerosporium albomarginatum Sacc. SPECIES
 
 #### Status
 ACCEPTED

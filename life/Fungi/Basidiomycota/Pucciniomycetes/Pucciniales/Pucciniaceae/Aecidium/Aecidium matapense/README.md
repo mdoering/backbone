@@ -1,5 +1,4 @@
-Aecidium matapense Cummins SPECIES
-=======
+# Aecidium matapense Cummins SPECIES
 
 #### Status
 ACCEPTED

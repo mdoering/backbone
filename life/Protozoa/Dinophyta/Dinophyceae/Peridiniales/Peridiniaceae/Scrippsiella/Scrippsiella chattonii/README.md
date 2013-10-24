@@ -1,5 +1,4 @@
-Scrippsiella chattonii (Hovasse) A.T. Banaszak, R. Iglesias-Prieto, & R.K. Trench SPECIES
-=======
+# Scrippsiella chattonii (Hovasse) A.T. Banaszak, R. Iglesias-Prieto, & R.K. Trench SPECIES
 
 #### Status
 ACCEPTED

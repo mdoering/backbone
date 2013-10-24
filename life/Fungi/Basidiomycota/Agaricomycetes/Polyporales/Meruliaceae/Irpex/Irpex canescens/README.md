@@ -1,5 +1,4 @@
-Irpex canescens Fr. SPECIES
-=======
+# Irpex canescens Fr. SPECIES
 
 #### Status
 ACCEPTED

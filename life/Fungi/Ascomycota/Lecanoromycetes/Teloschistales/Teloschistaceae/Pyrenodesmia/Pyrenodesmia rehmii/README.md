@@ -1,5 +1,4 @@
-Pyrenodesmia rehmii Kremp. SPECIES
-=======
+# Pyrenodesmia rehmii Kremp. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Colletotrichum pyrolae (Trel.) Parmelee SPECIES
-=======
+# Colletotrichum pyrolae (Trel.) Parmelee SPECIES
 
 #### Status
 ACCEPTED

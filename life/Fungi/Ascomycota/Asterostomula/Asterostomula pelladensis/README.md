@@ -1,5 +1,4 @@
-Asterostomula pelladensis Bat. & A.F. Vital SPECIES
-=======
+# Asterostomula pelladensis Bat. & A.F. Vital SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lusatia imperfecta (Burmann, 1970) Sarjeant & Vavrdová, 1997 SPECIES
-=======
+# Lusatia imperfecta (Burmann, 1970) Sarjeant & Vavrdová, 1997 SPECIES
 
 #### Status
 ACCEPTED

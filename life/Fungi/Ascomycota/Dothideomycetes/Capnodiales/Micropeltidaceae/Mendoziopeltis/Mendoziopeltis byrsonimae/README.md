@@ -1,5 +1,4 @@
-Mendoziopeltis byrsonimae Bat. & Nascim. ex Bat., 1959 SPECIES
-=======
+# Mendoziopeltis byrsonimae Bat. & Nascim. ex Bat., 1959 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arcuospathidium deforme Foissner & Xu, 2007 SPECIES
-=======
+# Arcuospathidium deforme Foissner & Xu, 2007 SPECIES
 
 #### Status
 ACCEPTED

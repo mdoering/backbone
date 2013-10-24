@@ -1,5 +1,4 @@
-Irpicodon Pouzar GENUS
-=======
+# Irpicodon Pouzar GENUS
 
 #### Status
 ACCEPTED

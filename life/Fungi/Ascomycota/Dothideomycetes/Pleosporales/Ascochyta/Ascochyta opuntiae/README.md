@@ -1,5 +1,4 @@
-Ascochyta opuntiae Scalia SPECIES
-=======
+# Ascochyta opuntiae Scalia SPECIES
 
 #### Status
 ACCEPTED

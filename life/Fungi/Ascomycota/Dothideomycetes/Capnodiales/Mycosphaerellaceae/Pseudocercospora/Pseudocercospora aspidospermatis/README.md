@@ -1,5 +1,4 @@
-Pseudocercospora aspidospermatis (Bat., Peres & R. Garnier) Dianese & M.P.S. Câmara ex Crous, U. Braun & Alfenas SPECIES
-=======
+# Pseudocercospora aspidospermatis (Bat., Peres & R. Garnier) Dianese & M.P.S. Câmara ex Crous, U. Braun & Alfenas SPECIES
 
 #### Status
 ACCEPTED

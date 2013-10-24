@@ -1,5 +1,4 @@
-Lactarius carbonicola A.H. Sm. SPECIES
-=======
+# Lactarius carbonicola A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

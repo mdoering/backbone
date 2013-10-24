@@ -1,5 +1,4 @@
-Caecomyces J.J. Gold GENUS
-=======
+# Caecomyces J.J. Gold GENUS
 
 #### Status
 ACCEPTED

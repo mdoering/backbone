@@ -1,5 +1,4 @@
-Helvella scutellata Schaeff. SPECIES
-=======
+# Helvella scutellata Schaeff. SPECIES
 
 #### Status
 ACCEPTED

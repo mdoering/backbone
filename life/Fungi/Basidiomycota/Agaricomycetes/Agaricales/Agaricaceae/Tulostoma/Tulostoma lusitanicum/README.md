@@ -1,5 +1,4 @@
-Tulostoma lusitanicum Calonge & M.G. Almeida, 2000 SPECIES
-=======
+# Tulostoma lusitanicum Calonge & M.G. Almeida, 2000 SPECIES
 
 #### Status
 ACCEPTED

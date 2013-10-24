@@ -1,5 +1,4 @@
-Phaeobotryosphaeria leonensis Petr. SPECIES
-=======
+# Phaeobotryosphaeria leonensis Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Graphidomyces E.A. Thomas ex Cif. & Tomas. GENUS
-=======
+# Graphis Adanson, 1763 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Atti Ist. bot. Univ. Lab. crittog. Pavia, Sér. 5 10(1): 50, 75 (1953)
+Fam. Pl. 2: 11 (1763)
 
 #### Original name
-Graphidomyces E.A. Thomas ex Cif. & Tomas.
+Graphis Adanson, 1763
 
 ### Remarks
 null

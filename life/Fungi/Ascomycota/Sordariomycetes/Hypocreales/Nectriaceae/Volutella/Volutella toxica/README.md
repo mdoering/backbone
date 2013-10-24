@@ -1,5 +1,4 @@
-Volutella toxica Fautrey SPECIES
-=======
+# Volutella toxica Fautrey SPECIES
 
 #### Status
 ACCEPTED

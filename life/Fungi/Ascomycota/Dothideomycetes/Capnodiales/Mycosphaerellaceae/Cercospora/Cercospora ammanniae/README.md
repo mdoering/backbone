@@ -1,5 +1,4 @@
-Cercospora ammanniae Tharp SPECIES
-=======
+# Cercospora ammanniae Tharp SPECIES
 
 #### Status
 ACCEPTED

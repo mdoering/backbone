@@ -1,5 +1,4 @@
-Phyllosticta sesami Woron. SPECIES
-=======
+# Phyllosticta sesami Woron. SPECIES
 
 #### Status
 ACCEPTED

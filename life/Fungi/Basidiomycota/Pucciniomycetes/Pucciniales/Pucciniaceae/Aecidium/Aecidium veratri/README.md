@@ -1,5 +1,4 @@
-Aecidium veratri Azbukina SPECIES
-=======
+# Aecidium veratri Azbukina SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria bryophila (Lönnr.) Nyl. SPECIES
-=======
+# Verrucaria bryophila (Lönnr.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Patellaria leioplacella Müll. Arg. SPECIES
-=======
+# Patellaria leioplacella Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

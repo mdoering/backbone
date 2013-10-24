@@ -1,5 +1,4 @@
-Colletotrichum rhodocyclum (Mont.) Petr. SPECIES
-=======
+# Colletotrichum rhodocyclum (Mont.) Petr. SPECIES
 
 #### Status
 ACCEPTED

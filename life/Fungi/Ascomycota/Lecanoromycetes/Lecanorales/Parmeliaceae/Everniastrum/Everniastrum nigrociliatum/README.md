@@ -1,5 +1,4 @@
-Everniastrum nigrociliatum (B. de Lesd.) Hale ex Sipman SPECIES
-=======
+# Everniastrum nigrociliatum (B. de Lesd.) Hale ex Sipman SPECIES
 
 #### Status
 ACCEPTED

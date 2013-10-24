@@ -1,5 +1,4 @@
-Puccinia tenuispora McAlpine, 1906 SPECIES
-=======
+# Puccinia tenuispora McAlpine, 1906 SPECIES
 
 #### Status
 ACCEPTED

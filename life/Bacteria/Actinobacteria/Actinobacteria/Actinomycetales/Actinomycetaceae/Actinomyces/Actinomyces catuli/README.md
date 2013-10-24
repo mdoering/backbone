@@ -1,5 +1,4 @@
-Actinomyces catuli Hoyles et al., 2001 SPECIES
-=======
+# Actinomyces catuli Hoyles et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

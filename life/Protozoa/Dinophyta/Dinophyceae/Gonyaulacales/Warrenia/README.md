@@ -1,5 +1,4 @@
-Warrenia Monteil, 1992 GENUS
-=======
+# Warrenia Monteil, 1992 GENUS
 
 #### Status
 ACCEPTED

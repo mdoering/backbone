@@ -1,17 +1,16 @@
-Stenella capparidiicola S.K. Singh, Arch. Singh & Kamal SPECIES
-=======
+# Stenella capparicola S.K. Singh, Arch. Singh & Kamal SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Cryptog. Mycol. 101(5): 532 (1997)
 
 #### Original name
-Stenella capparidiicola S.K. Singh, Arch. Singh & Kamal
+Stenella capparicola S.K. Singh, Arch. Singh & Kamal
 
 ### Remarks
 null

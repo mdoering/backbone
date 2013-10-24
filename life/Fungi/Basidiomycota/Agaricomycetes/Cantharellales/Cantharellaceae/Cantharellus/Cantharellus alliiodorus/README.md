@@ -1,17 +1,16 @@
-Cantharellus alliodorus Mont. SPECIES
-=======
+# Cantharellus alliiodorus Mont. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Prodr. Juan Fernandez no. 12
 
 #### Original name
-Cantharellus alliodorus Mont.
+Cantharellus alliiodorus Mont.
 
 ### Remarks
 null

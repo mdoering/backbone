@@ -1,5 +1,4 @@
-Marasmius mirabilis Velen. SPECIES
-=======
+# Marasmius mirabilis Velen. SPECIES
 
 #### Status
 ACCEPTED

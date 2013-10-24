@@ -1,5 +1,4 @@
-Agaricus scariosus With. SPECIES
-=======
+# Agaricus scariosus With. SPECIES
 
 #### Status
 ACCEPTED

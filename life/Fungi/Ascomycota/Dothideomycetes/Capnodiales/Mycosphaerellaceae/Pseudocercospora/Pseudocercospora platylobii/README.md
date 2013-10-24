@@ -1,5 +1,4 @@
-Pseudocercospora platylobii Beilharz & Cunningt. SPECIES
-=======
+# Pseudocercospora platylobii Beilharz & Cunningt. SPECIES
 
 #### Status
 ACCEPTED

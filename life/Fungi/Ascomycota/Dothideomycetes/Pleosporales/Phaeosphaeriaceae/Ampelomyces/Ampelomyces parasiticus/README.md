@@ -1,5 +1,4 @@
-Ampelomyces parasiticus (Sacc.) Rudakov SPECIES
-=======
+# Ampelomyces parasiticus (Sacc.) Rudakov SPECIES
 
 #### Status
 ACCEPTED

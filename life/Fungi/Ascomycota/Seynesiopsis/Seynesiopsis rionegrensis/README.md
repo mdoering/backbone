@@ -1,5 +1,4 @@
-Seynesiopsis rionegrensis Henn., 1904 SPECIES
-=======
+# Seynesiopsis rionegrensis Henn., 1904 SPECIES
 
 #### Status
 ACCEPTED

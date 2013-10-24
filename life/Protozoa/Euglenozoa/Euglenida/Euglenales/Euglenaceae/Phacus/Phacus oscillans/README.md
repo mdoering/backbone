@@ -1,5 +1,4 @@
-Phacus oscillans G.A. Klebs SPECIES
-=======
+# Phacus oscillans G.A. Klebs SPECIES
 
 #### Status
 ACCEPTED

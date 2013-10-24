@@ -1,5 +1,4 @@
-Catillaria schoenaui Servít SPECIES
-=======
+# Catillaria schoenaui Servít SPECIES
 
 #### Status
 ACCEPTED

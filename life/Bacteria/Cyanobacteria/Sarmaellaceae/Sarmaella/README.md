@@ -1,5 +1,4 @@
-Sarmaella T.N. Titorenko & I. Yu. Virskaia in A.G. Vologdin, 1962 GENUS
-=======
+# Sarmaella T.N. Titorenko & I. Yu. Virskaia in A.G. Vologdin, 1962 GENUS
 
 #### Status
 ACCEPTED

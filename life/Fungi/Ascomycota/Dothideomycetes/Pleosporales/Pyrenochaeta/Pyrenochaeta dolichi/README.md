@@ -1,5 +1,4 @@
-Pyrenochaeta dolichi Mohanty, 1958 SPECIES
-=======
+# Pyrenochaeta dolichi Mohanty, 1958 SPECIES
 
 #### Status
 ACCEPTED

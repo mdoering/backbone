@@ -1,5 +1,4 @@
-Dicellaesporites volubis P. Ke & Z.Y. Shi SPECIES
-=======
+# Dicellaesporites volubis P. Ke & Z.Y. Shi SPECIES
 
 #### Status
 ACCEPTED

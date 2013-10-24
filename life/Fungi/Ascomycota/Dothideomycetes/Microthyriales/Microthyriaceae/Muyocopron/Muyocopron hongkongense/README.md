@@ -1,5 +1,4 @@
-Muyocopron hongkongense Joanne E. Taylor, K.D. Hyde & E.B.G. Jones, 2003 SPECIES
-=======
+# Muyocopron hongkongense Joanne E. Taylor, K.D. Hyde & E.B.G. Jones, 2003 SPECIES
 
 #### Status
 ACCEPTED

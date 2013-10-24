@@ -1,5 +1,4 @@
-Kazachstania aquatica F.Y. Bai & Z.W. Wu, 2005 SPECIES
-=======
+# Kazachstania aquatica F.Y. Bai & Z.W. Wu, 2005 SPECIES
 
 #### Status
 ACCEPTED

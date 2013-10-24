@@ -1,5 +1,4 @@
-Necator Massee, 1898 GENUS
-=======
+# Necator Massee, 1898 GENUS
 
 #### Status
 ACCEPTED

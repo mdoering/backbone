@@ -1,5 +1,4 @@
-Gelatoporia griseoincarnata Spirin & Zmitr., 2003 SPECIES
-=======
+# Gelatoporia griseoincarnata Spirin & Zmitr., 2003 SPECIES
 
 #### Status
 ACCEPTED

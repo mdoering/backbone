@@ -1,5 +1,4 @@
-Hypermastigidae FAMILY
-=======
+# Hypermastigidae FAMILY
 
 #### Status
 ACCEPTED

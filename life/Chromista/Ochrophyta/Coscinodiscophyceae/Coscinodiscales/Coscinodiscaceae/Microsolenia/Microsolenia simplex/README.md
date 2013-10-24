@@ -1,5 +1,4 @@
-Microsolenia simplex Takano SPECIES
-=======
+# Microsolenia simplex Takano SPECIES
 
 #### Status
 ACCEPTED

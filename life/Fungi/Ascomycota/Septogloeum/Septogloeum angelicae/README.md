@@ -1,5 +1,4 @@
-Septogloeum angelicae (Cooke) Sacc. SPECIES
-=======
+# Septogloeum angelicae (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

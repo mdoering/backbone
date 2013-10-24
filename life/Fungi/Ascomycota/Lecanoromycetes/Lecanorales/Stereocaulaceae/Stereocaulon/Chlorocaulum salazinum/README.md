@@ -1,5 +1,4 @@
-Chlorocaulum salazinum (Bory) Clem. SPECIES
-=======
+# Chlorocaulum salazinum (Bory) Clem. SPECIES
 
 #### Status
 ACCEPTED

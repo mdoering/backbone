@@ -1,5 +1,4 @@
-Lembosia syzygii Sivan. & R.G. Shivas SPECIES
-=======
+# Lembosia syzygii Sivan. & R.G. Shivas SPECIES
 
 #### Status
 ACCEPTED

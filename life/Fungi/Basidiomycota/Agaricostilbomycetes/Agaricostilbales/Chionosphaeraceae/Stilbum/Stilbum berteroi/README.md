@@ -1,5 +1,4 @@
-Stilbum berteroi Lév. SPECIES
-=======
+# Stilbum berteroi Lév. SPECIES
 
 #### Status
 ACCEPTED

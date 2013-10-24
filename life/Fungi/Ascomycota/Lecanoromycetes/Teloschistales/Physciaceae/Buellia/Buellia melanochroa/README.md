@@ -1,5 +1,4 @@
-Buellia melanochroa SPECIES
-=======
+# Buellia melanochroa SPECIES
 
 #### Status
 ACCEPTED

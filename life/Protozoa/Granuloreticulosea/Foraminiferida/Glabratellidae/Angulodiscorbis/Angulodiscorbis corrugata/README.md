@@ -1,5 +1,4 @@
-Angulodiscorbis corrugata SPECIES
-=======
+# Angulodiscorbis corrugata SPECIES
 
 #### Status
 ACCEPTED

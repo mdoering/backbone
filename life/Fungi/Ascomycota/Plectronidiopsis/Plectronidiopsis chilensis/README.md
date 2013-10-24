@@ -1,14 +1,13 @@
-Dilophospora chilensis Speg., 1910 SPECIES
-=======
+# Plectronidiopsis chilensis (Speg.) Nag Raj, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revta Fac. Agron. Univ. nac. La Plata 6(1): 170 (1910)
+Can. J. Bot. 57(13): 1397 (1979)
 
 #### Original name
 Dilophospora chilensis Speg., 1910

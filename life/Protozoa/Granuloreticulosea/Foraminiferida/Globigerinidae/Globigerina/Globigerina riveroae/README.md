@@ -1,5 +1,4 @@
-Globigerina riveroae Bolli & Bermudez SPECIES
-=======
+# Globigerina riveroae Bolli & Bermudez SPECIES
 
 #### Status
 ACCEPTED

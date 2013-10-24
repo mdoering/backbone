@@ -1,5 +1,4 @@
-Sphacelaria novae-hollandiae Sonder SPECIES
-=======
+# Sphacelaria novae-hollandiae Sonder SPECIES
 
 #### Status
 ACCEPTED

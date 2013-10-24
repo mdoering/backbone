@@ -1,5 +1,4 @@
-Cypheliopsis GENUS
-=======
+# Cypheliopsis GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dennisiomyces lanzonii Robich, 1989 SPECIES
-=======
+# Dennisiomyces lanzonii Robich, 1989 SPECIES
 
 #### Status
 ACCEPTED

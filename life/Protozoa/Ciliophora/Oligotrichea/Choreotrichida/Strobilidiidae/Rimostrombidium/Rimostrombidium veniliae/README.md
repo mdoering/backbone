@@ -1,8 +1,7 @@
-Strobilidium veniliae Montages & Taylor, 1994 SPECIES
-=======
+# Rimostrombidium veniliae Montages & Taylor, 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

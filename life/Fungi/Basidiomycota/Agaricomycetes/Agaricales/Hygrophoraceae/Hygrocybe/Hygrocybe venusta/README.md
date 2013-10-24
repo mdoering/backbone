@@ -1,5 +1,4 @@
-Hygrocybe venusta Hongo SPECIES
-=======
+# Hygrocybe venusta Hongo SPECIES
 
 #### Status
 ACCEPTED

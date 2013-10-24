@@ -1,17 +1,16 @@
-Lignydium atrum (Pers.) Kuntze SPECIES
-=======
+# Physarum confertum T. Macbr., 1922 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 490 (1898)
+N. Amer. Slime-Moulds (New York), Edn 2 64 (1922)
 
 #### Original name
-Lycogala atra Pers.
+Physarum confertum T. Macbr., 1922
 
 ### Remarks
 null

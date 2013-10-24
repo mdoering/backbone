@@ -1,5 +1,4 @@
-Mycena margaritifera Maire SPECIES
-=======
+# Mycena margaritifera Maire SPECIES
 
 #### Status
 ACCEPTED

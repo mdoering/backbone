@@ -1,5 +1,4 @@
-Hermatomyces Speg. GENUS
-=======
+# Hermatomyces Speg. GENUS
 
 #### Status
 ACCEPTED

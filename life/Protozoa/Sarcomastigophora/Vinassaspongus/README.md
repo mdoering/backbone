@@ -1,5 +1,4 @@
-Vinassaspongus Kozur & Mostler, 1979 GENUS
-=======
+# Vinassaspongus Kozur & Mostler, 1979 GENUS
 
 #### Status
 ACCEPTED

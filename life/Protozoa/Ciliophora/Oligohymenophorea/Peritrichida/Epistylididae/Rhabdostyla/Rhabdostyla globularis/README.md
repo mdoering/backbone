@@ -1,5 +1,4 @@
-Rhabdostyla globularis Stokes, 1889 SPECIES
-=======
+# Rhabdostyla globularis Stokes, 1889 SPECIES
 
 #### Status
 ACCEPTED

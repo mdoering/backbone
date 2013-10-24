@@ -1,5 +1,4 @@
-Sphaeria obscura Schwein. SPECIES
-=======
+# Sphaeria obscura Schwein. SPECIES
 
 #### Status
 ACCEPTED

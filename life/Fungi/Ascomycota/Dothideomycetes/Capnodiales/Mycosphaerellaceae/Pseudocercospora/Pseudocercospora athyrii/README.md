@@ -1,5 +1,4 @@
-Pseudocercospora athyrii Goh & W.H. Hsieh SPECIES
-=======
+# Pseudocercospora athyrii Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

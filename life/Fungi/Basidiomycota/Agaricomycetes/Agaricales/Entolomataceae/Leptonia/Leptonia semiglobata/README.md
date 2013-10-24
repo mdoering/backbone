@@ -1,5 +1,4 @@
-Leptonia semiglobata Murrill SPECIES
-=======
+# Leptonia semiglobata Murrill SPECIES
 
 #### Status
 ACCEPTED

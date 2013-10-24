@@ -1,5 +1,4 @@
-Placostromella Petr. GENUS
-=======
+# Placostromella Petr. GENUS
 
 #### Status
 ACCEPTED

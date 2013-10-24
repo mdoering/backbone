@@ -1,5 +1,4 @@
-Septoria gavilanesii Urries SPECIES
-=======
+# Septoria gavilanesii Urries SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dactylospora parvula Arnaud SPECIES
-=======
+# Dactylospora parvula Arnaud SPECIES
 
 #### Status
 ACCEPTED

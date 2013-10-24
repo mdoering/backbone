@@ -1,5 +1,4 @@
-Lagenophrys callinectes Couch, 1967 SPECIES
-=======
+# Lagenophrys callinectes Couch, 1967 SPECIES
 
 #### Status
 ACCEPTED

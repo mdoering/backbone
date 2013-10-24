@@ -1,14 +1,13 @@
-Parmelia globulifera Kurok. & Filson SPECIES
-=======
+# Xanthoparmelia globulifera (Kurok. & Filson) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. natn. Sci. Mus. , Tokyo, B 1: 38 (1975)
+Mycotaxon 20(1): 79 (1984)
 
 #### Original name
 Parmelia globulifera Kurok. & Filson

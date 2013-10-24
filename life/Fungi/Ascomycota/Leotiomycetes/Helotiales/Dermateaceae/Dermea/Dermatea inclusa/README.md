@@ -1,5 +1,4 @@
-Dermatea inclusa Peck SPECIES
-=======
+# Dermatea inclusa Peck SPECIES
 
 #### Status
 ACCEPTED

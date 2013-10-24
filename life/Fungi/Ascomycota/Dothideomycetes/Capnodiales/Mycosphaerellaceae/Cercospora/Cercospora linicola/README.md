@@ -1,5 +1,4 @@
-Cercospora linicola Pavgi & Rathaiah SPECIES
-=======
+# Cercospora linicola Pavgi & Rathaiah SPECIES
 
 #### Status
 ACCEPTED

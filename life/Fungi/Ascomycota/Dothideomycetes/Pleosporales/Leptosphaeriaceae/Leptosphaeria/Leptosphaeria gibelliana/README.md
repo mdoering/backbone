@@ -1,5 +1,4 @@
-Leptosphaeria gibelliana Pirotta SPECIES
-=======
+# Leptosphaeria gibelliana Pirotta SPECIES
 
 #### Status
 ACCEPTED

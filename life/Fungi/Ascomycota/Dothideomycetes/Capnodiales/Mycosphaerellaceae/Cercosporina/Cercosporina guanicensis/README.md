@@ -1,5 +1,4 @@
-Cercosporina guanicensis (E. Young) Sacc. SPECIES
-=======
+# Cercosporina guanicensis (E. Young) Sacc. SPECIES
 
 #### Status
 ACCEPTED

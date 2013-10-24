@@ -1,17 +1,16 @@
-Myrmaecium Sacc. GENUS
-=======
+# Myrmaeciella Lindau GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Michelia 2(no. 6): 138 (1880)
+in Engler & Prantl, Nat. Pflanzenfam. (Leipzig), Teil. <b>I</b> 1: 478 (1897)
 
 #### Original name
-Myrmaecium Sacc.
+Myrmaeciella Lindau
 
 ### Remarks
 null

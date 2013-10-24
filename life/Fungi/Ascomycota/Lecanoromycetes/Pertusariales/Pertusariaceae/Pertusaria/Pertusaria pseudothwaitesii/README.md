@@ -1,5 +1,4 @@
-Pertusaria pseudothwaitesii A. W. Archer & Elix SPECIES
-=======
+# Pertusaria pseudothwaitesii A. W. Archer & Elix SPECIES
 
 #### Status
 ACCEPTED

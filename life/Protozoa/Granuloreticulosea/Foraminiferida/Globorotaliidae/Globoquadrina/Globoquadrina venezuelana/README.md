@@ -1,5 +1,4 @@
-Globoquadrina venezuelana (Hedberg) SPECIES
-=======
+# Globoquadrina venezuelana (Hedberg) SPECIES
 
 #### Status
 ACCEPTED

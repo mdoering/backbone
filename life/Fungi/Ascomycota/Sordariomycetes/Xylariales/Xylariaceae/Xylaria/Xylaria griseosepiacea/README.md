@@ -1,5 +1,4 @@
-Xylaria griseosepiacea Y.M. Ju & H.M. Hsieh, 2008 SPECIES
-=======
+# Xylaria griseosepiacea Y.M. Ju & H.M. Hsieh, 2008 SPECIES
 
 #### Status
 ACCEPTED

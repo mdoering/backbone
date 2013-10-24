@@ -1,5 +1,4 @@
-Staurolithites aachenus SPECIES
-=======
+# Staurolithites aachenus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vermispora fusarina Burghouts & W. Gams, 1989 SPECIES
-=======
+# Vermispora fusarina Burghouts & W. Gams, 1989 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Parodiella erolotareae Trivedi SPECIES
-=======
+# Parodiella crotalariae Trivedi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Phytopath. , Suppl. Issue 29(1): 418 (1977)
 
 #### Original name
-Parodiella erolotareae Trivedi
+Parodiella crotalariae Trivedi
 
 ### Remarks
 null

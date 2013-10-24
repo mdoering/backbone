@@ -1,17 +1,16 @@
-Pleotrachelus vuilleminii G. Arnaud ex M.W. Dick SPECIES
-=======
+# Pleotrachelus vuilleminiae G. Arnaud ex M.W. Dick, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Straminipilous Fungi (Dordrecht) 381 (2001)
 
 #### Original name
-Pleotrachelus vuilleminii G. Arnaud ex M.W. Dick
+Pleotrachelus vuilleminiae G. Arnaud ex M.W. Dick, 2001
 
 ### Remarks
 null

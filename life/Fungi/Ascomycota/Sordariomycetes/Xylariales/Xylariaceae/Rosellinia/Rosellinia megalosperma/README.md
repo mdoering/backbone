@@ -1,5 +1,4 @@
-Rosellinia megalosperma Syd. & P. Syd. SPECIES
-=======
+# Rosellinia megalosperma Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

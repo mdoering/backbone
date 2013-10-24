@@ -1,5 +1,4 @@
-Umbilicaria soralifera (Frey) Krog & Swinscow SPECIES
-=======
+# Umbilicaria soralifera (Frey) Krog & Swinscow SPECIES
 
 #### Status
 ACCEPTED

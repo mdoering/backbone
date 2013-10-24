@@ -1,5 +1,4 @@
-Cortinarius helvolus f. helvolus FORM
-=======
+# Cortinarius helvolus (Bull.) Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Epicr. syst. mycol. (Upsaliae) 296 (1838)
 
 #### Original name
-Cortinarius helvolus f. helvolus
+Agaricus araneosus var. helvolus Bull.
 
 ### Remarks
 null

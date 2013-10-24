@@ -1,5 +1,4 @@
-Lactobacillus jensenii Gasser et al., 1970 (Approved Lists, 1980) SPECIES
-=======
+# Lactobacillus jensenii Gasser et al., 1970 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

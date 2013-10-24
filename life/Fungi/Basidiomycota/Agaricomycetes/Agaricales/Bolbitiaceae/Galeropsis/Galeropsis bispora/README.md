@@ -1,14 +1,13 @@
-Galeropsis desertorum var. bispora (Vassilkov) G. Moreno, Heykoop & Illana, 1989 VARIETY
-=======
+# Galeropsis bispora Vassilkov, 1954 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 36(1): 66 (1989)
+null
 
 #### Original name
 Galeropsis bispora Vassilkov, 1954

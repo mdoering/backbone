@@ -1,5 +1,4 @@
-Methylocella tundrae Dedysh et al., 2004 SPECIES
-=======
+# Methylocella tundrae Dedysh et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dicaeoma fidele (Arthur) Arthur SPECIES
-=======
+# Dicaeoma fidele (Arthur) Arthur SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Usnea eburnea Motyka SPECIES
-=======
+# Usnea eburnea Motyka SPECIES
 
 #### Status
 ACCEPTED

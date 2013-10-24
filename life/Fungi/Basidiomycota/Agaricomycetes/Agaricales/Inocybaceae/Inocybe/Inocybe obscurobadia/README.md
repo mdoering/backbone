@@ -1,17 +1,16 @@
-Inocybe tenuicystidiata var. tenuicystidiata VARIETY
-=======
+# Inocybe obscurobadia (J. Favre) Grund & D.E. Stuntz, 1977 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 33: 148 (1980)
+Mycologia 69(2): 407 (1977)
 
 #### Original name
-Inocybe tenuicystidiata var. tenuicystidiata
+Inocybe furfurea var. obscurobadia J. Favre, 1955
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Graphina tricolorata Redinger SPECIES
-=======
+# Graphina tricolorata Redinger SPECIES
 
 #### Status
 ACCEPTED

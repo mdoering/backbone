@@ -1,5 +1,4 @@
-Russula viridulorosea Herp. SPECIES
-=======
+# Russula viridulorosea Herp. SPECIES
 
 #### Status
 ACCEPTED

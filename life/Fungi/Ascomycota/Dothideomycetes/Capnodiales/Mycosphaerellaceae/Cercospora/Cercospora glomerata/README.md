@@ -1,5 +1,4 @@
-Cercospora glomerata Harkn. SPECIES
-=======
+# Cercospora glomerata Harkn. SPECIES
 
 #### Status
 ACCEPTED

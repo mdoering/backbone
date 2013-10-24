@@ -1,5 +1,4 @@
-Cytospora austromontana G.C. Adams & M.J. Wingf. SPECIES
-=======
+# Cytospora austromontana G.C. Adams & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

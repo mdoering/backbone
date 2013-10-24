@@ -1,5 +1,4 @@
-Coprinopsis cubensis (Berk. & M.A. Curtis) Redhead, Vilgalys & Moncalvo SPECIES
-=======
+# Coprinopsis cubensis (Berk. & M.A. Curtis) Redhead, Vilgalys & Moncalvo SPECIES
 
 #### Status
 ACCEPTED

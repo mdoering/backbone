@@ -1,5 +1,4 @@
-Rhizocarpon umense (H. Magn.) A. Nordin SPECIES
-=======
+# Rhizocarpon umense (H. Magn.) A. Nordin SPECIES
 
 #### Status
 ACCEPTED

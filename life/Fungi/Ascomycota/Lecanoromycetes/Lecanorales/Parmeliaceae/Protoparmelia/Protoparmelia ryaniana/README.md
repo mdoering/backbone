@@ -1,5 +1,4 @@
-Protoparmelia ryaniana van den Boom, Sipman & Elix SPECIES
-=======
+# Protoparmelia ryaniana van den Boom, Sipman & Elix SPECIES
 
 #### Status
 ACCEPTED

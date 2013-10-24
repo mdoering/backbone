@@ -1,5 +1,4 @@
-Puccinia henryana P. Syd. & Syd. SPECIES
-=======
+# Puccinia henryana P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

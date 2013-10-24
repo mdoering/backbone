@@ -1,5 +1,4 @@
-Pleurotus olivascens Corner, 1981 SPECIES
-=======
+# Pleurotus olivascens Corner, 1981 SPECIES
 
 #### Status
 ACCEPTED

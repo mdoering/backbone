@@ -1,5 +1,4 @@
-Frontonia acuminata subsp. angusta Kahl, 1931 SUBSPECIES
-=======
+# Frontonia acuminata (Ehrenberg, 1834) Bütschli, 1889 SPECIES
 
 #### Status
 ACCEPTED

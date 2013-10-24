@@ -1,5 +1,4 @@
-Gyrophora leprosa Zahlbr. SPECIES
-=======
+# Gyrophora leprosa Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

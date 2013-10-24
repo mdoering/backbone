@@ -1,8 +1,7 @@
-Euglena quartana Moroff SPECIES
-=======
+# Khawkinea quartana (Moroff) Jahn & McKibben SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

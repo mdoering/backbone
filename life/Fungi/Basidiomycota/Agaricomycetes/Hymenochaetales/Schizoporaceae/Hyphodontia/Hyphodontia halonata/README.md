@@ -1,14 +1,13 @@
-Kneiffiella halonata (J. Erikss. & Hjortstam) Jülich & Stalpers, 1980 SPECIES
-=======
+# Hyphodontia halonata J. Erikss. & Hjortstam, 1969 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Verh. K. ned. Akad. Wet. , 2 Sectie 74: 133 (1980)
+Svensk bot. Tidskr. 63(2): 227 (1969)
 
 #### Original name
 Hyphodontia halonata J. Erikss. & Hjortstam, 1969

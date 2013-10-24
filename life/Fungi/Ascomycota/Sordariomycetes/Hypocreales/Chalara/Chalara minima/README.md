@@ -1,5 +1,4 @@
-Chalara minima Höhn. SPECIES
-=======
+# Chalara minima Höhn. SPECIES
 
 #### Status
 ACCEPTED

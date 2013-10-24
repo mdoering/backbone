@@ -1,5 +1,4 @@
-Fungoides Tourn. GENUS
-=======
+# Fungoides Tourn. GENUS
 
 #### Status
 ACCEPTED

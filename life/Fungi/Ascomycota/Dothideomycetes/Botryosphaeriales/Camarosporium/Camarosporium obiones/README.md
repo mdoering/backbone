@@ -1,17 +1,16 @@
-Camarosporium obionis Jaap SPECIES
-=======
+# Camarosporium obiones Jaap, 1905 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Verh. bot. Ver. Prov. Brandenb. 97 (1905)
 
 #### Original name
-Camarosporium obionis Jaap
+Camarosporium obiones Jaap, 1905
 
 ### Remarks
 null

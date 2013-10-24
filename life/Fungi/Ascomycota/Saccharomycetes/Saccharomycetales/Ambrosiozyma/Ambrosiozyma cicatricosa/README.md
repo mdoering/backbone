@@ -1,14 +1,13 @@
-Pichia cicatricosa D.B. Scott & Van der Walt, 1971 SPECIES
-=======
+# Ambrosiozyma cicatricosa (D.B. Scott & van der Walt) van der Walt, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Antonie van Leeuwenhoek 37(2): 177 (1971)
+Mycopath. Mycol. appl. 46(4): 308 (1972)
 
 #### Original name
 Pichia cicatricosa D.B. Scott & Van der Walt, 1971

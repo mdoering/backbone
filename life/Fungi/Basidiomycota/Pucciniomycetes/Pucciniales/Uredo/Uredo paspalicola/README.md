@@ -1,14 +1,13 @@
-Physopella paspalicola (Henn.) Buriticá & J.F. Hennen, 1994 SPECIES
-=======
+# Uredo paspalicola Henn., 1905 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Buriticá, Revta ICNE, Instit. Cienc. Nat. Ecol. 5(2): 179 (1994)
+Hedwigia 44: 57 (1905)
 
 #### Original name
 Uredo paspalicola Henn., 1905

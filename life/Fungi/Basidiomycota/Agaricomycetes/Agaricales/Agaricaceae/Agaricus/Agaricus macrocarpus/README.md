@@ -1,5 +1,4 @@
-Agaricus macrocarpus (F.H. Møller) F.H. Møller, 1952 SPECIES
-=======
+# Agaricus macrocarpus (F.H. Møller) F.H. Møller, 1952 SPECIES
 
 #### Status
 ACCEPTED

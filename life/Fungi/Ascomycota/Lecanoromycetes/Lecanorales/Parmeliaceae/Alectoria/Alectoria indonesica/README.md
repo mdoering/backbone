@@ -1,5 +1,4 @@
-Alectoria indonesica P.M. Jørg. SPECIES
-=======
+# Alectoria indonesica P.M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

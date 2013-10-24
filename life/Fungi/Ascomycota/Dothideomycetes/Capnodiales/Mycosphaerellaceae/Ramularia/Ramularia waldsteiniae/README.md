@@ -1,5 +1,4 @@
-Ramularia waldsteiniae Ellis & Davis SPECIES
-=======
+# Ramularia waldsteiniae Ellis & Davis SPECIES
 
 #### Status
 ACCEPTED

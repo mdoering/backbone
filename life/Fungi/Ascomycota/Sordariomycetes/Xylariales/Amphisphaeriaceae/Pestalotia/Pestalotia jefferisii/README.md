@@ -1,5 +1,4 @@
-Pestalotia jefferisii Ellis SPECIES
-=======
+# Pestalotia jefferisii Ellis SPECIES
 
 #### Status
 ACCEPTED

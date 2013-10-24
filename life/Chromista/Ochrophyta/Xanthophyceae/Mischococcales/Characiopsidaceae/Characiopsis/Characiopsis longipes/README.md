@@ -1,5 +1,4 @@
-Characiopsis longipes var. minor H. Pizarro & G. Tell VARIETY
-=======
+# Characiopsis longipes (Rabh.) Borzi SPECIES
 
 #### Status
 ACCEPTED

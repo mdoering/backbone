@@ -1,5 +1,4 @@
-Pertusaria astomoides Nyl. SPECIES
-=======
+# Pertusaria astomoides Nyl. SPECIES
 
 #### Status
 ACCEPTED

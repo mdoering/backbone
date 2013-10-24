@@ -1,5 +1,4 @@
-Merulius pseudocantharellus Pers. SPECIES
-=======
+# Merulius pseudocantharellus Pers. SPECIES
 
 #### Status
 ACCEPTED

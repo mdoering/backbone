@@ -1,17 +1,16 @@
-Myxosporium carneum sticticum P. Karst., 1884 INFRASPECIFIC_NAME
-=======
+# Myxofusicoccum sticticum (P. Karst.) Höhn., 1915 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Z. Garungs Phys. 5: 203 (1915)
 
 #### Original name
-null
+Myxosporium carneum Lib. ex Thüm., 1880
 
 ### Remarks
 null

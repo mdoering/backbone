@@ -1,5 +1,4 @@
-Tricholoma consequens (Britzelm.) Sacc. SPECIES
-=======
+# Tricholoma consequens (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

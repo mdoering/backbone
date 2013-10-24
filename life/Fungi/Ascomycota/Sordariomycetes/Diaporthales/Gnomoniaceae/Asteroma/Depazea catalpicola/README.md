@@ -1,5 +1,4 @@
-Depazea catalpicola Fr. SPECIES
-=======
+# Depazea catalpicola Fr. SPECIES
 
 #### Status
 ACCEPTED

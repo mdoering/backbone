@@ -1,5 +1,4 @@
-Syncephalis tetraspora M.S. Patil & B.J. Patil SPECIES
-=======
+# Syncephalis tetraspora M.S. Patil & B.J. Patil SPECIES
 
 #### Status
 ACCEPTED

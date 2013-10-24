@@ -1,5 +1,4 @@
-Diatrype japonica Sacc. SPECIES
-=======
+# Diatrype japonica Sacc. SPECIES
 
 #### Status
 ACCEPTED

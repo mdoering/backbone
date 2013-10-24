@@ -1,5 +1,4 @@
-Hypholoma musae (Earle) Morgan SPECIES
-=======
+# Hypholoma musae (Earle) Morgan SPECIES
 
 #### Status
 ACCEPTED

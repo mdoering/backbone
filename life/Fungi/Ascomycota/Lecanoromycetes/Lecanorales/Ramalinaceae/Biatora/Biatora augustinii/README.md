@@ -1,5 +1,4 @@
-Biatora augustinii Tuck. SPECIES
-=======
+# Biatora augustinii Tuck. SPECIES
 
 #### Status
 ACCEPTED

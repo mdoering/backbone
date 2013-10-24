@@ -1,14 +1,13 @@
-Thelotrema asiaticum Vain. SPECIES
-=======
+# Ocellularia asiatica (Vain.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 46: 175 (1907)
+Mycotaxon 11(1): 136 (1980)
 
 #### Original name
 Thelotrema asiaticum Vain.

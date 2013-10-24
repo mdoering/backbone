@@ -1,5 +1,4 @@
-Psathyrella waltersii A.H. Sm. SPECIES
-=======
+# Psathyrella waltersii A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

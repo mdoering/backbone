@@ -1,5 +1,4 @@
-Coleophoma lauricola (Bubák) Nag Raj SPECIES
-=======
+# Coleophoma lauricola (Bubák) Nag Raj SPECIES
 
 #### Status
 ACCEPTED

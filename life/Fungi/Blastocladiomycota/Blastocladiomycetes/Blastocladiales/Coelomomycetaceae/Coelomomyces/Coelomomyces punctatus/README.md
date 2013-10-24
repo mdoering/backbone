@@ -1,5 +1,4 @@
-Coelomomyces punctatus Couch & H.R. Dodge SPECIES
-=======
+# Coelomomyces punctatus Couch & H.R. Dodge SPECIES
 
 #### Status
 ACCEPTED

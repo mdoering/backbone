@@ -1,17 +1,16 @@
-Oidium prinsepii Y.S. Paul & L.N. Bhardwaj SPECIES
-=======
+# Oidium prinsepiae Y.S. Paul & L.N. Bhardwaj SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Forester 113(11): 753 (1987)
 
 #### Original name
-Oidium prinsepii Y.S. Paul & L.N. Bhardwaj
+Oidium prinsepiae Y.S. Paul & L.N. Bhardwaj
 
 ### Remarks
 null

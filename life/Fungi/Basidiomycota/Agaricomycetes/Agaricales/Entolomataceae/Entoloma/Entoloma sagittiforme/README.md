@@ -1,5 +1,4 @@
-Entoloma sagittiforme Kalchbr. & Cooke SPECIES
-=======
+# Entoloma sagittiforme Kalchbr. & Cooke SPECIES
 
 #### Status
 ACCEPTED

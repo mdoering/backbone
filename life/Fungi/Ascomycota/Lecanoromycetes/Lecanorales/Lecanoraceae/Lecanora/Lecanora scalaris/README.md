@@ -1,5 +1,4 @@
-Lecanora scalaris (Gray) A. Dietr. SPECIES
-=======
+# Lecanora scalaris (Gray) A. Dietr. SPECIES
 
 #### Status
 ACCEPTED

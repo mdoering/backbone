@@ -1,5 +1,4 @@
-Dermocybe croceocona (Fr.) M.M. Moser SPECIES
-=======
+# Dermocybe croceocona (Fr.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cistella phytolaccae (Raitv.) Raitv. SPECIES
-=======
+# Cistella phytolaccae (Raitv.) Raitv. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo polymorpha var. polymorpha VARIETY
-=======
+# Uredo polymorpha SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Uredo polymorpha var. polymorpha
+Uredo polymorpha
 
 ### Remarks
 null

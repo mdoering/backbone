@@ -1,5 +1,4 @@
-Septoria nepetae Ellis & Everh. SPECIES
-=======
+# Septoria nepetae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

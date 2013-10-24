@@ -1,5 +1,4 @@
-Sporonema feurichii (Bubák) Höhn. SPECIES
-=======
+# Sporonema feurichii (Bubák) Höhn. SPECIES
 
 #### Status
 ACCEPTED

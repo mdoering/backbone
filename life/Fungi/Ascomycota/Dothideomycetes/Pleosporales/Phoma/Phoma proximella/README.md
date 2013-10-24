@@ -1,5 +1,4 @@
-Phoma proximella Sacc. SPECIES
-=======
+# Phoma proximella Sacc. SPECIES
 
 #### Status
 ACCEPTED

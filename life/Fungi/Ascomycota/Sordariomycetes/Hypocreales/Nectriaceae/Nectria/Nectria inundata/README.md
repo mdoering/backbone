@@ -1,17 +1,16 @@
-Nectria inundata var. inundata Rehm ex Weese VARIETY
-=======
+# Nectria inundata Rehm ex Weese, 1912 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Nectria inundata var. inundata Rehm ex Weese
+Nectria inundata Rehm ex Weese, 1912
 
 ### Remarks
 null

@@ -1,8 +1,7 @@
-Phacidium parinarii Henn., 1908 SPECIES
-=======
+# Phyllachora dendritica Cooke, 1885 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

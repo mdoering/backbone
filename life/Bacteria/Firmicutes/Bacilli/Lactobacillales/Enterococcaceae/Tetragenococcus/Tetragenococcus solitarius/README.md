@@ -1,8 +1,7 @@
-Enterococcus solitarius Collins et al., 1989 SPECIES
-=======
+# Tetragenococcus solitarius (Collins et al., 1989) Ennahar & Cai, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

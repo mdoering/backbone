@@ -1,5 +1,4 @@
-Aecidium englerianum Henn. & J. Lindau SPECIES
-=======
+# Aecidium englerianum Henn. & J. Lindau SPECIES
 
 #### Status
 ACCEPTED

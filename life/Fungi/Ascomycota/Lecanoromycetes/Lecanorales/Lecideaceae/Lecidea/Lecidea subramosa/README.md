@@ -1,5 +1,4 @@
-Lecidea subramosa J. Lowe SPECIES
-=======
+# Lecidea subramosa J. Lowe SPECIES
 
 #### Status
 ACCEPTED

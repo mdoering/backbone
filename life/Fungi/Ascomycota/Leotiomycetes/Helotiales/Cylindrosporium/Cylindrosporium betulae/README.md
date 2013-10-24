@@ -1,5 +1,4 @@
-Cylindrosporium betulae Davis, 1910 SPECIES
-=======
+# Cylindrosporium betulae Davis, 1910 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca sympagea (Ach.) Sandst. SPECIES
-=======
+# Caloplaca sympagea (Ach.) Sandst. SPECIES
 
 #### Status
 ACCEPTED

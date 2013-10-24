@@ -1,5 +1,4 @@
-Graphis canaliculata Fée SPECIES
-=======
+# Graphis canaliculata Fée SPECIES
 
 #### Status
 ACCEPTED

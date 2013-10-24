@@ -1,5 +1,4 @@
-Lamellophycus Vologdin GENUS
-=======
+# Lamellophycus Vologdin GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dimerosporium acokantherae Henn. SPECIES
-=======
+# Dimerosporium acokantherae Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena latebricola P. Karst. SPECIES
-=======
+# Mycena latebricola P. Karst. SPECIES
 
 #### Status
 ACCEPTED

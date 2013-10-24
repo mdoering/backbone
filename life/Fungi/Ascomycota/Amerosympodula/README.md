@@ -1,5 +1,4 @@
-Amerosympodula Matsush. GENUS
-=======
+# Amerosympodula Matsush. GENUS
 
 #### Status
 ACCEPTED

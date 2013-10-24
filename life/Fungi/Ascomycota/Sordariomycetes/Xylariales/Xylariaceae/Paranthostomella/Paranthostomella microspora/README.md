@@ -1,5 +1,4 @@
-Paranthostomella microspora E.K. Cash & A.M.J. Watson SPECIES
-=======
+# Paranthostomella microspora E.K. Cash & A.M.J. Watson SPECIES
 
 #### Status
 ACCEPTED

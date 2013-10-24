@@ -1,14 +1,13 @@
-Agaricus graminum Lib., 1832 SPECIES
-=======
+# Marasmius graminum (Lib.) Berk., 1860 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Pl. crypt. Arduenna (Liège), fasc. 2: no. 119 (1832)
+Outl. Brit. Fung. (London) 222 (1860)
 
 #### Original name
 Agaricus graminum Lib., 1832

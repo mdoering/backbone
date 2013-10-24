@@ -1,5 +1,4 @@
-Amphisphaeria dunarum Speg. SPECIES
-=======
+# Amphisphaeria dunarum Speg. SPECIES
 
 #### Status
 ACCEPTED

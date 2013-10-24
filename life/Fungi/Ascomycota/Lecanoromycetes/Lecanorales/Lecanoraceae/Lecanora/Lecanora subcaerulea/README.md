@@ -1,5 +1,4 @@
-Lecanora subcaerulea (Maheu & Werner) Zahlbr. SPECIES
-=======
+# Lecanora subcaerulea (Maheu & Werner) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

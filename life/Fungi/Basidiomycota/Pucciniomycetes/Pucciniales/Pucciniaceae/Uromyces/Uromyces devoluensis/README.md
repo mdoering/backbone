@@ -1,5 +1,4 @@
-Uromyces devoluensis Gäum. SPECIES
-=======
+# Uromyces devoluensis Gäum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Verrucaria tartarina Nyl. SPECIES
-=======
+# Sagediopsis campsteriana (Linds.) D. Hawksw. & R. Sant. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Flora, Jena 57: 15 (1874)
+in Alstrup & Hawksworth, Meddr Grønland, Biosc. 31: 63 (1990)
 
 #### Original name
-Verrucaria tartarina Nyl.
+Verrucaria campsteriana Linds.
 
 ### Remarks
 null

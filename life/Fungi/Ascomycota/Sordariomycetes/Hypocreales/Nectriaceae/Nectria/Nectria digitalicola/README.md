@@ -1,5 +1,4 @@
-Nectria digitalicola P. Crouan & H. Crouan SPECIES
-=======
+# Nectria digitalicola P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

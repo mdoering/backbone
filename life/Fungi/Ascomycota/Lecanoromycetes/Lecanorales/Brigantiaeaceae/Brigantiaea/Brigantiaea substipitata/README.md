@@ -1,5 +1,4 @@
-Brigantiaea substipitata Kalb & Hafellner SPECIES
-=======
+# Brigantiaea substipitata Kalb & Hafellner SPECIES
 
 #### Status
 ACCEPTED

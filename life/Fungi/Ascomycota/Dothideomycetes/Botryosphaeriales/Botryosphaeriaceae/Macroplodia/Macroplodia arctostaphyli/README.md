@@ -1,5 +1,4 @@
-Macroplodia arctostaphyli Vize SPECIES
-=======
+# Macroplodia arctostaphyli Vize SPECIES
 
 #### Status
 ACCEPTED

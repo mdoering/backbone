@@ -1,5 +1,4 @@
-Lembosia terminaliae Hansf. SPECIES
-=======
+# Lembosia terminaliae Hansf. SPECIES
 
 #### Status
 ACCEPTED

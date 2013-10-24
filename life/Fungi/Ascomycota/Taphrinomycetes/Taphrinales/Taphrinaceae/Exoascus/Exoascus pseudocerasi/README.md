@@ -1,5 +1,4 @@
-Exoascus pseudocerasi (Shirai) Jacz. SPECIES
-=======
+# Exoascus pseudocerasi (Shirai) Jacz. SPECIES
 
 #### Status
 ACCEPTED

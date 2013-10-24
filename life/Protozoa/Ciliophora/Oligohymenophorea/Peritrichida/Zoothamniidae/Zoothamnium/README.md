@@ -1,5 +1,4 @@
-Zoothamnium Bory de St. Vincent, 1826 GENUS
-=======
+# Zoothamnium Bory de St. Vincent, 1826 GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Cantharellus houghtonii W. Phillips, 1876 SPECIES
-=======
+# Clitocybe houghtonii (W. Phillips) Dennis, 1954 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mag. nat. Hist. , Ser. 4 17(no. 98): 135 (1876)
+Kew Bull. 425 (1954)
 
 #### Original name
 Cantharellus houghtonii W. Phillips, 1876

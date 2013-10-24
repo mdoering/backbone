@@ -1,5 +1,4 @@
-Torula rhizophila subsp. rhizophila SUBSPECIES
-=======
+# Torula rhizophila Corda SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Icon. fung. (Prague) 1: 8 (1837)
 
 #### Original name
-Torula rhizophila subsp. rhizophila
+Torula rhizophila Corda
 
 ### Remarks
 null

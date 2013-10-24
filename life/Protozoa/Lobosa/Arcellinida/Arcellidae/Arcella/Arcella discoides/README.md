@@ -1,5 +1,4 @@
-Arcella discoides Ehr. SPECIES
-=======
+# Arcella discoides Ehr. SPECIES
 
 #### Status
 ACCEPTED

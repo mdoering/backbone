@@ -1,5 +1,4 @@
-Multicellaesporites discitypicus P. Ke & Z.Y. Shi SPECIES
-=======
+# Multicellaesporites discitypicus P. Ke & Z.Y. Shi SPECIES
 
 #### Status
 ACCEPTED

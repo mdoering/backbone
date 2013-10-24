@@ -1,5 +1,4 @@
-Acrosporella sarmentorum Riedl & Ershad SPECIES
-=======
+# Acrosporella sarmentorum Riedl & Ershad SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora therryana Roum. SPECIES
-=======
+# Cercospora therryana Roum. SPECIES
 
 #### Status
 ACCEPTED

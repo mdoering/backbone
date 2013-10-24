@@ -1,5 +1,4 @@
-Parmeliella angustiloba P.M. Jørg. & Arv. SPECIES
-=======
+# Parmeliella angustiloba P.M. Jørg. & Arv. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius teraturgus M.M. Moser SPECIES
-=======
+# Cortinarius teraturgus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

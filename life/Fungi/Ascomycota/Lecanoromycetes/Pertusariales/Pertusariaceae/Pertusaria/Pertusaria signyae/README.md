@@ -1,5 +1,4 @@
-Pertusaria signyae Øvstedal SPECIES
-=======
+# Pertusaria signyae Øvstedal SPECIES
 
 #### Status
 ACCEPTED

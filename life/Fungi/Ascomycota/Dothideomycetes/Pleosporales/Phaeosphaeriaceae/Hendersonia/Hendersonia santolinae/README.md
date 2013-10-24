@@ -1,5 +1,4 @@
-Hendersonia santolinae f. santolinae FORM
-=======
+# Hendersonia santolinae Hollós SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Hendersonia santolinae f. santolinae
+Hendersonia santolinae Hollós
 
 ### Remarks
 null

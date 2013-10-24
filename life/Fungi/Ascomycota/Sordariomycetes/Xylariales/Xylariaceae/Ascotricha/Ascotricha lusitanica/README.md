@@ -1,5 +1,4 @@
-Ascotricha lusitanica R.G. Kenneth, 1971 SPECIES
-=======
+# Ascotricha lusitanica R.G. Kenneth, 1971 SPECIES
 
 #### Status
 ACCEPTED

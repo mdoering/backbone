@@ -1,5 +1,4 @@
-Diplodia betae Potebnia SPECIES
-=======
+# Diplodia betae Potebnia SPECIES
 
 #### Status
 ACCEPTED

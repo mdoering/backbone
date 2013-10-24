@@ -1,5 +1,4 @@
-Sphacelotheca sahayai Mundk. SPECIES
-=======
+# Sphacelotheca sahayai Mundk. SPECIES
 
 #### Status
 ACCEPTED

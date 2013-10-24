@@ -1,5 +1,4 @@
-Helotium linderi W.L. White SPECIES
-=======
+# Helotium linderi W.L. White SPECIES
 
 #### Status
 ACCEPTED

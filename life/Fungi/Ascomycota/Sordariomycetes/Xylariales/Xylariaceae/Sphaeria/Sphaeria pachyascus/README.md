@@ -1,5 +1,4 @@
-Sphaeria pachyascus Cooke & Ellis SPECIES
-=======
+# Sphaeria pachyascus Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

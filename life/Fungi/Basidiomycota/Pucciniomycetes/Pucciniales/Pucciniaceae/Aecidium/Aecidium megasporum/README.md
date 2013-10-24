@@ -1,5 +1,4 @@
-Aecidium megasporum Sawada SPECIES
-=======
+# Aecidium megasporum Sawada SPECIES
 
 #### Status
 ACCEPTED

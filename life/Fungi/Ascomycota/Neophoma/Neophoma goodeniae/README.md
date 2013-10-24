@@ -1,5 +1,4 @@
-Neophoma goodeniae Petr. SPECIES
-=======
+# Neophoma goodeniae Petr. SPECIES
 
 #### Status
 ACCEPTED

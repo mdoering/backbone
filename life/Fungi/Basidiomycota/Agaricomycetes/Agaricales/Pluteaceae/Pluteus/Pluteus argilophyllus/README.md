@@ -1,5 +1,4 @@
-Pluteus argilophyllus (Berk. & Broome) Pegler SPECIES
-=======
+# Pluteus argilophyllus (Berk. & Broome) Pegler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliolinella elaeidis Hansf. SPECIES
-=======
+# Meliolinella elaeidis Hansf. SPECIES
 
 #### Status
 ACCEPTED

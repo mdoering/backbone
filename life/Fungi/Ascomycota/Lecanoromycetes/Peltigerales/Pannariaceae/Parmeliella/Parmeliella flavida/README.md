@@ -1,5 +1,4 @@
-Parmeliella flavida P.M. Jørg. SPECIES
-=======
+# Parmeliella flavida P.M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

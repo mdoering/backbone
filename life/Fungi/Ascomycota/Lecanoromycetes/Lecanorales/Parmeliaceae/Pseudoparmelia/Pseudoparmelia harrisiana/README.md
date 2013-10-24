@@ -1,5 +1,4 @@
-Pseudoparmelia harrisiana Elix & T. H. Nash SPECIES
-=======
+# Pseudoparmelia harrisiana Elix & T. H. Nash SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria rubefacta Erichsen SPECIES
-=======
+# Pertusaria rubefacta Erichsen SPECIES
 
 #### Status
 ACCEPTED

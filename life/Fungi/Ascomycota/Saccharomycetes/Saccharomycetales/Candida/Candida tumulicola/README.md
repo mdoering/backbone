@@ -1,5 +1,4 @@
-Candida tumulicola Nagats., Kiyuna, Kigawa & Sugiy. SPECIES
-=======
+# Candida tumulicola Nagats., Kiyuna, Kigawa & Sugiy. SPECIES
 
 #### Status
 ACCEPTED

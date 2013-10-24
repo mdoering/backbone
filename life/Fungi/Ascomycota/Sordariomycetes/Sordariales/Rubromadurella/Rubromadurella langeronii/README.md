@@ -1,17 +1,16 @@
-Rubromadurella langeroni Talice SPECIES
-=======
+# Rubromadurella langeronii Talice SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls Parasit. hum. comp. 13: (1935)
 
 #### Original name
-Rubromadurella langeroni Talice
+Rubromadurella langeronii Talice
 
 ### Remarks
 null

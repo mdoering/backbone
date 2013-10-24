@@ -1,5 +1,4 @@
-Puccinia diaziana Arthur SPECIES
-=======
+# Puccinia diaziana Arthur SPECIES
 
 #### Status
 ACCEPTED

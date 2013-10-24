@@ -1,17 +1,16 @@
-Lopadium phyllogenum var. phyllogenum VARIETY
-=======
+# Calopadia phyllogena (Müll. Arg.) Vezda SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Denkschr. Akad. Wiss. , Wein, Mathematische-naturwissenschaftliche Klasse 81: 251 (1907)
+Folia geobot. phytotax. 21(2): 215 (1986)
 
 #### Original name
-Lopadium phyllogenum var. phyllogenum
+Heterothecium phyllogenum Müll. Arg.
 
 ### Remarks
 null

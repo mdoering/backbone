@@ -1,5 +1,4 @@
-Lophodermium pini-pumilae Sawada, 1952 SPECIES
-=======
+# Lophodermium pini-pumilae Sawada, 1952 SPECIES
 
 #### Status
 ACCEPTED

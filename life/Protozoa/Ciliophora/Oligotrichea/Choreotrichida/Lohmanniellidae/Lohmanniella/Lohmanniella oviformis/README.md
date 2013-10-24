@@ -1,5 +1,4 @@
-Lohmanniella oviformis Leegaard, 1915 SPECIES
-=======
+# Lohmanniella oviformis Leegaard, 1915 SPECIES
 
 #### Status
 ACCEPTED

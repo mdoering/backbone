@@ -1,5 +1,4 @@
-Luehndea spinosa Morgenroth, 1970 SPECIES
-=======
+# Luehndea spinosa Morgenroth, 1970 SPECIES
 
 #### Status
 ACCEPTED

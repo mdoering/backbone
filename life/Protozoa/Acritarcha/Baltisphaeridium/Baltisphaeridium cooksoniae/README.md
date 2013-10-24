@@ -1,5 +1,4 @@
-Baltisphaeridium cooksoniae Fensome et al., 1990 SPECIES
-=======
+# Baltisphaeridium cooksoniae Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta vaccinii-hirti Henn. SPECIES
-=======
+# Phyllosticta vaccinii-hirti Henn. SPECIES
 
 #### Status
 ACCEPTED

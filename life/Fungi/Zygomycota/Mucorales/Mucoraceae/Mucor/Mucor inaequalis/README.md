@@ -1,5 +1,4 @@
-Mucor inaequalis Peck SPECIES
-=======
+# Mucor inaequalis Peck SPECIES
 
 #### Status
 ACCEPTED

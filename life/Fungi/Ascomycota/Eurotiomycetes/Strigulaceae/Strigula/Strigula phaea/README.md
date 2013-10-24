@@ -1,17 +1,16 @@
-Strigula minutula P. M. McCarthy SPECIES
-=======
+# Strigula phaea (Ach.) R. C. Harris SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Tucker & Harris, Bryologist 83(1): 18 (1980)
 
 #### Original name
-null
+Verrucaria phaea Ach.
 
 ### Remarks
 null

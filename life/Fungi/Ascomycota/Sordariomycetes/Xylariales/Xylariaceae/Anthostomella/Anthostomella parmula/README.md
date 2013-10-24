@@ -1,5 +1,4 @@
-Anthostomella parmula (Lév.) Sacc. SPECIES
-=======
+# Anthostomella parmula (Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

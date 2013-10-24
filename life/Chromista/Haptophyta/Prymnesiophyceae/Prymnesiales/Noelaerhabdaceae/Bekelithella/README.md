@@ -1,5 +1,4 @@
-Bekelithella Bona & Gal, 1985 GENUS
-=======
+# Bekelithella Bona & Gal, 1985 GENUS
 
 #### Status
 ACCEPTED

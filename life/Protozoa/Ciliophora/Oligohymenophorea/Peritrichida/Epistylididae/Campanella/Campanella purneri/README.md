@@ -1,5 +1,4 @@
-Campanella purneri SPECIES
-=======
+# Campanella purneri SPECIES
 
 #### Status
 ACCEPTED

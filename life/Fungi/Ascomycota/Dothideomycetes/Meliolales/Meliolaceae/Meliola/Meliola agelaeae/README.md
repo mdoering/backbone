@@ -1,5 +1,4 @@
-Meliola agelaeae var. agelaeae VARIETY
-=======
+# Meliola agelaeae F. Stevens & Roldan SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Philipp. J. Sci. , C, Bot. 56(1): 64 (1935)
 
 #### Original name
-Meliola agelaeae var. agelaeae
+Meliola agelaeae F. Stevens & Roldan
 
 ### Remarks
 null

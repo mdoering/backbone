@@ -1,5 +1,4 @@
-Diderma aurantiacum Y. Yamam. & Nann.-Bremek., 1990 SPECIES
-=======
+# Diderma aurantiacum Y. Yamam. & Nann.-Bremek., 1990 SPECIES
 
 #### Status
 ACCEPTED

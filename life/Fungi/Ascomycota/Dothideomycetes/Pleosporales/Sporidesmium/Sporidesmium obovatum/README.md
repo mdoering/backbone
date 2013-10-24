@@ -1,5 +1,4 @@
-Sporidesmium obovatum Matsush. SPECIES
-=======
+# Sporidesmium obovatum Matsush. SPECIES
 
 #### Status
 ACCEPTED

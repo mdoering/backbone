@@ -1,5 +1,4 @@
-Actiniscus squamosus S. Locker & E. Martini SPECIES
-=======
+# Actiniscus squamosus S. Locker & E. Martini SPECIES
 
 #### Status
 ACCEPTED

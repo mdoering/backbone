@@ -1,5 +1,4 @@
-Boletus radicosus Bundy SPECIES
-=======
+# Boletus radicosus Bundy SPECIES
 
 #### Status
 ACCEPTED

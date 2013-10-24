@@ -1,5 +1,4 @@
-Puccinia namjagbarwana B. Li & J.Y. Zhuang SPECIES
-=======
+# Puccinia namjagbarwana B. Li & J.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

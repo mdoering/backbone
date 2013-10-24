@@ -1,5 +1,4 @@
-Acrodictys septosporioides Matsush. SPECIES
-=======
+# Acrodictys septosporioides Matsush. SPECIES
 
 #### Status
 ACCEPTED

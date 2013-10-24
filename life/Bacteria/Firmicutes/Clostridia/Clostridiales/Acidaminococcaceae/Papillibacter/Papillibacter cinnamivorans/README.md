@@ -1,5 +1,4 @@
-Papillibacter cinnamivorans Defnoun et al., 2000 SPECIES
-=======
+# Papillibacter cinnamivorans Defnoun et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

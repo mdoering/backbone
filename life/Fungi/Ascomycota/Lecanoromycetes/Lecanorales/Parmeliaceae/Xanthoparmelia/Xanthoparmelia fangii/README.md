@@ -1,5 +1,4 @@
-Xanthoparmelia fangii Elix SPECIES
-=======
+# Xanthoparmelia fangii Elix SPECIES
 
 #### Status
 ACCEPTED

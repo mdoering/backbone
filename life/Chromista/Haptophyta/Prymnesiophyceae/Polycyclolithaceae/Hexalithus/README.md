@@ -1,5 +1,4 @@
-Hexalithus Gardet n.man. GENUS
-=======
+# Hexalithus Gardet n.man. GENUS
 
 #### Status
 ACCEPTED

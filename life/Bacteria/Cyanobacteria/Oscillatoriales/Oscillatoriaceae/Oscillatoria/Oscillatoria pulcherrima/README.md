@@ -1,5 +1,4 @@
-Oscillatoria pulcherrima M. T. P. Azevedo & C. L. Sant'Anna SPECIES
-=======
+# Oscillatoria pulcherrima M. T. P. Azevedo & C. L. Sant'Anna SPECIES
 
 #### Status
 ACCEPTED

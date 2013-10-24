@@ -1,5 +1,4 @@
-Ustilago asprellae G. Cunn. SPECIES
-=======
+# Ustilago asprellae G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Meliola pachystellae Mibey SPECIES
-=======
+# Meliola pachystelae Mibey SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Mibey & Hawksworth, Mycol. Pap. 174: 62 (1997)
 
 #### Original name
-Meliola pachystellae Mibey
+Meliola pachystelae Mibey
 
 ### Remarks
 null

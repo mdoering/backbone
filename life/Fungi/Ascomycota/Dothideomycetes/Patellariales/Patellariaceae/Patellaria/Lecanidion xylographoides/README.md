@@ -1,5 +1,4 @@
-Lecanidion xylographoides (De Not.) Sacc. SPECIES
-=======
+# Lecanidion xylographoides (De Not.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

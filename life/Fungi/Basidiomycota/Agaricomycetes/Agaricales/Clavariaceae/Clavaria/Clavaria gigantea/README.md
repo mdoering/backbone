@@ -1,5 +1,4 @@
-Clavaria gigantea Schwein. SPECIES
-=======
+# Clavaria gigantea Schwein. SPECIES
 
 #### Status
 ACCEPTED

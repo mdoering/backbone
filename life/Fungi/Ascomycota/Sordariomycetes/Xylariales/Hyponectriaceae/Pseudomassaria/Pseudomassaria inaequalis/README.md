@@ -1,5 +1,4 @@
-Pseudomassaria inaequalis (I. Hino & Katum.) I. Hino & Katum. SPECIES
-=======
+# Pseudomassaria inaequalis (I. Hino & Katum.) I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

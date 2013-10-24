@@ -1,5 +1,4 @@
-Sphaeria cavata Nyl. SPECIES
-=======
+# Sphaeria cavata Nyl. SPECIES
 
 #### Status
 ACCEPTED

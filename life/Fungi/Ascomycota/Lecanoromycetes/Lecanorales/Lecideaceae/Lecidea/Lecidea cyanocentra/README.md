@@ -1,5 +1,4 @@
-Lecidea cyanocentra Nyl. SPECIES
-=======
+# Lecidea cyanocentra Nyl. SPECIES
 
 #### Status
 ACCEPTED

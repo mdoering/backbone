@@ -1,5 +1,4 @@
-Fomes minimus N. Walters SPECIES
-=======
+# Fomes minimus N. Walters SPECIES
 
 #### Status
 ACCEPTED

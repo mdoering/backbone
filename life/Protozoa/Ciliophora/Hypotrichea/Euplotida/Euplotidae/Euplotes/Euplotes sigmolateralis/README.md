@@ -1,5 +1,4 @@
-Euplotes sigmolateralis Agatha, Spindler & Wilbert, 1993 SPECIES
-=======
+# Euplotes sigmolateralis Agatha, Spindler & Wilbert, 1993 SPECIES
 
 #### Status
 ACCEPTED

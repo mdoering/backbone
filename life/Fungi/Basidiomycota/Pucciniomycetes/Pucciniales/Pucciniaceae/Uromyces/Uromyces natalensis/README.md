@@ -1,5 +1,4 @@
-Uromyces natalensis Magnus SPECIES
-=======
+# Uromyces natalensis Magnus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius janthinophaeus E. Horak & M.M. Moser SPECIES
-=======
+# Cortinarius janthinophaeus E. Horak & M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

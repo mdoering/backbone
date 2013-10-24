@@ -1,5 +1,4 @@
-Rhytidhysterium discolor Speg. SPECIES
-=======
+# Rhytidhysterium discolor Speg. SPECIES
 
 #### Status
 ACCEPTED

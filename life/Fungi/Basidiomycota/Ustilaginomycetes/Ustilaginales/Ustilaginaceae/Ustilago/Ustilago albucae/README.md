@@ -1,5 +1,4 @@
-Ustilago albucae Syd. & P. Syd. SPECIES
-=======
+# Ustilago albucae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

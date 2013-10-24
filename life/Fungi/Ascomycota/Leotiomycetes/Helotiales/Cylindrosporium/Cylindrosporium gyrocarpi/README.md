@@ -1,5 +1,4 @@
-Cylindrosporium gyrocarpi Syd. SPECIES
-=======
+# Cylindrosporium gyrocarpi Syd. SPECIES
 
 #### Status
 ACCEPTED

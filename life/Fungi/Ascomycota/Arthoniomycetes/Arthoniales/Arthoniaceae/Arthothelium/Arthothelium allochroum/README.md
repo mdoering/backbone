@@ -1,5 +1,4 @@
-Arthothelium allochroum Makhija & Patw. SPECIES
-=======
+# Arthothelium allochroum Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

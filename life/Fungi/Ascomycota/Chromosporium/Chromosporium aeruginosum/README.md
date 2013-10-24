@@ -1,5 +1,4 @@
-Chromosporium aeruginosum (Corda) Sacc. SPECIES
-=======
+# Chromosporium aeruginosum (Corda) Sacc. SPECIES
 
 #### Status
 ACCEPTED

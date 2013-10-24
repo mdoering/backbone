@@ -1,14 +1,13 @@
-Leptonia carneogrisea (Berk. & Broome) P.D. Orton, 1991 SPECIES
-=======
+# Entoloma carneogriseum (Berk. & Broome) Noordel., 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologist 5(3): 131 (1991)
+Beih. Nova Hedwigia 91: 216 (1987)
 
 #### Original name
 Agaricus carneogriseus Berk. & Broome, 1865

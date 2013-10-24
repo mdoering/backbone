@@ -1,5 +1,4 @@
-Caloplaca gloriae Llimona & Werner SPECIES
-=======
+# Caloplaca gloriae Llimona & Werner SPECIES
 
 #### Status
 ACCEPTED

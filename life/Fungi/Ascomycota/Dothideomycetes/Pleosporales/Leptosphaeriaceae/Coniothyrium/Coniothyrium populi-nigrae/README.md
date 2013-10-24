@@ -1,5 +1,4 @@
-Coniothyrium populi-nigrae (Sacc.) Biga, Cif. & Bestagno SPECIES
-=======
+# Coniothyrium populi-nigrae (Sacc.) Biga, Cif. & Bestagno SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Catopyrenium subtrachyticum B. de Lesd. SPECIES
-=======
+# Catopyrenium subtrachyticum B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

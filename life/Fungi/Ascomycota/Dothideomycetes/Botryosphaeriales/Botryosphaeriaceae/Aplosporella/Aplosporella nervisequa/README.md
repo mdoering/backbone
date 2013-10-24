@@ -1,5 +1,4 @@
-Aplosporella nervisequa (J.E. Lange) Alexandri SPECIES
-=======
+# Aplosporella nervisequa (J.E. Lange) Alexandri SPECIES
 
 #### Status
 ACCEPTED

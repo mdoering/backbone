@@ -1,5 +1,4 @@
-Caloplaca dimorpha (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Caloplaca dimorpha (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

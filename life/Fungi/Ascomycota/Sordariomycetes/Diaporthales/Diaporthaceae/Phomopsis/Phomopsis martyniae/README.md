@@ -1,5 +1,4 @@
-Phomopsis martyniae Speg. SPECIES
-=======
+# Phomopsis martyniae Speg. SPECIES
 
 #### Status
 ACCEPTED

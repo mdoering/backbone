@@ -1,5 +1,4 @@
-Peridinium deficiens SPECIES
-=======
+# Peridinium deficiens SPECIES
 
 #### Status
 ACCEPTED

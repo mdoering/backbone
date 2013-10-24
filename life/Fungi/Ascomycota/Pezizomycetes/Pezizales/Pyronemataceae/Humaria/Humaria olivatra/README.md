@@ -1,5 +1,4 @@
-Humaria olivatra (Ellis & Holw.) Sacc. SPECIES
-=======
+# Humaria olivatra (Ellis & Holw.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

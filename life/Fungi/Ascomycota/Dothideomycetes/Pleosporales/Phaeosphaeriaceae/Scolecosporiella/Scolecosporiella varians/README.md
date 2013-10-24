@@ -1,5 +1,4 @@
-Scolecosporiella varians (Sacc.) B. Sutton & Dyko SPECIES
-=======
+# Scolecosporiella varians (Sacc.) B. Sutton & Dyko SPECIES
 
 #### Status
 ACCEPTED

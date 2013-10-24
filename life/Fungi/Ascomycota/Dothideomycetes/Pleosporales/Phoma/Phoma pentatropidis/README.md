@@ -1,5 +1,4 @@
-Phoma pentatropidis Suj. Singh & Kamal SPECIES
-=======
+# Phoma pentatropidis Suj. Singh & Kamal SPECIES
 
 #### Status
 ACCEPTED

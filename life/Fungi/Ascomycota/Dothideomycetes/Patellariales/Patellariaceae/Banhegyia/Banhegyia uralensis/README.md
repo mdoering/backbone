@@ -1,5 +1,4 @@
-Banhegyia uralensis (Naumov) Kohlm., 1967 SPECIES
-=======
+# Banhegyia uralensis (Naumov) Kohlm., 1967 SPECIES
 
 #### Status
 ACCEPTED

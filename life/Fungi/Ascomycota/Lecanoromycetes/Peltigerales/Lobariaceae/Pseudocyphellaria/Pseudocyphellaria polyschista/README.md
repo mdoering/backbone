@@ -1,5 +1,4 @@
-Pseudocyphellaria polyschista (Meyen & Flot.) W. Martin SPECIES
-=======
+# Pseudocyphellaria polyschista (Meyen & Flot.) W. Martin SPECIES
 
 #### Status
 ACCEPTED

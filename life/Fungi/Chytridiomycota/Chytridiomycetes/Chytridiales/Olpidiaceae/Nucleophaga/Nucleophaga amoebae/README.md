@@ -1,5 +1,4 @@
-Nucleophaga amoebae P.A. Dang., 1896 SPECIES
-=======
+# Nucleophaga amoebae P.A. Dang., 1896 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Acarospora oxytona var. oxytona VARIETY
-=======
+# Pleopsidium flavum (Bellardi) Körb. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Acarospora oxytona var. oxytona
+Lichen flavus Bellardi
 
 ### Remarks
 null

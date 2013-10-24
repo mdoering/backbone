@@ -1,5 +1,4 @@
-Ramalina commixta Asahina SPECIES
-=======
+# Ramalina commixta Asahina SPECIES
 
 #### Status
 ACCEPTED

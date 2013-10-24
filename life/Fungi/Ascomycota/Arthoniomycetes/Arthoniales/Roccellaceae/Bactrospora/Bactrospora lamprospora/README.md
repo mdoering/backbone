@@ -1,5 +1,4 @@
-Bactrospora lamprospora (Nyl.) Lendemer SPECIES
-=======
+# Bactrospora lamprospora (Nyl.) Lendemer SPECIES
 
 #### Status
 ACCEPTED

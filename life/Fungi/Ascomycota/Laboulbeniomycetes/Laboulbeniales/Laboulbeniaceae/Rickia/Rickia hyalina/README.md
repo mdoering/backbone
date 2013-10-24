@@ -1,5 +1,4 @@
-Rickia hyalina Thaxt. SPECIES
-=======
+# Rickia hyalina Thaxt. SPECIES
 
 #### Status
 ACCEPTED

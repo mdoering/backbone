@@ -1,5 +1,4 @@
-Lecanactis caesia (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Lecanactis caesia (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

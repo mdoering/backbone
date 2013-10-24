@@ -1,5 +1,4 @@
-Verrucaria caecula Servít SPECIES
-=======
+# Verrucaria caecula Servít SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochyta polemonii Cavara, 1899 SPECIES
-=======
+# Ascochyta polemonii Cavara, 1899 SPECIES
 
 #### Status
 ACCEPTED

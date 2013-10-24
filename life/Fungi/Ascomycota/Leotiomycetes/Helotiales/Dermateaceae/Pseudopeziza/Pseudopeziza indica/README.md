@@ -1,5 +1,4 @@
-Pseudopeziza indica T.S. Ramakr. & K. Ramakr. SPECIES
-=======
+# Pseudopeziza indica T.S. Ramakr. & K. Ramakr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleistophora senegalensis Faye, Toguebaye & Bouix, 1990 SPECIES
-=======
+# Pleistophora senegalensis Faye, Toguebaye & Bouix, 1990 SPECIES
 
 #### Status
 ACCEPTED

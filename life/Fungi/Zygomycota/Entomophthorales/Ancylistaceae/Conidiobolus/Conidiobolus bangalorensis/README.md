@@ -1,5 +1,4 @@
-Conidiobolus bangalorensis Sriniv. & Thirum., 1967 SPECIES
-=======
+# Conidiobolus bangalorensis Sriniv. & Thirum., 1967 SPECIES
 
 #### Status
 ACCEPTED

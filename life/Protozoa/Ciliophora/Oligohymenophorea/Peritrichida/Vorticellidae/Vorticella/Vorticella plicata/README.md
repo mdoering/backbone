@@ -1,5 +1,4 @@
-Vorticella plicata Gourret & Roeser, 1886 SPECIES
-=======
+# Vorticella plicata Gourret & Roeser, 1886 SPECIES
 
 #### Status
 ACCEPTED

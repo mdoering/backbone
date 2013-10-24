@@ -1,5 +1,4 @@
-Cucurbitaria hariotii (P. Karst.) Kuntze SPECIES
-=======
+# Cucurbitaria hariotii (P. Karst.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

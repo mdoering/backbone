@@ -1,5 +1,4 @@
-Tintinnopsis potiformis SPECIES
-=======
+# Tintinnopsis potiformis SPECIES
 
 #### Status
 ACCEPTED

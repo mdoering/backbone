@@ -1,5 +1,4 @@
-Tubercularia salicis Rabenh. SPECIES
-=======
+# Tubercularia salicis Rabenh. SPECIES
 
 #### Status
 ACCEPTED

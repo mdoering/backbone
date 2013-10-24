@@ -1,5 +1,4 @@
-Lactarius atroviolaceus Montoya & Bandala SPECIES
-=======
+# Lactarius atroviolaceus Montoya & Bandala SPECIES
 
 #### Status
 ACCEPTED

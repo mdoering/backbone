@@ -1,5 +1,4 @@
-Cistella resincola anon. SPECIES
-=======
+# Cistella resincola anon. SPECIES
 
 #### Status
 ACCEPTED

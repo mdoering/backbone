@@ -1,17 +1,16 @@
-Thaxterogaster nivale E. Horak SPECIES
-=======
+# Cortinarius nivalis (E. Horak) Peintner & M.M. Moser, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 81: 181 (2002)
 
 #### Original name
-Thaxterogaster nivale E. Horak
+Thaxterogaster nivalis E. Horak, 1973
 
 ### Remarks
 null

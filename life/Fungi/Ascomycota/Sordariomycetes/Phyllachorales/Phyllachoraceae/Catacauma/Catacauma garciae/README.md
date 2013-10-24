@@ -1,5 +1,4 @@
-Catacauma garciae Theiss. & Syd., 1915 SPECIES
-=======
+# Catacauma garciae Theiss. & Syd., 1915 SPECIES
 
 #### Status
 ACCEPTED

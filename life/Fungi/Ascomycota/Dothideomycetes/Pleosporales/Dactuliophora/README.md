@@ -1,5 +1,4 @@
-Dactuliophora C.L. Leakey GENUS
-=======
+# Dactuliophora C.L. Leakey GENUS
 
 #### Status
 ACCEPTED

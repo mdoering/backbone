@@ -1,5 +1,4 @@
-Merulius ramosus (Schulzer & Kalchbr.) Kuntze SPECIES
-=======
+# Merulius ramosus (Schulzer & Kalchbr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Clavaria strasseri Bres., 1900 SPECIES
-=======
+# Ramaria strasseri (Bres.) Corner, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Pilzfl. Sonntagsberg 2: 3 (1900)
+Monograph of Clavaria and allied Genera (Annals of Botany Memoirs No. 1) 622 (1950)
 
 #### Original name
 Clavaria strasseri Bres., 1900

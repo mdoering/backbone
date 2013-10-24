@@ -1,5 +1,4 @@
-Monoporisporites grandis Hammen SPECIES
-=======
+# Monoporisporites grandis Hammen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hydrocybe reticulata Velen. SPECIES
-=======
+# Hydrocybe reticulata Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rigidoporus nevadensis Iturr. & Ryvarden, 2010 SPECIES
-=======
+# Rigidoporus nevadensis Iturr. & Ryvarden, 2010 SPECIES
 
 #### Status
 ACCEPTED

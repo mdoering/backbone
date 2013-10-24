@@ -1,5 +1,4 @@
-Jeotgalicoccus halotolerans Yoon et al., 2003 SPECIES
-=======
+# Jeotgalicoccus halotolerans Yoon et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endothicollaria Zhang, Zhou & Willems, 1994 GENUS
-=======
+# Endothicollaria Zhang, Zhou & Willems, 1994 GENUS
 
 #### Status
 ACCEPTED

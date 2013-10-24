@@ -1,5 +1,4 @@
-Glissandra Patterson & Simpson, 1996 GENUS
-=======
+# Glissandra Patterson & Simpson, 1996 GENUS
 
 #### Status
 ACCEPTED

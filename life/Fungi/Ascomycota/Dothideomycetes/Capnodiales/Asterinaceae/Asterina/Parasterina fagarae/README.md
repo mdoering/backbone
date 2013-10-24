@@ -1,5 +1,4 @@
-Parasterina fagarae (H.S. Yates) J.M. Mend. SPECIES
-=======
+# Parasterina fagarae (H.S. Yates) J.M. Mend. SPECIES
 
 #### Status
 ACCEPTED

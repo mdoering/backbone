@@ -1,5 +1,4 @@
-Massarinula italica var. italica VARIETY
-=======
+# Massarinula italica D. Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Massarinula italica var. italica
+Massarinula italica D. Sacc.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Helicosporium velutinum (Ellis) Sacc. SPECIES
-=======
+# Helicosporium velutinum (Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Paraparmelia seginata Elix & J. Johnst. SPECIES
-=======
+# Xanthoparmelia seginata (Elix & J. Johnst.) Elix SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Brunonia 9: 148 (1986)
+Mycotaxon 87: 401 (2003)
 
 #### Original name
 Paraparmelia seginata Elix & J. Johnst.

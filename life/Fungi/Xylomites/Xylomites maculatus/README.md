@@ -1,5 +1,4 @@
-Xylomites maculatus Unger SPECIES
-=======
+# Xylomites maculatus Unger SPECIES
 
 #### Status
 ACCEPTED

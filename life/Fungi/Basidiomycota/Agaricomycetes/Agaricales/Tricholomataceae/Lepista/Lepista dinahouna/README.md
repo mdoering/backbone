@@ -1,5 +1,4 @@
-Lepista dinahouna De Kesel SPECIES
-=======
+# Lepista dinahouna De Kesel SPECIES
 
 #### Status
 ACCEPTED

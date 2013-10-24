@@ -1,5 +1,4 @@
-Seynesia melanosticta Cooke & Massee SPECIES
-=======
+# Seynesia melanosticta Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

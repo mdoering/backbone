@@ -1,5 +1,4 @@
-Spironema Léger & Hesse GENUS
-=======
+# Spironema Léger & Hesse GENUS
 
 #### Status
 ACCEPTED

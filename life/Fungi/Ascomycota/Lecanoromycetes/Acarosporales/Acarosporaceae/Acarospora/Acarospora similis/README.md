@@ -1,5 +1,4 @@
-Acarospora similis SPECIES
-=======
+# Acarospora similis SPECIES
 
 #### Status
 ACCEPTED

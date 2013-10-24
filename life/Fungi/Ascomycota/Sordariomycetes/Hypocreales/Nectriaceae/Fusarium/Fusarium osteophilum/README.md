@@ -1,5 +1,4 @@
-Fusarium osteophilum Speg. SPECIES
-=======
+# Fusarium osteophilum Speg. SPECIES
 
 #### Status
 ACCEPTED

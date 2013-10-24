@@ -1,5 +1,4 @@
-Phyllachora interstitialis Cooke, 1885 SPECIES
-=======
+# Phyllachora interstitialis Cooke, 1885 SPECIES
 
 #### Status
 DOUBTFUL

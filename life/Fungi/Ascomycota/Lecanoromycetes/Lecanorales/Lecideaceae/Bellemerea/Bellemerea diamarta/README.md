@@ -1,17 +1,16 @@
-Aspicilia diamarta f. diamarta FORM
-=======
+# Bellemerea diamarta (Ach.) Hafellner & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Clauzade & Roux, Bull. Soc. bot. Centre-Ouest, Nouv. sér. 15: 129 (1984)
 
 #### Original name
-Aspicilia diamarta f. diamarta
+null
 
 ### Remarks
 null

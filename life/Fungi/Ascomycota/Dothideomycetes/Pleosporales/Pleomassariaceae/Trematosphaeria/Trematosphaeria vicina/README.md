@@ -1,5 +1,4 @@
-Trematosphaeria vicina (Sacc.) M.E. Barr & Math. SPECIES
-=======
+# Trematosphaeria vicina (Sacc.) M.E. Barr & Math. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Chaetocladium fresenianum Bref., 1881 SPECIES
-=======
+# Chaetocladium jonesii (Berk. & Broome) Fresen., 1863 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Unters. Gesammtgeb. Mykol. 4: 55 (1881)
+Beitr. Mykol. 3: 97 (1863)
 
 #### Original name
-Chaetocladium fresenianum Bref., 1881
+Botrytis jonesii Berk. & Broome, 1854
 
 ### Remarks
 null

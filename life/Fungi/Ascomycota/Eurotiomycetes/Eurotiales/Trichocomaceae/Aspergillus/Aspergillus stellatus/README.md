@@ -1,17 +1,16 @@
-Aspergillus variecolor var. variecolor VARIETY
-=======
+# Aspergillus stellatus Curzi SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 31: 663 (1939)
+Comptes rendu Accad. Lincei 19: 428 (1934)
 
 #### Original name
-Aspergillus variecolor var. variecolor
+Aspergillus stellatus Curzi
 
 ### Remarks
 null

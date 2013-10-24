@@ -1,17 +1,16 @@
-Octaviania cigroensis Guzmán SPECIES
-=======
+# Octaviania ciqroensis Guzmán SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 16(1): 259 (1982)
 
 #### Original name
-Octaviania cigroensis Guzmán
+Octaviania ciqroensis Guzmán
 
 ### Remarks
 null

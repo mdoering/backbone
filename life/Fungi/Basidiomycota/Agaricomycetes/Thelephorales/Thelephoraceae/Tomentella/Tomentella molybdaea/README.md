@@ -1,5 +1,4 @@
-Tomentella molybdaea Bourdot & Galzin, 1924 SPECIES
-=======
+# Tomentella molybdaea Bourdot & Galzin, 1924 SPECIES
 
 #### Status
 ACCEPTED

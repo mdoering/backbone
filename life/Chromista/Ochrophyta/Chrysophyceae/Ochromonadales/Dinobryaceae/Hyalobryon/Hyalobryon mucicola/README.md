@@ -1,5 +1,4 @@
-Hyalobryon mucicola Lemmermann SPECIES
-=======
+# Hyalobryon mucicola Lemmermann SPECIES
 
 #### Status
 ACCEPTED

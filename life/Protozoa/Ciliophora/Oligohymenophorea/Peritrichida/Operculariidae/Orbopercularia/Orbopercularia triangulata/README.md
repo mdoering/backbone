@@ -1,5 +1,4 @@
-Orbopercularia triangulata SPECIES
-=======
+# Orbopercularia triangulata SPECIES
 
 #### Status
 ACCEPTED

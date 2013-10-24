@@ -1,5 +1,4 @@
-Imbricaria cycloselis SPECIES
-=======
+# Imbricaria cycloselis SPECIES
 
 #### Status
 ACCEPTED

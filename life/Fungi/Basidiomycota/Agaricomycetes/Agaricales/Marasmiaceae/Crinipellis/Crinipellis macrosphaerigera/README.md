@@ -1,5 +1,4 @@
-Crinipellis macrosphaerigera Singer SPECIES
-=======
+# Crinipellis macrosphaerigera Singer SPECIES
 
 #### Status
 ACCEPTED

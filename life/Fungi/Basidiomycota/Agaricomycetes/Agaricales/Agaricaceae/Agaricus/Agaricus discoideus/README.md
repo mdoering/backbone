@@ -1,5 +1,4 @@
-Agaricus discoideus Pers. SPECIES
-=======
+# Agaricus discoideus Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hebeloma nigellum Bruchet SPECIES
-=======
+# Hebeloma nigellum Bruchet SPECIES
 
 #### Status
 ACCEPTED

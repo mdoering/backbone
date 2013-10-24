@@ -1,5 +1,4 @@
-Coniothecium seriale Durieu & Mont. SPECIES
-=======
+# Coniothecium seriale Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

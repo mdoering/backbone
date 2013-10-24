@@ -1,5 +1,4 @@
-Cortinarius castaneoides Peck SPECIES
-=======
+# Cortinarius castaneoides Peck SPECIES
 
 #### Status
 ACCEPTED

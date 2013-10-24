@@ -1,14 +1,13 @@
-Penicillium viride-albo (Sopp) Biourge SPECIES
-=======
+# Penicillium virido-album (Sopp) Biourge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+La Cellule 33: 106 (1923)
 
 #### Original name
 Citromyces viridoalbus Sopp

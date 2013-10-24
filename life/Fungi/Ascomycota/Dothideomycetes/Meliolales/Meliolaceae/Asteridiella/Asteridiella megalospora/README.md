@@ -1,5 +1,4 @@
-Asteridiella megalospora (Speg.) Hansf. SPECIES
-=======
+# Asteridiella megalospora (Speg.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

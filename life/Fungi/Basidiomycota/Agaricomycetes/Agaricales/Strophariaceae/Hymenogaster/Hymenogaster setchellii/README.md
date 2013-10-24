@@ -1,5 +1,4 @@
-Hymenogaster setchellii Harkn. SPECIES
-=======
+# Hymenogaster setchellii Harkn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cantharellus ramealis Jungh. SPECIES
-=======
+# Cantharellus ramealis Jungh. SPECIES
 
 #### Status
 ACCEPTED

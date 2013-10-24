@@ -1,5 +1,4 @@
-Nomocrosporium GENUS
-=======
+# Nomocrosporium GENUS
 
 #### Status
 ACCEPTED

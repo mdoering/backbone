@@ -1,5 +1,4 @@
-Hymenoscyphus longipes (Cooke & Peck) Kuntze SPECIES
-=======
+# Hymenoscyphus longipes (Cooke & Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

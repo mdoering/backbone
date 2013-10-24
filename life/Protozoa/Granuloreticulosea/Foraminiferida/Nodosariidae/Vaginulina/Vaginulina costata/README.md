@@ -1,5 +1,4 @@
-Vaginulina costata (Cornuel) SPECIES
-=======
+# Vaginulina costata (Cornuel) SPECIES
 
 #### Status
 ACCEPTED

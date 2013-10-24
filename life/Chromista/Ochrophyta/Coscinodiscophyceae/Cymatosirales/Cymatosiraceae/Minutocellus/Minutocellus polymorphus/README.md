@@ -1,8 +1,7 @@
-Bellerochea polymorpha Hargraves & Guillard SPECIES
-=======
+# Minutocellus polymorphus (Hargraves & Guillard) Hasle, von Stosch, & Syvertsen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

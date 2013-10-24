@@ -1,5 +1,4 @@
-Coenogonium barbatellum Kalb SPECIES
-=======
+# Coenogonium barbatellum Kalb SPECIES
 
 #### Status
 ACCEPTED

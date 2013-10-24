@@ -1,5 +1,4 @@
-Valsa subcondita Ellis SPECIES
-=======
+# Valsa subcondita Ellis SPECIES
 
 #### Status
 ACCEPTED

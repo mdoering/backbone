@@ -1,5 +1,4 @@
-Periconia sahariana Lunghini, 1978 SPECIES
-=======
+# Periconia sahariana Lunghini, 1978 SPECIES
 
 #### Status
 ACCEPTED

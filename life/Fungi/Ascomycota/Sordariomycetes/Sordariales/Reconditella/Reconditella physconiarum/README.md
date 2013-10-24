@@ -1,5 +1,4 @@
-Reconditella physconiarum Matzer & Hafellner, 1990 SPECIES
-=======
+# Reconditella physconiarum Matzer & Hafellner, 1990 SPECIES
 
 #### Status
 ACCEPTED

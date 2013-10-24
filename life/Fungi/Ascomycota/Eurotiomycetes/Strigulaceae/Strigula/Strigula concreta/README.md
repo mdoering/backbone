@@ -1,14 +1,13 @@
-Strigula elegans var. concreta (Fée) Zahlbr. VARIETY
-=======
+# Strigula concreta (Fée) R. Sant. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Cat. Lich. Univers. 1: 539 (1922)
+Symb. bot. upsal. 12(no. 1): 177 (1952)
 
 #### Original name
 Craspedon concretum Fée

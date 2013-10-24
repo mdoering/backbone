@@ -1,5 +1,4 @@
-Lichina elizabethae A. Massal. SPECIES
-=======
+# Lichina elizabethae A. Massal. SPECIES
 
 #### Status
 ACCEPTED

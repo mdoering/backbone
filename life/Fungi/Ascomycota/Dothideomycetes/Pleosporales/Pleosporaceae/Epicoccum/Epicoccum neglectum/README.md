@@ -1,17 +1,16 @@
-Epicoccum neglectum f. neglectum FORM
-=======
+# Epicoccum neglectum Desm., 1842 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls Sci. Nat. , Bot. , sér. 2 17: 95 (1842)
 
 #### Original name
-Epicoccum neglectum f. neglectum
+Epicoccum neglectum Desm., 1842
 
 ### Remarks
 null

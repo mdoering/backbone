@@ -1,5 +1,4 @@
-Galerina uchumachiensis Singer SPECIES
-=======
+# Galerina uchumachiensis Singer SPECIES
 
 #### Status
 ACCEPTED

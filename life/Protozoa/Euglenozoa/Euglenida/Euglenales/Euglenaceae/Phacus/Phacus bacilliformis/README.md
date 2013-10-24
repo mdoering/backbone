@@ -1,5 +1,4 @@
-Phacus bacilliformis Z. X. Shi SPECIES
-=======
+# Phacus bacilliformis Z. X. Shi SPECIES
 
 #### Status
 ACCEPTED

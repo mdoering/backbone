@@ -1,14 +1,13 @@
-Cystoderma aureola (Raithelh.) Raithelh. SPECIES
-=======
+# Cystoderma aureolum (Raithelh.) Raithelh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Fl. Mycol. Argentina (Stuttgart), Hongos <b>I</b> 290 (1987)
 
 #### Original name
 Lepiota aureola Raithelh.

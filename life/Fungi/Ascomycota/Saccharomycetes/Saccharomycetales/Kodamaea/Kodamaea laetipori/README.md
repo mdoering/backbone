@@ -1,5 +1,4 @@
-Kodamaea laetipori S.O. Suh & M. Blackw., 2005 SPECIES
-=======
+# Kodamaea laetipori S.O. Suh & M. Blackw., 2005 SPECIES
 
 #### Status
 ACCEPTED

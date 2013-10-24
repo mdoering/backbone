@@ -1,5 +1,4 @@
-Phyllachora fusispora Chardón, 1940 SPECIES
-=======
+# Phyllachora fusispora Chardón, 1940 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus polychromus Cooke & Massee SPECIES
-=======
+# Agaricus polychromus Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

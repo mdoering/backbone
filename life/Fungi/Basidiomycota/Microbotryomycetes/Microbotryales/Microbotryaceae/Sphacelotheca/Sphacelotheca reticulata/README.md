@@ -1,5 +1,4 @@
-Sphacelotheca reticulata B. Liu, Z.Y. Li & Du SPECIES
-=======
+# Sphacelotheca reticulata B. Liu, Z.Y. Li & Du SPECIES
 
 #### Status
 ACCEPTED

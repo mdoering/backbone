@@ -1,5 +1,4 @@
-Dyadobacter hamtensis Chaturvedi et al., 2005 SPECIES
-=======
+# Dyadobacter hamtensis Chaturvedi et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

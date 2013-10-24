@@ -1,17 +1,16 @@
-Septoria lycopersici var. lycopersici VARIETY
-=======
+# Septoria lycopersici Speg., 1881 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Anal. Soc. cient. argent. 12: 115 (1881)
 
 #### Original name
-Septoria lycopersici var. lycopersici
+Septoria lycopersici Speg., 1881
 
 ### Remarks
 null

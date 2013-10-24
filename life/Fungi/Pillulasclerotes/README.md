@@ -1,5 +1,4 @@
-Pillulasclerotes Stach & Pickh. GENUS
-=======
+# Pillulasclerotes Stach & Pickh. GENUS
 
 #### Status
 ACCEPTED

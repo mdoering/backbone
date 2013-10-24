@@ -1,5 +1,4 @@
-Physcia albo-plumbea (Taylor) Nyl. SPECIES
-=======
+# Physcia albo-plumbea (Taylor) Nyl. SPECIES
 
 #### Status
 ACCEPTED

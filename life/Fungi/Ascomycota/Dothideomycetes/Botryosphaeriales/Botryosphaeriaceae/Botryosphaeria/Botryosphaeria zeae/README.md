@@ -1,14 +1,13 @@
-Physalospora zeae G.L. Stout, 1930 SPECIES
-=======
+# Botryosphaeria zeae (G.L. Stout) Arx & E. Müll., 1954 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 22(6): 282 (1930)
+Beitr. Kryptfl. Schweiz 11(no. 1): 40 (1954)
 
 #### Original name
 Physalospora zeae G.L. Stout, 1930

@@ -1,5 +1,4 @@
-Nectria congesta Sacc. SPECIES
-=======
+# Nectria congesta Sacc. SPECIES
 
 #### Status
 ACCEPTED

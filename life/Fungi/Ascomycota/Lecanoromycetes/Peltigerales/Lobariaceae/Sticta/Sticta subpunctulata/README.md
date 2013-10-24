@@ -1,5 +1,4 @@
-Sticta subpunctulata (Nyl.) Hue SPECIES
-=======
+# Sticta subpunctulata (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coronophora myriospora Nitschke SPECIES
-=======
+# Coronophora myriospora Nitschke SPECIES
 
 #### Status
 ACCEPTED

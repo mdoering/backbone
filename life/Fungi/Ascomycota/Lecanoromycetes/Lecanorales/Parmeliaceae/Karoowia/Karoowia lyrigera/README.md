@@ -1,17 +1,16 @@
-Paraparmelia lyrigera (Brusse) Elix SPECIES
-=======
+# Karoowia lyrigera (Brusse) Elix SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 70: 108 (1999)
 
 #### Original name
-null
+Parmelia lyrigera Brusse
 
 ### Remarks
 null

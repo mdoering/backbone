@@ -1,5 +1,4 @@
-Cannopilus trioctus (D. Bukry) T. V. Desikachary & P. Prema SPECIES
-=======
+# Cannopilus trioctus (D. Bukry) T. V. Desikachary & P. Prema SPECIES
 
 #### Status
 ACCEPTED

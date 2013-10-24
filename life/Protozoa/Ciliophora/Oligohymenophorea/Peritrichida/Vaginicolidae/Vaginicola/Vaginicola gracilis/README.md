@@ -1,5 +1,4 @@
-Vaginicola gracilis Fromentel, 1876 SPECIES
-=======
+# Vaginicola gracilis Fromentel, 1876 SPECIES
 
 #### Status
 ACCEPTED

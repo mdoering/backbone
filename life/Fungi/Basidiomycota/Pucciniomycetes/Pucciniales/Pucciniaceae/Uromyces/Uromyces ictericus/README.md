@@ -1,5 +1,4 @@
-Uromyces ictericus Cummins SPECIES
-=======
+# Uromyces ictericus Cummins SPECIES
 
 #### Status
 ACCEPTED

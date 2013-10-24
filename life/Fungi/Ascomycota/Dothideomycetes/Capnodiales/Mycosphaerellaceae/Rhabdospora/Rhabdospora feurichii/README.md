@@ -1,5 +1,4 @@
-Rhabdospora feurichii Henn. SPECIES
-=======
+# Rhabdospora feurichii Henn. SPECIES
 
 #### Status
 ACCEPTED

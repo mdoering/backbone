@@ -1,5 +1,4 @@
-Arnium monostichum J.C. Krug & Cain SPECIES
-=======
+# Arnium monostichum J.C. Krug & Cain SPECIES
 
 #### Status
 ACCEPTED

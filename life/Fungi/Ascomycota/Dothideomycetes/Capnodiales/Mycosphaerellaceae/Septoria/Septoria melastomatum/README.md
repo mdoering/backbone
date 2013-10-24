@@ -1,5 +1,4 @@
-Septoria melastomatum (Lév.) Berl. & Voglino SPECIES
-=======
+# Septoria melastomatum (Lév.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

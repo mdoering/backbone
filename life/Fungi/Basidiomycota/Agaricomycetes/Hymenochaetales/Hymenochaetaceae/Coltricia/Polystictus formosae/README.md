@@ -1,5 +1,4 @@
-Polystictus formosae Lloyd SPECIES
-=======
+# Polystictus formosae Lloyd SPECIES
 
 #### Status
 ACCEPTED

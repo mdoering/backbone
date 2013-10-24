@@ -1,17 +1,16 @@
-Lachnella sulphurea var. leucophaea (Pers.) W. Phillips VARIETY
-=======
+# Rectipilus sulphureus (Sacc. & Ellis) W.B. Cooke, 1989 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Man. Brit. Discomyc. (London) 264 (1887)
+Mem. N. Y. bot. Gdn 49: 168 (1989)
 
 #### Original name
-Peziza sulphurea var. leucophaea Pers.
+Solenia sulphurea Sacc. & Ellis, 1882
 
 ### Remarks
 null

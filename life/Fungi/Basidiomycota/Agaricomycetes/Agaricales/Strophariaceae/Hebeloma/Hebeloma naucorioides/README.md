@@ -1,5 +1,4 @@
-Hebeloma naucorioides Rick SPECIES
-=======
+# Hebeloma naucorioides Rick SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cantharellus lignatilis Berk. & M.A. Curtis SPECIES
-=======
+# Cantharellus lignatilis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ampelomyces epilobii (Ferraris) Rudakov SPECIES
-=======
+# Ampelomyces epilobii (Ferraris) Rudakov SPECIES
 
 #### Status
 ACCEPTED

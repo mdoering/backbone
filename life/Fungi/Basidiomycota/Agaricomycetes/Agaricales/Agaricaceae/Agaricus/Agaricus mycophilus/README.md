@@ -1,5 +1,4 @@
-Agaricus mycophilus J. Otto SPECIES
-=======
+# Agaricus mycophilus J. Otto SPECIES
 
 #### Status
 ACCEPTED

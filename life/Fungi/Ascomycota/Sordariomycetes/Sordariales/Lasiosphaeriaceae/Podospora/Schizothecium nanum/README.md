@@ -1,5 +1,4 @@
-Schizothecium nanum N. Lundq., 1972 SPECIES
-=======
+# Schizothecium nanum N. Lundq., 1972 SPECIES
 
 #### Status
 ACCEPTED

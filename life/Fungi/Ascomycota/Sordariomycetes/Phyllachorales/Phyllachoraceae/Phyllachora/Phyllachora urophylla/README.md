@@ -1,14 +1,13 @@
-Catacauma urophyllum (Höhn.) Theiss. & Syd., 1915 SPECIES
-=======
+# Phyllachora urophylla Höhn., 1912 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 13(3/4): 382 (1915)
+Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 121: 390 (1912)
 
 #### Original name
 Phyllachora urophylla Höhn., 1912

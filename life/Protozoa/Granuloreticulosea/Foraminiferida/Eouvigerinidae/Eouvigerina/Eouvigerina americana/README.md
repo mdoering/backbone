@@ -1,5 +1,4 @@
-Eouvigerina americana Cushman SPECIES
-=======
+# Eouvigerina americana Cushman SPECIES
 
 #### Status
 ACCEPTED

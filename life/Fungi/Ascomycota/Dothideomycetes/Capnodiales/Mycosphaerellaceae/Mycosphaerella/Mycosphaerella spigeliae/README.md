@@ -1,5 +1,4 @@
-Mycosphaerella spigeliae Medeiros & Nascim. SPECIES
-=======
+# Mycosphaerella spigeliae Medeiros & Nascim. SPECIES
 
 #### Status
 ACCEPTED

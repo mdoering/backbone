@@ -1,5 +1,4 @@
-Porina wolseleyae P. M. McCarthy SPECIES
-=======
+# Porina wolseleyae P. M. McCarthy SPECIES
 
 #### Status
 ACCEPTED

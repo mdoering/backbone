@@ -1,5 +1,4 @@
-Opegrapha opaca Nyl. SPECIES
-=======
+# Opegrapha opaca Nyl. SPECIES
 
 #### Status
 ACCEPTED

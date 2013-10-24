@@ -1,5 +1,4 @@
-Mycena illuminans Henn. SPECIES
-=======
+# Mycena illuminans Henn. SPECIES
 
 #### Status
 ACCEPTED

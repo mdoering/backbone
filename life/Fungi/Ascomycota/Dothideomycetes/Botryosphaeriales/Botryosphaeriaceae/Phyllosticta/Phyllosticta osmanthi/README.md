@@ -1,5 +1,4 @@
-Phyllosticta osmanthi Tassi SPECIES
-=======
+# Phyllosticta osmanthi Tassi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microthyrium malacoderma (Höhn.) Sacc. & Trotter SPECIES
-=======
+# Microthyrium malacoderma (Höhn.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

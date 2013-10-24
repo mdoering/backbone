@@ -1,5 +1,4 @@
-Cladosporium nigrellum Ellis & Everh., 1893 SPECIES
-=======
+# Cladosporium nigrellum Ellis & Everh., 1893 SPECIES
 
 #### Status
 ACCEPTED

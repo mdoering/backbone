@@ -1,5 +1,4 @@
-Euplotes nobilii SPECIES
-=======
+# Euplotes nobilii SPECIES
 
 #### Status
 ACCEPTED

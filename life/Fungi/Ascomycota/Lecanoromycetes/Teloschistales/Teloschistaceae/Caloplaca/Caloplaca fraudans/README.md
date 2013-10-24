@@ -1,5 +1,4 @@
-Caloplaca fraudans f. fraudans FORM
-=======
+# Caloplaca fraudans (Th. Fr.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Caloplaca fraudans f. fraudans
+Caloplaca ferruginea var. fraudans Th. Fr.
 
 ### Remarks
 null

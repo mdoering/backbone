@@ -1,8 +1,7 @@
-Euchitonia triangulum Seguenza, 1880 SPECIES
-=======
+# Dictyocoryne truncatum (Ehrenberg) Nigrini & Moore, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

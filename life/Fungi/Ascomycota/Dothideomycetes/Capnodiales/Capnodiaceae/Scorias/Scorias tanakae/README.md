@@ -1,5 +1,4 @@
-Scorias tanakae (Shirai & Hara) Sivan. SPECIES
-=======
+# Scorias tanakae (Shirai & Hara) Sivan. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola mataybae F. Stevens SPECIES
-=======
+# Meliola mataybae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichocladium macrosporum P.M. Kirk, 1981 SPECIES
-=======
+# Trichocladium macrosporum P.M. Kirk, 1981 SPECIES
 
 #### Status
 ACCEPTED

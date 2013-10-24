@@ -1,5 +1,4 @@
-Tintinnoidella Elicki, 1994 GENUS
-=======
+# Tintinnoidella Elicki, 1994 GENUS
 
 #### Status
 ACCEPTED

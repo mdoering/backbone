@@ -1,5 +1,4 @@
-Fusarium helotioides Berk. & M.A. Curtis SPECIES
-=======
+# Fusarium helotioides Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

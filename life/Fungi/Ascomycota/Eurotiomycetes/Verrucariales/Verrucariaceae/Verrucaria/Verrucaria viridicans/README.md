@@ -1,5 +1,4 @@
-Verrucaria viridicans Servít SPECIES
-=======
+# Verrucaria viridicans Servít SPECIES
 
 #### Status
 ACCEPTED

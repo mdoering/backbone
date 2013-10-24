@@ -1,5 +1,4 @@
-Pistillaria carestiae Ces. ex Bres. & Sacc. SPECIES
-=======
+# Pistillaria carestiae Ces. ex Bres. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vaucheria longipes Collins SPECIES
-=======
+# Vaucheria longipes Collins SPECIES
 
 #### Status
 ACCEPTED

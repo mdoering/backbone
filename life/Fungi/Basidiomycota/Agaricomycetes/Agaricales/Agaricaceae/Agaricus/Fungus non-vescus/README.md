@@ -1,5 +1,4 @@
-Fungus non-vescus C. Laest. SPECIES
-=======
+# Fungus non-vescus C. Laest. SPECIES
 
 #### Status
 ACCEPTED

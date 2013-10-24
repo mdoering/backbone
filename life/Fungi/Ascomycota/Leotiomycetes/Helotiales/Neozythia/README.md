@@ -1,17 +1,16 @@
-Sclerozythia Petr. GENUS
-=======
+# Neozythia Petr. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 9: 539 (1955)
+Sydowia 11: 351 (1958)
 
 #### Original name
-Sclerozythia Petr.
+Neozythia Petr.
 
 ### Remarks
 null

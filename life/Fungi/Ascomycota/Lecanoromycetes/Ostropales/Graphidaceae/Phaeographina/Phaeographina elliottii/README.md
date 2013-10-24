@@ -1,5 +1,4 @@
-Phaeographina elliottii (Vain.) Zahlbr. SPECIES
-=======
+# Phaeographina elliottii (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

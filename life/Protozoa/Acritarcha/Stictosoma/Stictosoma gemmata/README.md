@@ -1,5 +1,4 @@
-Stictosoma gemmata Wicander, Playford & Robertson, 1999 SPECIES
-=======
+# Stictosoma gemmata Wicander, Playford & Robertson, 1999 SPECIES
 
 #### Status
 ACCEPTED

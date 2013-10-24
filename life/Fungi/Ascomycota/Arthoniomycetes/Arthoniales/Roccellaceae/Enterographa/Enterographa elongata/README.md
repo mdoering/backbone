@@ -1,5 +1,4 @@
-Enterographa elongata (Vain.) Redinger SPECIES
-=======
+# Enterographa elongata (Vain.) Redinger SPECIES
 
 #### Status
 ACCEPTED

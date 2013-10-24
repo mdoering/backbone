@@ -1,14 +1,13 @@
-Sphacelotheca spermoidea (Berk. & Broome) Mundk., 1939 SPECIES
-=======
+# Sporisorium spermoideum (Berk. & Broome) Vánky, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 23: 93 (1939)
+Mycotaxon 85: 31 (2003)
 
 #### Original name
 Ustilago spermoidea Berk. & Broome, 1875

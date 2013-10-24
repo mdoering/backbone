@@ -1,5 +1,4 @@
-Rinodina furfurea H. Mayrhofer & Poelt SPECIES
-=======
+# Rinodina furfurea H. Mayrhofer & Poelt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllachora macroloculata (Chardón) Cif., 1954 SPECIES
-=======
+# Phyllachora macroloculata (Chardón) Cif., 1954 SPECIES
 
 #### Status
 ACCEPTED

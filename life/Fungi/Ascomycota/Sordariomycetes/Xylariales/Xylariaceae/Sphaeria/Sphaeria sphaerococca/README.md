@@ -1,5 +1,4 @@
-Sphaeria sphaerococca Wallr. SPECIES
-=======
+# Sphaeria sphaerococca Wallr. SPECIES
 
 #### Status
 ACCEPTED

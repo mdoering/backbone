@@ -1,5 +1,4 @@
-Hysteropezizella fuscella (P. Karst.) Nannf. SPECIES
-=======
+# Hysteropezizella fuscella (P. Karst.) Nannf. SPECIES
 
 #### Status
 ACCEPTED

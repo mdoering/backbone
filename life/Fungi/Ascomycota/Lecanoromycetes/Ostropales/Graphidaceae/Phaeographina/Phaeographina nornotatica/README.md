@@ -1,5 +1,4 @@
-Phaeographina nornotatica A.W. Archer & Elix SPECIES
-=======
+# Phaeographina nornotatica A.W. Archer & Elix SPECIES
 
 #### Status
 ACCEPTED

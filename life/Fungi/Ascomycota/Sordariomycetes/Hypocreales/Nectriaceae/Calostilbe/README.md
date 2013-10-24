@@ -1,5 +1,4 @@
-Calostilbe Sacc. & P. Syd. GENUS
-=======
+# Calostilbe Sacc. & P. Syd. GENUS
 
 #### Status
 ACCEPTED

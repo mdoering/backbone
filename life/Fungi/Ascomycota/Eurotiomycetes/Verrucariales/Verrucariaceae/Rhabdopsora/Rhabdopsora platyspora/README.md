@@ -1,5 +1,4 @@
-Rhabdopsora platyspora (Erichsen) Erichsen SPECIES
-=======
+# Rhabdopsora platyspora (Erichsen) Erichsen SPECIES
 
 #### Status
 ACCEPTED

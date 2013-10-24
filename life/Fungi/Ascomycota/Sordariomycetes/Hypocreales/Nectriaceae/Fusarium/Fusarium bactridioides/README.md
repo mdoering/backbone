@@ -1,5 +1,4 @@
-Fusarium bactridioides Wollenw., 1934 SPECIES
-=======
+# Fusarium bactridioides Wollenw., 1934 SPECIES
 
 #### Status
 ACCEPTED

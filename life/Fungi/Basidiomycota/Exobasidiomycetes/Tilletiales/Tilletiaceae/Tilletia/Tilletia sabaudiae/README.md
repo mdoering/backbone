@@ -1,5 +1,4 @@
-Tilletia sabaudiae H. Zogg SPECIES
-=======
+# Tilletia sabaudiae H. Zogg SPECIES
 
 #### Status
 ACCEPTED

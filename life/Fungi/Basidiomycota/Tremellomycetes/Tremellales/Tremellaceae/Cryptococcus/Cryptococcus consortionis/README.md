@@ -1,5 +1,4 @@
-Cryptococcus consortionis Vishniac SPECIES
-=======
+# Cryptococcus consortionis Vishniac SPECIES
 
 #### Status
 ACCEPTED

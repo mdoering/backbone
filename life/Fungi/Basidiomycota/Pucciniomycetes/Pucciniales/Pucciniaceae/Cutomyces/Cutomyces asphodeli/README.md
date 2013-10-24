@@ -1,5 +1,4 @@
-Cutomyces asphodeli Thüm. SPECIES
-=======
+# Cutomyces asphodeli Thüm. SPECIES
 
 #### Status
 ACCEPTED

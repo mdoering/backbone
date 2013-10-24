@@ -1,5 +1,4 @@
-Metarhizium frigidum J.F. Bisch. & S.A. Rehner, 2007 SPECIES
-=======
+# Metarhizium frigidum J.F. Bisch. & S.A. Rehner, 2007 SPECIES
 
 #### Status
 ACCEPTED

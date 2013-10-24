@@ -1,5 +1,4 @@
-Lychnocanella Haeckel, 1887 GENUS
-=======
+# Lychnocanella Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

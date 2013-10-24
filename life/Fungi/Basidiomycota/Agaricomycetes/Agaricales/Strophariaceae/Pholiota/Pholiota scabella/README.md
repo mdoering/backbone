@@ -1,5 +1,4 @@
-Pholiota scabella Zeller SPECIES
-=======
+# Pholiota scabella Zeller SPECIES
 
 #### Status
 ACCEPTED

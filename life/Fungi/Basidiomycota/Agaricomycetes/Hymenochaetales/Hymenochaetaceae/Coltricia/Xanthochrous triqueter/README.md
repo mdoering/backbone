@@ -1,5 +1,4 @@
-Xanthochrous triqueter (Fr.) Maire SPECIES
-=======
+# Xanthochrous triqueter (Fr.) Maire SPECIES
 
 #### Status
 ACCEPTED

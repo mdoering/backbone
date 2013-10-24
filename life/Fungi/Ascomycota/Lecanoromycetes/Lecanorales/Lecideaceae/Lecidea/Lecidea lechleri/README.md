@@ -1,5 +1,4 @@
-Lecidea lechleri Hepp SPECIES
-=======
+# Lecidea lechleri Hepp SPECIES
 
 #### Status
 ACCEPTED

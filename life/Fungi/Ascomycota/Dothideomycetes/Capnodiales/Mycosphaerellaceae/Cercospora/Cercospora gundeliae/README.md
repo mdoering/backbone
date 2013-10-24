@@ -1,5 +1,4 @@
-Cercospora gundeliae Annal. SPECIES
-=======
+# Cercospora gundeliae Annal. SPECIES
 
 #### Status
 ACCEPTED

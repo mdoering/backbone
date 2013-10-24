@@ -1,5 +1,4 @@
-Aulographum aframomi Hansf. SPECIES
-=======
+# Aulographum aframomi Hansf. SPECIES
 
 #### Status
 ACCEPTED

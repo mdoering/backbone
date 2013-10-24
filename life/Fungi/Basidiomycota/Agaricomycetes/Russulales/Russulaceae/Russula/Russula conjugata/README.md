@@ -1,5 +1,4 @@
-Russula conjugata Velen. SPECIES
-=======
+# Russula conjugata Velen. SPECIES
 
 #### Status
 ACCEPTED

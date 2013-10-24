@@ -1,5 +1,4 @@
-Ramularia asplenii Bres. SPECIES
-=======
+# Ramularia asplenii Bres. SPECIES
 
 #### Status
 ACCEPTED

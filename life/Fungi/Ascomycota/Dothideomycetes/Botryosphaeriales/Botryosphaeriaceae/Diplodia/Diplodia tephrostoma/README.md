@@ -1,5 +1,4 @@
-Diplodia tephrostoma Lév. SPECIES
-=======
+# Diplodia tephrostoma Lév. SPECIES
 
 #### Status
 ACCEPTED

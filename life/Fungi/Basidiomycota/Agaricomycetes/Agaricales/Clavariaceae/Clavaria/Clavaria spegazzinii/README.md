@@ -1,5 +1,4 @@
-Clavaria spegazzinii Sacc. SPECIES
-=======
+# Clavaria spegazzinii Sacc. SPECIES
 
 #### Status
 ACCEPTED

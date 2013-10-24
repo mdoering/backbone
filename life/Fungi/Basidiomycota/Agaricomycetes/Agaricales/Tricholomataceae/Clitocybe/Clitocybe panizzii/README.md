@@ -1,5 +1,4 @@
-Clitocybe panizzii (Barla) Lapl. SPECIES
-=======
+# Clitocybe panizzii (Barla) Lapl. SPECIES
 
 #### Status
 ACCEPTED

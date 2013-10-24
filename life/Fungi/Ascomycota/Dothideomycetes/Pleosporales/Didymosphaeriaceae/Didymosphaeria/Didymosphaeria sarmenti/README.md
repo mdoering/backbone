@@ -1,5 +1,4 @@
-Didymosphaeria sarmenti (Cooke & Harkn.) Berl. & Voglino SPECIES
-=======
+# Didymosphaeria sarmenti (Cooke & Harkn.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

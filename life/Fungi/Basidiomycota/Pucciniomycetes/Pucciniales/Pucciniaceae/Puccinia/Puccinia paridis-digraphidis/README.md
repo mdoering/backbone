@@ -1,5 +1,4 @@
-Puccinia paridis-digraphidis Plowr. SPECIES
-=======
+# Puccinia paridis-digraphidis Plowr. SPECIES
 
 #### Status
 ACCEPTED

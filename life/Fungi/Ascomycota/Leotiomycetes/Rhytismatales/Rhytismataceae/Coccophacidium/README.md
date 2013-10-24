@@ -1,5 +1,4 @@
-Coccophacidium GENUS
-=======
+# Coccophacidium GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Hymenoscyphus calamerius (Velen.) M.P. Sharma SPECIES
-=======
+# Hymenoscyphus calamarius (Velen.) M.P. Sharma SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Achievements and Prospects in Mycology and Plant Pathology (Dehra Dun) 36 (1997)
 
 #### Original name
 Helotium calamarium Velen.

@@ -1,14 +1,13 @@
-Leptotrema marivelense (Vain.) Zahlbr. SPECIES
-=======
+# Eschatogonia marivelensis (Vain.) Kalb SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Cat. Lich. Univers. 2: 637 (1923)
+Biblthca Lichenol. 88: 310 (2004)
 
 #### Original name
 Thelotrema marivelense Vain.

@@ -1,5 +1,4 @@
-Cordyceps indigotica Kobayasi & Shimizu SPECIES
-=======
+# Cordyceps indigotica Kobayasi & Shimizu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Choanozoa PHYLUM
-=======
+# Choanozoa PHYLUM
 
 #### Status
 ACCEPTED

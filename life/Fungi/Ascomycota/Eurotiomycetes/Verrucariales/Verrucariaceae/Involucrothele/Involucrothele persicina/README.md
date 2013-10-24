@@ -1,5 +1,4 @@
-Involucrothele persicina (Hepp) Servít SPECIES
-=======
+# Involucrothele persicina (Hepp) Servít SPECIES
 
 #### Status
 ACCEPTED

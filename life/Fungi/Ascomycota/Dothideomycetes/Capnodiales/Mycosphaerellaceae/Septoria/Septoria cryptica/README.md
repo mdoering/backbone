@@ -1,5 +1,4 @@
-Septoria cryptica Priest SPECIES
-=======
+# Septoria cryptica Priest SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calloria melaena Kirschst. SPECIES
-=======
+# Calloria melaena Kirschst. SPECIES
 
 #### Status
 ACCEPTED

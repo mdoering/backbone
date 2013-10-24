@@ -1,5 +1,4 @@
-Stemphylium melanopus (Schwein.) S. Hughes SPECIES
-=======
+# Stemphylium melanopus (Schwein.) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

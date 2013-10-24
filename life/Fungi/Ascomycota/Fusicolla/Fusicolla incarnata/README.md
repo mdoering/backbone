@@ -1,5 +1,4 @@
-Fusicolla incarnata Cooke & Massee SPECIES
-=======
+# Fusicolla incarnata Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

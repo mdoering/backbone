@@ -1,5 +1,4 @@
-Mitremyces formosana Sawada SPECIES
-=======
+# Mitremyces formosana Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria theioplaca Fée SPECIES
-=======
+# Verrucaria theioplaca Fée SPECIES
 
 #### Status
 ACCEPTED

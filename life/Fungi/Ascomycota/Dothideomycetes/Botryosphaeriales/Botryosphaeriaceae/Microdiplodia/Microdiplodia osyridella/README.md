@@ -1,5 +1,4 @@
-Microdiplodia osyridella (Tassi) Tassi SPECIES
-=======
+# Microdiplodia osyridella (Tassi) Tassi SPECIES
 
 #### Status
 ACCEPTED

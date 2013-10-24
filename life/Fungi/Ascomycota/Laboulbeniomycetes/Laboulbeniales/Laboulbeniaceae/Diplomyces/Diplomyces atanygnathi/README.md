@@ -1,5 +1,4 @@
-Diplomyces atanygnathi Thaxt., 1931 SPECIES
-=======
+# Diplomyces atanygnathi Thaxt., 1931 SPECIES
 
 #### Status
 ACCEPTED

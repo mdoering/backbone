@@ -1,5 +1,4 @@
-Telammina Gooday & Haynes, 1983 GENUS
-=======
+# Telammina Gooday & Haynes, 1983 GENUS
 
 #### Status
 ACCEPTED

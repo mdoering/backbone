@@ -1,5 +1,4 @@
-Gloeosporium cercocarpi Ellis & Everh. SPECIES
-=======
+# Gloeosporium cercocarpi Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

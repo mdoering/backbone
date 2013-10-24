@@ -1,5 +1,4 @@
-Laboulbenia loxandri Thaxt. SPECIES
-=======
+# Laboulbenia loxandri Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vibrio rarus Sawabe, Fujimura, Niwa & Aono, 2007 SPECIES
-=======
+# Vibrio rarus Sawabe, Fujimura, Niwa & Aono, 2007 SPECIES
 
 #### Status
 ACCEPTED

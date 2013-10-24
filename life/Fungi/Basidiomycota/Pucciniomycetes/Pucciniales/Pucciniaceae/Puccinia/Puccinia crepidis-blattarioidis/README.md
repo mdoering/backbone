@@ -1,5 +1,4 @@
-Puccinia crepidis-blattarioidis f. crepidis-blattarioidis FORM
-=======
+# Puccinia crepidis-blattarioidis Hasler SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Puccinia crepidis-blattarioidis f. crepidis-blattarioidis
+Puccinia crepidis-blattarioidis Hasler
 
 ### Remarks
 null

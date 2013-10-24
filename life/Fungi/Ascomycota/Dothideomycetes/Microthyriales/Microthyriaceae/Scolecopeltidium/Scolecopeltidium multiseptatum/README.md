@@ -1,5 +1,4 @@
-Scolecopeltidium multiseptatum F. Stevens & Manter SPECIES
-=======
+# Scolecopeltidium multiseptatum F. Stevens & Manter SPECIES
 
 #### Status
 ACCEPTED

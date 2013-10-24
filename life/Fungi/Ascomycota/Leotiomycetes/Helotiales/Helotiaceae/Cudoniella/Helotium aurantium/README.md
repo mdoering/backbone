@@ -1,5 +1,4 @@
-Helotium aurantium Seaver SPECIES
-=======
+# Helotium aurantium Seaver SPECIES
 
 #### Status
 ACCEPTED

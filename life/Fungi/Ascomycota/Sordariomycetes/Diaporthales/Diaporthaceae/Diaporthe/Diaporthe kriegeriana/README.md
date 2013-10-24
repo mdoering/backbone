@@ -1,5 +1,4 @@
-Diaporthe kriegeriana Rehm SPECIES
-=======
+# Diaporthe kriegeriana Rehm SPECIES
 
 #### Status
 ACCEPTED

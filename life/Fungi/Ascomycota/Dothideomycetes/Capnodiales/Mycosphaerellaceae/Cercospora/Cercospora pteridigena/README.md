@@ -1,5 +1,4 @@
-Cercospora pteridigena M.K. Khan, R.K. Verma & Kamal SPECIES
-=======
+# Cercospora pteridigena M.K. Khan, R.K. Verma & Kamal SPECIES
 
 #### Status
 ACCEPTED

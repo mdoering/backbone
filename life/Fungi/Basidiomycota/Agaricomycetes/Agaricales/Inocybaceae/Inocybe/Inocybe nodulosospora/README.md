@@ -1,5 +1,4 @@
-Inocybe nodulosospora Kobayasi SPECIES
-=======
+# Inocybe nodulosospora Kobayasi SPECIES
 
 #### Status
 ACCEPTED

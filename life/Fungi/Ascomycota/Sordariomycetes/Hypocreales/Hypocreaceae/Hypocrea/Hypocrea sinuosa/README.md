@@ -1,5 +1,4 @@
-Hypocrea sinuosa P. Chaverri & Samuels SPECIES
-=======
+# Hypocrea sinuosa P. Chaverri & Samuels SPECIES
 
 #### Status
 ACCEPTED

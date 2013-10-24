@@ -1,17 +1,16 @@
-Arthonia subastroidea subsp. orbilliferum Almq. SUBSPECIES
-=======
+# Arthothelium orbilliferum (Almq.) Hasse SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Contr. U. S. natnl. Herb. 17: 22 (1913)
 
 #### Original name
-Arthonia subastroidea subsp. orbilliferum Almq.
+Arthonia orbillifera Almq.
 
 ### Remarks
 null

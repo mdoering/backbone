@@ -1,5 +1,4 @@
-Erysiphe trifolii var. trifolii VARIETY
-=======
+# Erysiphe trifolii Grev. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fl. Edin. 459 (1824)
+null
 
 #### Original name
-Erysiphe trifolii var. trifolii
+null
 
 ### Remarks
 null

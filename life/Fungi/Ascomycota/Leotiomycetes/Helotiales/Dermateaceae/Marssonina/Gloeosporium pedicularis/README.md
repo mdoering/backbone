@@ -1,5 +1,4 @@
-Gloeosporium pedicularis Rostr. SPECIES
-=======
+# Gloeosporium pedicularis Rostr. SPECIES
 
 #### Status
 ACCEPTED

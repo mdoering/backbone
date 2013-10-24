@@ -1,5 +1,4 @@
-Endococcus protoblasteniae Diederich SPECIES
-=======
+# Endococcus protoblasteniae Diederich SPECIES
 
 #### Status
 ACCEPTED

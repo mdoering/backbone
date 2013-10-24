@@ -1,5 +1,4 @@
-Clathrocapsa F. Stein, 1883 GENUS
-=======
+# Clathrocapsa F. Stein, 1883 GENUS
 
 #### Status
 ACCEPTED

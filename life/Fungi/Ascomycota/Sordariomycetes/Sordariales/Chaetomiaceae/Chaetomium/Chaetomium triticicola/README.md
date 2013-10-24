@@ -1,5 +1,4 @@
-Chaetomium triticicola Lal & J.N. Kapoor SPECIES
-=======
+# Chaetomium triticicola Lal & J.N. Kapoor SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spiromastix warcupii Kuehn & G.F. Orr, 1962 SPECIES
-=======
+# Spiromastix warcupii Kuehn & G.F. Orr, 1962 SPECIES
 
 #### Status
 ACCEPTED

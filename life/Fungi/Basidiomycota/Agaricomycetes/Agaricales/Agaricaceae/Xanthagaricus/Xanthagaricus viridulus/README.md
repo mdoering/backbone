@@ -1,14 +1,13 @@
-Hymenagaricus viridulus Heinem. & Little Flower, 1984 SPECIES
-=======
+# Xanthagaricus viridulus (Heinem. & Little Flower) Little Flower, Hosag. & T.K. Abraham, 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Jard. Bot. Nat. Belg. 54(1-2): 161 (1984)
+New Botanist 24: 99 (1997)
 
 #### Original name
 Hymenagaricus viridulus Heinem. & Little Flower, 1984

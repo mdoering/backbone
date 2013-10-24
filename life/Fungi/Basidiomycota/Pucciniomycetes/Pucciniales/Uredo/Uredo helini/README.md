@@ -1,5 +1,4 @@
-Uredo helini Syd. & P. Syd. SPECIES
-=======
+# Uredo helini Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

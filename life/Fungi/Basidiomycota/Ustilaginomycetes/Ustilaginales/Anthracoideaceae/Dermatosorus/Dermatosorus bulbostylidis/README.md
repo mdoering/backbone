@@ -1,14 +1,13 @@
-Zundelula bulbostylidis Thirum. & Pavgi, 1968 SPECIES
-=======
+# Dermatosorus bulbostylidis (Thirum. & Pavgi) Vánky, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 20: 24 (1968)
+Trans. Br. mycol. Soc. 89(1): 63 (1987)
 
 #### Original name
 Zundelula bulbostylidis Thirum. & Pavgi, 1968

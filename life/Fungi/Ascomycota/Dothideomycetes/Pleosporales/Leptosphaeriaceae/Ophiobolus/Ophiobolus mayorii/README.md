@@ -1,5 +1,4 @@
-Ophiobolus mayorii E. Müll. SPECIES
-=======
+# Ophiobolus mayorii E. Müll. SPECIES
 
 #### Status
 ACCEPTED

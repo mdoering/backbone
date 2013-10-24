@@ -1,5 +1,4 @@
-Acanthoica cucullata J. Lecal-Schlauder SPECIES
-=======
+# Acanthoica cucullata J. Lecal-Schlauder SPECIES
 
 #### Status
 ACCEPTED

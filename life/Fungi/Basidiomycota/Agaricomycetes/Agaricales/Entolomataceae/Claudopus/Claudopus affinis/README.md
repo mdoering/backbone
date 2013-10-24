@@ -1,5 +1,4 @@
-Claudopus affinis Kauffman SPECIES
-=======
+# Claudopus affinis Kauffman SPECIES
 
 #### Status
 ACCEPTED

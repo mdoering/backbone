@@ -1,5 +1,4 @@
-Pholiota imperialis Speg. SPECIES
-=======
+# Pholiota imperialis Speg. SPECIES
 
 #### Status
 ACCEPTED

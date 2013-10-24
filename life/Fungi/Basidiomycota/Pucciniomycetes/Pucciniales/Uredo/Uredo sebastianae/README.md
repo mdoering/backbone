@@ -1,5 +1,4 @@
-Uredo sebastianae G. Winter SPECIES
-=======
+# Uredo sebastianae G. Winter SPECIES
 
 #### Status
 ACCEPTED

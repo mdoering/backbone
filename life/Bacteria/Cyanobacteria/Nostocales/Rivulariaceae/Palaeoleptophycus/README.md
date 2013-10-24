@@ -1,5 +1,4 @@
-Palaeoleptophycus K.B. Korde, 1958 GENUS
-=======
+# Palaeoleptophycus K.B. Korde, 1958 GENUS
 
 #### Status
 ACCEPTED

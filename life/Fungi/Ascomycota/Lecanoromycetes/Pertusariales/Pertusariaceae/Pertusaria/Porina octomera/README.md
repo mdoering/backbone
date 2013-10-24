@@ -1,5 +1,4 @@
-Porina octomera (Müll. Arg.) F. Schill., 1927 SPECIES
-=======
+# Porina octomera (Müll. Arg.) F. Schill., 1927 SPECIES
 
 #### Status
 DOUBTFUL

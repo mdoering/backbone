@@ -1,5 +1,4 @@
-Albigo pruinosa (Cooke & Peck) Kuntze SPECIES
-=======
+# Albigo pruinosa (Cooke & Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

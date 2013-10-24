@@ -1,5 +1,4 @@
-Opegrapha bengalensis Upreti & Ajay Singh SPECIES
-=======
+# Opegrapha bengalensis Upreti & Ajay Singh SPECIES
 
 #### Status
 ACCEPTED

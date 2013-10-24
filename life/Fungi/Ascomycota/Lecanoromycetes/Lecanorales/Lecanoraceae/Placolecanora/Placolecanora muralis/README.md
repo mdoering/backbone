@@ -1,5 +1,4 @@
-Placolecanora muralis var. muralis VARIETY
-=======
+# Placolecanora muralis SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Placolecanora muralis var. muralis
+null
 
 ### Remarks
 null

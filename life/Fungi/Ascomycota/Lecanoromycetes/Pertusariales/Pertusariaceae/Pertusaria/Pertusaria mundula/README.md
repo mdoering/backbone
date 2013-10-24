@@ -1,5 +1,4 @@
-Pertusaria mundula Müll. Arg. SPECIES
-=======
+# Pertusaria mundula Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

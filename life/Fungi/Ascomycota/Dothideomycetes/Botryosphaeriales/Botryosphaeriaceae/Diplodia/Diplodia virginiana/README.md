@@ -1,5 +1,4 @@
-Diplodia virginiana Cooke & Ravenel SPECIES
-=======
+# Diplodia virginiana Cooke & Ravenel SPECIES
 
 #### Status
 ACCEPTED

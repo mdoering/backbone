@@ -1,5 +1,4 @@
-Lachnocladium cornicularioides Henn. SPECIES
-=======
+# Lachnocladium cornicularioides Henn. SPECIES
 
 #### Status
 ACCEPTED

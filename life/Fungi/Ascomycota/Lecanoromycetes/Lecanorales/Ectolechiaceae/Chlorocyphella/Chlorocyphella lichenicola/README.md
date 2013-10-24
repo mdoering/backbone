@@ -1,5 +1,4 @@
-Chlorocyphella lichenicola Keissl. SPECIES
-=======
+# Chlorocyphella lichenicola Keissl. SPECIES
 
 #### Status
 ACCEPTED

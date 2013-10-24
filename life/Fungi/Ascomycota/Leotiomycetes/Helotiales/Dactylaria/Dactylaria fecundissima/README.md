@@ -1,5 +1,4 @@
-Dactylaria fecundissima R.F. Castañeda & W.B. Kendr. SPECIES
-=======
+# Dactylaria fecundissima R.F. Castañeda & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

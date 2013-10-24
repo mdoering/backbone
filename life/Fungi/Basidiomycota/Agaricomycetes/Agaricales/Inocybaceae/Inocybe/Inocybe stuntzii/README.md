@@ -1,5 +1,4 @@
-Inocybe stuntzii Grund SPECIES
-=======
+# Inocybe stuntzii Grund SPECIES
 
 #### Status
 ACCEPTED

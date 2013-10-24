@@ -1,5 +1,4 @@
-Phoma elegans Gucevic SPECIES
-=======
+# Phoma elegans Gucevic SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Achlya aplanes Maurizio SPECIES
-=======
+# Achlya aplanes Maurizio SPECIES
 
 #### Status
 ACCEPTED

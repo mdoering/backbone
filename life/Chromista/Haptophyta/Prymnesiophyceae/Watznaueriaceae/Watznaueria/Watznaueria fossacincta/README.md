@@ -1,5 +1,4 @@
-Watznaueria fossacincta SPECIES
-=======
+# Watznaueria fossacincta SPECIES
 
 #### Status
 ACCEPTED

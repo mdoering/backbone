@@ -1,5 +1,4 @@
-Sphaeria cilicifera Fr. SPECIES
-=======
+# Sphaeria cilicifera Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Niabella Kim, Weon, Yoo, Hong, Kwon, Stackebrandt & Go, 2007 GENUS
-=======
+# Niabella Kim, Weon, Yoo, Hong, Kwon, Stackebrandt & Go, 2007 GENUS
 
 #### Status
 ACCEPTED

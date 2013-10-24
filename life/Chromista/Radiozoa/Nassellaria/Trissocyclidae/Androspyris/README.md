@@ -1,5 +1,4 @@
-Androspyris Haeckel, 1887 GENUS
-=======
+# Androspyris Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

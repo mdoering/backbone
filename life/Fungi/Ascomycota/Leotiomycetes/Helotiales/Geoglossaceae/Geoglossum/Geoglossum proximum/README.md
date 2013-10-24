@@ -1,5 +1,4 @@
-Geoglossum proximum S. Imai & Minakata SPECIES
-=======
+# Geoglossum proximum S. Imai & Minakata SPECIES
 
 #### Status
 ACCEPTED

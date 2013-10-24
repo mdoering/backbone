@@ -1,5 +1,4 @@
-Lecanora jucunda Hue SPECIES
-=======
+# Lecanora jucunda Hue SPECIES
 
 #### Status
 ACCEPTED

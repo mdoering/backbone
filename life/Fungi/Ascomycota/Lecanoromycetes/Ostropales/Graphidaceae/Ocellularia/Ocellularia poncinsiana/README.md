@@ -1,5 +1,4 @@
-Ocellularia poncinsiana Hue SPECIES
-=======
+# Ocellularia poncinsiana Hue SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecudina euphrosynes Bogolepova, 1953 SPECIES
-=======
+# Lecudina euphrosynes Bogolepova, 1953 SPECIES
 
 #### Status
 ACCEPTED

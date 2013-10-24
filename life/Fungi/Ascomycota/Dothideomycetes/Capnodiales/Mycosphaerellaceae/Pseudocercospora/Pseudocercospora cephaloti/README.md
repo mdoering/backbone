@@ -1,5 +1,4 @@
-Pseudocercospora cephaloti A.K. Srivast. SPECIES
-=======
+# Pseudocercospora cephaloti A.K. Srivast. SPECIES
 
 #### Status
 ACCEPTED

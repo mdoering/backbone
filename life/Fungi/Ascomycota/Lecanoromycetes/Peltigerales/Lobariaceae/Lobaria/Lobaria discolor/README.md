@@ -1,5 +1,4 @@
-Lobaria discolor var. discolor VARIETY
-=======
+# Lobaria discolor (Bory) Hue SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Nouvelles archives du Museum d'Histoire Naturelle, Paris, 4 Série 3: 23 (1901)
 
 #### Original name
-Lobaria discolor var. discolor
+Sticta discolor Bory
 
 ### Remarks
 null

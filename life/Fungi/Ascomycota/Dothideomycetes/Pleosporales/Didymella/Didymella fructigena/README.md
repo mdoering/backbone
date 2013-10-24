@@ -1,5 +1,4 @@
-Didymella fructigena Ellis & Everh. SPECIES
-=======
+# Didymella fructigena Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

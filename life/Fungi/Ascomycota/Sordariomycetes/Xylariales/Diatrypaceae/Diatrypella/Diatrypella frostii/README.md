@@ -1,5 +1,4 @@
-Diatrypella frostii Peck SPECIES
-=======
+# Diatrypella frostii Peck SPECIES
 
 #### Status
 ACCEPTED

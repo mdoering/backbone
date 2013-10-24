@@ -1,5 +1,4 @@
-Lepiota tonkinensis Pat. SPECIES
-=======
+# Lepiota tonkinensis Pat. SPECIES
 
 #### Status
 ACCEPTED

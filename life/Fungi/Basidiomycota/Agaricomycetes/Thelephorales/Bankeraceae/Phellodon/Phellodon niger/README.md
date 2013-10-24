@@ -1,17 +1,16 @@
-Hydnum nigrum var. nigrum VARIETY
-=======
+# Phellodon niger (Fr.) P. Karst., 1881 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Revue mycol. , Toulouse 3(9): 19 (1881)
 
 #### Original name
-null
+Hydnum nigrum Fr., 1815
 
 ### Remarks
 null

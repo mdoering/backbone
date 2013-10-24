@@ -1,5 +1,4 @@
-Protomyces erythronii Peck SPECIES
-=======
+# Protomyces erythronii Peck SPECIES
 
 #### Status
 ACCEPTED

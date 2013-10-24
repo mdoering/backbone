@@ -1,5 +1,4 @@
-Lenzites furcata Fr. SPECIES
-=======
+# Lenzites furcata Fr. SPECIES
 
 #### Status
 ACCEPTED

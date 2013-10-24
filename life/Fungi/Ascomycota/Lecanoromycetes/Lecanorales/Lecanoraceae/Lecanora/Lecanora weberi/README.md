@@ -1,5 +1,4 @@
-Lecanora weberi B. D. Ryan SPECIES
-=======
+# Lecanora weberi B. D. Ryan SPECIES
 
 #### Status
 ACCEPTED

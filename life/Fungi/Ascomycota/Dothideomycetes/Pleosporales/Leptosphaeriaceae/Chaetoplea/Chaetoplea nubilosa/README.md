@@ -1,5 +1,4 @@
-Chaetoplea nubilosa (Ellis & Everh.) M.E. Barr SPECIES
-=======
+# Chaetoplea nubilosa (Ellis & Everh.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

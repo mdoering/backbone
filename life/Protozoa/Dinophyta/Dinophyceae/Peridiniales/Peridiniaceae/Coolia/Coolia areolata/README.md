@@ -1,5 +1,4 @@
-Coolia areolata L. Ten-Hage, J. Turquet, J.P. Quod & A. Couté SPECIES
-=======
+# Coolia areolata L. Ten-Hage, J. Turquet, J.P. Quod & A. Couté SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Strobilomyces hydriensis (Hacq.) Beck SPECIES
-=======
+# Strobilomyces hydriensis (Hacq.) Beck SPECIES
 
 #### Status
 ACCEPTED

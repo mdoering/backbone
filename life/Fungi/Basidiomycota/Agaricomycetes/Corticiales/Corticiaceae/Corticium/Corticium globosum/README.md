@@ -1,5 +1,4 @@
-Corticium globosum Burt SPECIES
-=======
+# Corticium globosum Burt SPECIES
 
 #### Status
 ACCEPTED

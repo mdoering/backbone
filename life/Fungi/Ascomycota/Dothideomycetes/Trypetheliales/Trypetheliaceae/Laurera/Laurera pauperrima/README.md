@@ -1,5 +1,4 @@
-Laurera pauperrima (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Laurera pauperrima (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vaginatispora GENUS
-=======
+# Vaginatispora GENUS
 
 #### Status
 ACCEPTED

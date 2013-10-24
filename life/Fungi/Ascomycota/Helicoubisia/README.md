@@ -1,5 +1,4 @@
-Helicoubisia Lunghini & Rambelli GENUS
-=======
+# Helicoubisia Lunghini & Rambelli GENUS
 
 #### Status
 ACCEPTED

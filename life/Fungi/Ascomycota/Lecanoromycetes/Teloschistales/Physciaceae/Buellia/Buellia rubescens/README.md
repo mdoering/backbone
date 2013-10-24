@@ -1,5 +1,4 @@
-Buellia rubescens (Th. Fr.) Eckf. SPECIES
-=======
+# Buellia rubescens (Th. Fr.) Eckf. SPECIES
 
 #### Status
 ACCEPTED

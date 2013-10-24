@@ -1,5 +1,4 @@
-Pandora cicadellis (Z.Z. Li & M.Z. Fan) Z.Z. Li, M.Z. Fan & B. Huang, 1998 SPECIES
-=======
+# Pandora cicadellis (Z.Z. Li & M.Z. Fan) Z.Z. Li, M.Z. Fan & B. Huang, 1998 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micropera euphorbiae T.M. Achundov SPECIES
-=======
+# Micropera euphorbiae T.M. Achundov SPECIES
 
 #### Status
 ACCEPTED

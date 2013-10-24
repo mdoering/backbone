@@ -1,5 +1,4 @@
-Paulinella subsphaerica SPECIES
-=======
+# Paulinella subsphaerica SPECIES
 
 #### Status
 ACCEPTED

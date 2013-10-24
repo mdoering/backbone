@@ -1,5 +1,4 @@
-Cercospora nymphaeacea Cooke & Ellis SPECIES
-=======
+# Cercospora nymphaeacea Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

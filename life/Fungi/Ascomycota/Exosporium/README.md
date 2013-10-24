@@ -1,17 +1,16 @@
-Cuspidosporium Cif. GENUS
-=======
+# Exosporium Link, 1809 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Sydowia 9: 303 (1955)
+null
 
 #### Original name
-Cuspidosporium Cif.
+null
 
 ### Remarks
 null

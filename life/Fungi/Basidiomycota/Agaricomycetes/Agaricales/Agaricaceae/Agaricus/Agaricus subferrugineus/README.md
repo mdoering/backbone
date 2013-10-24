@@ -1,5 +1,4 @@
-Agaricus subferrugineus Batsch SPECIES
-=======
+# Agaricus subferrugineus Batsch SPECIES
 
 #### Status
 ACCEPTED

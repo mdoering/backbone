@@ -1,5 +1,4 @@
-Orygmatosphaeridium vulgare P. K. Maithy SPECIES
-=======
+# Orygmatosphaeridium vulgare P. K. Maithy SPECIES
 
 #### Status
 ACCEPTED

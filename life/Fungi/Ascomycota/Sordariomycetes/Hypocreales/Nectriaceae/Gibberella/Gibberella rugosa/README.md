@@ -1,5 +1,4 @@
-Gibberella rugosa Petch SPECIES
-=======
+# Gibberella rugosa Petch SPECIES
 
 #### Status
 ACCEPTED

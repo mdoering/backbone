@@ -1,5 +1,4 @@
-Lepiota melichroa Berk. & Broome SPECIES
-=======
+# Lepiota melichroa Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

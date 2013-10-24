@@ -1,5 +1,4 @@
-Clypeoseptoria intricata Cif. & Bat., 1957 SPECIES
-=======
+# Clypeoseptoria intricata Cif. & Bat., 1957 SPECIES
 
 #### Status
 ACCEPTED

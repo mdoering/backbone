@@ -1,5 +1,4 @@
-Poria ferreus Pers. SPECIES
-=======
+# Poria ferreus Pers. SPECIES
 
 #### Status
 ACCEPTED

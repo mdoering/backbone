@@ -1,5 +1,4 @@
-Coscinodiscus lacunosus Åke Berg SPECIES
-=======
+# Coscinodiscus lacunosus Åke Berg SPECIES
 
 #### Status
 ACCEPTED

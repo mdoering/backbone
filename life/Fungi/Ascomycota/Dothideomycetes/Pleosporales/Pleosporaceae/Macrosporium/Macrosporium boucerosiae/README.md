@@ -1,5 +1,4 @@
-Macrosporium boucerosiae Durieu & Mont. SPECIES
-=======
+# Macrosporium boucerosiae Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus epixylon subsp. epixylon SUBSPECIES
-=======
+# Agaricus epixylon Bull. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Agaricus epixylon subsp. epixylon
+Agaricus epixylon Bull.
 
 ### Remarks
 null

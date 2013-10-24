@@ -1,5 +1,4 @@
-Siphomonas fritschii E.G. Pringsheim SPECIES
-=======
+# Siphomonas fritschii E.G. Pringsheim SPECIES
 
 #### Status
 ACCEPTED

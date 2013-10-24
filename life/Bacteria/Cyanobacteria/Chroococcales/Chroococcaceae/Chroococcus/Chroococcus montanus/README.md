@@ -1,5 +1,4 @@
-Chroococcus montanus Hansgirg SPECIES
-=======
+# Chroococcus montanus Hansgirg SPECIES
 
 #### Status
 ACCEPTED

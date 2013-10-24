@@ -1,14 +1,13 @@
-Pucciniola iresines (Lagerh.) Arthur, 1921 SPECIES
-=======
+# Uromyces iresines Lagerh., 1910 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-N. Amer. Fl. (New York) 7(6): 444 (1921)
+in Sydow & Sydow, Monogr. Uredin. (Lipsiae) 2(2): 227 (1910)
 
 #### Original name
 Uromyces iresines Lagerh., 1910

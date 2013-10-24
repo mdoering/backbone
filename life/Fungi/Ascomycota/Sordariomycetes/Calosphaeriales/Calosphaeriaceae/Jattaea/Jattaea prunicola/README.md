@@ -1,5 +1,4 @@
-Jattaea prunicola Damm & Crous SPECIES
-=======
+# Jattaea prunicola Damm & Crous SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sclerodinium calyptoglyphe (M. Lebour) J.D. Dodge, 1981 SPECIES
-=======
+# Sclerodinium calyptoglyphe (M. Lebour) J.D. Dodge, 1981 SPECIES
 
 #### Status
 ACCEPTED

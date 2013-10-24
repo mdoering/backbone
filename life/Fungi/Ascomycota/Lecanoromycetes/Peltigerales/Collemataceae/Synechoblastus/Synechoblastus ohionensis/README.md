@@ -1,5 +1,4 @@
-Synechoblastus ohionensis SPECIES
-=======
+# Synechoblastus ohionensis SPECIES
 
 #### Status
 ACCEPTED

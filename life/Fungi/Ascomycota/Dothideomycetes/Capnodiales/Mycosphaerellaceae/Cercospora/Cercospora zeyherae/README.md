@@ -1,5 +1,4 @@
-Cercospora zeyherae Henn. SPECIES
-=======
+# Cercospora zeyherae Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dicaeoma nodosum (Ellis & Harkn.) Kuntze SPECIES
-=======
+# Dicaeoma nodosum (Ellis & Harkn.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

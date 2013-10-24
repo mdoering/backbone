@@ -1,5 +1,4 @@
-Discina boudieri Sacc. SPECIES
-=======
+# Discina boudieri Sacc. SPECIES
 
 #### Status
 ACCEPTED

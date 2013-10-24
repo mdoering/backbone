@@ -1,5 +1,4 @@
-Spongopyle Dreyer, 1889 GENUS
-=======
+# Spongopyle Dreyer, 1889 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrophoma oleandrina Curzi & Barbaini, 1927 SPECIES
-=======
+# Macrophoma oleandrina Curzi & Barbaini, 1927 SPECIES
 
 #### Status
 ACCEPTED

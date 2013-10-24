@@ -1,5 +1,4 @@
-Sporobolomyces bischofiae Hamam., Thanh & Nakase SPECIES
-=======
+# Sporobolomyces bischofiae Hamam., Thanh & Nakase SPECIES
 
 #### Status
 ACCEPTED

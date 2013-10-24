@@ -1,5 +1,4 @@
-Ramularia erigerontis-annui Sawada SPECIES
-=======
+# Ramularia erigerontis-annui Sawada SPECIES
 
 #### Status
 ACCEPTED

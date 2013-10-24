@@ -1,17 +1,16 @@
-Clitocybe parilis var. undulata (Quél.) Sacc. & Traverso VARIETY
-=======
+# Clitocybe fuscosquamula J.E. Lange, 1930 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 19: 351 (1910)
+Dansk bot. Ark. 6(no. 5): 48 (1930)
 
 #### Original name
-Omphalia undulata Quél.
+Clitocybe fuscosquamula J.E. Lange, 1930
 
 ### Remarks
 null

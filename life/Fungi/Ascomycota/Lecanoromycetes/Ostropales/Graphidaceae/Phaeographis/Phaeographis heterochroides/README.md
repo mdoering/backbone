@@ -1,5 +1,4 @@
-Phaeographis heterochroides Zahlbr. SPECIES
-=======
+# Phaeographis heterochroides Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

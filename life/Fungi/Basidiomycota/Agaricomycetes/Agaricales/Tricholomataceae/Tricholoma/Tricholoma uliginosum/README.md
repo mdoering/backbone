@@ -1,5 +1,4 @@
-Tricholoma uliginosum Velen. SPECIES
-=======
+# Tricholoma uliginosum Velen. SPECIES
 
 #### Status
 ACCEPTED

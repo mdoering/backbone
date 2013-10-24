@@ -1,5 +1,4 @@
-Lecidea caesiopruinosa Schaer. SPECIES
-=======
+# Lecidea caesiopruinosa Schaer. SPECIES
 
 #### Status
 ACCEPTED

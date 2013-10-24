@@ -1,5 +1,4 @@
-Parapeltella hercynica (Kirschst.) Bat. SPECIES
-=======
+# Parapeltella hercynica (Kirschst.) Bat. SPECIES
 
 #### Status
 ACCEPTED

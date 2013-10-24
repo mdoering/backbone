@@ -1,5 +1,4 @@
-Uromyces kentaniensis Doidge SPECIES
-=======
+# Uromyces kentaniensis Doidge SPECIES
 
 #### Status
 ACCEPTED

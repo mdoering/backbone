@@ -1,5 +1,4 @@
-Bacidia endoleucula (Nyl.) Zahlbr. SPECIES
-=======
+# Bacidia endoleucula (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

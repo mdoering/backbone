@@ -1,5 +1,4 @@
-Lecidea erythropoicila Kremp. SPECIES
-=======
+# Lecidea erythropoicila Kremp. SPECIES
 
 #### Status
 ACCEPTED

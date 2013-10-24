@@ -1,5 +1,4 @@
-Gloeosporium dahliae Hemmi SPECIES
-=======
+# Gloeosporium dahliae Hemmi SPECIES
 
 #### Status
 ACCEPTED

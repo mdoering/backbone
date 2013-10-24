@@ -1,5 +1,4 @@
-Agaricus capitosus Britzelm. SPECIES
-=======
+# Agaricus capitosus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

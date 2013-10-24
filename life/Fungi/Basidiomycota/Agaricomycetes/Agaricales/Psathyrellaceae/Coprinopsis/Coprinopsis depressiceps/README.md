@@ -1,5 +1,4 @@
-Coprinopsis depressiceps (Bogart) Redhead, Vilgalys & Moncalvo SPECIES
-=======
+# Coprinopsis depressiceps (Bogart) Redhead, Vilgalys & Moncalvo SPECIES
 
 #### Status
 ACCEPTED

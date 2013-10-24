@@ -1,5 +1,4 @@
-Puccinia ligusticicola I. Miyake SPECIES
-=======
+# Puccinia ligusticicola I. Miyake SPECIES
 
 #### Status
 ACCEPTED

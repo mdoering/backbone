@@ -1,5 +1,4 @@
-Peziza sericea Alb. & Schwein. SPECIES
-=======
+# Peziza sericea Alb. & Schwein. SPECIES
 
 #### Status
 ACCEPTED

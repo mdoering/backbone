@@ -1,5 +1,4 @@
-Downiesphaeridium Islam, 1993 GENUS
-=======
+# Downiesphaeridium Islam, 1993 GENUS
 
 #### Status
 ACCEPTED

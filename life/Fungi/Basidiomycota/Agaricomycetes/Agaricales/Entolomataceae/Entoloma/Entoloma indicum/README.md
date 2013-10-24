@@ -1,17 +1,16 @@
-Entoloma indica Natarajan & C. Ravindran SPECIES
-=======
+# Entoloma indicum Natarajan & C. Ravindran SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 85: 144 (2003)
 
 #### Original name
-Entoloma indica Natarajan & C. Ravindran
+Entoloma indicum Natarajan & C. Ravindran
 
 ### Remarks
 null

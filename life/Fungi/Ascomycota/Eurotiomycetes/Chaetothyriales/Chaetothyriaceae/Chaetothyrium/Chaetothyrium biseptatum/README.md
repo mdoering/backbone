@@ -1,5 +1,4 @@
-Chaetothyrium biseptatum (Sacc.) Hansf. SPECIES
-=======
+# Chaetothyrium biseptatum (Sacc.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

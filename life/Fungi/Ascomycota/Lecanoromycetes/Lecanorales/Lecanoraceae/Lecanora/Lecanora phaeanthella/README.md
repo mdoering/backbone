@@ -1,5 +1,4 @@
-Lecanora phaeanthella Stirt. SPECIES
-=======
+# Lecanora phaeanthella Stirt. SPECIES
 
 #### Status
 ACCEPTED

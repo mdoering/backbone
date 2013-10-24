@@ -1,5 +1,4 @@
-Rhizophydium agile (Zopf) A. Fisch. SPECIES
-=======
+# Rhizophydium agile (Zopf) A. Fisch. SPECIES
 
 #### Status
 ACCEPTED

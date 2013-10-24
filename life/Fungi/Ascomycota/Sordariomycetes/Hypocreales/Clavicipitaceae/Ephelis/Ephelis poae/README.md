@@ -1,5 +1,4 @@
-Ephelis poae (Lib.) Sacc. SPECIES
-=======
+# Ephelis poae (Lib.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

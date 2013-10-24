@@ -1,5 +1,4 @@
-Patellaria conferta Duby ex Fr. SPECIES
-=======
+# Patellaria conferta Duby ex Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ophiobolus compressus Rehm SPECIES
-=======
+# Ophiobolus compressus Rehm SPECIES
 
 #### Status
 ACCEPTED

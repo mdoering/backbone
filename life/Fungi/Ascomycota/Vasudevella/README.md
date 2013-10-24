@@ -1,5 +1,4 @@
-Vasudevella Chona, Munjal & Bajaj GENUS
-=======
+# Vasudevella Chona, Munjal & Bajaj GENUS
 
 #### Status
 ACCEPTED

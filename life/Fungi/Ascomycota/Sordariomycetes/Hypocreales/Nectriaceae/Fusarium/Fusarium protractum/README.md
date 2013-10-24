@@ -1,5 +1,4 @@
-Fusarium protractum Lév. SPECIES
-=======
+# Fusarium protractum Lév. SPECIES
 
 #### Status
 ACCEPTED

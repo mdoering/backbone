@@ -1,5 +1,4 @@
-Diaporthe drimydis Sacc. & P. Syd. SPECIES
-=======
+# Diaporthe drimydis Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Catacauma rimulosa (Speg.) Chardón, 1932 SPECIES
-=======
+# Phyllachora rimulosa Speg., 1919 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Dept. Agric. Porto Rico 16: 171 (1932)
+Boletín de la Academia Nacional de Ciencias de Córdoba 23: 568 (1919)
 
 #### Original name
 Phyllachora rimulosa Speg., 1919

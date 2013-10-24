@@ -1,5 +1,4 @@
-Coronophorella chaetomioides (Penz. & Sacc.) Höhn. SPECIES
-=======
+# Coronophorella chaetomioides (Penz. & Sacc.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

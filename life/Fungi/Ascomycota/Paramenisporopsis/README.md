@@ -1,5 +1,4 @@
-Paramenisporopsis Matsush. GENUS
-=======
+# Paramenisporopsis Matsush. GENUS
 
 #### Status
 ACCEPTED

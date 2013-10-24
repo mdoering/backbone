@@ -1,5 +1,4 @@
-Clathrus hainanensis X.L. Wu SPECIES
-=======
+# Clathrus hainanensis X.L. Wu SPECIES
 
 #### Status
 ACCEPTED

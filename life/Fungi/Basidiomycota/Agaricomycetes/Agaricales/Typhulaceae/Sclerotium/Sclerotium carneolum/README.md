@@ -1,5 +1,4 @@
-Sclerotium carneolum Desm. SPECIES
-=======
+# Sclerotium carneolum Desm. SPECIES
 
 #### Status
 ACCEPTED

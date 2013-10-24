@@ -1,5 +1,4 @@
-Ascochyta angelicae Vakhrush. SPECIES
-=======
+# Ascochyta angelicae Vakhrush. SPECIES
 
 #### Status
 ACCEPTED

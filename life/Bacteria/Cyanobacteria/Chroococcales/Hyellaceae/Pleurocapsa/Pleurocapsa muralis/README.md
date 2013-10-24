@@ -1,5 +1,4 @@
-Pleurocapsa muralis Lagerheim SPECIES
-=======
+# Pleurocapsa muralis Lagerheim SPECIES
 
 #### Status
 ACCEPTED

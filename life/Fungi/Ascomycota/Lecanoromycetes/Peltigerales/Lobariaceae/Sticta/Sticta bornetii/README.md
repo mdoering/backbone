@@ -1,5 +1,4 @@
-Sticta bornetii Müll. Arg. SPECIES
-=======
+# Sticta bornetii Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

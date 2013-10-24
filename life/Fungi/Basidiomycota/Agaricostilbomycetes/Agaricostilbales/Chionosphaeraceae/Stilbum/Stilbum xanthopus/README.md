@@ -1,5 +1,4 @@
-Stilbum xanthopus Rabenh. SPECIES
-=======
+# Stilbum xanthopus Rabenh. SPECIES
 
 #### Status
 ACCEPTED

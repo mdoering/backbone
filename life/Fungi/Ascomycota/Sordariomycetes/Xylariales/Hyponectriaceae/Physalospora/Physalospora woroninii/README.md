@@ -1,5 +1,4 @@
-Physalospora woroninii Montem. & Farneti SPECIES
-=======
+# Physalospora woroninii Montem. & Farneti SPECIES
 
 #### Status
 ACCEPTED

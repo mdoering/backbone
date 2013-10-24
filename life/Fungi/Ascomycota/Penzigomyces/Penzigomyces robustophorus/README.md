@@ -1,5 +1,4 @@
-Penzigomyces robustophorus Subram. SPECIES
-=======
+# Penzigomyces robustophorus Subram. SPECIES
 
 #### Status
 ACCEPTED

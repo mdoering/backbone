@@ -1,5 +1,4 @@
-Valsaria crataegi Curr. SPECIES
-=======
+# Valsaria crataegi Curr. SPECIES
 
 #### Status
 ACCEPTED

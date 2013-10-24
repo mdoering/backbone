@@ -1,5 +1,4 @@
-Rhytisma heraclei Corda SPECIES
-=======
+# Rhytisma heraclei Corda SPECIES
 
 #### Status
 ACCEPTED

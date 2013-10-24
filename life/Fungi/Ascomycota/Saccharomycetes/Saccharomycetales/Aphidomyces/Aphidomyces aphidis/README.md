@@ -1,14 +1,13 @@
-Saccharomyces aphidis Šulc SPECIES
-=======
+# Aphidomyces aphidis (Šulc) Brain, 1923 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ann. Univ. Stellenbosch 1: 29 (1923)
 
 #### Original name
 Saccharomyces aphidis Šulc

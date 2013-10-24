@@ -1,5 +1,4 @@
-Boletus subfulvus C.Z. Bi SPECIES
-=======
+# Boletus subfulvus C.Z. Bi SPECIES
 
 #### Status
 ACCEPTED

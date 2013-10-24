@@ -1,5 +1,4 @@
-Armillaria bresadolae Rick SPECIES
-=======
+# Armillaria bresadolae Rick SPECIES
 
 #### Status
 ACCEPTED

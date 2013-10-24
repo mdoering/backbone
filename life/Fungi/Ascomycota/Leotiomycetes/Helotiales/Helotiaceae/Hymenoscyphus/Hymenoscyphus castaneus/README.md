@@ -1,5 +1,4 @@
-Hymenoscyphus castaneus (Sacc. & Ellis) M.P. Sharma SPECIES
-=======
+# Hymenoscyphus castaneus (Sacc. & Ellis) M.P. Sharma SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Sakireeta Subram. & K. Ramakr. GENUS
-=======
+# Tiarosporella Höhn. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Indian bot. Soc. 36: 83 (1957)
+in Weese, Mitt. bot. Inst. tech. Hochsch. Wien 1(3): 82 (1924)
 
 #### Original name
-Sakireeta Subram. & K. Ramakr.
+Tiarosporella Höhn.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Stropharia psathryoidea Henn. SPECIES
-=======
+# Stropharia psathryoidea Henn. SPECIES
 
 #### Status
 ACCEPTED

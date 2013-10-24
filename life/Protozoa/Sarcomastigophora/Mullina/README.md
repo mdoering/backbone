@@ -1,5 +1,4 @@
-Mullina McCulloch, 1977 GENUS
-=======
+# Mullina McCulloch, 1977 GENUS
 
 #### Status
 ACCEPTED

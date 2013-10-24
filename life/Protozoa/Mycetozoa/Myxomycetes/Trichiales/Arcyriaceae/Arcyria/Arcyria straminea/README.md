@@ -1,5 +1,4 @@
-Arcyria straminea Wallr. SPECIES
-=======
+# Arcyria straminea Wallr. SPECIES
 
 #### Status
 ACCEPTED

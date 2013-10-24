@@ -1,5 +1,4 @@
-Euphoriomyces cybocephali Thaxt. SPECIES
-=======
+# Euphoriomyces cybocephali Thaxt. SPECIES
 
 #### Status
 ACCEPTED

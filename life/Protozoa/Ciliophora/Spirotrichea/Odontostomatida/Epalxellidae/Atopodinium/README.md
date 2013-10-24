@@ -1,5 +1,4 @@
-Atopodinium Kahl, 1932 GENUS
-=======
+# Atopodinium Kahl, 1932 GENUS
 
 #### Status
 ACCEPTED

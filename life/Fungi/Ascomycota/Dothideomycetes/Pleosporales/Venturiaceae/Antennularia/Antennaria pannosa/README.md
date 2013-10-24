@@ -1,5 +1,4 @@
-Antennaria pannosa Berk. SPECIES
-=======
+# Antennaria pannosa Berk. SPECIES
 
 #### Status
 ACCEPTED

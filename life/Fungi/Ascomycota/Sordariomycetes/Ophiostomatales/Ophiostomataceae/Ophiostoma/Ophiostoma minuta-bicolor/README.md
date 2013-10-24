@@ -1,17 +1,16 @@
-Ceratocystis minuta-bicolor R.W. Davidson, 1966 SPECIES
-=======
+# Ophiostoma minuta-bicolor (R.W. Davidson) Georg Hausner, J. Reid & Klassen, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Res. 97(5): 631 (1993)
 
 #### Original name
-null
+Ceratocystis minutabicolor R.W. Davidson
 
 ### Remarks
 null

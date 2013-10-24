@@ -1,5 +1,4 @@
-Lecanora subsophodes Nyl. SPECIES
-=======
+# Lecanora subsophodes Nyl. SPECIES
 
 #### Status
 ACCEPTED

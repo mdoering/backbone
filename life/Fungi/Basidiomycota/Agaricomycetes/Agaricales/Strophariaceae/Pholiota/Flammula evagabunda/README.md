@@ -1,5 +1,4 @@
-Flammula evagabunda (Britzelm.) Sacc. & P. Syd. SPECIES
-=======
+# Flammula evagabunda (Britzelm.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

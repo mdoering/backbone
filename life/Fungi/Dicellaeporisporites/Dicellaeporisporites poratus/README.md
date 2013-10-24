@@ -1,5 +1,4 @@
-Dicellaeporisporites poratus Kalgutkar SPECIES
-=======
+# Dicellaeporisporites poratus Kalgutkar SPECIES
 
 #### Status
 ACCEPTED

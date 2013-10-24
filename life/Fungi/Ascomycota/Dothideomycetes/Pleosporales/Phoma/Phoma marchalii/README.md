@@ -1,8 +1,7 @@
-Phoma marchali Sacc. SPECIES
-=======
+# Phoma marchalii Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phoma marchali Sacc.
+Phoma marchalii Sacc.
 
 ### Remarks
 null

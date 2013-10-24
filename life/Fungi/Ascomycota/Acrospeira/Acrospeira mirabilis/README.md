@@ -1,5 +1,4 @@
-Acrospeira mirabilis Berk. & Broome, 1857 SPECIES
-=======
+# Acrospeira mirabilis Berk. & Broome, 1857 SPECIES
 
 #### Status
 ACCEPTED

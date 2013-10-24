@@ -1,8 +1,7 @@
-Penicillium barcinonense C. Ramírez & A.T. Martínez SPECIES
-=======
+# Penicillium corylophilum Dierckx, 1901 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

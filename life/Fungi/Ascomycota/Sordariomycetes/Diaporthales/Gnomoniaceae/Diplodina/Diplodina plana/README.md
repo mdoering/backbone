@@ -1,5 +1,4 @@
-Diplodina plana P. Karst. SPECIES
-=======
+# Diplodina plana P. Karst. SPECIES
 
 #### Status
 ACCEPTED

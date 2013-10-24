@@ -1,17 +1,16 @@
-Lecidea armeniaca subsp. armeniaca SUBSPECIES
-=======
+# Calvitimela armeniaca (DC.) Hafellner SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syst. orb. veg. (Lundae) 1: 286 (1825)
+Stapfia 76: 151 (2001)
 
 #### Original name
-Lecidea armeniaca subsp. armeniaca
+Rhizocarpon armeniacum DC.
 
 ### Remarks
 null

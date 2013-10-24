@@ -1,5 +1,4 @@
-Asterina diaphorella Syd. & P. Syd. SPECIES
-=======
+# Asterina diaphorella Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

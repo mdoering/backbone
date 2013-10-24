@@ -1,5 +1,4 @@
-Tingiopsidium pubescens Werner SPECIES
-=======
+# Tingiopsidium pubescens Werner SPECIES
 
 #### Status
 ACCEPTED

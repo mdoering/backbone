@@ -1,5 +1,4 @@
-Rivularia dura Roth ex Bornet & Flahault SPECIES
-=======
+# Rivularia dura Roth ex Bornet & Flahault SPECIES
 
 #### Status
 ACCEPTED

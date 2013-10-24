@@ -1,5 +1,4 @@
-Uromyces petitmenginii Maire SPECIES
-=======
+# Uromyces petitmenginii Maire SPECIES
 
 #### Status
 ACCEPTED

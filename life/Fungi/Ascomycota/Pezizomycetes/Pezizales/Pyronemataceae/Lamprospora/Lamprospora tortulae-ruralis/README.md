@@ -1,5 +1,4 @@
-Lamprospora tortulae-ruralis Benkert SPECIES
-=======
+# Lamprospora tortulae-ruralis Benkert SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coronosphaera Haeckel, 1887 GENUS
-=======
+# Coronosphaera Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

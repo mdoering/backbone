@@ -1,5 +1,4 @@
-Irene schwenkiae Hansf. SPECIES
-=======
+# Irene schwenkiae Hansf. SPECIES
 
 #### Status
 ACCEPTED

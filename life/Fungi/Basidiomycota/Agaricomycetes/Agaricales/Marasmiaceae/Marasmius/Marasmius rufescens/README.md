@@ -1,5 +1,4 @@
-Marasmius rufescens Berk. & Broome SPECIES
-=======
+# Marasmius rufescens Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

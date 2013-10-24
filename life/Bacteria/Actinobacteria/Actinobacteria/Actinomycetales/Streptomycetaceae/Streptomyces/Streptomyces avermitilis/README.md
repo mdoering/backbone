@@ -1,5 +1,4 @@
-Streptomyces avermitilis (ex Burg et al., 1979) Kim & Goodfellow, 2002 SPECIES
-=======
+# Streptomyces avermitilis (ex Burg et al., 1979) Kim & Goodfellow, 2002 SPECIES
 
 #### Status
 ACCEPTED

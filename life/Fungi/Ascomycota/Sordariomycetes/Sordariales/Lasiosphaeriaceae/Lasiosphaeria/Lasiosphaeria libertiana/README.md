@@ -1,5 +1,4 @@
-Lasiosphaeria libertiana Speg. & Roum. SPECIES
-=======
+# Lasiosphaeria libertiana Speg. & Roum. SPECIES
 
 #### Status
 ACCEPTED

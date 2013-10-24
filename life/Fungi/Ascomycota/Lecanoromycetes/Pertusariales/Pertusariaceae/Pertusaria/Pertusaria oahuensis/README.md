@@ -1,5 +1,4 @@
-Pertusaria oahuensis H. Magn. SPECIES
-=======
+# Pertusaria oahuensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

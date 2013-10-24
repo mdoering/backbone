@@ -1,5 +1,4 @@
-Penicillium gracile Svilv. SPECIES
-=======
+# Penicillium gracile Svilv. SPECIES
 
 #### Status
 ACCEPTED

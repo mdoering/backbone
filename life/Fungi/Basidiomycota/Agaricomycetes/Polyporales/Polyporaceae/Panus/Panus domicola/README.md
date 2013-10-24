@@ -1,5 +1,4 @@
-Panus domicola Speg., 1909 SPECIES
-=======
+# Panus domicola Speg., 1909 SPECIES
 
 #### Status
 ACCEPTED

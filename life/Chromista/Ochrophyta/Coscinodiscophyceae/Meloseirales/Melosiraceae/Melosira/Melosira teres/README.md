@@ -1,5 +1,4 @@
-Melosira teres Brun. In A. Schmidt, 1892 SPECIES
-=======
+# Melosira teres Brun. In A. Schmidt, 1892 SPECIES
 
 #### Status
 ACCEPTED

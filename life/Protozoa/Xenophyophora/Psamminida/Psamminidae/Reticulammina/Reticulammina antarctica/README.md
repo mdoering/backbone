@@ -1,5 +1,4 @@
-Reticulammina antarctica Riemann, Tendal & Gingele, 1993 SPECIES
-=======
+# Reticulammina antarctica Riemann, Tendal & Gingele, 1993 SPECIES
 
 #### Status
 ACCEPTED

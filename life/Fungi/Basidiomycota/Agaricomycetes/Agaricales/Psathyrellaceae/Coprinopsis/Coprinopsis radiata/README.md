@@ -1,5 +1,4 @@
-Coprinopsis radiata (Bolton) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
-=======
+# Coprinopsis radiata (Bolton) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
 
 #### Status
 ACCEPTED

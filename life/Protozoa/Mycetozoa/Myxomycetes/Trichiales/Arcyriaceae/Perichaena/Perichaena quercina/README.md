@@ -1,5 +1,4 @@
-Perichaena quercina Fr. SPECIES
-=======
+# Perichaena quercina Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnopus hybridus (Kühner & Romagn.) Antonín & Noordel. SPECIES
-=======
+# Gymnopus hybridus (Kühner & Romagn.) Antonín & Noordel. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cornimeritus Hoshide, 1959 GENUS
-=======
+# Cornimeritus Hoshide, 1959 GENUS
 
 #### Status
 ACCEPTED

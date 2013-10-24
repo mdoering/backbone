@@ -1,5 +1,4 @@
-Phaeosclera Sigler, Tsuneda & J.W. Carmich. GENUS
-=======
+# Phaeosclera Sigler, Tsuneda & J.W. Carmich. GENUS
 
 #### Status
 ACCEPTED

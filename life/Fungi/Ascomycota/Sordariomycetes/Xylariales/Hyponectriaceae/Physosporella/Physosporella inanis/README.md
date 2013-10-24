@@ -1,14 +1,13 @@
-Physalosporella inanis (Schwein.) Höhn. SPECIES
-=======
+# Physosporella inanis (Schwein.) Höhn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 16: 162 (1918)
 
 #### Original name
 Sphaeria inanis Schwein.

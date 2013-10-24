@@ -1,5 +1,4 @@
-Megalopsora tuberculosa SPECIES
-=======
+# Megalopsora tuberculosa SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Sphaerella firmianae Pass. SPECIES
-=======
+# Sphaerella firmianae Pass. SPECIES
 
 #### Status
 ACCEPTED

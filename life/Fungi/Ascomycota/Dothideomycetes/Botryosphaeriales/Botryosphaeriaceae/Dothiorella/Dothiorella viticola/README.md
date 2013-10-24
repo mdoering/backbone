@@ -1,5 +1,4 @@
-Dothiorella viticola A.J.L. Phillips & J. Luque SPECIES
-=======
+# Dothiorella viticola A.J.L. Phillips & J. Luque SPECIES
 
 #### Status
 ACCEPTED

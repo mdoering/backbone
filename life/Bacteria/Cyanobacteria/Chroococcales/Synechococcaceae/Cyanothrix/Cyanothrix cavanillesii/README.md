@@ -1,5 +1,4 @@
-Cyanothrix cavanillesii Gonzalez Guerrero SPECIES
-=======
+# Cyanothrix cavanillesii Gonzalez Guerrero SPECIES
 
 #### Status
 ACCEPTED

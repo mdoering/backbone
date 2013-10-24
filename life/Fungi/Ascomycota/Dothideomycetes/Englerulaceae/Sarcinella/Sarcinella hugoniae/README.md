@@ -1,5 +1,4 @@
-Sarcinella hugoniae Hosag. & Kamar. SPECIES
-=======
+# Sarcinella hugoniae Hosag. & Kamar. SPECIES
 
 #### Status
 ACCEPTED

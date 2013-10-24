@@ -1,5 +1,4 @@
-Coprinus perpusillus Speg. SPECIES
-=======
+# Coprinus perpusillus Speg. SPECIES
 
 #### Status
 ACCEPTED

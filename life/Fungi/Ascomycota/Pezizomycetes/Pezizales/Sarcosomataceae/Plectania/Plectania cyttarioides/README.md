@@ -1,5 +1,4 @@
-Plectania cyttarioides (Rehm) Korf SPECIES
-=======
+# Plectania cyttarioides (Rehm) Korf SPECIES
 
 #### Status
 ACCEPTED

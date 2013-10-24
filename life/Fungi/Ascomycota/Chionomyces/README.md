@@ -1,5 +1,4 @@
-Chionomyces Deighton & Piroz. GENUS
-=======
+# Chionomyces Deighton & Piroz. GENUS
 
 #### Status
 ACCEPTED

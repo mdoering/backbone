@@ -1,5 +1,4 @@
-Kofoidinium arcticum Bursa, 1964 SPECIES
-=======
+# Kofoidinium arcticum Bursa, 1964 SPECIES
 
 #### Status
 ACCEPTED

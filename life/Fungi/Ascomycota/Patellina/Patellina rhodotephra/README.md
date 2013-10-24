@@ -1,5 +1,4 @@
-Patellina rhodotephra Berl. SPECIES
-=======
+# Patellina rhodotephra Berl. SPECIES
 
 #### Status
 ACCEPTED

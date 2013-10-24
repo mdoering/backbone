@@ -1,5 +1,4 @@
-Parmelia bogoriensis Zahlbr. SPECIES
-=======
+# Parmelia bogoriensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

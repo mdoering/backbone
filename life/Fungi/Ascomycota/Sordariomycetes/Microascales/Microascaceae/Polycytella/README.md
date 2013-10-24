@@ -1,5 +1,4 @@
-Polycytella C.K. Campbell, 1987 GENUS
-=======
+# Polycytella C.K. Campbell, 1987 GENUS
 
 #### Status
 ACCEPTED

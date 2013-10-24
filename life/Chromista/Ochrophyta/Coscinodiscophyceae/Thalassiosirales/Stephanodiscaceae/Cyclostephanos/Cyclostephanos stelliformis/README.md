@@ -1,5 +1,4 @@
-Cyclostephanos stelliformis G.K. Khursevich & V.V. Mukhina SPECIES
-=======
+# Cyclostephanos stelliformis G.K. Khursevich & V.V. Mukhina SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hymenoscyphus ceratinus (Berk.) Kuntze SPECIES
-=======
+# Hymenoscyphus ceratinus (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

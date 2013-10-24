@@ -1,5 +1,4 @@
-Meliola stryohnicola SPECIES
-=======
+# Meliola stryohnicola SPECIES
 
 #### Status
 ACCEPTED

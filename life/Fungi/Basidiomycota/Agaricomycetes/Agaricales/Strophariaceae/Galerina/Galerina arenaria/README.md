@@ -1,5 +1,4 @@
-Galerina arenaria Singer SPECIES
-=======
+# Galerina arenaria Singer SPECIES
 
 #### Status
 ACCEPTED

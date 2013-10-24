@@ -1,5 +1,4 @@
-Tintinnopsis butchlii Daday SPECIES
-=======
+# Tintinnopsis butchlii Daday SPECIES
 
 #### Status
 ACCEPTED

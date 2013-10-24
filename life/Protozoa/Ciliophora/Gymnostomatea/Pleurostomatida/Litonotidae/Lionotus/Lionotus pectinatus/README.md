@@ -1,5 +1,4 @@
-Lionotus pectinatus Kahl, 1926 SPECIES
-=======
+# Lionotus pectinatus Kahl, 1926 SPECIES
 
 #### Status
 ACCEPTED

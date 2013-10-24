@@ -1,5 +1,4 @@
-Selenosporium tubercularioides Corda SPECIES
-=======
+# Selenosporium tubercularioides Corda SPECIES
 
 #### Status
 ACCEPTED

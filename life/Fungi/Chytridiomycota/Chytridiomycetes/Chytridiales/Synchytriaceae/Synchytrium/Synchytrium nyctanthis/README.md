@@ -1,8 +1,7 @@
-Synchytrium nyctanthidis Lacy SPECIES
-=======
+# Synchytrium nyctanthis Lacy SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Synchytrium nyctanthidis Lacy
+Synchytrium nyctanthis Lacy
 
 ### Remarks
 null

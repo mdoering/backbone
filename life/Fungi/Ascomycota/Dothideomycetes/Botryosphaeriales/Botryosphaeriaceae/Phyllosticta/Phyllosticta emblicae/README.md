@@ -1,5 +1,4 @@
-Phyllosticta emblicae Chuan F. Zhang & P.K. Chi SPECIES
-=======
+# Phyllosticta emblicae Chuan F. Zhang & P.K. Chi SPECIES
 
 #### Status
 ACCEPTED

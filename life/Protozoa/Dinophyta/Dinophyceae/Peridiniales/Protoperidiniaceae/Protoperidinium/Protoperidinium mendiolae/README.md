@@ -1,5 +1,4 @@
-Protoperidinium mendiolae Balech, 1978 SPECIES
-=======
+# Protoperidinium mendiolae Balech, 1978 SPECIES
 
 #### Status
 ACCEPTED

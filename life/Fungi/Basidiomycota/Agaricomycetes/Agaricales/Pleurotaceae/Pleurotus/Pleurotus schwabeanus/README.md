@@ -1,5 +1,4 @@
-Pleurotus schwabeanus Henn. SPECIES
-=======
+# Pleurotus schwabeanus Henn. SPECIES
 
 #### Status
 ACCEPTED

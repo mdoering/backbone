@@ -1,5 +1,4 @@
-Pennella angustispora Lichtw., 1972 SPECIES
-=======
+# Pennella angustispora Lichtw., 1972 SPECIES
 
 #### Status
 ACCEPTED

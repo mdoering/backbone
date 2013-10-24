@@ -1,5 +1,4 @@
-Multiplicisphaeridium sosnowiecense Moczydlowksa, 1998 SPECIES
-=======
+# Multiplicisphaeridium sosnowiecense Moczydlowksa, 1998 SPECIES
 
 #### Status
 ACCEPTED

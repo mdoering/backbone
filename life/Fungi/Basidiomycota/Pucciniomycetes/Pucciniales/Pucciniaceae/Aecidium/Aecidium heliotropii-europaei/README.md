@@ -1,5 +1,4 @@
-Aecidium heliotropii-europaei J. Schröt. SPECIES
-=======
+# Aecidium heliotropii-europaei J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

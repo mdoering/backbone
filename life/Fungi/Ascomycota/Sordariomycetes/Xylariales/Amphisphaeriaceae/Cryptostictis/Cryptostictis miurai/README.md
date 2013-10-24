@@ -1,5 +1,4 @@
-Cryptostictis miurai Hara SPECIES
-=======
+# Cryptostictis miurai Hara SPECIES
 
 #### Status
 ACCEPTED

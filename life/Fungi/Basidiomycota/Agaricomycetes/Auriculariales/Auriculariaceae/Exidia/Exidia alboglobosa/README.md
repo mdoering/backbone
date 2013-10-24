@@ -1,5 +1,4 @@
-Exidia alboglobosa Lloyd SPECIES
-=======
+# Exidia alboglobosa Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrophoma petiolicola (Cooke) Berl. & Voglino ex Petr. & Syd. SPECIES
-=======
+# Macrophoma petiolicola (Cooke) Berl. & Voglino ex Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

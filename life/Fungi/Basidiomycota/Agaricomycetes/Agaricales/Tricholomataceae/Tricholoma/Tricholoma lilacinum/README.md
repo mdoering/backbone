@@ -1,5 +1,4 @@
-Tricholoma lilacinum Gillet SPECIES
-=======
+# Tricholoma lilacinum Gillet SPECIES
 
 #### Status
 ACCEPTED

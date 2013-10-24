@@ -1,5 +1,4 @@
-Lepraria normandinoides Lendemer & R. C. Harris SPECIES
-=======
+# Lepraria normandinoides Lendemer & R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

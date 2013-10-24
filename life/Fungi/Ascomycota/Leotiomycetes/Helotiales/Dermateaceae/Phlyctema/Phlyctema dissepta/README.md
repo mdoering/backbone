@@ -1,5 +1,4 @@
-Phlyctema dissepta Berk., 1855 SPECIES
-=======
+# Phlyctema dissepta Berk., 1855 SPECIES
 
 #### Status
 ACCEPTED

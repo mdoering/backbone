@@ -1,5 +1,4 @@
-Nolanea maderaspatana Pegler SPECIES
-=======
+# Nolanea maderaspatana Pegler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius permagnificus E. Horak SPECIES
-=======
+# Cortinarius permagnificus E. Horak SPECIES
 
 #### Status
 ACCEPTED

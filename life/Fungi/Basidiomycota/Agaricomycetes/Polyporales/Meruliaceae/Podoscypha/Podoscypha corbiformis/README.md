@@ -1,5 +1,4 @@
-Podoscypha corbiformis (Fr.) D.A. Reid SPECIES
-=======
+# Podoscypha corbiformis (Fr.) D.A. Reid SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tricholoma floridanum (Murrill) Murrill SPECIES
-=======
+# Tricholoma floridanum (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

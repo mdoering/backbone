@@ -1,14 +1,13 @@
-Lylea tetracoilum (Corda) Hol.-Jech. SPECIES
-=======
+# Lylea tetracoila (Corda) Hol.-Jech., 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Folia geobot. phytotax. bohemoslov. 13(4): 437 (1978)
 
 #### Original name
 Fusoma tetracoilum Corda, 1838

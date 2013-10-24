@@ -1,5 +1,4 @@
-Gyalectidium corticola Henssen SPECIES
-=======
+# Gyalectidium corticola Henssen SPECIES
 
 #### Status
 ACCEPTED

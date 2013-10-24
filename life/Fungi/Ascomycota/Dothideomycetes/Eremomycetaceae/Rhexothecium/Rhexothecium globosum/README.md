@@ -1,5 +1,4 @@
-Rhexothecium globosum Samson & Mouch., 1975 SPECIES
-=======
+# Rhexothecium globosum Samson & Mouch., 1975 SPECIES
 
 #### Status
 ACCEPTED

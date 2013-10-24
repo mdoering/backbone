@@ -1,5 +1,4 @@
-Pseudocercospora urticacearum R.K. Verma & Kamal SPECIES
-=======
+# Pseudocercospora urticacearum R.K. Verma & Kamal SPECIES
 
 #### Status
 ACCEPTED

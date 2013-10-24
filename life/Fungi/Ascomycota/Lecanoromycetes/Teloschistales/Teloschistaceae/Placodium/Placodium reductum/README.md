@@ -1,5 +1,4 @@
-Placodium reductum (Zahlbr.) Motyka SPECIES
-=======
+# Placodium reductum (Zahlbr.) Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrophorus ellenae Hesler & A.H. Sm. SPECIES
-=======
+# Hygrophorus ellenae Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

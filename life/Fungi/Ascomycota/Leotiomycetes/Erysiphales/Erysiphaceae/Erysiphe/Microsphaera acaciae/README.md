@@ -1,5 +1,4 @@
-Microsphaera acaciae (S. Blumer) U. Braun SPECIES
-=======
+# Microsphaera acaciae (S. Blumer) U. Braun SPECIES
 
 #### Status
 ACCEPTED

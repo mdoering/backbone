@@ -1,5 +1,4 @@
-Sphaerella fraxinicola (Schwein.) Cooke SPECIES
-=======
+# Sphaerella fraxinicola (Schwein.) Cooke SPECIES
 
 #### Status
 ACCEPTED

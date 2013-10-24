@@ -1,5 +1,4 @@
-Seirophora orientalis Frödén SPECIES
-=======
+# Seirophora orientalis Frödén SPECIES
 
 #### Status
 ACCEPTED

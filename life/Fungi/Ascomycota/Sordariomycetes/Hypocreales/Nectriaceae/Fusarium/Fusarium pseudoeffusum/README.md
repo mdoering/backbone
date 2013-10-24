@@ -1,5 +1,4 @@
-Fusarium pseudoeffusum Murashk. SPECIES
-=======
+# Fusarium pseudoeffusum Murashk. SPECIES
 
 #### Status
 ACCEPTED

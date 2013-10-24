@@ -1,5 +1,4 @@
-Arthothelium consanguineum Müll. Arg. SPECIES
-=======
+# Arthothelium consanguineum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

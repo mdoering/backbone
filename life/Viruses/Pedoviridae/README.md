@@ -1,5 +1,4 @@
-Pedoviridae FAMILY
-=======
+# Pedoviridae FAMILY
 
 #### Status
 ACCEPTED

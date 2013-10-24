@@ -1,5 +1,4 @@
-Distatodinium paradoxum (Brosius, 1963) Eaton, 1976 SPECIES
-=======
+# Distatodinium paradoxum (Brosius, 1963) Eaton, 1976 SPECIES
 
 #### Status
 ACCEPTED

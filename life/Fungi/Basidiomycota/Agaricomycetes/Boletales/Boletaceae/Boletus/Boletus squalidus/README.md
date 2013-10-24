@@ -1,5 +1,4 @@
-Boletus squalidus Fr. SPECIES
-=======
+# Boletus squalidus Fr. SPECIES
 
 #### Status
 ACCEPTED

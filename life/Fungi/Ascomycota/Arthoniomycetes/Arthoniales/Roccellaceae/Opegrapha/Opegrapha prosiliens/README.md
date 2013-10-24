@@ -1,5 +1,4 @@
-Opegrapha prosiliens Mont. & Bosch SPECIES
-=======
+# Opegrapha prosiliens Mont. & Bosch SPECIES
 
 #### Status
 ACCEPTED

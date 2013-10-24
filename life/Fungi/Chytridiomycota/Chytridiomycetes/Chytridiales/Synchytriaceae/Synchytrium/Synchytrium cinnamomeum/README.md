@@ -1,5 +1,4 @@
-Synchytrium cinnamomeum Davis SPECIES
-=======
+# Synchytrium cinnamomeum Davis SPECIES
 
 #### Status
 ACCEPTED

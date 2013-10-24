@@ -1,5 +1,4 @@
-Syndiplodia hypoxyloidea (Cooke) Zambett. SPECIES
-=======
+# Syndiplodia hypoxyloidea (Cooke) Zambett. SPECIES
 
 #### Status
 ACCEPTED

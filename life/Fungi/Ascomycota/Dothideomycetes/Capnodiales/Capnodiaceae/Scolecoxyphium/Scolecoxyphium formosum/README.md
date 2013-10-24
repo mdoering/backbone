@@ -1,5 +1,4 @@
-Scolecoxyphium formosum Bat., Nascim. & Cif., 1963 SPECIES
-=======
+# Scolecoxyphium formosum Bat., Nascim. & Cif., 1963 SPECIES
 
 #### Status
 ACCEPTED

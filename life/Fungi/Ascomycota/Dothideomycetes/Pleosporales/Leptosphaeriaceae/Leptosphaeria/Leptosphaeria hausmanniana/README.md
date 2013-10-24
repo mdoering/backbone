@@ -1,5 +1,4 @@
-Leptosphaeria hausmanniana subsp. hausmanniana SUBSPECIES
-=======
+# Leptosphaeria hausmanniana Auersw. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Leptosphaeria hausmanniana subsp. hausmanniana
+Leptosphaeria hausmanniana Auersw.
 
 ### Remarks
 null

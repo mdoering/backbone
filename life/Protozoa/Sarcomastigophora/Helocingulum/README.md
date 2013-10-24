@@ -1,5 +1,4 @@
-Helocingulum Steiger, 1992 GENUS
-=======
+# Helocingulum Steiger, 1992 GENUS
 
 #### Status
 ACCEPTED

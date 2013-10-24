@@ -1,5 +1,4 @@
-Sordaria amphicornis Ellis SPECIES
-=======
+# Sordaria amphicornis Ellis SPECIES
 
 #### Status
 ACCEPTED

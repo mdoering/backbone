@@ -1,17 +1,16 @@
-Dipodascus tetrasperma (Macy & M.W. Mill.) Arx, 1978 SPECIES
-=======
+# Magnusiomyces tetrasperma (Macy & M.W. Mill.) de Hoog & M.T. Sm., 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Antonie van Leeuwenhoek 43(3-4): 338 (1978)
+Stud. Mycol. 50(2): 507 (2004)
 
 #### Original name
-Endomyces tetrasperma Macy & M.W. Mill., 1971
+Dipodascus tetrasperma (Macy & M.W. Mill.) Arx, 1978
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Hygrophorus palustris V.L. Wells & Kempton SPECIES
-=======
+# Hygrophorus palustris V.L. Wells & Kempton SPECIES
 
 #### Status
 ACCEPTED

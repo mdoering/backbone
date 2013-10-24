@@ -1,5 +1,4 @@
-Knoellia subterranea Groth et al., 2002 SPECIES
-=======
+# Knoellia subterranea Groth et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

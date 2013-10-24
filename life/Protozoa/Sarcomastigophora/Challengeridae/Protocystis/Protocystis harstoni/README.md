@@ -1,5 +1,4 @@
-Protocystis harstoni (Murray, 1885) SPECIES
-=======
+# Protocystis harstoni (Murray, 1885) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Trachylia leucopellaea (Ach.) Eitner SPECIES
-=======
+# Arthonia leucopellaea (Ach.) Almq. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+K. svenska Vetensk-Akad. Handl. 17(no. 6): 28 (1880)
 
 #### Original name
 Spiloma melaleucum var. leucopellaeum Ach.

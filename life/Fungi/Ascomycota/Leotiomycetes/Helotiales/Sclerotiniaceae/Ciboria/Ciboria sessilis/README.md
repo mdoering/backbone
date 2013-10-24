@@ -1,5 +1,4 @@
-Ciboria sessilis Starbäck SPECIES
-=======
+# Ciboria sessilis Starbäck SPECIES
 
 #### Status
 ACCEPTED

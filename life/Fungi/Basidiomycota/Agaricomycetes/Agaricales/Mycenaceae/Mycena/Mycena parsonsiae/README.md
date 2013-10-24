@@ -1,5 +1,4 @@
-Mycena parsonsiae G. Stev., 1964 SPECIES
-=======
+# Mycena parsonsiae G. Stev., 1964 SPECIES
 
 #### Status
 ACCEPTED

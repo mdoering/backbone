@@ -1,5 +1,4 @@
-Clitocybe mutabilis H.E. Bigelow SPECIES
-=======
+# Clitocybe mutabilis H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

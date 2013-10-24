@@ -1,5 +1,4 @@
-Visbysphaera meson (Eisenack, 1955) Lister, 1970 SPECIES
-=======
+# Visbysphaera meson (Eisenack, 1955) Lister, 1970 SPECIES
 
 #### Status
 ACCEPTED

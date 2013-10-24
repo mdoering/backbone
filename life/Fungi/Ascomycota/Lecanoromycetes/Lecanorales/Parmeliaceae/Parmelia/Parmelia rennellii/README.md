@@ -1,5 +1,4 @@
-Parmelia rennellii C.W. Dodge SPECIES
-=======
+# Parmelia rennellii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

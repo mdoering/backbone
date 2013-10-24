@@ -1,5 +1,4 @@
-Cryptostictis hysterioides Fuckel SPECIES
-=======
+# Cryptostictis hysterioides Fuckel SPECIES
 
 #### Status
 ACCEPTED

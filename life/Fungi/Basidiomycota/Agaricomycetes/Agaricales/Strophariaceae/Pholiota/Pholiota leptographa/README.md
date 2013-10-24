@@ -1,5 +1,4 @@
-Pholiota leptographa Sacc. SPECIES
-=======
+# Pholiota leptographa Sacc. SPECIES
 
 #### Status
 ACCEPTED

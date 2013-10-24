@@ -1,17 +1,16 @@
-Corditubera spinispora (Fogel) Malençon, 1983 SPECIES
-=======
+# Leucophleps spinispora Fogel, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Cryptog. Mycol. 4(1): 6 (1983)
+Can. J. Bot. 57(16): 1724 (1979)
 
 #### Original name
-Leucophleps spinispora Fogel, 1979
+Leucogaster levisporus Zeller, 1941
 
 ### Remarks
 null

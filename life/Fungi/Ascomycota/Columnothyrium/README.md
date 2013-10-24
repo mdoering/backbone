@@ -1,5 +1,4 @@
-Columnothyrium Bubák GENUS
-=======
+# Columnothyrium Bubák GENUS
 
 #### Status
 ACCEPTED

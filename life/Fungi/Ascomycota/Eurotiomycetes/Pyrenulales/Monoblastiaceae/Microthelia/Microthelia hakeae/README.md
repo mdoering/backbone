@@ -1,5 +1,4 @@
-Microthelia hakeae (G. Winter) Kuntze SPECIES
-=======
+# Microthelia hakeae (G. Winter) Kuntze SPECIES
 
 #### Status
 ACCEPTED

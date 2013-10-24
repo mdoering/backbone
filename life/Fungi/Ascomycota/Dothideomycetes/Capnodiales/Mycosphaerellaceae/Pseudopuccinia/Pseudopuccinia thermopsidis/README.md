@@ -1,8 +1,7 @@
-Pseudopuccinia thermopsis (Harkn.) Höhn. SPECIES
-=======
+# Pseudopuccinia thermopsidis (Harkn.) Höhn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

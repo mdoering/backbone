@@ -1,17 +1,16 @@
-Uleodothis eupatoricola Orejuela SPECIES
-=======
+# Uleodothis eupatoriicola Orejuela SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Caldasia 76 (1941)
 
 #### Original name
-Uleodothis eupatoricola Orejuela
+Uleodothis eupatoriicola Orejuela
 
 ### Remarks
 null

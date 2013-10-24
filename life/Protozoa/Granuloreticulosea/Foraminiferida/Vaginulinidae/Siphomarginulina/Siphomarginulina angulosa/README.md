@@ -1,5 +1,4 @@
-Siphomarginulina angulosa Loeblich & Tappan, 1994 SPECIES
-=======
+# Siphomarginulina angulosa Loeblich & Tappan, 1994 SPECIES
 
 #### Status
 ACCEPTED

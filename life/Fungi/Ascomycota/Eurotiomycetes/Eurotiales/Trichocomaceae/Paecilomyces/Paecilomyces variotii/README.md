@@ -1,17 +1,16 @@
-Paecilomyces variotii var. variotii VARIETY
-=======
+# Paecilomyces variotii Bainier, 1907 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Bull. Soc. mycol. Fr. 23(1): 27 (1907)
 
 #### Original name
-Paecilomyces variotii var. variotii
+Paecilomyces variotii Bainier, 1907
 
 ### Remarks
 null

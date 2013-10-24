@@ -1,5 +1,4 @@
-Trichoderma nunbergii Szilvinyi SPECIES
-=======
+# Trichoderma nunbergii Szilvinyi SPECIES
 
 #### Status
 ACCEPTED

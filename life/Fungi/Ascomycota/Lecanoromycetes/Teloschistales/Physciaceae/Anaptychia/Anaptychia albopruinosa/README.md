@@ -1,5 +1,4 @@
-Anaptychia albopruinosa Kurok. SPECIES
-=======
+# Anaptychia albopruinosa Kurok. SPECIES
 
 #### Status
 ACCEPTED

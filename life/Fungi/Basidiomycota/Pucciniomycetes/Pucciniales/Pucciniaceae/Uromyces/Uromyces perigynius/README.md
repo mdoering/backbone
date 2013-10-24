@@ -1,17 +1,16 @@
-Uromyces perigynius var. perigynius Halst. VARIETY
-=======
+# Uromyces perigynius Halst., 1889 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 J. Mycol. 5: 11 (1889)
 
 #### Original name
-Uromyces perigynius var. perigynius Halst.
+Uromyces perigynius Halst., 1889
 
 ### Remarks
 null

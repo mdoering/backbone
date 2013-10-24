@@ -1,5 +1,4 @@
-Ombrophila alba Velen. SPECIES
-=======
+# Ombrophila alba Velen. SPECIES
 
 #### Status
 ACCEPTED

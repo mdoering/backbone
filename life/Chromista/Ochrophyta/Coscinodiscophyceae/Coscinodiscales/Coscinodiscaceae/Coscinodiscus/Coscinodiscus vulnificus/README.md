@@ -1,5 +1,4 @@
-Coscinodiscus vulnificus A.M. Gombos SPECIES
-=======
+# Coscinodiscus vulnificus A.M. Gombos SPECIES
 
 #### Status
 ACCEPTED

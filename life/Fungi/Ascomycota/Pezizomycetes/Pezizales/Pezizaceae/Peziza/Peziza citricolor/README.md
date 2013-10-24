@@ -1,5 +1,4 @@
-Peziza citricolor Berk. & Broome SPECIES
-=======
+# Peziza citricolor Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

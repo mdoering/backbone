@@ -1,5 +1,4 @@
-Ceratostomella stricta (Pers.) Sacc. SPECIES
-=======
+# Ceratostomella stricta (Pers.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

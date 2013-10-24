@@ -1,5 +1,4 @@
-Libertiella quercicola Woron. SPECIES
-=======
+# Libertiella quercicola Woron. SPECIES
 
 #### Status
 ACCEPTED

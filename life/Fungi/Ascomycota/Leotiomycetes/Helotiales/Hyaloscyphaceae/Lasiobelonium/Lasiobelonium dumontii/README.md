@@ -1,5 +1,4 @@
-Lasiobelonium dumontii Korf SPECIES
-=======
+# Lasiobelonium dumontii Korf SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cordyceps flavella Berk. & M.A. Curtis SPECIES
-=======
+# Cordyceps flavella Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

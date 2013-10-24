@@ -1,5 +1,4 @@
-Lecidea rubrofusca B. de Lesd. SPECIES
-=======
+# Lecidea rubrofusca B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

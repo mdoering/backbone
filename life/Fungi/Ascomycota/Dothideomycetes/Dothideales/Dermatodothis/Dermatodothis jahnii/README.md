@@ -1,5 +1,4 @@
-Dermatodothis jahnii (Chardón) Arx & E. Müll. SPECIES
-=======
+# Dermatodothis jahnii (Chardón) Arx & E. Müll. SPECIES
 
 #### Status
 ACCEPTED

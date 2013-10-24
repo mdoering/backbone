@@ -1,5 +1,4 @@
-Verrucaria dalejensis Servít SPECIES
-=======
+# Verrucaria dalejensis Servít SPECIES
 
 #### Status
 ACCEPTED

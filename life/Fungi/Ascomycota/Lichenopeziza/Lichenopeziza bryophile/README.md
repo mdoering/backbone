@@ -1,5 +1,4 @@
-Lichenopeziza bryophile Zukal, 1884 SPECIES
-=======
+# Lichenopeziza bryophile Zukal, 1884 SPECIES
 
 #### Status
 ACCEPTED

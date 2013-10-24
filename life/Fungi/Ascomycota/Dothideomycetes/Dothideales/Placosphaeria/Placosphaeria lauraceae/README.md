@@ -1,5 +1,4 @@
-Placosphaeria lauraceae Cif. & Gonz. Frag. SPECIES
-=======
+# Placosphaeria lauraceae Cif. & Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

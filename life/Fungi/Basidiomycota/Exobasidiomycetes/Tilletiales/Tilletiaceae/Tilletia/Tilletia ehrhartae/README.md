@@ -1,5 +1,4 @@
-Tilletia ehrhartae P.H.B. Talbot, 1958 SPECIES
-=======
+# Tilletia ehrhartae P.H.B. Talbot, 1958 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laccaria nobilis A.H. Sm. SPECIES
-=======
+# Laccaria nobilis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

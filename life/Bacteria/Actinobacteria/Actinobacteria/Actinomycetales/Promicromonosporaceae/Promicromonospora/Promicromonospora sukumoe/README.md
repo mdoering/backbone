@@ -1,5 +1,4 @@
-Promicromonospora sukumoe Takahashi et al., 1988 SPECIES
-=======
+# Promicromonospora sukumoe Takahashi et al., 1988 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Zignoëlla punctiformis Sacc. & Therry SPECIES
-=======
+# Zignoëlla punctiformis Sacc. & Therry SPECIES
 
 #### Status
 ACCEPTED

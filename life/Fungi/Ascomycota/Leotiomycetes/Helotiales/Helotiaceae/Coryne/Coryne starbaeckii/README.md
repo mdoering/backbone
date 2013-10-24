@@ -1,5 +1,4 @@
-Coryne starbaeckii P. Karst. SPECIES
-=======
+# Coryne starbaeckii P. Karst. SPECIES
 
 #### Status
 ACCEPTED

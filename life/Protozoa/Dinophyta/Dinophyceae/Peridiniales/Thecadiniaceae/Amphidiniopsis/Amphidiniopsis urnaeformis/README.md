@@ -1,5 +1,4 @@
-Amphidiniopsis urnaeformis Gail SPECIES
-=======
+# Amphidiniopsis urnaeformis Gail SPECIES
 
 #### Status
 ACCEPTED

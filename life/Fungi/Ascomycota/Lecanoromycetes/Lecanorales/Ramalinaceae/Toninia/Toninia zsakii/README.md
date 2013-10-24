@@ -1,5 +1,4 @@
-Toninia zsakii (Szatala) Lettau SPECIES
-=======
+# Toninia zsakii (Szatala) Lettau SPECIES
 
 #### Status
 ACCEPTED

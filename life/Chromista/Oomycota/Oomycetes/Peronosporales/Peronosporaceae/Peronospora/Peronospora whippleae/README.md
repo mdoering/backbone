@@ -1,5 +1,4 @@
-Peronospora whippleae Ellis & Everh. SPECIES
-=======
+# Peronospora whippleae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

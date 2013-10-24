@@ -1,5 +1,4 @@
-Streptococcus pleomorphus Barnes et al., 1979 (Approved Lists, 1980) SPECIES
-=======
+# Streptococcus pleomorphus Barnes et al., 1979 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

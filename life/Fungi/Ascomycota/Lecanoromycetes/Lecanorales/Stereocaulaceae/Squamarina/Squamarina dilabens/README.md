@@ -1,5 +1,4 @@
-Squamarina dilabens Motyka SPECIES
-=======
+# Squamarina dilabens Motyka SPECIES
 
 #### Status
 ACCEPTED

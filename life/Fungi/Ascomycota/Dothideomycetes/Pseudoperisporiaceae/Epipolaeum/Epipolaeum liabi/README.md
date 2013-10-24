@@ -1,5 +1,4 @@
-Epipolaeum liabi (Syd.) E. Müll. SPECIES
-=======
+# Epipolaeum liabi (Syd.) E. Müll. SPECIES
 
 #### Status
 ACCEPTED

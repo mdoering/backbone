@@ -1,5 +1,4 @@
-Dematium lineatum Fr. SPECIES
-=======
+# Dematium lineatum Fr. SPECIES
 
 #### Status
 ACCEPTED

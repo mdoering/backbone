@@ -1,5 +1,4 @@
-Macrophoma zeraphiana Sacc. SPECIES
-=======
+# Macrophoma zeraphiana Sacc. SPECIES
 
 #### Status
 ACCEPTED

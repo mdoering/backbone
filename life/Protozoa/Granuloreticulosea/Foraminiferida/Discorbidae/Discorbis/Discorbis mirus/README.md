@@ -1,5 +1,4 @@
-Discorbis mirus Cushman SPECIES
-=======
+# Discorbis mirus Cushman SPECIES
 
 #### Status
 ACCEPTED

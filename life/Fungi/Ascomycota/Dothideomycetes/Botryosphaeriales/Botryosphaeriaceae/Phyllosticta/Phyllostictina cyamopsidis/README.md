@@ -1,5 +1,4 @@
-Phyllostictina cyamopsidis (Syd.) Syd. SPECIES
-=======
+# Phyllostictina cyamopsidis (Syd.) Syd. SPECIES
 
 #### Status
 ACCEPTED

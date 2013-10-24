@@ -1,5 +1,4 @@
-Fomitiporella GENUS
-=======
+# Fomitiporella GENUS
 
 #### Status
 ACCEPTED

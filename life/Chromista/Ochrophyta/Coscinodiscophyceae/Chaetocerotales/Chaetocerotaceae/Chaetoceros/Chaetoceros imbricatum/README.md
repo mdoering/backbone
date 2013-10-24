@@ -1,5 +1,4 @@
-Chaetoceros imbricatum Mangin SPECIES
-=======
+# Chaetoceros imbricatum Mangin SPECIES
 
 #### Status
 ACCEPTED

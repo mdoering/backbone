@@ -1,5 +1,4 @@
-Erineum badium Kunze SPECIES
-=======
+# Erineum badium Kunze SPECIES
 
 #### Status
 ACCEPTED

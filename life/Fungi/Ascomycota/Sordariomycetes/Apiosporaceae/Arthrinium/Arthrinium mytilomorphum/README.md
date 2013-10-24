@@ -1,5 +1,4 @@
-Arthrinium mytilomorphum Bhat & W.B. Kendr. SPECIES
-=======
+# Arthrinium mytilomorphum Bhat & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

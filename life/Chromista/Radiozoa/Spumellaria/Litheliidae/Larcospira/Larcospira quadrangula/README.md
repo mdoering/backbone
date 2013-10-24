@@ -1,5 +1,4 @@
-Larcospira quadrangula Haeckel, 1887 SPECIES
-=======
+# Larcospira quadrangula Haeckel, 1887 SPECIES
 
 #### Status
 ACCEPTED

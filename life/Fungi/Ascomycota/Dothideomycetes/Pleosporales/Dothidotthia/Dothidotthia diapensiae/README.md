@@ -1,5 +1,4 @@
-Dothidotthia diapensiae M.E. Barr SPECIES
-=======
+# Dothidotthia diapensiae M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

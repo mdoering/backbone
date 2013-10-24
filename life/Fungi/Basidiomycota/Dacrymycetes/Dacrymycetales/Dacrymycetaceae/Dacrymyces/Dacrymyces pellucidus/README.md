@@ -1,5 +1,4 @@
-Dacrymyces pellucidus Schwein. SPECIES
-=======
+# Dacrymyces pellucidus Schwein. SPECIES
 
 #### Status
 ACCEPTED

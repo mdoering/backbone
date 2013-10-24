@@ -1,17 +1,16 @@
-Buellia polyspora var. polyspora (Willey) Vain. VARIETY
-=======
+# Buellia polyspora (Willey) Vain. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Buellia polyspora var. polyspora (Willey) Vain.
+Buellia myriocarpa var. polyspora Willey
 
 ### Remarks
 null

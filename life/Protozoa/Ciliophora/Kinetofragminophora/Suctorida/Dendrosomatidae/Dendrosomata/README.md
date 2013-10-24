@@ -1,5 +1,4 @@
-Dendrosomata GENUS
-=======
+# Dendrosomata GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichothecium microvermisporum R.F. Castañeda SPECIES
-=======
+# Trichothecium microvermisporum R.F. Castañeda SPECIES
 
 #### Status
 ACCEPTED

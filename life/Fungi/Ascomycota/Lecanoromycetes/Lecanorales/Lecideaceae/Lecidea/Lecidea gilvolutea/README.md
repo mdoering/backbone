@@ -1,5 +1,4 @@
-Lecidea gilvolutea (Nyl.) Hue SPECIES
-=======
+# Lecidea gilvolutea (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

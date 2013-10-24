@@ -1,8 +1,7 @@
-Agaricus arginea Berk. & Broome SPECIES
-=======
+# Agaricus argineus Berk. & Broome SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Agaricus arginea Berk. & Broome
+Agaricus argineus Berk. & Broome
 
 ### Remarks
 null

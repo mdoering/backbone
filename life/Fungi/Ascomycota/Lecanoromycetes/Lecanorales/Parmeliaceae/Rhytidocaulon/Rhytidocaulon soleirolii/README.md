@@ -1,5 +1,4 @@
-Rhytidocaulon soleirolii (Schaer.) Elenk. SPECIES
-=======
+# Rhytidocaulon soleirolii (Schaer.) Elenk. SPECIES
 
 #### Status
 ACCEPTED

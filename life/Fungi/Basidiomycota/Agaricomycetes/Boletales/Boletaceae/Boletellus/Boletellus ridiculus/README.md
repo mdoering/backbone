@@ -1,5 +1,4 @@
-Boletellus ridiculus (Corner) H. Engel & Klofac SPECIES
-=======
+# Boletellus ridiculus (Corner) H. Engel & Klofac SPECIES
 
 #### Status
 ACCEPTED

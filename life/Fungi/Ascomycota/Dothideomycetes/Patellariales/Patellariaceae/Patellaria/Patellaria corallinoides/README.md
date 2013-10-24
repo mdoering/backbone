@@ -1,5 +1,4 @@
-Patellaria corallinoides (Schaer.) Müll. Arg. SPECIES
-=======
+# Patellaria corallinoides (Schaer.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psathyrella muricellata (Singer) Singer SPECIES
-=======
+# Psathyrella muricellata (Singer) Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrophoma rotalae Thirum. & Naras. SPECIES
-=======
+# Macrophoma rotalae Thirum. & Naras. SPECIES
 
 #### Status
 ACCEPTED

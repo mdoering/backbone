@@ -1,5 +1,4 @@
-Teloschistes costatus f. costatus FORM
-=======
+# Teloschistes costatus (J. Steiner) Hillmann SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Teloschistes costatus f. costatus
+Teloschistes flavicans var. costatus J. Steiner
 
 ### Remarks
 null

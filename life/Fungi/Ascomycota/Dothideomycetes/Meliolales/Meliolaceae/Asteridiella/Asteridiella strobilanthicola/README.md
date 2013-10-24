@@ -1,5 +1,4 @@
-Asteridiella strobilanthicola Hosag., H. Biju & Manojk. SPECIES
-=======
+# Asteridiella strobilanthicola Hosag., H. Biju & Manojk. SPECIES
 
 #### Status
 ACCEPTED

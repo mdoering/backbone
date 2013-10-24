@@ -1,5 +1,4 @@
-Cytospora capitata Fuckel SPECIES
-=======
+# Cytospora capitata Fuckel SPECIES
 
 #### Status
 ACCEPTED

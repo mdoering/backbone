@@ -1,5 +1,4 @@
-Telamonia brunnea SPECIES
-=======
+# Telamonia brunnea SPECIES
 
 #### Status
 ACCEPTED

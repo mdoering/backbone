@@ -1,17 +1,16 @@
-Chalara longipes f. austriaca Fautrey & Lambotte FORM
-=======
+# Chalara austriaca (Fautrey & Lambotte) Nag Raj & W.B. Kendr., 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Monogr. Chalara Allied Genera (Waterloo) 89 (1975)
 
 #### Original name
-Chalara longipes f. austriaca Fautrey & Lambotte
+Chalara longipes f. austriacae Fautrey & Lambotte, 1895
 
 ### Remarks
 null

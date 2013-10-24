@@ -1,17 +1,16 @@
-Corallomyces elegans var. elegans VARIETY
-=======
+# Corallomyces elegans SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
-J. Acad. nat. Sci. Philad. , N. S. 2: 289 (1853)
+null
 
 #### Original name
-Corallomyces elegans var. elegans
+null
 
 ### Remarks
 null

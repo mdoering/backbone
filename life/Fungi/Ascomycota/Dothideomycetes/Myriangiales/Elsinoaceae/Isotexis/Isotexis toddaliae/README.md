@@ -1,5 +1,4 @@
-Isotexis toddaliae Syd. SPECIES
-=======
+# Isotexis toddaliae Syd. SPECIES
 
 #### Status
 ACCEPTED

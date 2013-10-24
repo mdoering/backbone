@@ -1,5 +1,4 @@
-Peziza agaricoides (Retz.) Humb. SPECIES
-=======
+# Peziza agaricoides (Retz.) Humb. SPECIES
 
 #### Status
 ACCEPTED

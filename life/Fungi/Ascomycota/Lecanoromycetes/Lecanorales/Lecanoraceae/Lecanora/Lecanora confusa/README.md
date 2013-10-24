@@ -1,5 +1,4 @@
-Lecanora confusa Almb. SPECIES
-=======
+# Lecanora confusa Almb. SPECIES
 
 #### Status
 ACCEPTED

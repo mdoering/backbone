@@ -1,5 +1,4 @@
-Anthostoma urophorum Sacc. & Speg. SPECIES
-=======
+# Anthostoma urophorum Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

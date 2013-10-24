@@ -1,5 +1,4 @@
-Stilbum aquigenum Rebent. SPECIES
-=======
+# Stilbum aquigenum Rebent. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alectoria motykae D. Hawksw. SPECIES
-=======
+# Alectoria motykae D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

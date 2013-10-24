@@ -1,5 +1,4 @@
-Synedra filiformis var. exilis A.Cleve VARIETY
-=======
+# Synedra filiformis J. R. Carter & P. Denny SPECIES
 
 #### Status
 ACCEPTED

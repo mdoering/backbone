@@ -1,5 +1,4 @@
-Spirosigmoilina tateana (Howchin) SPECIES
-=======
+# Spirosigmoilina tateana (Howchin) SPECIES
 
 #### Status
 ACCEPTED

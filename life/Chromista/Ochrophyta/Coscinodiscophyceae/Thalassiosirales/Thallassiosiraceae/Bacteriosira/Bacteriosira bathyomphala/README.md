@@ -1,5 +1,4 @@
-Bacteriosira bathyomphala SPECIES
-=======
+# Bacteriosira bathyomphala SPECIES
 
 #### Status
 ACCEPTED

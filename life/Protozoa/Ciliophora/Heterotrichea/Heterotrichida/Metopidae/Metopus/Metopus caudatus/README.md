@@ -1,5 +1,4 @@
-Metopus caudatus Cunha, 1915 SPECIES
-=======
+# Metopus caudatus Cunha, 1915 SPECIES
 
 #### Status
 ACCEPTED

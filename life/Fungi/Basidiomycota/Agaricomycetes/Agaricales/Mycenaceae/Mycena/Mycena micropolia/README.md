@@ -1,5 +1,4 @@
-Mycena micropolia Singer SPECIES
-=======
+# Mycena micropolia Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Triadelphia stilboidea Mercado & R.F. Castañeda, 1983 SPECIES
-=======
+# Triadelphia stilboidea Mercado & R.F. Castañeda, 1983 SPECIES
 
 #### Status
 ACCEPTED

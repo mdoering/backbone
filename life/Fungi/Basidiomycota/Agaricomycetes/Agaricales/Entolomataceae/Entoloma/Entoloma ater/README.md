@@ -1,5 +1,4 @@
-Entoloma ater (Hongo) Hongo & Izawa SPECIES
-=======
+# Entoloma ater (Hongo) Hongo & Izawa SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Venturia viennotii var. viennotii M. Morelet VARIETY
-=======
+# Venturia viennotii M. Morelet, 1977 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Travaux Dédiés à Georges Viennot-Bourgin (Paris) 261 (1977)
 
 #### Original name
-Venturia viennotii var. viennotii M. Morelet
+Venturia viennotii M. Morelet, 1977
 
 ### Remarks
 null

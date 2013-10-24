@@ -1,5 +1,4 @@
-Delicatula faginea Velen. SPECIES
-=======
+# Delicatula faginea Velen. SPECIES
 
 #### Status
 ACCEPTED

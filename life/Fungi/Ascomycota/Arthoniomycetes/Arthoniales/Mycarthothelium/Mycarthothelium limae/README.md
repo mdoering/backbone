@@ -1,5 +1,4 @@
-Mycarthothelium limae Vain. SPECIES
-=======
+# Mycarthothelium limae Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rinodina homoboloides Vain. SPECIES
-=======
+# Rinodina homoboloides Vain. SPECIES
 
 #### Status
 ACCEPTED

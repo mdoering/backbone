@@ -1,5 +1,4 @@
-Ochrolechia glaucescens (Hue) Zahlbr. SPECIES
-=======
+# Ochrolechia glaucescens (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

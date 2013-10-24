@@ -1,5 +1,4 @@
-Diplodia watsoniana Tassi SPECIES
-=======
+# Diplodia watsoniana Tassi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria betulina (J. Lahm) Nyl. SPECIES
-=======
+# Verrucaria betulina (J. Lahm) Nyl. SPECIES
 
 #### Status
 ACCEPTED

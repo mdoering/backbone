@@ -1,5 +1,4 @@
-Agaricus vitellicolor Pers. SPECIES
-=======
+# Agaricus vitellicolor Pers. SPECIES
 
 #### Status
 ACCEPTED

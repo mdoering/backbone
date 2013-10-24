@@ -1,14 +1,13 @@
-Anthostomella rhizophorae Vizioli, 1923 SPECIES
-=======
+# Pterosporidium rhizophorae (Vizioli) W.H. Ho & K.D. Hyde, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 15(3): 112 (1923)
+Can. J. Bot. 74(11): 1828 (1996)
 
 #### Original name
 Anthostomella rhizophorae Vizioli, 1923

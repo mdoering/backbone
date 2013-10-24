@@ -1,5 +1,4 @@
-Dermapteromyces labiae Thaxt., 1931 SPECIES
-=======
+# Dermapteromyces labiae Thaxt., 1931 SPECIES
 
 #### Status
 ACCEPTED

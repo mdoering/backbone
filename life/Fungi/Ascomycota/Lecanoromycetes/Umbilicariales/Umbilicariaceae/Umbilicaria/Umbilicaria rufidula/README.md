@@ -1,5 +1,4 @@
-Umbilicaria rufidula (Hue) Filson SPECIES
-=======
+# Umbilicaria rufidula (Hue) Filson SPECIES
 
 #### Status
 ACCEPTED

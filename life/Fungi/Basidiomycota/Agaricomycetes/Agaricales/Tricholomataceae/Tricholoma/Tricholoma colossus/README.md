@@ -1,14 +1,13 @@
-Agaricus colossus Fr., 1838 SPECIES
-=======
+# Tricholoma colossus (Fr.) Quél., 1872 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Epicr. syst. mycol. (Upsaliae) 38 (1838)
+Mém. Soc. Émul. Montbéliard, Sér. 2 5: 76 (1872)
 
 #### Original name
 Agaricus colossus Fr., 1838

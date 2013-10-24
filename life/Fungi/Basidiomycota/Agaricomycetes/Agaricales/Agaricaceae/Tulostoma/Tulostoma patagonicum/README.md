@@ -1,5 +1,4 @@
-Tulostoma patagonicum Speg. SPECIES
-=======
+# Tulostoma patagonicum Speg. SPECIES
 
 #### Status
 ACCEPTED

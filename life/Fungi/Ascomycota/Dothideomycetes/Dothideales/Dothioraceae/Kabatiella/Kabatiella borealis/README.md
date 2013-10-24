@@ -1,14 +1,13 @@
-Kabatiella boreale (Ellis & Everh.) Arx SPECIES
-=======
+# Kabatiella borealis (Ellis & Everh.) Arx, 1957 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Rev. Gloeosporium 51: 65 (1957)
 
 #### Original name
 Gloeosporium boreale Ellis & Everh., 1894

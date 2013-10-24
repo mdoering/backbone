@@ -1,5 +1,4 @@
-Spermosporina graminicola (Peck) U. Braun SPECIES
-=======
+# Spermosporina graminicola (Peck) U. Braun SPECIES
 
 #### Status
 ACCEPTED

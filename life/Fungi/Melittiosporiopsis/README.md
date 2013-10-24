@@ -1,5 +1,4 @@
-Melittiosporiopsis F. von Höhnel, 1913 GENUS
-=======
+# Melittiosporiopsis F. von Höhnel, 1913 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora bangalorensis (Thirum. & Chupp) Deighton SPECIES
-=======
+# Pseudocercospora bangalorensis (Thirum. & Chupp) Deighton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina yoshinoi Katum. SPECIES
-=======
+# Asterina yoshinoi Katum. SPECIES
 
 #### Status
 ACCEPTED

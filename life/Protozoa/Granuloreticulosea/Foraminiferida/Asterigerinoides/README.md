@@ -1,5 +1,4 @@
-Asterigerinoides Bermudez, 1952 GENUS
-=======
+# Asterigerinoides Bermudez, 1952 GENUS
 
 #### Status
 ACCEPTED

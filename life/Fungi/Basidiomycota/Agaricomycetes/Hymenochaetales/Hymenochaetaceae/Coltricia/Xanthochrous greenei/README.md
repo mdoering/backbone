@@ -1,5 +1,4 @@
-Xanthochrous greenei (Berk.) Pat. SPECIES
-=======
+# Xanthochrous greenei (Berk.) Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dothidea annulata Cooke SPECIES
-=======
+# Dothidea annulata Cooke SPECIES
 
 #### Status
 ACCEPTED

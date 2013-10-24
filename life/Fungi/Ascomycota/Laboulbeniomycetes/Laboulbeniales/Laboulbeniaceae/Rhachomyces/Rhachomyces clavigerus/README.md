@@ -1,5 +1,4 @@
-Rhachomyces clavigerus Thaxt. SPECIES
-=======
+# Rhachomyces clavigerus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium ageratinae Savile SPECIES
-=======
+# Aecidium ageratinae Savile SPECIES
 
 #### Status
 ACCEPTED

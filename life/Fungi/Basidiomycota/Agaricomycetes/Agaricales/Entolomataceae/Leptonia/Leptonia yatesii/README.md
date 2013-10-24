@@ -1,5 +1,4 @@
-Leptonia yatesii (Murrill) Largent SPECIES
-=======
+# Leptonia yatesii (Murrill) Largent SPECIES
 
 #### Status
 ACCEPTED

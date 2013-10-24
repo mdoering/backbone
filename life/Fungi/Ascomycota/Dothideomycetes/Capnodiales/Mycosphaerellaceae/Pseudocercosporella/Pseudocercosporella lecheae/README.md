@@ -1,5 +1,4 @@
-Pseudocercosporella lecheae U. Braun SPECIES
-=======
+# Pseudocercosporella lecheae U. Braun SPECIES
 
 #### Status
 ACCEPTED

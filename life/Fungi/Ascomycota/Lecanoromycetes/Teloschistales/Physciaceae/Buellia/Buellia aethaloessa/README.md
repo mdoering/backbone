@@ -1,5 +1,4 @@
-Buellia aethaloessa (Stizenb.) Zahlbr. SPECIES
-=======
+# Buellia aethaloessa (Stizenb.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

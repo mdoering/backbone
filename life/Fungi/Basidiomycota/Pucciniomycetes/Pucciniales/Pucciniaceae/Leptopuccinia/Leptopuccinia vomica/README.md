@@ -1,5 +1,4 @@
-Leptopuccinia vomica (Thüm.) Syd. {?} SPECIES
-=======
+# Leptopuccinia vomica (Thüm.) Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

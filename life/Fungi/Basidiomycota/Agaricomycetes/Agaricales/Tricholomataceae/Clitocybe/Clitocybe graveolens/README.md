@@ -1,5 +1,4 @@
-Clitocybe graveolens (Peck) H.E. Bigelow & A.H. Sm. SPECIES
-=======
+# Clitocybe graveolens (Peck) H.E. Bigelow & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

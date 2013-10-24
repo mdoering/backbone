@@ -1,5 +1,4 @@
-Psora panaeola (Ach.) Anzi SPECIES
-=======
+# Psora panaeola (Ach.) Anzi SPECIES
 
 #### Status
 ACCEPTED

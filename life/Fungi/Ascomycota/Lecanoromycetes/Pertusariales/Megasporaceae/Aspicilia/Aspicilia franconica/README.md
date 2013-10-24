@@ -1,5 +1,4 @@
-Aspicilia franconica (H. Magn.) Motyka SPECIES
-=======
+# Aspicilia franconica (H. Magn.) Motyka SPECIES
 
 #### Status
 ACCEPTED

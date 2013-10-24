@@ -1,5 +1,4 @@
-Microsphaeropsis caloplacae Etayo & Yazici SPECIES
-=======
+# Microsphaeropsis caloplacae Etayo & Yazici SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ceuthocarpon punctiforme Sacc. SPECIES
-=======
+# Ceuthocarpon punctiforme Sacc. SPECIES
 
 #### Status
 ACCEPTED

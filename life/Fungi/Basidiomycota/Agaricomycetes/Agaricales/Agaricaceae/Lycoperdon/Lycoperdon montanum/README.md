@@ -1,5 +1,4 @@
-Lycoperdon montanum Quél. SPECIES
-=======
+# Lycoperdon montanum Quél. SPECIES
 
 #### Status
 ACCEPTED

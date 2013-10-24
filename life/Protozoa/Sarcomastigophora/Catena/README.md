@@ -1,5 +1,4 @@
-Catena Schröder, Medioli & Scott, 1989 GENUS
-=======
+# Catena Schröder, Medioli & Scott, 1989 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta pitcheriana Fairm. SPECIES
-=======
+# Phyllosticta pitcheriana Fairm. SPECIES
 
 #### Status
 ACCEPTED

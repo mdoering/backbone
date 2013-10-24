@@ -1,17 +1,16 @@
-Sphaeria complanata var. complanata VARIETY
-=======
+# Phoma complanata (Tode) Desm., 1881 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Michelia 2(no. 7): 337 (1881)
 
 #### Original name
-null
+Sphaeria complanata Tode, 1791
 
 ### Remarks
 null

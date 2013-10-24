@@ -1,5 +1,4 @@
-Acarospora guadeloupensis H. Magn. SPECIES
-=======
+# Acarospora guadeloupensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

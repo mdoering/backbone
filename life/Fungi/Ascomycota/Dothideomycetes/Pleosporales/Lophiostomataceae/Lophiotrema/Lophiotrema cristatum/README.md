@@ -1,5 +1,4 @@
-Lophiotrema cristatum Fabre SPECIES
-=======
+# Lophiotrema cristatum Fabre SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudotrochammina dehiscens (Frerichs, 1969) SPECIES
-=======
+# Pseudotrochammina dehiscens (Frerichs, 1969) SPECIES
 
 #### Status
 ACCEPTED

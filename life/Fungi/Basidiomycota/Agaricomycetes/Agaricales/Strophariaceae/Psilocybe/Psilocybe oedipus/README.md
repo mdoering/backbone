@@ -1,5 +1,4 @@
-Psilocybe oedipus Massee SPECIES
-=======
+# Psilocybe oedipus Massee SPECIES
 
 #### Status
 ACCEPTED

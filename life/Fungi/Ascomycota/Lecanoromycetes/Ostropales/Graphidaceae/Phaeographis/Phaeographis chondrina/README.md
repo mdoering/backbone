@@ -1,5 +1,4 @@
-Phaeographis chondrina Redinger SPECIES
-=======
+# Phaeographis chondrina Redinger SPECIES
 
 #### Status
 ACCEPTED

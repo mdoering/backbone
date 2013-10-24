@@ -1,17 +1,16 @@
-Coprinus velox var. velox Godey VARIETY
-=======
+# Coprinus velox Godey, 1878 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 in Gillet, Champ. Fr. 614 (1878)
 
 #### Original name
-Coprinus velox var. velox Godey
+Coprinus velox Godey, 1878
 
 ### Remarks
 null

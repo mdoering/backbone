@@ -1,5 +1,4 @@
-Amerosporium indicum A. Pande SPECIES
-=======
+# Amerosporium indicum A. Pande SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus coruscans Fr. SPECIES
-=======
+# Polyporus coruscans Fr. SPECIES
 
 #### Status
 ACCEPTED

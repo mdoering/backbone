@@ -1,5 +1,4 @@
-Phyllostictina hederae S.K. Bose, A.J. Roy & V.P. Jain SPECIES
-=======
+# Phyllostictina hederae S.K. Bose, A.J. Roy & V.P. Jain SPECIES
 
 #### Status
 ACCEPTED

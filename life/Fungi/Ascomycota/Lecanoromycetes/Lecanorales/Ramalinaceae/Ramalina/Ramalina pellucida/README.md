@@ -1,5 +1,4 @@
-Ramalina pellucida Taylor SPECIES
-=======
+# Ramalina pellucida Taylor SPECIES
 
 #### Status
 ACCEPTED

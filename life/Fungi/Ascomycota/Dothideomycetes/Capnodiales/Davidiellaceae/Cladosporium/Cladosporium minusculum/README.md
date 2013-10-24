@@ -1,5 +1,4 @@
-Cladosporium minusculum Sacc. SPECIES
-=======
+# Cladosporium minusculum Sacc. SPECIES
 
 #### Status
 ACCEPTED

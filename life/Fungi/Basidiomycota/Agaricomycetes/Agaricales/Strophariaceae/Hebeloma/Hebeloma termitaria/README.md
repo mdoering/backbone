@@ -1,5 +1,4 @@
-Hebeloma termitaria De Kesel, Codjia & Yourou SPECIES
-=======
+# Hebeloma termitaria De Kesel, Codjia & Yourou SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhabdospora cirsiella Syd. SPECIES
-=======
+# Rhabdospora cirsiella Syd. SPECIES
 
 #### Status
 ACCEPTED

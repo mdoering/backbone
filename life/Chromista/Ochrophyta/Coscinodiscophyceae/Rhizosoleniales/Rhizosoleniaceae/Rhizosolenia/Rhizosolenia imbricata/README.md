@@ -1,8 +1,7 @@
-Rhizosolenia shrubsolei P.T. Cleve, 1881 SPECIES
-=======
+# Rhizosolenia imbricata Brightwell, 1858 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

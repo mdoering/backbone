@@ -1,5 +1,4 @@
-Phaeographina amnicola A.W. Archer SPECIES
-=======
+# Phaeographina amnicola A.W. Archer SPECIES
 
 #### Status
 ACCEPTED

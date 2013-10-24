@@ -1,5 +1,4 @@
-Acanthostaurus nordgaardi SPECIES
-=======
+# Acanthostaurus nordgaardi SPECIES
 
 #### Status
 ACCEPTED

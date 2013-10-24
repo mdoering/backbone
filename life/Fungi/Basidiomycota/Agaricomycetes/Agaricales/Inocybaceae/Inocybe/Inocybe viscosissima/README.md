@@ -1,5 +1,4 @@
-Inocybe viscosissima (Fr.) P. Karst. SPECIES
-=======
+# Inocybe viscosissima (Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

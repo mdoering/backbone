@@ -1,5 +1,4 @@
-Isocystis pallida Woron. SPECIES
-=======
+# Isocystis pallida Woron. SPECIES
 
 #### Status
 ACCEPTED

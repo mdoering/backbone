@@ -1,5 +1,4 @@
-Ascochyta ledi Rostr. SPECIES
-=======
+# Ascochyta ledi Rostr. SPECIES
 
 #### Status
 ACCEPTED

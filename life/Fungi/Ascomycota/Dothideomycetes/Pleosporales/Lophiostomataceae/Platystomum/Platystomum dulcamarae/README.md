@@ -1,5 +1,4 @@
-Platystomum dulcamarae Kirschst. SPECIES
-=======
+# Platystomum dulcamarae Kirschst. SPECIES
 
 #### Status
 ACCEPTED

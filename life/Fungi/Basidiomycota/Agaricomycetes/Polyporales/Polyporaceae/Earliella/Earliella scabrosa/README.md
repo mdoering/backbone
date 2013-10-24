@@ -1,17 +1,16 @@
-Trametes persoonii var. persoonii VARIETY
-=======
+# Earliella scabrosa (Pers.) Gilb. & Ryvarden, 1985 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 30(3): 341 (1914)
+Mycotaxon 22(2): 364 (1985)
 
 #### Original name
-Trametes persoonii var. persoonii
+Polyporus scabrosus Pers., 1827
 
 ### Remarks
 null

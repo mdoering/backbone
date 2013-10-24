@@ -1,5 +1,4 @@
-Alternaria americana Sawada SPECIES
-=======
+# Alternaria americana Sawada SPECIES
 
 #### Status
 ACCEPTED

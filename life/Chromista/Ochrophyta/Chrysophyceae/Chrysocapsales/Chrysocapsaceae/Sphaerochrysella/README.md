@@ -1,5 +1,4 @@
-Sphaerochrysella Pascher, 1928 GENUS
-=======
+# Sphaerochrysella Pascher, 1928 GENUS
 
 #### Status
 SYNONYM

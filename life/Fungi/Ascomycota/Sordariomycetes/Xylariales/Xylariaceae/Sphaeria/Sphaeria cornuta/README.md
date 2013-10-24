@@ -1,5 +1,4 @@
-Sphaeria cornuta Hoffm. SPECIES
-=======
+# Sphaeria cornuta Hoffm. SPECIES
 
 #### Status
 ACCEPTED

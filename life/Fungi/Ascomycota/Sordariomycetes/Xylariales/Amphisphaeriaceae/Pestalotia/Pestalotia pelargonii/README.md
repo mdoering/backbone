@@ -1,5 +1,4 @@
-Pestalotia pelargonii Laughton SPECIES
-=======
+# Pestalotia pelargonii Laughton SPECIES
 
 #### Status
 ACCEPTED

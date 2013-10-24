@@ -1,5 +1,4 @@
-Stigmatea plantaginis Tehon & E.Y. Daniels SPECIES
-=======
+# Stigmatea plantaginis Tehon & E.Y. Daniels SPECIES
 
 #### Status
 ACCEPTED

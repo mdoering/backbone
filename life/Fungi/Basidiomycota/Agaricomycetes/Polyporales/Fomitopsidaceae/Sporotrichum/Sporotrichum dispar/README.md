@@ -1,5 +1,4 @@
-Sporotrichum dispar Vidal {?} SPECIES
-=======
+# Sporotrichum dispar Vidal {?} SPECIES
 
 #### Status
 ACCEPTED

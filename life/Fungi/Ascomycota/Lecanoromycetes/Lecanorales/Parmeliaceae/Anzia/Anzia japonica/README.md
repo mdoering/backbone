@@ -1,5 +1,4 @@
-Anzia japonica f. japonica FORM
-=======
+# Anzia japonica (Tuck.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Anzia japonica f. japonica
+Parmelia japonica Tuck.
 
 ### Remarks
 null

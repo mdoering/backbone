@@ -1,5 +1,4 @@
-Aposphaeria epicorticalis Sacc. SPECIES
-=======
+# Aposphaeria epicorticalis Sacc. SPECIES
 
 #### Status
 ACCEPTED

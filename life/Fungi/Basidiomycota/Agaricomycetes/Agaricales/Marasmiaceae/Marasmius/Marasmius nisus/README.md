@@ -1,5 +1,4 @@
-Marasmius nisus Britzelm. SPECIES
-=======
+# Marasmius nisus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

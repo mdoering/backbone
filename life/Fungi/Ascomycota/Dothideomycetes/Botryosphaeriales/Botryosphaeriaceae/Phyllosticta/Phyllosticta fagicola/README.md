@@ -1,5 +1,4 @@
-Phyllosticta fagicola Ellis & G. Martin SPECIES
-=======
+# Phyllosticta fagicola Ellis & G. Martin SPECIES
 
 #### Status
 ACCEPTED

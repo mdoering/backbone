@@ -1,5 +1,4 @@
-Hippocrepinella remanei f. anulata Rhumbler, 1935 FORM
-=======
+# Hippocrepinella remanei Rhumbler, 1935 SPECIES
 
 #### Status
 ACCEPTED

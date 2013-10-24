@@ -1,5 +1,4 @@
-Textularia pseudotrochus Cushman, 1922 SPECIES
-=======
+# Textularia pseudotrochus Cushman, 1922 SPECIES
 
 #### Status
 ACCEPTED

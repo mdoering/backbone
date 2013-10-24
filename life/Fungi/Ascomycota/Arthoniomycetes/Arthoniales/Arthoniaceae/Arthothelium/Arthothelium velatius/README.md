@@ -1,5 +1,4 @@
-Arthothelium velatius Müll. Arg. SPECIES
-=======
+# Arthothelium velatius Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

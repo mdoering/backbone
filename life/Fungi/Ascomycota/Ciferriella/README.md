@@ -1,5 +1,4 @@
-Ciferriella Petr. GENUS
-=======
+# Ciferriella Petr. GENUS
 
 #### Status
 ACCEPTED

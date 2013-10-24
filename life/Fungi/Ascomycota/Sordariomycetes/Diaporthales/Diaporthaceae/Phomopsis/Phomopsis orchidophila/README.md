@@ -1,5 +1,4 @@
-Phomopsis orchidophila E.K. Cash & A.M.J. Watson SPECIES
-=======
+# Phomopsis orchidophila E.K. Cash & A.M.J. Watson SPECIES
 
 #### Status
 ACCEPTED

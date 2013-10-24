@@ -1,5 +1,4 @@
-Navicella cirrosa (Nees) Kuntze SPECIES
-=======
+# Navicella cirrosa (Nees) Kuntze SPECIES
 
 #### Status
 ACCEPTED

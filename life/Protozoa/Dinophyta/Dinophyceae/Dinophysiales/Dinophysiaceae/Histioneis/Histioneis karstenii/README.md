@@ -1,5 +1,4 @@
-Histioneis karstenii Kofoid & Michener, 1911 SPECIES
-=======
+# Histioneis karstenii Kofoid & Michener, 1911 SPECIES
 
 #### Status
 ACCEPTED

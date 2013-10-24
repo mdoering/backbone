@@ -1,5 +1,4 @@
-Meliola bussei Mibey SPECIES
-=======
+# Meliola bussei Mibey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces fritillariae Thüm. SPECIES
-=======
+# Uromyces fritillariae Thüm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Laeticorticium simplicibasidium Lindsey & Gilb., 1977 SPECIES
-=======
+# Celatogloea simplicibasidium (Lindsey & Gilb.) P. Roberts, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 5(1): 317 (1977)
+Mycologist 19(2): 69 (2005)
 
 #### Original name
 Laeticorticium simplicibasidium Lindsey & Gilb., 1977

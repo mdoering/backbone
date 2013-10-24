@@ -1,17 +1,16 @@
-Polystictus xanthopus var. xanthopus VARIETY
-=======
+# Microporus xanthopus (Fr.) Kuntze, 1898 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nov. Symb. Myc. 58 (1851)
+Revis. gen. pl. (Leipzig) 3(2): 494 (1898)
 
 #### Original name
-Polystictus xanthopus var. xanthopus
+Polyporus xanthopus Fr., 1818
 
 ### Remarks
 null

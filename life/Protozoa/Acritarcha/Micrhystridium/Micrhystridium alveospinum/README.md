@@ -1,5 +1,4 @@
-Micrhystridium alveospinum Davey, 1970 SPECIES
-=======
+# Micrhystridium alveospinum Davey, 1970 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Strobilomyces indica Lloyd SPECIES
-=======
+# Strobilomyces indica Lloyd SPECIES
 
 #### Status
 ACCEPTED

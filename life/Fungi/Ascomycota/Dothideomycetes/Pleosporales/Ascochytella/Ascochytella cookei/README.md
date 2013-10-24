@@ -1,5 +1,4 @@
-Ascochytella cookei Tassi SPECIES
-=======
+# Ascochytella cookei Tassi SPECIES
 
 #### Status
 ACCEPTED

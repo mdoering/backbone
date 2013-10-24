@@ -1,5 +1,4 @@
-Cortinarius vitellinopes Secr. ex Gillet SPECIES
-=======
+# Cortinarius vitellinopes Secr. ex Gillet SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melanotheca irregularis Zahlbr. SPECIES
-=======
+# Melanotheca irregularis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

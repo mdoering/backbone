@@ -1,5 +1,4 @@
-Pseudapiospora moravica Petr. SPECIES
-=======
+# Pseudapiospora moravica Petr. SPECIES
 
 #### Status
 ACCEPTED

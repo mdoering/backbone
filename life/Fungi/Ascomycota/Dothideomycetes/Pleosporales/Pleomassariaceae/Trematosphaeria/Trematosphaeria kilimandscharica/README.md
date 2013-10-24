@@ -1,5 +1,4 @@
-Trematosphaeria kilimandscharica Henn. SPECIES
-=======
+# Trematosphaeria kilimandscharica Henn. SPECIES
 
 #### Status
 ACCEPTED

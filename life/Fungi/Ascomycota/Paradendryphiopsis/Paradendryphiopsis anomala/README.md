@@ -1,5 +1,4 @@
-Paradendryphiopsis anomala Morgan-Jones, R.C. Sinclair & Eicker, 1983 SPECIES
-=======
+# Paradendryphiopsis anomala Morgan-Jones, R.C. Sinclair & Eicker, 1983 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dicaeoma rhododendri (Fuckel) Kuntze SPECIES
-=======
+# Dicaeoma rhododendri (Fuckel) Kuntze SPECIES
 
 #### Status
 ACCEPTED

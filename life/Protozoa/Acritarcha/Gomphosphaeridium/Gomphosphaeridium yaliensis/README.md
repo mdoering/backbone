@@ -1,5 +1,4 @@
-Gomphosphaeridium yaliensis Gao Lianda, 1988 SPECIES
-=======
+# Gomphosphaeridium yaliensis Gao Lianda, 1988 SPECIES
 
 #### Status
 ACCEPTED

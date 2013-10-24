@@ -1,5 +1,4 @@
-Sarcostromella amorpha Boedijn SPECIES
-=======
+# Sarcostromella amorpha Boedijn SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Haplotrichum Eschweiler, 1824 GENUS
-=======
+# Haplotrichum Eschweiler, 1824 GENUS
 
 #### Status
 ACCEPTED

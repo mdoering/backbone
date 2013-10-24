@@ -1,5 +1,4 @@
-Pestalotia vermiformis Massee SPECIES
-=======
+# Pestalotia vermiformis Massee SPECIES
 
 #### Status
 ACCEPTED

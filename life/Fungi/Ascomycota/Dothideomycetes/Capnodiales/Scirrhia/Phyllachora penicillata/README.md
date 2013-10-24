@@ -1,5 +1,4 @@
-Phyllachora penicillata (Schwein.) Sacc., 1883 SPECIES
-=======
+# Phyllachora penicillata (Schwein.) Sacc., 1883 SPECIES
 
 #### Status
 DOUBTFUL

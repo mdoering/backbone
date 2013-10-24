@@ -1,5 +1,4 @@
-Trametes stuckertiana (Speg.) Speg. SPECIES
-=======
+# Trametes stuckertiana (Speg.) Speg. SPECIES
 
 #### Status
 ACCEPTED

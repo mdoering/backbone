@@ -1,5 +1,4 @@
-Nolanea substrictia Largent SPECIES
-=======
+# Nolanea substrictia Largent SPECIES
 
 #### Status
 ACCEPTED

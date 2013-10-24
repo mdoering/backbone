@@ -1,5 +1,4 @@
-Buellia microsticta (Meyen & Flot.) Müll. Arg. SPECIES
-=======
+# Buellia microsticta (Meyen & Flot.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

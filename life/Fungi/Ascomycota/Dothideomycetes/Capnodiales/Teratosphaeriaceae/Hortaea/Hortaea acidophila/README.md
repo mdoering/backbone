@@ -1,5 +1,4 @@
-Hortaea acidophila Hölker, Bend, Pracht, Tetsch, Tob. Müll., M. Höfer & de Hoog SPECIES
-=======
+# Hortaea acidophila Hölker, Bend, Pracht, Tetsch, Tob. Müll., M. Höfer & de Hoog SPECIES
 
 #### Status
 ACCEPTED

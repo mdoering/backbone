@@ -1,5 +1,4 @@
-Cordyceps rubripunctata Moureau SPECIES
-=======
+# Cordyceps rubripunctata Moureau SPECIES
 
 #### Status
 ACCEPTED

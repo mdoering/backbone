@@ -1,5 +1,4 @@
-Pleurodiscus wettsteinii Petr. SPECIES
-=======
+# Pleurodiscus wettsteinii Petr. SPECIES
 
 #### Status
 ACCEPTED

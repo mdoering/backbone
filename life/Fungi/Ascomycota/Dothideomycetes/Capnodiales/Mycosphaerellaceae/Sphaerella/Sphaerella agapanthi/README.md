@@ -1,5 +1,4 @@
-Sphaerella agapanthi Kalchbr. & Cooke SPECIES
-=======
+# Sphaerella agapanthi Kalchbr. & Cooke SPECIES
 
 #### Status
 ACCEPTED

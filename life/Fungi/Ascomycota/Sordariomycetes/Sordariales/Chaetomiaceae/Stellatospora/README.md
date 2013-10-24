@@ -1,5 +1,4 @@
-Stellatospora Tad. Ito & Nakagiri GENUS
-=======
+# Stellatospora Tad. Ito & Nakagiri GENUS
 
 #### Status
 ACCEPTED

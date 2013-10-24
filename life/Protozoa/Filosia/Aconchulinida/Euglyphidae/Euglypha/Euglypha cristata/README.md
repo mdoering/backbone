@@ -1,5 +1,4 @@
-Euglypha cristata Leidy SPECIES
-=======
+# Euglypha cristata Leidy SPECIES
 
 #### Status
 ACCEPTED

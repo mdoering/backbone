@@ -1,5 +1,4 @@
-Coprinus nebulosus Zoll. SPECIES
-=======
+# Coprinus nebulosus Zoll. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xanthoparmelia swartbergensis Hale SPECIES
-=======
+# Xanthoparmelia swartbergensis Hale SPECIES
 
 #### Status
 ACCEPTED

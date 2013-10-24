@@ -1,5 +1,4 @@
-Euglena sociabilis P.A. Dangeard SPECIES
-=======
+# Euglena sociabilis P.A. Dangeard SPECIES
 
 #### Status
 ACCEPTED

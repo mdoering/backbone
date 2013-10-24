@@ -1,5 +1,4 @@
-Ramularia polygoni Pandotra & Ganguly SPECIES
-=======
+# Ramularia polygoni Pandotra & Ganguly SPECIES
 
 #### Status
 ACCEPTED

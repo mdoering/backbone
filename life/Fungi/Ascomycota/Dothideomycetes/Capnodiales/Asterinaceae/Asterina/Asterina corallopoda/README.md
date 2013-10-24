@@ -1,5 +1,4 @@
-Asterina corallopoda Syd., 1939 SPECIES
-=======
+# Asterina corallopoda Syd., 1939 SPECIES
 
 #### Status
 ACCEPTED

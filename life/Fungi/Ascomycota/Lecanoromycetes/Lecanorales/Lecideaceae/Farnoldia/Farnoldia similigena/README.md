@@ -1,5 +1,4 @@
-Farnoldia similigena (Nyl.) Hertel SPECIES
-=======
+# Farnoldia similigena (Nyl.) Hertel SPECIES
 
 #### Status
 ACCEPTED

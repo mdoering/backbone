@@ -1,17 +1,16 @@
-Trichia favoginea persimilis (P. Karst.) Y. Yamam., 1998 INFRASPECIFIC_NAME
-=======
+# Trichia persimilis P. Karst., 1868 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Not. Sällsk. Fauna et Fl. Fenn. Förh. , Preprint 9: 353 (1868)
 
 #### Original name
-null
+Trichia persimilis P. Karst., 1868
 
 ### Remarks
 null

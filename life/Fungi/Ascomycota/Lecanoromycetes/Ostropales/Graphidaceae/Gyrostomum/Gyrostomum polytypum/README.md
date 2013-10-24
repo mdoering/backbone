@@ -1,5 +1,4 @@
-Gyrostomum polytypum Vain. SPECIES
-=======
+# Gyrostomum polytypum Vain. SPECIES
 
 #### Status
 ACCEPTED

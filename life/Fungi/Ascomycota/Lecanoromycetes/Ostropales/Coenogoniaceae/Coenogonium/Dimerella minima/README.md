@@ -1,5 +1,4 @@
-Dimerella minima (Müll. Arg.) R. Sant. SPECIES
-=======
+# Dimerella minima (Müll. Arg.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

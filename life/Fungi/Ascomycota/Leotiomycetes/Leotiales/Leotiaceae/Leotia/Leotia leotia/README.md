@@ -1,5 +1,4 @@
-Leotia leotia Pers. SPECIES
-=======
+# Leotia leotia Pers. SPECIES
 
 #### Status
 ACCEPTED

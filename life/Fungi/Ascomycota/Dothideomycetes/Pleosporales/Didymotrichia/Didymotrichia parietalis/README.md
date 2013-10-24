@@ -1,5 +1,4 @@
-Didymotrichia parietalis Berl. SPECIES
-=======
+# Didymotrichia parietalis Berl. SPECIES
 
 #### Status
 ACCEPTED

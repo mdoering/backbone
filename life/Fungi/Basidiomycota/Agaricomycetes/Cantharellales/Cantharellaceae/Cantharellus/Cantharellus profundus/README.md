@@ -1,5 +1,4 @@
-Cantharellus profundus Velen. SPECIES
-=======
+# Cantharellus profundus Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporidesmium ilicis Jian Ma & X.G. Zhang SPECIES
-=======
+# Sporidesmium ilicis Jian Ma & X.G. Zhang SPECIES
 
 #### Status
 ACCEPTED

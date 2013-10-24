@@ -1,5 +1,4 @@
-Dicaeoma griseum (F. Strauss) Kuntze SPECIES
-=======
+# Dicaeoma griseum (F. Strauss) Kuntze SPECIES
 
 #### Status
 ACCEPTED

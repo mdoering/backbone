@@ -1,5 +1,4 @@
-Bavlinella magna Lei Zuoqi, 1982 SPECIES
-=======
+# Bavlinella magna Lei Zuoqi, 1982 SPECIES
 
 #### Status
 ACCEPTED

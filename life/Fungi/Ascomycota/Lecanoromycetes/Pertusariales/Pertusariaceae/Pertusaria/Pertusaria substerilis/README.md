@@ -1,5 +1,4 @@
-Pertusaria substerilis Zahlbr. SPECIES
-=======
+# Pertusaria substerilis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

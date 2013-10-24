@@ -1,5 +1,4 @@
-Choristocarpus tenellus Zanardini SPECIES
-=======
+# Choristocarpus tenellus Zanardini SPECIES
 
 #### Status
 ACCEPTED

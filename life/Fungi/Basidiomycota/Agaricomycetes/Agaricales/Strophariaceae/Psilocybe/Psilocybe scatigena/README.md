@@ -1,5 +1,4 @@
-Psilocybe scatigena (Berk. & M.A. Curtis) Guzmán SPECIES
-=======
+# Psilocybe scatigena (Berk. & M.A. Curtis) Guzmán SPECIES
 
 #### Status
 ACCEPTED

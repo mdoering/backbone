@@ -1,5 +1,4 @@
-Conida inundata (Vain.) Sacc. & D. Sacc. SPECIES
-=======
+# Conida inundata (Vain.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

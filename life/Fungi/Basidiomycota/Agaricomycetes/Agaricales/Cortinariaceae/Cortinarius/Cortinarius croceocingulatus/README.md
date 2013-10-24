@@ -1,5 +1,4 @@
-Cortinarius croceocingulatus N. Arnold & E. Ludw. SPECIES
-=======
+# Cortinarius croceocingulatus N. Arnold & E. Ludw. SPECIES
 
 #### Status
 ACCEPTED

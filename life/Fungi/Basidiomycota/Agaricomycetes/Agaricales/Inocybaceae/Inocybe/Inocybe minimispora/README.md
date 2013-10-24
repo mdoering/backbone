@@ -1,5 +1,4 @@
-Inocybe minimispora Reumaux SPECIES
-=======
+# Inocybe minimispora Reumaux SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia schnyderi Speg. SPECIES
-=======
+# Puccinia schnyderi Speg. SPECIES
 
 #### Status
 ACCEPTED

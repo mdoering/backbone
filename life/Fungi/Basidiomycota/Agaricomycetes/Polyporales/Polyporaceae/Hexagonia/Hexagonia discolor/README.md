@@ -1,5 +1,4 @@
-Hexagonia discolor (Fr.) Fr. SPECIES
-=======
+# Hexagonia discolor (Fr.) Fr. SPECIES
 
 #### Status
 ACCEPTED

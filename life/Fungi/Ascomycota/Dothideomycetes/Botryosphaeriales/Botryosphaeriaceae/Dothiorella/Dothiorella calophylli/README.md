@@ -1,5 +1,4 @@
-Dothiorella calophylli (Syd.) Syd. SPECIES
-=======
+# Dothiorella calophylli (Syd.) Syd. SPECIES
 
 #### Status
 ACCEPTED

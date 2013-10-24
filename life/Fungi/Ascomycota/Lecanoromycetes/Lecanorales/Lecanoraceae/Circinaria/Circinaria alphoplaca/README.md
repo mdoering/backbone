@@ -1,5 +1,4 @@
-Circinaria alphoplaca (Wahlenb.) M. Choisy SPECIES
-=======
+# Circinaria alphoplaca (Wahlenb.) M. Choisy SPECIES
 
 #### Status
 ACCEPTED

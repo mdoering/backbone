@@ -1,5 +1,4 @@
-Marasmius cyathula Henn. SPECIES
-=======
+# Marasmius cyathula Henn. SPECIES
 
 #### Status
 ACCEPTED

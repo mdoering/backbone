@@ -1,14 +1,13 @@
-Tubulicrinis gladiola (G. Cunn.) G. Cunn. SPECIES
-=======
+# Litschauerella gladiola (G. Cunn.) Stalpers & P.K. Buchanan, 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+N. Z. Jl Bot. 29(3): 334 (1991)
 
 #### Original name
 Peniophora gladiola G. Cunn., 1955

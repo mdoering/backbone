@@ -1,5 +1,4 @@
-Elsinoe ledi (Peck) Zeller SPECIES
-=======
+# Elsinoe ledi (Peck) Zeller SPECIES
 
 #### Status
 ACCEPTED

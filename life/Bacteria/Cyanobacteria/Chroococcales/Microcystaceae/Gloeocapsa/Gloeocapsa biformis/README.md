@@ -1,5 +1,4 @@
-Gloeocapsa biformis Ercegovic SPECIES
-=======
+# Gloeocapsa biformis Ercegovic SPECIES
 
 #### Status
 ACCEPTED

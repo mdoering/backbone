@@ -1,5 +1,4 @@
-Menegazzia dielsii (Hillmann) R. Sant. SPECIES
-=======
+# Menegazzia dielsii (Hillmann) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

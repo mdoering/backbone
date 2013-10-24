@@ -1,5 +1,4 @@
-Leucocortinarius J.E. Lange, 1935 GENUS
-=======
+# Leucocortinarius J.E. Lange, 1935 GENUS
 
 #### Status
 ACCEPTED

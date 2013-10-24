@@ -1,17 +1,16 @@
-Viennotidea raphani (Malloch) P.F. Cannon & D. Hawksw. SPECIES
-=======
+# Viennotidia raphani Negru & Verona SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycopath. Mycol. appl. 30: 307 (1966)
 
 #### Original name
-Sphaeronaemella raphani Malloch
+Viennotidia raphani Negru & Verona
 
 ### Remarks
 null

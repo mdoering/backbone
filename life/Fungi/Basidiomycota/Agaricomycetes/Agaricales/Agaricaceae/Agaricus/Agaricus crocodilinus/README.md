@@ -1,5 +1,4 @@
-Agaricus crocodilinus Murrill SPECIES
-=======
+# Agaricus crocodilinus Murrill SPECIES
 
 #### Status
 ACCEPTED

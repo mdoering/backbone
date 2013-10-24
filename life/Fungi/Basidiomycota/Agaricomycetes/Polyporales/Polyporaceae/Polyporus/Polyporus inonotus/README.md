@@ -1,5 +1,4 @@
-Polyporus inonotus Sacc. SPECIES
-=======
+# Polyporus inonotus Sacc. SPECIES
 
 #### Status
 ACCEPTED

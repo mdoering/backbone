@@ -1,5 +1,4 @@
-Penzigia GENUS
-=======
+# Penzigia GENUS
 
 #### Status
 ACCEPTED

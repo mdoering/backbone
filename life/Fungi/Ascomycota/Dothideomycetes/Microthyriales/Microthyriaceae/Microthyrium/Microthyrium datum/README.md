@@ -1,5 +1,4 @@
-Microthyrium datum Rehm SPECIES
-=======
+# Microthyrium datum Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stagonospora macromaculans H.C. Greene SPECIES
-=======
+# Stagonospora macromaculans H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma ornithophila E. Bommer, M. Rousseau & Sacc. SPECIES
-=======
+# Phoma ornithophila E. Bommer, M. Rousseau & Sacc. SPECIES
 
 #### Status
 ACCEPTED

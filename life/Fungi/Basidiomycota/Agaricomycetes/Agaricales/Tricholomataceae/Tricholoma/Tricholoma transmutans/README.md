@@ -1,5 +1,4 @@
-Tricholoma transmutans (Peck) Sacc. SPECIES
-=======
+# Tricholoma transmutans (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

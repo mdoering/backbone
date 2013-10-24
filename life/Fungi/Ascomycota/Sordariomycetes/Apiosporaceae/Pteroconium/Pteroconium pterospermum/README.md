@@ -1,5 +1,4 @@
-Pteroconium pterospermum (Cooke & Massee) Grove SPECIES
-=======
+# Pteroconium pterospermum (Cooke & Massee) Grove SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora cucurbiticola Henn. SPECIES
-=======
+# Cercospora cucurbiticola Henn. SPECIES
 
 #### Status
 ACCEPTED

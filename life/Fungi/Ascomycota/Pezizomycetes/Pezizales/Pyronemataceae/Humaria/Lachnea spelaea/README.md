@@ -1,5 +1,4 @@
-Lachnea spelaea Barbacovi SPECIES
-=======
+# Lachnea spelaea Barbacovi SPECIES
 
 #### Status
 ACCEPTED

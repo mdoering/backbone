@@ -1,5 +1,4 @@
-Asterina densa Syd. & P. Syd. SPECIES
-=======
+# Asterina densa Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

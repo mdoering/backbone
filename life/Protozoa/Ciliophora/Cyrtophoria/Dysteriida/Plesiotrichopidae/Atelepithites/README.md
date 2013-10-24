@@ -1,5 +1,4 @@
-Atelepithites Deroux, 1976 GENUS
-=======
+# Atelepithites Deroux, 1976 GENUS
 
 #### Status
 ACCEPTED

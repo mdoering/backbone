@@ -1,5 +1,4 @@
-Ommatomyces terrestris You Z. Wang, M.K.M. Wong & K.D. Hyde, 2000 SPECIES
-=======
+# Ommatomyces terrestris You Z. Wang, M.K.M. Wong & K.D. Hyde, 2000 SPECIES
 
 #### Status
 ACCEPTED

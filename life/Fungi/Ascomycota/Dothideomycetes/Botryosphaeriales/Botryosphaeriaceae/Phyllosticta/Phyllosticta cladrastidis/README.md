@@ -1,5 +1,4 @@
-Phyllosticta cladrastidis (Syd.) Cejp, Fassatiova & Zavrel SPECIES
-=======
+# Phyllosticta cladrastidis (Syd.) Cejp, Fassatiova & Zavrel SPECIES
 
 #### Status
 ACCEPTED

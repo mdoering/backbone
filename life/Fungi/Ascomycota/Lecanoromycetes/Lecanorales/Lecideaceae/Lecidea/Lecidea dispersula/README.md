@@ -1,5 +1,4 @@
-Lecidea dispersula Arnold SPECIES
-=======
+# Lecidea dispersula Arnold SPECIES
 
 #### Status
 ACCEPTED

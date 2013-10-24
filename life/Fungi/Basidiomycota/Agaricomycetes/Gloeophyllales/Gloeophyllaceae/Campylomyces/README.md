@@ -1,5 +1,4 @@
-Campylomyces Nakasone GENUS
-=======
+# Campylomyces Nakasone GENUS
 
 #### Status
 ACCEPTED

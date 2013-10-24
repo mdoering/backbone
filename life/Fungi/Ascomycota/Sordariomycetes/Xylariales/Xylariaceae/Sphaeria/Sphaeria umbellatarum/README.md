@@ -1,5 +1,4 @@
-Sphaeria umbellatarum Schwein. SPECIES
-=======
+# Sphaeria umbellatarum Schwein. SPECIES
 
 #### Status
 ACCEPTED

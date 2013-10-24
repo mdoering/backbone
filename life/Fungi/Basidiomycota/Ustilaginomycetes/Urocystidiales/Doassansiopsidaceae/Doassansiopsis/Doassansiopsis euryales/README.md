@@ -1,17 +1,16 @@
-Doassansiopsis euryaleae R.A.B. Verma & V. Jha SPECIES
-=======
+# Doassansiopsis euryales R.A.B. Verma & V. Jha SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Journal of Freshwater Biology 11(1-2): 7 (1999)
 
 #### Original name
-Doassansiopsis euryaleae R.A.B. Verma & V. Jha
+Doassansiopsis euryales R.A.B. Verma & V. Jha
 
 ### Remarks
 null

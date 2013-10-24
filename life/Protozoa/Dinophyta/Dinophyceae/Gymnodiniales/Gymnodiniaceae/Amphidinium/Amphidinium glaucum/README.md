@@ -1,5 +1,4 @@
-Amphidinium glaucum Conrad SPECIES
-=======
+# Amphidinium glaucum Conrad SPECIES
 
 #### Status
 ACCEPTED

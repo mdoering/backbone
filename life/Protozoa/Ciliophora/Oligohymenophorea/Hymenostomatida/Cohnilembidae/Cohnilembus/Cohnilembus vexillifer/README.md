@@ -1,8 +1,7 @@
-Lembus vexillifer Entz, 1879 SPECIES
-=======
+# Cohnilembus vexillifer (Entz, 1879) Kahl, 1933 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

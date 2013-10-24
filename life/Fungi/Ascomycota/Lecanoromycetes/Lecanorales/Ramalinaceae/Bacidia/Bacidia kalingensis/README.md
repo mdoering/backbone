@@ -1,5 +1,4 @@
-Bacidia kalingensis Herre SPECIES
-=======
+# Bacidia kalingensis Herre SPECIES
 
 #### Status
 ACCEPTED

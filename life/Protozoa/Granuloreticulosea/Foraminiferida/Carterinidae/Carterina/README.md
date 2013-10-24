@@ -1,5 +1,4 @@
-Carterina Brady, 1884 GENUS
-=======
+# Carterina Brady, 1884 GENUS
 
 #### Status
 ACCEPTED

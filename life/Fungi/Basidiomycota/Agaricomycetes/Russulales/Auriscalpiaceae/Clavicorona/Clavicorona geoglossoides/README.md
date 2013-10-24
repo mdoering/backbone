@@ -1,5 +1,4 @@
-Clavicorona geoglossoides Corner SPECIES
-=======
+# Clavicorona geoglossoides Corner SPECIES
 
 #### Status
 ACCEPTED

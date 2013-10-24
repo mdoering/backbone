@@ -1,5 +1,4 @@
-Cryptosporella ehrenbergii (Tul. & C. Tul.) Sacc. SPECIES
-=======
+# Cryptosporella ehrenbergii (Tul. & C. Tul.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cylindralithus coronatus SPECIES
-=======
+# Cylindralithus coronatus SPECIES
 
 #### Status
 ACCEPTED

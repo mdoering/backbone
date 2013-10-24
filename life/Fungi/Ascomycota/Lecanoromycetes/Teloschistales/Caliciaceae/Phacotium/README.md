@@ -1,5 +1,4 @@
-Phacotium GENUS
-=======
+# Phacotium GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Candida kofuensis Mikata, Ueda-Nishimura, Goto, Kurtzman, Suzuki, Yarrow & Nakase SPECIES
-=======
+# Candida kofuensis Mikata, Ueda-Nishimura, Goto, Kurtzman, Suzuki, Yarrow & Nakase SPECIES
 
 #### Status
 ACCEPTED

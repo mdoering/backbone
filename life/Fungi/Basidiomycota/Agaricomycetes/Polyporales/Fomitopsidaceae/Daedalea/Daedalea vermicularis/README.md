@@ -1,5 +1,4 @@
-Daedalea vermicularis Pers. SPECIES
-=======
+# Daedalea vermicularis Pers. SPECIES
 
 #### Status
 ACCEPTED

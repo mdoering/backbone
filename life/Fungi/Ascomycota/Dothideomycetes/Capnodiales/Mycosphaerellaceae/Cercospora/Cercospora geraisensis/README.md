@@ -1,5 +1,4 @@
-Cercospora geraisensis Chupp SPECIES
-=======
+# Cercospora geraisensis Chupp SPECIES
 
 #### Status
 ACCEPTED

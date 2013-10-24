@@ -1,5 +1,4 @@
-Xylaria subtorulosa Speg. SPECIES
-=======
+# Xylaria subtorulosa Speg. SPECIES
 
 #### Status
 ACCEPTED

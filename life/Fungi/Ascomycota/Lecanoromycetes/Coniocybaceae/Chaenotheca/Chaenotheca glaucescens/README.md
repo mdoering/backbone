@@ -1,5 +1,4 @@
-Chaenotheca glaucescens Vezda SPECIES
-=======
+# Chaenotheca glaucescens Vezda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphina monospora (C. Knight) Müll. Arg. SPECIES
-=======
+# Graphina monospora (C. Knight) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

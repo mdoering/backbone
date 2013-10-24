@@ -1,5 +1,4 @@
-Cochliobolus ellisii Alcorn, 1983 SPECIES
-=======
+# Cochliobolus ellisii Alcorn, 1983 SPECIES
 
 #### Status
 ACCEPTED

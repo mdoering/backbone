@@ -1,17 +1,16 @@
-Entylomella helioscladii-repentis (Magnus) Höhn. SPECIES
-=======
+# Entyloma helosciadii Magnus, 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hedwigia 21: 129 (1882)
 
 #### Original name
-Cylindrosporium helosciadii-repentis Magnus, 1924
+Entyloma helosciadii Magnus, 1882
 
 ### Remarks
 null

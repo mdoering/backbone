@@ -1,5 +1,4 @@
-Caloplaca geophila Räsänen SPECIES
-=======
+# Caloplaca geophila Räsänen SPECIES
 
 #### Status
 ACCEPTED

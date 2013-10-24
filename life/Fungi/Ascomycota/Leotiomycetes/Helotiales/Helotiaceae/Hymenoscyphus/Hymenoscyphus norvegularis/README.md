@@ -1,5 +1,4 @@
-Hymenoscyphus norvegularis Döbbeler SPECIES
-=======
+# Hymenoscyphus norvegularis Döbbeler SPECIES
 
 #### Status
 ACCEPTED

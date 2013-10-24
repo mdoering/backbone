@@ -1,5 +1,4 @@
-Trichoderma paucisporum Samuels, C. Suárez & K. Solis SPECIES
-=======
+# Trichoderma paucisporum Samuels, C. Suárez & K. Solis SPECIES
 
 #### Status
 ACCEPTED

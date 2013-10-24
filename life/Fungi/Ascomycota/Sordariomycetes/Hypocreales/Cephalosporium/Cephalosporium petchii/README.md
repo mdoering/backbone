@@ -1,17 +1,16 @@
-Cephalosporium petchi Balazy SPECIES
-=======
+# Cephalosporium petchii Balazy SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Borbäsia 14: 130 (1973)
 
 #### Original name
-Cephalosporium petchi Balazy
+Cephalosporium petchii Balazy
 
 ### Remarks
 null

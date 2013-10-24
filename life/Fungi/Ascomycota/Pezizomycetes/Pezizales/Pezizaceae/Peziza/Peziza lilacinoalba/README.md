@@ -1,5 +1,4 @@
-Peziza lilacinoalba Donadini SPECIES
-=======
+# Peziza lilacinoalba Donadini SPECIES
 
 #### Status
 ACCEPTED

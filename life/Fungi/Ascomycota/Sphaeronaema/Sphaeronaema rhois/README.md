@@ -1,5 +1,4 @@
-Sphaeronaema rhois Berk. SPECIES
-=======
+# Sphaeronaema rhois Berk. SPECIES
 
 #### Status
 ACCEPTED

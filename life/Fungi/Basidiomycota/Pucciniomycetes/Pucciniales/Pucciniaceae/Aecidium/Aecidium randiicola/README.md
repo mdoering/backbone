@@ -1,5 +1,4 @@
-Aecidium randiicola Speg. SPECIES
-=======
+# Aecidium randiicola Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymella wehmeyeri Dearn. & House SPECIES
-=======
+# Didymella wehmeyeri Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

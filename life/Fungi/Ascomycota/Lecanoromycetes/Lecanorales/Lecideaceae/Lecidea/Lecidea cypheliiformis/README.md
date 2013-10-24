@@ -1,5 +1,4 @@
-Lecidea cypheliiformis (Cromb.) Hue SPECIES
-=======
+# Lecidea cypheliiformis (Cromb.) Hue SPECIES
 
 #### Status
 ACCEPTED

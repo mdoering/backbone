@@ -1,5 +1,4 @@
-Cochlodinium atromaculatum Kofoid & Swezy, 1921 SPECIES
-=======
+# Cochlodinium atromaculatum Kofoid & Swezy, 1921 SPECIES
 
 #### Status
 ACCEPTED

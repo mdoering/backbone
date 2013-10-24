@@ -1,5 +1,4 @@
-Mycena setulipes Métrod SPECIES
-=======
+# Mycena setulipes Métrod SPECIES
 
 #### Status
 ACCEPTED

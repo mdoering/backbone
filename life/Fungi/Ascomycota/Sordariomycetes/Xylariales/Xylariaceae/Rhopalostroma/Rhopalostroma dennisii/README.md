@@ -1,5 +1,4 @@
-Rhopalostroma dennisii D. Hawksw., Zachariah & Sankaran, 1979 SPECIES
-=======
+# Rhopalostroma dennisii D. Hawksw., Zachariah & Sankaran, 1979 SPECIES
 
 #### Status
 ACCEPTED

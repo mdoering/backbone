@@ -1,17 +1,16 @@
-Agaricus spadiceus (Pers.) J. Otto, 1816 SPECIES
-=======
+# Amanita spadicea Pers., 1797 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Tent. disp. meth. fung. (Lipsiae) 66 (1797)
 
 #### Original name
-null
+Amanita spadicea Pers., 1797
 
 ### Remarks
 null

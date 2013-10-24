@@ -1,5 +1,4 @@
-Frondicularia translucens Heron-Allen & Earland, 1913 SPECIES
-=======
+# Frondicularia translucens Heron-Allen & Earland, 1913 SPECIES
 
 #### Status
 ACCEPTED

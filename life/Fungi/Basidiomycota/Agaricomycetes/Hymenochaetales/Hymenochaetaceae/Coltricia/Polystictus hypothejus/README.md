@@ -1,5 +1,4 @@
-Polystictus hypothejus (Kalchbr.) Cooke SPECIES
-=======
+# Polystictus hypothejus (Kalchbr.) Cooke SPECIES
 
 #### Status
 ACCEPTED

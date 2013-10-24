@@ -1,14 +1,13 @@
-Lasiobelonium miniopsis (Ellis) Dennis, 1962 SPECIES
-=======
+# Parachnopeziza miniopsis (Ellis) Korf, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Persoonia 2(2): 185 (1962)
+Mycotaxon 7(3): 469 (1978)
 
 #### Original name
 null

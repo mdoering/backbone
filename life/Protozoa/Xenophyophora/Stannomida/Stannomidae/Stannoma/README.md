@@ -1,5 +1,4 @@
-Stannoma Haeckel, 1889 GENUS
-=======
+# Stannoma Haeckel, 1889 GENUS
 
 #### Status
 ACCEPTED

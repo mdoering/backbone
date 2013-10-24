@@ -1,5 +1,4 @@
-Botryodiplodia seriata (Sacc. & P. Syd.) Syd. SPECIES
-=======
+# Botryodiplodia seriata (Sacc. & P. Syd.) Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gynogonadinium aequatoriale F.Gómez, 2007 SPECIES
-=======
+# Gynogonadinium aequatoriale F.Gómez, 2007 SPECIES
 
 #### Status
 ACCEPTED

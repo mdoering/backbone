@@ -1,5 +1,4 @@
-Indomyces Stchigel & Guarro GENUS
-=======
+# Indomyces Stchigel & Guarro GENUS
 
 #### Status
 ACCEPTED

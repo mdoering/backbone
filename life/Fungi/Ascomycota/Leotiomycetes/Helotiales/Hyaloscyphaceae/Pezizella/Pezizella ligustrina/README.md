@@ -1,5 +1,4 @@
-Pezizella ligustrina var. ligustrina VARIETY
-=======
+# Pezizella ligustrina Velen. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Monogr. Discom. Bohem. (Prague) 158 (1934)
 
 #### Original name
-Pezizella ligustrina var. ligustrina
+Pezizella ligustrina Velen.
 
 ### Remarks
 null

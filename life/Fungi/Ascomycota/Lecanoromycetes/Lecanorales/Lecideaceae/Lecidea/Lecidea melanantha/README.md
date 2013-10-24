@@ -1,5 +1,4 @@
-Lecidea melanantha Hue SPECIES
-=======
+# Lecidea melanantha Hue SPECIES
 
 #### Status
 ACCEPTED

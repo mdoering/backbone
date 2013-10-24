@@ -1,14 +1,13 @@
-Lagenula Montfort, 1808 GENUS
-=======
+# Lagena Walker & Jacob, 1798 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Conch. , 1, 310.
+null
 
 #### Original name
 null

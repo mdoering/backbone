@@ -1,5 +1,4 @@
-Sphaeria nemorosa (Sacc. & Speg.) SPECIES
-=======
+# Sphaeria nemorosa (Sacc. & Speg.) SPECIES
 
 #### Status
 ACCEPTED

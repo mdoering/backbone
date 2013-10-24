@@ -1,5 +1,4 @@
-Marssonina campanulae (Bres. & Allesch.) Magnus SPECIES
-=======
+# Marssonina campanulae (Bres. & Allesch.) Magnus SPECIES
 
 #### Status
 ACCEPTED

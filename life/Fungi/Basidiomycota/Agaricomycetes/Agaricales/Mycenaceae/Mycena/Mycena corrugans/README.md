@@ -1,5 +1,4 @@
-Mycena corrugans Maas Geest. SPECIES
-=======
+# Mycena corrugans Maas Geest. SPECIES
 
 #### Status
 ACCEPTED

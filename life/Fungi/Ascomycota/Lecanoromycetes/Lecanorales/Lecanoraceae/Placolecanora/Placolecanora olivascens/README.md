@@ -1,5 +1,4 @@
-Placolecanora olivascens (Nyl.) Räsänen ex B. de Lesd. SPECIES
-=======
+# Placolecanora olivascens (Nyl.) Räsänen ex B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

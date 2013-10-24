@@ -1,5 +1,4 @@
-Cercospora vignae-sinensis F.L. Tai & C.T. Wei SPECIES
-=======
+# Cercospora vignae-sinensis F.L. Tai & C.T. Wei SPECIES
 
 #### Status
 ACCEPTED

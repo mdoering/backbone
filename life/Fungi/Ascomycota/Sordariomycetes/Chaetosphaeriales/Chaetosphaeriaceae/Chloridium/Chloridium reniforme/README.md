@@ -1,5 +1,4 @@
-Chloridium reniforme Matsush. SPECIES
-=======
+# Chloridium reniforme Matsush. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pholiota brunnea A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota brunnea A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

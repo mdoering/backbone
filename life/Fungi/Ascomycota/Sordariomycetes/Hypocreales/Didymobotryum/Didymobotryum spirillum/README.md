@@ -1,5 +1,4 @@
-Didymobotryum spirillum D'Souza & Bhat, 2002 SPECIES
-=======
+# Didymobotryum spirillum D'Souza & Bhat, 2002 SPECIES
 
 #### Status
 ACCEPTED

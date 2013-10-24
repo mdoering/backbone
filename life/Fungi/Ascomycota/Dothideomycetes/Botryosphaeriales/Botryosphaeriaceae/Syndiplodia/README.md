@@ -1,5 +1,4 @@
-Syndiplodia GENUS
-=======
+# Syndiplodia GENUS
 
 #### Status
 ACCEPTED

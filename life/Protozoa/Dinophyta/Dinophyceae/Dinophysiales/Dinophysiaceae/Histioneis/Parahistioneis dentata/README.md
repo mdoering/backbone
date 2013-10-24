@@ -1,5 +1,4 @@
-Parahistioneis dentata (Murray & Whitting) Kofoid & Skogsberg, 1928 SPECIES
-=======
+# Parahistioneis dentata (Murray & Whitting) Kofoid & Skogsberg, 1928 SPECIES
 
 #### Status
 DOUBTFUL

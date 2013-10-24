@@ -1,5 +1,4 @@
-Eutypa acerina Romell SPECIES
-=======
+# Eutypa acerina Romell SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hydrophilomyces aduncus Santam. SPECIES
-=======
+# Hydrophilomyces aduncus Santam. SPECIES
 
 #### Status
 ACCEPTED

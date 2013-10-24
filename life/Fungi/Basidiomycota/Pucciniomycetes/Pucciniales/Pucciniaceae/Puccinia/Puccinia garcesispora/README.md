@@ -1,5 +1,4 @@
-Puccinia garcesispora Pardo-Card. SPECIES
-=======
+# Puccinia garcesispora Pardo-Card. SPECIES
 
 #### Status
 ACCEPTED

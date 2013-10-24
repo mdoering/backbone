@@ -1,5 +1,4 @@
-Peronospora boehmeriae G.Y. Yin & Z.S. Yang SPECIES
-=======
+# Peronospora boehmeriae G.Y. Yin & Z.S. Yang SPECIES
 
 #### Status
 ACCEPTED

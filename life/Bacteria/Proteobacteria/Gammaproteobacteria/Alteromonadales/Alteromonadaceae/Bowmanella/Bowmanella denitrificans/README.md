@@ -1,5 +1,4 @@
-Bowmanella denitrificans Jean, Chen, Lin & Shieh, 2006 SPECIES
-=======
+# Bowmanella denitrificans Jean, Chen, Lin & Shieh, 2006 SPECIES
 
 #### Status
 ACCEPTED

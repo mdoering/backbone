@@ -1,5 +1,4 @@
-Pseudasterodon reticulatus (Rick) Rick SPECIES
-=======
+# Pseudasterodon reticulatus (Rick) Rick SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma westii Murrill SPECIES
-=======
+# Entoloma westii Murrill SPECIES
 
 #### Status
 ACCEPTED

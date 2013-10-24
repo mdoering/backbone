@@ -1,5 +1,4 @@
-Cryptococcus phenolicus Á. Fonseca, Scorzetti & Fell SPECIES
-=======
+# Cryptococcus phenolicus Á. Fonseca, Scorzetti & Fell SPECIES
 
 #### Status
 ACCEPTED

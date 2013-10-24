@@ -1,5 +1,4 @@
-Erysiphe lenticularis (Wallr.) J. Kickx f. SPECIES
-=======
+# Erysiphe lenticularis (Wallr.) J. Kickx f. SPECIES
 
 #### Status
 ACCEPTED

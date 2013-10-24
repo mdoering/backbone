@@ -1,5 +1,4 @@
-Haematomma oxneri Vodopjanova {?} SPECIES
-=======
+# Haematomma oxneri Vodopjanova {?} SPECIES
 
 #### Status
 ACCEPTED

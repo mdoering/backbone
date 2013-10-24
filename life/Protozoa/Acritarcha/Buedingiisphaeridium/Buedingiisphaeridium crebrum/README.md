@@ -1,5 +1,4 @@
-Buedingiisphaeridium crebrum Hu Yunxu, 1986 SPECIES
-=======
+# Buedingiisphaeridium crebrum Hu Yunxu, 1986 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gibellula mirabilis Samson & H.C. Evans, 1992 SPECIES
-=======
+# Gibellula mirabilis Samson & H.C. Evans, 1992 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Decaisnella rhamni Fabre SPECIES
-=======
+# Decaisnella rhamni Fabre SPECIES
 
 #### Status
 ACCEPTED

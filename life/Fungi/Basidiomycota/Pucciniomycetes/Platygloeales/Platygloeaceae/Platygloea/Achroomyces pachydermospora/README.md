@@ -1,5 +1,4 @@
-Achroomyces pachydermospora M.S. Patil, Kund. & Nanaware SPECIES
-=======
+# Achroomyces pachydermospora M.S. Patil, Kund. & Nanaware SPECIES
 
 #### Status
 ACCEPTED

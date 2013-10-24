@@ -1,5 +1,4 @@
-Oedocephalum lacrimisporum Kamyschko SPECIES
-=======
+# Oedocephalum lacrimisporum Kamyschko SPECIES
 
 #### Status
 ACCEPTED

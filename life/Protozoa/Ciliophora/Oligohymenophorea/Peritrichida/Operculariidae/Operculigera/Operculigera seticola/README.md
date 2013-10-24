@@ -1,5 +1,4 @@
-Operculigera seticola Clamp, 1991 SPECIES
-=======
+# Operculigera seticola Clamp, 1991 SPECIES
 
 #### Status
 ACCEPTED

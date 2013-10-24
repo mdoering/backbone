@@ -1,5 +1,4 @@
-Polyporus tephronotus Berk. SPECIES
-=======
+# Polyporus tephronotus Berk. SPECIES
 
 #### Status
 ACCEPTED

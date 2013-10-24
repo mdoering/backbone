@@ -1,5 +1,4 @@
-Lachnum subpygmaeum W.Y. Zhuang SPECIES
-=======
+# Lachnum subpygmaeum W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

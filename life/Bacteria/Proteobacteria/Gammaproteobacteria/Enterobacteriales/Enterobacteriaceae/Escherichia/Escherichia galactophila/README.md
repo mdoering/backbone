@@ -1,5 +1,4 @@
-Escherichia galactophila SPECIES
-=======
+# Escherichia galactophila SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta palmetto Ellis & Everh. SPECIES
-=======
+# Phyllosticta palmetto Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vermispora fusarioides Burghouts & W. Gams, 1989 SPECIES
-=======
+# Vermispora fusarioides Burghouts & W. Gams, 1989 SPECIES
 
 #### Status
 ACCEPTED

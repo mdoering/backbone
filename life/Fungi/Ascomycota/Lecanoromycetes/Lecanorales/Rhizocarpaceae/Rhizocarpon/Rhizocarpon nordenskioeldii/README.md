@@ -1,5 +1,4 @@
-Rhizocarpon nordenskioeldii Räsänen SPECIES
-=======
+# Rhizocarpon nordenskioeldii Räsänen SPECIES
 
 #### Status
 ACCEPTED

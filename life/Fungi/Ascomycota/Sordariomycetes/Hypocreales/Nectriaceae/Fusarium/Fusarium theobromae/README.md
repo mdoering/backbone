@@ -1,5 +1,4 @@
-Fusarium theobromae Appel & Strunk SPECIES
-=======
+# Fusarium theobromae Appel & Strunk SPECIES
 
 #### Status
 ACCEPTED

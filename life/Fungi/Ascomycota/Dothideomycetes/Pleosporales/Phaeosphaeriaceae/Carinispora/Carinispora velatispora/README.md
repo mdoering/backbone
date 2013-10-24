@@ -1,5 +1,4 @@
-Carinispora velatispora K.D. Hyde, 1994 SPECIES
-=======
+# Carinispora velatispora K.D. Hyde, 1994 SPECIES
 
 #### Status
 ACCEPTED

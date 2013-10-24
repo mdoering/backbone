@@ -1,5 +1,4 @@
-Mycoderma hominis (Benedek) Vuill. SPECIES
-=======
+# Mycoderma hominis (Benedek) Vuill. SPECIES
 
 #### Status
 ACCEPTED

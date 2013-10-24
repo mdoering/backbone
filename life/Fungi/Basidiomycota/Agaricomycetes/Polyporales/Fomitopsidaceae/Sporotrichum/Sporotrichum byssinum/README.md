@@ -1,5 +1,4 @@
-Sporotrichum byssinum Link SPECIES
-=======
+# Sporotrichum byssinum Link SPECIES
 
 #### Status
 ACCEPTED

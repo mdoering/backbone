@@ -1,5 +1,4 @@
-Laestadia marii (De Not.) Sacc. SPECIES
-=======
+# Laestadia marii (De Not.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Helotium seminicola (Kienholz & E.K. Cash) Seaver, 1951 SPECIES
-=======
+# Ciboria seminicola (Kienholz & E.K. Cash) Hechler, 1992 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-North American Cup-fungi (New York), (Inoperculates) 127 (1951)
+in Hechler & Steindl, Ber. bot. Ver. Hamburg 12: 19 (1992)
 
 #### Original name
 Phialea seminicola Kienholz & E.K. Cash, 1937

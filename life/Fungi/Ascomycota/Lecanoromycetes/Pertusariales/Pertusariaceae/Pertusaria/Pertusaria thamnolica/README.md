@@ -1,5 +1,4 @@
-Pertusaria thamnolica A. W. Archer SPECIES
-=======
+# Pertusaria thamnolica A. W. Archer SPECIES
 
 #### Status
 ACCEPTED

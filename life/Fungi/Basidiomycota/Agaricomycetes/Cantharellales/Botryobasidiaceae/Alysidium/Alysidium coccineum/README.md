@@ -1,5 +1,4 @@
-Alysidium coccineum (Corda) Kuntze SPECIES
-=======
+# Alysidium coccineum (Corda) Kuntze SPECIES
 
 #### Status
 ACCEPTED

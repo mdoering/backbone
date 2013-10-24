@@ -1,5 +1,4 @@
-Teratosphaeria flexuosa (Crous & M.J. Wingf.) Crous & U. Braun, 2007 SPECIES
-=======
+# Teratosphaeria flexuosa (Crous & M.J. Wingf.) Crous & U. Braun, 2007 SPECIES
 
 #### Status
 ACCEPTED

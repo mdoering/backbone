@@ -1,5 +1,4 @@
-Cordyceps bicephala subsp. bicephala SUBSPECIES
-=======
+# Cordyceps bicephala Berk. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Hooker's J. Bot. 8: 278 (1856)
 
 #### Original name
-Cordyceps bicephala subsp. bicephala
+Cordyceps bicephala Berk.
 
 ### Remarks
 null

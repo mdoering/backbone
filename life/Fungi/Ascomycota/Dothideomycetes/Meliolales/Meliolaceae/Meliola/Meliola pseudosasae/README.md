@@ -1,5 +1,4 @@
-Meliola pseudosasae I. Hino SPECIES
-=======
+# Meliola pseudosasae I. Hino SPECIES
 
 #### Status
 ACCEPTED

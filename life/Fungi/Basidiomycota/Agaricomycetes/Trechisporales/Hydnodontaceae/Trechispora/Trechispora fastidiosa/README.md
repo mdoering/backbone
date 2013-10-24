@@ -1,17 +1,16 @@
-Odontia alliacea (Weinm.) Fr., 1836 SPECIES
-=======
+# Trechispora fastidiosa (Pers.) Liberta, 1966 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hym. à Gast. Imp. Ross. Obs. (Petropoli) 370 (1836)
+Taxon 15(8): 318 (1966)
 
 #### Original name
-Hydnum alliaceum Weinm., 1832
+null
 
 ### Remarks
 null

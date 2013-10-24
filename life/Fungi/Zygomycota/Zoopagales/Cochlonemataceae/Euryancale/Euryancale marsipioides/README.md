@@ -1,5 +1,4 @@
-Euryancale marsipioides Aoki, 1995 SPECIES
-=======
+# Euryancale marsipioides Aoki, 1995 SPECIES
 
 #### Status
 ACCEPTED

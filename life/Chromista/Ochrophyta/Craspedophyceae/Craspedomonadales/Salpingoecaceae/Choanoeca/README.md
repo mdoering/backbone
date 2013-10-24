@@ -1,5 +1,4 @@
-Choanoeca Ellis, 1933 GENUS
-=======
+# Choanoeca Ellis, 1933 GENUS
 
 #### Status
 ACCEPTED

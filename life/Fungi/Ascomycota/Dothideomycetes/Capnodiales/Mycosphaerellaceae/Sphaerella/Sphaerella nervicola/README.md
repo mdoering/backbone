@@ -1,5 +1,4 @@
-Sphaerella nervicola Auersw. SPECIES
-=======
+# Sphaerella nervicola Auersw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meripilus tropicalis Guzmán & Pérez-Silva, 1975 SPECIES
-=======
+# Meripilus tropicalis Guzmán & Pérez-Silva, 1975 SPECIES
 
 #### Status
 ACCEPTED

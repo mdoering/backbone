@@ -1,5 +1,4 @@
-Puccinia gypsophilae-repentis Mayor & Cruchet SPECIES
-=======
+# Puccinia gypsophilae-repentis Mayor & Cruchet SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psathyrella phaeophylla (Kits van Wav.) SPECIES
-=======
+# Psathyrella phaeophylla (Kits van Wav.) SPECIES
 
 #### Status
 ACCEPTED

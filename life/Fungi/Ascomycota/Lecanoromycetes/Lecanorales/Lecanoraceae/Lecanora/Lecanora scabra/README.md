@@ -1,5 +1,4 @@
-Lecanora scabra var. scabra VARIETY
-=======
+# Lecanora scabra J. Steiner SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Verh. zool. -bot. Ges. Wien 52: 477 (1902)
 
 #### Original name
-Urceolaria scabra Pers.
+Lecanora scabra J. Steiner
 
 ### Remarks
 null

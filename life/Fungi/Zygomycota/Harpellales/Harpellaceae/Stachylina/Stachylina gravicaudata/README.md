@@ -1,5 +1,4 @@
-Stachylina gravicaudata Siri, M.M. White & Lichtw., 2006 SPECIES
-=======
+# Stachylina gravicaudata Siri, M.M. White & Lichtw., 2006 SPECIES
 
 #### Status
 ACCEPTED

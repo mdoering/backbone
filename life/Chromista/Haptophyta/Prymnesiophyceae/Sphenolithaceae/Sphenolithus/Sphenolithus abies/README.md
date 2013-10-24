@@ -1,5 +1,4 @@
-Sphenolithus abies Deflandre in Deflandre & Fert, 1954 SPECIES
-=======
+# Sphenolithus abies Deflandre in Deflandre & Fert, 1954 SPECIES
 
 #### Status
 ACCEPTED

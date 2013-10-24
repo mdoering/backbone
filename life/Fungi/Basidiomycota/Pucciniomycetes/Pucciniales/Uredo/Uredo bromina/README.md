@@ -1,5 +1,4 @@
-Uredo bromina Erikss. SPECIES
-=======
+# Uredo bromina Erikss. SPECIES
 
 #### Status
 ACCEPTED

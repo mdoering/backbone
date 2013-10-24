@@ -1,5 +1,4 @@
-Sporobolomyces salicinus (B.N. Johri & Bandoni) Nakase & S. Ito SPECIES
-=======
+# Sporobolomyces salicinus (B.N. Johri & Bandoni) Nakase & S. Ito SPECIES
 
 #### Status
 ACCEPTED

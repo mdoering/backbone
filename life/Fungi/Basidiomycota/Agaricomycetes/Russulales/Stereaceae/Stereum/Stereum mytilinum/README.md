@@ -1,5 +1,4 @@
-Stereum mytilinum (Fr.) Fr. SPECIES
-=======
+# Stereum mytilinum (Fr.) Fr. SPECIES
 
 #### Status
 ACCEPTED

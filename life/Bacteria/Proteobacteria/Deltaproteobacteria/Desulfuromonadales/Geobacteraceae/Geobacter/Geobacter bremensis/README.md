@@ -1,5 +1,4 @@
-Geobacter bremensis Straub & Buchholz-Cleven, 2001 SPECIES
-=======
+# Geobacter bremensis Straub & Buchholz-Cleven, 2001 SPECIES
 
 #### Status
 ACCEPTED

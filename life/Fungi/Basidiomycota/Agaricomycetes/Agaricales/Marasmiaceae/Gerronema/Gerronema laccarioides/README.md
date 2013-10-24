@@ -1,5 +1,4 @@
-Gerronema laccarioides Singer SPECIES
-=======
+# Gerronema laccarioides Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Clisosporium eurotiodes (Sacc.) Kuntze SPECIES
-=======
+# Clisosporium eurotioides (Sacc.) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3: 458 (1898)
 
 #### Original name
 Coniothyrium eurotioides Sacc.

@@ -1,5 +1,4 @@
-Agaricus eatonii Berk. SPECIES
-=======
+# Agaricus eatonii Berk. SPECIES
 
 #### Status
 ACCEPTED

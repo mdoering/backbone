@@ -1,5 +1,4 @@
-Polyporus roroseobrunneaseobrunnea SPECIES
-=======
+# Polyporus roroseobrunneaseobrunnea SPECIES
 
 #### Status
 ACCEPTED

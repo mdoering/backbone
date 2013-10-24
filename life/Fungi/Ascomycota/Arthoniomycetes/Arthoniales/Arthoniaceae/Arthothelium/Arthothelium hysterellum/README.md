@@ -1,5 +1,4 @@
-Arthothelium hysterellum A. Massal. SPECIES
-=======
+# Arthothelium hysterellum A. Massal. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stereocaulon azoreum Nyl. SPECIES
-=======
+# Stereocaulon azoreum Nyl. SPECIES
 
 #### Status
 ACCEPTED

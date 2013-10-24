@@ -1,5 +1,4 @@
-Cladonia subpungens Abbayes SPECIES
-=======
+# Cladonia subpungens Abbayes SPECIES
 
 #### Status
 ACCEPTED

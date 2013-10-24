@@ -1,5 +1,4 @@
-Friedmanniella antarctica Schumann et al., 1997 SPECIES
-=======
+# Friedmanniella antarctica Schumann et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

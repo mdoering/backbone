@@ -1,5 +1,4 @@
-Clitocybe nigra Petch SPECIES
-=======
+# Clitocybe nigra Petch SPECIES
 
 #### Status
 ACCEPTED

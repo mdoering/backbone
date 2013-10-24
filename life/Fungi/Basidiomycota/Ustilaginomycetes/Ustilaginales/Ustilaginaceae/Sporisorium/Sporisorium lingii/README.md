@@ -1,5 +1,4 @@
-Sporisorium lingii Vánky SPECIES
-=======
+# Sporisorium lingii Vánky SPECIES
 
 #### Status
 ACCEPTED

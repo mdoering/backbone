@@ -1,5 +1,4 @@
-Dibaeis birmensis Kalb & Gierl SPECIES
-=======
+# Dibaeis birmensis Kalb & Gierl SPECIES
 
 #### Status
 ACCEPTED

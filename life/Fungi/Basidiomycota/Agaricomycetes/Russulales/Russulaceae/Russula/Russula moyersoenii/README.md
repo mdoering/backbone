@@ -1,5 +1,4 @@
-Russula moyersoenii Buyck SPECIES
-=======
+# Russula moyersoenii Buyck SPECIES
 
 #### Status
 ACCEPTED

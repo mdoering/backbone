@@ -1,5 +1,4 @@
-Thamnonoma luctuosa (Hue) Gyeln. SPECIES
-=======
+# Thamnonoma luctuosa (Hue) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

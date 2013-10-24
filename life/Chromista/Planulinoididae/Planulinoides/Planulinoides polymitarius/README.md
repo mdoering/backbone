@@ -1,5 +1,4 @@
-Planulinoides polymitarius Loeblich & Tappan, 1994 SPECIES
-=======
+# Planulinoides polymitarius Loeblich & Tappan, 1994 SPECIES
 
 #### Status
 ACCEPTED

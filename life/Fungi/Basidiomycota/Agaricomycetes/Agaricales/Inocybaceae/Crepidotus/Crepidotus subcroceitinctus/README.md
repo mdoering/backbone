@@ -1,5 +1,4 @@
-Crepidotus subcroceitinctus Hesler & A.H. Sm. SPECIES
-=======
+# Crepidotus subcroceitinctus Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

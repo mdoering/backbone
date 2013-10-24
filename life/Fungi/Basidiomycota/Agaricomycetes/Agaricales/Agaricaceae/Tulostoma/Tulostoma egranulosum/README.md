@@ -1,5 +1,4 @@
-Tulostoma egranulosum Lloyd SPECIES
-=======
+# Tulostoma egranulosum Lloyd SPECIES
 
 #### Status
 ACCEPTED

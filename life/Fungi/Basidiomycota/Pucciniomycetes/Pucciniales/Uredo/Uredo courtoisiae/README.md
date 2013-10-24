@@ -1,5 +1,4 @@
-Uredo courtoisiae Syd. & P. Syd. SPECIES
-=======
+# Uredo courtoisiae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

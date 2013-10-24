@@ -1,5 +1,4 @@
-Bacidia harrissoni C.W. Dodge SPECIES
-=======
+# Bacidia harrissoni C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

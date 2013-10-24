@@ -1,5 +1,4 @@
-Ericaria Stackhouse, 1809 GENUS
-=======
+# Ericaria Stackhouse, 1809 GENUS
 
 #### Status
 ACCEPTED

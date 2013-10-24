@@ -1,5 +1,4 @@
-Clitopilus avellaneus Murrill SPECIES
-=======
+# Clitopilus avellaneus Murrill SPECIES
 
 #### Status
 ACCEPTED

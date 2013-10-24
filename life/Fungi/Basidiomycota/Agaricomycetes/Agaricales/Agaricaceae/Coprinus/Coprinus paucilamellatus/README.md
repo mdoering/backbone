@@ -1,5 +1,4 @@
-Coprinus paucilamellatus Pat. SPECIES
-=======
+# Coprinus paucilamellatus Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Chorda lomentaria f. autumnalis (Areschoug) Areschoug FORM
-=======
+# Scytosiphon lomentaria (Lyngbye) Link SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

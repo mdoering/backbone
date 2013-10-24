@@ -1,5 +1,4 @@
-Laccaria velutina (Quél.) SPECIES
-=======
+# Laccaria velutina (Quél.) SPECIES
 
 #### Status
 ACCEPTED

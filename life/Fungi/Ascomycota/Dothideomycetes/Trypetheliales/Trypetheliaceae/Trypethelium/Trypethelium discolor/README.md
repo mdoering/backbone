@@ -1,5 +1,4 @@
-Trypethelium discolor Müll. Arg. SPECIES
-=======
+# Trypethelium discolor Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

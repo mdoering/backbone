@@ -1,5 +1,4 @@
-Cercospora chevalieri Sacc. SPECIES
-=======
+# Cercospora chevalieri Sacc. SPECIES
 
 #### Status
 ACCEPTED

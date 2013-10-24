@@ -1,5 +1,4 @@
-Leptostroma shimanense Y. Suto SPECIES
-=======
+# Leptostroma shimanense Y. Suto SPECIES
 
 #### Status
 ACCEPTED

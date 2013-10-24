@@ -1,5 +1,4 @@
-Octospora fasciculata Hedw. SPECIES
-=======
+# Octospora fasciculata Hedw. SPECIES
 
 #### Status
 ACCEPTED

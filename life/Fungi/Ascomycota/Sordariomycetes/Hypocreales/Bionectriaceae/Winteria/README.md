@@ -1,5 +1,4 @@
-Winteria GENUS
-=======
+# Winteria GENUS
 
 #### Status
 ACCEPTED

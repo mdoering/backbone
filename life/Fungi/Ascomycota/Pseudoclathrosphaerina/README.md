@@ -1,5 +1,4 @@
-Pseudoclathrosphaerina Voglmayr GENUS
-=======
+# Pseudoclathrosphaerina Voglmayr GENUS
 
 #### Status
 ACCEPTED

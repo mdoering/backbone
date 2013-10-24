@@ -1,5 +1,4 @@
-Arthonia fuliginosa (Turner & Borrer) Flot. SPECIES
-=======
+# Arthonia fuliginosa (Turner & Borrer) Flot. SPECIES
 
 #### Status
 ACCEPTED

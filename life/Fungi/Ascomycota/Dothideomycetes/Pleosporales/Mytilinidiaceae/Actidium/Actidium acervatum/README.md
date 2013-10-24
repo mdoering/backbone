@@ -1,5 +1,4 @@
-Actidium acervatum Mont. SPECIES
-=======
+# Actidium acervatum Mont. SPECIES
 
 #### Status
 ACCEPTED

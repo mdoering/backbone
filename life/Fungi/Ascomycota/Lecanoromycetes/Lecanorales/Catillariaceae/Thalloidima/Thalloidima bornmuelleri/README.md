@@ -1,5 +1,4 @@
-Thalloidima bornmuelleri Stein SPECIES
-=======
+# Thalloidima bornmuelleri Stein SPECIES
 
 #### Status
 ACCEPTED

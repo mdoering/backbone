@@ -1,5 +1,4 @@
-Phoma cyparissiae A.L. Guyot SPECIES
-=======
+# Phoma cyparissiae A.L. Guyot SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Karstenula syringae (Ellis & Everh.) M.E. Barr SPECIES
-=======
+# Karstenula syringae (Ellis & Everh.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyanothrichaceae FAMILY
-=======
+# Cyanothrichaceae FAMILY
 
 #### Status
 ACCEPTED

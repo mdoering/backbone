@@ -1,5 +1,4 @@
-Sticta glomuligera Nyl. SPECIES
-=======
+# Sticta glomuligera Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium metalasiae Syd. & P. Syd. SPECIES
-=======
+# Aecidium metalasiae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

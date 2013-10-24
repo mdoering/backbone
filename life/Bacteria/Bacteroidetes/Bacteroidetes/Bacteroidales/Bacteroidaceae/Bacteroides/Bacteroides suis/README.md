@@ -1,5 +1,4 @@
-Bacteroides suis Benno et al., 1983 SPECIES
-=======
+# Bacteroides suis Benno et al., 1983 SPECIES
 
 #### Status
 ACCEPTED

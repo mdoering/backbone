@@ -1,5 +1,4 @@
-Ramularia ranunculi-muricati Jørst. SPECIES
-=======
+# Ramularia ranunculi-muricati Jørst. SPECIES
 
 #### Status
 ACCEPTED

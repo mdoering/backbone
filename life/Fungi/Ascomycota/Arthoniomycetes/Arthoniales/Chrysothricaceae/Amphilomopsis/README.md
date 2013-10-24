@@ -1,5 +1,4 @@
-Amphilomopsis GENUS
-=======
+# Amphilomopsis GENUS
 
 #### Status
 ACCEPTED

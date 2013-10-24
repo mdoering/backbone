@@ -1,17 +1,16 @@
-Cladonia cenotea var. cenotea VARIETY
-=======
+# Cladonia cenotea (Ach.) Schaer. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Lich. helv. spicil. 1: 35 (1823)
 
 #### Original name
-Cladonia cenotea var. cenotea
+Baeomyces cenoteus Ach.
 
 ### Remarks
 null

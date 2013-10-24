@@ -1,5 +1,4 @@
-Leptostroma spireae (Kunze) Fr. SPECIES
-=======
+# Leptostroma spireae (Kunze) Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectria collabens Berk. & Cooke SPECIES
-=======
+# Nectria collabens Berk. & Cooke SPECIES
 
 #### Status
 ACCEPTED

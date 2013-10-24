@@ -1,5 +1,4 @@
-Physoderma agropyri Sampson & W. Weston SPECIES
-=======
+# Physoderma agropyri Sampson & W. Weston SPECIES
 
 #### Status
 ACCEPTED

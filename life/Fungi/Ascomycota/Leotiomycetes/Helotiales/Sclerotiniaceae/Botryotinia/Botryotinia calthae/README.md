@@ -1,17 +1,16 @@
-Botrytis calthae Hennebert, 1973 SPECIES
-=======
+# Botryotinia calthae Hennebert & M.E. Elliott, 1963 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Persoonia 7(2): 189 (1973)
+Can. J. Bot. 41: 343 (1963)
 
 #### Original name
-Botrytis calthae Hennebert, 1973
+Botryotinia calthae Hennebert & M.E. Elliott, 1963
 
 ### Remarks
 null

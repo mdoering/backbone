@@ -1,5 +1,4 @@
-Cothurnopsis curva SPECIES
-=======
+# Cothurnopsis curva SPECIES
 
 #### Status
 ACCEPTED

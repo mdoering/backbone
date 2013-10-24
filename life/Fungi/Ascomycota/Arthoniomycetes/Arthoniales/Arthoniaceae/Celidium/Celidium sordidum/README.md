@@ -1,5 +1,4 @@
-Celidium sordidum Anzi SPECIES
-=======
+# Celidium sordidum Anzi SPECIES
 
 #### Status
 ACCEPTED

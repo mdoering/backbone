@@ -1,5 +1,4 @@
-Cercosporella achilleae Jaap SPECIES
-=======
+# Cercosporella achilleae Jaap SPECIES
 
 #### Status
 ACCEPTED

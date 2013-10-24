@@ -1,5 +1,4 @@
-Placodium atroalbum Tuck. SPECIES
-=======
+# Placodium atroalbum Tuck. SPECIES
 
 #### Status
 ACCEPTED

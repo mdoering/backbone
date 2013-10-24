@@ -1,5 +1,4 @@
-Sticta lacunosa Taylor SPECIES
-=======
+# Sticta lacunosa Taylor SPECIES
 
 #### Status
 ACCEPTED

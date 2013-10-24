@@ -1,5 +1,4 @@
-Nectria caulina Cooke, 1876 SPECIES
-=======
+# Nectria caulina Cooke, 1876 SPECIES
 
 #### Status
 ACCEPTED

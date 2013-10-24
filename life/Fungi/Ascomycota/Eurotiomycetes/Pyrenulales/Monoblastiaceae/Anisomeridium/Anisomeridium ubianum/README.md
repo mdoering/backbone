@@ -1,5 +1,4 @@
-Anisomeridium ubianum (Vain.) R.C. Harris SPECIES
-=======
+# Anisomeridium ubianum (Vain.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

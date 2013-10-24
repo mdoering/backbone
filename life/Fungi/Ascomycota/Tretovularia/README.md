@@ -1,5 +1,4 @@
-Tretovularia Deighton GENUS
-=======
+# Tretovularia Deighton GENUS
 
 #### Status
 ACCEPTED

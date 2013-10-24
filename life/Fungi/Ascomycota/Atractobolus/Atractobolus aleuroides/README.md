@@ -1,14 +1,13 @@
-Atractobolus aleurodes (Cooke) Kuntze SPECIES
-=======
+# Atractobolus aleuroides (Cooke) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3: 445 (1898)
 
 #### Original name
 Dasyscyphus aleuroides Cooke

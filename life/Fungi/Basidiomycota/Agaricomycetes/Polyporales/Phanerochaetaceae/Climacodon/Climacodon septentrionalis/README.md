@@ -1,17 +1,16 @@
-Hydnum septentrionale var. septentrionale VARIETY
-=======
+# Climacodon septentrionalis (Fr.) P. Karst., 1881 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Revue mycol. , Toulouse 3(9): 20 (1881)
 
 #### Original name
-null
+Hydnum septentrionale Fr., 1821
 
 ### Remarks
 null

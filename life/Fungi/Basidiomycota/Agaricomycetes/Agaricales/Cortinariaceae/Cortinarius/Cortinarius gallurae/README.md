@@ -1,5 +1,4 @@
-Cortinarius gallurae D. Antonini, M. Antonini & Consiglio SPECIES
-=======
+# Cortinarius gallurae D. Antonini, M. Antonini & Consiglio SPECIES
 
 #### Status
 ACCEPTED

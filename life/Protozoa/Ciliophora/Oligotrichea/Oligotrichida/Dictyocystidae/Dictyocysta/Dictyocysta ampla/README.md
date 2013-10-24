@@ -1,5 +1,4 @@
-Dictyocysta ampla Kofoid & Campbell, 1929 SPECIES
-=======
+# Dictyocysta ampla Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

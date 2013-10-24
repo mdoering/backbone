@@ -1,5 +1,4 @@
-Pestalotiopsis magnoliae J.M. Yen SPECIES
-=======
+# Pestalotiopsis magnoliae J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

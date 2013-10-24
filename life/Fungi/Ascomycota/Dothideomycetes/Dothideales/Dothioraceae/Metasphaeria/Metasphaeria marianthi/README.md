@@ -1,5 +1,4 @@
-Metasphaeria marianthi Tassi SPECIES
-=======
+# Metasphaeria marianthi Tassi SPECIES
 
 #### Status
 ACCEPTED

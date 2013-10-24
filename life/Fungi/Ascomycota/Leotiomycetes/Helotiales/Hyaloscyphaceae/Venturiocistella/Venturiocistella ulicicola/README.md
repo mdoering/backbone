@@ -1,14 +1,13 @@
-Trichodiscus ulicicola Graddon, 1980 SPECIES
-=======
+# Venturiocistella ulicicola (Graddon) Baral, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 74(2): 268 (1980)
+Z. Mykol. 59(1): 15 (1993)
 
 #### Original name
 Trichodiscus ulicicola Graddon, 1980

@@ -1,5 +1,4 @@
-Lyophyllum incarnatobrunneum Ew. Gerhardt SPECIES
-=======
+# Lyophyllum incarnatobrunneum Ew. Gerhardt SPECIES
 
 #### Status
 ACCEPTED

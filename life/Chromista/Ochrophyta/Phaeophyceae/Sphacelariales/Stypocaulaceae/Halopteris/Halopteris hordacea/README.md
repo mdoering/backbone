@@ -1,5 +1,4 @@
-Halopteris hordacea (Harvey) Sauvageau SPECIES
-=======
+# Halopteris hordacea (Harvey) Sauvageau SPECIES
 
 #### Status
 ACCEPTED

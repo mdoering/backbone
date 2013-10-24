@@ -1,5 +1,4 @@
-Bryonora yeti Poelt SPECIES
-=======
+# Bryonora yeti Poelt SPECIES
 
 #### Status
 ACCEPTED

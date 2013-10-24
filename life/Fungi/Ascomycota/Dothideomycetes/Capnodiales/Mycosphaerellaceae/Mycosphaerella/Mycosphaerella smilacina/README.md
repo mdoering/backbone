@@ -1,5 +1,4 @@
-Mycosphaerella smilacina (Ellis & Everh.) Tomilin SPECIES
-=======
+# Mycosphaerella smilacina (Ellis & Everh.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

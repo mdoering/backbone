@@ -1,5 +1,4 @@
-Cercospora ononidicola Unamuno SPECIES
-=======
+# Cercospora ononidicola Unamuno SPECIES
 
 #### Status
 ACCEPTED

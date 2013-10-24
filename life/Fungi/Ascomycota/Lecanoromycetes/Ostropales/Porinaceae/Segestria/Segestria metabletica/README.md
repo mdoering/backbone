@@ -1,5 +1,4 @@
-Segestria metabletica (C. Knight) Hellb. SPECIES
-=======
+# Segestria metabletica (C. Knight) Hellb. SPECIES
 
 #### Status
 ACCEPTED

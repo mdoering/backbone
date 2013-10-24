@@ -1,5 +1,4 @@
-Humicola parvispora Gambogi, 1969 SPECIES
-=======
+# Humicola parvispora Gambogi, 1969 SPECIES
 
 #### Status
 ACCEPTED

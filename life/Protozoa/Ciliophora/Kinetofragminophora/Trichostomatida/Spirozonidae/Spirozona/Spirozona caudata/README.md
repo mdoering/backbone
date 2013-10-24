@@ -1,5 +1,4 @@
-Spirozona caudata Kahl, 1926 SPECIES
-=======
+# Spirozona caudata Kahl, 1926 SPECIES
 
 #### Status
 ACCEPTED

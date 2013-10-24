@@ -1,8 +1,7 @@
-Tricholoma inocybiforma Murrill SPECIES
-=======
+# Tricholoma inocybiforme E. Horak SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Tricholoma inocybiforma Murrill
+Tricholoma inocybiforme E. Horak
 
 ### Remarks
 null

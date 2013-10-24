@@ -1,5 +1,4 @@
-Aspergillus sacchari Chaudhuri & Sachar SPECIES
-=======
+# Aspergillus sacchari Chaudhuri & Sachar SPECIES
 
 #### Status
 ACCEPTED

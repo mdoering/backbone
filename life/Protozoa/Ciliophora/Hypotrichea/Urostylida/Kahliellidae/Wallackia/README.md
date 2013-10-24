@@ -1,5 +1,4 @@
-Wallackia Foissner, 1976 GENUS
-=======
+# Wallackia Foissner, 1976 GENUS
 
 #### Status
 ACCEPTED

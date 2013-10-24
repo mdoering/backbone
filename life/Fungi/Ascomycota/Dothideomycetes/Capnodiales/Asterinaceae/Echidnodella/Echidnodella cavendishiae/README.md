@@ -1,5 +1,4 @@
-Echidnodella cavendishiae Toro SPECIES
-=======
+# Echidnodella cavendishiae Toro SPECIES
 
 #### Status
 ACCEPTED

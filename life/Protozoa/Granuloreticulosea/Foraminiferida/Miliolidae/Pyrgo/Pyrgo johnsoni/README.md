@@ -1,5 +1,4 @@
-Pyrgo johnsoni SPECIES
-=======
+# Pyrgo johnsoni SPECIES
 
 #### Status
 ACCEPTED

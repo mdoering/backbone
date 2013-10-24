@@ -1,5 +1,4 @@
-Sorosporium concelatum L. Ling SPECIES
-=======
+# Sorosporium concelatum L. Ling SPECIES
 
 #### Status
 ACCEPTED

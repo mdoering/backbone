@@ -1,14 +1,13 @@
-Melanomma canescens Speg. SPECIES
-=======
+# Chaetomastia canescens (Speg.) Berl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Michelia 1(no. 5): 460 (1879)
+null
 
 #### Original name
 Melanomma canescens Speg.

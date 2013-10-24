@@ -1,5 +1,4 @@
-Biatorella flavoalba (Nyl.) Zahlbr. SPECIES
-=======
+# Biatorella flavoalba (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

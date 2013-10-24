@@ -1,5 +1,4 @@
-Gloeosporium naevioides Romell & Sacc. SPECIES
-=======
+# Gloeosporium naevioides Romell & Sacc. SPECIES
 
 #### Status
 ACCEPTED

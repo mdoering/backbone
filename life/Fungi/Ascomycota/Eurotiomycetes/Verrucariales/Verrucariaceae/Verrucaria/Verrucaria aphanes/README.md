@@ -1,5 +1,4 @@
-Verrucaria aphanes Borrer SPECIES
-=======
+# Verrucaria aphanes Borrer SPECIES
 
 #### Status
 ACCEPTED

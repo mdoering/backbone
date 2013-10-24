@@ -1,5 +1,4 @@
-Lichen ampullaceus L. SPECIES
-=======
+# Lichen ampullaceus L. SPECIES
 
 #### Status
 ACCEPTED

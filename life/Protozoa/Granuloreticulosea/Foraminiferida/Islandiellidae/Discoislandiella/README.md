@@ -1,5 +1,4 @@
-Discoislandiella Saidova, 1975 GENUS
-=======
+# Discoislandiella Saidova, 1975 GENUS
 
 #### Status
 ACCEPTED

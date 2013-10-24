@@ -1,5 +1,4 @@
-Articulophora variispora C.J.K. Wang & B. Sutton, 1982 SPECIES
-=======
+# Articulophora variispora C.J.K. Wang & B. Sutton, 1982 SPECIES
 
 #### Status
 ACCEPTED

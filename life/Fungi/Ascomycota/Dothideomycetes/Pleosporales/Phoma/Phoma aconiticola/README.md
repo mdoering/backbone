@@ -1,5 +1,4 @@
-Phoma aconiticola Petr. SPECIES
-=======
+# Phoma aconiticola Petr. SPECIES
 
 #### Status
 ACCEPTED

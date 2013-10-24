@@ -1,5 +1,4 @@
-Hemialysidium Hol.-Jech. GENUS
-=======
+# Hemialysidium Hol.-Jech. GENUS
 
 #### Status
 ACCEPTED

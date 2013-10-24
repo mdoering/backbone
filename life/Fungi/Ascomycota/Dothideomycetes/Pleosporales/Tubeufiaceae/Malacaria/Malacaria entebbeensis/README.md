@@ -1,5 +1,4 @@
-Malacaria entebbeensis Hansf. SPECIES
-=======
+# Malacaria entebbeensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

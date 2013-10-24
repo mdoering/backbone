@@ -1,5 +1,4 @@
-Mycosphaerella zeae (Sacc.) Woron. SPECIES
-=======
+# Mycosphaerella zeae (Sacc.) Woron. SPECIES
 
 #### Status
 ACCEPTED

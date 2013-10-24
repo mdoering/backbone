@@ -1,5 +1,4 @@
-Cistella calyptrata (Svrcek) Raitv. SPECIES
-=======
+# Cistella calyptrata (Svrcek) Raitv. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Timofeevia Vanguestaine, 1978 GENUS
-=======
+# Timofeevia Vanguestaine, 1978 GENUS
 
 #### Status
 ACCEPTED

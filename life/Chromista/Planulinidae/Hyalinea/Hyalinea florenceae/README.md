@@ -1,5 +1,4 @@
-Hyalinea florenceae McCulloch, 1977 SPECIES
-=======
+# Hyalinea florenceae McCulloch, 1977 SPECIES
 
 #### Status
 ACCEPTED

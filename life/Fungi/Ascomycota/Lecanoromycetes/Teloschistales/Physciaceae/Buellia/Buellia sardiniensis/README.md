@@ -1,5 +1,4 @@
-Buellia sardiniensis J. Steiner SPECIES
-=======
+# Buellia sardiniensis J. Steiner SPECIES
 
 #### Status
 ACCEPTED

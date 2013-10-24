@@ -1,5 +1,4 @@
-Pezizella orbilioides Feltgen SPECIES
-=======
+# Pezizella orbilioides Feltgen SPECIES
 
 #### Status
 ACCEPTED

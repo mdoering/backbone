@@ -1,5 +1,4 @@
-Hymenoscyphus tehovensis (Velen.) Svrcek SPECIES
-=======
+# Hymenoscyphus tehovensis (Velen.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

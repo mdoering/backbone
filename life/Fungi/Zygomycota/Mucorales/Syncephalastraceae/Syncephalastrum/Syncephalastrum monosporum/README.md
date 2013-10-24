@@ -1,5 +1,4 @@
-Syncephalastrum monosporum var. monosporum VARIETY
-=======
+# Syncephalastrum monosporum R.Y. Zheng, G.Q. Chen & F.M. Hu SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Mycosystema 1: 39 (1988)
 
 #### Original name
-Syncephalastrum monosporum var. monosporum
+Syncephalastrum monosporum R.Y. Zheng, G.Q. Chen & F.M. Hu
 
 ### Remarks
 null

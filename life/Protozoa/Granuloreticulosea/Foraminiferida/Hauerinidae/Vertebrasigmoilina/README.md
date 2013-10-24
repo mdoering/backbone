@@ -1,5 +1,4 @@
-Vertebrasigmoilina Hofker, 1976 GENUS
-=======
+# Vertebrasigmoilina Hofker, 1976 GENUS
 
 #### Status
 ACCEPTED

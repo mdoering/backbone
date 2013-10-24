@@ -1,17 +1,16 @@
-Mycosphaerella proteae-arboreae (P.S. van Wyk, Marasas & Knox-Dav.) Joanne E. Taylor & Crous, 2003 SPECIES
-=======
+# Teratosphaeria proteae-arboreae P.S. van Wyk, Marasas & Knox-Dav., 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Jl S. Afr. Bot. 41(4): 232 (1975)
 
 #### Original name
-null
+Teratosphaeria proteae-arboreae P.S. van Wyk, Marasas & Knox-Dav., 1975
 
 ### Remarks
 null

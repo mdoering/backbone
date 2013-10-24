@@ -1,5 +1,4 @@
-Phoma pini-nigrae Politis SPECIES
-=======
+# Phoma pini-nigrae Politis SPECIES
 
 #### Status
 ACCEPTED

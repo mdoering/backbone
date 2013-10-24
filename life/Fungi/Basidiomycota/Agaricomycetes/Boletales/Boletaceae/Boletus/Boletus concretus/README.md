@@ -1,5 +1,4 @@
-Boletus concretus Durieu & Lév. SPECIES
-=======
+# Boletus concretus Durieu & Lév. SPECIES
 
 #### Status
 ACCEPTED

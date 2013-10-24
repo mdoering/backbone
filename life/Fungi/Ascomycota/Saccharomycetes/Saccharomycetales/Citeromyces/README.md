@@ -1,5 +1,4 @@
-Citeromyces Santa María, 1957 GENUS
-=======
+# Citeromyces Santa María, 1957 GENUS
 
 #### Status
 ACCEPTED

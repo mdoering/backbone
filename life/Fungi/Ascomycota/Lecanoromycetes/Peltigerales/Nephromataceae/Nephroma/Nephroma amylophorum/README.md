@@ -1,5 +1,4 @@
-Nephroma amylophorum Gyeln. SPECIES
-=======
+# Nephroma amylophorum Gyeln. SPECIES
 
 #### Status
 ACCEPTED

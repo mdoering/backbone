@@ -1,5 +1,4 @@
-Evlania Bykova, 1952 GENUS
-=======
+# Evlania Bykova, 1952 GENUS
 
 #### Status
 ACCEPTED

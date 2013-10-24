@@ -1,5 +1,4 @@
-Hormodochium (Saccardo) Trotter, 1921 GENUS
-=======
+# Hormodochium (Saccardo) Trotter, 1921 GENUS
 
 #### Status
 ACCEPTED

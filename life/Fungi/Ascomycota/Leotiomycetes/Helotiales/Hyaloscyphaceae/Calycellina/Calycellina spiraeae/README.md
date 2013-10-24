@@ -1,14 +1,13 @@
-Pezizella spiraeae (Roberge ex Desm.) Sacc., 1889 SPECIES
-=======
+# Calycellina spiraeae (Roberge ex Desm.) Dennis, 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 8: 290 (1889)
+Persoonia 3(1): 66 (1964)
 
 #### Original name
 null

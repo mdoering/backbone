@@ -1,5 +1,4 @@
-Phyllosticta dryopteridis H.C. Greene SPECIES
-=======
+# Phyllosticta dryopteridis H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

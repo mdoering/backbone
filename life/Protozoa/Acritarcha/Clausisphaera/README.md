@@ -1,5 +1,4 @@
-Clausisphaera F.L. Staplin, 1962 GENUS
-=======
+# Clausisphaera F.L. Staplin, 1962 GENUS
 
 #### Status
 ACCEPTED

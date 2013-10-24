@@ -1,5 +1,4 @@
-Irpex caespitosus anon. SPECIES
-=======
+# Irpex caespitosus anon. SPECIES
 
 #### Status
 ACCEPTED

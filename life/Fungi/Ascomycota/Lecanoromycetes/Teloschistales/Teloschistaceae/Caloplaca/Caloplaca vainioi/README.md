@@ -1,5 +1,4 @@
-Caloplaca vainioi Hafellner & Poelt SPECIES
-=======
+# Caloplaca vainioi Hafellner & Poelt SPECIES
 
 #### Status
 ACCEPTED

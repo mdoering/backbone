@@ -1,5 +1,4 @@
-Sphaeria chrysosperma Pers. SPECIES
-=======
+# Sphaeria chrysosperma Pers. SPECIES
 
 #### Status
 ACCEPTED

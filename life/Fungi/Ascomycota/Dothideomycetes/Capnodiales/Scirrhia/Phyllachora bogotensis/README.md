@@ -1,5 +1,4 @@
-Phyllachora bogotensis Petr., 1947 SPECIES
-=======
+# Phyllachora bogotensis Petr., 1947 SPECIES
 
 #### Status
 DOUBTFUL

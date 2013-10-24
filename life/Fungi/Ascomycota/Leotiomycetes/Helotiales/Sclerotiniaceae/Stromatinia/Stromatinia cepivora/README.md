@@ -1,14 +1,13 @@
-Stromatinia cepivorum (Berk.) Whetzel SPECIES
-=======
+# Stromatinia cepivora (Berk.) Whetzel, 1945 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 37(6): 674 (1945)
 
 #### Original name
 Sclerotium cepivorum Berk., 1841

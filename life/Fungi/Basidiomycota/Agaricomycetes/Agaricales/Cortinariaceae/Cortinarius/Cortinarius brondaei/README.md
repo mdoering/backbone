@@ -1,5 +1,4 @@
-Cortinarius brondaei Quél. SPECIES
-=======
+# Cortinarius brondaei Quél. SPECIES
 
 #### Status
 ACCEPTED

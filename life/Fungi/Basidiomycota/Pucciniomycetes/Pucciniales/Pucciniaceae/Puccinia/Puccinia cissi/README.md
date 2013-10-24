@@ -1,5 +1,4 @@
-Puccinia cissi Cummins SPECIES
-=======
+# Puccinia cissi Cummins SPECIES
 
 #### Status
 ACCEPTED

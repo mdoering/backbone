@@ -1,5 +1,4 @@
-Gonyaulax baltica Ellegaard, Lewis & Harding SPECIES
-=======
+# Gonyaulax baltica Ellegaard, Lewis & Harding SPECIES
 
 #### Status
 ACCEPTED

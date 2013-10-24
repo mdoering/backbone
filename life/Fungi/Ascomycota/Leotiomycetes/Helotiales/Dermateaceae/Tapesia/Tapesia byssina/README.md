@@ -1,5 +1,4 @@
-Tapesia byssina Fuckel SPECIES
-=======
+# Tapesia byssina Fuckel SPECIES
 
 #### Status
 ACCEPTED

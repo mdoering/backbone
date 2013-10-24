@@ -1,5 +1,4 @@
-Atopospora Petrak, 1925 GENUS
-=======
+# Atopospora Petrak, 1925 GENUS
 
 #### Status
 ACCEPTED

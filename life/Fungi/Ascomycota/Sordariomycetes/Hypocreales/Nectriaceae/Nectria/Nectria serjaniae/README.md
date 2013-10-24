@@ -1,5 +1,4 @@
-Nectria serjaniae (Henn.) Petr. SPECIES
-=======
+# Nectria serjaniae (Henn.) Petr. SPECIES
 
 #### Status
 ACCEPTED

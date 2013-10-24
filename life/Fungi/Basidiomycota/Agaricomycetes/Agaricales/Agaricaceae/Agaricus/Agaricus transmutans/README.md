@@ -1,5 +1,4 @@
-Agaricus transmutans Peck SPECIES
-=======
+# Agaricus transmutans Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tuber multimaculatum Parladé, Trappe & I.F. Alvarez SPECIES
-=======
+# Tuber multimaculatum Parladé, Trappe & I.F. Alvarez SPECIES
 
 #### Status
 ACCEPTED

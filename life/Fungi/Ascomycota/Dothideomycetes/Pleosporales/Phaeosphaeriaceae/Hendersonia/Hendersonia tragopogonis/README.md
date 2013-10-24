@@ -1,5 +1,4 @@
-Hendersonia tragopogonis Lebedeva SPECIES
-=======
+# Hendersonia tragopogonis Lebedeva SPECIES
 
 #### Status
 ACCEPTED

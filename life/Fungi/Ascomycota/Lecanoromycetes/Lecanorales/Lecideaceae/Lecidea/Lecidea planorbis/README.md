@@ -1,5 +1,4 @@
-Lecidea planorbis (Körb.) Lettau SPECIES
-=======
+# Lecidea planorbis (Körb.) Lettau SPECIES
 
 #### Status
 ACCEPTED

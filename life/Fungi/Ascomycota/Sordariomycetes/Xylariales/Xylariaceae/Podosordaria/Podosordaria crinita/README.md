@@ -1,5 +1,4 @@
-Podosordaria crinita J.C. Krug & Cain SPECIES
-=======
+# Podosordaria crinita J.C. Krug & Cain SPECIES
 
 #### Status
 ACCEPTED

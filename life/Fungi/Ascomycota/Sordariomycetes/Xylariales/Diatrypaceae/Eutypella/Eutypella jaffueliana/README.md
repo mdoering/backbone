@@ -1,5 +1,4 @@
-Eutypella jaffueliana Speg. SPECIES
-=======
+# Eutypella jaffueliana Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stilbellula indica Chouhan & Panwar SPECIES
-=======
+# Stilbellula indica Chouhan & Panwar SPECIES
 
 #### Status
 ACCEPTED

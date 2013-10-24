@@ -1,5 +1,4 @@
-Phyllosticta curvarispora Hori SPECIES
-=======
+# Phyllosticta curvarispora Hori SPECIES
 
 #### Status
 ACCEPTED

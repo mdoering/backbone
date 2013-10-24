@@ -1,5 +1,4 @@
-Meliola pseudarthriae Hosag. & Manojk. SPECIES
-=======
+# Meliola pseudarthriae Hosag. & Manojk. SPECIES
 
 #### Status
 ACCEPTED

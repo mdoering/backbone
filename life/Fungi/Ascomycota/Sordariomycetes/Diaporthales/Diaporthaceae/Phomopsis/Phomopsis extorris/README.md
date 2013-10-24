@@ -1,5 +1,4 @@
-Phomopsis extorris Sacc., 1915 SPECIES
-=======
+# Phomopsis extorris Sacc., 1915 SPECIES
 
 #### Status
 ACCEPTED

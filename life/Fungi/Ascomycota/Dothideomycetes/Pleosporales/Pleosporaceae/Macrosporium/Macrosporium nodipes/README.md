@@ -1,5 +1,4 @@
-Macrosporium nodipes Sacc. SPECIES
-=======
+# Macrosporium nodipes Sacc. SPECIES
 
 #### Status
 ACCEPTED

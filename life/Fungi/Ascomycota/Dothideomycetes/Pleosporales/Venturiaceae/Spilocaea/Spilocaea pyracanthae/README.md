@@ -1,17 +1,16 @@
-Fusicladium pyrinum var. pyracanthae Thüm. VARIETY
-=======
+# Spilocaea pyracanthae (G.H. Otth) Arx, 1957 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Tijdschr. Plziekt. 63: 198 (1957)
 
 #### Original name
-Fusicladium pyrinum var. pyracanthae Thüm.
+Passalora pyracanthae G.H. Otth, 1869
 
 ### Remarks
 null

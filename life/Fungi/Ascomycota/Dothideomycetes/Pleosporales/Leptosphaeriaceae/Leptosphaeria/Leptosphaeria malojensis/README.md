@@ -1,5 +1,4 @@
-Leptosphaeria malojensis Kirschst. SPECIES
-=======
+# Leptosphaeria malojensis Kirschst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Triangumorpha Xing Yusheng & Liu Kuizhih, 1973 GENUS
-=======
+# Triangumorpha Xing Yusheng & Liu Kuizhih, 1973 GENUS
 
 #### Status
 ACCEPTED

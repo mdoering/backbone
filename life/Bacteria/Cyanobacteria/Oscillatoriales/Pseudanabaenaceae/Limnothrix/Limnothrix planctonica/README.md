@@ -1,5 +1,4 @@
-Limnothrix planctonica (Woloszynska) Meffert, 1988 SPECIES
-=======
+# Limnothrix planctonica (Woloszynska) Meffert, 1988 SPECIES
 
 #### Status
 ACCEPTED

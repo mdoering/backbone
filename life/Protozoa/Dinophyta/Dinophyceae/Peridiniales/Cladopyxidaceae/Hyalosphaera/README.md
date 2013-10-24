@@ -1,5 +1,4 @@
-Hyalosphaera Prauss, 1989 GENUS
-=======
+# Hyalosphaera Prauss, 1989 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coriolus armenicolor (Berk. & M.A. Curtis) Pat. SPECIES
-=======
+# Coriolus armenicolor (Berk. & M.A. Curtis) Pat. SPECIES
 
 #### Status
 ACCEPTED

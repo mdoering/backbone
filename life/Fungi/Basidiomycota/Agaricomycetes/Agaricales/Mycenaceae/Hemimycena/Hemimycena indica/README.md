@@ -1,5 +1,4 @@
-Hemimycena indica Natarajan & Manjula SPECIES
-=======
+# Hemimycena indica Natarajan & Manjula SPECIES
 
 #### Status
 ACCEPTED

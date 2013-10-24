@@ -1,5 +1,4 @@
-Graphis planetocarpa Leight. SPECIES
-=======
+# Graphis planetocarpa Leight. SPECIES
 
 #### Status
 ACCEPTED

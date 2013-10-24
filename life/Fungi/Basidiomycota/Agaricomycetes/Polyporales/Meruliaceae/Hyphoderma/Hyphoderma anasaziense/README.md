@@ -1,5 +1,4 @@
-Hyphoderma anasaziense Lindsey, 1986 SPECIES
-=======
+# Hyphoderma anasaziense Lindsey, 1986 SPECIES
 
 #### Status
 ACCEPTED

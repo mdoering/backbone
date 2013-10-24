@@ -1,5 +1,4 @@
-Ganoderma kosteri Steyaert, 1972 SPECIES
-=======
+# Ganoderma kosteri Steyaert, 1972 SPECIES
 
 #### Status
 ACCEPTED

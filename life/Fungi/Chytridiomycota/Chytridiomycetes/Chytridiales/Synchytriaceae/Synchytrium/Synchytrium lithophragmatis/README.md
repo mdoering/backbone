@@ -1,5 +1,4 @@
-Synchytrium lithophragmatis Karling SPECIES
-=======
+# Synchytrium lithophragmatis Karling SPECIES
 
 #### Status
 ACCEPTED

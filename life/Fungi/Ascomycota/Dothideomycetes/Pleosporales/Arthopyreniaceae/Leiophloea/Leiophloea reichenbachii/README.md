@@ -1,5 +1,4 @@
-Leiophloea reichenbachii Trevis. SPECIES
-=======
+# Leiophloea reichenbachii Trevis. SPECIES
 
 #### Status
 ACCEPTED

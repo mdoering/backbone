@@ -1,5 +1,4 @@
-Scolicosporium fagi Lib. ex Roum. SPECIES
-=======
+# Scolicosporium fagi Lib. ex Roum. SPECIES
 
 #### Status
 ACCEPTED

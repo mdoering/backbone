@@ -1,5 +1,4 @@
-Diplodina inulae Hollós SPECIES
-=======
+# Diplodina inulae Hollós SPECIES
 
 #### Status
 ACCEPTED

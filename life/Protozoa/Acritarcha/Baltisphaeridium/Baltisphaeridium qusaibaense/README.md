@@ -1,5 +1,4 @@
-Baltisphaeridium qusaibaense Al-Ruwaili, 2000 SPECIES
-=======
+# Baltisphaeridium qusaibaense Al-Ruwaili, 2000 SPECIES
 
 #### Status
 ACCEPTED

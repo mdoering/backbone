@@ -1,5 +1,4 @@
-Papulaspora pannosa Hotson, 1912 SPECIES
-=======
+# Papulaspora pannosa Hotson, 1912 SPECIES
 
 #### Status
 ACCEPTED

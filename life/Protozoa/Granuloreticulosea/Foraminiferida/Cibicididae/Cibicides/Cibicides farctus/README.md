@@ -1,8 +1,7 @@
-Nautilus farctus Fichtel & Moll, 1798 SPECIES
-=======
+# Cibicides farctus (Fichtel & Moll, 1798) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

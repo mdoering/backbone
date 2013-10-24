@@ -1,17 +1,16 @@
-Austrogaster costatus (E.L. Stewart & Trappe) Pegler & T.W.K. Young, 1989 SPECIES
-=======
+# Austrogautieria costata E.L. Stewart & Trappe, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 77(5): 679 (1985)
 
 #### Original name
-null
+Austrogautieria costata E.L. Stewart & Trappe, 1985
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Nitrospiraceae FAMILY
-=======
+# Nitrospiraceae FAMILY
 
 #### Status
 ACCEPTED

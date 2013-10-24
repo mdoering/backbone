@@ -1,5 +1,4 @@
-Rhabdospora haematommatum Kalb & Hafellner SPECIES
-=======
+# Rhabdospora haematommatum Kalb & Hafellner SPECIES
 
 #### Status
 ACCEPTED

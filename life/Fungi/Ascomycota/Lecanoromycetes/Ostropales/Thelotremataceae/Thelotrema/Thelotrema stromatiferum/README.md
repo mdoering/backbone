@@ -1,14 +1,13 @@
-Phaeotrema stromatiferum (Harm.) Zahlbr. SPECIES
-=======
+# Thelotrema stromatiferum Harm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Cat. Lich. Univers. 2: 610 (1923)
+Bull. Séanc. Soc. Sci. Nancy, Sér. 3 13: 45 (1912)
 
 #### Original name
 Thelotrema stromatiferum Harm.

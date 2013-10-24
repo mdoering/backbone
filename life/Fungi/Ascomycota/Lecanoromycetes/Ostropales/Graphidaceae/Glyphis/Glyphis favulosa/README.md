@@ -1,5 +1,4 @@
-Glyphis favulosa var. favulosa Ach. VARIETY
-=======
+# Glyphis favulosa Ach. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Syn. meth. lich. 107 (1814)
 
 #### Original name
-Glyphis favulosa var. favulosa Ach.
+Glyphis favulosa Ach.
 
 ### Remarks
 null

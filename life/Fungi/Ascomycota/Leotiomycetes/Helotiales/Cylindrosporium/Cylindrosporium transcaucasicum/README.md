@@ -1,5 +1,4 @@
-Cylindrosporium transcaucasicum Ibrah. & T.M. Achundov SPECIES
-=======
+# Cylindrosporium transcaucasicum Ibrah. & T.M. Achundov SPECIES
 
 #### Status
 ACCEPTED

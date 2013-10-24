@@ -1,5 +1,4 @@
-Monoicomyces ceylonensis Santam. SPECIES
-=======
+# Monoicomyces ceylonensis Santam. SPECIES
 
 #### Status
 ACCEPTED

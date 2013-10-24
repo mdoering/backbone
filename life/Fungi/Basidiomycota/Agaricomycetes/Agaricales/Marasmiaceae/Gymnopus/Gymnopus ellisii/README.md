@@ -1,5 +1,4 @@
-Gymnopus ellisii Murrill SPECIES
-=======
+# Gymnopus ellisii Murrill SPECIES
 
 #### Status
 ACCEPTED

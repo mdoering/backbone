@@ -1,17 +1,16 @@
-Hymenochaete escobari J.C. Léger SPECIES
-=======
+# Hymenochaete escobarii J.C. Léger, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Cryptog. Mycol. 11(4): 297 (1990)
 
 #### Original name
-Hymenochaete escobari J.C. Léger
+Hymenochaete dendroidea G.A. Escobar, 1978
 
 ### Remarks
 null

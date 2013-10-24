@@ -1,5 +1,4 @@
-Acineta stagnalis SPECIES
-=======
+# Acineta stagnalis SPECIES
 
 #### Status
 ACCEPTED

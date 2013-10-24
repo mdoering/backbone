@@ -1,5 +1,4 @@
-Discoaster septemradiatus (Klumpp, 1953) Martini, 1958 SPECIES
-=======
+# Discoaster septemradiatus (Klumpp, 1953) Martini, 1958 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Walkeromyces GENUS
-=======
+# Walkeromyces GENUS
 
 #### Status
 ACCEPTED

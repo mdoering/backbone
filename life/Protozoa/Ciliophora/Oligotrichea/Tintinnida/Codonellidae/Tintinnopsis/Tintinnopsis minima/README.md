@@ -1,5 +1,4 @@
-Tintinnopsis minima Wang & Nie, 1932 SPECIES
-=======
+# Tintinnopsis minima Wang & Nie, 1932 SPECIES
 
 #### Status
 ACCEPTED

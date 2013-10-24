@@ -1,5 +1,4 @@
-Phyllodictyon japonicum (Okamura & Segawa) G.T. Kraft & M.J. Wynne SPECIES
-=======
+# Phyllodictyon japonicum (Okamura & Segawa) G.T. Kraft & M.J. Wynne SPECIES
 
 #### Status
 ACCEPTED

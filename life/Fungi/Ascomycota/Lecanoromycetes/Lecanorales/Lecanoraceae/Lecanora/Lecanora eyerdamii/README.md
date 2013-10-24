@@ -1,5 +1,4 @@
-Lecanora eyerdamii Herre SPECIES
-=======
+# Lecanora eyerdamii Herre SPECIES
 
 #### Status
 ACCEPTED

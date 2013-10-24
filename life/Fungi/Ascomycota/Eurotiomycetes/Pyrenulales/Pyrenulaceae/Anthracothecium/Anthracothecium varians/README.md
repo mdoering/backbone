@@ -1,5 +1,4 @@
-Anthracothecium varians R.C. Harris SPECIES
-=======
+# Anthracothecium varians R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

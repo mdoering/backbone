@@ -1,5 +1,4 @@
-Pseudomycena caricina Velen. SPECIES
-=======
+# Pseudomycena caricina Velen. SPECIES
 
 #### Status
 ACCEPTED

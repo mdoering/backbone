@@ -1,5 +1,4 @@
-Biatora polycarpoides Müll. Arg. SPECIES
-=======
+# Biatora polycarpoides Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

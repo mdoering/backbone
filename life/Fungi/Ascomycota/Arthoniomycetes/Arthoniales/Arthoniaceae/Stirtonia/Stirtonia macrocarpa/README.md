@@ -1,5 +1,4 @@
-Stirtonia macrocarpa Makhija & Patw. SPECIES
-=======
+# Stirtonia macrocarpa Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psilocybe caesioannulata Singer SPECIES
-=======
+# Psilocybe caesioannulata Singer SPECIES
 
 #### Status
 ACCEPTED

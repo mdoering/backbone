@@ -1,5 +1,4 @@
-Clitocybe diaphana H.E. Bigelow SPECIES
-=======
+# Clitocybe diaphana H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

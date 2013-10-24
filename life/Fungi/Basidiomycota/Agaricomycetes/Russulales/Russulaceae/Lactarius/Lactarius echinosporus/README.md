@@ -1,5 +1,4 @@
-Lactarius echinosporus Z. Schaef. SPECIES
-=======
+# Lactarius echinosporus Z. Schaef. SPECIES
 
 #### Status
 ACCEPTED

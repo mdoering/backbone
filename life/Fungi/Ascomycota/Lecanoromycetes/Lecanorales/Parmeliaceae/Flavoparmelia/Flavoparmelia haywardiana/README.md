@@ -1,5 +1,4 @@
-Flavoparmelia haywardiana Elix & J. Johnst. SPECIES
-=======
+# Flavoparmelia haywardiana Elix & J. Johnst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma kobayasianum E. Horak SPECIES
-=======
+# Entoloma kobayasianum E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bothrotrachytriletes GENUS
-=======
+# Bothrotrachytriletes GENUS
 
 #### Status
 ACCEPTED

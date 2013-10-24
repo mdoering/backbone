@@ -1,5 +1,4 @@
-Cortinarius citriolens Ammirati & M.M. Moser SPECIES
-=======
+# Cortinarius citriolens Ammirati & M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

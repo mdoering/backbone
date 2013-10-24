@@ -1,5 +1,4 @@
-Lecanora subhaematites Kremp. SPECIES
-=======
+# Lecanora subhaematites Kremp. SPECIES
 
 #### Status
 ACCEPTED

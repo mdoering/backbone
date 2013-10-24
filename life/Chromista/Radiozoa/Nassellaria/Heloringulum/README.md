@@ -1,5 +1,4 @@
-Heloringulum GENUS
-=======
+# Heloringulum GENUS
 
 #### Status
 ACCEPTED

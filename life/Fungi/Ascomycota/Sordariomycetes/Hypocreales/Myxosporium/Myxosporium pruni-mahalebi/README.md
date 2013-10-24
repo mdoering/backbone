@@ -1,8 +1,7 @@
-Myxosporium pruni-mahaleb Cruchet SPECIES
-=======
+# Myxosporium pruni-mahalebi Cruchet SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Myxosporium pruni-mahaleb Cruchet
+Myxosporium pruni-mahalebi Cruchet
 
 ### Remarks
 null

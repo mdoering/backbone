@@ -1,5 +1,4 @@
-Ustilago hieronymi var. hieronymi VARIETY
-=======
+# Ustilago hieronymi J. Schröt. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Hedwigia 35: 213 (1896)
 
 #### Original name
-Ustilago hieronymi var. hieronymi
+Ustilago hieronymi J. Schröt.
 
 ### Remarks
 null

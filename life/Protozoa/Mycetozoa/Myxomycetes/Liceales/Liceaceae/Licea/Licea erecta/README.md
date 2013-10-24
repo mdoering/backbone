@@ -1,17 +1,16 @@
-Licea erecta var. erectoides (Nann.-Bremek. & Y. Yamam.) Y. Yamam. VARIETY
-=======
+# Licea erecta K.S. Thind & Dhillon, 1967 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-The Myxomycete Biota of Japan (Tokyo) 130 (1998)
+null
 
 #### Original name
-Licea erectoides Nann.-Bremek. & Y. Yamam., 1983
+Licea erecta K.S. Thind & Dhillon, 1967
 
 ### Remarks
 null

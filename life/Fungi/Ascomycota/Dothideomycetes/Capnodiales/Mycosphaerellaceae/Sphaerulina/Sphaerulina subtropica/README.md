@@ -1,5 +1,4 @@
-Sphaerulina subtropica Speg. SPECIES
-=======
+# Sphaerulina subtropica Speg. SPECIES
 
 #### Status
 ACCEPTED

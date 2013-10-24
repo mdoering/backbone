@@ -1,5 +1,4 @@
-Ramularia tiliae Lobik SPECIES
-=======
+# Ramularia tiliae Lobik SPECIES
 
 #### Status
 ACCEPTED

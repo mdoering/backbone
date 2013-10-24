@@ -1,5 +1,4 @@
-Eucyrtidium teuscheri Haeckel, 1887 SPECIES
-=======
+# Eucyrtidium teuscheri Haeckel, 1887 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria ranunculacearum Lév. SPECIES
-=======
+# Septoria ranunculacearum Lév. SPECIES
 
 #### Status
 ACCEPTED

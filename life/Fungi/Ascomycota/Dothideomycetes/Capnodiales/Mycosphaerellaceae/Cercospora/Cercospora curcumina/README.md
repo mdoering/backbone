@@ -1,5 +1,4 @@
-Cercospora curcumina R.K. Srivast., N. Srivast. & A.K. Srivast. SPECIES
-=======
+# Cercospora curcumina R.K. Srivast., N. Srivast. & A.K. Srivast. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phomopsis agapanthi Punith. & Spooner SPECIES
-=======
+# Phomopsis agapanthi Punith. & Spooner SPECIES
 
 #### Status
 ACCEPTED

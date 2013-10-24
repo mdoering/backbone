@@ -1,5 +1,4 @@
-Metasphaeria fontanesiae Pass. SPECIES
-=======
+# Metasphaeria fontanesiae Pass. SPECIES
 
 #### Status
 ACCEPTED

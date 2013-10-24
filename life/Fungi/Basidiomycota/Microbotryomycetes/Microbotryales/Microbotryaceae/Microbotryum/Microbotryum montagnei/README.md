@@ -1,5 +1,4 @@
-Microbotryum montagnei Lév. SPECIES
-=======
+# Microbotryum montagnei Lév. SPECIES
 
 #### Status
 ACCEPTED

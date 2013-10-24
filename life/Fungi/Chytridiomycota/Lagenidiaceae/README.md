@@ -1,5 +1,4 @@
-Lagenidiaceae J. Schröt. FAMILY
-=======
+# Lagenidiaceae J. Schröt. FAMILY
 
 #### Status
 ACCEPTED

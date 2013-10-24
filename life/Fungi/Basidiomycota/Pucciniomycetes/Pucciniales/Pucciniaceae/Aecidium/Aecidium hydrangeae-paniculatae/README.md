@@ -1,5 +1,4 @@
-Aecidium hydrangeae-paniculatae Dietel SPECIES
-=======
+# Aecidium hydrangeae-paniculatae Dietel SPECIES
 
 #### Status
 ACCEPTED

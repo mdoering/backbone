@@ -1,5 +1,4 @@
-Dyadosporites hilatus Kalgutkar & Janson. SPECIES
-=======
+# Dyadosporites hilatus Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

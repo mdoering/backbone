@@ -1,5 +1,4 @@
-Echidnodella rondeletiae R.W. Ryan SPECIES
-=======
+# Echidnodella rondeletiae R.W. Ryan SPECIES
 
 #### Status
 ACCEPTED

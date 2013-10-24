@@ -1,5 +1,4 @@
-Chaenothecopsis kalbii Tibell & K. Ryman SPECIES
-=======
+# Chaenothecopsis kalbii Tibell & K. Ryman SPECIES
 
 #### Status
 ACCEPTED

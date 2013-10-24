@@ -1,5 +1,4 @@
-Relicina (Hale & Kurok.) Hale GENUS
-=======
+# Relicina (Hale & Kurok.) Hale GENUS
 
 #### Status
 ACCEPTED

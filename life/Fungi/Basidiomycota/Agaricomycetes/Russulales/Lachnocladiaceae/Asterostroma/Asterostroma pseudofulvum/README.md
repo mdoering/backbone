@@ -1,5 +1,4 @@
-Asterostroma pseudofulvum Parmasto, 1970 SPECIES
-=======
+# Asterostroma pseudofulvum Parmasto, 1970 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stemonitis capillitionodosa G. Moreno, D. W. Mitch., C. Rojas & S. L. Stephenson, 2010 SPECIES
-=======
+# Stemonitis capillitionodosa G. Moreno, D. W. Mitch., C. Rojas & S. L. Stephenson, 2010 SPECIES
 
 #### Status
 ACCEPTED

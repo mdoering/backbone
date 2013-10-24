@@ -1,5 +1,4 @@
-Lecanora pachirana Zahlbr. SPECIES
-=======
+# Lecanora pachirana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichosporum berengerianum Sacc. SPECIES
-=======
+# Trichosporum berengerianum Sacc. SPECIES
 
 #### Status
 ACCEPTED

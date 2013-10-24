@@ -1,5 +1,4 @@
-Flammula janseana Henn. & E. Nyman SPECIES
-=======
+# Flammula janseana Henn. & E. Nyman SPECIES
 
 #### Status
 ACCEPTED

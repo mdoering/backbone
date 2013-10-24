@@ -1,5 +1,4 @@
-Chrysosporium minor Skou SPECIES
-=======
+# Chrysosporium minor Skou SPECIES
 
 #### Status
 ACCEPTED

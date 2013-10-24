@@ -1,5 +1,4 @@
-Mycena seynii Quél. SPECIES
-=======
+# Mycena seynii Quél. SPECIES
 
 #### Status
 ACCEPTED

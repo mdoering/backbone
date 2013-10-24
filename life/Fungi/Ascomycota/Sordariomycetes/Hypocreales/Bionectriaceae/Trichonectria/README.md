@@ -1,5 +1,4 @@
-Trichonectria Kirschstein, 1907 GENUS
-=======
+# Trichonectria Kirschstein, 1907 GENUS
 
 #### Status
 ACCEPTED

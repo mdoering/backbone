@@ -1,5 +1,4 @@
-Agaricus inconspicuus Lasch SPECIES
-=======
+# Agaricus inconspicuus Lasch SPECIES
 
 #### Status
 ACCEPTED

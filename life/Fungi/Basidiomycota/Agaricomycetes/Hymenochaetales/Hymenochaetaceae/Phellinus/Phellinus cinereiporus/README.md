@@ -1,5 +1,4 @@
-Phellinus cinereiporus Corner SPECIES
-=======
+# Phellinus cinereiporus Corner SPECIES
 
 #### Status
 ACCEPTED

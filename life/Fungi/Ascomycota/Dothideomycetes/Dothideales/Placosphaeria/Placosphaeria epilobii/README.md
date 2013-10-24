@@ -1,5 +1,4 @@
-Placosphaeria epilobii Bres. ex Jaap SPECIES
-=======
+# Placosphaeria epilobii Bres. ex Jaap SPECIES
 
 #### Status
 ACCEPTED

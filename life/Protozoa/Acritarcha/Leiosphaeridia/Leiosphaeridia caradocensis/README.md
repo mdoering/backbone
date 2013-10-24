@@ -1,5 +1,4 @@
-Leiosphaeridia caradocensis (Turner, 1984) Colbath & Grenfell, 1995 SPECIES
-=======
+# Leiosphaeridia caradocensis (Turner, 1984) Colbath & Grenfell, 1995 SPECIES
 
 #### Status
 ACCEPTED

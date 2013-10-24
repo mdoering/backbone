@@ -1,5 +1,4 @@
-Hemicryptocapsa Tan Sin Hok, 1928 GENUS
-=======
+# Hemicryptocapsa Tan Sin Hok, 1928 GENUS
 
 #### Status
 ACCEPTED

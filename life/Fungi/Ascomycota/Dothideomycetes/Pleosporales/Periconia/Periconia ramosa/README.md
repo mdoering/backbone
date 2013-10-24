@@ -1,5 +1,4 @@
-Periconia ramosa Spring SPECIES
-=======
+# Periconia ramosa Spring SPECIES
 
 #### Status
 ACCEPTED

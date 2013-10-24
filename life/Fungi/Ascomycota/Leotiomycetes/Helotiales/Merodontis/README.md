@@ -1,17 +1,16 @@
-Davinciella (Sacc. & D. Sacc.) Trotter GENUS
-=======
+# Merodontis Clem. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Saccardo, Syll. fung. (Abellini) 24(2): 1214 (1928)
+Gen. fung. (Minneapolis) 87, 175 (1909)
 
 #### Original name
-null
+Merodontis Clem.
 
 ### Remarks
 null

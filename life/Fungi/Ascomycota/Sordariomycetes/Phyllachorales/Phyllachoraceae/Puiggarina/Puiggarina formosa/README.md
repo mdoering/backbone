@@ -1,5 +1,4 @@
-Puiggarina formosa Speg., 1922 SPECIES
-=======
+# Puiggarina formosa Speg., 1922 SPECIES
 
 #### Status
 ACCEPTED

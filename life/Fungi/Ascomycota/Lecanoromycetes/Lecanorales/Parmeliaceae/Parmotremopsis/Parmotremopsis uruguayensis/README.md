@@ -1,5 +1,4 @@
-Parmotremopsis uruguayensis Kurok. & Osorio SPECIES
-=======
+# Parmotremopsis uruguayensis Kurok. & Osorio SPECIES
 
 #### Status
 ACCEPTED

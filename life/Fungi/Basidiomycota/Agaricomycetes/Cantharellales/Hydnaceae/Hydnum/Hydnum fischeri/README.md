@@ -1,5 +1,4 @@
-Hydnum fischeri Opiz SPECIES
-=======
+# Hydnum fischeri Opiz SPECIES
 
 #### Status
 ACCEPTED

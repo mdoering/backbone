@@ -1,5 +1,4 @@
-Ricasolia intermedia Nyl. SPECIES
-=======
+# Ricasolia intermedia Nyl. SPECIES
 
 #### Status
 ACCEPTED

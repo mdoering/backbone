@@ -1,5 +1,4 @@
-Encephalitozoon salmonis SPECIES
-=======
+# Encephalitozoon salmonis SPECIES
 
 #### Status
 ACCEPTED

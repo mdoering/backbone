@@ -1,5 +1,4 @@
-Lingulopyrulinoides Saidova, 1975 GENUS
-=======
+# Lingulopyrulinoides Saidova, 1975 GENUS
 
 #### Status
 ACCEPTED

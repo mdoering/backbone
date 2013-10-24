@@ -1,5 +1,4 @@
-Cruciplacolithus latipons Romein, 1979 SPECIES
-=======
+# Cruciplacolithus latipons Romein, 1979 SPECIES
 
 #### Status
 ACCEPTED

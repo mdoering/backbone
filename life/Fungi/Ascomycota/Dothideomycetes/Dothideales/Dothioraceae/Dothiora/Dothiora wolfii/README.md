@@ -1,5 +1,4 @@
-Dothiora wolfii M.E. Barr SPECIES
-=======
+# Dothiora wolfii M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

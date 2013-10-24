@@ -1,5 +1,4 @@
-Zachariasia M. Voigt, 1901 GENUS
-=======
+# Zachariasia M. Voigt, 1901 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cothurnia operculigera SPECIES
-=======
+# Cothurnia operculigera SPECIES
 
 #### Status
 ACCEPTED

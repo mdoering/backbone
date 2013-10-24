@@ -1,5 +1,4 @@
-Lichen ehrhartii Bert {?} ex Ach. SPECIES
-=======
+# Lichen ehrhartii Bert {?} ex Ach. SPECIES
 
 #### Status
 ACCEPTED

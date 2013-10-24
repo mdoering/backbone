@@ -1,5 +1,4 @@
-Cercospora evolvuli Chupp SPECIES
-=======
+# Cercospora evolvuli Chupp SPECIES
 
 #### Status
 ACCEPTED

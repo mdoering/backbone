@@ -1,5 +1,4 @@
-Peziza hyalina var. hyalina VARIETY
-=======
+# Peziza hyalina Hoffm. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Peziza hyalina var. hyalina
+Peziza hyalina Hoffm.
 
 ### Remarks
 null

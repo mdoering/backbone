@@ -1,5 +1,4 @@
-Peronospora saturejae-hortensis Osipian SPECIES
-=======
+# Peronospora saturejae-hortensis Osipian SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia oaxacana Dietel & Holw. SPECIES
-=======
+# Puccinia oaxacana Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

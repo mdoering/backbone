@@ -1,5 +1,4 @@
-Macrophoma sycophila (Massee) Sacc. & D. Sacc. SPECIES
-=======
+# Macrophoma sycophila (Massee) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sticta nervosa C.W. Dodge SPECIES
-=======
+# Sticta nervosa C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

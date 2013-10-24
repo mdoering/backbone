@@ -1,5 +1,4 @@
-Phragmidium occidentale Arthur SPECIES
-=======
+# Phragmidium occidentale Arthur SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudomassaria occidentalis M.E. Barr SPECIES
-=======
+# Pseudomassaria occidentalis M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

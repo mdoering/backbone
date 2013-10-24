@@ -1,5 +1,4 @@
-Basitokophrya Yankovskij, 1982 GENUS
-=======
+# Basitokophrya Yankovskij, 1982 GENUS
 
 #### Status
 ACCEPTED

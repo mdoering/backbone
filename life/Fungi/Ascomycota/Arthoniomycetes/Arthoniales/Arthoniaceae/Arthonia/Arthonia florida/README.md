@@ -1,5 +1,4 @@
-Arthonia florida Willey SPECIES
-=======
+# Arthonia florida Willey SPECIES
 
 #### Status
 ACCEPTED

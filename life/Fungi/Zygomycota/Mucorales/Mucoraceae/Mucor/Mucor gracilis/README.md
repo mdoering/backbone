@@ -1,5 +1,4 @@
-Mucor gracilis Link SPECIES
-=======
+# Mucor gracilis Link SPECIES
 
 #### Status
 ACCEPTED

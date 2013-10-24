@@ -1,5 +1,4 @@
-Lichen varius Ehrh. SPECIES
-=======
+# Lichen varius Ehrh. SPECIES
 
 #### Status
 ACCEPTED

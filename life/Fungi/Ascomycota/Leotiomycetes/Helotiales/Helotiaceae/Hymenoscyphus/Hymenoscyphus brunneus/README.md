@@ -1,5 +1,4 @@
-Hymenoscyphus brunneus M.P. Sharma SPECIES
-=======
+# Hymenoscyphus brunneus M.P. Sharma SPECIES
 
 #### Status
 ACCEPTED

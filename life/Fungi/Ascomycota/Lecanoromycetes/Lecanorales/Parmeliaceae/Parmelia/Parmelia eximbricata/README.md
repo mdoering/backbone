@@ -1,5 +1,4 @@
-Parmelia eximbricata (Gyeln.) Hale & Kurok. SPECIES
-=======
+# Parmelia eximbricata (Gyeln.) Hale & Kurok. SPECIES
 
 #### Status
 ACCEPTED

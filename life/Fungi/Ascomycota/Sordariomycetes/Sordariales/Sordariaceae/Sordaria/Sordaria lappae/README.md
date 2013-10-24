@@ -1,5 +1,4 @@
-Sordaria lappae Potebnia, 1907 SPECIES
-=======
+# Sordaria lappae Potebnia, 1907 SPECIES
 
 #### Status
 ACCEPTED

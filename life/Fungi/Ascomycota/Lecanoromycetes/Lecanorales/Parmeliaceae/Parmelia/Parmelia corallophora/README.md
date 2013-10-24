@@ -1,5 +1,4 @@
-Parmelia corallophora Taylor SPECIES
-=======
+# Parmelia corallophora Taylor SPECIES
 
 #### Status
 ACCEPTED

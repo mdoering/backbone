@@ -1,5 +1,4 @@
-Corynascella humicola Arx & Hodges, 1975 SPECIES
-=======
+# Corynascella humicola Arx & Hodges, 1975 SPECIES
 
 #### Status
 ACCEPTED

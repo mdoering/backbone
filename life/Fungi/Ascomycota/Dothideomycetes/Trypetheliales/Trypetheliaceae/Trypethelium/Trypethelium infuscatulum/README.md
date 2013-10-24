@@ -1,5 +1,4 @@
-Trypethelium infuscatulum var. infuscatulum VARIETY
-=======
+# Trypethelium infuscatulum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Engler's Bot. Jahrb. 6: 389 (1885)
 
 #### Original name
-Trypethelium infuscatulum var. infuscatulum
+Trypethelium infuscatulum Müll. Arg.
 
 ### Remarks
 null

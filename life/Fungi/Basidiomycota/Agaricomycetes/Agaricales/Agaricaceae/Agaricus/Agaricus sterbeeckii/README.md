@@ -1,5 +1,4 @@
-Agaricus sterbeeckii J. Kickx f. SPECIES
-=======
+# Agaricus sterbeeckii J. Kickx f. SPECIES
 
 #### Status
 ACCEPTED

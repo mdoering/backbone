@@ -1,5 +1,4 @@
-Hydrocybe peckii (G.F. Atk.) Murrill SPECIES
-=======
+# Hydrocybe peckii (G.F. Atk.) Murrill SPECIES
 
 #### Status
 ACCEPTED

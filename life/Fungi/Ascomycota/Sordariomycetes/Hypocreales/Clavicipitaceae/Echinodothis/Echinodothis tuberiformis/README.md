@@ -1,14 +1,13 @@
-Hypocrella tuberiformis (Berk. & Ravenel) G.F. Atk., 1891 SPECIES
-=======
+# Echinodothis tuberiformis (Berk. & Ravenel) G.F. Atk., 1894 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Gaz. 16: 284 (1891)
+Bull. Torrey bot. Club 21: 224 (1894)
 
 #### Original name
 Hypocrea tuberiformis Berk. & Ravenel, 1859

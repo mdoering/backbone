@@ -1,5 +1,4 @@
-Tomentella bambusina Viégas SPECIES
-=======
+# Tomentella bambusina Viégas SPECIES
 
 #### Status
 ACCEPTED

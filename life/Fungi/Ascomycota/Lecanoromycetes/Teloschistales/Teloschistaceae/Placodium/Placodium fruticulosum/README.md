@@ -1,5 +1,4 @@
-Placodium fruticulosum Darb. SPECIES
-=======
+# Placodium fruticulosum Darb. SPECIES
 
 #### Status
 ACCEPTED

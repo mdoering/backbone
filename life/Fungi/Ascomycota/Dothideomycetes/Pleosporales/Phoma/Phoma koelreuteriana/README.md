@@ -1,5 +1,4 @@
-Phoma koelreuteriana Hollós SPECIES
-=======
+# Phoma koelreuteriana Hollós SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe piceae Stangl & Schwöbel SPECIES
-=======
+# Inocybe piceae Stangl & Schwöbel SPECIES
 
 #### Status
 ACCEPTED

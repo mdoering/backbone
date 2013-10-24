@@ -1,5 +1,4 @@
-Trachelomonas angustata Deflandre SPECIES
-=======
+# Trachelomonas angustata Deflandre SPECIES
 
 #### Status
 ACCEPTED

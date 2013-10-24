@@ -1,5 +1,4 @@
-Hemimycena crispuliformis Singer SPECIES
-=======
+# Hemimycena crispuliformis Singer SPECIES
 
 #### Status
 ACCEPTED

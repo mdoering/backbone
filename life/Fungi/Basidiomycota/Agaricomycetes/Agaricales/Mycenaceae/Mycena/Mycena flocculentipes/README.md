@@ -1,5 +1,4 @@
-Mycena flocculentipes Huijsman SPECIES
-=======
+# Mycena flocculentipes Huijsman SPECIES
 
 #### Status
 ACCEPTED

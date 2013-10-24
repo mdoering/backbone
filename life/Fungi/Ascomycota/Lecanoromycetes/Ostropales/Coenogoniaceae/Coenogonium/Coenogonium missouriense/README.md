@@ -1,5 +1,4 @@
-Coenogonium missouriense Jos.S. Davis SPECIES
-=======
+# Coenogonium missouriense Jos.S. Davis SPECIES
 
 #### Status
 ACCEPTED

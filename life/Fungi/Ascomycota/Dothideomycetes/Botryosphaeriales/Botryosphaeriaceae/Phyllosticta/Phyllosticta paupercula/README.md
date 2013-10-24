@@ -1,5 +1,4 @@
-Phyllosticta paupercula Peck SPECIES
-=======
+# Phyllosticta paupercula Peck SPECIES
 
 #### Status
 ACCEPTED

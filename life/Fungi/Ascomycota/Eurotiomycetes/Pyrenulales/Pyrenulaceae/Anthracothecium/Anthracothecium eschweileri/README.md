@@ -1,5 +1,4 @@
-Anthracothecium eschweileri Müll. Arg. SPECIES
-=======
+# Anthracothecium eschweileri Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

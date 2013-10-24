@@ -1,5 +1,4 @@
-Kalmusia epimelaena Sacc. SPECIES
-=======
+# Kalmusia epimelaena Sacc. SPECIES
 
 #### Status
 ACCEPTED

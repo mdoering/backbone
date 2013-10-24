@@ -1,5 +1,4 @@
-Ramularia lomatiicola U. Braun SPECIES
-=======
+# Ramularia lomatiicola U. Braun SPECIES
 
 #### Status
 ACCEPTED

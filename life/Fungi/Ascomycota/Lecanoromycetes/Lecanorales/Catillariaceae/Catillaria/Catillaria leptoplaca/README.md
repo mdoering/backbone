@@ -1,5 +1,4 @@
-Catillaria leptoplaca Vain. SPECIES
-=======
+# Catillaria leptoplaca Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspicilia sipeana (H. Magn.) Owe-Larss. & A. Nordin SPECIES
-=======
+# Aspicilia sipeana (H. Magn.) Owe-Larss. & A. Nordin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Botryobasidium olivaceum Boidin & Gilles, 1982 SPECIES
-=======
+# Botryobasidium olivaceum Boidin & Gilles, 1982 SPECIES
 
 #### Status
 ACCEPTED

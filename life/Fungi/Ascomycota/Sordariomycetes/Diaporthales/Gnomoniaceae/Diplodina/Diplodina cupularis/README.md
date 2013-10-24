@@ -1,5 +1,4 @@
-Diplodina cupularis P. Karst. SPECIES
-=======
+# Diplodina cupularis P. Karst. SPECIES
 
 #### Status
 ACCEPTED

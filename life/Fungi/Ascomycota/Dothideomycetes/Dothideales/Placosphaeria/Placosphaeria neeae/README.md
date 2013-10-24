@@ -1,5 +1,4 @@
-Placosphaeria neeae Bat. & Peres SPECIES
-=======
+# Placosphaeria neeae Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

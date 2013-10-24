@@ -1,5 +1,4 @@
-Polyscytalum cylindroides Sacc. & Ellis SPECIES
-=======
+# Polyscytalum cylindroides Sacc. & Ellis SPECIES
 
 #### Status
 ACCEPTED

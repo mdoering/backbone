@@ -1,5 +1,4 @@
-Fusidium tumescens Fuckel SPECIES
-=======
+# Fusidium tumescens Fuckel SPECIES
 
 #### Status
 ACCEPTED

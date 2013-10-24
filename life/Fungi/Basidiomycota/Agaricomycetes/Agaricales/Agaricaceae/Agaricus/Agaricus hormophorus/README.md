@@ -1,5 +1,4 @@
-Agaricus hormophorus Mont. SPECIES
-=======
+# Agaricus hormophorus Mont. SPECIES
 
 #### Status
 ACCEPTED

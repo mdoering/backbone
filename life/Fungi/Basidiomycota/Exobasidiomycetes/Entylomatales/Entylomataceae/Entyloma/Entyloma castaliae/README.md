@@ -1,5 +1,4 @@
-Entyloma castaliae Holw. SPECIES
-=======
+# Entyloma castaliae Holw. SPECIES
 
 #### Status
 ACCEPTED

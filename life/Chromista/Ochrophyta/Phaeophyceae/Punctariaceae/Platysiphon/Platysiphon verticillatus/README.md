@@ -1,5 +1,4 @@
-Platysiphon verticillatus Wilce SPECIES
-=======
+# Platysiphon verticillatus Wilce SPECIES
 
 #### Status
 ACCEPTED

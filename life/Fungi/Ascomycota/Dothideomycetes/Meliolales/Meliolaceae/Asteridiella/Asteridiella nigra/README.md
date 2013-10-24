@@ -1,5 +1,4 @@
-Asteridiella nigra (F. Stevens) Hansf. SPECIES
-=======
+# Asteridiella nigra (F. Stevens) Hansf. SPECIES
 
 #### Status
 ACCEPTED

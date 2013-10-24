@@ -1,5 +1,4 @@
-Massalongia intricata Øvstedal SPECIES
-=======
+# Massalongia intricata Øvstedal SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calvatia boninensis S. Ito & S. Imai SPECIES
-=======
+# Calvatia boninensis S. Ito & S. Imai SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Croftalania M. Krings, H. Kerp, H. Hass, T.N. Taylor & N. Dotzler, 2007 GENUS
-=======
+# Croftalania M. Krings, H. Kerp, H. Hass, T.N. Taylor & N. Dotzler, 2007 GENUS
 
 #### Status
 ACCEPTED

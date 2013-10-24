@@ -1,5 +1,4 @@
-Sphaeria acuminata M.A. Curtis SPECIES
-=======
+# Sphaeria acuminata M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

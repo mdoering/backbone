@@ -1,5 +1,4 @@
-Blastenia personata Hulting SPECIES
-=======
+# Blastenia personata Hulting SPECIES
 
 #### Status
 ACCEPTED

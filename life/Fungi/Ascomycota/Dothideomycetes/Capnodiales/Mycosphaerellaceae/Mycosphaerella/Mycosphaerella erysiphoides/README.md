@@ -1,5 +1,4 @@
-Mycosphaerella erysiphoides (Sacc.) Miles SPECIES
-=======
+# Mycosphaerella erysiphoides (Sacc.) Miles SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnosporangium exiguum F. Kern, 1908 SPECIES
-=======
+# Gymnosporangium exiguum F. Kern, 1908 SPECIES
 
 #### Status
 ACCEPTED

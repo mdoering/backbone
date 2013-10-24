@@ -1,5 +1,4 @@
-Polygonium acuminosum (Cramer & Díez, 1977) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Polygonium acuminosum (Cramer & Díez, 1977) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

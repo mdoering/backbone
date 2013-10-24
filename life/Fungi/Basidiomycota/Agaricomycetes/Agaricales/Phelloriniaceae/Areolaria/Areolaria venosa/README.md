@@ -1,5 +1,4 @@
-Areolaria venosa (Boud.) De Toni SPECIES
-=======
+# Areolaria venosa (Boud.) De Toni SPECIES
 
 #### Status
 ACCEPTED

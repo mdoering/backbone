@@ -1,5 +1,4 @@
-Coleosporium aposeridis P. Syd. & Syd. SPECIES
-=======
+# Coleosporium aposeridis P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

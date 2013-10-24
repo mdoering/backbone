@@ -1,5 +1,4 @@
-Rotaliella chasteri (Heron-Allen & Earland, 1913) SPECIES
-=======
+# Rotaliella chasteri (Heron-Allen & Earland, 1913) SPECIES
 
 #### Status
 ACCEPTED

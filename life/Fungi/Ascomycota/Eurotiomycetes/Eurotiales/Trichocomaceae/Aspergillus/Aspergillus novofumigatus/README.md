@@ -1,5 +1,4 @@
-Aspergillus novofumigatus S.B. Hong, Frisvad & Samson SPECIES
-=======
+# Aspergillus novofumigatus S.B. Hong, Frisvad & Samson SPECIES
 
 #### Status
 ACCEPTED

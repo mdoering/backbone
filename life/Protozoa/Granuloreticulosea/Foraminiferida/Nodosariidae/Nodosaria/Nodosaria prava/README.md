@@ -1,5 +1,4 @@
-Nodosaria prava Cushman, 1933 SPECIES
-=======
+# Nodosaria prava Cushman, 1933 SPECIES
 
 #### Status
 ACCEPTED

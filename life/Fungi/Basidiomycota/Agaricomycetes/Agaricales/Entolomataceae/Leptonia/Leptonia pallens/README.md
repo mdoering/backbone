@@ -1,5 +1,4 @@
-Leptonia pallens P. Karst. SPECIES
-=======
+# Leptonia pallens P. Karst. SPECIES
 
 #### Status
 ACCEPTED

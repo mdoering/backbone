@@ -1,5 +1,4 @@
-Asterina flacourtiacearum Hosag. & K. Ravik. SPECIES
-=======
+# Asterina flacourtiacearum Hosag. & K. Ravik. SPECIES
 
 #### Status
 ACCEPTED

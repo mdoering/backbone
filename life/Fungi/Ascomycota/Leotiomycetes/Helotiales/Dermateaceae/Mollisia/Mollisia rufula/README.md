@@ -1,5 +1,4 @@
-Mollisia rufula var. rufula VARIETY
-=======
+# Mollisia rufula Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Mollisia rufula var. rufula
+Mollisia rufula Sacc.
 
 ### Remarks
 null

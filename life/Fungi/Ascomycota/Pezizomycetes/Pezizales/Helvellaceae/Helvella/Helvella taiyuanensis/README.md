@@ -1,5 +1,4 @@
-Helvella taiyuanensis B. Liu, Du & J.Z. Cao SPECIES
-=======
+# Helvella taiyuanensis B. Liu, Du & J.Z. Cao SPECIES
 
 #### Status
 ACCEPTED

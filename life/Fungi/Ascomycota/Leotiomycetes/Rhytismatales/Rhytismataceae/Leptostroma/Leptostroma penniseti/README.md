@@ -1,5 +1,4 @@
-Leptostroma penniseti Henn. SPECIES
-=======
+# Leptostroma penniseti Henn. SPECIES
 
 #### Status
 ACCEPTED

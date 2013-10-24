@@ -1,5 +1,4 @@
-Rosellinia arctispora (Cooke & Ellis) Sacc. SPECIES
-=======
+# Rosellinia arctispora (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

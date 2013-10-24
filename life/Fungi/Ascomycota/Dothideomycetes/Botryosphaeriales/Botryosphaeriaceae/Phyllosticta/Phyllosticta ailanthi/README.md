@@ -1,5 +1,4 @@
-Phyllosticta ailanthi Sacc. SPECIES
-=======
+# Phyllosticta ailanthi Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Agaricus terginus subsp. terginus SUBSPECIES
-=======
+# Gymnopus terginus (Fr.) Antonín & Noordel., 1997 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Antonín, Halling & Noordeloos, Mycotaxon 63: 365 (1997)
 
 #### Original name
-null
+Agaricus terginus Fr., 1821
 
 ### Remarks
 null

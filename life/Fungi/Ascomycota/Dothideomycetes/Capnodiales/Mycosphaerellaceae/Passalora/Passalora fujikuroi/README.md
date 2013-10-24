@@ -1,5 +1,4 @@
-Passalora fujikuroi (N. Pons) U. Braun & Crous SPECIES
-=======
+# Passalora fujikuroi (N. Pons) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

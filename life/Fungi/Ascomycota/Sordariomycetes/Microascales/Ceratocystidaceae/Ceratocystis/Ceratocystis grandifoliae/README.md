@@ -1,5 +1,4 @@
-Ceratocystis grandifoliae R.W. Davidson SPECIES
-=======
+# Ceratocystis grandifoliae R.W. Davidson SPECIES
 
 #### Status
 ACCEPTED

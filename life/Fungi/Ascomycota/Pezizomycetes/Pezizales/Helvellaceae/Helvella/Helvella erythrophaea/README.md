@@ -1,5 +1,4 @@
-Helvella erythrophaea Pers. SPECIES
-=======
+# Helvella erythrophaea Pers. SPECIES
 
 #### Status
 ACCEPTED

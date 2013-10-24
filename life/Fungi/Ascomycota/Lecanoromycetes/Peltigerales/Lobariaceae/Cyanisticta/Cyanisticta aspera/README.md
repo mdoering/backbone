@@ -1,5 +1,4 @@
-Cyanisticta aspera (Laurer) C.W. Dodge SPECIES
-=======
+# Cyanisticta aspera (Laurer) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

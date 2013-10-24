@@ -1,14 +1,13 @@
-Polyporus fulvomelleus (Murrill) Sacc. & Trotter, 1912 SPECIES
-=======
+# Inonotus fulvomelleus Murrill, 1908 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 21: 274 (1912)
+N. Amer. Fl. (New York) 9(2): 87 (1908)
 
 #### Original name
 Inonotus fulvomelleus Murrill, 1908

@@ -1,5 +1,4 @@
-Dinemasporium minimum Cooke & Ellis SPECIES
-=======
+# Dinemasporium minimum Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

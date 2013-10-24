@@ -1,14 +1,13 @@
-Biatora immersa (Hoffm.) P. Syd. SPECIES
-=======
+# Clauzadea immersa (Hoffm.) Hafellner & Bellem. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flecht. Deutschl. 181 (1887)
+in Hafellner, Beih. Nova Hedwigia 79: 322 (1984)
 
 #### Original name
 null

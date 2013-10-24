@@ -1,5 +1,4 @@
-Agaricus stanneus Fr. SPECIES
-=======
+# Agaricus stanneus Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scolecopeltidium lantanae Bat. & I.H. Lima SPECIES
-=======
+# Scolecopeltidium lantanae Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

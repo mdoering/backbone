@@ -1,5 +1,4 @@
-Lachnea samoensis Henn. SPECIES
-=======
+# Lachnea samoensis Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporocybe grandiuscula Syd. SPECIES
-=======
+# Sporocybe grandiuscula Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spermotrichum pulchellum (Speg.) Kuntze, 1898 SPECIES
-=======
+# Spermotrichum pulchellum (Speg.) Kuntze, 1898 SPECIES
 
 #### Status
 ACCEPTED

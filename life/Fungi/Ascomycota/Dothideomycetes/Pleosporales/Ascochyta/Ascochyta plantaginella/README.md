@@ -1,5 +1,4 @@
-Ascochyta plantaginella Tehon SPECIES
-=======
+# Ascochyta plantaginella Tehon SPECIES
 
 #### Status
 ACCEPTED

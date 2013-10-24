@@ -1,17 +1,16 @@
-Cercospora juglandis Kellerm. & Swingle, 1889 SPECIES
-=======
+# Pseudocercospora juglandis (Kellerm. & Swingle) U. Braun & Crous, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Crous & Braun, CBS Diversity Ser. (Utrecht) 232 (2003)
 
 #### Original name
-null
+Cercospora juglandis Kellerm. & Swingle, 1889
 
 ### Remarks
 null

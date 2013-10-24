@@ -1,5 +1,4 @@
-Nonionella astricta McCulloch, 1965 SPECIES
-=======
+# Nonionella astricta McCulloch, 1965 SPECIES
 
 #### Status
 ACCEPTED

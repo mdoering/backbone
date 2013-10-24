@@ -1,5 +1,4 @@
-Dothiorella diatrypea (Sacc.) Grove SPECIES
-=======
+# Dothiorella diatrypea (Sacc.) Grove SPECIES
 
 #### Status
 ACCEPTED

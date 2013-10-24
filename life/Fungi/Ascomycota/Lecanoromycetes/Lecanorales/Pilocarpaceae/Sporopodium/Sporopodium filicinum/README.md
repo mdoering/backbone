@@ -1,5 +1,4 @@
-Sporopodium filicinum var. filicinum VARIETY
-=======
+# Sporopodium filicinum SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sporopodium filicinum var. filicinum
+null
 
 ### Remarks
 null

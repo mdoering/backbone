@@ -1,5 +1,4 @@
-Hydnangium echinulatum Corner & hawker SPECIES
-=======
+# Hydnangium echinulatum Corner & hawker SPECIES
 
 #### Status
 ACCEPTED

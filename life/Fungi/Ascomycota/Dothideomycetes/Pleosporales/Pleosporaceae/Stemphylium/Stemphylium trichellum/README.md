@@ -1,5 +1,4 @@
-Stemphylium trichellum Arcang. & Sacc. SPECIES
-=======
+# Stemphylium trichellum Arcang. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

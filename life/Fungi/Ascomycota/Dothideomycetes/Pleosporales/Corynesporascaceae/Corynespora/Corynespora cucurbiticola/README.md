@@ -1,17 +1,16 @@
-Corynespora cucurbitaecola Meenu, Kharwar & Bhartiya SPECIES
-=======
+# Corynespora cucurbiticola Meenu, Kharwar & Bhartiya SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Phytopath. 51(2): 146 (1998)
 
 #### Original name
-Corynespora cucurbitaecola Meenu, Kharwar & Bhartiya
+Corynespora cucurbiticola Meenu, Kharwar & Bhartiya
 
 ### Remarks
 null

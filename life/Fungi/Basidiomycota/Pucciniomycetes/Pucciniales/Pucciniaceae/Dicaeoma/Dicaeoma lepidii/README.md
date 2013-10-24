@@ -1,5 +1,4 @@
-Dicaeoma lepidii (Thüm.) Kuntze SPECIES
-=======
+# Dicaeoma lepidii (Thüm.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

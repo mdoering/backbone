@@ -1,14 +1,13 @@
-Ramularia oxyriae Trail, 1887 SPECIES
-=======
+# Pseudocercosporella oxyriae (Trail) U. Braun, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Bot. Soc. Edinb. 17: 493 (1887)
+Nova Hedwigia 47(3-4): 343 (1988)
 
 #### Original name
 Ramularia oxyriae Trail, 1887

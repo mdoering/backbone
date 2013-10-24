@@ -1,5 +1,4 @@
-Pertusaria sublacerans A. W. Archer SPECIES
-=======
+# Pertusaria sublacerans A. W. Archer SPECIES
 
 #### Status
 ACCEPTED

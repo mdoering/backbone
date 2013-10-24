@@ -1,5 +1,4 @@
-Crocynia singularis B. de Lesd. SPECIES
-=======
+# Crocynia singularis B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

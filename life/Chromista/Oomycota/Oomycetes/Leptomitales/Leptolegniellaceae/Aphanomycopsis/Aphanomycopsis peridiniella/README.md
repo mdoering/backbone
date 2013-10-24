@@ -1,5 +1,4 @@
-Aphanomycopsis peridiniella Boltovskoy & Aramb., 1984 SPECIES
-=======
+# Aphanomycopsis peridiniella Boltovskoy & Aramb., 1984 SPECIES
 
 #### Status
 ACCEPTED

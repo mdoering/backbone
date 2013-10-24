@@ -1,5 +1,4 @@
-Erythrobacter seohaensis Yoon et al., 2005 SPECIES
-=======
+# Erythrobacter seohaensis Yoon et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

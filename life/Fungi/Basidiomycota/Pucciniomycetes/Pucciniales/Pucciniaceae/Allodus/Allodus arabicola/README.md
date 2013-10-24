@@ -1,5 +1,4 @@
-Allodus arabicola (Ellis & Everh.) Arthur & Orton SPECIES
-=======
+# Allodus arabicola (Ellis & Everh.) Arthur & Orton SPECIES
 
 #### Status
 ACCEPTED

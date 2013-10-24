@@ -1,5 +1,4 @@
-Thallassiosiraceae FAMILY
-=======
+# Thallassiosiraceae FAMILY
 
 #### Status
 ACCEPTED

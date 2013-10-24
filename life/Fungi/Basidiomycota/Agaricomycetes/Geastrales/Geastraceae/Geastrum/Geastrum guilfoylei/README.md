@@ -1,8 +1,7 @@
-Geaster guilfoylei F. Muell. SPECIES
-=======
+# Geastrum guilfoylei F. Muell. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Geaster guilfoylei F. Muell.
+Geastrum guilfoylei F. Muell.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lactarius olivescens Verbeken & E. Horak SPECIES
-=======
+# Lactarius olivescens Verbeken & E. Horak SPECIES
 
 #### Status
 ACCEPTED

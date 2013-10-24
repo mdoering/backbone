@@ -1,5 +1,4 @@
-Pluteolus intermedius Coker SPECIES
-=======
+# Pluteolus intermedius Coker SPECIES
 
 #### Status
 ACCEPTED

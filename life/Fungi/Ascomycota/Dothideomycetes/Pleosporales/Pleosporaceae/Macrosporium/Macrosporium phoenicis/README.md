@@ -1,5 +1,4 @@
-Macrosporium phoenicis Nann. SPECIES
-=======
+# Macrosporium phoenicis Nann. SPECIES
 
 #### Status
 ACCEPTED

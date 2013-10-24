@@ -1,5 +1,4 @@
-Asterina pelliculosa Berk. SPECIES
-=======
+# Asterina pelliculosa Berk. SPECIES
 
 #### Status
 ACCEPTED

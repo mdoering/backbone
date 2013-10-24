@@ -1,5 +1,4 @@
-Galzinia geminispora L.S. Olive, 1954 SPECIES
-=======
+# Galzinia geminispora L.S. Olive, 1954 SPECIES
 
 #### Status
 ACCEPTED

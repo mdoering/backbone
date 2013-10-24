@@ -1,17 +1,16 @@
-Chaetomella terricola var. terricola VARIETY
-=======
+# Chaetomella raphigera Swift, 1930 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycopathologia 19: 255 (1963)
+Mycologia 22(4): 165 (1930)
 
 #### Original name
-Chaetomella terricola var. terricola
+Chaetomella raphigera Swift, 1930
 
 ### Remarks
 null

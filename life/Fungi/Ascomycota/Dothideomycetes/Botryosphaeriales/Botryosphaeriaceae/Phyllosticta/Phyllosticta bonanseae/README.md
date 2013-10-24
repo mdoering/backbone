@@ -1,5 +1,4 @@
-Phyllosticta bonanseae Sacc. SPECIES
-=======
+# Phyllosticta bonanseae Sacc. SPECIES
 
 #### Status
 ACCEPTED

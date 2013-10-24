@@ -1,5 +1,4 @@
-Guignardia apocyni (Ellis & Everh.) M.E. Barr SPECIES
-=======
+# Guignardia apocyni (Ellis & Everh.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

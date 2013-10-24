@@ -1,5 +1,4 @@
-Meliola denticulata G. Winter SPECIES
-=======
+# Meliola denticulata G. Winter SPECIES
 
 #### Status
 ACCEPTED

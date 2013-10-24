@@ -1,5 +1,4 @@
-Rickia polonica T. Majewski SPECIES
-=======
+# Rickia polonica T. Majewski SPECIES
 
 #### Status
 ACCEPTED

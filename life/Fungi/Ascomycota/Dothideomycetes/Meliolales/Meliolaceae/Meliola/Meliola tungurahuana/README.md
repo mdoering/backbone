@@ -1,5 +1,4 @@
-Meliola tungurahuana Syd. SPECIES
-=======
+# Meliola tungurahuana Syd. SPECIES
 
 #### Status
 ACCEPTED

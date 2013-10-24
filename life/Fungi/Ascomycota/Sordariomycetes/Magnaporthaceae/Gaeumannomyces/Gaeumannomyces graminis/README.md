@@ -1,5 +1,4 @@
-Gaeumannomyces graminis var. graminis (Sacc.) Arx & D.L. Olivier, 1952 VARIETY
-=======
+# Gaeumannomyces graminis (Sacc.) Arx & D.L. Olivier, 1952 SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 35: 32 (1952)
+null
 
 #### Original name
-Gaeumannomyces graminis var. graminis (Sacc.) Arx & D.L. Olivier, 1952
+null
 
 ### Remarks
 null

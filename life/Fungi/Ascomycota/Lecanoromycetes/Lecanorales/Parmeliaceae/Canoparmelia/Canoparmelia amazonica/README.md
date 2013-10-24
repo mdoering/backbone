@@ -1,17 +1,16 @@
-Parmelia amazonica var. amazonica VARIETY
-=======
+# Canoparmelia amazonica (Nyl.) Elix & Hale SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Elix, Johnston & Verdon, Mycotaxon 27: 278 (1986)
 
 #### Original name
-Parmelia amazonica var. amazonica
+Parmelia amazonica Nyl.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pertusaria cobrata D.D. Awasthi & Preeti Srivast. SPECIES
-=======
+# Pertusaria cobrata D.D. Awasthi & Preeti Srivast. SPECIES
 
 #### Status
 ACCEPTED

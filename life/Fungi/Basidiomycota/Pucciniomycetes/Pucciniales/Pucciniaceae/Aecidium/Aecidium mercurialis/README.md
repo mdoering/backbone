@@ -1,5 +1,4 @@
-Aecidium mercurialis Schumach. SPECIES
-=======
+# Aecidium mercurialis Schumach. SPECIES
 
 #### Status
 ACCEPTED

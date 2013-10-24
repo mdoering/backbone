@@ -1,5 +1,4 @@
-Aspicilia caesula (Ach.) SPECIES
-=======
+# Aspicilia caesula (Ach.) SPECIES
 
 #### Status
 ACCEPTED

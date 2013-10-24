@@ -1,5 +1,4 @@
-Planorotalites Morozova, 1957 GENUS
-=======
+# Planorotalites Morozova, 1957 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fellhaneropsis australiana Lücking SPECIES
-=======
+# Fellhaneropsis australiana Lücking SPECIES
 
 #### Status
 ACCEPTED

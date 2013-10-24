@@ -1,5 +1,4 @@
-Lactobacillus pontis Vogel et al., 1994 SPECIES
-=======
+# Lactobacillus pontis Vogel et al., 1994 SPECIES
 
 #### Status
 ACCEPTED

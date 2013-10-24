@@ -1,5 +1,4 @@
-Acanthocystis chaetophora SPECIES
-=======
+# Acanthocystis chaetophora SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza paulula Johns. {?} SPECIES
-=======
+# Peziza paulula Johns. {?} SPECIES
 
 #### Status
 ACCEPTED

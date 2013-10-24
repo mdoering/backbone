@@ -1,5 +1,4 @@
-Euglena klebsii (Lemmermann) Mainx SPECIES
-=======
+# Euglena klebsii (Lemmermann) Mainx SPECIES
 
 #### Status
 ACCEPTED

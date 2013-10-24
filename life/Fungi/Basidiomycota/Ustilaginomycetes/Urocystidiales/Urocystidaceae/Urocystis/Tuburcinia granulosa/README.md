@@ -1,5 +1,4 @@
-Tuburcinia granulosa var. granulosa VARIETY
-=======
+# Tuburcinia granulosa (G.P. Clinton) Liro SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Ann. Univ. fenn. Aboënsis, Ser. A 1(no. 1): (1922)
 
 #### Original name
-Tuburcinia granulosa var. granulosa
+Urocystis granulosa G.P. Clinton
 
 ### Remarks
 null

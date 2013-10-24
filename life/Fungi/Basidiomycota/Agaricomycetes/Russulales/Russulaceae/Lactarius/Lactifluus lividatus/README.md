@@ -1,5 +1,4 @@
-Lactifluus lividatus (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Lactifluus lividatus (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

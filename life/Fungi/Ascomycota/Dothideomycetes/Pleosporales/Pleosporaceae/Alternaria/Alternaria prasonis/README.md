@@ -1,5 +1,4 @@
-Alternaria prasonis E.G. Simmons SPECIES
-=======
+# Alternaria prasonis E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paramoebidae FAMILY
-=======
+# Paramoebidae FAMILY
 
 #### Status
 ACCEPTED

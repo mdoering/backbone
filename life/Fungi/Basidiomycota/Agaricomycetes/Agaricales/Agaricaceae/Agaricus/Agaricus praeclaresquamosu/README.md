@@ -1,5 +1,4 @@
-Agaricus praeclaresquamosu Freeman SPECIES
-=======
+# Agaricus praeclaresquamosu Freeman SPECIES
 
 #### Status
 ACCEPTED

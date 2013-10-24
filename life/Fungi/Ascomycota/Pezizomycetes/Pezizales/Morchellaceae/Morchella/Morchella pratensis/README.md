@@ -1,5 +1,4 @@
-Morchella pratensis Leuba SPECIES
-=======
+# Morchella pratensis Leuba SPECIES
 
 #### Status
 ACCEPTED

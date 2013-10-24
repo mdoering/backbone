@@ -1,5 +1,4 @@
-Melanospora rhizophila Peglion & Sacc. SPECIES
-=======
+# Melanospora rhizophila Peglion & Sacc. SPECIES
 
 #### Status
 ACCEPTED

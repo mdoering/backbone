@@ -1,5 +1,4 @@
-Polystictus luteovelutinus Bres. SPECIES
-=======
+# Polystictus luteovelutinus Bres. SPECIES
 
 #### Status
 ACCEPTED

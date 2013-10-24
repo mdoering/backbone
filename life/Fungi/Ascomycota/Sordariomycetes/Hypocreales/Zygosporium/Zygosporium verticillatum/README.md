@@ -1,5 +1,4 @@
-Zygosporium verticillatum S.B. Thakur & Udipi, 1976 SPECIES
-=======
+# Zygosporium verticillatum S.B. Thakur & Udipi, 1976 SPECIES
 
 #### Status
 ACCEPTED

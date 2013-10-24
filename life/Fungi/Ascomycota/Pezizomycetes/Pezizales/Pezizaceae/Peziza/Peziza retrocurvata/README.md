@@ -1,5 +1,4 @@
-Peziza retrocurvata K. Hansen & Sandal SPECIES
-=======
+# Peziza retrocurvata K. Hansen & Sandal SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Darluca vulpiae Unamuno SPECIES
-=======
+# Darluca vulpiae Unamuno SPECIES
 
 #### Status
 ACCEPTED

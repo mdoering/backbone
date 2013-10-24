@@ -1,5 +1,4 @@
-Trochospira Hamaoui & Saint-Marc, 1970 GENUS
-=======
+# Trochospira Hamaoui & Saint-Marc, 1970 GENUS
 
 #### Status
 ACCEPTED

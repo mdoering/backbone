@@ -1,5 +1,4 @@
-Mycena pseudoinclinata A.H. Sm. SPECIES
-=======
+# Mycena pseudoinclinata A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

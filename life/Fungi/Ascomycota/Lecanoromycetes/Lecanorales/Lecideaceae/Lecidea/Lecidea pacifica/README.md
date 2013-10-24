@@ -1,5 +1,4 @@
-Lecidea pacifica Herre SPECIES
-=======
+# Lecidea pacifica Herre SPECIES
 
 #### Status
 ACCEPTED

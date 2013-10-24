@@ -1,5 +1,4 @@
-Omphalia straminea Petch SPECIES
-=======
+# Omphalia straminea Petch SPECIES
 
 #### Status
 ACCEPTED

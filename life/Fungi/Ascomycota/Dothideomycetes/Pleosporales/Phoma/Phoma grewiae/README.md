@@ -1,5 +1,4 @@
-Phoma grewiae Terjajeva SPECIES
-=======
+# Phoma grewiae Terjajeva SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Odontia fulva (Berk. & M.A. Curtis) Pat., 1924 SPECIES
-=======
+# Scytinostroma fulvum (Berk. & M.A. Curtis) Hjortstam, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 40: 34 (1924)
+Mycotaxon 39: 420 (1990)
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Planktothrix miyadii (Negoro) I. Umezaki & M. Watanabe SPECIES
-=======
+# Planktothrix miyadii (Negoro) I. Umezaki & M. Watanabe SPECIES
 
 #### Status
 ACCEPTED

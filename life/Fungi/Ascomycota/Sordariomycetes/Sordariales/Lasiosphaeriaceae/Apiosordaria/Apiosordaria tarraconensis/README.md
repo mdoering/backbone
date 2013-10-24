@@ -1,5 +1,4 @@
-Apiosordaria tarraconensis ined. SPECIES
-=======
+# Apiosordaria tarraconensis ined. SPECIES
 
 #### Status
 ACCEPTED

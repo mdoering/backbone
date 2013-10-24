@@ -1,14 +1,13 @@
-Geophila turficola (J. Favre) Kühner & Romagn., 1953 SPECIES
-=======
+# Psilocybe turficola J. Favre, 1939 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fl. Analyt. Champ. Supér. (Paris) 337 (1953)
+Bull. trimest. Soc. mycol. Fr. 35: 196 (1939)
 
 #### Original name
 Psilocybe turficola J. Favre, 1939

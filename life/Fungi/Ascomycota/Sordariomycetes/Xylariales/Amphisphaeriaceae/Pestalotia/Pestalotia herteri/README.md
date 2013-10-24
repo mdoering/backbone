@@ -1,5 +1,4 @@
-Pestalotia herteri Petr. SPECIES
-=======
+# Pestalotia herteri Petr. SPECIES
 
 #### Status
 ACCEPTED

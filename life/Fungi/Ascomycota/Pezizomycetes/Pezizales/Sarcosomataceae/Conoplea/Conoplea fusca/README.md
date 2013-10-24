@@ -1,5 +1,4 @@
-Conoplea fusca Pers., 1822 SPECIES
-=======
+# Conoplea fusca Pers., 1822 SPECIES
 
 #### Status
 ACCEPTED

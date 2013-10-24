@@ -1,5 +1,4 @@
-Parafavella obtusa (Aurivillius, 1899) SPECIES
-=======
+# Parafavella obtusa (Aurivillius, 1899) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dimorphosphaera H. Keupp, 1979 GENUS
-=======
+# Dimorphosphaera H. Keupp, 1979 GENUS
 
 #### Status
 ACCEPTED

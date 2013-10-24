@@ -1,5 +1,4 @@
-Diplotomma mexicanum (J. Steiner) B. de Lesd. SPECIES
-=======
+# Diplotomma mexicanum (J. Steiner) B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

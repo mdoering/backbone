@@ -1,5 +1,4 @@
-Stromatothelium arctecinctum (Fée) Trevis. SPECIES
-=======
+# Stromatothelium arctecinctum (Fée) Trevis. SPECIES
 
 #### Status
 ACCEPTED

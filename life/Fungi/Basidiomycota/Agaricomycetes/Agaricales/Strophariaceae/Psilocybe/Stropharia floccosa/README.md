@@ -1,5 +1,4 @@
-Stropharia floccosa Earle SPECIES
-=======
+# Stropharia floccosa Earle SPECIES
 
 #### Status
 ACCEPTED

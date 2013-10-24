@@ -1,5 +1,4 @@
-Exidiopsis tuberculosa (Torrend) Lonati SPECIES
-=======
+# Exidiopsis tuberculosa (Torrend) Lonati SPECIES
 
 #### Status
 ACCEPTED

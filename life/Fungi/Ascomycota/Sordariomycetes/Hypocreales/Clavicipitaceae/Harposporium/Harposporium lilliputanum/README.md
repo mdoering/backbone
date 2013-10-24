@@ -1,5 +1,4 @@
-Harposporium lilliputanum S.M. Dixon, 1952 SPECIES
-=======
+# Harposporium lilliputanum S.M. Dixon, 1952 SPECIES
 
 #### Status
 ACCEPTED

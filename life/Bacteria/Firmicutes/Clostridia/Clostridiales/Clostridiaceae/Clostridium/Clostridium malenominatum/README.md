@@ -1,5 +1,4 @@
-Clostridium malenominatum (Weinberg et al., 1937) Spray, 1948 (Approved Lists, 1980) SPECIES
-=======
+# Clostridium malenominatum (Weinberg et al., 1937) Spray, 1948 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

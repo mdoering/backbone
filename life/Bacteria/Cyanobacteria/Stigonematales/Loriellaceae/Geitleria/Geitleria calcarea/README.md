@@ -1,5 +1,4 @@
-Geitleria calcarea Friedmann SPECIES
-=======
+# Geitleria calcarea Friedmann SPECIES
 
 #### Status
 ACCEPTED

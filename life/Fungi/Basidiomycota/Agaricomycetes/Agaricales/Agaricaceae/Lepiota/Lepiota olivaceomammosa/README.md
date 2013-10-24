@@ -1,5 +1,4 @@
-Lepiota olivaceomammosa var. olivaceomammosa VARIETY
-=======
+# Lepiota olivaceomammosa Rick SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Brotéria, sér. bot. 18: 49 (1920)
 
 #### Original name
-Lepiota olivaceomammosa var. olivaceomammosa
+Lepiota olivaceomammosa Rick
 
 ### Remarks
 null

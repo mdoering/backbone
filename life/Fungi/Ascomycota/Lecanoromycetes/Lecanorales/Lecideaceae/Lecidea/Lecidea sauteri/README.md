@@ -1,5 +1,4 @@
-Lecidea sauteri Körb. SPECIES
-=======
+# Lecidea sauteri Körb. SPECIES
 
 #### Status
 ACCEPTED

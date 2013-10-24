@@ -1,5 +1,4 @@
-Sclerotium umbilicatum Roberge ex Desm. SPECIES
-=======
+# Sclerotium umbilicatum Roberge ex Desm. SPECIES
 
 #### Status
 ACCEPTED

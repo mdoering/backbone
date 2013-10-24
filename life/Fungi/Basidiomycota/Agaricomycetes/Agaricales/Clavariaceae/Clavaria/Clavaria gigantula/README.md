@@ -1,5 +1,4 @@
-Clavaria gigantula Britzelm. SPECIES
-=======
+# Clavaria gigantula Britzelm. SPECIES
 
 #### Status
 ACCEPTED

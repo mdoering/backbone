@@ -1,5 +1,4 @@
-Tulostoma semisulcatum Peck SPECIES
-=======
+# Tulostoma semisulcatum Peck SPECIES
 
 #### Status
 ACCEPTED

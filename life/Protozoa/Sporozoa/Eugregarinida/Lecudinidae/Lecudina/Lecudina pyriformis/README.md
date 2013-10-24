@@ -1,5 +1,4 @@
-Lecudina pyriformis Bogolepova, 1953 SPECIES
-=======
+# Lecudina pyriformis Bogolepova, 1953 SPECIES
 
 #### Status
 ACCEPTED

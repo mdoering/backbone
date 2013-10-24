@@ -1,5 +1,4 @@
-Sirothecium minor B. Sutton SPECIES
-=======
+# Sirothecium minor B. Sutton SPECIES
 
 #### Status
 ACCEPTED

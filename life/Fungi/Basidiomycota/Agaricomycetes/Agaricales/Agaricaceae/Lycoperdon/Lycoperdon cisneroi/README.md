@@ -1,5 +1,4 @@
-Lycoperdon cisneroi (Speg.) Herter SPECIES
-=======
+# Lycoperdon cisneroi (Speg.) Herter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Septoria evansi Syd. SPECIES
-=======
+# Septoria evansii Syd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Septoria evansi Syd.
+Septoria evansii Syd.
 
 ### Remarks
 null

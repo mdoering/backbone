@@ -1,8 +1,7 @@
-Sphaeria nyssaecola Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeria nyssicola Berk. & M.A. Curtis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sphaeria nyssaecola Berk. & M.A. Curtis
+Sphaeria nyssicola Berk. & M.A. Curtis
 
 ### Remarks
 null

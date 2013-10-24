@@ -1,5 +1,4 @@
-Trichoconis hibernica Deighton & Piroz. SPECIES
-=======
+# Trichoconis hibernica Deighton & Piroz. SPECIES
 
 #### Status
 ACCEPTED

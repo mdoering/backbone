@@ -1,5 +1,4 @@
-Lobosa CLASS
-=======
+# Lobosa CLASS
 
 #### Status
 ACCEPTED

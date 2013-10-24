@@ -1,5 +1,4 @@
-Auricularia wrightii (Berk. & M.A. Curtis) Farl. SPECIES
-=======
+# Auricularia wrightii (Berk. & M.A. Curtis) Farl. SPECIES
 
 #### Status
 ACCEPTED

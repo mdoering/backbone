@@ -1,5 +1,4 @@
-Lecanora epimela (Nyl.) Motyka SPECIES
-=======
+# Lecanora epimela (Nyl.) Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Malassezia slooffiae J. Guillot, Midgley & E. Guého, 1996 SPECIES
-=======
+# Malassezia slooffiae J. Guillot, Midgley & E. Guého, 1996 SPECIES
 
 #### Status
 ACCEPTED

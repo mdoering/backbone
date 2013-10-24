@@ -1,5 +1,4 @@
-Spathidium vermicus SPECIES
-=======
+# Spathidium vermicus SPECIES
 
 #### Status
 ACCEPTED

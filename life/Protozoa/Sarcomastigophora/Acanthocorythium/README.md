@@ -1,5 +1,4 @@
-Acanthocorythium Haeckel, 1887 GENUS
-=======
+# Acanthocorythium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

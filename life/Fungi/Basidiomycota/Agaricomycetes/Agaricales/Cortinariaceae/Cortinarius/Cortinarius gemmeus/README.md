@@ -1,5 +1,4 @@
-Cortinarius gemmeus E. Horak, 1990 SPECIES
-=======
+# Cortinarius gemmeus E. Horak, 1990 SPECIES
 
 #### Status
 ACCEPTED

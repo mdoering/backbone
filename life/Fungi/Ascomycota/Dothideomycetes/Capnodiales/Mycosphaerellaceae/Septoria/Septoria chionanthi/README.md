@@ -1,5 +1,4 @@
-Septoria chionanthi Cooke SPECIES
-=======
+# Septoria chionanthi Cooke SPECIES
 
 #### Status
 ACCEPTED

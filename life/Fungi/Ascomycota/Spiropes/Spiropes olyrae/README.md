@@ -1,5 +1,4 @@
-Spiropes olyrae (Viégas) Sivan. SPECIES
-=======
+# Spiropes olyrae (Viégas) Sivan. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeosphaeria caricis-firmae (Petr.) Leuchtm. & Schmid-Heckel SPECIES
-=======
+# Phaeosphaeria caricis-firmae (Petr.) Leuchtm. & Schmid-Heckel SPECIES
 
 #### Status
 ACCEPTED

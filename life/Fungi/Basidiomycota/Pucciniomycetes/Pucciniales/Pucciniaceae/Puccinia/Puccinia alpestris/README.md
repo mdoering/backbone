@@ -1,5 +1,4 @@
-Puccinia alpestris P. Syd. & Syd. SPECIES
-=======
+# Puccinia alpestris P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

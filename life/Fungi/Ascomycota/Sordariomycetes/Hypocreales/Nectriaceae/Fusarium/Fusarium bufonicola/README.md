@@ -1,5 +1,4 @@
-Fusarium bufonicola (Speg.) Sacc. & Trotter SPECIES
-=======
+# Fusarium bufonicola (Speg.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

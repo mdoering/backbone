@@ -1,5 +1,4 @@
-Peccania corallina Hazsl. SPECIES
-=======
+# Peccania corallina Hazsl. SPECIES
 
 #### Status
 ACCEPTED

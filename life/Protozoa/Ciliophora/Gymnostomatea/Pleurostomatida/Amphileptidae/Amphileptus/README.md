@@ -1,5 +1,4 @@
-Amphileptus Ehrenberg, 1830 GENUS
-=======
+# Amphileptus Ehrenberg, 1830 GENUS
 
 #### Status
 ACCEPTED

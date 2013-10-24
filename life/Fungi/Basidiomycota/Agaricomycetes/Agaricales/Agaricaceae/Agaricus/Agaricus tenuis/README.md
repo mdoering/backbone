@@ -1,5 +1,4 @@
-Agaricus tenuis Bolton SPECIES
-=======
+# Agaricus tenuis Bolton SPECIES
 
 #### Status
 ACCEPTED

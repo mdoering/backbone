@@ -1,5 +1,4 @@
-Laminaria bongardiana Postels & Ruprecht SPECIES
-=======
+# Laminaria bongardiana Postels & Ruprecht SPECIES
 
 #### Status
 ACCEPTED

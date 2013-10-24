@@ -1,5 +1,4 @@
-Palaeoxyphostylus Won, 1983 GENUS
-=======
+# Palaeoxyphostylus Won, 1983 GENUS
 
 #### Status
 ACCEPTED

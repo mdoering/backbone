@@ -1,5 +1,4 @@
-Nyctotherus rhamphidarpae Jeekel, Tuzet, Manier & Vogeli-Zuber, 1952 SPECIES
-=======
+# Nyctotherus rhamphidarpae Jeekel, Tuzet, Manier & Vogeli-Zuber, 1952 SPECIES
 
 #### Status
 ACCEPTED

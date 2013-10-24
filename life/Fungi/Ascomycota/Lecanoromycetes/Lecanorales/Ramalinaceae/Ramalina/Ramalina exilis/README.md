@@ -1,5 +1,4 @@
-Ramalina exilis f. nana Asahina FORM
-=======
+# Ramalina exilis Asahina SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+J. Jap. Bot. 15: 221 (1939)
 
 #### Original name
-Ramalina exilis f. nana Asahina
+Ramalina exilis Asahina
 
 ### Remarks
 null

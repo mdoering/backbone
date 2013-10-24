@@ -1,5 +1,4 @@
-Ceratophorum tripartitum (R.G. Bagn.) Sacc. SPECIES
-=======
+# Ceratophorum tripartitum (R.G. Bagn.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

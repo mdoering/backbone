@@ -1,5 +1,4 @@
-Rhynchophoromyces amphiopsis Thaxt., 1931 SPECIES
-=======
+# Rhynchophoromyces amphiopsis Thaxt., 1931 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kildinella timofeevii P. K. Maithy SPECIES
-=======
+# Kildinella timofeevii P. K. Maithy SPECIES
 
 #### Status
 ACCEPTED

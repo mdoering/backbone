@@ -1,5 +1,4 @@
-Marasmius occultatus Har. Takah. SPECIES
-=======
+# Marasmius occultatus Har. Takah. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cintractia cryptica Cooke & Massee SPECIES
-=======
+# Cintractia cryptica Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

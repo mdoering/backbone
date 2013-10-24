@@ -1,17 +1,16 @@
-Humaria cookeina Seaver SPECIES
-=======
+# Humaria cookeana Seaver SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 17(2): 46 (1925)
 
 #### Original name
-Humaria cookeina Seaver
+Humaria cookeana Seaver
 
 ### Remarks
 null

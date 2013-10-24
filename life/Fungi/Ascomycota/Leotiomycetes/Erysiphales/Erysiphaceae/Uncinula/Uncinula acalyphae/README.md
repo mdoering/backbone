@@ -1,5 +1,4 @@
-Uncinula acalyphae F.L. Tai SPECIES
-=======
+# Uncinula acalyphae F.L. Tai SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Orastrum perspicuum SPECIES
-=======
+# Orastrum perspicuum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clostridium hastiforme MacLennan, 1939 (Approved Lists, 1980) SPECIES
-=======
+# Clostridium hastiforme MacLennan, 1939 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

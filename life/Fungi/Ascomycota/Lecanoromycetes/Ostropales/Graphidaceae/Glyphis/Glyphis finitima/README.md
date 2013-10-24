@@ -1,5 +1,4 @@
-Glyphis finitima Kremp. SPECIES
-=======
+# Glyphis finitima Kremp. SPECIES
 
 #### Status
 ACCEPTED

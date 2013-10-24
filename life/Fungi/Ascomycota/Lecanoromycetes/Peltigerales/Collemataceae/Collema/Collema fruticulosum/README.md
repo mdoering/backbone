@@ -1,5 +1,4 @@
-Collema fruticulosum Chevall. SPECIES
-=======
+# Collema fruticulosum Chevall. SPECIES
 
 #### Status
 ACCEPTED

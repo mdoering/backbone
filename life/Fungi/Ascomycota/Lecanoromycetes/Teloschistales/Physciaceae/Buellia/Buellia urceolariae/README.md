@@ -1,5 +1,4 @@
-Buellia urceolariae (Nyl.) H. Olivier SPECIES
-=======
+# Buellia urceolariae (Nyl.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

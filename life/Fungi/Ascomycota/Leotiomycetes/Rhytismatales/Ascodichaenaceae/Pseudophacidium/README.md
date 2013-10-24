@@ -1,17 +1,16 @@
-Diplochora Höhn. GENUS
-=======
+# Pseudophacidium P. Karst. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 115: 1201 (1906)
+Acta Soc. Fauna Flora fenn. 2(no. 6): 157 (1885)
 
 #### Original name
-Diplochora Höhn.
+Pseudophacidium P. Karst.
 
 ### Remarks
 null

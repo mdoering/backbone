@@ -1,5 +1,4 @@
-Septoria japonicae Oudem. SPECIES
-=======
+# Septoria japonicae Oudem. SPECIES
 
 #### Status
 ACCEPTED

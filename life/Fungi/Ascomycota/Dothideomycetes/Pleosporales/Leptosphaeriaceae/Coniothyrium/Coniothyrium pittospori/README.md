@@ -1,5 +1,4 @@
-Coniothyrium pittospori Politis SPECIES
-=======
+# Coniothyrium pittospori Politis SPECIES
 
 #### Status
 ACCEPTED

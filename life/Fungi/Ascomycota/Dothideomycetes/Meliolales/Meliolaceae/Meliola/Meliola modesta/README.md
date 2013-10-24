@@ -1,5 +1,4 @@
-Meliola modesta Syd., 1926 SPECIES
-=======
+# Meliola modesta Syd., 1926 SPECIES
 
 #### Status
 ACCEPTED

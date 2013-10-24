@@ -1,5 +1,4 @@
-Ascochyta hieracii Lasch SPECIES
-=======
+# Ascochyta hieracii Lasch SPECIES
 
 #### Status
 ACCEPTED

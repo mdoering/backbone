@@ -1,5 +1,4 @@
-Phyllachora gomphandrae Hosag., 1995 SPECIES
-=======
+# Phyllachora gomphandrae Hosag., 1995 SPECIES
 
 #### Status
 ACCEPTED

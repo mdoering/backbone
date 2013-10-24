@@ -1,5 +1,4 @@
-Phoma micrococcoidea Sacc. SPECIES
-=======
+# Phoma micrococcoidea Sacc. SPECIES
 
 #### Status
 ACCEPTED

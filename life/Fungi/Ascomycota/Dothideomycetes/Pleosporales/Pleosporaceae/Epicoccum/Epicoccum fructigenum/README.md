@@ -1,5 +1,4 @@
-Epicoccum fructigenum McAlpine SPECIES
-=======
+# Epicoccum fructigenum McAlpine SPECIES
 
 #### Status
 ACCEPTED

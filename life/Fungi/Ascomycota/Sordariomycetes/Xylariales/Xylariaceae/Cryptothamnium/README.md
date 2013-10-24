@@ -1,5 +1,4 @@
-Cryptothamnium GENUS
-=======
+# Cryptothamnium GENUS
 
 #### Status
 ACCEPTED

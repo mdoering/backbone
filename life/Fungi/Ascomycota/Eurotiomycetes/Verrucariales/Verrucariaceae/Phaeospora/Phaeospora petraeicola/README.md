@@ -1,5 +1,4 @@
-Phaeospora petraeicola (Linds.) Arnold SPECIES
-=======
+# Phaeospora petraeicola (Linds.) Arnold SPECIES
 
 #### Status
 ACCEPTED

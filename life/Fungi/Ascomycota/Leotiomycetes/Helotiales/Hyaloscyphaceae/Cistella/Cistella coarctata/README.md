@@ -1,5 +1,4 @@
-Cistella coarctata (Ellis & Everh.) Dennis, 1963 SPECIES
-=======
+# Cistella coarctata (Ellis & Everh.) Dennis, 1963 SPECIES
 
 #### Status
 ACCEPTED

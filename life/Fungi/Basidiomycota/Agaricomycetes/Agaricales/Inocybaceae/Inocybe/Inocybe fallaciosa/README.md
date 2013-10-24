@@ -1,5 +1,4 @@
-Inocybe fallaciosa (Britzelm.) Sacc. SPECIES
-=======
+# Inocybe fallaciosa (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Byssocladium dendriticum C. Agardh SPECIES
-=======
+# Byssocladium dendriticum C. Agardh SPECIES
 
 #### Status
 ACCEPTED

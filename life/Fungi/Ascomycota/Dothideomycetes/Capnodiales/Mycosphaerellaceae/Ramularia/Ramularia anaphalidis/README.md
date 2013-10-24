@@ -1,5 +1,4 @@
-Ramularia anaphalidis (Golovin) U. Braun SPECIES
-=======
+# Ramularia anaphalidis (Golovin) U. Braun SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sirothyrium crustosum Wehm. SPECIES
-=======
+# Sirothyrium crustosum Wehm. SPECIES
 
 #### Status
 ACCEPTED

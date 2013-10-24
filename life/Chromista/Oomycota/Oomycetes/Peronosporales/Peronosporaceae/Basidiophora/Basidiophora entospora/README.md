@@ -1,17 +1,16 @@
-Peronospora simplex Peck, 1881 SPECIES
-=======
+# Basidiophora entospora Roze & Cornu, 1869 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 20: 154 (1881)
+Annls Sci. Nat. , Bot. , sér. 5 11: 84 (1869)
 
 #### Original name
-Peronospora simplex Peck, 1881
+Basidiophora entospora Roze & Cornu, 1869
 
 ### Remarks
 null

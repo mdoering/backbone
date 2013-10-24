@@ -1,5 +1,4 @@
-Aecidium flavidum Berk. & Broome SPECIES
-=======
+# Aecidium flavidum Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

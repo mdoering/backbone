@@ -1,5 +1,4 @@
-Lecanora torquata (Fr.) Körb. SPECIES
-=======
+# Lecanora torquata (Fr.) Körb. SPECIES
 
 #### Status
 ACCEPTED

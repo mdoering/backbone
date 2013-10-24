@@ -1,5 +1,4 @@
-Fuscidea oculata Oberholl. & V. Wirth SPECIES
-=======
+# Fuscidea oculata Oberholl. & V. Wirth SPECIES
 
 #### Status
 ACCEPTED

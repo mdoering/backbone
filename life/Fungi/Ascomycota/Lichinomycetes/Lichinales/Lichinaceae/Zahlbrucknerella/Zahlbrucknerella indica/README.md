@@ -1,5 +1,4 @@
-Zahlbrucknerella indica D.D. Awasthi & S.R. Singh SPECIES
-=======
+# Zahlbrucknerella indica D.D. Awasthi & S.R. Singh SPECIES
 
 #### Status
 ACCEPTED

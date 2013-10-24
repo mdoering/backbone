@@ -1,17 +1,16 @@
-Venturia kunzei var. kunzei VARIETY
-=======
+# Venturia kunzei Sacc., 1882 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 1: 588 (1882)
+null
 
 #### Original name
-Venturia kunzei var. kunzei
+null
 
 ### Remarks
 null

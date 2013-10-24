@@ -1,5 +1,4 @@
-Otidea auriculariiformis Henn. SPECIES
-=======
+# Otidea auriculariiformis Henn. SPECIES
 
 #### Status
 ACCEPTED

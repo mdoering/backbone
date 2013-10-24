@@ -1,5 +1,4 @@
-Hendersonia mexicana Sacc. SPECIES
-=======
+# Hendersonia mexicana Sacc. SPECIES
 
 #### Status
 ACCEPTED

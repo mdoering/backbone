@@ -1,5 +1,4 @@
-Amanita spissa-alba Coker SPECIES
-=======
+# Amanita spissa-alba Coker SPECIES
 
 #### Status
 ACCEPTED

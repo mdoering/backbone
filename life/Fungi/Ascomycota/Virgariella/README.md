@@ -1,5 +1,4 @@
-Virgariella S. Hughes GENUS
-=======
+# Virgariella S. Hughes GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporisorium sphacelatum Vánky, 2003 SPECIES
-=======
+# Sporisorium sphacelatum Vánky, 2003 SPECIES
 
 #### Status
 ACCEPTED

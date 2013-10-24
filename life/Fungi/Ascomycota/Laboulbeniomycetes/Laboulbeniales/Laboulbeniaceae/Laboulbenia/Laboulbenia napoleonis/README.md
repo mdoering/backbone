@@ -1,5 +1,4 @@
-Laboulbenia napoleonis Bacc. SPECIES
-=======
+# Laboulbenia napoleonis Bacc. SPECIES
 
 #### Status
 ACCEPTED

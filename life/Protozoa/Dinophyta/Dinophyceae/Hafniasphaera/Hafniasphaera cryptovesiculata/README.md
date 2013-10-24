@@ -1,5 +1,4 @@
-Hafniasphaera cryptovesiculata J. M. Hansen SPECIES
-=======
+# Hafniasphaera cryptovesiculata J. M. Hansen SPECIES
 
 #### Status
 ACCEPTED

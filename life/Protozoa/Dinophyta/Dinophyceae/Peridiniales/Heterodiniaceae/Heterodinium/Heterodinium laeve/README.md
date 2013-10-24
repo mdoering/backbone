@@ -1,5 +1,4 @@
-Heterodinium laeve Kofoid & Michener, 1911 SPECIES
-=======
+# Heterodinium laeve Kofoid & Michener, 1911 SPECIES
 
 #### Status
 ACCEPTED

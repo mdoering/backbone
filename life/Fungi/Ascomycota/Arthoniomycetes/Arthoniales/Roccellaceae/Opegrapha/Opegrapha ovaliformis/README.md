@@ -1,5 +1,4 @@
-Opegrapha ovaliformis Ach. SPECIES
-=======
+# Opegrapha ovaliformis Ach. SPECIES
 
 #### Status
 ACCEPTED

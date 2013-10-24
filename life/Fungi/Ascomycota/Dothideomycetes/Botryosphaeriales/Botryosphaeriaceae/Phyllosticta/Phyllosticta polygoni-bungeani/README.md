@@ -1,5 +1,4 @@
-Phyllosticta polygoni-bungeani Miura SPECIES
-=======
+# Phyllosticta polygoni-bungeani Miura SPECIES
 
 #### Status
 ACCEPTED

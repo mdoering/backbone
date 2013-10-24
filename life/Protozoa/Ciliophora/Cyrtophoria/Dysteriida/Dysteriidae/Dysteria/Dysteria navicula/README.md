@@ -1,5 +1,4 @@
-Dysteria navicula Kahl, 1928 SPECIES
-=======
+# Dysteria navicula Kahl, 1928 SPECIES
 
 #### Status
 ACCEPTED

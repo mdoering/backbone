@@ -1,5 +1,4 @@
-Sordaria cervina Cain SPECIES
-=======
+# Sordaria cervina Cain SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dasypezis sepulta (Rehm) Höhn. SPECIES
-=======
+# Dasypezis sepulta (Rehm) Höhn. SPECIES
 
 #### Status
 ACCEPTED

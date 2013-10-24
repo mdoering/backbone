@@ -1,5 +1,4 @@
-Irpex plumosum (Pers.) Quél. SPECIES
-=======
+# Irpex plumosum (Pers.) Quél. SPECIES
 
 #### Status
 ACCEPTED

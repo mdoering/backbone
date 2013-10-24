@@ -1,5 +1,4 @@
-Psorothecium brunneoatrum (Zenker) A. Massal. SPECIES
-=======
+# Psorothecium brunneoatrum (Zenker) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

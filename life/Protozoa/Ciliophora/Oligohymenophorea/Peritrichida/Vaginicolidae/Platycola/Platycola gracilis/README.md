@@ -1,5 +1,4 @@
-Platycola gracilis (Fromentel, 1876) ? SPECIES
-=======
+# Platycola gracilis (Fromentel, 1876) ? SPECIES
 
 #### Status
 ACCEPTED

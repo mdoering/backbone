@@ -1,5 +1,4 @@
-Plagiocampa perlata Kahl, 1933 SPECIES
-=======
+# Plagiocampa perlata Kahl, 1933 SPECIES
 
 #### Status
 ACCEPTED

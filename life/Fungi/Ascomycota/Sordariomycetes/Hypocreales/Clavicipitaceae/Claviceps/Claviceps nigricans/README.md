@@ -1,5 +1,4 @@
-Claviceps nigricans Tul., 1853 SPECIES
-=======
+# Claviceps nigricans Tul., 1853 SPECIES
 
 #### Status
 ACCEPTED

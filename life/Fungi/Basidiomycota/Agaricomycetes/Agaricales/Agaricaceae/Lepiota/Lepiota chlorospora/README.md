@@ -1,5 +1,4 @@
-Lepiota chlorospora Copel. SPECIES
-=======
+# Lepiota chlorospora Copel. SPECIES
 
 #### Status
 ACCEPTED

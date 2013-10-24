@@ -1,5 +1,4 @@
-Solicubulus Dumitrica, 1983 GENUS
-=======
+# Solicubulus Dumitrica, 1983 GENUS
 
 #### Status
 ACCEPTED

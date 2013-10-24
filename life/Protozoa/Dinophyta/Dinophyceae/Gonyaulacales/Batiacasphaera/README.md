@@ -1,5 +1,4 @@
-Batiacasphaera W.S.Drugg, 1970 GENUS
-=======
+# Batiacasphaera W.S.Drugg, 1970 GENUS
 
 #### Status
 ACCEPTED

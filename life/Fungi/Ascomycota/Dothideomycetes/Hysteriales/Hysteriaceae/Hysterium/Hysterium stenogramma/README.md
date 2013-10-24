@@ -1,17 +1,16 @@
-Hysterium stenogrammum Duby SPECIES
-=======
+# Hysterium stenogramma Durieu & Mont. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mém. Soc. Phys. Hist. nat. Genève 16(1): 45 (1862)
 
 #### Original name
-Hysterium stenogrammum Duby
+Hysterium stenogramma Durieu & Mont.
 
 ### Remarks
 null

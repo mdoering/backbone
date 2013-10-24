@@ -1,5 +1,4 @@
-Collybia acicola Singer SPECIES
-=======
+# Collybia acicola Singer SPECIES
 
 #### Status
 ACCEPTED

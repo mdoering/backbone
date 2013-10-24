@@ -1,5 +1,4 @@
-Clitopilina G. Arnaud GENUS
-=======
+# Clitopilina G. Arnaud GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius sublividus (Murrill) Sacc. & Trotter SPECIES
-=======
+# Marasmius sublividus (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

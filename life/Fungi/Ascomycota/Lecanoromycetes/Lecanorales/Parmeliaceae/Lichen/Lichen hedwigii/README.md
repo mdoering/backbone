@@ -1,5 +1,4 @@
-Lichen hedwigii Ach. SPECIES
-=======
+# Lichen hedwigii Ach. SPECIES
 
 #### Status
 ACCEPTED

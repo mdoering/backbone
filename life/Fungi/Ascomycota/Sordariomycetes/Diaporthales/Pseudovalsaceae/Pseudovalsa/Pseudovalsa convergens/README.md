@@ -1,14 +1,13 @@
-Aglaospora convergens (Tode) Kuntze, 1898 SPECIES
-=======
+# Pseudovalsa convergens (Tode) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 441 (1898)
+Syll. fung. (Abellini) 2: 136 (1883)
 
 #### Original name
 Sphaeria convergens Tode, 1791

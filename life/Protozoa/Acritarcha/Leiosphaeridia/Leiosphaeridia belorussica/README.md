@@ -1,5 +1,4 @@
-Leiosphaeridia belorussica Nekryata, 1986 SPECIES
-=======
+# Leiosphaeridia belorussica Nekryata, 1986 SPECIES
 
 #### Status
 ACCEPTED

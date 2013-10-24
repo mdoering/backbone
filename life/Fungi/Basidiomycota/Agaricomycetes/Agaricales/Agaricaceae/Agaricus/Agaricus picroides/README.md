@@ -1,5 +1,4 @@
-Agaricus picroides Rostk. SPECIES
-=======
+# Agaricus picroides Rostk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena saniosa Maas Geest. & de Meijer SPECIES
-=======
+# Mycena saniosa Maas Geest. & de Meijer SPECIES
 
 #### Status
 ACCEPTED

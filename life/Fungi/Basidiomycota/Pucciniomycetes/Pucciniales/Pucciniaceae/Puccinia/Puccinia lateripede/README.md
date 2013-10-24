@@ -1,5 +1,4 @@
-Puccinia lateripede Berk. & M.A. Curtis SPECIES
-=======
+# Puccinia lateripede Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

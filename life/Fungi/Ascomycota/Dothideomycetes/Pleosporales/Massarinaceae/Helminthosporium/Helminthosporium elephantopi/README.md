@@ -1,5 +1,4 @@
-Helminthosporium elephantopi Sawada SPECIES
-=======
+# Helminthosporium elephantopi Sawada SPECIES
 
 #### Status
 ACCEPTED

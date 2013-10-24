@@ -1,5 +1,4 @@
-Camarosporium lyndonvillae Sacc. SPECIES
-=======
+# Camarosporium lyndonvillae Sacc. SPECIES
 
 #### Status
 ACCEPTED

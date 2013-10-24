@@ -1,5 +1,4 @@
-Sphaeria mammosa Dicks. SPECIES
-=======
+# Sphaeria mammosa Dicks. SPECIES
 
 #### Status
 ACCEPTED

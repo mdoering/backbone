@@ -1,5 +1,4 @@
-Amanita umbrinelloides A.E. Wood SPECIES
-=======
+# Amanita umbrinelloides A.E. Wood SPECIES
 
 #### Status
 ACCEPTED

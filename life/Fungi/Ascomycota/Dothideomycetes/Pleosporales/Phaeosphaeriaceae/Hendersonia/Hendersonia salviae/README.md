@@ -1,5 +1,4 @@
-Hendersonia salviae Syd. & P. Syd. SPECIES
-=======
+# Hendersonia salviae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

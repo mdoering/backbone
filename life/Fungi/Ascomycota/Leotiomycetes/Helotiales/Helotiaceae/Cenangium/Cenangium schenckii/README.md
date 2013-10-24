@@ -1,5 +1,4 @@
-Cenangium schenckii (Henn.) Höhn. SPECIES
-=======
+# Cenangium schenckii (Henn.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

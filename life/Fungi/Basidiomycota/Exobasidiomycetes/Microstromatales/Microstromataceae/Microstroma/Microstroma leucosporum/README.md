@@ -1,5 +1,4 @@
-Microstroma leucosporum (Mont.) Niessl SPECIES
-=======
+# Microstroma leucosporum (Mont.) Niessl SPECIES
 
 #### Status
 ACCEPTED

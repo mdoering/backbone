@@ -1,5 +1,4 @@
-Lecania dusensis C.W. Dodge SPECIES
-=======
+# Lecania dusensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spumochlamys Kudryavtsev & Hausmann, 2007 GENUS
-=======
+# Spumochlamys Kudryavtsev & Hausmann, 2007 GENUS
 
 #### Status
 ACCEPTED

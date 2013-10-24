@@ -1,5 +1,4 @@
-Pseudocercospora pteroceltidis U. Braun & Y.L. Guo SPECIES
-=======
+# Pseudocercospora pteroceltidis U. Braun & Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

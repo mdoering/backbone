@@ -1,17 +1,16 @@
-Trachyderma erythrocarpum (Delise ex Nyl.) Trevis. SPECIES
-=======
+# Leioderma erythrocarpum (Delise ex Nyl.) D. J. Galloway & P. M. Jørg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lichenologist 19(4): 379 (1987)
 
 #### Original name
-Parmeliella erythrocarpa (Delise ex Nyl.) Müll. Arg.
+Pannaria erythrocarpa Delise ex Nyl.
 
 ### Remarks
 null

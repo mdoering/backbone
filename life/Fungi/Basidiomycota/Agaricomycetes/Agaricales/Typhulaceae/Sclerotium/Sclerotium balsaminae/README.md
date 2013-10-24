@@ -1,5 +1,4 @@
-Sclerotium balsaminae A.B. Frank SPECIES
-=======
+# Sclerotium balsaminae A.B. Frank SPECIES
 
 #### Status
 ACCEPTED

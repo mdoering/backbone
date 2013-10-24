@@ -1,5 +1,4 @@
-Physalospora lepachydis Ellis & Everh. SPECIES
-=======
+# Physalospora lepachydis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

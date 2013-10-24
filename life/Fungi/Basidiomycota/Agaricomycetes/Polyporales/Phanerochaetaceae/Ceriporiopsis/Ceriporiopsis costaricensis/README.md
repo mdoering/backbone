@@ -1,5 +1,4 @@
-Ceriporiopsis costaricensis M. Mata & Ryvarden, 2010 SPECIES
-=======
+# Ceriporiopsis costaricensis M. Mata & Ryvarden, 2010 SPECIES
 
 #### Status
 ACCEPTED

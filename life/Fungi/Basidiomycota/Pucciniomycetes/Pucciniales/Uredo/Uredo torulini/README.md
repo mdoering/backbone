@@ -1,5 +1,4 @@
-Uredo torulini Henn. SPECIES
-=======
+# Uredo torulini Henn. SPECIES
 
 #### Status
 ACCEPTED

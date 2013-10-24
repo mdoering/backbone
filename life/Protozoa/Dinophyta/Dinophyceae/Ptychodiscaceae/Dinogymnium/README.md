@@ -1,5 +1,4 @@
-Dinogymnium Evitt, Clarke & Verdier, 1967 GENUS
-=======
+# Dinogymnium Evitt, Clarke & Verdier, 1967 GENUS
 
 #### Status
 ACCEPTED

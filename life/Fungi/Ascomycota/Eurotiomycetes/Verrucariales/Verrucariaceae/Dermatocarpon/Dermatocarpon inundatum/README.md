@@ -1,5 +1,4 @@
-Dermatocarpon inundatum (Klem.) SPECIES
-=======
+# Dermatocarpon inundatum (Klem.) SPECIES
 
 #### Status
 ACCEPTED

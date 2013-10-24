@@ -1,5 +1,4 @@
-Physalospora pilulariae Ade SPECIES
-=======
+# Physalospora pilulariae Ade SPECIES
 
 #### Status
 ACCEPTED

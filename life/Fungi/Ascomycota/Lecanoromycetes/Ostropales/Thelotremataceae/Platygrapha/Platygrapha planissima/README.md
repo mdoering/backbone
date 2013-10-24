@@ -1,5 +1,4 @@
-Platygrapha planissima Kremp. SPECIES
-=======
+# Platygrapha planissima Kremp. SPECIES
 
 #### Status
 ACCEPTED

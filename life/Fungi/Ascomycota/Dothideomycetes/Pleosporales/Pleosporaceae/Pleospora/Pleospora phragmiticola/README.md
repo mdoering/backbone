@@ -1,5 +1,4 @@
-Pleospora phragmiticola P. Crouan & H. Crouan SPECIES
-=======
+# Pleospora phragmiticola P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

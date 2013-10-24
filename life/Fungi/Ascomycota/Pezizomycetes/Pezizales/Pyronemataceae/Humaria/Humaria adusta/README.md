@@ -1,5 +1,4 @@
-Humaria adusta (Cooke & Peck) Sacc. SPECIES
-=======
+# Humaria adusta (Cooke & Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphacelotheca penniseti-japonici (Henn.) S. Ito SPECIES
-=======
+# Sphacelotheca penniseti-japonici (Henn.) S. Ito SPECIES
 
 #### Status
 ACCEPTED

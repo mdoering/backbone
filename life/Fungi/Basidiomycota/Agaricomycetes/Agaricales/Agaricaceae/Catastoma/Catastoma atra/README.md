@@ -1,5 +1,4 @@
-Catastoma atra Lloyd SPECIES
-=======
+# Catastoma atra Lloyd SPECIES
 
 #### Status
 ACCEPTED

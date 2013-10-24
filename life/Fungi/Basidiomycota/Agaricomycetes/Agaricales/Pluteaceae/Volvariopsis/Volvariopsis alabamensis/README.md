@@ -1,5 +1,4 @@
-Volvariopsis alabamensis Murrill SPECIES
-=======
+# Volvariopsis alabamensis Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta kurskiana Bondartsev SPECIES
-=======
+# Phyllosticta kurskiana Bondartsev SPECIES
 
 #### Status
 ACCEPTED

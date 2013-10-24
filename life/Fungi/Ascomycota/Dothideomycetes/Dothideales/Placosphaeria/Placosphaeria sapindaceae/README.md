@@ -1,5 +1,4 @@
-Placosphaeria sapindaceae Henn. SPECIES
-=======
+# Placosphaeria sapindaceae Henn. SPECIES
 
 #### Status
 ACCEPTED

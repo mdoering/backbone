@@ -1,5 +1,4 @@
-Lonchostaurus Haeckel, 1862 GENUS
-=======
+# Lonchostaurus Haeckel, 1862 GENUS
 
 #### Status
 ACCEPTED

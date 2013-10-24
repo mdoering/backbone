@@ -1,5 +1,4 @@
-Parkerina Fordham, 1986 GENUS
-=======
+# Parkerina Fordham, 1986 GENUS
 
 #### Status
 ACCEPTED

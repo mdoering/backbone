@@ -1,5 +1,4 @@
-Mycovellosiella asprellae U. Braun SPECIES
-=======
+# Mycovellosiella asprellae U. Braun SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Geastrum pampeanus var. pampeanus VARIETY
-=======
+# Geastrum pampeanus Speg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Geastrum pampeanus var. pampeanus
+Geastrum pampeanus Speg.
 
 ### Remarks
 null

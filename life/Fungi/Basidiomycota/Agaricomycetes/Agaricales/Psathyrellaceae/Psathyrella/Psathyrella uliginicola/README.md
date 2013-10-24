@@ -1,5 +1,4 @@
-Psathyrella uliginicola McKnight & A.H. Sm. SPECIES
-=======
+# Psathyrella uliginicola McKnight & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

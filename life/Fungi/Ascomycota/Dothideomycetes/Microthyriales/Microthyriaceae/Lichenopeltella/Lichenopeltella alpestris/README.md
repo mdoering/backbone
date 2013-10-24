@@ -1,17 +1,16 @@
-Microthyrium culmigenum Syd., 1921 SPECIES
-=======
+# Lichenopeltella alpestris (Sacc.) P.M. Kirk & Minter, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 19(1/2): 140 (1921)
+IMI Descr. Fungi Bact. 174(nos 1731-1740): [2] (2007)
 
 #### Original name
-Microthyrium culmigenum Syd., 1921
+Microthyrium alpestre Sacc., 1880
 
 ### Remarks
 null

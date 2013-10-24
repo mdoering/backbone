@@ -1,5 +1,4 @@
-Penicillium piscium Rchb.-Klinke SPECIES
-=======
+# Penicillium piscium Rchb.-Klinke SPECIES
 
 #### Status
 ACCEPTED

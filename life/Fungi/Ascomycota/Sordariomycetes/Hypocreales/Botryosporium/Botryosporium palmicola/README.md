@@ -1,5 +1,4 @@
-Botryosporium palmicola Speg. SPECIES
-=======
+# Botryosporium palmicola Speg. SPECIES
 
 #### Status
 ACCEPTED

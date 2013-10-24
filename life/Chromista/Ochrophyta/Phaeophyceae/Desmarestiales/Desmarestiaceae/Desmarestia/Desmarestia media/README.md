@@ -1,5 +1,4 @@
-Desmarestia media var. tenuis Setchell & Gardner VARIETY
-=======
+# Desmarestia media (Agardh) Greville SPECIES
 
 #### Status
 ACCEPTED

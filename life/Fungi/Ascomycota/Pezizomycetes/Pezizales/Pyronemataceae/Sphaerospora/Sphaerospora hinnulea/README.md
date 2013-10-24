@@ -1,5 +1,4 @@
-Sphaerospora hinnulea (Berk. & Broome) SPECIES
-=======
+# Sphaerospora hinnulea (Berk. & Broome) SPECIES
 
 #### Status
 ACCEPTED

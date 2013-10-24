@@ -1,5 +1,4 @@
-Aplosporella staphylina Ellis & Dearn. SPECIES
-=======
+# Aplosporella staphylina Ellis & Dearn. SPECIES
 
 #### Status
 ACCEPTED

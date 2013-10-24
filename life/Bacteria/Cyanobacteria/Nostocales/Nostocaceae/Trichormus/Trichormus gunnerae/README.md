@@ -1,5 +1,4 @@
-Trichormus gunnerae (Reinke ex Merker) J. Komárek & K. Anagnostidis SPECIES
-=======
+# Trichormus gunnerae (Reinke ex Merker) J. Komárek & K. Anagnostidis SPECIES
 
 #### Status
 ACCEPTED

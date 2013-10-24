@@ -1,5 +1,4 @@
-Parmelina obsessa (Ach.) Hale SPECIES
-=======
+# Parmelina obsessa (Ach.) Hale SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleolpidium monoblepharidis (Cornu) A. Fisch. SPECIES
-=======
+# Pleolpidium monoblepharidis (Cornu) A. Fisch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Synchytrium senecionis S.D. Patil & Mahab. SPECIES
-=======
+# Synchytrium senecionis S.D. Patil & Mahab. SPECIES
 
 #### Status
 ACCEPTED

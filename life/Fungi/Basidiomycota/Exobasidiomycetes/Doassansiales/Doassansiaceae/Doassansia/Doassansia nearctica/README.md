@@ -1,5 +1,4 @@
-Doassansia nearctica Savile SPECIES
-=======
+# Doassansia nearctica Savile SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea duplicata Fée SPECIES
-=======
+# Lecidea duplicata Fée SPECIES
 
 #### Status
 ACCEPTED

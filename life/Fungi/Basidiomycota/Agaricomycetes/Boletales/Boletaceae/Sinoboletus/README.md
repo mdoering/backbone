@@ -1,5 +1,4 @@
-Sinoboletus M. Zang GENUS
-=======
+# Sinoboletus M. Zang GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dasyscyphella calongei R. Galán & G. Moreno SPECIES
-=======
+# Dasyscyphella calongei R. Galán & G. Moreno SPECIES
 
 #### Status
 ACCEPTED

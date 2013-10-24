@@ -1,5 +1,4 @@
-Panaeolopsis nirimbii Watling & A.M. Young, 1983 SPECIES
-=======
+# Panaeolopsis nirimbii Watling & A.M. Young, 1983 SPECIES
 
 #### Status
 ACCEPTED

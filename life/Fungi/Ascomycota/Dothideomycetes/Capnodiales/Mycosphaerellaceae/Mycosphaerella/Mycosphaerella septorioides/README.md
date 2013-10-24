@@ -1,5 +1,4 @@
-Mycosphaerella septorioides (Desm.) Lindau SPECIES
-=======
+# Mycosphaerella septorioides (Desm.) Lindau SPECIES
 
 #### Status
 ACCEPTED

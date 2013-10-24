@@ -1,5 +1,4 @@
-Lepista singeri Harmaja SPECIES
-=======
+# Lepista singeri Harmaja SPECIES
 
 #### Status
 ACCEPTED

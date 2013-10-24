@@ -1,5 +1,4 @@
-Puccinia cannae Henn., 1902 SPECIES
-=======
+# Puccinia cannae Henn., 1902 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia dolosa var. dolosa VARIETY
-=======
+# Puccinia dolosa Arthur & Fromme SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Torreya 15: 626 (1915)
 
 #### Original name
-Puccinia dolosa var. dolosa
+Puccinia dolosa Arthur & Fromme
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Tintinnopsis lindeni Daday, 1887 SPECIES
-=======
+# Tintinnopsis lindeni Daday, 1887 SPECIES
 
 #### Status
 ACCEPTED

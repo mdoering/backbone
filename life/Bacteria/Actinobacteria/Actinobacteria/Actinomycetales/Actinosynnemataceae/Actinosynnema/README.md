@@ -1,5 +1,4 @@
-Actinosynnema T. Haseg., H. Lechev. & M.P. Lechev. GENUS
-=======
+# Actinosynnema T. Haseg., H. Lechev. & M.P. Lechev. GENUS
 
 #### Status
 ACCEPTED

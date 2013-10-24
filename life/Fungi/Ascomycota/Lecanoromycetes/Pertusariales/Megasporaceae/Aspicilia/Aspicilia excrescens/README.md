@@ -1,5 +1,4 @@
-Aspicilia excrescens (J. Steiner) Szatala SPECIES
-=======
+# Aspicilia excrescens (J. Steiner) Szatala SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Heterosphaeria patella var. patella VARIETY
-=======
+# Heterosphaeria patella (Tode) Grev., 1824 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Scott. crypt. fl. (Edinburgh) tab. 103 (1824)
 
 #### Original name
-Heterosphaeria patella var. patella
+Heterosphaeria patella (Tode) Grev., 1824
 
 ### Remarks
 null

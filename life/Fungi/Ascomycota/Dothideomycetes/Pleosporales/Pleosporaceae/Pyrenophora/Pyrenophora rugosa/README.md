@@ -1,5 +1,4 @@
-Pyrenophora rugosa Dearn. & Bisby SPECIES
-=======
+# Pyrenophora rugosa Dearn. & Bisby SPECIES
 
 #### Status
 ACCEPTED

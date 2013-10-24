@@ -1,14 +1,13 @@
-Nectria dentifera Samuels, 1976 SPECIES
-=======
+# Peristomialis dentifera (Samuels) Samuels, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-N. Z. Jl Bot. 14(3): 253 (1976)
+Mem. N. Y. bot. Gdn 48: 18 (1988)
 
 #### Original name
 Nectria dentifera Samuels, 1976

@@ -1,5 +1,4 @@
-Sordaria baltica N. Lundq. SPECIES
-=======
+# Sordaria baltica N. Lundq. SPECIES
 
 #### Status
 ACCEPTED

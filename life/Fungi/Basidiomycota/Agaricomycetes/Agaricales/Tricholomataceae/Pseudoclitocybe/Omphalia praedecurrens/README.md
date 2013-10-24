@@ -1,5 +1,4 @@
-Omphalia praedecurrens Murrill SPECIES
-=======
+# Omphalia praedecurrens Murrill SPECIES
 
 #### Status
 ACCEPTED

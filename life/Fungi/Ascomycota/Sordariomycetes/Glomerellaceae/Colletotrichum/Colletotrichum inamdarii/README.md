@@ -1,5 +1,4 @@
-Colletotrichum inamdarii Lal SPECIES
-=======
+# Colletotrichum inamdarii Lal SPECIES
 
 #### Status
 ACCEPTED

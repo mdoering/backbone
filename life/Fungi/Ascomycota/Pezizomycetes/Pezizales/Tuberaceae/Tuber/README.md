@@ -1,17 +1,16 @@
-Oogaster Corda, 1854 GENUS
-=======
+# Tuber Bulliard ex E.M. Fries, 1823 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Icon. fung. (Prague) 6: 70 (1854)
+Prim. fl. holsat. (Kiliae) (1780)
 
 #### Original name
-Oogaster Corda, 1854
+Tuber Bulliard ex E.M. Fries, 1823
 
 ### Remarks
 null

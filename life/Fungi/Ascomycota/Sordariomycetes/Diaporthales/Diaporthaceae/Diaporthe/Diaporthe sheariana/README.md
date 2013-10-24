@@ -1,5 +1,4 @@
-Diaporthe sheariana Petr. SPECIES
-=======
+# Diaporthe sheariana Petr. SPECIES
 
 #### Status
 ACCEPTED

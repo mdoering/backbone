@@ -1,5 +1,4 @@
-Parenchymorpha xishanica C. K. Tseng & M. Hua SPECIES
-=======
+# Parenchymorpha xishanica C. K. Tseng & M. Hua SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia skottsbergii Jørst. SPECIES
-=======
+# Puccinia skottsbergii Jørst. SPECIES
 
 #### Status
 ACCEPTED

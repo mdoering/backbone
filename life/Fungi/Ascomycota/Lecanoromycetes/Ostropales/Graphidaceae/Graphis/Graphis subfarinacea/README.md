@@ -1,5 +1,4 @@
-Graphis subfarinacea Nyl. SPECIES
-=======
+# Graphis subfarinacea Nyl. SPECIES
 
 #### Status
 ACCEPTED

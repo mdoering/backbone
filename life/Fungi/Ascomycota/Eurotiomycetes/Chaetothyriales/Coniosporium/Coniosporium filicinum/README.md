@@ -1,5 +1,4 @@
-Coniosporium filicinum Rostr. SPECIES
-=======
+# Coniosporium filicinum Rostr. SPECIES
 
 #### Status
 ACCEPTED

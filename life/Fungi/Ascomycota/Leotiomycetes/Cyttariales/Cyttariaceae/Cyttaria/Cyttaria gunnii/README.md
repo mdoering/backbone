@@ -1,5 +1,4 @@
-Cyttaria gunnii Berk., 1845 SPECIES
-=======
+# Cyttaria gunnii Berk., 1845 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhagodiscaceae Hay, 1977 FAMILY
-=======
+# Rhagodiscaceae Hay, 1977 FAMILY
 
 #### Status
 ACCEPTED

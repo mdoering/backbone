@@ -1,5 +1,4 @@
-Pannaria caespitosa P.M. Jørg. SPECIES
-=======
+# Pannaria caespitosa P.M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

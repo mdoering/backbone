@@ -1,5 +1,4 @@
-Microsporidiopsis nereidis Schereschewsky SPECIES
-=======
+# Microsporidiopsis nereidis Schereschewsky SPECIES
 
 #### Status
 ACCEPTED

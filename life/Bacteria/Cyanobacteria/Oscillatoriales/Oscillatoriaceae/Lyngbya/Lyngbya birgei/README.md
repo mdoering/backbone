@@ -1,5 +1,4 @@
-Lyngbya birgei f. occidentalis B. Tracanna FORM
-=======
+# Lyngbya birgei Smith SPECIES
 
 #### Status
 ACCEPTED

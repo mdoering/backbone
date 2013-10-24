@@ -1,17 +1,16 @@
-Phomopsis inaequalis Traverso SPECIES
-=======
+# Diaporthe inaequalis (Curr.) Nitschke, 1867 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Pyrenomycetes Germanici 285 (1867)
 
 #### Original name
-Phomopsis inaequalis Traverso
+Diaporthe inaequalis (Curr.) Nitschke, 1867
 
 ### Remarks
 null

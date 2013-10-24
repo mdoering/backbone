@@ -1,5 +1,4 @@
-Cystoseira setchellii N.L. Gardner SPECIES
-=======
+# Cystoseira setchellii N.L. Gardner SPECIES
 
 #### Status
 ACCEPTED

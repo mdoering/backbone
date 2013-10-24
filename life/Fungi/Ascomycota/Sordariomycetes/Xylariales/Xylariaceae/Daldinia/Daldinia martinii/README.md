@@ -1,5 +1,4 @@
-Daldinia martinii M. Stadler, Venturella & Wollw., 2004 SPECIES
-=======
+# Daldinia martinii M. Stadler, Venturella & Wollw., 2004 SPECIES
 
 #### Status
 ACCEPTED

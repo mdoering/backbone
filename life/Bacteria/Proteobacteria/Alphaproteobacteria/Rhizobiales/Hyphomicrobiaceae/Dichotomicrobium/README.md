@@ -1,5 +1,4 @@
-Dichotomicrobium Hirsch & Hoffman, 1989 GENUS
-=======
+# Dichotomicrobium Hirsch & Hoffman, 1989 GENUS
 
 #### Status
 ACCEPTED

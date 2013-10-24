@@ -1,5 +1,4 @@
-Ramaria varians Schild, 1992 SPECIES
-=======
+# Ramaria varians Schild, 1992 SPECIES
 
 #### Status
 ACCEPTED

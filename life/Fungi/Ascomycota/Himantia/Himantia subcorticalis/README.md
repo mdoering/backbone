@@ -1,5 +1,4 @@
-Himantia subcorticalis Pers. SPECIES
-=======
+# Himantia subcorticalis Pers. SPECIES
 
 #### Status
 ACCEPTED

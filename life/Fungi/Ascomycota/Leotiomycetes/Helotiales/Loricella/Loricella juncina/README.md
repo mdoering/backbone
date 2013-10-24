@@ -1,5 +1,4 @@
-Loricella juncina Velen. SPECIES
-=======
+# Loricella juncina Velen. SPECIES
 
 #### Status
 ACCEPTED

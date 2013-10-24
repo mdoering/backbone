@@ -1,5 +1,4 @@
-Bacillus mucilaginosus Avakyan et al., 1998 SPECIES
-=======
+# Bacillus mucilaginosus Avakyan et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

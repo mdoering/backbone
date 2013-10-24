@@ -1,5 +1,4 @@
-Sargassum squarrosum f. sumatranum Grunow FORM
-=======
+# Sargassum squarrosum Greville SPECIES
 
 #### Status
 ACCEPTED

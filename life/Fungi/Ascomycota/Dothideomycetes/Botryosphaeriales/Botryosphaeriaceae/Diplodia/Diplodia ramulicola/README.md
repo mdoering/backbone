@@ -1,5 +1,4 @@
-Diplodia ramulicola Sacc., 1850 SPECIES
-=======
+# Diplodia ramulicola Sacc., 1850 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea calcariella Nyl. SPECIES
-=======
+# Lecidea calcariella Nyl. SPECIES
 
 #### Status
 ACCEPTED

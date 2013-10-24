@@ -1,5 +1,4 @@
-Squamotubera le-ratii Henn. SPECIES
-=======
+# Squamotubera le-ratii Henn. SPECIES
 
 #### Status
 ACCEPTED

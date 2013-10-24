@@ -1,5 +1,4 @@
-Marasmius hautefeuillei Pat. & Demange SPECIES
-=======
+# Marasmius hautefeuillei Pat. & Demange SPECIES
 
 #### Status
 ACCEPTED

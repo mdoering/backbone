@@ -1,5 +1,4 @@
-Spirillum cohni SPECIES
-=======
+# Spirillum cohni SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Penicillium intricatum Thom SPECIES
-=======
+# Penicillium intricatum Thom SPECIES
 
 #### Status
 ACCEPTED

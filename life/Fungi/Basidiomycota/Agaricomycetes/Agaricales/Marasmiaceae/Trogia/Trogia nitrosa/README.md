@@ -1,5 +1,4 @@
-Trogia nitrosa Corner SPECIES
-=======
+# Trogia nitrosa Corner SPECIES
 
 #### Status
 ACCEPTED

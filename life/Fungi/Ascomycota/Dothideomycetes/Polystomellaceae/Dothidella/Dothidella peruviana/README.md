@@ -1,5 +1,4 @@
-Dothidella peruviana Henn. SPECIES
-=======
+# Dothidella peruviana Henn. SPECIES
 
 #### Status
 ACCEPTED

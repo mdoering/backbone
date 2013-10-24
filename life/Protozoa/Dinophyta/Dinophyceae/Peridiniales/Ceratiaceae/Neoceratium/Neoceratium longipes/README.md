@@ -1,5 +1,4 @@
-Neoceratium longipes (Bailey) F.Gomez, D.Moreira & P.Lopez-Garcia, 2009 SPECIES
-=======
+# Neoceratium longipes (Bailey) F.Gomez, D.Moreira & P.Lopez-Garcia, 2009 SPECIES
 
 #### Status
 ACCEPTED

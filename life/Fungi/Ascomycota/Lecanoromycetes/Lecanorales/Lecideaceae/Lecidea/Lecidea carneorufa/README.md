@@ -1,5 +1,4 @@
-Lecidea carneorufa Müll. Arg. SPECIES
-=======
+# Lecidea carneorufa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dicaeoma tulipae (J. Schröt.) Kuntze SPECIES
-=======
+# Dicaeoma tulipae (J. Schröt.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

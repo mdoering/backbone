@@ -1,5 +1,4 @@
-Reophax trilateralis SPECIES
-=======
+# Reophax trilateralis SPECIES
 
 #### Status
 ACCEPTED

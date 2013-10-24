@@ -1,5 +1,4 @@
-Blastenia subcerina (Nyl.) B. de Lesd. SPECIES
-=======
+# Blastenia subcerina (Nyl.) B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

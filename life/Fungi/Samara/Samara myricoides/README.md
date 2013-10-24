@@ -1,5 +1,4 @@
-Samara myricoides Willd. ex Schult. SPECIES
-=======
+# Samara myricoides Willd. ex Schult. SPECIES
 
 #### Status
 ACCEPTED

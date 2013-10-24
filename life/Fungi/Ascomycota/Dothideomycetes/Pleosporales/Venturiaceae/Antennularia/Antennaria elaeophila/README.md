@@ -1,5 +1,4 @@
-Antennaria elaeophila var. elaeophila VARIETY
-=======
+# Antennaria elaeophila Mont. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Antennaria elaeophila var. elaeophila
+Antennaria elaeophila Mont.
 
 ### Remarks
 null

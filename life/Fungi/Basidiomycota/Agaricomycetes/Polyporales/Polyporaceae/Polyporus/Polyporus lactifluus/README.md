@@ -1,5 +1,4 @@
-Polyporus lactifluus Peck SPECIES
-=======
+# Polyporus lactifluus Peck SPECIES
 
 #### Status
 ACCEPTED

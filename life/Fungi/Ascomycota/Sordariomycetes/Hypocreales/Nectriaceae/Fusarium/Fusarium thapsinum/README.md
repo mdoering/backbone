@@ -1,5 +1,4 @@
-Fusarium thapsinum Klittich, J.F. Leslie, P.E. Nelson & Marasas, 1997 SPECIES
-=======
+# Fusarium thapsinum Klittich, J.F. Leslie, P.E. Nelson & Marasas, 1997 SPECIES
 
 #### Status
 ACCEPTED

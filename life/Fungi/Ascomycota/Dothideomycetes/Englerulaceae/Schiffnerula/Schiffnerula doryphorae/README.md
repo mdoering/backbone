@@ -1,5 +1,4 @@
-Schiffnerula doryphorae (Syd.) S. Hughes SPECIES
-=======
+# Schiffnerula doryphorae (Syd.) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

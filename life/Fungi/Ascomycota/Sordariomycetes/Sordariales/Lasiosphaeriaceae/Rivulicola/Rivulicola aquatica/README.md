@@ -1,5 +1,4 @@
-Rivulicola aquatica Ranghoo & K.D. Hyde SPECIES
-=======
+# Rivulicola aquatica Ranghoo & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

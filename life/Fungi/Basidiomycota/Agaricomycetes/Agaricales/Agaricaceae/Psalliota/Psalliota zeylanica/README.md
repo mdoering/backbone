@@ -1,5 +1,4 @@
-Psalliota zeylanica Petch SPECIES
-=======
+# Psalliota zeylanica Petch SPECIES
 
 #### Status
 ACCEPTED

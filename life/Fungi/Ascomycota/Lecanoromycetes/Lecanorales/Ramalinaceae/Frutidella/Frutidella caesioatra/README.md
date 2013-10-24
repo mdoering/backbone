@@ -1,17 +1,16 @@
-Lecidea caesioatra f. caesioatra FORM
-=======
+# Frutidella caesioatra (Schaer.) Kalb SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hoppea 55: 582 (1994)
 
 #### Original name
-Lecidea caesioatra f. caesioatra
+Lecidea caesioatra Schaer.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Macrosporium avicennae Ellis & Everh. SPECIES
-=======
+# Macrosporium avicennae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

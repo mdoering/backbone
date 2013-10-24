@@ -1,8 +1,7 @@
-Nematoloma violaceofolium Métrod SPECIES
-=======
+# Naematoloma violaceofolium Métrod SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Nematoloma violaceofolium Métrod
+Naematoloma violaceofolium Métrod
 
 ### Remarks
 null

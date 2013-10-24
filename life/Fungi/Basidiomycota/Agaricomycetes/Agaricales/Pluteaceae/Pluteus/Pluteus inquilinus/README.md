@@ -1,5 +1,4 @@
-Pluteus inquilinus Romagn., 1979 SPECIES
-=======
+# Pluteus inquilinus Romagn., 1979 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stigmatomyces ephydrae L. Mercier & R. Poiss., 1927 SPECIES
-=======
+# Stigmatomyces ephydrae L. Mercier & R. Poiss., 1927 SPECIES
 
 #### Status
 ACCEPTED

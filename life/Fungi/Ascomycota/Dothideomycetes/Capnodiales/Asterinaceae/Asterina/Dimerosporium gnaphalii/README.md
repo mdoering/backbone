@@ -1,5 +1,4 @@
-Dimerosporium gnaphalii Henn. SPECIES
-=======
+# Dimerosporium gnaphalii Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rosellinia marcucciana Ces. SPECIES
-=======
+# Rosellinia marcucciana Ces. SPECIES
 
 #### Status
 ACCEPTED

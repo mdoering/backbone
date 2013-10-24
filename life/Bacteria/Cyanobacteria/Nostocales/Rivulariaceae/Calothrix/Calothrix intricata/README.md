@@ -1,5 +1,4 @@
-Calothrix intricata F.E. Fritsch SPECIES
-=======
+# Calothrix intricata F.E. Fritsch SPECIES
 
 #### Status
 ACCEPTED

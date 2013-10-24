@@ -1,5 +1,4 @@
-Pestalotia ananas Sawada SPECIES
-=======
+# Pestalotia ananas Sawada SPECIES
 
 #### Status
 ACCEPTED

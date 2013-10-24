@@ -1,5 +1,4 @@
-Sporidesmium eremita Corda SPECIES
-=======
+# Sporidesmium eremita Corda SPECIES
 
 #### Status
 ACCEPTED

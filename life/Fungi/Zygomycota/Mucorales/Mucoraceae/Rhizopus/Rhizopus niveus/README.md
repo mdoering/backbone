@@ -1,5 +1,4 @@
-Rhizopus niveus M. Yamaz., 1919 SPECIES
-=======
+# Rhizopus niveus M. Yamaz., 1919 SPECIES
 
 #### Status
 ACCEPTED

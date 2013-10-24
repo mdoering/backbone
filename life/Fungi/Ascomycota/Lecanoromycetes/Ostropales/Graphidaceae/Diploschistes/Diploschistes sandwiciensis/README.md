@@ -1,5 +1,4 @@
-Diploschistes sandwiciensis H. Magn. SPECIES
-=======
+# Diploschistes sandwiciensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

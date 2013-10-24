@@ -1,5 +1,4 @@
-Sphaeria incommiscibilis Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeria incommiscibilis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

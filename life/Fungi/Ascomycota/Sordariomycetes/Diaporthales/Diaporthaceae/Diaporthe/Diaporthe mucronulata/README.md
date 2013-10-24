@@ -1,5 +1,4 @@
-Diaporthe mucronulata Sacc. SPECIES
-=======
+# Diaporthe mucronulata Sacc. SPECIES
 
 #### Status
 ACCEPTED

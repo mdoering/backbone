@@ -1,5 +1,4 @@
-Engizostoma arundinaceum (Sacc.) Kuntze SPECIES
-=======
+# Engizostoma arundinaceum (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

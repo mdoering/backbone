@@ -1,5 +1,4 @@
-Usnea grisea (Motyka) Bystrek SPECIES
-=======
+# Usnea grisea (Motyka) Bystrek SPECIES
 
 #### Status
 ACCEPTED

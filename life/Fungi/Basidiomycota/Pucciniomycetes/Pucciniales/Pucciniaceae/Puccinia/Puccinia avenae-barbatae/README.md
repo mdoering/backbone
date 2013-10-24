@@ -1,5 +1,4 @@
-Puccinia avenae-barbatae Gonz. Frag. SPECIES
-=======
+# Puccinia avenae-barbatae Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

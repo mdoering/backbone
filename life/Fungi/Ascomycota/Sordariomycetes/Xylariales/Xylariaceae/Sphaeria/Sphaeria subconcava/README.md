@@ -1,5 +1,4 @@
-Sphaeria subconcava Schwein. SPECIES
-=======
+# Sphaeria subconcava Schwein. SPECIES
 
 #### Status
 ACCEPTED

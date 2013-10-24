@@ -1,5 +1,4 @@
-Verrucaria hyloica DC. SPECIES
-=======
+# Verrucaria hyloica DC. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Entoloma conferendum var. conferendum VARIETY
-=======
+# Entoloma nothofagi G. Stev., 1962 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Persoonia 10(4): 446 (1980)
+Kew Bull. 16(2): 234 (1962)
 
 #### Original name
-Agaricus conferendus Britzelm.
+Entoloma nothofagi G. Stev., 1962
 
 ### Remarks
 null

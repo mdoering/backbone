@@ -1,5 +1,4 @@
-Cryptandromyces bibloplecti T. Majewski SPECIES
-=======
+# Cryptandromyces bibloplecti T. Majewski SPECIES
 
 #### Status
 ACCEPTED

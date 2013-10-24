@@ -1,5 +1,4 @@
-Lecanora bryontha Ach. SPECIES
-=======
+# Lecanora bryontha Ach. SPECIES
 
 #### Status
 ACCEPTED

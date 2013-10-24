@@ -1,5 +1,4 @@
-Striglia intermedia (Berk.) Kuntze SPECIES
-=======
+# Striglia intermedia (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

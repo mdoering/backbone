@@ -1,5 +1,4 @@
-Sphaeria xylomoides Fr. SPECIES
-=======
+# Sphaeria xylomoides Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspicilia njuljae (H. Magn.) Räsänen SPECIES
-=======
+# Aspicilia njuljae (H. Magn.) Räsänen SPECIES
 
 #### Status
 ACCEPTED

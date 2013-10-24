@@ -1,5 +1,4 @@
-Lecanora subimmergens Vain. SPECIES
-=======
+# Lecanora subimmergens Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peronospora silvestris Gäum. SPECIES
-=======
+# Peronospora silvestris Gäum. SPECIES
 
 #### Status
 ACCEPTED

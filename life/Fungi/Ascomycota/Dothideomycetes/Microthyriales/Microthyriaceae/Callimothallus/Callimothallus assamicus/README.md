@@ -1,5 +1,4 @@
-Callimothallus assamicus R.K. Kar, R.Y. Singh & Sah SPECIES
-=======
+# Callimothallus assamicus R.K. Kar, R.Y. Singh & Sah SPECIES
 
 #### Status
 ACCEPTED

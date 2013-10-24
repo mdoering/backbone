@@ -1,5 +1,4 @@
-Sphaeria microsticta Mont. SPECIES
-=======
+# Sphaeria microsticta Mont. SPECIES
 
 #### Status
 ACCEPTED

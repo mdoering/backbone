@@ -1,5 +1,4 @@
-Gyalectomyces GENUS
-=======
+# Gyalectomyces GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenopeziza massoniana De Not. SPECIES
-=======
+# Pyrenopeziza massoniana De Not. SPECIES
 
 #### Status
 ACCEPTED

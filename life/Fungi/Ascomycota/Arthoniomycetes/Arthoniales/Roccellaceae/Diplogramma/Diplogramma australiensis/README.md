@@ -1,5 +1,4 @@
-Diplogramma australiensis Müll. Arg. SPECIES
-=======
+# Diplogramma australiensis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

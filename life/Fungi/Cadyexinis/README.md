@@ -1,5 +1,4 @@
-Cadyexinis Stach GENUS
-=======
+# Cadyexinis Stach GENUS
 
 #### Status
 ACCEPTED

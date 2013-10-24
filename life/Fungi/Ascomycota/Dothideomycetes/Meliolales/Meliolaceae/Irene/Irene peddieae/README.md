@@ -1,5 +1,4 @@
-Irene peddieae Doidge SPECIES
-=======
+# Irene peddieae Doidge SPECIES
 
 #### Status
 ACCEPTED

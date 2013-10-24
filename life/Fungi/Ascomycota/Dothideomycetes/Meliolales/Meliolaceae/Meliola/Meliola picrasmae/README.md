@@ -1,5 +1,4 @@
-Meliola picrasmae Hansf. SPECIES
-=======
+# Meliola picrasmae Hansf. SPECIES
 
 #### Status
 ACCEPTED

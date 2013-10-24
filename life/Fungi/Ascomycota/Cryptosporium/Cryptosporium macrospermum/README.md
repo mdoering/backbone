@@ -1,5 +1,4 @@
-Cryptosporium macrospermum Peck SPECIES
-=======
+# Cryptosporium macrospermum Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stigmatomyces montevideensis Speg. SPECIES
-=======
+# Stigmatomyces montevideensis Speg. SPECIES
 
 #### Status
 ACCEPTED

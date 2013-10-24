@@ -1,5 +1,4 @@
-Russula stagnosa Reumaux SPECIES
-=======
+# Russula stagnosa Reumaux SPECIES
 
 #### Status
 ACCEPTED

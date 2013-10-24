@@ -1,5 +1,4 @@
-Visbysphaera gotlandica (Eisenack, 1954) Kiryanov, 1978 SPECIES
-=======
+# Visbysphaera gotlandica (Eisenack, 1954) Kiryanov, 1978 SPECIES
 
 #### Status
 ACCEPTED

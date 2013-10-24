@@ -1,5 +1,4 @@
-Cannosphaeropsis peridictya Eisenack & Cookson SPECIES
-=======
+# Cannosphaeropsis peridictya Eisenack & Cookson SPECIES
 
 #### Status
 ACCEPTED

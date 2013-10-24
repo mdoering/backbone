@@ -1,5 +1,4 @@
-Thelotrema tuberculiferum Vain. SPECIES
-=======
+# Thelotrema tuberculiferum Vain. SPECIES
 
 #### Status
 ACCEPTED

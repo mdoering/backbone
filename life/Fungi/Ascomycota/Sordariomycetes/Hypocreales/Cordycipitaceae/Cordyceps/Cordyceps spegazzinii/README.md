@@ -1,5 +1,4 @@
-Cordyceps spegazzinii M.S. Torres, J.F. White & J.F. Bisch. SPECIES
-=======
+# Cordyceps spegazzinii M.S. Torres, J.F. White & J.F. Bisch. SPECIES
 
 #### Status
 ACCEPTED

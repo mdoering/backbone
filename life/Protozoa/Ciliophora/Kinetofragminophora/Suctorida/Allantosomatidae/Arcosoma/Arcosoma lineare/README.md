@@ -1,5 +1,4 @@
-Arcosoma lineare SPECIES
-=======
+# Arcosoma lineare SPECIES
 
 #### Status
 ACCEPTED

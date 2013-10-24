@@ -1,5 +1,4 @@
-Helotium subolivaceum P. Karst. SPECIES
-=======
+# Helotium subolivaceum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

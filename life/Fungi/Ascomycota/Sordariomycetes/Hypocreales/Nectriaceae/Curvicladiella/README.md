@@ -1,5 +1,4 @@
-Curvicladiella Decock & Crous GENUS
-=======
+# Curvicladiella Decock & Crous GENUS
 
 #### Status
 ACCEPTED

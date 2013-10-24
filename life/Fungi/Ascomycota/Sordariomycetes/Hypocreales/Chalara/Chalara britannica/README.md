@@ -1,5 +1,4 @@
-Chalara britannica anon. SPECIES
-=======
+# Chalara britannica anon. SPECIES
 
 #### Status
 ACCEPTED

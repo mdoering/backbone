@@ -1,5 +1,4 @@
-Gyrodon adisianus Singer SPECIES
-=======
+# Gyrodon adisianus Singer SPECIES
 
 #### Status
 ACCEPTED

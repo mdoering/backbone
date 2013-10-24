@@ -1,5 +1,4 @@
-Resupinatus subbarbatulus Murrill SPECIES
-=======
+# Resupinatus subbarbatulus Murrill SPECIES
 
 #### Status
 ACCEPTED

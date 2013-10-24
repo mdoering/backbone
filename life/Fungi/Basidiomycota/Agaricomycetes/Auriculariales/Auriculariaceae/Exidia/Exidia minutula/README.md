@@ -1,5 +1,4 @@
-Exidia minutula Sacc. SPECIES
-=======
+# Exidia minutula Sacc. SPECIES
 
 #### Status
 ACCEPTED

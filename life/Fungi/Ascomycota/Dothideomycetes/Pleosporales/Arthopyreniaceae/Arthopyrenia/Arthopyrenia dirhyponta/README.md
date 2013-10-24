@@ -1,5 +1,4 @@
-Arthopyrenia dirhyponta Norman SPECIES
-=======
+# Arthopyrenia dirhyponta Norman SPECIES
 
 #### Status
 ACCEPTED

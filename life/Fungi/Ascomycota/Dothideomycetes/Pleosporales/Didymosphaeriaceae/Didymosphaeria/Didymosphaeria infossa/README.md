@@ -1,5 +1,4 @@
-Didymosphaeria infossa Sacc. SPECIES
-=======
+# Didymosphaeria infossa Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Hypocopra pilosella Speg., 1888 SPECIES
-=======
+# Coniochaeta trivialis N. Lundq., 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Boletín de la Academia Nacional de Ciencias de Córdoba 11(2): 190 (1888)
+Publications from the Herbarium, University of Uppsala, Sweden 8: 8 (1981)
 
 #### Original name
 Hypocopra pilosella Speg., 1888

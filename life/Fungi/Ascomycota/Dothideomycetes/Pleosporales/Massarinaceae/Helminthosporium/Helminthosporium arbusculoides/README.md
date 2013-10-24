@@ -1,17 +1,16 @@
-Helmisporium arbusculoides Peck SPECIES
-=======
+# Helminthosporium arbusculoides Peck SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ann. Rep. N. Y. St. Mus. nat. Hist. 34: 51 (1883)
 
 #### Original name
-Helmisporium arbusculoides Peck
+Helminthosporium arbusculoides Peck
 
 ### Remarks
 null

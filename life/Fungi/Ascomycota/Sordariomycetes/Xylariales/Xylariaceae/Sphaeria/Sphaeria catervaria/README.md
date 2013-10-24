@@ -1,5 +1,4 @@
-Sphaeria catervaria Berk. & Broome SPECIES
-=======
+# Sphaeria catervaria Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

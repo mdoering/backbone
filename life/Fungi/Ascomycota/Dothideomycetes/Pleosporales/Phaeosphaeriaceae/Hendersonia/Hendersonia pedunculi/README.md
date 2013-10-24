@@ -1,5 +1,4 @@
-Hendersonia pedunculi (Ellis & Everh.) Kuntze SPECIES
-=======
+# Hendersonia pedunculi (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

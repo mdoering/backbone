@@ -1,5 +1,4 @@
-Tricholoma olivaceoflavum (Murrill) Sacc. & Trotter SPECIES
-=======
+# Tricholoma olivaceoflavum (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

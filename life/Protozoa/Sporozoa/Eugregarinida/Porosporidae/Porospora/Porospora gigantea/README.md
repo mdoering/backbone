@@ -1,8 +1,7 @@
-Gregarina gigantea van Beneden, 1869 SPECIES
-=======
+# Porospora gigantea van Beneden, 1869 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

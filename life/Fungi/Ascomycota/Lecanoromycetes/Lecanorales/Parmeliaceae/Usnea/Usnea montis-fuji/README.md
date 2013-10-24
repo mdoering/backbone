@@ -1,5 +1,4 @@
-Usnea montis-fuji f. montis-fuji FORM
-=======
+# Usnea montis-fuji Motyka SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Usnea montis-fuji f. montis-fuji
+Usnea montis-fuji Motyka
 
 ### Remarks
 null

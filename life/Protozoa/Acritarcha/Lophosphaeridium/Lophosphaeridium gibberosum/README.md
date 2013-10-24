@@ -1,5 +1,4 @@
-Lophosphaeridium gibberosum (Timofeev, 1966) Xing Yusheng et al., 1985 SPECIES
-=======
+# Lophosphaeridium gibberosum (Timofeev, 1966) Xing Yusheng et al., 1985 SPECIES
 
 #### Status
 ACCEPTED

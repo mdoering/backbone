@@ -1,5 +1,4 @@
-Oospora cerasi (Tracy & Earle) Sumst. SPECIES
-=======
+# Oospora cerasi (Tracy & Earle) Sumst. SPECIES
 
 #### Status
 ACCEPTED

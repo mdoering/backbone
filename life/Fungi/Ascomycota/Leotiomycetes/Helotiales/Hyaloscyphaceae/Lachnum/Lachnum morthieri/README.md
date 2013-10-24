@@ -1,5 +1,4 @@
-Lachnum morthieri (Cooke) Rehm SPECIES
-=======
+# Lachnum morthieri (Cooke) Rehm SPECIES
 
 #### Status
 ACCEPTED

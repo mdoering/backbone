@@ -1,5 +1,4 @@
-Hydrocybe albicaulis Velen. SPECIES
-=======
+# Hydrocybe albicaulis Velen. SPECIES
 
 #### Status
 ACCEPTED

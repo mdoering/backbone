@@ -1,5 +1,4 @@
-Tricholoma impudicum Velen. SPECIES
-=======
+# Tricholoma impudicum Velen. SPECIES
 
 #### Status
 ACCEPTED

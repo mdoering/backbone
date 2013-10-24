@@ -1,5 +1,4 @@
-Squamaria viridifusca (Clemente) Colmeiro SPECIES
-=======
+# Squamaria viridifusca (Clemente) Colmeiro SPECIES
 
 #### Status
 ACCEPTED

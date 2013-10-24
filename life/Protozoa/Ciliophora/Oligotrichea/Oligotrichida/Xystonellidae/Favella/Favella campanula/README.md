@@ -1,5 +1,4 @@
-Favella campanula (Schmidt, 1901) SPECIES
-=======
+# Favella campanula (Schmidt, 1901) SPECIES
 
 #### Status
 ACCEPTED

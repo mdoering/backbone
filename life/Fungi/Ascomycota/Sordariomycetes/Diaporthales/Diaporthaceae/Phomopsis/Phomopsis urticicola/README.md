@@ -1,5 +1,4 @@
-Phomopsis urticicola Traverso & Spessa SPECIES
-=======
+# Phomopsis urticicola Traverso & Spessa SPECIES
 
 #### Status
 ACCEPTED

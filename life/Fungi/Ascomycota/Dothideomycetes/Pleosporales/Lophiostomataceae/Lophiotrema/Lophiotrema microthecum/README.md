@@ -1,5 +1,4 @@
-Lophiotrema microthecum Vestergr. SPECIES
-=======
+# Lophiotrema microthecum Vestergr. SPECIES
 
 #### Status
 ACCEPTED

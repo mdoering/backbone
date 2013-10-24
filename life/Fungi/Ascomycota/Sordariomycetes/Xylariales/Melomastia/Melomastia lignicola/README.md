@@ -1,5 +1,4 @@
-Melomastia lignicola Kirschst. SPECIES
-=======
+# Melomastia lignicola Kirschst. SPECIES
 
 #### Status
 ACCEPTED

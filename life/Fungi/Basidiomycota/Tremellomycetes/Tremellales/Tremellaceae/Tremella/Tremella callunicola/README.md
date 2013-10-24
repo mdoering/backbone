@@ -1,5 +1,4 @@
-Tremella callunicola P. Roberts, 2001 SPECIES
-=======
+# Tremella callunicola P. Roberts, 2001 SPECIES
 
 #### Status
 ACCEPTED

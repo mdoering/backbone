@@ -1,5 +1,4 @@
-Ehrenbergina crassa Heron-Allen & Earland, 1929 SPECIES
-=======
+# Ehrenbergina crassa Heron-Allen & Earland, 1929 SPECIES
 
 #### Status
 ACCEPTED

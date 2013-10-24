@@ -1,5 +1,4 @@
-Stephanophoron cyanizum Nyl. SPECIES
-=======
+# Stephanophoron cyanizum Nyl. SPECIES
 
 #### Status
 ACCEPTED

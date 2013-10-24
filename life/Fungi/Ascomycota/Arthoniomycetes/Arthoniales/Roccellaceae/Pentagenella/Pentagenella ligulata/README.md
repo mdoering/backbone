@@ -1,5 +1,4 @@
-Pentagenella ligulata (Peine & Follmann) Tehler SPECIES
-=======
+# Pentagenella ligulata (Peine & Follmann) Tehler SPECIES
 
 #### Status
 ACCEPTED

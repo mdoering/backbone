@@ -1,5 +1,4 @@
-Usnea liechtensteinii J. Steiner SPECIES
-=======
+# Usnea liechtensteinii J. Steiner SPECIES
 
 #### Status
 ACCEPTED

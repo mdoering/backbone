@@ -1,5 +1,4 @@
-Cellypha reticulata (Berk. & Broome) W.B. Cooke SPECIES
-=======
+# Cellypha reticulata (Berk. & Broome) W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

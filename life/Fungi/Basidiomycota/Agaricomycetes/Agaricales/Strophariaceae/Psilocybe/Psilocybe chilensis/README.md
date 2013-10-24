@@ -1,5 +1,4 @@
-Psilocybe chilensis Singer SPECIES
-=======
+# Psilocybe chilensis Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora alocasiae Sawada SPECIES
-=======
+# Cercospora alocasiae Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Zwackhiomyces cervinae Calat., Triebel & Pérez-Ortega SPECIES
-=======
+# Zwackhiomyces cervinae Calat., Triebel & Pérez-Ortega SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spinogerina Ozkar, 1997 GENUS
-=======
+# Spinogerina Ozkar, 1997 GENUS
 
 #### Status
 ACCEPTED

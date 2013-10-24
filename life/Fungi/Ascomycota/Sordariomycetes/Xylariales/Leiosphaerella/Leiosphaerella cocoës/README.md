@@ -1,14 +1,13 @@
-Metasphaeria cocoës Speg., 1909 SPECIES
-=======
+# Leiosphaerella cocoës (Petch) Samuels & Rossman, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Anal. Mus. nac. B. Aires, Ser. 3 19(12): 375 (1909)
+Mycotaxon 28(2): 465 (1987)
 
 #### Original name
 Metasphaeria cocoës Speg., 1909

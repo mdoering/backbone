@@ -1,5 +1,4 @@
-Enterographa gelatinosa (Stirt.) Redinger SPECIES
-=======
+# Enterographa gelatinosa (Stirt.) Redinger SPECIES
 
 #### Status
 ACCEPTED

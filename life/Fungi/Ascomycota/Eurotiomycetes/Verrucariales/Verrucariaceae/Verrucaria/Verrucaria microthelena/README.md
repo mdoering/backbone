@@ -1,5 +1,4 @@
-Verrucaria microthelena Nyl. SPECIES
-=======
+# Verrucaria microthelena Nyl. SPECIES
 
 #### Status
 ACCEPTED

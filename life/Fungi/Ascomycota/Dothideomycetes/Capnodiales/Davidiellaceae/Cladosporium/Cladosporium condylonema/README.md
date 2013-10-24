@@ -1,5 +1,4 @@
-Cladosporium condylonema Pass. SPECIES
-=======
+# Cladosporium condylonema Pass. SPECIES
 
 #### Status
 ACCEPTED

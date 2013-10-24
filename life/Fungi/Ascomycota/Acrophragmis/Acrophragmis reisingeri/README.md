@@ -1,17 +1,16 @@
-Acrophragmis reisingeris G.V. Rao & A.P. Reddy SPECIES
-=======
+# Acrophragmis reisingeri G.V. Rao & A.P. Reddy SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian J. mycol. Res. 16(2): 365 (1978)
 
 #### Original name
-Acrophragmis reisingeris G.V. Rao & A.P. Reddy
+Acrophragmis reisingeri G.V. Rao & A.P. Reddy
 
 ### Remarks
 null

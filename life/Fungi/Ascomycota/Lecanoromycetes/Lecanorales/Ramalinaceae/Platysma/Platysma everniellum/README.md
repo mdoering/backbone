@@ -1,5 +1,4 @@
-Platysma everniellum Nyl. SPECIES
-=======
+# Platysma everniellum Nyl. SPECIES
 
 #### Status
 ACCEPTED

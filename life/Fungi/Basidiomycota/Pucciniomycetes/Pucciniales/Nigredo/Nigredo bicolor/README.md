@@ -1,5 +1,4 @@
-Nigredo bicolor (Ellis) Arthur SPECIES
-=======
+# Nigredo bicolor (Ellis) Arthur SPECIES
 
 #### Status
 ACCEPTED

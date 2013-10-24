@@ -1,5 +1,4 @@
-Nectria barbata Petch SPECIES
-=======
+# Nectria barbata Petch SPECIES
 
 #### Status
 ACCEPTED

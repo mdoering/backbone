@@ -1,5 +1,4 @@
-Asteroma angraeci L.D. Galloway & Feuilleaub. SPECIES
-=======
+# Asteroma angraeci L.D. Galloway & Feuilleaub. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aplosporella neilliae (Ellis & Everh.) Petr. SPECIES
-=======
+# Aplosporella neilliae (Ellis & Everh.) Petr. SPECIES
 
 #### Status
 ACCEPTED

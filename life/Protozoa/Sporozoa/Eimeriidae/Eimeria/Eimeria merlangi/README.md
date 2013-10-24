@@ -1,5 +1,4 @@
-Eimeria merlangi Zaika, 1966 SPECIES
-=======
+# Eimeria merlangi Zaika, 1966 SPECIES
 
 #### Status
 ACCEPTED

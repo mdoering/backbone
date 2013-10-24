@@ -1,5 +1,4 @@
-Sphaerostilbe cinnabarina Tul. & C. Tul. SPECIES
-=======
+# Sphaerostilbe cinnabarina Tul. & C. Tul. SPECIES
 
 #### Status
 ACCEPTED

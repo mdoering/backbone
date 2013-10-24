@@ -1,5 +1,4 @@
-Dactylina beringica C.D. Bird & J.W. Thomson SPECIES
-=======
+# Dactylina beringica C.D. Bird & J.W. Thomson SPECIES
 
 #### Status
 ACCEPTED

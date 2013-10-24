@@ -1,5 +1,4 @@
-Anteholosticha Berger, 2003 GENUS
-=======
+# Anteholosticha Berger, 2003 GENUS
 
 #### Status
 ACCEPTED

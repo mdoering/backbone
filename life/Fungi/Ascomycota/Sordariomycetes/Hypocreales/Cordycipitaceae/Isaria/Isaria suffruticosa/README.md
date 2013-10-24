@@ -1,5 +1,4 @@
-Isaria suffruticosa Cooke & Massee SPECIES
-=======
+# Isaria suffruticosa Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

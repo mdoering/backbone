@@ -1,5 +1,4 @@
-Stomiopeltopsis linacearum Bat. & Cavalc., 1963 SPECIES
-=======
+# Stomiopeltopsis linacearum Bat. & Cavalc., 1963 SPECIES
 
 #### Status
 ACCEPTED

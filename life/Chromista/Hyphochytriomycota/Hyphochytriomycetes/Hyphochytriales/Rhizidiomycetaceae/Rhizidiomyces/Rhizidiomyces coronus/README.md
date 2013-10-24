@@ -1,5 +1,4 @@
-Rhizidiomyces coronus Karling, 1968 SPECIES
-=======
+# Rhizidiomyces coronus Karling, 1968 SPECIES
 
 #### Status
 ACCEPTED

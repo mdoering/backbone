@@ -1,5 +1,4 @@
-Edaphospathula inermis Foissner & Xu, 2007 SPECIES
-=======
+# Edaphospathula inermis Foissner & Xu, 2007 SPECIES
 
 #### Status
 ACCEPTED

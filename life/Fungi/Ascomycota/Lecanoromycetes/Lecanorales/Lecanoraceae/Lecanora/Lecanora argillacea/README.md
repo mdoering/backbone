@@ -1,5 +1,4 @@
-Lecanora argillacea (C. Knight) Forssell SPECIES
-=======
+# Lecanora argillacea (C. Knight) Forssell SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clavaria byssoides Bull. SPECIES
-=======
+# Clavaria byssoides Bull. SPECIES
 
 #### Status
 ACCEPTED

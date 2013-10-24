@@ -1,5 +1,4 @@
-Bojamyces olmecensis M.M. White, L.G. Valle & Cafaro, 2008 SPECIES
-=======
+# Bojamyces olmecensis M.M. White, L.G. Valle & Cafaro, 2008 SPECIES
 
 #### Status
 ACCEPTED

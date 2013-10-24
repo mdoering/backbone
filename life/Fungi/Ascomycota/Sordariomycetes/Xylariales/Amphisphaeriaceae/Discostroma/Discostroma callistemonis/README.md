@@ -1,17 +1,16 @@
-Monochaetia kriegeriana (Bres.) Sacc., 1902 SPECIES
-=======
+# Discostroma callistemonis (H.J. Swart) Sivan., 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Rabenhorst, Rabenh. Krypt. -Fl. (Leipzig) 1(7): 669 (1902)
+in Sivanesan & Shivas, Fungal Diversity 11: 152 (2002)
 
 #### Original name
-Pestalotia kriegeriana Bres., 1894
+Discostromopsis callistemonis H.J. Swart, 1979
 
 ### Remarks
 null

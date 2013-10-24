@@ -1,5 +1,4 @@
-Puccinia chasmatis Ellis & Everh. SPECIES
-=======
+# Puccinia chasmatis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

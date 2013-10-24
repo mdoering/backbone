@@ -1,5 +1,4 @@
-Trichella pentodontis (Manier) Manier & Théodoridès {?} SPECIES
-=======
+# Trichella pentodontis (Manier) Manier & Théodoridès {?} SPECIES
 
 #### Status
 ACCEPTED

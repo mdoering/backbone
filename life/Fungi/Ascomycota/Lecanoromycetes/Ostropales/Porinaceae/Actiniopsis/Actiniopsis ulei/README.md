@@ -1,5 +1,4 @@
-Actiniopsis ulei (Henn.) Henn. SPECIES
-=======
+# Actiniopsis ulei (Henn.) Henn. SPECIES
 
 #### Status
 ACCEPTED

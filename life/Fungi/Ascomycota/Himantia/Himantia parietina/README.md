@@ -1,5 +1,4 @@
-Himantia parietina (Lam. & DC.) Léman SPECIES
-=======
+# Himantia parietina (Lam. & DC.) Léman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Crustospathula cartilaginea Aptroot SPECIES
-=======
+# Crustospathula cartilaginea Aptroot SPECIES
 
 #### Status
 ACCEPTED

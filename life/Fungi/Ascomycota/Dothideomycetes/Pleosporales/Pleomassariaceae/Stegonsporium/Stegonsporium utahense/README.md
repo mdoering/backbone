@@ -1,17 +1,16 @@
-Steganosporium utahense Sacc. SPECIES
-=======
+# Stegonsporium utahense Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 12(4): 204 (1920)
 
 #### Original name
-Steganosporium utahense Sacc.
+Stegonsporium utahense Sacc.
 
 ### Remarks
 null

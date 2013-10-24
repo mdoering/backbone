@@ -1,5 +1,4 @@
-Chaenothecopsis tibellii Titov SPECIES
-=======
+# Chaenothecopsis tibellii Titov SPECIES
 
 #### Status
 ACCEPTED

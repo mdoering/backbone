@@ -1,17 +1,16 @@
-Calocybe phragmitidis Kalamees SPECIES
-=======
+# Calocybe phragmitis Kalamees SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Urbonas, Kalamees & Lukin, Conspectus florum agaricalium fungorum (Agaricales s. l. ) Lithuaniae, Latviae et Estoniae (materies 1778-1984 annorum) (Vilnius) 25 (1986)
 
 #### Original name
-Calocybe phragmitidis Kalamees
+Calocybe phragmitis Kalamees
 
 ### Remarks
 null

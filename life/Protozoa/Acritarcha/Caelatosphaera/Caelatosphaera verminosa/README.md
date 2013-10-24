@@ -1,5 +1,4 @@
-Caelatosphaera verminosa Wicander, Playford & Robertson, 1999 SPECIES
-=======
+# Caelatosphaera verminosa Wicander, Playford & Robertson, 1999 SPECIES
 
 #### Status
 ACCEPTED

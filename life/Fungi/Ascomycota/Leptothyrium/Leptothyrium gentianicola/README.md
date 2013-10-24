@@ -1,17 +1,16 @@
-Leptothyrium gentianaecola var. gentianaecola (DC.) Bäumler VARIETY
-=======
+# Leptothyrium gentianicola (DC.) Bäumler, 1885 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Sphaeria gentianaecola DC.
+Leptothyrium gentianicola (DC.) Bäumler, 1885
 
 ### Remarks
 null

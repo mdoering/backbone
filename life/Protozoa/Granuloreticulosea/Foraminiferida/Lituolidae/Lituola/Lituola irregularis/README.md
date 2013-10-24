@@ -1,5 +1,4 @@
-Lituola irregularis Goes, 1882 SPECIES
-=======
+# Lituola irregularis Goes, 1882 SPECIES
 
 #### Status
 ACCEPTED

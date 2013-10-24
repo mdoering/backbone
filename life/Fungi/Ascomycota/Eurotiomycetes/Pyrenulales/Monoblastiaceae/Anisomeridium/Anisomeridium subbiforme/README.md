@@ -1,5 +1,4 @@
-Anisomeridium subbiforme (C. Knight) R.C. Harris SPECIES
-=======
+# Anisomeridium subbiforme (C. Knight) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

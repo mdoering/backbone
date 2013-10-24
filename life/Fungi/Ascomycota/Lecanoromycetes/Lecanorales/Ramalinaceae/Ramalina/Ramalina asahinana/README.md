@@ -1,5 +1,4 @@
-Ramalina asahinana Zahlbr. SPECIES
-=======
+# Ramalina asahinana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

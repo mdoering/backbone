@@ -1,5 +1,4 @@
-Undellopsis tricollaria Kofoid & Campbell, 1929 SPECIES
-=======
+# Undellopsis tricollaria Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Galerina nybergii A.H. Sm. SPECIES
-=======
+# Galerina nybergii A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

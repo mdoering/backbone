@@ -1,5 +1,4 @@
-Gymnodinium sangineum Hirasaka SPECIES
-=======
+# Gymnodinium sangineum Hirasaka SPECIES
 
 #### Status
 ACCEPTED

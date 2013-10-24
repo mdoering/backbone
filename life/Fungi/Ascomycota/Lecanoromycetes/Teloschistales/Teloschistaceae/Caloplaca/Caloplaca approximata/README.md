@@ -1,14 +1,13 @@
-Caloplaca vitellinula f. approximata Lynge FORM
-=======
+# Caloplaca approximata (Lynge) H. Magn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lich. Nov. Zemlya 222 (1928)
+Ark. Bot. 33A(1): 130 (1946)
 
 #### Original name
 Caloplaca vitellinula f. approximata Lynge

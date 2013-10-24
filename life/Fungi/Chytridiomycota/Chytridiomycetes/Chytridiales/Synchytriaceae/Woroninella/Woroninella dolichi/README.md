@@ -1,5 +1,4 @@
-Woroninella dolichi (Cooke) Syd. SPECIES
-=======
+# Woroninella dolichi (Cooke) Syd. SPECIES
 
 #### Status
 ACCEPTED

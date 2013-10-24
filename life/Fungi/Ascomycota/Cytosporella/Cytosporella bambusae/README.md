@@ -1,5 +1,4 @@
-Cytosporella bambusae Hara SPECIES
-=======
+# Cytosporella bambusae Hara SPECIES
 
 #### Status
 ACCEPTED

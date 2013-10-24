@@ -1,5 +1,4 @@
-Septoria giliae Dearn. & Bisby SPECIES
-=======
+# Septoria giliae Dearn. & Bisby SPECIES
 
 #### Status
 ACCEPTED

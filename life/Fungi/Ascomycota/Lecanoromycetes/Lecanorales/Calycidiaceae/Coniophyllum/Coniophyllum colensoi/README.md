@@ -1,5 +1,4 @@
-Coniophyllum colensoi Müll. Arg. SPECIES
-=======
+# Coniophyllum colensoi Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

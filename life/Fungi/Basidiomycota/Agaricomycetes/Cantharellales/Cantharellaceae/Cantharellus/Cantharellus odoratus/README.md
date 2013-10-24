@@ -1,5 +1,4 @@
-Cantharellus odoratus var. odoratus VARIETY
-=======
+# Cantharellus odoratus (Schwein.) Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entelexis Van der Walt & Johannsen, 1973 GENUS
-=======
+# Entelexis Van der Walt & Johannsen, 1973 GENUS
 
 #### Status
 ACCEPTED

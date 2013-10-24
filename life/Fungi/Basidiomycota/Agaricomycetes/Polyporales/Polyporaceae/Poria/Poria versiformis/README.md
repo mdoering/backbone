@@ -1,5 +1,4 @@
-Poria versiformis (Pers.) D.V. Baxter SPECIES
-=======
+# Poria versiformis (Pers.) D.V. Baxter SPECIES
 
 #### Status
 ACCEPTED

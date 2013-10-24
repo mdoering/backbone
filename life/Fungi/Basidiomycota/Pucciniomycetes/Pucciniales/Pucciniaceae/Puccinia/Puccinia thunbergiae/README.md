@@ -1,5 +1,4 @@
-Puccinia thunbergiae Cooke SPECIES
-=======
+# Puccinia thunbergiae Cooke SPECIES
 
 #### Status
 ACCEPTED

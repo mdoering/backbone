@@ -1,5 +1,4 @@
-Pseudocyphellaria durietzii D.J. Galloway SPECIES
-=======
+# Pseudocyphellaria durietzii D.J. Galloway SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichoderma voglmayrii Jaklitsch SPECIES
-=======
+# Trichoderma voglmayrii Jaklitsch SPECIES
 
 #### Status
 ACCEPTED

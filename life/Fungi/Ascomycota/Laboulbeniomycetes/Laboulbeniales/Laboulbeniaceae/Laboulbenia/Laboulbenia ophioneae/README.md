@@ -1,5 +1,4 @@
-Laboulbenia ophioneae Terada SPECIES
-=======
+# Laboulbenia ophioneae Terada SPECIES
 
 #### Status
 ACCEPTED

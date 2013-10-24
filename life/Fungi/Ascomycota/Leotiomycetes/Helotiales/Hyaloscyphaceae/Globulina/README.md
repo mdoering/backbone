@@ -1,5 +1,4 @@
-Globulina GENUS
-=======
+# Globulina GENUS
 
 #### Status
 ACCEPTED

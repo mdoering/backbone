@@ -1,5 +1,4 @@
-Erysibe arenariae-marinae Wallr. SPECIES
-=======
+# Erysibe arenariae-marinae Wallr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heterodermia granulifera (Ach.) W. L. Culb. SPECIES
-=======
+# Heterodermia granulifera (Ach.) W. L. Culb. SPECIES
 
 #### Status
 ACCEPTED

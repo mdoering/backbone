@@ -1,5 +1,4 @@
-Karreriella affinis SPECIES
-=======
+# Karreriella affinis SPECIES
 
 #### Status
 ACCEPTED

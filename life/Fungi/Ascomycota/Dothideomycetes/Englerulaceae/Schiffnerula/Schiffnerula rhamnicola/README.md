@@ -1,5 +1,4 @@
-Schiffnerula rhamnicola (Doidge) S. Hughes SPECIES
-=======
+# Schiffnerula rhamnicola (Doidge) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

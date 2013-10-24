@@ -1,5 +1,4 @@
-Paramoebidium cassidula Strongman & M.M. White, 2006 SPECIES
-=======
+# Paramoebidium cassidula Strongman & M.M. White, 2006 SPECIES
 
 #### Status
 ACCEPTED

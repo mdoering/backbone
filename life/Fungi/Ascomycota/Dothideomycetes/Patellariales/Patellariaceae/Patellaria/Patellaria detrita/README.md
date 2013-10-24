@@ -1,5 +1,4 @@
-Patellaria detrita (Hoffm.) Hoffm. SPECIES
-=======
+# Patellaria detrita (Hoffm.) Hoffm. SPECIES
 
 #### Status
 ACCEPTED

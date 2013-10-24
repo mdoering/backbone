@@ -1,5 +1,4 @@
-Ceratosporium aequatoriale Matsush. SPECIES
-=======
+# Ceratosporium aequatoriale Matsush. SPECIES
 
 #### Status
 ACCEPTED

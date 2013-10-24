@@ -1,5 +1,4 @@
-Hypoxylon equinum Berk. & Ravenel SPECIES
-=======
+# Hypoxylon equinum Berk. & Ravenel SPECIES
 
 #### Status
 ACCEPTED

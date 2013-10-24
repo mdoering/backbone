@@ -1,5 +1,4 @@
-Tetraspinocyrtiidae Kozur & Mostler, 1994 FAMILY
-=======
+# Tetraspinocyrtiidae Kozur & Mostler, 1994 FAMILY
 
 #### Status
 ACCEPTED

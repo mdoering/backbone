@@ -1,5 +1,4 @@
-Rectoseptatournayella Brazhnikov & Rostovseva, 1963 GENUS
-=======
+# Rectoseptatournayella Brazhnikov & Rostovseva, 1963 GENUS
 
 #### Status
 ACCEPTED

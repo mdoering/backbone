@@ -1,5 +1,4 @@
-Placodium diplacioides Vain. SPECIES
-=======
+# Placodium diplacioides Vain. SPECIES
 
 #### Status
 ACCEPTED

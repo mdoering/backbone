@@ -1,5 +1,4 @@
-Diaporthe hircini Feltgen SPECIES
-=======
+# Diaporthe hircini Feltgen SPECIES
 
 #### Status
 ACCEPTED

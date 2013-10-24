@@ -1,5 +1,4 @@
-Coccodiscus quercicola Henn. SPECIES
-=======
+# Coccodiscus quercicola Henn. SPECIES
 
 #### Status
 ACCEPTED

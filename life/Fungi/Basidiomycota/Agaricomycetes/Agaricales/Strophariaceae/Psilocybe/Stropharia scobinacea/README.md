@@ -1,5 +1,4 @@
-Stropharia scobinacea (Fr.) Sacc. SPECIES
-=======
+# Stropharia scobinacea (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

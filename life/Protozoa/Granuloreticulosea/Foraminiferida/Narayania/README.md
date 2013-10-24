@@ -1,5 +1,4 @@
-Narayania Singh & Kalia, 1982 GENUS
-=======
+# Narayania Singh & Kalia, 1982 GENUS
 
 #### Status
 ACCEPTED

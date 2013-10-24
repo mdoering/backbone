@@ -1,5 +1,4 @@
-Uredo tanaceti-balsamitae DC. SPECIES
-=======
+# Uredo tanaceti-balsamitae DC. SPECIES
 
 #### Status
 ACCEPTED

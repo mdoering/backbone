@@ -1,5 +1,4 @@
-Corticium subnullum Burt SPECIES
-=======
+# Corticium subnullum Burt SPECIES
 
 #### Status
 ACCEPTED

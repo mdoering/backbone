@@ -1,5 +1,4 @@
-Rhodophyllus bisporus Hongo SPECIES
-=======
+# Rhodophyllus bisporus Hongo SPECIES
 
 #### Status
 ACCEPTED

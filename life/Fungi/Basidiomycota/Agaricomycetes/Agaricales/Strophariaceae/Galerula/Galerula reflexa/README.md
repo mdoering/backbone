@@ -1,5 +1,4 @@
-Galerula reflexa Murrill SPECIES
-=======
+# Galerula reflexa Murrill SPECIES
 
 #### Status
 ACCEPTED

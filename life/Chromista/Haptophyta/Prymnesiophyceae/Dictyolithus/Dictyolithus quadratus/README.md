@@ -1,5 +1,4 @@
-Dictyolithus quadratus Gorka, 1957 SPECIES
-=======
+# Dictyolithus quadratus Gorka, 1957 SPECIES
 
 #### Status
 ACCEPTED

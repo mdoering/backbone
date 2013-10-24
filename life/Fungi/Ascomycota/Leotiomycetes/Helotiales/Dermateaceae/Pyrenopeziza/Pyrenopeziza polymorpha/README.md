@@ -1,5 +1,4 @@
-Pyrenopeziza polymorpha Rehm SPECIES
-=======
+# Pyrenopeziza polymorpha Rehm SPECIES
 
 #### Status
 ACCEPTED

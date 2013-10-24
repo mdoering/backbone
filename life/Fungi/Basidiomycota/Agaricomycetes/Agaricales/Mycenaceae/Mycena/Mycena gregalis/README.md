@@ -1,5 +1,4 @@
-Mycena gregalis Métrod SPECIES
-=======
+# Mycena gregalis Métrod SPECIES
 
 #### Status
 ACCEPTED

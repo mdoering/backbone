@@ -1,5 +1,4 @@
-Calothyriolum jaffuelianum Speg. SPECIES
-=======
+# Calothyriolum jaffuelianum Speg. SPECIES
 
 #### Status
 ACCEPTED

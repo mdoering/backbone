@@ -1,5 +1,4 @@
-Conocybe rabenhorstii (Fr.) Singer SPECIES
-=======
+# Conocybe rabenhorstii (Fr.) Singer SPECIES
 
 #### Status
 ACCEPTED

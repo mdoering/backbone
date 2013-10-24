@@ -1,5 +1,4 @@
-Phaeographis ramulicola Groenh. SPECIES
-=======
+# Phaeographis ramulicola Groenh. SPECIES
 
 #### Status
 ACCEPTED

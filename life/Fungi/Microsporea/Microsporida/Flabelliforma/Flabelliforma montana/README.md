@@ -1,5 +1,4 @@
-Flabelliforma montana E.U. Canning, R. Killick-Kendrick & M. Killick-Kendrick SPECIES
-=======
+# Flabelliforma montana E.U. Canning, R. Killick-Kendrick & M. Killick-Kendrick SPECIES
 
 #### Status
 ACCEPTED

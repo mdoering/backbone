@@ -1,5 +1,4 @@
-Puccinia subglobosa Speg. SPECIES
-=======
+# Puccinia subglobosa Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bifidobacterium gallinarum Watabe et al., 1983 SPECIES
-=======
+# Bifidobacterium gallinarum Watabe et al., 1983 SPECIES
 
 #### Status
 ACCEPTED

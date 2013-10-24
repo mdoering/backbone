@@ -1,5 +1,4 @@
-Clitopilus subgilvus Berk. & Broome SPECIES
-=======
+# Clitopilus subgilvus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

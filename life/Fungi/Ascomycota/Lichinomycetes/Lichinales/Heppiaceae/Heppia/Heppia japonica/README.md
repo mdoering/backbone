@@ -1,5 +1,4 @@
-Heppia japonica Asahina SPECIES
-=======
+# Heppia japonica Asahina SPECIES
 
 #### Status
 ACCEPTED

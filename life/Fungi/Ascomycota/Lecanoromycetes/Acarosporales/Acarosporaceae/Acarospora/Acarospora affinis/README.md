@@ -1,5 +1,4 @@
-Acarospora affinis K. Knudsen SPECIES
-=======
+# Acarospora affinis K. Knudsen SPECIES
 
 #### Status
 ACCEPTED

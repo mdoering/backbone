@@ -1,5 +1,4 @@
-Pseudocercospora luzianiensis A. Hern. Gut. & Dianese SPECIES
-=======
+# Pseudocercospora luzianiensis A. Hern. Gut. & Dianese SPECIES
 
 #### Status
 ACCEPTED

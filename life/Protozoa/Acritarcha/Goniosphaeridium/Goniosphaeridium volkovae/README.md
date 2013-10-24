@@ -1,5 +1,4 @@
-Goniosphaeridium volkovae Hagenfeldt, 1989 SPECIES
-=======
+# Goniosphaeridium volkovae Hagenfeldt, 1989 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paramicrothallites edvensis K.P. Rao & Ramanujam SPECIES
-=======
+# Paramicrothallites edvensis K.P. Rao & Ramanujam SPECIES
 
 #### Status
 ACCEPTED

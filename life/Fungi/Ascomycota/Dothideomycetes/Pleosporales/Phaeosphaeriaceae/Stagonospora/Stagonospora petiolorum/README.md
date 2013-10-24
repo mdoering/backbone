@@ -1,5 +1,4 @@
-Stagonospora petiolorum Ellis & Everh. SPECIES
-=======
+# Stagonospora petiolorum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

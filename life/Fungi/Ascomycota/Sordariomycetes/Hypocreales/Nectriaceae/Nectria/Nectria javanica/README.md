@@ -1,5 +1,4 @@
-Nectria javanica Sacc. & P. Syd. SPECIES
-=======
+# Nectria javanica Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

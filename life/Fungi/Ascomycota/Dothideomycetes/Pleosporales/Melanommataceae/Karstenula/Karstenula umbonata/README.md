@@ -1,5 +1,4 @@
-Karstenula umbonata (Ellis & Everh.) M.E. Barr SPECIES
-=======
+# Karstenula umbonata (Ellis & Everh.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

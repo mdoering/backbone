@@ -1,5 +1,4 @@
-Pseudocercospora santalacea (K.R.G. Nair) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora santalacea (K.R.G. Nair) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

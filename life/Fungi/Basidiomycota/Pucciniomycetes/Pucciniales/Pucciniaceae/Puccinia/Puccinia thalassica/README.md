@@ -1,5 +1,4 @@
-Puccinia thalassica Speg. SPECIES
-=======
+# Puccinia thalassica Speg. SPECIES
 
 #### Status
 ACCEPTED

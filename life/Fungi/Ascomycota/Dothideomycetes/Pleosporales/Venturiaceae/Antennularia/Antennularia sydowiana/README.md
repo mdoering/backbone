@@ -1,5 +1,4 @@
-Antennularia sydowiana (Petr.) E. Müll. SPECIES
-=======
+# Antennularia sydowiana (Petr.) E. Müll. SPECIES
 
 #### Status
 ACCEPTED

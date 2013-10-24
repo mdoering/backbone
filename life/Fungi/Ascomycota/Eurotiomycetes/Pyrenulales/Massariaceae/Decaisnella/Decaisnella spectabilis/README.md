@@ -1,5 +1,4 @@
-Decaisnella spectabilis Fabre SPECIES
-=======
+# Decaisnella spectabilis Fabre SPECIES
 
 #### Status
 ACCEPTED

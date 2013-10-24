@@ -1,5 +1,4 @@
-Pholiota platyphylla Kauffman SPECIES
-=======
+# Pholiota platyphylla Kauffman SPECIES
 
 #### Status
 ACCEPTED

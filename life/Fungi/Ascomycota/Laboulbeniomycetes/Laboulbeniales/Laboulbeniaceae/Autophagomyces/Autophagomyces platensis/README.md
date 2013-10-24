@@ -1,5 +1,4 @@
-Autophagomyces platensis Thaxt., 1912 SPECIES
-=======
+# Autophagomyces platensis Thaxt., 1912 SPECIES
 
 #### Status
 ACCEPTED

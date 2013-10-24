@@ -1,11 +1,10 @@
-Bulimina normani Goes, 1894 SPECIES
-=======
+# Robertinoides normani (Goes, 1894) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
 null

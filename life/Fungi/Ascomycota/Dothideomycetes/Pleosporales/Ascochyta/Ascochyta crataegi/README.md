@@ -1,5 +1,4 @@
-Ascochyta crataegi Fuckel SPECIES
-=======
+# Ascochyta crataegi Fuckel SPECIES
 
 #### Status
 ACCEPTED

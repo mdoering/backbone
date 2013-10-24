@@ -1,5 +1,4 @@
-Parmelia juniperina (L.) Hepp SPECIES
-=======
+# Parmelia juniperina (L.) Hepp SPECIES
 
 #### Status
 ACCEPTED

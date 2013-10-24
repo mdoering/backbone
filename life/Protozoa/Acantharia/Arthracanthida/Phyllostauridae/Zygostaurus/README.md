@@ -1,5 +1,4 @@
-Zygostaurus Haeckel, 1887 GENUS
-=======
+# Zygostaurus Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

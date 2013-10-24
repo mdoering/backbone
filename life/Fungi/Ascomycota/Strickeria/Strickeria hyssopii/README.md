@@ -1,5 +1,4 @@
-Strickeria hyssopii Pidopl. SPECIES
-=======
+# Strickeria hyssopii Pidopl. SPECIES
 
 #### Status
 ACCEPTED

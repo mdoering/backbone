@@ -1,5 +1,4 @@
-Lecanora incanescens Nyl. SPECIES
-=======
+# Lecanora incanescens Nyl. SPECIES
 
 #### Status
 ACCEPTED

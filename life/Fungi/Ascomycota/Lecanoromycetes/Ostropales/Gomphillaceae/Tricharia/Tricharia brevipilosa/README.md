@@ -1,5 +1,4 @@
-Tricharia brevipilosa Kalb & Vezda SPECIES
-=======
+# Tricharia brevipilosa Kalb & Vezda SPECIES
 
 #### Status
 ACCEPTED

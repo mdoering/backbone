@@ -1,5 +1,4 @@
-Pleurothelium microsporum Nagarkar & Patw. SPECIES
-=======
+# Pleurothelium microsporum Nagarkar & Patw. SPECIES
 
 #### Status
 ACCEPTED

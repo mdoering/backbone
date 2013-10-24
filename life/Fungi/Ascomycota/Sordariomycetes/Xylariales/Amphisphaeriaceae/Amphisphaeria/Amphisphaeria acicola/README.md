@@ -1,5 +1,4 @@
-Amphisphaeria acicola (Cooke) Sacc. SPECIES
-=======
+# Amphisphaeria acicola (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

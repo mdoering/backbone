@@ -1,5 +1,4 @@
-Marasmiellus inconspicuus Murrill SPECIES
-=======
+# Marasmiellus inconspicuus Murrill SPECIES
 
 #### Status
 ACCEPTED

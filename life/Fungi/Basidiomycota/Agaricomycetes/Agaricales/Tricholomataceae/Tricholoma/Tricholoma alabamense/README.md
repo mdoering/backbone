@@ -1,5 +1,4 @@
-Tricholoma alabamense (Murrill) Sacc. & Trotter SPECIES
-=======
+# Tricholoma alabamense (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

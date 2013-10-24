@@ -1,5 +1,4 @@
-Ceraceopsora elaeagni Kakish., T. Sato & S. Sato, 1984 SPECIES
-=======
+# Ceraceopsora elaeagni Kakish., T. Sato & S. Sato, 1984 SPECIES
 
 #### Status
 ACCEPTED

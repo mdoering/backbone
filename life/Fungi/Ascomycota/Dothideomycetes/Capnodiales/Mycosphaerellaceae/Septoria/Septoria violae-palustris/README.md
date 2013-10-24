@@ -1,17 +1,16 @@
-Septoria violae var. violae VARIETY
-=======
+# Septoria violae-palustris Died., 1914 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Krypt. -Fl. Brandenburg (Leipzig) 9: 522 (1914)
 
 #### Original name
-null
+Septoria violae-palustris Died., 1914
 
 ### Remarks
 null

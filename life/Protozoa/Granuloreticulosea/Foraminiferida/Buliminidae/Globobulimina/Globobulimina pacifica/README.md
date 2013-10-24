@@ -1,8 +1,7 @@
-Globobulimina caribbea Cushman & Bermudez, 1945 SPECIES
-=======
+# Globobulimina pacifica Cushman, 1927 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

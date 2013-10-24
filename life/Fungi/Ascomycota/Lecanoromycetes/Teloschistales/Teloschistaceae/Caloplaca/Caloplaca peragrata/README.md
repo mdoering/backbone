@@ -1,5 +1,4 @@
-Caloplaca peragrata (Fée) J. Steiner SPECIES
-=======
+# Caloplaca peragrata (Fée) J. Steiner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Discotrichidae Jankowksi, 1967 FAMILY
-=======
+# Discotrichidae Jankowksi, 1967 FAMILY
 
 #### Status
 ACCEPTED

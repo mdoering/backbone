@@ -1,5 +1,4 @@
-Griphosphaerioma kansensis (Ellis & Everh.) Shoemaker SPECIES
-=======
+# Griphosphaerioma kansensis (Ellis & Everh.) Shoemaker SPECIES
 
 #### Status
 ACCEPTED

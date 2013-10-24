@@ -1,5 +1,4 @@
-Saccharomyces javanicus De Kruyff SPECIES
-=======
+# Saccharomyces javanicus De Kruyff SPECIES
 
 #### Status
 ACCEPTED

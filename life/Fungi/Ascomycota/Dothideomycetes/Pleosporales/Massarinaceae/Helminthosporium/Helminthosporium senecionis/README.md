@@ -1,5 +1,4 @@
-Helminthosporium senecionis P. Crouan & H. Crouan SPECIES
-=======
+# Helminthosporium senecionis P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

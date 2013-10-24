@@ -1,17 +1,16 @@
-Xerula japonica var. japonica VARIETY
-=======
+# Oudemansiella japonica SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Feddes Repert. Spec. Nov. Regni Veg. 95(3): 190 (1984)
+null
 
 #### Original name
-Xerula japonica var. japonica
+null
 
 ### Remarks
 null

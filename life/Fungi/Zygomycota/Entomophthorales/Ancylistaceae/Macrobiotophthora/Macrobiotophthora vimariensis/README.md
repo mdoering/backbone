@@ -1,5 +1,4 @@
-Macrobiotophthora vimariensis Reukauf, 1912 SPECIES
-=======
+# Macrobiotophthora vimariensis Reukauf, 1912 SPECIES
 
 #### Status
 ACCEPTED

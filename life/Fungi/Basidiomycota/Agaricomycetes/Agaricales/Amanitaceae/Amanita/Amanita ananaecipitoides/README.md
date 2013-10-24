@@ -1,5 +1,4 @@
-Amanita ananaecipitoides A.E. Wood SPECIES
-=======
+# Amanita ananaecipitoides A.E. Wood SPECIES
 
 #### Status
 ACCEPTED

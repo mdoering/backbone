@@ -1,5 +1,4 @@
-Puccinia hieroglyphica Berndt SPECIES
-=======
+# Puccinia hieroglyphica Berndt SPECIES
 
 #### Status
 ACCEPTED

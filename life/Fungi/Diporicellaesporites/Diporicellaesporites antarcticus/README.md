@@ -1,5 +1,4 @@
-Diporicellaesporites antarcticus Z.C. Song & Liu Cao SPECIES
-=======
+# Diporicellaesporites antarcticus Z.C. Song & Liu Cao SPECIES
 
 #### Status
 ACCEPTED

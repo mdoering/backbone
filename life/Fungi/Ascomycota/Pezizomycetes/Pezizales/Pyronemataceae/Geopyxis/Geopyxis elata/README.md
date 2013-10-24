@@ -1,5 +1,4 @@
-Geopyxis elata Massee SPECIES
-=======
+# Geopyxis elata Massee SPECIES
 
 #### Status
 ACCEPTED

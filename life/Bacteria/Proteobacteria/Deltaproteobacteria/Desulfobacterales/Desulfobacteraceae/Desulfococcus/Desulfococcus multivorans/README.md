@@ -1,5 +1,4 @@
-Desulfococcus multivorans Widdel, 1981 SPECIES
-=======
+# Desulfococcus multivorans Widdel, 1981 SPECIES
 
 #### Status
 ACCEPTED

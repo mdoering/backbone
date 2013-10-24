@@ -1,8 +1,7 @@
-Perkinsus atlanticus Azevedo, 1989 SPECIES
-=======
+# Perkinsus olseni (Lester & Davis, 1981) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

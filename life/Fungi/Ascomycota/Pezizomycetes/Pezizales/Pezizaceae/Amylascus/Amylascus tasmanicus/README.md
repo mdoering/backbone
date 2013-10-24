@@ -1,14 +1,13 @@
-Terfezia tasmanica Rodway, 1926 SPECIES
-=======
+# Amylascus tasmanicus (Rodway) Trappe, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Pap. Proc. R. Soc. Tasm. 167 (1926)
+Trans. Br. mycol. Soc. 65(3): 498 (1975)
 
 #### Original name
 Terfezia tasmanica Rodway, 1926

@@ -1,5 +1,4 @@
-Streptococcus australis Willcox et al., 2001 SPECIES
-=======
+# Streptococcus australis Willcox et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

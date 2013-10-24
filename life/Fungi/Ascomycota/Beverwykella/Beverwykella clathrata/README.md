@@ -1,5 +1,4 @@
-Beverwykella clathrata Voglmayr SPECIES
-=======
+# Beverwykella clathrata Voglmayr SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placosphaeria graminis Sacc. & Roum. SPECIES
-=======
+# Placosphaeria graminis Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Neopeckia herpotrichioides Teng & S.H. Ou SPECIES
-=======
+# Neopeckia herpotrichioides Teng & S.H. Ou SPECIES
 
 #### Status
 ACCEPTED

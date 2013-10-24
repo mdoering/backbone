@@ -1,5 +1,4 @@
-Bordea weirii R.K. Benj. SPECIES
-=======
+# Bordea weirii R.K. Benj. SPECIES
 
 #### Status
 ACCEPTED

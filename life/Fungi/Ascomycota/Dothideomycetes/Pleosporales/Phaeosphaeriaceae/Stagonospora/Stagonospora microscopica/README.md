@@ -1,5 +1,4 @@
-Stagonospora microscopica (Fr.) Sacc. SPECIES
-=======
+# Stagonospora microscopica (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Favolus auriculaeformis Ces. SPECIES
-=======
+# Favolus auriculaeformis Ces. SPECIES
 
 #### Status
 ACCEPTED

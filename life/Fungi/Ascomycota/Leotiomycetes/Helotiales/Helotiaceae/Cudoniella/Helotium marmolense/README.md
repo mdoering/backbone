@@ -1,5 +1,4 @@
-Helotium marmolense Speg. SPECIES
-=======
+# Helotium marmolense Speg. SPECIES
 
 #### Status
 ACCEPTED

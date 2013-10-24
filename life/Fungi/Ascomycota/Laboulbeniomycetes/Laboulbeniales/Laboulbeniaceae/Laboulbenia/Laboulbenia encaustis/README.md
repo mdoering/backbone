@@ -1,5 +1,4 @@
-Laboulbenia encaustis K. Sugiy. & T. Majewski SPECIES
-=======
+# Laboulbenia encaustis K. Sugiy. & T. Majewski SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Allobaculum stercoricanis Greetham et al., 2006 SPECIES
-=======
+# Allobaculum stercoricanis Greetham et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

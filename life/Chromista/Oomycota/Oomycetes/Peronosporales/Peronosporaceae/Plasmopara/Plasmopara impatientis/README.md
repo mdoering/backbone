@@ -1,5 +1,4 @@
-Plasmopara impatientis (Ellis & Everh.) Berl. SPECIES
-=======
+# Plasmopara impatientis (Ellis & Everh.) Berl. SPECIES
 
 #### Status
 ACCEPTED

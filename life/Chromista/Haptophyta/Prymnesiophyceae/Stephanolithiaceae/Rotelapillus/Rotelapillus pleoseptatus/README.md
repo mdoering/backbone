@@ -1,5 +1,4 @@
-Rotelapillus pleoseptatus SPECIES
-=======
+# Rotelapillus pleoseptatus SPECIES
 
 #### Status
 ACCEPTED

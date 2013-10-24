@@ -1,5 +1,4 @@
-Amoebophrya stycholonchae Koeppen, 1894 SPECIES
-=======
+# Amoebophrya stycholonchae Koeppen, 1894 SPECIES
 
 #### Status
 ACCEPTED

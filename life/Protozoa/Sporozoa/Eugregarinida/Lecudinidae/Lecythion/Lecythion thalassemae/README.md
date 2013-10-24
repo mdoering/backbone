@@ -1,5 +1,4 @@
-Lecythion thalassemae Mackinnon & Ray, 1931 SPECIES
-=======
+# Lecythion thalassemae Mackinnon & Ray, 1931 SPECIES
 
 #### Status
 ACCEPTED

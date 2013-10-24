@@ -1,5 +1,4 @@
-Bionectria gibberosa Schroers SPECIES
-=======
+# Bionectria gibberosa Schroers SPECIES
 
 #### Status
 ACCEPTED

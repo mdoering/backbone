@@ -1,5 +1,4 @@
-Puccinia rubiae Fuckel SPECIES
-=======
+# Puccinia rubiae Fuckel SPECIES
 
 #### Status
 ACCEPTED

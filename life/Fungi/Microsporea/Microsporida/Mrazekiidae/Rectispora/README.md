@@ -1,5 +1,4 @@
-Rectispora J.I.R. Larsson GENUS
-=======
+# Rectispora J.I.R. Larsson GENUS
 
 #### Status
 ACCEPTED

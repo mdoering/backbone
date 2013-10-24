@@ -1,5 +1,4 @@
-Pseudomycena pusilla Velen. SPECIES
-=======
+# Pseudomycena pusilla Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Apiospora platensis Speg. SPECIES
-=======
+# Apiospora platensis Speg. SPECIES
 
 #### Status
 ACCEPTED

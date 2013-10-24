@@ -1,5 +1,4 @@
-Nosema leptinotarsae SPECIES
-=======
+# Nosema leptinotarsae SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Protomyces inoouei Henn. SPECIES
-=======
+# Protomyces inoouei Henn. SPECIES
 
 #### Status
 ACCEPTED

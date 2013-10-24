@@ -1,5 +1,4 @@
-Lactarius walleynii Verbeken & E. Horak SPECIES
-=======
+# Lactarius walleynii Verbeken & E. Horak SPECIES
 
 #### Status
 ACCEPTED

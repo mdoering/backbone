@@ -1,5 +1,4 @@
-Hypoxylon glomiforme Berk. & M.A. Curtis SPECIES
-=======
+# Hypoxylon glomiforme Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Ciliosphaeridium A.S. Grigorovitch, 1971 GENUS
-=======
+# Impletosphaeridium P. Morgenroth, 1966 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Byull. Mosk. Obshch. Ispyt. Prir. (N. S. ) 76 (Geol. 46 (2)): 94.
+null
 
 #### Original name
 null

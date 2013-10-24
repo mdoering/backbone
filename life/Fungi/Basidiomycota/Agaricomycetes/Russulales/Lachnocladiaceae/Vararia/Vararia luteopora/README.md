@@ -1,5 +1,4 @@
-Vararia luteopora (Bondartsev) Singer SPECIES
-=======
+# Vararia luteopora (Bondartsev) Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bogoriellomyces subpersicinae Cif. & Tomas. SPECIES
-=======
+# Bogoriellomyces subpersicinae Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

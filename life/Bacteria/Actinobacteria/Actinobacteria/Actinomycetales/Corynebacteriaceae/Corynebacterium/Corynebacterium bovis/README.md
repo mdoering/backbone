@@ -1,5 +1,4 @@
-Corynebacterium bovis Bergey et al., 1923 (Approved Lists, 1980) SPECIES
-=======
+# Corynebacterium bovis Bergey et al., 1923 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

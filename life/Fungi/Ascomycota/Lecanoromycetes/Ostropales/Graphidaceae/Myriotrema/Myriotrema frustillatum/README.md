@@ -1,5 +1,4 @@
-Myriotrema frustillatum Mangold SPECIES
-=======
+# Myriotrema frustillatum Mangold SPECIES
 
 #### Status
 ACCEPTED

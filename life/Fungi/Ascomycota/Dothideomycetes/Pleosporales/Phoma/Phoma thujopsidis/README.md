@@ -1,5 +1,4 @@
-Phoma thujopsidis Sawada SPECIES
-=======
+# Phoma thujopsidis Sawada SPECIES
 
 #### Status
 ACCEPTED

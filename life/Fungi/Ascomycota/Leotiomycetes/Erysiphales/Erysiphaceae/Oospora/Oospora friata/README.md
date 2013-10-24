@@ -1,5 +1,4 @@
-Oospora friata (Preuss) Sacc. & Voglino SPECIES
-=======
+# Oospora friata (Preuss) Sacc. & Voglino SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chlorokardion Pascher, 1930 GENUS
-=======
+# Chlorokardion Pascher, 1930 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pestalotiopsis ceratoniae (Maubl.) Rib. Souza SPECIES
-=======
+# Pestalotiopsis ceratoniae (Maubl.) Rib. Souza SPECIES
 
 #### Status
 ACCEPTED

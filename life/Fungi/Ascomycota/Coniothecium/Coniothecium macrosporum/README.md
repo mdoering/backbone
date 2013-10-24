@@ -1,5 +1,4 @@
-Coniothecium macrosporum Sorokin SPECIES
-=======
+# Coniothecium macrosporum Sorokin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichosporum balzeri (Gougerot & Burnier) M. Ota SPECIES
-=======
+# Trichosporum balzeri (Gougerot & Burnier) M. Ota SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina oritis Hansf. SPECIES
-=======
+# Asterina oritis Hansf. SPECIES
 
 #### Status
 ACCEPTED

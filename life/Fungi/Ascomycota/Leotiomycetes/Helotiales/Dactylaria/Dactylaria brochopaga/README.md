@@ -1,5 +1,4 @@
-Dactylaria brochopaga Drechsler SPECIES
-=======
+# Dactylaria brochopaga Drechsler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Phyllosticta aegiphilotolia SPECIES
-=======
+# Phyllosticta aegiphilofolia Bat. & Silva {?} SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Batista & Vital, Bol. Secr. Agric. (Pernambuco) 19(1-2): 4 (1952)
 
 #### Original name
-Phyllosticta aegiphilotolia
+Phyllosticta aegiphilofolia Bat. & Silva {?}
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Anomalinoides glabratus (Cushman, 1924) SPECIES
-=======
+# Anomalinoides glabratus (Cushman, 1924) SPECIES
 
 #### Status
 ACCEPTED

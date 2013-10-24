@@ -1,5 +1,4 @@
-Corynespora homaliicola Deighton & M.B. Ellis SPECIES
-=======
+# Corynespora homaliicola Deighton & M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

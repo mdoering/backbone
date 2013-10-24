@@ -1,5 +1,4 @@
-Colpidium singulare Vuxanovici, 1961 SPECIES
-=======
+# Colpidium singulare Vuxanovici, 1961 SPECIES
 
 #### Status
 ACCEPTED

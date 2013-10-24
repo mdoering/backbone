@@ -1,5 +1,4 @@
-Aecidium cajani Petch SPECIES
-=======
+# Aecidium cajani Petch SPECIES
 
 #### Status
 ACCEPTED

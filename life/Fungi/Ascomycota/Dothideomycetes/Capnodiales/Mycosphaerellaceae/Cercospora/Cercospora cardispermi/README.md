@@ -1,5 +1,4 @@
-Cercospora cardispermi Petch SPECIES
-=======
+# Cercospora cardispermi Petch SPECIES
 
 #### Status
 ACCEPTED

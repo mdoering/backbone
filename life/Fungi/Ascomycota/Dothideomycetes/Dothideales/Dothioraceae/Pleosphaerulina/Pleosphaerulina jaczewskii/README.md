@@ -1,5 +1,4 @@
-Pleosphaerulina jaczewskii Negru & Ditu SPECIES
-=======
+# Pleosphaerulina jaczewskii Negru & Ditu SPECIES
 
 #### Status
 ACCEPTED

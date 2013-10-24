@@ -1,5 +1,4 @@
-Furculomyces septentrionalis J.K. Misra, M.M. White & Lichtw., 1999 SPECIES
-=======
+# Furculomyces septentrionalis J.K. Misra, M.M. White & Lichtw., 1999 SPECIES
 
 #### Status
 ACCEPTED

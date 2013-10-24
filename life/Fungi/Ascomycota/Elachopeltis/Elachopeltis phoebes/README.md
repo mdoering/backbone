@@ -1,17 +1,16 @@
-Elachopeltis phoebes var. minor Bat., Maia & Cif. VARIETY
-=======
+# Elachopeltis phoebes Syd., 1927 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Batista & Ciferri, Publções Inst. Micol. Recife 109: 6 (1959)
+Annls mycol. 25(1/2): 121 (1927)
 
 #### Original name
-Elachopeltis phoebes var. minor Bat., Maia & Cif.
+Elachopeltis phoebes Syd., 1927
 
 ### Remarks
 null

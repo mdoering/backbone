@@ -1,5 +1,4 @@
-Cuphophyllus albidocinereus (Kalamees) Bon SPECIES
-=======
+# Cuphophyllus albidocinereus (Kalamees) Bon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora brideliicola J.M. Yen, A.K. Kar & B.K. Das SPECIES
-=======
+# Pseudocercospora brideliicola J.M. Yen, A.K. Kar & B.K. Das SPECIES
 
 #### Status
 ACCEPTED

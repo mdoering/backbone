@@ -1,5 +1,4 @@
-Acarospora sordida var. sordida VARIETY
-=======
+# Acarospora sordida Wedd. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Acarospora sordida var. sordida
+Acarospora sordida Wedd.
 
 ### Remarks
 null

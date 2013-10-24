@@ -1,5 +1,4 @@
-Blastenia lactea (A. Massal.) Trevis. SPECIES
-=======
+# Blastenia lactea (A. Massal.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

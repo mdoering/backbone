@@ -1,5 +1,4 @@
-Hymenochaete murina Bres., 1920 SPECIES
-=======
+# Hymenochaete murina Bres., 1920 SPECIES
 
 #### Status
 ACCEPTED

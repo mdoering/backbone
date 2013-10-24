@@ -1,5 +1,4 @@
-Psorotichia squamulosa Zahlbr. SPECIES
-=======
+# Psorotichia squamulosa Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tibetiella Y.L.Li, D.M.Williams & D.Metzeltin, 2010 GENUS
-=======
+# Tibetiella Y.L.Li, D.M.Williams & D.Metzeltin, 2010 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alectoria arenaria (Fr.) Nyl. SPECIES
-=======
+# Alectoria arenaria (Fr.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lasiobolidium Malloch & Cain GENUS
-=======
+# Lasiobolidium Malloch & Cain GENUS
 
 #### Status
 ACCEPTED

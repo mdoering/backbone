@@ -1,5 +1,4 @@
-Reddellomyces magnisporus Trappe, Castellano & Malajczuk, 1992 SPECIES
-=======
+# Reddellomyces magnisporus Trappe, Castellano & Malajczuk, 1992 SPECIES
 
 #### Status
 ACCEPTED

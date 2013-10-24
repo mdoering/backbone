@@ -1,5 +1,4 @@
-Verrucaria nigratula Nyl. SPECIES
-=======
+# Verrucaria nigratula Nyl. SPECIES
 
 #### Status
 ACCEPTED

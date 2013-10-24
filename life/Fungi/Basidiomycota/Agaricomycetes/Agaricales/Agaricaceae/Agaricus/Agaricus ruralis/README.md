@@ -1,5 +1,4 @@
-Agaricus ruralis With. SPECIES
-=======
+# Agaricus ruralis With. SPECIES
 
 #### Status
 ACCEPTED

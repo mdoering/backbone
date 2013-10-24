@@ -1,5 +1,4 @@
-Lecanora effigurans Zahlbr. SPECIES
-=======
+# Lecanora effigurans Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

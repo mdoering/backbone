@@ -1,5 +1,4 @@
-Asterostomella acalyphae Syd. SPECIES
-=======
+# Asterostomella acalyphae Syd. SPECIES
 
 #### Status
 ACCEPTED

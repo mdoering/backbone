@@ -1,5 +1,4 @@
-Catapyrenium bohlinii (H. Magn.) J.C. Wei SPECIES
-=======
+# Catapyrenium bohlinii (H. Magn.) J.C. Wei SPECIES
 
 #### Status
 ACCEPTED

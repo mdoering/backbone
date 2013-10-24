@@ -1,5 +1,4 @@
-Tulostoma bresadolae Petri SPECIES
-=======
+# Tulostoma bresadolae Petri SPECIES
 
 #### Status
 ACCEPTED

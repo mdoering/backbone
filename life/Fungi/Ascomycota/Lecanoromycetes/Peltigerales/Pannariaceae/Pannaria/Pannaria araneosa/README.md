@@ -1,5 +1,4 @@
-Pannaria araneosa (C. Bab.) Hue SPECIES
-=======
+# Pannaria araneosa (C. Bab.) Hue SPECIES
 
 #### Status
 ACCEPTED

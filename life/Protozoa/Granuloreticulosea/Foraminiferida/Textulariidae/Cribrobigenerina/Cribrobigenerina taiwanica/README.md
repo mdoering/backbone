@@ -1,5 +1,4 @@
-Cribrobigenerina taiwanica (Nakamura) SPECIES
-=======
+# Cribrobigenerina taiwanica (Nakamura) SPECIES
 
 #### Status
 ACCEPTED

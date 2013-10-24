@@ -1,17 +1,16 @@
-Septoria chenopodii var. chenopodii VARIETY
-=======
+# Septoria chenopodii Westend., 1851 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bulletin de la Société Roy. Acad. Belgique, Cl. Sci. 18: 396 (1851)
 
 #### Original name
-Septoria chenopodii var. chenopodii
+Septoria chenopodii Westend., 1851
 
 ### Remarks
 null

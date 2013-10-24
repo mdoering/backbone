@@ -1,5 +1,4 @@
-Tremella clavata Pers. SPECIES
-=======
+# Tremella clavata Pers. SPECIES
 
 #### Status
 ACCEPTED

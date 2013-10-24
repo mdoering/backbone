@@ -1,5 +1,4 @@
-Marasmius multiplex Corner SPECIES
-=======
+# Marasmius multiplex Corner SPECIES
 
 #### Status
 ACCEPTED

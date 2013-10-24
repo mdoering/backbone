@@ -1,5 +1,4 @@
-Cantharellus replexus var. devexus (Fr.) Fr. VARIETY
-=======
+# Cantharellus replexus (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Hymenomyc. eur. (Upsaliae) 459 (1874)
+null
 
 #### Original name
-Agaricus devexus Fr.
+Agaricus replexus Fr.
 
 ### Remarks
 null

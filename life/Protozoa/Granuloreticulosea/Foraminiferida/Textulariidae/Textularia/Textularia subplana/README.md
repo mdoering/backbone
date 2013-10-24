@@ -1,5 +1,4 @@
-Textularia subplana Cushman, 1922 SPECIES
-=======
+# Textularia subplana Cushman, 1922 SPECIES
 
 #### Status
 ACCEPTED

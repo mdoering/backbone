@@ -1,5 +1,4 @@
-Hydnum pseudoboletus DC. SPECIES
-=======
+# Hydnum pseudoboletus DC. SPECIES
 
 #### Status
 ACCEPTED

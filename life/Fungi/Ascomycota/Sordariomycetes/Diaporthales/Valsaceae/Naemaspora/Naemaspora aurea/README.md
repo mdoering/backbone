@@ -1,5 +1,4 @@
-Naemaspora aurea Fr. SPECIES
-=======
+# Naemaspora aurea Fr. SPECIES
 
 #### Status
 ACCEPTED

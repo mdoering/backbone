@@ -1,5 +1,4 @@
-Wallodinium glaessneri (Cookson & Eisenack, 1960) Loeblich & Loeblich Iii, 1968 SPECIES
-=======
+# Wallodinium glaessneri (Cookson & Eisenack, 1960) Loeblich & Loeblich Iii, 1968 SPECIES
 
 #### Status
 ACCEPTED

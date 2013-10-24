@@ -1,14 +1,13 @@
-Dasyscypha solfatarus (Cooke & Ellis) Sacc. SPECIES
-=======
+# Dasyscyphus solfatarus (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 8: 463 (1889)
 
 #### Original name
 Peziza solfatara Cooke & Ellis

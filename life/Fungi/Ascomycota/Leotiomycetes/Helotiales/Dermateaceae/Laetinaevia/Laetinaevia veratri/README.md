@@ -1,5 +1,4 @@
-Laetinaevia veratri E.K. Cash SPECIES
-=======
+# Laetinaevia veratri E.K. Cash SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fellhanera bullata Kalb & Vezda SPECIES
-=======
+# Fellhanera bullata Kalb & Vezda SPECIES
 
 #### Status
 ACCEPTED

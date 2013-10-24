@@ -1,5 +1,4 @@
-Rinodina scottii Vain. SPECIES
-=======
+# Rinodina scottii Vain. SPECIES
 
 #### Status
 ACCEPTED

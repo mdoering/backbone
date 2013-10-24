@@ -1,5 +1,4 @@
-Stipulina Lys, 1980 GENUS
-=======
+# Stipulina Lys, 1980 GENUS
 
 #### Status
 ACCEPTED

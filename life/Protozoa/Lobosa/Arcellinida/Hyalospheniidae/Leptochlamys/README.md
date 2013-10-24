@@ -1,5 +1,4 @@
-Leptochlamys West, 1901 GENUS
-=======
+# Leptochlamys West, 1901 GENUS
 
 #### Status
 ACCEPTED

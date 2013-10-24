@@ -1,5 +1,4 @@
-Aspicilia lirellina Darb. SPECIES
-=======
+# Aspicilia lirellina Darb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyclidium impatiens SPECIES
-=======
+# Cyclidium impatiens SPECIES
 
 #### Status
 ACCEPTED

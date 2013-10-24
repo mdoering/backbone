@@ -1,5 +1,4 @@
-Dasyscyphus nilgherrensis (Cooke) M.P. Sharma SPECIES
-=======
+# Dasyscyphus nilgherrensis (Cooke) M.P. Sharma SPECIES
 
 #### Status
 ACCEPTED

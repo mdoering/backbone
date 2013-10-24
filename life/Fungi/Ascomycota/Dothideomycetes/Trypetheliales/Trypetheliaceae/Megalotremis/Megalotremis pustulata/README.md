@@ -1,5 +1,4 @@
-Megalotremis pustulata Aptroot SPECIES
-=======
+# Megalotremis pustulata Aptroot SPECIES
 
 #### Status
 ACCEPTED

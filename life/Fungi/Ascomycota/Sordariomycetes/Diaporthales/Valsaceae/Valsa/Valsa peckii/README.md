@@ -1,5 +1,4 @@
-Valsa peckii Howe SPECIES
-=======
+# Valsa peckii Howe SPECIES
 
 #### Status
 ACCEPTED

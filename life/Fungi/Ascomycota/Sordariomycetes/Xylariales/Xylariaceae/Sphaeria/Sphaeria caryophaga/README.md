@@ -1,5 +1,4 @@
-Sphaeria caryophaga Schwein. SPECIES
-=======
+# Sphaeria caryophaga Schwein. SPECIES
 
 #### Status
 ACCEPTED

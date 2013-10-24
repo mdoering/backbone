@@ -1,5 +1,4 @@
-Ascospora vexans (G. Winter) Kuntze SPECIES
-=======
+# Ascospora vexans (G. Winter) Kuntze SPECIES
 
 #### Status
 ACCEPTED

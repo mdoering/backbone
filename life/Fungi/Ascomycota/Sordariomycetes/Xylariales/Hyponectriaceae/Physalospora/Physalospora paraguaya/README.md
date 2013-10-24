@@ -1,5 +1,4 @@
-Physalospora paraguaya Speg. SPECIES
-=======
+# Physalospora paraguaya Speg. SPECIES
 
 #### Status
 ACCEPTED

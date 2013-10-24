@@ -1,5 +1,4 @@
-Ustilago menthae J. Schröt. SPECIES
-=======
+# Ustilago menthae J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Epistylis rhyacophilae SPECIES
-=======
+# Epistylis rhyacophilae SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hemigrapha strigulae Matzer SPECIES
-=======
+# Hemigrapha strigulae Matzer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrophoma acervata Pat. SPECIES
-=======
+# Macrophoma acervata Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psilocybe argentipes K. Yokoy. SPECIES
-=======
+# Psilocybe argentipes K. Yokoy. SPECIES
 
 #### Status
 ACCEPTED

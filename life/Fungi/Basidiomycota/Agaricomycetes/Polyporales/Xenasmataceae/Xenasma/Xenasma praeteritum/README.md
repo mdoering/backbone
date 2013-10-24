@@ -1,14 +1,13 @@
-Tubulicrinis praeterita (H.S. Jacks.) G. Cunn. SPECIES
-=======
+# Xenasma praeteritum (H.S. Jacks.) Donk, 1957 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fungus, Wageningen 27: 25 (1957)
 
 #### Original name
 Peniophora praeterita H.S. Jacks., 1950

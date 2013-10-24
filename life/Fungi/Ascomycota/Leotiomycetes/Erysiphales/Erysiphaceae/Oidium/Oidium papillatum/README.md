@@ -1,5 +1,4 @@
-Oidium papillatum (Bonord.) Sacc. & Voglino SPECIES
-=======
+# Oidium papillatum (Bonord.) Sacc. & Voglino SPECIES
 
 #### Status
 ACCEPTED

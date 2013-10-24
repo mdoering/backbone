@@ -1,5 +1,4 @@
-Humaria oryzetorum Pat. SPECIES
-=======
+# Humaria oryzetorum Pat. SPECIES
 
 #### Status
 ACCEPTED

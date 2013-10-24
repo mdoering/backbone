@@ -1,5 +1,4 @@
-Lichenothelia convexa Henssen SPECIES
-=======
+# Lichenothelia convexa Henssen SPECIES
 
 #### Status
 ACCEPTED

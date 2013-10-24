@@ -1,5 +1,4 @@
-Verrucaria cryptarum Garov. SPECIES
-=======
+# Verrucaria cryptarum Garov. SPECIES
 
 #### Status
 ACCEPTED

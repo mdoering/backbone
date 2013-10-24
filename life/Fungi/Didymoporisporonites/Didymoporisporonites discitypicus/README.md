@@ -1,5 +1,4 @@
-Didymoporisporonites discitypicus (P. Ke & Z.Y. Shi) Kalgutkar & Janson. SPECIES
-=======
+# Didymoporisporonites discitypicus (P. Ke & Z.Y. Shi) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

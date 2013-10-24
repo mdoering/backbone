@@ -1,5 +1,4 @@
-Uredo caricicola Petch SPECIES
-=======
+# Uredo caricicola Petch SPECIES
 
 #### Status
 ACCEPTED

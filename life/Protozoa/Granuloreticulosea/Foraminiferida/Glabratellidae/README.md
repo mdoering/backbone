@@ -1,5 +1,4 @@
-Glabratellidae Loeblich & Tappan, 1964 FAMILY
-=======
+# Glabratellidae Loeblich & Tappan, 1964 FAMILY
 
 #### Status
 ACCEPTED

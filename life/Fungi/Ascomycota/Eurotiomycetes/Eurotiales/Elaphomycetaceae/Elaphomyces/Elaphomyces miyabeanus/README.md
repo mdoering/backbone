@@ -1,5 +1,4 @@
-Elaphomyces miyabeanus S. Imai SPECIES
-=======
+# Elaphomyces miyabeanus S. Imai SPECIES
 
 #### Status
 ACCEPTED

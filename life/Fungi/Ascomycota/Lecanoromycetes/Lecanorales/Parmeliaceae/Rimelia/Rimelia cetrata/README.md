@@ -1,5 +1,4 @@
-Rimelia cetrata (Ach.) Hale & A. Fletcher SPECIES
-=======
+# Rimelia cetrata (Ach.) Hale & A. Fletcher SPECIES
 
 #### Status
 ACCEPTED

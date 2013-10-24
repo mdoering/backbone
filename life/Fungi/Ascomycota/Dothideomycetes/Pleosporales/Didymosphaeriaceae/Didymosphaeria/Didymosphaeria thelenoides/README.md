@@ -1,5 +1,4 @@
-Didymosphaeria thelenoides Vain. SPECIES
-=======
+# Didymosphaeria thelenoides Vain. SPECIES
 
 #### Status
 ACCEPTED

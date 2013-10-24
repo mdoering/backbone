@@ -1,5 +1,4 @@
-Uredo quitensis H.S. Jacks. & Holw. SPECIES
-=======
+# Uredo quitensis H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

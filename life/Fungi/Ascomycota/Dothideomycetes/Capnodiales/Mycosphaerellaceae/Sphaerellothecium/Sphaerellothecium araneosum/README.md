@@ -1,5 +1,4 @@
-Sphaerellothecium araneosum (Rehm) Zopf SPECIES
-=======
+# Sphaerellothecium araneosum (Rehm) Zopf SPECIES
 
 #### Status
 ACCEPTED

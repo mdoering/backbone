@@ -1,5 +1,4 @@
-Steinera werthii Zahlbr. SPECIES
-=======
+# Steinera werthii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

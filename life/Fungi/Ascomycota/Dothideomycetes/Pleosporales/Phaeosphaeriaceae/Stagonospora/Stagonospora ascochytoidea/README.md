@@ -1,5 +1,4 @@
-Stagonospora ascochytoidea Petr. SPECIES
-=======
+# Stagonospora ascochytoidea Petr. SPECIES
 
 #### Status
 ACCEPTED

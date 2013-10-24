@@ -1,8 +1,7 @@
-Sphaeria cladiumicola P. Crouan & H. Crouan SPECIES
-=======
+# Sphaeria cladiicola P. Crouan & H. Crouan SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sphaeria cladiumicola P. Crouan & H. Crouan
+Sphaeria cladiicola P. Crouan & H. Crouan
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Amanita austro-olivacea Raithelh. SPECIES
-=======
+# Amanita austro-olivacea Raithelh. SPECIES
 
 #### Status
 ACCEPTED

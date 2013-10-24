@@ -1,5 +1,4 @@
-Cercospora papayae Hansf. SPECIES
-=======
+# Cercospora papayae Hansf. SPECIES
 
 #### Status
 ACCEPTED

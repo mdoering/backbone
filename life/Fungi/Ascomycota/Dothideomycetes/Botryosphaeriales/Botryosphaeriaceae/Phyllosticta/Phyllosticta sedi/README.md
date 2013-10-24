@@ -1,5 +1,4 @@
-Phyllosticta sedi Hollós SPECIES
-=======
+# Phyllosticta sedi Hollós SPECIES
 
 #### Status
 ACCEPTED

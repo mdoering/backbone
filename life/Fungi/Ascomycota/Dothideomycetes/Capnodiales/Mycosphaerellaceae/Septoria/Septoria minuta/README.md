@@ -1,17 +1,16 @@
-Septoria minuta f. minuta FORM
-=======
+# Septoria minuta J. Schröt. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Pilze Labrad. 19
 
 #### Original name
-Septoria minuta f. minuta
+Septoria minuta J. Schröt.
 
 ### Remarks
 null

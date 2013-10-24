@@ -1,5 +1,4 @@
-Ganoderma tsugae Murrill SPECIES
-=======
+# Ganoderma tsugae Murrill SPECIES
 
 #### Status
 ACCEPTED

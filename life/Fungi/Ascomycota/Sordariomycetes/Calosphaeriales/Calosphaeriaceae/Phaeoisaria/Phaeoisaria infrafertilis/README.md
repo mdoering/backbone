@@ -1,5 +1,4 @@
-Phaeoisaria infrafertilis B. Sutton & Hodges SPECIES
-=======
+# Phaeoisaria infrafertilis B. Sutton & Hodges SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phellinus obtusus (Pers.) E.H.L. Krause SPECIES
-=======
+# Phellinus obtusus (Pers.) E.H.L. Krause SPECIES
 
 #### Status
 ACCEPTED

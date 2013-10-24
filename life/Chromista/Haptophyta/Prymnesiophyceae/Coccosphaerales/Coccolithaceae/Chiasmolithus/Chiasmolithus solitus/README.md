@@ -1,5 +1,4 @@
-Chiasmolithus solitus var. inversus S.W. Wise & G.E. Wiegand VARIETY
-=======
+# Chiasmolithus solitus (Bramlette & Sullivan, 1961) Locker, 1968 SPECIES
 
 #### Status
 ACCEPTED

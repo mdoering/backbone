@@ -1,14 +1,13 @@
-Penicillium persimplex Kleb., 1930 SPECIES
-=======
+# Paecilomyces persimplex (Kleb.) Delitsch & Henneberg, 1943 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ber. dt. bot. Ges. 318 (1930)
+Départ. Vosges, Fl. Vosges, Champ. 91 (1943)
 
 #### Original name
 Penicillium persimplex Kleb., 1930

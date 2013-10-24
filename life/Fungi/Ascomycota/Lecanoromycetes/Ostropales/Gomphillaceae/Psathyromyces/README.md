@@ -1,5 +1,4 @@
-Psathyromyces GENUS
-=======
+# Psathyromyces GENUS
 
 #### Status
 ACCEPTED

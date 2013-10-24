@@ -1,5 +1,4 @@
-Pyrgo bradyi (Lamarck, 1804) SPECIES
-=======
+# Pyrgo bradyi (Lamarck, 1804) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Passalora triostei (Chupp & H.C. Greene) U. Braun & Crous SPECIES
-=======
+# Passalora triostei (Chupp & H.C. Greene) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

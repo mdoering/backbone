@@ -1,5 +1,4 @@
-Amanita pausiaca Corner & Bas SPECIES
-=======
+# Amanita pausiaca Corner & Bas SPECIES
 
 #### Status
 ACCEPTED

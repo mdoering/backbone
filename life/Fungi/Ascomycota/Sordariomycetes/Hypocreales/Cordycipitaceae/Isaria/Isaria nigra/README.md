@@ -1,5 +1,4 @@
-Isaria nigra Yakush. & Kumaz. SPECIES
-=======
+# Isaria nigra Yakush. & Kumaz. SPECIES
 
 #### Status
 ACCEPTED

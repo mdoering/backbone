@@ -1,5 +1,4 @@
-Synechococcus sulphuricus Dor SPECIES
-=======
+# Synechococcus sulphuricus Dor SPECIES
 
 #### Status
 ACCEPTED

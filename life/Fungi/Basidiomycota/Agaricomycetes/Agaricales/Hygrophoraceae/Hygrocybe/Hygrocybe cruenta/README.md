@@ -1,5 +1,4 @@
-Hygrocybe cruenta (Hongo) Hongo SPECIES
-=======
+# Hygrocybe cruenta (Hongo) Hongo SPECIES
 
 #### Status
 ACCEPTED

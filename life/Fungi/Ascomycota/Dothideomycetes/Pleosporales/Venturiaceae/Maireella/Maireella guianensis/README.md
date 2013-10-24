@@ -1,5 +1,4 @@
-Maireella guianensis (Stev.) Jenkins SPECIES
-=======
+# Maireella guianensis (Stev.) Jenkins SPECIES
 
 #### Status
 ACCEPTED

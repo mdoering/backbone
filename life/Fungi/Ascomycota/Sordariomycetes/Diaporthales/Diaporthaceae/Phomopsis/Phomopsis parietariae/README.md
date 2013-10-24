@@ -1,5 +1,4 @@
-Phomopsis parietariae (Allesch.) M.E.A. Costa & Sousa da Câmara SPECIES
-=======
+# Phomopsis parietariae (Allesch.) M.E.A. Costa & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

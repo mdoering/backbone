@@ -1,5 +1,4 @@
-Polystictus affinis-microloma Lloyd SPECIES
-=======
+# Polystictus affinis-microloma Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Geotrichum kieta (Mattlet) Nann. SPECIES
-=======
+# Geotrichum kieta (Mattlet) Nann. SPECIES
 
 #### Status
 ACCEPTED

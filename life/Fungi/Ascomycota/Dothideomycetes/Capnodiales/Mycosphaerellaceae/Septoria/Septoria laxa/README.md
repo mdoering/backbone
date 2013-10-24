@@ -1,5 +1,4 @@
-Septoria laxa Speg. SPECIES
-=======
+# Septoria laxa Speg. SPECIES
 
 #### Status
 ACCEPTED

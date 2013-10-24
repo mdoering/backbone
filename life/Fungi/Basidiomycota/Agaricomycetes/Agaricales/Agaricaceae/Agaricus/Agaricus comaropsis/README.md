@@ -1,5 +1,4 @@
-Agaricus comaropsis Mont. SPECIES
-=======
+# Agaricus comaropsis Mont. SPECIES
 
 #### Status
 ACCEPTED

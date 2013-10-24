@@ -1,5 +1,4 @@
-Marasmius grandiviridis Wannathes, Desjardin & Lumyong SPECIES
-=======
+# Marasmius grandiviridis Wannathes, Desjardin & Lumyong SPECIES
 
 #### Status
 ACCEPTED

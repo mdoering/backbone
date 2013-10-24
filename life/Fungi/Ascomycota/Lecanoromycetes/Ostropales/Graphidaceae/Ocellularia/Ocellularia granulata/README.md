@@ -1,5 +1,4 @@
-Ocellularia granulata (Nyl.) Zahlbr. SPECIES
-=======
+# Ocellularia granulata (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

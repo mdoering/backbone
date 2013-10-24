@@ -1,5 +1,4 @@
-Leiosphaeridia insigna Venkatachala & Rawat, 1973 SPECIES
-=======
+# Leiosphaeridia insigna Venkatachala & Rawat, 1973 SPECIES
 
 #### Status
 ACCEPTED

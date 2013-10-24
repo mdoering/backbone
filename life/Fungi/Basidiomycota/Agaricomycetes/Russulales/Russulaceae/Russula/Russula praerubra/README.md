@@ -1,5 +1,4 @@
-Russula praerubra Murrill SPECIES
-=======
+# Russula praerubra Murrill SPECIES
 
 #### Status
 ACCEPTED

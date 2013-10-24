@@ -1,5 +1,4 @@
-Cyclobacterium Raj & Maloy, 1990 GENUS
-=======
+# Cyclobacterium Raj & Maloy, 1990 GENUS
 
 #### Status
 ACCEPTED

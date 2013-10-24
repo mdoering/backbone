@@ -1,5 +1,4 @@
-Caloplaca cacuminum Poelt SPECIES
-=======
+# Caloplaca cacuminum Poelt SPECIES
 
 #### Status
 ACCEPTED

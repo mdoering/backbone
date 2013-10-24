@@ -1,5 +1,4 @@
-Xanthopsoroma contextum (Stirt.) Elvebakk SPECIES
-=======
+# Xanthopsoroma contextum (Stirt.) Elvebakk SPECIES
 
 #### Status
 ACCEPTED

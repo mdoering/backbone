@@ -1,5 +1,4 @@
-Fuscoporia uncinata (Weir) G. Cunn. SPECIES
-=======
+# Fuscoporia uncinata (Weir) G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

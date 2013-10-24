@@ -1,5 +1,4 @@
-Vorticella macrostyla Schmarda, 1854 SPECIES
-=======
+# Vorticella macrostyla Schmarda, 1854 SPECIES
 
 #### Status
 ACCEPTED

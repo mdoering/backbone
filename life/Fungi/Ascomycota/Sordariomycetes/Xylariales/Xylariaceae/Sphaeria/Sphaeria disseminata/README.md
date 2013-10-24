@@ -1,5 +1,4 @@
-Sphaeria disseminata var. disseminata VARIETY
-=======
+# Sphaeria disseminata Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Syst. mycol. (Lundae) 2(2): 513 (1823)
 
 #### Original name
-Sphaeria disseminata var. disseminata
+Sphaeria disseminata Berk. & M.A. Curtis
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Omphalina kuehneri Lamoure SPECIES
-=======
+# Omphalina kuehneri Lamoure SPECIES
 
 #### Status
 ACCEPTED

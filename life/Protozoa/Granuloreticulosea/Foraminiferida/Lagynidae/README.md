@@ -1,5 +1,4 @@
-Lagynidae FAMILY
-=======
+# Lagynidae FAMILY
 
 #### Status
 ACCEPTED

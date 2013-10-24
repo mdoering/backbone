@@ -1,5 +1,4 @@
-Microthelia nonensis (Stirt.) Zahlbr. SPECIES
-=======
+# Microthelia nonensis (Stirt.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

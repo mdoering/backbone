@@ -1,5 +1,4 @@
-Calonectria hendrickxii (Hansf.) Rossman SPECIES
-=======
+# Calonectria hendrickxii (Hansf.) Rossman SPECIES
 
 #### Status
 ACCEPTED

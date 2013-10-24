@@ -1,5 +1,4 @@
-Lecanora scythica (Nyl.) Nyl. SPECIES
-=======
+# Lecanora scythica (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stanjehughesia caespitulosa (Ellis & Everh.) Subram. SPECIES
-=======
+# Stanjehughesia caespitulosa (Ellis & Everh.) Subram. SPECIES
 
 #### Status
 ACCEPTED

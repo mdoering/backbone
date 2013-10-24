@@ -1,5 +1,4 @@
-Tayamaia Hanzawa, 1967 GENUS
-=======
+# Tayamaia Hanzawa, 1967 GENUS
 
 #### Status
 ACCEPTED

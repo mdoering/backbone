@@ -1,5 +1,4 @@
-Puccinia tridacis Arthur SPECIES
-=======
+# Puccinia tridacis Arthur SPECIES
 
 #### Status
 ACCEPTED

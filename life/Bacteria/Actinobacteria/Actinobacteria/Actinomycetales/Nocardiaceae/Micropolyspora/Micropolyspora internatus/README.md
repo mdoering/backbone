@@ -1,5 +1,4 @@
-Micropolyspora internatus Agre et al., 1974 (Approved Lists, 1980) SPECIES
-=======
+# Micropolyspora internatus Agre et al., 1974 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

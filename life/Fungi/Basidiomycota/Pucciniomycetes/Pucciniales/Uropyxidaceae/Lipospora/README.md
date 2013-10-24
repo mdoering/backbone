@@ -1,5 +1,4 @@
-Lipospora GENUS
-=======
+# Lipospora GENUS
 
 #### Status
 ACCEPTED

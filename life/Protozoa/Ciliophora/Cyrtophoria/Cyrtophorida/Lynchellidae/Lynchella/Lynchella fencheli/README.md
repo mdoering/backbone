@@ -1,5 +1,4 @@
-Lynchella fencheli Jankowski, 1968 SPECIES
-=======
+# Lynchella fencheli Jankowski, 1968 SPECIES
 
 #### Status
 ACCEPTED

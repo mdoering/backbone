@@ -1,5 +1,4 @@
-Lecanora concolor f. concolor FORM
-=======
+# Lecanora concolor Ramond SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora concolor f. concolor
+Lecanora concolor Ramond
 
 ### Remarks
 null

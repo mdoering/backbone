@@ -1,5 +1,4 @@
-Candida pomiphila Kurtzman et al. {?} SPECIES
-=======
+# Candida pomiphila Kurtzman et al. {?} SPECIES
 
 #### Status
 ACCEPTED

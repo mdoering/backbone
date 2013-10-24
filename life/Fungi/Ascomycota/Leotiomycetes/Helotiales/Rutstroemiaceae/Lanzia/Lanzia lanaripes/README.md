@@ -1,5 +1,4 @@
-Lanzia lanaripes (Dennis) Spooner, 1987 SPECIES
-=======
+# Lanzia lanaripes (Dennis) Spooner, 1987 SPECIES
 
 #### Status
 ACCEPTED

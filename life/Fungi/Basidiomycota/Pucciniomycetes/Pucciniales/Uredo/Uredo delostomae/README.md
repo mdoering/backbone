@@ -1,5 +1,4 @@
-Uredo delostomae H.S. Jacks. & Holw. SPECIES
-=======
+# Uredo delostomae H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

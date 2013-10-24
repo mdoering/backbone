@@ -1,5 +1,4 @@
-Thecadinium acanthium M. Hoppenrath SPECIES
-=======
+# Thecadinium acanthium M. Hoppenrath SPECIES
 
 #### Status
 ACCEPTED

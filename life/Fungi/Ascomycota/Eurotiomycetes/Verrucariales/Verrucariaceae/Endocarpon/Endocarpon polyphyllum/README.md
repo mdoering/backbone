@@ -1,5 +1,4 @@
-Endocarpon polyphyllum (Wallr.) Arnold SPECIES
-=======
+# Endocarpon polyphyllum (Wallr.) Arnold SPECIES
 
 #### Status
 ACCEPTED

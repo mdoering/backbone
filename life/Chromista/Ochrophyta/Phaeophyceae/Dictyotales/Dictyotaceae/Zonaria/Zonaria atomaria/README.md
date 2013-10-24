@@ -1,5 +1,4 @@
-Zonaria atomaria var. ciliata C. Agardh VARIETY
-=======
+# Zonaria atomaria (Woodward) C. Agardh SPECIES
 
 #### Status
 ACCEPTED

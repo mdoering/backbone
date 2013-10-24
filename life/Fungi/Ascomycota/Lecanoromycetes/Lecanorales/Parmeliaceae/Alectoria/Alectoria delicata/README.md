@@ -1,5 +1,4 @@
-Alectoria delicata Motyka SPECIES
-=======
+# Alectoria delicata Motyka SPECIES
 
 #### Status
 ACCEPTED

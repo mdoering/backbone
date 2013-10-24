@@ -1,5 +1,4 @@
-Fusicladium orchidis K. Schub. & U. Braun SPECIES
-=======
+# Fusicladium orchidis K. Schub. & U. Braun SPECIES
 
 #### Status
 ACCEPTED

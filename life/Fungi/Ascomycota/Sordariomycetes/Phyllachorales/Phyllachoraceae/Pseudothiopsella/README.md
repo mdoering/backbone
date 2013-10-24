@@ -1,5 +1,4 @@
-Pseudothiopsella Petr. GENUS
-=======
+# Pseudothiopsella Petr. GENUS
 
 #### Status
 ACCEPTED

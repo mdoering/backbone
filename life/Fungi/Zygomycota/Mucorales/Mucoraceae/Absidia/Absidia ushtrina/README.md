@@ -1,5 +1,4 @@
-Absidia ushtrina S.C. Agarwal SPECIES
-=======
+# Absidia ushtrina S.C. Agarwal SPECIES
 
 #### Status
 ACCEPTED

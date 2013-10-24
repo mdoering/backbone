@@ -1,5 +1,4 @@
-Erythrobasidiales R. Bauer, Begerow, J.P. Samp., M. Weiss & Oberw. ORDER
-=======
+# Erythrobasidiales R. Bauer, Begerow, J.P. Samp., M. Weiss & Oberw. ORDER
 
 #### Status
 ACCEPTED

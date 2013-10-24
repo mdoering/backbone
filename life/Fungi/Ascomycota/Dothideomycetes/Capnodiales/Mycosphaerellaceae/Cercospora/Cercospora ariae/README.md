@@ -1,5 +1,4 @@
-Cercospora ariae Fuckel SPECIES
-=======
+# Cercospora ariae Fuckel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Porina semecarpi Vain., 1921 SPECIES
-=======
+# Porina semecarpi Vain., 1921 SPECIES
 
 #### Status
 DOUBTFUL

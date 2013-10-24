@@ -1,5 +1,4 @@
-Physarum nivale (Meyl.) Mar. Mey. & Poulain, 2011 SPECIES
-=======
+# Physarum nivale (Meyl.) Mar. Mey. & Poulain, 2011 SPECIES
 
 #### Status
 ACCEPTED

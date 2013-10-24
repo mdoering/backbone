@@ -1,17 +1,16 @@
-Septoria aegopodii var. aegopodii VARIETY
-=======
+# Septoria aegopodii (Preuss) Sacc., 1884 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 3: 529 (1884)
 
 #### Original name
-null
+Septoria aegopodii (Preuss) Sacc., 1884
 
 ### Remarks
 null

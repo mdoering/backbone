@@ -1,5 +1,4 @@
-Biatorella sarcosagium Anzi SPECIES
-=======
+# Biatorella sarcosagium Anzi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psathyrella oblongispora (C.S. Parker) A.H. Sm. SPECIES
-=======
+# Psathyrella oblongispora (C.S. Parker) A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

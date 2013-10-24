@@ -1,17 +1,16 @@
-Rhexoacrodictys martinii (J.L. Crane & Dumont) G. Delgado, 2009 SPECIES
-=======
+# Junewangia martinii (J.L. Crane & Dumont) W.A. Baker & Morgan-Jones, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 81: 310 (2002)
 
 #### Original name
-null
+Acrodictys martinii J.L. Crane & Dumont, 1975
 
 ### Remarks
 null

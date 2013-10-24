@@ -1,5 +1,4 @@
-Irenopsis conostegiae F. Stevens SPECIES
-=======
+# Irenopsis conostegiae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

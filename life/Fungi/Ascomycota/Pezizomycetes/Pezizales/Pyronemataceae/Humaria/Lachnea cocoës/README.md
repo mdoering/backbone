@@ -1,5 +1,4 @@
-Lachnea cocoës (Pat.) Sacc. & Trotter SPECIES
-=======
+# Lachnea cocoës (Pat.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

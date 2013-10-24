@@ -1,5 +1,4 @@
-Shortensis Dilcher GENUS
-=======
+# Shortensis Dilcher GENUS
 
 #### Status
 ACCEPTED

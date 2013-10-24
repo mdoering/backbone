@@ -1,5 +1,4 @@
-Diatrypella circumvallata (Nees) Fuckel SPECIES
-=======
+# Diatrypella circumvallata (Nees) Fuckel SPECIES
 
 #### Status
 ACCEPTED

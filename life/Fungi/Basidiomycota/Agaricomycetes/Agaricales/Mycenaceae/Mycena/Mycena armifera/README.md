@@ -1,5 +1,4 @@
-Mycena armifera Maas Geest. & de Meijer SPECIES
-=======
+# Mycena armifera Maas Geest. & de Meijer SPECIES
 
 #### Status
 ACCEPTED

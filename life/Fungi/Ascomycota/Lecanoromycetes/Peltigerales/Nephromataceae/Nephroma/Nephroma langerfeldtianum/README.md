@@ -1,5 +1,4 @@
-Nephroma langerfeldtianum Gyeln. SPECIES
-=======
+# Nephroma langerfeldtianum Gyeln. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena thunderboltensis Grgur. SPECIES
-=======
+# Mycena thunderboltensis Grgur. SPECIES
 
 #### Status
 ACCEPTED

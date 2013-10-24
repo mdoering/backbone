@@ -1,17 +1,16 @@
-Gloeocystidium albostramineum var. albostramineum (Bres.) Höhn. & Litsch. VARIETY
-=======
+# Hypochnicium albostramineum (Bres.) Hallenb., 1985 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 117: 1097 (1908)
+Mycotaxon 24: 434 (1985)
 
 #### Original name
-Gloeocystidium albostramineum var. albostramineum (Bres.) Höhn. & Litsch.
+Hypochnus albostramineus Bres., 1903
 
 ### Remarks
 null

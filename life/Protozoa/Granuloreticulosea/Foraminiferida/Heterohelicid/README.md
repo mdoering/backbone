@@ -1,5 +1,4 @@
-Heterohelicid GENUS
-=======
+# Heterohelicid GENUS
 
 #### Status
 ACCEPTED

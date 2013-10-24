@@ -1,5 +1,4 @@
-Anomoloma rhizosum Niemelä & K.H. Larss., 2007 SPECIES
-=======
+# Anomoloma rhizosum Niemelä & K.H. Larss., 2007 SPECIES
 
 #### Status
 ACCEPTED

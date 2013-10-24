@@ -1,5 +1,4 @@
-Amphicoryne tunicata (Hantken) SPECIES
-=======
+# Amphicoryne tunicata (Hantken) SPECIES
 
 #### Status
 DOUBTFUL

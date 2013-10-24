@@ -1,5 +1,4 @@
-Puccinia hederaceae McAlpine, 1906 SPECIES
-=======
+# Puccinia hederaceae McAlpine, 1906 SPECIES
 
 #### Status
 ACCEPTED

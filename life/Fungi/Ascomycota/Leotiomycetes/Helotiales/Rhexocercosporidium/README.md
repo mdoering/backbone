@@ -1,5 +1,4 @@
-Rhexocercosporidium U. Braun GENUS
-=======
+# Rhexocercosporidium U. Braun GENUS
 
 #### Status
 ACCEPTED

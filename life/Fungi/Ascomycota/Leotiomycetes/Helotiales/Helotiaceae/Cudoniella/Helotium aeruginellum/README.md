@@ -1,5 +1,4 @@
-Helotium aeruginellum P. Karst. SPECIES
-=======
+# Helotium aeruginellum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

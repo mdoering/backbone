@@ -1,5 +1,4 @@
-Agrocybe subamara (Murrill) Watling SPECIES
-=======
+# Agrocybe subamara (Murrill) Watling SPECIES
 
 #### Status
 ACCEPTED

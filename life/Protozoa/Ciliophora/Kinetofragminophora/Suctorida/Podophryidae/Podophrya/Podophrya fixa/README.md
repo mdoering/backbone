@@ -1,5 +1,4 @@
-Podophrya fixa (Müller, 1786) Ehrenberg, 1834 SPECIES
-=======
+# Podophrya fixa (Müller, 1786) Ehrenberg, 1834 SPECIES
 
 #### Status
 ACCEPTED

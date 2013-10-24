@@ -1,5 +1,4 @@
-Capnobotrys splendens (Cooke) SPECIES
-=======
+# Capnobotrys splendens (Cooke) SPECIES
 
 #### Status
 ACCEPTED

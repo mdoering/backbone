@@ -1,17 +1,16 @@
-Nectria novae-zelandica (Dingley) Rossman SPECIES
-=======
+# Nectria novae-zealandiae (Dingley) Rossman, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 8(2): 531 (1979)
 
 #### Original name
-Hypocrea novae-zelandica Dingley
+Hypocrea novozealandica Dingley, 1952
 
 ### Remarks
 null

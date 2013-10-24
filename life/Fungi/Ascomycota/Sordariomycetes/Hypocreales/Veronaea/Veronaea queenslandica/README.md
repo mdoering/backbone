@@ -1,5 +1,4 @@
-Veronaea queenslandica Matsush. SPECIES
-=======
+# Veronaea queenslandica Matsush. SPECIES
 
 #### Status
 ACCEPTED

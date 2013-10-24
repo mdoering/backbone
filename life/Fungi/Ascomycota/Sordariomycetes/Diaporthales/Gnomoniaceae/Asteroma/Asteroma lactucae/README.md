@@ -1,5 +1,4 @@
-Asteroma lactucae Davis SPECIES
-=======
+# Asteroma lactucae Davis SPECIES
 
 #### Status
 ACCEPTED

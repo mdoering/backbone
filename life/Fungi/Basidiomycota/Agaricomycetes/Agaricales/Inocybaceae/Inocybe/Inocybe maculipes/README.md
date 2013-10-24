@@ -1,5 +1,4 @@
-Inocybe maculipes J. Favre SPECIES
-=======
+# Inocybe maculipes J. Favre SPECIES
 
 #### Status
 ACCEPTED

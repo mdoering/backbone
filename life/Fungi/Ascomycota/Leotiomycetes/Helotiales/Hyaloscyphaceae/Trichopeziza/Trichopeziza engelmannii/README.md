@@ -1,8 +1,7 @@
-Trichopeziza engelmanni Tracy & Earle SPECIES
-=======
+# Trichopeziza engelmannii Tracy & Earle SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Trichopeziza engelmanni Tracy & Earle
+Trichopeziza engelmannii Tracy & Earle
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Phaeophragmocauma buddleyae F. Stevens SPECIES
-=======
+# Phaeophragmocauma buddleyae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

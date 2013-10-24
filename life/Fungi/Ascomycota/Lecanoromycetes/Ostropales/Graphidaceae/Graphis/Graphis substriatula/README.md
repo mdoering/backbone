@@ -1,5 +1,4 @@
-Graphis substriatula Nyl. SPECIES
-=======
+# Graphis substriatula Nyl. SPECIES
 
 #### Status
 ACCEPTED

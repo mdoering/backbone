@@ -1,8 +1,7 @@
-Dasyscypha atro-olivacea Fuckel SPECIES
-=======
+# Dasyscyphus atro-olivacea Fuckel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Dasyscypha atro-olivacea Fuckel
+Dasyscyphus atro-olivacea Fuckel
 
 ### Remarks
 null

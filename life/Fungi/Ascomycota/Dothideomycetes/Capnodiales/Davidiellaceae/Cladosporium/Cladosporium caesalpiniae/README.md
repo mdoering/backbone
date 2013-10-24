@@ -1,5 +1,4 @@
-Cladosporium caesalpiniae Sawada SPECIES
-=======
+# Cladosporium caesalpiniae Sawada SPECIES
 
 #### Status
 ACCEPTED

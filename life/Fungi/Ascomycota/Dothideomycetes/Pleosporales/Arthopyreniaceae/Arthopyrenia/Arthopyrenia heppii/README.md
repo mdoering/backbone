@@ -1,5 +1,4 @@
-Arthopyrenia heppii (Nägeli) Müll. Arg. SPECIES
-=======
+# Arthopyrenia heppii (Nägeli) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

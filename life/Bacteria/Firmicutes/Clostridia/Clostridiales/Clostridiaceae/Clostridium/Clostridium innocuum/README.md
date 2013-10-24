@@ -1,5 +1,4 @@
-Clostridium innocuum Smith and King, 1962 (Approved Lists, 1980) SPECIES
-=======
+# Clostridium innocuum Smith and King, 1962 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

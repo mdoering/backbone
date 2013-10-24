@@ -1,5 +1,4 @@
-Exosporium ononidis Auersw. SPECIES
-=======
+# Exosporium ononidis Auersw. SPECIES
 
 #### Status
 ACCEPTED

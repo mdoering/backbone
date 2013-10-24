@@ -1,5 +1,4 @@
-Meliola intermedia Gaillard SPECIES
-=======
+# Meliola intermedia Gaillard SPECIES
 
 #### Status
 ACCEPTED

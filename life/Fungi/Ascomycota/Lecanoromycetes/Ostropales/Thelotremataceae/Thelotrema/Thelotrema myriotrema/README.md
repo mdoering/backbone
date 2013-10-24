@@ -1,5 +1,4 @@
-Thelotrema myriotrema Nyl. SPECIES
-=======
+# Thelotrema myriotrema Nyl. SPECIES
 
 #### Status
 ACCEPTED

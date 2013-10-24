@@ -1,5 +1,4 @@
-Berkleasmium typhae Somrith. & E.B.G. Jones SPECIES
-=======
+# Berkleasmium typhae Somrith. & E.B.G. Jones SPECIES
 
 #### Status
 ACCEPTED

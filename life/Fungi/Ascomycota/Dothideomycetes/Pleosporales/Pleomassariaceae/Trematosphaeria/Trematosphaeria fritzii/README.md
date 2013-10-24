@@ -1,5 +1,4 @@
-Trematosphaeria fritzii (J. Schröt.) Sacc. SPECIES
-=======
+# Trematosphaeria fritzii (J. Schröt.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

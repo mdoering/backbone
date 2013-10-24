@@ -1,5 +1,4 @@
-Xanthoparmelia norpumila Elix & J. Johnst. SPECIES
-=======
+# Xanthoparmelia norpumila Elix & J. Johnst. SPECIES
 
 #### Status
 ACCEPTED

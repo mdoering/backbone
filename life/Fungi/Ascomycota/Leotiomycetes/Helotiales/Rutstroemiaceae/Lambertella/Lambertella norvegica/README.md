@@ -1,5 +1,4 @@
-Lambertella norvegica Raitv. & Järv SPECIES
-=======
+# Lambertella norvegica Raitv. & Järv SPECIES
 
 #### Status
 ACCEPTED

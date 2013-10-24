@@ -1,17 +1,16 @@
-Chaetopsella Höhn. GENUS
-=======
+# Chaetopsis Greville, 1825 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Weese, Mitt. bot. Inst. tech. Hochsch. Wien 7: 44 (1930)
+Edinb. Phil. J. 13: 63 (1825)
 
 #### Original name
-Chaetopsella Höhn.
+Chaetopsis Greville, 1825
 
 ### Remarks
 null

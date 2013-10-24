@@ -1,5 +1,4 @@
-Boletus ruborculus T.J. Baroni SPECIES
-=======
+# Boletus ruborculus T.J. Baroni SPECIES
 
 #### Status
 ACCEPTED

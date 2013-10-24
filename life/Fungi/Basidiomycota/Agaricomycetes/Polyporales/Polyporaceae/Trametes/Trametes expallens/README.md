@@ -1,5 +1,4 @@
-Trametes expallens Fr. SPECIES
-=======
+# Trametes expallens Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vermicularia scolopendrii Pass. SPECIES
-=======
+# Vermicularia scolopendrii Pass. SPECIES
 
 #### Status
 ACCEPTED

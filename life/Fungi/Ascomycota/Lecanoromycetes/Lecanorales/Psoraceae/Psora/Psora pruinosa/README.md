@@ -1,5 +1,4 @@
-Psora pruinosa Timdal SPECIES
-=======
+# Psora pruinosa Timdal SPECIES
 
 #### Status
 ACCEPTED

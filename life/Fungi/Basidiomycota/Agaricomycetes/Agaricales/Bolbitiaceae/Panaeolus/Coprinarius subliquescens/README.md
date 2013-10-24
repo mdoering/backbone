@@ -1,5 +1,4 @@
-Coprinarius subliquescens (Schumach.) P. Kumm. SPECIES
-=======
+# Coprinarius subliquescens (Schumach.) P. Kumm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cassidulina laevigata SPECIES
-=======
+# Cassidulina laevigata SPECIES
 
 #### Status
 ACCEPTED

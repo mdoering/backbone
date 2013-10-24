@@ -1,5 +1,4 @@
-Spirochaeta carteri SPECIES
-=======
+# Spirochaeta carteri SPECIES
 
 #### Status
 ACCEPTED

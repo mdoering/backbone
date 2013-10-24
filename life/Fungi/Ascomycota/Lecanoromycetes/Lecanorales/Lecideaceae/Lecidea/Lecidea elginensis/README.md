@@ -1,5 +1,4 @@
-Lecidea elginensis Zahlbr. SPECIES
-=======
+# Lecidea elginensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

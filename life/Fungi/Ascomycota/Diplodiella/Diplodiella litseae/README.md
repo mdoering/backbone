@@ -1,5 +1,4 @@
-Diplodiella litseae Bat. SPECIES
-=======
+# Diplodiella litseae Bat. SPECIES
 
 #### Status
 ACCEPTED

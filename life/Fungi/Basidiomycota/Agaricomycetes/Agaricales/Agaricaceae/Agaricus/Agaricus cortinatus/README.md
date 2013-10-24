@@ -1,5 +1,4 @@
-Agaricus cortinatus var. cortinatus VARIETY
-=======
+# Agaricus cortinatus DC. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Agaricus cortinatus var. cortinatus
+Agaricus cortinatus DC.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lecidea violascens H. Magn. SPECIES
-=======
+# Lecidea violascens H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Zanclospora ureweri J.A. Cooper SPECIES
-=======
+# Zanclospora urewerae J.A. Cooper, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+N. Z. Jl Bot. 43(1): 344 (2005)
 
 #### Original name
-Zanclospora ureweri J.A. Cooper
+Zanclospora urewerae J.A. Cooper, 2005
 
 ### Remarks
 null

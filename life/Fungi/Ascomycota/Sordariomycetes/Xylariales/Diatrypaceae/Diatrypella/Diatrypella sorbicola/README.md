@@ -1,5 +1,4 @@
-Diatrypella sorbicola Gutner SPECIES
-=======
+# Diatrypella sorbicola Gutner SPECIES
 
 #### Status
 ACCEPTED

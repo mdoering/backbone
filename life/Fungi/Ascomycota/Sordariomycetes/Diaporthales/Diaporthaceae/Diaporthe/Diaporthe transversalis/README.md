@@ -1,5 +1,4 @@
-Diaporthe transversalis P. Karst. SPECIES
-=======
+# Diaporthe transversalis P. Karst. SPECIES
 
 #### Status
 ACCEPTED

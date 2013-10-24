@@ -1,5 +1,4 @@
-Lophiostoma talae (Speg.) Aptroot & K.D. Hyde SPECIES
-=======
+# Lophiostoma talae (Speg.) Aptroot & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

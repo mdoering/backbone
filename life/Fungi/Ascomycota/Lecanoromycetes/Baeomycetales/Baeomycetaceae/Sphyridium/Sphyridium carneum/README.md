@@ -1,5 +1,4 @@
-Sphyridium carneum (Retz.) Flot. SPECIES
-=======
+# Sphyridium carneum (Retz.) Flot. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius pallidostriatoides Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius pallidostriatoides Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

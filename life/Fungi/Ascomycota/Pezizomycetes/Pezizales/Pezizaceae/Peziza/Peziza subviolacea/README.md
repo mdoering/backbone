@@ -1,5 +1,4 @@
-Peziza subviolacea Svrcek, 1977 SPECIES
-=======
+# Peziza subviolacea Svrcek, 1977 SPECIES
 
 #### Status
 ACCEPTED

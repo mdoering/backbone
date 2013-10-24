@@ -1,5 +1,4 @@
-Sphaerella canariensis Tassi SPECIES
-=======
+# Sphaerella canariensis Tassi SPECIES
 
 #### Status
 ACCEPTED

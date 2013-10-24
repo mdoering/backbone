@@ -1,5 +1,4 @@
-Erioderma unguigerum (Bory) Nyl. SPECIES
-=======
+# Erioderma unguigerum (Bory) Nyl. SPECIES
 
 #### Status
 ACCEPTED

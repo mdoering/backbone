@@ -1,5 +1,4 @@
-Asterosporium Kunze, 1819 GENUS
-=======
+# Asterosporium Kunze, 1819 GENUS
 
 #### Status
 ACCEPTED

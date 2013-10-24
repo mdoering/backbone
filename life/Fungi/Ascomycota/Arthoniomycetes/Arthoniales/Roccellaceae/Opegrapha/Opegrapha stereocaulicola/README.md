@@ -1,5 +1,4 @@
-Opegrapha stereocaulicola Alstrup & D. Hawksw. SPECIES
-=======
+# Opegrapha stereocaulicola Alstrup & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

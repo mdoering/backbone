@@ -1,5 +1,4 @@
-Xanthoparmelia subbullata Hale SPECIES
-=======
+# Xanthoparmelia subbullata Hale SPECIES
 
 #### Status
 ACCEPTED

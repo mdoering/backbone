@@ -1,5 +1,4 @@
-Catillaria melaenella (Vain.) SPECIES
-=======
+# Catillaria melaenella (Vain.) SPECIES
 
 #### Status
 ACCEPTED

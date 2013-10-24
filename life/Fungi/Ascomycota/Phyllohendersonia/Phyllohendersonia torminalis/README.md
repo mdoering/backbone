@@ -1,5 +1,4 @@
-Phyllohendersonia torminalis (Sacc.) Tassi SPECIES
-=======
+# Phyllohendersonia torminalis (Sacc.) Tassi SPECIES
 
 #### Status
 ACCEPTED

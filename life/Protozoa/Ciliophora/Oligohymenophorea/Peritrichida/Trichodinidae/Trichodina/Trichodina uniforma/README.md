@@ -1,5 +1,4 @@
-Trichodina uniforma SPECIES
-=======
+# Trichodina uniforma SPECIES
 
 #### Status
 ACCEPTED

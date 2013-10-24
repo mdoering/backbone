@@ -1,5 +1,4 @@
-Phormidium subuliforme (Thwaites ex Gomont) Anagnostidis & Komárek SPECIES
-=======
+# Phormidium subuliforme (Thwaites ex Gomont) Anagnostidis & Komárek SPECIES
 
 #### Status
 ACCEPTED

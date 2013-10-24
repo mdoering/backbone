@@ -1,5 +1,4 @@
-Venturia vaccinii Ellis & Everh. SPECIES
-=======
+# Venturia vaccinii Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fomes congoanus Bres. SPECIES
-=======
+# Fomes congoanus Bres. SPECIES
 
 #### Status
 ACCEPTED

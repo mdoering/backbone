@@ -1,5 +1,4 @@
-Lactarius laeticolor (S. Imai) Imazeki ex Hongo SPECIES
-=======
+# Lactarius laeticolor (S. Imai) Imazeki ex Hongo SPECIES
 
 #### Status
 ACCEPTED

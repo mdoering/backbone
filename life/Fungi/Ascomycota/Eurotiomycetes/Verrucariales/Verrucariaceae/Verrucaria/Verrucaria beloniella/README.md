@@ -1,5 +1,4 @@
-Verrucaria beloniella Nyl. SPECIES
-=======
+# Verrucaria beloniella Nyl. SPECIES
 
 #### Status
 ACCEPTED

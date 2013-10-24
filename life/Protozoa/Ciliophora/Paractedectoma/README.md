@@ -1,5 +1,4 @@
-Paractedectoma GENUS
-=======
+# Paractedectoma GENUS
 
 #### Status
 ACCEPTED

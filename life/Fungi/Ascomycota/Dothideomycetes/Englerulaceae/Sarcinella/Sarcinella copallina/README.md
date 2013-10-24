@@ -1,5 +1,4 @@
-Sarcinella copallina (Ellis & Everh.) S. Hughes SPECIES
-=======
+# Sarcinella copallina (Ellis & Everh.) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

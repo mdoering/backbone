@@ -1,5 +1,4 @@
-Eucephalosporium Ciferri, 1932 GENUS
-=======
+# Eucephalosporium Ciferri, 1932 GENUS
 
 #### Status
 ACCEPTED

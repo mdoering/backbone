@@ -1,5 +1,4 @@
-Pterygium coerulescens Harm. SPECIES
-=======
+# Pterygium coerulescens Harm. SPECIES
 
 #### Status
 ACCEPTED

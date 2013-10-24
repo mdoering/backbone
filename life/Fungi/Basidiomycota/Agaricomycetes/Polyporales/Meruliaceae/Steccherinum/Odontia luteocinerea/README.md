@@ -1,5 +1,4 @@
-Odontia luteocinerea Rick SPECIES
-=======
+# Odontia luteocinerea Rick SPECIES
 
 #### Status
 ACCEPTED

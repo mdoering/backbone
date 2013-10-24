@@ -1,5 +1,4 @@
-Bacillus mojavensis Roberts et al., 1994 SPECIES
-=======
+# Bacillus mojavensis Roberts et al., 1994 SPECIES
 
 #### Status
 ACCEPTED

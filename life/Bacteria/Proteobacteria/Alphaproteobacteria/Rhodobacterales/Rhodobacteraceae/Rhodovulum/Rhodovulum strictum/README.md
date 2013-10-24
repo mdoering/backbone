@@ -1,5 +1,4 @@
-Rhodovulum strictum Hiraishi & Ueda, 1995 SPECIES
-=======
+# Rhodovulum strictum Hiraishi & Ueda, 1995 SPECIES
 
 #### Status
 ACCEPTED

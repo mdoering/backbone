@@ -1,5 +1,4 @@
-Segestria consociata Zwackh SPECIES
-=======
+# Segestria consociata Zwackh SPECIES
 
 #### Status
 ACCEPTED

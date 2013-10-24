@@ -1,5 +1,4 @@
-Abaphospora emergens (Schulzer & Sacc.) Kirschst. SPECIES
-=======
+# Abaphospora emergens (Schulzer & Sacc.) Kirschst. SPECIES
 
 #### Status
 ACCEPTED

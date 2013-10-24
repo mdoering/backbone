@@ -1,5 +1,4 @@
-Neosartorya ferenczii Varga & Samson SPECIES
-=======
+# Neosartorya ferenczii Varga & Samson SPECIES
 
 #### Status
 ACCEPTED

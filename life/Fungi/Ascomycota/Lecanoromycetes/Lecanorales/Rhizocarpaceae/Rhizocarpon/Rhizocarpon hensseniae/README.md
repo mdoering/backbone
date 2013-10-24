@@ -1,5 +1,4 @@
-Rhizocarpon hensseniae Brodo SPECIES
-=======
+# Rhizocarpon hensseniae Brodo SPECIES
 
 #### Status
 ACCEPTED

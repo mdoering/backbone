@@ -1,5 +1,4 @@
-Pseudocercospora barringtoniicola U. Braun & Mouch. SPECIES
-=======
+# Pseudocercospora barringtoniicola U. Braun & Mouch. SPECIES
 
 #### Status
 ACCEPTED

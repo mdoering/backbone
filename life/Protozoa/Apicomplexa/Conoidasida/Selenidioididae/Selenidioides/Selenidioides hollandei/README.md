@@ -1,8 +1,7 @@
-Selenidium hollandei Vivier & Schrével, 1966 SPECIES
-=======
+# Selenidioides hollandei Vivier & Schrével, 1966 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

@@ -1,5 +1,4 @@
-Peziza ceratina Berk. SPECIES
-=======
+# Peziza ceratina Berk. SPECIES
 
 #### Status
 ACCEPTED

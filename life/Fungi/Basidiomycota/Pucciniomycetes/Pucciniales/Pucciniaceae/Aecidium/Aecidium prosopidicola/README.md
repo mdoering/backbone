@@ -1,5 +1,4 @@
-Aecidium prosopidicola Speg. SPECIES
-=======
+# Aecidium prosopidicola Speg. SPECIES
 
 #### Status
 ACCEPTED

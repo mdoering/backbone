@@ -1,5 +1,4 @@
-Lecanora himalayae Poelt SPECIES
-=======
+# Lecanora himalayae Poelt SPECIES
 
 #### Status
 ACCEPTED

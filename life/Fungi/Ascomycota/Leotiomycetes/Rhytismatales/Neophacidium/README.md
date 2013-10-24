@@ -1,5 +1,4 @@
-Neophacidium Petr. GENUS
-=======
+# Neophacidium Petr. GENUS
 
 #### Status
 ACCEPTED

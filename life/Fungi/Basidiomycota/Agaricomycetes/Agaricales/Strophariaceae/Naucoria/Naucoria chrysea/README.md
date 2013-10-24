@@ -1,5 +1,4 @@
-Naucoria chrysea (Wettst.) Sacc. SPECIES
-=======
+# Naucoria chrysea (Wettst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladonia fuscocinerea Ahti SPECIES
-=======
+# Cladonia fuscocinerea Ahti SPECIES
 
 #### Status
 ACCEPTED

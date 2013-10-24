@@ -1,5 +1,4 @@
-Licopolia franciscana Sacc., Syd. & P. Syd., 1900 SPECIES
-=======
+# Licopolia franciscana Sacc., Syd. & P. Syd., 1900 SPECIES
 
 #### Status
 ACCEPTED

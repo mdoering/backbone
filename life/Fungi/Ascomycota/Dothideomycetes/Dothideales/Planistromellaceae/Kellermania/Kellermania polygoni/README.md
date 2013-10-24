@@ -1,5 +1,4 @@
-Kellermania polygoni Ellis & Everh. SPECIES
-=======
+# Kellermania polygoni Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

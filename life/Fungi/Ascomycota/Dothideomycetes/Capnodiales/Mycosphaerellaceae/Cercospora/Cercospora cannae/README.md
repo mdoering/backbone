@@ -1,5 +1,4 @@
-Cercospora cannae C.K. Bai, X.J. Liu & Y.L. Guo, 1984 SPECIES
-=======
+# Cercospora cannae C.K. Bai, X.J. Liu & Y.L. Guo, 1984 SPECIES
 
 #### Status
 ACCEPTED

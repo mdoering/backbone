@@ -1,5 +1,4 @@
-Textularia panamensis Cushman, 1918 SPECIES
-=======
+# Textularia panamensis Cushman, 1918 SPECIES
 
 #### Status
 ACCEPTED

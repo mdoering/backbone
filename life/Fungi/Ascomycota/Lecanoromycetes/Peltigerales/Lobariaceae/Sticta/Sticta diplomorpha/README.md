@@ -1,5 +1,4 @@
-Sticta diplomorpha (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Sticta diplomorpha (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

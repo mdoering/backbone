@@ -1,5 +1,4 @@
-Wentiomyces molarifer Scheuer SPECIES
-=======
+# Wentiomyces molarifer Scheuer SPECIES
 
 #### Status
 ACCEPTED

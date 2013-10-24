@@ -1,5 +1,4 @@
-Mycenastrum radicatum Durieu & Mont. SPECIES
-=======
+# Mycenastrum radicatum Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

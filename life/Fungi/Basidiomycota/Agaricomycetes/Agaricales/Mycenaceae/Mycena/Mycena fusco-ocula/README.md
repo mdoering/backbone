@@ -1,5 +1,4 @@
-Mycena fusco-ocula A.H. Sm. SPECIES
-=======
+# Mycena fusco-ocula A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

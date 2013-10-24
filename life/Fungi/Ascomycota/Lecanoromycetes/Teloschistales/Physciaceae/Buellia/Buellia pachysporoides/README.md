@@ -1,5 +1,4 @@
-Buellia pachysporoides Vain. ex Lynge SPECIES
-=======
+# Buellia pachysporoides Vain. ex Lynge SPECIES
 
 #### Status
 ACCEPTED

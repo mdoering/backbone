@@ -1,5 +1,4 @@
-Ganoderma auriscalpioides Henn. SPECIES
-=======
+# Ganoderma auriscalpioides Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Certesia Fabre-Domergue, 1885 GENUS
-=======
+# Certesia Fabre-Domergue, 1885 GENUS
 
 #### Status
 ACCEPTED

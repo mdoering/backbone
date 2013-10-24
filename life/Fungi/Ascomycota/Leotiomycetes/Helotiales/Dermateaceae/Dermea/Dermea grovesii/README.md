@@ -1,5 +1,4 @@
-Dermea grovesii J. Reid & Piroz. SPECIES
-=======
+# Dermea grovesii J. Reid & Piroz. SPECIES
 
 #### Status
 ACCEPTED

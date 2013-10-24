@@ -1,5 +1,4 @@
-Cladina pycnoclada subsp. pycnoclada SUBSPECIES
-=======
+# Cladina pycnoclada (Pers.) Leight. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Ann. Mag. nat. Hist. , Ser. 3 19: 122 (1867)
 
 #### Original name
-Cladina pycnoclada subsp. pycnoclada
+Cenomyce pycnoclada Pers.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Clostridium thiosulfatireducens Hernández-Eugenio et al., 2002 SPECIES
-=======
+# Clostridium thiosulfatireducens Hernández-Eugenio et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

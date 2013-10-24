@@ -1,5 +1,4 @@
-Melosira ikapoensis var. minor Cholnoky VARIETY
-=======
+# Melosira ikapoensis SPECIES
 
 #### Status
 ACCEPTED

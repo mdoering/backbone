@@ -1,5 +1,4 @@
-Cryptothecia maculata Groenh. SPECIES
-=======
+# Cryptothecia maculata Groenh. SPECIES
 
 #### Status
 ACCEPTED

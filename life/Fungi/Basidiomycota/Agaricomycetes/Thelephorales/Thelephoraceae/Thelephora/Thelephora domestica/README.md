@@ -1,5 +1,4 @@
-Thelephora domestica (Pers.) Fr. SPECIES
-=======
+# Thelephora domestica (Pers.) Fr. SPECIES
 
 #### Status
 ACCEPTED

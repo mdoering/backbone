@@ -1,5 +1,4 @@
-Ochrolechia trachydactyla SPECIES
-=======
+# Ochrolechia trachydactyla SPECIES
 
 #### Status
 ACCEPTED

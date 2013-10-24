@@ -1,5 +1,4 @@
-Trachysphaeridium compactum Piskun, 1976 SPECIES
-=======
+# Trachysphaeridium compactum Piskun, 1976 SPECIES
 
 #### Status
 ACCEPTED

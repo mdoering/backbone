@@ -1,5 +1,4 @@
-Kamatella variispora (Died.) B. Sutton SPECIES
-=======
+# Kamatella variispora (Died.) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

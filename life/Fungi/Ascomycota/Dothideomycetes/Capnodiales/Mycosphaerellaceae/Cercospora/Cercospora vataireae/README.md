@@ -1,5 +1,4 @@
-Cercospora vataireae Henn. SPECIES
-=======
+# Cercospora vataireae Henn. SPECIES
 
 #### Status
 ACCEPTED

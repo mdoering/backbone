@@ -1,5 +1,4 @@
-Cortinellus incertus Feltgen SPECIES
-=======
+# Cortinellus incertus Feltgen SPECIES
 
 #### Status
 ACCEPTED

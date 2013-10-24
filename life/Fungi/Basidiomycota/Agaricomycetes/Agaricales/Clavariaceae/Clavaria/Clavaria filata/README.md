@@ -1,5 +1,4 @@
-Clavaria filata Pers. SPECIES
-=======
+# Clavaria filata Pers. SPECIES
 
 #### Status
 ACCEPTED

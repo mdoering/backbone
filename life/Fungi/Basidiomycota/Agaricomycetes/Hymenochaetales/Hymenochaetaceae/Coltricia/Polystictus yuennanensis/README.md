@@ -1,5 +1,4 @@
-Polystictus yuennanensis Lohwag SPECIES
-=======
+# Polystictus yuennanensis Lohwag SPECIES
 
 #### Status
 ACCEPTED

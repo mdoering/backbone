@@ -1,5 +1,4 @@
-Valsaria majuscula Cooke & Harkn. SPECIES
-=======
+# Valsaria majuscula Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

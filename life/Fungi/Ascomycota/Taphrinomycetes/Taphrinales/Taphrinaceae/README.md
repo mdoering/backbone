@@ -1,5 +1,4 @@
-Taphrinaceae Gäum. FAMILY
-=======
+# Taphrinaceae Gäum. FAMILY
 
 #### Status
 ACCEPTED

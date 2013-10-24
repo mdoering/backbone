@@ -1,5 +1,4 @@
-Graphis mesospora Nyl. SPECIES
-=======
+# Graphis mesospora Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrgo williamsoni SPECIES
-=======
+# Pyrgo williamsoni SPECIES
 
 #### Status
 ACCEPTED

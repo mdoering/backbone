@@ -1,5 +1,4 @@
-Stagonospora albescens Davis SPECIES
-=======
+# Stagonospora albescens Davis SPECIES
 
 #### Status
 ACCEPTED

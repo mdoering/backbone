@@ -1,5 +1,4 @@
-Platysiphon R. Wilce, 1962 GENUS
-=======
+# Platysiphon R. Wilce, 1962 GENUS
 
 #### Status
 ACCEPTED

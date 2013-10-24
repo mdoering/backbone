@@ -1,5 +1,4 @@
-Agaricus angustipes Peck SPECIES
-=======
+# Agaricus angustipes Peck SPECIES
 
 #### Status
 ACCEPTED

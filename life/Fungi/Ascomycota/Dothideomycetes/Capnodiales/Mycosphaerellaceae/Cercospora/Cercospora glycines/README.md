@@ -1,5 +1,4 @@
-Cercospora glycines Cooke SPECIES
-=======
+# Cercospora glycines Cooke SPECIES
 
 #### Status
 ACCEPTED

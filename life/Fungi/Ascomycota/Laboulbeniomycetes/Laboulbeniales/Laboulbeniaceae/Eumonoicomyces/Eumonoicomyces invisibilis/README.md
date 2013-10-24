@@ -1,5 +1,4 @@
-Eumonoicomyces invisibilis Thaxt. SPECIES
-=======
+# Eumonoicomyces invisibilis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

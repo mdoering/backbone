@@ -1,5 +1,4 @@
-Naucoria micromegala Berk. SPECIES
-=======
+# Naucoria micromegala Berk. SPECIES
 
 #### Status
 ACCEPTED

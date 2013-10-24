@@ -1,5 +1,4 @@
-Pseudotrichia guatopoensis Huhndorf SPECIES
-=======
+# Pseudotrichia guatopoensis Huhndorf SPECIES
 
 #### Status
 ACCEPTED

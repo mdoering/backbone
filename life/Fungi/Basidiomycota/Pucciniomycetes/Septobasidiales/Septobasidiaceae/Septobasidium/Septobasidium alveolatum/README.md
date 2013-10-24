@@ -1,5 +1,4 @@
-Septobasidium alveolatum Couch SPECIES
-=======
+# Septobasidium alveolatum Couch SPECIES
 
 #### Status
 ACCEPTED

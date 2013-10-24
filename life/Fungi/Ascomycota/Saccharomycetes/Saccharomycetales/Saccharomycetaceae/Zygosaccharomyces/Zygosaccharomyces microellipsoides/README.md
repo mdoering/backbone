@@ -1,17 +1,16 @@
-Torulaspora microellipsoides (Osterw.) Van der Walt & Johannsen, 1975 SPECIES
-=======
+# Zygosaccharomyces microellipsoides (Osterw.) Yarrow, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Stud. Mycol. 14: 12 (1977)
 
 #### Original name
-null
+Saccharomyces microellipsodes
 
 ### Remarks
 null

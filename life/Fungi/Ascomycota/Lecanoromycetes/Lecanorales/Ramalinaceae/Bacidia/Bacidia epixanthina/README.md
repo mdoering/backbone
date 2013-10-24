@@ -1,5 +1,4 @@
-Bacidia epixanthina (Nyl.) Zahlbr. SPECIES
-=======
+# Bacidia epixanthina (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

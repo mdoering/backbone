@@ -1,5 +1,4 @@
-Thioreductor Nakagawa et al., 2005 GENUS
-=======
+# Thioreductor Nakagawa et al., 2005 GENUS
 
 #### Status
 ACCEPTED

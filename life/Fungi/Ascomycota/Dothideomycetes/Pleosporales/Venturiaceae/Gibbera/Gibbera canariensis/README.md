@@ -1,5 +1,4 @@
-Gibbera canariensis Urries SPECIES
-=======
+# Gibbera canariensis Urries SPECIES
 
 #### Status
 ACCEPTED

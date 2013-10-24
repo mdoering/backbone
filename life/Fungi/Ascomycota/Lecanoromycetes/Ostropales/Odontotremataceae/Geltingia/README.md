@@ -1,5 +1,4 @@
-Geltingia Alstrup & D. Hawksw. GENUS
-=======
+# Geltingia Alstrup & D. Hawksw. GENUS
 
 #### Status
 ACCEPTED

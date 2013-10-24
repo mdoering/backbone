@@ -1,5 +1,4 @@
-Melanconium philippinum Sacc. SPECIES
-=======
+# Melanconium philippinum Sacc. SPECIES
 
 #### Status
 ACCEPTED

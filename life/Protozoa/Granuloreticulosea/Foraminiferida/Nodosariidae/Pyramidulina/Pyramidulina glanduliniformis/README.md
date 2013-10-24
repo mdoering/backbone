@@ -1,8 +1,7 @@
-Pseudoglandulina glanduliniformis (Dervieux, 1894) SPECIES
-=======
+# Pyramidulina glanduliniformis (Dervieux, 1894) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

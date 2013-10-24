@@ -1,5 +1,4 @@
-Stereocaulon furcatum Fr. SPECIES
-=======
+# Stereocaulon furcatum Fr. SPECIES
 
 #### Status
 ACCEPTED

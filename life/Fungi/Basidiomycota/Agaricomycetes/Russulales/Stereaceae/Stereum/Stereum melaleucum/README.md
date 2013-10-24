@@ -1,5 +1,4 @@
-Stereum melaleucum Mont. SPECIES
-=======
+# Stereum melaleucum Mont. SPECIES
 
 #### Status
 ACCEPTED

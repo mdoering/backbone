@@ -1,5 +1,4 @@
-Phoma menispermi Peck SPECIES
-=======
+# Phoma menispermi Peck SPECIES
 
 #### Status
 ACCEPTED

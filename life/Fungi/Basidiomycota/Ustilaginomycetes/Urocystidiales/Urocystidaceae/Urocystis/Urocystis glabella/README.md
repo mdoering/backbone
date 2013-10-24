@@ -1,5 +1,4 @@
-Urocystis glabella Vánky & R.G. Shivas SPECIES
-=======
+# Urocystis glabella Vánky & R.G. Shivas SPECIES
 
 #### Status
 ACCEPTED

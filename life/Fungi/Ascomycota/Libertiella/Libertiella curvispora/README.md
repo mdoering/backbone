@@ -1,5 +1,4 @@
-Libertiella curvispora D. Hawksw. & Miadl. SPECIES
-=======
+# Libertiella curvispora D. Hawksw. & Miadl. SPECIES
 
 #### Status
 ACCEPTED

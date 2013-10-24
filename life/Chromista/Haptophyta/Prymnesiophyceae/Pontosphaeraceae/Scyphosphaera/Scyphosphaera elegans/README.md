@@ -1,5 +1,4 @@
-Scyphosphaera elegans (Ostenfeld, 1910) Deflandre, 1942 SPECIES
-=======
+# Scyphosphaera elegans (Ostenfeld, 1910) Deflandre, 1942 SPECIES
 
 #### Status
 ACCEPTED

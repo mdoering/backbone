@@ -1,5 +1,4 @@
-Lecidea riparia (Müll. Arg.) SPECIES
-=======
+# Lecidea riparia (Müll. Arg.) SPECIES
 
 #### Status
 ACCEPTED

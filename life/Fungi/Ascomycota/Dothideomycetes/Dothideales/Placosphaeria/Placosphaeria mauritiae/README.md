@@ -1,5 +1,4 @@
-Placosphaeria mauritiae Bat. & Peres SPECIES
-=======
+# Placosphaeria mauritiae Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

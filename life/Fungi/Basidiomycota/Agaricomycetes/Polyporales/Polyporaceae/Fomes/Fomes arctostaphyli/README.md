@@ -1,5 +1,4 @@
-Fomes arctostaphyli Long SPECIES
-=======
+# Fomes arctostaphyli Long SPECIES
 
 #### Status
 ACCEPTED

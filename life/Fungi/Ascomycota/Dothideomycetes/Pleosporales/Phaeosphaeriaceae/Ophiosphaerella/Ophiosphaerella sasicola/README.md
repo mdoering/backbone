@@ -1,17 +1,16 @@
-Phaeosphaeria sasicola Nagas. & Y. Otani, 1977 SPECIES
-=======
+# Ophiosphaerella sasicola (Nagas. & Y. Otani) Shoemaker & C.E. Babc., 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Can. J. Bot. 67(5): 1592 (1989)
 
 #### Original name
-null
+Phaeosphaeria sasicola Nagas. & Y. Otani, 1977
 
 ### Remarks
 null

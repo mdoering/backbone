@@ -1,5 +1,4 @@
-Asteridiella hippocrateae (Hansf. & Deighton) Hansf. SPECIES
-=======
+# Asteridiella hippocrateae (Hansf. & Deighton) Hansf. SPECIES
 
 #### Status
 ACCEPTED

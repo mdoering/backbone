@@ -1,5 +1,4 @@
-Cryphonectria variicolor (Fuckel) Sacc. SPECIES
-=======
+# Cryphonectria variicolor (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

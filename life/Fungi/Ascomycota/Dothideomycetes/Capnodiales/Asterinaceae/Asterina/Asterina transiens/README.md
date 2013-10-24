@@ -1,5 +1,4 @@
-Asterina transiens Theiss. SPECIES
-=======
+# Asterina transiens Theiss. SPECIES
 
 #### Status
 ACCEPTED

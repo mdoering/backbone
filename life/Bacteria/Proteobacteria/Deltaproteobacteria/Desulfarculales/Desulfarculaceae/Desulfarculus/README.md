@@ -1,5 +1,4 @@
-Desulfarculus Kuever et al., 2006 GENUS
-=======
+# Desulfarculus Kuever et al., 2006 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeoseptoria sapotaceicola Bat., Cavalc. & A.A. Silva SPECIES
-=======
+# Phaeoseptoria sapotaceicola Bat., Cavalc. & A.A. Silva SPECIES
 
 #### Status
 ACCEPTED

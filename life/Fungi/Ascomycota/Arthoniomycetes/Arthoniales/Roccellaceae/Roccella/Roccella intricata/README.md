@@ -1,5 +1,4 @@
-Roccella intricata Mont. SPECIES
-=======
+# Roccella intricata Mont. SPECIES
 
 #### Status
 ACCEPTED

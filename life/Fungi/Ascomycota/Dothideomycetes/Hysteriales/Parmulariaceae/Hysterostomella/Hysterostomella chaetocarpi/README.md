@@ -1,5 +1,4 @@
-Hysterostomella chaetocarpi Hansf., 1957 SPECIES
-=======
+# Hysterostomella chaetocarpi Hansf., 1957 SPECIES
 
 #### Status
 ACCEPTED

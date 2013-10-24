@@ -1,5 +1,4 @@
-Clitocybe ambigua P. Karst. SPECIES
-=======
+# Clitocybe ambigua P. Karst. SPECIES
 
 #### Status
 ACCEPTED

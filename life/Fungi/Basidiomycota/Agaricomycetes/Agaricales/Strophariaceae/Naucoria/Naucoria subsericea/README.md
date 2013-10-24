@@ -1,5 +1,4 @@
-Naucoria subsericea Velen. SPECIES
-=======
+# Naucoria subsericea Velen. SPECIES
 
 #### Status
 ACCEPTED

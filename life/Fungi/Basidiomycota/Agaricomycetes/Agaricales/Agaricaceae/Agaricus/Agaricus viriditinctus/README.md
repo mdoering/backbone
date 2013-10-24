@@ -1,5 +1,4 @@
-Agaricus viriditinctus Berk. & Broome SPECIES
-=======
+# Agaricus viriditinctus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

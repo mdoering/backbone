@@ -1,5 +1,4 @@
-Mycena syringea Murrill SPECIES
-=======
+# Mycena syringea Murrill SPECIES
 
 #### Status
 ACCEPTED

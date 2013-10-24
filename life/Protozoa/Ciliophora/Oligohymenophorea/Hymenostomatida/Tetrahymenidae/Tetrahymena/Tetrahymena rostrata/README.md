@@ -1,5 +1,4 @@
-Tetrahymena rostrata (Kahl, 1926) Corliss, 1952 SPECIES
-=======
+# Tetrahymena rostrata (Kahl, 1926) Corliss, 1952 SPECIES
 
 #### Status
 ACCEPTED

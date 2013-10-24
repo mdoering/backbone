@@ -1,5 +1,4 @@
-Guignardia steppani Petr. SPECIES
-=======
+# Guignardia steppani Petr. SPECIES
 
 #### Status
 ACCEPTED

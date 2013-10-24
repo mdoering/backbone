@@ -1,5 +1,4 @@
-Boletus velatus (Rostr.) Sacc. & D. Sacc. SPECIES
-=======
+# Boletus velatus (Rostr.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

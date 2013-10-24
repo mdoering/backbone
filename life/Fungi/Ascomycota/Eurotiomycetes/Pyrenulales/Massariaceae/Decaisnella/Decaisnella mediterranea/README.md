@@ -1,5 +1,4 @@
-Decaisnella mediterranea Checa & M.N. Blanco SPECIES
-=======
+# Decaisnella mediterranea Checa & M.N. Blanco SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cordella Speg. GENUS
-=======
+# Cordella Speg. GENUS
 
 #### Status
 ACCEPTED

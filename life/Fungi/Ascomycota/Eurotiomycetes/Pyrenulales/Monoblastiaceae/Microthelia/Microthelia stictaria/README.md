@@ -1,5 +1,4 @@
-Microthelia stictaria Linds. SPECIES
-=======
+# Microthelia stictaria Linds. SPECIES
 
 #### Status
 ACCEPTED

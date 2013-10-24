@@ -1,5 +1,4 @@
-Dothiorella celastri Peck SPECIES
-=======
+# Dothiorella celastri Peck SPECIES
 
 #### Status
 ACCEPTED

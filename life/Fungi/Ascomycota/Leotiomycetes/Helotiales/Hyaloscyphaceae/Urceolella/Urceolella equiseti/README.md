@@ -1,5 +1,4 @@
-Urceolella equiseti (Huhtinen) Huhtinen SPECIES
-=======
+# Urceolella equiseti (Huhtinen) Huhtinen SPECIES
 
 #### Status
 ACCEPTED

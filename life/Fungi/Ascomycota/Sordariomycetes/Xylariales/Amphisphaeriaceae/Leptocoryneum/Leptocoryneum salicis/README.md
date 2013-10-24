@@ -1,5 +1,4 @@
-Leptocoryneum salicis (Tognini) H. Ruppr. SPECIES
-=======
+# Leptocoryneum salicis (Tognini) H. Ruppr. SPECIES
 
 #### Status
 ACCEPTED

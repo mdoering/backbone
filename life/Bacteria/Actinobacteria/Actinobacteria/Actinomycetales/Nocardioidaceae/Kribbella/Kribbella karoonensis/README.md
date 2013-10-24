@@ -1,5 +1,4 @@
-Kribbella karoonensis Kirby et al., 2006 SPECIES
-=======
+# Kribbella karoonensis Kirby et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

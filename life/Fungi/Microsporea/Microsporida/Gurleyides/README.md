@@ -1,5 +1,4 @@
-Gurleyides Voronin GENUS
-=======
+# Gurleyides Voronin GENUS
 
 #### Status
 ACCEPTED

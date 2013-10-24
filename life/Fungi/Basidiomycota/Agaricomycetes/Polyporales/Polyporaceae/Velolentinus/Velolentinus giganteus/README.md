@@ -1,5 +1,4 @@
-Velolentinus giganteus (Berk.) Overeem SPECIES
-=======
+# Velolentinus giganteus (Berk.) Overeem SPECIES
 
 #### Status
 ACCEPTED

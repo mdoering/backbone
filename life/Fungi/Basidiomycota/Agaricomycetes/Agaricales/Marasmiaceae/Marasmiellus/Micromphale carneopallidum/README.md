@@ -1,5 +1,4 @@
-Micromphale carneopallidum Pouzar SPECIES
-=======
+# Micromphale carneopallidum Pouzar SPECIES
 
 #### Status
 ACCEPTED

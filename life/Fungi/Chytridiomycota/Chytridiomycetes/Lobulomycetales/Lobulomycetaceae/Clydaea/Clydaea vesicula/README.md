@@ -1,5 +1,4 @@
-Clydaea vesicula D.R. Simmons SPECIES
-=======
+# Clydaea vesicula D.R. Simmons SPECIES
 
 #### Status
 ACCEPTED

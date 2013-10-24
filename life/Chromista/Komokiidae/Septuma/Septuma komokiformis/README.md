@@ -1,5 +1,4 @@
-Septuma komokiformis Kamenskaya, 1993 SPECIES
-=======
+# Septuma komokiformis Kamenskaya, 1993 SPECIES
 
 #### Status
 ACCEPTED

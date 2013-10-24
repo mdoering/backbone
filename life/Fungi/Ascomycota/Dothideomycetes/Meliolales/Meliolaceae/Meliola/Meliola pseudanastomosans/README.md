@@ -1,5 +1,4 @@
-Meliola pseudanastomosans Rehm SPECIES
-=======
+# Meliola pseudanastomosans Rehm SPECIES
 
 #### Status
 ACCEPTED

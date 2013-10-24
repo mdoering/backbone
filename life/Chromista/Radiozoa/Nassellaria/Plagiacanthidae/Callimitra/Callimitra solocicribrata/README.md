@@ -1,5 +1,4 @@
-Callimitra solocicribrata Takahashi, 1991 SPECIES
-=======
+# Callimitra solocicribrata Takahashi, 1991 SPECIES
 
 #### Status
 ACCEPTED

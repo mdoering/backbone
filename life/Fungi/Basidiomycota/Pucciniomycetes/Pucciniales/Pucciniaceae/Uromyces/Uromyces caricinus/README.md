@@ -1,5 +1,4 @@
-Uromyces caricinus Ellis & Everh. SPECIES
-=======
+# Uromyces caricinus Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

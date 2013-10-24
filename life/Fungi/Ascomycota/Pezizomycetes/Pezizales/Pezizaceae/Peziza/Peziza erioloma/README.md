@@ -1,5 +1,4 @@
-Peziza erioloma Fr. SPECIES
-=======
+# Peziza erioloma Fr. SPECIES
 
 #### Status
 ACCEPTED

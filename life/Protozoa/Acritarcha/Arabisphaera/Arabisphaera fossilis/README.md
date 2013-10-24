@@ -1,5 +1,4 @@
-Arabisphaera fossilis Hemer & Nygreen, 1967 SPECIES
-=======
+# Arabisphaera fossilis Hemer & Nygreen, 1967 SPECIES
 
 #### Status
 ACCEPTED

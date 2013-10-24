@@ -1,5 +1,4 @@
-Parvomyces merophysiae Santam., 1995 SPECIES
-=======
+# Parvomyces merophysiae Santam., 1995 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus pardalotus Mont. SPECIES
-=======
+# Agaricus pardalotus Mont. SPECIES
 
 #### Status
 ACCEPTED

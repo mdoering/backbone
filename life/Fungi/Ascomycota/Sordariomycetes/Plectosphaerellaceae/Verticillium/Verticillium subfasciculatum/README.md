@@ -1,14 +1,13 @@
-Oospora subfasciculata Petch SPECIES
-=======
+# Verticillium subfasciculatum (Petch) Samson & W. Gams, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 16: 63 (1931)
+Stud. Mycol. 6: 98 (1974)
 
 #### Original name
 Oospora subfasciculata Petch

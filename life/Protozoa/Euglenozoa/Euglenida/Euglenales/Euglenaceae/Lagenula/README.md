@@ -1,5 +1,4 @@
-Lagenula GENUS
-=======
+# Lagenula GENUS
 
 #### Status
 ACCEPTED

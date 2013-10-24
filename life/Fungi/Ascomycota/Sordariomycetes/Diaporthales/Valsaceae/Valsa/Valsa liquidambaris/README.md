@@ -1,5 +1,4 @@
-Valsa liquidambaris (Schwein.) Cooke SPECIES
-=======
+# Valsa liquidambaris (Schwein.) Cooke SPECIES
 
 #### Status
 ACCEPTED

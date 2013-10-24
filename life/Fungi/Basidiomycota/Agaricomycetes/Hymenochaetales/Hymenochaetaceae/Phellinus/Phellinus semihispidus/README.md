@@ -1,5 +1,4 @@
-Phellinus semihispidus Ryvarden, 2004 SPECIES
-=======
+# Phellinus semihispidus Ryvarden, 2004 SPECIES
 
 #### Status
 ACCEPTED

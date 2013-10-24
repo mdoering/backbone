@@ -1,5 +1,4 @@
-Cytophaga tenuissima SPECIES
-=======
+# Cytophaga tenuissima SPECIES
 
 #### Status
 ACCEPTED

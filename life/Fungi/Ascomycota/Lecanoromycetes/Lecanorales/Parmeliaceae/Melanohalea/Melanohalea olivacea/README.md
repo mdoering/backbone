@@ -1,17 +1,16 @@
-Melanelia olivacea f. olivacea FORM
-=======
+# Melanohalea olivacea (L.) O. Blanco, A. Crespo, Divakar, Essl., D. Hawksw. & Lumbsch SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 7(1): 48 (1978)
+Mycol. Res. 108(8): 883 (2004)
 
 #### Original name
-Melanelia olivacea f. olivacea
+Lichen olivaceus L.
 
 ### Remarks
 null

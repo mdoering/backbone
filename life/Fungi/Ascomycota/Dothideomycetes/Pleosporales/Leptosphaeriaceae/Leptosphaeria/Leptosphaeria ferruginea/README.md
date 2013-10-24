@@ -1,5 +1,4 @@
-Leptosphaeria ferruginea Khokhr. SPECIES
-=======
+# Leptosphaeria ferruginea Khokhr. SPECIES
 
 #### Status
 ACCEPTED

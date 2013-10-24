@@ -1,5 +1,4 @@
-Epistylis ovalis Dumas, 1929 SPECIES
-=======
+# Epistylis ovalis Dumas, 1929 SPECIES
 
 #### Status
 ACCEPTED

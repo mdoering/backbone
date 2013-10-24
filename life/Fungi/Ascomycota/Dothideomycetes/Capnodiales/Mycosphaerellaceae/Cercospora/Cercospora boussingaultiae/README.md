@@ -1,5 +1,4 @@
-Cercospora boussingaultiae Roum. SPECIES
-=======
+# Cercospora boussingaultiae Roum. SPECIES
 
 #### Status
 ACCEPTED

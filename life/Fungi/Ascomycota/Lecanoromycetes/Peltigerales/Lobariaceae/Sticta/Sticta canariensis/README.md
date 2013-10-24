@@ -1,17 +1,16 @@
-Sticta dufourii Delise SPECIES
-=======
+# Sticta canariensis (Ach.) Bory ex Delise SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hist. Lich. Sticta 114 (1822)
 
 #### Original name
-Sticta dufourii Delise
+Sticta damicornis f. canariensis (Bory) Ach.
 
 ### Remarks
 null

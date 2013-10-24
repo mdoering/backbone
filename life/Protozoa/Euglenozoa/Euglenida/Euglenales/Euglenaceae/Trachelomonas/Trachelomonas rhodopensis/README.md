@@ -1,5 +1,4 @@
-Trachelomonas rhodopensis Valkanov SPECIES
-=======
+# Trachelomonas rhodopensis Valkanov SPECIES
 
 #### Status
 ACCEPTED

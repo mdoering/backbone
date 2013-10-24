@@ -1,14 +1,13 @@
-Bommerella trigonospora Marchal & É.J. Marchal, 1885 SPECIES
-=======
+# Chaetomium trigonosporum (Marchal & É.J. Marchal) Chivers, 1915 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. R. Bot. Belg. 164 (1885)
+Mem. Torrey bot. Club 14(3): 166 (1915)
 
 #### Original name
 Bommerella trigonospora Marchal & É.J. Marchal, 1885

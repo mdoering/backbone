@@ -1,5 +1,4 @@
-Bullaria praealta (H.S. Jacks. & Holw.) Arthur & Mains SPECIES
-=======
+# Bullaria praealta (H.S. Jacks. & Holw.) Arthur & Mains SPECIES
 
 #### Status
 ACCEPTED

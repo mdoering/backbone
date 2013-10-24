@@ -1,5 +1,4 @@
-Setulipes rhizomorphicola Antonín SPECIES
-=======
+# Setulipes rhizomorphicola Antonín SPECIES
 
 #### Status
 ACCEPTED

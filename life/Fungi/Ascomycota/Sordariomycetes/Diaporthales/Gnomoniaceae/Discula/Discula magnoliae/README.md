@@ -1,5 +1,4 @@
-Discula magnoliae (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Discula magnoliae (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

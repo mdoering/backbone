@@ -1,5 +1,4 @@
-Amanita albofimbriata O.K. Mill. SPECIES
-=======
+# Amanita albofimbriata O.K. Mill. SPECIES
 
 #### Status
 ACCEPTED

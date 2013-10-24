@@ -1,5 +1,4 @@
-Parmelia tunaeformis Ach. SPECIES
-=======
+# Parmelia tunaeformis Ach. SPECIES
 
 #### Status
 ACCEPTED

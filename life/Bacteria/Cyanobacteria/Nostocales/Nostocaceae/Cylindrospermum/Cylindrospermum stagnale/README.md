@@ -1,11 +1,10 @@
-Cylindrospermum stagnale angustum G. M. Smith, 1916 SUBSPECIES
-=======
+# Cylindrospermum stagnale (Kützing) Bornet & Flahault SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Integrated Taxonomic Information System
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

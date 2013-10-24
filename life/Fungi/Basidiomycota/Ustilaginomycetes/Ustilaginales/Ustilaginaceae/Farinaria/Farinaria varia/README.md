@@ -1,5 +1,4 @@
-Farinaria varia Sowerby SPECIES
-=======
+# Farinaria varia Sowerby SPECIES
 
 #### Status
 ACCEPTED

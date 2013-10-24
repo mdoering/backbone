@@ -1,5 +1,4 @@
-Melasmia tristaniae (Massee) Arx SPECIES
-=======
+# Melasmia tristaniae (Massee) Arx SPECIES
 
 #### Status
 ACCEPTED

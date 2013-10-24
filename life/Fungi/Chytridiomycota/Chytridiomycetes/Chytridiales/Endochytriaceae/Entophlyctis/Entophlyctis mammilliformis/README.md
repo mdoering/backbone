@@ -1,5 +1,4 @@
-Entophlyctis mammilliformis S.N. Dasgupta & R. John SPECIES
-=======
+# Entophlyctis mammilliformis S.N. Dasgupta & R. John SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Stigmatomyces neurochaete W. Rossi & A. Weir SPECIES
-=======
+# Stigmatomyces neurochaetae W. Rossi & A. Weir SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 99(1): 141 (2007)
 
 #### Original name
-Stigmatomyces neurochaete W. Rossi & A. Weir
+Stigmatomyces neurochaetae W. Rossi & A. Weir
 
 ### Remarks
 null

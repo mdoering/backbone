@@ -1,5 +1,4 @@
-Ascochyta wisconsina Davis SPECIES
-=======
+# Ascochyta wisconsina Davis SPECIES
 
 #### Status
 ACCEPTED

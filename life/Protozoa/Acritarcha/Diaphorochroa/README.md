@@ -1,5 +1,4 @@
-Diaphorochroa R.Wicander GENUS
-=======
+# Diaphorochroa R.Wicander GENUS
 
 #### Status
 ACCEPTED

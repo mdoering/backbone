@@ -1,5 +1,4 @@
-Hypomyces melanochlorus Rogerson & Samuels SPECIES
-=======
+# Hypomyces melanochlorus Rogerson & Samuels SPECIES
 
 #### Status
 ACCEPTED

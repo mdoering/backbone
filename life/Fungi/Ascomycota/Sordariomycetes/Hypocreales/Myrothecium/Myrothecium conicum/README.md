@@ -1,5 +1,4 @@
-Myrothecium conicum Fuckel SPECIES
-=======
+# Myrothecium conicum Fuckel SPECIES
 
 #### Status
 ACCEPTED

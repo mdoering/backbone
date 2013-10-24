@@ -1,5 +1,4 @@
-Cortinarius deroleptus Rob. Henry SPECIES
-=======
+# Cortinarius deroleptus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

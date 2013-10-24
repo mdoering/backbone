@@ -1,5 +1,4 @@
-Lanzia reticulata Penz. & Sacc. SPECIES
-=======
+# Lanzia reticulata Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

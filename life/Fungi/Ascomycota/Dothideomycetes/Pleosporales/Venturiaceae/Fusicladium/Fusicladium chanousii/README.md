@@ -1,5 +1,4 @@
-Fusicladium chanousii Ferraris SPECIES
-=======
+# Fusicladium chanousii Ferraris SPECIES
 
 #### Status
 ACCEPTED

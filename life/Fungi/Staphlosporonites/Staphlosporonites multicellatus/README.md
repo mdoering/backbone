@@ -1,5 +1,4 @@
-Staphlosporonites multicellatus R.K. Saxena & H.P. Singh SPECIES
-=======
+# Staphlosporonites multicellatus R.K. Saxena & H.P. Singh SPECIES
 
 #### Status
 ACCEPTED

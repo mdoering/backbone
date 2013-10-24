@@ -1,5 +1,4 @@
-Coniosporium pulvereum Vouaux SPECIES
-=======
+# Coniosporium pulvereum Vouaux SPECIES
 
 #### Status
 ACCEPTED

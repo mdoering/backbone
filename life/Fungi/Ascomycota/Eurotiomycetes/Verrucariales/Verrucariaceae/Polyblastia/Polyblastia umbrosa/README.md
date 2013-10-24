@@ -1,5 +1,4 @@
-Polyblastia umbrosa (A. Massal.) Zschacke SPECIES
-=======
+# Polyblastia umbrosa (A. Massal.) Zschacke SPECIES
 
 #### Status
 ACCEPTED

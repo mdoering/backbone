@@ -1,14 +1,13 @@
-Geopetalum silvanum (Sacc.) Kühner & Romagn., 1953 SPECIES
-=======
+# Hohenbuehelia silvana (Sacc.) O.K. Mill., 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fl. Analyt. Champ. Supér. (Paris) 68 (1953)
+La Famiglia delle Tricholomataceae (Borgo Val di Taro), Atti del Convegno Internazionale di Micologia del 10-15 Settembre 1984 [preprint] 25: 131 (1986)
 
 #### Original name
 Agaricus silvanus Sacc., 1877

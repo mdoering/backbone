@@ -1,5 +1,4 @@
-Biatorella berheri (Harm.) Lettau SPECIES
-=======
+# Biatorella berheri (Harm.) Lettau SPECIES
 
 #### Status
 ACCEPTED

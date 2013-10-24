@@ -1,14 +1,13 @@
-Stigmochora tetraspora (Orton) J.A. Stev., 1975 SPECIES
-=======
+# Endodothella tetraspora Orton, 1926 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Contrib. Reed Herb. 23: 211 (1975)
+in Seaver & Chardón, Scient. Surv. P. Rico 8(1): 50 (1926)
 
 #### Original name
 Endodothella tetraspora Orton, 1926

@@ -1,5 +1,4 @@
-Trametes williamsii Murrill SPECIES
-=======
+# Trametes williamsii Murrill SPECIES
 
 #### Status
 ACCEPTED

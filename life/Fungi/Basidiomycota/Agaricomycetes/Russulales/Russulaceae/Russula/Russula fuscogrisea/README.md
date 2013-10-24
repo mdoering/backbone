@@ -1,5 +1,4 @@
-Russula fuscogrisea Petch SPECIES
-=======
+# Russula fuscogrisea Petch SPECIES
 
 #### Status
 ACCEPTED

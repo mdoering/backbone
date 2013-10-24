@@ -1,5 +1,4 @@
-Buellia trypethelii Tuck. SPECIES
-=======
+# Buellia trypethelii Tuck. SPECIES
 
 #### Status
 ACCEPTED

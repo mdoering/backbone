@@ -1,5 +1,4 @@
-Lecanora saepimentorum Savicz SPECIES
-=======
+# Lecanora saepimentorum Savicz SPECIES
 
 #### Status
 ACCEPTED

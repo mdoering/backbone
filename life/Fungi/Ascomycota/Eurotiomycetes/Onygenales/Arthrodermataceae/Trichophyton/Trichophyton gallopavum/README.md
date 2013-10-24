@@ -1,5 +1,4 @@
-Trichophyton gallopavum Metianu, A. Lucas & Drouhet SPECIES
-=======
+# Trichophyton gallopavum Metianu, A. Lucas & Drouhet SPECIES
 
 #### Status
 ACCEPTED

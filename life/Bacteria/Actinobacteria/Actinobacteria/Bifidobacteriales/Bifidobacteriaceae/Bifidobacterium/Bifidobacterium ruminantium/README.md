@@ -1,5 +1,4 @@
-Bifidobacterium ruminantium Biavati & Mattarelli, 1991 SPECIES
-=======
+# Bifidobacterium ruminantium Biavati & Mattarelli, 1991 SPECIES
 
 #### Status
 ACCEPTED

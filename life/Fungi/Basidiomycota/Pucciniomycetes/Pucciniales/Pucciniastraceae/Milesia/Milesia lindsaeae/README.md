@@ -1,17 +1,16 @@
-Milesia lindsayae S.D. Baker SPECIES
-=======
+# Milesia lindsaeae S.D. Baker SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Trans. Roy. Soc. New Zealand 453 (1956)
 
 #### Original name
-Milesia lindsayae S.D. Baker
+Milesia lindsaeae S.D. Baker
 
 ### Remarks
 null

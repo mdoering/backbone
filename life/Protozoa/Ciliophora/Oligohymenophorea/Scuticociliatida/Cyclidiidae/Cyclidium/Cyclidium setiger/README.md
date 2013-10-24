@@ -1,5 +1,4 @@
-Cyclidium setiger SPECIES
-=======
+# Cyclidium setiger SPECIES
 
 #### Status
 ACCEPTED

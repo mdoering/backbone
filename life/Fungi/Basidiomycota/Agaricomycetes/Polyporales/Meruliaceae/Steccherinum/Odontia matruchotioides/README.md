@@ -1,5 +1,4 @@
-Odontia matruchotioides Rick SPECIES
-=======
+# Odontia matruchotioides Rick SPECIES
 
 #### Status
 ACCEPTED

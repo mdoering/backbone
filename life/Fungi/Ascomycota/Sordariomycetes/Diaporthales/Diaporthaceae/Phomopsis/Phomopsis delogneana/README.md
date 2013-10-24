@@ -1,5 +1,4 @@
-Phomopsis delogneana Petr. SPECIES
-=======
+# Phomopsis delogneana Petr. SPECIES
 
 #### Status
 ACCEPTED

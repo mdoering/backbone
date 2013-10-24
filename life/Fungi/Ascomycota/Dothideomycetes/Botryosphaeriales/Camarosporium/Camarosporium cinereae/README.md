@@ -1,5 +1,4 @@
-Camarosporium cinereae Zerova SPECIES
-=======
+# Camarosporium cinereae Zerova SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizopogon subareolatus A.H. Sm. SPECIES
-=======
+# Rhizopogon subareolatus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

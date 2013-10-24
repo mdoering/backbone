@@ -1,8 +1,7 @@
-Sphaerella rusci (Wallr.) De Not., 1863 SPECIES
-=======
+# Leptosphaeria rusci (Wallr.) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-Sphaeria rusci Wallr., 1833
+null
 
 ### Remarks
 null

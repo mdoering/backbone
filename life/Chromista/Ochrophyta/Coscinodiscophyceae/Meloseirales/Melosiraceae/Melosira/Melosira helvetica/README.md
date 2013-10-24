@@ -1,5 +1,4 @@
-Melosira helvetica (O. Müller) Cleve-Euler SPECIES
-=======
+# Melosira helvetica (O. Müller) Cleve-Euler SPECIES
 
 #### Status
 ACCEPTED

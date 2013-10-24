@@ -1,5 +1,4 @@
-Debaryomyces franciscae (Capr.) K. Kodama, Kyono, H. Nagan. & Takahara {?} SPECIES
-=======
+# Debaryomyces franciscae (Capr.) K. Kodama, Kyono, H. Nagan. & Takahara {?} SPECIES
 
 #### Status
 ACCEPTED

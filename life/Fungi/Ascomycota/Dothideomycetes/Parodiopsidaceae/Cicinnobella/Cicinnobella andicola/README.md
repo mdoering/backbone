@@ -1,5 +1,4 @@
-Cicinnobella andicola Petr. SPECIES
-=======
+# Cicinnobella andicola Petr. SPECIES
 
 #### Status
 ACCEPTED

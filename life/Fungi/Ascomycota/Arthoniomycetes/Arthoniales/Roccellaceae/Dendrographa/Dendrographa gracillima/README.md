@@ -1,5 +1,4 @@
-Dendrographa gracillima (Kremp.) M. Choisy SPECIES
-=======
+# Dendrographa gracillima (Kremp.) M. Choisy SPECIES
 
 #### Status
 ACCEPTED

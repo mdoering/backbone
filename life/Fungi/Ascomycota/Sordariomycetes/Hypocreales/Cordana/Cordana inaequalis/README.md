@@ -1,5 +1,4 @@
-Cordana inaequalis S. Hughes, 1983 SPECIES
-=======
+# Cordana inaequalis S. Hughes, 1983 SPECIES
 
 #### Status
 ACCEPTED

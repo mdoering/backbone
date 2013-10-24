@@ -1,5 +1,4 @@
-Menothea Petrak & Sydow, 1927 GENUS
-=======
+# Menothea Petrak & Sydow, 1927 GENUS
 
 #### Status
 ACCEPTED

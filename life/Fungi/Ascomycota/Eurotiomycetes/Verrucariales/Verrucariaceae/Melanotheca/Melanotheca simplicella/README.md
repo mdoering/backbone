@@ -1,5 +1,4 @@
-Melanotheca simplicella Nyl. SPECIES
-=======
+# Melanotheca simplicella Nyl. SPECIES
 
 #### Status
 ACCEPTED

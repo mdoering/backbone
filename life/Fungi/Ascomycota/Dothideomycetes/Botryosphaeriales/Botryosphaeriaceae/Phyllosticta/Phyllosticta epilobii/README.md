@@ -1,5 +1,4 @@
-Phyllosticta epilobii Brunaud SPECIES
-=======
+# Phyllosticta epilobii Brunaud SPECIES
 
 #### Status
 ACCEPTED

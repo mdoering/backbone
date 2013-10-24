@@ -1,5 +1,4 @@
-Distopyrenis japonica H. Harada SPECIES
-=======
+# Distopyrenis japonica H. Harada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Perisporium lentisci Mont. & Durieu SPECIES
-=======
+# Perisporium lentisci Mont. & Durieu SPECIES
 
 #### Status
 ACCEPTED

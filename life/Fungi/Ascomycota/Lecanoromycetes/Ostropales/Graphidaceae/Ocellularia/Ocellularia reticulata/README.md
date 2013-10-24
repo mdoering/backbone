@@ -1,5 +1,4 @@
-Ocellularia reticulata Mangold SPECIES
-=======
+# Ocellularia reticulata Mangold SPECIES
 
 #### Status
 ACCEPTED

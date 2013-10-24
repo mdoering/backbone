@@ -1,5 +1,4 @@
-Calicium peronellum Ach. SPECIES
-=======
+# Calicium peronellum Ach. SPECIES
 
 #### Status
 ACCEPTED

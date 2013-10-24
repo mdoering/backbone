@@ -1,5 +1,4 @@
-Gyrostroma missouriense Seeler, 1940 SPECIES
-=======
+# Gyrostroma missouriense Seeler, 1940 SPECIES
 
 #### Status
 ACCEPTED

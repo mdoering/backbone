@@ -1,17 +1,16 @@
-Sphaerella cleidii (Berk. & Broome) Sacc., 1882 SPECIES
-=======
+# Mycosphaerella cleidionii (Berk. & Broome) Aptroot, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycosphaerella and its anamorphs: 2. Conspectus of Mycosphaerella 64 (2006)
 
 #### Original name
-null
+Sphaeria cleidionii Berk. & Broome, 1875
 
 ### Remarks
 null

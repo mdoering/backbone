@@ -1,5 +1,4 @@
-Mycovellosiella corni Y.L. Guo SPECIES
-=======
+# Mycovellosiella corni Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

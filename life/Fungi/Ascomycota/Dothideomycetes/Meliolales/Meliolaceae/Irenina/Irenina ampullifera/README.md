@@ -1,5 +1,4 @@
-Irenina ampullifera (G. Winter) F. Stevens SPECIES
-=======
+# Irenina ampullifera (G. Winter) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

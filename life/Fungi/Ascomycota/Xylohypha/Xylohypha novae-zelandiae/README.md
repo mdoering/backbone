@@ -1,5 +1,4 @@
-Xylohypha novae-zelandiae S. Hughes & Sugiy., 1972 SPECIES
-=======
+# Xylohypha novae-zelandiae S. Hughes & Sugiy., 1972 SPECIES
 
 #### Status
 ACCEPTED

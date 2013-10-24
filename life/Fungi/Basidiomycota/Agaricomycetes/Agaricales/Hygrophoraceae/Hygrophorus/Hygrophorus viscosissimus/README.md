@@ -1,5 +1,4 @@
-Hygrophorus viscosissimus A. Blytt SPECIES
-=======
+# Hygrophorus viscosissimus A. Blytt SPECIES
 
 #### Status
 ACCEPTED

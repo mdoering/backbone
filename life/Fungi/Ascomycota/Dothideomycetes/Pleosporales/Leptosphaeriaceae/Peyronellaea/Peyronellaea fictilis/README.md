@@ -1,5 +1,4 @@
-Peyronellaea fictilis (Delacr.) Goid. SPECIES
-=======
+# Peyronellaea fictilis (Delacr.) Goid. SPECIES
 
 #### Status
 ACCEPTED

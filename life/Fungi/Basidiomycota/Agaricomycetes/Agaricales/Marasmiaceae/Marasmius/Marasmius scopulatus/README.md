@@ -1,5 +1,4 @@
-Marasmius scopulatus Desjardin & Ovrebo SPECIES
-=======
+# Marasmius scopulatus Desjardin & Ovrebo SPECIES
 
 #### Status
 ACCEPTED

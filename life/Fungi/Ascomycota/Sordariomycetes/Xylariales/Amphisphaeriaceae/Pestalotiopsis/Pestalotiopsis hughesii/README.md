@@ -1,5 +1,4 @@
-Pestalotiopsis hughesii Steyaert SPECIES
-=======
+# Pestalotiopsis hughesii Steyaert SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laboulbenia colpodis Thaxt. SPECIES
-=======
+# Laboulbenia colpodis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Carbacanthographis inspersa Staiger SPECIES
-=======
+# Carbacanthographis inspersa Staiger SPECIES
 
 #### Status
 ACCEPTED

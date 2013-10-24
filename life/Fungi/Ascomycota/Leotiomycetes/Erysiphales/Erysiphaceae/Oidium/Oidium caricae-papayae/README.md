@@ -1,17 +1,16 @@
-Acrosporium caricae (F. Noack) Subram., 1971 SPECIES
-=======
+# Oidium caricae-papayae J.M. Yen, 1966 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hyphomycetes (New Delhi) 835 (1971)
+Revue Mycol. , Paris 31: 316 (1966)
 
 #### Original name
-Oidium caricae F. Noack, 1898
+Oidium caricae-papayae J.M. Yen, 1966
 
 ### Remarks
 null

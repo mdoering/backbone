@@ -1,5 +1,4 @@
-Irenina diospyricola Hansf. & Deighton SPECIES
-=======
+# Irenina diospyricola Hansf. & Deighton SPECIES
 
 #### Status
 ACCEPTED

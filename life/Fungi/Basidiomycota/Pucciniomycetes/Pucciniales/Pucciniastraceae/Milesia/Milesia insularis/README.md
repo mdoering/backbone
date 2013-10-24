@@ -1,5 +1,4 @@
-Milesia insularis Faull SPECIES
-=======
+# Milesia insularis Faull SPECIES
 
 #### Status
 ACCEPTED

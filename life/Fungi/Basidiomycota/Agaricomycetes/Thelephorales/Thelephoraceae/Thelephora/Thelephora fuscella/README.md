@@ -1,5 +1,4 @@
-Thelephora fuscella (Ces.) Lloyd SPECIES
-=======
+# Thelephora fuscella (Ces.) Lloyd SPECIES
 
 #### Status
 ACCEPTED

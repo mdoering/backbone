@@ -1,5 +1,4 @@
-Vaccinia GENUS
-=======
+# Vaccinia GENUS
 
 #### Status
 ACCEPTED

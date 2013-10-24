@@ -1,5 +1,4 @@
-Meliola fuscidula Gaillard SPECIES
-=======
+# Meliola fuscidula Gaillard SPECIES
 
 #### Status
 ACCEPTED

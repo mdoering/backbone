@@ -1,5 +1,4 @@
-Nectria parilis Syd. SPECIES
-=======
+# Nectria parilis Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Holosticha fossicola Kahl, 1932 SPECIES
-=======
+# Holosticha fossicola Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

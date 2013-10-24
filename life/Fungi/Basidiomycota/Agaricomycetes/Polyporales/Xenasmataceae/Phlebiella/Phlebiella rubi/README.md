@@ -1,5 +1,4 @@
-Phlebiella rubi Grosse-Brauckm. SPECIES
-=======
+# Phlebiella rubi Grosse-Brauckm. SPECIES
 
 #### Status
 ACCEPTED

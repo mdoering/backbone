@@ -1,5 +1,4 @@
-Nematothecium vinosum Syd. & P. Syd., 1912 SPECIES
-=======
+# Nematothecium vinosum Syd. & P. Syd., 1912 SPECIES
 
 #### Status
 ACCEPTED

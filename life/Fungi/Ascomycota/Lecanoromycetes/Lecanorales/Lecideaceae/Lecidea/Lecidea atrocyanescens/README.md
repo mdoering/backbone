@@ -1,5 +1,4 @@
-Lecidea atrocyanescens (Th. Fr.) Hue SPECIES
-=======
+# Lecidea atrocyanescens (Th. Fr.) Hue SPECIES
 
 #### Status
 ACCEPTED

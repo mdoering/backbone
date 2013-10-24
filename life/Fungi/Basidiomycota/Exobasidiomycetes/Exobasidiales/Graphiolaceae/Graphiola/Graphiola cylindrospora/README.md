@@ -1,5 +1,4 @@
-Graphiola cylindrospora Syd. & P. Syd. SPECIES
-=======
+# Graphiola cylindrospora Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

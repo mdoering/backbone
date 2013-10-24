@@ -1,5 +1,4 @@
-Grandinia braunii Rick SPECIES
-=======
+# Grandinia braunii Rick SPECIES
 
 #### Status
 ACCEPTED

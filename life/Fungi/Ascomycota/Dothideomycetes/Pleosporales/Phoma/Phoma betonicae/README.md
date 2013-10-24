@@ -1,5 +1,4 @@
-Phoma betonicae Sacc. SPECIES
-=======
+# Phoma betonicae Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria macalpinei Priest SPECIES
-=======
+# Septoria macalpinei Priest SPECIES
 
 #### Status
 ACCEPTED

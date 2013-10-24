@@ -1,5 +1,4 @@
-Puccinia hiascens Arthur SPECIES
-=======
+# Puccinia hiascens Arthur SPECIES
 
 #### Status
 ACCEPTED

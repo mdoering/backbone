@@ -1,5 +1,4 @@
-Valsaria manihotis Chevaug. SPECIES
-=======
+# Valsaria manihotis Chevaug. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Euglena lepocincloides Drezepolski SPECIES
-=======
+# Euglena lepocincloides Drezepolski SPECIES
 
 #### Status
 ACCEPTED

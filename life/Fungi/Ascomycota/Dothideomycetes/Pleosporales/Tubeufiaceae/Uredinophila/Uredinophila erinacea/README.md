@@ -1,14 +1,13 @@
-Ophionectria erinacea Rehm, 1913 SPECIES
-=======
+# Uredinophila erinacea (Rehm) Rossman, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Pap. 157: 43 (1987)
 
 #### Original name
 Ophionectria erinacea Rehm, 1913

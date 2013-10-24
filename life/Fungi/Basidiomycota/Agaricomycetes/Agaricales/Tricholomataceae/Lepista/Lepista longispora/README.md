@@ -1,5 +1,4 @@
-Lepista longispora Pegler & R.W. Rayner SPECIES
-=======
+# Lepista longispora Pegler & R.W. Rayner SPECIES
 
 #### Status
 ACCEPTED

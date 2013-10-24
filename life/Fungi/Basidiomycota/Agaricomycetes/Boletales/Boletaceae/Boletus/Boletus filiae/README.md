@@ -1,5 +1,4 @@
-Boletus filiae Gillet SPECIES
-=======
+# Boletus filiae Gillet SPECIES
 
 #### Status
 ACCEPTED

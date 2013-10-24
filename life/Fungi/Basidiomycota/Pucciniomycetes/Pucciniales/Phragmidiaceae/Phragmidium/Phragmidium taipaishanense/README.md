@@ -1,5 +1,4 @@
-Phragmidium taipaishanense Y.C. Wang SPECIES
-=======
+# Phragmidium taipaishanense Y.C. Wang SPECIES
 
 #### Status
 ACCEPTED

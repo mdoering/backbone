@@ -1,5 +1,4 @@
-Cylindrosporium pentagynae Ibrah. SPECIES
-=======
+# Cylindrosporium pentagynae Ibrah. SPECIES
 
 #### Status
 ACCEPTED

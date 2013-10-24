@@ -1,14 +1,13 @@
-Morchella fusca Pers., 1822 SPECIES
-=======
+# Mitrophora fusca (Pers.) Lév., 1846 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. eur. (Erlanga) 1: 205 (1822)
+null
 
 #### Original name
 Morchella fusca Pers., 1822

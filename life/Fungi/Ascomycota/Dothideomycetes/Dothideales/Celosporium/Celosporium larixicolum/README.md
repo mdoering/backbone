@@ -1,5 +1,4 @@
-Celosporium larixicolum Tsuneda & Davey, 2010 SPECIES
-=======
+# Celosporium larixicolum Tsuneda & Davey, 2010 SPECIES
 
 #### Status
 ACCEPTED

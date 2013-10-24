@@ -1,5 +1,4 @@
-Tubodiscus jurapelagicus SPECIES
-=======
+# Tubodiscus jurapelagicus SPECIES
 
 #### Status
 ACCEPTED

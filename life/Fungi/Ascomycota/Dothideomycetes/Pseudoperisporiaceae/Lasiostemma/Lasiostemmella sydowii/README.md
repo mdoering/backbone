@@ -1,5 +1,4 @@
-Lasiostemmella sydowii Petr. SPECIES
-=======
+# Lasiostemmella sydowii Petr. SPECIES
 
 #### Status
 ACCEPTED

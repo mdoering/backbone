@@ -1,5 +1,4 @@
-Sargassum silvae C.K. Tseng & B. Lu SPECIES
-=======
+# Sargassum silvae C.K. Tseng & B. Lu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspergillus pseudoflavus Saito SPECIES
-=======
+# Aspergillus pseudoflavus Saito SPECIES
 
 #### Status
 ACCEPTED

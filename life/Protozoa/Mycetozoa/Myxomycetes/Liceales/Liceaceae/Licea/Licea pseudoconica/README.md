@@ -1,5 +1,4 @@
-Licea pseudoconica T.E. Brooks & H.W. Keller, 1977 SPECIES
-=======
+# Licea pseudoconica T.E. Brooks & H.W. Keller, 1977 SPECIES
 
 #### Status
 ACCEPTED

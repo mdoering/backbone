@@ -1,5 +1,4 @@
-Psorothecium submarginiflexa (Vain.) Yasuda SPECIES
-=======
+# Psorothecium submarginiflexa (Vain.) Yasuda SPECIES
 
 #### Status
 ACCEPTED

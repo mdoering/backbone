@@ -1,5 +1,4 @@
-Tricholoma allescheri (Britzelm.) Sacc. SPECIES
-=======
+# Tricholoma allescheri (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

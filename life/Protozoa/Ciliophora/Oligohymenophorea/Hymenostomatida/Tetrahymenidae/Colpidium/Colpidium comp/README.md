@@ -1,5 +1,4 @@
-Colpidium comp SPECIES
-=======
+# Colpidium comp SPECIES
 
 #### Status
 ACCEPTED

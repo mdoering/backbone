@@ -1,5 +1,4 @@
-Rhodophyllus hyalodepas (Berk. & Broome) E. Horak SPECIES
-=======
+# Rhodophyllus hyalodepas (Berk. & Broome) E. Horak SPECIES
 
 #### Status
 ACCEPTED

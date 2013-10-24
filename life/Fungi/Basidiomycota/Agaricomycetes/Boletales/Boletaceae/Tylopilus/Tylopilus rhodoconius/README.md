@@ -1,5 +1,4 @@
-Tylopilus rhodoconius (Singer) T.J. Baroni, Both & Bessette SPECIES
-=======
+# Tylopilus rhodoconius (Singer) T.J. Baroni, Both & Bessette SPECIES
 
 #### Status
 ACCEPTED

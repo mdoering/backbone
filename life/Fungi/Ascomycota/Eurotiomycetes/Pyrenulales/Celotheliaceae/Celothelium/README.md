@@ -1,5 +1,4 @@
-Celothelium A. Massal. GENUS
-=======
+# Celothelium A. Massal. GENUS
 
 #### Status
 ACCEPTED

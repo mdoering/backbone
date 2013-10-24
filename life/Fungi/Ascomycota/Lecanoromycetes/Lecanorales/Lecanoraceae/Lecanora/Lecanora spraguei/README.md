@@ -1,5 +1,4 @@
-Lecanora spraguei (Tuck.) Tuck. SPECIES
-=======
+# Lecanora spraguei (Tuck.) Tuck. SPECIES
 
 #### Status
 ACCEPTED

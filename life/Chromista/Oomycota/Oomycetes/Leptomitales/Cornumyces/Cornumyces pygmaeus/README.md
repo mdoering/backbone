@@ -1,17 +1,16 @@
-Lagenidium pygmaeum var. pygmaeum Zopf VARIETY
-=======
+# Cornumyces pygmaeus (Zopf) M.W. Dick, 2001 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Straminipilous Fungi (Dordrecht) 327 (2001)
 
 #### Original name
-Lagenidium pygmaeum var. pygmaeum Zopf
+Lagenidium pygmaeum Zopf, 1888
 
 ### Remarks
 null

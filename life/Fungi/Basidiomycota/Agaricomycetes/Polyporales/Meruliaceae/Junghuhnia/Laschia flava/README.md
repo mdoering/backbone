@@ -1,5 +1,4 @@
-Laschia flava Bres. SPECIES
-=======
+# Laschia flava Bres. SPECIES
 
 #### Status
 ACCEPTED

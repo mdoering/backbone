@@ -1,5 +1,4 @@
-Hyaloscypha itermissa anon. SPECIES
-=======
+# Hyaloscypha itermissa anon. SPECIES
 
 #### Status
 ACCEPTED

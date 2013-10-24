@@ -1,5 +1,4 @@
-Polyplocium inquinans Berk. SPECIES
-=======
+# Polyplocium inquinans Berk. SPECIES
 
 #### Status
 ACCEPTED

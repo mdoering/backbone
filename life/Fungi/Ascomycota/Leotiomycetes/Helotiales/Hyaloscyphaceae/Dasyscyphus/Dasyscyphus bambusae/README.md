@@ -1,17 +1,16 @@
-Dasyscypha bambusae Rick SPECIES
-=======
+# Dasyscyphus bambusae Rick SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Brotéria, sér. bot. 25: 204 (1931)
 
 #### Original name
-Dasyscypha bambusae Rick
+Dasyscyphus bambusae Rick
 
 ### Remarks
 null

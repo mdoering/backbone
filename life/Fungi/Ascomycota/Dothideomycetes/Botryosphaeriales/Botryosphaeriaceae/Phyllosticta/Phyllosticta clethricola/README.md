@@ -1,5 +1,4 @@
-Phyllosticta clethricola Ellis & G. Martin SPECIES
-=======
+# Phyllosticta clethricola Ellis & G. Martin SPECIES
 
 #### Status
 ACCEPTED

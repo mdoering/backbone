@@ -1,5 +1,4 @@
-Ammoastuta Cushman & Bronnimann, 1948 GENUS
-=======
+# Ammoastuta Cushman & Bronnimann, 1948 GENUS
 
 #### Status
 ACCEPTED

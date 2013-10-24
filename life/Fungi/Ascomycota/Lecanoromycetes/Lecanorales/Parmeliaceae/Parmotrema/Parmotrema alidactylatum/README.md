@@ -1,5 +1,4 @@
-Parmotrema alidactylatum Estrabou & Adler SPECIES
-=======
+# Parmotrema alidactylatum Estrabou & Adler SPECIES
 
 #### Status
 ACCEPTED

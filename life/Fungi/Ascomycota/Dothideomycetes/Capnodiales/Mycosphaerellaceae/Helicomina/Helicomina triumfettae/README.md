@@ -1,5 +1,4 @@
-Helicomina triumfettae (Henn.) Deighton SPECIES
-=======
+# Helicomina triumfettae (Henn.) Deighton SPECIES
 
 #### Status
 ACCEPTED

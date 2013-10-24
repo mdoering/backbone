@@ -1,5 +1,4 @@
-Pirottaea yakutatiana Sacc. SPECIES
-=======
+# Pirottaea yakutatiana Sacc. SPECIES
 
 #### Status
 ACCEPTED

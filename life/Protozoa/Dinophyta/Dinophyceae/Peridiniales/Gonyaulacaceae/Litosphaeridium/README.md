@@ -1,5 +1,4 @@
-Litosphaeridium R.J.Davey & G.L.Williams, 1966 GENUS
-=======
+# Litosphaeridium R.J.Davey & G.L.Williams, 1966 GENUS
 
 #### Status
 ACCEPTED

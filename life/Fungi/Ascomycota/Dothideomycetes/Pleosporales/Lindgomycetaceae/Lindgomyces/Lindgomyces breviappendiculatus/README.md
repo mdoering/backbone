@@ -1,5 +1,4 @@
-Lindgomyces breviappendiculatus (Kaz. Tanaka, Sat. Hatak. & Y. Harada) K. Hirayama & Kaz. Tanaka, 2010 SPECIES
-=======
+# Lindgomyces breviappendiculatus (Kaz. Tanaka, Sat. Hatak. & Y. Harada) K. Hirayama & Kaz. Tanaka, 2010 SPECIES
 
 #### Status
 ACCEPTED

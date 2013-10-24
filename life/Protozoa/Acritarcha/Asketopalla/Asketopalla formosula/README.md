@@ -1,5 +1,4 @@
-Asketopalla formosula Loeblich & Tappan, 1969 emend. Loeblich & Tappan, 1971 SPECIES
-=======
+# Asketopalla formosula Loeblich & Tappan, 1969 emend. Loeblich & Tappan, 1971 SPECIES
 
 #### Status
 ACCEPTED

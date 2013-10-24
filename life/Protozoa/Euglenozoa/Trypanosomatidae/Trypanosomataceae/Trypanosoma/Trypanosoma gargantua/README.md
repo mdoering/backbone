@@ -1,5 +1,4 @@
-Trypanosoma gargantua Laird, 1951 SPECIES
-=======
+# Trypanosoma gargantua Laird, 1951 SPECIES
 
 #### Status
 ACCEPTED

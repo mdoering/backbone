@@ -1,5 +1,4 @@
-Psathyrella rugoproxima (C.S. Parker) A.H. Sm. SPECIES
-=======
+# Psathyrella rugoproxima (C.S. Parker) A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physalospora protuberans (Fuckel) Sacc. SPECIES
-=======
+# Physalospora protuberans (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

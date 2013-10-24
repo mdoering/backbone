@@ -1,17 +1,16 @@
-Oidiodendron enchinulatum G.L. Barron SPECIES
-=======
+# Oidiodendron echinulatum G.L. Barron, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Can. J. Bot. 40: 595 (1962)
 
 #### Original name
-Oidiodendron enchinulatum G.L. Barron
+Oidiodendron echinulatum G.L. Barron, 1962
 
 ### Remarks
 null

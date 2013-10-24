@@ -1,5 +1,4 @@
-Phylloedia faginea (Lib.) Sacc. SPECIES
-=======
+# Phylloedia faginea (Lib.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

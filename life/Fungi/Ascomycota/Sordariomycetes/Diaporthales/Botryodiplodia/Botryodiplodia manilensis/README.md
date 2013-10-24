@@ -1,5 +1,4 @@
-Botryodiplodia manilensis (Sacc.) Petr. & Syd. SPECIES
-=======
+# Botryodiplodia manilensis (Sacc.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

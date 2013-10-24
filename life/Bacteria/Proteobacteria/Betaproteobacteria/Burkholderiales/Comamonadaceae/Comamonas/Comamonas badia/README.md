@@ -1,5 +1,4 @@
-Comamonas badia Tago & Yokota, 2005 SPECIES
-=======
+# Comamonas badia Tago & Yokota, 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phellinus undulatus (Murrill) Ryvarden SPECIES
-=======
+# Phellinus undulatus (Murrill) Ryvarden SPECIES
 
 #### Status
 ACCEPTED

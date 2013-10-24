@@ -1,5 +1,4 @@
-Phyllosticta azevinhi Torrend SPECIES
-=======
+# Phyllosticta azevinhi Torrend SPECIES
 
 #### Status
 ACCEPTED

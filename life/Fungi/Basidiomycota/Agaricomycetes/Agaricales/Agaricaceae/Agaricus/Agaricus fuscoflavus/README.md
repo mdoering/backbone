@@ -1,5 +1,4 @@
-Agaricus fuscoflavus With. SPECIES
-=======
+# Agaricus fuscoflavus With. SPECIES
 
 #### Status
 ACCEPTED

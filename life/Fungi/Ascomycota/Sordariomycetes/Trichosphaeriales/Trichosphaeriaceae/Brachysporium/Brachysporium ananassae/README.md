@@ -1,5 +1,4 @@
-Brachysporium ananassae Sawada SPECIES
-=======
+# Brachysporium ananassae Sawada SPECIES
 
 #### Status
 ACCEPTED

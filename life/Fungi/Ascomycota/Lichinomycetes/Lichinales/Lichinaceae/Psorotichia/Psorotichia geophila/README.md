@@ -1,5 +1,4 @@
-Psorotichia geophila Hy SPECIES
-=======
+# Psorotichia geophila Hy SPECIES
 
 #### Status
 ACCEPTED

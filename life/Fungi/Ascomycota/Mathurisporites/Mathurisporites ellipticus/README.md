@@ -1,5 +1,4 @@
-Mathurisporites ellipticus (Y.K. Mathur & K. Mathur) Kalgutkar & Janson. SPECIES
-=======
+# Mathurisporites ellipticus (Y.K. Mathur & K. Mathur) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

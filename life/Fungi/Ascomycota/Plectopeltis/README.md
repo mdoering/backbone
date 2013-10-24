@@ -1,5 +1,4 @@
-Plectopeltis Syd. GENUS
-=======
+# Plectopeltis Syd. GENUS
 
 #### Status
 ACCEPTED

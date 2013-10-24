@@ -1,5 +1,4 @@
-Sepedonium tulasneanum Sacc. SPECIES
-=======
+# Sepedonium tulasneanum Sacc. SPECIES
 
 #### Status
 ACCEPTED

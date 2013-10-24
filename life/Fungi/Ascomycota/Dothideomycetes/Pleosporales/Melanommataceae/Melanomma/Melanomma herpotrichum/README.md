@@ -1,5 +1,4 @@
-Melanomma herpotrichum Feltgen SPECIES
-=======
+# Melanomma herpotrichum Feltgen SPECIES
 
 #### Status
 ACCEPTED

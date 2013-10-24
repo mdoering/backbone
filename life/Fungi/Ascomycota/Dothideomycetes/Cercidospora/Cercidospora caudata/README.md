@@ -1,5 +1,4 @@
-Cercidospora caudata Kernst. SPECIES
-=======
+# Cercidospora caudata Kernst. SPECIES
 
 #### Status
 ACCEPTED

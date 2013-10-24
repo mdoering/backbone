@@ -1,5 +1,4 @@
-Lachnellula phyllocladi (Dennis) Dennis SPECIES
-=======
+# Lachnellula phyllocladi (Dennis) Dennis SPECIES
 
 #### Status
 ACCEPTED

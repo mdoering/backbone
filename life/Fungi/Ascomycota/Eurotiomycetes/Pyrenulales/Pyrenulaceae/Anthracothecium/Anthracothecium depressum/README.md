@@ -1,5 +1,4 @@
-Anthracothecium depressum Müll. Arg. SPECIES
-=======
+# Anthracothecium depressum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

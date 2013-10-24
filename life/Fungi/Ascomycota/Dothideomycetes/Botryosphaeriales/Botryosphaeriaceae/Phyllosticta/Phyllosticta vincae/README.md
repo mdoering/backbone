@@ -1,5 +1,4 @@
-Phyllosticta vincae var. vincae VARIETY
-=======
+# Phyllosticta vincae Thüm. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phyllosticta vincae var. vincae
+Phyllosticta vincae Thüm.
 
 ### Remarks
 null

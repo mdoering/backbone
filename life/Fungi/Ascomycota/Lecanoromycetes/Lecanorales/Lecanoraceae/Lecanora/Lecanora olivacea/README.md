@@ -1,5 +1,4 @@
-Lecanora olivacea (Dufour) Nyl. SPECIES
-=======
+# Lecanora olivacea (Dufour) Nyl. SPECIES
 
 #### Status
 ACCEPTED

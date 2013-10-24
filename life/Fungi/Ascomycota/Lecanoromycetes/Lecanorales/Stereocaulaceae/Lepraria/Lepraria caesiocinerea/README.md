@@ -1,5 +1,4 @@
-Lepraria caesiocinerea Pers. SPECIES
-=======
+# Lepraria caesiocinerea Pers. SPECIES
 
 #### Status
 ACCEPTED

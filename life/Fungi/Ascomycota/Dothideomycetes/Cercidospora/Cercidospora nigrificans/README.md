@@ -1,5 +1,4 @@
-Cercidospora nigrificans (P. Karst.) Kuntze SPECIES
-=======
+# Cercidospora nigrificans (P. Karst.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

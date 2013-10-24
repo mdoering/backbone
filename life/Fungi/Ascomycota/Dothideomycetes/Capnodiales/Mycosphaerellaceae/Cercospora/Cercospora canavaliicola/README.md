@@ -1,5 +1,4 @@
-Cercospora canavaliicola Sawada & Katsuki SPECIES
-=======
+# Cercospora canavaliicola Sawada & Katsuki SPECIES
 
 #### Status
 ACCEPTED

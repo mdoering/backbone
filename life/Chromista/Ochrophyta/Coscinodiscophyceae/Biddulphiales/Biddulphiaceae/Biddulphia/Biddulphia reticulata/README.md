@@ -1,5 +1,4 @@
-Biddulphia reticulata Roper SPECIES
-=======
+# Biddulphia reticulata Roper SPECIES
 
 #### Status
 ACCEPTED

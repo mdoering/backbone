@@ -1,5 +1,4 @@
-Anthracothecium sublaevigatum Patw. & Makhija SPECIES
-=======
+# Anthracothecium sublaevigatum Patw. & Makhija SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psilocistella jasmini Raitv. & R. Galán SPECIES
-=======
+# Psilocistella jasmini Raitv. & R. Galán SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia scaevolincola Petr. SPECIES
-=======
+# Puccinia scaevolincola Petr. SPECIES
 
 #### Status
 ACCEPTED

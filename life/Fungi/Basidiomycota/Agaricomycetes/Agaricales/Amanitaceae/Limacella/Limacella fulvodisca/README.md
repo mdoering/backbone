@@ -1,5 +1,4 @@
-Limacella fulvodisca (Peck) Murrill SPECIES
-=======
+# Limacella fulvodisca (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

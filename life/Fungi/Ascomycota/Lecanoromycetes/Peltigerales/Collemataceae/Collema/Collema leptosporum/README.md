@@ -1,5 +1,4 @@
-Collema leptosporum Malme SPECIES
-=======
+# Collema leptosporum Malme SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Pyxidium arboricola Biegel, 1954 SPECIES
-=======
+# Opercularia curvicaulis (Penard, 1922) Foissner, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

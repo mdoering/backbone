@@ -1,5 +1,4 @@
-Peltula japonica (Asahina) Yoshim. SPECIES
-=======
+# Peltula japonica (Asahina) Yoshim. SPECIES
 
 #### Status
 ACCEPTED

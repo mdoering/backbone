@@ -1,5 +1,4 @@
-Puccinia hypoxidis McAlpine SPECIES
-=======
+# Puccinia hypoxidis McAlpine SPECIES
 
 #### Status
 ACCEPTED

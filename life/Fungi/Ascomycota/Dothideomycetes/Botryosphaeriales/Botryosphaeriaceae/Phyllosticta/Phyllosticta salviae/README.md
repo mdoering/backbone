@@ -1,5 +1,4 @@
-Phyllosticta salviae Sandu & Mítítíuc SPECIES
-=======
+# Phyllosticta salviae Sandu & Mítítíuc SPECIES
 
 #### Status
 ACCEPTED

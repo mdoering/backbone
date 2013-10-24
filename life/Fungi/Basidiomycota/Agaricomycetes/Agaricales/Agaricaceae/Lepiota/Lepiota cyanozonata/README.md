@@ -1,5 +1,4 @@
-Lepiota cyanozonata Longyear SPECIES
-=======
+# Lepiota cyanozonata Longyear SPECIES
 
 #### Status
 ACCEPTED

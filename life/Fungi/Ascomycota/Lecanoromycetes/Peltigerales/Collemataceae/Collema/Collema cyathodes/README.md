@@ -1,5 +1,4 @@
-Collema cyathodes (A. Massal.) Nyl. SPECIES
-=======
+# Collema cyathodes (A. Massal.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

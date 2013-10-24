@@ -1,5 +1,4 @@
-Chroococcus fuscoviolaceus Hansgirg SPECIES
-=======
+# Chroococcus fuscoviolaceus Hansgirg SPECIES
 
 #### Status
 ACCEPTED

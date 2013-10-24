@@ -1,5 +1,4 @@
-Xanthoparmelia lynii Elix & J. Johnst. SPECIES
-=======
+# Xanthoparmelia lynii Elix & J. Johnst. SPECIES
 
 #### Status
 ACCEPTED

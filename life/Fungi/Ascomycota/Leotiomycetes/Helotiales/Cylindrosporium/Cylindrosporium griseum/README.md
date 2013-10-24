@@ -1,5 +1,4 @@
-Cylindrosporium griseum Heald & F.A. Wolf SPECIES
-=======
+# Cylindrosporium griseum Heald & F.A. Wolf SPECIES
 
 #### Status
 ACCEPTED

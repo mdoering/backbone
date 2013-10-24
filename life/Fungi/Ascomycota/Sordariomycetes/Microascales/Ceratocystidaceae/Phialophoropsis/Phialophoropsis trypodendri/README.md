@@ -1,5 +1,4 @@
-Phialophoropsis trypodendri L.R. Batra SPECIES
-=======
+# Phialophoropsis trypodendri L.R. Batra SPECIES
 
 #### Status
 ACCEPTED

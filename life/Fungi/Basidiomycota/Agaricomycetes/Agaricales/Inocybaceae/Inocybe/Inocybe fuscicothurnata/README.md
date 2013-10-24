@@ -1,5 +1,4 @@
-Inocybe fuscicothurnata Grund & D.E. Stuntz SPECIES
-=======
+# Inocybe fuscicothurnata Grund & D.E. Stuntz SPECIES
 
 #### Status
 ACCEPTED

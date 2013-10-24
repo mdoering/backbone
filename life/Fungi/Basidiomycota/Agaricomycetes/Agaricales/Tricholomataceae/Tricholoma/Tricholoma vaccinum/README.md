@@ -1,17 +1,16 @@
-Tricholoma vaccinum var. fulvosquamulosum Bon VARIETY
-=======
+# Tricholoma vaccinum (Schaeff.) P. Kumm., 1871 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Führ. Pilzk. (Zwickau) 133 (1871)
 
 #### Original name
-null
+Agaricus vaccinus Schaeff., 1774
 
 ### Remarks
 null

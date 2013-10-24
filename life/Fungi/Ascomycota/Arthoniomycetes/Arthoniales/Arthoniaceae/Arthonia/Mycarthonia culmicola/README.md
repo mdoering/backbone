@@ -1,5 +1,4 @@
-Mycarthonia culmicola (Petr.) Petr. SPECIES
-=======
+# Mycarthonia culmicola (Petr.) Petr. SPECIES
 
 #### Status
 ACCEPTED

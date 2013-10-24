@@ -1,5 +1,4 @@
-Phomopsis conspicua Syd. & P. Syd. SPECIES
-=======
+# Phomopsis conspicua Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

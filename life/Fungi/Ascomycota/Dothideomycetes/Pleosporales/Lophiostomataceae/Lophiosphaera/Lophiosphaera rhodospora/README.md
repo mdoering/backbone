@@ -1,5 +1,4 @@
-Lophiosphaera rhodospora Ellis & Everh. SPECIES
-=======
+# Lophiosphaera rhodospora Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bagliettoa sphinctrinella (Zschacke) Gams SPECIES
-=======
+# Bagliettoa sphinctrinella (Zschacke) Gams SPECIES
 
 #### Status
 ACCEPTED

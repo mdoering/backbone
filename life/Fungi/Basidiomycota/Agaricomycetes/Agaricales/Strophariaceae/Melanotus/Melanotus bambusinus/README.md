@@ -1,5 +1,4 @@
-Melanotus bambusinus (Pat.) Pat. SPECIES
-=======
+# Melanotus bambusinus (Pat.) Pat. SPECIES
 
 #### Status
 ACCEPTED

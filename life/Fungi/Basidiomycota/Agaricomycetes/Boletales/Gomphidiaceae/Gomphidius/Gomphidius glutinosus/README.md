@@ -1,17 +1,16 @@
-Cortinarius viscidus atropunctus (Pers.) Gray, 1821 INFRASPECIFIC_NAME
-=======
+# Gomphidius glutinosus (Schaeff.) Fr., 1838 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Epicr. syst. mycol. (Upsaliae) 319 (1838)
 
 #### Original name
-null
+Agaricus glutinosus Schaeff., 1774
 
 ### Remarks
 null

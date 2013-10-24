@@ -1,5 +1,4 @@
-Chytridium aggregatum Karling SPECIES
-=======
+# Chytridium aggregatum Karling SPECIES
 
 #### Status
 ACCEPTED

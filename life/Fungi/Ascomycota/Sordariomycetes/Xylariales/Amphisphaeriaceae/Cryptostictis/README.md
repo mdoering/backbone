@@ -1,5 +1,4 @@
-Cryptostictis GENUS
-=======
+# Cryptostictis GENUS
 
 #### Status
 ACCEPTED

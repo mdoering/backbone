@@ -1,5 +1,4 @@
-Amphoridium algovicum (Servít) Servít SPECIES
-=======
+# Amphoridium algovicum (Servít) Servít SPECIES
 
 #### Status
 ACCEPTED

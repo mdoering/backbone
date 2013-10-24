@@ -1,5 +1,4 @@
-Pezicula amoena Tul. & C. Tul., 1865 SPECIES
-=======
+# Pezicula amoena Tul. & C. Tul., 1865 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Neobarya lichenophila (Ferd. & Winge) Lowen & Samuels SPECIES
-=======
+# Neobarya lichenophila (Ferd. & Winge) Lowen & Samuels SPECIES
 
 #### Status
 ACCEPTED

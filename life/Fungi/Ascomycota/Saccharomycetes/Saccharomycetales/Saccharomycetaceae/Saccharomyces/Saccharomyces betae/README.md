@@ -1,5 +1,4 @@
-Saccharomyces betae Burgwitz SPECIES
-=======
+# Saccharomyces betae Burgwitz SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cetraria leucostigma Lév. SPECIES
-=======
+# Cetraria leucostigma Lév. SPECIES
 
 #### Status
 ACCEPTED

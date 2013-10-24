@@ -1,8 +1,7 @@
-Flavobacterium odoratum Stutzer, 1929 (Approved Lists, 1980) SPECIES
-=======
+# Myroides odoratus (Stutzer, 1929) Vancanneyt et al., 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

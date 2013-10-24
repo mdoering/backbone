@@ -1,5 +1,4 @@
-Thelidium subrubellum M. Choisy SPECIES
-=======
+# Thelidium subrubellum M. Choisy SPECIES
 
 #### Status
 ACCEPTED

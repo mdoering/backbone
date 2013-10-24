@@ -1,5 +1,4 @@
-Amaurodon J. Schröter, 1888 GENUS
-=======
+# Amaurodon J. Schröter, 1888 GENUS
 
 #### Status
 ACCEPTED

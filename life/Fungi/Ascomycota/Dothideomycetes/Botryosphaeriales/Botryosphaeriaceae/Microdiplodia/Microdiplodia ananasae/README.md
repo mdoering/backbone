@@ -1,5 +1,4 @@
-Microdiplodia ananasae S.M. Singh & G.P. Agarwal SPECIES
-=======
+# Microdiplodia ananasae S.M. Singh & G.P. Agarwal SPECIES
 
 #### Status
 ACCEPTED

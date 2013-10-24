@@ -1,5 +1,4 @@
-Distarcon GENUS
-=======
+# Distarcon GENUS
 
 #### Status
 ACCEPTED

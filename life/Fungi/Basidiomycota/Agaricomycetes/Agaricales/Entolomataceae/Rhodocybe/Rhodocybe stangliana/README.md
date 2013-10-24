@@ -1,17 +1,16 @@
-Clitopilus stanglianus (Bresinsky & Pfaff) Noordel. & Co-David, 2009 SPECIES
-=======
+# Rhodocybe stangliana (Bresinsky & Pfaff) Riousset & Joss., 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. mens. Soc. linn. Lyon 46(5): 125 (1977)
 
 #### Original name
-null
+Squamanita stangliana Bresinsky & Pfaff, 1969
 
 ### Remarks
 null

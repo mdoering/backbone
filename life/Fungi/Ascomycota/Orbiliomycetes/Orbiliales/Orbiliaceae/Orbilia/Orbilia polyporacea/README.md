@@ -1,5 +1,4 @@
-Orbilia polyporacea Velen. SPECIES
-=======
+# Orbilia polyporacea Velen. SPECIES
 
 #### Status
 ACCEPTED

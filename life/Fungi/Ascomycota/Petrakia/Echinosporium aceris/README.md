@@ -1,5 +1,4 @@
-Echinosporium aceris Woron. SPECIES
-=======
+# Echinosporium aceris Woron. SPECIES
 
 #### Status
 ACCEPTED

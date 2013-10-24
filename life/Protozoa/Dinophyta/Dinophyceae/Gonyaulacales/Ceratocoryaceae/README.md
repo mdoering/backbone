@@ -1,5 +1,4 @@
-Ceratocoryaceae Lindemann, 1928 FAMILY
-=======
+# Ceratocoryaceae Lindemann, 1928 FAMILY
 
 #### Status
 ACCEPTED

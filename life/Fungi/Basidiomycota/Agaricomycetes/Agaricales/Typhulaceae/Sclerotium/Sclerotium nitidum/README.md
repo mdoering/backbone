@@ -1,5 +1,4 @@
-Sclerotium nitidum Pers. SPECIES
-=======
+# Sclerotium nitidum Pers. SPECIES
 
 #### Status
 ACCEPTED

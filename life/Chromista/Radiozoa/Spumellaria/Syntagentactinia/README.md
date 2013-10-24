@@ -1,5 +1,4 @@
-Syntagentactinia Nazarov in Nazarov & Popov, 1980 GENUS
-=======
+# Syntagentactinia Nazarov in Nazarov & Popov, 1980 GENUS
 
 #### Status
 ACCEPTED

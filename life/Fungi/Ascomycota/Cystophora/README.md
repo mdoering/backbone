@@ -1,5 +1,4 @@
-Cystophora GENUS
-=======
+# Cystophora GENUS
 
 #### Status
 ACCEPTED

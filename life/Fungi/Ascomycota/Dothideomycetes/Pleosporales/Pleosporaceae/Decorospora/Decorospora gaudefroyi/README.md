@@ -1,14 +1,13 @@
-Pleospora gaudefroyi Pat., 1886 SPECIES
-=======
+# Decorospora gaudefroyi (Pat.) Inderb., Kohlm. & Volkm.-Kohlm., 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Tabl. analyt. Fung. France (Paris) 10: 40 (no. 602) (1886)
+in Inderbitzin, Kohlmeyer, Volkmann-Kohlmeyer & Berbee, Mycol. Progr. 1(4): 657 (2002)
 
 #### Original name
 Pleospora gaudefroyi Pat., 1886

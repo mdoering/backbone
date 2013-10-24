@@ -1,5 +1,4 @@
-Menegazzia circumsorediata R. Sant. SPECIES
-=======
+# Menegazzia circumsorediata R. Sant. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Glenospora sacchari Speg., 1896 SPECIES
-=======
+# Nigrospora sacchari (Speg.) E.W. Mason, 1927 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revta Fac. Agron. Vet. Univ. nac. La Plata 248 (1896)
+Trans. Br. mycol. Soc. 12: 161 (1927)
 
 #### Original name
 Glenospora sacchari Speg., 1896

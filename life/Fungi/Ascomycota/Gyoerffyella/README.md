@@ -1,17 +1,16 @@
-Ingoldia R.H. Petersen GENUS
-=======
+# Gyoerffyella Kol, 1928 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Mycologia 54(2): 147 (1962)
+null
 
 #### Original name
-Ingoldia R.H. Petersen
+null
 
 ### Remarks
 null

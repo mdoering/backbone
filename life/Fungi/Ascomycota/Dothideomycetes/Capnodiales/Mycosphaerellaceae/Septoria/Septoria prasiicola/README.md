@@ -1,5 +1,4 @@
-Septoria prasiicola Tassi SPECIES
-=======
+# Septoria prasiicola Tassi SPECIES
 
 #### Status
 ACCEPTED

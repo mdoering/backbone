@@ -1,5 +1,4 @@
-Phoma citrullicola Sawada SPECIES
-=======
+# Phoma citrullicola Sawada SPECIES
 
 #### Status
 ACCEPTED

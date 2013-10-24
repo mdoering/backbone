@@ -1,5 +1,4 @@
-Janickina pigmentifera (Grassi, 1879) SPECIES
-=======
+# Janickina pigmentifera (Grassi, 1879) SPECIES
 
 #### Status
 ACCEPTED

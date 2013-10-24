@@ -1,5 +1,4 @@
-Psora nigrorufa B. de Lesd. SPECIES
-=======
+# Psora nigrorufa B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

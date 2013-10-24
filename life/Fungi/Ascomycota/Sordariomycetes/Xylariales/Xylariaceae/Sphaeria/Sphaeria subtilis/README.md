@@ -1,5 +1,4 @@
-Sphaeria subtilis Mart. SPECIES
-=======
+# Sphaeria subtilis Mart. SPECIES
 
 #### Status
 ACCEPTED

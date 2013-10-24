@@ -1,5 +1,4 @@
-Winterina crustosa (Ellis & Everh.) Sacc. SPECIES
-=======
+# Winterina crustosa (Ellis & Everh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

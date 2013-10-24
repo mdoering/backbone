@@ -1,5 +1,4 @@
-Snowella Elenkin, 1938 GENUS
-=======
+# Snowella Elenkin, 1938 GENUS
 
 #### Status
 ACCEPTED

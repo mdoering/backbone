@@ -1,5 +1,4 @@
-Falcivibrio vaginalis Hammann et al., 1984 SPECIES
-=======
+# Falcivibrio vaginalis Hammann et al., 1984 SPECIES
 
 #### Status
 ACCEPTED

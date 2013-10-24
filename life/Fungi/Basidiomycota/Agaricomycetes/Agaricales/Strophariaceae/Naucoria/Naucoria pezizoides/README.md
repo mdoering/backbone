@@ -1,5 +1,4 @@
-Naucoria pezizoides Kirschst. SPECIES
-=======
+# Naucoria pezizoides Kirschst. SPECIES
 
 #### Status
 ACCEPTED

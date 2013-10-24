@@ -1,5 +1,4 @@
-Euglena pseudospiroides Swirenko SPECIES
-=======
+# Euglena pseudospiroides Swirenko SPECIES
 
 #### Status
 ACCEPTED

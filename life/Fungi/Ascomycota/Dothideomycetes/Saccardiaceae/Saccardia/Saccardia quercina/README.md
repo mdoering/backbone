@@ -1,5 +1,4 @@
-Saccardia quercina Cooke, 1878 SPECIES
-=======
+# Saccardia quercina Cooke, 1878 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sclerotium hypocreaemorphum Ces. SPECIES
-=======
+# Sclerotium hypocreaemorphum Ces. SPECIES
 
 #### Status
 ACCEPTED

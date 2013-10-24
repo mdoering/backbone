@@ -1,5 +1,4 @@
-Hypoxylon vitalii Bat. SPECIES
-=======
+# Hypoxylon vitalii Bat. SPECIES
 
 #### Status
 ACCEPTED

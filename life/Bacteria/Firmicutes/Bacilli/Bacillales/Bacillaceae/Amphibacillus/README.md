@@ -1,5 +1,4 @@
-Amphibacillus Niimura et al., 1990 GENUS
-=======
+# Amphibacillus Niimura et al., 1990 GENUS
 
 #### Status
 ACCEPTED

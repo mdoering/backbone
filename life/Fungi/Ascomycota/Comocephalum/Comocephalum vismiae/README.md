@@ -1,5 +1,4 @@
-Comocephalum vismiae Syd., 1939 SPECIES
-=======
+# Comocephalum vismiae Syd., 1939 SPECIES
 
 #### Status
 ACCEPTED

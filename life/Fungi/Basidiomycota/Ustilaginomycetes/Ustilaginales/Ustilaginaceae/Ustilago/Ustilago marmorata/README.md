@@ -1,5 +1,4 @@
-Ustilago marmorata Berk. SPECIES
-=======
+# Ustilago marmorata Berk. SPECIES
 
 #### Status
 ACCEPTED

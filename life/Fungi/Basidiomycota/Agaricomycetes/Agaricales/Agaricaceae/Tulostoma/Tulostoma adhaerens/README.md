@@ -1,5 +1,4 @@
-Tulostoma adhaerens Lloyd, 1923 SPECIES
-=======
+# Tulostoma adhaerens Lloyd, 1923 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspicilia bulbosa Motyka SPECIES
-=======
+# Aspicilia bulbosa Motyka SPECIES
 
 #### Status
 ACCEPTED

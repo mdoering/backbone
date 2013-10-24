@@ -1,5 +1,4 @@
-Chondrioderma stahlii Rostaf. SPECIES
-=======
+# Chondrioderma stahlii Rostaf. SPECIES
 
 #### Status
 ACCEPTED

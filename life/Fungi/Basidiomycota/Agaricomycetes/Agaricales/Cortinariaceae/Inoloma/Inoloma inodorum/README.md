@@ -1,5 +1,4 @@
-Inoloma inodorum Velen. SPECIES
-=======
+# Inoloma inodorum Velen. SPECIES
 
 #### Status
 ACCEPTED

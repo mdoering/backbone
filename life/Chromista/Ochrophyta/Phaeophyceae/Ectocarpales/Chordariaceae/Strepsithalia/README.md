@@ -1,5 +1,4 @@
-Strepsithalia Bornet ex Sauvageau, 1896 GENUS
-=======
+# Strepsithalia Bornet ex Sauvageau, 1896 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus zonatus Peck SPECIES
-=======
+# Agaricus zonatus Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buellia hypoleucodes (Nyl.) Zahlbr. SPECIES
-=======
+# Buellia hypoleucodes (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Leptosphaeria holmskjoeldii (P. Karst.) Chi Y. Chen & W.H. Hsieh SPECIES
-=======
+# Leptosphaeria holmskjoldii (P. Karst.) Chi Y. Chen & W.H. Hsieh SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Chen, David & Hsieh, IMI Descr. Fungi Bact. 154(nos 1531-1540): [10] (2002)
 
 #### Original name
 Sphaeria holmskjoldii P. Karst.

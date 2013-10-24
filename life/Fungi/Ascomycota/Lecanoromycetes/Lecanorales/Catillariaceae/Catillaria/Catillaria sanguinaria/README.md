@@ -1,5 +1,4 @@
-Catillaria sanguinaria Darb. SPECIES
-=======
+# Catillaria sanguinaria Darb. SPECIES
 
 #### Status
 ACCEPTED

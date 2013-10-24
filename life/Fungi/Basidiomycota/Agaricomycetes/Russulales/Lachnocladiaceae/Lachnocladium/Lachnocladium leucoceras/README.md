@@ -1,5 +1,4 @@
-Lachnocladium leucoceras Pat. SPECIES
-=======
+# Lachnocladium leucoceras Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria tavaresiae R.L. Moe SPECIES
-=======
+# Verrucaria tavaresiae R.L. Moe SPECIES
 
 #### Status
 ACCEPTED

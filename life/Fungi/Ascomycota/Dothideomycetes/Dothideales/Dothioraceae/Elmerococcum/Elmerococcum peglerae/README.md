@@ -1,5 +1,4 @@
-Elmerococcum peglerae (Pole-Evans) Doidge SPECIES
-=======
+# Elmerococcum peglerae (Pole-Evans) Doidge SPECIES
 
 #### Status
 ACCEPTED

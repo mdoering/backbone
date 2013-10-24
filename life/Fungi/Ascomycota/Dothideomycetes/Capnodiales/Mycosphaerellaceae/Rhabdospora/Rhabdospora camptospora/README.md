@@ -1,5 +1,4 @@
-Rhabdospora camptospora Sacc. & Scalia SPECIES
-=======
+# Rhabdospora camptospora Sacc. & Scalia SPECIES
 
 #### Status
 ACCEPTED

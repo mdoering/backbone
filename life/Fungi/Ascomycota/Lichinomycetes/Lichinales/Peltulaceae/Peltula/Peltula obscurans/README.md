@@ -1,17 +1,16 @@
-Heppia subglebosa (Müll. Arg.) I.M. Lamb SPECIES
-=======
+# Peltula obscurans (Nyl.) Gyeln. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-An. Parques Nac. , Buenos Aires 7: 48 (1959)
+Repert. Spec. Nov. Regni Veg. 38: 308 (1935)
 
 #### Original name
-null
+Endocarpiscum obscurans Nyl.
 
 ### Remarks
 null

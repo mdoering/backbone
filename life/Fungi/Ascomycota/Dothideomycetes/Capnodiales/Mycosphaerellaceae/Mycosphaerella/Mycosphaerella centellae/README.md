@@ -1,5 +1,4 @@
-Mycosphaerella centellae Petr. SPECIES
-=======
+# Mycosphaerella centellae Petr. SPECIES
 
 #### Status
 ACCEPTED

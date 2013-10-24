@@ -1,5 +1,4 @@
-Collybia subluxurians (Murrill) Murrill SPECIES
-=======
+# Collybia subluxurians (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clitocybe californiensis H.E. Bigelow SPECIES
-=======
+# Clitocybe californiensis H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

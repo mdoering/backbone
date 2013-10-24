@@ -1,5 +1,4 @@
-Macrosporium hesperidearum E. Pantan. SPECIES
-=======
+# Macrosporium hesperidearum E. Pantan. SPECIES
 
 #### Status
 ACCEPTED

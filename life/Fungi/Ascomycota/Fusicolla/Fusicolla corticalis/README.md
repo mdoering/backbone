@@ -1,5 +1,4 @@
-Fusicolla corticalis P. Karst. SPECIES
-=======
+# Fusicolla corticalis P. Karst. SPECIES
 
 #### Status
 ACCEPTED

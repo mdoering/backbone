@@ -1,5 +1,4 @@
-Hygrocybe fuhreri A.M. Young SPECIES
-=======
+# Hygrocybe fuhreri A.M. Young SPECIES
 
 #### Status
 ACCEPTED

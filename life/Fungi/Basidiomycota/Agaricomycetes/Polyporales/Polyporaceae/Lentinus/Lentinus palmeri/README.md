@@ -1,5 +1,4 @@
-Lentinus palmeri (Earle) Sacc. & Traverso SPECIES
-=======
+# Lentinus palmeri (Earle) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

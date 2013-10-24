@@ -1,5 +1,4 @@
-Chytridiopsida ORDER
-=======
+# Chytridiopsida ORDER
 
 #### Status
 ACCEPTED

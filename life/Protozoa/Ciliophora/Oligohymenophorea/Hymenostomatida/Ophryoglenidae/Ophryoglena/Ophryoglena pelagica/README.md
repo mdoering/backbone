@@ -1,5 +1,4 @@
-Ophryoglena pelagica SPECIES
-=======
+# Ophryoglena pelagica SPECIES
 
 #### Status
 ACCEPTED

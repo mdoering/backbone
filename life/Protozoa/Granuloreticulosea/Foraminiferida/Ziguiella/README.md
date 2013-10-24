@@ -1,5 +1,4 @@
-Ziguiella Lin, 1980 GENUS
-=======
+# Ziguiella Lin, 1980 GENUS
 
 #### Status
 ACCEPTED

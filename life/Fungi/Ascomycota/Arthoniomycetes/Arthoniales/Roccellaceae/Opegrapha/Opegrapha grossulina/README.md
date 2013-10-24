@@ -1,5 +1,4 @@
-Opegrapha grossulina Müll. Arg. SPECIES
-=======
+# Opegrapha grossulina Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

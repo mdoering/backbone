@@ -1,5 +1,4 @@
-Gloeosporium kawakamii Miyabe SPECIES
-=======
+# Gloeosporium kawakamii Miyabe SPECIES
 
 #### Status
 ACCEPTED

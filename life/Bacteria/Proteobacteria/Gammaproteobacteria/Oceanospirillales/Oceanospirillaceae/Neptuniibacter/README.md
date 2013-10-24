@@ -1,5 +1,4 @@
-Neptuniibacter Arahal, Lekunberri, Gonzalez, Pascual, Pujalte, Pedros-Alio & Pinhassi, 2007 GENUS
-=======
+# Neptuniibacter Arahal, Lekunberri, Gonzalez, Pascual, Pujalte, Pedros-Alio & Pinhassi, 2007 GENUS
 
 #### Status
 ACCEPTED

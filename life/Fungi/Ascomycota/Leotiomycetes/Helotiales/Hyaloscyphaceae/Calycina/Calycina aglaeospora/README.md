@@ -1,5 +1,4 @@
-Calycina aglaeospora (Berk.) Kuntze SPECIES
-=======
+# Calycina aglaeospora (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

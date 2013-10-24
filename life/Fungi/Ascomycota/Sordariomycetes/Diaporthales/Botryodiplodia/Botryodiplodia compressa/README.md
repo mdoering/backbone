@@ -1,5 +1,4 @@
-Botryodiplodia compressa f. compressa FORM
-=======
+# Botryodiplodia compressa (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Botryodiplodia compressa f. compressa
+Diplodia compressa Cooke
 
 ### Remarks
 null

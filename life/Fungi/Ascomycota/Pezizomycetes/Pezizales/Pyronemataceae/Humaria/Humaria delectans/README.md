@@ -1,5 +1,4 @@
-Humaria delectans Starbäck SPECIES
-=======
+# Humaria delectans Starbäck SPECIES
 
 #### Status
 ACCEPTED

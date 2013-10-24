@@ -1,17 +1,16 @@
-Naucoria semiorbicularis var. semiorbicularis VARIETY
-=======
+# Agrocybe pediades (Fr.) Fayod, 1889 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mém. Soc. Émul. Montbéliard, Sér. 2 5: 439 (1872)
+Annls Sci. Nat. , Bot. , sér. 7 9: 358 (1889)
 
 #### Original name
-Naucoria semiorbicularis var. semiorbicularis
+Agaricus pediades Fr., 1821
 
 ### Remarks
 null

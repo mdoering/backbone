@@ -1,5 +1,4 @@
-Sagedia lactea Körb. SPECIES
-=======
+# Sagedia lactea Körb. SPECIES
 
 #### Status
 ACCEPTED

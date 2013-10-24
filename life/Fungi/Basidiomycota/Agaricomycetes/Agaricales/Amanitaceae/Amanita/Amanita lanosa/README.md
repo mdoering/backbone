@@ -1,5 +1,4 @@
-Amanita lanosa Beeli SPECIES
-=======
+# Amanita lanosa Beeli SPECIES
 
 #### Status
 ACCEPTED

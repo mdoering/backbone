@@ -1,5 +1,4 @@
-Phaeosphaeria cookei Shoemaker & C.E. Babc. SPECIES
-=======
+# Phaeosphaeria cookei Shoemaker & C.E. Babc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma peucedani Pass. SPECIES
-=======
+# Phoma peucedani Pass. SPECIES
 
 #### Status
 ACCEPTED

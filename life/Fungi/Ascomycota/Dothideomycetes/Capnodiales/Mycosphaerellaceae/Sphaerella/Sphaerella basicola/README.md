@@ -1,5 +1,4 @@
-Sphaerella basicola A.B. Frank SPECIES
-=======
+# Sphaerella basicola A.B. Frank SPECIES
 
 #### Status
 ACCEPTED

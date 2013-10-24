@@ -1,17 +1,16 @@
-Cladonia cornucopioides f. arrosa F. Wilson FORM
-=======
+# Cladonia weymouthii F. Wilson ex A. W. Archer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Pap. Proc. R. Soc. Tasm. 151 (1893)
+Muelleria 6(1-2): 94 (1985)
 
 #### Original name
-Cladonia cornucopioides f. arrosa F. Wilson
+Cladonia weymouthii F. Wilson ex A. W. Archer
 
 ### Remarks
 null

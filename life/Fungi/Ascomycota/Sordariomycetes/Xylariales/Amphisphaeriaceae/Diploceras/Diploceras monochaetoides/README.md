@@ -1,5 +1,4 @@
-Diploceras monochaetoides (Speg.) Nag Raj SPECIES
-=======
+# Diploceras monochaetoides (Speg.) Nag Raj SPECIES
 
 #### Status
 ACCEPTED

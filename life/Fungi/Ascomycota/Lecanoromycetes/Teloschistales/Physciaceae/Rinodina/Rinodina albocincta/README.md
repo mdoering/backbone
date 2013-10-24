@@ -1,5 +1,4 @@
-Rinodina albocincta Zahlbr. SPECIES
-=======
+# Rinodina albocincta Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

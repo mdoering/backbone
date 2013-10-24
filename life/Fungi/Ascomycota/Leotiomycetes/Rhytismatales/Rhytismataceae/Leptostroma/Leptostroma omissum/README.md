@@ -1,5 +1,4 @@
-Leptostroma omissum Hilitzer SPECIES
-=======
+# Leptostroma omissum Hilitzer SPECIES
 
 #### Status
 ACCEPTED

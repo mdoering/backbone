@@ -1,5 +1,4 @@
-Phaeographis circumscripta (Kremp.) Zahlbr. SPECIES
-=======
+# Phaeographis circumscripta (Kremp.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lachnea leporina Velen. SPECIES
-=======
+# Lachnea leporina Velen. SPECIES
 
 #### Status
 ACCEPTED

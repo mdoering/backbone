@@ -1,5 +1,4 @@
-Tricholoma viridiolivaceum G. Stev., 1964 SPECIES
-=======
+# Tricholoma viridiolivaceum G. Stev., 1964 SPECIES
 
 #### Status
 ACCEPTED

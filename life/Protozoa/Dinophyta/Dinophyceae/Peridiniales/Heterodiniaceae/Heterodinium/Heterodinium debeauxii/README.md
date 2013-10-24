@@ -1,5 +1,4 @@
-Heterodinium debeauxii Rampi, 1941 SPECIES
-=======
+# Heterodinium debeauxii Rampi, 1941 SPECIES
 
 #### Status
 ACCEPTED

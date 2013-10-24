@@ -1,5 +1,4 @@
-Depazea cruenta (Kunze ex Fr.) Desm. SPECIES
-=======
+# Depazea cruenta (Kunze ex Fr.) Desm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Geopora nicaeensis (Boud.) M. Torre SPECIES
-=======
+# Geopora nicaeensis (Boud.) M. Torre SPECIES
 
 #### Status
 ACCEPTED

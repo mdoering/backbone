@@ -1,5 +1,4 @@
-Coryneum cydoniae Dearn. & House SPECIES
-=======
+# Coryneum cydoniae Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

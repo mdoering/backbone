@@ -1,5 +1,4 @@
-Pulvinosphaeridium deunffii Moreau-Benoît, 1974 SPECIES
-=======
+# Pulvinosphaeridium deunffii Moreau-Benoît, 1974 SPECIES
 
 #### Status
 ACCEPTED

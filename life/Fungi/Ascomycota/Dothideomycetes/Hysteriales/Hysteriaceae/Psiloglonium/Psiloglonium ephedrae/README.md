@@ -1,5 +1,4 @@
-Psiloglonium ephedrae (Henn.) E. Boehm & C.L. Schoch, 2009 SPECIES
-=======
+# Psiloglonium ephedrae (Henn.) E. Boehm & C.L. Schoch, 2009 SPECIES
 
 #### Status
 ACCEPTED

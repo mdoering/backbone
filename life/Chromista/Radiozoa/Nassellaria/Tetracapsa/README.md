@@ -1,5 +1,4 @@
-Tetracapsa Haeckel, 1881 GENUS
-=======
+# Tetracapsa Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

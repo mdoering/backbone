@@ -1,5 +1,4 @@
-Rotiferophthora torquatospora Glockling, 1994 SPECIES
-=======
+# Rotiferophthora torquatospora Glockling, 1994 SPECIES
 
 #### Status
 ACCEPTED

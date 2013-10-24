@@ -1,5 +1,4 @@
-Thalassiosira cedarkeyensis A. K. S. K. Prasad SPECIES
-=======
+# Thalassiosira cedarkeyensis A. K. S. K. Prasad SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Patinella zenophona Körb. SPECIES
-=======
+# Patinella zenophona Körb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Filaspora flexuosa (Penz.) Kuntze SPECIES
-=======
+# Filaspora flexuosa (Penz.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

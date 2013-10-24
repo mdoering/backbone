@@ -1,5 +1,4 @@
-Leucocytospora paraleucostoma G.C. Adams, Surve-Iyer & Iezzoni SPECIES
-=======
+# Leucocytospora paraleucostoma G.C. Adams, Surve-Iyer & Iezzoni SPECIES
 
 #### Status
 ACCEPTED

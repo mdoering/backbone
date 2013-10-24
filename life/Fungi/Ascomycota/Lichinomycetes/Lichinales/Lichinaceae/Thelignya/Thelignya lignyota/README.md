@@ -1,5 +1,4 @@
-Thelignya lignyota (Wahlenb.) P.M. Jørg. & Henssen SPECIES
-=======
+# Thelignya lignyota (Wahlenb.) P.M. Jørg. & Henssen SPECIES
 
 #### Status
 ACCEPTED

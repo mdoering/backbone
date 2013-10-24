@@ -1,5 +1,4 @@
-Nassula magna Smith, 1897 SPECIES
-=======
+# Nassula magna Smith, 1897 SPECIES
 
 #### Status
 ACCEPTED

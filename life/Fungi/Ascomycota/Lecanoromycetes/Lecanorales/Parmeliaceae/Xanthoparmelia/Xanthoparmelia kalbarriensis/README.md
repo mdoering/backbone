@@ -1,5 +1,4 @@
-Xanthoparmelia kalbarriensis Elix SPECIES
-=======
+# Xanthoparmelia kalbarriensis Elix SPECIES
 
 #### Status
 ACCEPTED

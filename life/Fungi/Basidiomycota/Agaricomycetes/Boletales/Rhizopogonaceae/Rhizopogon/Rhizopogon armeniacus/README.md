@@ -1,5 +1,4 @@
-Rhizopogon armeniacus K.A. Harrison & A.H. Sm. SPECIES
-=======
+# Rhizopogon armeniacus K.A. Harrison & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

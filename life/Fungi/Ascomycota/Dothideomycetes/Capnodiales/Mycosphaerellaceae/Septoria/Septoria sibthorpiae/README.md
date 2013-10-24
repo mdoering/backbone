@@ -1,5 +1,4 @@
-Septoria sibthorpiae Maire SPECIES
-=======
+# Septoria sibthorpiae Maire SPECIES
 
 #### Status
 ACCEPTED

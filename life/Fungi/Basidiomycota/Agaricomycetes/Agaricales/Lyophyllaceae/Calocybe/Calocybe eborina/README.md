@@ -1,5 +1,4 @@
-Calocybe eborina Pegler SPECIES
-=======
+# Calocybe eborina Pegler SPECIES
 
 #### Status
 ACCEPTED

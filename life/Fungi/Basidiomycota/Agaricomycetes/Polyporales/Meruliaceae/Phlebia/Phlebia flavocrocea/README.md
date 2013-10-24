@@ -1,5 +1,4 @@
-Phlebia flavocrocea (Bres.) Donk SPECIES
-=======
+# Phlebia flavocrocea (Bres.) Donk SPECIES
 
 #### Status
 ACCEPTED

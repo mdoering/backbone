@@ -1,8 +1,7 @@
-Sphaeria brachytheca Berk. & M.A. Curtis, 1876 SPECIES
-=======
+# Metasphaeria brachytheca (Berk. & M.A. Curtis) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Sphaeria brachytheca Berk. & M.A. Curtis, 1876
 
 ### Remarks
 null

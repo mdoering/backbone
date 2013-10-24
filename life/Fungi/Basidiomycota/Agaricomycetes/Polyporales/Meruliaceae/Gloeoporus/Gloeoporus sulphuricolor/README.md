@@ -1,5 +1,4 @@
-Gloeoporus sulphuricolor (Bernicchia & Niemelä) Zmitr. & Spirin SPECIES
-=======
+# Gloeoporus sulphuricolor (Bernicchia & Niemelä) Zmitr. & Spirin SPECIES
 
 #### Status
 ACCEPTED

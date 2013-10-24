@@ -1,5 +1,4 @@
-Parmotrema endosulphureum (Hillmann) Hale SPECIES
-=======
+# Parmotrema endosulphureum (Hillmann) Hale SPECIES
 
 #### Status
 ACCEPTED

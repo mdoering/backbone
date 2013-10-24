@@ -1,5 +1,4 @@
-Umbilicaria dictyiza Nyl. SPECIES
-=======
+# Umbilicaria dictyiza Nyl. SPECIES
 
 #### Status
 ACCEPTED

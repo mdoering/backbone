@@ -1,5 +1,4 @@
-Herminia dichroospora (Ellis & Everh.) R. Hilber SPECIES
-=======
+# Herminia dichroospora (Ellis & Everh.) R. Hilber SPECIES
 
 #### Status
 ACCEPTED

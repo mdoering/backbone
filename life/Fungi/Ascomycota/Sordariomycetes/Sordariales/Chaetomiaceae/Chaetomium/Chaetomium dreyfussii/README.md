@@ -1,5 +1,4 @@
-Chaetomium dreyfussii Arx, 1986 SPECIES
-=======
+# Chaetomium dreyfussii Arx, 1986 SPECIES
 
 #### Status
 ACCEPTED

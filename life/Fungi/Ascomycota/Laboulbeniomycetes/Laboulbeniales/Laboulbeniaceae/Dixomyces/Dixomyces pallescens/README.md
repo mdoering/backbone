@@ -1,5 +1,4 @@
-Dixomyces pallescens (Thaxt.) I.I. Tav. SPECIES
-=======
+# Dixomyces pallescens (Thaxt.) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Olpidium rhizophlyctidis Sparrow SPECIES
-=======
+# Olpidium rhizophlyctidis Sparrow SPECIES
 
 #### Status
 ACCEPTED

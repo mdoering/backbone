@@ -1,5 +1,4 @@
-Cyphellocalathus Agerer GENUS
-=======
+# Cyphellocalathus Agerer GENUS
 
 #### Status
 ACCEPTED

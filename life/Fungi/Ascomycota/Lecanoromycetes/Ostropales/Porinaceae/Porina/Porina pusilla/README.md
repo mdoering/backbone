@@ -1,5 +1,4 @@
-Porina pusilla (Mont.) Müll. Arg. SPECIES
-=======
+# Porina pusilla (Mont.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

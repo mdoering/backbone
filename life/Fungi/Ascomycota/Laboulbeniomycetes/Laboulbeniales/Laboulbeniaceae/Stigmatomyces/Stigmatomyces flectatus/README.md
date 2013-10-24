@@ -1,5 +1,4 @@
-Stigmatomyces flectatus Thaxt. SPECIES
-=======
+# Stigmatomyces flectatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

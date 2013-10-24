@@ -1,5 +1,4 @@
-Acholeplasma vituli Angulo et al., 2000 SPECIES
-=======
+# Acholeplasma vituli Angulo et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

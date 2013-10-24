@@ -1,5 +1,4 @@
-Cortinarius tiliae Brandrud SPECIES
-=======
+# Cortinarius tiliae Brandrud SPECIES
 
 #### Status
 ACCEPTED

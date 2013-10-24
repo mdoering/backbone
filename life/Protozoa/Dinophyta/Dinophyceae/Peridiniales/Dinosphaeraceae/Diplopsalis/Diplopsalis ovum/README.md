@@ -1,5 +1,4 @@
-Diplopsalis ovum (Matvienko) Bourrelly SPECIES
-=======
+# Diplopsalis ovum (Matvienko) Bourrelly SPECIES
 
 #### Status
 ACCEPTED

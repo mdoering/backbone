@@ -1,5 +1,4 @@
-Stagonospora aristolochiae-siphoriis SPECIES
-=======
+# Stagonospora aristolochiae-siphoriis SPECIES
 
 #### Status
 ACCEPTED

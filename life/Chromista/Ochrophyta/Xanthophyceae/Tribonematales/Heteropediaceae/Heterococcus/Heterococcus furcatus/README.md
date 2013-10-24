@@ -1,5 +1,4 @@
-Heterococcus furcatus Pitschmann SPECIES
-=======
+# Heterococcus furcatus Pitschmann SPECIES
 
 #### Status
 ACCEPTED

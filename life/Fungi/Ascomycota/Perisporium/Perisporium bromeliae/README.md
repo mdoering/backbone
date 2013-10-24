@@ -1,5 +1,4 @@
-Perisporium bromeliae F. Stevens SPECIES
-=======
+# Perisporium bromeliae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

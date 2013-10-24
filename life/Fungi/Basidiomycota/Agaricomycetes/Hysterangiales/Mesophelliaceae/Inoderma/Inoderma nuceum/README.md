@@ -1,5 +1,4 @@
-Inoderma nuceum (Fr.) P. Karst. SPECIES
-=======
+# Inoderma nuceum (Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactarius mutabilis Peck SPECIES
-=======
+# Lactarius mutabilis Peck SPECIES
 
 #### Status
 ACCEPTED

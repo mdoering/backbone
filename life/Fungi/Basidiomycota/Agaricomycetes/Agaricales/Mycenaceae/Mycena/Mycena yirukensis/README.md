@@ -1,5 +1,4 @@
-Mycena yirukensis Grgur. SPECIES
-=======
+# Mycena yirukensis Grgur. SPECIES
 
 #### Status
 ACCEPTED

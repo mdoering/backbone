@@ -1,5 +1,4 @@
-Pezizella floriformis (Peck) Sacc. SPECIES
-=======
+# Pezizella floriformis (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

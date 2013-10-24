@@ -1,5 +1,4 @@
-Chaenothecopsis norstictica R. C. Harris SPECIES
-=======
+# Chaenothecopsis norstictica R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

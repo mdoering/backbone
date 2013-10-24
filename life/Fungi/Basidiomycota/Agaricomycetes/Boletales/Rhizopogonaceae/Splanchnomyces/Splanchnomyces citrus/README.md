@@ -1,5 +1,4 @@
-Splanchnomyces citrus Corda SPECIES
-=======
+# Splanchnomyces citrus Corda SPECIES
 
 #### Status
 ACCEPTED

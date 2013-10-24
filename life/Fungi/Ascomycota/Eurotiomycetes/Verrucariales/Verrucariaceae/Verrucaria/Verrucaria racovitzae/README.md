@@ -1,5 +1,4 @@
-Verrucaria racovitzae Vain. SPECIES
-=======
+# Verrucaria racovitzae Vain. SPECIES
 
 #### Status
 ACCEPTED

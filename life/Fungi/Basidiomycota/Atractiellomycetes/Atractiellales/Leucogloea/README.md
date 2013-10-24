@@ -1,5 +1,4 @@
-Leucogloea R. Kirschner GENUS
-=======
+# Leucogloea R. Kirschner GENUS
 
 #### Status
 ACCEPTED

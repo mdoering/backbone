@@ -1,5 +1,4 @@
-Protoperidinium longipes (Karsten) Balech SPECIES
-=======
+# Protoperidinium longipes (Karsten) Balech SPECIES
 
 #### Status
 ACCEPTED

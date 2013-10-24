@@ -1,5 +1,4 @@
-Kylindria oblongispora (Morgan-Jones) DiCosmo, S.M. Berch & W.B. Kendr. SPECIES
-=======
+# Kylindria oblongispora (Morgan-Jones) DiCosmo, S.M. Berch & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

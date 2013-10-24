@@ -1,5 +1,4 @@
-Pyrenula introducta (Stirt.) Zahlbr. SPECIES
-=======
+# Pyrenula introducta (Stirt.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

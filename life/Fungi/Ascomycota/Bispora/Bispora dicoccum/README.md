@@ -1,5 +1,4 @@
-Bispora dicoccum Auersw. SPECIES
-=======
+# Bispora dicoccum Auersw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea concilians (Nyl.) Hue SPECIES
-=======
+# Lecidea concilians (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

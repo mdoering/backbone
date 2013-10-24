@@ -1,5 +1,4 @@
-Peziza undiformis (Rehm) Sacc. & P. Syd. SPECIES
-=======
+# Peziza undiformis (Rehm) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

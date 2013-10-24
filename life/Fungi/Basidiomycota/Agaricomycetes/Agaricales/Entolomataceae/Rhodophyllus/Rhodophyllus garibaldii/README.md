@@ -1,5 +1,4 @@
-Rhodophyllus garibaldii E. Horak SPECIES
-=======
+# Rhodophyllus garibaldii E. Horak SPECIES
 
 #### Status
 ACCEPTED

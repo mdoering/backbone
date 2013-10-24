@@ -1,5 +1,4 @@
-Tylopilus potamogeton var. potamogeton VARIETY
-=======
+# Tylopilus potamogeton Singer SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Persoonia 9(4): 433 (1978)
 
 #### Original name
-Tylopilus potamogeton var. potamogeton
+Tylopilus potamogeton Singer
 
 ### Remarks
 null

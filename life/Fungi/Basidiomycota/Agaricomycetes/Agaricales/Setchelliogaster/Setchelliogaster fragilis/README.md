@@ -1,17 +1,16 @@
-Thaxterogaster fragilis var. fragilis VARIETY
-=======
+# Setchelliogaster fragilis (Zeller & C.W. Dodge) E. Horak, 1980 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Boln Soc. argent. Bot. 10: 64 (1962)
+Fl. criptog. Tierra del Fuego 11(6): 19 (1980)
 
 #### Original name
-Thaxterogaster fragilis var. fragilis
+Hymenogaster fragilis Zeller & C.W. Dodge, 1934
 
 ### Remarks
 null

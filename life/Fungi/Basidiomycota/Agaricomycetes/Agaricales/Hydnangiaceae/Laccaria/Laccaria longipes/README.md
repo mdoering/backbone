@@ -1,5 +1,4 @@
-Laccaria longipes G.M. Muell. SPECIES
-=======
+# Laccaria longipes G.M. Muell. SPECIES
 
 #### Status
 ACCEPTED

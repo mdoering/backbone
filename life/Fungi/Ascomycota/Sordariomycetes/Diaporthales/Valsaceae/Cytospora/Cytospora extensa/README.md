@@ -1,5 +1,4 @@
-Cytospora extensa Sacc. SPECIES
-=======
+# Cytospora extensa Sacc. SPECIES
 
 #### Status
 ACCEPTED

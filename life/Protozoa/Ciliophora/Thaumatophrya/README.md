@@ -1,5 +1,4 @@
-Thaumatophrya Collin, 1912 GENUS
-=======
+# Thaumatophrya Collin, 1912 GENUS
 
 #### Status
 ACCEPTED

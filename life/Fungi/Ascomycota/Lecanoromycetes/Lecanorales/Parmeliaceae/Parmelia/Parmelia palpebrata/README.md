@@ -1,5 +1,4 @@
-Parmelia palpebrata Taylor SPECIES
-=======
+# Parmelia palpebrata Taylor SPECIES
 
 #### Status
 ACCEPTED

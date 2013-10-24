@@ -1,5 +1,4 @@
-Lopadostoma formosum (Ellis & Everh.) P.M.D. Martin SPECIES
-=======
+# Lopadostoma formosum (Ellis & Everh.) P.M.D. Martin SPECIES
 
 #### Status
 ACCEPTED

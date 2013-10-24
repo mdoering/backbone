@@ -1,5 +1,4 @@
-Dematium muscicola Gonz. Frag. SPECIES
-=======
+# Dematium muscicola Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

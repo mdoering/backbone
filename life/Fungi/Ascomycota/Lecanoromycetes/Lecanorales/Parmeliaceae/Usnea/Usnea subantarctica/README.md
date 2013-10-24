@@ -1,5 +1,4 @@
-Usnea subantarctica F.J. Walker SPECIES
-=======
+# Usnea subantarctica F.J. Walker SPECIES
 
 #### Status
 ACCEPTED

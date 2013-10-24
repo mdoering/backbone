@@ -1,5 +1,4 @@
-Tilletia aristidae Vánky, 2002 SPECIES
-=======
+# Tilletia aristidae Vánky, 2002 SPECIES
 
 #### Status
 ACCEPTED

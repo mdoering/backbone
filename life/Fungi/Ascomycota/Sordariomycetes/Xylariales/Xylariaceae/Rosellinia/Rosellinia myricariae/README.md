@@ -1,5 +1,4 @@
-Rosellinia myricariae (Fuckel) Sacc. SPECIES
-=======
+# Rosellinia myricariae (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

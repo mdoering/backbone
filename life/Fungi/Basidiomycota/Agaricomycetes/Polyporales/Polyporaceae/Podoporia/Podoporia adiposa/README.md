@@ -1,5 +1,4 @@
-Podoporia adiposa SPECIES
-=======
+# Podoporia adiposa SPECIES
 
 #### Status
 ACCEPTED

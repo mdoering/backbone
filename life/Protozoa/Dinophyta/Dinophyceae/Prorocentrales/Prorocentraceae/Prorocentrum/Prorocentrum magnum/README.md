@@ -1,5 +1,4 @@
-Prorocentrum magnum (Gaarder, 1954) Dodge, 1975 SPECIES
-=======
+# Prorocentrum magnum (Gaarder, 1954) Dodge, 1975 SPECIES
 
 #### Status
 ACCEPTED

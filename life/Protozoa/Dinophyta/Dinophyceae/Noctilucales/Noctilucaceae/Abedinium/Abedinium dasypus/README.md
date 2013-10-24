@@ -1,5 +1,4 @@
-Abedinium dasypus (Cachon & Cachon-Enjumet) A.R. Loeblich Jr. & A.R. Loeblich Iii SPECIES
-=======
+# Abedinium dasypus (Cachon & Cachon-Enjumet) A.R. Loeblich Jr. & A.R. Loeblich Iii SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactarius bryophilus Peck SPECIES
-=======
+# Lactarius bryophilus Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dothidina felipponeana (Sacc.) Trotter SPECIES
-=======
+# Dothidina felipponeana (Sacc.) Trotter SPECIES
 
 #### Status
 ACCEPTED

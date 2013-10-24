@@ -1,5 +1,4 @@
-Hormographiella candelabrata Gené & Guarro, 1992 SPECIES
-=======
+# Hormographiella candelabrata Gené & Guarro, 1992 SPECIES
 
 #### Status
 ACCEPTED

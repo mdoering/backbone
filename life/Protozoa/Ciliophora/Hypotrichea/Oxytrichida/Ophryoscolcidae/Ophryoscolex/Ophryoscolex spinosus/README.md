@@ -1,5 +1,4 @@
-Ophryoscolex spinosus Kofoid & MacLennan, 1933 SPECIES
-=======
+# Ophryoscolex spinosus Kofoid & MacLennan, 1933 SPECIES
 
 #### Status
 ACCEPTED

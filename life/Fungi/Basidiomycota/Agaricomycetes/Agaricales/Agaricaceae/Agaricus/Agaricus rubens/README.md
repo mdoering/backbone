@@ -1,5 +1,4 @@
-Agaricus rubens Bolton SPECIES
-=======
+# Agaricus rubens Bolton SPECIES
 
 #### Status
 ACCEPTED

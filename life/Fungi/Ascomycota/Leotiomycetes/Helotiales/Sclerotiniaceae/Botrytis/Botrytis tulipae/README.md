@@ -1,17 +1,16 @@
-Botrytis parasitica var. parasitica VARIETY
-=======
+# Botrytis tulipae (Lib.) Lind, 1913 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Danish Fungi (Copenhagen) [650] (1913)
 
 #### Original name
-Botrytis parasitica var. parasitica
+Sclerotium tulipae Lib., 1830
 
 ### Remarks
 null

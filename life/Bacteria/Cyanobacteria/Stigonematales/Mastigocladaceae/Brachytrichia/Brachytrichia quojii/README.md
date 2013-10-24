@@ -1,5 +1,4 @@
-Brachytrichia quojii (C. Agardh) Bornet & Flahault SPECIES
-=======
+# Brachytrichia quojii (C. Agardh) Bornet & Flahault SPECIES
 
 #### Status
 ACCEPTED

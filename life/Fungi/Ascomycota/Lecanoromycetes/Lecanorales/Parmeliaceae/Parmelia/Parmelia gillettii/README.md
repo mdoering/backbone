@@ -1,5 +1,4 @@
-Parmelia gillettii C.W. Dodge SPECIES
-=======
+# Parmelia gillettii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diploidium mitratum G. Arnaud SPECIES
-=======
+# Diploidium mitratum G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

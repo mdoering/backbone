@@ -1,5 +1,4 @@
-Aspicilia vagans Oxner SPECIES
-=======
+# Aspicilia vagans Oxner SPECIES
 
 #### Status
 ACCEPTED

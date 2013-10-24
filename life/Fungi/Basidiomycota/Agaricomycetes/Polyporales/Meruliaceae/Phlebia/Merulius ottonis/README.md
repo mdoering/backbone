@@ -1,5 +1,4 @@
-Merulius ottonis Spreng. SPECIES
-=======
+# Merulius ottonis Spreng. SPECIES
 
 #### Status
 ACCEPTED

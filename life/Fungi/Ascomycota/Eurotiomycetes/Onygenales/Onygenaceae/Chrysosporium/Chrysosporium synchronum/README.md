@@ -1,5 +1,4 @@
-Chrysosporium synchronum Oorschot, 1980 SPECIES
-=======
+# Chrysosporium synchronum Oorschot, 1980 SPECIES
 
 #### Status
 ACCEPTED

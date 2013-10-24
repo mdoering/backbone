@@ -1,5 +1,4 @@
-Uredo paederiae Syd. & P. Syd. SPECIES
-=======
+# Uredo paederiae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

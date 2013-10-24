@@ -1,5 +1,4 @@
-Cercospora plumbaginea Sacc. & D. Sacc., 1902 SPECIES
-=======
+# Cercospora plumbaginea Sacc. & D. Sacc., 1902 SPECIES
 
 #### Status
 ACCEPTED

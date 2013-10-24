@@ -1,5 +1,4 @@
-Sicuophrya GENUS
-=======
+# Sicuophrya GENUS
 
 #### Status
 ACCEPTED

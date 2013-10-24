@@ -1,5 +1,4 @@
-Inocybe vatricosa (Fr.) P. Karst. SPECIES
-=======
+# Inocybe vatricosa (Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

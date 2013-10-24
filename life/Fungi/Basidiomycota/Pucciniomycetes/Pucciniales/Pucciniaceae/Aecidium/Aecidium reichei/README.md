@@ -1,5 +1,4 @@
-Aecidium reichei Dietel SPECIES
-=======
+# Aecidium reichei Dietel SPECIES
 
 #### Status
 ACCEPTED

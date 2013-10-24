@@ -1,5 +1,4 @@
-Oxytricha fastigata subsp. labiata SUBSPECIES
-=======
+# Oxytricha fastigata SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma dothideicola Naumov SPECIES
-=======
+# Phoma dothideicola Naumov SPECIES
 
 #### Status
 ACCEPTED

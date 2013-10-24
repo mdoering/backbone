@@ -1,5 +1,4 @@
-Lepista praevillosa Murrill SPECIES
-=======
+# Lepista praevillosa Murrill SPECIES
 
 #### Status
 ACCEPTED

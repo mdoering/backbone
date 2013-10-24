@@ -1,5 +1,4 @@
-Stereosorus monochoriae Sawada SPECIES
-=======
+# Stereosorus monochoriae Sawada SPECIES
 
 #### Status
 ACCEPTED

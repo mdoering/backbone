@@ -1,5 +1,4 @@
-Multicellaesporites volubilis P. Ke & Z.Y. Shi SPECIES
-=======
+# Multicellaesporites volubilis P. Ke & Z.Y. Shi SPECIES
 
 #### Status
 ACCEPTED

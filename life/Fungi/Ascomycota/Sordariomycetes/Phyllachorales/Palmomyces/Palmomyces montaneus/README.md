@@ -1,5 +1,4 @@
-Palmomyces montaneus K.D. Hyde, J. Fröhl. & Joanne E. Taylor, 1998 SPECIES
-=======
+# Palmomyces montaneus K.D. Hyde, J. Fröhl. & Joanne E. Taylor, 1998 SPECIES
 
 #### Status
 ACCEPTED

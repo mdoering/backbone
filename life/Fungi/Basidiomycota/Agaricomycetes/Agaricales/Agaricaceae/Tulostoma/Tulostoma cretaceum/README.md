@@ -1,5 +1,4 @@
-Tulostoma cretaceum Long SPECIES
-=======
+# Tulostoma cretaceum Long SPECIES
 
 #### Status
 ACCEPTED

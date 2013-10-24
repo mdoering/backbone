@@ -1,14 +1,13 @@
-Favolus ruficeps Berk. & Broome, 1875 SPECIES
-=======
+# Echinochaete ruficeps (Berk. & Broome) Ryvarden, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Linn. Soc. , Bot. 14(2): 57 (1875)
+Norw. Jl Bot. 19: 231 (1972)
 
 #### Original name
 Favolus ruficeps Berk. & Broome, 1875

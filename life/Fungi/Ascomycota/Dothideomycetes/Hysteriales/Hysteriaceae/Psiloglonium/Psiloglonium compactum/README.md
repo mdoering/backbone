@@ -1,5 +1,4 @@
-Psiloglonium compactum (H. Kern) E. Boehm, C.L. Schoch & Spatafora, 2009 SPECIES
-=======
+# Psiloglonium compactum (H. Kern) E. Boehm, C.L. Schoch & Spatafora, 2009 SPECIES
 
 #### Status
 ACCEPTED

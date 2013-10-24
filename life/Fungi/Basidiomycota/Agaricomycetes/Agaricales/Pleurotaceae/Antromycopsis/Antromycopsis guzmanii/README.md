@@ -1,5 +1,4 @@
-Antromycopsis guzmanii Stalpers, Seifert & Samson, 1991 SPECIES
-=======
+# Antromycopsis guzmanii Stalpers, Seifert & Samson, 1991 SPECIES
 
 #### Status
 ACCEPTED

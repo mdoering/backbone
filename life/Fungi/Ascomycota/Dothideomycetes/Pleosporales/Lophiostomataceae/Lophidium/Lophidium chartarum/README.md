@@ -1,5 +1,4 @@
-Lophidium chartarum Sacc. & P. Syd. SPECIES
-=======
+# Lophidium chartarum Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

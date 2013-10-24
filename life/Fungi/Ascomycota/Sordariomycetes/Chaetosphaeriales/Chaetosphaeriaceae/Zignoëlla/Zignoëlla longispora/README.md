@@ -1,5 +1,4 @@
-Zignoëlla longispora Speg. SPECIES
-=======
+# Zignoëlla longispora Speg. SPECIES
 
 #### Status
 ACCEPTED

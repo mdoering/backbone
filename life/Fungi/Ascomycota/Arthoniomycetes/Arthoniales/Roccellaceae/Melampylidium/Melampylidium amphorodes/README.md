@@ -1,5 +1,4 @@
-Melampylidium amphorodes (Stirt.) Stirt. SPECIES
-=======
+# Melampylidium amphorodes (Stirt.) Stirt. SPECIES
 
 #### Status
 ACCEPTED

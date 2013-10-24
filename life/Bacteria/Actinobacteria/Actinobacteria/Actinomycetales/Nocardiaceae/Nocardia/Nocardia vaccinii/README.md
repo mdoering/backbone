@@ -1,5 +1,4 @@
-Nocardia vaccinii Demaree and Smith, 1952 (Approved Lists, 1980) SPECIES
-=======
+# Nocardia vaccinii Demaree and Smith, 1952 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

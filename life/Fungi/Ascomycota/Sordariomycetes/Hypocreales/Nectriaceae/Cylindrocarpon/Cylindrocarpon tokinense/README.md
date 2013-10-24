@@ -1,5 +1,4 @@
-Cylindrocarpon tokinense Bugnicourt SPECIES
-=======
+# Cylindrocarpon tokinense Bugnicourt SPECIES
 
 #### Status
 ACCEPTED

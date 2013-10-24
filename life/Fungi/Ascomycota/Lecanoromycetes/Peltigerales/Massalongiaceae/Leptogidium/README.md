@@ -1,5 +1,4 @@
-Leptogidium GENUS
-=======
+# Leptogidium GENUS
 
 #### Status
 ACCEPTED

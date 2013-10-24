@@ -1,5 +1,4 @@
-Heliochona pontica Jankowski, 1973 SPECIES
-=======
+# Heliochona pontica Jankowski, 1973 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenopeziza pabulariae Raitv. & Faizova SPECIES
-=======
+# Pyrenopeziza pabulariae Raitv. & Faizova SPECIES
 
 #### Status
 ACCEPTED

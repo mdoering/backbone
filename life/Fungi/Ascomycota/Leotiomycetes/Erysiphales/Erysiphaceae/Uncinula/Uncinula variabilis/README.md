@@ -1,5 +1,4 @@
-Uncinula variabilis R.Y. Zheng & G.Q. Chen SPECIES
-=======
+# Uncinula variabilis R.Y. Zheng & G.Q. Chen SPECIES
 
 #### Status
 ACCEPTED

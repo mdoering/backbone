@@ -1,5 +1,4 @@
-Cantharellus congolensis Beeli SPECIES
-=======
+# Cantharellus congolensis Beeli SPECIES
 
 #### Status
 ACCEPTED

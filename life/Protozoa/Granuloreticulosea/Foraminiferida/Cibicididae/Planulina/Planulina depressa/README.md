@@ -1,5 +1,4 @@
-Planulina depressa SPECIES
-=======
+# Planulina depressa SPECIES
 
 #### Status
 ACCEPTED

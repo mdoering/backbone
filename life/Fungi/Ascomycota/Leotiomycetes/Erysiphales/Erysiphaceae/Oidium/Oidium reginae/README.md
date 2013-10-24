@@ -1,5 +1,4 @@
-Oidium reginae Havryl. & S. Takam. SPECIES
-=======
+# Oidium reginae Havryl. & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

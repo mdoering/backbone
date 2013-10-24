@@ -1,5 +1,4 @@
-Heterostegina niasi Verbeek, 1896 SPECIES
-=======
+# Heterostegina niasi Verbeek, 1896 SPECIES
 
 #### Status
 ACCEPTED

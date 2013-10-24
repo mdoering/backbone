@@ -1,5 +1,4 @@
-Rhodophyllus baeosporus Romagn. SPECIES
-=======
+# Rhodophyllus baeosporus Romagn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphitetras bicornis (Cleve) De Toni SPECIES
-=======
+# Amphitetras bicornis (Cleve) De Toni SPECIES
 
 #### Status
 ACCEPTED

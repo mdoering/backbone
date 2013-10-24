@@ -1,5 +1,4 @@
-Chilodon siegelae SPECIES
-=======
+# Chilodon siegelae SPECIES
 
 #### Status
 ACCEPTED

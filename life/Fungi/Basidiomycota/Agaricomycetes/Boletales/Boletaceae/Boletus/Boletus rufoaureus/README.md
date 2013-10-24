@@ -1,5 +1,4 @@
-Boletus rufoaureus Massee SPECIES
-=======
+# Boletus rufoaureus Massee SPECIES
 
 #### Status
 ACCEPTED

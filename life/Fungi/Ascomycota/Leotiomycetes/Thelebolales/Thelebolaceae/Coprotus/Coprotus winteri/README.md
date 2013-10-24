@@ -1,5 +1,4 @@
-Coprotus winteri (Marchal) Kimbr. SPECIES
-=======
+# Coprotus winteri (Marchal) Kimbr. SPECIES
 
 #### Status
 ACCEPTED

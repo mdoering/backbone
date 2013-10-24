@@ -1,5 +1,4 @@
-Flammula pulchra Raja & Shearer SPECIES
-=======
+# Flammula pulchra Raja & Shearer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aquasphaeria dimorphospora K.D. Hyde, 1995 SPECIES
-=======
+# Aquasphaeria dimorphospora K.D. Hyde, 1995 SPECIES
 
 #### Status
 ACCEPTED

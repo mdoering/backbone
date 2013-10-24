@@ -1,5 +1,4 @@
-Sphaerella smilacina Ellis & Everh. SPECIES
-=======
+# Sphaerella smilacina Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

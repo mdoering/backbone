@@ -1,5 +1,4 @@
-Astrosphaeriella exorrhiza Boise SPECIES
-=======
+# Astrosphaeriella exorrhiza Boise SPECIES
 
 #### Status
 ACCEPTED

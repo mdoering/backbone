@@ -1,5 +1,4 @@
-Pulvinula neotropica Pfister SPECIES
-=======
+# Pulvinula neotropica Pfister SPECIES
 
 #### Status
 ACCEPTED

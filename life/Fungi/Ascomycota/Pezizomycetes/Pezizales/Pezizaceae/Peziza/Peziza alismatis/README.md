@@ -1,5 +1,4 @@
-Peziza alismatis Pers. SPECIES
-=======
+# Peziza alismatis Pers. SPECIES
 
 #### Status
 ACCEPTED

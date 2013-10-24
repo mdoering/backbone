@@ -1,5 +1,4 @@
-Caloplaca odoardii (Bagl.) Zahlbr. SPECIES
-=======
+# Caloplaca odoardii (Bagl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

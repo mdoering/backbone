@@ -1,5 +1,4 @@
-Hypocomella Chatton & Lwoff, 1924 GENUS
-=======
+# Hypocomella Chatton & Lwoff, 1924 GENUS
 
 #### Status
 ACCEPTED

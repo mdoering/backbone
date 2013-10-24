@@ -1,5 +1,4 @@
-Dinemasporium tragopogonis Henn. SPECIES
-=======
+# Dinemasporium tragopogonis Henn. SPECIES
 
 #### Status
 ACCEPTED

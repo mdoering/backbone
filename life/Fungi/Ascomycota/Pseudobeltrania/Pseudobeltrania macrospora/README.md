@@ -1,5 +1,4 @@
-Pseudobeltrania macrospora Heredia, R.M. Arias, M. Reyes, R.F. Castañeda SPECIES
-=======
+# Pseudobeltrania macrospora Heredia, R.M. Arias, M. Reyes, R.F. Castañeda SPECIES
 
 #### Status
 ACCEPTED

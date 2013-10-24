@@ -1,5 +1,4 @@
-Macrosporium granulosum Bubák SPECIES
-=======
+# Macrosporium granulosum Bubák SPECIES
 
 #### Status
 ACCEPTED

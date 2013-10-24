@@ -1,5 +1,4 @@
-Peltiphylla GENUS
-=======
+# Peltiphylla GENUS
 
 #### Status
 ACCEPTED

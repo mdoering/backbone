@@ -1,17 +1,16 @@
-Parmelia tuberculata Gyeln. SPECIES
-=======
+# Xanthoparmelia tuberculata (Gyeln.) T. H. Nash & Elix SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lichen Flora of the Greater Sonoran Desert Region (Tempe) 2: 601 (2004)
 
 #### Original name
-null
+Parmelia tuberculata Gyeln.
 
 ### Remarks
 null

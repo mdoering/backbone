@@ -1,5 +1,4 @@
-Manginella manilkarae Bat., J.L. Bezerra & R.L. Silva SPECIES
-=======
+# Manginella manilkarae Bat., J.L. Bezerra & R.L. Silva SPECIES
 
 #### Status
 ACCEPTED

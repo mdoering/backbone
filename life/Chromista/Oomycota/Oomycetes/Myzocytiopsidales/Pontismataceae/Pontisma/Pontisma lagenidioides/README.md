@@ -1,17 +1,16 @@
-Pontisma lagenioides H.E. Petersen SPECIES
-=======
+# Pontisma lagenidioides H.E. Petersen, 1905 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Overs. Kongel. Danske Vidensk. Selsk. Forh. Medlemmers Arbeider (1905)
 
 #### Original name
-Pontisma lagenioides H.E. Petersen
+Pontisma lagenidioides H.E. Petersen, 1905
 
 ### Remarks
 null

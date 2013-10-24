@@ -1,5 +1,4 @@
-Venturia elastica Pass. SPECIES
-=======
+# Venturia elastica Pass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascogregarina armigerei Lien & Levine, 1980 SPECIES
-=======
+# Ascogregarina armigerei Lien & Levine, 1980 SPECIES
 
 #### Status
 ACCEPTED

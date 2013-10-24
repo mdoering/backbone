@@ -1,5 +1,4 @@
-Planistroma kellermaniae A.W. Ramaley SPECIES
-=======
+# Planistroma kellermaniae A.W. Ramaley SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lachnea doelloi Speg. SPECIES
-=======
+# Lachnea doelloi Speg. SPECIES
 
 #### Status
 ACCEPTED

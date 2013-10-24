@@ -1,5 +1,4 @@
-Sporotrichum columbiense R. Sprague SPECIES
-=======
+# Sporotrichum columbiense R. Sprague SPECIES
 
 #### Status
 ACCEPTED

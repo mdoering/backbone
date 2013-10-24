@@ -1,5 +1,4 @@
-Achradina Lohmann, 1902 GENUS
-=======
+# Achradina Lohmann, 1902 GENUS
 
 #### Status
 ACCEPTED

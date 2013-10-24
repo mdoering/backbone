@@ -1,5 +1,4 @@
-Marasmiellus buccinulus (Speg.) Singer SPECIES
-=======
+# Marasmiellus buccinulus (Speg.) Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phialina pusilla Huhtinen SPECIES
-=======
+# Phialina pusilla Huhtinen SPECIES
 
 #### Status
 ACCEPTED

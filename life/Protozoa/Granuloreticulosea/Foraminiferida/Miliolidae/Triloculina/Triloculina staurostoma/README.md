@@ -1,5 +1,4 @@
-Triloculina staurostoma Schlumberger, 1883 SPECIES
-=======
+# Triloculina staurostoma Schlumberger, 1883 SPECIES
 
 #### Status
 ACCEPTED

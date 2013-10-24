@@ -1,5 +1,4 @@
-Cercosporina salviae Fukui SPECIES
-=======
+# Cercosporina salviae Fukui SPECIES
 
 #### Status
 ACCEPTED

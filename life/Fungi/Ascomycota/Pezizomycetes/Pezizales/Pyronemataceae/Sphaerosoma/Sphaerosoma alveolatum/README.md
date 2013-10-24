@@ -1,5 +1,4 @@
-Sphaerosoma alveolatum McLennan & Cookson SPECIES
-=======
+# Sphaerosoma alveolatum McLennan & Cookson SPECIES
 
 #### Status
 ACCEPTED

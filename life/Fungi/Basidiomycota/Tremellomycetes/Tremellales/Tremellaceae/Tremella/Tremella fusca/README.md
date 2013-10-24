@@ -1,5 +1,4 @@
-Tremella fusca Lloyd SPECIES
-=======
+# Tremella fusca Lloyd SPECIES
 
 #### Status
 ACCEPTED

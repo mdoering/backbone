@@ -1,5 +1,4 @@
-Tremella pallida Overh. SPECIES
-=======
+# Tremella pallida Overh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Haramonas dimorpha Horiguchi SPECIES
-=======
+# Haramonas dimorpha Horiguchi SPECIES
 
 #### Status
 ACCEPTED

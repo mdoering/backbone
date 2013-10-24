@@ -1,5 +1,4 @@
-Pezizella parasitica Velen., 1939 SPECIES
-=======
+# Pezizella parasitica Velen., 1939 SPECIES
 
 #### Status
 ACCEPTED

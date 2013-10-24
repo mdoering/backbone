@@ -1,5 +1,4 @@
-Opegrapha adtinens Nyl. SPECIES
-=======
+# Opegrapha adtinens Nyl. SPECIES
 
 #### Status
 ACCEPTED

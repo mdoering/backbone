@@ -1,5 +1,4 @@
-Eurotium glabrum Blaser, 1976 SPECIES
-=======
+# Eurotium glabrum Blaser, 1976 SPECIES
 
 #### Status
 ACCEPTED

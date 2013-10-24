@@ -1,5 +1,4 @@
-Scleroderma anomalum Ces. SPECIES
-=======
+# Scleroderma anomalum Ces. SPECIES
 
 #### Status
 ACCEPTED

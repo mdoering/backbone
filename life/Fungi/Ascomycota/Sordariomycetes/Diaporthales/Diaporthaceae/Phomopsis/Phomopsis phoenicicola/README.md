@@ -1,5 +1,4 @@
-Phomopsis phoenicicola Traverso & Spessa, 1910 SPECIES
-=======
+# Phomopsis phoenicicola Traverso & Spessa, 1910 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diaporthe apiculosa Ellis SPECIES
-=======
+# Diaporthe apiculosa Ellis SPECIES
 
 #### Status
 ACCEPTED

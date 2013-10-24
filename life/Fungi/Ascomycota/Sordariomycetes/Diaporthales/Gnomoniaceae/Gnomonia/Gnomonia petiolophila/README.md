@@ -1,5 +1,4 @@
-Gnomonia petiolophila (Peck) Berl. & Voglino SPECIES
-=======
+# Gnomonia petiolophila (Peck) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

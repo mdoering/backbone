@@ -1,5 +1,4 @@
-Uredo yoshinagai Dietel SPECIES
-=======
+# Uredo yoshinagai Dietel SPECIES
 
 #### Status
 ACCEPTED

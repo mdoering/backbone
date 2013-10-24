@@ -1,5 +1,4 @@
-Lepiota subneophana Murrill SPECIES
-=======
+# Lepiota subneophana Murrill SPECIES
 
 #### Status
 ACCEPTED

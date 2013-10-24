@@ -1,5 +1,4 @@
-Amanita clavus Lam. SPECIES
-=======
+# Amanita clavus Lam. SPECIES
 
 #### Status
 ACCEPTED

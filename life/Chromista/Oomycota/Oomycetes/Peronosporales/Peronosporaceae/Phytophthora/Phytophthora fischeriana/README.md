@@ -1,5 +1,4 @@
-Phytophthora fischeriana (Höhnk) Sparrow SPECIES
-=======
+# Phytophthora fischeriana (Höhnk) Sparrow SPECIES
 
 #### Status
 ACCEPTED

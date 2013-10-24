@@ -1,5 +1,4 @@
-Euplotes mutabilis Tuffrau, 1960 SPECIES
-=======
+# Euplotes mutabilis Tuffrau, 1960 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laboulbenia diademata Balazuc SPECIES
-=======
+# Laboulbenia diademata Balazuc SPECIES
 
 #### Status
 ACCEPTED

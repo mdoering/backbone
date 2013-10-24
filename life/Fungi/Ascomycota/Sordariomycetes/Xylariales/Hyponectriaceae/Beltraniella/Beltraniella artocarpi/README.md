@@ -1,5 +1,4 @@
-Beltraniella artocarpi Subram. SPECIES
-=======
+# Beltraniella artocarpi Subram. SPECIES
 
 #### Status
 ACCEPTED

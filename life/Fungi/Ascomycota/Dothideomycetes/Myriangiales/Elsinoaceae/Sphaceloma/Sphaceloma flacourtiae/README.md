@@ -1,5 +1,4 @@
-Sphaceloma flacourtiae Thirum. & Naras., 1970 SPECIES
-=======
+# Sphaceloma flacourtiae Thirum. & Naras., 1970 SPECIES
 
 #### Status
 ACCEPTED

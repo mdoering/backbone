@@ -1,5 +1,4 @@
-Restiosporium pallentis Vánky & R.G. Shivas, 2006 SPECIES
-=======
+# Restiosporium pallentis Vánky & R.G. Shivas, 2006 SPECIES
 
 #### Status
 ACCEPTED

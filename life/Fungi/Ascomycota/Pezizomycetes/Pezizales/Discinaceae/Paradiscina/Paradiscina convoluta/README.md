@@ -1,5 +1,4 @@
-Paradiscina convoluta (Seaver) Benedix SPECIES
-=======
+# Paradiscina convoluta (Seaver) Benedix SPECIES
 
 #### Status
 ACCEPTED

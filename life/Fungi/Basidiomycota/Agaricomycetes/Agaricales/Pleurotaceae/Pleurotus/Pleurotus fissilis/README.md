@@ -1,5 +1,4 @@
-Pleurotus fissilis (Lév.) Sacc. SPECIES
-=======
+# Pleurotus fissilis (Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

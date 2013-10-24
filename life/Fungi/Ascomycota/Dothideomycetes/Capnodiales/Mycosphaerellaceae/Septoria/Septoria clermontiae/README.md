@@ -1,5 +1,4 @@
-Septoria clermontiae F. Stevens & P.A. Young SPECIES
-=======
+# Septoria clermontiae F. Stevens & P.A. Young SPECIES
 
 #### Status
 ACCEPTED

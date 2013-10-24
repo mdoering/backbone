@@ -1,5 +1,4 @@
-Volvariella rondoniensis Singer SPECIES
-=======
+# Volvariella rondoniensis Singer SPECIES
 
 #### Status
 ACCEPTED

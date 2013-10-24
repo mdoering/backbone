@@ -1,5 +1,4 @@
-Holosticha macronucleata SPECIES
-=======
+# Holosticha macronucleata SPECIES
 
 #### Status
 ACCEPTED

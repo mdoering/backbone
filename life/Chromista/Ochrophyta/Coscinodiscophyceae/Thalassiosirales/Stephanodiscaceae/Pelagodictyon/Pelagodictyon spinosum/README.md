@@ -1,5 +1,4 @@
-Pelagodictyon spinosum Clarke SPECIES
-=======
+# Pelagodictyon spinosum Clarke SPECIES
 
 #### Status
 ACCEPTED

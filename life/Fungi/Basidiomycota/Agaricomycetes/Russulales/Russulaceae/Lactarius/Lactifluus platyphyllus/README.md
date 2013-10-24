@@ -1,5 +1,4 @@
-Lactifluus platyphyllus (Peck) Kuntze SPECIES
-=======
+# Lactifluus platyphyllus (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

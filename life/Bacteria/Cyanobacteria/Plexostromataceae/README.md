@@ -1,5 +1,4 @@
-Plexostromataceae FAMILY
-=======
+# Plexostromataceae FAMILY
 
 #### Status
 ACCEPTED

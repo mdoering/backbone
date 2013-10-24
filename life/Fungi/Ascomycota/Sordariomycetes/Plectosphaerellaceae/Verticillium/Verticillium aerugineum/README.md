@@ -1,5 +1,4 @@
-Verticillium aerugineum Speg. SPECIES
-=======
+# Verticillium aerugineum Speg. SPECIES
 
 #### Status
 ACCEPTED

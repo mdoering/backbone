@@ -1,5 +1,4 @@
-Harpographium yerbae Speg. SPECIES
-=======
+# Harpographium yerbae Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleosphaerulina ulmicola Naumov SPECIES
-=======
+# Pleosphaerulina ulmicola Naumov SPECIES
 
 #### Status
 ACCEPTED

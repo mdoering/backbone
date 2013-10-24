@@ -1,5 +1,4 @@
-Cladonia tenuicaulis Nuno SPECIES
-=======
+# Cladonia tenuicaulis Nuno SPECIES
 
 #### Status
 ACCEPTED

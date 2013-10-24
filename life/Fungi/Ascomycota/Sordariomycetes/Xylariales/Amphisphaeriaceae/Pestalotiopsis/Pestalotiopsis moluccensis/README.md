@@ -1,17 +1,16 @@
-Pestalotiopsis moluccens Purkay. & A.K. Pal bis SPECIES
-=======
+# Pestalotiopsis moluccensis Purkay. & A.K. Pal bis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Phytopath. 49(1): 11 (1996)
 
 #### Original name
-Pestalotiopsis moluccens Purkay. & A.K. Pal bis
+Pestalotiopsis moluccensis Purkay. & A.K. Pal bis
 
 ### Remarks
 null

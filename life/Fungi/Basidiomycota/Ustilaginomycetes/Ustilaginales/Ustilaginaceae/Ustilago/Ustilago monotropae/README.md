@@ -1,5 +1,4 @@
-Ustilago monotropae Tul. & C. Tul. SPECIES
-=======
+# Ustilago monotropae Tul. & C. Tul. SPECIES
 
 #### Status
 ACCEPTED

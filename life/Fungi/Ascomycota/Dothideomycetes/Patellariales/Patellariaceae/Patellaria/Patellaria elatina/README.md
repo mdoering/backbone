@@ -1,5 +1,4 @@
-Patellaria elatina (Ach.) Hepp SPECIES
-=======
+# Patellaria elatina (Ach.) Hepp SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria galegae-orientalis Lobik SPECIES
-=======
+# Septoria galegae-orientalis Lobik SPECIES
 
 #### Status
 ACCEPTED

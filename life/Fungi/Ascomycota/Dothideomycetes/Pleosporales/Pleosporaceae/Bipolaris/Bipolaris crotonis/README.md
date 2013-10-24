@@ -1,5 +1,4 @@
-Bipolaris crotonis Sivan., 1985 SPECIES
-=======
+# Bipolaris crotonis Sivan., 1985 SPECIES
 
 #### Status
 ACCEPTED

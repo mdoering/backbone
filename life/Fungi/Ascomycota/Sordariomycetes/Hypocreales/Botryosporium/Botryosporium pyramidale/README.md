@@ -1,5 +1,4 @@
-Botryosporium pyramidale Costantin, 1888 SPECIES
-=======
+# Botryosporium pyramidale Costantin, 1888 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sinobaca Li et al., 2008 GENUS
-=======
+# Sinobaca Li et al., 2008 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectria trachycarpa Penz. & Sacc. SPECIES
-=======
+# Nectria trachycarpa Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

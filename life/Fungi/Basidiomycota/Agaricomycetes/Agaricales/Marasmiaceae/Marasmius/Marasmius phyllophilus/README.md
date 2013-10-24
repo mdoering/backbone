@@ -1,5 +1,4 @@
-Marasmius phyllophilus Peck SPECIES
-=======
+# Marasmius phyllophilus Peck SPECIES
 
 #### Status
 ACCEPTED

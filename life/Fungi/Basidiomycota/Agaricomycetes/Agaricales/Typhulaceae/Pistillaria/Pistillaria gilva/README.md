@@ -1,5 +1,4 @@
-Pistillaria gilva (Lasch) Corner SPECIES
-=======
+# Pistillaria gilva (Lasch) Corner SPECIES
 
 #### Status
 ACCEPTED

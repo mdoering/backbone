@@ -1,5 +1,4 @@
-Cryptodiaporthe densissima (Ellis) Wehm. SPECIES
-=======
+# Cryptodiaporthe densissima (Ellis) Wehm. SPECIES
 
 #### Status
 ACCEPTED

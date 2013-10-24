@@ -1,5 +1,4 @@
-Phoma parasitica var. parasitica VARIETY
-=======
+# Phoma parasitica Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+J. Mycol. 4(10): 102 (1888)
 
 #### Original name
-Phoma parasitica var. parasitica
+Phoma parasitica Ellis & Everh.
 
 ### Remarks
 null

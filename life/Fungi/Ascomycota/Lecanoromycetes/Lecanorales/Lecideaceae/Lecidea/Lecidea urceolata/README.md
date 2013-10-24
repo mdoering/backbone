@@ -1,5 +1,4 @@
-Lecidea urceolata Meyen & Flot. SPECIES
-=======
+# Lecidea urceolata Meyen & Flot. SPECIES
 
 #### Status
 ACCEPTED

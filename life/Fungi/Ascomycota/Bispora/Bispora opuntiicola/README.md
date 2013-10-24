@@ -1,5 +1,4 @@
-Bispora opuntiicola Reichert SPECIES
-=======
+# Bispora opuntiicola Reichert SPECIES
 
 #### Status
 ACCEPTED

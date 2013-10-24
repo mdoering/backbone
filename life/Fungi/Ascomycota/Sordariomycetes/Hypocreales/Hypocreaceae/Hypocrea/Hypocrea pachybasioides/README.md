@@ -1,5 +1,4 @@
-Hypocrea pachybasioides Yoshim. Doi, 1972 SPECIES
-=======
+# Hypocrea pachybasioides Yoshim. Doi, 1972 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collybia sericea Rick SPECIES
-=======
+# Collybia sericea Rick SPECIES
 
 #### Status
 ACCEPTED

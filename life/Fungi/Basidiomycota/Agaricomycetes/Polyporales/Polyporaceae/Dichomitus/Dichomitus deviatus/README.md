@@ -1,5 +1,4 @@
-Dichomitus deviatus Ipulet & Ryvarden SPECIES
-=======
+# Dichomitus deviatus Ipulet & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

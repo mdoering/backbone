@@ -1,5 +1,4 @@
-Lepraria cobaltiginea (Wulfen) Ach. SPECIES
-=======
+# Lepraria cobaltiginea (Wulfen) Ach. SPECIES
 
 #### Status
 ACCEPTED

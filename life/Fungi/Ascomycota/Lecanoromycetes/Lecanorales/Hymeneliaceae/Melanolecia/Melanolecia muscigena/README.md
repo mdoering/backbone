@@ -1,5 +1,4 @@
-Melanolecia muscigena (Vezda) Hertel SPECIES
-=======
+# Melanolecia muscigena (Vezda) Hertel SPECIES
 
 #### Status
 ACCEPTED

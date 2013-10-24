@@ -1,14 +1,13 @@
-Xylosphaera berterii (Mont.) Dennis, 1970 SPECIES
-=======
+# Penzigia berterii (Mont.) L.W. Mill., 1934 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Kew Bull. , Addit. Ser. 3: 302 (1970)
+Monograph Univ. Puerto Rico, Series B 2: 210 (1934)
 
 #### Original name
 Xerotus berterii Mont., 1835

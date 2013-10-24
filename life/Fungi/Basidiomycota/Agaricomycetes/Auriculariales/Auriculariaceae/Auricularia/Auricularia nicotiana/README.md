@@ -1,5 +1,4 @@
-Auricularia nicotiana Bolton SPECIES
-=======
+# Auricularia nicotiana Bolton SPECIES
 
 #### Status
 ACCEPTED

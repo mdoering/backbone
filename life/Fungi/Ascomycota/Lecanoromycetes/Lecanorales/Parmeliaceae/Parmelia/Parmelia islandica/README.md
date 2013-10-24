@@ -1,5 +1,4 @@
-Parmelia islandica (L.) Hepp SPECIES
-=======
+# Parmelia islandica (L.) Hepp SPECIES
 
 #### Status
 ACCEPTED

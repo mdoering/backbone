@@ -1,5 +1,4 @@
-Hyalopus boydii (Shear) M.A.J. Barbosa SPECIES
-=======
+# Hyalopus boydii (Shear) M.A.J. Barbosa SPECIES
 
 #### Status
 ACCEPTED

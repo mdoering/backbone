@@ -1,5 +1,4 @@
-Urocystis multispora Y.C. Wang SPECIES
-=======
+# Urocystis multispora Y.C. Wang SPECIES
 
 #### Status
 ACCEPTED

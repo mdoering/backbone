@@ -1,5 +1,4 @@
-Triloculinella obliquinodus Riccio, 1950 SPECIES
-=======
+# Triloculinella obliquinodus Riccio, 1950 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthopyrenia farrea (Ach.) H. Olivier SPECIES
-=======
+# Arthopyrenia farrea (Ach.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

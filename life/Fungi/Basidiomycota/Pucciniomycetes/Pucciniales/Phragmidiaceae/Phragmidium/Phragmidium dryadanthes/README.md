@@ -1,5 +1,4 @@
-Phragmidium dryadanthes Domashova SPECIES
-=======
+# Phragmidium dryadanthes Domashova SPECIES
 
 #### Status
 ACCEPTED

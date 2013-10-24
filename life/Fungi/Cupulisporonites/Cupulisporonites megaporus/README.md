@@ -1,5 +1,4 @@
-Cupulisporonites megaporus Z.C. Song & Liu Cao SPECIES
-=======
+# Cupulisporonites megaporus Z.C. Song & Liu Cao SPECIES
 
 #### Status
 ACCEPTED

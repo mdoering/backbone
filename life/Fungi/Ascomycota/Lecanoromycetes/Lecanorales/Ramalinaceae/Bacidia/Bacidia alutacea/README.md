@@ -1,5 +1,4 @@
-Lecidea alutacea var. alutacea VARIETY
-=======
+# Bacidia alutacea (Kremp.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Cat. Lich. Univers. 4: 174 (1926)
 
 #### Original name
-Lecidea alutacea var. alutacea
+Lecidea alutacea Kremp.
 
 ### Remarks
 null

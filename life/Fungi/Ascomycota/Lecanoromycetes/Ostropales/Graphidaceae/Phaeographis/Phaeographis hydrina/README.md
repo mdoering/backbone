@@ -1,5 +1,4 @@
-Phaeographis hydrina (Vain.) Redinger SPECIES
-=======
+# Phaeographis hydrina (Vain.) Redinger SPECIES
 
 #### Status
 ACCEPTED

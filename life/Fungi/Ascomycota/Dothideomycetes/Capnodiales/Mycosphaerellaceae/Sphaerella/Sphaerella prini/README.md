@@ -1,5 +1,4 @@
-Sphaerella prini Cooke SPECIES
-=======
+# Sphaerella prini Cooke SPECIES
 
 #### Status
 ACCEPTED

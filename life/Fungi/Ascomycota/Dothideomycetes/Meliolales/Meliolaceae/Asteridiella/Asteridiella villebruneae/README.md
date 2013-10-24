@@ -1,5 +1,4 @@
-Asteridiella villebruneae (Hansf.) Hansf. SPECIES
-=======
+# Asteridiella villebruneae (Hansf.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

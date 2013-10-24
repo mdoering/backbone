@@ -1,5 +1,4 @@
-Rinodina steineri Zahlbr. SPECIES
-=======
+# Rinodina steineri Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

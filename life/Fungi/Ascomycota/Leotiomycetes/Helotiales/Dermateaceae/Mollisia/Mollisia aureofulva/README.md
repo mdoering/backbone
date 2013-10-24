@@ -1,5 +1,4 @@
-Mollisia aureofulva Cooke SPECIES
-=======
+# Mollisia aureofulva Cooke SPECIES
 
 #### Status
 ACCEPTED

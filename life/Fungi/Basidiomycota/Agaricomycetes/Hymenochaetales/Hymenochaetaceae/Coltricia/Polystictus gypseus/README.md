@@ -1,5 +1,4 @@
-Polystictus gypseus Yasuda SPECIES
-=======
+# Polystictus gypseus Yasuda SPECIES
 
 #### Status
 ACCEPTED

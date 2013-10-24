@@ -1,5 +1,4 @@
-Xylosphaera areolata (Berk. & M.A. Curtis) Dennis SPECIES
-=======
+# Xylosphaera areolata (Berk. & M.A. Curtis) Dennis SPECIES
 
 #### Status
 ACCEPTED

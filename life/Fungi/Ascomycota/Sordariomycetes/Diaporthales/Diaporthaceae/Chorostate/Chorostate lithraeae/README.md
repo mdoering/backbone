@@ -1,5 +1,4 @@
-Chorostate lithraeae (Speg.) Sacc. & Trotter SPECIES
-=======
+# Chorostate lithraeae (Speg.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium iwatense Dietel SPECIES
-=======
+# Aecidium iwatense Dietel SPECIES
 
 #### Status
 ACCEPTED

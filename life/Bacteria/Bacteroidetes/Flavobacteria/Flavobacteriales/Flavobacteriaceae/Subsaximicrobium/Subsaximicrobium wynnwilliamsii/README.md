@@ -1,5 +1,4 @@
-Subsaximicrobium wynnwilliamsii Bowman & Nichols, 2005 SPECIES
-=======
+# Subsaximicrobium wynnwilliamsii Bowman & Nichols, 2005 SPECIES
 
 #### Status
 ACCEPTED

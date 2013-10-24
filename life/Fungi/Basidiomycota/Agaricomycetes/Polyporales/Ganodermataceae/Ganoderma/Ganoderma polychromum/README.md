@@ -1,5 +1,4 @@
-Ganoderma polychromum (Copel.) Murrill SPECIES
-=======
+# Ganoderma polychromum (Copel.) Murrill SPECIES
 
 #### Status
 ACCEPTED

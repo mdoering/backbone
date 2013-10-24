@@ -1,5 +1,4 @@
-Globigerinoita Brönnimann, 1952 GENUS
-=======
+# Globigerinoita Brönnimann, 1952 GENUS
 
 #### Status
 ACCEPTED

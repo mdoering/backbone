@@ -1,5 +1,4 @@
-Uromyces polytriadicola Arthur & Cummins SPECIES
-=======
+# Uromyces polytriadicola Arthur & Cummins SPECIES
 
 #### Status
 ACCEPTED

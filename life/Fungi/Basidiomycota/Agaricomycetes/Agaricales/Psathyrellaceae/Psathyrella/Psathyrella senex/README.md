@@ -1,5 +1,4 @@
-Psathyrella senex (Peck) A.H. Sm. SPECIES
-=======
+# Psathyrella senex (Peck) A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

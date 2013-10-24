@@ -1,5 +1,4 @@
-Boletus amabilis Peck SPECIES
-=======
+# Boletus amabilis Peck SPECIES
 
 #### Status
 ACCEPTED

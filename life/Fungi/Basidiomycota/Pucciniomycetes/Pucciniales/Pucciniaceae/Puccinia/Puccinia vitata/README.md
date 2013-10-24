@@ -1,5 +1,4 @@
-Puccinia vitata J.F. Hennen & Hodges SPECIES
-=======
+# Puccinia vitata J.F. Hennen & Hodges SPECIES
 
 #### Status
 ACCEPTED

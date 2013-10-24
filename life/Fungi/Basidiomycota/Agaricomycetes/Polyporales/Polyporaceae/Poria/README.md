@@ -1,17 +1,16 @@
-Riopa D.A. Reid, 1969 GENUS
-=======
+# Poria Persoon, 1794 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revue Mycol. , Paris 33: 244 (1969)
+Neues Mag. Bot. 1: 109 (1794)
 
 #### Original name
-Riopa D.A. Reid, 1969
+Poria Persoon, 1794
 
 ### Remarks
 null

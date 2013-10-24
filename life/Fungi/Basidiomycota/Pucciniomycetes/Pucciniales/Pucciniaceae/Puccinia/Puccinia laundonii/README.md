@@ -1,5 +1,4 @@
-Puccinia laundonii L. Holm SPECIES
-=======
+# Puccinia laundonii L. Holm SPECIES
 
 #### Status
 ACCEPTED

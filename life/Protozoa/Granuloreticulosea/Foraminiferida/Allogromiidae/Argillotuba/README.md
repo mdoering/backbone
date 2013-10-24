@@ -1,5 +1,4 @@
-Argillotuba Avnimelech, 1952 GENUS
-=======
+# Argillotuba Avnimelech, 1952 GENUS
 
 #### Status
 ACCEPTED

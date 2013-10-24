@@ -1,5 +1,4 @@
-Buellia pallidomarginata A. Nordin SPECIES
-=======
+# Buellia pallidomarginata A. Nordin SPECIES
 
 #### Status
 ACCEPTED

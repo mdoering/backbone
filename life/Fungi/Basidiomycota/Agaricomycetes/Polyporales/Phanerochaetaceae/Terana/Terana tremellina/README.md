@@ -1,5 +1,4 @@
-Terana tremellina (Berk. & Ravenel) Kuntze SPECIES
-=======
+# Terana tremellina (Berk. & Ravenel) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphis kelungana Zahlbr. SPECIES
-=======
+# Graphis kelungana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

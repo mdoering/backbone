@@ -1,17 +1,16 @@
-Corticium eriksonii Jülich SPECIES
-=======
+# Corticium erikssonii Jülich, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Corticium eriksonii Jülich
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Ramularia convolvuli Zaprom. SPECIES
-=======
+# Ramularia convolvuli Zaprom. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Diplodia deflectens P. Karst., 1884 SPECIES
-=======
+# Ascochytulina deflectens (P. Karst.) Petr., 1922 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 20(5/6): 342 (1922)
 
 #### Original name
-null
+Diplodia deflectans P. Karst.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Melanops hypericorum (Cooke) Weese SPECIES
-=======
+# Melanops hypericorum (Cooke) Weese SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichophyton thuringiense H.A. Koch, 1969 SPECIES
-=======
+# Trichophyton thuringiense H.A. Koch, 1969 SPECIES
 
 #### Status
 ACCEPTED

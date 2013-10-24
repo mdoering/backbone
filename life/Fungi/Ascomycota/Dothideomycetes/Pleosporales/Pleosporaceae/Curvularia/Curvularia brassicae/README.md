@@ -1,5 +1,4 @@
-Curvularia brassicae M. Mohan & Mukerji, 1979 SPECIES
-=======
+# Curvularia brassicae M. Mohan & Mukerji, 1979 SPECIES
 
 #### Status
 ACCEPTED

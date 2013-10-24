@@ -1,5 +1,4 @@
-Sticta alpinotropica Aptroot SPECIES
-=======
+# Sticta alpinotropica Aptroot SPECIES
 
 #### Status
 ACCEPTED

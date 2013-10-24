@@ -1,5 +1,4 @@
-Laurera ochroleucodes (Vain.) Zahlbr. SPECIES
-=======
+# Laurera ochroleucodes (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

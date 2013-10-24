@@ -1,5 +1,4 @@
-Actinomyces cerebriformis Namysl. SPECIES
-=======
+# Actinomyces cerebriformis Namysl. SPECIES
 
 #### Status
 ACCEPTED

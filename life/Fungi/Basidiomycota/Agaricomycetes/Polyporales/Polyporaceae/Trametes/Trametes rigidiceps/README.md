@@ -1,5 +1,4 @@
-Trametes rigidiceps Corner SPECIES
-=======
+# Trametes rigidiceps Corner SPECIES
 
 #### Status
 ACCEPTED

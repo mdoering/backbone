@@ -1,5 +1,4 @@
-Ethmorhabdus gallicus Noël, 1965 SPECIES
-=======
+# Ethmorhabdus gallicus Noël, 1965 SPECIES
 
 #### Status
 ACCEPTED

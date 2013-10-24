@@ -1,5 +1,4 @@
-Graphis atroleuca Zahlbr. SPECIES
-=======
+# Graphis atroleuca Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

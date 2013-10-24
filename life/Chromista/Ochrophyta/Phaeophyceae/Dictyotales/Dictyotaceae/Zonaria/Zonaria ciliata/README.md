@@ -1,5 +1,4 @@
-Zonaria ciliata C. Agardh SPECIES
-=======
+# Zonaria ciliata C. Agardh SPECIES
 
 #### Status
 ACCEPTED

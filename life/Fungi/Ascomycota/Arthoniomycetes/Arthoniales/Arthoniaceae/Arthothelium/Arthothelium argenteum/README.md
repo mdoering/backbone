@@ -1,5 +1,4 @@
-Arthothelium argenteum (Stizenb.) Zahlbr. SPECIES
-=======
+# Arthothelium argenteum (Stizenb.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

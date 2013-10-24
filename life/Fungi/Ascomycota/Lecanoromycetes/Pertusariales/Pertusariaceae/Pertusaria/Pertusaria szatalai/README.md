@@ -1,5 +1,4 @@
-Pertusaria szatalai Erichsen SPECIES
-=======
+# Pertusaria szatalai Erichsen SPECIES
 
 #### Status
 ACCEPTED

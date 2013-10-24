@@ -1,5 +1,4 @@
-Phlyctella megalospora P. James SPECIES
-=======
+# Phlyctella megalospora P. James SPECIES
 
 #### Status
 ACCEPTED

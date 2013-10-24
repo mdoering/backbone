@@ -1,5 +1,4 @@
-Phacus staurastoides Conrad SPECIES
-=======
+# Phacus staurastoides Conrad SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Capitularia myelospora Ces. SPECIES
-=======
+# Capitularia myelospora Ces. SPECIES
 
 #### Status
 ACCEPTED

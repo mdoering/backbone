@@ -1,8 +1,7 @@
-Ustilago paspalidicola Zambett. SPECIES
-=======
+# Ustilago paspalidiicola Zambett. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ustilago paspalidicola Zambett.
+Ustilago paspalidiicola Zambett.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Aspergillus salviicola Udagawa, Kamiya & Tsub., 1994 SPECIES
-=======
+# Aspergillus salviicola Udagawa, Kamiya & Tsub., 1994 SPECIES
 
 #### Status
 ACCEPTED

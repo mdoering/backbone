@@ -1,5 +1,4 @@
-Clitocybe roseomaculata Rabenh. SPECIES
-=======
+# Clitocybe roseomaculata Rabenh. SPECIES
 
 #### Status
 ACCEPTED

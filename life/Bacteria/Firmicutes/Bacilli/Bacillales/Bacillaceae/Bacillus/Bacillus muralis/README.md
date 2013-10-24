@@ -1,5 +1,4 @@
-Bacillus muralis Heyrman et al., 2005 SPECIES
-=======
+# Bacillus muralis Heyrman et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

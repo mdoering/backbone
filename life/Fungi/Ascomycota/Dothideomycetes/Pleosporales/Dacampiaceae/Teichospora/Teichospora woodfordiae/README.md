@@ -1,5 +1,4 @@
-Teichospora woodfordiae R. Rao & Modak SPECIES
-=======
+# Teichospora woodfordiae R. Rao & Modak SPECIES
 
 #### Status
 ACCEPTED

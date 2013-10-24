@@ -1,5 +1,4 @@
-Discorbis margaritaensis SPECIES
-=======
+# Discorbis margaritaensis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spumula serispora Berndt, 1996 SPECIES
-=======
+# Spumula serispora Berndt, 1996 SPECIES
 
 #### Status
 ACCEPTED

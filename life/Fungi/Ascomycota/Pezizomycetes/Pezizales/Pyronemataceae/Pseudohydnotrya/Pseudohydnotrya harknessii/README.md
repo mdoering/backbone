@@ -1,17 +1,16 @@
-Pseudhydnotrya harknessii E. Fisch. SPECIES
-=======
+# Pseudohydnotrya harknessii E. Fisch. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Engler & Prantl, Nat. Pflanzenfam. (Leipzig), Teil. <b>I</b> 1: 282 (1897)
 
 #### Original name
-Pseudhydnotrya harknessii E. Fisch.
+Pseudohydnotrya harknessii E. Fisch.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cyttarocylis acuminata Ehrenberg, 1874 SPECIES
-=======
+# Cyttarocylis acuminata Ehrenberg, 1874 SPECIES
 
 #### Status
 ACCEPTED

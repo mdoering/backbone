@@ -1,5 +1,4 @@
-Sphaerella paulowniae Shirai & Hara SPECIES
-=======
+# Sphaerella paulowniae Shirai & Hara SPECIES
 
 #### Status
 ACCEPTED

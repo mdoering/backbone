@@ -1,5 +1,4 @@
-Macrophoma lagenariae (Thüm.) Berl. & Voglino SPECIES
-=======
+# Macrophoma lagenariae (Thüm.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

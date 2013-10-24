@@ -1,5 +1,4 @@
-Sebacina burtii Trotter SPECIES
-=======
+# Sebacina burtii Trotter SPECIES
 
 #### Status
 ACCEPTED

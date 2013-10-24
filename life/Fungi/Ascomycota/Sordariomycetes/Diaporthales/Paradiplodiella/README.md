@@ -1,5 +1,4 @@
-Paradiplodiella GENUS
-=======
+# Paradiplodiella GENUS
 
 #### Status
 ACCEPTED

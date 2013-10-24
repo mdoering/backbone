@@ -1,5 +1,4 @@
-Pertusaria areolata SPECIES
-=======
+# Pertusaria areolata SPECIES
 
 #### Status
 ACCEPTED

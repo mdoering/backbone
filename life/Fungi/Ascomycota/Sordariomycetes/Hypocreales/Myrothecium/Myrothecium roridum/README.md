@@ -1,14 +1,13 @@
-Dacrydium roridum (Tode) Link, 1809 SPECIES
-=======
+# Myrothecium roridum Tode, 1790 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Magazin Ges. naturf. Freunde, Berlin 3(1-2): 42 (1809)
+Fung. mecklenb. sel. (Lüneburg) 1: 25 (1790)
 
 #### Original name
 Myrothecium roridum Tode, 1790

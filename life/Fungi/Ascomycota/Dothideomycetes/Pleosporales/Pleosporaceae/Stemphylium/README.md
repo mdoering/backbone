@@ -1,17 +1,16 @@
-Soreymatosporium Sousa da Câmara GENUS
-=======
+# Stemphylium Wallr. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proposta Stemphylium 18 (1930)
+Fl. crypt. Germ. (Nürnberg) 2: 300 (1833)
 
 #### Original name
-Soreymatosporium Sousa da Câmara
+Stemphylium Wallr.
 
 ### Remarks
 null

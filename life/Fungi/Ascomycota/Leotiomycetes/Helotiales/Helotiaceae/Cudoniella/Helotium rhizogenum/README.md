@@ -1,5 +1,4 @@
-Helotium rhizogenum Ellis & Everh. SPECIES
-=======
+# Helotium rhizogenum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

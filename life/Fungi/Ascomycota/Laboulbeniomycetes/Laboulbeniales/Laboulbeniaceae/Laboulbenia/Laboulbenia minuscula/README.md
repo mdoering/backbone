@@ -1,5 +1,4 @@
-Laboulbenia minuscula Speg. SPECIES
-=======
+# Laboulbenia minuscula Speg. SPECIES
 
 #### Status
 ACCEPTED

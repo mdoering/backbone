@@ -1,5 +1,4 @@
-Phaeochaetia arbutifoliae Bat., Cif. & Nascim. SPECIES
-=======
+# Phaeochaetia arbutifoliae Bat., Cif. & Nascim. SPECIES
 
 #### Status
 ACCEPTED

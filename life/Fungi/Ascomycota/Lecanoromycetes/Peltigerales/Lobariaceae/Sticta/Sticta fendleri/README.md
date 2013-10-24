@@ -1,5 +1,4 @@
-Sticta fendleri Tuck. & Mont. SPECIES
-=======
+# Sticta fendleri Tuck. & Mont. SPECIES
 
 #### Status
 ACCEPTED

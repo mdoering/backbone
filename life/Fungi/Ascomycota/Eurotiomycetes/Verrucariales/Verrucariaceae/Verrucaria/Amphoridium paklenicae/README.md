@@ -1,5 +1,4 @@
-Amphoridium paklenicae (Servít) Servít SPECIES
-=======
+# Amphoridium paklenicae (Servít) Servít SPECIES
 
 #### Status
 ACCEPTED

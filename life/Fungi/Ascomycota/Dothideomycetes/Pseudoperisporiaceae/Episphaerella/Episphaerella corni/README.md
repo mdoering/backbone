@@ -1,5 +1,4 @@
-Episphaerella corni Syd. SPECIES
-=======
+# Episphaerella corni Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterothyrium gyalideoides Henssen & Lücking SPECIES
-=======
+# Asterothyrium gyalideoides Henssen & Lücking SPECIES
 
 #### Status
 ACCEPTED

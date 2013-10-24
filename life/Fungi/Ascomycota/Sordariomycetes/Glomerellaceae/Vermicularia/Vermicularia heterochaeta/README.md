@@ -1,5 +1,4 @@
-Vermicularia heterochaeta Pass. SPECIES
-=======
+# Vermicularia heterochaeta Pass. SPECIES
 
 #### Status
 ACCEPTED

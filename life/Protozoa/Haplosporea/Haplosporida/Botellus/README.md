@@ -1,14 +1,13 @@
-Serumsporidium Pfeiffer, 1895 GENUS
-=======
+# Botellus Moniez, 1887 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+IRMNG Homonym List
 
 #### Published in
-Protoz. Krankh. , Suppl. , 11.
+C. R. Acad. Sci. , Paris, 104, 184.
 
 #### Original name
 null

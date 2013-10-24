@@ -1,5 +1,4 @@
-Protomycopsis pulicariae Maire SPECIES
-=======
+# Protomycopsis pulicariae Maire SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phacus starmachii Stawinski SPECIES
-=======
+# Phacus starmachii Stawinski SPECIES
 
 #### Status
 ACCEPTED

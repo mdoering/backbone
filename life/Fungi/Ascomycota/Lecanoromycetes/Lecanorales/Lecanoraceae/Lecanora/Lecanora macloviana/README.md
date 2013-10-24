@@ -1,5 +1,4 @@
-Lecanora macloviana Pers. SPECIES
-=======
+# Lecanora macloviana Pers. SPECIES
 
 #### Status
 ACCEPTED

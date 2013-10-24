@@ -1,5 +1,4 @@
-Macrophoma mucipara (Penz. & Sacc.) Berl. & Voglino SPECIES
-=======
+# Macrophoma mucipara (Penz. & Sacc.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

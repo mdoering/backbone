@@ -1,5 +1,4 @@
-Hohenbuehelia griseipendens Corner SPECIES
-=======
+# Hohenbuehelia griseipendens Corner SPECIES
 
 #### Status
 ACCEPTED

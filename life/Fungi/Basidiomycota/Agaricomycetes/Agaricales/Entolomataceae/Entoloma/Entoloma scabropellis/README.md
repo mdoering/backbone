@@ -1,17 +1,16 @@
-Entoloma scabropelle Noordel. SPECIES
-=======
+# Entoloma scabropellis Noordel., 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Persoonia 12(3): 218 (1984)
 
 #### Original name
-Entoloma scabropelle Noordel.
+Entoloma scabropellis Noordel., 1984
 
 ### Remarks
 null

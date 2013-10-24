@@ -1,17 +1,16 @@
-Phlegmacium cyanites var. cyanites VARIETY
-=======
+# Cortinarius cyanites Fr., 1838 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Die Gatt. Phlegm. 337 (1960)
+Epicr. syst. mycol. (Upsaliae) 279 (1838)
 
 #### Original name
-Phlegmacium cyanites var. cyanites
+Cortinarius cyanites Fr., 1838
 
 ### Remarks
 null

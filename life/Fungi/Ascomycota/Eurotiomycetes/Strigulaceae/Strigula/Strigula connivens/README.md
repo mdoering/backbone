@@ -1,5 +1,4 @@
-Strigula connivens R. C. Harris SPECIES
-=======
+# Strigula connivens R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

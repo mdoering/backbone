@@ -1,5 +1,4 @@
-Gloeosporium vancouveranum Karak. SPECIES
-=======
+# Gloeosporium vancouveranum Karak. SPECIES
 
 #### Status
 ACCEPTED

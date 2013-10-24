@@ -1,5 +1,4 @@
-Cjd prion (Creutzfeldt-Jakob disease) SPECIES
-=======
+# Cjd prion (Creutzfeldt-Jakob disease) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius miser M.M. Moser SPECIES
-=======
+# Cortinarius miser M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

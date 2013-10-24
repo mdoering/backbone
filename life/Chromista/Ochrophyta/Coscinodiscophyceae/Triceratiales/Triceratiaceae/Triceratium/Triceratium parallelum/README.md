@@ -1,5 +1,4 @@
-Triceratium parallelum var. madagascarense Grunow VARIETY
-=======
+# Triceratium parallelum (Ehrenb.) Grev., 1865 SPECIES
 
 #### Status
 ACCEPTED

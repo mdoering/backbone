@@ -1,14 +1,13 @@
-Empusa dipterigena Thaxt., 1888 SPECIES
-=======
+# Pandora dipterigena (Thaxt.) Humber, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Memoirs of the Boston Soc. Nat. Hist. 4(6): (1888)
+Mycotaxon 34(2): 452 (1989)
 
 #### Original name
 Empusa dipterigena Thaxt., 1888

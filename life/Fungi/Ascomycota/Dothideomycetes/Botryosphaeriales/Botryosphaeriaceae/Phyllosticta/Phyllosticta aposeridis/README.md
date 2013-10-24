@@ -1,5 +1,4 @@
-Phyllosticta aposeridis Allesch. SPECIES
-=======
+# Phyllosticta aposeridis Allesch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thuricola vasiformis Hammann, 1952 SPECIES
-=======
+# Thuricola vasiformis Hammann, 1952 SPECIES
 
 #### Status
 ACCEPTED

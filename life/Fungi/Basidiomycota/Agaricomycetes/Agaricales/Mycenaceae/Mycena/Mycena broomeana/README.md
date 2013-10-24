@@ -1,14 +1,13 @@
-Mycena broomeiana (Berk.) Sacc. SPECIES
-=======
+# Mycena broomeana (Berk.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 5: 281 (1887)
 
 #### Original name
 Agaricus broomeanus Berk.

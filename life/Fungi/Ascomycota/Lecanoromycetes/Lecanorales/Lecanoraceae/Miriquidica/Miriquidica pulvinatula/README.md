@@ -1,5 +1,4 @@
-Miriquidica pulvinatula (Arnold) Hertel & Rambold SPECIES
-=======
+# Miriquidica pulvinatula (Arnold) Hertel & Rambold SPECIES
 
 #### Status
 ACCEPTED

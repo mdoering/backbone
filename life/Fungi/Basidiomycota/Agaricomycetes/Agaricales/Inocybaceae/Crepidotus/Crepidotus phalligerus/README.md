@@ -1,5 +1,4 @@
-Crepidotus phalligerus (Mont.) Sacc. SPECIES
-=======
+# Crepidotus phalligerus (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sychnogonia erratica (A. Massal.) Trevis. SPECIES
-=======
+# Sychnogonia erratica (A. Massal.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

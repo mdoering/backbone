@@ -1,5 +1,4 @@
-Xylaria trianae Lév. SPECIES
-=======
+# Xylaria trianae Lév. SPECIES
 
 #### Status
 ACCEPTED

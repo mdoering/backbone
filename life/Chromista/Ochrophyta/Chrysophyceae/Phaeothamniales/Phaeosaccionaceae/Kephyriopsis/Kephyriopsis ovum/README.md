@@ -1,5 +1,4 @@
-Kephyriopsis ovum SPECIES
-=======
+# Kephyriopsis ovum SPECIES
 
 #### Status
 ACCEPTED

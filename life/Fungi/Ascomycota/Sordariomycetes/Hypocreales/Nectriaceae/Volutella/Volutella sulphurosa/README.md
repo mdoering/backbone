@@ -1,5 +1,4 @@
-Volutella sulphurosa Rolland SPECIES
-=======
+# Volutella sulphurosa Rolland SPECIES
 
 #### Status
 ACCEPTED

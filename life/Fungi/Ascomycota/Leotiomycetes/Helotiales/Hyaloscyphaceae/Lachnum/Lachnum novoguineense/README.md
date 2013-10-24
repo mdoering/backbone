@@ -1,14 +1,13 @@
-Lachnum novoguineense var. novoguineense VARIETY
-=======
+# Lachnum novoguineense (Y. Otani) Spooner SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Biblthca Mycol. 116: 478 (1987)
 
 #### Original name
 null

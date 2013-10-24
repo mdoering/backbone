@@ -1,17 +1,16 @@
-Mucronella calva f. ramificata Pilát FORM
-=======
+# Mucronella calva (Alb. & Schwein.) Fr., 1874 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hymenomyc. eur. (Upsaliae) 629 (1874)
 
 #### Original name
-Mucronella calva f. ramificata Pilát
+Hydnum calvum Alb. & Schwein., 1805
 
 ### Remarks
 null

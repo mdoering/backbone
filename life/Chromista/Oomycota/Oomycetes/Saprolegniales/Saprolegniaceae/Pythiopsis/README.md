@@ -1,5 +1,4 @@
-Pythiopsis de Bary, 1888 GENUS
-=======
+# Pythiopsis de Bary, 1888 GENUS
 
 #### Status
 ACCEPTED

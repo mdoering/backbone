@@ -1,5 +1,4 @@
-Thermodesulfobacteria Hatchikian, Ollivier & Garcia, 2002 CLASS
-=======
+# Thermodesulfobacteria Hatchikian, Ollivier & Garcia, 2002 CLASS
 
 #### Status
 ACCEPTED

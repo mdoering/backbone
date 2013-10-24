@@ -1,5 +1,4 @@
-Thermodesulforhabditis GENUS
-=======
+# Thermodesulforhabditis GENUS
 
 #### Status
 ACCEPTED

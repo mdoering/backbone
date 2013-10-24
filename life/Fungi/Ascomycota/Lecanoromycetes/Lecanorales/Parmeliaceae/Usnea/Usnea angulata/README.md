@@ -1,17 +1,16 @@
-Usnea torquescens var. torquescens VARIETY
-=======
+# Usnea angulata Ach. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. & Proc. New Zealand Inst. 30: 391 (1898)
+Syn. meth. lich. 307 (1814)
 
 #### Original name
-Usnea torquescens var. torquescens
+Usnea angulata Ach.
 
 ### Remarks
 null

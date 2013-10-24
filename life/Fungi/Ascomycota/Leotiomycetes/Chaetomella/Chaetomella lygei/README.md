@@ -1,5 +1,4 @@
-Chaetomella lygei Gonz. Frag. SPECIES
-=======
+# Chaetomella lygei Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

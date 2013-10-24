@@ -1,5 +1,4 @@
-Delitschia trichdelitschioides M.J. Richardson SPECIES
-=======
+# Delitschia trichdelitschioides M.J. Richardson SPECIES
 
 #### Status
 ACCEPTED

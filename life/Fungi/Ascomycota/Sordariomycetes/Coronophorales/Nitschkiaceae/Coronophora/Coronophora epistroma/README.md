@@ -1,5 +1,4 @@
-Coronophora epistroma Syd. SPECIES
-=======
+# Coronophora epistroma Syd. SPECIES
 
 #### Status
 ACCEPTED

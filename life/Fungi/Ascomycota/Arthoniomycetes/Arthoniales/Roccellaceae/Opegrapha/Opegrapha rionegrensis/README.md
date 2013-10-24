@@ -1,5 +1,4 @@
-Opegrapha rionegrensis Redinger SPECIES
-=======
+# Opegrapha rionegrensis Redinger SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphina subvestita (Vain.) Aptroot SPECIES
-=======
+# Graphina subvestita (Vain.) Aptroot SPECIES
 
 #### Status
 ACCEPTED

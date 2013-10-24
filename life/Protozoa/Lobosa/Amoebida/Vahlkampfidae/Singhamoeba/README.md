@@ -1,14 +1,13 @@
-Schizopyrenus Singh, 1952 GENUS
-=======
+# Singhamoeba Sawyer, Nerad & Munson, 1992 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Phil. Trans. , 236B, no. 636, 421.
+J Protozool 39 (1): 107.
 
 #### Original name
 null

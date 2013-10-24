@@ -1,17 +1,16 @@
-Ophiobolus melghatibus Dharkar, Hande & Subhedar, 2006 SPECIES
-=======
+# Ophiobolus melghaticus Dharkar, Hande & Subhedar, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Journal of Mycology and Plant Pathology 36(1): 28 (2006)
 
 #### Original name
-Ophiobolus melghatibus Dharkar, Hande & Subhedar, 2006
+Ophiobolus melghaticus Dharkar, Hande & Subhedar, 2006
 
 ### Remarks
 null

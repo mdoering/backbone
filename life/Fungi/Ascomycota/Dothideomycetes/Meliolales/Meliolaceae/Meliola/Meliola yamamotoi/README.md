@@ -1,5 +1,4 @@
-Meliola yamamotoi Cif. SPECIES
-=======
+# Meliola yamamotoi Cif. SPECIES
 
 #### Status
 ACCEPTED

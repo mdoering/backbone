@@ -1,5 +1,4 @@
-Graphis atrata Fée SPECIES
-=======
+# Graphis atrata Fée SPECIES
 
 #### Status
 ACCEPTED

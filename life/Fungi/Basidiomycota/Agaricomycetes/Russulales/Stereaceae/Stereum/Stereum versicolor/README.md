@@ -1,5 +1,4 @@
-Stereum versicolor var. versicolor VARIETY
-=======
+# Stereum versicolor (Sw.) Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Epicr. syst. mycol. (Upsaliae) 547 (1838)
 
 #### Original name
-Stereum versicolor var. versicolor
+Thelephora versicolor Sw.
 
 ### Remarks
 null

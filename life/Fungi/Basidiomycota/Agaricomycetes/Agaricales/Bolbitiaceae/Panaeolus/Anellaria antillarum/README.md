@@ -1,5 +1,4 @@
-Anellaria antillarum (Fr.) Hlavácek SPECIES
-=======
+# Anellaria antillarum (Fr.) Hlavácek SPECIES
 
 #### Status
 ACCEPTED

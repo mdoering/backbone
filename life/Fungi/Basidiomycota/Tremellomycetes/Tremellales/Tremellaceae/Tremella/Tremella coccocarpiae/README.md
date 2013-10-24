@@ -1,5 +1,4 @@
-Tremella coccocarpiae Diederich SPECIES
-=======
+# Tremella coccocarpiae Diederich SPECIES
 
 #### Status
 ACCEPTED

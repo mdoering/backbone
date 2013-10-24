@@ -1,5 +1,4 @@
-Piricauda longispora Mercado, Gené & Guarro SPECIES
-=======
+# Piricauda longispora Mercado, Gené & Guarro SPECIES
 
 #### Status
 ACCEPTED

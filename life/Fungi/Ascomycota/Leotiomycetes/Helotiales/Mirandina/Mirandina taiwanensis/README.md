@@ -1,5 +1,4 @@
-Mirandina taiwanensis Matsush. SPECIES
-=======
+# Mirandina taiwanensis Matsush. SPECIES
 
 #### Status
 ACCEPTED

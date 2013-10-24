@@ -1,5 +1,4 @@
-Ciboria guizhouensis W.Y. Zhuang SPECIES
-=======
+# Ciboria guizhouensis W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

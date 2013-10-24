@@ -1,5 +1,4 @@
-Clavaria austera Britzelm. SPECIES
-=======
+# Clavaria austera Britzelm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo apiculata var. apiculata VARIETY
-=======
+# Uredo apiculata F. Strauss SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Uredo apiculata var. apiculata
+Uredo apiculata F. Strauss
 
 ### Remarks
 null

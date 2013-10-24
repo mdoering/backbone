@@ -1,5 +1,4 @@
-Omphalia xanthophylla (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Omphalia xanthophylla (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

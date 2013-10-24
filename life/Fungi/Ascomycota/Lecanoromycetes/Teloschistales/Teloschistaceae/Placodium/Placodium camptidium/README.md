@@ -1,5 +1,4 @@
-Placodium camptidium (Tuck.) Tuck. SPECIES
-=======
+# Placodium camptidium (Tuck.) Tuck. SPECIES
 
 #### Status
 ACCEPTED

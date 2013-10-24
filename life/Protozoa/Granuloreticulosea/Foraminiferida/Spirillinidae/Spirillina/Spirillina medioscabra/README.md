@@ -1,5 +1,4 @@
-Spirillina medioscabra Carter, 1958 SPECIES
-=======
+# Spirillina medioscabra Carter, 1958 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hymenoscyphus tuba var. tuba W. Phillips VARIETY
-=======
+# Hymenoscyphus tuba W. Phillips SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Hymenoscyphus tuba var. tuba W. Phillips
+Hymenoscyphus tuba W. Phillips
 
 ### Remarks
 null

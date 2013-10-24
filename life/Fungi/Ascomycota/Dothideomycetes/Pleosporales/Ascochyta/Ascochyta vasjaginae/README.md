@@ -1,5 +1,4 @@
-Ascochyta vasjaginae Melnik SPECIES
-=======
+# Ascochyta vasjaginae Melnik SPECIES
 
 #### Status
 ACCEPTED

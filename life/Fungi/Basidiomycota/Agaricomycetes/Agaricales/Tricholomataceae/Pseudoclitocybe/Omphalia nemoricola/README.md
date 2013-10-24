@@ -1,5 +1,4 @@
-Omphalia nemoricola Rick SPECIES
-=======
+# Omphalia nemoricola Rick SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pestalotia decolorata Speg. SPECIES
-=======
+# Pestalotia decolorata Speg. SPECIES
 
 #### Status
 ACCEPTED

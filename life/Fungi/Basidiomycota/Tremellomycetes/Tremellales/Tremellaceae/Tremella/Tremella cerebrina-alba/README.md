@@ -1,5 +1,4 @@
-Tremella cerebrina-alba Bull. SPECIES
-=======
+# Tremella cerebrina-alba Bull. SPECIES
 
 #### Status
 ACCEPTED

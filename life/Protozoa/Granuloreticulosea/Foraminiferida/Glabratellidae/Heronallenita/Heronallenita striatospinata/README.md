@@ -1,5 +1,4 @@
-Heronallenita striatospinata SPECIES
-=======
+# Heronallenita striatospinata SPECIES
 
 #### Status
 ACCEPTED

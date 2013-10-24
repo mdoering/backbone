@@ -1,5 +1,4 @@
-Gonospora glycerae Pixell-Goodrich, 1916 SPECIES
-=======
+# Gonospora glycerae Pixell-Goodrich, 1916 SPECIES
 
 #### Status
 ACCEPTED

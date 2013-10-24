@@ -1,5 +1,4 @@
-Scutula leucorrhodina Speg. SPECIES
-=======
+# Scutula leucorrhodina Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca aequata (Hue) Zahlbr. SPECIES
-=======
+# Caloplaca aequata (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

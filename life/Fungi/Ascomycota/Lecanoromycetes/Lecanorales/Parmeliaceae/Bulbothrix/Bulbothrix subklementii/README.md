@@ -1,5 +1,4 @@
-Bulbothrix subklementii Marcelli SPECIES
-=======
+# Bulbothrix subklementii Marcelli SPECIES
 
 #### Status
 ACCEPTED

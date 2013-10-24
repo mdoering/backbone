@@ -1,5 +1,4 @@
-Pyrenula xanthominuta Aptroot SPECIES
-=======
+# Pyrenula xanthominuta Aptroot SPECIES
 
 #### Status
 ACCEPTED

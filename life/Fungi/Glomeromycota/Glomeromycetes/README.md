@@ -1,5 +1,4 @@
-Glomeromycetes Caval.-Sm. CLASS
-=======
+# Glomeromycetes Caval.-Sm. CLASS
 
 #### Status
 ACCEPTED

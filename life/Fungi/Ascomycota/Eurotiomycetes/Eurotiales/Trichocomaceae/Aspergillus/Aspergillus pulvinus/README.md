@@ -1,5 +1,4 @@
-Aspergillus pulvinus Kwon-Chung & Fennell, 1965 SPECIES
-=======
+# Aspergillus pulvinus Kwon-Chung & Fennell, 1965 SPECIES
 
 #### Status
 ACCEPTED

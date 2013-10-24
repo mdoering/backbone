@@ -1,5 +1,4 @@
-Fragilaria cyclopum (Brutschy) Lange-Bertalot SPECIES
-=======
+# Fragilaria cyclopum (Brutschy) Lange-Bertalot SPECIES
 
 #### Status
 ACCEPTED

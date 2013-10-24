@@ -1,14 +1,13 @@
-Bombyliospora domingensis f. domingensis FORM
-=======
+# Letrouitia domingensis (Pers.) Hafellner & Bellem. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Wawra & Beck, Itin. Princ. S. Coburgi 2: 153 (1888)
+Nova Hedwigia 35(2 & 3): 281 (1982)
 
 #### Original name
 Patellaria domingensis Pers.

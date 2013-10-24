@@ -1,5 +1,4 @@
-Diplodia viscicola Henn. SPECIES
-=======
+# Diplodia viscicola Henn. SPECIES
 
 #### Status
 ACCEPTED

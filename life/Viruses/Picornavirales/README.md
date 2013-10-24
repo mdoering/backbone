@@ -1,5 +1,4 @@
-Picornavirales ORDER
-=======
+# Picornavirales ORDER
 
 #### Status
 ACCEPTED

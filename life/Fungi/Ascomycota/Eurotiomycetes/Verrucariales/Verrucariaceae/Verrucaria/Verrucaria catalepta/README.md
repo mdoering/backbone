@@ -1,5 +1,4 @@
-Verrucaria catalepta var. catalepta VARIETY
-=======
+# Verrucaria catalepta (Ach.) Spreng. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Verrucaria catalepta var. catalepta
+Verrucaria catalepta (Ach.) Spreng.
 
 ### Remarks
 null

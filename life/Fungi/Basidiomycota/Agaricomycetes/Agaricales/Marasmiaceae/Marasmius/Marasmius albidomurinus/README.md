@@ -1,5 +1,4 @@
-Marasmius albidomurinus Singer SPECIES
-=======
+# Marasmius albidomurinus Singer SPECIES
 
 #### Status
 ACCEPTED

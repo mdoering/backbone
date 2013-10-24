@@ -1,5 +1,4 @@
-Barnettella speciosa D. Rao & P.Rag. Rao, 1964 SPECIES
-=======
+# Barnettella speciosa D. Rao & P.Rag. Rao, 1964 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Multiplicisphaeridium retiformie N. Umnova, 1975 SPECIES
-=======
+# Multiplicisphaeridium retiformie N. Umnova, 1975 SPECIES
 
 #### Status
 ACCEPTED

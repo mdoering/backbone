@@ -1,14 +1,13 @@
-Achroomyces sebaceus (Berk. & Broome) Wojewoda, 1977 SPECIES
-=======
+# Naohidea sebacea (Berk. & Broome) Oberw., 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora Polska, Grzyby, 8, Basidiomycetes, Tremellales, Auriculariales, Septobasidiales (Warszawa-Krakow) 243 (1977)
+Rep. Tottori Mycol. Inst. 28: 114 (1990)
 
 #### Original name
 Dacrymyces sebaceus Berk. & Broome, 1871

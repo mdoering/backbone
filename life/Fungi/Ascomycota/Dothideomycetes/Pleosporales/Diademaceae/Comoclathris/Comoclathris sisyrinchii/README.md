@@ -1,5 +1,4 @@
-Comoclathris sisyrinchii (Speg.) Shoemaker & C.E. Babc. SPECIES
-=======
+# Comoclathris sisyrinchii (Speg.) Shoemaker & C.E. Babc. SPECIES
 
 #### Status
 ACCEPTED

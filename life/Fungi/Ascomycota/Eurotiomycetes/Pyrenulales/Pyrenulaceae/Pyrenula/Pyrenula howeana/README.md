@@ -1,5 +1,4 @@
-Pyrenula howeana Aptroot SPECIES
-=======
+# Pyrenula howeana Aptroot SPECIES
 
 #### Status
 ACCEPTED

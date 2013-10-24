@@ -1,5 +1,4 @@
-Mycena mammillata Pass. SPECIES
-=======
+# Mycena mammillata Pass. SPECIES
 
 #### Status
 ACCEPTED

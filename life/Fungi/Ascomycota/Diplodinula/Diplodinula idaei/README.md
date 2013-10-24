@@ -1,5 +1,4 @@
-Diplodinula idaei (Oudem.) Tassi SPECIES
-=======
+# Diplodinula idaei (Oudem.) Tassi SPECIES
 
 #### Status
 ACCEPTED

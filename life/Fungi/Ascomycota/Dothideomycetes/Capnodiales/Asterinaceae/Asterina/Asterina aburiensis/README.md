@@ -1,5 +1,4 @@
-Asterina aburiensis S. Hughes SPECIES
-=======
+# Asterina aburiensis S. Hughes SPECIES
 
 #### Status
 ACCEPTED

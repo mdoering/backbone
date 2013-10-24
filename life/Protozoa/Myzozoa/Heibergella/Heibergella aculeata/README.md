@@ -1,5 +1,4 @@
-Heibergella aculeata Bujak & Fisher, 1976 SPECIES
-=======
+# Heibergella aculeata Bujak & Fisher, 1976 SPECIES
 
 #### Status
 ACCEPTED

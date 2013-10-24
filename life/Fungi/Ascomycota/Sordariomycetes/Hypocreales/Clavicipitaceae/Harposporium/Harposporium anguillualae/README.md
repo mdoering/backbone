@@ -1,5 +1,4 @@
-Harposporium anguillualae Karling SPECIES
-=======
+# Harposporium anguillualae Karling SPECIES
 
 #### Status
 ACCEPTED

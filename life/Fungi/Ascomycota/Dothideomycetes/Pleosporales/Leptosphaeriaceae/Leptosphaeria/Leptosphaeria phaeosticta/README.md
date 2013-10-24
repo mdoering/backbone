@@ -1,5 +1,4 @@
-Leptosphaeria phaeosticta Auersw. SPECIES
-=======
+# Leptosphaeria phaeosticta Auersw. SPECIES
 
 #### Status
 ACCEPTED

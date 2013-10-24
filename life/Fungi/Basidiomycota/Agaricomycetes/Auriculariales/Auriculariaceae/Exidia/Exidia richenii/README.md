@@ -1,5 +1,4 @@
-Exidia richenii (Rick) Lloyd SPECIES
-=======
+# Exidia richenii (Rick) Lloyd SPECIES
 
 #### Status
 ACCEPTED

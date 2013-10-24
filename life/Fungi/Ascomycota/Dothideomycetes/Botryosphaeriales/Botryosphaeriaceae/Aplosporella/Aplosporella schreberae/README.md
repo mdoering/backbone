@@ -1,5 +1,4 @@
-Aplosporella schreberae Mhaskar, A. Pande & V.G. Rao SPECIES
-=======
+# Aplosporella schreberae Mhaskar, A. Pande & V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

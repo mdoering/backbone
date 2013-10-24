@@ -1,5 +1,4 @@
-Hypoxylon massarae De Not. SPECIES
-=======
+# Hypoxylon massarae De Not. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola anthocleistae (Hansf. & Deighton) Cif. SPECIES
-=======
+# Meliola anthocleistae (Hansf. & Deighton) Cif. SPECIES
 
 #### Status
 ACCEPTED

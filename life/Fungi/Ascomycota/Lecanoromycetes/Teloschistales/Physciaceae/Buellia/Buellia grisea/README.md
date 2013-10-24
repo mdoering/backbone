@@ -1,5 +1,4 @@
-Buellia grisea C. W. Dodge & G. E. Baker SPECIES
-=======
+# Buellia grisea C. W. Dodge & G. E. Baker SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichothyrium epimyces (E. Bommer, M. Rousseau & Sacc.) Theiss. SPECIES
-=======
+# Trichothyrium epimyces (E. Bommer, M. Rousseau & Sacc.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

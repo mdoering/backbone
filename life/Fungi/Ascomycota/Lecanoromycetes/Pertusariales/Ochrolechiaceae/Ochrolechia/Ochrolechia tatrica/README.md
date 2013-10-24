@@ -1,5 +1,4 @@
-Ochrolechia tatrica Gyeln. SPECIES
-=======
+# Ochrolechia tatrica Gyeln. SPECIES
 
 #### Status
 ACCEPTED

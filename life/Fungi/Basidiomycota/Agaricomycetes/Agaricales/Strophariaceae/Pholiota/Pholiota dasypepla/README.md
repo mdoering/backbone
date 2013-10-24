@@ -1,5 +1,4 @@
-Pholiota dasypepla (Berk.) Cooke SPECIES
-=======
+# Pholiota dasypepla (Berk.) Cooke SPECIES
 
 #### Status
 ACCEPTED

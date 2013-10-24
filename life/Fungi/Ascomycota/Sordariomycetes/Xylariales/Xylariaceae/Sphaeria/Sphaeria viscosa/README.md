@@ -1,5 +1,4 @@
-Sphaeria viscosa Cooke & Ellis SPECIES
-=======
+# Sphaeria viscosa Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

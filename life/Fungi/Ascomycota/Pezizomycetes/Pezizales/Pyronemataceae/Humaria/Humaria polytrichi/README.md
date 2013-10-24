@@ -1,5 +1,4 @@
-Humaria polytrichi Massee SPECIES
-=======
+# Humaria polytrichi Massee SPECIES
 
 #### Status
 ACCEPTED

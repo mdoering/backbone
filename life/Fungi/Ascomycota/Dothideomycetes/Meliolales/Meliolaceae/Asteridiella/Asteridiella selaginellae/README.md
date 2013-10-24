@@ -1,5 +1,4 @@
-Asteridiella selaginellae M.L. Farr SPECIES
-=======
+# Asteridiella selaginellae M.L. Farr SPECIES
 
 #### Status
 ACCEPTED

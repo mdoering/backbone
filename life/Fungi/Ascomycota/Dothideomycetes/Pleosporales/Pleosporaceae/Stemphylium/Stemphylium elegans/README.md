@@ -1,5 +1,4 @@
-Stemphylium elegans Bonord. SPECIES
-=======
+# Stemphylium elegans Bonord. SPECIES
 
 #### Status
 ACCEPTED

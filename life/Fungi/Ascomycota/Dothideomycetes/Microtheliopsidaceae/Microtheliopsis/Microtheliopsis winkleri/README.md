@@ -1,5 +1,4 @@
-Microtheliopsis winkleri Lücking SPECIES
-=======
+# Microtheliopsis winkleri Lücking SPECIES
 
 #### Status
 ACCEPTED

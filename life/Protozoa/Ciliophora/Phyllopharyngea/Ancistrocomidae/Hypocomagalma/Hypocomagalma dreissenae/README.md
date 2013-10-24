@@ -1,5 +1,4 @@
-Hypocomagalma dreissenae Jarocki & Raabe, 1932 SPECIES
-=======
+# Hypocomagalma dreissenae Jarocki & Raabe, 1932 SPECIES
 
 #### Status
 ACCEPTED

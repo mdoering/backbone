@@ -1,5 +1,4 @@
-Psilocybe inconspicua Guzmán & E. Horak SPECIES
-=======
+# Psilocybe inconspicua Guzmán & E. Horak SPECIES
 
 #### Status
 ACCEPTED

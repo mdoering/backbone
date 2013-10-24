@@ -1,17 +1,16 @@
-Meliola microspora var. microspora VARIETY
-=======
+# Meliola microspora Pat. & Gaillard, 1888 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Soc. mycol. Fr. 4(2): 104 (1888)
 
 #### Original name
-Meliola microspora var. microspora
+Meliola microspora Pat. & Gaillard, 1888
 
 ### Remarks
 null

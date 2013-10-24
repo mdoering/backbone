@@ -1,17 +1,16 @@
-Septoria rhizodes Bres. & Krieg. SPECIES
-=======
+# Septoria rhizoides Bres. & Krieg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Bresadola, Annls mycol. 13(2): 105 (1915)
 
 #### Original name
-Septoria rhizodes Bres. & Krieg.
+Septoria rhizoides Bres. & Krieg.
 
 ### Remarks
 null

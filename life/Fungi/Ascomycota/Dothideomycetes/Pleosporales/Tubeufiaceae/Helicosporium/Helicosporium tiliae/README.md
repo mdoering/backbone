@@ -1,5 +1,4 @@
-Helicosporium tiliae Peck SPECIES
-=======
+# Helicosporium tiliae Peck SPECIES
 
 #### Status
 ACCEPTED

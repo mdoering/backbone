@@ -1,5 +1,4 @@
-Everniastrum subvexans Sipman SPECIES
-=======
+# Everniastrum subvexans Sipman SPECIES
 
 #### Status
 ACCEPTED

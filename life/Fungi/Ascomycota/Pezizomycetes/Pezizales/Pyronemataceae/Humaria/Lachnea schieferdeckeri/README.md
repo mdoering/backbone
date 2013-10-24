@@ -1,5 +1,4 @@
-Lachnea schieferdeckeri Kirschst. SPECIES
-=======
+# Lachnea schieferdeckeri Kirschst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptoniella semiglobata Murrill SPECIES
-=======
+# Leptoniella semiglobata Murrill SPECIES
 
 #### Status
 ACCEPTED

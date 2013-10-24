@@ -1,5 +1,4 @@
-Parmelina chozoubae Kr.P. Singh & G.P. Sinha SPECIES
-=======
+# Parmelina chozoubae Kr.P. Singh & G.P. Sinha SPECIES
 
 #### Status
 ACCEPTED

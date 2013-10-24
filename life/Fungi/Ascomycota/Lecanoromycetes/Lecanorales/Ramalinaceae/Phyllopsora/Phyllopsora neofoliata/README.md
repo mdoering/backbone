@@ -1,5 +1,4 @@
-Phyllopsora neofoliata Elix SPECIES
-=======
+# Phyllopsora neofoliata Elix SPECIES
 
 #### Status
 ACCEPTED

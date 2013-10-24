@@ -1,5 +1,4 @@
-Menegazzia eperforata P. James & D. J. Galloway SPECIES
-=======
+# Menegazzia eperforata P. James & D. J. Galloway SPECIES
 
 #### Status
 ACCEPTED

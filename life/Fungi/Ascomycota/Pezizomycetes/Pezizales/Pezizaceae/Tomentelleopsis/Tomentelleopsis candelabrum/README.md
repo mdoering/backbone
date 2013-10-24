@@ -1,5 +1,4 @@
-Tomentelleopsis candelabrum Orlova SPECIES
-=======
+# Tomentelleopsis candelabrum Orlova SPECIES
 
 #### Status
 ACCEPTED

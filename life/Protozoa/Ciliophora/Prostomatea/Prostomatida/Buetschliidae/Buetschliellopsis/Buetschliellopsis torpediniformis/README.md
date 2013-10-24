@@ -1,5 +1,4 @@
-Buetschliellopsis torpediniformis (Cheissin, 1930) ? SPECIES
-=======
+# Buetschliellopsis torpediniformis (Cheissin, 1930) ? SPECIES
 
 #### Status
 ACCEPTED

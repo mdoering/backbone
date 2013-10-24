@@ -1,5 +1,4 @@
-Phialophora biformis J.Y. Lee SPECIES
-=======
+# Phialophora biformis J.Y. Lee SPECIES
 
 #### Status
 ACCEPTED

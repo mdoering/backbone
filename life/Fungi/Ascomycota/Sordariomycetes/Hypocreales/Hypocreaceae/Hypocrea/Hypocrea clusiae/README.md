@@ -1,5 +1,4 @@
-Hypocrea clusiae P. Chaverri & Samuels SPECIES
-=======
+# Hypocrea clusiae P. Chaverri & Samuels SPECIES
 
 #### Status
 ACCEPTED

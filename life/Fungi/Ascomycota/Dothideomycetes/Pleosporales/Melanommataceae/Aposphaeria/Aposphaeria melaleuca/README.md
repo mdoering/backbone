@@ -1,5 +1,4 @@
-Aposphaeria melaleuca Henn. SPECIES
-=======
+# Aposphaeria melaleuca Henn. SPECIES
 
 #### Status
 ACCEPTED

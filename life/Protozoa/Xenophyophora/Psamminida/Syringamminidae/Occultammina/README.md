@@ -1,14 +1,13 @@
-Ocultammina GENUS
-=======
+# Occultammina Tendal, Swinbanks & Shirayama, 1982 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Oceanologica Acta 5 (3): 326.
 
 #### Original name
 null

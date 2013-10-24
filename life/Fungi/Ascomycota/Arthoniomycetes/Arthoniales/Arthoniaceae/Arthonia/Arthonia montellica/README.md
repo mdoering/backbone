@@ -1,5 +1,4 @@
-Arthonia montellica A. Massal. SPECIES
-=======
+# Arthonia montellica A. Massal. SPECIES
 
 #### Status
 ACCEPTED

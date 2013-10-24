@@ -1,5 +1,4 @@
-Haplocaulus conosomus (Stokes, 1889) Warren, 1988 SPECIES
-=======
+# Haplocaulus conosomus (Stokes, 1889) Warren, 1988 SPECIES
 
 #### Status
 ACCEPTED

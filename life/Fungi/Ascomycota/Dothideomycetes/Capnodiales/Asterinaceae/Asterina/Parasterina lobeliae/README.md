@@ -1,5 +1,4 @@
-Parasterina lobeliae (F. Stevens & R.W. Ryan) F. Stevens SPECIES
-=======
+# Parasterina lobeliae (F. Stevens & R.W. Ryan) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

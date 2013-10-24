@@ -1,17 +1,16 @@
-Byssoloma leprieuii Trevis. SPECIES
-=======
+# Byssoloma leprieurii Trevis. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Spighe Paglie (1853)
 
 #### Original name
-Byssoloma leprieuii Trevis.
+Byssoloma leprieurii Trevis.
 
 ### Remarks
 null

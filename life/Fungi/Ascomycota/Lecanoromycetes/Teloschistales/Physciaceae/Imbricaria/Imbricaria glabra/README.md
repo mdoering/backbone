@@ -1,5 +1,4 @@
-Imbricaria glabra (Schaer.) Arnold SPECIES
-=======
+# Imbricaria glabra (Schaer.) Arnold SPECIES
 
 #### Status
 ACCEPTED

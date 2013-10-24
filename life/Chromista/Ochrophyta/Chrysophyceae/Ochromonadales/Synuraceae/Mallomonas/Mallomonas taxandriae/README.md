@@ -1,5 +1,4 @@
-Mallomonas taxandriae SPECIES
-=======
+# Mallomonas taxandriae SPECIES
 
 #### Status
 ACCEPTED

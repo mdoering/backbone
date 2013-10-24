@@ -1,5 +1,4 @@
-Allantospora onychophila Vuill. SPECIES
-=======
+# Allantospora onychophila Vuill. SPECIES
 
 #### Status
 ACCEPTED

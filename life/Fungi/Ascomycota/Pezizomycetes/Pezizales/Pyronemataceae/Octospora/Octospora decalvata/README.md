@@ -1,5 +1,4 @@
-Octospora decalvata K.B. Khare SPECIES
-=======
+# Octospora decalvata K.B. Khare SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Catillaria eklundii C.W. Dodge SPECIES
-=======
+# Catillaria eklundii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora coprophila (Desm.) Hue SPECIES
-=======
+# Lecanora coprophila (Desm.) Hue SPECIES
 
 #### Status
 ACCEPTED

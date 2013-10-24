@@ -1,5 +1,4 @@
-Edentostomina elongata Zheng, 1988 SPECIES
-=======
+# Edentostomina elongata Zheng, 1988 SPECIES
 
 #### Status
 ACCEPTED

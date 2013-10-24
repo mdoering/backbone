@@ -1,5 +1,4 @@
-Phyllachora swartziae P.F. Cannon, 1991 SPECIES
-=======
+# Phyllachora swartziae P.F. Cannon, 1991 SPECIES
 
 #### Status
 ACCEPTED

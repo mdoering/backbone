@@ -1,5 +1,4 @@
-Arcyria nepalensis Poelt, 1965 SPECIES
-=======
+# Arcyria nepalensis Poelt, 1965 SPECIES
 
 #### Status
 ACCEPTED

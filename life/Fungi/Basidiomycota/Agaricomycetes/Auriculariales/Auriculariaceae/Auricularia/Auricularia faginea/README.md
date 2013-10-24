@@ -1,5 +1,4 @@
-Auricularia faginea Schumach. SPECIES
-=======
+# Auricularia faginea Schumach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pirostoma arengae H.S. Yates SPECIES
-=======
+# Pirostoma arengae H.S. Yates SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clostridium cylindrosporum (ex Barker & Beck, 1942) Andreesen et al., 1985 SPECIES
-=======
+# Clostridium cylindrosporum (ex Barker & Beck, 1942) Andreesen et al., 1985 SPECIES
 
 #### Status
 ACCEPTED

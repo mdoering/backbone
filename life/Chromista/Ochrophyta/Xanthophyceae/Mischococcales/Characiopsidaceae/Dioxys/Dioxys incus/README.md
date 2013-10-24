@@ -1,5 +1,4 @@
-Dioxys incus Pascher SPECIES
-=======
+# Dioxys incus Pascher SPECIES
 
 #### Status
 ACCEPTED

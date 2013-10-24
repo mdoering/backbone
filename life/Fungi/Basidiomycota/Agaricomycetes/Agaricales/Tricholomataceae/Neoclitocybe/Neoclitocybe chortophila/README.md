@@ -1,5 +1,4 @@
-Neoclitocybe chortophila (Berk.) D.A. Reid SPECIES
-=======
+# Neoclitocybe chortophila (Berk.) D.A. Reid SPECIES
 
 #### Status
 ACCEPTED

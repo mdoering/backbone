@@ -1,5 +1,4 @@
-Amphileptus ovalis Dumas, 1937 SPECIES
-=======
+# Amphileptus ovalis Dumas, 1937 SPECIES
 
 #### Status
 ACCEPTED

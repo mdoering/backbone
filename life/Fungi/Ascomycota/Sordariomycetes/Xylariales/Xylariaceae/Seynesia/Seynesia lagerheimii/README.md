@@ -1,5 +1,4 @@
-Seynesia lagerheimii Rehm SPECIES
-=======
+# Seynesia lagerheimii Rehm SPECIES
 
 #### Status
 ACCEPTED

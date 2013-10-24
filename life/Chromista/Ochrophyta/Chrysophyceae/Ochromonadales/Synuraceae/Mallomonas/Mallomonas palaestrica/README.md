@@ -1,5 +1,4 @@
-Mallomonas palaestrica P. Hansen, J.E. Johansen & A. Skovgaard SPECIES
-=======
+# Mallomonas palaestrica P. Hansen, J.E. Johansen & A. Skovgaard SPECIES
 
 #### Status
 ACCEPTED

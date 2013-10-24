@@ -1,5 +1,4 @@
-Zygophiala E.W. Mason GENUS
-=======
+# Zygophiala E.W. Mason GENUS
 
 #### Status
 ACCEPTED

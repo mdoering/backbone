@@ -1,5 +1,4 @@
-Paradictyum Haeckel, 1881 GENUS
-=======
+# Paradictyum Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

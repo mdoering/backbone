@@ -1,5 +1,4 @@
-Coelosphaeria anceps Sacc. & Malbr. SPECIES
-=======
+# Coelosphaeria anceps Sacc. & Malbr. SPECIES
 
 #### Status
 ACCEPTED

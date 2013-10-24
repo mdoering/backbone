@@ -1,5 +1,4 @@
-Agaricus galeropsis Fr. SPECIES
-=======
+# Agaricus galeropsis Fr. SPECIES
 
 #### Status
 ACCEPTED

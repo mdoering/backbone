@@ -1,5 +1,4 @@
-Clitopilus caespitosus Peck SPECIES
-=======
+# Clitopilus caespitosus Peck SPECIES
 
 #### Status
 ACCEPTED

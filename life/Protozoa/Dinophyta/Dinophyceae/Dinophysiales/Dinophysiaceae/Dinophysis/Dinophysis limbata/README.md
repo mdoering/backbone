@@ -1,5 +1,4 @@
-Dinophysis limbata (Kofoid & Michener) Balech SPECIES
-=======
+# Dinophysis limbata (Kofoid & Michener) Balech SPECIES
 
 #### Status
 ACCEPTED

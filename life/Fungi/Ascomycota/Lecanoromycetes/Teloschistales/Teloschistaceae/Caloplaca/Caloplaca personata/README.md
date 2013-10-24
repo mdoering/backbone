@@ -1,5 +1,4 @@
-Caloplaca personata (Hulting) R. Sant. SPECIES
-=======
+# Caloplaca personata (Hulting) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

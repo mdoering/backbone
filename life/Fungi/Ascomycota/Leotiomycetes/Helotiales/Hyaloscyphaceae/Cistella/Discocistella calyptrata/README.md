@@ -1,5 +1,4 @@
-Discocistella calyptrata Svrcek SPECIES
-=======
+# Discocistella calyptrata Svrcek SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Textulariella cretosa Cushman, 1932 SPECIES
-=======
+# Textulariella cretosa Cushman, 1932 SPECIES
 
 #### Status
 ACCEPTED

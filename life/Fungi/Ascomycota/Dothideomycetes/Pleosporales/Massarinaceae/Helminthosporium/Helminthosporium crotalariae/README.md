@@ -1,5 +1,4 @@
-Helminthosporium crotalariae S. Chowdhury SPECIES
-=======
+# Helminthosporium crotalariae S. Chowdhury SPECIES
 
 #### Status
 ACCEPTED

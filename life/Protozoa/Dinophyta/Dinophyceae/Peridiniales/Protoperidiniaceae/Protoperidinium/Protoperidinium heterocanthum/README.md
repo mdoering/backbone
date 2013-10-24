@@ -1,5 +1,4 @@
-Protoperidinium heterocanthum (Dangeard) Balech SPECIES
-=======
+# Protoperidinium heterocanthum (Dangeard) Balech SPECIES
 
 #### Status
 ACCEPTED

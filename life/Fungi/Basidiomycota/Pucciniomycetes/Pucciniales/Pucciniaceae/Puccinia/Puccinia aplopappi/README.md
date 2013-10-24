@@ -1,5 +1,4 @@
-Puccinia aplopappi P. Syd. & Syd. SPECIES
-=======
+# Puccinia aplopappi P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

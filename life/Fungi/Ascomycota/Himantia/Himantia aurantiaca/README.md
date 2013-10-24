@@ -1,5 +1,4 @@
-Himantia aurantiaca (Lam. & DC.) Léman SPECIES
-=======
+# Himantia aurantiaca (Lam. & DC.) Léman SPECIES
 
 #### Status
 ACCEPTED

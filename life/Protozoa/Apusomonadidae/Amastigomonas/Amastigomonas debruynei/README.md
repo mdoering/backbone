@@ -1,8 +1,7 @@
-Thecamonas trahens Larsen & Patterson, 1990 SPECIES
-=======
+# Amastigomonas debruynei De Saedeleer, 1931 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

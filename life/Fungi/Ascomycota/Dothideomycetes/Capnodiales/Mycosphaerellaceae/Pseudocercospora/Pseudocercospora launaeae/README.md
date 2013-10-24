@@ -1,5 +1,4 @@
-Pseudocercospora launaeae (K.L. Kothari, M.K. Bhatn. & G.C. Bhatt) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora launaeae (K.L. Kothari, M.K. Bhatn. & G.C. Bhatt) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

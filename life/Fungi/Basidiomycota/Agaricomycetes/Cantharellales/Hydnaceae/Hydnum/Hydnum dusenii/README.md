@@ -1,5 +1,4 @@
-Hydnum dusenii Henn. SPECIES
-=======
+# Hydnum dusenii Henn. SPECIES
 
 #### Status
 ACCEPTED

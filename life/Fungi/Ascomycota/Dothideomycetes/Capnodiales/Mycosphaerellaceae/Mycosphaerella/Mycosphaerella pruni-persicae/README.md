@@ -1,17 +1,16 @@
-Cercosporella persicae (Sacc.) Sacc., 1886 SPECIES
-=======
+# Mycosphaerella pruni-persicae Deighton, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 50: 328 (1967)
 
 #### Original name
-null
+Mycosphaerella persica Syd.
 
 ### Remarks
 null

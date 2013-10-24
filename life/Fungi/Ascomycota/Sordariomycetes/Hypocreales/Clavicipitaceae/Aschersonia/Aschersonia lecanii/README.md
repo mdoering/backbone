@@ -1,5 +1,4 @@
-Aschersonia lecanii Konigsberger {?} & Zimm. SPECIES
-=======
+# Aschersonia lecanii Konigsberger {?} & Zimm. SPECIES
 
 #### Status
 ACCEPTED

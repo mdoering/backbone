@@ -1,5 +1,4 @@
-Zopfinula GENUS
-=======
+# Zopfinula GENUS
 
 #### Status
 ACCEPTED

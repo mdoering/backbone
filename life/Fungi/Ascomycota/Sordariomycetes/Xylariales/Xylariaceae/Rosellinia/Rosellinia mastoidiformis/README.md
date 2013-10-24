@@ -1,5 +1,4 @@
-Rosellinia mastoidiformis Saccas SPECIES
-=======
+# Rosellinia mastoidiformis Saccas SPECIES
 
 #### Status
 ACCEPTED

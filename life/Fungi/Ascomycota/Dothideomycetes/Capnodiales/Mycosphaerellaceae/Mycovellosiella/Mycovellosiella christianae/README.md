@@ -1,5 +1,4 @@
-Mycovellosiella christianae Deighton SPECIES
-=======
+# Mycovellosiella christianae Deighton SPECIES
 
 #### Status
 ACCEPTED

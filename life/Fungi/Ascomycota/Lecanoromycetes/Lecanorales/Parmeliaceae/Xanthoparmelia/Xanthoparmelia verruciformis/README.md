@@ -1,5 +1,4 @@
-Xanthoparmelia verruciformis Elix & J. Johnst. SPECIES
-=======
+# Xanthoparmelia verruciformis Elix & J. Johnst. SPECIES
 
 #### Status
 ACCEPTED

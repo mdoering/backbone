@@ -1,5 +1,4 @@
-Russula furcatifolia Murrill SPECIES
-=======
+# Russula furcatifolia Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phormidium inundatum (Kützing) Gomont SPECIES
-=======
+# Phormidium inundatum (Kützing) Gomont SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthopyrenia subpunctiformis Müll. Arg. SPECIES
-=======
+# Arthopyrenia subpunctiformis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

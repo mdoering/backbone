@@ -1,5 +1,4 @@
-Phyllachora kniphofiae (Kalchbr. & Cooke) Sacc., 1883 SPECIES
-=======
+# Phyllachora kniphofiae (Kalchbr. & Cooke) Sacc., 1883 SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Paraphysomonas foraminifera Lucas, 1967 SPECIES
-=======
+# Paraphysomonas foraminifera Lucas, 1967 SPECIES
 
 #### Status
 ACCEPTED

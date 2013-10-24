@@ -1,5 +1,4 @@
-Lecanidion antarcticum var. antarcticum VARIETY
-=======
+# Lecanidion antarcticum Speg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Boletín de la Academia Nacional de Ciencias de Córdoba 11(2): 276 (1888)
 
 #### Original name
-Lecanidion antarcticum var. antarcticum
+Lecanidion antarcticum Speg.
 
 ### Remarks
 null

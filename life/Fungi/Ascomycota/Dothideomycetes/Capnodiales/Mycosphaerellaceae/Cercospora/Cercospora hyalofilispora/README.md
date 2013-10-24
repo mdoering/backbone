@@ -1,5 +1,4 @@
-Cercospora hyalofilispora J.M. Yen SPECIES
-=======
+# Cercospora hyalofilispora J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

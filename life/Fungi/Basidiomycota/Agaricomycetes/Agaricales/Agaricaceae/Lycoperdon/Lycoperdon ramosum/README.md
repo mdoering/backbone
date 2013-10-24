@@ -1,5 +1,4 @@
-Lycoperdon ramosum Jacq. SPECIES
-=======
+# Lycoperdon ramosum Jacq. SPECIES
 
 #### Status
 ACCEPTED

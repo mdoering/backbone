@@ -1,5 +1,4 @@
-Biatorella morio (Duby) SPECIES
-=======
+# Biatorella morio (Duby) SPECIES
 
 #### Status
 ACCEPTED

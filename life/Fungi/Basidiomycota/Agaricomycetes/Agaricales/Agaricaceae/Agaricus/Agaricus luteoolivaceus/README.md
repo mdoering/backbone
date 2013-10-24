@@ -1,5 +1,4 @@
-Agaricus luteoolivaceus Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus luteoolivaceus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

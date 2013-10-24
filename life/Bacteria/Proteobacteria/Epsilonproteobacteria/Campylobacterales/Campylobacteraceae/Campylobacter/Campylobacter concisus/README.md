@@ -1,5 +1,4 @@
-Campylobacter concisus Tanner et al., 1981 SPECIES
-=======
+# Campylobacter concisus Tanner et al., 1981 SPECIES
 
 #### Status
 ACCEPTED

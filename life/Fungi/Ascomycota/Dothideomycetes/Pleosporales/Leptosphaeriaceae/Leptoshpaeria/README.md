@@ -1,5 +1,4 @@
-Leptoshpaeria GENUS
-=======
+# Leptoshpaeria GENUS
 
 #### Status
 ACCEPTED

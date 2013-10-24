@@ -1,5 +1,4 @@
-Euplotes garabagi SPECIES
-=======
+# Euplotes garabagi SPECIES
 
 #### Status
 ACCEPTED

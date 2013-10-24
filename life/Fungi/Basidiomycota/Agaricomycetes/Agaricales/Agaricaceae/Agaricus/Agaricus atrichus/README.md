@@ -1,5 +1,4 @@
-Agaricus atrichus Berk. SPECIES
-=======
+# Agaricus atrichus Berk. SPECIES
 
 #### Status
 ACCEPTED

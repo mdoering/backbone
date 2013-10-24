@@ -1,5 +1,4 @@
-Sphaerella winteri (Pass.) Sacc. SPECIES
-=======
+# Sphaerella winteri (Pass.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

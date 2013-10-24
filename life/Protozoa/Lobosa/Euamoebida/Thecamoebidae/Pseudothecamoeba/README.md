@@ -1,5 +1,4 @@
-Pseudothecamoeba Page, 1988 GENUS
-=======
+# Pseudothecamoeba Page, 1988 GENUS
 
 #### Status
 ACCEPTED

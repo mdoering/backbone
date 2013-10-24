@@ -1,5 +1,4 @@
-Stylonychia limbiformis Dumas SPECIES
-=======
+# Stylonychia limbiformis Dumas SPECIES
 
 #### Status
 ACCEPTED

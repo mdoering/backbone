@@ -1,5 +1,4 @@
-Calonectria verruculosa Niessl SPECIES
-=======
+# Calonectria verruculosa Niessl SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyathus elmeri Bres. SPECIES
-=======
+# Cyathus elmeri Bres. SPECIES
 
 #### Status
 ACCEPTED

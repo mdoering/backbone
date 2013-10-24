@@ -1,5 +1,4 @@
-Zelleromyces gilkeyae Singer & A.H. Sm., 1960 SPECIES
-=======
+# Zelleromyces gilkeyae Singer & A.H. Sm., 1960 SPECIES
 
 #### Status
 ACCEPTED

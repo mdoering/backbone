@@ -1,5 +1,4 @@
-Lecidea pyrithrella (Nyl.) Hue SPECIES
-=======
+# Lecidea pyrithrella (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

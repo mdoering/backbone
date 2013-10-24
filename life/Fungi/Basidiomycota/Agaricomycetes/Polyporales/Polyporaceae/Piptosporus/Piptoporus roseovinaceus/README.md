@@ -1,5 +1,4 @@
-Piptoporus roseovinaceus Choeyklin, T. Hatt. & E.B.G. Jones SPECIES
-=======
+# Piptoporus roseovinaceus Choeyklin, T. Hatt. & E.B.G. Jones SPECIES
 
 #### Status
 ACCEPTED

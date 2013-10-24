@@ -1,5 +1,4 @@
-Helminthosporium frumentacei Mitra SPECIES
-=======
+# Helminthosporium frumentacei Mitra SPECIES
 
 #### Status
 ACCEPTED

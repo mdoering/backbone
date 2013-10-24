@@ -1,5 +1,4 @@
-Hypoxylon herpotrichioides (Hepting & R.W. Davidson) P.M.D. Martin SPECIES
-=======
+# Hypoxylon herpotrichioides (Hepting & R.W. Davidson) P.M.D. Martin SPECIES
 
 #### Status
 ACCEPTED

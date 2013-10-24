@@ -1,5 +1,4 @@
-Leptotrema oxysporum Redinger SPECIES
-=======
+# Leptotrema oxysporum Redinger SPECIES
 
 #### Status
 ACCEPTED

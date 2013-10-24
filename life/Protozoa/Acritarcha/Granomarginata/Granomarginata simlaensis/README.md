@@ -1,5 +1,4 @@
-Granomarginata simlaensis Nautiyal, 1982 SPECIES
-=======
+# Granomarginata simlaensis Nautiyal, 1982 SPECIES
 
 #### Status
 ACCEPTED

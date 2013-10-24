@@ -1,5 +1,4 @@
-Pavoninoides Bermudez, 1949 GENUS
-=======
+# Pavoninoides Bermudez, 1949 GENUS
 
 #### Status
 ACCEPTED

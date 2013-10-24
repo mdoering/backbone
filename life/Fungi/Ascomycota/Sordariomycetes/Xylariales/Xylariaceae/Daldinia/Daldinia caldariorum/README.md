@@ -1,17 +1,16 @@
-Hypoxylon hibisci Henn., 1908 SPECIES
-=======
+# Daldinia caldariorum Henn., 1898 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 47: 259 (1908)
+Verh. bot. Ver. Prov. Brandenb. 40: 158 (1898)
 
 #### Original name
-Hypoxylon hibisci Henn., 1908
+Daldinia caldariorum Henn., 1898
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cortinarius quercetorum (Velen.) J. Breitenb. & F. Kränzl. SPECIES
-=======
+# Cortinarius quercetorum (Velen.) J. Breitenb. & F. Kränzl. SPECIES
 
 #### Status
 ACCEPTED

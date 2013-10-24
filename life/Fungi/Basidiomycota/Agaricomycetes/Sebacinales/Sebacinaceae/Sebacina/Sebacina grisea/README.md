@@ -1,17 +1,16 @@
-Exidiopsis grisea var. grisea (Pers.) Bourdot & Maire VARIETY
-=======
+# Sebacina grisea (Pers.) Bres., 1908 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 36: 71 (1920)
+Annls mycol. 6(1): 45 (1908)
 
 #### Original name
-Exidiopsis grisea var. grisea (Pers.) Bourdot & Maire
+Thelephora grisea Pers., 1822
 
 ### Remarks
 null

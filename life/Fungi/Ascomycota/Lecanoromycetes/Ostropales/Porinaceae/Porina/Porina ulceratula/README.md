@@ -1,5 +1,4 @@
-Porina ulceratula Zahlbr. SPECIES
-=======
+# Porina ulceratula Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

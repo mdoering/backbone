@@ -1,5 +1,4 @@
-Prolixandromyces veliae R.K. Benj., 1970 SPECIES
-=======
+# Prolixandromyces veliae R.K. Benj., 1970 SPECIES
 
 #### Status
 ACCEPTED

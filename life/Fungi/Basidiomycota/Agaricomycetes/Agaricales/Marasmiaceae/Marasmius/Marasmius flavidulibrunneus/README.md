@@ -1,5 +1,4 @@
-Marasmius flavidulibrunneus Corner SPECIES
-=======
+# Marasmius flavidulibrunneus Corner SPECIES
 
 #### Status
 ACCEPTED

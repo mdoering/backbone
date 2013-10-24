@@ -1,5 +1,4 @@
-Botticula Dioni, 1973 GENUS
-=======
+# Botticula Dioni, 1973 GENUS
 
 #### Status
 ACCEPTED

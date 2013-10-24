@@ -1,5 +1,4 @@
-Bacidina egenuloidea (Fink) S. Ekman SPECIES
-=======
+# Bacidina egenuloidea (Fink) S. Ekman SPECIES
 
 #### Status
 ACCEPTED

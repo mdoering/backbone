@@ -1,5 +1,4 @@
-Staurophrya Zacharias, 1893 GENUS
-=======
+# Staurophrya Zacharias, 1893 GENUS
 
 #### Status
 ACCEPTED

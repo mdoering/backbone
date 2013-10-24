@@ -1,5 +1,4 @@
-Neohypodiscus J.D. Rogers, Y.M. Ju & Laessøe GENUS
-=======
+# Neohypodiscus J.D. Rogers, Y.M. Ju & Laessøe GENUS
 
 #### Status
 ACCEPTED

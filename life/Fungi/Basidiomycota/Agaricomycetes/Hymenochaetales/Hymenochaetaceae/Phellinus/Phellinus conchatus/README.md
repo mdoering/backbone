@@ -1,17 +1,16 @@
-Polyporus loricatus var. loricatus VARIETY
-=======
+# Phellinus conchatus (Pers.) Quél., 1886 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. eur. (Erlanga) 2: 86 (1825)
+Enchir. fung. (Paris) 173 (1886)
 
 #### Original name
-Polyporus loricatus var. loricatus
+Boletus conchatus Pers., 1796
 
 ### Remarks
 null

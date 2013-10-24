@@ -1,8 +1,7 @@
-Phalacroma pirum Gaarder SPECIES
-=======
+# Heteroschisma pirum (Gaarder, 1954) Balech, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

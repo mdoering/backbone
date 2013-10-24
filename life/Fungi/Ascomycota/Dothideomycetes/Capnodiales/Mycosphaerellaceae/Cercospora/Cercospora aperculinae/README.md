@@ -1,5 +1,4 @@
-Cercospora aperculinae SPECIES
-=======
+# Cercospora aperculinae SPECIES
 
 #### Status
 ACCEPTED

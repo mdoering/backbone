@@ -1,5 +1,4 @@
-Asperisporium punctulatum (Tracy & Earle) Maubl. SPECIES
-=======
+# Asperisporium punctulatum (Tracy & Earle) Maubl. SPECIES
 
 #### Status
 ACCEPTED

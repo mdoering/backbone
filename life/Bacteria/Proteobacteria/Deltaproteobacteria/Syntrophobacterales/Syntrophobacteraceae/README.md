@@ -1,5 +1,4 @@
-Syntrophobacteraceae FAMILY
-=======
+# Syntrophobacteraceae FAMILY
 
 #### Status
 ACCEPTED

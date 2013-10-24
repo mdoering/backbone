@@ -1,5 +1,4 @@
-Uredo tribulis Cummins SPECIES
-=======
+# Uredo tribulis Cummins SPECIES
 
 #### Status
 ACCEPTED

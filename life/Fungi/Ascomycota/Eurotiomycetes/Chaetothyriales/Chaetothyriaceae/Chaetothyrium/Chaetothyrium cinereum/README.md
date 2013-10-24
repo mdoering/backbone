@@ -1,5 +1,4 @@
-Chaetothyrium cinereum L.R. Fraser SPECIES
-=======
+# Chaetothyrium cinereum L.R. Fraser SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gemella sanguinis Collins et al., 1999 SPECIES
-=======
+# Gemella sanguinis Collins et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

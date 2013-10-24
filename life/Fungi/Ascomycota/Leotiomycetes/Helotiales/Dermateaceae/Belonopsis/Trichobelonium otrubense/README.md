@@ -1,5 +1,4 @@
-Trichobelonium otrubense Velen. SPECIES
-=======
+# Trichobelonium otrubense Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius furfuraceus Rob. Henry ex Bidaud SPECIES
-=======
+# Cortinarius furfuraceus Rob. Henry ex Bidaud SPECIES
 
 #### Status
 ACCEPTED

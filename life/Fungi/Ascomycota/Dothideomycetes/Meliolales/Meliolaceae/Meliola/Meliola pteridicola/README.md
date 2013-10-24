@@ -1,5 +1,4 @@
-Meliola pteridicola F. Stevens SPECIES
-=======
+# Meliola pteridicola F. Stevens SPECIES
 
 #### Status
 ACCEPTED

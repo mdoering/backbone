@@ -1,5 +1,4 @@
-Burkholderiales ORDER
-=======
+# Burkholderiales ORDER
 
 #### Status
 ACCEPTED

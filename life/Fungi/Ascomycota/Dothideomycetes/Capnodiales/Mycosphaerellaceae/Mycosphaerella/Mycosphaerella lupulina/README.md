@@ -1,5 +1,4 @@
-Mycosphaerella lupulina (Kirschst.) M. Morelet SPECIES
-=======
+# Mycosphaerella lupulina (Kirschst.) M. Morelet SPECIES
 
 #### Status
 ACCEPTED

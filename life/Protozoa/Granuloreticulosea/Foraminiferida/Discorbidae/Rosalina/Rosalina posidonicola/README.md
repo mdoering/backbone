@@ -1,5 +1,4 @@
-Rosalina posidonicola (Colom, 1942) SPECIES
-=======
+# Rosalina posidonicola (Colom, 1942) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleospora falconeri Henn. SPECIES
-=======
+# Pleospora falconeri Henn. SPECIES
 
 #### Status
 ACCEPTED

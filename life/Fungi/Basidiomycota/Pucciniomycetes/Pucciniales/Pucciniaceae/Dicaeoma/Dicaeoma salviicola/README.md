@@ -1,5 +1,4 @@
-Dicaeoma salviicola (Dietel & Holw.) Arthur SPECIES
-=======
+# Dicaeoma salviicola (Dietel & Holw.) Arthur SPECIES
 
 #### Status
 ACCEPTED

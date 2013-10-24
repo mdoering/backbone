@@ -1,5 +1,4 @@
-Lecanora terrestris (Tomin) Tomin SPECIES
-=======
+# Lecanora terrestris (Tomin) Tomin SPECIES
 
 #### Status
 ACCEPTED

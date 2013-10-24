@@ -1,5 +1,4 @@
-Acrocordiomyces GENUS
-=======
+# Acrocordiomyces GENUS
 
 #### Status
 ACCEPTED

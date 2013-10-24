@@ -1,5 +1,4 @@
-Naucoria sulcata Velen. SPECIES
-=======
+# Naucoria sulcata Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Beltrania mulleri V.G. Rao & Varghese SPECIES
-=======
+# Beltrania muelleri V.G. Rao & Varghese SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+National Academy Science Letters 1(2): 49 (1978)
 
 #### Original name
-Beltrania mulleri V.G. Rao & Varghese
+Beltrania muelleri V.G. Rao & Varghese
 
 ### Remarks
 null

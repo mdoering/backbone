@@ -1,5 +1,4 @@
-Parmotrema alectoronicum C. H. Ribeiro & Marcelli SPECIES
-=======
+# Parmotrema alectoronicum C. H. Ribeiro & Marcelli SPECIES
 
 #### Status
 ACCEPTED

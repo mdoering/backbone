@@ -1,5 +1,4 @@
-Dothiorella pirottiana Sacc. & Traverso SPECIES
-=======
+# Dothiorella pirottiana Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

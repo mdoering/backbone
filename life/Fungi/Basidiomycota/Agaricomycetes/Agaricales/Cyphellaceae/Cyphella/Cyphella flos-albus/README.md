@@ -1,5 +1,4 @@
-Cyphella flos-albus Velen. SPECIES
-=======
+# Cyphella flos-albus Velen. SPECIES
 
 #### Status
 ACCEPTED

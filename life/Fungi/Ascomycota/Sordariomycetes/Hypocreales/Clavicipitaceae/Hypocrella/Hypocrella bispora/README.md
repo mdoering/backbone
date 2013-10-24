@@ -1,5 +1,4 @@
-Hypocrella bispora Höhn. SPECIES
-=======
+# Hypocrella bispora Höhn. SPECIES
 
 #### Status
 ACCEPTED

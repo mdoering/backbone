@@ -1,5 +1,4 @@
-Cladosporium gracile Corda SPECIES
-=======
+# Cladosporium gracile Corda SPECIES
 
 #### Status
 ACCEPTED

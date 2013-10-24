@@ -1,5 +1,4 @@
-Amanita neo-ovoidea Hongo SPECIES
-=======
+# Amanita neo-ovoidea Hongo SPECIES
 
 #### Status
 ACCEPTED

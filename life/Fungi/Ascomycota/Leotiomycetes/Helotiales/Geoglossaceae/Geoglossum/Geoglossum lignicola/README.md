@@ -1,5 +1,4 @@
-Geoglossum lignicola Massee SPECIES
-=======
+# Geoglossum lignicola Massee SPECIES
 
 #### Status
 ACCEPTED

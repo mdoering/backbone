@@ -1,5 +1,4 @@
-Stigmatomyces ilytheae Thaxt., 1917 SPECIES
-=======
+# Stigmatomyces ilytheae Thaxt., 1917 SPECIES
 
 #### Status
 ACCEPTED

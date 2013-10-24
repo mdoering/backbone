@@ -1,5 +1,4 @@
-Pezizella rivularis Velen. SPECIES
-=======
+# Pezizella rivularis Velen. SPECIES
 
 #### Status
 ACCEPTED

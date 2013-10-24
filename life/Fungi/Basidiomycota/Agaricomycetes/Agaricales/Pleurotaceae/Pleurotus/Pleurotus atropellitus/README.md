@@ -1,5 +1,4 @@
-Pleurotus atropellitus Peck SPECIES
-=======
+# Pleurotus atropellitus Peck SPECIES
 
 #### Status
 ACCEPTED

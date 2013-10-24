@@ -1,5 +1,4 @@
-Cucurbitaria kelseyi Ellis & Everh. SPECIES
-=======
+# Cucurbitaria kelseyi Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

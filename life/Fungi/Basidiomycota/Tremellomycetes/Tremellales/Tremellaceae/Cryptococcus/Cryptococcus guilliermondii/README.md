@@ -1,5 +1,4 @@
-Cryptococcus guilliermondii Beauverie & Lesieur SPECIES
-=======
+# Cryptococcus guilliermondii Beauverie & Lesieur SPECIES
 
 #### Status
 ACCEPTED

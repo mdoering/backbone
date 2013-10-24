@@ -1,5 +1,4 @@
-Puccinia lycoctoni var. lycoctoni VARIETY
-=======
+# Puccinia lycoctoni Fuckel SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Puccinia lycoctoni var. lycoctoni
+Puccinia lycoctoni Fuckel
 
 ### Remarks
 null

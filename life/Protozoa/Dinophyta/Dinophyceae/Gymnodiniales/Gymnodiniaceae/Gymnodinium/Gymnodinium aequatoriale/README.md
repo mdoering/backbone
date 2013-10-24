@@ -1,5 +1,4 @@
-Gymnodinium aequatoriale Hasle, 1960 SPECIES
-=======
+# Gymnodinium aequatoriale Hasle, 1960 SPECIES
 
 #### Status
 ACCEPTED

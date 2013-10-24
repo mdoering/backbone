@@ -1,5 +1,4 @@
-Agaricus scitulus Massee SPECIES
-=======
+# Agaricus scitulus Massee SPECIES
 
 #### Status
 ACCEPTED

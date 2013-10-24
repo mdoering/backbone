@@ -1,17 +1,16 @@
-Leucorhizon Velen. GENUS
-=======
+# Gastrosporium Mattir. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mykologia (Prague) 2: 51 (1925)
+Mem. R. Accad. Torino. , Ser. 2 53: 361 (1903)
 
 #### Original name
-Leucorhizon Velen.
+Gastrosporium Mattir.
 
 ### Remarks
 null

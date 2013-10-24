@@ -1,14 +1,13 @@
-Ustilago scabiosae (Sowerby) G. Winter, 1880 SPECIES
-=======
+# Microbotryum scabiosae (Sowerby) G. Deml & Prillinger, 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 19: 159 (1880)
+in Prillinger, Deml, Dörfelt, Laaser & Lockau, Bot. Acta 104(1): 10 (1991)
 
 #### Original name
 Farinaria scabiosae Sowerby, 1803

@@ -1,5 +1,4 @@
-Patellaria pseudophana (Nyl.) SPECIES
-=======
+# Patellaria pseudophana (Nyl.) SPECIES
 
 #### Status
 ACCEPTED

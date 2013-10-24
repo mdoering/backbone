@@ -1,5 +1,4 @@
-Amanita sepiacea S. Imai SPECIES
-=======
+# Amanita sepiacea S. Imai SPECIES
 
 #### Status
 ACCEPTED

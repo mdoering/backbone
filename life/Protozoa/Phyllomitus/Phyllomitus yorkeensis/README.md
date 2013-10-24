@@ -1,5 +1,4 @@
-Phyllomitus yorkeensis Ruinen SPECIES
-=======
+# Phyllomitus yorkeensis Ruinen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physcia zollingeri Hepp SPECIES
-=======
+# Physcia zollingeri Hepp SPECIES
 
 #### Status
 ACCEPTED

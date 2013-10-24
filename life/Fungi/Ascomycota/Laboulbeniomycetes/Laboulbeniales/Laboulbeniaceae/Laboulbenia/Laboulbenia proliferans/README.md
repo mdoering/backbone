@@ -1,5 +1,4 @@
-Laboulbenia proliferans Thaxt. SPECIES
-=======
+# Laboulbenia proliferans Thaxt. SPECIES
 
 #### Status
 ACCEPTED

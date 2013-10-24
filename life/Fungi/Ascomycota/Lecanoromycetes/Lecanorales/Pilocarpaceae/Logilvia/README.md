@@ -1,5 +1,4 @@
-Logilvia Vezda GENUS
-=======
+# Logilvia Vezda GENUS
 
 #### Status
 ACCEPTED

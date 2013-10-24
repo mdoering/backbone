@@ -1,17 +1,16 @@
-Boeremia exigua var. forsythiae (Sacc.) Aveskamp, Gruyter & Verkley, 2010 VARIETY
-=======
+# Phyllosticta forsythiae Sacc., 1877 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fungi italica 1-4: tab. 87 (1877)
 
 #### Original name
-null
+Phyllosticta forsythiae Sacc., 1877
 
 ### Remarks
 null

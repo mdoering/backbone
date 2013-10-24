@@ -1,5 +1,4 @@
-Lactarius platyphyllus Peck SPECIES
-=======
+# Lactarius platyphyllus Peck SPECIES
 
 #### Status
 ACCEPTED

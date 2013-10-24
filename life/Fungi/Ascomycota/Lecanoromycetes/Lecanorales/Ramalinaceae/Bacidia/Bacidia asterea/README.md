@@ -1,5 +1,4 @@
-Bacidia asterea Novot. SPECIES
-=======
+# Bacidia asterea Novot. SPECIES
 
 #### Status
 ACCEPTED

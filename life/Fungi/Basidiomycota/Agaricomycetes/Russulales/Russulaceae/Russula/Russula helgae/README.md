@@ -1,5 +1,4 @@
-Russula helgae Romagn. SPECIES
-=======
+# Russula helgae Romagn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placosphaeria calotropidis Gonz. Frag. & Cif. SPECIES
-=======
+# Placosphaeria calotropidis Gonz. Frag. & Cif. SPECIES
 
 #### Status
 ACCEPTED

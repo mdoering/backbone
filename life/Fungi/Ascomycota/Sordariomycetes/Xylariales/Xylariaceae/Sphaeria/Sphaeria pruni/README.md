@@ -1,5 +1,4 @@
-Sphaeria pruni Schumach. SPECIES
-=======
+# Sphaeria pruni Schumach. SPECIES
 
 #### Status
 ACCEPTED

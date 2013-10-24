@@ -1,5 +1,4 @@
-Chaetomium hyderabadense M.A. Salam & Nusrath SPECIES
-=======
+# Chaetomium hyderabadense M.A. Salam & Nusrath SPECIES
 
 #### Status
 ACCEPTED

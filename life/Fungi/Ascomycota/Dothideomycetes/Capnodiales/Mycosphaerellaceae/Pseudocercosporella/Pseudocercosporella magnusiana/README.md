@@ -1,5 +1,4 @@
-Pseudocercosporella magnusiana (Allesch.) U. Braun SPECIES
-=======
+# Pseudocercosporella magnusiana (Allesch.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

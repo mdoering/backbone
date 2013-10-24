@@ -1,5 +1,4 @@
-Puccinia caricis-stipatae Y. Harada SPECIES
-=======
+# Puccinia caricis-stipatae Y. Harada SPECIES
 
 #### Status
 ACCEPTED

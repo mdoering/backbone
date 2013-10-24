@@ -1,5 +1,4 @@
-Boletus albisulphureus (Murrill) Murrill SPECIES
-=======
+# Boletus albisulphureus (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthopyrenia zwackhii Bausch SPECIES
-=======
+# Arthopyrenia zwackhii Bausch SPECIES
 
 #### Status
 ACCEPTED

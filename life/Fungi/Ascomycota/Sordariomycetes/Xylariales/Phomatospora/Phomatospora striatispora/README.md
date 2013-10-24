@@ -1,5 +1,4 @@
-Phomatospora striatispora M.E. Barr, 1994 SPECIES
-=======
+# Phomatospora striatispora M.E. Barr, 1994 SPECIES
 
 #### Status
 ACCEPTED

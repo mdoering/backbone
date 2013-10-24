@@ -1,5 +1,4 @@
-Puccinia prenanthis-purpureae (DC.) Lindr. SPECIES
-=======
+# Puccinia prenanthis-purpureae (DC.) Lindr. SPECIES
 
 #### Status
 ACCEPTED

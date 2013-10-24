@@ -1,5 +1,4 @@
-Rhizocarpon sphaericum (Schaer.) Mig. SPECIES
-=======
+# Rhizocarpon sphaericum (Schaer.) Mig. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tricholoma subumbrinum A.H. Sm. SPECIES
-=======
+# Tricholoma subumbrinum A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

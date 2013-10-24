@@ -1,5 +1,4 @@
-Collema scabrum Degel. SPECIES
-=======
+# Collema scabrum Degel. SPECIES
 
 #### Status
 ACCEPTED

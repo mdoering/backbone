@@ -1,17 +1,16 @@
-Cortinarius vernus var. vernus VARIETY
-=======
+# Cortinarius vernus H. Lindstr. & Melot, 1994 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Brandrud, Lindström, Marklund, Melot & Muskos, Cortinarius (Matfors), Flora Photographica [English translation by J. Melot] 3: 27 (1994)
 
 #### Original name
-null
+Cortinarius vernus H. Lindstr. & Melot, 1994
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Somphospongia J.W. Beede, 1899 GENUS
-=======
+# Somphospongia J.W. Beede, 1899 GENUS
 
 #### Status
 ACCEPTED

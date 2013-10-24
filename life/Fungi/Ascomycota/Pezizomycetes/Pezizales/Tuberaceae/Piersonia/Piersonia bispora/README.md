@@ -1,5 +1,4 @@
-Piersonia bispora Gilkey SPECIES
-=======
+# Piersonia bispora Gilkey SPECIES
 
 #### Status
 ACCEPTED

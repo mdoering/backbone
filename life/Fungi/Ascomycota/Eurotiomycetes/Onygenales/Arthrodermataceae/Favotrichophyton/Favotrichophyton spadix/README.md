@@ -1,5 +1,4 @@
-Favotrichophyton spadix (Y. Katô) C.W. Dodge SPECIES
-=======
+# Favotrichophyton spadix (Y. Katô) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

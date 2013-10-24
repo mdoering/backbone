@@ -1,5 +1,4 @@
-Scutellosporites Dotzler, M. Krings, T.N. Taylor & Agerer GENUS
-=======
+# Scutellosporites Dotzler, M. Krings, T.N. Taylor & Agerer GENUS
 
 #### Status
 ACCEPTED

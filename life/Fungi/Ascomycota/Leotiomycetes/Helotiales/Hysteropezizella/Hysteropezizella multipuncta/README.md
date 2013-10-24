@@ -1,5 +1,4 @@
-Hysteropezizella multipuncta (Peck) Nannf. SPECIES
-=======
+# Hysteropezizella multipuncta (Peck) Nannf. SPECIES
 
 #### Status
 ACCEPTED

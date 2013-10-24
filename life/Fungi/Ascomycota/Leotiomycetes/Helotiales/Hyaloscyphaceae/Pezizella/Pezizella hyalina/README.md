@@ -1,5 +1,4 @@
-Pezizella hyalina Rehm SPECIES
-=======
+# Pezizella hyalina Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Guignardia allamandae A. Pande & V.G. Rao SPECIES
-=======
+# Guignardia allamandae A. Pande & V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

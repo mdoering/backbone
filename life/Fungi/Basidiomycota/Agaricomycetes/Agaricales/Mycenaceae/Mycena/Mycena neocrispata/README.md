@@ -1,5 +1,4 @@
-Mycena neocrispata Kühner & Valla SPECIES
-=======
+# Mycena neocrispata Kühner & Valla SPECIES
 
 #### Status
 ACCEPTED

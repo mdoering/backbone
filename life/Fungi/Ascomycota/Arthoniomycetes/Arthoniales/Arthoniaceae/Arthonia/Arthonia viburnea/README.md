@@ -1,5 +1,4 @@
-Arthonia viburnea Müll. Arg. SPECIES
-=======
+# Arthonia viburnea Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

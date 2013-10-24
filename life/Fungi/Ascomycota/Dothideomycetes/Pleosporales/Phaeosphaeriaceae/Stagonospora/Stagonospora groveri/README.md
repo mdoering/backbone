@@ -1,17 +1,16 @@
-Stagonospora groveffill P.C. Gupta SPECIES
-=======
+# Stagonospora groveri P.C. Gupta SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycopath. Mycol. appl. 54(1): 130 (1974)
 
 #### Original name
-Stagonospora groveffill P.C. Gupta
+Stagonospora groveri P.C. Gupta
 
 ### Remarks
 null

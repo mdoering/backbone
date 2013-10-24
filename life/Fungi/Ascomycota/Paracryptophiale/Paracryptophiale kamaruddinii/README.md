@@ -1,5 +1,4 @@
-Paracryptophiale kamaruddinii Kuthub. & Nawawi, 1994 SPECIES
-=======
+# Paracryptophiale kamaruddinii Kuthub. & Nawawi, 1994 SPECIES
 
 #### Status
 ACCEPTED

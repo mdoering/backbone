@@ -1,5 +1,4 @@
-Polyporus gallo-pavonis Berk. & Broome SPECIES
-=======
+# Polyporus gallo-pavonis Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

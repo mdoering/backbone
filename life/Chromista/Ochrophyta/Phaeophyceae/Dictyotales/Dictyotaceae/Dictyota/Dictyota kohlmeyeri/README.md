@@ -1,8 +1,7 @@
-Dilophus kohlmeyeri Nizamuddin & Gerloff SPECIES
-=======
+# Dictyota kohlmeyeri (Nizamuddin & Gerloff) Hörning, Schnetter & Prud'homme van Reine SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Phoma morphaea Sacc. SPECIES
-=======
+# Phoma morphaea Sacc. SPECIES
 
 #### Status
 ACCEPTED

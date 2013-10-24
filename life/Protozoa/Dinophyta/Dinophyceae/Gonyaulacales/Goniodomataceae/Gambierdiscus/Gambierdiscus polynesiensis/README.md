@@ -1,5 +1,4 @@
-Gambierdiscus polynesiensis M. Chinain & M. Faust SPECIES
-=======
+# Gambierdiscus polynesiensis M. Chinain & M. Faust SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gephyrocapsa kamptneri Deflandre & Fert SPECIES
-=======
+# Gephyrocapsa kamptneri Deflandre & Fert SPECIES
 
 #### Status
 ACCEPTED

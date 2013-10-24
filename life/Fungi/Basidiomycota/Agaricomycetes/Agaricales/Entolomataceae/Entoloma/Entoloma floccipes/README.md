@@ -1,5 +1,4 @@
-Entoloma floccipes P.-A. Moreau & Courtec. SPECIES
-=======
+# Entoloma floccipes P.-A. Moreau & Courtec. SPECIES
 
 #### Status
 ACCEPTED

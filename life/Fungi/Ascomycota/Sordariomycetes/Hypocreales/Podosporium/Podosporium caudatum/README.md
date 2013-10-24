@@ -1,5 +1,4 @@
-Podosporium caudatum (Syd.) Cif. SPECIES
-=======
+# Podosporium caudatum (Syd.) Cif. SPECIES
 
 #### Status
 ACCEPTED

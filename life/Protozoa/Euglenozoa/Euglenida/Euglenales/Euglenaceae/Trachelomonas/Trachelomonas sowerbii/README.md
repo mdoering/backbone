@@ -1,5 +1,4 @@
-Trachelomonas sowerbii Skvortzov SPECIES
-=======
+# Trachelomonas sowerbii Skvortzov SPECIES
 
 #### Status
 ACCEPTED

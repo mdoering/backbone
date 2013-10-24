@@ -1,5 +1,4 @@
-Cladonia furcellata Hoffm. SPECIES
-=======
+# Cladonia furcellata Hoffm. SPECIES
 
 #### Status
 ACCEPTED

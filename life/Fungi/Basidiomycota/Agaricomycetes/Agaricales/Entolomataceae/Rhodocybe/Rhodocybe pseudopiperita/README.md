@@ -1,5 +1,4 @@
-Rhodocybe pseudopiperita T.J. Baroni & G.M. Gates SPECIES
-=======
+# Rhodocybe pseudopiperita T.J. Baroni & G.M. Gates SPECIES
 
 #### Status
 ACCEPTED

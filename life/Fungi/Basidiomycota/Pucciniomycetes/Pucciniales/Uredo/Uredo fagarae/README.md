@@ -1,5 +1,4 @@
-Uredo fagarae Syd. & P. Syd. SPECIES
-=======
+# Uredo fagarae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

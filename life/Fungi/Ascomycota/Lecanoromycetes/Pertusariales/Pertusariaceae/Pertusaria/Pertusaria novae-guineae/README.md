@@ -1,5 +1,4 @@
-Pertusaria novae-guineae A.W. Archer & Elix SPECIES
-=======
+# Pertusaria novae-guineae A.W. Archer & Elix SPECIES
 
 #### Status
 ACCEPTED

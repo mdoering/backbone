@@ -1,5 +1,4 @@
-Descolea maculata Bougher SPECIES
-=======
+# Descolea maculata Bougher SPECIES
 
 #### Status
 ACCEPTED

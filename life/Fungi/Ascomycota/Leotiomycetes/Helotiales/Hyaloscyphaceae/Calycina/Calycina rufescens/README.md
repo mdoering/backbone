@@ -1,5 +1,4 @@
-Calycina rufescens (Ficinus) Kuntze SPECIES
-=======
+# Calycina rufescens (Ficinus) Kuntze SPECIES
 
 #### Status
 ACCEPTED

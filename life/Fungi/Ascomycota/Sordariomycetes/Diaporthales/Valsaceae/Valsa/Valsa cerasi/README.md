@@ -1,5 +1,4 @@
-Valsa cerasi Feltgen SPECIES
-=======
+# Valsa cerasi Feltgen SPECIES
 
 #### Status
 ACCEPTED

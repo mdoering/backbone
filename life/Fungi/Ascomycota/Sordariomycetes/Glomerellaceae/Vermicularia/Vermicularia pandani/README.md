@@ -1,5 +1,4 @@
-Vermicularia pandani Syd. & P. Syd. SPECIES
-=======
+# Vermicularia pandani Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

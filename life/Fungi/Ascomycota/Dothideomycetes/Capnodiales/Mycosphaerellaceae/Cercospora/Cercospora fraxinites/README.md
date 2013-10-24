@@ -1,5 +1,4 @@
-Cercospora fraxinites Ellis & Everh. SPECIES
-=======
+# Cercospora fraxinites Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

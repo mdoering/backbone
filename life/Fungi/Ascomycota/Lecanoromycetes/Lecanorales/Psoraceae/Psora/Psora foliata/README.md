@@ -1,5 +1,4 @@
-Psora foliata Arnold SPECIES
-=======
+# Psora foliata Arnold SPECIES
 
 #### Status
 ACCEPTED

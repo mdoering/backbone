@@ -1,5 +1,4 @@
-Calycella lacteola Quél. SPECIES
-=======
+# Calycella lacteola Quél. SPECIES
 
 #### Status
 ACCEPTED

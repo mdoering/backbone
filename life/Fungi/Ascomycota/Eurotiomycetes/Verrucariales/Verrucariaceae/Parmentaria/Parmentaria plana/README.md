@@ -1,14 +1,13 @@
-Trypethelium planum C. Knight SPECIES
-=======
+# Parmentaria plana (C. Knight) Shirley SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-in Bailey, Synops. Queensl. Fl. 1(Suppl. ): 77 (1886)
+Lich. Fl. Queensland 4: 162 (1889)
 
 #### Original name
 Trypethelium planum C. Knight

@@ -1,5 +1,4 @@
-Septoria osmanthi Tassi SPECIES
-=======
+# Septoria osmanthi Tassi SPECIES
 
 #### Status
 ACCEPTED

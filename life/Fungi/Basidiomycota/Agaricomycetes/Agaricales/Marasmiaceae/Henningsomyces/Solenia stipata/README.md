@@ -1,5 +1,4 @@
-Solenia stipata Fr. SPECIES
-=======
+# Solenia stipata Fr. SPECIES
 
 #### Status
 ACCEPTED

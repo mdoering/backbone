@@ -1,5 +1,4 @@
-Parapithomyces clitoriae Alcorn, 1992 SPECIES
-=======
+# Parapithomyces clitoriae Alcorn, 1992 SPECIES
 
 #### Status
 ACCEPTED

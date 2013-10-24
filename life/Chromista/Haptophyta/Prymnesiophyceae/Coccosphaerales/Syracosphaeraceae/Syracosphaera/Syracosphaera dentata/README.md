@@ -1,5 +1,4 @@
-Syracosphaera dentata Lohmann SPECIES
-=======
+# Syracosphaera dentata Lohmann SPECIES
 
 #### Status
 ACCEPTED

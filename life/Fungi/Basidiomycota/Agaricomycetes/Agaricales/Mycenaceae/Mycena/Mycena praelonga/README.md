@@ -1,5 +1,4 @@
-Mycena praelonga Peck SPECIES
-=======
+# Mycena praelonga Peck SPECIES
 
 #### Status
 ACCEPTED

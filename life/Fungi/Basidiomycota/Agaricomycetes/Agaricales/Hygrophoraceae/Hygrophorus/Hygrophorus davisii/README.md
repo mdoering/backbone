@@ -1,5 +1,4 @@
-Hygrophorus davisii Peck SPECIES
-=======
+# Hygrophorus davisii Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepocinclis difficilis Deflandre SPECIES
-=======
+# Lepocinclis difficilis Deflandre SPECIES
 
 #### Status
 ACCEPTED

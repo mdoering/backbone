@@ -1,5 +1,4 @@
-Leptostroma poljakovil Kravtzev SPECIES
-=======
+# Leptostroma poljakovil Kravtzev SPECIES
 
 #### Status
 ACCEPTED

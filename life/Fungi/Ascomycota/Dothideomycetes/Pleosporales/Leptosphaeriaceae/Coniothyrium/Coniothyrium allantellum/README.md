@@ -1,5 +1,4 @@
-Coniothyrium allantellum (Sacc. & Roum.) Kuntze SPECIES
-=======
+# Coniothyrium allantellum (Sacc. & Roum.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

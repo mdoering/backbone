@@ -1,5 +1,4 @@
-Stemphylium elasticae F. Patt. SPECIES
-=======
+# Stemphylium elasticae F. Patt. SPECIES
 
 #### Status
 ACCEPTED

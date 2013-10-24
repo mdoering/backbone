@@ -1,17 +1,16 @@
-Stereum vellereum var. australiense Massee ex G. Cunn. VARIETY
-=======
+# Stereum vellereum Berk., 1855 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fl. nov. -zel. 183 (1855)
 
 #### Original name
-Stereum vellereum var. australiense Massee ex G. Cunn.
+Stereum vellereum Berk., 1855
 
 ### Remarks
 null

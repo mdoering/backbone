@@ -1,5 +1,4 @@
-Platystomum nuculoides (Sacc.) Lindau SPECIES
-=======
+# Platystomum nuculoides (Sacc.) Lindau SPECIES
 
 #### Status
 ACCEPTED

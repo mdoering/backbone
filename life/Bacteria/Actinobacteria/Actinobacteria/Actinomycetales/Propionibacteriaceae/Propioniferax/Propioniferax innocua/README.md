@@ -1,8 +1,7 @@
-Propionibacterium innocuum Pitcher & Collins, 1992 SPECIES
-=======
+# Propioniferax innocua (Pitcher & Collins, 1992) Yokota et al., 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

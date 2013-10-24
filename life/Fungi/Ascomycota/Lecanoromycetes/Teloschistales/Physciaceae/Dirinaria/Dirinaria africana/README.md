@@ -1,5 +1,4 @@
-Dirinaria africana (Müll. Arg.) D.D. Awasthi SPECIES
-=======
+# Dirinaria africana (Müll. Arg.) D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

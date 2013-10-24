@@ -1,5 +1,4 @@
-Phomopsioides palhinhae A.C. Santos SPECIES
-=======
+# Phomopsioides palhinhae A.C. Santos SPECIES
 
 #### Status
 ACCEPTED

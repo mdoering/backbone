@@ -1,5 +1,4 @@
-Fusidium crataevae Berk. & Broome SPECIES
-=======
+# Fusidium crataevae Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

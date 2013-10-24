@@ -1,5 +1,4 @@
-Lachnocladium vanderystii Bres. SPECIES
-=======
+# Lachnocladium vanderystii Bres. SPECIES
 
 #### Status
 ACCEPTED

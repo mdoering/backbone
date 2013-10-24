@@ -1,17 +1,16 @@
-Polystictus hirsutus f. hirsutus FORM
-=======
+# Trametes hirsuta (Wulfen) Lloyd, 1924 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Writ. 7: 1319 (1924)
 
 #### Original name
-null
+Boletus hirsutus Wulfen, 1788
 
 ### Remarks
 null

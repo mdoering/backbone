@@ -1,5 +1,4 @@
-Botrytis verticillioides Corda SPECIES
-=======
+# Botrytis verticillioides Corda SPECIES
 
 #### Status
 ACCEPTED

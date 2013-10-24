@@ -1,5 +1,4 @@
-Ustilago bromi-arvensis Liro SPECIES
-=======
+# Ustilago bromi-arvensis Liro SPECIES
 
 #### Status
 ACCEPTED

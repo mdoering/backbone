@@ -1,5 +1,4 @@
-Megaster curvicornis Cif., Bat. & Nascim., 1956 SPECIES
-=======
+# Megaster curvicornis Cif., Bat. & Nascim., 1956 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhabdospora caulicola (Sacc.) Sacc. SPECIES
-=======
+# Rhabdospora caulicola (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

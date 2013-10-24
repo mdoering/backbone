@@ -1,5 +1,4 @@
-Fusicoccum homostegium P. Karst. SPECIES
-=======
+# Fusicoccum homostegium P. Karst. SPECIES
 
 #### Status
 ACCEPTED

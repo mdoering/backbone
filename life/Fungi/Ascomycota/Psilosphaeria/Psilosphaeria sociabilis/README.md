@@ -1,5 +1,4 @@
-Psilosphaeria sociabilis (Schulzer & Sacc.) Cooke SPECIES
-=======
+# Psilosphaeria sociabilis (Schulzer & Sacc.) Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola magnoliae F. Stevens SPECIES
-=======
+# Meliola magnoliae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

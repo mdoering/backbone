@@ -1,14 +1,13 @@
-Sesquicillium candelabrum (Bonord.) W. Gams, 1968 SPECIES
-=======
+# Clonostachys candelabrum (Bonord.) Schroers, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Acta bot. neerl. 17(6): 457 (1968)
+Stud. Mycol. 46: 192 (2001)
 
 #### Original name
 Verticillium candelabrum Bonord., 1851

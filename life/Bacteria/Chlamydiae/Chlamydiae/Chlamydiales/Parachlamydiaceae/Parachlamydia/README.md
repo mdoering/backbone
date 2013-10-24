@@ -1,5 +1,4 @@
-Parachlamydia Everett et al., 1999 GENUS
-=======
+# Parachlamydia Everett et al., 1999 GENUS
 
 #### Status
 ACCEPTED

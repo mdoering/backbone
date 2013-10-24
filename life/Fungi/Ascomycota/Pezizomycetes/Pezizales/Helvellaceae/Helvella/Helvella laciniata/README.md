@@ -1,5 +1,4 @@
-Helvella laciniata Scop. SPECIES
-=======
+# Helvella laciniata Scop. SPECIES
 
 #### Status
 ACCEPTED

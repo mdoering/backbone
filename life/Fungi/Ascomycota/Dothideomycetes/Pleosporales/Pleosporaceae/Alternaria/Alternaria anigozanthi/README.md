@@ -1,5 +1,4 @@
-Alternaria anigozanthi Priest SPECIES
-=======
+# Alternaria anigozanthi Priest SPECIES
 
 #### Status
 ACCEPTED

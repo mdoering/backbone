@@ -1,5 +1,4 @@
-Phyllosticta chenopodii Westend. SPECIES
-=======
+# Phyllosticta chenopodii Westend. SPECIES
 
 #### Status
 ACCEPTED

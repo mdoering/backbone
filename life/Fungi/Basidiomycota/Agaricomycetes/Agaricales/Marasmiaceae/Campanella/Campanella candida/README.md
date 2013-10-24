@@ -1,5 +1,4 @@
-Campanella candida var. candida (A.L. Sm.) Singer VARIETY
-=======
+# Campanella candida (A.L. Sm.) Singer SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Lloydia 8: 194 (1945)
 
 #### Original name
-Campanella candida var. candida (A.L. Sm.) Singer
+Laschia candida A.L. Sm.
 
 ### Remarks
 null

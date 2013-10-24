@@ -1,11 +1,10 @@
-Polyangium ferrugineum Krzemieniewska & Krzemieniewski, 1927 SPECIES
-=======
+# Cystobacter ferrugineus (Krzemieniewska and Krzemieniewski, 1927) McCurdy, 1970 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

@@ -1,5 +1,4 @@
-Bigenerina compressiuscula Chapman SPECIES
-=======
+# Bigenerina compressiuscula Chapman SPECIES
 
 #### Status
 ACCEPTED

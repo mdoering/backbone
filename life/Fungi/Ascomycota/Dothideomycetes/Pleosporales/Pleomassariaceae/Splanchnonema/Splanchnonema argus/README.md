@@ -1,17 +1,16 @@
-Hendersonia polycystis Berk. & Broome SPECIES
-=======
+# Splanchnonema argus (Berk. & Broome) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3(2): 531 (1898)
 
 #### Original name
-Hendersonia polycystis Berk. & Broome
+Sphaeria argus Berk. & Broome
 
 ### Remarks
 null

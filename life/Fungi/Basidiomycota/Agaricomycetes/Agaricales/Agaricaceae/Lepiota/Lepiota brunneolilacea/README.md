@@ -1,5 +1,4 @@
-Lepiota brunneolilacea Bon & Boiffard, 1972 SPECIES
-=======
+# Lepiota brunneolilacea Bon & Boiffard, 1972 SPECIES
 
 #### Status
 ACCEPTED

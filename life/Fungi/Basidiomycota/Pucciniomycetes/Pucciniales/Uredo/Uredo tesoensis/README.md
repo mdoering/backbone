@@ -1,5 +1,4 @@
-Uredo tesoensis Wakef. SPECIES
-=======
+# Uredo tesoensis Wakef. SPECIES
 
 #### Status
 ACCEPTED

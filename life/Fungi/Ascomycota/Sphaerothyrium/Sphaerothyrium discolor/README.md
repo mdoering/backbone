@@ -1,5 +1,4 @@
-Sphaerothyrium discolor (Fr.) Wallr. SPECIES
-=======
+# Sphaerothyrium discolor (Fr.) Wallr. SPECIES
 
 #### Status
 ACCEPTED

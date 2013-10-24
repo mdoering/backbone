@@ -1,5 +1,4 @@
-Inocybe incognita (E. Horak) Garrido SPECIES
-=======
+# Inocybe incognita (E. Horak) Garrido SPECIES
 
 #### Status
 ACCEPTED

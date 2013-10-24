@@ -1,5 +1,4 @@
-Dermocarpella stellata H. León-Tejera & G. Montejano SPECIES
-=======
+# Dermocarpella stellata H. León-Tejera & G. Montejano SPECIES
 
 #### Status
 ACCEPTED

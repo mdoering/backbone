@@ -1,5 +1,4 @@
-Mucosphaera A.J.Dop & Van Beem, 1980 GENUS
-=======
+# Mucosphaera A.J.Dop & Van Beem, 1980 GENUS
 
 #### Status
 ACCEPTED

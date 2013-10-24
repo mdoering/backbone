@@ -1,5 +1,4 @@
-Pyrenocollema chlorococcum Aptroot & van den Boom SPECIES
-=======
+# Pyrenocollema chlorococcum Aptroot & van den Boom SPECIES
 
 #### Status
 ACCEPTED

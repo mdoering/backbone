@@ -1,5 +1,4 @@
-Clitocybe vilescens Peck SPECIES
-=======
+# Clitocybe vilescens Peck SPECIES
 
 #### Status
 ACCEPTED

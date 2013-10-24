@@ -1,5 +1,4 @@
-Leptothyriomyces radiatus Kräusel SPECIES
-=======
+# Leptothyriomyces radiatus Kräusel SPECIES
 
 #### Status
 ACCEPTED

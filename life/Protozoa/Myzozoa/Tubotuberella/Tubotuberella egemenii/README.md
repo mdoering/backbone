@@ -1,5 +1,4 @@
-Tubotuberella egemenii (Gitmez, 1970) Stover & Evitt SPECIES
-=======
+# Tubotuberella egemenii (Gitmez, 1970) Stover & Evitt SPECIES
 
 #### Status
 ACCEPTED

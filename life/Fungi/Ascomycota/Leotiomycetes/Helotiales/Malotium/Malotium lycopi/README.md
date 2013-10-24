@@ -1,5 +1,4 @@
-Malotium lycopi Velen. SPECIES
-=======
+# Malotium lycopi Velen. SPECIES
 
 #### Status
 ACCEPTED

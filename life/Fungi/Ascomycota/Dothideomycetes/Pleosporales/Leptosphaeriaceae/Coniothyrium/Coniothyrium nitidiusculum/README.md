@@ -1,5 +1,4 @@
-Coniothyrium nitidiusculum (P. Karst.) Kuntze SPECIES
-=======
+# Coniothyrium nitidiusculum (P. Karst.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

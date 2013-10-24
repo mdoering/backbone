@@ -1,5 +1,4 @@
-Acephala Grünig & T.N. Sieber GENUS
-=======
+# Acephala Grünig & T.N. Sieber GENUS
 
 #### Status
 ACCEPTED

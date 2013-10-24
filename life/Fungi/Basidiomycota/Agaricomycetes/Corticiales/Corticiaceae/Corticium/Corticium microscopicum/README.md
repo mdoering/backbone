@@ -1,5 +1,4 @@
-Corticium microscopicum Speg. SPECIES
-=======
+# Corticium microscopicum Speg. SPECIES
 
 #### Status
 ACCEPTED

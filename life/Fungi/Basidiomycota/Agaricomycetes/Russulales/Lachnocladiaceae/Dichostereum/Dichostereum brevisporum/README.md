@@ -1,5 +1,4 @@
-Dichostereum brevisporum (S.S. Rattan) Boidin & Lanq. SPECIES
-=======
+# Dichostereum brevisporum (S.S. Rattan) Boidin & Lanq. SPECIES
 
 #### Status
 ACCEPTED

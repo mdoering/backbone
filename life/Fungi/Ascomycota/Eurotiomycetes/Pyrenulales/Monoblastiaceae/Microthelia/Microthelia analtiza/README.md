@@ -1,5 +1,4 @@
-Microthelia analtiza (Stirt.) Zahlbr. SPECIES
-=======
+# Microthelia analtiza (Stirt.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

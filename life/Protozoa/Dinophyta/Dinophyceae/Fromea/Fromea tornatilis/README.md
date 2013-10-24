@@ -1,5 +1,4 @@
-Fromea tornatilis (Drugg, 1978) Lentin & Williams, 1981 SPECIES
-=======
+# Fromea tornatilis (Drugg, 1978) Lentin & Williams, 1981 SPECIES
 
 #### Status
 ACCEPTED

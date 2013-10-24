@@ -1,5 +1,4 @@
-Heteromiliola Andersen, 1997 GENUS
-=======
+# Heteromiliola Andersen, 1997 GENUS
 
 #### Status
 ACCEPTED

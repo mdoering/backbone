@@ -1,5 +1,4 @@
-Buellia nitrophila Zahlbr. SPECIES
-=======
+# Buellia nitrophila Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

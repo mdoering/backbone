@@ -1,5 +1,4 @@
-Psilocybe pleurocystidiosa Guzmán SPECIES
-=======
+# Psilocybe pleurocystidiosa Guzmán SPECIES
 
 #### Status
 ACCEPTED

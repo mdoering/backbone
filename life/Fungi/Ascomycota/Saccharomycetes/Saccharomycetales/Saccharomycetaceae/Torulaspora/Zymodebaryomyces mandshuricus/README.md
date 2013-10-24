@@ -1,5 +1,4 @@
-Zymodebaryomyces mandshuricus (H. Nagan.) E.K. Novák & Zsolt SPECIES
-=======
+# Zymodebaryomyces mandshuricus (H. Nagan.) E.K. Novák & Zsolt SPECIES
 
 #### Status
 ACCEPTED

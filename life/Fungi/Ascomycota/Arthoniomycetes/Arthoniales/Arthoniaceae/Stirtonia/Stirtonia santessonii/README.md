@@ -1,5 +1,4 @@
-Stirtonia santessonii Makhija & Patw. SPECIES
-=======
+# Stirtonia santessonii Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

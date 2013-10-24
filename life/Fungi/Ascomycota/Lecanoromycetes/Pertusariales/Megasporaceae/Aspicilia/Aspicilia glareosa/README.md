@@ -1,5 +1,4 @@
-Aspicilia glareosa Savicz SPECIES
-=======
+# Aspicilia glareosa Savicz SPECIES
 
 #### Status
 ACCEPTED

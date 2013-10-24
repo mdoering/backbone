@@ -1,5 +1,4 @@
-Leptosphaeria tetraspora Saccas SPECIES
-=======
+# Leptosphaeria tetraspora Saccas SPECIES
 
 #### Status
 ACCEPTED

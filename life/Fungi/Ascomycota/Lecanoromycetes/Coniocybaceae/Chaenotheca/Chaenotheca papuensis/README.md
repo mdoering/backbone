@@ -1,5 +1,4 @@
-Chaenotheca papuensis Aptroot & Tibell SPECIES
-=======
+# Chaenotheca papuensis Aptroot & Tibell SPECIES
 
 #### Status
 ACCEPTED

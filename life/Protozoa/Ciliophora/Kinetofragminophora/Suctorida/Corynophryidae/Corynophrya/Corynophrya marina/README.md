@@ -1,5 +1,4 @@
-Corynophrya marina Andrussowa, 1886 SPECIES
-=======
+# Corynophrya marina Andrussowa, 1886 SPECIES
 
 #### Status
 ACCEPTED

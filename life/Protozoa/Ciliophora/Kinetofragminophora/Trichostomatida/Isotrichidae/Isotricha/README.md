@@ -1,5 +1,4 @@
-Isotricha Stein, 1858 GENUS
-=======
+# Isotricha Stein, 1858 GENUS
 
 #### Status
 ACCEPTED

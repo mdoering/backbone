@@ -1,5 +1,4 @@
-Ascochyta lantanae Sacc. SPECIES
-=======
+# Ascochyta lantanae Sacc. SPECIES
 
 #### Status
 ACCEPTED

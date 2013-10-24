@@ -1,5 +1,4 @@
-Lecanora brunnea var. coronata (Sw.) Ach. VARIETY
-=======
+# Lecanora brunnea J. Kickx f. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Lich. univ. (1810)
 
 #### Original name
-null
+Lecanora brunnea J. Kickx f.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Caloplacomyces GENUS
-=======
+# Caloplacomyces GENUS
 
 #### Status
 ACCEPTED

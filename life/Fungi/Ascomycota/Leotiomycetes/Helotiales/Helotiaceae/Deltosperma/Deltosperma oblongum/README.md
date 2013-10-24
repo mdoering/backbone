@@ -1,5 +1,4 @@
-Deltosperma oblongum W.Y. Zhuang SPECIES
-=======
+# Deltosperma oblongum W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

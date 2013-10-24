@@ -1,5 +1,4 @@
-Chaetophoma coffeicola Av.-Saccá SPECIES
-=======
+# Chaetophoma coffeicola Av.-Saccá SPECIES
 
 #### Status
 ACCEPTED

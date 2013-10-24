@@ -1,5 +1,4 @@
-Snowella fennica J. Komárek & J. Komárková-Legnerová SPECIES
-=======
+# Snowella fennica J. Komárek & J. Komárková-Legnerová SPECIES
 
 #### Status
 ACCEPTED

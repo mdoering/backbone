@@ -1,5 +1,4 @@
-Lactarius lignyotus f. lignyotus FORM
-=======
+# Lactarius lignyotus Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Monogr. Lact. Suec. 25 (1857)
 
 #### Original name
-Lactarius lignyotus f. lignyotus
+Lactarius lignyotus Fr.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Agaricus sulphureiceps Murrill SPECIES
-=======
+# Agaricus sulphureiceps Murrill SPECIES
 
 #### Status
 ACCEPTED

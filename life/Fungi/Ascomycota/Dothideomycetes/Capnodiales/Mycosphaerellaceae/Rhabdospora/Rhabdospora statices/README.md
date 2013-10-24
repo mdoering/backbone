@@ -1,5 +1,4 @@
-Rhabdospora statices Lobik SPECIES
-=======
+# Rhabdospora statices Lobik SPECIES
 
 #### Status
 ACCEPTED

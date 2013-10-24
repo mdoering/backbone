@@ -1,5 +1,4 @@
-Leptotrema ravenelii (Tuck.) Fink SPECIES
-=======
+# Leptotrema ravenelii (Tuck.) Fink SPECIES
 
 #### Status
 ACCEPTED

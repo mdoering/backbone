@@ -1,5 +1,4 @@
-Septoria arbutina Gucevic SPECIES
-=======
+# Septoria arbutina Gucevic SPECIES
 
 #### Status
 ACCEPTED

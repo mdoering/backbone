@@ -1,5 +1,4 @@
-Nodosaria dubia d’Orbigny, 1826 SPECIES
-=======
+# Nodosaria dubia d’Orbigny, 1826 SPECIES
 
 #### Status
 ACCEPTED

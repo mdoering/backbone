@@ -1,5 +1,4 @@
-Mycosphaerella omphalosporoides Petr. SPECIES
-=======
+# Mycosphaerella omphalosporoides Petr. SPECIES
 
 #### Status
 ACCEPTED

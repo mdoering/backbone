@@ -1,5 +1,4 @@
-Calloria minutula E. Bommer, M. Rousseau & Sacc. SPECIES
-=======
+# Calloria minutula E. Bommer, M. Rousseau & Sacc. SPECIES
 
 #### Status
 ACCEPTED

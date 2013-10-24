@@ -1,5 +1,4 @@
-Anoplophrya macrogongylos Georgevitch, 1941 SPECIES
-=======
+# Anoplophrya macrogongylos Georgevitch, 1941 SPECIES
 
 #### Status
 ACCEPTED

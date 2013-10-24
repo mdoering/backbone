@@ -1,5 +1,4 @@
-Coprinus atrox Bogart SPECIES
-=======
+# Coprinus atrox Bogart SPECIES
 
 #### Status
 ACCEPTED

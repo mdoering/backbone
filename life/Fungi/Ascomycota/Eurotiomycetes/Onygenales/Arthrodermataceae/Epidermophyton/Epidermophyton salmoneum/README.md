@@ -1,5 +1,4 @@
-Epidermophyton salmoneum Mello SPECIES
-=======
+# Epidermophyton salmoneum Mello SPECIES
 
 #### Status
 ACCEPTED

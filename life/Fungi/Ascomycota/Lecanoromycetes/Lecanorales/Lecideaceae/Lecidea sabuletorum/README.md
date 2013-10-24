@@ -1,5 +1,4 @@
-Lecidea sabuletorum var. sabuletorum VARIETY
-=======
+# Lecidea sabuletorum Flörke SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea sabuletorum var. sabuletorum
+Lecidea sabuletorum Flörke
 
 ### Remarks
 null

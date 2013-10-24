@@ -1,5 +1,4 @@
-Microthelia pachnea Körb. SPECIES
-=======
+# Microthelia pachnea Körb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Bresadolina pallida (Pers.) Brinkmann, 1909 SPECIES
-=======
+# Cotylidia pannosa (Sowerby) D.A. Reid, 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 7: 289 (1909)
+Beih. Nova Hedwigia 18: 81 (1965)
 
 #### Original name
-Craterella pallida Pers., 1794
+Helvella pannosa Sowerby, 1799
 
 ### Remarks
 null

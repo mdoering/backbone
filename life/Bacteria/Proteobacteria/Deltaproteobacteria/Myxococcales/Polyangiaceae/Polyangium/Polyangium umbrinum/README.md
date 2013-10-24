@@ -1,5 +1,4 @@
-Polyangium umbrinum Fr. SPECIES
-=======
+# Polyangium umbrinum Fr. SPECIES
 
 #### Status
 ACCEPTED

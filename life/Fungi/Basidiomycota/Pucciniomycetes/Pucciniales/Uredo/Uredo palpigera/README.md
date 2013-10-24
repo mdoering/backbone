@@ -1,5 +1,4 @@
-Uredo palpigera Cummins SPECIES
-=======
+# Uredo palpigera Cummins SPECIES
 
 #### Status
 ACCEPTED

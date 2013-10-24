@@ -1,8 +1,7 @@
-Feldmannia globifera (Kützing) G. Hamel SPECIES
-=======
+# Feldmannia paradoxa (Montagne) G. Hamel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

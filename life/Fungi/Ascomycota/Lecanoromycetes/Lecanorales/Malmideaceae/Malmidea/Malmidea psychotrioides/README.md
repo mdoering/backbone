@@ -1,5 +1,4 @@
-Malmidea psychotrioides (Kalb & Lücking) Kalb, Rivas Plata & Lumbsch SPECIES
-=======
+# Malmidea psychotrioides (Kalb & Lücking) Kalb, Rivas Plata & Lumbsch SPECIES
 
 #### Status
 ACCEPTED

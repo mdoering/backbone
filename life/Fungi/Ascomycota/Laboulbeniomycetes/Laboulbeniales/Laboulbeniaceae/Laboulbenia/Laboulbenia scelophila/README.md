@@ -1,5 +1,4 @@
-Laboulbenia scelophila Thaxt. SPECIES
-=======
+# Laboulbenia scelophila Thaxt. SPECIES
 
 #### Status
 ACCEPTED

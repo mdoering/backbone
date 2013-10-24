@@ -1,5 +1,4 @@
-Rhodocybe subgilva (Berk. & Broome) Pegler SPECIES
-=======
+# Rhodocybe subgilva (Berk. & Broome) Pegler SPECIES
 
 #### Status
 ACCEPTED

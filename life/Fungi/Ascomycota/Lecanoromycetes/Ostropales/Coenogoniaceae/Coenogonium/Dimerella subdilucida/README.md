@@ -1,5 +1,4 @@
-Dimerella subdilucida Vezda & Farkas SPECIES
-=======
+# Dimerella subdilucida Vezda & Farkas SPECIES
 
 #### Status
 ACCEPTED

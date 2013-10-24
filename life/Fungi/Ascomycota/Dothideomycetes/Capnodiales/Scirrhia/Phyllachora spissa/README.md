@@ -1,8 +1,7 @@
-Phyllachora cassiicola Ananthan., 1964 SPECIES
-=======
+# Phyllachora spissa Syd. & P. Syd., 1911 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

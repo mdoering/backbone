@@ -1,5 +1,4 @@
-Asterina sphenispora Ellis & Everh. SPECIES
-=======
+# Asterina sphenispora Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

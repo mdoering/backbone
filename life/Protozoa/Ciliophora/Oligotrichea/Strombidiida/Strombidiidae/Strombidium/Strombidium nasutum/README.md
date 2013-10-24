@@ -1,5 +1,4 @@
-Strombidium nasutum SPECIES
-=======
+# Strombidium nasutum SPECIES
 
 #### Status
 ACCEPTED

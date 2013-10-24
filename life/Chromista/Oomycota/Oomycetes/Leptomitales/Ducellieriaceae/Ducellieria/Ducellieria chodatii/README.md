@@ -1,14 +1,13 @@
-Coelastrum chodatii F. Ducell. SPECIES
-=======
+# Ducellieria chodatii (F. Ducell.) Teiling, 1957 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Svensk bot. Tidskr. 51: 209 (1957)
 
 #### Original name
 Coelastrum chodatii F. Ducell.

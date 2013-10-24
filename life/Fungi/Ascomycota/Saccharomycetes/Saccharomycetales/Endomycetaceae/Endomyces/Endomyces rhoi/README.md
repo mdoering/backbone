@@ -1,5 +1,4 @@
-Endomyces rhoi Castell. & Chalm. SPECIES
-=======
+# Endomyces rhoi Castell. & Chalm. SPECIES
 
 #### Status
 ACCEPTED

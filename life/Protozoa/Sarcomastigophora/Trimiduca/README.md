@@ -1,5 +1,4 @@
-Trimiduca Kozur & Mostler, 1979 GENUS
-=======
+# Trimiduca Kozur & Mostler, 1979 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Syracosphaera mediterranea Lohmann SPECIES
-=======
+# Syracosphaera mediterranea Lohmann SPECIES
 
 #### Status
 ACCEPTED

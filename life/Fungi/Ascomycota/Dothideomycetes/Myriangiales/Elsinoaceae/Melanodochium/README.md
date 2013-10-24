@@ -1,5 +1,4 @@
-Melanodochium GENUS
-=======
+# Melanodochium GENUS
 
 #### Status
 ACCEPTED

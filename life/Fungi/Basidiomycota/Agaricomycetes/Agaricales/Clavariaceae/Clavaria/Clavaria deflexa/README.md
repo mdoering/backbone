@@ -1,5 +1,4 @@
-Clavaria deflexa Hoffm. SPECIES
-=======
+# Clavaria deflexa Hoffm. SPECIES
 
 #### Status
 ACCEPTED

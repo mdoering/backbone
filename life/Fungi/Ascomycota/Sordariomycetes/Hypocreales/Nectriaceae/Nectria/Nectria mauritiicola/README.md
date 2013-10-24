@@ -1,14 +1,13 @@
-Corallomyces mauritiicola Henn., 1904 SPECIES
-=======
+# Nectria mauritiicola (Henn.) Seifert & Samuels, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 43: 244 (1904)
+in Seifert, Stud. Mycol. 27: 160 (1985)
 
 #### Original name
 Corallomyces mauritiicola Henn., 1904

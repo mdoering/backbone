@@ -1,5 +1,4 @@
-Botryopyle dictyocephalus Haeckel, 1887 SPECIES
-=======
+# Botryopyle dictyocephalus Haeckel, 1887 SPECIES
 
 #### Status
 ACCEPTED

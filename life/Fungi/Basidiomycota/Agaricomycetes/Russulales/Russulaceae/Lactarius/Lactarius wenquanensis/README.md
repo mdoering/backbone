@@ -1,5 +1,4 @@
-Lactarius wenquanensis Y. Wang & Z.X. Xie SPECIES
-=======
+# Lactarius wenquanensis Y. Wang & Z.X. Xie SPECIES
 
 #### Status
 ACCEPTED

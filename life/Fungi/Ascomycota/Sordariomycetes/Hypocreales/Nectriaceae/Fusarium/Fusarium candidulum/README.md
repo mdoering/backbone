@@ -1,5 +1,4 @@
-Fusarium candidulum Sacc. SPECIES
-=======
+# Fusarium candidulum Sacc. SPECIES
 
 #### Status
 ACCEPTED

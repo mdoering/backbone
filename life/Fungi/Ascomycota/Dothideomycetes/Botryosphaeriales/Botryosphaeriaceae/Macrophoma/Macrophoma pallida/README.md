@@ -1,5 +1,4 @@
-Macrophoma pallida (Peck) Sacc. & P. Syd. SPECIES
-=======
+# Macrophoma pallida (Peck) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

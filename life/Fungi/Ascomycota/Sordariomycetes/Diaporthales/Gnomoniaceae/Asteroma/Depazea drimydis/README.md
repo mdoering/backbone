@@ -1,5 +1,4 @@
-Depazea drimydis Berl. SPECIES
-=======
+# Depazea drimydis Berl. SPECIES
 
 #### Status
 ACCEPTED

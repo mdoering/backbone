@@ -1,5 +1,4 @@
-Conocybe martiana (Berk. & M.A. Curtis) Singer SPECIES
-=======
+# Conocybe martiana (Berk. & M.A. Curtis) Singer SPECIES
 
 #### Status
 ACCEPTED

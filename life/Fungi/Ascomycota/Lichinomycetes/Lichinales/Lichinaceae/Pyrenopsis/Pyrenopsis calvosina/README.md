@@ -1,5 +1,4 @@
-Pyrenopsis calvosina Samp. SPECIES
-=======
+# Pyrenopsis calvosina Samp. SPECIES
 
 #### Status
 ACCEPTED

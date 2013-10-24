@@ -1,17 +1,16 @@
-Sarcodon laevigatum (Sw.) P. Karst. SPECIES
-=======
+# Sarcodon leucopus (Pers.) Maas Geest. & Nannf., 1969 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Svensk bot. Tidskr. 63: 415 (1969)
 
 #### Original name
-Hydnum laevigatum
+Hydnum leucopus Pers., 1825
 
 ### Remarks
 null

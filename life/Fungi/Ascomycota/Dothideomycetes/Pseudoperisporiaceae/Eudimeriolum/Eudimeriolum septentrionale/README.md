@@ -1,5 +1,4 @@
-Eudimeriolum septentrionale M.L. Farr & Luttr. SPECIES
-=======
+# Eudimeriolum septentrionale M.L. Farr & Luttr. SPECIES
 
 #### Status
 ACCEPTED

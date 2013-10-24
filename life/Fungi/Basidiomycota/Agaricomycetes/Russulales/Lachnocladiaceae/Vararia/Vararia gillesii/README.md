@@ -1,5 +1,4 @@
-Vararia gillesii Boidin & Lanq., 1976 SPECIES
-=======
+# Vararia gillesii Boidin & Lanq., 1976 SPECIES
 
 #### Status
 ACCEPTED

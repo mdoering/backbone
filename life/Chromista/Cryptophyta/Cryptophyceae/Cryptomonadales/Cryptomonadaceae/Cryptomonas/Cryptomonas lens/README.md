@@ -1,5 +1,4 @@
-Cryptomonas lens SPECIES
-=======
+# Cryptomonas lens SPECIES
 
 #### Status
 ACCEPTED

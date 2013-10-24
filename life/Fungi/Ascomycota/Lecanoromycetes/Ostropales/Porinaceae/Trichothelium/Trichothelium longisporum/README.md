@@ -1,5 +1,4 @@
-Trichothelium longisporum Lücking SPECIES
-=======
+# Trichothelium longisporum Lücking SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stictochorella secalina (Jancz.) Höhn. SPECIES
-=======
+# Stictochorella secalina (Jancz.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

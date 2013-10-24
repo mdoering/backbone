@@ -1,5 +1,4 @@
-Polyporus macropus Lév. SPECIES
-=======
+# Polyporus macropus Lév. SPECIES
 
 #### Status
 ACCEPTED

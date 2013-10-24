@@ -1,5 +1,4 @@
-Polyporus castaneae Bourdot & Galzin, 1925 SPECIES
-=======
+# Polyporus castaneae Bourdot & Galzin, 1925 SPECIES
 
 #### Status
 ACCEPTED

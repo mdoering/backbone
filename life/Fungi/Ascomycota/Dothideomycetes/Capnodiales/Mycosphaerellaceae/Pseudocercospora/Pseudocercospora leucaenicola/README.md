@@ -1,5 +1,4 @@
-Pseudocercospora leucaenicola Raghu Ram & Mallaiah SPECIES
-=======
+# Pseudocercospora leucaenicola Raghu Ram & Mallaiah SPECIES
 
 #### Status
 ACCEPTED

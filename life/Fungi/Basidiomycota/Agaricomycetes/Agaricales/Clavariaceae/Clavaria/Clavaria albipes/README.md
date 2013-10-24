@@ -1,5 +1,4 @@
-Clavaria albipes Mont. SPECIES
-=======
+# Clavaria albipes Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Psammospora Fayod GENUS
-=======
+# Melanoleuca Patouillard, 1897 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annals R. Accad. Agric. Torino 35: 91 (1893)
+Cat. Rais. Pl. Cellul. Tunisie (Paris) 22 (1897)
 
 #### Original name
-Psammospora Fayod
+Melanoleuca Patouillard, 1897
 
 ### Remarks
 null

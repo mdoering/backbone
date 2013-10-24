@@ -1,5 +1,4 @@
-Leptosphaeria media Gucevic SPECIES
-=======
+# Leptosphaeria media Gucevic SPECIES
 
 #### Status
 ACCEPTED

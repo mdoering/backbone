@@ -1,5 +1,4 @@
-Ciboria glaucescens (Penz. & Sacc.) W.Y. Zhuang & Zheng Wang SPECIES
-=======
+# Ciboria glaucescens (Penz. & Sacc.) W.Y. Zhuang & Zheng Wang SPECIES
 
 #### Status
 ACCEPTED

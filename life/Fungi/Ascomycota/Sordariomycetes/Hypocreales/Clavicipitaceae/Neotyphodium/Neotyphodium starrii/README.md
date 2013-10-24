@@ -1,14 +1,13 @@
-Acremonium starrii J.F. White & Morgan-Jones, 1987 SPECIES
-=======
+# Neotyphodium starrii (J.F. White & Morgan-Jones) Glenn, C.W. Bacon & Hanlin, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 30: 88 (1987)
+in Glenn, Bacon, Price & Hanlin, Mycologia 88(3): 377 (1996)
 
 #### Original name
 Acremonium starrii J.F. White & Morgan-Jones, 1987

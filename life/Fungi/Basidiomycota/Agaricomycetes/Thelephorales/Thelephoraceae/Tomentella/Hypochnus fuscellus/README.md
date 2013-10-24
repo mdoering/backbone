@@ -1,5 +1,4 @@
-Hypochnus fuscellus J. Schröt. SPECIES
-=======
+# Hypochnus fuscellus J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

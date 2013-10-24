@@ -1,5 +1,4 @@
-Akomachra ovula Colbath, 1979 SPECIES
-=======
+# Akomachra ovula Colbath, 1979 SPECIES
 
 #### Status
 ACCEPTED

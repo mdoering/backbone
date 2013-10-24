@@ -1,5 +1,4 @@
-Phaeomarasmius ciliatus Singer SPECIES
-=======
+# Phaeomarasmius ciliatus Singer SPECIES
 
 #### Status
 ACCEPTED

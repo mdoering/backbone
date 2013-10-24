@@ -1,5 +1,4 @@
-Eucollema melaenum SPECIES
-=======
+# Eucollema melaenum SPECIES
 
 #### Status
 ACCEPTED

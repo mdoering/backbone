@@ -1,5 +1,4 @@
-Karreriella bradyi SPECIES
-=======
+# Karreriella bradyi SPECIES
 
 #### Status
 ACCEPTED

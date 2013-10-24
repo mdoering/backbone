@@ -1,5 +1,4 @@
-Lycoperdon rubroflavum Cragin SPECIES
-=======
+# Lycoperdon rubroflavum Cragin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Amoebobacter pedioformis Eichler & Pfennig, 1987 SPECIES
-=======
+# Thiolamprovum pedioforme (Eichler & Pfennig, 1987) Guyoneaud et al., 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

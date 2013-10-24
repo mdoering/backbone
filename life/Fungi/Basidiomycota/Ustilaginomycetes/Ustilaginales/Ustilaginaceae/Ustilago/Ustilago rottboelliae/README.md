@@ -1,5 +1,4 @@
-Ustilago rottboelliae T. Miyake SPECIES
-=======
+# Ustilago rottboelliae T. Miyake SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea pallidicerina (Eschw.) Zahlbr. SPECIES
-=======
+# Lecidea pallidicerina (Eschw.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

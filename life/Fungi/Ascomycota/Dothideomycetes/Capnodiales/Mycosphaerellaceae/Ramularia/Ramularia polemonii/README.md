@@ -1,5 +1,4 @@
-Ramularia polemonii W.B. Cooke & C.G. Shaw SPECIES
-=======
+# Ramularia polemonii W.B. Cooke & C.G. Shaw SPECIES
 
 #### Status
 ACCEPTED

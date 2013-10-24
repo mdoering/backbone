@@ -1,5 +1,4 @@
-Hysterangium subglobosum J.W. Cribb SPECIES
-=======
+# Hysterangium subglobosum J.W. Cribb SPECIES
 
 #### Status
 ACCEPTED

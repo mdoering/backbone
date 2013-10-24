@@ -1,17 +1,16 @@
-Cintractia utriculicola var. utriculicola (Henn.) Clinton VARIETY
-=======
+# Trichocintractia utriculicola (Henn.) M. Piepenbr., 1995 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Can. J. Bot. 73(7): 1095 (1995)
 
 #### Original name
-Cintractia utriculicola var. utriculicola (Henn.) Clinton
+Cintractia leucoderma f. utriculicola Henn., 1895
 
 ### Remarks
 null

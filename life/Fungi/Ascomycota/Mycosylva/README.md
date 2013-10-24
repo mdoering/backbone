@@ -1,5 +1,4 @@
-Mycosylva M.C. Tulloch GENUS
-=======
+# Mycosylva M.C. Tulloch GENUS
 
 #### Status
 ACCEPTED

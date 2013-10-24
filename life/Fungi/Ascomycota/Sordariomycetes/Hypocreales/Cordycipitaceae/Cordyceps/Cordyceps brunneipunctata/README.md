@@ -1,17 +1,16 @@
-Cordyceps brunneapunctata Hywel-Jones SPECIES
-=======
+# Cordyceps brunneipunctata Hywel-Jones SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycol. Res. 99(10): 1195 (1995)
 
 #### Original name
-Cordyceps brunneapunctata Hywel-Jones
+Cordyceps brunneipunctata Hywel-Jones
 
 ### Remarks
 null

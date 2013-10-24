@@ -1,5 +1,4 @@
-Geastrum papyraceum Berk. & M.A. Curtis SPECIES
-=======
+# Geastrum papyraceum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

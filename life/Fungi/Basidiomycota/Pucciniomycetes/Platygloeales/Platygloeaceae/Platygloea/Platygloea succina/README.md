@@ -1,5 +1,4 @@
-Platygloea succina Pat. SPECIES
-=======
+# Platygloea succina Pat. SPECIES
 
 #### Status
 ACCEPTED

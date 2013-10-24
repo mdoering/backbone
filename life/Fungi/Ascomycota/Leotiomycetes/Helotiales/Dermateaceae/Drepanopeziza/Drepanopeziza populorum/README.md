@@ -1,17 +1,16 @@
-Marssonina populi f. sp FORM
-=======
+# Drepanopeziza populorum (Desm.) Höhn., 1917 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Journal of Nanjing Institute of Forestry, no. 4 4: 16 (1984)
+Annls mycol. 15(5): 332 (1917)
 
 #### Original name
-Marssonina populi f. sp
+Trochila populorum Desm., 1857
 
 ### Remarks
 null

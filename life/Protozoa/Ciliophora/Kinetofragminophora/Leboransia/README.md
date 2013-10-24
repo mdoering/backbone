@@ -1,5 +1,4 @@
-Leboransia Dovgal, 2002 GENUS
-=======
+# Leboransia Dovgal, 2002 GENUS
 
 #### Status
 ACCEPTED

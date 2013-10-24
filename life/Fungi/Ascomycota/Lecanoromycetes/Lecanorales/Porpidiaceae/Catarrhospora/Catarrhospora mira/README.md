@@ -1,5 +1,4 @@
-Catarrhospora mira Brusse SPECIES
-=======
+# Catarrhospora mira Brusse SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Taphrophila Scheuer, 1988 GENUS
-=======
+# Taphrophila Scheuer, 1988 GENUS
 
 #### Status
 ACCEPTED

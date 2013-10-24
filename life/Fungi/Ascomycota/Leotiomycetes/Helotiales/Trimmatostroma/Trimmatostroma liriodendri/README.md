@@ -1,5 +1,4 @@
-Trimmatostroma liriodendri G.F. Atk. SPECIES
-=======
+# Trimmatostroma liriodendri G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

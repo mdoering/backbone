@@ -1,5 +1,4 @@
-Hydnum muscoides Lloyd SPECIES
-=======
+# Hydnum muscoides Lloyd SPECIES
 
 #### Status
 ACCEPTED

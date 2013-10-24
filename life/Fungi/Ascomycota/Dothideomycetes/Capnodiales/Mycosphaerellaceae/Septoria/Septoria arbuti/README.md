@@ -1,5 +1,4 @@
-Septoria arbuti Pass. SPECIES
-=======
+# Septoria arbuti Pass. SPECIES
 
 #### Status
 ACCEPTED

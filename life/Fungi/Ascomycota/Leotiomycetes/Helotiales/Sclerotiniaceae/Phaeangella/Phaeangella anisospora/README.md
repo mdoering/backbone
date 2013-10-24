@@ -1,5 +1,4 @@
-Phaeangella anisospora Höhn. SPECIES
-=======
+# Phaeangella anisospora Höhn. SPECIES
 
 #### Status
 ACCEPTED

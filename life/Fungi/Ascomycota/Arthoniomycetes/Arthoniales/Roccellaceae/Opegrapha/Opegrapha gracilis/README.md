@@ -1,5 +1,4 @@
-Opegrapha gracilis Fr. SPECIES
-=======
+# Opegrapha gracilis Fr. SPECIES
 
 #### Status
 ACCEPTED

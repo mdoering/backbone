@@ -1,5 +1,4 @@
-Mycena aurantiistipitata Robich & A. Gennari SPECIES
-=======
+# Mycena aurantiistipitata Robich & A. Gennari SPECIES
 
 #### Status
 ACCEPTED

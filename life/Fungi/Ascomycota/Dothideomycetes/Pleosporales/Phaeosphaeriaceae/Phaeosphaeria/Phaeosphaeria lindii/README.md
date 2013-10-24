@@ -1,14 +1,13 @@
-Phaeosphaeria equiseti var. lindii L. Holm & K. Holm, 1981 VARIETY
-=======
+# Phaeosphaeria lindii (L. Holm & K. Holm) Leuchtm., 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nordic Jl Bot. 1(1): 113 (1981)
+Sydowia 37: 149 (1984)
 
 #### Original name
 Phaeosphaeria equiseti var. lindii L. Holm & K. Holm, 1981

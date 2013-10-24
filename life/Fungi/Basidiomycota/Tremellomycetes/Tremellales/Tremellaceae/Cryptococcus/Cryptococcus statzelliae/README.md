@@ -1,5 +1,4 @@
-Cryptococcus statzelliae Thomas-Hall, Watson & Scorzetti SPECIES
-=======
+# Cryptococcus statzelliae Thomas-Hall, Watson & Scorzetti SPECIES
 
 #### Status
 ACCEPTED

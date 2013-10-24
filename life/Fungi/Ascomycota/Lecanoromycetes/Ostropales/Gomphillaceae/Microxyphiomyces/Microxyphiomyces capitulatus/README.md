@@ -1,5 +1,4 @@
-Microxyphiomyces capitulatus Bat. & J.L. Bezerra SPECIES
-=======
+# Microxyphiomyces capitulatus Bat. & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

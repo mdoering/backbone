@@ -1,5 +1,4 @@
-Microdiplodia compressa (Ellis & Barthol.) Tassi SPECIES
-=======
+# Microdiplodia compressa (Ellis & Barthol.) Tassi SPECIES
 
 #### Status
 ACCEPTED

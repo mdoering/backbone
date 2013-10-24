@@ -1,5 +1,4 @@
-Inocybe crassicystidiata Pegler SPECIES
-=======
+# Inocybe crassicystidiata Pegler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Opisthostomum Ghosh, 1928 GENUS
-=======
+# Opisthostomatella Corliss, 1960 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-J. R. Micr. Soc. , 48, 383.
+J. Protozool. 7: 272.
 
 #### Original name
-null
+Opisthostomum Ghosh, 1928
 
 ### Remarks
 null

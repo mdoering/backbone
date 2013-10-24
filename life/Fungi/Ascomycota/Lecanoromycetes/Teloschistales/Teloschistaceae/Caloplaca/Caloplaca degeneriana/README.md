@@ -1,5 +1,4 @@
-Caloplaca degeneriana Klem. SPECIES
-=======
+# Caloplaca degeneriana Klem. SPECIES
 
 #### Status
 ACCEPTED

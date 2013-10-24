@@ -1,5 +1,4 @@
-Hebeloma suaveolens Velen. SPECIES
-=======
+# Hebeloma suaveolens Velen. SPECIES
 
 #### Status
 ACCEPTED

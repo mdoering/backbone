@@ -1,5 +1,4 @@
-Stigmatomyces hyadinae H.L. Dainat & J. Dainat SPECIES
-=======
+# Stigmatomyces hyadinae H.L. Dainat & J. Dainat SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Poria pepinensis L. Ling SPECIES
-=======
+# Poria pepinensis L. Ling SPECIES
 
 #### Status
 ACCEPTED

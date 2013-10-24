@@ -1,5 +1,4 @@
-Gymnonympha Dobell, 1910 GENUS
-=======
+# Gymnonympha Dobell, 1910 GENUS
 
 #### Status
 ACCEPTED

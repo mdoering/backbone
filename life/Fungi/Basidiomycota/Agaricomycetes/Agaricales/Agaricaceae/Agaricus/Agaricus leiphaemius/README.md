@@ -1,5 +1,4 @@
-Agaricus leiphaemius Mont. SPECIES
-=======
+# Agaricus leiphaemius Mont. SPECIES
 
 #### Status
 ACCEPTED

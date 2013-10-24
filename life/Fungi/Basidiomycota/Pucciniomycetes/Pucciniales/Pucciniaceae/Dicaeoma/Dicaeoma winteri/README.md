@@ -1,5 +1,4 @@
-Dicaeoma winteri (Pazschke) Kuntze SPECIES
-=======
+# Dicaeoma winteri (Pazschke) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea longiconidia H. Magn. SPECIES
-=======
+# Lecidea longiconidia H. Magn. SPECIES
 
 #### Status
 ACCEPTED

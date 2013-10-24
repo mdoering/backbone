@@ -1,5 +1,4 @@
-Rhizocyphus ericae SPECIES
-=======
+# Rhizocyphus ericae SPECIES
 
 #### Status
 ACCEPTED

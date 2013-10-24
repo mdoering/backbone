@@ -1,5 +1,4 @@
-Hendersonia stagnosporioides var. stagnosporioides VARIETY
-=======
+# Hendersonia stagnosporioides SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Hendersonia stagnosporioides var. stagnosporioides
+Hendersonia stagnosporioides
 
 ### Remarks
 null

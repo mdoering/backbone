@@ -1,5 +1,4 @@
-Xylaria salmonicolor Berk. SPECIES
-=======
+# Xylaria salmonicolor Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Discosphaerina euganea (Sacc.) Petr. SPECIES
-=======
+# Discosphaerina euganea (Sacc.) Petr. SPECIES
 
 #### Status
 ACCEPTED

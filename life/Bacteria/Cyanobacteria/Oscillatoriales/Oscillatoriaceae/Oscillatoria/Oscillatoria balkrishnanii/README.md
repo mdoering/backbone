@@ -1,5 +1,4 @@
-Oscillatoria balkrishnanii (N. D. Kamat) J. A. Rino SPECIES
-=======
+# Oscillatoria balkrishnanii (N. D. Kamat) J. A. Rino SPECIES
 
 #### Status
 ACCEPTED

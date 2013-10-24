@@ -1,5 +1,4 @@
-Puccinia brunoniae McAlpine SPECIES
-=======
+# Puccinia brunoniae McAlpine SPECIES
 
 #### Status
 ACCEPTED

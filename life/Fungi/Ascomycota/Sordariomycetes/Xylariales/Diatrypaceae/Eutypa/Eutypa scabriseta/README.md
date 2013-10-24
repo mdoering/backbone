@@ -1,5 +1,4 @@
-Eutypa scabriseta (Schwein.) Berk. & M.A. Curtis SPECIES
-=======
+# Eutypa scabriseta (Schwein.) Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

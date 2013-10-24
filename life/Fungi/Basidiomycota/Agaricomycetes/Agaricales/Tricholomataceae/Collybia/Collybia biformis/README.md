@@ -1,5 +1,4 @@
-Collybia biformis (Peck) Singer SPECIES
-=======
+# Collybia biformis (Peck) Singer SPECIES
 
 #### Status
 ACCEPTED

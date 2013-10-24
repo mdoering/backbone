@@ -1,5 +1,4 @@
-Bionectria verrucispora Schroers & Samuels, 2001 SPECIES
-=======
+# Bionectria verrucispora Schroers & Samuels, 2001 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pannularia gymnocheila Nyl. SPECIES
-=======
+# Pannularia gymnocheila Nyl. SPECIES
 
 #### Status
 ACCEPTED

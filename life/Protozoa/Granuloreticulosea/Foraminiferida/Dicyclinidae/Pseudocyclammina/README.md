@@ -1,5 +1,4 @@
-Pseudocyclammina Yabe & Hanzawa, 1926 GENUS
-=======
+# Pseudocyclammina Yabe & Hanzawa, 1926 GENUS
 
 #### Status
 ACCEPTED

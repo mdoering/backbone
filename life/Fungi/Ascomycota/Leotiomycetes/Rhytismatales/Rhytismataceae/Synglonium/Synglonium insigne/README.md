@@ -1,5 +1,4 @@
-Synglonium insigne Penz. & Sacc. SPECIES
-=======
+# Synglonium insigne Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

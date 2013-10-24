@@ -1,5 +1,4 @@
-Laboulbenia variabilis subsp. variabilis SUBSPECIES
-=======
+# Laboulbenia variabilis Thaxt. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Laboulbenia variabilis subsp. variabilis
+Laboulbenia variabilis Thaxt.
 
 ### Remarks
 null

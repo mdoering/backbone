@@ -1,5 +1,4 @@
-Hysterium striatum Chevall. SPECIES
-=======
+# Hysterium striatum Chevall. SPECIES
 
 #### Status
 ACCEPTED

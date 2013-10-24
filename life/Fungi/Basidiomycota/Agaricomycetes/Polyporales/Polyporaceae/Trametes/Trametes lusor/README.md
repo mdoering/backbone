@@ -1,5 +1,4 @@
-Trametes lusor Corner SPECIES
-=======
+# Trametes lusor Corner SPECIES
 
 #### Status
 ACCEPTED

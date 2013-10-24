@@ -1,14 +1,13 @@
-Acaulopage pectospora Drechsler, 1962 SPECIES
-=======
+# Zoophagus pectosporus (Drechsler) M.W. Dick, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Am. J. Bot. 49: 1089 (1962)
+Mycol. Res. 94(3): 352 (1990)
 
 #### Original name
 Acaulopage pectospora Drechsler, 1962

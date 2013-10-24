@@ -1,8 +1,7 @@
-Dasyscypha crinella (Ellis & Everh.) Sacc. SPECIES
-=======
+# Dasyscyphus crinella (Ellis & Everh.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

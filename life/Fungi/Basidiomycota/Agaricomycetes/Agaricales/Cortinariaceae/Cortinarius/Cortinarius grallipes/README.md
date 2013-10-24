@@ -1,5 +1,4 @@
-Cortinarius grallipes Fr. SPECIES
-=======
+# Cortinarius grallipes Fr. SPECIES
 
 #### Status
 ACCEPTED

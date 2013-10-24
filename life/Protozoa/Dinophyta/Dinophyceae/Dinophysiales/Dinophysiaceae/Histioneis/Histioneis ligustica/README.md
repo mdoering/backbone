@@ -1,5 +1,4 @@
-Histioneis ligustica Rampi SPECIES
-=======
+# Histioneis ligustica Rampi SPECIES
 
 #### Status
 ACCEPTED

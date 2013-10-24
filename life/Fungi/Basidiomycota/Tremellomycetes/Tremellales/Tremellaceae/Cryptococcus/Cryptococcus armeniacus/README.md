@@ -1,5 +1,4 @@
-Cryptococcus armeniacus Á. Fonseca & J. Inácio SPECIES
-=======
+# Cryptococcus armeniacus Á. Fonseca & J. Inácio SPECIES
 
 #### Status
 ACCEPTED

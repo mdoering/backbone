@@ -1,5 +1,4 @@
-Clypeolinopsis GENUS
-=======
+# Clypeolinopsis GENUS
 
 #### Status
 ACCEPTED

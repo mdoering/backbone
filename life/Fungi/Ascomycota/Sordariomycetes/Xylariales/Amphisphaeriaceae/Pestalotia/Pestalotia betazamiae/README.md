@@ -1,5 +1,4 @@
-Pestalotia betazamiae Guba SPECIES
-=======
+# Pestalotia betazamiae Guba SPECIES
 
 #### Status
 ACCEPTED

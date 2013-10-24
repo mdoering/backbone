@@ -1,5 +1,4 @@
-Euglena rostrata Schiller SPECIES
-=======
+# Euglena rostrata Schiller SPECIES
 
 #### Status
 ACCEPTED

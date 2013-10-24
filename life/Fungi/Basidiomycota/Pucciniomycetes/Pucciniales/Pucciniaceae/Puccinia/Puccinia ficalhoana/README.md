@@ -1,5 +1,4 @@
-Puccinia ficalhoana Lagerh. SPECIES
-=======
+# Puccinia ficalhoana Lagerh. SPECIES
 
 #### Status
 ACCEPTED

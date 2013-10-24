@@ -1,5 +1,4 @@
-Calolepis GENUS
-=======
+# Calolepis GENUS
 
 #### Status
 ACCEPTED

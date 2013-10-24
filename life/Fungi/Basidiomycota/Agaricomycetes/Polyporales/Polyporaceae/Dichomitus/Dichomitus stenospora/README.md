@@ -1,5 +1,4 @@
-Dichomitus stenospora Renvall & Niemelä SPECIES
-=======
+# Dichomitus stenospora Renvall & Niemelä SPECIES
 
 #### Status
 ACCEPTED

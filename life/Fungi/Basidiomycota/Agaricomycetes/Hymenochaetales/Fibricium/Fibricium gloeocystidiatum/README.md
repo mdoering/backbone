@@ -1,5 +1,4 @@
-Fibricium gloeocystidiatum Rajchenb. SPECIES
-=======
+# Fibricium gloeocystidiatum Rajchenb. SPECIES
 
 #### Status
 ACCEPTED

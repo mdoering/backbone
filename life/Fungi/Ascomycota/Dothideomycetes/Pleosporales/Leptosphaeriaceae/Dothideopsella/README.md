@@ -1,5 +1,4 @@
-Dothideopsella GENUS
-=======
+# Dothideopsella GENUS
 
 #### Status
 ACCEPTED

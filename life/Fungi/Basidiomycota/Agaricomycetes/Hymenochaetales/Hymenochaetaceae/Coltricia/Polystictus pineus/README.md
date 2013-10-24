@@ -1,5 +1,4 @@
-Polystictus pineus Peck SPECIES
-=======
+# Polystictus pineus Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acmosporium botryoideum Corda SPECIES
-=======
+# Acmosporium botryoideum Corda SPECIES
 
 #### Status
 ACCEPTED

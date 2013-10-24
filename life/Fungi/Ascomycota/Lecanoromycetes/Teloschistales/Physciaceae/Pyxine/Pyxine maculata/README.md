@@ -1,5 +1,4 @@
-Pyxine maculata Swinscow & Krog SPECIES
-=======
+# Pyxine maculata Swinscow & Krog SPECIES
 
 #### Status
 ACCEPTED

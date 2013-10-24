@@ -1,5 +1,4 @@
-Eccilia nivea Rick SPECIES
-=======
+# Eccilia nivea Rick SPECIES
 
 #### Status
 ACCEPTED

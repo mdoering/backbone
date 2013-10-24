@@ -1,5 +1,4 @@
-Graphis micrograpta Vain. SPECIES
-=======
+# Graphis micrograpta Vain. SPECIES
 
 #### Status
 ACCEPTED

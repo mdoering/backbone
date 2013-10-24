@@ -1,14 +1,13 @@
-Erysiphe yamadai (E.S. Salmon) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe yamadae (E.S. Salmon) U. Braun & S. Takam. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Schlechtendalia 4: 15 (2000)
 
 #### Original name
 Microsphaera alni var. yamadai E.S. Salmon

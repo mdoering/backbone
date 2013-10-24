@@ -1,5 +1,4 @@
-Hebeloma atrifulvifolium Murrill SPECIES
-=======
+# Hebeloma atrifulvifolium Murrill SPECIES
 
 #### Status
 ACCEPTED

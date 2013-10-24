@@ -1,5 +1,4 @@
-Macrophoma hedychii Mariani SPECIES
-=======
+# Macrophoma hedychii Mariani SPECIES
 
 #### Status
 ACCEPTED

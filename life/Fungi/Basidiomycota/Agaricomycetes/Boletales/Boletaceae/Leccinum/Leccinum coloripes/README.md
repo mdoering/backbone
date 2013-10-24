@@ -1,5 +1,4 @@
-Leccinum coloripes (J. Blum) Lannoy & Estadès SPECIES
-=======
+# Leccinum coloripes (J. Blum) Lannoy & Estadès SPECIES
 
 #### Status
 ACCEPTED

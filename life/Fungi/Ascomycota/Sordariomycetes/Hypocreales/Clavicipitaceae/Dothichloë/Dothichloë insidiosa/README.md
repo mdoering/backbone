@@ -1,5 +1,4 @@
-Dothichloë insidiosa Bat. SPECIES
-=======
+# Dothichloë insidiosa Bat. SPECIES
 
 #### Status
 ACCEPTED

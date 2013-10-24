@@ -1,5 +1,4 @@
-Helicosporina Arnaud, 1954 GENUS
-=======
+# Helicosporina Arnaud, 1954 GENUS
 
 #### Status
 ACCEPTED

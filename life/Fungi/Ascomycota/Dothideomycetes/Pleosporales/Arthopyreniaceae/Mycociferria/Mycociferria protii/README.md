@@ -1,5 +1,4 @@
-Mycociferria protii Bat. & H. Maia SPECIES
-=======
+# Mycociferria protii Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

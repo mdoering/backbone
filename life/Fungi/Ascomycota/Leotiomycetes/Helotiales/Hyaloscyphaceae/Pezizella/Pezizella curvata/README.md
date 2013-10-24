@@ -1,5 +1,4 @@
-Pezizella curvata Velen. SPECIES
-=======
+# Pezizella curvata Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophiotrema magellanicum Speg. SPECIES
-=======
+# Lophiotrema magellanicum Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lyomyces aureus (Fr.) P. Karst. SPECIES
-=======
+# Lyomyces aureus (Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ammodiscus gullmarensis SPECIES
-=======
+# Ammodiscus gullmarensis SPECIES
 
 #### Status
 ACCEPTED

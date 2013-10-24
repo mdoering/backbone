@@ -1,5 +1,4 @@
-Sphaerella nigrificata Fautrey SPECIES
-=======
+# Sphaerella nigrificata Fautrey SPECIES
 
 #### Status
 ACCEPTED

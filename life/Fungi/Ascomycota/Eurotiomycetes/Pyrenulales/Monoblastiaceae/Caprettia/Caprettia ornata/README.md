@@ -1,5 +1,4 @@
-Caprettia ornata (R. Sant. & Vezda) Lücking & Sérus. SPECIES
-=======
+# Caprettia ornata (R. Sant. & Vezda) Lücking & Sérus. SPECIES
 
 #### Status
 ACCEPTED

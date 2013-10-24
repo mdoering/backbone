@@ -1,5 +1,4 @@
-Peronospora rubiae Gäum. SPECIES
-=======
+# Peronospora rubiae Gäum. SPECIES
 
 #### Status
 ACCEPTED

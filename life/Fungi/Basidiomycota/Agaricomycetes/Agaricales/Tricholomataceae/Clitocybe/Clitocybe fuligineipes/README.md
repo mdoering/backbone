@@ -1,5 +1,4 @@
-Clitocybe fuligineipes Métrod SPECIES
-=======
+# Clitocybe fuligineipes Métrod SPECIES
 
 #### Status
 ACCEPTED

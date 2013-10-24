@@ -1,5 +1,4 @@
-Pseudocercospora conspicua (Earle) Deighton SPECIES
-=======
+# Pseudocercospora conspicua (Earle) Deighton SPECIES
 
 #### Status
 ACCEPTED

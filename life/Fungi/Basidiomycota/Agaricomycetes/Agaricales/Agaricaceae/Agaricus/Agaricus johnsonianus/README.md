@@ -1,5 +1,4 @@
-Agaricus johnsonianus Peck SPECIES
-=======
+# Agaricus johnsonianus Peck SPECIES
 
 #### Status
 ACCEPTED

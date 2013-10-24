@@ -1,5 +1,4 @@
-Xanthoria domogledensis Vezda SPECIES
-=======
+# Xanthoria domogledensis Vezda SPECIES
 
 #### Status
 ACCEPTED

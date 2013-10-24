@@ -1,5 +1,4 @@
-Hymenochaete agathicola Henn., 1894 SPECIES
-=======
+# Hymenochaete agathicola Henn., 1894 SPECIES
 
 #### Status
 ACCEPTED

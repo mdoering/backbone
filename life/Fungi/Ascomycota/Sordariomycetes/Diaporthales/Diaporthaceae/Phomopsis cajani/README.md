@@ -1,5 +1,4 @@
-Phomopsis cajani Syd. SPECIES
-=======
+# Phomopsis cajani Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eremothecella Syd. & P. Syd. GENUS
-=======
+# Eremothecella Syd. & P. Syd. GENUS
 
 #### Status
 ACCEPTED

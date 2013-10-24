@@ -1,14 +1,13 @@
-Beloniella rhaphidospora (Rehm) E. Müll. & Défago SPECIES
-=======
+# Odontura rhaphidospora (Rehm) Clem. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Sydowia 20: 159 (1968)
+Gen. Fung. (Minneapolis) 65, 174 (1909)
 
 #### Original name
 Ophiodothis rhaphidospora Rehm

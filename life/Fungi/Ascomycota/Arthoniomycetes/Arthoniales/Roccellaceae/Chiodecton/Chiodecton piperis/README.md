@@ -1,5 +1,4 @@
-Chiodecton piperis Vain. SPECIES
-=======
+# Chiodecton piperis Vain. SPECIES
 
 #### Status
 ACCEPTED

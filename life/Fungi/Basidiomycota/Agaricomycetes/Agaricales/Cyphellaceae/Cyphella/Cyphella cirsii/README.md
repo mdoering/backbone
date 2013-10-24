@@ -1,5 +1,4 @@
-Cyphella cirsii P. Crouan & H. Crouan SPECIES
-=======
+# Cyphella cirsii P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Balantidium triangulatum Boisson, 1959 SPECIES
-=======
+# Balantidium triangulatum Boisson, 1959 SPECIES
 
 #### Status
 ACCEPTED

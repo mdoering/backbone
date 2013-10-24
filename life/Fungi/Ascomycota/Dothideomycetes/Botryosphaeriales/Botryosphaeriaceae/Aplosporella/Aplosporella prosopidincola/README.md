@@ -1,5 +1,4 @@
-Aplosporella prosopidincola S. Ahmad, 1954 SPECIES
-=======
+# Aplosporella prosopidincola S. Ahmad, 1954 SPECIES
 
 #### Status
 ACCEPTED

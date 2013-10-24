@@ -1,5 +1,4 @@
-Chaenothecopsis vinosa Titov SPECIES
-=======
+# Chaenothecopsis vinosa Titov SPECIES
 
 #### Status
 ACCEPTED

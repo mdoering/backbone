@@ -1,5 +1,4 @@
-Stentor araucanus Foissner & Wölfl, 1994 SPECIES
-=======
+# Stentor araucanus Foissner & Wölfl, 1994 SPECIES
 
 #### Status
 ACCEPTED

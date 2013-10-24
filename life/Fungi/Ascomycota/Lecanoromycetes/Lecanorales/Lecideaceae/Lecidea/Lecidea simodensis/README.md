@@ -1,5 +1,4 @@
-Lecidea simodensis Tuck. SPECIES
-=======
+# Lecidea simodensis Tuck. SPECIES
 
 #### Status
 ACCEPTED

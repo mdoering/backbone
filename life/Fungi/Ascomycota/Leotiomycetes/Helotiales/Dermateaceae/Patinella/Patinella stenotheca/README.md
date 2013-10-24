@@ -1,5 +1,4 @@
-Patinella stenotheca (P. Karst.) Sacc. SPECIES
-=======
+# Patinella stenotheca (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

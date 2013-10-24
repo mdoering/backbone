@@ -1,5 +1,4 @@
-Natrinema pellirubrum McGenity et al., 1998 SPECIES
-=======
+# Natrinema pellirubrum McGenity et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

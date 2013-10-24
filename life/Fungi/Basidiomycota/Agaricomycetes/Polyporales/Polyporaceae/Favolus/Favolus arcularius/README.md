@@ -1,5 +1,4 @@
-Favolus arcularius (Batsch) Fr. SPECIES
-=======
+# Favolus arcularius (Batsch) Fr. SPECIES
 
 #### Status
 ACCEPTED

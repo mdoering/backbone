@@ -1,5 +1,4 @@
-Entoloma ollare E. Ludw. & T. Rödig SPECIES
-=======
+# Entoloma ollare E. Ludw. & T. Rödig SPECIES
 
 #### Status
 ACCEPTED

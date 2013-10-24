@@ -1,17 +1,16 @@
-Ewingium Pessagno, 1976 GENUS
-=======
+# Ewingella Pessagno, 1969 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+IRMNG Homonym List
 
 #### Published in
-Micropaleontology (Spec. Publ. ) No. 2: 46.
+Bull. Am. Paleont. 56: 398.
 
 #### Original name
-Ewingella Pessagno, 1969
+null
 
 ### Remarks
 null

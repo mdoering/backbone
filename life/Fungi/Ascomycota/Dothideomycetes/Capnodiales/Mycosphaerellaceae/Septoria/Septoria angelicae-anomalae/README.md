@@ -1,5 +1,4 @@
-Septoria angelicae-anomalae M. Morelet SPECIES
-=======
+# Septoria angelicae-anomalae M. Morelet SPECIES
 
 #### Status
 ACCEPTED

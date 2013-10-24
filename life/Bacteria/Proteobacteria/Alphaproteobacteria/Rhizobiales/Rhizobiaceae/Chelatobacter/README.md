@@ -1,5 +1,4 @@
-Chelatobacter Auling et al., 1993 GENUS
-=======
+# Chelatobacter Auling et al., 1993 GENUS
 
 #### Status
 ACCEPTED

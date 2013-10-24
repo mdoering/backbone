@@ -1,5 +1,4 @@
-Porina versicolor G. Mey. SPECIES
-=======
+# Porina versicolor G. Mey. SPECIES
 
 #### Status
 ACCEPTED

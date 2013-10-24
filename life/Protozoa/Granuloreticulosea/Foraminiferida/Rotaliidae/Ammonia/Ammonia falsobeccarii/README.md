@@ -1,5 +1,4 @@
-Ammonia falsobeccarii (Rouvillois, 1974) SPECIES
-=======
+# Ammonia falsobeccarii (Rouvillois, 1974) SPECIES
 
 #### Status
 ACCEPTED

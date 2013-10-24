@@ -1,5 +1,4 @@
-Caloplaca amabilis (Fink) Zahlbr. SPECIES
-=======
+# Caloplaca amabilis (Fink) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

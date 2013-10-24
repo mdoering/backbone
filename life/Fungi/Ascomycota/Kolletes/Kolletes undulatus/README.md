@@ -1,5 +1,4 @@
-Kolletes undulatus Kohlm. & Volkm.-Kohlm., 2005 SPECIES
-=======
+# Kolletes undulatus Kohlm. & Volkm.-Kohlm., 2005 SPECIES
 
 #### Status
 ACCEPTED

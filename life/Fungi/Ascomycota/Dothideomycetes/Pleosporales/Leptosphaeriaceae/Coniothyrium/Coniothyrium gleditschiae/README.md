@@ -1,5 +1,4 @@
-Coniothyrium gleditschiae Thüm. SPECIES
-=======
+# Coniothyrium gleditschiae Thüm. SPECIES
 
 #### Status
 ACCEPTED

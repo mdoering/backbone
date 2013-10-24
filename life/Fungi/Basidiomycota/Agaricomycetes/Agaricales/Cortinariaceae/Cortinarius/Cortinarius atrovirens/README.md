@@ -1,5 +1,4 @@
-Cortinarius atrovirens Kalchbr., 1874 SPECIES
-=======
+# Cortinarius atrovirens Kalchbr., 1874 SPECIES
 
 #### Status
 ACCEPTED

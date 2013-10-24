@@ -1,5 +1,4 @@
-Phlegmacium allutum (Fr.) M.M. Moser SPECIES
-=======
+# Phlegmacium allutum (Fr.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

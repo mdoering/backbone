@@ -1,5 +1,4 @@
-Hymenoscyphus minuticarpus M.P. Sharma SPECIES
-=======
+# Hymenoscyphus minuticarpus M.P. Sharma SPECIES
 
 #### Status
 ACCEPTED

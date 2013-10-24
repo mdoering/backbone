@@ -1,5 +1,4 @@
-Leptosphaeria bondari Jenkins & Wehm. SPECIES
-=======
+# Leptosphaeria bondari Jenkins & Wehm. SPECIES
 
 #### Status
 ACCEPTED

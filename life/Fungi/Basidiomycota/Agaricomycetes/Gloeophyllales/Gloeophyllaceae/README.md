@@ -1,8 +1,7 @@
-Boreostereaceae FAMILY
-=======
+# Gloeophyllaceae FAMILY
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

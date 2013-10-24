@@ -1,5 +1,4 @@
-Lionotus rotunda Kahl, 1931 SPECIES
-=======
+# Lionotus rotunda Kahl, 1931 SPECIES
 
 #### Status
 ACCEPTED

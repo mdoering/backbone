@@ -1,5 +1,4 @@
-Piricauda anacardii Bat. & C. Ram SPECIES
-=======
+# Piricauda anacardii Bat. & C. Ram SPECIES
 
 #### Status
 ACCEPTED

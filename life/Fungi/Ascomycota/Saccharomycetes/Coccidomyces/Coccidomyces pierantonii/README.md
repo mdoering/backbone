@@ -1,14 +1,13 @@
-Icerymyces pierantonii (Buchner) Brain, 1923 SPECIES
-=======
+# Coccidomyces pierantonii Buchner, 1912 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Univ. Stellenbosch, Reeks A (1923)
+Sitzungber. Ges. Morph. Physiol. Munch. 27: (1912)
 
 #### Original name
 Coccidomyces pierantonii Buchner, 1912

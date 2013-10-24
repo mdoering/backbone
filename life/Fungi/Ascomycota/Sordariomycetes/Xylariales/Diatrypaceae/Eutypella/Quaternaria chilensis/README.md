@@ -1,5 +1,4 @@
-Quaternaria chilensis Speg. SPECIES
-=======
+# Quaternaria chilensis Speg. SPECIES
 
 #### Status
 ACCEPTED

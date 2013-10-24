@@ -1,5 +1,4 @@
-Arachnion iriemae Rick SPECIES
-=======
+# Arachnion iriemae Rick SPECIES
 
 #### Status
 ACCEPTED

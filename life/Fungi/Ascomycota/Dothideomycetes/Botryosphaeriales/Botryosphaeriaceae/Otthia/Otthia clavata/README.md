@@ -1,5 +1,4 @@
-Otthia clavata (E. Müll. & S. Ahmad) E. Müll. SPECIES
-=======
+# Otthia clavata (E. Müll. & S. Ahmad) E. Müll. SPECIES
 
 #### Status
 ACCEPTED

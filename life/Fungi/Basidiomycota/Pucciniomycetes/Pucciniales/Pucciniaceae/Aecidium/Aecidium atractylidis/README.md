@@ -1,5 +1,4 @@
-Aecidium atractylidis Dietel SPECIES
-=======
+# Aecidium atractylidis Dietel SPECIES
 
 #### Status
 ACCEPTED

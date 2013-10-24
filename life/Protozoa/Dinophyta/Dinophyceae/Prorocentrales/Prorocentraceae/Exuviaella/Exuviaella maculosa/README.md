@@ -1,5 +1,4 @@
-Exuviaella maculosa (M.A. Faust) J.L. McLachlan & G.T. Boalch SPECIES
-=======
+# Exuviaella maculosa (M.A. Faust) J.L. McLachlan & G.T. Boalch SPECIES
 
 #### Status
 ACCEPTED

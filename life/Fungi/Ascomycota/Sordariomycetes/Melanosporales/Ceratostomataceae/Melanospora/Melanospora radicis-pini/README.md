@@ -1,5 +1,4 @@
-Melanospora radicis-pini Manka & Gierczak SPECIES
-=======
+# Melanospora radicis-pini Manka & Gierczak SPECIES
 
 #### Status
 ACCEPTED

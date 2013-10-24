@@ -1,5 +1,4 @@
-Geotrichum sakuranei (Jannin) Almeida {?} SPECIES
-=======
+# Geotrichum sakuranei (Jannin) Almeida {?} SPECIES
 
 #### Status
 ACCEPTED

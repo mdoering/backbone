@@ -1,5 +1,4 @@
-Hemipeltaceae FAMILY
-=======
+# Hemipeltaceae FAMILY
 
 #### Status
 ACCEPTED

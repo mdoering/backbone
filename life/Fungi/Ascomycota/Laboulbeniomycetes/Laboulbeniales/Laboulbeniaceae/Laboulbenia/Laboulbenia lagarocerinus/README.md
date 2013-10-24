@@ -1,5 +1,4 @@
-Laboulbenia lagarocerinus Thaxt. SPECIES
-=======
+# Laboulbenia lagarocerinus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

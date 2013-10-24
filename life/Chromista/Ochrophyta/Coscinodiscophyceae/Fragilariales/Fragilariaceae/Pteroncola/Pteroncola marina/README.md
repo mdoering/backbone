@@ -1,5 +1,4 @@
-Pteroncola marina R.W. Holmes & D.A. Croll SPECIES
-=======
+# Pteroncola marina R.W. Holmes & D.A. Croll SPECIES
 
 #### Status
 ACCEPTED

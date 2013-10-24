@@ -1,5 +1,4 @@
-Lycoperdon geaster Batsch SPECIES
-=======
+# Lycoperdon geaster Batsch SPECIES
 
 #### Status
 ACCEPTED

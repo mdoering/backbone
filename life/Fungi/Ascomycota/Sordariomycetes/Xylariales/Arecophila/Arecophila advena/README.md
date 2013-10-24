@@ -1,5 +1,4 @@
-Arecophila advena (Syd.) Y.Z. Wang, Aptroot & K.D. Hyde SPECIES
-=======
+# Arecophila advena (Syd.) Y.Z. Wang, Aptroot & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

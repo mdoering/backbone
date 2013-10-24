@@ -1,5 +1,4 @@
-Sarcomyces GENUS
-=======
+# Sarcomyces GENUS
 
 #### Status
 ACCEPTED

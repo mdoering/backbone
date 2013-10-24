@@ -1,5 +1,4 @@
-Rhombostilbella crus-pavonis Cif., Bat. & Nascim., 1956 SPECIES
-=======
+# Rhombostilbella crus-pavonis Cif., Bat. & Nascim., 1956 SPECIES
 
 #### Status
 ACCEPTED

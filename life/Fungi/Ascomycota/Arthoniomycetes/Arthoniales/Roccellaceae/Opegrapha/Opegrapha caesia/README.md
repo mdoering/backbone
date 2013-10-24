@@ -1,5 +1,4 @@
-Opegrapha caesia Müll. Arg. SPECIES
-=======
+# Opegrapha caesia Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

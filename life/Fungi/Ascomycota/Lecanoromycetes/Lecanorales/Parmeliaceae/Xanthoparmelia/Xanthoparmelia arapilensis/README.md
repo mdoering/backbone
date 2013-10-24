@@ -1,14 +1,13 @@
-Parmelia arapilensis Elix & P. M. Armstr. SPECIES
-=======
+# Xanthoparmelia arapilensis (Elix & P. M. Armstr.) Filson SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Aust. J. Bot. 31(5): 467 (1983)
+Brunonia 7(1): 205 (1984)
 
 #### Original name
 Parmelia arapilensis Elix & P. M. Armstr.

@@ -1,5 +1,4 @@
-Peziza gemmifera Wallr. SPECIES
-=======
+# Peziza gemmifera Wallr. SPECIES
 
 #### Status
 ACCEPTED

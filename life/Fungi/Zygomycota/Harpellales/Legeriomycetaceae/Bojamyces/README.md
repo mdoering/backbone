@@ -1,5 +1,4 @@
-Bojamyces Longcore GENUS
-=======
+# Bojamyces Longcore GENUS
 
 #### Status
 ACCEPTED

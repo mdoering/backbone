@@ -1,5 +1,4 @@
-Cortinarius effictus Britzelm. SPECIES
-=======
+# Cortinarius effictus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

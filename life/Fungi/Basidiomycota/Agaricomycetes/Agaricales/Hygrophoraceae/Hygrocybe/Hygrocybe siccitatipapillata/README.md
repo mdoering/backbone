@@ -1,17 +1,16 @@
-Hygrocybe siccitatopapillata A.M. Young SPECIES
-=======
+# Hygrocybe siccitatipapillata A.M. Young SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Young & Wood, Aust. Syst. Bot. 10(6): 947 (1997)
 
 #### Original name
-Hygrocybe siccitatopapillata A.M. Young
+Hygrocybe siccitatipapillata A.M. Young
 
 ### Remarks
 null

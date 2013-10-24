@@ -1,5 +1,4 @@
-Lophiotricha lignicola Teng & Ou SPECIES
-=======
+# Lophiotricha lignicola Teng & Ou SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Allescheriella crocea (Mont.) S. Hughes SPECIES
-=======
+# Allescheriella crocea (Mont.) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

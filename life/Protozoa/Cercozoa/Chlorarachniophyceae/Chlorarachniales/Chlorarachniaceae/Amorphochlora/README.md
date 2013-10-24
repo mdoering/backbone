@@ -1,5 +1,4 @@
-Amorphochlora A.Yabuki & S.Ota, 2011 GENUS
-=======
+# Amorphochlora A.Yabuki & S.Ota, 2011 GENUS
 
 #### Status
 ACCEPTED

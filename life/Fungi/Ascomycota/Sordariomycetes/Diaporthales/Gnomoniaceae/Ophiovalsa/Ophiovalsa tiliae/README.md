@@ -1,5 +1,4 @@
-Ophiovalsa tiliae (Tul. & C. Tul.) Petr. SPECIES
-=======
+# Ophiovalsa tiliae (Tul. & C. Tul.) Petr. SPECIES
 
 #### Status
 ACCEPTED

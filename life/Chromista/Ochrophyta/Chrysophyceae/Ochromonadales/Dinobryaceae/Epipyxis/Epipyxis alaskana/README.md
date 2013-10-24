@@ -1,5 +1,4 @@
-Epipyxis alaskana Hilliard SPECIES
-=======
+# Epipyxis alaskana Hilliard SPECIES
 
 #### Status
 ACCEPTED

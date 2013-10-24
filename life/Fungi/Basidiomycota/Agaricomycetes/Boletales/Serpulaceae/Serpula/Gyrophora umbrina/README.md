@@ -1,5 +1,4 @@
-Gyrophora umbrina (Fr.) Pat. SPECIES
-=======
+# Gyrophora umbrina (Fr.) Pat. SPECIES
 
 #### Status
 ACCEPTED

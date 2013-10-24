@@ -1,5 +1,4 @@
-Microstroma prunicola (Ellis & Everh.) W.B. Cooke SPECIES
-=======
+# Microstroma prunicola (Ellis & Everh.) W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

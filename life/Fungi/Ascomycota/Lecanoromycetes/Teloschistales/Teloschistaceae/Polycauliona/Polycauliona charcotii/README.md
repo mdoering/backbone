@@ -1,5 +1,4 @@
-Polycauliona charcotii Hue SPECIES
-=======
+# Polycauliona charcotii Hue SPECIES
 
 #### Status
 ACCEPTED

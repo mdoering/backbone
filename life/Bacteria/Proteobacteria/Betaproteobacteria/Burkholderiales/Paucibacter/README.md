@@ -1,5 +1,4 @@
-Paucibacter Rapala et al., 2005 GENUS
-=======
+# Paucibacter Rapala et al., 2005 GENUS
 
 #### Status
 ACCEPTED

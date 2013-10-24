@@ -1,5 +1,4 @@
-Venenarius roanokensis f. roanokensis FORM
-=======
+# Venenarius roanokensis (Coker) Murrill SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Lloydia 11: 103 (1948)
 
 #### Original name
-Venenarius roanokensis f. roanokensis
+Amanita roanokensis Coker
 
 ### Remarks
 null

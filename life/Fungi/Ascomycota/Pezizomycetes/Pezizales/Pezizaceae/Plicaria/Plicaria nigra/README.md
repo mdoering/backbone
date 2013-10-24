@@ -1,5 +1,4 @@
-Plicaria nigra Velen. SPECIES
-=======
+# Plicaria nigra Velen. SPECIES
 
 #### Status
 ACCEPTED

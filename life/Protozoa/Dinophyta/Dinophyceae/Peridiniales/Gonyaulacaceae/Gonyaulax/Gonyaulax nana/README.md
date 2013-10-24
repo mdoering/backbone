@@ -1,5 +1,4 @@
-Gonyaulax nana Schiller, 1937 SPECIES
-=======
+# Gonyaulax nana Schiller, 1937 SPECIES
 
 #### Status
 ACCEPTED

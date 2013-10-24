@@ -1,5 +1,4 @@
-Phylloporus leucomycelinus (Singer & M.H. Ivory) Singer SPECIES
-=======
+# Phylloporus leucomycelinus (Singer & M.H. Ivory) Singer SPECIES
 
 #### Status
 ACCEPTED

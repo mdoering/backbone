@@ -1,5 +1,4 @@
-Entyloma hieronense Har. & Pat. SPECIES
-=======
+# Entyloma hieronense Har. & Pat. SPECIES
 
 #### Status
 ACCEPTED

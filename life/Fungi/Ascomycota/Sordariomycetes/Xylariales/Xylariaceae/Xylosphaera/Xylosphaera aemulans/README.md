@@ -1,5 +1,4 @@
-Xylosphaera aemulans (Starbäck) Dennis SPECIES
-=======
+# Xylosphaera aemulans (Starbäck) Dennis SPECIES
 
 #### Status
 ACCEPTED

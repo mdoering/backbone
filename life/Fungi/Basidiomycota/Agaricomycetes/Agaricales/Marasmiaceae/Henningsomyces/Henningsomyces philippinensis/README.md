@@ -1,5 +1,4 @@
-Henningsomyces philippinensis Syd. & P. Syd. SPECIES
-=======
+# Henningsomyces philippinensis Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

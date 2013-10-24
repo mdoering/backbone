@@ -1,5 +1,4 @@
-Smardaea Svrcek GENUS
-=======
+# Smardaea Svrcek GENUS
 
 #### Status
 ACCEPTED

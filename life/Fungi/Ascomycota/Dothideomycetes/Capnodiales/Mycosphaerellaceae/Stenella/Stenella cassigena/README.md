@@ -1,5 +1,4 @@
-Stenella cassigena S. Chaudhary & R.K. Chaudhary SPECIES
-=======
+# Stenella cassigena S. Chaudhary & R.K. Chaudhary SPECIES
 
 #### Status
 ACCEPTED

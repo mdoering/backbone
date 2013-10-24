@@ -1,5 +1,4 @@
-Octospora subhepatica (Rehm) K.B. Khare & V.P. Tewari SPECIES
-=======
+# Octospora subhepatica (Rehm) K.B. Khare & V.P. Tewari SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola alternipes (Speg.) Hansf. SPECIES
-=======
+# Meliola alternipes (Speg.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

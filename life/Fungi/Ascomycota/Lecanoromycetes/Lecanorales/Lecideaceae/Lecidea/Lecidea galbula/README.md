@@ -1,5 +1,4 @@
-Lecidea galbula SPECIES
-=======
+# Lecidea galbula SPECIES
 
 #### Status
 ACCEPTED

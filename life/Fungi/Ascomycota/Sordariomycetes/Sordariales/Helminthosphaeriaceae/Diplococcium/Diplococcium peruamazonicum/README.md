@@ -1,5 +1,4 @@
-Diplococcium peruamazonicum Matsush. SPECIES
-=======
+# Diplococcium peruamazonicum Matsush. SPECIES
 
 #### Status
 ACCEPTED

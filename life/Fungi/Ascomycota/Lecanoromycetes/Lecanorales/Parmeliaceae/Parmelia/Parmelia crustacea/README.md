@@ -1,5 +1,4 @@
-Parmelia crustacea Lynge SPECIES
-=======
+# Parmelia crustacea Lynge SPECIES
 
 #### Status
 ACCEPTED

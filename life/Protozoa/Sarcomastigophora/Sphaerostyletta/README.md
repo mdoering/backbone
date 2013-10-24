@@ -1,5 +1,4 @@
-Sphaerostyletta Haeckel, 1887 GENUS
-=======
+# Sphaerostyletta Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

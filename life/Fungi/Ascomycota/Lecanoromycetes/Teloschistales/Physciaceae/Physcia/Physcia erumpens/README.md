@@ -1,5 +1,4 @@
-Physcia erumpens Moberg SPECIES
-=======
+# Physcia erumpens Moberg SPECIES
 
 #### Status
 ACCEPTED

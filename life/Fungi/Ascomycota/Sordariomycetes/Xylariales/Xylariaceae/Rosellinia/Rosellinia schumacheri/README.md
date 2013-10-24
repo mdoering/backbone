@@ -1,5 +1,4 @@
-Rosellinia schumacheri (E.C. Hansen) Sacc. SPECIES
-=======
+# Rosellinia schumacheri (E.C. Hansen) Sacc. SPECIES
 
 #### Status
 ACCEPTED

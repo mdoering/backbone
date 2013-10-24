@@ -1,5 +1,4 @@
-Craterellus rugiceps Berk. & Cooke SPECIES
-=======
+# Craterellus rugiceps Berk. & Cooke SPECIES
 
 #### Status
 ACCEPTED

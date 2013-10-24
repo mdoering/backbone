@@ -1,5 +1,4 @@
-Retecapsa incompta SPECIES
-=======
+# Retecapsa incompta SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeographis multicolor R.C. Harris SPECIES
-=======
+# Phaeographis multicolor R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora heteroma Nyl. SPECIES
-=======
+# Lecanora heteroma Nyl. SPECIES
 
 #### Status
 ACCEPTED

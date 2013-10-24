@@ -1,5 +1,4 @@
-Exoascus japonicus (Kusano) Jacz. SPECIES
-=======
+# Exoascus japonicus (Kusano) Jacz. SPECIES
 
 #### Status
 ACCEPTED

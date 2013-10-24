@@ -1,5 +1,4 @@
-Sticta leucoblephara (Müll. Arg.) D.J. Galloway SPECIES
-=======
+# Sticta leucoblephara (Müll. Arg.) D.J. Galloway SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bütschliellopsis parumciliata SPECIES
-=======
+# Bütschliellopsis parumciliata SPECIES
 
 #### Status
 ACCEPTED

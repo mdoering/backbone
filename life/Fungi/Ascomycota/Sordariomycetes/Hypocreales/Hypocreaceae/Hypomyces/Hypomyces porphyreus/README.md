@@ -1,5 +1,4 @@
-Hypomyces porphyreus Rogerson & Mazzer SPECIES
-=======
+# Hypomyces porphyreus Rogerson & Mazzer SPECIES
 
 #### Status
 ACCEPTED

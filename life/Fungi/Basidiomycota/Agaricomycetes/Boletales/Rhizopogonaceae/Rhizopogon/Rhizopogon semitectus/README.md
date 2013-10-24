@@ -1,5 +1,4 @@
-Rhizopogon semitectus A.H. Sm. SPECIES
-=======
+# Rhizopogon semitectus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

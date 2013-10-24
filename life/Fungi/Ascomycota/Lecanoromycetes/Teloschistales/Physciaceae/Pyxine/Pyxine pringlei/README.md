@@ -1,5 +1,4 @@
-Pyxine pringlei Imshaug SPECIES
-=======
+# Pyxine pringlei Imshaug SPECIES
 
 #### Status
 ACCEPTED

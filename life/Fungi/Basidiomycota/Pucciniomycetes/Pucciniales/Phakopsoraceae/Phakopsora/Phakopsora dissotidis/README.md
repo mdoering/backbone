@@ -1,5 +1,4 @@
-Phakopsora dissotidis R. Berndt & M. Piatek SPECIES
-=======
+# Phakopsora dissotidis R. Berndt & M. Piatek SPECIES
 
 #### Status
 ACCEPTED

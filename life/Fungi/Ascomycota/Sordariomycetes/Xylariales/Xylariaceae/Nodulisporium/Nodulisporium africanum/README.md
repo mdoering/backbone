@@ -1,14 +1,13 @@
-Botrytis africana (G. Sm.) M.A. Litv., 1967 SPECIES
-=======
+# Nodulisporium africanum G. Sm., 1951 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Opredelitel' Mikroskopineskikh Pouvennykh Gribov, Moniliales, Aspergilleae 70 (1967)
+Trans. Br. mycol. Soc. 34: 18 (1951)
 
 #### Original name
 Nodulisporium africanum G. Sm., 1951

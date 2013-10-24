@@ -1,5 +1,4 @@
-Deuterammina grahami Brönniman & Whittacker, 1988 SPECIES
-=======
+# Deuterammina grahami Brönniman & Whittacker, 1988 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Biddulphia macdonaldii G. Norman in Pritchard, 1861 SPECIES
-=======
+# Biddulphia macdonaldii G. Norman in Pritchard, 1861 SPECIES
 
 #### Status
 ACCEPTED

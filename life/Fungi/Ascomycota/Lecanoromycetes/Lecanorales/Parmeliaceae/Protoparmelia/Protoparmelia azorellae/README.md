@@ -1,5 +1,4 @@
-Protoparmelia azorellae P.M. Jørg. & R.S. Poulsen SPECIES
-=======
+# Protoparmelia azorellae P.M. Jørg. & R.S. Poulsen SPECIES
 
 #### Status
 ACCEPTED

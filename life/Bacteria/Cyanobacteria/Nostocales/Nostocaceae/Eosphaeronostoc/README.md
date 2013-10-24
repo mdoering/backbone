@@ -1,5 +1,4 @@
-Eosphaeronostoc V.N. Sergeev, 1992 GENUS
-=======
+# Eosphaeronostoc V.N. Sergeev, 1992 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Metasphaeria richeae Petr. SPECIES
-=======
+# Metasphaeria richeae Petr. SPECIES
 
 #### Status
 ACCEPTED

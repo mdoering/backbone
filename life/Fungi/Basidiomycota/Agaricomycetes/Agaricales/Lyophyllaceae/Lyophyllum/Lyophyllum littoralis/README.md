@@ -1,5 +1,4 @@
-Lyophyllum littoralis (Ballero & Contu) Contu SPECIES
-=======
+# Lyophyllum littoralis (Ballero & Contu) Contu SPECIES
 
 #### Status
 ACCEPTED

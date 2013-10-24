@@ -1,14 +1,13 @@
-Bipolaris tripogonis (A.S. Patil & V.G. Rao) Alcorn, 1981 SPECIES
-=======
+# Drechslera tripogonis A.S. Patil & V.G. Rao, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 13(2): 344 (1981)
+Trans. Br. mycol. Soc. 59(2): 340 (1972)
 
 #### Original name
 Drechslera tripogonis A.S. Patil & V.G. Rao, 1972

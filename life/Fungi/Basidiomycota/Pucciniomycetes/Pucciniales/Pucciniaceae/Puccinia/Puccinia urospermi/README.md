@@ -1,5 +1,4 @@
-Puccinia urospermi Thüm. SPECIES
-=======
+# Puccinia urospermi Thüm. SPECIES
 
 #### Status
 ACCEPTED

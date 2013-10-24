@@ -1,5 +1,4 @@
-Urocystis alaskana Zundel SPECIES
-=======
+# Urocystis alaskana Zundel SPECIES
 
 #### Status
 ACCEPTED

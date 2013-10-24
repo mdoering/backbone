@@ -1,5 +1,4 @@
-Sphaerographium induratum Syd. {?} SPECIES
-=======
+# Sphaerographium induratum Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peckiella camphorati (Peck) Seaver SPECIES
-=======
+# Peckiella camphorati (Peck) Seaver SPECIES
 
 #### Status
 ACCEPTED

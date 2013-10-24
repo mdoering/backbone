@@ -1,5 +1,4 @@
-Hyalopeziza archangelica S. Olsen & Sivertsen SPECIES
-=======
+# Hyalopeziza archangelica S. Olsen & Sivertsen SPECIES
 
 #### Status
 ACCEPTED

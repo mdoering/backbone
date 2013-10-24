@@ -1,5 +1,4 @@
-Cyclagelosphaera argoensis SPECIES
-=======
+# Cyclagelosphaera argoensis SPECIES
 
 #### Status
 ACCEPTED

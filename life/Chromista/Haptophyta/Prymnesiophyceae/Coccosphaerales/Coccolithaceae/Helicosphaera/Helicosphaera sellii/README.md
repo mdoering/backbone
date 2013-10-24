@@ -1,5 +1,4 @@
-Helicosphaera sellii Bukry & Bramlette, 1969 SPECIES
-=======
+# Helicosphaera sellii Bukry & Bramlette, 1969 SPECIES
 
 #### Status
 ACCEPTED

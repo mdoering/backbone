@@ -1,5 +1,4 @@
-Pyrenula mamillana (Ach.) Trevis., 1860 SPECIES
-=======
+# Pyrenula mamillana (Ach.) Trevis., 1860 SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Urocystis ranunculi-aucheri Vánky, 1983 SPECIES
-=======
+# Urocystis ranunculi-aucheri Vánky, 1983 SPECIES
 
 #### Status
 ACCEPTED

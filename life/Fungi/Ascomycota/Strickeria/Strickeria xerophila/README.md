@@ -1,5 +1,4 @@
-Strickeria xerophila (Peck) Lindau SPECIES
-=======
+# Strickeria xerophila (Peck) Lindau SPECIES
 
 #### Status
 ACCEPTED

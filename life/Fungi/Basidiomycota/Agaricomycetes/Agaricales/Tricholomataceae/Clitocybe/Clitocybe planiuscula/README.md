@@ -1,5 +1,4 @@
-Clitocybe planiuscula (Britzelm.) Sacc. & Traverso SPECIES
-=======
+# Clitocybe planiuscula (Britzelm.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

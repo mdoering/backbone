@@ -1,5 +1,4 @@
-Physcia chloantha var. chloantha VARIETY
-=======
+# Physcia chloantha (Ach.) Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Physcia chloantha var. chloantha
+Parmelia chloantha Ach.
 
 ### Remarks
 null

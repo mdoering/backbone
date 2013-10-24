@@ -1,5 +1,4 @@
-Cyanoarbor C.-Z.Wang, 1989 GENUS
-=======
+# Cyanoarbor C.-Z.Wang, 1989 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhaphidozoum pandora Haeckel, 1887 SPECIES
-=======
+# Rhaphidozoum pandora Haeckel, 1887 SPECIES
 
 #### Status
 ACCEPTED

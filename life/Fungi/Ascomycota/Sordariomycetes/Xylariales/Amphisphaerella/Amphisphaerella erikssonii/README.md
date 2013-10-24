@@ -1,5 +1,4 @@
-Amphisphaerella erikssonii Math. SPECIES
-=======
+# Amphisphaerella erikssonii Math. SPECIES
 
 #### Status
 ACCEPTED

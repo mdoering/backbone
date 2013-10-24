@@ -1,5 +1,4 @@
-Alternaria sirodesmioides Tognini SPECIES
-=======
+# Alternaria sirodesmioides Tognini SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dictyota jamaicensis W.R. Taylor SPECIES
-=======
+# Dictyota jamaicensis W.R. Taylor SPECIES
 
 #### Status
 ACCEPTED

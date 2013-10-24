@@ -1,5 +1,4 @@
-Cypreostoma Jankowski, 1969 GENUS
-=======
+# Cypreostoma Jankowski, 1969 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza aquatilis Berthet & Donadini SPECIES
-=======
+# Peziza aquatilis Berthet & Donadini SPECIES
 
 #### Status
 ACCEPTED

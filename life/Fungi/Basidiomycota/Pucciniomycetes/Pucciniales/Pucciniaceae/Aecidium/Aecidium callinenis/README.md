@@ -1,5 +1,4 @@
-Aecidium callinenis Berk. SPECIES
-=======
+# Aecidium callinenis Berk. SPECIES
 
 #### Status
 ACCEPTED

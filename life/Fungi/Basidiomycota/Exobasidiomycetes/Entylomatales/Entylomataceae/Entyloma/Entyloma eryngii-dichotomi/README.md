@@ -1,5 +1,4 @@
-Entyloma eryngii-dichotomi Maire SPECIES
-=======
+# Entyloma eryngii-dichotomi Maire SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus fumosoluteus Peck SPECIES
-=======
+# Agaricus fumosoluteus Peck SPECIES
 
 #### Status
 ACCEPTED

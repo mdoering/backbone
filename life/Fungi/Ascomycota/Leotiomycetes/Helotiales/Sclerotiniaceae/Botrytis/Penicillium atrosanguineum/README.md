@@ -1,8 +1,7 @@
-Penicillium manginii Duché & R. Heim, 1931 SPECIES
-=======
+# Penicillium atrosanguineum B.X. Dong, 1973 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

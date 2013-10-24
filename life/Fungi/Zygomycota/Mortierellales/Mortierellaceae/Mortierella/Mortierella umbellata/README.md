@@ -1,14 +1,13 @@
-Actinomortierella umbellata (C.Y. Chien) Chalab., 1973 SPECIES
-=======
+# Mortierella umbellata C.Y. Chien, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Griby Roda Mortierella 199 (1973)
+Mycologia 64(1): 99 (1972)
 
 #### Original name
 Mortierella umbellata C.Y. Chien, 1972

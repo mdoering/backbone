@@ -1,5 +1,4 @@
-Graphis intermedians Vain. SPECIES
-=======
+# Graphis intermedians Vain. SPECIES
 
 #### Status
 ACCEPTED

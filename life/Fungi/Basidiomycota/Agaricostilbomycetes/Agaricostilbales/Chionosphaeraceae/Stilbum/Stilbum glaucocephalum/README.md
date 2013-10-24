@@ -1,5 +1,4 @@
-Stilbum glaucocephalum P. Crouan & H. Crouan SPECIES
-=======
+# Stilbum glaucocephalum P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aposphaeria punicina Sacc. SPECIES
-=======
+# Aposphaeria punicina Sacc. SPECIES
 
 #### Status
 ACCEPTED

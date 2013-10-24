@@ -1,5 +1,4 @@
-Aecidium trixiphilum Speg. SPECIES
-=======
+# Aecidium trixiphilum Speg. SPECIES
 
 #### Status
 ACCEPTED

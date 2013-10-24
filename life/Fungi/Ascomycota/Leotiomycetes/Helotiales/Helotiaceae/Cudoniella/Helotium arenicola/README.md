@@ -1,5 +1,4 @@
-Helotium arenicola (Ellis & Everh.) Seaver SPECIES
-=======
+# Helotium arenicola (Ellis & Everh.) Seaver SPECIES
 
 #### Status
 ACCEPTED

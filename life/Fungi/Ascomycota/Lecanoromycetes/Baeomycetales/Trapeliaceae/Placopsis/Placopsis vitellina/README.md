@@ -1,5 +1,4 @@
-Placopsis vitellina (Hook. f. & Taylor) C.W. Dodge SPECIES
-=======
+# Placopsis vitellina (Hook. f. & Taylor) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

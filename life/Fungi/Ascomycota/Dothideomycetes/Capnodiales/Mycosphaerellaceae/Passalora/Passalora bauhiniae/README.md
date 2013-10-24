@@ -1,5 +1,4 @@
-Passalora bauhiniae (Ellis & Everh.) U. Braun & Crous SPECIES
-=======
+# Passalora bauhiniae (Ellis & Everh.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

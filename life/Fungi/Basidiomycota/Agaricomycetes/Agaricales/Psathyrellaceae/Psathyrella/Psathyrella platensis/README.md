@@ -1,5 +1,4 @@
-Psathyrella platensis Speg. SPECIES
-=======
+# Psathyrella platensis Speg. SPECIES
 
 #### Status
 ACCEPTED

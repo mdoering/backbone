@@ -1,5 +1,4 @@
-Geotrichum spheroides Gauvreau & Grandbois SPECIES
-=======
+# Geotrichum spheroides Gauvreau & Grandbois SPECIES
 
 #### Status
 ACCEPTED

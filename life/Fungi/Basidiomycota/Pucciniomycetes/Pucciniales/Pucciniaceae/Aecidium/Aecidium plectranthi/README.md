@@ -1,5 +1,4 @@
-Aecidium plectranthi Barclay SPECIES
-=======
+# Aecidium plectranthi Barclay SPECIES
 
 #### Status
 ACCEPTED

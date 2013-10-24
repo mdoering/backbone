@@ -1,5 +1,4 @@
-Coprinus mayri Allesch. SPECIES
-=======
+# Coprinus mayri Allesch. SPECIES
 
 #### Status
 ACCEPTED

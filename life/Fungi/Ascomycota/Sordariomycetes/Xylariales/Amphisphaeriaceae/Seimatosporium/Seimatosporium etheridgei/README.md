@@ -1,5 +1,4 @@
-Seimatosporium etheridgei A. Funk SPECIES
-=======
+# Seimatosporium etheridgei A. Funk SPECIES
 
 #### Status
 ACCEPTED

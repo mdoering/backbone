@@ -1,5 +1,4 @@
-Pseudocercospora sedi (Ellis & Everh.) U. Braun SPECIES
-=======
+# Pseudocercospora sedi (Ellis & Everh.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

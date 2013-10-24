@@ -1,5 +1,4 @@
-Hormographis ramirezii Guarro, Punsola & Arx, 1986 SPECIES
-=======
+# Hormographis ramirezii Guarro, Punsola & Arx, 1986 SPECIES
 
 #### Status
 ACCEPTED

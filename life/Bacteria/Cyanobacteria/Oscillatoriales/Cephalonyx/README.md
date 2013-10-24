@@ -1,5 +1,4 @@
-Cephalonyx A.F. Weiss, 1984 GENUS
-=======
+# Cephalonyx A.F. Weiss, 1984 GENUS
 
 #### Status
 ACCEPTED

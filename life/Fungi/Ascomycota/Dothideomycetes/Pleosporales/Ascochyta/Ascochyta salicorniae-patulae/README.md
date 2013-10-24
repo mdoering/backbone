@@ -1,5 +1,4 @@
-Ascochyta salicorniae-patulae (Trotter) Melnik, 1975 SPECIES
-=======
+# Ascochyta salicorniae-patulae (Trotter) Melnik, 1975 SPECIES
 
 #### Status
 ACCEPTED

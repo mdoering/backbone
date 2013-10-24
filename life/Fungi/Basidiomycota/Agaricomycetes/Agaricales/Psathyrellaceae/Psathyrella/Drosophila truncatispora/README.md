@@ -1,5 +1,4 @@
-Drosophila truncatispora Murrill SPECIES
-=======
+# Drosophila truncatispora Murrill SPECIES
 
 #### Status
 ACCEPTED

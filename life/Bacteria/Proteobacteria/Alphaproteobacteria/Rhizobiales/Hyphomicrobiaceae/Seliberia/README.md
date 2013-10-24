@@ -1,5 +1,4 @@
-Seliberia GENUS
-=======
+# Seliberia GENUS
 
 #### Status
 ACCEPTED

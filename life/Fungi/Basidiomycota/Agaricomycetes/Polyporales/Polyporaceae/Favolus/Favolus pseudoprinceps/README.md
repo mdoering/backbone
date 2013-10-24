@@ -1,5 +1,4 @@
-Favolus pseudoprinceps (Murrill) Sacc. & Trotter SPECIES
-=======
+# Favolus pseudoprinceps (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

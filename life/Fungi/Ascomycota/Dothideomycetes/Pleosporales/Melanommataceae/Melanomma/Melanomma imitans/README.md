@@ -1,5 +1,4 @@
-Melanomma imitans (P. Karst.) Sacc. SPECIES
-=======
+# Melanomma imitans (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

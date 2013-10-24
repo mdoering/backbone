@@ -1,5 +1,4 @@
-Micropeltis guareae Bat. & I.H. Lima SPECIES
-=======
+# Micropeltis guareae Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

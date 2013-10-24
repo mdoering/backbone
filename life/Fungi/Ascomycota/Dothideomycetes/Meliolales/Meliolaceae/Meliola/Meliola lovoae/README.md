@@ -1,5 +1,4 @@
-Meliola lovoae (Hansf.) Cif. SPECIES
-=======
+# Meliola lovoae (Hansf.) Cif. SPECIES
 
 #### Status
 ACCEPTED

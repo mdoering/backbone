@@ -1,5 +1,4 @@
-Graphis pachnodes Fée SPECIES
-=======
+# Graphis pachnodes Fée SPECIES
 
 #### Status
 ACCEPTED

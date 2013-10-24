@@ -1,5 +1,4 @@
-Inocybe amarescens Farl. & Burt SPECIES
-=======
+# Inocybe amarescens Farl. & Burt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Multicellaesporites bilobus Rouse & Mustard SPECIES
-=======
+# Multicellaesporites bilobus Rouse & Mustard SPECIES
 
 #### Status
 ACCEPTED

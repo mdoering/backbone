@@ -1,5 +1,4 @@
-Aecidiolum acaciae (Henn.) Sacc. & Trotter SPECIES
-=======
+# Aecidiolum acaciae (Henn.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

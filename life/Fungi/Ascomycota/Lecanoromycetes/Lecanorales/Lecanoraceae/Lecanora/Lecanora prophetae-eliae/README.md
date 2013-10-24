@@ -1,5 +1,4 @@
-Lecanora prophetae-eliae Sipman SPECIES
-=======
+# Lecanora prophetae-eliae Sipman SPECIES
 
 #### Status
 ACCEPTED

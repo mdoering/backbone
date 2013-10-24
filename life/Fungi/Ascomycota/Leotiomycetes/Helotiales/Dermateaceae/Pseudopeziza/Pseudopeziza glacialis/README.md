@@ -1,5 +1,4 @@
-Pseudopeziza glacialis Rehm SPECIES
-=======
+# Pseudopeziza glacialis Rehm SPECIES
 
 #### Status
 ACCEPTED

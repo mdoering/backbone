@@ -1,5 +1,4 @@
-Histioneis pieltainii Osorio-Tafall, 1942 SPECIES
-=======
+# Histioneis pieltainii Osorio-Tafall, 1942 SPECIES
 
 #### Status
 ACCEPTED

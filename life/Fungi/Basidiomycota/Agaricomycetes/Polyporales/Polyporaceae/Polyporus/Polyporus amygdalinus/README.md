@@ -1,5 +1,4 @@
-Polyporus amygdalinus Berk. & Ravenel SPECIES
-=======
+# Polyporus amygdalinus Berk. & Ravenel SPECIES
 
 #### Status
 ACCEPTED

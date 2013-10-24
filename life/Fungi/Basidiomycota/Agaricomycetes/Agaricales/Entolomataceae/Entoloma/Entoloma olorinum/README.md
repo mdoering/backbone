@@ -1,14 +1,13 @@
-Rhodophyllus olorinus Romagn. & J. Favre, 1938 SPECIES
-=======
+# Entoloma olorinum (Romagn. & J. Favre) Noordel., 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revue Mycol. , Paris 3(2-3): 75 (1938)
+Persoonia 10(2): 260 (1979)
 
 #### Original name
 Rhodophyllus olorinus Romagn. & J. Favre, 1938

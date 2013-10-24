@@ -1,5 +1,4 @@
-Bolbitius autumnalis (Alb. & Schwein.) Sacc. SPECIES
-=======
+# Bolbitius autumnalis (Alb. & Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aplosporella bromeliae Gonz. Frag. & Cif. SPECIES
-=======
+# Aplosporella bromeliae Gonz. Frag. & Cif. SPECIES
 
 #### Status
 ACCEPTED

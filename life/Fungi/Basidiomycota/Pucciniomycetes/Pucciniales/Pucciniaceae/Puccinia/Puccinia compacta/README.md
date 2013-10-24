@@ -1,5 +1,4 @@
-Puccinia compacta de Bary SPECIES
-=======
+# Puccinia compacta de Bary SPECIES
 
 #### Status
 ACCEPTED

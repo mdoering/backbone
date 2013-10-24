@@ -1,5 +1,4 @@
-Cornicularia fibrillosa (Ach.) Halsey SPECIES
-=======
+# Cornicularia fibrillosa (Ach.) Halsey SPECIES
 
 #### Status
 ACCEPTED

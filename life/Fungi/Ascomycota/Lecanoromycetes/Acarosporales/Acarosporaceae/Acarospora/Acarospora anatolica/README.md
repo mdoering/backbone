@@ -1,5 +1,4 @@
-Acarospora anatolica H. Magn. SPECIES
-=======
+# Acarospora anatolica H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Naucoria jaundensis Henn. SPECIES
-=======
+# Naucoria jaundensis Henn. SPECIES
 
 #### Status
 ACCEPTED

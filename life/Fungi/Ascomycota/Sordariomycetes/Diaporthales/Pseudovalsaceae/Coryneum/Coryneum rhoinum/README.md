@@ -1,5 +1,4 @@
-Coryneum rhoinum (Dearn. & Barthol.) S. Hughes SPECIES
-=======
+# Coryneum rhoinum (Dearn. & Barthol.) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Glomerella artocarpi Delacr. SPECIES
-=======
+# Glomerella artocarpi Delacr. SPECIES
 
 #### Status
 ACCEPTED

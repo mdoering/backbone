@@ -1,5 +1,4 @@
-Rhizophydium chytriophagum Ajello SPECIES
-=======
+# Rhizophydium chytriophagum Ajello SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Helotium persimile Redhead, 1982 SPECIES
-=======
+# Delicatula persimilis Malençon, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 60(10): 2005 (1982)
+Travaux de l'Institut Scientifique Cherefien et de la Faculté des Sciences de Rabat (Rabat), Série Botanique et Biologie Vegetale 33: 336 (1975)
 
 #### Original name
-Helotium persimile Redhead, 1982
+Delicatula persimilis Malençon, 1975
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Schismatomma zaborskianum var. zaborskianum VARIETY
-=======
+# Schismatomma zaborskianum M. Choisy & Werner SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bull. Soc. bot. Fr. 78: 459 (1931)
 
 #### Original name
-Schismatomma zaborskianum var. zaborskianum
+Schismatomma zaborskianum M. Choisy & Werner
 
 ### Remarks
 null

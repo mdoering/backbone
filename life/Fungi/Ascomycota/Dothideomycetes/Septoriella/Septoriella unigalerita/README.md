@@ -1,5 +1,4 @@
-Septoriella unigalerita Kohlm. & Volkm.-Kohlm., 2000 SPECIES
-=======
+# Septoriella unigalerita Kohlm. & Volkm.-Kohlm., 2000 SPECIES
 
 #### Status
 ACCEPTED

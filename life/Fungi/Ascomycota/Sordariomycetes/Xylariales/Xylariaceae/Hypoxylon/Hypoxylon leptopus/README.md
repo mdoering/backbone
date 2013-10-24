@@ -1,5 +1,4 @@
-Hypoxylon leptopus Fr. SPECIES
-=======
+# Hypoxylon leptopus Fr. SPECIES
 
 #### Status
 ACCEPTED

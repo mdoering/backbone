@@ -1,5 +1,4 @@
-Mycosphaerella morphaea (Sacc.) Tomilin SPECIES
-=======
+# Mycosphaerella morphaea (Sacc.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

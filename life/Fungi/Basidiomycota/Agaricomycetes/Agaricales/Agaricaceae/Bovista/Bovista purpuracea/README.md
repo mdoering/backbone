@@ -1,5 +1,4 @@
-Bovista purpuracea (Berk. & M.A. Curtis) De Toni SPECIES
-=======
+# Bovista purpuracea (Berk. & M.A. Curtis) De Toni SPECIES
 
 #### Status
 ACCEPTED

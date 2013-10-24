@@ -1,5 +1,4 @@
-Peziza lutea Ray {?} SPECIES
-=======
+# Peziza lutea Ray {?} SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora kozukensis Räsänen SPECIES
-=======
+# Lecanora kozukensis Räsänen SPECIES
 
 #### Status
 ACCEPTED

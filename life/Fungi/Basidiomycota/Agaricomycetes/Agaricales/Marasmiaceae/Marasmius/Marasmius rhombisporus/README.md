@@ -1,5 +1,4 @@
-Marasmius rhombisporus Desjardin & E. Horak, 1997 SPECIES
-=======
+# Marasmius rhombisporus Desjardin & E. Horak, 1997 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microsporum scorteum Priestley SPECIES
-=======
+# Microsporum scorteum Priestley SPECIES
 
 #### Status
 ACCEPTED

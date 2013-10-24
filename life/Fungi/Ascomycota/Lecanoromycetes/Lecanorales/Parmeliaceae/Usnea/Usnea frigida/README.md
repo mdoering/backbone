@@ -1,5 +1,4 @@
-Usnea frigida C.W. Dodge & G.E. Baker SPECIES
-=======
+# Usnea frigida C.W. Dodge & G.E. Baker SPECIES
 
 #### Status
 ACCEPTED

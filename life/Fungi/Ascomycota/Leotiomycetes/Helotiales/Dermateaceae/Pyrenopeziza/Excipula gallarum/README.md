@@ -1,5 +1,4 @@
-Excipula gallarum Kirchn. SPECIES
-=======
+# Excipula gallarum Kirchn. SPECIES
 
 #### Status
 ACCEPTED

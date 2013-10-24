@@ -1,5 +1,4 @@
-Graphis argentius Makhija & Adaw. SPECIES
-=======
+# Graphis argentius Makhija & Adaw. SPECIES
 
 #### Status
 ACCEPTED

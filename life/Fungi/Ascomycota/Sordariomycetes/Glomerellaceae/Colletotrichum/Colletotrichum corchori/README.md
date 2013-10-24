@@ -1,17 +1,16 @@
-Colletotrichum corchorum Ikata & I. Tanaka SPECIES
-=======
+# Colletotrichum corchori Pavgi & U.P. Singh, 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycopath. Mycol. appl. 27: 84 (1965)
 
 #### Original name
-Colletotrichum corchorum Ikata & I. Tanaka
+Colletotrichum corchori Pavgi & U.P. Singh, 1965
 
 ### Remarks
 null

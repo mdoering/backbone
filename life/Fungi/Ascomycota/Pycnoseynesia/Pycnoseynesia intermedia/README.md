@@ -1,5 +1,4 @@
-Pycnoseynesia intermedia (M.L. Farr) M.L. Farr SPECIES
-=======
+# Pycnoseynesia intermedia (M.L. Farr) M.L. Farr SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora quisqualidis Narain & B.S. Mehrotra SPECIES
-=======
+# Cercospora quisqualidis Narain & B.S. Mehrotra SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Liliosphaeridium kaljoi Uutela & Tynni, 1991 emend. Playford, Ribecai & Tongiorgi, 1995 SPECIES
-=======
+# Liliosphaeridium kaljoi Uutela & Tynni, 1991 emend. Playford, Ribecai & Tongiorgi, 1995 SPECIES
 
 #### Status
 ACCEPTED

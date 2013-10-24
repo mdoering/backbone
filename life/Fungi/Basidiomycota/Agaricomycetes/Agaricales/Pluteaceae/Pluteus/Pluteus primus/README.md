@@ -1,5 +1,4 @@
-Pluteus primus Bonnard SPECIES
-=======
+# Pluteus primus Bonnard SPECIES
 
 #### Status
 ACCEPTED

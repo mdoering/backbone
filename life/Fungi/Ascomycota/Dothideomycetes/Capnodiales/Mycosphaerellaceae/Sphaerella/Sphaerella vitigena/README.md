@@ -1,5 +1,4 @@
-Sphaerella vitigena Schulzer SPECIES
-=======
+# Sphaerella vitigena Schulzer SPECIES
 
 #### Status
 ACCEPTED

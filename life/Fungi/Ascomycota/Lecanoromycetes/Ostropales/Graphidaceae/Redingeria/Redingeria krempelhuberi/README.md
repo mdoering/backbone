@@ -1,14 +1,13 @@
-Phaeotrema krempelhuberi Redinger SPECIES
-=======
+# Redingeria krempelhuberi (Redinger) Frisch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ark. Bot. 28A(8): 66 (1936)
+in Frisch & Kalb, Biblthca Lichenol. 92: 413 (2006)
 
 #### Original name
 Phaeotrema krempelhuberi Redinger

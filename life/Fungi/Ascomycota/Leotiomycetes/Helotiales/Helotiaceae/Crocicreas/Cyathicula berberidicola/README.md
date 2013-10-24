@@ -1,5 +1,4 @@
-Cyathicula berberidicola Gamundí SPECIES
-=======
+# Cyathicula berberidicola Gamundí SPECIES
 
 #### Status
 ACCEPTED

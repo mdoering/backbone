@@ -1,14 +1,13 @@
-Chytridium gregarium Nowak., 1876 SPECIES
-=======
+# Olpidium gregarium (Nowak.) J. Schröt., 1886 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Cohn, Krypt. -Fl. Schlesien (Breslau) 3. 1(18): 182 (1886)
 
 #### Original name
 Chytridium gregarium Nowak., 1876

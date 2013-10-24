@@ -1,5 +1,4 @@
-Cytoplea parasitica Petr. SPECIES
-=======
+# Cytoplea parasitica Petr. SPECIES
 
 #### Status
 ACCEPTED

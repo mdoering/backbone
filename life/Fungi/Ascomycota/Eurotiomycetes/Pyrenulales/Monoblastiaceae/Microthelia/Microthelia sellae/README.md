@@ -1,5 +1,4 @@
-Microthelia sellae (Bagnis) Kuntze SPECIES
-=======
+# Microthelia sellae (Bagnis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

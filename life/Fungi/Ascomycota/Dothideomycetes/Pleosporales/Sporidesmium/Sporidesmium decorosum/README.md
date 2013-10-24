@@ -1,5 +1,4 @@
-Sporidesmium decorosum R.F. Castañeda & W.B. Kendr. SPECIES
-=======
+# Sporidesmium decorosum R.F. Castañeda & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

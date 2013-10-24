@@ -1,5 +1,4 @@
-Hypogymnia submundata f. submundata FORM
-=======
+# Hypogymnia submundata (Oxner) Rass. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Hypogymnia submundata f. submundata
+Parmelia submundata Oxner
 
 ### Remarks
 null

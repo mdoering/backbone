@@ -1,17 +1,16 @@
-Parmelia subphysodalica Hale SPECIES
-=======
+# Hypotrachyna subphysodalica (Hale) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Smithson. Contr. bot. 25: 66 (1975)
 
 #### Original name
-null
+Parmelia subphysodalica Hale
 
 ### Remarks
 null

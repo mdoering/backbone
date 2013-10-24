@@ -1,5 +1,4 @@
-Chaetosporium Corda GENUS
-=======
+# Chaetosporium Corda GENUS
 
 #### Status
 ACCEPTED

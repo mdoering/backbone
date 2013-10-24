@@ -1,14 +1,13 @@
-Lecanora macrosperma Müll. Arg. SPECIES
-=======
+# Ochrolechia macrosperma (Müll. Arg.) R.W. Rogers SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Bull. Herb. Boissier 1: 40 (1892)
+Muelleria 5(1): 33 (1982)
 
 #### Original name
 Lecanora macrosperma Müll. Arg.

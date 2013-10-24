@@ -1,5 +1,4 @@
-Thanarla praeveneta SPECIES
-=======
+# Thanarla praeveneta SPECIES
 
 #### Status
 ACCEPTED

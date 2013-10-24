@@ -1,5 +1,4 @@
-Cornuapyxis Coûteaux & Chardez, 1981 GENUS
-=======
+# Cornuapyxis Coûteaux & Chardez, 1981 GENUS
 
 #### Status
 ACCEPTED

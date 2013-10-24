@@ -1,5 +1,4 @@
-Aecidium vangueriae var. vangueriae VARIETY
-=======
+# Aecidium vangueriae Cooke SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Grevillea 10(no. 56): 124 (1882)
 
 #### Original name
-Aecidium vangueriae var. vangueriae
+Aecidium vangueriae Cooke
 
 ### Remarks
 null

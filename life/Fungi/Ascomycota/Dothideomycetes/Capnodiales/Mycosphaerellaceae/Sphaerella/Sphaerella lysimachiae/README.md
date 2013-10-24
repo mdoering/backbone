@@ -1,5 +1,4 @@
-Sphaerella lysimachiae Höhn. SPECIES
-=======
+# Sphaerella lysimachiae Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelohania paguri SPECIES
-=======
+# Thelohania paguri SPECIES
 
 #### Status
 ACCEPTED

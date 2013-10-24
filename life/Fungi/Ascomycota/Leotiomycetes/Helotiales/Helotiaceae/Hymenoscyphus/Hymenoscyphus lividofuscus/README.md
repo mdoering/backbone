@@ -1,5 +1,4 @@
-Hymenoscyphus lividofuscus (K.S. Thind & Saini) K.S. Thind & M.P. Sharma SPECIES
-=======
+# Hymenoscyphus lividofuscus (K.S. Thind & Saini) K.S. Thind & M.P. Sharma SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces ornatipes Arthur SPECIES
-=======
+# Uromyces ornatipes Arthur SPECIES
 
 #### Status
 ACCEPTED

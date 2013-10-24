@@ -1,5 +1,4 @@
-Uromyces exspectatus Tranzschel SPECIES
-=======
+# Uromyces exspectatus Tranzschel SPECIES
 
 #### Status
 ACCEPTED

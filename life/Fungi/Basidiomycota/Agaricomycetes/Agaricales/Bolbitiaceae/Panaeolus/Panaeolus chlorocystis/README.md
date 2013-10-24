@@ -1,5 +1,4 @@
-Panaeolus chlorocystis (Singer & R.A. Weeks) Ew. Gerhardt SPECIES
-=======
+# Panaeolus chlorocystis (Singer & R.A. Weeks) Ew. Gerhardt SPECIES
 
 #### Status
 ACCEPTED

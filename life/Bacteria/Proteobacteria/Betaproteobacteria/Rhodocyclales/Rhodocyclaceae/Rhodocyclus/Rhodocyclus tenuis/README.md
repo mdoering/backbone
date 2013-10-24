@@ -1,8 +1,7 @@
-Rhodospirillum tenue Pfennig, 1969 (Approved Lists, 1980) SPECIES
-=======
+# Rhodocyclus tenuis (Pfennig, 1969) Imhoff et al., 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

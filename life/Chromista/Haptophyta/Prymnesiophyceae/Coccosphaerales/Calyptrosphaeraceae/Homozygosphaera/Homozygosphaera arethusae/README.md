@@ -1,5 +1,4 @@
-Homozygosphaera arethusae (Kamptner) A. Kleijne SPECIES
-=======
+# Homozygosphaera arethusae (Kamptner) A. Kleijne SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phlegmacium flavovirens (Rob. Henry) M.M. Moser SPECIES
-=======
+# Phlegmacium flavovirens (Rob. Henry) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

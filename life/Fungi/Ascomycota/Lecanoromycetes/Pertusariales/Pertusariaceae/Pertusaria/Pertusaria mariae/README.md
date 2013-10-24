@@ -1,5 +1,4 @@
-Pertusaria mariae B. de Lesd. SPECIES
-=======
+# Pertusaria mariae B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

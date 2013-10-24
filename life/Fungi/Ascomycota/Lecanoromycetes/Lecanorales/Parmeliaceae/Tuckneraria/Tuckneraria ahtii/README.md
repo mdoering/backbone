@@ -1,5 +1,4 @@
-Tuckneraria ahtii Randlane & Saag SPECIES
-=======
+# Tuckneraria ahtii Randlane & Saag SPECIES
 
 #### Status
 ACCEPTED

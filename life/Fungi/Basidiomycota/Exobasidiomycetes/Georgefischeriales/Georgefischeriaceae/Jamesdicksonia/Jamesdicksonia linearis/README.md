@@ -1,14 +1,13 @@
-Ustilago linearis (Berk. & Broome) Petch, 1924 SPECIES
-=======
+# Jamesdicksonia linearis (Berk. & Broome) Vánky, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. R. bot. Gdns Peradeniya 9: 167 (1924)
+Mycotaxon 91: 259 (2005)
 
 #### Original name
 Uromyces linearis Berk. & Broome, 1875

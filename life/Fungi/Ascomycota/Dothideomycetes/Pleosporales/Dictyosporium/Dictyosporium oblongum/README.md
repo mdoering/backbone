@@ -1,5 +1,4 @@
-Dictyosporium oblongum (Fuckel) S. Hughes SPECIES
-=======
+# Dictyosporium oblongum (Fuckel) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

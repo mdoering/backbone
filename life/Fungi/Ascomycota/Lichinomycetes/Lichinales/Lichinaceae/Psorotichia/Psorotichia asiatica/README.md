@@ -1,5 +1,4 @@
-Psorotichia asiatica Vain. SPECIES
-=======
+# Psorotichia asiatica Vain. SPECIES
 
 #### Status
 ACCEPTED

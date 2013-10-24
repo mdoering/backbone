@@ -1,5 +1,4 @@
-Amanita tomentosivolva Zhu L. Yang SPECIES
-=======
+# Amanita tomentosivolva Zhu L. Yang SPECIES
 
 #### Status
 ACCEPTED

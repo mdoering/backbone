@@ -1,5 +1,4 @@
-Biatorina incolorella (Nyl.) Arnold SPECIES
-=======
+# Biatorina incolorella (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocyphellaria rainierensis Imshaug SPECIES
-=======
+# Pseudocyphellaria rainierensis Imshaug SPECIES
 
 #### Status
 ACCEPTED

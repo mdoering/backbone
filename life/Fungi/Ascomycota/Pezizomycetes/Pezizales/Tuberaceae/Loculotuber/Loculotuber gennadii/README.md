@@ -1,14 +1,13 @@
-Delastreopsis gennadii (Chatin) Reichert, 1944 SPECIES
-=======
+# Loculotuber gennadii (Chatin) Trappe, Parladé & I.F. Alvarez, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Palest. J. Bot. , Rehovot Ser. 4: 198 (1944)
+Mycologia 84(6): 927 (1993)
 
 #### Original name
 Terfezia gennadii Chatin, 1896

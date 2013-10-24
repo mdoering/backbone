@@ -1,5 +1,4 @@
-Hysterographium minus N. Amano SPECIES
-=======
+# Hysterographium minus N. Amano SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza sclerotiacea Ces. SPECIES
-=======
+# Peziza sclerotiacea Ces. SPECIES
 
 #### Status
 ACCEPTED

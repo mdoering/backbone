@@ -1,5 +1,4 @@
-Hymenoscyphus musicola (Dennis) Dennis SPECIES
-=======
+# Hymenoscyphus musicola (Dennis) Dennis SPECIES
 
 #### Status
 ACCEPTED

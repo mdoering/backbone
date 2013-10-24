@@ -1,14 +1,13 @@
-Glomus patagonicum Novas & Fracchia, 2005 SPECIES
-=======
+# Pacispora patagonica (Novas & Fracchia) C. Walker, Vestberg & A. Schüssler, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Hedwigia 80(3-4): 533-539 (2005)
+Mycol. Res. 111(3): 255 (2007)
 
 #### Original name
 Glomus patagonicum Novas & Fracchia, 2005

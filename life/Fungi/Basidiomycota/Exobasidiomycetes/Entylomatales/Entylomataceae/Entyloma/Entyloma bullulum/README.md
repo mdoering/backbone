@@ -1,5 +1,4 @@
-Entyloma bullulum Cif. SPECIES
-=======
+# Entyloma bullulum Cif. SPECIES
 
 #### Status
 ACCEPTED

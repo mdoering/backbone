@@ -1,17 +1,16 @@
-Thalloidima cumulatum f. cumulatum FORM
-=======
+# Stereocaulon cumulatum (Sommerf.) Timdal SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lichenologist 34(1): 7 (2002)
 
 #### Original name
-Thalloidima cumulatum f. cumulatum
+Lecidea cumulata Sommerf.
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Hypoxylon rubiginosum f. trichocladi P.M.D. Martin, 1969 FORM
-=======
+# Hypoxylon fendleri Berk. ex Cooke, 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Jl S. Afr. Bot. 35: 175 (1969)
+Grevillea 11(no. 60): 132 (1883)
 
 #### Original name
-Hypoxylon rubiginosum f. trichocladi P.M.D. Martin, 1969
+Hypoxylon fendleri Berk. ex Cooke, 1883
 
 ### Remarks
 null

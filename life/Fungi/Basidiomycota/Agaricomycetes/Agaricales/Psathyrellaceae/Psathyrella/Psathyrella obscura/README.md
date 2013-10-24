@@ -1,5 +1,4 @@
-Psathyrella obscura (Peck) Guzmán SPECIES
-=======
+# Psathyrella obscura (Peck) Guzmán SPECIES
 
 #### Status
 ACCEPTED

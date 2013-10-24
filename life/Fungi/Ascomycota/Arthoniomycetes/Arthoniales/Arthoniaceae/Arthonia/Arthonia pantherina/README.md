@@ -1,5 +1,4 @@
-Arthonia pantherina Etayo SPECIES
-=======
+# Arthonia pantherina Etayo SPECIES
 
 #### Status
 ACCEPTED

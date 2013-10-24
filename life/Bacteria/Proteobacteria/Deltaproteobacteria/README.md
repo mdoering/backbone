@@ -1,5 +1,4 @@
-Deltaproteobacteria CLASS
-=======
+# Deltaproteobacteria CLASS
 
 #### Status
 ACCEPTED

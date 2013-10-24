@@ -1,5 +1,4 @@
-Sclerotiopsis jaapiana Died. SPECIES
-=======
+# Sclerotiopsis jaapiana Died. SPECIES
 
 #### Status
 ACCEPTED

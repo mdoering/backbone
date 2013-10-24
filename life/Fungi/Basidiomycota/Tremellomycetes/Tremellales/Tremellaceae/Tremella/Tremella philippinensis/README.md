@@ -1,5 +1,4 @@
-Tremella philippinensis Lloyd SPECIES
-=======
+# Tremella philippinensis Lloyd SPECIES
 
 #### Status
 ACCEPTED

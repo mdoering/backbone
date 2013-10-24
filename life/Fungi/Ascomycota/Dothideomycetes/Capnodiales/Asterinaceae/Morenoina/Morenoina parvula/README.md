@@ -1,5 +1,4 @@
-Morenoina parvula P.F. Cannon SPECIES
-=======
+# Morenoina parvula P.F. Cannon SPECIES
 
 #### Status
 ACCEPTED

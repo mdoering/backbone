@@ -1,5 +1,4 @@
-Lecanora contaminata (Ach.) Motyka SPECIES
-=======
+# Lecanora contaminata (Ach.) Motyka SPECIES
 
 #### Status
 ACCEPTED

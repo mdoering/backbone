@@ -1,5 +1,4 @@
-Abrothallus talcophilus Massee SPECIES
-=======
+# Abrothallus talcophilus Massee SPECIES
 
 #### Status
 ACCEPTED

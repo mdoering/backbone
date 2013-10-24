@@ -1,5 +1,4 @@
-Peronospora diplotaxidis Gäum. SPECIES
-=======
+# Peronospora diplotaxidis Gäum. SPECIES
 
 #### Status
 ACCEPTED

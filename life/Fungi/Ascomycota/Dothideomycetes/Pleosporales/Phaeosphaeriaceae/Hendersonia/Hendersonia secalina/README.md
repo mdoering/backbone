@@ -1,5 +1,4 @@
-Hendersonia secalina Died. SPECIES
-=======
+# Hendersonia secalina Died. SPECIES
 
 #### Status
 ACCEPTED

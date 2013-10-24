@@ -1,5 +1,4 @@
-Curvusporium ribaldii Corbetta SPECIES
-=======
+# Curvusporium ribaldii Corbetta SPECIES
 
 #### Status
 ACCEPTED

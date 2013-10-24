@@ -1,5 +1,4 @@
-Thelephora commersonii Lév. SPECIES
-=======
+# Thelephora commersonii Lév. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cystopus GENUS
-=======
+# Cystopus GENUS
 
 #### Status
 ACCEPTED

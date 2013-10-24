@@ -1,5 +1,4 @@
-Basidiobolus lacertae Eidam SPECIES
-=======
+# Basidiobolus lacertae Eidam SPECIES
 
 #### Status
 ACCEPTED

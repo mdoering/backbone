@@ -1,5 +1,4 @@
-Gloeosporium dioscoreae Sawada SPECIES
-=======
+# Gloeosporium dioscoreae Sawada SPECIES
 
 #### Status
 ACCEPTED

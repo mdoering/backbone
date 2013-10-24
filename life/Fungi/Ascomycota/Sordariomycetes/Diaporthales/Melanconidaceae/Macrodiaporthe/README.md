@@ -1,17 +1,16 @@
-Calospora Nitschke ex Niessl GENUS
-=======
+# Macrodiaporthe Petr. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 17(2/6): 94 (1920)
 
 #### Original name
-Calospora Nitschke ex Niessl
+Macrodiaporthe Petr.
 
 ### Remarks
 null

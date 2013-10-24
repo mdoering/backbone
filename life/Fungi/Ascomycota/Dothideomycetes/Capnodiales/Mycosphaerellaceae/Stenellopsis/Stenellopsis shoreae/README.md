@@ -1,17 +1,16 @@
-Stenellopsis shorae S.M. Singh SPECIES
-=======
+# Stenellopsis shoreae S.M. Singh SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Curr. Sci. 48(20): 912 (1979)
 
 #### Original name
-Stenellopsis shorae S.M. Singh
+Stenellopsis shoreae S.M. Singh
 
 ### Remarks
 null

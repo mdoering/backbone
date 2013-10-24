@@ -1,5 +1,4 @@
-Meliola paramignyae Hosag. SPECIES
-=======
+# Meliola paramignyae Hosag. SPECIES
 
 #### Status
 ACCEPTED

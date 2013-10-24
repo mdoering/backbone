@@ -1,5 +1,4 @@
-Omphalia pseudogrisea (Murrill) Murrill SPECIES
-=======
+# Omphalia pseudogrisea (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

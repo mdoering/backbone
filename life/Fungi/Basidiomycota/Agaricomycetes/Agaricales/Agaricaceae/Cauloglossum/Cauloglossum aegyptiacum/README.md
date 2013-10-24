@@ -1,5 +1,4 @@
-Cauloglossum aegyptiacum (Mont.) Corda SPECIES
-=======
+# Cauloglossum aegyptiacum (Mont.) Corda SPECIES
 
 #### Status
 ACCEPTED

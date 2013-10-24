@@ -1,5 +1,4 @@
-Puccinia asperulina (Juel) Lagerh. SPECIES
-=======
+# Puccinia asperulina (Juel) Lagerh. SPECIES
 
 #### Status
 ACCEPTED

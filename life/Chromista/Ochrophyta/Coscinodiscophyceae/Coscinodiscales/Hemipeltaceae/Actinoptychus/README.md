@@ -1,5 +1,4 @@
-Actinoptychus Ehrenberg GENUS
-=======
+# Actinoptychus Ehrenberg GENUS
 
 #### Status
 ACCEPTED

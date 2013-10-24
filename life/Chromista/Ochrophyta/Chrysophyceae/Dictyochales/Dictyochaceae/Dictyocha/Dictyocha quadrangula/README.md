@@ -1,5 +1,4 @@
-Dictyocha quadrangula (A. Bachmann) D. Bukry SPECIES
-=======
+# Dictyocha quadrangula (A. Bachmann) D. Bukry SPECIES
 
 #### Status
 ACCEPTED

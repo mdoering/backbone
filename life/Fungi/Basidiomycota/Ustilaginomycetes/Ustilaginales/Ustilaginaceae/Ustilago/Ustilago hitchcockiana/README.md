@@ -1,5 +1,4 @@
-Ustilago hitchcockiana Zundel, 1937 SPECIES
-=======
+# Ustilago hitchcockiana Zundel, 1937 SPECIES
 
 #### Status
 ACCEPTED

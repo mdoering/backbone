@@ -1,5 +1,4 @@
-Bactrodesmium pallidum M.B. Ellis, 1959 SPECIES
-=======
+# Bactrodesmium pallidum M.B. Ellis, 1959 SPECIES
 
 #### Status
 ACCEPTED

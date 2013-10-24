@@ -1,5 +1,4 @@
-Cyclidium simile SPECIES
-=======
+# Cyclidium simile SPECIES
 
 #### Status
 ACCEPTED

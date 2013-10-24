@@ -1,17 +1,16 @@
-Genistella chironomi Tuzet & Manier, 1953 SPECIES
-=======
+# Smittium chironomi Manier, 1970 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls Sci. Nat. , Zool. Biol. Anim. , sér. 11 15: 386 (1953)
+Annls Sci. Nat. , Bot. Biol. Vég. , sér. 12 10(4): 627 (1970)
 
 #### Original name
-Genistella chironomi Tuzet & Manier, 1953
+Smittium chironomi Manier, 1970
 
 ### Remarks
 null

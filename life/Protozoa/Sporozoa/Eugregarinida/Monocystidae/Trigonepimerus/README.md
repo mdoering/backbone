@@ -1,17 +1,16 @@
-Trigonocephalus Schiacchitano, 1931 GENUS
-=======
+# Trigonepimerus Schiacchitano, 1932 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Boll. Zool. , Naples, 2, 190.
+Boll. Zool. , Naples, 3, 141.
 
 #### Original name
-null
+Trigonocephalus Schiacchitano, 1931
 
 ### Remarks
 null

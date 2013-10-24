@@ -1,5 +1,4 @@
-Lachnum imbecile var. imbecile VARIETY
-=======
+# Lachnum imbecile anon. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lachnum imbecile var. imbecile
+Lachnum imbecile anon.
 
 ### Remarks
 null

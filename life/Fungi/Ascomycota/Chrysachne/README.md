@@ -1,5 +1,4 @@
-Chrysachne Cif. GENUS
-=======
+# Chrysachne Cif. GENUS
 
 #### Status
 ACCEPTED

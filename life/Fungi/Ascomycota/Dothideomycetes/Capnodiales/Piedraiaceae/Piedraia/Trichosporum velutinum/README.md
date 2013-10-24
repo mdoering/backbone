@@ -1,5 +1,4 @@
-Trichosporum velutinum Sacc. SPECIES
-=======
+# Trichosporum velutinum Sacc. SPECIES
 
 #### Status
 ACCEPTED

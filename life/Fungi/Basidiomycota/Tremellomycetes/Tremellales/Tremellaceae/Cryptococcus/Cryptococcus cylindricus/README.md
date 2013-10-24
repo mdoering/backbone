@@ -1,5 +1,4 @@
-Cryptococcus cylindricus Á. Fonseca, Scorzetti & Fell SPECIES
-=======
+# Cryptococcus cylindricus Á. Fonseca, Scorzetti & Fell SPECIES
 
 #### Status
 ACCEPTED

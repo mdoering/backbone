@@ -1,5 +1,4 @@
-Teichospora eucalypti (Cooke & Harkn.) Berl. & Voglino SPECIES
-=======
+# Teichospora eucalypti (Cooke & Harkn.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

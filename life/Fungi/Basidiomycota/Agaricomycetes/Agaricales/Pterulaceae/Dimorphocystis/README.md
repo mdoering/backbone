@@ -1,5 +1,4 @@
-Dimorphocystis GENUS
-=======
+# Dimorphocystis GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chilodon longidens SPECIES
-=======
+# Chilodon longidens SPECIES
 
 #### Status
 ACCEPTED

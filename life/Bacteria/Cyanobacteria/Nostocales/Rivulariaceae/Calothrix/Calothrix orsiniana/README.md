@@ -1,5 +1,4 @@
-Calothrix orsiniana Thuret SPECIES
-=======
+# Calothrix orsiniana Thuret SPECIES
 
 #### Status
 ACCEPTED

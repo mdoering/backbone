@@ -1,5 +1,4 @@
-Phyllosticta eximia Bubák SPECIES
-=======
+# Phyllosticta eximia Bubák SPECIES
 
 #### Status
 ACCEPTED

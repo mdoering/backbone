@@ -1,5 +1,4 @@
-Hymenopsis umbilicata (Fr.) Sacc. SPECIES
-=======
+# Hymenopsis umbilicata (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

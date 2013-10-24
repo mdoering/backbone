@@ -1,5 +1,4 @@
-Paecilomyces araneida ined. SPECIES
-=======
+# Paecilomyces araneida ined. SPECIES
 
 #### Status
 ACCEPTED

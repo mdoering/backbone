@@ -1,5 +1,4 @@
-Castellania valeriana C.W. Dodge SPECIES
-=======
+# Castellania valeriana C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

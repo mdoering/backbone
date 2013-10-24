@@ -1,5 +1,4 @@
-Pseudoclavulina mexicana (Cushman, 1922) SPECIES
-=======
+# Pseudoclavulina mexicana (Cushman, 1922) SPECIES
 
 #### Status
 ACCEPTED

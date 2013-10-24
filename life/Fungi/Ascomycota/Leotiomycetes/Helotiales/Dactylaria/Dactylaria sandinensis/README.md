@@ -1,5 +1,4 @@
-Dactylaria sandinensis R.F. Castañeda & W.B. Kendr. SPECIES
-=======
+# Dactylaria sandinensis R.F. Castañeda & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

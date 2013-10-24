@@ -1,5 +1,4 @@
-Chrysochromulina planisquama Hu, Yin & Tseng, 2005 SPECIES
-=======
+# Chrysochromulina planisquama Hu, Yin & Tseng, 2005 SPECIES
 
 #### Status
 ACCEPTED

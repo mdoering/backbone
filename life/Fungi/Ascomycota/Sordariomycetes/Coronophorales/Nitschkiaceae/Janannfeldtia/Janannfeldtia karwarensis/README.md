@@ -1,5 +1,4 @@
-Janannfeldtia karwarensis Subram. & Sekar, 1993 SPECIES
-=======
+# Janannfeldtia karwarensis Subram. & Sekar, 1993 SPECIES
 
 #### Status
 ACCEPTED

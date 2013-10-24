@@ -1,5 +1,4 @@
-Endocarpon muscorum Pers. SPECIES
-=======
+# Endocarpon muscorum Pers. SPECIES
 
 #### Status
 ACCEPTED

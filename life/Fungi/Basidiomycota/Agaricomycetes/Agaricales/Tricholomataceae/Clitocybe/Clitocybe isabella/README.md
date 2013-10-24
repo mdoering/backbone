@@ -1,5 +1,4 @@
-Clitocybe isabella Quél. SPECIES
-=======
+# Clitocybe isabella Quél. SPECIES
 
 #### Status
 ACCEPTED

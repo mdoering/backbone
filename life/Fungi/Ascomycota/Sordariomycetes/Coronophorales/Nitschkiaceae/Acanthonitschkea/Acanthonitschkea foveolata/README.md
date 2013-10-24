@@ -1,5 +1,4 @@
-Acanthonitschkea foveolata (Berk. & M.A. Curtis ex Berk.) Nannf. SPECIES
-=======
+# Acanthonitschkea foveolata (Berk. & M.A. Curtis ex Berk.) Nannf. SPECIES
 
 #### Status
 ACCEPTED

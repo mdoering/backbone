@@ -1,5 +1,4 @@
-Psiloglonium ruthenicum (Petr.) Petr. SPECIES
-=======
+# Psiloglonium ruthenicum (Petr.) Petr. SPECIES
 
 #### Status
 ACCEPTED

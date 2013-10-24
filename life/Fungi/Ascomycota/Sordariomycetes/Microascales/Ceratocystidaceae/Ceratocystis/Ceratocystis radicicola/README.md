@@ -1,14 +1,13 @@
-Ophiostoma radicicolum (Bliss) Arx SPECIES
-=======
+# Ceratocystis radicicola (Bliss) C. Moreau, 1952 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Revue Mycol. , Paris 17(Suppl. Colon. no. 1): 22 (1952)
 
 #### Original name
 Ceratostomella radicicola Bliss, 1941

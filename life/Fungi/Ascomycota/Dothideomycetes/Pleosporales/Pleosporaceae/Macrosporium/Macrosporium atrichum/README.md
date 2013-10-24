@@ -1,5 +1,4 @@
-Macrosporium atrichum Cooke & Ellis SPECIES
-=======
+# Macrosporium atrichum Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

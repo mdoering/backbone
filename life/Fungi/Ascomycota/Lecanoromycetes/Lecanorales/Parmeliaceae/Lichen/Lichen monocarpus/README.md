@@ -1,5 +1,4 @@
-Lichen monocarpus Ach. SPECIES
-=======
+# Lichen monocarpus Ach. SPECIES
 
 #### Status
 ACCEPTED

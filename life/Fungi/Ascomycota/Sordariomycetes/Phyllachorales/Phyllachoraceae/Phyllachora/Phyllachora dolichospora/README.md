@@ -1,5 +1,4 @@
-Phyllachora dolichospora Syd. & P. Syd., 1911 SPECIES
-=======
+# Phyllachora dolichospora Syd. & P. Syd., 1911 SPECIES
 
 #### Status
 ACCEPTED

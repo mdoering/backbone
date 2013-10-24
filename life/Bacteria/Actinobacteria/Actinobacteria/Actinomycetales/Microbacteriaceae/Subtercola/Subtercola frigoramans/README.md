@@ -1,5 +1,4 @@
-Subtercola frigoramans Männistö et al., 2000 SPECIES
-=======
+# Subtercola frigoramans Männistö et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

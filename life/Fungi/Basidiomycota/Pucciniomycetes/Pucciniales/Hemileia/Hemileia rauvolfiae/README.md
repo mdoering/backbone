@@ -1,5 +1,4 @@
-Hemileia rauvolfiae J.M. Yen & Gilles SPECIES
-=======
+# Hemileia rauvolfiae J.M. Yen & Gilles SPECIES
 
 #### Status
 ACCEPTED

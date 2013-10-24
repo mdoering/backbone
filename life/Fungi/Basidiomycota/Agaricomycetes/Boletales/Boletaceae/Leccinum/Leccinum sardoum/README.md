@@ -1,5 +1,4 @@
-Leccinum sardoum (Belli & Sacc.) Quadr. & Lunghini SPECIES
-=======
+# Leccinum sardoum (Belli & Sacc.) Quadr. & Lunghini SPECIES
 
 #### Status
 ACCEPTED

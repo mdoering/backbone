@@ -1,14 +1,13 @@
-Cephalotrichum atrum (Desm.) Kuntze, 1898 SPECIES
-=======
+# Phaeostilbella atra (Desm.) Höhn., 1925 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 453 (1898)
+Mitt. bot. Inst. tech. Hochsch. Wien 2: 72 (1925)
 
 #### Original name
 Graphium atrum Desm., 1838

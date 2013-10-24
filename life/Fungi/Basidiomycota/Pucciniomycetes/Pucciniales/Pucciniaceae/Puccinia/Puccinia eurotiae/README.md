@@ -1,5 +1,4 @@
-Puccinia eurotiae Griffiths SPECIES
-=======
+# Puccinia eurotiae Griffiths SPECIES
 
 #### Status
 ACCEPTED

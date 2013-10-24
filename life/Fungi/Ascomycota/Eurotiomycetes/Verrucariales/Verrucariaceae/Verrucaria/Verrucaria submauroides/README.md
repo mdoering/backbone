@@ -1,5 +1,4 @@
-Verrucaria submauroides Zschacke SPECIES
-=======
+# Verrucaria submauroides Zschacke SPECIES
 
 #### Status
 ACCEPTED

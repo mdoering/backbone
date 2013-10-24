@@ -1,5 +1,4 @@
-Gloiocephala palmarum Singer SPECIES
-=======
+# Gloiocephala palmarum Singer SPECIES
 
 #### Status
 ACCEPTED

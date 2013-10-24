@@ -1,5 +1,4 @@
-Phyllosticta pruni-mahaleb Pass. SPECIES
-=======
+# Phyllosticta pruni-mahaleb Pass. SPECIES
 
 #### Status
 ACCEPTED

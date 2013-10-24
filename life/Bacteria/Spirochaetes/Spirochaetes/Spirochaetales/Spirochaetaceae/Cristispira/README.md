@@ -1,5 +1,4 @@
-Cristispira GENUS
-=======
+# Cristispira GENUS
 
 #### Status
 ACCEPTED

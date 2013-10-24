@@ -1,5 +1,4 @@
-Leptosphaeria ranunculi Rostr. SPECIES
-=======
+# Leptosphaeria ranunculi Rostr. SPECIES
 
 #### Status
 ACCEPTED

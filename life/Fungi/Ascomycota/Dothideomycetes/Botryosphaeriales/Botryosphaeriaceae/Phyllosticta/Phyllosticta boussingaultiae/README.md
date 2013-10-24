@@ -1,5 +1,4 @@
-Phyllosticta boussingaultiae Speg. SPECIES
-=======
+# Phyllosticta boussingaultiae Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia physostegiae Peck & Clinton SPECIES
-=======
+# Puccinia physostegiae Peck & Clinton SPECIES
 
 #### Status
 ACCEPTED

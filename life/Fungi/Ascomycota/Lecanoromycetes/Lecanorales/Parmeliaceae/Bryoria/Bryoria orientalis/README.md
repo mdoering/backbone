@@ -1,5 +1,4 @@
-Bryoria orientalis (Gyeln.) J.C. Wei SPECIES
-=======
+# Bryoria orientalis (Gyeln.) J.C. Wei SPECIES
 
 #### Status
 ACCEPTED

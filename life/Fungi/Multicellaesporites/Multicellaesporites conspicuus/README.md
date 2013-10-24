@@ -1,5 +1,4 @@
-Multicellaesporites conspicuus P. Ke & Z.Y. Shi SPECIES
-=======
+# Multicellaesporites conspicuus P. Ke & Z.Y. Shi SPECIES
 
 #### Status
 ACCEPTED

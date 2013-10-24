@@ -1,5 +1,4 @@
-Lecudina arabellae H. Hoshide, 1958 SPECIES
-=======
+# Lecudina arabellae H. Hoshide, 1958 SPECIES
 
 #### Status
 ACCEPTED

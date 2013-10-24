@@ -1,5 +1,4 @@
-Acrostaphylus pulvereus (Peck & G.P. Clinton) Subram. SPECIES
-=======
+# Acrostaphylus pulvereus (Peck & G.P. Clinton) Subram. SPECIES
 
 #### Status
 ACCEPTED

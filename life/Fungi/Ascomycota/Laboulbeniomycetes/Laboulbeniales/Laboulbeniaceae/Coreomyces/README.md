@@ -1,17 +1,16 @@
-Paracoreomyces R.A. Poiss. GENUS
-=======
+# Coreomyces Thaxt. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-C. r. hebd. Séanc. Acad. Sci. , Paris 188: 826 (1929)
+Proc. Amer. Acad. Arts & Sci. 38: 56 (1903)
 
 #### Original name
-Paracoreomyces R.A. Poiss.
+Coreomyces Thaxt.
 
 ### Remarks
 null

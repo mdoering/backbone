@@ -1,14 +1,13 @@
-Echinopodospora effusa Morinaga, Minoura & Udagawa, 1978 SPECIES
-=======
+# Apiosordaria effusa (Morinaga, Minoura & Udagawa) J.C. Krug, Udagawa & Jeng, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Mycol. Soc. Japan 19(2): 135 (1978)
+Mycotaxon 17: 546 (1983)
 
 #### Original name
 Echinopodospora effusa Morinaga, Minoura & Udagawa, 1978

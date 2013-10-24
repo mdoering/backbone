@@ -1,5 +1,4 @@
-Leptostroma garciniae Gonz. Frag. & Cif. SPECIES
-=======
+# Leptostroma garciniae Gonz. Frag. & Cif. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenophora bondarzewii Pidopl. SPECIES
-=======
+# Pyrenophora bondarzewii Pidopl. SPECIES
 
 #### Status
 ACCEPTED

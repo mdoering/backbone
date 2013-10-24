@@ -1,5 +1,4 @@
-Pottsiocles infusoriorum (Chatton & Lwoff, 1927) Corliss, 1960 SPECIES
-=======
+# Pottsiocles infusoriorum (Chatton & Lwoff, 1927) Corliss, 1960 SPECIES
 
 #### Status
 ACCEPTED

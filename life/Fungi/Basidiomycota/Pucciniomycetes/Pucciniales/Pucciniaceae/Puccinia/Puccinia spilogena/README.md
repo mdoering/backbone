@@ -1,5 +1,4 @@
-Puccinia spilogena Lindr. SPECIES
-=======
+# Puccinia spilogena Lindr. SPECIES
 
 #### Status
 ACCEPTED

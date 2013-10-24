@@ -1,5 +1,4 @@
-Pachysphaeridium bulbosum (Uutela & Tynni, 1991) Ribecai & Tongiorgi SPECIES
-=======
+# Pachysphaeridium bulbosum (Uutela & Tynni, 1991) Ribecai & Tongiorgi SPECIES
 
 #### Status
 ACCEPTED

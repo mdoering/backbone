@@ -1,5 +1,4 @@
-Dictyosporium subramanianii B. Sutton SPECIES
-=======
+# Dictyosporium subramanianii B. Sutton SPECIES
 
 #### Status
 ACCEPTED

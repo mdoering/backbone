@@ -1,5 +1,4 @@
-Vorticella urnula Nenninger, 1948 SPECIES
-=======
+# Vorticella urnula Nenninger, 1948 SPECIES
 
 #### Status
 ACCEPTED

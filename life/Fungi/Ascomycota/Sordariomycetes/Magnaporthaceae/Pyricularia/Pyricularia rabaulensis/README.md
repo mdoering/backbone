@@ -1,5 +1,4 @@
-Pyricularia rabaulensis Matsush., 1971 SPECIES
-=======
+# Pyricularia rabaulensis Matsush., 1971 SPECIES
 
 #### Status
 ACCEPTED

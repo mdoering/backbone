@@ -1,5 +1,4 @@
-Corisphaera tyrrheniensis A. Kleijne SPECIES
-=======
+# Corisphaera tyrrheniensis A. Kleijne SPECIES
 
 #### Status
 ACCEPTED

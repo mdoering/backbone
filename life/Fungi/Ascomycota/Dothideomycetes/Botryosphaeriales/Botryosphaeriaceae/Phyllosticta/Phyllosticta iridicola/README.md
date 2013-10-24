@@ -1,5 +1,4 @@
-Phyllosticta iridicola Gonz. Frag. SPECIES
-=======
+# Phyllosticta iridicola Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

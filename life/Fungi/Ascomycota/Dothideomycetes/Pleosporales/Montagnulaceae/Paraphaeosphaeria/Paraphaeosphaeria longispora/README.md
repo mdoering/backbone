@@ -1,5 +1,4 @@
-Paraphaeosphaeria longispora (H. Wegelin) Crivelli SPECIES
-=======
+# Paraphaeosphaeria longispora (H. Wegelin) Crivelli SPECIES
 
 #### Status
 ACCEPTED

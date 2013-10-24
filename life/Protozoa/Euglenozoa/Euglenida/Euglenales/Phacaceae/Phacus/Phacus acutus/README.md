@@ -1,5 +1,4 @@
-Phacus acutus Pochmann, 1941 SPECIES
-=======
+# Phacus acutus Pochmann, 1941 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microglaena elaeophthalma (Vain.) Zahlbr. SPECIES
-=======
+# Microglaena elaeophthalma (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

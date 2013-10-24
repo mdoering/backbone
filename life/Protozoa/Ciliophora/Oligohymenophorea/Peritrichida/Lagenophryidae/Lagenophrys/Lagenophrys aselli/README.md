@@ -1,5 +1,4 @@
-Lagenophrys aselli Plate, 1886 SPECIES
-=======
+# Lagenophrys aselli Plate, 1886 SPECIES
 
 #### Status
 ACCEPTED

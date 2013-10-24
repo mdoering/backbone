@@ -1,5 +1,4 @@
-Hydnum serratum Peck SPECIES
-=======
+# Hydnum serratum Peck SPECIES
 
 #### Status
 ACCEPTED

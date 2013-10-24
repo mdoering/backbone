@@ -1,5 +1,4 @@
-Lecidea dodecamera Müll. Arg. SPECIES
-=======
+# Lecidea dodecamera Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

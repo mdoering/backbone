@@ -1,5 +1,4 @@
-Pylaiella gardneri F.S. Collins SPECIES
-=======
+# Pylaiella gardneri F.S. Collins SPECIES
 
 #### Status
 ACCEPTED

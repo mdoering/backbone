@@ -1,5 +1,4 @@
-Staphlococcus GENUS
-=======
+# Staphlococcus GENUS
 
 #### Status
 ACCEPTED

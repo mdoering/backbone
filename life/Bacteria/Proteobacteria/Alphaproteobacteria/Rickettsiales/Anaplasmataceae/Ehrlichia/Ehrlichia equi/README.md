@@ -1,5 +1,4 @@
-Ehrlichia equi Lewis et al., 1988 SPECIES
-=======
+# Ehrlichia equi Lewis et al., 1988 SPECIES
 
 #### Status
 ACCEPTED

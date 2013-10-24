@@ -1,5 +1,4 @@
-Pyrenula volvarioides Fée SPECIES
-=======
+# Pyrenula volvarioides Fée SPECIES
 
 #### Status
 ACCEPTED

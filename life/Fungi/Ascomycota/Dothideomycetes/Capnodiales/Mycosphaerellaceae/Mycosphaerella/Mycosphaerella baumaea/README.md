@@ -1,5 +1,4 @@
-Mycosphaerella baumaea Hansf. SPECIES
-=======
+# Mycosphaerella baumaea Hansf. SPECIES
 
 #### Status
 ACCEPTED

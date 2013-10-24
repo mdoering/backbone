@@ -1,17 +1,16 @@
-Amanita brunnescens f. straminea E.-J. Gilbert FORM
-=======
+# Amanita brunnescens G.F. Atk., 1918 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Iconogr. Mycol. 27(Suppl. 1): 338 (1941)
+Proc. Am. philos. Soc. 57: 354 (1918)
 
 #### Original name
-Amanita brunnescens f. straminea E.-J. Gilbert
+Amanita brunnescens G.F. Atk., 1918
 
 ### Remarks
 null

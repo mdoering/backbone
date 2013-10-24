@@ -1,5 +1,4 @@
-Naucoria alachuana Murrill SPECIES
-=======
+# Naucoria alachuana Murrill SPECIES
 
 #### Status
 ACCEPTED

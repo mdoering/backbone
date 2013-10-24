@@ -1,5 +1,4 @@
-Lecidea normannica Werner SPECIES
-=======
+# Lecidea normannica Werner SPECIES
 
 #### Status
 ACCEPTED

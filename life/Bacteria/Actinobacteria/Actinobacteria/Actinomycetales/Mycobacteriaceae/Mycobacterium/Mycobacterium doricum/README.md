@@ -1,5 +1,4 @@
-Mycobacterium doricum Tortoli et al., 2001 SPECIES
-=======
+# Mycobacterium doricum Tortoli et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

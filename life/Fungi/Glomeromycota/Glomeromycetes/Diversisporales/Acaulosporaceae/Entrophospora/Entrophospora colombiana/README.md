@@ -1,14 +1,13 @@
-Kuklospora colombiana (Spain & N.C. Schenck) Oehl & Sieverd., 2006 SPECIES
-=======
+# Entrophospora colombiana Spain & N.C. Schenck, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Appl. Bot. Food Quality, Angew. Botan. 80: 74 (2006)
+in Schenck, Spain, Sieverding & Howeler, Mycologia 76(4): 693 (1984)
 
 #### Original name
 Entrophospora colombiana Spain & N.C. Schenck, 1984

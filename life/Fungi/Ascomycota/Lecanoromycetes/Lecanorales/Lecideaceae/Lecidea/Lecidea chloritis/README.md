@@ -1,5 +1,4 @@
-Lecidea chloritis Tuck. SPECIES
-=======
+# Lecidea chloritis Tuck. SPECIES
 
 #### Status
 ACCEPTED

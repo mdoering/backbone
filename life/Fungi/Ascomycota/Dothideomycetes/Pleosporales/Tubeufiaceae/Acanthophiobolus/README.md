@@ -1,17 +1,16 @@
-Ophiotrichia Berl. GENUS
-=======
+# Acanthophiobolus Berlese, 1893 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
 null
 
 #### Original name
-Ophiotrichia Berl.
+null
 
 ### Remarks
 null

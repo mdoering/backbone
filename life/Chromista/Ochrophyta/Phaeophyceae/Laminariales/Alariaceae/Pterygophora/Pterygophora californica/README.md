@@ -1,5 +1,4 @@
-Pterygophora californica Ruprecht SPECIES
-=======
+# Pterygophora californica Ruprecht SPECIES
 
 #### Status
 ACCEPTED

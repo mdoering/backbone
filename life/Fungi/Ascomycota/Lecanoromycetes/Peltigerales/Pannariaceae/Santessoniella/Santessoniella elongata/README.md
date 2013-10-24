@@ -1,5 +1,4 @@
-Santessoniella elongata Henssen SPECIES
-=======
+# Santessoniella elongata Henssen SPECIES
 
 #### Status
 ACCEPTED

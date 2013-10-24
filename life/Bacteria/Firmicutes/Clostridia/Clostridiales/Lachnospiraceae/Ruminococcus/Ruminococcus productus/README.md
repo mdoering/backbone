@@ -1,11 +1,10 @@
-Streptococcus productus Prévot, 1941 SPECIES
-=======
+# Ruminococcus productus (Prévot, 1941) Ezaki et al., 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

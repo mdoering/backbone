@@ -1,5 +1,4 @@
-Stictochorella faginea (Bres.) Höhn. SPECIES
-=======
+# Stictochorella faginea (Bres.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

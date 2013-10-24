@@ -1,17 +1,16 @@
-Lecanora melanophthalma var. obscura (J. Steiner) Poelt VARIETY
-=======
+# Rhizoplaca melanophthalma (DC.) Leuckert & Poelt SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nova Hedwigia 28: 72 (1977)
 
 #### Original name
-Lecanora heteromorpha var. obscura J. Steiner
+Squamaria melanophthalma DC.
 
 ### Remarks
 null

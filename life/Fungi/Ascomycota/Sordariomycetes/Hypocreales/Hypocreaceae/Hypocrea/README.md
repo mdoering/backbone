@@ -1,17 +1,16 @@
-Creopus Link GENUS
-=======
+# Hypocrea E.M. Fries, 1825 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Handbuck zur Erkennung der Nutzbarsten und am Häufigsten Vorkommenden Gewächse 3: 349 (1833)
+null
 
 #### Original name
-Creopus Link
+null
 
 ### Remarks
 null

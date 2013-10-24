@@ -1,5 +1,4 @@
-Arthotheliopsidomyces hymenocarpoidis Cif. & Tomas. SPECIES
-=======
+# Arthotheliopsidomyces hymenocarpoidis Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

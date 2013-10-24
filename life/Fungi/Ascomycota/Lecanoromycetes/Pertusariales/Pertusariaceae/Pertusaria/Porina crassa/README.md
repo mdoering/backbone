@@ -1,5 +1,4 @@
-Porina crassa P.M. McCarthy, 1993 SPECIES
-=======
+# Porina crassa P.M. McCarthy, 1993 SPECIES
 
 #### Status
 DOUBTFUL

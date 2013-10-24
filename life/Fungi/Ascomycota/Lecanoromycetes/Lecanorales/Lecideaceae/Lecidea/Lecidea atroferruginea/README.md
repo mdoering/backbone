@@ -1,5 +1,4 @@
-Lecidea atroferruginea Chevall. SPECIES
-=======
+# Lecidea atroferruginea Chevall. SPECIES
 
 #### Status
 ACCEPTED

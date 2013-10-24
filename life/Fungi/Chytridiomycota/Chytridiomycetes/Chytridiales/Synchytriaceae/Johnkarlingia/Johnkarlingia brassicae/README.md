@@ -1,5 +1,4 @@
-Johnkarlingia brassicae S.L. Singh & Pavgi, 1979 SPECIES
-=======
+# Johnkarlingia brassicae S.L. Singh & Pavgi, 1979 SPECIES
 
 #### Status
 ACCEPTED

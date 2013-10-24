@@ -1,5 +1,4 @@
-Thelebolus minutissimus (Schwein.) De Toni SPECIES
-=======
+# Thelebolus minutissimus (Schwein.) De Toni SPECIES
 
 #### Status
 ACCEPTED

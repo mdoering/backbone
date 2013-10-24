@@ -1,17 +1,16 @@
-Coniochila A. Massal. GENUS
-=======
+# Ocellularia G. Mey. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Atti Inst. Veneto Sci. lett. , ed Arti, Sér. 3 5: 258 (1860)
+Nebenst. Beschäft. Pflanzenk. 1: 327 (1825)
 
 #### Original name
-Coniochila A. Massal.
+Ocellularia G. Mey.
 
 ### Remarks
 null

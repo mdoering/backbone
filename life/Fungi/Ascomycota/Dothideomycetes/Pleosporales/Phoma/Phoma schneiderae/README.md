@@ -1,5 +1,4 @@
-Phoma schneiderae Boerema, Gruyter & P. Graaf, 1999 SPECIES
-=======
+# Phoma schneiderae Boerema, Gruyter & P. Graaf, 1999 SPECIES
 
 #### Status
 ACCEPTED

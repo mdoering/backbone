@@ -1,5 +1,4 @@
-Agathamminidae FAMILY
-=======
+# Agathamminidae FAMILY
 
 #### Status
 ACCEPTED

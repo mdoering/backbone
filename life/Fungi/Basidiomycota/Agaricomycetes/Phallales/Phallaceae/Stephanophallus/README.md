@@ -1,5 +1,4 @@
-Stephanophallus MacOwan GENUS
-=======
+# Stephanophallus MacOwan GENUS
 
 #### Status
 ACCEPTED

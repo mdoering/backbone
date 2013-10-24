@@ -1,17 +1,16 @@
-Placodium paumotense Tuck. SPECIES
-=======
+# Dirinaria confluens (Fr.) D. D. Awasthi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Biblthca Lichenol. 2: 281 (1975)
 
 #### Original name
-null
+Parmelia confluens Fr.
 
 ### Remarks
 null

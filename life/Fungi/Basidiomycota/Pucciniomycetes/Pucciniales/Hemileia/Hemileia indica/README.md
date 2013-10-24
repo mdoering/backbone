@@ -1,5 +1,4 @@
-Hemileia indica Massee SPECIES
-=======
+# Hemileia indica Massee SPECIES
 
 #### Status
 ACCEPTED

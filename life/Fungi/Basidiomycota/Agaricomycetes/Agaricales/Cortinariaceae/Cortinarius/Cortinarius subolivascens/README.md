@@ -1,5 +1,4 @@
-Cortinarius subolivascens A.H. Sm. SPECIES
-=======
+# Cortinarius subolivascens A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

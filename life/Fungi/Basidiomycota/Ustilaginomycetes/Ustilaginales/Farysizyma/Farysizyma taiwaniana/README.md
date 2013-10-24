@@ -1,5 +1,4 @@
-Farysizyma taiwaniana P.H. Wang, Y.T. Wang & S.H. Yang SPECIES
-=======
+# Farysizyma taiwaniana P.H. Wang, Y.T. Wang & S.H. Yang SPECIES
 
 #### Status
 ACCEPTED

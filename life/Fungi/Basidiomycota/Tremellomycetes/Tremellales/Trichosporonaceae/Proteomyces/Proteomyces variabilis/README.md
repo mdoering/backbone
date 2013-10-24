@@ -1,5 +1,4 @@
-Proteomyces variabilis Boedijn & Verbunt SPECIES
-=======
+# Proteomyces variabilis Boedijn & Verbunt SPECIES
 
 #### Status
 ACCEPTED

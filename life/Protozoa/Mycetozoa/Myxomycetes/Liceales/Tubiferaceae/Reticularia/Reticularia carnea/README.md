@@ -1,5 +1,4 @@
-Reticularia carnea (Schumach.) Fr. SPECIES
-=======
+# Reticularia carnea (Schumach.) Fr. SPECIES
 
 #### Status
 ACCEPTED

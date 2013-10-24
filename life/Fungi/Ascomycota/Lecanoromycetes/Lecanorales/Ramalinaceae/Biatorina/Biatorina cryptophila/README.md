@@ -1,5 +1,4 @@
-Biatorina cryptophila (Th. Fr. & Almq.) SPECIES
-=======
+# Biatorina cryptophila (Th. Fr. & Almq.) SPECIES
 
 #### Status
 ACCEPTED

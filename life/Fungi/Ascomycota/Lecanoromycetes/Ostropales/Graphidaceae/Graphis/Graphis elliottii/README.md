@@ -1,5 +1,4 @@
-Graphis elliottii Vain. SPECIES
-=======
+# Graphis elliottii Vain. SPECIES
 
 #### Status
 ACCEPTED

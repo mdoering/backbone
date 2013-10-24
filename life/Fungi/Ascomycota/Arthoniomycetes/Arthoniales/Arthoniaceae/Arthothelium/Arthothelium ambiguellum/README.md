@@ -1,5 +1,4 @@
-Arthothelium ambiguellum (Nyl.) Müll. Arg. SPECIES
-=======
+# Arthothelium ambiguellum (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

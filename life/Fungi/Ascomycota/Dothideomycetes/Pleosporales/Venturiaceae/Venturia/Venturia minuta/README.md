@@ -1,17 +1,16 @@
-Venturia microspora Nüesch, 1960 SPECIES
-=======
+# Venturia minuta M.E. Barr, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Phytopath. Z. 39: 347 (1960)
+Can. J. Bot. 46: 815 (1968)
 
 #### Original name
-Venturia microspora Nüesch, 1960
+Venturia minuta M.E. Barr, 1968
 
 ### Remarks
 null

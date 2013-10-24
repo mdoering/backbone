@@ -1,5 +1,4 @@
-Megalotremis biocellata Aptroot SPECIES
-=======
+# Megalotremis biocellata Aptroot SPECIES
 
 #### Status
 ACCEPTED

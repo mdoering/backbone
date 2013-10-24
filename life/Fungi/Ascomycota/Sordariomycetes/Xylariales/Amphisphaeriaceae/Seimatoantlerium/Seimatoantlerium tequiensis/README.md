@@ -1,5 +1,4 @@
-Seimatoantlerium tequiensis Strobel, E.J. Ford, J.Yi Li, J. Sears, Sidhu & W.M. Hess, 1999 SPECIES
-=======
+# Seimatoantlerium tequiensis Strobel, E.J. Ford, J.Yi Li, J. Sears, Sidhu & W.M. Hess, 1999 SPECIES
 
 #### Status
 ACCEPTED

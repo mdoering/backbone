@@ -1,5 +1,4 @@
-Hedbergina Bronnimann & Brown, 1955 GENUS
-=======
+# Hedbergina Bronnimann & Brown, 1955 GENUS
 
 #### Status
 ACCEPTED

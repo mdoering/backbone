@@ -1,5 +1,4 @@
-Pezizella hiemalis Velen. SPECIES
-=======
+# Pezizella hiemalis Velen. SPECIES
 
 #### Status
 ACCEPTED

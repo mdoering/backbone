@@ -1,5 +1,4 @@
-Polaribacter Gosink, Woese & Staley, 1998 GENUS
-=======
+# Polaribacter Gosink, Woese & Staley, 1998 GENUS
 
 #### Status
 ACCEPTED

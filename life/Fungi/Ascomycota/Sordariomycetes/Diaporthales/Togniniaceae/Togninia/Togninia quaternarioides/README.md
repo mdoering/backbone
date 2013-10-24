@@ -1,5 +1,4 @@
-Togninia quaternarioides Berl. SPECIES
-=======
+# Togninia quaternarioides Berl. SPECIES
 
 #### Status
 ACCEPTED

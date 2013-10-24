@@ -1,5 +1,4 @@
-Flammula edulis Peck SPECIES
-=======
+# Flammula edulis Peck SPECIES
 
 #### Status
 ACCEPTED

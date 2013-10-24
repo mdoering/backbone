@@ -1,17 +1,16 @@
-Gyalideopsis solorinellaeformis Vezda SPECIES
-=======
+# Gyalideopsis solorinelliformis Vezda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Folia geobot. phytotax. bohemoslov. 14(1): 68 (1979)
 
 #### Original name
-Gyalideopsis solorinellaeformis Vezda
+Gyalideopsis solorinelliformis Vezda
 
 ### Remarks
 null

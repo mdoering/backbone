@@ -1,14 +1,13 @@
-Biatora wallrothii (Flörke ex Spreng.) Körb. SPECIES
-=======
+# Trapeliopsis wallrothii (Flörke) Hertel & Gotth. Schneid. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Schneider, Biblthca Lichenol. 13: 153 (1980)
 
 #### Original name
 Lecidea wallrothii Flörke

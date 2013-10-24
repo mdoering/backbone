@@ -1,5 +1,4 @@
-Volvoboletus GENUS
-=======
+# Volvoboletus GENUS
 
 #### Status
 ACCEPTED

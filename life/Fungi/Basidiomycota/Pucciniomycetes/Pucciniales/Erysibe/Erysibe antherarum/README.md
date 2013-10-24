@@ -1,5 +1,4 @@
-Erysibe antherarum Wallr. SPECIES
-=======
+# Erysibe antherarum Wallr. SPECIES
 
 #### Status
 ACCEPTED

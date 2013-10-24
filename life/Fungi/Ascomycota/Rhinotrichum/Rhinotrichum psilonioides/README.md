@@ -1,5 +1,4 @@
-Rhinotrichum psilonioides Preuss SPECIES
-=======
+# Rhinotrichum psilonioides Preuss SPECIES
 
 #### Status
 ACCEPTED

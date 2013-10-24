@@ -1,5 +1,4 @@
-Orthoseira roseana (Rabenhorst) O'Meara, 1876 SPECIES
-=======
+# Orthoseira roseana (Rabenhorst) O'Meara, 1876 SPECIES
 
 #### Status
 ACCEPTED

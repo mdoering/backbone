@@ -1,14 +1,13 @@
-Pseudoplatyophyra Foissner, 1980 GENUS
-=======
+# Pseudoplatyophrya Foissner, 1980 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Zoologische Jb. (Syst. ) 107 (3): 395.
 
 #### Original name
 null

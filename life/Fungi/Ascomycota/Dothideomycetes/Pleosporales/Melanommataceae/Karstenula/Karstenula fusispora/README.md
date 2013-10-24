@@ -1,5 +1,4 @@
-Karstenula fusispora (Petr.) M.E. Barr SPECIES
-=======
+# Karstenula fusispora (Petr.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

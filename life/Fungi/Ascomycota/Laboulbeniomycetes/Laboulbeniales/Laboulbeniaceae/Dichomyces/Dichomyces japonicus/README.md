@@ -1,5 +1,4 @@
-Dichomyces japonicus Terada SPECIES
-=======
+# Dichomyces japonicus Terada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Poria ferruginosus Rostk. SPECIES
-=======
+# Poria ferruginosus Rostk. SPECIES
 
 #### Status
 ACCEPTED

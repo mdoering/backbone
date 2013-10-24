@@ -1,5 +1,4 @@
-Xenohaliotis californiensis Friedman et al., 2000. SPECIES
-=======
+# Xenohaliotis californiensis Friedman et al., 2000. SPECIES
 
 #### Status
 ACCEPTED

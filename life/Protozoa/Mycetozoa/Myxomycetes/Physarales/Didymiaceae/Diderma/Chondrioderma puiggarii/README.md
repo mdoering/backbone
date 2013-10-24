@@ -1,5 +1,4 @@
-Chondrioderma puiggarii Speg. SPECIES
-=======
+# Chondrioderma puiggarii Speg. SPECIES
 
 #### Status
 ACCEPTED

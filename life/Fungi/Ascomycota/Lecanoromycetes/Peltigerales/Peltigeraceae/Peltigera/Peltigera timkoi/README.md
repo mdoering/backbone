@@ -1,5 +1,4 @@
-Peltigera timkoi Gyeln. SPECIES
-=======
+# Peltigera timkoi Gyeln. SPECIES
 
 #### Status
 ACCEPTED

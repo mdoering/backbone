@@ -1,5 +1,4 @@
-Ophiostoma simplex K. Jacobs & M.J. Wingf. SPECIES
-=======
+# Ophiostoma simplex K. Jacobs & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

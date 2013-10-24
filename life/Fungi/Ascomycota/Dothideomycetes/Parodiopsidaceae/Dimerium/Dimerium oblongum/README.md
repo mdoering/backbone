@@ -1,5 +1,4 @@
-Dimerium oblongum Syd. SPECIES
-=======
+# Dimerium oblongum Syd. SPECIES
 
 #### Status
 ACCEPTED

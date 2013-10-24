@@ -1,5 +1,4 @@
-Marasmius notandus Corner SPECIES
-=======
+# Marasmius notandus Corner SPECIES
 
 #### Status
 ACCEPTED

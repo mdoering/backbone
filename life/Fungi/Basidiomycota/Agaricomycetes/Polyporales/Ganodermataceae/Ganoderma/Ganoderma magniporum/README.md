@@ -1,5 +1,4 @@
-Ganoderma magniporum J.D. Zhao & X.Q. Zhang, 1984 SPECIES
-=======
+# Ganoderma magniporum J.D. Zhao & X.Q. Zhang, 1984 SPECIES
 
 #### Status
 ACCEPTED

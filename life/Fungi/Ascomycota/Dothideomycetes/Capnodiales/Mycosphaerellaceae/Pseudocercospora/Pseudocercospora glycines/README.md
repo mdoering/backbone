@@ -1,5 +1,4 @@
-Pseudocercospora glycines (Cooke) Deighton SPECIES
-=======
+# Pseudocercospora glycines (Cooke) Deighton SPECIES
 
 #### Status
 ACCEPTED

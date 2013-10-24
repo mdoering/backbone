@@ -1,5 +1,4 @@
-Thalassiosira partheneia Schrader SPECIES
-=======
+# Thalassiosira partheneia Schrader SPECIES
 
 #### Status
 ACCEPTED

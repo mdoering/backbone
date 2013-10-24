@@ -1,5 +1,4 @@
-Stereocaulon chlorellum Tuck. SPECIES
-=======
+# Stereocaulon chlorellum Tuck. SPECIES
 
 #### Status
 ACCEPTED

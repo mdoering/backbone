@@ -1,5 +1,4 @@
-Estiastra oklahomensis Loeblich & Tappan, 1978 SPECIES
-=======
+# Estiastra oklahomensis Loeblich & Tappan, 1978 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Syntrophobotulus Friedrich et al., 1996 GENUS
-=======
+# Syntrophobotulus Friedrich et al., 1996 GENUS
 
 #### Status
 ACCEPTED

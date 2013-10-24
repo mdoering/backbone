@@ -1,5 +1,4 @@
-Melanogaster obovatisporus B. Liu, K. Tao & Ming C. Chang SPECIES
-=======
+# Melanogaster obovatisporus B. Liu, K. Tao & Ming C. Chang SPECIES
 
 #### Status
 ACCEPTED

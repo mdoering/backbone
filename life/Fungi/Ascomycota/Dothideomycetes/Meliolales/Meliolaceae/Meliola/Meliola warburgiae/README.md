@@ -1,5 +1,4 @@
-Meliola warburgiae Mibey SPECIES
-=======
+# Meliola warburgiae Mibey SPECIES
 
 #### Status
 ACCEPTED

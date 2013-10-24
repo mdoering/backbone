@@ -1,5 +1,4 @@
-Encoelia papuana Otani SPECIES
-=======
+# Encoelia papuana Otani SPECIES
 
 #### Status
 ACCEPTED

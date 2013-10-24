@@ -1,5 +1,4 @@
-Gartnerago segmentatum SPECIES
-=======
+# Gartnerago segmentatum SPECIES
 
 #### Status
 ACCEPTED

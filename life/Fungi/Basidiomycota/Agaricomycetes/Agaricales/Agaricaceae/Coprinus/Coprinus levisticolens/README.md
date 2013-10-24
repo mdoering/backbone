@@ -1,5 +1,4 @@
-Coprinus levisticolens E. Ludw. & P. Roux SPECIES
-=======
+# Coprinus levisticolens E. Ludw. & P. Roux SPECIES
 
 #### Status
 ACCEPTED

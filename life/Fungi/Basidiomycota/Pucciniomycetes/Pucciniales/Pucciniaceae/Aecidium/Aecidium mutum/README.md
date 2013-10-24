@@ -1,5 +1,4 @@
-Aecidium mutum Arthur SPECIES
-=======
+# Aecidium mutum Arthur SPECIES
 
 #### Status
 ACCEPTED

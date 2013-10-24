@@ -1,5 +1,4 @@
-Cortinarius ianuarius Franchi & M. Marchetti SPECIES
-=======
+# Cortinarius ianuarius Franchi & M. Marchetti SPECIES
 
 #### Status
 ACCEPTED

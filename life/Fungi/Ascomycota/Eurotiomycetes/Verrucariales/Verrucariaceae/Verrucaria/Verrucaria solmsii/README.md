@@ -1,5 +1,4 @@
-Verrucaria solmsii Servít SPECIES
-=======
+# Verrucaria solmsii Servít SPECIES
 
 #### Status
 ACCEPTED

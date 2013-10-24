@@ -1,5 +1,4 @@
-Cronartium sawadae Syd. & P. Syd. SPECIES
-=======
+# Cronartium sawadae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

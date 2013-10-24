@@ -1,5 +1,4 @@
-Acineta stellata Kent, 1882 SPECIES
-=======
+# Acineta stellata Kent, 1882 SPECIES
 
 #### Status
 ACCEPTED

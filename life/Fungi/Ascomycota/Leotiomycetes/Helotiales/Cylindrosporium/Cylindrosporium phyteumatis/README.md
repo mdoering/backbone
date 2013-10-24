@@ -1,5 +1,4 @@
-Cylindrosporium phyteumatis (Sacc. & G. Winter) J. Schröt. SPECIES
-=======
+# Cylindrosporium phyteumatis (Sacc. & G. Winter) J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

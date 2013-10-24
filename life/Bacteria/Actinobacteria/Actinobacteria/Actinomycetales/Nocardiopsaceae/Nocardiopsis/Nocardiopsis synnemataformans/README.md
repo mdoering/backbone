@@ -1,5 +1,4 @@
-Nocardiopsis synnemataformans Yassin et al., 1997 SPECIES
-=======
+# Nocardiopsis synnemataformans Yassin et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphium rhodophaeum var. rhodophaeum VARIETY
-=======
+# Graphium rhodophaeum Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Bull. Soc. R. Bot. Belg. 38: 166 (1899)
 
 #### Original name
-Graphium rhodophaeum var. rhodophaeum
+Graphium rhodophaeum Sacc. & Trotter
 
 ### Remarks
 null

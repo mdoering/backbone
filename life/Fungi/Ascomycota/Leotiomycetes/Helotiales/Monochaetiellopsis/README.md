@@ -1,5 +1,4 @@
-Monochaetiellopsis GENUS
-=======
+# Monochaetiellopsis GENUS
 
 #### Status
 ACCEPTED

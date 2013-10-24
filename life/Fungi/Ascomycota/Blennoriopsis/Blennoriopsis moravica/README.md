@@ -1,5 +1,4 @@
-Blennoriopsis moravica Petr., 1920 SPECIES
-=======
+# Blennoriopsis moravica Petr., 1920 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lobaria cocoës SPECIES
-=======
+# Lobaria cocoës SPECIES
 
 #### Status
 ACCEPTED

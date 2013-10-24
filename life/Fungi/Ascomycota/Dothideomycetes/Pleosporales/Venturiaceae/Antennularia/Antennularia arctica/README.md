@@ -1,5 +1,4 @@
-Antennularia arctica (Rostr.) Farl. SPECIES
-=======
+# Antennularia arctica (Rostr.) Farl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspicilia atroviolacea (Flot.) Hue SPECIES
-=======
+# Aspicilia atroviolacea (Flot.) Hue SPECIES
 
 #### Status
 ACCEPTED

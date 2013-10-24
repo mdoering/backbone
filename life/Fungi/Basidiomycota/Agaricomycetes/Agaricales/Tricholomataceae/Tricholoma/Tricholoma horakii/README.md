@@ -1,5 +1,4 @@
-Tricholoma horakii Raithelh. SPECIES
-=======
+# Tricholoma horakii Raithelh. SPECIES
 
 #### Status
 ACCEPTED

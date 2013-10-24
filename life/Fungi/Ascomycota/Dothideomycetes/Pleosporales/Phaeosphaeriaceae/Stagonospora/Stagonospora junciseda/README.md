@@ -1,17 +1,16 @@
-Stagonospora aquatica subsp. junciseda Sacc. SUBSPECIES
-=======
+# Stagonospora junciseda (Sacc.) Sacc., 1901 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 3: 452 (1884)
+null
 
 #### Original name
-Stagonospora aquatica subsp. junciseda Sacc.
+Stagonospora junciseda (Sacc.) Sacc., 1901
 
 ### Remarks
 null

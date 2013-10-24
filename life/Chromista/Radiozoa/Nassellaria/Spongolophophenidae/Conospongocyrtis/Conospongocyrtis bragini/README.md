@@ -1,5 +1,4 @@
-Conospongocyrtis bragini SPECIES
-=======
+# Conospongocyrtis bragini SPECIES
 
 #### Status
 ACCEPTED

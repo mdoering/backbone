@@ -1,5 +1,4 @@
-Braarudosphaera hockwoldensis Black, 1973 SPECIES
-=======
+# Braarudosphaera hockwoldensis Black, 1973 SPECIES
 
 #### Status
 ACCEPTED

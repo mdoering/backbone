@@ -1,5 +1,4 @@
-Pseudopleospora Petr. GENUS
-=======
+# Pseudopleospora Petr. GENUS
 
 #### Status
 ACCEPTED

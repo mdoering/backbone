@@ -1,5 +1,4 @@
-Nannocystaceae FAMILY
-=======
+# Nannocystaceae FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllopeltula steppae Kalb SPECIES
-=======
+# Phyllopeltula steppae Kalb SPECIES
 
 #### Status
 ACCEPTED

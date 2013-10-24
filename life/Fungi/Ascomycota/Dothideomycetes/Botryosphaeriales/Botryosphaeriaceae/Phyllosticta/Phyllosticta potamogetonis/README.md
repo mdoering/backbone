@@ -1,5 +1,4 @@
-Phyllosticta potamogetonis Rostr. SPECIES
-=======
+# Phyllosticta potamogetonis Rostr. SPECIES
 
 #### Status
 ACCEPTED

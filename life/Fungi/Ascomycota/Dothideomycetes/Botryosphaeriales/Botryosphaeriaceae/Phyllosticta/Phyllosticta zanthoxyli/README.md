@@ -1,5 +1,4 @@
-Phyllosticta zanthoxyli H.C. Greene SPECIES
-=======
+# Phyllosticta zanthoxyli H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

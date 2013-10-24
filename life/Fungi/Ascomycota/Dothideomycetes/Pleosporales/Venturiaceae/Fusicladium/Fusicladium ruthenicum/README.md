@@ -1,5 +1,4 @@
-Fusicladium ruthenicum Petr. SPECIES
-=======
+# Fusicladium ruthenicum Petr. SPECIES
 
 #### Status
 ACCEPTED

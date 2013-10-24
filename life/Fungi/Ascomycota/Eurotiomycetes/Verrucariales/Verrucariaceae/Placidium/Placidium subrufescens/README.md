@@ -1,5 +1,4 @@
-Placidium subrufescens (Breuss) Breuss SPECIES
-=======
+# Placidium subrufescens (Breuss) Breuss SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus pudibundus Pico SPECIES
-=======
+# Agaricus pudibundus Pico SPECIES
 
 #### Status
 ACCEPTED

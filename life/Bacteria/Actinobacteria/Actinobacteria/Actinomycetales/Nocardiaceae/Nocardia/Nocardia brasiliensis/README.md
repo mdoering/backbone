@@ -1,11 +1,10 @@
-Streptothrix brasiliensis (Lindenberg, 1909) Greco, 1916 SPECIES
-=======
+# Nocardia brasiliensis (Lindenberg, 1909) Pinoy, 1913 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

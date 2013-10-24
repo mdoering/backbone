@@ -1,5 +1,4 @@
-Xanthoria turbinata Vain. SPECIES
-=======
+# Xanthoria turbinata Vain. SPECIES
 
 #### Status
 ACCEPTED

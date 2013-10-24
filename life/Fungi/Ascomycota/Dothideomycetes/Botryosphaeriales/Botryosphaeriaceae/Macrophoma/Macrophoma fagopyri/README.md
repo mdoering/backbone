@@ -1,5 +1,4 @@
-Macrophoma fagopyri Sawada SPECIES
-=======
+# Macrophoma fagopyri Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cylindrosympodium triseptatum R.F. Castañeda & W.B. Kendr. SPECIES
-=======
+# Cylindrosympodium triseptatum R.F. Castañeda & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

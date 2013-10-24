@@ -1,5 +1,4 @@
-Diaporthe toxica P.M. Will., Highet, W. Gams & Sivasith., 1994 SPECIES
-=======
+# Diaporthe toxica P.M. Will., Highet, W. Gams & Sivasith., 1994 SPECIES
 
 #### Status
 ACCEPTED

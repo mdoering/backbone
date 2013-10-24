@@ -1,5 +1,4 @@
-Ganoderma wynaadense Steyaert SPECIES
-=======
+# Ganoderma wynaadense Steyaert SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Schizopeltis ignota Bat. & Cavalc. SPECIES
-=======
+# Schizopeltis ignota Bat. & Cavalc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Orphniospora moriopsis var. moriopsis VARIETY
-=======
+# Orphniospora moriopsis (A. Massal.) D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lichenologist 14(2): 135 (1982)
+null
 
 #### Original name
-Orphniospora moriopsis var. moriopsis
+null
 
 ### Remarks
 null

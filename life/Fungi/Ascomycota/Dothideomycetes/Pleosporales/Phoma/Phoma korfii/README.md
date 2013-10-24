@@ -1,5 +1,4 @@
-Phoma korfii Boerema & Gruyter SPECIES
-=======
+# Phoma korfii Boerema & Gruyter SPECIES
 
 #### Status
 ACCEPTED

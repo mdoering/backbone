@@ -1,5 +1,4 @@
-Colletotrichum curvatum Briant & E.B. Martyn, 1929 SPECIES
-=======
+# Colletotrichum curvatum Briant & E.B. Martyn, 1929 SPECIES
 
 #### Status
 ACCEPTED

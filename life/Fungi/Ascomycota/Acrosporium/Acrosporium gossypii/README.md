@@ -1,5 +1,4 @@
-Acrosporium gossypii Sumst. SPECIES
-=======
+# Acrosporium gossypii Sumst. SPECIES
 
 #### Status
 ACCEPTED

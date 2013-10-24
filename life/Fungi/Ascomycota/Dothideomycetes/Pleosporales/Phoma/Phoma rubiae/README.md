@@ -1,5 +1,4 @@
-Phoma rubiae Sacc. SPECIES
-=======
+# Phoma rubiae Sacc. SPECIES
 
 #### Status
 ACCEPTED

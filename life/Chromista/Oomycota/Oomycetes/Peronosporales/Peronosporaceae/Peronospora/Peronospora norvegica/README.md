@@ -1,17 +1,16 @@
-Peronospora norwegica Gäum. SPECIES
-=======
+# Peronospora norvegica Gäum. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Beitr. Kryptfl. Schweiz 5(4): 252 (1923)
 
 #### Original name
-Peronospora norwegica Gäum.
+Peronospora norvegica Gäum.
 
 ### Remarks
 null

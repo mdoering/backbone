@@ -1,5 +1,4 @@
-Asterina subinermis Syd. & P. Syd. SPECIES
-=======
+# Asterina subinermis Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

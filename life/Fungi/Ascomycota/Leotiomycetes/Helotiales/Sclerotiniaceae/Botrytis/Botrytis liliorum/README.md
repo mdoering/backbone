@@ -1,5 +1,4 @@
-Botrytis liliorum Fujik. SPECIES
-=======
+# Botrytis liliorum Fujik. SPECIES
 
 #### Status
 ACCEPTED

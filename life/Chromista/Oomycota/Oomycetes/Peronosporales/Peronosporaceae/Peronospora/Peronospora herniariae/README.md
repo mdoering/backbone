@@ -1,5 +1,4 @@
-Peronospora herniariae de Bary SPECIES
-=======
+# Peronospora herniariae de Bary SPECIES
 
 #### Status
 ACCEPTED

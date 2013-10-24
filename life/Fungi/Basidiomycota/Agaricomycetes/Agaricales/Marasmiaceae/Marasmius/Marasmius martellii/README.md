@@ -1,5 +1,4 @@
-Marasmius martellii Bres. SPECIES
-=======
+# Marasmius martellii Bres. SPECIES
 
 #### Status
 ACCEPTED

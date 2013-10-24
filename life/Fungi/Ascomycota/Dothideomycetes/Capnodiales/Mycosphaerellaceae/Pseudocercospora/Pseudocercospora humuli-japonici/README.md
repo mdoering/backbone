@@ -1,5 +1,4 @@
-Pseudocercospora humuli-japonici Sawada ex Goh & W.H. Hsieh SPECIES
-=======
+# Pseudocercospora humuli-japonici Sawada ex Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

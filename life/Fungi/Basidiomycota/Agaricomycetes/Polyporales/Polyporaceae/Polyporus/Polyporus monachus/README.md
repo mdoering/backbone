@@ -1,5 +1,4 @@
-Polyporus monachus Speg. SPECIES
-=======
+# Polyporus monachus Speg. SPECIES
 
 #### Status
 ACCEPTED

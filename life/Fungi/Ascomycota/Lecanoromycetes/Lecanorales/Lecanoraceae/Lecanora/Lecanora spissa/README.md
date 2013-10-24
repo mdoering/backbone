@@ -1,5 +1,4 @@
-Lecanora spissa Fée SPECIES
-=======
+# Lecanora spissa Fée SPECIES
 
 #### Status
 ACCEPTED

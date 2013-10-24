@@ -1,5 +1,4 @@
-Ramularia rutae-murariae (Bres.) Trotter SPECIES
-=======
+# Ramularia rutae-murariae (Bres.) Trotter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fomes hyperboreus (Berk.) Sacc. SPECIES
-=======
+# Fomes hyperboreus (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

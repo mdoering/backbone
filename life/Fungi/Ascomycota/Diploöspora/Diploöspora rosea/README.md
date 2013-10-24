@@ -1,5 +1,4 @@
-Diploöspora rosea Grove, 1916 SPECIES
-=======
+# Diploöspora rosea Grove, 1916 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllogloea tremelloidea Lowy, 1971 SPECIES
-=======
+# Phyllogloea tremelloidea Lowy, 1971 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lasmeniella vochysiae (Henn.) Petr. & Syd. SPECIES
-=======
+# Lasmeniella vochysiae (Henn.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

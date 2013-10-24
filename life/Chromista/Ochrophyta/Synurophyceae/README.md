@@ -1,5 +1,4 @@
-Synurophyceae CLASS
-=======
+# Synurophyceae CLASS
 
 #### Status
 ACCEPTED

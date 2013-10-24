@@ -1,5 +1,4 @@
-Malbranchea albolutea Sigler & J.W. Carmich., 1976 SPECIES
-=======
+# Malbranchea albolutea Sigler & J.W. Carmich., 1976 SPECIES
 
 #### Status
 ACCEPTED

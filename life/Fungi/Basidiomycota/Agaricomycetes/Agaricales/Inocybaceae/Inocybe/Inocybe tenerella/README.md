@@ -1,5 +1,4 @@
-Inocybe tenerella Kühner SPECIES
-=======
+# Inocybe tenerella Kühner SPECIES
 
 #### Status
 ACCEPTED

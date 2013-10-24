@@ -1,5 +1,4 @@
-Sphaeria anthracodes Fr. SPECIES
-=======
+# Sphaeria anthracodes Fr. SPECIES
 
 #### Status
 ACCEPTED

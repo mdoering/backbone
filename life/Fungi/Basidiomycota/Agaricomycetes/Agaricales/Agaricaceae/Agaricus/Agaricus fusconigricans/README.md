@@ -1,5 +1,4 @@
-Agaricus fusconigricans Berk. & Broome SPECIES
-=======
+# Agaricus fusconigricans Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

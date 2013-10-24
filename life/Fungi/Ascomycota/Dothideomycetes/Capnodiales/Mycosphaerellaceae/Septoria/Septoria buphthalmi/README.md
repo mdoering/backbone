@@ -1,5 +1,4 @@
-Septoria buphthalmi Allesch. SPECIES
-=======
+# Septoria buphthalmi Allesch. SPECIES
 
 #### Status
 ACCEPTED

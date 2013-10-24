@@ -1,5 +1,4 @@
-Uronychia paradoxa SPECIES
-=======
+# Uronychia paradoxa SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusarium phragmiticola Kirschst. SPECIES
-=======
+# Fusarium phragmiticola Kirschst. SPECIES
 
 #### Status
 ACCEPTED

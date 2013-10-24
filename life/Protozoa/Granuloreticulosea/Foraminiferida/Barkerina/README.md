@@ -1,5 +1,4 @@
-Barkerina Frizzell & Schwartz, 1950 GENUS
-=======
+# Barkerina Frizzell & Schwartz, 1950 GENUS
 
 #### Status
 ACCEPTED

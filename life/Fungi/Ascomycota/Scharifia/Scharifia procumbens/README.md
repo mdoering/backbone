@@ -1,5 +1,4 @@
-Scharifia procumbens Petr., 1955 SPECIES
-=======
+# Scharifia procumbens Petr., 1955 SPECIES
 
 #### Status
 ACCEPTED

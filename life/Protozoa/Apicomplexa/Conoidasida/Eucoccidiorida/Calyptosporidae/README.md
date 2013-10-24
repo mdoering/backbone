@@ -1,5 +1,4 @@
-Calyptosporidae Overstreet, Hawkins & Fournie, 1984 FAMILY
-=======
+# Calyptosporidae Overstreet, Hawkins & Fournie, 1984 FAMILY
 
 #### Status
 ACCEPTED

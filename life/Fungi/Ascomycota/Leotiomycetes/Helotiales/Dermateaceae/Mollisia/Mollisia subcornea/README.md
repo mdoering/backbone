@@ -1,5 +1,4 @@
-Mollisia subcornea W. Phillips & Harkn. SPECIES
-=======
+# Mollisia subcornea W. Phillips & Harkn. SPECIES
 
 #### Status
 ACCEPTED

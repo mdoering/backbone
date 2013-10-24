@@ -1,5 +1,4 @@
-Zymobacter Okamoto et al., 1995 GENUS
-=======
+# Zymobacter Okamoto et al., 1995 GENUS
 
 #### Status
 ACCEPTED

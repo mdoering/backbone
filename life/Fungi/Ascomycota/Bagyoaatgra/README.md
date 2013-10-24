@@ -1,5 +1,4 @@
-Bagyoaatgra GENUS
-=======
+# Bagyoaatgra GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeosporium aracearum Henn. SPECIES
-=======
+# Gloeosporium aracearum Henn. SPECIES
 
 #### Status
 ACCEPTED

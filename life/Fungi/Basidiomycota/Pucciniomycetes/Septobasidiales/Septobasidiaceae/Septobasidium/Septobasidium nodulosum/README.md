@@ -1,5 +1,4 @@
-Septobasidium nodulosum Pat. SPECIES
-=======
+# Septobasidium nodulosum Pat. SPECIES
 
 #### Status
 ACCEPTED

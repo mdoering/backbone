@@ -1,5 +1,4 @@
-Lagynophrya rigida Tucolesco, 1962 SPECIES
-=======
+# Lagynophrya rigida Tucolesco, 1962 SPECIES
 
 #### Status
 ACCEPTED

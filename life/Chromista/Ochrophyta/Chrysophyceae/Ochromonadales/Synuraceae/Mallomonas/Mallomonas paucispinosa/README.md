@@ -1,5 +1,4 @@
-Mallomonas paucispinosa W. Conrad SPECIES
-=======
+# Mallomonas paucispinosa W. Conrad SPECIES
 
 #### Status
 ACCEPTED

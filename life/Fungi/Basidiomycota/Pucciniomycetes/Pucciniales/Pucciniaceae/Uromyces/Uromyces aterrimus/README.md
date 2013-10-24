@@ -1,5 +1,4 @@
-Uromyces aterrimus Dietel & Holw. SPECIES
-=======
+# Uromyces aterrimus Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

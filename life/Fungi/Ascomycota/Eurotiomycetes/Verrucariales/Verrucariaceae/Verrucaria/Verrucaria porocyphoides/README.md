@@ -1,5 +1,4 @@
-Verrucaria porocyphoides Servít SPECIES
-=======
+# Verrucaria porocyphoides Servít SPECIES
 
 #### Status
 ACCEPTED

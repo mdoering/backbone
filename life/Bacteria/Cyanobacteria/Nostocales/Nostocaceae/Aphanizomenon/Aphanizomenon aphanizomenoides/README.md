@@ -1,8 +1,7 @@
-Anabaena aphanizomenoides Forti SPECIES
-=======
+# Aphanizomenon aphanizomenoides (Forti) Hortobágyi & Komárek SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

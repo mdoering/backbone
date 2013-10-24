@@ -1,5 +1,4 @@
-Trichodina myicola Uzmann & Stickney, 1954 SPECIES
-=======
+# Trichodina myicola Uzmann & Stickney, 1954 SPECIES
 
 #### Status
 ACCEPTED

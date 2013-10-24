@@ -1,5 +1,4 @@
-Parmelia pseudoramigera Gyeln. SPECIES
-=======
+# Parmelia pseudoramigera Gyeln. SPECIES
 
 #### Status
 ACCEPTED

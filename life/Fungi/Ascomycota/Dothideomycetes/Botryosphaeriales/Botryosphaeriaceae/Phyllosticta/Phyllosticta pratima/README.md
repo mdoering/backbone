@@ -1,5 +1,4 @@
-Phyllosticta pratima (S. Chowdhury) Khune SPECIES
-=======
+# Phyllosticta pratima (S. Chowdhury) Khune SPECIES
 
 #### Status
 ACCEPTED

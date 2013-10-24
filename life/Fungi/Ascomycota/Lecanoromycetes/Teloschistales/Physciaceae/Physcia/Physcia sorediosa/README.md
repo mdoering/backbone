@@ -1,8 +1,7 @@
-Physcia integrata var. sorediosa Vain. VARIETY
-=======
+# Physcia sorediosa (Vain.) Lynge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

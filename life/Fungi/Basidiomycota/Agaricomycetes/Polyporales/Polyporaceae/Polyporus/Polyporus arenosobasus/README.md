@@ -1,5 +1,4 @@
-Polyporus arenosobasus Lloyd SPECIES
-=======
+# Polyporus arenosobasus Lloyd SPECIES
 
 #### Status
 ACCEPTED

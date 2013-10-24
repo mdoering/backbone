@@ -1,5 +1,4 @@
-Trichotrema burchellii (Müll. Arg.) Makhija & Patw. SPECIES
-=======
+# Trichotrema burchellii (Müll. Arg.) Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

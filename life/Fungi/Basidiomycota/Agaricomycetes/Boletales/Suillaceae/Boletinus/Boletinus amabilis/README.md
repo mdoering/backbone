@@ -1,5 +1,4 @@
-Boletinus amabilis (Peck) Snell SPECIES
-=======
+# Boletinus amabilis (Peck) Snell SPECIES
 
 #### Status
 ACCEPTED

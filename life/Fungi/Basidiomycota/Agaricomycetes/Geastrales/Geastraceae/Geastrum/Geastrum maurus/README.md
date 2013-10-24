@@ -1,8 +1,7 @@
-Geaster maurus Massee SPECIES
-=======
+# Geastrum maurus Massee SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Geaster maurus Massee
+Geastrum maurus Massee
 
 ### Remarks
 null

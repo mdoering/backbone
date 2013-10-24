@@ -1,5 +1,4 @@
-Cercospora amygdali Riza SPECIES
-=======
+# Cercospora amygdali Riza SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Apertospathula Foissner, Agatha & Berger, 2002 GENUS
-=======
+# Apertospathula Foissner, Agatha & Berger, 2002 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella smilacifolii Bat. & Peres SPECIES
-=======
+# Mycosphaerella smilacifolii Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

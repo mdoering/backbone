@@ -1,5 +1,4 @@
-Discorbis australensis Earland & Heron-Allen SPECIES
-=======
+# Discorbis australensis Earland & Heron-Allen SPECIES
 
 #### Status
 ACCEPTED

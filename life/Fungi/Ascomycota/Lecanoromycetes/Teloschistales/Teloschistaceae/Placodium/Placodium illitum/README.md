@@ -1,5 +1,4 @@
-Placodium illitum C. Knight SPECIES
-=======
+# Placodium illitum C. Knight SPECIES
 
 #### Status
 ACCEPTED

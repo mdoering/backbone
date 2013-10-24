@@ -1,5 +1,4 @@
-Hygrocybe chilensis Singer SPECIES
-=======
+# Hygrocybe chilensis Singer SPECIES
 
 #### Status
 ACCEPTED

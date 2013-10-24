@@ -1,5 +1,4 @@
-Collybia subelavata W.G. Sm. SPECIES
-=======
+# Collybia subelavata W.G. Sm. SPECIES
 
 #### Status
 ACCEPTED

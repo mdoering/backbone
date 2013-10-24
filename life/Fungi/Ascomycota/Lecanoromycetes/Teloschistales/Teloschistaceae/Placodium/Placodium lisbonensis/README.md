@@ -1,5 +1,4 @@
-Placodium lisbonensis (Samp.) Klem. SPECIES
-=======
+# Placodium lisbonensis (Samp.) Klem. SPECIES
 
 #### Status
 ACCEPTED

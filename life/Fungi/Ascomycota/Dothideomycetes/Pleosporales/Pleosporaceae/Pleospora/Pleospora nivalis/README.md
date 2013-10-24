@@ -1,5 +1,4 @@
-Pleospora nivalis Niessl SPECIES
-=======
+# Pleospora nivalis Niessl SPECIES
 
 #### Status
 ACCEPTED

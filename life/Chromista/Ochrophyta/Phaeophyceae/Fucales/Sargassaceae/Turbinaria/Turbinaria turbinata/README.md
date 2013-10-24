@@ -1,5 +1,4 @@
-Turbinaria turbinata (Linnaeus) Kuntze SPECIES
-=======
+# Turbinaria turbinata (Linnaeus) Kuntze SPECIES
 
 #### Status
 ACCEPTED

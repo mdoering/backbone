@@ -1,5 +1,4 @@
-Aecidium selini Lindr. SPECIES
-=======
+# Aecidium selini Lindr. SPECIES
 
 #### Status
 ACCEPTED

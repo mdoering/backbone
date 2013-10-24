@@ -1,5 +1,4 @@
-Thermoanaerobacterium aotearoense Liu et al., 1996 SPECIES
-=======
+# Thermoanaerobacterium aotearoense Liu et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

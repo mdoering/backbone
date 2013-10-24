@@ -1,8 +1,7 @@
-Conradnema GENUS
-=======
+# Conradinema B.V. Skvortzov & M. Noda, 1974 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

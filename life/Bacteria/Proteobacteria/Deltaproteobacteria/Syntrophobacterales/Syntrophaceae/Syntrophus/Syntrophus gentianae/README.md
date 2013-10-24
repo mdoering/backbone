@@ -1,5 +1,4 @@
-Syntrophus gentianae Wallrabenstein et al., 1996 SPECIES
-=======
+# Syntrophus gentianae Wallrabenstein et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

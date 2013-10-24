@@ -1,5 +1,4 @@
-Peckia GENUS
-=======
+# Peckia GENUS
 
 #### Status
 ACCEPTED

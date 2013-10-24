@@ -1,5 +1,4 @@
-Granorhabdus S.I. Shumenko, 1970 GENUS
-=======
+# Granorhabdus S.I. Shumenko, 1970 GENUS
 
 #### Status
 ACCEPTED

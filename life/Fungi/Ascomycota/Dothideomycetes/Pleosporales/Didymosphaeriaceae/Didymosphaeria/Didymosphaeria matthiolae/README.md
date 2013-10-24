@@ -1,5 +1,4 @@
-Didymosphaeria matthiolae (Fuckel) Berl. & Voglino SPECIES
-=======
+# Didymosphaeria matthiolae (Fuckel) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

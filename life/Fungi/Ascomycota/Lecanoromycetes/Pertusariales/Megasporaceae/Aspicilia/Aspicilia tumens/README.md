@@ -1,5 +1,4 @@
-Aspicilia tumens Hue SPECIES
-=======
+# Aspicilia tumens Hue SPECIES
 
 #### Status
 ACCEPTED

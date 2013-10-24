@@ -1,5 +1,4 @@
-Dictyospyromma Haeckel, 1887 GENUS
-=======
+# Dictyospyromma Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

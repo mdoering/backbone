@@ -1,5 +1,4 @@
-Palaeosphaerium H. Górka, 1965 GENUS
-=======
+# Palaeosphaerium H. Górka, 1965 GENUS
 
 #### Status
 ACCEPTED

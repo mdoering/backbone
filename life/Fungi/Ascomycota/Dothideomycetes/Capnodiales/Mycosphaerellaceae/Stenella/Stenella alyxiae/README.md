@@ -1,5 +1,4 @@
-Stenella alyxiae H.Y. Yip SPECIES
-=======
+# Stenella alyxiae H.Y. Yip SPECIES
 
 #### Status
 ACCEPTED

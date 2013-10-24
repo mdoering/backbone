@@ -1,5 +1,4 @@
-Cercospora diospyri var. diospyri VARIETY
-=======
+# Cercospora diospyri (Thüm.) Cooke SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Arq. Mus. Nac. Rio de Janeiro 8: 23 (1945)
 
 #### Original name
-Cercospora diospyri var. diospyri
+Helminthosporium diospyri Thüm.
 
 ### Remarks
 null

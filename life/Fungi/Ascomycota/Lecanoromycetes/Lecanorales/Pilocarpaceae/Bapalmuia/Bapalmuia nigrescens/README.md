@@ -1,14 +1,13 @@
-Bacidia nigrescens (Müll. Arg.) Vain. SPECIES
-=======
+# Bapalmuia nigrescens (Müll. Arg.) M. Cáceres & Lücking SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Acad. Sci. fenn. , Ser. A 15: 66 (1921)
+Nova Hedwigia 70(1-2): 218 (2000)
 
 #### Original name
 null

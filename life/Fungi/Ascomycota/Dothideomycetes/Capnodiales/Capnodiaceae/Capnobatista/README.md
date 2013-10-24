@@ -1,5 +1,4 @@
-Capnobatista GENUS
-=======
+# Capnobatista GENUS
 
 #### Status
 ACCEPTED

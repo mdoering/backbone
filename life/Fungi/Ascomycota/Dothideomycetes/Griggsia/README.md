@@ -1,5 +1,4 @@
-Griggsia F. Stevens & Dalbey GENUS
-=======
+# Griggsia F. Stevens & Dalbey GENUS
 
 #### Status
 ACCEPTED

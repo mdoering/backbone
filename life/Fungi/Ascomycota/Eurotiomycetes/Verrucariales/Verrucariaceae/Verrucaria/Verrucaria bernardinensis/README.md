@@ -1,5 +1,4 @@
-Verrucaria bernardinensis Breuss SPECIES
-=======
+# Verrucaria bernardinensis Breuss SPECIES
 
 #### Status
 ACCEPTED

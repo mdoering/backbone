@@ -1,5 +1,4 @@
-Symphytocarpus Ing & Nann.-Bremek. GENUS
-=======
+# Symphytocarpus Ing & Nann.-Bremek. GENUS
 
 #### Status
 ACCEPTED

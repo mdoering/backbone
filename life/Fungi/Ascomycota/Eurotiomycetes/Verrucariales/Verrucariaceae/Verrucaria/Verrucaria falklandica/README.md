@@ -1,5 +1,4 @@
-Verrucaria falklandica Nyl. SPECIES
-=======
+# Verrucaria falklandica Nyl. SPECIES
 
 #### Status
 ACCEPTED

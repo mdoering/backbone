@@ -1,5 +1,4 @@
-Sommerfeltia arctica Flörke SPECIES
-=======
+# Sommerfeltia arctica Flörke SPECIES
 
 #### Status
 ACCEPTED

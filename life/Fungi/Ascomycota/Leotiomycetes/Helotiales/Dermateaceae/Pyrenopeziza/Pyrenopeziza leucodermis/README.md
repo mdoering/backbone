@@ -1,5 +1,4 @@
-Pyrenopeziza leucodermis Cash SPECIES
-=======
+# Pyrenopeziza leucodermis Cash SPECIES
 
 #### Status
 ACCEPTED

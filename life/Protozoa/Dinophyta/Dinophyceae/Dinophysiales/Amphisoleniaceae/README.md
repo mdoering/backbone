@@ -1,5 +1,4 @@
-Amphisoleniaceae Lindemann, 1928 FAMILY
-=======
+# Amphisoleniaceae Lindemann, 1928 FAMILY
 
 #### Status
 ACCEPTED

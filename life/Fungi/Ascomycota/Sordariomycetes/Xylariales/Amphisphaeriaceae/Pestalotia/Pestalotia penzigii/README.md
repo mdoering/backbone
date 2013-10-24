@@ -1,5 +1,4 @@
-Pestalotia penzigii Boyer & Jacz. SPECIES
-=======
+# Pestalotia penzigii Boyer & Jacz. SPECIES
 
 #### Status
 ACCEPTED

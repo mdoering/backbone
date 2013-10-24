@@ -1,5 +1,4 @@
-Acarospora hellbomii H. Magn. SPECIES
-=======
+# Acarospora hellbomii H. Magn. SPECIES
 
 #### Status
 ACCEPTED

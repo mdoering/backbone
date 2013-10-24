@@ -1,5 +1,4 @@
-Cortinarius fusiclavus E. Horak SPECIES
-=======
+# Cortinarius fusiclavus E. Horak SPECIES
 
 #### Status
 ACCEPTED

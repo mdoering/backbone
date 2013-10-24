@@ -1,5 +1,4 @@
-Irenopsis oreocnidae Hansf. SPECIES
-=======
+# Irenopsis oreocnidae Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Byssochlamys nivea var. nivea VARIETY
-=======
+# Byssochlamys nivea Westling, 1909 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Svensk bot. Tidskr. 3: 134 (1909)
 
 #### Original name
-Byssochlamys nivea var. nivea
+Byssochlamys nivea Westling, 1909
 
 ### Remarks
 null

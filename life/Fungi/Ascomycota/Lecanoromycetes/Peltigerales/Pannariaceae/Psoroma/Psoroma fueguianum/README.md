@@ -1,5 +1,4 @@
-Psoroma fueguianum Scutari & Calvelo SPECIES
-=======
+# Psoroma fueguianum Scutari & Calvelo SPECIES
 
 #### Status
 ACCEPTED

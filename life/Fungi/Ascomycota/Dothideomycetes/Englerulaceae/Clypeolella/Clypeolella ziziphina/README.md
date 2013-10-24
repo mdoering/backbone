@@ -1,17 +1,16 @@
-Clypeolella zizyphina Thaung SPECIES
-=======
+# Clypeolella ziziphina Thaung SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 63(3): 622 (1974)
 
 #### Original name
-Clypeolella zizyphina Thaung
+Clypeolella ziziphina Thaung
 
 ### Remarks
 null

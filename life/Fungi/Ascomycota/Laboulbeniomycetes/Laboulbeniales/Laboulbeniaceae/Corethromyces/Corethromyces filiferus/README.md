@@ -1,5 +1,4 @@
-Corethromyces filiferus Thaxt. SPECIES
-=======
+# Corethromyces filiferus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

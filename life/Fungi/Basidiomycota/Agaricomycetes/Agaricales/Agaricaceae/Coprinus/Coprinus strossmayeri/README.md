@@ -1,17 +1,16 @@
-Coprinus strossmayeri var. strossmayeri VARIETY
-=======
+# Coprinus strossmayeri Schulzer SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
 null
 
 #### Original name
-null
+Coprinus strossmayeri Schulzer
 
 ### Remarks
 null

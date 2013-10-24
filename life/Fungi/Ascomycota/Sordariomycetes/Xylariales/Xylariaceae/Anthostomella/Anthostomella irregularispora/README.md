@@ -1,5 +1,4 @@
-Anthostomella irregularispora K.D. Hyde, 1996 SPECIES
-=======
+# Anthostomella irregularispora K.D. Hyde, 1996 SPECIES
 
 #### Status
 ACCEPTED

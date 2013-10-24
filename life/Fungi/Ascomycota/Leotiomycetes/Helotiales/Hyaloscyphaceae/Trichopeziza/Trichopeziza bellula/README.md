@@ -1,5 +1,4 @@
-Trichopeziza bellula (P. Karst.) Sacc. SPECIES
-=======
+# Trichopeziza bellula (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

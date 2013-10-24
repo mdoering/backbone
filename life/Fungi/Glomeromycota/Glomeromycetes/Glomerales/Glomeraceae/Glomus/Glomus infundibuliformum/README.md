@@ -1,5 +1,4 @@
-Glomus infundibuliformum Hu SPECIES
-=======
+# Glomus infundibuliformum Hu SPECIES
 
 #### Status
 ACCEPTED

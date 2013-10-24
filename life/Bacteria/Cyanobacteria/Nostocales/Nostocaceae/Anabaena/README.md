@@ -1,14 +1,13 @@
-Belonia Carmichael in Hookers, 1833 GENUS
-=======
+# Anabaena Bory de St.-Vincent ex Bornet & Flahault, 1886 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Brit. Fl. 2: 379.
+Ann. Sci. Nat. Bot. , ser. 7, 7: 224.
 
 #### Original name
 null

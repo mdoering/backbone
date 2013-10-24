@@ -1,5 +1,4 @@
-Cercospora selini-gmelini (Sacc. & Scalia) Chupp SPECIES
-=======
+# Cercospora selini-gmelini (Sacc. & Scalia) Chupp SPECIES
 
 #### Status
 ACCEPTED

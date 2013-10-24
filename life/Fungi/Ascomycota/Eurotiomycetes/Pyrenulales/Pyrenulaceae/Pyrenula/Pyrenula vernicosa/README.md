@@ -1,5 +1,4 @@
-Pyrenula vernicosa (Kremp.) Müll. Arg. SPECIES
-=======
+# Pyrenula vernicosa (Kremp.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Margarinomyces atrovirens J.F.H. Beyma, 1935 SPECIES
-=======
+# Phialophora atrovirens (J.F.H. Beyma) Schol-Schwarz, 1970 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Zentbl. Bakt. ParasitKde, Abt. II 91: 348 (1935)
+Persoonia 6(1): 65 (1970)
 
 #### Original name
 Margarinomyces atrovirens J.F.H. Beyma, 1935

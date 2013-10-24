@@ -1,5 +1,4 @@
-Peritromus tetramacronucleatus Ozaki & Yagiu, 1941 SPECIES
-=======
+# Peritromus tetramacronucleatus Ozaki & Yagiu, 1941 SPECIES
 
 #### Status
 ACCEPTED

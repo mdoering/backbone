@@ -1,5 +1,4 @@
-Azotobacter beijerinckii Lipman, 1904 (Approved Lists, 1980) SPECIES
-=======
+# Azotobacter beijerinckii Lipman, 1904 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

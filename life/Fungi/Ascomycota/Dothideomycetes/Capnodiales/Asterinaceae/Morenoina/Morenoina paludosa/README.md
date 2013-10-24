@@ -1,5 +1,4 @@
-Morenoina paludosa J.P. Ellis, 1980 SPECIES
-=======
+# Morenoina paludosa J.P. Ellis, 1980 SPECIES
 
 #### Status
 ACCEPTED

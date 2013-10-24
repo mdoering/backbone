@@ -1,5 +1,4 @@
-Gyromitra antarctica Rehm SPECIES
-=======
+# Gyromitra antarctica Rehm SPECIES
 
 #### Status
 ACCEPTED

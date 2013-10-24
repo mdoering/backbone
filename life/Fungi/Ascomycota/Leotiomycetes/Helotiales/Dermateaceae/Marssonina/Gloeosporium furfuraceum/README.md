@@ -1,5 +1,4 @@
-Gloeosporium furfuraceum Rolland SPECIES
-=======
+# Gloeosporium furfuraceum Rolland SPECIES
 
 #### Status
 ACCEPTED

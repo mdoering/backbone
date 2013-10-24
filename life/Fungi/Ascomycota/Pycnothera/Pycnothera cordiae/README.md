@@ -1,5 +1,4 @@
-Pycnothera cordiae G.P. Agarwal & N.D. Sharma, 1974 SPECIES
-=======
+# Pycnothera cordiae G.P. Agarwal & N.D. Sharma, 1974 SPECIES
 
 #### Status
 ACCEPTED

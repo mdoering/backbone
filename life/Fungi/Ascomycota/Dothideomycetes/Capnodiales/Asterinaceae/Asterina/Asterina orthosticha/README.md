@@ -1,5 +1,4 @@
-Asterina orthosticha Syd., 1930 SPECIES
-=======
+# Asterina orthosticha Syd., 1930 SPECIES
 
 #### Status
 ACCEPTED

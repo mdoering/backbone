@@ -1,5 +1,4 @@
-Lecidea rinodinea SPECIES
-=======
+# Lecidea rinodinea SPECIES
 
 #### Status
 ACCEPTED

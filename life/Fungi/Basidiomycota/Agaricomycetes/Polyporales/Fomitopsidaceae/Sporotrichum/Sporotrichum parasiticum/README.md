@@ -1,5 +1,4 @@
-Sporotrichum parasiticum Peck SPECIES
-=======
+# Sporotrichum parasiticum Peck SPECIES
 
 #### Status
 ACCEPTED

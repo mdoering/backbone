@@ -1,5 +1,4 @@
-Trichophila myrmecophagae Oudem., 1889 SPECIES
-=======
+# Trichophila myrmecophagae Oudem., 1889 SPECIES
 
 #### Status
 ACCEPTED

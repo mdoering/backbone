@@ -1,5 +1,4 @@
-Agaricus malleipes Lasch SPECIES
-=======
+# Agaricus malleipes Lasch SPECIES
 
 #### Status
 ACCEPTED

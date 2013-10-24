@@ -1,5 +1,4 @@
-Rhynchostoma exasperans P. Karst. SPECIES
-=======
+# Rhynchostoma exasperans P. Karst. SPECIES
 
 #### Status
 ACCEPTED

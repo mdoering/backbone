@@ -1,5 +1,4 @@
-Asteroma menispermi Allesch. SPECIES
-=======
+# Asteroma menispermi Allesch. SPECIES
 
 #### Status
 ACCEPTED

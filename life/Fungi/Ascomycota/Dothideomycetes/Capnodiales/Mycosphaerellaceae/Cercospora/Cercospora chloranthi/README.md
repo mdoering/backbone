@@ -1,5 +1,4 @@
-Cercospora chloranthi Togashi & Katsuki SPECIES
-=======
+# Cercospora chloranthi Togashi & Katsuki SPECIES
 
 #### Status
 ACCEPTED

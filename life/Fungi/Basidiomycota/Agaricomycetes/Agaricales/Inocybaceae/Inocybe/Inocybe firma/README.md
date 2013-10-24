@@ -1,5 +1,4 @@
-Inocybe firma (Pers.) P. Karst. SPECIES
-=======
+# Inocybe firma (Pers.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

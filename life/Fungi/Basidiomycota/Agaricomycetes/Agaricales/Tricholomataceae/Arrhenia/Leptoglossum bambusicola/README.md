@@ -1,5 +1,4 @@
-Leptoglossum bambusicola Corner SPECIES
-=======
+# Leptoglossum bambusicola Corner SPECIES
 
 #### Status
 ACCEPTED

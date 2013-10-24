@@ -1,5 +1,4 @@
-Catolechia tabacina Müll. Arg. SPECIES
-=======
+# Catolechia tabacina Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

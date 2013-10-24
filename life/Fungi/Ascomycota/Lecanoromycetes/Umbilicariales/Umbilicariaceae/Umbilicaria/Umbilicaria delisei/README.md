@@ -1,5 +1,4 @@
-Umbilicaria delisei (Nyl.) Kremp. SPECIES
-=======
+# Umbilicaria delisei (Nyl.) Kremp. SPECIES
 
 #### Status
 ACCEPTED

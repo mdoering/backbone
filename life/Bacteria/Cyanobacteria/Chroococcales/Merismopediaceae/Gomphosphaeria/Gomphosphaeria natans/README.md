@@ -1,5 +1,4 @@
-Gomphosphaeria natans Komárek & Hindák SPECIES
-=======
+# Gomphosphaeria natans Komárek & Hindák SPECIES
 
 #### Status
 ACCEPTED

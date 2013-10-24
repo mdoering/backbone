@@ -1,5 +1,4 @@
-Lophiostoma hysterinum (Wallr.) Sacc. SPECIES
-=======
+# Lophiostoma hysterinum (Wallr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tilletia flactans Lagerh. SPECIES
-=======
+# Tilletia flactans Lagerh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alaria lanceolata SPECIES
-=======
+# Alaria lanceolata SPECIES
 
 #### Status
 ACCEPTED

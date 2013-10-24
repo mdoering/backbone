@@ -1,5 +1,4 @@
-Aspergillus chungii Y.K. Shih SPECIES
-=======
+# Aspergillus chungii Y.K. Shih SPECIES
 
 #### Status
 ACCEPTED

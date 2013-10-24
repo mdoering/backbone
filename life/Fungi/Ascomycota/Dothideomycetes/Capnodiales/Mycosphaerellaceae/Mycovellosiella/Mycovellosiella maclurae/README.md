@@ -1,5 +1,4 @@
-Mycovellosiella maclurae (Ellis & Langl.) Deighton SPECIES
-=======
+# Mycovellosiella maclurae (Ellis & Langl.) Deighton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina jambolanae A.K. Kar & Maity SPECIES
-=======
+# Asterina jambolanae A.K. Kar & Maity SPECIES
 
 #### Status
 ACCEPTED

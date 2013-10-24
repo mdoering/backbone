@@ -1,5 +1,4 @@
-Uredo pterygospora J.Y. Zhuang SPECIES
-=======
+# Uredo pterygospora J.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

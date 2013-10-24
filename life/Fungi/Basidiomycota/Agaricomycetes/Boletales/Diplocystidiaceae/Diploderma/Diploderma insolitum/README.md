@@ -1,5 +1,4 @@
-Diploderma insolitum Lloyd SPECIES
-=======
+# Diploderma insolitum Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Crocynia elegantula Hue SPECIES
-=======
+# Crocynia elegantula Hue SPECIES
 
 #### Status
 ACCEPTED

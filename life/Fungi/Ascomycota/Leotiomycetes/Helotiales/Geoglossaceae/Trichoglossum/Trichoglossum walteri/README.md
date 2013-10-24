@@ -1,17 +1,16 @@
-Trichoglossum walteri var. walteri VARIETY
-=======
+# Trichoglossum walteri (Berk.) E.J. Durand, 1908 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Annls mycol. 6: 440 (1908)
 
 #### Original name
-Trichoglossum walteri var. walteri
+Geoglossum walteri Berk., 1875
 
 ### Remarks
 null

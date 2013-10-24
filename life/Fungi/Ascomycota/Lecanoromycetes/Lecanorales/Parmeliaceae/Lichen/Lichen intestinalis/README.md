@@ -1,5 +1,4 @@
-Lichen intestinalis Sm. SPECIES
-=======
+# Lichen intestinalis Sm. SPECIES
 
 #### Status
 ACCEPTED

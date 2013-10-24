@@ -1,5 +1,4 @@
-Placodium cinnamomeum A.L. Sm. SPECIES
-=======
+# Placodium cinnamomeum A.L. Sm. SPECIES
 
 #### Status
 ACCEPTED

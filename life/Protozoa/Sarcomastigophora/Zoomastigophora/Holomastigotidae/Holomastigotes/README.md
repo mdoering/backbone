@@ -1,5 +1,4 @@
-Holomastigotes Grassi, 1892 GENUS
-=======
+# Holomastigotes Grassi, 1892 GENUS
 
 #### Status
 ACCEPTED

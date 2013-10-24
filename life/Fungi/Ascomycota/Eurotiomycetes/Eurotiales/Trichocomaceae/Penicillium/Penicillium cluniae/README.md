@@ -1,5 +1,4 @@
-Penicillium cluniae Quintan. SPECIES
-=======
+# Penicillium cluniae Quintan. SPECIES
 
 #### Status
 ACCEPTED

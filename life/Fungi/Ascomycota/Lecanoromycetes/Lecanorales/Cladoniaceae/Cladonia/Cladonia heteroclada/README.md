@@ -1,5 +1,4 @@
-Cladonia heteroclada Asahina SPECIES
-=======
+# Cladonia heteroclada Asahina SPECIES
 
 #### Status
 ACCEPTED

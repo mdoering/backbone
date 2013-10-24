@@ -1,5 +1,4 @@
-Rhizopogon virens Krombh. SPECIES
-=======
+# Rhizopogon virens Krombh. SPECIES
 
 #### Status
 ACCEPTED

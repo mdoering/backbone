@@ -1,5 +1,4 @@
-Haptoglossa heterospora Drechsler, 1940 SPECIES
-=======
+# Haptoglossa heterospora Drechsler, 1940 SPECIES
 
 #### Status
 ACCEPTED

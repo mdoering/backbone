@@ -1,5 +1,4 @@
-Cortinarius melleus M.M. Moser & E. Horak SPECIES
-=======
+# Cortinarius melleus M.M. Moser & E. Horak SPECIES
 
 #### Status
 ACCEPTED

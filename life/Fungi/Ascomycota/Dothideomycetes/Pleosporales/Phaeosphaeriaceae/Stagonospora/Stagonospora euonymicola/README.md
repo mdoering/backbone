@@ -1,5 +1,4 @@
-Stagonospora euonymicola Ts. Kobay. & H. Horie SPECIES
-=======
+# Stagonospora euonymicola Ts. Kobay. & H. Horie SPECIES
 
 #### Status
 ACCEPTED

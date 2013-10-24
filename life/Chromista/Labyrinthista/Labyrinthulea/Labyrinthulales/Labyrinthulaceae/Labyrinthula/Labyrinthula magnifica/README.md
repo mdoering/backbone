@@ -1,5 +1,4 @@
-Labyrinthula magnifica (Valkanov) L.S. Olive SPECIES
-=======
+# Labyrinthula magnifica (Valkanov) L.S. Olive SPECIES
 
 #### Status
 ACCEPTED

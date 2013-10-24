@@ -1,5 +1,4 @@
-Hebelomatis elatum (Batsch) Locq. SPECIES
-=======
+# Hebelomatis elatum (Batsch) Locq. SPECIES
 
 #### Status
 ACCEPTED

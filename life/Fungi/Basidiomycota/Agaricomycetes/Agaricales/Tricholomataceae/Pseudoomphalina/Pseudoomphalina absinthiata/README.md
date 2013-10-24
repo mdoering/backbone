@@ -1,5 +1,4 @@
-Pseudoomphalina absinthiata (Lasch) Knudsen SPECIES
-=======
+# Pseudoomphalina absinthiata (Lasch) Knudsen SPECIES
 
 #### Status
 ACCEPTED

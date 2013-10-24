@@ -1,5 +1,4 @@
-Megalospora porphyritis (Tuck.) R.C. Harris SPECIES
-=======
+# Megalospora porphyritis (Tuck.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

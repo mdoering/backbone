@@ -1,5 +1,4 @@
-Mycena albidorosea Robich SPECIES
-=======
+# Mycena albidorosea Robich SPECIES
 
 #### Status
 ACCEPTED

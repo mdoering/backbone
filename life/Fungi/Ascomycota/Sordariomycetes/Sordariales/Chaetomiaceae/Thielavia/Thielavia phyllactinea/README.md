@@ -1,5 +1,4 @@
-Thielavia phyllactinea (Bainier) Malloch & Cain SPECIES
-=======
+# Thielavia phyllactinea (Bainier) Malloch & Cain SPECIES
 
 #### Status
 ACCEPTED

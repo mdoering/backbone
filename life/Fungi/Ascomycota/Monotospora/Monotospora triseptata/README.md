@@ -1,5 +1,4 @@
-Monotospora triseptata Peck SPECIES
-=======
+# Monotospora triseptata Peck SPECIES
 
 #### Status
 ACCEPTED

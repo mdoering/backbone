@@ -1,5 +1,4 @@
-Paraeuplotidium prosaltans (Tuffrau, 1985) Lei, Choi & Xu, 2002 SPECIES
-=======
+# Paraeuplotidium prosaltans (Tuffrau, 1985) Lei, Choi & Xu, 2002 SPECIES
 
 #### Status
 ACCEPTED

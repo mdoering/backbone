@@ -1,17 +1,16 @@
-Anaptychia burneti C.W. Dodge SPECIES
-=======
+# Anaptychia burnetiae C.W. Dodge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Beih. Nova Hedwigia 38: 206 (1971)
 
 #### Original name
-Anaptychia burneti C.W. Dodge
+Anaptychia burnetiae C.W. Dodge
 
 ### Remarks
 null

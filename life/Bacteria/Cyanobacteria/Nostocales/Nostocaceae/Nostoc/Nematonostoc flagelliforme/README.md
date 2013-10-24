@@ -1,5 +1,4 @@
-Nematonostoc flagelliforme Elenkin SPECIES
-=======
+# Nematonostoc flagelliforme Elenkin SPECIES
 
 #### Status
 ACCEPTED

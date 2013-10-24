@@ -1,5 +1,4 @@
-Macmillanina nyssae (Cooke & Ellis) Kuntze SPECIES
-=======
+# Macmillanina nyssae (Cooke & Ellis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

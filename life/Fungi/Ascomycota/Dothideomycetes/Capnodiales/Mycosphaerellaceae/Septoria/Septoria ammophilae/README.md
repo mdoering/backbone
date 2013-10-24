@@ -1,5 +1,4 @@
-Septoria ammophilae Syd. & P. Syd., 1900 SPECIES
-=======
+# Septoria ammophilae Syd. & P. Syd., 1900 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanactis varians Nyl. SPECIES
-=======
+# Lecanactis varians Nyl. SPECIES
 
 #### Status
 ACCEPTED

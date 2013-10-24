@@ -1,5 +1,4 @@
-Leprocollema obscurius (Nyl.) C.W. Dodge SPECIES
-=======
+# Leprocollema obscurius (Nyl.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nowakowskiella macrospora Karling, 1945 SPECIES
-=======
+# Nowakowskiella macrospora Karling, 1945 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heterosporium circinale Klotzsch SPECIES
-=======
+# Heterosporium circinale Klotzsch SPECIES
 
 #### Status
 ACCEPTED

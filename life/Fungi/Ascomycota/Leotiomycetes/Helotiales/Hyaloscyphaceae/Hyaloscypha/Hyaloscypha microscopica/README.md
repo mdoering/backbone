@@ -1,5 +1,4 @@
-Hyaloscypha microscopica Velen. SPECIES
-=======
+# Hyaloscypha microscopica Velen. SPECIES
 
 #### Status
 ACCEPTED

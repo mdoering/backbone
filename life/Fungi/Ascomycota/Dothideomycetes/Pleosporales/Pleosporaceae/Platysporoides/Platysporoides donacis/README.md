@@ -1,14 +1,13 @@
-Pleospora donacis (Berl.) E. Müll., 1951 SPECIES
-=======
+# Platysporoides donacis (Berl.) Shoemaker & C.E. Babc., 1992 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 5: 293 (1951)
+Can. J. Bot. 70(8): 1653 (1992)
 
 #### Original name
 Clathrospora donacis Berl., 1888

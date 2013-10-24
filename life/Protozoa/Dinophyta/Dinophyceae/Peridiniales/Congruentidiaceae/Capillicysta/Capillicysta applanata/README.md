@@ -1,5 +1,4 @@
-Capillicysta applanata (M. R. Bradford) K. Matsuoka & J. P. Bujak SPECIES
-=======
+# Capillicysta applanata (M. R. Bradford) K. Matsuoka & J. P. Bujak SPECIES
 
 #### Status
 ACCEPTED

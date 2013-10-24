@@ -1,5 +1,4 @@
-Psychromonas japonica Miyazaki, Nogi, Fujiwara & Horikoshi, 2008 SPECIES
-=======
+# Psychromonas japonica Miyazaki, Nogi, Fujiwara & Horikoshi, 2008 SPECIES
 
 #### Status
 ACCEPTED

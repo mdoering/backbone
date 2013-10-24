@@ -1,5 +1,4 @@
-Phakopsora vernoniae Jørst. SPECIES
-=======
+# Phakopsora vernoniae Jørst. SPECIES
 
 #### Status
 ACCEPTED

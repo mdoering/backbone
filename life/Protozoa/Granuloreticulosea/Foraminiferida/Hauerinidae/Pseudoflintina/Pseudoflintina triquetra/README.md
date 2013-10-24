@@ -1,8 +1,7 @@
-Miliolina triquetra Brady, 1879 SPECIES
-=======
+# Pseudoflintina triquetra (Brady, 1879) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

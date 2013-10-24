@@ -1,14 +1,13 @@
-Thecaphora mauritianum (Syd.) L. Ling, 1950 SPECIES
-=======
+# Moreaua mauritiana (Syd.) Vánky, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 4: 80 (1950)
+Mycotaxon 74(2): 352 (2000)
 
 #### Original name
 Tolyposporium mauritianum Syd., 1939

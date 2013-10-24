@@ -1,5 +1,4 @@
-Stigmatomyces pauperculus Thaxt. SPECIES
-=======
+# Stigmatomyces pauperculus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

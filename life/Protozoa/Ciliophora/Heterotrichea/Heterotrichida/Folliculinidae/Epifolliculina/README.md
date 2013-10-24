@@ -1,5 +1,4 @@
-Epifolliculina Hadzi, 1951 GENUS
-=======
+# Epifolliculina Hadzi, 1951 GENUS
 
 #### Status
 ACCEPTED

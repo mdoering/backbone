@@ -1,8 +1,7 @@
-Weiseria laurenti J.M. Doby & F. Saguez SPECIES
-=======
+# Weiseria laurentii J.M. Doby & F. Saguez SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Weiseria laurenti J.M. Doby & F. Saguez
+Weiseria laurentii J.M. Doby & F. Saguez
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Ascochyta helosciadii (Fautrey & Lambotte) Petr. SPECIES
-=======
+# Ascochyta helosciadii (Fautrey & Lambotte) Petr. SPECIES
 
 #### Status
 ACCEPTED

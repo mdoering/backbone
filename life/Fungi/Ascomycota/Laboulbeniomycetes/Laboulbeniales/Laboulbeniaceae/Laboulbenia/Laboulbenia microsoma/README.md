@@ -1,5 +1,4 @@
-Laboulbenia microsoma Thaxt. SPECIES
-=======
+# Laboulbenia microsoma Thaxt. SPECIES
 
 #### Status
 ACCEPTED

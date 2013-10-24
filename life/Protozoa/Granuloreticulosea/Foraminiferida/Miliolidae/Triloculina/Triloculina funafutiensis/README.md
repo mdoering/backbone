@@ -1,8 +1,7 @@
-Miliolina funafutiensis Chapman, 1901 SPECIES
-=======
+# Triloculina funafutiensis (Chapman, 1901) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

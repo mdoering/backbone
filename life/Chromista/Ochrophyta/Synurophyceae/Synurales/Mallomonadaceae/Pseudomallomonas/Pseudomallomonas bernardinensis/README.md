@@ -1,5 +1,4 @@
-Pseudomallomonas bernardinensis Chodat SPECIES
-=======
+# Pseudomallomonas bernardinensis Chodat SPECIES
 
 #### Status
 ACCEPTED

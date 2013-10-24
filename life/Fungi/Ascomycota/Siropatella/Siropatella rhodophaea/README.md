@@ -1,5 +1,4 @@
-Siropatella rhodophaea Höhn. SPECIES
-=======
+# Siropatella rhodophaea Höhn. SPECIES
 
 #### Status
 ACCEPTED

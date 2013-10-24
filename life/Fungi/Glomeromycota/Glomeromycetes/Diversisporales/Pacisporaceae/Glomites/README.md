@@ -1,5 +1,4 @@
-Glomites T.N. Taylor, W. Remy, Hass & Kerp GENUS
-=======
+# Glomites T.N. Taylor, W. Remy, Hass & Kerp GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pholiotina freindlingiae (Singer) Singer SPECIES
-=======
+# Pholiotina freindlingiae (Singer) Singer SPECIES
 
 #### Status
 ACCEPTED

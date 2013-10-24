@@ -1,5 +1,4 @@
-Psorella spruceana (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Psorella spruceana (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pachycladina Marvanová, 1987 GENUS
-=======
+# Pachycladina Marvanová, 1987 GENUS
 
 #### Status
 ACCEPTED

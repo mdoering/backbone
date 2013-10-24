@@ -1,5 +1,4 @@
-Alysidium inaequale (Rivolta) Kuntze SPECIES
-=======
+# Alysidium inaequale (Rivolta) Kuntze SPECIES
 
 #### Status
 ACCEPTED

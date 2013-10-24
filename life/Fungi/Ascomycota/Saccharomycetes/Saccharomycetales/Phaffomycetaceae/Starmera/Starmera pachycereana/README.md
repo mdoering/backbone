@@ -1,5 +1,4 @@
-Starmera pachycereana (Starmer, Phaff, M. Miranda & M.W. Mill.) Kurtzman, Robnett & Basehoar-Powers, 2008 SPECIES
-=======
+# Starmera pachycereana (Starmer, Phaff, M. Miranda & M.W. Mill.) Kurtzman, Robnett & Basehoar-Powers, 2008 SPECIES
 
 #### Status
 ACCEPTED

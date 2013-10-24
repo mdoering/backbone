@@ -1,5 +1,4 @@
-Calpionella longa SPECIES
-=======
+# Calpionella longa SPECIES
 
 #### Status
 ACCEPTED

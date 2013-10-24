@@ -1,5 +1,4 @@
-Vibrio pommerensis Jores, Appel & Lewin, 2003 SPECIES
-=======
+# Vibrio pommerensis Jores, Appel & Lewin, 2003 SPECIES
 
 #### Status
 ACCEPTED

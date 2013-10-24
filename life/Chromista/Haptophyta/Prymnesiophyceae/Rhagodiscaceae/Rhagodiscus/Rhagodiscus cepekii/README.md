@@ -1,5 +1,4 @@
-Rhagodiscus cepekii SPECIES
-=======
+# Rhagodiscus cepekii SPECIES
 
 #### Status
 ACCEPTED

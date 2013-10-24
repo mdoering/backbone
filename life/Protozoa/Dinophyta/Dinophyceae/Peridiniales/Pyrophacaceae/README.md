@@ -1,5 +1,4 @@
-Pyrophacaceae Lindemann, 1928 FAMILY
-=======
+# Pyrophacaceae Lindemann, 1928 FAMILY
 
 #### Status
 ACCEPTED

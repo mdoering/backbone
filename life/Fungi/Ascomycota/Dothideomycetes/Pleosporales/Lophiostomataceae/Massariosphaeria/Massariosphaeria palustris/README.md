@@ -1,14 +1,13 @@
-Leptosphaeria palustris E. Müll., 1950 SPECIES
-=======
+# Massariosphaeria palustris (E. Müll.) Leuchtm., 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 4: 207 (1950)
+Sydowia 37: 171 (1984)
 
 #### Original name
 Leptosphaeria palustris E. Müll., 1950

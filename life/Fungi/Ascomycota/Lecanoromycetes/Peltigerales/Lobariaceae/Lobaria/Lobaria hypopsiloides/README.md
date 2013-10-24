@@ -1,5 +1,4 @@
-Lobaria hypopsiloides Trevis. SPECIES
-=======
+# Lobaria hypopsiloides Trevis. SPECIES
 
 #### Status
 ACCEPTED

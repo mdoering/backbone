@@ -1,5 +1,4 @@
-Asterina scolopiae Doidge SPECIES
-=======
+# Asterina scolopiae Doidge SPECIES
 
 #### Status
 ACCEPTED

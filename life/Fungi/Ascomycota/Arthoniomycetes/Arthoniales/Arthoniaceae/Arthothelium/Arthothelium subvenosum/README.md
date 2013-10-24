@@ -1,5 +1,4 @@
-Arthothelium subvenosum (Leight.) Zahlbr. SPECIES
-=======
+# Arthothelium subvenosum (Leight.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

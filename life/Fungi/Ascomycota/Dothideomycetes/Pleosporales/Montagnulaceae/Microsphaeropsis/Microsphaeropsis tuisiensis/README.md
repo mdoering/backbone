@@ -1,5 +1,4 @@
-Microsphaeropsis tuisiensis (Speg.) Aa SPECIES
-=======
+# Microsphaeropsis tuisiensis (Speg.) Aa SPECIES
 
 #### Status
 ACCEPTED

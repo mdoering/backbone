@@ -1,5 +1,4 @@
-Phyllosticta laserpitii Sacc. SPECIES
-=======
+# Phyllosticta laserpitii Sacc. SPECIES
 
 #### Status
 ACCEPTED

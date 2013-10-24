@@ -1,5 +1,4 @@
-Polystomella rubiacearum G. Arnaud SPECIES
-=======
+# Polystomella rubiacearum G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coprinus plumbeus Peck SPECIES
-=======
+# Coprinus plumbeus Peck SPECIES
 
 #### Status
 ACCEPTED

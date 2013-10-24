@@ -1,5 +1,4 @@
-Mainsia pterocarpi Thirum. SPECIES
-=======
+# Mainsia pterocarpi Thirum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vorticella umbilicola Dumas, 1930 SPECIES
-=======
+# Vorticella umbilicola Dumas, 1930 SPECIES
 
 #### Status
 ACCEPTED

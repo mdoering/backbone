@@ -1,5 +1,4 @@
-Diplodinula osteospora (Tassi) Tassi SPECIES
-=======
+# Diplodinula osteospora (Tassi) Tassi SPECIES
 
 #### Status
 ACCEPTED

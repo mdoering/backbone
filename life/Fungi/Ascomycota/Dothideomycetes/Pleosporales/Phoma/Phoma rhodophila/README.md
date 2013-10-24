@@ -1,5 +1,4 @@
-Phoma rhodophila Sacc. SPECIES
-=======
+# Phoma rhodophila Sacc. SPECIES
 
 #### Status
 ACCEPTED

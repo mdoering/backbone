@@ -1,5 +1,4 @@
-Thelopsis flaveola Arnold SPECIES
-=======
+# Thelopsis flaveola Arnold SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Allodus moreniana (Dudley & C.H. Thomps.) Orton SPECIES
-=======
+# Allodus moreniana (Dudley & C.H. Thomps.) Orton SPECIES
 
 #### Status
 ACCEPTED

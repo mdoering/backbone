@@ -1,5 +1,4 @@
-Biatorella extensa (Vain.) Räsänen SPECIES
-=======
+# Biatorella extensa (Vain.) Räsänen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Leptosphaeria hippophaes (Sollm.) Sacc., 1931 SPECIES
-=======
+# Lepteutypa hippophaes (Sollm.) Arx, 1970 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

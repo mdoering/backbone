@@ -1,5 +1,4 @@
-Phaeoseptoria japonica Hara SPECIES
-=======
+# Phaeoseptoria japonica Hara SPECIES
 
 #### Status
 ACCEPTED

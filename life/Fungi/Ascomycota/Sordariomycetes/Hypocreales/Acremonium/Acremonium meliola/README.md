@@ -1,5 +1,4 @@
-Acremonium meliola F. Stevens SPECIES
-=======
+# Acremonium meliola F. Stevens SPECIES
 
 #### Status
 ACCEPTED

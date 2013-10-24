@@ -1,5 +1,4 @@
-Agaricus glaucophyllus Lasch SPECIES
-=======
+# Agaricus glaucophyllus Lasch SPECIES
 
 #### Status
 ACCEPTED

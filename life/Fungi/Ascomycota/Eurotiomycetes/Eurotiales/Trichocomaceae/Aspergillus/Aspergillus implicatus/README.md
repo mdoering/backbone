@@ -1,5 +1,4 @@
-Aspergillus implicatus Persiani & Maggi, 1994 SPECIES
-=======
+# Aspergillus implicatus Persiani & Maggi, 1994 SPECIES
 
 #### Status
 ACCEPTED

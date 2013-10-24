@@ -1,17 +1,16 @@
-Uredo elephantopodis Henn. SPECIES
-=======
+# Uredo elephantopi Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hedwigia 35: 253 (1896)
 
 #### Original name
-Uredo elephantopodis Henn.
+Uredo elephantopi Henn.
 
 ### Remarks
 null

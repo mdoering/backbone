@@ -1,5 +1,4 @@
-Pseudocercospora naraveliae (A.K. Kar & M. Mandal) Deighton SPECIES
-=======
+# Pseudocercospora naraveliae (A.K. Kar & M. Mandal) Deighton SPECIES
 
 #### Status
 ACCEPTED

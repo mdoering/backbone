@@ -1,5 +1,4 @@
-Agaricus cinnamomeovirens J. Otto SPECIES
-=======
+# Agaricus cinnamomeovirens J. Otto SPECIES
 
 #### Status
 ACCEPTED

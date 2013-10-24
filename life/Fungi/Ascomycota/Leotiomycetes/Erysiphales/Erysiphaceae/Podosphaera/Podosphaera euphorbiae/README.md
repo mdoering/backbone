@@ -1,14 +1,13 @@
-Sphaerotheca euphorbiae (Castagne) E.S. Salmon, 1902 SPECIES
-=======
+# Podosphaera euphorbiae (Castagne) U. Braun & S. Takam., 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Torrey bot. Club 29: 95 (1902)
+Schlechtendalia 4: 28 (2000)
 
 #### Original name
 Botrytis euphorbiae Castagne, 1851

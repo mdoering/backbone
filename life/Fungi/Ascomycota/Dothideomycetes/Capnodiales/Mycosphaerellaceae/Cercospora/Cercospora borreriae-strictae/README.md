@@ -1,5 +1,4 @@
-Cercospora borreriae-strictae Bagyan., Jagad. & U. Braun SPECIES
-=======
+# Cercospora borreriae-strictae Bagyan., Jagad. & U. Braun SPECIES
 
 #### Status
 ACCEPTED

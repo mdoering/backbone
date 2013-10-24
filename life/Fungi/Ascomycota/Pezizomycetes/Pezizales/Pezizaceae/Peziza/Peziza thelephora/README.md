@@ -1,5 +1,4 @@
-Peziza thelephora Wallr. SPECIES
-=======
+# Peziza thelephora Wallr. SPECIES
 
 #### Status
 ACCEPTED

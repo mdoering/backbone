@@ -1,5 +1,4 @@
-Thaumatomastix bipartita Beech & Moestrup, 1986 SPECIES
-=======
+# Thaumatomastix bipartita Beech & Moestrup, 1986 SPECIES
 
 #### Status
 ACCEPTED

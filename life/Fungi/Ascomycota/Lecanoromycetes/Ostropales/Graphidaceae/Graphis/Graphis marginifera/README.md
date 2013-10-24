@@ -1,5 +1,4 @@
-Graphis marginifera Vain. SPECIES
-=======
+# Graphis marginifera Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Halidrys Stackhouse, 1809 GENUS
-=======
+# Halidrys Stackhouse, 1809 GENUS
 
 #### Status
 ACCEPTED

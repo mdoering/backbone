@@ -1,5 +1,4 @@
-Disciseda pampeana (Speg.) Speg. SPECIES
-=======
+# Disciseda pampeana (Speg.) Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Barlaeina henningsii Kirschst. SPECIES
-=======
+# Barlaeina henningsii Kirschst. SPECIES
 
 #### Status
 ACCEPTED

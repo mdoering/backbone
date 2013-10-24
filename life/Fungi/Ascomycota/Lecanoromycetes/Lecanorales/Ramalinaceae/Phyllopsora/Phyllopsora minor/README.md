@@ -1,5 +1,4 @@
-Phyllopsora minor Brako SPECIES
-=======
+# Phyllopsora minor Brako SPECIES
 
 #### Status
 ACCEPTED

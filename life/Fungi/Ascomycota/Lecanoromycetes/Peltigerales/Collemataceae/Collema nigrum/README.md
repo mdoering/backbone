@@ -1,5 +1,4 @@
-Collema nigrum Ach. SPECIES
-=======
+# Collema nigrum Ach. SPECIES
 
 #### Status
 ACCEPTED

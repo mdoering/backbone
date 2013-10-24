@@ -1,17 +1,16 @@
-Pseudoparmelia geesterani (Hale) Hale SPECIES
-=======
+# Xanthoparmelia geesterani (Hale) Hale & Elix SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Hale, Mycotaxon 33: 403 (1988)
 
 #### Original name
-null
+Parmelia geesterani Hale
 
 ### Remarks
 null

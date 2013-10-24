@@ -1,11 +1,10 @@
-Gasparrinia callopisma f. callopisma FORM
-=======
+# Gasparrinia callopisma SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
 null

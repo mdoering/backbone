@@ -1,5 +1,4 @@
-Marssonina forsythiae Lind SPECIES
-=======
+# Marssonina forsythiae Lind SPECIES
 
 #### Status
 ACCEPTED

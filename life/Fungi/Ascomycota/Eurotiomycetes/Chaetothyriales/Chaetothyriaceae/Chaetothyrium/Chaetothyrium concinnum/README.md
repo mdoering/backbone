@@ -1,5 +1,4 @@
-Chaetothyrium concinnum Syd., 1926 SPECIES
-=======
+# Chaetothyrium concinnum Syd., 1926 SPECIES
 
 #### Status
 ACCEPTED

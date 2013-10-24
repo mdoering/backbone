@@ -1,5 +1,4 @@
-Dactylaria fusifera (Berk. & M.A. Curtis) de Hoog SPECIES
-=======
+# Dactylaria fusifera (Berk. & M.A. Curtis) de Hoog SPECIES
 
 #### Status
 ACCEPTED

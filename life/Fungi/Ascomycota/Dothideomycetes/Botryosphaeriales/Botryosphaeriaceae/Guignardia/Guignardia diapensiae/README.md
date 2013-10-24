@@ -1,5 +1,4 @@
-Guignardia diapensiae (Rehm) Arx & E. Müll. SPECIES
-=======
+# Guignardia diapensiae (Rehm) Arx & E. Müll. SPECIES
 
 #### Status
 ACCEPTED

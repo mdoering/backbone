@@ -1,5 +1,4 @@
-Periconia hyalina Bonord. SPECIES
-=======
+# Periconia hyalina Bonord. SPECIES
 
 #### Status
 ACCEPTED

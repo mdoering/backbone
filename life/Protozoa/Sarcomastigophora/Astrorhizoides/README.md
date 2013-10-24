@@ -1,5 +1,4 @@
-Astrorhizoides Shchedrina, 1969 GENUS
-=======
+# Astrorhizoides Shchedrina, 1969 GENUS
 
 #### Status
 ACCEPTED

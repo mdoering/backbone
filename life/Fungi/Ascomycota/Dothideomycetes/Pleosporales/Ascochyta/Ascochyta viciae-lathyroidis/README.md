@@ -1,5 +1,4 @@
-Ascochyta viciae-lathyroidis Syd. SPECIES
-=======
+# Ascochyta viciae-lathyroidis Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola balansae Gaillard SPECIES
-=======
+# Meliola balansae Gaillard SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alternaria mycophila (Bubák & Dearn.) P. Joly SPECIES
-=======
+# Alternaria mycophila (Bubák & Dearn.) P. Joly SPECIES
 
 #### Status
 ACCEPTED

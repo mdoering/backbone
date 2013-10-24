@@ -1,5 +1,4 @@
-Scutellinia setosissima Le Gal SPECIES
-=======
+# Scutellinia setosissima Le Gal SPECIES
 
 #### Status
 ACCEPTED

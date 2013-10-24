@@ -1,5 +1,4 @@
-Phallus vulgaris P. Micheli SPECIES
-=======
+# Phallus vulgaris P. Micheli SPECIES
 
 #### Status
 ACCEPTED

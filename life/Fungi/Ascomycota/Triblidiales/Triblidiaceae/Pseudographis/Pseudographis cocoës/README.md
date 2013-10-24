@@ -1,5 +1,4 @@
-Pseudographis cocoës Henn. SPECIES
-=======
+# Pseudographis cocoës Henn. SPECIES
 
 #### Status
 ACCEPTED

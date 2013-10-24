@@ -1,5 +1,4 @@
-Meliola thunbergiae Hansf. SPECIES
-=======
+# Meliola thunbergiae Hansf. SPECIES
 
 #### Status
 ACCEPTED

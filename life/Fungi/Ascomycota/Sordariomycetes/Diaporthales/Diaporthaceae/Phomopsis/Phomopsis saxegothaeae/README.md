@@ -1,5 +1,4 @@
-Phomopsis saxegothaeae Syd. SPECIES
-=======
+# Phomopsis saxegothaeae Syd. SPECIES
 
 #### Status
 ACCEPTED

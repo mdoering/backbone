@@ -1,5 +1,4 @@
-Aspicilia sublapponica (Zahlbr.) Oxner SPECIES
-=======
+# Aspicilia sublapponica (Zahlbr.) Oxner SPECIES
 
 #### Status
 ACCEPTED

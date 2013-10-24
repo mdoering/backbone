@@ -1,5 +1,4 @@
-Lecanora hypocrocea Vain. SPECIES
-=======
+# Lecanora hypocrocea Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Sphaerospora minor Velen., 1934 SPECIES
-=======
+# Scutellinia minor (Velen.) Svrcek, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monogr. Discom. Bohem. (Prague) 300 (1934)
+Ceská Mykol. 25(2): 85 (1971)
 
 #### Original name
 Sphaerospora minor Velen., 1934

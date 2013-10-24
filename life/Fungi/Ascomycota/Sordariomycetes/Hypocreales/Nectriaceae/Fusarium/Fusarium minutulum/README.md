@@ -1,5 +1,4 @@
-Fusarium minutulum Corda SPECIES
-=======
+# Fusarium minutulum Corda SPECIES
 
 #### Status
 ACCEPTED

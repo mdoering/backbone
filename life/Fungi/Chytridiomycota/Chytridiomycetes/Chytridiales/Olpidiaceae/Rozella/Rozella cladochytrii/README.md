@@ -1,5 +1,4 @@
-Rozella cladochytrii Karling, 1941 SPECIES
-=======
+# Rozella cladochytrii Karling, 1941 SPECIES
 
 #### Status
 ACCEPTED

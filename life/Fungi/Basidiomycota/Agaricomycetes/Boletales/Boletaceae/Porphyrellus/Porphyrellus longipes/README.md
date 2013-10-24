@@ -1,5 +1,4 @@
-Porphyrellus longipes (Massee) Wolfe & R.H. Petersen SPECIES
-=======
+# Porphyrellus longipes (Massee) Wolfe & R.H. Petersen SPECIES
 
 #### Status
 ACCEPTED

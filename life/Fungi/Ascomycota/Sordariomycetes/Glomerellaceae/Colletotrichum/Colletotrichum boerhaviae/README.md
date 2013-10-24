@@ -1,17 +1,16 @@
-Colletotrichum boerhaaviae Pavgi & U.P. Singh SPECIES
-=======
+# Colletotrichum boerhaviae Pavgi & U.P. Singh SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycopath. Mycol. appl. 27: 82 (1965)
 
 #### Original name
-Colletotrichum boerhaaviae Pavgi & U.P. Singh
+Colletotrichum boerhaviae Pavgi & U.P. Singh
 
 ### Remarks
 null

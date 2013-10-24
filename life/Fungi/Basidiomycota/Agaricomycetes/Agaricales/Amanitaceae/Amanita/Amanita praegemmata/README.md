@@ -1,5 +1,4 @@
-Amanita praegemmata Murrill SPECIES
-=======
+# Amanita praegemmata Murrill SPECIES
 
 #### Status
 ACCEPTED

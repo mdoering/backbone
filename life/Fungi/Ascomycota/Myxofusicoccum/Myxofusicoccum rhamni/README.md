@@ -1,5 +1,4 @@
-Myxofusicoccum rhamni (Allesch.) Died. SPECIES
-=======
+# Myxofusicoccum rhamni (Allesch.) Died. SPECIES
 
 #### Status
 ACCEPTED

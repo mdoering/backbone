@@ -1,5 +1,4 @@
-Lecidea myriocarpa f. myriocarpa FORM
-=======
+# Lecidea myriocarpa SPECIES
 
 #### Status
 ACCEPTED

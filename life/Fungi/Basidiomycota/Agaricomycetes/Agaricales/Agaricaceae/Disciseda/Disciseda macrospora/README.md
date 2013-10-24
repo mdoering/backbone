@@ -1,5 +1,4 @@
-Disciseda macrospora Speg. SPECIES
-=======
+# Disciseda macrospora Speg. SPECIES
 
 #### Status
 ACCEPTED

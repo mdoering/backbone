@@ -1,5 +1,4 @@
-Sphingomonas aestuarii Roh, Kim, Nam, Chang, Kim, Oh & Bae, 2009 SPECIES
-=======
+# Sphingomonas aestuarii Roh, Kim, Nam, Chang, Kim, Oh & Bae, 2009 SPECIES
 
 #### Status
 ACCEPTED

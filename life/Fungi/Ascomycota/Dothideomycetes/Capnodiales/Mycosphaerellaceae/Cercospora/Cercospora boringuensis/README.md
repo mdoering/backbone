@@ -1,5 +1,4 @@
-Cercospora boringuensis E. Young SPECIES
-=======
+# Cercospora boringuensis E. Young SPECIES
 
 #### Status
 ACCEPTED

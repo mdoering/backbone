@@ -1,5 +1,4 @@
-Fusicoccum ubrizsyi Negru & R. Sandor SPECIES
-=======
+# Fusicoccum ubrizsyi Negru & R. Sandor SPECIES
 
 #### Status
 ACCEPTED

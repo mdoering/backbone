@@ -1,5 +1,4 @@
-Leptonia thiersii Largent SPECIES
-=======
+# Leptonia thiersii Largent SPECIES
 
 #### Status
 ACCEPTED

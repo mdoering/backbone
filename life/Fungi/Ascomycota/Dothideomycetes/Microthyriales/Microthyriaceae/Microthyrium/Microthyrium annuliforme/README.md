@@ -1,5 +1,4 @@
-Microthyrium annuliforme Syd. SPECIES
-=======
+# Microthyrium annuliforme Syd. SPECIES
 
 #### Status
 ACCEPTED

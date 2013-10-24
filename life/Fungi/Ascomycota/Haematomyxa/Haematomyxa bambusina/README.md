@@ -1,5 +1,4 @@
-Haematomyxa bambusina Racib. SPECIES
-=======
+# Haematomyxa bambusina Racib. SPECIES
 
 #### Status
 ACCEPTED

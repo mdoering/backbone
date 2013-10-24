@@ -1,14 +1,13 @@
-Nematoloma petasiforme (Murrill) A.H. Sm. SPECIES
-=======
+# Naematoloma petasiforme (Murrill) A.H. Sm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 40(6): 694 (1948)
 
 #### Original name
 Psathyrella petasiformis Murrill

@@ -1,5 +1,4 @@
-Colletogloeum acaciae (Cooke & Massee) B. Sutton & H.J. Swart SPECIES
-=======
+# Colletogloeum acaciae (Cooke & Massee) B. Sutton & H.J. Swart SPECIES
 
 #### Status
 ACCEPTED

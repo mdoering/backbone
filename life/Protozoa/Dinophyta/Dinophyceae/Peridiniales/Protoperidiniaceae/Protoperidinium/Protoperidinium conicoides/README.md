@@ -1,5 +1,4 @@
-Protoperidinium conicoides (Paulsen) Balech SPECIES
-=======
+# Protoperidinium conicoides (Paulsen) Balech SPECIES
 
 #### Status
 ACCEPTED

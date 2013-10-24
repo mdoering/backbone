@@ -1,5 +1,4 @@
-Athelia repetobasidiifera N. Maek., 1993 SPECIES
-=======
+# Athelia repetobasidiifera N. Maek., 1993 SPECIES
 
 #### Status
 ACCEPTED

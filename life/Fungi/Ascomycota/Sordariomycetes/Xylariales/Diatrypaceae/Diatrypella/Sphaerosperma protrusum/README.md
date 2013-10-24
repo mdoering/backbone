@@ -1,17 +1,16 @@
-Sphaerosperma protusum Preuss SPECIES
-=======
+# Sphaerosperma protrusum Preuss SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Linnaea 25: 732 (1853)
 
 #### Original name
-Sphaerosperma protusum Preuss
+Sphaerosperma protrusum Preuss
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Xyloschizon atratum Syd., 1922 SPECIES
-=======
+# Xyloschizon atratum Syd., 1922 SPECIES
 
 #### Status
 ACCEPTED

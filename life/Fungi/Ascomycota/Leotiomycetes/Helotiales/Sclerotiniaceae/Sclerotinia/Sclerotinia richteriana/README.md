@@ -1,5 +1,4 @@
-Sclerotinia richteriana Henn. & Starbäck SPECIES
-=======
+# Sclerotinia richteriana Henn. & Starbäck SPECIES
 
 #### Status
 ACCEPTED

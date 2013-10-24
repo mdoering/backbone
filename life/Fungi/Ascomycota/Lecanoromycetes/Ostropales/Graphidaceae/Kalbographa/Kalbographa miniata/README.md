@@ -1,5 +1,4 @@
-Kalbographa miniata Lücking SPECIES
-=======
+# Kalbographa miniata Lücking SPECIES
 
 #### Status
 ACCEPTED

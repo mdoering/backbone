@@ -1,5 +1,4 @@
-Cercospora granati Rawla SPECIES
-=======
+# Cercospora granati Rawla SPECIES
 
 #### Status
 ACCEPTED

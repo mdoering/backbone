@@ -1,5 +1,4 @@
-Peronospora taurica Jacz. SPECIES
-=======
+# Peronospora taurica Jacz. SPECIES
 
 #### Status
 ACCEPTED

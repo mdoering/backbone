@@ -1,8 +1,7 @@
-Phyllachora fragosoana Maire, 1917 SPECIES
-=======
+# Phyllachora fallax Sacc., 1876 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

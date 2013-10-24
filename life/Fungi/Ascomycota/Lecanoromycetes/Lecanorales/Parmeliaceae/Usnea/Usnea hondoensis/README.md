@@ -1,5 +1,4 @@
-Usnea hondoensis subsp. hondoensis SUBSPECIES
-=======
+# Usnea hondoensis Asahina SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Usnea hondoensis subsp. hondoensis
+Usnea hondoensis Asahina
 
 ### Remarks
 null

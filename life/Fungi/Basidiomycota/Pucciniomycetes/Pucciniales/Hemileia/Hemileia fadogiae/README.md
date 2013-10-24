@@ -1,5 +1,4 @@
-Hemileia fadogiae (Henn.) Syd. & P. Syd. SPECIES
-=======
+# Hemileia fadogiae (Henn.) Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

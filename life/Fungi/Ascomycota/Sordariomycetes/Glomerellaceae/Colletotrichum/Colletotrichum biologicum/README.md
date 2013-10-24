@@ -1,5 +1,4 @@
-Colletotrichum biologicum Chaudhuri SPECIES
-=======
+# Colletotrichum biologicum Chaudhuri SPECIES
 
 #### Status
 ACCEPTED

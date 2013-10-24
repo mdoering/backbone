@@ -1,5 +1,4 @@
-Resupinatus cyatheae Corner SPECIES
-=======
+# Resupinatus cyatheae Corner SPECIES
 
 #### Status
 ACCEPTED

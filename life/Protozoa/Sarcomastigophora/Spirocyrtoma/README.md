@@ -1,5 +1,4 @@
-Spirocyrtoma Haeckel, 1887 GENUS
-=======
+# Spirocyrtoma Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

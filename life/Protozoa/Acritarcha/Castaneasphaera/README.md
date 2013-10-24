@@ -1,5 +1,4 @@
-Castaneasphaera Zhou, Brasier & Xue, 2001 GENUS
-=======
+# Castaneasphaera Zhou, Brasier & Xue, 2001 GENUS
 
 #### Status
 ACCEPTED

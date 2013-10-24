@@ -1,8 +1,7 @@
-Aecidium xanthoxyli Peck SPECIES
-=======
+# Aecidium zanthoxyli Peck SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Aecidium xanthoxyli Peck
+Aecidium zanthoxyli Peck
 
 ### Remarks
 null

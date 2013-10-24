@@ -1,5 +1,4 @@
-Eutintinnus lususundae (Entz, 1884) SPECIES
-=======
+# Eutintinnus lususundae (Entz, 1884) SPECIES
 
 #### Status
 ACCEPTED

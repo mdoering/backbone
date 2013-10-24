@@ -1,5 +1,4 @@
-Lecanora ceylanica Zahlbr. SPECIES
-=======
+# Lecanora ceylanica Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

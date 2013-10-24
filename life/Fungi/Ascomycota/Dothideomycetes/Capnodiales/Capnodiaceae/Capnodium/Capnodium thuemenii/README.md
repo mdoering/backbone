@@ -1,5 +1,4 @@
-Capnodium thuemenii Sacc. SPECIES
-=======
+# Capnodium thuemenii Sacc. SPECIES
 
 #### Status
 ACCEPTED

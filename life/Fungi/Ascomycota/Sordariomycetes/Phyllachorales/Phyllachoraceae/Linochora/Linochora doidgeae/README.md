@@ -1,8 +1,7 @@
-Linochora doidgei Syd. SPECIES
-=======
+# Linochora doidgeae Syd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Linochora doidgei Syd.
+Linochora doidgeae Syd.
 
 ### Remarks
 null

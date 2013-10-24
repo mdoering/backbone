@@ -1,5 +1,4 @@
-Leptochidium M. Choisy GENUS
-=======
+# Leptochidium M. Choisy GENUS
 
 #### Status
 ACCEPTED

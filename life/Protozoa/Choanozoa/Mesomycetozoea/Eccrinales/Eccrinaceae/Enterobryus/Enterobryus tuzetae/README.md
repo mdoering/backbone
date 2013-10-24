@@ -1,5 +1,4 @@
-Enterobryus tuzetae Manier, Gasc & Bouix, 1972 SPECIES
-=======
+# Enterobryus tuzetae Manier, Gasc & Bouix, 1972 SPECIES
 
 #### Status
 ACCEPTED

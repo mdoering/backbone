@@ -1,5 +1,4 @@
-Sordaria microscopica De Not. SPECIES
-=======
+# Sordaria microscopica De Not. SPECIES
 
 #### Status
 ACCEPTED

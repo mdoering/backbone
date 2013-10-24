@@ -1,5 +1,4 @@
-Coleosporium bocconiae (Mayor) Syd. SPECIES
-=======
+# Coleosporium bocconiae (Mayor) Syd. SPECIES
 
 #### Status
 ACCEPTED

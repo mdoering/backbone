@@ -1,5 +1,4 @@
-Laboulbenia euschizomeri Speg. SPECIES
-=======
+# Laboulbenia euschizomeri Speg. SPECIES
 
 #### Status
 ACCEPTED

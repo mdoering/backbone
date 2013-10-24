@@ -1,5 +1,4 @@
-Parmelia subproboscidea Lynge SPECIES
-=======
+# Parmelia subproboscidea Lynge SPECIES
 
 #### Status
 ACCEPTED

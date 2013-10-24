@@ -1,5 +1,4 @@
-Agaricus xanthopodius DC. SPECIES
-=======
+# Agaricus xanthopodius DC. SPECIES
 
 #### Status
 ACCEPTED

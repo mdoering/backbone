@@ -1,5 +1,4 @@
-Platygloea basidiodendri M. Dueñas, 2001 SPECIES
-=======
+# Platygloea basidiodendri M. Dueñas, 2001 SPECIES
 
 #### Status
 ACCEPTED

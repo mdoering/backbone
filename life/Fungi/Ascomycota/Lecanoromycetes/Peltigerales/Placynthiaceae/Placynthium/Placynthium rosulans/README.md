@@ -1,8 +1,7 @@
-Placynthium pannariellum var. rosulans (Th. Fr.) Degel. VARIETY
-=======
+# Placynthium rosulans (Th. Fr.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Lecothecium rosulans Th. Fr.
 
 ### Remarks
 null

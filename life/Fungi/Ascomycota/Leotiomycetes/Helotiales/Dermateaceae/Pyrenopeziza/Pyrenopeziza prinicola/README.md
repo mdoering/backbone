@@ -1,5 +1,4 @@
-Pyrenopeziza prinicola (Ellis & Everh.) E.K. Cash SPECIES
-=======
+# Pyrenopeziza prinicola (Ellis & Everh.) E.K. Cash SPECIES
 
 #### Status
 ACCEPTED

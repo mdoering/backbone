@@ -1,5 +1,4 @@
-Chaetothyrina hirtellae Petr. SPECIES
-=======
+# Chaetothyrina hirtellae Petr. SPECIES
 
 #### Status
 ACCEPTED

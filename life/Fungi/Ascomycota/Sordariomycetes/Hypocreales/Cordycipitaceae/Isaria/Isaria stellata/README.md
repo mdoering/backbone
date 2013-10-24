@@ -1,5 +1,4 @@
-Isaria stellata Cooke SPECIES
-=======
+# Isaria stellata Cooke SPECIES
 
 #### Status
 ACCEPTED

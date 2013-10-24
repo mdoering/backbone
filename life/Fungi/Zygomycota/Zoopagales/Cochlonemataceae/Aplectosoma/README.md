@@ -1,5 +1,4 @@
-Aplectosoma Drechsler GENUS
-=======
+# Aplectosoma Drechsler GENUS
 
 #### Status
 ACCEPTED

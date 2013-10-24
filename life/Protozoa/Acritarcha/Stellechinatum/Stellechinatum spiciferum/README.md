@@ -1,5 +1,4 @@
-Stellechinatum spiciferum (Deunff, 1955) Sarjeant & Vavrdová, 1997 SPECIES
-=======
+# Stellechinatum spiciferum (Deunff, 1955) Sarjeant & Vavrdová, 1997 SPECIES
 
 #### Status
 ACCEPTED

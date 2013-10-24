@@ -1,5 +1,4 @@
-Sphaeronaema artemisiae Corda SPECIES
-=======
+# Sphaeronaema artemisiae Corda SPECIES
 
 #### Status
 ACCEPTED

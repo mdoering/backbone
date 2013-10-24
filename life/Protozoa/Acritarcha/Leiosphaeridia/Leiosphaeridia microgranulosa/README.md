@@ -1,5 +1,4 @@
-Leiosphaeridia microgranulosa Nautiyal, 1983 SPECIES
-=======
+# Leiosphaeridia microgranulosa Nautiyal, 1983 SPECIES
 
 #### Status
 ACCEPTED

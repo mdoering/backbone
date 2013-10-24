@@ -1,5 +1,4 @@
-Placolecanora melanophthalma (Ramond) Kopach. SPECIES
-=======
+# Placolecanora melanophthalma (Ramond) Kopach. SPECIES
 
 #### Status
 ACCEPTED

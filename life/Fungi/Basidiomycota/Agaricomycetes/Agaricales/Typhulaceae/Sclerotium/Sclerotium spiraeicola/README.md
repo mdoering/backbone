@@ -1,5 +1,4 @@
-Sclerotium spiraeicola Petr. SPECIES
-=======
+# Sclerotium spiraeicola Petr. SPECIES
 
 #### Status
 ACCEPTED

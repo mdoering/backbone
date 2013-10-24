@@ -1,17 +1,16 @@
-Zygohynchus GENUS
-=======
+# Zygorhynchus Vuillemin, 1903 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Soc. mycol. Fr. 19: 116 (1903)
 
 #### Original name
-null
+Zygorhynchus Vuillemin, 1903
 
 ### Remarks
 null

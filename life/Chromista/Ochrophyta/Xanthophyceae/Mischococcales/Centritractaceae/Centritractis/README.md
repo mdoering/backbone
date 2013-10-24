@@ -1,5 +1,4 @@
-Centritractis GENUS
-=======
+# Centritractis GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marssonia omphalodis Grove SPECIES
-=======
+# Marssonia omphalodis Grove SPECIES
 
 #### Status
 ACCEPTED

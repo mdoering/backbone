@@ -1,5 +1,4 @@
-Gymnopilus panurensis (Berk.) Pegler SPECIES
-=======
+# Gymnopilus panurensis (Berk.) Pegler SPECIES
 
 #### Status
 ACCEPTED

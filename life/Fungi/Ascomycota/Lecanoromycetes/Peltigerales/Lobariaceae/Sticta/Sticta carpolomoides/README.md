@@ -1,5 +1,4 @@
-Sticta carpolomoides Nyl. SPECIES
-=======
+# Sticta carpolomoides Nyl. SPECIES
 
 #### Status
 ACCEPTED

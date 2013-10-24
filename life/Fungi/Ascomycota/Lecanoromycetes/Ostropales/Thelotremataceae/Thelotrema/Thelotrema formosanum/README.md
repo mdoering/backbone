@@ -1,5 +1,4 @@
-Thelotrema formosanum Zahlbr. SPECIES
-=======
+# Thelotrema formosanum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

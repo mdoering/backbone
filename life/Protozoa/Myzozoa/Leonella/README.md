@@ -1,5 +1,4 @@
-Leonella Janofske & Karwath, 2000 GENUS
-=======
+# Leonella Janofske & Karwath, 2000 GENUS
 
 #### Status
 ACCEPTED

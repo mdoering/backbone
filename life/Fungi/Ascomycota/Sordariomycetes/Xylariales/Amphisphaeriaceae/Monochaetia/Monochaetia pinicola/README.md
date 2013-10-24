@@ -1,5 +1,4 @@
-Monochaetia pinicola Dearn. SPECIES
-=======
+# Monochaetia pinicola Dearn. SPECIES
 
 #### Status
 ACCEPTED

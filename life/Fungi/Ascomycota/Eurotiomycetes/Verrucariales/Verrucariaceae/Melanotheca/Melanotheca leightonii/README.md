@@ -1,5 +1,4 @@
-Melanotheca leightonii (A. Massal.) Kremp. SPECIES
-=======
+# Melanotheca leightonii (A. Massal.) Kremp. SPECIES
 
 #### Status
 ACCEPTED

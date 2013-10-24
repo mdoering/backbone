@@ -1,5 +1,4 @@
-Aposphaeria stigmospora Sacc. & F. Lamb. SPECIES
-=======
+# Aposphaeria stigmospora Sacc. & F. Lamb. SPECIES
 
 #### Status
 ACCEPTED

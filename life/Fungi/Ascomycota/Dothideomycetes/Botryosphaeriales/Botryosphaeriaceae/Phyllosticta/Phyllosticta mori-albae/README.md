@@ -1,17 +1,16 @@
-Phyllosticta morus-albae Pandotra SPECIES
-=======
+# Phyllosticta mori-albae Pandotra SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian J. For. 13(2): 165 (1990)
 
 #### Original name
-Phyllosticta morus-albae Pandotra
+Phyllosticta mori-albae Pandotra
 
 ### Remarks
 null

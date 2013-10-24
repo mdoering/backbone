@@ -1,5 +1,4 @@
-Meliola tridentata Hansf. SPECIES
-=======
+# Meliola tridentata Hansf. SPECIES
 
 #### Status
 ACCEPTED

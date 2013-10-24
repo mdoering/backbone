@@ -1,14 +1,13 @@
-Glenosporopsis metamerica (Castell.) Fonseca SPECIES
-=======
+# Glenosporopsis metamericana (Castell.) Fonseca SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Parasitol. Med. 730 (1943)
 
 #### Original name
 Glenospora metamericana Castell.

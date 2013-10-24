@@ -1,5 +1,4 @@
-Rhodotorula texensis Phaff, Mrak & O.B. Williams SPECIES
-=======
+# Rhodotorula texensis Phaff, Mrak & O.B. Williams SPECIES
 
 #### Status
 ACCEPTED

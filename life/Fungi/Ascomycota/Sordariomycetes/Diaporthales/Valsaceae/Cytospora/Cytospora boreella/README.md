@@ -1,5 +1,4 @@
-Cytospora boreella Tracy & Earle SPECIES
-=======
+# Cytospora boreella Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

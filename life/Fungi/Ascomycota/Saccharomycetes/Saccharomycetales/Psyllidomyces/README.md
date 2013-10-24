@@ -1,5 +1,4 @@
-Psyllidomyces Buchner GENUS
-=======
+# Psyllidomyces Buchner GENUS
 
 #### Status
 ACCEPTED

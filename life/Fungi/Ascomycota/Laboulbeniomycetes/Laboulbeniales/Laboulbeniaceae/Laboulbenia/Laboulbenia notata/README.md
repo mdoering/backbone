@@ -1,5 +1,4 @@
-Laboulbenia notata Thaxt. SPECIES
-=======
+# Laboulbenia notata Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichia crassa Schumach. SPECIES
-=======
+# Trichia crassa Schumach. SPECIES
 
 #### Status
 ACCEPTED

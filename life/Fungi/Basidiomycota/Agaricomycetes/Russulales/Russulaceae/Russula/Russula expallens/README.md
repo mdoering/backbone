@@ -1,5 +1,4 @@
-Russula expallens Gillet SPECIES
-=======
+# Russula expallens Gillet SPECIES
 
 #### Status
 ACCEPTED

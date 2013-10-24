@@ -1,5 +1,4 @@
-Patinella artemisioides (Roum. & Pat.) Sacc. SPECIES
-=======
+# Patinella artemisioides (Roum. & Pat.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

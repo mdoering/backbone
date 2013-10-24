@@ -1,5 +1,4 @@
-Parmelia nitescens Stirt. SPECIES
-=======
+# Parmelia nitescens Stirt. SPECIES
 
 #### Status
 ACCEPTED

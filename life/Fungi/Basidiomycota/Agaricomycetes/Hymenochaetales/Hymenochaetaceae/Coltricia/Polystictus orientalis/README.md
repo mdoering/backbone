@@ -1,5 +1,4 @@
-Polystictus orientalis Yasuda SPECIES
-=======
+# Polystictus orientalis Yasuda SPECIES
 
 #### Status
 ACCEPTED

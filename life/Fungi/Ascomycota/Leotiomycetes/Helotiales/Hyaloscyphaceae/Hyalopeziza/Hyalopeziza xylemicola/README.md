@@ -1,5 +1,4 @@
-Hyalopeziza xylemicola (H.C. Bøhler) Schneller SPECIES
-=======
+# Hyalopeziza xylemicola (H.C. Bøhler) Schneller SPECIES
 
 #### Status
 ACCEPTED

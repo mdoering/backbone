@@ -1,5 +1,4 @@
-Ionaspis rhodinula (Nyl.) Blomb. & Forssell SPECIES
-=======
+# Ionaspis rhodinula (Nyl.) Blomb. & Forssell SPECIES
 
 #### Status
 ACCEPTED

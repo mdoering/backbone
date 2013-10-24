@@ -1,5 +1,4 @@
-Heteronema acus (Ehrenberg) Stein, 1878 SPECIES
-=======
+# Heteronema acus (Ehrenberg) Stein, 1878 SPECIES
 
 #### Status
 ACCEPTED

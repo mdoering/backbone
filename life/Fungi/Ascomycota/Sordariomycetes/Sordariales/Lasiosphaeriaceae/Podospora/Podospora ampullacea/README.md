@@ -1,5 +1,4 @@
-Podospora ampullacea Cailleux, 1969 SPECIES
-=======
+# Podospora ampullacea Cailleux, 1969 SPECIES
 
 #### Status
 ACCEPTED

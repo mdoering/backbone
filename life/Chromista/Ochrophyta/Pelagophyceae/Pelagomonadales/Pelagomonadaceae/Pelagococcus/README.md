@@ -1,5 +1,4 @@
-Pelagococcus R.E.Norris, 1977 GENUS
-=======
+# Pelagococcus R.E.Norris, 1977 GENUS
 
 #### Status
 ACCEPTED

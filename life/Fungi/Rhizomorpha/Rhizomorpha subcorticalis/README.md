@@ -1,5 +1,4 @@
-Rhizomorpha subcorticalis var. subcorticalis VARIETY
-=======
+# Rhizomorpha subcorticalis P. Micheli ex Pers. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Syn. meth. fung. (Göttingen) 2: 704 (1801)
 
 #### Original name
-Rhizomorpha subcorticalis var. subcorticalis
+Rhizomorpha subcorticalis P. Micheli ex Pers.
 
 ### Remarks
 null

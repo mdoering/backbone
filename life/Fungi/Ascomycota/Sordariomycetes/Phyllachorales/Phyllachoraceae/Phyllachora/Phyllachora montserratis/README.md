@@ -1,14 +1,13 @@
-Polystigma montserratis (Chardón) Arx & E. Müll., 1954 SPECIES
-=======
+# Phyllachora montserratis (Chardón) Petr., 1940 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beitr. Kryptfl. Schweiz 11(no. 1): 237 (1954)
+Annls mycol. 38(2/4): 213 (1940)
 
 #### Original name
 Clypeotrabutia montserratis Chardón, 1930

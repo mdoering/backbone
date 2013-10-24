@@ -1,5 +1,4 @@
-Sphaerella incanescens (Schwein.) Cooke SPECIES
-=======
+# Sphaerella incanescens (Schwein.) Cooke SPECIES
 
 #### Status
 ACCEPTED

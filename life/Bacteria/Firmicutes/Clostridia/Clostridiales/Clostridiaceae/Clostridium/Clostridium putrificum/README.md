@@ -1,11 +1,10 @@
-Pacinia putrifica Trevisan, 1889 SPECIES
-=======
+# Clostridium putrificum (Trevisan, 1889) Reddish and Rettger, 1922 (Approved Lists, 1980), species (rejected name) . SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

@@ -1,5 +1,4 @@
-Peltigera mexicana f. mexicana FORM
-=======
+# Peltigera mexicana Gyeln. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Peltigera mexicana f. mexicana
+Peltigera mexicana Gyeln.
 
 ### Remarks
 null

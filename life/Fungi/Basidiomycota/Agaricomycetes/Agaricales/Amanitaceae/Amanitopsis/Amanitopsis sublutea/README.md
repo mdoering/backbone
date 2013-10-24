@@ -1,5 +1,4 @@
-Amanitopsis sublutea Cleland SPECIES
-=======
+# Amanitopsis sublutea Cleland SPECIES
 
 #### Status
 ACCEPTED

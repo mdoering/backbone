@@ -1,5 +1,4 @@
-Bordea gigantea R.K. Benj. SPECIES
-=======
+# Bordea gigantea R.K. Benj. SPECIES
 
 #### Status
 ACCEPTED

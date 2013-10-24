@@ -1,5 +1,4 @@
-Psathyrella ammiratii A.H. Sm. SPECIES
-=======
+# Psathyrella ammiratii A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

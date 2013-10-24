@@ -1,5 +1,4 @@
-Ehrenbergina compressa Cushman, 1927 SPECIES
-=======
+# Ehrenbergina compressa Cushman, 1927 SPECIES
 
 #### Status
 ACCEPTED

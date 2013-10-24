@@ -1,5 +1,4 @@
-Arthrobacter woluwensis Funke et al., 1997 SPECIES
-=======
+# Arthrobacter woluwensis Funke et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

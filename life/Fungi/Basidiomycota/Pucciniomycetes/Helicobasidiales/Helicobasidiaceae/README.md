@@ -1,5 +1,4 @@
-Helicobasidiaceae P.M. Kirk FAMILY
-=======
+# Helicobasidiaceae P.M. Kirk FAMILY
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Hamigera avellanea var. avellanea VARIETY
-=======
+# Merimbla ingelheimensis (J.F.H. Beyma) Pitt, 1979 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Persoonia 6(3): 345 (1971)
+null
 
 #### Original name
-Hamigera avellanea var. avellanea
+null
 
 ### Remarks
 null

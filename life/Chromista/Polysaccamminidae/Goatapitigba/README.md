@@ -1,5 +1,4 @@
-Goatapitigba Narchi, 1962 GENUS
-=======
+# Goatapitigba Narchi, 1962 GENUS
 
 #### Status
 ACCEPTED

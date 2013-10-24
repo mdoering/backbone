@@ -1,5 +1,4 @@
-Diplotomma steineri (Zahlbr.) Szatala SPECIES
-=======
+# Diplotomma steineri (Zahlbr.) Szatala SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca haematodes (A. Massal.) Zahlbr. SPECIES
-=======
+# Caloplaca haematodes (A. Massal.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

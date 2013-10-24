@@ -1,14 +1,13 @@
-Parmelia praesorediosa Nyl. SPECIES
-=======
+# Parmotrema praesorediosum (Nyl.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sert. Lich. Trop. Labuan Singapore 18 (1891)
+Phytologia 28: 338 (1974)
 
 #### Original name
 Parmelia praesorediosa Nyl.

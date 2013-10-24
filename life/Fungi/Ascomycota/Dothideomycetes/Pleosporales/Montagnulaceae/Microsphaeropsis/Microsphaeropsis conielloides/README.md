@@ -1,5 +1,4 @@
-Microsphaeropsis conielloides B. Sutton, 1974 SPECIES
-=======
+# Microsphaeropsis conielloides B. Sutton, 1974 SPECIES
 
 #### Status
 ACCEPTED

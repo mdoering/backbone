@@ -1,5 +1,4 @@
-Heteropatella golovinii Negru SPECIES
-=======
+# Heteropatella golovinii Negru SPECIES
 
 #### Status
 ACCEPTED

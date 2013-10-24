@@ -1,5 +1,4 @@
-Porphyrellus niger Heinem. & Gooss.-Font. SPECIES
-=======
+# Porphyrellus niger Heinem. & Gooss.-Font. SPECIES
 
 #### Status
 ACCEPTED

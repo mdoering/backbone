@@ -1,5 +1,4 @@
-Dicaeoma amianthinum (Syd.) Syd. SPECIES
-=======
+# Dicaeoma amianthinum (Syd.) Syd. SPECIES
 
 #### Status
 ACCEPTED

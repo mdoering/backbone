@@ -1,5 +1,4 @@
-Pleospora abromeitiana Henn. SPECIES
-=======
+# Pleospora abromeitiana Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyactis truncata Cooke SPECIES
-=======
+# Polyactis truncata Cooke SPECIES
 
 #### Status
 ACCEPTED

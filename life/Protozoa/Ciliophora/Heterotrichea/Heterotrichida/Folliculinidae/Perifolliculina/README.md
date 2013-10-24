@@ -1,5 +1,4 @@
-Perifolliculina Hadzi, 1951 GENUS
-=======
+# Perifolliculina Hadzi, 1951 GENUS
 
 #### Status
 ACCEPTED

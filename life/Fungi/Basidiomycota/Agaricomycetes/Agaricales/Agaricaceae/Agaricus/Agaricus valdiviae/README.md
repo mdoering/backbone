@@ -1,17 +1,16 @@
-Agaricus valdiviae var. saturatus Heinem. VARIETY
-=======
+# Agaricus valdiviae Singer, 1965 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Jard. Bot. Nat. Belg. 56(3-4): 424 (1986)
+Mycopath. Mycol. appl. 26: 161 (1965)
 
 #### Original name
-Agaricus valdiviae var. saturatus Heinem.
+Agaricus valdiviae Singer, 1965
 
 ### Remarks
 null

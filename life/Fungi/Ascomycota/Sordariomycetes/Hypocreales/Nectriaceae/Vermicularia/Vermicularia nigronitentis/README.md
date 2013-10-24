@@ -1,5 +1,4 @@
-Vermicularia nigronitentis Sawada SPECIES
-=======
+# Vermicularia nigronitentis Sawada SPECIES
 
 #### Status
 ACCEPTED

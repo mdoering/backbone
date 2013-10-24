@@ -1,5 +1,4 @@
-Laboulbenia schulleri W. Rossi SPECIES
-=======
+# Laboulbenia schulleri W. Rossi SPECIES
 
 #### Status
 ACCEPTED

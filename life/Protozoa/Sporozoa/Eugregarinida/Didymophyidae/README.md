@@ -1,5 +1,4 @@
-Didymophyidae FAMILY
-=======
+# Didymophyidae FAMILY
 
 #### Status
 ACCEPTED

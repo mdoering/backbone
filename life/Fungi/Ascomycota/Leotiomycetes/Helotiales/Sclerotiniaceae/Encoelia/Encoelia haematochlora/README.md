@@ -1,5 +1,4 @@
-Encoelia haematochlora var. haematochlora VARIETY
-=======
+# Encoelia haematochlora anon. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Encoelia haematochlora var. haematochlora
+Encoelia haematochlora anon.
 
 ### Remarks
 null

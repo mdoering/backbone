@@ -1,5 +1,4 @@
-Pleistophora oncoperae R.J. Milner & C.D. Beaton SPECIES
-=======
+# Pleistophora oncoperae R.J. Milner & C.D. Beaton SPECIES
 
 #### Status
 ACCEPTED

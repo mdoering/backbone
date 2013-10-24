@@ -1,5 +1,4 @@
-Stictocyclales ORDER
-=======
+# Stictocyclales ORDER
 
 #### Status
 ACCEPTED

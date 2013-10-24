@@ -1,5 +1,4 @@
-Marasmius cupricolor Métrod SPECIES
-=======
+# Marasmius cupricolor Métrod SPECIES
 
 #### Status
 ACCEPTED

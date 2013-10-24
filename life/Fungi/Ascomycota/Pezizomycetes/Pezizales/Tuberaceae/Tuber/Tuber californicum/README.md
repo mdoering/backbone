@@ -1,5 +1,4 @@
-Tuber californicum Harkn. SPECIES
-=======
+# Tuber californicum Harkn. SPECIES
 
 #### Status
 ACCEPTED

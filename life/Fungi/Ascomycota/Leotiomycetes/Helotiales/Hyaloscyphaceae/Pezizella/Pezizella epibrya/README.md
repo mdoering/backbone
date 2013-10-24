@@ -1,5 +1,4 @@
-Pezizella epibrya Penz. & Sacc. SPECIES
-=======
+# Pezizella epibrya Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

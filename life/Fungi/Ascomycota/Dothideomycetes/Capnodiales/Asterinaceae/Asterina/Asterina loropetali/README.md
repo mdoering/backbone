@@ -1,5 +1,4 @@
-Asterina loropetali B. Song SPECIES
-=======
+# Asterina loropetali B. Song SPECIES
 
 #### Status
 ACCEPTED

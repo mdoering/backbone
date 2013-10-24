@@ -1,5 +1,4 @@
-Nectria phyllostachydis Hara SPECIES
-=======
+# Nectria phyllostachydis Hara SPECIES
 
 #### Status
 ACCEPTED

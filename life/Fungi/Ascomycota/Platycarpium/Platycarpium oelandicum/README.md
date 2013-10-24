@@ -1,5 +1,4 @@
-Platycarpium oelandicum (Lind) Petr. SPECIES
-=======
+# Platycarpium oelandicum (Lind) Petr. SPECIES
 
 #### Status
 ACCEPTED

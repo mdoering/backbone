@@ -1,14 +1,13 @@
-Nitschkea corticata (Ellis & Everh.) Kuntze SPECIES
-=======
+# Nitschkia corticata (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3: 501 (1898)
 
 #### Original name
 Coelosphaeria corticata Ellis & Everh.

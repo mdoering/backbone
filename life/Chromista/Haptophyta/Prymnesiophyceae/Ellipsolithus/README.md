@@ -1,5 +1,4 @@
-Ellipsolithus F. Sullivan, 1964 GENUS
-=======
+# Ellipsolithus F. Sullivan, 1964 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplactura Haeckel, 1881 GENUS
-=======
+# Diplactura Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

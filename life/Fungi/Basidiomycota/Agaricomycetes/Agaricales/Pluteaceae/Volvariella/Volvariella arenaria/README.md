@@ -1,5 +1,4 @@
-Volvariella arenaria (Pat.) Singer SPECIES
-=======
+# Volvariella arenaria (Pat.) Singer SPECIES
 
 #### Status
 ACCEPTED

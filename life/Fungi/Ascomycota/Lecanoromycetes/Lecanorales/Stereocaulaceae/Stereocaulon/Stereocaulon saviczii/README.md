@@ -1,5 +1,4 @@
-Stereocaulon saviczii Du Rietz SPECIES
-=======
+# Stereocaulon saviczii Du Rietz SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lagotia faure-fremieti Hadzi, 1951 SPECIES
-=======
+# Lagotia faure-fremieti Hadzi, 1951 SPECIES
 
 #### Status
 ACCEPTED

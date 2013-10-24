@@ -1,17 +1,16 @@
-Entoloma tucuchensis Dennis SPECIES
-=======
+# Entoloma tucuchense Dennis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Soc. mycol. Fr. 69(2): 196 (1953)
 
 #### Original name
-Entoloma tucuchensis Dennis
+Entoloma tucuchense Dennis
 
 ### Remarks
 null

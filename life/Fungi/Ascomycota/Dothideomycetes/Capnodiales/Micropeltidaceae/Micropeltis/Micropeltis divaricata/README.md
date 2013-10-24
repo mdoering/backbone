@@ -1,5 +1,4 @@
-Micropeltis divaricata Bat. & R. Garnier SPECIES
-=======
+# Micropeltis divaricata Bat. & R. Garnier SPECIES
 
 #### Status
 ACCEPTED

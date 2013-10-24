@@ -1,5 +1,4 @@
-Mastigosporium cylindricum R. Sprague SPECIES
-=======
+# Mastigosporium cylindricum R. Sprague SPECIES
 
 #### Status
 ACCEPTED

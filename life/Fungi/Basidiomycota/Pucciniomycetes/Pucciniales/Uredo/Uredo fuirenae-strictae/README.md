@@ -1,5 +1,4 @@
-Uredo fuirenae-strictae Gjaerum SPECIES
-=======
+# Uredo fuirenae-strictae Gjaerum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Monodictyites Barlinge & Paradkar GENUS
-=======
+# Monodictyites Barlinge & Paradkar GENUS
 
 #### Status
 ACCEPTED

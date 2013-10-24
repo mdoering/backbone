@@ -1,5 +1,4 @@
-Cetraria sulphurea Mont. & Bosch SPECIES
-=======
+# Cetraria sulphurea Mont. & Bosch SPECIES
 
 #### Status
 ACCEPTED

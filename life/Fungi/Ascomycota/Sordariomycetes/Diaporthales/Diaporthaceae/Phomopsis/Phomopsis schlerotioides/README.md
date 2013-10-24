@@ -1,5 +1,4 @@
-Phomopsis schlerotioides H.A. Kerst. SPECIES
-=======
+# Phomopsis schlerotioides H.A. Kerst. SPECIES
 
 #### Status
 ACCEPTED

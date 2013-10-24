@@ -1,14 +1,13 @@
-Dinastrium Doflein, 1928 GENUS
-=======
+# Dinastridium Pascher, 1927 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+Integrated Taxonomic Information System
 
 #### Published in
-Lehrb. Protozoenkunde, 5, 492.
+Arch. Protistenk. , 58, 27.
 
 #### Original name
 null

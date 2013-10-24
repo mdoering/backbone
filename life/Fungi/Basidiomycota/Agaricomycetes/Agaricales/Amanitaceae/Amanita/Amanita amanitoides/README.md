@@ -1,5 +1,4 @@
-Amanita amanitoides (Beeli) Bas SPECIES
-=======
+# Amanita amanitoides (Beeli) Bas SPECIES
 
 #### Status
 ACCEPTED

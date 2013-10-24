@@ -1,11 +1,10 @@
-Stigonema minutum saxicola (Naegeli) Born. & Flah. SUBSPECIES
-=======
+# Stigonema minutum (C. Agardh) Hassall ex Bornet & Flahault SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Integrated Taxonomic Information System
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

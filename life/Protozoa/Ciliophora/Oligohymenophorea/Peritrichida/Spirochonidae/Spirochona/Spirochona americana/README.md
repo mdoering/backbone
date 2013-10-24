@@ -1,5 +1,4 @@
-Spirochona americana Dovgal in Dovgal & Grigorovich, 2001 SPECIES
-=======
+# Spirochona americana Dovgal in Dovgal & Grigorovich, 2001 SPECIES
 
 #### Status
 ACCEPTED

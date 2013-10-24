@@ -1,8 +1,7 @@
-Phaeocyphella euphorbiaecola Pat. SPECIES
-=======
+# Phaeocyphella euphorbiicola Pat. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phaeocyphella euphorbiaecola Pat.
+Phaeocyphella euphorbiicola Pat.
 
 ### Remarks
 null

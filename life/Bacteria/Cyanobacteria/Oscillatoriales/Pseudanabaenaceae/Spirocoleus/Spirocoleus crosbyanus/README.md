@@ -1,8 +1,7 @@
-Phormidium crosbyanum Tilden SPECIES
-=======
+# Spirocoleus crosbyanus (Tilden) P.Silva SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

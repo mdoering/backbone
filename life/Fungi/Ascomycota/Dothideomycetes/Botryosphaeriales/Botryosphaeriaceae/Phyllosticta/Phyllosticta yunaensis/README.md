@@ -1,5 +1,4 @@
-Phyllosticta yunaensis Cif. SPECIES
-=======
+# Phyllosticta yunaensis Cif. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora cocculi Syd. SPECIES
-=======
+# Cercospora cocculi Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena claviformis Gray SPECIES
-=======
+# Mycena claviformis Gray SPECIES
 
 #### Status
 ACCEPTED

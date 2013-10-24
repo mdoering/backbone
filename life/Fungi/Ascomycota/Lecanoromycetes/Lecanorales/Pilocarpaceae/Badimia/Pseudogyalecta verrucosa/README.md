@@ -1,5 +1,4 @@
-Pseudogyalecta verrucosa Vezda SPECIES
-=======
+# Pseudogyalecta verrucosa Vezda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora laevicola H. Magn. SPECIES
-=======
+# Lecanora laevicola H. Magn. SPECIES
 
 #### Status
 ACCEPTED

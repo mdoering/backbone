@@ -1,14 +1,13 @@
-Actinopeltis adianthi (Syd.) Arx SPECIES
-=======
+# Chaetothyriopsis adianti (Syd.) Spooner & P.M. Kirk, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Res. 94(2): 224 (1990)
 
 #### Original name
 Actinosoma adianti Syd., 1930

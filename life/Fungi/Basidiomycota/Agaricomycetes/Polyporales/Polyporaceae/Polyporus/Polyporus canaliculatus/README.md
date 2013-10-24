@@ -1,5 +1,4 @@
-Polyporus canaliculatus Overh. SPECIES
-=======
+# Polyporus canaliculatus Overh. SPECIES
 
 #### Status
 ACCEPTED

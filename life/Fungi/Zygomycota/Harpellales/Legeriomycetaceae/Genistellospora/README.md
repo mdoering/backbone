@@ -1,5 +1,4 @@
-Genistellospora Lichtw. GENUS
-=======
+# Genistellospora Lichtw. GENUS
 
 #### Status
 ACCEPTED

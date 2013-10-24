@@ -1,5 +1,4 @@
-Ramocercospora alba Descals SPECIES
-=======
+# Ramocercospora alba Descals SPECIES
 
 #### Status
 ACCEPTED

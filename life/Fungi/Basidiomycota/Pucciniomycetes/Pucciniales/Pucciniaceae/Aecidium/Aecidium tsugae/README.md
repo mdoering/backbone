@@ -1,5 +1,4 @@
-Aecidium tsugae Sawada SPECIES
-=======
+# Aecidium tsugae Sawada SPECIES
 
 #### Status
 ACCEPTED

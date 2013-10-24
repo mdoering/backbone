@@ -1,5 +1,4 @@
-Anthina flammea Fr., 1832 SPECIES
-=======
+# Anthina flammea Fr., 1832 SPECIES
 
 #### Status
 ACCEPTED

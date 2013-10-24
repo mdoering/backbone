@@ -1,5 +1,4 @@
-Didymopleella Munk GENUS
-=======
+# Didymopleella Munk GENUS
 
 #### Status
 ACCEPTED

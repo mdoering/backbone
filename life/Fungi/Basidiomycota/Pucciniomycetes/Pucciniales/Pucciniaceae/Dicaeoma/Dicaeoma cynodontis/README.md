@@ -1,5 +1,4 @@
-Dicaeoma cynodontis Kuntze SPECIES
-=======
+# Dicaeoma cynodontis Kuntze SPECIES
 
 #### Status
 ACCEPTED

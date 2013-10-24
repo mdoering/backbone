@@ -1,5 +1,4 @@
-Omphalia linopoda Kalchbr. SPECIES
-=======
+# Omphalia linopoda Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

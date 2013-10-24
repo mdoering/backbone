@@ -1,5 +1,4 @@
-Prototracheites Ou-yang, Yin & Li, 1974 GENUS
-=======
+# Prototracheites Ou-yang, Yin & Li, 1974 GENUS
 
 #### Status
 ACCEPTED

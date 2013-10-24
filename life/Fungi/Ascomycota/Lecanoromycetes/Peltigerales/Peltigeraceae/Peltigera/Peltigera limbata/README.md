@@ -1,5 +1,4 @@
-Peltigera limbata Delise SPECIES
-=======
+# Peltigera limbata Delise SPECIES
 
 #### Status
 ACCEPTED

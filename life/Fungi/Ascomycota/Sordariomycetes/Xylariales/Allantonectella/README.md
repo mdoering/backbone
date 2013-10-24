@@ -1,5 +1,4 @@
-Allantonectella Petrak, 1950 GENUS
-=======
+# Allantonectella Petrak, 1950 GENUS
 
 #### Status
 ACCEPTED

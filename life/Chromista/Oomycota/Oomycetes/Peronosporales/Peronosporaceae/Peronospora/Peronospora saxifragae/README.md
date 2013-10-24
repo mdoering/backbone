@@ -1,5 +1,4 @@
-Peronospora saxifragae Bubák SPECIES
-=======
+# Peronospora saxifragae Bubák SPECIES
 
 #### Status
 ACCEPTED

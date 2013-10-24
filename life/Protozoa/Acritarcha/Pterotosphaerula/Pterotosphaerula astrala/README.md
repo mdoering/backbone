@@ -1,5 +1,4 @@
-Pterotosphaerula astrala Cramer, 1966 SPECIES
-=======
+# Pterotosphaerula astrala Cramer, 1966 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Orbilia orientalis (Raitv.) Baral SPECIES
-=======
+# Orbilia orientalis (Raitv.) Baral SPECIES
 
 #### Status
 ACCEPTED

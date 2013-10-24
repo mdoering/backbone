@@ -1,5 +1,4 @@
-Pleospora mori Schulzer SPECIES
-=======
+# Pleospora mori Schulzer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporotrichum ticinense Sacc. SPECIES
-=======
+# Sporotrichum ticinense Sacc. SPECIES
 
 #### Status
 ACCEPTED

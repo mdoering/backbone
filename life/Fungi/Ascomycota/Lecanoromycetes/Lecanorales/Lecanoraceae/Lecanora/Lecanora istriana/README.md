@@ -1,5 +1,4 @@
-Lecanora istriana Zahlbr. SPECIES
-=======
+# Lecanora istriana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

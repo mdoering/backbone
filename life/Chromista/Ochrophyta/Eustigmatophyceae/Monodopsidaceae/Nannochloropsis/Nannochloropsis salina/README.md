@@ -1,5 +1,4 @@
-Nannochloropsis salina D.J. Hibberd SPECIES
-=======
+# Nannochloropsis salina D.J. Hibberd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus pulchriceps Both, Bessette & R. Chapm. SPECIES
-=======
+# Boletus pulchriceps Both, Bessette & R. Chapm. SPECIES
 
 #### Status
 ACCEPTED

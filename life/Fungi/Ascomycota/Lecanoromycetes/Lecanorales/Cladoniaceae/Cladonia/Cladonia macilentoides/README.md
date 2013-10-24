@@ -1,5 +1,4 @@
-Cladonia macilentoides Ahti & Fleig SPECIES
-=======
+# Cladonia macilentoides Ahti & Fleig SPECIES
 
 #### Status
 ACCEPTED

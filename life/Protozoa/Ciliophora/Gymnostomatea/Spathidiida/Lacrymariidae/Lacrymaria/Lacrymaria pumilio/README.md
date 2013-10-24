@@ -1,5 +1,4 @@
-Lacrymaria pumilio SPECIES
-=======
+# Lacrymaria pumilio SPECIES
 
 #### Status
 ACCEPTED

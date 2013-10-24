@@ -1,5 +1,4 @@
-Lecidea xylitella (Nyl.) Nyl. SPECIES
-=======
+# Lecidea xylitella (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

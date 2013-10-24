@@ -1,5 +1,4 @@
-Caloplaca jorgensis C.W. Dodge SPECIES
-=======
+# Caloplaca jorgensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

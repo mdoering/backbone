@@ -1,17 +1,16 @@
-Rhizocarpon lecanorinum var. lecanorinum VARIETY
-=======
+# Rhizocarpon lecanorinum Anders SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hedwigia 64: 261 (1923)
 
 #### Original name
-Rhizocarpon lecanorinum var. lecanorinum
+Rhizocarpon lecanorinum Anders
 
 ### Remarks
 null

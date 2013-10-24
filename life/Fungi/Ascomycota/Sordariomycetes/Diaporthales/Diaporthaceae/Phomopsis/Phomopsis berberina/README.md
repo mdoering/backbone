@@ -1,5 +1,4 @@
-Phomopsis berberina (Sacc. & Roum.) Grove SPECIES
-=======
+# Phomopsis berberina (Sacc. & Roum.) Grove SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cantharellus confertus Velen. & Pilát SPECIES
-=======
+# Cantharellus confertus Velen. & Pilát SPECIES
 
 #### Status
 ACCEPTED

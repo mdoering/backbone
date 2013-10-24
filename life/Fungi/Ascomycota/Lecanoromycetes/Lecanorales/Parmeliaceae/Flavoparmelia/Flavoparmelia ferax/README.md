@@ -1,14 +1,13 @@
-Parmelia ferax Müll. Arg. SPECIES
-=======
+# Flavoparmelia ferax (Müll. Arg.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 69: 257 (1886)
+Mycotaxon 25(2): 604 (1986)
 
 #### Original name
 Parmelia ferax Müll. Arg.

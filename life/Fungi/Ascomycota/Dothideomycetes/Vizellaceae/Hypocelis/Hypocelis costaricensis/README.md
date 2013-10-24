@@ -1,5 +1,4 @@
-Hypocelis costaricensis Petr. SPECIES
-=======
+# Hypocelis costaricensis Petr. SPECIES
 
 #### Status
 ACCEPTED

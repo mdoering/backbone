@@ -1,5 +1,4 @@
-Teloschistes peruensis (Ach.) J.W. Thomson SPECIES
-=======
+# Teloschistes peruensis (Ach.) J.W. Thomson SPECIES
 
 #### Status
 ACCEPTED

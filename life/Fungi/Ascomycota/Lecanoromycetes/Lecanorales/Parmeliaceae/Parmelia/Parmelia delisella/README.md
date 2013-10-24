@@ -1,5 +1,4 @@
-Parmelia delisella Nyl. SPECIES
-=======
+# Parmelia delisella Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius colorimarginatus Antonín SPECIES
-=======
+# Marasmius colorimarginatus Antonín SPECIES
 
 #### Status
 ACCEPTED

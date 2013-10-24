@@ -1,5 +1,4 @@
-Hebeloma vejlense Vesterh., 2005 SPECIES
-=======
+# Hebeloma vejlense Vesterh., 2005 SPECIES
 
 #### Status
 ACCEPTED

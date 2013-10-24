@@ -1,5 +1,4 @@
-Rotaliella antarctica Pawlowski, Zaninetti, Whittaker & Lee, 1992 SPECIES
-=======
+# Rotaliella antarctica Pawlowski, Zaninetti, Whittaker & Lee, 1992 SPECIES
 
 #### Status
 ACCEPTED

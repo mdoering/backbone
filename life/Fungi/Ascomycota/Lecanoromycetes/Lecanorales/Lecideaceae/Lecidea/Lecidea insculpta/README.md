@@ -1,5 +1,4 @@
-Lecidea insculpta Flot. SPECIES
-=======
+# Lecidea insculpta Flot. SPECIES
 
 #### Status
 ACCEPTED

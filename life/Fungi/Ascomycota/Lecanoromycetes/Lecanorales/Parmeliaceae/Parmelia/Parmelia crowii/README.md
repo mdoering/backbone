@@ -1,5 +1,4 @@
-Parmelia crowii Elix SPECIES
-=======
+# Parmelia crowii Elix SPECIES
 
 #### Status
 ACCEPTED

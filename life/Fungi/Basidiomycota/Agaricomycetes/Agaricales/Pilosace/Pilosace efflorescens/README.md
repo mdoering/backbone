@@ -1,5 +1,4 @@
-Pilosace efflorescens (Berk. & Broome) Kuntze SPECIES
-=======
+# Pilosace efflorescens (Berk. & Broome) Kuntze SPECIES
 
 #### Status
 ACCEPTED

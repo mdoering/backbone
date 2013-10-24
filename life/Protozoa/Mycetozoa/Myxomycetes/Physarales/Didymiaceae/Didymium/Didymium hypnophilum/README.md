@@ -1,5 +1,4 @@
-Didymium hypnophilum Massee SPECIES
-=======
+# Didymium hypnophilum Massee SPECIES
 
 #### Status
 ACCEPTED

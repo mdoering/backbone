@@ -1,5 +1,4 @@
-Ustilago bulgarica Bubák SPECIES
-=======
+# Ustilago bulgarica Bubák SPECIES
 
 #### Status
 ACCEPTED

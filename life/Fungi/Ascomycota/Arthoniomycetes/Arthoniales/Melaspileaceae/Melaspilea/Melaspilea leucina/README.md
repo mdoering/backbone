@@ -1,14 +1,13 @@
-Melanographa leucina Müll. Arg. SPECIES
-=======
+# Melaspilea leucina (Müll. Arg.) Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Flora, Jena 65: 516 (1882)
+Mém. Soc. Phys. Hist. nat. Genève 29(8): 19 (1887)
 
 #### Original name
 Melanographa leucina Müll. Arg.

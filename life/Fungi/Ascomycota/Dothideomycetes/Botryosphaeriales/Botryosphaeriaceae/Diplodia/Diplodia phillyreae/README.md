@@ -1,5 +1,4 @@
-Diplodia phillyreae Jaap SPECIES
-=======
+# Diplodia phillyreae Jaap SPECIES
 
 #### Status
 ACCEPTED

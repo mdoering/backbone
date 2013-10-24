@@ -1,5 +1,4 @@
-Sphaeria dissiliens Cooke & Ellis SPECIES
-=======
+# Sphaeria dissiliens Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

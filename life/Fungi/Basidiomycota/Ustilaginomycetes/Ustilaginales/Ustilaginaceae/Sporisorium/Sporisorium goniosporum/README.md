@@ -1,5 +1,4 @@
-Sporisorium goniosporum (Massee) Vánky SPECIES
-=======
+# Sporisorium goniosporum (Massee) Vánky SPECIES
 
 #### Status
 ACCEPTED

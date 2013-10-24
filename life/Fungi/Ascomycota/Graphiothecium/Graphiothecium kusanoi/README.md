@@ -1,5 +1,4 @@
-Graphiothecium kusanoi Ogawa SPECIES
-=======
+# Graphiothecium kusanoi Ogawa SPECIES
 
 #### Status
 ACCEPTED

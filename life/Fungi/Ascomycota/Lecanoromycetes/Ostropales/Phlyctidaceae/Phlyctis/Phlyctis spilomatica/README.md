@@ -1,5 +1,4 @@
-Phlyctis spilomatica (Schaer.) A. Massal. SPECIES
-=======
+# Phlyctis spilomatica (Schaer.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

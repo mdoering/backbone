@@ -1,5 +1,4 @@
-Neopeckia japonica Syd. & Hara SPECIES
-=======
+# Neopeckia japonica Syd. & Hara SPECIES
 
 #### Status
 ACCEPTED

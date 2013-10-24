@@ -1,14 +1,13 @@
-Herpotrichia separans (Ellis & Everh.) Sivan., 1972 SPECIES
-=======
+# Lojkania separans (Ellis & Everh.) M.E. Barr, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 127: 10 (1972)
+Mycotaxon 20(1): 17 (1984)
 
 #### Original name
 Amphisphaeria separans Ellis & Everh., 1897

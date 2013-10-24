@@ -1,5 +1,4 @@
-Phormidium favosum Bory ex Gomont SPECIES
-=======
+# Phormidium favosum Bory ex Gomont SPECIES
 
 #### Status
 ACCEPTED

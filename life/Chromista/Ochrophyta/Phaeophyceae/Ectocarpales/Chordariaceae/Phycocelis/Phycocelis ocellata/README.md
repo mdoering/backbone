@@ -1,5 +1,4 @@
-Phycocelis ocellata (Kützing) De Toni SPECIES
-=======
+# Phycocelis ocellata (Kützing) De Toni SPECIES
 
 #### Status
 ACCEPTED

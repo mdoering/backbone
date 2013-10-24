@@ -1,5 +1,4 @@
-Anthostoma venetum Sacc. SPECIES
-=======
+# Anthostoma venetum Sacc. SPECIES
 
 #### Status
 ACCEPTED

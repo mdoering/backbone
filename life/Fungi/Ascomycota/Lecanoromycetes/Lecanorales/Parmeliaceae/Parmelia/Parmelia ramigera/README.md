@@ -1,5 +1,4 @@
-Parmelia ramigera f. ramigera FORM
-=======
+# Parmelia ramigera Gyeln. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia ramigera f. ramigera
+Parmelia ramigera Gyeln.
 
 ### Remarks
 null

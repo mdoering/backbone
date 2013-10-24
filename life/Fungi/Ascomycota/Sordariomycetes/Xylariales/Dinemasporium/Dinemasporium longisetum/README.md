@@ -1,5 +1,4 @@
-Dinemasporium longisetum Syd. SPECIES
-=======
+# Dinemasporium longisetum Syd. SPECIES
 
 #### Status
 ACCEPTED

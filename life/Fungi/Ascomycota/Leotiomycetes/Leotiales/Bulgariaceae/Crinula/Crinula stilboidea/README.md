@@ -1,5 +1,4 @@
-Crinula stilboidea Cooke SPECIES
-=======
+# Crinula stilboidea Cooke SPECIES
 
 #### Status
 ACCEPTED

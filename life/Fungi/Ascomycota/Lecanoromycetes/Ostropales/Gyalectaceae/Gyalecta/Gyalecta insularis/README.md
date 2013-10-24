@@ -1,5 +1,4 @@
-Gyalecta insularis Ehrh. SPECIES
-=======
+# Gyalecta insularis Ehrh. SPECIES
 
 #### Status
 ACCEPTED

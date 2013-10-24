@@ -1,5 +1,4 @@
-Moritella Urakawa et al., 1999 GENUS
-=======
+# Moritella Urakawa et al., 1999 GENUS
 
 #### Status
 ACCEPTED

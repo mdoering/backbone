@@ -1,5 +1,4 @@
-Pseudocercospora epigaeae (Ellis & Dearn.) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora epigaeae (Ellis & Dearn.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

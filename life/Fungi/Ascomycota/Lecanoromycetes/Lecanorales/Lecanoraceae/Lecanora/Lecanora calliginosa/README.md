@@ -1,5 +1,4 @@
-Lecanora calliginosa (Ach.) Motyka SPECIES
-=======
+# Lecanora calliginosa (Ach.) Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pezicula majuscula Speg. SPECIES
-=======
+# Pezicula majuscula Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Andalusiella W.Riegel, 1974 GENUS
-=======
+# Andalusiella W.Riegel, 1974 GENUS
 
 #### Status
 ACCEPTED

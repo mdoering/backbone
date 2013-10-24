@@ -1,5 +1,4 @@
-Graphina insculpta (Eschw.) Müll. Arg. SPECIES
-=======
+# Graphina insculpta (Eschw.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

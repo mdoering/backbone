@@ -1,5 +1,4 @@
-Ustilago penniseti var. penniseti VARIETY
-=======
+# Ustilago penniseti Rabenh. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Hedwigia 10: 18 (1871)
 
 #### Original name
-Ustilago penniseti var. penniseti
+Ustilago penniseti Rabenh.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Parmelia sanctae-helenae C.W. Dodge SPECIES
-=======
+# Parmelia sanctae-helenae C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Scaphis anfractuosa Eschw. SPECIES
-=======
+# Graphis anfractuosa (Eschw.) Eschw. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syst. Lich. 25 (1824)
+in von Martius, Fl. Bras. 1(1): 86 (1833)
 
 #### Original name
 Scaphis anfractuosa Eschw.

@@ -1,5 +1,4 @@
-Strobilomyces kalimpongensis Bose SPECIES
-=======
+# Strobilomyces kalimpongensis Bose SPECIES
 
 #### Status
 ACCEPTED

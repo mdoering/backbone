@@ -1,14 +1,13 @@
-Ceratocystis bicolor (R.W. Davidson & D.E. Wells) R.W. Davidson, 1959 SPECIES
-=======
+# Ophiostoma bicolor R.W. Davidson & D.E. Wells, 1955 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 50(5): 665 (1958)
+in Davidson, Mycologia 47(1): 63 (1955)
 
 #### Original name
 Ophiostoma bicolor R.W. Davidson & D.E. Wells, 1955

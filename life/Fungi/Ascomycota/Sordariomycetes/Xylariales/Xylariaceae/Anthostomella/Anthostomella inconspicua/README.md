@@ -1,5 +1,4 @@
-Anthostomella inconspicua P.M.D. Martin SPECIES
-=======
+# Anthostomella inconspicua P.M.D. Martin SPECIES
 
 #### Status
 ACCEPTED

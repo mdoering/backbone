@@ -1,5 +1,4 @@
-Paradidymella Petr., 1927 GENUS
-=======
+# Paradidymella Petr., 1927 GENUS
 
 #### Status
 ACCEPTED

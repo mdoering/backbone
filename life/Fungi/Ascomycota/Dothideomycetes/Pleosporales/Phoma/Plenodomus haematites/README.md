@@ -1,5 +1,4 @@
-Plenodomus haematites Petr. SPECIES
-=======
+# Plenodomus haematites Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea heterella Nyl. SPECIES
-=======
+# Lecidea heterella Nyl. SPECIES
 
 #### Status
 ACCEPTED

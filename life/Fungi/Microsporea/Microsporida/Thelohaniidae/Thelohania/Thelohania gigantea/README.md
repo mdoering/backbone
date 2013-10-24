@@ -1,5 +1,4 @@
-Thelohania gigantea (Thélohan) Caullery SPECIES
-=======
+# Thelohania gigantea (Thélohan) Caullery SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria quaternula Nyl. SPECIES
-=======
+# Verrucaria quaternula Nyl. SPECIES
 
 #### Status
 ACCEPTED

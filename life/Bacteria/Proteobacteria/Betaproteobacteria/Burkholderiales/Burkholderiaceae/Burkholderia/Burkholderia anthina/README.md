@@ -1,5 +1,4 @@
-Burkholderia anthina Vandamme et al., 2002 SPECIES
-=======
+# Burkholderia anthina Vandamme et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gasparrinia adarensis C.W. Dodge SPECIES
-=======
+# Gasparrinia adarensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

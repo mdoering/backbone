@@ -1,5 +1,4 @@
-Microthyrium eucalypti Henn., 1901 SPECIES
-=======
+# Microthyrium eucalypti Henn., 1901 SPECIES
 
 #### Status
 ACCEPTED

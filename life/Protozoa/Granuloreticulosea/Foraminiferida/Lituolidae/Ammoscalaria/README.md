@@ -1,5 +1,4 @@
-Ammoscalaria Höglund, 1947 GENUS
-=======
+# Ammoscalaria Höglund, 1947 GENUS
 
 #### Status
 ACCEPTED

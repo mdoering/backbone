@@ -1,5 +1,4 @@
-Clavaria verpiformis Berk. & Cooke SPECIES
-=======
+# Clavaria verpiformis Berk. & Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Enterographa praepallens (Nyl.) Redinger SPECIES
-=======
+# Enterographa praepallens (Nyl.) Redinger SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Malmidea subgranifera (Kalb & Elix) Kalb & Elix SPECIES
-=======
+# Malmidea subgranifera (Kalb & Elix) Kalb & Elix SPECIES
 
 #### Status
 ACCEPTED

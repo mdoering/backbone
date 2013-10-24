@@ -1,5 +1,4 @@
-Tremolechia Hertel GENUS
-=======
+# Tremolechia Hertel GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrocybe pseudocuspidata Kühner SPECIES
-=======
+# Hygrocybe pseudocuspidata Kühner SPECIES
 
 #### Status
 ACCEPTED

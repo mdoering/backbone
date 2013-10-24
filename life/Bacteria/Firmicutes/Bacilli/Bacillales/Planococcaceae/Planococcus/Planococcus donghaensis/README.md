@@ -1,5 +1,4 @@
-Planococcus donghaensis Choi, Im, Liu, Yoo, Shin, Rhee & Roh, 2007 SPECIES
-=======
+# Planococcus donghaensis Choi, Im, Liu, Yoo, Shin, Rhee & Roh, 2007 SPECIES
 
 #### Status
 ACCEPTED

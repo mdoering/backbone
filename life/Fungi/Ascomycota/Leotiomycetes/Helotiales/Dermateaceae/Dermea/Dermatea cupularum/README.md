@@ -1,5 +1,4 @@
-Dermatea cupularum Velen. SPECIES
-=======
+# Dermatea cupularum Velen. SPECIES
 
 #### Status
 ACCEPTED

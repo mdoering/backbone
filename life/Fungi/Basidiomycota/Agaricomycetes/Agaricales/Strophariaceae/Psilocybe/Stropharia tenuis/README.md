@@ -1,5 +1,4 @@
-Stropharia tenuis Murrill SPECIES
-=======
+# Stropharia tenuis Murrill SPECIES
 
 #### Status
 ACCEPTED

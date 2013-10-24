@@ -1,5 +1,4 @@
-Disciseda africana (Har. & Pat.) Dring SPECIES
-=======
+# Disciseda africana (Har. & Pat.) Dring SPECIES
 
 #### Status
 ACCEPTED

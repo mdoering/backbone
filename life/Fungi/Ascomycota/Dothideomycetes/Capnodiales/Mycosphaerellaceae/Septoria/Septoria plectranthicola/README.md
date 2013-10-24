@@ -1,5 +1,4 @@
-Septoria plectranthicola Melnik SPECIES
-=======
+# Septoria plectranthicola Melnik SPECIES
 
 #### Status
 ACCEPTED

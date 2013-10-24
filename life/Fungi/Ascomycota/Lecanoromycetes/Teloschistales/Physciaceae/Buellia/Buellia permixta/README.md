@@ -1,5 +1,4 @@
-Buellia permixta (Nyl.) Flagey SPECIES
-=======
+# Buellia permixta (Nyl.) Flagey SPECIES
 
 #### Status
 ACCEPTED

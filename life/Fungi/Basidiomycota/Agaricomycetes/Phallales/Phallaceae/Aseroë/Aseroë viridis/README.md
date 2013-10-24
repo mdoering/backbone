@@ -1,5 +1,4 @@
-Aseroë viridis Berk. & Hook. f. SPECIES
-=======
+# Aseroë viridis Berk. & Hook. f. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heterodermia circinalis (Zahlbr.) W.A. Weber SPECIES
-=======
+# Heterodermia circinalis (Zahlbr.) W.A. Weber SPECIES
 
 #### Status
 ACCEPTED

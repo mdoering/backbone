@@ -1,5 +1,4 @@
-Biatorella clauzadeana Llimona SPECIES
-=======
+# Biatorella clauzadeana Llimona SPECIES
 
 #### Status
 ACCEPTED

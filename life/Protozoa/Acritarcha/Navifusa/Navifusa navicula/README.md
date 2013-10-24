@@ -1,5 +1,4 @@
-Navifusa navicula (Eisenack, 1951) Eisenack et al., 1979 SPECIES
-=======
+# Navifusa navicula (Eisenack, 1951) Eisenack et al., 1979 SPECIES
 
 #### Status
 ACCEPTED

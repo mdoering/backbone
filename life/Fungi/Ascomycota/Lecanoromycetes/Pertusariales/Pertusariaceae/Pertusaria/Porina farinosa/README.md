@@ -1,5 +1,4 @@
-Porina farinosa C. Knight, 1886 SPECIES
-=======
+# Porina farinosa C. Knight, 1886 SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Graphina verruculifera Kr.P. Singh & G.P. Sinha SPECIES
-=======
+# Graphina verruculifera Kr.P. Singh & G.P. Sinha SPECIES
 
 #### Status
 ACCEPTED

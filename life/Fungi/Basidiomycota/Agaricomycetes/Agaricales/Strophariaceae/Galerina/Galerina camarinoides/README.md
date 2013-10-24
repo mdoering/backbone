@@ -1,17 +1,16 @@
-Galerina camerinoides A.H. Sm. SPECIES
-=======
+# Galerina camarinoides A.H. Sm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 45: 895 (1953)
 
 #### Original name
-Galerina camerinoides A.H. Sm.
+Galerina camarinoides A.H. Sm.
 
 ### Remarks
 null

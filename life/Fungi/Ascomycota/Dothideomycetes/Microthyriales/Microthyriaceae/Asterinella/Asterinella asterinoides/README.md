@@ -1,5 +1,4 @@
-Asterinella asterinoides (Pat.) Theiss. SPECIES
-=======
+# Asterinella asterinoides (Pat.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

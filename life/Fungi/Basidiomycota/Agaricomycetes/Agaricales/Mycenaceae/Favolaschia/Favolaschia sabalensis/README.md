@@ -1,17 +1,16 @@
-Favolaschia sabalensis var. geonomae Singer VARIETY
-=======
+# Favolaschia sabalensis (Charles) Singer, 1945 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beih. Nova Hedwigia 50: 101 (1974)
+Lloydia 8: 207 (1945)
 
 #### Original name
-Favolaschia sabalensis var. geonomae Singer
+null
 
 ### Remarks
 null

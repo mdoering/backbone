@@ -1,5 +1,4 @@
-Hysteropezizella lamyi (Mont.) Nannf. SPECIES
-=======
+# Hysteropezizella lamyi (Mont.) Nannf. SPECIES
 
 #### Status
 ACCEPTED

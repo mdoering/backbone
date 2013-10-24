@@ -1,5 +1,4 @@
-Bacidia albidonigra H. Magn. SPECIES
-=======
+# Bacidia albidonigra H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrocybe iropus A.M. Young SPECIES
-=======
+# Hygrocybe iropus A.M. Young SPECIES
 
 #### Status
 ACCEPTED

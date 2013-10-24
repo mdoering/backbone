@@ -1,5 +1,4 @@
-Allodus opulenta Orton SPECIES
-=======
+# Allodus opulenta Orton SPECIES
 
 #### Status
 ACCEPTED

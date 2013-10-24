@@ -1,5 +1,4 @@
-Amphileptus carchesi SPECIES
-=======
+# Amphileptus carchesi SPECIES
 
 #### Status
 ACCEPTED

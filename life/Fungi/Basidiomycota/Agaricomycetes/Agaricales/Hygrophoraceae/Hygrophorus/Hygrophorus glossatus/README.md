@@ -1,5 +1,4 @@
-Hygrophorus glossatus Britzelm. SPECIES
-=======
+# Hygrophorus glossatus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

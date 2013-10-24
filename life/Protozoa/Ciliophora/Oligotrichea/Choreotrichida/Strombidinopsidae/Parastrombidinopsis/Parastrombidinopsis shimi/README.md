@@ -1,5 +1,4 @@
-Parastrombidinopsis shimi Kim, Jeong, Strüder-Kypke, Lynn, Kim, KimLee, 2005 SPECIES
-=======
+# Parastrombidinopsis shimi Kim, Jeong, Strüder-Kypke, Lynn, Kim, KimLee, 2005 SPECIES
 
 #### Status
 ACCEPTED

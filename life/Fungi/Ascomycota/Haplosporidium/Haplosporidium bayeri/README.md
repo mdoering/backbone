@@ -1,5 +1,4 @@
-Haplosporidium bayeri Weiser SPECIES
-=======
+# Haplosporidium bayeri Weiser SPECIES
 
 #### Status
 ACCEPTED

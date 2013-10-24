@@ -1,5 +1,4 @@
-Clitocybe alboumbilicata Murrill SPECIES
-=======
+# Clitocybe alboumbilicata Murrill SPECIES
 
 #### Status
 ACCEPTED

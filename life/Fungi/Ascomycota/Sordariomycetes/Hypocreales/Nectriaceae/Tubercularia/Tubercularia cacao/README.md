@@ -1,5 +1,4 @@
-Tubercularia cacao McAlpine SPECIES
-=======
+# Tubercularia cacao McAlpine SPECIES
 
 #### Status
 ACCEPTED

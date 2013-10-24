@@ -1,5 +1,4 @@
-Halodictyon Kützing, 1843 GENUS
-=======
+# Halodictyon Kützing, 1843 GENUS
 
 #### Status
 ACCEPTED

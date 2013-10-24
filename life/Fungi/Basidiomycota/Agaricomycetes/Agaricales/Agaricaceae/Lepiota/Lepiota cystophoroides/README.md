@@ -1,17 +1,16 @@
-Lepiota cystophoroides var. septentrionalis Bon VARIETY
-=======
+# Lepiota cystophoroides Joss. & Riousset, 1972 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Bon & Van Haluwyn, Docums Mycol. 13(no. 50): 41 (1983)
+Bull. mens. Soc. linn. Lyon 41(7): 133, Latin description p. 137 (1972)
 
 #### Original name
-Lepiota cystophoroides var. septentrionalis Bon
+Lepiota cystophoroides Joss. & Riousset, 1972
 
 ### Remarks
 null

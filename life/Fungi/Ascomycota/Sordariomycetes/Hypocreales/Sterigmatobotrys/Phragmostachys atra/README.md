@@ -1,5 +1,4 @@
-Phragmostachys atra Costantin SPECIES
-=======
+# Phragmostachys atra Costantin SPECIES
 
 #### Status
 ACCEPTED

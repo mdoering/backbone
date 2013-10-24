@@ -1,5 +1,4 @@
-Hysterangium pterosporum Donadini & G. Riousset SPECIES
-=======
+# Hysterangium pterosporum Donadini & G. Riousset SPECIES
 
 #### Status
 ACCEPTED

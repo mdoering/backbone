@@ -1,5 +1,4 @@
-Stauriella aquatica Sivichai & E.B.G. Jones, 2004 SPECIES
-=======
+# Stauriella aquatica Sivichai & E.B.G. Jones, 2004 SPECIES
 
 #### Status
 ACCEPTED

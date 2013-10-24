@@ -1,5 +1,4 @@
-Uredo pruni-maximowiczii Henn. SPECIES
-=======
+# Uredo pruni-maximowiczii Henn. SPECIES
 
 #### Status
 ACCEPTED

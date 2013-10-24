@@ -1,5 +1,4 @@
-Fissurina goreaui SPECIES
-=======
+# Fissurina goreaui SPECIES
 
 #### Status
 ACCEPTED

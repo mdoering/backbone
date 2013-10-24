@@ -1,5 +1,4 @@
-Hymenochaete toxia Berk. SPECIES
-=======
+# Hymenochaete toxia Berk. SPECIES
 
 #### Status
 ACCEPTED

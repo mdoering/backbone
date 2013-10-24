@@ -1,5 +1,4 @@
-Peziza zanthomela Pers. SPECIES
-=======
+# Peziza zanthomela Pers. SPECIES
 
 #### Status
 ACCEPTED

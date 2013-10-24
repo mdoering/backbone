@@ -1,5 +1,4 @@
-Heterolobosea Page & Blanton, 1985 CLASS
-=======
+# Heterolobosea Page & Blanton, 1985 CLASS
 
 #### Status
 ACCEPTED

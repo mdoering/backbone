@@ -1,5 +1,4 @@
-Puccinia aecidii-leucanthemi E. Fisch. SPECIES
-=======
+# Puccinia aecidii-leucanthemi E. Fisch. SPECIES
 
 #### Status
 ACCEPTED

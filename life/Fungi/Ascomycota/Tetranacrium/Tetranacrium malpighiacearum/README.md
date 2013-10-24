@@ -1,5 +1,4 @@
-Tetranacrium malpighiacearum J.L. Bezerra & Poroca SPECIES
-=======
+# Tetranacrium malpighiacearum J.L. Bezerra & Poroca SPECIES
 
 #### Status
 ACCEPTED

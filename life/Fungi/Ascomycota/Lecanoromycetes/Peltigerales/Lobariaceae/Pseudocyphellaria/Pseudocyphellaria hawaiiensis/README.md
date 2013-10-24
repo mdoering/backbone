@@ -1,5 +1,4 @@
-Pseudocyphellaria hawaiiensis H. Magn. SPECIES
-=======
+# Pseudocyphellaria hawaiiensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

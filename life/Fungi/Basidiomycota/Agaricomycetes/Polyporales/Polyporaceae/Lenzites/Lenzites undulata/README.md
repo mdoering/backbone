@@ -1,5 +1,4 @@
-Lenzites undulata (Hoffm.) Sacc. & Traverso SPECIES
-=======
+# Lenzites undulata (Hoffm.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

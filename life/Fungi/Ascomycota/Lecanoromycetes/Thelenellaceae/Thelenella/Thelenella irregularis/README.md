@@ -1,5 +1,4 @@
-Thelenella irregularis Vain. SPECIES
-=======
+# Thelenella irregularis Vain. SPECIES
 
 #### Status
 ACCEPTED

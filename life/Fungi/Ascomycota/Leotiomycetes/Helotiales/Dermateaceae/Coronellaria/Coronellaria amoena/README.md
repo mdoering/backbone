@@ -1,5 +1,4 @@
-Coronellaria amoena Bondartsev SPECIES
-=======
+# Coronellaria amoena Bondartsev SPECIES
 
 #### Status
 ACCEPTED

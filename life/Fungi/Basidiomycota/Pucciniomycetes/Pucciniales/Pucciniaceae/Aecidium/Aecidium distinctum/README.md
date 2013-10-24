@@ -1,5 +1,4 @@
-Aecidium distinctum Arthur & Cummins SPECIES
-=======
+# Aecidium distinctum Arthur & Cummins SPECIES
 
 #### Status
 ACCEPTED

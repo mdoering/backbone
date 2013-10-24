@@ -1,5 +1,4 @@
-Genea neuwirthi Velen. SPECIES
-=======
+# Genea neuwirthi Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Siroplaconema moravica Petr. SPECIES
-=======
+# Siroplaconema moravica Petr. SPECIES
 
 #### Status
 ACCEPTED

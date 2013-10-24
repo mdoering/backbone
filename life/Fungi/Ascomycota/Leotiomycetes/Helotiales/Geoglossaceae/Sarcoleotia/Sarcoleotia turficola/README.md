@@ -1,14 +1,13 @@
-Ombrophila turficola (Boud.) Svrcek, 1957 SPECIES
-=======
+# Sarcoleotia turficola (Boud.) Dennis, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ceská Mykol. 11: 40 (1957)
+Kew Bull. , Addit. Ser. 25(2): 345 (1971)
 
 #### Original name
 Coryne turficola Boud., 1905

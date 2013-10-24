@@ -1,5 +1,4 @@
-Nodulospora Marvanová & Bärl. GENUS
-=======
+# Nodulospora Marvanová & Bärl. GENUS
 
 #### Status
 ACCEPTED

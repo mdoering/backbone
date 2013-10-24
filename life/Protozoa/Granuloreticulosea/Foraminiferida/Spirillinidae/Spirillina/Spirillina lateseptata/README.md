@@ -1,5 +1,4 @@
-Spirillina lateseptata Terquem SPECIES
-=======
+# Spirillina lateseptata Terquem SPECIES
 
 #### Status
 ACCEPTED

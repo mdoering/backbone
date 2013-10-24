@@ -1,5 +1,4 @@
-Trichia virgineum Rick SPECIES
-=======
+# Trichia virgineum Rick SPECIES
 
 #### Status
 ACCEPTED

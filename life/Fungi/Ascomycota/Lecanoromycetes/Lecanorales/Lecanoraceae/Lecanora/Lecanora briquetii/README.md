@@ -1,5 +1,4 @@
-Lecanora briquetii Zschacke SPECIES
-=======
+# Lecanora briquetii Zschacke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hysterangium pompholyx Tul. SPECIES
-=======
+# Hysterangium pompholyx Tul. SPECIES
 
 #### Status
 ACCEPTED

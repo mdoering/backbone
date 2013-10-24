@@ -1,5 +1,4 @@
-Bucanthus P.R. Bown, 1987 GENUS
-=======
+# Bucanthus P.R. Bown, 1987 GENUS
 
 #### Status
 ACCEPTED

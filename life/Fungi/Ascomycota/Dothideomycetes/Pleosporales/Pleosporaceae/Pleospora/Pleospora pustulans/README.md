@@ -1,5 +1,4 @@
-Pleospora pustulans Ellis & Everh. SPECIES
-=======
+# Pleospora pustulans Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

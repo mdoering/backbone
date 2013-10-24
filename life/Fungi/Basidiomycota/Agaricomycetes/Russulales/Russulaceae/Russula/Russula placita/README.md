@@ -1,5 +1,4 @@
-Russula placita Burl. SPECIES
-=======
+# Russula placita Burl. SPECIES
 
 #### Status
 ACCEPTED

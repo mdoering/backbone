@@ -1,5 +1,4 @@
-Pseudedomia Henson, 1948 GENUS
-=======
+# Pseudedomia Henson, 1948 GENUS
 
 #### Status
 ACCEPTED

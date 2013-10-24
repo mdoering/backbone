@@ -1,5 +1,4 @@
-Lycoperdodes canariense Kuntze SPECIES
-=======
+# Lycoperdodes canariense Kuntze SPECIES
 
 #### Status
 ACCEPTED

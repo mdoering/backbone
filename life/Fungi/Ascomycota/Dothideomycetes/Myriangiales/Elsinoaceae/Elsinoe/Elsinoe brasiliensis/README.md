@@ -1,8 +1,7 @@
-Elsinoe jatrophae Bitanc. & Jenkins, 1951 SPECIES
-=======
+# Elsinoe brasiliensis Bitanc. & Jenkins, 1942 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

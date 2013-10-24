@@ -1,5 +1,4 @@
-Balteocysta L.E.Stover & W.R.Evitt GENUS
-=======
+# Balteocysta L.E.Stover & W.R.Evitt GENUS
 
 #### Status
 ACCEPTED

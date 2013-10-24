@@ -1,5 +1,4 @@
-Astrosporina incognita E. Horak SPECIES
-=======
+# Astrosporina incognita E. Horak SPECIES
 
 #### Status
 ACCEPTED

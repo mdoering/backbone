@@ -1,5 +1,4 @@
-Lycoperdon retinosum Velen. SPECIES
-=======
+# Lycoperdon retinosum Velen. SPECIES
 
 #### Status
 ACCEPTED

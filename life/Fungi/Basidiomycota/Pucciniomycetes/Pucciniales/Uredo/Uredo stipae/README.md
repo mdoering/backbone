@@ -1,5 +1,4 @@
-Uredo stipae Jacz. SPECIES
-=======
+# Uredo stipae Jacz. SPECIES
 
 #### Status
 ACCEPTED

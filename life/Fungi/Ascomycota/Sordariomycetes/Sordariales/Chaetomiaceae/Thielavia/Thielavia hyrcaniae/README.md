@@ -1,5 +1,4 @@
-Thielavia hyrcaniae Nicot, 1961 SPECIES
-=======
+# Thielavia hyrcaniae Nicot, 1961 SPECIES
 
 #### Status
 ACCEPTED

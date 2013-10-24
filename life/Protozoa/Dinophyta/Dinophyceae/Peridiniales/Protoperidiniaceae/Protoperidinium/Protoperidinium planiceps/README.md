@@ -1,5 +1,4 @@
-Protoperidinium planiceps (Abé, 1981) Balech, 1988 SPECIES
-=======
+# Protoperidinium planiceps (Abé, 1981) Balech, 1988 SPECIES
 
 #### Status
 ACCEPTED

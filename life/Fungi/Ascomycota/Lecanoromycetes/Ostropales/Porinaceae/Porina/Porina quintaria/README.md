@@ -1,5 +1,4 @@
-Porina quintaria (Nyl.) Zahlbr. SPECIES
-=======
+# Porina quintaria (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

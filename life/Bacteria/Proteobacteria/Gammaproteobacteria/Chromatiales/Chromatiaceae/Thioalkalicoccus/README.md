@@ -1,5 +1,4 @@
-Thioalkalicoccus Bryantseva et al., 2000 GENUS
-=======
+# Thioalkalicoccus Bryantseva et al., 2000 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterostomella tosaensis I. Hino & Katum. SPECIES
-=======
+# Asterostomella tosaensis I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

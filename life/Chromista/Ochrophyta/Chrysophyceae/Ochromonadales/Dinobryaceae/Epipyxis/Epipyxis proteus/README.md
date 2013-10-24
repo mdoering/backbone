@@ -1,5 +1,4 @@
-Epipyxis proteus (Wislouch) Hilliard & Asmund SPECIES
-=======
+# Epipyxis proteus (Wislouch) Hilliard & Asmund SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entyloma crepidis-tectori Piatek, 2006 SPECIES
-=======
+# Entyloma crepidis-tectori Piatek, 2006 SPECIES
 
 #### Status
 ACCEPTED

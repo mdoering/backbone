@@ -1,5 +1,4 @@
-Microstelium Pat. GENUS
-=======
+# Microstelium Pat. GENUS
 
 #### Status
 ACCEPTED

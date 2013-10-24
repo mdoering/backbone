@@ -1,5 +1,4 @@
-Elphidium strattoni var. joaquinensis Bandy & Arnal, 1957 VARIETY
-=======
+# Elphidium strattoni (Applin) SPECIES
 
 #### Status
 ACCEPTED

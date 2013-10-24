@@ -1,5 +1,4 @@
-Agaricus citrinidiscus Murrill SPECIES
-=======
+# Agaricus citrinidiscus Murrill SPECIES
 
 #### Status
 ACCEPTED

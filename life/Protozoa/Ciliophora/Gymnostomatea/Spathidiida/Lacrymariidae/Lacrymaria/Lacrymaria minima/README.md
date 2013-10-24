@@ -1,5 +1,4 @@
-Lacrymaria minima Kahl, 1927 SPECIES
-=======
+# Lacrymaria minima Kahl, 1927 SPECIES
 
 #### Status
 ACCEPTED

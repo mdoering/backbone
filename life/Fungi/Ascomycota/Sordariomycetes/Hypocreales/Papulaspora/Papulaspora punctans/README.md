@@ -1,5 +1,4 @@
-Papulaspora punctans (Schwein.) S. Hughes SPECIES
-=======
+# Papulaspora punctans (Schwein.) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

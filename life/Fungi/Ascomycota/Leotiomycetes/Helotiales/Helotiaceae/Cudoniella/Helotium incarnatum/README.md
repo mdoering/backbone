@@ -1,5 +1,4 @@
-Helotium incarnatum Pers. SPECIES
-=======
+# Helotium incarnatum Pers. SPECIES
 
 #### Status
 ACCEPTED

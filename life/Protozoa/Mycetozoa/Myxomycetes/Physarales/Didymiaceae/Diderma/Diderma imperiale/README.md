@@ -1,5 +1,4 @@
-Diderma imperiale Emoto, 1929 SPECIES
-=======
+# Diderma imperiale Emoto, 1929 SPECIES
 
 #### Status
 ACCEPTED

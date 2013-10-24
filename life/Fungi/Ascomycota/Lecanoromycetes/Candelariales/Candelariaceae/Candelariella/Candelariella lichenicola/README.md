@@ -1,5 +1,4 @@
-Candelariella lichenicola M. Westb. SPECIES
-=======
+# Candelariella lichenicola M. Westb. SPECIES
 
 #### Status
 ACCEPTED

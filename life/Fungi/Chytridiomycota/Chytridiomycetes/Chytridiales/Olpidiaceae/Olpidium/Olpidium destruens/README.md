@@ -1,5 +1,4 @@
-Olpidium destruens (Nowak.) J. Schröt. SPECIES
-=======
+# Olpidium destruens (Nowak.) J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

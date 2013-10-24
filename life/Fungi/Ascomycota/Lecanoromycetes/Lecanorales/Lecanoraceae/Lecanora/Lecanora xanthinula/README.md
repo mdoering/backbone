@@ -1,5 +1,4 @@
-Lecanora xanthinula Zahlbr. SPECIES
-=======
+# Lecanora xanthinula Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia subminutula Nyl. SPECIES
-=======
+# Arthonia subminutula Nyl. SPECIES
 
 #### Status
 ACCEPTED

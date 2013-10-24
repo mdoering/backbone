@@ -1,5 +1,4 @@
-Eoeponidella manoconica SPECIES
-=======
+# Eoeponidella manoconica SPECIES
 
 #### Status
 ACCEPTED

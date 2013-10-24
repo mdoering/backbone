@@ -1,5 +1,4 @@
-Phaeospora peltigericola D. Hawksw. SPECIES
-=======
+# Phaeospora peltigericola D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

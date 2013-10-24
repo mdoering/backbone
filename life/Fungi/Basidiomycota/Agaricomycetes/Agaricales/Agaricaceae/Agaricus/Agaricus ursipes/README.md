@@ -1,5 +1,4 @@
-Agaricus ursipes Lasch SPECIES
-=======
+# Agaricus ursipes Lasch SPECIES
 
 #### Status
 ACCEPTED

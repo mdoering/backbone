@@ -1,5 +1,4 @@
-Verticicladium graminicola J.R. Johnst. & J.A. Stev. SPECIES
-=======
+# Verticicladium graminicola J.R. Johnst. & J.A. Stev. SPECIES
 
 #### Status
 ACCEPTED

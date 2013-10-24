@@ -1,5 +1,4 @@
-Himantia subterranea (Willd.) Rebent. SPECIES
-=======
+# Himantia subterranea (Willd.) Rebent. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthroascus GENUS
-=======
+# Arthroascus GENUS
 
 #### Status
 ACCEPTED

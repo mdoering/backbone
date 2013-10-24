@@ -1,5 +1,4 @@
-Ceramothyrium philodendri Bat. SPECIES
-=======
+# Ceramothyrium philodendri Bat. SPECIES
 
 #### Status
 ACCEPTED

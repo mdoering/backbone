@@ -1,5 +1,4 @@
-Eponides pygmaea SPECIES
-=======
+# Eponides pygmaea SPECIES
 
 #### Status
 ACCEPTED

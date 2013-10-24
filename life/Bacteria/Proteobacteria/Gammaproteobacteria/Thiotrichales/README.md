@@ -1,5 +1,4 @@
-Thiotrichales ORDER
-=======
+# Thiotrichales ORDER
 
 #### Status
 ACCEPTED

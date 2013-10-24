@@ -1,5 +1,4 @@
-Phyllachora ajrekarii Syd. & P. Syd., 1912 SPECIES
-=======
+# Phyllachora ajrekarii Syd. & P. Syd., 1912 SPECIES
 
 #### Status
 DOUBTFUL

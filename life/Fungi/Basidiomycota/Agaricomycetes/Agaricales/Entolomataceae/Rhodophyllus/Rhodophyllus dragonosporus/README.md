@@ -1,5 +1,4 @@
-Rhodophyllus dragonosporus Singer SPECIES
-=======
+# Rhodophyllus dragonosporus Singer SPECIES
 
 #### Status
 ACCEPTED

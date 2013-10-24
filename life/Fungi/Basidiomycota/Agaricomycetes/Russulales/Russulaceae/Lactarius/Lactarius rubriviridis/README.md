@@ -1,5 +1,4 @@
-Lactarius rubriviridis Desjardin, H.M. Saylor & Thiers SPECIES
-=======
+# Lactarius rubriviridis Desjardin, H.M. Saylor & Thiers SPECIES
 
 #### Status
 ACCEPTED

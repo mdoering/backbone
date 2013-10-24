@@ -1,5 +1,4 @@
-Septoria tecomaxochitl Tehon & G.L. Stout SPECIES
-=======
+# Septoria tecomaxochitl Tehon & G.L. Stout SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphina albonotata (Nyl.) C.W. Dodge SPECIES
-=======
+# Graphina albonotata (Nyl.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

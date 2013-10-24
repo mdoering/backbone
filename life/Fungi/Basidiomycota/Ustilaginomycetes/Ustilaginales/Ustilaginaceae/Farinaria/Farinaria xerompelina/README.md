@@ -1,5 +1,4 @@
-Farinaria xerompelina Sowerby SPECIES
-=======
+# Farinaria xerompelina Sowerby SPECIES
 
 #### Status
 ACCEPTED

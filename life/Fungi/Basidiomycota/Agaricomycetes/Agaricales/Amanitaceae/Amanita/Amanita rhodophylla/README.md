@@ -1,5 +1,4 @@
-Amanita rhodophylla Imazeki & Toki SPECIES
-=======
+# Amanita rhodophylla Imazeki & Toki SPECIES
 
 #### Status
 ACCEPTED

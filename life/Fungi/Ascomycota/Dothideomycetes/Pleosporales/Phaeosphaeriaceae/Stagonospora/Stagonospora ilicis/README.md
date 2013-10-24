@@ -1,5 +1,4 @@
-Stagonospora ilicis Grove SPECIES
-=======
+# Stagonospora ilicis Grove SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Beltrania eremochloae M. Zhang & T.Y. Zhang SPECIES
-=======
+# Beltrania eremochloae M. Zhang & T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

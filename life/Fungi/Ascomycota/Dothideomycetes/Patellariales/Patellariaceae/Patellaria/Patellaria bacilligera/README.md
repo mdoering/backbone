@@ -1,5 +1,4 @@
-Patellaria bacilligera P. Karst. SPECIES
-=======
+# Patellaria bacilligera P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stigmatomyces coeniae H.L. Dainat & J. Dainat SPECIES
-=======
+# Stigmatomyces coeniae H.L. Dainat & J. Dainat SPECIES
 
 #### Status
 ACCEPTED

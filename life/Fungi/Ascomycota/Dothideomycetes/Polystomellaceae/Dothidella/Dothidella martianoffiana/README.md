@@ -1,5 +1,4 @@
-Dothidella martianoffiana (Niessl & Thüm.) Theiss. & Syd. SPECIES
-=======
+# Dothidella martianoffiana (Niessl & Thüm.) Theiss. & Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Termitomyces lanatus R. Heim SPECIES
-=======
+# Termitomyces lanatus R. Heim SPECIES
 
 #### Status
 ACCEPTED

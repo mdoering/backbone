@@ -1,5 +1,4 @@
-Leptosphaeria desmonci Syd. & P. Syd. SPECIES
-=======
+# Leptosphaeria desmonci Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

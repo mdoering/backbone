@@ -1,5 +1,4 @@
-Phlebiella petrophila (Bourdot & Galzin) Bondartsev & Singer SPECIES
-=======
+# Phlebiella petrophila (Bourdot & Galzin) Bondartsev & Singer SPECIES
 
 #### Status
 ACCEPTED

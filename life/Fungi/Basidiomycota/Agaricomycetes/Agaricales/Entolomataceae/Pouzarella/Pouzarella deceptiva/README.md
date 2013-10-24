@@ -1,5 +1,4 @@
-Pouzarella deceptiva Mazzer SPECIES
-=======
+# Pouzarella deceptiva Mazzer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Triloculina obliquinodus SPECIES
-=======
+# Triloculina obliquinodus SPECIES
 
 #### Status
 ACCEPTED

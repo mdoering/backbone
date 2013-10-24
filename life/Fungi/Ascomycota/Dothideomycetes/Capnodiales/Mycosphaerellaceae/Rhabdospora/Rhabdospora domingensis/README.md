@@ -1,5 +1,4 @@
-Rhabdospora domingensis Gonz. Frag. & Cif. SPECIES
-=======
+# Rhabdospora domingensis Gonz. Frag. & Cif. SPECIES
 
 #### Status
 ACCEPTED

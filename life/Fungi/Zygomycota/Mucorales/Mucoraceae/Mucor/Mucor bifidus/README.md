@@ -1,5 +1,4 @@
-Mucor bifidus Fresen. SPECIES
-=======
+# Mucor bifidus Fresen. SPECIES
 
 #### Status
 ACCEPTED

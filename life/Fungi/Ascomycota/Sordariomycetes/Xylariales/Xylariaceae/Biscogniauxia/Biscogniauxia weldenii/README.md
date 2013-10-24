@@ -1,17 +1,16 @@
-Hypoxylon weldenii var. microsporum J.D. Rogers, 1980 VARIETY
-=======
+# Biscogniauxia weldenii (J.D. Rogers) Whalley & Laessøe, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 72(4): 829 (1980)
+null
 
 #### Original name
-Hypoxylon weldenii var. microsporum J.D. Rogers, 1980
+null
 
 ### Remarks
 null

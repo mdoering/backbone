@@ -1,17 +1,16 @@
-Helmisporium cantonense Sacc. SPECIES
-=======
+# Helminthosporium cantonense Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Philipp. J. Sci. , C, Bot. 18: 604 (1921)
 
 #### Original name
-Helmisporium cantonense Sacc.
+Helminthosporium cantonense Sacc.
 
 ### Remarks
 null

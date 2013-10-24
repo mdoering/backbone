@@ -1,5 +1,4 @@
-Hypholoma compressum Velen. SPECIES
-=======
+# Hypholoma compressum Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dickeya dieffenbachiae Samson et al., 2005 SPECIES
-=======
+# Dickeya dieffenbachiae Samson et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

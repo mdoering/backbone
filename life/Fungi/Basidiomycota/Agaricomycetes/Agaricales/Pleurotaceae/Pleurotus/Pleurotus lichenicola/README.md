@@ -1,5 +1,4 @@
-Pleurotus lichenicola Speg. SPECIES
-=======
+# Pleurotus lichenicola Speg. SPECIES
 
 #### Status
 ACCEPTED

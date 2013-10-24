@@ -1,5 +1,4 @@
-Septoria securinegae (Syd.) Died. SPECIES
-=======
+# Septoria securinegae (Syd.) Died. SPECIES
 
 #### Status
 ACCEPTED

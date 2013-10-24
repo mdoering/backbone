@@ -1,5 +1,4 @@
-Dendrothele wojewodae Pouzar, 2001 SPECIES
-=======
+# Dendrothele wojewodae Pouzar, 2001 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphina inturgescens (Kremp.) Müll. Arg. SPECIES
-=======
+# Graphina inturgescens (Kremp.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

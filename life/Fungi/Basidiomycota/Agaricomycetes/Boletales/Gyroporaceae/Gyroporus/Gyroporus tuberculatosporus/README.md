@@ -1,5 +1,4 @@
-Gyroporus tuberculatosporus M. Zang SPECIES
-=======
+# Gyroporus tuberculatosporus M. Zang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dendrostilbella smaragdina (Alb. & Schwein.) Seifert, 2000 SPECIES
-=======
+# Dendrostilbella smaragdina (Alb. & Schwein.) Seifert, 2000 SPECIES
 
 #### Status
 ACCEPTED

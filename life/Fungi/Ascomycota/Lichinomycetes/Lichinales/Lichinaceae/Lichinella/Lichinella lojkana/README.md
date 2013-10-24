@@ -1,5 +1,4 @@
-Lichinella lojkana Hue SPECIES
-=======
+# Lichinella lojkana Hue SPECIES
 
 #### Status
 ACCEPTED

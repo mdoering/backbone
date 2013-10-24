@@ -1,5 +1,4 @@
-Oolina longispina SPECIES
-=======
+# Oolina longispina SPECIES
 
 #### Status
 ACCEPTED

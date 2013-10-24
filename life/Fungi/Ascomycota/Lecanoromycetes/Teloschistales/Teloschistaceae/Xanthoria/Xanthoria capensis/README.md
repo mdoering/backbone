@@ -1,5 +1,4 @@
-Xanthoria capensis Kärnefelt, Arup & L. Lindblom SPECIES
-=======
+# Xanthoria capensis Kärnefelt, Arup & L. Lindblom SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Carpenteria proteiformis SPECIES
-=======
+# Carpenteria proteiformis SPECIES
 
 #### Status
 ACCEPTED

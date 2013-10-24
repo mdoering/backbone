@@ -1,5 +1,4 @@
-Rosellinia diderma Sacc. SPECIES
-=======
+# Rosellinia diderma Sacc. SPECIES
 
 #### Status
 ACCEPTED

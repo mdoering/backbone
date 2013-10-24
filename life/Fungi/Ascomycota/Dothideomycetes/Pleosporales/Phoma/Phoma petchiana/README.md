@@ -1,5 +1,4 @@
-Phoma petchiana Trotter SPECIES
-=======
+# Phoma petchiana Trotter SPECIES
 
 #### Status
 ACCEPTED

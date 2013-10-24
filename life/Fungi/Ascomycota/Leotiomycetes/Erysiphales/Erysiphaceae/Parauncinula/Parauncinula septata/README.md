@@ -1,17 +1,16 @@
-Uncinula septata var. septata E.S. Salmon VARIETY
-=======
+# Parauncinula septata (E.S. Salmon) S. Takam. & U. Braun, 2005 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Bot. , London 38: 27 (1900)
+Mycoscience 46(1): 14 (2005)
 
 #### Original name
-Uncinula septata var. septata E.S. Salmon
+Uncinula septata E.S. Salmon, 1900
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Puccinia gentilis Arthur SPECIES
-=======
+# Puccinia gentilis Arthur SPECIES
 
 #### Status
 ACCEPTED

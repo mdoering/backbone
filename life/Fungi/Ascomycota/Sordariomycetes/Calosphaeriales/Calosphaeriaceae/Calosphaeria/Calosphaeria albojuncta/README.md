@@ -1,5 +1,4 @@
-Calosphaeria albojuncta Rehm SPECIES
-=======
+# Calosphaeria albojuncta Rehm SPECIES
 
 #### Status
 ACCEPTED

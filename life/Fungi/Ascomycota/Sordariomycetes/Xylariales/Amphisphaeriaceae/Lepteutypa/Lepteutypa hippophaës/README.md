@@ -1,14 +1,13 @@
-Leptosphaeria hippophaës (Sollm.) Sacc. SPECIES
-=======
+# Lepteutypa hippophaës (Sollm.) Arx SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Gen. Fungi Sporul. Cult. (Lehr) 118 (1970)
 
 #### Original name
 Sphaeria hippophaës Sollm.

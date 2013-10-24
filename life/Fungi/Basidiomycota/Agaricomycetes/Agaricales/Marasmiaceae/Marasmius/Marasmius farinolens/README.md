@@ -1,5 +1,4 @@
-Marasmius farinolens Corner SPECIES
-=======
+# Marasmius farinolens Corner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhodophyllus niphoides Romagn. SPECIES
-=======
+# Rhodophyllus niphoides Romagn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaceloma fagarae Bitanc. & Jenkins, 1951 SPECIES
-=======
+# Sphaceloma fagarae Bitanc. & Jenkins, 1951 SPECIES
 
 #### Status
 ACCEPTED

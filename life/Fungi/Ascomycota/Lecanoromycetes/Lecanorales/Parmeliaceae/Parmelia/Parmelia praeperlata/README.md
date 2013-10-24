@@ -1,5 +1,4 @@
-Parmelia praeperlata Nyl. SPECIES
-=======
+# Parmelia praeperlata Nyl. SPECIES
 
 #### Status
 ACCEPTED

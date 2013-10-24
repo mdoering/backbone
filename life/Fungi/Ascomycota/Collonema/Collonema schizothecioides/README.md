@@ -1,5 +1,4 @@
-Collonema schizothecioides (Preuss) Grove SPECIES
-=======
+# Collonema schizothecioides (Preuss) Grove SPECIES
 
 #### Status
 ACCEPTED

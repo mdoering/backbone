@@ -1,5 +1,4 @@
-Phomopsis thespesiae Luke & C.N. Reddy SPECIES
-=======
+# Phomopsis thespesiae Luke & C.N. Reddy SPECIES
 
 #### Status
 ACCEPTED

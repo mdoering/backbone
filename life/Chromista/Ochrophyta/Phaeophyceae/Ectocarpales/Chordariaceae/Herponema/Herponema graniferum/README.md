@@ -1,5 +1,4 @@
-Herponema graniferum Kuckuck SPECIES
-=======
+# Herponema graniferum Kuckuck SPECIES
 
 #### Status
 ACCEPTED

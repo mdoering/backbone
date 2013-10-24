@@ -1,5 +1,4 @@
-Perisporium portoricense F. Stevens SPECIES
-=======
+# Perisporium portoricense F. Stevens SPECIES
 
 #### Status
 ACCEPTED

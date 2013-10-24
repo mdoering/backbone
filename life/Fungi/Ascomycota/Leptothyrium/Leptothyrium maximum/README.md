@@ -1,5 +1,4 @@
-Leptothyrium maximum Tehon & E.Y. Daniels SPECIES
-=======
+# Leptothyrium maximum Tehon & E.Y. Daniels SPECIES
 
 #### Status
 ACCEPTED

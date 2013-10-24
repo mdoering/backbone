@@ -1,5 +1,4 @@
-Isaria gracilioides Kobayasi SPECIES
-=======
+# Isaria gracilioides Kobayasi SPECIES
 
 #### Status
 ACCEPTED

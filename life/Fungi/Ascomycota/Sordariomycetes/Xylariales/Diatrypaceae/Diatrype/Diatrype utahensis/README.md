@@ -1,5 +1,4 @@
-Diatrype utahensis Rehm SPECIES
-=======
+# Diatrype utahensis Rehm SPECIES
 
 #### Status
 ACCEPTED

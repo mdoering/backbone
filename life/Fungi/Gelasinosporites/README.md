@@ -1,5 +1,4 @@
-Gelasinosporites P. Briot, Lar.-Coll. & Locq. GENUS
-=======
+# Gelasinosporites P. Briot, Lar.-Coll. & Locq. GENUS
 
 #### Status
 ACCEPTED

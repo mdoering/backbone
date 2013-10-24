@@ -1,5 +1,4 @@
-Flammula flavopunctata Speg. SPECIES
-=======
+# Flammula flavopunctata Speg. SPECIES
 
 #### Status
 ACCEPTED

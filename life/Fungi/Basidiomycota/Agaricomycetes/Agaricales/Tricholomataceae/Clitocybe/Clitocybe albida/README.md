@@ -1,17 +1,16 @@
-Omphalina albida G. Stev., 1964 SPECIES
-=======
+# Clitocybe albida (G. Stev.) E. Horak, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Kew Bull. 19(1): 12 (1964)
+in Saccardo, Syll. fung. (Abellini) 15: 94 (1901)
 
 #### Original name
-Omphalina albida G. Stev., 1964
+Cantharellus albidus Fr., 1821
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Phoma pinastrella Sacc. SPECIES
-=======
+# Phoma pinastrella Sacc. SPECIES
 
 #### Status
 ACCEPTED

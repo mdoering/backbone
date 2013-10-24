@@ -1,5 +1,4 @@
-Dacrymyces flavus Lloyd SPECIES
-=======
+# Dacrymyces flavus Lloyd SPECIES
 
 #### Status
 ACCEPTED

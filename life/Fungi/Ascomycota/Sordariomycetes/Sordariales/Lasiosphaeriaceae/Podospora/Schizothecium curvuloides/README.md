@@ -1,14 +1,13 @@
-Podospora curvuloides Cain, 1962 SPECIES
-=======
+# Schizothecium curvuloides (Cain) N. Lundq., 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 40: 453 (1962)
+Thunbergia 25: 10 (1996)
 
 #### Original name
 Podospora curvuloides Cain, 1962

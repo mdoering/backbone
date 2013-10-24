@@ -1,5 +1,4 @@
-Schizotorula Krassiln. GENUS
-=======
+# Schizotorula Krassiln. GENUS
 
 #### Status
 ACCEPTED

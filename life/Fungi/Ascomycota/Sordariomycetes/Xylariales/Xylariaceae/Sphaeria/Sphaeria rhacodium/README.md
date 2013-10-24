@@ -1,5 +1,4 @@
-Sphaeria rhacodium Sacc. SPECIES
-=======
+# Sphaeria rhacodium Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Urohendersonia stipae H.C. Greene, 1953 SPECIES
-=======
+# Urohendersonia stipae H.C. Greene, 1953 SPECIES
 
 #### Status
 ACCEPTED

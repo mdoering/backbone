@@ -1,5 +1,4 @@
-Coniomela rimincola (Rehm) Kirschst. SPECIES
-=======
+# Coniomela rimincola (Rehm) Kirschst. SPECIES
 
 #### Status
 ACCEPTED

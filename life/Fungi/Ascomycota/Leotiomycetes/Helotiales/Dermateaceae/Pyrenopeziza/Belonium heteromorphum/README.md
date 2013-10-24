@@ -1,5 +1,4 @@
-Belonium heteromorphum (Ellis & Everh.) Seaver SPECIES
-=======
+# Belonium heteromorphum (Ellis & Everh.) Seaver SPECIES
 
 #### Status
 ACCEPTED

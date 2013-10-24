@@ -1,5 +1,4 @@
-Maristentor Lobban, Schefter, Simpson, Pochon, Pawlowski & Foissner, 2002 GENUS
-=======
+# Maristentor Lobban, Schefter, Simpson, Pochon, Pawlowski & Foissner, 2002 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo anthrisci Oudem. SPECIES
-=======
+# Uredo anthrisci Oudem. SPECIES
 
 #### Status
 ACCEPTED

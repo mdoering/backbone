@@ -1,14 +1,13 @@
-Valsa galericulata Tul. & C. Tul., 1863 SPECIES
-=======
+# Cryptodiaporthe galericulata (Tul. & C. Tul.) Wehm., 1933 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Select. fung. carpol. (Paris) 2: 203 (1863)
+Monograph of the Genus Diaporthe Nitschke & its Segregates 211 (1933)
 
 #### Original name
 Valsa galericulata Tul. & C. Tul., 1863

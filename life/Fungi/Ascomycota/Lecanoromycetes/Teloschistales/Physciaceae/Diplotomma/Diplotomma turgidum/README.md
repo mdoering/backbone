@@ -1,5 +1,4 @@
-Diplotomma turgidum A. Massal. SPECIES
-=======
+# Diplotomma turgidum A. Massal. SPECIES
 
 #### Status
 ACCEPTED

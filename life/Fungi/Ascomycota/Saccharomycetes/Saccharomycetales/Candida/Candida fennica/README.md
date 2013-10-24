@@ -1,5 +1,4 @@
-Candida fennica (Sonck & Yarrow) S.A. Mey. & Ahearn, 1983 SPECIES
-=======
+# Candida fennica (Sonck & Yarrow) S.A. Mey. & Ahearn, 1983 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hymenomonas Stein, 1878 GENUS
-=======
+# Hymenomonas Stein, 1878 GENUS
 
 #### Status
 ACCEPTED

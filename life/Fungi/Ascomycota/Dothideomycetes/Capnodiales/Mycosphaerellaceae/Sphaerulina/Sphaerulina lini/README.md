@@ -1,5 +1,4 @@
-Sphaerulina lini Kalymb. SPECIES
-=======
+# Sphaerulina lini Kalymb. SPECIES
 
 #### Status
 ACCEPTED

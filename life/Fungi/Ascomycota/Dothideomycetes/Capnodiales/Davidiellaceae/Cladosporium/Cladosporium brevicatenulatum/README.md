@@ -1,5 +1,4 @@
-Cladosporium brevicatenulatum Rebrik. & Sizova, 1978 SPECIES
-=======
+# Cladosporium brevicatenulatum Rebrik. & Sizova, 1978 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cucurbitaria armeniaca (Tul. & C. Tul.) Kuntze SPECIES
-=======
+# Cucurbitaria armeniaca (Tul. & C. Tul.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

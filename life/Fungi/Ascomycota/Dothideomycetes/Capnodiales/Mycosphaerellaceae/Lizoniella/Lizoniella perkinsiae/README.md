@@ -1,5 +1,4 @@
-Lizoniella perkinsiae (Henn.) Sacc. & D. Sacc. SPECIES
-=======
+# Lizoniella perkinsiae (Henn.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

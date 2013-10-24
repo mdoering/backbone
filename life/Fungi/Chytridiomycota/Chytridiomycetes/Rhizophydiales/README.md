@@ -1,5 +1,4 @@
-Rhizophydiales Letcher ORDER
-=======
+# Rhizophydiales Letcher ORDER
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptocline abietina Petr., 1924 SPECIES
-=======
+# Cryptocline abietina Petr., 1924 SPECIES
 
 #### Status
 ACCEPTED

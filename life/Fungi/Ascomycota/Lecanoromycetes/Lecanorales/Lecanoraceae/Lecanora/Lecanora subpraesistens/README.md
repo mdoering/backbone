@@ -1,5 +1,4 @@
-Lecanora subpraesistens Nayaka, Upreti & Lumbsch SPECIES
-=======
+# Lecanora subpraesistens Nayaka, Upreti & Lumbsch SPECIES
 
 #### Status
 ACCEPTED

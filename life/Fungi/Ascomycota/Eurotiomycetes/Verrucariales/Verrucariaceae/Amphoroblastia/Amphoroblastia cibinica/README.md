@@ -1,5 +1,4 @@
-Amphoroblastia cibinica Servít SPECIES
-=======
+# Amphoroblastia cibinica Servít SPECIES
 
 #### Status
 ACCEPTED

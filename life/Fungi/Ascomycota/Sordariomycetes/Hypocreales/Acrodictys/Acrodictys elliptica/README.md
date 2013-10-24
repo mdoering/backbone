@@ -1,5 +1,4 @@
-Acrodictys elliptica Manohar., N.K. Rao, D.K. Agarwal & Kunwar SPECIES
-=======
+# Acrodictys elliptica Manohar., N.K. Rao, D.K. Agarwal & Kunwar SPECIES
 
 #### Status
 ACCEPTED

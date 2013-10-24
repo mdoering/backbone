@@ -1,5 +1,4 @@
-Usnea ceylonica Motyka SPECIES
-=======
+# Usnea ceylonica Motyka SPECIES
 
 #### Status
 ACCEPTED

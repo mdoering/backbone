@@ -1,5 +1,4 @@
-Ammoglobigerinoides dehiscens Frerichs, 1969 SPECIES
-=======
+# Ammoglobigerinoides dehiscens Frerichs, 1969 SPECIES
 
 #### Status
 DOUBTFUL

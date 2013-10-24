@@ -1,5 +1,4 @@
-Phomopsis liriodendri Grove, 1930 SPECIES
-=======
+# Phomopsis liriodendri Grove, 1930 SPECIES
 
 #### Status
 ACCEPTED

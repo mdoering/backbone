@@ -1,5 +1,4 @@
-Ericiolus spiculiger H. A. Thomsen SPECIES
-=======
+# Ericiolus spiculiger H. A. Thomsen SPECIES
 
 #### Status
 ACCEPTED

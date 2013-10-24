@@ -1,5 +1,4 @@
-Lenzites madagascariensis Henn. SPECIES
-=======
+# Lenzites madagascariensis Henn. SPECIES
 
 #### Status
 ACCEPTED

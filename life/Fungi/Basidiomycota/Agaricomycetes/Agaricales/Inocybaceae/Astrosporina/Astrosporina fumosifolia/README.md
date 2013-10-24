@@ -1,5 +1,4 @@
-Astrosporina fumosifolia (Speg.) Raithelh. SPECIES
-=======
+# Astrosporina fumosifolia (Speg.) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

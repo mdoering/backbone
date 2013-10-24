@@ -1,5 +1,4 @@
-Tulostoma macrocephalum Long, 1944 SPECIES
-=======
+# Tulostoma macrocephalum Long, 1944 SPECIES
 
 #### Status
 ACCEPTED

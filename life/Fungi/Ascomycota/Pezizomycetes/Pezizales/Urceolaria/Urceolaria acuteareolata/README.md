@@ -1,5 +1,4 @@
-Urceolaria acuteareolata Motyka SPECIES
-=======
+# Urceolaria acuteareolata Motyka SPECIES
 
 #### Status
 ACCEPTED

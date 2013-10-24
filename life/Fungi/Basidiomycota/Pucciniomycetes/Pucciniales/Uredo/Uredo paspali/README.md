@@ -1,5 +1,4 @@
-Uredo paspali Pandotra SPECIES
-=======
+# Uredo paspali Pandotra SPECIES
 
 #### Status
 ACCEPTED

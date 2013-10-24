@@ -1,5 +1,4 @@
-Heterochaete subgelatinosa Bodman SPECIES
-=======
+# Heterochaete subgelatinosa Bodman SPECIES
 
 #### Status
 ACCEPTED

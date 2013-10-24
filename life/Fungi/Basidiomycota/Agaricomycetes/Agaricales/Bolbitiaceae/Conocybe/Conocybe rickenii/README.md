@@ -1,14 +1,13 @@
-Galera rickenii Jul. Schäff., 1930 SPECIES
-=======
+# Conocybe rickenii (Jul. Schäff.) Kühner, 1935 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Z. Pilzk. 9(11): 171 (1930)
+Encyclop. Mycol. 7: 115 (1935)
 
 #### Original name
 Galera rickenii Jul. Schäff., 1930

@@ -1,5 +1,4 @@
-Dendrophoma abietis Sawada SPECIES
-=======
+# Dendrophoma abietis Sawada SPECIES
 
 #### Status
 ACCEPTED

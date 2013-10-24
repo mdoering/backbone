@@ -1,5 +1,4 @@
-Parmelia obscurascens f. obscurascens FORM
-=======
+# Parmelia obscurascens Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia obscurascens f. obscurascens
+Parmelia physodes var. obscurata Ach.
 
 ### Remarks
 null

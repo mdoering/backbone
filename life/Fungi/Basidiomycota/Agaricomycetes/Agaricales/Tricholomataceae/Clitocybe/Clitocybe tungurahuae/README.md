@@ -1,5 +1,4 @@
-Clitocybe tungurahuae Singer SPECIES
-=======
+# Clitocybe tungurahuae Singer SPECIES
 
 #### Status
 ACCEPTED

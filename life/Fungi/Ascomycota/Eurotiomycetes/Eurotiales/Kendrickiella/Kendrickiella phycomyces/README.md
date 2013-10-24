@@ -1,14 +1,13 @@
-Scopularia phycomyces (Auersw.) Goid., 1935 SPECIES
-=======
+# Kendrickiella phycomyces (Auersw.) K. Jacobs & M.J. Wingf., 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Jacobs, Wingfield, Jacobs & Wingfield, Can. J. Bot. 79(1): 113 (2001)
 
 #### Original name
 Hantzschia phycomyces Auersw., 1862

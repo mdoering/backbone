@@ -1,8 +1,7 @@
-Methanothrix concilii Patel, 1985 SPECIES
-=======
+# Methanosaeta concilii (Patel, 1985) Patel & Sprott, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

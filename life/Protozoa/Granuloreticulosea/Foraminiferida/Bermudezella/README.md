@@ -1,17 +1,16 @@
-Carpenterella Bermúdez, 1949 GENUS
-=======
+# Bermudezella Thalmann, 1951 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Contr. Cushman Lab. Foraminif. Spec. Pub. , no. 25 313.
+Ecl. Geol. helv. , 43, 224.
 
 #### Original name
-null
+Carpenterella Bermúdez, 1949
 
 ### Remarks
 null

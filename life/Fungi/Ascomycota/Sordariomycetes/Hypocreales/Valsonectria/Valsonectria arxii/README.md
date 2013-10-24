@@ -1,17 +1,16 @@
-Valsonectria arxi Patw. & G.T. Joshi SPECIES
-=======
+# Valsonectria arxii Patw. & G.T. Joshi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Joshi & Patwarhhan, Botanique, Nagpur 3(1): 45 (1972)
 
 #### Original name
-Valsonectria arxi Patw. & G.T. Joshi
+Valsonectria arxii Patw. & G.T. Joshi
 
 ### Remarks
 null

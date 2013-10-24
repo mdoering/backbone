@@ -1,5 +1,4 @@
-Lepiota subprocera Beeli SPECIES
-=======
+# Lepiota subprocera Beeli SPECIES
 
 #### Status
 ACCEPTED

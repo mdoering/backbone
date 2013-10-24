@@ -1,5 +1,4 @@
-Endodromia vitrea Berk. SPECIES
-=======
+# Endodromia vitrea Berk. SPECIES
 
 #### Status
 ACCEPTED

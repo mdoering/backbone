@@ -1,8 +1,7 @@
-Tildenia pilosa (Harvey) Poljansky SPECIES
-=======
+# Calothrix pilosa Harvey SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

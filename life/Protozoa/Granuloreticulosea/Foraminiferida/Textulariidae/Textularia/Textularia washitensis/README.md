@@ -1,5 +1,4 @@
-Textularia washitensis Carsey SPECIES
-=======
+# Textularia washitensis Carsey SPECIES
 
 #### Status
 ACCEPTED

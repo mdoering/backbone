@@ -1,5 +1,4 @@
-Lecidella nashiana Knoph & Leuckert SPECIES
-=======
+# Lecidella nashiana Knoph & Leuckert SPECIES
 
 #### Status
 ACCEPTED

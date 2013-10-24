@@ -1,5 +1,4 @@
-Collybia albistricta (Murrill) Murrill SPECIES
-=======
+# Collybia albistricta (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

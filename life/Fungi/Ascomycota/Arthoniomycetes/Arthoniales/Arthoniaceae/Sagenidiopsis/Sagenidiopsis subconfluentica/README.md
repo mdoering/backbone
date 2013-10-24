@@ -1,5 +1,4 @@
-Sagenidiopsis subconfluentica Elix SPECIES
-=======
+# Sagenidiopsis subconfluentica Elix SPECIES
 
 #### Status
 ACCEPTED

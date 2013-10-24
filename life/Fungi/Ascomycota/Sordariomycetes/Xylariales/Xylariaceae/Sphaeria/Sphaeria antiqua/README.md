@@ -1,5 +1,4 @@
-Sphaeria antiqua Ellis & Everh. SPECIES
-=======
+# Sphaeria antiqua Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

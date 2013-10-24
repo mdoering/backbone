@@ -1,5 +1,4 @@
-Agaricus subsimilis Pers. SPECIES
-=======
+# Agaricus subsimilis Pers. SPECIES
 
 #### Status
 ACCEPTED

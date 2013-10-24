@@ -1,5 +1,4 @@
-Ramularia rhombica Matsush. SPECIES
-=======
+# Ramularia rhombica Matsush. SPECIES
 
 #### Status
 ACCEPTED

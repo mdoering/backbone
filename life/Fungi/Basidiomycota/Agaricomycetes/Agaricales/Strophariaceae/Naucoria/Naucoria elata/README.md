@@ -1,5 +1,4 @@
-Naucoria elata P. Karst. SPECIES
-=======
+# Naucoria elata P. Karst. SPECIES
 
 #### Status
 ACCEPTED

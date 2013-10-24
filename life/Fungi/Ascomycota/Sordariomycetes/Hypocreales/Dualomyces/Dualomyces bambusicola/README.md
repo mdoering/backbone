@@ -1,17 +1,16 @@
-Irpicomyces bambusicolus Matsush. SPECIES
-=======
+# Dualomyces bambusicola (Matsush.) Matsush., 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Matsush. Mycol. Mem. 5: 13 (1987)
 
 #### Original name
-Irpicomyces bambusicolus Matsush.
+Irpicomyces bambusicola Matsush., 1980
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Molliardiomyces domingensis Paden SPECIES
-=======
+# Molliardiomyces domingensis Paden SPECIES
 
 #### Status
 ACCEPTED

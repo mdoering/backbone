@@ -1,5 +1,4 @@
-Diplodia ilicis (Fr.) Fr. SPECIES
-=======
+# Diplodia ilicis (Fr.) Fr. SPECIES
 
 #### Status
 ACCEPTED

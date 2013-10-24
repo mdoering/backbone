@@ -1,5 +1,4 @@
-Toxoglugea variabilis J.I.R. Larsson SPECIES
-=======
+# Toxoglugea variabilis J.I.R. Larsson SPECIES
 
 #### Status
 ACCEPTED

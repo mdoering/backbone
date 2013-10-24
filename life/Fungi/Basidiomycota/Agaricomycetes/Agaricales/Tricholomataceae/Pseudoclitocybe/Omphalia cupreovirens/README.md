@@ -1,5 +1,4 @@
-Omphalia cupreovirens Speg. SPECIES
-=======
+# Omphalia cupreovirens Speg. SPECIES
 
 #### Status
 ACCEPTED

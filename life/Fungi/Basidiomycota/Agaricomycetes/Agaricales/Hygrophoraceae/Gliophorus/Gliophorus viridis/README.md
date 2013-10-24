@@ -1,14 +1,13 @@
-Hygrophorus viridis G. Stev., 1963 SPECIES
-=======
+# Gliophorus viridis (G. Stev.) E. Horak, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Kew Bull. 16(3): 383 (1963)
+N. Z. Jl Bot. 9(3): 462 (1971)
 
 #### Original name
 Hygrophorus viridis G. Stev., 1963

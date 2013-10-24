@@ -1,5 +1,4 @@
-Tubercularia magnoliae Pers. SPECIES
-=======
+# Tubercularia magnoliae Pers. SPECIES
 
 #### Status
 ACCEPTED

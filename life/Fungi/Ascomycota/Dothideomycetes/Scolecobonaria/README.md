@@ -1,5 +1,4 @@
-Scolecobonaria Bat. GENUS
-=======
+# Scolecobonaria Bat. GENUS
 
 #### Status
 ACCEPTED

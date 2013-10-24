@@ -1,5 +1,4 @@
-Rhizidium nowakowskii Karling SPECIES
-=======
+# Rhizidium nowakowskii Karling SPECIES
 
 #### Status
 ACCEPTED

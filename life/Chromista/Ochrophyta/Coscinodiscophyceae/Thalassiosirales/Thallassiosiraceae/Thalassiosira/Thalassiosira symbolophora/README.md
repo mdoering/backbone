@@ -1,5 +1,4 @@
-Thalassiosira symbolophora H. J. Schrader SPECIES
-=======
+# Thalassiosira symbolophora H. J. Schrader SPECIES
 
 #### Status
 ACCEPTED

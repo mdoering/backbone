@@ -1,5 +1,4 @@
-Spiroplasmataceae FAMILY
-=======
+# Spiroplasmataceae FAMILY
 
 #### Status
 ACCEPTED

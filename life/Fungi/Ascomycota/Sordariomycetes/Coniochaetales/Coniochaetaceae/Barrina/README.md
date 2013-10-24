@@ -1,5 +1,4 @@
-Barrina A.W. Ramaley GENUS
-=======
+# Barrina A.W. Ramaley GENUS
 
 #### Status
 ACCEPTED

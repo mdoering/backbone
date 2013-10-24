@@ -1,5 +1,4 @@
-Sphaeridium sylvestris anon. SPECIES
-=======
+# Sphaeridium sylvestris anon. SPECIES
 
 #### Status
 ACCEPTED

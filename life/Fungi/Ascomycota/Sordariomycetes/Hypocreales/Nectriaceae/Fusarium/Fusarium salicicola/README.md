@@ -1,17 +1,16 @@
-Fusarium salicicolum Allesch. SPECIES
-=======
+# Fusarium salicicola Allesch. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ber. bayer. bot. Ges. 4: 39 (1921)
 
 #### Original name
-Fusarium salicicolum Allesch.
+Fusarium salicicola Allesch.
 
 ### Remarks
 null

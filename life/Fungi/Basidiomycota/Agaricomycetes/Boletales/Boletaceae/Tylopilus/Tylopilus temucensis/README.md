@@ -1,5 +1,4 @@
-Tylopilus temucensis Palfner SPECIES
-=======
+# Tylopilus temucensis Palfner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Glabratella margaritaceus (Earland, 1933) SPECIES
-=======
+# Glabratella margaritaceus (Earland, 1933) SPECIES
 
 #### Status
 ACCEPTED

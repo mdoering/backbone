@@ -1,5 +1,4 @@
-Leptomitus elaeophilus Kütz. SPECIES
-=======
+# Leptomitus elaeophilus Kütz. SPECIES
 
 #### Status
 ACCEPTED

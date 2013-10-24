@@ -1,5 +1,4 @@
-Arthopyrenia platyseptata Zahlbr. SPECIES
-=======
+# Arthopyrenia platyseptata Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

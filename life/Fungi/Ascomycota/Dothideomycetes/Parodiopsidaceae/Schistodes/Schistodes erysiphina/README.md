@@ -1,5 +1,4 @@
-Schistodes erysiphina (Henn.) Theiss. SPECIES
-=======
+# Schistodes erysiphina (Henn.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

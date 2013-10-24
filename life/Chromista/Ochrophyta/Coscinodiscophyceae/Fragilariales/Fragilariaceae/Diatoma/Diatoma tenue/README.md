@@ -1,11 +1,10 @@
-Diatoma elongatum var. hybrida (Grunow) Cleve-Euler, 1912 VARIETY
-=======
+# Diatoma tenue C. Agardh SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

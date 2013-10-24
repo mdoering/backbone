@@ -1,5 +1,4 @@
-Claviceps diadema (Möller) Diehl SPECIES
-=======
+# Claviceps diadema (Möller) Diehl SPECIES
 
 #### Status
 ACCEPTED

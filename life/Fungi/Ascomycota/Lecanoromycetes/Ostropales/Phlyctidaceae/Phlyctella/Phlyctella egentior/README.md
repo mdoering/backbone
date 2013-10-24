@@ -1,5 +1,4 @@
-Phlyctella egentior (Nyl.) Nyl. SPECIES
-=======
+# Phlyctella egentior (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

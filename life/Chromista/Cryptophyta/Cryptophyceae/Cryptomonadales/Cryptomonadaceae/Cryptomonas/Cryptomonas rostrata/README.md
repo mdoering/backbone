@@ -1,5 +1,4 @@
-Cryptomonas rostrata O.V.Troitzkaja, 1922 SPECIES
-=======
+# Cryptomonas rostrata O.V.Troitzkaja, 1922 SPECIES
 
 #### Status
 ACCEPTED

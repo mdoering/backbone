@@ -1,5 +1,4 @@
-Perenniporia permacilenta (Corner) T. Hatt. SPECIES
-=======
+# Perenniporia permacilenta (Corner) T. Hatt. SPECIES
 
 #### Status
 ACCEPTED

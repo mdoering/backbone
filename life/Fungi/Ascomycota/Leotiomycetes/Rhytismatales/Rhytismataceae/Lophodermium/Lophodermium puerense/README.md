@@ -1,5 +1,4 @@
-Lophodermium puerense C.L. Hou & M. Piepenbr., 2009 SPECIES
-=======
+# Lophodermium puerense C.L. Hou & M. Piepenbr., 2009 SPECIES
 
 #### Status
 ACCEPTED

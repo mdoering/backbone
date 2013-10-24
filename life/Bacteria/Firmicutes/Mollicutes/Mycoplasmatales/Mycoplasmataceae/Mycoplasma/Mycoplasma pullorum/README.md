@@ -1,5 +1,4 @@
-Mycoplasma pullorum Jordan et al., 1982 SPECIES
-=======
+# Mycoplasma pullorum Jordan et al., 1982 SPECIES
 
 #### Status
 ACCEPTED

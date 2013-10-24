@@ -1,5 +1,4 @@
-Haplothecium guianense F. Stevens, 1924 SPECIES
-=======
+# Haplothecium guianense F. Stevens, 1924 SPECIES
 
 #### Status
 ACCEPTED

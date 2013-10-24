@@ -1,5 +1,4 @@
-Inocybe affinis (Pers.) Fayod SPECIES
-=======
+# Inocybe affinis (Pers.) Fayod SPECIES
 
 #### Status
 ACCEPTED

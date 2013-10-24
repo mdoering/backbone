@@ -1,5 +1,4 @@
-Agaricus plutonius Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus plutonius Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

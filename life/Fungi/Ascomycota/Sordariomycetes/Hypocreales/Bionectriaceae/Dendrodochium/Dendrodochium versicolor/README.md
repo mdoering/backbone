@@ -1,5 +1,4 @@
-Dendrodochium versicolor Ellis & É.J. Marchal SPECIES
-=======
+# Dendrodochium versicolor Ellis & É.J. Marchal SPECIES
 
 #### Status
 ACCEPTED

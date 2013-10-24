@@ -1,5 +1,4 @@
-Ceramothyrium coffeanum Bat. & Nascim. SPECIES
-=======
+# Ceramothyrium coffeanum Bat. & Nascim. SPECIES
 
 #### Status
 ACCEPTED

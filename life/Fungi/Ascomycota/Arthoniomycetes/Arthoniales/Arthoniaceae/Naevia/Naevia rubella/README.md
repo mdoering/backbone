@@ -1,5 +1,4 @@
-Naevia rubella (G. Winter) Rehm SPECIES
-=======
+# Naevia rubella (G. Winter) Rehm SPECIES
 
 #### Status
 ACCEPTED

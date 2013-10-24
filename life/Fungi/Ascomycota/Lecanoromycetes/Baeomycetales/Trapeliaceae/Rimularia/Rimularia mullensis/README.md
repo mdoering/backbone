@@ -1,5 +1,4 @@
-Rimularia mullensis (Stirt.) Coppins SPECIES
-=======
+# Rimularia mullensis (Stirt.) Coppins SPECIES
 
 #### Status
 ACCEPTED

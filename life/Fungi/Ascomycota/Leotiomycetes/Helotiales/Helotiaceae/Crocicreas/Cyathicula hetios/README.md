@@ -1,5 +1,4 @@
-Cyathicula hetios SPECIES
-=======
+# Cyathicula hetios SPECIES
 
 #### Status
 ACCEPTED

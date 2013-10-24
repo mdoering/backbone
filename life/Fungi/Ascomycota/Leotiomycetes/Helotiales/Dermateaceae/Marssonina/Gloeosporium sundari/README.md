@@ -1,5 +1,4 @@
-Gloeosporium sundari Chona & Munjal SPECIES
-=======
+# Gloeosporium sundari Chona & Munjal SPECIES
 
 #### Status
 ACCEPTED

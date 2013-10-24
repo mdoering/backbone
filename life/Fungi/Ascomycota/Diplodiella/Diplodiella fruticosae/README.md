@@ -1,17 +1,16 @@
-Diplodiella fruticosa H. Zimm. SPECIES
-=======
+# Diplodiella fruticosae H. Zimm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Verh. nat. Ver. Brünn 47: 98 (1909)
 
 #### Original name
-Diplodiella fruticosa H. Zimm.
+Diplodiella fruticosae H. Zimm.
 
 ### Remarks
 null

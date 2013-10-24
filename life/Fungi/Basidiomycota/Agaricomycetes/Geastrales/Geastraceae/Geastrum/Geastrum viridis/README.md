@@ -1,8 +1,7 @@
-Geaster viridis Ruffieux {?} SPECIES
-=======
+# Geastrum viridis Ruffieux {?} SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Geaster viridis Ruffieux {?}
+Geastrum viridis Ruffieux {?}
 
 ### Remarks
 null

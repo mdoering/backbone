@@ -1,5 +1,4 @@
-Astrocystis cyatheae L.E. Petrini, 2003 SPECIES
-=======
+# Astrocystis cyatheae L.E. Petrini, 2003 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporisorium cymbopogonis-bombycini R.G. Shivas & Vánky, 2004 SPECIES
-=======
+# Sporisorium cymbopogonis-bombycini R.G. Shivas & Vánky, 2004 SPECIES
 
 #### Status
 ACCEPTED

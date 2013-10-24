@@ -1,5 +1,4 @@
-Lophidium rude Ellis & Everh. SPECIES
-=======
+# Lophidium rude Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pezicula salicacearum Kirschst. SPECIES
-=======
+# Pezicula salicacearum Kirschst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fasciatispora K.D. Hyde GENUS
-=======
+# Fasciatispora K.D. Hyde GENUS
 
 #### Status
 ACCEPTED

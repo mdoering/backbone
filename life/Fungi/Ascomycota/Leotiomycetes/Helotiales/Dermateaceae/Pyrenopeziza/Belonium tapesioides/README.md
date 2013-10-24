@@ -1,5 +1,4 @@
-Belonium tapesioides Rehm SPECIES
-=======
+# Belonium tapesioides Rehm SPECIES
 
 #### Status
 ACCEPTED

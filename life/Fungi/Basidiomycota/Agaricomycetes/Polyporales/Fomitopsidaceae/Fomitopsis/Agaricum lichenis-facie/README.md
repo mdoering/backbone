@@ -1,5 +1,4 @@
-Agaricum lichenis-facie O.F. Müll. SPECIES
-=======
+# Agaricum lichenis-facie O.F. Müll. SPECIES
 
 #### Status
 ACCEPTED

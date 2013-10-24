@@ -1,5 +1,4 @@
-Spilonemella Henssen & Tonsberg GENUS
-=======
+# Spilonemella Henssen & Tonsberg GENUS
 
 #### Status
 ACCEPTED

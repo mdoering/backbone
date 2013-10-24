@@ -1,5 +1,4 @@
-Peronospora syreniae Enkina SPECIES
-=======
+# Peronospora syreniae Enkina SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amplariella flavorubens (Berk. & Mont.) E.-J. Gilbert SPECIES
-=======
+# Amplariella flavorubens (Berk. & Mont.) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

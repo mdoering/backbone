@@ -1,5 +1,4 @@
-Sphacelia oryzae Massee SPECIES
-=======
+# Sphacelia oryzae Massee SPECIES
 
 #### Status
 ACCEPTED

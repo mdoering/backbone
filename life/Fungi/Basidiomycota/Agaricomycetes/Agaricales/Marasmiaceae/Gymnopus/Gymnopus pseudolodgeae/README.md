@@ -1,5 +1,4 @@
-Gymnopus pseudolodgeae J.L. Mata SPECIES
-=======
+# Gymnopus pseudolodgeae J.L. Mata SPECIES
 
 #### Status
 ACCEPTED

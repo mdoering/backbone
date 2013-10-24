@@ -1,5 +1,4 @@
-Monomyces amethystinus Battarra SPECIES
-=======
+# Monomyces amethystinus Battarra SPECIES
 
 #### Status
 ACCEPTED

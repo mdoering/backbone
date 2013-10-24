@@ -1,5 +1,4 @@
-Hyaloscypha dryopteridis H.C. Bøhler SPECIES
-=======
+# Hyaloscypha dryopteridis H.C. Bøhler SPECIES
 
 #### Status
 ACCEPTED

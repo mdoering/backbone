@@ -1,5 +1,4 @@
-Phacus monilicostatus Pochmann SPECIES
-=======
+# Phacus monilicostatus Pochmann SPECIES
 
 #### Status
 ACCEPTED

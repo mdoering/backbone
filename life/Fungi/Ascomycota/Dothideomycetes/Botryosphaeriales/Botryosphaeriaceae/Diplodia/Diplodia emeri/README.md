@@ -1,5 +1,4 @@
-Diplodia emeri f. emeri FORM
-=======
+# Diplodia emeri Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Syll. fung. (Abellini) 10: 276 (1892)
 
 #### Original name
-Diplodia emeri f. emeri
+Diplodia emeri Sacc.
 
 ### Remarks
 null

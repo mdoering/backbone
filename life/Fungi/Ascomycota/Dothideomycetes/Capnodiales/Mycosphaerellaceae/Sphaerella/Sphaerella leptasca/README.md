@@ -1,5 +1,4 @@
-Sphaerella leptasca Auersw. SPECIES
-=======
+# Sphaerella leptasca Auersw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudodiplodia diaphana (Fuckel) Sacc. & P. Syd. SPECIES
-=======
+# Pseudodiplodia diaphana (Fuckel) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

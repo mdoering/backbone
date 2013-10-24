@@ -1,5 +1,4 @@
-Leucothrix Ørsted GENUS
-=======
+# Leucothrix Ørsted GENUS
 
 #### Status
 ACCEPTED

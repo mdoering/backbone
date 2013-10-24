@@ -1,5 +1,4 @@
-Theocotylissa Foreman, 1973 GENUS
-=======
+# Theocotylissa Foreman, 1973 GENUS
 
 #### Status
 ACCEPTED

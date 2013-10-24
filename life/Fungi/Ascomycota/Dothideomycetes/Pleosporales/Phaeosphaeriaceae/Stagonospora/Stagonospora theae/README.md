@@ -1,5 +1,4 @@
-Stagonospora theae Hara SPECIES
-=======
+# Stagonospora theae Hara SPECIES
 
 #### Status
 ACCEPTED

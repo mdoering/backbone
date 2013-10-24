@@ -1,5 +1,4 @@
-Cladonia austrogeorgica C.W. Dodge SPECIES
-=======
+# Cladonia austrogeorgica C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

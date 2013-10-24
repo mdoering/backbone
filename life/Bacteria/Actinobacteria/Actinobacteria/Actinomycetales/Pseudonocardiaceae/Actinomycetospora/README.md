@@ -1,5 +1,4 @@
-Actinomycetospora Jiang et al., 2008 GENUS
-=======
+# Actinomycetospora Jiang et al., 2008 GENUS
 
 #### Status
 ACCEPTED

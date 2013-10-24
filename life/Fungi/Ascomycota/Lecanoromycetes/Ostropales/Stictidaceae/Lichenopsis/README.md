@@ -1,5 +1,4 @@
-Lichenopsis GENUS
-=======
+# Lichenopsis GENUS
 
 #### Status
 ACCEPTED

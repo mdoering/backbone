@@ -1,5 +1,4 @@
-Leptosporomyces canadensis (Jülich) Hjortstam SPECIES
-=======
+# Leptosporomyces canadensis (Jülich) Hjortstam SPECIES
 
 #### Status
 ACCEPTED

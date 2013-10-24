@@ -1,5 +1,4 @@
-Puccinia artemisiae-camphoratae A.L. Guyot SPECIES
-=======
+# Puccinia artemisiae-camphoratae A.L. Guyot SPECIES
 
 #### Status
 ACCEPTED

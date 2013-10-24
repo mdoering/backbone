@@ -1,5 +1,4 @@
-Uncinia maxima Velen. SPECIES
-=======
+# Uncinia maxima Velen. SPECIES
 
 #### Status
 ACCEPTED

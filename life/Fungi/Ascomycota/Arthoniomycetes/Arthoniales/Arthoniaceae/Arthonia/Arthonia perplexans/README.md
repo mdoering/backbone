@@ -1,5 +1,4 @@
-Arthonia perplexans Stirt. SPECIES
-=======
+# Arthonia perplexans Stirt. SPECIES
 
 #### Status
 ACCEPTED

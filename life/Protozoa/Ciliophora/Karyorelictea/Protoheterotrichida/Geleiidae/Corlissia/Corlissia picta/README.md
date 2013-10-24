@@ -1,5 +1,4 @@
-Corlissia picta (Dragesco, 1954) Dragesco, 1954 SPECIES
-=======
+# Corlissia picta (Dragesco, 1954) Dragesco, 1954 SPECIES
 
 #### Status
 ACCEPTED

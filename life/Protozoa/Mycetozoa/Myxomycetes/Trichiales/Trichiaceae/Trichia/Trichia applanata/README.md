@@ -1,5 +1,4 @@
-Trichia applanata Hedw. SPECIES
-=======
+# Trichia applanata Hedw. SPECIES
 
 #### Status
 ACCEPTED

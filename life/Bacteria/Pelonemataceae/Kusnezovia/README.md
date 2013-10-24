@@ -1,5 +1,4 @@
-Kusnezovia GENUS
-=======
+# Kusnezovia GENUS
 
 #### Status
 ACCEPTED

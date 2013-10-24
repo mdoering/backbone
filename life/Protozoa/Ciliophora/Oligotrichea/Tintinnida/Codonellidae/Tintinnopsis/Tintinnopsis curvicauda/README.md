@@ -1,5 +1,4 @@
-Tintinnopsis curvicauda Daday, 1887 SPECIES
-=======
+# Tintinnopsis curvicauda Daday, 1887 SPECIES
 
 #### Status
 ACCEPTED

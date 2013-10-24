@@ -1,5 +1,4 @@
-Galerina acuminata (Murrill) A.H. Sm. SPECIES
-=======
+# Galerina acuminata (Murrill) A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Merulius agaricoides Fr. SPECIES
-=======
+# Merulius agaricoides Fr. SPECIES
 
 #### Status
 ACCEPTED

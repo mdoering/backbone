@@ -1,5 +1,4 @@
-Hygrophorus gigasporus Cooke & Massee SPECIES
-=======
+# Hygrophorus gigasporus Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

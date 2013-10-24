@@ -1,5 +1,4 @@
-Enterostigmatomyces compuncti Cif. & Tomas. SPECIES
-=======
+# Enterostigmatomyces compuncti Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

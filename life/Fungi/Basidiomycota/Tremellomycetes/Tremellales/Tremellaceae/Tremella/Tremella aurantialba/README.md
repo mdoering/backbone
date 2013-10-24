@@ -1,5 +1,4 @@
-Tremella aurantialba Bandoni & M. Zang SPECIES
-=======
+# Tremella aurantialba Bandoni & M. Zang SPECIES
 
 #### Status
 ACCEPTED

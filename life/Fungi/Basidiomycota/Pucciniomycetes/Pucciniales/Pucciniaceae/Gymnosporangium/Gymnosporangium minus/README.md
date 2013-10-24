@@ -1,5 +1,4 @@
-Gymnosporangium minus Crowell, 1940 SPECIES
-=======
+# Gymnosporangium minus Crowell, 1940 SPECIES
 
 #### Status
 ACCEPTED

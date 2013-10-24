@@ -1,5 +1,4 @@
-Herpotrichia pini R. Hartig SPECIES
-=======
+# Herpotrichia pini R. Hartig SPECIES
 
 #### Status
 ACCEPTED

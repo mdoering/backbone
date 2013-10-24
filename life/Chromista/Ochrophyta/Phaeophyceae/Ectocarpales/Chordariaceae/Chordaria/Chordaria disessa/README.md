@@ -1,5 +1,4 @@
-Chordaria disessa Setchell & Gardner SPECIES
-=======
+# Chordaria disessa Setchell & Gardner SPECIES
 
 #### Status
 ACCEPTED

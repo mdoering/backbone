@@ -1,5 +1,4 @@
-Marasmius grandisporus Henn. SPECIES
-=======
+# Marasmius grandisporus Henn. SPECIES
 
 #### Status
 ACCEPTED

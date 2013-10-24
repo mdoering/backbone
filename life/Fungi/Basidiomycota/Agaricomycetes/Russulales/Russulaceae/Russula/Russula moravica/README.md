@@ -1,5 +1,4 @@
-Russula moravica Velen. SPECIES
-=======
+# Russula moravica Velen. SPECIES
 
 #### Status
 ACCEPTED

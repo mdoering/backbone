@@ -1,5 +1,4 @@
-Dryadomyces Gebhardt GENUS
-=======
+# Dryadomyces Gebhardt GENUS
 
 #### Status
 ACCEPTED

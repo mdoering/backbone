@@ -1,5 +1,4 @@
-Coniothyrium phacidioides Speg. SPECIES
-=======
+# Coniothyrium phacidioides Speg. SPECIES
 
 #### Status
 ACCEPTED

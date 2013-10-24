@@ -1,5 +1,4 @@
-Xerocomus albobrunneus Heinem. & Gooss.-Font. SPECIES
-=======
+# Xerocomus albobrunneus Heinem. & Gooss.-Font. SPECIES
 
 #### Status
 ACCEPTED

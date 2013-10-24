@@ -1,5 +1,4 @@
-Comaliamma Loeblich & Tappan, 1985 GENUS
-=======
+# Comaliamma Loeblich & Tappan, 1985 GENUS
 
 #### Status
 ACCEPTED

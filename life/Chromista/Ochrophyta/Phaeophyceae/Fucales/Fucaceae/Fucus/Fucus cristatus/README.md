@@ -1,5 +1,4 @@
-Fucus cristatus Withering SPECIES
-=======
+# Fucus cristatus Withering SPECIES
 
 #### Status
 ACCEPTED

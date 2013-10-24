@@ -1,5 +1,4 @@
-Phoma polygalina Pass. SPECIES
-=======
+# Phoma polygalina Pass. SPECIES
 
 #### Status
 ACCEPTED

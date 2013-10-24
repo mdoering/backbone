@@ -1,5 +1,4 @@
-Salipiger Martínez-Cánovas et al., 2004 GENUS
-=======
+# Salipiger Martínez-Cánovas et al., 2004 GENUS
 
 #### Status
 ACCEPTED

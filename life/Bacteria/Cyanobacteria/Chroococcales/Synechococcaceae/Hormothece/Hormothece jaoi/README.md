@@ -1,5 +1,4 @@
-Hormothece jaoi Ley SPECIES
-=======
+# Hormothece jaoi Ley SPECIES
 
 #### Status
 ACCEPTED

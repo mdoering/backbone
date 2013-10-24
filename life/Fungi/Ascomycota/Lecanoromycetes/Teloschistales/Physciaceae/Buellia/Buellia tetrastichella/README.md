@@ -1,5 +1,4 @@
-Buellia tetrastichella (Nyl.) Zahlbr. SPECIES
-=======
+# Buellia tetrastichella (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

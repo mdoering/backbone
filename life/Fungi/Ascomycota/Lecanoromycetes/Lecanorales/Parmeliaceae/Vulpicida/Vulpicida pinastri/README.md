@@ -1,17 +1,16 @@
-Cetraria pinastri f. pinastri FORM
-=======
+# Vulpicida pinastri (Scop.) J.-E. Mattsson & M. J. Lai SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nat. Arr. Brit. Pl. (London) 1: 432 (1821)
+Mycotaxon 46: 428 (1993)
 
 #### Original name
-Cetraria pinastri f. pinastri
+Lichen pinastri Scop.
 
 ### Remarks
 null

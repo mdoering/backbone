@@ -1,8 +1,7 @@
-Janospora subgen. Starbäck von Höhnel, 1923 GENUS
-=======
+# Stilbospora Persoon, 1797 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

@@ -1,5 +1,4 @@
-Sphaeria foveolata Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeria foveolata Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

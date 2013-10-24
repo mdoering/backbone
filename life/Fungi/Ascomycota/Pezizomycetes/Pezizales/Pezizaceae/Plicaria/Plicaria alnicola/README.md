@@ -1,5 +1,4 @@
-Plicaria alnicola Velen. SPECIES
-=======
+# Plicaria alnicola Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporidesmium theae (G.E. Bernard) S. Hughes SPECIES
-=======
+# Sporidesmium theae (G.E. Bernard) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

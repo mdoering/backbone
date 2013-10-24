@@ -1,5 +1,4 @@
-Irenopsis varroniae (Deighton) Hansf. SPECIES
-=======
+# Irenopsis varroniae (Deighton) Hansf. SPECIES
 
 #### Status
 ACCEPTED

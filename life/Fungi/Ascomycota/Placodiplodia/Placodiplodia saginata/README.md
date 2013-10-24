@@ -1,5 +1,4 @@
-Placodiplodia saginata (Petr.) Zambett. SPECIES
-=======
+# Placodiplodia saginata (Petr.) Zambett. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Methylobacter tundripaludum Wartiainen et al., 2006 SPECIES
-=======
+# Methylobacter tundripaludum Wartiainen et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

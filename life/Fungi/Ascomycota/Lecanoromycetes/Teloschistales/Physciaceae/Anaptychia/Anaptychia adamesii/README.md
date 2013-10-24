@@ -1,5 +1,4 @@
-Anaptychia adamesii C.W. Dodge SPECIES
-=======
+# Anaptychia adamesii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

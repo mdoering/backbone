@@ -1,5 +1,4 @@
-Aspergillus flavoviridescens Hanzawa SPECIES
-=======
+# Aspergillus flavoviridescens Hanzawa SPECIES
 
 #### Status
 ACCEPTED

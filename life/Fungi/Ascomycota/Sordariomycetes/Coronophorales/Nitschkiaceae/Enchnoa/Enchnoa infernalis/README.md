@@ -1,14 +1,13 @@
-Sphaeria infernalis Kunze, 1823 SPECIES
-=======
+# Enchnoa infernalis (Kunze) Fuckel, 1871 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Fries, Syst. mycol. (Lundae) 2(2): 371 (1823)
+Jb. nassau. Ver. Naturk. 25-26: 302, tab. 470 (1871)
 
 #### Original name
 Sphaeria infernalis Kunze, 1823

@@ -1,5 +1,4 @@
-Asteridiella stachyuri Ouyang & B. Song SPECIES
-=======
+# Asteridiella stachyuri Ouyang & B. Song SPECIES
 
 #### Status
 ACCEPTED

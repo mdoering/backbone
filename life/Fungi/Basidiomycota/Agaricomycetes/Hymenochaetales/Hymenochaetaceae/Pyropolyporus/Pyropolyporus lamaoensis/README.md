@@ -1,17 +1,16 @@
-Pyropolyporus lamaensis Murrill SPECIES
-=======
+# Pyropolyporus lamaoensis Murrill SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Torrey bot. Club 34: 479 (1907)
 
 #### Original name
-Pyropolyporus lamaensis Murrill
+Pyropolyporus lamaoensis Murrill
 
 ### Remarks
 null

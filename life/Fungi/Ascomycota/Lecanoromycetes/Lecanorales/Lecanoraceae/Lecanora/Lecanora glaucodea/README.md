@@ -1,5 +1,4 @@
-Lecanora glaucodea Nyl. SPECIES
-=======
+# Lecanora glaucodea Nyl. SPECIES
 
 #### Status
 ACCEPTED

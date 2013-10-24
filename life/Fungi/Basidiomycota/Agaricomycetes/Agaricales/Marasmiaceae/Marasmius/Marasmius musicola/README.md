@@ -1,5 +1,4 @@
-Marasmius musicola Murrill SPECIES
-=======
+# Marasmius musicola Murrill SPECIES
 
 #### Status
 ACCEPTED

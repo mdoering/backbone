@@ -1,5 +1,4 @@
-Endocarpon evirescens (Nyl.) Nyl. SPECIES
-=======
+# Endocarpon evirescens (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

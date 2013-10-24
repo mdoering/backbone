@@ -1,5 +1,4 @@
-Puccinia agnitinalis H.S. Jacks. & Holw. SPECIES
-=======
+# Puccinia agnitinalis H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

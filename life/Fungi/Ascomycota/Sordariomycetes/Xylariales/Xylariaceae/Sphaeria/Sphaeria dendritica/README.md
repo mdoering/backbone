@@ -1,5 +1,4 @@
-Sphaeria dendritica Wallr. SPECIES
-=======
+# Sphaeria dendritica Wallr. SPECIES
 
 #### Status
 ACCEPTED

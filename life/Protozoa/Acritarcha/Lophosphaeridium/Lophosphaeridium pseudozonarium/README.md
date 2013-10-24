@@ -1,5 +1,4 @@
-Lophosphaeridium pseudozonarium Ouyang Shu et al., 1974 SPECIES
-=======
+# Lophosphaeridium pseudozonarium Ouyang Shu et al., 1974 SPECIES
 
 #### Status
 ACCEPTED

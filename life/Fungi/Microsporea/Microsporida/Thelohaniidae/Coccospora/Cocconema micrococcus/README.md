@@ -1,5 +1,4 @@
-Cocconema micrococcus L. Léger & E. Hesse SPECIES
-=======
+# Cocconema micrococcus L. Léger & E. Hesse SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascospora aterrima Lév. SPECIES
-=======
+# Ascospora aterrima Lév. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium campanulastri G.W. Wilson SPECIES
-=======
+# Aecidium campanulastri G.W. Wilson SPECIES
 
 #### Status
 ACCEPTED

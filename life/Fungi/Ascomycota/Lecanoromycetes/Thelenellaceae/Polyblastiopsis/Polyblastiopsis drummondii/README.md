@@ -1,5 +1,4 @@
-Polyblastiopsis drummondii (Tuck.) Zahlbr. SPECIES
-=======
+# Polyblastiopsis drummondii (Tuck.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

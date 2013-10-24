@@ -1,5 +1,4 @@
-Thyridella subrostrata Teng, 1934 SPECIES
-=======
+# Thyridella subrostrata Teng, 1934 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corynespora barleriicola N. Sharma, R.K. Chaudhary & Kamal SPECIES
-=======
+# Corynespora barleriicola N. Sharma, R.K. Chaudhary & Kamal SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calonectria intermixta Henn. SPECIES
-=======
+# Calonectria intermixta Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helicosporina veronae Rambelli, 1960 SPECIES
-=======
+# Helicosporina veronae Rambelli, 1960 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Glomus gibbosum Blaszk., 1997 SPECIES
-=======
+# Glomus gibbosum Blaszk., 1997 SPECIES
 
 #### Status
 ACCEPTED

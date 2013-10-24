@@ -1,5 +1,4 @@
-Cercospora cynodontis Pavgi & R.A. Singh SPECIES
-=======
+# Cercospora cynodontis Pavgi & R.A. Singh SPECIES
 
 #### Status
 ACCEPTED

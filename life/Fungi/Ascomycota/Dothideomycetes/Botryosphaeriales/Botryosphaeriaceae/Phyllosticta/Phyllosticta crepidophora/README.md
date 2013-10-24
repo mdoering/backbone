@@ -1,5 +1,4 @@
-Phyllosticta crepidophora Thüm. SPECIES
-=======
+# Phyllosticta crepidophora Thüm. SPECIES
 
 #### Status
 ACCEPTED

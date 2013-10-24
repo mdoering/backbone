@@ -1,5 +1,4 @@
-Phoma pulchella (Berk. & Broome) Sacc. SPECIES
-=======
+# Phoma pulchella (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

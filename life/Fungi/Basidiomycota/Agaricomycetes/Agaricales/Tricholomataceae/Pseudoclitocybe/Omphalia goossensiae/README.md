@@ -1,5 +1,4 @@
-Omphalia goossensiae Beeli SPECIES
-=======
+# Omphalia goossensiae Beeli SPECIES
 
 #### Status
 ACCEPTED

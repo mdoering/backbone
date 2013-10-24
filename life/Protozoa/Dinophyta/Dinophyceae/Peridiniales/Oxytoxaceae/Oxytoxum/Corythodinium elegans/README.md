@@ -1,5 +1,4 @@
-Corythodinium elegans (Pavillard) F.J.R. Taylor, 1976 SPECIES
-=======
+# Corythodinium elegans (Pavillard) F.J.R. Taylor, 1976 SPECIES
 
 #### Status
 DOUBTFUL

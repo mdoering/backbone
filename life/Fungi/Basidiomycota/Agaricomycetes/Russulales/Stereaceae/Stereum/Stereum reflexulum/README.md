@@ -1,5 +1,4 @@
-Stereum reflexulum D.A. Reid, 1969 SPECIES
-=======
+# Stereum reflexulum D.A. Reid, 1969 SPECIES
 
 #### Status
 ACCEPTED

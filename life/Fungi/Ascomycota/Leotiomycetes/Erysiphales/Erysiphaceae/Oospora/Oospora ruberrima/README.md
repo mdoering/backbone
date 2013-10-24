@@ -1,5 +1,4 @@
-Oospora ruberrima Sacc. SPECIES
-=======
+# Oospora ruberrima Sacc. SPECIES
 
 #### Status
 ACCEPTED

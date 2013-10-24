@@ -1,5 +1,4 @@
-Physcia tenera (Lynge) SPECIES
-=======
+# Physcia tenera (Lynge) SPECIES
 
 #### Status
 ACCEPTED

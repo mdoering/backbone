@@ -1,5 +1,4 @@
-Peccania pellizzonii A. Massal. SPECIES
-=======
+# Peccania pellizzonii A. Massal. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Guepiniopsis oresbia Rangkuti & Rifai SPECIES
-=======
+# Guepiniopsis oresbia Rangkuti & Rifai SPECIES
 
 #### Status
 ACCEPTED

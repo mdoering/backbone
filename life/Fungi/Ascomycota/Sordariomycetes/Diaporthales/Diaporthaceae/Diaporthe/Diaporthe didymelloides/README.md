@@ -1,5 +1,4 @@
-Diaporthe didymelloides Sacc. & Malbr. SPECIES
-=======
+# Diaporthe didymelloides Sacc. & Malbr. SPECIES
 
 #### Status
 ACCEPTED

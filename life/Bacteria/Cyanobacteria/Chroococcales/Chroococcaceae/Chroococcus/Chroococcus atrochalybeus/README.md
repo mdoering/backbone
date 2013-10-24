@@ -1,5 +1,4 @@
-Chroococcus atrochalybeus Hansgirg SPECIES
-=======
+# Chroococcus atrochalybeus Hansgirg SPECIES
 
 #### Status
 ACCEPTED

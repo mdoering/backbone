@@ -1,5 +1,4 @@
-Pyrenochaeta mali M.A. Sm. SPECIES
-=======
+# Pyrenochaeta mali M.A. Sm. SPECIES
 
 #### Status
 ACCEPTED

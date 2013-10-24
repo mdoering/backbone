@@ -1,5 +1,4 @@
-Symphaeophyma Speg. GENUS
-=======
+# Symphaeophyma Speg. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophosphaeridium papillatum (Staplin, 1961) Martin, 1969 SPECIES
-=======
+# Lophosphaeridium papillatum (Staplin, 1961) Martin, 1969 SPECIES
 
 #### Status
 ACCEPTED

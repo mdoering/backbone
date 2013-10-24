@@ -1,5 +1,4 @@
-Usnea hyppae SPECIES
-=======
+# Usnea hyppae SPECIES
 
 #### Status
 ACCEPTED

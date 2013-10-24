@@ -1,5 +1,4 @@
-Cylindrosporium longisporum Ellis & Dearn. SPECIES
-=======
+# Cylindrosporium longisporum Ellis & Dearn. SPECIES
 
 #### Status
 ACCEPTED

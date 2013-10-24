@@ -1,5 +1,4 @@
-Mycovellosiella venturioides (Peck) U. Braun SPECIES
-=======
+# Mycovellosiella venturioides (Peck) U. Braun SPECIES
 
 #### Status
 ACCEPTED

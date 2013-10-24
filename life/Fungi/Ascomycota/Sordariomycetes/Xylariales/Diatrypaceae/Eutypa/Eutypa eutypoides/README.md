@@ -1,5 +1,4 @@
-Eutypa eutypoides (Ellis & Everh.) Petr. SPECIES
-=======
+# Eutypa eutypoides (Ellis & Everh.) Petr. SPECIES
 
 #### Status
 ACCEPTED

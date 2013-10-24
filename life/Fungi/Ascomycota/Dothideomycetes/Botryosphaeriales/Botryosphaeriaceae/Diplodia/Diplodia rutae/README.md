@@ -1,5 +1,4 @@
-Diplodia rutae Henn. SPECIES
-=======
+# Diplodia rutae Henn. SPECIES
 
 #### Status
 ACCEPTED

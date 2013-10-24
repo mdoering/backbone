@@ -1,5 +1,4 @@
-Allantospora (Watsk.) Ciferri, 1932 GENUS
-=======
+# Allantospora (Watsk.) Ciferri, 1932 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aulacoseira dianchiensis J.R. Yang, E.F. Stoermer & J.P. Kociolek SPECIES
-=======
+# Aulacoseira dianchiensis J.R. Yang, E.F. Stoermer & J.P. Kociolek SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anthostoma carbonescens Nitschke SPECIES
-=======
+# Anthostoma carbonescens Nitschke SPECIES
 
 #### Status
 ACCEPTED

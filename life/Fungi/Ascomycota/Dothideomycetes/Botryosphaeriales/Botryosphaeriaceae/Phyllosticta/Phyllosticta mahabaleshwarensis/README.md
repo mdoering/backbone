@@ -1,5 +1,4 @@
-Phyllosticta mahabaleshwarensis V.G. Rao SPECIES
-=======
+# Phyllosticta mahabaleshwarensis V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

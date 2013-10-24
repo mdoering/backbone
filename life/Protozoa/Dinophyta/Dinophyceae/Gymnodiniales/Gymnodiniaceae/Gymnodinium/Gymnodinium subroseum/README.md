@@ -1,5 +1,4 @@
-Gymnodinium subroseum P.H.Campbell, 1973 SPECIES
-=======
+# Gymnodinium subroseum P.H.Campbell, 1973 SPECIES
 
 #### Status
 ACCEPTED

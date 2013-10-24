@@ -1,5 +1,4 @@
-Aspergillus ochraceoruber Sacc. SPECIES
-=======
+# Aspergillus ochraceoruber Sacc. SPECIES
 
 #### Status
 ACCEPTED

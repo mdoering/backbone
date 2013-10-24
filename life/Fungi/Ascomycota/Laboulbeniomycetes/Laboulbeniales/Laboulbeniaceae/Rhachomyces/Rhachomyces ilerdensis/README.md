@@ -1,5 +1,4 @@
-Rhachomyces ilerdensis Santam. SPECIES
-=======
+# Rhachomyces ilerdensis Santam. SPECIES
 
 #### Status
 ACCEPTED

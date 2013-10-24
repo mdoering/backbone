@@ -1,5 +1,4 @@
-Ormomyces I.I. Tav. GENUS
-=======
+# Ormomyces I.I. Tav. GENUS
 
 #### Status
 ACCEPTED

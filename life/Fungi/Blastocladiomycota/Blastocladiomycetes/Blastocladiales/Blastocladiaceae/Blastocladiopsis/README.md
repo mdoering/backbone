@@ -1,5 +1,4 @@
-Blastocladiopsis Sparrow GENUS
-=======
+# Blastocladiopsis Sparrow GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria allorgei Guyot SPECIES
-=======
+# Septoria allorgei Guyot SPECIES
 
 #### Status
 ACCEPTED

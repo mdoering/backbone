@@ -1,5 +1,4 @@
-Apiospora rhodophila Sacc. SPECIES
-=======
+# Apiospora rhodophila Sacc. SPECIES
 
 #### Status
 ACCEPTED

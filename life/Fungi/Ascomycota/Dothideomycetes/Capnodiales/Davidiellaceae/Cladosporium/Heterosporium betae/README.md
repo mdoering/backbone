@@ -1,5 +1,4 @@
-Heterosporium betae Dowson SPECIES
-=======
+# Heterosporium betae Dowson SPECIES
 
 #### Status
 ACCEPTED

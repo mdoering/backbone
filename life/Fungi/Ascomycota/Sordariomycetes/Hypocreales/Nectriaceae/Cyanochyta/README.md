@@ -1,5 +1,4 @@
-Cyanochyta Höhn. GENUS
-=======
+# Cyanochyta Höhn. GENUS
 
 #### Status
 ACCEPTED

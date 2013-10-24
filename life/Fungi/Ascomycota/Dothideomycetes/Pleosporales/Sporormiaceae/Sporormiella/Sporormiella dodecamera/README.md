@@ -1,5 +1,4 @@
-Sporormiella dodecamera S.I. Ahmed & Cain SPECIES
-=======
+# Sporormiella dodecamera S.I. Ahmed & Cain SPECIES
 
 #### Status
 ACCEPTED

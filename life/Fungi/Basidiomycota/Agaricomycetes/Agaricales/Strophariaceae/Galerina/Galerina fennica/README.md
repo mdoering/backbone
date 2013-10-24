@@ -1,5 +1,4 @@
-Galerina fennica A.H. Sm. SPECIES
-=======
+# Galerina fennica A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

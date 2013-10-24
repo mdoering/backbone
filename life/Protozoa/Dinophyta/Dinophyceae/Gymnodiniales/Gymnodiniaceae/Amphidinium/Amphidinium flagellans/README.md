@@ -1,5 +1,4 @@
-Amphidinium flagellans Schiller SPECIES
-=======
+# Amphidinium flagellans Schiller SPECIES
 
 #### Status
 ACCEPTED

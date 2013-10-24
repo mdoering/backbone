@@ -1,5 +1,4 @@
-Quadrum giganteum SPECIES
-=======
+# Quadrum giganteum SPECIES
 
 #### Status
 ACCEPTED

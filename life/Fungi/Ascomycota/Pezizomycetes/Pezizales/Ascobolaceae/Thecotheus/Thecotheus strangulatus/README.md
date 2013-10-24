@@ -1,5 +1,4 @@
-Thecotheus strangulatus (Velen.) Aas SPECIES
-=======
+# Thecotheus strangulatus (Velen.) Aas SPECIES
 
 #### Status
 ACCEPTED

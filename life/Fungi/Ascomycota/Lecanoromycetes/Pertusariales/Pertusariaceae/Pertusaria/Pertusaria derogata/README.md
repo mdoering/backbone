@@ -1,5 +1,4 @@
-Pertusaria derogata Nyl. SPECIES
-=======
+# Pertusaria derogata Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Stalactocolumella S. Imai GENUS
-=======
+# Circulocolumella S. Ito & S. Imai GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Science Rep. Yokohama Nat. Univ. , Section 2 6: 4 (1957)
 
 #### Original name
-Stalactocolumella S. Imai
+Circulocolumella S. Ito & S. Imai
 
 ### Remarks
 null

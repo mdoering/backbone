@@ -1,5 +1,4 @@
-Entoloma cystidiophorum Dennis SPECIES
-=======
+# Entoloma cystidiophorum Dennis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diaporthe plantaginis Tassi SPECIES
-=======
+# Diaporthe plantaginis Tassi SPECIES
 
 #### Status
 ACCEPTED

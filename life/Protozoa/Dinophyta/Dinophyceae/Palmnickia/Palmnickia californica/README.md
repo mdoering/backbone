@@ -1,5 +1,4 @@
-Palmnickia californica W.S. Drugg SPECIES
-=======
+# Palmnickia californica W.S. Drugg SPECIES
 
 #### Status
 ACCEPTED

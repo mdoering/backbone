@@ -1,5 +1,4 @@
-Bacidia farinulenta (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Bacidia farinulenta (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

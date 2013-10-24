@@ -1,5 +1,4 @@
-Multiplicisphaeridium integrum (Sannemann, 1955) Eisenack et al., 1973 SPECIES
-=======
+# Multiplicisphaeridium integrum (Sannemann, 1955) Eisenack et al., 1973 SPECIES
 
 #### Status
 ACCEPTED

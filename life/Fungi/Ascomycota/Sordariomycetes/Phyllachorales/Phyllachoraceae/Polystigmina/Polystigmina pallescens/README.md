@@ -1,5 +1,4 @@
-Polystigmina pallescens Petr., 1954 SPECIES
-=======
+# Polystigmina pallescens Petr., 1954 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycoplasma equigenitalium Kirchhoff, 1978 (Approved Lists, 1980) SPECIES
-=======
+# Mycoplasma equigenitalium Kirchhoff, 1978 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

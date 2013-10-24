@@ -1,5 +1,4 @@
-Gloeosporium helosciadii Kuhnh.-Lord. & J.P. Barry SPECIES
-=======
+# Gloeosporium helosciadii Kuhnh.-Lord. & J.P. Barry SPECIES
 
 #### Status
 ACCEPTED

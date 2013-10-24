@@ -1,5 +1,4 @@
-Leptosphaeria japonica (I. Miyake) Hara SPECIES
-=======
+# Leptosphaeria japonica (I. Miyake) Hara SPECIES
 
 #### Status
 ACCEPTED

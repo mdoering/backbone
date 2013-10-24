@@ -1,5 +1,4 @@
-Phyllachora kanarensis T.S. Ramakr. & Sundaram, 1954 SPECIES
-=======
+# Phyllachora kanarensis T.S. Ramakr. & Sundaram, 1954 SPECIES
 
 #### Status
 ACCEPTED

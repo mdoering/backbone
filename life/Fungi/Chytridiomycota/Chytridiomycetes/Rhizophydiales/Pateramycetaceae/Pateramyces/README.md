@@ -1,5 +1,4 @@
-Pateramyces Letcher GENUS
-=======
+# Pateramyces Letcher GENUS
 
 #### Status
 ACCEPTED

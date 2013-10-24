@@ -1,5 +1,4 @@
-Buellia placodiospora Vain. SPECIES
-=======
+# Buellia placodiospora Vain. SPECIES
 
 #### Status
 ACCEPTED

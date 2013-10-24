@@ -1,5 +1,4 @@
-Aplosporella asiminae (Ellis & Everh.) Petr. SPECIES
-=======
+# Aplosporella asiminae (Ellis & Everh.) Petr. SPECIES
 
 #### Status
 ACCEPTED

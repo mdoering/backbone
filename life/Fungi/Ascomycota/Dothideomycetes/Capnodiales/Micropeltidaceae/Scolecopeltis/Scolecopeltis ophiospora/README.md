@@ -1,5 +1,4 @@
-Scolecopeltis ophiospora (Pat. & Gaillard) Sacc. SPECIES
-=======
+# Scolecopeltis ophiospora (Pat. & Gaillard) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pterula velutipes Corner, 1952 SPECIES
-=======
+# Pterula velutipes Corner, 1952 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tricellaesporonites Sheffy & Dilcher GENUS
-=======
+# Tricellaesporonites Sheffy & Dilcher GENUS
 
 #### Status
 ACCEPTED

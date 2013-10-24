@@ -1,17 +1,16 @@
-Fusarium rigidiusculum f. sp FORM
-=======
+# Albonectria rigidiuscula (Berk. & Broome) Rossman & Samuels, 1999 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Phytopathology 57: 712 (1967)
+in Rossman, Samuels, Rogerson & Lowen, Stud. Mycol. 42: 105 (1999)
 
 #### Original name
-Fusarium rigidiusculum f. sp
+Nectria rigidiuscula Berk. & Broome, 1875
 
 ### Remarks
 null

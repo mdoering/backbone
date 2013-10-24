@@ -1,5 +1,4 @@
-Vampyrella dialysatrix Wahrlich SPECIES
-=======
+# Vampyrella dialysatrix Wahrlich SPECIES
 
 #### Status
 ACCEPTED

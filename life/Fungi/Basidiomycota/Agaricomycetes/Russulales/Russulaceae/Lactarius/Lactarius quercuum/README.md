@@ -1,5 +1,4 @@
-Lactarius quercuum Singer SPECIES
-=======
+# Lactarius quercuum Singer SPECIES
 
 #### Status
 ACCEPTED

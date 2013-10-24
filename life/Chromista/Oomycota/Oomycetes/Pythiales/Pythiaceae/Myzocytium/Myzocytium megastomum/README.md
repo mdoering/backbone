@@ -1,17 +1,16 @@
-Myzocytium irregulare H.E. Petersen, 1909 SPECIES
-=======
+# Myzocytium megastomum De Wild., 1893 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Tidsskr. 29: 403 (1909)
+null
 
 #### Original name
-Myzocytium irregulare H.E. Petersen, 1909
+Myzocytium megastomum De Wild., 1893
 
 ### Remarks
 null

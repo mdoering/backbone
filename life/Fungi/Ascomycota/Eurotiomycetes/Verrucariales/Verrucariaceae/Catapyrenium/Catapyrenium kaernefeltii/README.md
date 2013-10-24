@@ -1,5 +1,4 @@
-Catapyrenium kaernefeltii Breuss SPECIES
-=======
+# Catapyrenium kaernefeltii Breuss SPECIES
 
 #### Status
 ACCEPTED

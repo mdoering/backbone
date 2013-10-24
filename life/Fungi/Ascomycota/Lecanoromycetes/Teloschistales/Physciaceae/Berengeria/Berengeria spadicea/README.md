@@ -1,5 +1,4 @@
-Berengeria spadicea (Flot.) SPECIES
-=======
+# Berengeria spadicea (Flot.) SPECIES
 
 #### Status
 ACCEPTED

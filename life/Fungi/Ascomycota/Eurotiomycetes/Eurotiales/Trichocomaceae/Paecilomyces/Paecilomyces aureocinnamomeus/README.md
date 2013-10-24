@@ -1,5 +1,4 @@
-Paecilomyces aureocinnamomeus (Biourge) Thom SPECIES
-=======
+# Paecilomyces aureocinnamomeus (Biourge) Thom SPECIES
 
 #### Status
 ACCEPTED

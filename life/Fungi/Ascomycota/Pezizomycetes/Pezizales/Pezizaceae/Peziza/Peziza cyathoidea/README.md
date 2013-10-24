@@ -1,17 +1,16 @@
-Peziza cyathoidea var. cyathoidea VARIETY
-=======
+# Peziza cyathoidea SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
 null
 
 #### Original name
-Peziza cyathoidea var. cyathoidea
+null
 
 ### Remarks
 null

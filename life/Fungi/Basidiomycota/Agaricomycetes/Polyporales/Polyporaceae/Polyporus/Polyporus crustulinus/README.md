@@ -1,5 +1,4 @@
-Polyporus crustulinus Bres. SPECIES
-=======
+# Polyporus crustulinus Bres. SPECIES
 
 #### Status
 ACCEPTED

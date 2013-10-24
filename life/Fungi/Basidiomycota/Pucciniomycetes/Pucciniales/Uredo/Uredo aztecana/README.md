@@ -1,5 +1,4 @@
-Uredo aztecana R.S. Peterson SPECIES
-=======
+# Uredo aztecana R.S. Peterson SPECIES
 
 #### Status
 ACCEPTED

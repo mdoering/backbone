@@ -1,5 +1,4 @@
-Uromyces silphi Arthur SPECIES
-=======
+# Uromyces silphi Arthur SPECIES
 
 #### Status
 ACCEPTED

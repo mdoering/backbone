@@ -1,5 +1,4 @@
-Pholiota paludosella (G.F. Atk.) A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota paludosella (G.F. Atk.) A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

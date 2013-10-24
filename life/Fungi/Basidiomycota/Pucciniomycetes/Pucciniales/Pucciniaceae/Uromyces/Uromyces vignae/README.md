@@ -1,14 +1,13 @@
-Uromyces phaseoli var. vignae (Barclay) Arthur, 1934 VARIETY
-=======
+# Uromyces vignae Barclay, 1891 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Manual of the Rusts in the United States & Canada 297 (1934)
+Journal of the Asiatic Society of Bengal 60(2): 211 (1891)
 
 #### Original name
 Uromyces vignae Barclay, 1891

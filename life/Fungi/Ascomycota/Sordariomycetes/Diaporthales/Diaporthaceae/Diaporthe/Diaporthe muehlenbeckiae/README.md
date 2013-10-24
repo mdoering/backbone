@@ -1,5 +1,4 @@
-Diaporthe muehlenbeckiae Tassi SPECIES
-=======
+# Diaporthe muehlenbeckiae Tassi SPECIES
 
 #### Status
 ACCEPTED

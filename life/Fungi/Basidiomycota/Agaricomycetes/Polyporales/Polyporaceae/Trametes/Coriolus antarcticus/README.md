@@ -1,14 +1,13 @@
-Coriolus versicolor f. antarcticus (Speg.) Rajchenb., 1982 FORM
-=======
+# Coriolus antarcticus (Speg.) J.E. Wright & J.R. Deschamps, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Boln Soc. argent. Bot. 21(1-4): 39 (1982)
+Rev. Invest. Agrop. INTA V, Pat. Veg. 9 120 (1972)
 
 #### Original name
 Polyporus antarcticus Speg., 1888

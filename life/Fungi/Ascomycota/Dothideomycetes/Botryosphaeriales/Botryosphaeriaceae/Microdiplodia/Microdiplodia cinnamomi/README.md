@@ -1,5 +1,4 @@
-Microdiplodia cinnamomi Gucevic SPECIES
-=======
+# Microdiplodia cinnamomi Gucevic SPECIES
 
 #### Status
 ACCEPTED

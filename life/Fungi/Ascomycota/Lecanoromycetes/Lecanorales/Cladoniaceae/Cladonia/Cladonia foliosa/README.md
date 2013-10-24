@@ -1,5 +1,4 @@
-Cladonia foliosa anon. SPECIES
-=======
+# Cladonia foliosa anon. SPECIES
 
 #### Status
 ACCEPTED

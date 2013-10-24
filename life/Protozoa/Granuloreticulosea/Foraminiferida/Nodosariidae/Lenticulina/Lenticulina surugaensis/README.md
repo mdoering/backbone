@@ -1,5 +1,4 @@
-Lenticulina surugaensis (Asano) SPECIES
-=======
+# Lenticulina surugaensis (Asano) SPECIES
 
 #### Status
 ACCEPTED

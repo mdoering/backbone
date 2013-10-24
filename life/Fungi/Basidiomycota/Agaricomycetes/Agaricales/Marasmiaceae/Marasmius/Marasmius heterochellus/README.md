@@ -1,5 +1,4 @@
-Marasmius heterochellus Singer SPECIES
-=======
+# Marasmius heterochellus Singer SPECIES
 
 #### Status
 ACCEPTED

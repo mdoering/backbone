@@ -1,5 +1,4 @@
-Hendersonia gailloniae Bubák SPECIES
-=======
+# Hendersonia gailloniae Bubák SPECIES
 
 #### Status
 ACCEPTED

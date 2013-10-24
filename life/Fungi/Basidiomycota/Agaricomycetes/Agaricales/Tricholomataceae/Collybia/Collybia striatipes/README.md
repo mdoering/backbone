@@ -1,5 +1,4 @@
-Collybia striatipes Velen. SPECIES
-=======
+# Collybia striatipes Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspicilia bricconensis Hue SPECIES
-=======
+# Aspicilia bricconensis Hue SPECIES
 
 #### Status
 ACCEPTED

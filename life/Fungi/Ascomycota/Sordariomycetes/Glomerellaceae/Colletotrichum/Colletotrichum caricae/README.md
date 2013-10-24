@@ -1,5 +1,4 @@
-Colletotrichum caricae F. Stevens & J.G. Hall, 1909 SPECIES
-=======
+# Colletotrichum caricae F. Stevens & J.G. Hall, 1909 SPECIES
 
 #### Status
 ACCEPTED

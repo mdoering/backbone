@@ -1,5 +1,4 @@
-Agaricus urceolatus var. urceolatus VARIETY
-=======
+# Agaricus urceolatus Viv. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Mycol. eur. (Erlanga) 3: 69 (1828)
 
 #### Original name
-Agaricus urceolatus var. urceolatus
+Agaricus urceolatus Viv.
 
 ### Remarks
 null

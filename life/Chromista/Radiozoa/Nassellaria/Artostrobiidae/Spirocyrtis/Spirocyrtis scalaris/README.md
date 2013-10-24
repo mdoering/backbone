@@ -1,5 +1,4 @@
-Spirocyrtis scalaris Haeckel, 1887 SPECIES
-=======
+# Spirocyrtis scalaris Haeckel, 1887 SPECIES
 
 #### Status
 ACCEPTED

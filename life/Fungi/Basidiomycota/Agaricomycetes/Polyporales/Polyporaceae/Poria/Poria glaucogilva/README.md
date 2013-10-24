@@ -1,5 +1,4 @@
-Poria glaucogilva Lloyd SPECIES
-=======
+# Poria glaucogilva Lloyd SPECIES
 
 #### Status
 ACCEPTED

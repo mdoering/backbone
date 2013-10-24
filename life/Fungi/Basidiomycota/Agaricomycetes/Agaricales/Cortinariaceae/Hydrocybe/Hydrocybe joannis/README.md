@@ -1,5 +1,4 @@
-Hydrocybe joannis Velen. SPECIES
-=======
+# Hydrocybe joannis Velen. SPECIES
 
 #### Status
 ACCEPTED

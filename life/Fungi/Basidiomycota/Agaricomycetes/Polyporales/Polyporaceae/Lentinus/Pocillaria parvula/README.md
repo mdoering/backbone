@@ -1,5 +1,4 @@
-Pocillaria parvula (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Pocillaria parvula (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

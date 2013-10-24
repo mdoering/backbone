@@ -1,5 +1,4 @@
-Caloplaca insularis Poelt SPECIES
-=======
+# Caloplaca insularis Poelt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tricharia membranula (Müll. Arg.) Lücking SPECIES
-=======
+# Tricharia membranula (Müll. Arg.) Lücking SPECIES
 
 #### Status
 ACCEPTED

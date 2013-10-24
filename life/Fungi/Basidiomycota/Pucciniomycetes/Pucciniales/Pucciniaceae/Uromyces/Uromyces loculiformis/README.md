@@ -1,5 +1,4 @@
-Uromyces loculiformis T.S. Ramakr. & K. Ramakr. SPECIES
-=======
+# Uromyces loculiformis T.S. Ramakr. & K. Ramakr. SPECIES
 
 #### Status
 ACCEPTED

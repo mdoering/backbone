@@ -1,5 +1,4 @@
-Macowanites acris Singer & A.H. Sm. SPECIES
-=======
+# Macowanites acris Singer & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

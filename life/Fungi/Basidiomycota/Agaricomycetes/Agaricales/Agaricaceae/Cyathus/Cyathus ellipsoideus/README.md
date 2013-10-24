@@ -1,5 +1,4 @@
-Cyathus ellipsoideus H.J. Brodie SPECIES
-=======
+# Cyathus ellipsoideus H.J. Brodie SPECIES
 
 #### Status
 ACCEPTED

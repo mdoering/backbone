@@ -1,5 +1,4 @@
-Hypocrella cretacea Höhn. SPECIES
-=======
+# Hypocrella cretacea Höhn. SPECIES
 
 #### Status
 ACCEPTED

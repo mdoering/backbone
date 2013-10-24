@@ -1,5 +1,4 @@
-Meliola crescentiae F. Stevens SPECIES
-=======
+# Meliola crescentiae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

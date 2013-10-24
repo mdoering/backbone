@@ -1,5 +1,4 @@
-Reophax minimus Zheng, 1988 SPECIES
-=======
+# Reophax minimus Zheng, 1988 SPECIES
 
 #### Status
 ACCEPTED

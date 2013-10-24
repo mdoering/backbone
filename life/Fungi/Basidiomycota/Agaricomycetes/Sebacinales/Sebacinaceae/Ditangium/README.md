@@ -1,5 +1,4 @@
-Ditangium P. Karst. GENUS
-=======
+# Ditangium P. Karst. GENUS
 
 #### Status
 ACCEPTED

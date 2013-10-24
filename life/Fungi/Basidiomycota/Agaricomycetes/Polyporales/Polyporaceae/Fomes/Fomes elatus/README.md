@@ -1,5 +1,4 @@
-Fomes elatus (Lév.) Sacc. SPECIES
-=======
+# Fomes elatus (Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

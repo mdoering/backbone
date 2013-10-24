@@ -1,5 +1,4 @@
-Buellia homocarpa Müll. Arg. SPECIES
-=======
+# Buellia homocarpa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

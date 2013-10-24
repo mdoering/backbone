@@ -1,5 +1,4 @@
-Lactarius albellus Malençon & Bertault SPECIES
-=======
+# Lactarius albellus Malençon & Bertault SPECIES
 
 #### Status
 ACCEPTED

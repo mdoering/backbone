@@ -1,5 +1,4 @@
-Mitremyces haglundi Rehm SPECIES
-=======
+# Mitremyces haglundi Rehm SPECIES
 
 #### Status
 ACCEPTED

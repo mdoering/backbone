@@ -1,5 +1,4 @@
-Aspergillus spiculosus Blaser SPECIES
-=======
+# Aspergillus spiculosus Blaser SPECIES
 
 #### Status
 ACCEPTED

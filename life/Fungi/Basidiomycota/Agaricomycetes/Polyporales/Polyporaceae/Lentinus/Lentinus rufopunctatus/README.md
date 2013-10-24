@@ -1,5 +1,4 @@
-Lentinus rufopunctatus Beeli SPECIES
-=======
+# Lentinus rufopunctatus Beeli SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichophrya cordiformis Schewiakoff, 1893 SPECIES
-=======
+# Trichophrya cordiformis Schewiakoff, 1893 SPECIES
 
 #### Status
 ACCEPTED

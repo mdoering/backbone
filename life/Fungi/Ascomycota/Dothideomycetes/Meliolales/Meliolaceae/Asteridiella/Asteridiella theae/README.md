@@ -1,5 +1,4 @@
-Asteridiella theae M.S. Patil & Maham. SPECIES
-=======
+# Asteridiella theae M.S. Patil & Maham. SPECIES
 
 #### Status
 ACCEPTED

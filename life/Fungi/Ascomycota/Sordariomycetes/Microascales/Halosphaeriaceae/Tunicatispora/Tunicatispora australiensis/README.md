@@ -1,5 +1,4 @@
-Tunicatispora australiensis K.D. Hyde, 1990 SPECIES
-=======
+# Tunicatispora australiensis K.D. Hyde, 1990 SPECIES
 
 #### Status
 ACCEPTED

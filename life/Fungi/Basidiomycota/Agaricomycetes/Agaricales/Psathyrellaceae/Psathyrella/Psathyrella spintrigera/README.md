@@ -1,14 +1,13 @@
-Drosophila spintrigera (Fr.) Kühner & Romagn., 1953 SPECIES
-=======
+# Psathyrella spintrigera (Fr.) Konrad & Maubl., 1949 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fl. Analyt. Champ. Supér. (Paris) 368 (1953)
+Encyclop. Mycol. 14: 128 (1949)
 
 #### Original name
 Agaricus spintriger Fr., 1838

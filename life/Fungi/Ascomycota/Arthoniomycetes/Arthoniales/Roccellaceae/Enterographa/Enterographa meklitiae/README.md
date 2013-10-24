@@ -1,5 +1,4 @@
-Enterographa meklitiae Yeshitela, Eb. Fisch., Killmann & Sérus. SPECIES
-=======
+# Enterographa meklitiae Yeshitela, Eb. Fisch., Killmann & Sérus. SPECIES
 
 #### Status
 ACCEPTED

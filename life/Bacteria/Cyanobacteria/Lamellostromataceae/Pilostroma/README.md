@@ -1,5 +1,4 @@
-Pilostroma Vologdin GENUS
-=======
+# Pilostroma Vologdin GENUS
 
 #### Status
 ACCEPTED

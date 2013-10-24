@@ -1,5 +1,4 @@
-Boletus patella Humb. SPECIES
-=======
+# Boletus patella Humb. SPECIES
 
 #### Status
 ACCEPTED

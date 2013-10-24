@@ -1,5 +1,4 @@
-Euplotidium agitatum Noland, 1937 SPECIES
-=======
+# Euplotidium agitatum Noland, 1937 SPECIES
 
 #### Status
 ACCEPTED

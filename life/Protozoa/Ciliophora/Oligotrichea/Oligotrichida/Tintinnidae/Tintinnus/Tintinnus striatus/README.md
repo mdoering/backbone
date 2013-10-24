@@ -1,5 +1,4 @@
-Tintinnus striatus SPECIES
-=======
+# Tintinnus striatus SPECIES
 
 #### Status
 ACCEPTED

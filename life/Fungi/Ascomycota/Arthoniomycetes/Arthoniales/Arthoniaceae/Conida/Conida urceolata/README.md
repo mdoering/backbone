@@ -1,5 +1,4 @@
-Conida urceolata Elenkin SPECIES
-=======
+# Conida urceolata Elenkin SPECIES
 
 #### Status
 ACCEPTED

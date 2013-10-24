@@ -1,5 +1,4 @@
-Asteroma radiatum Fuckel SPECIES
-=======
+# Asteroma radiatum Fuckel SPECIES
 
 #### Status
 ACCEPTED

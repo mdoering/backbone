@@ -1,5 +1,4 @@
-Septoria fagi f. fagi FORM
-=======
+# Septoria fagi Auersw. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Septoria fagi f. fagi
+Septoria fagi Auersw.
 
 ### Remarks
 null

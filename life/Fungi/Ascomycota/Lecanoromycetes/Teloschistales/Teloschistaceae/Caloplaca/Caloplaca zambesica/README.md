@@ -1,5 +1,4 @@
-Caloplaca zambesica (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Caloplaca zambesica (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

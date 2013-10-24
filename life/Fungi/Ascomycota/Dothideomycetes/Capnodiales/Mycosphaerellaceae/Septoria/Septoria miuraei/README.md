@@ -1,5 +1,4 @@
-Septoria miuraei Trotter SPECIES
-=======
+# Septoria miuraei Trotter SPECIES
 
 #### Status
 ACCEPTED

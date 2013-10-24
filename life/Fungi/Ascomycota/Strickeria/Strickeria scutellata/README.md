@@ -1,5 +1,4 @@
-Strickeria scutellata Kravtzev SPECIES
-=======
+# Strickeria scutellata Kravtzev SPECIES
 
 #### Status
 ACCEPTED

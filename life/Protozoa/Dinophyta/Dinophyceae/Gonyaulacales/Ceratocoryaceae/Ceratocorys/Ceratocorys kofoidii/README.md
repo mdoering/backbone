@@ -1,5 +1,4 @@
-Ceratocorys kofoidii Paulsen, 1931 SPECIES
-=======
+# Ceratocorys kofoidii Paulsen, 1931 SPECIES
 
 #### Status
 ACCEPTED

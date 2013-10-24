@@ -1,5 +1,4 @@
-Helotium testaceum Berk. SPECIES
-=======
+# Helotium testaceum Berk. SPECIES
 
 #### Status
 ACCEPTED

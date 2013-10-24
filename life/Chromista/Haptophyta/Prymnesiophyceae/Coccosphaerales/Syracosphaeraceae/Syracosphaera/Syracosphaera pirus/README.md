@@ -1,5 +1,4 @@
-Syracosphaera pirus Halldal & Markali, 1955 SPECIES
-=======
+# Syracosphaera pirus Halldal & Markali, 1955 SPECIES
 
 #### Status
 ACCEPTED

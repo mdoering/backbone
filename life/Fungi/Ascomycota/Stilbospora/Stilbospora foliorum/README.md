@@ -1,5 +1,4 @@
-Stilbospora foliorum Cooke SPECIES
-=======
+# Stilbospora foliorum Cooke SPECIES
 
 #### Status
 ACCEPTED

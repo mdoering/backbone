@@ -1,5 +1,4 @@
-Mucor griseus Bonord. SPECIES
-=======
+# Mucor griseus Bonord. SPECIES
 
 #### Status
 ACCEPTED

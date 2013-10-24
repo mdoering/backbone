@@ -1,5 +1,4 @@
-Phloeosporella salvadorae (Prasad, R.D. Singh & G.C. Bhatn.) Abbas, B. Sutton & Ghaffar SPECIES
-=======
+# Phloeosporella salvadorae (Prasad, R.D. Singh & G.C. Bhatn.) Abbas, B. Sutton & Ghaffar SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hymenactinium Haeckel, 1887 GENUS
-=======
+# Hymenactinium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

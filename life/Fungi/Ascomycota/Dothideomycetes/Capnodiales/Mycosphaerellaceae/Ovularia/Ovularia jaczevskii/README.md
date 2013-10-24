@@ -1,5 +1,4 @@
-Ovularia jaczevskii Negru & Vlad SPECIES
-=======
+# Ovularia jaczevskii Negru & Vlad SPECIES
 
 #### Status
 ACCEPTED

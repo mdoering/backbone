@@ -1,5 +1,4 @@
-Medusula ochracea Corda SPECIES
-=======
+# Medusula ochracea Corda SPECIES
 
 #### Status
 ACCEPTED

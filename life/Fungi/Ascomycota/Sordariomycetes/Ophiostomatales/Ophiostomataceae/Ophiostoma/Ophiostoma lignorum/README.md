@@ -1,5 +1,4 @@
-Ophiostoma lignorum (Wollenw.) Goid. SPECIES
-=======
+# Ophiostoma lignorum (Wollenw.) Goid. SPECIES
 
 #### Status
 ACCEPTED

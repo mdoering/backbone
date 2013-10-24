@@ -1,5 +1,4 @@
-Laboulbenia coarctata Thaxt. SPECIES
-=======
+# Laboulbenia coarctata Thaxt. SPECIES
 
 #### Status
 ACCEPTED

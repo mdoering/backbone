@@ -1,5 +1,4 @@
-Cladonia macaronesica Ahti SPECIES
-=======
+# Cladonia macaronesica Ahti SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buellia manipurensis Kr.P. Singh & S.R. Singh SPECIES
-=======
+# Buellia manipurensis Kr.P. Singh & S.R. Singh SPECIES
 
 #### Status
 ACCEPTED

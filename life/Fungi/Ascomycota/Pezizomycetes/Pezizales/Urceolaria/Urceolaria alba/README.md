@@ -1,5 +1,4 @@
-Urceolaria alba (Schaer.) Motyka SPECIES
-=======
+# Urceolaria alba (Schaer.) Motyka SPECIES
 
 #### Status
 ACCEPTED

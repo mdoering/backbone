@@ -1,5 +1,4 @@
-Dinemasporium pezizula Berk. & M.A. Curtis SPECIES
-=======
+# Dinemasporium pezizula Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

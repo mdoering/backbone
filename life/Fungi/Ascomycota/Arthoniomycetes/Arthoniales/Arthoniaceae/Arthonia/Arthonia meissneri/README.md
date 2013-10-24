@@ -1,5 +1,4 @@
-Arthonia meissneri Müll. Arg. SPECIES
-=======
+# Arthonia meissneri Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

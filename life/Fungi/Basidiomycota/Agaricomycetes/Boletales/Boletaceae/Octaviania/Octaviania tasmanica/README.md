@@ -1,14 +1,13 @@
-Hydnangium tasmanicum Kalchbr., 1891 SPECIES
-=======
+# Octaviania tasmanica (Kalchbr. ex Massee) Lloyd, 1922 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Writ. 7: 1141 (1922)
 
 #### Original name
 Hydnangium tasmanicum Kalchbr., 1891

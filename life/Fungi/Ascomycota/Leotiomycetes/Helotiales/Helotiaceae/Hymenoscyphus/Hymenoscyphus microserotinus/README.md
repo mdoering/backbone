@@ -1,5 +1,4 @@
-Hymenoscyphus microserotinus (W.Y. Zhuang) W.Y. Zhuang SPECIES
-=======
+# Hymenoscyphus microserotinus (W.Y. Zhuang) W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

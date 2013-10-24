@@ -1,5 +1,4 @@
-Fischerella maior Gomont SPECIES
-=======
+# Fischerella maior Gomont SPECIES
 
 #### Status
 ACCEPTED

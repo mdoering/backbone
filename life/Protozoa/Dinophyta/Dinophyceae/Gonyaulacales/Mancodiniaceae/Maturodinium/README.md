@@ -1,5 +1,4 @@
-Maturodinium P. Morgenroth, 1970 GENUS
-=======
+# Maturodinium P. Morgenroth, 1970 GENUS
 
 #### Status
 ACCEPTED

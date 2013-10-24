@@ -1,5 +1,4 @@
-Mycobacterium agri (ex Tsukamura, 1972) Tsukamura, 1981 SPECIES
-=======
+# Mycobacterium agri (ex Tsukamura, 1972) Tsukamura, 1981 SPECIES
 
 #### Status
 ACCEPTED

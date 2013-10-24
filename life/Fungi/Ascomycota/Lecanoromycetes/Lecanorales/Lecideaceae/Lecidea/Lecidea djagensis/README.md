@@ -1,5 +1,4 @@
-Lecidea djagensis Zahlbr. SPECIES
-=======
+# Lecidea djagensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

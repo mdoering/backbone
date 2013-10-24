@@ -1,5 +1,4 @@
-Shiraia Hennings, 1900 GENUS
-=======
+# Shiraia Hennings, 1900 GENUS
 
 #### Status
 ACCEPTED

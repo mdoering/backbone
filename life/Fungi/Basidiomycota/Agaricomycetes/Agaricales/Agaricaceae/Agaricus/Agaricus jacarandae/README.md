@@ -1,5 +1,4 @@
-Agaricus jacarandae Raithelh. SPECIES
-=======
+# Agaricus jacarandae Raithelh. SPECIES
 
 #### Status
 ACCEPTED

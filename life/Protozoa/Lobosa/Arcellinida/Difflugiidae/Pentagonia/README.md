@@ -1,5 +1,4 @@
-Pentagonia Gauthier-Lièvre & Thomas, 1958 GENUS
-=======
+# Pentagonia Gauthier-Lièvre & Thomas, 1958 GENUS
 
 #### Status
 ACCEPTED

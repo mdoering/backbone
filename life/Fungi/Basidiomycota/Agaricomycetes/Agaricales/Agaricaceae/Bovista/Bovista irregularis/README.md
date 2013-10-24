@@ -1,5 +1,4 @@
-Bovista irregularis Berk. SPECIES
-=======
+# Bovista irregularis Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteroma bartsiae Rostr. SPECIES
-=======
+# Asteroma bartsiae Rostr. SPECIES
 
 #### Status
 ACCEPTED

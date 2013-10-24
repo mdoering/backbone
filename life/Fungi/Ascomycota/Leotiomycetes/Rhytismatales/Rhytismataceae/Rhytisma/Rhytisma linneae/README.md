@@ -1,5 +1,4 @@
-Rhytisma linneae F. Strauss SPECIES
-=======
+# Rhytisma linneae F. Strauss SPECIES
 
 #### Status
 ACCEPTED

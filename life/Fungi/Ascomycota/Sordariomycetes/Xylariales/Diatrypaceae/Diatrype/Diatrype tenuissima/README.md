@@ -1,5 +1,4 @@
-Diatrype tenuissima Cooke SPECIES
-=======
+# Diatrype tenuissima Cooke SPECIES
 
 #### Status
 ACCEPTED

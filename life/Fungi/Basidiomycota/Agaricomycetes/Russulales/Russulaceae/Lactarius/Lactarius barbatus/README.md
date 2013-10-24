@@ -1,5 +1,4 @@
-Lactarius barbatus Verbeken, 1996 SPECIES
-=======
+# Lactarius barbatus Verbeken, 1996 SPECIES
 
 #### Status
 ACCEPTED

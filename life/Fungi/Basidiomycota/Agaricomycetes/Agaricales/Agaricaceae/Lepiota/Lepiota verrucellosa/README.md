@@ -1,5 +1,4 @@
-Lepiota verrucellosa Kalchbr. SPECIES
-=======
+# Lepiota verrucellosa Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

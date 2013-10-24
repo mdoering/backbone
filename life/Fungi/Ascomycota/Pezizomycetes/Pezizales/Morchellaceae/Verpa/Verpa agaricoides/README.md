@@ -1,5 +1,4 @@
-Verpa agaricoides var. agaricoides VARIETY
-=======
+# Verpa agaricoides (DC.) Pers. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Verpa agaricoides var. agaricoides
+Morchella agaricoides DC.
 
 ### Remarks
 null

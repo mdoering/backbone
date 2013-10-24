@@ -1,5 +1,4 @@
-Shewanella denitrificans Brettar et al., 2002 SPECIES
-=======
+# Shewanella denitrificans Brettar et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

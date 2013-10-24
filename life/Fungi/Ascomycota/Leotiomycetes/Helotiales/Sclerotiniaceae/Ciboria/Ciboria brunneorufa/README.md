@@ -1,5 +1,4 @@
-Ciboria brunneorufa Bres. SPECIES
-=======
+# Ciboria brunneorufa Bres. SPECIES
 
 #### Status
 ACCEPTED

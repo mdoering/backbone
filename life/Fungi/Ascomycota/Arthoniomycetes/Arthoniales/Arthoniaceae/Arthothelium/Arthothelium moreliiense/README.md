@@ -1,5 +1,4 @@
-Arthothelium moreliiense B. de Lesd. SPECIES
-=======
+# Arthothelium moreliiense B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

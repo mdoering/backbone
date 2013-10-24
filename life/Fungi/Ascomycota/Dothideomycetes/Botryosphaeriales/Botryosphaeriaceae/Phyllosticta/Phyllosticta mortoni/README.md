@@ -1,5 +1,4 @@
-Phyllosticta mortoni Fairm. SPECIES
-=======
+# Phyllosticta mortoni Fairm. SPECIES
 
 #### Status
 ACCEPTED

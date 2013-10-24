@@ -1,14 +1,13 @@
-Skirgiellopsis simulans (A. Fisch.) A. Batko, 1978 SPECIES
-=======
+# Rozellopsis simulans (A. Fisch.) Karling ex Cejp, 1959 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Acta Mycologica, Warszawa 13(2): 323 (1978)
+Fl. CSR, Oomycet. 1: 347 (1959)
 
 #### Original name
 Rozella simulans A. Fisch., 1882

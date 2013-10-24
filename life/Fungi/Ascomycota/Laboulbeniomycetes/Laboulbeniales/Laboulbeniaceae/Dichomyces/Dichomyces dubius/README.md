@@ -1,5 +1,4 @@
-Dichomyces dubius Thaxt. SPECIES
-=======
+# Dichomyces dubius Thaxt. SPECIES
 
 #### Status
 ACCEPTED

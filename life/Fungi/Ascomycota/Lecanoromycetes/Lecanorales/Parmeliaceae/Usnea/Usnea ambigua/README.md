@@ -1,5 +1,4 @@
-Usnea ambigua Motyka SPECIES
-=======
+# Usnea ambigua Motyka SPECIES
 
 #### Status
 ACCEPTED

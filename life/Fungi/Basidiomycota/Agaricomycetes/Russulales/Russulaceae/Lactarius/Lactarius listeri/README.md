@@ -1,5 +1,4 @@
-Lactarius listeri (Krombh.) Sacc. SPECIES
-=======
+# Lactarius listeri (Krombh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

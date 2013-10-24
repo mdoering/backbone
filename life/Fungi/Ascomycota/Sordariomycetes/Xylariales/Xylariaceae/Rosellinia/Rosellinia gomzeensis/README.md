@@ -1,17 +1,16 @@
-Rosellinia gomzeenis Mouton SPECIES
-=======
+# Rosellinia gomzeensis Mouton SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Soc. R. Bot. Belg. 36(C. R. ): 12 (1897)
 
 #### Original name
-Rosellinia gomzeenis Mouton
+Rosellinia gomzeensis Mouton
 
 ### Remarks
 null

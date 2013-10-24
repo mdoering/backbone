@@ -1,5 +1,4 @@
-Ophiogloea GENUS
-=======
+# Ophiogloea GENUS
 
 #### Status
 ACCEPTED

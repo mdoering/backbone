@@ -1,5 +1,4 @@
-Squamarina scopulorum Haugan & Timdal SPECIES
-=======
+# Squamarina scopulorum Haugan & Timdal SPECIES
 
 #### Status
 ACCEPTED

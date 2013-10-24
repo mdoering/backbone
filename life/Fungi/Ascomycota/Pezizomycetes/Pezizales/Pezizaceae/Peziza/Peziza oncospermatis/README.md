@@ -1,5 +1,4 @@
-Peziza oncospermatis Berk. & Broome SPECIES
-=======
+# Peziza oncospermatis Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyathia rugisperma (Schwein.) V.S. White SPECIES
-=======
+# Cyathia rugisperma (Schwein.) V.S. White SPECIES
 
 #### Status
 ACCEPTED

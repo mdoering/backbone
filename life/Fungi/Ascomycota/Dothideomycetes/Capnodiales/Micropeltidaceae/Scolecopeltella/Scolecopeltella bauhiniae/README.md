@@ -1,5 +1,4 @@
-Scolecopeltella bauhiniae (Henn.) Bat. SPECIES
-=======
+# Scolecopeltella bauhiniae (Henn.) Bat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thalloidima zsakii (Szatala) Szatala SPECIES
-=======
+# Thalloidima zsakii (Szatala) Szatala SPECIES
 
 #### Status
 ACCEPTED

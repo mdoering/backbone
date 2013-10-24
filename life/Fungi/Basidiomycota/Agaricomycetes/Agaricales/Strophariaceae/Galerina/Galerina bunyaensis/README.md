@@ -1,5 +1,4 @@
-Galerina bunyaensis A.E. Wood SPECIES
-=======
+# Galerina bunyaensis A.E. Wood SPECIES
 
 #### Status
 ACCEPTED

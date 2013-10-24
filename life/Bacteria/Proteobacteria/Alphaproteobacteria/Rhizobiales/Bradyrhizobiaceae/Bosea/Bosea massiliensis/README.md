@@ -1,5 +1,4 @@
-Bosea massiliensis La Scola et al., 2003 SPECIES
-=======
+# Bosea massiliensis La Scola et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

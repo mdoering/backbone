@@ -1,5 +1,4 @@
-Blastenia lamii B. de Lesd. SPECIES
-=======
+# Blastenia lamii B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

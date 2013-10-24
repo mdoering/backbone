@@ -1,5 +1,4 @@
-Phoma poterii-spinosi Syd. SPECIES
-=======
+# Phoma poterii-spinosi Syd. SPECIES
 
 #### Status
 ACCEPTED

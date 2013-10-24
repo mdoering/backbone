@@ -1,5 +1,4 @@
-Pertusaria subcomposita Oshio SPECIES
-=======
+# Pertusaria subcomposita Oshio SPECIES
 
 #### Status
 ACCEPTED

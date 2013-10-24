@@ -1,5 +1,4 @@
-Dicaeoma cephalanthi (Seym.) H.S. Jacks. SPECIES
-=======
+# Dicaeoma cephalanthi (Seym.) H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Valsa canariensis Petr. SPECIES
-=======
+# Valsa canariensis Petr. SPECIES
 
 #### Status
 ACCEPTED

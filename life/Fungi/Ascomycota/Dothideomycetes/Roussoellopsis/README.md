@@ -1,17 +1,16 @@
-Roussoëllopsis I. Hino & Katumoto, 1965 GENUS
-=======
+# Roussoellopsis I. Hino & Katum. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. Jap. Bot. 40: 86 (1965)
 
 #### Original name
-null
+Roussoellopsis I. Hino & Katum.
 
 ### Remarks
 null

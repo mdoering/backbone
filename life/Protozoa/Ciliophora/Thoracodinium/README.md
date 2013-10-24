@@ -1,5 +1,4 @@
-Thoracodinium Latteur, 1960 GENUS
-=======
+# Thoracodinium Latteur, 1960 GENUS
 
 #### Status
 ACCEPTED

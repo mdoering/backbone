@@ -1,14 +1,13 @@
-Melanconis ambigua Mouton, 1900 SPECIES
-=======
+# Sydowiella ambigua (Mouton) Munk, 1957 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Dansk bot. Ark. 17(no. 1): 206 (1957)
 
 #### Original name
 Melanconis ambigua Mouton, 1900

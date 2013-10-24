@@ -1,5 +1,4 @@
-Phaeographis wainioana Zahlbr. SPECIES
-=======
+# Phaeographis wainioana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

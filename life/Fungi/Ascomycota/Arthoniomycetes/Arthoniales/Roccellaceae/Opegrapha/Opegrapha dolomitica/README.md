@@ -1,14 +1,13 @@
-Opegrapha rupestris var. dolomitica Arnold VARIETY
-=======
+# Opegrapha dolomitica (Arnold) Clauzade & Cl. Roux ex Torrente & Egea SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Flora, Jena 43: 78 (1860)
+Biblthca Lichenol. 32: 146 (1989)
 
 #### Original name
 Opegrapha rupestris var. dolomitica Arnold

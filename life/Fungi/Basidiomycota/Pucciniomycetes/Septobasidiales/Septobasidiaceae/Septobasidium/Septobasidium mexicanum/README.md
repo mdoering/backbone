@@ -1,5 +1,4 @@
-Septobasidium mexicanum Syd. & P. Syd. SPECIES
-=======
+# Septobasidium mexicanum Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

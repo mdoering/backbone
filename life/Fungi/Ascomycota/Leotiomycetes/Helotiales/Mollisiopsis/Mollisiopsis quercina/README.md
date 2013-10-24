@@ -1,14 +1,13 @@
-Pyrenopeziza foliicola var. quercina Sacc., 1889 VARIETY
-=======
+# Mollisiopsis quercina (Sacc.) Spooner & P.M. Kirk, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 8: 365 (1889)
+in Kirk & Spooner, Mycol. Res. 92(3): 340 (1989)
 
 #### Original name
 Pyrenopeziza foliicola var. quercina Sacc., 1889

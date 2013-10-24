@@ -1,5 +1,4 @@
-Vorticella suboctava Sommer, 1951 SPECIES
-=======
+# Vorticella suboctava Sommer, 1951 SPECIES
 
 #### Status
 ACCEPTED

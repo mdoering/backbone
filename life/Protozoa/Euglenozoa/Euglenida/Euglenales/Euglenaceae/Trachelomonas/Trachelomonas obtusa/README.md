@@ -1,5 +1,4 @@
-Trachelomonas obtusa var. coronata Wehrle VARIETY
-=======
+# Trachelomonas obtusa Palmer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dimerella flava Malcolm & Vezda SPECIES
-=======
+# Dimerella flava Malcolm & Vezda SPECIES
 
 #### Status
 ACCEPTED

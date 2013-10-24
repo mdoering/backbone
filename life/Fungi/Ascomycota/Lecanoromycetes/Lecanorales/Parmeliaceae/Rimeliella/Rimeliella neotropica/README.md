@@ -1,5 +1,4 @@
-Rimeliella neotropica (Kurok.) Kurok. SPECIES
-=======
+# Rimeliella neotropica (Kurok.) Kurok. SPECIES
 
 #### Status
 ACCEPTED

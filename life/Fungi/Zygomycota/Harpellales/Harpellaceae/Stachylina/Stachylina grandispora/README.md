@@ -1,5 +1,4 @@
-Stachylina grandispora Lichtw., 1972 SPECIES
-=======
+# Stachylina grandispora Lichtw., 1972 SPECIES
 
 #### Status
 ACCEPTED

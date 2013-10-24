@@ -1,5 +1,4 @@
-Ascochyta anemones Lib. SPECIES
-=======
+# Ascochyta anemones Lib. SPECIES
 
 #### Status
 ACCEPTED

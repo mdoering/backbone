@@ -1,5 +1,4 @@
-Kuettlingeria siplei C.W. Dodge SPECIES
-=======
+# Kuettlingeria siplei C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

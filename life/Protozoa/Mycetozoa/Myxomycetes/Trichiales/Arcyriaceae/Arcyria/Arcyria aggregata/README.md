@@ -1,5 +1,4 @@
-Arcyria aggregata Yu Li, Shuang L. Chen & H.Z. Li, 1993 SPECIES
-=======
+# Arcyria aggregata Yu Li, Shuang L. Chen & H.Z. Li, 1993 SPECIES
 
 #### Status
 ACCEPTED

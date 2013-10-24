@@ -1,5 +1,4 @@
-Alternaria amphicarpaeae Meng Zhang & T.Y. Zhang SPECIES
-=======
+# Alternaria amphicarpaeae Meng Zhang & T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma aliena (Fr.) Aa & Boerema, 1998 SPECIES
-=======
+# Phoma aliena (Fr.) Aa & Boerema, 1998 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Umbilicaria du-rietzii Frey SPECIES
-=======
+# Umbilicaria durietzii Frey SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Umbilicaria du-rietzii Frey
+Umbilicaria durietzii Frey
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Evernia ramulosa (Hook. f.) Tuck. SPECIES
-=======
+# Evernia ramulosa (Hook. f.) Tuck. SPECIES
 
 #### Status
 ACCEPTED

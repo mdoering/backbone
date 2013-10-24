@@ -1,5 +1,4 @@
-Dicaeoma phyllostachydis (Kusano) Syd. SPECIES
-=======
+# Dicaeoma phyllostachydis (Kusano) Syd. SPECIES
 
 #### Status
 ACCEPTED

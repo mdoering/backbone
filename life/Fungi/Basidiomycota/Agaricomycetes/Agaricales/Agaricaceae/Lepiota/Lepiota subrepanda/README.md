@@ -1,5 +1,4 @@
-Lepiota subrepanda Murrill SPECIES
-=======
+# Lepiota subrepanda Murrill SPECIES
 
 #### Status
 ACCEPTED

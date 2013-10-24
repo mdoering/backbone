@@ -1,14 +1,13 @@
-Mucor janssenii var. assamensis (B.S. Mehrotra & B.R. Mehrotra) Milko, 1974 VARIETY
-=======
+# Hyphomucor assamensis (B.S. Mehrotra & B.R. Mehrotra) Schipper & Lunn, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Opredelitel' Mukoral'njkh Gribov [Key to the Mucorales] (Kiev) 111 (1974)
+in Schipper, Mycotaxon 27: 84 (1986)
 
 #### Original name
 Mucor assamensis B.S. Mehrotra & B.R. Mehrotra, 1970

@@ -1,5 +1,4 @@
-Colacosiphon R. Kirschner, R. Bauer & Oberw. GENUS
-=======
+# Colacosiphon R. Kirschner, R. Bauer & Oberw. GENUS
 
 #### Status
 ACCEPTED

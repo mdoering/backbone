@@ -1,5 +1,4 @@
-Mallomonas monograptus Harris & Bradley SPECIES
-=======
+# Mallomonas monograptus Harris & Bradley SPECIES
 
 #### Status
 ACCEPTED

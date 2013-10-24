@@ -1,5 +1,4 @@
-Straminella GENUS
-=======
+# Straminella GENUS
 
 #### Status
 ACCEPTED

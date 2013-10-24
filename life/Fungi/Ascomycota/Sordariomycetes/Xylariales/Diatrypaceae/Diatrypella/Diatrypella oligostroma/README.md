@@ -1,5 +1,4 @@
-Diatrypella oligostroma Syd. SPECIES
-=======
+# Diatrypella oligostroma Syd. SPECIES
 
 #### Status
 ACCEPTED

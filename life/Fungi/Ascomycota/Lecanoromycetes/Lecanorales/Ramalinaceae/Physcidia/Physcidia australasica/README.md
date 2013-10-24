@@ -1,5 +1,4 @@
-Physcidia australasica Kalb & Elix SPECIES
-=======
+# Physcidia australasica Kalb & Elix SPECIES
 
 #### Status
 ACCEPTED

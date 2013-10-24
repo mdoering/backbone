@@ -1,5 +1,4 @@
-Cercospora monochaeticola Chupp SPECIES
-=======
+# Cercospora monochaeticola Chupp SPECIES
 
 #### Status
 ACCEPTED

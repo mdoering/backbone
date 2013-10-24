@@ -1,5 +1,4 @@
-Mycena punctipes Métrod SPECIES
-=======
+# Mycena punctipes Métrod SPECIES
 
 #### Status
 ACCEPTED

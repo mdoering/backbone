@@ -1,5 +1,4 @@
-Lachnea foliincola Velen. SPECIES
-=======
+# Lachnea foliincola Velen. SPECIES
 
 #### Status
 ACCEPTED

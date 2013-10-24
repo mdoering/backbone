@@ -1,5 +1,4 @@
-Rhizamoeba schnepfii Kuhn, 1997 SPECIES
-=======
+# Rhizamoeba schnepfii Kuhn, 1997 SPECIES
 
 #### Status
 ACCEPTED

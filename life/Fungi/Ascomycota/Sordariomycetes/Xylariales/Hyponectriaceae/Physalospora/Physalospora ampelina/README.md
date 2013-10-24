@@ -1,5 +1,4 @@
-Physalospora ampelina Hazsl. SPECIES
-=======
+# Physalospora ampelina Hazsl. SPECIES
 
 #### Status
 ACCEPTED

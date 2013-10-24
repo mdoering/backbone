@@ -1,5 +1,4 @@
-Phloeospora fusarioides Sacc. SPECIES
-=======
+# Phloeospora fusarioides Sacc. SPECIES
 
 #### Status
 ACCEPTED

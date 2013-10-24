@@ -1,5 +1,4 @@
-Stemphylium punctiforme Sacc. SPECIES
-=======
+# Stemphylium punctiforme Sacc. SPECIES
 
 #### Status
 ACCEPTED

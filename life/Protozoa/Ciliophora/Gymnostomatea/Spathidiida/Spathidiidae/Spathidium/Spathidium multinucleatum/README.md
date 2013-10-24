@@ -1,5 +1,4 @@
-Spathidium multinucleatum Gellert, 1955 SPECIES
-=======
+# Spathidium multinucleatum Gellert, 1955 SPECIES
 
 #### Status
 ACCEPTED

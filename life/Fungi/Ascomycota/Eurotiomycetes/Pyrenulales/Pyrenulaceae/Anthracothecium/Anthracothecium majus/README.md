@@ -1,5 +1,4 @@
-Anthracothecium majus (Zahlbr.) Kashiw. & Kurok. SPECIES
-=======
+# Anthracothecium majus (Zahlbr.) Kashiw. & Kurok. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Poria laestadii Fr. & Berk. ex Cooke SPECIES
-=======
+# Poria laestadii Fr. & Berk. ex Cooke SPECIES
 
 #### Status
 ACCEPTED

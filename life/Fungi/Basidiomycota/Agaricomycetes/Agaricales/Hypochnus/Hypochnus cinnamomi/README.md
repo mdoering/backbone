@@ -1,5 +1,4 @@
-Hypochnus cinnamomi Sawada SPECIES
-=======
+# Hypochnus cinnamomi Sawada SPECIES
 
 #### Status
 ACCEPTED

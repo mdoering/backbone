@@ -1,5 +1,4 @@
-Phacopsis fusca (Triebel & Rambold) Diederich SPECIES
-=======
+# Phacopsis fusca (Triebel & Rambold) Diederich SPECIES
 
 #### Status
 ACCEPTED

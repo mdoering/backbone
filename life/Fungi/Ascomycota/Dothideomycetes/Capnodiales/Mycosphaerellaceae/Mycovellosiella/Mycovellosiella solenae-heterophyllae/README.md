@@ -1,5 +1,4 @@
-Mycovellosiella solenae-heterophyllae R.K. Verma & Kamal SPECIES
-=======
+# Mycovellosiella solenae-heterophyllae R.K. Verma & Kamal SPECIES
 
 #### Status
 ACCEPTED

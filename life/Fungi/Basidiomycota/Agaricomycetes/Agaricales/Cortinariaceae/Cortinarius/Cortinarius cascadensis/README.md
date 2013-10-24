@@ -1,5 +1,4 @@
-Cortinarius cascadensis Ammirati & A.H. Sm. SPECIES
-=======
+# Cortinarius cascadensis Ammirati & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

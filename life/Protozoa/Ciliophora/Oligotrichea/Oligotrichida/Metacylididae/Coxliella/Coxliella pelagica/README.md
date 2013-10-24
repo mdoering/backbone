@@ -1,5 +1,4 @@
-Coxliella pelagica Bergquist, 1970 SPECIES
-=======
+# Coxliella pelagica Bergquist, 1970 SPECIES
 
 #### Status
 ACCEPTED

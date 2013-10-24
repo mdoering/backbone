@@ -1,5 +1,4 @@
-Micromycopsis fischeri Scherff. SPECIES
-=======
+# Micromycopsis fischeri Scherff. SPECIES
 
 #### Status
 ACCEPTED

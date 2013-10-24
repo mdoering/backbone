@@ -1,5 +1,4 @@
-Aecidium asteris Thüm. SPECIES
-=======
+# Aecidium asteris Thüm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coprotus subcylindrosporus J. Moravec SPECIES
-=======
+# Coprotus subcylindrosporus J. Moravec SPECIES
 
 #### Status
 ACCEPTED

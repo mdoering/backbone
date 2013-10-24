@@ -1,5 +1,4 @@
-Kuehneola butleri Syd. & P. Syd. SPECIES
-=======
+# Kuehneola butleri Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

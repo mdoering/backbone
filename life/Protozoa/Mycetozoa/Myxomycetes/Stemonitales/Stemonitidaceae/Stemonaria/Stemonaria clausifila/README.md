@@ -1,5 +1,4 @@
-Stemonaria clausifila Nann.-Bremek. & Y. Yamam., 1995 SPECIES
-=======
+# Stemonaria clausifila Nann.-Bremek. & Y. Yamam., 1995 SPECIES
 
 #### Status
 ACCEPTED

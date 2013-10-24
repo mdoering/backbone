@@ -1,5 +1,4 @@
-Desulforhopalus vacuolatus Isaksen & Teske, 1999 SPECIES
-=======
+# Desulforhopalus vacuolatus Isaksen & Teske, 1999 SPECIES
 
 #### Status
 ACCEPTED

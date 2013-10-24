@@ -1,5 +1,4 @@
-Lambertella palmeri Raitv. & R. Galán SPECIES
-=======
+# Lambertella palmeri Raitv. & R. Galán SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramalina lavicola H. Magn. SPECIES
-=======
+# Ramalina lavicola H. Magn. SPECIES
 
 #### Status
 ACCEPTED

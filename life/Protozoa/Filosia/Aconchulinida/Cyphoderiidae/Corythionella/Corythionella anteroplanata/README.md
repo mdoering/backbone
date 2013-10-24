@@ -1,5 +1,4 @@
-Corythionella anteroplanata Chardez, 1977 SPECIES
-=======
+# Corythionella anteroplanata Chardez, 1977 SPECIES
 
 #### Status
 ACCEPTED

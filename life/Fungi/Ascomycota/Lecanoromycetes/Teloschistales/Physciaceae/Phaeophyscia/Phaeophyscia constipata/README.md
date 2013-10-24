@@ -1,17 +1,16 @@
-Physcia constipata subsp. constipata SUBSPECIES
-=======
+# Phaeophyscia constipata (Norrl. & Nyl.) Moberg SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Symb. bot. upsal. 22(1): 33 (1977)
 
 #### Original name
-Physcia constipata subsp. constipata
+Physcia constipata Norrl. ex Nyl.
 
 ### Remarks
 null

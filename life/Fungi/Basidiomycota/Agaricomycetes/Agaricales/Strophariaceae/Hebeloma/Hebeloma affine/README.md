@@ -1,5 +1,4 @@
-Hebeloma affine A.H. Sm., V.S. Evenson & Mitchel SPECIES
-=======
+# Hebeloma affine A.H. Sm., V.S. Evenson & Mitchel SPECIES
 
 #### Status
 ACCEPTED

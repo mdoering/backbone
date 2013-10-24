@@ -1,5 +1,4 @@
-Penicillium roseocitreum Biourge SPECIES
-=======
+# Penicillium roseocitreum Biourge SPECIES
 
 #### Status
 ACCEPTED

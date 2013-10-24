@@ -1,5 +1,4 @@
-Pseudocyphellaria expansa (Stirt.) W. Martin SPECIES
-=======
+# Pseudocyphellaria expansa (Stirt.) W. Martin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Passalora leptadeniae (Chidd.) U. Braun & Crous SPECIES
-=======
+# Passalora leptadeniae (Chidd.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

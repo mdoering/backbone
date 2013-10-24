@@ -1,5 +1,4 @@
-Sarcinodochium heterosporum Höhn., 1905 SPECIES
-=======
+# Sarcinodochium heterosporum Höhn., 1905 SPECIES
 
 #### Status
 ACCEPTED

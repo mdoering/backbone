@@ -1,5 +1,4 @@
-Phomopsis morina Sawada SPECIES
-=======
+# Phomopsis morina Sawada SPECIES
 
 #### Status
 ACCEPTED

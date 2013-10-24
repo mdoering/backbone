@@ -1,5 +1,4 @@
-Leptosphaeria grisea Pass. SPECIES
-=======
+# Leptosphaeria grisea Pass. SPECIES
 
 #### Status
 ACCEPTED

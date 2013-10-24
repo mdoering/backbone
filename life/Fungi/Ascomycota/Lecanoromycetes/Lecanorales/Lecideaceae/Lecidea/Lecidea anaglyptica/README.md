@@ -1,5 +1,4 @@
-Lecidea anaglyptica (Kremp.) SPECIES
-=======
+# Lecidea anaglyptica (Kremp.) SPECIES
 
 #### Status
 ACCEPTED

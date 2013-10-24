@@ -1,5 +1,4 @@
-Aulosira fertilissima Ghose SPECIES
-=======
+# Aulosira fertilissima Ghose SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acanthostigma moravicum Petr. SPECIES
-=======
+# Acanthostigma moravicum Petr. SPECIES
 
 #### Status
 ACCEPTED

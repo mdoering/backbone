@@ -1,5 +1,4 @@
-Naucoria fulvida (Britzelm.) Sacc. & P. Syd. SPECIES
-=======
+# Naucoria fulvida (Britzelm.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

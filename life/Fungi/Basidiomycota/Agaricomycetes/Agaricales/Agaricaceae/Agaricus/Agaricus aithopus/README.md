@@ -1,5 +1,4 @@
-Agaricus aithopus Holmsk. SPECIES
-=======
+# Agaricus aithopus Holmsk. SPECIES
 
 #### Status
 ACCEPTED

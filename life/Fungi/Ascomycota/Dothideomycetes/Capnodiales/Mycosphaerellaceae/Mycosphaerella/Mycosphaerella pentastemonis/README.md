@@ -1,5 +1,4 @@
-Mycosphaerella pentastemonis Tracy & Earle SPECIES
-=======
+# Mycosphaerella pentastemonis Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

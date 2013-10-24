@@ -1,5 +1,4 @@
-Sporisorium goyazanum (Zundel) M. Piepenbr. SPECIES
-=======
+# Sporisorium goyazanum (Zundel) M. Piepenbr. SPECIES
 
 #### Status
 ACCEPTED

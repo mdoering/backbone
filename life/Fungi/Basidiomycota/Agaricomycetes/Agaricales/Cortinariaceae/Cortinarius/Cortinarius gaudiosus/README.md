@@ -1,5 +1,4 @@
-Cortinarius gaudiosus E. Horak SPECIES
-=======
+# Cortinarius gaudiosus E. Horak SPECIES
 
 #### Status
 ACCEPTED

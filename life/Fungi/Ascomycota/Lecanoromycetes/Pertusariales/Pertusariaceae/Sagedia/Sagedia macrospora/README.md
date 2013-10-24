@@ -1,5 +1,4 @@
-Sagedia macrospora Miyoshi SPECIES
-=======
+# Sagedia macrospora Miyoshi SPECIES
 
 #### Status
 ACCEPTED

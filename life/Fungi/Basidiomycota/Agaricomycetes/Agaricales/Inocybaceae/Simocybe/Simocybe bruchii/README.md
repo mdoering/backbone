@@ -1,5 +1,4 @@
-Simocybe bruchii (Speg.) Singer SPECIES
-=======
+# Simocybe bruchii (Speg.) Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyanosarcina ferruginea M. Watanabe & Komárek SPECIES
-=======
+# Cyanosarcina ferruginea M. Watanabe & Komárek SPECIES
 
 #### Status
 ACCEPTED

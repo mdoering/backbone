@@ -1,5 +1,4 @@
-Trichoglossum Boud. GENUS
-=======
+# Trichoglossum Boud. GENUS
 
 #### Status
 ACCEPTED

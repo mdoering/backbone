@@ -1,17 +1,16 @@
-Protomarasmius Overeem GENUS
-=======
+# Marasmius Fr. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fl. Scan. 339 (1836)
 
 #### Original name
-Protomarasmius Overeem
+Marasmius Fr.
 
 ### Remarks
 null

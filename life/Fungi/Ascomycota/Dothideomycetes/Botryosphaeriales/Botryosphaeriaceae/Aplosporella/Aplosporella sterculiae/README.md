@@ -1,5 +1,4 @@
-Aplosporella sterculiae Bacc. SPECIES
-=======
+# Aplosporella sterculiae Bacc. SPECIES
 
 #### Status
 ACCEPTED

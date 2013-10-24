@@ -1,5 +1,4 @@
-Parmelia amylacea (Ach.) Ach. SPECIES
-=======
+# Parmelia amylacea (Ach.) Ach. SPECIES
 
 #### Status
 ACCEPTED

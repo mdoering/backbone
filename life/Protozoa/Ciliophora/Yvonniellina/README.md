@@ -1,5 +1,4 @@
-Yvonniellina Tappan & Loeblich, 1968 GENUS
-=======
+# Yvonniellina Tappan & Loeblich, 1968 GENUS
 
 #### Status
 ACCEPTED

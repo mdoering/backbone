@@ -1,5 +1,4 @@
-Boletus ampliporus Peck SPECIES
-=======
+# Boletus ampliporus Peck SPECIES
 
 #### Status
 ACCEPTED

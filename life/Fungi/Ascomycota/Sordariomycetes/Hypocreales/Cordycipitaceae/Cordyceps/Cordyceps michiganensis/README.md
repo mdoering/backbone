@@ -1,5 +1,4 @@
-Cordyceps michiganensis Mains SPECIES
-=======
+# Cordyceps michiganensis Mains SPECIES
 
 #### Status
 ACCEPTED

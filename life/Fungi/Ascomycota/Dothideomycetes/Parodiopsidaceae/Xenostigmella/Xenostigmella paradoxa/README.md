@@ -1,5 +1,4 @@
-Xenostigmella paradoxa Petr. SPECIES
-=======
+# Xenostigmella paradoxa Petr. SPECIES
 
 #### Status
 ACCEPTED

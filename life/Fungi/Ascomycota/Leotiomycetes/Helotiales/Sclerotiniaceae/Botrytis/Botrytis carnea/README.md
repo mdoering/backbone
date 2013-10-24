@@ -1,17 +1,16 @@
-Botrytis carnea var. carnea Schumach. ex Sacc. VARIETY
-=======
+# Botrytis carnea Schumach. ex Sacc., 1881 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Michelia 2(no. 7): 285 (1881)
 
 #### Original name
-Botrytis carnea var. carnea Schumach. ex Sacc.
+Botrytis carnea Schumach. ex Sacc., 1881
 
 ### Remarks
 null

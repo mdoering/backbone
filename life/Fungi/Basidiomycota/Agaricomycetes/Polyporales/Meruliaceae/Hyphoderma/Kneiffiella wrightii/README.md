@@ -1,5 +1,4 @@
-Kneiffiella wrightii (Berk. & M.A. Curtis) Henn. SPECIES
-=======
+# Kneiffiella wrightii (Berk. & M.A. Curtis) Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea nanipara Stizenb. SPECIES
-=======
+# Lecidea nanipara Stizenb. SPECIES
 
 #### Status
 ACCEPTED

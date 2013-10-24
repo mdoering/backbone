@@ -1,5 +1,4 @@
-Tricholoma bonii Basso & Candusso SPECIES
-=======
+# Tricholoma bonii Basso & Candusso SPECIES
 
 #### Status
 ACCEPTED

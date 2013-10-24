@@ -1,5 +1,4 @@
-Staurothele nigella (Kremp.) Kernst. SPECIES
-=======
+# Staurothele nigella (Kremp.) Kernst. SPECIES
 
 #### Status
 ACCEPTED

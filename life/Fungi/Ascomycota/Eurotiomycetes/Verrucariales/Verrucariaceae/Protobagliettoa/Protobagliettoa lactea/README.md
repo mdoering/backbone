@@ -1,5 +1,4 @@
-Protobagliettoa lactea var. lactea VARIETY
-=======
+# Protobagliettoa lactea (Arnold) Servít SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Protobagliettoa lactea var. lactea
+null
 
 ### Remarks
 null

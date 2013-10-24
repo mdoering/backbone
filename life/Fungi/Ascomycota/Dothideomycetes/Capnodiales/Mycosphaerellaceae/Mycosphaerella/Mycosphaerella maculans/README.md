@@ -1,5 +1,4 @@
-Mycosphaerella maculans (Sacc. & Roum.) Lindau SPECIES
-=======
+# Mycosphaerella maculans (Sacc. & Roum.) Lindau SPECIES
 
 #### Status
 ACCEPTED

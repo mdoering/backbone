@@ -1,5 +1,4 @@
-Fusarium phyllostachydicola W. Yamam. SPECIES
-=======
+# Fusarium phyllostachydicola W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia clavispora Ellis & Barthol. SPECIES
-=======
+# Puccinia clavispora Ellis & Barthol. SPECIES
 
 #### Status
 ACCEPTED

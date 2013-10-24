@@ -1,5 +1,4 @@
-Teichospora lantanae R. Rao SPECIES
-=======
+# Teichospora lantanae R. Rao SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusarium nygamai L.W. Burgess & Trimboli, 1986 SPECIES
-=======
+# Fusarium nygamai L.W. Burgess & Trimboli, 1986 SPECIES
 
 #### Status
 ACCEPTED

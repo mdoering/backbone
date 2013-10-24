@@ -1,5 +1,4 @@
-Sorosporium filiformis (Henn.) Zundel SPECIES
-=======
+# Sorosporium filiformis (Henn.) Zundel SPECIES
 
 #### Status
 ACCEPTED

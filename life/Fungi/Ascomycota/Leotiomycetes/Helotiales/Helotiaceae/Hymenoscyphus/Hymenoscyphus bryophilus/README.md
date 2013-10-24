@@ -1,14 +1,13 @@
-Helotium bryophilum (Fr.) Massee, 1895 SPECIES
-=======
+# Hymenoscyphus bryophilus (Fr.) W. Phillips, 1887 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-British Fungus Flora. Agarics and Boleti (London) 4: 269 (1895)
+Man. Brit. Discomyc. (London) 125 (1887)
 
 #### Original name
 null

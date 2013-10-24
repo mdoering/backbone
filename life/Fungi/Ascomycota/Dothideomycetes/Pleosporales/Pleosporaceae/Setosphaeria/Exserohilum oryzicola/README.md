@@ -1,5 +1,4 @@
-Exserohilum oryzicola Sivan., 1984 SPECIES
-=======
+# Exserohilum oryzicola Sivan., 1984 SPECIES
 
 #### Status
 ACCEPTED

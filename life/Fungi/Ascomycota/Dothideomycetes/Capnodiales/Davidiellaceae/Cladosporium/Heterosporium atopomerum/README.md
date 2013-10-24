@@ -1,5 +1,4 @@
-Heterosporium atopomerum Kirschst. SPECIES
-=======
+# Heterosporium atopomerum Kirschst. SPECIES
 
 #### Status
 ACCEPTED

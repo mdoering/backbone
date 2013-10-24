@@ -1,5 +1,4 @@
-Diatrype pavettae M.S. Patil & S.D. Patil SPECIES
-=======
+# Diatrype pavettae M.S. Patil & S.D. Patil SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Epistylis variabilis Stiller, 1953 SPECIES
-=======
+# Epistylis variabilis Stiller, 1953 SPECIES
 
 #### Status
 ACCEPTED

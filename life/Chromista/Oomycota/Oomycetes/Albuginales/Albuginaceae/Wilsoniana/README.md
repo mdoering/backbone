@@ -1,5 +1,4 @@
-Wilsoniana Thines GENUS
-=======
+# Wilsoniana Thines GENUS
 
 #### Status
 ACCEPTED

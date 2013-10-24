@@ -1,5 +1,4 @@
-Mallomonas helvetica Dai SPECIES
-=======
+# Mallomonas helvetica Dai SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Laetinaevia arctica (Allesch.) Lind, 1934 SPECIES
-=======
+# Naeviopsis arctica (Allesch.) B. Hein, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Biol. Meddr. 11(2): 93 (1934)
+Beih. Willdenowia 9: 69 (1976)
 
 #### Original name
 Orbilia arctica Allesch., 1897

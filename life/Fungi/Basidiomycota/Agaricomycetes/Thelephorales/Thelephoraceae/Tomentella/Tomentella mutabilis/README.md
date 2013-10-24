@@ -1,5 +1,4 @@
-Tomentella mutabilis subsp. mutabilis SUBSPECIES
-=======
+# Tomentella mutabilis Bourdot & Galzin SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bull. trimest. Soc. mycol. Fr. 40(2): 145 (1924)
 
 #### Original name
-Tomentella mutabilis subsp. mutabilis
+Tomentella mutabilis Bourdot & Galzin
 
 ### Remarks
 null

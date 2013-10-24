@@ -1,5 +1,4 @@
-Henningsina durissima Möller SPECIES
-=======
+# Henningsina durissima Möller SPECIES
 
 #### Status
 ACCEPTED

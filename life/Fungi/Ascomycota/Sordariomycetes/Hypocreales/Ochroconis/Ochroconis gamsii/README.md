@@ -1,5 +1,4 @@
-Ochroconis gamsii de Hoog, 1985 SPECIES
-=======
+# Ochroconis gamsii de Hoog, 1985 SPECIES
 
 #### Status
 ACCEPTED

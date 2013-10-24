@@ -1,5 +1,4 @@
-Stagonospora dolomitica (Kabát & Bubák) Petr. SPECIES
-=======
+# Stagonospora dolomitica (Kabát & Bubák) Petr. SPECIES
 
 #### Status
 ACCEPTED

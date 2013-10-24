@@ -1,5 +1,4 @@
-Hymenoscyphus foliicola Abdullah, Descals & J. Webster, 1981 SPECIES
-=======
+# Hymenoscyphus foliicola Abdullah, Descals & J. Webster, 1981 SPECIES
 
 #### Status
 ACCEPTED

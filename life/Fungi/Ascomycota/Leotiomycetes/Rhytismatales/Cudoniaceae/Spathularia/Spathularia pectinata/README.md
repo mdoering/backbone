@@ -1,5 +1,4 @@
-Spathularia pectinata Rahm SPECIES
-=======
+# Spathularia pectinata Rahm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trogia citrina Corner SPECIES
-=======
+# Trogia citrina Corner SPECIES
 
 #### Status
 ACCEPTED

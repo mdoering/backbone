@@ -1,5 +1,4 @@
-Phyllosticta filipendulae Sacc., 1878 SPECIES
-=======
+# Phyllosticta filipendulae Sacc., 1878 SPECIES
 
 #### Status
 ACCEPTED

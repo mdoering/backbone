@@ -1,5 +1,4 @@
-Phyllachora panici-proliferi Sawada, 1944 SPECIES
-=======
+# Phyllachora panici-proliferi Sawada, 1944 SPECIES
 
 #### Status
 DOUBTFUL

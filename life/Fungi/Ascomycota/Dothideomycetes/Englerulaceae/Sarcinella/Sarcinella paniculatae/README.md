@@ -1,5 +1,4 @@
-Sarcinella paniculatae R.C. Verma, M.S. Tripathi & R.K. Chaudhary SPECIES
-=======
+# Sarcinella paniculatae R.C. Verma, M.S. Tripathi & R.K. Chaudhary SPECIES
 
 #### Status
 ACCEPTED

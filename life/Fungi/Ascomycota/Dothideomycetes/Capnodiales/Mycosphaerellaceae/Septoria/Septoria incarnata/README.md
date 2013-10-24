@@ -1,5 +1,4 @@
-Septoria incarnata Ellis & Everh. SPECIES
-=======
+# Septoria incarnata Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

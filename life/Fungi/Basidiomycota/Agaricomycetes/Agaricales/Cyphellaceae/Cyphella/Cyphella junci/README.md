@@ -1,5 +1,4 @@
-Cyphella junci P. Crouan & H. Crouan SPECIES
-=======
+# Cyphella junci P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

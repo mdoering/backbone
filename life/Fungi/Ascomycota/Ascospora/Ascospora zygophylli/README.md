@@ -1,5 +1,4 @@
-Ascospora zygophylli Nasyrov SPECIES
-=======
+# Ascospora zygophylli Nasyrov SPECIES
 
 #### Status
 ACCEPTED

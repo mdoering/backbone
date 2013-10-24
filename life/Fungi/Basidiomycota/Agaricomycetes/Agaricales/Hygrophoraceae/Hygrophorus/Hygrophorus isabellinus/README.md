@@ -1,5 +1,4 @@
-Hygrophorus isabellinus Henn. SPECIES
-=======
+# Hygrophorus isabellinus Henn. SPECIES
 
 #### Status
 ACCEPTED

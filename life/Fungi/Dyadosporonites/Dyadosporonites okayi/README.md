@@ -1,5 +1,4 @@
-Dyadosporonites okayi V.S. Ediger & Alisan SPECIES
-=======
+# Dyadosporonites okayi V.S. Ediger & Alisan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cenangium alnicola Hazsl. SPECIES
-=======
+# Cenangium alnicola Hazsl. SPECIES
 
 #### Status
 ACCEPTED

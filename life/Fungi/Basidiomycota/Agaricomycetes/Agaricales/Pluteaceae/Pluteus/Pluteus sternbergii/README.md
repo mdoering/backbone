@@ -1,5 +1,4 @@
-Pluteus sternbergii Velen. SPECIES
-=======
+# Pluteus sternbergii Velen. SPECIES
 
 #### Status
 ACCEPTED

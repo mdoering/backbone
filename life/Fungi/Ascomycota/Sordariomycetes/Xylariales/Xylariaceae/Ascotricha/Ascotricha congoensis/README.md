@@ -1,5 +1,4 @@
-Ascotricha congoensis L.M. Ames SPECIES
-=======
+# Ascotricha congoensis L.M. Ames SPECIES
 
 #### Status
 ACCEPTED

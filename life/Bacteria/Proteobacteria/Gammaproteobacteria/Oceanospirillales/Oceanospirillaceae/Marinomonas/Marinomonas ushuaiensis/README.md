@@ -1,5 +1,4 @@
-Marinomonas ushuaiensis Prabagaran et al., 2005 SPECIES
-=======
+# Marinomonas ushuaiensis Prabagaran et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Digitodochium Tubaki & Kubono GENUS
-=======
+# Digitodochium Tubaki & Kubono GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia jasmini-chrysopogonis Barclay SPECIES
-=======
+# Puccinia jasmini-chrysopogonis Barclay SPECIES
 
 #### Status
 ACCEPTED

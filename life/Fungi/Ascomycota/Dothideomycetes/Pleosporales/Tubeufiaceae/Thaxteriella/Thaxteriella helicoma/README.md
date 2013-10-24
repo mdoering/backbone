@@ -1,17 +1,16 @@
-Tubeufia rugosa C. Booth, 1964 SPECIES
-=======
+# Thaxteriella helicoma (W. Phillips & Plowr.) J.L. Crane, Shearer & M.E. Barr, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 94: 13 (1964)
+null
 
 #### Original name
-Tubeufia rugosa C. Booth, 1964
+null
 
 ### Remarks
 null

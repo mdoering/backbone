@@ -1,5 +1,4 @@
-Porina viridis (Fr.) SPECIES
-=======
+# Porina viridis (Fr.) SPECIES
 
 #### Status
 ACCEPTED

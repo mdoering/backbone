@@ -1,5 +1,4 @@
-Aspicilia mexicana B. de Lesd. SPECIES
-=======
+# Aspicilia mexicana B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

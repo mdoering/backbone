@@ -1,5 +1,4 @@
-Septoria salsolae Kalymb. SPECIES
-=======
+# Septoria salsolae Kalymb. SPECIES
 
 #### Status
 ACCEPTED

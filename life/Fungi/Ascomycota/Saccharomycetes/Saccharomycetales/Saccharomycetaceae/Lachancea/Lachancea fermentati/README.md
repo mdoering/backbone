@@ -1,17 +1,16 @@
-Torulaspora manchurica (H. Nagan.) Van der Walt & Johannsen, 1975 SPECIES
-=======
+# Lachancea fermentati (H. Nagan.) Kurtzman, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+FEMS Yeast Res. 4(3): 240 (2003)
 
 #### Original name
-null
+Zygosaccharomyces fermentati (Saito) Krumbholz, 1933
 
 ### Remarks
 null

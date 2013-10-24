@@ -1,5 +1,4 @@
-Lecania pusilla Tretiach SPECIES
-=======
+# Lecania pusilla Tretiach SPECIES
 
 #### Status
 ACCEPTED

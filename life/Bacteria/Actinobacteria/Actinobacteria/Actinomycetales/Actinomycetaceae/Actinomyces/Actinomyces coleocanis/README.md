@@ -1,5 +1,4 @@
-Actinomyces coleocanis Hoyles et al., 2002 SPECIES
-=======
+# Actinomyces coleocanis Hoyles et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

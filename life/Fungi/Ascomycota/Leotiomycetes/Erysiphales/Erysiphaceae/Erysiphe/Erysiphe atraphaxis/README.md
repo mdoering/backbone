@@ -1,14 +1,13 @@
-Erysiphe atraphaxidis (Golovin) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe atraphaxis (Golovin) U. Braun & S. Takam. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Schlechtendalia 4: 5 (2000)
 
 #### Original name
 Trichocladia atraphaxis Golovin

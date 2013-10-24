@@ -1,5 +1,4 @@
-Spilosphaeria GENUS
-=======
+# Spilosphaeria GENUS
 
 #### Status
 ACCEPTED

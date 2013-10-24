@@ -1,5 +1,4 @@
-Pyrenophora cerastii (Oudem.) Lind SPECIES
-=======
+# Pyrenophora cerastii (Oudem.) Lind SPECIES
 
 #### Status
 ACCEPTED

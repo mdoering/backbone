@@ -1,5 +1,4 @@
-Amerosporium subclausum Ellis & Kellerm. SPECIES
-=======
+# Amerosporium subclausum Ellis & Kellerm. SPECIES
 
 #### Status
 ACCEPTED

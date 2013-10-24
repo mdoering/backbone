@@ -1,5 +1,4 @@
-Cladonia apoda Nyl. SPECIES
-=======
+# Cladonia apoda Nyl. SPECIES
 
 #### Status
 ACCEPTED

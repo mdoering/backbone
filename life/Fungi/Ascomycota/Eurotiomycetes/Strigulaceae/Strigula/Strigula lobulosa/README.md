@@ -1,5 +1,4 @@
-Strigula lobulosa Kunze ex Fr. SPECIES
-=======
+# Strigula lobulosa Kunze ex Fr. SPECIES
 
 #### Status
 ACCEPTED

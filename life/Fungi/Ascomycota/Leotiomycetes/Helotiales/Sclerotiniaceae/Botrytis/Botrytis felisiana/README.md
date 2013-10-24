@@ -1,5 +1,4 @@
-Botrytis felisiana C. Massal. SPECIES
-=======
+# Botrytis felisiana C. Massal. SPECIES
 
 #### Status
 ACCEPTED

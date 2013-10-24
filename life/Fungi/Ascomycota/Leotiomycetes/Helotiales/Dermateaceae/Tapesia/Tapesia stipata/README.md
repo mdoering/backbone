@@ -1,5 +1,4 @@
-Tapesia stipata (Fr.) Sacc. SPECIES
-=======
+# Tapesia stipata (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

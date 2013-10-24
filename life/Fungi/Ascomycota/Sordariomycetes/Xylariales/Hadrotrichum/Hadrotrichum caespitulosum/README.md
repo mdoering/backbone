@@ -1,5 +1,4 @@
-Hadrotrichum caespitulosum Sacc. SPECIES
-=======
+# Hadrotrichum caespitulosum Sacc. SPECIES
 
 #### Status
 ACCEPTED

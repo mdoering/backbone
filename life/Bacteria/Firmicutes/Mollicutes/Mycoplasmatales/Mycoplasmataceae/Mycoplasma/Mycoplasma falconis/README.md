@@ -1,5 +1,4 @@
-Mycoplasma falconis Poveda et al., 1994 SPECIES
-=======
+# Mycoplasma falconis Poveda et al., 1994 SPECIES
 
 #### Status
 ACCEPTED

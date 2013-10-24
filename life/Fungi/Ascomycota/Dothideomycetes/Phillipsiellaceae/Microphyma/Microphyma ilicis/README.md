@@ -1,5 +1,4 @@
-Microphyma ilicis (Ellis) Speg. SPECIES
-=======
+# Microphyma ilicis (Ellis) Speg. SPECIES
 
 #### Status
 ACCEPTED

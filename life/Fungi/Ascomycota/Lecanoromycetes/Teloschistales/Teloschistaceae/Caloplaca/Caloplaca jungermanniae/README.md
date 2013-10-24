@@ -1,5 +1,4 @@
-Caloplaca jungermanniae (Vahl) Th. Fr. SPECIES
-=======
+# Caloplaca jungermanniae (Vahl) Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

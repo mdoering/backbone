@@ -1,5 +1,4 @@
-Naucoria fimicola Speg. SPECIES
-=======
+# Naucoria fimicola Speg. SPECIES
 
 #### Status
 ACCEPTED

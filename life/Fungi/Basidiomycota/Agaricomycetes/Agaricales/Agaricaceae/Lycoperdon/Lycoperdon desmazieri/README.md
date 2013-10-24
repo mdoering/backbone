@@ -1,5 +1,4 @@
-Lycoperdon desmazieri Lloyd SPECIES
-=======
+# Lycoperdon desmazieri Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta asplenii Jaap, 1917 SPECIES
-=======
+# Phyllosticta asplenii Jaap, 1917 SPECIES
 
 #### Status
 ACCEPTED

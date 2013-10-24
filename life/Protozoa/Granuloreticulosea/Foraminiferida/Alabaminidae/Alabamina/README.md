@@ -1,5 +1,4 @@
-Alabamina Toulmin, 1941 GENUS
-=======
+# Alabamina Toulmin, 1941 GENUS
 
 #### Status
 ACCEPTED

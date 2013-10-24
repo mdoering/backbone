@@ -1,5 +1,4 @@
-Rhabdospora cucurbitae Sousa da Câmara SPECIES
-=======
+# Rhabdospora cucurbitae Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

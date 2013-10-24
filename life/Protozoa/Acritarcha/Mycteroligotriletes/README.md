@@ -1,5 +1,4 @@
-Mycteroligotriletes Timofeev, 1958 GENUS
-=======
+# Mycteroligotriletes Timofeev, 1958 GENUS
 
 #### Status
 ACCEPTED

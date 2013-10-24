@@ -1,5 +1,4 @@
-Trichoderma brassicae Schumach. SPECIES
-=======
+# Trichoderma brassicae Schumach. SPECIES
 
 #### Status
 ACCEPTED

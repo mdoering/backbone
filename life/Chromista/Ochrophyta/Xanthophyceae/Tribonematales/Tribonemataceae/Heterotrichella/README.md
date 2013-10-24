@@ -1,5 +1,4 @@
-Heterotrichella H. Reisigl, 1964 GENUS
-=======
+# Heterotrichella H. Reisigl, 1964 GENUS
 
 #### Status
 ACCEPTED

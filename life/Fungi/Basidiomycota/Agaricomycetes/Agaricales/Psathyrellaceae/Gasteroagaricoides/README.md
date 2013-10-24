@@ -1,5 +1,4 @@
-Gasteroagaricoides D.A. Reid GENUS
-=======
+# Gasteroagaricoides D.A. Reid GENUS
 
 #### Status
 ACCEPTED

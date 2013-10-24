@@ -1,5 +1,4 @@
-Septoria staphysagriae G. Winter SPECIES
-=======
+# Septoria staphysagriae G. Winter SPECIES
 
 #### Status
 ACCEPTED

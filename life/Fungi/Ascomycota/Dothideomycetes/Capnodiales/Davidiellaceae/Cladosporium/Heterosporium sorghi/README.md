@@ -1,5 +1,4 @@
-Heterosporium sorghi Ranoj. SPECIES
-=======
+# Heterosporium sorghi Ranoj. SPECIES
 
 #### Status
 ACCEPTED

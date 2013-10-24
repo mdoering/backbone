@@ -1,5 +1,4 @@
-Amphiloma dimporphum SPECIES
-=======
+# Amphiloma dimporphum SPECIES
 
 #### Status
 ACCEPTED

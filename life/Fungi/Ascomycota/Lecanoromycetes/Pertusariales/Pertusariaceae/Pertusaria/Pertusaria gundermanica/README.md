@@ -1,5 +1,4 @@
-Pertusaria gundermanica A. W. Archer & Elix SPECIES
-=======
+# Pertusaria gundermanica A. W. Archer & Elix SPECIES
 
 #### Status
 ACCEPTED

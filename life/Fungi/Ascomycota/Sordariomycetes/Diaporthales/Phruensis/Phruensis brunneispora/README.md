@@ -1,5 +1,4 @@
-Phruensis brunneispora Pinruan, 2004 SPECIES
-=======
+# Phruensis brunneispora Pinruan, 2004 SPECIES
 
 #### Status
 ACCEPTED

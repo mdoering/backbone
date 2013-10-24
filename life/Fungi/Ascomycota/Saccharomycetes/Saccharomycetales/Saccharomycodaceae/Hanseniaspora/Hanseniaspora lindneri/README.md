@@ -1,5 +1,4 @@
-Hanseniaspora lindneri Zikes, 1911 SPECIES
-=======
+# Hanseniaspora lindneri Zikes, 1911 SPECIES
 
 #### Status
 ACCEPTED

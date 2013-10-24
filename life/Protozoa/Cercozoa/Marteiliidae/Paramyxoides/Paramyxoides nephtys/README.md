@@ -1,5 +1,4 @@
-Paramyxoides nephtys Larsson & Køie, 2005 SPECIES
-=======
+# Paramyxoides nephtys Larsson & Køie, 2005 SPECIES
 
 #### Status
 ACCEPTED

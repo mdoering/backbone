@@ -1,5 +1,4 @@
-Arundinula orconectis Lichtw., 1963 SPECIES
-=======
+# Arundinula orconectis Lichtw., 1963 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stichospora Petrak, 1927 GENUS
-=======
+# Stichospora Petrak, 1927 GENUS
 
 #### Status
 ACCEPTED

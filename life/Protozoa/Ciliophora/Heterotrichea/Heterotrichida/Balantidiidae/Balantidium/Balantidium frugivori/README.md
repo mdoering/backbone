@@ -1,5 +1,4 @@
-Balantidium frugivori SPECIES
-=======
+# Balantidium frugivori SPECIES
 
 #### Status
 ACCEPTED

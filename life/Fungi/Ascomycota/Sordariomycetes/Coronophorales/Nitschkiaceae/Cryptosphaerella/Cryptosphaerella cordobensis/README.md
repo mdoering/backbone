@@ -1,5 +1,4 @@
-Cryptosphaerella cordobensis Speg. SPECIES
-=======
+# Cryptosphaerella cordobensis Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora diazu Miura SPECIES
-=======
+# Cercospora diazu Miura SPECIES
 
 #### Status
 ACCEPTED

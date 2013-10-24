@@ -1,5 +1,4 @@
-Clitocybe paludophila H.E. Bigelow SPECIES
-=======
+# Clitocybe paludophila H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

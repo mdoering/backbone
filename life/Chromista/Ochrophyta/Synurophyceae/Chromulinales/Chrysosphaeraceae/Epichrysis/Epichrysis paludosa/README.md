@@ -1,5 +1,4 @@
-Epichrysis paludosa (Korshikov) Pascher SPECIES
-=======
+# Epichrysis paludosa (Korshikov) Pascher SPECIES
 
 #### Status
 ACCEPTED

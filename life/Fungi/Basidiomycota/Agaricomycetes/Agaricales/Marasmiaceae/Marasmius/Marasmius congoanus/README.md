@@ -1,5 +1,4 @@
-Marasmius congoanus Pat. SPECIES
-=======
+# Marasmius congoanus Pat. SPECIES
 
 #### Status
 ACCEPTED

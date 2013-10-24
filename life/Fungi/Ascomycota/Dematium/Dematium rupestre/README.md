@@ -1,5 +1,4 @@
-Dematium rupestre Link SPECIES
-=======
+# Dematium rupestre Link SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sclerophoma strobi Kleb. SPECIES
-=======
+# Sclerophoma strobi Kleb. SPECIES
 
 #### Status
 ACCEPTED

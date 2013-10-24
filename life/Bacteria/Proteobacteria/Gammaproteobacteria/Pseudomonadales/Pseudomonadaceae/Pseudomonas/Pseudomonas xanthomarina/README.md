@@ -1,5 +1,4 @@
-Pseudomonas xanthomarina Romanenko et al., 2005 SPECIES
-=======
+# Pseudomonas xanthomarina Romanenko et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

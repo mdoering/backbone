@@ -1,5 +1,4 @@
-Passalora macroguttata (G.F. Atk.) U. Braun & Crous SPECIES
-=======
+# Passalora macroguttata (G.F. Atk.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

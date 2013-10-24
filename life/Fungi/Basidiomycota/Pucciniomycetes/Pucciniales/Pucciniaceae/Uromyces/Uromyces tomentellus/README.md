@@ -1,5 +1,4 @@
-Uromyces tomentellus Cooke SPECIES
-=======
+# Uromyces tomentellus Cooke SPECIES
 
 #### Status
 ACCEPTED

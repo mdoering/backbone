@@ -1,5 +1,4 @@
-Amanita peckiana Kauffman SPECIES
-=======
+# Amanita peckiana Kauffman SPECIES
 
 #### Status
 ACCEPTED

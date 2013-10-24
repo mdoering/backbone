@@ -1,5 +1,4 @@
-Septoria cotylea Pat. & Har., 1905 SPECIES
-=======
+# Septoria cotylea Pat. & Har., 1905 SPECIES
 
 #### Status
 ACCEPTED

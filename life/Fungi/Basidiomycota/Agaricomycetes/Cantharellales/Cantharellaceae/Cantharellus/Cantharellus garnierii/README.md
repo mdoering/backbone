@@ -1,5 +1,4 @@
-Cantharellus garnierii Ducousso & Eyssart., 2004 SPECIES
-=======
+# Cantharellus garnierii Ducousso & Eyssart., 2004 SPECIES
 
 #### Status
 ACCEPTED

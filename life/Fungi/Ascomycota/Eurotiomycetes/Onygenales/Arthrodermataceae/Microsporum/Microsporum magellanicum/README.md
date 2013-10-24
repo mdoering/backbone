@@ -1,5 +1,4 @@
-Microsporum magellanicum Caretta & Piont. SPECIES
-=======
+# Microsporum magellanicum Caretta & Piont. SPECIES
 
 #### Status
 ACCEPTED

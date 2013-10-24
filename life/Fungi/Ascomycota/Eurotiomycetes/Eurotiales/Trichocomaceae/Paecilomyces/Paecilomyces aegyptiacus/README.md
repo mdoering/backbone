@@ -1,5 +1,4 @@
-Paecilomyces aegyptiacus S. Ueda & Udagawa SPECIES
-=======
+# Paecilomyces aegyptiacus S. Ueda & Udagawa SPECIES
 
 #### Status
 ACCEPTED

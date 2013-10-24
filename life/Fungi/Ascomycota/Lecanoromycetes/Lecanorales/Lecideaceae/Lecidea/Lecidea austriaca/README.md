@@ -1,5 +1,4 @@
-Lecidea austriaca Zahlbr. SPECIES
-=======
+# Lecidea austriaca Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

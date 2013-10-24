@@ -1,5 +1,4 @@
-Nectria albidopilosa Rogerson & Samuels SPECIES
-=======
+# Nectria albidopilosa Rogerson & Samuels SPECIES
 
 #### Status
 ACCEPTED

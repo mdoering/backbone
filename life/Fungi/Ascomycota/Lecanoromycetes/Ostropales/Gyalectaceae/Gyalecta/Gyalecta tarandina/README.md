@@ -1,5 +1,4 @@
-Gyalecta tarandina (Nyl.) Vain. SPECIES
-=======
+# Gyalecta tarandina (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

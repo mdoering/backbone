@@ -1,5 +1,4 @@
-Schismatomma undulatum (Fée) Zahlbr. SPECIES
-=======
+# Schismatomma undulatum (Fée) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sclerotium hypnorum Rabenh. SPECIES
-=======
+# Sclerotium hypnorum Rabenh. SPECIES
 
 #### Status
 ACCEPTED

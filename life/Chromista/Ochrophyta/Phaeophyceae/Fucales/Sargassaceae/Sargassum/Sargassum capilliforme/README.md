@@ -1,5 +1,4 @@
-Sargassum capilliforme Tseng & Lu SPECIES
-=======
+# Sargassum capilliforme Tseng & Lu SPECIES
 
 #### Status
 ACCEPTED

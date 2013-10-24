@@ -1,17 +1,16 @@
-Byssoonygena ceratinophia Guarro, Punsola & Cano SPECIES
-=======
+# Byssoonygena ceratinophila Guarro, Punsola & Cano, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycopathologia 100(3): 160 (1987)
 
 #### Original name
-Byssoonygena ceratinophia Guarro, Punsola & Cano
+Byssoonygena ceratinophila Guarro, Punsola & Cano, 1987
 
 ### Remarks
 null

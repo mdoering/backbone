@@ -1,5 +1,4 @@
-Limacinula macrospora Mig. Rodr. & H.D. Gómez SPECIES
-=======
+# Limacinula macrospora Mig. Rodr. & H.D. Gómez SPECIES
 
 #### Status
 ACCEPTED

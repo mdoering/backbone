@@ -1,5 +1,4 @@
-Helotium propinquum Sacc. & Ellis SPECIES
-=======
+# Helotium propinquum Sacc. & Ellis SPECIES
 
 #### Status
 ACCEPTED

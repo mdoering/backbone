@@ -1,5 +1,4 @@
-Hypotrachyna convexa R. P. Baayen & H. Rugenbrink ex Sipman, Elix & T. H. Nash SPECIES
-=======
+# Hypotrachyna convexa R. P. Baayen & H. Rugenbrink ex Sipman, Elix & T. H. Nash SPECIES
 
 #### Status
 ACCEPTED

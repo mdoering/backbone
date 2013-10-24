@@ -1,5 +1,4 @@
-Stauracontarium Haeckel, 1887 GENUS
-=======
+# Stauracontarium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

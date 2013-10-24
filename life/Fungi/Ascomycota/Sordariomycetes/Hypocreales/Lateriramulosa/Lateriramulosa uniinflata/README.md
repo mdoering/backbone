@@ -1,5 +1,4 @@
-Lateriramulosa uniinflata Matsushima SPECIES
-=======
+# Lateriramulosa uniinflata Matsushima SPECIES
 
 #### Status
 ACCEPTED

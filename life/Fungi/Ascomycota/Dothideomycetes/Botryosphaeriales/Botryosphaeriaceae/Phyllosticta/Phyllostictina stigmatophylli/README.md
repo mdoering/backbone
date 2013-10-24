@@ -1,5 +1,4 @@
-Phyllostictina stigmatophylli Petr. & Cif. SPECIES
-=======
+# Phyllostictina stigmatophylli Petr. & Cif. SPECIES
 
 #### Status
 ACCEPTED

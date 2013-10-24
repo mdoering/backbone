@@ -1,5 +1,4 @@
-Arecomyces K.D. Hyde GENUS
-=======
+# Arecomyces K.D. Hyde GENUS
 
 #### Status
 ACCEPTED

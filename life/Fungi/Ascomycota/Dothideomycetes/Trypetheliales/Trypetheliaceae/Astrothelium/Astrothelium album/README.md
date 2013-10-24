@@ -1,5 +1,4 @@
-Astrothelium album Eschw. SPECIES
-=======
+# Astrothelium album Eschw. SPECIES
 
 #### Status
 ACCEPTED

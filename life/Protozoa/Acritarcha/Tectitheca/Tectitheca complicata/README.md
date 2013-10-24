@@ -1,5 +1,4 @@
-Tectitheca complicata Tynni, 1982 SPECIES
-=======
+# Tectitheca complicata Tynni, 1982 SPECIES
 
 #### Status
 ACCEPTED

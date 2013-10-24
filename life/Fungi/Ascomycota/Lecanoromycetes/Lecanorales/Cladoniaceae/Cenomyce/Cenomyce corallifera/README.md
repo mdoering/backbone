@@ -1,5 +1,4 @@
-Cenomyce corallifera Kunze SPECIES
-=======
+# Cenomyce corallifera Kunze SPECIES
 
 #### Status
 ACCEPTED

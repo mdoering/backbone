@@ -1,5 +1,4 @@
-Mucor albo-ater Naumov SPECIES
-=======
+# Mucor albo-ater Naumov SPECIES
 
 #### Status
 ACCEPTED

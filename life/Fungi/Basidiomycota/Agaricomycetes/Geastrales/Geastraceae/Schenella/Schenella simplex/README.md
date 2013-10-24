@@ -1,17 +1,16 @@
-Pyrenogaster atroglebus (Zeller) L.S. Domínguez & Castellano, 1996 SPECIES
-=======
+# Schenella simplex T. Macbr., 1911 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 3(1): 39 (1911)
 
 #### Original name
-null
+Schenella simplex T. Macbr., 1911
 
 ### Remarks
 null

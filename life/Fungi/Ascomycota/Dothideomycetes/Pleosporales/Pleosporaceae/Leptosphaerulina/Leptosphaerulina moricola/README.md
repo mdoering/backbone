@@ -1,5 +1,4 @@
-Leptosphaerulina moricola Sawada SPECIES
-=======
+# Leptosphaerulina moricola Sawada SPECIES
 
 #### Status
 ACCEPTED

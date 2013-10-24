@@ -1,5 +1,4 @@
-Paulbronnimannella Rettori in Zaninetti, Rettori & Martini, 1994 GENUS
-=======
+# Paulbronnimannella Rettori in Zaninetti, Rettori & Martini, 1994 GENUS
 
 #### Status
 ACCEPTED

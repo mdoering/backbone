@@ -1,5 +1,4 @@
-Buellia brabantica Vain. SPECIES
-=======
+# Buellia brabantica Vain. SPECIES
 
 #### Status
 ACCEPTED

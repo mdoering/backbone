@@ -1,5 +1,4 @@
-Endophyllum euphorbiae-characiatis Liou SPECIES
-=======
+# Endophyllum euphorbiae-characiatis Liou SPECIES
 
 #### Status
 ACCEPTED

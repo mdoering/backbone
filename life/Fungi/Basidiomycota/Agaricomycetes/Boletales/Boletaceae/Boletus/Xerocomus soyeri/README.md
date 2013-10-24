@@ -1,5 +1,4 @@
-Xerocomus soyeri Heinem. SPECIES
-=======
+# Xerocomus soyeri Heinem. SPECIES
 
 #### Status
 ACCEPTED

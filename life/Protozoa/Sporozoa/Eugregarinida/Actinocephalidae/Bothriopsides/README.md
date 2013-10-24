@@ -1,17 +1,16 @@
-Bothriopsis Schneider, 1875 GENUS
-=======
+# Bothriopsides Strand, 1928 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Arch. Zool. expér. gén. , Paris, 4, 596.
+Arch. Naturgesch. , 92, A8, 1926, 31.
 
 #### Original name
-null
+Bothriopsis Schneider, 1875
 
 ### Remarks
 null

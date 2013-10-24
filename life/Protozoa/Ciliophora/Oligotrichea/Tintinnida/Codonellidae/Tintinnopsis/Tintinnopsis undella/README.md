@@ -1,5 +1,4 @@
-Tintinnopsis undella Meunier, 1910 SPECIES
-=======
+# Tintinnopsis undella Meunier, 1910 SPECIES
 
 #### Status
 ACCEPTED

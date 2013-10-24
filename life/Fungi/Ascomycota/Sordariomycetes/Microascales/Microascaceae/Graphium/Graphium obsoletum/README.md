@@ -1,5 +1,4 @@
-Graphium obsoletum Sacc. SPECIES
-=======
+# Graphium obsoletum Sacc. SPECIES
 
 #### Status
 ACCEPTED

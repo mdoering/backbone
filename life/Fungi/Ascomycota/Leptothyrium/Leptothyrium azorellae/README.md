@@ -1,5 +1,4 @@
-Leptothyrium azorellae Henn. SPECIES
-=======
+# Leptothyrium azorellae Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meira geulakonigii Boekhout, Scorzetti, Gerson & Sztejnb., 2003 SPECIES
-=======
+# Meira geulakonigii Boekhout, Scorzetti, Gerson & Sztejnb., 2003 SPECIES
 
 #### Status
 ACCEPTED

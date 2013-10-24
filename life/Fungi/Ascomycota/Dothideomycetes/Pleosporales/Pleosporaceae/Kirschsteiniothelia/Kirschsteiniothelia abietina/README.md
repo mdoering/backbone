@@ -1,5 +1,4 @@
-Kirschsteiniothelia abietina (Fairm.) You Z. Wang, Aptroot & K.D. Hyde SPECIES
-=======
+# Kirschsteiniothelia abietina (Fairm.) You Z. Wang, Aptroot & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

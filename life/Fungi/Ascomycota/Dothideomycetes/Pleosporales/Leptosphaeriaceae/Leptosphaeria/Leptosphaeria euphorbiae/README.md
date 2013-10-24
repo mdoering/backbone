@@ -1,5 +1,4 @@
-Leptosphaeria euphorbiae Niessl SPECIES
-=======
+# Leptosphaeria euphorbiae Niessl SPECIES
 
 #### Status
 ACCEPTED

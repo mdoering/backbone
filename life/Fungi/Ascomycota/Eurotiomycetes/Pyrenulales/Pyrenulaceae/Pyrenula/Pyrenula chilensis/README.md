@@ -1,5 +1,4 @@
-Pyrenula chilensis (Fée) R. C. Harris SPECIES
-=======
+# Pyrenula chilensis (Fée) R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

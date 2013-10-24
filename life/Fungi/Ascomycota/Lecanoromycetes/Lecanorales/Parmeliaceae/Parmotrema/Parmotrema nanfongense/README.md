@@ -1,5 +1,4 @@
-Parmotrema nanfongense (Kurok.) DePriest & B. W. Hale SPECIES
-=======
+# Parmotrema nanfongense (Kurok.) DePriest & B. W. Hale SPECIES
 
 #### Status
 ACCEPTED

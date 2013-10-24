@@ -1,5 +1,4 @@
-Pannus microcystiformis F. Hindák SPECIES
-=======
+# Pannus microcystiformis F. Hindák SPECIES
 
 #### Status
 ACCEPTED

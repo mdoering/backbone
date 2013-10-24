@@ -1,5 +1,4 @@
-Rosellinia chaetomioides J. Schröt. SPECIES
-=======
+# Rosellinia chaetomioides J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

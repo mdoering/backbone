@@ -1,5 +1,4 @@
-Dothiorella aterrima (Fuckel) Sacc. SPECIES
-=======
+# Dothiorella aterrima (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

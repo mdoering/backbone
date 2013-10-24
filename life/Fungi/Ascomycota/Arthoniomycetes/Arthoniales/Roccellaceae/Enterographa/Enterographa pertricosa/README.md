@@ -1,5 +1,4 @@
-Enterographa pertricosa Kremp. SPECIES
-=======
+# Enterographa pertricosa Kremp. SPECIES
 
 #### Status
 ACCEPTED

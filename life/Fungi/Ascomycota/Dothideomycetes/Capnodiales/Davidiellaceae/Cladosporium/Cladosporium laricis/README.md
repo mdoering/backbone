@@ -1,5 +1,4 @@
-Cladosporium laricis f. laricis FORM
-=======
+# Cladosporium laricis Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cladosporium laricis f. laricis
+Cladosporium laricis Sacc.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Acremonium sporosulcatum Vasanta, K. Valaparla, K.R.S. Sambasiva Rao & Subrahm. SPECIES
-=======
+# Acremonium sporosulcatum Vasanta, K. Valaparla, K.R.S. Sambasiva Rao & Subrahm. SPECIES
 
 #### Status
 ACCEPTED

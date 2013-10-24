@@ -1,5 +1,4 @@
-Anaeroplasma intermedium Robinson & Freundt, 1987 SPECIES
-=======
+# Anaeroplasma intermedium Robinson & Freundt, 1987 SPECIES
 
 #### Status
 ACCEPTED

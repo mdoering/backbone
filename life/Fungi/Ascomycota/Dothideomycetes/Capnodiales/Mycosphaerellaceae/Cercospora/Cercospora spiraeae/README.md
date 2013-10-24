@@ -1,5 +1,4 @@
-Cercospora spiraeae Thüm. SPECIES
-=======
+# Cercospora spiraeae Thüm. SPECIES
 
 #### Status
 ACCEPTED

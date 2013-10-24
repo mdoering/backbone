@@ -1,5 +1,4 @@
-Pseudocercospora eucleae Crous & B. Sutton SPECIES
-=======
+# Pseudocercospora eucleae Crous & B. Sutton SPECIES
 
 #### Status
 ACCEPTED

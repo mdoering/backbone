@@ -1,5 +1,4 @@
-Septorella Berkeley GENUS
-=======
+# Septorella Berkeley GENUS
 
 #### Status
 ACCEPTED

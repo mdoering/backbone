@@ -1,5 +1,4 @@
-Bacidia robinsonii (Vain.) I.M. Lamb SPECIES
-=======
+# Bacidia robinsonii (Vain.) I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

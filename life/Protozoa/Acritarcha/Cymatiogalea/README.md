@@ -1,5 +1,4 @@
-Cymatiogalea J.Deunff, 1961 GENUS
-=======
+# Cymatiogalea J.Deunff, 1961 GENUS
 
 #### Status
 ACCEPTED

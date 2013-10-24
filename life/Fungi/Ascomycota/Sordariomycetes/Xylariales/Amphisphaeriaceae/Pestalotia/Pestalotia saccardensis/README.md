@@ -1,5 +1,4 @@
-Pestalotia saccardensis Guba SPECIES
-=======
+# Pestalotia saccardensis Guba SPECIES
 
 #### Status
 ACCEPTED

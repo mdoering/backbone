@@ -1,5 +1,4 @@
-Fusarium ossicola (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Fusarium ossicola (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

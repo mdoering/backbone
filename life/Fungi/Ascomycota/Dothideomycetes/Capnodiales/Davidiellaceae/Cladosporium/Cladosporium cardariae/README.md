@@ -1,5 +1,4 @@
-Cladosporium cardariae Opiz SPECIES
-=======
+# Cladosporium cardariae Opiz SPECIES
 
 #### Status
 ACCEPTED

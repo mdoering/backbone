@@ -1,5 +1,4 @@
-Chromulina minor Pascher SPECIES
-=======
+# Chromulina minor Pascher SPECIES
 
 #### Status
 ACCEPTED

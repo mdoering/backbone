@@ -1,5 +1,4 @@
-Squamaria charletyi Werner SPECIES
-=======
+# Squamaria charletyi Werner SPECIES
 
 #### Status
 ACCEPTED

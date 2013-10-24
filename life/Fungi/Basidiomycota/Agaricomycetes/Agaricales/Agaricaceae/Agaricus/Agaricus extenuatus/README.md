@@ -1,5 +1,4 @@
-Agaricus extenuatus Britzelm. SPECIES
-=======
+# Agaricus extenuatus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

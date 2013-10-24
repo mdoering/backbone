@@ -1,5 +1,4 @@
-Semipsammina fixa Tendal, 1975 SPECIES
-=======
+# Semipsammina fixa Tendal, 1975 SPECIES
 
 #### Status
 ACCEPTED

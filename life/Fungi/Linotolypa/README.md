@@ -1,5 +1,4 @@
-Linotolypa Eisenack, 1962 GENUS
-=======
+# Linotolypa Eisenack, 1962 GENUS
 
 #### Status
 ACCEPTED

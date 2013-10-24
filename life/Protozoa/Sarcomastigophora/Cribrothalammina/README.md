@@ -1,5 +1,4 @@
-Cribrothalammina Goldstein & Barker, 1988 GENUS
-=======
+# Cribrothalammina Goldstein & Barker, 1988 GENUS
 
 #### Status
 ACCEPTED

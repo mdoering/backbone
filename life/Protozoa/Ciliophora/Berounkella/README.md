@@ -1,5 +1,4 @@
-Berounkella Koshevoj, 1987 GENUS
-=======
+# Berounkella Koshevoj, 1987 GENUS
 
 #### Status
 ACCEPTED

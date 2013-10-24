@@ -1,5 +1,4 @@
-Graphis albocolpata M. Nakan. & H. Harada SPECIES
-=======
+# Graphis albocolpata M. Nakan. & H. Harada SPECIES
 
 #### Status
 ACCEPTED

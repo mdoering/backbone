@@ -1,17 +1,16 @@
-Uredo tragopogonis scorzonerae Alb. & Schwein., 1805 INFRASPECIFIC_NAME
-=======
+# Microbotryum scorzonerae (Alb. & Schwein.) G. Deml & Prillinger, 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Prillinger, Deml, Dörfelt, Laaser & Lockau, Bot. Acta 104(1): 10 (1991)
 
 #### Original name
-null
+Uredo tragopogonis Pers., 1797
 
 ### Remarks
 null

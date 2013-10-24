@@ -1,5 +1,4 @@
-Puccinia veronicae-anagallidis Oudem. SPECIES
-=======
+# Puccinia veronicae-anagallidis Oudem. SPECIES
 
 #### Status
 ACCEPTED

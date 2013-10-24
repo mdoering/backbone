@@ -1,5 +1,4 @@
-Sphaeria subconnata Schwein. SPECIES
-=======
+# Sphaeria subconnata Schwein. SPECIES
 
 #### Status
 ACCEPTED

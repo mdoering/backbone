@@ -1,5 +1,4 @@
-Cortinarius paracephalixus Bohus SPECIES
-=======
+# Cortinarius paracephalixus Bohus SPECIES
 
 #### Status
 ACCEPTED

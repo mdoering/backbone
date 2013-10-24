@@ -1,5 +1,4 @@
-Mycena papyracea Desjardin & Hemmes SPECIES
-=======
+# Mycena papyracea Desjardin & Hemmes SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelotrema pseudosimilans Weerakoon, Wijeyaratne & Lumbsch SPECIES
-=======
+# Thelotrema pseudosimilans Weerakoon, Wijeyaratne & Lumbsch SPECIES
 
 #### Status
 ACCEPTED

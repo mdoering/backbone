@@ -1,5 +1,4 @@
-Goniosphaeridium smedsbiense H. Górka SPECIES
-=======
+# Goniosphaeridium smedsbiense H. Górka SPECIES
 
 #### Status
 ACCEPTED

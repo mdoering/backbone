@@ -1,5 +1,4 @@
-Lecanora moderata H. Magn. SPECIES
-=======
+# Lecanora moderata H. Magn. SPECIES
 
 #### Status
 ACCEPTED

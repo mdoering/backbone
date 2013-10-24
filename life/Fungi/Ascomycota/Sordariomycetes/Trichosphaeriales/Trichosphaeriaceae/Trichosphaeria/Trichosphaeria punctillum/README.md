@@ -1,5 +1,4 @@
-Trichosphaeria punctillum var. punctillum VARIETY
-=======
+# Trichosphaeria punctillum Rehm & Britzelm. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Trichosphaeria punctillum var. punctillum
+Trichosphaeria punctillum Rehm & Britzelm.
 
 ### Remarks
 null

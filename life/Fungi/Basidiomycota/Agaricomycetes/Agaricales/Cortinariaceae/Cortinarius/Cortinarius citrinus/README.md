@@ -1,17 +1,16 @@
-Cortinarius pseudosulphureus var. pseudosulphureus VARIETY
-=======
+# Cortinarius citrinus J.E. Lange ex P.D. Orton, 1960 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. trimest. Soc. mycol. Fr. 55(2): 176 (1960)
 
 #### Original name
-null
+Cortinarius citrinus J.E. Lange ex P.D. Orton, 1960
 
 ### Remarks
 null

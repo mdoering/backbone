@@ -1,5 +1,4 @@
-Sistotrema foliicola Lib. SPECIES
-=======
+# Sistotrema foliicola Lib. SPECIES
 
 #### Status
 ACCEPTED

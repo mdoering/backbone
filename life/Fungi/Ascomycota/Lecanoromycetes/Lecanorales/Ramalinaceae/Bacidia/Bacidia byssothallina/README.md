@@ -1,5 +1,4 @@
-Bacidia byssothallina SPECIES
-=======
+# Bacidia byssothallina SPECIES
 
 #### Status
 ACCEPTED

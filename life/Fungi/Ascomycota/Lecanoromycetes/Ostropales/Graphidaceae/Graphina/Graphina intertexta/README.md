@@ -1,5 +1,4 @@
-Graphina intertexta (Müll. Arg.) R.C. Harris SPECIES
-=======
+# Graphina intertexta (Müll. Arg.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

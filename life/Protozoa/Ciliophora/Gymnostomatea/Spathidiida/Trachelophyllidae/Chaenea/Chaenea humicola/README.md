@@ -1,5 +1,4 @@
-Chaenea humicola Gellert, 1957 SPECIES
-=======
+# Chaenea humicola Gellert, 1957 SPECIES
 
 #### Status
 ACCEPTED

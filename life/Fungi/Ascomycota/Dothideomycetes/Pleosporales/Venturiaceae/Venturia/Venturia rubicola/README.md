@@ -1,5 +1,4 @@
-Venturia rubicola Ellis & Everh. SPECIES
-=======
+# Venturia rubicola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

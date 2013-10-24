@@ -1,5 +1,4 @@
-Mimosina echinata SPECIES
-=======
+# Mimosina echinata SPECIES
 
 #### Status
 ACCEPTED

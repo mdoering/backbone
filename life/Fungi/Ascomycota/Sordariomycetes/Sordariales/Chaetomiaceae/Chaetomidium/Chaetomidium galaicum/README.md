@@ -1,5 +1,4 @@
-Chaetomidium galaicum Stchigel & Guarro, 2004 SPECIES
-=======
+# Chaetomidium galaicum Stchigel & Guarro, 2004 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius nijerrus Gasparini SPECIES
-=======
+# Cortinarius nijerrus Gasparini SPECIES
 
 #### Status
 ACCEPTED

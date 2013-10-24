@@ -1,5 +1,4 @@
-Relicina vinasii Elix SPECIES
-=======
+# Relicina vinasii Elix SPECIES
 
 #### Status
 ACCEPTED

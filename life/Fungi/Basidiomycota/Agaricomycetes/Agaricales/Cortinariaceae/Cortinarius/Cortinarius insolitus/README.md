@@ -1,5 +1,4 @@
-Cortinarius insolitus Rob. Henry SPECIES
-=======
+# Cortinarius insolitus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

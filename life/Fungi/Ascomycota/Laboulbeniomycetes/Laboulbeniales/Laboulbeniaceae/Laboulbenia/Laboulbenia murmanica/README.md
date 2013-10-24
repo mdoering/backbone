@@ -1,5 +1,4 @@
-Laboulbenia murmanica Huldén SPECIES
-=======
+# Laboulbenia murmanica Huldén SPECIES
 
 #### Status
 ACCEPTED

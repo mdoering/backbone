@@ -1,5 +1,4 @@
-Uredo elymi Westend. SPECIES
-=======
+# Uredo elymi Westend. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleospora gerberae Dippen. SPECIES
-=======
+# Pleospora gerberae Dippen. SPECIES
 
 #### Status
 ACCEPTED

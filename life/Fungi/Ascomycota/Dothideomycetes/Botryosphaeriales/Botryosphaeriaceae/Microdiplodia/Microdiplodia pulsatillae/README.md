@@ -1,5 +1,4 @@
-Microdiplodia pulsatillae Moesz SPECIES
-=======
+# Microdiplodia pulsatillae Moesz SPECIES
 
 #### Status
 ACCEPTED

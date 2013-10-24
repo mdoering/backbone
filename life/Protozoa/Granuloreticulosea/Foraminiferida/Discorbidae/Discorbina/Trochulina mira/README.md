@@ -1,5 +1,4 @@
-Trochulina mira (Cushman, 1922) SPECIES
-=======
+# Trochulina mira (Cushman, 1922) SPECIES
 
 #### Status
 DOUBTFUL

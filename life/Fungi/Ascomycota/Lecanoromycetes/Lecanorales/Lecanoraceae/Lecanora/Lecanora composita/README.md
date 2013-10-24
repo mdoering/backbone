@@ -1,5 +1,4 @@
-Lecanora composita Lynge SPECIES
-=======
+# Lecanora composita Lynge SPECIES
 
 #### Status
 ACCEPTED

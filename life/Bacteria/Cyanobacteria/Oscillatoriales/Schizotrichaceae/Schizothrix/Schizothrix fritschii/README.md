@@ -1,5 +1,4 @@
-Schizothrix fritschii Anand SPECIES
-=======
+# Schizothrix fritschii Anand SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria nerii Theiss. SPECIES
-=======
+# Septoria nerii Theiss. SPECIES
 
 #### Status
 ACCEPTED

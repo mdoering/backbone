@@ -1,5 +1,4 @@
-Diaphoromyces zirophori (Thaxt.) Thaxt. SPECIES
-=======
+# Diaphoromyces zirophori (Thaxt.) Thaxt. SPECIES
 
 #### Status
 ACCEPTED

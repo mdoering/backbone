@@ -1,5 +1,4 @@
-Alternaria actinophylla J.W. Mill. SPECIES
-=======
+# Alternaria actinophylla J.W. Mill. SPECIES
 
 #### Status
 ACCEPTED

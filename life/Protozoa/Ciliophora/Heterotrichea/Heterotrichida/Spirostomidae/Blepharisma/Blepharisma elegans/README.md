@@ -1,5 +1,4 @@
-Blepharisma elegans Vuxanovici, 1963 SPECIES
-=======
+# Blepharisma elegans Vuxanovici, 1963 SPECIES
 
 #### Status
 ACCEPTED

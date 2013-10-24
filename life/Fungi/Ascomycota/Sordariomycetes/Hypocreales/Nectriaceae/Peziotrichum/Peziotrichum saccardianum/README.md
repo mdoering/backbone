@@ -1,5 +1,4 @@
-Peziotrichum saccardianum Rangel SPECIES
-=======
+# Peziotrichum saccardianum Rangel SPECIES
 
 #### Status
 ACCEPTED

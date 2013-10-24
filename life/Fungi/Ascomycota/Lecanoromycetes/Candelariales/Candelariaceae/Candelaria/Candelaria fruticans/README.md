@@ -1,5 +1,4 @@
-Candelaria fruticans Poelt & Oberw. SPECIES
-=======
+# Candelaria fruticans Poelt & Oberw. SPECIES
 
 #### Status
 ACCEPTED

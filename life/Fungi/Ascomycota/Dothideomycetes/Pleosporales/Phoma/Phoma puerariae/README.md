@@ -1,5 +1,4 @@
-Phoma puerariae Gonz. Frag. SPECIES
-=======
+# Phoma puerariae Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

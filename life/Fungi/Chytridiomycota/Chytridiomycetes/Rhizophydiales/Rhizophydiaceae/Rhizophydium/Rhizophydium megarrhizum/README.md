@@ -1,5 +1,4 @@
-Rhizophydium megarrhizum Sparrow SPECIES
-=======
+# Rhizophydium megarrhizum Sparrow SPECIES
 
 #### Status
 ACCEPTED

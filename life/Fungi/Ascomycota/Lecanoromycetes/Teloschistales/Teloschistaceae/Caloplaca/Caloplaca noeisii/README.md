@@ -1,5 +1,4 @@
-Caloplaca noeisii Søchting SPECIES
-=======
+# Caloplaca noeisii Søchting SPECIES
 
 #### Status
 ACCEPTED

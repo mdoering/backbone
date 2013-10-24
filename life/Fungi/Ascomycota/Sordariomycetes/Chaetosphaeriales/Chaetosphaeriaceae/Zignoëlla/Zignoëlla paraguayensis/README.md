@@ -1,5 +1,4 @@
-Zignoëlla paraguayensis Speg. SPECIES
-=======
+# Zignoëlla paraguayensis Speg. SPECIES
 
 #### Status
 ACCEPTED

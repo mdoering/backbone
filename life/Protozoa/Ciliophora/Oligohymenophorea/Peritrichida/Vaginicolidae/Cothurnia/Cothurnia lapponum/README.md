@@ -1,5 +1,4 @@
-Cothurnia lapponum Penard, 1922 SPECIES
-=======
+# Cothurnia lapponum Penard, 1922 SPECIES
 
 #### Status
 ACCEPTED

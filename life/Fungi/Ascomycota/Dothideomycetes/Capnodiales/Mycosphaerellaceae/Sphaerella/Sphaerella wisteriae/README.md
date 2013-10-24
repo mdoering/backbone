@@ -1,5 +1,4 @@
-Sphaerella wisteriae Cooke SPECIES
-=======
+# Sphaerella wisteriae Cooke SPECIES
 
 #### Status
 ACCEPTED

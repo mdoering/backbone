@@ -1,5 +1,4 @@
-Didymosphaeria adelphica (Cooke) Sacc. SPECIES
-=======
+# Didymosphaeria adelphica (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

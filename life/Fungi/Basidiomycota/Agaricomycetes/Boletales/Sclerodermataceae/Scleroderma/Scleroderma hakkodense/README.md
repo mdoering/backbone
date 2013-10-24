@@ -1,5 +1,4 @@
-Scleroderma hakkodense Kobayasi, 1986 SPECIES
-=======
+# Scleroderma hakkodense Kobayasi, 1986 SPECIES
 
 #### Status
 ACCEPTED

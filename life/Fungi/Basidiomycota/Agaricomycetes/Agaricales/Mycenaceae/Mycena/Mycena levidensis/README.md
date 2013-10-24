@@ -1,5 +1,4 @@
-Mycena levidensis (Britzelm.) Sacc. SPECIES
-=======
+# Mycena levidensis (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Conotrema lumbricoides Sipman SPECIES
-=======
+# Conotrema lumbricoides Sipman SPECIES
 
 #### Status
 ACCEPTED

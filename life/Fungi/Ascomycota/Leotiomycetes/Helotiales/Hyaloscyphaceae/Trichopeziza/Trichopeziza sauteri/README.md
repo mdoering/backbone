@@ -1,5 +1,4 @@
-Trichopeziza sauteri Sacc. SPECIES
-=======
+# Trichopeziza sauteri Sacc. SPECIES
 
 #### Status
 ACCEPTED

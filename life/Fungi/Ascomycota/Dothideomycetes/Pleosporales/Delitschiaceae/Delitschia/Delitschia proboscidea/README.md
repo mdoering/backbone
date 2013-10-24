@@ -1,5 +1,4 @@
-Delitschia proboscidea Munk SPECIES
-=======
+# Delitschia proboscidea Munk SPECIES
 
 #### Status
 ACCEPTED

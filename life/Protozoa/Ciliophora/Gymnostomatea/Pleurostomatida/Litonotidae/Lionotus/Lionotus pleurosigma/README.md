@@ -1,5 +1,4 @@
-Lionotus pleurosigma Stokes, 1884 SPECIES
-=======
+# Lionotus pleurosigma Stokes, 1884 SPECIES
 
 #### Status
 ACCEPTED

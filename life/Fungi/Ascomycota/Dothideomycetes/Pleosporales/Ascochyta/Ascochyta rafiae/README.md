@@ -1,5 +1,4 @@
-Ascochyta rafiae Tassi SPECIES
-=======
+# Ascochyta rafiae Tassi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mollicutes Edward & Freundt, 1967 CLASS
-=======
+# Mollicutes Edward & Freundt, 1967 CLASS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pholiota verruculosa Fr. SPECIES
-=======
+# Pholiota verruculosa Fr. SPECIES
 
 #### Status
 ACCEPTED

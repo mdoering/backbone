@@ -1,5 +1,4 @@
-Maryna longinucleata Dingfelder, 1962 SPECIES
-=======
+# Maryna longinucleata Dingfelder, 1962 SPECIES
 
 #### Status
 ACCEPTED

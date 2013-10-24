@@ -1,5 +1,4 @@
-Phoma setariae (H.C. Greene) Gruyter & Boerema SPECIES
-=======
+# Phoma setariae (H.C. Greene) Gruyter & Boerema SPECIES
 
 #### Status
 ACCEPTED

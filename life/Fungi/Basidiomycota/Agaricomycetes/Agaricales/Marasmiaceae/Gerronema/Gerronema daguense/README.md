@@ -1,5 +1,4 @@
-Gerronema daguense Singer SPECIES
-=======
+# Gerronema daguense Singer SPECIES
 
 #### Status
 ACCEPTED

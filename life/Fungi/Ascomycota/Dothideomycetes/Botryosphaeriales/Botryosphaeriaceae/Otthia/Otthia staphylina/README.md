@@ -1,5 +1,4 @@
-Otthia staphylina Ellis & Everh. SPECIES
-=======
+# Otthia staphylina Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

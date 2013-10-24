@@ -1,5 +1,4 @@
-Tripophaenoscenium GENUS
-=======
+# Tripophaenoscenium GENUS
 
 #### Status
 ACCEPTED

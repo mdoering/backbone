@@ -1,5 +1,4 @@
-Thamnomyces fuciformis Berk. SPECIES
-=======
+# Thamnomyces fuciformis Berk. SPECIES
 
 #### Status
 ACCEPTED

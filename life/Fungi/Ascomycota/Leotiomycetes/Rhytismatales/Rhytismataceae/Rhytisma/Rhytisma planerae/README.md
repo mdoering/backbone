@@ -1,5 +1,4 @@
-Rhytisma planerae Ettingsh. SPECIES
-=======
+# Rhytisma planerae Ettingsh. SPECIES
 
 #### Status
 ACCEPTED

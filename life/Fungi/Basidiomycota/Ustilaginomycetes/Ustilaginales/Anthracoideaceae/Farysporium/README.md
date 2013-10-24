@@ -1,5 +1,4 @@
-Farysporium Vánky GENUS
-=======
+# Farysporium Vánky GENUS
 
 #### Status
 ACCEPTED

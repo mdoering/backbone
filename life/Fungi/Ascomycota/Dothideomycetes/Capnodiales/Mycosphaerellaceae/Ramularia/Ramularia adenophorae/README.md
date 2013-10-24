@@ -1,5 +1,4 @@
-Ramularia adenophorae Moesz SPECIES
-=======
+# Ramularia adenophorae Moesz SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stentor baicalius Foissner & Wölfl, 1994 SPECIES
-=======
+# Stentor baicalius Foissner & Wölfl, 1994 SPECIES
 
 #### Status
 ACCEPTED

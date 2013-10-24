@@ -1,5 +1,4 @@
-Peronospora sicyicola Trel. SPECIES
-=======
+# Peronospora sicyicola Trel. SPECIES
 
 #### Status
 ACCEPTED

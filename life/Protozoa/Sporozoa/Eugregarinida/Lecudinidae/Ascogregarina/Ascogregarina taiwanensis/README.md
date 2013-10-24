@@ -1,5 +1,4 @@
-Ascogregarina taiwanensis Lien & Levine, 1980 SPECIES
-=======
+# Ascogregarina taiwanensis Lien & Levine, 1980 SPECIES
 
 #### Status
 ACCEPTED

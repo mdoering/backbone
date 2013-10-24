@@ -1,5 +1,4 @@
-Allonectella rubescens Petr., 1950 SPECIES
-=======
+# Allonectella rubescens Petr., 1950 SPECIES
 
 #### Status
 ACCEPTED

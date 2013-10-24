@@ -1,5 +1,4 @@
-Ceratobasidium angustisporum Warcup & P.H.B. Talbot, 1980 SPECIES
-=======
+# Ceratobasidium angustisporum Warcup & P.H.B. Talbot, 1980 SPECIES
 
 #### Status
 ACCEPTED

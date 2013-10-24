@@ -1,5 +1,4 @@
-Clathrocanium diadema Haeckel, 1887 SPECIES
-=======
+# Clathrocanium diadema Haeckel, 1887 SPECIES
 
 #### Status
 ACCEPTED

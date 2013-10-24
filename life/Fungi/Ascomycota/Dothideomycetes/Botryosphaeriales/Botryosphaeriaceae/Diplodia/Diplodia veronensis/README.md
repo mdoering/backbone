@@ -1,5 +1,4 @@
-Diplodia veronensis Sacc. SPECIES
-=======
+# Diplodia veronensis Sacc. SPECIES
 
 #### Status
 ACCEPTED

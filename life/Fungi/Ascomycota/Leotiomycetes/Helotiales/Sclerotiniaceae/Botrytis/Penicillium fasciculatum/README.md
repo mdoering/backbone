@@ -1,5 +1,4 @@
-Penicillium fasciculatum Sommerf. SPECIES
-=======
+# Penicillium fasciculatum Sommerf. SPECIES
 
 #### Status
 DOUBTFUL

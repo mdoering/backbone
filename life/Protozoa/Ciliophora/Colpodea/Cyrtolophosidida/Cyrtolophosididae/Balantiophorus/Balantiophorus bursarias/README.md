@@ -1,5 +1,4 @@
-Balantiophorus bursarias SPECIES
-=======
+# Balantiophorus bursarias SPECIES
 
 #### Status
 ACCEPTED

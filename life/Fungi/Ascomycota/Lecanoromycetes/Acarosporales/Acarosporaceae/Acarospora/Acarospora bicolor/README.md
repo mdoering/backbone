@@ -1,5 +1,4 @@
-Acarospora bicolor Vain. SPECIES
-=======
+# Acarospora bicolor Vain. SPECIES
 
 #### Status
 ACCEPTED

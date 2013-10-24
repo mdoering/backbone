@@ -1,5 +1,4 @@
-Cortinarius croceoconus Fr. SPECIES
-=======
+# Cortinarius croceoconus Fr. SPECIES
 
 #### Status
 ACCEPTED

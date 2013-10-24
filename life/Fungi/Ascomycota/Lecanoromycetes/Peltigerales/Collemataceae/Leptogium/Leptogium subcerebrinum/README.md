@@ -1,5 +1,4 @@
-Leptogium subcerebrinum Zahlbr. SPECIES
-=======
+# Leptogium subcerebrinum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

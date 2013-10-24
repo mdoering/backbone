@@ -1,5 +1,4 @@
-Lactocollybia aurantiaca Singer, 1952 SPECIES
-=======
+# Lactocollybia aurantiaca Singer, 1952 SPECIES
 
 #### Status
 ACCEPTED

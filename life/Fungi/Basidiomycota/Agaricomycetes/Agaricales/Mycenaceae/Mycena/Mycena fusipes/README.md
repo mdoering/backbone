@@ -1,5 +1,4 @@
-Mycena fusipes Murrill SPECIES
-=======
+# Mycena fusipes Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Miliolinella chukchiensis Loeblich & Tappan, 1950 SPECIES
-=======
+# Miliolinella chukchiensis Loeblich & Tappan, 1950 SPECIES
 
 #### Status
 ACCEPTED

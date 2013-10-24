@@ -1,5 +1,4 @@
-Psathyra pholidota (Mont.) Sacc. SPECIES
-=======
+# Psathyra pholidota (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

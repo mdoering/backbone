@@ -1,5 +1,4 @@
-Pertusaria epileia Nyl. SPECIES
-=======
+# Pertusaria epileia Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melanohalea O. Blanco, A. Crespo, Divakar, Essl., D. Hawksw. & Lumbsch GENUS
-=======
+# Melanohalea O. Blanco, A. Crespo, Divakar, Essl., D. Hawksw. & Lumbsch GENUS
 
 #### Status
 ACCEPTED

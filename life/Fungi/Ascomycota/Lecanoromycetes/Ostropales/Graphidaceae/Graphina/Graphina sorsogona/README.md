@@ -1,5 +1,4 @@
-Graphina sorsogona (Nyl.) Zahlbr. SPECIES
-=======
+# Graphina sorsogona (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Drosophila madeodisca (Peck) Murrill SPECIES
-=======
+# Drosophila madeodisca (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeotrema subinalbescens (Nyl.) Zahlbr. SPECIES
-=======
+# Phaeotrema subinalbescens (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

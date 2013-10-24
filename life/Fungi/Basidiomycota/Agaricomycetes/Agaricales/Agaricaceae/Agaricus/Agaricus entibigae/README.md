@@ -1,5 +1,4 @@
-Agaricus entibigae K.R. Peterson, Desjardin & Hemmes SPECIES
-=======
+# Agaricus entibigae K.R. Peterson, Desjardin & Hemmes SPECIES
 
 #### Status
 ACCEPTED

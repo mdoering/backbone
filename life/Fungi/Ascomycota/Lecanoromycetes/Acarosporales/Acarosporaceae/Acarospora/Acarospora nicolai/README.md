@@ -1,5 +1,4 @@
-Acarospora nicolai B. de Lesd. SPECIES
-=======
+# Acarospora nicolai B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

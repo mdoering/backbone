@@ -1,5 +1,4 @@
-Verrucaria chloritis Stizenb. SPECIES
-=======
+# Verrucaria chloritis Stizenb. SPECIES
 
 #### Status
 ACCEPTED

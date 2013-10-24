@@ -1,5 +1,4 @@
-Thirumalacharia curcumae Rathaiah, 1981 SPECIES
-=======
+# Thirumalacharia curcumae Rathaiah, 1981 SPECIES
 
 #### Status
 ACCEPTED

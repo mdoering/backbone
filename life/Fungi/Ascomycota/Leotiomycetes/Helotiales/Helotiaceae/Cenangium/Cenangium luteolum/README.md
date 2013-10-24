@@ -1,5 +1,4 @@
-Cenangium luteolum Saut. SPECIES
-=======
+# Cenangium luteolum Saut. SPECIES
 
 #### Status
 ACCEPTED

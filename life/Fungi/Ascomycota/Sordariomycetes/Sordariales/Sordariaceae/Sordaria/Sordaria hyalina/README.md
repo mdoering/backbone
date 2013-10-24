@@ -1,5 +1,4 @@
-Sordaria hyalina Griffiths SPECIES
-=======
+# Sordaria hyalina Griffiths SPECIES
 
 #### Status
 ACCEPTED

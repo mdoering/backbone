@@ -1,5 +1,4 @@
-Coniothyrium septatum Joanne E. Taylor & Crous SPECIES
-=======
+# Coniothyrium septatum Joanne E. Taylor & Crous SPECIES
 
 #### Status
 ACCEPTED

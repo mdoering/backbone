@@ -1,5 +1,4 @@
-Gymnodinium guttula Balech, 1976 SPECIES
-=======
+# Gymnodinium guttula Balech, 1976 SPECIES
 
 #### Status
 ACCEPTED

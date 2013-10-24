@@ -1,17 +1,16 @@
-Cytospora nitschkii G.C. Adams, Jol. Roux & Gezahgne SPECIES
-=======
+# Cytospora nitschkei G.C. Adams, Jol. Roux & Gezahgne SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Adams, Wingfield, Common & Roux, Stud. Mycol. 52: 105 (2005)
 
 #### Original name
-Cytospora nitschkii G.C. Adams, Jol. Roux & Gezahgne
+Cytospora nitschkei G.C. Adams, Jol. Roux & Gezahgne
 
 ### Remarks
 null

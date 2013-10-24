@@ -1,5 +1,4 @@
-Mycocaliciales Tibell & Wedin ORDER
-=======
+# Mycocaliciales Tibell & Wedin ORDER
 
 #### Status
 ACCEPTED

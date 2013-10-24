@@ -1,5 +1,4 @@
-Jobellisia rhynchostoma (Höhn.) M.E. Barr SPECIES
-=======
+# Jobellisia rhynchostoma (Höhn.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

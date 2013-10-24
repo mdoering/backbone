@@ -1,5 +1,4 @@
-Arctosporidium lucidum G. Thor SPECIES
-=======
+# Arctosporidium lucidum G. Thor SPECIES
 
 #### Status
 ACCEPTED

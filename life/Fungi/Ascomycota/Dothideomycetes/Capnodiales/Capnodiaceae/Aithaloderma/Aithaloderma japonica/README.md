@@ -1,5 +1,4 @@
-Aithaloderma japonica Hara SPECIES
-=======
+# Aithaloderma japonica Hara SPECIES
 
 #### Status
 ACCEPTED

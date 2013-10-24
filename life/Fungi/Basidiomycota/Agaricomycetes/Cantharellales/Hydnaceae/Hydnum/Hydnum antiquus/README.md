@@ -1,5 +1,4 @@
-Hydnum antiquus Heer SPECIES
-=======
+# Hydnum antiquus Heer SPECIES
 
 #### Status
 ACCEPTED

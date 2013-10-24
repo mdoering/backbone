@@ -1,5 +1,4 @@
-Resupinatus stuntzii Lib.-Barnes & Largent SPECIES
-=======
+# Resupinatus stuntzii Lib.-Barnes & Largent SPECIES
 
 #### Status
 ACCEPTED

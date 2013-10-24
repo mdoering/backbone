@@ -1,5 +1,4 @@
-Aecidium ulluci Jørst. SPECIES
-=======
+# Aecidium ulluci Jørst. SPECIES
 
 #### Status
 ACCEPTED

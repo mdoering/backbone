@@ -1,5 +1,4 @@
-Bipedis de Wever, 1982 GENUS
-=======
+# Bipedis de Wever, 1982 GENUS
 
 #### Status
 ACCEPTED

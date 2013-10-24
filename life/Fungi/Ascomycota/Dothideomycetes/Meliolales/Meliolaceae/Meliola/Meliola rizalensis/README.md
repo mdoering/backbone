@@ -1,5 +1,4 @@
-Meliola rizalensis var. rizalensis VARIETY
-=======
+# Meliola rizalensis Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Annls mycol. 12(6): 551 (1914)
 
 #### Original name
-Meliola rizalensis var. rizalensis
+Meliola rizalensis Syd. & P. Syd.
 
 ### Remarks
 null

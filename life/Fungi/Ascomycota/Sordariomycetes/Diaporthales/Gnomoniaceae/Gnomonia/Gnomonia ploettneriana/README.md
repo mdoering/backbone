@@ -1,5 +1,4 @@
-Gnomonia ploettneriana Kirschst. SPECIES
-=======
+# Gnomonia ploettneriana Kirschst. SPECIES
 
 #### Status
 ACCEPTED

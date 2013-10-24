@@ -1,5 +1,4 @@
-Naematelia globosa Rodway ex Y.S. Chang & Kantvilas SPECIES
-=======
+# Naematelia globosa Rodway ex Y.S. Chang & Kantvilas SPECIES
 
 #### Status
 ACCEPTED

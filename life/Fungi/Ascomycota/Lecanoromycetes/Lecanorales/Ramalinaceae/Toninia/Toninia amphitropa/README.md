@@ -1,5 +1,4 @@
-Toninia amphitropa (Nyl.) Hellb. SPECIES
-=======
+# Toninia amphitropa (Nyl.) Hellb. SPECIES
 
 #### Status
 ACCEPTED

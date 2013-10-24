@@ -1,5 +1,4 @@
-Neofuscelia canariensis Elix & Schumm SPECIES
-=======
+# Neofuscelia canariensis Elix & Schumm SPECIES
 
 #### Status
 ACCEPTED

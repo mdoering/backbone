@@ -1,5 +1,4 @@
-Leptostromella scirpina Peck SPECIES
-=======
+# Leptostromella scirpina Peck SPECIES
 
 #### Status
 ACCEPTED

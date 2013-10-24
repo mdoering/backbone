@@ -1,5 +1,4 @@
-Scutellinia limosa (Velen.) Svrcek SPECIES
-=======
+# Scutellinia limosa (Velen.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

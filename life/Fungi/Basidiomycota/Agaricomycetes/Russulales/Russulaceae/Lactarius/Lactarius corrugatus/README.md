@@ -1,5 +1,4 @@
-Lactarius corrugatus Verbeken & E. Horak SPECIES
-=======
+# Lactarius corrugatus Verbeken & E. Horak SPECIES
 
 #### Status
 ACCEPTED

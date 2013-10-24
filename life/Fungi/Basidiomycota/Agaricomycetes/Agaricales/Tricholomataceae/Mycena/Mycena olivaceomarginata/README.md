@@ -1,5 +1,4 @@
-Mycena olivaceomarginata f. contraria (Arnolds) Maas Geest. FORM
-=======
+# Mycena olivaceomarginata (Massee) Massee SPECIES
 
 #### Status
 ACCEPTED

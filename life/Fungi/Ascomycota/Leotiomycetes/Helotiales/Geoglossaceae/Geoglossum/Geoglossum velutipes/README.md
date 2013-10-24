@@ -1,5 +1,4 @@
-Geoglossum velutipes Peck SPECIES
-=======
+# Geoglossum velutipes Peck SPECIES
 
 #### Status
 ACCEPTED

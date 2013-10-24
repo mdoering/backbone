@@ -1,5 +1,4 @@
-Ustilago residua G.P. Clinton SPECIES
-=======
+# Ustilago residua G.P. Clinton SPECIES
 
 #### Status
 ACCEPTED

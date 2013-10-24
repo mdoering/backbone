@@ -1,5 +1,4 @@
-Lecidea incretata Stizenb. SPECIES
-=======
+# Lecidea incretata Stizenb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lycoperdon opizii Velen. SPECIES
-=======
+# Lycoperdon opizii Velen. SPECIES
 
 #### Status
 ACCEPTED

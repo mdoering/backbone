@@ -1,5 +1,4 @@
-Strigula donacis Vain. SPECIES
-=======
+# Strigula donacis Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Protoperidinium margalefii E.S. Silva, 1965 SPECIES
-=======
+# Protoperidinium persicum Schiller, 1937 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

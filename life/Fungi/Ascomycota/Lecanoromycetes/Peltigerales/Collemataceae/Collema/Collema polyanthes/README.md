@@ -1,5 +1,4 @@
-Collema polyanthes Röhl. SPECIES
-=======
+# Collema polyanthes Röhl. SPECIES
 
 #### Status
 ACCEPTED

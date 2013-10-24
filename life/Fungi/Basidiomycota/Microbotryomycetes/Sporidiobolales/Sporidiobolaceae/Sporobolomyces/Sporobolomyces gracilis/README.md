@@ -1,5 +1,4 @@
-Sporobolomyces gracilis Derx, 1930 SPECIES
-=======
+# Sporobolomyces gracilis Derx, 1930 SPECIES
 
 #### Status
 ACCEPTED

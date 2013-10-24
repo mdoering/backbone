@@ -1,5 +1,4 @@
-Placodium xanthobolum (Kremp.) Vain. SPECIES
-=======
+# Placodium xanthobolum (Kremp.) Vain. SPECIES
 
 #### Status
 ACCEPTED

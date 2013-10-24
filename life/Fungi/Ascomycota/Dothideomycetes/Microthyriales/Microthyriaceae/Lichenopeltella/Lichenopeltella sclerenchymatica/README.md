@@ -1,5 +1,4 @@
-Lichenopeltella sclerenchymatica Etayo, 2008 SPECIES
-=======
+# Lichenopeltella sclerenchymatica Etayo, 2008 SPECIES
 
 #### Status
 ACCEPTED

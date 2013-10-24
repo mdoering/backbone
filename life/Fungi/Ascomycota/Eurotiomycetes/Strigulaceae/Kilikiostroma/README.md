@@ -1,5 +1,4 @@
-Kilikiostroma GENUS
-=======
+# Kilikiostroma GENUS
 
 #### Status
 ACCEPTED

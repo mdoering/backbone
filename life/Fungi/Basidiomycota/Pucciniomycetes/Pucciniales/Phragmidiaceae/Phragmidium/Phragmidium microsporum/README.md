@@ -1,5 +1,4 @@
-Phragmidium microsporum Sacc. SPECIES
-=======
+# Phragmidium microsporum Sacc. SPECIES
 
 #### Status
 ACCEPTED

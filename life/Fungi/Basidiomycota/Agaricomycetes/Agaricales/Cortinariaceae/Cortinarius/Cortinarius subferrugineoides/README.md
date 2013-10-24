@@ -1,5 +1,4 @@
-Cortinarius subferrugineoides Reumaux SPECIES
-=======
+# Cortinarius subferrugineoides Reumaux SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia utahensis Garrett SPECIES
-=======
+# Puccinia utahensis Garrett SPECIES
 
 #### Status
 ACCEPTED

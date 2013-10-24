@@ -1,5 +1,4 @@
-Lepiota avellanae Clem. SPECIES
-=======
+# Lepiota avellanae Clem. SPECIES
 
 #### Status
 ACCEPTED

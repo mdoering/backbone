@@ -1,5 +1,4 @@
-Septoria peckii Sacc. SPECIES
-=======
+# Septoria peckii Sacc. SPECIES
 
 #### Status
 ACCEPTED

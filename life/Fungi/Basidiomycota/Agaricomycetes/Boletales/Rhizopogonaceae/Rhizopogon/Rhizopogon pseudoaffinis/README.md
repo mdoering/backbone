@@ -1,5 +1,4 @@
-Rhizopogon pseudoaffinis A.H. Sm. SPECIES
-=======
+# Rhizopogon pseudoaffinis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

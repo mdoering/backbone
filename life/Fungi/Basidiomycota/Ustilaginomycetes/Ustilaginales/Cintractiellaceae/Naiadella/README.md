@@ -1,5 +1,4 @@
-Naiadella Marvanová & Bandoni GENUS
-=======
+# Naiadella Marvanová & Bandoni GENUS
 
 #### Status
 ACCEPTED

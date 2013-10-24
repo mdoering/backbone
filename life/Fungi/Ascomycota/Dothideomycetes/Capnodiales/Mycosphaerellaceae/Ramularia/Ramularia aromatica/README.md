@@ -1,5 +1,4 @@
-Ramularia aromatica (Sacc.) Höhn., 1905 SPECIES
-=======
+# Ramularia aromatica (Sacc.) Höhn., 1905 SPECIES
 
 #### Status
 ACCEPTED

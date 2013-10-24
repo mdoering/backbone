@@ -1,5 +1,4 @@
-Trogia fuliginea Corner SPECIES
-=======
+# Trogia fuliginea Corner SPECIES
 
 #### Status
 ACCEPTED

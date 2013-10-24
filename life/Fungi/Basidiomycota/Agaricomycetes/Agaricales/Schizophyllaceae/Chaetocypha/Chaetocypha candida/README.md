@@ -1,5 +1,4 @@
-Chaetocypha candida (Jungh.) Kuntze SPECIES
-=======
+# Chaetocypha candida (Jungh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Geaster capensis Thüm. SPECIES
-=======
+# Geastrum capensis Thüm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Geaster capensis Thüm.
+Geastrum capensis Thüm.
 
 ### Remarks
 null

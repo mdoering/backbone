@@ -1,5 +1,4 @@
-Heterococcus stellatus Lokhorst SPECIES
-=======
+# Heterococcus stellatus Lokhorst SPECIES
 
 #### Status
 ACCEPTED

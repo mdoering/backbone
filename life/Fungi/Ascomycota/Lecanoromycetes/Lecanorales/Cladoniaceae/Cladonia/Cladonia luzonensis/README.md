@@ -1,5 +1,4 @@
-Cladonia luzonensis Ahti SPECIES
-=======
+# Cladonia luzonensis Ahti SPECIES
 
 #### Status
 ACCEPTED

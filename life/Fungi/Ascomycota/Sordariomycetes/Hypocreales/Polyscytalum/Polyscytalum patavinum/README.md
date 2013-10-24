@@ -1,5 +1,4 @@
-Polyscytalum patavinum Peyronel SPECIES
-=======
+# Polyscytalum patavinum Peyronel SPECIES
 
 #### Status
 ACCEPTED

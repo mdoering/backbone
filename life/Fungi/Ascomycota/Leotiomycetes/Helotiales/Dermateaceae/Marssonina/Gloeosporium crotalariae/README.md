@@ -1,5 +1,4 @@
-Gloeosporium crotalariae Massee SPECIES
-=======
+# Gloeosporium crotalariae Massee SPECIES
 
 #### Status
 ACCEPTED

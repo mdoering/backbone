@@ -1,5 +1,4 @@
-Elaphomyces papillatus Vittad. SPECIES
-=======
+# Elaphomyces papillatus Vittad. SPECIES
 
 #### Status
 ACCEPTED

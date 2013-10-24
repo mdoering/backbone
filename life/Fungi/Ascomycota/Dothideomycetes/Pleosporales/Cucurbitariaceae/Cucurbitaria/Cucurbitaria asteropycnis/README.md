@@ -1,5 +1,4 @@
-Cucurbitaria asteropycnis P. Crouan & H. Crouan SPECIES
-=======
+# Cucurbitaria asteropycnis P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

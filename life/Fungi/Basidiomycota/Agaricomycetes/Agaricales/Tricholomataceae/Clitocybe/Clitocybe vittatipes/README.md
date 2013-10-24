@@ -1,5 +1,4 @@
-Clitocybe vittatipes S. Ito & S. Imai SPECIES
-=======
+# Clitocybe vittatipes S. Ito & S. Imai SPECIES
 
 #### Status
 ACCEPTED

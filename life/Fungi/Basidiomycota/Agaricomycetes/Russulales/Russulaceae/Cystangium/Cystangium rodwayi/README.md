@@ -1,14 +1,13 @@
-Secotium rodwayi Massee, 1901 SPECIES
-=======
+# Cystangium rodwayi (Massee) A.H. Sm., 1963 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Misc. Inf. , Kew 158 (1901)
+Mycologia 54(6): 633 (1963)
 
 #### Original name
 Secotium rodwayi Massee, 1901

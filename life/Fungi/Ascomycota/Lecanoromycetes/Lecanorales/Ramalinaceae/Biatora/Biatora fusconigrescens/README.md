@@ -1,5 +1,4 @@
-Biatora fusconigrescens Jatta SPECIES
-=======
+# Biatora fusconigrescens Jatta SPECIES
 
 #### Status
 ACCEPTED

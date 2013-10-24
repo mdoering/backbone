@@ -1,5 +1,4 @@
-Bryosphaeria megaspora Spooner, 1980 SPECIES
-=======
+# Bryosphaeria megaspora Spooner, 1980 SPECIES
 
 #### Status
 ACCEPTED

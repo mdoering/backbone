@@ -1,17 +1,16 @@
-Epibryon chorisodontiae Spooner SPECIES
-=======
+# Epibryon chorisodontii Spooner, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Pegler, Spooner & Lewis-Smith, Kew Bull. 35(3): 506 (1980)
 
 #### Original name
-Epibryon chorisodontiae Spooner
+Epibryon chorisodontii Spooner, 1980
 
 ### Remarks
 null

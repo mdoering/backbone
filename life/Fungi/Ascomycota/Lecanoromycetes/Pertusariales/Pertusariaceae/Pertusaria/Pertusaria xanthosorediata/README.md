@@ -1,5 +1,4 @@
-Pertusaria xanthosorediata A. W. Archer SPECIES
-=======
+# Pertusaria xanthosorediata A. W. Archer SPECIES
 
 #### Status
 ACCEPTED

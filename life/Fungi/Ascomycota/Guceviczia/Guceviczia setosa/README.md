@@ -1,5 +1,4 @@
-Guceviczia setosa Glezer SPECIES
-=======
+# Guceviczia setosa Glezer SPECIES
 
 #### Status
 ACCEPTED

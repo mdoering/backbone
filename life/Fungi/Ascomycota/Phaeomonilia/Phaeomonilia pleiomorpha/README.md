@@ -1,5 +1,4 @@
-Phaeomonilia pleiomorpha R.F. Castañeda, Heredia & R.M. Arias, 2007 SPECIES
-=======
+# Phaeomonilia pleiomorpha R.F. Castañeda, Heredia & R.M. Arias, 2007 SPECIES
 
 #### Status
 ACCEPTED

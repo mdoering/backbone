@@ -1,5 +1,4 @@
-Lambertella rubi Korf & W.Y. Zhuang SPECIES
-=======
+# Lambertella rubi Korf & W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

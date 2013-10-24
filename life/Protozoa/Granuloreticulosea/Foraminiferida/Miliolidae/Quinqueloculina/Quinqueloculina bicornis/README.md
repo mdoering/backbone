@@ -1,5 +1,4 @@
-Quinqueloculina bicornis SPECIES
-=======
+# Quinqueloculina bicornis SPECIES
 
 #### Status
 ACCEPTED

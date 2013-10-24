@@ -1,5 +1,4 @@
-Vorticella lima Kahl, 1933 SPECIES
-=======
+# Vorticella lima Kahl, 1933 SPECIES
 
 #### Status
 ACCEPTED

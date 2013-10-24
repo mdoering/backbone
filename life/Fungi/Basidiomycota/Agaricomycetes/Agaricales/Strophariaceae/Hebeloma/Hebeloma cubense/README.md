@@ -1,5 +1,4 @@
-Hebeloma cubense Murrill SPECIES
-=======
+# Hebeloma cubense Murrill SPECIES
 
 #### Status
 ACCEPTED

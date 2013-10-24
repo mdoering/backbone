@@ -1,5 +1,4 @@
-Chrysothallus coplosus SPECIES
-=======
+# Chrysothallus coplosus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anoplophrya lloydi SPECIES
-=======
+# Anoplophrya lloydi SPECIES
 
 #### Status
 ACCEPTED

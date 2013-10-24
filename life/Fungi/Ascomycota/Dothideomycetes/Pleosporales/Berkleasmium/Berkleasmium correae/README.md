@@ -1,5 +1,4 @@
-Berkleasmium correae H.Y. Yip SPECIES
-=======
+# Berkleasmium correae H.Y. Yip SPECIES
 
 #### Status
 ACCEPTED

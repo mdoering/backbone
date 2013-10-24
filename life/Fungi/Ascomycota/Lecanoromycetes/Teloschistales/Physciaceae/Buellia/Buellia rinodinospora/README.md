@@ -1,5 +1,4 @@
-Buellia rinodinospora Riddle SPECIES
-=======
+# Buellia rinodinospora Riddle SPECIES
 
 #### Status
 ACCEPTED

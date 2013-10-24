@@ -1,5 +1,4 @@
-Cercidospora harknessii Kuntze, 1898 SPECIES
-=======
+# Cercidospora harknessii Kuntze, 1898 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xanthopeltis rupicola R. Sant. SPECIES
-=======
+# Xanthopeltis rupicola R. Sant. SPECIES
 
 #### Status
 ACCEPTED

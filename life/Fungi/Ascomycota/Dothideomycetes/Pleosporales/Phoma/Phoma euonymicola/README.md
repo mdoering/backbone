@@ -1,5 +1,4 @@
-Phoma euonymicola Petr. SPECIES
-=======
+# Phoma euonymicola Petr. SPECIES
 
 #### Status
 ACCEPTED

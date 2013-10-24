@@ -1,14 +1,13 @@
-Panus suavissimus (Fr.) Singer, 1951 SPECIES
-=======
+# Lentinus suavissimus Fr., 1836 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lilloa 22: 274 (1951)
+Meth. Grund. Mod. Pflanzensoziol. 13 (1836)
 
 #### Original name
 Lentinus suavissimus Fr., 1836

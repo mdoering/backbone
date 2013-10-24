@@ -1,5 +1,4 @@
-Nectria dracaenae Gutner SPECIES
-=======
+# Nectria dracaenae Gutner SPECIES
 
 #### Status
 ACCEPTED

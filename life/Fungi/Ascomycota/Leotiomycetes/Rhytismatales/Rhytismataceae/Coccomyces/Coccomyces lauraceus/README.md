@@ -1,5 +1,4 @@
-Coccomyces lauraceus P.R. Johnst., 1986 SPECIES
-=======
+# Coccomyces lauraceus P.R. Johnst., 1986 SPECIES
 
 #### Status
 ACCEPTED

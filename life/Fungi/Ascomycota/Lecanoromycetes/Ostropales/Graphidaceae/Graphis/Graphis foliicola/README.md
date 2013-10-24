@@ -1,5 +1,4 @@
-Graphis foliicola var. foliicola VARIETY
-=======
+# Graphis foliicola Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Cat. Welwitsch Afric. Pl. 2: 440 (1901)
 
 #### Original name
-Graphis foliicola var. foliicola
+Graphis foliicola Vain.
 
 ### Remarks
 null

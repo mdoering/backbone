@@ -1,5 +1,4 @@
-Phaeographina firmula (Stirt.) Zahlbr. SPECIES
-=======
+# Phaeographina firmula (Stirt.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

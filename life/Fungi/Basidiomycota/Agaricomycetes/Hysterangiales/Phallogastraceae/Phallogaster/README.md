@@ -1,5 +1,4 @@
-Phallogaster Morgan GENUS
-=======
+# Phallogaster Morgan GENUS
 
 #### Status
 ACCEPTED

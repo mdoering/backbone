@@ -1,5 +1,4 @@
-Exarmidium clypeatum Petr. SPECIES
-=======
+# Exarmidium clypeatum Petr. SPECIES
 
 #### Status
 ACCEPTED

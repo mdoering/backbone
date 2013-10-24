@@ -1,5 +1,4 @@
-Stromatocyphella W.B. Cooke GENUS
-=======
+# Stromatocyphella W.B. Cooke GENUS
 
 #### Status
 ACCEPTED

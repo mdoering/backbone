@@ -1,5 +1,4 @@
-Haplocybe GENUS
-=======
+# Haplocybe GENUS
 
 #### Status
 ACCEPTED

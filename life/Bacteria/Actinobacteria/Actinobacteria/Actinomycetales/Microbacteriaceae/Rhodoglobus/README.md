@@ -1,5 +1,4 @@
-Rhodoglobus Sheridan et al., 2003 GENUS
-=======
+# Rhodoglobus Sheridan et al., 2003 GENUS
 
 #### Status
 ACCEPTED

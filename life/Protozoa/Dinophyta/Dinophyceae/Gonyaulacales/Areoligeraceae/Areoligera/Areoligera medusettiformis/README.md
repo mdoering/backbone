@@ -1,5 +1,4 @@
-Areoligera medusettiformis (O. Wetzel, 1933) Lejeune-Carpentier, 1938 SPECIES
-=======
+# Areoligera medusettiformis (O. Wetzel, 1933) Lejeune-Carpentier, 1938 SPECIES
 
 #### Status
 ACCEPTED

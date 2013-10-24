@@ -1,17 +1,16 @@
-Xanthoparmelia austroamericana Hale SPECIES
-=======
+# Xanthoparmelia hypopsila (Müll. Arg.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Phytologia 28: 488 (1974)
 
 #### Original name
-null
+Parmelia hypopsila Müll. Arg.
 
 ### Remarks
 null

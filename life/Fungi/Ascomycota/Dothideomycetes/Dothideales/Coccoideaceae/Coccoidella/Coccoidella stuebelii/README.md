@@ -1,5 +1,4 @@
-Coccoidella stuebelii (Henn.) Theiss. & Syd. SPECIES
-=======
+# Coccoidella stuebelii (Henn.) Theiss. & Syd. SPECIES
 
 #### Status
 ACCEPTED

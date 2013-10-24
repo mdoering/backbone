@@ -1,5 +1,4 @@
-Neopateoris Bermudez & Seiglie, 1963 GENUS
-=======
+# Neopateoris Bermudez & Seiglie, 1963 GENUS
 
 #### Status
 ACCEPTED

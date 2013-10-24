@@ -1,5 +1,4 @@
-Piricauda pseudarthriae (Hansf.) M.B. Ellis SPECIES
-=======
+# Piricauda pseudarthriae (Hansf.) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

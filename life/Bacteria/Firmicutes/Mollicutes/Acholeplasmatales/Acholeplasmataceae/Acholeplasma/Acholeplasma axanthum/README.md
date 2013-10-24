@@ -1,5 +1,4 @@
-Acholeplasma axanthum Tully and Razin, 1970 (Approved Lists, 1980) SPECIES
-=======
+# Acholeplasma axanthum Tully and Razin, 1970 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

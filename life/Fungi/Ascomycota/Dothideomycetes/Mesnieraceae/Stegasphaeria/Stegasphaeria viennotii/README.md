@@ -1,5 +1,4 @@
-Stegasphaeria viennotii (C. Moreau & M. Moreau) E. Müll. SPECIES
-=======
+# Stegasphaeria viennotii (C. Moreau & M. Moreau) E. Müll. SPECIES
 
 #### Status
 ACCEPTED

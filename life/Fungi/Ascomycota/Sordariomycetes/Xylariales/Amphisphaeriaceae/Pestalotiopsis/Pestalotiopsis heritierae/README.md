@@ -1,5 +1,4 @@
-Pestalotiopsis heritierae Purkay. & A.K. Pal bis SPECIES
-=======
+# Pestalotiopsis heritierae Purkay. & A.K. Pal bis SPECIES
 
 #### Status
 ACCEPTED

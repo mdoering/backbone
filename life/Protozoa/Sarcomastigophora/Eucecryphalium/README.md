@@ -1,5 +1,4 @@
-Eucecryphalium Haeckel, 1887 GENUS
-=======
+# Eucecryphalium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calothrix solitaria SPECIES
-=======
+# Calothrix solitaria SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllachora miconiiphila J.L. Alves, R.W. Barreto & O.L. Pereira, 2010 SPECIES
-=======
+# Phyllachora miconiiphila J.L. Alves, R.W. Barreto & O.L. Pereira, 2010 SPECIES
 
 #### Status
 ACCEPTED

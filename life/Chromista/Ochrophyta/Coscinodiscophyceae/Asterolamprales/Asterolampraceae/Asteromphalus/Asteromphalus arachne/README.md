@@ -1,8 +1,7 @@
-Spatangidium arachne Brébisson SPECIES
-=======
+# Asteromphalus arachne (Brébisson) Ralfs SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

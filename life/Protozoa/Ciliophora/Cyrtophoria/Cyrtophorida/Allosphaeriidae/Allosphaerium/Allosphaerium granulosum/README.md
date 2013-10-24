@@ -1,5 +1,4 @@
-Allosphaerium granulosum SPECIES
-=======
+# Allosphaerium granulosum SPECIES
 
 #### Status
 ACCEPTED

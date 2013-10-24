@@ -1,5 +1,4 @@
-Agaricus inclusus Scop. SPECIES
-=======
+# Agaricus inclusus Scop. SPECIES
 
 #### Status
 ACCEPTED

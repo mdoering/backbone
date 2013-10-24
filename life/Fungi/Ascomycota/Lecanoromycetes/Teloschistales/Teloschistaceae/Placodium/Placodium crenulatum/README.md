@@ -1,5 +1,4 @@
-Placodium crenulatum (Wahlenb.) Tuck. SPECIES
-=======
+# Placodium crenulatum (Wahlenb.) Tuck. SPECIES
 
 #### Status
 ACCEPTED

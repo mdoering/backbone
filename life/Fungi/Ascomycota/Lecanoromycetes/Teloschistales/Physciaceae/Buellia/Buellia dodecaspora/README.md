@@ -1,5 +1,4 @@
-Buellia dodecaspora Müll. Arg. SPECIES
-=======
+# Buellia dodecaspora Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hirsutella minnesotensis Sen Y. Chen, Xing Z. Liu & F.J. Chen SPECIES
-=======
+# Hirsutella minnesotensis Sen Y. Chen, Xing Z. Liu & F.J. Chen SPECIES
 
 #### Status
 ACCEPTED

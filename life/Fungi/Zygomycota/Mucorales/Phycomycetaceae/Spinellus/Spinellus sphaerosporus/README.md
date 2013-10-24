@@ -1,17 +1,16 @@
-Mucor mycenae Mig., 1910 SPECIES
-=======
+# Spinellus sphaerosporus Tiegh., 1875 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Krypt. -Fl. Deutschl. , Deutsch-Oesterreich und der Schweiz 3(1): 199 (1910)
+Annls Sci. Nat. , Bot. , sér. 6 1: 75 (1875)
 
 #### Original name
-Mucor mycenae Mig., 1910
+Spinellus sphaerosporus Tiegh., 1875
 
 ### Remarks
 null

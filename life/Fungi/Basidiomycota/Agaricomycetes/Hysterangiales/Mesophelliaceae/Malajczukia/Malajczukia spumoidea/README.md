@@ -1,5 +1,4 @@
-Malajczukia spumoidea Trappe & Castellano, 1992 SPECIES
-=======
+# Malajczukia spumoidea Trappe & Castellano, 1992 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena fusca Cleland SPECIES
-=======
+# Mycena fusca Cleland SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Odontia velata (Berk. & M.A. Curtis) Rick SPECIES
-=======
+# Odontia velata (Berk. & M.A. Curtis) Rick SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Vorticella putrinum Müller, 1786 SPECIES
-=======
+# Vorticella putrina sensu Kent SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Asterolibertia mangiferae Hansf. & Thirum. SPECIES
-=======
+# Asterolibertia mangiferae Hansf. & Thirum. SPECIES
 
 #### Status
 ACCEPTED

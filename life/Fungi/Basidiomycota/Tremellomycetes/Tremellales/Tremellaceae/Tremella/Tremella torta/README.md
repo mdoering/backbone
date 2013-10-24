@@ -1,5 +1,4 @@
-Tremella torta Berk. SPECIES
-=======
+# Tremella torta Berk. SPECIES
 
 #### Status
 ACCEPTED

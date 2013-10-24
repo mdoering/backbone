@@ -1,5 +1,4 @@
-Diploschistes alhescens Lettau SPECIES
-=======
+# Diploschistes alhescens Lettau SPECIES
 
 #### Status
 ACCEPTED

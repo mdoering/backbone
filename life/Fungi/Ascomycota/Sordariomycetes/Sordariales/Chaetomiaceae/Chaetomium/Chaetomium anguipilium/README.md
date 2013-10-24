@@ -1,5 +1,4 @@
-Chaetomium anguipilium L.M. Ames, 1963 SPECIES
-=======
+# Chaetomium anguipilium L.M. Ames, 1963 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Erostella transversa Sacc. & Fairm. SPECIES
-=======
+# Erostella transversa Sacc. & Fairm. SPECIES
 
 #### Status
 ACCEPTED

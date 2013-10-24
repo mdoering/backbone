@@ -1,5 +1,4 @@
-Lecidea grummannii Hertel SPECIES
-=======
+# Lecidea grummannii Hertel SPECIES
 
 #### Status
 ACCEPTED

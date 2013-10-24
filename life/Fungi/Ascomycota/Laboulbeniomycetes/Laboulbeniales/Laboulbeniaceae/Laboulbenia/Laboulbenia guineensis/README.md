@@ -1,5 +1,4 @@
-Laboulbenia guineensis Speg. SPECIES
-=======
+# Laboulbenia guineensis Speg. SPECIES
 
 #### Status
 ACCEPTED

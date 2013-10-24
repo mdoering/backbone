@@ -1,5 +1,4 @@
-Naxibacter alkalitolerans Xu et al., 2005 SPECIES
-=======
+# Naxibacter alkalitolerans Xu et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

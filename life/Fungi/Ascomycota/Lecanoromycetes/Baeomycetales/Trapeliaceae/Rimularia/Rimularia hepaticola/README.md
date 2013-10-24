@@ -1,5 +1,4 @@
-Rimularia hepaticola Kantvilas & Coppins SPECIES
-=======
+# Rimularia hepaticola Kantvilas & Coppins SPECIES
 
 #### Status
 ACCEPTED

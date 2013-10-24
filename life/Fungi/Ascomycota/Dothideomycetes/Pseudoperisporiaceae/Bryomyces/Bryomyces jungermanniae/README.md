@@ -1,5 +1,4 @@
-Bryomyces jungermanniae (Nees) Döbbeler, 1978 SPECIES
-=======
+# Bryomyces jungermanniae (Nees) Döbbeler, 1978 SPECIES
 
 #### Status
 ACCEPTED

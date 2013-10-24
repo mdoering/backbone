@@ -1,14 +1,13 @@
-Irenina phyllanthi Deighton, 1951 SPECIES
-=======
+# Asteridiella phyllanthi (Deighton) Hansf., 1957 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 10: 49 (1957)
 
 #### Original name
 Irenina phyllanthi Deighton, 1951

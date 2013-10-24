@@ -1,5 +1,4 @@
-Lingulina meturgensis Chapman, W.D. & Crespin, I. SPECIES
-=======
+# Lingulina meturgensis Chapman, W.D. & Crespin, I. SPECIES
 
 #### Status
 ACCEPTED

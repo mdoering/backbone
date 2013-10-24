@@ -1,5 +1,4 @@
-Arthothelium onegense (Nyl.) Arnold SPECIES
-=======
+# Arthothelium onegense (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

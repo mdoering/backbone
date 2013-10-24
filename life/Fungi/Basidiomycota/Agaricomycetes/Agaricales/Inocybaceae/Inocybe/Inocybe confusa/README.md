@@ -1,5 +1,4 @@
-Inocybe confusa P. Karst. SPECIES
-=======
+# Inocybe confusa P. Karst. SPECIES
 
 #### Status
 ACCEPTED

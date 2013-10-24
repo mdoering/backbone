@@ -1,5 +1,4 @@
-Strickeria variispora Kirschst. SPECIES
-=======
+# Strickeria variispora Kirschst. SPECIES
 
 #### Status
 ACCEPTED

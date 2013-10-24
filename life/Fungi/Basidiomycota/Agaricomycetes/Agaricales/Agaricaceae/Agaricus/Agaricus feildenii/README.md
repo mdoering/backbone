@@ -1,8 +1,7 @@
-Agaricus feildeni Berk. SPECIES
-=======
+# Agaricus feildenii Berk. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Agaricus feildeni Berk.
+Agaricus feildenii Berk.
 
 ### Remarks
 null

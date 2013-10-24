@@ -1,17 +1,16 @@
-Knyaria Kuntze GENUS
-=======
+# Tubercularia Tode, 1790 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 2: 856 (1891)
+Fung. mecklenb. sel. (Lüneburg) 1: 18 (1790)
 
 #### Original name
-Knyaria Kuntze
+Tubercularia Tode, 1790
 
 ### Remarks
 null

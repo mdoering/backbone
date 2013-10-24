@@ -1,5 +1,4 @@
-Gymnopus fagiphilus (Velen.) Antonín, Halling & Noordel., 1997 SPECIES
-=======
+# Gymnopus fagiphilus (Velen.) Antonín, Halling & Noordel., 1997 SPECIES
 
 #### Status
 ACCEPTED

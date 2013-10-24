@@ -1,5 +1,4 @@
-Ciboria liquidambaris Ellis & Everh. SPECIES
-=======
+# Ciboria liquidambaris Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

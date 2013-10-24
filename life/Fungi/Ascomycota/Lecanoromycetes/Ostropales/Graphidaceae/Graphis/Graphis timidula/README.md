@@ -1,5 +1,4 @@
-Graphis timidula Nyl. SPECIES
-=======
+# Graphis timidula Nyl. SPECIES
 
 #### Status
 ACCEPTED

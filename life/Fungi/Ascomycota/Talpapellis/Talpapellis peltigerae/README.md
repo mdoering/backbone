@@ -1,5 +1,4 @@
-Talpapellis peltigerae Alstrup & M.S. Cole, 1998 SPECIES
-=======
+# Talpapellis peltigerae Alstrup & M.S. Cole, 1998 SPECIES
 
 #### Status
 ACCEPTED

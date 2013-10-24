@@ -1,5 +1,4 @@
-Uromyces spermacoces (Schwein.) Thüm. SPECIES
-=======
+# Uromyces spermacoces (Schwein.) Thüm. SPECIES
 
 #### Status
 ACCEPTED

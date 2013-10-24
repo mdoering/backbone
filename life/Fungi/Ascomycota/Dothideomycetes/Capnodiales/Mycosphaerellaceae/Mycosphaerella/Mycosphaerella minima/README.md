@@ -1,5 +1,4 @@
-Mycosphaerella minima Stahel, 1937 SPECIES
-=======
+# Mycosphaerella minima Stahel, 1937 SPECIES
 
 #### Status
 ACCEPTED

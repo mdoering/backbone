@@ -1,5 +1,4 @@
-Graphina indica D.D. Awasthi & S.R. Singh SPECIES
-=======
+# Graphina indica D.D. Awasthi & S.R. Singh SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psathyrella algerica L.M. Dufour SPECIES
-=======
+# Psathyrella algerica L.M. Dufour SPECIES
 
 #### Status
 ACCEPTED

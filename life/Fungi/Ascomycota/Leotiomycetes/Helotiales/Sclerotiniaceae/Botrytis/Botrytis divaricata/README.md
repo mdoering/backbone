@@ -1,5 +1,4 @@
-Botrytis divaricata (Preuss) Sacc. SPECIES
-=======
+# Botrytis divaricata (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

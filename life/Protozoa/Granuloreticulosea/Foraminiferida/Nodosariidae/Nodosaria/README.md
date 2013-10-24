@@ -1,5 +1,4 @@
-Nodosaria Lamarck, 1816 GENUS
-=======
+# Nodosaria Lamarck, 1816 GENUS
 
 #### Status
 ACCEPTED

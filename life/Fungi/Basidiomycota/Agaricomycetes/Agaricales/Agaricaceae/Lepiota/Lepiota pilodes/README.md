@@ -1,5 +1,4 @@
-Lepiota pilodes Vellinga & Huijser SPECIES
-=======
+# Lepiota pilodes Vellinga & Huijser SPECIES
 
 #### Status
 ACCEPTED

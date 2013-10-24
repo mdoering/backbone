@@ -1,5 +1,4 @@
-Cordyceps sheeringii Massee SPECIES
-=======
+# Cordyceps sheeringii Massee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cenangium turgidum Fr. SPECIES
-=======
+# Cenangium turgidum Fr. SPECIES
 
 #### Status
 ACCEPTED

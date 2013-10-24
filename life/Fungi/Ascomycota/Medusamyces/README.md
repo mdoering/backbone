@@ -1,5 +1,4 @@
-Medusamyces G.L. Barron & Szijarto GENUS
-=======
+# Medusamyces G.L. Barron & Szijarto GENUS
 
 #### Status
 ACCEPTED

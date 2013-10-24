@@ -1,5 +1,4 @@
-Acrogenotheca ornata Deighton & Piroz. SPECIES
-=======
+# Acrogenotheca ornata Deighton & Piroz. SPECIES
 
 #### Status
 ACCEPTED

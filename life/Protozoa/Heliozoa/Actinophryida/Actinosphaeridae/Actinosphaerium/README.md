@@ -1,14 +1,13 @@
-Echinosphoerium Hovasse, 1965 GENUS
-=======
+# Actinosphaerium Ehr. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Abh. Böhm. Ges. Wiss. , (5) 10 S. B. , 41.
 
 #### Original name
 null

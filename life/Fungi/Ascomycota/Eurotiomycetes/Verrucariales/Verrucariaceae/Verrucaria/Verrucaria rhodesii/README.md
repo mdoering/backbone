@@ -1,5 +1,4 @@
-Verrucaria rhodesii Servít SPECIES
-=======
+# Verrucaria rhodesii Servít SPECIES
 
 #### Status
 ACCEPTED

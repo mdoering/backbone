@@ -1,11 +1,10 @@
-Oospora intermedia Krüger, 1904 SPECIES
-=======
+# Streptomyces intermedius (Krüger, 1904) Waksman, 1953 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

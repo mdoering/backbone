@@ -1,5 +1,4 @@
-Fragilaria hungarica var. tumida A. Cleve VARIETY
-=======
+# Fragilaria hungarica Pantocsek SPECIES
 
 #### Status
 ACCEPTED

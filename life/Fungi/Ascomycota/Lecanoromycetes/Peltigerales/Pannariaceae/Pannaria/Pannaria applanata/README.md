@@ -1,5 +1,4 @@
-Pannaria applanata Eckfeldt SPECIES
-=======
+# Pannaria applanata Eckfeldt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pedobacter cryoconitis Margesin et al., 2003 SPECIES
-=======
+# Pedobacter cryoconitis Margesin et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

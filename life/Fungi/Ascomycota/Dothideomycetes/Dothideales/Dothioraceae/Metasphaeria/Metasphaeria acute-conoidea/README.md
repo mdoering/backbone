@@ -1,5 +1,4 @@
-Metasphaeria acute-conoidea Feltgen SPECIES
-=======
+# Metasphaeria acute-conoidea Feltgen SPECIES
 
 #### Status
 ACCEPTED

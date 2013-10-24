@@ -1,5 +1,4 @@
-Diplodia baccaridis Hollós SPECIES
-=======
+# Diplodia baccaridis Hollós SPECIES
 
 #### Status
 ACCEPTED

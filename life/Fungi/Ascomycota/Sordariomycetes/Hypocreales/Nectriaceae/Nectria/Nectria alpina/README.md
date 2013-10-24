@@ -1,5 +1,4 @@
-Nectria alpina G. Winter SPECIES
-=======
+# Nectria alpina G. Winter SPECIES
 
 #### Status
 ACCEPTED

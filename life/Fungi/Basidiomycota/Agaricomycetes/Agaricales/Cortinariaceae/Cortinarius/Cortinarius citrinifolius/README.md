@@ -1,5 +1,4 @@
-Cortinarius citrinifolius A.H. Sm. SPECIES
-=======
+# Cortinarius citrinifolius A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

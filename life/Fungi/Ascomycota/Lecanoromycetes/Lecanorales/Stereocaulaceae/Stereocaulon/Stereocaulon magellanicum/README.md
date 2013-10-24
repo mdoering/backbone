@@ -1,5 +1,4 @@
-Stereocaulon magellanicum (Th. Fr.) Zahlbr. SPECIES
-=======
+# Stereocaulon magellanicum (Th. Fr.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

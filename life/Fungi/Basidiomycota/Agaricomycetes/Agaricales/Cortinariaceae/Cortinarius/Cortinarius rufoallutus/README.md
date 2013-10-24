@@ -1,5 +1,4 @@
-Cortinarius rufoallutus var. rufoallutus VARIETY
-=======
+# Cortinarius rufoallutus Rob. Henry ex Bidaud & Reumaux SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 in Bidaud, Moënne-Loccoz, Reumaux, Carteret & Eyssartier, Atlas des Cortinaires (Meyzieu) 16: 1095 (2006)
 
 #### Original name
-Cortinarius rufoallutus var. rufoallutus
+Cortinarius rufoallutus Rob. Henry ex Bidaud & Reumaux
 
 ### Remarks
 null

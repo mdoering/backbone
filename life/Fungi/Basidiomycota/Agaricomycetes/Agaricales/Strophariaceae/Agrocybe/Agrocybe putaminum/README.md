@@ -1,14 +1,13 @@
-Naucoria putaminum Maire, 1913 SPECIES
-=======
+# Agrocybe putaminum (Maire) Singer, 1936 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 11(4): 350 (1913)
+Beih. bot. Zbl. 56: 167 (1936)
 
 #### Original name
 Naucoria putaminum Maire, 1913

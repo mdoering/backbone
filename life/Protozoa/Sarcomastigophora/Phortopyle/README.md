@@ -1,5 +1,4 @@
-Phortopyle Haeckel, 1887 GENUS
-=======
+# Phortopyle Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

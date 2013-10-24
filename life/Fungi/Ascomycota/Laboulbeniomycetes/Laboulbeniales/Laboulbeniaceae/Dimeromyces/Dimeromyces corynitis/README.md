@@ -1,5 +1,4 @@
-Dimeromyces corynitis Thaxt., 1912 SPECIES
-=======
+# Dimeromyces corynitis Thaxt., 1912 SPECIES
 
 #### Status
 ACCEPTED

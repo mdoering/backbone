@@ -1,17 +1,16 @@
-Hendersonia capparidis Gucevic SPECIES
-=======
+# Hendersonia capparis Gucevic SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nov. sist. Niz. Rast. , 1964 6: 199 (1970)
 
 #### Original name
-Hendersonia capparidis Gucevic
+Hendersonia capparis Gucevic
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Peniophora hirtella Bourdot & Galzin, 1913 SPECIES
-=======
+# Tubulicrinis hirtellus (Bourdot & Galzin) J. Erikss., 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 28(4): 386 (1913)
+Symb. bot. upsal. 16(no. 1): 82 (1958)
 
 #### Original name
 Peniophora hirtella Bourdot & Galzin, 1913

@@ -1,14 +1,13 @@
-Tyromyces armeniacus (Corner) T. Hatt., 2003 SPECIES
-=======
+# Grifola armeniaca Corner, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycoscience 44(6): 456 (2003)
+Beih. Nova Hedwigia 96: 64 (1989)
 
 #### Original name
 Grifola armeniaca Corner, 1989

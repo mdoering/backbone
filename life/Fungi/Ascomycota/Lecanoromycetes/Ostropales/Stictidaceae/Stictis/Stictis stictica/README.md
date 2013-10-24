@@ -1,5 +1,4 @@
-Stictis stictica (Fr.) Fr. SPECIES
-=======
+# Stictis stictica (Fr.) Fr. SPECIES
 
 #### Status
 ACCEPTED

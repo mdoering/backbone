@@ -1,5 +1,4 @@
-Cortinarius subtricolor Reumaux SPECIES
-=======
+# Cortinarius subtricolor Reumaux SPECIES
 
 #### Status
 ACCEPTED

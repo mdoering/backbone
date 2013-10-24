@@ -1,17 +1,16 @@
-Monilia versiformia A. Funk SPECIES
-=======
+# Monilia versiformis A. Funk SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Can. J. Bot. 65(1): 23 (1987)
 
 #### Original name
-Monilia versiformia A. Funk
+Monilia versiformis A. Funk
 
 ### Remarks
 null

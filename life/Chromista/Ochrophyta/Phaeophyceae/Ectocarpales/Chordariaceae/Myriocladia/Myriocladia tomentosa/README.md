@@ -1,5 +1,4 @@
-Myriocladia tomentosa P.L. Crouan & H.M. Crouan SPECIES
-=======
+# Myriocladia tomentosa P.L. Crouan & H.M. Crouan SPECIES
 
 #### Status
 ACCEPTED

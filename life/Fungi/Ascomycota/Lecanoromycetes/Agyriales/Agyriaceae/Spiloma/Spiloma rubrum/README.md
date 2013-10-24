@@ -1,5 +1,4 @@
-Spiloma rubrum Pers. SPECIES
-=======
+# Spiloma rubrum Pers. SPECIES
 
 #### Status
 ACCEPTED

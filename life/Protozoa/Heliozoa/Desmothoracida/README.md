@@ -1,5 +1,4 @@
-Desmothoracida ORDER
-=======
+# Desmothoracida ORDER
 
 #### Status
 ACCEPTED

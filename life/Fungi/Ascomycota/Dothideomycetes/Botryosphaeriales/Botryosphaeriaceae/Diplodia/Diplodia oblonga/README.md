@@ -1,5 +1,4 @@
-Diplodia oblonga Har. & Brunaud SPECIES
-=======
+# Diplodia oblonga Har. & Brunaud SPECIES
 
 #### Status
 ACCEPTED

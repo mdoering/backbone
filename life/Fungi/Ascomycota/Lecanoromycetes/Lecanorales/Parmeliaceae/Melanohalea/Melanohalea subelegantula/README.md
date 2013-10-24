@@ -1,14 +1,13 @@
-Parmelia subelegantula Essl. SPECIES
-=======
+# Melanohalea subelegantula (Essl.) O. Blanco, A. Crespo, Divakar, Essl., D. Hawksw. & Lumbsch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Hattori bot. Lab. 42: 89 (1977)
+Mycol. Res. 108(8): 883 (2004)
 
 #### Original name
 Parmelia subelegantula Essl.

@@ -1,5 +1,4 @@
-Physcia obscurella SPECIES
-=======
+# Physcia obscurella SPECIES
 
 #### Status
 ACCEPTED

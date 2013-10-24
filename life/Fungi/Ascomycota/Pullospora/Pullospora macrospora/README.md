@@ -1,5 +1,4 @@
-Pullospora macrospora Nag Raj, 1993 SPECIES
-=======
+# Pullospora macrospora Nag Raj, 1993 SPECIES
 
 #### Status
 ACCEPTED

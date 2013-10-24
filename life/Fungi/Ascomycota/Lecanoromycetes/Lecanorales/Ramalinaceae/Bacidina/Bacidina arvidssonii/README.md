@@ -1,5 +1,4 @@
-Bacidina arvidssonii (Sérus.) Lücking SPECIES
-=======
+# Bacidina arvidssonii (Sérus.) Lücking SPECIES
 
 #### Status
 ACCEPTED

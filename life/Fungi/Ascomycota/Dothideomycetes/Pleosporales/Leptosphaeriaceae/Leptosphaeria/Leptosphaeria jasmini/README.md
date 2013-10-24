@@ -1,5 +1,4 @@
-Leptosphaeria jasmini Fuckel SPECIES
-=======
+# Leptosphaeria jasmini Fuckel SPECIES
 
 #### Status
 ACCEPTED

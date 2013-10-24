@@ -1,5 +1,4 @@
-Graphium clavisporum Berk. & M.A. Curtis SPECIES
-=======
+# Graphium clavisporum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

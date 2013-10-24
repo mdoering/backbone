@@ -1,5 +1,4 @@
-Herpotrichia ellisii (Sacc. & P. Syd.) M.E. Barr SPECIES
-=======
+# Herpotrichia ellisii (Sacc. & P. Syd.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paracineta dadayi Kahl, 1934 SPECIES
-=======
+# Paracineta dadayi Kahl, 1934 SPECIES
 
 #### Status
 ACCEPTED

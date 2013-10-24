@@ -1,17 +1,16 @@
-Cortinarius subalboviolaceus var. subalboviolaceus VARIETY
-=======
+# Cortinarius subalboviolaceus Hongo SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
 null
 
 #### Original name
-null
+Cortinarius subalboviolaceus Hongo
 
 ### Remarks
 null

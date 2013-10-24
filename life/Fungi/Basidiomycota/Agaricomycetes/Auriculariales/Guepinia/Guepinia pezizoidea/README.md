@@ -1,5 +1,4 @@
-Guepinia pezizoidea Henn. SPECIES
-=======
+# Guepinia pezizoidea Henn. SPECIES
 
 #### Status
 ACCEPTED

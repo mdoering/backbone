@@ -1,17 +1,16 @@
-Omphalia gibba (Alb. & Schwein.) Pat., 1888 SPECIES
-=======
+# Hemimycena cyphelloides (P.D. Orton) Maas Geest., 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nat. Arr. Brit. Pl. (London) 1: 612 (1821)
+Proc. K. Ned. Akad. Wet. , Ser. C, Biol. Med. Sci. 84(4): 437 (1981)
 
 #### Original name
-Agaricus gibbus Pers., 1801
+Mycena cyphelloides P.D. Orton, 1960
 
 ### Remarks
 null

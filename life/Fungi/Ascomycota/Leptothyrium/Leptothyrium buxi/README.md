@@ -1,5 +1,4 @@
-Leptothyrium buxi Pass. SPECIES
-=======
+# Leptothyrium buxi Pass. SPECIES
 
 #### Status
 ACCEPTED

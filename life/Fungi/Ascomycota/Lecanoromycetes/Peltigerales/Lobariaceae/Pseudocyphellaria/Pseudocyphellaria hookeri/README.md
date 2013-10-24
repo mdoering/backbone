@@ -1,5 +1,4 @@
-Pseudocyphellaria hookeri (C. Bab.) D.J. Galloway & P. James SPECIES
-=======
+# Pseudocyphellaria hookeri (C. Bab.) D.J. Galloway & P. James SPECIES
 
 #### Status
 ACCEPTED

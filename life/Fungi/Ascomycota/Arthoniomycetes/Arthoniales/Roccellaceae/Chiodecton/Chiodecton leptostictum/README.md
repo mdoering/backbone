@@ -1,5 +1,4 @@
-Chiodecton leptostictum (Nyl.) Zahlbr. SPECIES
-=======
+# Chiodecton leptostictum (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

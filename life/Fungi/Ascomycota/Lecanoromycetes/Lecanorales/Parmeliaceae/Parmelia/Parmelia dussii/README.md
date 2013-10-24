@@ -1,5 +1,4 @@
-Parmelia dussii Vain. SPECIES
-=======
+# Parmelia dussii Vain. SPECIES
 
 #### Status
 ACCEPTED

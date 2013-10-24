@@ -1,8 +1,7 @@
-Gregarina clausii Frenzel, 1885 SPECIES
-=======
+# Cephaloidophora clausii (Frenzel, 1885) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

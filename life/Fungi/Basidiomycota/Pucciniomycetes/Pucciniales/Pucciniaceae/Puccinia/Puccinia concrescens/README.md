@@ -1,5 +1,4 @@
-Puccinia concrescens Ellis & Everh. SPECIES
-=======
+# Puccinia concrescens Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

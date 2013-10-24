@@ -1,14 +1,13 @@
-Cercophora caudata (Curr.) N. Lundq., 1972 SPECIES
-=======
+# Immersiella caudata (Curr.) A.N. Mill. & Huhndorf, 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Symb. bot. upsal. 20(no. 1): 92 (1972)
+Mycol. Res. 108(1): 31 (2004)
 
 #### Original name
 Sphaeria caudata Curr., 1859

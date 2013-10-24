@@ -1,5 +1,4 @@
-Rhodophyllus tenuipileus Romagn. & Gilles SPECIES
-=======
+# Rhodophyllus tenuipileus Romagn. & Gilles SPECIES
 
 #### Status
 ACCEPTED

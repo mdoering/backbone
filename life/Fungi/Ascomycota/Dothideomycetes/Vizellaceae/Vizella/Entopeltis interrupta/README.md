@@ -1,5 +1,4 @@
-Entopeltis interrupta (G. Winter) Höhn. SPECIES
-=======
+# Entopeltis interrupta (G. Winter) Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptococcus cuniculi K.S. Shin & Y.H. Park SPECIES
-=======
+# Cryptococcus cuniculi K.S. Shin & Y.H. Park SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola carissae var. carissae VARIETY
-=======
+# Meliola carissae Doidge SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bothalia 1: 72 (1922)
 
 #### Original name
-Meliola carissae var. carissae
+Meliola carissae Doidge
 
 ### Remarks
 null

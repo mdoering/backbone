@@ -1,5 +1,4 @@
-Carbonea hertelii Knoph SPECIES
-=======
+# Carbonea hertelii Knoph SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria thermopsidis Murashk. SPECIES
-=======
+# Septoria thermopsidis Murashk. SPECIES
 
 #### Status
 ACCEPTED

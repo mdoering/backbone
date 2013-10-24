@@ -1,5 +1,4 @@
-Discomycella Höhn. GENUS
-=======
+# Discomycella Höhn. GENUS
 
 #### Status
 ACCEPTED

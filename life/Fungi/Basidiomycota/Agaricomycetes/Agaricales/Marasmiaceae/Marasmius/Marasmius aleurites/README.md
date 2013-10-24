@@ -1,5 +1,4 @@
-Marasmius aleurites Berk. & Cooke SPECIES
-=======
+# Marasmius aleurites Berk. & Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymium plicatum Corda SPECIES
-=======
+# Didymium plicatum Corda SPECIES
 
 #### Status
 ACCEPTED

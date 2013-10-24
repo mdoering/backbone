@@ -1,5 +1,4 @@
-Melanogaster trappei var. trappei VARIETY
-=======
+# Melanogaster trappei I.P.S. Thind & B.M. Sharma SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 in Thind, Thind & Sharma, Indian Phytopath. 35(4): 613 (1982)
 
 #### Original name
-Melanogaster trappei var. trappei
+Melanogaster trappei I.P.S. Thind & B.M. Sharma
 
 ### Remarks
 null

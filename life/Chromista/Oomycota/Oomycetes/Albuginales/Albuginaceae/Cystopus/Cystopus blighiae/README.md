@@ -1,5 +1,4 @@
-Cystopus blighiae anon. SPECIES
-=======
+# Cystopus blighiae anon. SPECIES
 
 #### Status
 ACCEPTED

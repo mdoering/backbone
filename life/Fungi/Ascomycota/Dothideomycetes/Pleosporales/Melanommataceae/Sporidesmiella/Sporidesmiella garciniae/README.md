@@ -1,5 +1,4 @@
-Sporidesmiella garciniae Matsush. SPECIES
-=======
+# Sporidesmiella garciniae Matsush. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteridiella cecropiicola (Hansf.) Hansf. SPECIES
-=======
+# Asteridiella cecropiicola (Hansf.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

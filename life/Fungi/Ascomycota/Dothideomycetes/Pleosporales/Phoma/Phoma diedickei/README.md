@@ -1,5 +1,4 @@
-Phoma diedickei Vörös SPECIES
-=======
+# Phoma diedickei Vörös SPECIES
 
 #### Status
 ACCEPTED

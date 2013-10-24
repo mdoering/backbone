@@ -1,11 +1,10 @@
-Strombidium sauerbreyae var. fourneleti Dragesco, 1960 VARIETY
-=======
+# Strombidium fourneleti Dragesco, 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

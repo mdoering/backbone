@@ -1,5 +1,4 @@
-Bacidiopsora microphyllina Kalb SPECIES
-=======
+# Bacidiopsora microphyllina Kalb SPECIES
 
 #### Status
 ACCEPTED

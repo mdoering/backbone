@@ -1,5 +1,4 @@
-Arthonia ferruginea Vain. SPECIES
-=======
+# Arthonia ferruginea Vain. SPECIES
 
 #### Status
 ACCEPTED

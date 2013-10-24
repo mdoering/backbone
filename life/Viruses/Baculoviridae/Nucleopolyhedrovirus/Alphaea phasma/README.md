@@ -1,5 +1,4 @@
-Alphaea phasma Npv SPECIES
-=======
+# Alphaea phasma Npv SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizobium rubi (Hildebrand, 1940) Young et al., 2001 SPECIES
-=======
+# Rhizobium rubi (Hildebrand, 1940) Young et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

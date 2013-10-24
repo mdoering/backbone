@@ -1,5 +1,4 @@
-Biatora aurata Mont. & Bosch SPECIES
-=======
+# Biatora aurata Mont. & Bosch SPECIES
 
 #### Status
 ACCEPTED

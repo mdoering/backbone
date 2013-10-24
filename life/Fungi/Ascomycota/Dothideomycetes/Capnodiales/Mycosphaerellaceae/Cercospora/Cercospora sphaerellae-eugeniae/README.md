@@ -1,5 +1,4 @@
-Cercospora sphaerellae-eugeniae Rangel SPECIES
-=======
+# Cercospora sphaerellae-eugeniae Rangel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactobacillus agilis Weiss et al., 1982 SPECIES
-=======
+# Lactobacillus agilis Weiss et al., 1982 SPECIES
 
 #### Status
 ACCEPTED

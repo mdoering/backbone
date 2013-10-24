@@ -1,14 +1,13 @@
-Arthonia interveniens Nyl. SPECIES
-=======
+# Arthothelium interveniens (Nyl.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Cat. Lich. Univers. 2: 127 (1922)
 
 #### Original name
 Arthonia interveniens Nyl.

@@ -1,5 +1,4 @@
-Arachniotus indicus Chattop. & C. Das Gupta SPECIES
-=======
+# Arachniotus indicus Chattop. & C. Das Gupta SPECIES
 
 #### Status
 ACCEPTED

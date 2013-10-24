@@ -1,5 +1,4 @@
-Hypoxylon glomus Berk. & M.A. Curtis SPECIES
-=======
+# Hypoxylon glomus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

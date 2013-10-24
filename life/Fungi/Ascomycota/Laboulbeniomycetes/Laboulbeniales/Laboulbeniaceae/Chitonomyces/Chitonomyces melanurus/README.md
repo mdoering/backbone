@@ -1,5 +1,4 @@
-Chitonomyces melanurus Peyr., 1873 SPECIES
-=======
+# Chitonomyces melanurus Peyr., 1873 SPECIES
 
 #### Status
 ACCEPTED

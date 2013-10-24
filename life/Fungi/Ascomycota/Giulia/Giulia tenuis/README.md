@@ -1,17 +1,16 @@
-Nematospora tenuis (Sacc.) Tassi, 1904 SPECIES
-=======
+# Giulia tenuis (Sacc.) Tassi ex Sacc. & D. Sacc., 1906 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 18: 435 (1906)
 
 #### Original name
-null
+Leptostroma tenue Sacc., 1881
 
 ### Remarks
 null

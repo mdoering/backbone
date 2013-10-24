@@ -1,5 +1,4 @@
-Aderkomyces verruciferus (Lücking) Lücking, Sérus. & Vezda SPECIES
-=======
+# Aderkomyces verruciferus (Lücking) Lücking, Sérus. & Vezda SPECIES
 
 #### Status
 ACCEPTED

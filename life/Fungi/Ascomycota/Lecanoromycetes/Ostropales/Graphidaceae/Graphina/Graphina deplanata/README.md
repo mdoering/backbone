@@ -1,5 +1,4 @@
-Graphina deplanata (Nyl.) Zahlbr. SPECIES
-=======
+# Graphina deplanata (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

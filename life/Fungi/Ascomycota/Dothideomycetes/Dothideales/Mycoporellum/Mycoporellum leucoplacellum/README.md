@@ -1,5 +1,4 @@
-Mycoporellum leucoplacellum Zahlbr. SPECIES
-=======
+# Mycoporellum leucoplacellum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

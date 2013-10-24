@@ -1,5 +1,4 @@
-Cyclotella substelligera H. P. Gandhi SPECIES
-=======
+# Cyclotella substelligera H. P. Gandhi SPECIES
 
 #### Status
 ACCEPTED

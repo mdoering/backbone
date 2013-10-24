@@ -1,5 +1,4 @@
-Fusarium elongatum Cooke, 1890 SPECIES
-=======
+# Fusarium elongatum Cooke, 1890 SPECIES
 
 #### Status
 ACCEPTED

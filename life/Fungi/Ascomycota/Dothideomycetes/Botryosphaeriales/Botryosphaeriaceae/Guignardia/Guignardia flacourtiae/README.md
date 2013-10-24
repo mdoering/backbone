@@ -1,5 +1,4 @@
-Guignardia flacourtiae Anahosur SPECIES
-=======
+# Guignardia flacourtiae Anahosur SPECIES
 
 #### Status
 ACCEPTED

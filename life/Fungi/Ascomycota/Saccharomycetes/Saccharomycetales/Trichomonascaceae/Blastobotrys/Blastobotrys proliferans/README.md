@@ -1,17 +1,16 @@
-Blastobotrys navarrensis Sesma & C. Ramírez, 1978 SPECIES
-=======
+# Blastobotrys proliferans Marvanová, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycopath. Mycol. appl. 63(1): 41 (1978)
+Trans. Br. mycol. Soc. 66(2): 217 (1976)
 
 #### Original name
-Blastobotrys navarrensis Sesma & C. Ramírez, 1978
+Blastobotrys proliferans Marvanová, 1976
 
 ### Remarks
 null

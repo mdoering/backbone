@@ -1,5 +1,4 @@
-Pocillaria arenicola (Berk.) Kuntze SPECIES
-=======
+# Pocillaria arenicola (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

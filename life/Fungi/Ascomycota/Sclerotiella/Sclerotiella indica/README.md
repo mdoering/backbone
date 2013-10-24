@@ -1,5 +1,4 @@
-Sclerotiella indica A.K. Sarbhoy & A. Sarbhoy, 1975 SPECIES
-=======
+# Sclerotiella indica A.K. Sarbhoy & A. Sarbhoy, 1975 SPECIES
 
 #### Status
 ACCEPTED

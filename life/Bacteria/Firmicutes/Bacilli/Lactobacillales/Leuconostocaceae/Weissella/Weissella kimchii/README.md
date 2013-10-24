@@ -1,5 +1,4 @@
-Weissella kimchii Choi et al., 2002 SPECIES
-=======
+# Weissella kimchii Choi et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

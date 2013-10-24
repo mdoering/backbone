@@ -1,5 +1,4 @@
-Uromyces filipendulae Lasch SPECIES
-=======
+# Uromyces filipendulae Lasch SPECIES
 
 #### Status
 ACCEPTED

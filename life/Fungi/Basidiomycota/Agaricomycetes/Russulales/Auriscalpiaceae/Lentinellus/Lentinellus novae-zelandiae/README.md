@@ -1,14 +1,13 @@
-Pocillaria novae-zelandiae (Berk.) Kuntze, 1891 SPECIES
-=======
+# Lentinellus novae-zelandiae (Berk.) R.H. Petersen, 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 2: 866 (1891)
+in Petersen & Hughes, Biblthca Mycol. 198: 99 (2004)
 
 #### Original name
 Lentinus novae-zelandiae Berk., 1855

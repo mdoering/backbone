@@ -1,5 +1,4 @@
-Synchytrium cylistae S.D. Patil & Mahab. SPECIES
-=======
+# Synchytrium cylistae S.D. Patil & Mahab. SPECIES
 
 #### Status
 ACCEPTED

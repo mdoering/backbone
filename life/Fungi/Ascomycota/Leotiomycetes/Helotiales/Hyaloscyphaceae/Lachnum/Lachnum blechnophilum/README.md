@@ -1,5 +1,4 @@
-Lachnum blechnophilum Spooner SPECIES
-=======
+# Lachnum blechnophilum Spooner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lasiodiplodia abnormis Traverso & Spessa SPECIES
-=======
+# Lasiodiplodia abnormis Traverso & Spessa SPECIES
 
 #### Status
 ACCEPTED

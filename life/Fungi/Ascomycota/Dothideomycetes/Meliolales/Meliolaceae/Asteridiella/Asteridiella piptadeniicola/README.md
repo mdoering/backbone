@@ -1,5 +1,4 @@
-Asteridiella piptadeniicola Hansf. SPECIES
-=======
+# Asteridiella piptadeniicola Hansf. SPECIES
 
 #### Status
 ACCEPTED

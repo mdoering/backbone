@@ -1,5 +1,4 @@
-Coniosporium heterosporum Syd. {?} SPECIES
-=======
+# Coniosporium heterosporum Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

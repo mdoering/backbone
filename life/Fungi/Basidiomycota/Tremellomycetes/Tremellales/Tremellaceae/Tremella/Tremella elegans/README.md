@@ -1,5 +1,4 @@
-Tremella elegans Fr. SPECIES
-=======
+# Tremella elegans Fr. SPECIES
 
 #### Status
 ACCEPTED

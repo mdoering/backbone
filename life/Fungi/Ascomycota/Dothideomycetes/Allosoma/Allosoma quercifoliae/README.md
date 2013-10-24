@@ -1,5 +1,4 @@
-Allosoma quercifoliae Bat. & Nascim. SPECIES
-=======
+# Allosoma quercifoliae Bat. & Nascim. SPECIES
 
 #### Status
 ACCEPTED

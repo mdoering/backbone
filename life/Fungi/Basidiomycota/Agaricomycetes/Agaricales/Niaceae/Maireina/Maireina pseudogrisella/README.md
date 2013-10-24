@@ -1,5 +1,4 @@
-Maireina pseudogrisella W.B. Cooke SPECIES
-=======
+# Maireina pseudogrisella W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

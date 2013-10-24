@@ -1,5 +1,4 @@
-Trichodina australis Su & White, 1995 SPECIES
-=======
+# Trichodina australis Su & White, 1995 SPECIES
 
 #### Status
 ACCEPTED

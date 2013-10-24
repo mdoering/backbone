@@ -1,5 +1,4 @@
-Phyllostictina bignoniacearum Bat. SPECIES
-=======
+# Phyllostictina bignoniacearum Bat. SPECIES
 
 #### Status
 ACCEPTED

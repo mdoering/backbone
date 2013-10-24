@@ -1,5 +1,4 @@
-Otthiella (Sacc.) Sacc. & D. Sacc., 1905 GENUS
-=======
+# Otthiella (Sacc.) Sacc. & D. Sacc., 1905 GENUS
 
 #### Status
 ACCEPTED

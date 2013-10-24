@@ -1,5 +1,4 @@
-Coronoplectrum Brusse GENUS
-=======
+# Coronoplectrum Brusse GENUS
 
 #### Status
 ACCEPTED

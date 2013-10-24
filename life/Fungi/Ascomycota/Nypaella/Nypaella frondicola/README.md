@@ -1,5 +1,4 @@
-Nypaella frondicola K.D. Hyde & B. Sutton, 1992 SPECIES
-=======
+# Nypaella frondicola K.D. Hyde & B. Sutton, 1992 SPECIES
 
 #### Status
 ACCEPTED

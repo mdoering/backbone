@@ -1,5 +1,4 @@
-Rhizopogon boninensis S. Ito & S. Imai SPECIES
-=======
+# Rhizopogon boninensis S. Ito & S. Imai SPECIES
 
 #### Status
 ACCEPTED

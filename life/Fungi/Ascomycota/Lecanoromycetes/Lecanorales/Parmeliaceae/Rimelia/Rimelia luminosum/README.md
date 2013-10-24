@@ -1,5 +1,4 @@
-Rimelia luminosum Marcelli SPECIES
-=======
+# Rimelia luminosum Marcelli SPECIES
 
 #### Status
 ACCEPTED

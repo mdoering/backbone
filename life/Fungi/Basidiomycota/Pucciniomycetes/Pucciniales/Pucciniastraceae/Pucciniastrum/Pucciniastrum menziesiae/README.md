@@ -1,5 +1,4 @@
-Pucciniastrum menziesiae (Hirats. f.) Jørst. SPECIES
-=======
+# Pucciniastrum menziesiae (Hirats. f.) Jørst. SPECIES
 
 #### Status
 ACCEPTED

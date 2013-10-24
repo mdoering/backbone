@@ -1,5 +1,4 @@
-Capnodium acakantherae Bacc. SPECIES
-=======
+# Capnodium acakantherae Bacc. SPECIES
 
 #### Status
 ACCEPTED

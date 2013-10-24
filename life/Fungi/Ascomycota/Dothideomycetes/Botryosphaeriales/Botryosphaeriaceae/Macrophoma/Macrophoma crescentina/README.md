@@ -1,5 +1,4 @@
-Macrophoma crescentina Ferraris & Sacc. SPECIES
-=======
+# Macrophoma crescentina Ferraris & Sacc. SPECIES
 
 #### Status
 ACCEPTED

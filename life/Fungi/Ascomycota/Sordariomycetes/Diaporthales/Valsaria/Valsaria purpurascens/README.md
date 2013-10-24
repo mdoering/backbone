@@ -1,5 +1,4 @@
-Valsaria purpurascens (DC.) Sacc. SPECIES
-=======
+# Valsaria purpurascens (DC.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pluteus candidus Pat. SPECIES
-=======
+# Pluteus candidus Pat. SPECIES
 
 #### Status
 ACCEPTED

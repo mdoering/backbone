@@ -1,5 +1,4 @@
-Helvella rossica Velen. SPECIES
-=======
+# Helvella rossica Velen. SPECIES
 
 #### Status
 ACCEPTED

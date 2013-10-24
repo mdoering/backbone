@@ -1,5 +1,4 @@
-Phomopsis elasticae Petr. SPECIES
-=======
+# Phomopsis elasticae Petr. SPECIES
 
 #### Status
 ACCEPTED

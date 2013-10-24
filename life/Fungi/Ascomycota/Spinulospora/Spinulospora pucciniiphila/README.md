@@ -1,5 +1,4 @@
-Spinulospora pucciniiphila Deighton, 1973 SPECIES
-=======
+# Spinulospora pucciniiphila Deighton, 1973 SPECIES
 
 #### Status
 ACCEPTED

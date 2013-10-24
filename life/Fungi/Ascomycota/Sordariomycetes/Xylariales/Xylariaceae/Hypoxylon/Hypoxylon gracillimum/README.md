@@ -1,5 +1,4 @@
-Hypoxylon gracillimum (Fr.) Mont. SPECIES
-=======
+# Hypoxylon gracillimum (Fr.) Mont. SPECIES
 
 #### Status
 ACCEPTED

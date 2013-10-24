@@ -1,5 +1,4 @@
-Gloeotulasnella hyalina Höhn. & Litsch. SPECIES
-=======
+# Gloeotulasnella hyalina Höhn. & Litsch. SPECIES
 
 #### Status
 ACCEPTED

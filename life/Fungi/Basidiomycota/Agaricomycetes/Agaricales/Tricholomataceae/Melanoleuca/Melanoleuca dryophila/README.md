@@ -1,5 +1,4 @@
-Melanoleuca dryophila Murrill SPECIES
-=======
+# Melanoleuca dryophila Murrill SPECIES
 
 #### Status
 ACCEPTED

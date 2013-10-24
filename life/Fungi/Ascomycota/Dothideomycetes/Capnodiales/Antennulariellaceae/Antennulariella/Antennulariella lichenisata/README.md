@@ -1,5 +1,4 @@
-Antennulariella lichenisata Coppins & Aptroot SPECIES
-=======
+# Antennulariella lichenisata Coppins & Aptroot SPECIES
 
 #### Status
 ACCEPTED

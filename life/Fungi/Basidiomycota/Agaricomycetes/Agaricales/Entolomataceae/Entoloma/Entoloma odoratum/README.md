@@ -1,5 +1,4 @@
-Entoloma odoratum Noordel. & Hauskn. SPECIES
-=======
+# Entoloma odoratum Noordel. & Hauskn. SPECIES
 
 #### Status
 ACCEPTED

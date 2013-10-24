@@ -1,5 +1,4 @@
-Ophiobolus prunellae (Ellis & Everh.) Shoemaker SPECIES
-=======
+# Ophiobolus prunellae (Ellis & Everh.) Shoemaker SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gonohymenia octosporella Lettau SPECIES
-=======
+# Gonohymenia octosporella Lettau SPECIES
 
 #### Status
 ACCEPTED

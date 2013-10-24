@@ -1,5 +1,4 @@
-Gorlovella A.G. Vologdin, 1970 GENUS
-=======
+# Gorlovella A.G. Vologdin, 1970 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peroneutypa kochiana (Rehm) Carmarán & A.I. Romero SPECIES
-=======
+# Peroneutypa kochiana (Rehm) Carmarán & A.I. Romero SPECIES
 
 #### Status
 ACCEPTED

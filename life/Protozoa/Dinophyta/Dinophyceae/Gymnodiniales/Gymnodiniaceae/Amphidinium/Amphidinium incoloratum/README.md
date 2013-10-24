@@ -1,5 +1,4 @@
-Amphidinium incoloratum Campbell SPECIES
-=======
+# Amphidinium incoloratum Campbell SPECIES
 
 #### Status
 ACCEPTED

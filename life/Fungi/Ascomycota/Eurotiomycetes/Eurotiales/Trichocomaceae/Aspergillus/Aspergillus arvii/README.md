@@ -1,5 +1,4 @@
-Aspergillus arvii R. Aho, Y. Horie, Nishim. & Miyaji, 1994 SPECIES
-=======
+# Aspergillus arvii R. Aho, Y. Horie, Nishim. & Miyaji, 1994 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe subrimosa P. Karst. SPECIES
-=======
+# Inocybe subrimosa P. Karst. SPECIES
 
 #### Status
 ACCEPTED

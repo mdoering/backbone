@@ -1,5 +1,4 @@
-Coniothyrium aristidae Kalymb. SPECIES
-=======
+# Coniothyrium aristidae Kalymb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Braarudosphaera regularis Black, 1973 SPECIES
-=======
+# Braarudosphaera regularis Black, 1973 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Camarosporium microsporum Sacc. SPECIES
-=======
+# Camarosporium microsporum Sacc. SPECIES
 
 #### Status
 ACCEPTED

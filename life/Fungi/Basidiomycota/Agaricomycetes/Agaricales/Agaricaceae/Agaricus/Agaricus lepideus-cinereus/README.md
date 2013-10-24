@@ -1,5 +1,4 @@
-Agaricus lepideus-cinereus Fr. SPECIES
-=======
+# Agaricus lepideus-cinereus Fr. SPECIES
 
 #### Status
 ACCEPTED

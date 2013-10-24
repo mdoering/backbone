@@ -1,5 +1,4 @@
-Pseudocercospora boringuensis (E. Young) Deighton SPECIES
-=======
+# Pseudocercospora boringuensis (E. Young) Deighton SPECIES
 
 #### Status
 ACCEPTED

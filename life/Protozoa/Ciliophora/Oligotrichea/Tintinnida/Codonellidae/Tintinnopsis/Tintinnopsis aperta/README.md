@@ -1,5 +1,4 @@
-Tintinnopsis aperta Brandt, 1906 SPECIES
-=======
+# Tintinnopsis aperta Brandt, 1906 SPECIES
 
 #### Status
 ACCEPTED

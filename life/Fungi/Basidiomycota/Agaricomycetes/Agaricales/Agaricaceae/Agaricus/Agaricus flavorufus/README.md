@@ -1,5 +1,4 @@
-Agaricus flavorufus Pers. SPECIES
-=======
+# Agaricus flavorufus Pers. SPECIES
 
 #### Status
 ACCEPTED

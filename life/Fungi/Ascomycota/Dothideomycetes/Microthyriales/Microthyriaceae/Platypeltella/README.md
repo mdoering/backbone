@@ -1,17 +1,16 @@
-Asterinopeltis Bat. & H. Maia GENUS
-=======
+# Platypeltella Petr. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Batista, Maia & Farr, Revta Biol. , Lisb. 1(3-4): 293 (1958)
+in Sydow & Petrak, Annls mycol. 27(1/2): 62 (1929)
 
 #### Original name
-Asterinopeltis Bat. & H. Maia
+Platypeltella Petr.
 
 ### Remarks
 null

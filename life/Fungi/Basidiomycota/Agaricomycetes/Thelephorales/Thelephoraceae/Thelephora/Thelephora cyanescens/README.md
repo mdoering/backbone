@@ -1,5 +1,4 @@
-Thelephora cyanescens Fée SPECIES
-=======
+# Thelephora cyanescens Fée SPECIES
 
 #### Status
 ACCEPTED

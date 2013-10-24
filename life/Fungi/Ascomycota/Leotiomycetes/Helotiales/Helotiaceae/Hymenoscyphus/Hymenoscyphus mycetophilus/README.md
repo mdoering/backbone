@@ -1,5 +1,4 @@
-Hymenoscyphus mycetophilus (Peck) Svrcek SPECIES
-=======
+# Hymenoscyphus mycetophilus (Peck) Svrcek SPECIES
 
 #### Status
 ACCEPTED

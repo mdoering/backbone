@@ -1,5 +1,4 @@
-Parachitinoidella Trejo, 1972 GENUS
-=======
+# Parachitinoidella Trejo, 1972 GENUS
 
 #### Status
 ACCEPTED

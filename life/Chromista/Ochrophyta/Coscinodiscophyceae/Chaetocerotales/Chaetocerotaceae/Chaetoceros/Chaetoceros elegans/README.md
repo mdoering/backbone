@@ -1,5 +1,4 @@
-Chaetoceros elegans (Roth) C.A. Agardh SPECIES
-=======
+# Chaetoceros elegans (Roth) C.A. Agardh SPECIES
 
 #### Status
 ACCEPTED

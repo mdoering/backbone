@@ -1,5 +1,4 @@
-Glonium stellatum Muhl., 1813 SPECIES
-=======
+# Glonium stellatum Muhl., 1813 SPECIES
 
 #### Status
 ACCEPTED

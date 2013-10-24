@@ -1,5 +1,4 @@
-Russula nigrescentipes Peck SPECIES
-=======
+# Russula nigrescentipes Peck SPECIES
 
 #### Status
 ACCEPTED

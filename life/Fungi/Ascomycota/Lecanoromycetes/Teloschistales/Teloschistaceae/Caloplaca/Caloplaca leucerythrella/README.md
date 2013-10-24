@@ -1,5 +1,4 @@
-Caloplaca leucerythrella (Nyl.) Zahlbr. SPECIES
-=======
+# Caloplaca leucerythrella (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

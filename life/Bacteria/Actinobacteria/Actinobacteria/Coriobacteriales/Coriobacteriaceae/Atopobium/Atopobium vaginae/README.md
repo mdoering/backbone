@@ -1,5 +1,4 @@
-Atopobium vaginae Rodriguez Jovita et al., 1999 SPECIES
-=======
+# Atopobium vaginae Rodriguez Jovita et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

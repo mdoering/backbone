@@ -1,5 +1,4 @@
-Pavoninidae Eimer & Fickert, 1899 FAMILY
-=======
+# Pavoninidae Eimer & Fickert, 1899 FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea chrysosticta (Hook. f. & Taylor) Nyl. SPECIES
-=======
+# Lecidea chrysosticta (Hook. f. & Taylor) Nyl. SPECIES
 
 #### Status
 ACCEPTED

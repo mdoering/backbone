@@ -1,5 +1,4 @@
-Tenacibaculum amylolyticum Suzuki et al., 2001 SPECIES
-=======
+# Tenacibaculum amylolyticum Suzuki et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

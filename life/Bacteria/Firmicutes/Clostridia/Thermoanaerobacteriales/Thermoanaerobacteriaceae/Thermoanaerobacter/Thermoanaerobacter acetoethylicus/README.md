@@ -1,8 +1,7 @@
-Thermobacteroides acetoethylicus Ben-Bassat & Zeikus, 1983 SPECIES
-=======
+# Thermoanaerobacter acetoethylicus (Ben-Bassat & Zeikus, 1983) Rainey & Stackebrandt, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

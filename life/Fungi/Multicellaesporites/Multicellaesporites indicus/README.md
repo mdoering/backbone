@@ -1,5 +1,4 @@
-Multicellaesporites indicus P. Kumar SPECIES
-=======
+# Multicellaesporites indicus P. Kumar SPECIES
 
 #### Status
 ACCEPTED

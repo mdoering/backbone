@@ -1,5 +1,4 @@
-Peristrombidium Yankovskij, 1978 GENUS
-=======
+# Peristrombidium Yankovskij, 1978 GENUS
 
 #### Status
 ACCEPTED

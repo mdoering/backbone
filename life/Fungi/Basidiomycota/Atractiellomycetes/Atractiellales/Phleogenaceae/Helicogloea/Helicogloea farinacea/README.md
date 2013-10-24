@@ -1,14 +1,13 @@
-Saccoblastia farinacea (Höhn.) Donk, 1966 SPECIES
-=======
+# Helicogloea farinacea (Höhn.) D.P. Rogers, 1944 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Persoonia 4(2): 217 (1966)
+Univ. Iowa Stud. nat. Hist. 18(3): 66 (1944)
 
 #### Original name
 Helicobasidium farinaceum Höhn., 1907

@@ -1,5 +1,4 @@
-Lecanora transmontana (Samp.) Zahlbr. SPECIES
-=======
+# Lecanora transmontana (Samp.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

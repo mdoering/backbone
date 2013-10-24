@@ -1,5 +1,4 @@
-Morenoella phillipsii Doidge SPECIES
-=======
+# Morenoella phillipsii Doidge SPECIES
 
 #### Status
 ACCEPTED

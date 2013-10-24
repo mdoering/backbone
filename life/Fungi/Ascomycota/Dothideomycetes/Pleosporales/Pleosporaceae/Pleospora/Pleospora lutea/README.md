@@ -1,5 +1,4 @@
-Pleospora lutea Wehm. SPECIES
-=======
+# Pleospora lutea Wehm. SPECIES
 
 #### Status
 ACCEPTED

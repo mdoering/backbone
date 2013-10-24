@@ -1,5 +1,4 @@
-Penzigia ayresii (Berk. ex Cooke) J.H. Mill. SPECIES
-=======
+# Penzigia ayresii (Berk. ex Cooke) J.H. Mill. SPECIES
 
 #### Status
 ACCEPTED

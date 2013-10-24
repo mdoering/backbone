@@ -1,5 +1,4 @@
-Pestalotia monchaetioidea var. monchaetioidea VARIETY
-=======
+# Pestalotia monchaetioidea SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pestalotia monchaetioidea var. monchaetioidea
+null
 
 ### Remarks
 null

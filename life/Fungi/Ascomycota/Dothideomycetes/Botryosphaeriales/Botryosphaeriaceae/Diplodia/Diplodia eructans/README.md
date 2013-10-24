@@ -1,5 +1,4 @@
-Diplodia eructans (Wallr.) Sacc. SPECIES
-=======
+# Diplodia eructans (Wallr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

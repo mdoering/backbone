@@ -1,5 +1,4 @@
-Macowanites mollis Singer & A.H. Sm. SPECIES
-=======
+# Macowanites mollis Singer & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

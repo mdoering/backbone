@@ -1,5 +1,4 @@
-Litonotus blattereri Lin, Li, Gong, Warren & Song, 2008 SPECIES
-=======
+# Litonotus blattereri Lin, Li, Gong, Warren & Song, 2008 SPECIES
 
 #### Status
 ACCEPTED

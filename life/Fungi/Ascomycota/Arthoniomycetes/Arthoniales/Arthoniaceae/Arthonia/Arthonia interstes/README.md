@@ -1,5 +1,4 @@
-Arthonia interstes Müll. Arg. SPECIES
-=======
+# Arthonia interstes Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

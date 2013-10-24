@@ -1,5 +1,4 @@
-Sphaeria sinapisperma Rabenh. SPECIES
-=======
+# Sphaeria sinapisperma Rabenh. SPECIES
 
 #### Status
 ACCEPTED

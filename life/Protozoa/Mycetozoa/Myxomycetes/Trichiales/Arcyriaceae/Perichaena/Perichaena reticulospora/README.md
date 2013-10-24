@@ -1,5 +1,4 @@
-Perichaena reticulospora H.W. Keller & D.R. Reynolds, 1971 SPECIES
-=======
+# Perichaena reticulospora H.W. Keller & D.R. Reynolds, 1971 SPECIES
 
 #### Status
 ACCEPTED

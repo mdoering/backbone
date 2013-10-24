@@ -1,5 +1,4 @@
-Hartmannella lobifera Smirnov, 1997 SPECIES
-=======
+# Hartmannella lobifera Smirnov, 1997 SPECIES
 
 #### Status
 ACCEPTED

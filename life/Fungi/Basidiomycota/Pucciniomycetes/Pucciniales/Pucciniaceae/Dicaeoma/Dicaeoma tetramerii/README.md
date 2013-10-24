@@ -1,5 +1,4 @@
-Dicaeoma tetramerii (Seym.) Arthur SPECIES
-=======
+# Dicaeoma tetramerii (Seym.) Arthur SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clavaria densa Peck SPECIES
-=======
+# Clavaria densa Peck SPECIES
 
 #### Status
 ACCEPTED

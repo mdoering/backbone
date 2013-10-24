@@ -1,5 +1,4 @@
-Peziza apicalis Berk. & Broome SPECIES
-=======
+# Peziza apicalis Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

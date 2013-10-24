@@ -1,5 +1,4 @@
-Cercospora lagerstroemiae Syd. & P. Syd. SPECIES
-=======
+# Cercospora lagerstroemiae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

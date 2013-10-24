@@ -1,5 +1,4 @@
-Spirochaeta bajacaliforniensis Fracek & Stolz, 2004 SPECIES
-=======
+# Spirochaeta bajacaliforniensis Fracek & Stolz, 2004 SPECIES
 
 #### Status
 ACCEPTED

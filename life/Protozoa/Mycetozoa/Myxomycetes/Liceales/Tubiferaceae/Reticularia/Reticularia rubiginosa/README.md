@@ -1,5 +1,4 @@
-Reticularia rubiginosa (Gràcia, Illana & G. Moreno) Lado, 2001 SPECIES
-=======
+# Reticularia rubiginosa (Gràcia, Illana & G. Moreno) Lado, 2001 SPECIES
 
 #### Status
 ACCEPTED

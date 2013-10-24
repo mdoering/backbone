@@ -1,5 +1,4 @@
-Tetraporina longa Kondratyev, 1963 SPECIES
-=======
+# Tetraporina longa Kondratyev, 1963 SPECIES
 
 #### Status
 ACCEPTED

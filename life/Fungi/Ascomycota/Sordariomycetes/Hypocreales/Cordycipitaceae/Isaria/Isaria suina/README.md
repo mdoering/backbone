@@ -1,5 +1,4 @@
-Isaria suina Sacc. SPECIES
-=======
+# Isaria suina Sacc. SPECIES
 
 #### Status
 ACCEPTED

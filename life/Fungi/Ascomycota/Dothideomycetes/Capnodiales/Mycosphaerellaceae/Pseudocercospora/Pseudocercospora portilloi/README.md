@@ -1,5 +1,4 @@
-Pseudocercospora portilloi (Unamuno) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora portilloi (Unamuno) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

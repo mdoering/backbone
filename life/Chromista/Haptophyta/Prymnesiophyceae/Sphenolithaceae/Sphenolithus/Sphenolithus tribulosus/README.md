@@ -1,5 +1,4 @@
-Sphenolithus tribulosus Roth, 1970 SPECIES
-=======
+# Sphenolithus tribulosus Roth, 1970 SPECIES
 
 #### Status
 ACCEPTED

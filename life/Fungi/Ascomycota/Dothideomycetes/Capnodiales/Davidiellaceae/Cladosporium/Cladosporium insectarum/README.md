@@ -1,5 +1,4 @@
-Cladosporium insectarum Gonz. Frag. SPECIES
-=======
+# Cladosporium insectarum Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

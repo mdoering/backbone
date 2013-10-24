@@ -1,5 +1,4 @@
-Dichomyces quedii Scheloske SPECIES
-=======
+# Dichomyces quedii Scheloske SPECIES
 
 #### Status
 ACCEPTED

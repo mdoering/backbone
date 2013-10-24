@@ -1,5 +1,4 @@
-Carchesium bipartitum Dumas, 1930 SPECIES
-=======
+# Carchesium bipartitum Dumas, 1930 SPECIES
 
 #### Status
 ACCEPTED

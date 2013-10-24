@@ -1,17 +1,16 @@
-Puccinia azerbaydschanica Tranzschel & Erem. SPECIES
-=======
+# Puccinia azerbaijanica Tranzschel & Erem. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Conspectus Uredinalium URSS 300 (1939)
 
 #### Original name
-Puccinia azerbaydschanica Tranzschel & Erem.
+Puccinia azerbaijanica Tranzschel & Erem.
 
 ### Remarks
 null

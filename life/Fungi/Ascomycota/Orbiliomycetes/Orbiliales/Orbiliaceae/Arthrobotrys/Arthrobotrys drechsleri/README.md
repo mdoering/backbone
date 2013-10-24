@@ -1,5 +1,4 @@
-Arthrobotrys drechsleri Soprunov SPECIES
-=======
+# Arthrobotrys drechsleri Soprunov SPECIES
 
 #### Status
 ACCEPTED

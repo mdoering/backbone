@@ -1,5 +1,4 @@
-Lactella GENUS
-=======
+# Lactella GENUS
 
 #### Status
 ACCEPTED

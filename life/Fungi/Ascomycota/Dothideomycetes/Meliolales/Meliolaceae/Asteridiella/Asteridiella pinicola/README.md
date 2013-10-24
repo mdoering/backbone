@@ -1,5 +1,4 @@
-Asteridiella pinicola (Dearn.) Hansf. SPECIES
-=======
+# Asteridiella pinicola (Dearn.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

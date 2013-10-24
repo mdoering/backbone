@@ -1,5 +1,4 @@
-Cortinarius strenuisporus Bidaud, Cors. Gut. & Vila SPECIES
-=======
+# Cortinarius strenuisporus Bidaud, Cors. Gut. & Vila SPECIES
 
 #### Status
 ACCEPTED

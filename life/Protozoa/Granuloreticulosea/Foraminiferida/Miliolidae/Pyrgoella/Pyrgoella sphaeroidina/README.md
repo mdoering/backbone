@@ -1,5 +1,4 @@
-Pyrgoella sphaeroidina Saidova, 1975 SPECIES
-=======
+# Pyrgoella sphaeroidina Saidova, 1975 SPECIES
 
 #### Status
 ACCEPTED

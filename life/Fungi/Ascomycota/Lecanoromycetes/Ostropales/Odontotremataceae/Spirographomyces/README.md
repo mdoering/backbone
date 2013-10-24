@@ -1,5 +1,4 @@
-Spirographomyces GENUS
-=======
+# Spirographomyces GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Loxodes brevis Perty, 1852 SPECIES
-=======
+# Loxodes brevis Perty, 1852 SPECIES
 
 #### Status
 ACCEPTED

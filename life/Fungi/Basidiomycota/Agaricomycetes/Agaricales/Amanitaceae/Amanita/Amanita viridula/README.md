@@ -1,5 +1,4 @@
-Amanita viridula Lam. SPECIES
-=======
+# Amanita viridula Lam. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudogemma pachystyla Matthes, 1971 SPECIES
-=======
+# Pseudogemma pachystyla Matthes, 1971 SPECIES
 
 #### Status
 ACCEPTED

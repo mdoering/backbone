@@ -1,5 +1,4 @@
-Lichenothelia renobalesiana D. Hawksw. & V. Atienza SPECIES
-=======
+# Lichenothelia renobalesiana D. Hawksw. & V. Atienza SPECIES
 
 #### Status
 ACCEPTED

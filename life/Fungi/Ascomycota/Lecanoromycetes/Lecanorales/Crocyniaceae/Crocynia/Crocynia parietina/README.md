@@ -1,5 +1,4 @@
-Crocynia parietina B. de Lesd. SPECIES
-=======
+# Crocynia parietina B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

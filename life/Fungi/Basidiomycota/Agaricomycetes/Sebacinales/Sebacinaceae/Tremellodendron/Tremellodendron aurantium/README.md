@@ -1,5 +1,4 @@
-Tremellodendron aurantium G.F. Atk. SPECIES
-=======
+# Tremellodendron aurantium G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

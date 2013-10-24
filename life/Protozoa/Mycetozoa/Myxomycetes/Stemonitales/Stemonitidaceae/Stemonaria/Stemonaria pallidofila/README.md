@@ -1,5 +1,4 @@
-Stemonaria pallidofila Y. Yamam. & Nann.-Bremek., 1990 SPECIES
-=======
+# Stemonaria pallidofila Y. Yamam. & Nann.-Bremek., 1990 SPECIES
 
 #### Status
 ACCEPTED

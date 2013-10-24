@@ -1,5 +1,4 @@
-Pseudocercospora yeniana U. Braun & F.O. Freire SPECIES
-=======
+# Pseudocercospora yeniana U. Braun & F.O. Freire SPECIES
 
 #### Status
 ACCEPTED

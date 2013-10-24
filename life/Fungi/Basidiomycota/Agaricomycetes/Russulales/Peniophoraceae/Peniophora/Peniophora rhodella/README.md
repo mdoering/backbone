@@ -1,5 +1,4 @@
-Peniophora rhodella (Peck) Sacc. SPECIES
-=======
+# Peniophora rhodella (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

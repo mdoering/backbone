@@ -1,5 +1,4 @@
-Thalassiosira scotia Fryxell & Hoban SPECIES
-=======
+# Thalassiosira scotia Fryxell & Hoban SPECIES
 
 #### Status
 ACCEPTED

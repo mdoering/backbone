@@ -1,5 +1,4 @@
-Leciographa franconica Rehm SPECIES
-=======
+# Leciographa franconica Rehm SPECIES
 
 #### Status
 ACCEPTED

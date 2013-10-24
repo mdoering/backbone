@@ -1,17 +1,16 @@
-Elvela carnea Schaeff. SPECIES
-=======
+# Helvella carnea Schaeff. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Fung. Bavar. Palat. 4: 106 (1774)
 
 #### Original name
-Elvela carnea Schaeff.
+Helvella carnea Schaeff.
 
 ### Remarks
 null

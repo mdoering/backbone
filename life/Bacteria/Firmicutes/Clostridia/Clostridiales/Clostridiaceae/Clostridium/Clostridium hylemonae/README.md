@@ -1,5 +1,4 @@
-Clostridium hylemonae Kitahara et al., 2000 SPECIES
-=======
+# Clostridium hylemonae Kitahara et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

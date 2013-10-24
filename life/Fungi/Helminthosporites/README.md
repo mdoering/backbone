@@ -1,5 +1,4 @@
-Helminthosporites Chitaley & M.T. Sheikh, 1971 GENUS
-=======
+# Helminthosporites Chitaley & M.T. Sheikh, 1971 GENUS
 
 #### Status
 ACCEPTED

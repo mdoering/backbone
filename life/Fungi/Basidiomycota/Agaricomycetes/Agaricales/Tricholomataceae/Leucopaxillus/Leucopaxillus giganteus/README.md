@@ -1,17 +1,16 @@
-Leucopaxillus giganteus var. giganteus VARIETY
-=======
+# Leucopaxillus giganteus (Sowerby) Singer, 1939 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Schweiz. Z. Pilzk. , <b>1982A</b> Sondernummer 123 (<i>Mycologia Helvetica</i>) 17: 14 (1939)
 
 #### Original name
-null
+Agaricus giganteus Sowerby, 1795
 
 ### Remarks
 null

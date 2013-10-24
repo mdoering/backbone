@@ -1,5 +1,4 @@
-Botryobasidium arachnoideum G. Langer, 1994 SPECIES
-=======
+# Botryobasidium arachnoideum G. Langer, 1994 SPECIES
 
 #### Status
 ACCEPTED

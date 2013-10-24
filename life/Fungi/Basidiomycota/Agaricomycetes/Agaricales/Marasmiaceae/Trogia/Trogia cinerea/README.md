@@ -1,5 +1,4 @@
-Trogia cinerea Pat. SPECIES
-=======
+# Trogia cinerea Pat. SPECIES
 
 #### Status
 ACCEPTED

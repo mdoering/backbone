@@ -1,14 +1,13 @@
-Azygozygum chlamydosporum Chesters, 1933 SPECIES
-=======
+# Mortierella chlamydospora (Chesters) Plaäts-Nit., 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 18: 213 (1933)
+in Plaats-Niterink et al. , Persoonia 9(1): 91 (1976)
 
 #### Original name
 Azygozygum chlamydosporum Chesters, 1933

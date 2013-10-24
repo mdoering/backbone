@@ -1,5 +1,4 @@
-Lecidea irrubens var. irrubens VARIETY
-=======
+# Lecidea irrubens Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea irrubens var. irrubens
+Lecidea irrubens Zahlbr.
 
 ### Remarks
 null

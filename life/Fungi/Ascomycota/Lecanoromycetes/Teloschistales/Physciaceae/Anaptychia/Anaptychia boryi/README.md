@@ -1,5 +1,4 @@
-Anaptychia boryi (Fée) A. Massal. SPECIES
-=======
+# Anaptychia boryi (Fée) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spongodiscus biconcarus Haeckel SPECIES
-=======
+# Spongodiscus biconcarus Haeckel SPECIES
 
 #### Status
 ACCEPTED

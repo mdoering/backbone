@@ -1,11 +1,10 @@
-Rhodomonas minuta var. nannoplanctica H.Skuja, 1948 VARIETY
-=======
+# Plagioselmis nannoplanctica (H. Skuja) G. Novarino, I.A.N. Lucas & S. Morrall SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

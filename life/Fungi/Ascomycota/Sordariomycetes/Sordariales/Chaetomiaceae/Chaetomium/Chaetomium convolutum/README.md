@@ -1,5 +1,4 @@
-Chaetomium convolutum Chivers, 1912 SPECIES
-=======
+# Chaetomium convolutum Chivers, 1912 SPECIES
 
 #### Status
 ACCEPTED

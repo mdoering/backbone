@@ -1,5 +1,4 @@
-Trametes subminima Lloyd SPECIES
-=======
+# Trametes subminima Lloyd SPECIES
 
 #### Status
 ACCEPTED

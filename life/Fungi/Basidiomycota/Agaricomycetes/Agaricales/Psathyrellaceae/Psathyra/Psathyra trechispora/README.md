@@ -1,5 +1,4 @@
-Psathyra trechispora Petch SPECIES
-=======
+# Psathyra trechispora Petch SPECIES
 
 #### Status
 ACCEPTED

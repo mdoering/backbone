@@ -1,5 +1,4 @@
-Portatrochammina antarctica subsp. antarctica SUBSPECIES
-=======
+# Portatrochammina antarctica Parr, 1950 SPECIES
 
 #### Status
 ACCEPTED
@@ -8,7 +7,7 @@ ACCEPTED
 World Register of Marine Species
 
 #### Published in
-Parr, W. J. (1950) Foraminifera. B. A. N. Z. ANtarctic Research Expedition 1929-1931. Report Series B 5 (6), 232-392.
+null
 
 #### Original name
 null

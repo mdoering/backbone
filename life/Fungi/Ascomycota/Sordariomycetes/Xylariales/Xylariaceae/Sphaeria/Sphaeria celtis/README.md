@@ -1,5 +1,4 @@
-Sphaeria celtis Castagne SPECIES
-=======
+# Sphaeria celtis Castagne SPECIES
 
 #### Status
 ACCEPTED

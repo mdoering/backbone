@@ -1,5 +1,4 @@
-Macrophoma romanzoffiana Caball. SPECIES
-=======
+# Macrophoma romanzoffiana Caball. SPECIES
 
 #### Status
 ACCEPTED

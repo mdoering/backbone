@@ -1,17 +1,16 @@
-Farysia olivacea var. olivacea VARIETY
-=======
+# Farysia thuemenii (A.A. Fisch. Waldh.) Nannf., 1959 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Symb. bot. upsal. 16(no. 2): 51 (1959)
 
 #### Original name
-null
+Ustilago thuemenii A.A. Fisch. Waldh., 1878
 
 ### Remarks
 null

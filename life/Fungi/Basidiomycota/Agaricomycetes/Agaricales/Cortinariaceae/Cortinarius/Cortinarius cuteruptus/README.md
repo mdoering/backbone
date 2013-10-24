@@ -1,5 +1,4 @@
-Cortinarius cuteruptus Rob. Henry SPECIES
-=======
+# Cortinarius cuteruptus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

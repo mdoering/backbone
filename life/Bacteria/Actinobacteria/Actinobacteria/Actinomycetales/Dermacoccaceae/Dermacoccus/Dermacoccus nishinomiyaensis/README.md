@@ -1,8 +1,7 @@
-Micrococcus nishinomiyaensis Oda, 1935 (Approved Lists, 1980) SPECIES
-=======
+# Dermacoccus nishinomiyaensis (Oda, 1935) Stackebrandt et al., 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

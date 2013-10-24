@@ -1,5 +1,4 @@
-Duquepsammia Seiglie & Baker, 1987 GENUS
-=======
+# Duquepsammia Seiglie & Baker, 1987 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphisphaeria thujina (Peck) Sacc. SPECIES
-=======
+# Amphisphaeria thujina (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acidisphaera rubrifaciens Hiraishi et al., 2000 SPECIES
-=======
+# Acidisphaera rubrifaciens Hiraishi et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

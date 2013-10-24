@@ -1,5 +1,4 @@
-Aminomonas Baena, Fardeau, Labat, Ollivier, Thomas, Garcia & Patel, 1999 GENUS
-=======
+# Aminomonas Baena, Fardeau, Labat, Ollivier, Thomas, Garcia & Patel, 1999 GENUS
 
 #### Status
 ACCEPTED

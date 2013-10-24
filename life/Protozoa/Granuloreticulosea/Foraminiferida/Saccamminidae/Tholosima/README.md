@@ -1,5 +1,4 @@
-Tholosima GENUS
-=======
+# Tholosima GENUS
 
 #### Status
 ACCEPTED

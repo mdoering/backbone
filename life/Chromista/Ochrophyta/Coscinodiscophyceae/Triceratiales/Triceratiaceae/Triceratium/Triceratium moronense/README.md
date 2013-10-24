@@ -1,5 +1,4 @@
-Triceratium moronense var. nicobaricum Grunow VARIETY
-=======
+# Triceratium moronense Greville SPECIES
 
 #### Status
 ACCEPTED

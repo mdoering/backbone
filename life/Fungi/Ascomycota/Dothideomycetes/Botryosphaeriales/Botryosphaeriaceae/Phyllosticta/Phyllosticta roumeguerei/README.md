@@ -1,17 +1,16 @@
-Phyllosticta roumeguerii Sacc. SPECIES
-=======
+# Phyllosticta roumeguerei (Sacc.) Allesch. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Rabenh. Krypt. -Fl. (Leipzig), Edn 2 1(6): 27 (1898)
 
 #### Original name
-Phyllosticta roumeguerii Sacc.
+Phoma roumeguerei Sacc.
 
 ### Remarks
 null

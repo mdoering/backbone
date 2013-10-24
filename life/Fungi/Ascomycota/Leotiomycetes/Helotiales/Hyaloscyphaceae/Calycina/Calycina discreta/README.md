@@ -1,5 +1,4 @@
-Calycina discreta (P. Karst.) Kuntze SPECIES
-=======
+# Calycina discreta (P. Karst.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

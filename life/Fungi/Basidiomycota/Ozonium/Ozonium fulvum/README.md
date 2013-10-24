@@ -1,5 +1,4 @@
-Ozonium fulvum var. fulvum VARIETY
-=======
+# Ozonium fulvum Pers. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ozonium fulvum var. fulvum
+Ozonium fulvum Pers.
 
 ### Remarks
 null

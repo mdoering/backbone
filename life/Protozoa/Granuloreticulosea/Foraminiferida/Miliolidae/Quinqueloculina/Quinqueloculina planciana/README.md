@@ -1,5 +1,4 @@
-Quinqueloculina planciana SPECIES
-=======
+# Quinqueloculina planciana SPECIES
 
 #### Status
 ACCEPTED

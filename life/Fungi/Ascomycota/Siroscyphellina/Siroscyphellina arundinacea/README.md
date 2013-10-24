@@ -1,5 +1,4 @@
-Siroscyphellina arundinacea Petr., 1923 SPECIES
-=======
+# Siroscyphellina arundinacea Petr., 1923 SPECIES
 
 #### Status
 ACCEPTED

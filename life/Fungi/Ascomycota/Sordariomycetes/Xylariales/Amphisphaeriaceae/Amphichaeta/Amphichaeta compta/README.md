@@ -1,5 +1,4 @@
-Amphichaeta compta (Sacc.) Höhn. SPECIES
-=======
+# Amphichaeta compta (Sacc.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

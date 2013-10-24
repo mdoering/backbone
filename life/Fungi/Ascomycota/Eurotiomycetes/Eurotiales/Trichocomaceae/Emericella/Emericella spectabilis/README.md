@@ -1,5 +1,4 @@
-Emericella spectabilis M. Chr., 1978 SPECIES
-=======
+# Emericella spectabilis M. Chr., 1978 SPECIES
 
 #### Status
 ACCEPTED

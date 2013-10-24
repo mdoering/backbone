@@ -1,5 +1,4 @@
-Eccilia nigrella (Pers.) Berk. & Broome SPECIES
-=======
+# Eccilia nigrella (Pers.) Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

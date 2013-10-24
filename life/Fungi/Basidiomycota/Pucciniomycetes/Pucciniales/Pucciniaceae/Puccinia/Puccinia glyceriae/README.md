@@ -1,5 +1,4 @@
-Puccinia glyceriae S. Ito SPECIES
-=======
+# Puccinia glyceriae S. Ito SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola monilispora Gaillard SPECIES
-=======
+# Meliola monilispora Gaillard SPECIES
 
 #### Status
 ACCEPTED

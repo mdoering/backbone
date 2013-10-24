@@ -1,11 +1,10 @@
-Mycena pura f. pura FORM
-=======
+# Mycena pura (Pers. Fr.) P. Kumm. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Belgian Species List
 
 #### Published in
 null

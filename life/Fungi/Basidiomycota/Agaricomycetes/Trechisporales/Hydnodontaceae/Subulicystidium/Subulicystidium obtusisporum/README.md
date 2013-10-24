@@ -1,5 +1,4 @@
-Subulicystidium obtusisporum Duhem & H. Michel SPECIES
-=======
+# Subulicystidium obtusisporum Duhem & H. Michel SPECIES
 
 #### Status
 ACCEPTED

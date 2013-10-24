@@ -1,5 +1,4 @@
-Placopsis baculigera I.M. Lamb SPECIES
-=======
+# Placopsis baculigera I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

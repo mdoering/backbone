@@ -1,5 +1,4 @@
-Polystomellopsis F. Stevens GENUS
-=======
+# Polystomellopsis F. Stevens GENUS
 
 #### Status
 ACCEPTED

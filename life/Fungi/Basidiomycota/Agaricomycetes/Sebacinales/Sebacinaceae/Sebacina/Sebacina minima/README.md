@@ -1,5 +1,4 @@
-Sebacina minima L.S. Olive SPECIES
-=======
+# Sebacina minima L.S. Olive SPECIES
 
 #### Status
 ACCEPTED

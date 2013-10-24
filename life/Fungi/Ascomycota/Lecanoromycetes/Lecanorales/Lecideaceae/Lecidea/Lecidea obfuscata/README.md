@@ -1,5 +1,4 @@
-Lecidea obfuscata (Müll. Arg.) Stizenb. SPECIES
-=======
+# Lecidea obfuscata (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

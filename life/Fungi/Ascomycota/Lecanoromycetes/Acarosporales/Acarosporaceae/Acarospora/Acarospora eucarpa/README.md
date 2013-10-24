@@ -1,5 +1,4 @@
-Acarospora eucarpa (Nyl.) Branth & Rostr. SPECIES
-=======
+# Acarospora eucarpa (Nyl.) Branth & Rostr. SPECIES
 
 #### Status
 ACCEPTED

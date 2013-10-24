@@ -1,5 +1,4 @@
-Verrucaria abditula Hue SPECIES
-=======
+# Verrucaria abditula Hue SPECIES
 
 #### Status
 ACCEPTED

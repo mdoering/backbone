@@ -1,5 +1,4 @@
-Phomatospora secalina Feltgen SPECIES
-=======
+# Phomatospora secalina Feltgen SPECIES
 
 #### Status
 ACCEPTED

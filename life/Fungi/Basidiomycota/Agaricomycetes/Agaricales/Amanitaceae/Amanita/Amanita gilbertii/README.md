@@ -1,5 +1,4 @@
-Amanita gilbertii f. gilbertii FORM
-=======
+# Amanita gilbertii Beauseign. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Bull. Soc. mycol. Fr. 41: 463 (1926)
 
 #### Original name
-Amanita gilbertii f. gilbertii
+Amanita gilbertii Beauseign.
 
 ### Remarks
 null

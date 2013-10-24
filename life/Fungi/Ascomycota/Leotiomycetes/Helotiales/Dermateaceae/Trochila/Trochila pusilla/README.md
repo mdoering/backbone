@@ -1,5 +1,4 @@
-Trochila pusilla (Lib.) Speg. SPECIES
-=======
+# Trochila pusilla (Lib.) Speg. SPECIES
 
 #### Status
 ACCEPTED

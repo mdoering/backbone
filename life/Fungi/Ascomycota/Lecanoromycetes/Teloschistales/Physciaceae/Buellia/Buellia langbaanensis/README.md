@@ -1,5 +1,4 @@
-Buellia langbaanensis Vain. SPECIES
-=======
+# Buellia langbaanensis Vain. SPECIES
 
 #### Status
 ACCEPTED

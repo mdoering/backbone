@@ -1,5 +1,4 @@
-Achlya colorata Pringsh., 1882 SPECIES
-=======
+# Achlya colorata Pringsh., 1882 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea tenagea Ach. SPECIES
-=======
+# Lecidea tenagea Ach. SPECIES
 
 #### Status
 ACCEPTED

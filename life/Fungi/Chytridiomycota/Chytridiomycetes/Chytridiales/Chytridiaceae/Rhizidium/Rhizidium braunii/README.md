@@ -1,5 +1,4 @@
-Rhizidium braunii Zopf SPECIES
-=======
+# Rhizidium braunii Zopf SPECIES
 
 #### Status
 ACCEPTED

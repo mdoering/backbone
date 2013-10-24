@@ -1,5 +1,4 @@
-Psathyrella hispida Heinem. SPECIES
-=======
+# Psathyrella hispida Heinem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Entylomella gibba (Fuckel) U. Braun, 1998 SPECIES
-=======
+# Entyloma ranunculi-repentis Sternon, 1925 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monogr. Cercosporella, Ramularia Allied Genera (Phytopath. Hyphom. ) 2: 298 (1998)
+null
 
 #### Original name
-null
+Entyloma ranunculi-repentis Sternon, 1925
 
 ### Remarks
 null

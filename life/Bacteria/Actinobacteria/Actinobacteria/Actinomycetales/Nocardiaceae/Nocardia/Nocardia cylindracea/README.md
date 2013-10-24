@@ -1,5 +1,4 @@
-Nocardia cylindracea de Korte SPECIES
-=======
+# Nocardia cylindracea de Korte SPECIES
 
 #### Status
 ACCEPTED

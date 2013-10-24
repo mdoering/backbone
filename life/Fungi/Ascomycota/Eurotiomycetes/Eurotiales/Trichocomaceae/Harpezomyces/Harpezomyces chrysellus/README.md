@@ -1,5 +1,4 @@
-Harpezomyces chrysellus Malloch & Cain SPECIES
-=======
+# Harpezomyces chrysellus Malloch & Cain SPECIES
 
 #### Status
 ACCEPTED

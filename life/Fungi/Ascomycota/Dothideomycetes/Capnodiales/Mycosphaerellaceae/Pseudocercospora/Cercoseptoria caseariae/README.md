@@ -1,5 +1,4 @@
-Cercoseptoria caseariae Abbasi, R. Kumar & Kamal SPECIES
-=======
+# Cercoseptoria caseariae Abbasi, R. Kumar & Kamal SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoriella canadensis Nag Raj SPECIES
-=======
+# Septoriella canadensis Nag Raj SPECIES
 
 #### Status
 ACCEPTED

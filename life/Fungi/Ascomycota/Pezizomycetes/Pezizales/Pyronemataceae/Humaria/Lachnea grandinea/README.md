@@ -1,5 +1,4 @@
-Lachnea grandinea Quél. SPECIES
-=======
+# Lachnea grandinea Quél. SPECIES
 
 #### Status
 ACCEPTED

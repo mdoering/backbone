@@ -1,14 +1,13 @@
-Cronartium premnae Petch, 1912 SPECIES
-=======
+# Crossopsora premnae (Petch) Syd. & P. Syd., 1919 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 16: 243 (1919)
 
 #### Original name
 Cronartium premnae Petch, 1912

@@ -1,5 +1,4 @@
-Fasciaria J.E. Gray, 1864 GENUS
-=======
+# Fasciaria J.E. Gray, 1864 GENUS
 
 #### Status
 ACCEPTED

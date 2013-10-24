@@ -1,5 +1,4 @@
-Ascochyta septentrionalis Fokin SPECIES
-=======
+# Ascochyta septentrionalis Fokin SPECIES
 
 #### Status
 ACCEPTED

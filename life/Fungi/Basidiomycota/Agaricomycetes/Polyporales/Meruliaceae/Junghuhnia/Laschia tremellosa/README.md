@@ -1,5 +1,4 @@
-Laschia tremellosa Fr. SPECIES
-=======
+# Laschia tremellosa Fr. SPECIES
 
 #### Status
 ACCEPTED

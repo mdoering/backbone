@@ -1,5 +1,4 @@
-Ceratostoma procumbens Fuckel SPECIES
-=======
+# Ceratostoma procumbens Fuckel SPECIES
 
 #### Status
 ACCEPTED

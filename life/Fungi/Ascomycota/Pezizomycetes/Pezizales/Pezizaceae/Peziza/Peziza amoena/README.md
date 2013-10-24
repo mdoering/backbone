@@ -1,5 +1,4 @@
-Peziza amoena Lév. SPECIES
-=======
+# Peziza amoena Lév. SPECIES
 
 #### Status
 ACCEPTED

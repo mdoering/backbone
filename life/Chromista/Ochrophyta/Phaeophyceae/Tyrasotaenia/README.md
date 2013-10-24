@@ -1,5 +1,4 @@
-Tyrasotaenia M.B. Gnilovskaja, 1971 GENUS
-=======
+# Tyrasotaenia M.B. Gnilovskaja, 1971 GENUS
 
 #### Status
 ACCEPTED

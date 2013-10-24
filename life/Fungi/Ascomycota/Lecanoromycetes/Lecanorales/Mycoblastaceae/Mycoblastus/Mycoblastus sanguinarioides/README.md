@@ -1,5 +1,4 @@
-Mycoblastus sanguinarioides Kantvilas SPECIES
-=======
+# Mycoblastus sanguinarioides Kantvilas SPECIES
 
 #### Status
 ACCEPTED

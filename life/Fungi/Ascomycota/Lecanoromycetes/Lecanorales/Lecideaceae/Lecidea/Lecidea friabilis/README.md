@@ -1,5 +1,4 @@
-Lecidea friabilis Zahlbr. SPECIES
-=======
+# Lecidea friabilis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

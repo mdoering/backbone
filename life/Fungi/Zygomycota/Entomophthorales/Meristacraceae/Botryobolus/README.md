@@ -1,5 +1,4 @@
-Botryobolus GENUS
-=======
+# Botryobolus GENUS
 
 #### Status
 ACCEPTED

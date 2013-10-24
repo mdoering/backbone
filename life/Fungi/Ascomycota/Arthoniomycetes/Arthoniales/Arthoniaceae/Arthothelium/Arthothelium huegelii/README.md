@@ -1,14 +1,13 @@
-Lecidea huegelii (Nyl.) Kremp. SPECIES
-=======
+# Arthothelium huegelii (Nyl.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Verh. zool. -bot. Ges. Wein 17: 329 (1868)
+Cat. Lich. Univers. 2: 127 (1922)
 
 #### Original name
 Arthonia huegelii Nyl.

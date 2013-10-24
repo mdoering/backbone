@@ -1,5 +1,4 @@
-Pertusaria inconspicua A.W. Archer & Elix SPECIES
-=======
+# Pertusaria inconspicua A.W. Archer & Elix SPECIES
 
 #### Status
 ACCEPTED

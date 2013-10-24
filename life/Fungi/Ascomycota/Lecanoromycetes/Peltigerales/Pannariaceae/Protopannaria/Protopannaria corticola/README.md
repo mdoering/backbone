@@ -1,5 +1,4 @@
-Protopannaria corticola P. M. Jørg. SPECIES
-=======
+# Protopannaria corticola P. M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

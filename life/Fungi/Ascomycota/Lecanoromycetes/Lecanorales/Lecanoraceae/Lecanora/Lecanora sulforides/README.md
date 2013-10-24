@@ -1,5 +1,4 @@
-Lecanora sulforides (Maheu & Werner) Zahlbr. SPECIES
-=======
+# Lecanora sulforides (Maheu & Werner) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora giewontica Motyka SPECIES
-=======
+# Lecanora giewontica Motyka SPECIES
 
 #### Status
 ACCEPTED

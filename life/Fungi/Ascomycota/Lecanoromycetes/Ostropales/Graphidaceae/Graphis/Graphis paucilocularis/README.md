@@ -1,5 +1,4 @@
-Graphis paucilocularis (Müll. Arg.) Stizenb. SPECIES
-=======
+# Graphis paucilocularis (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

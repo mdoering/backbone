@@ -1,5 +1,4 @@
-Lecidora conglobata (Flot. ex Körb.) Motyka SPECIES
-=======
+# Lecidora conglobata (Flot. ex Körb.) Motyka SPECIES
 
 #### Status
 ACCEPTED

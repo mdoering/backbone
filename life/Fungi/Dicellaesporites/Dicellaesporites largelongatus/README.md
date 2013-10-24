@@ -1,5 +1,4 @@
-Dicellaesporites largelongatus Kalgutkar & Janson. SPECIES
-=======
+# Dicellaesporites largelongatus Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria alta Zahlbr. SPECIES
-=======
+# Pertusaria alta Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

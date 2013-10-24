@@ -1,5 +1,4 @@
-Catenuata M.S. Yakschin, 1981 GENUS
-=======
+# Catenuata M.S. Yakschin, 1981 GENUS
 
 #### Status
 ACCEPTED

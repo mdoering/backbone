@@ -1,5 +1,4 @@
-Leptosphaeria miyakeana Sacc. SPECIES
-=======
+# Leptosphaeria miyakeana Sacc. SPECIES
 
 #### Status
 ACCEPTED

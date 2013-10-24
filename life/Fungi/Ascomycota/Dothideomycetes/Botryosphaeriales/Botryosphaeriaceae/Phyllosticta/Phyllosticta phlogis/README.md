@@ -1,5 +1,4 @@
-Phyllosticta phlogis Vestergr. SPECIES
-=======
+# Phyllosticta phlogis Vestergr. SPECIES
 
 #### Status
 ACCEPTED

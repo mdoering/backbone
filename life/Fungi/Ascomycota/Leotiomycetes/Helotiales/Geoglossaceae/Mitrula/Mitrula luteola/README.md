@@ -1,5 +1,4 @@
-Mitrula luteola Ellis SPECIES
-=======
+# Mitrula luteola Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pocillaria canthagallensis (Beck) Kuntze SPECIES
-=======
+# Pocillaria canthagallensis (Beck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

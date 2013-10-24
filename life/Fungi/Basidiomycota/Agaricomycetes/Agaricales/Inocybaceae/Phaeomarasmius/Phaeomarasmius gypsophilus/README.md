@@ -1,5 +1,4 @@
-Phaeomarasmius gypsophilus Esteve-Rav., M. Villarreal, Heykoop & E. Horak SPECIES
-=======
+# Phaeomarasmius gypsophilus Esteve-Rav., M. Villarreal, Heykoop & E. Horak SPECIES
 
 #### Status
 ACCEPTED

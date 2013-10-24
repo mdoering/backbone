@@ -1,5 +1,4 @@
-Glaucoma setosa SPECIES
-=======
+# Glaucoma setosa SPECIES
 
 #### Status
 ACCEPTED

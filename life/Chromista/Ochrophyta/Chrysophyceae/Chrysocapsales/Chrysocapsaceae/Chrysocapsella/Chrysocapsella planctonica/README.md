@@ -1,5 +1,4 @@
-Chrysocapsella planctonica (W. West & G.S. West) Pascher SPECIES
-=======
+# Chrysocapsella planctonica (W. West & G.S. West) Pascher SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collybia niveolutescens (Viv.) Cooke SPECIES
-=======
+# Collybia niveolutescens (Viv.) Cooke SPECIES
 
 #### Status
 ACCEPTED

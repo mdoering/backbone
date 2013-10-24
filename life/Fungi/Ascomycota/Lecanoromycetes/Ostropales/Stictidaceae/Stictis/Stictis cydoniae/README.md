@@ -1,5 +1,4 @@
-Stictis cydoniae Schulzer SPECIES
-=======
+# Stictis cydoniae Schulzer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria calycanthi Sacc. & Speg. SPECIES
-=======
+# Septoria calycanthi Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

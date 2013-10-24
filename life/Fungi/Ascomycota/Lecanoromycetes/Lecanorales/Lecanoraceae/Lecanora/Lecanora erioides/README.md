@@ -1,5 +1,4 @@
-Lecanora erioides Stirt. SPECIES
-=======
+# Lecanora erioides Stirt. SPECIES
 
 #### Status
 ACCEPTED

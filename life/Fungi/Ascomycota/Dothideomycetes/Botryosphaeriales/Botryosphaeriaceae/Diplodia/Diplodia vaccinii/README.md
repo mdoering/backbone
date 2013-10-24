@@ -1,5 +1,4 @@
-Diplodia vaccinii f. vaccinii FORM
-=======
+# Diplodia vaccinii Berl. & Roum. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Revue mycol. , Toulouse 9: 163 (1887)
 
 #### Original name
-Diplodia vaccinii f. vaccinii
+Diplodia vaccinii Berl. & Roum.
 
 ### Remarks
 null

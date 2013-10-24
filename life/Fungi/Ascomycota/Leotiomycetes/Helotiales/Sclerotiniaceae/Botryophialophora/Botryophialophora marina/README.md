@@ -1,5 +1,4 @@
-Botryophialophora marina Linder, 1944 SPECIES
-=======
+# Botryophialophora marina Linder, 1944 SPECIES
 
 #### Status
 ACCEPTED

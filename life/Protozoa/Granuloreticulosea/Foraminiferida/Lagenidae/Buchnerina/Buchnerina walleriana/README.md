@@ -1,5 +1,4 @@
-Buchnerina walleriana (Wright, 1886) SPECIES
-=======
+# Buchnerina walleriana (Wright, 1886) SPECIES
 
 #### Status
 ACCEPTED

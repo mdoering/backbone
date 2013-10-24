@@ -1,5 +1,4 @@
-Pertusaria conglobata (Ach.) Th. Fr. SPECIES
-=======
+# Pertusaria conglobata (Ach.) Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

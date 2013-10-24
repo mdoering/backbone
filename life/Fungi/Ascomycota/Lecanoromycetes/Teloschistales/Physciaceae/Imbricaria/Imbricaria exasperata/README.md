@@ -1,5 +1,4 @@
-Imbricaria exasperata (Ach.) Rabenh. SPECIES
-=======
+# Imbricaria exasperata (Ach.) Rabenh. SPECIES
 
 #### Status
 ACCEPTED

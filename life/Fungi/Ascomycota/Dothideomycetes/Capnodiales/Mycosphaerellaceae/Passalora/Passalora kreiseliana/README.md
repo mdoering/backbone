@@ -1,5 +1,4 @@
-Passalora kreiseliana U. Braun & Crous SPECIES
-=======
+# Passalora kreiseliana U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

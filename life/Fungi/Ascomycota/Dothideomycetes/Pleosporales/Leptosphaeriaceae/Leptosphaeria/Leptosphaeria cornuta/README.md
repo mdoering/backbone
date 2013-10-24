@@ -1,5 +1,4 @@
-Leptosphaeria cornuta E. Müll. SPECIES
-=======
+# Leptosphaeria cornuta E. Müll. SPECIES
 
 #### Status
 ACCEPTED

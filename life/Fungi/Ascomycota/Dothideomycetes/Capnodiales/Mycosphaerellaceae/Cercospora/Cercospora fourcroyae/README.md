@@ -1,5 +1,4 @@
-Cercospora fourcroyae Obreg.-Bot. SPECIES
-=======
+# Cercospora fourcroyae Obreg.-Bot. SPECIES
 
 #### Status
 ACCEPTED

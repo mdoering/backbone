@@ -1,5 +1,4 @@
-Patellaria beckhausii (Körb.) Müll. Arg. SPECIES
-=======
+# Patellaria beckhausii (Körb.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

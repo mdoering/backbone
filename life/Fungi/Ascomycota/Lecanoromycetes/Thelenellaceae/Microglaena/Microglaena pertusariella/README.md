@@ -1,5 +1,4 @@
-Microglaena pertusariella (Nyl.) Norman SPECIES
-=======
+# Microglaena pertusariella (Nyl.) Norman SPECIES
 
 #### Status
 ACCEPTED

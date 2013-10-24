@@ -1,5 +1,4 @@
-Dictyostomiopelta Viégas GENUS
-=======
+# Dictyostomiopelta Viégas GENUS
 
 #### Status
 ACCEPTED

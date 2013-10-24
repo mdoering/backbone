@@ -1,5 +1,4 @@
-Celothelium buxi (J. Steiner) M.B. Aguirre SPECIES
-=======
+# Celothelium buxi (J. Steiner) M.B. Aguirre SPECIES
 
 #### Status
 ACCEPTED

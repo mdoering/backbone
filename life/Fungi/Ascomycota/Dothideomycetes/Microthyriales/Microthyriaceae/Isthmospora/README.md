@@ -1,5 +1,4 @@
-Isthmospora F. Stevens GENUS
-=======
+# Isthmospora F. Stevens GENUS
 
 #### Status
 ACCEPTED

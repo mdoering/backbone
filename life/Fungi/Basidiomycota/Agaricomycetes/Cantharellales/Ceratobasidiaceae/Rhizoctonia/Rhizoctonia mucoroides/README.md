@@ -1,5 +1,4 @@
-Rhizoctonia mucoroides G.E. Bernard, 1909 SPECIES
-=======
+# Rhizoctonia mucoroides G.E. Bernard, 1909 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clathrella muelleri E. Fisch. SPECIES
-=======
+# Clathrella muelleri E. Fisch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spathidium marinum Lepsi, 1928 SPECIES
-=======
+# Spathidium marinum Lepsi, 1928 SPECIES
 
 #### Status
 ACCEPTED

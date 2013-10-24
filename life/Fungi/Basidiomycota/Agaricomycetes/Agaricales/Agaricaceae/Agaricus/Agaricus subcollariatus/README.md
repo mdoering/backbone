@@ -1,5 +1,4 @@
-Agaricus subcollariatus Berk. & Broome SPECIES
-=======
+# Agaricus subcollariatus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

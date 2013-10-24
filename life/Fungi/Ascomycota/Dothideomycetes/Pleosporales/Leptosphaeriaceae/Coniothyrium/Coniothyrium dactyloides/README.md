@@ -1,5 +1,4 @@
-Coniothyrium dactyloides Matsush. SPECIES
-=======
+# Coniothyrium dactyloides Matsush. SPECIES
 
 #### Status
 ACCEPTED

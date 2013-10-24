@@ -1,5 +1,4 @@
-Rinodina coloradiana H. Magn. SPECIES
-=======
+# Rinodina coloradiana H. Magn. SPECIES
 
 #### Status
 ACCEPTED

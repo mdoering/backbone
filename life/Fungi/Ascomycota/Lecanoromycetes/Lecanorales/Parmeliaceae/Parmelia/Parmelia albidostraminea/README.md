@@ -1,5 +1,4 @@
-Parmelia albidostraminea Hue SPECIES
-=======
+# Parmelia albidostraminea Hue SPECIES
 
 #### Status
 ACCEPTED

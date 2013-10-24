@@ -1,5 +1,4 @@
-Dinenympha mukundai P. Mukherjee & P. K. Maiti SPECIES
-=======
+# Dinenympha mukundai P. Mukherjee & P. K. Maiti SPECIES
 
 #### Status
 ACCEPTED

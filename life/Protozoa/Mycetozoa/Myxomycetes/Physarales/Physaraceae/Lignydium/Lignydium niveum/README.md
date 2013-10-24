@@ -1,5 +1,4 @@
-Lignydium niveum Kuntze SPECIES
-=======
+# Lignydium niveum Kuntze SPECIES
 
 #### Status
 ACCEPTED

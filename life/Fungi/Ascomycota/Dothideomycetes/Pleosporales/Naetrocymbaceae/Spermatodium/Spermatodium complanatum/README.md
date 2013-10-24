@@ -1,5 +1,4 @@
-Spermatodium complanatum (Mont.) Trevis. SPECIES
-=======
+# Spermatodium complanatum (Mont.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

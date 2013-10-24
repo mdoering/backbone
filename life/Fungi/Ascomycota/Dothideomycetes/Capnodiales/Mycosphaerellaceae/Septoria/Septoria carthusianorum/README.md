@@ -1,5 +1,4 @@
-Septoria carthusianorum Westend. SPECIES
-=======
+# Septoria carthusianorum Westend. SPECIES
 
 #### Status
 ACCEPTED

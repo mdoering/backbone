@@ -1,5 +1,4 @@
-Ascochytopsis aggregata Matsush. SPECIES
-=======
+# Ascochytopsis aggregata Matsush. SPECIES
 
 #### Status
 ACCEPTED

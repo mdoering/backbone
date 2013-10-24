@@ -1,5 +1,4 @@
-Clitocybe bourgaei Mont. SPECIES
-=======
+# Clitocybe bourgaei Mont. SPECIES
 
 #### Status
 ACCEPTED

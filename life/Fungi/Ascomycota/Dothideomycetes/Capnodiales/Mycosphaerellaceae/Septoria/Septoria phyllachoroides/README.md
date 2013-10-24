@@ -1,5 +1,4 @@
-Septoria phyllachoroides Pass. SPECIES
-=======
+# Septoria phyllachoroides Pass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psalliota rhodochroa (Berk. & Broome) Rick SPECIES
-=======
+# Psalliota rhodochroa (Berk. & Broome) Rick SPECIES
 
 #### Status
 ACCEPTED

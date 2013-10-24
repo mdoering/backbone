@@ -1,5 +1,4 @@
-Verrucaria pissina Nyl. SPECIES
-=======
+# Verrucaria pissina Nyl. SPECIES
 
 #### Status
 ACCEPTED

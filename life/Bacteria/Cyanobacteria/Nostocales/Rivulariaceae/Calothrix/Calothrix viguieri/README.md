@@ -1,5 +1,4 @@
-Calothrix viguieri Frémy SPECIES
-=======
+# Calothrix viguieri Frémy SPECIES
 
 #### Status
 ACCEPTED

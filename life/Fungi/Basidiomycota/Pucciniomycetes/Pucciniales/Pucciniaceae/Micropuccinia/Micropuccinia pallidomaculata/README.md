@@ -1,5 +1,4 @@
-Micropuccinia pallidomaculata (Ellis & Everh.) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia pallidomaculata (Ellis & Everh.) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

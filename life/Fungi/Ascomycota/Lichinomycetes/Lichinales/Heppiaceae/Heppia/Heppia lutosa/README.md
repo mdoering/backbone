@@ -1,14 +1,13 @@
-Collema lutosum Ach. SPECIES
-=======
+# Heppia lutosa (Ach.) Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syn. meth. lich. 2(1): 45 (1863)
 
 #### Original name
 Collema lutosum Ach.

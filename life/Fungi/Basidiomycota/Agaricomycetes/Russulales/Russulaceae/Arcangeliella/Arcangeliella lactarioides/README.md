@@ -1,5 +1,4 @@
-Arcangeliella lactarioides Zeller SPECIES
-=======
+# Arcangeliella lactarioides Zeller SPECIES
 
 #### Status
 ACCEPTED

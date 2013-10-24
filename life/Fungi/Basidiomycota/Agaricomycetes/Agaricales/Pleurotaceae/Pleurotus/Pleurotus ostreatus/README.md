@@ -1,17 +1,16 @@
-Pleurotus revolutus var. revolutus VARIETY
-=======
+# Pleurotus ostreatus (Jacq.) P. Kumm., 1871 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hyménomycètes (Alençon) 347 (1876)
+Führ. Pilzk. (Zwickau) 24, 104 (1871)
 
 #### Original name
-Pleurotus revolutus var. revolutus
+Agaricus ostreatus Jacq., 1774
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Russula americana Singer SPECIES
-=======
+# Russula americana Singer SPECIES
 
 #### Status
 ACCEPTED

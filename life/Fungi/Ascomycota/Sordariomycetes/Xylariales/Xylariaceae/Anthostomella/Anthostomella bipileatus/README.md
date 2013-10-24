@@ -1,5 +1,4 @@
-Anthostomella bipileatus J. Fröhl. & K.D. Hyde, 2000 SPECIES
-=======
+# Anthostomella bipileatus J. Fröhl. & K.D. Hyde, 2000 SPECIES
 
 #### Status
 ACCEPTED

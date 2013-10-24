@@ -1,5 +1,4 @@
-Didymosphaeria lonicerae (Sacc.) Sacc. SPECIES
-=======
+# Didymosphaeria lonicerae (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

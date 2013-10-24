@@ -1,17 +1,16 @@
-Paralaestadia Sacc. ex Vain. GENUS
-=======
+# Lichenochora Hafellner GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Acta Soc. Fauna Flora fenn. 49(2): 75 (1921)
+Nova Hedwigia 48(3-4): 358 (1989)
 
 #### Original name
-Paralaestadia Sacc. ex Vain.
+Lichenochora Hafellner
 
 ### Remarks
 null

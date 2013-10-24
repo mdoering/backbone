@@ -1,5 +1,4 @@
-Clitocybe fuscoalutacea (Britzelm.) Sacc. SPECIES
-=======
+# Clitocybe fuscoalutacea (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

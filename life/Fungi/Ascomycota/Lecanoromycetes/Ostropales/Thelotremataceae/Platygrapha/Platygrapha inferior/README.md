@@ -1,5 +1,4 @@
-Platygrapha inferior Müll. Arg. SPECIES
-=======
+# Platygrapha inferior Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

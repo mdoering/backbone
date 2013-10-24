@@ -1,5 +1,4 @@
-Protoperidinium aspinum (Paulsen) Meunier SPECIES
-=======
+# Protoperidinium aspinum (Paulsen) Meunier SPECIES
 
 #### Status
 ACCEPTED

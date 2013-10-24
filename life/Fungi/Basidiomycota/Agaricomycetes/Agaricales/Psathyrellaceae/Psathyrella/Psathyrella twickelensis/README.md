@@ -1,5 +1,4 @@
-Psathyrella twickelensis Kits van Wav. SPECIES
-=======
+# Psathyrella twickelensis Kits van Wav. SPECIES
 
 #### Status
 ACCEPTED

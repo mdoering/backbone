@@ -1,5 +1,4 @@
-Helminthosporium abutilonis (Tropova) Khokhr. SPECIES
-=======
+# Helminthosporium abutilonis (Tropova) Khokhr. SPECIES
 
 #### Status
 ACCEPTED

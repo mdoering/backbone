@@ -1,5 +1,4 @@
-Verrucaria elactescens Nyl. SPECIES
-=======
+# Verrucaria elactescens Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,11 +1,10 @@
-Pseudomonas tumefaciens (Smith & Townsend, 1907) Duggar, 1909 SPECIES
-=======
+# Agrobacterium tumefaciens (Smith and Townsend, 1907) Conn, 1942 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

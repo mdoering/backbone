@@ -1,5 +1,4 @@
-Cercosporella holostei Golovin SPECIES
-=======
+# Cercosporella holostei Golovin SPECIES
 
 #### Status
 ACCEPTED

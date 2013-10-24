@@ -1,5 +1,4 @@
-Tilletia tumefaciens Syd. & P. Syd., 1912 SPECIES
-=======
+# Tilletia tumefaciens Syd. & P. Syd., 1912 SPECIES
 
 #### Status
 ACCEPTED

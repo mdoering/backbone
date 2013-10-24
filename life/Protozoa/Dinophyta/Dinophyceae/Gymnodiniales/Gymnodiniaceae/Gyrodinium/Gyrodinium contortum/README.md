@@ -1,5 +1,4 @@
-Gyrodinium contortum (SchlAtt) Kofoid & Swezy SPECIES
-=======
+# Gyrodinium contortum (SchlAtt) Kofoid & Swezy SPECIES
 
 #### Status
 ACCEPTED

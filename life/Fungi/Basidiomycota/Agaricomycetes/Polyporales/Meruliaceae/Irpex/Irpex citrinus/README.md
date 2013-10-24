@@ -1,5 +1,4 @@
-Irpex citrinus Bres. SPECIES
-=======
+# Irpex citrinus Bres. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Morchella canina Teuba {?} SPECIES
-=======
+# Morchella canina Teuba {?} SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphis gracilis Leight. SPECIES
-=======
+# Graphis gracilis Leight. SPECIES
 
 #### Status
 ACCEPTED

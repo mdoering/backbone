@@ -1,5 +1,4 @@
-Cercospora justiciicola F.L. Tai SPECIES
-=======
+# Cercospora justiciicola F.L. Tai SPECIES
 
 #### Status
 ACCEPTED

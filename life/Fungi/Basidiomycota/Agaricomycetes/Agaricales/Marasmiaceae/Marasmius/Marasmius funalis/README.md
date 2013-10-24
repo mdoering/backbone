@@ -1,5 +1,4 @@
-Marasmius funalis Har. Takah. SPECIES
-=======
+# Marasmius funalis Har. Takah. SPECIES
 
 #### Status
 ACCEPTED

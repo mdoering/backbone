@@ -1,5 +1,4 @@
-Aspicilia plumbea (H. Magn.) Motyka SPECIES
-=======
+# Aspicilia plumbea (H. Magn.) Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gangliostilbe Subram. & Vittal GENUS
-=======
+# Gangliostilbe Subram. & Vittal GENUS
 
 #### Status
 ACCEPTED

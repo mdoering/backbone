@@ -1,5 +1,4 @@
-Aecidium sclerothecioides Ellis & Everh. SPECIES
-=======
+# Aecidium sclerothecioides Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

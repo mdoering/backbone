@@ -1,5 +1,4 @@
-Cortinarius dryophiloides ined. SPECIES
-=======
+# Cortinarius dryophiloides ined. SPECIES
 
 #### Status
 ACCEPTED

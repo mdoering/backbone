@@ -1,5 +1,4 @@
-Fomes haskarlii (Lév.) Bres. SPECIES
-=======
+# Fomes haskarlii (Lév.) Bres. SPECIES
 
 #### Status
 ACCEPTED

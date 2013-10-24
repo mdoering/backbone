@@ -1,5 +1,4 @@
-Pseudocyphellaria tomentosa (Sw.) Vain. SPECIES
-=======
+# Pseudocyphellaria tomentosa (Sw.) Vain. SPECIES
 
 #### Status
 ACCEPTED

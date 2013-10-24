@@ -1,5 +1,4 @@
-Lecidea spongiosula Nyl. SPECIES
-=======
+# Lecidea spongiosula Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus submarasmioides Speg. SPECIES
-=======
+# Agaricus submarasmioides Speg. SPECIES
 
 #### Status
 ACCEPTED

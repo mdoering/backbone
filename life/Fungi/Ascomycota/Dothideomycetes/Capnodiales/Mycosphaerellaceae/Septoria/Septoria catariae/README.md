@@ -1,5 +1,4 @@
-Septoria catariae Bubák SPECIES
-=======
+# Septoria catariae Bubák SPECIES
 
 #### Status
 ACCEPTED

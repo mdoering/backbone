@@ -1,5 +1,4 @@
-Uromyces jordianus Bubák SPECIES
-=======
+# Uromyces jordianus Bubák SPECIES
 
 #### Status
 ACCEPTED

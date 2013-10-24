@@ -1,5 +1,4 @@
-Valsa meschuttii Ellis & Everh. SPECIES
-=======
+# Valsa meschuttii Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

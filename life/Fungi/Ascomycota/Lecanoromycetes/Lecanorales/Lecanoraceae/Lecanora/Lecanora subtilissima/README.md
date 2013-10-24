@@ -1,5 +1,4 @@
-Lecanora subtilissima Vain. SPECIES
-=======
+# Lecanora subtilissima Vain. SPECIES
 
 #### Status
 ACCEPTED

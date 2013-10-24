@@ -1,5 +1,4 @@
-Baltisphaera quadrinata Burmann, 1970 SPECIES
-=======
+# Baltisphaera quadrinata Burmann, 1970 SPECIES
 
 #### Status
 ACCEPTED

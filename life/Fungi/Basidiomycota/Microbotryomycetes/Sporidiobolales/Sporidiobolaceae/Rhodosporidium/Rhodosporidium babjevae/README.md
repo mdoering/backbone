@@ -1,5 +1,4 @@
-Rhodosporidium babjevae Golubev SPECIES
-=======
+# Rhodosporidium babjevae Golubev SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Prosthecium inquinans (Berk. & Broome) Petr. SPECIES
-=======
+# Prosthecium inquinans (Berk. & Broome) Petr. SPECIES
 
 #### Status
 ACCEPTED

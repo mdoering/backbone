@@ -1,5 +1,4 @@
-Heterosporium chloridis Speg. SPECIES
-=======
+# Heterosporium chloridis Speg. SPECIES
 
 #### Status
 ACCEPTED

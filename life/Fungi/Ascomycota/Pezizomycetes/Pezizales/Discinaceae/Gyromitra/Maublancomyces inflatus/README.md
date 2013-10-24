@@ -1,8 +1,7 @@
-Maublancomyces inflata (Cumino) Herter SPECIES
-=======
+# Maublancomyces inflatus (Cumino) Herter SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

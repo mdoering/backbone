@@ -1,5 +1,4 @@
-Corynebacterium hoagii (Morse, 1912) Eberson, 1918 (Approved Lists, 1980) SPECIES
-=======
+# Corynebacterium hoagii (Morse, 1912) Eberson, 1918 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

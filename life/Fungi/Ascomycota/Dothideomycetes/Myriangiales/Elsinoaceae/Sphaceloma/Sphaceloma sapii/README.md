@@ -1,5 +1,4 @@
-Sphaceloma sapii Bitanc. & Jenkins SPECIES
-=======
+# Sphaceloma sapii Bitanc. & Jenkins SPECIES
 
 #### Status
 ACCEPTED

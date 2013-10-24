@@ -1,5 +1,4 @@
-Alternaria californica E.G. Simmons & Koike SPECIES
-=======
+# Alternaria californica E.G. Simmons & Koike SPECIES
 
 #### Status
 ACCEPTED

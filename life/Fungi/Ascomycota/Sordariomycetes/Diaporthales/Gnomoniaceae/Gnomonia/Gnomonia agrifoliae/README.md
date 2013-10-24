@@ -1,5 +1,4 @@
-Gnomonia agrifoliae M.E. Barr SPECIES
-=======
+# Gnomonia agrifoliae M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

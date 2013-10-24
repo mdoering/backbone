@@ -1,5 +1,4 @@
-Leptothyrium muscorum Racov. SPECIES
-=======
+# Leptothyrium muscorum Racov. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cornuvia leocarpoides Speg. SPECIES
-=======
+# Cornuvia leocarpoides Speg. SPECIES
 
 #### Status
 ACCEPTED

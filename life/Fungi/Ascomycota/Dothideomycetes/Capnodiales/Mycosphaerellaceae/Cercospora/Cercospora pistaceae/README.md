@@ -1,5 +1,4 @@
-Cercospora pistaceae Chupp SPECIES
-=======
+# Cercospora pistaceae Chupp SPECIES
 
 #### Status
 ACCEPTED

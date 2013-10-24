@@ -1,8 +1,7 @@
-Secoliga deightoni C.W. Dodge SPECIES
-=======
+# Secoliga deightonii C.W. Dodge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Secoliga deightoni C.W. Dodge
+Secoliga deightonii C.W. Dodge
 
 ### Remarks
 null

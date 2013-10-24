@@ -1,14 +1,13 @@
-Sargassum fujianensis Bangmei & Tseng, 2002 SPECIES
-=======
+# Sargassum fujianense Tseng & Lu SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bangmei & Tseng. 2002. Tax. Econ. Seaweeds 8: 145
+null
 
 #### Original name
 null

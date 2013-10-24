@@ -1,14 +1,13 @@
-Poria tropicalis (Cooke) Rick, 1960 SPECIES
-=======
+# Wrightoporia tropicalis (Cooke) Ryvarden, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Rambo (Ed. ), Iheringia, Sér. Bot. 7: 272 (1960)
+in Ryvarden & Johansen, Prelim. Polyp. Fl. E. Afr. (Oslo) 619 (1980)
 
 #### Original name
 Fomes tropicalis Cooke, 1886

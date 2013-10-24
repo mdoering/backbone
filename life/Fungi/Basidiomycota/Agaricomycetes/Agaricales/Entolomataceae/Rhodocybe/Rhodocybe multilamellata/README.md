@@ -1,17 +1,16 @@
-Clitopilus multilamellatus (E. Horak) Noordel. & Co-David, 2009 SPECIES
-=======
+# Rhodocybe multilamellata E. Horak, 2008 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fungi of New Zealand, Nga Harore o Aotearoa 5: 86 (2008)
 
 #### Original name
-null
+Rhodocybe multilamellata E. Horak, 2008
 
 ### Remarks
 null

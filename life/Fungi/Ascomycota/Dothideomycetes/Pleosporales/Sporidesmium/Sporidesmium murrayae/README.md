@@ -1,5 +1,4 @@
-Sporidesmium murrayae (Henn.) Morgan-Jones & W.B. Kendr. SPECIES
-=======
+# Sporidesmium murrayae (Henn.) Morgan-Jones & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

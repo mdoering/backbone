@@ -1,8 +1,7 @@
-Lachnea spencerii (Colenso) Colenso SPECIES
-=======
+# Lachnea spenceri (Colenso) Colenso SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

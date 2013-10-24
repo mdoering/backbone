@@ -1,5 +1,4 @@
-Leucocoprinus maublancii Locq. SPECIES
-=======
+# Leucocoprinus maublancii Locq. SPECIES
 
 #### Status
 ACCEPTED

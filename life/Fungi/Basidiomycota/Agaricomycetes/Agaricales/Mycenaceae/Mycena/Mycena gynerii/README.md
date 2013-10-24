@@ -1,5 +1,4 @@
-Mycena gynerii Pat. SPECIES
-=======
+# Mycena gynerii Pat. SPECIES
 
 #### Status
 ACCEPTED

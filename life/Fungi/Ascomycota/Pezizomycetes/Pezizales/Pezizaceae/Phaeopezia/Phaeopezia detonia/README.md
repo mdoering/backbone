@@ -1,5 +1,4 @@
-Phaeopezia detonia (Brenckle) Sacc. SPECIES
-=======
+# Phaeopezia detonia (Brenckle) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gomphus brasiliensis Corner SPECIES
-=======
+# Gomphus brasiliensis Corner SPECIES
 
 #### Status
 ACCEPTED

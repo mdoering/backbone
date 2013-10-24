@@ -1,5 +1,4 @@
-Mallochia transmutans Udagawa & Uchiy., 2002 SPECIES
-=======
+# Mallochia transmutans Udagawa & Uchiy., 2002 SPECIES
 
 #### Status
 ACCEPTED

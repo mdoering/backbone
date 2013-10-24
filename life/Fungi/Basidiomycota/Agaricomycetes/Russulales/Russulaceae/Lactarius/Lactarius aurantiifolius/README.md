@@ -1,5 +1,4 @@
-Lactarius aurantiifolius Verbeken, 1996 SPECIES
-=======
+# Lactarius aurantiifolius Verbeken, 1996 SPECIES
 
 #### Status
 ACCEPTED

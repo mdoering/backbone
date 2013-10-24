@@ -1,5 +1,4 @@
-Schizophyllum flabellare Fr. SPECIES
-=======
+# Schizophyllum flabellare Fr. SPECIES
 
 #### Status
 ACCEPTED

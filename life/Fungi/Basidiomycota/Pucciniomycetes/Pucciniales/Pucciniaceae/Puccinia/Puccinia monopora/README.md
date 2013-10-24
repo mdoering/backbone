@@ -1,5 +1,4 @@
-Puccinia monopora Lindr. SPECIES
-=======
+# Puccinia monopora Lindr. SPECIES
 
 #### Status
 ACCEPTED

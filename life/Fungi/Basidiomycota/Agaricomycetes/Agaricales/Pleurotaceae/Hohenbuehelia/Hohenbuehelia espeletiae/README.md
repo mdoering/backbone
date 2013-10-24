@@ -1,5 +1,4 @@
-Hohenbuehelia espeletiae Singer, 1989 SPECIES
-=======
+# Hohenbuehelia espeletiae Singer, 1989 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Burrillia Setch. GENUS
-=======
+# Burrillia Setch. GENUS
 
 #### Status
 ACCEPTED

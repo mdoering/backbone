@@ -1,5 +1,4 @@
-Ramalina lojkana Motyka SPECIES
-=======
+# Ramalina lojkana Motyka SPECIES
 
 #### Status
 ACCEPTED

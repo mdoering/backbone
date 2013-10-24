@@ -1,5 +1,4 @@
-Erysibe epitea Wallr. SPECIES
-=======
+# Erysibe epitea Wallr. SPECIES
 
 #### Status
 ACCEPTED

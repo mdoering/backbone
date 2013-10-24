@@ -1,5 +1,4 @@
-Biatorina pyrophthalma (Mont.) Hellb. SPECIES
-=======
+# Biatorina pyrophthalma (Mont.) Hellb. SPECIES
 
 #### Status
 ACCEPTED

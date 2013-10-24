@@ -1,5 +1,4 @@
-Phaeolus luteo-olivaceus (Berk. & Broome) Pat. SPECIES
-=======
+# Phaeolus luteo-olivaceus (Berk. & Broome) Pat. SPECIES
 
 #### Status
 ACCEPTED

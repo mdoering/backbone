@@ -1,5 +1,4 @@
-Lycoperdon gulmargense K.S. Thind & I.P.S. Thind SPECIES
-=======
+# Lycoperdon gulmargense K.S. Thind & I.P.S. Thind SPECIES
 
 #### Status
 ACCEPTED

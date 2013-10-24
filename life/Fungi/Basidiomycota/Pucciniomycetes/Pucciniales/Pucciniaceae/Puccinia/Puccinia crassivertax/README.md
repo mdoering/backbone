@@ -1,5 +1,4 @@
-Puccinia crassivertax Thüm. SPECIES
-=======
+# Puccinia crassivertax Thüm. SPECIES
 
 #### Status
 ACCEPTED

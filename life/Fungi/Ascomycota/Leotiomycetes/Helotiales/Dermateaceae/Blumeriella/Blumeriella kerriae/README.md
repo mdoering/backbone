@@ -1,14 +1,13 @@
-Higginsia kerriae (V.B. Stewart) Nannf., 1932 SPECIES
-=======
+# Blumeriella kerriae (V.B. Stewart) Korf, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Acta R. Soc. Scient. upsal. 8(2): 175 (1932)
+Phytologia 21(4): 202 (1971)
 
 #### Original name
 Coccomyces kerriae V.B. Stewart, 1917

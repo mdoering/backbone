@@ -1,5 +1,4 @@
-Sphinctrina depressa H. Magn. SPECIES
-=======
+# Sphinctrina depressa H. Magn. SPECIES
 
 #### Status
 ACCEPTED

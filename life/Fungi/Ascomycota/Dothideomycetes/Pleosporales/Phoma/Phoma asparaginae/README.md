@@ -1,5 +1,4 @@
-Phoma asparaginae Tehon & G.L. Stout SPECIES
-=======
+# Phoma asparaginae Tehon & G.L. Stout SPECIES
 
 #### Status
 ACCEPTED

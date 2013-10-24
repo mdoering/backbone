@@ -1,5 +1,4 @@
-Leyanella arenaria G.R. Hasle, H.A. von Stosch & E.E. Syvertsen SPECIES
-=======
+# Leyanella arenaria G.R. Hasle, H.A. von Stosch & E.E. Syvertsen SPECIES
 
 #### Status
 ACCEPTED

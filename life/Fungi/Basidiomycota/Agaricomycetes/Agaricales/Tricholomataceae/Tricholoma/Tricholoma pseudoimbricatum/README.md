@@ -1,5 +1,4 @@
-Tricholoma pseudoimbricatum J.E. Lange & Terk. SPECIES
-=======
+# Tricholoma pseudoimbricatum J.E. Lange & Terk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Prillieuxina hippeastri (R.W. Ryan) Arx SPECIES
-=======
+# Prillieuxina hippeastri (R.W. Ryan) Arx SPECIES
 
 #### Status
 ACCEPTED

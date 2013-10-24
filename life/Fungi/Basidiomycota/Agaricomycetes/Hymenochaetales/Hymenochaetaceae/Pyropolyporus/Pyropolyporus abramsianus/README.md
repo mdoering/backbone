@@ -1,5 +1,4 @@
-Pyropolyporus abramsianus (Murrill) Sacc. & Trotter SPECIES
-=======
+# Pyropolyporus abramsianus (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

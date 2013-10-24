@@ -1,5 +1,4 @@
-Alicesphaeridium medusoidum Zang Wen-long in Zang Wen-long & Walter, 1992 SPECIES
-=======
+# Alicesphaeridium medusoidum Zang Wen-long in Zang Wen-long & Walter, 1992 SPECIES
 
 #### Status
 ACCEPTED

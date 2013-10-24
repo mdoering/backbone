@@ -1,5 +1,4 @@
-Ophiostoma polyporicola Constant. & Ryman, 1989 SPECIES
-=======
+# Ophiostoma polyporicola Constant. & Ryman, 1989 SPECIES
 
 #### Status
 ACCEPTED

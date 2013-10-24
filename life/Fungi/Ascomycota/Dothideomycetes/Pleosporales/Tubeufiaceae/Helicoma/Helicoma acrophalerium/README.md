@@ -1,5 +1,4 @@
-Helicoma acrophalerium R.T. Moore SPECIES
-=======
+# Helicoma acrophalerium R.T. Moore SPECIES
 
 #### Status
 ACCEPTED

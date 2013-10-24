@@ -1,5 +1,4 @@
-Coprinus brevisetulosus Arnolds SPECIES
-=======
+# Coprinus brevisetulosus Arnolds SPECIES
 
 #### Status
 ACCEPTED

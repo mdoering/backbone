@@ -1,5 +1,4 @@
-Watznaueria bayackii SPECIES
-=======
+# Watznaueria bayackii SPECIES
 
 #### Status
 ACCEPTED

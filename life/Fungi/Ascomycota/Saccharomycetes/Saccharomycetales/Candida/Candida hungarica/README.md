@@ -1,5 +1,4 @@
-Candida hungarica G. Péter, Tornai-Leh., Fülöp & Dlauchy SPECIES
-=======
+# Candida hungarica G. Péter, Tornai-Leh., Fülöp & Dlauchy SPECIES
 
 #### Status
 ACCEPTED

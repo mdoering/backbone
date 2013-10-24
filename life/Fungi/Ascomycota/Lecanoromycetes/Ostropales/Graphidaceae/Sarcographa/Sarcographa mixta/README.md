@@ -1,5 +1,4 @@
-Sarcographa mixta Fée SPECIES
-=======
+# Sarcographa mixta Fée SPECIES
 
 #### Status
 ACCEPTED

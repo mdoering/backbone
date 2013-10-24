@@ -1,5 +1,4 @@
-Triceratium weissei Grunow ex Witt SPECIES
-=======
+# Triceratium weissei Grunow ex Witt SPECIES
 
 #### Status
 ACCEPTED

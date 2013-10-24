@@ -1,5 +1,4 @@
-Stictis tenuis Fr. SPECIES
-=======
+# Stictis tenuis Fr. SPECIES
 
 #### Status
 ACCEPTED

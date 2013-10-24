@@ -1,8 +1,7 @@
-Bacillus thiaminolyticus (ex Kuno, 1951) Nakamura, 1990 SPECIES
-=======
+# Paenibacillus thiaminolyticus (Nakamura, 1990) Shida et al., 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

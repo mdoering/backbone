@@ -1,5 +1,4 @@
-Trematosphaeria endoxyloides Rehm ex Wegelin SPECIES
-=======
+# Trematosphaeria endoxyloides Rehm ex Wegelin SPECIES
 
 #### Status
 ACCEPTED

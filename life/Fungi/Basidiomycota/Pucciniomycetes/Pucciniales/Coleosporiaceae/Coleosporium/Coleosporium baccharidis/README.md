@@ -1,5 +1,4 @@
-Coleosporium baccharidis Cooke & Harkn. SPECIES
-=======
+# Coleosporium baccharidis Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

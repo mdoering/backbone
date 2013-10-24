@@ -1,5 +1,4 @@
-Caulerpites (A.T. Brongniart) Sternberg, 1833 GENUS
-=======
+# Caulerpites (A.T. Brongniart) Sternberg, 1833 GENUS
 
 #### Status
 ACCEPTED

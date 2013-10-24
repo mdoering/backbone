@@ -1,5 +1,4 @@
-Aspicilia subconfluens (H. Magn.) J.C. Wei SPECIES
-=======
+# Aspicilia subconfluens (H. Magn.) J.C. Wei SPECIES
 
 #### Status
 ACCEPTED

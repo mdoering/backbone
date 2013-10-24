@@ -1,5 +1,4 @@
-Omphalaria pyrenoides Nyl. SPECIES
-=======
+# Omphalaria pyrenoides Nyl. SPECIES
 
 #### Status
 ACCEPTED

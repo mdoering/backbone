@@ -1,5 +1,4 @@
-Pseudoruegeria Yoon, Lee, Kang, Lee & Oh, 2007 GENUS
-=======
+# Pseudoruegeria Yoon, Lee, Kang, Lee & Oh, 2007 GENUS
 
 #### Status
 ACCEPTED

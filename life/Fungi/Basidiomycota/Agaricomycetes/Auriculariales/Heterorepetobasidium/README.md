@@ -1,5 +1,4 @@
-Heterorepetobasidium Chee J. Chen & Oberw. GENUS
-=======
+# Heterorepetobasidium Chee J. Chen & Oberw. GENUS
 
 #### Status
 ACCEPTED

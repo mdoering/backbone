@@ -1,5 +1,4 @@
-Corticium incarnatum var. incarnatum VARIETY
-=======
+# Corticium incarnatum (Johan-Olsen) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 9: 235 (1891)
 
 #### Original name
-Corticium incarnatum var. incarnatum
+Pachysterigma incarnatum Johan-Olsen
 
 ### Remarks
 null

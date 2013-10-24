@@ -1,5 +1,4 @@
-Sphaerella acicola Cooke & Harkn. SPECIES
-=======
+# Sphaerella acicola Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

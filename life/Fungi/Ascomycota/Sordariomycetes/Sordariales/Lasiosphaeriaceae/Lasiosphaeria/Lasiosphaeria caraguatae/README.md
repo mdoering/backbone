@@ -1,5 +1,4 @@
-Lasiosphaeria caraguatae Bat. & H. Maia SPECIES
-=======
+# Lasiosphaeria caraguatae Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

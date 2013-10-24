@@ -1,5 +1,4 @@
-Micromphale ericetorum (Pers.) Gray SPECIES
-=======
+# Micromphale ericetorum (Pers.) Gray SPECIES
 
 #### Status
 ACCEPTED

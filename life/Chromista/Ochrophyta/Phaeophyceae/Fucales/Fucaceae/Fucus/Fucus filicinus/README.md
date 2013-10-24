@@ -1,5 +1,4 @@
-Fucus filicinus Hudson SPECIES
-=======
+# Fucus filicinus Hudson SPECIES
 
 #### Status
 ACCEPTED

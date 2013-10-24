@@ -1,5 +1,4 @@
-Palaeoperone endophytica D.E. Ether. SPECIES
-=======
+# Palaeoperone endophytica D.E. Ether. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria syriaca SPECIES
-=======
+# Verrucaria syriaca SPECIES
 
 #### Status
 ACCEPTED

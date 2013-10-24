@@ -1,5 +1,4 @@
-Zygosaccharomyces ochoterenai Rinz SPECIES
-=======
+# Zygosaccharomyces ochoterenai Rinz SPECIES
 
 #### Status
 ACCEPTED

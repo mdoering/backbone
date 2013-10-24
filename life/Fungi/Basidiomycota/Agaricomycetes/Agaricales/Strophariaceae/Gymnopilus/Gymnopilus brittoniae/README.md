@@ -1,5 +1,4 @@
-Gymnopilus brittoniae (Murrill) Singer SPECIES
-=======
+# Gymnopilus brittoniae (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

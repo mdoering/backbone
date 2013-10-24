@@ -1,5 +1,4 @@
-Acia ferruginea (Pers.) P. Karst. SPECIES
-=======
+# Acia ferruginea (Pers.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

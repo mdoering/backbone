@@ -1,5 +1,4 @@
-Helminthosporium microtrichum Corda SPECIES
-=======
+# Helminthosporium microtrichum Corda SPECIES
 
 #### Status
 ACCEPTED

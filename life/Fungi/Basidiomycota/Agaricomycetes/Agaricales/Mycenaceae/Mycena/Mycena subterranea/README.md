@@ -1,5 +1,4 @@
-Mycena subterranea Killerm. SPECIES
-=======
+# Mycena subterranea Killerm. SPECIES
 
 #### Status
 ACCEPTED

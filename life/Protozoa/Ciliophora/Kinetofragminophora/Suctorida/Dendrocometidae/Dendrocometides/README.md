@@ -1,5 +1,4 @@
-Dendrocometides Swarczewsky, 1928 GENUS
-=======
+# Dendrocometides Swarczewsky, 1928 GENUS
 
 #### Status
 ACCEPTED

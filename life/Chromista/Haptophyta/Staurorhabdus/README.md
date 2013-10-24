@@ -1,5 +1,4 @@
-Staurorhabdus D.Noël GENUS
-=======
+# Staurorhabdus D.Noël GENUS
 
 #### Status
 ACCEPTED

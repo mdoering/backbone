@@ -1,5 +1,4 @@
-Tricharia substipitata Vezda SPECIES
-=======
+# Tricharia substipitata Vezda SPECIES
 
 #### Status
 ACCEPTED

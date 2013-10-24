@@ -1,5 +1,4 @@
-Leptostroma manaosense Henn. SPECIES
-=======
+# Leptostroma manaosense Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectria bonanseana Sacc. SPECIES
-=======
+# Nectria bonanseana Sacc. SPECIES
 
 #### Status
 ACCEPTED

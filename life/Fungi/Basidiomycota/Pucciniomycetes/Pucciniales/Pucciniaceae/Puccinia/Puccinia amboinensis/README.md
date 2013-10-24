@@ -1,5 +1,4 @@
-Puccinia amboinensis Thüm. SPECIES
-=======
+# Puccinia amboinensis Thüm. SPECIES
 
 #### Status
 ACCEPTED

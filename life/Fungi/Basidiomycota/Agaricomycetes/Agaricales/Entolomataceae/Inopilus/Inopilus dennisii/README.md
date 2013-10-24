@@ -1,5 +1,4 @@
-Inopilus dennisii (E. Horak) Pegler SPECIES
-=======
+# Inopilus dennisii (E. Horak) Pegler SPECIES
 
 #### Status
 ACCEPTED

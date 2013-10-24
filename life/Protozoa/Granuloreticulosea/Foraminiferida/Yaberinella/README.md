@@ -1,5 +1,4 @@
-Yaberinella Vaughan, 1928 GENUS
-=======
+# Yaberinella Vaughan, 1928 GENUS
 
 #### Status
 ACCEPTED

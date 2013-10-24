@@ -1,5 +1,4 @@
-Syracosphaera dilatata Jordan et al., 1993 SPECIES
-=======
+# Syracosphaera dilatata Jordan et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

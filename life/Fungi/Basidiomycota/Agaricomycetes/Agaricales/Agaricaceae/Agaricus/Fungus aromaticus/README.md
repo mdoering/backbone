@@ -1,5 +1,4 @@
-Fungus aromaticus (Sowerby) Kuntze SPECIES
-=======
+# Fungus aromaticus (Sowerby) Kuntze SPECIES
 
 #### Status
 ACCEPTED

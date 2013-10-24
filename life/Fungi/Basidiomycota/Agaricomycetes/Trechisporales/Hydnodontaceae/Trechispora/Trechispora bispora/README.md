@@ -1,14 +1,13 @@
-Cristella bispora Warcup & P.H.B. Talbot, 1962 SPECIES
-=======
+# Trechispora bispora (Warcup & P.H.B. Talbot) Liberta, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 45(4): 507 (1962)
+Can. J. Bot. 51(10): 1881 (1973)
 
 #### Original name
 Cristella bispora Warcup & P.H.B. Talbot, 1962

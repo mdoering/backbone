@@ -1,5 +1,4 @@
-Phoma polemonii Cooke, 1885 SPECIES
-=======
+# Phoma polemonii Cooke, 1885 SPECIES
 
 #### Status
 ACCEPTED

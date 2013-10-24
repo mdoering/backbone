@@ -1,5 +1,4 @@
-Cytospora schulzeri Sacc. & P. Syd. SPECIES
-=======
+# Cytospora schulzeri Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

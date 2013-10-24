@@ -1,5 +1,4 @@
-Meliola pinicola Dearn. SPECIES
-=======
+# Meliola pinicola Dearn. SPECIES
 
 #### Status
 ACCEPTED

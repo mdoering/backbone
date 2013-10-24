@@ -1,17 +1,16 @@
-Camarosporium hymenocrateri Kalymb. SPECIES
-=======
+# Camarosporium hymenocrateris Kalymb. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Notul. Syst. Sect. Crypt. Inst. Bot. Acad. Sci. U. S. S. R. 13: 248 (1960)
 
 #### Original name
-Camarosporium hymenocrateri Kalymb.
+Camarosporium hymenocrateris Kalymb.
 
 ### Remarks
 null

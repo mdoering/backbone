@@ -1,5 +1,4 @@
-Scopulariopsis lilacea Svilv. SPECIES
-=======
+# Scopulariopsis lilacea Svilv. SPECIES
 
 #### Status
 ACCEPTED

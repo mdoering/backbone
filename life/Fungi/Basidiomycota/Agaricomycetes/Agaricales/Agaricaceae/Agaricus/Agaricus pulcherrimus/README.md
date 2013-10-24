@@ -1,5 +1,4 @@
-Agaricus pulcherrimus Peck SPECIES
-=======
+# Agaricus pulcherrimus Peck SPECIES
 
 #### Status
 ACCEPTED

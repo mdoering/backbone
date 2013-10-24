@@ -1,5 +1,4 @@
-Coniothyrium punithalingamii Abbas, B. Sutton & Ghaffar SPECIES
-=======
+# Coniothyrium punithalingamii Abbas, B. Sutton & Ghaffar SPECIES
 
 #### Status
 ACCEPTED

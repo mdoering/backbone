@@ -1,5 +1,4 @@
-Clypeomyces Kirschst. GENUS
-=======
+# Clypeomyces Kirschst. GENUS
 
 #### Status
 ACCEPTED

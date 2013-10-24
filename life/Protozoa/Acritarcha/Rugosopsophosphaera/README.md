@@ -1,5 +1,4 @@
-Rugosopsophosphaera Naumova, 1964 GENUS
-=======
+# Rugosopsophosphaera Naumova, 1964 GENUS
 
 #### Status
 ACCEPTED

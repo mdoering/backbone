@@ -1,5 +1,4 @@
-Konenia bambusae Hara, 1913 SPECIES
-=======
+# Konenia bambusae Hara, 1913 SPECIES
 
 #### Status
 ACCEPTED

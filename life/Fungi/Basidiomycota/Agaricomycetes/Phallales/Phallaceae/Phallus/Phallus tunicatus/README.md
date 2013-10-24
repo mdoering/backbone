@@ -1,5 +1,4 @@
-Phallus tunicatus Welw. & Curr. SPECIES
-=======
+# Phallus tunicatus Welw. & Curr. SPECIES
 
 #### Status
 ACCEPTED

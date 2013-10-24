@@ -1,5 +1,4 @@
-Bacidia fulvula (Müll. Arg.) SPECIES
-=======
+# Bacidia fulvula (Müll. Arg.) SPECIES
 
 #### Status
 ACCEPTED

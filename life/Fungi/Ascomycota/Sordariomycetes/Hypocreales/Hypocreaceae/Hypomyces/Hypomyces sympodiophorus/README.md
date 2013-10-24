@@ -1,5 +1,4 @@
-Hypomyces sympodiophorus Rogerson & Samuels, 1993 SPECIES
-=======
+# Hypomyces sympodiophorus Rogerson & Samuels, 1993 SPECIES
 
 #### Status
 ACCEPTED

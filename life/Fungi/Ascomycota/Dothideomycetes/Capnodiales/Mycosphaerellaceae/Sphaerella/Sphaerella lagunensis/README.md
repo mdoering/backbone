@@ -1,5 +1,4 @@
-Sphaerella lagunensis (Syd.) Sacc. SPECIES
-=======
+# Sphaerella lagunensis (Syd.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichomyces GENUS
-=======
+# Trichomyces GENUS
 
 #### Status
 ACCEPTED

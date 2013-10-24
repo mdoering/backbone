@@ -1,5 +1,4 @@
-Leiosphaeridia lopukhinii Fensome et al., 1990 SPECIES
-=======
+# Leiosphaeridia lopukhinii Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

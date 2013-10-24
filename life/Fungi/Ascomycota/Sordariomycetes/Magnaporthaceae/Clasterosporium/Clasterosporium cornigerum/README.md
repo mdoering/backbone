@@ -1,5 +1,4 @@
-Clasterosporium cornigerum Ellis & Everh. SPECIES
-=======
+# Clasterosporium cornigerum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

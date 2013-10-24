@@ -1,5 +1,4 @@
-Sphaeria conoplea Lib. SPECIES
-=======
+# Sphaeria conoplea Lib. SPECIES
 
 #### Status
 ACCEPTED

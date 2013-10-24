@@ -1,5 +1,4 @@
-Phyllosticta velata Bubák SPECIES
-=======
+# Phyllosticta velata Bubák SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Petalomonas asymmetrica Schawhan & Jahn SPECIES
-=======
+# Petalomonas asymmetrica Schawhan & Jahn SPECIES
 
 #### Status
 ACCEPTED

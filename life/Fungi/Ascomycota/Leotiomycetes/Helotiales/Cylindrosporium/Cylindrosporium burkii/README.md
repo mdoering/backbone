@@ -1,5 +1,4 @@
-Cylindrosporium burkii W.B. Cooke & C.G. Shaw SPECIES
-=======
+# Cylindrosporium burkii W.B. Cooke & C.G. Shaw SPECIES
 
 #### Status
 ACCEPTED

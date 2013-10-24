@@ -1,5 +1,4 @@
-Entoloma albidocoeruleum G.M. Gates & Noordel. SPECIES
-=======
+# Entoloma albidocoeruleum G.M. Gates & Noordel. SPECIES
 
 #### Status
 ACCEPTED

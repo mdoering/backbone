@@ -1,5 +1,4 @@
-Cyathus nitidus Roth SPECIES
-=======
+# Cyathus nitidus Roth SPECIES
 
 #### Status
 ACCEPTED

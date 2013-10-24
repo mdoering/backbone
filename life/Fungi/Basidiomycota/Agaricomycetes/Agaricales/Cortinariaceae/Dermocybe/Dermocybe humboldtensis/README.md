@@ -1,5 +1,4 @@
-Dermocybe humboldtensis (Ammirati & A.H. Sm.) Ammirati SPECIES
-=======
+# Dermocybe humboldtensis (Ammirati & A.H. Sm.) Ammirati SPECIES
 
 #### Status
 ACCEPTED

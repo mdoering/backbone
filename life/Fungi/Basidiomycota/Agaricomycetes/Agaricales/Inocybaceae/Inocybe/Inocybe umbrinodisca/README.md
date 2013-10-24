@@ -1,5 +1,4 @@
-Inocybe umbrinodisca Kühner SPECIES
-=======
+# Inocybe umbrinodisca Kühner SPECIES
 
 #### Status
 ACCEPTED

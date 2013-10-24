@@ -1,5 +1,4 @@
-Solenopsora paskovskiana Cretz. SPECIES
-=======
+# Solenopsora paskovskiana Cretz. SPECIES
 
 #### Status
 ACCEPTED

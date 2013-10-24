@@ -1,5 +1,4 @@
-Rhizolekane sessilis Pascher SPECIES
-=======
+# Rhizolekane sessilis Pascher SPECIES
 
 #### Status
 ACCEPTED

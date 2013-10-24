@@ -1,5 +1,4 @@
-Phomopsis pterocarpi S. Hughes SPECIES
-=======
+# Phomopsis pterocarpi S. Hughes SPECIES
 
 #### Status
 ACCEPTED

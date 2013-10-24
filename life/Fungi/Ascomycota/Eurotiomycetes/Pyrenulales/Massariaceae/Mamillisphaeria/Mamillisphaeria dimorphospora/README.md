@@ -1,5 +1,4 @@
-Mamillisphaeria dimorphospora K.D. Hyde, S.W. Wong & E.B.G. Jones SPECIES
-=======
+# Mamillisphaeria dimorphospora K.D. Hyde, S.W. Wong & E.B.G. Jones SPECIES
 
 #### Status
 ACCEPTED

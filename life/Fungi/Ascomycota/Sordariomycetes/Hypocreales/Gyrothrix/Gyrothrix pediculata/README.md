@@ -1,5 +1,4 @@
-Gyrothrix pediculata J.L. Cunn., 1974 SPECIES
-=======
+# Gyrothrix pediculata J.L. Cunn., 1974 SPECIES
 
 #### Status
 ACCEPTED

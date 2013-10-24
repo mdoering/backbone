@@ -1,5 +1,4 @@
-Dichitonium melleum Berk. & M.A. Curtis SPECIES
-=======
+# Dichitonium melleum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

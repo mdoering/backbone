@@ -1,5 +1,4 @@
-Dentalina advena SPECIES
-=======
+# Dentalina advena SPECIES
 
 #### Status
 ACCEPTED

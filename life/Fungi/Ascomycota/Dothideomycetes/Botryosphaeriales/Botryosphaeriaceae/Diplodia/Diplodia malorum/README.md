@@ -1,5 +1,4 @@
-Diplodia malorum Fuckel, 1870 SPECIES
-=======
+# Diplodia malorum Fuckel, 1870 SPECIES
 
 #### Status
 ACCEPTED

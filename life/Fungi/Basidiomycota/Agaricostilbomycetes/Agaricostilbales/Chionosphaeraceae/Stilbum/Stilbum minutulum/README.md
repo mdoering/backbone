@@ -1,5 +1,4 @@
-Stilbum minutulum Penz. & Sacc. SPECIES
-=======
+# Stilbum minutulum Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

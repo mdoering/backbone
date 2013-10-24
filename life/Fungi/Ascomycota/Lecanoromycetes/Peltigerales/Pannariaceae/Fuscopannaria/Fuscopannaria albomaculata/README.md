@@ -1,5 +1,4 @@
-Fuscopannaria albomaculata P. M. Jørg. SPECIES
-=======
+# Fuscopannaria albomaculata P. M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

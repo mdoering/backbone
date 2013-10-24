@@ -1,5 +1,4 @@
-Lasiosphaeria geranii Rieuf SPECIES
-=======
+# Lasiosphaeria geranii Rieuf SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypocopra gigaspora (Fuckel) Sacc. SPECIES
-=======
+# Hypocopra gigaspora (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

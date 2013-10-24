@@ -1,5 +1,4 @@
-Aspergillus yezoensis Y. Sasaki SPECIES
-=======
+# Aspergillus yezoensis Y. Sasaki SPECIES
 
 #### Status
 ACCEPTED

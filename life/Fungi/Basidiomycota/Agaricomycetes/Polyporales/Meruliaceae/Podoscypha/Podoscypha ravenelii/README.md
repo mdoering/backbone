@@ -1,17 +1,16 @@
-Stereum pergameneum var. ramosum Pat. VARIETY
-=======
+# Podoscypha ravenelii (Berk. & M.A. Curtis) Pat., 1900 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Bot. Morot 4: 20 (1890)
+Essai Tax. Hyménomyc. (Lons-le-Saunier) 71 (1900)
 
 #### Original name
-Stereum pergameneum var. ramosum Pat.
+Stereum ravenelii Berk. & M.A. Curtis, 1873
 
 ### Remarks
 null

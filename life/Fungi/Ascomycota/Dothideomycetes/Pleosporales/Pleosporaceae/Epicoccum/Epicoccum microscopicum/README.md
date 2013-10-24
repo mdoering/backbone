@@ -1,5 +1,4 @@
-Epicoccum microscopicum Henn. SPECIES
-=======
+# Epicoccum microscopicum Henn. SPECIES
 
 #### Status
 ACCEPTED

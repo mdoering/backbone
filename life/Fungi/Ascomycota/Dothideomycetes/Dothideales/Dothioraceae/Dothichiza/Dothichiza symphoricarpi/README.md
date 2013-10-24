@@ -1,5 +1,4 @@
-Dothichiza symphoricarpi Petr. SPECIES
-=======
+# Dothichiza symphoricarpi Petr. SPECIES
 
 #### Status
 ACCEPTED

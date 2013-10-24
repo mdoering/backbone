@@ -1,5 +1,4 @@
-Pseudopeziza astrantiae J. Schröt. SPECIES
-=======
+# Pseudopeziza astrantiae J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ceriporia cystidiata Ryvarden & Iturr., 2003 SPECIES
-=======
+# Ceriporia cystidiata Ryvarden & Iturr., 2003 SPECIES
 
 #### Status
 ACCEPTED

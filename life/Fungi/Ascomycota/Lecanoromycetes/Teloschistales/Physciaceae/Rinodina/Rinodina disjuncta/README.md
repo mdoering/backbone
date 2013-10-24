@@ -1,5 +1,4 @@
-Rinodina disjuncta Sheard & Tønsberg SPECIES
-=======
+# Rinodina disjuncta Sheard & Tønsberg SPECIES
 
 #### Status
 ACCEPTED

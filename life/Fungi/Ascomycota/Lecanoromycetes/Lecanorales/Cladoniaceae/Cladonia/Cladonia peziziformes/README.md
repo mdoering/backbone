@@ -1,5 +1,4 @@
-Cladonia peziziformes (With.) J.R. Laundon SPECIES
-=======
+# Cladonia peziziformes (With.) J.R. Laundon SPECIES
 
 #### Status
 ACCEPTED

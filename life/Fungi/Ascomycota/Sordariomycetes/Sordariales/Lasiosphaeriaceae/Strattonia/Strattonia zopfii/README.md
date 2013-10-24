@@ -1,5 +1,4 @@
-Strattonia zopfii N. Lundq. SPECIES
-=======
+# Strattonia zopfii N. Lundq. SPECIES
 
 #### Status
 ACCEPTED

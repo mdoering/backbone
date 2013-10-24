@@ -1,5 +1,4 @@
-Chrysocystis Lobban, D.Honda & Chihara, 1995 GENUS
-=======
+# Chrysocystis Lobban, D.Honda & Chihara, 1995 GENUS
 
 #### Status
 ACCEPTED

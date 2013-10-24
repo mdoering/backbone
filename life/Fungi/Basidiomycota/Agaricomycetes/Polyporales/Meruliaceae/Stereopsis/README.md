@@ -1,5 +1,4 @@
-Stereopsis D.A. Reid, 1965 GENUS
-=======
+# Stereopsis D.A. Reid, 1965 GENUS
 
 #### Status
 ACCEPTED

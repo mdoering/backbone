@@ -1,5 +1,4 @@
-Pavillardia Kofoid & Swezy, 1920 GENUS
-=======
+# Pavillardia Kofoid & Swezy, 1920 GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Stenocephalus Schneider, 1875 GENUS
-=======
+# Stenophora Labbé, 1899 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 IRMNG Homonym List
 
 #### Published in
-Arch. Zool. exp. gén. , Paris, 4, 584.
+Tierreich, 5, 15.
 
 #### Original name
-null
+Stenocephalus Schneider, 1875
 
 ### Remarks
 null

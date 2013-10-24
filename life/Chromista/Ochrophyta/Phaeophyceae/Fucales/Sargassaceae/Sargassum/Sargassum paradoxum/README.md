@@ -1,8 +1,7 @@
-Fucus paradoxus R.Brown ex Turner SPECIES
-=======
+# Sargassum paradoxum (R.Brown ex Turner) Gaillon SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

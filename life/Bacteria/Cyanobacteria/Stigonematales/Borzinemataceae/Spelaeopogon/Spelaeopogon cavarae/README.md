@@ -1,5 +1,4 @@
-Spelaeopogon cavarae Borzi SPECIES
-=======
+# Spelaeopogon cavarae Borzi SPECIES
 
 #### Status
 ACCEPTED

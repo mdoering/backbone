@@ -1,5 +1,4 @@
-Arthopyrenia betulae A. Massal. SPECIES
-=======
+# Arthopyrenia betulae A. Massal. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scolecobasidium trichoides Narayan & Kamal SPECIES
-=======
+# Scolecobasidium trichoides Narayan & Kamal SPECIES
 
 #### Status
 ACCEPTED

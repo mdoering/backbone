@@ -1,5 +1,4 @@
-Dimeromyces chaetospaniae Thaxt. SPECIES
-=======
+# Dimeromyces chaetospaniae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

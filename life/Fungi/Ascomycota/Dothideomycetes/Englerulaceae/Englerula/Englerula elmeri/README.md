@@ -1,5 +1,4 @@
-Englerula elmeri (Syd.) Arx SPECIES
-=======
+# Englerula elmeri (Syd.) Arx SPECIES
 
 #### Status
 ACCEPTED

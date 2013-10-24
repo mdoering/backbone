@@ -1,5 +1,4 @@
-Leucogomphidius GENUS
-=======
+# Leucogomphidius GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypomyces pergamenus Rogerson & Samuels SPECIES
-=======
+# Hypomyces pergamenus Rogerson & Samuels SPECIES
 
 #### Status
 ACCEPTED

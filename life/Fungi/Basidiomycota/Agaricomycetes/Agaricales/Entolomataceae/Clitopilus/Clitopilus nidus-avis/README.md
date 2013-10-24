@@ -1,5 +1,4 @@
-Clitopilus nidus-avis Secr. SPECIES
-=======
+# Clitopilus nidus-avis Secr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tectitheca filigera Burmann, 1968 SPECIES
-=======
+# Tectitheca filigera Burmann, 1968 SPECIES
 
 #### Status
 ACCEPTED

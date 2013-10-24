@@ -1,5 +1,4 @@
-Rosalina adhaerens SPECIES
-=======
+# Rosalina adhaerens SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia tegularis (Ehrh.) Spreng. SPECIES
-=======
+# Parmelia tegularis (Ehrh.) Spreng. SPECIES
 
 #### Status
 ACCEPTED

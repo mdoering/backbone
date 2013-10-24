@@ -1,5 +1,4 @@
-Biscutum finchii SPECIES
-=======
+# Biscutum finchii SPECIES
 
 #### Status
 ACCEPTED

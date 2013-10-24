@@ -1,5 +1,4 @@
-Leveillula rubiae Khodap., U. Braun & Hamz. Zargh. SPECIES
-=======
+# Leveillula rubiae Khodap., U. Braun & Hamz. Zargh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Blastenia borzae Cretz. SPECIES
-=======
+# Blastenia borzae Cretz. SPECIES
 
 #### Status
 ACCEPTED

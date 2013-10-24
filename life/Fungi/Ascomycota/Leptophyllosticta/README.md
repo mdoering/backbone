@@ -1,5 +1,4 @@
-Leptophyllosticta I.E. Brezhnev GENUS
-=======
+# Leptophyllosticta I.E. Brezhnev GENUS
 
 #### Status
 ACCEPTED

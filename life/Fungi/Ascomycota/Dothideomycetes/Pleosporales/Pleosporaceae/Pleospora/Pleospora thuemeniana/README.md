@@ -1,5 +1,4 @@
-Pleospora thuemeniana Sacc. SPECIES
-=======
+# Pleospora thuemeniana Sacc. SPECIES
 
 #### Status
 ACCEPTED

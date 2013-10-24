@@ -1,5 +1,4 @@
-Agaricus centurio Kalchbr. SPECIES
-=======
+# Agaricus centurio Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

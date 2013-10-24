@@ -1,5 +1,4 @@
-Dothiorella prosopidina S. Ahmad SPECIES
-=======
+# Dothiorella prosopidina S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

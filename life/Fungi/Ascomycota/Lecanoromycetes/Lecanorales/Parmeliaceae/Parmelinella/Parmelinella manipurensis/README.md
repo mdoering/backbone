@@ -1,14 +1,13 @@
-Parmelina manipurensis Kr. P. Singh SPECIES
-=======
+# Parmelinella manipurensis (Kr. P. Singh) Elix & Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bryologist 83(4): 533 (1981)
+Mycotaxon 29: 241 (1987)
 
 #### Original name
 Parmelina manipurensis Kr. P. Singh

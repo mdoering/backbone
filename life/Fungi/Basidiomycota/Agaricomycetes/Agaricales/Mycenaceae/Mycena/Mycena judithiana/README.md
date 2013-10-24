@@ -1,5 +1,4 @@
-Mycena judithiana Bougher SPECIES
-=======
+# Mycena judithiana Bougher SPECIES
 
 #### Status
 ACCEPTED

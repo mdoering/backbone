@@ -1,5 +1,4 @@
-Ramalina feldmanni Faurel, Ozenda & Schotter SPECIES
-=======
+# Ramalina feldmanni Faurel, Ozenda & Schotter SPECIES
 
 #### Status
 ACCEPTED

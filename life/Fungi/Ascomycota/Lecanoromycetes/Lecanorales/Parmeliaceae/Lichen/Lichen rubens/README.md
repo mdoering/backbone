@@ -1,5 +1,4 @@
-Lichen rubens (Weigel) Hoffm. SPECIES
-=======
+# Lichen rubens (Weigel) Hoffm. SPECIES
 
 #### Status
 ACCEPTED

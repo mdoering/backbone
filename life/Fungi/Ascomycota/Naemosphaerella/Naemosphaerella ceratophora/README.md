@@ -1,14 +1,13 @@
-Sphaeropsis ceratophora Speg. SPECIES
-=======
+# Naemosphaerella ceratophora (Speg.) Petr. & Syd., 1927 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Feddes Repert. Spec. Nov. Regni Veg. , Beih. 42: 479 (1927)
 
 #### Original name
 null

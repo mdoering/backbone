@@ -1,5 +1,4 @@
-Clavispora reshetovae Yurkov, A.M. Schäfer & Begerow, 2009 SPECIES
-=======
+# Clavispora reshetovae Yurkov, A.M. Schäfer & Begerow, 2009 SPECIES
 
 #### Status
 ACCEPTED

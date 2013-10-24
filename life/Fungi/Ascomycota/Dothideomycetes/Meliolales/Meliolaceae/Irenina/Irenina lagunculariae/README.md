@@ -1,5 +1,4 @@
-Irenina lagunculariae (Earle) F. Stevens SPECIES
-=======
+# Irenina lagunculariae (Earle) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

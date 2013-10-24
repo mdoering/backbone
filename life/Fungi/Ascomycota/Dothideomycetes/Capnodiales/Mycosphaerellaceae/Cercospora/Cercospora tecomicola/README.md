@@ -1,5 +1,4 @@
-Cercospora tecomicola J.M. Yen SPECIES
-=======
+# Cercospora tecomicola J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

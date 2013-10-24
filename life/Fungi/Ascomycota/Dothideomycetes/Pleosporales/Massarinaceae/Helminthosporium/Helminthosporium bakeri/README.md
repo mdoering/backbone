@@ -1,5 +1,4 @@
-Helminthosporium bakeri Syd. & P. Syd. SPECIES
-=======
+# Helminthosporium bakeri Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

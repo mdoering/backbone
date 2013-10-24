@@ -1,5 +1,4 @@
-Metarhizium novazealandicum (Driver & Milner) SPECIES
-=======
+# Metarhizium novazealandicum (Driver & Milner) SPECIES
 
 #### Status
 ACCEPTED

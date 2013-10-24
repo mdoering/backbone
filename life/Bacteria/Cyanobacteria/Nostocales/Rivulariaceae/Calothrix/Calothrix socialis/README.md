@@ -1,5 +1,4 @@
-Calothrix socialis Berl. SPECIES
-=======
+# Calothrix socialis Berl. SPECIES
 
 #### Status
 ACCEPTED

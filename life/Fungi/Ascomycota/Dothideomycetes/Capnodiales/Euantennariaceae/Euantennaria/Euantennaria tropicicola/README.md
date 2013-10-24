@@ -1,5 +1,4 @@
-Euantennaria tropicicola Speg., 1919 SPECIES
-=======
+# Euantennaria tropicicola Speg., 1919 SPECIES
 
 #### Status
 ACCEPTED

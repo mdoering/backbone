@@ -1,5 +1,4 @@
-Gymnodinium mammosum Van Meel SPECIES
-=======
+# Gymnodinium mammosum Van Meel SPECIES
 
 #### Status
 ACCEPTED

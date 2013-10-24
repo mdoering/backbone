@@ -1,5 +1,4 @@
-Galactinia rouastiana (Boud.) Le Gal SPECIES
-=======
+# Galactinia rouastiana (Boud.) Le Gal SPECIES
 
 #### Status
 ACCEPTED

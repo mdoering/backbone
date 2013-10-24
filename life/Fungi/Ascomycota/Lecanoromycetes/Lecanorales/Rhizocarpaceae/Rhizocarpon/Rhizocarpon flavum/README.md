@@ -1,5 +1,4 @@
-Rhizocarpon flavum f. flavum FORM
-=======
+# Rhizocarpon flavum C.W. Dodge & G.E. Baker SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Rhizocarpon flavum f. flavum
+Rhizocarpon flavum C.W. Dodge & G.E. Baker
 
 ### Remarks
 null

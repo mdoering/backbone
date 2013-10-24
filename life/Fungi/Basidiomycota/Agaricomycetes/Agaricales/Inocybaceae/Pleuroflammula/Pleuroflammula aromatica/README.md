@@ -1,5 +1,4 @@
-Pleuroflammula aromatica (Murrill) E. Horak SPECIES
-=======
+# Pleuroflammula aromatica (Murrill) E. Horak SPECIES
 
 #### Status
 ACCEPTED

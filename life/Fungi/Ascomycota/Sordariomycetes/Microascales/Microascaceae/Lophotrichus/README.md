@@ -1,5 +1,4 @@
-Lophotrichus R.K. Benj. GENUS
-=======
+# Lophotrichus R.K. Benj. GENUS
 
 #### Status
 ACCEPTED

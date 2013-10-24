@@ -1,5 +1,4 @@
-Xylaria fulvolanata Berk. SPECIES
-=======
+# Xylaria fulvolanata Berk. SPECIES
 
 #### Status
 ACCEPTED

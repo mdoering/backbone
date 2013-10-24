@@ -1,5 +1,4 @@
-Hendersonia solanicola Henn. SPECIES
-=======
+# Hendersonia solanicola Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dictyosporium triramosum Aramb., Cabello & Cazau SPECIES
-=======
+# Dictyosporium triramosum Aramb., Cabello & Cazau SPECIES
 
 #### Status
 ACCEPTED

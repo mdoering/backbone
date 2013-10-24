@@ -1,5 +1,4 @@
-Phyllostictina anthocephali G.P. Agarwal & V.P. Sahni SPECIES
-=======
+# Phyllostictina anthocephali G.P. Agarwal & V.P. Sahni SPECIES
 
 #### Status
 ACCEPTED

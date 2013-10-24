@@ -1,5 +1,4 @@
-Mucor spinacea Sowerby SPECIES
-=======
+# Mucor spinacea Sowerby SPECIES
 
 #### Status
 ACCEPTED

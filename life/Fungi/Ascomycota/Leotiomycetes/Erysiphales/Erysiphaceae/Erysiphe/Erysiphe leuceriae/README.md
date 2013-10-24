@@ -1,5 +1,4 @@
-Erysiphe leuceriae Havryl. SPECIES
-=======
+# Erysiphe leuceriae Havryl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Flammula flavidella (Murrill) Sacc. & Trotter SPECIES
-=======
+# Flammula flavidella (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

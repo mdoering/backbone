@@ -1,5 +1,4 @@
-Alternaria sonchi Davis, 1916 SPECIES
-=======
+# Alternaria sonchi Davis, 1916 SPECIES
 
 #### Status
 ACCEPTED

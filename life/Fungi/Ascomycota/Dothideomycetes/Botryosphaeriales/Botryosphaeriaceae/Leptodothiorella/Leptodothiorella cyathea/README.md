@@ -1,5 +1,4 @@
-Leptodothiorella cyathea Syd. SPECIES
-=======
+# Leptodothiorella cyathea Syd. SPECIES
 
 #### Status
 ACCEPTED

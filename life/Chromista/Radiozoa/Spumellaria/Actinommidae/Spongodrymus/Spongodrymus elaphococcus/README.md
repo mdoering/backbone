@@ -1,5 +1,4 @@
-Spongodrymus elaphococcus Haeckel, 1887 SPECIES
-=======
+# Spongodrymus elaphococcus Haeckel, 1887 SPECIES
 
 #### Status
 ACCEPTED

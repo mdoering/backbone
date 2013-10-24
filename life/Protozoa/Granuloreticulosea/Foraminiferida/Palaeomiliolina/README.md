@@ -1,5 +1,4 @@
-Palaeomiliolina GENUS
-=======
+# Palaeomiliolina GENUS
 
 #### Status
 ACCEPTED

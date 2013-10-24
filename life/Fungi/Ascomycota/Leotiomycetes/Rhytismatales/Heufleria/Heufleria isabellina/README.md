@@ -1,5 +1,4 @@
-Heufleria isabellina (Eschw.) Trevis. SPECIES
-=======
+# Heufleria isabellina (Eschw.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

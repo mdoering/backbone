@@ -1,5 +1,4 @@
-Flosculomyces trilobatus Onofri, 1984 SPECIES
-=======
+# Flosculomyces trilobatus Onofri, 1984 SPECIES
 
 #### Status
 ACCEPTED

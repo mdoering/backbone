@@ -1,5 +1,4 @@
-Marasmius badiiceps Corner SPECIES
-=======
+# Marasmius badiiceps Corner SPECIES
 
 #### Status
 ACCEPTED

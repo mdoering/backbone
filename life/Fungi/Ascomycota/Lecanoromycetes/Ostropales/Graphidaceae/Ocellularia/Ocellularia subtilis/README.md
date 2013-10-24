@@ -1,5 +1,4 @@
-Ocellularia subtilis (Tuck.) Riddle, 1920 SPECIES
-=======
+# Ocellularia subtilis (Tuck.) Riddle, 1920 SPECIES
 
 #### Status
 ACCEPTED

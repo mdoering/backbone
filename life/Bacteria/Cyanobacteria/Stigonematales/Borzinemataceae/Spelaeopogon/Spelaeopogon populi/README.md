@@ -1,5 +1,4 @@
-Spelaeopogon populi P. González SPECIES
-=======
+# Spelaeopogon populi P. González SPECIES
 
 #### Status
 ACCEPTED

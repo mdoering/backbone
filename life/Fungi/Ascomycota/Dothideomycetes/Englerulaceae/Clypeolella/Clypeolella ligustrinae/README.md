@@ -1,5 +1,4 @@
-Clypeolella ligustrinae Bat. & Peres SPECIES
-=======
+# Clypeolella ligustrinae Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

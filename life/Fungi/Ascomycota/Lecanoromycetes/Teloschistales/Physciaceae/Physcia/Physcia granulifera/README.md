@@ -1,5 +1,4 @@
-Physcia granulifera SPECIES
-=======
+# Physcia granulifera SPECIES
 
 #### Status
 ACCEPTED

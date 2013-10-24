@@ -1,5 +1,4 @@
-Halomonas halodenitrificans (Robinson & Gibbons, 1952) Dobson & Franzmann, 1996 SPECIES
-=======
+# Halomonas halodenitrificans (Robinson & Gibbons, 1952) Dobson & Franzmann, 1996 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xanthoparmelia lobulifera Hale SPECIES
-=======
+# Xanthoparmelia lobulifera Hale SPECIES
 
 #### Status
 ACCEPTED

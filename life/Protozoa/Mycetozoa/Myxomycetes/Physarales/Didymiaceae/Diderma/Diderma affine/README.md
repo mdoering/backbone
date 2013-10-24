@@ -1,5 +1,4 @@
-Diderma affine (Rostaf.) Kuntze SPECIES
-=======
+# Diderma affine (Rostaf.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

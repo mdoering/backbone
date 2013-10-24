@@ -1,5 +1,4 @@
-Cercospora chionanthi-retusi Togashi & Katsuki SPECIES
-=======
+# Cercospora chionanthi-retusi Togashi & Katsuki SPECIES
 
 #### Status
 ACCEPTED

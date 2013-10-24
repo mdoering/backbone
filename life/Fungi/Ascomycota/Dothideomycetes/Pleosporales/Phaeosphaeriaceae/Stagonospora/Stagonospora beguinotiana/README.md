@@ -1,5 +1,4 @@
-Stagonospora beguinotiana (Sacc.) Aa SPECIES
-=======
+# Stagonospora beguinotiana (Sacc.) Aa SPECIES
 
 #### Status
 ACCEPTED

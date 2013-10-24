@@ -1,5 +1,4 @@
-Macroallantina Speer GENUS
-=======
+# Macroallantina Speer GENUS
 
 #### Status
 ACCEPTED

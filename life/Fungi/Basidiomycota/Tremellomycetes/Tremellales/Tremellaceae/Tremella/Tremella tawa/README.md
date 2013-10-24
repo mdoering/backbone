@@ -1,5 +1,4 @@
-Tremella tawa McNabb, 1990 SPECIES
-=======
+# Tremella tawa McNabb, 1990 SPECIES
 
 #### Status
 ACCEPTED

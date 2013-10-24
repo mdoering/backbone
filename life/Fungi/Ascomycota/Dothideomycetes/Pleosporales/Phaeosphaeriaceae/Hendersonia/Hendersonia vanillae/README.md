@@ -1,5 +1,4 @@
-Hendersonia vanillae Av.-Saccá SPECIES
-=======
+# Hendersonia vanillae Av.-Saccá SPECIES
 
 #### Status
 ACCEPTED

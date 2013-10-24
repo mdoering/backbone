@@ -1,5 +1,4 @@
-Pseudospirocyclina Hottinger, 1967 GENUS
-=======
+# Pseudospirocyclina Hottinger, 1967 GENUS
 
 #### Status
 ACCEPTED

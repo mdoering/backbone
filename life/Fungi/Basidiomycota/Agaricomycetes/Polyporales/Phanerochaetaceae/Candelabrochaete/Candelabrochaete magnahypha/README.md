@@ -1,14 +1,13 @@
-Odonticium magnahypha (Burt) Zmitr. & Spirin, 2006 SPECIES
-=======
+# Candelabrochaete magnahypha (Burt) Burds., 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Zmitrovich, Malysheva & Spirin, Mycena 6: 40 (2006)
+Mycotaxon 19: 391 (1984)
 
 #### Original name
 Peniophora magnahypha Burt, 1926

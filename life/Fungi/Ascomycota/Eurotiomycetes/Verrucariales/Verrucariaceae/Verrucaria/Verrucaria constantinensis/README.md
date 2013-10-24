@@ -1,5 +1,4 @@
-Verrucaria constantinensis Servít SPECIES
-=======
+# Verrucaria constantinensis Servít SPECIES
 
 #### Status
 ACCEPTED

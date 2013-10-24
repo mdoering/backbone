@@ -1,5 +1,4 @@
-Phyllosticta ariaefoliae Allesch. SPECIES
-=======
+# Phyllosticta ariaefoliae Allesch. SPECIES
 
 #### Status
 ACCEPTED

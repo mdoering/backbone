@@ -1,5 +1,4 @@
-Agaricus subacidus Pers. SPECIES
-=======
+# Agaricus subacidus Pers. SPECIES
 
 #### Status
 ACCEPTED

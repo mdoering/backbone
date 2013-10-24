@@ -1,5 +1,4 @@
-Poromycena amazonensis Corner SPECIES
-=======
+# Poromycena amazonensis Corner SPECIES
 
 #### Status
 ACCEPTED

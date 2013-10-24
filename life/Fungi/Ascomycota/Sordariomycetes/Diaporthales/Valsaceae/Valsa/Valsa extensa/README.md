@@ -1,5 +1,4 @@
-Valsa extensa Fr. SPECIES
-=======
+# Valsa extensa Fr. SPECIES
 
 #### Status
 ACCEPTED

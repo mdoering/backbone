@@ -1,5 +1,4 @@
-Polyporus vadosus Lloyd SPECIES
-=======
+# Polyporus vadosus Lloyd SPECIES
 
 #### Status
 ACCEPTED

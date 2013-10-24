@@ -1,5 +1,4 @@
-Sclerotium mendax Sacc. SPECIES
-=======
+# Sclerotium mendax Sacc. SPECIES
 
 #### Status
 ACCEPTED

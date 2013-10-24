@@ -1,5 +1,4 @@
-Bacidia uvulina Zahlbr. SPECIES
-=======
+# Bacidia uvulina Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

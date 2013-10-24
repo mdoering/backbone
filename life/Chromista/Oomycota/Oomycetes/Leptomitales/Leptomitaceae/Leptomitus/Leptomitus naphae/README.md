@@ -1,5 +1,4 @@
-Leptomitus naphae Kütz. SPECIES
-=======
+# Leptomitus naphae Kütz. SPECIES
 
 #### Status
 ACCEPTED

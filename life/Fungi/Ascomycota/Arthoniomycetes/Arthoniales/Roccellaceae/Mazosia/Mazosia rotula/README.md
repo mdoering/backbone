@@ -1,17 +1,16 @@
-Mazosia rotula var. rotula VARIETY
-=======
+# Mazosia rotula (Mont.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Neagenea Lich 9 (1854)
 
 #### Original name
-Mazosia rotula var. rotula
+Strigula rotula Mont.
 
 ### Remarks
 null

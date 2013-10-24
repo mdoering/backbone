@@ -1,5 +1,4 @@
-Lichen pallescens Neck. SPECIES
-=======
+# Lichen pallescens Neck. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leucogaster magnatus Zeller SPECIES
-=======
+# Leucogaster magnatus Zeller SPECIES
 
 #### Status
 ACCEPTED

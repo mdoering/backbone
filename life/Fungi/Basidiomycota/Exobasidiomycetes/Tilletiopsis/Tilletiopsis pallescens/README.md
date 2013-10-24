@@ -1,5 +1,4 @@
-Tilletiopsis pallescens Gokhale, 1973 SPECIES
-=======
+# Tilletiopsis pallescens Gokhale, 1973 SPECIES
 
 #### Status
 ACCEPTED

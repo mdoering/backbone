@@ -1,5 +1,4 @@
-Stephanopyxis spinossima Grunow SPECIES
-=======
+# Stephanopyxis spinossima Grunow SPECIES
 
 #### Status
 ACCEPTED

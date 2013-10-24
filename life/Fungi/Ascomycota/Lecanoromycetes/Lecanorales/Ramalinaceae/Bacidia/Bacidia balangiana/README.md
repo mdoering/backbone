@@ -1,5 +1,4 @@
-Bacidia balangiana (Harm.) Zahlbr. SPECIES
-=======
+# Bacidia balangiana (Harm.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

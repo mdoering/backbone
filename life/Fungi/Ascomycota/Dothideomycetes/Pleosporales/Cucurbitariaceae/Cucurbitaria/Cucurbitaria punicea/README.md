@@ -1,5 +1,4 @@
-Cucurbitaria punicea (Kunze & J.C. Schmidt) Kuntze SPECIES
-=======
+# Cucurbitaria punicea (Kunze & J.C. Schmidt) Kuntze SPECIES
 
 #### Status
 ACCEPTED

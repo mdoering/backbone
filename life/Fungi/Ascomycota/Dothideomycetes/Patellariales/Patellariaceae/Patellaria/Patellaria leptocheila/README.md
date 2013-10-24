@@ -1,5 +1,4 @@
-Patellaria leptocheila (Tuck.) SPECIES
-=======
+# Patellaria leptocheila (Tuck.) SPECIES
 
 #### Status
 ACCEPTED

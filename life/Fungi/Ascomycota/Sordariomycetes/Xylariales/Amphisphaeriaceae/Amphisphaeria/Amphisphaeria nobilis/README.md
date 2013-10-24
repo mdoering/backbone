@@ -1,5 +1,4 @@
-Amphisphaeria nobilis (Schwein.) Ellis SPECIES
-=======
+# Amphisphaeria nobilis (Schwein.) Ellis SPECIES
 
 #### Status
 ACCEPTED

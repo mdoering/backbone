@@ -1,5 +1,4 @@
-Sporisorium sulcati (M.S. Patil) Vánky SPECIES
-=======
+# Sporisorium sulcati (M.S. Patil) Vánky SPECIES
 
 #### Status
 ACCEPTED

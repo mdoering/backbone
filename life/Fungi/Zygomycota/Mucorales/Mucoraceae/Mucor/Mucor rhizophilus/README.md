@@ -1,5 +1,4 @@
-Mucor rhizophilus Garjeanne SPECIES
-=======
+# Mucor rhizophilus Garjeanne SPECIES
 
 #### Status
 ACCEPTED

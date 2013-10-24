@@ -1,5 +1,4 @@
-Cothurnia ceratophylli SPECIES
-=======
+# Cothurnia ceratophylli SPECIES
 
 #### Status
 ACCEPTED

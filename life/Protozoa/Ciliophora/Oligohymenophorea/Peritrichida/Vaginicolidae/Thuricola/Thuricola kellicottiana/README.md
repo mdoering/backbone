@@ -1,5 +1,4 @@
-Thuricola kellicottiana (Stokes, 1887) Kahl, 1935 SPECIES
-=======
+# Thuricola kellicottiana (Stokes, 1887) Kahl, 1935 SPECIES
 
 #### Status
 ACCEPTED

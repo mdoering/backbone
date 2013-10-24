@@ -1,5 +1,4 @@
-Trichosphaeria rhodochlora (Mont.) Sacc. SPECIES
-=======
+# Trichosphaeria rhodochlora (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

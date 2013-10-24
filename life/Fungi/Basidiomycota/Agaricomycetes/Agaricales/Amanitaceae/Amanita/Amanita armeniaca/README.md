@@ -1,5 +1,4 @@
-Amanita armeniaca A.E. Wood SPECIES
-=======
+# Amanita armeniaca A.E. Wood SPECIES
 
 #### Status
 ACCEPTED

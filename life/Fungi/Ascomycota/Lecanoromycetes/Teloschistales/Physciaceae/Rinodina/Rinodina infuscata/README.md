@@ -1,5 +1,4 @@
-Rinodina infuscata (Nyl.) Zahlbr. SPECIES
-=======
+# Rinodina infuscata (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Flagelloscypha donkii Agerer, 1975 SPECIES
-=======
+# Flagelloscypha donkii Agerer, 1975 SPECIES
 
 #### Status
 ACCEPTED

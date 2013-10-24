@@ -1,5 +1,4 @@
-Amanitina marmorata (Cleland & E.-J. Gilbert) E.-J. Gilbert SPECIES
-=======
+# Amanitina marmorata (Cleland & E.-J. Gilbert) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

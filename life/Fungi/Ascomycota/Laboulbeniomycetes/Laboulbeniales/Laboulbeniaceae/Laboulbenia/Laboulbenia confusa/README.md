@@ -1,5 +1,4 @@
-Laboulbenia confusa Thaxt. SPECIES
-=======
+# Laboulbenia confusa Thaxt. SPECIES
 
 #### Status
 ACCEPTED

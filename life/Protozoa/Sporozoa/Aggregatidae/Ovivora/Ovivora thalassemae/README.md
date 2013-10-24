@@ -1,5 +1,4 @@
-Ovivora thalassemae (Lankester, 1885) Mackinnon & Ray, 1937 SPECIES
-=======
+# Ovivora thalassemae (Lankester, 1885) Mackinnon & Ray, 1937 SPECIES
 
 #### Status
 ACCEPTED

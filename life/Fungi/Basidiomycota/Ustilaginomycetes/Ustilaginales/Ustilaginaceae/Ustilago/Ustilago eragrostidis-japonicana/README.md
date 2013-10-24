@@ -1,5 +1,4 @@
-Ustilago eragrostidis-japonicana Zundel SPECIES
-=======
+# Ustilago eragrostidis-japonicana Zundel SPECIES
 
 #### Status
 ACCEPTED

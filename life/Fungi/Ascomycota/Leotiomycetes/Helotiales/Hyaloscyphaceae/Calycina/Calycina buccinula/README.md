@@ -1,5 +1,4 @@
-Calycina buccinula (Speg.) Kuntze SPECIES
-=======
+# Calycina buccinula (Speg.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

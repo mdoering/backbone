@@ -1,5 +1,4 @@
-Schizopora Velenovský, 1922 GENUS
-=======
+# Schizopora Velenovský, 1922 GENUS
 
 #### Status
 ACCEPTED

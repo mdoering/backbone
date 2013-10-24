@@ -1,5 +1,4 @@
-Fragilaria striatula Lyngbye SPECIES
-=======
+# Fragilaria striatula Lyngbye SPECIES
 
 #### Status
 ACCEPTED

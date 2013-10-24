@@ -1,5 +1,4 @@
-Agaricus pseudotener Speg. SPECIES
-=======
+# Agaricus pseudotener Speg. SPECIES
 
 #### Status
 ACCEPTED

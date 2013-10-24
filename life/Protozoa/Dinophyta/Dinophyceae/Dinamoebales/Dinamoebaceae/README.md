@@ -1,5 +1,4 @@
-Dinamoebaceae FAMILY
-=======
+# Dinamoebaceae FAMILY
 
 #### Status
 ACCEPTED

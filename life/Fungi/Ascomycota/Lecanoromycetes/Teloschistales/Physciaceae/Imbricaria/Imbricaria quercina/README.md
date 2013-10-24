@@ -1,5 +1,4 @@
-Imbricaria quercina (Willd.) DC. SPECIES
-=======
+# Imbricaria quercina (Willd.) DC. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pterula ruber Rodway ex Y.S. Chang & Kantvilas SPECIES
-=======
+# Pterula ruber Rodway ex Y.S. Chang & Kantvilas SPECIES
 
 #### Status
 ACCEPTED

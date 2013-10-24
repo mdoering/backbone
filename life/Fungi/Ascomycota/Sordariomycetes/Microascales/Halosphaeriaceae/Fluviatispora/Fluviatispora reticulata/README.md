@@ -1,5 +1,4 @@
-Fluviatispora reticulata K.D. Hyde, 1994 SPECIES
-=======
+# Fluviatispora reticulata K.D. Hyde, 1994 SPECIES
 
 #### Status
 ACCEPTED

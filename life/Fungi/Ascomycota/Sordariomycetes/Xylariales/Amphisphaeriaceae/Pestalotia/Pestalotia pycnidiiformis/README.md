@@ -1,17 +1,16 @@
-Pestalotia pycnidiformis Panwar, Purohit & N.L.Vyas SPECIES
-=======
+# Pestalotia pycnidiiformis Panwar, Purohit & N.L.Vyas SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Curr. Sci. 41(23): 857 (1972)
 
 #### Original name
-Pestalotia pycnidiformis Panwar, Purohit & N.L.Vyas
+Pestalotia pycnidiiformis Panwar, Purohit & N.L.Vyas
 
 ### Remarks
 null

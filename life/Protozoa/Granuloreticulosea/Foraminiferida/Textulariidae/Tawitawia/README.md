@@ -1,5 +1,4 @@
-Tawitawia Loeblich, 1952 GENUS
-=======
+# Tawitawia Loeblich, 1952 GENUS
 
 #### Status
 ACCEPTED

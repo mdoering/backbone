@@ -1,5 +1,4 @@
-Hymenostilbe formicarum Petch SPECIES
-=======
+# Hymenostilbe formicarum Petch SPECIES
 
 #### Status
 ACCEPTED

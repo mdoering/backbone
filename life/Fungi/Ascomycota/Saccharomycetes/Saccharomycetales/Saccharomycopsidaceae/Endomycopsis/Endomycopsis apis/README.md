@@ -1,5 +1,4 @@
-Endomycopsis apis Strjskal {?} SPECIES
-=======
+# Endomycopsis apis Strjskal {?} SPECIES
 
 #### Status
 ACCEPTED

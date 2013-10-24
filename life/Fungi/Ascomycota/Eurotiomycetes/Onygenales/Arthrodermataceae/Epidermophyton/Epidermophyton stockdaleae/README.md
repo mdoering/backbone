@@ -1,5 +1,4 @@
-Epidermophyton stockdaleae Prochacki & Eng.-Zas., 1974 SPECIES
-=======
+# Epidermophyton stockdaleae Prochacki & Eng.-Zas., 1974 SPECIES
 
 #### Status
 ACCEPTED

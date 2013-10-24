@@ -1,5 +1,4 @@
-Eocronartiaceae Jülich FAMILY
-=======
+# Eocronartiaceae Jülich FAMILY
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Thanatephorus anomala (P.H.B. Talbot) Stalpers & T.F. Andersen SPECIES
-=======
+# Ceratobasidium bicorne J. Erikss. & Ryvarden, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Cortic. N. Eur. (Oslo), <b>2</b> Aleurodiscus-Confertobasidium 221 (1973)
 
 #### Original name
-Ypsilonidium anomalum P.H.B. Talbot, 1980
+Ceratobasidium bicorne J. Erikss. & Ryvarden, 1973
 
 ### Remarks
 null

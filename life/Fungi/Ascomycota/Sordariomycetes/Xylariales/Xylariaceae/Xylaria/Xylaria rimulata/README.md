@@ -1,5 +1,4 @@
-Xylaria rimulata Lloyd, 1925 SPECIES
-=======
+# Xylaria rimulata Lloyd, 1925 SPECIES
 
 #### Status
 ACCEPTED

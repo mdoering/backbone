@@ -1,5 +1,4 @@
-Gibberella tumida P.G. Broadh. & P.R. Johnst., 1994 SPECIES
-=======
+# Gibberella tumida P.G. Broadh. & P.R. Johnst., 1994 SPECIES
 
 #### Status
 ACCEPTED

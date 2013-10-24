@@ -1,5 +1,4 @@
-Botryosphaeria protearum Denman & Crous, 2003 SPECIES
-=======
+# Botryosphaeria protearum Denman & Crous, 2003 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Coniocybe furfuracea var. furfuracea (L.) Ach. VARIETY
-=======
+# Chaenotheca furfuracea (L.) Tibell SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Beih. Nova Hedwigia 79: 664 (1984)
 
 #### Original name
-Coniocybe furfuracea var. furfuracea (L.) Ach.
+Mucor furfuraceus L.
 
 ### Remarks
 null

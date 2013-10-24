@@ -1,5 +1,4 @@
-Phellinus minimus N. Walters SPECIES
-=======
+# Phellinus minimus N. Walters SPECIES
 
 #### Status
 ACCEPTED

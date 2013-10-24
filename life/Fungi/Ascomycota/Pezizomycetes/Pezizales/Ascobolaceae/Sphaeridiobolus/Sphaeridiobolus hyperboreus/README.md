@@ -1,5 +1,4 @@
-Sphaeridiobolus hyperboreus anon. SPECIES
-=======
+# Sphaeridiobolus hyperboreus anon. SPECIES
 
 #### Status
 ACCEPTED

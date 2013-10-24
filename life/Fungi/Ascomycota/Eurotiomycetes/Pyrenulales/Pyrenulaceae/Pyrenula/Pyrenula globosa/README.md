@@ -1,5 +1,4 @@
-Pyrenula globosa Pers. SPECIES
-=======
+# Pyrenula globosa Pers. SPECIES
 
 #### Status
 ACCEPTED

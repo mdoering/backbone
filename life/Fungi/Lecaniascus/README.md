@@ -1,5 +1,4 @@
-Lecaniascus Moniez GENUS
-=======
+# Lecaniascus Moniez GENUS
 
 #### Status
 ACCEPTED

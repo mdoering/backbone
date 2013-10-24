@@ -1,5 +1,4 @@
-Cytospora parva Berk. & M.A. Curtis SPECIES
-=======
+# Cytospora parva Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

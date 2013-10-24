@@ -1,5 +1,4 @@
-Ramularia lanosa (Jacz.) U. Braun SPECIES
-=======
+# Ramularia lanosa (Jacz.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

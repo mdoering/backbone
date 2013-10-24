@@ -1,5 +1,4 @@
-Peziza dinemasporioides Ellis & Everh. SPECIES
-=======
+# Peziza dinemasporioides Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

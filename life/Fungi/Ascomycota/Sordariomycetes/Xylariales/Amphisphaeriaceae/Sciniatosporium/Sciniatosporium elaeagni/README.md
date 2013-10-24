@@ -1,5 +1,4 @@
-Sciniatosporium elaeagni (M.B. Ellis) Morgan-Jones SPECIES
-=======
+# Sciniatosporium elaeagni (M.B. Ellis) Morgan-Jones SPECIES
 
 #### Status
 ACCEPTED

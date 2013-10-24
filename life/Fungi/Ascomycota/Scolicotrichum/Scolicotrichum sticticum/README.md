@@ -1,5 +1,4 @@
-Scolicotrichum sticticum (Berk. & Broome) Sacc. SPECIES
-=======
+# Scolicotrichum sticticum (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophidiopsis chilensis Speg. SPECIES
-=======
+# Lophidiopsis chilensis Speg. SPECIES
 
 #### Status
 ACCEPTED

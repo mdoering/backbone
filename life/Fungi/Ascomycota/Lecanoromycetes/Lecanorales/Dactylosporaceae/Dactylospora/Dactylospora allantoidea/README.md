@@ -1,5 +1,4 @@
-Dactylospora allantoidea Alstrup & D. Hawksw. SPECIES
-=======
+# Dactylospora allantoidea Alstrup & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

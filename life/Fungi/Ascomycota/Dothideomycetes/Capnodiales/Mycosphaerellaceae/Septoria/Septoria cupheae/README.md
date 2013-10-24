@@ -1,5 +1,4 @@
-Septoria cupheae Tassi SPECIES
-=======
+# Septoria cupheae Tassi SPECIES
 
 #### Status
 ACCEPTED

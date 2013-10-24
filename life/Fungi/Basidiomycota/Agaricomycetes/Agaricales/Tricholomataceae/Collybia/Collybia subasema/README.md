@@ -1,5 +1,4 @@
-Collybia subasema (Raithelh.) Raithelh. SPECIES
-=======
+# Collybia subasema (Raithelh.) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

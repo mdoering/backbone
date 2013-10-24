@@ -1,17 +1,16 @@
-Wuestneia xanthostroma var. xanthostroma (Mont.) J. Reid & C. Booth VARIETY
-=======
+# Melanconis xanthostroma (Mont. & Fr.) J. Schröt., 1897 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 67(3): 883 (1989)
+in Cohn, Krypt. -Fl. Schlesien (Breslau) 3. 2(4): 441 (1897)
 
 #### Original name
-Wuestneia xanthostroma var. xanthostroma (Mont.) J. Reid & C. Booth
+Sphaeria xanthostroma Mont. & Fr., 1834
 
 ### Remarks
 null

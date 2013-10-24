@@ -1,5 +1,4 @@
-Cyanothrix gardneri (Frémy) Kiselev SPECIES
-=======
+# Cyanothrix gardneri (Frémy) Kiselev SPECIES
 
 #### Status
 ACCEPTED

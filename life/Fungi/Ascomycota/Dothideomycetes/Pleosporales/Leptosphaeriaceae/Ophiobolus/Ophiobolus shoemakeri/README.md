@@ -1,5 +1,4 @@
-Ophiobolus shoemakeri Raja & Shearer, 2008 SPECIES
-=======
+# Ophiobolus shoemakeri Raja & Shearer, 2008 SPECIES
 
 #### Status
 ACCEPTED

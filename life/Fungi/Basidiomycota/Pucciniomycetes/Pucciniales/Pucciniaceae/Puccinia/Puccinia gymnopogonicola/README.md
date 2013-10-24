@@ -1,5 +1,4 @@
-Puccinia gymnopogonicola J.F. Hennen SPECIES
-=======
+# Puccinia gymnopogonicola J.F. Hennen SPECIES
 
 #### Status
 ACCEPTED

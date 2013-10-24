@@ -1,5 +1,4 @@
-Lactarius rubrilacteus Hesler & A.H. Sm. SPECIES
-=======
+# Lactarius rubrilacteus Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

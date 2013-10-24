@@ -1,5 +1,4 @@
-Leptosphaeria telopeae Crous & Summerell SPECIES
-=======
+# Leptosphaeria telopeae Crous & Summerell SPECIES
 
 #### Status
 ACCEPTED

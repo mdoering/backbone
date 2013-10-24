@@ -1,5 +1,4 @@
-Cercospora trinidadensis F. Stevens & Solheim SPECIES
-=======
+# Cercospora trinidadensis F. Stevens & Solheim SPECIES
 
 #### Status
 ACCEPTED

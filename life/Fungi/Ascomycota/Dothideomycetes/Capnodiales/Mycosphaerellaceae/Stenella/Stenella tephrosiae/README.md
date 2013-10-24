@@ -1,5 +1,4 @@
-Stenella tephrosiae (G.F. Atk.) U. Braun & Crous SPECIES
-=======
+# Stenella tephrosiae (G.F. Atk.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

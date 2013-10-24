@@ -1,5 +1,4 @@
-Stenella pentatropidis K. Srivast., A.K. Srivast. & Kamal SPECIES
-=======
+# Stenella pentatropidis K. Srivast., A.K. Srivast. & Kamal SPECIES
 
 #### Status
 ACCEPTED

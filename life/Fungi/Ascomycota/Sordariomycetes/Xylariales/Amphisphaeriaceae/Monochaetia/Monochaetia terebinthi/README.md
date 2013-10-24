@@ -1,5 +1,4 @@
-Monochaetia terebinthi (Briosi) Sacc. SPECIES
-=======
+# Monochaetia terebinthi (Briosi) Sacc. SPECIES
 
 #### Status
 ACCEPTED

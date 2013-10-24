@@ -1,5 +1,4 @@
-Campylothelium amylosporum (Vain.) R.C. Harris SPECIES
-=======
+# Campylothelium amylosporum (Vain.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

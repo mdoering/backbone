@@ -1,5 +1,4 @@
-Leccinum depilatum (Redeuilh) utara SPECIES
-=======
+# Leccinum depilatum (Redeuilh) utara SPECIES
 
 #### Status
 ACCEPTED

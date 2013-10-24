@@ -1,5 +1,4 @@
-Paradictyocha dumitricae K. Perch-Nielsen SPECIES
-=======
+# Paradictyocha dumitricae K. Perch-Nielsen SPECIES
 
 #### Status
 ACCEPTED

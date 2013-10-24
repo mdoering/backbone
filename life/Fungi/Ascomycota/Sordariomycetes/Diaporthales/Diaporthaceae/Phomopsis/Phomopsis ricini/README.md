@@ -1,5 +1,4 @@
-Phomopsis ricini Grove SPECIES
-=======
+# Phomopsis ricini Grove SPECIES
 
 #### Status
 ACCEPTED

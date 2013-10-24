@@ -1,5 +1,4 @@
-Gastroboletus boedijnii Lohwag, 1926 SPECIES
-=======
+# Gastroboletus boedijnii Lohwag, 1926 SPECIES
 
 #### Status
 ACCEPTED

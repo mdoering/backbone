@@ -1,5 +1,4 @@
-Ellipsolagena fijiensis Cushman, 1931 SPECIES
-=======
+# Ellipsolagena fijiensis Cushman, 1931 SPECIES
 
 #### Status
 ACCEPTED

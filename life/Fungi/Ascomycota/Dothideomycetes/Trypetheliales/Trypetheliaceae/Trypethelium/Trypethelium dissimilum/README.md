@@ -1,5 +1,4 @@
-Trypethelium dissimilum Makhija & Patw. SPECIES
-=======
+# Trypethelium dissimilum Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

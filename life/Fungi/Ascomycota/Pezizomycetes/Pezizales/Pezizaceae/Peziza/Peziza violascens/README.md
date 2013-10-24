@@ -1,5 +1,4 @@
-Peziza violascens Cooke SPECIES
-=======
+# Peziza violascens Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia curtata Kurok. SPECIES
-=======
+# Parmelia curtata Kurok. SPECIES
 
 #### Status
 ACCEPTED

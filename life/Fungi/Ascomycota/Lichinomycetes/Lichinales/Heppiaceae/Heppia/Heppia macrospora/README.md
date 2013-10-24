@@ -1,5 +1,4 @@
-Heppia macrospora B. de Lesd. SPECIES
-=======
+# Heppia macrospora B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

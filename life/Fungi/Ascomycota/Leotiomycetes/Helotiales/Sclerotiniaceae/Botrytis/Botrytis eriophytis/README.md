@@ -1,17 +1,16 @@
-Botrytis eriophyes Massee SPECIES
-=======
+# Botrytis eriophytis Massee SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Taylor, J. Econ. Biol. 5: IV (1909)
 
 #### Original name
-Botrytis eriophyes Massee
+Botrytis eriophytis Massee
 
 ### Remarks
 null

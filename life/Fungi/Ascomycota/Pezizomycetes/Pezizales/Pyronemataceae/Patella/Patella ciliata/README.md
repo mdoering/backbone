@@ -1,5 +1,4 @@
-Patella ciliata F.H. Wigg. SPECIES
-=======
+# Patella ciliata F.H. Wigg. SPECIES
 
 #### Status
 ACCEPTED

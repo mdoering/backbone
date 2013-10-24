@@ -1,5 +1,4 @@
-Agrocybe splendida Clémençon SPECIES
-=======
+# Agrocybe splendida Clémençon SPECIES
 
 #### Status
 ACCEPTED

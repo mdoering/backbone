@@ -1,5 +1,4 @@
-Verlandea roupalae Bat. & Cif. SPECIES
-=======
+# Verlandea roupalae Bat. & Cif. SPECIES
 
 #### Status
 ACCEPTED

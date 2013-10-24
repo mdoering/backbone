@@ -1,5 +1,4 @@
-Peziza bonariensis Speg. SPECIES
-=======
+# Peziza bonariensis Speg. SPECIES
 
 #### Status
 ACCEPTED

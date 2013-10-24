@@ -1,5 +1,4 @@
-Entoloma choanomorphum G.M. Gates & Noordel. SPECIES
-=======
+# Entoloma choanomorphum G.M. Gates & Noordel. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Turbinaria foliosa Wynne, M.J. SPECIES
-=======
+# Turbinaria foliosa Wynne, M.J. SPECIES
 
 #### Status
 ACCEPTED

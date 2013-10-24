@@ -1,5 +1,4 @@
-Rollandina capitata Pat. SPECIES
-=======
+# Rollandina capitata Pat. SPECIES
 
 #### Status
 ACCEPTED

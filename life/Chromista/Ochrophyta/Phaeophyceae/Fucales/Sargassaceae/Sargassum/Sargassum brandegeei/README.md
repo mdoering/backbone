@@ -1,5 +1,4 @@
-Sargassum brandegeei Setchell & Gardner SPECIES
-=======
+# Sargassum brandegeei Setchell & Gardner SPECIES
 
 #### Status
 ACCEPTED

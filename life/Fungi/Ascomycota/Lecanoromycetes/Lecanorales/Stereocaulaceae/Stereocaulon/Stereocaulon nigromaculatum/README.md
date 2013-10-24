@@ -1,5 +1,4 @@
-Stereocaulon nigromaculatum f. fastigiatopulvinatum I.M. Lamb FORM
-=======
+# Stereocaulon nigromaculatum P.A. Duvign. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-J. Hattori bot. Lab. 43: 254 (1977)
+null
 
 #### Original name
-Stereocaulon nigromaculatum f. fastigiatopulvinatum I.M. Lamb
+Stereocaulon nigromaculatum P.A. Duvign.
 
 ### Remarks
 null

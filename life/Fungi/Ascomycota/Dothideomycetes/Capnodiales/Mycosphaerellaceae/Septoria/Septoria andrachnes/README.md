@@ -1,5 +1,4 @@
-Septoria andrachnes Politis SPECIES
-=======
+# Septoria andrachnes Politis SPECIES
 
 #### Status
 ACCEPTED

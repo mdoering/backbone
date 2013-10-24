@@ -1,8 +1,7 @@
-Catinula atraphaxidis Schwarzman SPECIES
-=======
+# Catinula atraphaxis Schwarzman SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Catinula atraphaxidis Schwarzman
+Catinula atraphaxis Schwarzman
 
 ### Remarks
 null

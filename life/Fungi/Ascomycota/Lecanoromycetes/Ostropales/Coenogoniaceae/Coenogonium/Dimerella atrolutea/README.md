@@ -1,5 +1,4 @@
-Dimerella atrolutea (Vain.) Malme SPECIES
-=======
+# Dimerella atrolutea (Vain.) Malme SPECIES
 
 #### Status
 ACCEPTED

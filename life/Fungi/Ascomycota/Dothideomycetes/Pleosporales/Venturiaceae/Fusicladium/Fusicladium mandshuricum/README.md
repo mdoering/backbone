@@ -1,5 +1,4 @@
-Fusicladium mandshuricum (M. Morelet) Ritschel & U. Braun SPECIES
-=======
+# Fusicladium mandshuricum (M. Morelet) Ritschel & U. Braun SPECIES
 
 #### Status
 ACCEPTED

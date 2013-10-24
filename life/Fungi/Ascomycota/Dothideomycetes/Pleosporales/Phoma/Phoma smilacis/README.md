@@ -1,5 +1,4 @@
-Phoma smilacis Boyer & Jacz. SPECIES
-=======
+# Phoma smilacis Boyer & Jacz. SPECIES
 
 #### Status
 ACCEPTED

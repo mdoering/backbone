@@ -1,5 +1,4 @@
-Lecanora iwashiroënsis Zahlbr. SPECIES
-=======
+# Lecanora iwashiroënsis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Synchytrium fuscum Petch SPECIES
-=======
+# Synchytrium fuscum Petch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Mycena corrugatua (Cleland & Cheel) Grgur. SPECIES
-=======
+# Mycena corrugata (Cleland & Cheel) Grgur. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Fungal Diversity Res. Ser. (Hong Kong) 9: 314 (2003)
 
 #### Original name
 Cantharellus corrugatus Cleland & Cheel

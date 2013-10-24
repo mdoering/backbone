@@ -1,17 +1,16 @@
-Corticium poinciniae Pat., 1915 SPECIES
-=======
+# Cylindrobasidium evolvens (Fr.) Jülich, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Persoonia 8(1): 72 (1974)
 
 #### Original name
-null
+Thelephora evolvens Fr., 1815
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Discosia euphorbiae J. Schröt. SPECIES
-=======
+# Discosia euphorbiae J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

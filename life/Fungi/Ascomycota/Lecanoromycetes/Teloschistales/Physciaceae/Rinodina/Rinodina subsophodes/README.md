@@ -1,5 +1,4 @@
-Rinodina subsophodes (Nyl.) Zahlbr. SPECIES
-=======
+# Rinodina subsophodes (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

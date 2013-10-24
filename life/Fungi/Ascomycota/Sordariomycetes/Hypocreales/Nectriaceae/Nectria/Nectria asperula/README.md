@@ -1,5 +1,4 @@
-Nectria asperula G. Winter SPECIES
-=======
+# Nectria asperula G. Winter SPECIES
 
 #### Status
 ACCEPTED

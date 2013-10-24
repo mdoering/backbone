@@ -1,5 +1,4 @@
-Thecotheus setisperma Le Gal SPECIES
-=======
+# Thecotheus setisperma Le Gal SPECIES
 
 #### Status
 ACCEPTED

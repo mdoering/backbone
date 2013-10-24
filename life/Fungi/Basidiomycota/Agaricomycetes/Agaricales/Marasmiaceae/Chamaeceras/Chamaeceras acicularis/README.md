@@ -1,5 +1,4 @@
-Chamaeceras acicularis (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Chamaeceras acicularis (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

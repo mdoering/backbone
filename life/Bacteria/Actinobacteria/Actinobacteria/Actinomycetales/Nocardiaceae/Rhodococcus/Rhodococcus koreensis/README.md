@@ -1,5 +1,4 @@
-Rhodococcus koreensis Yoon et al., 2000 SPECIES
-=======
+# Rhodococcus koreensis Yoon et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

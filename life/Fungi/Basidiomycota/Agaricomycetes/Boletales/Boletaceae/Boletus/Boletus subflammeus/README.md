@@ -1,5 +1,4 @@
-Boletus subflammeus Berk. SPECIES
-=======
+# Boletus subflammeus Berk. SPECIES
 
 #### Status
 ACCEPTED

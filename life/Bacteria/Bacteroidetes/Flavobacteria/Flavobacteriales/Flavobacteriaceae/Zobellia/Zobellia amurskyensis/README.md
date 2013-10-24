@@ -1,5 +1,4 @@
-Zobellia amurskyensis Nedashkovskaya et al., 2004 SPECIES
-=======
+# Zobellia amurskyensis Nedashkovskaya et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

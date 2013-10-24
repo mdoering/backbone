@@ -1,5 +1,4 @@
-Cylindrocolla alba Sacc. & Roum. SPECIES
-=======
+# Cylindrocolla alba Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

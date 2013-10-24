@@ -1,5 +1,4 @@
-Lecidea ferruginea var. ferruginea VARIETY
-=======
+# Lecidea ferruginea Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lichen ferrugineus Huds.
+Lecidea ferruginea Vain.
 
 ### Remarks
 null

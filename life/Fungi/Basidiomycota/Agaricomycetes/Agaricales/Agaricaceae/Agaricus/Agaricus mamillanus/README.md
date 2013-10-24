@@ -1,5 +1,4 @@
-Agaricus mamillanus Pers. SPECIES
-=======
+# Agaricus mamillanus Pers. SPECIES
 
 #### Status
 ACCEPTED

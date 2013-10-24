@@ -1,5 +1,4 @@
-Peziza fibrillosa Wallr. SPECIES
-=======
+# Peziza fibrillosa Wallr. SPECIES
 
 #### Status
 ACCEPTED

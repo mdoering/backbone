@@ -1,5 +1,4 @@
-Epalxis penardi Wetzel, 1928 SPECIES
-=======
+# Epalxis penardi Wetzel, 1928 SPECIES
 
 #### Status
 ACCEPTED

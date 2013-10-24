@@ -1,5 +1,4 @@
-Octospora hissarica Raitv. & Faizova SPECIES
-=======
+# Octospora hissarica Raitv. & Faizova SPECIES
 
 #### Status
 ACCEPTED

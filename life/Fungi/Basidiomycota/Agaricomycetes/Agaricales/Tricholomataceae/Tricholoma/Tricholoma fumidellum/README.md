@@ -1,5 +1,4 @@
-Tricholoma fumidellum (Peck) Sacc. SPECIES
-=======
+# Tricholoma fumidellum (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

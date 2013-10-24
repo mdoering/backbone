@@ -1,5 +1,4 @@
-Mehlisphaeridium K.L. Segroves, 1967 GENUS
-=======
+# Mehlisphaeridium K.L. Segroves, 1967 GENUS
 
 #### Status
 ACCEPTED

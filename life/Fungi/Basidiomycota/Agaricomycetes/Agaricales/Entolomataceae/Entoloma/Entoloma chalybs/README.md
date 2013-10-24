@@ -1,5 +1,4 @@
-Entoloma chalybs E. Horak SPECIES
-=======
+# Entoloma chalybs E. Horak SPECIES
 
 #### Status
 ACCEPTED

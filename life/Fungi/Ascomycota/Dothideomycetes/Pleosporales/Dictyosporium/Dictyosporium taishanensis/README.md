@@ -1,5 +1,4 @@
-Dictyosporium taishanensis G.Z. Zhao & T.Y. Zhang SPECIES
-=======
+# Dictyosporium taishanensis G.Z. Zhao & T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora pohlii Anders SPECIES
-=======
+# Lecanora pohlii Anders SPECIES
 
 #### Status
 ACCEPTED

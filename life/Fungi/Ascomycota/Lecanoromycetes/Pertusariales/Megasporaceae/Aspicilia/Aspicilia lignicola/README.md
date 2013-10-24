@@ -1,5 +1,4 @@
-Aspicilia lignicola (Anzi) Hue SPECIES
-=======
+# Aspicilia lignicola (Anzi) Hue SPECIES
 
 #### Status
 ACCEPTED

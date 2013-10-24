@@ -1,5 +1,4 @@
-Gloeochrysis turfosa (Pascher) Bourelly SPECIES
-=======
+# Gloeochrysis turfosa (Pascher) Bourelly SPECIES
 
 #### Status
 ACCEPTED

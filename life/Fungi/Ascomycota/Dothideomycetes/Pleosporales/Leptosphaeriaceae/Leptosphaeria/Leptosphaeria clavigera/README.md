@@ -1,5 +1,4 @@
-Leptosphaeria clavigera (Cooke & Ellis) Sacc. SPECIES
-=======
+# Leptosphaeria clavigera (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

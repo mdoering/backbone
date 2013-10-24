@@ -1,5 +1,4 @@
-Glutinaster equestris (Fr.) Earle SPECIES
-=======
+# Glutinaster equestris (Fr.) Earle SPECIES
 
 #### Status
 ACCEPTED

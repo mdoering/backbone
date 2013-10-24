@@ -1,5 +1,4 @@
-Gymnopilus tuxtlensis Guzm.-Dáv. SPECIES
-=======
+# Gymnopilus tuxtlensis Guzm.-Dáv. SPECIES
 
 #### Status
 ACCEPTED

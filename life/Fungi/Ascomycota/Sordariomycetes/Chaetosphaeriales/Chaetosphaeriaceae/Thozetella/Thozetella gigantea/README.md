@@ -1,5 +1,4 @@
-Thozetella gigantea B.C. Paulus, Gadek & K.D. Hyde SPECIES
-=======
+# Thozetella gigantea B.C. Paulus, Gadek & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

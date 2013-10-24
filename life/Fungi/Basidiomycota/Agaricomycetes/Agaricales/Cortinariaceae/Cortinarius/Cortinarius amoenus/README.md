@@ -1,5 +1,4 @@
-Cortinarius amoenus (M.M. Moser & E. Horak) E. Valenz. & G. Moreno SPECIES
-=======
+# Cortinarius amoenus (M.M. Moser & E. Horak) E. Valenz. & G. Moreno SPECIES
 
 #### Status
 ACCEPTED

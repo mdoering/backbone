@@ -1,5 +1,4 @@
-Peltigera lambinonii Goffinet SPECIES
-=======
+# Peltigera lambinonii Goffinet SPECIES
 
 #### Status
 ACCEPTED

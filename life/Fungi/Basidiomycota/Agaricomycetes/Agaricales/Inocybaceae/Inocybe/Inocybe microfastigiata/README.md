@@ -1,5 +1,4 @@
-Inocybe microfastigiata Kühner SPECIES
-=======
+# Inocybe microfastigiata Kühner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Acanthoecopsis campanula Espeland, 1986 SPECIES
-=======
+# Acanthocorbis campanula (Espeland, 1986) Thomsen in Thomsen & Buck, 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

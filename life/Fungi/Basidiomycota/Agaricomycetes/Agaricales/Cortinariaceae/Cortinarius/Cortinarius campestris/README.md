@@ -1,17 +1,16 @@
-Cortinaria campestris Murrill SPECIES
-=======
+# Cortinarius campestris Murrill SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Lloydia 7(4): 317 (1945)
 
 #### Original name
-Cortinaria campestris Murrill
+Cortinarius campestris Murrill
 
 ### Remarks
 null

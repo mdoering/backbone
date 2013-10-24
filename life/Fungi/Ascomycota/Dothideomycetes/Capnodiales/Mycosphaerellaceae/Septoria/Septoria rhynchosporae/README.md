@@ -1,5 +1,4 @@
-Septoria rhynchosporae Durieu & Mont. SPECIES
-=======
+# Septoria rhynchosporae Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

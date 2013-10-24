@@ -1,5 +1,4 @@
-Leucoscypha Boudier, 1885 GENUS
-=======
+# Leucoscypha Boudier, 1885 GENUS
 
 #### Status
 ACCEPTED

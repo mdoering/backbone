@@ -1,5 +1,4 @@
-Agaricus persoonii J. Otto SPECIES
-=======
+# Agaricus persoonii J. Otto SPECIES
 
 #### Status
 ACCEPTED

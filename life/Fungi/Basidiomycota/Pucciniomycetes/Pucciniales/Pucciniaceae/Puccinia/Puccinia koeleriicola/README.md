@@ -1,5 +1,4 @@
-Puccinia koeleriicola Tranzschel SPECIES
-=======
+# Puccinia koeleriicola Tranzschel SPECIES
 
 #### Status
 ACCEPTED

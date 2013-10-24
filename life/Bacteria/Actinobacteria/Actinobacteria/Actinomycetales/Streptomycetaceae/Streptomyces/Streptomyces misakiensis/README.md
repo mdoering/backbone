@@ -1,5 +1,4 @@
-Streptomyces misakiensis Nakamura, 1961 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces misakiensis Nakamura, 1961 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

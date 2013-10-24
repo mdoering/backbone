@@ -1,5 +1,4 @@
-Lecanora trapelia Ach. SPECIES
-=======
+# Lecanora trapelia Ach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria monninae Pat. SPECIES
-=======
+# Septoria monninae Pat. SPECIES
 
 #### Status
 ACCEPTED

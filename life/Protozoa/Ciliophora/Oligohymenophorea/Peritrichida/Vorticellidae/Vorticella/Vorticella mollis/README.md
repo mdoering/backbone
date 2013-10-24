@@ -1,5 +1,4 @@
-Vorticella mollis Stokes, 1887 SPECIES
-=======
+# Vorticella mollis Stokes, 1887 SPECIES
 
 #### Status
 ACCEPTED

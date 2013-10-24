@@ -1,5 +1,4 @@
-Marasmius scotophysinus Singer SPECIES
-=======
+# Marasmius scotophysinus Singer SPECIES
 
 #### Status
 ACCEPTED

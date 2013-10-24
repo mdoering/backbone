@@ -1,5 +1,4 @@
-Kordyana commelinae Petch, 1922 SPECIES
-=======
+# Kordyana commelinae Petch, 1922 SPECIES
 
 #### Status
 ACCEPTED

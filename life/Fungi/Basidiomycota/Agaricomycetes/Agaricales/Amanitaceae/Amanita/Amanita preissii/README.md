@@ -1,5 +1,4 @@
-Amanita preissii f. preissii FORM
-=======
+# Amanita preissii (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

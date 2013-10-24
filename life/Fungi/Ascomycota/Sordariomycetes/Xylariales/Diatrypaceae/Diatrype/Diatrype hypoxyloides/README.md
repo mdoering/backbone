@@ -1,5 +1,4 @@
-Diatrype hypoxyloides De Not. SPECIES
-=======
+# Diatrype hypoxyloides De Not. SPECIES
 
 #### Status
 ACCEPTED

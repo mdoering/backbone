@@ -1,5 +1,4 @@
-Zignoëlla maingayi (Cooke) Sacc. SPECIES
-=======
+# Zignoëlla maingayi (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alocodera Jung, 1942 GENUS
-=======
+# Alocodera Jung, 1942 GENUS
 
 #### Status
 ACCEPTED

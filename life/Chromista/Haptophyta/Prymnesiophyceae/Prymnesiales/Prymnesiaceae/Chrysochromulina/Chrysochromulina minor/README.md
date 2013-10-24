@@ -1,5 +1,4 @@
-Chrysochromulina minor Parke & Manton SPECIES
-=======
+# Chrysochromulina minor Parke & Manton SPECIES
 
 #### Status
 ACCEPTED

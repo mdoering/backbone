@@ -1,5 +1,4 @@
-Phyllosticta terminalis Ellis & G. Martin SPECIES
-=======
+# Phyllosticta terminalis Ellis & G. Martin SPECIES
 
 #### Status
 ACCEPTED

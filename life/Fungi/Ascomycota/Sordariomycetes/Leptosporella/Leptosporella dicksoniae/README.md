@@ -1,5 +1,4 @@
-Leptosporella dicksoniae Sousa da Câmara & Luz SPECIES
-=======
+# Leptosporella dicksoniae Sousa da Câmara & Luz SPECIES
 
 #### Status
 ACCEPTED

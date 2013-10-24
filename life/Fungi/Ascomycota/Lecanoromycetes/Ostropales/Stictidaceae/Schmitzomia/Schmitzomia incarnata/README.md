@@ -1,5 +1,4 @@
-Schmitzomia incarnata Quél. SPECIES
-=======
+# Schmitzomia incarnata Quél. SPECIES
 
 #### Status
 ACCEPTED

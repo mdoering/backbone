@@ -1,5 +1,4 @@
-Misturatosphaeria kenyensis Mugambi & Huhndorf, 2009 SPECIES
-=======
+# Misturatosphaeria kenyensis Mugambi & Huhndorf, 2009 SPECIES
 
 #### Status
 ACCEPTED

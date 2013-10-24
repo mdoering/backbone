@@ -1,5 +1,4 @@
-Ascochyta reynoutriae Sawada SPECIES
-=======
+# Ascochyta reynoutriae Sawada SPECIES
 
 #### Status
 ACCEPTED

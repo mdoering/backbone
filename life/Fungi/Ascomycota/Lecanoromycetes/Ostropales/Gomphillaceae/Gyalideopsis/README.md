@@ -1,5 +1,4 @@
-Gyalideopsis Vezda, 1972 GENUS
-=======
+# Gyalideopsis Vezda, 1972 GENUS
 
 #### Status
 ACCEPTED

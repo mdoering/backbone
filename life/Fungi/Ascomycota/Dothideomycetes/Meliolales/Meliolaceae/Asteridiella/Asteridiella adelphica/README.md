@@ -1,5 +1,4 @@
-Asteridiella adelphica (Syd.) Hansf. SPECIES
-=======
+# Asteridiella adelphica (Syd.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

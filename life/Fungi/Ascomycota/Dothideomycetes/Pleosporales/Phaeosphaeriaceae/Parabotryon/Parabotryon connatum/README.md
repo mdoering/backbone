@@ -1,14 +1,13 @@
-Eudarluca connata (Syd.) Arx, 1962 SPECIES
-=======
+# Parabotryon connatum Syd., 1926 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Müller & Arx, Beitr. Kryptfl. Schweiz 11(no. 2): 314 (1962)
+Annls mycol. 24(5/6): 374 (1926)
 
 #### Original name
 Parabotryon connatum Syd., 1926

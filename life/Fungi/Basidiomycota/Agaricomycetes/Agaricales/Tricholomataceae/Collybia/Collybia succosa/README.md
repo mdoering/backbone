@@ -1,5 +1,4 @@
-Collybia succosa (Peck) Mussat SPECIES
-=======
+# Collybia succosa (Peck) Mussat SPECIES
 
 #### Status
 ACCEPTED

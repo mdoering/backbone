@@ -1,5 +1,4 @@
-Sphaeria media Pers. SPECIES
-=======
+# Sphaeria media Pers. SPECIES
 
 #### Status
 ACCEPTED

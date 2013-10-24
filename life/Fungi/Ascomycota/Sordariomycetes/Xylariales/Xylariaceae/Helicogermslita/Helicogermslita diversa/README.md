@@ -1,5 +1,4 @@
-Helicogermslita diversa S.J. Lee & Crous, 2003 SPECIES
-=======
+# Helicogermslita diversa S.J. Lee & Crous, 2003 SPECIES
 
 #### Status
 ACCEPTED

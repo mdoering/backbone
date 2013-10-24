@@ -1,5 +1,4 @@
-Bioporthe GENUS
-=======
+# Bioporthe GENUS
 
 #### Status
 ACCEPTED

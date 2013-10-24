@@ -1,5 +1,4 @@
-Lecidea testaceoglauca Vain. SPECIES
-=======
+# Lecidea testaceoglauca Vain. SPECIES
 
 #### Status
 ACCEPTED

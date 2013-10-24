@@ -1,5 +1,4 @@
-Gymnopilus chilensis Singer SPECIES
-=======
+# Gymnopilus chilensis Singer SPECIES
 
 #### Status
 ACCEPTED

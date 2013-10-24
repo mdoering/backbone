@@ -1,5 +1,4 @@
-Tainosphaeria F.A. Fernández & Huhndorf GENUS
-=======
+# Tainosphaeria F.A. Fernández & Huhndorf GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus botulatus Secr. SPECIES
-=======
+# Polyporus botulatus Secr. SPECIES
 
 #### Status
 ACCEPTED

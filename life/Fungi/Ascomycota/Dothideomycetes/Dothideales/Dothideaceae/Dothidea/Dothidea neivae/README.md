@@ -1,5 +1,4 @@
-Dothidea neivae Av.-Saccá SPECIES
-=======
+# Dothidea neivae Av.-Saccá SPECIES
 
 #### Status
 ACCEPTED

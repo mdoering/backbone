@@ -1,5 +1,4 @@
-Agaricus recalvus Lasch SPECIES
-=======
+# Agaricus recalvus Lasch SPECIES
 
 #### Status
 ACCEPTED

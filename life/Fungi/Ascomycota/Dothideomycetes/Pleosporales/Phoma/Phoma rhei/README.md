@@ -1,5 +1,4 @@
-Phoma rhei (Ellis & Everh.) Aa & Boerema, 2002 SPECIES
-=======
+# Phoma rhei (Ellis & Everh.) Aa & Boerema, 2002 SPECIES
 
 #### Status
 ACCEPTED

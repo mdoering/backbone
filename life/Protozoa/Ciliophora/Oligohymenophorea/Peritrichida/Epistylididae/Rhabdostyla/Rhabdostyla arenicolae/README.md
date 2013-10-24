@@ -1,5 +1,4 @@
-Rhabdostyla arenicolae Fabre-Domergue, 1888 SPECIES
-=======
+# Rhabdostyla arenicolae Fabre-Domergue, 1888 SPECIES
 
 #### Status
 ACCEPTED

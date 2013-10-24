@@ -1,5 +1,4 @@
-Skyttea spinosa D. Hawksw. & Coppins SPECIES
-=======
+# Skyttea spinosa D. Hawksw. & Coppins SPECIES
 
 #### Status
 ACCEPTED

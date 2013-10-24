@@ -1,5 +1,4 @@
-Calycina aurantiaca (Cooke) Kuntze SPECIES
-=======
+# Calycina aurantiaca (Cooke) Kuntze SPECIES
 
 #### Status
 ACCEPTED

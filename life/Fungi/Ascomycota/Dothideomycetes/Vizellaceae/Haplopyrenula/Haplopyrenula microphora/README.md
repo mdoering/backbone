@@ -1,5 +1,4 @@
-Haplopyrenula microphora Müll. Arg. SPECIES
-=======
+# Haplopyrenula microphora Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

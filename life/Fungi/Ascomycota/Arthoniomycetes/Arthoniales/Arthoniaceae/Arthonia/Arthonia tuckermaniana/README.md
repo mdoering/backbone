@@ -1,5 +1,4 @@
-Arthonia tuckermaniana Willey SPECIES
-=======
+# Arthonia tuckermaniana Willey SPECIES
 
 #### Status
 ACCEPTED

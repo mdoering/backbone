@@ -1,8 +1,7 @@
-Trachelonema sulcatum (Kovaleva, 1966) Dragesco, 1958 SPECIES
-=======
+# Kovalevaia sulcata (Kovaleva, 1966) Foissner, 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

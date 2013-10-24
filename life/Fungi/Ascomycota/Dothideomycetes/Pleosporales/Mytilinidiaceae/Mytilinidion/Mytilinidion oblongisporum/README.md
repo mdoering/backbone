@@ -1,17 +1,16 @@
-Mytilidion oblongisporum Teng SPECIES
-=======
+# Mytilinidion oblongisporum Teng SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sinensia, Shanghai 7: 491 (1936)
 
 #### Original name
-Mytilidion oblongisporum Teng
+Mytilinidion oblongisporum Teng
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Hebeloma nudipes (Fr.) Kalchbr. SPECIES
-=======
+# Hebeloma nudipes (Fr.) Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

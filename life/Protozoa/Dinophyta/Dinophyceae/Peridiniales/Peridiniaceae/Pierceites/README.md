@@ -1,5 +1,4 @@
-Pierceites Habib & Drugg, 1987 GENUS
-=======
+# Pierceites Habib & Drugg, 1987 GENUS
 
 #### Status
 ACCEPTED

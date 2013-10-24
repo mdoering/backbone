@@ -1,5 +1,4 @@
-Thelotrema schaereri Hepp SPECIES
-=======
+# Thelotrema schaereri Hepp SPECIES
 
 #### Status
 ACCEPTED

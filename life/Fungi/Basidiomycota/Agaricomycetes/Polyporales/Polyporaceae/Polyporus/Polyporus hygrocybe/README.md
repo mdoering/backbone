@@ -1,5 +1,4 @@
-Polyporus hygrocybe M. Pieri & B. Rivoire SPECIES
-=======
+# Polyporus hygrocybe M. Pieri & B. Rivoire SPECIES
 
 #### Status
 ACCEPTED

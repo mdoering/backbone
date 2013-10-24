@@ -1,5 +1,4 @@
-Acarospora austroafricana (Zahlbr.) H. Magn. SPECIES
-=======
+# Acarospora austroafricana (Zahlbr.) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

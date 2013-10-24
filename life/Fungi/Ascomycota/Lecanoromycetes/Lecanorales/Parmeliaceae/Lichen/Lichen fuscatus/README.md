@@ -1,5 +1,4 @@
-Lichen fuscatus Schrad. SPECIES
-=======
+# Lichen fuscatus Schrad. SPECIES
 
 #### Status
 ACCEPTED

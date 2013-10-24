@@ -1,5 +1,4 @@
-Scytalidium hepiali C. Lan Li SPECIES
-=======
+# Scytalidium hepiali C. Lan Li SPECIES
 
 #### Status
 ACCEPTED

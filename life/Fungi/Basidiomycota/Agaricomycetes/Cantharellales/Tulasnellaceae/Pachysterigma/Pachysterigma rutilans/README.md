@@ -1,5 +1,4 @@
-Pachysterigma rutilans Johan-Olsen SPECIES
-=======
+# Pachysterigma rutilans Johan-Olsen SPECIES
 
 #### Status
 ACCEPTED

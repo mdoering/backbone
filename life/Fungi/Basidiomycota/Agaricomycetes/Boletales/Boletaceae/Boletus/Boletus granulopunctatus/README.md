@@ -1,5 +1,4 @@
-Boletus granulopunctatus Hongo SPECIES
-=======
+# Boletus granulopunctatus Hongo SPECIES
 
 #### Status
 ACCEPTED

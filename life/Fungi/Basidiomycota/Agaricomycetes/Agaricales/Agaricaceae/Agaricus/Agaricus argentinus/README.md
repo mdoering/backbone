@@ -1,5 +1,4 @@
-Agaricus argentinus Speg. SPECIES
-=======
+# Agaricus argentinus Speg. SPECIES
 
 #### Status
 ACCEPTED

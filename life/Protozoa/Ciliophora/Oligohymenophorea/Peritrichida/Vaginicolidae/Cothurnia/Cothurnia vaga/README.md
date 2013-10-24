@@ -1,5 +1,4 @@
-Cothurnia vaga Roux, 1901 SPECIES
-=======
+# Cothurnia vaga Roux, 1901 SPECIES
 
 #### Status
 ACCEPTED

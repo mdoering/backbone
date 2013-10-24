@@ -1,5 +1,4 @@
-Ropostrum Jonasson & Schröder-Adams, 1996 GENUS
-=======
+# Ropostrum Jonasson & Schröder-Adams, 1996 GENUS
 
 #### Status
 ACCEPTED

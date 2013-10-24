@@ -1,5 +1,4 @@
-Graphis saxicola (Müll. Arg.) A. W. Archer SPECIES
-=======
+# Graphis saxicola (Müll. Arg.) A. W. Archer SPECIES
 
 #### Status
 ACCEPTED

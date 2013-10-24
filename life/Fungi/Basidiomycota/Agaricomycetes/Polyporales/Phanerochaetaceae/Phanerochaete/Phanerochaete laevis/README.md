@@ -1,17 +1,16 @@
-Thelephora laevis var. laevis VARIETY
-=======
+# Phanerochaete laevis (Fr.) J. Erikss. & Ryvarden, 1978 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Cortic. N. Eur. (Oslo) 5: 1007 (1978)
 
 #### Original name
-null
+Thelephora laevis Fr., 1821
 
 ### Remarks
 null

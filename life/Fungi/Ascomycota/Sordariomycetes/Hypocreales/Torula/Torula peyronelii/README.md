@@ -1,5 +1,4 @@
-Torula peyronelii Sacc. SPECIES
-=======
+# Torula peyronelii Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizoctonia anomala Burgeff, 1936 SPECIES
-=======
+# Rhizoctonia anomala Burgeff, 1936 SPECIES
 
 #### Status
 ACCEPTED

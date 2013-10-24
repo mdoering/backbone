@@ -1,5 +1,4 @@
-Mycena tallangattensis Grgur. SPECIES
-=======
+# Mycena tallangattensis Grgur. SPECIES
 
 #### Status
 ACCEPTED

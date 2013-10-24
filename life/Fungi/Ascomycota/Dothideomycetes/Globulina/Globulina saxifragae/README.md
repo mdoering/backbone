@@ -1,5 +1,4 @@
-Globulina saxifragae var. saxifragae VARIETY
-=======
+# Globulina saxifragae Velen. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Monogr. Discom. Bohem. (Prague) 292 (1934)
 
 #### Original name
-Globulina saxifragae var. saxifragae
+Globulina saxifragae Velen.
 
 ### Remarks
 null

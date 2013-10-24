@@ -1,5 +1,4 @@
-Hendersonia campanulae Hollós SPECIES
-=======
+# Hendersonia campanulae Hollós SPECIES
 
 #### Status
 ACCEPTED

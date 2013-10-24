@@ -1,5 +1,4 @@
-Hymenoscyphus diabasicus Svrcek SPECIES
-=======
+# Hymenoscyphus diabasicus Svrcek SPECIES
 
 #### Status
 ACCEPTED

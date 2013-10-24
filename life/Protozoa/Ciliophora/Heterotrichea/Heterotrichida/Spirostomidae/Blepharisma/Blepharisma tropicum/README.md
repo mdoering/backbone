@@ -1,5 +1,4 @@
-Blepharisma tropicum Bhandary, 1962 SPECIES
-=======
+# Blepharisma tropicum Bhandary, 1962 SPECIES
 
 #### Status
 ACCEPTED

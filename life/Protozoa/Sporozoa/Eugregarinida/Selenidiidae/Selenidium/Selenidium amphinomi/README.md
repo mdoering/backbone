@@ -1,5 +1,4 @@
-Selenidium amphinomi Bhatia & Setna, 1938 SPECIES
-=======
+# Selenidium amphinomi Bhatia & Setna, 1938 SPECIES
 
 #### Status
 ACCEPTED

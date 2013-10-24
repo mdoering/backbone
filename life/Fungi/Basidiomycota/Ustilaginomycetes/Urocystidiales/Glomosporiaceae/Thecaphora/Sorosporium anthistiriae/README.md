@@ -1,5 +1,4 @@
-Sorosporium anthistiriae (Cobb) L. Ling SPECIES
-=======
+# Sorosporium anthistiriae (Cobb) L. Ling SPECIES
 
 #### Status
 ACCEPTED

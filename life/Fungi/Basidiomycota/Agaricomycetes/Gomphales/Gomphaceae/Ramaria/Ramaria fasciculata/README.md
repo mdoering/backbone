@@ -1,5 +1,4 @@
-Ramaria fasciculata (Coker) R.H. Petersen SPECIES
-=======
+# Ramaria fasciculata (Coker) R.H. Petersen SPECIES
 
 #### Status
 ACCEPTED

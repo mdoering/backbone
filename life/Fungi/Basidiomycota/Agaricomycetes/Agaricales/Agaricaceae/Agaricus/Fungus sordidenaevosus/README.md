@@ -1,5 +1,4 @@
-Fungus sordidenaevosus Paulet SPECIES
-=======
+# Fungus sordidenaevosus Paulet SPECIES
 
 #### Status
 ACCEPTED

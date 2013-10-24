@@ -1,17 +1,16 @@
-Plochmothea Syd. GENUS
-=======
+# Xenostomella Syd. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 37(4/5): 395 (1939)
+Annls mycol. 28(1/2): 130 (1930)
 
 #### Original name
-Plochmothea Syd.
+Xenostomella Syd.
 
 ### Remarks
 null

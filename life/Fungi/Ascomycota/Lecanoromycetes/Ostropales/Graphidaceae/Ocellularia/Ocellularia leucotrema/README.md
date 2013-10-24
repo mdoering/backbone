@@ -1,14 +1,13 @@
-Thelotrema leucotrema Nyl. SPECIES
-=======
+# Ocellularia leucotrema (Nyl.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Mém. Soc. natn. Sci. nat. math. Cherbourg 5: 118 (1890)
+Cat. Lich. Univers. 2: 594 (1923)
 
 #### Original name
 Thelotrema leucotrema Nyl.

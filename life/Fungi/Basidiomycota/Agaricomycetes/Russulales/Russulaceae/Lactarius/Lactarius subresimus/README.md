@@ -1,5 +1,4 @@
-Lactarius subresimus O.K. Mill. SPECIES
-=======
+# Lactarius subresimus O.K. Mill. SPECIES
 
 #### Status
 ACCEPTED

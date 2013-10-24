@@ -1,5 +1,4 @@
-Hypoxylonites vittatoides Elsik SPECIES
-=======
+# Hypoxylonites vittatoides Elsik SPECIES
 
 #### Status
 ACCEPTED

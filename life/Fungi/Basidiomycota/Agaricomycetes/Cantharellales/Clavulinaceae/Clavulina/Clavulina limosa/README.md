@@ -1,5 +1,4 @@
-Clavulina limosa K.S. Thind & Sharda, 1984 SPECIES
-=======
+# Clavulina limosa K.S. Thind & Sharda, 1984 SPECIES
 
 #### Status
 ACCEPTED

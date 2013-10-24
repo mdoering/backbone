@@ -1,5 +1,4 @@
-Dendroecia farlowiana (Dietel) Arthur SPECIES
-=======
+# Dendroecia farlowiana (Dietel) Arthur SPECIES
 
 #### Status
 ACCEPTED

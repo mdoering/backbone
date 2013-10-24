@@ -1,5 +1,4 @@
-Micropeltis guianensis F. Stevens & Manter SPECIES
-=======
+# Micropeltis guianensis F. Stevens & Manter SPECIES
 
 #### Status
 ACCEPTED

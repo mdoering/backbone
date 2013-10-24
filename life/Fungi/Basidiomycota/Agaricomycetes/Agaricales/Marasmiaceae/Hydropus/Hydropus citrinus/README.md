@@ -1,5 +1,4 @@
-Hydropus citrinus Singer SPECIES
-=======
+# Hydropus citrinus Singer SPECIES
 
 #### Status
 ACCEPTED

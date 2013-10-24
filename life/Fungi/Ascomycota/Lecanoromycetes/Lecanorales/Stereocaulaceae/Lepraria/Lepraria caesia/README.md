@@ -1,5 +1,4 @@
-Lepraria caesia Ach. SPECIES
-=======
+# Lepraria caesia Ach. SPECIES
 
 #### Status
 ACCEPTED

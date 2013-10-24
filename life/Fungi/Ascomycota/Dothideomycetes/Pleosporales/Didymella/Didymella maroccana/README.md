@@ -1,5 +1,4 @@
-Didymella maroccana Rieuf SPECIES
-=======
+# Didymella maroccana Rieuf SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vibrio fischeri (Beijerinck, 1889) Lehmann and Neumann, 1896 (Approved Lists, 1980) SPECIES
-=======
+# Vibrio fischeri (Beijerinck, 1889) Lehmann and Neumann, 1896 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

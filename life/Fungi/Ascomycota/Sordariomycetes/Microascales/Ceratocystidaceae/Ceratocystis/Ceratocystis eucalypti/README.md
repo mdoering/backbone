@@ -1,5 +1,4 @@
-Ceratocystis eucalypti Z.Q. Yuan & Kile SPECIES
-=======
+# Ceratocystis eucalypti Z.Q. Yuan & Kile SPECIES
 
 #### Status
 ACCEPTED

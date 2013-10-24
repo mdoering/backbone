@@ -1,5 +1,4 @@
-Vaginicola truncata SPECIES
-=======
+# Vaginicola truncata SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichothelium ulei (P. Henn.) Höhn. SPECIES
-=======
+# Trichothelium ulei (P. Henn.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

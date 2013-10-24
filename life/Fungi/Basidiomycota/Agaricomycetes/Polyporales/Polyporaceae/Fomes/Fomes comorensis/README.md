@@ -1,5 +1,4 @@
-Fomes comorensis Henn. SPECIES
-=======
+# Fomes comorensis Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Deuterammina balkwilli Broennimann & Whittaker, 1983 SPECIES
-=======
+# Deuterammina balkwilli Broennimann & Whittaker, 1983 SPECIES
 
 #### Status
 ACCEPTED

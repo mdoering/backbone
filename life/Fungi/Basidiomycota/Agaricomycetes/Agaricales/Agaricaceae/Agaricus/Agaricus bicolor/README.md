@@ -1,5 +1,4 @@
-Agaricus bicolor Batsch SPECIES
-=======
+# Agaricus bicolor Batsch SPECIES
 
 #### Status
 ACCEPTED

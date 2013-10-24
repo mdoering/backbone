@@ -1,5 +1,4 @@
-Tricholoma virescens Peck SPECIES
-=======
+# Tricholoma virescens Peck SPECIES
 
 #### Status
 ACCEPTED

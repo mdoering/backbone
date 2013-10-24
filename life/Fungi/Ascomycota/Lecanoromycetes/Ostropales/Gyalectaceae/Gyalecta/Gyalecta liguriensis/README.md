@@ -1,5 +1,4 @@
-Gyalecta liguriensis (Vezda) Vezda SPECIES
-=======
+# Gyalecta liguriensis (Vezda) Vezda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectria squamuligera Sacc. SPECIES
-=======
+# Nectria squamuligera Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta parkinsoniae Ellis & Everh. SPECIES
-=======
+# Phyllosticta parkinsoniae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

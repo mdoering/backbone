@@ -1,5 +1,4 @@
-Boletus scleropus Vittad. SPECIES
-=======
+# Boletus scleropus Vittad. SPECIES
 
 #### Status
 ACCEPTED

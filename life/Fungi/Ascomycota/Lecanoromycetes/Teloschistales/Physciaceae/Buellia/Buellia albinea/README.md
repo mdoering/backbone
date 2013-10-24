@@ -1,5 +1,4 @@
-Buellia albinea Müll. Arg. SPECIES
-=======
+# Buellia albinea Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

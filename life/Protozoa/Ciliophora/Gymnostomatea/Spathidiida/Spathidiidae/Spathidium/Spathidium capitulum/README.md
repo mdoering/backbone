@@ -1,5 +1,4 @@
-Spathidium capitulum Kahl, 1930 SPECIES
-=======
+# Spathidium capitulum Kahl, 1930 SPECIES
 
 #### Status
 ACCEPTED

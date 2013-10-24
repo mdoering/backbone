@@ -1,17 +1,16 @@
-Puccinia variabilis var. variabilis VARIETY
-=======
+# Puccinia variabilis Grev., 1824 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Scott. crypt. fl. (Edinburgh) pl. 75 (1824)
+Scott. crypt. fl. (Edinburgh) 2: pl. 75 (1824)
 
 #### Original name
-Puccinia variabilis var. variabilis
+Puccinia variabilis Grev., 1824
 
 ### Remarks
 null

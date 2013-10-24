@@ -1,5 +1,4 @@
-Irene mammillata Hansf. SPECIES
-=======
+# Irene mammillata Hansf. SPECIES
 
 #### Status
 ACCEPTED

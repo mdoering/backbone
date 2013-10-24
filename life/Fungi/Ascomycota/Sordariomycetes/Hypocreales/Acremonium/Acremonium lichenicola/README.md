@@ -1,5 +1,4 @@
-Acremonium lichenicola W. Gams, 1971 SPECIES
-=======
+# Acremonium lichenicola W. Gams, 1971 SPECIES
 
 #### Status
 ACCEPTED

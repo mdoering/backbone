@@ -1,5 +1,4 @@
-Sciniatosporium pulvinatum (Kunze ex Link) E.B.G. Jones SPECIES
-=======
+# Sciniatosporium pulvinatum (Kunze ex Link) E.B.G. Jones SPECIES
 
 #### Status
 ACCEPTED

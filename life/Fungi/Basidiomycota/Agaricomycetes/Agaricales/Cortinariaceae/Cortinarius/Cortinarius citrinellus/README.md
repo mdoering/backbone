@@ -1,5 +1,4 @@
-Cortinarius citrinellus Kauffman SPECIES
-=======
+# Cortinarius citrinellus Kauffman SPECIES
 
 #### Status
 ACCEPTED

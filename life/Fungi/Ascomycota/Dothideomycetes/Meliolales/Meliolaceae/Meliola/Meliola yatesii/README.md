@@ -1,5 +1,4 @@
-Meliola yatesii Syd. SPECIES
-=======
+# Meliola yatesii Syd. SPECIES
 
 #### Status
 ACCEPTED

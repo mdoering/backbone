@@ -1,5 +1,4 @@
-Entophysalis maior Ercegovic SPECIES
-=======
+# Entophysalis maior Ercegovic SPECIES
 
 #### Status
 ACCEPTED

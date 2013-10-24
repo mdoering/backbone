@@ -1,5 +1,4 @@
-Clausiella P. Palik, 1966 GENUS
-=======
+# Clausiella P. Palik, 1966 GENUS
 
 #### Status
 ACCEPTED

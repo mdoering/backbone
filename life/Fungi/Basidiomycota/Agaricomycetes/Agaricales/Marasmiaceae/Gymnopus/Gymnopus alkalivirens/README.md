@@ -1,5 +1,4 @@
-Gymnopus alkalivirens (Singer) Halling, 1997 SPECIES
-=======
+# Gymnopus alkalivirens (Singer) Halling, 1997 SPECIES
 
 #### Status
 ACCEPTED

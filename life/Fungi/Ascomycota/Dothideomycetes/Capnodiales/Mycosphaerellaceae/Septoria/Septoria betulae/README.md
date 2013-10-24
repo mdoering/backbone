@@ -1,5 +1,4 @@
-Septoria betulae Pass., 1867 SPECIES
-=======
+# Septoria betulae Pass., 1867 SPECIES
 
 #### Status
 ACCEPTED

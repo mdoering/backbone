@@ -1,5 +1,4 @@
-Thelephora padinaeformis Mont. SPECIES
-=======
+# Thelephora padinaeformis Mont. SPECIES
 
 #### Status
 ACCEPTED

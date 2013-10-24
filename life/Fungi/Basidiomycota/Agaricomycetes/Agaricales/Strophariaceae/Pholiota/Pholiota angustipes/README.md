@@ -1,5 +1,4 @@
-Pholiota angustipes Peck SPECIES
-=======
+# Pholiota angustipes Peck SPECIES
 
 #### Status
 ACCEPTED

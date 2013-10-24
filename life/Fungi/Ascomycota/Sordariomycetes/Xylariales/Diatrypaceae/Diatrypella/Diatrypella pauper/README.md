@@ -1,8 +1,7 @@
-Diatrypella paupera Ellis & Everh. SPECIES
-=======
+# Diatrypella pauper Ellis & Everh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Diatrypella paupera Ellis & Everh.
+Diatrypella pauper Ellis & Everh.
 
 ### Remarks
 null

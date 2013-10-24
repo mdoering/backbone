@@ -1,5 +1,4 @@
-Fursenkoina pontoni SPECIES
-=======
+# Fursenkoina pontoni SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phellinites digiustoi Singer & S. Archang. SPECIES
-=======
+# Phellinites digiustoi Singer & S. Archang. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Guepinia multiloba Miq. SPECIES
-=======
+# Guepinia multiloba Miq. SPECIES
 
 #### Status
 ACCEPTED

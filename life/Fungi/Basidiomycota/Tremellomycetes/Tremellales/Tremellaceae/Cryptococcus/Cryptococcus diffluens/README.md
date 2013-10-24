@@ -1,17 +1,16 @@
-Cryptococcus diffluens var. nonmembranaefaciens Y. Ohara & Nonom. VARIETY
-=======
+# Cryptococcus diffluens (Zach) Lodder & Kreger-van Rij, 1952 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. agric. Chem. Soc. Japan 28: 718 (1954)
+The Yeasts (London), Vol. <b>4</b>. Yeast Organelles. Edn 2 391 (1952)
 
 #### Original name
-Cryptococcus diffluens var. nonmembranaefaciens Y. Ohara & Nonom.
+null
 
 ### Remarks
 null

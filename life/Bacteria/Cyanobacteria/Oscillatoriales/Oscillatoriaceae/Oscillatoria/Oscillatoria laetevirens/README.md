@@ -1,8 +1,7 @@
-Oscillaria laetevirens P. Crouan & H. Crouan SPECIES
-=======
+# Oscillatoria laetevirens (P.L. Crouan & H.M. Crouan) Gomont SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

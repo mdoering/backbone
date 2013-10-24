@@ -1,5 +1,4 @@
-Collybia abutyracea Cleland SPECIES
-=======
+# Collybia abutyracea Cleland SPECIES
 
 #### Status
 ACCEPTED

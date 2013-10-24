@@ -1,5 +1,4 @@
-Porpidia pseudocrustulata Hertel SPECIES
-=======
+# Porpidia pseudocrustulata Hertel SPECIES
 
 #### Status
 ACCEPTED

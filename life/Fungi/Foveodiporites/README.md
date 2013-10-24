@@ -1,5 +1,4 @@
-Foveodiporites C.P. Varma & Rawat GENUS
-=======
+# Foveodiporites C.P. Varma & Rawat GENUS
 
 #### Status
 ACCEPTED

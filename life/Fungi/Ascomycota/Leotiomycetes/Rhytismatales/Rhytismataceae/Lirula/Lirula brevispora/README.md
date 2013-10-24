@@ -1,5 +1,4 @@
-Lirula brevispora Ziller, 1969 SPECIES
-=======
+# Lirula brevispora Ziller, 1969 SPECIES
 
 #### Status
 ACCEPTED

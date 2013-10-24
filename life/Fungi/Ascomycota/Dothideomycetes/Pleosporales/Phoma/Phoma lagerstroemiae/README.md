@@ -1,5 +1,4 @@
-Phoma lagerstroemiae var. lagerstroemiae VARIETY
-=======
+# Phoma lagerstroemiae Speg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phoma lagerstroemiae var. lagerstroemiae
+Phoma lagerstroemiae Speg.
 
 ### Remarks
 null

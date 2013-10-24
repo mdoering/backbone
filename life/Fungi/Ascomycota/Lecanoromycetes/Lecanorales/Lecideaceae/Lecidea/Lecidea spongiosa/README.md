@@ -1,5 +1,4 @@
-Lecidea spongiosa Clemente SPECIES
-=======
+# Lecidea spongiosa Clemente SPECIES
 
 #### Status
 ACCEPTED

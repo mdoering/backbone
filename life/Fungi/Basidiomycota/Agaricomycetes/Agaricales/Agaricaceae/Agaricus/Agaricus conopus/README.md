@@ -1,5 +1,4 @@
-Agaricus conopus Fr. SPECIES
-=======
+# Agaricus conopus Fr. SPECIES
 
 #### Status
 ACCEPTED

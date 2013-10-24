@@ -1,5 +1,4 @@
-Lecanora luridofusca SPECIES
-=======
+# Lecanora luridofusca SPECIES
 
 #### Status
 ACCEPTED

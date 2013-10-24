@@ -1,5 +1,4 @@
-Lecidea glabriuscula Nyl. SPECIES
-=======
+# Lecidea glabriuscula Nyl. SPECIES
 
 #### Status
 ACCEPTED

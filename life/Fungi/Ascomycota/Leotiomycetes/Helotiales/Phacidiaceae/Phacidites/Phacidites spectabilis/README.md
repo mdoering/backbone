@@ -1,5 +1,4 @@
-Phacidites spectabilis (Heer) Mesch. SPECIES
-=======
+# Phacidites spectabilis (Heer) Mesch. SPECIES
 
 #### Status
 ACCEPTED

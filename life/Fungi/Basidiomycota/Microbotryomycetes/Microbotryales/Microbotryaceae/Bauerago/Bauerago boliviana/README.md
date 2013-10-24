@@ -1,5 +1,4 @@
-Bauerago boliviana M. Piepenbr. SPECIES
-=======
+# Bauerago boliviana M. Piepenbr. SPECIES
 
 #### Status
 ACCEPTED

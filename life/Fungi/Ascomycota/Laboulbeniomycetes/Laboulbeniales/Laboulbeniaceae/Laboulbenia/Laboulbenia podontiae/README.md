@@ -1,5 +1,4 @@
-Laboulbenia podontiae Thaxt. SPECIES
-=======
+# Laboulbenia podontiae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cornuspiramia antillarum (Cushman, 1922) SPECIES
-=======
+# Cornuspiramia antillarum (Cushman, 1922) SPECIES
 
 #### Status
 ACCEPTED

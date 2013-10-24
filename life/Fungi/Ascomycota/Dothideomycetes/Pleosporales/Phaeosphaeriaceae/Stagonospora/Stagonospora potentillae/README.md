@@ -1,5 +1,4 @@
-Stagonospora potentillae Byzova SPECIES
-=======
+# Stagonospora potentillae Byzova SPECIES
 
 #### Status
 ACCEPTED

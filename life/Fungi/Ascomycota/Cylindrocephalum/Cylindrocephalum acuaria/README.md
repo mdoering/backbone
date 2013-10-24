@@ -1,5 +1,4 @@
-Cylindrocephalum acuaria Cooke & Ellis SPECIES
-=======
+# Cylindrocephalum acuaria Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

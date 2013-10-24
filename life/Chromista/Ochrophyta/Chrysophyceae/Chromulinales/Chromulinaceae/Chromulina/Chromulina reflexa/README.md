@@ -1,5 +1,4 @@
-Chromulina reflexa SPECIES
-=======
+# Chromulina reflexa SPECIES
 
 #### Status
 ACCEPTED

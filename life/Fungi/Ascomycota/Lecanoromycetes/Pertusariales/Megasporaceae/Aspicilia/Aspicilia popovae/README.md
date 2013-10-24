@@ -1,5 +1,4 @@
-Aspicilia popovae Sedeln. SPECIES
-=======
+# Aspicilia popovae Sedeln. SPECIES
 
 #### Status
 ACCEPTED

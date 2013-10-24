@@ -1,5 +1,4 @@
-Polyblastia hegetschweileri (Nägeli) Trevis. SPECIES
-=======
+# Polyblastia hegetschweileri (Nägeli) Trevis. SPECIES
 
 #### Status
 ACCEPTED

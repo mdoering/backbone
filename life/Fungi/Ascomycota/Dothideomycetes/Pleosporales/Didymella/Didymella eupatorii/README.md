@@ -1,5 +1,4 @@
-Didymella eupatorii F. Stevens SPECIES
-=======
+# Didymella eupatorii F. Stevens SPECIES
 
 #### Status
 ACCEPTED

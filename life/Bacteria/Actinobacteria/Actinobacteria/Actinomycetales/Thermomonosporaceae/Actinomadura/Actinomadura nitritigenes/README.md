@@ -1,5 +1,4 @@
-Actinomadura nitritigenes Lipski & Altendorf, 1995 SPECIES
-=======
+# Actinomadura nitritigenes Lipski & Altendorf, 1995 SPECIES
 
 #### Status
 ACCEPTED

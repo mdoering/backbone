@@ -1,5 +1,4 @@
-Quasipadangia Lin, 1987 GENUS
-=======
+# Quasipadangia Lin, 1987 GENUS
 
 #### Status
 ACCEPTED

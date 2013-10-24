@@ -1,5 +1,4 @@
-Lasiosphaeria hystrix Ellis & Everh. SPECIES
-=======
+# Lasiosphaeria hystrix Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

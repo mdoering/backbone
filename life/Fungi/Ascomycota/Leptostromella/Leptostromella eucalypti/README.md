@@ -1,5 +1,4 @@
-Leptostromella eucalypti Cooke & Massee SPECIES
-=======
+# Leptostromella eucalypti Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

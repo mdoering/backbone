@@ -1,5 +1,4 @@
-Archaeodiscina xinmincunensis Yin Chongyu in Xing Yusheng et al., 1985 SPECIES
-=======
+# Archaeodiscina xinmincunensis Yin Chongyu in Xing Yusheng et al., 1985 SPECIES
 
 #### Status
 ACCEPTED

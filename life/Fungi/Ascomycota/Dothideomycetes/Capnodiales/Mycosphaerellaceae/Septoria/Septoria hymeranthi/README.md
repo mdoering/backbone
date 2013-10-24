@@ -1,5 +1,4 @@
-Septoria hymeranthi Speg. SPECIES
-=======
+# Septoria hymeranthi Speg. SPECIES
 
 #### Status
 ACCEPTED

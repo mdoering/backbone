@@ -1,5 +1,4 @@
-Coryneum populicola Hollós SPECIES
-=======
+# Coryneum populicola Hollós SPECIES
 
 #### Status
 ACCEPTED

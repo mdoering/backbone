@@ -1,5 +1,4 @@
-Lepiota volvatula Pegler SPECIES
-=======
+# Lepiota volvatula Pegler SPECIES
 
 #### Status
 ACCEPTED

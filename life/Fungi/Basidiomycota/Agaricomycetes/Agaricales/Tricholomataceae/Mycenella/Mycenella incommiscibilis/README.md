@@ -1,5 +1,4 @@
-Mycenella incommiscibilis (Berk.) Maas Geest. SPECIES
-=======
+# Mycenella incommiscibilis (Berk.) Maas Geest. SPECIES
 
 #### Status
 ACCEPTED

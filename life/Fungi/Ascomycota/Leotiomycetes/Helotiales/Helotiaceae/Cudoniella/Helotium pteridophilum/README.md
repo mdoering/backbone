@@ -1,5 +1,4 @@
-Helotium pteridophilum Penz. & Sacc. SPECIES
-=======
+# Helotium pteridophilum Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

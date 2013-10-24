@@ -1,5 +1,4 @@
-Anabaena pintoi P. González SPECIES
-=======
+# Anabaena pintoi P. González SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laboulbenia funeralis Thaxt. SPECIES
-=======
+# Laboulbenia funeralis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

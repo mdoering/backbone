@@ -1,5 +1,4 @@
-Chromostylium chrysorrheae (Giard) Giard SPECIES
-=======
+# Chromostylium chrysorrheae (Giard) Giard SPECIES
 
 #### Status
 ACCEPTED

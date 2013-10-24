@@ -1,5 +1,4 @@
-Leucocoprinus flavus (Beeli) Heinem. SPECIES
-=======
+# Leucocoprinus flavus (Beeli) Heinem. SPECIES
 
 #### Status
 ACCEPTED

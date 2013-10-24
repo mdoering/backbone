@@ -1,5 +1,4 @@
-Caloplaca aegyptiaca var. aegyptiaca VARIETY
-=======
+# Caloplaca aegyptiaca (Müll. Arg.) J. Steiner SPECIES
 
 #### Status
 ACCEPTED

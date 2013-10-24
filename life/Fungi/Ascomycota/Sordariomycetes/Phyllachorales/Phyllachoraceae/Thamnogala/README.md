@@ -1,5 +1,4 @@
-Thamnogala GENUS
-=======
+# Thamnogala GENUS
 
 #### Status
 ACCEPTED

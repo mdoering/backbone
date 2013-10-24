@@ -1,5 +1,4 @@
-Lecanora limitata H. Magn. SPECIES
-=======
+# Lecanora limitata H. Magn. SPECIES
 
 #### Status
 ACCEPTED

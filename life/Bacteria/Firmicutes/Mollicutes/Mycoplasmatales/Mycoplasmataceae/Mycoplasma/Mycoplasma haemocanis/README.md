@@ -1,11 +1,10 @@
-Bartonella canis Kikuth, 1928 SPECIES
-=======
+# Mycoplasma haemocanis (Kreier & Ristic, 1984) Messick et al., 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

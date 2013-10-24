@@ -1,5 +1,4 @@
-Trachyhystrichosphaera magna Allison in Allison & Awramik, 1989 SPECIES
-=======
+# Trachyhystrichosphaera magna Allison in Allison & Awramik, 1989 SPECIES
 
 #### Status
 ACCEPTED

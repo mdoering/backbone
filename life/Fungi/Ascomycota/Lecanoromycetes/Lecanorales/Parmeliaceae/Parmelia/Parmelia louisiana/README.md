@@ -1,5 +1,4 @@
-Parmelia louisiana Hale SPECIES
-=======
+# Parmelia louisiana Hale SPECIES
 
 #### Status
 ACCEPTED

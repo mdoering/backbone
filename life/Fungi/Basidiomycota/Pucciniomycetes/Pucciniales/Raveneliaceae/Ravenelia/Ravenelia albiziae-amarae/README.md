@@ -1,8 +1,7 @@
-Ravenelia albizziae-amarae Bacc. SPECIES
-=======
+# Ravenelia albiziae-amarae Bacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ravenelia albizziae-amarae Bacc.
+Ravenelia albiziae-amarae Bacc.
 
 ### Remarks
 null

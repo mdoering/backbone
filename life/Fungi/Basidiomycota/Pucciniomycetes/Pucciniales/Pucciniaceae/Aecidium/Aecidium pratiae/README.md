@@ -1,5 +1,4 @@
-Aecidium pratiae Speg. SPECIES
-=======
+# Aecidium pratiae Speg. SPECIES
 
 #### Status
 ACCEPTED

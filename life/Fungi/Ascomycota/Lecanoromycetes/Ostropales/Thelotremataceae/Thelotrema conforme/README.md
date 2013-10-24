@@ -1,5 +1,4 @@
-Thelotrema conforme Kremp. SPECIES
-=======
+# Thelotrema conforme Kremp. SPECIES
 
 #### Status
 ACCEPTED

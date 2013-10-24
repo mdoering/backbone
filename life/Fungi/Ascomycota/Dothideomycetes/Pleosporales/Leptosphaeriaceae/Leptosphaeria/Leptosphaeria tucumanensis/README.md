@@ -1,5 +1,4 @@
-Leptosphaeria tucumanensis Speg. SPECIES
-=======
+# Leptosphaeria tucumanensis Speg. SPECIES
 
 #### Status
 ACCEPTED

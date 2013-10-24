@@ -1,5 +1,4 @@
-Denitrovibrio acetiphilus Myhr & Torsvik, 2000 SPECIES
-=======
+# Denitrovibrio acetiphilus Myhr & Torsvik, 2000 SPECIES
 
 #### Status
 ACCEPTED

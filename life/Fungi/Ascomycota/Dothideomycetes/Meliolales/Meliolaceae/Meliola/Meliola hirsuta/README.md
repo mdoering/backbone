@@ -1,5 +1,4 @@
-Meliola hirsuta Hansf. & Deighton SPECIES
-=======
+# Meliola hirsuta Hansf. & Deighton SPECIES
 
 #### Status
 ACCEPTED

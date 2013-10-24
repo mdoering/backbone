@@ -1,5 +1,4 @@
-Phyllachora pestis-nigra Speg., 1885 SPECIES
-=======
+# Phyllachora pestis-nigra Speg., 1885 SPECIES
 
 #### Status
 DOUBTFUL

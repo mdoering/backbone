@@ -1,5 +1,4 @@
-Jahniella hordei Petr. SPECIES
-=======
+# Jahniella hordei Petr. SPECIES
 
 #### Status
 ACCEPTED

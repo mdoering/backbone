@@ -1,5 +1,4 @@
-Stereocaulon commixtum (Asahina) Asahina SPECIES
-=======
+# Stereocaulon commixtum (Asahina) Asahina SPECIES
 
 #### Status
 ACCEPTED

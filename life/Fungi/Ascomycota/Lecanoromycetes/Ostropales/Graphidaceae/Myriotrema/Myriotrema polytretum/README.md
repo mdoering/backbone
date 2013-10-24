@@ -1,5 +1,4 @@
-Myriotrema polytretum Hale SPECIES
-=======
+# Myriotrema polytretum Hale SPECIES
 
 #### Status
 ACCEPTED

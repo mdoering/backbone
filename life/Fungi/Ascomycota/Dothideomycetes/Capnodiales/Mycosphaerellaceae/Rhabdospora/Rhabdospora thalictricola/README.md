@@ -1,5 +1,4 @@
-Rhabdospora thalictricola Hollós SPECIES
-=======
+# Rhabdospora thalictricola Hollós SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Atractium rigidum Bonord. SPECIES
-=======
+# Atractium rigidum Bonord. SPECIES
 
 #### Status
 ACCEPTED

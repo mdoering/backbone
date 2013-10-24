@@ -1,5 +1,4 @@
-Lecidea aspicilioidea var. aspicilioidea VARIETY
-=======
+# Lecidea aspicilioidea Th. Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea aspicilioidea var. aspicilioidea
+Lecidea aspicilioidea Th. Fr.
 
 ### Remarks
 null

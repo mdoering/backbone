@@ -1,5 +1,4 @@
-Harbinia Zhang & Yang in Zhang, Yan & Mu, 1993 GENUS
-=======
+# Harbinia Zhang & Yang in Zhang, Yan & Mu, 1993 GENUS
 
 #### Status
 ACCEPTED

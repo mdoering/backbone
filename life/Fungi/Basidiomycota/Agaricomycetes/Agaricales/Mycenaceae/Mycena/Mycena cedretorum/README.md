@@ -1,5 +1,4 @@
-Mycena cedretorum Maire SPECIES
-=======
+# Mycena cedretorum Maire SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dimerospora silvestris (Arnold) Syd. SPECIES
-=======
+# Dimerospora silvestris (Arnold) Syd. SPECIES
 
 #### Status
 ACCEPTED

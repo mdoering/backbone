@@ -1,5 +1,4 @@
-Cortinarius pinophilus Soop SPECIES
-=======
+# Cortinarius pinophilus Soop SPECIES
 
 #### Status
 ACCEPTED

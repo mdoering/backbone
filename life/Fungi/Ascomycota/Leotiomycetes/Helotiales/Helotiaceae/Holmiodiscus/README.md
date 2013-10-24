@@ -1,5 +1,4 @@
-Holmiodiscus Svrcek GENUS
-=======
+# Holmiodiscus Svrcek GENUS
 
 #### Status
 ACCEPTED

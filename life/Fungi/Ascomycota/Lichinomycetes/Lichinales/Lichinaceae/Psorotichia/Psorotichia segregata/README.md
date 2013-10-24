@@ -1,5 +1,4 @@
-Psorotichia segregata (Nyl.) Hasse SPECIES
-=======
+# Psorotichia segregata (Nyl.) Hasse SPECIES
 
 #### Status
 ACCEPTED

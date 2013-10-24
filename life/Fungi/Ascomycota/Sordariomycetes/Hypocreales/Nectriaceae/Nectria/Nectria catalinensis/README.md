@@ -1,5 +1,4 @@
-Nectria catalinensis C.E. Lima SPECIES
-=======
+# Nectria catalinensis C.E. Lima SPECIES
 
 #### Status
 ACCEPTED

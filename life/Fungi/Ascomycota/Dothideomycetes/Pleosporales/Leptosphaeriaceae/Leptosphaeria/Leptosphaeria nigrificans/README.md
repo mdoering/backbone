@@ -1,5 +1,4 @@
-Leptosphaeria nigrificans Bubák & Wróbl. SPECIES
-=======
+# Leptosphaeria nigrificans Bubák & Wróbl. SPECIES
 
 #### Status
 ACCEPTED

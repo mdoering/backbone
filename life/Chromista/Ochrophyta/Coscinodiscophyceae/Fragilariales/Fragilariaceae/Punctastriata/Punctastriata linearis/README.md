@@ -1,5 +1,4 @@
-Punctastriata linearis D.M.Williams & Round SPECIES
-=======
+# Punctastriata linearis D.M.Williams & Round SPECIES
 
 #### Status
 ACCEPTED

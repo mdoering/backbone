@@ -1,5 +1,4 @@
-Rhachomyces feloi W. Rossi SPECIES
-=======
+# Rhachomyces feloi W. Rossi SPECIES
 
 #### Status
 ACCEPTED

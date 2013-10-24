@@ -1,5 +1,4 @@
-Annulohypoxylon Y.M. Ju, J.D. Rogers & H.M. Hsieh GENUS
-=======
+# Annulohypoxylon Y.M. Ju, J.D. Rogers & H.M. Hsieh GENUS
 
 #### Status
 ACCEPTED

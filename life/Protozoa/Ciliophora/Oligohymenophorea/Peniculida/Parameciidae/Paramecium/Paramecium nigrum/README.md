@@ -1,5 +1,4 @@
-Paramecium nigrum Bürger, 1908 SPECIES
-=======
+# Paramecium nigrum Bürger, 1908 SPECIES
 
 #### Status
 ACCEPTED

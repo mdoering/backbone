@@ -1,5 +1,4 @@
-Anacystis minutissima Gardner SPECIES
-=======
+# Anacystis minutissima Gardner SPECIES
 
 #### Status
 ACCEPTED

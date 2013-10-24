@@ -1,5 +1,4 @@
-Opegraphomyces GENUS
-=======
+# Opegraphomyces GENUS
 
 #### Status
 ACCEPTED

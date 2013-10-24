@@ -1,5 +1,4 @@
-Phaeocalicium asciiforme Tibell SPECIES
-=======
+# Phaeocalicium asciiforme Tibell SPECIES
 
 #### Status
 ACCEPTED

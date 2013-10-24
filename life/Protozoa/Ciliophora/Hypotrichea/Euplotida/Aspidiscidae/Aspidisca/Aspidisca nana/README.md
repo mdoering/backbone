@@ -1,5 +1,4 @@
-Aspidisca nana SPECIES
-=======
+# Aspidisca nana SPECIES
 
 #### Status
 ACCEPTED

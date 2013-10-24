@@ -1,5 +1,4 @@
-Gonohymenia inflata Henssen SPECIES
-=======
+# Gonohymenia inflata Henssen SPECIES
 
 #### Status
 ACCEPTED

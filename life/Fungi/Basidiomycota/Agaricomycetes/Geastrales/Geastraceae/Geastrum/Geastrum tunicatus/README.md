@@ -1,5 +1,4 @@
-Geastrum tunicatus Vittad. SPECIES
-=======
+# Geastrum tunicatus Vittad. SPECIES
 
 #### Status
 ACCEPTED

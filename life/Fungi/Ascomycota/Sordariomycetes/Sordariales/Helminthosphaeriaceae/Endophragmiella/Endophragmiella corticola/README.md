@@ -1,5 +1,4 @@
-Endophragmiella corticola P.M. Kirk, 1982 SPECIES
-=======
+# Endophragmiella corticola P.M. Kirk, 1982 SPECIES
 
 #### Status
 ACCEPTED

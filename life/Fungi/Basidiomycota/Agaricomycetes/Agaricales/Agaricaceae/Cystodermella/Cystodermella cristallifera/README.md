@@ -1,14 +1,13 @@
-Cystoderma cristalliferum Thoen, 1969 SPECIES
-=======
+# Cystodermella cristallifera (Thoen) Harmaja, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Karstenia 42(2): 46 (2002)
 
 #### Original name
 Cystoderma cristalliferum Thoen, 1969

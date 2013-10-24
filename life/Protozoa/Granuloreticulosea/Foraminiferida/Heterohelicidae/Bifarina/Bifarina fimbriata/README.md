@@ -1,5 +1,4 @@
-Bifarina fimbriata Millett SPECIES
-=======
+# Bifarina fimbriata Millett SPECIES
 
 #### Status
 ACCEPTED

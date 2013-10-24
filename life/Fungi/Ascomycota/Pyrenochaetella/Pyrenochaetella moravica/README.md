@@ -1,5 +1,4 @@
-Pyrenochaetella moravica Petr. SPECIES
-=======
+# Pyrenochaetella moravica Petr. SPECIES
 
 #### Status
 ACCEPTED

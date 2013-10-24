@@ -1,5 +1,4 @@
-Psoroma palmatula SPECIES
-=======
+# Psoroma palmatula SPECIES
 
 #### Status
 ACCEPTED

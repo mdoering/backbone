@@ -1,5 +1,4 @@
-Xystonellopsis Jörgensen, 1925 GENUS
-=======
+# Xystonellopsis Jörgensen, 1925 GENUS
 
 #### Status
 ACCEPTED

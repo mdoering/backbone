@@ -1,5 +1,4 @@
-Aecidium guatteriae Dietel SPECIES
-=======
+# Aecidium guatteriae Dietel SPECIES
 
 #### Status
 ACCEPTED

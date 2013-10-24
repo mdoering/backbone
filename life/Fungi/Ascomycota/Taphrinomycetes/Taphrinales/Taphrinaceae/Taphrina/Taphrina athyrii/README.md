@@ -1,5 +1,4 @@
-Taphrina athyrii Siemaszko, 1923 SPECIES
-=======
+# Taphrina athyrii Siemaszko, 1923 SPECIES
 
 #### Status
 ACCEPTED

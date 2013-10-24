@@ -1,14 +1,13 @@
-Ustilago aristidae-cyananthae Bref., 1895 SPECIES
-=======
+# Macalpinomyces aristidae-cyananthae (Bref.) Vánky, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Unters. Gesammtgeb. Mykol. 12: 102 (1895)
+Mycotaxon 78: 303 (2001)
 
 #### Original name
 Ustilago aristidae-cyananthae Bref., 1895

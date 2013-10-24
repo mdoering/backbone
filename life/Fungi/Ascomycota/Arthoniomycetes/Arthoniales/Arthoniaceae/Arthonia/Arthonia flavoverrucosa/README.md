@@ -1,5 +1,4 @@
-Arthonia flavoverrucosa U. Becker & Lücking SPECIES
-=======
+# Arthonia flavoverrucosa U. Becker & Lücking SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sparrowia subcruciformis Dogma, 1971 SPECIES
-=======
+# Sparrowia subcruciformis Dogma, 1971 SPECIES
 
 #### Status
 ACCEPTED

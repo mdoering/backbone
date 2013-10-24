@@ -1,5 +1,4 @@
-Macrophoma diospyricola Woron. SPECIES
-=======
+# Macrophoma diospyricola Woron. SPECIES
 
 #### Status
 ACCEPTED

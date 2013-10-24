@@ -1,5 +1,4 @@
-Methylomonas fodinarum Bowman et al., 1990 SPECIES
-=======
+# Methylomonas fodinarum Bowman et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

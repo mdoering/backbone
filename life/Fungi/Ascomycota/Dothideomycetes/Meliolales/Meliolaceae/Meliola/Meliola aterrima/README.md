@@ -1,5 +1,4 @@
-Meliola aterrima Syd. SPECIES
-=======
+# Meliola aterrima Syd. SPECIES
 
 #### Status
 ACCEPTED

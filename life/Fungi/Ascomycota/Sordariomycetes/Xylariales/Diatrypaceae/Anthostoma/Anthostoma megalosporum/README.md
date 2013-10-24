@@ -1,5 +1,4 @@
-Anthostoma megalosporum Rehm SPECIES
-=======
+# Anthostoma megalosporum Rehm SPECIES
 
 #### Status
 ACCEPTED

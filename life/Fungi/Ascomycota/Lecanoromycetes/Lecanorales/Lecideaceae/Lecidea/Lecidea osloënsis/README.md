@@ -1,5 +1,4 @@
-Lecidea osloënsis Th. Fr. SPECIES
-=======
+# Lecidea osloënsis Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

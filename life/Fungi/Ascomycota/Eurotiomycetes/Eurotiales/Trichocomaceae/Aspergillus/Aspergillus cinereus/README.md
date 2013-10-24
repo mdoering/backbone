@@ -1,5 +1,4 @@
-Aspergillus cinereus Speg. SPECIES
-=======
+# Aspergillus cinereus Speg. SPECIES
 
 #### Status
 ACCEPTED

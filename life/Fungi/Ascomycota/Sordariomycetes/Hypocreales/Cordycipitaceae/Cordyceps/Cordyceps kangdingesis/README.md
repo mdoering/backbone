@@ -1,5 +1,4 @@
-Cordyceps kangdingesis SPECIES
-=======
+# Cordyceps kangdingesis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Schistodes erysiphinum (Henn.) Theiss. SPECIES
-=======
+# Schistodes erysiphinum (Henn.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

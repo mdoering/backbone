@@ -1,5 +1,4 @@
-Russula pseudoareolata McNabb, 1973 SPECIES
-=======
+# Russula pseudoareolata McNabb, 1973 SPECIES
 
 #### Status
 ACCEPTED

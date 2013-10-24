@@ -1,5 +1,4 @@
-Cercidospora segna (Cooke & Ellis) Kuntze SPECIES
-=======
+# Cercidospora segna (Cooke & Ellis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

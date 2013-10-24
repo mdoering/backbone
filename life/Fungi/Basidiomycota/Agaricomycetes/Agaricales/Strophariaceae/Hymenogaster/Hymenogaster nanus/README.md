@@ -1,5 +1,4 @@
-Hymenogaster nanus Massee & Rodway, 1899 SPECIES
-=======
+# Hymenogaster nanus Massee & Rodway, 1899 SPECIES
 
 #### Status
 ACCEPTED

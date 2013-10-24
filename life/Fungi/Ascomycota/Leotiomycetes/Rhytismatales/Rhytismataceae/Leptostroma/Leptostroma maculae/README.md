@@ -1,5 +1,4 @@
-Leptostroma maculae Lib. SPECIES
-=======
+# Leptostroma maculae Lib. SPECIES
 
 #### Status
 ACCEPTED

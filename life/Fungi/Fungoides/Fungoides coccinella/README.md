@@ -1,5 +1,4 @@
-Fungoides coccinella P. Micheli SPECIES
-=======
+# Fungoides coccinella P. Micheli SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Protoceratium splendens Meunier, 1910 SPECIES
-=======
+# Protoceratium splendens Meunier, 1910 SPECIES
 
 #### Status
 ACCEPTED

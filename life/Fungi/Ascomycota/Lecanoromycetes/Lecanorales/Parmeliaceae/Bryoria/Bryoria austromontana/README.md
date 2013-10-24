@@ -1,5 +1,4 @@
-Bryoria austromontana P.M. Jørg. & D.J. Galloway SPECIES
-=======
+# Bryoria austromontana P.M. Jørg. & D.J. Galloway SPECIES
 
 #### Status
 ACCEPTED

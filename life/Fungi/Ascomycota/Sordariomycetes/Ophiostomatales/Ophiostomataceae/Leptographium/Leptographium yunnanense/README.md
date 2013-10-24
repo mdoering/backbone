@@ -1,5 +1,4 @@
-Leptographium yunnanense X.D. Zhou, K. Jacobs, M.J. Wingf. & M. Morelet SPECIES
-=======
+# Leptographium yunnanense X.D. Zhou, K. Jacobs, M.J. Wingf. & M. Morelet SPECIES
 
 #### Status
 ACCEPTED

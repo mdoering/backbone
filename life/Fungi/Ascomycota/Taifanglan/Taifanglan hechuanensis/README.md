@@ -1,5 +1,4 @@
-Taifanglan hechuanensis Z.Q. Liang, Y.F. Han, H.L. Chu & R.T.V. Fox SPECIES
-=======
+# Taifanglan hechuanensis Z.Q. Liang, Y.F. Han, H.L. Chu & R.T.V. Fox SPECIES
 
 #### Status
 ACCEPTED

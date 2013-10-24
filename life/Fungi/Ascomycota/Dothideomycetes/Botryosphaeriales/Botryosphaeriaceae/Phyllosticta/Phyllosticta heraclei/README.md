@@ -1,5 +1,4 @@
-Phyllosticta heraclei Ellis & Dearn. SPECIES
-=======
+# Phyllosticta heraclei Ellis & Dearn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Linocarpon sulcatum Dulym., P.F. Cannon & Peerally SPECIES
-=======
+# Linocarpon sulcatum Dulym., P.F. Cannon & Peerally SPECIES
 
 #### Status
 ACCEPTED

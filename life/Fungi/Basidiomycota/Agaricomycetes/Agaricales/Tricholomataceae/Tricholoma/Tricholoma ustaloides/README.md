@@ -1,17 +1,16 @@
-Tricholoma ustaloides var. ustaloides VARIETY
-=======
+# Tricholoma ustaloides Romagn., 1954 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Bull. Soc. nat. Oyonnax 8: 76 (1954)
 
 #### Original name
-Tricholoma ustaloides var. ustaloides
+Tricholoma ustaloides Romagn., 1954
 
 ### Remarks
 null

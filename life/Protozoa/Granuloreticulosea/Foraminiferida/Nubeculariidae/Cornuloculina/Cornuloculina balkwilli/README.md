@@ -1,5 +1,4 @@
-Cornuloculina balkwilli SPECIES
-=======
+# Cornuloculina balkwilli SPECIES
 
 #### Status
 ACCEPTED

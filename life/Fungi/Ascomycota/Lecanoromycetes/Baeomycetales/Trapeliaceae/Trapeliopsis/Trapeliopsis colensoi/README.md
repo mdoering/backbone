@@ -1,14 +1,13 @@
-Biatora colensoi C. Bab. SPECIES
-=======
+# Trapeliopsis colensoi (C. Bab.) Gotth. Schneid. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biblthca Lichenol. 13: 146 (1980)
 
 #### Original name
 Biatora colensoi C. Bab.

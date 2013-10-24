@@ -1,5 +1,4 @@
-Sphenomonas excavata Playfair SPECIES
-=======
+# Sphenomonas excavata Playfair SPECIES
 
 #### Status
 ACCEPTED

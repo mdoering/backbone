@@ -1,5 +1,4 @@
-Ovularia circumscissa Sorokin SPECIES
-=======
+# Ovularia circumscissa Sorokin SPECIES
 
 #### Status
 ACCEPTED

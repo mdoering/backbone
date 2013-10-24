@@ -1,5 +1,4 @@
-Katodinium fastigatum B. Kirschhoff & B. Meyer SPECIES
-=======
+# Katodinium fastigatum B. Kirschhoff & B. Meyer SPECIES
 
 #### Status
 ACCEPTED

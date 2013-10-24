@@ -1,5 +1,4 @@
-Cryptothelium defossum (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Cryptothelium defossum (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

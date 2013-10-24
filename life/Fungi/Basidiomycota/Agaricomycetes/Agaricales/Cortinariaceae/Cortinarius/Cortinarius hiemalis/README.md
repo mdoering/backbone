@@ -1,17 +1,16 @@
-Cortinarius hiemis Moënne-Locc. SPECIES
-=======
+# Cortinarius hiemalis Murrill SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Elisha Mitchell scient. Soc. 55: 363 (1939)
 
 #### Original name
-Cortinarius hiemis Moënne-Locc.
+Cortinarius hiemalis Murrill
 
 ### Remarks
 null

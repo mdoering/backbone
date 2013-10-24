@@ -1,5 +1,4 @@
-Florisphaeridium circulatum Uutela & Tynni, 1991 SPECIES
-=======
+# Florisphaeridium circulatum Uutela & Tynni, 1991 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Globorotalia mayeri Cushman & Ellisor SPECIES
-=======
+# Globorotalia mayeri Cushman & Ellisor SPECIES
 
 #### Status
 ACCEPTED

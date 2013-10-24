@@ -1,5 +1,4 @@
-Cryptodifflugia lanceolata Golemansky, 1970 SPECIES
-=======
+# Cryptodifflugia lanceolata Golemansky, 1970 SPECIES
 
 #### Status
 ACCEPTED

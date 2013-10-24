@@ -1,5 +1,4 @@
-Koralionastes ovalis Kohlm. & Volkm.-Kohlm., 1987 SPECIES
-=======
+# Koralionastes ovalis Kohlm. & Volkm.-Kohlm., 1987 SPECIES
 
 #### Status
 ACCEPTED

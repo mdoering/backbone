@@ -1,5 +1,4 @@
-Hypoxylon subacutum (Schwein.) P.M.D. Martin SPECIES
-=======
+# Hypoxylon subacutum (Schwein.) P.M.D. Martin SPECIES
 
 #### Status
 ACCEPTED

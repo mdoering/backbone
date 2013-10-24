@@ -1,5 +1,4 @@
-Monochaetia cryptomeriae M. Wilson & Ford-Rob., 1924 SPECIES
-=======
+# Monochaetia cryptomeriae M. Wilson & Ford-Rob., 1924 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stictina leamii (Zahlbr.) Szatala SPECIES
-=======
+# Stictina leamii (Zahlbr.) Szatala SPECIES
 
 #### Status
 ACCEPTED

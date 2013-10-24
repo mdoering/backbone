@@ -1,5 +1,4 @@
-Marasmius longistriatus Peck SPECIES
-=======
+# Marasmius longistriatus Peck SPECIES
 
 #### Status
 ACCEPTED

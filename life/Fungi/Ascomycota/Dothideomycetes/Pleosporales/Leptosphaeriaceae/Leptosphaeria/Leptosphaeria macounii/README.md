@@ -1,5 +1,4 @@
-Leptosphaeria macounii M.E. Barr SPECIES
-=======
+# Leptosphaeria macounii M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

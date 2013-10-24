@@ -1,5 +1,4 @@
-Capriniana hupehensis (Chen & Hsieh, 1964) Jankowski, 1992 SPECIES
-=======
+# Capriniana hupehensis (Chen & Hsieh, 1964) Jankowski, 1992 SPECIES
 
 #### Status
 ACCEPTED

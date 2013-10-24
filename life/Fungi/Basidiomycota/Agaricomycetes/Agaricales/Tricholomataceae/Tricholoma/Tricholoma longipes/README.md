@@ -1,5 +1,4 @@
-Tricholoma longipes (Murrill) Sacc. & Trotter SPECIES
-=======
+# Tricholoma longipes (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

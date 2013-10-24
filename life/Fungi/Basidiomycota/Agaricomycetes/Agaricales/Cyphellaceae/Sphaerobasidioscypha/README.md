@@ -1,5 +1,4 @@
-Sphaerobasidioscypha Agerer GENUS
-=======
+# Sphaerobasidioscypha Agerer GENUS
 
 #### Status
 ACCEPTED

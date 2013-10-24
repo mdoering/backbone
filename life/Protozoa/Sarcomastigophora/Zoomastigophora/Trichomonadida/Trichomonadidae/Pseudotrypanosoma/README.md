@@ -1,5 +1,4 @@
-Pseudotrypanosoma Grassi, 1920 GENUS
-=======
+# Pseudotrypanosoma Grassi, 1920 GENUS
 
 #### Status
 ACCEPTED

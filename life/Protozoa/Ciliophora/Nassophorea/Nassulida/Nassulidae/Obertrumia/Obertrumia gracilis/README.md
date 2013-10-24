@@ -1,5 +1,4 @@
-Obertrumia gracilis Foissner, 1989 SPECIES
-=======
+# Obertrumia gracilis Foissner, 1989 SPECIES
 
 #### Status
 ACCEPTED

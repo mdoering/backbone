@@ -1,5 +1,4 @@
-Dothidella eriosemae Moreau SPECIES
-=======
+# Dothidella eriosemae Moreau SPECIES
 
 #### Status
 ACCEPTED

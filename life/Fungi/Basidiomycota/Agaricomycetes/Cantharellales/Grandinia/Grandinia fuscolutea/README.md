@@ -1,5 +1,4 @@
-Grandinia fuscolutea Ellis & Everh. SPECIES
-=======
+# Grandinia fuscolutea Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

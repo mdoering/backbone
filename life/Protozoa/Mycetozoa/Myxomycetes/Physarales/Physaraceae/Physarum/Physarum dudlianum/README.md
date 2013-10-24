@@ -1,5 +1,4 @@
-Physarum dudlianum T.N. Lakh. & Mukerji SPECIES
-=======
+# Physarum dudlianum T.N. Lakh. & Mukerji SPECIES
 
 #### Status
 ACCEPTED

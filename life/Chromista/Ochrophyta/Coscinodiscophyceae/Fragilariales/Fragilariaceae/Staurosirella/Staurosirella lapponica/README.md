@@ -1,5 +1,4 @@
-Staurosirella lapponica (A. Grunow) D.M. Williams & F.E. Round SPECIES
-=======
+# Staurosirella lapponica (A. Grunow) D.M. Williams & F.E. Round SPECIES
 
 #### Status
 ACCEPTED

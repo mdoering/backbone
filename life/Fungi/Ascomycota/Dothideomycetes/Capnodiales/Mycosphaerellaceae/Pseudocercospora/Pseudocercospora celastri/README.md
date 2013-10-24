@@ -1,5 +1,4 @@
-Pseudocercospora celastri S. Singh SPECIES
-=======
+# Pseudocercospora celastri S. Singh SPECIES
 
 #### Status
 ACCEPTED

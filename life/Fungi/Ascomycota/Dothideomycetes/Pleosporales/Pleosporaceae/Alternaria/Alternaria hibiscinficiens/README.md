@@ -1,5 +1,4 @@
-Alternaria hibiscinficiens E.G. Simmons & C.F. Hill, 2003 SPECIES
-=======
+# Alternaria hibiscinficiens E.G. Simmons & C.F. Hill, 2003 SPECIES
 
 #### Status
 ACCEPTED

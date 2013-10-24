@@ -1,5 +1,4 @@
-Puccinia cynosuroidis (Henn.) Syd. SPECIES
-=======
+# Puccinia cynosuroidis (Henn.) Syd. SPECIES
 
 #### Status
 ACCEPTED

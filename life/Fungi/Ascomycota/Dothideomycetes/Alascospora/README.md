@@ -1,5 +1,4 @@
-Alascospora GENUS
-=======
+# Alascospora GENUS
 
 #### Status
 ACCEPTED

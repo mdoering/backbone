@@ -1,5 +1,4 @@
-Leptonia vinaceobrunnea var. macrospora Largent VARIETY
-=======
+# Leptonia vinaceobrunnea (Hesler) Largent SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Biblthca Mycol. 55: 207 (1977)
+Biblthca Mycol. 55: 205 (1977)
 
 #### Original name
-Leptonia vinaceobrunnea var. macrospora Largent
+Entoloma vinaceobrunneum Hesler
 
 ### Remarks
 null

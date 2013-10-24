@@ -1,5 +1,4 @@
-Heterocarpon Müll. Arg. GENUS
-=======
+# Heterocarpon Müll. Arg. GENUS
 
 #### Status
 ACCEPTED

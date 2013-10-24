@@ -1,5 +1,4 @@
-Ciboria lignicola Ram N. Singh & D.C. Pant SPECIES
-=======
+# Ciboria lignicola Ram N. Singh & D.C. Pant SPECIES
 
 #### Status
 ACCEPTED

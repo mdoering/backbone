@@ -1,5 +1,4 @@
-Sphaeria fallax Pers. SPECIES
-=======
+# Sphaeria fallax Pers. SPECIES
 
 #### Status
 ACCEPTED

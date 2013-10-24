@@ -1,5 +1,4 @@
-Klamathina Skinner & Wilde, 1965 GENUS
-=======
+# Klamathina Skinner & Wilde, 1965 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusarium heveae Vincens SPECIES
-=======
+# Fusarium heveae Vincens SPECIES
 
 #### Status
 ACCEPTED

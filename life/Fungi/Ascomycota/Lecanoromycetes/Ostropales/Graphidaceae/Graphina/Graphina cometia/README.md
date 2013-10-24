@@ -1,5 +1,4 @@
-Graphina cometia Fée SPECIES
-=======
+# Graphina cometia Fée SPECIES
 
 #### Status
 ACCEPTED

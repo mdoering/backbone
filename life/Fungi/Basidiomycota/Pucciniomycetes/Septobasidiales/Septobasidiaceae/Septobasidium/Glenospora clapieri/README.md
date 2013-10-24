@@ -1,5 +1,4 @@
-Glenospora clapieri Catanei SPECIES
-=======
+# Glenospora clapieri Catanei SPECIES
 
 #### Status
 ACCEPTED

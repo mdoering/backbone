@@ -1,5 +1,4 @@
-Sclerozythia Petch, 1937 GENUS
-=======
+# Sclerozythia Petch, 1937 GENUS
 
 #### Status
 ACCEPTED

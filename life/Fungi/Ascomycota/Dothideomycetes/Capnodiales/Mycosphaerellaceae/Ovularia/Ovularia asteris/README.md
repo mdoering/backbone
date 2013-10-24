@@ -1,5 +1,4 @@
-Ovularia asteris Solheim SPECIES
-=======
+# Ovularia asteris Solheim SPECIES
 
 #### Status
 ACCEPTED

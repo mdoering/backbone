@@ -1,5 +1,4 @@
-Humarina washingtonensis (Fr.) Kanouse SPECIES
-=======
+# Humarina washingtonensis (Fr.) Kanouse SPECIES
 
 #### Status
 ACCEPTED

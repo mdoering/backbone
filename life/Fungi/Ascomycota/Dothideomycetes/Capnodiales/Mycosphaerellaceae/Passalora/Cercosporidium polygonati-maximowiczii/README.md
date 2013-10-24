@@ -1,5 +1,4 @@
-Cercosporidium polygonati-maximowiczii Katsuki SPECIES
-=======
+# Cercosporidium polygonati-maximowiczii Katsuki SPECIES
 
 #### Status
 ACCEPTED

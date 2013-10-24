@@ -1,5 +1,4 @@
-Sphaeria kretschmari Rabenh. SPECIES
-=======
+# Sphaeria kretschmari Rabenh. SPECIES
 
 #### Status
 ACCEPTED

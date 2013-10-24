@@ -1,5 +1,4 @@
-Helminthosporium desmodii Togashi & Katsuki SPECIES
-=======
+# Helminthosporium desmodii Togashi & Katsuki SPECIES
 
 #### Status
 ACCEPTED

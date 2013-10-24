@@ -1,5 +1,4 @@
-Graphis commaculans Vain. SPECIES
-=======
+# Graphis commaculans Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius thalliopurpurascens Rob. Henry SPECIES
-=======
+# Cortinarius thalliopurpurascens Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

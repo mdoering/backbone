@@ -1,5 +1,4 @@
-Lichenothelia patagonica Henssen SPECIES
-=======
+# Lichenothelia patagonica Henssen SPECIES
 
 #### Status
 ACCEPTED

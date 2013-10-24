@@ -1,5 +1,4 @@
-Sphaerulina vineae Sousa da Câmara SPECIES
-=======
+# Sphaerulina vineae Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

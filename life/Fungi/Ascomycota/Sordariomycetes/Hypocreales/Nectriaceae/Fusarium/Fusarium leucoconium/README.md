@@ -1,5 +1,4 @@
-Fusarium leucoconium Corda SPECIES
-=======
+# Fusarium leucoconium Corda SPECIES
 
 #### Status
 ACCEPTED

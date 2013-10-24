@@ -1,5 +1,4 @@
-Calloria galii Fuckel SPECIES
-=======
+# Calloria galii Fuckel SPECIES
 
 #### Status
 ACCEPTED

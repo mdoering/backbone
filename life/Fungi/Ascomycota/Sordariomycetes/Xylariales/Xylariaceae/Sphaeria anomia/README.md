@@ -1,5 +1,4 @@
-Sphaeria anomia Fr. SPECIES
-=======
+# Sphaeria anomia Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Amanita farinosa var. mexicana Cifuentes, Villegas & G. Santiago VARIETY
-=======
+# Amanita farinosa Schwein., 1822 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Santiago, Cifuentes & Villegas, Boletín de la Sociedad Mexicana de Micología 19: 98 (1984)
+Schr. naturf. Ges. Leipzig 1: 79 (1822)
 
 #### Original name
-Amanita farinosa var. mexicana Cifuentes, Villegas & G. Santiago
+Amanita farinosa Schwein., 1822
 
 ### Remarks
 null

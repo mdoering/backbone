@@ -1,5 +1,4 @@
-Thelotrema albidiforme Leight. SPECIES
-=======
+# Thelotrema albidiforme Leight. SPECIES
 
 #### Status
 ACCEPTED

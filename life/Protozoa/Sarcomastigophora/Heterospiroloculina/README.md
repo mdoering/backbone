@@ -1,5 +1,4 @@
-Heterospiroloculina McCulloch, 1977 GENUS
-=======
+# Heterospiroloculina McCulloch, 1977 GENUS
 
 #### Status
 ACCEPTED

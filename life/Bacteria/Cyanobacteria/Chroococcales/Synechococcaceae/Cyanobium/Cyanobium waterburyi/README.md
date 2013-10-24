@@ -1,5 +1,4 @@
-Cyanobium waterburyi J. Komárek SPECIES
-=======
+# Cyanobium waterburyi J. Komárek SPECIES
 
 #### Status
 ACCEPTED

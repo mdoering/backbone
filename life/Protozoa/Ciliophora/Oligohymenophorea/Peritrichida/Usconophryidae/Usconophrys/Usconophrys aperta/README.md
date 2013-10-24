@@ -1,8 +1,7 @@
-Lagenophrys aperta Plate, 1886 SPECIES
-=======
+# Usconophrys aperta (Plate, 1889) Jankowski, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

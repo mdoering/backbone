@@ -1,5 +1,4 @@
-Thelidium subsimplex Zschacke SPECIES
-=======
+# Thelidium subsimplex Zschacke SPECIES
 
 #### Status
 ACCEPTED

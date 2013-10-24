@@ -1,5 +1,4 @@
-Clitopilus amygdaliformis Zhu L. Yang SPECIES
-=======
+# Clitopilus amygdaliformis Zhu L. Yang SPECIES
 
 #### Status
 ACCEPTED

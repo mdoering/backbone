@@ -1,5 +1,4 @@
-Caloplaca scabrida H. Magn. SPECIES
-=======
+# Caloplaca scabrida H. Magn. SPECIES
 
 #### Status
 ACCEPTED

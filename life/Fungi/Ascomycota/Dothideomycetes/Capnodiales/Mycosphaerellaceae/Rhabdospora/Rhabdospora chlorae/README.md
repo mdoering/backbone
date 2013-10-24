@@ -1,5 +1,4 @@
-Rhabdospora chlorae (Sacc. & Speg.) Sacc. SPECIES
-=======
+# Rhabdospora chlorae (Sacc. & Speg.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

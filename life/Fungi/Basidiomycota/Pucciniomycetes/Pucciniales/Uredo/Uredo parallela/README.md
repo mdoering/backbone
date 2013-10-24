@@ -1,5 +1,4 @@
-Uredo parallela (Sowerby) Berk. SPECIES
-=======
+# Uredo parallela (Sowerby) Berk. SPECIES
 
 #### Status
 ACCEPTED

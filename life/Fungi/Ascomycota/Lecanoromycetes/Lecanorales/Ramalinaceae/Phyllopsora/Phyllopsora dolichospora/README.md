@@ -1,5 +1,4 @@
-Phyllopsora dolichospora Timdal & Krog SPECIES
-=======
+# Phyllopsora dolichospora Timdal & Krog SPECIES
 
 #### Status
 ACCEPTED

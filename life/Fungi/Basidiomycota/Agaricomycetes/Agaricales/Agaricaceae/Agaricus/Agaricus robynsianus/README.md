@@ -1,5 +1,4 @@
-Agaricus robynsianus Heinem. SPECIES
-=======
+# Agaricus robynsianus Heinem. SPECIES
 
 #### Status
 ACCEPTED

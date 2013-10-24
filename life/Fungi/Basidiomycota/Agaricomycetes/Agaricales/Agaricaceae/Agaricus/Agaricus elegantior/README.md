@@ -1,5 +1,4 @@
-Agaricus elegantior Fr. SPECIES
-=======
+# Agaricus elegantior Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Strigula vulgaris (Müll. Arg.) Lücking SPECIES
-=======
+# Strigula vulgaris (Müll. Arg.) Lücking SPECIES
 
 #### Status
 ACCEPTED

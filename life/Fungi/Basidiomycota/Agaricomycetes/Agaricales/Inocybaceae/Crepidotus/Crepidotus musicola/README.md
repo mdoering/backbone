@@ -1,5 +1,4 @@
-Crepidotus musicola (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Crepidotus musicola (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

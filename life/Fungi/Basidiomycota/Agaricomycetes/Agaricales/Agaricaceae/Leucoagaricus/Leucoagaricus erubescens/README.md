@@ -1,5 +1,4 @@
-Leucoagaricus erubescens (Babos) Bon SPECIES
-=======
+# Leucoagaricus erubescens (Babos) Bon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola hervittiae Rehm SPECIES
-=======
+# Meliola hervittiae Rehm SPECIES
 
 #### Status
 ACCEPTED

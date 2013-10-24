@@ -1,5 +1,4 @@
-Blastobotrys aristata Marvanová, 1976 SPECIES
-=======
+# Blastobotrys aristata Marvanová, 1976 SPECIES
 
 #### Status
 ACCEPTED

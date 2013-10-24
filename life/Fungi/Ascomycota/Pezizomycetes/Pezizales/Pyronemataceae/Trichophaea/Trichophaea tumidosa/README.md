@@ -1,5 +1,4 @@
-Trichophaea tumidosa K.S. Thind & S.C. Kaushal SPECIES
-=======
+# Trichophaea tumidosa K.S. Thind & S.C. Kaushal SPECIES
 
 #### Status
 ACCEPTED

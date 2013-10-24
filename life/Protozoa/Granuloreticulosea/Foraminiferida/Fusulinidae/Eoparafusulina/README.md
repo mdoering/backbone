@@ -1,5 +1,4 @@
-Eoparafusulina Coogan, 1960 GENUS
-=======
+# Eoparafusulina Coogan, 1960 GENUS
 
 #### Status
 ACCEPTED

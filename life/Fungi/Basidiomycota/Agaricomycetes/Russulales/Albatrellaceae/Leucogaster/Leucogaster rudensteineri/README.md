@@ -1,5 +1,4 @@
-Leucogaster rudensteineri Velen. SPECIES
-=======
+# Leucogaster rudensteineri Velen. SPECIES
 
 #### Status
 ACCEPTED

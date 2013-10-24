@@ -1,5 +1,4 @@
-Lecidea triphragmia Nyl. SPECIES
-=======
+# Lecidea triphragmia Nyl. SPECIES
 
 #### Status
 ACCEPTED

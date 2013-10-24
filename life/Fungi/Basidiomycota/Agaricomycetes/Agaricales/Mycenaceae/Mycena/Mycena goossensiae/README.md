@@ -1,5 +1,4 @@
-Mycena goossensiae Beeli SPECIES
-=======
+# Mycena goossensiae Beeli SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sticta arvidssonii D.J. Galloway SPECIES
-=======
+# Sticta arvidssonii D.J. Galloway SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea phaeopsis Vain. SPECIES
-=======
+# Lecidea phaeopsis Vain. SPECIES
 
 #### Status
 ACCEPTED

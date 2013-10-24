@@ -1,5 +1,4 @@
-Trachyoligotriletes botuliformis Rudavskaya in Rudavskaya & Timofeev SPECIES
-=======
+# Trachyoligotriletes botuliformis Rudavskaya in Rudavskaya & Timofeev SPECIES
 
 #### Status
 ACCEPTED

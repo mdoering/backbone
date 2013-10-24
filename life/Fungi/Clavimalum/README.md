@@ -1,5 +1,4 @@
-Clavimalum GENUS
-=======
+# Clavimalum GENUS
 
 #### Status
 ACCEPTED

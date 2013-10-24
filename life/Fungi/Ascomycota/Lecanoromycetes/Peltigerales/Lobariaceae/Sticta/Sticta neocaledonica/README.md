@@ -1,5 +1,4 @@
-Sticta neocaledonica (Müll. Arg.) Hue SPECIES
-=======
+# Sticta neocaledonica (Müll. Arg.) Hue SPECIES
 
 #### Status
 ACCEPTED

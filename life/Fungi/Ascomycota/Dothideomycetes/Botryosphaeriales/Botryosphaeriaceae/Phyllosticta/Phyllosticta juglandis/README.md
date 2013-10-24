@@ -1,5 +1,4 @@
-Phyllosticta juglandis (DC.) Sacc. SPECIES
-=======
+# Phyllosticta juglandis (DC.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

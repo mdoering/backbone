@@ -1,5 +1,4 @@
-Ramaria tubulosa (Fr.) Corner SPECIES
-=======
+# Ramaria tubulosa (Fr.) Corner SPECIES
 
 #### Status
 ACCEPTED

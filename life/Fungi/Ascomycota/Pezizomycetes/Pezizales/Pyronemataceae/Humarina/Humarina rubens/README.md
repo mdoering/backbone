@@ -1,5 +1,4 @@
-Humarina rubens Seaver SPECIES
-=======
+# Humarina rubens Seaver SPECIES
 
 #### Status
 ACCEPTED

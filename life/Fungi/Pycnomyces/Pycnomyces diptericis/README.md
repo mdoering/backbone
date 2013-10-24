@@ -1,5 +1,4 @@
-Pycnomyces diptericis Bat., J.L. Bezerra & Cavalc. SPECIES
-=======
+# Pycnomyces diptericis Bat., J.L. Bezerra & Cavalc. SPECIES
 
 #### Status
 ACCEPTED

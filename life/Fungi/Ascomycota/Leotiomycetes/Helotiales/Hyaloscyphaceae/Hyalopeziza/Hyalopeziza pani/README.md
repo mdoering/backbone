@@ -1,5 +1,4 @@
-Hyalopeziza pani (Velen.) L. Holm & K. Holm SPECIES
-=======
+# Hyalopeziza pani (Velen.) L. Holm & K. Holm SPECIES
 
 #### Status
 ACCEPTED

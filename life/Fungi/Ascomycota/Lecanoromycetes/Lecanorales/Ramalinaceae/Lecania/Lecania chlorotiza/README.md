@@ -1,5 +1,4 @@
-Lecania chlorotiza (Nyl.) P. James SPECIES
-=======
+# Lecania chlorotiza (Nyl.) P. James SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Verrucaria phaeosporum Arnold SPECIES
-=======
+# Verrucaria phaeosperma Arnold SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Flora, Jena 57: 382 (1874)
 
 #### Original name
-null
+Verrucaria phaeosperma Arnold
 
 ### Remarks
 null

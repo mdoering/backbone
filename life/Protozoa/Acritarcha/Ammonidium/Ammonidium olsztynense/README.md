@@ -1,5 +1,4 @@
-Ammonidium olsztynense (Górka, 1979) Sarjeant & Vavrdová, 1997 SPECIES
-=======
+# Ammonidium olsztynense (Górka, 1979) Sarjeant & Vavrdová, 1997 SPECIES
 
 #### Status
 ACCEPTED

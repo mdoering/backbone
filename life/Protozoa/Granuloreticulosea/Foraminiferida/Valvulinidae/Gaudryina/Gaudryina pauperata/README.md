@@ -1,5 +1,4 @@
-Gaudryina pauperata SPECIES
-=======
+# Gaudryina pauperata SPECIES
 
 #### Status
 ACCEPTED

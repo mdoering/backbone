@@ -1,14 +1,13 @@
-Entomophthora canadensis D.M. MacLeod, Tyrrell & R.S. Soper, 1979 SPECIES
-=======
+# Zoophthora canadensis (D.M. MacLeod, Tyrrell & R.S. Soper) Remaud. & Hennebert, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 57: 2664 (1979)
+Mycotaxon 11(1): 301 (1980)
 
 #### Original name
 Entomophthora canadensis D.M. MacLeod, Tyrrell & R.S. Soper, 1979

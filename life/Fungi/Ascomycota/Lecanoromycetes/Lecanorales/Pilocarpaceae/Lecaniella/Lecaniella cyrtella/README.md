@@ -1,5 +1,4 @@
-Lecaniella cyrtella (Ach.) Jatta SPECIES
-=======
+# Lecaniella cyrtella (Ach.) Jatta SPECIES
 
 #### Status
 ACCEPTED

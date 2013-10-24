@@ -1,5 +1,4 @@
-Rhizocarpon mexicanum SPECIES
-=======
+# Rhizocarpon mexicanum SPECIES
 
 #### Status
 ACCEPTED

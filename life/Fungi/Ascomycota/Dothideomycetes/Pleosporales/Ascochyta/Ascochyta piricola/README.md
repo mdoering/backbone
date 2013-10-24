@@ -1,5 +1,4 @@
-Ascochyta piricola Sacc. SPECIES
-=======
+# Ascochyta piricola Sacc. SPECIES
 
 #### Status
 ACCEPTED

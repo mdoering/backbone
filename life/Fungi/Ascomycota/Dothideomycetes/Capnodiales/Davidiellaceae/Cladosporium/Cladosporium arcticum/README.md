@@ -1,5 +1,4 @@
-Cladosporium arcticum Berk. & Voglino SPECIES
-=======
+# Cladosporium arcticum Berk. & Voglino SPECIES
 
 #### Status
 ACCEPTED

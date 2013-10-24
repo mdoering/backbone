@@ -1,5 +1,4 @@
-Venenarius flavorubescens (G.F. Atk.) Murrill SPECIES
-=======
+# Venenarius flavorubescens (G.F. Atk.) Murrill SPECIES
 
 #### Status
 ACCEPTED

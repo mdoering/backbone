@@ -1,5 +1,4 @@
-Polystigma volkartianum (Rehm) Arx & E. Müll., 1954 SPECIES
-=======
+# Polystigma volkartianum (Rehm) Arx & E. Müll., 1954 SPECIES
 
 #### Status
 ACCEPTED

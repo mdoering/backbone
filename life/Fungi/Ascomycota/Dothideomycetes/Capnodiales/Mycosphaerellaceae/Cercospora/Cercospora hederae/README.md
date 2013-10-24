@@ -1,5 +1,4 @@
-Cercospora hederae Togashi & Katsuki SPECIES
-=======
+# Cercospora hederae Togashi & Katsuki SPECIES
 
 #### Status
 ACCEPTED

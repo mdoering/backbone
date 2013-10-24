@@ -1,5 +1,4 @@
-Macrophoma carpinicola Delacr. SPECIES
-=======
+# Macrophoma carpinicola Delacr. SPECIES
 
 #### Status
 ACCEPTED

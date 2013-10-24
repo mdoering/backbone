@@ -1,17 +1,16 @@
-Lecanora degener Poelt ex Clauzade & Rondon SPECIES
-=======
+# Lecanora degeneris Poelt ex Clauzade & Rondon SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Rev. Bryol. Lichénol. 28: 391 (1959)
 
 #### Original name
-Lecanora degener Poelt ex Clauzade & Rondon
+Lecanora degeneris Poelt ex Clauzade & Rondon
 
 ### Remarks
 null

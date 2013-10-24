@@ -1,17 +1,16 @@
-Parmelia contradicta Hale SPECIES
-=======
+# Hypotrachyna contradicta (Hale) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Smithson. Contr. bot. 25: 29 (1975)
 
 #### Original name
-null
+Parmelia contradicta Hale
 
 ### Remarks
 null

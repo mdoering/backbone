@@ -1,5 +1,4 @@
-Mycena setigera Métrod SPECIES
-=======
+# Mycena setigera Métrod SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stigmatea subtilis Fuckel SPECIES
-=======
+# Stigmatea subtilis Fuckel SPECIES
 
 #### Status
 ACCEPTED

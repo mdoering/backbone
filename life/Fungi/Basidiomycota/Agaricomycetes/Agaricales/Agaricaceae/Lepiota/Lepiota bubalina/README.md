@@ -1,5 +1,4 @@
-Lepiota bubalina (Berk.) Sacc. SPECIES
-=======
+# Lepiota bubalina (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

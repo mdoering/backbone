@@ -1,5 +1,4 @@
-Cryptoderis caricina Rehm, 1904 SPECIES
-=======
+# Cryptoderis caricina Rehm, 1904 SPECIES
 
 #### Status
 ACCEPTED

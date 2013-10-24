@@ -1,5 +1,4 @@
-Diplodia vignae Sacc. SPECIES
-=======
+# Diplodia vignae Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trochila stellariae Rostr. SPECIES
-=======
+# Trochila stellariae Rostr. SPECIES
 
 #### Status
 ACCEPTED

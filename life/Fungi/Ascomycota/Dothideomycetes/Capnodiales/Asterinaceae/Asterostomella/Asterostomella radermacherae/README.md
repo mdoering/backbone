@@ -1,5 +1,4 @@
-Asterostomella radermacherae Hosag., M.P. Balakr. & Goos SPECIES
-=======
+# Asterostomella radermacherae Hosag., M.P. Balakr. & Goos SPECIES
 
 #### Status
 ACCEPTED

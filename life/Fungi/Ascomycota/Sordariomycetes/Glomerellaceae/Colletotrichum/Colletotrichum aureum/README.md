@@ -1,5 +1,4 @@
-Colletotrichum aureum Corda SPECIES
-=======
+# Colletotrichum aureum Corda SPECIES
 
 #### Status
 ACCEPTED

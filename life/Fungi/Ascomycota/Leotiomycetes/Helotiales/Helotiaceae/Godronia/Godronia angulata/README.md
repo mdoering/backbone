@@ -1,5 +1,4 @@
-Godronia angulata Lév. SPECIES
-=======
+# Godronia angulata Lév. SPECIES
 
 #### Status
 ACCEPTED

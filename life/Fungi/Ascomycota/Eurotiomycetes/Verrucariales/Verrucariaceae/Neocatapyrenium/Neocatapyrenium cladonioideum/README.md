@@ -1,5 +1,4 @@
-Neocatapyrenium cladonioideum (Vain.) H. Harada SPECIES
-=======
+# Neocatapyrenium cladonioideum (Vain.) H. Harada SPECIES
 
 #### Status
 ACCEPTED

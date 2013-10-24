@@ -1,5 +1,4 @@
-Caloplaca spadicea (Tuck.) Zahlbr. SPECIES
-=======
+# Caloplaca spadicea (Tuck.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

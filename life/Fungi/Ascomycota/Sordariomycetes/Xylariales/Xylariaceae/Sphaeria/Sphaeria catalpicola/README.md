@@ -1,5 +1,4 @@
-Sphaeria catalpicola Schwein. SPECIES
-=======
+# Sphaeria catalpicola Schwein. SPECIES
 
 #### Status
 ACCEPTED

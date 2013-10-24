@@ -1,5 +1,4 @@
-Mycosphaerella tuerckheimii Petr. SPECIES
-=======
+# Mycosphaerella tuerckheimii Petr. SPECIES
 
 #### Status
 ACCEPTED

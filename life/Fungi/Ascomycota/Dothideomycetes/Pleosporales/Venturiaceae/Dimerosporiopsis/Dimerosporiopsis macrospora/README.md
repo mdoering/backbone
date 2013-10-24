@@ -1,5 +1,4 @@
-Dimerosporiopsis macrospora Bat. & J.L. Bezerra SPECIES
-=======
+# Dimerosporiopsis macrospora Bat. & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

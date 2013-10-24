@@ -1,5 +1,4 @@
-Diderma meyerae H. Singer, G. Moreno, Illana & A. Sánchez, 2003 SPECIES
-=======
+# Diderma meyerae H. Singer, G. Moreno, Illana & A. Sánchez, 2003 SPECIES
 
 #### Status
 ACCEPTED

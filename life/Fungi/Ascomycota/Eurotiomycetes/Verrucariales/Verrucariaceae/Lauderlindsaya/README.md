@@ -1,5 +1,4 @@
-Lauderlindsaya J.C. David & D. Hawksw. GENUS
-=======
+# Lauderlindsaya J.C. David & D. Hawksw. GENUS
 
 #### Status
 ACCEPTED

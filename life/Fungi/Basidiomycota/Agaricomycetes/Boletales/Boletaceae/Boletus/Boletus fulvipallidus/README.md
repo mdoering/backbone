@@ -1,5 +1,4 @@
-Boletus fulvipallidus Murrill SPECIES
-=======
+# Boletus fulvipallidus Murrill SPECIES
 
 #### Status
 ACCEPTED

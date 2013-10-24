@@ -1,5 +1,4 @@
-Hypocrea virginiensis Ellis & Everh. SPECIES
-=======
+# Hypocrea virginiensis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

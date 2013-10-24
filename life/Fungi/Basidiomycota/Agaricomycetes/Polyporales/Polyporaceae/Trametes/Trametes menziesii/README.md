@@ -1,17 +1,16 @@
-Polystictus didrichsenii var. didrichsenii VARIETY
-=======
+# Trametes menziesii (Berk.) Ryvarden, 1972 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Acta R. Soc. Scient. upsal. , Ser. 3 1: 76 (1851)
+Norw. Jl Bot. 19(3-4): 236 (1972)
 
 #### Original name
-Polystictus didrichsenii var. didrichsenii
+Polyporus menziesii Berk., 1843
 
 ### Remarks
 null

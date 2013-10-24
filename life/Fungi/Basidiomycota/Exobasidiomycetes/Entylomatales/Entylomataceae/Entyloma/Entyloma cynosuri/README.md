@@ -1,5 +1,4 @@
-Entyloma cynosuri Gonz. Frag. & Cif. SPECIES
-=======
+# Entyloma cynosuri Gonz. Frag. & Cif. SPECIES
 
 #### Status
 ACCEPTED

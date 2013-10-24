@@ -1,5 +1,4 @@
-Melanomphalia omphalioides (Singer) Singer SPECIES
-=======
+# Melanomphalia omphalioides (Singer) Singer SPECIES
 
 #### Status
 ACCEPTED

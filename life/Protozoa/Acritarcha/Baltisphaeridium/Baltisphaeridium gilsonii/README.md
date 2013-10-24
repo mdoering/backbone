@@ -1,5 +1,4 @@
-Baltisphaeridium gilsonii (Kufferath, 1950) Downie & Sarjeant, 1965 SPECIES
-=======
+# Baltisphaeridium gilsonii (Kufferath, 1950) Downie & Sarjeant, 1965 SPECIES
 
 #### Status
 ACCEPTED

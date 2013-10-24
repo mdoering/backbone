@@ -1,5 +1,4 @@
-Hygrocybe lobatospora Leelav., Manim. & Arnolds SPECIES
-=======
+# Hygrocybe lobatospora Leelav., Manim. & Arnolds SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Brevibacterium aurantiacum Gavrish et al., 2005 SPECIES
-=======
+# Brevibacterium aurantiacum Gavrish et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

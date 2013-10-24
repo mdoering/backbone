@@ -1,5 +1,4 @@
-Amylocystis Bondartsev & Singer, 1944 GENUS
-=======
+# Amylocystis Bondartsev & Singer, 1944 GENUS
 
 #### Status
 ACCEPTED

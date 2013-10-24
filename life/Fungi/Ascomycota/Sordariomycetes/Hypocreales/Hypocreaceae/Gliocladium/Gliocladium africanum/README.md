@@ -1,5 +1,4 @@
-Gliocladium africanum Eichelb. SPECIES
-=======
+# Gliocladium africanum Eichelb. SPECIES
 
 #### Status
 ACCEPTED

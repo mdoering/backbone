@@ -1,5 +1,4 @@
-Cercospora mucunae-ferrugineae W. Yamam. SPECIES
-=======
+# Cercospora mucunae-ferrugineae W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

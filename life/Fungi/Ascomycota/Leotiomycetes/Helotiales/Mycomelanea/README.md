@@ -1,5 +1,4 @@
-Mycomelanea Velen. GENUS
-=======
+# Mycomelanea Velen. GENUS
 
 #### Status
 ACCEPTED

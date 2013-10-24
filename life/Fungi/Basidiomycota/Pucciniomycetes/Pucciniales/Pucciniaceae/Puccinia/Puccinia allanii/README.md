@@ -1,5 +1,4 @@
-Puccinia allanii G. Cunn. SPECIES
-=======
+# Puccinia allanii G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

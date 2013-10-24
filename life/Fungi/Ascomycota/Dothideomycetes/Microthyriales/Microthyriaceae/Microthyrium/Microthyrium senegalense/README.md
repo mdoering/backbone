@@ -1,5 +1,4 @@
-Microthyrium senegalense Speg. SPECIES
-=======
+# Microthyrium senegalense Speg. SPECIES
 
 #### Status
 ACCEPTED

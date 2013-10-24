@@ -1,5 +1,4 @@
-Boletus albipurpureus Corner SPECIES
-=======
+# Boletus albipurpureus Corner SPECIES
 
 #### Status
 ACCEPTED

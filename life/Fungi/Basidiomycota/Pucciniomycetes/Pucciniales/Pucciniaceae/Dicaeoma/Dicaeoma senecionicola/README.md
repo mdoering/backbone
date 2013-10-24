@@ -1,5 +1,4 @@
-Dicaeoma senecionicola (Arthur) Arthur & H.S. Jacks. SPECIES
-=======
+# Dicaeoma senecionicola (Arthur) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

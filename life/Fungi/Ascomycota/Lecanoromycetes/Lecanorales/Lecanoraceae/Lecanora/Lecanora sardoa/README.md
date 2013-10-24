@@ -1,5 +1,4 @@
-Lecanora sardoa Bagl. SPECIES
-=======
+# Lecanora sardoa Bagl. SPECIES
 
 #### Status
 ACCEPTED

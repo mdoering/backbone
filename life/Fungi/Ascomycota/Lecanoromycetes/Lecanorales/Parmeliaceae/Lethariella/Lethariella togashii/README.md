@@ -1,14 +1,13 @@
-Letharia togashii Asahina SPECIES
-=======
+# Lethariella togashii (Asahina) Krog SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Norw. Jl Bot. 23(2): 95 (1976)
 
 #### Original name
 Letharia togashii Asahina

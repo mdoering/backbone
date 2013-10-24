@@ -1,5 +1,4 @@
-Phaeoramularia pyricola S.K. Singh & R.K. Chaudhary SPECIES
-=======
+# Phaeoramularia pyricola S.K. Singh & R.K. Chaudhary SPECIES
 
 #### Status
 ACCEPTED

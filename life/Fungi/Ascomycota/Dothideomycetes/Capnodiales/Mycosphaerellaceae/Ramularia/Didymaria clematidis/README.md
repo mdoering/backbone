@@ -1,5 +1,4 @@
-Didymaria clematidis Cooke & Harkn. SPECIES
-=======
+# Didymaria clematidis Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Haemogregarina nototheniae Barber, Mills Westerman & Storoz, 1987 SPECIES
-=======
+# Desseria nototheniae Barber, Mills Westerman & Storoz, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

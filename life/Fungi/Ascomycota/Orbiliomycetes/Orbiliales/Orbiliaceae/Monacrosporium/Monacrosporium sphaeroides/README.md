@@ -1,5 +1,4 @@
-Monacrosporium sphaeroides Castaner SPECIES
-=======
+# Monacrosporium sphaeroides Castaner SPECIES
 
 #### Status
 ACCEPTED

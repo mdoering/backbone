@@ -1,5 +1,4 @@
-Stachybotrys gracilis É.J. Marchal SPECIES
-=======
+# Stachybotrys gracilis É.J. Marchal SPECIES
 
 #### Status
 ACCEPTED

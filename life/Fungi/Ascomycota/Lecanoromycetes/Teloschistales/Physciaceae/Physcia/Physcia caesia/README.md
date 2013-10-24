@@ -1,17 +1,16 @@
-Physcia caesia subsp. caesia SUBSPECIES
-=======
+# Physcia caesia (Hoffm.) Fürnr. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Naturhist. Topogr. Regensburg 2: 250 (1839)
 
 #### Original name
-Physcia caesia subsp. caesia
+Lichen caesius Hoffm.
 
 ### Remarks
 null

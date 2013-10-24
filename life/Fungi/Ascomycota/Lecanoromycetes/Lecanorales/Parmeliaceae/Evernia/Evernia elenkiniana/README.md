@@ -1,5 +1,4 @@
-Evernia elenkiniana Zahlbr. SPECIES
-=======
+# Evernia elenkiniana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Valsa cathartocarpi (Lév.) Cooke SPECIES
-=======
+# Valsa cathartocarpi (Lév.) Cooke SPECIES
 
 #### Status
 ACCEPTED

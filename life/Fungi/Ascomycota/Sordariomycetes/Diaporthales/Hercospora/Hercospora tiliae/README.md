@@ -1,17 +1,16 @@
-Sphaeria tiliae var. tiliae VARIETY
-=======
+# Hercospora tiliae (Pers.) Tul. & C. Tul., 1863 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Select. fung. carpol. (Paris) 2: 154 (1863)
 
 #### Original name
-null
+Sphaeria tiliae Pers., 1794
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Phanerodontia chrysosporium (Burds.) Hjortstam & Ryvarden, 2010 SPECIES
-=======
+# Phanerodontia chrysosporium (Burds.) Hjortstam & Ryvarden, 2010 SPECIES
 
 #### Status
 ACCEPTED

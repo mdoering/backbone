@@ -1,11 +1,10 @@
-Vermiculum subrotundum Montagnu, 1803 SPECIES
-=======
+# Miliolinella subrotunda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

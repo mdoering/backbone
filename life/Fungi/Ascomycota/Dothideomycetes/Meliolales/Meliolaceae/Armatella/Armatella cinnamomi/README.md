@@ -1,5 +1,4 @@
-Armatella cinnamomi Hansf. & Thirum. SPECIES
-=======
+# Armatella cinnamomi Hansf. & Thirum. SPECIES
 
 #### Status
 ACCEPTED

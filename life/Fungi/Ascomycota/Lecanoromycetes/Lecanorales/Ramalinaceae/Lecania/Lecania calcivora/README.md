@@ -1,5 +1,4 @@
-Lecania calcivora B. de Lesd. SPECIES
-=======
+# Lecania calcivora B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

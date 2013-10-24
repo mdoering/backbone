@@ -1,5 +1,4 @@
-Tricholoma coarctatum (Cooke & Massee) Sacc. SPECIES
-=======
+# Tricholoma coarctatum (Cooke & Massee) Sacc. SPECIES
 
 #### Status
 ACCEPTED

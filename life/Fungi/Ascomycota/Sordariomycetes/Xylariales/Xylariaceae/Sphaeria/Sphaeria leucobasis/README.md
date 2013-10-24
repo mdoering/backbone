@@ -1,5 +1,4 @@
-Sphaeria leucobasis Ellis & G. Martin SPECIES
-=======
+# Sphaeria leucobasis Ellis & G. Martin SPECIES
 
 #### Status
 ACCEPTED

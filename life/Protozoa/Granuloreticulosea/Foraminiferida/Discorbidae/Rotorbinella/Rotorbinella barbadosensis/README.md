@@ -1,5 +1,4 @@
-Rotorbinella barbadosensis Hofker, 1969 SPECIES
-=======
+# Rotorbinella barbadosensis Hofker, 1969 SPECIES
 
 #### Status
 ACCEPTED

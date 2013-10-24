@@ -1,5 +1,4 @@
-Tintinnopsella remanei Borza, 1969 SPECIES
-=======
+# Tintinnopsella remanei Borza, 1969 SPECIES
 
 #### Status
 ACCEPTED

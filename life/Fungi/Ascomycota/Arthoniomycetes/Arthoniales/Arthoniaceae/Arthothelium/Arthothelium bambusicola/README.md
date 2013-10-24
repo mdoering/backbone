@@ -1,5 +1,4 @@
-Arthothelium bambusicola Zahlbr. SPECIES
-=======
+# Arthothelium bambusicola Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

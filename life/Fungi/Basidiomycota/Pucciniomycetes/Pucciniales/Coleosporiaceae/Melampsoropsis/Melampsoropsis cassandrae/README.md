@@ -1,5 +1,4 @@
-Melampsoropsis cassandrae (Peck & G.P. Clinton) Arthur SPECIES
-=======
+# Melampsoropsis cassandrae (Peck & G.P. Clinton) Arthur SPECIES
 
 #### Status
 ACCEPTED

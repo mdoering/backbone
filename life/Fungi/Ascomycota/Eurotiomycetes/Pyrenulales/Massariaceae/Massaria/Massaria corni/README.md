@@ -1,5 +1,4 @@
-Massaria corni (Mont.) Sacc. SPECIES
-=======
+# Massaria corni (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

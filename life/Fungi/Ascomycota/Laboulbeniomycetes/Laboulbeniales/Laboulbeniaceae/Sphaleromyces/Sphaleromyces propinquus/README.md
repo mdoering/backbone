@@ -1,5 +1,4 @@
-Sphaleromyces propinquus Thaxt. SPECIES
-=======
+# Sphaleromyces propinquus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

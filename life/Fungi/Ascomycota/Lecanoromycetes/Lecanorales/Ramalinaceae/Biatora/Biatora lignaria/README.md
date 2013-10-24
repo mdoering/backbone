@@ -1,5 +1,4 @@
-Biatora lignaria (Körb.) Arnold SPECIES
-=======
+# Biatora lignaria (Körb.) Arnold SPECIES
 
 #### Status
 ACCEPTED

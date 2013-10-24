@@ -1,5 +1,4 @@
-Monotosporella rhizoidea V. Rao & de Hoog SPECIES
-=======
+# Monotosporella rhizoidea V. Rao & de Hoog SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria patellaris Wallr. SPECIES
-=======
+# Sphaeria patellaris Wallr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coprinus ficisporus Citérin & Courtec. SPECIES
-=======
+# Coprinus ficisporus Citérin & Courtec. SPECIES
 
 #### Status
 ACCEPTED

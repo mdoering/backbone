@@ -1,17 +1,16 @@
-Echinosporangium transversalis Malloch SPECIES
-=======
+# Lobosporangium transversale (Malloch) M. Blackw. & Benny, 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Benny & Blackwell, Mycologia 96(1): 144 (2004)
 
 #### Original name
-Echinosporangium transversalis Malloch
+Echinosporangium transversale Malloch, 1967
 
 ### Remarks
 null

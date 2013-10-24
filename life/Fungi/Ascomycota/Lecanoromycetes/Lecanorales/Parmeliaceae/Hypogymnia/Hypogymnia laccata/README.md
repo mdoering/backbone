@@ -1,5 +1,4 @@
-Hypogymnia laccata J.C. Wei & Y.M. Jiang SPECIES
-=======
+# Hypogymnia laccata J.C. Wei & Y.M. Jiang SPECIES
 
 #### Status
 ACCEPTED

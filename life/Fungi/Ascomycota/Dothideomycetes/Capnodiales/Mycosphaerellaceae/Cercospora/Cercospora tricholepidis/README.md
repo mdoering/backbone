@@ -1,17 +1,16 @@
-Cercospora tricholepiae M.S. Patil SPECIES
-=======
+# Cercospora tricholepidis M.S. Patil SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Phytopath. , Suppl. Issue 28(3): 342 (1975)
 
 #### Original name
-Cercospora tricholepiae M.S. Patil
+Cercospora tricholepidis M.S. Patil
 
 ### Remarks
 null

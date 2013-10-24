@@ -1,5 +1,4 @@
-Cassiculosphaeridia magna R. J. Davey SPECIES
-=======
+# Cassiculosphaeridia magna R. J. Davey SPECIES
 
 #### Status
 ACCEPTED

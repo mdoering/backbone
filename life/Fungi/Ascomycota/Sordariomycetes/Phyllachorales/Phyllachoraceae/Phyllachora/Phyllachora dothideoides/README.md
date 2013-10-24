@@ -1,14 +1,13 @@
-Clypeolum dothideoides Speg., 1889 SPECIES
-=======
+# Phyllachora dothideoides (Speg.) Petr. & Syd., 1934 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Boletín de la Academia Nacional de Ciencias de Córdoba 11(4): 554 (1889)
+Annls mycol. 32(1/2): 14 (1934)
 
 #### Original name
 Clypeolum dothideoides Speg., 1889

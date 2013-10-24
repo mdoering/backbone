@@ -1,17 +1,16 @@
-Hysterographium spinicolum Doidge SPECIES
-=======
+# Hysterographium spinicola Doidge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bothalia 1(4): 195 (1924)
 
 #### Original name
-Hysterographium spinicolum Doidge
+Hysterographium spinicola Doidge
 
 ### Remarks
 null

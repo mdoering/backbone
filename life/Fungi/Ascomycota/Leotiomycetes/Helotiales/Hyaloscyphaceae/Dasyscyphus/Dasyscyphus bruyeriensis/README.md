@@ -1,8 +1,7 @@
-Dasyscypha bruyeriensis Sacc. SPECIES
-=======
+# Dasyscyphus bruyeriensis Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Dasyscypha bruyeriensis Sacc.
+Dasyscyphus bruyeriensis Sacc.
 
 ### Remarks
 null

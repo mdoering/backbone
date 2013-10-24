@@ -1,5 +1,4 @@
-Polyporus rosarum Weinm. SPECIES
-=======
+# Polyporus rosarum Weinm. SPECIES
 
 #### Status
 ACCEPTED

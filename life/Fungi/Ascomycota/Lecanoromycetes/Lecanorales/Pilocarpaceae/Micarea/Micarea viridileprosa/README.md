@@ -1,5 +1,4 @@
-Micarea viridileprosa Coppins & van den Boom SPECIES
-=======
+# Micarea viridileprosa Coppins & van den Boom SPECIES
 
 #### Status
 ACCEPTED

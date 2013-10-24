@@ -1,5 +1,4 @@
-Dendrosarcus illuminans (F. Muell. ex Berk.) Kuntze SPECIES
-=======
+# Dendrosarcus illuminans (F. Muell. ex Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

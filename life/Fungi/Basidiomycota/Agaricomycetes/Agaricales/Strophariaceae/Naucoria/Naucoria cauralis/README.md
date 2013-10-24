@@ -1,5 +1,4 @@
-Naucoria cauralis Zeller SPECIES
-=======
+# Naucoria cauralis Zeller SPECIES
 
 #### Status
 ACCEPTED

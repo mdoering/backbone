@@ -1,5 +1,4 @@
-Bacidia intermediella Vezda SPECIES
-=======
+# Bacidia intermediella Vezda SPECIES
 
 #### Status
 ACCEPTED

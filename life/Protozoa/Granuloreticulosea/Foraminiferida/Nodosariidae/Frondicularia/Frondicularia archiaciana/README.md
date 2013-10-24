@@ -1,5 +1,4 @@
-Frondicularia archiaciana SPECIES
-=======
+# Frondicularia archiaciana SPECIES
 
 #### Status
 ACCEPTED

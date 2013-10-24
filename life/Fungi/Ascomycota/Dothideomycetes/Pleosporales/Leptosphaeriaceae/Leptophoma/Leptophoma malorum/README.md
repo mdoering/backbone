@@ -1,5 +1,4 @@
-Leptophoma malorum Pestinsk. SPECIES
-=======
+# Leptophoma malorum Pestinsk. SPECIES
 
 #### Status
 ACCEPTED

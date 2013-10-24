@@ -1,5 +1,4 @@
-Rinodina ericina (Nyl.) Giralt SPECIES
-=======
+# Rinodina ericina (Nyl.) Giralt SPECIES
 
 #### Status
 ACCEPTED

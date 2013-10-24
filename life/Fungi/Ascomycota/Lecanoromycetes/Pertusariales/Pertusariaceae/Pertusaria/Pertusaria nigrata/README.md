@@ -1,5 +1,4 @@
-Pertusaria nigrata Kremp. SPECIES
-=======
+# Pertusaria nigrata Kremp. SPECIES
 
 #### Status
 ACCEPTED

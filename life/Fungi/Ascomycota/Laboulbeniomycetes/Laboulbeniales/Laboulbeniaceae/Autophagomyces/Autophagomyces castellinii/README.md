@@ -1,5 +1,4 @@
-Autophagomyces castellinii W. Rossi SPECIES
-=======
+# Autophagomyces castellinii W. Rossi SPECIES
 
 #### Status
 ACCEPTED

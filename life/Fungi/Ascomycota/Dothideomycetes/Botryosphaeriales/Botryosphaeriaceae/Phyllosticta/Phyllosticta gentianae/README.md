@@ -1,5 +1,4 @@
-Phyllosticta gentianae Woron. SPECIES
-=======
+# Phyllosticta gentianae Woron. SPECIES
 
 #### Status
 ACCEPTED

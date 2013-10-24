@@ -1,5 +1,4 @@
-Tricholomopsis elatipes Singer SPECIES
-=======
+# Tricholomopsis elatipes Singer SPECIES
 
 #### Status
 ACCEPTED

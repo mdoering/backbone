@@ -1,5 +1,4 @@
-Omphalina cyanobrunnescens Imler SPECIES
-=======
+# Omphalina cyanobrunnescens Imler SPECIES
 
 #### Status
 ACCEPTED

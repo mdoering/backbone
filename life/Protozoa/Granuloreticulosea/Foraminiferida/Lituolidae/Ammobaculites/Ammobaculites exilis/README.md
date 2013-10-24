@@ -1,5 +1,4 @@
-Ammobaculites exilis Cushman & Brönnimann, 1948 SPECIES
-=======
+# Ammobaculites exilis Cushman & Brönnimann, 1948 SPECIES
 
 #### Status
 ACCEPTED

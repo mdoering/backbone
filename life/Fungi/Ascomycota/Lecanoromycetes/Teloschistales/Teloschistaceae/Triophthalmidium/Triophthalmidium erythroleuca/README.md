@@ -1,5 +1,4 @@
-Triophthalmidium erythroleuca (Nyl.) Gyeln. SPECIES
-=======
+# Triophthalmidium erythroleuca (Nyl.) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

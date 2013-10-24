@@ -1,5 +1,4 @@
-Trichonectria leptogiicola Etayo SPECIES
-=======
+# Trichonectria leptogiicola Etayo SPECIES
 
 #### Status
 ACCEPTED

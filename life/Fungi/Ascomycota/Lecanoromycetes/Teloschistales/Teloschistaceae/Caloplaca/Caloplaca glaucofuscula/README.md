@@ -1,5 +1,4 @@
-Caloplaca glaucofuscula (Nyl.) Zahlbr. SPECIES
-=======
+# Caloplaca glaucofuscula (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Taphrina pruni-acidae (Jacz.) Mix SPECIES
-=======
+# Taphrina pruni-acidae (Jacz.) Mix SPECIES
 
 #### Status
 ACCEPTED

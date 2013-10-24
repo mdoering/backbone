@@ -1,5 +1,4 @@
-Nectria sceptri P. Karst. SPECIES
-=======
+# Nectria sceptri P. Karst. SPECIES
 
 #### Status
 ACCEPTED

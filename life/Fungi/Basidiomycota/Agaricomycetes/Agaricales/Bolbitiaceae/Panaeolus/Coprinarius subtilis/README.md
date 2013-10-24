@@ -1,5 +1,4 @@
-Coprinarius subtilis (Fr.) Quél. SPECIES
-=======
+# Coprinarius subtilis (Fr.) Quél. SPECIES
 
 #### Status
 ACCEPTED

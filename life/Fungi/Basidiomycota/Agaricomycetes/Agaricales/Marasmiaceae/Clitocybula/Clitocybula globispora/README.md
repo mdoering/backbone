@@ -1,5 +1,4 @@
-Clitocybula globispora (Raithelh.) Raithelh. SPECIES
-=======
+# Clitocybula globispora (Raithelh.) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

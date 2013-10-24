@@ -1,17 +1,16 @@
-Melampsora salicina var. salicina VARIETY
-=======
+# Melampsora salicina Desm. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Annls Sci. Nat. , Bot. , sér. 3 8: 375 (1847)
 
 #### Original name
-null
+Melampsora salicina Desm.
 
 ### Remarks
 null

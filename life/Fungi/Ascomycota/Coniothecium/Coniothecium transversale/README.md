@@ -1,5 +1,4 @@
-Coniothecium transversale Sacc. SPECIES
-=======
+# Coniothecium transversale Sacc. SPECIES
 
 #### Status
 ACCEPTED

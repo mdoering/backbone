@@ -1,5 +1,4 @@
-Hystrichosphaeridium parvispinum SPECIES
-=======
+# Hystrichosphaeridium parvispinum SPECIES
 
 #### Status
 ACCEPTED

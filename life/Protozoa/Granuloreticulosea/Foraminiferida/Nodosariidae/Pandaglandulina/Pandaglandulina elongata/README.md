@@ -1,5 +1,4 @@
-Pandaglandulina elongata Saidova, 1975 SPECIES
-=======
+# Pandaglandulina elongata Saidova, 1975 SPECIES
 
 #### Status
 ACCEPTED

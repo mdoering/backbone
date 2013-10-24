@@ -1,17 +1,16 @@
-Coniothele perquisita Norman SPECIES
-=======
+# Verrucaria perquisita (Norman) Ertz & Diederich SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Notiser (1868)
+null
 
 #### Original name
-Coniothele perquisita Norman
+null
 
 ### Remarks
 null

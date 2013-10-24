@@ -1,5 +1,4 @@
-Aecidium rosenii Lingelsh. SPECIES
-=======
+# Aecidium rosenii Lingelsh. SPECIES
 
 #### Status
 ACCEPTED

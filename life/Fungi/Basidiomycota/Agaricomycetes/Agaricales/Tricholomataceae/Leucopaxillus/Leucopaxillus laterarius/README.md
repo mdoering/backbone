@@ -1,5 +1,4 @@
-Leucopaxillus laterarius (Peck) Singer & A.H. Sm. SPECIES
-=======
+# Leucopaxillus laterarius (Peck) Singer & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena atkinsonii House SPECIES
-=======
+# Mycena atkinsonii House SPECIES
 
 #### Status
 ACCEPTED

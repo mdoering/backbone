@@ -1,5 +1,4 @@
-Trichonectria usneicola Etayo SPECIES
-=======
+# Trichonectria usneicola Etayo SPECIES
 
 #### Status
 ACCEPTED

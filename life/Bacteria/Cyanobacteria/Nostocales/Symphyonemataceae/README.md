@@ -1,5 +1,4 @@
-Symphyonemataceae FAMILY
-=======
+# Symphyonemataceae FAMILY
 
 #### Status
 ACCEPTED

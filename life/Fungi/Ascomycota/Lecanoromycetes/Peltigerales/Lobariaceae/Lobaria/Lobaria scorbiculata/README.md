@@ -1,5 +1,4 @@
-Lobaria scorbiculata (Scop.) DC. SPECIES
-=======
+# Lobaria scorbiculata (Scop.) DC. SPECIES
 
 #### Status
 ACCEPTED

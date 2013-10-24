@@ -1,5 +1,4 @@
-Contospora Devdhar & Amoji, 1978 GENUS
-=======
+# Contospora Devdhar & Amoji, 1978 GENUS
 
 #### Status
 ACCEPTED

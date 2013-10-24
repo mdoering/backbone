@@ -1,5 +1,4 @@
-Ombrophila paradoxa (Hedw.) Sacc. SPECIES
-=======
+# Ombrophila paradoxa (Hedw.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

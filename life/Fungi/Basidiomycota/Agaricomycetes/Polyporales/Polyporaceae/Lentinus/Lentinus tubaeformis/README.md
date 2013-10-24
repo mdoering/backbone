@@ -1,5 +1,4 @@
-Lentinus tubaeformis Beeli SPECIES
-=======
+# Lentinus tubaeformis Beeli SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycoplasma cavipharyngis Hill, 1989 SPECIES
-=======
+# Mycoplasma cavipharyngis Hill, 1989 SPECIES
 
 #### Status
 ACCEPTED

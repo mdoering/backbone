@@ -1,5 +1,4 @@
-Ceratocladium indicum A.D. Sharma & Munjal SPECIES
-=======
+# Ceratocladium indicum A.D. Sharma & Munjal SPECIES
 
 #### Status
 ACCEPTED

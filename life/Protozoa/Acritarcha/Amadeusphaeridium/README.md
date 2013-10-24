@@ -1,5 +1,4 @@
-Amadeusphaeridium Zang & Walter, 1992 GENUS
-=======
+# Amadeusphaeridium Zang & Walter, 1992 GENUS
 
 #### Status
 ACCEPTED

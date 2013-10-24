@@ -1,5 +1,4 @@
-Maupasella nova Cépède, 1910 SPECIES
-=======
+# Maupasella nova Cépède, 1910 SPECIES
 
 #### Status
 ACCEPTED

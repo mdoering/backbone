@@ -1,5 +1,4 @@
-Phoma eryngii Sacc. & Roum. SPECIES
-=======
+# Phoma eryngii Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

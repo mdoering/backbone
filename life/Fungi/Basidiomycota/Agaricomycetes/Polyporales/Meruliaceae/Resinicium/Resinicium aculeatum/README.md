@@ -1,5 +1,4 @@
-Resinicium aculeatum Tellería, Melo & Dueñas SPECIES
-=======
+# Resinicium aculeatum Tellería, Melo & Dueñas SPECIES
 
 #### Status
 ACCEPTED

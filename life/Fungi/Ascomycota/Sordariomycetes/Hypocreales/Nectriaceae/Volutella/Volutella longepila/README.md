@@ -1,5 +1,4 @@
-Volutella longepila A.L. Smith & J. Ramsbottom SPECIES
-=======
+# Volutella longepila A.L. Smith & J. Ramsbottom SPECIES
 
 #### Status
 ACCEPTED

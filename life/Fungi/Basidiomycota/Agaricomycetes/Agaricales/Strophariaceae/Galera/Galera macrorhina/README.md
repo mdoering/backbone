@@ -1,5 +1,4 @@
-Galera macrorhina Speg. SPECIES
-=======
+# Galera macrorhina Speg. SPECIES
 
 #### Status
 ACCEPTED

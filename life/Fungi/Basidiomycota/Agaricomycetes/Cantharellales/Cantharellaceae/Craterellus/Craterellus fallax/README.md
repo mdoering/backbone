@@ -1,5 +1,4 @@
-Craterellus fallax A.H. Sm. SPECIES
-=======
+# Craterellus fallax A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cucurbitaria stilbosporae (Tul. & C. Tul.) Kuntze SPECIES
-=======
+# Cucurbitaria stilbosporae (Tul. & C. Tul.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

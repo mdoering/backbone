@@ -1,14 +1,13 @@
-Lecidea hypoptella Nyl. SPECIES
-=======
+# Lecanora hypoptella (Nyl.) Grummann SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Flora, Jena 48: 146 (1865)
+Cat. Lich. Germ. 19 (1963)
 
 #### Original name
 Lecidea hypoptella Nyl.

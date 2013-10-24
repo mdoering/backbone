@@ -1,5 +1,4 @@
-Sphaeria mollis Tode SPECIES
-=======
+# Sphaeria mollis Tode SPECIES
 
 #### Status
 ACCEPTED

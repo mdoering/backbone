@@ -1,5 +1,4 @@
-Leucoagaricus tricolor Singer SPECIES
-=======
+# Leucoagaricus tricolor Singer SPECIES
 
 #### Status
 ACCEPTED

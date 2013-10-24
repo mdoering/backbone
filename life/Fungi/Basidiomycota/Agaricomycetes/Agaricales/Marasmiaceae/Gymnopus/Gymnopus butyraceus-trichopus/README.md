@@ -1,5 +1,4 @@
-Gymnopus butyraceus-trichopus Murrill SPECIES
-=======
+# Gymnopus butyraceus-trichopus Murrill SPECIES
 
 #### Status
 ACCEPTED

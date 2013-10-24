@@ -1,5 +1,4 @@
-Physalospora hypericina (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Physalospora hypericina (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

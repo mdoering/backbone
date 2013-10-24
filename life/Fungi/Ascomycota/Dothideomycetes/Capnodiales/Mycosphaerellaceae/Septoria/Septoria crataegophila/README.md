@@ -1,5 +1,4 @@
-Septoria crataegophila Ranoj. SPECIES
-=======
+# Septoria crataegophila Ranoj. SPECIES
 
 #### Status
 ACCEPTED

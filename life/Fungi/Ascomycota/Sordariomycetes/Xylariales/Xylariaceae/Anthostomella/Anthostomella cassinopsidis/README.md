@@ -1,17 +1,16 @@
-Anthostomella cassionopsidis Rehm SPECIES
-=======
+# Anthostomella cassinopsidis (Kalchbr. & Cooke) Petr. & Syd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 23: 217 (1925)
 
 #### Original name
-Anthostomella cassionopsidis Rehm
+Diplodia cassinopsidis Kalchbr. & Cooke
 
 ### Remarks
 null

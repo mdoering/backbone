@@ -1,5 +1,4 @@
-Leptonia caesiocyanea anon. SPECIES
-=======
+# Leptonia caesiocyanea anon. SPECIES
 
 #### Status
 ACCEPTED

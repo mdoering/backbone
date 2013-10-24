@@ -1,17 +1,16 @@
-Hebeloma aestivalis J.H. Petersen & Vesterh. SPECIES
-=======
+# Hebeloma aestivale Vesterh., 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Danske Storsvampe (Basidiesvampe) (Copenhagen) 414 (1990)
 
 #### Original name
-Hebeloma aestivalis J.H. Petersen & Vesterh.
+Hebeloma aestivale Vesterh., 1995
 
 ### Remarks
 null

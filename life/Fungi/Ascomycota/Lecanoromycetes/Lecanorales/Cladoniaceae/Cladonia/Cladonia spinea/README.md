@@ -1,5 +1,4 @@
-Cladonia spinea Ahti SPECIES
-=======
+# Cladonia spinea Ahti SPECIES
 
 #### Status
 ACCEPTED

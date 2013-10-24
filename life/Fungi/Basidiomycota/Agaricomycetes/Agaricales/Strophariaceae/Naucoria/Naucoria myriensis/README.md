@@ -1,5 +1,4 @@
-Naucoria myriensis Henn. SPECIES
-=======
+# Naucoria myriensis Henn. SPECIES
 
 #### Status
 ACCEPTED

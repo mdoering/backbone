@@ -1,5 +1,4 @@
-Lecidea atrobrunnea subsp. atrobrunnea SUBSPECIES
-=======
+# Lecidea atrobrunnea (Ramond) Schaer. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Lich. helv. spicil. 3: 134 (1828)
 
 #### Original name
-Lecidea atrobrunnea subsp. atrobrunnea
+Lichen atrobrunneus Ramond
 
 ### Remarks
 null

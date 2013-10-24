@@ -1,5 +1,4 @@
-Leucogramma turgida G. Mey. SPECIES
-=======
+# Leucogramma turgida G. Mey. SPECIES
 
 #### Status
 ACCEPTED

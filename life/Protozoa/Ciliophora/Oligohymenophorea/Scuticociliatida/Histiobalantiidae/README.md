@@ -1,5 +1,4 @@
-Histiobalantiidae de Puytorac & Corliss in Corliss, 1979 FAMILY
-=======
+# Histiobalantiidae de Puytorac & Corliss in Corliss, 1979 FAMILY
 
 #### Status
 ACCEPTED

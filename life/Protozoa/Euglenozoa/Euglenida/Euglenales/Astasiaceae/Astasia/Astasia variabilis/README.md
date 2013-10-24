@@ -1,5 +1,4 @@
-Astasia variabilis Skvortzov SPECIES
-=======
+# Astasia variabilis Skvortzov SPECIES
 
 #### Status
 ACCEPTED

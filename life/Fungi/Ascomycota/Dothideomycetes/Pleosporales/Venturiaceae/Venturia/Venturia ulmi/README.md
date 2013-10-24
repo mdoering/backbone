@@ -1,5 +1,4 @@
-Venturia ulmi E. Müll. SPECIES
-=======
+# Venturia ulmi E. Müll. SPECIES
 
 #### Status
 ACCEPTED

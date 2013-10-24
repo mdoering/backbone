@@ -1,5 +1,4 @@
-Paracineta anisostyla (Ferndandez-Leborans & Gomez del Arco, 1996) Dovgal, 2002 SPECIES
-=======
+# Paracineta anisostyla (Ferndandez-Leborans & Gomez del Arco, 1996) Dovgal, 2002 SPECIES
 
 #### Status
 ACCEPTED

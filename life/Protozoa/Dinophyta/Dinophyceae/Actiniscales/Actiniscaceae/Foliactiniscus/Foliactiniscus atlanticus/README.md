@@ -1,5 +1,4 @@
-Foliactiniscus atlanticus K. Perch-Nielsen SPECIES
-=======
+# Foliactiniscus atlanticus K. Perch-Nielsen SPECIES
 
 #### Status
 ACCEPTED

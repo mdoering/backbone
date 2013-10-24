@@ -1,5 +1,4 @@
-Microdiplodia gayi (Boyer & Jacz.) Sacc. SPECIES
-=======
+# Microdiplodia gayi (Boyer & Jacz.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

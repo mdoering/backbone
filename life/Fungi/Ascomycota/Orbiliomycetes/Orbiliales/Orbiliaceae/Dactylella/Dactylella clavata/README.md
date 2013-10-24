@@ -1,5 +1,4 @@
-Dactylella clavata R.H. Gao, M.H. Sun & Xing Z. Liu SPECIES
-=======
+# Dactylella clavata R.H. Gao, M.H. Sun & Xing Z. Liu SPECIES
 
 #### Status
 ACCEPTED

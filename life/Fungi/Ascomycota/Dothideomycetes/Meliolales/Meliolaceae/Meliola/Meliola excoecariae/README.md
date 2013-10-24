@@ -1,5 +1,4 @@
-Meliola excoecariae Doidge SPECIES
-=======
+# Meliola excoecariae Doidge SPECIES
 
 #### Status
 ACCEPTED

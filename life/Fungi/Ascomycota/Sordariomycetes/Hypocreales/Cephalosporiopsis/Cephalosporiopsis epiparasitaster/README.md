@@ -1,5 +1,4 @@
-Cephalosporiopsis epiparasitaster Alstrup SPECIES
-=======
+# Cephalosporiopsis epiparasitaster Alstrup SPECIES
 
 #### Status
 ACCEPTED

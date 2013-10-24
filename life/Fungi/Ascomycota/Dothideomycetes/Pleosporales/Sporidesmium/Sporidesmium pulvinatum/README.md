@@ -1,5 +1,4 @@
-Sporidesmium pulvinatum (Schwein.) Fr. SPECIES
-=======
+# Sporidesmium pulvinatum (Schwein.) Fr. SPECIES
 
 #### Status
 ACCEPTED

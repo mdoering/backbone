@@ -1,5 +1,4 @@
-Polyporus clavus Pers. SPECIES
-=======
+# Polyporus clavus Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllogaster Pegler, 1969 GENUS
-=======
+# Phyllogaster Pegler, 1969 GENUS
 
 #### Status
 ACCEPTED

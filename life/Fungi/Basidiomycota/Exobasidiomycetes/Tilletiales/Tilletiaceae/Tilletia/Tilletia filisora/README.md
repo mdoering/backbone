@@ -1,5 +1,4 @@
-Tilletia filisora R.G. Shivas, Vánky & Athip., 2006 SPECIES
-=======
+# Tilletia filisora R.G. Shivas, Vánky & Athip., 2006 SPECIES
 
 #### Status
 ACCEPTED

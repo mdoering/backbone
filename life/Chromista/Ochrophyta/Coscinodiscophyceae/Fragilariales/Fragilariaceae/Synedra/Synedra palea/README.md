@@ -1,5 +1,4 @@
-Synedra palea Kützing SPECIES
-=======
+# Synedra palea Kützing SPECIES
 
 #### Status
 ACCEPTED

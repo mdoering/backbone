@@ -1,5 +1,4 @@
-Alternaria citrimacularis E.G. Simmons SPECIES
-=======
+# Alternaria citrimacularis E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Raciborskiomyces garryanus M.E. Barr & Rogerson SPECIES
-=======
+# Raciborskiomyces garryanus M.E. Barr & Rogerson SPECIES
 
 #### Status
 ACCEPTED

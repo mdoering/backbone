@@ -1,5 +1,4 @@
-Sphaeria mauritiae Mart. SPECIES
-=======
+# Sphaeria mauritiae Mart. SPECIES
 
 #### Status
 ACCEPTED

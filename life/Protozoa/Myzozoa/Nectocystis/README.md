@@ -1,5 +1,4 @@
-Nectocystis Haeckel GENUS
-=======
+# Nectocystis Haeckel GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Stereocaulon intermedium var. intermedium VARIETY
-=======
+# Stereocaulon intermedium (Savicz) H. Magn. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
 null
 
 #### Original name
-null
+Stereocaulon coralloides f. intermedium Savicz
 
 ### Remarks
 null

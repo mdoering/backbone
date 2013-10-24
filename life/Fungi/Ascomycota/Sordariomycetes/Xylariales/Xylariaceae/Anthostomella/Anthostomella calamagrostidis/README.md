@@ -1,5 +1,4 @@
-Anthostomella calamagrostidis Brunaud SPECIES
-=======
+# Anthostomella calamagrostidis Brunaud SPECIES
 
 #### Status
 ACCEPTED

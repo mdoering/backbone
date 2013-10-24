@@ -1,5 +1,4 @@
-Uromyces fulgens Bubák SPECIES
-=======
+# Uromyces fulgens Bubák SPECIES
 
 #### Status
 ACCEPTED

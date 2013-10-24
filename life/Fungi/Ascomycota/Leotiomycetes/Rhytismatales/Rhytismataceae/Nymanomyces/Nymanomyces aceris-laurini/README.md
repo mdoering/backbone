@@ -1,5 +1,4 @@
-Nymanomyces aceris-laurini Henn., 1899 SPECIES
-=======
+# Nymanomyces aceris-laurini Henn., 1899 SPECIES
 
 #### Status
 ACCEPTED

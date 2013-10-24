@@ -1,5 +1,4 @@
-Aecidium galatellae Thüm. SPECIES
-=======
+# Aecidium galatellae Thüm. SPECIES
 
 #### Status
 ACCEPTED

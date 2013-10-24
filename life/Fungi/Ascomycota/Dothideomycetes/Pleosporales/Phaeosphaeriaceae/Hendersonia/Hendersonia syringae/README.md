@@ -1,5 +1,4 @@
-Hendersonia syringae var. fruticola Thüm. VARIETY
-=======
+# Hendersonia syringae Curr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Hendersonia syringae var. fruticola Thüm.
+Hendersonia syringae Curr.
 
 ### Remarks
 null

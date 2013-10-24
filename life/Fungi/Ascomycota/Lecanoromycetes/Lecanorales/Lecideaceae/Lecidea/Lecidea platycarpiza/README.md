@@ -1,5 +1,4 @@
-Lecidea platycarpiza var. oxydata Nádv. VARIETY
-=======
+# Lecidea platycarpiza Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea platycarpiza var. oxydata Nádv.
+Lecidea platycarpiza Nyl.
 
 ### Remarks
 null

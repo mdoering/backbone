@@ -1,8 +1,7 @@
-Parasphenophrya dreissenae (Dobrzanska, 1958) Jankowski, 2007 SPECIES
-=======
+# Sphenophrya dreissenae Dobrzanska, 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

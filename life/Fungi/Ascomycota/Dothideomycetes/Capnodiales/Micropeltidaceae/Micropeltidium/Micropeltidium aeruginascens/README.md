@@ -1,5 +1,4 @@
-Micropeltidium aeruginascens (Rehm) Bat. & Peres SPECIES
-=======
+# Micropeltidium aeruginascens (Rehm) Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vagococcus Collins, Ash, Farrow, Wallbanks & Williams, 1990 GENUS
-=======
+# Vagococcus Collins, Ash, Farrow, Wallbanks & Williams, 1990 GENUS
 
 #### Status
 ACCEPTED

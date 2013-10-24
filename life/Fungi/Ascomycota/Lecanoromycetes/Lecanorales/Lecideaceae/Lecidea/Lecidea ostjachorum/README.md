@@ -1,5 +1,4 @@
-Lecidea ostjachorum SPECIES
-=======
+# Lecidea ostjachorum SPECIES
 
 #### Status
 ACCEPTED

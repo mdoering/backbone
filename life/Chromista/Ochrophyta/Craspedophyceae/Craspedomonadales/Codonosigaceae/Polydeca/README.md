@@ -1,5 +1,4 @@
-Polydeca GENUS
-=======
+# Polydeca GENUS
 
 #### Status
 ACCEPTED

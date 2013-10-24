@@ -1,5 +1,4 @@
-Geothrix fermentans Coates et al., 1999 SPECIES
-=======
+# Geothrix fermentans Coates et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

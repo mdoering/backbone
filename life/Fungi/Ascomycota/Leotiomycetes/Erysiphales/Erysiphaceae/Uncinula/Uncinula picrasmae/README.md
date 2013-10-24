@@ -1,5 +1,4 @@
-Uncinula picrasmae Homma SPECIES
-=======
+# Uncinula picrasmae Homma SPECIES
 
 #### Status
 ACCEPTED

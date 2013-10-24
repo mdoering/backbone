@@ -1,5 +1,4 @@
-Eutypa aneirina (Sommerf.) Sacc. SPECIES
-=======
+# Eutypa aneirina (Sommerf.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

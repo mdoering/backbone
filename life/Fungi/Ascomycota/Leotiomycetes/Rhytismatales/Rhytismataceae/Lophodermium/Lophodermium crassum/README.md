@@ -1,5 +1,4 @@
-Lophodermium crassum Darker, 1932 SPECIES
-=======
+# Lophodermium crassum Darker, 1932 SPECIES
 
 #### Status
 ACCEPTED

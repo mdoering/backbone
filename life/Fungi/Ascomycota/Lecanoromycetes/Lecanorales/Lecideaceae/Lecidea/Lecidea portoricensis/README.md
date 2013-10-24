@@ -1,5 +1,4 @@
-Lecidea portoricensis Spreng. SPECIES
-=======
+# Lecidea portoricensis Spreng. SPECIES
 
 #### Status
 ACCEPTED

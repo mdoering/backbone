@@ -1,5 +1,4 @@
-Uroleptus elongatus SPECIES
-=======
+# Uroleptus elongatus SPECIES
 
 #### Status
 ACCEPTED

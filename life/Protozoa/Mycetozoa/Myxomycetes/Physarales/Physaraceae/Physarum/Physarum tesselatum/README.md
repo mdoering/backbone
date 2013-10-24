@@ -1,5 +1,4 @@
-Physarum tesselatum G.W. Martin & M.L. Farr SPECIES
-=======
+# Physarum tesselatum G.W. Martin & M.L. Farr SPECIES
 
 #### Status
 ACCEPTED

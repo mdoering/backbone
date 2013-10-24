@@ -1,5 +1,4 @@
-Trichoderma arundinaceum Zafari, Gräfenhan & Samuels SPECIES
-=======
+# Trichoderma arundinaceum Zafari, Gräfenhan & Samuels SPECIES
 
 #### Status
 ACCEPTED

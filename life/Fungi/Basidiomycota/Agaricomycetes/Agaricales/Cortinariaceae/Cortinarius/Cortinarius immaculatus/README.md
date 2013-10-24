@@ -1,5 +1,4 @@
-Cortinarius immaculatus Bidaud SPECIES
-=======
+# Cortinarius immaculatus Bidaud SPECIES
 
 #### Status
 ACCEPTED

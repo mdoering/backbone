@@ -1,5 +1,4 @@
-Inocybe alnea Stangl SPECIES
-=======
+# Inocybe alnea Stangl SPECIES
 
 #### Status
 ACCEPTED

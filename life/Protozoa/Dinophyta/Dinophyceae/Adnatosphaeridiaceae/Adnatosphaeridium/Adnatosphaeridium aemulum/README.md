@@ -1,5 +1,4 @@
-Adnatosphaeridium aemulum (Deflandre, 1938) Williams & Downie SPECIES
-=======
+# Adnatosphaeridium aemulum (Deflandre, 1938) Williams & Downie SPECIES
 
 #### Status
 ACCEPTED

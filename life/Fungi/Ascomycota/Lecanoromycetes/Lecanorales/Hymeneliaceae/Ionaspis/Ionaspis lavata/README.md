@@ -1,5 +1,4 @@
-Ionaspis lavata H. Magn. SPECIES
-=======
+# Ionaspis lavata H. Magn. SPECIES
 
 #### Status
 ACCEPTED

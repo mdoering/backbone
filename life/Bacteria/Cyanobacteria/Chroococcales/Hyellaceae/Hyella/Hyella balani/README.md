@@ -1,5 +1,4 @@
-Hyella balani Lehmann SPECIES
-=======
+# Hyella balani Lehmann SPECIES
 
 #### Status
 ACCEPTED

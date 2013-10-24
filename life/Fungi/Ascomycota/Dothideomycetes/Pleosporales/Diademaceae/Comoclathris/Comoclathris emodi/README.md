@@ -1,5 +1,4 @@
-Comoclathris emodi Shoemaker & C.E. Babc. SPECIES
-=======
+# Comoclathris emodi Shoemaker & C.E. Babc. SPECIES
 
 #### Status
 ACCEPTED

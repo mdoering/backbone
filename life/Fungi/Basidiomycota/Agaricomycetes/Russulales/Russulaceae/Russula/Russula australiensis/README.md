@@ -1,5 +1,4 @@
-Russula australiensis Cooke & Massee SPECIES
-=======
+# Russula australiensis Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

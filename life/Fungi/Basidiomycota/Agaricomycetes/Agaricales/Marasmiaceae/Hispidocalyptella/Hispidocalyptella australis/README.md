@@ -1,5 +1,4 @@
-Hispidocalyptella australis E. Horak & Desjardin, 1994 SPECIES
-=======
+# Hispidocalyptella australis E. Horak & Desjardin, 1994 SPECIES
 
 #### Status
 ACCEPTED

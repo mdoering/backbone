@@ -1,5 +1,4 @@
-Colletotrichum sambuci Syd. SPECIES
-=======
+# Colletotrichum sambuci Syd. SPECIES
 
 #### Status
 ACCEPTED

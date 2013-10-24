@@ -1,5 +1,4 @@
-Byssolecania variabilis Vezda, Kalb & Lücking SPECIES
-=======
+# Byssolecania variabilis Vezda, Kalb & Lücking SPECIES
 
 #### Status
 ACCEPTED

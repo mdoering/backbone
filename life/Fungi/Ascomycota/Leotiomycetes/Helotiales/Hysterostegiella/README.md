@@ -1,5 +1,4 @@
-Hysterostegiella von Höhnel, 1917 GENUS
-=======
+# Hysterostegiella von Höhnel, 1917 GENUS
 
 #### Status
 ACCEPTED

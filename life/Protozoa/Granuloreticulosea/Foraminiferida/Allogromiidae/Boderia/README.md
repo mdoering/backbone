@@ -1,5 +1,4 @@
-Boderia Wright, 1867 GENUS
-=======
+# Boderia Wright, 1867 GENUS
 
 #### Status
 ACCEPTED

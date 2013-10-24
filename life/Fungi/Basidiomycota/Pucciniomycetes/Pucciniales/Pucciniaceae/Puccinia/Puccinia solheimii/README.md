@@ -1,5 +1,4 @@
-Puccinia solheimii Cummins SPECIES
-=======
+# Puccinia solheimii Cummins SPECIES
 
 #### Status
 ACCEPTED

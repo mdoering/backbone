@@ -1,5 +1,4 @@
-Laestadia serrulatae (Ellis & Everh.) Sacc. SPECIES
-=======
+# Laestadia serrulatae (Ellis & Everh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

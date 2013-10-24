@@ -1,5 +1,4 @@
-Uredo leviuscula Dietel & Holw. SPECIES
-=======
+# Uredo leviuscula Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

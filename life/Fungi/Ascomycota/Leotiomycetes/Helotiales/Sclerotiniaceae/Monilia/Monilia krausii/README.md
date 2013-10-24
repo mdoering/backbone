@@ -1,5 +1,4 @@
-Monilia krausii (M. Ota) Nann. SPECIES
-=======
+# Monilia krausii (M. Ota) Nann. SPECIES
 
 #### Status
 ACCEPTED

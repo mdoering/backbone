@@ -1,5 +1,4 @@
-Dermatocarpon catamarcae H. Magn. SPECIES
-=======
+# Dermatocarpon catamarcae H. Magn. SPECIES
 
 #### Status
 ACCEPTED

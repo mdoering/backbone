@@ -1,5 +1,4 @@
-Phyllosticta atromaculans Speg. SPECIES
-=======
+# Phyllosticta atromaculans Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Achlys Gistl, 1848 GENUS
-=======
+# Achlys Gistl, 1848 GENUS
 
 #### Status
 ACCEPTED

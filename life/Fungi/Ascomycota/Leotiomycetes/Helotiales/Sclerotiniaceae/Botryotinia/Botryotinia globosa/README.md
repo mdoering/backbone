@@ -1,17 +1,16 @@
-Botrytis globosa A. Raabe, 1938 SPECIES
-=======
+# Botryotinia globosa N.F. Buchw., 1953 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 78: 71 (1938)
+Phytopath. Z. 20: 250 (1953)
 
 #### Original name
-Botrytis globosa A. Raabe, 1938
+Botryotinia globosa N.F. Buchw., 1953
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Colletotrichum iridis Kuhnh.-Lord. & J.P. Barry SPECIES
-=======
+# Colletotrichum iridis Kuhnh.-Lord. & J.P. Barry SPECIES
 
 #### Status
 ACCEPTED

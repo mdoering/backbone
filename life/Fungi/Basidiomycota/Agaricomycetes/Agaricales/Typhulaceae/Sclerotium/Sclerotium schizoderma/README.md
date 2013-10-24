@@ -1,5 +1,4 @@
-Sclerotium schizoderma Speg. SPECIES
-=======
+# Sclerotium schizoderma Speg. SPECIES
 
 #### Status
 ACCEPTED

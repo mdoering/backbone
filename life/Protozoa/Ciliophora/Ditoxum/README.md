@@ -1,14 +1,13 @@
-Distoxum Doflein, 1929 GENUS
-=======
+# Ditoxum Gassovsky, 1919 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Lehrb. der Protozoenk. , 1233.
+Trav. Soc. Nat. Petrograd, 49, 24, 33.
 
 #### Original name
 null

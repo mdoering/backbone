@@ -1,5 +1,4 @@
-Asellacineta Jankowski, 1981 GENUS
-=======
+# Asellacineta Jankowski, 1981 GENUS
 
 #### Status
 ACCEPTED

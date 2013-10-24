@@ -1,5 +1,4 @@
-Cochliopodium gallicum Kudryavtsev & Smirnov, 2006 SPECIES
-=======
+# Cochliopodium gallicum Kudryavtsev & Smirnov, 2006 SPECIES
 
 #### Status
 ACCEPTED

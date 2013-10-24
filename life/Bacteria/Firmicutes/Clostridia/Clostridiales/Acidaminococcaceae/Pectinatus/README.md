@@ -1,5 +1,4 @@
-Pectinatus GENUS
-=======
+# Pectinatus GENUS
 
 #### Status
 ACCEPTED

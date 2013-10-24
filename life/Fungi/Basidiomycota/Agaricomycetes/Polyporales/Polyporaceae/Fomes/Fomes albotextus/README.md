@@ -1,5 +1,4 @@
-Fomes albotextus Lloyd SPECIES
-=======
+# Fomes albotextus Lloyd SPECIES
 
 #### Status
 ACCEPTED

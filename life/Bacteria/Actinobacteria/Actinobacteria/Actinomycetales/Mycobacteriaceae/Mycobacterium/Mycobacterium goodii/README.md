@@ -1,5 +1,4 @@
-Mycobacterium goodii Brown et al., 1999 SPECIES
-=======
+# Mycobacterium goodii Brown et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

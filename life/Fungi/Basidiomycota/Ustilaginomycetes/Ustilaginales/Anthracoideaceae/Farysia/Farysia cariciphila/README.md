@@ -1,5 +1,4 @@
-Farysia cariciphila (Speg.) Hirschh. SPECIES
-=======
+# Farysia cariciphila (Speg.) Hirschh. SPECIES
 
 #### Status
 ACCEPTED

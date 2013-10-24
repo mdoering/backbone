@@ -1,5 +1,4 @@
-Gymnosporium tetrantherae Thüm. SPECIES
-=======
+# Gymnosporium tetrantherae Thüm. SPECIES
 
 #### Status
 ACCEPTED

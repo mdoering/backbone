@@ -1,5 +1,4 @@
-Marasmius silvicola Singer SPECIES
-=======
+# Marasmius silvicola Singer SPECIES
 
 #### Status
 ACCEPTED

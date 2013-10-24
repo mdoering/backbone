@@ -1,5 +1,4 @@
-Phyllosticta cocoës Allesch. SPECIES
-=======
+# Phyllosticta cocoës Allesch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ciliosporella selenospora Petr., 1927 SPECIES
-=======
+# Ciliosporella selenospora Petr., 1927 SPECIES
 
 #### Status
 ACCEPTED

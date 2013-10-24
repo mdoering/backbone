@@ -1,5 +1,4 @@
-Merulius favosus Willd. SPECIES
-=======
+# Merulius favosus Willd. SPECIES
 
 #### Status
 ACCEPTED

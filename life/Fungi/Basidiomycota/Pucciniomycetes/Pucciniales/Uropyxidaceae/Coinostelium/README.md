@@ -1,5 +1,4 @@
-Coinostelium GENUS
-=======
+# Coinostelium GENUS
 
 #### Status
 ACCEPTED

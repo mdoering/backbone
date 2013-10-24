@@ -1,5 +1,4 @@
-Parmelia lyngeana Zahlbr. SPECIES
-=======
+# Parmelia lyngeana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

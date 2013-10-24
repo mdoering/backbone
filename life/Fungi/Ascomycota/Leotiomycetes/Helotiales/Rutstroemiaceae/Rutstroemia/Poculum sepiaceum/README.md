@@ -1,5 +1,4 @@
-Poculum sepiaceum (K.S. Thind, E.K. Cash & Pr. Singh) Dumont SPECIES
-=======
+# Poculum sepiaceum (K.S. Thind, E.K. Cash & Pr. Singh) Dumont SPECIES
 
 #### Status
 ACCEPTED

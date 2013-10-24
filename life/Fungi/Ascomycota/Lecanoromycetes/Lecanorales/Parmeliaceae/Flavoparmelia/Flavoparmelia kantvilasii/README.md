@@ -1,5 +1,4 @@
-Flavoparmelia kantvilasii Elix SPECIES
-=======
+# Flavoparmelia kantvilasii Elix SPECIES
 
 #### Status
 ACCEPTED

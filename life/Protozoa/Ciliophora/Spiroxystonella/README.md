@@ -1,5 +1,4 @@
-Spiroxystonella Kofoid & Campbell, 1939 GENUS
-=======
+# Spiroxystonella Kofoid & Campbell, 1939 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Camillea verruculospora J.D. Rogers, Laessøe & Lodge SPECIES
-=======
+# Camillea verruculospora J.D. Rogers, Laessøe & Lodge SPECIES
 
 #### Status
 ACCEPTED

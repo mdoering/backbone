@@ -1,14 +1,13 @@
-Hydnum repandum subsp. rufescens (Pers.) Pers. SUBSPECIES
-=======
+# Hydnum rufescens Pers., 1800 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. eur. (Erlanga) 2: 161 (1825)
+Observ. mycol. (Lipsiae) 2: 95 (1800)
 
 #### Original name
 Hydnum rufescens Pers., 1800

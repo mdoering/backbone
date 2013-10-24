@@ -1,5 +1,4 @@
-Entophlyctis texana Karling, 1941 SPECIES
-=======
+# Entophlyctis texana Karling, 1941 SPECIES
 
 #### Status
 ACCEPTED

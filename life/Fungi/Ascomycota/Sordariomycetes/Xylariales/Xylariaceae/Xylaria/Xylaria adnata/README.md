@@ -1,5 +1,4 @@
-Xylaria adnata (Fuckel) Sacc. SPECIES
-=======
+# Xylaria adnata (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

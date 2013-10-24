@@ -1,5 +1,4 @@
-Myriotrema Bachelot de la Pylaie, 1830 GENUS
-=======
+# Myriotrema Bachelot de la Pylaie, 1830 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lichen cinereoater Schrank SPECIES
-=======
+# Lichen cinereoater Schrank SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Poria gelatinosotubulosa Pilát SPECIES
-=======
+# Poria gelatinosotubulosa Pilát SPECIES
 
 #### Status
 ACCEPTED

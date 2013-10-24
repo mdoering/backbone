@@ -1,5 +1,4 @@
-Lecidea adumbrans Nyl. SPECIES
-=======
+# Lecidea adumbrans Nyl. SPECIES
 
 #### Status
 ACCEPTED

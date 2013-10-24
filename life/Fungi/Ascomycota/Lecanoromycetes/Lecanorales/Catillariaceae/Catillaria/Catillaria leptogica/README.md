@@ -1,5 +1,4 @@
-Catillaria leptogica (Nyl.) Arnold SPECIES
-=======
+# Catillaria leptogica (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

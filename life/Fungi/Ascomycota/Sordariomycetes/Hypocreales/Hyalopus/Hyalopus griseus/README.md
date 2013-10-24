@@ -1,5 +1,4 @@
-Hyalopus griseus Berk. & M.A. Curtis SPECIES
-=======
+# Hyalopus griseus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

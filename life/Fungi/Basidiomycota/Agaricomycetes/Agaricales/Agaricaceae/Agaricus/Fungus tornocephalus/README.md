@@ -1,5 +1,4 @@
-Fungus tornocephalus (Berk. & Broome) Kuntze SPECIES
-=======
+# Fungus tornocephalus (Berk. & Broome) Kuntze SPECIES
 
 #### Status
 ACCEPTED

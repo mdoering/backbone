@@ -1,17 +1,16 @@
-Mycovellosiella lantanae var. lantanae VARIETY
-=======
+# Passalora lantanae (Chupp) U. Braun & Crous, 2003 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 137: 33 (1974)
+in Crous & Braun, CBS Diversity Ser. (Utrecht) 242 (2003)
 
 #### Original name
-Mycovellosiella lantanae var. lantanae
+Cercospora lantanae Chupp, 1931
 
 ### Remarks
 null

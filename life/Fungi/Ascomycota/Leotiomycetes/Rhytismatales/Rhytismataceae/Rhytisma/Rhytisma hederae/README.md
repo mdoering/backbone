@@ -1,5 +1,4 @@
-Rhytisma hederae Heer SPECIES
-=======
+# Rhytisma hederae Heer SPECIES
 
 #### Status
 ACCEPTED

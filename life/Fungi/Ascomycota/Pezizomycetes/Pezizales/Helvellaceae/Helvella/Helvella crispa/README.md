@@ -1,17 +1,16 @@
-Helvella nigricans var. nigricans VARIETY
-=======
+# Helvella crispa (Scop.) Fr., 1822 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syst. mycol. (Lundae) 2(1): 14 (1822)
 
 #### Original name
-null
+Phallus crispus Scop., 1772
 
 ### Remarks
 null

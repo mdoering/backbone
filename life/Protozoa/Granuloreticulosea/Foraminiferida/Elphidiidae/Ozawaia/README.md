@@ -1,5 +1,4 @@
-Ozawaia Cushman, 1931 GENUS
-=======
+# Ozawaia Cushman, 1931 GENUS
 
 #### Status
 ACCEPTED

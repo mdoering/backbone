@@ -1,5 +1,4 @@
-Agaricus cremeogriseus Britzelm. SPECIES
-=======
+# Agaricus cremeogriseus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

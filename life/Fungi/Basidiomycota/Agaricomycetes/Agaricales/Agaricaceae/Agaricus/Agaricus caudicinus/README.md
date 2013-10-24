@@ -1,5 +1,4 @@
-Agaricus caudicinus var. caudicinus VARIETY
-=======
+# Agaricus caudicinus Pers. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Agaricus caudicinus var. caudicinus
+Agaricus caudicinus Pers.
 
 ### Remarks
 null

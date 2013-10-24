@@ -1,5 +1,4 @@
-Phlebiella fastidiosa (Pers.) Bondartsev & Singer SPECIES
-=======
+# Phlebiella fastidiosa (Pers.) Bondartsev & Singer SPECIES
 
 #### Status
 ACCEPTED

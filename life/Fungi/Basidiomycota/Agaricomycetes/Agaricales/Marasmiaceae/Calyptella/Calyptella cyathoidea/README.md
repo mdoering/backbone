@@ -1,5 +1,4 @@
-Calyptella cyathoidea P. Karst. ex W.B. Cooke SPECIES
-=======
+# Calyptella cyathoidea P. Karst. ex W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

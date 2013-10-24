@@ -1,5 +1,4 @@
-Uredo triniochloae Arthur & Holw. SPECIES
-=======
+# Uredo triniochloae Arthur & Holw. SPECIES
 
 #### Status
 ACCEPTED

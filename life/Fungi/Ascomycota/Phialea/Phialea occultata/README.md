@@ -1,5 +1,4 @@
-Phialea occultata Rehm SPECIES
-=======
+# Phialea occultata Rehm SPECIES
 
 #### Status
 ACCEPTED

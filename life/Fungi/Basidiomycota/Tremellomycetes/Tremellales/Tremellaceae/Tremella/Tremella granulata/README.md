@@ -1,5 +1,4 @@
-Tremella granulata (L.) Huds. SPECIES
-=======
+# Tremella granulata (L.) Huds. SPECIES
 
 #### Status
 ACCEPTED

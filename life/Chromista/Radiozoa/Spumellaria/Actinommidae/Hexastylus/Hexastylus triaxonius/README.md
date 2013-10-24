@@ -1,5 +1,4 @@
-Hexastylus triaxonius Haeckel, 1887 SPECIES
-=======
+# Hexastylus triaxonius Haeckel, 1887 SPECIES
 
 #### Status
 ACCEPTED

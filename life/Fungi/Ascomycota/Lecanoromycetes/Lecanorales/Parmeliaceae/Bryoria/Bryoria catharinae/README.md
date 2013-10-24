@@ -1,5 +1,4 @@
-Bryoria catharinae (Räsänen) Bystrek SPECIES
-=======
+# Bryoria catharinae (Räsänen) Bystrek SPECIES
 
 #### Status
 ACCEPTED

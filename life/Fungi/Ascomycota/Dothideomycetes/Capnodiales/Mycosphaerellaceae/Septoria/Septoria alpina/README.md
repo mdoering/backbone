@@ -1,5 +1,4 @@
-Septoria alpina Teterevn. SPECIES
-=======
+# Septoria alpina Teterevn. SPECIES
 
 #### Status
 ACCEPTED

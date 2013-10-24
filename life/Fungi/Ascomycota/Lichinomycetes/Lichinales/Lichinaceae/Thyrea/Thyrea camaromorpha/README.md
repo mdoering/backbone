@@ -1,5 +1,4 @@
-Thyrea camaromorpha (A. Massal.) A. Massal. SPECIES
-=======
+# Thyrea camaromorpha (A. Massal.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramaria fistulosa Corner, 1966 SPECIES
-=======
+# Ramaria fistulosa Corner, 1966 SPECIES
 
 #### Status
 ACCEPTED

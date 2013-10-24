@@ -1,5 +1,4 @@
-Melanops jastnini SPECIES
-=======
+# Melanops jastnini SPECIES
 
 #### Status
 ACCEPTED

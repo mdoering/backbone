@@ -1,5 +1,4 @@
-Sphaerulina ludwigiae Nag Raj & Ponnappa SPECIES
-=======
+# Sphaerulina ludwigiae Nag Raj & Ponnappa SPECIES
 
 #### Status
 ACCEPTED

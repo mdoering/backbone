@@ -1,5 +1,4 @@
-Zobellia galactanivorans Barbeyron, L'Haridon, Corre, Kloareg & Potin, 2001 SPECIES
-=======
+# Zobellia galactanivorans Barbeyron, L'Haridon, Corre, Kloareg & Potin, 2001 SPECIES
 
 #### Status
 ACCEPTED

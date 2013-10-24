@@ -1,5 +1,4 @@
-Phaeographis attenuata (Kremp.) Redinger SPECIES
-=======
+# Phaeographis attenuata (Kremp.) Redinger SPECIES
 
 #### Status
 ACCEPTED

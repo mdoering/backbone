@@ -1,17 +1,16 @@
-Monoporisporites sheffvi A. Chandra, R.K. Saxena & Setty SPECIES
-=======
+# Monoporisporites sheffyi A. Chandra, R.K. Saxena & Setty SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biovigyanam 10(1): 50 + pl. II, fig. 25 (1984)
 
 #### Original name
-Monoporisporites sheffvi A. Chandra, R.K. Saxena & Setty
+Monoporisporites sheffyi A. Chandra, R.K. Saxena & Setty
 
 ### Remarks
 null

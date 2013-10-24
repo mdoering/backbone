@@ -1,5 +1,4 @@
-Leucoagaricus ianthinophaeus Locq. SPECIES
-=======
+# Leucoagaricus ianthinophaeus Locq. SPECIES
 
 #### Status
 ACCEPTED

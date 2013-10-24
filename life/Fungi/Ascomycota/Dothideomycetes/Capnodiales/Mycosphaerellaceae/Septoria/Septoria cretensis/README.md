@@ -1,5 +1,4 @@
-Septoria cretensis B. Sutton SPECIES
-=======
+# Septoria cretensis B. Sutton SPECIES
 
 #### Status
 ACCEPTED

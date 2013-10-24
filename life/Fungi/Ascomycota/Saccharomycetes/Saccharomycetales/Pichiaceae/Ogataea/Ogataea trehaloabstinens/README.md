@@ -1,17 +1,16 @@
-Pichia trehaloabstinens G. Péter, Tornai-Leh., Fülöp & Dlauchy, 2003 SPECIES
-=======
+# Ogataea trehaloabstinens (G. Péter, Tornai-Leh., Fülöp & Dlauchy) Nagats., S. Saito & Sugiy., 2008 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. gen. appl. Microbiol. , Tokyo 54(6): 363 (2008)
 
 #### Original name
-null
+Pichia trehaloabstinens G. Péter, Tornai-Leh., Fülöp & Dlauchy, 2003
 
 ### Remarks
 null

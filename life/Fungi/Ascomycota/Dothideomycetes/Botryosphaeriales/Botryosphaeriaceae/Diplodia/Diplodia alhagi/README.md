@@ -1,5 +1,4 @@
-Diplodia alhagi S. Ahmad SPECIES
-=======
+# Diplodia alhagi S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

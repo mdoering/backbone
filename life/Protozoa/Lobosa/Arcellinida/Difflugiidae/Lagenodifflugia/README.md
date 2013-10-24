@@ -1,5 +1,4 @@
-Lagenodifflugia Medioli & Scott, 1983 GENUS
-=======
+# Lagenodifflugia Medioli & Scott, 1983 GENUS
 
 #### Status
 ACCEPTED

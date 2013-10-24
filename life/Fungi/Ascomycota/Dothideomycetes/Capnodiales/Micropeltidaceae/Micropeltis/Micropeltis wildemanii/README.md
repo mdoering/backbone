@@ -1,5 +1,4 @@
-Micropeltis wildemanii Beeli SPECIES
-=======
+# Micropeltis wildemanii Beeli SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melampsora eucalypti Rabenh. SPECIES
-=======
+# Melampsora eucalypti Rabenh. SPECIES
 
 #### Status
 ACCEPTED

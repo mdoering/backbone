@@ -1,5 +1,4 @@
-Vibrio algosus ZoBell & Upham, 1944 SPECIES
-=======
+# Vibrio algosus ZoBell & Upham, 1944 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cerinomyces G.W. Martin GENUS
-=======
+# Cerinomyces G.W. Martin GENUS
 
 #### Status
 ACCEPTED

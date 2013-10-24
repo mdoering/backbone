@@ -1,5 +1,4 @@
-Mucor niger Ciagl. & Hewelke SPECIES
-=======
+# Mucor niger Ciagl. & Hewelke SPECIES
 
 #### Status
 ACCEPTED

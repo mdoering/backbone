@@ -1,5 +1,4 @@
-Pyrenulaceae Rabenh. FAMILY
-=======
+# Pyrenulaceae Rabenh. FAMILY
 
 #### Status
 ACCEPTED

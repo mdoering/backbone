@@ -1,5 +1,4 @@
-Poria foliacea Scop. SPECIES
-=======
+# Poria foliacea Scop. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Urocystis wangii L. Guo SPECIES
-=======
+# Urocystis wangii L. Guo SPECIES
 
 #### Status
 ACCEPTED

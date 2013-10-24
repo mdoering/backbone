@@ -1,5 +1,4 @@
-Phomopsis lucumae Gutner SPECIES
-=======
+# Phomopsis lucumae Gutner SPECIES
 
 #### Status
 ACCEPTED

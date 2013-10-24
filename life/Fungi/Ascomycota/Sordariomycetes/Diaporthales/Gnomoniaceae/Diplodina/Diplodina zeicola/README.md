@@ -1,5 +1,4 @@
-Diplodina zeicola S. Ahmad SPECIES
-=======
+# Diplodina zeicola S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochyta sinapis Rodigin SPECIES
-=======
+# Ascochyta sinapis Rodigin SPECIES
 
 #### Status
 ACCEPTED

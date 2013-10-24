@@ -1,5 +1,4 @@
-Lecidea lacinulata Hue SPECIES
-=======
+# Lecidea lacinulata Hue SPECIES
 
 #### Status
 ACCEPTED

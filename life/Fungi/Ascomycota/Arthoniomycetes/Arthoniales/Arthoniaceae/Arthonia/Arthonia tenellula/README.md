@@ -1,5 +1,4 @@
-Arthonia tenellula Nyl. SPECIES
-=======
+# Arthonia tenellula Nyl. SPECIES
 
 #### Status
 ACCEPTED

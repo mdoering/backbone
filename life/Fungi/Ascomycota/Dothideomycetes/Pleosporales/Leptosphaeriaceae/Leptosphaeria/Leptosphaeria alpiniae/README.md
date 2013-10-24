@@ -1,5 +1,4 @@
-Leptosphaeria alpiniae Maubl. SPECIES
-=======
+# Leptosphaeria alpiniae Maubl. SPECIES
 
 #### Status
 ACCEPTED

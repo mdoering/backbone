@@ -1,5 +1,4 @@
-Chiodecton natalense Nyl. SPECIES
-=======
+# Chiodecton natalense Nyl. SPECIES
 
 #### Status
 ACCEPTED

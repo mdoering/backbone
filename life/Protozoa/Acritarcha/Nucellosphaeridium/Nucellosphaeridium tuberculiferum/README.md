@@ -1,5 +1,4 @@
-Nucellosphaeridium tuberculiferum Faizulina in Akulcheva et al., 1981 SPECIES
-=======
+# Nucellosphaeridium tuberculiferum Faizulina in Akulcheva et al., 1981 SPECIES
 
 #### Status
 ACCEPTED

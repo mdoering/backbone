@@ -1,5 +1,4 @@
-Actinopeltis scitula Syd. SPECIES
-=======
+# Actinopeltis scitula Syd. SPECIES
 
 #### Status
 ACCEPTED

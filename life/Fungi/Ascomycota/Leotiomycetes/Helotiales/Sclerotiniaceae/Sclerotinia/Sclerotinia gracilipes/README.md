@@ -1,5 +1,4 @@
-Sclerotinia gracilipes (Cooke) Sacc. SPECIES
-=======
+# Sclerotinia gracilipes (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

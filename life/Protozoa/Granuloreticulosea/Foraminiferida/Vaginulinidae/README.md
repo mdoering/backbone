@@ -1,5 +1,4 @@
-Vaginulinidae Reuss, 1860 FAMILY
-=======
+# Vaginulinidae Reuss, 1860 FAMILY
 
 #### Status
 ACCEPTED

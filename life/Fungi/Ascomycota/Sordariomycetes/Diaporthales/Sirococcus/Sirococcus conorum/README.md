@@ -1,5 +1,4 @@
-Sirococcus conorum Sacc. & Roum. SPECIES
-=======
+# Sirococcus conorum Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Balantidium tapiri Carini, 1942 SPECIES
-=======
+# Balantidium tapiri Carini, 1942 SPECIES
 
 #### Status
 ACCEPTED

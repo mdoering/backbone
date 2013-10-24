@@ -1,5 +1,4 @@
-Dufourea arctica Hook. f. SPECIES
-=======
+# Dufourea arctica Hook. f. SPECIES
 
 #### Status
 ACCEPTED

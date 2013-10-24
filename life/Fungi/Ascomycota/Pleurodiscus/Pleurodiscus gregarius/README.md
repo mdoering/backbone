@@ -1,5 +1,4 @@
-Pleurodiscus gregarius Petr., 1931 SPECIES
-=======
+# Pleurodiscus gregarius Petr., 1931 SPECIES
 
 #### Status
 ACCEPTED

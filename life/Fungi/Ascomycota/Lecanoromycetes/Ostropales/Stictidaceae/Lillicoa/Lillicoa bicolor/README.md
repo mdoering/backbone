@@ -1,5 +1,4 @@
-Lillicoa bicolor (Pat.) Sherwood SPECIES
-=======
+# Lillicoa bicolor (Pat.) Sherwood SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Triblidium sherwoodiae Magnes SPECIES
-=======
+# Triblidium sherwoodiae Magnes SPECIES
 
 #### Status
 ACCEPTED

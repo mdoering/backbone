@@ -1,5 +1,4 @@
-Patellaria triseptata (P. Karst.) Sacc. SPECIES
-=======
+# Patellaria triseptata (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

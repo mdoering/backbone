@@ -1,5 +1,4 @@
-Parmelia subaffinis Zahlbr. SPECIES
-=======
+# Parmelia subaffinis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

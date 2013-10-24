@@ -1,5 +1,4 @@
-Apiothyrium Petr. GENUS
-=======
+# Apiothyrium Petr. GENUS
 
 #### Status
 ACCEPTED

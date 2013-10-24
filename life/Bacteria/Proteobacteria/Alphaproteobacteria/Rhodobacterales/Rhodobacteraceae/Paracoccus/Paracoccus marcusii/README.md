@@ -1,5 +1,4 @@
-Paracoccus marcusii Harker et al., 1998 SPECIES
-=======
+# Paracoccus marcusii Harker et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

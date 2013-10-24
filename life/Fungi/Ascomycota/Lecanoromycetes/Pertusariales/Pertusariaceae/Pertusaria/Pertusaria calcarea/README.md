@@ -1,5 +1,4 @@
-Pertusaria calcarea (Nyl.) Nyl. SPECIES
-=======
+# Pertusaria calcarea (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

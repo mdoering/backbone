@@ -1,5 +1,4 @@
-Dendrodochium subtile Fautrey SPECIES
-=======
+# Dendrodochium subtile Fautrey SPECIES
 
 #### Status
 ACCEPTED

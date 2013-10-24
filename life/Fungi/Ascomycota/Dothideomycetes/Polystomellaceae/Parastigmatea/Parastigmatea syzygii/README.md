@@ -1,5 +1,4 @@
-Parastigmatea syzygii P.N. Rao SPECIES
-=======
+# Parastigmatea syzygii P.N. Rao SPECIES
 
 #### Status
 ACCEPTED

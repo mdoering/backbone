@@ -1,5 +1,4 @@
-Pseudocercospora medicaginicola (Pavgi & U.P. Singh) Deighton SPECIES
-=======
+# Pseudocercospora medicaginicola (Pavgi & U.P. Singh) Deighton SPECIES
 
 #### Status
 ACCEPTED

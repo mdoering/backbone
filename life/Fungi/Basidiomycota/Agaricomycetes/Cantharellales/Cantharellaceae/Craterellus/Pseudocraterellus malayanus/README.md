@@ -1,5 +1,4 @@
-Pseudocraterellus malayanus Corner SPECIES
-=======
+# Pseudocraterellus malayanus Corner SPECIES
 
 #### Status
 ACCEPTED

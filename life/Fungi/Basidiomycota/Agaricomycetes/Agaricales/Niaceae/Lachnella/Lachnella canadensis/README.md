@@ -1,5 +1,4 @@
-Lachnella canadensis (Ellis & Dearn.) Seaver SPECIES
-=======
+# Lachnella canadensis (Ellis & Dearn.) Seaver SPECIES
 
 #### Status
 ACCEPTED

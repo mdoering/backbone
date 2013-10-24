@@ -1,5 +1,4 @@
-Rhachomyces mateui Balazuc SPECIES
-=======
+# Rhachomyces mateui Balazuc SPECIES
 
 #### Status
 ACCEPTED

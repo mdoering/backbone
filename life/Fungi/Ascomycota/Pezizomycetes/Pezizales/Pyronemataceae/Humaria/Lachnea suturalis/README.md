@@ -1,5 +1,4 @@
-Lachnea suturalis anon. SPECIES
-=======
+# Lachnea suturalis anon. SPECIES
 
 #### Status
 ACCEPTED

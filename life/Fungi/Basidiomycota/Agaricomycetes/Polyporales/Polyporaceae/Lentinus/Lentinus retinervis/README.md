@@ -1,5 +1,4 @@
-Lentinus retinervis Pegler, 1983 SPECIES
-=======
+# Lentinus retinervis Pegler, 1983 SPECIES
 
 #### Status
 ACCEPTED

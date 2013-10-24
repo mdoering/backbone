@@ -1,5 +1,4 @@
-Cryptodiscus sambuci E.K. Cash SPECIES
-=======
+# Cryptodiscus sambuci E.K. Cash SPECIES
 
 #### Status
 ACCEPTED

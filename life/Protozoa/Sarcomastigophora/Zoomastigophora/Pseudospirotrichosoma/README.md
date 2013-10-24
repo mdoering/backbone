@@ -1,5 +1,4 @@
-Pseudospirotrichosoma Bala & Bhagat, 1993 GENUS
-=======
+# Pseudospirotrichosoma Bala & Bhagat, 1993 GENUS
 
 #### Status
 ACCEPTED

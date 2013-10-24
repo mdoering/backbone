@@ -1,5 +1,4 @@
-Mycosphaerella linariae Vestergr. SPECIES
-=======
+# Mycosphaerella linariae Vestergr. SPECIES
 
 #### Status
 ACCEPTED

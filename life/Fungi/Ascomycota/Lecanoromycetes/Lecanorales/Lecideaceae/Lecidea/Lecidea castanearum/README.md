@@ -1,5 +1,4 @@
-Lecidea castanearum (Jatta) Jatta SPECIES
-=======
+# Lecidea castanearum (Jatta) Jatta SPECIES
 
 #### Status
 ACCEPTED

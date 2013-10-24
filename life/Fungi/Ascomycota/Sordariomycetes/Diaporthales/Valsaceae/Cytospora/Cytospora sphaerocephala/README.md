@@ -1,5 +1,4 @@
-Cytospora sphaerocephala (Schwein.) Sacc. SPECIES
-=======
+# Cytospora sphaerocephala (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

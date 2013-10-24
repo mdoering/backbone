@@ -1,5 +1,4 @@
-Lecanora dispersogranulata Szatala SPECIES
-=======
+# Lecanora dispersogranulata Szatala SPECIES
 
 #### Status
 ACCEPTED

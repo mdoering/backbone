@@ -1,5 +1,4 @@
-Lamprospora jetelae Vacek SPECIES
-=======
+# Lamprospora jetelae Vacek SPECIES
 
 #### Status
 ACCEPTED

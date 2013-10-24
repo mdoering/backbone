@@ -1,5 +1,4 @@
-Ombrophila subsqualida Rehm SPECIES
-=======
+# Ombrophila subsqualida Rehm SPECIES
 
 #### Status
 ACCEPTED

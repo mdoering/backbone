@@ -1,5 +1,4 @@
-Cortinarius zosteroides P.D. Orton, 1983 SPECIES
-=======
+# Cortinarius zosteroides P.D. Orton, 1983 SPECIES
 
 #### Status
 ACCEPTED

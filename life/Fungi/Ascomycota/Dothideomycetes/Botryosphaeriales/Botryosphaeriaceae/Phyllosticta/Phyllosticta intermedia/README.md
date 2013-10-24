@@ -1,5 +1,4 @@
-Phyllosticta intermedia Allesch. SPECIES
-=======
+# Phyllosticta intermedia Allesch. SPECIES
 
 #### Status
 ACCEPTED

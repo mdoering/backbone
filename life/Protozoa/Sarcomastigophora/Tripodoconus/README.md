@@ -1,5 +1,4 @@
-Tripodoconus Nishimura, 1990 GENUS
-=======
+# Tripodoconus Nishimura, 1990 GENUS
 
 #### Status
 ACCEPTED

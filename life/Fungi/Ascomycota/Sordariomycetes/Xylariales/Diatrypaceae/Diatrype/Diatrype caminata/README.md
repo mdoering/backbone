@@ -1,5 +1,4 @@
-Diatrype caminata Kalchbr. & Cooke SPECIES
-=======
+# Diatrype caminata Kalchbr. & Cooke SPECIES
 
 #### Status
 ACCEPTED

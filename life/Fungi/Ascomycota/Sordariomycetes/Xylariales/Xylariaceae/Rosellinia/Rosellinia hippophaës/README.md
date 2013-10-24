@@ -1,5 +1,4 @@
-Rosellinia hippophaës Rehm SPECIES
-=======
+# Rosellinia hippophaës Rehm SPECIES
 
 #### Status
 ACCEPTED

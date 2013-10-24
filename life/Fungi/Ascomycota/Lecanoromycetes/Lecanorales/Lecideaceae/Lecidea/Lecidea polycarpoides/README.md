@@ -1,5 +1,4 @@
-Lecidea polycarpoides Nyl. SPECIES
-=======
+# Lecidea polycarpoides Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptographium sinoprocerum Quan Lu, Decock, Maraite SPECIES
-=======
+# Leptographium sinoprocerum Quan Lu, Decock, Maraite SPECIES
 
 #### Status
 ACCEPTED

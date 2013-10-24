@@ -1,17 +1,16 @@
-Pestalozzia De Not. GENUS
-=======
+# Pestalotia De Notaris, 1841 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
 null
 
 #### Original name
-Pestalozzia De Not.
+null
 
 ### Remarks
 null

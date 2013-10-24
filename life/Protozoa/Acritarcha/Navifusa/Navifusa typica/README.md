@@ -1,5 +1,4 @@
-Navifusa typica Pykhova, 1973 ex Fensome et al., 1990 SPECIES
-=======
+# Navifusa typica Pykhova, 1973 ex Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

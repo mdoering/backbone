@@ -1,5 +1,4 @@
-Candida pseudoglaebosa M. Suzuki & Nakase, 1993 SPECIES
-=======
+# Candida pseudoglaebosa M. Suzuki & Nakase, 1993 SPECIES
 
 #### Status
 ACCEPTED

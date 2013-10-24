@@ -1,5 +1,4 @@
-Stigmidium placynthii Cl. Roux & Nav.-Ros. SPECIES
-=======
+# Stigmidium placynthii Cl. Roux & Nav.-Ros. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhodoblastus Imhoff, 2001 GENUS
-=======
+# Rhodoblastus Imhoff, 2001 GENUS
 
 #### Status
 ACCEPTED

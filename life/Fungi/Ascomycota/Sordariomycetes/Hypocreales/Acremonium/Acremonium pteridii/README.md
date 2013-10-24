@@ -1,5 +1,4 @@
-Acremonium pteridii W. Gams & J.C. Frankland, 1971 SPECIES
-=======
+# Acremonium pteridii W. Gams & J.C. Frankland, 1971 SPECIES
 
 #### Status
 ACCEPTED

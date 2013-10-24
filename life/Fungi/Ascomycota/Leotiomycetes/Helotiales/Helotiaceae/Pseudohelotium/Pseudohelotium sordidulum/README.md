@@ -1,5 +1,4 @@
-Pseudohelotium sordidulum (P. Karst.) Huhtinen SPECIES
-=======
+# Pseudohelotium sordidulum (P. Karst.) Huhtinen SPECIES
 
 #### Status
 ACCEPTED

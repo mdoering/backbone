@@ -1,5 +1,4 @@
-Uromyces primulae-integrifoliae (DC.) Niessl SPECIES
-=======
+# Uromyces primulae-integrifoliae (DC.) Niessl SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entopeltis craterispermi Hansf. SPECIES
-=======
+# Entopeltis craterispermi Hansf. SPECIES
 
 #### Status
 ACCEPTED

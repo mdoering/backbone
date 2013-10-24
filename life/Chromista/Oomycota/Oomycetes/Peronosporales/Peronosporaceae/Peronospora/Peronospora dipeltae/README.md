@@ -1,5 +1,4 @@
-Peronospora dipeltae Jacz. SPECIES
-=======
+# Peronospora dipeltae Jacz. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea goniophila var. goniophila VARIETY
-=======
+# Lecidea goniophila Flörke SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea goniophila var. goniophila
+Lecidea goniophila Flörke
 
 ### Remarks
 null

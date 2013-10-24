@@ -1,5 +1,4 @@
-Cestodella operculata Tuzet, Manier & Jolivet SPECIES
-=======
+# Cestodella operculata Tuzet, Manier & Jolivet SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ophryoglena hypertrophica Savoie, 1961 SPECIES
-=======
+# Ophryoglena hypertrophica Savoie, 1961 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Schroeteria annulata Ellis & Everh. SPECIES
-=======
+# Schroeteria annulata Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

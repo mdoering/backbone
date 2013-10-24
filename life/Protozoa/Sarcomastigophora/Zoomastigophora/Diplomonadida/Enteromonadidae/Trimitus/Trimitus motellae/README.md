@@ -1,5 +1,4 @@
-Trimitus motellae Alexieff, 1910 SPECIES
-=======
+# Trimitus motellae Alexieff, 1910 SPECIES
 
 #### Status
 ACCEPTED

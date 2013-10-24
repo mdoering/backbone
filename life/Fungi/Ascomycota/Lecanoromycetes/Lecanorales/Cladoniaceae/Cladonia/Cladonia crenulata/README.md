@@ -1,5 +1,4 @@
-Cladonia crenulata var. crenulata VARIETY
-=======
+# Cladonia crenulata (Ach.) Flörke SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cladonia crenulata var. crenulata
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Coniothyrium calycanthi-floridi (Sacc.) Biga, Cif. & Bestagno SPECIES
-=======
+# Coniothyrium calycanthi-floridi (Sacc.) Biga, Cif. & Bestagno SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Plectocoronis Haeckel, 1881 GENUS
-=======
+# Plectocoronis Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

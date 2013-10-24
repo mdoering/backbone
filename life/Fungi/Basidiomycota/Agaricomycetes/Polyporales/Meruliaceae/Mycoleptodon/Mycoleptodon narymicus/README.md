@@ -1,5 +1,4 @@
-Mycoleptodon narymicus Pilát SPECIES
-=======
+# Mycoleptodon narymicus Pilát SPECIES
 
 #### Status
 ACCEPTED

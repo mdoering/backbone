@@ -1,5 +1,4 @@
-Cladosporium superficiale Petch SPECIES
-=======
+# Cladosporium superficiale Petch SPECIES
 
 #### Status
 ACCEPTED

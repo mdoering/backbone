@@ -1,5 +1,4 @@
-Neotyphodium tembladerae Cabral & J.F. White, 1999 SPECIES
-=======
+# Neotyphodium tembladerae Cabral & J.F. White, 1999 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Mesniera anonae R. Rao SPECIES
-=======
+# Mesniera annonae R. Rao SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Univ. Poona, Sci. Techn. 42: 143 (1972)
 
 #### Original name
-Mesniera anonae R. Rao
+Mesniera annonae R. Rao
 
 ### Remarks
 null

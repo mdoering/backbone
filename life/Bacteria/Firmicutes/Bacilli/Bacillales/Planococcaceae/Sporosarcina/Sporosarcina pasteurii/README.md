@@ -1,8 +1,7 @@
-Bacillus pasteurii (Miquel, 1889) Chester, 1898 (Approved Lists, 1980) SPECIES
-=======
+# Sporosarcina pasteurii (Miquel, 1889) Yoon et al., 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

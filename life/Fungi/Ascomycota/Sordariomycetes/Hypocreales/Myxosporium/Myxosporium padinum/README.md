@@ -1,5 +1,4 @@
-Myxosporium padinum Allesch. SPECIES
-=======
+# Myxosporium padinum Allesch. SPECIES
 
 #### Status
 ACCEPTED

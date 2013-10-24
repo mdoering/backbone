@@ -1,17 +1,16 @@
-Dermatocarpon bachmannii var. bachmannii Anders VARIETY
-=======
+# Dermatocarpon bachmannii Anders SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Hedwigia 63: 271 (1922)
 
 #### Original name
-Dermatocarpon bachmannii var. bachmannii Anders
+Dermatocarpon bachmannii Anders
 
 ### Remarks
 null

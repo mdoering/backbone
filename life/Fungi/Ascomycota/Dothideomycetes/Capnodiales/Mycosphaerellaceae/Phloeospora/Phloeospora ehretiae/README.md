@@ -1,5 +1,4 @@
-Phloeospora ehretiae B. Sutton SPECIES
-=======
+# Phloeospora ehretiae B. Sutton SPECIES
 
 #### Status
 ACCEPTED

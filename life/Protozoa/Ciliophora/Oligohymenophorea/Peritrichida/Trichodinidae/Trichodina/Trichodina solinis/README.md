@@ -1,5 +1,4 @@
-Trichodina solinis Xu et al., 1997 SPECIES
-=======
+# Trichodina solinis Xu et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

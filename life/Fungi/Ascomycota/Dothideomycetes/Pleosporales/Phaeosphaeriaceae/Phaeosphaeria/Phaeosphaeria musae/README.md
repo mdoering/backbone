@@ -1,5 +1,4 @@
-Phaeosphaeria musae Sawada SPECIES
-=======
+# Phaeosphaeria musae Sawada SPECIES
 
 #### Status
 ACCEPTED

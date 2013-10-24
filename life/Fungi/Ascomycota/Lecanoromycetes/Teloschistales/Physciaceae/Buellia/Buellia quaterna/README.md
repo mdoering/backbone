@@ -1,5 +1,4 @@
-Buellia quaterna Zahlbr. SPECIES
-=======
+# Buellia quaterna Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

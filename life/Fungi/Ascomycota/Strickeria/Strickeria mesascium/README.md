@@ -1,5 +1,4 @@
-Strickeria mesascium (De Not.) Cooke SPECIES
-=======
+# Strickeria mesascium (De Not.) Cooke SPECIES
 
 #### Status
 ACCEPTED

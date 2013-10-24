@@ -1,5 +1,4 @@
-Flavobacterium soli Yoon et al., 2006 SPECIES
-=======
+# Flavobacterium soli Yoon et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

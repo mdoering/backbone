@@ -1,5 +1,4 @@
-Roselliniomyces trichotheliorum Matzer & Hafellner, 1990 SPECIES
-=======
+# Roselliniomyces trichotheliorum Matzer & Hafellner, 1990 SPECIES
 
 #### Status
 ACCEPTED

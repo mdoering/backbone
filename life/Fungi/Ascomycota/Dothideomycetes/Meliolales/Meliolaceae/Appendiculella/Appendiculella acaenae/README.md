@@ -1,5 +1,4 @@
-Appendiculella acaenae Hansf., 1955 SPECIES
-=======
+# Appendiculella acaenae Hansf., 1955 SPECIES
 
 #### Status
 ACCEPTED

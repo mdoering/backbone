@@ -1,5 +1,4 @@
-Trichia ovalispora Hollós SPECIES
-=======
+# Trichia ovalispora Hollós SPECIES
 
 #### Status
 ACCEPTED

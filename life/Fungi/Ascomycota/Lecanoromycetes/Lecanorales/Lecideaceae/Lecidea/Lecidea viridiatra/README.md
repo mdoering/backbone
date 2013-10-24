@@ -1,5 +1,4 @@
-Lecidea viridiatra (Wulfen) Lamy SPECIES
-=======
+# Lecidea viridiatra (Wulfen) Lamy SPECIES
 
 #### Status
 ACCEPTED

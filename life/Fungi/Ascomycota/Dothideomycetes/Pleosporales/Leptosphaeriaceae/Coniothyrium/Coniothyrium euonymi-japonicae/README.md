@@ -1,5 +1,4 @@
-Coniothyrium euonymi-japonicae (Sacc.) Biga, Cif. & Bestagno SPECIES
-=======
+# Coniothyrium euonymi-japonicae (Sacc.) Biga, Cif. & Bestagno SPECIES
 
 #### Status
 ACCEPTED

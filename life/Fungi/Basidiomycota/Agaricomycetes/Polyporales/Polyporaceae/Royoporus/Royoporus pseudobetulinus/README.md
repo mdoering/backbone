@@ -1,14 +1,13 @@
-Ungulina pseudobetulina Murashk. ex Pilát, 1932 SPECIES
-=======
+# Royoporus pseudobetulinus (Murashk. ex Pilát) A.B. De, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 48(1): 23 (1932)
+Mycotaxon 69: 139 (1998)
 
 #### Original name
 Ungulina pseudobetulina Murashk. ex Pilát, 1932

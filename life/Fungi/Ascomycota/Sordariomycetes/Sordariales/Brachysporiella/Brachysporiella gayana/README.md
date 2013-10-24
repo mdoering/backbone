@@ -1,17 +1,16 @@
-Brachysporiella gayana var. microspora A.D. Sharma, Munjal & Jandaik VARIETY
-=======
+# Brachysporiella gayana Bat., 1952 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Indian Journal of Mycology and Plant Pathology 12(2): 215 (1983)
+Bol. Secr. Agric. (Pernambuco) 19(1-2): 109 (1952)
 
 #### Original name
-Brachysporiella gayana var. microspora A.D. Sharma, Munjal & Jandaik
+Brachysporiella gayana Bat., 1952
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Meliola spirobelia Bat. & M.P. Herrera SPECIES
-=======
+# Meliola spirobelia Bat. & M.P. Herrera SPECIES
 
 #### Status
 ACCEPTED

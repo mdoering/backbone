@@ -1,5 +1,4 @@
-Cercospora moringae Thirum. & Govindu SPECIES
-=======
+# Cercospora moringae Thirum. & Govindu SPECIES
 
 #### Status
 ACCEPTED

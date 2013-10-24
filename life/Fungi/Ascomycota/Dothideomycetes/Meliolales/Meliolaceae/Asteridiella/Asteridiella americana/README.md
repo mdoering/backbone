@@ -1,5 +1,4 @@
-Asteridiella americana Hansf. SPECIES
-=======
+# Asteridiella americana Hansf. SPECIES
 
 #### Status
 ACCEPTED

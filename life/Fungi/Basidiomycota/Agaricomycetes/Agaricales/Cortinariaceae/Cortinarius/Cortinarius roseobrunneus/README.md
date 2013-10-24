@@ -1,5 +1,4 @@
-Cortinarius roseobrunneus Carteret SPECIES
-=======
+# Cortinarius roseobrunneus Carteret SPECIES
 
 #### Status
 ACCEPTED

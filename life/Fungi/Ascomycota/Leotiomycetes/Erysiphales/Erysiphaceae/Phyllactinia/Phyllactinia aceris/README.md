@@ -1,5 +1,4 @@
-Phyllactinia aceris H.D. Shin & Y.J. La SPECIES
-=======
+# Phyllactinia aceris H.D. Shin & Y.J. La SPECIES
 
 #### Status
 ACCEPTED

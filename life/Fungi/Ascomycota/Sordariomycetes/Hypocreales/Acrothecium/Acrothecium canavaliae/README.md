@@ -1,5 +1,4 @@
-Acrothecium canavaliae Sawada SPECIES
-=======
+# Acrothecium canavaliae Sawada SPECIES
 
 #### Status
 ACCEPTED

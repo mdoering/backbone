@@ -1,5 +1,4 @@
-Spiloma microclona Ach. SPECIES
-=======
+# Spiloma microclona Ach. SPECIES
 
 #### Status
 ACCEPTED

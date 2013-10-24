@@ -1,5 +1,4 @@
-Meliola cupaniae-majoris Bat. SPECIES
-=======
+# Meliola cupaniae-majoris Bat. SPECIES
 
 #### Status
 ACCEPTED

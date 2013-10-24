@@ -1,5 +1,4 @@
-Conidiobolus nodosus Sriniv. & Thirum., 1967 SPECIES
-=======
+# Conidiobolus nodosus Sriniv. & Thirum., 1967 SPECIES
 
 #### Status
 ACCEPTED

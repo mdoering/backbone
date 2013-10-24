@@ -1,5 +1,4 @@
-Scoliotidium lauracearum Bat. & Cavalc., 1963 SPECIES
-=======
+# Scoliotidium lauracearum Bat. & Cavalc., 1963 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alternaria seleniiphila Wangeline & E.G. Simmons SPECIES
-=======
+# Alternaria seleniiphila Wangeline & E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

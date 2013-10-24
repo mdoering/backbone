@@ -1,5 +1,4 @@
-Paraphysomonas caelifrica Preisig & Hibberd SPECIES
-=======
+# Paraphysomonas caelifrica Preisig & Hibberd SPECIES
 
 #### Status
 ACCEPTED

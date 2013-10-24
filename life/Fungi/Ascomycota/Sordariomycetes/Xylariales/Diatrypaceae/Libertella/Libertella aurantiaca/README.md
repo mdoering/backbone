@@ -1,5 +1,4 @@
-Libertella aurantiaca Massee SPECIES
-=======
+# Libertella aurantiaca Massee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nodulosphaeria aucta (Niessl) L. Holm SPECIES
-=======
+# Nodulosphaeria aucta (Niessl) L. Holm SPECIES
 
 #### Status
 ACCEPTED

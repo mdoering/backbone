@@ -1,17 +1,16 @@
-Lachnobolus cribrosus Fr., 1825 SPECIES
-=======
+# Amaurochaete tubulina (Alb. & Schwein.) T. Macbr., 1922 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syst. orb. veg. (Lundae) 1: 148 (1825)
+N. Amer. Slime-Moulds (New York), Edn 2 150 (1922)
 
 #### Original name
-Lachnobolus cribrosus Fr., 1825
+Stemonitis tubulina Alb. & Schwein., 1805
 
 ### Remarks
 null

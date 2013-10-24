@@ -1,5 +1,4 @@
-Galerula GENUS
-=======
+# Galerula GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sinophysis canaliculata J.-P. Quod, L. Ten-Hage, J. Turquet, G. Mascarell & A. Couté SPECIES
-=======
+# Sinophysis canaliculata J.-P. Quod, L. Ten-Hage, J. Turquet, G. Mascarell & A. Couté SPECIES
 
 #### Status
 ACCEPTED

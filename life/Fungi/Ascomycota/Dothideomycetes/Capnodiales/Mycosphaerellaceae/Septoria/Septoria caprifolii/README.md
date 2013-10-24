@@ -1,5 +1,4 @@
-Septoria caprifolii Sacc. SPECIES
-=======
+# Septoria caprifolii Sacc. SPECIES
 
 #### Status
 ACCEPTED

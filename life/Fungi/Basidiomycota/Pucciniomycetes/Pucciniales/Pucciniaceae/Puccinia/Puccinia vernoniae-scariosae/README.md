@@ -1,5 +1,4 @@
-Puccinia vernoniae-scariosae Petch SPECIES
-=======
+# Puccinia vernoniae-scariosae Petch SPECIES
 
 #### Status
 ACCEPTED

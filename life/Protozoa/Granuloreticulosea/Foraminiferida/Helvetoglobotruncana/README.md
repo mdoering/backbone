@@ -1,5 +1,4 @@
-Helvetoglobotruncana Reiss, 1957 GENUS
-=======
+# Helvetoglobotruncana Reiss, 1957 GENUS
 
 #### Status
 ACCEPTED

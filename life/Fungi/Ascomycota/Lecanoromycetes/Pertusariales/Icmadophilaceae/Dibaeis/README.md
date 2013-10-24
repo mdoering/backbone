@@ -1,17 +1,16 @@
-Verrucaria Scop. GENUS
-=======
+# Dibaeis Clements, 1909 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Intr. hist. nat. 61 (1777)
+null
 
 #### Original name
-Verrucaria Scop.
+null
 
 ### Remarks
 null

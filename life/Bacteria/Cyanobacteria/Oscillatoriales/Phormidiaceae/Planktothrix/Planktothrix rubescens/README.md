@@ -1,8 +1,7 @@
-Oscillatoria rubescens De Candolle ex Gomont SPECIES
-=======
+# Planktothrix rubescens (De Candolle ex Gomont) Anagnostidis & Komárek SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

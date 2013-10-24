@@ -1,5 +1,4 @@
-Lichen linckii J.F. Gmel. SPECIES
-=======
+# Lichen linckii J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

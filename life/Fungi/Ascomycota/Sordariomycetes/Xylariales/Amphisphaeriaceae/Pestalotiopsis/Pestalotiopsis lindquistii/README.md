@@ -1,5 +1,4 @@
-Pestalotiopsis lindquistii Steyaert SPECIES
-=======
+# Pestalotiopsis lindquistii Steyaert SPECIES
 
 #### Status
 ACCEPTED

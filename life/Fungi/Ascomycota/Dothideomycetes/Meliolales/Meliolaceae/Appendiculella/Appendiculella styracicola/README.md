@@ -1,5 +1,4 @@
-Appendiculella styracicola (W. Yamam.) Hansf. SPECIES
-=======
+# Appendiculella styracicola (W. Yamam.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

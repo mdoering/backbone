@@ -1,5 +1,4 @@
-Planoglobulina Cushman, 1927 GENUS
-=======
+# Planoglobulina Cushman, 1927 GENUS
 
 #### Status
 ACCEPTED

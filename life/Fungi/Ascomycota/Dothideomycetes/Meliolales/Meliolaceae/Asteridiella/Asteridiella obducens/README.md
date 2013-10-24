@@ -1,5 +1,4 @@
-Asteridiella obducens (Gaillard) Hansf. SPECIES
-=======
+# Asteridiella obducens (Gaillard) Hansf. SPECIES
 
 #### Status
 ACCEPTED

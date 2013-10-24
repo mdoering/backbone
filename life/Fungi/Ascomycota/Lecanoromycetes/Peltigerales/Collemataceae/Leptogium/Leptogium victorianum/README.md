@@ -1,17 +1,16 @@
-Leptogium chloromelum var. victorianum F. Wilson VARIETY
-=======
+# Leptogium victorianum F. Wilson SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Victorian Nat. 6: 62 (1889)
+J. Linn. Soc. , Bot. 28: 358 (1891)
 
 #### Original name
-Leptogium chloromelum var. victorianum F. Wilson
+Leptogium victorianum F. Wilson
 
 ### Remarks
 null

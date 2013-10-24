@@ -1,5 +1,4 @@
-Teichospora inverecunda (De Not.) Sacc. SPECIES
-=======
+# Teichospora inverecunda (De Not.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

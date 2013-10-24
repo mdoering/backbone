@@ -1,5 +1,4 @@
-Duplicaria Fuckel, 1870 GENUS
-=======
+# Duplicaria Fuckel, 1870 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sticta dolera Hue SPECIES
-=======
+# Sticta dolera Hue SPECIES
 
 #### Status
 ACCEPTED

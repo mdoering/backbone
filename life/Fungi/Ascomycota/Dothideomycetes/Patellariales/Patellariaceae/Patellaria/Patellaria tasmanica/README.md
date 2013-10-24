@@ -1,5 +1,4 @@
-Patellaria tasmanica Jatta SPECIES
-=======
+# Patellaria tasmanica Jatta SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea subdecipiens Nyl. SPECIES
-=======
+# Lecidea subdecipiens Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia acori Tsukam. & Katsuki SPECIES
-=======
+# Diplodia acori Tsukam. & Katsuki SPECIES
 
 #### Status
 ACCEPTED

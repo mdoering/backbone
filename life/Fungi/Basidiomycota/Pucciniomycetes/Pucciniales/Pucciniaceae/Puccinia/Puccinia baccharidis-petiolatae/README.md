@@ -1,5 +1,4 @@
-Puccinia baccharidis-petiolatae J.C. Lindq. SPECIES
-=======
+# Puccinia baccharidis-petiolatae J.C. Lindq. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chalara indica Pratibha, K.D. Hyde & Bhat SPECIES
-=======
+# Chalara indica Pratibha, K.D. Hyde & Bhat SPECIES
 
 #### Status
 ACCEPTED

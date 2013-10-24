@@ -1,5 +1,4 @@
-Hendersonia ligustri Richon SPECIES
-=======
+# Hendersonia ligustri Richon SPECIES
 
 #### Status
 ACCEPTED

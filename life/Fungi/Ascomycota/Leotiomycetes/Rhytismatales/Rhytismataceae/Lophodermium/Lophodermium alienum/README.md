@@ -1,5 +1,4 @@
-Lophodermium alienum P.R. Johnst., 2001 SPECIES
-=======
+# Lophodermium alienum P.R. Johnst., 2001 SPECIES
 
 #### Status
 ACCEPTED

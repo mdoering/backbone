@@ -1,5 +1,4 @@
-Nytotherus GENUS
-=======
+# Nytotherus GENUS
 
 #### Status
 ACCEPTED

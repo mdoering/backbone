@@ -1,5 +1,4 @@
-Sporodum dissimile Preuss SPECIES
-=======
+# Sporodum dissimile Preuss SPECIES
 
 #### Status
 ACCEPTED

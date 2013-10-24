@@ -1,5 +1,4 @@
-Helvella ephippioides S. Imai SPECIES
-=======
+# Helvella ephippioides S. Imai SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Theocorypha Haeckel, 1887 GENUS
-=======
+# Theocorypha Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

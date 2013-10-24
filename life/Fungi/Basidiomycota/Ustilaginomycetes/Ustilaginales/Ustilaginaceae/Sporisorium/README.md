@@ -1,5 +1,4 @@
-Sporisorium Ehrenb. ex Link GENUS
-=======
+# Sporisorium Ehrenb. ex Link GENUS
 
 #### Status
 ACCEPTED

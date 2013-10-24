@@ -1,5 +1,4 @@
-Cetraria herrei Imshaug SPECIES
-=======
+# Cetraria herrei Imshaug SPECIES
 
 #### Status
 ACCEPTED

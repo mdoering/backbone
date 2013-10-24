@@ -1,5 +1,4 @@
-Mikronegeria Dietel GENUS
-=======
+# Mikronegeria Dietel GENUS
 
 #### Status
 ACCEPTED

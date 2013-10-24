@@ -1,5 +1,4 @@
-Clavariadelphus helveticus Rahm & Schild, 1974 SPECIES
-=======
+# Clavariadelphus helveticus Rahm & Schild, 1974 SPECIES
 
 #### Status
 ACCEPTED

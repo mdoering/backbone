@@ -1,5 +1,4 @@
-Cercospora adenocalymmae A.S. Mull. & Chupp SPECIES
-=======
+# Cercospora adenocalymmae A.S. Mull. & Chupp SPECIES
 
 #### Status
 ACCEPTED

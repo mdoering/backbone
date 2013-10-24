@@ -1,5 +1,4 @@
-Trypethelium verrucosum Fée SPECIES
-=======
+# Trypethelium verrucosum Fée SPECIES
 
 #### Status
 ACCEPTED

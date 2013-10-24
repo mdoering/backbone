@@ -1,5 +1,4 @@
-Gymnopilus P. Karsten, 1879 GENUS
-=======
+# Gymnopilus P. Karsten, 1879 GENUS
 
 #### Status
 ACCEPTED

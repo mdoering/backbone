@@ -1,5 +1,4 @@
-Hedbergellita Maslakova, 1983 GENUS
-=======
+# Hedbergellita Maslakova, 1983 GENUS
 
 #### Status
 ACCEPTED

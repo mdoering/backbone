@@ -1,5 +1,4 @@
-Amauroascus desertorum Faurel & Schotter SPECIES
-=======
+# Amauroascus desertorum Faurel & Schotter SPECIES
 
 #### Status
 ACCEPTED

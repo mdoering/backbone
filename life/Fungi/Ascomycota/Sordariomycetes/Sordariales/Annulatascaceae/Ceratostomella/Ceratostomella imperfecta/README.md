@@ -1,5 +1,4 @@
-Ceratostomella imperfecta V.V. Mill. & Tcherntz. SPECIES
-=======
+# Ceratostomella imperfecta V.V. Mill. & Tcherntz. SPECIES
 
 #### Status
 ACCEPTED

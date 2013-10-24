@@ -1,5 +1,4 @@
-Pholiota aurantioalbida Singer SPECIES
-=======
+# Pholiota aurantioalbida Singer SPECIES
 
 #### Status
 ACCEPTED

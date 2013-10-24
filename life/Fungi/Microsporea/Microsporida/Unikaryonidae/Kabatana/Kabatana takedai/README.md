@@ -1,17 +1,16 @@
-Microsporidium takedai (Awakura) J. Lom, F. Nilsen, S. Urawa SPECIES
-=======
+# Kabatana takedai Awakura, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Dis. Aq. Organ. 44(3): 223-230 (2001)
+null
 
 #### Original name
-Microsporidium takedai (Awakura) J. Lom, F. Nilsen, S. Urawa
+Kabatana takedai Awakura, 1974
 
 ### Remarks
 null

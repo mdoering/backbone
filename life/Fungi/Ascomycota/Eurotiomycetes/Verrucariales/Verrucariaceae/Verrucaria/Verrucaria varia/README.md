@@ -1,5 +1,4 @@
-Verrucaria varia (Ehrh.) Hoffm. SPECIES
-=======
+# Verrucaria varia (Ehrh.) Hoffm. SPECIES
 
 #### Status
 ACCEPTED

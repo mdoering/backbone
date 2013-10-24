@@ -1,5 +1,4 @@
-Leptonia nigricans (Peck) Largent SPECIES
-=======
+# Leptonia nigricans (Peck) Largent SPECIES
 
 #### Status
 ACCEPTED

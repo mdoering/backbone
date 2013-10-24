@@ -1,5 +1,4 @@
-Hypoxylon minutum Nitschke SPECIES
-=======
+# Hypoxylon minutum Nitschke SPECIES
 
 #### Status
 ACCEPTED

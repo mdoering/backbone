@@ -1,5 +1,4 @@
-Mycobacterium senegalense (Chamoiseau, 1973) Chamoiseau, 1979 (Approved Lists, 1980) SPECIES
-=======
+# Mycobacterium senegalense (Chamoiseau, 1973) Chamoiseau, 1979 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

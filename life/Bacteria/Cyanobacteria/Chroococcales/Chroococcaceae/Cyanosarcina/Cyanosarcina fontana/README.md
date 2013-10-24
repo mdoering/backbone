@@ -1,5 +1,4 @@
-Cyanosarcina fontana Kovácik SPECIES
-=======
+# Cyanosarcina fontana Kovácik SPECIES
 
 #### Status
 ACCEPTED

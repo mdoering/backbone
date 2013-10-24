@@ -1,5 +1,4 @@
-Trichoderma stilbohypoxyli Samuels & Schroers, 2006 SPECIES
-=======
+# Trichoderma stilbohypoxyli Samuels & Schroers, 2006 SPECIES
 
 #### Status
 ACCEPTED

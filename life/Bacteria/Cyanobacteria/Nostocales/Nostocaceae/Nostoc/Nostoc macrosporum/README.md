@@ -1,5 +1,4 @@
-Nostoc macrosporum Meneghini ex Bornet & Flahault SPECIES
-=======
+# Nostoc macrosporum Meneghini ex Bornet & Flahault SPECIES
 
 #### Status
 ACCEPTED

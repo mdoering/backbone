@@ -1,5 +1,4 @@
-Uromyces pustulatus Wakef. SPECIES
-=======
+# Uromyces pustulatus Wakef. SPECIES
 
 #### Status
 ACCEPTED

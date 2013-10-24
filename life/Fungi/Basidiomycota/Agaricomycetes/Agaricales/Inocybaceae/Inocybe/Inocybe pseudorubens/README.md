@@ -1,5 +1,4 @@
-Inocybe pseudorubens Carteret & Reumaux SPECIES
-=======
+# Inocybe pseudorubens Carteret & Reumaux SPECIES
 
 #### Status
 ACCEPTED

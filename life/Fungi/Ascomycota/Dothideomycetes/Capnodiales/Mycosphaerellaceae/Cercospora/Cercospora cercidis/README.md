@@ -1,5 +1,4 @@
-Cercospora cercidis Y. Nisik. SPECIES
-=======
+# Cercospora cercidis Y. Nisik. SPECIES
 
 #### Status
 ACCEPTED

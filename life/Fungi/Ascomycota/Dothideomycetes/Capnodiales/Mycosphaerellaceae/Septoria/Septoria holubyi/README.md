@@ -1,5 +1,4 @@
-Septoria holubyi Bäumler SPECIES
-=======
+# Septoria holubyi Bäumler SPECIES
 
 #### Status
 ACCEPTED

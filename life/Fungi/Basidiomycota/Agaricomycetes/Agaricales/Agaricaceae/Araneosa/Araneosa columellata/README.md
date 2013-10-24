@@ -1,5 +1,4 @@
-Araneosa columellata Long, 1941 SPECIES
-=======
+# Araneosa columellata Long, 1941 SPECIES
 
 #### Status
 ACCEPTED

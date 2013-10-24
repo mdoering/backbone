@@ -1,5 +1,4 @@
-Typhula peronata (Pers.) Fr. SPECIES
-=======
+# Typhula peronata (Pers.) Fr. SPECIES
 
 #### Status
 ACCEPTED

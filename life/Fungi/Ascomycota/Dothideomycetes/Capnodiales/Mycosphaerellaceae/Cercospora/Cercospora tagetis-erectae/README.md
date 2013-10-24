@@ -1,17 +1,16 @@
-Cercospora tagetes-erectae Thirum. & Govindu SPECIES
-=======
+# Cercospora tagetis-erectae Thirum. & Govindu SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sydowia 10: 262 (1957)
 
 #### Original name
-Cercospora tagetes-erectae Thirum. & Govindu
+Cercospora tagetis-erectae Thirum. & Govindu
 
 ### Remarks
 null

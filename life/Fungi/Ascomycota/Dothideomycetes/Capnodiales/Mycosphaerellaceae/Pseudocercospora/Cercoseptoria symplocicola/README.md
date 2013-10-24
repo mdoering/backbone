@@ -1,5 +1,4 @@
-Cercoseptoria symplocicola (J.M. Yen) J.M. Yen SPECIES
-=======
+# Cercoseptoria symplocicola (J.M. Yen) J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

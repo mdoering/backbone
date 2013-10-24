@@ -1,5 +1,4 @@
-Ascophanus strangulatus Velen. SPECIES
-=======
+# Ascophanus strangulatus Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clavaria sclerotioides DC. SPECIES
-=======
+# Clavaria sclerotioides DC. SPECIES
 
 #### Status
 ACCEPTED

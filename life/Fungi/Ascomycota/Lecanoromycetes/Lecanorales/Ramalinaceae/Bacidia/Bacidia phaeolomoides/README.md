@@ -1,5 +1,4 @@
-Bacidia phaeolomoides (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Bacidia phaeolomoides (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

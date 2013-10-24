@@ -1,5 +1,4 @@
-Lecidea dispar (Rehm) Zahlbr. SPECIES
-=======
+# Lecidea dispar (Rehm) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

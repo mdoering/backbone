@@ -1,5 +1,4 @@
-Rhabdospora ricini Rieuf SPECIES
-=======
+# Rhabdospora ricini Rieuf SPECIES
 
 #### Status
 ACCEPTED

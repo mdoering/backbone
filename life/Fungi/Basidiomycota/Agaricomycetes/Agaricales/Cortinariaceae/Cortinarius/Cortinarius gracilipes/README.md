@@ -1,5 +1,4 @@
-Cortinarius gracilipes M.M. Moser SPECIES
-=======
+# Cortinarius gracilipes M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

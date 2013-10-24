@@ -1,17 +1,16 @@
-Capnodium coffeae var. coffeae VARIETY
-=======
+# Capnodium coffeae Pat., 1893 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Bull. Soc. mycol. Fr. 9: 150 (1893)
 
 #### Original name
-Capnodium coffeae var. coffeae
+Capnodium coffeae Pat., 1893
 
 ### Remarks
 null

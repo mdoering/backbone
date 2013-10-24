@@ -1,5 +1,4 @@
-Omphalaria camaromorpha A. Massal. SPECIES
-=======
+# Omphalaria camaromorpha A. Massal. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporidesmium melicopes K. Zhang & X.G. Zhang SPECIES
-=======
+# Sporidesmium melicopes K. Zhang & X.G. Zhang SPECIES
 
 #### Status
 ACCEPTED

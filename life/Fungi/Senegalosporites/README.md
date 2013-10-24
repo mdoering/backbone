@@ -1,5 +1,4 @@
-Senegalosporites S. Jardiné & Magloire GENUS
-=======
+# Senegalosporites S. Jardiné & Magloire GENUS
 
 #### Status
 ACCEPTED

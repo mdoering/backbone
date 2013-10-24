@@ -1,5 +1,4 @@
-Fusobacterium ulcerans Adriaans & Shah, 1988 SPECIES
-=======
+# Fusobacterium ulcerans Adriaans & Shah, 1988 SPECIES
 
 #### Status
 ACCEPTED

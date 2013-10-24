@@ -1,14 +1,13 @@
-Drosophila laevissima Romagn., 1952 SPECIES
-=======
+# Psathyrella laevissima (Romagn.) Singer, 1969 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Contribution a l'Etude de Quelques Aspergilles 21: 155 (1952)
+Nova Hedwigia, Beih. 29: 197 (1969)
 
 #### Original name
 Drosophila laevissima Romagn., 1952

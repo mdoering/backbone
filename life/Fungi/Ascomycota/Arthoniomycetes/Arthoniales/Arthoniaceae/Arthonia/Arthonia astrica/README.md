@@ -1,5 +1,4 @@
-Arthonia astrica Tuck. SPECIES
-=======
+# Arthonia astrica Tuck. SPECIES
 
 #### Status
 ACCEPTED

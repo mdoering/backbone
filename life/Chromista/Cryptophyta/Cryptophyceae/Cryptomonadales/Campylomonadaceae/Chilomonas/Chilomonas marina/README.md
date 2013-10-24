@@ -1,5 +1,4 @@
-Chilomonas marina SPECIES
-=======
+# Chilomonas marina SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spiloma isidioides Schaer. SPECIES
-=======
+# Spiloma isidioides Schaer. SPECIES
 
 #### Status
 ACCEPTED

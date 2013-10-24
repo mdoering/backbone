@@ -1,5 +1,4 @@
-Parmelia rubricosa (Ach.) Hepp SPECIES
-=======
+# Parmelia rubricosa (Ach.) Hepp SPECIES
 
 #### Status
 ACCEPTED

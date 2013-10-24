@@ -1,14 +1,13 @@
-Armillariella ditopa Singer, 1951 SPECIES
-=======
+# Arthrosporella ditopa (Singer) Singer, 1970 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Schweiz. Z. Pilzk. 28: 191 (1951)
+Fl. Neotrop. , Monogr. 3: 17 (1970)
 
 #### Original name
 Armillariella ditopa Singer, 1951

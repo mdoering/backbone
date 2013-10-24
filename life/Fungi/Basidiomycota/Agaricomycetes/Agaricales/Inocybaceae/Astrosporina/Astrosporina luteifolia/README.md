@@ -1,5 +1,4 @@
-Astrosporina luteifolia E. Horak SPECIES
-=======
+# Astrosporina luteifolia E. Horak SPECIES
 
 #### Status
 ACCEPTED

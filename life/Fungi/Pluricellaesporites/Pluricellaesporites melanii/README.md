@@ -1,5 +1,4 @@
-Pluricellaesporites melanii Elsik SPECIES
-=======
+# Pluricellaesporites melanii Elsik SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Epiphyllum soliforme (Faure-Fremiet, 1908) Lin, Song & Warren, 200 SPECIES
-=======
+# Loxophyllum dragescoi Carey ß, 1992 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

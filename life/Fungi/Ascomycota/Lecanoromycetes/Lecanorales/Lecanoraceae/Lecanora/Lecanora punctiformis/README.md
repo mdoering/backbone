@@ -1,5 +1,4 @@
-Lecanora punctiformis Lynge SPECIES
-=======
+# Lecanora punctiformis Lynge SPECIES
 
 #### Status
 ACCEPTED

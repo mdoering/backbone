@@ -1,5 +1,4 @@
-Melampsora abietis-caprearum Tubeuf SPECIES
-=======
+# Melampsora abietis-caprearum Tubeuf SPECIES
 
 #### Status
 ACCEPTED

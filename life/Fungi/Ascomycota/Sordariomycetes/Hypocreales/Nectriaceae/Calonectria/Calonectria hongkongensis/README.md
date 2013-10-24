@@ -1,5 +1,4 @@
-Calonectria hongkongensis Crous SPECIES
-=======
+# Calonectria hongkongensis Crous SPECIES
 
 #### Status
 ACCEPTED

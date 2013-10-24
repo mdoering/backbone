@@ -1,5 +1,4 @@
-Helicoönites goosii Kalgutkar & Sigler SPECIES
-=======
+# Helicoönites goosii Kalgutkar & Sigler SPECIES
 
 #### Status
 ACCEPTED

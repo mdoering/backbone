@@ -1,5 +1,4 @@
-Hendersonia microscopica Niessl SPECIES
-=======
+# Hendersonia microscopica Niessl SPECIES
 
 #### Status
 ACCEPTED

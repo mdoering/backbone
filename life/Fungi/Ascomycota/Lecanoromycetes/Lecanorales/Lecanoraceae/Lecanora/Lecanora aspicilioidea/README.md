@@ -1,5 +1,4 @@
-Lecanora aspicilioidea var. aspicilioidea VARIETY
-=======
+# Lecanora aspicilioidea (Th. Fr.) H. Magn. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora aspicilioidea var. aspicilioidea
+Lecidea aspicilioidea Th. Fr.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Oospora dagatae Sacc. SPECIES
-=======
+# Oospora dagatae Sacc. SPECIES
 
 #### Status
 ACCEPTED

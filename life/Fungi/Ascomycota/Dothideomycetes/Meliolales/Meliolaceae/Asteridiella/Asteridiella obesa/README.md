@@ -1,5 +1,4 @@
-Asteridiella obesa var. obesa (Speg.) Hansf. VARIETY
-=======
+# Asteridiella obesa (Speg.) Hansf. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Beih. Sydowia 2: 378 (1961)
 
 #### Original name
-Asteridiella obesa var. obesa (Speg.) Hansf.
+Meliola obesa Speg.
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Polyporus oerstedii Fr., 1851 SPECIES
-=======
+# Ganoderma oerstedii (Fr.) Torrend, 1902 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Acta R. Soc. Scient. upsal. , Ser. 3 1: 63 (1851)
+Bull. Torrey bot. Club 29: 606 (1902)
 
 #### Original name
 Polyporus oerstedii Fr., 1851

@@ -1,5 +1,4 @@
-Heterocephalum taiense Persiani & Maggi, 1987 SPECIES
-=======
+# Heterocephalum taiense Persiani & Maggi, 1987 SPECIES
 
 #### Status
 ACCEPTED

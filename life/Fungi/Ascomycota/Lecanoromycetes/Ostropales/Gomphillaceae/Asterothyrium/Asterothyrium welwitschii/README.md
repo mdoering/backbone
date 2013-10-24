@@ -1,5 +1,4 @@
-Asterothyrium welwitschii Vain. SPECIES
-=======
+# Asterothyrium welwitschii Vain. SPECIES
 
 #### Status
 ACCEPTED

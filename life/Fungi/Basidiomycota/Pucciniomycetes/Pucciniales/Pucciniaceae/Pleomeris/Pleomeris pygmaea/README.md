@@ -1,5 +1,4 @@
-Pleomeris pygmaea (Erikss.) Syd. SPECIES
-=======
+# Pleomeris pygmaea (Erikss.) Syd. SPECIES
 
 #### Status
 ACCEPTED

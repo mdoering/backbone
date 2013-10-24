@@ -1,5 +1,4 @@
-Acanthosporidium Georgévitch, 1951 GENUS
-=======
+# Acanthosporidium Georgévitch, 1951 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dendrodochium coniosporiicola (Henn.) Hansf. SPECIES
-=======
+# Dendrodochium coniosporiicola (Henn.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

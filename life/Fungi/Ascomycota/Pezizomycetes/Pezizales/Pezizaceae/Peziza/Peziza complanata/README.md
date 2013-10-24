@@ -1,5 +1,4 @@
-Peziza complanata Fr. SPECIES
-=======
+# Peziza complanata Fr. SPECIES
 
 #### Status
 ACCEPTED

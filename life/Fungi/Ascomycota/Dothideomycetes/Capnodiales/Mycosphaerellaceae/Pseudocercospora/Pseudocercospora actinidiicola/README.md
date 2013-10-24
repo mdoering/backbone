@@ -1,17 +1,16 @@
-Pseudocercospora actinidicola Goh & W.H. Hsieh SPECIES
-=======
+# Pseudocercospora actinidiicola Goh & W.H. Hsieh SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bot. Bull. Acad. sin. , Taipei 30(2): 122 (1989)
 
 #### Original name
-Pseudocercospora actinidicola Goh & W.H. Hsieh
+Pseudocercospora actinidiicola Goh & W.H. Hsieh
 
 ### Remarks
 null

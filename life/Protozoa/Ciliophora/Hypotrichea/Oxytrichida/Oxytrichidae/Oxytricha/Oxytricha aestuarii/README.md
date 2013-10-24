@@ -1,5 +1,4 @@
-Oxytricha aestuarii SPECIES
-=======
+# Oxytricha aestuarii SPECIES
 
 #### Status
 ACCEPTED

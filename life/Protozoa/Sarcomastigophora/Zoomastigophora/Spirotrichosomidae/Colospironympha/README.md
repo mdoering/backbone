@@ -1,5 +1,4 @@
-Colospironympha Cleveland & Day, 1958 GENUS
-=======
+# Colospironympha Cleveland & Day, 1958 GENUS
 
 #### Status
 ACCEPTED

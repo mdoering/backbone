@@ -1,5 +1,4 @@
-Lichen tessellatus Turner SPECIES
-=======
+# Lichen tessellatus Turner SPECIES
 
 #### Status
 ACCEPTED

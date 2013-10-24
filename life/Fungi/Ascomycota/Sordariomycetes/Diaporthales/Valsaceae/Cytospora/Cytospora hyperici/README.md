@@ -1,5 +1,4 @@
-Cytospora hyperici Grove SPECIES
-=======
+# Cytospora hyperici Grove SPECIES
 
 #### Status
 ACCEPTED

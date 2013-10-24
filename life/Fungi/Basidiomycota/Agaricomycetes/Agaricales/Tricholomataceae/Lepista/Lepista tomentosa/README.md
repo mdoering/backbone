@@ -1,5 +1,4 @@
-Lepista tomentosa M.M. Moser SPECIES
-=======
+# Lepista tomentosa M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

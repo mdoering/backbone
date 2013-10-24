@@ -1,5 +1,4 @@
-Lichen setosus Roth SPECIES
-=======
+# Lichen setosus Roth SPECIES
 
 #### Status
 ACCEPTED

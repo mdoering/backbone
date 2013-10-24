@@ -1,14 +1,13 @@
-Paraparmelia mongaensis (Elix) Elix & J. Johnst. SPECIES
-=======
+# Xanthoparmelia mongaensis (Elix) Elix SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Elix, Johnston & Verdon, Mycotaxon 27: 280 (1986)
+Mycotaxon 87: 400 (2003)
 
 #### Original name
 Parmelia mongaensis Elix

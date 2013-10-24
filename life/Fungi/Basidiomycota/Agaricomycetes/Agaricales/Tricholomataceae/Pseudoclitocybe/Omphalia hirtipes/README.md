@@ -1,5 +1,4 @@
-Omphalia hirtipes Pat. SPECIES
-=======
+# Omphalia hirtipes Pat. SPECIES
 
 #### Status
 ACCEPTED

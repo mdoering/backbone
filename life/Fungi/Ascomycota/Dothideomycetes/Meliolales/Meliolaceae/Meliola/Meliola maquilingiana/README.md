@@ -1,5 +1,4 @@
-Meliola maquilingiana Syd. SPECIES
-=======
+# Meliola maquilingiana Syd. SPECIES
 
 #### Status
 ACCEPTED

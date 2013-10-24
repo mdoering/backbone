@@ -1,5 +1,4 @@
-Aecidium malvastricola Henn. SPECIES
-=======
+# Aecidium malvastricola Henn. SPECIES
 
 #### Status
 ACCEPTED

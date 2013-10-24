@@ -1,5 +1,4 @@
-Cantharellula Singer, 1936 GENUS
-=======
+# Cantharellula Singer, 1936 GENUS
 
 #### Status
 ACCEPTED

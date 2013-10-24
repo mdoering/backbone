@@ -1,5 +1,4 @@
-Royella albida R.S. Dwivedi SPECIES
-=======
+# Royella albida R.S. Dwivedi SPECIES
 
 #### Status
 ACCEPTED

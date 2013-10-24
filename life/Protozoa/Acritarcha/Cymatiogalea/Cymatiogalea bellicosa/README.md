@@ -1,5 +1,4 @@
-Cymatiogalea bellicosa Deunff, 1961 SPECIES
-=======
+# Cymatiogalea bellicosa Deunff, 1961 SPECIES
 
 #### Status
 ACCEPTED

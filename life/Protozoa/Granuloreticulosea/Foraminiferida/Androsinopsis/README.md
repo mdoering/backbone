@@ -1,5 +1,4 @@
-Androsinopsis Hottinger, 2001 GENUS
-=======
+# Androsinopsis Hottinger, 2001 GENUS
 
 #### Status
 ACCEPTED

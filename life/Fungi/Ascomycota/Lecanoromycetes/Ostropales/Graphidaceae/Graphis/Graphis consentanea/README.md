@@ -1,5 +1,4 @@
-Graphis consentanea (Nyl.) Nyl. SPECIES
-=======
+# Graphis consentanea (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

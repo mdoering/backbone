@@ -1,5 +1,4 @@
-Thermutomyces velutini Cif. & Tomas. SPECIES
-=======
+# Thermutomyces velutini Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

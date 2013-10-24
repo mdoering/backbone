@@ -1,5 +1,4 @@
-Kutzneria Stackebrandt et al., 1994 GENUS
-=======
+# Kutzneria Stackebrandt et al., 1994 GENUS
 
 #### Status
 ACCEPTED

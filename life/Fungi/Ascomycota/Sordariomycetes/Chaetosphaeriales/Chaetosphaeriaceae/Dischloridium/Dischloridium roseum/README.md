@@ -1,5 +1,4 @@
-Dischloridium roseum (Petch) Seifert & W. Gams, 1985 SPECIES
-=======
+# Dischloridium roseum (Petch) Seifert & W. Gams, 1985 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Harposporium angustisporum Monoson & Pikul SPECIES
-=======
+# Harposporium angustisporum Monoson & Pikul SPECIES
 
 #### Status
 ACCEPTED

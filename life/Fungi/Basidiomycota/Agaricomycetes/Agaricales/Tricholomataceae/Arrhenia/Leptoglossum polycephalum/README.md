@@ -1,14 +1,13 @@
-Cantharellus polycephalus Bres., 1884 SPECIES
-=======
+# Leptoglossum polycephalum (Bres.) M.M. Moser, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fung. trident. 1: 59 (1884)
+in Gams, Kleine Kryptogamenflora (Stuttgart), Edn 3 2b/2: 105 (1967)
 
 #### Original name
 Cantharellus polycephalus Bres., 1884

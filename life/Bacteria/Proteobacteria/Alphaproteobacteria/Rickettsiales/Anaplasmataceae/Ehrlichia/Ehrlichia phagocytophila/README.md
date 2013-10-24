@@ -1,8 +1,7 @@
-Rickettsia phagocytophila Foggie, 1951 SPECIES
-=======
+# Ehrlichia phagocytophila (Foggie, 1949) Philip, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

@@ -1,5 +1,4 @@
-Meliola millettiae-sanaganae Hansf. & Deighton SPECIES
-=======
+# Meliola millettiae-sanaganae Hansf. & Deighton SPECIES
 
 #### Status
 ACCEPTED

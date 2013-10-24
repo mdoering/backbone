@@ -1,14 +1,13 @@
-Cantharellus platyphyllus f. cyanescens (Buyck) Eyssart. & Buyck, 1999 FORM
-=======
+# Cantharellus cyanescens Buyck, 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Belg. Jl Bot. 131(2): 146 (1999)
+Ubwoba: Les Champignons Comestibles de l'Ouest du Burundi (Brussels), Publication Agricole no. <b>34</b> 112 (1994)
 
 #### Original name
 Cantharellus cyanescens Buyck, 1994

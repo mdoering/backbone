@@ -1,5 +1,4 @@
-Hebeloma subfastible Murrill SPECIES
-=======
+# Hebeloma subfastible Murrill SPECIES
 
 #### Status
 ACCEPTED

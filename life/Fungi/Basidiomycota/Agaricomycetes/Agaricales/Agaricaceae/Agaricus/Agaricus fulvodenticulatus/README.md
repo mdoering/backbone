@@ -1,5 +1,4 @@
-Agaricus fulvodenticulatus Lasch SPECIES
-=======
+# Agaricus fulvodenticulatus Lasch SPECIES
 
 #### Status
 ACCEPTED

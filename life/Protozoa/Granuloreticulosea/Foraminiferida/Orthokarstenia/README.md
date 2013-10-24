@@ -1,5 +1,4 @@
-Orthokarstenia Dietrich, 1935 GENUS
-=======
+# Orthokarstenia Dietrich, 1935 GENUS
 
 #### Status
 ACCEPTED

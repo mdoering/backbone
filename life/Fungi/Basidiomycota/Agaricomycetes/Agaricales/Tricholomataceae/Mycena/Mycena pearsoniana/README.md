@@ -1,11 +1,10 @@
-Mycena pseudopura sensu A.A. Pearson, Kühner SPECIES
-=======
+# Mycena pearsoniana Singer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+Belgian Species List
 
 #### Published in
 null

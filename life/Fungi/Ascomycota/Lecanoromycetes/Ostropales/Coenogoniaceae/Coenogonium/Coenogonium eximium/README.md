@@ -1,5 +1,4 @@
-Coenogonium eximium (Nyl.) Kalb & Lücking SPECIES
-=======
+# Coenogonium eximium (Nyl.) Kalb & Lücking SPECIES
 
 #### Status
 ACCEPTED

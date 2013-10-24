@@ -1,5 +1,4 @@
-Asterolibertia spatholobi Hansf. SPECIES
-=======
+# Asterolibertia spatholobi Hansf. SPECIES
 
 #### Status
 ACCEPTED

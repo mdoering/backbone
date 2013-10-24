@@ -1,5 +1,4 @@
-Hydrocybe compacta Velen. SPECIES
-=======
+# Hydrocybe compacta Velen. SPECIES
 
 #### Status
 ACCEPTED

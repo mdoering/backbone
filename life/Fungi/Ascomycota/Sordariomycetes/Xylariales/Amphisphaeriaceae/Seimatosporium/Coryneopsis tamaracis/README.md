@@ -1,5 +1,4 @@
-Coryneopsis tamaracis (Mig.) Grove SPECIES
-=======
+# Coryneopsis tamaracis (Mig.) Grove SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphis confinis C. Knight & Mitt. SPECIES
-=======
+# Graphis confinis C. Knight & Mitt. SPECIES
 
 #### Status
 ACCEPTED

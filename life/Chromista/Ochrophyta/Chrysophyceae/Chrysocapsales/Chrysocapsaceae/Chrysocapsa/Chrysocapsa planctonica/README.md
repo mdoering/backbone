@@ -1,5 +1,4 @@
-Chrysocapsa planctonica (West & G.S.West) Fritsch in G.S. West & Fritsch, 1927 SPECIES
-=======
+# Chrysocapsa planctonica (West & G.S.West) Fritsch in G.S. West & Fritsch, 1927 SPECIES
 
 #### Status
 ACCEPTED

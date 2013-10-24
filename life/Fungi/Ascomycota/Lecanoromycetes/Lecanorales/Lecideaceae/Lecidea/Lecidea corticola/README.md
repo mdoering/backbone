@@ -1,5 +1,4 @@
-Lecidea corticola (Ach.) Ach. SPECIES
-=======
+# Lecidea corticola (Ach.) Ach. SPECIES
 
 #### Status
 ACCEPTED

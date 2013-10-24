@@ -1,5 +1,4 @@
-Dothiora staphyleae Allesch. SPECIES
-=======
+# Dothiora staphyleae Allesch. SPECIES
 
 #### Status
 ACCEPTED

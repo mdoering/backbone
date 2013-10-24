@@ -1,5 +1,4 @@
-Callopisma contiguum (A. Massal.) J. Stein SPECIES
-=======
+# Callopisma contiguum (A. Massal.) J. Stein SPECIES
 
 #### Status
 ACCEPTED

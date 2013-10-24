@@ -1,5 +1,4 @@
-Okeanomyces K.L. Pang & E.B.G. Jones GENUS
-=======
+# Okeanomyces K.L. Pang & E.B.G. Jones GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius columbinus M.M. Moser & E. Horak SPECIES
-=======
+# Cortinarius columbinus M.M. Moser & E. Horak SPECIES
 
 #### Status
 ACCEPTED

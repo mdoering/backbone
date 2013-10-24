@@ -1,5 +1,4 @@
-Phyllactinia sabiae Zhi X. Chen & R.X. Gao SPECIES
-=======
+# Phyllactinia sabiae Zhi X. Chen & R.X. Gao SPECIES
 
 #### Status
 ACCEPTED

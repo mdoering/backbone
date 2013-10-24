@@ -1,17 +1,16 @@
-Nidularia striata var. pusilla Berk. VARIETY
-=======
+# Cyathus striatus (Huds.) Willd., 1787 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fl. Berol. Prodr. 399 (1787)
 
 #### Original name
-Nidularia striata var. pusilla Berk.
+Peziza striata Huds., 1778
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Hygrophorus hypholomoides Henn. SPECIES
-=======
+# Hygrophorus hypholomoides Henn. SPECIES
 
 #### Status
 ACCEPTED

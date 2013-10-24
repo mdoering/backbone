@@ -1,5 +1,4 @@
-Rigidoporus incarnatus Corner, 1987 SPECIES
-=======
+# Rigidoporus incarnatus Corner, 1987 SPECIES
 
 #### Status
 ACCEPTED

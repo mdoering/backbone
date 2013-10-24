@@ -1,5 +1,4 @@
-Septoria rajkoffii Bubák & Moesz SPECIES
-=======
+# Septoria rajkoffii Bubák & Moesz SPECIES
 
 #### Status
 ACCEPTED

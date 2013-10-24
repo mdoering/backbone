@@ -1,5 +1,4 @@
-Stagonospora nerinicola Dippen. SPECIES
-=======
+# Stagonospora nerinicola Dippen. SPECIES
 
 #### Status
 ACCEPTED

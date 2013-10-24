@@ -1,5 +1,4 @@
-Triadopercularia spitzbergensis Weitschat & Guhl, 1994 SPECIES
-=======
+# Triadopercularia spitzbergensis Weitschat & Guhl, 1994 SPECIES
 
 #### Status
 ACCEPTED

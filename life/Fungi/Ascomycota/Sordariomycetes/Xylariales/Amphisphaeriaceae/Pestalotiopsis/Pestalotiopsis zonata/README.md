@@ -1,14 +1,13 @@
-Pestalotia zonata Ellis & Everh., 1894 SPECIES
-=======
+# Pestalotiopsis zonata (Ellis & Everh.) G.C. Zhao & N. Li, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Journal of Northeast Forestry University 23(4): 24 (1995)
 
 #### Original name
 Pestalotia zonata Ellis & Everh., 1894

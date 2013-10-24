@@ -1,5 +1,4 @@
-Eurotium argentinum Speg. SPECIES
-=======
+# Eurotium argentinum Speg. SPECIES
 
 #### Status
 ACCEPTED

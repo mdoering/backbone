@@ -1,17 +1,16 @@
-Oligonema flavidum brevifilum (Peck) Torrend, 1908 INFRASPECIFIC_NAME
-=======
+# Oligonema flavidum (Peck) Peck, 1879 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ann. Rep. N. Y. St. Mus. nat. Hist. 31: 42 (1878)
 
 #### Original name
-null
+Perichaena flavida Peck, 1874
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lathagrium furfuraceum (Arnold) Szatala SPECIES
-=======
+# Lathagrium furfuraceum (Arnold) Szatala SPECIES
 
 #### Status
 ACCEPTED

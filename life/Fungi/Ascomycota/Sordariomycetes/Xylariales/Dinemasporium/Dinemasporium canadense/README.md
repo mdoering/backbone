@@ -1,5 +1,4 @@
-Dinemasporium canadense Morgan-Jones SPECIES
-=======
+# Dinemasporium canadense Morgan-Jones SPECIES
 
 #### Status
 ACCEPTED

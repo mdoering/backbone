@@ -1,5 +1,4 @@
-Leptogium aragonii Otálora SPECIES
-=======
+# Leptogium aragonii Otálora SPECIES
 
 #### Status
 ACCEPTED

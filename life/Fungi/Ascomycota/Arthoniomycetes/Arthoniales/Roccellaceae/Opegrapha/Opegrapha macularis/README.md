@@ -1,5 +1,4 @@
-Opegrapha macularis SPECIES
-=======
+# Opegrapha macularis SPECIES
 
 #### Status
 ACCEPTED

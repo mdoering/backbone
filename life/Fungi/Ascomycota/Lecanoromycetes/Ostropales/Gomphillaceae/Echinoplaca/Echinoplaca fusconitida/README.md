@@ -1,5 +1,4 @@
-Echinoplaca fusconitida Lücking SPECIES
-=======
+# Echinoplaca fusconitida Lücking SPECIES
 
 #### Status
 ACCEPTED

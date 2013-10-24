@@ -1,14 +1,13 @@
-Gibberidea aspegrenii (Ces. & De Not.) Kuntze, 1898 SPECIES
-=======
+# Cucurbitaria aspegrenii Ces. & De Not., 1863 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 481 (1898)
+Schem. di Classif. Sferiacei 215 (1863)
 
 #### Original name
 Cucurbitaria aspegrenii Ces. & De Not., 1863

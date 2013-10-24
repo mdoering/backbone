@@ -1,5 +1,4 @@
-Spermosporina U. Braun GENUS
-=======
+# Spermosporina U. Braun GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ophidomonas Ehrenberg, 1836 GENUS
-=======
+# Ophidomonas Ehrenberg, 1836 GENUS
 
 #### Status
 ACCEPTED

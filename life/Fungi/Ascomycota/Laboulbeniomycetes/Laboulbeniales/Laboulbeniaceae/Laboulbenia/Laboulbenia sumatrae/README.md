@@ -1,5 +1,4 @@
-Laboulbenia sumatrae Thaxt. SPECIES
-=======
+# Laboulbenia sumatrae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

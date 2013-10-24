@@ -1,5 +1,4 @@
-Monotosporella GENUS
-=======
+# Monotosporella GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lycoperdon luridum Hedw. SPECIES
-=======
+# Lycoperdon luridum Hedw. SPECIES
 
 #### Status
 ACCEPTED

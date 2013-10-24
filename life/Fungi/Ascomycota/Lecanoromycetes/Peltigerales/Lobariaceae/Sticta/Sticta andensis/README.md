@@ -1,5 +1,4 @@
-Sticta andensis (Nyl.) Trevis. SPECIES
-=======
+# Sticta andensis (Nyl.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

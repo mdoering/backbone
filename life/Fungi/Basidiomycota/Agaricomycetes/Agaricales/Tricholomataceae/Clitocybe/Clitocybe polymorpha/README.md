@@ -1,5 +1,4 @@
-Clitocybe polymorpha Velen. SPECIES
-=======
+# Clitocybe polymorpha Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Batcheloromyces Marasas, P.S. van Wyk & Knox-Dav. GENUS
-=======
+# Batcheloromyces Marasas, P.S. van Wyk & Knox-Dav. GENUS
 
 #### Status
 ACCEPTED

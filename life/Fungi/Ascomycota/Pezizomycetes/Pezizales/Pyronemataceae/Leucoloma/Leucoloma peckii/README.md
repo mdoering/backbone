@@ -1,5 +1,4 @@
-Leucoloma peckii (House) House SPECIES
-=======
+# Leucoloma peckii (House) House SPECIES
 
 #### Status
 ACCEPTED

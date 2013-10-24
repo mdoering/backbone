@@ -1,5 +1,4 @@
-Batioladinium W.W.Brideaux, 1975 GENUS
-=======
+# Batioladinium W.W.Brideaux, 1975 GENUS
 
 #### Status
 ACCEPTED

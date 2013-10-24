@@ -1,5 +1,4 @@
-Strangulonema Greville, 1865 GENUS
-=======
+# Strangulonema Greville, 1865 GENUS
 
 #### Status
 ACCEPTED

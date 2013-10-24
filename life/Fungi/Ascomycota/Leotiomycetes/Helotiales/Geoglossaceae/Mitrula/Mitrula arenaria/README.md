@@ -1,5 +1,4 @@
-Mitrula arenaria (Rostr.) SPECIES
-=======
+# Mitrula arenaria (Rostr.) SPECIES
 
 #### Status
 ACCEPTED

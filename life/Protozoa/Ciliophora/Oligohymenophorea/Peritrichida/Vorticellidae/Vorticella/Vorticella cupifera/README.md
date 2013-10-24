@@ -1,5 +1,4 @@
-Vorticella cupifera Kahl, 1935 SPECIES
-=======
+# Vorticella cupifera Kahl, 1935 SPECIES
 
 #### Status
 ACCEPTED

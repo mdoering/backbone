@@ -1,5 +1,4 @@
-Didymium rugulosum Berk. SPECIES
-=======
+# Didymium rugulosum Berk. SPECIES
 
 #### Status
 ACCEPTED

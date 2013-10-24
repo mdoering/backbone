@@ -1,5 +1,4 @@
-Caloplaca ochronigra J. Steiner SPECIES
-=======
+# Caloplaca ochronigra J. Steiner SPECIES
 
 #### Status
 ACCEPTED

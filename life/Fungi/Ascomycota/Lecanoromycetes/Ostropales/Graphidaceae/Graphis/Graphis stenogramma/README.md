@@ -1,5 +1,4 @@
-Graphis stenogramma (Nyl.) Zahlbr. SPECIES
-=======
+# Graphis stenogramma (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

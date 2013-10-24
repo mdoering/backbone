@@ -1,8 +1,7 @@
-Gloeothece caldariorum (Richter) Hollerbach SPECIES
-=======
+# Aphanothece caldariorum Richter SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

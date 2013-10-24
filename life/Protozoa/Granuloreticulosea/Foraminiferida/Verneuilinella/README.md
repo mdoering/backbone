@@ -1,5 +1,4 @@
-Verneuilinella Tairov, 1956 GENUS
-=======
+# Verneuilinella Tairov, 1956 GENUS
 
 #### Status
 ACCEPTED

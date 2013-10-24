@@ -1,5 +1,4 @@
-Ceratocystis autographa B.K. Bakshi, 1951 SPECIES
-=======
+# Ceratocystis autographa B.K. Bakshi, 1951 SPECIES
 
 #### Status
 ACCEPTED

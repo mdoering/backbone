@@ -1,5 +1,4 @@
-Corythodinium Loeblich, Jr. & Loeblich Iii, 1966 GENUS
-=======
+# Corythodinium Loeblich, Jr. & Loeblich Iii, 1966 GENUS
 
 #### Status
 ACCEPTED

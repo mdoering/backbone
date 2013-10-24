@@ -1,5 +1,4 @@
-Nectriella charticola Fuckel SPECIES
-=======
+# Nectriella charticola Fuckel SPECIES
 
 #### Status
 ACCEPTED

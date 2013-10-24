@@ -1,5 +1,4 @@
-Nocardia polyresistens Xu et al., 2005 SPECIES
-=======
+# Nocardia polyresistens Xu et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

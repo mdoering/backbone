@@ -1,5 +1,4 @@
-Botrytis allii Munn, 1917 SPECIES
-=======
+# Botrytis allii Munn, 1917 SPECIES
 
 #### Status
 ACCEPTED

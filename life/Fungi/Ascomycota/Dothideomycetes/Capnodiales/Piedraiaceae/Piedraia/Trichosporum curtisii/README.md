@@ -1,5 +1,4 @@
-Trichosporum curtisii Massee SPECIES
-=======
+# Trichosporum curtisii Massee SPECIES
 
 #### Status
 ACCEPTED

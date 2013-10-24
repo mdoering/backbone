@@ -1,5 +1,4 @@
-Lactarius highlandensis Hesler & A.H. Sm. SPECIES
-=======
+# Lactarius highlandensis Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhinosporidium ayyari Allen & Dave SPECIES
-=======
+# Rhinosporidium ayyari Allen & Dave SPECIES
 
 #### Status
 ACCEPTED

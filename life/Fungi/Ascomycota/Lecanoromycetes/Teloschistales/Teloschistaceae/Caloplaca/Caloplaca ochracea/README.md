@@ -1,14 +1,13 @@
-Callopisma ochraceum var. ochraceum VARIETY
-=======
+# Caloplaca ochracea (Schaer.) Flagey SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 35: 572 (1852)
+Mem. Soc. d'Emulat. Doubs 257 (1886)
 
 #### Original name
 Lecidea ochracea (Körb.) Zwackh

@@ -1,5 +1,4 @@
-Phoma elsholtziae Naumov SPECIES
-=======
+# Phoma elsholtziae Naumov SPECIES
 
 #### Status
 ACCEPTED

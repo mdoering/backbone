@@ -1,5 +1,4 @@
-Chroococcus gomontii Nygaard SPECIES
-=======
+# Chroococcus gomontii Nygaard SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stilbum vaporarium Berk. & Broome, 1850 SPECIES
-=======
+# Stilbum vaporarium Berk. & Broome, 1850 SPECIES
 
 #### Status
 ACCEPTED

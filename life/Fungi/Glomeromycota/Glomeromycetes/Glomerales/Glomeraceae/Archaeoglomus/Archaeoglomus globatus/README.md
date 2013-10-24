@@ -1,5 +1,4 @@
-Archaeoglomus globatus Neeta Sharma, R.K. Kar, A. Agarwal & R. Kar SPECIES
-=======
+# Archaeoglomus globatus Neeta Sharma, R.K. Kar, A. Agarwal & R. Kar SPECIES
 
 #### Status
 ACCEPTED

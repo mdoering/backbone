@@ -1,5 +1,4 @@
-Choanocystoides Cognetti de Martiis, 1925 GENUS
-=======
+# Choanocystoides Cognetti de Martiis, 1925 GENUS
 
 #### Status
 ACCEPTED

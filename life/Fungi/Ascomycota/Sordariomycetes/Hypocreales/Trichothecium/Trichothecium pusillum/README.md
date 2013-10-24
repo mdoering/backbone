@@ -1,5 +1,4 @@
-Trichothecium pusillum Rabenh. SPECIES
-=======
+# Trichothecium pusillum Rabenh. SPECIES
 
 #### Status
 ACCEPTED

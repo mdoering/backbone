@@ -1,5 +1,4 @@
-Macbridella GENUS
-=======
+# Macbridella GENUS
 
 #### Status
 ACCEPTED

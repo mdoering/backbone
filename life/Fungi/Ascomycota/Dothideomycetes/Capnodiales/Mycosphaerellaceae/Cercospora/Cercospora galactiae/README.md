@@ -1,5 +1,4 @@
-Cercospora galactiae Ellis & Everh. SPECIES
-=======
+# Cercospora galactiae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

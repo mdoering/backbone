@@ -1,5 +1,4 @@
-Cryptostictis bisetulata Guba SPECIES
-=======
+# Cryptostictis bisetulata Guba SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Biatora versicolor (Nyl.) Mont. & Van den Bosch SPECIES
-=======
+# Biatora versicolor (Nyl.) Mont. & Van den Bosch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetosphaeria parvicapsa (Cooke) Sacc. SPECIES
-=======
+# Chaetosphaeria parvicapsa (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

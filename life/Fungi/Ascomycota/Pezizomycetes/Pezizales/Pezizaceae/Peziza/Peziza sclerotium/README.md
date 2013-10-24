@@ -1,5 +1,4 @@
-Peziza sclerotium Pers. SPECIES
-=======
+# Peziza sclerotium Pers. SPECIES
 
 #### Status
 ACCEPTED

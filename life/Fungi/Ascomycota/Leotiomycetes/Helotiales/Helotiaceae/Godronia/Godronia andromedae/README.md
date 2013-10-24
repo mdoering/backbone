@@ -1,5 +1,4 @@
-Godronia andromedae Henn. SPECIES
-=======
+# Godronia andromedae Henn. SPECIES
 
 #### Status
 ACCEPTED

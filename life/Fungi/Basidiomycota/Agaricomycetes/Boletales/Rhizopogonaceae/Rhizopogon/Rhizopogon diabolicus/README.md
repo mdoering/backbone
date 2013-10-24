@@ -1,5 +1,4 @@
-Rhizopogon diabolicus A.H. Sm. SPECIES
-=======
+# Rhizopogon diabolicus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

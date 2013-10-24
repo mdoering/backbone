@@ -1,5 +1,4 @@
-Ceratolithoides arcuatus Prins & Sissingh in Sissingh, 1977 SPECIES
-=======
+# Ceratolithoides arcuatus Prins & Sissingh in Sissingh, 1977 SPECIES
 
 #### Status
 ACCEPTED

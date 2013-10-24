@@ -1,5 +1,4 @@
-Pleospora lepidii Hollós SPECIES
-=======
+# Pleospora lepidii Hollós SPECIES
 
 #### Status
 ACCEPTED

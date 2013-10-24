@@ -1,5 +1,4 @@
-Puccinia vallartensis J.F. Hennen & Cummins SPECIES
-=======
+# Puccinia vallartensis J.F. Hennen & Cummins SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus polyphyllus DC. SPECIES
-=======
+# Agaricus polyphyllus DC. SPECIES
 
 #### Status
 ACCEPTED

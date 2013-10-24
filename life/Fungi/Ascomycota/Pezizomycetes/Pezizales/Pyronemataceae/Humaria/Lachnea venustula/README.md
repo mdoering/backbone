@@ -1,5 +1,4 @@
-Lachnea venustula (Desm.) Mussat SPECIES
-=======
+# Lachnea venustula (Desm.) Mussat SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scleroderma sapidum (Corda) Zerova SPECIES
-=======
+# Scleroderma sapidum (Corda) Zerova SPECIES
 
 #### Status
 ACCEPTED

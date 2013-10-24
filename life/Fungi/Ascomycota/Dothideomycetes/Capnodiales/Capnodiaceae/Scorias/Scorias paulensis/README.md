@@ -1,5 +1,4 @@
-Scorias paulensis Henn. SPECIES
-=======
+# Scorias paulensis Henn. SPECIES
 
 #### Status
 ACCEPTED

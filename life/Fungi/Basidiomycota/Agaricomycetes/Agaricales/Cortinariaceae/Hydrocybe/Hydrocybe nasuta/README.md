@@ -1,5 +1,4 @@
-Hydrocybe nasuta Velen. SPECIES
-=======
+# Hydrocybe nasuta Velen. SPECIES
 
 #### Status
 ACCEPTED

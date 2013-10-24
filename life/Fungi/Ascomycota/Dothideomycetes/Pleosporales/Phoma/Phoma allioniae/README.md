@@ -1,5 +1,4 @@
-Phoma allioniae Bres. SPECIES
-=======
+# Phoma allioniae Bres. SPECIES
 
 #### Status
 ACCEPTED

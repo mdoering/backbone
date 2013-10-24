@@ -1,5 +1,4 @@
-Pseudocladosporium U. Braun, 1998 GENUS
-=======
+# Pseudocladosporium U. Braun, 1998 GENUS
 
 #### Status
 ACCEPTED

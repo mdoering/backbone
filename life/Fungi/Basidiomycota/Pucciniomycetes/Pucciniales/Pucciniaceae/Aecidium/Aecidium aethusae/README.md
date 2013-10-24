@@ -1,5 +1,4 @@
-Aecidium aethusae Kirchn. SPECIES
-=======
+# Aecidium aethusae Kirchn. SPECIES
 
 #### Status
 ACCEPTED

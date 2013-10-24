@@ -1,5 +1,4 @@
-Trachelomonas volvocinopsis f. punctata (Roll) Popova FORM
-=======
+# Trachelomonas volvocinopsis Svirenko SPECIES
 
 #### Status
 ACCEPTED

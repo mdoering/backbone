@@ -1,5 +1,4 @@
-Lopadostoma pouzarii Granmo & L.E. Petrini, 1996 SPECIES
-=======
+# Lopadostoma pouzarii Granmo & L.E. Petrini, 1996 SPECIES
 
 #### Status
 ACCEPTED

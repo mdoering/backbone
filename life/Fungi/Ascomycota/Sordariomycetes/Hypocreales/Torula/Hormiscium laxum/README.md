@@ -1,5 +1,4 @@
-Hormiscium laxum Wallr. SPECIES
-=======
+# Hormiscium laxum Wallr. SPECIES
 
 #### Status
 ACCEPTED

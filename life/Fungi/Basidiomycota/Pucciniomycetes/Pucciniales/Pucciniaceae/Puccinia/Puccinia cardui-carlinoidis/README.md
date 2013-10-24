@@ -1,5 +1,4 @@
-Puccinia cardui-carlinoidis Bremer & Petr. SPECIES
-=======
+# Puccinia cardui-carlinoidis Bremer & Petr. SPECIES
 
 #### Status
 ACCEPTED

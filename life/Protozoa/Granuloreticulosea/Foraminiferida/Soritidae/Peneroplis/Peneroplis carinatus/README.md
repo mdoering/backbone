@@ -1,5 +1,4 @@
-Peneroplis carinatus SPECIES
-=======
+# Peneroplis carinatus SPECIES
 
 #### Status
 ACCEPTED

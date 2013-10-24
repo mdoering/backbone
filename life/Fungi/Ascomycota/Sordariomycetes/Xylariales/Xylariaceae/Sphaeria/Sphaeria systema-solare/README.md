@@ -1,5 +1,4 @@
-Sphaeria systema-solare Fuckel SPECIES
-=======
+# Sphaeria systema-solare Fuckel SPECIES
 
 #### Status
 ACCEPTED

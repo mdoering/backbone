@@ -1,5 +1,4 @@
-Lecanora byssiseda Fée SPECIES
-=======
+# Lecanora byssiseda Fée SPECIES
 
 #### Status
 ACCEPTED

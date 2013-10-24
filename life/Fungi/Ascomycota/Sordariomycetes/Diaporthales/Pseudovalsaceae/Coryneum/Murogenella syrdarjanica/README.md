@@ -1,5 +1,4 @@
-Murogenella syrdarjanica Sagdull. & Isanb. SPECIES
-=======
+# Murogenella syrdarjanica Sagdull. & Isanb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactobacillus amylolyticus Bohak et al., 1999 SPECIES
-=======
+# Lactobacillus amylolyticus Bohak et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tubercularia leguminicola Petch SPECIES
-=======
+# Tubercularia leguminicola Petch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectria sphaerospora Ellis & Everh. SPECIES
-=======
+# Nectria sphaerospora Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rickenella straminea (Petch) Pegler SPECIES
-=======
+# Rickenella straminea (Petch) Pegler SPECIES
 
 #### Status
 ACCEPTED

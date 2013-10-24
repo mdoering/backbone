@@ -1,5 +1,4 @@
-Pseudotthia vaccinii Henn. & E. Nyman SPECIES
-=======
+# Pseudotthia vaccinii Henn. & E. Nyman SPECIES
 
 #### Status
 ACCEPTED

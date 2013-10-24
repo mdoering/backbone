@@ -1,5 +1,4 @@
-Erythrosphaera reinhardii Sorokin SPECIES
-=======
+# Erythrosphaera reinhardii Sorokin SPECIES
 
 #### Status
 ACCEPTED

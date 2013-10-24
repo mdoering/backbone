@@ -1,5 +1,4 @@
-Pezicula cinereofusca (Schwein.) Sacc. SPECIES
-=======
+# Pezicula cinereofusca (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

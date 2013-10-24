@@ -1,5 +1,4 @@
-Ciboria caespitosa Seaver SPECIES
-=======
+# Ciboria caespitosa Seaver SPECIES
 
 #### Status
 ACCEPTED

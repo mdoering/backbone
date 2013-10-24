@@ -1,5 +1,4 @@
-Meliola bifida Cooke SPECIES
-=======
+# Meliola bifida Cooke SPECIES
 
 #### Status
 ACCEPTED

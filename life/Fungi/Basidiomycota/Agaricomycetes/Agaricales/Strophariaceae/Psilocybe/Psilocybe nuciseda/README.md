@@ -1,5 +1,4 @@
-Psilocybe nuciseda (Fr.) Massee SPECIES
-=======
+# Psilocybe nuciseda (Fr.) Massee SPECIES
 
 #### Status
 ACCEPTED

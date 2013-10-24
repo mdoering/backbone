@@ -1,5 +1,4 @@
-Hymenochaete tuberculosa Cooke SPECIES
-=======
+# Hymenochaete tuberculosa Cooke SPECIES
 
 #### Status
 ACCEPTED

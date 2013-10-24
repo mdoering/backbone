@@ -1,5 +1,4 @@
-Helicostegina Barker & Grimsdale, 1936 GENUS
-=======
+# Helicostegina Barker & Grimsdale, 1936 GENUS
 
 #### Status
 ACCEPTED

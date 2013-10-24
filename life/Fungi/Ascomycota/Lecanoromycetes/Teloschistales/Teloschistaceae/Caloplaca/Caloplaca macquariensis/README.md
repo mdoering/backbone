@@ -1,5 +1,4 @@
-Caloplaca macquariensis C.W. Dodge SPECIES
-=======
+# Caloplaca macquariensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

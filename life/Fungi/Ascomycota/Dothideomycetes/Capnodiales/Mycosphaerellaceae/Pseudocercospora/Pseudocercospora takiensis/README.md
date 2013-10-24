@@ -1,5 +1,4 @@
-Pseudocercospora takiensis A.K. Das SPECIES
-=======
+# Pseudocercospora takiensis A.K. Das SPECIES
 
 #### Status
 ACCEPTED

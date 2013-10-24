@@ -1,5 +1,4 @@
-Penicillium oledzkii K.M. Zalessky SPECIES
-=======
+# Penicillium oledzkii K.M. Zalessky SPECIES
 
 #### Status
 ACCEPTED

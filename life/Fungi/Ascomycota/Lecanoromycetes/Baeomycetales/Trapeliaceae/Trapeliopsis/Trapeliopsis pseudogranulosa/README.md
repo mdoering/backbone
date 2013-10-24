@@ -1,5 +1,4 @@
-Trapeliopsis pseudogranulosa Coppins & P. James SPECIES
-=======
+# Trapeliopsis pseudogranulosa Coppins & P. James SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Auricularia americana Parmasto & I. Parmasto ex Audet, Boulet & Sirard, 2003 SPECIES
-=======
+# Auricularia americana Parmasto & I. Parmasto ex Audet, Boulet & Sirard, 2003 SPECIES
 
 #### Status
 ACCEPTED

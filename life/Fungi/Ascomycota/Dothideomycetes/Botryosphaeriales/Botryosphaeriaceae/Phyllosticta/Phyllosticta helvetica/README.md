@@ -1,5 +1,4 @@
-Phyllosticta helvetica Sacc. SPECIES
-=======
+# Phyllosticta helvetica Sacc. SPECIES
 
 #### Status
 ACCEPTED

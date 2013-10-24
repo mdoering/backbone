@@ -1,5 +1,4 @@
-Hymenoscyphus ranarum (Velen.) Svrcek SPECIES
-=======
+# Hymenoscyphus ranarum (Velen.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

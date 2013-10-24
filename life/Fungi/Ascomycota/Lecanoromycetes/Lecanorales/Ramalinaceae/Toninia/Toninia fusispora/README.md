@@ -1,14 +1,13 @@
-Lecidea fusispora (Hepp ex Körb.) Stizenb. SPECIES
-=======
+# Toninia fusispora (Hepp ex Körb.) Th. Fr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bot. Notiser 106 (1867)
 
 #### Original name
 Raphiospora fusispora Hepp ex Körb.

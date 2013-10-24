@@ -1,5 +1,4 @@
-Coelomomyces solomonis Laird SPECIES
-=======
+# Coelomomyces solomonis Laird SPECIES
 
 #### Status
 ACCEPTED

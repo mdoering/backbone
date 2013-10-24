@@ -1,8 +1,7 @@
-Cyclotella quadrijuncta (Schröter) von Keissler SPECIES
-=======
+# Cyclotella schroeteri Lemmermann SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

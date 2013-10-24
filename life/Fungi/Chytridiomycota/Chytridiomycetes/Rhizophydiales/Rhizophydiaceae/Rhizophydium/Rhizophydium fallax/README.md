@@ -1,5 +1,4 @@
-Rhizophydium fallax Scherff. SPECIES
-=======
+# Rhizophydium fallax Scherff. SPECIES
 
 #### Status
 ACCEPTED

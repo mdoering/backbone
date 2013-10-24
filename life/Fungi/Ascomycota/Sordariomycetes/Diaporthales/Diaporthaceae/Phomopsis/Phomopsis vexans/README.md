@@ -1,17 +1,16 @@
-Phoma solani Halst., 1892 SPECIES
-=======
+# Phomopsis vexans (Sacc. & P. Syd.) Harter, 1914 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Report of the New Jersey State Agricultural Experimental Station 277 (1891)
+null
 
 #### Original name
-Phoma solani Halst., 1892
+null
 
 ### Remarks
 null

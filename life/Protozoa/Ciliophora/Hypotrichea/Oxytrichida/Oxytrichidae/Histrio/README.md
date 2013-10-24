@@ -1,5 +1,4 @@
-Histrio GENUS
-=======
+# Histrio GENUS
 
 #### Status
 ACCEPTED

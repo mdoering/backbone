@@ -1,5 +1,4 @@
-Cucurbitaria nemoricola Kirschst. SPECIES
-=======
+# Cucurbitaria nemoricola Kirschst. SPECIES
 
 #### Status
 ACCEPTED

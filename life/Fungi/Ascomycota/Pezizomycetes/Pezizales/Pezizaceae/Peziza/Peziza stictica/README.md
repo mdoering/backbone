@@ -1,5 +1,4 @@
-Peziza stictica Berk. & M.A. Curtis SPECIES
-=======
+# Peziza stictica Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

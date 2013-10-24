@@ -1,5 +1,4 @@
-Siropatella moravica Petr. SPECIES
-=======
+# Siropatella moravica Petr. SPECIES
 
 #### Status
 ACCEPTED

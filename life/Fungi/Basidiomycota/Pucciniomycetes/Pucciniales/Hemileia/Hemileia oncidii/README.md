@@ -1,5 +1,4 @@
-Hemileia oncidii Griffon & Maubl. SPECIES
-=======
+# Hemileia oncidii Griffon & Maubl. SPECIES
 
 #### Status
 ACCEPTED

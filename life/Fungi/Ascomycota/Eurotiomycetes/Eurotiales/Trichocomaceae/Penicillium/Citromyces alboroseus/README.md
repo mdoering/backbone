@@ -1,5 +1,4 @@
-Citromyces alboroseus Sopp SPECIES
-=======
+# Citromyces alboroseus Sopp SPECIES
 
 #### Status
 ACCEPTED

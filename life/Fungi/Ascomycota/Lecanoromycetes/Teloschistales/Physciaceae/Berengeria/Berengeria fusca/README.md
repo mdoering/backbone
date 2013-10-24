@@ -1,5 +1,4 @@
-Berengeria fusca SPECIES
-=======
+# Berengeria fusca SPECIES
 
 #### Status
 ACCEPTED

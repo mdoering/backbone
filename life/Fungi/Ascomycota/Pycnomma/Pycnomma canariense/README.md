@@ -1,5 +1,4 @@
-Pycnomma canariense Syd., 1924 SPECIES
-=======
+# Pycnomma canariense Syd., 1924 SPECIES
 
 #### Status
 ACCEPTED

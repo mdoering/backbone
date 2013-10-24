@@ -1,5 +1,4 @@
-Calvatia tatrensis var. tatrensis VARIETY
-=======
+# Calvatia tatrensis Hollós SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Calvatia tatrensis var. tatrensis
+Calvatia tatrensis Hollós
 
 ### Remarks
 null

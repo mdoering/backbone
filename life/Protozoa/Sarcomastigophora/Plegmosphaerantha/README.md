@@ -1,5 +1,4 @@
-Plegmosphaerantha Haeckel, 1887 GENUS
-=======
+# Plegmosphaerantha Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

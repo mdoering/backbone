@@ -1,5 +1,4 @@
-Rhizammina algaeformis SPECIES
-=======
+# Rhizammina algaeformis SPECIES
 
 #### Status
 ACCEPTED

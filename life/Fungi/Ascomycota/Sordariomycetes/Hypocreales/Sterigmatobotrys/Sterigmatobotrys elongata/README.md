@@ -1,5 +1,4 @@
-Sterigmatobotrys elongata (Peck) Pound & Clem. SPECIES
-=======
+# Sterigmatobotrys elongata (Peck) Pound & Clem. SPECIES
 
 #### Status
 ACCEPTED

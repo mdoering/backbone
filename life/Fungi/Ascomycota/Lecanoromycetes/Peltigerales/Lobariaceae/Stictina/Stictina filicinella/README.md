@@ -1,5 +1,4 @@
-Stictina filicinella var. filicinella VARIETY
-=======
+# Stictina filicinella Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Stictina filicinella var. filicinella
+Stictina filicinella Nyl.
 
 ### Remarks
 null

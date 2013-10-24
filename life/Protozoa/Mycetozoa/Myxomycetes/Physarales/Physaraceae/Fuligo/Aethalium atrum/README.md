@@ -1,5 +1,4 @@
-Aethalium atrum Preuss SPECIES
-=======
+# Aethalium atrum Preuss SPECIES
 
 #### Status
 ACCEPTED

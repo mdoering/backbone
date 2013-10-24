@@ -1,5 +1,4 @@
-Ammonidium Lister GENUS
-=======
+# Ammonidium Lister GENUS
 
 #### Status
 ACCEPTED

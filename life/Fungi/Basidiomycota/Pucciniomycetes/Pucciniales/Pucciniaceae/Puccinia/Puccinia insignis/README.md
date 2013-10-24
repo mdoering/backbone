@@ -1,5 +1,4 @@
-Puccinia insignis Holw. SPECIES
-=======
+# Puccinia insignis Holw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coscinodiscus apiculatus var. apiculatus VARIETY
-=======
+# Coscinodiscus apiculatus Ehrenberg, 1844 SPECIES
 
 #### Status
 ACCEPTED

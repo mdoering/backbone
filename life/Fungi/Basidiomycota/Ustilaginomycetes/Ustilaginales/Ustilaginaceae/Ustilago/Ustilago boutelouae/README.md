@@ -1,5 +1,4 @@
-Ustilago boutelouae Kellerm. & Swingle SPECIES
-=======
+# Ustilago boutelouae Kellerm. & Swingle SPECIES
 
 #### Status
 ACCEPTED

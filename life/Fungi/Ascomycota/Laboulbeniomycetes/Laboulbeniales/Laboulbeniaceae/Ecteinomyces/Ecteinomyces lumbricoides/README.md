@@ -1,5 +1,4 @@
-Ecteinomyces lumbricoides Speg. SPECIES
-=======
+# Ecteinomyces lumbricoides Speg. SPECIES
 
 #### Status
 ACCEPTED

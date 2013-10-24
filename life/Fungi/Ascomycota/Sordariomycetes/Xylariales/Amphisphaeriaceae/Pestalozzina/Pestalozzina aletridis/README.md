@@ -1,5 +1,4 @@
-Pestalozzina aletridis Pat. SPECIES
-=======
+# Pestalozzina aletridis Pat. SPECIES
 
 #### Status
 ACCEPTED

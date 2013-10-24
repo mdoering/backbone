@@ -1,5 +1,4 @@
-Crepidotus croceosanguineus (Mont.) Sacc. SPECIES
-=======
+# Crepidotus croceosanguineus (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

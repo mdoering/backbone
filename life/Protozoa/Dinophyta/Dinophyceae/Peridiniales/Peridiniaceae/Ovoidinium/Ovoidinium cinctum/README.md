@@ -1,5 +1,4 @@
-Ovoidinium cinctum (Cookson & Eisenack, 1958) Davey, 1970 SPECIES
-=======
+# Ovoidinium cinctum (Cookson & Eisenack, 1958) Davey, 1970 SPECIES
 
 #### Status
 ACCEPTED

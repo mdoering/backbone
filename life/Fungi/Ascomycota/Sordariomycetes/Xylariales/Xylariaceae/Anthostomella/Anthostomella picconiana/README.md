@@ -1,5 +1,4 @@
-Anthostomella picconiana (De Not.) Sacc. SPECIES
-=======
+# Anthostomella picconiana (De Not.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

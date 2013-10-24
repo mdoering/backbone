@@ -1,8 +1,7 @@
-Discanomalina japonica Asano, 1951 SPECIES
-=======
+# Discanomalina semipunctata (Bailey, 1851) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

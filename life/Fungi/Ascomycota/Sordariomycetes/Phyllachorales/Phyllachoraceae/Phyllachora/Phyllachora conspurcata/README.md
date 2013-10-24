@@ -1,14 +1,13 @@
-Dothidea conspurcata Berk., 1839 SPECIES
-=======
+# Phyllachora conspurcata (Berk.) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mag. nat. Hist. , Ser. 1 3: 399 (1839)
+Syll. fung. (Abellini) 2: 612 (1883)
 
 #### Original name
 Dothidea conspurcata Berk., 1839

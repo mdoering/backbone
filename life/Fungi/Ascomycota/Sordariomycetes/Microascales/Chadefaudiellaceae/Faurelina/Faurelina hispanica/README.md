@@ -1,5 +1,4 @@
-Faurelina hispanica Valldos. & Guarro SPECIES
-=======
+# Faurelina hispanica Valldos. & Guarro SPECIES
 
 #### Status
 ACCEPTED

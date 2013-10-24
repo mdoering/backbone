@@ -1,5 +1,4 @@
-Lecidea poeltii Hertel SPECIES
-=======
+# Lecidea poeltii Hertel SPECIES
 
 #### Status
 ACCEPTED

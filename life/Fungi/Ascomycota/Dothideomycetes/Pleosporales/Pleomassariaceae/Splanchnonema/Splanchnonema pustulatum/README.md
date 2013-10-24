@@ -1,5 +1,4 @@
-Splanchnonema pustulatum Corda SPECIES
-=======
+# Splanchnonema pustulatum Corda SPECIES
 
 #### Status
 ACCEPTED

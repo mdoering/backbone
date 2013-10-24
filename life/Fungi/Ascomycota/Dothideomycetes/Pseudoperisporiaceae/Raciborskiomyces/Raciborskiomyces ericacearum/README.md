@@ -1,5 +1,4 @@
-Raciborskiomyces ericacearum Bat. & Cif. SPECIES
-=======
+# Raciborskiomyces ericacearum Bat. & Cif. SPECIES
 
 #### Status
 ACCEPTED

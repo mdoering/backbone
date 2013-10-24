@@ -1,5 +1,4 @@
-Platygramme pachnodes Fée SPECIES
-=======
+# Platygramme pachnodes Fée SPECIES
 
 #### Status
 ACCEPTED

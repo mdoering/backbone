@@ -1,5 +1,4 @@
-Gerda glans Claparède & Lachmann, 1858 SPECIES
-=======
+# Gerda glans Claparède & Lachmann, 1858 SPECIES
 
 #### Status
 ACCEPTED

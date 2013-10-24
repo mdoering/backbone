@@ -1,5 +1,4 @@
-Platygrapha flavidosella Nyl. SPECIES
-=======
+# Platygrapha flavidosella Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Metapezizella Petr. GENUS
-=======
+# Metapezizella Petr. GENUS
 
 #### Status
 ACCEPTED

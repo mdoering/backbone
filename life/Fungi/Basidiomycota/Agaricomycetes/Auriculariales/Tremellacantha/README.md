@@ -1,5 +1,4 @@
-Tremellacantha Jülich GENUS
-=======
+# Tremellacantha Jülich GENUS
 
 #### Status
 ACCEPTED

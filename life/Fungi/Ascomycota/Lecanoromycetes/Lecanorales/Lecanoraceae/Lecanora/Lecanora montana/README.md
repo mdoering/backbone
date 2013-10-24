@@ -1,5 +1,4 @@
-Lecanora montana H. Magn. SPECIES
-=======
+# Lecanora montana H. Magn. SPECIES
 
 #### Status
 ACCEPTED

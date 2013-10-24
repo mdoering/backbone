@@ -1,5 +1,4 @@
-Lecidea dimorphota Hue SPECIES
-=======
+# Lecidea dimorphota Hue SPECIES
 
 #### Status
 ACCEPTED

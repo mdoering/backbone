@@ -1,5 +1,4 @@
-Cercospora vitiphylla (Speschnew) Barbarin SPECIES
-=======
+# Cercospora vitiphylla (Speschnew) Barbarin SPECIES
 
 #### Status
 ACCEPTED

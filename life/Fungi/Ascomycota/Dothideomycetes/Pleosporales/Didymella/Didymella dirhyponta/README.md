@@ -1,5 +1,4 @@
-Didymella dirhyponta (Norman) H. Magn. SPECIES
-=======
+# Didymella dirhyponta (Norman) H. Magn. SPECIES
 
 #### Status
 ACCEPTED

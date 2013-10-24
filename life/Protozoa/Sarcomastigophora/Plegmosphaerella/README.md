@@ -1,5 +1,4 @@
-Plegmosphaerella Haeckel, 1887 GENUS
-=======
+# Plegmosphaerella Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

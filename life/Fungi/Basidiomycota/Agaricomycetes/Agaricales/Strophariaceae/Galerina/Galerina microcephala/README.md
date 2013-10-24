@@ -1,5 +1,4 @@
-Galerina microcephala (Speg.) Singer SPECIES
-=======
+# Galerina microcephala (Speg.) Singer SPECIES
 
 #### Status
 ACCEPTED

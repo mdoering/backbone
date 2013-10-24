@@ -1,8 +1,7 @@
-Bipodorhabdus roeglii Thierstein, 1971 SPECIES
-=======
+# Speetonia colligata Black, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

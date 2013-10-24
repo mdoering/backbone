@@ -1,17 +1,16 @@
-Cucurbitaria conglobata subsp. alni Sacc. SUBSPECIES
-=======
+# Cucurbitaria conglobata P. Karst., 1879 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Cucurbitaria conglobata subsp. alni Sacc.
+Cucurbitaria conglobata P. Karst., 1879
 
 ### Remarks
 null

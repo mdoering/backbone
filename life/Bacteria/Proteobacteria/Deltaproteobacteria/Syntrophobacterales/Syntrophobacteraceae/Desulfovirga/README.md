@@ -1,5 +1,4 @@
-Desulfovirga Tanaka et al., 2000 GENUS
-=======
+# Desulfovirga Tanaka et al., 2000 GENUS
 
 #### Status
 ACCEPTED

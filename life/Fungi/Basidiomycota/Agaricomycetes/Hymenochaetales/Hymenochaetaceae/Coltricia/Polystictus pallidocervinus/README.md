@@ -1,5 +1,4 @@
-Polystictus pallidocervinus (Schwein.) Sacc. SPECIES
-=======
+# Polystictus pallidocervinus (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

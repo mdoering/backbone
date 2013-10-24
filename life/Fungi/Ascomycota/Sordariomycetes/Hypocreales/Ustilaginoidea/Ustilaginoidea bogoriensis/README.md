@@ -1,5 +1,4 @@
-Ustilaginoidea bogoriensis Racib. SPECIES
-=======
+# Ustilaginoidea bogoriensis Racib. SPECIES
 
 #### Status
 ACCEPTED

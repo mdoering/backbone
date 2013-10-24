@@ -1,5 +1,4 @@
-Leucoagaricus crystalliferoides T.K.A. Kumar & Manim. SPECIES
-=======
+# Leucoagaricus crystalliferoides T.K.A. Kumar & Manim. SPECIES
 
 #### Status
 ACCEPTED

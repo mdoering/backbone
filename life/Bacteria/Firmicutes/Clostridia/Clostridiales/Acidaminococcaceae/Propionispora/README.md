@@ -1,5 +1,4 @@
-Propionispora Biebl et al., 2001 GENUS
-=======
+# Propionispora Biebl et al., 2001 GENUS
 
 #### Status
 ACCEPTED

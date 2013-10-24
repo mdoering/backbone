@@ -1,5 +1,4 @@
-Schackoinidae FAMILY
-=======
+# Schackoinidae FAMILY
 
 #### Status
 ACCEPTED

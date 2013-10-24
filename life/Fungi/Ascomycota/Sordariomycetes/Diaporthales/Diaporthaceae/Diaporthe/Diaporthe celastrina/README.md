@@ -1,5 +1,4 @@
-Diaporthe celastrina Ellis & Barthol., 1902 SPECIES
-=======
+# Diaporthe celastrina Ellis & Barthol., 1902 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aplosporella madablotae S. Ahmad SPECIES
-=======
+# Aplosporella madablotae S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

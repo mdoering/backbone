@@ -1,5 +1,4 @@
-Corethromyces striatus Santam. SPECIES
-=======
+# Corethromyces striatus Santam. SPECIES
 
 #### Status
 ACCEPTED

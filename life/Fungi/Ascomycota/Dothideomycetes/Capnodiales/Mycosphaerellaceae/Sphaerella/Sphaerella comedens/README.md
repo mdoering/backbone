@@ -1,5 +1,4 @@
-Sphaerella comedens Pass. SPECIES
-=======
+# Sphaerella comedens Pass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hyaloscypha Boudier, 1885 GENUS
-=======
+# Hyaloscypha Boudier, 1885 GENUS
 
 #### Status
 ACCEPTED

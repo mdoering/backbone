@@ -1,14 +1,13 @@
-Calloria carneoflavida Rehm, 1905 SPECIES
-=======
+# Laetinaevia carneoflavida (Rehm) Nannf. ex B. Hein, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Beih. Willdenowia 9: 44 (1976)
 
 #### Original name
 Calloria carneoflavida Rehm, 1905

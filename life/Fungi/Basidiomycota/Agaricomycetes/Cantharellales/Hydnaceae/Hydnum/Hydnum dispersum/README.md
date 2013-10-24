@@ -1,5 +1,4 @@
-Hydnum dispersum Berk., 1845 SPECIES
-=======
+# Hydnum dispersum Berk., 1845 SPECIES
 
 #### Status
 ACCEPTED

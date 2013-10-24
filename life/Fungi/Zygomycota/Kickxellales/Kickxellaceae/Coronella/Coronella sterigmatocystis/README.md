@@ -1,5 +1,4 @@
-Coronella sterigmatocystis Sacc. SPECIES
-=======
+# Coronella sterigmatocystis Sacc. SPECIES
 
 #### Status
 ACCEPTED

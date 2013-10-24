@@ -1,5 +1,4 @@
-Coniothyrium multiforme (P. Karst.) Kuntze SPECIES
-=======
+# Coniothyrium multiforme (P. Karst.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

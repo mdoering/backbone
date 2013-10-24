@@ -1,14 +1,13 @@
-Valsa impulsa Cooke & Peck, 1875 SPECIES
-=======
+# Diaporthe impulsa (Cooke & Peck) Sacc., 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 1: 618 (1882)
 
 #### Original name
 Valsa impulsa Cooke & Peck, 1875

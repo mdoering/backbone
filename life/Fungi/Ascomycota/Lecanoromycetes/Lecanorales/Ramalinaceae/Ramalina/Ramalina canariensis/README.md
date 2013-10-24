@@ -1,17 +1,16 @@
-Ramalina latzelii Zahlbr. SPECIES
-=======
+# Ramalina canariensis J. Steiner SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Öst. bot. Z. 54: 355 (1904)
 
 #### Original name
-null
+Ramalina canariensis J. Steiner
 
 ### Remarks
 null

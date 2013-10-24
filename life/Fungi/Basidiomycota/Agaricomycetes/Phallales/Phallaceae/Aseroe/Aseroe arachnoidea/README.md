@@ -1,5 +1,4 @@
-Aseroe arachnoidea Fisch. SPECIES
-=======
+# Aseroe arachnoidea Fisch. SPECIES
 
 #### Status
 ACCEPTED

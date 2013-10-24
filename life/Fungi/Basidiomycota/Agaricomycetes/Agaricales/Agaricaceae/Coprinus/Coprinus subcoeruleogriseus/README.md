@@ -1,5 +1,4 @@
-Coprinus subcoeruleogriseus Schulzer SPECIES
-=======
+# Coprinus subcoeruleogriseus Schulzer SPECIES
 
 #### Status
 ACCEPTED

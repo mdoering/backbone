@@ -1,5 +1,4 @@
-Calcarisporium Preuss, 1851 GENUS
-=======
+# Calcarisporium Preuss, 1851 GENUS
 
 #### Status
 ACCEPTED

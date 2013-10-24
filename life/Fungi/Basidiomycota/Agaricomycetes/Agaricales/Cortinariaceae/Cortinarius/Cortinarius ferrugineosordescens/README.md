@@ -1,5 +1,4 @@
-Cortinarius ferrugineosordescens Rob. Henry SPECIES
-=======
+# Cortinarius ferrugineosordescens Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

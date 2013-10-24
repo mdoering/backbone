@@ -1,5 +1,4 @@
-Ramalina subgeniculata Nyl. SPECIES
-=======
+# Ramalina subgeniculata Nyl. SPECIES
 
 #### Status
 ACCEPTED

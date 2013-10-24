@@ -1,5 +1,4 @@
-Cordyceps subcorticicola Henn. SPECIES
-=======
+# Cordyceps subcorticicola Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Chaetopyrena Sacc. GENUS
-=======
+# Keissleriella Höhn. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 2: 184 (1883)
+Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 128: 582 (1919)
 
 #### Original name
-Chaetopyrena Sacc.
+Keissleriella Höhn.
 
 ### Remarks
 null

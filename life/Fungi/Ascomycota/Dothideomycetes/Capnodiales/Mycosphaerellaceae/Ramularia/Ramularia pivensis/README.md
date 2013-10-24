@@ -1,5 +1,4 @@
-Ramularia pivensis Bubák SPECIES
-=======
+# Ramularia pivensis Bubák SPECIES
 
 #### Status
 ACCEPTED

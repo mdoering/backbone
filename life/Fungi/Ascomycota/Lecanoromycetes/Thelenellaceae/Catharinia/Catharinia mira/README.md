@@ -1,5 +1,4 @@
-Catharinia mira Marcich SPECIES
-=======
+# Catharinia mira Marcich SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora tristiuscula H. Magn. SPECIES
-=======
+# Lecanora tristiuscula H. Magn. SPECIES
 
 #### Status
 ACCEPTED

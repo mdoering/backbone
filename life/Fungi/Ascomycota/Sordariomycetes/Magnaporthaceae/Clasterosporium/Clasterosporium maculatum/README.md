@@ -1,5 +1,4 @@
-Clasterosporium maculatum Cooke SPECIES
-=======
+# Clasterosporium maculatum Cooke SPECIES
 
 #### Status
 ACCEPTED

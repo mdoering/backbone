@@ -1,5 +1,4 @@
-Macrophoma suspecta Peck SPECIES
-=======
+# Macrophoma suspecta Peck SPECIES
 
 #### Status
 ACCEPTED

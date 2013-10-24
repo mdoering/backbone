@@ -1,5 +1,4 @@
-Aptea polymorpha Eisenack, 1958 SPECIES
-=======
+# Aptea polymorpha Eisenack, 1958 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Refractocystis Skvortzov & Noda, 1969 GENUS
-=======
+# Refractocystis Skvortzov & Noda, 1969 GENUS
 
 #### Status
 ACCEPTED

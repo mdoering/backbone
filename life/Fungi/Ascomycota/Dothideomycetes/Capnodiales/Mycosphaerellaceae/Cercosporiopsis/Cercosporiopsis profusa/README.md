@@ -1,5 +1,4 @@
-Cercosporiopsis profusa (Syd. & P. Syd.) Miura SPECIES
-=======
+# Cercosporiopsis profusa (Syd. & P. Syd.) Miura SPECIES
 
 #### Status
 ACCEPTED

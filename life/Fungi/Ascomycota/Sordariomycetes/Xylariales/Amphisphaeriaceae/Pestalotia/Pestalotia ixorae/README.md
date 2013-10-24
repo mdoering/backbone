@@ -1,5 +1,4 @@
-Pestalotia ixorae Rangel SPECIES
-=======
+# Pestalotia ixorae Rangel SPECIES
 
 #### Status
 ACCEPTED

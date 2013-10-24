@@ -1,5 +1,4 @@
-Coniothyrium stanhopeae Henn. SPECIES
-=======
+# Coniothyrium stanhopeae Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius karlii Rabenh. SPECIES
-=======
+# Marasmius karlii Rabenh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Typhula caespitosa Ces. SPECIES
-=======
+# Typhula caespitosa Ces. SPECIES
 
 #### Status
 ACCEPTED

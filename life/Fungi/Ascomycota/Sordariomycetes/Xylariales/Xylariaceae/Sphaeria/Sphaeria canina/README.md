@@ -1,5 +1,4 @@
-Sphaeria canina Peck SPECIES
-=======
+# Sphaeria canina Peck SPECIES
 
 #### Status
 ACCEPTED

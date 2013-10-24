@@ -1,5 +1,4 @@
-Phyllosticta anemonicola Sacc. & P. Syd. SPECIES
-=======
+# Phyllosticta anemonicola Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

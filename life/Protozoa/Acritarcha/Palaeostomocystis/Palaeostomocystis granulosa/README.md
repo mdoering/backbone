@@ -1,5 +1,4 @@
-Palaeostomocystis granulosa I. C. Cookson & A. Eisenack SPECIES
-=======
+# Palaeostomocystis granulosa I. C. Cookson & A. Eisenack SPECIES
 
 #### Status
 ACCEPTED

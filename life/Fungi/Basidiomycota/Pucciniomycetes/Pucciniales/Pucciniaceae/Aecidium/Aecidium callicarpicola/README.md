@@ -1,5 +1,4 @@
-Aecidium callicarpicola J.Y. Zhuang SPECIES
-=======
+# Aecidium callicarpicola J.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

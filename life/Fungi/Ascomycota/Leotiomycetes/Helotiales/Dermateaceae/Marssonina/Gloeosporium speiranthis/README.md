@@ -1,5 +1,4 @@
-Gloeosporium speiranthis (Henn.) Wollenw. SPECIES
-=======
+# Gloeosporium speiranthis (Henn.) Wollenw. SPECIES
 
 #### Status
 ACCEPTED

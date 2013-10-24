@@ -1,5 +1,4 @@
-Aecidium parkiae Boedijn SPECIES
-=======
+# Aecidium parkiae Boedijn SPECIES
 
 #### Status
 ACCEPTED

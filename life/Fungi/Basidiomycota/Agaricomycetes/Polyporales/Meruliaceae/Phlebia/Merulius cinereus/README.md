@@ -1,17 +1,16 @@
-Merulius cinereus subsp. cinereus SUBSPECIES
-=======
+# Merulius cinereus SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
-Syn. meth. fung. (Göttingen) 2: 490 (1801)
+null
 
 #### Original name
-Merulius cinereus subsp. cinereus
+null
 
 ### Remarks
 null

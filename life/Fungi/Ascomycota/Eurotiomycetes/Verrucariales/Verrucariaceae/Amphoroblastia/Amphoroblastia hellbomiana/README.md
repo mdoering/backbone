@@ -1,5 +1,4 @@
-Amphoroblastia hellbomiana Servít SPECIES
-=======
+# Amphoroblastia hellbomiana Servít SPECIES
 
 #### Status
 ACCEPTED

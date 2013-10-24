@@ -1,17 +1,16 @@
-Cryptothecia eungellaeae G. Thor SPECIES
-=======
+# Cryptothecia eungellae G. Thor SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Symb. bot. upsal. 32(no. 1): 280 (1997)
 
 #### Original name
-Cryptothecia eungellaeae G. Thor
+Cryptothecia eungellae G. Thor
 
 ### Remarks
 null

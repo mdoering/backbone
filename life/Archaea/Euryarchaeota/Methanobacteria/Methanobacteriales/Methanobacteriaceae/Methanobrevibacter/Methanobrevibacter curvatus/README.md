@@ -1,5 +1,4 @@
-Methanobrevibacter curvatus Leadbetter & Breznak, 1997 SPECIES
-=======
+# Methanobrevibacter curvatus Leadbetter & Breznak, 1997 SPECIES
 
 #### Status
 ACCEPTED

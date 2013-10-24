@@ -1,5 +1,4 @@
-Neocosmospora inordinata P.F. Cannon & D. Hawksw. SPECIES
-=======
+# Neocosmospora inordinata P.F. Cannon & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

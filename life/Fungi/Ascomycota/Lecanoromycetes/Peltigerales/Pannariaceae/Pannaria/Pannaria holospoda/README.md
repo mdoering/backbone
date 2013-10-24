@@ -1,5 +1,4 @@
-Pannaria holospoda Nyl. SPECIES
-=======
+# Pannaria holospoda Nyl. SPECIES
 
 #### Status
 ACCEPTED

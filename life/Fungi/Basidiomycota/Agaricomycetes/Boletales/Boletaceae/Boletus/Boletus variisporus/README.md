@@ -1,5 +1,4 @@
-Boletus variisporus Corner SPECIES
-=======
+# Boletus variisporus Corner SPECIES
 
 #### Status
 ACCEPTED

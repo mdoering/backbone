@@ -1,5 +1,4 @@
-Colletotrichum plantaginis Sawada SPECIES
-=======
+# Colletotrichum plantaginis Sawada SPECIES
 
 #### Status
 ACCEPTED

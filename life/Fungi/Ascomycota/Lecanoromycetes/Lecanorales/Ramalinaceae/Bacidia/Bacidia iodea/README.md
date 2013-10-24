@@ -1,5 +1,4 @@
-Bacidia iodea (Nyl.) Zahlbr. SPECIES
-=======
+# Bacidia iodea (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

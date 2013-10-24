@@ -1,5 +1,4 @@
-Marasmius elaeicola Henn. SPECIES
-=======
+# Marasmius elaeicola Henn. SPECIES
 
 #### Status
 ACCEPTED

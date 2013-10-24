@@ -1,5 +1,4 @@
-Metadothella Henn. GENUS
-=======
+# Metadothella Henn. GENUS
 
 #### Status
 ACCEPTED

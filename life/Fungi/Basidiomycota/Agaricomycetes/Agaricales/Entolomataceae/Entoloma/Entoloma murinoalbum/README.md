@@ -1,5 +1,4 @@
-Entoloma murinoalbum E. Horak & Singer SPECIES
-=======
+# Entoloma murinoalbum E. Horak & Singer SPECIES
 
 #### Status
 ACCEPTED

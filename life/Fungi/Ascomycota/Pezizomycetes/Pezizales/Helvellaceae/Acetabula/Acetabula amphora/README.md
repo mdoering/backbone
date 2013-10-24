@@ -1,5 +1,4 @@
-Acetabula amphora (Quél.) Sacc. SPECIES
-=======
+# Acetabula amphora (Quél.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

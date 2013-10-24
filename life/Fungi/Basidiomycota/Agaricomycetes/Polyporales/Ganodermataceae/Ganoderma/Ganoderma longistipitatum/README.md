@@ -1,5 +1,4 @@
-Ganoderma longistipitatum Ryvarden SPECIES
-=======
+# Ganoderma longistipitatum Ryvarden SPECIES
 
 #### Status
 ACCEPTED

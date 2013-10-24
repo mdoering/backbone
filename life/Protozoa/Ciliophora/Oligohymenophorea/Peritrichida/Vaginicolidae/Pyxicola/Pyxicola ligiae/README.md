@@ -1,5 +1,4 @@
-Pyxicola ligiae Cuenot, 1891 SPECIES
-=======
+# Pyxicola ligiae Cuenot, 1891 SPECIES
 
 #### Status
 ACCEPTED

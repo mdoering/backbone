@@ -1,5 +1,4 @@
-Lyophyllum caerulescens Clémençon SPECIES
-=======
+# Lyophyllum caerulescens Clémençon SPECIES
 
 #### Status
 ACCEPTED

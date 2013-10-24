@@ -1,5 +1,4 @@
-Hexagonia rhodopora Pat. SPECIES
-=======
+# Hexagonia rhodopora Pat. SPECIES
 
 #### Status
 ACCEPTED

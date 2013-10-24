@@ -1,5 +1,4 @@
-Lecanora regalis H. Magn. SPECIES
-=======
+# Lecanora regalis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

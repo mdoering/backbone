@@ -1,5 +1,4 @@
-Hysterographium syringae (Schwein.) Sacc. SPECIES
-=======
+# Hysterographium syringae (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

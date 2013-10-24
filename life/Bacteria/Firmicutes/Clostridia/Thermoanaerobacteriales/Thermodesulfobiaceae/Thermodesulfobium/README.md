@@ -1,5 +1,4 @@
-Thermodesulfobium Mori et al., 2004 GENUS
-=======
+# Thermodesulfobium Mori et al., 2004 GENUS
 
 #### Status
 ACCEPTED

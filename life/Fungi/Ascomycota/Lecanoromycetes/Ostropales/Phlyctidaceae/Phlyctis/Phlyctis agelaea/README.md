@@ -1,17 +1,16 @@
-Phlyctis agelaea f. agelaea FORM
-=======
+# Phlyctis agelaea (Ach.) Flot. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bot. Ztg. 8 (1850)
 
 #### Original name
-Phlyctis agelaea f. agelaea
+Lichen agelaeus Ach.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Dictyocha subaculeata (D. Bukry) D. Bukry SPECIES
-=======
+# Dictyocha subaculeata (D. Bukry) D. Bukry SPECIES
 
 #### Status
 ACCEPTED

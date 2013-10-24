@@ -1,5 +1,4 @@
-Termitomyces congolensis (Beeli) Singer SPECIES
-=======
+# Termitomyces congolensis (Beeli) Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coeomurus GENUS
-=======
+# Coeomurus GENUS
 
 #### Status
 ACCEPTED

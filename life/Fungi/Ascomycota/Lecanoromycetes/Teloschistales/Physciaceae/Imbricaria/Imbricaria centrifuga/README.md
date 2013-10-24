@@ -1,5 +1,4 @@
-Imbricaria centrifuga (L.) DC. SPECIES
-=======
+# Imbricaria centrifuga (L.) DC. SPECIES
 
 #### Status
 ACCEPTED

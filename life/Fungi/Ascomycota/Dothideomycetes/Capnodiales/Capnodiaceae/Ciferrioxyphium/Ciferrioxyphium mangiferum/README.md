@@ -1,5 +1,4 @@
-Ciferrioxyphium mangiferum Bat. SPECIES
-=======
+# Ciferrioxyphium mangiferum Bat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepiota thrombophora (Berk. & Broome) Sacc. SPECIES
-=======
+# Lepiota thrombophora (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

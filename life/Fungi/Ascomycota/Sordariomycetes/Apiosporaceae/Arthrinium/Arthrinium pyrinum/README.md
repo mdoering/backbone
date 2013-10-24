@@ -1,5 +1,4 @@
-Arthrinium pyrinum Wallr. SPECIES
-=======
+# Arthrinium pyrinum Wallr. SPECIES
 
 #### Status
 ACCEPTED

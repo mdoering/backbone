@@ -1,5 +1,4 @@
-Leptogium sahariense (Flagey) Harm. SPECIES
-=======
+# Leptogium sahariense (Flagey) Harm. SPECIES
 
 #### Status
 ACCEPTED

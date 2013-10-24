@@ -1,5 +1,4 @@
-Sordaria indica M.P. Srivast. & Tandon SPECIES
-=======
+# Sordaria indica M.P. Srivast. & Tandon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melanoleuca avellanea Murrill SPECIES
-=======
+# Melanoleuca avellanea Murrill SPECIES
 
 #### Status
 ACCEPTED

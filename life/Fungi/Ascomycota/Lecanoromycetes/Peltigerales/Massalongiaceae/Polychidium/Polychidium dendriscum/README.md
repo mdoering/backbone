@@ -1,17 +1,16 @@
-Ephebe byssoides Carrington SPECIES
-=======
+# Polychidium dendriscum (Nyl.) Henssen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Bot. Soc. Edinb. 7: 411 (1862)
+Symb. bot. upsal. 18(no. 1): 107 (1963)
 
 #### Original name
-Ephebe byssoides Carrington
+Leptogium dendriscum Nyl.
 
 ### Remarks
 null

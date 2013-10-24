@@ -1,5 +1,4 @@
-Desmosorus oncidii Ritschel, Oberw. & Berndt, 2005 SPECIES
-=======
+# Desmosorus oncidii Ritschel, Oberw. & Berndt, 2005 SPECIES
 
 #### Status
 ACCEPTED

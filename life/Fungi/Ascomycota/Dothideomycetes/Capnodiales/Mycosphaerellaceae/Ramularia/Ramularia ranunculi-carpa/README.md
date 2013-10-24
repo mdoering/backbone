@@ -1,5 +1,4 @@
-Ramularia ranunculi-carpa Savul. & Sandu SPECIES
-=======
+# Ramularia ranunculi-carpa Savul. & Sandu SPECIES
 
 #### Status
 ACCEPTED

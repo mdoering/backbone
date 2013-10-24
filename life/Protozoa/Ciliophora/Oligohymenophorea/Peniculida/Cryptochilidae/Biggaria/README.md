@@ -1,5 +1,4 @@
-Biggaria Kahl, 1934 GENUS
-=======
+# Biggaria Kahl, 1934 GENUS
 
 #### Status
 ACCEPTED

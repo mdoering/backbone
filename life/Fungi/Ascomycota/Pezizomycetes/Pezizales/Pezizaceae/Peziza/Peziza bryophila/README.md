@@ -1,5 +1,4 @@
-Peziza bryophila Pers. SPECIES
-=======
+# Peziza bryophila Pers. SPECIES
 
 #### Status
 ACCEPTED

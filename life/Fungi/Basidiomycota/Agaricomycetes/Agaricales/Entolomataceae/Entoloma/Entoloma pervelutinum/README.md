@@ -1,5 +1,4 @@
-Entoloma pervelutinum E. Horak SPECIES
-=======
+# Entoloma pervelutinum E. Horak SPECIES
 
 #### Status
 ACCEPTED

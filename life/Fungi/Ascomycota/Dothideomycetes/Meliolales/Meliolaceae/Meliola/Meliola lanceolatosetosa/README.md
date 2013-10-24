@@ -1,5 +1,4 @@
-Meliola lanceolatosetosa var. lanceolatosetosa VARIETY
-=======
+# Meliola lanceolatosetosa Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Annls mycol. 12(2): 197 (1914)
 
 #### Original name
-Meliola lanceolatosetosa var. lanceolatosetosa
+Meliola lanceolatosetosa Syd. & P. Syd.
 
 ### Remarks
 null

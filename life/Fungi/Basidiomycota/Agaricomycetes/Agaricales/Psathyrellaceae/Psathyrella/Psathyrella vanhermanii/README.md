@@ -1,5 +1,4 @@
-Psathyrella vanhermanii A.H. Sm. SPECIES
-=======
+# Psathyrella vanhermanii A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

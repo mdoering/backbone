@@ -1,5 +1,4 @@
-Puccinia daniloi Bubák SPECIES
-=======
+# Puccinia daniloi Bubák SPECIES
 
 #### Status
 ACCEPTED

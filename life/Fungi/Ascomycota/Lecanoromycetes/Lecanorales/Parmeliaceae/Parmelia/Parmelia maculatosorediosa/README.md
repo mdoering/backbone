@@ -1,8 +1,7 @@
-Parmelia maculato-sorediosa (Gyeln.) Gyeln. SPECIES
-=======
+# Parmelia maculatosorediosa (Gyeln.) Gyeln. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

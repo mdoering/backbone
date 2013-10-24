@@ -1,5 +1,4 @@
-Sporisorium transvaalense (Zundel) Vánky SPECIES
-=======
+# Sporisorium transvaalense (Zundel) Vánky SPECIES
 
 #### Status
 ACCEPTED

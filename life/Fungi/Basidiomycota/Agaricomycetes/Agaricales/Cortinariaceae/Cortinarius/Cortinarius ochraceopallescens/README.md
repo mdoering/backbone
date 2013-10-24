@@ -1,5 +1,4 @@
-Cortinarius ochraceopallescens Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius ochraceopallescens Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Sterkiella tricirrata (Buitkamp, 1977) Berger, 1999 SPECIES
-=======
+# Oxytricha tricirrata Buitkamp, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Corynespora gorakhpurensis N. Sharma, P.N. Singh & Kamal SPECIES
-=======
+# Corynespora gorakhpurensis N. Sharma, P.N. Singh & Kamal SPECIES
 
 #### Status
 ACCEPTED

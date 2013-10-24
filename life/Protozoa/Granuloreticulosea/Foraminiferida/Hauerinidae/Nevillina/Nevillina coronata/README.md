@@ -1,8 +1,7 @@
-Biloculina coronata Millett, 1898 SPECIES
-=======
+# Nevillina coronata (Millett, 1898) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

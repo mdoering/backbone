@@ -1,17 +1,16 @@
-Palawaniella castanopsis J.N. Kapoor SPECIES
-=======
+# Placostromella castanopsidis (J.N. Kapoor) Inácio, P.F. Cannon & Ferry, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Progr. 4(2): 133 (2005)
 
 #### Original name
-Palawaniella castanopsis J.N. Kapoor
+Palawaniella castanopsidis J.N. Kapoor, 1968
 
 ### Remarks
 null

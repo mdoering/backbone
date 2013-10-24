@@ -1,5 +1,4 @@
-Lophosphaeridium retum Gao Lianda, 1984 SPECIES
-=======
+# Lophosphaeridium retum Gao Lianda, 1984 SPECIES
 
 #### Status
 ACCEPTED

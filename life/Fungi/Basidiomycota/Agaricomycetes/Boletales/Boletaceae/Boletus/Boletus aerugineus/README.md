@@ -1,5 +1,4 @@
-Boletus aerugineus J. Murr. {?} SPECIES
-=======
+# Boletus aerugineus J. Murr. {?} SPECIES
 
 #### Status
 ACCEPTED

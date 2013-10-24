@@ -1,5 +1,4 @@
-Chytridium scherffelii Sparrow SPECIES
-=======
+# Chytridium scherffelii Sparrow SPECIES
 
 #### Status
 ACCEPTED

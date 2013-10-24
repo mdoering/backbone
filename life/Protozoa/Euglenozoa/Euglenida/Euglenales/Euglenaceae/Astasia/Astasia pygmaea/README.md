@@ -1,5 +1,4 @@
-Astasia pygmaea Skuja SPECIES
-=======
+# Astasia pygmaea Skuja SPECIES
 
 #### Status
 ACCEPTED

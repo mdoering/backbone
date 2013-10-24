@@ -1,5 +1,4 @@
-Diploschistes africanus (Kremp.) Zahlbr. SPECIES
-=======
+# Diploschistes africanus (Kremp.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

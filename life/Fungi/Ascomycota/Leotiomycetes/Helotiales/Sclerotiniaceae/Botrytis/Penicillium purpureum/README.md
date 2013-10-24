@@ -1,5 +1,4 @@
-Penicillium purpureum Stolk & Samson, 1972 SPECIES
-=======
+# Penicillium purpureum Stolk & Samson, 1972 SPECIES
 
 #### Status
 DOUBTFUL

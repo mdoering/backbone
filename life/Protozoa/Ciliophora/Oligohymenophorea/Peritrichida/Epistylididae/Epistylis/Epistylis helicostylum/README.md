@@ -1,5 +1,4 @@
-Epistylis helicostylum Vavra, 1962 SPECIES
-=======
+# Epistylis helicostylum Vavra, 1962 SPECIES
 
 #### Status
 ACCEPTED

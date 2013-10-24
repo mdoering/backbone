@@ -1,5 +1,4 @@
-Asterina submegas (Henn.) Hansf. SPECIES
-=======
+# Asterina submegas (Henn.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

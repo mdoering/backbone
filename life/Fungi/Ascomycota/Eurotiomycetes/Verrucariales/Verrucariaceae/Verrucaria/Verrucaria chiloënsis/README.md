@@ -1,5 +1,4 @@
-Verrucaria chiloënsis Zahlbr. SPECIES
-=======
+# Verrucaria chiloënsis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

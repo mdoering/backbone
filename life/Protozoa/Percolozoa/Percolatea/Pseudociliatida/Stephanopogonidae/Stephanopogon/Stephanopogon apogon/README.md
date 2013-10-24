@@ -1,5 +1,4 @@
-Stephanopogon apogon Borror, 1965 SPECIES
-=======
+# Stephanopogon apogon Borror, 1965 SPECIES
 
 #### Status
 ACCEPTED

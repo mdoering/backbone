@@ -1,5 +1,4 @@
-Waynea cretica Llop SPECIES
-=======
+# Waynea cretica Llop SPECIES
 
 #### Status
 ACCEPTED

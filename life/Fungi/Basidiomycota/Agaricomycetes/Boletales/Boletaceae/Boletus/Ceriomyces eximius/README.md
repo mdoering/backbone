@@ -1,5 +1,4 @@
-Ceriomyces eximius (Peck) Murrill SPECIES
-=======
+# Ceriomyces eximius (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

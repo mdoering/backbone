@@ -1,5 +1,4 @@
-Uromyces gausseni Mayor & Vienn.-Bourg. SPECIES
-=======
+# Uromyces gausseni Mayor & Vienn.-Bourg. SPECIES
 
 #### Status
 ACCEPTED

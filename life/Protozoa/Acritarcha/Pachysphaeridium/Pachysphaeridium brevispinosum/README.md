@@ -1,5 +1,4 @@
-Pachysphaeridium brevispinosum (Eisenack, 1931 ex Eisenack, 1938) Ribecai & Tongiorgi, 1999 SPECIES
-=======
+# Pachysphaeridium brevispinosum (Eisenack, 1931 ex Eisenack, 1938) Ribecai & Tongiorgi, 1999 SPECIES
 
 #### Status
 ACCEPTED

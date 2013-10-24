@@ -1,17 +1,16 @@
-Polystictus dermatodes (Lév.) Fr., 1851 SPECIES
-=======
+# Oxyporus cervinogilvus (Jungh.) Ryvarden, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Acta R. Soc. Scient. upsal. , Ser. 3 1: 91 (1851)
+Norw. Jl Bot. 20: 3 (1973)
 
 #### Original name
-Polyporus dermatodes Lév., 1846
+Polyporus cervinogilvus Jungh., 1838
 
 ### Remarks
 null

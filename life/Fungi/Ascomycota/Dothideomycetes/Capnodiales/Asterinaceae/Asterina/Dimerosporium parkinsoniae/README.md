@@ -1,5 +1,4 @@
-Dimerosporium parkinsoniae Heald & F.A. Wolf SPECIES
-=======
+# Dimerosporium parkinsoniae Heald & F.A. Wolf SPECIES
 
 #### Status
 ACCEPTED

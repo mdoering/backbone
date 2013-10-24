@@ -1,5 +1,4 @@
-Endophyllum guttatum (Kunze) Syd. & P. Syd. SPECIES
-=======
+# Endophyllum guttatum (Kunze) Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

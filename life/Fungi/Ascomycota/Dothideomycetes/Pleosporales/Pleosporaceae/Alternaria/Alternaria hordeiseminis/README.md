@@ -1,5 +1,4 @@
-Alternaria hordeiseminis E.G. Simmons & G.F. Laundon, 2007 SPECIES
-=======
+# Alternaria hordeiseminis E.G. Simmons & G.F. Laundon, 2007 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hydropus riograndensis Singer SPECIES
-=======
+# Hydropus riograndensis Singer SPECIES
 
 #### Status
 ACCEPTED

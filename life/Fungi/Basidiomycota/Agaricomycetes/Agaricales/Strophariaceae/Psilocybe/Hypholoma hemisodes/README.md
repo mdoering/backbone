@@ -1,5 +1,4 @@
-Hypholoma hemisodes Berk. SPECIES
-=======
+# Hypholoma hemisodes Berk. SPECIES
 
 #### Status
 ACCEPTED

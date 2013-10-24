@@ -1,5 +1,4 @@
-Monacrosporium turkmenicum (Soprunov) R.C. Cooke & C.H. Dickinson SPECIES
-=======
+# Monacrosporium turkmenicum (Soprunov) R.C. Cooke & C.H. Dickinson SPECIES
 
 #### Status
 ACCEPTED

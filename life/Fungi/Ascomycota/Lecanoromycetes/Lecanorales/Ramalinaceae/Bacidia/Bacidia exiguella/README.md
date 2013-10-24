@@ -1,5 +1,4 @@
-Bacidia exiguella (Vain.) SPECIES
-=======
+# Bacidia exiguella (Vain.) SPECIES
 
 #### Status
 ACCEPTED

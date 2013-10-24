@@ -1,5 +1,4 @@
-Apteodinium australiense (Deflandre & Cookson, 1955) Williams, 1978 SPECIES
-=======
+# Apteodinium australiense (Deflandre & Cookson, 1955) Williams, 1978 SPECIES
 
 #### Status
 ACCEPTED

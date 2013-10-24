@@ -1,5 +1,4 @@
-Trichosphaerella similis Bres. SPECIES
-=======
+# Trichosphaerella similis Bres. SPECIES
 
 #### Status
 ACCEPTED

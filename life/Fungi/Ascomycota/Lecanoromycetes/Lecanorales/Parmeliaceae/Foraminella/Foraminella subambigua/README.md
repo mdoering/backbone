@@ -1,5 +1,4 @@
-Foraminella subambigua (Gyeln.) S.L.F. Mey. SPECIES
-=======
+# Foraminella subambigua (Gyeln.) S.L.F. Mey. SPECIES
 
 #### Status
 ACCEPTED

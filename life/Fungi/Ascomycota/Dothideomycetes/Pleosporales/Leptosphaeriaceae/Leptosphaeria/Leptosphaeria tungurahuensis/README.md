@@ -1,5 +1,4 @@
-Leptosphaeria tungurahuensis Petr., 1948 SPECIES
-=======
+# Leptosphaeria tungurahuensis Petr., 1948 SPECIES
 
 #### Status
 ACCEPTED

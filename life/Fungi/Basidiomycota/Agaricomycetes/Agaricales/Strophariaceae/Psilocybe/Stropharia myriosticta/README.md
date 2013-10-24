@@ -1,5 +1,4 @@
-Stropharia myriosticta Berk. & Broome SPECIES
-=======
+# Stropharia myriosticta Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

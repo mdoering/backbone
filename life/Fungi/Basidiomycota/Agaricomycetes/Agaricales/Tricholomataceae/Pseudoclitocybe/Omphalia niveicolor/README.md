@@ -1,5 +1,4 @@
-Omphalia niveicolor (Murrill) Murrill SPECIES
-=======
+# Omphalia niveicolor (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

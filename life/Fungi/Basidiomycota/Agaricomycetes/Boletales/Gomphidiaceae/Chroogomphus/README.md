@@ -1,5 +1,4 @@
-Chroogomphus (Singer) O.K. Miller, 1964 GENUS
-=======
+# Chroogomphus (Singer) O.K. Miller, 1964 GENUS
 
 #### Status
 ACCEPTED

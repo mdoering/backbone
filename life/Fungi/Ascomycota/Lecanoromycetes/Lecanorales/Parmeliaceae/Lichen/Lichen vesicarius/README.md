@@ -1,5 +1,4 @@
-Lichen vesicarius Dubois SPECIES
-=======
+# Lichen vesicarius Dubois SPECIES
 
 #### Status
 ACCEPTED

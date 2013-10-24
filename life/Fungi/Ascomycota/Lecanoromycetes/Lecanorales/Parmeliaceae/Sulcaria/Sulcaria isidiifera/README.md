@@ -1,5 +1,4 @@
-Sulcaria isidiifera Brodo SPECIES
-=======
+# Sulcaria isidiifera Brodo SPECIES
 
 #### Status
 ACCEPTED

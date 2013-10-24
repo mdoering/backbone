@@ -1,5 +1,4 @@
-Flammula javanica Henn. SPECIES
-=======
+# Flammula javanica Henn. SPECIES
 
 #### Status
 ACCEPTED

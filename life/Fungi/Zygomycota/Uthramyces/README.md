@@ -1,5 +1,4 @@
-Uthramyces GENUS
-=======
+# Uthramyces GENUS
 
 #### Status
 ACCEPTED

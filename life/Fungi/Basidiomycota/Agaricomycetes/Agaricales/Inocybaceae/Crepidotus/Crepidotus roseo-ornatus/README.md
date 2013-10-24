@@ -1,5 +1,4 @@
-Crepidotus roseo-ornatus Pöder & E. Ferrari SPECIES
-=======
+# Crepidotus roseo-ornatus Pöder & E. Ferrari SPECIES
 
 #### Status
 ACCEPTED

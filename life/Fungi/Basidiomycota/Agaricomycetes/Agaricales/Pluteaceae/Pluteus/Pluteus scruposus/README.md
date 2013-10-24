@@ -1,5 +1,4 @@
-Pluteus scruposus Henn. SPECIES
-=======
+# Pluteus scruposus Henn. SPECIES
 
 #### Status
 ACCEPTED

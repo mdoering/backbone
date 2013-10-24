@@ -1,5 +1,4 @@
-Coniothyrium cocculi Gonz. Frag. SPECIES
-=======
+# Coniothyrium cocculi Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

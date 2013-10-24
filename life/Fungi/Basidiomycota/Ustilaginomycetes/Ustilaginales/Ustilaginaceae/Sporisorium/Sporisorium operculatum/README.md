@@ -1,5 +1,4 @@
-Sporisorium operculatum Vánky, C. Vánky & R.G. Shivas SPECIES
-=======
+# Sporisorium operculatum Vánky, C. Vánky & R.G. Shivas SPECIES
 
 #### Status
 ACCEPTED

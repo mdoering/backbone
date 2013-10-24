@@ -1,5 +1,4 @@
-Ephebe papillata H. Magn. SPECIES
-=======
+# Ephebe papillata H. Magn. SPECIES
 
 #### Status
 ACCEPTED

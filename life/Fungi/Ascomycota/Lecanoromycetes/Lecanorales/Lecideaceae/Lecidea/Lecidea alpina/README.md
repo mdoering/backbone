@@ -1,5 +1,4 @@
-Lecidea alpina Schaer. SPECIES
-=======
+# Lecidea alpina Schaer. SPECIES
 
 #### Status
 ACCEPTED

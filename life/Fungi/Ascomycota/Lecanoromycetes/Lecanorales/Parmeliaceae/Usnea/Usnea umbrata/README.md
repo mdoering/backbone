@@ -1,5 +1,4 @@
-Usnea umbrata Motyka SPECIES
-=======
+# Usnea umbrata Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hendersonia rauii Ellis SPECIES
-=======
+# Hendersonia rauii Ellis SPECIES
 
 #### Status
 ACCEPTED

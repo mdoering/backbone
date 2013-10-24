@@ -1,5 +1,4 @@
-Lichen lactucaefolius With. SPECIES
-=======
+# Lichen lactucaefolius With. SPECIES
 
 #### Status
 ACCEPTED

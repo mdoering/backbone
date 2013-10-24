@@ -1,5 +1,4 @@
-Porina plana R. Sant. SPECIES
-=======
+# Porina plana R. Sant. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphinema angustispora P. Roberts, 2001 SPECIES
-=======
+# Amphinema angustispora P. Roberts, 2001 SPECIES
 
 #### Status
 ACCEPTED

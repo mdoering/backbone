@@ -1,5 +1,4 @@
-Parmeliella exornata (Zahlbr.) P.M. Jørg. SPECIES
-=======
+# Parmeliella exornata (Zahlbr.) P.M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

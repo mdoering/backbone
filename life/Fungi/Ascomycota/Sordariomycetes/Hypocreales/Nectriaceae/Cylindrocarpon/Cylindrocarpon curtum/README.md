@@ -1,5 +1,4 @@
-Cylindrocarpon curtum Bugnic. SPECIES
-=======
+# Cylindrocarpon curtum Bugnic. SPECIES
 
 #### Status
 ACCEPTED

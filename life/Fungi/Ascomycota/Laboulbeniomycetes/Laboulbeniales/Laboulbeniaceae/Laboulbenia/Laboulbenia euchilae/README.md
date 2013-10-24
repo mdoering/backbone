@@ -1,5 +1,4 @@
-Laboulbenia euchilae Thaxt. SPECIES
-=======
+# Laboulbenia euchilae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

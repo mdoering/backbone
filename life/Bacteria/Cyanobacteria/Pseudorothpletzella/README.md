@@ -1,5 +1,4 @@
-Pseudorothpletzella F. Schlagintweit & H.-J. Gawlick, 2007 GENUS
-=======
+# Pseudorothpletzella F. Schlagintweit & H.-J. Gawlick, 2007 GENUS
 
 #### Status
 ACCEPTED

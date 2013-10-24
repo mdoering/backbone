@@ -1,17 +1,16 @@
-Lecanora punicea var. accolens Stirt. VARIETY
-=======
+# Haematomma accolens (Stirt.) Hillmann SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Repert. Spec. Nov. Regni Veg. 49: 34 (1940)
 
 #### Original name
-null
+Arthonia accolens Stirt.
 
 ### Remarks
 null

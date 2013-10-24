@@ -1,5 +1,4 @@
-Clitocybe applanata Secr. ex Sacc. SPECIES
-=======
+# Clitocybe applanata Secr. ex Sacc. SPECIES
 
 #### Status
 ACCEPTED

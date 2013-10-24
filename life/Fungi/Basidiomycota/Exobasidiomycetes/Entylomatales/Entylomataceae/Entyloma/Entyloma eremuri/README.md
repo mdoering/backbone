@@ -1,5 +1,4 @@
-Entyloma eremuri Schwarzman SPECIES
-=======
+# Entyloma eremuri Schwarzman SPECIES
 
 #### Status
 ACCEPTED

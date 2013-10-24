@@ -1,5 +1,4 @@
-Verrucaria prorecta Kremp. SPECIES
-=======
+# Verrucaria prorecta Kremp. SPECIES
 
 #### Status
 ACCEPTED

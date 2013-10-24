@@ -1,5 +1,4 @@
-Corticium hepaticum Berk. & M.A. Curtis SPECIES
-=======
+# Corticium hepaticum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

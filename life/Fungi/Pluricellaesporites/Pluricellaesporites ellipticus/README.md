@@ -1,5 +1,4 @@
-Pluricellaesporites ellipticus Mart.-Hern. & Tom.-Ort. SPECIES
-=======
+# Pluricellaesporites ellipticus Mart.-Hern. & Tom.-Ort. SPECIES
 
 #### Status
 ACCEPTED

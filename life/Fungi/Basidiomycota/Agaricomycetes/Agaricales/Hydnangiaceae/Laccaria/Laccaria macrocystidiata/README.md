@@ -1,17 +1,16 @@
-Laccaria macrocystidiata var. macrocystidiata VARIETY
-=======
+# Laccaria macrocystidiata (Migl. & Lavorato) Pázmány SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Z. Mykol. 60(1): 8 (1994)
 
 #### Original name
-null
+Laccaria affinis f. macrocystidiata Migl. & Lavorato
 
 ### Remarks
 null

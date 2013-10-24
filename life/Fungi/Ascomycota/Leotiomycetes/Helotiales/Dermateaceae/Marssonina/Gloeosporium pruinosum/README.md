@@ -1,5 +1,4 @@
-Gloeosporium pruinosum Bäumler SPECIES
-=======
+# Gloeosporium pruinosum Bäumler SPECIES
 
 #### Status
 ACCEPTED

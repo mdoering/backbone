@@ -1,5 +1,4 @@
-Thelidium myriocarpoides J. Steiner SPECIES
-=======
+# Thelidium myriocarpoides J. Steiner SPECIES
 
 #### Status
 ACCEPTED

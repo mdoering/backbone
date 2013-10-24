@@ -1,17 +1,16 @@
-Cytosporopsis Höhn. GENUS
-=======
+# Cytospora Ehrenb. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 16(1/2): 124 (1918)
+Sylv. mycol. berol. (Berlin) 2 (1818)
 
 #### Original name
-Cytosporopsis Höhn.
+Cytospora Ehrenb.
 
 ### Remarks
 null

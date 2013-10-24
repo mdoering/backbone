@@ -1,5 +1,4 @@
-Stigmina sigmoidea Matsush. SPECIES
-=======
+# Stigmina sigmoidea Matsush. SPECIES
 
 #### Status
 ACCEPTED

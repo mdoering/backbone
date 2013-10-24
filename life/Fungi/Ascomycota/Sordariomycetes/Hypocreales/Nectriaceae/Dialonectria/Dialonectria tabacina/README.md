@@ -1,5 +1,4 @@
-Dialonectria tabacina (Ces.) Cooke SPECIES
-=======
+# Dialonectria tabacina (Ces.) Cooke SPECIES
 
 #### Status
 ACCEPTED

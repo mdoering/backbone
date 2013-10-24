@@ -1,5 +1,4 @@
-Colletotrichum pisi Pat., 1891 SPECIES
-=======
+# Colletotrichum pisi Pat., 1891 SPECIES
 
 #### Status
 ACCEPTED

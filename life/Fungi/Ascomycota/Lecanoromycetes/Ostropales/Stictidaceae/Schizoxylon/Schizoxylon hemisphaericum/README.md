@@ -1,5 +1,4 @@
-Schizoxylon hemisphaericum (Fr.) DiCosmo, Nag Raj & W.B. Kendr. SPECIES
-=======
+# Schizoxylon hemisphaericum (Fr.) DiCosmo, Nag Raj & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

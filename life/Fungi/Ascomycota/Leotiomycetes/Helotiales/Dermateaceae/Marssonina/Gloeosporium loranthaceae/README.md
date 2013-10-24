@@ -1,5 +1,4 @@
-Gloeosporium loranthaceae Henn. SPECIES
-=======
+# Gloeosporium loranthaceae Henn. SPECIES
 
 #### Status
 ACCEPTED

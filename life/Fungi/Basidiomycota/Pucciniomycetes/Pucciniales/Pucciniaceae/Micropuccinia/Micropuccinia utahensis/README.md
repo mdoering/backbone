@@ -1,5 +1,4 @@
-Micropuccinia utahensis (Garrett) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia utahensis (Garrett) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

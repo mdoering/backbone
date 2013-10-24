@@ -1,5 +1,4 @@
-Lecania quarnerica Zahlbr. SPECIES
-=======
+# Lecania quarnerica Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rickia inclinata Thaxt. SPECIES
-=======
+# Rickia inclinata Thaxt. SPECIES
 
 #### Status
 ACCEPTED

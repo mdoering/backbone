@@ -1,5 +1,4 @@
-Everniastrum subplanum Sipman SPECIES
-=======
+# Everniastrum subplanum Sipman SPECIES
 
 #### Status
 ACCEPTED

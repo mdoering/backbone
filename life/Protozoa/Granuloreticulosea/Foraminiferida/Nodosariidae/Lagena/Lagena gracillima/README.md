@@ -1,5 +1,4 @@
-Lagena gracillima SPECIES
-=======
+# Lagena gracillima SPECIES
 
 #### Status
 ACCEPTED

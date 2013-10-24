@@ -1,5 +1,4 @@
-Rhizocarpon cinereocaesium SPECIES
-=======
+# Rhizocarpon cinereocaesium SPECIES
 
 #### Status
 ACCEPTED

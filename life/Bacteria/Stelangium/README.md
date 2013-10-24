@@ -1,5 +1,4 @@
-Stelangium GENUS
-=======
+# Stelangium GENUS
 
 #### Status
 ACCEPTED

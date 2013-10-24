@@ -1,5 +1,4 @@
-Trapeliopsis bisorediata McCune & Camacho SPECIES
-=======
+# Trapeliopsis bisorediata McCune & Camacho SPECIES
 
 #### Status
 ACCEPTED

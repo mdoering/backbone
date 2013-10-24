@@ -1,5 +1,4 @@
-Phaeocollybia parvispora Corner & E. Horak SPECIES
-=======
+# Phaeocollybia parvispora Corner & E. Horak SPECIES
 
 #### Status
 ACCEPTED

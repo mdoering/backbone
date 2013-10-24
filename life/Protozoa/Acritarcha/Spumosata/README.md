@@ -1,5 +1,4 @@
-Spumosata Naumova GENUS
-=======
+# Spumosata Naumova GENUS
 
 #### Status
 ACCEPTED

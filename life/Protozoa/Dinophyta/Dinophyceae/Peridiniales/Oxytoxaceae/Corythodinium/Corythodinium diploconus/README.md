@@ -1,5 +1,4 @@
-Corythodinium diploconus (Stein) Taylor SPECIES
-=======
+# Corythodinium diploconus (Stein) Taylor SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetosphaeria brevicollis (Niessl) E. Müll. SPECIES
-=======
+# Chaetosphaeria brevicollis (Niessl) E. Müll. SPECIES
 
 #### Status
 ACCEPTED

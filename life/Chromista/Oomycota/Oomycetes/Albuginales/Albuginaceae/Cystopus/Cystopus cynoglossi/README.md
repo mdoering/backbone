@@ -1,5 +1,4 @@
-Cystopus cynoglossi Unamuno SPECIES
-=======
+# Cystopus cynoglossi Unamuno SPECIES
 
 #### Status
 ACCEPTED

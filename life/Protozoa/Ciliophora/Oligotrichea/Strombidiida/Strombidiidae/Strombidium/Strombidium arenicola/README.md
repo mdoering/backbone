@@ -1,5 +1,4 @@
-Strombidium arenicola Dragesco, 1960 SPECIES
-=======
+# Strombidium arenicola Dragesco, 1960 SPECIES
 
 #### Status
 ACCEPTED

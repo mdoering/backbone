@@ -1,5 +1,4 @@
-Multiclavula sinensis R.H. Petersen & M. Zang, 1986 SPECIES
-=======
+# Multiclavula sinensis R.H. Petersen & M. Zang, 1986 SPECIES
 
 #### Status
 ACCEPTED

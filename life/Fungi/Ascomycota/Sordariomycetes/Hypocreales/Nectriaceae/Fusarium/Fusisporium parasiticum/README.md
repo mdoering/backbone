@@ -1,5 +1,4 @@
-Fusisporium parasiticum Peck SPECIES
-=======
+# Fusisporium parasiticum Peck SPECIES
 
 #### Status
 ACCEPTED

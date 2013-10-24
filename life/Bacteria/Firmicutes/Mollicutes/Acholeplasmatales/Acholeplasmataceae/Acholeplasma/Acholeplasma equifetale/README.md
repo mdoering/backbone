@@ -1,5 +1,4 @@
-Acholeplasma equifetale Kirchoff, 1974 (Approved Lists, 1980) SPECIES
-=======
+# Acholeplasma equifetale Kirchoff, 1974 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

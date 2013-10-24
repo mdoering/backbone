@@ -1,5 +1,4 @@
-Lecidea symphicarpea Lynge SPECIES
-=======
+# Lecidea symphicarpea Lynge SPECIES
 
 #### Status
 ACCEPTED

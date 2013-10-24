@@ -1,5 +1,4 @@
-Fusarium alabamense Sacc. SPECIES
-=======
+# Fusarium alabamense Sacc. SPECIES
 
 #### Status
 ACCEPTED

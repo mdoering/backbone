@@ -1,5 +1,4 @@
-Entosordaria clypeata (De Not.) Arx & E. Müll. SPECIES
-=======
+# Entosordaria clypeata (De Not.) Arx & E. Müll. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lucidium Lohde GENUS
-=======
+# Lucidium Lohde GENUS
 
 #### Status
 ACCEPTED

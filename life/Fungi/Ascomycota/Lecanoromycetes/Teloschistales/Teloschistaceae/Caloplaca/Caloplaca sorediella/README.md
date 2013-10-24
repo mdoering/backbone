@@ -1,5 +1,4 @@
-Caloplaca sorediella Arup SPECIES
-=======
+# Caloplaca sorediella Arup SPECIES
 
 #### Status
 ACCEPTED

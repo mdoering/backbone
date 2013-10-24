@@ -1,5 +1,4 @@
-Uwebraunia ellipsoidea Crous & M.J. Wingf., 1996 SPECIES
-=======
+# Uwebraunia ellipsoidea Crous & M.J. Wingf., 1996 SPECIES
 
 #### Status
 ACCEPTED

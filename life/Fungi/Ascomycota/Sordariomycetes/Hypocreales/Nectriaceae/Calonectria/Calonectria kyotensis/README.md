@@ -1,17 +1,16 @@
-Cylindrocladium pithecolobii Petch SPECIES
-=======
+# Calonectria kyotensis Terash., 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Mycol. Soc. Japan 8(3): 124 (1968)
 
 #### Original name
-Cylindrocladium pithecolobii Petch
+Calonectria kyotensis Terash., 1968
 
 ### Remarks
 null

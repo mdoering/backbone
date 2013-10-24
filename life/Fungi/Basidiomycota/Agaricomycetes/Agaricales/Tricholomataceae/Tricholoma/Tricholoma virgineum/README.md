@@ -1,5 +1,4 @@
-Tricholoma virgineum (Murrill) Murrill SPECIES
-=======
+# Tricholoma virgineum (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Merulius carneus (Schaeff.) Pers. SPECIES
-=======
+# Merulius carneus (Schaeff.) Pers. SPECIES
 
 #### Status
 ACCEPTED

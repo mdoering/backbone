@@ -1,5 +1,4 @@
-Ascochyta fragosoi Unamuno SPECIES
-=======
+# Ascochyta fragosoi Unamuno SPECIES
 
 #### Status
 ACCEPTED

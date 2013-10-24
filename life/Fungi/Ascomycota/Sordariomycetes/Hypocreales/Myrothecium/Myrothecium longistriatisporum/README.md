@@ -1,5 +1,4 @@
-Myrothecium longistriatisporum Matsush. SPECIES
-=======
+# Myrothecium longistriatisporum Matsush. SPECIES
 
 #### Status
 ACCEPTED

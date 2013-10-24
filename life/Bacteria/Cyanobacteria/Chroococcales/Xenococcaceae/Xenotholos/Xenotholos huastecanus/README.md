@@ -1,5 +1,4 @@
-Xenotholos huastecanus M. Gold-Morgan, G. Montejano & J. Komárek SPECIES
-=======
+# Xenotholos huastecanus M. Gold-Morgan, G. Montejano & J. Komárek SPECIES
 
 #### Status
 ACCEPTED

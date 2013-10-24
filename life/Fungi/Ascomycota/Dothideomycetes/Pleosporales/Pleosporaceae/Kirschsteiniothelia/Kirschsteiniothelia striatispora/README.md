@@ -1,5 +1,4 @@
-Kirschsteiniothelia striatispora (Aebi, Harr & E. Müll.) D. Hawksw. SPECIES
-=======
+# Kirschsteiniothelia striatispora (Aebi, Harr & E. Müll.) D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

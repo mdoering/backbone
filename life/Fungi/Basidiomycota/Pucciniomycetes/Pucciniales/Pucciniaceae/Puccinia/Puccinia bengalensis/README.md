@@ -1,5 +1,4 @@
-Puccinia bengalensis Cummins SPECIES
-=======
+# Puccinia bengalensis Cummins SPECIES
 
 #### Status
 ACCEPTED

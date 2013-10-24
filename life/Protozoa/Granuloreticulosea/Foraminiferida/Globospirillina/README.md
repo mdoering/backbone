@@ -1,5 +1,4 @@
-Globospirillina GENUS
-=======
+# Globospirillina GENUS
 
 #### Status
 ACCEPTED

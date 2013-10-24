@@ -1,5 +1,4 @@
-Lecanora petrophila Th. Fr. SPECIES
-=======
+# Lecanora petrophila Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

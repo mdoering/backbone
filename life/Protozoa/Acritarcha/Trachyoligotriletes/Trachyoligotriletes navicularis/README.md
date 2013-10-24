@@ -1,5 +1,4 @@
-Trachyoligotriletes navicularis Timofeev, 1959 ex Fensome et al., 1990 SPECIES
-=======
+# Trachyoligotriletes navicularis Timofeev, 1959 ex Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

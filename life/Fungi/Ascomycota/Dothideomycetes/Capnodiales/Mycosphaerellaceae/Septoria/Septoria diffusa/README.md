@@ -1,5 +1,4 @@
-Septoria diffusa Tassi SPECIES
-=======
+# Septoria diffusa Tassi SPECIES
 
 #### Status
 ACCEPTED

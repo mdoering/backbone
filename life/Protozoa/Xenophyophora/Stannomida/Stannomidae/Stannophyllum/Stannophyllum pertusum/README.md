@@ -1,5 +1,4 @@
-Stannophyllum pertusum Haeckel, 1889 SPECIES
-=======
+# Stannophyllum pertusum Haeckel, 1889 SPECIES
 
 #### Status
 ACCEPTED

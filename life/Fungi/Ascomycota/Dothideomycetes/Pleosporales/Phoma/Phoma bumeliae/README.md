@@ -1,5 +1,4 @@
-Phoma bumeliae House SPECIES
-=======
+# Phoma bumeliae House SPECIES
 
 #### Status
 ACCEPTED

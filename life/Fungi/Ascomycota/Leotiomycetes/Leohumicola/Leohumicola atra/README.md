@@ -1,5 +1,4 @@
-Leohumicola atra H.D.T. Nguyen & Seifert SPECIES
-=======
+# Leohumicola atra H.D.T. Nguyen & Seifert SPECIES
 
 #### Status
 ACCEPTED

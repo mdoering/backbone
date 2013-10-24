@@ -1,5 +1,4 @@
-Buedingiisphaeridium disgregum Playford & Martin, 1984 SPECIES
-=======
+# Buedingiisphaeridium disgregum Playford & Martin, 1984 SPECIES
 
 #### Status
 ACCEPTED

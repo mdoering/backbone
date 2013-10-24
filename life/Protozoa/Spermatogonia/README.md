@@ -1,5 +1,4 @@
-Spermatogonia G.Leuduger-Fortmorel, 1892 GENUS
-=======
+# Spermatogonia G.Leuduger-Fortmorel, 1892 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micarea melanobola (Nyl.) Coppins SPECIES
-=======
+# Micarea melanobola (Nyl.) Coppins SPECIES
 
 #### Status
 ACCEPTED

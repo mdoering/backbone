@@ -1,5 +1,4 @@
-Brachybacterium sacelli Heyrman et al., 2002 SPECIES
-=======
+# Brachybacterium sacelli Heyrman et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

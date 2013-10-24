@@ -1,14 +1,13 @@
-Naucoria clavus (Romagn.) Kühner & Romagn., 1953 SPECIES
-=======
+# Galerina clavus Romagn., 1942 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fl. Analyt. Champ. Supér. (Paris) 239 (1953)
+Bull. trimest. Soc. mycol. Fr. 58: 149 (1942)
 
 #### Original name
 Galerina clavus Romagn., 1942

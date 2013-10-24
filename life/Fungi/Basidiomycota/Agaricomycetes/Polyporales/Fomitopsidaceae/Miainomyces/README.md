@@ -1,5 +1,4 @@
-Miainomyces GENUS
-=======
+# Miainomyces GENUS
 
 #### Status
 ACCEPTED

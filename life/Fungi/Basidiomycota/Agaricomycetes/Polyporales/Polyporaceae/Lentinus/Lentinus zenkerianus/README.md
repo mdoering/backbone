@@ -1,5 +1,4 @@
-Lentinus zenkerianus Henn. SPECIES
-=======
+# Lentinus zenkerianus Henn. SPECIES
 
 #### Status
 ACCEPTED

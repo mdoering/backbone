@@ -1,5 +1,4 @@
-Dicontophrya rara Puytorac & Dragesco, 1969 SPECIES
-=======
+# Dicontophrya rara Puytorac & Dragesco, 1969 SPECIES
 
 #### Status
 ACCEPTED

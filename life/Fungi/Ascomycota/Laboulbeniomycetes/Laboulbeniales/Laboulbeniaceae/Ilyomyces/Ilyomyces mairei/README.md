@@ -1,5 +1,4 @@
-Ilyomyces mairei F. Picard, 1917 SPECIES
-=======
+# Ilyomyces mairei F. Picard, 1917 SPECIES
 
 #### Status
 ACCEPTED

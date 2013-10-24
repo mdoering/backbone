@@ -1,5 +1,4 @@
-Limacella bentista (Morgan) Murrill SPECIES
-=======
+# Limacella bentista (Morgan) Murrill SPECIES
 
 #### Status
 ACCEPTED

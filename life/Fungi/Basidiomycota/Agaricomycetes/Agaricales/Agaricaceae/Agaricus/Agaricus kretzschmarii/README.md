@@ -1,5 +1,4 @@
-Agaricus kretzschmarii Rabenh. SPECIES
-=======
+# Agaricus kretzschmarii Rabenh. SPECIES
 
 #### Status
 ACCEPTED

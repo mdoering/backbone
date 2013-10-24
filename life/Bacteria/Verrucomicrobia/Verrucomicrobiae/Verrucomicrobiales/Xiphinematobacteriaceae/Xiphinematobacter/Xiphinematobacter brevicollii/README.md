@@ -1,5 +1,4 @@
-Xiphinematobacter brevicollii SPECIES
-=======
+# Xiphinematobacter brevicollii SPECIES
 
 #### Status
 ACCEPTED

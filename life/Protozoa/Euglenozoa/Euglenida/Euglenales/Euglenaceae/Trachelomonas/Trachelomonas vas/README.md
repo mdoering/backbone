@@ -1,5 +1,4 @@
-Trachelomonas vas Deflandre SPECIES
-=======
+# Trachelomonas vas Deflandre SPECIES
 
 #### Status
 ACCEPTED

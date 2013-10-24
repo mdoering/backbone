@@ -1,5 +1,4 @@
-Sclerotium protuberans Fr. SPECIES
-=======
+# Sclerotium protuberans Fr. SPECIES
 
 #### Status
 ACCEPTED

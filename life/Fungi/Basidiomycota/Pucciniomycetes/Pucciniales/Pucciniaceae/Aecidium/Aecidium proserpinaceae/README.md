@@ -1,5 +1,4 @@
-Aecidium proserpinaceae Berk. & M.A. Curtis SPECIES
-=======
+# Aecidium proserpinaceae Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

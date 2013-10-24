@@ -1,5 +1,4 @@
-Filoboletus elegans Maas Geest. & E. Horak SPECIES
-=======
+# Filoboletus elegans Maas Geest. & E. Horak SPECIES
 
 #### Status
 ACCEPTED

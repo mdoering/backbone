@@ -1,5 +1,4 @@
-Erineum calabae Kunze SPECIES
-=======
+# Erineum calabae Kunze SPECIES
 
 #### Status
 ACCEPTED

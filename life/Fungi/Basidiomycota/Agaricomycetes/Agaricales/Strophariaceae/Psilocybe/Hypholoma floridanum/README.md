@@ -1,5 +1,4 @@
-Hypholoma floridanum (Murrill) Murrill SPECIES
-=======
+# Hypholoma floridanum (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

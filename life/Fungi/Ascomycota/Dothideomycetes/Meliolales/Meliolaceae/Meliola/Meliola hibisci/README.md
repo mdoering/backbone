@@ -1,5 +1,4 @@
-Meliola hibisci G. Arnaud SPECIES
-=======
+# Meliola hibisci G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

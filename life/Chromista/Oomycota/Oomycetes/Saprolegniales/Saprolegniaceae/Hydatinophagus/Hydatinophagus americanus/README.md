@@ -1,8 +1,7 @@
-Aphanomyces americanus (A.F. Bartsch & F.T. Wolf) W.W. Scott, 1961 SPECIES
-=======
+# Hydatinophagus americanus A.F. Bartsch & F.T. Wolf, 1938 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

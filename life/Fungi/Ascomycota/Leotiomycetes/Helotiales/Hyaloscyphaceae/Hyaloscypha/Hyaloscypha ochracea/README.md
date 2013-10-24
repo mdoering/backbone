@@ -1,5 +1,4 @@
-Hyaloscypha ochracea Velen. SPECIES
-=======
+# Hyaloscypha ochracea Velen. SPECIES
 
 #### Status
 ACCEPTED

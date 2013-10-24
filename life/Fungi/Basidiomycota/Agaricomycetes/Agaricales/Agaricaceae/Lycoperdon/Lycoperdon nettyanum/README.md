@@ -1,17 +1,16 @@
-Lycoperdon nettyana Ramsey SPECIES
-=======
+# Lycoperdon nettyanum Ramsey SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 11(1): 185 (1980)
 
 #### Original name
-Lycoperdon nettyana Ramsey
+Lycoperdon nettyanum Ramsey
 
 ### Remarks
 null

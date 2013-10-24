@@ -1,5 +1,4 @@
-Dictyospiropes M.B. Ellis GENUS
-=======
+# Dictyospiropes M.B. Ellis GENUS
 
 #### Status
 ACCEPTED

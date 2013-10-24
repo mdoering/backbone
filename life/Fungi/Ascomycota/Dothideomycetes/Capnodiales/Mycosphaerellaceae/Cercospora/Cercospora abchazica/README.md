@@ -1,5 +1,4 @@
-Cercospora abchazica Siemaszko SPECIES
-=======
+# Cercospora abchazica Siemaszko SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Olgiidae Mikhalevich, 2011 FAMILY
-=======
+# Olgiidae Mikhalevich, 2011 FAMILY
 
 #### Status
 ACCEPTED

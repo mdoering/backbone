@@ -1,17 +1,16 @@
-Biatora umbrosa Bagl. ex A. Massal. SPECIES
-=======
+# Lecidella anomaloides (A. Massal.) Hertel & H. Kilias SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Symmict. Lich. 37 (1855)
+in Hawksworth, James & Coppins, Lichenologist 12(1): 107 (1980)
 
 #### Original name
-Biatora umbrosa Bagl. ex A. Massal.
+Lecidea anomaloides A. Massal.
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Perenniporia subadusta (Z.S. Bi & G.Y. Zheng) Y.C. Dai, 2002 SPECIES
-=======
+# Wrightoporia subadusta Z.S. Bi & G.Y. Zheng, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Dai, Niemelä & Kinnunen, Sydowia 39(3): 180 (2002)
+in Zheng & Bi, Bull. bot. Res. , Harbin 7(4): 76 (1987)
 
 #### Original name
 Wrightoporia subadusta Z.S. Bi & G.Y. Zheng, 1987

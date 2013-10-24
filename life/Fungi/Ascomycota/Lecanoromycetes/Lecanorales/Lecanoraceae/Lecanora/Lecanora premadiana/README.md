@@ -1,5 +1,4 @@
-Lecanora premadiana (Hue) Zahlbr. SPECIES
-=======
+# Lecanora premadiana (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

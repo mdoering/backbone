@@ -1,5 +1,4 @@
-Asteridiella seminata (Berk. & M.A. Curtis) Hansf. SPECIES
-=======
+# Asteridiella seminata (Berk. & M.A. Curtis) Hansf. SPECIES
 
 #### Status
 ACCEPTED

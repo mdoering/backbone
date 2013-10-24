@@ -1,5 +1,4 @@
-Manuripia bifida Singer, 1960 SPECIES
-=======
+# Manuripia bifida Singer, 1960 SPECIES
 
 #### Status
 ACCEPTED

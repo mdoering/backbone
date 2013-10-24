@@ -1,5 +1,4 @@
-Botrytis aclada Fresen., 1850 SPECIES
-=======
+# Botrytis aclada Fresen., 1850 SPECIES
 
 #### Status
 ACCEPTED

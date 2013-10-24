@@ -1,5 +1,4 @@
-Triporicellaesporites simplex (Elsik & Janson.) Kalgutkar & Janson. SPECIES
-=======
+# Triporicellaesporites simplex (Elsik & Janson.) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

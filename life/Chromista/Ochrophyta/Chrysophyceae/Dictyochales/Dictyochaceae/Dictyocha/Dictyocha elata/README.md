@@ -1,5 +1,4 @@
-Dictyocha elata f. reducta Z.I. Glezer FORM
-=======
+# Dictyocha elata Z. I. Glezer SPECIES
 
 #### Status
 ACCEPTED

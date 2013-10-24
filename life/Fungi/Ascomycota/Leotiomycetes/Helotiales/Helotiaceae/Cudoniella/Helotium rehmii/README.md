@@ -1,5 +1,4 @@
-Helotium rehmii Strasser SPECIES
-=======
+# Helotium rehmii Strasser SPECIES
 
 #### Status
 ACCEPTED

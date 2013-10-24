@@ -1,5 +1,4 @@
-Mycoderma valida Leberle SPECIES
-=======
+# Mycoderma valida Leberle SPECIES
 
 #### Status
 ACCEPTED

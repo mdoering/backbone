@@ -1,17 +1,16 @@
-Phaeoramularia tabebuia J.J. Muchovej & F.A. Ferreira SPECIES
-=======
+# Phaeoramularia tabebuiae J.J. Muchovej & F.A. Ferreira SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 73(2): 346 (1981)
 
 #### Original name
-Phaeoramularia tabebuia J.J. Muchovej & F.A. Ferreira
+Phaeoramularia tabebuiae J.J. Muchovej & F.A. Ferreira
 
 ### Remarks
 null

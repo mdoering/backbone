@@ -1,5 +1,4 @@
-Megalospora nipponensis Asahina SPECIES
-=======
+# Megalospora nipponensis Asahina SPECIES
 
 #### Status
 ACCEPTED

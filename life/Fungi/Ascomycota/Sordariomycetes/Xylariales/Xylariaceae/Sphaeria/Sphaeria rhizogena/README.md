@@ -1,5 +1,4 @@
-Sphaeria rhizogena Berk. SPECIES
-=======
+# Sphaeria rhizogena Berk. SPECIES
 
 #### Status
 ACCEPTED

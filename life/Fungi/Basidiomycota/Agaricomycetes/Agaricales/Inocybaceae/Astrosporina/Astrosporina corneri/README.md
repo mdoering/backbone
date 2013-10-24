@@ -1,5 +1,4 @@
-Astrosporina corneri E. Horak SPECIES
-=======
+# Astrosporina corneri E. Horak SPECIES
 
 #### Status
 ACCEPTED

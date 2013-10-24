@@ -1,5 +1,4 @@
-Peyritschiella trichodomiae Thaxt. SPECIES
-=======
+# Peyritschiella trichodomiae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

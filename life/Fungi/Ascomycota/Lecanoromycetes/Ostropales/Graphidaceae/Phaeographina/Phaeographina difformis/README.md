@@ -1,5 +1,4 @@
-Phaeographina difformis Fink SPECIES
-=======
+# Phaeographina difformis Fink SPECIES
 
 #### Status
 ACCEPTED

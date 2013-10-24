@@ -1,5 +1,4 @@
-Mucor tristis Bainier SPECIES
-=======
+# Mucor tristis Bainier SPECIES
 
 #### Status
 ACCEPTED

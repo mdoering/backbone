@@ -1,5 +1,4 @@
-Coleosporium macrophyllum anon. SPECIES
-=======
+# Coleosporium macrophyllum anon. SPECIES
 
 #### Status
 ACCEPTED

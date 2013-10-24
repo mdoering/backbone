@@ -1,14 +1,13 @@
-Thanatephorus anceps (Bres. & Syd.) Parmasto, 1968 SPECIES
-=======
+# Ceratobasidium anceps (Bres. & Syd.) H.S. Jacks., 1949 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Eesti NSV Tead. Akad. Toim. , Biol. seer 17(2): 225 (1968)
+Canadian Journal of Research, Section C 27: 242 (1949)
 
 #### Original name
 Tulasnella anceps Bres. & Syd., 1910

@@ -1,5 +1,4 @@
-Trichodelitschia lundqvistii N. Heine & P. Welt, 2007 SPECIES
-=======
+# Trichodelitschia lundqvistii N. Heine & P. Welt, 2007 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pteridomonas danica Patterson & Fenchel SPECIES
-=======
+# Pteridomonas danica Patterson & Fenchel SPECIES
 
 #### Status
 ACCEPTED

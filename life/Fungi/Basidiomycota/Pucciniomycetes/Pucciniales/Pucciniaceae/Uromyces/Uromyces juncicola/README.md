@@ -1,5 +1,4 @@
-Uromyces juncicola Speg. SPECIES
-=======
+# Uromyces juncicola Speg. SPECIES
 
 #### Status
 ACCEPTED

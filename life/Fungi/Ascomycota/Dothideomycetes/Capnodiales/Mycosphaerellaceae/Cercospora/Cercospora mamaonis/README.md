@@ -1,5 +1,4 @@
-Cercospora mamaonis Viégas & Chupp SPECIES
-=======
+# Cercospora mamaonis Viégas & Chupp SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyathus bulleri H.J. Brodie, 1967 SPECIES
-=======
+# Cyathus bulleri H.J. Brodie, 1967 SPECIES
 
 #### Status
 ACCEPTED

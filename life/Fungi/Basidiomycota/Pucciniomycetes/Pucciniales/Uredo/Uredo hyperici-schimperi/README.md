@@ -1,5 +1,4 @@
-Uredo hyperici-schimperi Henn. SPECIES
-=======
+# Uredo hyperici-schimperi Henn. SPECIES
 
 #### Status
 ACCEPTED

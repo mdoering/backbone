@@ -1,5 +1,4 @@
-Gymnodinium ovoideum Okolodkov, 1997 SPECIES
-=======
+# Gymnodinium ovoideum Okolodkov, 1997 SPECIES
 
 #### Status
 ACCEPTED

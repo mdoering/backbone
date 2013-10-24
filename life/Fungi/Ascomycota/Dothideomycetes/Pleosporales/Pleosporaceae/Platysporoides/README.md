@@ -1,5 +1,4 @@
-Platysporoides (Wehm.) Shoemaker & C.E. Babc. GENUS
-=======
+# Platysporoides (Wehm.) Shoemaker & C.E. Babc. GENUS
 
 #### Status
 ACCEPTED

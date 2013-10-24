@@ -1,5 +1,4 @@
-Pseudocercospora chrysanthemicola (J.M. Yen) Deighton SPECIES
-=======
+# Pseudocercospora chrysanthemicola (J.M. Yen) Deighton SPECIES
 
 #### Status
 ACCEPTED

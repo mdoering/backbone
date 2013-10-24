@@ -1,5 +1,4 @@
-Eccrina longipes Maessen SPECIES
-=======
+# Eccrina longipes Maessen SPECIES
 
 #### Status
 ACCEPTED

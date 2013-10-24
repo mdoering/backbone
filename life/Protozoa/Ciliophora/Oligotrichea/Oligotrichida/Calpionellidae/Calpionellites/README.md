@@ -1,5 +1,4 @@
-Calpionellites Colom, 1948 GENUS
-=======
+# Calpionellites Colom, 1948 GENUS
 
 #### Status
 ACCEPTED

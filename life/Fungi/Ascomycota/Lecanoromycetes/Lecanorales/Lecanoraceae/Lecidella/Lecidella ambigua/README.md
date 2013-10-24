@@ -1,5 +1,4 @@
-Lecidella ambigua (Fr.) Körb. SPECIES
-=======
+# Lecidella ambigua (Fr.) Körb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrophoma ipomoeae Pass. SPECIES
-=======
+# Macrophoma ipomoeae Pass. SPECIES
 
 #### Status
 ACCEPTED

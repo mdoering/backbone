@@ -1,5 +1,4 @@
-Amplariella grisella (E.-J. Gilbert & Cleland) E.-J. Gilbert SPECIES
-=======
+# Amplariella grisella (E.-J. Gilbert & Cleland) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

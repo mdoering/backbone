@@ -1,5 +1,4 @@
-Thermutis flexuosa (Menegh.) Zahlbr. SPECIES
-=======
+# Thermutis flexuosa (Menegh.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

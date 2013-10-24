@@ -1,5 +1,4 @@
-Agaricus aqueus Batsch SPECIES
-=======
+# Agaricus aqueus Batsch SPECIES
 
 #### Status
 ACCEPTED

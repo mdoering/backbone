@@ -1,8 +1,7 @@
-Oscillatoria subbrevis f. major G.S. West FORM
-=======
+# Oscillatoria subbrevis Schmidle SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

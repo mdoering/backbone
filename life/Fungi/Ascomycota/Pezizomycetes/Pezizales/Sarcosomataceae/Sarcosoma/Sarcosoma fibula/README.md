@@ -1,5 +1,4 @@
-Sarcosoma fibula Pat. SPECIES
-=======
+# Sarcosoma fibula Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporidesmium fumagineum Sacc. SPECIES
-=======
+# Sporidesmium fumagineum Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Metarhizium cylindrosprae Q.T. Chen & H.L. Guo SPECIES
-=======
+# Metarhizium cylindrosporae Q.T. Chen & H.L. Guo SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Metarhizium cylindrosprae Q.T. Chen & H.L. Guo
+Metarhizium cylindrosporae Q.T. Chen & H.L. Guo
 
 ### Remarks
 null

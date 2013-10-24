@@ -1,5 +1,4 @@
-Pringsheimia pachmarhii Panwar & Purohit SPECIES
-=======
+# Pringsheimia pachmarhii Panwar & Purohit SPECIES
 
 #### Status
 ACCEPTED

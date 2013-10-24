@@ -1,14 +1,13 @@
-Bipolaris portulacae (Rader) Alcorn, 1991 SPECIES
-=======
+# Drechslera portulacae (Rader) de Hoog & Oorschot, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 41(2): 330 (1991)
+Proc. K. Ned. Akad. Wet. , Ser. C, Biol. Med. Sci. 86(1): 59 (1983)
 
 #### Original name
 Helminthosporium portulacae Rader, 1948

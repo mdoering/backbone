@@ -1,5 +1,4 @@
-Diademospora B.E. Söderstr. & Bååth GENUS
-=======
+# Diademospora B.E. Söderstr. & Bååth GENUS
 
 #### Status
 ACCEPTED

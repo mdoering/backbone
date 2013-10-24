@@ -1,5 +1,4 @@
-Micropera Leveille, 1846 GENUS
-=======
+# Micropera Leveille, 1846 GENUS
 
 #### Status
 ACCEPTED

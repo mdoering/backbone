@@ -1,5 +1,4 @@
-Cryptomycella Höhn. GENUS
-=======
+# Cryptomycella Höhn. GENUS
 
 #### Status
 ACCEPTED

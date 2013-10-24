@@ -1,17 +1,16 @@
-Sphaeria concentrica var. concentrica VARIETY
-=======
+# Daldinia concentrica (Bolton) Ces. & De Not., 1863 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Comm. Soc. crittog. Ital. 1: 197 (1863)
 
 #### Original name
-Sphaeria concentrica var. concentrica
+Sphaeria concentrica Bolton, 1792
 
 ### Remarks
 null

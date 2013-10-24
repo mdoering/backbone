@@ -1,5 +1,4 @@
-Pseudocercospora miconiae (Gonz. Frag. & Cif.) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora miconiae (Gonz. Frag. & Cif.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

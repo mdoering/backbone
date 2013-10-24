@@ -1,5 +1,4 @@
-Coriolus neaniscus (Berk. ex Cooke) Imazeki SPECIES
-=======
+# Coriolus neaniscus (Berk. ex Cooke) Imazeki SPECIES
 
 #### Status
 ACCEPTED

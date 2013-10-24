@@ -1,5 +1,4 @@
-Phoma pleosporoides Sacc. SPECIES
-=======
+# Phoma pleosporoides Sacc. SPECIES
 
 #### Status
 ACCEPTED

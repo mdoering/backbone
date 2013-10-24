@@ -1,5 +1,4 @@
-Gracea M.W. Dick GENUS
-=======
+# Gracea M.W. Dick GENUS
 
 #### Status
 ACCEPTED

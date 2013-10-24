@@ -1,5 +1,4 @@
-Agaricus diamantanus Pegler SPECIES
-=======
+# Agaricus diamantanus Pegler SPECIES
 
 #### Status
 ACCEPTED

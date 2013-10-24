@@ -1,17 +1,16 @@
-Cercospora alpiniae-katsumadaicola S.Q. Chen & P.K. Chi SPECIES
-=======
+# Cercospora alpiniae-katsumadicola S.Q. Chen & P.K. Chi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Journal of South China Agricultural University 11(3): 58 (1990)
 
 #### Original name
-Cercospora alpiniae-katsumadaicola S.Q. Chen & P.K. Chi
+Cercospora alpiniae-katsumadicola S.Q. Chen & P.K. Chi
 
 ### Remarks
 null

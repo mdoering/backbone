@@ -1,8 +1,7 @@
-Paecilomyces hibernicum Kennelly & Grimes SPECIES
-=======
+# Paecilomyces hibernicus Kennelly & Grimes SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Paecilomyces hibernicum Kennelly & Grimes
+Paecilomyces hibernicus Kennelly & Grimes
 
 ### Remarks
 null

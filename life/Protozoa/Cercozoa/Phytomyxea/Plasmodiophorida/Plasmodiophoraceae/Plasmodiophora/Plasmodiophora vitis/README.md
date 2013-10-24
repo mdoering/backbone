@@ -1,5 +1,4 @@
-Plasmodiophora vitis Viala & Sauv. SPECIES
-=======
+# Plasmodiophora vitis Viala & Sauv. SPECIES
 
 #### Status
 ACCEPTED

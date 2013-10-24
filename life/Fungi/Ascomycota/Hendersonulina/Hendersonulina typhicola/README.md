@@ -1,5 +1,4 @@
-Hendersonulina typhicola (Oudem.) Tassi SPECIES
-=======
+# Hendersonulina typhicola (Oudem.) Tassi SPECIES
 
 #### Status
 ACCEPTED

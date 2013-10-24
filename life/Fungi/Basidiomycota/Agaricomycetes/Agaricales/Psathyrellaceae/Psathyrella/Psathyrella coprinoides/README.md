@@ -1,5 +1,4 @@
-Psathyrella coprinoides A. Delannoy, Chiaffi, Courtec. & Eyssart. SPECIES
-=======
+# Psathyrella coprinoides A. Delannoy, Chiaffi, Courtec. & Eyssart. SPECIES
 
 #### Status
 ACCEPTED

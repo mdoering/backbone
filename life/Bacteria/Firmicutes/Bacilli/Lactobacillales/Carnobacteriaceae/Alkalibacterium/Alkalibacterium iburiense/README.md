@@ -1,5 +1,4 @@
-Alkalibacterium iburiense Nakajima et al., 2005 SPECIES
-=======
+# Alkalibacterium iburiense Nakajima et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

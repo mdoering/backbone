@@ -1,5 +1,4 @@
-Ramularia spiraeae-arunci Sacc. SPECIES
-=======
+# Ramularia spiraeae-arunci Sacc. SPECIES
 
 #### Status
 ACCEPTED

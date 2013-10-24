@@ -1,5 +1,4 @@
-Phialina damingshanica W.Y. Zhuang SPECIES
-=======
+# Phialina damingshanica W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

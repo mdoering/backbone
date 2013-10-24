@@ -1,14 +1,13 @@
-Guepiniopsis spathularia (Schwein.) Pat., 1900 SPECIES
-=======
+# Dacryopinax spathularia (Schwein.) G.W. Martin, 1948 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Essai Tax. Hyménomyc. (Lons-le-Saunier) 30 (1900)
+Lloydia 11: 116 (1948)
 
 #### Original name
 null

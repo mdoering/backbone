@@ -1,5 +1,4 @@
-Ornithocercus steini SPECIES
-=======
+# Ornithocercus steini SPECIES
 
 #### Status
 ACCEPTED

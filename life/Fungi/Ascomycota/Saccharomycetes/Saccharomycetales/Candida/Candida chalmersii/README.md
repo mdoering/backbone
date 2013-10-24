@@ -1,5 +1,4 @@
-Candida chalmersii (Castell.) Basgal SPECIES
-=======
+# Candida chalmersii (Castell.) Basgal SPECIES
 
 #### Status
 ACCEPTED

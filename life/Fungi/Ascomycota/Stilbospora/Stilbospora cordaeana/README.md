@@ -1,5 +1,4 @@
-Stilbospora cordaeana Höhn. SPECIES
-=======
+# Stilbospora cordaeana Höhn. SPECIES
 
 #### Status
 ACCEPTED

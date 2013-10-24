@@ -1,5 +1,4 @@
-Thielavia expansa Udagawa & Y. Sugiy. SPECIES
-=======
+# Thielavia expansa Udagawa & Y. Sugiy. SPECIES
 
 #### Status
 ACCEPTED

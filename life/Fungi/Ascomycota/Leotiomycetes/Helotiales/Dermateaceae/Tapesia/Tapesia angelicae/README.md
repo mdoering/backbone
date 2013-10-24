@@ -1,5 +1,4 @@
-Tapesia angelicae Velen. SPECIES
-=======
+# Tapesia angelicae Velen. SPECIES
 
 #### Status
 ACCEPTED

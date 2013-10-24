@@ -1,5 +1,4 @@
-Lithographa fumida Nyl. SPECIES
-=======
+# Lithographa fumida Nyl. SPECIES
 
 #### Status
 ACCEPTED

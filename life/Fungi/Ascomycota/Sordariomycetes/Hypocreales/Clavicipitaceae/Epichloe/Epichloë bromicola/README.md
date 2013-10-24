@@ -1,5 +1,4 @@
-Epichloë bromicola Leuchtm. & Schardl SPECIES
-=======
+# Epichloë bromicola Leuchtm. & Schardl SPECIES
 
 #### Status
 ACCEPTED

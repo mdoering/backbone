@@ -1,5 +1,4 @@
-Fusicoccum araucariae Voglino SPECIES
-=======
+# Fusicoccum araucariae Voglino SPECIES
 
 #### Status
 ACCEPTED

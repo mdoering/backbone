@@ -1,5 +1,4 @@
-Cetraria urceolata (Eschw.) Mont. SPECIES
-=======
+# Cetraria urceolata (Eschw.) Mont. SPECIES
 
 #### Status
 ACCEPTED

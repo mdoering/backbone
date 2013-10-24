@@ -1,5 +1,4 @@
-Lecanora viridulogranulosa Harm. SPECIES
-=======
+# Lecanora viridulogranulosa Harm. SPECIES
 
 #### Status
 ACCEPTED

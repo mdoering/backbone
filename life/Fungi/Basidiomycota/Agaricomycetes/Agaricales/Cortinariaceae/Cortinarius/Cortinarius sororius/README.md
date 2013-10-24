@@ -1,5 +1,4 @@
-Cortinarius sororius P. Karst. SPECIES
-=======
+# Cortinarius sororius P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichosporium evonymi Oudem. SPECIES
-=======
+# Trichosporium evonymi Oudem. SPECIES
 
 #### Status
 ACCEPTED

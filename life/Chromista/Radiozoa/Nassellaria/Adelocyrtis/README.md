@@ -1,5 +1,4 @@
-Adelocyrtis Pantanelli, 1880 GENUS
-=======
+# Adelocyrtis Pantanelli, 1880 GENUS
 
 #### Status
 ACCEPTED

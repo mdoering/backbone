@@ -1,5 +1,4 @@
-Nectria durantae Sawada SPECIES
-=======
+# Nectria durantae Sawada SPECIES
 
 #### Status
 ACCEPTED

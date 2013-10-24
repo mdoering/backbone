@@ -1,5 +1,4 @@
-Sclerotinia juncigena (Ellis & Everh.) Whetzel SPECIES
-=======
+# Sclerotinia juncigena (Ellis & Everh.) Whetzel SPECIES
 
 #### Status
 ACCEPTED

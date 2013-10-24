@@ -1,5 +1,4 @@
-Ustilago nummularia Speg. SPECIES
-=======
+# Ustilago nummularia Speg. SPECIES
 
 #### Status
 ACCEPTED

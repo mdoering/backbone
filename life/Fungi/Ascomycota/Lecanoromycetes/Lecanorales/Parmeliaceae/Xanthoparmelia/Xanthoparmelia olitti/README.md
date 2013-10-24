@@ -1,5 +1,4 @@
-Xanthoparmelia olitti (Gyeln.) Hale SPECIES
-=======
+# Xanthoparmelia olitti (Gyeln.) Hale SPECIES
 
 #### Status
 ACCEPTED

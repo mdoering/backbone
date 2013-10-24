@@ -1,5 +1,4 @@
-Ostropa rugulosa Schwein. SPECIES
-=======
+# Ostropa rugulosa Schwein. SPECIES
 
 #### Status
 ACCEPTED

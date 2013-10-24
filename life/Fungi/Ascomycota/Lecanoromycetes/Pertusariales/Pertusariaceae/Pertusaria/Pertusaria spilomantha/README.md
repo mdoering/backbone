@@ -1,5 +1,4 @@
-Pertusaria spilomantha Nyl. SPECIES
-=======
+# Pertusaria spilomantha Nyl. SPECIES
 
 #### Status
 ACCEPTED

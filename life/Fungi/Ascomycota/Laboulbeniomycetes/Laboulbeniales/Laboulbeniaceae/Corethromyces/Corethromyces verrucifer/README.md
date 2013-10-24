@@ -1,5 +1,4 @@
-Corethromyces verrucifer Speg. SPECIES
-=======
+# Corethromyces verrucifer Speg. SPECIES
 
 #### Status
 ACCEPTED

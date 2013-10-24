@@ -1,17 +1,16 @@
-Arcangeliella papyracea (Singer & A.H. Sm.) J.M. Vidal, 2005 SPECIES
-=======
+# Zelleromyces papyraceus (Singer & A.H. Sm.) Trappe, T. Lebel & Castellano, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 81: 205 (2002)
 
 #### Original name
-null
+Octaviania papyracea Singer & A.H. Sm., 1960
 
 ### Remarks
 null

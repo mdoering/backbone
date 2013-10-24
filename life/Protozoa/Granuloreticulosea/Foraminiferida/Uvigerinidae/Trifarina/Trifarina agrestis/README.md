@@ -1,8 +1,7 @@
-Angulogerina agrestis Todd, 1948 SPECIES
-=======
+# Trifarina agrestis (Todd, 1948) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

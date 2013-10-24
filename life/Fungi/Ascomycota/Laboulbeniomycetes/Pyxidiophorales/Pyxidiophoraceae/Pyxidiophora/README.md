@@ -1,17 +1,16 @@
-Rhynchomyces Sacc. & Marchal ex Marchal GENUS
-=======
+# Pyxidiophora Brefeld & Tavel, 1891 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Bull. Soc. R. Bot. Belg. 24: 60 (1885)
+null
 
 #### Original name
-Rhynchomyces Sacc. & Marchal ex Marchal
+null
 
 ### Remarks
 null

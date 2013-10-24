@@ -1,5 +1,4 @@
-Asterina balansae var. balansae VARIETY
-=======
+# Asterina balansae (Speg.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Syll. fung. (Abellini) 22: 88 (1913)
 
 #### Original name
-Asterina balansae var. balansae
+Seynesia balansae Speg.
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Scenidium aequale (Pat.) Kuntze, 1898 SPECIES
-=======
+# Trametes incerta (Curr.) Cooke, 1886 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3(2): 516 (1898)
+Grevillea 15(no. 74): 56 (1886)
 
 #### Original name
-Hexagonia aequalis Pat., 1889
+Polyporus incertus Curr., 1876
 
 ### Remarks
 null

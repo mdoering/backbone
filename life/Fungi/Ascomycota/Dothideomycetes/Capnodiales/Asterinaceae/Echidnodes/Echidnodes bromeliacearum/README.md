@@ -1,5 +1,4 @@
-Echidnodes bromeliacearum (Rehm) Theiss. & Syd. SPECIES
-=======
+# Echidnodes bromeliacearum (Rehm) Theiss. & Syd. SPECIES
 
 #### Status
 ACCEPTED

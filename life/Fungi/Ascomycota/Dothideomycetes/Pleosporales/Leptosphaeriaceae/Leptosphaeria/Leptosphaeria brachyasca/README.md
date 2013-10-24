@@ -1,5 +1,4 @@
-Leptosphaeria brachyasca Rostr. SPECIES
-=======
+# Leptosphaeria brachyasca Rostr. SPECIES
 
 #### Status
 ACCEPTED

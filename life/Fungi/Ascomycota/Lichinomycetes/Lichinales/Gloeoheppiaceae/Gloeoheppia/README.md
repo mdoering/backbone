@@ -1,5 +1,4 @@
-Gloeoheppia Gyeln. GENUS
-=======
+# Gloeoheppia Gyeln. GENUS
 
 #### Status
 ACCEPTED

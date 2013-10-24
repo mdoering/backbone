@@ -1,5 +1,4 @@
-Rhachomyces spadiceus Santam. & Faille SPECIES
-=======
+# Rhachomyces spadiceus Santam. & Faille SPECIES
 
 #### Status
 ACCEPTED

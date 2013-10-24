@@ -1,5 +1,4 @@
-Plenodomus astragalinus (Gonz. Frag.) Petr. SPECIES
-=======
+# Plenodomus astragalinus (Gonz. Frag.) Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tubaria lithocarpicola M. Zang SPECIES
-=======
+# Tubaria lithocarpicola M. Zang SPECIES
 
 #### Status
 ACCEPTED

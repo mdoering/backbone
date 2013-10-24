@@ -1,5 +1,4 @@
-Leptostroma donacis Schwein. SPECIES
-=======
+# Leptostroma donacis Schwein. SPECIES
 
 #### Status
 ACCEPTED

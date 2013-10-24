@@ -1,5 +1,4 @@
-Mollisia scoleconectriae E.K. Cash & R.W. Davidson SPECIES
-=======
+# Mollisia scoleconectriae E.K. Cash & R.W. Davidson SPECIES
 
 #### Status
 ACCEPTED

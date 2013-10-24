@@ -1,5 +1,4 @@
-Lecidea subfilamentosa (Zahlbr.) Fryday SPECIES
-=======
+# Lecidea subfilamentosa (Zahlbr.) Fryday SPECIES
 
 #### Status
 ACCEPTED

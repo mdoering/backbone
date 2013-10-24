@@ -1,5 +1,4 @@
-Amorphochlora amoebiformis (Ishida & Y. Hara) Ishida, Yabuki & S. Ota, 2011 SPECIES
-=======
+# Amorphochlora amoebiformis (Ishida & Y. Hara) Ishida, Yabuki & S. Ota, 2011 SPECIES
 
 #### Status
 ACCEPTED

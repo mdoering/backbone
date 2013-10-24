@@ -1,5 +1,4 @@
-Lecanora tunicata Zahlbr. SPECIES
-=======
+# Lecanora tunicata Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coprinellus saccharinus (Romagn.) P. Roux, Guy Garcia & V. Dumas SPECIES
-=======
+# Coprinellus saccharinus (Romagn.) P. Roux, Guy Garcia & V. Dumas SPECIES
 
 #### Status
 ACCEPTED

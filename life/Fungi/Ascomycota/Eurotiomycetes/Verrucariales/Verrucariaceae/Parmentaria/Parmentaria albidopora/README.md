@@ -1,5 +1,4 @@
-Parmentaria albidopora Makhija & Patw. SPECIES
-=======
+# Parmentaria albidopora Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

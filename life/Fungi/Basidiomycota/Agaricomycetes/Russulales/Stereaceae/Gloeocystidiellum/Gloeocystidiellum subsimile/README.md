@@ -1,5 +1,4 @@
-Gloeocystidiellum subsimile Y. Hayashi SPECIES
-=======
+# Gloeocystidiellum subsimile Y. Hayashi SPECIES
 
 #### Status
 ACCEPTED

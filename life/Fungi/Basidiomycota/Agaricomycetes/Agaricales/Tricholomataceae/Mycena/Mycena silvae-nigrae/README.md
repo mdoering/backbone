@@ -1,11 +1,10 @@
-Mycena alcalina sensu auct.p.p. syn. SPECIES
-=======
+# Mycena silvae-nigrae Maas Geest. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+Belgian Species List
 
 #### Published in
 null

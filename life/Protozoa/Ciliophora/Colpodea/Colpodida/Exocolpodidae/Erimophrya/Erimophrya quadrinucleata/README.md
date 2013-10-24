@@ -1,5 +1,4 @@
-Erimophrya quadrinucleata Foissner, Berger, Xu & Zechmeister-Boltenstern, 2005 SPECIES
-=======
+# Erimophrya quadrinucleata Foissner, Berger, Xu & Zechmeister-Boltenstern, 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Postelsia palmaeformis Ruprecht SPECIES
-=======
+# Postelsia palmaeformis Ruprecht SPECIES
 
 #### Status
 ACCEPTED

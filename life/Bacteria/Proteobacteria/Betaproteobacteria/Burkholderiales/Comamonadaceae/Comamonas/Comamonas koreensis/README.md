@@ -1,5 +1,4 @@
-Comamonas koreensis Chang et al., 2002 SPECIES
-=======
+# Comamonas koreensis Chang et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

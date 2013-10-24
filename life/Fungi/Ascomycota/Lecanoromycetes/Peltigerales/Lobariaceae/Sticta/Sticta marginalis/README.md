@@ -1,5 +1,4 @@
-Sticta marginalis Bory SPECIES
-=======
+# Sticta marginalis Bory SPECIES
 
 #### Status
 ACCEPTED

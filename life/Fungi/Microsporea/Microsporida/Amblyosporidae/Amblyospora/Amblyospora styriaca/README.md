@@ -1,5 +1,4 @@
-Amblyospora styriaca C. Friedrich, O. Kepka & E. Ingolic SPECIES
-=======
+# Amblyospora styriaca C. Friedrich, O. Kepka & E. Ingolic SPECIES
 
 #### Status
 ACCEPTED

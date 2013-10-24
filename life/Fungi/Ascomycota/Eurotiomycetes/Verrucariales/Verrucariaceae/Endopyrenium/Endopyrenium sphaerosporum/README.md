@@ -1,5 +1,4 @@
-Endopyrenium sphaerosporum SPECIES
-=======
+# Endopyrenium sphaerosporum SPECIES
 
 #### Status
 ACCEPTED

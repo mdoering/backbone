@@ -1,5 +1,4 @@
-Caloplaca isidioclada Zahlbr. SPECIES
-=======
+# Caloplaca isidioclada Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paraarchaediscus Orlova, 1955 GENUS
-=======
+# Paraarchaediscus Orlova, 1955 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmiellus opacus (Berk. & M.A. Curtis) Singer SPECIES
-=======
+# Marasmiellus opacus (Berk. & M.A. Curtis) Singer SPECIES
 
 #### Status
 ACCEPTED

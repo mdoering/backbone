@@ -1,5 +1,4 @@
-Massarinula vitalbae Chenant. SPECIES
-=======
+# Massarinula vitalbae Chenant. SPECIES
 
 #### Status
 ACCEPTED

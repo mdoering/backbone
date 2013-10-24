@@ -1,5 +1,4 @@
-Diplodina butleri Died. SPECIES
-=======
+# Diplodina butleri Died. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Conidiobolus caecilius S. Keller SPECIES
-=======
+# Conidiobolus caecilius S. Keller SPECIES
 
 #### Status
 ACCEPTED

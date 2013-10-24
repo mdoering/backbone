@@ -1,17 +1,16 @@
-Coronaster E. Martini, 1961 GENUS
-=======
+# Martiniaster A.R. Loeblich Jr. & H. Tappan, 1963 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Erdöl. Z. Bohr-u. Fördertech. 77: 102.
+Proc. Biol. Soc. Wash. 76: 193.
 
 #### Original name
-null
+Coronaster E. Martini, 1961
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cladonia favillicola Trass SPECIES
-=======
+# Cladonia favillicola Trass SPECIES
 
 #### Status
 ACCEPTED

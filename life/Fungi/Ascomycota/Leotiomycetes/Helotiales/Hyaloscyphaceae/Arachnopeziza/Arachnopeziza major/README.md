@@ -1,5 +1,4 @@
-Arachnopeziza major (Ellis & Everh.) Korf SPECIES
-=======
+# Arachnopeziza major (Ellis & Everh.) Korf SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hebeloma earlei Murrill SPECIES
-=======
+# Hebeloma earlei Murrill SPECIES
 
 #### Status
 ACCEPTED

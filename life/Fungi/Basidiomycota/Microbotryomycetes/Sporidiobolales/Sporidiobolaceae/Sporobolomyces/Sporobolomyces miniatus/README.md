@@ -1,5 +1,4 @@
-Sporobolomyces miniatus M. Yamaz. & H. Fujii SPECIES
-=======
+# Sporobolomyces miniatus M. Yamaz. & H. Fujii SPECIES
 
 #### Status
 ACCEPTED

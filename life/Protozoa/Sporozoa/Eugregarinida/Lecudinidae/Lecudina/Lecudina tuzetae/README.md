@@ -1,5 +1,4 @@
-Lecudina tuzetae Schrével, 1963 SPECIES
-=======
+# Lecudina tuzetae Schrével, 1963 SPECIES
 
 #### Status
 ACCEPTED

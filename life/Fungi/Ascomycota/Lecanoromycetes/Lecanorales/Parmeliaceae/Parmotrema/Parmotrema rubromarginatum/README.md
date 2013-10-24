@@ -1,5 +1,4 @@
-Parmotrema rubromarginatum Elix & Pooprang SPECIES
-=======
+# Parmotrema rubromarginatum Elix & Pooprang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetoceros elmorei Boyer SPECIES
-=======
+# Chaetoceros elmorei Boyer SPECIES
 
 #### Status
 ACCEPTED

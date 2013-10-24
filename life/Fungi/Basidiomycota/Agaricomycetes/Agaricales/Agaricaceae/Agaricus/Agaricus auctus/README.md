@@ -1,5 +1,4 @@
-Agaricus auctus Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus auctus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

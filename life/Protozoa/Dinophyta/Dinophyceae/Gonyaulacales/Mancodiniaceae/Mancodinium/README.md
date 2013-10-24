@@ -1,5 +1,4 @@
-Mancodinium P. Morgenroth, 1970 GENUS
-=======
+# Mancodinium P. Morgenroth, 1970 GENUS
 
 #### Status
 ACCEPTED

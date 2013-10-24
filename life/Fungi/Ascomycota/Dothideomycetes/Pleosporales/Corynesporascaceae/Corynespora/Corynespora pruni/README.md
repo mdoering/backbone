@@ -1,14 +1,13 @@
-Helminthosporium pruni Berk. & M.A. Curtis, 1875 SPECIES
-=======
+# Corynespora pruni (Berk. & M.A. Curtis) M.B. Ellis, 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Berkeley, Grevillea 3(no. 27): 103 (1875)
+Mycol. Pap. 76: 30 (1960)
 
 #### Original name
 Helminthosporium pruni Berk. & M.A. Curtis, 1875

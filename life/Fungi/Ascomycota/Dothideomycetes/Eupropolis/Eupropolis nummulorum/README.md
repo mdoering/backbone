@@ -1,5 +1,4 @@
-Eupropolis nummulorum Starbäck SPECIES
-=======
+# Eupropolis nummulorum Starbäck SPECIES
 
 #### Status
 ACCEPTED

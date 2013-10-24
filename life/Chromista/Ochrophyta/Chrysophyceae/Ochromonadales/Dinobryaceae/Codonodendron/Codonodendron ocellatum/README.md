@@ -1,5 +1,4 @@
-Codonodendron ocellatum Pascher SPECIES
-=======
+# Codonodendron ocellatum Pascher SPECIES
 
 #### Status
 ACCEPTED

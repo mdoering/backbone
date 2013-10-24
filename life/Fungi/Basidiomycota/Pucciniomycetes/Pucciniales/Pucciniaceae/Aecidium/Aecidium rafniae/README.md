@@ -1,5 +1,4 @@
-Aecidium rafniae MacOwan SPECIES
-=======
+# Aecidium rafniae MacOwan SPECIES
 
 #### Status
 ACCEPTED

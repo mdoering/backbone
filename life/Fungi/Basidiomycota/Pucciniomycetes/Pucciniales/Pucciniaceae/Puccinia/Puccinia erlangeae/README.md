@@ -1,5 +1,4 @@
-Puccinia erlangeae Grove SPECIES
-=======
+# Puccinia erlangeae Grove SPECIES
 
 #### Status
 ACCEPTED

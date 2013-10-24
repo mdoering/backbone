@@ -1,5 +1,4 @@
-Scolecopeltidium costi F. Stevens & Manter SPECIES
-=======
+# Scolecopeltidium costi F. Stevens & Manter SPECIES
 
 #### Status
 ACCEPTED

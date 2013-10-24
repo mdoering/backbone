@@ -1,17 +1,16 @@
-Cercospora caladii var. caladii Cooke VARIETY
-=======
+# Cercospora caladii Cooke, 1879 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Grevillea 95 (1879)
 
 #### Original name
-Cercospora caladii var. caladii Cooke
+Cercospora caladii Cooke, 1879
 
 ### Remarks
 null

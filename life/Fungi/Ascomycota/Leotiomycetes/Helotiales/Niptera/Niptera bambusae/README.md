@@ -1,5 +1,4 @@
-Niptera bambusae (K.S. Thind & H. Singh) M.P. Sharma SPECIES
-=======
+# Niptera bambusae (K.S. Thind & H. Singh) M.P. Sharma SPECIES
 
 #### Status
 ACCEPTED

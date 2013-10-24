@@ -1,5 +1,4 @@
-Phoma nepenthis Cooke & Massee SPECIES
-=======
+# Phoma nepenthis Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

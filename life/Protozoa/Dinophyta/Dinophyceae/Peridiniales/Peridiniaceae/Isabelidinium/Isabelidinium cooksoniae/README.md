@@ -1,5 +1,4 @@
-Isabelidinium cooksoniae (Alberti, 1959) Lentin & Williams SPECIES
-=======
+# Isabelidinium cooksoniae (Alberti, 1959) Lentin & Williams SPECIES
 
 #### Status
 ACCEPTED

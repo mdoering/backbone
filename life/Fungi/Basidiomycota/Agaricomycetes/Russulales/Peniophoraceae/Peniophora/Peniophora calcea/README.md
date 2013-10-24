@@ -1,5 +1,4 @@
-Peniophora calcea Romell SPECIES
-=======
+# Peniophora calcea Romell SPECIES
 
 #### Status
 ACCEPTED

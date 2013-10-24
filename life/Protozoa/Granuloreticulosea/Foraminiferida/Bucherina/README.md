@@ -1,5 +1,4 @@
-Bucherina Bronnimann & Brown, 1955 GENUS
-=======
+# Bucherina Bronnimann & Brown, 1955 GENUS
 
 #### Status
 ACCEPTED

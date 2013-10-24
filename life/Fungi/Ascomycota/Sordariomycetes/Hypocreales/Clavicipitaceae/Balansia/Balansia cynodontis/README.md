@@ -1,5 +1,4 @@
-Balansia cynodontis Syd. SPECIES
-=======
+# Balansia cynodontis Syd. SPECIES
 
 #### Status
 ACCEPTED

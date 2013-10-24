@@ -1,5 +1,4 @@
-Sorosporium afrum Syd. SPECIES
-=======
+# Sorosporium afrum Syd. SPECIES
 
 #### Status
 ACCEPTED

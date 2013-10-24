@@ -1,5 +1,4 @@
-Peziza calicium Pers. SPECIES
-=======
+# Peziza calicium Pers. SPECIES
 
 #### Status
 ACCEPTED

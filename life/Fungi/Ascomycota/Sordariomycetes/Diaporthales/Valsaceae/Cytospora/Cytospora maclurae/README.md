@@ -1,5 +1,4 @@
-Cytospora maclurae Ellis & Barthol. SPECIES
-=======
+# Cytospora maclurae Ellis & Barthol. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chuttecloska athyrma Loeblich & Wicander, 1976 SPECIES
-=======
+# Chuttecloska athyrma Loeblich & Wicander, 1976 SPECIES
 
 #### Status
 ACCEPTED

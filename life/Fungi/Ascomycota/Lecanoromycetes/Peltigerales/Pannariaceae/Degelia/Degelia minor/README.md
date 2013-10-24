@@ -1,5 +1,4 @@
-Degelia minor Sipman & Aptroot SPECIES
-=======
+# Degelia minor Sipman & Aptroot SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Parmelia meizospora f. meizospora (Nyl.) Nyl. FORM
-=======
+# Bulbothrix meizospora (Nyl.) Hale SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 52: 292 (1869)
+Phytologia 28: 480 (1974)
 
 #### Original name
-Parmelia meizospora f. meizospora (Nyl.) Nyl.
+Parmelia tiliacea var. meizospora Nyl.
 
 ### Remarks
 null

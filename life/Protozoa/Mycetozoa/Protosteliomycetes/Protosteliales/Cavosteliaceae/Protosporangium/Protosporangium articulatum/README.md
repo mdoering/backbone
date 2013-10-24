@@ -1,5 +1,4 @@
-Protosporangium articulatum L.S. Olive & Stoian., 1972 SPECIES
-=======
+# Protosporangium articulatum L.S. Olive & Stoian., 1972 SPECIES
 
 #### Status
 ACCEPTED

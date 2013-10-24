@@ -1,5 +1,4 @@
-Phyllachora stewartii Negru & Popescu, 1966 SPECIES
-=======
+# Phyllachora stewartii Negru & Popescu, 1966 SPECIES
 
 #### Status
 DOUBTFUL

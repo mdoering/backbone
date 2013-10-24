@@ -1,17 +1,16 @@
-Fechtneria Velen. GENUS
-=======
+# Hymenogaster Vittadini, 1831 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Novitates Mycologicae 171 (1939)
+Monogr. Tuberac. (Milano) 30 (1831)
 
 #### Original name
-Fechtneria Velen.
+Hymenogaster Vittadini, 1831
 
 ### Remarks
 null

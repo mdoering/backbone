@@ -1,5 +1,4 @@
-Dothidites dryadum (Ettingsh.) Mesch. SPECIES
-=======
+# Dothidites dryadum (Ettingsh.) Mesch. SPECIES
 
 #### Status
 ACCEPTED

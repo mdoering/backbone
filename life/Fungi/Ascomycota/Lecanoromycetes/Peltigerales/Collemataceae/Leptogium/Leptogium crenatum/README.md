@@ -1,5 +1,4 @@
-Leptogium crenatum (Nyl.) Vain. SPECIES
-=======
+# Leptogium crenatum (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

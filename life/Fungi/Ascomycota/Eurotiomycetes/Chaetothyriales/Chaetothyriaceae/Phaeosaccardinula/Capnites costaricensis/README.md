@@ -1,5 +1,4 @@
-Capnites costaricensis (Speg.) Theiss. SPECIES
-=======
+# Capnites costaricensis (Speg.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

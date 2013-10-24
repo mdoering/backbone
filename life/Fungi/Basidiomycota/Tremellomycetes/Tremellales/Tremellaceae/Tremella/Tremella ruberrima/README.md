@@ -1,5 +1,4 @@
-Tremella ruberrima Wulfen SPECIES
-=======
+# Tremella ruberrima Wulfen SPECIES
 
 #### Status
 ACCEPTED

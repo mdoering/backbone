@@ -1,5 +1,4 @@
-Pseudocercospora gotoana (Togashi) Deighton SPECIES
-=======
+# Pseudocercospora gotoana (Togashi) Deighton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudolachnea coronata (I. Hino & Katum.) B. Sutton SPECIES
-=======
+# Pseudolachnea coronata (I. Hino & Katum.) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

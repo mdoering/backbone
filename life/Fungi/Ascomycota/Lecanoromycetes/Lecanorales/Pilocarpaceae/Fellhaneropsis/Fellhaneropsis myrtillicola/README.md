@@ -1,17 +1,16 @@
-Bacidia myrtillicola f. myrtillicola FORM
-=======
+# Fellhaneropsis myrtillicola (Erichsen) Sérus. & Coppins SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Sérusiaux, Lichenologist 28(3): 199 (1996)
 
 #### Original name
-Bacidia myrtillicola f. myrtillicola
+Bacidia myrtillicola Erichsen
 
 ### Remarks
 null

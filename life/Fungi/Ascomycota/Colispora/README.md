@@ -1,5 +1,4 @@
-Colispora Marvanová GENUS
-=======
+# Colispora Marvanová GENUS
 
 #### Status
 ACCEPTED

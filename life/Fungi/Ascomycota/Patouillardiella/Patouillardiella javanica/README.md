@@ -1,5 +1,4 @@
-Patouillardiella javanica Penz. & Sacc. SPECIES
-=======
+# Patouillardiella javanica Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

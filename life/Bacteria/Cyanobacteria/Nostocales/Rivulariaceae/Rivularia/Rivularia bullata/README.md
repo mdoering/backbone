@@ -1,5 +1,4 @@
-Rivularia bullata (Poir) Berkeley ex Bornet & Flahault SPECIES
-=======
+# Rivularia bullata (Poir) Berkeley ex Bornet & Flahault SPECIES
 
 #### Status
 ACCEPTED

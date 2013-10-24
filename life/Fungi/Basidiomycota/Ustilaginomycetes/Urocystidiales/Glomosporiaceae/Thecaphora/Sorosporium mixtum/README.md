@@ -1,5 +1,4 @@
-Sorosporium mixtum (Massee) McAlpine SPECIES
-=======
+# Sorosporium mixtum (Massee) McAlpine SPECIES
 
 #### Status
 ACCEPTED

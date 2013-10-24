@@ -1,5 +1,4 @@
-Fusidium leonuri Thüm. SPECIES
-=======
+# Fusidium leonuri Thüm. SPECIES
 
 #### Status
 ACCEPTED

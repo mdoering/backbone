@@ -1,5 +1,4 @@
-Hypocelis GENUS
-=======
+# Hypocelis GENUS
 
 #### Status
 ACCEPTED

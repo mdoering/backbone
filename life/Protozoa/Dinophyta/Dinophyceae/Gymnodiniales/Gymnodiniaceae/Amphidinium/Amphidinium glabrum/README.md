@@ -1,5 +1,4 @@
-Amphidinium glabrum M. Hoppenrath & Y. B. Okolodkov SPECIES
-=======
+# Amphidinium glabrum M. Hoppenrath & Y. B. Okolodkov SPECIES
 
 #### Status
 ACCEPTED

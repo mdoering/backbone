@@ -1,5 +1,4 @@
-Stachylidium pallidum Dewi {?} SPECIES
-=======
+# Stachylidium pallidum Dewi {?} SPECIES
 
 #### Status
 ACCEPTED

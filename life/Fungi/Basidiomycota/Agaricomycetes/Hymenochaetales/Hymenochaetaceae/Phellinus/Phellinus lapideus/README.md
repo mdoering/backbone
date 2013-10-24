@@ -1,5 +1,4 @@
-Phellinus lapideus Corner SPECIES
-=======
+# Phellinus lapideus Corner SPECIES
 
 #### Status
 ACCEPTED

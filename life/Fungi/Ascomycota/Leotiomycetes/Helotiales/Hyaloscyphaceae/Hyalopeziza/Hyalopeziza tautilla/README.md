@@ -1,5 +1,4 @@
-Hyalopeziza tautilla (W. Phillips & Harkn.) Dennis SPECIES
-=======
+# Hyalopeziza tautilla (W. Phillips & Harkn.) Dennis SPECIES
 
 #### Status
 ACCEPTED

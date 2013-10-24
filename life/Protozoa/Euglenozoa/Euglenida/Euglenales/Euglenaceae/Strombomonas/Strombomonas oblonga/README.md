@@ -1,5 +1,4 @@
-Strombomonas oblonga V. Conforti & G.-J. Joo SPECIES
-=======
+# Strombomonas oblonga V. Conforti & G.-J. Joo SPECIES
 
 #### Status
 ACCEPTED

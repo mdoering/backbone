@@ -1,5 +1,4 @@
-Hannaea R.M.Patrick, 1966 GENUS
-=======
+# Hannaea R.M.Patrick, 1966 GENUS
 
 #### Status
 ACCEPTED

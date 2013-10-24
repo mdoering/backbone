@@ -1,5 +1,4 @@
-Cladonia pleurophylla Vain. SPECIES
-=======
+# Cladonia pleurophylla Vain. SPECIES
 
 #### Status
 ACCEPTED

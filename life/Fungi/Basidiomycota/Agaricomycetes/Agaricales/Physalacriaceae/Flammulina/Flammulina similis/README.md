@@ -1,5 +1,4 @@
-Flammulina similis E. Horak SPECIES
-=======
+# Flammulina similis E. Horak SPECIES
 
 #### Status
 ACCEPTED

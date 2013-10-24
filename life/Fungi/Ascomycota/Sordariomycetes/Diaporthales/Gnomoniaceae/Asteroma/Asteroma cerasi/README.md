@@ -1,5 +1,4 @@
-Asteroma cerasi Cooke SPECIES
-=======
+# Asteroma cerasi Cooke SPECIES
 
 #### Status
 ACCEPTED

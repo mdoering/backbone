@@ -1,5 +1,4 @@
-Rhizomorphites Göpp. GENUS
-=======
+# Rhizomorphites Göpp. GENUS
 
 #### Status
 ACCEPTED

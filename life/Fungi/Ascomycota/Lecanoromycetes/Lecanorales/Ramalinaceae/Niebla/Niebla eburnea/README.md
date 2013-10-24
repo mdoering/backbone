@@ -1,5 +1,4 @@
-Niebla eburnea Spjut SPECIES
-=======
+# Niebla eburnea Spjut SPECIES
 
 #### Status
 ACCEPTED

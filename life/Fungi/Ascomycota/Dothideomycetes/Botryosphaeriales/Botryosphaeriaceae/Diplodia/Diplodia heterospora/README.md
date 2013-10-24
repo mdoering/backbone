@@ -1,5 +1,4 @@
-Diplodia heterospora Syd. & P. Syd. SPECIES
-=======
+# Diplodia heterospora Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

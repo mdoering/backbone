@@ -1,5 +1,4 @@
-Sporidesmium litseae M.S. Patil & Sawant SPECIES
-=======
+# Sporidesmium litseae M.S. Patil & Sawant SPECIES
 
 #### Status
 ACCEPTED

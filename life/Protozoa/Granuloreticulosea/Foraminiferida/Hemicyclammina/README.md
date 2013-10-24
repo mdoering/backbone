@@ -1,5 +1,4 @@
-Hemicyclammina Maync, 1953 GENUS
-=======
+# Hemicyclammina Maync, 1953 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidia fiumensis Zahlbr. SPECIES
-=======
+# Bacidia fiumensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

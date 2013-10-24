@@ -1,5 +1,4 @@
-Tulostoma nanum (Pat.) J.E. Wright SPECIES
-=======
+# Tulostoma nanum (Pat.) J.E. Wright SPECIES
 
 #### Status
 ACCEPTED

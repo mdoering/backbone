@@ -1,5 +1,4 @@
-Bovista hungarica Hollós SPECIES
-=======
+# Bovista hungarica Hollós SPECIES
 
 #### Status
 ACCEPTED

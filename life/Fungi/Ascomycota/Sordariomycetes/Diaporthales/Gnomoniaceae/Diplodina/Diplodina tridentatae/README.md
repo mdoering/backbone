@@ -1,5 +1,4 @@
-Diplodina tridentatae W.B. Cooke & C.G. Shaw SPECIES
-=======
+# Diplodina tridentatae W.B. Cooke & C.G. Shaw SPECIES
 
 #### Status
 ACCEPTED

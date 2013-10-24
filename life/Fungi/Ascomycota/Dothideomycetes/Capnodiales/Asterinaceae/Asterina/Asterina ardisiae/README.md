@@ -1,5 +1,4 @@
-Asterina ardisiae Hansf. SPECIES
-=======
+# Asterina ardisiae Hansf. SPECIES
 
 #### Status
 ACCEPTED

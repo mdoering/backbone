@@ -1,5 +1,4 @@
-Lentinellus lineolatus R.H. Petersen SPECIES
-=======
+# Lentinellus lineolatus R.H. Petersen SPECIES
 
 #### Status
 ACCEPTED

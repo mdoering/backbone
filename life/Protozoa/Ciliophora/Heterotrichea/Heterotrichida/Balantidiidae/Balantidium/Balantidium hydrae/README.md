@@ -1,5 +1,4 @@
-Balantidium hydrae Entz, 1912 SPECIES
-=======
+# Balantidium hydrae Entz, 1912 SPECIES
 
 #### Status
 ACCEPTED

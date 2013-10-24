@@ -1,17 +1,16 @@
-Rhodophyllus colensoi f. afer Romagn. & Gilles FORM
-=======
+# Entoloma colensoi G. Stev., 1962 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beih. Nova Hedwigia 59: 512 (1979)
+Kew Bull. 16(2): 229 (1962)
 
 #### Original name
-Rhodophyllus colensoi f. afer Romagn. & Gilles
+Entoloma colensoi G. Stev., 1962
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Mycena luteolorufescens P. Karst. SPECIES
-=======
+# Mycena luteolorufescens P. Karst. SPECIES
 
 #### Status
 ACCEPTED

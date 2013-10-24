@@ -1,5 +1,4 @@
-Stylosphaerella Haeckel, 1887 GENUS
-=======
+# Stylosphaerella Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

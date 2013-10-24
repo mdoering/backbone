@@ -1,5 +1,4 @@
-Paraplectogyra Okimura, 1958 GENUS
-=======
+# Paraplectogyra Okimura, 1958 GENUS
 
 #### Status
 ACCEPTED

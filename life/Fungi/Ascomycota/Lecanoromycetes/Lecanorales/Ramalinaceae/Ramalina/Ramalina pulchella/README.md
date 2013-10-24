@@ -1,5 +1,4 @@
-Ramalina pulchella B. de Lesd. SPECIES
-=======
+# Ramalina pulchella B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melanobasidium GENUS
-=======
+# Melanobasidium GENUS
 
 #### Status
 ACCEPTED

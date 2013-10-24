@@ -1,17 +1,16 @@
-Phyllocarbon yasudai Lloyd SPECIES
-=======
+# Phyllocarbon yasudae Lloyd SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycol. Writ. 6: (1921)
 
 #### Original name
-Phyllocarbon yasudai Lloyd
+Phyllocarbon yasudae Lloyd
 
 ### Remarks
 null

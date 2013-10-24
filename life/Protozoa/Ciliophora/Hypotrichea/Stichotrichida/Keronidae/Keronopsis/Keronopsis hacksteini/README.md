@@ -1,5 +1,4 @@
-Keronopsis hacksteini Foissner ß SPECIES
-=======
+# Keronopsis hacksteini Foissner ß SPECIES
 
 #### Status
 ACCEPTED

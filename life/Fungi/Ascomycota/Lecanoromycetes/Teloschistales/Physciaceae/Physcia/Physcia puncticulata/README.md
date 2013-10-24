@@ -1,5 +1,4 @@
-Physcia puncticulata SPECIES
-=======
+# Physcia puncticulata SPECIES
 
 #### Status
 ACCEPTED

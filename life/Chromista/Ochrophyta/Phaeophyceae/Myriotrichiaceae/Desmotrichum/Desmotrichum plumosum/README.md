@@ -1,5 +1,4 @@
-Desmotrichum plumosum Kützing SPECIES
-=======
+# Desmotrichum plumosum Kützing SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza vinosobrunnea Berk. & Broome SPECIES
-=======
+# Peziza vinosobrunnea Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

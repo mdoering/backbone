@@ -1,5 +1,4 @@
-Asteroma crataegi var. crataegi VARIETY
-=======
+# Asteroma crataegi (Pers.) Berk. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Smith's English Flora, Fungi 5-2: 32 (intro. ) (1836)
 
 #### Original name
-Asteroma crataegi var. crataegi
+Actinonema crataegi Pers.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Entoloma melaniceps (Cooke & Massee) Sacc. SPECIES
-=======
+# Entoloma melaniceps (Cooke & Massee) Sacc. SPECIES
 
 #### Status
 ACCEPTED

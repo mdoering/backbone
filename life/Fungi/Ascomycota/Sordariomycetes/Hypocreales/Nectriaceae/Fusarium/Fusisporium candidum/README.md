@@ -1,5 +1,4 @@
-Fusisporium candidum Link SPECIES
-=======
+# Fusisporium candidum Link SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola singeri Petr. SPECIES
-=======
+# Meliola singeri Petr. SPECIES
 
 #### Status
 ACCEPTED

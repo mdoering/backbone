@@ -1,5 +1,4 @@
-Psathyrella lubrica A.H. Sm. SPECIES
-=======
+# Psathyrella lubrica A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

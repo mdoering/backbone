@@ -1,5 +1,4 @@
-Psilocistella conicola (Velen.) Svrcek, 1979 SPECIES
-=======
+# Psilocistella conicola (Velen.) Svrcek, 1979 SPECIES
 
 #### Status
 ACCEPTED

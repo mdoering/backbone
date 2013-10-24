@@ -1,5 +1,4 @@
-Desulfofustis glycolicus Friedrich et al., 1996 SPECIES
-=======
+# Desulfofustis glycolicus Friedrich et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

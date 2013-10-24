@@ -1,5 +1,4 @@
-Omphalina sphagnophila (Peck) H.E. Bigelow SPECIES
-=======
+# Omphalina sphagnophila (Peck) H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laboulbenia ragazzii Speg. SPECIES
-=======
+# Laboulbenia ragazzii Speg. SPECIES
 
 #### Status
 ACCEPTED

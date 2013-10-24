@@ -1,8 +1,7 @@
-Acineta paratuberosa Nie & Ho, 1943 SPECIES
-=======
+# Periacineta paratuberosa (Nie & Ho, 1943) Dovgal, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

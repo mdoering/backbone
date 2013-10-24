@@ -1,17 +1,16 @@
-Icmadophila aeruginosa f. aeruginosa FORM
-=======
+# Icmadophila ericetorum (L.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Wiss. Mittellung. Bosnien und der Hercegov. 3: 605 (1895)
 
 #### Original name
-null
+Lichen ericetorum L.
 
 ### Remarks
 null

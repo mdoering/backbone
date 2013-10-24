@@ -1,5 +1,4 @@
-Navifusa indianensis Loeblich & Tappan, 1978 SPECIES
-=======
+# Navifusa indianensis Loeblich & Tappan, 1978 SPECIES
 
 #### Status
 ACCEPTED

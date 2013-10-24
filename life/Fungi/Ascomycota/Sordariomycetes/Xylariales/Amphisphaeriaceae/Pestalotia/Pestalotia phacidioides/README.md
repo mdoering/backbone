@@ -1,5 +1,4 @@
-Pestalotia phacidioides Ces. SPECIES
-=======
+# Pestalotia phacidioides Ces. SPECIES
 
 #### Status
 ACCEPTED

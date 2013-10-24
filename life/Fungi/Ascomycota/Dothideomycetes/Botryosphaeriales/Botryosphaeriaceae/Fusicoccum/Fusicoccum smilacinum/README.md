@@ -1,17 +1,16 @@
-Phoma smilacina (Peck) Sacc., 1884 SPECIES
-=======
+# Fusicoccum smilacinum (Peck) Vanev, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 3: 160 (1884)
+Mycol. Pap. 159: 207 (1988)
 
 #### Original name
-Sphaeropsis smilacina Peck, 1883
+Ascochyta smilacina Sacc.
 
 ### Remarks
 null

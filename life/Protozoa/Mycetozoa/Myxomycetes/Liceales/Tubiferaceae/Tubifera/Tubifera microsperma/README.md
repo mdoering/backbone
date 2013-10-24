@@ -1,17 +1,16 @@
-Tubifera ferruginosa stipitata (Berk. & Ravenel ex Rostaf.) Torrend, 1908 INFRASPECIFIC_NAME
-=======
+# Tubifera microsperma (Berk. & M.A. Curtis) G.W. Martin, 1947 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 39(4): 461 (1947)
 
 #### Original name
-null
+Licea microsperma Berk. & M.A. Curtis, 1873
 
 ### Remarks
 null

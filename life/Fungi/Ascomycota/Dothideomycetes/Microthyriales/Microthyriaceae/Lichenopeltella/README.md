@@ -1,17 +1,16 @@
-Micropeltopsis Vain. GENUS
-=======
+# Lichenopeltella von Höhnel, 1919 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Acta Soc. Fauna Flora fenn. 49(2): 218, 262 (1921)
+null
 
 #### Original name
-Micropeltopsis Vain.
+null
 
 ### Remarks
 null

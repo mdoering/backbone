@@ -1,5 +1,4 @@
-Septoria taxa Speg. SPECIES
-=======
+# Septoria taxa Speg. SPECIES
 
 #### Status
 ACCEPTED

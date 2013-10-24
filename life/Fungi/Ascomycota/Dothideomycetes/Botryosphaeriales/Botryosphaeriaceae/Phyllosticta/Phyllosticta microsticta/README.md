@@ -1,5 +1,4 @@
-Phyllosticta microsticta Durieu & Mont. SPECIES
-=======
+# Phyllosticta microsticta Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

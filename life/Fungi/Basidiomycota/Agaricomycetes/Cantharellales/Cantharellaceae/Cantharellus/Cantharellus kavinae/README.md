@@ -1,5 +1,4 @@
-Cantharellus kavinae Velen. SPECIES
-=======
+# Cantharellus kavinae Velen. SPECIES
 
 #### Status
 ACCEPTED

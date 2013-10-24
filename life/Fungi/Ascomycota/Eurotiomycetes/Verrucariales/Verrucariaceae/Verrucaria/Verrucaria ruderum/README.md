@@ -1,8 +1,7 @@
-Amphoridium ruderum (DC.) Servít SPECIES
-=======
+# Verrucaria ruderum DC. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Verrucaria ruderum DC.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Delicatula dorotheae (G. Stev.) E. Horak SPECIES
-=======
+# Delicatula dorotheae (G. Stev.) E. Horak SPECIES
 
 #### Status
 ACCEPTED

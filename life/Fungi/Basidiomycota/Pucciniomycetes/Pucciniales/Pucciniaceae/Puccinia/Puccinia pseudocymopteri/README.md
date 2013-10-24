@@ -1,5 +1,4 @@
-Puccinia pseudocymopteri Holw. SPECIES
-=======
+# Puccinia pseudocymopteri Holw. SPECIES
 
 #### Status
 ACCEPTED

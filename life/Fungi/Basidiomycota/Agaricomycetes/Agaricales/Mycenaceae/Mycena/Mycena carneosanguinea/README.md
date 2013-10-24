@@ -1,5 +1,4 @@
-Mycena carneosanguinea Rea SPECIES
-=======
+# Mycena carneosanguinea Rea SPECIES
 
 #### Status
 ACCEPTED

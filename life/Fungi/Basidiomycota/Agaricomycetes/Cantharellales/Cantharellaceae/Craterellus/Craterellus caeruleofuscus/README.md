@@ -1,5 +1,4 @@
-Craterellus caeruleofuscus A.H. Sm. SPECIES
-=======
+# Craterellus caeruleofuscus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

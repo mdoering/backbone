@@ -1,5 +1,4 @@
-Eimeria evaginata Dogel', 1948 SPECIES
-=======
+# Eimeria evaginata Dogel', 1948 SPECIES
 
 #### Status
 ACCEPTED

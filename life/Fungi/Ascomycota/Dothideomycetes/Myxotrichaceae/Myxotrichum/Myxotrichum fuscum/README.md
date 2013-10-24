@@ -1,5 +1,4 @@
-Myxotrichum fuscum (Schumach.) Fr. SPECIES
-=======
+# Myxotrichum fuscum (Schumach.) Fr. SPECIES
 
 #### Status
 ACCEPTED

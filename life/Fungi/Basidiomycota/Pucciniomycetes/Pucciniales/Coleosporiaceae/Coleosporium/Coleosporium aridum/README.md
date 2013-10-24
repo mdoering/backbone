@@ -1,5 +1,4 @@
-Coleosporium aridum H.S. Jacks. SPECIES
-=======
+# Coleosporium aridum H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

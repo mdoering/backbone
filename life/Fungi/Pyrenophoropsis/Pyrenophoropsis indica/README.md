@@ -1,5 +1,4 @@
-Pyrenophoropsis indica C. Ramesh SPECIES
-=======
+# Pyrenophoropsis indica C. Ramesh SPECIES
 
 #### Status
 ACCEPTED

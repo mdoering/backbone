@@ -1,5 +1,4 @@
-Godronia rugosa Ellis & Everh. SPECIES
-=======
+# Godronia rugosa Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

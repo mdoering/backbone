@@ -1,5 +1,4 @@
-Lophiostoma barriae (Shoemaker & C.E. Babc.) O.E. Erikss. SPECIES
-=======
+# Lophiostoma barriae (Shoemaker & C.E. Babc.) O.E. Erikss. SPECIES
 
 #### Status
 ACCEPTED

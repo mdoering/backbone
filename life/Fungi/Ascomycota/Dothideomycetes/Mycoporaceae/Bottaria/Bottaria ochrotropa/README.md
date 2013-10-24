@@ -1,5 +1,4 @@
-Bottaria ochrotropa (Nyl.) Vain. SPECIES
-=======
+# Bottaria ochrotropa (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

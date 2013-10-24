@@ -1,5 +1,4 @@
-Corticium botryohypochnoideum Warcup & P.H.B. Talbot, 1962 SPECIES
-=======
+# Corticium botryohypochnoideum Warcup & P.H.B. Talbot, 1962 SPECIES
 
 #### Status
 ACCEPTED

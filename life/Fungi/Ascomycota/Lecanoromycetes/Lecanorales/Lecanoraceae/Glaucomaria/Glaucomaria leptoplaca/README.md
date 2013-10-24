@@ -1,5 +1,4 @@
-Glaucomaria leptoplaca (Nyl.) M. Choisy SPECIES
-=======
+# Glaucomaria leptoplaca (Nyl.) M. Choisy SPECIES
 
 #### Status
 ACCEPTED

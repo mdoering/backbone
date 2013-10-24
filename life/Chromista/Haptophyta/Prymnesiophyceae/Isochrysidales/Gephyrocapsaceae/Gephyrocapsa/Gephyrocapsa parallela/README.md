@@ -1,5 +1,4 @@
-Gephyrocapsa parallela Hay & Beaudry, 1973 SPECIES
-=======
+# Gephyrocapsa parallela Hay & Beaudry, 1973 SPECIES
 
 #### Status
 ACCEPTED

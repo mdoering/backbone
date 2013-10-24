@@ -1,5 +1,4 @@
-Xylomyces foliicola W.B. Kendr. & R.F. Castañeda SPECIES
-=======
+# Xylomyces foliicola W.B. Kendr. & R.F. Castañeda SPECIES
 
 #### Status
 ACCEPTED

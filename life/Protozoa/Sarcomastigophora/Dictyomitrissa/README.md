@@ -1,5 +1,4 @@
-Dictyomitrissa Haeckel, 1887 GENUS
-=======
+# Dictyomitrissa Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

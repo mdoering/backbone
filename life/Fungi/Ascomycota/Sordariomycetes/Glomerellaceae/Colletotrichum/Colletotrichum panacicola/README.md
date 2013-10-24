@@ -1,5 +1,4 @@
-Colletotrichum panacicola Nakata & S. Takim. SPECIES
-=======
+# Colletotrichum panacicola Nakata & S. Takim. SPECIES
 
 #### Status
 ACCEPTED

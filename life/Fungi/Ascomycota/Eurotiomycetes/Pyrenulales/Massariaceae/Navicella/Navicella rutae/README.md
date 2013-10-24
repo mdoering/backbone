@@ -1,5 +1,4 @@
-Navicella rutae (Fabre) Kuntze SPECIES
-=======
+# Navicella rutae (Fabre) Kuntze SPECIES
 
 #### Status
 ACCEPTED

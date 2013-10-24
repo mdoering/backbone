@@ -1,5 +1,4 @@
-Lactarius pudibundus (Scop.) J. Schröt. SPECIES
-=======
+# Lactarius pudibundus (Scop.) J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

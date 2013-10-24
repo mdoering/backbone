@@ -1,5 +1,4 @@
-Stagonopsis lichenis (Vouaux) Keissl. SPECIES
-=======
+# Stagonopsis lichenis (Vouaux) Keissl. SPECIES
 
 #### Status
 ACCEPTED

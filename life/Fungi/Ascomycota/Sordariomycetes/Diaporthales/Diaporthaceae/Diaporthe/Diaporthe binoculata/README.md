@@ -1,5 +1,4 @@
-Diaporthe binoculata var. clethrae Dearn. VARIETY
-=======
+# Diaporthe binoculata (Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Mycologia 16(4): 158 (1924)
+null
 
 #### Original name
-Diaporthe binoculata var. clethrae Dearn.
+Valsa binoculata Ellis
 
 ### Remarks
 null

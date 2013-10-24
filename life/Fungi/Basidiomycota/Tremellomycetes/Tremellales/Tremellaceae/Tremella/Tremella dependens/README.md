@@ -1,5 +1,4 @@
-Tremella dependens Berk. & M.A. Curtis SPECIES
-=======
+# Tremella dependens Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

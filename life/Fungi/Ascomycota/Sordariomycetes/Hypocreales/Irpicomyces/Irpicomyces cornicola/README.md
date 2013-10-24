@@ -1,5 +1,4 @@
-Irpicomyces cornicola T. Watan. SPECIES
-=======
+# Irpicomyces cornicola T. Watan. SPECIES
 
 #### Status
 ACCEPTED

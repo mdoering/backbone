@@ -1,17 +1,16 @@
-Herpothallonomyces Cif. & Tomas. GENUS
-=======
+# Cryptothecia Stirt. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Atti Ist. bot. Univ. Lab. crittog. Pavia, Sér. 5 10(2): 292 (1954)
+Proc. Roy. Philos. Soc. Glasgow 10: 164 (1876)
 
 #### Original name
-Herpothallonomyces Cif. & Tomas.
+Cryptothecia Stirt.
 
 ### Remarks
 null

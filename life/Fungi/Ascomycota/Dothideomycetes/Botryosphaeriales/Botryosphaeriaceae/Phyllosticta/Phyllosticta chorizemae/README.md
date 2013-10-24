@@ -1,5 +1,4 @@
-Phyllosticta chorizemae Henn. SPECIES
-=======
+# Phyllosticta chorizemae Henn. SPECIES
 
 #### Status
 ACCEPTED

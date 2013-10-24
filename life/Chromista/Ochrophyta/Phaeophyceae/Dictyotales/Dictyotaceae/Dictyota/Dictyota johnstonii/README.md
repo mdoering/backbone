@@ -1,5 +1,4 @@
-Dictyota johnstonii Setchell & Gardner SPECIES
-=======
+# Dictyota johnstonii Setchell & Gardner SPECIES
 
 #### Status
 ACCEPTED

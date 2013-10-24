@@ -1,5 +1,4 @@
-Gyrophora umbilicarioides Stein SPECIES
-=======
+# Gyrophora umbilicarioides Stein SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Gliomastix elata C.H. Dickinson, 1968 SPECIES
-=======
+# Acremonium elatum (C.H. Dickinson) W. Gams, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 115: 4 (1968)
+Cephalosporium-artige Schimmelpilze (Stuttgart) 94 (1971)
 
 #### Original name
 Gliomastix elata C.H. Dickinson, 1968

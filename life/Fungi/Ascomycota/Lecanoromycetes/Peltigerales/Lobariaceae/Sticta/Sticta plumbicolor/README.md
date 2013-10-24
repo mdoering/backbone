@@ -1,5 +1,4 @@
-Sticta plumbicolor (Zahlbr.) Zahlbr. SPECIES
-=======
+# Sticta plumbicolor (Zahlbr.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

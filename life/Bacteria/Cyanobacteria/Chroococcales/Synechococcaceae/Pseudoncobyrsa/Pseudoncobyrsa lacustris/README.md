@@ -1,5 +1,4 @@
-Pseudoncobyrsa lacustris (Kirchner) Geitler SPECIES
-=======
+# Pseudoncobyrsa lacustris (Kirchner) Geitler SPECIES
 
 #### Status
 ACCEPTED

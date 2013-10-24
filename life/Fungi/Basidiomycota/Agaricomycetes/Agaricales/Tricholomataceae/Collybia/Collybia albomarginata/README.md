@@ -1,5 +1,4 @@
-Collybia albomarginata Velen. SPECIES
-=======
+# Collybia albomarginata Velen. SPECIES
 
 #### Status
 ACCEPTED

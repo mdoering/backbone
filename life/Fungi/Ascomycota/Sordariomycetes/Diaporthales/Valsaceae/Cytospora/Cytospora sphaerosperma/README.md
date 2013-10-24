@@ -1,5 +1,4 @@
-Cytospora sphaerosperma Westend. SPECIES
-=======
+# Cytospora sphaerosperma Westend. SPECIES
 
 #### Status
 ACCEPTED

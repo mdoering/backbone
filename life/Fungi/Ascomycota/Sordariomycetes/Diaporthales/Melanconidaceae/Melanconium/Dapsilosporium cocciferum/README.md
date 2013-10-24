@@ -1,5 +1,4 @@
-Dapsilosporium cocciferum Corda SPECIES
-=======
+# Dapsilosporium cocciferum Corda SPECIES
 
 #### Status
 ACCEPTED

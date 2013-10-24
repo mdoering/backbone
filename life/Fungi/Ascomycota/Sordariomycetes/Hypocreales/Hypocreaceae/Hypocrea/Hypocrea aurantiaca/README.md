@@ -1,5 +1,4 @@
-Hypocrea aurantiaca Peck, 1887 SPECIES
-=======
+# Hypocrea aurantiaca Peck, 1887 SPECIES
 
 #### Status
 ACCEPTED

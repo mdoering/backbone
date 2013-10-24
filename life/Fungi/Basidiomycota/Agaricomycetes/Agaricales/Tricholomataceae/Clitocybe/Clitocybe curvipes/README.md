@@ -1,5 +1,4 @@
-Clitocybe curvipes Velen. SPECIES
-=======
+# Clitocybe curvipes Velen. SPECIES
 
 #### Status
 ACCEPTED

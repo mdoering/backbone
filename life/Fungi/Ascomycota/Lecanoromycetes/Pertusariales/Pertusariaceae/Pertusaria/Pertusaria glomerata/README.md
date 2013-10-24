@@ -1,17 +1,16 @@
-Pertusaria glomerata f. glomerata FORM
-=======
+# Pertusaria glomerata (Ach.) Schaer. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lich. helv. spicil. 2: 66 (1826)
 
 #### Original name
-Pertusaria glomerata f. glomerata
+Porina glomerata Ach.
 
 ### Remarks
 null

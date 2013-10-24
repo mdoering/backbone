@@ -1,5 +1,4 @@
-Thermaceae da Costa & Rainey, 2002 FAMILY
-=======
+# Thermaceae da Costa & Rainey, 2002 FAMILY
 
 #### Status
 ACCEPTED

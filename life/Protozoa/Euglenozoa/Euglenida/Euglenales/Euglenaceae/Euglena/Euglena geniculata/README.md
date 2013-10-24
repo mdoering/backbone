@@ -1,5 +1,4 @@
-Euglena geniculata var. terricola P.A. Dangeard VARIETY
-=======
+# Euglena geniculata (F. Schmitz) Dujardin SPECIES
 
 #### Status
 ACCEPTED

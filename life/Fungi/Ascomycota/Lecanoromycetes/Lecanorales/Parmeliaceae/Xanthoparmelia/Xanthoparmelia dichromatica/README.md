@@ -1,17 +1,16 @@
-Parmelia dichromatica Hale SPECIES
-=======
+# Xanthoparmelia dichromatica (Hale) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Phytologia 28: 487 (1974)
+null
 
 #### Original name
-Parmelia dichromatica Hale
+null
 
 ### Remarks
 null

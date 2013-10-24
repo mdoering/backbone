@@ -1,5 +1,4 @@
-Albigo detonsa (Fr.) Kuntze SPECIES
-=======
+# Albigo detonsa (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

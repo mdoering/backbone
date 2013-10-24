@@ -1,5 +1,4 @@
-Epidermophyton floccosum var. floccosum VARIETY
-=======
+# Epidermophyton floccosum (Harz) Langeron & Miloch. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Annls Parasit. hum. comp. 8: 495 (1930)
 
 #### Original name
-Epidermophyton floccosum var. floccosum
+Acrothecium floccosum Harz
 
 ### Remarks
 null

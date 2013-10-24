@@ -1,5 +1,4 @@
-Trichonosema pectinatellae E.U. Canning, D. Refardt, C.R. Vossbrinck, B. Okamura & A. Curry SPECIES
-=======
+# Trichonosema pectinatellae E.U. Canning, D. Refardt, C.R. Vossbrinck, B. Okamura & A. Curry SPECIES
 
 #### Status
 ACCEPTED

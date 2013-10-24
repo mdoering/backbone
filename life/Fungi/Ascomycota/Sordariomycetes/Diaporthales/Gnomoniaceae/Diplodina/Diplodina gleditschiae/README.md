@@ -1,5 +1,4 @@
-Diplodina gleditschiae Hollós SPECIES
-=======
+# Diplodina gleditschiae Hollós SPECIES
 
 #### Status
 ACCEPTED

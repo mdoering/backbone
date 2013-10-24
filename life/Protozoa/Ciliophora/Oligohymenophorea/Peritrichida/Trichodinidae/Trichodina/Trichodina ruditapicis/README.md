@@ -1,5 +1,4 @@
-Trichodina ruditapicis Xu, Song & Warren, 2000 SPECIES
-=======
+# Trichodina ruditapicis Xu, Song & Warren, 2000 SPECIES
 
 #### Status
 ACCEPTED

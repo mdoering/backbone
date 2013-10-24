@@ -1,5 +1,4 @@
-Sporidesmium subcaudatum (Cooke) S. Hughes SPECIES
-=======
+# Sporidesmium subcaudatum (Cooke) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

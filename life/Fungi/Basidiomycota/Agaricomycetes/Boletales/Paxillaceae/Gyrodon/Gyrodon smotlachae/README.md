@@ -1,5 +1,4 @@
-Gyrodon smotlachae J. Veselský SPECIES
-=======
+# Gyrodon smotlachae J. Veselský SPECIES
 
 #### Status
 ACCEPTED

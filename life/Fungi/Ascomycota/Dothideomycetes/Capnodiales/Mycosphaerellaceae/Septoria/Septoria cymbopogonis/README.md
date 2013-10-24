@@ -1,5 +1,4 @@
-Septoria cymbopogonis Priest SPECIES
-=======
+# Septoria cymbopogonis Priest SPECIES
 
 #### Status
 ACCEPTED

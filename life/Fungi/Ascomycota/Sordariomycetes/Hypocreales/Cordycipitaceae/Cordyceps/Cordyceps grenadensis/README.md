@@ -1,5 +1,4 @@
-Cordyceps grenadensis Mains SPECIES
-=======
+# Cordyceps grenadensis Mains SPECIES
 
 #### Status
 ACCEPTED

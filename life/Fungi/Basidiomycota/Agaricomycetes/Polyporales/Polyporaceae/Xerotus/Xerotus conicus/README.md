@@ -1,5 +1,4 @@
-Xerotus conicus Speg. SPECIES
-=======
+# Xerotus conicus Speg. SPECIES
 
 #### Status
 ACCEPTED

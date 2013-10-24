@@ -1,5 +1,4 @@
-Bryoria perspinosa (Bystrek) Brodo & D. Hawksw. SPECIES
-=======
+# Bryoria perspinosa (Bystrek) Brodo & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

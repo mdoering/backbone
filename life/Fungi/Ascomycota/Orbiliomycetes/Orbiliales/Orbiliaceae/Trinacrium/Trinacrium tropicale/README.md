@@ -1,5 +1,4 @@
-Trinacrium tropicale Speg. SPECIES
-=======
+# Trinacrium tropicale Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius tetrachroinus Singer SPECIES
-=======
+# Marasmius tetrachroinus Singer SPECIES
 
 #### Status
 ACCEPTED

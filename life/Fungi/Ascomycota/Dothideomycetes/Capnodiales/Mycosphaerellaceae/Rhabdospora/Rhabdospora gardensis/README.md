@@ -1,5 +1,4 @@
-Rhabdospora gardensis Kirschst. SPECIES
-=======
+# Rhabdospora gardensis Kirschst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercidospora cecidiiformans Grube & Hafellner SPECIES
-=======
+# Cercidospora cecidiiformans Grube & Hafellner SPECIES
 
 #### Status
 ACCEPTED

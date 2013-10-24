@@ -1,5 +1,4 @@
-Segestria nigratula (Nyl.) Blomb. & Forssell SPECIES
-=======
+# Segestria nigratula (Nyl.) Blomb. & Forssell SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphitetras canalifera (Brun) De Toni SPECIES
-=======
+# Amphitetras canalifera (Brun) De Toni SPECIES
 
 #### Status
 ACCEPTED

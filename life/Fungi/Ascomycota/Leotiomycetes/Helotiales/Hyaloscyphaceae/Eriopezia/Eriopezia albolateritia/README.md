@@ -1,5 +1,4 @@
-Eriopezia albolateritia Rehm SPECIES
-=======
+# Eriopezia albolateritia Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria acuum Oudem. SPECIES
-=======
+# Septoria acuum Oudem. SPECIES
 
 #### Status
 ACCEPTED

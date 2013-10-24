@@ -1,5 +1,4 @@
-Hydnum puiggarii Speg. SPECIES
-=======
+# Hydnum puiggarii Speg. SPECIES
 
 #### Status
 ACCEPTED

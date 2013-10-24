@@ -1,5 +1,4 @@
-Sargassum integrifolioides Tseng & Lu SPECIES
-=======
+# Sargassum integrifolioides Tseng & Lu SPECIES
 
 #### Status
 ACCEPTED

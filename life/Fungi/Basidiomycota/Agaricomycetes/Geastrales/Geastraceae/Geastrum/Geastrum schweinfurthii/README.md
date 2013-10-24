@@ -1,17 +1,16 @@
-Geaster schweinfurthii Henn. SPECIES
-=======
+# Geastrum schweinfurthii Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bot. Jb. 14: 361 (1891)
 
 #### Original name
-Geaster schweinfurthii Henn.
+Geastrum schweinfurthii Henn.
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Diplodia sarmentorum (Fr.) Fr., 1849 SPECIES
-=======
+# Dothiorella sarmentorum (Fr.) A.J.L. Phillips, A. Alves & J. Luque, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Summa veg. Scand. (Stockholm), Section Post. 417 (1849)
+Mycologia 97(2): 522 (2005)
 
 #### Original name
 Sphaeria sarmentorum Fr., 1818

@@ -1,5 +1,4 @@
-Chiodecton philippinum Vain. SPECIES
-=======
+# Chiodecton philippinum Vain. SPECIES
 
 #### Status
 ACCEPTED

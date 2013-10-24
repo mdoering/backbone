@@ -1,5 +1,4 @@
-Fulgensia cranfieldii S.Y. Kondr. & Kärnefelt SPECIES
-=======
+# Fulgensia cranfieldii S.Y. Kondr. & Kärnefelt SPECIES
 
 #### Status
 ACCEPTED

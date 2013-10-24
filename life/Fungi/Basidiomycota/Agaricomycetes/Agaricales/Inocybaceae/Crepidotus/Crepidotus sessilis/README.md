@@ -1,5 +1,4 @@
-Crepidotus sessilis (Britzelm.) Sacc. SPECIES
-=======
+# Crepidotus sessilis (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endocarpon melanostomum Gaertn., G. Mey. & Scherb. SPECIES
-=======
+# Endocarpon melanostomum Gaertn., G. Mey. & Scherb. SPECIES
 
 #### Status
 ACCEPTED

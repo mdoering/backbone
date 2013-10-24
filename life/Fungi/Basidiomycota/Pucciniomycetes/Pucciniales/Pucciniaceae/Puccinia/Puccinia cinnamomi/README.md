@@ -1,5 +1,4 @@
-Puccinia cinnamomi F.L. Tai SPECIES
-=======
+# Puccinia cinnamomi F.L. Tai SPECIES
 
 #### Status
 ACCEPTED

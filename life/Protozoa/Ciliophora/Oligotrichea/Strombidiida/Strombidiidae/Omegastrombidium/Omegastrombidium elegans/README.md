@@ -1,5 +1,4 @@
-Omegastrombidium elegans (Florentin, 1901) Agatha, 2004 SPECIES
-=======
+# Omegastrombidium elegans (Florentin, 1901) Agatha, 2004 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyclidium oligotrichum Kahl, 1928 SPECIES
-=======
+# Cyclidium oligotrichum Kahl, 1928 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Melampsoropsis empetri (Pers.) Arthur, 1906 SPECIES
-=======
+# Chrysomyxa empetri J. Schröt. ex Cummins, 1956 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 48: 602 (1956)
 
 #### Original name
-null
+Chrysomyxa empetri J. Schröt. ex Cummins, 1956
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Eggerella australis Collins, 1958 SPECIES
-=======
+# Eggerella australis Collins, 1958 SPECIES
 
 #### Status
 ACCEPTED

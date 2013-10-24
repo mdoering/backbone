@@ -1,5 +1,4 @@
-Naucoria harperi Murrill SPECIES
-=======
+# Naucoria harperi Murrill SPECIES
 
 #### Status
 ACCEPTED

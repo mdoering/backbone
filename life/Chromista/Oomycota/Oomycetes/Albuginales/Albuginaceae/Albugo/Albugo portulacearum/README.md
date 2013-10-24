@@ -1,5 +1,4 @@
-Albugo portulacearum (Schltdl.) Kochman & T. Majewski SPECIES
-=======
+# Albugo portulacearum (Schltdl.) Kochman & T. Majewski SPECIES
 
 #### Status
 ACCEPTED

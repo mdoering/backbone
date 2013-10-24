@@ -1,5 +1,4 @@
-Irenopsis aristolochiella Hansf. SPECIES
-=======
+# Irenopsis aristolochiella Hansf. SPECIES
 
 #### Status
 ACCEPTED

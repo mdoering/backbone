@@ -1,5 +1,4 @@
-Ramularia agastaches Sawada SPECIES
-=======
+# Ramularia agastaches Sawada SPECIES
 
 #### Status
 ACCEPTED

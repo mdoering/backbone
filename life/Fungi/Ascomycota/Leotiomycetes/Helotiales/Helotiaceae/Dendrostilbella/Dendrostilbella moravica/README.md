@@ -1,5 +1,4 @@
-Dendrostilbella moravica Petr. SPECIES
-=======
+# Dendrostilbella moravica Petr. SPECIES
 
 #### Status
 ACCEPTED

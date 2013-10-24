@@ -1,5 +1,4 @@
-Lecidea asyndecta Nyl. SPECIES
-=======
+# Lecidea asyndecta Nyl. SPECIES
 
 #### Status
 ACCEPTED

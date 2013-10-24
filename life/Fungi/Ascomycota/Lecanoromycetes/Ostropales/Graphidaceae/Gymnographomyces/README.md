@@ -1,5 +1,4 @@
-Gymnographomyces GENUS
-=======
+# Gymnographomyces GENUS
 
 #### Status
 ACCEPTED

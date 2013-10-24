@@ -1,5 +1,4 @@
-Lecidea lepidastra Tuck. SPECIES
-=======
+# Lecidea lepidastra Tuck. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea nigrovirens Ach. SPECIES
-=======
+# Lecidea nigrovirens Ach. SPECIES
 
 #### Status
 ACCEPTED

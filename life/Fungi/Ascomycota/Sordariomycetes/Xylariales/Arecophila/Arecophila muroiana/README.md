@@ -1,5 +1,4 @@
-Arecophila muroiana (I. Hino & Katum.) You Z. Wang, Aptroot & K.D. Hyde SPECIES
-=======
+# Arecophila muroiana (I. Hino & Katum.) You Z. Wang, Aptroot & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

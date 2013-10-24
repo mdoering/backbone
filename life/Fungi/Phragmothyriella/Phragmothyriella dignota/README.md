@@ -1,5 +1,4 @@
-Phragmothyriella dignota Bat. SPECIES
-=======
+# Phragmothyriella dignota Bat. SPECIES
 
 #### Status
 ACCEPTED

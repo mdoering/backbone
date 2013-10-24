@@ -1,5 +1,4 @@
-Russula papavericolor Reumaux SPECIES
-=======
+# Russula papavericolor Reumaux SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus partitus With. SPECIES
-=======
+# Agaricus partitus With. SPECIES
 
 #### Status
 ACCEPTED

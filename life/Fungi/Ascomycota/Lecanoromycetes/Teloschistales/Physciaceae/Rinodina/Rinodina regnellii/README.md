@@ -1,5 +1,4 @@
-Rinodina regnellii Malme SPECIES
-=======
+# Rinodina regnellii Malme SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pestalozziella yuccae P. Karst. & Har. SPECIES
-=======
+# Pestalozziella yuccae P. Karst. & Har. SPECIES
 
 #### Status
 ACCEPTED

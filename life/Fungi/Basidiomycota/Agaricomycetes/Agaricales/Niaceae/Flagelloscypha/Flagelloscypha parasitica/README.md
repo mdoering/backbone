@@ -1,5 +1,4 @@
-Flagelloscypha parasitica (Berk. & Broome) Agerer SPECIES
-=======
+# Flagelloscypha parasitica (Berk. & Broome) Agerer SPECIES
 
 #### Status
 ACCEPTED

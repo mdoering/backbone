@@ -1,5 +1,4 @@
-Chamaeceras coracicolor (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Chamaeceras coracicolor (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

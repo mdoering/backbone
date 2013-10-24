@@ -1,5 +1,4 @@
-Cantharellus violicolor Corner SPECIES
-=======
+# Cantharellus violicolor Corner SPECIES
 
 #### Status
 ACCEPTED

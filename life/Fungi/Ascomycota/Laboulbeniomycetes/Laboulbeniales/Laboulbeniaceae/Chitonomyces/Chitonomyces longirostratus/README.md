@@ -1,5 +1,4 @@
-Chitonomyces longirostratus Thaxt. SPECIES
-=======
+# Chitonomyces longirostratus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

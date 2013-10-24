@@ -1,5 +1,4 @@
-Paleogloeodinium Bian, Zhang, Zhang, Mao & Yin, 2001 GENUS
-=======
+# Paleogloeodinium Bian, Zhang, Zhang, Mao & Yin, 2001 GENUS
 
 #### Status
 ACCEPTED

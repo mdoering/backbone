@@ -1,5 +1,4 @@
-Botryodiplodia arengae (Sacc.) Petr. & Syd. SPECIES
-=======
+# Botryodiplodia arengae (Sacc.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

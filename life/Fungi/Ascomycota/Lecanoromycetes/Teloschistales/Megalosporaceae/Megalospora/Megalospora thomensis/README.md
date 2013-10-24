@@ -1,5 +1,4 @@
-Megalospora thomensis (Nyl.) Sipman SPECIES
-=======
+# Megalospora thomensis (Nyl.) Sipman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xeromphalina yungensis Singer SPECIES
-=======
+# Xeromphalina yungensis Singer SPECIES
 
 #### Status
 ACCEPTED

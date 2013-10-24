@@ -1,5 +1,4 @@
-Arecophila notabilis K.D. Hyde SPECIES
-=======
+# Arecophila notabilis K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

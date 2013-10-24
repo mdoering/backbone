@@ -1,5 +1,4 @@
-Stereum chartaceum (G. Mey.) Fr. SPECIES
-=======
+# Stereum chartaceum (G. Mey.) Fr. SPECIES
 
 #### Status
 ACCEPTED

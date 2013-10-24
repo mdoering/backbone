@@ -1,5 +1,4 @@
-Phoma polygonati Thüm. SPECIES
-=======
+# Phoma polygonati Thüm. SPECIES
 
 #### Status
 ACCEPTED

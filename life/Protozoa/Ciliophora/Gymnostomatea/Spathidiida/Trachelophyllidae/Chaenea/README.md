@@ -1,5 +1,4 @@
-Chaenea Quennerstedt, 1867 GENUS
-=======
+# Chaenea Quennerstedt, 1867 GENUS
 
 #### Status
 ACCEPTED

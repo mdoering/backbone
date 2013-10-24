@@ -1,5 +1,4 @@
-Lembosia dimorpha Petr. SPECIES
-=======
+# Lembosia dimorpha Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia genuflexa (Müll. Arg.) Stizenb. SPECIES
-=======
+# Arthonia genuflexa (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

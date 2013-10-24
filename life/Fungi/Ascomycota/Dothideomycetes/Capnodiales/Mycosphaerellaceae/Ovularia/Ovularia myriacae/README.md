@@ -1,5 +1,4 @@
-Ovularia myriacae Peck SPECIES
-=======
+# Ovularia myriacae Peck SPECIES
 
 #### Status
 ACCEPTED

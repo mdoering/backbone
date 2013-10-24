@@ -1,5 +1,4 @@
-Gnomonia andropogonis Ellis & Everh. SPECIES
-=======
+# Gnomonia andropogonis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

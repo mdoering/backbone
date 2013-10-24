@@ -1,5 +1,4 @@
-Boedijnopeziza insititia (Berk. & M.A. Curtis) S. Ito & S. Imai SPECIES
-=======
+# Boedijnopeziza insititia (Berk. & M.A. Curtis) S. Ito & S. Imai SPECIES
 
 #### Status
 ACCEPTED

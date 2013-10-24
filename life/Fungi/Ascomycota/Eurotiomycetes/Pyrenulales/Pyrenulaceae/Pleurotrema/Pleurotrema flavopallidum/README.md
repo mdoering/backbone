@@ -1,5 +1,4 @@
-Pleurotrema flavopallidum (Makhija & Patw.) D.D. Awasthi SPECIES
-=======
+# Pleurotrema flavopallidum (Makhija & Patw.) D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

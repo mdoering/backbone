@@ -1,5 +1,4 @@
-Diploschistes klementianus Gyeln. SPECIES
-=======
+# Diploschistes klementianus Gyeln. SPECIES
 
 #### Status
 ACCEPTED

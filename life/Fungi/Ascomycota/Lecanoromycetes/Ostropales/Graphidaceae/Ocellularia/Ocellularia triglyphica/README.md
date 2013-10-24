@@ -1,5 +1,4 @@
-Ocellularia triglyphica (Kremp.) Zahlbr. SPECIES
-=======
+# Ocellularia triglyphica (Kremp.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

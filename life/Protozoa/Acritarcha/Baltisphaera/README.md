@@ -1,5 +1,4 @@
-Baltisphaera G.Burman GENUS
-=======
+# Baltisphaera G.Burman GENUS
 
 #### Status
 ACCEPTED

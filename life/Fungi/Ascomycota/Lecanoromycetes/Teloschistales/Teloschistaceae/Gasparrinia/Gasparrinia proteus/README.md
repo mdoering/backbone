@@ -1,5 +1,4 @@
-Gasparrinia proteus (Poelt) Oxner SPECIES
-=======
+# Gasparrinia proteus (Poelt) Oxner SPECIES
 
 #### Status
 ACCEPTED

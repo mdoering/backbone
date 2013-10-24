@@ -1,5 +1,4 @@
-Parmotrema pseudobreviciliatum Adler, Elix & Hale SPECIES
-=======
+# Parmotrema pseudobreviciliatum Adler, Elix & Hale SPECIES
 
 #### Status
 ACCEPTED

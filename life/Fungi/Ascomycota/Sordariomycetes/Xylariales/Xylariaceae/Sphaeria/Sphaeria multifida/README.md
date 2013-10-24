@@ -1,5 +1,4 @@
-Sphaeria multifida Kunze SPECIES
-=======
+# Sphaeria multifida Kunze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cytospora gordoniae Berk. & M.A. Curtis SPECIES
-=======
+# Cytospora gordoniae Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

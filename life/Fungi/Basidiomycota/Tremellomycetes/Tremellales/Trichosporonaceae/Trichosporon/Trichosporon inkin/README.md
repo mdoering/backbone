@@ -1,14 +1,13 @@
-Sarcinosporon inkin (Oho) D.S. King & S.C. Jong, 1975 SPECIES
-=======
+# Trichosporon inkin (Oho) Carmo Souza & Uden, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 3(1): 93 (1975)
+Mycologia 59(4): 653 (1967)
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Ophryoscolex quadricornatus Dogiel, 1927 SPECIES
-=======
+# Ophryoscolex quadricornatus Dogiel, 1927 SPECIES
 
 #### Status
 ACCEPTED

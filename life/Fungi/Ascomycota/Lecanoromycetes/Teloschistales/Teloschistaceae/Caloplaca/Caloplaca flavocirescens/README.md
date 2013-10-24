@@ -1,5 +1,4 @@
-Caloplaca flavocirescens SPECIES
-=======
+# Caloplaca flavocirescens SPECIES
 
 #### Status
 ACCEPTED

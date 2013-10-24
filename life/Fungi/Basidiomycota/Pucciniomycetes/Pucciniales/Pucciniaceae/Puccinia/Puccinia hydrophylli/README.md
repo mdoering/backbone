@@ -1,5 +1,4 @@
-Puccinia hydrophylli Peck & Clinton SPECIES
-=======
+# Puccinia hydrophylli Peck & Clinton SPECIES
 
 #### Status
 ACCEPTED

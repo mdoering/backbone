@@ -1,5 +1,4 @@
-Pseudononion auricula SPECIES
-=======
+# Pseudononion auricula SPECIES
 
 #### Status
 ACCEPTED

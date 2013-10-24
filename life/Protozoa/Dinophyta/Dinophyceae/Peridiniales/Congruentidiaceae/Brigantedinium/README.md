@@ -1,5 +1,4 @@
-Brigantedinium P.C. Reid, 1977 GENUS
-=======
+# Brigantedinium P.C. Reid, 1977 GENUS
 
 #### Status
 ACCEPTED

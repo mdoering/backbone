@@ -1,5 +1,4 @@
-Fusobacterium simiae Slots & Potts, 1982 SPECIES
-=======
+# Fusobacterium simiae Slots & Potts, 1982 SPECIES
 
 #### Status
 ACCEPTED

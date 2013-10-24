@@ -1,5 +1,4 @@
-Bacillus nealsonii Venkateswaran et al., 2003 SPECIES
-=======
+# Bacillus nealsonii Venkateswaran et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

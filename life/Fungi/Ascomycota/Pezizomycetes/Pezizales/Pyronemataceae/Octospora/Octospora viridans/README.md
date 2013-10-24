@@ -1,5 +1,4 @@
-Octospora viridans Hedw. SPECIES
-=======
+# Octospora viridans Hedw. SPECIES
 
 #### Status
 ACCEPTED

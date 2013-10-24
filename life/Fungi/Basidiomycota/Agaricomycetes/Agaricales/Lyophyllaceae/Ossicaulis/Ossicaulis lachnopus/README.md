@@ -1,14 +1,13 @@
-Agaricus fimbriatus var. lachnopus (Fr.) Fr., 1838 VARIETY
-=======
+# Ossicaulis lachnopus (Fr.) Contu, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Epicr. syst. mycol. (Upsaliae) 131 (1838)
+Bollettino dell'Associazione Micologica ed Ecologica Romana 15(no. 48): 7 (2000)
 
 #### Original name
 Agaricus lachnopus Fr., 1815

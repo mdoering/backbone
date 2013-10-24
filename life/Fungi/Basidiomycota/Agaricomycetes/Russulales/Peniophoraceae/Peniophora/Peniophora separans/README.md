@@ -1,5 +1,4 @@
-Peniophora separans Burt, 1926 SPECIES
-=======
+# Peniophora separans Burt, 1926 SPECIES
 
 #### Status
 ACCEPTED

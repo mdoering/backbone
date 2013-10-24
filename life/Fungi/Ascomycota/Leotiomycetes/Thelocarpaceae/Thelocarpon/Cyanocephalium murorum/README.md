@@ -1,5 +1,4 @@
-Cyanocephalium murorum Zukal SPECIES
-=======
+# Cyanocephalium murorum Zukal SPECIES
 
 #### Status
 ACCEPTED

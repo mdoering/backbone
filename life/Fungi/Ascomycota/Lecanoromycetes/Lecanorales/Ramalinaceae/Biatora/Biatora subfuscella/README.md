@@ -1,5 +1,4 @@
-Biatora subfuscella (Arnold) Zahlbr. SPECIES
-=======
+# Biatora subfuscella (Arnold) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

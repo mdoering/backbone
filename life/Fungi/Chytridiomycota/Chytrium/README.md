@@ -1,5 +1,4 @@
-Chytrium GENUS
-=======
+# Chytrium GENUS
 
 #### Status
 ACCEPTED

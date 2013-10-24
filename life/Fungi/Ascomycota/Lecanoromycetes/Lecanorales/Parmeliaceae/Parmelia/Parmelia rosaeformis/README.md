@@ -1,5 +1,4 @@
-Parmelia rosaeformis f. rosaeformis FORM
-=======
+# Parmelia rosaeformis (Ach.) Gyeln. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia rosaeformis f. rosaeformis
+Parmelia saxatilis var. rosiformis Ach.
 
 ### Remarks
 null

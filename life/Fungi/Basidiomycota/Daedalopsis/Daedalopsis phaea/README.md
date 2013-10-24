@@ -1,5 +1,4 @@
-Daedalopsis phaea Imaz. SPECIES
-=======
+# Daedalopsis phaea Imaz. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psilocybe subcaerulipes Hongo SPECIES
-=======
+# Psilocybe subcaerulipes Hongo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Saprolegnia richteri P.G. Richt. ex R.L. Seym. SPECIES
-=======
+# Saprolegnia richteri P.G. Richt. ex R.L. Seym. SPECIES
 
 #### Status
 ACCEPTED

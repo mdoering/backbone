@@ -1,5 +1,4 @@
-Hydnellum cyanellum K.A. Harrison SPECIES
-=======
+# Hydnellum cyanellum K.A. Harrison SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodinula corni (Cooke) Tassi SPECIES
-=======
+# Diplodinula corni (Cooke) Tassi SPECIES
 
 #### Status
 ACCEPTED

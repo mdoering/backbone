@@ -1,5 +1,4 @@
-Oospora macrotricha (Corda) Sacc. & Voglino SPECIES
-=======
+# Oospora macrotricha (Corda) Sacc. & Voglino SPECIES
 
 #### Status
 ACCEPTED

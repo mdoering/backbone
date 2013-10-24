@@ -1,5 +1,4 @@
-Endocarpon perumbratum (Nyl.) Hue SPECIES
-=======
+# Endocarpon perumbratum (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

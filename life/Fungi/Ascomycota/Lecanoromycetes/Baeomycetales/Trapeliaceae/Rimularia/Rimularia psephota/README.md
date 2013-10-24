@@ -1,5 +1,4 @@
-Rimularia psephota (Tuck.) Hertel & Rambold SPECIES
-=======
+# Rimularia psephota (Tuck.) Hertel & Rambold SPECIES
 
 #### Status
 ACCEPTED

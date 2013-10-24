@@ -1,5 +1,4 @@
-Samuelsia rufobrunnea Chaverri & K.T. Hodge, 2008 SPECIES
-=======
+# Samuelsia rufobrunnea Chaverri & K.T. Hodge, 2008 SPECIES
 
 #### Status
 ACCEPTED

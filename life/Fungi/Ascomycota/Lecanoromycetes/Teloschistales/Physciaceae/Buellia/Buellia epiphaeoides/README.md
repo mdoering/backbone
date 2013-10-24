@@ -1,5 +1,4 @@
-Buellia epiphaeoides Vain. SPECIES
-=======
+# Buellia epiphaeoides Vain. SPECIES
 
 #### Status
 ACCEPTED

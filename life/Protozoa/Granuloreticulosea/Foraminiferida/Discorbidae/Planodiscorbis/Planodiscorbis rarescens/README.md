@@ -1,5 +1,4 @@
-Planodiscorbis rarescens SPECIES
-=======
+# Planodiscorbis rarescens SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Platystomum xerophilum Speg. SPECIES
-=======
+# Platystomum xerophilum Speg. SPECIES
 
 #### Status
 ACCEPTED

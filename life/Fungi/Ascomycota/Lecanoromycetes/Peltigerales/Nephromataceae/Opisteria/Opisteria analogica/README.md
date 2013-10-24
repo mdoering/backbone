@@ -1,5 +1,4 @@
-Opisteria analogica (Nyl.) Vain. SPECIES
-=======
+# Opisteria analogica (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

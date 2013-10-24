@@ -1,5 +1,4 @@
-Caloplaca aliciae S.Y. Kondr., Kärnefelt & Elix SPECIES
-=======
+# Caloplaca aliciae S.Y. Kondr., Kärnefelt & Elix SPECIES
 
 #### Status
 ACCEPTED

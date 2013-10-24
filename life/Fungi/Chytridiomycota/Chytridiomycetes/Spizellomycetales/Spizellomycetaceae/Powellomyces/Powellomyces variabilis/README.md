@@ -1,5 +1,4 @@
-Powellomyces variabilis Longcore, D.J.S. Barr & Désauln., 1995 SPECIES
-=======
+# Powellomyces variabilis Longcore, D.J.S. Barr & Désauln., 1995 SPECIES
 
 #### Status
 ACCEPTED

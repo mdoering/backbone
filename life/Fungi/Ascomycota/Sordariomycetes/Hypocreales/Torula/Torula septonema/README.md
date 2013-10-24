@@ -1,5 +1,4 @@
-Torula septonema Preuss SPECIES
-=======
+# Torula septonema Preuss SPECIES
 
 #### Status
 ACCEPTED

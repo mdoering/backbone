@@ -1,5 +1,4 @@
-Exobasidium sawadae G. Yamada SPECIES
-=======
+# Exobasidium sawadae G. Yamada SPECIES
 
 #### Status
 ACCEPTED

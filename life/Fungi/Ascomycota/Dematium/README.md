@@ -1,11 +1,10 @@
-Blepharia (Pers.) Ainsw. & Bisby GENUS
-=======
+# Dematium Persoon, 1801 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
 null

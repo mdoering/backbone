@@ -1,5 +1,4 @@
-Dermocybe electrinus Britzelm. SPECIES
-=======
+# Dermocybe electrinus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

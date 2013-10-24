@@ -1,5 +1,4 @@
-Dicaeoma medellinense (Mayor) Arthur SPECIES
-=======
+# Dicaeoma medellinense (Mayor) Arthur SPECIES
 
 #### Status
 ACCEPTED

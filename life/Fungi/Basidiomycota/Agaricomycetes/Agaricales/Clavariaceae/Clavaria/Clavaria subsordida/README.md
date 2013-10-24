@@ -1,5 +1,4 @@
-Clavaria subsordida R.H. Petersen, 1988 SPECIES
-=======
+# Clavaria subsordida R.H. Petersen, 1988 SPECIES
 
 #### Status
 ACCEPTED

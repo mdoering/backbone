@@ -1,5 +1,4 @@
-Leptosphaeria protousneae Etayo, 2008 SPECIES
-=======
+# Leptosphaeria protousneae Etayo, 2008 SPECIES
 
 #### Status
 ACCEPTED

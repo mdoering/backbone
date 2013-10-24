@@ -1,5 +1,4 @@
-Pleurophragmium triseptatum Matsush. SPECIES
-=======
+# Pleurophragmium triseptatum Matsush. SPECIES
 
 #### Status
 ACCEPTED

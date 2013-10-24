@@ -1,5 +1,4 @@
-Armillaria melleorubens (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Armillaria melleorubens (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

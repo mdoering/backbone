@@ -1,5 +1,4 @@
-Gymnopilus trailii (Berk. & Cooke) Singer SPECIES
-=======
+# Gymnopilus trailii (Berk. & Cooke) Singer SPECIES
 
 #### Status
 ACCEPTED

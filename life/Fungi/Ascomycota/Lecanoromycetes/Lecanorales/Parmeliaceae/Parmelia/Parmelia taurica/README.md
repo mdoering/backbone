@@ -1,5 +1,4 @@
-Parmelia taurica f. taurica FORM
-=======
+# Parmelia taurica Mereschk. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Lich. Ross. no. 7 (1913)
 
 #### Original name
-Parmelia taurica f. taurica
+Parmelia taurica Mereschk.
 
 ### Remarks
 null

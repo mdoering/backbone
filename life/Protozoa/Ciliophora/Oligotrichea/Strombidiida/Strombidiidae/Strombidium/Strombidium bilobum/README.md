@@ -1,5 +1,4 @@
-Strombidium bilobum Lynn & Gilron, 1993 SPECIES
-=======
+# Strombidium bilobum Lynn & Gilron, 1993 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calicium sachalinense M. Satô SPECIES
-=======
+# Calicium sachalinense M. Satô SPECIES
 
 #### Status
 ACCEPTED

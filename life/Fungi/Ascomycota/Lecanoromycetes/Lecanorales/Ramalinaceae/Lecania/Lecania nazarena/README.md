@@ -1,5 +1,4 @@
-Lecania nazarena Müll. Arg. SPECIES
-=======
+# Lecania nazarena Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

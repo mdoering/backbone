@@ -1,5 +1,4 @@
-Lepiota rubrosquamosa Rick SPECIES
-=======
+# Lepiota rubrosquamosa Rick SPECIES
 
 #### Status
 ACCEPTED

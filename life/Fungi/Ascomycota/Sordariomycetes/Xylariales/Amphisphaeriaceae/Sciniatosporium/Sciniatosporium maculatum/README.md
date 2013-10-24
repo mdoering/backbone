@@ -1,5 +1,4 @@
-Sciniatosporium maculatum (Cooke) Morgan-Jones SPECIES
-=======
+# Sciniatosporium maculatum (Cooke) Morgan-Jones SPECIES
 
 #### Status
 ACCEPTED

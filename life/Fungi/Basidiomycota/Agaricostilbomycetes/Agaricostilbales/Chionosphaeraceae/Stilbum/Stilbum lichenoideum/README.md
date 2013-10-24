@@ -1,5 +1,4 @@
-Stilbum lichenoideum Berk. & M.A. Curtis SPECIES
-=======
+# Stilbum lichenoideum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Opasterinella tonduzi Speg. SPECIES
-=======
+# Opasterinella tonduzii Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Opasterinella tonduzi Speg.
+Opasterinella tonduzii Speg.
 
 ### Remarks
 null

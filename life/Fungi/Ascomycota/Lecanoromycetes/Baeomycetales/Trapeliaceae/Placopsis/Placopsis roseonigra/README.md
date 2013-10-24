@@ -1,5 +1,4 @@
-Placopsis roseonigra Brodo SPECIES
-=======
+# Placopsis roseonigra Brodo SPECIES
 
 #### Status
 ACCEPTED

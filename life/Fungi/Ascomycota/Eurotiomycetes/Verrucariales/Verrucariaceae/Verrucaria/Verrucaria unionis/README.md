@@ -1,5 +1,4 @@
-Verrucaria unionis Schaer. SPECIES
-=======
+# Verrucaria unionis Schaer. SPECIES
 
 #### Status
 ACCEPTED

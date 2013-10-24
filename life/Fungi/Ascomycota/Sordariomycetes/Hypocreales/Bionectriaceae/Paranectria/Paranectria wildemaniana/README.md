@@ -1,5 +1,4 @@
-Paranectria wildemaniana Henn. SPECIES
-=======
+# Paranectria wildemaniana Henn. SPECIES
 
 #### Status
 ACCEPTED

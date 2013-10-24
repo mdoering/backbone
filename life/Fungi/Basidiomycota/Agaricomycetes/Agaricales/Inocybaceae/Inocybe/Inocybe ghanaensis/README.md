@@ -1,5 +1,4 @@
-Inocybe ghanaensis Pegler SPECIES
-=======
+# Inocybe ghanaensis Pegler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Piliferosphaera echinata E. D. Pöthe de Baldis SPECIES
-=======
+# Piliferosphaera echinata E. D. Pöthe de Baldis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius becolacongoli De Kesel SPECIES
-=======
+# Marasmius becolacongoli De Kesel SPECIES
 
 #### Status
 ACCEPTED

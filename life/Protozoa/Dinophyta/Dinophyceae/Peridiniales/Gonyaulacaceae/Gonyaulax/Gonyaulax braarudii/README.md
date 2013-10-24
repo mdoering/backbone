@@ -1,5 +1,4 @@
-Gonyaulax braarudii Hasle SPECIES
-=======
+# Gonyaulax braarudii Hasle SPECIES
 
 #### Status
 ACCEPTED

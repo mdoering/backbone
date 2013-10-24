@@ -1,5 +1,4 @@
-Institale elata Kalchbr. SPECIES
-=======
+# Institale elata Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

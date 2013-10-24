@@ -1,5 +1,4 @@
-Lecidea skottsbergii H. Magn. SPECIES
-=======
+# Lecidea skottsbergii H. Magn. SPECIES
 
 #### Status
 ACCEPTED

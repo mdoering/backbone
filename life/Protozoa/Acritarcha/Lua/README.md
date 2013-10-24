@@ -1,5 +1,4 @@
-Lua F. Martin & L.-M. Yin, 1988 GENUS
-=======
+# Lua F. Martin & L.-M. Yin, 1988 GENUS
 
 #### Status
 ACCEPTED

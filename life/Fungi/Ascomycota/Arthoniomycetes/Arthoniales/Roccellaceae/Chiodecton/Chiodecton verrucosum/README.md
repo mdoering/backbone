@@ -1,5 +1,4 @@
-Chiodecton verrucosum (A. Massal.) Zahlbr. SPECIES
-=======
+# Chiodecton verrucosum (A. Massal.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

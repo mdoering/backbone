@@ -1,5 +1,4 @@
-Hypoxylon geasteroides (Ellis & Everh.) P.M.D. Martin SPECIES
-=======
+# Hypoxylon geasteroides (Ellis & Everh.) P.M.D. Martin SPECIES
 
 #### Status
 ACCEPTED

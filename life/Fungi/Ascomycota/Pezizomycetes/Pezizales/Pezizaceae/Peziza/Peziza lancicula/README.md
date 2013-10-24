@@ -1,5 +1,4 @@
-Peziza lancicula Rebent. SPECIES
-=======
+# Peziza lancicula Rebent. SPECIES
 
 #### Status
 ACCEPTED

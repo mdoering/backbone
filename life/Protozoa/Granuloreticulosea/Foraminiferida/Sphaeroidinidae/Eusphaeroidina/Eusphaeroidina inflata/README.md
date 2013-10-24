@@ -1,5 +1,4 @@
-Eusphaeroidina inflata Ujiie, 1990 SPECIES
-=======
+# Eusphaeroidina inflata Ujiie, 1990 SPECIES
 
 #### Status
 ACCEPTED

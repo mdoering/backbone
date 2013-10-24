@@ -1,17 +1,16 @@
-Phacorhiza Pers. GENUS
-=======
+# Typhula (Persoon) E.M. Fries, 1818 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Mycol. eur. (Erlanga) 1: 192 (1822)
+null
 
 #### Original name
-Phacorhiza Pers.
+null
 
 ### Remarks
 null

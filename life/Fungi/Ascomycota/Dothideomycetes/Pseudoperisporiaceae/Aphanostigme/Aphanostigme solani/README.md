@@ -1,5 +1,4 @@
-Aphanostigme solani Syd., 1926 SPECIES
-=======
+# Aphanostigme solani Syd., 1926 SPECIES
 
 #### Status
 ACCEPTED

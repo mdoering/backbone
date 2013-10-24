@@ -1,5 +1,4 @@
-Leucoagaricus pepinus Heinem. SPECIES
-=======
+# Leucoagaricus pepinus Heinem. SPECIES
 
 #### Status
 ACCEPTED

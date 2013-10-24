@@ -1,5 +1,4 @@
-Xylaria cristata Speg. SPECIES
-=======
+# Xylaria cristata Speg. SPECIES
 
 #### Status
 ACCEPTED

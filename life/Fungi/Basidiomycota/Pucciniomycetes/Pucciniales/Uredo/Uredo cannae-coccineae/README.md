@@ -1,5 +1,4 @@
-Uredo cannae-coccineae J.M. Yen SPECIES
-=======
+# Uredo cannae-coccineae J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

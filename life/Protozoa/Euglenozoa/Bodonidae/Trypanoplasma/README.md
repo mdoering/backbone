@@ -1,5 +1,4 @@
-Trypanoplasma Laveran & Mesnil, 1901 GENUS
-=======
+# Trypanoplasma Laveran & Mesnil, 1901 GENUS
 
 #### Status
 ACCEPTED

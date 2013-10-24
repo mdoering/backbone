@@ -1,8 +1,7 @@
-Tillina inequalis Maskell, 1886 SPECIES
-=======
+# Colpidium colpoda (Losana, 1829) Ganner & Foissner, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

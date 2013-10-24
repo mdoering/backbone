@@ -1,5 +1,4 @@
-Helotium graminum Velen. SPECIES
-=======
+# Helotium graminum Velen. SPECIES
 
 #### Status
 ACCEPTED

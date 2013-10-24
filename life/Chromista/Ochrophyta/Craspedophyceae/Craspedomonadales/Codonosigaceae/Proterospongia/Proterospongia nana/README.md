@@ -1,5 +1,4 @@
-Proterospongia nana (Braarud, 1935) Throndsen, 1974 SPECIES
-=======
+# Proterospongia nana (Braarud, 1935) Throndsen, 1974 SPECIES
 
 #### Status
 ACCEPTED

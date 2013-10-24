@@ -1,5 +1,4 @@
-Microporus triqueter (Fr.) Kuntze SPECIES
-=======
+# Microporus triqueter (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

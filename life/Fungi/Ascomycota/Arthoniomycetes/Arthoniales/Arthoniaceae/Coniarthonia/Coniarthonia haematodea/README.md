@@ -1,5 +1,4 @@
-Coniarthonia haematodea Grube SPECIES
-=======
+# Coniarthonia haematodea Grube SPECIES
 
 #### Status
 ACCEPTED

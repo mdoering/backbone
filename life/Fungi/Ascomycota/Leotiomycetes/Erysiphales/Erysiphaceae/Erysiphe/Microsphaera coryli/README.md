@@ -1,5 +1,4 @@
-Microsphaera coryli (Jacz.) Golovin SPECIES
-=======
+# Microsphaera coryli (Jacz.) Golovin SPECIES
 
 #### Status
 ACCEPTED

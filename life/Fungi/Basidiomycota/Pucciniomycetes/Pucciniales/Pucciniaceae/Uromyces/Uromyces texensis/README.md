@@ -1,5 +1,4 @@
-Uromyces texensis Holw. & Farl. SPECIES
-=======
+# Uromyces texensis Holw. & Farl. SPECIES
 
 #### Status
 ACCEPTED

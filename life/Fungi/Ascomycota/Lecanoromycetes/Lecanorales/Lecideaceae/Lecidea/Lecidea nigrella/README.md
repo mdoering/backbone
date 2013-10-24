@@ -1,5 +1,4 @@
-Lecidea nigrella A. Massal. SPECIES
-=======
+# Lecidea nigrella A. Massal. SPECIES
 
 #### Status
 ACCEPTED

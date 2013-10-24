@@ -1,5 +1,4 @@
-Haplodothis singularis (Henn.) Höhn. SPECIES
-=======
+# Haplodothis singularis (Henn.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

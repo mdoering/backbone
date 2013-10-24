@@ -1,5 +1,4 @@
-Hymenula socia Sacc. SPECIES
-=======
+# Hymenula socia Sacc. SPECIES
 
 #### Status
 ACCEPTED

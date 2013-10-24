@@ -1,5 +1,4 @@
-Holosticha stagnatilis Stokes, 1891 SPECIES
-=======
+# Holosticha stagnatilis Stokes, 1891 SPECIES
 
 #### Status
 ACCEPTED

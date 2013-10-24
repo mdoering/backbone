@@ -1,5 +1,4 @@
-Hirsutella floccosa Speare SPECIES
-=======
+# Hirsutella floccosa Speare SPECIES
 
 #### Status
 ACCEPTED

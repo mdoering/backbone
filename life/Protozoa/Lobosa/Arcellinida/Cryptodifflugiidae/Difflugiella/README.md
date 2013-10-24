@@ -1,5 +1,4 @@
-Difflugiella Cash, 1904 GENUS
-=======
+# Difflugiella Cash, 1904 GENUS
 
 #### Status
 ACCEPTED

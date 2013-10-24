@@ -1,5 +1,4 @@
-Marasmius viegasii Singer SPECIES
-=======
+# Marasmius viegasii Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Patellaria deplanata Müll. Arg. SPECIES
-=======
+# Patellaria deplanata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

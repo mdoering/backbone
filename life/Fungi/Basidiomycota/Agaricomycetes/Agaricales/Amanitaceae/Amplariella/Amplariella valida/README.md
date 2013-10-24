@@ -1,5 +1,4 @@
-Amplariella valida f. valida (Fr.) E.-J. Gilbert FORM
-=======
+# Amplariella valida (Fr.) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Amplariella valida f. valida (Fr.) E.-J. Gilbert
+Amanita valida Fr.
 
 ### Remarks
 null

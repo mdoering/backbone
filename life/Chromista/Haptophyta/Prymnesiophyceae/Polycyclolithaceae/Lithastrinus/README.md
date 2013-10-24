@@ -1,5 +1,4 @@
-Lithastrinus Stradner, 1962 GENUS
-=======
+# Lithastrinus Stradner, 1962 GENUS
 
 #### Status
 ACCEPTED

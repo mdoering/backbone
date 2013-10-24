@@ -1,5 +1,4 @@
-Buellia groenlandica Vain. SPECIES
-=======
+# Buellia groenlandica Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Humicola globosa De Bert. SPECIES
-=======
+# Humicola globosa De Bert. SPECIES
 
 #### Status
 ACCEPTED

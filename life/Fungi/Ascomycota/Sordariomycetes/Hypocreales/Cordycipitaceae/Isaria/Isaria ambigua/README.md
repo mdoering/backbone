@@ -1,5 +1,4 @@
-Isaria ambigua P. Karst. SPECIES
-=======
+# Isaria ambigua P. Karst. SPECIES
 
 #### Status
 ACCEPTED

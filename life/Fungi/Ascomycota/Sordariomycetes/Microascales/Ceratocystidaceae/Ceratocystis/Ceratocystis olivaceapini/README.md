@@ -1,5 +1,4 @@
-Ceratocystis olivaceapini R.W. Davidson SPECIES
-=======
+# Ceratocystis olivaceapini R.W. Davidson SPECIES
 
 #### Status
 ACCEPTED

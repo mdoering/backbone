@@ -1,5 +1,4 @@
-Bacidia phaeomela (Nyl.) Zahlbr. SPECIES
-=======
+# Bacidia phaeomela (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

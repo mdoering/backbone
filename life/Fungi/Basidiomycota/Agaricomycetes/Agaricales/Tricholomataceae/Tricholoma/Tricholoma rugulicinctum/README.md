@@ -1,5 +1,4 @@
-Tricholoma rugulicinctum Corner SPECIES
-=======
+# Tricholoma rugulicinctum Corner SPECIES
 
 #### Status
 ACCEPTED

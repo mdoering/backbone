@@ -1,5 +1,4 @@
-Bolliella Banner & Blow, 1959 GENUS
-=======
+# Bolliella Banner & Blow, 1959 GENUS
 
 #### Status
 ACCEPTED

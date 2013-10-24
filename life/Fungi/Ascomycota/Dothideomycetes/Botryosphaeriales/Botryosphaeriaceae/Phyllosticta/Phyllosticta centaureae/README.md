@@ -1,5 +1,4 @@
-Phyllosticta centaureae Siemaszko SPECIES
-=======
+# Phyllosticta centaureae Siemaszko SPECIES
 
 #### Status
 ACCEPTED

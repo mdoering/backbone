@@ -1,5 +1,4 @@
-Phragmidium guatemalense Cummins SPECIES
-=======
+# Phragmidium guatemalense Cummins SPECIES
 
 #### Status
 ACCEPTED

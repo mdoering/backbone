@@ -1,5 +1,4 @@
-Claudopus fimbriatus Ricken SPECIES
-=======
+# Claudopus fimbriatus Ricken SPECIES
 
 #### Status
 ACCEPTED

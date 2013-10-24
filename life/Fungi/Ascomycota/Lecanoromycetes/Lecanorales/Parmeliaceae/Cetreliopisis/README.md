@@ -1,5 +1,4 @@
-Cetreliopisis GENUS
-=======
+# Cetreliopisis GENUS
 
 #### Status
 ACCEPTED

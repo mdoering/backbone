@@ -1,17 +1,16 @@
-Neoplacosphaeria Petr. GENUS
-=======
+# Sphaeriothyrium Bubák GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 19(1/2): 74 (1921)
+Ber. dt. bot. Ges. 34: 299 (1916)
 
 #### Original name
-Neoplacosphaeria Petr.
+Sphaeriothyrium Bubák
 
 ### Remarks
 null

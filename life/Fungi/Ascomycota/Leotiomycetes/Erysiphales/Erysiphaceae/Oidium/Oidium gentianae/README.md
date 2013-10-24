@@ -1,5 +1,4 @@
-Oidium gentianae Guyot SPECIES
-=======
+# Oidium gentianae Guyot SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Hemileiopsis Racib. GENUS
-=======
+# Hemileia Berk. & Broome GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Parasit. Alg. Pilze Java's (Jakarta) 1: 25 (1900)
+Gard. Chron. , 1869 1157 (1869)
 
 #### Original name
-Hemileiopsis Racib.
+Hemileia Berk. & Broome
 
 ### Remarks
 null

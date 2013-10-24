@@ -1,11 +1,10 @@
-Massartia ruppiae Conrad SPECIES
-=======
+# Katodinium ruppiae (Conrad) Loeblich SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

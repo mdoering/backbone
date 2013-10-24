@@ -1,5 +1,4 @@
-Triposporium cambrense S. Hughes SPECIES
-=======
+# Triposporium cambrense S. Hughes SPECIES
 
 #### Status
 ACCEPTED

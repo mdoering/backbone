@@ -1,5 +1,4 @@
-Botrytis schweinitzii Sacc. SPECIES
-=======
+# Botrytis schweinitzii Sacc. SPECIES
 
 #### Status
 ACCEPTED

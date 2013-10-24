@@ -1,5 +1,4 @@
-Fasciata S.F. Gray, 1821 GENUS
-=======
+# Fasciata S.F. Gray, 1821 GENUS
 
 #### Status
 ACCEPTED

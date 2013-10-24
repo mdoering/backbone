@@ -1,5 +1,4 @@
-Armillaria subannulata Peck SPECIES
-=======
+# Armillaria subannulata Peck SPECIES
 
 #### Status
 ACCEPTED

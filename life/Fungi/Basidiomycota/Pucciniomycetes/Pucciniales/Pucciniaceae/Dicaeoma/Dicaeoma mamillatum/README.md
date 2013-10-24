@@ -1,5 +1,4 @@
-Dicaeoma mamillatum (J. Schröt.) Kuntze SPECIES
-=======
+# Dicaeoma mamillatum (J. Schröt.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

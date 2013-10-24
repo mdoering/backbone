@@ -1,5 +1,4 @@
-Physcia dissidens (Nyl.) Arnold SPECIES
-=======
+# Physcia dissidens (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

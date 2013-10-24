@@ -1,5 +1,4 @@
-Puccinia phaceliae P. Syd., Syd. & Holw. SPECIES
-=======
+# Puccinia phaceliae P. Syd., Syd. & Holw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Lambertella pachysandra Dumont & Korf SPECIES
-=======
+# Lambertella pachysandrae Dumont & Korf SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mem. N. Y. bot. Gdn 22(1): 106 (1971)
 
 #### Original name
-Lambertella pachysandra Dumont & Korf
+Lambertella pachysandrae Dumont & Korf
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Octospora hirta Hedw. SPECIES
-=======
+# Octospora hirta Hedw. SPECIES
 
 #### Status
 ACCEPTED

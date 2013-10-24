@@ -1,14 +1,13 @@
-Athelopsis fusoidea (Jülich) Tellería, 1995 SPECIES
-=======
+# Fibulomyces fusoideus Jülich, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Tellería & Melo, Fl. Mycol. Iberica 1: 87 (1995)
+Willdenowia, Beih. 7: 180 (1972)
 
 #### Original name
 Fibulomyces fusoideus Jülich, 1972

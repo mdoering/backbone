@@ -1,5 +1,4 @@
-Botrydiopsis eriensis Snow SPECIES
-=======
+# Botrydiopsis eriensis Snow SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xanthoparmelia coriacea Hale SPECIES
-=======
+# Xanthoparmelia coriacea Hale SPECIES
 
 #### Status
 ACCEPTED

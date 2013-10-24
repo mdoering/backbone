@@ -1,5 +1,4 @@
-Dothidea bigeloviae Ellis & Everh. SPECIES
-=======
+# Dothidea bigeloviae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Verrucaria consobrinum Nyl. SPECIES
-=======
+# Anisomeridium consobrinum (Nyl.) Aptroot SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Aptroot, Diederich, Sérusiaux & Sipman, Biblthca Lichenol. 57: 21 (1995)
 
 #### Original name
-null
+Verrucaria consobrina Nyl.
 
 ### Remarks
 null

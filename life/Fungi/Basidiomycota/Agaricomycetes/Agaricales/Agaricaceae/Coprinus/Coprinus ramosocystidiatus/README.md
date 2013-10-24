@@ -1,5 +1,4 @@
-Coprinus ramosocystidiatus Bender SPECIES
-=======
+# Coprinus ramosocystidiatus Bender SPECIES
 
 #### Status
 ACCEPTED

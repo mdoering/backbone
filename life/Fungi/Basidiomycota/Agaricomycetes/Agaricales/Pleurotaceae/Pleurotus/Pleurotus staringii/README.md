@@ -1,14 +1,13 @@
-Dendrosarcus staringii (Oudem.) Kuntze, 1898 SPECIES
-=======
+# Pleurotus staringii Oudem., 1881 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 464 (1898)
+Hedwigia 20: 183 (1881)
 
 #### Original name
 Pleurotus staringii Oudem., 1881

@@ -1,17 +1,16 @@
-Melampsoropsis chiogenis (Dietel) Arthur, 1906 SPECIES
-=======
+# Chrysomyxa chiogenis Dietel, 1894 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bot. Gaz. 19: 303 (1894)
 
 #### Original name
-null
+Chrysomyxa chiogenis Dietel, 1894
 
 ### Remarks
 null

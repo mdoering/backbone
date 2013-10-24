@@ -1,5 +1,4 @@
-Clitocybe minutella Har. Takah. SPECIES
-=======
+# Clitocybe minutella Har. Takah. SPECIES
 
 #### Status
 ACCEPTED

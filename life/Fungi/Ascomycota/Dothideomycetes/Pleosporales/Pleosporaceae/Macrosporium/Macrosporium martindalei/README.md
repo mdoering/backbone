@@ -1,5 +1,4 @@
-Macrosporium martindalei Ellis & G. Martin SPECIES
-=======
+# Macrosporium martindalei Ellis & G. Martin SPECIES
 
 #### Status
 ACCEPTED

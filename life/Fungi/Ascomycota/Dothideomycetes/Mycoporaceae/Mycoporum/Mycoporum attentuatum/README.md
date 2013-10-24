@@ -1,5 +1,4 @@
-Mycoporum attentuatum SPECIES
-=======
+# Mycoporum attentuatum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia centellae M.M. Chen SPECIES
-=======
+# Puccinia centellae M.M. Chen SPECIES
 
 #### Status
 ACCEPTED

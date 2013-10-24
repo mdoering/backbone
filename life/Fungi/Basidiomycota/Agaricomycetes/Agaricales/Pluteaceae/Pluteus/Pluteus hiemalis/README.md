@@ -1,5 +1,4 @@
-Pluteus hiemalis Singer SPECIES
-=======
+# Pluteus hiemalis Singer SPECIES
 
 #### Status
 ACCEPTED

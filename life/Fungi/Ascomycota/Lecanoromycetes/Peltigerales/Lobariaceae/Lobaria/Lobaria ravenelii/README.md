@@ -1,5 +1,4 @@
-Lobaria ravenelii (Tuck.) Yoshim. SPECIES
-=======
+# Lobaria ravenelii (Tuck.) Yoshim. SPECIES
 
 #### Status
 ACCEPTED

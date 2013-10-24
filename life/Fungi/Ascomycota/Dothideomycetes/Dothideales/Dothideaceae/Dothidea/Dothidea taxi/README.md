@@ -1,5 +1,4 @@
-Dothidea taxi Woron. SPECIES
-=======
+# Dothidea taxi Woron. SPECIES
 
 #### Status
 ACCEPTED

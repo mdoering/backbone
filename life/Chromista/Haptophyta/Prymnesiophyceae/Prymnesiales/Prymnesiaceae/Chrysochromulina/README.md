@@ -1,5 +1,4 @@
-Chrysochromulina Lackey, 1939 GENUS
-=======
+# Chrysochromulina Lackey, 1939 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calocera sphaerobasis Berk. SPECIES
-=======
+# Calocera sphaerobasis Berk. SPECIES
 
 #### Status
 ACCEPTED

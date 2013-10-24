@@ -1,5 +1,4 @@
-Agaricus chacoensis Heinem. SPECIES
-=======
+# Agaricus chacoensis Heinem. SPECIES
 
 #### Status
 ACCEPTED

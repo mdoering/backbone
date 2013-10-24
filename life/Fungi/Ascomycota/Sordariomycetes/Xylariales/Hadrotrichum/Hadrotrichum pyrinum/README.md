@@ -1,5 +1,4 @@
-Hadrotrichum pyrinum (Peglion) Sacc. SPECIES
-=======
+# Hadrotrichum pyrinum (Peglion) Sacc. SPECIES
 
 #### Status
 ACCEPTED

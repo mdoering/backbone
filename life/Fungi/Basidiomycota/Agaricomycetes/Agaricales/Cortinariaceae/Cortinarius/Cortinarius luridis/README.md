@@ -1,5 +1,4 @@
-Cortinarius luridis Rob. Henry SPECIES
-=======
+# Cortinarius luridis Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

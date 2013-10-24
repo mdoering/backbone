@@ -1,5 +1,4 @@
-Polyporus hapalus Berk. SPECIES
-=======
+# Polyporus hapalus Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dicaeoma serratulae (Thüm.) Kuntze SPECIES
-=======
+# Dicaeoma serratulae (Thüm.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

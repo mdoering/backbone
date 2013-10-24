@@ -1,8 +1,7 @@
-Polyangium minor (Peterson, 1959) McCurdy, 1970 (Approved Lists, 1980) SPECIES
-=======
+# Haploangium minus SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

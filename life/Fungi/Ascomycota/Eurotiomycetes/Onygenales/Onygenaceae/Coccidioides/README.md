@@ -1,17 +1,16 @@
-Pseudococcidioides O.M. Fonseca GENUS
-=======
+# Coccidioides G.W. Stiles, 1896 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Mazza & Parodi, Bol. Inst. Clín. Quir. Fac. Ci. Méd. Univ. Nac. 4: 495-502 (1928)
+in Rixford & Gilchrist, Rep. Johns Hopkins Hosp. 1: 243 (1896)
 
 #### Original name
-Pseudococcidioides O.M. Fonseca
+Coccidioides G.W. Stiles, 1896
 
 ### Remarks
 null

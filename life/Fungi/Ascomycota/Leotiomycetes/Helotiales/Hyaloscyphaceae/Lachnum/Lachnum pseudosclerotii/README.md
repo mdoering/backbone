@@ -1,5 +1,4 @@
-Lachnum pseudosclerotii Z.H. Yu & W.Y. Zhuang SPECIES
-=======
+# Lachnum pseudosclerotii Z.H. Yu & W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

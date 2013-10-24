@@ -1,5 +1,4 @@
-Inocybe terrigena (Fr.) Kühner SPECIES
-=======
+# Inocybe terrigena (Fr.) Kühner SPECIES
 
 #### Status
 ACCEPTED

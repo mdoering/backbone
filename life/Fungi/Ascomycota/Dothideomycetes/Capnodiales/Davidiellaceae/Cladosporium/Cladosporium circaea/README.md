@@ -1,5 +1,4 @@
-Cladosporium circaea Y. Qin & Z.Y. Zhang, 1999 SPECIES
-=======
+# Cladosporium circaea Y. Qin & Z.Y. Zhang, 1999 SPECIES
 
 #### Status
 ACCEPTED

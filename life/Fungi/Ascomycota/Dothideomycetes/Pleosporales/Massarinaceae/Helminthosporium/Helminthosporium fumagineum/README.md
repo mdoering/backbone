@@ -1,17 +1,16 @@
-Helmisporium fumagineum Sacc. SPECIES
-=======
+# Helminthosporium fumagineum Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Atti Accad. Sci. Ven. -Trent. -Istr. 10: 90 (1917)
 
 #### Original name
-Helmisporium fumagineum Sacc.
+Helminthosporium fumagineum Sacc.
 
 ### Remarks
 null

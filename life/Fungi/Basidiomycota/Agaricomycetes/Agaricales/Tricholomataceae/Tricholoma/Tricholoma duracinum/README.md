@@ -1,5 +1,4 @@
-Tricholoma duracinum (Cooke) Sacc. SPECIES
-=======
+# Tricholoma duracinum (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Umbellula E.F. Morris GENUS
-=======
+# Pseudobotrytis Krzemien. & Badura GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 47: 602 (1955)
+Acta Soc. Bot. Pol. 23: 761 (1954)
 
 #### Original name
-Umbellula E.F. Morris
+Pseudobotrytis Krzemien. & Badura
 
 ### Remarks
 null

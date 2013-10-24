@@ -1,5 +1,4 @@
-Chaetoplaca memecyli Syd. & P. Syd., 1917 SPECIES
-=======
+# Chaetoplaca memecyli Syd. & P. Syd., 1917 SPECIES
 
 #### Status
 ACCEPTED

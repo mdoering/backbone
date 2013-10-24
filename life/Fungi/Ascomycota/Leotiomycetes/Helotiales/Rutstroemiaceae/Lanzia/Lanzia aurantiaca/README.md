@@ -1,5 +1,4 @@
-Lanzia aurantiaca (W.Y. Zhuang) W.Y. Zhuang SPECIES
-=======
+# Lanzia aurantiaca (W.Y. Zhuang) W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

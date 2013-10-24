@@ -1,5 +1,4 @@
-Sphacelotheca catinata Zambett. SPECIES
-=======
+# Sphacelotheca catinata Zambett. SPECIES
 
 #### Status
 ACCEPTED

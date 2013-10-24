@@ -1,5 +1,4 @@
-Paraporpidia aboriginum Rambold SPECIES
-=======
+# Paraporpidia aboriginum Rambold SPECIES
 
 #### Status
 ACCEPTED

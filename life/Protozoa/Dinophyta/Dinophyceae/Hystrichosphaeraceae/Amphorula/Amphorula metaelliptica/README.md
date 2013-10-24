@@ -1,5 +1,4 @@
-Amphorula metaelliptica Dodekova, 1969 SPECIES
-=======
+# Amphorula metaelliptica Dodekova, 1969 SPECIES
 
 #### Status
 ACCEPTED

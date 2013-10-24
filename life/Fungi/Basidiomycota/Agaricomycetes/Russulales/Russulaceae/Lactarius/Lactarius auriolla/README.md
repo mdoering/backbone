@@ -1,5 +1,4 @@
-Lactarius auriolla Kytöv., 1984 SPECIES
-=======
+# Lactarius auriolla Kytöv., 1984 SPECIES
 
 #### Status
 ACCEPTED

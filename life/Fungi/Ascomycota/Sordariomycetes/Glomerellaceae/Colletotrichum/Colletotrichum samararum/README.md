@@ -1,5 +1,4 @@
-Colletotrichum samararum (Allesch.) Petr. SPECIES
-=======
+# Colletotrichum samararum (Allesch.) Petr. SPECIES
 
 #### Status
 ACCEPTED

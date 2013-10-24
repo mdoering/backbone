@@ -1,17 +1,16 @@
-Sarcogyne urceolata Anzi SPECIES
-=======
+# Polysporina urceolata (Anzi) Brodo SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 28(1): 95 (1987)
 
 #### Original name
-null
+Sarcogyne urceolata Anzi
 
 ### Remarks
 null

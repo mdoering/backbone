@@ -1,5 +1,4 @@
-Nectria epicallopisma (Arnaud) Sacc. & D. Sacc., 1905 SPECIES
-=======
+# Nectria epicallopisma (Arnaud) Sacc. & D. Sacc., 1905 SPECIES
 
 #### Status
 ACCEPTED

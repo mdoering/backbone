@@ -1,5 +1,4 @@
-Cercospora stephanandrae Tak. Kobay. & H. Horie SPECIES
-=======
+# Cercospora stephanandrae Tak. Kobay. & H. Horie SPECIES
 
 #### Status
 ACCEPTED

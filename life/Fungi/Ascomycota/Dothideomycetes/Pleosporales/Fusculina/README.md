@@ -1,5 +1,4 @@
-Fusculina Crous & Summerell GENUS
-=======
+# Fusculina Crous & Summerell GENUS
 
 #### Status
 ACCEPTED

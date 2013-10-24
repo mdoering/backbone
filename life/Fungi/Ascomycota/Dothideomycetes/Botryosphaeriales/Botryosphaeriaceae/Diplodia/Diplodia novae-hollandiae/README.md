@@ -1,5 +1,4 @@
-Diplodia novae-hollandiae Speg. SPECIES
-=======
+# Diplodia novae-hollandiae Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xerotus poilanei Pat. SPECIES
-=======
+# Xerotus poilanei Pat. SPECIES
 
 #### Status
 ACCEPTED

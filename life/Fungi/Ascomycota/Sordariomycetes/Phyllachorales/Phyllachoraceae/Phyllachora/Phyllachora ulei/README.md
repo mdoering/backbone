@@ -1,5 +1,4 @@
-Phyllachora ulei G. Winter, 1887 SPECIES
-=======
+# Phyllachora ulei G. Winter, 1887 SPECIES
 
 #### Status
 ACCEPTED

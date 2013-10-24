@@ -1,5 +1,4 @@
-Ophiocordyceps macularis Mains SPECIES
-=======
+# Ophiocordyceps macularis Mains SPECIES
 
 #### Status
 ACCEPTED

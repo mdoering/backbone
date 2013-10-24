@@ -1,5 +1,4 @@
-Laestadia polystigma (Ellis & Everh.) Berl. & Voglino SPECIES
-=======
+# Laestadia polystigma (Ellis & Everh.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

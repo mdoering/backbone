@@ -1,14 +1,13 @@
-Actinobotrys tulasnei Hoffm., 1856 SPECIES
-=======
+# Bremia tulasnei (Hoffm.) Syd., 1923 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Ztg. 14: 154 (1856)
+Annls mycol. 21(3/4): 168 (1923)
 
 #### Original name
 Actinobotrys tulasnei Hoffm., 1856

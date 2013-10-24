@@ -1,17 +1,16 @@
-Umbilicaria proboscidea f. fimbriata (Turner & Borrer) Leight. FORM
-=======
+# Umbilicaria proboscidea (L.) Schrad. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lich. -Fl. Great Brit. 160 (1871)
+Spicil. Fl. Germ. 1: 103 (1794)
 
 #### Original name
-Gyrophora deusta var. fimbriata Turner & Borrer
+Lichen proboscideus L.
 
 ### Remarks
 null

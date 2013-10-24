@@ -1,5 +1,4 @@
-Collema fecundum Degel. SPECIES
-=======
+# Collema fecundum Degel. SPECIES
 
 #### Status
 ACCEPTED

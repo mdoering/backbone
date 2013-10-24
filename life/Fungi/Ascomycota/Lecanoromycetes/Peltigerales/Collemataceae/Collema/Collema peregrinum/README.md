@@ -1,5 +1,4 @@
-Collema peregrinum Degel. SPECIES
-=======
+# Collema peregrinum Degel. SPECIES
 
 #### Status
 ACCEPTED

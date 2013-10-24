@@ -1,5 +1,4 @@
-Lactarius ruvubuensis Verbeken SPECIES
-=======
+# Lactarius ruvubuensis Verbeken SPECIES
 
 #### Status
 ACCEPTED

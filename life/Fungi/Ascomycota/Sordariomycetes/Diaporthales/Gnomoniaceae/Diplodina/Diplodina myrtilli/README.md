@@ -1,5 +1,4 @@
-Diplodina myrtilli (Oudem.) Allesch. SPECIES
-=======
+# Diplodina myrtilli (Oudem.) Allesch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Myrmaecium lophiostomum Hazsl. SPECIES
-=======
+# Myrmaecium lophiostomum Hazsl. SPECIES
 
 #### Status
 ACCEPTED

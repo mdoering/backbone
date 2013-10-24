@@ -1,5 +1,4 @@
-Cortinarius fibulatobtusus Rob. Henry SPECIES
-=======
+# Cortinarius fibulatobtusus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

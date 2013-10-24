@@ -1,5 +1,4 @@
-Bolivina compacta SPECIES
-=======
+# Bolivina compacta SPECIES
 
 #### Status
 ACCEPTED

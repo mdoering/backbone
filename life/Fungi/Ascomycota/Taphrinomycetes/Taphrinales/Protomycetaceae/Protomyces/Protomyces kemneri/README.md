@@ -1,5 +1,4 @@
-Protomyces kemneri Lindf. SPECIES
-=======
+# Protomyces kemneri Lindf. SPECIES
 
 #### Status
 ACCEPTED

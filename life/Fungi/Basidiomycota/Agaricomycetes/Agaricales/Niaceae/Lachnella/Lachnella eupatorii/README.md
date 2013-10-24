@@ -1,5 +1,4 @@
-Lachnella eupatorii (Schwein.) Seaver SPECIES
-=======
+# Lachnella eupatorii (Schwein.) Seaver SPECIES
 
 #### Status
 ACCEPTED

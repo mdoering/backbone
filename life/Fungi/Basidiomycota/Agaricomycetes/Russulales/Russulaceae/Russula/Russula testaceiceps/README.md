@@ -1,5 +1,4 @@
-Russula testaceiceps Murrill SPECIES
-=======
+# Russula testaceiceps Murrill SPECIES
 
 #### Status
 ACCEPTED

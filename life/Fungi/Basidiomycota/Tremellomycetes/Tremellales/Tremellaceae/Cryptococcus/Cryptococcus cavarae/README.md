@@ -1,5 +1,4 @@
-Cryptococcus cavarae Artault SPECIES
-=======
+# Cryptococcus cavarae Artault SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microbotryodiplodia subtectoides (Peck) Zambett. SPECIES
-=======
+# Microbotryodiplodia subtectoides (Peck) Zambett. SPECIES
 
 #### Status
 ACCEPTED

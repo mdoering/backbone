@@ -1,5 +1,4 @@
-Hendersonia caricicola Hollós SPECIES
-=======
+# Hendersonia caricicola Hollós SPECIES
 
 #### Status
 ACCEPTED

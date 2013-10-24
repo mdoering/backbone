@@ -1,5 +1,4 @@
-Calycella terrestris (Boud.) Le Gal, 1938 SPECIES
-=======
+# Calycella terrestris (Boud.) Le Gal, 1938 SPECIES
 
 #### Status
 ACCEPTED

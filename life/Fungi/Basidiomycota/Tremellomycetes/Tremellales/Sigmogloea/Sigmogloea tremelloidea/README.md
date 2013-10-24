@@ -1,5 +1,4 @@
-Sigmogloea tremelloidea Bandoni & J.C. Krug, 2000 SPECIES
-=======
+# Sigmogloea tremelloidea Bandoni & J.C. Krug, 2000 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acantholigotriletes Alyushinskii, Kirichenko & Timofeev, 1957 GENUS
-=======
+# Acantholigotriletes Alyushinskii, Kirichenko & Timofeev, 1957 GENUS
 
 #### Status
 ACCEPTED

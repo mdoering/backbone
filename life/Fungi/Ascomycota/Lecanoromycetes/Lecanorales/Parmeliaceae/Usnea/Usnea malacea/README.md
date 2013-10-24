@@ -1,5 +1,4 @@
-Usnea malacea var. subelegans Zahlbr. VARIETY
-=======
+# Usnea malacea Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Cat. Lich. Univers. 6: 600 (1930)
 
 #### Original name
-Usnea malacea var. subelegans Zahlbr.
+Usnea malacea Zahlbr.
 
 ### Remarks
 null

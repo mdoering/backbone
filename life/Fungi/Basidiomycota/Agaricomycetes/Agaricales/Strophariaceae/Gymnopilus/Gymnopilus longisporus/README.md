@@ -1,5 +1,4 @@
-Gymnopilus longisporus Murrill SPECIES
-=======
+# Gymnopilus longisporus Murrill SPECIES
 
 #### Status
 ACCEPTED

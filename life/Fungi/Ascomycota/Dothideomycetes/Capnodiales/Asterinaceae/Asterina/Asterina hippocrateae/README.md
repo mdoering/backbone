@@ -1,5 +1,4 @@
-Asterina hippocrateae R.W. Ryan SPECIES
-=======
+# Asterina hippocrateae R.W. Ryan SPECIES
 
 #### Status
 ACCEPTED

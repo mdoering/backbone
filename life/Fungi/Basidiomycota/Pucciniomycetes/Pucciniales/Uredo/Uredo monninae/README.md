@@ -1,5 +1,4 @@
-Uredo monninae J.C. Lindq. SPECIES
-=======
+# Uredo monninae J.C. Lindq. SPECIES
 
 #### Status
 ACCEPTED

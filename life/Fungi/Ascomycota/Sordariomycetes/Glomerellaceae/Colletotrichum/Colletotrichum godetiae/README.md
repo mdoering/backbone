@@ -1,5 +1,4 @@
-Colletotrichum godetiae Neerg., 1950 SPECIES
-=======
+# Colletotrichum godetiae Neerg., 1950 SPECIES
 
 #### Status
 ACCEPTED

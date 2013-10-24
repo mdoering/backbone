@@ -1,5 +1,4 @@
-Verrucaria litoralis Leight. SPECIES
-=======
+# Verrucaria litoralis Leight. SPECIES
 
 #### Status
 ACCEPTED

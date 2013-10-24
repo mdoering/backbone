@@ -1,5 +1,4 @@
-Heliscella Marvanová GENUS
-=======
+# Heliscella Marvanová GENUS
 
 #### Status
 ACCEPTED

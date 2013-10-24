@@ -1,5 +1,4 @@
-Tulostoma exasperatosporum J.E. Wright SPECIES
-=======
+# Tulostoma exasperatosporum J.E. Wright SPECIES
 
 #### Status
 ACCEPTED

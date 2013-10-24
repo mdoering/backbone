@@ -1,17 +1,16 @@
-Passalora punctiforme (G. Winter) Poonam Srivast. SPECIES
-=======
+# Passalora punctiformis G.H. Otth SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mitt. naturf. Ges. Bern 67 (1868)
 
 #### Original name
-Fusicladium punctiforme G. Winter
+Passalora punctiformis G.H. Otth
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Ophiobolus lepidolophae Byzova SPECIES
-=======
+# Ophiobolus lepidolophae Byzova SPECIES
 
 #### Status
 ACCEPTED

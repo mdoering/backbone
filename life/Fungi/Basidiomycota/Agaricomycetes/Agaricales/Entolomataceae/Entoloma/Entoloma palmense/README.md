@@ -1,5 +1,4 @@
-Entoloma palmense Wölfel, Noordel. & Dähncke SPECIES
-=======
+# Entoloma palmense Wölfel, Noordel. & Dähncke SPECIES
 
 #### Status
 ACCEPTED

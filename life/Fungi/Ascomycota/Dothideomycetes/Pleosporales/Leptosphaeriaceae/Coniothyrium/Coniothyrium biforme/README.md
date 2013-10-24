@@ -1,5 +1,4 @@
-Coniothyrium biforme G. Winter SPECIES
-=======
+# Coniothyrium biforme G. Winter SPECIES
 
 #### Status
 ACCEPTED

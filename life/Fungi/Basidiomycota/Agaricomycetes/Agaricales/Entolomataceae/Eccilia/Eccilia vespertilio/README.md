@@ -1,5 +1,4 @@
-Eccilia vespertilio (Berk.) Pegler SPECIES
-=======
+# Eccilia vespertilio (Berk.) Pegler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aplosporella insueta Petr. SPECIES
-=======
+# Aplosporella insueta Petr. SPECIES
 
 #### Status
 ACCEPTED

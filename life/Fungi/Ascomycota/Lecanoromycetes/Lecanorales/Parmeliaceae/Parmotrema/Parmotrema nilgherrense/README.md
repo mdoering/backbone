@@ -1,17 +1,16 @@
-Parmelia nilgherrensis var. nilgherrensis VARIETY
-=======
+# Parmotrema nilgherrense (Nyl.) Hale SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 52: 291 (1869)
+Phytologia 28: 338 (1974)
 
 #### Original name
-Parmelia nilgherrensis var. nilgherrensis
+Parmelia nilgherrensis Nyl.
 
 ### Remarks
 null

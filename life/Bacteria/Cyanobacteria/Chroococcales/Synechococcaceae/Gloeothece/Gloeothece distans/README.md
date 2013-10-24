@@ -1,5 +1,4 @@
-Gloeothece distans Stizenberger SPECIES
-=======
+# Gloeothece distans Stizenberger SPECIES
 
 #### Status
 ACCEPTED

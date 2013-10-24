@@ -1,14 +1,13 @@
-Nectriella tenacis (Vouaux) Weese, 1914 SPECIES
-=======
+# Pronectria tenacis (Vouaux) Lowen, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 12: 156 (1914)
+Mycotaxon 39: 462 (1990)
 
 #### Original name
 Pharcidia mammillula f. tenacis Vouaux, 1910

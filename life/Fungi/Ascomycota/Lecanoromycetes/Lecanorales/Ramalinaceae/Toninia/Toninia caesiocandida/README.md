@@ -1,5 +1,4 @@
-Toninia caesiocandida (Nyl.) Th. Fr. SPECIES
-=======
+# Toninia caesiocandida (Nyl.) Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

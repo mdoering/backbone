@@ -1,5 +1,4 @@
-Dictyocha macilenta Deflandre SPECIES
-=======
+# Dictyocha macilenta Deflandre SPECIES
 
 #### Status
 ACCEPTED

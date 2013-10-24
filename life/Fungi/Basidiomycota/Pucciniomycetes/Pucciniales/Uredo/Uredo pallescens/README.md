@@ -1,5 +1,4 @@
-Uredo pallescens Arthur SPECIES
-=======
+# Uredo pallescens Arthur SPECIES
 
 #### Status
 ACCEPTED

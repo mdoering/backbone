@@ -1,5 +1,4 @@
-Hysterium atlantis Maire SPECIES
-=======
+# Hysterium atlantis Maire SPECIES
 
 #### Status
 ACCEPTED

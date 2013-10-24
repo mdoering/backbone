@@ -1,5 +1,4 @@
-Bioscypha Syd. GENUS
-=======
+# Bioscypha Syd. GENUS
 
 #### Status
 ACCEPTED

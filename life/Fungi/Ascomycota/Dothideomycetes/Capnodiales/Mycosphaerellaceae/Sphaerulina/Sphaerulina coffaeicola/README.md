@@ -1,5 +1,4 @@
-Sphaerulina coffaeicola Speg. SPECIES
-=======
+# Sphaerulina coffaeicola Speg. SPECIES
 
 #### Status
 ACCEPTED

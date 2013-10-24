@@ -1,5 +1,4 @@
-Gymnoxyphium malum Bat., Nascim. & Cif., 1963 SPECIES
-=======
+# Gymnoxyphium malum Bat., Nascim. & Cif., 1963 SPECIES
 
 #### Status
 ACCEPTED

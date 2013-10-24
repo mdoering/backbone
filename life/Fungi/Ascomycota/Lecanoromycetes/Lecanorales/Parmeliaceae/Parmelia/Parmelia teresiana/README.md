@@ -1,5 +1,4 @@
-Parmelia teresiana Gyeln. SPECIES
-=======
+# Parmelia teresiana Gyeln. SPECIES
 
 #### Status
 ACCEPTED

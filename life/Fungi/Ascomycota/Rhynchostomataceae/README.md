@@ -1,5 +1,4 @@
-Rhynchostomataceae Winka & O.E. Erikss. FAMILY
-=======
+# Rhynchostomataceae Winka & O.E. Erikss. FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteridium clavisporum Speg. SPECIES
-=======
+# Asteridium clavisporum Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tetracoccosporium aerium P.C. Misra & P. Srivast., 1976 SPECIES
-=======
+# Tetracoccosporium aerium P.C. Misra & P. Srivast., 1976 SPECIES
 
 #### Status
 ACCEPTED

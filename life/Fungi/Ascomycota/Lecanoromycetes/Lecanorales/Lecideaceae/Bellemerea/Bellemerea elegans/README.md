@@ -1,5 +1,4 @@
-Bellemerea elegans Øvstedal SPECIES
-=======
+# Bellemerea elegans Øvstedal SPECIES
 
 #### Status
 ACCEPTED

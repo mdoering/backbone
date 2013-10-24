@@ -1,5 +1,4 @@
-Cercospora sphaeroidea Speg. SPECIES
-=======
+# Cercospora sphaeroidea Speg. SPECIES
 
 #### Status
 ACCEPTED

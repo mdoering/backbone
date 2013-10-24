@@ -1,5 +1,4 @@
-Thamnolia rhopaloides (Hue) Gyeln. SPECIES
-=======
+# Thamnolia rhopaloides (Hue) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

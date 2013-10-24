@@ -1,5 +1,4 @@
-Parmelia indica Spreng. SPECIES
-=======
+# Parmelia indica Spreng. SPECIES
 
 #### Status
 ACCEPTED

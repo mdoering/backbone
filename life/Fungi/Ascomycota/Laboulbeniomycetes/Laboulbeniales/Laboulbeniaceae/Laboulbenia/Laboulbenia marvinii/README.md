@@ -1,5 +1,4 @@
-Laboulbenia marvinii Huldén SPECIES
-=======
+# Laboulbenia marvinii Huldén SPECIES
 
 #### Status
 ACCEPTED

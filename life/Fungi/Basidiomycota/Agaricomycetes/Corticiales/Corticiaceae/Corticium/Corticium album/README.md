@@ -1,5 +1,4 @@
-Corticium album Britzelm. SPECIES
-=======
+# Corticium album Britzelm. SPECIES
 
 #### Status
 ACCEPTED

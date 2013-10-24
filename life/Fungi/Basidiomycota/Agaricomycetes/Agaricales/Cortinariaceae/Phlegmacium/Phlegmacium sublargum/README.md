@@ -1,5 +1,4 @@
-Phlegmacium sublargum (Cleland) M.M. Moser SPECIES
-=======
+# Phlegmacium sublargum (Cleland) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

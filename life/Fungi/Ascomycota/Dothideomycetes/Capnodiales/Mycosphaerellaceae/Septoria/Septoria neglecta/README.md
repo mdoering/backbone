@@ -1,5 +1,4 @@
-Septoria neglecta Sacc. SPECIES
-=======
+# Septoria neglecta Sacc. SPECIES
 
 #### Status
 ACCEPTED

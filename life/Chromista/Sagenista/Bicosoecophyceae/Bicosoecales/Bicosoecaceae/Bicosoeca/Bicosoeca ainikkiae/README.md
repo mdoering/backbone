@@ -1,8 +1,7 @@
-Bicosoeca tubiformis Skuja, 1956 SPECIES
-=======
+# Bicosoeca ainikkiae Järnfelt, 1956 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

@@ -1,5 +1,4 @@
-Dentalina guttepra d'Orbigny SPECIES
-=======
+# Dentalina guttepra d'Orbigny SPECIES
 
 #### Status
 ACCEPTED

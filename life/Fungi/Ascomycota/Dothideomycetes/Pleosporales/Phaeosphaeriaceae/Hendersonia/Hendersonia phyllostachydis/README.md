@@ -1,5 +1,4 @@
-Hendersonia phyllostachydis I. Miyake & Hara SPECIES
-=======
+# Hendersonia phyllostachydis I. Miyake & Hara SPECIES
 
 #### Status
 ACCEPTED

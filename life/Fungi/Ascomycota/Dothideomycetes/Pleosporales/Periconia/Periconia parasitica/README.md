@@ -1,5 +1,4 @@
-Periconia parasitica Peck SPECIES
-=======
+# Periconia parasitica Peck SPECIES
 
 #### Status
 ACCEPTED

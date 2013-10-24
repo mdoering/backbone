@@ -1,5 +1,4 @@
-Nectria marelliana Speg. SPECIES
-=======
+# Nectria marelliana Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta jasminina V.G. Rao SPECIES
-=======
+# Phyllosticta jasminina V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

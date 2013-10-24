@@ -1,5 +1,4 @@
-Lachnum eriophoricola Nannf. SPECIES
-=======
+# Lachnum eriophoricola Nannf. SPECIES
 
 #### Status
 ACCEPTED

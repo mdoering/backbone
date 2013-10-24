@@ -1,5 +1,4 @@
-Ammonifex Huber & Stetter, 1996 GENUS
-=======
+# Ammonifex Huber & Stetter, 1996 GENUS
 
 #### Status
 ACCEPTED

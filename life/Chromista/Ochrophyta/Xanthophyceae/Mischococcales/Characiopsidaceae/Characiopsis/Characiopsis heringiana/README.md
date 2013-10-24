@@ -1,5 +1,4 @@
-Characiopsis heringiana Pascher SPECIES
-=======
+# Characiopsis heringiana Pascher SPECIES
 
 #### Status
 ACCEPTED

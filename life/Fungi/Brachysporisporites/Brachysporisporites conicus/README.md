@@ -1,5 +1,4 @@
-Brachysporisporites conicus (P. Ke & Z.Y. Shi) G. Norris SPECIES
-=======
+# Brachysporisporites conicus (P. Ke & Z.Y. Shi) G. Norris SPECIES
 
 #### Status
 ACCEPTED

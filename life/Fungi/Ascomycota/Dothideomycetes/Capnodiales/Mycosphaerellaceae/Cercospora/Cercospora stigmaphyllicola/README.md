@@ -1,17 +1,16 @@
-Cercospora stigmaphyllonicola J.M. Yen SPECIES
-=======
+# Cercospora stigmaphyllicola J.M. Yen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revue Mycol. , Paris 30: 194 (1965)
 
 #### Original name
-Cercospora stigmaphyllonicola J.M. Yen
+Cercospora stigmaphyllicola J.M. Yen
 
 ### Remarks
 null

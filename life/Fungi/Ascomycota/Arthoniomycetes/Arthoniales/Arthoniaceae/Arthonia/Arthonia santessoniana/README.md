@@ -1,5 +1,4 @@
-Arthonia santessoniana Wedin & Hafellner SPECIES
-=======
+# Arthonia santessoniana Wedin & Hafellner SPECIES
 
 #### Status
 ACCEPTED

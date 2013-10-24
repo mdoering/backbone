@@ -1,5 +1,4 @@
-Rhizocarpon linkolae Räsänen SPECIES
-=======
+# Rhizocarpon linkolae Räsänen SPECIES
 
 #### Status
 ACCEPTED

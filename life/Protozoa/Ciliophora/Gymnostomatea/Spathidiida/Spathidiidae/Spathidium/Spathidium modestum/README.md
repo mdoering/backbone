@@ -1,5 +1,4 @@
-Spathidium modestum Kahl, 1930 SPECIES
-=======
+# Spathidium modestum Kahl, 1930 SPECIES
 
 #### Status
 ACCEPTED

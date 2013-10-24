@@ -1,5 +1,4 @@
-Pleospora straminis Sacc. & Speg., 1878 SPECIES
-=======
+# Pleospora straminis Sacc. & Speg., 1878 SPECIES
 
 #### Status
 ACCEPTED

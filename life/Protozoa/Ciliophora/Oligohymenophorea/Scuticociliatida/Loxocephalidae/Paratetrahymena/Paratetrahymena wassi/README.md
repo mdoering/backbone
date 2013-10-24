@@ -1,5 +1,4 @@
-Paratetrahymena wassi Thompson, 1963 SPECIES
-=======
+# Paratetrahymena wassi Thompson, 1963 SPECIES
 
 #### Status
 ACCEPTED

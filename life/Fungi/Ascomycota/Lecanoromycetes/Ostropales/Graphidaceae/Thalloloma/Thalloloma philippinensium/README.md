@@ -1,5 +1,4 @@
-Thalloloma philippinensium Staiger SPECIES
-=======
+# Thalloloma philippinensium Staiger SPECIES
 
 #### Status
 ACCEPTED

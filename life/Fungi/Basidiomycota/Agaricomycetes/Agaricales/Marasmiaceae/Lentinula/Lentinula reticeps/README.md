@@ -1,5 +1,4 @@
-Lentinula reticeps (Mont.) Murrill SPECIES
-=======
+# Lentinula reticeps (Mont.) Murrill SPECIES
 
 #### Status
 ACCEPTED

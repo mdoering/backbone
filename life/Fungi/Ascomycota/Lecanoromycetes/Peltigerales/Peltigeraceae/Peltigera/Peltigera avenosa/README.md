@@ -1,5 +1,4 @@
-Peltigera avenosa Gyeln. SPECIES
-=======
+# Peltigera avenosa Gyeln. SPECIES
 
 #### Status
 ACCEPTED

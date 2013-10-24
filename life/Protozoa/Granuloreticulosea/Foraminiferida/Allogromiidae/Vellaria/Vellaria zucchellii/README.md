@@ -1,5 +1,4 @@
-Vellaria zucchellii Sabbatini, Pawlowski, Gooday, Bowser, 2004 SPECIES
-=======
+# Vellaria zucchellii Sabbatini, Pawlowski, Gooday, Bowser, 2004 SPECIES
 
 #### Status
 ACCEPTED

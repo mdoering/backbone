@@ -1,5 +1,4 @@
-Phomopsis platensis (Speg.) Sousa da Câmara SPECIES
-=======
+# Phomopsis platensis (Speg.) Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paraulocladium R.F. Castañeda GENUS
-=======
+# Paraulocladium R.F. Castañeda GENUS
 
 #### Status
 ACCEPTED

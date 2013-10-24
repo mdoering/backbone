@@ -1,5 +1,4 @@
-Hirsutella tydeicola Samson & C.W. McCoy SPECIES
-=======
+# Hirsutella tydeicola Samson & C.W. McCoy SPECIES
 
 #### Status
 ACCEPTED

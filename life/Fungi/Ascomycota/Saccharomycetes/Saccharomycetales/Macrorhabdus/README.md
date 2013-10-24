@@ -1,5 +1,4 @@
-Macrorhabdus Tomaszewski, Logan, Snowden, Kurtzman & Phalen, 2003 GENUS
-=======
+# Macrorhabdus Tomaszewski, Logan, Snowden, Kurtzman & Phalen, 2003 GENUS
 
 #### Status
 ACCEPTED

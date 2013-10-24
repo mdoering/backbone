@@ -1,5 +1,4 @@
-Psilocybe chaconii Guzmán, Escalona & Ram.-Guill. SPECIES
-=======
+# Psilocybe chaconii Guzmán, Escalona & Ram.-Guill. SPECIES
 
 #### Status
 ACCEPTED

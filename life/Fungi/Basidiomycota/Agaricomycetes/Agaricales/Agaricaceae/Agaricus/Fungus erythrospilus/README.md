@@ -1,5 +1,4 @@
-Fungus erythrospilus (Berk. & Broome) Kuntze SPECIES
-=======
+# Fungus erythrospilus (Berk. & Broome) Kuntze SPECIES
 
 #### Status
 ACCEPTED

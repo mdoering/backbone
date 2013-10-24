@@ -1,5 +1,4 @@
-Beccopycnidium F. Stevens GENUS
-=======
+# Beccopycnidium F. Stevens GENUS
 
 #### Status
 ACCEPTED

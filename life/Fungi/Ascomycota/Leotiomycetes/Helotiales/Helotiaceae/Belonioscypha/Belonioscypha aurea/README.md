@@ -1,5 +1,4 @@
-Belonioscypha aurea Velen. SPECIES
-=======
+# Belonioscypha aurea Velen. SPECIES
 
 #### Status
 ACCEPTED

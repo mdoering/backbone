@@ -1,5 +1,4 @@
-Rhagodiscus gallagheri SPECIES
-=======
+# Rhagodiscus gallagheri SPECIES
 
 #### Status
 ACCEPTED

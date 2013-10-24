@@ -1,5 +1,4 @@
-Miropylidae Dumitrica, 1988 FAMILY
-=======
+# Miropylidae Dumitrica, 1988 FAMILY
 
 #### Status
 ACCEPTED

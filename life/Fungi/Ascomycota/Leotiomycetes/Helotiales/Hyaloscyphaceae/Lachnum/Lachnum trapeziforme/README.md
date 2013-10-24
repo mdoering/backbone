@@ -1,5 +1,4 @@
-Lachnum trapeziforme Velen., 1934 SPECIES
-=======
+# Lachnum trapeziforme Velen., 1934 SPECIES
 
 #### Status
 ACCEPTED

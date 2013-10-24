@@ -1,5 +1,4 @@
-Helmichia J.I.R. Larsson GENUS
-=======
+# Helmichia J.I.R. Larsson GENUS
 
 #### Status
 ACCEPTED

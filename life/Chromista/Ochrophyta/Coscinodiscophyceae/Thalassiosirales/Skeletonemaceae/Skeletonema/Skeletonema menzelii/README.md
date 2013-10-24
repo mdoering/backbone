@@ -1,5 +1,4 @@
-Skeletonema menzelii Guillard, Carpenter & Reimann, 1974 SPECIES
-=======
+# Skeletonema menzelii Guillard, Carpenter & Reimann, 1974 SPECIES
 
 #### Status
 ACCEPTED

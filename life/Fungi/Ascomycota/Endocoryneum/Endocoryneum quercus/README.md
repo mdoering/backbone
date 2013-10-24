@@ -1,5 +1,4 @@
-Endocoryneum quercus B. Sutton, Marras & Francesch., 1993 SPECIES
-=======
+# Endocoryneum quercus B. Sutton, Marras & Francesch., 1993 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspicilia helvetica Hue SPECIES
-=======
+# Aspicilia helvetica Hue SPECIES
 
 #### Status
 ACCEPTED

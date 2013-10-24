@@ -1,5 +1,4 @@
-Trematosphaeria olearum (Castagne) Sacc. SPECIES
-=======
+# Trematosphaeria olearum (Castagne) Sacc. SPECIES
 
 #### Status
 ACCEPTED

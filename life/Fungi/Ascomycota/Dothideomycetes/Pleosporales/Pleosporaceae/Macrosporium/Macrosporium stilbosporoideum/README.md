@@ -1,5 +1,4 @@
-Macrosporium stilbosporoideum Berk. & M.A. Curtis SPECIES
-=======
+# Macrosporium stilbosporoideum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

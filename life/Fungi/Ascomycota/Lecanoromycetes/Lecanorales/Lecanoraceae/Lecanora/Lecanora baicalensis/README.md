@@ -1,5 +1,4 @@
-Lecanora baicalensis Zahlbr. SPECIES
-=======
+# Lecanora baicalensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus nitens Fr. SPECIES
-=======
+# Polyporus nitens Fr. SPECIES
 
 #### Status
 ACCEPTED

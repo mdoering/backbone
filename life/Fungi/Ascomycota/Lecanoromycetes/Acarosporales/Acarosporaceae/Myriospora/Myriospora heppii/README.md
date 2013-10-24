@@ -1,5 +1,4 @@
-Myriospora heppii Nägeli SPECIES
-=======
+# Myriospora heppii Nägeli SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Riddlea papillosa C.W. Dodge SPECIES
-=======
+# Riddlea papillosa C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

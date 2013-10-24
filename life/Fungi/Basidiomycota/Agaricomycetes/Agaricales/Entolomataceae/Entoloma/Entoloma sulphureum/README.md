@@ -1,5 +1,4 @@
-Entoloma sulphureum E. Horak, 1973 SPECIES
-=======
+# Entoloma sulphureum E. Horak, 1973 SPECIES
 
 #### Status
 ACCEPTED

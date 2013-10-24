@@ -1,5 +1,4 @@
-Lamprobacter modestohalophilus Gorlenko et al., 1988 SPECIES
-=======
+# Lamprobacter modestohalophilus Gorlenko et al., 1988 SPECIES
 
 #### Status
 ACCEPTED

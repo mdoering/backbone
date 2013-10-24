@@ -1,5 +1,4 @@
-Chilonectria myriospora (P. Crouan & H. Crouan) Sacc. SPECIES
-=======
+# Chilonectria myriospora (P. Crouan & H. Crouan) Sacc. SPECIES
 
 #### Status
 ACCEPTED

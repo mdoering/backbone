@@ -1,5 +1,4 @@
-Halbania Racib. GENUS
-=======
+# Halbania Racib. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cylindrocladium dixi C. Booth SPECIES
-=======
+# Cylindrocladium dixi C. Booth SPECIES
 
 #### Status
 ACCEPTED

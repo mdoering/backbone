@@ -1,5 +1,4 @@
-Dioicomyces brachygnatus Speg. SPECIES
-=======
+# Dioicomyces brachygnatus Speg. SPECIES
 
 #### Status
 ACCEPTED

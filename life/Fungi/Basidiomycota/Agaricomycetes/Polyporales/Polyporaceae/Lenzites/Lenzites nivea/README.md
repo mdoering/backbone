@@ -1,5 +1,4 @@
-Lenzites nivea Cooke SPECIES
-=======
+# Lenzites nivea Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Discosia smilacina De Not. SPECIES
-=======
+# Discosia smilacina De Not. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trematosphaeria caryophaga (Schwein.) Sacc. SPECIES
-=======
+# Trematosphaeria caryophaga (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

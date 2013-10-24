@@ -1,5 +1,4 @@
-Meliola sinuosa (F. Stevens & Roldan) Cif. SPECIES
-=======
+# Meliola sinuosa (F. Stevens & Roldan) Cif. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hydnum scutatum Pers. SPECIES
-=======
+# Hydnum scutatum Pers. SPECIES
 
 #### Status
 ACCEPTED

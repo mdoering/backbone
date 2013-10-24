@@ -1,5 +1,4 @@
-Endomyces scytonematum Zukal SPECIES
-=======
+# Endomyces scytonematum Zukal SPECIES
 
 #### Status
 ACCEPTED

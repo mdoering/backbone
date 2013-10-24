@@ -1,5 +1,4 @@
-Sticta samoana (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Sticta samoana (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

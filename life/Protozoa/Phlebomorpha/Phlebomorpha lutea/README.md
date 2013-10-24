@@ -1,5 +1,4 @@
-Phlebomorpha lutea Pers. SPECIES
-=======
+# Phlebomorpha lutea Pers. SPECIES
 
 #### Status
 ACCEPTED

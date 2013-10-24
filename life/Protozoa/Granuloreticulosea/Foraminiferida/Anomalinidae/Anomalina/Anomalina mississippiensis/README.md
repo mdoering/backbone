@@ -1,5 +1,4 @@
-Anomalina mississippiensis SPECIES
-=======
+# Anomalina mississippiensis SPECIES
 
 #### Status
 ACCEPTED

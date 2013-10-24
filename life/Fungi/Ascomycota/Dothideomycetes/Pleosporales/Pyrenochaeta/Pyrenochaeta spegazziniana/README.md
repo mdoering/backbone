@@ -1,5 +1,4 @@
-Pyrenochaeta spegazziniana Trotter SPECIES
-=======
+# Pyrenochaeta spegazziniana Trotter SPECIES
 
 #### Status
 ACCEPTED

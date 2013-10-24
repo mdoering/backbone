@@ -1,5 +1,4 @@
-Swampomyces triseptatus K.D. Hyde & Nakagiri, 1992 SPECIES
-=======
+# Swampomyces triseptatus K.D. Hyde & Nakagiri, 1992 SPECIES
 
 #### Status
 ACCEPTED

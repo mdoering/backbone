@@ -1,5 +1,4 @@
-Polychidium microphylloides (Nyl.) Trevis. SPECIES
-=======
+# Polychidium microphylloides (Nyl.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

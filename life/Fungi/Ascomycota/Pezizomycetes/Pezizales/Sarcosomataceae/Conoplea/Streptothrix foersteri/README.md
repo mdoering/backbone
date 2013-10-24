@@ -1,5 +1,4 @@
-Streptothrix foersteri E. Cohn SPECIES
-=======
+# Streptothrix foersteri E. Cohn SPECIES
 
 #### Status
 ACCEPTED

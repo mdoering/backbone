@@ -1,8 +1,7 @@
-Oxytricha hymenostomata SPECIES
-=======
+# Oxytricha hymenostoma Stokes, 1887 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

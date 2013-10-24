@@ -1,5 +1,4 @@
-Hygrocybe leucogloea A.M. Young SPECIES
-=======
+# Hygrocybe leucogloea A.M. Young SPECIES
 
 #### Status
 ACCEPTED

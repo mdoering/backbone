@@ -1,5 +1,4 @@
-Polyporus perdurans Kalchbr. & Cooke SPECIES
-=======
+# Polyporus perdurans Kalchbr. & Cooke SPECIES
 
 #### Status
 ACCEPTED

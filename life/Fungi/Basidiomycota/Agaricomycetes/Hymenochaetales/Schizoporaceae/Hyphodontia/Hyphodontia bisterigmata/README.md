@@ -1,5 +1,4 @@
-Hyphodontia bisterigmata Boidin & Gilles SPECIES
-=======
+# Hyphodontia bisterigmata Boidin & Gilles SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium popowiae Henn. SPECIES
-=======
+# Aecidium popowiae Henn. SPECIES
 
 #### Status
 ACCEPTED

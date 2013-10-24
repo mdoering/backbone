@@ -1,5 +1,4 @@
-Nassula microstoma Cohn, 1866 SPECIES
-=======
+# Nassula microstoma Cohn, 1866 SPECIES
 
 #### Status
 ACCEPTED

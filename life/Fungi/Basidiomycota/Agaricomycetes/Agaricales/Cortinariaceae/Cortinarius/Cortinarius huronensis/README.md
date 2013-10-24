@@ -1,17 +1,16 @@
-Cortinarius palustris var. palustris VARIETY
-=======
+# Cortinarius huronensis Ammirati & A.H. Sm., 1972 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nov. sist. Niz. Rast. 17: 55 (1980)
+Michigan Bot. 11(1): 20 (1972)
 
 #### Original name
-Cortinarius palustris var. palustris
+Cortinarius huronensis Ammirati & A.H. Sm., 1972
 
 ### Remarks
 null

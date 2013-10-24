@@ -1,14 +1,13 @@
-Pleochaeta turbinata (Viégas & Cardoso) U. Braun, 1982 SPECIES
-=======
+# Queirozia turbinata Viégas & Cardoso, 1944 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 15: 150 (1982)
+Revista Soc. Brazil agron. 7: (1944)
 
 #### Original name
 Queirozia turbinata Viégas & Cardoso, 1944

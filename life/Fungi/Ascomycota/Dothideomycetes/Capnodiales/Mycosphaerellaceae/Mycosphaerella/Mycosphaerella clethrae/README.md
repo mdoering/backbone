@@ -1,5 +1,4 @@
-Mycosphaerella clethrae Hara SPECIES
-=======
+# Mycosphaerella clethrae Hara SPECIES
 
 #### Status
 ACCEPTED

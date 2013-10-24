@@ -1,5 +1,4 @@
-Xylodon bisporus (Boidin & Gilles) Hjortstam & Ryvarden SPECIES
-=======
+# Xylodon bisporus (Boidin & Gilles) Hjortstam & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta aromatophila Sacc. SPECIES
-=======
+# Phyllosticta aromatophila Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Acrothecium sarcopodioides Harz, 1871 SPECIES
-=======
+# Monacrosporium sarcopodioides (Harz) Berl. & Voglino, 1886 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini), Addit. 377 (1886)
 
 #### Original name
 Acrothecium sarcopodioides Harz, 1871

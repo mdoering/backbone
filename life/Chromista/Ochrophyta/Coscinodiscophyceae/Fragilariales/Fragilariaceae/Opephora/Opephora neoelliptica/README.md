@@ -1,5 +1,4 @@
-Opephora neoelliptica (A. Witkowski) A. Witkowski, D. Metzeltin & H. Lange-Bertalot SPECIES
-=======
+# Opephora neoelliptica (A. Witkowski) A. Witkowski, D. Metzeltin & H. Lange-Bertalot SPECIES
 
 #### Status
 ACCEPTED

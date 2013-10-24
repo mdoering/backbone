@@ -1,5 +1,4 @@
-Stirtoniopsis flavoviridis Groenh. SPECIES
-=======
+# Stirtoniopsis flavoviridis Groenh. SPECIES
 
 #### Status
 ACCEPTED

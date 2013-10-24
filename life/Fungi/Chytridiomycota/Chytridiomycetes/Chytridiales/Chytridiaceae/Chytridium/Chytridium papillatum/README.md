@@ -1,5 +1,4 @@
-Chytridium papillatum Sparrow SPECIES
-=======
+# Chytridium papillatum Sparrow SPECIES
 
 #### Status
 ACCEPTED

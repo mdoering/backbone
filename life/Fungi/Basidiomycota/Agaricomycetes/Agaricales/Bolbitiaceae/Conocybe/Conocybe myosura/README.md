@@ -1,5 +1,4 @@
-Conocybe myosura Singer SPECIES
-=======
+# Conocybe myosura Singer SPECIES
 
 #### Status
 ACCEPTED

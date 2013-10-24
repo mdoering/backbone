@@ -1,5 +1,4 @@
-Pycnothyrium jaapii (Rehm) Arx SPECIES
-=======
+# Pycnothyrium jaapii (Rehm) Arx SPECIES
 
 #### Status
 ACCEPTED

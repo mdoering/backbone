@@ -1,5 +1,4 @@
-Phialea rosulea Quél. SPECIES
-=======
+# Phialea rosulea Quél. SPECIES
 
 #### Status
 ACCEPTED

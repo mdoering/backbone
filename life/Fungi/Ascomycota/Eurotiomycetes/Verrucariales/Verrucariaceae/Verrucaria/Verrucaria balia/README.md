@@ -1,5 +1,4 @@
-Verrucaria balia Kremp. SPECIES
-=======
+# Verrucaria balia Kremp. SPECIES
 
 #### Status
 ACCEPTED

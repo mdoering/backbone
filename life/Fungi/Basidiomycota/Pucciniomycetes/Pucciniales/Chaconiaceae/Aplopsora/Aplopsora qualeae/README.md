@@ -1,5 +1,4 @@
-Aplopsora qualeae Buriticá & J.F. Hennen, 1998 SPECIES
-=======
+# Aplopsora qualeae Buriticá & J.F. Hennen, 1998 SPECIES
 
 #### Status
 ACCEPTED

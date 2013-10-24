@@ -1,5 +1,4 @@
-Sacidium GENUS
-=======
+# Sacidium GENUS
 
 #### Status
 ACCEPTED

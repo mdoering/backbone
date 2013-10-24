@@ -1,5 +1,4 @@
-Gymnopus vernus (Ryman) Antonín & Noordel. SPECIES
-=======
+# Gymnopus vernus (Ryman) Antonín & Noordel. SPECIES
 
 #### Status
 ACCEPTED

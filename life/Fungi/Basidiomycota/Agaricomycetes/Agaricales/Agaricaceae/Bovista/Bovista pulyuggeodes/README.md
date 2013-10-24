@@ -1,5 +1,4 @@
-Bovista pulyuggeodes Grgur. SPECIES
-=======
+# Bovista pulyuggeodes Grgur. SPECIES
 
 #### Status
 ACCEPTED

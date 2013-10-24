@@ -1,5 +1,4 @@
-Knoellia Groth et al., 2002 GENUS
-=======
+# Knoellia Groth et al., 2002 GENUS
 
 #### Status
 ACCEPTED

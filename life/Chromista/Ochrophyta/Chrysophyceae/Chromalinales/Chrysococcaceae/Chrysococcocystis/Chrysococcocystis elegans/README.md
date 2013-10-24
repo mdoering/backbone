@@ -1,5 +1,4 @@
-Chrysococcocystis elegans SPECIES
-=======
+# Chrysococcocystis elegans SPECIES
 
 #### Status
 ACCEPTED

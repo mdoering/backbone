@@ -1,5 +1,4 @@
-Pseudopolymorphina variata (Brady, Jones & Parker) SPECIES
-=======
+# Pseudopolymorphina variata (Brady, Jones & Parker) SPECIES
 
 #### Status
 ACCEPTED

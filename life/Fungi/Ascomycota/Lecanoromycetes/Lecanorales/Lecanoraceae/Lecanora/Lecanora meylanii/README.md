@@ -1,5 +1,4 @@
-Lecanora meylanii (B. de Lesd.) Zahlbr. SPECIES
-=======
+# Lecanora meylanii (B. de Lesd.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

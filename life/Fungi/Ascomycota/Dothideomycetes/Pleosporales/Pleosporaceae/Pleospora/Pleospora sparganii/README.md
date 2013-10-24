@@ -1,5 +1,4 @@
-Pleospora sparganii Cooke, 1890 SPECIES
-=======
+# Pleospora sparganii Cooke, 1890 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hymenostilbe muscarium Petch SPECIES
-=======
+# Hymenostilbe muscarium Petch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta vincetoxici Sacc. SPECIES
-=======
+# Phyllosticta vincetoxici Sacc. SPECIES
 
 #### Status
 ACCEPTED

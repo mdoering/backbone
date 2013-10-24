@@ -1,5 +1,4 @@
-Nyctotherus gamma Earl, 1972 SPECIES
-=======
+# Nyctotherus gamma Earl, 1972 SPECIES
 
 #### Status
 ACCEPTED

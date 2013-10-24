@@ -1,5 +1,4 @@
-Fusarium obtusiusculum Sacc. SPECIES
-=======
+# Fusarium obtusiusculum Sacc. SPECIES
 
 #### Status
 ACCEPTED

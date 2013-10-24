@@ -1,5 +1,4 @@
-Meliola cumbrensis Hansf. SPECIES
-=======
+# Meliola cumbrensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

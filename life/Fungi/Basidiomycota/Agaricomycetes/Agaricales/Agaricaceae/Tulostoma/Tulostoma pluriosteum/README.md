@@ -1,5 +1,4 @@
-Tulostoma pluriosteum Long & S. Ahmad SPECIES
-=======
+# Tulostoma pluriosteum Long & S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

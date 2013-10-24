@@ -1,5 +1,4 @@
-Erysiphe populi DC. SPECIES
-=======
+# Erysiphe populi DC. SPECIES
 
 #### Status
 ACCEPTED

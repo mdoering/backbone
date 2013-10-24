@@ -1,5 +1,4 @@
-Rhodocybe pallidogrisea T.J. Baroni & G.M. Gates SPECIES
-=======
+# Rhodocybe pallidogrisea T.J. Baroni & G.M. Gates SPECIES
 
 #### Status
 ACCEPTED

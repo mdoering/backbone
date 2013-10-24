@@ -1,5 +1,4 @@
-Marasmius pluvialis Singer SPECIES
-=======
+# Marasmius pluvialis Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Streblonema thuretii Sauvageau SPECIES
-=======
+# Streblonema thuretii Sauvageau SPECIES
 
 #### Status
 ACCEPTED

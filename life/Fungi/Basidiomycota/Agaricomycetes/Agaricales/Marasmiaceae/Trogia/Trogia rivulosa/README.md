@@ -1,5 +1,4 @@
-Trogia rivulosa Corner SPECIES
-=======
+# Trogia rivulosa Corner SPECIES
 
 #### Status
 ACCEPTED

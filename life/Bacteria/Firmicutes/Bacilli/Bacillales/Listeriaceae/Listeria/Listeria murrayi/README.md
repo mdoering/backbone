@@ -1,5 +1,4 @@
-Listeria murrayi Welshimer and Meredith, 1971 (Approved Lists, 1980) SPECIES
-=======
+# Listeria murrayi Welshimer and Meredith, 1971 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

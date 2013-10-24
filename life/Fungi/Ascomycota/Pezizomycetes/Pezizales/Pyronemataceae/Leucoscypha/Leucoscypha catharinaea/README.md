@@ -1,5 +1,4 @@
-Leucoscypha catharinaea (McLennan & F. Halsey) Rifai SPECIES
-=======
+# Leucoscypha catharinaea (McLennan & F. Halsey) Rifai SPECIES
 
 #### Status
 ACCEPTED

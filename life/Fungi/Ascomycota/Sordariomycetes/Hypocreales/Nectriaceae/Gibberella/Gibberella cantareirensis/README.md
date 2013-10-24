@@ -1,5 +1,4 @@
-Gibberella cantareirensis Henn. SPECIES
-=======
+# Gibberella cantareirensis Henn. SPECIES
 
 #### Status
 ACCEPTED

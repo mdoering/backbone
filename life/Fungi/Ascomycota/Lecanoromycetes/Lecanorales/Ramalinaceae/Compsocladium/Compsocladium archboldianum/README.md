@@ -1,5 +1,4 @@
-Compsocladium archboldianum I.M. Lamb SPECIES
-=======
+# Compsocladium archboldianum I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

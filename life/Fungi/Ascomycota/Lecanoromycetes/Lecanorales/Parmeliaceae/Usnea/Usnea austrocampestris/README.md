@@ -1,5 +1,4 @@
-Usnea austrocampestris Øvstedal SPECIES
-=======
+# Usnea austrocampestris Øvstedal SPECIES
 
 #### Status
 ACCEPTED

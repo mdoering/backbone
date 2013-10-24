@@ -1,5 +1,4 @@
-Lecanora ammotropha (Hue) Zahlbr. SPECIES
-=======
+# Lecanora ammotropha (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

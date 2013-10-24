@@ -1,5 +1,4 @@
-Gloeocapsa cohaerens (Brébisson) Golerbach SPECIES
-=======
+# Gloeocapsa cohaerens (Brébisson) Golerbach SPECIES
 
 #### Status
 ACCEPTED

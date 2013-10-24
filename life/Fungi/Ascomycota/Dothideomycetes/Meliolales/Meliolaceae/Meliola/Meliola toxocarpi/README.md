@@ -1,17 +1,16 @@
-Meliola taxocarpi Hosag. & V.T. Antony SPECIES
-=======
+# Meliola toxocarpi Hosag. & V.T. Antony SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Journal of the Swamy Botanical Club 5(2): 75 (1988)
 
 #### Original name
-Meliola taxocarpi Hosag. & V.T. Antony
+Meliola toxocarpi Hosag. & V.T. Antony
 
 ### Remarks
 null

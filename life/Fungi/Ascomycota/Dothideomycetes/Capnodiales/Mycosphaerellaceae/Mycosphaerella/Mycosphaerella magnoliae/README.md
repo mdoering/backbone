@@ -1,5 +1,4 @@
-Mycosphaerella magnoliae (Ellis) Petr. SPECIES
-=======
+# Mycosphaerella magnoliae (Ellis) Petr. SPECIES
 
 #### Status
 ACCEPTED

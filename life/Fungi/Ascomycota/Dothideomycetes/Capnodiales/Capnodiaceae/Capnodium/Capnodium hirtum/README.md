@@ -1,5 +1,4 @@
-Capnodium hirtum Speg. SPECIES
-=======
+# Capnodium hirtum Speg. SPECIES
 
 #### Status
 ACCEPTED

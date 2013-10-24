@@ -1,5 +1,4 @@
-Rhizoclosmatium H.E. Petersen GENUS
-=======
+# Rhizoclosmatium H.E. Petersen GENUS
 
 #### Status
 ACCEPTED

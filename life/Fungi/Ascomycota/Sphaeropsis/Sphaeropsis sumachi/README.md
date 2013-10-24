@@ -1,5 +1,4 @@
-Sphaeropsis sumachi (Schwein.) Cooke & Ellis, 1876 SPECIES
-=======
+# Sphaeropsis sumachi (Schwein.) Cooke & Ellis, 1876 SPECIES
 
 #### Status
 ACCEPTED

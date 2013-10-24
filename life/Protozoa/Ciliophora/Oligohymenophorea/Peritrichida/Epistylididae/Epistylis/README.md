@@ -1,5 +1,4 @@
-Epistylis Ehrenberg, 1830 GENUS
-=======
+# Epistylis Ehrenberg, 1830 GENUS
 
 #### Status
 ACCEPTED

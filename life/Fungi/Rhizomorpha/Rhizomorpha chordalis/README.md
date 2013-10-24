@@ -1,5 +1,4 @@
-Rhizomorpha chordalis Ach. SPECIES
-=======
+# Rhizomorpha chordalis Ach. SPECIES
 
 #### Status
 ACCEPTED

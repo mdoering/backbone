@@ -1,5 +1,4 @@
-Dysrhynchis amazonica (Höhn.) E. Müll. SPECIES
-=======
+# Dysrhynchis amazonica (Höhn.) E. Müll. SPECIES
 
 #### Status
 ACCEPTED

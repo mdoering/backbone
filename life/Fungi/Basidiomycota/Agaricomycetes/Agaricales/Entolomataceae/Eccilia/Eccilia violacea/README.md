@@ -1,5 +1,4 @@
-Eccilia violacea Rick SPECIES
-=======
+# Eccilia violacea Rick SPECIES
 
 #### Status
 ACCEPTED

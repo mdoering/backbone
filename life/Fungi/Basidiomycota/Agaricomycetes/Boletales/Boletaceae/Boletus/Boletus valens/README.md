@@ -1,5 +1,4 @@
-Boletus valens var. valens VARIETY
-=======
+# Boletus valens Corner SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Boletus in Malaysia (Singapore) 161 (1972)
 
 #### Original name
-Boletus valens var. valens
+Boletus valens Corner
 
 ### Remarks
 null

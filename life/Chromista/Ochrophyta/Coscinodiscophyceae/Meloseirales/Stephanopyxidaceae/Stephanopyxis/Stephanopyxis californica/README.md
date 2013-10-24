@@ -1,5 +1,4 @@
-Stephanopyxis californica H. J. Schrader SPECIES
-=======
+# Stephanopyxis californica H. J. Schrader SPECIES
 
 #### Status
 ACCEPTED

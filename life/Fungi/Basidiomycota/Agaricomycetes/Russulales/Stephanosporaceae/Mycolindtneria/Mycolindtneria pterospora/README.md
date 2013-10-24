@@ -1,14 +1,13 @@
-Lindtneria pterospora D.A. Reid, 1975 SPECIES
-=======
+# Mycolindtneria pterospora (D.A. Reid) Rauschert, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Kew Bull. 30(4): 597 (1975)
+Haussknechtia 4: 54 (1988)
 
 #### Original name
 Lindtneria pterospora D.A. Reid, 1975

@@ -1,5 +1,4 @@
-Phyllosticta grandispora Rothers SPECIES
-=======
+# Phyllosticta grandispora Rothers SPECIES
 
 #### Status
 ACCEPTED

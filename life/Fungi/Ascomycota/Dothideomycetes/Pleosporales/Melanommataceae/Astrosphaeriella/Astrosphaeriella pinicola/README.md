@@ -1,5 +1,4 @@
-Astrosphaeriella pinicola (Rehm) Scheinpflug SPECIES
-=======
+# Astrosphaeriella pinicola (Rehm) Scheinpflug SPECIES
 
 #### Status
 ACCEPTED

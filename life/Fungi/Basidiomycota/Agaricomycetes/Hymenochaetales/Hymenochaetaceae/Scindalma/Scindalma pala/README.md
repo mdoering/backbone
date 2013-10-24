@@ -1,5 +1,4 @@
-Scindalma pala (Lév.) Kuntze SPECIES
-=======
+# Scindalma pala (Lév.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

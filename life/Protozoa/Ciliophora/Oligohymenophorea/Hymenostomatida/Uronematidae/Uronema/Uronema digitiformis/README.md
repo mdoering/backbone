@@ -1,5 +1,4 @@
-Uronema digitiformis Cuenot, 1891 SPECIES
-=======
+# Uronema digitiformis Cuenot, 1891 SPECIES
 
 #### Status
 ACCEPTED

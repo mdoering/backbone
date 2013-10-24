@@ -1,5 +1,4 @@
-Phoma brunellae (Ellis & Everh.) Kuntze SPECIES
-=======
+# Phoma brunellae (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

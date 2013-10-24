@@ -1,5 +1,4 @@
-Pratella algeriensis (Quél.) Quél. SPECIES
-=======
+# Pratella algeriensis (Quél.) Quél. SPECIES
 
 #### Status
 ACCEPTED

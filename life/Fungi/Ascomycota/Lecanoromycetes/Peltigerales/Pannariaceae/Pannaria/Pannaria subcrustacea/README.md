@@ -1,14 +1,13 @@
-Reinkella subcrustacea Räsänen SPECIES
-=======
+# Pannaria subcrustacea (Räsänen) P.M. Jørg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biblthca Lichenol. 78: 124 (2001)
 
 #### Original name
 Reinkella subcrustacea Räsänen

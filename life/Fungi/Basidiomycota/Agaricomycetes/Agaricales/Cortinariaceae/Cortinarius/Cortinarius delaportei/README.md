@@ -1,5 +1,4 @@
-Cortinarius delaportei Rob. Henry SPECIES
-=======
+# Cortinarius delaportei Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

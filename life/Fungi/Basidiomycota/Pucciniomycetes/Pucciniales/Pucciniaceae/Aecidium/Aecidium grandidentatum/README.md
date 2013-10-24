@@ -1,5 +1,4 @@
-Aecidium grandidentatum Bonord. SPECIES
-=======
+# Aecidium grandidentatum Bonord. SPECIES
 
 #### Status
 ACCEPTED

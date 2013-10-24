@@ -1,5 +1,4 @@
-Lepiota straminea Rick SPECIES
-=======
+# Lepiota straminea Rick SPECIES
 
 #### Status
 ACCEPTED

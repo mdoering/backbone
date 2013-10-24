@@ -1,5 +1,4 @@
-Psathyrella sublateritia var. sublateritia VARIETY
-=======
+# Psathyrella sublateritia A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Mem. N. Y. bot. Gdn 24: 241 (1972)
 
 #### Original name
-Psathyrella sublateritia var. sublateritia
+Psathyrella sublateritia A.H. Sm.
 
 ### Remarks
 null

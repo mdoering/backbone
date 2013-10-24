@@ -1,5 +1,4 @@
-Avibacterium Blackall, Christensen, Beckenham, Blackall & Bisgaard, 2005 GENUS
-=======
+# Avibacterium Blackall, Christensen, Beckenham, Blackall & Bisgaard, 2005 GENUS
 
 #### Status
 ACCEPTED

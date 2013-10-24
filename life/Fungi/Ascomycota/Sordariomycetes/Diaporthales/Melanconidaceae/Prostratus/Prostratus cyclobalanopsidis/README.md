@@ -1,5 +1,4 @@
-Prostratus cyclobalanopsidis Sivan., W.H. Hsieh & Chi Y. Chen, 1993 SPECIES
-=======
+# Prostratus cyclobalanopsidis Sivan., W.H. Hsieh & Chi Y. Chen, 1993 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Geastrum berkeleyii Massee, 1889 SPECIES
-=======
+# Geastrum berkeleyii Massee, 1889 SPECIES
 
 #### Status
 ACCEPTED

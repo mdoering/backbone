@@ -1,5 +1,4 @@
-Phyllosticta camphorae Gucevic SPECIES
-=======
+# Phyllosticta camphorae Gucevic SPECIES
 
 #### Status
 ACCEPTED

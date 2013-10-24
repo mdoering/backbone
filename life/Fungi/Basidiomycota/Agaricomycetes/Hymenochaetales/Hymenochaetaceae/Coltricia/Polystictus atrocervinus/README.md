@@ -1,5 +1,4 @@
-Polystictus atrocervinus Sacc. SPECIES
-=======
+# Polystictus atrocervinus Sacc. SPECIES
 
 #### Status
 ACCEPTED

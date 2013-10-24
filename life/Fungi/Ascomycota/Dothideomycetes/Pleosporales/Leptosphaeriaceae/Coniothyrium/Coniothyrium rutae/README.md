@@ -1,5 +1,4 @@
-Coniothyrium rutae Henn. SPECIES
-=======
+# Coniothyrium rutae Henn. SPECIES
 
 #### Status
 ACCEPTED

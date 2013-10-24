@@ -1,5 +1,4 @@
-Nesiotobacter exalbescens Donachie et al., 2006 SPECIES
-=======
+# Nesiotobacter exalbescens Donachie et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

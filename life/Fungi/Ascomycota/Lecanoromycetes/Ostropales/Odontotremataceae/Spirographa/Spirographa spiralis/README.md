@@ -1,14 +1,13 @@
-Opegrapha spiralis Müll. Arg. SPECIES
-=======
+# Spirographa spiralis (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Cat. Lich. Univers. 2: 267 (1923)
 
 #### Original name
 Opegrapha spiralis Müll. Arg.

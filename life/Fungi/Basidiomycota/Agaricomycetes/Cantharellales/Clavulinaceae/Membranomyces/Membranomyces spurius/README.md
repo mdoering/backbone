@@ -1,14 +1,13 @@
-Clavulicium spurium (Bourdot) J. Erikss. & Hjortstam, 1981 SPECIES
-=======
+# Membranomyces spurius (Bourdot) Jülich, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Eriksson, Hjortstam & Ryvarden, Cortic. N. Eur. (Oslo) 6: 1059 (1981)
+Persoonia 8(3): 296 (1975)
 
 #### Original name
 null

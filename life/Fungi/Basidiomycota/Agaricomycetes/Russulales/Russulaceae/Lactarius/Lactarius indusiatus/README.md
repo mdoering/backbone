@@ -1,5 +1,4 @@
-Lactarius indusiatus Verbeken SPECIES
-=======
+# Lactarius indusiatus Verbeken SPECIES
 
 #### Status
 ACCEPTED

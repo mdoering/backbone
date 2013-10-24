@@ -1,5 +1,4 @@
-Vibrio furnissii Brenner et al., 1984 SPECIES
-=======
+# Vibrio furnissii Brenner et al., 1984 SPECIES
 
 #### Status
 ACCEPTED

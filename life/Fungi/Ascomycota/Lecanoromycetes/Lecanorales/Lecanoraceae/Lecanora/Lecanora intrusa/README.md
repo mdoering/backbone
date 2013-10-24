@@ -1,5 +1,4 @@
-Lecanora intrusa Nyl. SPECIES
-=======
+# Lecanora intrusa Nyl. SPECIES
 
 #### Status
 ACCEPTED

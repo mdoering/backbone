@@ -1,5 +1,4 @@
-Chilodochona palinuri Jankowski, 1973 SPECIES
-=======
+# Chilodochona palinuri Jankowski, 1973 SPECIES
 
 #### Status
 ACCEPTED

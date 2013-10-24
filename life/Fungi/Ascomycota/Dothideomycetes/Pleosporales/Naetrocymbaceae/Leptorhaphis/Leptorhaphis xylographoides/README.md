@@ -1,5 +1,4 @@
-Leptorhaphis xylographoides Norman SPECIES
-=======
+# Leptorhaphis xylographoides Norman SPECIES
 
 #### Status
 ACCEPTED

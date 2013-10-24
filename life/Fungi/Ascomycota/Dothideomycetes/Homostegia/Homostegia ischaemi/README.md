@@ -1,5 +1,4 @@
-Homostegia ischaemi Chardón SPECIES
-=======
+# Homostegia ischaemi Chardón SPECIES
 
 #### Status
 ACCEPTED

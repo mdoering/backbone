@@ -1,5 +1,4 @@
-Sporocystis Morgan, 1902 GENUS
-=======
+# Sporocystis Morgan, 1902 GENUS
 
 #### Status
 ACCEPTED

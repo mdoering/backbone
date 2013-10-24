@@ -1,5 +1,4 @@
-Dendrosarcus subbarbatus (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Dendrosarcus subbarbatus (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Neobarclaya batistae Tóth SPECIES
-=======
+# Neobarclaya batistae Tóth SPECIES
 
 #### Status
 ACCEPTED

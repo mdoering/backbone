@@ -1,5 +1,4 @@
-Lecanora concilianda Vain. SPECIES
-=======
+# Lecanora concilianda Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psathyrella pseudovernalis A.H. Sm. SPECIES
-=======
+# Psathyrella pseudovernalis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

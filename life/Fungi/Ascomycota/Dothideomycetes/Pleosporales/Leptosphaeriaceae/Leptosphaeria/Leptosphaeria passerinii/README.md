@@ -1,5 +1,4 @@
-Leptosphaeria passerinii Sacc. SPECIES
-=======
+# Leptosphaeria passerinii Sacc. SPECIES
 
 #### Status
 ACCEPTED

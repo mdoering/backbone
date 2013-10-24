@@ -1,5 +1,4 @@
-Intexta acarivora J.I.R. Larsson, Steiner & Bjørnson SPECIES
-=======
+# Intexta acarivora J.I.R. Larsson, Steiner & Bjørnson SPECIES
 
 #### Status
 ACCEPTED

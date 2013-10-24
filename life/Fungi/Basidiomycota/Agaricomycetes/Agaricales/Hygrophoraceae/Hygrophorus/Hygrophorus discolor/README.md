@@ -1,5 +1,4 @@
-Hygrophorus discolor Kalchbr. & MacOwan SPECIES
-=======
+# Hygrophorus discolor Kalchbr. & MacOwan SPECIES
 
 #### Status
 ACCEPTED

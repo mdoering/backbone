@@ -1,5 +1,4 @@
-Biatora oolithina (Nyl.) Arnold SPECIES
-=======
+# Biatora oolithina (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

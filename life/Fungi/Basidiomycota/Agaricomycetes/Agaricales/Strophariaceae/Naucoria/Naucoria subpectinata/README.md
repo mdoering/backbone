@@ -1,5 +1,4 @@
-Naucoria subpectinata Murrill SPECIES
-=======
+# Naucoria subpectinata Murrill SPECIES
 
 #### Status
 ACCEPTED

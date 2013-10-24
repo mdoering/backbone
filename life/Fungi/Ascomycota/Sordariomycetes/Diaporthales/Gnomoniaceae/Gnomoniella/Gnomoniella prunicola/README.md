@@ -1,5 +1,4 @@
-Gnomoniella prunicola Höhn. SPECIES
-=======
+# Gnomoniella prunicola Höhn. SPECIES
 
 #### Status
 ACCEPTED

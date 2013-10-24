@@ -1,5 +1,4 @@
-Gloeocantharellus okapaensis (Corner) Corner SPECIES
-=======
+# Gloeocantharellus okapaensis (Corner) Corner SPECIES
 
 #### Status
 ACCEPTED

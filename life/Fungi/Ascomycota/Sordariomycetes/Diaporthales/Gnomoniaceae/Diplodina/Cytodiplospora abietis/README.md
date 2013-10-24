@@ -1,5 +1,4 @@
-Cytodiplospora abietis Naumov SPECIES
-=======
+# Cytodiplospora abietis Naumov SPECIES
 
 #### Status
 ACCEPTED

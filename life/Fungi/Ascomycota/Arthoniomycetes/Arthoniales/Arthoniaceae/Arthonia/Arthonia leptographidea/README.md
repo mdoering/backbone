@@ -1,5 +1,4 @@
-Arthonia leptographidea (Vain.) Zahlbr. SPECIES
-=======
+# Arthonia leptographidea (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

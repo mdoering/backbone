@@ -1,5 +1,4 @@
-Coilodesme Strømfelt, 1886 GENUS
-=======
+# Coilodesme Strømfelt, 1886 GENUS
 
 #### Status
 ACCEPTED

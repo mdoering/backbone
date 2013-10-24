@@ -1,5 +1,4 @@
-Hypophyllum radula Paulet SPECIES
-=======
+# Hypophyllum radula Paulet SPECIES
 
 #### Status
 ACCEPTED

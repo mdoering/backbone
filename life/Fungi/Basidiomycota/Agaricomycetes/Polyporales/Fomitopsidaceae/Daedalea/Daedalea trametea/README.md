@@ -1,5 +1,4 @@
-Daedalea trametea (Quél.) Sacc. & Traverso SPECIES
-=======
+# Daedalea trametea (Quél.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

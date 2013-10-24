@@ -1,5 +1,4 @@
-Parmotrema virescens Hale SPECIES
-=======
+# Parmotrema virescens Hale SPECIES
 
 #### Status
 ACCEPTED

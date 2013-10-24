@@ -1,5 +1,4 @@
-Histiastromma Haeckel, 1887 GENUS
-=======
+# Histiastromma Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

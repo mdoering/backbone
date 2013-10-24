@@ -1,5 +1,4 @@
-Boletus validus C. Mart. SPECIES
-=======
+# Boletus validus C. Mart. SPECIES
 
 #### Status
 ACCEPTED

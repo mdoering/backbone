@@ -1,5 +1,4 @@
-Phomopsis passiflorae J.F. Lue & P.K. Chi SPECIES
-=======
+# Phomopsis passiflorae J.F. Lue & P.K. Chi SPECIES
 
 #### Status
 ACCEPTED

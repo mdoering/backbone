@@ -1,5 +1,4 @@
-Amphisphaeria heteromera Briard & Sacc. SPECIES
-=======
+# Amphisphaeria heteromera Briard & Sacc. SPECIES
 
 #### Status
 ACCEPTED

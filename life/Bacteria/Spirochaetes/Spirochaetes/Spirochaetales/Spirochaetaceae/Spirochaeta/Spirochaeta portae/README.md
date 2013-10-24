@@ -1,5 +1,4 @@
-Spirochaeta portae SPECIES
-=======
+# Spirochaeta portae SPECIES
 
 #### Status
 ACCEPTED

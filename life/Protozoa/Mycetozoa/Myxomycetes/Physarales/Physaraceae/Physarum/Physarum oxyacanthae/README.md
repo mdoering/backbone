@@ -1,5 +1,4 @@
-Physarum oxyacanthae Schumach. SPECIES
-=======
+# Physarum oxyacanthae Schumach. SPECIES
 
 #### Status
 ACCEPTED

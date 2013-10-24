@@ -1,5 +1,4 @@
-Lepraria umbricola Tønsberg SPECIES
-=======
+# Lepraria umbricola Tønsberg SPECIES
 
 #### Status
 ACCEPTED

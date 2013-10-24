@@ -1,5 +1,4 @@
-Tubercularia castaneae Pers. SPECIES
-=======
+# Tubercularia castaneae Pers. SPECIES
 
 #### Status
 ACCEPTED

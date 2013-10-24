@@ -1,5 +1,4 @@
-Metopus acidiferus Kahl, 1932 SPECIES
-=======
+# Metopus acidiferus Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

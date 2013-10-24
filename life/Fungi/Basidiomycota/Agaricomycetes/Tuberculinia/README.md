@@ -1,5 +1,4 @@
-Tuberculinia Velen. GENUS
-=======
+# Tuberculinia Velen. GENUS
 
 #### Status
 ACCEPTED

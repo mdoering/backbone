@@ -1,5 +1,4 @@
-Sporotrichum grisellum Sacc. SPECIES
-=======
+# Sporotrichum grisellum Sacc. SPECIES
 
 #### Status
 ACCEPTED

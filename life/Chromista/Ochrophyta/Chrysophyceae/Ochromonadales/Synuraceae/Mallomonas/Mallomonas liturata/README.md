@@ -1,5 +1,4 @@
-Mallomonas liturata K. H. Nicholls SPECIES
-=======
+# Mallomonas liturata K. H. Nicholls SPECIES
 
 #### Status
 ACCEPTED

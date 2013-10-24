@@ -1,5 +1,4 @@
-Durella polyporicola Svrcek SPECIES
-=======
+# Durella polyporicola Svrcek SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buelliastrum tenue SPECIES
-=======
+# Buelliastrum tenue SPECIES
 
 #### Status
 ACCEPTED

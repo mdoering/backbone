@@ -1,5 +1,4 @@
-Galerina oligocalyptrata Singer SPECIES
-=======
+# Galerina oligocalyptrata Singer SPECIES
 
 #### Status
 ACCEPTED

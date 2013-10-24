@@ -1,5 +1,4 @@
-Distothelia Aptroot GENUS
-=======
+# Distothelia Aptroot GENUS
 
 #### Status
 ACCEPTED

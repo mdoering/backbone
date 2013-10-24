@@ -1,5 +1,4 @@
-Aaptotoichus Loeblich & Tappan, 1982 GENUS
-=======
+# Aaptotoichus Loeblich & Tappan, 1982 GENUS
 
 #### Status
 ACCEPTED

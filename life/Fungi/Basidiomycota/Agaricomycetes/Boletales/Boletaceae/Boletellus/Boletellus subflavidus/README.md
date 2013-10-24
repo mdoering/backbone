@@ -1,5 +1,4 @@
-Boletellus subflavidus (Murrill) Snell SPECIES
-=======
+# Boletellus subflavidus (Murrill) Snell SPECIES
 
 #### Status
 ACCEPTED

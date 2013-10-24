@@ -1,5 +1,4 @@
-Micrhystridium heteracanthum Stockmans & Willière, 1966 SPECIES
-=======
+# Micrhystridium heteracanthum Stockmans & Willière, 1966 SPECIES
 
 #### Status
 ACCEPTED

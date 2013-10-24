@@ -1,5 +1,4 @@
-Mycosphaerella bupleuri Sacc. & Roum. SPECIES
-=======
+# Mycosphaerella bupleuri Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

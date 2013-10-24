@@ -1,5 +1,4 @@
-Tricholoma boreale (Fr.) Sacc. SPECIES
-=======
+# Tricholoma boreale (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

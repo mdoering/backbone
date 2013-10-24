@@ -1,5 +1,4 @@
-Dictyosporites globimuriformis Kalgutkar SPECIES
-=======
+# Dictyosporites globimuriformis Kalgutkar SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aschersonia columnifera Petch SPECIES
-=======
+# Aschersonia columnifera Petch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria quercus Thüm. SPECIES
-=======
+# Septoria quercus Thüm. SPECIES
 
 #### Status
 ACCEPTED

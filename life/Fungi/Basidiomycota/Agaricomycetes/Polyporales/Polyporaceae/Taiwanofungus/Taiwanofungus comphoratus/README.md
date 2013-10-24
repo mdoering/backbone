@@ -1,5 +1,4 @@
-Taiwanofungus comphoratus (M. Zang & C.H. Su) Sheng H. Wu, Z.H. Yu, Y.C. Dai & Su SPECIES
-=======
+# Taiwanofungus comphoratus (M. Zang & C.H. Su) Sheng H. Wu, Z.H. Yu, Y.C. Dai & Su SPECIES
 
 #### Status
 ACCEPTED

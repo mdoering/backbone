@@ -1,5 +1,4 @@
-Assulina seminulum Ehrenberg SPECIES
-=======
+# Assulina seminulum Ehrenberg SPECIES
 
 #### Status
 ACCEPTED

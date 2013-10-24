@@ -1,5 +1,4 @@
-Sorosporium texanum Zundel SPECIES
-=======
+# Sorosporium texanum Zundel SPECIES
 
 #### Status
 ACCEPTED

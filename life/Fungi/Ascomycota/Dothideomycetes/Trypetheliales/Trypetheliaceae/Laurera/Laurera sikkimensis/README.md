@@ -1,5 +1,4 @@
-Laurera sikkimensis Makhija & Patw. SPECIES
-=======
+# Laurera sikkimensis Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

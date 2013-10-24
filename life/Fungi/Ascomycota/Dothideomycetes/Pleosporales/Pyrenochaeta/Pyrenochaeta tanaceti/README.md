@@ -1,5 +1,4 @@
-Pyrenochaeta tanaceti Hollós SPECIES
-=======
+# Pyrenochaeta tanaceti Hollós SPECIES
 
 #### Status
 ACCEPTED

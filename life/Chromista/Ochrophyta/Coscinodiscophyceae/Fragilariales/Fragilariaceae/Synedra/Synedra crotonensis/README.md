@@ -1,5 +1,4 @@
-Synedra crotonensis var. prolongata Grunow VARIETY
-=======
+# Synedra crotonensis Grunow SPECIES
 
 #### Status
 ACCEPTED

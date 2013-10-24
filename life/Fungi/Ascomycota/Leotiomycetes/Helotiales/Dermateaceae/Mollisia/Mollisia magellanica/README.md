@@ -1,5 +1,4 @@
-Mollisia magellanica Speg. SPECIES
-=======
+# Mollisia magellanica Speg. SPECIES
 
 #### Status
 ACCEPTED

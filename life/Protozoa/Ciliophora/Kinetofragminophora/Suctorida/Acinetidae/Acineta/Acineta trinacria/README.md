@@ -1,5 +1,4 @@
-Acineta trinacria Gruber, 1884 SPECIES
-=======
+# Acineta trinacria Gruber, 1884 SPECIES
 
 #### Status
 ACCEPTED

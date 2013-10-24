@@ -1,5 +1,4 @@
-Caeoma arundinae Racib. SPECIES
-=======
+# Caeoma arundinae Racib. SPECIES
 
 #### Status
 ACCEPTED

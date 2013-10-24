@@ -1,5 +1,4 @@
-Aplosporella plumeriae V.G. Rao SPECIES
-=======
+# Aplosporella plumeriae V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

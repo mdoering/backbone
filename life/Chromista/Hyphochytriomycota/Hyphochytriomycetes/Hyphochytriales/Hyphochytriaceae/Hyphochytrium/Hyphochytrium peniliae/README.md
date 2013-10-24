@@ -1,5 +1,4 @@
-Hyphochytrium peniliae N.J. Artemczuk & Zelez., 1969 SPECIES
-=======
+# Hyphochytrium peniliae N.J. Artemczuk & Zelez., 1969 SPECIES
 
 #### Status
 ACCEPTED

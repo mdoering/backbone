@@ -1,5 +1,4 @@
-Arthothelium diffluens (Nyl.) Imshaug & Fryday SPECIES
-=======
+# Arthothelium diffluens (Nyl.) Imshaug & Fryday SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria humulina Peck SPECIES
-=======
+# Sphaeria humulina Peck SPECIES
 
 #### Status
 ACCEPTED

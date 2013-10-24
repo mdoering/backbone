@@ -1,17 +1,16 @@
-Dinemasporis Clem. & Shear GENUS
-=======
+# Dinemasporiella Spegazzini, 1910 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+IRMNG Homonym List
 
 #### Published in
-Gen. fung. (Minneapolis), Edn 2 378 (1931)
+Anal. Mus. nac. B. Aires, Ser. 3 13: 366 (1910)
 
 #### Original name
-Dinemasporis Clem. & Shear
+Dinemasporiella Spegazzini, 1910
 
 ### Remarks
 null

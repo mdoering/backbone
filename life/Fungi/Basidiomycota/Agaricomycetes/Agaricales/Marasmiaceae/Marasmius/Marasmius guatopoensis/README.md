@@ -1,5 +1,4 @@
-Marasmius guatopoensis Dennis SPECIES
-=======
+# Marasmius guatopoensis Dennis SPECIES
 
 #### Status
 ACCEPTED

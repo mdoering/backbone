@@ -1,14 +1,13 @@
-Flavophlebia (Parmasto) K.H. Larss. & Hjortstam GENUS
-=======
+# Radulomyces M.P. Christiansen, 1960 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-in Hjortstam & Larsson, Mycotaxon 5(2): 475 (1977)
+null
 
 #### Original name
 null

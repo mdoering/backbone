@@ -1,5 +1,4 @@
-Cortinarius lamprocreas Chevassut & Rob. Henry SPECIES
-=======
+# Cortinarius lamprocreas Chevassut & Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

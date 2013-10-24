@@ -1,5 +1,4 @@
-Puccinia ancizari Mayor SPECIES
-=======
+# Puccinia ancizari Mayor SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peridermium loranthinum Pass. SPECIES
-=======
+# Peridermium loranthinum Pass. SPECIES
 
 #### Status
 ACCEPTED

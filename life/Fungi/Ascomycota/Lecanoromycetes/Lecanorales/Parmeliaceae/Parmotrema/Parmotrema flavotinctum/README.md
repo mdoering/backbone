@@ -1,5 +1,4 @@
-Parmotrema flavotinctum (Hale) Hale SPECIES
-=======
+# Parmotrema flavotinctum (Hale) Hale SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phacus pekinensis Skvortzov SPECIES
-=======
+# Phacus pekinensis Skvortzov SPECIES
 
 #### Status
 ACCEPTED

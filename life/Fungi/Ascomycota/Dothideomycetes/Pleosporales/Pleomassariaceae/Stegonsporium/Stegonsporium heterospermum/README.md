@@ -1,5 +1,4 @@
-Stegonsporium heterospermum Vestergr. SPECIES
-=======
+# Stegonsporium heterospermum Vestergr. SPECIES
 
 #### Status
 ACCEPTED

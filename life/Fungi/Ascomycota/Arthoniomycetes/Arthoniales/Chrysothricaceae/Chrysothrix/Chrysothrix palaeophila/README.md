@@ -1,5 +1,4 @@
-Chrysothrix palaeophila Kantvilas & Elix SPECIES
-=======
+# Chrysothrix palaeophila Kantvilas & Elix SPECIES
 
 #### Status
 ACCEPTED

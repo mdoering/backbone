@@ -1,5 +1,4 @@
-Irenopsis chandleri Hansf. SPECIES
-=======
+# Irenopsis chandleri Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza rubinella Nyl. SPECIES
-=======
+# Peziza rubinella Nyl. SPECIES
 
 #### Status
 ACCEPTED

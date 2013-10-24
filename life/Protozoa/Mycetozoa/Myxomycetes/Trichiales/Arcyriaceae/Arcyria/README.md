@@ -1,17 +1,16 @@
-Arcyrella (Rostaf.) Racib. GENUS
-=======
+# Arcyria Hill ex F.H. Wigg. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Rozpr. Spraw. Posiedzen Wydz. Mat. -Przyr. Akad. Umiejetn. 12: 81 (1884)
+Prim. fl. holsat. (Kiliae) 109 (1780)
 
 #### Original name
-null
+Arcyria Hill ex F.H. Wigg.
 
 ### Remarks
 null

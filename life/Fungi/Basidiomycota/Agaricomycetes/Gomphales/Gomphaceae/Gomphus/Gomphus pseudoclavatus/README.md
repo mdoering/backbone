@@ -1,5 +1,4 @@
-Gomphus pseudoclavatus (A.H. Sm.) Corner SPECIES
-=======
+# Gomphus pseudoclavatus (A.H. Sm.) Corner SPECIES
 
 #### Status
 ACCEPTED

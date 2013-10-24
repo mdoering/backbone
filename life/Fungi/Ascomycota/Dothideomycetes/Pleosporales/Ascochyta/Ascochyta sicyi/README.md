@@ -1,5 +1,4 @@
-Ascochyta sicyi Novoss. SPECIES
-=======
+# Ascochyta sicyi Novoss. SPECIES
 
 #### Status
 ACCEPTED

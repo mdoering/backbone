@@ -1,5 +1,4 @@
-Sporocybe clavulata (Ces.) Sacc. SPECIES
-=======
+# Sporocybe clavulata (Ces.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

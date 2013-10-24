@@ -1,5 +1,4 @@
-Pholiota confoederans (Britzelm.) Sacc. SPECIES
-=======
+# Pholiota confoederans (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

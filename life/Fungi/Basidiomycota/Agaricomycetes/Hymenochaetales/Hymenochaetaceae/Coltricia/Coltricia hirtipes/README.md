@@ -1,5 +1,4 @@
-Coltricia hirtipes var. hirtipes VARIETY
-=======
+# Coltricia hirtipes Corner SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Beih. Nova Hedwigia 101: 98 (1991)
 
 #### Original name
-Coltricia hirtipes var. hirtipes
+Coltricia hirtipes Corner
 
 ### Remarks
 null

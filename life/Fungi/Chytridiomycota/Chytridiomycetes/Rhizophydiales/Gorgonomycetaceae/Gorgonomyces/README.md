@@ -1,5 +1,4 @@
-Gorgonomyces Letcher GENUS
-=======
+# Gorgonomyces Letcher GENUS
 
 #### Status
 ACCEPTED

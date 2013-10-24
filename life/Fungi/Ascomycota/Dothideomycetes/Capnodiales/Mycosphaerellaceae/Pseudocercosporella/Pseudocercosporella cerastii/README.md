@@ -1,5 +1,4 @@
-Pseudocercosporella cerastii (H.C. Greene) U. Braun SPECIES
-=======
+# Pseudocercosporella cerastii (H.C. Greene) U. Braun SPECIES
 
 #### Status
 ACCEPTED

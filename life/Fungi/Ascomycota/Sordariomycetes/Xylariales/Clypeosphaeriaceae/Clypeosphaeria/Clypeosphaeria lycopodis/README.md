@@ -1,5 +1,4 @@
-Clypeosphaeria lycopodis Sousa da Câmara & Luz SPECIES
-=======
+# Clypeosphaeria lycopodis Sousa da Câmara & Luz SPECIES
 
 #### Status
 ACCEPTED

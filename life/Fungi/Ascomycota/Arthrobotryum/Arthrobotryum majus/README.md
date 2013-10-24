@@ -1,5 +1,4 @@
-Arthrobotryum majus Sacc. SPECIES
-=======
+# Arthrobotryum majus Sacc. SPECIES
 
 #### Status
 ACCEPTED

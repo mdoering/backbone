@@ -1,5 +1,4 @@
-Trametes arcana Corner SPECIES
-=======
+# Trametes arcana Corner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microsphaera weigelae Y. Nomura & Tanda SPECIES
-=======
+# Microsphaera weigelae Y. Nomura & Tanda SPECIES
 
 #### Status
 ACCEPTED

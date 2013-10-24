@@ -1,5 +1,4 @@
-Mantellum adherens Dangeard SPECIES
-=======
+# Mantellum adherens Dangeard SPECIES
 
 #### Status
 ACCEPTED

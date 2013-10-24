@@ -1,5 +1,4 @@
-Parmeliella isidiopannosa P.M. Jørg. SPECIES
-=======
+# Parmeliella isidiopannosa P.M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

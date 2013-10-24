@@ -1,5 +1,4 @@
-Miliammina groenlandica Cushman, 1933 SPECIES
-=======
+# Miliammina groenlandica Cushman, 1933 SPECIES
 
 #### Status
 ACCEPTED

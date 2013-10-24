@@ -1,5 +1,4 @@
-Scindalma chaetoporus Kuntze SPECIES
-=======
+# Scindalma chaetoporus Kuntze SPECIES
 
 #### Status
 ACCEPTED

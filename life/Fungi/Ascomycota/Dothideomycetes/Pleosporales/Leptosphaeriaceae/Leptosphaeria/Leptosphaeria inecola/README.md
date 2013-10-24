@@ -1,5 +1,4 @@
-Leptosphaeria inecola Hara SPECIES
-=======
+# Leptosphaeria inecola Hara SPECIES
 
 #### Status
 ACCEPTED

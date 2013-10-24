@@ -1,5 +1,4 @@
-Favolus trigonus Lloyd SPECIES
-=======
+# Favolus trigonus Lloyd SPECIES
 
 #### Status
 ACCEPTED

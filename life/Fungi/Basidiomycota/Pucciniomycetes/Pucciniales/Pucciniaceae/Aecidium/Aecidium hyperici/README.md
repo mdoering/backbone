@@ -1,5 +1,4 @@
-Aecidium hyperici Henn. SPECIES
-=======
+# Aecidium hyperici Henn. SPECIES
 
 #### Status
 ACCEPTED

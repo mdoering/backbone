@@ -1,5 +1,4 @@
-Graphis microcarpa (Ach.) Röhl. SPECIES
-=======
+# Graphis microcarpa (Ach.) Röhl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Julella kanargaonensis P.G. Sathe & K.M. Mogarkar SPECIES
-=======
+# Julella kanargaonensis P.G. Sathe & K.M. Mogarkar SPECIES
 
 #### Status
 ACCEPTED

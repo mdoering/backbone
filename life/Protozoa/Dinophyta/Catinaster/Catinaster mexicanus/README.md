@@ -1,5 +1,4 @@
-Catinaster mexicanus Bukry, 1971 SPECIES
-=======
+# Catinaster mexicanus Bukry, 1971 SPECIES
 
 #### Status
 ACCEPTED

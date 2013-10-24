@@ -1,5 +1,4 @@
-Sporothrix ranii Moustafa, 1981 SPECIES
-=======
+# Sporothrix ranii Moustafa, 1981 SPECIES
 
 #### Status
 ACCEPTED

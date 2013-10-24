@@ -1,5 +1,4 @@
-Geotrichum silvicola Pimenta, Prasad, Lachance & C.A. Rosa SPECIES
-=======
+# Geotrichum silvicola Pimenta, Prasad, Lachance & C.A. Rosa SPECIES
 
 #### Status
 ACCEPTED

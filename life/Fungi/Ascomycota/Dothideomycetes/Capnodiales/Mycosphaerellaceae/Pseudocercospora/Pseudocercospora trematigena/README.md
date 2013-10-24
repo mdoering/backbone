@@ -1,5 +1,4 @@
-Pseudocercospora trematigena U. Braun & F.O. Freire SPECIES
-=======
+# Pseudocercospora trematigena U. Braun & F.O. Freire SPECIES
 
 #### Status
 ACCEPTED

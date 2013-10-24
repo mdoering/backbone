@@ -1,5 +1,4 @@
-Agaricus spiloleucus Krombh. SPECIES
-=======
+# Agaricus spiloleucus Krombh. SPECIES
 
 #### Status
 ACCEPTED

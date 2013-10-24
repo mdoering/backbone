@@ -1,5 +1,4 @@
-Marasmius caliensis Singer SPECIES
-=======
+# Marasmius caliensis Singer SPECIES
 
 #### Status
 ACCEPTED

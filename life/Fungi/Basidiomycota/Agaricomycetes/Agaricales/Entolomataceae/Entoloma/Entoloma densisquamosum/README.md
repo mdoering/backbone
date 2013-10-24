@@ -1,5 +1,4 @@
-Entoloma densisquamosum E. Horak SPECIES
-=======
+# Entoloma densisquamosum E. Horak SPECIES
 
 #### Status
 ACCEPTED

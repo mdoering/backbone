@@ -1,8 +1,7 @@
-Spirophthalmidium acutimargo var. emaciatum Haynes, 1973 VARIETY
-=======
+# Spirophthalmidium emaciatum (Haynes, 1973) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

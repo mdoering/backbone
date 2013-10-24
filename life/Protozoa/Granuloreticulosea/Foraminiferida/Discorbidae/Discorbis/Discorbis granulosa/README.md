@@ -1,5 +1,4 @@
-Discorbis granulosa SPECIES
-=======
+# Discorbis granulosa SPECIES
 
 #### Status
 ACCEPTED

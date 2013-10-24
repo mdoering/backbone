@@ -1,5 +1,4 @@
-Hydrocybe riculata (Fr.) M.M. Moser SPECIES
-=======
+# Hydrocybe riculata (Fr.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

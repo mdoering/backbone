@@ -1,5 +1,4 @@
-Lopadiomyces pezizoidei Cif. & Tomas. SPECIES
-=======
+# Lopadiomyces pezizoidei Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

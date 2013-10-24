@@ -1,17 +1,16 @@
-Ombrophila bataillei Boud., 1907 SPECIES
-=======
+# Cudoniella tenuispora (Cooke & Massee) Dennis, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Kew Bull. , Addit. Ser. 29(1): 157 (1974)
 
 #### Original name
-Ombrophila bataillei Boud., 1907
+Sarcoscypha tenuispora Cooke & Massee, 1893
 
 ### Remarks
 null

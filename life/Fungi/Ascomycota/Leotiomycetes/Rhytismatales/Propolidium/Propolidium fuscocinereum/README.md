@@ -1,5 +1,4 @@
-Propolidium fuscocinereum Ellis & Everh. SPECIES
-=======
+# Propolidium fuscocinereum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

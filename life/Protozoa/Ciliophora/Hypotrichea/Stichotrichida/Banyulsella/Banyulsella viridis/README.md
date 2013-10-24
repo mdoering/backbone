@@ -1,5 +1,4 @@
-Banyulsella viridis Dragesco, 1953 SPECIES
-=======
+# Banyulsella viridis Dragesco, 1953 SPECIES
 
 #### Status
 ACCEPTED

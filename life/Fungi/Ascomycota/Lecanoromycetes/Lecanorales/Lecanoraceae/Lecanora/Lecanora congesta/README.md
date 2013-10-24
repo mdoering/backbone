@@ -1,14 +1,13 @@
-Pseudoplacodium congestum (Clauzade & Vezda) Motyka SPECIES
-=======
+# Lecanora congesta Clauzade & Vezda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Porosty (Lichenes). <b>2</b> (Lublin), Rodzina <i>Lecanoraceae</i>. <i>Pinacisca</i>, <i>Lecidorina</i>, <i>Urceolaria</i>, <i>Semilecanora</i>, <i>Paraplacodium</i>, <i>Koerberiella</i>, <i>Lecidora</i>, <i>Pseudoplacodium</i>, <i>Tephromela</i> 559 (1996)
+Portug. acta biol. , Sér. B 9: 331 (1969)
 
 #### Original name
 Lecanora congesta Clauzade & Vezda

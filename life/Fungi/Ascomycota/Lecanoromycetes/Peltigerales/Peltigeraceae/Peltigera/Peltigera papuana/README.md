@@ -1,5 +1,4 @@
-Peltigera papuana Sérus., Goffinet, Miadl. & Vitik. SPECIES
-=======
+# Peltigera papuana Sérus., Goffinet, Miadl. & Vitik. SPECIES
 
 #### Status
 ACCEPTED

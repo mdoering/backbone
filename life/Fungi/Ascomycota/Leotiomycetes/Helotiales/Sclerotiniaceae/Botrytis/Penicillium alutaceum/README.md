@@ -1,5 +1,4 @@
-Penicillium alutaceum D.B. Scott, 1968 SPECIES
-=======
+# Penicillium alutaceum D.B. Scott, 1968 SPECIES
 
 #### Status
 DOUBTFUL

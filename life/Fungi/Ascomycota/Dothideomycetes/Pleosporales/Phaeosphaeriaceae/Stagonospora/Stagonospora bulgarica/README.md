@@ -1,5 +1,4 @@
-Stagonospora bulgarica Vanev SPECIES
-=======
+# Stagonospora bulgarica Vanev SPECIES
 
 #### Status
 ACCEPTED

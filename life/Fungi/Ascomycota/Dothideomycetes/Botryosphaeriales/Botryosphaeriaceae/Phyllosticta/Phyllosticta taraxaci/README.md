@@ -1,5 +1,4 @@
-Phyllosticta taraxaci Hollós SPECIES
-=======
+# Phyllosticta taraxaci Hollós SPECIES
 
 #### Status
 ACCEPTED

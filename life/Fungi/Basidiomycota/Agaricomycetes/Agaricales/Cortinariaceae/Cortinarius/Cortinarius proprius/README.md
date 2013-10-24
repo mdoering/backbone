@@ -1,5 +1,4 @@
-Cortinarius proprius Herp. SPECIES
-=======
+# Cortinarius proprius Herp. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stereocaulon myriocarpum var. myriocarpum VARIETY
-=======
+# Stereocaulon myriocarpum Th. Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Stereocaulon myriocarpum var. myriocarpum
+Stereocaulon myriocarpum Th. Fr.
 
 ### Remarks
 null

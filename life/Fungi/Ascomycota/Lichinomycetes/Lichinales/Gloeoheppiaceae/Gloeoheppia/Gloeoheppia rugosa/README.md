@@ -1,5 +1,4 @@
-Gloeoheppia rugosa Henssen SPECIES
-=======
+# Gloeoheppia rugosa Henssen SPECIES
 
 #### Status
 ACCEPTED

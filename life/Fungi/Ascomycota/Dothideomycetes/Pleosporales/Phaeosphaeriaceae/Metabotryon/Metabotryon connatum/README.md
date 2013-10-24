@@ -1,5 +1,4 @@
-Metabotryon connatum Syd. SPECIES
-=======
+# Metabotryon connatum Syd. SPECIES
 
 #### Status
 ACCEPTED

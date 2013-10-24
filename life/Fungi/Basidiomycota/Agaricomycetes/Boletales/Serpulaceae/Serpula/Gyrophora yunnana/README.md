@@ -1,5 +1,4 @@
-Gyrophora yunnana Nyl. SPECIES
-=======
+# Gyrophora yunnana Nyl. SPECIES
 
 #### Status
 ACCEPTED

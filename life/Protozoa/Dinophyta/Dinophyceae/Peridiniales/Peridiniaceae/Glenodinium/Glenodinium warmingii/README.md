@@ -1,5 +1,4 @@
-Glenodinium warmingii Bergh SPECIES
-=======
+# Glenodinium warmingii Bergh SPECIES
 
 #### Status
 ACCEPTED

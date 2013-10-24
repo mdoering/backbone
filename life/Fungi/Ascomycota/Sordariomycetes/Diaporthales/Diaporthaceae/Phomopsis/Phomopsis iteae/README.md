@@ -1,5 +1,4 @@
-Phomopsis iteae Vanev SPECIES
-=======
+# Phomopsis iteae Vanev SPECIES
 
 #### Status
 ACCEPTED

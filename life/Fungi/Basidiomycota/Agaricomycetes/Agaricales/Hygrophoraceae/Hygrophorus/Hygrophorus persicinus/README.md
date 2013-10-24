@@ -1,5 +1,4 @@
-Hygrophorus persicinus Beck SPECIES
-=======
+# Hygrophorus persicinus Beck SPECIES
 
 #### Status
 ACCEPTED

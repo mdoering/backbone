@@ -1,14 +1,13 @@
-Phillipsia tetraspora (Seaver) Le Gal, 1953 SPECIES
-=======
+# Nanoscypha tetraspora (Seaver) Denison, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Discom. de Madagascar 284 (1953)
+Mycologia 64(3): 619 (1972)
 
 #### Original name
 Cookeina tetraspora Seaver, 1925

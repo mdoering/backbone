@@ -1,17 +1,16 @@
-Cercospora tremaecanabinae J.M. Yen & Lim SPECIES
-=======
+# Cercospora trematis-cannabini J.M. Yen & Lim SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. trimest. Soc. mycol. Fr. 86(3): 752 (1970)
 
 #### Original name
-Cercospora tremaecanabinae J.M. Yen & Lim
+Cercospora trematis-cannabini J.M. Yen & Lim
 
 ### Remarks
 null

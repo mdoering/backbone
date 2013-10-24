@@ -1,5 +1,4 @@
-Microdiplodia miyakei Traverso ex Sacc. SPECIES
-=======
+# Microdiplodia miyakei Traverso ex Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Lophiotrema mollerianum (G. Winter) Berl. & Voglino SPECIES
-=======
+# Lophiotrema moellerianum (G. Winter) Berl. & Voglino SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

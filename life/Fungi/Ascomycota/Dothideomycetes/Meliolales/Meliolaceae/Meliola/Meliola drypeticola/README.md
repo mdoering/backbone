@@ -1,5 +1,4 @@
-Meliola drypeticola Hosag. SPECIES
-=======
+# Meliola drypeticola Hosag. SPECIES
 
 #### Status
 ACCEPTED

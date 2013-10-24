@@ -1,5 +1,4 @@
-Delitschia gymnospora Munk SPECIES
-=======
+# Delitschia gymnospora Munk SPECIES
 
 #### Status
 ACCEPTED

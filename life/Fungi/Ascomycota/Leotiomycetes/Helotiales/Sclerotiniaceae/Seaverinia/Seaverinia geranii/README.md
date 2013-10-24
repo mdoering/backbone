@@ -1,14 +1,13 @@
-Sclerotinia geranii Seaver & W.T. Horne, 1918 SPECIES
-=======
+# Seaverinia geranii (Seaver & W.T. Horne) Whetzel, 1945 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 37(6): 705 (1945)
 
 #### Original name
 Sclerotinia geranii Seaver & W.T. Horne, 1918

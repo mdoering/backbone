@@ -1,5 +1,4 @@
-Endothia daldiniana De Not. SPECIES
-=======
+# Endothia daldiniana De Not. SPECIES
 
 #### Status
 ACCEPTED

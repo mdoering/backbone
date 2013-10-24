@@ -1,5 +1,4 @@
-Phoma polygalae Cooke & Harkn. SPECIES
-=======
+# Phoma polygalae Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

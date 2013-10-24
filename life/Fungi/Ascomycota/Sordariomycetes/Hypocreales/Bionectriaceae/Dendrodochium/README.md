@@ -1,17 +1,16 @@
-Patouillardea Roum. GENUS
-=======
+# Dendrodochium Bonorden, 1851 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Revue mycol. , Toulouse 7: 177 (1885)
+null
 
 #### Original name
-Patouillardea Roum.
+null
 
 ### Remarks
 null

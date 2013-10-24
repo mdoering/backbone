@@ -1,5 +1,4 @@
-Melasmia Léveillé, 1846 GENUS
-=======
+# Melasmia Léveillé, 1846 GENUS
 
 #### Status
 ACCEPTED

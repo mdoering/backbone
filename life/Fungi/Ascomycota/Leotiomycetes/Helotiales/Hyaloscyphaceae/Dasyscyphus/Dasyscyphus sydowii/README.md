@@ -1,5 +1,4 @@
-Dasyscyphus sydowii Dennis, 1949 SPECIES
-=======
+# Dasyscyphus sydowii Dennis, 1949 SPECIES
 
 #### Status
 ACCEPTED

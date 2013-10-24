@@ -1,17 +1,16 @@
-Parmelia camtschadalis f. camtschadalis (Ach.) Eschw. FORM
-=======
+# Xanthoparmelia camtschadalis (Ach.) Hale SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in von Martius, Fl. Bras. 1(1): 202 (1833)
+null
 
 #### Original name
-Parmelia camtschadalis f. camtschadalis (Ach.) Eschw.
+null
 
 ### Remarks
 null

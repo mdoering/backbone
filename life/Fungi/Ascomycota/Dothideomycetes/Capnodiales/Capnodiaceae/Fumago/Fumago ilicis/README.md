@@ -1,5 +1,4 @@
-Fumago ilicis Pers. SPECIES
-=======
+# Fumago ilicis Pers. SPECIES
 
 #### Status
 ACCEPTED

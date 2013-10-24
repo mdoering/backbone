@@ -1,5 +1,4 @@
-Phyllachora fraseriana Syd., 1938 SPECIES
-=======
+# Phyllachora fraseriana Syd., 1938 SPECIES
 
 #### Status
 ACCEPTED

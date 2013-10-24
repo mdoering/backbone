@@ -1,17 +1,16 @@
-Ancistroporella psoromica Komposch, Aptroot & Hafellner SPECIES
-=======
+# Ancistrosporella psoromica Komposch, Aptroot & Hafellner SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lichenologist 34(3): 231 (2002)
 
 #### Original name
-Ancistroporella psoromica Komposch, Aptroot & Hafellner
+Ancistrosporella psoromica Komposch, Aptroot & Hafellner
 
 ### Remarks
 null

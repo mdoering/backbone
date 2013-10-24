@@ -1,5 +1,4 @@
-Melanops minor (Ellis & Everh.) Weese SPECIES
-=======
+# Melanops minor (Ellis & Everh.) Weese SPECIES
 
 #### Status
 ACCEPTED

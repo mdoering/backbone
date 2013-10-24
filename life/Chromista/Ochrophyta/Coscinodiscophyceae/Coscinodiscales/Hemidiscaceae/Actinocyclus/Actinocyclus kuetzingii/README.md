@@ -1,5 +1,4 @@
-Actinocyclus kuetzingii (A.F.W. Schmidt) R. Simonsen, 1975 SPECIES
-=======
+# Actinocyclus kuetzingii (A.F.W. Schmidt) R. Simonsen, 1975 SPECIES
 
 #### Status
 ACCEPTED

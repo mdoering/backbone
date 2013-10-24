@@ -1,5 +1,4 @@
-Psaligonyaulax W.A.S. Sarjeant, 1966 GENUS
-=======
+# Psaligonyaulax W.A.S. Sarjeant, 1966 GENUS
 
 #### Status
 ACCEPTED

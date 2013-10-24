@@ -1,5 +1,4 @@
-Bactropycnis GENUS
-=======
+# Bactropycnis GENUS
 
 #### Status
 ACCEPTED

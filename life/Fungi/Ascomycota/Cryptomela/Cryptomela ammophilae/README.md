@@ -1,5 +1,4 @@
-Cryptomela ammophilae (Durieu & Mont.) Sacc. SPECIES
-=======
+# Cryptomela ammophilae (Durieu & Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

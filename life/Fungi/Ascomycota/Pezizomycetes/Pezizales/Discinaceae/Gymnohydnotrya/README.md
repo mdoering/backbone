@@ -1,5 +1,4 @@
-Gymnohydnotrya B.C. Zhang & Minter GENUS
-=======
+# Gymnohydnotrya B.C. Zhang & Minter GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma helictum (Berk.) Hesler SPECIES
-=======
+# Entoloma helictum (Berk.) Hesler SPECIES
 
 #### Status
 ACCEPTED

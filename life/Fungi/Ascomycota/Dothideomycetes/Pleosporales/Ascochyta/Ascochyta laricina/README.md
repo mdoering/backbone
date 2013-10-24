@@ -1,5 +1,4 @@
-Ascochyta laricina Voglino SPECIES
-=======
+# Ascochyta laricina Voglino SPECIES
 
 #### Status
 ACCEPTED

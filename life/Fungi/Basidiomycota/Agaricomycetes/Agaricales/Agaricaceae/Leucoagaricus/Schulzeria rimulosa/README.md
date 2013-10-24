@@ -1,5 +1,4 @@
-Schulzeria rimulosa Schulzer & Bres. SPECIES
-=======
+# Schulzeria rimulosa Schulzer & Bres. SPECIES
 
 #### Status
 ACCEPTED

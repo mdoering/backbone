@@ -1,5 +1,4 @@
-Pseudocercospora euryae Y.L. Guo SPECIES
-=======
+# Pseudocercospora euryae Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

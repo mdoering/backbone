@@ -1,5 +1,4 @@
-Clypeus albidolamellatus Britzelm. SPECIES
-=======
+# Clypeus albidolamellatus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

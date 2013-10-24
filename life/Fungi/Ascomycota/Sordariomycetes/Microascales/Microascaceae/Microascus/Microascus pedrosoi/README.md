@@ -1,5 +1,4 @@
-Microascus pedrosoi C.A. Fuentes & Wolf {?} SPECIES
-=======
+# Microascus pedrosoi C.A. Fuentes & Wolf {?} SPECIES
 
 #### Status
 ACCEPTED

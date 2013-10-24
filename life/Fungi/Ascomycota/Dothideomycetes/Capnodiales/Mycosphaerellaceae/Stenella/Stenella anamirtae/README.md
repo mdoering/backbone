@@ -1,5 +1,4 @@
-Stenella anamirtae K. Srivast., A.K. Srivast. & Kamal SPECIES
-=======
+# Stenella anamirtae K. Srivast., A.K. Srivast. & Kamal SPECIES
 
 #### Status
 ACCEPTED

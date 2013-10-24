@@ -1,5 +1,4 @@
-Cothurnia operculata Gruber, 1879 SPECIES
-=======
+# Cothurnia operculata Gruber, 1879 SPECIES
 
 #### Status
 ACCEPTED

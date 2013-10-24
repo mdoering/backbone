@@ -1,5 +1,4 @@
-Schistoplaca alvearialis Brusse SPECIES
-=======
+# Schistoplaca alvearialis Brusse SPECIES
 
 #### Status
 ACCEPTED

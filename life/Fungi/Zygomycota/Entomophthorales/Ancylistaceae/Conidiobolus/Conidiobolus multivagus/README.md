@@ -1,5 +1,4 @@
-Conidiobolus multivagus Drechsler SPECIES
-=======
+# Conidiobolus multivagus Drechsler SPECIES
 
 #### Status
 ACCEPTED

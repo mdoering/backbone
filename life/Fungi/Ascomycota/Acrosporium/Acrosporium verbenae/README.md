@@ -1,5 +1,4 @@
-Acrosporium verbenae (Thüm. & P.C. Bolle) J.A. Stev. SPECIES
-=======
+# Acrosporium verbenae (Thüm. & P.C. Bolle) J.A. Stev. SPECIES
 
 #### Status
 ACCEPTED

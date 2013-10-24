@@ -1,5 +1,4 @@
-Caloplaca ferruginosa (Tuck.) Zahlbr. SPECIES
-=======
+# Caloplaca ferruginosa (Tuck.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

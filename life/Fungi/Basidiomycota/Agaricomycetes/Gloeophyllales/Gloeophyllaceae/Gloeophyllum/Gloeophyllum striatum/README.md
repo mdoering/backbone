@@ -1,17 +1,16 @@
-Agaricus striatulus var. striatulus VARIETY
-=======
+# Gloeophyllum striatum (Sw.) Murrill, 1905 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syn. meth. fung. (Göttingen) 2: 485 (1801)
+Bull. Torrey bot. Club 32(7): 370 (1905)
 
 #### Original name
-Agaricus striatulus var. striatulus
+Agaricus striatus Sw., 1788
 
 ### Remarks
 null

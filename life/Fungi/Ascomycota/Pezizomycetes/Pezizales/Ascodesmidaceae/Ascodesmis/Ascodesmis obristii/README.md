@@ -1,17 +1,16 @@
-Ascodesmis obristi Currah SPECIES
-=======
+# Ascodesmis obristii Currah, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 78(2): 198 (1986)
 
 #### Original name
-Ascodesmis obristi Currah
+Ascodesmis obristii Currah, 1986
 
 ### Remarks
 null

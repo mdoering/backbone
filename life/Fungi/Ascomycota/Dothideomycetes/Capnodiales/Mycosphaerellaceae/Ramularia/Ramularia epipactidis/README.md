@@ -1,5 +1,4 @@
-Ramularia epipactidis U. Braun & Rogerson SPECIES
-=======
+# Ramularia epipactidis U. Braun & Rogerson SPECIES
 
 #### Status
 ACCEPTED

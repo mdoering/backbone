@@ -1,5 +1,4 @@
-Didymosphaeria festucae H. Wegelin SPECIES
-=======
+# Didymosphaeria festucae H. Wegelin SPECIES
 
 #### Status
 ACCEPTED

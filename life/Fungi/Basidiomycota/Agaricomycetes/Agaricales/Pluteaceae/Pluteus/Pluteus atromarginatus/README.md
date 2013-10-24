@@ -1,17 +1,16 @@
-Pluteus tricuspidatus Velen., 1939 SPECIES
-=======
+# Pluteus atromarginatus (Konrad) Kühner, 1935 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Novitates Mycologicae 143 (1939)
+Bull. mens. Soc. linn. Lyon 4(1): 51 (1935)
 
 #### Original name
-Pluteus tricuspidatus Velen., 1939
+Pluteus cervinus atromarginatus Konrad, 1927
 
 ### Remarks
 null

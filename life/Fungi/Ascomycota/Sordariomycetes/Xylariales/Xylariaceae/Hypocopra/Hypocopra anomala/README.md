@@ -1,5 +1,4 @@
-Hypocopra anomala J.C. Krug & Cain, 1974 SPECIES
-=======
+# Hypocopra anomala J.C. Krug & Cain, 1974 SPECIES
 
 #### Status
 ACCEPTED

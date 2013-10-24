@@ -1,5 +1,4 @@
-Edmundmasonia villosa Hol.-Jech. SPECIES
-=======
+# Edmundmasonia villosa Hol.-Jech. SPECIES
 
 #### Status
 ACCEPTED

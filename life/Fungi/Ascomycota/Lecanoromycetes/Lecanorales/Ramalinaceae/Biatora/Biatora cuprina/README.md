@@ -1,5 +1,4 @@
-Biatora cuprina (Nyl.) Arnold SPECIES
-=======
+# Biatora cuprina (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

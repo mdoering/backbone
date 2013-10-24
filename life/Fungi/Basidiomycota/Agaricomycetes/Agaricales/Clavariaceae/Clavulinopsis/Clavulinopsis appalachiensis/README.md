@@ -1,5 +1,4 @@
-Clavulinopsis appalachiensis (Coker) Corner SPECIES
-=======
+# Clavulinopsis appalachiensis (Coker) Corner SPECIES
 
 #### Status
 ACCEPTED

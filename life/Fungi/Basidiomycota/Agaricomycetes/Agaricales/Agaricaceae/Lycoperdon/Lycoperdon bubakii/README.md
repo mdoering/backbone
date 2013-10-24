@@ -1,5 +1,4 @@
-Lycoperdon bubakii Bres. SPECIES
-=======
+# Lycoperdon bubakii Bres. SPECIES
 
 #### Status
 ACCEPTED

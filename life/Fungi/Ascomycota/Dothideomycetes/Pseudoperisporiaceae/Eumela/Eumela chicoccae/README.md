@@ -1,5 +1,4 @@
-Eumela chicoccae Syd. SPECIES
-=======
+# Eumela chicoccae Syd. SPECIES
 
 #### Status
 ACCEPTED

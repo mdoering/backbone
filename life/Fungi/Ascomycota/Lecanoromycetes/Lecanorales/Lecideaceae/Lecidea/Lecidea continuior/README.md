@@ -1,5 +1,4 @@
-Lecidea continuior H. Olivier SPECIES
-=======
+# Lecidea continuior H. Olivier SPECIES
 
 #### Status
 ACCEPTED

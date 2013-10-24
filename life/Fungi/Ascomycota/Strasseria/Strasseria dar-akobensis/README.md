@@ -1,5 +1,4 @@
-Strasseria dar-akobensis Unamuno SPECIES
-=======
+# Strasseria dar-akobensis Unamuno SPECIES
 
 #### Status
 ACCEPTED

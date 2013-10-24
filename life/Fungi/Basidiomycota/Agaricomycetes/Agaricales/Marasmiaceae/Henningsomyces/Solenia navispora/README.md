@@ -1,5 +1,4 @@
-Solenia navispora Rick SPECIES
-=======
+# Solenia navispora Rick SPECIES
 
 #### Status
 ACCEPTED

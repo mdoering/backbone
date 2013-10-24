@@ -1,5 +1,4 @@
-Lecanora pseudodecorata Lumbsch & Elix SPECIES
-=======
+# Lecanora pseudodecorata Lumbsch & Elix SPECIES
 
 #### Status
 ACCEPTED

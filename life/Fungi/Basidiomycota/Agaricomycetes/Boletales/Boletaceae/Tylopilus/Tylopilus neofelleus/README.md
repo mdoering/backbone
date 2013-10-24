@@ -1,5 +1,4 @@
-Tylopilus neofelleus Hongo SPECIES
-=======
+# Tylopilus neofelleus Hongo SPECIES
 
 #### Status
 ACCEPTED

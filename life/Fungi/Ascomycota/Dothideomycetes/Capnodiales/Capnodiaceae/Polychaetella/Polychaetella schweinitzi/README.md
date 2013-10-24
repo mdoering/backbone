@@ -1,5 +1,4 @@
-Polychaetella schweinitzi (Berk. & Desm.) Speg. SPECIES
-=======
+# Polychaetella schweinitzi (Berk. & Desm.) Speg. SPECIES
 
 #### Status
 ACCEPTED

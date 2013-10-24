@@ -1,5 +1,4 @@
-Polyporus nubilus Fr. SPECIES
-=======
+# Polyporus nubilus Fr. SPECIES
 
 #### Status
 ACCEPTED

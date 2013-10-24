@@ -1,5 +1,4 @@
-Xylaria novoguineensis Rehm SPECIES
-=======
+# Xylaria novoguineensis Rehm SPECIES
 
 #### Status
 ACCEPTED

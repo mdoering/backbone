@@ -1,5 +1,4 @@
-Piricauda curvata (Berk. & M.A. Curtis) R.T. Moore SPECIES
-=======
+# Piricauda curvata (Berk. & M.A. Curtis) R.T. Moore SPECIES
 
 #### Status
 ACCEPTED

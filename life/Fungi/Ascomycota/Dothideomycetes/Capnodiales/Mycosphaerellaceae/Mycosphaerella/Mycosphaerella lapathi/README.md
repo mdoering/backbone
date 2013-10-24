@@ -1,5 +1,4 @@
-Mycosphaerella lapathi (Laib.) Petr. SPECIES
-=======
+# Mycosphaerella lapathi (Laib.) Petr. SPECIES
 
 #### Status
 ACCEPTED

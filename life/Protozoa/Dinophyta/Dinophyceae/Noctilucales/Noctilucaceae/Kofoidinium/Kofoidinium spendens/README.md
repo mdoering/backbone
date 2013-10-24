@@ -1,5 +1,4 @@
-Kofoidinium spendens Cachon & Cachon SPECIES
-=======
+# Kofoidinium spendens Cachon & Cachon SPECIES
 
 #### Status
 ACCEPTED

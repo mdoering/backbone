@@ -1,5 +1,4 @@
-Palmicola archontophoenicis K.D. Hyde, 1993 SPECIES
-=======
+# Palmicola archontophoenicis K.D. Hyde, 1993 SPECIES
 
 #### Status
 ACCEPTED

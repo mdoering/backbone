@@ -1,5 +1,4 @@
-Lophiostoma brachystomum Nitschke SPECIES
-=======
+# Lophiostoma brachystomum Nitschke SPECIES
 
 #### Status
 ACCEPTED

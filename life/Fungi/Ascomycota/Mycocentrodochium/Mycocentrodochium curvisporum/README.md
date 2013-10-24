@@ -1,5 +1,4 @@
-Mycocentrodochium curvisporum K. Matsush. & Matsush., 1996 SPECIES
-=======
+# Mycocentrodochium curvisporum K. Matsush. & Matsush., 1996 SPECIES
 
 #### Status
 ACCEPTED

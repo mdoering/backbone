@@ -1,5 +1,4 @@
-Anisomeridium foliicola R. Sant. & Tibell SPECIES
-=======
+# Anisomeridium foliicola R. Sant. & Tibell SPECIES
 
 #### Status
 ACCEPTED

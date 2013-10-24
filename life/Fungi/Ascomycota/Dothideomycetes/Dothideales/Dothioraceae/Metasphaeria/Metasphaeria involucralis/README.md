@@ -1,5 +1,4 @@
-Metasphaeria involucralis (Pass.) Sacc. SPECIES
-=======
+# Metasphaeria involucralis (Pass.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

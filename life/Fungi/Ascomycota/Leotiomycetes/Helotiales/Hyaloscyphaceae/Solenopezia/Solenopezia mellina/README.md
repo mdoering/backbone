@@ -1,5 +1,4 @@
-Solenopezia mellina Penz. & Sacc. SPECIES
-=======
+# Solenopezia mellina Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

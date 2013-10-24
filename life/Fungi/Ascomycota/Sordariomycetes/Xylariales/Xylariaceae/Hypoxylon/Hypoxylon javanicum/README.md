@@ -1,5 +1,4 @@
-Hypoxylon javanicum (Zipp. & Lév.) Sacc. SPECIES
-=======
+# Hypoxylon javanicum (Zipp. & Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

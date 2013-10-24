@@ -1,5 +1,4 @@
-Nolanea fumosella G. Winter SPECIES
-=======
+# Nolanea fumosella G. Winter SPECIES
 
 #### Status
 ACCEPTED

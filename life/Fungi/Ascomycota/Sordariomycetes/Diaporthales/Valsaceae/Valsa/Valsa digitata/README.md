@@ -1,5 +1,4 @@
-Valsa digitata Scop. SPECIES
-=======
+# Valsa digitata Scop. SPECIES
 
 #### Status
 ACCEPTED

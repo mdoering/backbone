@@ -1,5 +1,4 @@
-Patinella charticola Vouaux SPECIES
-=======
+# Patinella charticola Vouaux SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleospora spinosae Rolland SPECIES
-=======
+# Pleospora spinosae Rolland SPECIES
 
 #### Status
 ACCEPTED

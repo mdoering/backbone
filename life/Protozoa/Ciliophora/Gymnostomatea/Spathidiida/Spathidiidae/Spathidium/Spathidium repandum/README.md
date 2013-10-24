@@ -1,5 +1,4 @@
-Spathidium repandum Penard, 1922 SPECIES
-=======
+# Spathidium repandum Penard, 1922 SPECIES
 
 #### Status
 ACCEPTED

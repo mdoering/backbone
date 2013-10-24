@@ -1,5 +1,4 @@
-Pseudomassaria megalospora K.D. Hyde, J. Fröhl. & Joanne E. Taylor SPECIES
-=======
+# Pseudomassaria megalospora K.D. Hyde, J. Fröhl. & Joanne E. Taylor SPECIES
 
 #### Status
 ACCEPTED

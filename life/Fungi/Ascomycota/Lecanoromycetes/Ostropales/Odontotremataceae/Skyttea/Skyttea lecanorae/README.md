@@ -1,5 +1,4 @@
-Skyttea lecanorae Diederich & Etayo SPECIES
-=======
+# Skyttea lecanorae Diederich & Etayo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterinella protiicola Bat. SPECIES
-=======
+# Asterinella protiicola Bat. SPECIES
 
 #### Status
 ACCEPTED

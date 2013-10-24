@@ -1,5 +1,4 @@
-Caloplaca ochraceofulva (Müll. Arg.) Jatta SPECIES
-=======
+# Caloplaca ochraceofulva (Müll. Arg.) Jatta SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dictyostelium dimigraformum Cavender, 1970 SPECIES
-=======
+# Dictyostelium dimigraformum Cavender, 1970 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterina yamamotoicola Hosag. & T.K. Abraham SPECIES
-=======
+# Asterina yamamotoicola Hosag. & T.K. Abraham SPECIES
 
 #### Status
 ACCEPTED

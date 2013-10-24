@@ -1,5 +1,4 @@
-Haemogregarina hartochi Kohl-Yakimoff & Yakimoff, 1915 SPECIES
-=======
+# Haemogregarina hartochi Kohl-Yakimoff & Yakimoff, 1915 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trametes subvinosa Corner SPECIES
-=======
+# Trametes subvinosa Corner SPECIES
 
 #### Status
 ACCEPTED

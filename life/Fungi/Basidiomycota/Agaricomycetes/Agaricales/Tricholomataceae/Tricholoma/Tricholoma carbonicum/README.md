@@ -1,5 +1,4 @@
-Tricholoma carbonicum Velen. SPECIES
-=======
+# Tricholoma carbonicum Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta rumicis Bondartsev SPECIES
-=======
+# Phyllosticta rumicis Bondartsev SPECIES
 
 #### Status
 ACCEPTED

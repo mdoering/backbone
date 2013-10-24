@@ -1,5 +1,4 @@
-Graphis scalpturata var. scalpturata Ach. VARIETY
-=======
+# Graphis scalpturata Ach. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Graphis scalpturata var. scalpturata Ach.
+Graphis scalpturata Ach.
 
 ### Remarks
 null

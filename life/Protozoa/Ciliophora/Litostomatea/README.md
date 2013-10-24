@@ -1,5 +1,4 @@
-Litostomatea Small & Lynn, 1981 CLASS
-=======
+# Litostomatea Small & Lynn, 1981 CLASS
 
 #### Status
 ACCEPTED

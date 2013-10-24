@@ -1,5 +1,4 @@
-Dothidella bambusae Cooke SPECIES
-=======
+# Dothidella bambusae Cooke SPECIES
 
 #### Status
 ACCEPTED

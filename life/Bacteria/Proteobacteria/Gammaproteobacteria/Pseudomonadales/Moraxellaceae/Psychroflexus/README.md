@@ -1,5 +1,4 @@
-Psychroflexus Bowman, McCammon, Lewis, Skerratt, Brown, Nichols & McMeekin, 1999 GENUS
-=======
+# Psychroflexus Bowman, McCammon, Lewis, Skerratt, Brown, Nichols & McMeekin, 1999 GENUS
 
 #### Status
 ACCEPTED

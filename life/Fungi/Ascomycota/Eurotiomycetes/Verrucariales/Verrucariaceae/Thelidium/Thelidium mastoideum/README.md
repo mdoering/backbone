@@ -1,5 +1,4 @@
-Thelidium mastoideum Zschacke SPECIES
-=======
+# Thelidium mastoideum Zschacke SPECIES
 
 #### Status
 ACCEPTED

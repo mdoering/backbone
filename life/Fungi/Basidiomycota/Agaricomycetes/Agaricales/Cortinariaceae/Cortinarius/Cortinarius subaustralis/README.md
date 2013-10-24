@@ -1,5 +1,4 @@
-Cortinarius subaustralis A.H. Sm. & Hesler SPECIES
-=======
+# Cortinarius subaustralis A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

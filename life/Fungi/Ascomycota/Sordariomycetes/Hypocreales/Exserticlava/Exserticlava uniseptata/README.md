@@ -1,5 +1,4 @@
-Exserticlava uniseptata Bhat & B. Sutton SPECIES
-=======
+# Exserticlava uniseptata Bhat & B. Sutton SPECIES
 
 #### Status
 ACCEPTED

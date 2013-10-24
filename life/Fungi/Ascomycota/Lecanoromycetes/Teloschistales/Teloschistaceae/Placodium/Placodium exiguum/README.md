@@ -1,5 +1,4 @@
-Placodium exiguum Müll. Arg. SPECIES
-=======
+# Placodium exiguum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

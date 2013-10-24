@@ -1,5 +1,4 @@
-Scenidium rigidum (Berk.) Kuntze SPECIES
-=======
+# Scenidium rigidum (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

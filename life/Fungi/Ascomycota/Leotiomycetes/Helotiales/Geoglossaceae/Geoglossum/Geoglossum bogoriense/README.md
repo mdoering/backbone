@@ -1,5 +1,4 @@
-Geoglossum bogoriense Henn. & E. Nyman SPECIES
-=======
+# Geoglossum bogoriense Henn. & E. Nyman SPECIES
 
 #### Status
 ACCEPTED

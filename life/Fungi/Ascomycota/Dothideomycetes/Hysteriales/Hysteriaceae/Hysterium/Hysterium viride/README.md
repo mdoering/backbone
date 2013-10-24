@@ -1,5 +1,4 @@
-Hysterium viride Fr. SPECIES
-=======
+# Hysterium viride Fr. SPECIES
 
 #### Status
 ACCEPTED

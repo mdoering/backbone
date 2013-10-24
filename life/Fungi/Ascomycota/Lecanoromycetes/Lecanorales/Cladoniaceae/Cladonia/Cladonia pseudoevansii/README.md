@@ -1,5 +1,4 @@
-Cladonia pseudoevansii Asahina SPECIES
-=======
+# Cladonia pseudoevansii Asahina SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thecosphaera inermis (Haeckel) Haeckel, 1887 SPECIES
-=======
+# Thecosphaera inermis (Haeckel) Haeckel, 1887 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia euonymi Westend. SPECIES
-=======
+# Diplodia euonymi Westend. SPECIES
 
 #### Status
 ACCEPTED

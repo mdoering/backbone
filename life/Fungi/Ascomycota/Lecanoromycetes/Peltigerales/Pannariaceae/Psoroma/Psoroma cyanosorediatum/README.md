@@ -1,5 +1,4 @@
-Psoroma cyanosorediatum P. M. Jørg. SPECIES
-=======
+# Psoroma cyanosorediatum P. M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypoxylon subalbum J.D. Rogers, Y.M. Ju & H.M. Hsieh, 2004 SPECIES
-=======
+# Hypoxylon subalbum J.D. Rogers, Y.M. Ju & H.M. Hsieh, 2004 SPECIES
 
 #### Status
 ACCEPTED

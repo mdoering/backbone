@@ -1,5 +1,4 @@
-Pocillaria lecomtei (Fr.) Kuntze SPECIES
-=======
+# Pocillaria lecomtei (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

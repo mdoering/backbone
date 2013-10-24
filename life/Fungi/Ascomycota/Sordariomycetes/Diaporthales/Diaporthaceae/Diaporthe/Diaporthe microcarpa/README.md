@@ -1,5 +1,4 @@
-Diaporthe microcarpa Rehm SPECIES
-=======
+# Diaporthe microcarpa Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus cognatus Kalchbr. SPECIES
-=======
+# Polyporus cognatus Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

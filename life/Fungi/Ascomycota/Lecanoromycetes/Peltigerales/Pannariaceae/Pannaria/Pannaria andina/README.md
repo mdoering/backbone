@@ -1,5 +1,4 @@
-Pannaria andina ined. SPECIES
-=======
+# Pannaria andina ined. SPECIES
 
 #### Status
 ACCEPTED

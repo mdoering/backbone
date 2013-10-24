@@ -1,17 +1,16 @@
-Cunninghamella phaeospora var. multiverticillata R.Y. Zheng & G.Q. Chen VARIETY
-=======
+# Cunninghamella phaeospora Boedijn, 1959 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycosystema 7: 1 (1995)
+Sydowia 12: 348 (1959)
 
 #### Original name
-Cunninghamella phaeospora var. multiverticillata R.Y. Zheng & G.Q. Chen
+Cunninghamella phaeospora Boedijn, 1959
 
 ### Remarks
 null

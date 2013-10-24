@@ -1,5 +1,4 @@
-Tricholoma thalliophilum Hry SPECIES
-=======
+# Tricholoma thalliophilum Hry SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramalina subfenestrata Follmann & Huneck SPECIES
-=======
+# Ramalina subfenestrata Follmann & Huneck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Petrona quercifolia Scop. SPECIES
-=======
+# Petrona quercifolia Scop. SPECIES
 
 #### Status
 ACCEPTED

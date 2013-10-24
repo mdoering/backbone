@@ -1,5 +1,4 @@
-Mycosphaerella atichiae Hansf. SPECIES
-=======
+# Mycosphaerella atichiae Hansf. SPECIES
 
 #### Status
 ACCEPTED

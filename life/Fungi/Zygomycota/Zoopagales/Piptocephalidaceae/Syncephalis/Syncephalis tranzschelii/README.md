@@ -1,5 +1,4 @@
-Syncephalis tranzschelii Naumov, 1935 SPECIES
-=======
+# Syncephalis tranzschelii Naumov, 1935 SPECIES
 
 #### Status
 ACCEPTED

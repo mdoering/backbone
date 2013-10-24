@@ -1,5 +1,4 @@
-Bogoriella subpersicina Zahlbr. SPECIES
-=======
+# Bogoriella subpersicina Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

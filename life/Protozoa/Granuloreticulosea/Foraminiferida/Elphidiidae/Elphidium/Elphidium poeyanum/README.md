@@ -1,5 +1,4 @@
-Elphidium poeyanum SPECIES
-=======
+# Elphidium poeyanum SPECIES
 
 #### Status
 ACCEPTED

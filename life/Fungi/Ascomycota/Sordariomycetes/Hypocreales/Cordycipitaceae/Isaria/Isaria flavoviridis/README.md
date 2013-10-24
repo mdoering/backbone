@@ -1,5 +1,4 @@
-Isaria flavoviridis Rick SPECIES
-=======
+# Isaria flavoviridis Rick SPECIES
 
 #### Status
 ACCEPTED

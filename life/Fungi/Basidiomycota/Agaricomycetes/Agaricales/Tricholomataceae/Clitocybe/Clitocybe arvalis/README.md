@@ -1,5 +1,4 @@
-Clitocybe arvalis H.E. Bigelow SPECIES
-=======
+# Clitocybe arvalis H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

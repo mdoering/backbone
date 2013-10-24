@@ -1,5 +1,4 @@
-Cantharellus dovrefjeldiensis Henn. & Kirschst. SPECIES
-=======
+# Cantharellus dovrefjeldiensis Henn. & Kirschst. SPECIES
 
 #### Status
 ACCEPTED

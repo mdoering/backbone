@@ -1,5 +1,4 @@
-Heterodermia echinata (Taylor) W. L. Culb. SPECIES
-=======
+# Heterodermia echinata (Taylor) W. L. Culb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pterospermopsimorpha deformata Rudavskaya & Treshchetenkova in Akulcheva et al., 1981 SPECIES
-=======
+# Pterospermopsimorpha deformata Rudavskaya & Treshchetenkova in Akulcheva et al., 1981 SPECIES
 
 #### Status
 ACCEPTED

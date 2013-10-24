@@ -1,5 +1,4 @@
-Isaria elata (Kalchbr.) Sacc. & Traverso SPECIES
-=======
+# Isaria elata (Kalchbr.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marivita litorea Hwang, Bae, Yih & Cho, 2009 SPECIES
-=======
+# Marivita litorea Hwang, Bae, Yih & Cho, 2009 SPECIES
 
 #### Status
 ACCEPTED

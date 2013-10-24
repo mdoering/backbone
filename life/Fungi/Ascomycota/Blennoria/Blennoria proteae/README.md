@@ -1,5 +1,4 @@
-Blennoria proteae Crous, Marincowitz & M.J. Wingf. SPECIES
-=======
+# Blennoria proteae Crous, Marincowitz & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

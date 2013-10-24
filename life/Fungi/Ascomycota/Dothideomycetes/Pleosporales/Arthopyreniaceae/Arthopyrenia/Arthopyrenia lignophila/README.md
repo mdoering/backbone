@@ -1,5 +1,4 @@
-Arthopyrenia lignophila Arnold SPECIES
-=======
+# Arthopyrenia lignophila Arnold SPECIES
 
 #### Status
 ACCEPTED

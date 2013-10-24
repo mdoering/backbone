@@ -1,5 +1,4 @@
-Gymnopus oncospermatis (Corner) Har. Takah. SPECIES
-=======
+# Gymnopus oncospermatis (Corner) Har. Takah. SPECIES
 
 #### Status
 ACCEPTED

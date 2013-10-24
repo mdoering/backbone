@@ -1,5 +1,4 @@
-Peniophora monticola Boidin, Lanq. & Gilles, 1991 SPECIES
-=======
+# Peniophora monticola Boidin, Lanq. & Gilles, 1991 SPECIES
 
 #### Status
 ACCEPTED

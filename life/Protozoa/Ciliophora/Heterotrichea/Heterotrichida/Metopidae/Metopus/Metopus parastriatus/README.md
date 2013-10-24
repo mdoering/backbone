@@ -1,5 +1,4 @@
-Metopus parastriatus Jankowski, 1964 SPECIES
-=======
+# Metopus parastriatus Jankowski, 1964 SPECIES
 
 #### Status
 ACCEPTED

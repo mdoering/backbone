@@ -1,5 +1,4 @@
-Marasmius aukubae Neda SPECIES
-=======
+# Marasmius aukubae Neda SPECIES
 
 #### Status
 ACCEPTED

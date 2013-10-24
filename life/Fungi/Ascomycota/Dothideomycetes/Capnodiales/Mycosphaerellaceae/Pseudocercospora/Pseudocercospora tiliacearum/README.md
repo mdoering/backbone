@@ -1,17 +1,16 @@
-Pseudocercospora tiliaceraum Bhalla, A.K. Sarbhoy, M. Kulshr. & K.P.S. Kushwaha SPECIES
-=======
+# Pseudocercospora tiliacearum Bhalla, A.K. Sarbhoy, M. Kulshr. & K.P.S. Kushwaha SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Microbiol. Res. 156(1): 108 (2001)
 
 #### Original name
-Pseudocercospora tiliaceraum Bhalla, A.K. Sarbhoy, M. Kulshr. & K.P.S. Kushwaha
+Pseudocercospora tiliacearum Bhalla, A.K. Sarbhoy, M. Kulshr. & K.P.S. Kushwaha
 
 ### Remarks
 null

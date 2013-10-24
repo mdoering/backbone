@@ -1,5 +1,4 @@
-Lecanora irridens SPECIES
-=======
+# Lecanora irridens SPECIES
 
 #### Status
 ACCEPTED

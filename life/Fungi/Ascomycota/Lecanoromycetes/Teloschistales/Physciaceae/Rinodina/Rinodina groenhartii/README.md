@@ -1,5 +1,4 @@
-Rinodina groenhartii H. Mayrhofer SPECIES
-=======
+# Rinodina groenhartii H. Mayrhofer SPECIES
 
 #### Status
 ACCEPTED

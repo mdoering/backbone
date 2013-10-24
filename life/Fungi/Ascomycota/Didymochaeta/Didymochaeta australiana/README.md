@@ -1,5 +1,4 @@
-Didymochaeta australiana McAlpine SPECIES
-=======
+# Didymochaeta australiana McAlpine SPECIES
 
 #### Status
 ACCEPTED

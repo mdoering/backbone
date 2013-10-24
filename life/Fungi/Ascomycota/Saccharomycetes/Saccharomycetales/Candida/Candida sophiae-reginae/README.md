@@ -1,5 +1,4 @@
-Candida sophiae-reginae C. Ramírez & A.E. González, 1984 SPECIES
-=======
+# Candida sophiae-reginae C. Ramírez & A.E. González, 1984 SPECIES
 
 #### Status
 ACCEPTED

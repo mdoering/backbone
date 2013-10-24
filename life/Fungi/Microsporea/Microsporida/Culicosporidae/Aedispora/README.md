@@ -1,5 +1,4 @@
-Aedispora P.J. Kilochitskii GENUS
-=======
+# Aedispora P.J. Kilochitskii GENUS
 
 #### Status
 ACCEPTED

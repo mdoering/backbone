@@ -1,5 +1,4 @@
-Rhabdospora sphaerelloides (Ellis & Kellerm.) Sacc. & P. Syd. SPECIES
-=======
+# Rhabdospora sphaerelloides (Ellis & Kellerm.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

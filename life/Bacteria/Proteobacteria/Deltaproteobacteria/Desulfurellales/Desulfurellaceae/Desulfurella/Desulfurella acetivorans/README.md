@@ -1,5 +1,4 @@
-Desulfurella acetivorans Bonch-Osmolovskaya et al., 1993 SPECIES
-=======
+# Desulfurella acetivorans Bonch-Osmolovskaya et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Selenihalanaerobacter shriftii Switzer Blum et al., 2001 SPECIES
-=======
+# Selenihalanaerobacter shriftii Switzer Blum et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

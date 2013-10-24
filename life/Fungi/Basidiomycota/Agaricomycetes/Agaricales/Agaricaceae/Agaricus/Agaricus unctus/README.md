@@ -1,5 +1,4 @@
-Agaricus unctus Batsch SPECIES
-=======
+# Agaricus unctus Batsch SPECIES
 
 #### Status
 ACCEPTED

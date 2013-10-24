@@ -1,5 +1,4 @@
-Peronospora chorisporae Gäum. SPECIES
-=======
+# Peronospora chorisporae Gäum. SPECIES
 
 #### Status
 ACCEPTED

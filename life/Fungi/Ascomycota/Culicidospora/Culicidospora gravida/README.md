@@ -1,5 +1,4 @@
-Culicidospora gravida R.H. Petersen, 1963 SPECIES
-=======
+# Culicidospora gravida R.H. Petersen, 1963 SPECIES
 
 #### Status
 ACCEPTED

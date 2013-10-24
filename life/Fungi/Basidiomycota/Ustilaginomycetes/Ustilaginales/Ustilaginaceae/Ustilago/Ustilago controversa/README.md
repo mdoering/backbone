@@ -1,5 +1,4 @@
-Ustilago controversa Cif. SPECIES
-=======
+# Ustilago controversa Cif. SPECIES
 
 #### Status
 ACCEPTED

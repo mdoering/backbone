@@ -1,5 +1,4 @@
-Mucidula reticulata (Hoffm.) SPECIES
-=======
+# Mucidula reticulata (Hoffm.) SPECIES
 
 #### Status
 ACCEPTED

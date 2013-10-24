@@ -1,5 +1,4 @@
-Hymenoscyphus brevistipitatus M.P. Sharma SPECIES
-=======
+# Hymenoscyphus brevistipitatus M.P. Sharma SPECIES
 
 #### Status
 ACCEPTED

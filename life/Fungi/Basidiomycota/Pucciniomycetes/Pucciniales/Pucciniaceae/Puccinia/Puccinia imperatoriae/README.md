@@ -1,5 +1,4 @@
-Puccinia imperatoriae Jacky SPECIES
-=======
+# Puccinia imperatoriae Jacky SPECIES
 
 #### Status
 ACCEPTED

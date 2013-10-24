@@ -1,5 +1,4 @@
-Erysiphe corylicola U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe corylicola U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

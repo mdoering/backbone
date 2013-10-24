@@ -1,5 +1,4 @@
-Pholiota prolixa A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota prolixa A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psora opaca Flagey SPECIES
-=======
+# Psora opaca Flagey SPECIES
 
 #### Status
 ACCEPTED

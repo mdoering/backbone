@@ -1,5 +1,4 @@
-Gloeocystidiellum aspellum Hjortstam, 1987 SPECIES
-=======
+# Gloeocystidiellum aspellum Hjortstam, 1987 SPECIES
 
 #### Status
 ACCEPTED

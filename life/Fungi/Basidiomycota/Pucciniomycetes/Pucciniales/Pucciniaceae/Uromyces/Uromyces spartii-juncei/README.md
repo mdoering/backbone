@@ -1,5 +1,4 @@
-Uromyces spartii-juncei Syd. & P. Syd. SPECIES
-=======
+# Uromyces spartii-juncei Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

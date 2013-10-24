@@ -1,5 +1,4 @@
-Hygrocybe lilacinella Courtec. SPECIES
-=======
+# Hygrocybe lilacinella Courtec. SPECIES
 
 #### Status
 ACCEPTED

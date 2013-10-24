@@ -1,5 +1,4 @@
-Phacidium persistens Gaudich. SPECIES
-=======
+# Phacidium persistens Gaudich. SPECIES
 
 #### Status
 ACCEPTED

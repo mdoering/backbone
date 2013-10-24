@@ -1,5 +1,4 @@
-Hysterographium viticola var. viticola VARIETY
-=======
+# Hysterographium viticola (Cooke & Peck) Rehm SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Hysterographium viticola var. viticola
+Hysterium viticola Cooke & Peck
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Quadricrura GENUS
-=======
+# Quadricrura GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dangeardiana sporapiculata (Geitler) A. Batko SPECIES
-=======
+# Dangeardiana sporapiculata (Geitler) A. Batko SPECIES
 
 #### Status
 ACCEPTED

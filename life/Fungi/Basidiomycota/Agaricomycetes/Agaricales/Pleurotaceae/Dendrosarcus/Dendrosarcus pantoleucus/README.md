@@ -1,5 +1,4 @@
-Dendrosarcus pantoleucus (Fr.) Kuntze SPECIES
-=======
+# Dendrosarcus pantoleucus (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

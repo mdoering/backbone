@@ -1,5 +1,4 @@
-Baltisphaeridium hamatum (Downie, 1958) Kjellström, 1976 SPECIES
-=======
+# Baltisphaeridium hamatum (Downie, 1958) Kjellström, 1976 SPECIES
 
 #### Status
 ACCEPTED

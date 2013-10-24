@@ -1,5 +1,4 @@
-Caloplaca cranfieldii S.Y. Kondr. & Kärnefelt SPECIES
-=======
+# Caloplaca cranfieldii S.Y. Kondr. & Kärnefelt SPECIES
 
 #### Status
 ACCEPTED

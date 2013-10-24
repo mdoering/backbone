@@ -1,5 +1,4 @@
-Lecanora substellaris Ach. SPECIES
-=======
+# Lecanora substellaris Ach. SPECIES
 
 #### Status
 ACCEPTED

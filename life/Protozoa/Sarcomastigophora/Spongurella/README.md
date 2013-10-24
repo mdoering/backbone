@@ -1,5 +1,4 @@
-Spongurella Haeckel, 1887 GENUS
-=======
+# Spongurella Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectria triglitziana Kirschst. SPECIES
-=======
+# Nectria triglitziana Kirschst. SPECIES
 
 #### Status
 ACCEPTED

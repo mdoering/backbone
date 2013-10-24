@@ -1,5 +1,4 @@
-Rhizophydium oblongum Canter, 1954 SPECIES
-=======
+# Rhizophydium oblongum Canter, 1954 SPECIES
 
 #### Status
 ACCEPTED

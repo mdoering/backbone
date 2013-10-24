@@ -1,5 +1,4 @@
-Poronia macrorhiza Speg. SPECIES
-=======
+# Poronia macrorhiza Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stainforthia complanata (Egger, 1893) SPECIES
-=======
+# Stainforthia complanata (Egger, 1893) SPECIES
 
 #### Status
 ACCEPTED

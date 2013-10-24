@@ -1,5 +1,4 @@
-Stigmina niesslii (Morgan-Jones) B. Sutton SPECIES
-=======
+# Stigmina niesslii (Morgan-Jones) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

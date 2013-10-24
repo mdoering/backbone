@@ -1,8 +1,7 @@
-Erwinia carotovora subsp. wasabiae Goto & Matsumoto, 1987 SUBSPECIES
-=======
+# Pectobacterium wasabiae (Goto & Matsumoto, 1987) Gardan et al., 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

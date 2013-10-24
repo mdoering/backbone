@@ -1,5 +1,4 @@
-Penicillium brevicaule var. brevicaule VARIETY
-=======
+# Penicillium brevicaule Stoll SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Michelia 2(no. 8): 547 (1882)
 
 #### Original name
-Penicillium brevicaule var. brevicaule
+Penicillium brevicaule Stoll
 
 ### Remarks
 null

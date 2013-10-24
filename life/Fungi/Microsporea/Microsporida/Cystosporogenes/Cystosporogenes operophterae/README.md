@@ -1,5 +1,4 @@
-Cystosporogenes operophterae (E.U. Canning) E.U. Canning, R.J. Barker, J.P. Nicholas & A.M. Page SPECIES
-=======
+# Cystosporogenes operophterae (E.U. Canning) E.U. Canning, R.J. Barker, J.P. Nicholas & A.M. Page SPECIES
 
 #### Status
 ACCEPTED

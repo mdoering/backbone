@@ -1,5 +1,4 @@
-Chaetothyrium spinigerum (Höhn.) W. Yamam. SPECIES
-=======
+# Chaetothyrium spinigerum (Höhn.) W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

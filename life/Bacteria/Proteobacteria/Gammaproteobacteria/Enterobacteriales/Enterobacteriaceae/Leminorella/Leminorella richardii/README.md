@@ -1,5 +1,4 @@
-Leminorella richardii Hickman-Brenner et al., 1985 SPECIES
-=======
+# Leminorella richardii Hickman-Brenner et al., 1985 SPECIES
 
 #### Status
 ACCEPTED

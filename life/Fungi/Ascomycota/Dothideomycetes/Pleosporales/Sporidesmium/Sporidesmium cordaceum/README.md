@@ -1,5 +1,4 @@
-Sporidesmium cordaceum S. Hughes SPECIES
-=======
+# Sporidesmium cordaceum S. Hughes SPECIES
 
 #### Status
 ACCEPTED

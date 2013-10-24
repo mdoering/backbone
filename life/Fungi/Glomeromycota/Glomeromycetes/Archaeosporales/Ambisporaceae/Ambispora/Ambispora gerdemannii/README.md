@@ -1,14 +1,13 @@
-Glomus gerdemannii. S.L. Rose, B.A. Daniels & Trappe, 1979 SPECIES
-=======
+# Ambispora gerdemannii. (S.L. Rose, B.A. Daniels & Trappe) C. Walker, Vestberg & A. Schüssler, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 8(1): 297 (1979)
+in Walker, Vestberg, Demircik, Stockinger, Saito, Sawaki, Nishmura & Schüssler, Mycol. Res. 111(2): 148 (2007)
 
 #### Original name
 Glomus gerdemannii. S.L. Rose, B.A. Daniels & Trappe, 1979

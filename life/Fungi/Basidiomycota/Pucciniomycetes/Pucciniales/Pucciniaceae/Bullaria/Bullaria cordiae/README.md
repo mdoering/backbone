@@ -1,5 +1,4 @@
-Bullaria cordiae (Henn.) Arthur & Mains SPECIES
-=======
+# Bullaria cordiae (Henn.) Arthur & Mains SPECIES
 
 #### Status
 ACCEPTED

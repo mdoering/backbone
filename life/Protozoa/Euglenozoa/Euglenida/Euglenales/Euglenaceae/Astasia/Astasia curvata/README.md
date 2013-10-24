@@ -1,5 +1,4 @@
-Astasia curvata Klebs SPECIES
-=======
+# Astasia curvata Klebs SPECIES
 
 #### Status
 ACCEPTED

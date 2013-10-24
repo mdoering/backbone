@@ -1,5 +1,4 @@
-Armillaria paullula Herp. SPECIES
-=======
+# Armillaria paullula Herp. SPECIES
 
 #### Status
 ACCEPTED

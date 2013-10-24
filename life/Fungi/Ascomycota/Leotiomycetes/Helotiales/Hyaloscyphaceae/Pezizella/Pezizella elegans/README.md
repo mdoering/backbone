@@ -1,5 +1,4 @@
-Pezizella elegans (Saut.) Sacc. SPECIES
-=======
+# Pezizella elegans (Saut.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

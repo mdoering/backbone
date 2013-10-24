@@ -1,5 +1,4 @@
-Phragmodothidea eucalypti Dearn. & Barthol. SPECIES
-=======
+# Phragmodothidea eucalypti Dearn. & Barthol. SPECIES
 
 #### Status
 ACCEPTED

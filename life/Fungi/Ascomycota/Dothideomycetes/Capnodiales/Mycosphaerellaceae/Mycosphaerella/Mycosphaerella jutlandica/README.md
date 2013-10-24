@@ -1,5 +1,4 @@
-Mycosphaerella jutlandica Munk SPECIES
-=======
+# Mycosphaerella jutlandica Munk SPECIES
 
 #### Status
 ACCEPTED

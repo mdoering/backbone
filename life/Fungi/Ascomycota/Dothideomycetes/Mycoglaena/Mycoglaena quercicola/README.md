@@ -1,5 +1,4 @@
-Mycoglaena quercicola R.C. Harris SPECIES
-=======
+# Mycoglaena quercicola R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

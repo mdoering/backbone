@@ -1,17 +1,16 @@
-Ascochyta aeridesae Subhedar & V.G. Rao SPECIES
-=======
+# Ascochyta aëridis Subhedar & V.G. Rao SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Journal of the University of Poona 52: 317 (1979)
 
 #### Original name
-Ascochyta aeridesae Subhedar & V.G. Rao
+Ascochyta aëridis Subhedar & V.G. Rao
 
 ### Remarks
 null

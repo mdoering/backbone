@@ -1,8 +1,7 @@
-Sargassum tenue var. koenigii Grunow VARIETY
-=======
+# Sargassum capillare Kützing SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

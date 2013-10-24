@@ -1,5 +1,4 @@
-Septoria buchtormensis Petr. SPECIES
-=======
+# Septoria buchtormensis Petr. SPECIES
 
 #### Status
 ACCEPTED

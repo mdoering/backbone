@@ -1,5 +1,4 @@
-Arthoniopsis pauciseptata (Vain.) Zahlbr. SPECIES
-=======
+# Arthoniopsis pauciseptata (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

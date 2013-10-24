@@ -1,5 +1,4 @@
-Bacidia merrillii Vain. SPECIES
-=======
+# Bacidia merrillii Vain. SPECIES
 
 #### Status
 ACCEPTED

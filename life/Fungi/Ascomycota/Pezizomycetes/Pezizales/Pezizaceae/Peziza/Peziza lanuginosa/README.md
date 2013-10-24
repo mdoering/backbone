@@ -1,5 +1,4 @@
-Peziza lanuginosa SPECIES
-=======
+# Peziza lanuginosa SPECIES
 
 #### Status
 ACCEPTED

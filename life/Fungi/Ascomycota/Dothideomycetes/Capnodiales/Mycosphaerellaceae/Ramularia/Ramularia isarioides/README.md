@@ -1,5 +1,4 @@
-Ramularia isarioides (Sacc.) Ellis & Everh. SPECIES
-=======
+# Ramularia isarioides (Sacc.) Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

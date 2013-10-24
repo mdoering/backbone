@@ -1,5 +1,4 @@
-Ooidium ventricosum Salujha, Rehman & Arora, 1971 SPECIES
-=======
+# Ooidium ventricosum Salujha, Rehman & Arora, 1971 SPECIES
 
 #### Status
 ACCEPTED

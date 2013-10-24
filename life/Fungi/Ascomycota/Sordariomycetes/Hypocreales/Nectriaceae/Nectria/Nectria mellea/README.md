@@ -1,5 +1,4 @@
-Nectria mellea Teng & S.H. Ou SPECIES
-=======
+# Nectria mellea Teng & S.H. Ou SPECIES
 
 #### Status
 ACCEPTED

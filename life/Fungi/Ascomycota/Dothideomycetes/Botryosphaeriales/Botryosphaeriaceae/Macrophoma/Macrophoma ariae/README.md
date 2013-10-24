@@ -1,5 +1,4 @@
-Macrophoma ariae Henn. SPECIES
-=======
+# Macrophoma ariae Henn. SPECIES
 
 #### Status
 ACCEPTED

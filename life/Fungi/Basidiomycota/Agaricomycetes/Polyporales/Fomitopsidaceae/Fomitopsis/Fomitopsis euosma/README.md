@@ -1,5 +1,4 @@
-Fomitopsis euosma Corner, 1989 SPECIES
-=======
+# Fomitopsis euosma Corner, 1989 SPECIES
 
 #### Status
 ACCEPTED

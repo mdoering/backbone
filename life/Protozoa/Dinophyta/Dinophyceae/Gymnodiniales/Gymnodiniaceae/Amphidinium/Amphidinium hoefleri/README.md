@@ -1,5 +1,4 @@
-Amphidinium hoefleri Schiller & Diskus SPECIES
-=======
+# Amphidinium hoefleri Schiller & Diskus SPECIES
 
 #### Status
 ACCEPTED

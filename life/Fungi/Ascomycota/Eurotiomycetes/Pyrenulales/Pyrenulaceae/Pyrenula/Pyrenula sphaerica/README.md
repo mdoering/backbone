@@ -1,5 +1,4 @@
-Pyrenula sphaerica Pers. SPECIES
-=======
+# Pyrenula sphaerica Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Triposporium fructigenum Rabenh. SPECIES
-=======
+# Triposporium fructigenum Rabenh. SPECIES
 
 #### Status
 ACCEPTED

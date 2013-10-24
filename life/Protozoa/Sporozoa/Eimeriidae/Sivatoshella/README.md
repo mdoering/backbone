@@ -1,5 +1,4 @@
-Sivatoshella Ray & Sarker, 1968 GENUS
-=======
+# Sivatoshella Ray & Sarker, 1968 GENUS
 
 #### Status
 ACCEPTED

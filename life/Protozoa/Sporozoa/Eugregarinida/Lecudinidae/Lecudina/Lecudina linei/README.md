@@ -1,5 +1,4 @@
-Lecudina linei Vinckier, 1972 SPECIES
-=======
+# Lecudina linei Vinckier, 1972 SPECIES
 
 #### Status
 ACCEPTED

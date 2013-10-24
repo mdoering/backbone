@@ -1,5 +1,4 @@
-Ascobolus schweersii Maas Geest. SPECIES
-=======
+# Ascobolus schweersii Maas Geest. SPECIES
 
 #### Status
 ACCEPTED

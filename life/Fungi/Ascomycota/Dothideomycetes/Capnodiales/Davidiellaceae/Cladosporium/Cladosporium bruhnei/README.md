@@ -1,5 +1,4 @@
-Cladosporium bruhnei Linder SPECIES
-=======
+# Cladosporium bruhnei Linder SPECIES
 
 #### Status
 ACCEPTED

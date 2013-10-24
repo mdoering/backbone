@@ -1,5 +1,4 @@
-Candelariella biatorina M. Westb. SPECIES
-=======
+# Candelariella biatorina M. Westb. SPECIES
 
 #### Status
 ACCEPTED

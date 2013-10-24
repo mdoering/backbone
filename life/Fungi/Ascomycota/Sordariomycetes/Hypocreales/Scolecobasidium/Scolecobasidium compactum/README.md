@@ -1,5 +1,4 @@
-Scolecobasidium compactum M.B. Ellis SPECIES
-=======
+# Scolecobasidium compactum M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

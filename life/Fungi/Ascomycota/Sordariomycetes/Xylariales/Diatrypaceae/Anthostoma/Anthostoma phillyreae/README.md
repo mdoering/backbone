@@ -1,5 +1,4 @@
-Anthostoma phillyreae (Mont.) Sacc. SPECIES
-=======
+# Anthostoma phillyreae (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

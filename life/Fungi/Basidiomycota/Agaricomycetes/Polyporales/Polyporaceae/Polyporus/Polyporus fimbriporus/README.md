@@ -1,5 +1,4 @@
-Polyporus fimbriporus Schwein. SPECIES
-=======
+# Polyporus fimbriporus Schwein. SPECIES
 
 #### Status
 ACCEPTED

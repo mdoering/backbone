@@ -1,5 +1,4 @@
-Collybia stenosperma (Romagn. & Cocquand) Bon & Courtec. SPECIES
-=======
+# Collybia stenosperma (Romagn. & Cocquand) Bon & Courtec. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Staurotholonium Haeckel, 1887 GENUS
-=======
+# Staurotholonium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

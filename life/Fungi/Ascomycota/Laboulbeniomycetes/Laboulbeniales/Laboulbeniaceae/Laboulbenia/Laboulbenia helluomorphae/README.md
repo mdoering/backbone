@@ -1,5 +1,4 @@
-Laboulbenia helluomorphae Thaxt. SPECIES
-=======
+# Laboulbenia helluomorphae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

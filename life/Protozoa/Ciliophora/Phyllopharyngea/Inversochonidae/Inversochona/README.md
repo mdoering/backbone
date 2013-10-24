@@ -1,5 +1,4 @@
-Inversochona Jankowksi, 1973 GENUS
-=======
+# Inversochona Jankowksi, 1973 GENUS
 
 #### Status
 ACCEPTED

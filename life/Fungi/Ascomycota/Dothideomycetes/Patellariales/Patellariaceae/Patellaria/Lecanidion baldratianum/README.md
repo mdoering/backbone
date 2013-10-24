@@ -1,5 +1,4 @@
-Lecanidion baldratianum Sacc. SPECIES
-=======
+# Lecanidion baldratianum Sacc. SPECIES
 
 #### Status
 ACCEPTED

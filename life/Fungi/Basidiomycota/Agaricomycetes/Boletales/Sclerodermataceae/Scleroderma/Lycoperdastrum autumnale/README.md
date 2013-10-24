@@ -1,5 +1,4 @@
-Lycoperdastrum autumnale var. autumnale VARIETY
-=======
+# Lycoperdastrum autumnale SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lycoperdastrum autumnale var. autumnale
+Lycoperdastrum autumnale
 
 ### Remarks
 null

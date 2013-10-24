@@ -1,5 +1,4 @@
-Cortinarius nothovenetus (M.M. Moser) Kuhn.-Fink. & Peintner SPECIES
-=======
+# Cortinarius nothovenetus (M.M. Moser) Kuhn.-Fink. & Peintner SPECIES
 
 #### Status
 ACCEPTED

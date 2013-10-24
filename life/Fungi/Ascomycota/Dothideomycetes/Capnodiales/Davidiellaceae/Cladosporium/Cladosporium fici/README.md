@@ -1,5 +1,4 @@
-Cladosporium fici F. Patt. SPECIES
-=======
+# Cladosporium fici F. Patt. SPECIES
 
 #### Status
 ACCEPTED

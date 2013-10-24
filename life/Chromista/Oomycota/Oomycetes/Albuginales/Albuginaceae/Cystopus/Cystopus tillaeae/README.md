@@ -1,5 +1,4 @@
-Cystopus tillaeae Lagerh. SPECIES
-=======
+# Cystopus tillaeae Lagerh. SPECIES
 
 #### Status
 ACCEPTED

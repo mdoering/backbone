@@ -1,5 +1,4 @@
-Collemopsis rehmii (Körb.) H. Olivier SPECIES
-=======
+# Collemopsis rehmii (Körb.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

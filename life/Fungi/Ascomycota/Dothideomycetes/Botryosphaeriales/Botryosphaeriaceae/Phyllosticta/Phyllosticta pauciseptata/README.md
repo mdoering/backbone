@@ -1,5 +1,4 @@
-Phyllosticta pauciseptata Berk. & M.A. Curtis SPECIES
-=======
+# Phyllosticta pauciseptata Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

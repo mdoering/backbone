@@ -1,5 +1,4 @@
-Nitrobacter oligotrophis SPECIES
-=======
+# Nitrobacter oligotrophis SPECIES
 
 #### Status
 ACCEPTED

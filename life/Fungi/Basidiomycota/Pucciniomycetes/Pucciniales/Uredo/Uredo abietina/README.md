@@ -1,5 +1,4 @@
-Uredo abietina S. Ahmad SPECIES
-=======
+# Uredo abietina S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

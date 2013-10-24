@@ -1,17 +1,16 @@
-Peziza bauerana Cooke, 1876 SPECIES
-=======
+# Sowerbyella bauerana (Cooke) Harmaja, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Karstenia 24(1): 29 (1984)
 
 #### Original name
-null
+Peziza bauerana Cooke
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Ramaria gelatinosa var. gelatinosa VARIETY
-=======
+# Ramaria gelatinosa (Coker) Corner SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Monograph of Clavaria and allied Genera (Annals of Botany Memoirs No. 1) 593 (1950)
 
 #### Original name
-Ramaria gelatinosa var. gelatinosa
+Clavaria gelatinosa Coker
 
 ### Remarks
 null

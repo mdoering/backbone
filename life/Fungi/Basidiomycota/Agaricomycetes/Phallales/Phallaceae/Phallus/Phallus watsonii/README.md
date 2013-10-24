@@ -1,17 +1,16 @@
-Phallus watsoni Berk. SPECIES
-=======
+# Phallus watsonii Berk. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Linn. Soc. , Bot. 18: 387 (1881)
 
 #### Original name
-Phallus watsoni Berk.
+Phallus watsonii Berk.
 
 ### Remarks
 null

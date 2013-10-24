@@ -1,14 +1,13 @@
-Lecidea atomarioides Müll. Arg. SPECIES
-=======
+# Catillaria atomarioides (Müll. Arg.) H. Kilias SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 57: 187 (1874)
+Herzogia 5(3-4): 327 (1981)
 
 #### Original name
 Lecidea atomarioides Müll. Arg.

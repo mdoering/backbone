@@ -1,5 +1,4 @@
-Lapideacassaceae Bown & Young, 1997 FAMILY
-=======
+# Lapideacassaceae Bown & Young, 1997 FAMILY
 
 #### Status
 ACCEPTED

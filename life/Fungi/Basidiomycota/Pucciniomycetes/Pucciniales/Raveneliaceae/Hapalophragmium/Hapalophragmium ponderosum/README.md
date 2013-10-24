@@ -1,14 +1,13 @@
-Hapalophragmiopsis ponderosum (Syd., P. Syd. & E.J. Butler) Thirum. SPECIES
-=======
+# Hapalophragmium ponderosum Syd., P. Syd. & E.J. Butler, 1912 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 10: 265 (1912)
 
 #### Original name
 Hapalophragmium ponderosum Syd., P. Syd. & E.J. Butler, 1912

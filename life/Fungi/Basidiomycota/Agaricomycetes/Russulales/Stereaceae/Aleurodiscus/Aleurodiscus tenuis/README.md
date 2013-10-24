@@ -1,5 +1,4 @@
-Aleurodiscus tenuis Burt, 1918 SPECIES
-=======
+# Aleurodiscus tenuis Burt, 1918 SPECIES
 
 #### Status
 ACCEPTED

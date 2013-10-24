@@ -1,5 +1,4 @@
-Parmelina euplectina Kurok. ex Elix SPECIES
-=======
+# Parmelina euplectina Kurok. ex Elix SPECIES
 
 #### Status
 ACCEPTED

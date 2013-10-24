@@ -1,5 +1,4 @@
-Amerosporium phaeotrichum (Rabenh.) Sacc. SPECIES
-=======
+# Amerosporium phaeotrichum (Rabenh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

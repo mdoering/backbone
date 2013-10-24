@@ -1,14 +1,13 @@
-Gnomonia melanostyla (DC.) Fuckel, 1870 SPECIES
-=======
+# Ophiognomonia melanostyla (DC.) Sacc., 1899 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Jb. nassau. Ver. Naturk. 23-24: (1870)
+Icon. fung. (Abellini) 2: 146 (1899)
 
 #### Original name
 Sphaeria melanostyla DC., 1815

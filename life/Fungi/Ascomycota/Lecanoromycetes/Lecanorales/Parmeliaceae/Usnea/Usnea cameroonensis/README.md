@@ -1,5 +1,4 @@
-Usnea cameroonensis C.W. Dodge SPECIES
-=======
+# Usnea cameroonensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

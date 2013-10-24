@@ -1,5 +1,4 @@
-Calonectria ornata A.L. Sm. SPECIES
-=======
+# Calonectria ornata A.L. Sm. SPECIES
 
 #### Status
 ACCEPTED

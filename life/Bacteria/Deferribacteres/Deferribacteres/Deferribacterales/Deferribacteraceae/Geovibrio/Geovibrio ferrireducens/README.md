@@ -1,5 +1,4 @@
-Geovibrio ferrireducens Caccavo et al., 2000 SPECIES
-=======
+# Geovibrio ferrireducens Caccavo et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

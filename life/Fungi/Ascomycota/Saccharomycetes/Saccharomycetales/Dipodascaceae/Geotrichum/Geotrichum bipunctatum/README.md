@@ -1,5 +1,4 @@
-Geotrichum bipunctatum Rolland & Fautrey SPECIES
-=======
+# Geotrichum bipunctatum Rolland & Fautrey SPECIES
 
 #### Status
 ACCEPTED

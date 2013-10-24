@@ -1,5 +1,4 @@
-Agrocybe karnatakensis Sathe & S.M. Kulk. SPECIES
-=======
+# Agrocybe karnatakensis Sathe & S.M. Kulk. SPECIES
 
 #### Status
 ACCEPTED

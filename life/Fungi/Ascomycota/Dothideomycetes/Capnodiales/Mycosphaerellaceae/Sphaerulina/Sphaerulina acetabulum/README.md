@@ -1,5 +1,4 @@
-Sphaerulina acetabulum (Berk.) Sacc. SPECIES
-=======
+# Sphaerulina acetabulum (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

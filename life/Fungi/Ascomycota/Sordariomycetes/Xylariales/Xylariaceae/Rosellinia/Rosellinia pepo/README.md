@@ -1,5 +1,4 @@
-Rosellinia pepo Pat., 1908 SPECIES
-=======
+# Rosellinia pepo Pat., 1908 SPECIES
 
 #### Status
 ACCEPTED

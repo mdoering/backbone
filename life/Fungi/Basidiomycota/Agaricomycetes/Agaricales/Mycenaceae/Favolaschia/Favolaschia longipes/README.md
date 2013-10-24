@@ -1,5 +1,4 @@
-Favolaschia longipes (Berk.) Kuntze SPECIES
-=======
+# Favolaschia longipes (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

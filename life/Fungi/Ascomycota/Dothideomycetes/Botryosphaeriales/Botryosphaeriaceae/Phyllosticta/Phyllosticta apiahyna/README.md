@@ -1,5 +1,4 @@
-Phyllosticta apiahyna Speg. SPECIES
-=======
+# Phyllosticta apiahyna Speg. SPECIES
 
 #### Status
 ACCEPTED

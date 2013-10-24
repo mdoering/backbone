@@ -1,5 +1,4 @@
-Ciboria blanda Svrcek SPECIES
-=======
+# Ciboria blanda Svrcek SPECIES
 
 #### Status
 ACCEPTED

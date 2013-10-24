@@ -1,5 +1,4 @@
-Melanoleuca demangei (Pat.) Zhu L. Yang SPECIES
-=======
+# Melanoleuca demangei (Pat.) Zhu L. Yang SPECIES
 
 #### Status
 ACCEPTED

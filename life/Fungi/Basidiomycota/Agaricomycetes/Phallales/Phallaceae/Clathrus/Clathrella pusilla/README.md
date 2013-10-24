@@ -1,5 +1,4 @@
-Clathrella pusilla (Berk.) E. Fisch. SPECIES
-=======
+# Clathrella pusilla (Berk.) E. Fisch. SPECIES
 
 #### Status
 ACCEPTED

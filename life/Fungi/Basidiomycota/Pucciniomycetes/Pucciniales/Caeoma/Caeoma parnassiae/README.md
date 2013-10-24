@@ -1,5 +1,4 @@
-Caeoma parnassiae Schltdl. SPECIES
-=======
+# Caeoma parnassiae Schltdl. SPECIES
 
 #### Status
 ACCEPTED

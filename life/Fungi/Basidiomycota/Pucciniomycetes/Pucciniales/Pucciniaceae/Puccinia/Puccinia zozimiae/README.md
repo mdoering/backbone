@@ -1,5 +1,4 @@
-Puccinia zozimiae Zaprom. SPECIES
-=======
+# Puccinia zozimiae Zaprom. SPECIES
 
 #### Status
 ACCEPTED

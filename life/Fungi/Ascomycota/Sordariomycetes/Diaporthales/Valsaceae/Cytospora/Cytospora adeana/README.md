@@ -1,5 +1,4 @@
-Cytospora adeana Petr. SPECIES
-=======
+# Cytospora adeana Petr. SPECIES
 
 #### Status
 ACCEPTED

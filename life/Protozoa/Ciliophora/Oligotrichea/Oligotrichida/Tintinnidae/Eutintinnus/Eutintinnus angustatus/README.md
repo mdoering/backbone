@@ -1,5 +1,4 @@
-Eutintinnus angustatus (Daday, 1887) SPECIES
-=======
+# Eutintinnus angustatus (Daday, 1887) SPECIES
 
 #### Status
 ACCEPTED

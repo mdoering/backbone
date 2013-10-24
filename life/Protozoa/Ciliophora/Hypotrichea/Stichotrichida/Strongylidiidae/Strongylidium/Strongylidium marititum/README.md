@@ -1,5 +1,4 @@
-Strongylidium marititum Wang & Nie, 1932 SPECIES
-=======
+# Strongylidium marititum Wang & Nie, 1932 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenula discissa (Nyl.) Zahlbr. SPECIES
-=======
+# Pyrenula discissa (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Venturia thwaitesii Massee & Crossl., 1904 SPECIES
-=======
+# Venturia thwaitesii Massee & Crossl., 1904 SPECIES
 
 #### Status
 ACCEPTED

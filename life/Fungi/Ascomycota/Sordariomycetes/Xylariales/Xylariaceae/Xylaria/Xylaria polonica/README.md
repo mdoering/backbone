@@ -1,5 +1,4 @@
-Xylaria polonica Blonski SPECIES
-=======
+# Xylaria polonica Blonski SPECIES
 
 #### Status
 ACCEPTED

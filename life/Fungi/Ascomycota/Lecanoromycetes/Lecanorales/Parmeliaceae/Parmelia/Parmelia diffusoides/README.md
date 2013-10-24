@@ -1,5 +1,4 @@
-Parmelia diffusoides Gyeln. SPECIES
-=======
+# Parmelia diffusoides Gyeln. SPECIES
 
 #### Status
 ACCEPTED

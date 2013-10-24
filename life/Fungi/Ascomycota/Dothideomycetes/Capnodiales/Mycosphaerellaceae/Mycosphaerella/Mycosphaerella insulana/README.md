@@ -1,5 +1,4 @@
-Mycosphaerella insulana Bubák & Syd. SPECIES
-=======
+# Mycosphaerella insulana Bubák & Syd. SPECIES
 
 #### Status
 ACCEPTED

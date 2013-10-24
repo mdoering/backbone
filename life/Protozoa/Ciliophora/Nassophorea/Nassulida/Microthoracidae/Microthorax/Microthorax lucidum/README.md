@@ -1,5 +1,4 @@
-Microthorax lucidum (Eberhard, 1862) SPECIES
-=======
+# Microthorax lucidum (Eberhard, 1862) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coleosporium aconiti Thüm. SPECIES
-=======
+# Coleosporium aconiti Thüm. SPECIES
 
 #### Status
 ACCEPTED

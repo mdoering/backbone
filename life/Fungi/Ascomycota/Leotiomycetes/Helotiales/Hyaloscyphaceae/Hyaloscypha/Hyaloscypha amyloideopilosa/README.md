@@ -1,5 +1,4 @@
-Hyaloscypha amyloideopilosa Svrcek SPECIES
-=======
+# Hyaloscypha amyloideopilosa Svrcek SPECIES
 
 #### Status
 ACCEPTED

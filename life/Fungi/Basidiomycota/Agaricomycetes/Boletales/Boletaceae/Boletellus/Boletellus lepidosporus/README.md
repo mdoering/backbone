@@ -1,5 +1,4 @@
-Boletellus lepidosporus Gilbert {?} ex Heinem. SPECIES
-=======
+# Boletellus lepidosporus Gilbert {?} ex Heinem. SPECIES
 
 #### Status
 ACCEPTED

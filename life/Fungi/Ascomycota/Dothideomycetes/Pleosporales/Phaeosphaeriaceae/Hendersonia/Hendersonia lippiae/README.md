@@ -1,5 +1,4 @@
-Hendersonia lippiae var. macrospora Sousa da Câmara VARIETY
-=======
+# Hendersonia lippiae Syd. {?} SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Agron. lusit. 9(2): 114 (1947)
+null
 
 #### Original name
-Hendersonia lippiae var. macrospora Sousa da Câmara
+Hendersonia lippiae Syd. {?}
 
 ### Remarks
 null

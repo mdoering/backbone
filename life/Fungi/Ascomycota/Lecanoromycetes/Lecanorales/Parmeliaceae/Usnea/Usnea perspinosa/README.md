@@ -1,5 +1,4 @@
-Usnea perspinosa Motyka SPECIES
-=======
+# Usnea perspinosa Motyka SPECIES
 
 #### Status
 ACCEPTED

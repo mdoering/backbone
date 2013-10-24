@@ -1,5 +1,4 @@
-Simocybe phlebophora E. Horak, 1980 SPECIES
-=======
+# Simocybe phlebophora E. Horak, 1980 SPECIES
 
 #### Status
 ACCEPTED

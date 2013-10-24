@@ -1,5 +1,4 @@
-Valsa pustulata Auersw., 1870 SPECIES
-=======
+# Valsa pustulata Auersw., 1870 SPECIES
 
 #### Status
 ACCEPTED

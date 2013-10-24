@@ -1,14 +1,13 @@
-Humaria muelleri (Berk.) Sacc., 1889 SPECIES
-=======
+# Anthracobia muelleri (Berk.) Rifai, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Verh. K. ned. Akad. Wet. , Afd. Natuurkunde, Tweede Reeks 57(3): 141 (1968)
 
 #### Original name
 Peziza muelleri Berk., 1872

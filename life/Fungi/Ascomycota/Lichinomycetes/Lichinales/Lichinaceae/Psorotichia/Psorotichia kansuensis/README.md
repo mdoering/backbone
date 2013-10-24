@@ -1,5 +1,4 @@
-Psorotichia kansuensis H. Magn. SPECIES
-=======
+# Psorotichia kansuensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

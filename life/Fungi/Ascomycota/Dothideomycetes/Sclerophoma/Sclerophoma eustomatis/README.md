@@ -1,5 +1,4 @@
-Sclerophoma eustomatis Taubenh. & Ezekiel, 1934 SPECIES
-=======
+# Sclerophoma eustomatis Taubenh. & Ezekiel, 1934 SPECIES
 
 #### Status
 ACCEPTED

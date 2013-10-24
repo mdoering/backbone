@@ -1,5 +1,4 @@
-Stellothyriella Bat. & Cif. GENUS
-=======
+# Stellothyriella Bat. & Cif. GENUS
 
 #### Status
 ACCEPTED

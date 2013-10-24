@@ -1,5 +1,4 @@
-Patella cubensis (Berk. & M.A. Curtis) Seaver SPECIES
-=======
+# Patella cubensis (Berk. & M.A. Curtis) Seaver SPECIES
 
 #### Status
 ACCEPTED

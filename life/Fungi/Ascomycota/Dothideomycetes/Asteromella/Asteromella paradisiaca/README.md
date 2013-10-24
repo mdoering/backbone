@@ -1,5 +1,4 @@
-Asteromella paradisiaca Petr. SPECIES
-=======
+# Asteromella paradisiaca Petr. SPECIES
 
 #### Status
 ACCEPTED

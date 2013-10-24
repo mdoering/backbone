@@ -1,5 +1,4 @@
-Stereum albescens var. albescens VARIETY
-=======
+# Stereum albescens (Rick) Rick SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 in Rambo (Ed. ), Iheringia, Sér. Bot. 4: 68 (1959)
 
 #### Original name
-Stereum albescens var. albescens
+Crystallocystidium albescens Rick
 
 ### Remarks
 null

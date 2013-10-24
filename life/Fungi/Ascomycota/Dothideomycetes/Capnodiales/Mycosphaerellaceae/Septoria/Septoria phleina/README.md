@@ -1,5 +1,4 @@
-Septoria phleina Baudy & Picb. SPECIES
-=======
+# Septoria phleina Baudy & Picb. SPECIES
 
 #### Status
 ACCEPTED

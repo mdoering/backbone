@@ -1,5 +1,4 @@
-Baltisphaeridium bystrentos Loeblich & Tappan, 1978 SPECIES
-=======
+# Baltisphaeridium bystrentos Loeblich & Tappan, 1978 SPECIES
 
 #### Status
 ACCEPTED

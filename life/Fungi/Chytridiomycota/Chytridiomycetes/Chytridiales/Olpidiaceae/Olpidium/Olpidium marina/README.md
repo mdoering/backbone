@@ -1,5 +1,4 @@
-Olpidium marina P.A. Dang. SPECIES
-=======
+# Olpidium marina P.A. Dang. SPECIES
 
 #### Status
 ACCEPTED

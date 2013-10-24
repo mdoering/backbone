@@ -1,8 +1,7 @@
-Bilimbia stenhammari (Fr.) Boistel SPECIES
-=======
+# Bilimbia stenhammarii (Fr.) Boistel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

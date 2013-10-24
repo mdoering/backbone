@@ -1,17 +1,16 @@
-Opegrapha demutata var. demutata Nyl. VARIETY
-=======
+# Opegrapha demutata Nyl. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Flora, Jena 62: 358 (1879)
 
 #### Original name
-Opegrapha demutata var. demutata Nyl.
+Opegrapha demutata Nyl.
 
 ### Remarks
 null

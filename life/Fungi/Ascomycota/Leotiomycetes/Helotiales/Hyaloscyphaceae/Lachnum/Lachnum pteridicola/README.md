@@ -1,14 +1,13 @@
-Lachnum pteridicolum (Dennis) Spooner SPECIES
-=======
+# Lachnum pteridicola (Dennis) Spooner, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Biblthca Mycol. 116: 452 (1987)
 
 #### Original name
 Dasyscyphus pteridicola Dennis, 1961

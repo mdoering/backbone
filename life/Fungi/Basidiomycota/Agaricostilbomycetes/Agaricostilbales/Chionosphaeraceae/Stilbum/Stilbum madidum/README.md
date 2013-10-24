@@ -1,5 +1,4 @@
-Stilbum madidum Peck SPECIES
-=======
+# Stilbum madidum Peck SPECIES
 
 #### Status
 ACCEPTED

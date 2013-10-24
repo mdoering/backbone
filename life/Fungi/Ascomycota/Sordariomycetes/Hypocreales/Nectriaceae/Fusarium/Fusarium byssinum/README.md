@@ -1,5 +1,4 @@
-Fusarium byssinum McAlpine SPECIES
-=======
+# Fusarium byssinum McAlpine SPECIES
 
 #### Status
 ACCEPTED

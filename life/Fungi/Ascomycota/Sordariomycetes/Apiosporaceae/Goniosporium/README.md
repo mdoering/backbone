@@ -1,5 +1,4 @@
-Goniosporium GENUS
-=======
+# Goniosporium GENUS
 
 #### Status
 ACCEPTED

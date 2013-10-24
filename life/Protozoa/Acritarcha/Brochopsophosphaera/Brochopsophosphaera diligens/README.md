@@ -1,5 +1,4 @@
-Brochopsophosphaera diligens Chibrikova, 1972 SPECIES
-=======
+# Brochopsophosphaera diligens Chibrikova, 1972 SPECIES
 
 #### Status
 ACCEPTED

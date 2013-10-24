@@ -1,5 +1,4 @@
-Asperatopsophosphaera tenner (Naumova, 1968) Fensome et al., 1990 SPECIES
-=======
+# Asperatopsophosphaera tenner (Naumova, 1968) Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

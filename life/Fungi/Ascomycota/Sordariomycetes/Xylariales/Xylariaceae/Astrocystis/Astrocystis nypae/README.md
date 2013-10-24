@@ -1,5 +1,4 @@
-Astrocystis nypae G.J.D. Sm. & K.D. Hyde, 2001 SPECIES
-=======
+# Astrocystis nypae G.J.D. Sm. & K.D. Hyde, 2001 SPECIES
 
 #### Status
 ACCEPTED

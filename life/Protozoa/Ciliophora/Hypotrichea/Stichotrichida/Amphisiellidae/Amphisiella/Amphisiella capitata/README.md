@@ -1,8 +1,7 @@
-Holosticha capitata Perejaslawzewa, 1885 SPECIES
-=======
+# Amphisiella capitata (Perejaslawzewa, 1885) Borror, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

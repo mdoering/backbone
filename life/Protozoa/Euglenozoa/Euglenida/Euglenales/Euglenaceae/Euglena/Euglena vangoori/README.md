@@ -1,5 +1,4 @@
-Euglena vangoori Defl. SPECIES
-=======
+# Euglena vangoori Defl. SPECIES
 
 #### Status
 ACCEPTED

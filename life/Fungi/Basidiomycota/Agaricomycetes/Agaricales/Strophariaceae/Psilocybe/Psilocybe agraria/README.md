@@ -1,5 +1,4 @@
-Psilocybe agraria (Fr.) P. Karst. SPECIES
-=======
+# Psilocybe agraria (Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Buellia triphragmia subsp. thionella Norman SUBSPECIES
-=======
+# Tetramelas triphragmioides (Anzi) A. Nordin & Tibell SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lichenologist 37(6): 497 (2005)
 
 #### Original name
-null
+Buellia triphragmioides Anzi
 
 ### Remarks
 null

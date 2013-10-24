@@ -1,5 +1,4 @@
-Tubaria mammosa Henn. SPECIES
-=======
+# Tubaria mammosa Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria fallax Berl. SPECIES
-=======
+# Leptosphaeria fallax Berl. SPECIES
 
 #### Status
 ACCEPTED

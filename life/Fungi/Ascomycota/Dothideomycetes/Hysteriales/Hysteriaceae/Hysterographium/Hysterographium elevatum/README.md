@@ -1,5 +1,4 @@
-Hysterographium elevatum (Pers.) Desm. SPECIES
-=======
+# Hysterographium elevatum (Pers.) Desm. SPECIES
 
 #### Status
 ACCEPTED

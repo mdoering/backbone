@@ -1,5 +1,4 @@
-Sporisorium elegantis Vánky SPECIES
-=======
+# Sporisorium elegantis Vánky SPECIES
 
 #### Status
 ACCEPTED

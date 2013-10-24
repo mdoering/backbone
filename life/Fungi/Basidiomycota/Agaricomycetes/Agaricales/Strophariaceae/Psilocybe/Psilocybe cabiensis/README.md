@@ -1,5 +1,4 @@
-Psilocybe cabiensis Guzmán, M. Torres & Ram.-Guill. SPECIES
-=======
+# Psilocybe cabiensis Guzmán, M. Torres & Ram.-Guill. SPECIES
 
 #### Status
 ACCEPTED

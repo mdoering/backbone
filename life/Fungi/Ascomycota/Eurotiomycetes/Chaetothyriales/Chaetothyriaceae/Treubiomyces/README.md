@@ -1,17 +1,16 @@
-Paropsis Speg. GENUS
-=======
+# Treubiomyces Höhn. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Physis, Buenos Aires 4: 284 (1918)
+Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 118(8): 1180 (1909)
 
 #### Original name
-Paropsis Speg.
+Treubiomyces Höhn.
 
 ### Remarks
 null

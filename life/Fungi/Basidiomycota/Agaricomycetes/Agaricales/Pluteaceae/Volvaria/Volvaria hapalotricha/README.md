@@ -1,5 +1,4 @@
-Volvaria hapalotricha (Berk. & Broome) Sacc. SPECIES
-=======
+# Volvaria hapalotricha (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

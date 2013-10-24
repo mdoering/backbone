@@ -1,5 +1,4 @@
-Comoclathris harperi Shoemaker & C.E. Babc. SPECIES
-=======
+# Comoclathris harperi Shoemaker & C.E. Babc. SPECIES
 
 #### Status
 ACCEPTED

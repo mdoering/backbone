@@ -1,5 +1,4 @@
-Caloplaca sipeana H. Magn. SPECIES
-=======
+# Caloplaca sipeana H. Magn. SPECIES
 
 #### Status
 ACCEPTED

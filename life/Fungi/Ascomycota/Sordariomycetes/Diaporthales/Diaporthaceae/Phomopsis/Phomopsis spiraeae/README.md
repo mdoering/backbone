@@ -1,5 +1,4 @@
-Phomopsis spiraeae (Desm.) Höhn. SPECIES
-=======
+# Phomopsis spiraeae (Desm.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

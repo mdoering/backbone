@@ -1,5 +1,4 @@
-Monascus kaoliang C.F. Lin & Iizuka, 1975 SPECIES
-=======
+# Monascus kaoliang C.F. Lin & Iizuka, 1975 SPECIES
 
 #### Status
 ACCEPTED

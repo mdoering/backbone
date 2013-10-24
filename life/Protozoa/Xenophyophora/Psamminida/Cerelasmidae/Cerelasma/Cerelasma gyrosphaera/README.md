@@ -1,5 +1,4 @@
-Cerelasma gyrosphaera Haeckel, 1889 SPECIES
-=======
+# Cerelasma gyrosphaera Haeckel, 1889 SPECIES
 
 #### Status
 ACCEPTED

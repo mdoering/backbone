@@ -1,5 +1,4 @@
-Asterothyrium segmentatum L.I. Ferraro & Lücking SPECIES
-=======
+# Asterothyrium segmentatum L.I. Ferraro & Lücking SPECIES
 
 #### Status
 ACCEPTED

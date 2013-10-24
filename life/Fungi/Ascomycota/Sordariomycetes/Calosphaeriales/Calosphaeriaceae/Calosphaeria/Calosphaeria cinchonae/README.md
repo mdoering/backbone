@@ -1,5 +1,4 @@
-Calosphaeria cinchonae Zimm. SPECIES
-=======
+# Calosphaeria cinchonae Zimm. SPECIES
 
 #### Status
 ACCEPTED

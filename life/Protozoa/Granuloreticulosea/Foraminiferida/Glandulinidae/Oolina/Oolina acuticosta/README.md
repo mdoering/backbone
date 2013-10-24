@@ -1,5 +1,4 @@
-Oolina acuticosta SPECIES
-=======
+# Oolina acuticosta SPECIES
 
 #### Status
 ACCEPTED

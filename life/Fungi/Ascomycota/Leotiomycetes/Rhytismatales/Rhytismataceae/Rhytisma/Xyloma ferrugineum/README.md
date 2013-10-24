@@ -1,5 +1,4 @@
-Xyloma ferrugineum Schulzer SPECIES
-=======
+# Xyloma ferrugineum Schulzer SPECIES
 
 #### Status
 ACCEPTED

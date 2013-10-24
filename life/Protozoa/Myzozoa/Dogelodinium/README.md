@@ -1,14 +1,13 @@
-Collinella J. Cacho, 1964 GENUS
-=======
+# Dogelodinium Loeblich, Jr & A.R.Loeblich, Iii, 1966 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
-Annls Sci. Nat. (12) (Zool. ) 6: 49.
+null
 
 #### Original name
 null

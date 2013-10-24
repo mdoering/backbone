@@ -1,5 +1,4 @@
-Neurospora tetrasperma Shear & B.O. Dodge, 1927 SPECIES
-=======
+# Neurospora tetrasperma Shear & B.O. Dodge, 1927 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hymenula lupini Cooke & Harkn. SPECIES
-=======
+# Hymenula lupini Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Lecidea macrophylla var. macrophylla VARIETY
-=======
+# Gypsoplaca macrophylla (Zahlbr.) Timdal SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Jahns, Biblthca Lichenol. 38: 424 (1990)
 
 #### Original name
-Lecidea macrophylla var. macrophylla
+Lecidea macrophylla Zahlbr.
 
 ### Remarks
 null

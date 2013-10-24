@@ -1,5 +1,4 @@
-Nothia Pflaumann, 1964 GENUS
-=======
+# Nothia Pflaumann, 1964 GENUS
 
 #### Status
 ACCEPTED

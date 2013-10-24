@@ -1,5 +1,4 @@
-Stictosphaeridium scabrosum Luo Qiling & Sun Shufen in Luo Qiling et al. SPECIES
-=======
+# Stictosphaeridium scabrosum Luo Qiling & Sun Shufen in Luo Qiling et al. SPECIES
 
 #### Status
 ACCEPTED

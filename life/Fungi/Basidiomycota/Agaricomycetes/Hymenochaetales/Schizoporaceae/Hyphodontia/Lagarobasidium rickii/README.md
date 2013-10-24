@@ -1,5 +1,4 @@
-Lagarobasidium rickii (Hjortstam & Ryvarden) Hjortstam & Ryvarden SPECIES
-=======
+# Lagarobasidium rickii (Hjortstam & Ryvarden) Hjortstam & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

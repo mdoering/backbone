@@ -1,5 +1,4 @@
-Turicibacter Bosshard, Zbinden & Altwegg, 2002 GENUS
-=======
+# Turicibacter Bosshard, Zbinden & Altwegg, 2002 GENUS
 
 #### Status
 ACCEPTED

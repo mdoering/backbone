@@ -1,5 +1,4 @@
-Taphrina amplians Mix SPECIES
-=======
+# Taphrina amplians Mix SPECIES
 
 #### Status
 ACCEPTED

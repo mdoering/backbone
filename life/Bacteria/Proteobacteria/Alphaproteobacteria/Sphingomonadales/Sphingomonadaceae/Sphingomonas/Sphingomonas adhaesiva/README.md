@@ -1,5 +1,4 @@
-Sphingomonas adhaesiva Yabuuchi et al., 1990 SPECIES
-=======
+# Sphingomonas adhaesiva Yabuuchi et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

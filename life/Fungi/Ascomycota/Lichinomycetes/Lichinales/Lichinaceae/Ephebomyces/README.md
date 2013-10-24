@@ -1,5 +1,4 @@
-Ephebomyces GENUS
-=======
+# Ephebomyces GENUS
 
 #### Status
 ACCEPTED

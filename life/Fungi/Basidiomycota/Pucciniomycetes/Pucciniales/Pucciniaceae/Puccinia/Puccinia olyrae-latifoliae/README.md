@@ -1,5 +1,4 @@
-Puccinia olyrae-latifoliae Vienn.-Bourg. SPECIES
-=======
+# Puccinia olyrae-latifoliae Vienn.-Bourg. SPECIES
 
 #### Status
 ACCEPTED

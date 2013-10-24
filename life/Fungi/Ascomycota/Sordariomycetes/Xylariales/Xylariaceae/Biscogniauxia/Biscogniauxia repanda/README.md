@@ -1,17 +1,16 @@
-Nummularia repanda f. repanda FORM
-=======
+# Biscogniauxia repanda (Fr.) Kuntze, 1891 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Pyrenomycetes Germanici 1: 57 (1867)
+Revis. gen. pl. (Leipzig) 2: 398 (1891)
 
 #### Original name
-Nummularia repanda f. repanda
+Sphaeria repanda Fr., 1815
 
 ### Remarks
 null

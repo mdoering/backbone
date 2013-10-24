@@ -1,5 +1,4 @@
-Erannium GENUS
-=======
+# Erannium GENUS
 
 #### Status
 ACCEPTED

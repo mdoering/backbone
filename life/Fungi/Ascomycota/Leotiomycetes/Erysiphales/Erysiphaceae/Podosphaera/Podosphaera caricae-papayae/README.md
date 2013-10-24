@@ -1,5 +1,4 @@
-Podosphaera caricae-papayae (Tanda & U. Braun) U. Braun & S. Takam. SPECIES
-=======
+# Podosphaera caricae-papayae (Tanda & U. Braun) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

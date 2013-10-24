@@ -1,5 +1,4 @@
-Trametes ozonioides DC. SPECIES
-=======
+# Trametes ozonioides DC. SPECIES
 
 #### Status
 ACCEPTED

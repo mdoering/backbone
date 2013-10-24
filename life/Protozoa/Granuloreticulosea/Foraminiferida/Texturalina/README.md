@@ -1,5 +1,4 @@
-Texturalina GENUS
-=======
+# Texturalina GENUS
 
 #### Status
 ACCEPTED

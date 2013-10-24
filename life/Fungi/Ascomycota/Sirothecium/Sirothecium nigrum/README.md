@@ -1,5 +1,4 @@
-Sirothecium nigrum Morgan SPECIES
-=======
+# Sirothecium nigrum Morgan SPECIES
 
 #### Status
 ACCEPTED

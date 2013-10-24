@@ -1,5 +1,4 @@
-Septoria umatillensis R. Sprague SPECIES
-=======
+# Septoria umatillensis R. Sprague SPECIES
 
 #### Status
 ACCEPTED

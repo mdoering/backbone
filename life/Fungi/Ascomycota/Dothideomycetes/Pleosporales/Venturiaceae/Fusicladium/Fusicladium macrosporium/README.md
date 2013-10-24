@@ -1,5 +1,4 @@
-Fusicladium macrosporium Bonord. SPECIES
-=======
+# Fusicladium macrosporium Bonord. SPECIES
 
 #### Status
 ACCEPTED

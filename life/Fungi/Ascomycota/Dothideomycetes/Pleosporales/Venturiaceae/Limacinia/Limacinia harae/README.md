@@ -1,5 +1,4 @@
-Limacinia harae W. Yamam. SPECIES
-=======
+# Limacinia harae W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

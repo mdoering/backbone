@@ -1,5 +1,4 @@
-Pholiota rubecula Bonn. {?} & Peck SPECIES
-=======
+# Pholiota rubecula Bonn. {?} & Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria faginea Pass. SPECIES
-=======
+# Leptosphaeria faginea Pass. SPECIES
 
 #### Status
 ACCEPTED

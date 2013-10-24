@@ -1,5 +1,4 @@
-Paradentalina caribbeana Hofker, 1976 SPECIES
-=======
+# Paradentalina caribbeana Hofker, 1976 SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Calicium nigricans Fr. SPECIES
-=======
+# Calicium nigricans Fr. SPECIES
 
 #### Status
 ACCEPTED

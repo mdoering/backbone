@@ -1,5 +1,4 @@
-Strickeria peziza G. Winter SPECIES
-=======
+# Strickeria peziza G. Winter SPECIES
 
 #### Status
 ACCEPTED

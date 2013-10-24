@@ -1,5 +1,4 @@
-Rosellinia plicatula (Berk. & Broome) Sacc. SPECIES
-=======
+# Rosellinia plicatula (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

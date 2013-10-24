@@ -1,5 +1,4 @@
-Tulostoma bonianum Pat. SPECIES
-=======
+# Tulostoma bonianum Pat. SPECIES
 
 #### Status
 ACCEPTED

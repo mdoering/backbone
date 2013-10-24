@@ -1,5 +1,4 @@
-Aristerostoma Kahl, 1926 GENUS
-=======
+# Aristerostoma Kahl, 1926 GENUS
 
 #### Status
 ACCEPTED

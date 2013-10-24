@@ -1,5 +1,4 @@
-Strombidium spirale Busch, 1950 SPECIES
-=======
+# Strombidium spirale Busch, 1950 SPECIES
 
 #### Status
 ACCEPTED

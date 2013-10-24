@@ -1,5 +1,4 @@
-Biatora prasina Tuck. SPECIES
-=======
+# Biatora prasina Tuck. SPECIES
 
 #### Status
 ACCEPTED

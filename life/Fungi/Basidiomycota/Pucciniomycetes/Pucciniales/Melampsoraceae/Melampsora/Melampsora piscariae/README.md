@@ -1,5 +1,4 @@
-Melampsora piscariae H.S. Jacks. SPECIES
-=======
+# Melampsora piscariae H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

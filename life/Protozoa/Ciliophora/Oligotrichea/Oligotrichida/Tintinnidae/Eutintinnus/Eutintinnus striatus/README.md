@@ -1,5 +1,4 @@
-Eutintinnus striatus Dashu & Ping Sing-Cheng, 1947 SPECIES
-=======
+# Eutintinnus striatus Dashu & Ping Sing-Cheng, 1947 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aplosporella palmicola Henn. SPECIES
-=======
+# Aplosporella palmicola Henn. SPECIES
 
 #### Status
 ACCEPTED

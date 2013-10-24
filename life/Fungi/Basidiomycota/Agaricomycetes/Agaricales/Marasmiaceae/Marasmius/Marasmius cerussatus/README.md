@@ -1,5 +1,4 @@
-Marasmius cerussatus Pat. SPECIES
-=======
+# Marasmius cerussatus Pat. SPECIES
 
 #### Status
 ACCEPTED

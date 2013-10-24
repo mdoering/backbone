@@ -1,5 +1,4 @@
-Cyphelium nigricans (Fr.) A. Massal. SPECIES
-=======
+# Cyphelium nigricans (Fr.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Radulum hornotinum P. Karst. SPECIES
-=======
+# Radulum hornotinum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

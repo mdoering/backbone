@@ -1,5 +1,4 @@
-Protousnea scrobiculata (Sambo) Krog SPECIES
-=======
+# Protousnea scrobiculata (Sambo) Krog SPECIES
 
 #### Status
 ACCEPTED

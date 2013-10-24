@@ -1,5 +1,4 @@
-Mycena nanoclavula Singer SPECIES
-=======
+# Mycena nanoclavula Singer SPECIES
 
 #### Status
 ACCEPTED

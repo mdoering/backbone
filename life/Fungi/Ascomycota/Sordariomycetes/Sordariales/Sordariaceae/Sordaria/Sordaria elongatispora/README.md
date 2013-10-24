@@ -1,5 +1,4 @@
-Sordaria elongatispora Barrasa, N. Lundq. & G. Moreno SPECIES
-=======
+# Sordaria elongatispora Barrasa, N. Lundq. & G. Moreno SPECIES
 
 #### Status
 ACCEPTED

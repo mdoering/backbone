@@ -1,5 +1,4 @@
-Diploplenodomus piskorzii Petr. SPECIES
-=======
+# Diploplenodomus piskorzii Petr. SPECIES
 
 #### Status
 ACCEPTED

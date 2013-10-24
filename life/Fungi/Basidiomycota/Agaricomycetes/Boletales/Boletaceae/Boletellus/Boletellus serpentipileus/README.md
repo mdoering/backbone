@@ -1,5 +1,4 @@
-Boletellus serpentipileus M. Zang & M.S. Yuan SPECIES
-=======
+# Boletellus serpentipileus M. Zang & M.S. Yuan SPECIES
 
 #### Status
 ACCEPTED

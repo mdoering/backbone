@@ -1,5 +1,4 @@
-Cleithronetrum cancellatum Loeblich & Tappan, 1978 SPECIES
-=======
+# Cleithronetrum cancellatum Loeblich & Tappan, 1978 SPECIES
 
 #### Status
 ACCEPTED

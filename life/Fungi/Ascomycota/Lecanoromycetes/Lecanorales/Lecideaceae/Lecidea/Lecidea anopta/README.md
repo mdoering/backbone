@@ -1,5 +1,4 @@
-Lecidea anopta f. convexula (Arnold) Lettau FORM
-=======
+# Lecidea anopta (Nyl.) Lettau SPECIES
 
 #### Status
 ACCEPTED

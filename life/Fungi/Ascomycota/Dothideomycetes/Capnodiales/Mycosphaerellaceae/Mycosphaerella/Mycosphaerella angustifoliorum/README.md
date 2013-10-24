@@ -1,5 +1,4 @@
-Mycosphaerella angustifoliorum A.W. Ramaley SPECIES
-=======
+# Mycosphaerella angustifoliorum A.W. Ramaley SPECIES
 
 #### Status
 ACCEPTED

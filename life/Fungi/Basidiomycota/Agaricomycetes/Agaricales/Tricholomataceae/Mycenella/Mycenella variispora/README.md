@@ -1,5 +1,4 @@
-Mycenella variispora Robich SPECIES
-=======
+# Mycenella variispora Robich SPECIES
 
 #### Status
 ACCEPTED

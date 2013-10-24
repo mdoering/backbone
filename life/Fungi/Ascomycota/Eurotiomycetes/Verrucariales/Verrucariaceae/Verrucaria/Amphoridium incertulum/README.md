@@ -1,5 +1,4 @@
-Amphoridium incertulum Arnold SPECIES
-=======
+# Amphoridium incertulum Arnold SPECIES
 
 #### Status
 ACCEPTED

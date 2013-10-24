@@ -1,5 +1,4 @@
-Dicaeoma mougeotii (Lagerh.) Kuntze SPECIES
-=======
+# Dicaeoma mougeotii (Lagerh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

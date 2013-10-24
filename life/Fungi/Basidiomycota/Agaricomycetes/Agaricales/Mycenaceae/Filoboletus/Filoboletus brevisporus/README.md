@@ -1,5 +1,4 @@
-Filoboletus brevisporus Maas Geest. SPECIES
-=======
+# Filoboletus brevisporus Maas Geest. SPECIES
 
 #### Status
 ACCEPTED

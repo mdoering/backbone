@@ -1,5 +1,4 @@
-Cenangium cephalanthi (Schwein.) Fr. SPECIES
-=======
+# Cenangium cephalanthi (Schwein.) Fr. SPECIES
 
 #### Status
 ACCEPTED

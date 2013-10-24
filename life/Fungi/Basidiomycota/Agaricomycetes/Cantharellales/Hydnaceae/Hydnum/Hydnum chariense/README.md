@@ -1,5 +1,4 @@
-Hydnum chariense (Har. & Pat.) Sacc. & Trotter SPECIES
-=======
+# Hydnum chariense (Har. & Pat.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

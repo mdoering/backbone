@@ -1,5 +1,4 @@
-Scolicotrichum punctulatum Tracy & Earle SPECIES
-=======
+# Scolicotrichum punctulatum Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

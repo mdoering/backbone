@@ -1,5 +1,4 @@
-Cercospora muntingiicola J.M. Yen SPECIES
-=======
+# Cercospora muntingiicola J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

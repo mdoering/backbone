@@ -1,5 +1,4 @@
-Cortinarius pseudotraganus Rob. Henry SPECIES
-=======
+# Cortinarius pseudotraganus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

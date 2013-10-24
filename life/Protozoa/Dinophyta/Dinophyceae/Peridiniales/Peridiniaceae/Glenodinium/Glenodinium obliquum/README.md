@@ -1,5 +1,4 @@
-Glenodinium obliquum Pouchet SPECIES
-=======
+# Glenodinium obliquum Pouchet SPECIES
 
 #### Status
 ACCEPTED

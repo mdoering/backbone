@@ -1,5 +1,4 @@
-Synechocystis willei Gardner SPECIES
-=======
+# Synechocystis willei Gardner SPECIES
 
 #### Status
 ACCEPTED

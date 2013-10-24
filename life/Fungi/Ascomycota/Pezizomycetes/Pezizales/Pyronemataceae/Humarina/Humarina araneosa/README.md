@@ -1,5 +1,4 @@
-Humarina araneosa (Peck) Seaver SPECIES
-=======
+# Humarina araneosa (Peck) Seaver SPECIES
 
 #### Status
 ACCEPTED

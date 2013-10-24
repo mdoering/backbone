@@ -1,5 +1,4 @@
-Trichosphaeria incisa Morgan SPECIES
-=======
+# Trichosphaeria incisa Morgan SPECIES
 
 #### Status
 ACCEPTED

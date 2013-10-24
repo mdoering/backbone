@@ -1,5 +1,4 @@
-Polyactis leucospora Bonord. SPECIES
-=======
+# Polyactis leucospora Bonord. SPECIES
 
 #### Status
 ACCEPTED

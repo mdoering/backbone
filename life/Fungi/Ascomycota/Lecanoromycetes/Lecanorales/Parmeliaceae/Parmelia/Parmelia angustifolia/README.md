@@ -1,5 +1,4 @@
-Parmelia angustifolia (Asahina) Kurok. SPECIES
-=======
+# Parmelia angustifolia (Asahina) Kurok. SPECIES
 
 #### Status
 ACCEPTED

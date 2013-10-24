@@ -1,5 +1,4 @@
-Loliomyces Maire GENUS
-=======
+# Loliomyces Maire GENUS
 
 #### Status
 ACCEPTED

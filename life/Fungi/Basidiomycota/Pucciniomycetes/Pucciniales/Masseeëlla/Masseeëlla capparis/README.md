@@ -1,14 +1,13 @@
-Masseeëlla capparidis (Hobson bis ex Cooke) Dietel SPECIES
-=======
+# Masseeëlla capparis (Hobson bis ex Cooke) Dietel, 1895 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ber. dt. bot. Ges. 13: 334 (1895)
 
 #### Original name
 Cronartium capparis Hobson bis ex Cooke, 1886

@@ -1,5 +1,4 @@
-Euphoriomyces huggertii T. Majewski SPECIES
-=======
+# Euphoriomyces huggertii T. Majewski SPECIES
 
 #### Status
 ACCEPTED

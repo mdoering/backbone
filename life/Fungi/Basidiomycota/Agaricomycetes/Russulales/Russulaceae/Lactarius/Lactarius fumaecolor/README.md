@@ -1,17 +1,16 @@
-Lactaria fumaecolor Burl. SPECIES
-=======
+# Lactarius fumaecolor Burl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 37(1): 57 (1945)
 
 #### Original name
-Lactaria fumaecolor Burl.
+Lactarius fumaecolor Burl.
 
 ### Remarks
 null

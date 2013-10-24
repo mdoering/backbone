@@ -1,5 +1,4 @@
-Phyllosticta prominens Oudem. SPECIES
-=======
+# Phyllosticta prominens Oudem. SPECIES
 
 #### Status
 ACCEPTED

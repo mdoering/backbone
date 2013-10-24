@@ -1,5 +1,4 @@
-Septoria hypochoeridis M. Petrov SPECIES
-=======
+# Septoria hypochoeridis M. Petrov SPECIES
 
 #### Status
 ACCEPTED

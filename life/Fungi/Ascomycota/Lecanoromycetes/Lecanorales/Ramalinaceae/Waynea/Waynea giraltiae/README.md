@@ -1,5 +1,4 @@
-Waynea giraltiae van den Boom SPECIES
-=======
+# Waynea giraltiae van den Boom SPECIES
 
 #### Status
 ACCEPTED

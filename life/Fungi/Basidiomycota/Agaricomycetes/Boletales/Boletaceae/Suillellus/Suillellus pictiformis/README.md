@@ -1,5 +1,4 @@
-Suillellus pictiformis Murrill SPECIES
-=======
+# Suillellus pictiformis Murrill SPECIES
 
 #### Status
 ACCEPTED

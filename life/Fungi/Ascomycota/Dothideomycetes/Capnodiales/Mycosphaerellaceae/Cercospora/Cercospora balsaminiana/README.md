@@ -1,5 +1,4 @@
-Cercospora balsaminiana J.M. Yen & Lim SPECIES
-=======
+# Cercospora balsaminiana J.M. Yen & Lim SPECIES
 
 #### Status
 ACCEPTED

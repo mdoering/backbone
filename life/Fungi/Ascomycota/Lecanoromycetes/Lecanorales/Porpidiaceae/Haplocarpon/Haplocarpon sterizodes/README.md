@@ -1,5 +1,4 @@
-Haplocarpon sterizodes M. Choisy SPECIES
-=======
+# Haplocarpon sterizodes M. Choisy SPECIES
 
 #### Status
 ACCEPTED

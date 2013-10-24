@@ -1,5 +1,4 @@
-Hemiholosticha Gelei, 1954 GENUS
-=======
+# Hemiholosticha Gelei, 1954 GENUS
 
 #### Status
 ACCEPTED

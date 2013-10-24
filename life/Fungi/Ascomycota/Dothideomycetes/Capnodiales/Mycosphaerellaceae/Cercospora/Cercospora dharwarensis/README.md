@@ -1,5 +1,4 @@
-Cercospora dharwarensis Rangasw., Seshadri, Lucy Chann., Swamin. & Raghun. SPECIES
-=======
+# Cercospora dharwarensis Rangasw., Seshadri, Lucy Chann., Swamin. & Raghun. SPECIES
 
 #### Status
 ACCEPTED

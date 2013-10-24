@@ -1,17 +1,16 @@
-Psathyrella wavereni Arnolds SPECIES
-=======
+# Psathyrella waverenii Arnolds SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biblthca Mycol. 90: 439 (1982)
 
 #### Original name
-Psathyrella wavereni Arnolds
+Psathyrella waverenii Arnolds
 
 ### Remarks
 null

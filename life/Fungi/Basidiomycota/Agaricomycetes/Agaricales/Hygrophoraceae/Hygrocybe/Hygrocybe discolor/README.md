@@ -1,5 +1,4 @@
-Hygrocybe discolor (Kalchbr. & MacOwan) D.A. Reid SPECIES
-=======
+# Hygrocybe discolor (Kalchbr. & MacOwan) D.A. Reid SPECIES
 
 #### Status
 ACCEPTED

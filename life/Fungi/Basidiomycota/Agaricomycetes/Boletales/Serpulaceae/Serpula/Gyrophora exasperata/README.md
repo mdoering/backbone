@@ -1,5 +1,4 @@
-Gyrophora exasperata (Hoffm.) Flörke SPECIES
-=======
+# Gyrophora exasperata (Hoffm.) Flörke SPECIES
 
 #### Status
 ACCEPTED

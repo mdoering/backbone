@@ -1,5 +1,4 @@
-Carinolithus sceptrum (Deflandre in Deflandre & Fert, 1954) Medd, 1979 SPECIES
-=======
+# Carinolithus sceptrum (Deflandre in Deflandre & Fert, 1954) Medd, 1979 SPECIES
 
 #### Status
 ACCEPTED

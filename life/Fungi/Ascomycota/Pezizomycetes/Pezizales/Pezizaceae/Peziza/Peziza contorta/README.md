@@ -1,5 +1,4 @@
-Peziza contorta (Rick) Sacc. & Trotter SPECIES
-=======
+# Peziza contorta (Rick) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

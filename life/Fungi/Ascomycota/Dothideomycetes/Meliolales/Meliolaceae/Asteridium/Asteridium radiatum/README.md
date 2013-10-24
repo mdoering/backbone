@@ -1,5 +1,4 @@
-Asteridium radiatum Henn. SPECIES
-=======
+# Asteridium radiatum Henn. SPECIES
 
 #### Status
 ACCEPTED

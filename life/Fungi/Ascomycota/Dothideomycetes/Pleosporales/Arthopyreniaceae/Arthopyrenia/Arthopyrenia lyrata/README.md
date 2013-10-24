@@ -1,5 +1,4 @@
-Arthopyrenia lyrata R. C. Harris SPECIES
-=======
+# Arthopyrenia lyrata R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

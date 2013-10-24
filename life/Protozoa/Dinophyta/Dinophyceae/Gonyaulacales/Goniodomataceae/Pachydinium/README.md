@@ -1,5 +1,4 @@
-Pachydinium J. Pavillard, 1915 GENUS
-=======
+# Pachydinium J. Pavillard, 1915 GENUS
 
 #### Status
 ACCEPTED

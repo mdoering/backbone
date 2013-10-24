@@ -1,5 +1,4 @@
-Septoria ornithogalicola Hollós SPECIES
-=======
+# Septoria ornithogalicola Hollós SPECIES
 
 #### Status
 ACCEPTED

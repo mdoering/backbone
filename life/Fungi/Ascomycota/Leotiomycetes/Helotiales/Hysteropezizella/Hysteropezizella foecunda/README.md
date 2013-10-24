@@ -1,14 +1,13 @@
-Peziza foecunda W. Phillips SPECIES
-=======
+# Hysteropezizella foecunda (W. Phillips) Nannf., 1936 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 8(no. 47): 102 (1880)
+Trans. Br. mycol. Soc. 20: 203 (1936)
 
 #### Original name
 Peziza foecunda W. Phillips

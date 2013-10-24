@@ -1,5 +1,4 @@
-Parmelia coccodes Bél. SPECIES
-=======
+# Parmelia coccodes Bél. SPECIES
 
 #### Status
 ACCEPTED

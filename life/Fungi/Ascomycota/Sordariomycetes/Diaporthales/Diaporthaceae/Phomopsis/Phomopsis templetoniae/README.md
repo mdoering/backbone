@@ -1,5 +1,4 @@
-Phomopsis templetoniae (Henn.) Died. SPECIES
-=======
+# Phomopsis templetoniae (Henn.) Died. SPECIES
 
 #### Status
 ACCEPTED

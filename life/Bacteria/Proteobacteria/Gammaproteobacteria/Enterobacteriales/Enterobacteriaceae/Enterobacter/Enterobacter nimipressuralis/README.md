@@ -1,8 +1,7 @@
-Erwinia nimipressuralis (Carter, 1945) Dye, 1969 (Approved Lists, 1980) SPECIES
-=======
+# Enterobacter nimipressuralis (Carter, 1945) Brenner et al., 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

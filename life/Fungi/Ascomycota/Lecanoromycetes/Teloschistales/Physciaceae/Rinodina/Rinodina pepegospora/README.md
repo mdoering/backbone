@@ -1,5 +1,4 @@
-Rinodina pepegospora SPECIES
-=======
+# Rinodina pepegospora SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phylloporthe vernoniae Syd., 1925 SPECIES
-=======
+# Phylloporthe vernoniae Syd., 1925 SPECIES
 
 #### Status
 ACCEPTED

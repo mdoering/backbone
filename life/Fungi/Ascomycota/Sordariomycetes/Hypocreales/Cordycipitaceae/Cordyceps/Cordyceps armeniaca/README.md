@@ -1,5 +1,4 @@
-Cordyceps armeniaca Berk. & M.A. Curtis SPECIES
-=======
+# Cordyceps armeniaca Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

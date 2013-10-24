@@ -1,5 +1,4 @@
-Actinomyces paraguayensis F.P. Almeida SPECIES
-=======
+# Actinomyces paraguayensis F.P. Almeida SPECIES
 
 #### Status
 ACCEPTED

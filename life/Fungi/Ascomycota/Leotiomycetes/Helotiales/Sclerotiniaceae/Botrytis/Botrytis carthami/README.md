@@ -1,5 +1,4 @@
-Botrytis carthami Bai Q. Lin & Y.San Wu SPECIES
-=======
+# Botrytis carthami Bai Q. Lin & Y.San Wu SPECIES
 
 #### Status
 ACCEPTED

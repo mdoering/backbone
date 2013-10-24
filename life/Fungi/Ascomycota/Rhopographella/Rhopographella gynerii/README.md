@@ -1,5 +1,4 @@
-Rhopographella gynerii (Henn.) Sacc. & Trotter SPECIES
-=======
+# Rhopographella gynerii (Henn.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

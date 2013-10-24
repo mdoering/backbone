@@ -1,5 +1,4 @@
-Verrucaria lecanoroides Servít SPECIES
-=======
+# Verrucaria lecanoroides Servít SPECIES
 
 #### Status
 ACCEPTED

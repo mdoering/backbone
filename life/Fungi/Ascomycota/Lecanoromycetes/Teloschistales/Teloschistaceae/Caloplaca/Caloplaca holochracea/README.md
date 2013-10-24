@@ -1,5 +1,4 @@
-Caloplaca holochracea (Nyl.) Zahlbr. SPECIES
-=======
+# Caloplaca holochracea (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

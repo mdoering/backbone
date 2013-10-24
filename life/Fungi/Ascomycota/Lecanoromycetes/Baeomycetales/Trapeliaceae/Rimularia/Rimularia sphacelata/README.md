@@ -1,14 +1,13 @@
-Biatora sphacelata (Th. Fr.) Hellb. SPECIES
-=======
+# Rimularia sphacelata (Th. Fr.) Hertel & Rambold SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Jahns, Biblthca Lichenol. 38: 185 (1990)
 
 #### Original name
 Lecidea sphacelata Th. Fr.

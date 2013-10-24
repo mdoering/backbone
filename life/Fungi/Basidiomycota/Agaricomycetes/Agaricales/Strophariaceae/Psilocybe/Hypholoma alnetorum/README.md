@@ -1,5 +1,4 @@
-Hypholoma alnetorum (Singer) Guzmán SPECIES
-=======
+# Hypholoma alnetorum (Singer) Guzmán SPECIES
 
 #### Status
 ACCEPTED

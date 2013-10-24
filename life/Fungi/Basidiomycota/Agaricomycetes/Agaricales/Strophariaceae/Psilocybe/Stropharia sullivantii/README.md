@@ -1,5 +1,4 @@
-Stropharia sullivantii (Mont.) Morgan SPECIES
-=======
+# Stropharia sullivantii (Mont.) Morgan SPECIES
 
 #### Status
 ACCEPTED

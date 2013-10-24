@@ -1,5 +1,4 @@
-Chitonomyces Peyr. GENUS
-=======
+# Chitonomyces Peyr. GENUS
 
 #### Status
 ACCEPTED

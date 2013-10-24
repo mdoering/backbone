@@ -1,14 +1,13 @@
-Didymella submicans (Nyl.) H. Magn. SPECIES
-=======
+# Arthopyrenia nitescens (Salwey) Mudd SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Forteckning over Skandinaviens Vaxter, 4, Lavar (Lurid) 10 (1937)
+Man. Brit. Lich. 303 (1861)
 
 #### Original name
 null

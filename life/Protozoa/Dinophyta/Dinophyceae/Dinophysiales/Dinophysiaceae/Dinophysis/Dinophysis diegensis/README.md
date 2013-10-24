@@ -1,5 +1,4 @@
-Dinophysis diegensis Kofoid SPECIES
-=======
+# Dinophysis diegensis Kofoid SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Siphogenerinoides landesi Stone SPECIES
-=======
+# Siphogenerinoides landesi Stone SPECIES
 
 #### Status
 ACCEPTED

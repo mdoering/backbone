@@ -1,5 +1,4 @@
-Libertella padina Petr. SPECIES
-=======
+# Libertella padina Petr. SPECIES
 
 #### Status
 ACCEPTED

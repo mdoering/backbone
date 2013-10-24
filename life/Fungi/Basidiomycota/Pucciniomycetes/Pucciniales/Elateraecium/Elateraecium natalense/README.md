@@ -1,5 +1,4 @@
-Elateraecium natalense Gjaerum & D.A. Reid, 1983 SPECIES
-=======
+# Elateraecium natalense Gjaerum & D.A. Reid, 1983 SPECIES
 
 #### Status
 ACCEPTED

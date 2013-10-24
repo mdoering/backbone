@@ -1,5 +1,4 @@
-Thallinocarpon nigritellum (Lettau) P. M. Jørg. SPECIES
-=======
+# Thallinocarpon nigritellum (Lettau) P. M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

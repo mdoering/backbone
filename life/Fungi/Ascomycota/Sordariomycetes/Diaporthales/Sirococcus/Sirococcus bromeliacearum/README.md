@@ -1,5 +1,4 @@
-Sirococcus bromeliacearum Tassi SPECIES
-=======
+# Sirococcus bromeliacearum Tassi SPECIES
 
 #### Status
 ACCEPTED

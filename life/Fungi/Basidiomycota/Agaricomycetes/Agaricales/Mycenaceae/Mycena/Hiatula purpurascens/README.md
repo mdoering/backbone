@@ -1,5 +1,4 @@
-Hiatula purpurascens Berk. & M.A. Curtis SPECIES
-=======
+# Hiatula purpurascens Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

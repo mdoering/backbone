@@ -1,5 +1,4 @@
-Caeoma pulcherrimum Bubák SPECIES
-=======
+# Caeoma pulcherrimum Bubák SPECIES
 
 #### Status
 ACCEPTED

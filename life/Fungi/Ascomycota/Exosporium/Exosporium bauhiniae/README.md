@@ -1,5 +1,4 @@
-Exosporium bauhiniae Garud SPECIES
-=======
+# Exosporium bauhiniae Garud SPECIES
 
 #### Status
 ACCEPTED

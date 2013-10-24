@@ -1,5 +1,4 @@
-Uredo dombeyicola Cummins SPECIES
-=======
+# Uredo dombeyicola Cummins SPECIES
 
 #### Status
 ACCEPTED

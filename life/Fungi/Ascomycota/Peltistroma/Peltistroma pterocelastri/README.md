@@ -1,5 +1,4 @@
-Peltistroma pterocelastri Bat. & A.F. Vital SPECIES
-=======
+# Peltistroma pterocelastri Bat. & A.F. Vital SPECIES
 
 #### Status
 ACCEPTED

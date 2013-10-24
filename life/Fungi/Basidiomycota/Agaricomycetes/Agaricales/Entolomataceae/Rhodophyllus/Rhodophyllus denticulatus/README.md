@@ -1,5 +1,4 @@
-Rhodophyllus denticulatus Romagn. & Gilles SPECIES
-=======
+# Rhodophyllus denticulatus Romagn. & Gilles SPECIES
 
 #### Status
 ACCEPTED

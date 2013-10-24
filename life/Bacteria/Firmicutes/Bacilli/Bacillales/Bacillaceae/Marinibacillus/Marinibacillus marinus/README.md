@@ -1,8 +1,7 @@
-Bacillus marinus (Rüger & Richter, 1979) Rüger, 1983 SPECIES
-=======
+# Marinibacillus marinus (Rüger & Richter, 1979) Yoon et al., 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

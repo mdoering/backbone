@@ -1,5 +1,4 @@
-Pocillaria curtisii (Sacc. & Cub.) Kuntze SPECIES
-=======
+# Pocillaria curtisii (Sacc. & Cub.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

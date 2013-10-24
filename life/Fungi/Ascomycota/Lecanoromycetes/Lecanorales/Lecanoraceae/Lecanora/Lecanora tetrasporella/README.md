@@ -1,5 +1,4 @@
-Lecanora tetrasporella Nyl. SPECIES
-=======
+# Lecanora tetrasporella Nyl. SPECIES
 
 #### Status
 ACCEPTED

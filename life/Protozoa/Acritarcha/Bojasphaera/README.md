@@ -1,5 +1,4 @@
-Bojasphaera G.K. Colbath, 1990 GENUS
-=======
+# Bojasphaera G.K. Colbath, 1990 GENUS
 
 #### Status
 ACCEPTED

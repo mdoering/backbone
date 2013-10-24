@@ -1,17 +1,16 @@
-Agaricus squamula Berk. & M.A. Curtis, 1860 SPECIES
-=======
+# Hohenbuehelia squamula (Sacc.) Neda, 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Amer. Acad. Arts & Sci. 4: 115 (1860)
+Beitr. Kenntn. Pilze Mitteleur. 45(3): 187 (2004)
 
 #### Original name
-Agaricus squamula Berk. & M.A. Curtis, 1860
+Pleurotus squamula Sacc., 1887
 
 ### Remarks
 null

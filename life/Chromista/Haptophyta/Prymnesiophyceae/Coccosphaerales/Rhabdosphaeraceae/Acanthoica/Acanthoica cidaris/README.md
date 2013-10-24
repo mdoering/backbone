@@ -1,5 +1,4 @@
-Acanthoica cidaris J. Schlauder SPECIES
-=======
+# Acanthoica cidaris J. Schlauder SPECIES
 
 #### Status
 ACCEPTED

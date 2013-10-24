@@ -1,5 +1,4 @@
-Usnea foveolata Vain. SPECIES
-=======
+# Usnea foveolata Vain. SPECIES
 
 #### Status
 ACCEPTED

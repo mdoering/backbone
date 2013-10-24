@@ -1,5 +1,4 @@
-Puccinia oyedaeae Mayor SPECIES
-=======
+# Puccinia oyedaeae Mayor SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus squalidus Fr. SPECIES
-=======
+# Polyporus squalidus Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alnicola submelinoides Kühner SPECIES
-=======
+# Alnicola submelinoides Kühner SPECIES
 
 #### Status
 ACCEPTED

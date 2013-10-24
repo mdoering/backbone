@@ -1,5 +1,4 @@
-Leptosphaeria stictostoma (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Leptosphaeria stictostoma (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

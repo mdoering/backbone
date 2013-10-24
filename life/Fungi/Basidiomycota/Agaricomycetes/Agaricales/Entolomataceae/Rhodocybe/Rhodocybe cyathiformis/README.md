@@ -1,5 +1,4 @@
-Rhodocybe cyathiformis Corner & E. Horak SPECIES
-=======
+# Rhodocybe cyathiformis Corner & E. Horak SPECIES
 
 #### Status
 ACCEPTED

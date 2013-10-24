@@ -1,5 +1,4 @@
-Stigmatomyces fuscipes Speg. SPECIES
-=======
+# Stigmatomyces fuscipes Speg. SPECIES
 
 #### Status
 ACCEPTED

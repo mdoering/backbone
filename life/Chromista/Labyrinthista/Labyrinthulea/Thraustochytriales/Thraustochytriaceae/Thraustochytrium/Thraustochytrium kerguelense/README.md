@@ -1,5 +1,4 @@
-Thraustochytrium kerguelense Bahnweg & Sparrow, 1974 SPECIES
-=======
+# Thraustochytrium kerguelense Bahnweg & Sparrow, 1974 SPECIES
 
 #### Status
 ACCEPTED

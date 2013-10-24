@@ -1,14 +1,13 @@
-Dimorpha Gruber, 1881 GENUS
-=======
+# Cercomonas Dujardin, 1841 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Z. wiss. Zool. , 36, 447.
+C. R. Acad. Sci. (Paris), 11, 285.
 
 #### Original name
 null

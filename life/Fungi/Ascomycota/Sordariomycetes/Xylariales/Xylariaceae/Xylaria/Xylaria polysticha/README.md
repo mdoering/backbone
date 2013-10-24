@@ -1,5 +1,4 @@
-Xylaria polysticha Penz. & Sacc. SPECIES
-=======
+# Xylaria polysticha Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophiosphaera GENUS
-=======
+# Lophiosphaera GENUS
 
 #### Status
 ACCEPTED

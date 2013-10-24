@@ -1,8 +1,7 @@
-Stichochaeta cornuta Claparède & Lachmann, 1858 SPECIES
-=======
+# Stichotricha secunda Perty, 1849 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

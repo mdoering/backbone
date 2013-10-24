@@ -1,5 +1,4 @@
-Meliola manihot F. Stevens & Tehon SPECIES
-=======
+# Meliola manihot F. Stevens & Tehon SPECIES
 
 #### Status
 ACCEPTED

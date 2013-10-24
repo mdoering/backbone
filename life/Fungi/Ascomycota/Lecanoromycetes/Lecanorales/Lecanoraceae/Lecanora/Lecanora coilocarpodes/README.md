@@ -1,5 +1,4 @@
-Lecanora coilocarpodes Nyl. SPECIES
-=======
+# Lecanora coilocarpodes Nyl. SPECIES
 
 #### Status
 ACCEPTED

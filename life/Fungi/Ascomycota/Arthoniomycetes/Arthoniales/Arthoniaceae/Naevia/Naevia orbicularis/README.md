@@ -1,5 +1,4 @@
-Naevia orbicularis Fr. SPECIES
-=======
+# Naevia orbicularis Fr. SPECIES
 
 #### Status
 ACCEPTED

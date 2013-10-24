@@ -1,5 +1,4 @@
-Atkinsonella texensis (Diehl) Leuchtm. & Clay SPECIES
-=======
+# Atkinsonella texensis (Diehl) Leuchtm. & Clay SPECIES
 
 #### Status
 ACCEPTED

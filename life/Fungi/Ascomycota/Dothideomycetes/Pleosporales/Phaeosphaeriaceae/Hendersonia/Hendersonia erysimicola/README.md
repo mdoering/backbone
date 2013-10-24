@@ -1,5 +1,4 @@
-Hendersonia erysimicola Petr. SPECIES
-=======
+# Hendersonia erysimicola Petr. SPECIES
 
 #### Status
 ACCEPTED

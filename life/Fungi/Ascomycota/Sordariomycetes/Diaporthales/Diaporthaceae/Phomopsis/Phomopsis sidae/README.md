@@ -1,5 +1,4 @@
-Phomopsis sidae Traverso SPECIES
-=======
+# Phomopsis sidae Traverso SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces sparaxadis Syd. & P. Syd. SPECIES
-=======
+# Uromyces sparaxadis Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

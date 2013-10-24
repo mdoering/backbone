@@ -1,5 +1,4 @@
-Micropeltis trichomanis Henn. SPECIES
-=======
+# Micropeltis trichomanis Henn. SPECIES
 
 #### Status
 ACCEPTED

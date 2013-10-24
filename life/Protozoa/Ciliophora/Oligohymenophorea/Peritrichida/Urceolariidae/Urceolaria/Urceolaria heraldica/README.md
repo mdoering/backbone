@@ -1,5 +1,4 @@
-Urceolaria heraldica Jankowski, 1974 SPECIES
-=======
+# Urceolaria heraldica Jankowski, 1974 SPECIES
 
 #### Status
 ACCEPTED

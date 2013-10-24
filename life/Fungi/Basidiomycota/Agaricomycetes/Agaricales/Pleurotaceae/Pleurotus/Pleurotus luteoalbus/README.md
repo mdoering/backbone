@@ -1,5 +1,4 @@
-Pleurotus luteoalbus Beeli SPECIES
-=======
+# Pleurotus luteoalbus Beeli SPECIES
 
 #### Status
 ACCEPTED

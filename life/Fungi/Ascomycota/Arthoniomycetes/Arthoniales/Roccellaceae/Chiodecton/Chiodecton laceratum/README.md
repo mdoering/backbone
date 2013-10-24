@@ -1,5 +1,4 @@
-Chiodecton laceratum Vain. SPECIES
-=======
+# Chiodecton laceratum Vain. SPECIES
 
 #### Status
 ACCEPTED

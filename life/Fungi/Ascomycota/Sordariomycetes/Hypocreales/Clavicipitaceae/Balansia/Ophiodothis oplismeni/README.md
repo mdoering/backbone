@@ -1,5 +1,4 @@
-Ophiodothis oplismeni Henn. SPECIES
-=======
+# Ophiodothis oplismeni Henn. SPECIES
 
 #### Status
 ACCEPTED

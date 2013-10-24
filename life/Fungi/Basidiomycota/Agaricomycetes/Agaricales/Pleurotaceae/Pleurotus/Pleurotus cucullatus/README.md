@@ -1,5 +1,4 @@
-Pleurotus cucullatus Bres. SPECIES
-=======
+# Pleurotus cucullatus Bres. SPECIES
 
 #### Status
 ACCEPTED

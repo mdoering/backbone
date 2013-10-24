@@ -1,17 +1,16 @@
-Exobasidium camelliae var. nudo Shirai VARIETY
-=======
+# Exobasidium camelliae Shirai, 1896 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bot. Mag. , Tokyo 51 (1896)
 
 #### Original name
-Exobasidium camelliae var. nudo Shirai
+Exobasidium camelliae Shirai, 1896
 
 ### Remarks
 null

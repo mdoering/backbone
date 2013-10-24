@@ -1,5 +1,4 @@
-Phyllosticta milletiae Henn. SPECIES
-=======
+# Phyllosticta milletiae Henn. SPECIES
 
 #### Status
 ACCEPTED

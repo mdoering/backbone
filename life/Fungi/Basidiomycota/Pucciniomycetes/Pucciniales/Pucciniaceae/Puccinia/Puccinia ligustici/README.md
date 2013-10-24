@@ -1,14 +1,13 @@
-Dicaeoma ligustici (Ellis & Everh.) Kuntze, 1898 SPECIES
-=======
+# Puccinia ligustici Ellis & Everh., 1895 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 469 (1898)
+Bull. Torrey bot. Club 22: 363 (1895)
 
 #### Original name
 Puccinia ligustici Ellis & Everh., 1895

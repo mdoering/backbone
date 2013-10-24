@@ -1,5 +1,4 @@
-Hydnum melilotinum Quél. SPECIES
-=======
+# Hydnum melilotinum Quél. SPECIES
 
 #### Status
 ACCEPTED

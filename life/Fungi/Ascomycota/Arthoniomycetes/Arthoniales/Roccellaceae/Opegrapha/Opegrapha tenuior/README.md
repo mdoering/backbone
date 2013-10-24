@@ -1,5 +1,4 @@
-Opegrapha tenuior Stirt. SPECIES
-=======
+# Opegrapha tenuior Stirt. SPECIES
 
 #### Status
 ACCEPTED

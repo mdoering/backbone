@@ -1,5 +1,4 @@
-Hapalosiphon hibernicus W. West & G.S. West SPECIES
-=======
+# Hapalosiphon hibernicus W. West & G.S. West SPECIES
 
 #### Status
 ACCEPTED

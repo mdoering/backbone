@@ -1,5 +1,4 @@
-Attheya decora T. West SPECIES
-=======
+# Attheya decora T. West SPECIES
 
 #### Status
 ACCEPTED

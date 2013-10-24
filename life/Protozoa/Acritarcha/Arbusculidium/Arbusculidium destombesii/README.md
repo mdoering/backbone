@@ -1,5 +1,4 @@
-Arbusculidium destombesii Deunff, 1968 SPECIES
-=======
+# Arbusculidium destombesii Deunff, 1968 SPECIES
 
 #### Status
 ACCEPTED

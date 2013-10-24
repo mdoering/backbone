@@ -1,17 +1,16 @@
-Lecanactis corticola (Fr.) Lettau SPECIES
-=======
+# Bactrospora corticola (Fr.) Almq. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Feddes Repert. , Sp. Nov. , Beih. 69(3): 26 (1932)
+null
 
 #### Original name
-Lecanactis corticola (Fr.) Lettau
+Coniangium corticola Fr.
 
 ### Remarks
 null

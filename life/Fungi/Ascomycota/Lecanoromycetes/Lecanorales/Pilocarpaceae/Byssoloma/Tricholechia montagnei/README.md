@@ -1,5 +1,4 @@
-Tricholechia montagnei A. Massal. SPECIES
-=======
+# Tricholechia montagnei A. Massal. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia rugispora D.E. Gardner SPECIES
-=======
+# Puccinia rugispora D.E. Gardner SPECIES
 
 #### Status
 ACCEPTED

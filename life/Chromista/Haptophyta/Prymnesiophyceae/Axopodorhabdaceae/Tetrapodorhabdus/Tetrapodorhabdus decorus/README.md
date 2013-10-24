@@ -1,5 +1,4 @@
-Tetrapodorhabdus decorus (Deflandre & Fert) F.H. Wind & S.W. Wise SPECIES
-=======
+# Tetrapodorhabdus decorus (Deflandre & Fert) F.H. Wind & S.W. Wise SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Karschia occidentalis Tracy & Earle SPECIES
-=======
+# Karschia occidentalis Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

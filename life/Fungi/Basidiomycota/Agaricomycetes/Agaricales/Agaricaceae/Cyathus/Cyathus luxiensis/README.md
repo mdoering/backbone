@@ -1,5 +1,4 @@
-Cyathus luxiensis T.X. Zhou, J. Yu & Y.Hui Chen SPECIES
-=======
+# Cyathus luxiensis T.X. Zhou, J. Yu & Y.Hui Chen SPECIES
 
 #### Status
 ACCEPTED

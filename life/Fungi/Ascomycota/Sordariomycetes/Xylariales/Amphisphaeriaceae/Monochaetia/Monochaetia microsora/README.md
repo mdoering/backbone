@@ -1,5 +1,4 @@
-Monochaetia microsora (Sacc.) Sacc. & D. Sacc. SPECIES
-=======
+# Monochaetia microsora (Sacc.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

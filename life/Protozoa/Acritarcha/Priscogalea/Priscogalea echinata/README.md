@@ -1,5 +1,4 @@
-Priscogalea echinata Salujha, Rehman & Rawat, 1971 SPECIES
-=======
+# Priscogalea echinata Salujha, Rehman & Rawat, 1971 SPECIES
 
 #### Status
 ACCEPTED

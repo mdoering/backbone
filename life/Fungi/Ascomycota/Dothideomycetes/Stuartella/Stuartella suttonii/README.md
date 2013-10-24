@@ -1,5 +1,4 @@
-Stuartella suttonii A. Funk & Shoemaker SPECIES
-=======
+# Stuartella suttonii A. Funk & Shoemaker SPECIES
 
 #### Status
 ACCEPTED

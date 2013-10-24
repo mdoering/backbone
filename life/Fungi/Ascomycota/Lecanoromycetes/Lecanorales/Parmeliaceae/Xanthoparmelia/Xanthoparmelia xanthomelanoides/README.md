@@ -1,5 +1,4 @@
-Xanthoparmelia xanthomelanoides Elix & J. Johnst. SPECIES
-=======
+# Xanthoparmelia xanthomelanoides Elix & J. Johnst. SPECIES
 
 #### Status
 ACCEPTED

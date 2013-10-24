@@ -1,5 +1,4 @@
-Cyclotella elgeri Hustedt SPECIES
-=======
+# Cyclotella elgeri Hustedt SPECIES
 
 #### Status
 ACCEPTED

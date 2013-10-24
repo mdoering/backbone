@@ -1,5 +1,4 @@
-Polyporus inaequalis Lloyd SPECIES
-=======
+# Polyporus inaequalis Lloyd SPECIES
 
 #### Status
 ACCEPTED

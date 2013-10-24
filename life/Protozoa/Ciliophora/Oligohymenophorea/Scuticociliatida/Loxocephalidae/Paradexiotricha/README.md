@@ -1,5 +1,4 @@
-Paradexiotricha Grolière, 1975 GENUS
-=======
+# Paradexiotricha Grolière, 1975 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca aureofulva (Vain.) Zahlbr. SPECIES
-=======
+# Caloplaca aureofulva (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

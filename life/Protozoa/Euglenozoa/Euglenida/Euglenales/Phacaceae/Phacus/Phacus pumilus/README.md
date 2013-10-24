@@ -1,5 +1,4 @@
-Phacus pumilus Popowa SPECIES
-=======
+# Phacus pumilus Popowa SPECIES
 
 #### Status
 ACCEPTED

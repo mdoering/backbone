@@ -1,5 +1,4 @@
-Biscogniauxia atropunctata var. atropunctata VARIETY
-=======
+# Biscogniauxia atropunctata (Schwein.) Pouzar, 1979 SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ceská Mykol. 33: 216 (1979)
+null
 
 #### Original name
-Biscogniauxia atropunctata var. atropunctata
+null
 
 ### Remarks
 null

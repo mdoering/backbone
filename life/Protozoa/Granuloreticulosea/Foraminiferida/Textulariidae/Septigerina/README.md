@@ -1,5 +1,4 @@
-Septigerina Keijzer, 1941 GENUS
-=======
+# Septigerina Keijzer, 1941 GENUS
 
 #### Status
 ACCEPTED

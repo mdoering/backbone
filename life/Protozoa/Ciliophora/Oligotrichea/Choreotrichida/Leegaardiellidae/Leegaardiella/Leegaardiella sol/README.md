@@ -1,5 +1,4 @@
-Leegaardiella sol Lynn & Montagnes, 1988 SPECIES
-=======
+# Leegaardiella sol Lynn & Montagnes, 1988 SPECIES
 
 #### Status
 ACCEPTED

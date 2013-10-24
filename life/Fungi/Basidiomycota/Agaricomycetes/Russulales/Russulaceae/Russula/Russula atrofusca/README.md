@@ -1,5 +1,4 @@
-Russula atrofusca Reumaux, Moënne-Locc. & Bidaud SPECIES
-=======
+# Russula atrofusca Reumaux, Moënne-Locc. & Bidaud SPECIES
 
 #### Status
 ACCEPTED

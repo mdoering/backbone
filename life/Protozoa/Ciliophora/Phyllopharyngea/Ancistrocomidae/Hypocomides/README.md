@@ -1,5 +1,4 @@
-Hypocomides Chatton & Lwoff, 1922 GENUS
-=======
+# Hypocomides Chatton & Lwoff, 1922 GENUS
 
 #### Status
 ACCEPTED

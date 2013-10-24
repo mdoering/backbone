@@ -1,5 +1,4 @@
-Phylliscum indicum Upreti SPECIES
-=======
+# Phylliscum indicum Upreti SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cytophagaceae Stanier, 1940 FAMILY
-=======
+# Cytophagaceae Stanier, 1940 FAMILY
 
 #### Status
 ACCEPTED

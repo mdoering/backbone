@@ -1,5 +1,4 @@
-Leptostroma scirpi Rabenh. SPECIES
-=======
+# Leptostroma scirpi Rabenh. SPECIES
 
 #### Status
 ACCEPTED

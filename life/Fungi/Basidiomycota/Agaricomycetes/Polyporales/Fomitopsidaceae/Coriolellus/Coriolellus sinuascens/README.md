@@ -1,5 +1,4 @@
-Coriolellus sinuascens (Pilát) Domanski SPECIES
-=======
+# Coriolellus sinuascens (Pilát) Domanski SPECIES
 
 #### Status
 ACCEPTED

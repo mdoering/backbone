@@ -1,5 +1,4 @@
-Phyllosticta solidaginicola H.C. Greene SPECIES
-=======
+# Phyllosticta solidaginicola H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

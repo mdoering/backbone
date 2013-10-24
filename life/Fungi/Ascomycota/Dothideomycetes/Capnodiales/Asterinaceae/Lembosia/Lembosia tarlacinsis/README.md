@@ -1,5 +1,4 @@
-Lembosia tarlacinsis Petr. SPECIES
-=======
+# Lembosia tarlacinsis Petr. SPECIES
 
 #### Status
 ACCEPTED

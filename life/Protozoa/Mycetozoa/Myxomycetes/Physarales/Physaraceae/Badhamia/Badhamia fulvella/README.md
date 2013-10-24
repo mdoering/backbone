@@ -1,5 +1,4 @@
-Badhamia fulvella Berk. SPECIES
-=======
+# Badhamia fulvella Berk. SPECIES
 
 #### Status
 ACCEPTED

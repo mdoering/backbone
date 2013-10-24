@@ -1,5 +1,4 @@
-Parmelia attica (Leuckert, Poelt & B. Schwarz) Essl. SPECIES
-=======
+# Parmelia attica (Leuckert, Poelt & B. Schwarz) Essl. SPECIES
 
 #### Status
 ACCEPTED

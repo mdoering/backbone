@@ -1,8 +1,7 @@
-Microchaete spirulina Steinecke SPECIES
-=======
+# Leptobasis spirulina (Seinecke) Geitler SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

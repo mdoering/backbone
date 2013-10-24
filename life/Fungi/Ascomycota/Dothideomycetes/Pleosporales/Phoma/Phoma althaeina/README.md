@@ -1,5 +1,4 @@
-Phoma althaeina Brunaud SPECIES
-=======
+# Phoma althaeina Brunaud SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ciboria gordonii A. Funk SPECIES
-=======
+# Ciboria gordonii A. Funk SPECIES
 
 #### Status
 ACCEPTED

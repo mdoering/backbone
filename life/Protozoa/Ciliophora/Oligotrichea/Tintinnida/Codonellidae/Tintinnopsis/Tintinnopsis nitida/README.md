@@ -1,5 +1,4 @@
-Tintinnopsis nitida Brandt, 1896 SPECIES
-=======
+# Tintinnopsis nitida Brandt, 1896 SPECIES
 
 #### Status
 ACCEPTED

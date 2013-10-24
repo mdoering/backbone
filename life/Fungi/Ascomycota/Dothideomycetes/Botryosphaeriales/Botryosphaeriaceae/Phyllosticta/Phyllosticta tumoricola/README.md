@@ -1,5 +1,4 @@
-Phyllosticta tumoricola Peck SPECIES
-=======
+# Phyllosticta tumoricola Peck SPECIES
 
 #### Status
 ACCEPTED

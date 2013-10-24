@@ -1,5 +1,4 @@
-Armillaria calvescens Bérubé & Dessur., 1989 SPECIES
-=======
+# Armillaria calvescens Bérubé & Dessur., 1989 SPECIES
 
 #### Status
 ACCEPTED

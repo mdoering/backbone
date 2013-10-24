@@ -1,5 +1,4 @@
-Sphaerulina rhodeae Henn. & Shirai SPECIES
-=======
+# Sphaerulina rhodeae Henn. & Shirai SPECIES
 
 #### Status
 ACCEPTED

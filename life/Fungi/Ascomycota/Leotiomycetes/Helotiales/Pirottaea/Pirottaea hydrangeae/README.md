@@ -1,5 +1,4 @@
-Pirottaea hydrangeae (Schwein.) Sacc. SPECIES
-=======
+# Pirottaea hydrangeae (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

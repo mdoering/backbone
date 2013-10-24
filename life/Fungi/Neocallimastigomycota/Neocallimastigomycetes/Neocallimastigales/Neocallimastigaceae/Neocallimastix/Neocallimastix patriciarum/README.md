@@ -1,5 +1,4 @@
-Neocallimastix patriciarum Orpin & E.A. Munn, 1986 SPECIES
-=======
+# Neocallimastix patriciarum Orpin & E.A. Munn, 1986 SPECIES
 
 #### Status
 ACCEPTED

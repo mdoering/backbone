@@ -1,5 +1,4 @@
-Marssonina carnea (Vestergr.) Magnus SPECIES
-=======
+# Marssonina carnea (Vestergr.) Magnus SPECIES
 
 #### Status
 ACCEPTED

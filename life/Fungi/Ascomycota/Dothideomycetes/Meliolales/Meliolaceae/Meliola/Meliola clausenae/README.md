@@ -1,5 +1,4 @@
-Meliola clausenae Hosag. SPECIES
-=======
+# Meliola clausenae Hosag. SPECIES
 
 #### Status
 ACCEPTED

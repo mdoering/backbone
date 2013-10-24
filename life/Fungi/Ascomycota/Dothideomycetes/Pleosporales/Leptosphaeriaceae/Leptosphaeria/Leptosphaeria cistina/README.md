@@ -1,5 +1,4 @@
-Leptosphaeria cistina Urries SPECIES
-=======
+# Leptosphaeria cistina Urries SPECIES
 
 #### Status
 ACCEPTED

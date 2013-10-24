@@ -1,5 +1,4 @@
-Humaria rhodoleuca Bres. SPECIES
-=======
+# Humaria rhodoleuca Bres. SPECIES
 
 #### Status
 ACCEPTED

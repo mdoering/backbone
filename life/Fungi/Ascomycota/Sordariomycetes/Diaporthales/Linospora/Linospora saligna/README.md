@@ -1,17 +1,16 @@
-Hypospila saligna (Ehrh. ex Pers.) Cooke, 1885 SPECIES
-=======
+# Linospora saligna (Ehrh. ex Pers.) Traverso, 1906 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fl. ital. crypt. , Pars 1: Fungi. Pyrenomycetae. Xylariaceae, Valsaceae, Ceratostomataceae 350 (1906)
 
 #### Original name
-null
+Xyloma salignum Ehrh. ex Pers.
 
 ### Remarks
 null

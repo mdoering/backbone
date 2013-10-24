@@ -1,5 +1,4 @@
-Calopeltis acnisti Syd. SPECIES
-=======
+# Calopeltis acnisti Syd. SPECIES
 
 #### Status
 ACCEPTED

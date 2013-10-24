@@ -1,5 +1,4 @@
-Sphaeria albofarcta Schwein. SPECIES
-=======
+# Sphaeria albofarcta Schwein. SPECIES
 
 #### Status
 ACCEPTED

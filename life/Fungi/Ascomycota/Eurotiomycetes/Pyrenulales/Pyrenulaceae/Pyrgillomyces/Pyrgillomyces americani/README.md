@@ -1,5 +1,4 @@
-Pyrgillomyces americani Cif. & Tomas. SPECIES
-=======
+# Pyrgillomyces americani Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

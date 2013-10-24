@@ -1,5 +1,4 @@
-Lecidea tolstoii H. Magn. SPECIES
-=======
+# Lecidea tolstoii H. Magn. SPECIES
 
 #### Status
 ACCEPTED

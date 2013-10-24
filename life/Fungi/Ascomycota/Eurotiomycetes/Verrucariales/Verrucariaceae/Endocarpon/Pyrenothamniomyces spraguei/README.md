@@ -1,5 +1,4 @@
-Pyrenothamniomyces spraguei Cif. & Tomas. SPECIES
-=======
+# Pyrenothamniomyces spraguei Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

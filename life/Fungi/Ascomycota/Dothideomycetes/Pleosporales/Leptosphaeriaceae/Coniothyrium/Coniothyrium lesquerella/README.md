@@ -1,5 +1,4 @@
-Coniothyrium lesquerella J. Lindau SPECIES
-=======
+# Coniothyrium lesquerella J. Lindau SPECIES
 
 #### Status
 ACCEPTED

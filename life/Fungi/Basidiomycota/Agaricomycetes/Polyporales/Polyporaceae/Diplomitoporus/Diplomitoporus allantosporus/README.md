@@ -1,5 +1,4 @@
-Diplomitoporus allantosporus Ryvarden & Iturr., 2003 SPECIES
-=======
+# Diplomitoporus allantosporus Ryvarden & Iturr., 2003 SPECIES
 
 #### Status
 ACCEPTED

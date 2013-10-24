@@ -1,5 +1,4 @@
-Naeviopsis rhodiolae B. Hein, 1976 SPECIES
-=======
+# Naeviopsis rhodiolae B. Hein, 1976 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fragilaria californica Grunow SPECIES
-=======
+# Fragilaria californica Grunow SPECIES
 
 #### Status
 ACCEPTED

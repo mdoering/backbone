@@ -1,5 +1,4 @@
-Placodium flavovirescens (Wulfen) Vain. SPECIES
-=======
+# Placodium flavovirescens (Wulfen) Vain. SPECIES
 
 #### Status
 ACCEPTED

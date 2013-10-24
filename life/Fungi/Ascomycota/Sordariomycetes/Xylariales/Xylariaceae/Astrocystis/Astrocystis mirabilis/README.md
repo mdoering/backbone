@@ -1,17 +1,16 @@
-Anthostomella mirabilis var. schizostachyi Rehm VARIETY
-=======
+# Astrocystis mirabilis Berk. & Broome, 1875 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. Linn. Soc. , Bot. 14(2): 123 (1875)
 
 #### Original name
-Anthostomella mirabilis var. schizostachyi Rehm
+Astrocystis mirabilis Berk. & Broome, 1875
 
 ### Remarks
 null

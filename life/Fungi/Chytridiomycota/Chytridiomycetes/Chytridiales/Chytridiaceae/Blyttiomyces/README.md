@@ -1,5 +1,4 @@
-Blyttiomyces A.F. Bartsch GENUS
-=======
+# Blyttiomyces A.F. Bartsch GENUS
 
 #### Status
 ACCEPTED

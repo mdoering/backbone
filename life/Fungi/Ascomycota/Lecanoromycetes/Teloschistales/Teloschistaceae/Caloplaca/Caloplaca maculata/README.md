@@ -1,5 +1,4 @@
-Caloplaca maculata D. J. Galloway SPECIES
-=======
+# Caloplaca maculata D. J. Galloway SPECIES
 
 #### Status
 ACCEPTED

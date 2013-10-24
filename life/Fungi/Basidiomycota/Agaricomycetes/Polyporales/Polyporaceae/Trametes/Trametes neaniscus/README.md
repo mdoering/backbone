@@ -1,5 +1,4 @@
-Trametes neaniscus Berk. SPECIES
-=======
+# Trametes neaniscus Berk. SPECIES
 
 #### Status
 ACCEPTED

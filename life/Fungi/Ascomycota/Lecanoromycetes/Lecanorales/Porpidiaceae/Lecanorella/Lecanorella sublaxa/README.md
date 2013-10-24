@@ -1,5 +1,4 @@
-Lecanorella sublaxa Motyka SPECIES
-=======
+# Lecanorella sublaxa Motyka SPECIES
 
 #### Status
 ACCEPTED

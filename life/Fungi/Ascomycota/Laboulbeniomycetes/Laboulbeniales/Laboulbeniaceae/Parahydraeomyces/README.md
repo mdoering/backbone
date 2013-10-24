@@ -1,5 +1,4 @@
-Parahydraeomyces GENUS
-=======
+# Parahydraeomyces GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Byssocorticium pulchrum (S. Lundell) M.P. Christ., 1960 SPECIES
-=======
+# Byssocorticium pulchrum (S. Lundell) M.P. Christ., 1960 SPECIES
 
 #### Status
 ACCEPTED

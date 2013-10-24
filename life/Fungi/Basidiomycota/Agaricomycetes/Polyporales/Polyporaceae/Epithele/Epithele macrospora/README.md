@@ -1,5 +1,4 @@
-Epithele macrospora (Liberta) Boquiren SPECIES
-=======
+# Epithele macrospora (Liberta) Boquiren SPECIES
 
 #### Status
 ACCEPTED

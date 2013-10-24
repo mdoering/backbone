@@ -1,5 +1,4 @@
-Spongoxiphus Haeckel, 1887 GENUS
-=======
+# Spongoxiphus Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

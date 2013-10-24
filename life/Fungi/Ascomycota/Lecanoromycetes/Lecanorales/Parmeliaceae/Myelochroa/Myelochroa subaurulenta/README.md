@@ -1,17 +1,16 @@
-Parmelia subaurulenta var. subaurulenta VARIETY
-=======
+# Myelochroa subaurulenta (Nyl.) Elix & Hale SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 29: 241 (1987)
 
 #### Original name
-Parmelia subaurulenta var. subaurulenta
+Parmelia subaurulenta Nyl.
 
 ### Remarks
 null

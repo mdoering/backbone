@@ -1,5 +1,4 @@
-Callopisma disjunctum (Fée) A. Massal. SPECIES
-=======
+# Callopisma disjunctum (Fée) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

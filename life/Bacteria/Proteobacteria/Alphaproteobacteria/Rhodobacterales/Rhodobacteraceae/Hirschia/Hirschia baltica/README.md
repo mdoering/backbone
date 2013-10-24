@@ -1,5 +1,4 @@
-Hirschia baltica Schlesner et al., 1990 SPECIES
-=======
+# Hirschia baltica Schlesner et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

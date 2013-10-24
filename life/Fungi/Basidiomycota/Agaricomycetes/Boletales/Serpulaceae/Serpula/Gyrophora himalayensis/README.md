@@ -1,5 +1,4 @@
-Gyrophora himalayensis Räsänen SPECIES
-=======
+# Gyrophora himalayensis Räsänen SPECIES
 
 #### Status
 ACCEPTED

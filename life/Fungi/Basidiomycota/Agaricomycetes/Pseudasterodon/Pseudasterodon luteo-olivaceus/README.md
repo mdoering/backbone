@@ -1,5 +1,4 @@
-Pseudasterodon luteo-olivaceus Rick SPECIES
-=======
+# Pseudasterodon luteo-olivaceus Rick SPECIES
 
 #### Status
 ACCEPTED

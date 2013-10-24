@@ -1,5 +1,4 @@
-Semilecanora heteroma (Nyl.) Motyka SPECIES
-=======
+# Semilecanora heteroma (Nyl.) Motyka SPECIES
 
 #### Status
 ACCEPTED

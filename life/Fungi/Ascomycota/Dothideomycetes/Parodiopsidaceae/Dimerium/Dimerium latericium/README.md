@@ -1,5 +1,4 @@
-Dimerium latericium (Speg.) Sacc. & P. Syd. SPECIES
-=======
+# Dimerium latericium (Speg.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tuckermanopsis Gyeln. GENUS
-=======
+# Tuckermanopsis Gyeln. GENUS
 
 #### Status
 ACCEPTED

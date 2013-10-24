@@ -1,5 +1,4 @@
-Reticularia maxima Corda SPECIES
-=======
+# Reticularia maxima Corda SPECIES
 
 #### Status
 ACCEPTED

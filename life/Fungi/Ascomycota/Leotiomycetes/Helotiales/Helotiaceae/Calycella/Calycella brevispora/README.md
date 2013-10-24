@@ -1,14 +1,13 @@
-Calycina brevisporia (Cooke & W. Phillips) Kuntze, 1898 SPECIES
-=======
+# Calycella brevispora (Cooke & W. Phillips) Dennis, 1961 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 448 (1898)
+Kew Bull. 15(2): 310 (1961)
 
 #### Original name
 Helotium brevisporum Cooke & W. Phillips, 1879

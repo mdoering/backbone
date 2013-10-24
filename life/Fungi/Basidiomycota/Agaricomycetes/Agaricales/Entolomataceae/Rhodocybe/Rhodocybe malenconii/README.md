@@ -1,5 +1,4 @@
-Rhodocybe malenconii f. malenconii FORM
-=======
+# Rhodocybe malenconii Pacioni & Lalli SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Docums Mycol. 14(no. 56): 56 (1985)
 
 #### Original name
-Rhodocybe malenconii f. malenconii
+Clitopilus ammophilus Malençon
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Crateromyces Corda GENUS
-=======
+# Crateromyces Corda GENUS
 
 #### Status
 ACCEPTED

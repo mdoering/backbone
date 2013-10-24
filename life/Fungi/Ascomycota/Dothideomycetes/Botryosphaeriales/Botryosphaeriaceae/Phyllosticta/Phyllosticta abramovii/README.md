@@ -1,5 +1,4 @@
-Phyllosticta abramovii Lavrov SPECIES
-=======
+# Phyllosticta abramovii Lavrov SPECIES
 
 #### Status
 ACCEPTED

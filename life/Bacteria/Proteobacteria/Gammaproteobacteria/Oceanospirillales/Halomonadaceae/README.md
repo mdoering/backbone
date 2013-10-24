@@ -1,5 +1,4 @@
-Halomonadaceae FAMILY
-=======
+# Halomonadaceae FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anthostomella bonanseana Sacc. SPECIES
-=======
+# Anthostomella bonanseana Sacc. SPECIES
 
 #### Status
 ACCEPTED

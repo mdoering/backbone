@@ -1,14 +1,13 @@
-Haemotrichomonas Martoglio, 1917 GENUS
-=======
+# Tetratrichomonas Parisi, 1910 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Ann. Ig. (Rome), 27 (9), -. [561-563]
+Arch. Protistenk. , 19, 232, 234.
 
 #### Original name
 null

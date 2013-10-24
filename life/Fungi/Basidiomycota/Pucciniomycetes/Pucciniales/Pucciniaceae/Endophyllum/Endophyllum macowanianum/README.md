@@ -1,5 +1,4 @@
-Endophyllum macowanianum (Thüm.) A.R. Wood, 2004 SPECIES
-=======
+# Endophyllum macowanianum (Thüm.) A.R. Wood, 2004 SPECIES
 
 #### Status
 ACCEPTED

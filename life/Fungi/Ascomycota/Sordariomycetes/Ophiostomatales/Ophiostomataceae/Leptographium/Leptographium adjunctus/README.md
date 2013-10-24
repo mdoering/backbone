@@ -1,5 +1,4 @@
-Leptographium adjunctus SPECIES
-=======
+# Leptographium adjunctus SPECIES
 
 #### Status
 ACCEPTED

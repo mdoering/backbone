@@ -1,5 +1,4 @@
-Microvirgula aerodenitrificans Patureau et al., 1998 SPECIES
-=======
+# Microvirgula aerodenitrificans Patureau et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

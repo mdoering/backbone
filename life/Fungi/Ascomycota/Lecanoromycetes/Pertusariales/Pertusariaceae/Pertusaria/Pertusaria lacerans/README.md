@@ -1,5 +1,4 @@
-Pertusaria lacerans Müll. Arg. SPECIES
-=======
+# Pertusaria lacerans Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

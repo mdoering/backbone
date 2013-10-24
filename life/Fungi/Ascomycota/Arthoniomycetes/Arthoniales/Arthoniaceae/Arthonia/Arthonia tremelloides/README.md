@@ -1,5 +1,4 @@
-Arthonia tremelloides Etayo SPECIES
-=======
+# Arthonia tremelloides Etayo SPECIES
 
 #### Status
 ACCEPTED

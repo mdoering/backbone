@@ -1,5 +1,4 @@
-Vermicularia podaphylli Ellis & Dearn. SPECIES
-=======
+# Vermicularia podaphylli Ellis & Dearn. SPECIES
 
 #### Status
 ACCEPTED

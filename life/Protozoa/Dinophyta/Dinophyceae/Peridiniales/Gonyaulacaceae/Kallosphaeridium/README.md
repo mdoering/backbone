@@ -1,5 +1,4 @@
-Kallosphaeridium J.De Coninck, 1969 GENUS
-=======
+# Kallosphaeridium J.De Coninck, 1969 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alternaria atrocariis E.G. Simmons, 1995 SPECIES
-=======
+# Alternaria atrocariis E.G. Simmons, 1995 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Starmera dryadoides (D.B. Scott & Van der Walt) Kurtzman, Robnett & Basehoar-Powers, 2008 SPECIES
-=======
+# Starmera dryadoides (D.B. Scott & Van der Walt) Kurtzman, Robnett & Basehoar-Powers, 2008 SPECIES
 
 #### Status
 ACCEPTED

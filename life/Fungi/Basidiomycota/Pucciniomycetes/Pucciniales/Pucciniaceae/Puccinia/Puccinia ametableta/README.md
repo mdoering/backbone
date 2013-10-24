@@ -1,5 +1,4 @@
-Puccinia ametableta Syd. SPECIES
-=======
+# Puccinia ametableta Syd. SPECIES
 
 #### Status
 ACCEPTED

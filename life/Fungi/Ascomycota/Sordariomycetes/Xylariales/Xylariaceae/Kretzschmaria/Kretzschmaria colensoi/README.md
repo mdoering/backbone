@@ -1,14 +1,13 @@
-Hypoxylon colensoi Berk., 1867 SPECIES
-=======
+# Kretzschmaria colensoi (Berk.) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Hooker, Handb. N. Z. Fl. 756 (1867)
+Syll. fung. (Abellini) 2: XXIX (1883)
 
 #### Original name
 Hypoxylon colensoi Berk., 1867

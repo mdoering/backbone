@@ -1,5 +1,4 @@
-Graphis flavoaltamirensis Sipman & Lücking SPECIES
-=======
+# Graphis flavoaltamirensis Sipman & Lücking SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Platystomum adeanum Rehm SPECIES
-=======
+# Platystomum adeanum Rehm SPECIES
 
 #### Status
 ACCEPTED

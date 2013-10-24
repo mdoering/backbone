@@ -1,5 +1,4 @@
-Menegazzia pulchra P. James & D.J. Galloway SPECIES
-=======
+# Menegazzia pulchra P. James & D.J. Galloway SPECIES
 
 #### Status
 ACCEPTED

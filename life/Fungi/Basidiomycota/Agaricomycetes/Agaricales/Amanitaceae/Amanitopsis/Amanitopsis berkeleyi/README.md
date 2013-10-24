@@ -1,5 +1,4 @@
-Amanitopsis berkeleyi (Hook. f.) Sacc. SPECIES
-=======
+# Amanitopsis berkeleyi (Hook. f.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

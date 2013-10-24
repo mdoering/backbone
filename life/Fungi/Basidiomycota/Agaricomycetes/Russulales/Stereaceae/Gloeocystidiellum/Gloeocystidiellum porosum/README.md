@@ -1,17 +1,16 @@
-Xerocarpus letendri P. Karst. SPECIES
-=======
+# Gloeocystidiellum porosum (Berk. & M.A. Curtis) Donk, 1931 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Medded. Nedl. Mycol. Ver. 18-20: 156 (1931)
 
 #### Original name
-Xerocarpus letendri P. Karst.
+null
 
 ### Remarks
 null

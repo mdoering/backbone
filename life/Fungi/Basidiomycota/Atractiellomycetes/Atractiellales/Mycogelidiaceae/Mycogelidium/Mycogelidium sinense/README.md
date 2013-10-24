@@ -1,5 +1,4 @@
-Mycogelidium sinense W.Y. Zhuang & X.S. He, 2007 SPECIES
-=======
+# Mycogelidium sinense W.Y. Zhuang & X.S. He, 2007 SPECIES
 
 #### Status
 ACCEPTED

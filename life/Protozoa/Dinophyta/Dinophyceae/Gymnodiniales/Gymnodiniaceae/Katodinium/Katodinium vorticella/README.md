@@ -1,5 +1,4 @@
-Katodinium vorticella (F. Stein) A.R. Loeblich Iii SPECIES
-=======
+# Katodinium vorticella (F. Stein) A.R. Loeblich Iii SPECIES
 
 #### Status
 ACCEPTED

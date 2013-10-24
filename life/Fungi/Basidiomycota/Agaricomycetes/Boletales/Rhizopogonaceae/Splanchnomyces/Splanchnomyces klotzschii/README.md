@@ -1,5 +1,4 @@
-Splanchnomyces klotzschii Corda SPECIES
-=======
+# Splanchnomyces klotzschii Corda SPECIES
 
 #### Status
 ACCEPTED

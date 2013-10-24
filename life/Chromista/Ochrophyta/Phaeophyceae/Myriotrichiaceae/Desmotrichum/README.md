@@ -1,5 +1,4 @@
-Desmotrichum Kützing, 1845 GENUS
-=======
+# Desmotrichum Kützing, 1845 GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Sphaeria fusca var. fusca VARIETY
-=======
+# Hypoxylon fuscum (Pers.) Fr., 1849 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Summa veg. Scand. (Stockholm), Section Post. 384 (1849)
 
 #### Original name
-null
+Sphaeria fusca Schumach., 1803
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Octospora hygrohypnophila Dissing & Sivertsen SPECIES
-=======
+# Octospora hygrohypnophila Dissing & Sivertsen SPECIES
 
 #### Status
 ACCEPTED

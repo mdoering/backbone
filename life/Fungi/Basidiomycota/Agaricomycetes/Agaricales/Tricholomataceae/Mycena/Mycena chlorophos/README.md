@@ -1,5 +1,4 @@
-Mycena chlorophos (Berk. & Curt.) Sacc. SPECIES
-=======
+# Mycena chlorophos (Berk. & Curt.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

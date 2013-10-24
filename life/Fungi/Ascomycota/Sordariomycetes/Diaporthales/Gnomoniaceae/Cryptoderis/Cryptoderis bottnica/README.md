@@ -1,5 +1,4 @@
-Cryptoderis bottnica Lind & Vleugel SPECIES
-=======
+# Cryptoderis bottnica Lind & Vleugel SPECIES
 
 #### Status
 ACCEPTED

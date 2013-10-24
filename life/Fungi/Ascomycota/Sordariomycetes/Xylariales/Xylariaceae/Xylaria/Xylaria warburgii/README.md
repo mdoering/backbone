@@ -1,5 +1,4 @@
-Xylaria warburgii Henn. SPECIES
-=======
+# Xylaria warburgii Henn. SPECIES
 
 #### Status
 ACCEPTED

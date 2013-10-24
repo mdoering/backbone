@@ -1,5 +1,4 @@
-Protoperidinium ventrale (Abé, 1936) Balech, 1974 SPECIES
-=======
+# Protoperidinium ventrale (Abé, 1936) Balech, 1974 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tubercularia pulverulenta Speg., 1881 SPECIES
-=======
+# Tubercularia pulverulenta Speg., 1881 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dothidella glaziovii Allesch. & Henn. SPECIES
-=======
+# Dothidella glaziovii Allesch. & Henn. SPECIES
 
 #### Status
 ACCEPTED

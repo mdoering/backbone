@@ -1,17 +1,16 @@
-Lagarobasidium pumilium (Gresl. & Rajchenb.) Hjortstam & Ryvarden, 2009 SPECIES
-=======
+# Hyphodontia pumilia Gresl. & Rajchenb., 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 92(6): 1162 (2000)
 
 #### Original name
-null
+Hyphodontia pumilia Gresl. & Rajchenb., 2000
 
 ### Remarks
 null

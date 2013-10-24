@@ -1,5 +1,4 @@
-Schizothyrium eucalyptorum Cooke & Massee SPECIES
-=======
+# Schizothyrium eucalyptorum Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Loxocephalus centralis Stokes SPECIES
-=======
+# Loxocephalus centralis Stokes SPECIES
 
 #### Status
 ACCEPTED

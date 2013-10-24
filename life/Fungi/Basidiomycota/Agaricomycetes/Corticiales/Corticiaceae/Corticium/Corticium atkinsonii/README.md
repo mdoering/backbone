@@ -1,5 +1,4 @@
-Corticium atkinsonii Burt SPECIES
-=======
+# Corticium atkinsonii Burt SPECIES
 
 #### Status
 ACCEPTED

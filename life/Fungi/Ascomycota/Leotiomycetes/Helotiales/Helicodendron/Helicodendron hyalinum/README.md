@@ -1,5 +1,4 @@
-Helicodendron hyalinum Linder, 1929 SPECIES
-=======
+# Helicodendron hyalinum Linder, 1929 SPECIES
 
 #### Status
 ACCEPTED

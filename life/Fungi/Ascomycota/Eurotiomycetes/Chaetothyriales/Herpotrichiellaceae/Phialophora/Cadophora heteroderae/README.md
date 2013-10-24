@@ -1,14 +1,13 @@
-Torula heteroderae Jacz., 1934 SPECIES
-=======
+# Cadophora heteroderae J.F.H. Beyma, 1937 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Czech. -Slowak. Acad. Agric. 10(6/7): 413-422 (1934)
+Zentbl. Bakt. ParasitKde, Abt. II 96(20-23): 427 (1937)
 
 #### Original name
 Torula heteroderae Jacz., 1934

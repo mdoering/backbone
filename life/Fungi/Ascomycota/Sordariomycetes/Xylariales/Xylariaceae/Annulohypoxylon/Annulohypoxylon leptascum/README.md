@@ -1,5 +1,4 @@
-Annulohypoxylon leptascum var. leptascum VARIETY
-=======
+# Annulohypoxylon leptascum SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 97(4): 859 (2005)
+null
 
 #### Original name
-Hypoxylon leptascum var. leptascum Speg., 1889
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Microbacterium thalassium Takeuchi & Hatano, 1998 SPECIES
-=======
+# Microbacterium thalassium Takeuchi & Hatano, 1998 SPECIES
 
 #### Status
 ACCEPTED

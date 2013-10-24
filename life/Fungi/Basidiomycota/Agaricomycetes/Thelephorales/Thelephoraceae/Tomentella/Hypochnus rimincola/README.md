@@ -1,5 +1,4 @@
-Hypochnus rimincola Speg. SPECIES
-=======
+# Hypochnus rimincola Speg. SPECIES
 
 #### Status
 ACCEPTED

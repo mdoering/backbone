@@ -1,5 +1,4 @@
-Marasmius rubricosus Mont. SPECIES
-=======
+# Marasmius rubricosus Mont. SPECIES
 
 #### Status
 ACCEPTED

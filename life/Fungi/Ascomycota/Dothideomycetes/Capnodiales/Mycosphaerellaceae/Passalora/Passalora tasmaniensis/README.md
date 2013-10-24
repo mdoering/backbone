@@ -1,5 +1,4 @@
-Passalora tasmaniensis (Crous & M.J. Wingf.) Crous & U. Braun SPECIES
-=======
+# Passalora tasmaniensis (Crous & M.J. Wingf.) Crous & U. Braun SPECIES
 
 #### Status
 ACCEPTED

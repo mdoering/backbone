@@ -1,5 +1,4 @@
-Calyptella aripoensis W.B. Cooke SPECIES
-=======
+# Calyptella aripoensis W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

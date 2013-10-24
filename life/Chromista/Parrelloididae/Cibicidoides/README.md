@@ -1,5 +1,4 @@
-Cibicidoides Thalmann, 1939 GENUS
-=======
+# Cibicidoides Thalmann, 1939 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Massarina leucadendri Marinc., M.J. Wingf. & Crous, 2008 SPECIES
-=======
+# Massarina leucadendri Marinc., M.J. Wingf. & Crous, 2008 SPECIES
 
 #### Status
 ACCEPTED

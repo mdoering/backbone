@@ -1,5 +1,4 @@
-Acarospora charidema (Colmeiro) Llimona SPECIES
-=======
+# Acarospora charidema (Colmeiro) Llimona SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tubaria strigipes (Cooke & Massee) McAlpine SPECIES
-=======
+# Tubaria strigipes (Cooke & Massee) McAlpine SPECIES
 
 #### Status
 ACCEPTED

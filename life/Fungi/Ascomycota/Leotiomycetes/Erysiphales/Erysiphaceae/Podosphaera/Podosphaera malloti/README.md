@@ -1,5 +1,4 @@
-Podosphaera malloti (Z.Y. Zhao) U. Braun & S. Takam. SPECIES
-=======
+# Podosphaera malloti (Z.Y. Zhao) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

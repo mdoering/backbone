@@ -1,5 +1,4 @@
-Discophrya scyphostyla Penard, 1920 SPECIES
-=======
+# Discophrya scyphostyla Penard, 1920 SPECIES
 
 #### Status
 ACCEPTED

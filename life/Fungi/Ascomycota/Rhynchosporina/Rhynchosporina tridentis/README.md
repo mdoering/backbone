@@ -1,5 +1,4 @@
-Rhynchosporina tridentis R. Sprague & Rogerson SPECIES
-=======
+# Rhynchosporina tridentis R. Sprague & Rogerson SPECIES
 
 #### Status
 ACCEPTED

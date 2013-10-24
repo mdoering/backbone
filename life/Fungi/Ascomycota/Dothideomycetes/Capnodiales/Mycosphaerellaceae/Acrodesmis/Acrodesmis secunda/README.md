@@ -1,17 +1,16 @@
-Acrodesmis secundum Bat. & A.F. Vital SPECIES
-=======
+# Acrodesmis secunda Bat. & A.F. Vital SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Anais Soc. Biol. Pernambuco 15(2): 374 (1957)
 
 #### Original name
-Acrodesmis secundum Bat. & A.F. Vital
+Acrodesmis secunda Bat. & A.F. Vital
 
 ### Remarks
 null

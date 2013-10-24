@@ -1,5 +1,4 @@
-Phoma clavuligera (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Phoma clavuligera (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

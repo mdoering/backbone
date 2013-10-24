@@ -1,5 +1,4 @@
-Lagenosolenia sanpedroensis (McCulloch, 1977) SPECIES
-=======
+# Lagenosolenia sanpedroensis (McCulloch, 1977) SPECIES
 
 #### Status
 ACCEPTED

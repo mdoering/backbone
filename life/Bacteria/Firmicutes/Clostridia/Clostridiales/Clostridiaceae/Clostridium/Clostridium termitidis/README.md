@@ -1,5 +1,4 @@
-Clostridium termitidis Hethener et al., 1992 SPECIES
-=======
+# Clostridium termitidis Hethener et al., 1992 SPECIES
 
 #### Status
 ACCEPTED

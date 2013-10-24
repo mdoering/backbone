@@ -1,5 +1,4 @@
-Hyalotia celastri (Tassi) Guba SPECIES
-=======
+# Hyalotia celastri (Tassi) Guba SPECIES
 
 #### Status
 ACCEPTED

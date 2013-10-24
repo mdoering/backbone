@@ -1,5 +1,4 @@
-Sphaerella tsugae House SPECIES
-=======
+# Sphaerella tsugae House SPECIES
 
 #### Status
 ACCEPTED

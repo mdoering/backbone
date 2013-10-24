@@ -1,5 +1,4 @@
-Beloniella herbarum Velen. SPECIES
-=======
+# Beloniella herbarum Velen. SPECIES
 
 #### Status
 ACCEPTED

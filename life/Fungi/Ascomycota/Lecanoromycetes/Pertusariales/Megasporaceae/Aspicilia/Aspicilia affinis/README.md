@@ -1,5 +1,4 @@
-Aspicilia affinis f. affinis FORM
-=======
+# Aspicilia affinis Anzi SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Aspicilia affinis f. affinis
+Aspicilia affinis Anzi
 
 ### Remarks
 null

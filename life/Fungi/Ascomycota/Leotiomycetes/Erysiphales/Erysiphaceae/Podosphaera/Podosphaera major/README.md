@@ -1,5 +1,4 @@
-Podosphaera major (Juel) S. Blumer SPECIES
-=======
+# Podosphaera major (Juel) S. Blumer SPECIES
 
 #### Status
 ACCEPTED

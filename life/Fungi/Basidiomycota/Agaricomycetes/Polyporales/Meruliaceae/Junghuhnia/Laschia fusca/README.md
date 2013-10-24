@@ -1,5 +1,4 @@
-Laschia fusca Cleland SPECIES
-=======
+# Laschia fusca Cleland SPECIES
 
 #### Status
 ACCEPTED

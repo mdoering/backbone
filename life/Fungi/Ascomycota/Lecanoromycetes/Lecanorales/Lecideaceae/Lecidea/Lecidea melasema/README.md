@@ -1,5 +1,4 @@
-Lecidea melasema (C. Knight) Nyl. SPECIES
-=======
+# Lecidea melasema (C. Knight) Nyl. SPECIES
 
 #### Status
 ACCEPTED

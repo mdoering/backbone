@@ -1,5 +1,4 @@
-Penicillium ovoideum Preuss SPECIES
-=======
+# Penicillium ovoideum Preuss SPECIES
 
 #### Status
 ACCEPTED

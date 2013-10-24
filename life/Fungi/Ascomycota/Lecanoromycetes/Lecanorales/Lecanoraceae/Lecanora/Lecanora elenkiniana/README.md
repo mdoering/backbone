@@ -1,5 +1,4 @@
-Lecanora elenkiniana Zahlbr. SPECIES
-=======
+# Lecanora elenkiniana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

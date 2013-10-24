@@ -1,5 +1,4 @@
-Geosmithia Pitt, 1979 GENUS
-=======
+# Geosmithia Pitt, 1979 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aplosporella aurangabadensis R. Rao SPECIES
-=======
+# Aplosporella aurangabadensis R. Rao SPECIES
 
 #### Status
 ACCEPTED

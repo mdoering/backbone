@@ -1,5 +1,4 @@
-Lecanora pyropoecila Nyl. SPECIES
-=======
+# Lecanora pyropoecila Nyl. SPECIES
 
 #### Status
 ACCEPTED

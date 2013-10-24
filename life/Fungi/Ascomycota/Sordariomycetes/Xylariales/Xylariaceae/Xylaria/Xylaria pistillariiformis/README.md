@@ -1,8 +1,7 @@
-Xylaria pistillariaeformis Bacc. SPECIES
-=======
+# Xylaria pistillariiformis Bacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Xylaria pistillariaeformis Bacc.
+Xylaria pistillariiformis Bacc.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Usnea subscabrata (Vain.) Motyka SPECIES
-=======
+# Usnea subscabrata (Vain.) Motyka SPECIES
 
 #### Status
 ACCEPTED

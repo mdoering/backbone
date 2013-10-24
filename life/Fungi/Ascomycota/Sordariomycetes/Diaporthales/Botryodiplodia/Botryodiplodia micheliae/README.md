@@ -1,5 +1,4 @@
-Botryodiplodia micheliae (Henn.) Petr. & Syd. SPECIES
-=======
+# Botryodiplodia micheliae (Henn.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

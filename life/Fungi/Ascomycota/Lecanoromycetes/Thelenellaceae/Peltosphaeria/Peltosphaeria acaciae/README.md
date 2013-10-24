@@ -1,5 +1,4 @@
-Peltosphaeria acaciae E. Müll. & S. Ahmad SPECIES
-=======
+# Peltosphaeria acaciae E. Müll. & S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

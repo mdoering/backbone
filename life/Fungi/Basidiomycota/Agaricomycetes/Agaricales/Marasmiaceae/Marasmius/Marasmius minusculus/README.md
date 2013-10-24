@@ -1,5 +1,4 @@
-Marasmius minusculus Singer SPECIES
-=======
+# Marasmius minusculus Singer SPECIES
 
 #### Status
 ACCEPTED

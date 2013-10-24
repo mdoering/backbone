@@ -1,5 +1,4 @@
-Caliciopsis brevipes Butin SPECIES
-=======
+# Caliciopsis brevipes Butin SPECIES
 
 #### Status
 ACCEPTED

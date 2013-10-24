@@ -1,5 +1,4 @@
-Glypholecia grumulosa (Schaer.) Zahlbr. SPECIES
-=======
+# Glypholecia grumulosa (Schaer.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

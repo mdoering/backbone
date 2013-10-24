@@ -1,5 +1,4 @@
-Pseudocyphellaria hillii (C.W. Dodge) D.J. Galloway SPECIES
-=======
+# Pseudocyphellaria hillii (C.W. Dodge) D.J. Galloway SPECIES
 
 #### Status
 ACCEPTED

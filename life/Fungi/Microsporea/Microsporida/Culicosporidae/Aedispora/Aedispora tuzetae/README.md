@@ -1,5 +1,4 @@
-Aedispora tuzetae (S. Tour, J.A. Rioux & H. Croset) P.J. Kilochitskii SPECIES
-=======
+# Aedispora tuzetae (S. Tour, J.A. Rioux & H. Croset) P.J. Kilochitskii SPECIES
 
 #### Status
 ACCEPTED

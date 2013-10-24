@@ -1,5 +1,4 @@
-Naevia vitellina Kirschst. SPECIES
-=======
+# Naevia vitellina Kirschst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Euryancale Drechsler GENUS
-=======
+# Euryancale Drechsler GENUS
 
 #### Status
 ACCEPTED

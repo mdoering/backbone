@@ -1,17 +1,16 @@
-Parmeliella pycnophora var. pycnophora VARIETY
-=======
+# Leioderma pycnophorum Nyl. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ark. Bot. 31A(7): 15 (1944)
+Lich. Nov. Zeland. 47 (1888)
 
 #### Original name
-Parmeliella pycnophora var. pycnophora
+Leioderma pycnophorum Nyl.
 
 ### Remarks
 null

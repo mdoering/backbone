@@ -1,5 +1,4 @@
-Heterothecium cinnabarinum F. Wilson SPECIES
-=======
+# Heterothecium cinnabarinum F. Wilson SPECIES
 
 #### Status
 ACCEPTED

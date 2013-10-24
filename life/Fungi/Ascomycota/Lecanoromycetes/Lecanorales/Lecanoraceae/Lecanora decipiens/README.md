@@ -1,5 +1,4 @@
-Lecanora decipiens (Arnold) Nyl. SPECIES
-=======
+# Lecanora decipiens (Arnold) Nyl. SPECIES
 
 #### Status
 ACCEPTED

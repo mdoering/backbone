@@ -1,5 +1,4 @@
-Rhodococcus obuensis Tsukamura, 1983 SPECIES
-=======
+# Rhodococcus obuensis Tsukamura, 1983 SPECIES
 
 #### Status
 ACCEPTED

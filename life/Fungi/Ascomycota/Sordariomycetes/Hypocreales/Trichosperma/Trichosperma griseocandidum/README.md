@@ -1,5 +1,4 @@
-Trichosperma griseocandidum Penz. & Sacc. SPECIES
-=======
+# Trichosperma griseocandidum Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

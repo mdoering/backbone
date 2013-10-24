@@ -1,5 +1,4 @@
-Torula arta F.C. Harrison SPECIES
-=======
+# Torula arta F.C. Harrison SPECIES
 
 #### Status
 ACCEPTED

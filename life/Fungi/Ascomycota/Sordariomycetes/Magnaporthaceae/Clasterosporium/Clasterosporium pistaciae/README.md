@@ -1,5 +1,4 @@
-Clasterosporium pistaciae M.B. Ellis SPECIES
-=======
+# Clasterosporium pistaciae M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

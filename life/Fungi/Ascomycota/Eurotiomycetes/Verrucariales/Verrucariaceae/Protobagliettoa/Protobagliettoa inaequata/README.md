@@ -1,5 +1,4 @@
-Protobagliettoa inaequata (Servít) J. Nowak & Tobol. SPECIES
-=======
+# Protobagliettoa inaequata (Servít) J. Nowak & Tobol. SPECIES
 
 #### Status
 ACCEPTED

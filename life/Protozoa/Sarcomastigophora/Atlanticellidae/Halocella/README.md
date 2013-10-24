@@ -1,5 +1,4 @@
-Halocella Borgert, 1907 GENUS
-=======
+# Halocella Borgert, 1907 GENUS
 
 #### Status
 ACCEPTED

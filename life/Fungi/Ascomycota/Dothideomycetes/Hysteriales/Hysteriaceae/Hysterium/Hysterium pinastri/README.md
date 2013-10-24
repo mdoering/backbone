@@ -1,5 +1,4 @@
-Hysterium pinastri var. pinastri VARIETY
-=======
+# Hysterium pinastri SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 J. Bot. (Schrader) 2(1): 69 (1799)
 
 #### Original name
-Hysterium pinastri var. pinastri
+Hysterium pinastri
 
 ### Remarks
 null

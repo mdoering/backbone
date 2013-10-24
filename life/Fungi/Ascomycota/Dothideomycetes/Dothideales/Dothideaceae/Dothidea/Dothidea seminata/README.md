@@ -1,5 +1,4 @@
-Dothidea seminata Berk. & Ravenel SPECIES
-=======
+# Dothidea seminata Berk. & Ravenel SPECIES
 
 #### Status
 ACCEPTED

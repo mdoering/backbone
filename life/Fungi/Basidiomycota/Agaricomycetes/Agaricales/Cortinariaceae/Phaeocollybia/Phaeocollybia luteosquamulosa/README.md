@@ -1,5 +1,4 @@
-Phaeocollybia luteosquamulosa Norvell SPECIES
-=======
+# Phaeocollybia luteosquamulosa Norvell SPECIES
 
 #### Status
 ACCEPTED

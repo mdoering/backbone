@@ -1,5 +1,4 @@
-Gloeosporium ornithidii Allesch. SPECIES
-=======
+# Gloeosporium ornithidii Allesch. SPECIES
 
 #### Status
 ACCEPTED

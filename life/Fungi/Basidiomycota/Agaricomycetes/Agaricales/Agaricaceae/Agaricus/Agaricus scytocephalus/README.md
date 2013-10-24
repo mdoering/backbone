@@ -1,5 +1,4 @@
-Agaricus scytocephalus Berk. & Broome SPECIES
-=======
+# Agaricus scytocephalus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

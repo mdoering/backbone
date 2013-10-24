@@ -1,5 +1,4 @@
-Leiophloea pelvetia (G.K. Sutherl.) Kohlm. & E.Kohlm., 1979 SPECIES
-=======
+# Leiophloea pelvetia (G.K. Sutherl.) Kohlm. & E.Kohlm., 1979 SPECIES
 
 #### Status
 ACCEPTED

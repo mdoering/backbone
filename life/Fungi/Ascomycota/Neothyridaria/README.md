@@ -1,5 +1,4 @@
-Neothyridaria Petr. GENUS
-=======
+# Neothyridaria Petr. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paecilomyces purpureus Z.Q. Liang & Y.F. Han SPECIES
-=======
+# Paecilomyces purpureus Z.Q. Liang & Y.F. Han SPECIES
 
 #### Status
 ACCEPTED

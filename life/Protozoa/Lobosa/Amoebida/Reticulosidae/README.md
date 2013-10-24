@@ -1,5 +1,4 @@
-Reticulosidae FAMILY
-=======
+# Reticulosidae FAMILY
 
 #### Status
 ACCEPTED

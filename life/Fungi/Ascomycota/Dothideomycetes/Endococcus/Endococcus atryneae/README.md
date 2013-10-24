@@ -1,5 +1,4 @@
-Endococcus atryneae Arnold SPECIES
-=======
+# Endococcus atryneae Arnold SPECIES
 
 #### Status
 ACCEPTED

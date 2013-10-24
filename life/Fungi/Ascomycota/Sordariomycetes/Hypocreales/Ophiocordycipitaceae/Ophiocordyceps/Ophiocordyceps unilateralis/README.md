@@ -1,5 +1,4 @@
-Ophiocordyceps unilateralis var. clavata Kobayasi VARIETY
-=======
+# Ophiocordyceps unilateralis (Tul.) Petch SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 16: 74 (1931)
 
 #### Original name
-Ophiocordyceps unilateralis var. clavata Kobayasi
+Torrubia unilateralis Tul.
 
 ### Remarks
 null

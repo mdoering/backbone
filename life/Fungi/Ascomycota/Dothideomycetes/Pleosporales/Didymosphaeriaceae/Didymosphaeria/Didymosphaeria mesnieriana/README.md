@@ -1,5 +1,4 @@
-Didymosphaeria mesnieriana Rehm & Thüm. SPECIES
-=======
+# Didymosphaeria mesnieriana Rehm & Thüm. SPECIES
 
 #### Status
 ACCEPTED

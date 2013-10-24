@@ -1,5 +1,4 @@
-Acanthotrema A. Frisch, 2006 GENUS
-=======
+# Acanthotrema A. Frisch, 2006 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entyloma sonchi Vánky, 1983 SPECIES
-=======
+# Entyloma sonchi Vánky, 1983 SPECIES
 
 #### Status
 ACCEPTED

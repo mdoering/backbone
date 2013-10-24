@@ -1,5 +1,4 @@
-Trichosporon mucoides E. Guého & M.T. Sm., 1992 SPECIES
-=======
+# Trichosporon mucoides E. Guého & M.T. Sm., 1992 SPECIES
 
 #### Status
 ACCEPTED

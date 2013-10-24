@@ -1,5 +1,4 @@
-Dactyloporus Herzer GENUS
-=======
+# Dactyloporus Herzer GENUS
 
 #### Status
 ACCEPTED

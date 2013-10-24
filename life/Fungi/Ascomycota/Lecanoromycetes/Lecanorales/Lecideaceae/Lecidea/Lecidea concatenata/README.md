@@ -1,5 +1,4 @@
-Lecidea concatenata Tuck. SPECIES
-=======
+# Lecidea concatenata Tuck. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buellia anatolodia A. Massal. SPECIES
-=======
+# Buellia anatolodia A. Massal. SPECIES
 
 #### Status
 ACCEPTED

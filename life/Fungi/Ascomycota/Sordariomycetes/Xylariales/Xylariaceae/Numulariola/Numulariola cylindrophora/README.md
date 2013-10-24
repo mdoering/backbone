@@ -1,5 +1,4 @@
-Numulariola cylindrophora (Ellis & Everh.) P.M.D. Martin SPECIES
-=======
+# Numulariola cylindrophora (Ellis & Everh.) P.M.D. Martin SPECIES
 
 #### Status
 ACCEPTED

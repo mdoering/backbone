@@ -1,5 +1,4 @@
-Pseudocercospora phyllanthi-niruri (J.M. Yen) J.M. Yen SPECIES
-=======
+# Pseudocercospora phyllanthi-niruri (J.M. Yen) J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

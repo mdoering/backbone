@@ -1,5 +1,4 @@
-Scleropycnis abietina Syd. & P. Syd., 1911 SPECIES
-=======
+# Scleropycnis abietina Syd. & P. Syd., 1911 SPECIES
 
 #### Status
 ACCEPTED

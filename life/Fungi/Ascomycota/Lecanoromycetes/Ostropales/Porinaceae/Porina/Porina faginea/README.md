@@ -1,5 +1,4 @@
-Porina faginea SPECIES
-=======
+# Porina faginea SPECIES
 
 #### Status
 ACCEPTED

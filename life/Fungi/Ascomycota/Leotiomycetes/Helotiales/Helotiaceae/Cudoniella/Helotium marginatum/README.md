@@ -1,5 +1,4 @@
-Helotium marginatum Clem. SPECIES
-=======
+# Helotium marginatum Clem. SPECIES
 
 #### Status
 ACCEPTED

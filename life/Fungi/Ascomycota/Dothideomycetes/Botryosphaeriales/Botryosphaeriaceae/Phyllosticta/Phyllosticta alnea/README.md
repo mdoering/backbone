@@ -1,5 +1,4 @@
-Phyllosticta alnea Oudem. SPECIES
-=======
+# Phyllosticta alnea Oudem. SPECIES
 
 #### Status
 ACCEPTED

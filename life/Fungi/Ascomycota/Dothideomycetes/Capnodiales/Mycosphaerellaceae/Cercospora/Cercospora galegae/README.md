@@ -1,5 +1,4 @@
-Cercospora galegae Sacc. SPECIES
-=======
+# Cercospora galegae Sacc. SPECIES
 
 #### Status
 ACCEPTED

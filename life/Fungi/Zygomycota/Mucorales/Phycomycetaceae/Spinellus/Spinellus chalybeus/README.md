@@ -1,17 +1,16 @@
-Ascophora chalybea Dozy & Molk., 1846 SPECIES
-=======
+# Spinellus chalybeus (Dozy & Molk.) Vuill., 1904 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 2: 61 (1904)
 
 #### Original name
-null
+Ascophora chalybeus Dozy & Molk.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Naucoria goossensiae Beeli SPECIES
-=======
+# Naucoria goossensiae Beeli SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diatrype diffidens Kauffman SPECIES
-=======
+# Diatrype diffidens Kauffman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptogium marginelloides C.W. Dodge SPECIES
-=======
+# Leptogium marginelloides C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

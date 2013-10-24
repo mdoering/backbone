@@ -1,5 +1,4 @@
-Mimeomyces chiriquensis Thaxt. SPECIES
-=======
+# Mimeomyces chiriquensis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

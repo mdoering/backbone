@@ -1,5 +1,4 @@
-Cannopilus tholus P. Dumitrica SPECIES
-=======
+# Cannopilus tholus P. Dumitrica SPECIES
 
 #### Status
 ACCEPTED

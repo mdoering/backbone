@@ -1,5 +1,4 @@
-Colletotrichum bryoniae (Ferraris) Maire SPECIES
-=======
+# Colletotrichum bryoniae (Ferraris) Maire SPECIES
 
 #### Status
 ACCEPTED

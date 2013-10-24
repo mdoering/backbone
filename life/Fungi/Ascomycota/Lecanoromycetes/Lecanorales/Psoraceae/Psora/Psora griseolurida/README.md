@@ -1,5 +1,4 @@
-Psora griseolurida (Lindau) C.W. Dodge SPECIES
-=======
+# Psora griseolurida (Lindau) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

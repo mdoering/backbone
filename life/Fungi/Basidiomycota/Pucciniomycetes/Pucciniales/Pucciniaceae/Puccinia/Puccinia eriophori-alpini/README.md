@@ -1,5 +1,4 @@
-Puccinia eriophori-alpini Allesch. SPECIES
-=======
+# Puccinia eriophori-alpini Allesch. SPECIES
 
 #### Status
 ACCEPTED

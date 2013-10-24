@@ -1,5 +1,4 @@
-Ceratitium cornutum Rabenh. SPECIES
-=======
+# Ceratitium cornutum Rabenh. SPECIES
 
 #### Status
 ACCEPTED

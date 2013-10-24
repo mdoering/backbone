@@ -1,5 +1,4 @@
-Winteromyces caespitosus (G. Winter) Speg. SPECIES
-=======
+# Winteromyces caespitosus (G. Winter) Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anabaenopsis elenkinii V.V. Miller SPECIES
-=======
+# Anabaenopsis elenkinii V.V. Miller SPECIES
 
 #### Status
 ACCEPTED

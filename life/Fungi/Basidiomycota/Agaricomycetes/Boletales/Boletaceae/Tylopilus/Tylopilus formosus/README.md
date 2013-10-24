@@ -1,5 +1,4 @@
-Tylopilus formosus G. Stev., 1962 SPECIES
-=======
+# Tylopilus formosus G. Stev., 1962 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cymatosira praecompacta J. Fenner & H. J. Schrader SPECIES
-=======
+# Cymatosira praecompacta J. Fenner & H. J. Schrader SPECIES
 
 #### Status
 ACCEPTED

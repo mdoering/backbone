@@ -1,5 +1,4 @@
-Uromyces pittospori Henn. SPECIES
-=======
+# Uromyces pittospori Henn. SPECIES
 
 #### Status
 ACCEPTED

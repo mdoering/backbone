@@ -1,5 +1,4 @@
-Trichodina maritinkae SPECIES
-=======
+# Trichodina maritinkae SPECIES
 
 #### Status
 ACCEPTED

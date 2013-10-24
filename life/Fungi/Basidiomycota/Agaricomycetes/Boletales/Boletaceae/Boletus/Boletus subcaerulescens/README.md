@@ -1,5 +1,4 @@
-Boletus subcaerulescens (E.A. Dick & Snell) Both, Bessette & A.R. Bessette SPECIES
-=======
+# Boletus subcaerulescens (E.A. Dick & Snell) Both, Bessette & A.R. Bessette SPECIES
 
 #### Status
 ACCEPTED

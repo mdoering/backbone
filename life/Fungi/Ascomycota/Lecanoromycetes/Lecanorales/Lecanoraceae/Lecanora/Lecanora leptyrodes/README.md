@@ -1,5 +1,4 @@
-Lecanora leptyrodes G.B.F. Nilsson SPECIES
-=======
+# Lecanora leptyrodes G.B.F. Nilsson SPECIES
 
 #### Status
 ACCEPTED

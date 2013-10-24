@@ -1,5 +1,4 @@
-Selenophoma baldingerae (Frandsen) Luc SPECIES
-=======
+# Selenophoma baldingerae (Frandsen) Luc SPECIES
 
 #### Status
 ACCEPTED

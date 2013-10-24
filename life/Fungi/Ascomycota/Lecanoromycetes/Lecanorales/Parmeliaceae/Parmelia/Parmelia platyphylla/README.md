@@ -1,5 +1,4 @@
-Parmelia platyphylla (Ach.) Röhl. SPECIES
-=======
+# Parmelia platyphylla (Ach.) Röhl. SPECIES
 
 #### Status
 ACCEPTED

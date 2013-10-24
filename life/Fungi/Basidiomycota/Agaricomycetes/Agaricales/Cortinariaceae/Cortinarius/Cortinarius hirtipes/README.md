@@ -1,5 +1,4 @@
-Cortinarius hirtipes Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius hirtipes Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

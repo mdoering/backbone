@@ -1,5 +1,4 @@
-Acanthamoeba castellanii SPECIES
-=======
+# Acanthamoeba castellanii SPECIES
 
 #### Status
 ACCEPTED

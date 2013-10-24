@@ -1,5 +1,4 @@
-Scolicotrichum spiraeae (Karak.) Karak. SPECIES
-=======
+# Scolicotrichum spiraeae (Karak.) Karak. SPECIES
 
 #### Status
 ACCEPTED

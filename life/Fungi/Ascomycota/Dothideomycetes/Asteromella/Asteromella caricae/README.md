@@ -1,5 +1,4 @@
-Asteromella caricae (C. Massal.) Aa SPECIES
-=======
+# Asteromella caricae (C. Massal.) Aa SPECIES
 
 #### Status
 ACCEPTED

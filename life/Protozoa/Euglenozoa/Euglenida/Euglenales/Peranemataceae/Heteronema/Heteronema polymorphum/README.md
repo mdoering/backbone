@@ -1,5 +1,4 @@
-Heteronema polymorphum Deflandre, 1932 SPECIES
-=======
+# Heteronema polymorphum Deflandre, 1932 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma ophiocauli Traverso SPECIES
-=======
+# Phoma ophiocauli Traverso SPECIES
 
 #### Status
 ACCEPTED

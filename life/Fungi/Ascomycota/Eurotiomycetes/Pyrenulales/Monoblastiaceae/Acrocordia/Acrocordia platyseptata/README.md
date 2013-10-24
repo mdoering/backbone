@@ -1,5 +1,4 @@
-Acrocordia platyseptata (Zahlbr.) C.W. Dodge SPECIES
-=======
+# Acrocordia platyseptata (Zahlbr.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

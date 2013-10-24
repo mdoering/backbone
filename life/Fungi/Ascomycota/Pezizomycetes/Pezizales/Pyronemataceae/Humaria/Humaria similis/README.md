@@ -1,5 +1,4 @@
-Humaria similis Kirschst. SPECIES
-=======
+# Humaria similis Kirschst. SPECIES
 
 #### Status
 ACCEPTED

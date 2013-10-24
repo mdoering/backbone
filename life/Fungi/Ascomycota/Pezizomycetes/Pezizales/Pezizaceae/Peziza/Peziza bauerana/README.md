@@ -1,5 +1,4 @@
-Peziza bauerana Cooke SPECIES
-=======
+# Peziza bauerana Cooke SPECIES
 
 #### Status
 ACCEPTED

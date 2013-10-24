@@ -1,5 +1,4 @@
-Chiodecton applanatum G. Thor SPECIES
-=======
+# Chiodecton applanatum G. Thor SPECIES
 
 #### Status
 ACCEPTED

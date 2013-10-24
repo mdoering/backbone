@@ -1,5 +1,4 @@
-Letendraea lasiosphaerioides Teng SPECIES
-=======
+# Letendraea lasiosphaerioides Teng SPECIES
 
 #### Status
 ACCEPTED

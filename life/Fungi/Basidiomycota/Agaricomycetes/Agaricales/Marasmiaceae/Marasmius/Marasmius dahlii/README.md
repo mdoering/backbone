@@ -1,5 +1,4 @@
-Marasmius dahlii Henn. SPECIES
-=======
+# Marasmius dahlii Henn. SPECIES
 
 #### Status
 ACCEPTED

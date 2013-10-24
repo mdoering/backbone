@@ -1,5 +1,4 @@
-Xylaria thwaitesii Berk. & Cooke SPECIES
-=======
+# Xylaria thwaitesii Berk. & Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodina micromelis Koval SPECIES
-=======
+# Diplodina micromelis Koval SPECIES
 
 #### Status
 ACCEPTED

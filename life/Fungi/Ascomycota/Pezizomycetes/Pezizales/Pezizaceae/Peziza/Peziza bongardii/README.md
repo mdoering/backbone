@@ -1,5 +1,4 @@
-Peziza bongardii Weinm. SPECIES
-=======
+# Peziza bongardii Weinm. SPECIES
 
 #### Status
 ACCEPTED

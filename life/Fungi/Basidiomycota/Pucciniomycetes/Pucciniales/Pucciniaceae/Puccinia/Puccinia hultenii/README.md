@@ -1,5 +1,4 @@
-Puccinia hultenii Tranzschel & Jørst. SPECIES
-=======
+# Puccinia hultenii Tranzschel & Jørst. SPECIES
 
 #### Status
 ACCEPTED

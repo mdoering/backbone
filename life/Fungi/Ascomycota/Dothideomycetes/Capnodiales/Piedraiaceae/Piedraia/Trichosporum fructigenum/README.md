@@ -1,5 +1,4 @@
-Trichosporum fructigenum Rabenh. ex Cooke SPECIES
-=======
+# Trichosporum fructigenum Rabenh. ex Cooke SPECIES
 
 #### Status
 ACCEPTED

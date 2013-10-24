@@ -1,5 +1,4 @@
-Crocynia flavissima B. de Lesd. SPECIES
-=======
+# Crocynia flavissima B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

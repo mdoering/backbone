@@ -1,5 +1,4 @@
-Hysterium expallens Schwein. SPECIES
-=======
+# Hysterium expallens Schwein. SPECIES
 
 #### Status
 ACCEPTED

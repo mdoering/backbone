@@ -1,5 +1,4 @@
-Stromaster Höhn. GENUS
-=======
+# Stromaster Höhn. GENUS
 
 #### Status
 ACCEPTED

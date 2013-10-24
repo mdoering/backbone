@@ -1,5 +1,4 @@
-Omphalia hypoleuca Berk. SPECIES
-=======
+# Omphalia hypoleuca Berk. SPECIES
 
 #### Status
 ACCEPTED

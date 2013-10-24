@@ -1,5 +1,4 @@
-Usnea molokaiensis H. Magn. SPECIES
-=======
+# Usnea molokaiensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

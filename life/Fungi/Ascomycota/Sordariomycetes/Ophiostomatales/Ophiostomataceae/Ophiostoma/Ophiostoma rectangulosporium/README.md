@@ -1,5 +1,4 @@
-Ophiostoma rectangulosporium Ohtaka, Masuya & Yamaoka SPECIES
-=======
+# Ophiostoma rectangulosporium Ohtaka, Masuya & Yamaoka SPECIES
 
 #### Status
 ACCEPTED

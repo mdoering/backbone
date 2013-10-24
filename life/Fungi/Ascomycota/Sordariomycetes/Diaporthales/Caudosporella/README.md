@@ -1,5 +1,4 @@
-Caudosporella GENUS
-=======
+# Caudosporella GENUS
 
 #### Status
 ACCEPTED

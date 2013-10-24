@@ -1,5 +1,4 @@
-Penicillium malacaense C. Ramírez & A.T. Martínez, 1980 SPECIES
-=======
+# Penicillium malacaense C. Ramírez & A.T. Martínez, 1980 SPECIES
 
 #### Status
 DOUBTFUL

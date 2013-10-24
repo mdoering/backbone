@@ -1,5 +1,4 @@
-Abathomphalus Bolli, Loeblich & Tappan, 1957 GENUS
-=======
+# Abathomphalus Bolli, Loeblich & Tappan, 1957 GENUS
 
 #### Status
 ACCEPTED

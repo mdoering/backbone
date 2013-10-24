@@ -1,5 +1,4 @@
-Puiggarina manaosensis Speg., 1919 SPECIES
-=======
+# Puiggarina manaosensis Speg., 1919 SPECIES
 
 #### Status
 ACCEPTED

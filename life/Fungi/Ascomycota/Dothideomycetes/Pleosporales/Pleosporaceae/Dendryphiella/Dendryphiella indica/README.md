@@ -1,5 +1,4 @@
-Dendryphiella indica V. Rao & Narania SPECIES
-=======
+# Dendryphiella indica V. Rao & Narania SPECIES
 
 #### Status
 ACCEPTED

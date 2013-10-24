@@ -1,5 +1,4 @@
-Pseudokreyella Foissner, 1985 GENUS
-=======
+# Pseudokreyella Foissner, 1985 GENUS
 
 #### Status
 ACCEPTED

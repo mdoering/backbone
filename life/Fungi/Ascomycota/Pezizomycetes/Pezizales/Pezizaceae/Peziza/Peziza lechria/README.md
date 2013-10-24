@@ -1,5 +1,4 @@
-Peziza lechria Berk. & Broome SPECIES
-=======
+# Peziza lechria Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

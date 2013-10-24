@@ -1,5 +1,4 @@
-Aschersonia phthiurioides Henn. SPECIES
-=======
+# Aschersonia phthiurioides Henn. SPECIES
 
 #### Status
 ACCEPTED

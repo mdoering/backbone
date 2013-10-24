@@ -1,5 +1,4 @@
-Omphalia pseudopicta J.E. Lange SPECIES
-=======
+# Omphalia pseudopicta J.E. Lange SPECIES
 
 #### Status
 ACCEPTED

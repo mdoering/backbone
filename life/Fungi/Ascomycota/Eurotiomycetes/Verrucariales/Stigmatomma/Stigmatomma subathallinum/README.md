@@ -1,5 +1,4 @@
-Stigmatomma subathallinum Arnold SPECIES
-=======
+# Stigmatomma subathallinum Arnold SPECIES
 
 #### Status
 ACCEPTED

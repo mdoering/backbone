@@ -1,5 +1,4 @@
-Bacidia salmonea S. Ekman SPECIES
-=======
+# Bacidia salmonea S. Ekman SPECIES
 
 #### Status
 ACCEPTED

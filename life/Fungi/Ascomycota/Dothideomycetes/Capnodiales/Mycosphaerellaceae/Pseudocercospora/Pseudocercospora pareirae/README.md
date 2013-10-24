@@ -1,5 +1,4 @@
-Pseudocercospora pareirae (Speg.) Crous & U. Braun SPECIES
-=======
+# Pseudocercospora pareirae (Speg.) Crous & U. Braun SPECIES
 
 #### Status
 ACCEPTED

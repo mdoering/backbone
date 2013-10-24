@@ -1,5 +1,4 @@
-Marasmius ochraceus Berk. & Broome SPECIES
-=======
+# Marasmius ochraceus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

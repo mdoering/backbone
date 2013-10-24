@@ -1,5 +1,4 @@
-Rhopalidium cercosporelloides Dearn. SPECIES
-=======
+# Rhopalidium cercosporelloides Dearn. SPECIES
 
 #### Status
 ACCEPTED

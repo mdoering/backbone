@@ -1,5 +1,4 @@
-Phyllosticta camusiana Sacc. SPECIES
-=======
+# Phyllosticta camusiana Sacc. SPECIES
 
 #### Status
 ACCEPTED

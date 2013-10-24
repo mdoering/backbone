@@ -1,5 +1,4 @@
-Stilbella burmensis (Mains) Samson & H.C. Evans SPECIES
-=======
+# Stilbella burmensis (Mains) Samson & H.C. Evans SPECIES
 
 #### Status
 ACCEPTED

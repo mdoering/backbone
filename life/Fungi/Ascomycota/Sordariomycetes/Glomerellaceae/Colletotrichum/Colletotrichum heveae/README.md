@@ -1,5 +1,4 @@
-Colletotrichum heveae Petch SPECIES
-=======
+# Colletotrichum heveae Petch SPECIES
 
 #### Status
 ACCEPTED

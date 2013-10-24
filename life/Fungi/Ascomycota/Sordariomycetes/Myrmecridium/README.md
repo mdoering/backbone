@@ -1,5 +1,4 @@
-Myrmecridium Arzanlou, W. Gams & Crous GENUS
-=======
+# Myrmecridium Arzanlou, W. Gams & Crous GENUS
 
 #### Status
 ACCEPTED

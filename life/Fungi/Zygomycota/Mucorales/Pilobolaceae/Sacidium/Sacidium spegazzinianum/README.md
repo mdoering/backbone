@@ -1,5 +1,4 @@
-Sacidium spegazzinianum Sacc. SPECIES
-=======
+# Sacidium spegazzinianum Sacc. SPECIES
 
 #### Status
 ACCEPTED

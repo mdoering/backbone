@@ -1,5 +1,4 @@
-Asterina bambusella Speg. SPECIES
-=======
+# Asterina bambusella Speg. SPECIES
 
 #### Status
 ACCEPTED

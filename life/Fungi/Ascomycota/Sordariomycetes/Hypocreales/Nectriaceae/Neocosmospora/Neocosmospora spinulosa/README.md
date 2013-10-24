@@ -1,5 +1,4 @@
-Neocosmospora spinulosa Pfenning SPECIES
-=======
+# Neocosmospora spinulosa Pfenning SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Brevibacterium otitidis Pascual et al., 1996 SPECIES
-=======
+# Brevibacterium otitidis Pascual et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

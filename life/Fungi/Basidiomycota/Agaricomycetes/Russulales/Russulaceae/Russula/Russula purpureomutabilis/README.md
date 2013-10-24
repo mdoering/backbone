@@ -1,5 +1,4 @@
-Russula purpureomutabilis Buyck SPECIES
-=======
+# Russula purpureomutabilis Buyck SPECIES
 
 #### Status
 ACCEPTED

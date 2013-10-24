@@ -1,5 +1,4 @@
-Meliola bhesae Hosag. SPECIES
-=======
+# Meliola bhesae Hosag. SPECIES
 
 #### Status
 ACCEPTED

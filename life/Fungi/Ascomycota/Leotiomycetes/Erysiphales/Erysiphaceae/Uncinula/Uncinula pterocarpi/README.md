@@ -1,5 +1,4 @@
-Uncinula pterocarpi Doidge SPECIES
-=======
+# Uncinula pterocarpi Doidge SPECIES
 
 #### Status
 ACCEPTED

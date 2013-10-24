@@ -1,5 +1,4 @@
-Stylonychia tricornis SPECIES
-=======
+# Stylonychia tricornis SPECIES
 
 #### Status
 ACCEPTED

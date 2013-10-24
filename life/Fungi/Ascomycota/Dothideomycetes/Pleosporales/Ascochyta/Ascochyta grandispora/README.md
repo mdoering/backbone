@@ -1,5 +1,4 @@
-Ascochyta grandispora Kabát & Bubák SPECIES
-=======
+# Ascochyta grandispora Kabát & Bubák SPECIES
 
 #### Status
 ACCEPTED

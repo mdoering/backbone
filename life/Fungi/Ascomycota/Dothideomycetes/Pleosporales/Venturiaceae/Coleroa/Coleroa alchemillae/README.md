@@ -1,14 +1,13 @@
-Venturia alchemillae (Grev.) Berk. & Broome, 1875 SPECIES
-=======
+# Coleroa alchemillae (Grev.) G. Winter, 1885 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mag. nat. Hist. , Ser. 4 15: 40 (1875)
+in Rabenhorst, Rabenh. Krypt. -Fl. (Leipzig) 2: 199 (1887)
 
 #### Original name
 Asteroma alchemillae Grev., 1824

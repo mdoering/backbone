@@ -1,17 +1,16 @@
-Thecaphora rhynchosporae G.W. Fisch., 1952 SPECIES
-=======
+# Moreaua fischeri (Vánky) Vánky, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Res. Stud. State Coll. Wash. 20: 5 (1952)
+Mycotaxon 74(2): 352 (2000)
 
 #### Original name
-Thecaphora rhynchosporae G.W. Fisch., 1952
+Tolyposporium fischeri Vánky, 1993
 
 ### Remarks
 null

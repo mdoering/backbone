@@ -1,5 +1,4 @@
-Pleosphaerulina smilacicola Speg. SPECIES
-=======
+# Pleosphaerulina smilacicola Speg. SPECIES
 
 #### Status
 ACCEPTED

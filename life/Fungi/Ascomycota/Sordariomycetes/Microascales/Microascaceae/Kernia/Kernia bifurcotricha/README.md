@@ -1,5 +1,4 @@
-Kernia bifurcotricha A.S. Saxena & Mukerji, 1970 SPECIES
-=======
+# Kernia bifurcotricha A.S. Saxena & Mukerji, 1970 SPECIES
 
 #### Status
 ACCEPTED

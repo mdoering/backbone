@@ -1,5 +1,4 @@
-Camarophyllus subviolaceus (Peck) SPECIES
-=======
+# Camarophyllus subviolaceus (Peck) SPECIES
 
 #### Status
 ACCEPTED

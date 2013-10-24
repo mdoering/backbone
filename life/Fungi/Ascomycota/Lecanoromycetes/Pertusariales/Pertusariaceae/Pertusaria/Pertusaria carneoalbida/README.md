@@ -1,5 +1,4 @@
-Pertusaria carneoalbida Müll. Arg. SPECIES
-=======
+# Pertusaria carneoalbida Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Thelephora granulosa var. granulosa VARIETY
-=======
+# Dichostereum granulosum (Pers.) Boidin & Lanq., 1977 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 6(2): 284 (1977)
 
 #### Original name
-Thelephora granulosa var. granulosa
+Thelephora granulosa Pers., 1801
 
 ### Remarks
 null

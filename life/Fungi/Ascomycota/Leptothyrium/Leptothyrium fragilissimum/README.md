@@ -1,5 +1,4 @@
-Leptothyrium fragilissimum (Mouton) Sacc. SPECIES
-=======
+# Leptothyrium fragilissimum (Mouton) Sacc. SPECIES
 
 #### Status
 ACCEPTED

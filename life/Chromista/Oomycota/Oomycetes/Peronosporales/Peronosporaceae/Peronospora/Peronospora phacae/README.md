@@ -1,5 +1,4 @@
-Peronospora phacae Gäum. SPECIES
-=======
+# Peronospora phacae Gäum. SPECIES
 
 #### Status
 ACCEPTED

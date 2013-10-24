@@ -1,5 +1,4 @@
-Pyrenopsis paraguayana Müll. Arg. SPECIES
-=======
+# Pyrenopsis paraguayana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

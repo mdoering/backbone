@@ -1,5 +1,4 @@
-Dothiorella casuarini J. de Wet, Slippers & M.J. Wingf. SPECIES
-=======
+# Dothiorella casuarini J. de Wet, Slippers & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudohaplis ribis Frolov SPECIES
-=======
+# Pseudohaplis ribis Frolov SPECIES
 
 #### Status
 ACCEPTED

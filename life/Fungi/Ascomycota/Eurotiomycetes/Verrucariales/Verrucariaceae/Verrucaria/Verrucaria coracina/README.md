@@ -1,5 +1,4 @@
-Verrucaria coracina Hoffm. SPECIES
-=======
+# Verrucaria coracina Hoffm. SPECIES
 
 #### Status
 ACCEPTED

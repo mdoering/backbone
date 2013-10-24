@@ -1,17 +1,16 @@
-Dictyochaeta seychellensa Whitton, McKenzie & K.D. Hyde SPECIES
-=======
+# Dictyochaeta seychellensis Whitton, McKenzie & K.D. Hyde SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Fungal Diversity 4: 148 (2000)
 
 #### Original name
-Dictyochaeta seychellensa Whitton, McKenzie & K.D. Hyde
+Dictyochaeta seychellensis Whitton, McKenzie & K.D. Hyde
 
 ### Remarks
 null

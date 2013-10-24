@@ -1,8 +1,7 @@
-Pentahymena corticola SPECIES
-=======
+# Pentahymena corticicola Foissner, 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

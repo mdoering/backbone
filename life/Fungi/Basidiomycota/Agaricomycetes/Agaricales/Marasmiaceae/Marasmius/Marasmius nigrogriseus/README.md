@@ -1,5 +1,4 @@
-Marasmius nigrogriseus Antonín & Buyck SPECIES
-=======
+# Marasmius nigrogriseus Antonín & Buyck SPECIES
 
 #### Status
 ACCEPTED

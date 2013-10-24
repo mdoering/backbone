@@ -1,5 +1,4 @@
-Dicaeoma elongatum (Speg.) Kuntze SPECIES
-=======
+# Dicaeoma elongatum (Speg.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

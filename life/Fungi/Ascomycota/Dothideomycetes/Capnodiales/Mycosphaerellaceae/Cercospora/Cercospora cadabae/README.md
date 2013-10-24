@@ -1,5 +1,4 @@
-Cercospora cadabae Thirum. & Govindu SPECIES
-=======
+# Cercospora cadabae Thirum. & Govindu SPECIES
 
 #### Status
 ACCEPTED

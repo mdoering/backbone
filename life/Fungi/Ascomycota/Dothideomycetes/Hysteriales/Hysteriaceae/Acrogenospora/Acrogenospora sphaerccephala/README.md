@@ -1,5 +1,4 @@
-Acrogenospora sphaerccephala (Berkeley & Broome) M. B.Ellis SPECIES
-=======
+# Acrogenospora sphaerccephala (Berkeley & Broome) M. B.Ellis SPECIES
 
 #### Status
 ACCEPTED

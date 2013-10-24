@@ -1,5 +1,4 @@
-Peltidea cellulosa (Sm.) Vain. SPECIES
-=======
+# Peltidea cellulosa (Sm.) Vain. SPECIES
 
 #### Status
 ACCEPTED

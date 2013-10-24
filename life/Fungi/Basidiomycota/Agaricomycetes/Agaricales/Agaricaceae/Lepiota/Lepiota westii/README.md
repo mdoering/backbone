@@ -1,5 +1,4 @@
-Lepiota westii Murrill SPECIES
-=======
+# Lepiota westii Murrill SPECIES
 
 #### Status
 ACCEPTED

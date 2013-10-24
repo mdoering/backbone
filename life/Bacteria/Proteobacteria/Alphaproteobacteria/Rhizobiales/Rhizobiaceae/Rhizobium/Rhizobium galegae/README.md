@@ -1,5 +1,4 @@
-Rhizobium galegae Lindström, 1989 SPECIES
-=======
+# Rhizobium galegae Lindström, 1989 SPECIES
 
 #### Status
 ACCEPTED

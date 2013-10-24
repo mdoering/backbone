@@ -1,5 +1,4 @@
-Pyrenidium santessonii Lücking SPECIES
-=======
+# Pyrenidium santessonii Lücking SPECIES
 
 #### Status
 ACCEPTED

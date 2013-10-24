@@ -1,5 +1,4 @@
-Phaeosphaerella trotteri Sacc. SPECIES
-=======
+# Phaeosphaerella trotteri Sacc. SPECIES
 
 #### Status
 ACCEPTED

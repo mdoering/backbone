@@ -1,5 +1,4 @@
-Leptostroma allii Dearn. & House SPECIES
-=======
+# Leptostroma allii Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

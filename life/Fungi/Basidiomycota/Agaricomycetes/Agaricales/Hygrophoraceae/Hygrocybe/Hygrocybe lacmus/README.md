@@ -1,14 +1,13 @@
-Agaricus lacmus Schumach., 1803 SPECIES
-=======
+# Hygrocybe lacmus (Schumach.) P.D. Orton & Watling, 1969 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Enum. pl. (Kjbenhavn) 2: 333 (1803)
+Notes R. bot. Gdn Edinb. 29(1): 131 (1969)
 
 #### Original name
 Agaricus lacmus Schumach., 1803

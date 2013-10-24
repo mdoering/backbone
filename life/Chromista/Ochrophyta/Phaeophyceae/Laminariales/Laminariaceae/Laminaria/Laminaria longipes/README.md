@@ -1,5 +1,4 @@
-Laminaria longipes Bory de Saint-Vincent SPECIES
-=======
+# Laminaria longipes Bory de Saint-Vincent SPECIES
 
 #### Status
 ACCEPTED

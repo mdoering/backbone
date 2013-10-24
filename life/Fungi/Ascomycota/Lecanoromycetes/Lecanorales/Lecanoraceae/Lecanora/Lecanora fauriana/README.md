@@ -1,5 +1,4 @@
-Lecanora fauriana (Hue) Zahlbr. SPECIES
-=======
+# Lecanora fauriana (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

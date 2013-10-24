@@ -1,5 +1,4 @@
-Corticium stratosum Pat. SPECIES
-=======
+# Corticium stratosum Pat. SPECIES
 
 #### Status
 ACCEPTED

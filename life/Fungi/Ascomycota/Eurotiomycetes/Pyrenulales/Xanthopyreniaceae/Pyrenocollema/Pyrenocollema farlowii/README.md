@@ -1,5 +1,4 @@
-Pyrenocollema farlowii (Riddle) R.C. Harris SPECIES
-=======
+# Pyrenocollema farlowii (Riddle) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

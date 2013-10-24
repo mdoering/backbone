@@ -1,5 +1,4 @@
-Monodictys fuliginosa Etayo, 1996 SPECIES
-=======
+# Monodictys fuliginosa Etayo, 1996 SPECIES
 
 #### Status
 ACCEPTED

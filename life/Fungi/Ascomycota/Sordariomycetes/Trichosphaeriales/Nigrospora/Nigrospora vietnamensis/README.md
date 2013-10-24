@@ -1,5 +1,4 @@
-Nigrospora vietnamensis Hol.-Jech., 1963 SPECIES
-=======
+# Nigrospora vietnamensis Hol.-Jech., 1963 SPECIES
 
 #### Status
 ACCEPTED

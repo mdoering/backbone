@@ -1,5 +1,4 @@
-Microporellus celtis (T.T. Chang & W.N. Chou) Decock, 2001 SPECIES
-=======
+# Microporellus celtis (T.T. Chang & W.N. Chou) Decock, 2001 SPECIES
 
 #### Status
 ACCEPTED

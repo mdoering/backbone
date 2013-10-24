@@ -1,5 +1,4 @@
-Ephebe multispora (Å. E. Dahl) Henssen SPECIES
-=======
+# Ephebe multispora (Å. E. Dahl) Henssen SPECIES
 
 #### Status
 ACCEPTED

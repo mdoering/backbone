@@ -1,5 +1,4 @@
-Phyllachora paralabatiae Petr. & Cif., 1930 SPECIES
-=======
+# Phyllachora paralabatiae Petr. & Cif., 1930 SPECIES
 
 #### Status
 DOUBTFUL

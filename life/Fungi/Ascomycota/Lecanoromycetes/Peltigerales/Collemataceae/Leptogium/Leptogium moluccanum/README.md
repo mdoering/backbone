@@ -1,17 +1,16 @@
-Leptogium moluccanum subsp. moluccanum SUBSPECIES
-=======
+# Leptogium moluccanum (Pers.) Vain. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Acta Soc. Fauna Flora fenn. 7(1): 223 (1890)
 
 #### Original name
-null
+Thelephora moluccana Pers.
 
 ### Remarks
 null

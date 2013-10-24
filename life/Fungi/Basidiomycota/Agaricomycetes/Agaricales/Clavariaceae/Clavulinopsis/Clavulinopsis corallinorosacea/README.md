@@ -1,14 +1,13 @@
-Clavaria corallinorosacea Cleland, 1931 SPECIES
-=======
+# Clavulinopsis corallinorosacea (Cleland) Corner, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Roy. Soc. South Australia 60: 159 (1931)
+Monograph of Clavaria and allied Genera (Annals of Botany Memoirs No. 1) 364 (1950)
 
 #### Original name
 Clavaria corallinorosacea Cleland, 1931

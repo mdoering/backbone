@@ -1,17 +1,16 @@
-Corticium typhae var. typhae VARIETY
-=======
+# Corticium typhae SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
-Pl. Crypt. Nord France, Edn 1 44, no. 2161 (1851)
+null
 
 #### Original name
-Corticium typhae var. typhae
+null
 
 ### Remarks
 null

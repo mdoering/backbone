@@ -1,5 +1,4 @@
-Pleurocybe madagascarea (Nyl.) Zahlbr. SPECIES
-=======
+# Pleurocybe madagascarea (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

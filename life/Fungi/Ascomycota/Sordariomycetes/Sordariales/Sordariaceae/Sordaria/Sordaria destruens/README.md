@@ -1,14 +1,13 @@
-Melanospora destruens (Shear) Shear & B.O. Dodge, 1927 SPECIES
-=======
+# Sordaria destruens (Shear) Hawker, 1951 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Journal of Agricultural Research 34: 1023 (1927)
+Trans. Br. mycol. Soc. 34: 174 (1951)
 
 #### Original name
 Anthostomella destruens Shear, 1902

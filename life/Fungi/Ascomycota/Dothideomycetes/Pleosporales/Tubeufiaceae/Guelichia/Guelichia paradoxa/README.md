@@ -1,5 +1,4 @@
-Guelichia paradoxa Speg., 1886 SPECIES
-=======
+# Guelichia paradoxa Speg., 1886 SPECIES
 
 #### Status
 ACCEPTED

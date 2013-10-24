@@ -1,5 +1,4 @@
-Galerina turfosa A.H. Sm. & Singer SPECIES
-=======
+# Galerina turfosa A.H. Sm. & Singer SPECIES
 
 #### Status
 ACCEPTED

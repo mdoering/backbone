@@ -1,5 +1,4 @@
-Isthmolithus recurvus Deflandre, 1954 SPECIES
-=======
+# Isthmolithus recurvus Deflandre, 1954 SPECIES
 
 #### Status
 ACCEPTED

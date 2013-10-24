@@ -1,5 +1,4 @@
-Durella hedychii (K.S. Thind & Saini) M.P. Sharma SPECIES
-=======
+# Durella hedychii (K.S. Thind & Saini) M.P. Sharma SPECIES
 
 #### Status
 ACCEPTED

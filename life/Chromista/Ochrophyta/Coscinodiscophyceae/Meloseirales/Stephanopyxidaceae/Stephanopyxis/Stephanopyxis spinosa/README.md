@@ -1,5 +1,4 @@
-Stephanopyxis spinosa Jousé SPECIES
-=======
+# Stephanopyxis spinosa Jousé SPECIES
 
 #### Status
 ACCEPTED

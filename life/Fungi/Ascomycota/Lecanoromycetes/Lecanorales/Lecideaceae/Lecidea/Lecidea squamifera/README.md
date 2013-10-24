@@ -1,5 +1,4 @@
-Lecidea squamifera Stizenb. SPECIES
-=======
+# Lecidea squamifera Stizenb. SPECIES
 
 #### Status
 ACCEPTED

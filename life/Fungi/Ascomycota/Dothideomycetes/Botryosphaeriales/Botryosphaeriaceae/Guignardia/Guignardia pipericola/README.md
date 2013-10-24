@@ -1,5 +1,4 @@
-Guignardia pipericola F. Stevens SPECIES
-=======
+# Guignardia pipericola F. Stevens SPECIES
 
 #### Status
 ACCEPTED

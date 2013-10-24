@@ -1,5 +1,4 @@
-Puccinia intermixta Peck SPECIES
-=======
+# Puccinia intermixta Peck SPECIES
 
 #### Status
 ACCEPTED

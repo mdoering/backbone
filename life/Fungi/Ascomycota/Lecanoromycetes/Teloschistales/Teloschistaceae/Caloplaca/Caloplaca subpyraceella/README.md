@@ -1,5 +1,4 @@
-Caloplaca subpyraceella SPECIES
-=======
+# Caloplaca subpyraceella SPECIES
 
 #### Status
 ACCEPTED

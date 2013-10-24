@@ -1,5 +1,4 @@
-Camarosporium proteae Henn. SPECIES
-=======
+# Camarosporium proteae Henn. SPECIES
 
 #### Status
 ACCEPTED

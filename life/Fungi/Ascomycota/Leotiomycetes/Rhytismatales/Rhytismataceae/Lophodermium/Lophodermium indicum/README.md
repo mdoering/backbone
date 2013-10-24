@@ -1,5 +1,4 @@
-Lophodermium indicum Tilak SPECIES
-=======
+# Lophodermium indicum Tilak SPECIES
 
 #### Status
 ACCEPTED

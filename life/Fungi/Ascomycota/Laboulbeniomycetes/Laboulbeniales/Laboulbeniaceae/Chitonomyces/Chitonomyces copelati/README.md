@@ -1,5 +1,4 @@
-Chitonomyces copelati Thaxt. SPECIES
-=======
+# Chitonomyces copelati Thaxt. SPECIES
 
 #### Status
 ACCEPTED

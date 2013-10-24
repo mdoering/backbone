@@ -1,5 +1,4 @@
-Gaffkya GENUS
-=======
+# Gaffkya GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Suillellus subluridus Murrill SPECIES
-=======
+# Suillellus subluridus Murrill SPECIES
 
 #### Status
 ACCEPTED

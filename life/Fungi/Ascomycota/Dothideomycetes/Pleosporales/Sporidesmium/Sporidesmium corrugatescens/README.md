@@ -1,5 +1,4 @@
-Sporidesmium corrugatescens B. Sutton & Pascoe SPECIES
-=======
+# Sporidesmium corrugatescens B. Sutton & Pascoe SPECIES
 
 #### Status
 ACCEPTED

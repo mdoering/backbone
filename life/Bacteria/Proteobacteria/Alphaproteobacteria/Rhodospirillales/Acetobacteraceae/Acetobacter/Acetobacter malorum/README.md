@@ -1,5 +1,4 @@
-Acetobacter malorum Cleenwerck et al., 2002 SPECIES
-=======
+# Acetobacter malorum Cleenwerck et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

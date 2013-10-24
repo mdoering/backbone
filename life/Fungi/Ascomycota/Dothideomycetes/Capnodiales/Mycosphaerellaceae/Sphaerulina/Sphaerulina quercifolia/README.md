@@ -1,5 +1,4 @@
-Sphaerulina quercifolia S.K. Bose & E. Müll. SPECIES
-=======
+# Sphaerulina quercifolia S.K. Bose & E. Müll. SPECIES
 
 #### Status
 ACCEPTED

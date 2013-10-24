@@ -1,5 +1,4 @@
-Lasiostemma distans (Rehm) Fore {?} SPECIES
-=======
+# Lasiostemma distans (Rehm) Fore {?} SPECIES
 
 #### Status
 ACCEPTED

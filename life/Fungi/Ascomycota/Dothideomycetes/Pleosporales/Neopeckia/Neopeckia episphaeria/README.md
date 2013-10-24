@@ -1,5 +1,4 @@
-Neopeckia episphaeria Höhn. SPECIES
-=======
+# Neopeckia episphaeria Höhn. SPECIES
 
 #### Status
 ACCEPTED

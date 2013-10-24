@@ -1,5 +1,4 @@
-Badhamia citrinella L.F. Celak. SPECIES
-=======
+# Badhamia citrinella L.F. Celak. SPECIES
 
 #### Status
 ACCEPTED

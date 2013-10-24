@@ -1,5 +1,4 @@
-Asteromella cercidis (D. Sacc.) Aa SPECIES
-=======
+# Asteromella cercidis (D. Sacc.) Aa SPECIES
 
 #### Status
 ACCEPTED

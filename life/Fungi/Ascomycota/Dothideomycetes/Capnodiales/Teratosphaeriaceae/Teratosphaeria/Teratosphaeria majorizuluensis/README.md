@@ -1,5 +1,4 @@
-Teratosphaeria majorizuluensis Crous & Summerell, 2009 SPECIES
-=======
+# Teratosphaeria majorizuluensis Crous & Summerell, 2009 SPECIES
 
 #### Status
 ACCEPTED

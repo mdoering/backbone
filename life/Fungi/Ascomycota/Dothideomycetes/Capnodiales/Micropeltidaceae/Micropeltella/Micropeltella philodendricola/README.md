@@ -1,5 +1,4 @@
-Micropeltella philodendricola Bat. & Gayão SPECIES
-=======
+# Micropeltella philodendricola Bat. & Gayão SPECIES
 
 #### Status
 ACCEPTED

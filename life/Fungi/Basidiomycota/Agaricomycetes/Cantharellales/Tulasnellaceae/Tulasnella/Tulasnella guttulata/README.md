@@ -1,5 +1,4 @@
-Tulasnella guttulata L.S. Olive, 1957 SPECIES
-=======
+# Tulasnella guttulata L.S. Olive, 1957 SPECIES
 
 #### Status
 ACCEPTED

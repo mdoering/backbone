@@ -1,5 +1,4 @@
-Hygrophorus albicastaneus (Murrill) Hesler & A.H. Sm. SPECIES
-=======
+# Hygrophorus albicastaneus (Murrill) Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

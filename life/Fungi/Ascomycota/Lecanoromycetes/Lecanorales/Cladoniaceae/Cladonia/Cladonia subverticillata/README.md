@@ -1,5 +1,4 @@
-Cladonia subverticillata Nyl. SPECIES
-=======
+# Cladonia subverticillata Nyl. SPECIES
 
 #### Status
 ACCEPTED

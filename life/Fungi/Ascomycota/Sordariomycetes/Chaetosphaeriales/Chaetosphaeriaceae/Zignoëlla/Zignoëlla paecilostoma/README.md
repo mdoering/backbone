@@ -1,14 +1,13 @@
-Sphaeria paecilostoma Berk. & Broome, 1859 SPECIES
-=======
+# Zignoëlla paecilostoma (Berk. & Broome) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mag. nat. Hist. , Ser. 3 9: 37 (1859)
+Syll. fung. (Abellini) 2: 220 (1883)
 
 #### Original name
 Sphaeria paecilostoma Berk. & Broome, 1859

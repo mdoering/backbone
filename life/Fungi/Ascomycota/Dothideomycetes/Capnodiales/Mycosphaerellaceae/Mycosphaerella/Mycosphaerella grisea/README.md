@@ -1,5 +1,4 @@
-Mycosphaerella grisea (Boyer & Jacz.) Tomilin SPECIES
-=======
+# Mycosphaerella grisea (Boyer & Jacz.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

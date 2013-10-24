@@ -1,5 +1,4 @@
-Dingodinium spinosum (Duxbury, 1977) Davey, 1979 SPECIES
-=======
+# Dingodinium spinosum (Duxbury, 1977) Davey, 1979 SPECIES
 
 #### Status
 ACCEPTED

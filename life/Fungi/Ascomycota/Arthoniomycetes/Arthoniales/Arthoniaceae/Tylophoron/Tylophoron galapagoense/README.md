@@ -1,5 +1,4 @@
-Tylophoron galapagoense Bungartz, Ertz, Diederich & Tibell SPECIES
-=======
+# Tylophoron galapagoense Bungartz, Ertz, Diederich & Tibell SPECIES
 
 #### Status
 ACCEPTED

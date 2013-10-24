@@ -1,14 +1,13 @@
-Leptosphaerulina carinthiaca (Petr.) Crivelli, 1983 SPECIES
-=======
+# Wettsteinina carinthiaca Petr., 1955 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ueber die Heterogene Ascomycetengattung Pleospora Rabh. ; Vorschlag für eine Aufteilung (Diss. Eid genössischen Technischen Hochschule Zürich <b>7318</b>) 139 (1983)
+Sydowia 9: 577 (1955)
 
 #### Original name
 Wettsteinina carinthiaca Petr., 1955

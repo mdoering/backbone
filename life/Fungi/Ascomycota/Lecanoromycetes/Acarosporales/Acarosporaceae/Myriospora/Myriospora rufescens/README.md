@@ -1,5 +1,4 @@
-Myriospora rufescens (Ach.) Nägeli SPECIES
-=======
+# Myriospora rufescens (Ach.) Nägeli SPECIES
 
 #### Status
 ACCEPTED

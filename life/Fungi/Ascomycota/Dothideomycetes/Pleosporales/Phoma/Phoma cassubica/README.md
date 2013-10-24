@@ -1,5 +1,4 @@
-Phoma cassubica Sacc. SPECIES
-=======
+# Phoma cassubica Sacc. SPECIES
 
 #### Status
 ACCEPTED

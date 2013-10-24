@@ -1,5 +1,4 @@
-Chaetosphaeria tropicalis F.A. Fernández & Huhndorf SPECIES
-=======
+# Chaetosphaeria tropicalis F.A. Fernández & Huhndorf SPECIES
 
 #### Status
 ACCEPTED

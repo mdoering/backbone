@@ -1,5 +1,4 @@
-Marasmius barombiensis Henn. SPECIES
-=======
+# Marasmius barombiensis Henn. SPECIES
 
 #### Status
 ACCEPTED

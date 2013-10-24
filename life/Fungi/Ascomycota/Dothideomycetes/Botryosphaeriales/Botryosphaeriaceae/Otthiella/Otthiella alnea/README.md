@@ -1,5 +1,4 @@
-Otthiella alnea (Peck) Sacc. & D. Sacc. SPECIES
-=======
+# Otthiella alnea (Peck) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

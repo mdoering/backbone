@@ -1,5 +1,4 @@
-Aspicilia persica (Müll. Arg.) Sohrabi SPECIES
-=======
+# Aspicilia persica (Müll. Arg.) Sohrabi SPECIES
 
 #### Status
 ACCEPTED

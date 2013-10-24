@@ -1,17 +1,16 @@
-Lycoperdon aurantium var. aurantium VARIETY
-=======
+# Scleroderma citrinum Pers., 1801 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sp. pl. 2: 1053 (1753)
+Syn. meth. fung. (Göttingen) 1: 153 (1801)
 
 #### Original name
-Lycoperdon aurantium var. aurantium
+Scleroderma citrinum Pers., 1801
 
 ### Remarks
 null

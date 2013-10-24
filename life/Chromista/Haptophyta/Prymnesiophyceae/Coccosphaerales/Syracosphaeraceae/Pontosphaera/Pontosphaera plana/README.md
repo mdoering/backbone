@@ -1,5 +1,4 @@
-Pontosphaera plana (Bramlette & Sullivan, 1961) Haq, 1971 SPECIES
-=======
+# Pontosphaera plana (Bramlette & Sullivan, 1961) Haq, 1971 SPECIES
 
 #### Status
 ACCEPTED

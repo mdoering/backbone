@@ -1,5 +1,4 @@
-Ocellularia wirthii Mangold, Elix & Lumbsch SPECIES
-=======
+# Ocellularia wirthii Mangold, Elix & Lumbsch SPECIES
 
 #### Status
 ACCEPTED

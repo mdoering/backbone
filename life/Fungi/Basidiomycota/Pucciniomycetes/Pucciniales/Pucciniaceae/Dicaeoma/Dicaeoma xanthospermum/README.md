@@ -1,5 +1,4 @@
-Dicaeoma xanthospermum (Syd. & P. Syd.) Syd. SPECIES
-=======
+# Dicaeoma xanthospermum (Syd. & P. Syd.) Syd. SPECIES
 
 #### Status
 ACCEPTED

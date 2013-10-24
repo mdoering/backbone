@@ -1,5 +1,4 @@
-Cercospora kolkwitziae W.W. Ray SPECIES
-=======
+# Cercospora kolkwitziae W.W. Ray SPECIES
 
 #### Status
 ACCEPTED

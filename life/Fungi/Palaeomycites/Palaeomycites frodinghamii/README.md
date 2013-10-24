@@ -1,5 +1,4 @@
-Palaeomycites frodinghamii (D. Ellis) Kalgutkar & Janson. SPECIES
-=======
+# Palaeomycites frodinghamii (D. Ellis) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

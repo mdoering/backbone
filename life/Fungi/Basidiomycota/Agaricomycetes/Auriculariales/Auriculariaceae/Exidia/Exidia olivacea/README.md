@@ -1,5 +1,4 @@
-Exidia olivacea Pat. SPECIES
-=======
+# Exidia olivacea Pat. SPECIES
 
 #### Status
 ACCEPTED

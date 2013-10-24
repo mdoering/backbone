@@ -1,5 +1,4 @@
-Cortinarius fillionii Bidaud, Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius fillionii Bidaud, Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

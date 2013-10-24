@@ -1,17 +1,16 @@
-Cercospora alpinicola S.Q. Chen & P.K. Chi SPECIES
-=======
+# Cercospora alpiniicola S.Q. Chen & P.K. Chi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Journal of South China Agricultural University 11(3): 57 (1990)
 
 #### Original name
-Cercospora alpinicola S.Q. Chen & P.K. Chi
+Cercospora alpiniicola S.Q. Chen & P.K. Chi
 
 ### Remarks
 null

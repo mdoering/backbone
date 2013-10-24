@@ -1,5 +1,4 @@
-Biatorella polackiana (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Biatorella polackiana (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

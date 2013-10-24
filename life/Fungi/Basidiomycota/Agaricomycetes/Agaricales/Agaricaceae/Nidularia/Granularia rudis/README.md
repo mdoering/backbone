@@ -1,5 +1,4 @@
-Granularia rudis Peck SPECIES
-=======
+# Granularia rudis Peck SPECIES
 
 #### Status
 ACCEPTED

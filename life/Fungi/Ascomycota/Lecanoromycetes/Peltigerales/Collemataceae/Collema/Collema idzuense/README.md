@@ -1,5 +1,4 @@
-Collema idzuense subsp. idzuense SUBSPECIES
-=======
+# Collema idzuense Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Collema idzuense subsp. idzuense
+Collema idzuense Zahlbr.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Truncicola copiosa Velen. SPECIES
-=======
+# Truncicola copiosa Velen. SPECIES
 
 #### Status
 ACCEPTED

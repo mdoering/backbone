@@ -1,5 +1,4 @@
-Cyphellophora vermispora A. Walz & de Hoog, 1987 SPECIES
-=======
+# Cyphellophora vermispora A. Walz & de Hoog, 1987 SPECIES
 
 #### Status
 ACCEPTED

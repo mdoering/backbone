@@ -1,5 +1,4 @@
-Anisomeridium nyssaegenum (Ellis & Everh.) R. C. Harris SPECIES
-=======
+# Anisomeridium nyssaegenum (Ellis & Everh.) R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

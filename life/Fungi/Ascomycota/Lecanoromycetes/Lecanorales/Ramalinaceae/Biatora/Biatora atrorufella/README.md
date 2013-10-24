@@ -1,5 +1,4 @@
-Biatora atrorufella (Nyl.) Arnold SPECIES
-=======
+# Biatora atrorufella (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kretzschmaria knysnana Van der Byl SPECIES
-=======
+# Kretzschmaria knysnana Van der Byl SPECIES
 
 #### Status
 ACCEPTED

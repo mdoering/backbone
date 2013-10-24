@@ -1,5 +1,4 @@
-Megaloblastenia marginiflexa var. marginiflexa VARIETY
-=======
+# Megaloblastenia marginiflexa (Hook. f. & Taylor) Sipman SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Biblthca Lichenol. 18: 89 (1983)
 
 #### Original name
-Megaloblastenia marginiflexa var. marginiflexa
+Lecidea marginiflexa
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Scytinostroma africanogalactinum Boidin, Lanq. & Gilles, 1987 SPECIES
-=======
+# Scytinostroma africanogalactinum Boidin, Lanq. & Gilles, 1987 SPECIES
 
 #### Status
 ACCEPTED

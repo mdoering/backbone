@@ -1,5 +1,4 @@
-Clitocybe niveicolor Murrill SPECIES
-=======
+# Clitocybe niveicolor Murrill SPECIES
 
 #### Status
 ACCEPTED

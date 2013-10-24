@@ -1,5 +1,4 @@
-Cortinarius lilacinovelatus Reumaux & Ramm SPECIES
-=======
+# Cortinarius lilacinovelatus Reumaux & Ramm SPECIES
 
 #### Status
 ACCEPTED

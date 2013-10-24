@@ -1,5 +1,4 @@
-Aphanostigme eupatorii M.K. Khan SPECIES
-=======
+# Aphanostigme eupatorii M.K. Khan SPECIES
 
 #### Status
 ACCEPTED

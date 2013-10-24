@@ -1,5 +1,4 @@
-Stagonospora triodiae Petr., 1947 SPECIES
-=======
+# Stagonospora triodiae Petr., 1947 SPECIES
 
 #### Status
 ACCEPTED

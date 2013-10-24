@@ -1,5 +1,4 @@
-Bacillus anthracis Cohn, 1872 (Approved Lists, 1980) SPECIES
-=======
+# Bacillus anthracis Cohn, 1872 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

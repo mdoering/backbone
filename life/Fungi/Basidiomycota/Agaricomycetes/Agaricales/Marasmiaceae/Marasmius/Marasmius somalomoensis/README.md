@@ -1,5 +1,4 @@
-Marasmius somalomoensis Antonín SPECIES
-=======
+# Marasmius somalomoensis Antonín SPECIES
 
 #### Status
 ACCEPTED

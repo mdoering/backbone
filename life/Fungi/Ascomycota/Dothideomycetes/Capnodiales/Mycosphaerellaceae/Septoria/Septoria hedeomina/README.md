@@ -1,5 +1,4 @@
-Septoria hedeomina Peck SPECIES
-=======
+# Septoria hedeomina Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus peronatus Schulzer SPECIES
-=======
+# Polyporus peronatus Schulzer SPECIES
 
 #### Status
 ACCEPTED

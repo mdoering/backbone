@@ -1,5 +1,4 @@
-Puccinia cenchri var. cenchri VARIETY
-=======
+# Puccinia cenchri Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 in Holway, Bot. Gaz. 24: 28 (1897)
 
 #### Original name
-Puccinia cenchri var. cenchri
+Puccinia cenchri Dietel & Holw.
 
 ### Remarks
 null

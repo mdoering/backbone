@@ -1,5 +1,4 @@
-Auricularia syringae Fuckel SPECIES
-=======
+# Auricularia syringae Fuckel SPECIES
 
 #### Status
 ACCEPTED

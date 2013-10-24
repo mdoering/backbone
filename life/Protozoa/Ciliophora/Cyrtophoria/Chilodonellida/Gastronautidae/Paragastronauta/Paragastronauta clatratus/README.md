@@ -1,8 +1,7 @@
-Gastronauta clatratus Deroux, 1976 SPECIES
-=======
+# Paragastronauta clatratus (Deroux, 1976) Foissner, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

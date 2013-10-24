@@ -1,5 +1,4 @@
-Catenularia hughesii N.D. Sharma SPECIES
-=======
+# Catenularia hughesii N.D. Sharma SPECIES
 
 #### Status
 ACCEPTED

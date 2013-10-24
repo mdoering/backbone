@@ -1,5 +1,4 @@
-Cistella japonica Y. Suto & Tak. Kobay. SPECIES
-=======
+# Cistella japonica Y. Suto & Tak. Kobay. SPECIES
 
 #### Status
 ACCEPTED

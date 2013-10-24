@@ -1,5 +1,4 @@
-Actinocyclus ellipticus Grunow SPECIES
-=======
+# Actinocyclus ellipticus Grunow SPECIES
 
 #### Status
 ACCEPTED

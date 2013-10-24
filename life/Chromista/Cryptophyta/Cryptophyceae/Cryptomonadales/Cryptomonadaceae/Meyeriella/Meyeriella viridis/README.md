@@ -1,5 +1,4 @@
-Meyeriella viridis B. V. Skvortzov SPECIES
-=======
+# Meyeriella viridis B. V. Skvortzov SPECIES
 
 #### Status
 ACCEPTED

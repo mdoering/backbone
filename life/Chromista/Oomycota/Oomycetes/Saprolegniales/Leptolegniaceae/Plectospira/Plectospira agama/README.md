@@ -1,5 +1,4 @@
-Plectospira agama Drechsler, 1953 SPECIES
-=======
+# Plectospira agama Drechsler, 1953 SPECIES
 
 #### Status
 ACCEPTED

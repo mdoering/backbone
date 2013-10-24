@@ -1,5 +1,4 @@
-Seynesia humiriae Henn. SPECIES
-=======
+# Seynesia humiriae Henn. SPECIES
 
 #### Status
 ACCEPTED

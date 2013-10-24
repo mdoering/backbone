@@ -1,5 +1,4 @@
-Crocynia africana Hue SPECIES
-=======
+# Crocynia africana Hue SPECIES
 
 #### Status
 ACCEPTED

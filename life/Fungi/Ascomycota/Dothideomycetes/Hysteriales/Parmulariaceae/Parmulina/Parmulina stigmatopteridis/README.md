@@ -1,5 +1,4 @@
-Parmulina stigmatopteridis (Ferd. & Winge) Theiss. & Syd. SPECIES
-=======
+# Parmulina stigmatopteridis (Ferd. & Winge) Theiss. & Syd. SPECIES
 
 #### Status
 ACCEPTED

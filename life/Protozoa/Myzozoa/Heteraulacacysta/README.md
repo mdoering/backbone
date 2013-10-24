@@ -1,5 +1,4 @@
-Heteraulacacysta Drugg & Loeblich, Jr. GENUS
-=======
+# Heteraulacacysta Drugg & Loeblich, Jr. GENUS
 
 #### Status
 ACCEPTED

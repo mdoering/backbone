@@ -1,5 +1,4 @@
-Cochlodinium platycorne Daday SPECIES
-=======
+# Cochlodinium platycorne Daday SPECIES
 
 #### Status
 ACCEPTED

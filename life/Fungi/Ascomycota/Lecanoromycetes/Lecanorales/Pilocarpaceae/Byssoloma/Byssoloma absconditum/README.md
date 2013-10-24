@@ -1,5 +1,4 @@
-Byssoloma absconditum Farkas & Vezda SPECIES
-=======
+# Byssoloma absconditum Farkas & Vezda SPECIES
 
 #### Status
 ACCEPTED

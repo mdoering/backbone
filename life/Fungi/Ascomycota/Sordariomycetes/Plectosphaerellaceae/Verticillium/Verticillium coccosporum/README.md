@@ -1,14 +1,13 @@
-Paecilomyces coccosporus (Drechsler) A.H.S. Br. & G. Sm., 1957 SPECIES
-=======
+# Verticillium coccosporum (Drechsler) W. Gams, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 40: 74 (1957)
+Neth. Jl Pl. Path. 94(3): 136 (1988)
 
 #### Original name
 Spicaria coccospora Drechsler, 1941

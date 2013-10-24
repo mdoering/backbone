@@ -1,5 +1,4 @@
-Trichormus (Bornet & Flahault) J. Komárek & K. Anagnostidis, 1989 GENUS
-=======
+# Trichormus (Bornet & Flahault) J. Komárek & K. Anagnostidis, 1989 GENUS
 
 #### Status
 ACCEPTED

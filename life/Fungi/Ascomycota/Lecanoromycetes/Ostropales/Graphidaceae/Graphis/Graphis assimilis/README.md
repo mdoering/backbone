@@ -1,5 +1,4 @@
-Graphis assimilis Nyl. SPECIES
-=======
+# Graphis assimilis Nyl. SPECIES
 
 #### Status
 ACCEPTED

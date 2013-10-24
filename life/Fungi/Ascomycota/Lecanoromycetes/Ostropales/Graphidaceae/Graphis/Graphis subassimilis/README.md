@@ -1,5 +1,4 @@
-Graphis subassimilis Müll. Arg. SPECIES
-=======
+# Graphis subassimilis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

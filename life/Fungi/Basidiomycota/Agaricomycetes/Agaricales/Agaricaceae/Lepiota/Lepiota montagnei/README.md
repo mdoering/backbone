@@ -1,5 +1,4 @@
-Lepiota montagnei Kalchbr. SPECIES
-=======
+# Lepiota montagnei Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

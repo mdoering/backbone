@@ -1,5 +1,4 @@
-Potomacus Thompson, 1966 GENUS
-=======
+# Potomacus Thompson, 1966 GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Placynthium caesitium f. caesitium FORM
-=======
+# Placynthium garovaglii (A. Massal.) Malme SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Placynthium caesitium f. caesitium
+null
 
 ### Remarks
 null

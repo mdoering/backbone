@@ -1,5 +1,4 @@
-Neisseria Trevisan, 1885 GENUS
-=======
+# Neisseria Trevisan, 1885 GENUS
 
 #### Status
 ACCEPTED

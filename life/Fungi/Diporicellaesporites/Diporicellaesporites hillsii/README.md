@@ -1,5 +1,4 @@
-Diporicellaesporites hillsii Kalgutkar SPECIES
-=======
+# Diporicellaesporites hillsii Kalgutkar SPECIES
 
 #### Status
 ACCEPTED

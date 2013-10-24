@@ -1,5 +1,4 @@
-Didymella catalpae Hollós SPECIES
-=======
+# Didymella catalpae Hollós SPECIES
 
 #### Status
 ACCEPTED

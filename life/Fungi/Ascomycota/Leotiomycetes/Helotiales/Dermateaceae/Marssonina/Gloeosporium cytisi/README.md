@@ -1,5 +1,4 @@
-Gloeosporium cytisi Berk. & Broome SPECIES
-=======
+# Gloeosporium cytisi Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

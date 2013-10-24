@@ -1,5 +1,4 @@
-Microceratium orstomii A. Sournia SPECIES
-=======
+# Microceratium orstomii A. Sournia SPECIES
 
 #### Status
 ACCEPTED

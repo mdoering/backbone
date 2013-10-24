@@ -1,5 +1,4 @@
-Arnium mendax N. Lundq., 1972 SPECIES
-=======
+# Arnium mendax N. Lundq., 1972 SPECIES
 
 #### Status
 ACCEPTED

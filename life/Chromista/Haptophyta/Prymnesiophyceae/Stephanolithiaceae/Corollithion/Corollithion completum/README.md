@@ -1,5 +1,4 @@
-Corollithion completum Perch-Nielsen, 1973 SPECIES
-=======
+# Corollithion completum Perch-Nielsen, 1973 SPECIES
 
 #### Status
 ACCEPTED

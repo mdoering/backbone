@@ -1,5 +1,4 @@
-Spathidium cetiforme Alekperov, 1984 SPECIES
-=======
+# Spathidium cetiforme Alekperov, 1984 SPECIES
 
 #### Status
 ACCEPTED

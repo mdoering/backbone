@@ -1,5 +1,4 @@
-Lachnum hypothallosum Velen. SPECIES
-=======
+# Lachnum hypothallosum Velen. SPECIES
 
 #### Status
 ACCEPTED

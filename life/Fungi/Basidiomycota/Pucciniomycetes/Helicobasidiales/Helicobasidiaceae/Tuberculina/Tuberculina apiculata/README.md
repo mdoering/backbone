@@ -1,5 +1,4 @@
-Tuberculina apiculata Sacc. SPECIES
-=======
+# Tuberculina apiculata Sacc. SPECIES
 
 #### Status
 ACCEPTED

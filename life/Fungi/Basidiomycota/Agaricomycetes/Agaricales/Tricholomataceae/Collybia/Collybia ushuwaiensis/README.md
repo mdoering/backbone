@@ -1,8 +1,7 @@
-Collybia ushuvaiensis Speg. SPECIES
-=======
+# Collybia ushuwaiensis Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

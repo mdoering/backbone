@@ -1,5 +1,4 @@
-Linhartia GENUS
-=======
+# Linhartia GENUS
 
 #### Status
 ACCEPTED

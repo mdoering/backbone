@@ -1,5 +1,4 @@
-Geoglossum album Johnson {?} SPECIES
-=======
+# Geoglossum album Johnson {?} SPECIES
 
 #### Status
 ACCEPTED

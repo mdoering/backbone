@@ -1,5 +1,4 @@
-Pleistophora duodecimae Lom, Gaevskaya & Dyková, 1980 SPECIES
-=======
+# Pleistophora duodecimae Lom, Gaevskaya & Dyková, 1980 SPECIES
 
 #### Status
 ACCEPTED

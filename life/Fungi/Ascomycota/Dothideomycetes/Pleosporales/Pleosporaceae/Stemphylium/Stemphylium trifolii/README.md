@@ -1,5 +1,4 @@
-Stemphylium trifolii J.H. Graham SPECIES
-=======
+# Stemphylium trifolii J.H. Graham SPECIES
 
 #### Status
 ACCEPTED

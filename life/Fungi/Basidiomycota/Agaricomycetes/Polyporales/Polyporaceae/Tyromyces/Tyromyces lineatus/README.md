@@ -1,5 +1,4 @@
-Tyromyces lineatus (Overh.) J. Lowe SPECIES
-=======
+# Tyromyces lineatus (Overh.) J. Lowe SPECIES
 
 #### Status
 ACCEPTED

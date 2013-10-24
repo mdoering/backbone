@@ -1,5 +1,4 @@
-Oxytoxum spinosum Rampi SPECIES
-=======
+# Oxytoxum spinosum Rampi SPECIES
 
 #### Status
 ACCEPTED

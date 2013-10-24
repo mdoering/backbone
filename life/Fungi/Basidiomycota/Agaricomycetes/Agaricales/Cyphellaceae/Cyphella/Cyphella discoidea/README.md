@@ -1,5 +1,4 @@
-Cyphella discoidea Cooke, 1883 SPECIES
-=======
+# Cyphella discoidea Cooke, 1883 SPECIES
 
 #### Status
 ACCEPTED

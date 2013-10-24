@@ -1,5 +1,4 @@
-Spiniferomonas triangularis P. A. Siver SPECIES
-=======
+# Spiniferomonas triangularis P. A. Siver SPECIES
 
 #### Status
 ACCEPTED

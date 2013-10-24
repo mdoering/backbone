@@ -1,5 +1,4 @@
-Camillea cyclops Mont. SPECIES
-=======
+# Camillea cyclops Mont. SPECIES
 
 #### Status
 ACCEPTED

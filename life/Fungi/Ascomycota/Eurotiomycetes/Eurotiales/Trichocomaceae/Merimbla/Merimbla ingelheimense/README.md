@@ -1,5 +1,4 @@
-Merimbla ingelheimense (J.F.H. Beyma) Pitt SPECIES
-=======
+# Merimbla ingelheimense (J.F.H. Beyma) Pitt SPECIES
 
 #### Status
 ACCEPTED

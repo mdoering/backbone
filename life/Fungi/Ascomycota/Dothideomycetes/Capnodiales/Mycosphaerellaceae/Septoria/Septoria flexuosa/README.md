@@ -1,5 +1,4 @@
-Septoria flexuosa Penz. SPECIES
-=======
+# Septoria flexuosa Penz. SPECIES
 
 #### Status
 ACCEPTED

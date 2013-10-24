@@ -1,5 +1,4 @@
-Arthonia subgracilis Müll. Arg. SPECIES
-=======
+# Arthonia subgracilis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

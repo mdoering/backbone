@@ -1,5 +1,4 @@
-Porina aluniticola P.M. McCarthy, 1993 SPECIES
-=======
+# Porina aluniticola P.M. McCarthy, 1993 SPECIES
 
 #### Status
 DOUBTFUL

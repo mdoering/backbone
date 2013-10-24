@@ -1,5 +1,4 @@
-Paradiplodiella macrosperma Zambett. SPECIES
-=======
+# Paradiplodiella macrosperma Zambett. SPECIES
 
 #### Status
 ACCEPTED

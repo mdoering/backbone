@@ -1,5 +1,4 @@
-Thielavia basicola Zopf, 1871 SPECIES
-=======
+# Thielavia basicola Zopf, 1871 SPECIES
 
 #### Status
 ACCEPTED

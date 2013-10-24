@@ -1,5 +1,4 @@
-Balladyna amazonica Höhn. SPECIES
-=======
+# Balladyna amazonica Höhn. SPECIES
 
 #### Status
 ACCEPTED

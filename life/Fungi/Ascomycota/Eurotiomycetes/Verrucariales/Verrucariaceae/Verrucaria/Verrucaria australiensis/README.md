@@ -1,5 +1,4 @@
-Verrucaria australiensis P. M. McCarthy SPECIES
-=======
+# Verrucaria australiensis P. M. McCarthy SPECIES
 
 #### Status
 ACCEPTED

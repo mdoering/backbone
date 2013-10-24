@@ -1,5 +1,4 @@
-Caeoma chrysoides Schltdl. SPECIES
-=======
+# Caeoma chrysoides Schltdl. SPECIES
 
 #### Status
 ACCEPTED

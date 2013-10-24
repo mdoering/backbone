@@ -1,5 +1,4 @@
-Lycoperdon anemones Pult. {?} SPECIES
-=======
+# Lycoperdon anemones Pult. {?} SPECIES
 
 #### Status
 ACCEPTED

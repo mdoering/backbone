@@ -1,5 +1,4 @@
-Dictyocha crux f. parva Bachmann FORM
-=======
+# Dictyocha crux Ehrenberg SPECIES
 
 #### Status
 ACCEPTED

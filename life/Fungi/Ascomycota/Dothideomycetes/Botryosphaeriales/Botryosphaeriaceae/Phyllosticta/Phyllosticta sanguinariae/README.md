@@ -1,5 +1,4 @@
-Phyllosticta sanguinariae G. Winter SPECIES
-=======
+# Phyllosticta sanguinariae G. Winter SPECIES
 
 #### Status
 ACCEPTED

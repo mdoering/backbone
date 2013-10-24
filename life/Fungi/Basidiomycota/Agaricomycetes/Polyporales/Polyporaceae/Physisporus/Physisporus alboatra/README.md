@@ -1,5 +1,4 @@
-Physisporus alboatra P. Karst. SPECIES
-=======
+# Physisporus alboatra P. Karst. SPECIES
 
 #### Status
 ACCEPTED

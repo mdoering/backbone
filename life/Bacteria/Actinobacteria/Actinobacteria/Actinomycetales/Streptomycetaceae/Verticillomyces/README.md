@@ -1,5 +1,4 @@
-Verticillomyces Shinobu, 1965 GENUS
-=======
+# Verticillomyces Shinobu, 1965 GENUS
 
 #### Status
 ACCEPTED

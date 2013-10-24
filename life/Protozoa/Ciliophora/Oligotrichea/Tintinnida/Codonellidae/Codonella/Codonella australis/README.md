@@ -1,5 +1,4 @@
-Codonella australis Kofoid & Campbell, 1929 SPECIES
-=======
+# Codonella australis Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

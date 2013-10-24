@@ -1,5 +1,4 @@
-Lecanora crateriformis Chaub. SPECIES
-=======
+# Lecanora crateriformis Chaub. SPECIES
 
 #### Status
 ACCEPTED

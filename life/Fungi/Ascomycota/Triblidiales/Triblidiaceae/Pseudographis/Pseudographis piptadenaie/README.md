@@ -1,5 +1,4 @@
-Pseudographis piptadenaie Bat., Nascim. & Cif. SPECIES
-=======
+# Pseudographis piptadenaie Bat., Nascim. & Cif. SPECIES
 
 #### Status
 ACCEPTED

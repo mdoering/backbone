@@ -1,17 +1,16 @@
-Reinkella lirelliana Darb. SPECIES
-=======
+# Reinkella lirellina Darb. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Herb. Boissier 5: 764 (1897)
 
 #### Original name
-Reinkella lirelliana Darb.
+Reinkella lirellina Darb.
 
 ### Remarks
 null

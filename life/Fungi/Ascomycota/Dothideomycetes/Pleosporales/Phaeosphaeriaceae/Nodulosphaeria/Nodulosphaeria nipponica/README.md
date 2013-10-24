@@ -1,5 +1,4 @@
-Nodulosphaeria nipponica Otani & Mikawa SPECIES
-=======
+# Nodulosphaeria nipponica Otani & Mikawa SPECIES
 
 #### Status
 ACCEPTED

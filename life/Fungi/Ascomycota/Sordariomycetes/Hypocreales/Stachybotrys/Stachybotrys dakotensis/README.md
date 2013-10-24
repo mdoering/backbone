@@ -1,5 +1,4 @@
-Stachybotrys dakotensis Sacc. SPECIES
-=======
+# Stachybotrys dakotensis Sacc. SPECIES
 
 #### Status
 ACCEPTED

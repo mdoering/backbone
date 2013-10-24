@@ -1,5 +1,4 @@
-Parathelium oblongulum (Müll. Arg.) Stizenb. SPECIES
-=======
+# Parathelium oblongulum (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

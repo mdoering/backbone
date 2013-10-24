@@ -1,5 +1,4 @@
-Glarea Bills & F. Paláez GENUS
-=======
+# Glarea Bills & F. Paláez GENUS
 
 #### Status
 ACCEPTED

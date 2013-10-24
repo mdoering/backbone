@@ -1,5 +1,4 @@
-Agaricus abortivus Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus abortivus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

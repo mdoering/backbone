@@ -1,5 +1,4 @@
-Ovulitis azaleae N.F. Buchw., 1970 SPECIES
-=======
+# Ovulitis azaleae N.F. Buchw., 1970 SPECIES
 
 #### Status
 ACCEPTED

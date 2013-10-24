@@ -1,5 +1,4 @@
-Trematosphaeria maquilingiana var. maquilingiana VARIETY
-=======
+# Trematosphaeria maquilingiana Rehm SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Trematosphaeria maquilingiana var. maquilingiana
+Trematosphaeria maquilingiana Rehm
 
 ### Remarks
 null

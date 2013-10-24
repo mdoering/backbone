@@ -1,5 +1,4 @@
-Trapezopentus F.H.Wind & P.Cepek, 1979 GENUS
-=======
+# Trapezopentus F.H.Wind & P.Cepek, 1979 GENUS
 
 #### Status
 ACCEPTED

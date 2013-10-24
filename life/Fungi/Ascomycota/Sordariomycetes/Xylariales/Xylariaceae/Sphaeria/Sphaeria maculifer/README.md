@@ -1,5 +1,4 @@
-Sphaeria maculifer Heer SPECIES
-=======
+# Sphaeria maculifer Heer SPECIES
 
 #### Status
 ACCEPTED

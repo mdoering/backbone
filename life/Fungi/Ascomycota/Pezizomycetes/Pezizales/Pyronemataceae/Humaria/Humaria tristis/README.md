@@ -1,5 +1,4 @@
-Humaria tristis E. Bommer, M. Rousseau & Sacc. SPECIES
-=======
+# Humaria tristis E. Bommer, M. Rousseau & Sacc. SPECIES
 
 #### Status
 ACCEPTED

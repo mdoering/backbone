@@ -1,5 +1,4 @@
-Stephanodiscus ponticus A. P. Jousé SPECIES
-=======
+# Stephanodiscus ponticus A. P. Jousé SPECIES
 
 #### Status
 ACCEPTED

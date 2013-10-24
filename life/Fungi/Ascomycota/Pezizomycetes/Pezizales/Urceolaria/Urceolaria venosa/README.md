@@ -1,5 +1,4 @@
-Urceolaria venosa Motyka SPECIES
-=======
+# Urceolaria venosa Motyka SPECIES
 
 #### Status
 ACCEPTED

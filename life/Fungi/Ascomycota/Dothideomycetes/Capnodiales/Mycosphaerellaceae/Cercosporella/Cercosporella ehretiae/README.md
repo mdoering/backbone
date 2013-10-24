@@ -1,5 +1,4 @@
-Cercosporella ehretiae Sawada SPECIES
-=======
+# Cercosporella ehretiae Sawada SPECIES
 
 #### Status
 ACCEPTED

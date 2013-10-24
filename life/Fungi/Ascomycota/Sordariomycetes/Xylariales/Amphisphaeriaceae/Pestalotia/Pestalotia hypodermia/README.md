@@ -1,5 +1,4 @@
-Pestalotia hypodermia (Niessl) Höhn. SPECIES
-=======
+# Pestalotia hypodermia (Niessl) Höhn. SPECIES
 
 #### Status
 ACCEPTED

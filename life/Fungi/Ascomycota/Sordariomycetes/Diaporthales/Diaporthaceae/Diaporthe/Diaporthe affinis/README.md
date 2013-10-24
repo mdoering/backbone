@@ -1,5 +1,4 @@
-Diaporthe affinis Voglino SPECIES
-=======
+# Diaporthe affinis Voglino SPECIES
 
 #### Status
 ACCEPTED

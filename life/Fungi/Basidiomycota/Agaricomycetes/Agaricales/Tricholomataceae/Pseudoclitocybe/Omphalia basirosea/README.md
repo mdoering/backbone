@@ -1,5 +1,4 @@
-Omphalia basirosea Rick SPECIES
-=======
+# Omphalia basirosea Rick SPECIES
 
 #### Status
 ACCEPTED

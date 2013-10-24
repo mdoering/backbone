@@ -1,5 +1,4 @@
-Pararotalia socorroensis McCulloch, 1977 SPECIES
-=======
+# Pararotalia socorroensis McCulloch, 1977 SPECIES
 
 #### Status
 ACCEPTED

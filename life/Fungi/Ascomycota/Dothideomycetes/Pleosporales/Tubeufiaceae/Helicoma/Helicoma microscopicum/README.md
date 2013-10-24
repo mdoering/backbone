@@ -1,5 +1,4 @@
-Helicoma microscopicum (Ellis) Linder SPECIES
-=======
+# Helicoma microscopicum (Ellis) Linder SPECIES
 
 #### Status
 ACCEPTED

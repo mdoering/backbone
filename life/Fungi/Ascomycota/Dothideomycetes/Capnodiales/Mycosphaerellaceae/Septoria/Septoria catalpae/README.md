@@ -1,5 +1,4 @@
-Septoria catalpae Sacc. SPECIES
-=======
+# Septoria catalpae Sacc. SPECIES
 
 #### Status
 ACCEPTED

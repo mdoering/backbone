@@ -1,5 +1,4 @@
-Stilbospora celtidis T.S. Ramakr. & Sundaram SPECIES
-=======
+# Stilbospora celtidis T.S. Ramakr. & Sundaram SPECIES
 
 #### Status
 ACCEPTED

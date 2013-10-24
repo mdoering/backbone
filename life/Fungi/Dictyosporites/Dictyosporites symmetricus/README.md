@@ -1,5 +1,4 @@
-Dictyosporites symmetricus (V.S. Ediger) Kalgutkar & Janson. SPECIES
-=======
+# Dictyosporites symmetricus (V.S. Ediger) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

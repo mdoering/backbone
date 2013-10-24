@@ -1,5 +1,4 @@
-Elsinoë adeniae Hansf. SPECIES
-=======
+# Elsinoë adeniae Hansf. SPECIES
 
 #### Status
 ACCEPTED

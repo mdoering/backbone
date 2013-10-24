@@ -1,5 +1,4 @@
-Pleospora vinosa Kirschst. SPECIES
-=======
+# Pleospora vinosa Kirschst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Disolenia Ehrenberg, 1861 GENUS
-=======
+# Disolenia Ehrenberg, 1861 GENUS
 
 #### Status
 ACCEPTED

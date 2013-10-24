@@ -1,5 +1,4 @@
-Cassidelina Saidova, 1975 GENUS
-=======
+# Cassidelina Saidova, 1975 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bathyascus vermisporus Kohlm., 1977 SPECIES
-=======
+# Bathyascus vermisporus Kohlm., 1977 SPECIES
 
 #### Status
 ACCEPTED

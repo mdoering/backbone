@@ -1,5 +1,4 @@
-Peltigera extenuata (Nyl.) Vain. SPECIES
-=======
+# Peltigera extenuata (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria spilota Lév. SPECIES
-=======
+# Sphaeria spilota Lév. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria alliina Woron. SPECIES
-=======
+# Septoria alliina Woron. SPECIES
 
 #### Status
 ACCEPTED

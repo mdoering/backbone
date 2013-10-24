@@ -1,5 +1,4 @@
-Arsenophonus Gherna, Werren, Weisburg, Cote, Woese, Mandelco & Brenner, 1991 GENUS
-=======
+# Arsenophonus Gherna, Werren, Weisburg, Cote, Woese, Mandelco & Brenner, 1991 GENUS
 
 #### Status
 ACCEPTED

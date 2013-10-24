@@ -1,5 +1,4 @@
-Rinodina jamesii H. Mayrhofer SPECIES
-=======
+# Rinodina jamesii H. Mayrhofer SPECIES
 
 #### Status
 ACCEPTED

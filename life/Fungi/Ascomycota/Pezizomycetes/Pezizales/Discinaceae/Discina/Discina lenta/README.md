@@ -1,5 +1,4 @@
-Discina lenta Starbäck SPECIES
-=======
+# Discina lenta Starbäck SPECIES
 
 #### Status
 ACCEPTED

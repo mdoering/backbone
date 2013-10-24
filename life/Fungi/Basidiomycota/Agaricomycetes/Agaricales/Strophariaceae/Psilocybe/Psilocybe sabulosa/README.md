@@ -1,5 +1,4 @@
-Psilocybe sabulosa Peck, 1897 SPECIES
-=======
+# Psilocybe sabulosa Peck, 1897 SPECIES
 
 #### Status
 ACCEPTED

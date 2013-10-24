@@ -1,17 +1,16 @@
-Dermatocarpon daedaleum f. daedaleum FORM
-=======
+# Catapyrenium daedaleum (Kremp.) Stein SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Cohn, Krypt. -Fl. Schlesien (Breslau) 2(2): 312 (1879)
 
 #### Original name
-Dermatocarpon daedaleum f. daedaleum
+Endocarpon daedaleum Kremp.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pharcidia diaboli Vain. SPECIES
-=======
+# Pharcidia diaboli Vain. SPECIES
 
 #### Status
 ACCEPTED

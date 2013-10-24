@@ -1,5 +1,4 @@
-Hypoxylonites ellipsoideus Sal.-Cheb. SPECIES
-=======
+# Hypoxylonites ellipsoideus Sal.-Cheb. SPECIES
 
 #### Status
 ACCEPTED

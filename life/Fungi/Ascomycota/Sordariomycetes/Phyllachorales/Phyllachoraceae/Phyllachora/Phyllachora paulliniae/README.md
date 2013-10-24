@@ -1,5 +1,4 @@
-Phyllachora paulliniae Petr., 1955 SPECIES
-=======
+# Phyllachora paulliniae Petr., 1955 SPECIES
 
 #### Status
 ACCEPTED

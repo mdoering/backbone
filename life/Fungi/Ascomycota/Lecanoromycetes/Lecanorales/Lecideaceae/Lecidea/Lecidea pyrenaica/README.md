@@ -1,5 +1,4 @@
-Lecidea pyrenaica SPECIES
-=======
+# Lecidea pyrenaica SPECIES
 
 #### Status
 ACCEPTED

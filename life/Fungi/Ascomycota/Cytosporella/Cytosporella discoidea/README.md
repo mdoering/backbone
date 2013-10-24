@@ -1,5 +1,4 @@
-Cytosporella discoidea Petch SPECIES
-=======
+# Cytosporella discoidea Petch SPECIES
 
 #### Status
 ACCEPTED

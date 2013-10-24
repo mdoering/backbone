@@ -1,5 +1,4 @@
-Caloplaca sancta Poelt & Hinter. SPECIES
-=======
+# Caloplaca sancta Poelt & Hinter. SPECIES
 
 #### Status
 ACCEPTED

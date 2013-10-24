@@ -1,14 +1,13 @@
-Pindara terrestris Velen., 1934 SPECIES
-=======
+# Helvella terrestris (Velen.) Landvik, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monogr. Discom. Bohem. (Prague) 341 (1934)
+in Landvik, Kristiansen & Schumacher, Mycologia 91(2): 283 (1999)
 
 #### Original name
 Pindara terrestris Velen., 1934

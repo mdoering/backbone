@@ -1,5 +1,4 @@
-Schismatomma elaeocarpum (Nyl.) Zahlbr. SPECIES
-=======
+# Schismatomma elaeocarpum (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

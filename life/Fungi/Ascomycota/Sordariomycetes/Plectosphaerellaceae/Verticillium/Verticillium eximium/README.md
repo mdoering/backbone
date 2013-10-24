@@ -1,5 +1,4 @@
-Verticillium eximium Berk. SPECIES
-=======
+# Verticillium eximium Berk. SPECIES
 
 #### Status
 ACCEPTED

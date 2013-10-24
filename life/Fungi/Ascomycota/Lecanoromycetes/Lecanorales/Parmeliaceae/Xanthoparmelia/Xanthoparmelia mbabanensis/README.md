@@ -1,5 +1,4 @@
-Xanthoparmelia mbabanensis Hale SPECIES
-=======
+# Xanthoparmelia mbabanensis Hale SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Biatora intricata Hepp SPECIES
-=======
+# Biatora intricata Hepp SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Toninia imbricata (Mont.) Arnold SPECIES
-=======
+# Toninia imbricata (Mont.) Arnold SPECIES
 
 #### Status
 ACCEPTED

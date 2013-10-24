@@ -1,17 +1,16 @@
-Camarosporium salsolicolum Woron. SPECIES
-=======
+# Camarosporium salsolicola Woron. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Izvestiya Kavkaz. Muz. 9: 19 (1915)
 
 #### Original name
-Camarosporium salsolicolum Woron.
+Camarosporium salsolicola Woron.
 
 ### Remarks
 null

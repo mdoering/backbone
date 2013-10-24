@@ -1,5 +1,4 @@
-Cladosporium extorre Sacc., 1920 SPECIES
-=======
+# Cladosporium extorre Sacc., 1920 SPECIES
 
 #### Status
 ACCEPTED

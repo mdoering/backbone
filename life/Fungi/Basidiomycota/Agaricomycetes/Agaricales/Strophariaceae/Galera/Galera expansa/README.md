@@ -1,5 +1,4 @@
-Galera expansa Peck SPECIES
-=======
+# Galera expansa Peck SPECIES
 
 #### Status
 ACCEPTED

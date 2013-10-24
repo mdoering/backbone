@@ -1,5 +1,4 @@
-Pythium citrinum B. Paul SPECIES
-=======
+# Pythium citrinum B. Paul SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acarospora lucida H. Magn. SPECIES
-=======
+# Acarospora lucida H. Magn. SPECIES
 
 #### Status
 ACCEPTED

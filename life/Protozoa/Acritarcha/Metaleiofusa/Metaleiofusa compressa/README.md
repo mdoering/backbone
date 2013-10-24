@@ -1,5 +1,4 @@
-Metaleiofusa compressa Schön, 1967 SPECIES
-=======
+# Metaleiofusa compressa Schön, 1967 SPECIES
 
 #### Status
 ACCEPTED

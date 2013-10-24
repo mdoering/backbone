@@ -1,5 +1,4 @@
-Halomethanococcus doii Yu & Kawamura, 1988 SPECIES
-=======
+# Halomethanococcus doii Yu & Kawamura, 1988 SPECIES
 
 #### Status
 ACCEPTED

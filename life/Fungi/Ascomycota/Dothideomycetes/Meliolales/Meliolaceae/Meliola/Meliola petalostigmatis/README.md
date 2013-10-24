@@ -1,5 +1,4 @@
-Meliola petalostigmatis Hansf. SPECIES
-=======
+# Meliola petalostigmatis Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Usnea brunnescens C.W. Dodge SPECIES
-=======
+# Usnea brunnescens C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

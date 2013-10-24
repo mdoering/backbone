@@ -1,5 +1,4 @@
-Cetraria xizangensis J.C. Wei & Y.M. Jiang SPECIES
-=======
+# Cetraria xizangensis J.C. Wei & Y.M. Jiang SPECIES
 
 #### Status
 ACCEPTED

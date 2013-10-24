@@ -1,5 +1,4 @@
-Aecidium ephediae Speg. SPECIES
-=======
+# Aecidium ephediae Speg. SPECIES
 
 #### Status
 ACCEPTED

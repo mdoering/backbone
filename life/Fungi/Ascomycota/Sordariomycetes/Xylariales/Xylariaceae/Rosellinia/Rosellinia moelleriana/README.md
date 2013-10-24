@@ -1,5 +1,4 @@
-Rosellinia moelleriana f. moelleriana FORM
-=======
+# Rosellinia moelleriana Henn. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Rosellinia moelleriana f. moelleriana
+Rosellinia moelleriana Henn.
 
 ### Remarks
 null

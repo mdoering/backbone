@@ -1,5 +1,4 @@
-Dinophysis thompsonii (Wood, 1954) Balech, 1967 SPECIES
-=======
+# Dinophysis thompsonii (Wood, 1954) Balech, 1967 SPECIES
 
 #### Status
 ACCEPTED

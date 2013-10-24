@@ -1,5 +1,4 @@
-Guttulina lactea SPECIES
-=======
+# Guttulina lactea SPECIES
 
 #### Status
 ACCEPTED

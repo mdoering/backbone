@@ -1,5 +1,4 @@
-Filaspora nicaeaensis (Thüm.) Kuntze SPECIES
-=======
+# Filaspora nicaeaensis (Thüm.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Agaricus gracilis var. gracilis VARIETY
-=======
+# Psathyrella gracilis (Fr.) Quél., 1872 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mém. Soc. Émul. Montbéliard, Sér. 2 5: 122 (1872)
 
 #### Original name
-null
+Agaricus gracilis Fr., 1821
 
 ### Remarks
 null

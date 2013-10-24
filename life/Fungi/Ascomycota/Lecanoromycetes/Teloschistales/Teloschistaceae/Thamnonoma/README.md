@@ -1,5 +1,4 @@
-Thamnonoma GENUS
-=======
+# Thamnonoma GENUS
 
 #### Status
 ACCEPTED

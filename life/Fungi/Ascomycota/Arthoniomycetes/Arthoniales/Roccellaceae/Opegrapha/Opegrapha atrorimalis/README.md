@@ -1,5 +1,4 @@
-Opegrapha atrorimalis Nyl. SPECIES
-=======
+# Opegrapha atrorimalis Nyl. SPECIES
 
 #### Status
 ACCEPTED

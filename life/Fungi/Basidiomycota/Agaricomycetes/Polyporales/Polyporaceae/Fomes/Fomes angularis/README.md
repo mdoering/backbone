@@ -1,5 +1,4 @@
-Fomes angularis Lloyd SPECIES
-=======
+# Fomes angularis Lloyd SPECIES
 
 #### Status
 ACCEPTED

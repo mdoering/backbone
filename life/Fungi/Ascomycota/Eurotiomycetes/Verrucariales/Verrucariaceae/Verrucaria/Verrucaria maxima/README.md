@@ -1,5 +1,4 @@
-Verrucaria maxima DC. SPECIES
-=======
+# Verrucaria maxima DC. SPECIES
 
 #### Status
 ACCEPTED

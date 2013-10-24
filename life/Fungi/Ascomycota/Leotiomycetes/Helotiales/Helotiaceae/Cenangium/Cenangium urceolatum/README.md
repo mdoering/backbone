@@ -1,5 +1,4 @@
-Cenangium urceolatum Ellis SPECIES
-=======
+# Cenangium urceolatum Ellis SPECIES
 
 #### Status
 ACCEPTED

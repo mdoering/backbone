@@ -1,17 +1,16 @@
-Irpex cervinus var. cervinus Rick VARIETY
-=======
+# Cystidiodontia laminifera (Berk. & M.A. Curtis) Hjortstam, 1990 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Egatea 17: 211 (1932)
+Mycotaxon 39: 416 (1990)
 
 #### Original name
-Irpex cervinus var. cervinus Rick
+Hydnum laminiferum Berk. & M.A. Curtis, 1868
 
 ### Remarks
 null

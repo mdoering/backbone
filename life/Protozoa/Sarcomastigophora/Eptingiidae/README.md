@@ -1,5 +1,4 @@
-Eptingiidae Dumitrica, 1978 FAMILY
-=======
+# Eptingiidae Dumitrica, 1978 FAMILY
 
 #### Status
 ACCEPTED

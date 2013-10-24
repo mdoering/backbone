@@ -1,5 +1,4 @@
-Foveodiporites bimucronatus (Sal.-Cheb. & Locq.) Kalgutkar & Janson. SPECIES
-=======
+# Foveodiporites bimucronatus (Sal.-Cheb. & Locq.) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

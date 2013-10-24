@@ -1,5 +1,4 @@
-Labyrintha implexa Malcolm, Elix & Owe-Larss. SPECIES
-=======
+# Labyrintha implexa Malcolm, Elix & Owe-Larss. SPECIES
 
 #### Status
 ACCEPTED

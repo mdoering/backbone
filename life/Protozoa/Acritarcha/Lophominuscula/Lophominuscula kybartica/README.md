@@ -1,5 +1,4 @@
-Lophominuscula kybartica Jankauskas, 1976 SPECIES
-=======
+# Lophominuscula kybartica Jankauskas, 1976 SPECIES
 
 #### Status
 ACCEPTED

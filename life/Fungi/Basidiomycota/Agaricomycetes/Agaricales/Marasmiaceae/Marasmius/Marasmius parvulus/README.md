@@ -1,5 +1,4 @@
-Marasmius parvulus (Lév.) Sacc. SPECIES
-=======
+# Marasmius parvulus (Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

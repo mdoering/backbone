@@ -1,5 +1,4 @@
-Dicaeoma boutelouae (H.S. Jenn.) Arthur SPECIES
-=======
+# Dicaeoma boutelouae (H.S. Jenn.) Arthur SPECIES
 
 #### Status
 ACCEPTED

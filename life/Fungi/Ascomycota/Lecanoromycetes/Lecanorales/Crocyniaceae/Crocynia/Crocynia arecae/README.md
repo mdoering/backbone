@@ -1,5 +1,4 @@
-Crocynia arecae A. Massal. SPECIES
-=======
+# Crocynia arecae A. Massal. SPECIES
 
 #### Status
 ACCEPTED

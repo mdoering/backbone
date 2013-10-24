@@ -1,5 +1,4 @@
-Loktanella vestfoldensis Van Trappen et al., 2004 SPECIES
-=======
+# Loktanella vestfoldensis Van Trappen et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

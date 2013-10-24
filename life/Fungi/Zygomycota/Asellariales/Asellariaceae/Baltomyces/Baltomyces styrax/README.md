@@ -1,5 +1,4 @@
-Baltomyces styrax Cafaro, 1999 SPECIES
-=======
+# Baltomyces styrax Cafaro, 1999 SPECIES
 
 #### Status
 ACCEPTED

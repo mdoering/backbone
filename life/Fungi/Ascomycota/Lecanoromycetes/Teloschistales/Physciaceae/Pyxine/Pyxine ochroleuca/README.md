@@ -1,5 +1,4 @@
-Pyxine ochroleuca SPECIES
-=======
+# Pyxine ochroleuca SPECIES
 
 #### Status
 ACCEPTED

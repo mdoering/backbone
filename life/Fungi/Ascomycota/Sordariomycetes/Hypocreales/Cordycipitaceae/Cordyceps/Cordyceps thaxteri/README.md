@@ -1,5 +1,4 @@
-Cordyceps thaxteri Mains SPECIES
-=======
+# Cordyceps thaxteri Mains SPECIES
 
 #### Status
 ACCEPTED

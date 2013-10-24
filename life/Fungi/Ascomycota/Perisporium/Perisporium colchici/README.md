@@ -1,5 +1,4 @@
-Perisporium colchici Rabenh. SPECIES
-=======
+# Perisporium colchici Rabenh. SPECIES
 
 #### Status
 ACCEPTED

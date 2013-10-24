@@ -1,8 +1,7 @@
-Bacteroides pneumosintes (Olitsky and Gates, 1921) Holdeman and Moore, 1970 (Approved Lists, 1980) SPECIES
-=======
+# Dialister pneumosintes (Olitsky & Gates, 1921) Moore & Moore, 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

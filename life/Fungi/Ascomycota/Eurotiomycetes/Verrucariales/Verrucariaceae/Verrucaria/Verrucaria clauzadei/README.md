@@ -1,5 +1,4 @@
-Verrucaria clauzadei B. de Lesd. SPECIES
-=======
+# Verrucaria clauzadei B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

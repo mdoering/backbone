@@ -1,5 +1,4 @@
-Phytomyxa cycadicola Speg. SPECIES
-=======
+# Phytomyxa cycadicola Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophosphaeridium tynnii Hagenfeldt, 1989 SPECIES
-=======
+# Lophosphaeridium tynnii Hagenfeldt, 1989 SPECIES
 
 #### Status
 ACCEPTED

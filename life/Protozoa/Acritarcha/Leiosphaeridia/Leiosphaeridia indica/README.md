@@ -1,5 +1,4 @@
-Leiosphaeridia indica Lele & Chandra, 1972 SPECIES
-=======
+# Leiosphaeridia indica Lele & Chandra, 1972 SPECIES
 
 #### Status
 ACCEPTED

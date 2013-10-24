@@ -1,5 +1,4 @@
-Ballocephala verrucospora M.J. Richardson, 1970 SPECIES
-=======
+# Ballocephala verrucospora M.J. Richardson, 1970 SPECIES
 
 #### Status
 ACCEPTED

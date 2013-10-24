@@ -1,5 +1,4 @@
-Leptosphaeria argentina Speg. SPECIES
-=======
+# Leptosphaeria argentina Speg. SPECIES
 
 #### Status
 ACCEPTED

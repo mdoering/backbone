@@ -1,5 +1,4 @@
-Lophiostoma maculans Fabre SPECIES
-=======
+# Lophiostoma maculans Fabre SPECIES
 
 #### Status
 ACCEPTED

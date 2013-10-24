@@ -1,5 +1,4 @@
-Retisphaeridium postae (Jankauskas in Volkova et al., 1979) Vanguestaine in Brück & Vanguestaine, 2004 SPECIES
-=======
+# Retisphaeridium postae (Jankauskas in Volkova et al., 1979) Vanguestaine in Brück & Vanguestaine, 2004 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrophoma cupressi (Cooke & Harkn.) Berl. & Voglino SPECIES
-=======
+# Macrophoma cupressi (Cooke & Harkn.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidia deposita (Nyl.) Zahlbr. SPECIES
-=======
+# Bacidia deposita (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

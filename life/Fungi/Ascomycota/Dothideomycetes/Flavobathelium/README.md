@@ -1,5 +1,4 @@
-Flavobathelium Lücking, Aptroot & G. Thor GENUS
-=======
+# Flavobathelium Lücking, Aptroot & G. Thor GENUS
 
 #### Status
 ACCEPTED

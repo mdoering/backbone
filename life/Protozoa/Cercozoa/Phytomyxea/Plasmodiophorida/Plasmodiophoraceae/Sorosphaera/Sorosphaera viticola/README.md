@@ -1,5 +1,4 @@
-Sorosphaera viticola Kirchm., Neuh. & L. Huber, 2005 SPECIES
-=======
+# Sorosphaera viticola Kirchm., Neuh. & L. Huber, 2005 SPECIES
 
 #### Status
 ACCEPTED

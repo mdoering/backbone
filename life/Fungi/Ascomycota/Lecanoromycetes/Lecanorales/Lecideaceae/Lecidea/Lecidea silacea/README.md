@@ -1,14 +1,13 @@
-Lecidea lapicida f. silacea (Hoffm.) Nyl. FORM
-=======
+# Lecidea silacea (Hoffm.) Ach. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Act. Soc. linn. Bordeaux, sér. A 21: 378 (1856)
+Method. Lich. 48 (1803)
 
 #### Original name
 null

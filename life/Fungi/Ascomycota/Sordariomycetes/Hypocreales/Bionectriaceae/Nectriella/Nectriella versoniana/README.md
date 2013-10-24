@@ -1,5 +1,4 @@
-Nectriella versoniana Sacc. & Penz., 1881 SPECIES
-=======
+# Nectriella versoniana Sacc. & Penz., 1881 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marssonina graminicola (Ellis & Everh.) Magnus SPECIES
-=======
+# Marssonina graminicola (Ellis & Everh.) Magnus SPECIES
 
 #### Status
 ACCEPTED

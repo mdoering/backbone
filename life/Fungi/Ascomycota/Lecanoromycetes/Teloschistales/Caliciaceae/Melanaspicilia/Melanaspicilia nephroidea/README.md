@@ -1,5 +1,4 @@
-Melanaspicilia nephroidea SPECIES
-=======
+# Melanaspicilia nephroidea SPECIES
 
 #### Status
 ACCEPTED

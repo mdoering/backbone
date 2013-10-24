@@ -1,5 +1,4 @@
-Acrodictys corniculata R.F. Castañeda SPECIES
-=======
+# Acrodictys corniculata R.F. Castañeda SPECIES
 
 #### Status
 ACCEPTED

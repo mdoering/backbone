@@ -1,5 +1,4 @@
-Gloeocapsa conspicua Reinsch SPECIES
-=======
+# Gloeocapsa conspicua Reinsch SPECIES
 
 #### Status
 ACCEPTED

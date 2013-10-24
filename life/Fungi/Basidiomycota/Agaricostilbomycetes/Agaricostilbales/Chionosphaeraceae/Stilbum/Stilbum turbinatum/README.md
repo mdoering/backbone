@@ -1,5 +1,4 @@
-Stilbum turbinatum Tode SPECIES
-=======
+# Stilbum turbinatum Tode SPECIES
 
 #### Status
 ACCEPTED

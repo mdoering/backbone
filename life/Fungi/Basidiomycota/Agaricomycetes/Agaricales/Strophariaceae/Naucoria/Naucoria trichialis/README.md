@@ -1,5 +1,4 @@
-Naucoria trichialis Lév. SPECIES
-=======
+# Naucoria trichialis Lév. SPECIES
 
 #### Status
 ACCEPTED

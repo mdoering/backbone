@@ -1,5 +1,4 @@
-Sowerbyella polaripustulata J. Moravec, 1985 SPECIES
-=======
+# Sowerbyella polaripustulata J. Moravec, 1985 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Symphyocarpus Rosenvinge, 1893 GENUS
-=======
+# Symphyocarpus Rosenvinge, 1893 GENUS
 
 #### Status
 ACCEPTED

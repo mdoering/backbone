@@ -1,5 +1,4 @@
-Greletia marchica Benkert & J. Moravec SPECIES
-=======
+# Greletia marchica Benkert & J. Moravec SPECIES
 
 #### Status
 ACCEPTED

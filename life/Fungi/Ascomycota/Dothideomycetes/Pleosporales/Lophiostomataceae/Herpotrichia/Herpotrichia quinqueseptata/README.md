@@ -1,5 +1,4 @@
-Herpotrichia quinqueseptata Weir SPECIES
-=======
+# Herpotrichia quinqueseptata Weir SPECIES
 
 #### Status
 ACCEPTED

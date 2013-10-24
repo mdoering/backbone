@@ -1,5 +1,4 @@
-Delitschia arestospora Luck-Allen & Cain SPECIES
-=======
+# Delitschia arestospora Luck-Allen & Cain SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Penicillium subtile Berk., 1841 SPECIES
-=======
+# Penicillium subtile Berk., 1841 SPECIES
 
 #### Status
 DOUBTFUL

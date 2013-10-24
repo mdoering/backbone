@@ -1,17 +1,16 @@
-Puccinia degener Mains & Holw. SPECIES
-=======
+# Puccinia degeneris Mains & Holw. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Am. J. Bot. 5: 482 (1918)
 
 #### Original name
-Puccinia degener Mains & Holw.
+Puccinia degeneris Mains & Holw.
 
 ### Remarks
 null

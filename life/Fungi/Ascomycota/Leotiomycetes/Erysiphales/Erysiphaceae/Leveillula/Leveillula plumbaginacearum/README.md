@@ -1,5 +1,4 @@
-Leveillula plumbaginacearum Golovin SPECIES
-=======
+# Leveillula plumbaginacearum Golovin SPECIES
 
 #### Status
 ACCEPTED

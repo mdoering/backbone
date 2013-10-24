@@ -1,17 +1,16 @@
-Chrysobostrychodes G. Kost GENUS
-=======
+# Chrysomphalina Clémençon GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Z. Mykol. 51(2): 246 (1985)
+Z. Mykol. 48(2): 202 (1982)
 
 #### Original name
-Chrysobostrychodes G. Kost
+Chrysomphalina Clémençon
 
 ### Remarks
 null

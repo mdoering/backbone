@@ -1,5 +1,4 @@
-Lepiota abruptibulba Murrill SPECIES
-=======
+# Lepiota abruptibulba Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramalina filicaulis G.N. Stevens SPECIES
-=======
+# Ramalina filicaulis G.N. Stevens SPECIES
 
 #### Status
 ACCEPTED

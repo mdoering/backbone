@@ -1,5 +1,4 @@
-Microthyrium inconspicuum J.P. Ellis, 1977 SPECIES
-=======
+# Microthyrium inconspicuum J.P. Ellis, 1977 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gyalectella humilis J. Lahm SPECIES
-=======
+# Gyalectella humilis J. Lahm SPECIES
 
 #### Status
 ACCEPTED

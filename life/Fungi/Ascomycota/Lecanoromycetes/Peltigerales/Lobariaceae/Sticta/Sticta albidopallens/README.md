@@ -1,5 +1,4 @@
-Sticta albidopallens (Vain.) Zahlbr. SPECIES
-=======
+# Sticta albidopallens (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

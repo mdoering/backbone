@@ -1,5 +1,4 @@
-Phaeographis ramosoconnexa (Vain.) Zahlbr. SPECIES
-=======
+# Phaeographis ramosoconnexa (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

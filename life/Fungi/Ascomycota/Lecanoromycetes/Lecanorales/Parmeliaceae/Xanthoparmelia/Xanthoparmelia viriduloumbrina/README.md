@@ -1,5 +1,4 @@
-Xanthoparmelia viriduloumbrina (Gyeln.) Lendemer SPECIES
-=======
+# Xanthoparmelia viriduloumbrina (Gyeln.) Lendemer SPECIES
 
 #### Status
 ACCEPTED

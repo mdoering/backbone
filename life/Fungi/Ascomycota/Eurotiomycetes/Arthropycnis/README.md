@@ -1,5 +1,4 @@
-Arthropycnis Constant. GENUS
-=======
+# Arthropycnis Constant. GENUS
 
 #### Status
 ACCEPTED

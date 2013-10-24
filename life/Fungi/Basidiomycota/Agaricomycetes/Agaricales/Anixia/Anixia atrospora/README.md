@@ -1,5 +1,4 @@
-Anixia atrospora Pat. SPECIES
-=======
+# Anixia atrospora Pat. SPECIES
 
 #### Status
 ACCEPTED

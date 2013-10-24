@@ -1,5 +1,4 @@
-Candida patagonica Sangorrín, C.A. Lopes, Belloch, Querol & A.C. Caball. SPECIES
-=======
+# Candida patagonica Sangorrín, C.A. Lopes, Belloch, Querol & A.C. Caball. SPECIES
 
 #### Status
 ACCEPTED

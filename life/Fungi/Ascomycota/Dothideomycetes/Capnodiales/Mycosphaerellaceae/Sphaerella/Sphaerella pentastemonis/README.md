@@ -1,5 +1,4 @@
-Sphaerella pentastemonis (Tracy & Earle) Sacc. & P. Syd. SPECIES
-=======
+# Sphaerella pentastemonis (Tracy & Earle) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

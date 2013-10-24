@@ -1,5 +1,4 @@
-Peronospora salicorniae Enkina SPECIES
-=======
+# Peronospora salicorniae Enkina SPECIES
 
 #### Status
 ACCEPTED

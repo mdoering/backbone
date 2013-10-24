@@ -1,5 +1,4 @@
-Caloplaca tenella (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Caloplaca tenella (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

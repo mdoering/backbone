@@ -1,5 +1,4 @@
-Vorticella procumbens Fromentel, 1876 SPECIES
-=======
+# Vorticella procumbens Fromentel, 1876 SPECIES
 
 #### Status
 ACCEPTED

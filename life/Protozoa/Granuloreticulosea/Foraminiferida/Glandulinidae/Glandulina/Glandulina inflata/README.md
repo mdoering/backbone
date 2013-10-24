@@ -1,5 +1,4 @@
-Glandulina inflata Costa, 1853 SPECIES
-=======
+# Glandulina inflata Costa, 1853 SPECIES
 
 #### Status
 ACCEPTED

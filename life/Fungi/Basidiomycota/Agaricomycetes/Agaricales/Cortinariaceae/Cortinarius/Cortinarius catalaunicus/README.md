@@ -1,5 +1,4 @@
-Cortinarius catalaunicus Melot SPECIES
-=======
+# Cortinarius catalaunicus Melot SPECIES
 
 #### Status
 ACCEPTED

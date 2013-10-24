@@ -1,5 +1,4 @@
-Cashia limacoides SPECIES
-=======
+# Cashia limacoides SPECIES
 
 #### Status
 ACCEPTED

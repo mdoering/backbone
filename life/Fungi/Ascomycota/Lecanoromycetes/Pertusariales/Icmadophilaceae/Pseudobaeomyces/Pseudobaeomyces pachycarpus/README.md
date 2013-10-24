@@ -1,5 +1,4 @@
-Pseudobaeomyces pachycarpus var. pachycarpus VARIETY
-=======
+# Pseudobaeomyces pachycarpus (Müll. Arg.) M. Satô SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pseudobaeomyces pachycarpus var. pachycarpus
+Lecania pachycarpa Müll. Arg.
 
 ### Remarks
 null

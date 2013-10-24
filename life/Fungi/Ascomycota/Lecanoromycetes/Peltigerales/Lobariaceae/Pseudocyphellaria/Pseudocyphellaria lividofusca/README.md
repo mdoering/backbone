@@ -1,5 +1,4 @@
-Pseudocyphellaria lividofusca (Kremp.) D.J. Galloway & P. James SPECIES
-=======
+# Pseudocyphellaria lividofusca (Kremp.) D.J. Galloway & P. James SPECIES
 
 #### Status
 ACCEPTED

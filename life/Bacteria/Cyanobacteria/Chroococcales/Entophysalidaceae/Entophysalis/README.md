@@ -1,5 +1,4 @@
-Entophysalis Kutzing, 1843 GENUS
-=======
+# Entophysalis Kutzing, 1843 GENUS
 
 #### Status
 ACCEPTED

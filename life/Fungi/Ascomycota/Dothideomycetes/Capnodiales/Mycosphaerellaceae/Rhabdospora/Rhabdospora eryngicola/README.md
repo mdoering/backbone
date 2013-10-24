@@ -1,5 +1,4 @@
-Rhabdospora eryngicola Oudem., Syd. & P. Syd. SPECIES
-=======
+# Rhabdospora eryngicola Oudem., Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

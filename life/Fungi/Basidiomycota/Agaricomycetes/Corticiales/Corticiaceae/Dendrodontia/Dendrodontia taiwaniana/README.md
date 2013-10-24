@@ -1,5 +1,4 @@
-Dendrodontia taiwaniana H.C. Wang & Sheng H. Wu, 2010 SPECIES
-=======
+# Dendrodontia taiwaniana H.C. Wang & Sheng H. Wu, 2010 SPECIES
 
 #### Status
 ACCEPTED

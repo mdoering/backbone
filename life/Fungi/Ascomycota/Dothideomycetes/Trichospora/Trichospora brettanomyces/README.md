@@ -1,5 +1,4 @@
-Trichospora brettanomyces ined. SPECIES
-=======
+# Trichospora brettanomyces ined. SPECIES
 
 #### Status
 ACCEPTED

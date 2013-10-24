@@ -1,5 +1,4 @@
-Pleospora eustegia (Cooke) Sacc., 1883 SPECIES
-=======
+# Pleospora eustegia (Cooke) Sacc., 1883 SPECIES
 
 #### Status
 ACCEPTED

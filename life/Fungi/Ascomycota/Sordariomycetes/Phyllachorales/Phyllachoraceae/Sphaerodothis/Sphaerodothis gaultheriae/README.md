@@ -1,5 +1,4 @@
-Sphaerodothis gaultheriae Petr., 1963 SPECIES
-=======
+# Sphaerodothis gaultheriae Petr., 1963 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dothidella smilacicola Rehm SPECIES
-=======
+# Dothidella smilacicola Rehm SPECIES
 
 #### Status
 ACCEPTED

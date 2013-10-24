@@ -1,5 +1,4 @@
-Sarcopodium saccardianum Gaja SPECIES
-=======
+# Sarcopodium saccardianum Gaja SPECIES
 
 #### Status
 ACCEPTED

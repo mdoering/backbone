@@ -1,5 +1,4 @@
-Eutypa andicola Speg. SPECIES
-=======
+# Eutypa andicola Speg. SPECIES
 
 #### Status
 ACCEPTED

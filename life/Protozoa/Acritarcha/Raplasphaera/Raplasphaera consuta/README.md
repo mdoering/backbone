@@ -1,5 +1,4 @@
-Raplasphaera consuta Uutela & Tynni, 1991 SPECIES
-=======
+# Raplasphaera consuta Uutela & Tynni, 1991 SPECIES
 
 #### Status
 ACCEPTED

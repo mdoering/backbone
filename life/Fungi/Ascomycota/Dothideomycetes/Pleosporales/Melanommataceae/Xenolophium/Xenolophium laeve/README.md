@@ -1,5 +1,4 @@
-Xenolophium laeve Syd. SPECIES
-=======
+# Xenolophium laeve Syd. SPECIES
 
 #### Status
 ACCEPTED

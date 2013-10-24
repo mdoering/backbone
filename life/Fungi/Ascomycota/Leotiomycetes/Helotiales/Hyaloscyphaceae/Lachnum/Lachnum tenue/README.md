@@ -1,5 +1,4 @@
-Lachnum tenue Velen. SPECIES
-=======
+# Lachnum tenue Velen. SPECIES
 
 #### Status
 ACCEPTED

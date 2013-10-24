@@ -1,5 +1,4 @@
-Phyllosticta polygonorum Sacc., 1878 SPECIES
-=======
+# Phyllosticta polygonorum Sacc., 1878 SPECIES
 
 #### Status
 ACCEPTED

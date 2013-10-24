@@ -1,5 +1,4 @@
-Fusoma caldariorum var. caldariorum VARIETY
-=======
+# Fusoma caldariorum SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Fusoma caldariorum var. caldariorum
+Fusoma caldariorum
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lactarius maitlyensis K. Das, J.R. Sharma & Verbeken SPECIES
-=======
+# Lactarius maitlyensis K. Das, J.R. Sharma & Verbeken SPECIES
 
 #### Status
 ACCEPTED

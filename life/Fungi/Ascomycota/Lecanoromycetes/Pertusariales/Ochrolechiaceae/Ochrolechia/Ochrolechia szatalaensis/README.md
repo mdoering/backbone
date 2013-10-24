@@ -1,5 +1,4 @@
-Ochrolechia szatalaensis var. macrospora Verseghy VARIETY
-=======
+# Ochrolechia szatalaensis Verseghy SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Annls hist. -nat. Mus. natn. hung. 50: 80 (1958)
 
 #### Original name
-Ochrolechia szatalaensis var. macrospora Verseghy
+Ochrolechia szatalaensis Verseghy
 
 ### Remarks
 null

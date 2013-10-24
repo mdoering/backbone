@@ -1,5 +1,4 @@
-Pendulomonas Tong, 1997 GENUS
-=======
+# Pendulomonas Tong, 1997 GENUS
 
 #### Status
 ACCEPTED

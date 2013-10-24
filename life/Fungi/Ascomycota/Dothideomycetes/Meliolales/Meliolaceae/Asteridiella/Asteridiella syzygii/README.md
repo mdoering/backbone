@@ -1,5 +1,4 @@
-Asteridiella syzygii (Hansf.) Hansf. SPECIES
-=======
+# Asteridiella syzygii (Hansf.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

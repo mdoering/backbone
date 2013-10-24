@@ -1,5 +1,4 @@
-Corticium utriculicum G. Cunn., 1954 SPECIES
-=======
+# Corticium utriculicum G. Cunn., 1954 SPECIES
 
 #### Status
 ACCEPTED

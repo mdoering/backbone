@@ -1,5 +1,4 @@
-Usnea aspera (Eschw.) Vain. SPECIES
-=======
+# Usnea aspera (Eschw.) Vain. SPECIES
 
 #### Status
 ACCEPTED

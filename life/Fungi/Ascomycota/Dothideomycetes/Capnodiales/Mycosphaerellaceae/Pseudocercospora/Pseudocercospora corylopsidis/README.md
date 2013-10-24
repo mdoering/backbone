@@ -1,5 +1,4 @@
-Pseudocercospora corylopsidis (Togashi & Katsuki) C. Nakash. & Tak. Kobay. SPECIES
-=======
+# Pseudocercospora corylopsidis (Togashi & Katsuki) C. Nakash. & Tak. Kobay. SPECIES
 
 #### Status
 ACCEPTED

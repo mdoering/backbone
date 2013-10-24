@@ -1,5 +1,4 @@
-Marasmius scototephrodes Singer SPECIES
-=======
+# Marasmius scototephrodes Singer SPECIES
 
 #### Status
 ACCEPTED

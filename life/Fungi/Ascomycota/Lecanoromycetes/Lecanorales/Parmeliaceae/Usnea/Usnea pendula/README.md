@@ -1,5 +1,4 @@
-Usnea pendula March. {?} SPECIES
-=======
+# Usnea pendula March. {?} SPECIES
 
 #### Status
 ACCEPTED

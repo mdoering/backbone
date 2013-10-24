@@ -1,5 +1,4 @@
-Marasmius cystidiosus (A.H. Sm. & Hesler) Gilliam SPECIES
-=======
+# Marasmius cystidiosus (A.H. Sm. & Hesler) Gilliam SPECIES
 
 #### Status
 ACCEPTED

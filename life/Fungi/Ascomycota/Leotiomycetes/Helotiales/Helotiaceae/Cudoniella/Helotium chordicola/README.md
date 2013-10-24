@@ -1,5 +1,4 @@
-Helotium chordicola Speg. SPECIES
-=======
+# Helotium chordicola Speg. SPECIES
 
 #### Status
 ACCEPTED

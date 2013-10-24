@@ -1,5 +1,4 @@
-Lecidea endocyanella Zahlbr. SPECIES
-=======
+# Lecidea endocyanella Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Saturnispora ahearnii Kurtzman, 1991 SPECIES
-=======
+# Saturnispora ahearnii Kurtzman, 1991 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectria conferta Syd. {?} SPECIES
-=======
+# Nectria conferta Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

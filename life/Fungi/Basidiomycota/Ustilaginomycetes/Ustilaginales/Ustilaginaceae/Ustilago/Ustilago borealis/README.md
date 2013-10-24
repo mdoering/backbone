@@ -1,5 +1,4 @@
-Ustilago borealis (G.P. Clinton) Cif. SPECIES
-=======
+# Ustilago borealis (G.P. Clinton) Cif. SPECIES
 
 #### Status
 ACCEPTED

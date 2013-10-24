@@ -1,8 +1,7 @@
-Chaetosphaeria exilis (Schwein.) Sacc., 1891 SPECIES
-=======
+# Sphaeria exilis Schwein. ex Cooke, 1887 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

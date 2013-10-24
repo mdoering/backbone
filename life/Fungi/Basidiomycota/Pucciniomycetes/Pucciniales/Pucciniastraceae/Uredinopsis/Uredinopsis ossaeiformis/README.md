@@ -1,5 +1,4 @@
-Uredinopsis ossaeiformis Kamei SPECIES
-=======
+# Uredinopsis ossaeiformis Kamei SPECIES
 
 #### Status
 ACCEPTED

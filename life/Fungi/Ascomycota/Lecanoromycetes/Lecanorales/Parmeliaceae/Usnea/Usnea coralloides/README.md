@@ -1,5 +1,4 @@
-Usnea coralloides Wallr. SPECIES
-=======
+# Usnea coralloides Wallr. SPECIES
 
 #### Status
 ACCEPTED

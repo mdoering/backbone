@@ -1,5 +1,4 @@
-Pyrgillus substipitatus Vain. SPECIES
-=======
+# Pyrgillus substipitatus Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laboulbenia malaysiana K. Sugiy. & Mochiz. SPECIES
-=======
+# Laboulbenia malaysiana K. Sugiy. & Mochiz. SPECIES
 
 #### Status
 ACCEPTED

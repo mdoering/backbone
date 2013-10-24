@@ -1,17 +1,16 @@
-Stagonospora schoeni Nann. SPECIES
-=======
+# Stagonospora schoenii Nann. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Atti R. Accad. Fisiocrit. Siena, Sér. 10 2(7-8): 440 (1928)
 
 #### Original name
-Stagonospora schoeni Nann.
+Stagonospora schoenii Nann.
 
 ### Remarks
 null

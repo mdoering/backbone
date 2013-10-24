@@ -1,5 +1,4 @@
-Aedycia sulcata (Cooke & Massee) Kuntze SPECIES
-=======
+# Aedycia sulcata (Cooke & Massee) Kuntze SPECIES
 
 #### Status
 ACCEPTED

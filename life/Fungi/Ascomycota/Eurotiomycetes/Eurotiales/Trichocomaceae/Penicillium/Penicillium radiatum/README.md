@@ -1,5 +1,4 @@
-Penicillium radiatum Lindner SPECIES
-=======
+# Penicillium radiatum Lindner SPECIES
 
 #### Status
 ACCEPTED

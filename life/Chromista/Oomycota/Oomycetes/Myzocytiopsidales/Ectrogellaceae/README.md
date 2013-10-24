@@ -1,5 +1,4 @@
-Ectrogellaceae Cejp FAMILY
-=======
+# Ectrogellaceae Cejp FAMILY
 
 #### Status
 ACCEPTED

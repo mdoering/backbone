@@ -1,5 +1,4 @@
-Sclerostagonospora salsolae (Moesz) Schwarcz., Vajna & Bruckart SPECIES
-=======
+# Sclerostagonospora salsolae (Moesz) Schwarcz., Vajna & Bruckart SPECIES
 
 #### Status
 ACCEPTED

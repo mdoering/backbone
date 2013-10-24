@@ -1,5 +1,4 @@
-Balladyna velutina (Berk. & M.A. Curtis) Höhn. SPECIES
-=======
+# Balladyna velutina (Berk. & M.A. Curtis) Höhn. SPECIES
 
 #### Status
 ACCEPTED

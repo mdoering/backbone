@@ -1,5 +1,4 @@
-Arthonia oasis (A. Massal.) Willey SPECIES
-=======
+# Arthonia oasis (A. Massal.) Willey SPECIES
 
 #### Status
 ACCEPTED

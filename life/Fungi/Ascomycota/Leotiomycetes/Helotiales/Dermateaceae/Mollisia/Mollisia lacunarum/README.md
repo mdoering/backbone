@@ -1,5 +1,4 @@
-Mollisia lacunarum Svrcek SPECIES
-=======
+# Mollisia lacunarum Svrcek SPECIES
 
 #### Status
 ACCEPTED

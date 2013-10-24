@@ -1,5 +1,4 @@
-Paramecium regulare Fromentel, 1876 SPECIES
-=======
+# Paramecium regulare Fromentel, 1876 SPECIES
 
 #### Status
 ACCEPTED

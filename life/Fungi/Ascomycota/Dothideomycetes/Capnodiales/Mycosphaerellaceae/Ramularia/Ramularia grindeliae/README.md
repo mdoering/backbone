@@ -1,5 +1,4 @@
-Ramularia grindeliae Ellis & Kellerm. SPECIES
-=======
+# Ramularia grindeliae Ellis & Kellerm. SPECIES
 
 #### Status
 ACCEPTED

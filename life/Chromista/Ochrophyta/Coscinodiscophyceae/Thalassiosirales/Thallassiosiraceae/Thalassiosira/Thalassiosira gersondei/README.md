@@ -1,5 +1,4 @@
-Thalassiosira gersondei J. A. Barron SPECIES
-=======
+# Thalassiosira gersondei J. A. Barron SPECIES
 
 #### Status
 ACCEPTED

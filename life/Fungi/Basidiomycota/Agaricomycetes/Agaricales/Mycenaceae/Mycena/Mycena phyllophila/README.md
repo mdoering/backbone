@@ -1,5 +1,4 @@
-Mycena phyllophila Velen. SPECIES
-=======
+# Mycena phyllophila Velen. SPECIES
 
 #### Status
 ACCEPTED

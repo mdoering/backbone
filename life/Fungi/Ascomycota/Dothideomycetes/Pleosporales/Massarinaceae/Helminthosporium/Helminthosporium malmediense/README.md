@@ -1,17 +1,16 @@
-Helmisporium malmediense Thüm. SPECIES
-=======
+# Helminthosporium malmediense Thüm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hedwigia 19: 190 (1880)
 
 #### Original name
-Helmisporium malmediense Thüm.
+Helminthosporium malmediense Thüm.
 
 ### Remarks
 null

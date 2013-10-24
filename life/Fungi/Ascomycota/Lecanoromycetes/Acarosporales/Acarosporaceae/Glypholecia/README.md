@@ -1,5 +1,4 @@
-Glypholecia Nyl. GENUS
-=======
+# Glypholecia Nyl. GENUS
 
 #### Status
 ACCEPTED

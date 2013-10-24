@@ -1,5 +1,4 @@
-Agaricus rufolamellatus Bull. SPECIES
-=======
+# Agaricus rufolamellatus Bull. SPECIES
 
 #### Status
 ACCEPTED

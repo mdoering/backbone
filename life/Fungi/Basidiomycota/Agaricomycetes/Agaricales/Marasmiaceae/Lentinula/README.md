@@ -1,17 +1,16 @@
-Shitaker Lloyd GENUS
-=======
+# Lentinula Earle, 1909 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
 null
 
 #### Original name
-Shitaker Lloyd
+null
 
 ### Remarks
 null

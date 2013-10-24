@@ -1,5 +1,4 @@
-Ophryoglena tigrina Penard, 1922 SPECIES
-=======
+# Ophryoglena tigrina Penard, 1922 SPECIES
 
 #### Status
 ACCEPTED

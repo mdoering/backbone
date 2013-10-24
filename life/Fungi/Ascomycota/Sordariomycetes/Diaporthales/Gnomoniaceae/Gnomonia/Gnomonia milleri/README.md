@@ -1,5 +1,4 @@
-Gnomonia milleri M. Monod SPECIES
-=======
+# Gnomonia milleri M. Monod SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Streptomyces sannanensis Iwasaki et al., 1981 SPECIES
-=======
+# Streptomyces sannanensis Iwasaki et al., 1981 SPECIES
 
 #### Status
 ACCEPTED

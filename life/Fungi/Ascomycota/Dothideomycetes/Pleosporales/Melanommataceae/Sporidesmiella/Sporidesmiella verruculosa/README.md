@@ -1,5 +1,4 @@
-Sporidesmiella verruculosa W.P. Wu SPECIES
-=======
+# Sporidesmiella verruculosa W.P. Wu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kentrosiga echina S. M. Tong SPECIES
-=======
+# Kentrosiga echina S. M. Tong SPECIES
 
 #### Status
 ACCEPTED

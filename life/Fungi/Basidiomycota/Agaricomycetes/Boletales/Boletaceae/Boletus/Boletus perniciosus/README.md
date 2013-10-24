@@ -1,5 +1,4 @@
-Boletus perniciosus Vent. SPECIES
-=======
+# Boletus perniciosus Vent. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pestalotia bicilia Dearn. & Bisby SPECIES
-=======
+# Pestalotia bicilia Dearn. & Bisby SPECIES
 
 #### Status
 ACCEPTED

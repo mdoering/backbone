@@ -1,5 +1,4 @@
-Lecanora nivalis (Körb.) Nyl. SPECIES
-=======
+# Lecanora nivalis (Körb.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

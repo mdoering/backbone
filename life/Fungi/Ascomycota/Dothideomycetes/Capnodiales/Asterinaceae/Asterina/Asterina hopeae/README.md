@@ -1,5 +1,4 @@
-Asterina hopeae Hosag. & Kamar. SPECIES
-=======
+# Asterina hopeae Hosag. & Kamar. SPECIES
 
 #### Status
 ACCEPTED

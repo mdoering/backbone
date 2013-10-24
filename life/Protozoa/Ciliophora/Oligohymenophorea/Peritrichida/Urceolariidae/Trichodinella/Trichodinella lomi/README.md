@@ -1,5 +1,4 @@
-Trichodinella lomi Xu, Song & Warren, 1999 SPECIES
-=======
+# Trichodinella lomi Xu, Song & Warren, 1999 SPECIES
 
 #### Status
 ACCEPTED

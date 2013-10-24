@@ -1,14 +1,13 @@
-Acremoniella velata Onions & D. Jones, 1968 SPECIES
-=======
+# Harzia velata (Onions & D. Jones) Hol.-Jech., 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 51(1): 151 (1968)
+Folia geobot. phytotax. bohemoslov. 9(3): 316 (1974)
 
 #### Original name
 Acremoniella velata Onions & D. Jones, 1968

@@ -1,17 +1,16 @@
-Erysiphe berberidis var. berberidis VARIETY
-=======
+# Microsphaera berberidis (DC.) Lév., 1851 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls Sci. Nat. , Bot. , sér. 3 15: 159, 381 (1851)
 
 #### Original name
-Erysiphe berberidis var. berberidis
+Erysiphe berberidis DC., 1815
 
 ### Remarks
 null

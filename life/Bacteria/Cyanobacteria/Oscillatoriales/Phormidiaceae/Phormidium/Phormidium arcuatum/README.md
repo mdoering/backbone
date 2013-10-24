@@ -1,5 +1,4 @@
-Phormidium arcuatum Skuja SPECIES
-=======
+# Phormidium arcuatum Skuja SPECIES
 
 #### Status
 ACCEPTED

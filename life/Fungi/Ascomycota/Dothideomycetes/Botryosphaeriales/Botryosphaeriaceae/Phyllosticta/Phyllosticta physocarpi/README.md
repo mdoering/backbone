@@ -1,5 +1,4 @@
-Phyllosticta physocarpi H.C. Greene SPECIES
-=======
+# Phyllosticta physocarpi H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

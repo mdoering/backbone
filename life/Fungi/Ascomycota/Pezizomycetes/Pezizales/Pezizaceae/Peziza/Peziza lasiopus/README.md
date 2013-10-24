@@ -1,5 +1,4 @@
-Peziza lasiopus Pers. SPECIES
-=======
+# Peziza lasiopus Pers. SPECIES
 
 #### Status
 ACCEPTED

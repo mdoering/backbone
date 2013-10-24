@@ -1,5 +1,4 @@
-Camarosporium pulchellum Speg. SPECIES
-=======
+# Camarosporium pulchellum Speg. SPECIES
 
 #### Status
 ACCEPTED

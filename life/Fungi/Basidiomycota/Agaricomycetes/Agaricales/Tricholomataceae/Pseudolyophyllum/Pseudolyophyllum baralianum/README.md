@@ -1,5 +1,4 @@
-Pseudolyophyllum baralianum (Raithelh.) Raithelh. SPECIES
-=======
+# Pseudolyophyllum baralianum (Raithelh.) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

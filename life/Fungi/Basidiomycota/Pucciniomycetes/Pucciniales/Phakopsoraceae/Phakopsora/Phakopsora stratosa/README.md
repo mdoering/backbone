@@ -1,5 +1,4 @@
-Phakopsora stratosa (Cooke) Arthur SPECIES
-=======
+# Phakopsora stratosa (Cooke) Arthur SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thalloloma astroideum (Müll. Arg.) Staiger SPECIES
-=======
+# Thalloloma astroideum (Müll. Arg.) Staiger SPECIES
 
 #### Status
 ACCEPTED

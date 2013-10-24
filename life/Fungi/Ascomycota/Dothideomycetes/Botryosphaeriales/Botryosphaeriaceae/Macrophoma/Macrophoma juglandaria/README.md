@@ -1,5 +1,4 @@
-Macrophoma juglandaria Sacc. SPECIES
-=======
+# Macrophoma juglandaria Sacc. SPECIES
 
 #### Status
 ACCEPTED

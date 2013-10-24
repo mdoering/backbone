@@ -1,5 +1,4 @@
-Psathyrella citrinovelata A.H. Sm. SPECIES
-=======
+# Psathyrella citrinovelata A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

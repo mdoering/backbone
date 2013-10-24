@@ -1,5 +1,4 @@
-Anthostomella miscanthea Sacc., 1917 SPECIES
-=======
+# Anthostomella miscanthea Sacc., 1917 SPECIES
 
 #### Status
 ACCEPTED

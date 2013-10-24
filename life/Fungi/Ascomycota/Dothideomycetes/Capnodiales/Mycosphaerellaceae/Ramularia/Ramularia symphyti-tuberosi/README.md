@@ -1,5 +1,4 @@
-Ramularia symphyti-tuberosi (Allesch.) Jaap SPECIES
-=======
+# Ramularia symphyti-tuberosi (Allesch.) Jaap SPECIES
 
 #### Status
 ACCEPTED

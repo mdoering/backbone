@@ -1,5 +1,4 @@
-Kernella Thirum. GENUS
-=======
+# Kernella Thirum. GENUS
 
 #### Status
 ACCEPTED

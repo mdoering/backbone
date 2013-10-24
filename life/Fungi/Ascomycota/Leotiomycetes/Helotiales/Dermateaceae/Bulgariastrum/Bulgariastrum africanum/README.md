@@ -1,5 +1,4 @@
-Bulgariastrum africanum Syd. {?} SPECIES
-=======
+# Bulgariastrum africanum Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

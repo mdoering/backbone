@@ -1,5 +1,4 @@
-Beltraniella havanensis (Hol.-Jech.) Matsush. SPECIES
-=======
+# Beltraniella havanensis (Hol.-Jech.) Matsush. SPECIES
 
 #### Status
 ACCEPTED

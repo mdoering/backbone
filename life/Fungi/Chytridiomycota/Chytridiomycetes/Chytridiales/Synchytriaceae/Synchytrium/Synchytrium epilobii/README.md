@@ -1,5 +1,4 @@
-Synchytrium epilobii Karling, 1955 SPECIES
-=======
+# Synchytrium epilobii Karling, 1955 SPECIES
 
 #### Status
 ACCEPTED

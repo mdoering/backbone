@@ -1,5 +1,4 @@
-Kirschsteiniella ciferriana Petr. SPECIES
-=======
+# Kirschsteiniella ciferriana Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea glencairnensis Zahlbr. SPECIES
-=======
+# Lecidea glencairnensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

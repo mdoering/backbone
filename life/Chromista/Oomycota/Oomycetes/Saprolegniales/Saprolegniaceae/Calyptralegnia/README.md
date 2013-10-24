@@ -1,5 +1,4 @@
-Calyptralegnia Coker, 1927 GENUS
-=======
+# Calyptralegnia Coker, 1927 GENUS
 
 #### Status
 ACCEPTED

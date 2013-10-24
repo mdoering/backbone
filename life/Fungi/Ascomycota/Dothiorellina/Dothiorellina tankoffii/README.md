@@ -1,5 +1,4 @@
-Dothiorellina tankoffii Bubák SPECIES
-=======
+# Dothiorellina tankoffii Bubák SPECIES
 
 #### Status
 ACCEPTED

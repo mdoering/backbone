@@ -1,17 +1,16 @@
-Plicaria persoonii var. persoonii VARIETY
-=======
+# Marcelleina persoonii (P. Crouan & H. Crouan) Brumm., 1967 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Persoonia, Suppl. 1: 233 (1967)
 
 #### Original name
-null
+Ascobolus persoonii P. Crouan & H. Crouan, 1867
 
 ### Remarks
 null

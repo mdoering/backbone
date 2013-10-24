@@ -1,5 +1,4 @@
-Cladonia squamosissima (Müll. Arg.) Ahti SPECIES
-=======
+# Cladonia squamosissima (Müll. Arg.) Ahti SPECIES
 
 #### Status
 ACCEPTED

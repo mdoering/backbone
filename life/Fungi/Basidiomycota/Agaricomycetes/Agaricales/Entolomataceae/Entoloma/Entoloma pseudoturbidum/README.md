@@ -1,5 +1,4 @@
-Entoloma pseudoturbidum (Romagn.) M.M. Moser SPECIES
-=======
+# Entoloma pseudoturbidum (Romagn.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Perenniporia centrali-africana Decock & Mossebo, 2002 SPECIES
-=======
+# Perenniporia centrali-africana Decock & Mossebo, 2002 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dermocybe flavipes Velen. SPECIES
-=======
+# Dermocybe flavipes Velen. SPECIES
 
 #### Status
 ACCEPTED

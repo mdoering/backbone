@@ -1,5 +1,4 @@
-Puccinia griseliniae Pazschke SPECIES
-=======
+# Puccinia griseliniae Pazschke SPECIES
 
 #### Status
 ACCEPTED

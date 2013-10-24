@@ -1,5 +1,4 @@
-Mycena atroumbonata Peck SPECIES
-=======
+# Mycena atroumbonata Peck SPECIES
 
 #### Status
 ACCEPTED

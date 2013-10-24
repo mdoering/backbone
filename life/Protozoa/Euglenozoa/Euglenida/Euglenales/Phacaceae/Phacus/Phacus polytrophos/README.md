@@ -1,5 +1,4 @@
-Phacus polytrophos Pochmann SPECIES
-=======
+# Phacus polytrophos Pochmann SPECIES
 
 #### Status
 ACCEPTED

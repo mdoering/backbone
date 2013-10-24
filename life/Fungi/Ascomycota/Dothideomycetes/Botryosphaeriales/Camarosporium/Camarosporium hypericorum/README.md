@@ -1,5 +1,4 @@
-Camarosporium hypericorum Petrov {?} SPECIES
-=======
+# Camarosporium hypericorum Petrov {?} SPECIES
 
 #### Status
 ACCEPTED

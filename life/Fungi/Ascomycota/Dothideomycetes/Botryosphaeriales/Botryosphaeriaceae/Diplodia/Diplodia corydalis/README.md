@@ -1,5 +1,4 @@
-Diplodia corydalis Murashk. SPECIES
-=======
+# Diplodia corydalis Murashk. SPECIES
 
 #### Status
 ACCEPTED

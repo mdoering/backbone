@@ -1,5 +1,4 @@
-Enterographa mazosiae R. Sant. ex Matzer & R. Sant. SPECIES
-=======
+# Enterographa mazosiae R. Sant. ex Matzer & R. Sant. SPECIES
 
 #### Status
 ACCEPTED

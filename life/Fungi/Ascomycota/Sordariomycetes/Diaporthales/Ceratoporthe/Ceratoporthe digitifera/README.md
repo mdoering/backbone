@@ -1,5 +1,4 @@
-Ceratoporthe digitifera (Mouton) Petr. SPECIES
-=======
+# Ceratoporthe digitifera (Mouton) Petr. SPECIES
 
 #### Status
 ACCEPTED

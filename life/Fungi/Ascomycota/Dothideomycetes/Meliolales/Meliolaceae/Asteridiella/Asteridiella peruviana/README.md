@@ -1,5 +1,4 @@
-Asteridiella peruviana (Syd.) Hansf. SPECIES
-=======
+# Asteridiella peruviana (Syd.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

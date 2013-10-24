@@ -1,5 +1,4 @@
-Thryptospora Petr. GENUS
-=======
+# Thryptospora Petr. GENUS
 
 #### Status
 ACCEPTED

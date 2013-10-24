@@ -1,5 +1,4 @@
-Pertusaria mesoxantha Müll. Arg. SPECIES
-=======
+# Pertusaria mesoxantha Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

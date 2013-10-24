@@ -1,5 +1,4 @@
-Obeliospora Nawawi & Kuthub. GENUS
-=======
+# Obeliospora Nawawi & Kuthub. GENUS
 
 #### Status
 ACCEPTED

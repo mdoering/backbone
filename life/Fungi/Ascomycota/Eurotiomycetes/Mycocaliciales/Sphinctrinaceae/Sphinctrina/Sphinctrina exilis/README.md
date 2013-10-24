@@ -1,5 +1,4 @@
-Sphinctrina exilis Stirt. SPECIES
-=======
+# Sphinctrina exilis Stirt. SPECIES
 
 #### Status
 ACCEPTED

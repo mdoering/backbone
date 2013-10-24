@@ -1,5 +1,4 @@
-Cortinarius rugosolilacinus Miyauchi SPECIES
-=======
+# Cortinarius rugosolilacinus Miyauchi SPECIES
 
 #### Status
 ACCEPTED

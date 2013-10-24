@@ -1,17 +1,16 @@
-Agaricus caffrorum var. caffrorum VARIETY
-=======
+# Agaricus caffrorum Kalchbr. & MacOwan SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Grevillea 9(no. 51): 109 (1881)
 
 #### Original name
-null
+Agaricus caffrorum Kalchbr. & MacOwan
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Scleroderris fagi (W. Phillips) SPECIES
-=======
+# Scleroderris fagi (W. Phillips) SPECIES
 
 #### Status
 ACCEPTED

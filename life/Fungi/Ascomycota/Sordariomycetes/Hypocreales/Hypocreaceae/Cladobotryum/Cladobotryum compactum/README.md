@@ -1,5 +1,4 @@
-Cladobotryum compactum K. Põldmaa SPECIES
-=======
+# Cladobotryum compactum K. Põldmaa SPECIES
 
 #### Status
 ACCEPTED

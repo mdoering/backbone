@@ -1,5 +1,4 @@
-Cenangium negerianum Henn. SPECIES
-=======
+# Cenangium negerianum Henn. SPECIES
 
 #### Status
 ACCEPTED

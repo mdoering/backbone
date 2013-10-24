@@ -1,5 +1,4 @@
-Coryneum abietinum Ellis & Everh. SPECIES
-=======
+# Coryneum abietinum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

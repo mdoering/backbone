@@ -1,5 +1,4 @@
-Epidermophyton rubidum (Priestley) C.W. Dodge SPECIES
-=======
+# Epidermophyton rubidum (Priestley) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

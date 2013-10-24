@@ -1,5 +1,4 @@
-Menegazzia megathallina P. James, Aptroot, Sérus. & Diederich SPECIES
-=======
+# Menegazzia megathallina P. James, Aptroot, Sérus. & Diederich SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tetrastyla Schewiakoff, 1892 GENUS
-=======
+# Tetrastyla Schewiakoff, 1892 GENUS
 
 #### Status
 ACCEPTED

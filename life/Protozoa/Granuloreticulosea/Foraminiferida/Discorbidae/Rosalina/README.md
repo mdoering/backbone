@@ -1,5 +1,4 @@
-Rosalina d'Orbigny, 1826 GENUS
-=======
+# Rosalina d'Orbigny, 1826 GENUS
 
 #### Status
 ACCEPTED

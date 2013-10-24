@@ -1,5 +1,4 @@
-Pseudevernia confusa (Du Rietz) R. Schub. & Klem. SPECIES
-=======
+# Pseudevernia confusa (Du Rietz) R. Schub. & Klem. SPECIES
 
 #### Status
 ACCEPTED

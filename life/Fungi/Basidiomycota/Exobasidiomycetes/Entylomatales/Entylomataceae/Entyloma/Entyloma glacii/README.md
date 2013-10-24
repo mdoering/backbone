@@ -1,5 +1,4 @@
-Entyloma glacii P.A. Dang. SPECIES
-=======
+# Entyloma glacii P.A. Dang. SPECIES
 
 #### Status
 ACCEPTED

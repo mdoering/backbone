@@ -1,17 +1,16 @@
-Lecanidion albizziae A. Pande SPECIES
-=======
+# Lecanidion albiziae A. Pande SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biovigyanam 3(1): 117 (1978)
 
 #### Original name
-Lecanidion albizziae A. Pande
+Lecanidion albiziae A. Pande
 
 ### Remarks
 null

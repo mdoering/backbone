@@ -1,5 +1,4 @@
-Seismosarca megaspora var. megaspora VARIETY
-=======
+# Seismosarca megaspora anon. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Seismosarca megaspora var. megaspora
+Seismosarca megaspora anon.
 
 ### Remarks
 null

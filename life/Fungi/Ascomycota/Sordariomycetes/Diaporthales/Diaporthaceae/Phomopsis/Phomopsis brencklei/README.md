@@ -1,5 +1,4 @@
-Phomopsis brencklei Petr. SPECIES
-=======
+# Phomopsis brencklei Petr. SPECIES
 
 #### Status
 ACCEPTED

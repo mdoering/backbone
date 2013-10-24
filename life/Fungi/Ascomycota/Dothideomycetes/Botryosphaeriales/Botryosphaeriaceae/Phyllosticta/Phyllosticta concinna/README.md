@@ -1,5 +1,4 @@
-Phyllosticta concinna (Syd.) Aa SPECIES
-=======
+# Phyllosticta concinna (Syd.) Aa SPECIES
 
 #### Status
 ACCEPTED

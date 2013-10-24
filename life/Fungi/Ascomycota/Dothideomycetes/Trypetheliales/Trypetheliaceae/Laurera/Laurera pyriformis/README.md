@@ -1,5 +1,4 @@
-Laurera pyriformis (C.W. Dodge) Letr.-Gal. SPECIES
-=======
+# Laurera pyriformis (C.W. Dodge) Letr.-Gal. SPECIES
 
 #### Status
 ACCEPTED

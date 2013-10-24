@@ -1,5 +1,4 @@
-Pseudocercospora pavoniae (Petr. & Cif.) U. Braun SPECIES
-=======
+# Pseudocercospora pavoniae (Petr. & Cif.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

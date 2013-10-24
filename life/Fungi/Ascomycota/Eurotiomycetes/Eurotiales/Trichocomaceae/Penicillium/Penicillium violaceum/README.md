@@ -1,5 +1,4 @@
-Penicillium violaceum (Sopp) Sacc. SPECIES
-=======
+# Penicillium violaceum (Sopp) Sacc. SPECIES
 
 #### Status
 ACCEPTED

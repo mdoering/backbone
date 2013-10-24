@@ -1,5 +1,4 @@
-Acarospora ochrophaea H. Magn. SPECIES
-=======
+# Acarospora ochrophaea H. Magn. SPECIES
 
 #### Status
 ACCEPTED

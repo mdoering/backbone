@@ -1,5 +1,4 @@
-Xylaria gracilis (Klotzsch ex Berk.) Sacc. SPECIES
-=======
+# Xylaria gracilis (Klotzsch ex Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

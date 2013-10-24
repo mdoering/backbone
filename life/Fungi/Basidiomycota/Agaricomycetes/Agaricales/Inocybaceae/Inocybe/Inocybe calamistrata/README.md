@@ -1,17 +1,16 @@
-Inocybe calamistrata f. calamistrata (Fr.) Gillet FORM
-=======
+# Inocybe calamistrata (Fr.) Gillet, 1876 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Hyménomycètes (Alençon) 513 (1876)
 
 #### Original name
-Inocybe calamistrata f. calamistrata (Fr.) Gillet
+Agaricus calamistratus Weinm., 1836
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Bryophyllum spathidioides Gelei, 1933 SPECIES
-=======
+# Bryophyllum spathidioides Gelei, 1933 SPECIES
 
 #### Status
 ACCEPTED

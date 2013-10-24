@@ -1,5 +1,4 @@
-Ectocarpus niigatensis Noda SPECIES
-=======
+# Ectocarpus niigatensis Noda SPECIES
 
 #### Status
 ACCEPTED

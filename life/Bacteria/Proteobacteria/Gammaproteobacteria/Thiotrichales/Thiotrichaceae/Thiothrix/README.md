@@ -1,5 +1,4 @@
-Thiothrix Winogradsky, 1888 (Approved Lists, 1980) GENUS
-=======
+# Thiothrix Winogradsky, 1888 (Approved Lists, 1980) GENUS
 
 #### Status
 ACCEPTED

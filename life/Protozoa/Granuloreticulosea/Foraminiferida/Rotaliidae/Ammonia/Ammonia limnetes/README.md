@@ -1,5 +1,4 @@
-Ammonia limnetes (Todd & Brönnimann, 1957) SPECIES
-=======
+# Ammonia limnetes (Todd & Brönnimann, 1957) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrosporium inquinans Cooke & Ellis SPECIES
-=======
+# Macrosporium inquinans Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

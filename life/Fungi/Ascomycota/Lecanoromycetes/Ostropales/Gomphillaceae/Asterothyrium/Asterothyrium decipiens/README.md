@@ -1,5 +1,4 @@
-Asterothyrium decipiens (Rehm) R. Sant. SPECIES
-=======
+# Asterothyrium decipiens (Rehm) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

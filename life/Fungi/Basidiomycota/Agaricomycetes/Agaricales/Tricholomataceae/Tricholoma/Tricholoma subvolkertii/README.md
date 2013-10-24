@@ -1,5 +1,4 @@
-Tricholoma subvolkertii (Murrill) Murrill SPECIES
-=======
+# Tricholoma subvolkertii (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

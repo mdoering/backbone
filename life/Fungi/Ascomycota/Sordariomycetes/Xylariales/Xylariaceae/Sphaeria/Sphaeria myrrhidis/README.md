@@ -1,17 +1,16 @@
-Sphaeria myrrhis Schwein. SPECIES
-=======
+# Sphaeria myrrhidis Schwein. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Trans. Amer. Philos. Soc. 4(2): 223 (1832)
 
 #### Original name
-Sphaeria myrrhis Schwein.
+Sphaeria myrrhidis Schwein.
 
 ### Remarks
 null

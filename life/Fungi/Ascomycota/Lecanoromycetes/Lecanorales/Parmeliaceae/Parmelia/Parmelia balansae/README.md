@@ -1,5 +1,4 @@
-Parmelia balansae var. balansae Müll. Arg. VARIETY
-=======
+# Parmelia balansae Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia balansae var. balansae Müll. Arg.
+Parmelia balansae Müll. Arg.
 
 ### Remarks
 null

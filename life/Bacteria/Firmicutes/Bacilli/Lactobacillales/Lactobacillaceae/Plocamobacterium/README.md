@@ -1,5 +1,4 @@
-Plocamobacterium GENUS
-=======
+# Plocamobacterium GENUS
 
 #### Status
 ACCEPTED

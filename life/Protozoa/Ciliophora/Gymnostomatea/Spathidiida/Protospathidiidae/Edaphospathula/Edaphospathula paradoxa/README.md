@@ -1,5 +1,4 @@
-Edaphospathula paradoxa Foissner & Xu, 2007 SPECIES
-=======
+# Edaphospathula paradoxa Foissner & Xu, 2007 SPECIES
 
 #### Status
 ACCEPTED

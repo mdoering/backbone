@@ -1,5 +1,4 @@
-Septonema binum Borowska SPECIES
-=======
+# Septonema binum Borowska SPECIES
 
 #### Status
 ACCEPTED

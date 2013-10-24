@@ -1,5 +1,4 @@
-Laboulbenia hastiana Huldén SPECIES
-=======
+# Laboulbenia hastiana Huldén SPECIES
 
 #### Status
 ACCEPTED

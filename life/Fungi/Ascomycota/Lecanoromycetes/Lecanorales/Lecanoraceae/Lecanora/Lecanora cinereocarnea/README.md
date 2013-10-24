@@ -1,5 +1,4 @@
-Lecanora cinereocarnea (Eschw.) Stizenb. SPECIES
-=======
+# Lecanora cinereocarnea (Eschw.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

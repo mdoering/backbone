@@ -1,5 +1,4 @@
-Lobaria pulveracea Hoffm. SPECIES
-=======
+# Lobaria pulveracea Hoffm. SPECIES
 
 #### Status
 ACCEPTED

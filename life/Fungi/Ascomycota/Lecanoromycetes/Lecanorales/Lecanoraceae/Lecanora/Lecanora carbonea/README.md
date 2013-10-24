@@ -1,5 +1,4 @@
-Lecanora carbonea Räsänen SPECIES
-=======
+# Lecanora carbonea Räsänen SPECIES
 
 #### Status
 ACCEPTED

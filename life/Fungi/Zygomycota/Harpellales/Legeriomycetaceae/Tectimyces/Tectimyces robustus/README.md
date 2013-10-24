@@ -1,5 +1,4 @@
-Tectimyces robustus L.G. Valle & Santam., 2002 SPECIES
-=======
+# Tectimyces robustus L.G. Valle & Santam., 2002 SPECIES
 
 #### Status
 ACCEPTED

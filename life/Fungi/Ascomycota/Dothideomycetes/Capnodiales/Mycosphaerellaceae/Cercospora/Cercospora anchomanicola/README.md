@@ -1,5 +1,4 @@
-Cercospora anchomanicola J.M. Yen & Gilles SPECIES
-=======
+# Cercospora anchomanicola J.M. Yen & Gilles SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sarocladium sinense J.D. Chen, Guo C. Zhang & X.H. Fu SPECIES
-=======
+# Sarocladium sinense J.D. Chen, Guo C. Zhang & X.H. Fu SPECIES
 
 #### Status
 ACCEPTED

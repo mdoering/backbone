@@ -1,5 +1,4 @@
-Calloria rubicunda Sacc. & Speg. SPECIES
-=======
+# Calloria rubicunda Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

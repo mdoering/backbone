@@ -1,5 +1,4 @@
-Asterina barteriae Hansf. SPECIES
-=======
+# Asterina barteriae Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thermoascaceae Apinis FAMILY
-=======
+# Thermoascaceae Apinis FAMILY
 
 #### Status
 ACCEPTED

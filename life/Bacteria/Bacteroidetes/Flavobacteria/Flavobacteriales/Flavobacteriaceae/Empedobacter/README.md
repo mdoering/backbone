@@ -1,5 +1,4 @@
-Empedobacter Prevot, 1961 GENUS
-=======
+# Empedobacter Prevot, 1961 GENUS
 
 #### Status
 ACCEPTED

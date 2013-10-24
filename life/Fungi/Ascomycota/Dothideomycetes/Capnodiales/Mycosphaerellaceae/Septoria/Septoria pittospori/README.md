@@ -1,5 +1,4 @@
-Septoria pittospori Brunaud SPECIES
-=======
+# Septoria pittospori Brunaud SPECIES
 
 #### Status
 ACCEPTED

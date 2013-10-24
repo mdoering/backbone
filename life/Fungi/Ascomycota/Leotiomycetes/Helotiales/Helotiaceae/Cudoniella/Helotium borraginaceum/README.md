@@ -1,5 +1,4 @@
-Helotium borraginaceum Velen. SPECIES
-=======
+# Helotium borraginaceum Velen. SPECIES
 
 #### Status
 ACCEPTED

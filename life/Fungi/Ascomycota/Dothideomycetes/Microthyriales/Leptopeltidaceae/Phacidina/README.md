@@ -1,5 +1,4 @@
-Phacidina Höhn. GENUS
-=======
+# Phacidina Höhn. GENUS
 
 #### Status
 ACCEPTED

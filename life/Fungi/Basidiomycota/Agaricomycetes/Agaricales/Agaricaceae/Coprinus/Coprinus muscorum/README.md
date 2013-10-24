@@ -1,5 +1,4 @@
-Coprinus muscorum P. Karst. SPECIES
-=======
+# Coprinus muscorum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dermosporidium GENUS
-=======
+# Dermosporidium GENUS
 
 #### Status
 ACCEPTED

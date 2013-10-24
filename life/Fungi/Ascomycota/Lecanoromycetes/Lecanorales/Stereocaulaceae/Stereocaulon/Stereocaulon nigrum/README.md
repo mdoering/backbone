@@ -1,5 +1,4 @@
-Stereocaulon nigrum Hue SPECIES
-=======
+# Stereocaulon nigrum Hue SPECIES
 
 #### Status
 ACCEPTED

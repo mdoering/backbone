@@ -1,5 +1,4 @@
-Alcaligenes aquatilis Van Trappen et al., 2005 SPECIES
-=======
+# Alcaligenes aquatilis Van Trappen et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

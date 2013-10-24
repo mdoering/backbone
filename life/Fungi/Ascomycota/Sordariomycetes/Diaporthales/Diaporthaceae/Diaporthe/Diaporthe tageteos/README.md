@@ -1,5 +1,4 @@
-Diaporthe tageteos Speg. SPECIES
-=======
+# Diaporthe tageteos Speg. SPECIES
 
 #### Status
 ACCEPTED

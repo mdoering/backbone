@@ -1,5 +1,4 @@
-Lactosphaera Janssen et al., 1995 GENUS
-=======
+# Lactosphaera Janssen et al., 1995 GENUS
 
 #### Status
 ACCEPTED

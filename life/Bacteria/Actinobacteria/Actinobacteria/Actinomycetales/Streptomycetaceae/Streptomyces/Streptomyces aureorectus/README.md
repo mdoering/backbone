@@ -1,11 +1,10 @@
-Actinomyces aureorectus Taig et al., 1969 SPECIES
-=======
+# Streptomyces aureorectus (ex Taig et al., 1969) Taig & Solovieva, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

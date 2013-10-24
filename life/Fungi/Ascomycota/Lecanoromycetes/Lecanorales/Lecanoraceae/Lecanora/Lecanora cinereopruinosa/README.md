@@ -1,5 +1,4 @@
-Lecanora cinereopruinosa Leight. SPECIES
-=======
+# Lecanora cinereopruinosa Leight. SPECIES
 
 #### Status
 ACCEPTED

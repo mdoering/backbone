@@ -1,5 +1,4 @@
-Dacrymyces paraphysatus L.S. Olive, 1958 SPECIES
-=======
+# Dacrymyces paraphysatus L.S. Olive, 1958 SPECIES
 
 #### Status
 ACCEPTED

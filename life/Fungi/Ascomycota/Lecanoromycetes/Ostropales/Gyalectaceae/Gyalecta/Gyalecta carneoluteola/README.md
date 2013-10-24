@@ -1,5 +1,4 @@
-Gyalecta carneoluteola Tuck. SPECIES
-=======
+# Gyalecta carneoluteola Tuck. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora simulata Ellis & Everh. SPECIES
-=======
+# Cercospora simulata Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

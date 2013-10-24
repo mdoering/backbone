@@ -1,5 +1,4 @@
-Trimmatostroma botryoforme Goh & Yipp SPECIES
-=======
+# Trimmatostroma botryoforme Goh & Yipp SPECIES
 
 #### Status
 ACCEPTED

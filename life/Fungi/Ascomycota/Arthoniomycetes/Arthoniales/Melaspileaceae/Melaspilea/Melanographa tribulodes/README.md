@@ -1,5 +1,4 @@
-Melanographa tribulodes (Tuck.) Müll. Arg. SPECIES
-=======
+# Melanographa tribulodes (Tuck.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

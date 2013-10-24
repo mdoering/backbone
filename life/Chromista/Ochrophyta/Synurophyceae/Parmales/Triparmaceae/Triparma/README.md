@@ -1,5 +1,4 @@
-Triparma B.C.Booth & H.J.Marchant, 1987 GENUS
-=======
+# Triparma B.C.Booth & H.J.Marchant, 1987 GENUS
 
 #### Status
 ACCEPTED

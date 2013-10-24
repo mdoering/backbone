@@ -1,5 +1,4 @@
-Samara australiana (F.Muell.) F.Muell. SPECIES
-=======
+# Samara australiana (F.Muell.) F.Muell. SPECIES
 
 #### Status
 ACCEPTED

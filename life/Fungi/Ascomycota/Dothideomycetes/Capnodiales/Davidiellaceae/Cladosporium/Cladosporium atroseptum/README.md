@@ -1,5 +1,4 @@
-Cladosporium atroseptum Pidopl. SPECIES
-=======
+# Cladosporium atroseptum Pidopl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tomentella puberula Bourdot & Galzin, 1924 SPECIES
-=======
+# Tomentella puberula Bourdot & Galzin, 1924 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Reticularia entoxantha Berk. SPECIES
-=======
+# Reticularia entoxantha Berk. SPECIES
 
 #### Status
 ACCEPTED

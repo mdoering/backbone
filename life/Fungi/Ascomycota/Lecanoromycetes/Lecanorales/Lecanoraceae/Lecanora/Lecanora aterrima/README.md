@@ -1,5 +1,4 @@
-Lecanora aterrima (Fée) Zahlbr. SPECIES
-=======
+# Lecanora aterrima (Fée) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

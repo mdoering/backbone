@@ -1,14 +1,13 @@
-Patella hetieri (Boud.) Seaver, 1928 SPECIES
-=======
+# Neottiella hetieri Boud., 1885 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-North American Cup-fungi (New York), (Operculates) 164 (1928)
+Bull. Soc. mycol. Fr. 1: 12 (1885)
 
 #### Original name
 Neottiella hetieri Boud., 1885

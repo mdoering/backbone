@@ -1,5 +1,4 @@
-Lecanora galactinoides Jatta SPECIES
-=======
+# Lecanora galactinoides Jatta SPECIES
 
 #### Status
 ACCEPTED

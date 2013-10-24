@@ -1,5 +1,4 @@
-Clitopilus davisii Peck SPECIES
-=======
+# Clitopilus davisii Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dactylaria sahelensis Sawadogo & Cayrol, 1990 SPECIES
-=======
+# Dactylaria sahelensis Sawadogo & Cayrol, 1990 SPECIES
 
 #### Status
 ACCEPTED

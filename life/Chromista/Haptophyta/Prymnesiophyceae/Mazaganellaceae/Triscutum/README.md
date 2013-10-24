@@ -1,5 +1,4 @@
-Triscutum Dockerill, 1987 GENUS
-=======
+# Triscutum Dockerill, 1987 GENUS
 
 #### Status
 ACCEPTED

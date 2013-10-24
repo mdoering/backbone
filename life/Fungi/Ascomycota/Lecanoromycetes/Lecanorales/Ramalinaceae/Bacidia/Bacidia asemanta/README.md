@@ -1,5 +1,4 @@
-Bacidia asemanta (Vain.) Zahlbr. SPECIES
-=======
+# Bacidia asemanta (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

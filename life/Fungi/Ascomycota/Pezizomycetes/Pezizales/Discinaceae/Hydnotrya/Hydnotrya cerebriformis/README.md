@@ -1,17 +1,16 @@
-Hydnobolites cerebriformis var. cerebriformis VARIETY
-=======
+# Hydnotrya cerebriformis (Tul. & C. Tul.) Harkn., 1889 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 2 19: 379 (1843)
+Proc. Calif. Acad. Sci. , Ser. 3, Bot. 1: 266 (1889)
 
 #### Original name
-Hydnobolites cerebriformis var. cerebriformis
+Hydnobolites cerebriformis Tul. & C. Tul., 1843
 
 ### Remarks
 null

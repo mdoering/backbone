@@ -1,5 +1,4 @@
-Agaricus rutilescens Peck SPECIES
-=======
+# Agaricus rutilescens Peck SPECIES
 
 #### Status
 ACCEPTED

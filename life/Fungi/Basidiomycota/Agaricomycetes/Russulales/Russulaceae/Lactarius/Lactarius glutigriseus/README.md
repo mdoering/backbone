@@ -1,5 +1,4 @@
-Lactarius glutigriseus V.L. Wells & Kempton SPECIES
-=======
+# Lactarius glutigriseus V.L. Wells & Kempton SPECIES
 
 #### Status
 ACCEPTED

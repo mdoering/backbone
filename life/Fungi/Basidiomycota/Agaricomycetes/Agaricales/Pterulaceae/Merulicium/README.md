@@ -1,5 +1,4 @@
-Merulicium J. Erikss. & Ryvarden GENUS
-=======
+# Merulicium J. Erikss. & Ryvarden GENUS
 
 #### Status
 ACCEPTED

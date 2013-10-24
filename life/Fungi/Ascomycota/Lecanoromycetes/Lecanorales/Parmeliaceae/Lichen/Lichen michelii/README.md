@@ -1,5 +1,4 @@
-Lichen michelii Bernh. ex Figlio Andrea {?} SPECIES
-=======
+# Lichen michelii Bernh. ex Figlio Andrea {?} SPECIES
 
 #### Status
 ACCEPTED

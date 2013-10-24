@@ -1,5 +1,4 @@
-Pannaria fimbriata P.M. Jørg. SPECIES
-=======
+# Pannaria fimbriata P.M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

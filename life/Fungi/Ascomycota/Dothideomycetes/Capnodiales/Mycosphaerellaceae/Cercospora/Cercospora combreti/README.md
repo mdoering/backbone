@@ -1,5 +1,4 @@
-Cercospora combreti Boedijn SPECIES
-=======
+# Cercospora combreti Boedijn SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inonotus costaricensis Ryvarden, 2002 SPECIES
-=======
+# Inonotus costaricensis Ryvarden, 2002 SPECIES
 
 #### Status
 ACCEPTED

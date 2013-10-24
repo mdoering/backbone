@@ -1,8 +1,7 @@
-Flavobacterium marinotypicum ZoBell and Upham, 1944 (Approved Lists, 1980) SPECIES
-=======
+# Microbacterium maritypicum (ZoBell and Upham, 1944) Takeuchi and Hatano, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

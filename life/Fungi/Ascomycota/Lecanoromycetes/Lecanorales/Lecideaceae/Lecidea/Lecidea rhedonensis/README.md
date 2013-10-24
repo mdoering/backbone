@@ -1,5 +1,4 @@
-Lecidea rhedonensis Nyl. SPECIES
-=======
+# Lecidea rhedonensis Nyl. SPECIES
 
 #### Status
 ACCEPTED

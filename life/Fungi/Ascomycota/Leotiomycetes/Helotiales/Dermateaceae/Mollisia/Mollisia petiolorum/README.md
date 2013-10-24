@@ -1,5 +1,4 @@
-Mollisia petiolorum E.K. Cash SPECIES
-=======
+# Mollisia petiolorum E.K. Cash SPECIES
 
 #### Status
 ACCEPTED

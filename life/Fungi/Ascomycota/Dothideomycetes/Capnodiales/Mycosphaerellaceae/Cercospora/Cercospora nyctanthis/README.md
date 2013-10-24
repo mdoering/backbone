@@ -1,5 +1,4 @@
-Cercospora nyctanthis A.K. Roy SPECIES
-=======
+# Cercospora nyctanthis A.K. Roy SPECIES
 
 #### Status
 ACCEPTED

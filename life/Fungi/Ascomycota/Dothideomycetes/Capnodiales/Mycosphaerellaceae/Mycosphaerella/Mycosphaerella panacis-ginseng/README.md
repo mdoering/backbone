@@ -1,17 +1,16 @@
-Mycosphaerella panacis-ginsengi Tomilin SPECIES
-=======
+# Mycosphaerella panacis-ginseng Tomilin SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nov. sist. Niz. Rast. , 1964 7: 204 (1970)
 
 #### Original name
-Mycosphaerella panacis-ginsengi Tomilin
+Mycosphaerella panacis (Cooke) Tomilin, 1968
 
 ### Remarks
 null

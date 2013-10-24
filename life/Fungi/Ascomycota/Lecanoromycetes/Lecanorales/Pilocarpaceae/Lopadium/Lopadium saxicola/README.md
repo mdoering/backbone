@@ -1,8 +1,7 @@
-Lopadium saxicolum H. Magn. SPECIES
-=======
+# Lopadium saxicola H. Magn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lopadium saxicolum H. Magn.
+Lopadium saxicola H. Magn.
 
 ### Remarks
 null

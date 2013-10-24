@@ -1,5 +1,4 @@
-Pleospora ulmicola Koshk. & Frolov SPECIES
-=======
+# Pleospora ulmicola Koshk. & Frolov SPECIES
 
 #### Status
 ACCEPTED

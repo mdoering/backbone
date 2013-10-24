@@ -1,5 +1,4 @@
-Diaphanium serpens P. Karst. SPECIES
-=======
+# Diaphanium serpens P. Karst. SPECIES
 
 #### Status
 ACCEPTED

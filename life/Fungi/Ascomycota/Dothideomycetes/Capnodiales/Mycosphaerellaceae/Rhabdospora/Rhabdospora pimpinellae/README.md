@@ -1,5 +1,4 @@
-Rhabdospora pimpinellae (Ellis) Kuntze SPECIES
-=======
+# Rhabdospora pimpinellae (Ellis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

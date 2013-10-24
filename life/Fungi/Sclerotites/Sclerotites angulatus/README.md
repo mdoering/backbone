@@ -1,5 +1,4 @@
-Sclerotites angulatus (Saporta) Mesch. SPECIES
-=======
+# Sclerotites angulatus (Saporta) Mesch. SPECIES
 
 #### Status
 ACCEPTED

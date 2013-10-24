@@ -1,5 +1,4 @@
-Plagiomastix Diesing, 1848 GENUS
-=======
+# Plagiomastix Diesing, 1848 GENUS
 
 #### Status
 ACCEPTED

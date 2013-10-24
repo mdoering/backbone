@@ -1,5 +1,4 @@
-Stagonospora clandestina B. Sutton SPECIES
-=======
+# Stagonospora clandestina B. Sutton SPECIES
 
 #### Status
 ACCEPTED

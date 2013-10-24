@@ -1,5 +1,4 @@
-Stemphylium allii-cepae X.G. Zhang & T.Y. Zhang SPECIES
-=======
+# Stemphylium allii-cepae X.G. Zhang & T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

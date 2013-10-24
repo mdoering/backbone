@@ -1,5 +1,4 @@
-Dermapteromyces ctenophorus Thaxt., 1931 SPECIES
-=======
+# Dermapteromyces ctenophorus Thaxt., 1931 SPECIES
 
 #### Status
 ACCEPTED

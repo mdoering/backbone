@@ -1,5 +1,4 @@
-Ramularia pseudolotophaga U. Braun SPECIES
-=======
+# Ramularia pseudolotophaga U. Braun SPECIES
 
 #### Status
 ACCEPTED

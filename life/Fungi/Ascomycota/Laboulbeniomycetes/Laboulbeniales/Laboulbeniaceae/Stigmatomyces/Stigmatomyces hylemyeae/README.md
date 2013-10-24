@@ -1,5 +1,4 @@
-Stigmatomyces hylemyeae Thaxt. SPECIES
-=======
+# Stigmatomyces hylemyeae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

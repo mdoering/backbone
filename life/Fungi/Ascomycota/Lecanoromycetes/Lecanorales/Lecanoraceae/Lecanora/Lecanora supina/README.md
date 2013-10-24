@@ -1,5 +1,4 @@
-Lecanora supina Motyka SPECIES
-=======
+# Lecanora supina Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buellia russa var. russa VARIETY
-=======
+# Buellia russa (Hue) Darb. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Brit. Antarct. Terra Nova Exped. 1910, Nat. Hist. Rep. , Bot. 3: 64 (1923)
 
 #### Original name
-Buellia russa var. russa
+Lecidea russa Hue
 
 ### Remarks
 null

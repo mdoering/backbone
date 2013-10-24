@@ -1,5 +1,4 @@
-Comasphaeridium velvetum M. Moczydowska SPECIES
-=======
+# Comasphaeridium velvetum M. Moczydowska SPECIES
 
 #### Status
 ACCEPTED

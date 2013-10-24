@@ -1,5 +1,4 @@
-Cortinarius subemunctus Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius subemunctus Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

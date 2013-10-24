@@ -1,5 +1,4 @@
-Wickerhamomyces lynferdii (Van der Walt & Johannsen) Kurtzman, Robnett & Basehoar-Powers, 2008 SPECIES
-=======
+# Wickerhamomyces lynferdii (Van der Walt & Johannsen) Kurtzman, Robnett & Basehoar-Powers, 2008 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusariospora Gonz. Fragoso & Ciferri, 1927 GENUS
-=======
+# Fusariospora Gonz. Fragoso & Ciferri, 1927 GENUS
 
 #### Status
 ACCEPTED

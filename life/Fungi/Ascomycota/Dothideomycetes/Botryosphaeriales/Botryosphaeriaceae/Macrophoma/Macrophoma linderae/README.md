@@ -1,5 +1,4 @@
-Macrophoma linderae Miura SPECIES
-=======
+# Macrophoma linderae Miura SPECIES
 
 #### Status
 ACCEPTED

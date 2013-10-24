@@ -1,5 +1,4 @@
-Verrucaria imbrida Taylor SPECIES
-=======
+# Verrucaria imbrida Taylor SPECIES
 
 #### Status
 ACCEPTED

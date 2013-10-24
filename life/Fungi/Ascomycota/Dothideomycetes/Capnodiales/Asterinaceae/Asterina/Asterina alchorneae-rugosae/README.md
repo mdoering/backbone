@@ -1,5 +1,4 @@
-Asterina alchorneae-rugosae Hansf. SPECIES
-=======
+# Asterina alchorneae-rugosae Hansf. SPECIES
 
 #### Status
 ACCEPTED

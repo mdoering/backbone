@@ -1,5 +1,4 @@
-Phomopsis commelinae Punith. SPECIES
-=======
+# Phomopsis commelinae Punith. SPECIES
 
 #### Status
 ACCEPTED

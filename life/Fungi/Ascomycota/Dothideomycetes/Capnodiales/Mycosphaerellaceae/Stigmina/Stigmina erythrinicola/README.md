@@ -1,5 +1,4 @@
-Stigmina erythrinicola Thaung SPECIES
-=======
+# Stigmina erythrinicola Thaung SPECIES
 
 #### Status
 ACCEPTED

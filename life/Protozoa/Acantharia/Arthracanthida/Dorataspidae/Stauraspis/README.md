@@ -1,5 +1,4 @@
-Stauraspis Haeckel, 1881 GENUS
-=======
+# Stauraspis Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

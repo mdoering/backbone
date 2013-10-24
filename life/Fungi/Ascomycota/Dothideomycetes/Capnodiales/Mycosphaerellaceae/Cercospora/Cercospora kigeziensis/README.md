@@ -1,5 +1,4 @@
-Cercospora kigeziensis Ebbels & Deighton SPECIES
-=======
+# Cercospora kigeziensis Ebbels & Deighton SPECIES
 
 #### Status
 ACCEPTED

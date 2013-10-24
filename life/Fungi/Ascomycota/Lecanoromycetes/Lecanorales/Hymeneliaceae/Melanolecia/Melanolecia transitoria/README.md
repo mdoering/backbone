@@ -1,14 +1,13 @@
-Tremolecia transitoria (Arnold) Hertel SPECIES
-=======
+# Melanolecia transitoria (Arnold) Hertel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Khumbu Himal 6(3): 356 (1977)
+in Poelt & Vezda, Biblthca Lichenol. 16: 365 (1981)
 
 #### Original name
 Lecidea transitoria Arnold

@@ -1,5 +1,4 @@
-Phractaspis Haeckel, 1881 GENUS
-=======
+# Phractaspis Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

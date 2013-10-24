@@ -1,5 +1,4 @@
-Cortinarius calyptrodermus var. calyptrodermus VARIETY
-=======
+# Cortinarius calyptrodermus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Bull. Torrey bot. Club 69(1): 51 (1942)
 
 #### Original name
-Cortinarius calyptrodermus var. calyptrodermus
+Cortinarius calyptrodermus A.H. Sm.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Crocynia leucoparupha Hue SPECIES
-=======
+# Crocynia leucoparupha Hue SPECIES
 
 #### Status
 ACCEPTED

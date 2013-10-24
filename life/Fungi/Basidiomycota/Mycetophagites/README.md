@@ -1,5 +1,4 @@
-Mycetophagites Poinar & R. Buckley GENUS
-=======
+# Mycetophagites Poinar & R. Buckley GENUS
 
 #### Status
 ACCEPTED

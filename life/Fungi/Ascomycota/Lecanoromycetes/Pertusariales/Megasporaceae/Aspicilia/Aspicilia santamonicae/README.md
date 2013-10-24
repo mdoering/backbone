@@ -1,5 +1,4 @@
-Aspicilia santamonicae Owe-Larss. & A. Nordin SPECIES
-=======
+# Aspicilia santamonicae Owe-Larss. & A. Nordin SPECIES
 
 #### Status
 ACCEPTED

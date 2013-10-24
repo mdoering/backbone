@@ -1,5 +1,4 @@
-Sphaerozyga catenula Kützing SPECIES
-=======
+# Sphaerozyga catenula Kützing SPECIES
 
 #### Status
 ACCEPTED

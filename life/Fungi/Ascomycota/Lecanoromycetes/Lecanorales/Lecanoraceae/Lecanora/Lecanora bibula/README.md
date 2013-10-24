@@ -1,5 +1,4 @@
-Lecanora bibula Taylor SPECIES
-=======
+# Lecanora bibula Taylor SPECIES
 
 #### Status
 ACCEPTED

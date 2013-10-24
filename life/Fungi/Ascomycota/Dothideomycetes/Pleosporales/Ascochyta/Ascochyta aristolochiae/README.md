@@ -1,5 +1,4 @@
-Ascochyta aristolochiae Sacc. SPECIES
-=======
+# Ascochyta aristolochiae Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptobasidium GENUS
-=======
+# Cryptobasidium GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea smaragdescens Nyl. SPECIES
-=======
+# Lecidea smaragdescens Nyl. SPECIES
 
 #### Status
 ACCEPTED

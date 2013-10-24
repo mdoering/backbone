@@ -1,5 +1,4 @@
-Rhabdospora absinthii Sacc. SPECIES
-=======
+# Rhabdospora absinthii Sacc. SPECIES
 
 #### Status
 ACCEPTED

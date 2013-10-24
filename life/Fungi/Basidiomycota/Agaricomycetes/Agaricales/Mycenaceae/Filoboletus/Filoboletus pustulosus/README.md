@@ -1,5 +1,4 @@
-Filoboletus pustulosus Maas Geest. & E. Horak SPECIES
-=======
+# Filoboletus pustulosus Maas Geest. & E. Horak SPECIES
 
 #### Status
 ACCEPTED

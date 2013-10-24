@@ -1,5 +1,4 @@
-Epistylis barba Ehrenberg, 1840 SPECIES
-=======
+# Epistylis barba Ehrenberg, 1840 SPECIES
 
 #### Status
 ACCEPTED

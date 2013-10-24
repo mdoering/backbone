@@ -1,5 +1,4 @@
-Meliola stemonae Syd. SPECIES
-=======
+# Meliola stemonae Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Phomopsis glandicola var. glandicola (Lév.) Grove VARIETY
-=======
+# Phomopsis glandicola (Lév.) Grove, 1917 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Bull. Misc. Inf. , Kew 57 (1917)
 
 #### Original name
-Phomopsis glandicola var. glandicola (Lév.) Grove
+null
 
 ### Remarks
 null

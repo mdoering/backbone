@@ -1,5 +1,4 @@
-Arthonia acharii A. Massal. SPECIES
-=======
+# Arthonia acharii A. Massal. SPECIES
 
 #### Status
 ACCEPTED

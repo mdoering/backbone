@@ -1,5 +1,4 @@
-Laboulbenia oedichiri Thaxt. SPECIES
-=======
+# Laboulbenia oedichiri Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sclerotium compactiusculum Speg. SPECIES
-=======
+# Sclerotium compactiusculum Speg. SPECIES
 
 #### Status
 ACCEPTED

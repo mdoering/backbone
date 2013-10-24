@@ -1,5 +1,4 @@
-Asteromyxa surigaoensis J.M. Mend. SPECIES
-=======
+# Asteromyxa surigaoensis J.M. Mend. SPECIES
 
 #### Status
 ACCEPTED

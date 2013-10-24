@@ -1,5 +1,4 @@
-Didymocrater Mart. GENUS
-=======
+# Didymocrater Mart. GENUS
 
 #### Status
 ACCEPTED

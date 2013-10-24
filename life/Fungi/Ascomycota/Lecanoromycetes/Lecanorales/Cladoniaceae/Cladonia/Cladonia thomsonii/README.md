@@ -1,5 +1,4 @@
-Cladonia thomsonii Ahti SPECIES
-=======
+# Cladonia thomsonii Ahti SPECIES
 
 #### Status
 ACCEPTED

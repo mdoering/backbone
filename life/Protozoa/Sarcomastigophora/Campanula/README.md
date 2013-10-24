@@ -1,5 +1,4 @@
-Campanula Alvira, 1973 GENUS
-=======
+# Campanula Alvira, 1973 GENUS
 
 #### Status
 ACCEPTED

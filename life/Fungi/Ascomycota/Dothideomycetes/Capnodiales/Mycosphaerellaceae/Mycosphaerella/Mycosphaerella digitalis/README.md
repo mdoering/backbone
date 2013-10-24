@@ -1,5 +1,4 @@
-Mycosphaerella digitalis (Ferraris) Tomilin SPECIES
-=======
+# Mycosphaerella digitalis (Ferraris) Tomilin SPECIES
 
 #### Status
 ACCEPTED

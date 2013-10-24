@@ -1,5 +1,4 @@
-Calonectria sensitiva (Rehm) Weese SPECIES
-=======
+# Calonectria sensitiva (Rehm) Weese SPECIES
 
 #### Status
 ACCEPTED

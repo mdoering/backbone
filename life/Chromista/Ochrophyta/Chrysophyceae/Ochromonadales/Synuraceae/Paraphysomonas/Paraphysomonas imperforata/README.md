@@ -1,5 +1,4 @@
-Paraphysomonas imperforata Lucas SPECIES
-=======
+# Paraphysomonas imperforata Lucas SPECIES
 
 #### Status
 ACCEPTED

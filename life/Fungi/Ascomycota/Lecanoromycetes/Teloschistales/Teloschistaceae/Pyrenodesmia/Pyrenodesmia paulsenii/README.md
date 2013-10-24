@@ -1,5 +1,4 @@
-Pyrenodesmia paulsenii (Vain.) Oxner SPECIES
-=======
+# Pyrenodesmia paulsenii (Vain.) Oxner SPECIES
 
 #### Status
 ACCEPTED

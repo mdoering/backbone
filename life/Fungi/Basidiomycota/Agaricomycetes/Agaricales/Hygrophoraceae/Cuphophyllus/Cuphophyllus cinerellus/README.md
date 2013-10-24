@@ -1,5 +1,4 @@
-Cuphophyllus cinerellus (Kühner) Bon SPECIES
-=======
+# Cuphophyllus cinerellus (Kühner) Bon SPECIES
 
 #### Status
 ACCEPTED

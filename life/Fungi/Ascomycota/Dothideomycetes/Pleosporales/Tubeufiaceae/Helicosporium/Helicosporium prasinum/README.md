@@ -1,5 +1,4 @@
-Helicosporium prasinum Preuss SPECIES
-=======
+# Helicosporium prasinum Preuss SPECIES
 
 #### Status
 ACCEPTED

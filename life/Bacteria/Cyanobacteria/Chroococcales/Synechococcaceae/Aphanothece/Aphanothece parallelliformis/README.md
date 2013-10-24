@@ -1,5 +1,4 @@
-Aphanothece parallelliformis Cronberg, 2004 SPECIES
-=======
+# Aphanothece parallelliformis Cronberg, 2004 SPECIES
 
 #### Status
 ACCEPTED

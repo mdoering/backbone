@@ -1,5 +1,4 @@
-Wiesnerella auriculata SPECIES
-=======
+# Wiesnerella auriculata SPECIES
 
 #### Status
 ACCEPTED

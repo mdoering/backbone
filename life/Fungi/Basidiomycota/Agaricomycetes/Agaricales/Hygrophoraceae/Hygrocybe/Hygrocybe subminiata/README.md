@@ -1,5 +1,4 @@
-Hygrocybe subminiata (Fr.) P. Kumm. SPECIES
-=======
+# Hygrocybe subminiata (Fr.) P. Kumm. SPECIES
 
 #### Status
 ACCEPTED

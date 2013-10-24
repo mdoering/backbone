@@ -1,14 +1,13 @@
-Entosordaria deightonii Petr., 1952 SPECIES
-=======
+# Brunneiapiospora deightoniella (Petr.) K.D. Hyde, J. Fröhl. & Joanne E. Taylor, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 6(5-6): 310 (1952)
+Sydowia 50(1): 49 (1998)
 
 #### Original name
 Entosordaria deightonii Petr., 1952

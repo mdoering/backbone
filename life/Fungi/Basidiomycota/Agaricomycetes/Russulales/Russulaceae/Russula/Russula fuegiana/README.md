@@ -1,5 +1,4 @@
-Russula fuegiana Singer SPECIES
-=======
+# Russula fuegiana Singer SPECIES
 
 #### Status
 ACCEPTED

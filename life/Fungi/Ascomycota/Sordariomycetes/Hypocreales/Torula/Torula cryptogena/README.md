@@ -1,5 +1,4 @@
-Torula cryptogena Opiz SPECIES
-=======
+# Torula cryptogena Opiz SPECIES
 
 #### Status
 ACCEPTED

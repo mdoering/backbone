@@ -1,14 +1,13 @@
-Dermatocarpon sbarbaronis Servít SPECIES
-=======
+# Involucropyrenium sbarbaronis (Servít) Breuss SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annln naturh. Mus. Wien, Ser. B, Bot. Zool. 98(Suppl. ): 37 (1996)
 
 #### Original name
 Dermatocarpon sbarbaronis Servít

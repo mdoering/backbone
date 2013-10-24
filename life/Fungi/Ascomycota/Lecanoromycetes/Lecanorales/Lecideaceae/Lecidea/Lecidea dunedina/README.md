@@ -1,5 +1,4 @@
-Lecidea dunedina Zahlbr. SPECIES
-=======
+# Lecidea dunedina Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

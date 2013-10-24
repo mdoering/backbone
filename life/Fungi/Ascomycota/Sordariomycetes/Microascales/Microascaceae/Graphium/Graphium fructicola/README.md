@@ -1,5 +1,4 @@
-Graphium fructicola Marchal & É.J. Marchal, 1921 SPECIES
-=======
+# Graphium fructicola Marchal & É.J. Marchal, 1921 SPECIES
 
 #### Status
 ACCEPTED

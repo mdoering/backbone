@@ -1,5 +1,4 @@
-Mycena Persoon ex S.F. Gray, 1821 GENUS
-=======
+# Mycena Persoon ex S.F. Gray, 1821 GENUS
 
 #### Status
 ACCEPTED

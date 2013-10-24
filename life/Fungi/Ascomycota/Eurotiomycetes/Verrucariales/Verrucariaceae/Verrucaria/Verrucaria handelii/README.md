@@ -1,5 +1,4 @@
-Verrucaria handelii SPECIES
-=======
+# Verrucaria handelii SPECIES
 
 #### Status
 ACCEPTED

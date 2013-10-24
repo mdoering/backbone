@@ -1,5 +1,4 @@
-Diaporthe tamaricina Sacc. & Flageolet, 1902 SPECIES
-=======
+# Diaporthe tamaricina Sacc. & Flageolet, 1902 SPECIES
 
 #### Status
 ACCEPTED

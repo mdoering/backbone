@@ -1,5 +1,4 @@
-Actinomyces globosus Krassiln. SPECIES
-=======
+# Actinomyces globosus Krassiln. SPECIES
 
 #### Status
 ACCEPTED

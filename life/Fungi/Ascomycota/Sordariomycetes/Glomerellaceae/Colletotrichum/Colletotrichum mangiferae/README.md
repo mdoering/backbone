@@ -1,5 +1,4 @@
-Colletotrichum mangiferae Kelkar SPECIES
-=======
+# Colletotrichum mangiferae Kelkar SPECIES
 
 #### Status
 ACCEPTED

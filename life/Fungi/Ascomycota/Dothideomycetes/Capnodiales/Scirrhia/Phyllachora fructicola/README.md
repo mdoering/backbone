@@ -1,5 +1,4 @@
-Phyllachora fructicola Henn., 1897 SPECIES
-=======
+# Phyllachora fructicola Henn., 1897 SPECIES
 
 #### Status
 DOUBTFUL

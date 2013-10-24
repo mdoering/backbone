@@ -1,5 +1,4 @@
-Lobariella Yoshim. GENUS
-=======
+# Lobariella Yoshim. GENUS
 
 #### Status
 ACCEPTED

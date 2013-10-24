@@ -1,5 +1,4 @@
-Phytophthora carica (Hara) Hori SPECIES
-=======
+# Phytophthora carica (Hara) Hori SPECIES
 
 #### Status
 ACCEPTED

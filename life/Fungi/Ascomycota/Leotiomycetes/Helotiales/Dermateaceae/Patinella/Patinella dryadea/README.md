@@ -1,5 +1,4 @@
-Patinella dryadea Velen. SPECIES
-=======
+# Patinella dryadea Velen. SPECIES
 
 #### Status
 ACCEPTED

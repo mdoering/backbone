@@ -1,5 +1,4 @@
-Inocybe rubrolaesa Secr. ex Gillet SPECIES
-=======
+# Inocybe rubrolaesa Secr. ex Gillet SPECIES
 
 #### Status
 ACCEPTED

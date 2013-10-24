@@ -1,5 +1,4 @@
-Campanella flava Rick SPECIES
-=======
+# Campanella flava Rick SPECIES
 
 #### Status
 ACCEPTED

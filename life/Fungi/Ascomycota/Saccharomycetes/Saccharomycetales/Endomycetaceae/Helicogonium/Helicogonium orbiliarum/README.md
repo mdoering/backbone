@@ -1,5 +1,4 @@
-Helicogonium orbiliarum Baral & G. Marson, 1999 SPECIES
-=======
+# Helicogonium orbiliarum Baral & G. Marson, 1999 SPECIES
 
 #### Status
 ACCEPTED

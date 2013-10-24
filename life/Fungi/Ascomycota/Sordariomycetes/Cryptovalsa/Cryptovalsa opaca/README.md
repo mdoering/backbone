@@ -1,5 +1,4 @@
-Cryptovalsa opaca (Cooke) Lar.N. Vassiljeva SPECIES
-=======
+# Cryptovalsa opaca (Cooke) Lar.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

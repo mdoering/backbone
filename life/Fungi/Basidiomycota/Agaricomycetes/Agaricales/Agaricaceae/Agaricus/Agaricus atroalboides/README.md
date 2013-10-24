@@ -1,5 +1,4 @@
-Agaricus atroalboides Peck SPECIES
-=======
+# Agaricus atroalboides Peck SPECIES
 
 #### Status
 ACCEPTED

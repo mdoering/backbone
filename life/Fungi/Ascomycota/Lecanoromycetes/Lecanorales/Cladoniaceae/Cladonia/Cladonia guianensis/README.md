@@ -1,5 +1,4 @@
-Cladonia guianensis S. Stenroos SPECIES
-=======
+# Cladonia guianensis S. Stenroos SPECIES
 
 #### Status
 ACCEPTED

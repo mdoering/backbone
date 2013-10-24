@@ -1,17 +1,16 @@
-Trabutia pithecolobii Cooke & Massee SPECIES
-=======
+# Trabutia pithecellobii Cooke & Massee SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Bailey, Botany Bulletin of the Department of Agriculture Brisbane 13: 32 (1896)
 
 #### Original name
-Trabutia pithecolobii Cooke & Massee
+Trabutia pithecellobii Cooke & Massee
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Skyttea tephromelarum Kalb & Hafellner SPECIES
-=======
+# Skyttea elachistophora (Nyl.) Sherwood & D. Hawksw. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-in Kalb, Lichenes Neotropici (Neumarkt), Fascicle <b>X</b> (nos 401-450) 15 (1988)
+in Sherwood, Hawksworth & Coppins, Trans. Br. mycol. Soc. 75(3): 484 (1981)
 
 #### Original name
-Skyttea tephromelarum Kalb & Hafellner
+null
 
 ### Remarks
 null

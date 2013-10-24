@@ -1,5 +1,4 @@
-Uronema parvum SPECIES
-=======
+# Uronema parvum SPECIES
 
 #### Status
 ACCEPTED

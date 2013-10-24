@@ -1,5 +1,4 @@
-Hypoxylon scriblita Mont. SPECIES
-=======
+# Hypoxylon scriblita Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gabura lepidea (Nyl.) Kuntze SPECIES
-=======
+# Gabura lepidea (Nyl.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

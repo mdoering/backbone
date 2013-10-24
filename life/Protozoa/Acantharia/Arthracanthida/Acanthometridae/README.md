@@ -1,5 +1,4 @@
-Acanthometridae Haeckel, 1887 FAMILY
-=======
+# Acanthometridae Haeckel, 1887 FAMILY
 
 #### Status
 ACCEPTED

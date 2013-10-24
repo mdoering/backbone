@@ -1,5 +1,4 @@
-Botrytis allochroa Link SPECIES
-=======
+# Botrytis allochroa Link SPECIES
 
 #### Status
 ACCEPTED

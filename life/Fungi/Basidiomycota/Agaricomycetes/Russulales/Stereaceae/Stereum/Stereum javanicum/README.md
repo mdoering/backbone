@@ -1,5 +1,4 @@
-Stereum javanicum Lloyd SPECIES
-=======
+# Stereum javanicum Lloyd SPECIES
 
 #### Status
 ACCEPTED

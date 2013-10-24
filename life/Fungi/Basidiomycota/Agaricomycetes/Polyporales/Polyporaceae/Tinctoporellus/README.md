@@ -1,5 +1,4 @@
-Tinctoporellus Ryvarden GENUS
-=======
+# Tinctoporellus Ryvarden GENUS
 
 #### Status
 ACCEPTED

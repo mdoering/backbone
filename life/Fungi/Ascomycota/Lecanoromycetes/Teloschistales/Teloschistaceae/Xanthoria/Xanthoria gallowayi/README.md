@@ -1,5 +1,4 @@
-Xanthoria gallowayi S.Y. Kondr. & Kärnefelt SPECIES
-=======
+# Xanthoria gallowayi S.Y. Kondr. & Kärnefelt SPECIES
 
 #### Status
 ACCEPTED

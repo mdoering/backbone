@@ -1,5 +1,4 @@
-Mycena deceptor Maas Geest. SPECIES
-=======
+# Mycena deceptor Maas Geest. SPECIES
 
 #### Status
 ACCEPTED

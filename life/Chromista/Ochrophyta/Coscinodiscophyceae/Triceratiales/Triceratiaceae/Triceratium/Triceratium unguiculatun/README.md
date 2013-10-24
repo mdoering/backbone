@@ -1,5 +1,4 @@
-Triceratium unguiculatun f. triangulum P.A. Sims & R. Ross FORM
-=======
+# Triceratium unguiculatun SPECIES
 
 #### Status
 ACCEPTED

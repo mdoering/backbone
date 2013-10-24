@@ -1,5 +1,4 @@
-Petriella Curzi, 1930 GENUS
-=======
+# Petriella Curzi, 1930 GENUS
 
 #### Status
 ACCEPTED

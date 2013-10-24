@@ -1,5 +1,4 @@
-Nidularia rudis (Peck) Sacc. & D. Sacc. SPECIES
-=======
+# Nidularia rudis (Peck) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

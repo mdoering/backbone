@@ -1,5 +1,4 @@
-Entoloma bryorum Romagn. SPECIES
-=======
+# Entoloma bryorum Romagn. SPECIES
 
 #### Status
 ACCEPTED

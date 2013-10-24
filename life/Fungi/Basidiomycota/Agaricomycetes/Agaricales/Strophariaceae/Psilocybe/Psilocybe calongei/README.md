@@ -1,5 +1,4 @@
-Psilocybe calongei G. Moreno & Esteve-Rav. SPECIES
-=======
+# Psilocybe calongei G. Moreno & Esteve-Rav. SPECIES
 
 #### Status
 ACCEPTED

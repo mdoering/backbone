@@ -1,5 +1,4 @@
-Strigula cinefaciens (Nyl.) R.C. Harris SPECIES
-=======
+# Strigula cinefaciens (Nyl.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

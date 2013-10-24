@@ -1,5 +1,4 @@
-Hubeiella Lin, 1977 GENUS
-=======
+# Hubeiella Lin, 1977 GENUS
 
 #### Status
 ACCEPTED

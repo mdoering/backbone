@@ -1,5 +1,4 @@
-Microsphaera ligustri I. Hino & Katum. SPECIES
-=======
+# Microsphaera ligustri I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

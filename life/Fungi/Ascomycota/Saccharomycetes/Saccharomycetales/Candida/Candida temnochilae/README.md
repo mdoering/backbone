@@ -1,5 +1,4 @@
-Candida temnochilae S.O. Suh, N.H. Nguyen & M. Blackw., 2005 SPECIES
-=======
+# Candida temnochilae S.O. Suh, N.H. Nguyen & M. Blackw., 2005 SPECIES
 
 #### Status
 ACCEPTED

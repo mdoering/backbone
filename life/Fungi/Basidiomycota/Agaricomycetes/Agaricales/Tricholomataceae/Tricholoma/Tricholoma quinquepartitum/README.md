@@ -1,17 +1,16 @@
-Tricholoma quinquepartitum var. quinquepartitum VARIETY
-=======
+# Tricholoma quinquepartitum (Fr.) Gillet SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Hyménomycètes (Alençon) 96 (1874)
 
 #### Original name
-null
+Agaricus quinquepartitus L.
 
 ### Remarks
 null

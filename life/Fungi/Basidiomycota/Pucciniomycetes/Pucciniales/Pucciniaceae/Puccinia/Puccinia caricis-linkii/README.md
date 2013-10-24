@@ -1,5 +1,4 @@
-Puccinia caricis-linkii Gonz. Frag. SPECIES
-=======
+# Puccinia caricis-linkii Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Semisphaeria sigmundii K. Holm & L. Holm, 1991 SPECIES
-=======
+# Semisphaeria sigmundii K. Holm & L. Holm, 1991 SPECIES
 
 #### Status
 ACCEPTED

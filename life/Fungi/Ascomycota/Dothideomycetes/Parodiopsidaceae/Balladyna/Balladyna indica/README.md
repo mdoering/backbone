@@ -1,5 +1,4 @@
-Balladyna indica V. B. Hosagoudar, 2009 SPECIES
-=======
+# Balladyna indica V. B. Hosagoudar, 2009 SPECIES
 
 #### Status
 ACCEPTED

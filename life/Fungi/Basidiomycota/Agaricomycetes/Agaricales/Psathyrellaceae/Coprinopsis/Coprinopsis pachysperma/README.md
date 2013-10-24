@@ -1,5 +1,4 @@
-Coprinopsis pachysperma (P.D. Orton) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
-=======
+# Coprinopsis pachysperma (P.D. Orton) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
 
 #### Status
 ACCEPTED

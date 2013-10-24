@@ -1,5 +1,4 @@
-Histeridomyces Thaxt. GENUS
-=======
+# Histeridomyces Thaxt. GENUS
 
 #### Status
 ACCEPTED

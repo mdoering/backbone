@@ -1,5 +1,4 @@
-Polyporus bathyporus Rostk. SPECIES
-=======
+# Polyporus bathyporus Rostk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetomium bangkokanum K. Gopal & Lodha SPECIES
-=======
+# Chaetomium bangkokanum K. Gopal & Lodha SPECIES
 
 #### Status
 ACCEPTED

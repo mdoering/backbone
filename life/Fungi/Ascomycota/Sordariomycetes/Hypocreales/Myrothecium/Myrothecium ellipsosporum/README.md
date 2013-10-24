@@ -1,5 +1,4 @@
-Myrothecium ellipsosporum Fuckel SPECIES
-=======
+# Myrothecium ellipsosporum Fuckel SPECIES
 
 #### Status
 ACCEPTED

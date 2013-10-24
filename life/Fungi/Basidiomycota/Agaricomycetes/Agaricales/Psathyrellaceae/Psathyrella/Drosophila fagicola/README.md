@@ -1,5 +1,4 @@
-Drosophila fagicola (Lasch) Quél. SPECIES
-=======
+# Drosophila fagicola (Lasch) Quél. SPECIES
 
 #### Status
 ACCEPTED

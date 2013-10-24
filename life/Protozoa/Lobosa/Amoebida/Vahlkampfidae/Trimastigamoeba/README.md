@@ -1,5 +1,4 @@
-Trimastigamoeba Whitmore, 1911 GENUS
-=======
+# Trimastigamoeba Whitmore, 1911 GENUS
 
 #### Status
 ACCEPTED

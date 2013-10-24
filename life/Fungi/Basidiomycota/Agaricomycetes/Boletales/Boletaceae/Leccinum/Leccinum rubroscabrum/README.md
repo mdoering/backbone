@@ -1,5 +1,4 @@
-Leccinum rubroscabrum Heinem. SPECIES
-=======
+# Leccinum rubroscabrum Heinem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leucoporus albiceps (Peck) Pomerl. & Sirard SPECIES
-=======
+# Leucoporus albiceps (Peck) Pomerl. & Sirard SPECIES
 
 #### Status
 ACCEPTED

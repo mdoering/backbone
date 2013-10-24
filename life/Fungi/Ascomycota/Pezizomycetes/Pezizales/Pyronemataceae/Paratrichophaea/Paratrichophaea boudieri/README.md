@@ -1,14 +1,13 @@
-Lachnea boudieri (Grelet) Sacc., 1928 SPECIES
-=======
+# Paratrichophaea boudieri (Grelet) Bronckers, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 24(2): 1175 (1928)
+Sterbeeckia 23: 20 (2003)
 
 #### Original name
 Trichophaea boudieri Grelet, 1917

@@ -1,5 +1,4 @@
-Gyraria cinnabarina (Bull.) Gray SPECIES
-=======
+# Gyraria cinnabarina (Bull.) Gray SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea xylogena Müll. Arg. SPECIES
-=======
+# Lecidea xylogena Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

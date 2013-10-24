@@ -1,5 +1,4 @@
-Pestalotia andropogonis Rostr. SPECIES
-=======
+# Pestalotia andropogonis Rostr. SPECIES
 
 #### Status
 ACCEPTED

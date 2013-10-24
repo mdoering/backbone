@@ -1,5 +1,4 @@
-Plagiostigme couraliae Syd., 1925 SPECIES
-=======
+# Plagiostigme couraliae Syd., 1925 SPECIES
 
 #### Status
 ACCEPTED

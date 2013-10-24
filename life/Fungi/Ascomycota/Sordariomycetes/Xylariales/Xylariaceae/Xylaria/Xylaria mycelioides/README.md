@@ -1,5 +1,4 @@
-Xylaria mycelioides Lloyd SPECIES
-=======
+# Xylaria mycelioides Lloyd SPECIES
 
 #### Status
 ACCEPTED

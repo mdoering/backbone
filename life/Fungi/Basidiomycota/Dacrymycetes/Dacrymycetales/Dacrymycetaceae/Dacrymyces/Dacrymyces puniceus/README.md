@@ -1,5 +1,4 @@
-Dacrymyces puniceus Kobayasi SPECIES
-=======
+# Dacrymyces puniceus Kobayasi SPECIES
 
 #### Status
 ACCEPTED

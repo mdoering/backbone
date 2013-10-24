@@ -1,5 +1,4 @@
-Balanium stygium Wallr., 1833 SPECIES
-=======
+# Balanium stygium Wallr., 1833 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Lecidea sorediza var. sorediza VARIETY
-=======
+# Porpidia tuberculosa (Sm.) Hertel & Knoph SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Hertel, Beih. Nova Hedwigia 79: 438 (1984)
 
 #### Original name
-Lecidea sorediza var. sorediza
+Spiloma tuberculosa A.H. Sm.
 
 ### Remarks
 null

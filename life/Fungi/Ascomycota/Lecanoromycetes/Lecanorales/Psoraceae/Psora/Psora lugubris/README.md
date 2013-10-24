@@ -1,5 +1,4 @@
-Psora lugubris (Fr.) A. Massal. SPECIES
-=======
+# Psora lugubris (Fr.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

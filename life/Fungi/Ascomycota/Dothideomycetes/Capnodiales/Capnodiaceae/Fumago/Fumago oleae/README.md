@@ -1,5 +1,4 @@
-Fumago oleae Tul. SPECIES
-=======
+# Fumago oleae Tul. SPECIES
 
 #### Status
 ACCEPTED

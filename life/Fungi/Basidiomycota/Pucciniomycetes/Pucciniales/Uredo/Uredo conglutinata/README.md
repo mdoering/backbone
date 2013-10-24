@@ -1,5 +1,4 @@
-Uredo conglutinata P. Karst. SPECIES
-=======
+# Uredo conglutinata P. Karst. SPECIES
 
 #### Status
 ACCEPTED

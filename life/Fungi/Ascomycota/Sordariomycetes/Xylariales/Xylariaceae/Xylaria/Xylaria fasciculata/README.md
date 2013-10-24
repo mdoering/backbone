@@ -1,5 +1,4 @@
-Xylaria fasciculata Speg. SPECIES
-=======
+# Xylaria fasciculata Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Podosphaera intermedia (U. Braun) U. Braun & S. Takam. SPECIES
-=======
+# Podosphaera intermedia (U. Braun) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

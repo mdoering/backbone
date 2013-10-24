@@ -1,5 +1,4 @@
-Stauromesosaturnalis Kozur & Mostler, 1990 GENUS
-=======
+# Stauromesosaturnalis Kozur & Mostler, 1990 GENUS
 
 #### Status
 ACCEPTED

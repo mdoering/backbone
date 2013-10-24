@@ -1,5 +1,4 @@
-Heterosphaeria intermedia Höhn. SPECIES
-=======
+# Heterosphaeria intermedia Höhn. SPECIES
 
 #### Status
 ACCEPTED

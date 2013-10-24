@@ -1,5 +1,4 @@
-Dermatocarpon finckei Zahlbr. SPECIES
-=======
+# Dermatocarpon finckei Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

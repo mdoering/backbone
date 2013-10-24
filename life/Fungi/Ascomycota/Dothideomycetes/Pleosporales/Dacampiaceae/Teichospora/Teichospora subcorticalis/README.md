@@ -1,5 +1,4 @@
-Teichospora subcorticalis (Feltgen) Sacc. & D. Sacc. SPECIES
-=======
+# Teichospora subcorticalis (Feltgen) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

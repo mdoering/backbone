@@ -1,5 +1,4 @@
-Ciboria salmonea Raitv. & H.D. Shin SPECIES
-=======
+# Ciboria salmonea Raitv. & H.D. Shin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microsphaera meliosmae Tanada & Y. Nomura SPECIES
-=======
+# Microsphaera meliosmae Tanada & Y. Nomura SPECIES
 
 #### Status
 ACCEPTED

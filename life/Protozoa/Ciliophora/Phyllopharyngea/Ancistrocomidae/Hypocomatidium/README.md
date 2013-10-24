@@ -1,5 +1,4 @@
-Hypocomatidium Jarocki & Raabe, 1932 GENUS
-=======
+# Hypocomatidium Jarocki & Raabe, 1932 GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Cladonia floerkeana var. alpina Asahina VARIETY
-=======
+# Cladonia alpina (Asahina) Yoshim. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Japanese Journal of Botany 15: 665 (1939)
+J. Hattori bot. Lab. 31: 198 (1968)
 
 #### Original name
 Cladonia floerkeana var. alpina Asahina

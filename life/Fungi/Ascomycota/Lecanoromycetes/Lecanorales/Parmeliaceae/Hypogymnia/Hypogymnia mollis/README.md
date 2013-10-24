@@ -1,5 +1,4 @@
-Hypogymnia mollis L. H. Pike & Hale SPECIES
-=======
+# Hypogymnia mollis L. H. Pike & Hale SPECIES
 
 #### Status
 ACCEPTED

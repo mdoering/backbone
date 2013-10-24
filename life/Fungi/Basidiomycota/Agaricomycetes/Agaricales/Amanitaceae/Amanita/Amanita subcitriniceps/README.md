@@ -1,5 +1,4 @@
-Amanita subcitriniceps (Murrill) Murrill SPECIES
-=======
+# Amanita subcitriniceps (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

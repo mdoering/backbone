@@ -1,5 +1,4 @@
-Irenina leucosykeae Hansf. SPECIES
-=======
+# Irenina leucosykeae Hansf. SPECIES
 
 #### Status
 ACCEPTED

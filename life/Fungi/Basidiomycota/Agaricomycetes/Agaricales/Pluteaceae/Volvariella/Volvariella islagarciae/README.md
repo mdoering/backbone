@@ -1,5 +1,4 @@
-Volvariella islagarciae Raithelh. SPECIES
-=======
+# Volvariella islagarciae Raithelh. SPECIES
 
 #### Status
 ACCEPTED

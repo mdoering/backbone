@@ -1,5 +1,4 @@
-Deunffia furcata Downie, 1960 SPECIES
-=======
+# Deunffia furcata Downie, 1960 SPECIES
 
 #### Status
 ACCEPTED

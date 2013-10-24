@@ -1,5 +1,4 @@
-Phaeobotryosphaeria hypoxyloides Rick SPECIES
-=======
+# Phaeobotryosphaeria hypoxyloides Rick SPECIES
 
 #### Status
 ACCEPTED

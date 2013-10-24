@@ -1,5 +1,4 @@
-Graphis subdiversa Nyl. SPECIES
-=======
+# Graphis subdiversa Nyl. SPECIES
 
 #### Status
 ACCEPTED

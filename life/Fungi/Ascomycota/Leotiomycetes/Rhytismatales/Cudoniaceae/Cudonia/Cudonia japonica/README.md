@@ -1,5 +1,4 @@
-Cudonia japonica Yasuda SPECIES
-=======
+# Cudonia japonica Yasuda SPECIES
 
 #### Status
 ACCEPTED

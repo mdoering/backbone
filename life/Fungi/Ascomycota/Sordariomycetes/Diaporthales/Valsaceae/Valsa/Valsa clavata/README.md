@@ -1,5 +1,4 @@
-Valsa clavata Scop. SPECIES
-=======
+# Valsa clavata Scop. SPECIES
 
 #### Status
 ACCEPTED

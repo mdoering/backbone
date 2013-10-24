@@ -1,5 +1,4 @@
-Pseudocercospora annonacea (Kamal, Narayan & R.P. Verma) U. Braun SPECIES
-=======
+# Pseudocercospora annonacea (Kamal, Narayan & R.P. Verma) U. Braun SPECIES
 
 #### Status
 ACCEPTED

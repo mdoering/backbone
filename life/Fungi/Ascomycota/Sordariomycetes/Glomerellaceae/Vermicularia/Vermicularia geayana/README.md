@@ -1,5 +1,4 @@
-Vermicularia geayana Delacr. SPECIES
-=======
+# Vermicularia geayana Delacr. SPECIES
 
 #### Status
 ACCEPTED

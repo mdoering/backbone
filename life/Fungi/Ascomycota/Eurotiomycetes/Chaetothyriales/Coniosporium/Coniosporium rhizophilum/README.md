@@ -1,5 +1,4 @@
-Coniosporium rhizophilum (Preuss) Sacc. SPECIES
-=======
+# Coniosporium rhizophilum (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

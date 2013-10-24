@@ -1,8 +1,7 @@
-Angulogerina galapagoensis McCulloch, 1977 SPECIES
-=======
+# Trifarina pacifica (Albani, 1974) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

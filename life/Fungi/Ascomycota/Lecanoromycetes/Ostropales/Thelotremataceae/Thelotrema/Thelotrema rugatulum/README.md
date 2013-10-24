@@ -1,17 +1,16 @@
-Phanotylium australiense (Müll. Arg.) Clem. SPECIES
-=======
+# Thelotrema rugatulum Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Gen. fung. (Minneapolis) (1909)
+null
 
 #### Original name
-Tremotylium australiense Müll. Arg.
+Thelotrema rugatulum Nyl.
 
 ### Remarks
 null

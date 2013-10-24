@@ -1,5 +1,4 @@
-Monascus pallens P.F. Cannon, Abdullah & B.A. Abbas SPECIES
-=======
+# Monascus pallens P.F. Cannon, Abdullah & B.A. Abbas SPECIES
 
 #### Status
 ACCEPTED

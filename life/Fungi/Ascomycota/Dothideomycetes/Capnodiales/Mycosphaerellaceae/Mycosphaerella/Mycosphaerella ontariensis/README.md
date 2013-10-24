@@ -1,5 +1,4 @@
-Mycosphaerella ontariensis R. Stone SPECIES
-=======
+# Mycosphaerella ontariensis R. Stone SPECIES
 
 #### Status
 ACCEPTED

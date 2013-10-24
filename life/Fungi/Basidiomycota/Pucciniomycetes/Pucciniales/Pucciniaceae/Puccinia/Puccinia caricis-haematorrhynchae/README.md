@@ -1,5 +1,4 @@
-Puccinia caricis-haematorrhynchae Dietel & Neger SPECIES
-=======
+# Puccinia caricis-haematorrhynchae Dietel & Neger SPECIES
 
 #### Status
 ACCEPTED

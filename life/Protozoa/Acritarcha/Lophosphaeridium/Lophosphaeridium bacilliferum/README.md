@@ -1,5 +1,4 @@
-Lophosphaeridium bacilliferum Vanguestaine, 1974 SPECIES
-=======
+# Lophosphaeridium bacilliferum Vanguestaine, 1974 SPECIES
 
 #### Status
 ACCEPTED

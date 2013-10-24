@@ -1,5 +1,4 @@
-Haematomma puniceum subsp. puniceum SUBSPECIES
-=======
+# Haematomma puniceum (Sw.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Atti Inst. Veneto Sci. lett. , ed Arti, Sér. 3 5: 253 (1860)
 
 #### Original name
-null
+Lichen puniceus Sw.
 
 ### Remarks
 null

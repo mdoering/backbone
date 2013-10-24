@@ -1,5 +1,4 @@
-Polystictus discipes Berk. SPECIES
-=======
+# Polystictus discipes Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius aurantiobasis Ammirati & A.H. Sm. SPECIES
-=======
+# Cortinarius aurantiobasis Ammirati & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

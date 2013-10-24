@@ -1,5 +1,4 @@
-Eutypella kochiana var. kochiana VARIETY
-=======
+# Eutypella kochiana Rehm SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 11(5): 400 (1913)
 
 #### Original name
-Eutypella kochiana var. kochiana
+Eutypella kochiana Rehm
 
 ### Remarks
 null

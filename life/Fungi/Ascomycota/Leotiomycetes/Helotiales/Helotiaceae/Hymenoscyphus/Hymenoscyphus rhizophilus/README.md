@@ -1,14 +1,13 @@
-Calycina rhizophila (Fuckel) Kuntze, 1898 SPECIES
-=======
+# Hymenoscyphus rhizophilus (Fuckel) W. Phillips, 1887 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 449 (1898)
+Man. Brit. Discomyc. (London) 144 (1887)
 
 #### Original name
 Ciboria rhizophila Fuckel, 1870

@@ -1,5 +1,4 @@
-Sporisorium penniseticola Vánky SPECIES
-=======
+# Sporisorium penniseticola Vánky SPECIES
 
 #### Status
 ACCEPTED

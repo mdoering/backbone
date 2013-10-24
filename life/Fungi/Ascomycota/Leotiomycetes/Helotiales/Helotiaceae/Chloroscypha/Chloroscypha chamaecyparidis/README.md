@@ -1,5 +1,4 @@
-Chloroscypha chamaecyparidis (Sawada) T. Kobay. {?} SPECIES
-=======
+# Chloroscypha chamaecyparidis (Sawada) T. Kobay. {?} SPECIES
 
 #### Status
 ACCEPTED

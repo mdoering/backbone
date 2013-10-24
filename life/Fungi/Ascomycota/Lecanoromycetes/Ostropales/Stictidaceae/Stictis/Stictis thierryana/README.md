@@ -1,5 +1,4 @@
-Stictis thierryana Roum. SPECIES
-=======
+# Stictis thierryana Roum. SPECIES
 
 #### Status
 ACCEPTED

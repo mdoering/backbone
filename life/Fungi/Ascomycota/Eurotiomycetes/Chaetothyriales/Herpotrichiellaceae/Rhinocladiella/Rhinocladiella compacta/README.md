@@ -1,5 +1,4 @@
-Rhinocladiella compacta de Hoog, 1977 SPECIES
-=======
+# Rhinocladiella compacta de Hoog, 1977 SPECIES
 
 #### Status
 ACCEPTED

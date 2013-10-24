@@ -1,5 +1,4 @@
-Hymenoscyphus caracasensis (Dennis) Dennis SPECIES
-=======
+# Hymenoscyphus caracasensis (Dennis) Dennis SPECIES
 
 #### Status
 ACCEPTED

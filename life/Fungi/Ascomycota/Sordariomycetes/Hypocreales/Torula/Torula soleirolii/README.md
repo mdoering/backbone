@@ -1,5 +1,4 @@
-Torula soleirolii Duby SPECIES
-=======
+# Torula soleirolii Duby SPECIES
 
 #### Status
 ACCEPTED

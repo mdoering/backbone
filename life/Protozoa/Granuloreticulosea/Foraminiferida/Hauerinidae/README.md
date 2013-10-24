@@ -1,5 +1,4 @@
-Hauerinidae Schwager, 1876 FAMILY
-=======
+# Hauerinidae Schwager, 1876 FAMILY
 
 #### Status
 ACCEPTED

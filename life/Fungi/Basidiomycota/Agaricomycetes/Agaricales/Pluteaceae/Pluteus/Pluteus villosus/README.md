@@ -1,17 +1,16 @@
-Agaricus nigrovillosus J.F. Gmel., 1792 SPECIES
-=======
+# Pluteus villosus (Bull.) Quél., 1888 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Systema Naturae, Edn 13 2: 1414 (1792)
+Fl. mycol. France (Paris) 187 (1888)
 
 #### Original name
-Agaricus nigrovillosus J.F. Gmel., 1792
+Agaricus villosus Bull., 1785
 
 ### Remarks
 null

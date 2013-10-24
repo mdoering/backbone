@@ -1,5 +1,4 @@
-Thiobacteriaceae FAMILY
-=======
+# Thiobacteriaceae FAMILY
 
 #### Status
 ACCEPTED

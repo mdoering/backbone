@@ -1,5 +1,4 @@
-Reduviasporonites catenulatus L.R. Wilson SPECIES
-=======
+# Reduviasporonites catenulatus L.R. Wilson SPECIES
 
 #### Status
 ACCEPTED

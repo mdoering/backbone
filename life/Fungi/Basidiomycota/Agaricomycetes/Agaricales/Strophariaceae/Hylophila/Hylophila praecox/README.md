@@ -1,5 +1,4 @@
-Hylophila praecox (Pers.) Quél. SPECIES
-=======
+# Hylophila praecox (Pers.) Quél. SPECIES
 
 #### Status
 ACCEPTED

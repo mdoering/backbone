@@ -1,5 +1,4 @@
-Valvulina pennatula SPECIES
-=======
+# Valvulina pennatula SPECIES
 
 #### Status
 ACCEPTED

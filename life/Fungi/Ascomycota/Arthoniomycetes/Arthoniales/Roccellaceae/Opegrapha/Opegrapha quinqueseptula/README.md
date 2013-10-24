@@ -1,5 +1,4 @@
-Opegrapha quinqueseptula Zahlbr. SPECIES
-=======
+# Opegrapha quinqueseptula Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

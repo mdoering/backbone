@@ -1,5 +1,4 @@
-Macrosporium geraniaceae Sousa da Câmara SPECIES
-=======
+# Macrosporium geraniaceae Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

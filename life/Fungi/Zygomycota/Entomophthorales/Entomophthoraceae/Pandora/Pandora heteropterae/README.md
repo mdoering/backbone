@@ -1,5 +1,4 @@
-Pandora heteropterae (Balazy) S. Keller, 2005 SPECIES
-=======
+# Pandora heteropterae (Balazy) S. Keller, 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleurotus torulosus (Pers.) Pilát SPECIES
-=======
+# Pleurotus torulosus (Pers.) Pilát SPECIES
 
 #### Status
 ACCEPTED

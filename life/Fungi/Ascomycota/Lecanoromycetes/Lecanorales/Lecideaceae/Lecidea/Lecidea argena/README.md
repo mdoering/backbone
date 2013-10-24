@@ -1,5 +1,4 @@
-Lecidea argena (Ach.) Ach. SPECIES
-=======
+# Lecidea argena (Ach.) Ach. SPECIES
 
 #### Status
 ACCEPTED

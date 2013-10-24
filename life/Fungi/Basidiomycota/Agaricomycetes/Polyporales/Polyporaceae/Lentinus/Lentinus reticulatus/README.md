@@ -1,5 +1,4 @@
-Lentinus reticulatus (Berk.) Henn. SPECIES
-=======
+# Lentinus reticulatus (Berk.) Henn. SPECIES
 
 #### Status
 ACCEPTED

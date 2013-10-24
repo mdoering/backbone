@@ -1,5 +1,4 @@
-Lichen aphaneus Ach. SPECIES
-=======
+# Lichen aphaneus Ach. SPECIES
 
 #### Status
 ACCEPTED

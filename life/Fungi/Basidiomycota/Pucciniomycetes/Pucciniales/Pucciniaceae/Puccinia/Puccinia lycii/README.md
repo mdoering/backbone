@@ -1,14 +1,13 @@
-Dicaeoma lycii (Kalchbr.) Kuntze, 1898 SPECIES
-=======
+# Puccinia lycii Kalchbr., 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 469 (1898)
+Grevillea 11(no. 57): 21 (1882)
 
 #### Original name
 Puccinia lycii Kalchbr., 1882

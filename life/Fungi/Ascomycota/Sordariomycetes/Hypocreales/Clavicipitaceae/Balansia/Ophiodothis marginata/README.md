@@ -1,5 +1,4 @@
-Ophiodothis marginata Theiss. SPECIES
-=======
+# Ophiodothis marginata Theiss. SPECIES
 
 #### Status
 ACCEPTED

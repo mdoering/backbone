@@ -1,5 +1,4 @@
-Sphaerocista stromatica Preuss SPECIES
-=======
+# Sphaerocista stromatica Preuss SPECIES
 
 #### Status
 ACCEPTED

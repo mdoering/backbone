@@ -1,5 +1,4 @@
-Rhabdospora hieracii Siemaszko SPECIES
-=======
+# Rhabdospora hieracii Siemaszko SPECIES
 
 #### Status
 ACCEPTED

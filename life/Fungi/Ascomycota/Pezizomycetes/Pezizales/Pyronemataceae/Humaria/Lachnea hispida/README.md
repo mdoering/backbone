@@ -1,5 +1,4 @@
-Lachnea hispida Quél. SPECIES
-=======
+# Lachnea hispida Quél. SPECIES
 
 #### Status
 ACCEPTED

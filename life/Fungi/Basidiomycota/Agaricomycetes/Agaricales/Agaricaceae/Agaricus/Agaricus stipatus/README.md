@@ -1,5 +1,4 @@
-Agaricus stipatus var. stipatus VARIETY
-=======
+# Agaricus stipatus Pers. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Syn. meth. fung. (Göttingen) 2: 423 (1801)
 
 #### Original name
-Agaricus stipatus var. stipatus
+Agaricus stipatus Pers.
 
 ### Remarks
 null

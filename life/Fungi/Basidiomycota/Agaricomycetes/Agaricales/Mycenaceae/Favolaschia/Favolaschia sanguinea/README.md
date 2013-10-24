@@ -1,5 +1,4 @@
-Favolaschia sanguinea Henn. SPECIES
-=======
+# Favolaschia sanguinea Henn. SPECIES
 
 #### Status
 ACCEPTED

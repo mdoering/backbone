@@ -1,8 +1,7 @@
-Eccilia watsoni Peck SPECIES
-=======
+# Eccilia watsonii Peck SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Eccilia watsoni Peck
+Eccilia watsonii Peck
 
 ### Remarks
 null

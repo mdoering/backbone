@@ -1,5 +1,4 @@
-Phoma billsii J.F. White SPECIES
-=======
+# Phoma billsii J.F. White SPECIES
 
 #### Status
 ACCEPTED

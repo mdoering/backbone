@@ -1,5 +1,4 @@
-Diplotheca Valkanov, 1970 GENUS
-=======
+# Diplotheca Valkanov, 1970 GENUS
 
 #### Status
 ACCEPTED

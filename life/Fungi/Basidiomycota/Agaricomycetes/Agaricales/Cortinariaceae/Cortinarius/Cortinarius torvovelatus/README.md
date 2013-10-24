@@ -1,5 +1,4 @@
-Cortinarius torvovelatus Reumaux SPECIES
-=======
+# Cortinarius torvovelatus Reumaux SPECIES
 
 #### Status
 ACCEPTED

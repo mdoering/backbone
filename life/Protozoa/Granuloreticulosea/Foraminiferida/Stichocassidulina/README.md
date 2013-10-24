@@ -1,5 +1,4 @@
-Stichocassidulina Stone, 1946 GENUS
-=======
+# Stichocassidulina Stone, 1946 GENUS
 
 #### Status
 ACCEPTED

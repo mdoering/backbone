@@ -1,5 +1,4 @@
-Hymenochaete macrospora Y.C. Dai, 2000 SPECIES
-=======
+# Hymenochaete macrospora Y.C. Dai, 2000 SPECIES
 
 #### Status
 ACCEPTED

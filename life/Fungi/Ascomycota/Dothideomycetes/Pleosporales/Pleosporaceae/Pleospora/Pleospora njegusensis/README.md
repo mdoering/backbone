@@ -1,5 +1,4 @@
-Pleospora njegusensis Bubák, 1915 SPECIES
-=======
+# Pleospora njegusensis Bubák, 1915 SPECIES
 
 #### Status
 ACCEPTED

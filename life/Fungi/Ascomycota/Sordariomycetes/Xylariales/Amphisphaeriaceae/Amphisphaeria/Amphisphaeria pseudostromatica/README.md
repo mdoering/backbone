@@ -1,5 +1,4 @@
-Amphisphaeria pseudostromatica Rick SPECIES
-=======
+# Amphisphaeria pseudostromatica Rick SPECIES
 
 #### Status
 ACCEPTED

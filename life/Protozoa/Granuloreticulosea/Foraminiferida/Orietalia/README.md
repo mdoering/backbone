@@ -1,5 +1,4 @@
-Orietalia GENUS
-=======
+# Orietalia GENUS
 
 #### Status
 ACCEPTED

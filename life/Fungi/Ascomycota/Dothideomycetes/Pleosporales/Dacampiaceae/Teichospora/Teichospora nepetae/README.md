@@ -1,5 +1,4 @@
-Teichospora nepetae Ellis & Everh. SPECIES
-=======
+# Teichospora nepetae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

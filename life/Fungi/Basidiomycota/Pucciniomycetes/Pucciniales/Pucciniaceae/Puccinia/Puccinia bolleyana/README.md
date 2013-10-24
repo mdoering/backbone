@@ -1,5 +1,4 @@
-Puccinia bolleyana Sacc. SPECIES
-=======
+# Puccinia bolleyana Sacc. SPECIES
 
 #### Status
 ACCEPTED

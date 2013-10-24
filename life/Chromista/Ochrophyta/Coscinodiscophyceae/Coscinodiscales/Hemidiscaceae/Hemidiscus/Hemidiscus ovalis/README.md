@@ -1,5 +1,4 @@
-Hemidiscus ovalis (R. Gersonde) D.M. Harwood & T. Maruyama SPECIES
-=======
+# Hemidiscus ovalis (R. Gersonde) D.M. Harwood & T. Maruyama SPECIES
 
 #### Status
 ACCEPTED

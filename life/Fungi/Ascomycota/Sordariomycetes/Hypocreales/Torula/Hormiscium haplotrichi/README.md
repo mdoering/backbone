@@ -1,5 +1,4 @@
-Hormiscium haplotrichi (Corda) Bonord. SPECIES
-=======
+# Hormiscium haplotrichi (Corda) Bonord. SPECIES
 
 #### Status
 ACCEPTED

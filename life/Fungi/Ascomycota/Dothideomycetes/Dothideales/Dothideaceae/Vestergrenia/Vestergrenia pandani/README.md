@@ -1,5 +1,4 @@
-Vestergrenia pandani P.B. Chavan & Hosag. SPECIES
-=======
+# Vestergrenia pandani P.B. Chavan & Hosag. SPECIES
 
 #### Status
 ACCEPTED

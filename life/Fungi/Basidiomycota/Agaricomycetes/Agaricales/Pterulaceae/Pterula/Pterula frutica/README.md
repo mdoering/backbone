@@ -1,5 +1,4 @@
-Pterula frutica Lloyd SPECIES
-=======
+# Pterula frutica Lloyd SPECIES
 
 #### Status
 ACCEPTED

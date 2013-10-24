@@ -1,5 +1,4 @@
-Tuburcinia murashkinskyi Cif. SPECIES
-=======
+# Tuburcinia murashkinskyi Cif. SPECIES
 
 #### Status
 ACCEPTED

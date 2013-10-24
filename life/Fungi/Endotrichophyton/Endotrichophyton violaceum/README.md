@@ -1,5 +1,4 @@
-Endotrichophyton violaceum (E. Bodin) Moraes SPECIES
-=======
+# Endotrichophyton violaceum (E. Bodin) Moraes SPECIES
 
 #### Status
 ACCEPTED

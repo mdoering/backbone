@@ -1,5 +1,4 @@
-Sorosporium maranguensis Henn. SPECIES
-=======
+# Sorosporium maranguensis Henn. SPECIES
 
 #### Status
 ACCEPTED

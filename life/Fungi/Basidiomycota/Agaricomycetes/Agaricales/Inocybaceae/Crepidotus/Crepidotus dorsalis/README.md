@@ -1,5 +1,4 @@
-Crepidotus dorsalis Peck SPECIES
-=======
+# Crepidotus dorsalis Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Glaucoma ficaria Kahl, 1926 SPECIES
-=======
+# Glaucoma ficaria Kahl, 1926 SPECIES
 
 #### Status
 ACCEPTED

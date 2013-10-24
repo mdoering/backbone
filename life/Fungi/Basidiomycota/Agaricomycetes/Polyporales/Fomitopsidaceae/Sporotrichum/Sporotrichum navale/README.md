@@ -1,5 +1,4 @@
-Sporotrichum navale P. Joly SPECIES
-=======
+# Sporotrichum navale P. Joly SPECIES
 
 #### Status
 ACCEPTED

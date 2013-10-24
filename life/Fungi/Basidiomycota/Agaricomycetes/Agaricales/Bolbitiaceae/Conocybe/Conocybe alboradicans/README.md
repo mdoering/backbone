@@ -1,5 +1,4 @@
-Conocybe alboradicans var. alboradicans VARIETY
-=======
+# Conocybe alboradicans Arnolds SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Biblthca Mycol. 90: 302 (1982)
 
 #### Original name
-Conocybe alboradicans var. alboradicans
+Conocybe alboradicans Arnolds
 
 ### Remarks
 null

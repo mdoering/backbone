@@ -1,5 +1,4 @@
-Geotrichum nobile (Sartory, J. Mey. & Charles) Nann. SPECIES
-=======
+# Geotrichum nobile (Sartory, J. Mey. & Charles) Nann. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia ruhangensis Vain. SPECIES
-=======
+# Parmelia ruhangensis Vain. SPECIES
 
 #### Status
 ACCEPTED

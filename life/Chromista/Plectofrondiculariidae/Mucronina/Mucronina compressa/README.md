@@ -1,8 +1,7 @@
-Frondicularia compressa Costa, 1855 SPECIES
-=======
+# Mucronina compressa Costa, 1855 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

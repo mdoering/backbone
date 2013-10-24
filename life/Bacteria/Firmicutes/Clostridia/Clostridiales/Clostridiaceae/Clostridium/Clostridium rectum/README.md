@@ -1,11 +1,10 @@
-Hiblerillus rectus Heller, 1922 SPECIES
-=======
+# Clostridium rectum (Heller, 1922) Holdeman and Moore, 1972 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

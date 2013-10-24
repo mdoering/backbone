@@ -1,5 +1,4 @@
-Rhodocybe alutacea Singer SPECIES
-=======
+# Rhodocybe alutacea Singer SPECIES
 
 #### Status
 ACCEPTED

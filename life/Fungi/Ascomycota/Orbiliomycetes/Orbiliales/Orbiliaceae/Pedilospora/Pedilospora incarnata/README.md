@@ -1,5 +1,4 @@
-Pedilospora incarnata (G.W. Martin) Damon SPECIES
-=======
+# Pedilospora incarnata (G.W. Martin) Damon SPECIES
 
 #### Status
 ACCEPTED

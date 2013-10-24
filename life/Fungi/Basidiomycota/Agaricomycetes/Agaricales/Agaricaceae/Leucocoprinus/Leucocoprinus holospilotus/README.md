@@ -1,14 +1,13 @@
-Agaricus holospilotus Berk. & Broome, 1871 SPECIES
-=======
+# Leucocoprinus holospilotus (Berk. & Broome) D.A. Reid, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Linn. Soc. , Bot. 11(no. 56): 497 (1871)
+Mycol. Res. 94(5): 648 (1990)
 
 #### Original name
 Agaricus holospilotus Berk. & Broome, 1871

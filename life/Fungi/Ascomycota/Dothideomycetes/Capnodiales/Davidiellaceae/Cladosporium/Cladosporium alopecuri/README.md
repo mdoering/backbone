@@ -1,5 +1,4 @@
-Cladosporium alopecuri (Ellis & Everh.) U. Braun SPECIES
-=======
+# Cladosporium alopecuri (Ellis & Everh.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

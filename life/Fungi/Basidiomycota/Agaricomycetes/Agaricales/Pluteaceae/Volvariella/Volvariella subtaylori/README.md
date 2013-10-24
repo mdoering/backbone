@@ -1,5 +1,4 @@
-Volvariella subtaylori Hongo SPECIES
-=======
+# Volvariella subtaylori Hongo SPECIES
 
 #### Status
 ACCEPTED

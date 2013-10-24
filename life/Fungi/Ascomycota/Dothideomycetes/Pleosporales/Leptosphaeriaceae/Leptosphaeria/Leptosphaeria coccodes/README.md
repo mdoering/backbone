@@ -1,5 +1,4 @@
-Leptosphaeria coccodes P. Karst. SPECIES
-=======
+# Leptosphaeria coccodes P. Karst. SPECIES
 
 #### Status
 ACCEPTED

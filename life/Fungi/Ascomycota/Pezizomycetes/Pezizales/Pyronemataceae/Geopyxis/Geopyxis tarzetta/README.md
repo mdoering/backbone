@@ -1,17 +1,16 @@
-Geopyxis tazzetta (Cooke) Sacc. SPECIES
-=======
+# Geopyxis tarzetta (Cooke) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 8: 66 (1889)
 
 #### Original name
-Peziza tazzetta Cooke
+Peziza tarzetta Cooke
 
 ### Remarks
 null

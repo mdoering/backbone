@@ -1,5 +1,4 @@
-Cylindrotrichum polyspermum P. Karst. SPECIES
-=======
+# Cylindrotrichum polyspermum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

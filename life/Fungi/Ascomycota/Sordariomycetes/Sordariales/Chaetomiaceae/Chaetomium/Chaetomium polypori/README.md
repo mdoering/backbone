@@ -1,5 +1,4 @@
-Chaetomium polypori Rehm SPECIES
-=======
+# Chaetomium polypori Rehm SPECIES
 
 #### Status
 ACCEPTED

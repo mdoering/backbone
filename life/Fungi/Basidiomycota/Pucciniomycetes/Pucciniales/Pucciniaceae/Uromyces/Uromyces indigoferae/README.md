@@ -1,5 +1,4 @@
-Uromyces indigoferae f. sp FORM
-=======
+# Uromyces indigoferae Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+in Holway, Bot. Gaz. 31: 328 (1901)
 
 #### Original name
-Uromyces indigoferae f. sp
+Uromyces indigoferae Dietel & Holw.
 
 ### Remarks
 null

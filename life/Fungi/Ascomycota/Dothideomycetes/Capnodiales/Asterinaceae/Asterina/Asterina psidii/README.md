@@ -1,5 +1,4 @@
-Asterina psidii R.W. Ryan SPECIES
-=======
+# Asterina psidii R.W. Ryan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hainesia Ellis & Saccardo, 1884 GENUS
-=======
+# Hainesia Ellis & Saccardo, 1884 GENUS
 
 #### Status
 ACCEPTED

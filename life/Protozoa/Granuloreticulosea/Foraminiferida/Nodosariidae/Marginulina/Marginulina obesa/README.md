@@ -1,5 +1,4 @@
-Marginulina obesa Cushman SPECIES
-=======
+# Marginulina obesa Cushman SPECIES
 
 #### Status
 ACCEPTED

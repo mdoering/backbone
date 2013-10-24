@@ -1,5 +1,4 @@
-Synchaetophagus Apstein GENUS
-=======
+# Synchaetophagus Apstein GENUS
 
 #### Status
 ACCEPTED

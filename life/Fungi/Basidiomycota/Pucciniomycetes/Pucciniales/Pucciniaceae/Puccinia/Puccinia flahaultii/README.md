@@ -1,8 +1,7 @@
-Puccinia flahaulti Vienn.-Bourg. SPECIES
-=======
+# Puccinia flahaultii Vienn.-Bourg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Puccinia flahaulti Vienn.-Bourg.
+Puccinia flahaultii Vienn.-Bourg.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Aspicilia narssaquensis (Lynge) J.W. Thomson SPECIES
-=======
+# Aspicilia narssaquensis (Lynge) J.W. Thomson SPECIES
 
 #### Status
 ACCEPTED

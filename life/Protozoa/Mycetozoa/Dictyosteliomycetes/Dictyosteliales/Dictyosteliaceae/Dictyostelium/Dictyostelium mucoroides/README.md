@@ -1,17 +1,16 @@
-Dictyostelium mucoroides var. stoloniferum Cavender & Raper VARIETY
-=======
+# Dictyostelium mucoroides Bref., 1869 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Am. J. Bot. 55(4): 510 (1968)
+Abh. senckenb. naturforsch. Ges. 7: 85 (1869)
 
 #### Original name
-Dictyostelium mucoroides var. stoloniferum Cavender & Raper
+Dictyostelium mucoroides Bref., 1869
 
 ### Remarks
 null

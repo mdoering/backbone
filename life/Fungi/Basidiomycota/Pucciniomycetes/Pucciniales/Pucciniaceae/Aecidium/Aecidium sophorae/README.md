@@ -1,5 +1,4 @@
-Aecidium sophorae Kusano SPECIES
-=======
+# Aecidium sophorae Kusano SPECIES
 
 #### Status
 ACCEPTED

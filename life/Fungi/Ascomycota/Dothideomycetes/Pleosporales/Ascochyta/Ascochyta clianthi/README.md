@@ -1,5 +1,4 @@
-Ascochyta clianthi Tassi SPECIES
-=======
+# Ascochyta clianthi Tassi SPECIES
 
 #### Status
 ACCEPTED

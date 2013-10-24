@@ -1,5 +1,4 @@
-Spongiostroma G. Gürich, 1906 GENUS
-=======
+# Spongiostroma G. Gürich, 1906 GENUS
 
 #### Status
 ACCEPTED

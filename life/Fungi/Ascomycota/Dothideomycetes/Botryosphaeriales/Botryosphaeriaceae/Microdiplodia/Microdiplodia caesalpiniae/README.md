@@ -1,5 +1,4 @@
-Microdiplodia caesalpiniae Gucevic SPECIES
-=======
+# Microdiplodia caesalpiniae Gucevic SPECIES
 
 #### Status
 ACCEPTED

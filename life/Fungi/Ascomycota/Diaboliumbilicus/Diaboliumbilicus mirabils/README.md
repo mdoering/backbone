@@ -1,5 +1,4 @@
-Diaboliumbilicus mirabils I. Hino & Katum. SPECIES
-=======
+# Diaboliumbilicus mirabils I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

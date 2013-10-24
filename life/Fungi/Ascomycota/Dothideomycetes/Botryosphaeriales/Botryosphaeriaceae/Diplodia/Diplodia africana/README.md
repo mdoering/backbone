@@ -1,5 +1,4 @@
-Diplodia africana Damm & Crous SPECIES
-=======
+# Diplodia africana Damm & Crous SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphis xanthospora Müll. Arg. SPECIES
-=======
+# Graphis xanthospora Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudoleptogium GENUS
-=======
+# Pseudoleptogium GENUS
 
 #### Status
 ACCEPTED

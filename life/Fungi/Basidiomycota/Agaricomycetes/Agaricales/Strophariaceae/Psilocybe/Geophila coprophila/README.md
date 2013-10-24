@@ -1,5 +1,4 @@
-Geophila coprophila (Bull.) SPECIES
-=======
+# Geophila coprophila (Bull.) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cantharellus rugosus Cleland SPECIES
-=======
+# Cantharellus rugosus Cleland SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Synechoblastus abbreviatus (Flot.) Zwackh SPECIES
-=======
+# Synechoblastus abbreviatus (Flot.) Zwackh SPECIES
 
 #### Status
 ACCEPTED

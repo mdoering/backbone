@@ -1,5 +1,4 @@
-Xanthoparmelia scutariae T. H. Nash & Elix SPECIES
-=======
+# Xanthoparmelia scutariae T. H. Nash & Elix SPECIES
 
 #### Status
 ACCEPTED

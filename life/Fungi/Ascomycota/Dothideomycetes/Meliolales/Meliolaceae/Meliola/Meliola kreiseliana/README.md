@@ -1,5 +1,4 @@
-Meliola kreiseliana Schmied. SPECIES
-=======
+# Meliola kreiseliana Schmied. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Legionella feeleii Herwaldt et al., 1984 SPECIES
-=======
+# Legionella feeleii Herwaldt et al., 1984 SPECIES
 
 #### Status
 ACCEPTED

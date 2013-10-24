@@ -1,8 +1,7 @@
-Boletus sudanicus Har. & Pat., 1909 SPECIES
-=======
+# Phaeogyroporus sudanicus (Har. & Pat.) Singer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

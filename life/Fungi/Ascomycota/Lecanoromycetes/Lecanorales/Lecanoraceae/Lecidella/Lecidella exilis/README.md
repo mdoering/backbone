@@ -1,5 +1,4 @@
-Lecidella exilis Körb. SPECIES
-=======
+# Lecidella exilis Körb. SPECIES
 
 #### Status
 ACCEPTED

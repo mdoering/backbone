@@ -1,17 +1,16 @@
-Ochrolechia subpallescens f. subpallescens FORM
-=======
+# Ochrolechia subpallescens Verseghy SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Beih. Nova Hedwigia 1: 118 (1962)
 
 #### Original name
-Ochrolechia subpallescens f. subpallescens
+Ochrolechia subpallescens Verseghy
 
 ### Remarks
 null

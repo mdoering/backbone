@@ -1,5 +1,4 @@
-Tripospyrella Haeckel, 1887 GENUS
-=======
+# Tripospyrella Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

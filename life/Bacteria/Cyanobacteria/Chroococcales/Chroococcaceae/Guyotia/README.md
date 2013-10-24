@@ -1,5 +1,4 @@
-Guyotia W.Schmidle, 1905 GENUS
-=======
+# Guyotia W.Schmidle, 1905 GENUS
 
 #### Status
 ACCEPTED

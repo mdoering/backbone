@@ -1,5 +1,4 @@
-Uniporata sinuata Lopukhin, 1974 SPECIES
-=======
+# Uniporata sinuata Lopukhin, 1974 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diluviicola capensis K.D. Hyde, S.W. Wong & E.B.G. Jones, 1998 SPECIES
-=======
+# Diluviicola capensis K.D. Hyde, S.W. Wong & E.B.G. Jones, 1998 SPECIES
 
 #### Status
 ACCEPTED

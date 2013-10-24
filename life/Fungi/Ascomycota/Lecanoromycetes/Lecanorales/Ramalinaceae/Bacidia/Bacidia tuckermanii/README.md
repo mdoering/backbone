@@ -1,5 +1,4 @@
-Bacidia tuckermanii R. Sant. SPECIES
-=======
+# Bacidia tuckermanii R. Sant. SPECIES
 
 #### Status
 ACCEPTED

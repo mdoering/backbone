@@ -1,5 +1,4 @@
-Cortinarius primotectus Rob. Henry SPECIES
-=======
+# Cortinarius primotectus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

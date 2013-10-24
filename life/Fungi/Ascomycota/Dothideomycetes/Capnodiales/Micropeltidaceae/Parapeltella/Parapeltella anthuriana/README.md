@@ -1,5 +1,4 @@
-Parapeltella anthuriana var. anthuriana VARIETY
-=======
+# Parapeltella anthuriana Bat. & Nascim. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Publções Inst. Micol. Recife 56: 281 (1959)
 
 #### Original name
-Parapeltella anthuriana var. anthuriana
+Parapeltella anthuriana Bat. & Nascim.
 
 ### Remarks
 null

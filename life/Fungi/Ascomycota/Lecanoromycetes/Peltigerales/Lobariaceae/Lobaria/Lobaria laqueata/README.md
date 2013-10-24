@@ -1,5 +1,4 @@
-Lobaria laqueata (Wulf.) Hoffm. SPECIES
-=======
+# Lobaria laqueata (Wulf.) Hoffm. SPECIES
 
 #### Status
 ACCEPTED

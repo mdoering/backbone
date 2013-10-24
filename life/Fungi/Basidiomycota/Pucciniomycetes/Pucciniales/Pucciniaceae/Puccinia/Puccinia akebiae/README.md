@@ -1,5 +1,4 @@
-Puccinia akebiae Y.Z. Wang & S.X. Wei SPECIES
-=======
+# Puccinia akebiae Y.Z. Wang & S.X. Wei SPECIES
 
 #### Status
 ACCEPTED

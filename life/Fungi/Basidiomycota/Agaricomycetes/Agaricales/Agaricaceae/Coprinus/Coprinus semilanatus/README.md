@@ -1,5 +1,4 @@
-Coprinus semilanatus Peck, 1871 SPECIES
-=======
+# Coprinus semilanatus Peck, 1871 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Orchesellaria mauguioi Manier, 1965 SPECIES
-=======
+# Orchesellaria mauguioi Manier, 1965 SPECIES
 
 #### Status
 ACCEPTED

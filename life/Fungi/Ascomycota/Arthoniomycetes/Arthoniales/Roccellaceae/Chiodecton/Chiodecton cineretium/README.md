@@ -1,5 +1,4 @@
-Chiodecton cineretium var. cineretium (Ach.) Vain. VARIETY
-=======
+# Chiodecton cineretium (Ach.) Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Chiodecton cineretium var. cineretium (Ach.) Vain.
+Parmelia cineritia Ach.
 
 ### Remarks
 null

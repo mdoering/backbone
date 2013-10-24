@@ -1,5 +1,4 @@
-Aspicilia alexandri R. Sant. SPECIES
-=======
+# Aspicilia alexandri R. Sant. SPECIES
 
 #### Status
 ACCEPTED

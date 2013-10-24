@@ -1,5 +1,4 @@
-Desulfurobacterium GENUS
-=======
+# Desulfurobacterium GENUS
 
 #### Status
 ACCEPTED

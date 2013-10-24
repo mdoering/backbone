@@ -1,5 +1,4 @@
-Agaricus phiala L. SPECIES
-=======
+# Agaricus phiala L. SPECIES
 
 #### Status
 ACCEPTED
